@@ -1,0 +1,311 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Ketanah Becomes Adult",
+    "candidates": [
+      "Rav v. Shmuel Setup",
+      "Raba: Tnai Always Frames",
+      "Ketanah Becomes Adult",
+      "Sex After Ketanah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together constitute the baraita about the minor girl divorced and remarried as a minor vs. as an adult, which is precisely the content described in the 'Ketanah Becomes Adult' prose \u2014 including the geirushin gemurin / hazarah einah gemurah distinction and the o choletzet o mityabemes ruling when she matures, matching the current placement exactly.",
+      "chosen_heading": "Ketanah Becomes Adult",
+      "current_heading": "Ketanah Becomes Adult",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Sex After Ketanah",
+    "candidates": [
+      "Sex After Ketanah",
+      "Tnai vs. Ta'ut Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Eliezer's ruling of choletzet ve-lo mityabemes and raises the objection that this case resembles a ta'ut concerning one woman, which directly corresponds to the prose in 'Sex After Ketanah' discussing Rabbi Eliezer's dissent and the precautionary ruling in the gadlah etzlo context.",
+      "chosen_heading": "Sex After Ketanah",
+      "current_heading": "Sex After Ketanah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Tnai vs. Ta'ut Cases",
+    "candidates": [
+      "Tnai vs. Ta'ut Cases",
+      "Rav Acha: Tnai + Sex",
+      "Chalitzah Mutaat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the ketanah debate in terms of awareness and intent (gamar u'ba'al leshum kiddushin vs. ada'ata de-kiddushin rishonim ba'al), which is precisely what the prose under 'Tnai vs. Ta'ut Cases' discusses in detail.",
+      "chosen_heading": "Tnai vs. Ta'ut Cases",
+      "current_heading": "Tnai vs. Ta'ut Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Chalitzah Mutaat",
+    "candidates": [
+      "Rav Acha: Tnai + Sex",
+      "Chalitzah Mutaat",
+      "Yochanan: Intent Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rav Acha bar Yaakov/Rabbi Yochanan teaching about betrothal with a condition and intercourse (which belongs under heading 0) AND the chalitzah mutaat challenge, but heading 0's prose explicitly anticipates the immediate challenge that follows, while heading 1 describes only the chalitzah mutaat content \u2014 the full passage including the opening statement belongs under heading 0 which covers the Rav Acha tnai+ba'al ruling and notes the Gemara immediately introduces a challenge.",
+      "chosen_heading": "Rav Acha: Tnai + Sex",
+      "current_heading": "Chalitzah Mutaat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Yochanan: Intent Required",
+    "candidates": [
+      "Chalitzah Mutaat",
+      "Yochanan: Intent Required",
+      "Acts Override Tnai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yochanan's ruling that chalitzah requires mutual intent and his redefinition of chalitzah mutaat as the case of a condition of two hundred zuz, which is precisely what the prose of heading 1 ('Yochanan: Intent Required') describes.",
+      "chosen_heading": "Yochanan: Intent Required",
+      "current_heading": "Yochanan: Intent Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Acts Override Tnai",
+    "candidates": [
+      "Acts Override Tnai",
+      "Tosafot: Shaliach Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle that performing an act waives one's condition and applies it to the case of bia overriding tnai in kiddushin, which is precisely what the 'Acts Override Tnai' section's prose discusses.",
+      "chosen_heading": "Acts Override Tnai",
+      "current_heading": "Acts Override Tnai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Tosafot: Shaliach Test",
+    "candidates": [
+      "Tosafot: Shaliach Test",
+      "Empowerment Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present exactly the content described in the 'Tosafot: Shaliach Test' prose \u2014 the student's question about the source of conditions, the derivation from Bnei Gad u'Bnei Reuven, and the specific rule that a condition is valid only when the act can be performed through an agent (shaliach), which is precisely what that section's prose elaborates.",
+      "chosen_heading": "Tosafot: Shaliach Test",
+      "current_heading": "Tosafot: Shaliach Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Empowerment Logic",
+    "candidates": [
+      "Empowerment Logic",
+      "Bia & Tnai Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the difficulty about *bia* (sexual intercourse) being unable to be performed through an agent yet still being a valid condition, which is precisely the question that Candidate 1 ('Bia & Tnai Exception') addresses and resolves.",
+      "chosen_heading": "Bia & Tnai Exception",
+      "current_heading": "Empowerment Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Bia & Tnai Exception",
+    "candidates": [
+      "Empowerment Logic",
+      "Bia & Tnai Exception",
+      "Rav Yehuda: All Need Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly provides the Gemara's answer about why tnai works for kiddushei bia despite bia being non-delegable \u2014 the hekkesh of havayos \u2014 which is precisely what the 'Bia & Tnai Exception' prose discusses.",
+      "chosen_heading": "Bia & Tnai Exception",
+      "current_heading": "Bia & Tnai Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rav Yehuda: All Need Get",
+    "candidates": [
+      "Rav Yehuda: All Need Get",
+      "Rav Yosef: Pruta Kidushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Ulla bar Abba citing Ulla citing Rabbi Elazar ruling that all three cases (milve, tnai, pachos mi-shaveh perutah) require a get after subsequent relations, which precisely matches the prose under 'Rav Yehuda: All Need Get' describing this universal-agreement ruling across all three categories.",
+      "chosen_heading": "Rav Yehuda: All Need Get",
+      "current_heading": "Rav Yehuda: All Need Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rav Yosef: Pruta Kidushin",
+    "candidates": [
+      "Rav Yosef: Pruta Kidushin",
+      "Rav Kahana Rejects Raba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Yosef bar Abba citing Rabbi Ami's ruling about betrothal with less than a peruta followed by intercourse requiring a get, which is precisely what the 'Rav Yosef: Pruta Kidushin' section's prose discusses.",
+      "chosen_heading": "Rav Yosef: Pruta Kidushin",
+      "current_heading": "Rav Yosef: Pruta Kidushin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rav Kahana Rejects Raba",
+    "candidates": [
+      "Rav Kahana Rejects Raba",
+      "Ma'aseh: No Power",
+      "Kiddushei Ta'ut Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Kahana's ruling AND the ma'aseh/no-power statement as a single unit, and while section 0 covers only the ruling aspect, section 1's prose explicitly discusses the 'lo hayah koach ba-chachamim' incident which is the second half of this passage and is the more distinctive/specific content that identifies its true home.",
+      "chosen_heading": "Ma'aseh: No Power",
+      "current_heading": "Rav Kahana Rejects Raba",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Kiddushei Ta'ut Woman",
+    "candidates": [
+      "Ma'aseh: No Power",
+      "Kiddushei Ta'ut Woman",
+      "Vow Annulment Works",
+      "Sage vs. Doctor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yehuda citing Shmuel in the name of Rabbi Yishmael about kiddushei ta'ut \u2014 a woman whose betrothal was a mistaken betrothal may refuse and leave even with a child on her shoulder \u2014 which is precisely what candidate 1's prose describes as the tannaitic position on kiddushei ta'ut.",
+      "chosen_heading": "Kiddushei Ta'ut Woman",
+      "current_heading": "Kiddushei Ta'ut Woman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Sage vs. Doctor",
+    "candidates": [
+      "Vow Annulment Works",
+      "Sage vs. Doctor",
+      "Contradictory Baraita",
+      "Raba: Meir v. Eliezer",
+      "Remarriage Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita's content \u2014 introducing the ruling that going to a sage results in betrothal while going to a doctor does not, and explaining the retroactive vs. prospective distinction \u2014 is precisely what heading 0 ('Vow Annulment Works') describes in its prose, which summarizes this exact baraita and its two cases before the Gemara's explanation.",
+      "chosen_heading": "Vow Annulment Works",
+      "current_heading": "Sage vs. Doctor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Remarriage Prohibition",
+    "candidates": [
+      "Contradictory Baraita",
+      "Raba: Meir v. Eliezer",
+      "Remarriage Prohibition",
+      "Rashi: Unconditional",
+      "Meir: Sage Case",
+      "Meir: Logic",
+      "Eliezer: No Bizayon",
+      "Applied to Tnai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous sugya of Rava's resolution \u2014 item 1 states it, items 2-3 provide the Mishnah that explains the underlying Rabbi Meir/Rabbi Elazar dispute \u2014 which matches candidate 1's prose about Rava resolving the contradiction by attributing the baraitot to Rabbi Meir and Rabbi Elazar and explaining the bizayon principle.",
+      "chosen_heading": "Raba: Meir v. Eliezer",
+      "current_heading": "Remarriage Prohibition",
+      "moved": true
+    }
+  }
+]

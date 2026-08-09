@@ -1,0 +1,249 @@
+[
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Lungs protected by ribs",
+    "candidates": [
+      "Inkurei birds identified",
+      "Rava checks sinew cluster",
+      "Sinew cluster anatomy",
+      "Rav Yehuda's teaching",
+      "Application to birds",
+      "Dislocated wing",
+      "Chizkiya vs. Yochanan",
+      "Lungs protected by ribs",
+      "Chizkiya dismissed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Gemara discussion about what Chizkiya means when he says 'a bird has no lungs,' which is precisely what candidate 7 ('Lungs protected by ribs') describes in its prose \u2014 the challenge that birds visibly have lungs, the attempted reinterpretation that lung-tereifot don't apply, the refutation from Levi's teaching, and the final resolution that Chizkiya means the lung need not be checked for falling or singeing because the ribs protect it.",
+      "chosen_heading": "Lungs protected by ribs",
+      "current_heading": "Lungs protected by ribs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Chizkiya dismissed",
+    "candidates": [
+      "Chizkiya dismissed",
+      "Rav Huna: kosher",
+      "Different traditions",
+      "Rivers metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains precisely the content described in candidate 0's prose: the Gemara's inference that Chizkiya held birds have no lungs, followed by the Western tradition in Rabbi Yosei b'Rabbi Chanina's name declaring Chizkiya simply unfamiliar with chickens \u2014 which is exactly what candidate 0 discusses.",
+      "chosen_heading": "Chizkiya dismissed",
+      "current_heading": "Chizkiya dismissed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Rivers metaphor",
+    "candidates": [
+      "Rav Huna: kosher",
+      "Different traditions",
+      "Rivers metaphor",
+      "Rabbi Abba's inquiry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three elements \u2014 Rav Huna's ruling (kosher), the conflicting Pumbedita tradition (tereifa), and the 'nahara nahara' response \u2014 and candidate 0's prose explicitly introduces this entire sequence as a unit returning to the dislocated leg question, while candidates 1 and 2 split the passage artificially across multiple headings.",
+      "chosen_heading": "Rav Huna: kosher",
+      "current_heading": "Rivers metaphor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Rabbi Abba's inquiry",
+    "candidates": [
+      "Rivers metaphor",
+      "Rabbi Abba's inquiry",
+      "Dislocated vs. severed",
+      "Rav's explicit rule",
+      "Full recapitulation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the continuous narrative of Rabbi Abba's encounter with Rav Yirmiya bar Abba \u2014 the challenge, the counter-appeal to the mishna, the apparent contradiction in Rav's rulings, the silence, and the proposed resolution \u2014 which is precisely what candidate 1 ('Rabbi Abba's inquiry') describes in its prose.",
+      "chosen_heading": "Rabbi Abba's inquiry",
+      "current_heading": "Rabbi Abba's inquiry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Full recapitulation",
+    "candidates": [
+      "Dislocated vs. severed",
+      "Rav's explicit rule",
+      "Full recapitulation",
+      "Zeira's traditions",
+      "Chanina's chicken"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Abba's full recapitulation to Rabbi Zeira of everything that transpired in Babylonia \u2014 the direct questioning of Rav Huna, the encounter with Rabbi Yirmiya bar Abba, the contradiction within Rav's teachings, the dislocated vs. severed distinction, and Rav's explicit ruling \u2014 which is precisely what the 'Full recapitulation' prose describes as its content.",
+      "chosen_heading": "Full recapitulation",
+      "current_heading": "Full recapitulation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Chanina's chicken",
+    "candidates": [
+      "Zeira's traditions",
+      "Chanina's chicken",
+      "Widespread practice",
+      "Trachea hole sizes",
+      "Sheep survival case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Chanina's chicken with a dislocated thigh, Rabbi Yehuda HaNasi's ruling permitting it, and Rabbi Chanina's use of the preserved hen as a teaching tool \u2014 exactly what the 'Chanina's chicken' section's prose describes.",
+      "chosen_heading": "Chanina's chicken",
+      "current_heading": "Chanina's chicken",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Sheep survival case",
+    "candidates": [
+      "Widespread practice",
+      "Trachea hole sizes",
+      "Sheep survival case",
+      "Twelve-month rule",
+      "Down feather test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the concluding halakhic ruling that overrides all preceding discussion \u2014 item 1 opens with 'the halakha is not in accordance with any of these statements' and item 2 completes the reasoning via the twelve-month principle \u2014 which matches heading 0 ('Widespread practice') whose prose explicitly states 'leis hilchasa k'chol hani shmaatsa \u2014 we do not rule in accordance with any of this entire preceding discussion.'",
+      "chosen_heading": "Widespread practice",
+      "current_heading": "Sheep survival case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Down feather test",
+    "candidates": [
+      "Twelve-month rule",
+      "Down feather test",
+      "Chicken survives",
+      "Treifah improving"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Shimon ben Chalafta's empirical test of Rabbi Yehuda's down-feather ruling, which is precisely what the 'Down feather test' section's prose introduces and discusses.",
+      "chosen_heading": "Down feather test",
+      "current_heading": "Down feather test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Treifah improving",
+    "candidates": [
+      "Chicken survives",
+      "Treifah improving",
+      "Proverbs experiment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge about whether Rabbi Yehuda holds that a tereifa can improve and the rebuttal that the very feature defining the tereifa status was restored superior to its original state, which is precisely what the 'Treifah improving' section's prose describes.",
+      "chosen_heading": "Treifah improving",
+      "current_heading": "Treifah improving",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Proverbs experiment",
+    "candidates": [
+      "Proverbs experiment",
+      "Scout ant tagged"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Shimon ben \u1e24alafta's motivation to test the Proverbs verse about ants having no king, which is exactly what the 'Proverbs experiment' section's prose discusses.",
+      "chosen_heading": "Proverbs experiment",
+      "current_heading": "Proverbs experiment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Scout ant tagged",
+    "candidates": [
+      "Scout ant tagged",
+      "Scout killed",
+      "Challenges to proof",
+      "Trust Solomon",
+      "Tosafot explains",
+      "Student mocks sages",
+      "Authority vs. observation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire experiment from spreading the cloak through tagging the scout ant and its report of shade \u2014 matching heading 0's prose about the summer setting, the cloak-as-shade, and the tagging of the scout \u2014 while heading 1 covers only the killing and the inference, which appear in later text not included here.",
+      "chosen_heading": "Scout ant tagged",
+      "current_heading": "Scout ant tagged",
+      "moved": false
+    }
+  }
+]

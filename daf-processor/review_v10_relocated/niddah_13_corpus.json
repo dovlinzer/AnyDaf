@@ -1,0 +1,467 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Kol Hayad Hamarbeh",
+    "candidates": [
+      "Kol Hayad Hamarbeh",
+      "Hargasha Distinction",
+      "Rashi on Hargasha",
+      "Female Mazria",
+      "Women Off Radar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself ('kol hayad hamarbeh livdok b'nashim meshubachas, uv'anashim tikatzeitz'), which is precisely what the 'Kol Hayad Hamarbeh' section's prose introduces and explains.",
+      "chosen_heading": "Kol Hayad Hamarbeh",
+      "current_heading": "Kol Hayad Hamarbeh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Women Off Radar",
+    "candidates": [
+      "Hargasha Distinction",
+      "Rashi on Hargasha",
+      "Female Mazria",
+      "Women Off Radar",
+      "Tosafot Pru Urvu",
+      "Women Destroy Seed",
+      "Moch Diaphragm",
+      "Nature Zera",
+      "Female Masturbation",
+      "Forbidden Checking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text itself introducing the hargasha distinction between women and men, which is precisely what heading 0 'Hargasha Distinction' describes in its prose.",
+      "chosen_heading": "Hargasha Distinction",
+      "current_heading": "Women Off Radar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Forbidden Checking",
+    "candidates": [
+      "Tosafot Pru Urvu",
+      "Women Destroy Seed",
+      "Moch Diaphragm",
+      "Nature Zera",
+      "Female Masturbation",
+      "Forbidden Checking",
+      "Ziva Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the Mishnah specifies 'diligent' examination and clarifies that the qualifier applies to women while men should not examine even occasionally \u2014 precisely what the prose of 'Forbidden Checking' describes.",
+      "chosen_heading": "Forbidden Checking",
+      "current_heading": "Forbidden Checking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Ziva Exception",
+    "candidates": [
+      "Ziva Exception",
+      "Cloth vs. Hand",
+      "Abaye Rava Holding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita explicitly contrasts the rule against self-examination for seminal emission with the praiseworthy status of examining for zov/ziva, which is precisely what the 'Ziva Exception' section discusses.",
+      "chosen_heading": "Ziva Exception",
+      "current_heading": "Ziva Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Abaye Rava Holding",
+    "candidates": [
+      "Cloth vs. Hand",
+      "Abaye Rava Holding",
+      "Eye-Tears Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain about examining oneself with cloth/stone, the baraita permitting cloth, Abaye's resolution (thick cloth), and where Abaye's ruling was originally stated \u2014 the cloth vs. hand examination topic \u2014 which is precisely what candidate 0 ('Cloth vs. Hand') describes, whereas candidate 1 begins with the teruma/holding scenario that these items are merely tracing back to as the source of Abaye's ruling.",
+      "chosen_heading": "Cloth vs. Hand",
+      "current_heading": "Abaye Rava Holding",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Eye-Tears Analogy",
+    "candidates": [
+      "Abaye Rava Holding",
+      "Eye-Tears Analogy",
+      "Brings Flood",
+      "Urine Splatter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita challenge to Rava (the eye-tears analogy) and Rava's response, which is precisely what candidate 1 'Eye-Tears Analogy' describes in its prose.",
+      "chosen_heading": "Eye-Tears Analogy",
+      "current_heading": "Eye-Tears Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Urine Splatter",
+    "candidates": [
+      "Brings Flood",
+      "Urine Splatter",
+      "Wickedness Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Eliezer's statement about bringing a flood to the world AND the Rabbis' objection about urine splatter \u2014 both parts together belong under 'Brings Flood' since that heading's prose discusses both Rabbi Eliezer's statement and the Rabbis' response, while 'Urine Splatter' only covers the Rabbis' counter-argument which is only the second half of this passage.",
+      "chosen_heading": "Brings Flood",
+      "current_heading": "Urine Splatter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Wickedness Priority",
+    "candidates": [
+      "Urine Splatter",
+      "Wickedness Priority",
+      "Alternative Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Eliezer's direct statement that it is preferable for his children to be considered mamzerim than for him to be wicked before God, which is precisely what the 'Wickedness Priority' section's prose discusses and analyzes.",
+      "chosen_heading": "Wickedness Priority",
+      "current_heading": "Wickedness Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Alternative Solutions",
+    "candidates": [
+      "Alternative Solutions",
+      "Death Penalty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's discussion of Rabbi Eliezer's practical solutions and the ordering of his replies, which is exactly what the 'Alternative Solutions' prose describes \u2014 the baraita offering elevated ground/loose soil, the Rabbis pressing him about what happens when neither is available, and his final stark answer.",
+      "chosen_heading": "Alternative Solutions",
+      "current_heading": "Alternative Solutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Death Penalty",
+    "candidates": [
+      "Death Penalty",
+      "Onan Misreading",
+      "Homunculus Murder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rabbi Yochanan's statement about zera levatala deserving death and the Onan proof-text, which is precisely what the 'Death Penalty' section's prose describes and analyzes.",
+      "chosen_heading": "Death Penalty",
+      "current_heading": "Death Penalty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Homunculus Murder",
+    "candidates": [
+      "Onan Misreading",
+      "Homunculus Murder",
+      "Idolatry Theme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Yitz\u1e25ak and Rabbi Ami's statement comparing wasting seed to shedding blood with the Isaiah proof-text and the sho\u1e25atei/so\u1e25atei reading, which is precisely what the 'Homunculus Murder' section's prose describes and analyzes.",
+      "chosen_heading": "Homunculus Murder",
+      "current_heading": "Homunculus Murder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Idolatry Theme",
+    "candidates": [
+      "Idolatry Theme",
+      "Shmuel Permits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Asi's statement connecting the phrase 'under every leafy tree' to idolatry, which is precisely what the 'Idolatry Theme' prose discusses.",
+      "chosen_heading": "Idolatry Theme",
+      "current_heading": "Idolatry Theme",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Shmuel Permits",
+    "candidates": [
+      "Shmuel Permits",
+      "Fear Distraction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the narrative of Rav Yehuda and Shmuel on the roof and the immediate challenge from Rabbi Eliezer's baraita \u2014 are explicitly discussed together in the 'Shmuel Permits' prose, which covers exactly this story and the question it raises.",
+      "chosen_heading": "Shmuel Permits",
+      "current_heading": "Shmuel Permits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Fear Distraction",
+    "candidates": [
+      "Fear Distraction",
+      "Piety Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Abaye's argument using the boleshet mishna to explain that fear prevents intentional action, which exactly matches the 'Fear Distraction' section's prose about the invading army analogy and the principle that fear disrupts the mental state required for arousal.",
+      "chosen_heading": "Fear Distraction",
+      "current_heading": "Fear Distraction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Piety Context",
+    "candidates": [
+      "Piety Context",
+      "Married Status",
+      "Below Crown"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Piety Context",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the various sources of fear/awe in Rav Yehuda's case, culminating in Shmuel's declaration about his extraordinary piety \u2014 exactly what the 'Piety Context' prose describes.",
+      "second_heading": "Married Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the entirely separate ruling that married status provides its own basis for leniency, which is precisely what the 'Married Status' prose discusses.",
+      "current_heading": "Piety Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Below Crown",
+    "candidates": [
+      "Married Status",
+      "Below Crown",
+      "Maksheh Atzmo",
+      "Evil Inclination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about assisting with testicles and Rabbi Abbahu/Rabbi Yochanan's ruling about the corona demarcation, which is precisely what the 'Below Crown' prose describes as Shmuel's ruling to Rav Yehuda regarding the anatomical limit from the crown downward being permitted.",
+      "chosen_heading": "Below Crown",
+      "current_heading": "Below Crown",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Evil Inclination",
+    "candidates": [
+      "Maksheh Atzmo",
+      "Evil Inclination",
+      "Sexual Thought"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav's statement about nidui for deliberate arousal and Rabbi Ami's explanation about the yetzer hara's craft, which together correspond exactly to the prose in heading 1 ('Evil Inclination'), while heading 0 only covers the first half and heading 2 covers different material entirely.",
+      "chosen_heading": "Evil Inclination",
+      "current_heading": "Evil Inclination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Sexual Thought",
+    "candidates": [
+      "Sexual Thought",
+      "Menahef Ba-Yad",
+      "IVF Problem",
+      "Any Limb"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly concerns Rabbi Ami's statement about bringing oneself to hirhur (arousal/sexual thought) and being excluded from God's presence, which is precisely what the 'Sexual Thought' section's prose discusses.",
+      "chosen_heading": "Sexual Thought",
+      "current_heading": "Sexual Thought",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Any Limb",
+    "candidates": [
+      "Menahef Ba-Yad",
+      "IVF Problem",
+      "Any Limb",
+      "Converts Blemish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rabbi Elazar statement and the school of Rabbi Yishmael teaching that heading 0 ('Menahef Ba-Yad') explicitly discusses, and the current placement under heading 2 ('Any Limb') splits what is a single continuous Talmudic passage across two sections.",
+      "chosen_heading": "Menahef Ba-Yad",
+      "current_heading": "Any Limb",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Converts Blemish",
+    "candidates": [
+      "Any Limb",
+      "Converts Blemish",
+      "Children Zera"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about converts and those who play with children delaying the Messiah, and specifically focuses on the convert question (Rabbi \u1e24elbo's statement), which matches exactly the 'Converts Blemish' section's prose about geirim and Rabbi Chelbo's position.",
+      "chosen_heading": "Converts Blemish",
+      "current_heading": "Converts Blemish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Children Zera",
+    "candidates": [
+      "Children Zera",
+      "Young Girls Souls",
+      "All Souls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses homosexuality (mishkav zachar) being punishable by stoning and derech evarim (sexual contact via other limbs), which directly corresponds to the 'Children Zera'' section's prose about the Gemara dismissing mishkav zachar as benei sekila and reinterpreting the act as derech evarim.",
+      "chosen_heading": "Children Zera",
+      "current_heading": "Children Zera",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "All Souls",
+    "candidates": [
+      "Young Girls Souls",
+      "All Souls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the concept of marrying minor girls who cannot bear children and then cites Rabbi Yosei's teaching as its supporting rationale \u2014 this unit belongs under 'Young Girls Souls' where the prose introduces the minor-girls issue, not under 'All Souls' which discusses the eschatological implications afterward.",
+      "chosen_heading": "Young Girls Souls",
+      "current_heading": "All Souls",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,395 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Three Criteria",
+    "candidates": [
+      "Five Chapters Intro",
+      "Rishonim & Sources",
+      "Three Criteria",
+      "Psul vs. Takanta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the opening Mishna of Sukkah listing the three invalidity criteria (height over twenty amos, less than ten handbreadths, fewer than three walls, shade less than sun), which is precisely what candidate 2 'Three Criteria' discusses in its prose.",
+      "chosen_heading": "Three Criteria",
+      "current_heading": "Three Criteria",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Psul vs. Takanta",
+    "candidates": [
+      "Psul vs. Takanta",
+      "Rashi: Reality Layer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mavoi mishna, the comparative question (psulah vs. takanta), and the answer (de'oraisa vs. derabbanan) \u2014 are precisely what candidate 0's prose describes as the content of that section.",
+      "chosen_heading": "Psul vs. Takanta",
+      "current_heading": "Psul vs. Takanta",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Rashi: Reality Layer",
+    "candidates": [
+      "Rashi: Reality Layer",
+      "Tosafot: Brevity",
+      "Rava: Awareness"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tosafot: Brevity",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Tosafot 'brevity/conciseness' explanation \u2014 that sukka has many parameters so the mishna says 'invalid' while mavoi has few so it says 'fix it' \u2014 which matches exactly the Tosafot: Brevity prose.",
+      "second_heading": "Rava: Awareness",
+      "second_confidence": "high",
+      "second_reason": "Item 2 ('From where are these matters derived?') opens the Gemara's biblical derivation of the twenty-cubit rule, which is precisely what the Rava: Awareness prose discusses.",
+      "current_heading": "Rashi: Reality Layer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rava: Awareness",
+    "candidates": [
+      "Tosafot: Brevity",
+      "Rava: Awareness",
+      "Rav Zeira: Shade"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabba's derivation from the verse about generations knowing they dwelt in sukkot, directly matching the 'Rava: Awareness' section's prose which explicitly discusses this same source, verse, and reasoning about the eye not perceiving the sechach above twenty cubits.",
+      "chosen_heading": "Rava: Awareness",
+      "current_heading": "Rava: Awareness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Rav Zeira: Shade",
+    "candidates": [
+      "Rav Zeira: Shade",
+      "Abaye: Mountains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's derivation from Isaiah 4:6 about shade and the twenty-cubit maximum, which is precisely what the prose under 'Rav Zeira: Shade' discusses in detail.",
+      "chosen_heading": "Rav Zeira: Shade",
+      "current_heading": "Rav Zeira: Shade",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Abaye: Mountains",
+    "candidates": [
+      "Abaye: Mountains",
+      "Zeira: Schach Quality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge about building a sukka in Ashterot Karnayim, which is precisely what the prose under 'Abaye: Mountains' describes.",
+      "chosen_heading": "Abaye: Mountains",
+      "current_heading": "Abaye: Mountains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Zeira: Schach Quality",
+    "candidates": [
+      "Zeira: Schach Quality",
+      "Rava: Temp Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's response distinguishing the Ashterot Karnayim case from the too-tall sukkah based on whether the sechach itself provides shade, which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Zeira: Schach Quality",
+      "current_heading": "Zeira: Schach Quality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rava: Temp Structure",
+    "candidates": [
+      "Rava: Temp Structure",
+      "Abaye: Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's derivation from 'ba-sukkot teshu shivat yamim' establishing the dirat arai/dirat keva distinction, which is precisely what the 'Rava: Temp Structure' section's prose describes.",
+      "chosen_heading": "Rava: Temp Structure",
+      "current_heading": "Rava: Temp Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Abaye: Materials",
+    "candidates": [
+      "Abaye: Materials",
+      "Rava: Dimensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge about steel/iron partitions, which directly matches the 'Abaye: Materials' section prose that explicitly discusses metal walls and the dirat keva/dirat arai distinction from a materials perspective.",
+      "chosen_heading": "Abaye: Materials",
+      "current_heading": "Abaye: Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Rava: Dimensions",
+    "candidates": [
+      "Rava: Dimensions",
+      "Tosafot: Nails",
+      "Tosafot: Non-Permanent",
+      "Rain Sign"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's clarification that the dimension (up to or above twenty cubits) determines temporary vs. permanent status regardless of materials, which is precisely what the 'Rava: Dimensions' section's prose discusses.",
+      "chosen_heading": "Rava: Dimensions",
+      "current_heading": "Rava: Dimensions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Rain Sign",
+    "candidates": [
+      "Tosafot: Nails",
+      "Tosafot: Non-Permanent",
+      "Rain Sign",
+      "Yoshiya: Wall Gap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "These four items explain why each Sage rejected the others' sources for the twenty-amos rule, which is the Gemara's analysis establishing the three distinct rationales (Rabba's awareness argument, Rabbi Zeira's shade argument, Rava's dirat arai argument) \u2014 exactly what the 'Yoshiya: Wall Gap' prose says was established just before examining Rabbi Yoshiyah's ruling.",
+      "chosen_heading": "Yoshiya: Wall Gap",
+      "current_heading": "Rain Sign",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Yoshiya: Wall Gap",
+    "candidates": [
+      "Rain Sign",
+      "Yoshiya: Wall Gap",
+      "Eye Following"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes and asks 'ke-man azla' about Rabbi Yoshiya's ruling regarding walls reaching the sechach, which is exactly what the 'Yoshiya: Wall Gap' section's prose introduces and discusses.",
+      "chosen_heading": "Yoshiya: Wall Gap",
+      "current_heading": "Yoshiya: Wall Gap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Eye Following",
+    "candidates": [
+      "Eye Following",
+      "Huna: Area"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rabba's rationale that the eye does not catch sight of the sechach and how walls reaching the sechach fix this, which is precisely what the 'Eye Following' section's prose discusses.",
+      "chosen_heading": "Eye Following",
+      "current_heading": "Eye Following",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Huna: Area",
+    "candidates": [
+      "Huna: Area",
+      "Shade Proportional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks 'in accordance with whose opinion is Rav Huna's statement' and states the four-by-four cubits area distinction, which is exactly what the 'Huna: Area' prose section discusses.",
+      "chosen_heading": "Huna: Area",
+      "current_heading": "Huna: Area",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Shade Proportional",
+    "candidates": [
+      "Shade Proportional",
+      "Proportionality",
+      "Chana: Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Zeira's principle that the problem is shade from walls vs. sechach, and that a spacious sukka has sechach shade \u2014 exactly what the 'Shade Proportional' section's prose directly explains and expounds upon.",
+      "chosen_heading": "Shade Proportional",
+      "current_heading": "Shade Proportional",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Chana: Minimum",
+    "candidates": [
+      "Proportionality",
+      "Chana: Minimum",
+      "Chicken Coop",
+      "Gemara: Two Models"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara text asking 'ke-man azla' regarding Rav \u1e24anan bar Rabba's statement about the dispute applying only to a sukkah holding rosho ve-rubo ve-shulchano, which is exactly what the 'Chana: Minimum' section's prose explains and discusses.",
+      "chosen_heading": "Chana: Minimum",
+      "current_heading": "Chana: Minimum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Gemara: Two Models",
+    "candidates": [
+      "Chicken Coop",
+      "Gemara: Two Models",
+      "Hilni's High Sukkah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the Gemara's analysis of whether Rav Huna and Rav \u1e24anan bar Rabba dispute the minimum size of a sukkah or the scope of the height debate, which is precisely what the 'Gemara: Two Models' prose describes in detail.",
+      "chosen_heading": "Gemara: Two Models",
+      "current_heading": "Gemara: Two Models",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Hilni's High Sukkah",
+    "candidates": [
+      "Hilni's High Sukkah",
+      "Queen Status",
+      "Seven Sons",
+      "Probability Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete baraita about Queen Helene's high sukkah and its analysis \u2014 the objection (item 1), the incident and Rabbi Yehuda's proof with the responses (item 2), and the Gemara's question about the redundancy of the second argument (item 3) \u2014 which precisely matches the 'Hilni's High Sukkah' section's prose about introducing this baraita as Rabbi Yehuda's proof.",
+      "chosen_heading": "Hilni's High Sukkah",
+      "current_heading": "Hilni's High Sukkah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Probability Logic",
+    "candidates": [
+      "Queen Status",
+      "Seven Sons",
+      "Probability Logic",
+      "Piety Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains the probabilistic reasoning about seven sons making it impossible that none had reached the age of not needing his mother \u2014 exactly what the 'Probability Logic' section's prose discusses.",
+      "chosen_heading": "Probability Logic",
+      "current_heading": "Probability Logic",
+      "moved": false
+    }
+  }
+]

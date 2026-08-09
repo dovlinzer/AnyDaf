@@ -1,0 +1,295 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Ground Leveling",
+    "candidates": [
+      "Daf Context",
+      "Four Categories",
+      "Yereim Position",
+      "Avot & Toldot",
+      "Parallel Avot",
+      "Choresh Definitions",
+      "Ground Leveling",
+      "Filling a Hole",
+      "Digging for Dirt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage contains the baraita about hachoresh vehachofer vehachoretz being one melacha, plus Rav Sheshet and Rava's cases \u2014 the baraita portion belongs under 'Choresh Definitions' whose prose explicitly discusses that exact baraita, and all three teachings flow together as a unit introduced by that baraita.",
+      "chosen_heading": "Choresh Definitions",
+      "current_heading": "Ground Leveling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Digging for Dirt",
+    "candidates": [
+      "Filling a Hole",
+      "Digging for Dirt",
+      "Harvest Terms",
+      "Throwing at Dates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Abba's teaching about digging a hole only for its dirt, which is precisely what the 'Digging for Dirt' section's prose discusses in detail, including the exemption, the melacha she'eina tzricha legufa dispute, and the metakken/mekalekel distinction.",
+      "chosen_heading": "Digging for Dirt",
+      "current_heading": "Digging for Dirt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Throwing at Dates",
+    "candidates": [
+      "Harvest Terms",
+      "Throwing at Dates",
+      "Shinui Objection",
+      "Gathering Definition",
+      "Salt Gathering",
+      "Ground Growth Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Tosefta listing harvest terms (kotzer, botzer, goder, masik, oreh as one melacha) AND Rav Pappa/Rav Ashi's debate, which together span headings 0-2, but the prose under heading 0 ('Harvest Terms') explicitly discusses and quotes this exact Tosefta passage AND mentions Rav Pappa's case and the double liability, making it the best single home \u2014 however, since the passage also includes Rav Ashi's shinui objection which has its own heading (2), and the current placement (1) covers Rav Pappa's case in detail, the passage as a whole fits best under heading 0 which introduces all these elements together as part of the kotzer discussion.",
+      "chosen_heading": "Harvest Terms",
+      "current_heading": "Throwing at Dates",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Ground Growth Only",
+    "candidates": [
+      "Shinui Objection",
+      "Gathering Definition",
+      "Salt Gathering",
+      "Ground Growth Only",
+      "Practical Examples",
+      "Threshing Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rava's ruling on salt gathering AND Abaye's limitation to gidulei karka \u2014 it is the complete discussion of what me'amer means, which belongs under the 'Gathering Definition' heading that introduces the nuanced question of what this melacha covers, rather than being split between two headings.",
+      "chosen_heading": "Gathering Definition",
+      "current_heading": "Ground Growth Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Threshing Types",
+    "candidates": [
+      "Practical Examples",
+      "Threshing Types",
+      "Wool Combing Question",
+      "Three Separation Methods",
+      "Mishkan Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and introduces the tanna's teaching about dash/menapeitz/menafet being one melacha, which is precisely what the 'Threshing Types' section's prose discusses and elaborates upon.",
+      "chosen_heading": "Threshing Types",
+      "current_heading": "Threshing Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Mishkan Principle",
+    "candidates": [
+      "Wool Combing Question",
+      "Three Separation Methods",
+      "Mishkan Principle",
+      "Kutesh Question",
+      "Thirty-Nine Limit",
+      "Borer Principle",
+      "Timing Criterion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Separation Methods",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the question of why winnowing, selecting, and sifting are all listed separately and introduces Abaye and Rava's Mishkan principle \u2014 exactly what candidate 1 ('Three Separation Methods') describes, including the 'hainu zoreh hainu borer hainu meraked' observation.",
+      "second_heading": "Kutesh Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the question of why pounding (kotesh) is not enumerated, Abaye's answer about paupers eating without pounding, Rava's answer about the forty-limit, and the gemara's conclusion favoring Abaye \u2014 exactly what candidate 3 ('Kutesh Question') describes.",
+      "current_heading": "Mishkan Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Timing Criterion",
+    "candidates": [
+      "Kutesh Question",
+      "Thirty-Nine Limit",
+      "Borer Principle",
+      "Timing Criterion",
+      "Quantity Criterion",
+      "Method Criterion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Ulla's 'today versus tomorrow' timing criterion and Rav \u1e24isda's challenge about baking and cooking, which is precisely what the 'Timing Criterion' prose describes.",
+      "chosen_heading": "Timing Criterion",
+      "current_heading": "Timing Criterion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Method Criterion",
+    "candidates": [
+      "Quantity Criterion",
+      "Method Criterion",
+      "Immediacy Criterion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav \u1e24isda's quantity-based criterion AND Rav Yosef's method-based criterion, but since it begins with Rav \u1e24isda's proposal (the quantity criterion) and Rav Yosef's objection to it, and candidate 0 ('Quantity Criterion') explicitly discusses both Rav \u1e24isda's criterion and Rav Yosef's challenge, while candidate 1 ('Method Criterion') picks up from Rav Yosef's positive proposal onward, the full passage belongs under the Quantity Criterion heading where both views are introduced together.",
+      "chosen_heading": "Quantity Criterion",
+      "current_heading": "Method Criterion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Immediacy Criterion",
+    "candidates": [
+      "Method Criterion",
+      "Immediacy Criterion",
+      "Food vs. Chaff",
+      "Two Food Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Hamnuna's objection to Rav Yosef's vessel criterion and his alternative (food from waste), Abaye's objection to that, and Abaye's immediacy criterion with Rava's approval \u2014 this sequence begins with Rav Hamnuna's challenge to the Method/vessel criterion, which is exactly what the 'Method Criterion' prose describes, making that section the correct home for this passage.",
+      "chosen_heading": "Method Criterion",
+      "current_heading": "Immediacy Criterion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Two Food Types",
+    "candidates": [
+      "Food vs. Chaff",
+      "Two Food Types",
+      "Fruit Basket Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of two food types before a person, Rav Ashi's and Rabbi Yirmeya mi-Difti's dispute, and the resolution via basket/plate versus sieve/sifter \u2014 exactly what the 'Two Food Types' prose describes.",
+      "chosen_heading": "Two Food Types",
+      "current_heading": "Two Food Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Fruit Basket Story",
+    "candidates": [
+      "Fruit Basket Story",
+      "Lupine Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Rav Beivai/Rav Dimi fruit basket incident with the same uncertainty (ochel mitoch psoles vs. ayin yafa) that Candidate 0's prose explicitly discusses in detail.",
+      "chosen_heading": "Fruit Basket Story",
+      "current_heading": "Fruit Basket Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Lupine Exception",
+    "candidates": [
+      "Lupine Exception",
+      "Chopping Beets",
+      "Cutting vs. Grinding",
+      "Sawdust Example",
+      "Kapid Amishchata"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Chizkiya lupine ruling and its Talmudic resolution, which is precisely what the 'Lupine Exception' prose discusses in detail.",
+      "chosen_heading": "Lupine Exception",
+      "current_heading": "Lupine Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Kapid Amishchata",
+    "candidates": [
+      "Chopping Beets",
+      "Cutting vs. Grinding",
+      "Sawdust Example",
+      "Kapid Amishchata",
+      "Dash Definition",
+      "Fruit Categories",
+      "Lemon Squeezing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three statements together (Rav Pappa on beets, Rav Menashe on wood chips, Rav Ashi on precision cutting), and the 'Chopping Beets' section is where the full Gemara excerpt logically begins, with subsequent headings analyzing each component \u2014 the passage as a whole belongs under the first heading that introduces it.",
+      "chosen_heading": "Chopping Beets",
+      "current_heading": "Kapid Amishchata",
+      "moved": true
+    }
+  }
+]

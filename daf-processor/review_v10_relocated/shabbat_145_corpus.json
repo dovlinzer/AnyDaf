@@ -1,0 +1,457 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Grape Juice on Bread",
+    "candidates": [
+      "Intro: Mashkeh for Ochel",
+      "Grape Juice on Bread",
+      "Huna: Le'ibud vs Zehutz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rav Pappa's explanation of the dispute as concerning mashkeh le'ibud, followed by the baraita about crushing olives (lesafotan bemelach and lada'at im higu), which is precisely the content described in the 'Grape Juice on Bread' prose section.",
+      "chosen_heading": "Grape Juice on Bread",
+      "current_heading": "Grape Juice on Bread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Huna: Le'ibud vs Zehutz",
+    "candidates": [
+      "Huna: Le'ibud vs Zehutz",
+      "Practical Ruling: Into F\u2026"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna's statement distinguishing between liquid going to waste (le'ibud) and liquid used to shine (letzahtzecho), which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Huna: Le'ibud vs Zehutz",
+      "current_heading": "Huna: Le'ibud vs Zehutz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Practical Ruling: Into F\u2026",
+    "candidates": [
+      "Practical Ruling: Into F\u2026",
+      "Fish Brine Permissible",
+      "Rav Dimi vs. Abaye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the grape-squeezing-into-a-pot ruling and the fish-brine ruling, and the current section's prose explicitly discusses both \u2014 quoting Rav's ruling about squeezing into a pot vs. bowl \u2014 making it the clearest match, with the fish brine section (index 1) covering only the second half of this combined Talmudic statement.",
+      "chosen_heading": "Practical Ruling: Into F\u2026",
+      "current_heading": "Practical Ruling: Into F\u2026",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Rav Dimi vs. Abaye",
+    "candidates": [
+      "Fish Brine Permissible",
+      "Rav Dimi vs. Abaye",
+      "Chain of Tradition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the core content of Abaye's challenge to Rav Dimi and the Rav/Shmuel dispute over kevashim and shelakot, which is precisely what the 'Rav Dimi vs. Abaye' prose section describes in detail.",
+      "chosen_heading": "Rav Dimi vs. Abaye",
+      "current_heading": "Rav Dimi vs. Abaye",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Chain of Tradition",
+    "candidates": [
+      "Chain of Tradition",
+      "Rav's Distinction",
+      "Shmuel: Unified Status",
+      "R. Yochanan: All Liquids",
+      "Rav Reads Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Dimi's oath-like declaration and his laying out the chain of transmission from Rabbi Yirmiya through Rabbi Zeira through Rav Chiyya bar Ashi to Rav, which is precisely what the 'Chain of Tradition' section's prose discusses.",
+      "chosen_heading": "Chain of Tradition",
+      "current_heading": "Chain of Tradition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Rav Reads Baraita",
+    "candidates": [
+      "Rav's Distinction",
+      "Shmuel: Unified Status",
+      "R. Yochanan: All Liquids",
+      "Rav Reads Baraita",
+      "Shmuel Reads Baraita",
+      "R. Yochanan Forced Read",
+      "Rav Chiya: Restricted Sc\u2026",
+      "Rabbeinu Chananel Opinion",
+      "Practical Halacha Summary",
+      "Baraita on Hearsay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together constitute the full dispute passage (Rav, Shmuel, Rabbi Yochanan's positions plus the baraita objection and each amora's resolution), which is precisely what candidate 0 ('Rav's Distinction') introduces as 'Returning to the full statement of the dispute' \u2014 the subsequent candidates 3-5 each cover only one amora's reading of the baraita, while candidate 0's prose frames the entire dispute including the foundational statements of all three amoraim that open item 1.",
+      "chosen_heading": "Rav's Distinction",
+      "current_heading": "Rav Reads Baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Baraita on Hearsay",
+    "candidates": [
+      "Shmuel Reads Baraita",
+      "R. Yochanan Forced Read",
+      "Rav Chiya: Restricted Sc\u2026",
+      "Rabbeinu Chananel Opinion",
+      "Practical Halacha Summary",
+      "Baraita on Hearsay",
+      "Bechor Testimony Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Chiya: Restricted Sc\u2026",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the ruling of Rav Chiya bar Ashi/Rav and the school of Menashe that biblical liability is restricted to olives and grapes, which is precisely what candidate 2 ('Rav Chiya: Restricted Sc\u2026') discusses in its prose.",
+      "second_heading": "Baraita on Hearsay",
+      "second_confidence": "high",
+      "second_reason": "Item 2 completes the school of Menashe's second ruling about hearsay testimony being valid only for a woman's remarriage, which is exactly what candidate 5 ('Baraita on Hearsay') discusses in its prose.",
+      "current_heading": "Baraita on Hearsay",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Bechor Testimony Question",
+    "candidates": [
+      "Bechor Testimony Question",
+      "Rav Assi Reinterprets",
+      "Halacha: Bechor Hearsay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial dilemma about hearsay testimony for bechor and the dispute between Rav Ami and Rav Asi, which matches exactly what candidate 0's prose describes as the question being raised.",
+      "chosen_heading": "Bechor Testimony Question",
+      "current_heading": "Bechor Testimony Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Halacha: Bechor Hearsay",
+    "candidates": [
+      "Rav Assi Reinterprets",
+      "Halacha: Bechor Hearsay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Rav Assi's reinterpretation of the baraita AND the Rav Yeimar/Mareimar episode plus the final halacha ruling, spanning both candidate sections, but candidate 0 ('Rav Assi Reinterprets') actually discusses the full chain of reasoning including the bechor application, making it a slightly better unified home \u2014 though candidate 1's prose also matches the latter portion closely, making this a borderline case.",
+      "chosen_heading": "Rav Assi Reinterprets",
+      "current_heading": "Halacha: Bechor Hearsay",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Halacha: Bechor Hearsay",
+    "candidates": [
+      "Halacha: Bechor Hearsay",
+      "Honey Cakes Case",
+      "Baraita: Pre-Shabbat Pre\u2026",
+      "Rav Yosef's Question",
+      "Abaye's Chiddush",
+      "Abaye's Chiddush",
+      "Explanation: Natural Eme\u2026",
+      "Mishna: Resubmerging All\u2026"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is exactly the baraita brought by Rav Hoshaya from Neharde'a about olives and grapes crushed before Shabbat, which is precisely what candidate 2 ('Baraita: Pre-Shabbat Pre\u2026') describes in its prose.",
+      "chosen_heading": "Baraita: Pre-Shabbat Pre\u2026",
+      "current_heading": "Halacha: Bechor Hearsay",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Mishna: Resubmerging All\u2026",
+    "candidates": [
+      "Honey Cakes Case",
+      "Baraita: Pre-Shabbat Pre\u2026",
+      "Rav Yosef's Question",
+      "Abaye's Chiddush",
+      "Abaye's Chiddush",
+      "Explanation: Natural Eme\u2026",
+      "Mishna: Resubmerging All\u2026",
+      "Salted Fish Exception",
+      "Rav Safra: Boiled Chicken"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Yosef's Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yosef's question and Abaye's answer about what the baraita adds over the mishna regarding olives/grapes vs. honey cakes, which belongs under the 'Rav Yosef's Question' heading (candidate 2) that discusses exactly this content.",
+      "second_heading": "Mishna: Resubmerging All\u2026",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishna of an entirely new topic about soaking/rinsing salted foods in hot water on Shabbat, which belongs under 'Mishna: Resubmerging All\u2026' (candidate 6) whose prose explicitly describes this very Mishna.",
+      "current_heading": "Mishna: Resubmerging All\u2026",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rav Safra: Boiled Chicken",
+    "candidates": [
+      "Salted Fish Exception",
+      "Rav Safra: Boiled Chicken",
+      "Cuisine Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Safra's account of Rabbi Abba's thoroughly boiled chicken and the three-year-old wine, which is precisely what the 'Rav Safra: Boiled Chicken' section's prose discusses.",
+      "chosen_heading": "Rav Safra: Boiled Chicken",
+      "current_heading": "Rav Safra: Boiled Chicken",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Cuisine Debate",
+    "candidates": [
+      "Cuisine Debate",
+      "Raw Items: Rinse Only",
+      "Rav Yosef: Salted Fish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yochanan spitting at Babylonian kutach, Rav Yosef's retort about Rabbi Abba's chicken, and Rav Gaza's story about preparing kutach in Eretz Yisrael \u2014 all of which are precisely what the 'Cuisine Debate' prose describes.",
+      "chosen_heading": "Cuisine Debate",
+      "current_heading": "Cuisine Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Rav Yosef: Salted Fish",
+    "candidates": [
+      "Raw Items: Rinse Only",
+      "Rav Yosef: Salted Fish",
+      "Kali Bishul Concept",
+      "Fatter Birds in Bavel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about rinsing salted fish (hedich mai), Rav Yosef's ruling of chiyuv chatas, and Mar son of Ravina's corroborating proof from the Mishnah \u2014 exactly what the 'Rav Yosef: Salted Fish' section's prose describes.",
+      "chosen_heading": "Rav Yosef: Salted Fish",
+      "current_heading": "Rav Yosef: Salted Fish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Fatter Birds in Bavel",
+    "candidates": [
+      "Kali Bishul Concept",
+      "Fatter Birds in Bavel",
+      "52-Year Exile Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous narrative of Rabbi Chiya bar Abba and Rabbi Asi's conversation before Rabbi Yochanan, including his waking up and rebuking them, which is exactly what heading 1 ('Fatter Birds in Bavel') describes in its prose.",
+      "chosen_heading": "Fatter Birds in Bavel",
+      "current_heading": "Fatter Birds in Bavel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "52-Year Exile Evidence",
+    "candidates": [
+      "52-Year Exile Evidence",
+      "Animals Return Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly provides the baraita about Rabbi Yehuda's 52-year figure and the gematria of 'behema,' which is exactly what the prose of heading 0 describes as evidence that creatures of Eretz Yisrael went into exile.",
+      "chosen_heading": "52-Year Exile Evidence",
+      "current_heading": "52-Year Exile Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Animals Return Exception",
+    "candidates": [
+      "Animals Return Exception",
+      "Holiday Joy Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the exception for kolyas ha'ispanin fish not returning to Eretz Yisrael due to its weak spine, which matches exactly the 'Animals Return Exception' heading's prose about exiled creatures returning except for this specific fish.",
+      "chosen_heading": "Animals Return Exception",
+      "current_heading": "Animals Return Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Holiday Joy Difference",
+    "candidates": [
+      "Holiday Joy Difference",
+      "Scholar's Dress Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses why Babylonian festivals are more joyous, citing the curse verses and rabbinic explanations about Roman oppression in Eretz Yisrael, which matches exactly the 'Holiday Joy Difference' section's prose.",
+      "chosen_heading": "Holiday Joy Difference",
+      "current_heading": "Holiday Joy Difference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Scholar's Dress Status",
+    "candidates": [
+      "Scholar's Dress Status",
+      "Non-Jewish Stench Origin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why Babylonian Torah scholars wear distinctive garb because they are not native to that place, matching exactly the prose of candidate 0 about Scholar's Dress Status.",
+      "chosen_heading": "Scholar's Dress Status",
+      "current_heading": "Scholar's Dress Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146
+    ],
+    "current_heading": "Non-Jewish Stench Origin",
+    "candidates": [
+      "Non-Jewish Stench Origin",
+      "Converts' Mazal at Sinai",
+      "Three Generation Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete passage about why gentiles are contaminated (the snake/Sinai explanation) and the follow-up question about converts, which is exactly what candidate 0's prose describes \u2014 the passage is already correctly placed under 'Non-Jewish Stench Origin', and the converts question is part of the same continuous exchange rather than a separate topic warranting its own heading.",
+      "chosen_heading": "Non-Jewish Stench Origin",
+      "current_heading": "Non-Jewish Stench Origin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Three Generation Theory",
+    "candidates": [
+      "Converts' Mazal at Sinai",
+      "Three Generation Theory",
+      "Essentialism Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi Abba bar Kahana's three-generation theory of zohama ending with Yaakov's twelve tribes, which is exactly what the 'Three Generation Theory' section's prose discusses.",
+      "chosen_heading": "Three Generation Theory",
+      "current_heading": "Three Generation Theory",
+      "moved": false
+    }
+  }
+]

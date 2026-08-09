@@ -1,0 +1,199 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Abaye's Objection",
+    "candidates": [
+      "Overview & Context",
+      "Day vs Night Rule",
+      "Abaye's Objection",
+      "Resolution: Din Nachalot",
+      "Chukkat Mishpat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita about daytime inheritance distribution AND Abaye's objection as a single continuous exchange, and candidate 1 ('Day vs Night Rule') is the heading that introduces this entire unit, while the current placement under 'Abaye's Objection' splits what is a single quoted text across two headings.",
+      "chosen_heading": "Day vs Night Rule",
+      "current_heading": "Abaye's Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Chukkat Mishpat",
+    "candidates": [
+      "Resolution: Din Nachalot",
+      "Chukkat Mishpat",
+      "Rashbam's Chiddush",
+      "Rishonim: Chok Status",
+      "Dinei Mamonot Timing",
+      "Three Visitors Case",
+      "Rabbi Yochanan Position",
+      "Shechiv Mera Definition",
+      "Kinyan Bemiktzat",
+      "Three Methods Summary",
+      "Witnesses vs Beit Din",
+      "Daytime Requirement",
+      "Night Visit Restriction",
+      "Ein Ed Na'aseh Dayan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's redirection to *din nachalot* as the correct interpretation, which is precisely what heading 0 ('Resolution: Din Nachalot') describes \u2014 the baraita proof is part of that same move, while heading 1 ('Chukkat Mishpat') focuses on the verse's role in establishing nachalot as din, a subtly different emphasis that belongs to the subsequent discussion.",
+      "chosen_heading": "Resolution: Din Nachalot",
+      "current_heading": "Chukkat Mishpat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Ein Ed Na'aseh Dayan",
+    "candidates": [
+      "Rashbam's Chiddush",
+      "Rishonim: Chok Status",
+      "Dinei Mamonot Timing",
+      "Three Visitors Case",
+      "Rabbi Yochanan Position",
+      "Shechiv Mera Definition",
+      "Kinyan Bemiktzat",
+      "Three Methods Summary",
+      "Witnesses vs Beit Din",
+      "Daytime Requirement",
+      "Night Visit Restriction",
+      "Ein Ed Na'aseh Dayan",
+      "No Forum Selection",
+      "Imposed Jurisdiction",
+      "Rashi: Witness Label",
+      "Ed Types Discussion",
+      "Retraction Window",
+      "Rabba's View",
+      "Rav Yosef's View",
+      "Gmirot Da'at Basis",
+      "Rav Yosef vs Rabba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "Both items together present Rav \u1e24isda's qualification about daytime vs. nighttime and the principle of ein ed na'aseh dayan, which is precisely what the 'Ein Ed Na'aseh Dayan' section's prose discusses as the twofold reason visitors at night cannot constitute a Beit Din.",
+      "chosen_heading": "Ein Ed Na'aseh Dayan",
+      "current_heading": "Ein Ed Na'aseh Dayan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Rav Yosef vs Rabba",
+    "candidates": [
+      "No Forum Selection",
+      "Imposed Jurisdiction",
+      "Rashi: Witness Label",
+      "Ed Types Discussion",
+      "Retraction Window",
+      "Rabba's View",
+      "Rav Yosef's View",
+      "Gmirot Da'at Basis",
+      "Rav Yosef vs Rabba",
+      "Halakha Rules Rav Yosef",
+      "Mishna Structure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rav Yosef vs Rabba",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 cover the dispute between Rabba and Rav Yosef and Rav Ashi's challenge before Rav Kahana, which is exactly what heading 8 ('Rav Yosef vs Rabba') describes.",
+      "second_heading": "Halakha Rules Rav Yosef",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the concluding halakhic ruling (ve-hilkhata ke-vosei de-Rav Yosef in sadeh, inyan, u-mechtza), which is precisely what heading 9 ('Halakha Rules Rav Yosef') is about.",
+      "current_heading": "Rav Yosef vs Rabba",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Mishna Structure",
+    "candidates": [
+      "Halakha Rules Rav Yosef",
+      "Mishna Structure",
+      "Redundancy Question",
+      "Bakever Analogy",
+      "Bakever Principle",
+      "Blood vs Marital Kinship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly raises the redundancy question \u2014 asking why the second clause (woman bequeaths to her son/husband) is needed when the first clause already taught the same halakha \u2014 which is precisely what the 'Redundancy Question' section's prose describes.",
+      "chosen_heading": "Redundancy Question",
+      "current_heading": "Mishna Structure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Blood vs Marital Kinship",
+    "candidates": [
+      "Redundancy Question",
+      "Bakever Analogy",
+      "Bakever Principle",
+      "Blood vs Marital Kinship",
+      "Rav Yochanan's View",
+      "Daughters of Z. Source",
+      "Rashbam's Limitation",
+      "Tosafot's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the analogy between 'ishah et benah' and 'ishah et ba'alah' with respect to the bakever principle, which is precisely what the 'Bakever Analogy' section's prose describes.",
+      "chosen_heading": "Bakever Analogy",
+      "current_heading": "Blood vs Marital Kinship",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Tosafot's Objection",
+    "candidates": [
+      "Rav Yochanan's View",
+      "Daughters of Z. Source",
+      "Rashbam's Limitation",
+      "Tosafot's Objection",
+      "Tosafot: Ger Exception",
+      "Assessment of Radicality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yo\u1e25anan's statement that by Torah law both a father and a mother inherit from a son, which is exactly what heading 0 ('Rav Yochanan's View') describes in its prose.",
+      "chosen_heading": "Rav Yochanan's View",
+      "current_heading": "Tosafot's Objection",
+      "moved": true
+    }
+  }
+]

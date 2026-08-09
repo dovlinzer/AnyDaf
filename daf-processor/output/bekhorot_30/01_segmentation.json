@@ -96,8 +96,8 @@
           "timestamp": "10:32"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Detailed Analysis of Which Suspicions Transfer and Which Do Not (Shvi'is, Maasrot, Taharot)",
@@ -154,8 +154,8 @@
           "timestamp": "14:47"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Exceptions and Individual Circumstances: When General Rules Can Be Overridden",
@@ -269,7 +269,7 @@
           "timestamp": "46:55"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -565,5 +565,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 9,
+  "amud_b_timestamp": "35:28",
+  "amud_b_micro_title": "R. Meir Position",
+  "shiur_start_daf": 29,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,295 @@
+[
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Vedin Hu Logic",
+    "candidates": [
+      "Four Awareness Scenarios",
+      "Awareness-Concealment-End",
+      "Mezid vs. Shogeg Distinc",
+      "Vayikra 5 Reading",
+      "Satum (Unclear) Verses",
+      "Intel Museum Metaphor",
+      "Tannaitic Proof",
+      "Vedin Hu Logic",
+      "Terumah Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items belong to the Tannaitic baraita asking how we know the verses speak exclusively of tumat mikdash ve-kodashav, which is precisely what heading 6 ('Tannaitic Proof') describes \u2014 the ve-din hu logical argument in item 2 is the baraita's own answer to that question, not a separate topic.",
+      "chosen_heading": "Tannaitic Proof",
+      "current_heading": "Vedin Hu Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Terumah Objection",
+    "candidates": [
+      "Vedin Hu Logic",
+      "Terumah Objection",
+      "Oleh Ve-Yored vs. Kavua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the terumah objection and the Gemara's answer about mita bi-yedei shamayim vs. karet, which is exactly what the 'Terumah Objection' section's prose describes.",
+      "chosen_heading": "Terumah Objection",
+      "current_heading": "Terumah Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Oleh Ve-Yored vs. Kavua",
+    "candidates": [
+      "Oleh Ve-Yored vs. Kavua",
+      "Chayah & Behemah Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items directly match the prose of heading 0, which explicitly discusses the korban oleh ve-yored vs. kavua distinction, the bah exclusion debate regarding teruma vs. mikdash, and Rava's invocation of 'doleh mayim mi-borot amukim' about Rabbi Yehuda HaNasi \u2014 precisely the content of items 1\u20135.",
+      "chosen_heading": "Oleh Ve-Yored vs. Kavua",
+      "current_heading": "Oleh Ve-Yored vs. Kavua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Chayah & Behemah Question",
+    "candidates": [
+      "Chayah & Behemah Question",
+      "Gezeirah Shavah",
+      "Itkesh Mikdash-Kodshim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the gezeirah shavah itself \u2014 the verbal analogy between 'behemah teme'ah' in Vayikra 5 and Vayikra 7:21 establishing tumat kodesh \u2014 which is exactly what the 'Gezeirah Shavah' section's prose describes, not merely the question of why behemah is stated.",
+      "chosen_heading": "Gezeirah Shavah",
+      "current_heading": "Chayah & Behemah Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Itkesh Mikdash-Kodshim",
+    "candidates": [
+      "Gezeirah Shavah",
+      "Itkesh Mikdash-Kodshim",
+      "Terumah First Argument",
+      "Exclusion with Bah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the juxtaposition (itkesh) of mikdash to kodesh via Leviticus 12:4, which is precisely what the 'Itkesh Mikdash-Kodshim' section's prose describes and analyzes.",
+      "chosen_heading": "Itkesh Mikdash-Kodshim",
+      "current_heading": "Itkesh Mikdash-Kodshim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Exclusion with Bah",
+    "candidates": [
+      "Terumah First Argument",
+      "Exclusion with Bah",
+      "Rava's Three Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous question-and-counterargument chain about whether 'bah' excludes terumah or mikdash, which is precisely what the 'Exclusion with Bah' prose describes in detail.",
+      "chosen_heading": "Exclusion with Bah",
+      "current_heading": "Exclusion with Bah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Rava's Three Categories",
+    "candidates": [
+      "Rava's Three Categories",
+      "Rabbi Abahu Alternative",
+      "Rabbi Shimon: Uneaten"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Rabbi Shimon: Uneaten",
+    "candidates": [
+      "Rabbi Abahu Alternative",
+      "Rabbi Shimon: Uneaten",
+      "Nahardei Tumot Formula",
+      "Tumato Comparison",
+      "Mikdash Conclusion",
+      "Ba Particle Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Items 1-3 present Rava's gezeirah shavah from 'tumato'\u2013'tumato' (Vayikra 5:3 and Bamidbar 19:13) to establish that the korban oleh ve-yored covers tumat mikdash, followed by the question about the superfluous word 'bah' \u2014 exactly what candidate 3 ('Tumato Comparison') describes.",
+      "chosen_heading": "Tumato Comparison",
+      "current_heading": "Rabbi Shimon: Uneaten",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Ba Particle Inclusion",
+    "candidates": [
+      "Nahardei Tumot Formula",
+      "Tumato Comparison",
+      "Mikdash Conclusion",
+      "Ba Particle Inclusion",
+      "Limitation Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly answers the question of what 'ba' includes \u2014 nevelat of tahor \u2014 which is precisely what the 'Ba Particle Inclusion' section's prose describes.",
+      "chosen_heading": "Ba Particle Inclusion",
+      "current_heading": "Ba Particle Inclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Limitation Inclusion",
+    "candidates": [
+      "Limitation Inclusion",
+      "Awareness Cycle",
+      "Sa'ir Bifnim Atonement",
+      "Yom Kippur Pasuk",
+      "Three Cardinal Sins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the principle of mi'ut achar mi'ut (restriction after restriction yields inclusion), which is precisely what the 'Limitation Inclusion' prose section discusses.",
+      "chosen_heading": "Limitation Inclusion",
+      "current_heading": "Limitation Inclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Three Cardinal Sins",
+    "candidates": [
+      "Awareness Cycle",
+      "Sa'ir Bifnim Atonement",
+      "Yom Kippur Pasuk",
+      "Three Cardinal Sins",
+      "Mitumot vs. Kol Tumot",
+      "Rabbi Yehuda vs. Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are the baraita expounding Vayikra 16:16 \u2014 first citing the verse, then identifying the three tumot it might cover, then using 'mi-tum'ot' to limit its scope \u2014 which is precisely what heading 2 ('Yom Kippur Pasuk') describes as the Gemara unpacking that verse carefully, whereas heading 3 ('Three Cardinal Sins') covers only items 2-3 and heading 1 covers the Mishnah's ruling without the baraita exposition.",
+      "chosen_heading": "Yom Kippur Pasuk",
+      "current_heading": "Three Cardinal Sins",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Rabbi Yehuda vs. Shimon",
+    "candidates": [
+      "Mitumot vs. Kol Tumot",
+      "Rabbi Yehuda vs. Shimon",
+      "Avodah Zarah Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 Rabbi Yehuda's derivation, Rabbi Shimon's counter-derivation, the limitation to sins not subject to a korban, and the case of yedi'ah ba-techilah without yedi'ah ba-sof \u2014 are precisely the content described in the 'Rabbi Yehuda vs. Shimon' prose section.",
+      "chosen_heading": "Rabbi Yehuda vs. Shimon",
+      "current_heading": "Rabbi Yehuda vs. Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Avodah Zarah Cases",
+    "candidates": [
+      "Avodah Zarah Cases",
+      "Giluy Arayot Cases",
+      "Shefichut Damim Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "The passage spans all three cardinal-sin categories as one continuous parallel discussion, but no single candidate heading covers all six items; the current placement under 'Avodah Zarah Cases' captures where the discussion begins, making it the least-bad fit among the options.",
+      "chosen_heading": "Avodah Zarah Cases",
+      "current_heading": "Avodah Zarah Cases",
+      "moved": false
+    }
+  }
+]

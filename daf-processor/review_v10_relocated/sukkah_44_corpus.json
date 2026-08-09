@@ -1,0 +1,323 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Baitusim Incident",
+    "candidates": [
+      "Intro: Arava Mitzvah",
+      "Shabbat Override Question",
+      "Baitusim Incident",
+      "Primary Act Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together recount the Baitusim incident \u2014 bringing aravot on Friday, hiding them under rocks, the am ha'aretz retrieving them, and the kohanim planting them \u2014 which is precisely what the 'Baitusim Incident' prose section describes in detail.",
+      "chosen_heading": "Baitusim Incident",
+      "current_heading": "Baitusim Incident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Primary Act Debate",
+    "candidates": [
+      "Primary Act Debate",
+      "Sfeika D'Yoma Reason",
+      "Mishnayot Lulav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'alma benetila hi, tiyuvta' directly expresses the conclusion that the mitzva is fulfilled by taking, which is exactly what the prose of 'Primary Act Debate' discusses \u2014 the gemara's conclusion that the essential act is the taking of the arava, constituting a decisive refutation.",
+      "chosen_heading": "Primary Act Debate",
+      "current_heading": "Primary Act Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Mishnayot Lulav",
+    "candidates": [
+      "Sfeika D'Yoma Reason",
+      "Mishnayot Lulav",
+      "Mishnayot Resolution",
+      "Modern Practice",
+      "Tosafot Calendar",
+      "Abaye to Rava",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain about whether lulav/arava override Shabbat in Eretz Yisrael today due to sfeika d'yoma, which is precisely what candidate 0 ('Sfeika D'Yoma Reason') describes \u2014 the gemara's answer that since we in the Diaspora don't override Shabbat, neither do those in Eretz Yisrael, followed by the lulav Mishnayot tension and its resolution, all in service of establishing the sfeika d'yoma universal standard.",
+      "chosen_heading": "Sfeika D'Yoma Reason",
+      "current_heading": "Mishnayot Lulav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Mishnayot Resolution",
+      "Modern Practice",
+      "Tosafot Calendar",
+      "Abaye to Rava",
+      "Rava's Answer",
+      "Rejection Argument",
+      "Biblical Foundation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains Rava's answer about fulfilling the arava obligation through the lulav bundle, followed by Abaye's rejection \u2014 content that spans both the current heading ('Rava's Answer') and the next ('Rejection Argument'), but the current placement under 'Rava's Answer' is where this exchange begins and is the correct home since the prose there describes exactly this Rava-Abaye exchange.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Biblical Foundation",
+    "candidates": [
+      "Rejection Argument",
+      "Biblical Foundation",
+      "Reish Lakish Ruling",
+      "Yochanan Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous Rav Zevid/Rava discussion about lulav (biblical) vs. arava (rabbinic) and the seven-day commemoration, including the objection and refined restatement, which is precisely what the 'Biblical Foundation' prose describes in detail.",
+      "chosen_heading": "Biblical Foundation",
+      "current_heading": "Biblical Foundation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Yochanan Challenge",
+    "candidates": [
+      "Reish Lakish Ruling",
+      "Yochanan Challenge",
+      "Personal vs. Community"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Reish Lakish's ruling about blemished priests and Rabbi Yochanan's challenge plus the Halacha l'Moshe m'Sinai teaching, which together correspond precisely to the 'Yochanan Challenge' section's prose that discusses both the ruling and Rabbi Yochanan's sharp response and the irony of his own prior statement.",
+      "chosen_heading": "Yochanan Challenge",
+      "current_heading": "Yochanan Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Personal vs. Community",
+    "candidates": [
+      "Personal vs. Community",
+      "Yesod vs. Minhag"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the two questions about netilah vs. zekifah and ba'alei mumim vs. tmimim, which is precisely what the prose of 'Personal vs. Community' (index 0) analyzes and discusses in detail.",
+      "chosen_heading": "Personal vs. Community",
+      "current_heading": "Personal vs. Community",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Yesod vs. Minhag",
+    "candidates": [
+      "Yesod vs. Minhag",
+      "Zeira's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabbi Yochanan/Rabbi Yehoshua ben Levi dispute over whether arava is yesod or minhag of the prophets, and the resolution via Rabbi Abbahu's citation \u2014 exactly what heading 0's prose describes.",
+      "chosen_heading": "Yesod vs. Minhag",
+      "current_heading": "Yesod vs. Minhag",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Zeira's Challenge",
+    "candidates": [
+      "Zeira's Challenge",
+      "Forgotten/Re-established",
+      "Biblical vs. Prophetic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Zeira's challenge to Rabbi Abbahu about Rabbi Yo\u1e25anan's apparent contradiction AND the 'forgot and reinstituted' resolution in a single Talmudic exchange, but the current heading's prose explicitly covers both the challenge and the astonishment (ishtomem), and the resolution phrase 'shachachum vechazar veyisdum' is just the tail end of the same passage \u2014 the current placement under 'Zeira's Challenge' captures the full unit correctly.",
+      "chosen_heading": "Zeira's Challenge",
+      "current_heading": "Zeira's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Biblical vs. Prophetic",
+    "candidates": [
+      "Forgotten/Re-established",
+      "Biblical vs. Prophetic",
+      "Separate Taking",
+      "Separate vs. Included"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the gemara's challenge to Rabbi Yochanan and its resolution (lo kashya \u2014 kan b'Mikdash kan bigvulin), which is precisely what candidate 1's prose describes as the gemara's final resolution distinguishing the Temple arava (halacha l'Moshe m'Sinai) from the outlying-areas arava (yesod nevi'im).",
+      "chosen_heading": "Biblical vs. Prophetic",
+      "current_heading": "Biblical vs. Prophetic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Separate vs. Included",
+    "candidates": [
+      "Separate Taking",
+      "Separate vs. Included",
+      "Minimum Shiur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the question-and-answer about why Rabbi Ami's two clauses are not redundant, plus Rav \u1e24isda's dissenting ruling \u2014 exactly the content described in the 'Separate vs. Included' prose, which is also the current placement.",
+      "chosen_heading": "Separate vs. Included",
+      "current_heading": "Separate vs. Included",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Minimum Shiur",
+    "candidates": [
+      "Minimum Shiur",
+      "Eva's Report",
+      "Bracha Criteria",
+      "Tosafot Nature",
+      "Aboh/Chizkiyah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the minimum measure (shiur) of the arava \u2014 Rav Nachman's three branches and Rav Sheshet's one leaf on one branch \u2014 which is precisely what the 'Minimum Shiur' section's prose describes.",
+      "chosen_heading": "Minimum Shiur",
+      "current_heading": "Minimum Shiur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Aboh/Chizkiyah",
+    "candidates": [
+      "Eva's Report",
+      "Bracha Criteria",
+      "Tosafot Nature",
+      "Aboh/Chizkiyah",
+      "Shemitah Hoeing",
+      "Shemitah Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Aivu's report about Rabbi Elazar bar Tzadok AND the Rav incident together in one Talmudic quote, and the 'Eva's Report' section (index 0) is where this combined passage is introduced and discussed, while the current placement (index 3) covers only the second half \u2014 the passage belongs under index 0 where the full account begins.",
+      "chosen_heading": "Eva's Report",
+      "current_heading": "Aboh/Chizkiyah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Shemitah Payment",
+    "candidates": [
+      "Shemitah Hoeing",
+      "Shemitah Payment",
+      "Two Kisku Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the full episode including the man's initial question, Rabbi Elazar's ruling, and his praise \u2014 all of which is narrated under candidate 0's prose about the man coming before Rabbi Eliezer bar Tzadok with the Shemitah hoeing/olive situation, whereas candidate 1's prose covers the aftermath (the praise, the return, and the corrective instructions), meaning the passage as a whole (which includes both the question and the resolution) better fits candidate 0 as the starting point of the episode.",
+      "chosen_heading": "Shemitah Hoeing",
+      "current_heading": "Shemitah Payment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Two Kisku Types",
+    "candidates": [
+      "Shemitah Payment",
+      "Two Kisku Types",
+      "Erev Shabbat Travel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the two types of hoeing (kisku) during Shemitah and Rav Ukva bar Chama's distinction between them, which is precisely what the 'Two Kisku Types' section prose describes.",
+      "chosen_heading": "Two Kisku Types",
+      "current_heading": "Two Kisku Types",
+      "moved": false
+    }
+  }
+]

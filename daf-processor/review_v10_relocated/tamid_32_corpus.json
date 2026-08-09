@@ -1,0 +1,409 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Facing the Sun",
+    "candidates": [
+      "Binding Legs",
+      "Ring Positions",
+      "Facing the Sun",
+      "Ten Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the derivation from 'shnayim layom kineged hayom' and the baraita's application to the morning and afternoon tamid positioning, which is precisely what candidate 2 ('Facing the Sun') describes in its prose.",
+      "chosen_heading": "Facing the Sun",
+      "current_heading": "Facing the Sun",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Ten Questions",
+    "candidates": [
+      "Ten Questions",
+      "Heaven/Earth vs East/West",
+      "Distance Answer",
+      "Sun Brightness"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ten Questions",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the introductory framing sentence introducing the ten questions Alexander asked, which matches heading 0 ('Ten Questions') whose prose describes exactly this opening introduction.",
+      "second_heading": "Heaven/Earth vs East/West",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the specific first question about heaven/earth vs east/west distance and its answer, which matches heading 1 ('Heaven/Earth vs East/West') whose prose describes precisely this first question.",
+      "current_heading": "Ten Questions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Sun Brightness",
+    "candidates": [
+      "Heaven/Earth vs East/West",
+      "Distance Answer",
+      "Sun Brightness",
+      "Light vs Darkness",
+      "Strategic Refusal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the Sages' statement that both distances are equal (with the Psalms proof), which is explicitly discussed in the 'Distance Answer' prose, along with the follow-up question about why the sun at midday cannot be looked at \u2014 the prose of section 1 covers both the equality claim and introduces the midday brightness question, making it the natural home for this passage.",
+      "chosen_heading": "Distance Answer",
+      "current_heading": "Sun Brightness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Strategic Refusal",
+    "candidates": [
+      "Light vs Darkness",
+      "Strategic Refusal",
+      "Wisdom & Virtue",
+      "Sages' Answers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the heaven/earth question, the light/darkness question, the Elders' refusal and its rationale, and the Gemara's explanation of why they answered one but not the other \u2014 are precisely the content described in the 'Strategic Refusal' prose, which explicitly covers the milta da ein lah petar, the tohu vavohu/darkness argument, and the mah lema'ala concern.",
+      "chosen_heading": "Strategic Refusal",
+      "current_heading": "Strategic Refusal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Sages' Answers",
+    "candidates": [
+      "Wisdom & Virtue",
+      "Sages' Answers",
+      "Authority & Favor",
+      "Alexander's Counter",
+      "Ocean vs Land"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sages' Answers",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the wise/mighty/wealthy exchange whose answers are drawn from Pirkei Avot, matching exactly what the 'Sages' Answers' prose describes before moving on to the life/death questions.",
+      "second_heading": "Authority & Favor",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the 'what must a man do to be accepted by people' question and the sages' answer about despising kingship, which is precisely what the 'Authority & Favor' prose discusses (including Alexander's counter being reserved for the next heading).",
+      "current_heading": "Sages' Answers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Ocean vs Land",
+    "candidates": [
+      "Authority & Favor",
+      "Alexander's Counter",
+      "Ocean vs Land",
+      "Who is Smartest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses whether it is better to live at sea or on dry land, which is precisely what the 'Ocean vs Land' section's prose describes.",
+      "chosen_heading": "Ocean vs Land",
+      "current_heading": "Ocean vs Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Who is Smartest",
+    "candidates": [
+      "Who is Smartest",
+      "Opposition & Satan",
+      "Threat & Honor",
+      "Royal Reward"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Royal Reward",
+    "candidates": [
+      "Opposition & Satan",
+      "Threat & Honor",
+      "Royal Reward",
+      "Thematic Analysis",
+      "Classical Parallels",
+      "Journey to Africa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Alexander threatening execution by royal decree and the sages invoking his prior pledge ('falsehood is unbecoming for a king'), which is precisely what the 'Threat & Honor' section's prose discusses, while the purple garments and gold chains that conclude the passage are the immediate result of that exchange and belong to the same scene rather than a separate 'Royal Reward' section.",
+      "chosen_heading": "Threat & Honor",
+      "current_heading": "Royal Reward",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Journey to Africa",
+    "candidates": [
+      "Thematic Analysis",
+      "Classical Parallels",
+      "Journey to Africa",
+      "Crossing Darkness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage depicts Alexander announcing his desire to go to Africa and the sages warning him about the Mountains of Darkness, which is precisely what the 'Journey to Africa' section prose describes.",
+      "chosen_heading": "Journey to Africa",
+      "current_heading": "Journey to Africa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Crossing Darkness",
+    "candidates": [
+      "Crossing Darkness",
+      "City of Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the advice to use Libyan donkeys and rope coils to navigate through the darkness, which directly matches the 'Crossing Darkness' section's prose discussion of exactly these elements.",
+      "chosen_heading": "Crossing Darkness",
+      "current_heading": "Crossing Darkness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "City of Women",
+    "candidates": [
+      "City of Women",
+      "Gold Bread",
+      "Gate Inscription"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Alexander's arrival at the city of women and the battle dilemma, which is exactly what the 'City of Women' prose section discusses, ending just before the golden bread is brought \u2014 the bread itself is covered in the next section.",
+      "chosen_heading": "City of Women",
+      "current_heading": "City of Women",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Gate Inscription",
+    "candidates": [
+      "Gold Bread",
+      "Gate Inscription",
+      "Fountain Discovery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the golden bread exchange (Alexander's protest and the women's reply) and the gate inscription, but the prose under 'Gold Bread' (index 0) explicitly discusses both the golden bread dialogue and the women's retort, making it the better match for this combined passage \u2014 while the 'Gate Inscription' prose treats only the farewell inscription as its main subject.",
+      "chosen_heading": "Gold Bread",
+      "current_heading": "Gate Inscription",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Fountain Discovery",
+    "candidates": [
+      "Gate Inscription",
+      "Fountain Discovery",
+      "Stream to Eden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Alexander sitting at a spring and eating bread with salted fish, which directly matches the 'Fountain Discovery' prose describing him sitting by a well with salted fish \u2014 the fragrance discovery is the culminating detail of that scene, not yet the conclusion drawn in 'Stream to Eden.'",
+      "chosen_heading": "Fountain Discovery",
+      "current_heading": "Fountain Discovery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Stream to Eden",
+    "candidates": [
+      "Stream to Eden",
+      "Eyeball Gift",
+      "Eyeball Weighs More",
+      "Never Satisfied"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the two versions (washing face vs. ascending to Eden's gate) and the eyeball gift, matching the 'Stream to Eden' prose's description of both accounts and the gate encounter, while the subsequent headings break out the eyeball weighing and its interpretation as separate sections.",
+      "chosen_heading": "Stream to Eden",
+      "current_heading": "Stream to Eden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Never Satisfied",
+    "candidates": [
+      "Eyeball Gift",
+      "Eyeball Weighs More",
+      "Never Satisfied",
+      "Sheol Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the sages explaining the eyeball symbolizes insatiable desire of flesh and blood, and demonstrating with dirt that it immediately balances \u2014 exactly what the 'Never Satisfied' section's prose discusses.",
+      "chosen_heading": "Never Satisfied",
+      "current_heading": "Never Satisfied",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Sheol Verse",
+    "candidates": [
+      "Sheol Verse",
+      "Night Study"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Gehenna being above the heavens or beyond the Mountains of Darkness is explicitly discussed in the 'Sheol Verse' section's prose, which quotes and interprets this exact tradition in context.",
+      "chosen_heading": "Sheol Verse",
+      "current_heading": "Sheol Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Night Study",
+    "candidates": [
+      "Night Study",
+      "Increase Peace",
+      "Peace Verse",
+      "End of Gemara",
+      "One Blessing",
+      "Shema Recitation",
+      "Abbreviated Service",
+      "Ten Commandments",
+      "Three Blessings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rabbi \u1e24iyya teaching on night Torah study and the Rabbi Elazar ben Azarya teaching on scholars and peace as a single unit, and the current 'Night Study' heading's prose explicitly discusses both teachings together as a concluding set, making it the correct placement.",
+      "chosen_heading": "Night Study",
+      "current_heading": "Night Study",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Three Blessings",
+    "candidates": [
+      "Increase Peace",
+      "Peace Verse",
+      "End of Gemara",
+      "One Blessing",
+      "Shema Recitation",
+      "Abbreviated Service",
+      "Ten Commandments",
+      "Three Blessings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the 'hadran' formula marking the end of the tractate/seder, which corresponds exactly to the 'End of Gemara' section that explicitly mentions 'Ha-dran alach hayu kotzim' as the closing of Seder Kodshim's gemara.",
+      "chosen_heading": "End of Gemara",
+      "current_heading": "Three Blessings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Three Blessings",
+    "candidates": [
+      "Three Blessings",
+      "Shabbat Blessing"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Three Blessings",
+      "current_heading": "Three Blessings",
+      "moved": false
+    }
+  }
+]

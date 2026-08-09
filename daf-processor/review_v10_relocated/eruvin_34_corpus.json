@@ -1,0 +1,241 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Yom Tov After Shabbat",
+    "candidates": [
+      "Tosafos on Eruv Placement",
+      "Yom Tov After Shabbat",
+      "Eruv on Wall",
+      "Tower/Coop Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's statement about the decree due to a Festival occurring after Shabbat, which is precisely what the 'Yom Tov After Shabbat' section's prose describes as the Gemara's answer.",
+      "chosen_heading": "Yom Tov After Shabbat",
+      "current_heading": "Yom Tov After Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Tower/Coop Case",
+    "candidates": [
+      "Eruv on Wall",
+      "Tower/Coop Case",
+      "Nailed vs. Tall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the wall case (below/above ten handbreadths in reshut harabim) AND the dovecote/tower case together in one baraita, but the prose of heading 0 ('Eruv on Wall') explicitly describes presenting these cases as a series to test the framework, and the passage begins with the wall case \u2014 moreover, heading 1 ('Tower/Coop Case') describes the Gemara's subsequent analysis/question about tipping, not the initial presentation of the baraita itself, making heading 0 the better fit for the sourced baraita text that introduces both cases.",
+      "chosen_heading": "Eruv on Wall",
+      "current_heading": "Tower/Coop Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Nailed vs. Tall",
+    "candidates": [
+      "Tower/Coop Case",
+      "Nailed vs. Tall",
+      "Window & Rope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the two answers (Rabbi Yirmiah's nailed migdal and Rava's tall migdal) that the 'Nailed vs. Tall' prose explicitly describes as the two responses to the tipping objection.",
+      "chosen_heading": "Nailed vs. Tall",
+      "current_heading": "Nailed vs. Tall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Window & Rope",
+    "candidates": [
+      "Window & Rope",
+      "Well Domains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the window-and-rope scenario that candidate 0's prose explicitly addresses, making the current placement correct.",
+      "chosen_heading": "Window & Rope",
+      "current_heading": "Window & Rope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Well Domains",
+    "candidates": [
+      "Well Domains",
+      "Pole vs. Reed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the opening Gemara discussion about the pit/well case from the Mishnah \u2014 asking where the pit is situated, dismissing the private domain case as obvious, and raising the public domain scenario \u2014 which matches exactly the prose under 'Well Domains.'",
+      "chosen_heading": "Well Domains",
+      "current_heading": "Well Domains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Pole vs. Reed",
+    "candidates": [
+      "Pole vs. Reed",
+      "Rav Nachman Story"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 2,
+      "first_heading": "Pole vs. Reed",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 is the Gemara answer about karmelit and Rabbi Yehuda HaNasi's position on shevut during twilight, which directly corresponds to the 'Pole vs. Reed' prose discussion of Rebbe's lenient position on bein hashmashot.",
+      "second_heading": "Pole vs. Reed",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna about placing an eiruv on top of a reed or pole (talush vena'utz), which directly matches the 'Pole vs. Reed' heading and its prose description of this exact Mishna.",
+      "third_heading": "Pole vs. Reed",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 contains the Gemara discussion with Rav Adda bar Mattana, Rava, Rami bar Chama, Rav Chisda, and Ravina's kula Rabbi / shema yiktom answer, all of which are explicitly described in the 'Pole vs. Reed' prose.",
+      "current_heading": "Pole vs. Reed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Rav Nachman Story",
+    "candidates": [
+      "Rav Nachman Story",
+      "Reeds in Kilayim",
+      "Soft vs. Hard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the opening of the Rav Nachman story \u2014 the army coming to Nehardea and the immediate objection from Rami bar Chama \u2014 which is exactly what heading 0's prose describes as the incident and the challenge to Rav Nachman.",
+      "chosen_heading": "Rav Nachman Story",
+      "current_heading": "Rav Nachman Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Soft vs. Hard",
+    "candidates": [
+      "Reeds in Kilayim",
+      "Soft vs. Hard",
+      "Mishna Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the contradiction between the two baraitot about reeds, its resolution via the hard/soft distinction, and the further question about kida/white kida resolved by Rav Papa \u2014 are precisely the content described in the 'Soft vs. Hard' prose, which explicitly discusses all of these points including the kida refinement.",
+      "chosen_heading": "Soft vs. Hard",
+      "current_heading": "Soft vs. Hard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Mishna Position",
+    "candidates": [
+      "Mishna Position",
+      "Brick & Yom Tov",
+      "Rabbi Meir on Bricks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishnah about the lost key and the Gemara's opening question about accessibility \u2014 are precisely what the 'Mishna Position' prose describes: the Tanna Kamma's ruling and the immediate conceptual question it raises about physical versus halachic inaccessibility.",
+      "chosen_heading": "Mishna Position",
+      "current_heading": "Mishna Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Rabbi Meir on Bricks",
+    "candidates": [
+      "Brick & Yom Tov",
+      "Rabbi Meir on Bricks",
+      "Key Location",
+      "Found Key"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single chain of objection-and-answer about the brick cupboard ruling (Rabbi Meir, layers of bricks, Yom Tov), which is exactly what heading 1 'Rabbi Meir on Bricks' discusses in its prose, including the Yom Tov limitation noted by Rabbi Zeira.",
+      "chosen_heading": "Rabbi Meir on Bricks",
+      "current_heading": "Rabbi Meir on Bricks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Found Key",
+    "candidates": [
+      "Key Location",
+      "Found Key"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's challenge (if Yom Tov, why does city vs. field matter?) and its resolution (the mishna is incomplete, restructured to address both Yom Tov and Shabbat scenarios), which is precisely what the 'Found Key' prose describes.",
+      "chosen_heading": "Found Key",
+      "current_heading": "Found Key",
+      "moved": false
+    }
+  }
+]

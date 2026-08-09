@@ -1,0 +1,343 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Shushe/Shavtzire Debate",
+    "candidates": [
+      "Shushe/Shavtzire Debate",
+      "Hizmi/Higi Dispute",
+      "Palm Shoots Bundle",
+      "String Addition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shushe/Shavtzire Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the Rav Yehuda/Abaye dispute about shushe and shavtzire, which is precisely what candidate 0's prose describes.",
+      "second_heading": "Hizmi/Higi Dispute",
+      "second_confidence": "high",
+      "second_reason": "Item 3 covers the Rav \u1e24anan bar Rava/Abaye dispute about hizmi and higi, which is precisely what candidate 1's prose describes.",
+      "current_heading": "Shushe/Shavtzire Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "String Addition",
+    "candidates": [
+      "Hizmi/Higi Dispute",
+      "Palm Shoots Bundle",
+      "String Addition",
+      "Reed Stalks",
+      "Kanim/Dukranim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Palm Shoots Bundle",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav Giddel/Rav on palm shoots) is precisely what candidate 1 'Palm Shoots Bundle' discusses, including the natural bundle principle and the eged bidei Shamayim ruling.",
+      "second_heading": "Reed Stalks",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rav \u1e24isda/Ravina bar Sheila on reed clusters) matches candidate 3 'Reed Stalks' exactly, which describes the identical principle applied to dukrei de'kanei.",
+      "current_heading": "String Addition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Kanim/Dukranim",
+    "candidates": [
+      "Reed Stalks",
+      "Kanim/Dukranim",
+      "Swamp Maror"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the baraita about kanim ve'dukranim and the gemara's reinterpretation of it as naturally joined reed clusters valid for sechach, which matches exactly the prose in heading 1 ('Kanim/Dukranim').",
+      "chosen_heading": "Kanim/Dukranim",
+      "current_heading": "Kanim/Dukranim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Swamp Maror",
+    "candidates": [
+      "Swamp Maror",
+      "Ezov Varieties",
+      "Abaye's Answer",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the ruling about bitter herbs of a marsh fulfilling the Passover obligation, which is exactly what the 'Swamp Maror' section introduces and discusses.",
+      "chosen_heading": "Swamp Maror",
+      "current_heading": "Swamp Maror",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Ezov Varieties",
+      "Abaye's Answer",
+      "Rava's Answer",
+      "Three Stalks Bundle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about hyssop varieties, Abaye's answer, and Rava's answer \u2014 form one continuous discussion about why swamp maror is not excluded by the 'modifier name' rule, and candidate 0 ('Ezov Varieties') is the section whose prose explicitly sets up this exact question ('The question is then unavoidable: why should swamp maror not be similarly excluded?'), making it the natural home for the entire passage including both Abaye's and Rava's responses.",
+      "chosen_heading": "Ezov Varieties",
+      "current_heading": "Rava's Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Three Stalks Bundle",
+    "candidates": [
+      "Rava's Answer",
+      "Three Stalks Bundle",
+      "Hyssop Mitzvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is currently placed correctly: it covers Rav \u1e24isda's ruling on binding one/three/two items and introduces the hyssop mishna as the source of the dispute about two, which is exactly what the 'Three Stalks Bundle' prose describes.",
+      "chosen_heading": "Three Stalks Bundle",
+      "current_heading": "Three Stalks Bundle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Hyssop Mitzvah",
+    "candidates": [
+      "Hyssop Mitzvah",
+      "Yossi vs Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the initial reasoning that Rabbi Yossi's 'three for the mitzva' implies two suffices from the start, and that the Rabbis require three absolutely \u2014 which is precisely the framing that candidate 1's prose discusses as the 'at first glance' reading before the baraita forecloses it.",
+      "chosen_heading": "Yossi vs Rabbanan",
+      "current_heading": "Hyssop Mitzvah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Yossi vs Rabbanan",
+    "candidates": [
+      "Hyssop Mitzvah",
+      "Yossi vs Rabbanan",
+      "Pirkei Avot Groups",
+      "Debate Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items deal with the baraita evidence used to resolve and confirm the Yossi/Rabanan dispute and the internal tension within the Rabanan's baraita, which is precisely what candidate 3 ('Debate Resolution') discusses in its prose.",
+      "chosen_heading": "Debate Resolution",
+      "current_heading": "Yossi vs Rabbanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Debate Resolution",
+    "candidates": [
+      "Pirkei Avot Groups",
+      "Debate Resolution",
+      "Counting Bundle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the textual emendation ('ela eima') resolving the internal tension in the baraita about beginning and ending with one, which is explicitly described in the 'Debate Resolution' section's prose.",
+      "chosen_heading": "Debate Resolution",
+      "current_heading": "Debate Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Counting Bundle",
+    "candidates": [
+      "Counting Bundle",
+      "Trappers' Huts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Mareimar's teaching on bundles from Sura bound solely for counting matches exactly the prose under heading 0, which explicitly discusses this teaching and its reasoning.",
+      "chosen_heading": "Counting Bundle",
+      "current_heading": "Counting Bundle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Trappers' Huts",
+    "candidates": [
+      "Trappers' Huts",
+      "Structural Weaving"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the willow-branch trapper's hut case (Rabbi Abba's ruling, the question about ties at the bottom, and Rav Pappa's answer) which is precisely what the 'Trappers' Huts' section prose discusses.",
+      "chosen_heading": "Trappers' Huts",
+      "current_heading": "Trappers' Huts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Structural Weaving",
+    "candidates": [
+      "Structural Weaving",
+      "Maror Barrier"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna son of Rav Yehoshua's ruling that 'any binding not destined to be moved is not considered a binding,' which is precisely the principle discussed in the 'Structural Weaving' section's prose about kol eged she-eino asui le-taltelo and the trapper's hut falling apart if moved.",
+      "chosen_heading": "Structural Weaving",
+      "current_heading": "Structural Weaving",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Maror Barrier",
+    "candidates": [
+      "Maror Barrier",
+      "Avir Disqualification",
+      "Air vs Pasul",
+      "Wine Harvest Yad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the tumah transmission/barrier ruling AND the sukka airspace ruling in a single statement by Rabbi Abba/Shmuel, spanning the content of both candidates 0 and 1, but the current placement under 'Maror Barrier' introduces the full gemara passage (including the avir element), while candidate 1's prose discusses only the second half \u2014 and the passage as a whole is best introduced under its current heading where the full ruling begins.",
+      "chosen_heading": "Maror Barrier",
+      "current_heading": "Maror Barrier",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Wine Harvest Yad",
+    "candidates": [
+      "Avir Disqualification",
+      "Air vs Pasul",
+      "Wine Harvest Yad",
+      "Sechach Harvest Yad",
+      "Branches/Fruit Mixture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Items 1-3 together form the Gemara's comparison of the two Rav Huna rulings (botzer/kotzetz) and the dispute about which case is the stronger precedent \u2014 this discussion of both rulings together and their relationship belongs under the 'Sechach Harvest Yad' heading, which explicitly anticipates this tension and dispute, rather than under 'Wine Harvest Yad' which covers only the botzer ruling in isolation.",
+      "chosen_heading": "Sechach Harvest Yad",
+      "current_heading": "Wine Harvest Yad",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Branches/Fruit Mixture",
+    "candidates": [
+      "Sechach Harvest Yad",
+      "Branches/Fruit Mixture",
+      "Stalk Proportion Debate",
+      "Initial Intent Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita and its initial analysis as part of challenging/contextualizing Rav Menashya bar Gadda's ruling \u2014 which is precisely what heading 0 ('Sechach Harvest Yad') discusses \u2014 whereas heading 1 ('Branches/Fruit Mixture') already contains the prose summary of that baraita's content, and heading 2 ('Stalk Proportion Debate') contains the prose for item 2's conclusion, suggesting both items belong earlier under heading 0 where the Gemara first raises the tannaitic dispute against Rav Menashya bar Gadda's position.",
+      "chosen_heading": "Sechach Harvest Yad",
+      "current_heading": "Branches/Fruit Mixture",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Initial Intent Rule",
+    "candidates": [
+      "Stalk Proportion Debate",
+      "Initial Intent Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Menashya bar Gadda's resolution that everyone agrees one who cuts for roofing has no handles, and the baraita's case involves cutting originally for food then reconsidering for sechach \u2014 exactly what the 'Initial Intent Rule' prose describes.",
+      "chosen_heading": "Initial Intent Rule",
+      "current_heading": "Initial Intent Rule",
+      "moved": false
+    }
+  }
+]

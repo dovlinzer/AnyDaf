@@ -1,0 +1,352 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Sale Story",
+    "candidates": [
+      "Sale Story",
+      "Rav Yosef Ruling",
+      "Abaye Challenge",
+      "Wine Price Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the initial incident \u2014 the conditional promise, the kinyan, and the sale to a third party, plus Rav Yosef's ruling \u2014 which maps directly to the 'Sale Story' prose that narrates the same facts; the current placement is correct.",
+      "chosen_heading": "Sale Story",
+      "current_heading": "Sale Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Wine Price Proof",
+    "candidates": [
+      "Rav Yosef Ruling",
+      "Abaye Challenge",
+      "Wine Price Proof",
+      "Yayin Nesech Exception",
+      "Meshicha & Price"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's challenge to Rav Yosef about the lack of fixed price AND his proof from the wine Mishnah, which together constitute the 'Abaye Challenge' \u2014 the wine Mishnah citation is integral to Abaye's challenge argument, not a separate section, and the 'Abaye Challenge' prose explicitly references both the challenge and the psak damim principle derived from that very Mishnah.",
+      "chosen_heading": "Abaye Challenge",
+      "current_heading": "Wine Price Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Meshicha & Price",
+    "candidates": [
+      "Yayin Nesech Exception",
+      "Meshicha & Price",
+      "Rav Kahana Ruling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yayin Nesech Exception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's deflection that the Mishnah's ruling may be a stringency unique to yayin nesech, which matches exactly the 'Yayin Nesech Exception' heading's prose about dilma chumra d'yayin nesech shani.",
+      "second_heading": "Meshicha & Price",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the proof from Rav Idi bar Avin about meshicha with donkey drivers and the unloading case, which matches exactly the 'Meshicha & Price' heading's prose about mashach chammar u'poalav and the parkan v'hichnisam ruling.",
+      "current_heading": "Meshicha & Price",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rav Kahana Ruling",
+    "candidates": [
+      "Rav Kahana Ruling",
+      "Ones Challenge",
+      "Ones Analysis",
+      "Halacha Ruling",
+      "Three Assessors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full incident including Rav Kahana's ruling, Rav Yaakov's objection, and the final halacha \u2014 and the current placement under 'Rav Kahana Ruling' is where the essay introduces this entire case, making it the natural home for the complete Talmudic excerpt.",
+      "chosen_heading": "Rav Kahana Ruling",
+      "current_heading": "Rav Kahana Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Three Assessors",
+    "candidates": [
+      "Ones Challenge",
+      "Ones Analysis",
+      "Halacha Ruling",
+      "Three Assessors",
+      "Rav Pappa Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rules for assessment by three or four people using 'deshaimi' vs 'de'amri' language, which is precisely what the 'Three Assessors' section's prose explains.",
+      "chosen_heading": "Three Assessors",
+      "current_heading": "Three Assessors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rav Pappa Objection",
+    "candidates": [
+      "Rav Pappa Objection",
+      "Rav Huna Counter",
+      "Halacha Assessment",
+      "Mishnah Setup",
+      "Funnel Remnants",
+      "Vessel Pouring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full exchange \u2014 Rav Pappa's ruling that the buyer can block the assessment, Rav Huna's objection, and the final halacha \u2014 and the current heading's prose explicitly sets up and discusses Rav Pappa's ruling as the entry point for this entire unit, making it the natural home for the complete passage.",
+      "chosen_heading": "Rav Pappa Objection",
+      "current_heading": "Rav Pappa Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Vessel Pouring",
+    "candidates": [
+      "Rav Huna Counter",
+      "Halacha Assessment",
+      "Mishnah Setup",
+      "Funnel Remnants",
+      "Vessel Pouring",
+      "Nitzok Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The Mishnah text about the funnel and vessel pouring is the Mishnah that the 'Mishnah Setup' prose explicitly introduces and paraphrases ('natal et hamashpach u'madad l'toch tzluchito shel oved kochavim'), making it the clear home for this passage rather than 'Vessel Pouring' which discusses the ruling's implications.",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Vessel Pouring",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Nitzok Intro",
+    "candidates": [
+      "Vessel Pouring",
+      "Nitzok Intro",
+      "Rav Huna Position",
+      "Rav Nachman Challenge",
+      "Inference Problem",
+      "Rabbi Chiya Baraita",
+      "Doubling Back Case",
+      "Second Mishnah",
+      "Midair Stream Status",
+      "Stream Breaking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form one continuous discussion: the Gemara cites the Taharot mishna cataloguing nitzok/katafres/mashkeh tofe'ach, Rav Huna asserts they are a chibur for yayin nesech, Rav Nachman challenges the derivation, and the mishna in Avodah Zarah is then tested \u2014 exactly the content described in the 'Nitzok Intro' prose which sets up the Taharot mishna and the question of whether nitzok is a chibur for yayin nesech.",
+      "chosen_heading": "Nitzok Intro",
+      "current_heading": "Nitzok Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Stream Breaking",
+    "candidates": [
+      "Rav Huna Position",
+      "Rav Nachman Challenge",
+      "Inference Problem",
+      "Rabbi Chiya Baraita",
+      "Doubling Back Case",
+      "Second Mishnah",
+      "Midair Stream Status",
+      "Stream Breaking",
+      "Ambiguity Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All three items deal with the attempt to prove nitzok is a chibur from the pouring-vessel Mishnah, the objection that the source vessel should also be forbidden, and the resolution via stream-breaking \u2014 exactly what candidate 6 ('Midair Stream Status') describes, including the inference 'ha d'beini beini assur, shema mina nitzok chibur' and the counter-objection about the source vessel.",
+      "chosen_heading": "Midair Stream Status",
+      "current_heading": "Stream Breaking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Ambiguity Conclusion",
+    "candidates": [
+      "Stream Breaking",
+      "Ambiguity Conclusion",
+      "Stream Forbidden",
+      "Non-Jew Pouring",
+      "Kocho Concept",
+      "Kocho Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's rejection of the proof from the Mishnah \u2014 arguing that the latter clause implies midair wine is permitted, thus the Mishnah proves nothing \u2014 which is exactly what the 'Ambiguity Conclusion' prose describes with *ela me'ha leika le'mishma minah*.",
+      "chosen_heading": "Ambiguity Conclusion",
+      "current_heading": "Ambiguity Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Kocho Rabbinic",
+    "candidates": [
+      "Stream Forbidden",
+      "Non-Jew Pouring",
+      "Kocho Concept",
+      "Kocho Rabbinic",
+      "Rav Chisda"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Stream Forbidden",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita about the stream being forbidden and Rav Sheshet's reinterpretation that it concerns a gentile pouring (kocho), which matches heading 0 ('Stream Forbidden') and heading 1 ('Non-Jew Pouring') \u2014 but heading 0's prose explicitly covers the baraita citation and the stream being declared forbidden, and heading 1's prose covers Rav Sheshet's reinterpretation, so item 1 spans both; however the baraita + Rav Sheshet's targema are a single unit best placed under heading 1 ('Non-Jew Pouring') whose prose directly discusses Rav Sheshet's reinterpretation and the kocho reasoning.",
+      "second_heading": "Kocho Concept",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the objection that the barrel wine should also be forbidden due to kocho, which matches heading 2 ('Kocho Concept') whose prose explicitly describes this very objection about why only the stream and not the barrel wine is forbidden.",
+      "current_heading": "Kocho Rabbinic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rav Chisda",
+    "candidates": [
+      "Kocho Rabbinic",
+      "Rav Chisda",
+      "Rava Warning",
+      "Siphon Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav \u1e24isda's instruction to wine retailers about breaking the stream when measuring wine for gentiles AND Rava's warning to pourers about not letting gentiles assist, and the current placement under 'Rav Chisda' correctly captures the beginning of this combined passage \u2014 moreover, the prose under index 1 explicitly discusses Rav \u1e24isda's ruling and index 2 discusses Rava's warning separately, but since both Talmudic statements appear together in one item, the current placement is the best single home.",
+      "chosen_heading": "Rav Chisda",
+      "current_heading": "Rav Chisda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Siphon Story",
+    "candidates": [
+      "Rava Warning",
+      "Siphon Story",
+      "Siphon Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the siphon incident itself \u2014 a man siphoning wine, a gentile touching the tube, and Rava's ruling \u2014 which is exactly what the 'Siphon Story' prose describes.",
+      "chosen_heading": "Siphon Story",
+      "current_heading": "Siphon Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Siphon Challenge",
+    "candidates": [
+      "Siphon Challenge",
+      "Kaniskanin Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the challenge to Rava about nitzok chibur and his response distinguishing the siphon case, which is precisely what the 'Siphon Challenge' section's prose describes.",
+      "chosen_heading": "Siphon Challenge",
+      "current_heading": "Siphon Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Kaniskanin Case",
+    "candidates": [
+      "Kaniskanin Case",
+      "Rashi vs. Rabbeinu Tam",
+      "Hefsed Merubeh Leniency",
+      "Mixture Bittul",
+      "Touching Context",
+      "Stam Yeinam Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are about the kenishkanin ruling \u2014 Mar Zutra's permissibility condition and Rabba bar Rav Huna's application of it \u2014 which is precisely what the 'Kaniskanin Case' prose discusses.",
+      "chosen_heading": "Kaniskanin Case",
+      "current_heading": "Kaniskanin Case",
+      "moved": false
+    }
+  }
+]

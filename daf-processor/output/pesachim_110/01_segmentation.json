@@ -20,7 +20,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Baraisa Prohibition Against Doing Things in Pairs",
@@ -179,8 +179,8 @@
           "timestamp": "26:51"
         }
       ],
-      "sefaria_index": 9,
-      "matched": false
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Geographic and Halakhic Limitations of the Pairs Concern",
@@ -198,7 +198,7 @@
           "timestamp": "30:03"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 10,
       "matched": false
     },
     {
@@ -212,7 +212,7 @@
           "timestamp": "30:33"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -226,7 +226,7 @@
           "timestamp": "33:43"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -552,5 +552,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "26:51",
+  "amud_b_micro_title": "Rishtina Witches",
+  "shiur_start_daf": 109,
+  "shiur_start_amud": "b"
 }

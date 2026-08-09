@@ -1,0 +1,430 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Get Overseas Intro",
+    "candidates": [
+      "Get Overseas Intro",
+      "Death/Murder Cases",
+      "Woman's Investigation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full mishnah text covering both the get-from-overseas case and the death/murder testimony cases, and it currently sits under 'Get Overseas Intro' which is the opening section that introduces this mishnah \u2014 the current placement is correct as the mishnah is a single unit introduced there, with subsequent headings covering the gemara's analysis of its parts.",
+      "chosen_heading": "Get Overseas Intro",
+      "current_heading": "Get Overseas Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Woman's Investigation",
+    "candidates": [
+      "Death/Murder Cases",
+      "Woman's Investigation",
+      "Get vs. Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the exact gemara discussion described in the 'Woman's Investigation' prose: item 1 introduces the d'lav alav kasamchinan distinction for Eretz Yisrael get delivery, and item 2 raises the challenge about the death testimony case that leads to the isha dayka u'minsava principle \u2014 precisely what that section's prose describes.",
+      "chosen_heading": "Woman's Investigation",
+      "current_heading": "Woman's Investigation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Get vs. Death",
+    "candidates": [
+      "Get vs. Death",
+      "Document Validation",
+      "Murder Confession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between a get and death testimony, citing the mishna 'mah bein get lemita she'haksav mochiach,' which is precisely what the 'Get vs. Death' section's prose describes.",
+      "chosen_heading": "Get vs. Death",
+      "current_heading": "Get vs. Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Murder Confession",
+    "candidates": [
+      "Document Validation",
+      "Murder Confession",
+      "Rape Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and analyzes the mishna's ruling about 'he died/I killed him/we killed him' and the Gemara's inference that the witness himself may not marry her but others may, which is precisely what the 'Murder Confession' prose section discusses.",
+      "chosen_heading": "Murder Confession",
+      "current_heading": "Murder Confession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Rape Testimony",
+    "candidates": [
+      "Rape Testimony",
+      "Splitting Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Yosef's ruling about rape testimony (le'onsi vs. birtzoni) and the disqualification of a willing participant as a rasha, which is precisely what the 'Rape Testimony' section's prose describes and analyzes.",
+      "chosen_heading": "Rape Testimony",
+      "current_heading": "Rape Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Splitting Testimony",
+    "candidates": [
+      "Splitting Testimony",
+      "Invalid Witnesses",
+      "Adam Karov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss Rav Menashe's ruling distinguishing between rabbinically and biblically disqualified witnesses (gazlan d'divreihem vs. gazlan d'divrei Torah) for edut isha, and the question of whether Rav Menashe follows Rabbi Yehuda \u2014 which is precisely what the 'Invalid Witnesses' section's prose addresses.",
+      "chosen_heading": "Invalid Witnesses",
+      "current_heading": "Splitting Testimony",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Adam Karov",
+    "candidates": [
+      "Invalid Witnesses",
+      "Adam Karov",
+      "Rav Yosef/Menashya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Menashe's rejection and Rava's principle of 'adam karov etzel atzmo / ein adam mesim atzmo rasha', which is precisely what the 'Adam Karov' section's prose describes and analyzes.",
+      "chosen_heading": "Adam Karov",
+      "current_heading": "Adam Karov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rav Yosef/Menashya",
+    "candidates": [
+      "Rav Yosef/Menashya",
+      "Haragi vs. Haragnu",
+      "Part of Group",
+      "Bandit Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses whether Rav Yosef's opinion aligns with Rabbi Yehuda and his response that he speaks even according to the Rabbis because edut isha is treated more leniently, along with Rav Menashe's alignment with Rabbi Yehuda \u2014 exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Rav Yosef/Menashya",
+      "current_heading": "Rav Yosef/Menashya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Bandit Case",
+    "candidates": [
+      "Haragi vs. Haragnu",
+      "Part of Group",
+      "Bandit Case",
+      "Non-Jewish Courts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the bandit case discussion: item 1 sets up the haragtee/haragnu distinction resolved by Rav Yehuda's interpretation, and item 2 is the baraita challenge about the bandit in Cappadocia with Rav Yehuda's response \u2014 exactly what candidate 2 ('Bandit Case') describes in its prose.",
+      "chosen_heading": "Bandit Case",
+      "current_heading": "Bandit Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Non-Jewish Courts",
+    "candidates": [
+      "Non-Jewish Courts",
+      "Vow Annulment",
+      "Beit Din Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's question about the witness being taken out to be executed and the answer about non-Jewish courts not being precise, which is exactly what the 'Non-Jewish Courts' section's prose addresses.",
+      "chosen_heading": "Non-Jewish Courts",
+      "current_heading": "Non-Jewish Courts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Beit Din Acts",
+    "candidates": [
+      "Vow Annulment",
+      "Beit Din Acts",
+      "Mumcheh Expert"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers both the prohibition on the sage who refused to annul the vow AND the exception for beit din acts (mi'un/chalitza), and candidate 0's prose explicitly discusses the full mishna including the 'lo yisaena' ruling, making it the natural home for the complete mishna text, while candidate 1 discusses only the exception portion in commentary form.",
+      "chosen_heading": "Vow Annulment",
+      "current_heading": "Beit Din Acts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Mumcheh Expert",
+    "candidates": [
+      "Beit Din Acts",
+      "Mumcheh Expert",
+      "Witnesses Self-Interest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single Talmudic chain \u2014 questioning whether the mishna's case involves one or three judges, and resolving it via the yachid mumcheh ruling of Rav \u1e24isda/Rabbi Yo\u1e25anan \u2014 which is precisely what the 'Mumcheh Expert' prose describes.",
+      "chosen_heading": "Mumcheh Expert",
+      "current_heading": "Mumcheh Expert",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Witnesses Self-Interest",
+    "candidates": [
+      "Witnesses Self-Interest",
+      "Kahana vs. Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact discussion described in the 'Witnesses Self-Interest' prose: the deduction that beit din (three) is required, the contrast with the baraita about witnesses signing a sale document or get, and the resolution that the mishna teaches mi'un requires three judges against those who say two suffice.",
+      "chosen_heading": "Witnesses Self-Interest",
+      "current_heading": "Witnesses Self-Interest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Kahana vs. Ashi",
+    "candidates": [
+      "Kahana vs. Ashi",
+      "Rumor Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma of kanas/yotzi, the dispute between Rav Kahana and Rav Ashi, and the supporting baraita from Rav Zuti \u2014 exactly what the 'Kahana vs. Ashi' prose describes.",
+      "chosen_heading": "Kahana vs. Ashi",
+      "current_heading": "Kahana vs. Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Rumor Principle",
+    "candidates": [
+      "Rumor Principle",
+      "Vow vs. Get",
+      "Wife Dies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the gemara's proof from the mishna and the conclusion 'birnana lo mafkinan,' which is precisely what the 'Rumor Principle' prose describes \u2014 the derivation from the mishna of suspected relationships and the principle that we do not force divorce based on rumor alone.",
+      "chosen_heading": "Rumor Principle",
+      "current_heading": "Rumor Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Wife Dies",
+    "candidates": [
+      "Vow vs. Get",
+      "Wife Dies",
+      "Marital Strife",
+      "Intervening Marriage"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Wife Dies",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna text covering all three permitting conditions (wife died, intervening marriage, sons/brothers), which candidate 1 ('Wife Dies') explicitly discusses in full including the intervening marriage and sons/brothers clauses.",
+      "second_heading": "Marital Strife",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 are the Gemara's inference about divorce vs. death, Rav Hillel's challenge from the baraita, and the two resolutions involving marital strife and who initiated the quarrel \u2014 exactly what candidate 2 ('Marital Strife') describes in its prose.",
+      "current_heading": "Wife Dies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Intervening Marriage",
+    "candidates": [
+      "Marital Strife",
+      "Intervening Marriage",
+      "Relatives Allow",
+      "Women Visit; Men Don't"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly discuss the mishnah's clause about intervening marriage (she-nisu le'acherim), the parallel reading of death/divorce cases, and the challenge/resolution regarding Rabbi's view on the two-death khazaka \u2014 exactly what the 'Intervening Marriage' prose describes.",
+      "chosen_heading": "Intervening Marriage",
+      "current_heading": "Intervening Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Women Visit; Men Don't",
+    "candidates": [
+      "Relatives Allow",
+      "Women Visit; Men Don't"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items \u2014 the mishna's permission for sons/brothers, the challenge from the Tosefta, the two answers about women visiting vs. men not visiting and about mutual forbiddenness, and the 'lo tzricha' resolution about the father \u2014 are precisely the content described in candidate 1's prose, which covers every one of these points in detail.",
+      "chosen_heading": "Women Visit; Men Don't",
+      "current_heading": "Women Visit; Men Don't",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Women Visit; Men Don't",
+    "candidates": [
+      "Women Visit; Men Don't",
+      "Sisters & Death",
+      "Achat Zekukato"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items \u2014 the mishna about four brothers and two sisters, the various sub-cases about forbidden relations, and the gemara deducing that the levirate bond (zika) is substantial \u2014 are precisely the content described in candidates 1 ('Sisters & Death') and 2 ('Achat Zekukato'), and clearly do not belong under candidate 0 which discusses suspicion of affairs and family visitation patterns; candidate 1 is the opening heading for this mishna's material.",
+      "chosen_heading": "Sisters & Death",
+      "current_heading": "Women Visit; Men Don't",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Achat Zekukato",
+    "candidates": [
+      "Sisters & Death",
+      "Achat Zekukato",
+      "One Ervah",
+      "Sister Options",
+      "Zika Question",
+      "Rava Prevention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the 'ein zika' rejection and the prohibition of nullifying the mitzva of yibum, which is precisely what the 'Zika Question' prose section discusses as the lead-in to Rava's explanation in candidate 5.",
+      "chosen_heading": "Zika Question",
+      "current_heading": "Achat Zekukato",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,689 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "21st Nissan Dating",
+    "candidates": [
+      "21st Nissan Dating",
+      "6th Sivan Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rabbi \u1e24anina bar Pappa's statement that the day was the 21st of Nisan, which is exactly what the '21st Nissan Dating' heading's prose describes.",
+      "chosen_heading": "21st Nissan Dating",
+      "current_heading": "21st Nissan Dating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "6th Sivan Alternative",
+    "candidates": [
+      "6th Sivan Alternative",
+      "7th Adar Birth/Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi A\u1e25a bar \u1e24anina's statement that the day was the 6th of Sivan and the angels' protestation about the future Torah-giver, which is precisely what heading 0 ('6th Sivan Alternative') describes in its prose.",
+      "chosen_heading": "6th Sivan Alternative",
+      "current_heading": "6th Sivan Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "7th Adar Birth/Death",
+    "candidates": [
+      "7th Adar Birth/Death",
+      "Leap Year Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically presents the Gemara's 'bishlamah' question comparing the 6th of Sivan vs 21st of Nisan opinions and how three months can be found, which is precisely what the 'Leap Year Timing' section's prose describes, whereas the current placement focuses on deriving the 7th Adar birth/death dates.",
+      "chosen_heading": "Leap Year Timing",
+      "current_heading": "7th Adar Birth/Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Leap Year Timing",
+    "candidates": [
+      "7th Adar Birth/Death",
+      "Leap Year Timing",
+      "Nursing Refusal",
+      "Knowledge Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the leap year resolution (osa shana me'uberet hayita) with rubo shel rishon, emtza'ei shalem, and rubo shel acharon \u2014 exactly what the 'Leap Year Timing' prose describes.",
+      "chosen_heading": "Leap Year Timing",
+      "current_heading": "Leap Year Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Knowledge Verses",
+    "candidates": [
+      "Nursing Refusal",
+      "Knowledge Verses",
+      "Miriam's Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items (the question about Hebrew nurses, Moses's refusal to nurse from Egyptians, Miriam's alacrity/concealment, and Pharaoh's daughter's unwitting prophecy plus wages) are explicitly discussed together in the 'Knowledge Verses' prose, which covers exactly this sequence of verses and interpretations.",
+      "chosen_heading": "Knowledge Verses",
+      "current_heading": "Knowledge Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Miriam's Prophecy",
+    "candidates": [
+      "Miriam's Prophecy",
+      "Miriam's Witness",
+      "Entourage Precedence"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Miriam's Prophecy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the question and answer about Miriam being called 'sister of Aaron' and her prophecy before Moses was born, which matches heading 0's prose about the nevia question and the content of her prophecy.",
+      "second_heading": "Miriam's Witness",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the father striking Miriam after Moses is placed in the Nile and the explanation of 'vatitatzav achoto merachok lada'at,' which matches heading 1's prose about Miriam standing afar to see the fulfillment of her prophecy.",
+      "current_heading": "Miriam's Prophecy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Entourage Precedence",
+    "candidates": [
+      "Miriam's Witness",
+      "Entourage Precedence",
+      "Atad & Crowns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the question of why Pharaoh's entourage preceded Joseph's family on the way to Canaan but not on the return, which is precisely what the 'Entourage Precedence' section prose describes, including Rabbi Yochanan's explanation about the Egyptians witnessing Israel's honor.",
+      "chosen_heading": "Entourage Precedence",
+      "current_heading": "Entourage Precedence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Atad & Crowns",
+    "candidates": [
+      "Atad & Crowns",
+      "Descendants' Arrival",
+      "Yosef's Crown"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the threshing floor of Atad, Rabbi Abbahu's explanation of crowns surrounding Jacob's coffin, and the arrival of children of Esau, Ishmael, and Keturah \u2014 exactly matching the 'Atad & Crowns' section's prose.",
+      "chosen_heading": "Atad & Crowns",
+      "current_heading": "Atad & Crowns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Yosef's Crown",
+    "candidates": [
+      "Descendants' Arrival",
+      "Yosef's Crown",
+      "36 Crowns",
+      "Esav's Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita about coming to wage war AND the thirty-six crowns, spanning what the essay splits into headings 0, 1, and 2 \u2014 but since it's a single unified Talmudic excerpt, it best belongs under heading 0 ('Descendants' Arrival') which introduces the baraita about coming to war, as that is the opening context of the quoted text.",
+      "chosen_heading": "Descendants' Arrival",
+      "current_heading": "Yosef's Crown",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Esav's Claim",
+    "candidates": [
+      "36 Crowns",
+      "Esav's Claim",
+      "Document Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "36 Crowns",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 about horses and donkeys mourning at Jacob's burial procession fits with the general burial narrative context near the '36 Crowns' section, before the Cave of Machpelah dispute begins.",
+      "second_heading": "Esav's Claim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes Esau's arrival at the Cave of Machpelah and his claim about Kiryat Arba's four couples, which is precisely what the 'Esav's Claim' prose describes.",
+      "current_heading": "Esav's Claim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Document Dispute",
+    "candidates": [
+      "Document Dispute",
+      "Naftali's Mission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the dispute dialogue and the Rabbi Yochanan/Rabbi Shimon ben Yehotzadak explanation of 'kira' as mekhira, which is precisely what the 'Document Dispute' section's prose describes and analyzes.",
+      "chosen_heading": "Document Dispute",
+      "current_heading": "Document Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Naftali's Mission",
+    "candidates": [
+      "Naftali's Mission",
+      "Chushim Kills Esav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Esau demanding the bill of sale, the decision to send Naftali to Egypt, and Rabbi Abbahu's al tikri on 'imrei shafer/sefer' \u2014 exactly the content discussed in the 'Naftali's Mission' prose section.",
+      "chosen_heading": "Naftali's Mission",
+      "current_heading": "Naftali's Mission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Chushim Kills Esav",
+    "candidates": [
+      "Chushim Kills Esav",
+      "Yaakov Laughs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Chushim killing Esav, which is precisely what section 0 ('Chushim Kills Esav') discusses in its prose, including the same details about his heavy ears, the club, Esav's eyes falling out, and Yaakov smiling.",
+      "chosen_heading": "Chushim Kills Esav",
+      "current_heading": "Chushim Kills Esav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Yaakov Laughs",
+    "candidates": [
+      "Yaakov Laughs",
+      "Yosef's Leadership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rebecca's prophecy being fulfilled through simultaneous burials is directly discussed in the 'Yaakov Laughs' section prose, which explicitly addresses this exact content including the same Hebrew phrase and the same point about deaths vs. burials.",
+      "chosen_heading": "Yaakov Laughs",
+      "current_heading": "Yaakov Laughs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Yosef's Leadership",
+    "candidates": [
+      "Yosef's Leadership",
+      "Moshe's Care",
+      "Moshe & Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why Yosef took the lead in burying Yaakov while his brothers deferred to his royal prominence, which is precisely what the 'Yosef's Leadership' prose describes.",
+      "chosen_heading": "Yosef's Leadership",
+      "current_heading": "Yosef's Leadership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Moshe & Mitzvot",
+    "candidates": [
+      "Moshe's Care",
+      "Moshe & Mitzvot",
+      "Serach bat Asher",
+      "Metal Casket",
+      "Moshe Calls Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses how beloved mitzvot were to Moses while all Israel took the plunder, matching exactly the 'Moshe & Mitzvot' section's prose about Moses devoting himself to the mitzvah of carrying Yosef's bones rather than taking spoils.",
+      "chosen_heading": "Moshe & Mitzvot",
+      "current_heading": "Moshe & Mitzvot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Moshe Calls Yosef",
+    "candidates": [
+      "Serach bat Asher",
+      "Metal Casket",
+      "Moshe Calls Yosef",
+      "Elisha Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three elements \u2014 Serach's testimony, the metal casket in the Nile, and Moshe calling to Yosef \u2014 and belongs under the first heading 'Serach bat Asher' which begins the narrative sequence, since all three candidate prose sections (0, 1, 2) simply break up what is one continuous Talmudic passage, and the passage as a whole starts with the question about Serach that heading 0 addresses.",
+      "chosen_heading": "Serach bat Asher",
+      "current_heading": "Moshe Calls Yosef",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Elisha Analogy",
+    "candidates": [
+      "Moshe Calls Yosef",
+      "Elisha Analogy",
+      "Crypt Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Elisha iron-floating episode and the kal vachomer argument, which is precisely what the 'Elisha Analogy' section's prose describes.",
+      "chosen_heading": "Elisha Analogy",
+      "current_heading": "Elisha Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Crypt Alternative",
+    "candidates": [
+      "Crypt Alternative",
+      "Two Arks Travel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Natan's alternative tradition of Joseph being buried in the royal crypt and Moses retrieving the coffin from there, which exactly matches the prose of the 'Crypt Alternative' section.",
+      "chosen_heading": "Crypt Alternative",
+      "current_heading": "Crypt Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Two Arks Travel",
+    "candidates": [
+      "Two Arks Travel",
+      "Passersby Question",
+      "Yosef Fulfilled",
+      "Israel's Role"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Passersby Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both the description of the two arks traveling together AND the passersby question, which spans candidates 0 and 1, but the prose of candidate 1 ('Passersby Question') most specifically addresses the dialogue of passersby asking about the two arks, which is the climactic content of item 1.",
+      "second_heading": "Yosef Fulfilled",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the answer 'kiyem zeh kol mah she-katuv bazeh' which is precisely what candidate 2 ('Yosef Fulfilled') discusses in its prose.",
+      "current_heading": "Two Arks Travel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Israel's Role",
+    "candidates": [
+      "Passersby Question",
+      "Yosef Fulfilled",
+      "Israel's Role",
+      "Completion Gets Credit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Israel's Role",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the cascading deference question (would Israel/Joseph's children not have acted?) and the 'hanichu lo' answer about honor from many/great, which is precisely what candidate 2 'Israel's Role' describes in its prose.",
+      "second_heading": "Completion Gets Credit",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cover the burial in Shechem explanation and the contradiction between verses (Moshe vs. Bnei Yisrael taking the bones), which is precisely what candidate 3 'Completion Gets Credit' describes as its opening setup before the resolution principle.",
+      "current_heading": "Israel's Role",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Completion Gets Credit",
+    "candidates": [
+      "Completion Gets Credit",
+      "Bones Self-Reference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi \u1e24ama's principle about credit going to the one who completes, Rabbi Elazar's demotion from greatness, and Rabbi Shmuel bar Na\u1e25mani's burying of wife and children \u2014 are explicitly discussed in the 'Completion Gets Credit' prose, which covers exactly this sequence of teachings about Yehuda and completing mitzvot.",
+      "chosen_heading": "Completion Gets Credit",
+      "current_heading": "Completion Gets Credit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Bones Self-Reference",
+    "candidates": [
+      "Bones Self-Reference",
+      "Early Death",
+      "Brought Down Egypt"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bones Self-Reference",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about why Joseph was called 'bones' during his lifetime due to his failure to protest his father's honor, which matches exactly the 'Bones Self-Reference' prose.",
+      "second_heading": "Early Death",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is about why Joseph predeceased his brothers due to acting authoritatively, which matches exactly the 'Early Death' prose.",
+      "current_heading": "Bones Self-Reference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Brought Down Egypt",
+    "candidates": [
+      "Early Death",
+      "Brought Down Egypt",
+      "Potiphar & Castration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar's al tikri interpretation of 'hurad'/'horid' regarding Joseph bringing down Pharaoh's astrologers, which is exactly what the 'Brought Down Egypt' section's prose describes.",
+      "chosen_heading": "Brought Down Egypt",
+      "current_heading": "Brought Down Egypt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Potiphar & Castration",
+    "candidates": [
+      "Potiphar & Castration",
+      "Enough for You",
+      "Rav Lach"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Potiphar & Castration",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about Potiphar purchasing Joseph and the castration by Gabriel, matching exactly the 'Potiphar & Castration' prose.",
+      "second_heading": "Enough for You",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens a new Mishnah topic about Moses's burial and Rabbi Levi's observation about the word 'rav', matching the 'Enough for You' prose precisely.",
+      "current_heading": "Potiphar & Castration",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Rav Lach",
+    "candidates": [
+      "Enough for You",
+      "Rav Lach",
+      "High Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the interpretation that 'rav lach' means 'you have a rav, and it is Joshua,' which directly matches the prose under heading 1 that discusses this exact interpretation of rav lach.",
+      "chosen_heading": "Rav Lach",
+      "current_heading": "Rav Lach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "High Standards",
+    "candidates": [
+      "High Standards",
+      "120 Years Old"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why Moses was held to such a high standard, ending with the 'based on the camel is the burden' aphorism, which is exactly what the 'High Standards' section prose discusses.",
+      "chosen_heading": "High Standards",
+      "current_heading": "High Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "120 Years Old",
+    "candidates": [
+      "120 Years Old",
+      "Gates of Wisdom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the word 'hayom' in Moses's declaration of being 120 years old and the completion of righteous years, which matches exactly the prose under heading 0 about '120 Years Old'.",
+      "chosen_heading": "120 Years Old",
+      "current_heading": "120 Years Old",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Gates of Wisdom",
+    "candidates": [
+      "Gates of Wisdom",
+      "Leap to Nebo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the literal interpretation of 'go out and come in' and the objections based on Moses's physical strength at death, which is exactly what the 'Gates of Wisdom' prose section discusses before moving to the spiritual interpretation in 'Leap to Nebo'.",
+      "chosen_heading": "Gates of Wisdom",
+      "current_heading": "Gates of Wisdom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Leap to Nebo",
+    "candidates": [
+      "Leap to Nebo",
+      "Shared Sabbath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Shmuel bar Na\u1e25mani's teaching about the gates of wisdom being closed to Moshe, which is precisely what the 'Leap to Nebo' prose section discusses.",
+      "chosen_heading": "Leap to Nebo",
+      "current_heading": "Leap to Nebo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Shared Sabbath",
+    "candidates": [
+      "Shared Sabbath",
+      "Death & Burial Sites"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the shared Sabbath of Moses and Joshua's transition of authority, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Shared Sabbath",
+      "current_heading": "Shared Sabbath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Death & Burial Sites",
+    "candidates": [
+      "Death & Burial Sites",
+      "Divine Transport"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items concern where Moses died and was buried (Reuben vs. Gad), the distance between the two sites, and the question of who transported him \u2014 exactly the content described in the 'Death & Burial Sites' prose, which ends with that same question before 'Divine Transport' answers it.",
+      "chosen_heading": "Death & Burial Sites",
+      "current_heading": "Death & Burial Sites",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Divine Transport",
+    "candidates": [
+      "Divine Transport",
+      "Angels' Eulogy",
+      "God's Lament",
+      "Sages' Responses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three elements (Moses lying in the wings of the Divine Presence, the angels' declaration, and God's lament) as a unified Talmudic answer to a contradiction, and the current placement under 'Divine Transport' is where this combined passage belongs, as the other headings only address individual sub-elements in isolation.",
+      "chosen_heading": "Divine Transport",
+      "current_heading": "Divine Transport",
+      "moved": false
+    }
+  }
+]

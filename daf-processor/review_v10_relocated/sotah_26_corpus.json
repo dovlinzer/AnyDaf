@@ -1,0 +1,526 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Chachamim vs. Eliezer",
+    "candidates": [
+      "Women Unable to Conceive",
+      "Chachamim vs. Eliezer",
+      "Ailonit Exclusion",
+      "Ailonit & Zera"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Na\u1e25man's statement that the dispute is specifically about a barren woman and an elderly woman, which directly matches heading 0's prose about women who cannot give birth (elderly/infertile) and their sotah status, rather than heading 1 (which covers the Chachamim/Eliezer debate itself) or heading 2 (which already claims to record this very Rav Na\u1e25man statement, suggesting the passage should precede that discussion).",
+      "chosen_heading": "Women Unable to Conceive",
+      "current_heading": "Chachamim vs. Eliezer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Ailonit & Zera",
+    "candidates": [
+      "Ailonit Exclusion",
+      "Ailonit & Zera",
+      "Kinuy Timing Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the unanimous ruling about the ailonit (divrei hakol) which matches the 'Ailonit Exclusion' prose describing Rav Nachman's view that all agree she does not drink and does not collect her ketuvah, whereas the current placement under 'Ailonit & Zera' is the section that discusses the reasoning and broader implications rather than the core ruling itself.",
+      "chosen_heading": "Ailonit Exclusion",
+      "current_heading": "Ailonit & Zera",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Kinuy Timing Rules",
+    "candidates": [
+      "Ailonit & Zera",
+      "Kinuy Timing Rules",
+      "Muberet & Meneket"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's objection regarding kinuy to a betrothed woman or shomeret yavam and the rules about seclusion before versus after nisuim, which is precisely what the 'Kinuy Timing Rules' prose describes.",
+      "chosen_heading": "Kinuy Timing Rules",
+      "current_heading": "Kinuy Timing Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Muberet & Meneket",
+    "candidates": [
+      "Muberet & Meneket",
+      "Remarriage After Nursing",
+      "Young Man & Old Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the case of muberet/meneket chaveiro \u2014 the prohibition of marrying a pregnant or nursing woman and the consequences (no drinking, no ketubah, must divorce), which is precisely what the 'Muberet & Meneket' section prose describes, including Rabbi Meir's position that he may never remarry her.",
+      "chosen_heading": "Muberet & Meneket",
+      "current_heading": "Muberet & Meneket",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Young Man & Old Woman",
+    "candidates": [
+      "Remarriage After Nursing",
+      "Young Man & Old Woman",
+      "Rabbi Eliezer's View",
+      "Kinuy Post-Nisuim",
+      "Pregnant/Nursing Wife",
+      "Young Man Has Children",
+      "Mamzer & Others"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Eliezer's View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Elazar's view that the young man can marry another woman and still procreate, which matches exactly the 'Rabbi Eliezer's View' prose describing yachol lissa acheret velifrot heimena.",
+      "second_heading": "Kinuy Post-Nisuim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers three distinct cases (kinuy to arusah/shomeret yavam after nisuim, pregnant/nursing wife, young man with existing children), beginning with the kinuy post-nisuim case that matches the 'Kinuy Post-Nisuim' prose precisely.",
+      "current_heading": "Young Man & Old Woman",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Mamzer & Others",
+    "candidates": [
+      "Rabbi Eliezer's View",
+      "Kinuy Post-Nisuim",
+      "Pregnant/Nursing Wife",
+      "Young Man Has Children",
+      "Mamzer & Others",
+      "Beraita Contradiction",
+      "Tannaitic Dispute",
+      "R. Shimon ben Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita listing mamzer, natin, ger, freed slave, and ailonit cases with the 'o shotah o lo notelet ketubatah' ruling, then notes the ailonit inclusion as a refutation of Rav Na\u1e25man \u2014 exactly what the 'Mamzer & Others' section prose describes.",
+      "chosen_heading": "Mamzer & Others",
+      "current_heading": "Mamzer & Others",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "R. Shimon ben Elazar",
+    "candidates": [
+      "Beraita Contradiction",
+      "Tannaitic Dispute",
+      "R. Shimon ben Elazar",
+      "Rabbanan Interpret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Nachman's statement that it is a tannaitic dispute ('tanna'ei hi') and his alignment with Rabbi Shimon ben Elazar, which together constitute the content described under 'Tannaitic Dispute' \u2014 the current placement under 'R. Shimon ben Elazar' splits what is a single unified Talmudic exchange.",
+      "chosen_heading": "Tannaitic Dispute",
+      "current_heading": "R. Shimon ben Elazar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rabbanan Interpret",
+    "candidates": [
+      "R. Shimon ben Elazar",
+      "Rabbanan Interpret",
+      "R. Yishmael Concern",
+      "Childbirth Benefits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbanan's interpretation of 'veniktah venizra zara' and the Rabbi Akiva/Rabbi Yishmael debate about it, which is exactly what the 'Rabbanan Interpret' section's prose describes.",
+      "chosen_heading": "Rabbanan Interpret",
+      "current_heading": "Rabbanan Interpret",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Childbirth Benefits",
+    "candidates": [
+      "R. Yishmael Concern",
+      "Childbirth Benefits",
+      "Mamzer Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yishmael's interpretation of 'and she shall conceive seed' as referring to improved childbirth outcomes (ease, sons, tall, light-skinned), which is precisely what the 'Childbirth Benefits' section prose describes.",
+      "chosen_heading": "Childbirth Benefits",
+      "current_heading": "Childbirth Benefits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Mamzer Marriage",
+    "candidates": [
+      "Mamzer Marriage",
+      "Ger Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses a mamzer married to a mamzeret and the concern about proliferating flawed lineage (afushei psulim), which matches exactly the prose of 'Mamzer Marriage' heading.",
+      "chosen_heading": "Mamzer Marriage",
+      "current_heading": "Mamzer Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Ger Inclusion",
+    "candidates": [
+      "Ger Inclusion",
+      "Kohen's Wife",
+      "Rape & Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the inclusion of a ger's wife via the ribbuy of 've'amarta,' exactly matching the 'Ger Inclusion' prose.",
+      "chosen_heading": "Ger Inclusion",
+      "current_heading": "Ger Inclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rape & Kohen",
+    "candidates": [
+      "Kohen's Wife",
+      "Rape & Kohen",
+      "Kohen's Wife Permitted",
+      "Illness Signs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with the mishna's statement about the kohen's wife and asks 'isn't it obvious?' (peshita), which matches candidate 0's prose exactly, and then explains the rape/kohen reasoning \u2014 but the full passage as a unit begins with the peshita question that candidate 0 describes, making it the proper home.",
+      "chosen_heading": "Kohen's Wife",
+      "current_heading": "Rape & Kohen",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Illness Signs",
+    "candidates": [
+      "Kohen's Wife Permitted",
+      "Illness Signs",
+      "Rape Symptoms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form a continuous chain \u2014 the question about a deteriorating woman, the challenge that the waters already evaluated her, and the answer about deterioration 'by way of other limbs' with the rape/duress concern \u2014 which exactly matches heading 1's prose about misnavna derech evarim and the characteristic vs. non-characteristic symptoms discussion.",
+      "chosen_heading": "Illness Signs",
+      "current_heading": "Illness Signs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rape Symptoms",
+    "candidates": [
+      "Rape Symptoms",
+      "Wife of Seris"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about the wife of a eunuch (seris) drinking the sota water, which is precisely what candidate 1 ('Wife of Seris') discusses in detail, including the same verse 'mibila'adei ishecha' and the same reasoning presented in the Gemara excerpt.",
+      "chosen_heading": "Wife of Seris",
+      "current_heading": "Rape Symptoms",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Wife of Seris",
+    "candidates": [
+      "Rape Symptoms",
+      "Wife of Seris",
+      "Seris Does Kinuy",
+      "Shachuf Kinuy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses kinuy (warning) with regard to forbidden relatives, with the peshita question and the answer about the double 'nitme'ah' logic \u2014 exactly the content described in the 'Wife of Seris' prose section's final paragraph about kinuy regarding a forbidden relative.",
+      "chosen_heading": "Wife of Seris",
+      "current_heading": "Wife of Seris",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Shachuf Kinuy",
+    "candidates": [
+      "Seris Does Kinuy",
+      "Shachuf Kinuy",
+      "Zera Not Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the sha\u1e25uf (sick man who lacks ability to complete intercourse), Shmuel's ruling that one can issue a warning regarding a sha\u1e25uf, and his disqualifying a bat kohen from teruma \u2014 exactly matching the 'Shachuf Kinuy' section's prose.",
+      "chosen_heading": "Shachuf Kinuy",
+      "current_heading": "Shachuf Kinuy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Zera Not Required",
+    "candidates": [
+      "Zera Not Required",
+      "Invalidation Regardless"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the *shichvat zera* verse and the concern that a *sha\u1e25uf* cannot ejaculate, which matches exactly the 'Zera Not Required' section's prose about the *shikhvat zera* requirement not being operative for kinuy warnings.",
+      "chosen_heading": "Zera Not Required",
+      "current_heading": "Zera Not Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Invalidation Regardless",
+    "candidates": [
+      "Invalidation Regardless",
+      "Non-Jew Kinuy",
+      "Already Forbidden",
+      "Non-Jew Invalidates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses whether a shachuf disqualifies a bat kohen from terumah and the reasoning about 'lo yechalel zaro,' which exactly matches the 'Invalidation Regardless' prose describing this same question and its kamashma lan resolution.",
+      "chosen_heading": "Invalidation Regardless",
+      "current_heading": "Invalidation Regardless",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Non-Jew Invalidates",
+    "candidates": [
+      "Non-Jew Kinuy",
+      "Already Forbidden",
+      "Non-Jew Invalidates",
+      "Behemah Exclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Already Forbidden",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address whether a non-Jew can be the subject of kinuy and the 'already forbidden' objection, matching heading 1 ('Already Forbidden') which discusses the asura ve'kayma concern.",
+      "second_heading": "Non-Jew Invalidates",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 address the disqualification from teruma via the bat kohen verse and Rabbi Yochanan's derivation, which precisely matches heading 2 ('Non-Jew Invalidates') prose.",
+      "current_heading": "Non-Jew Invalidates",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Behemah Exclusion",
+    "candidates": [
+      "Behemah Exclusion",
+      "Korban Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement that 'she'eino ish' excludes an animal because there is no znus with an animal, which is precisely what the 'Behemah Exclusion' prose describes.",
+      "chosen_heading": "Behemah Exclusion",
+      "current_heading": "Behemah Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Korban Proof",
+    "candidates": [
+      "Korban Proof",
+      "Anal Intercourse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the source for the principle that licentiousness does not apply to animals, derived from the verse about esnan zona and mechir kelev, which is exactly what the 'Korban Proof' prose describes.",
+      "chosen_heading": "Korban Proof",
+      "current_heading": "Korban Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Anal Intercourse",
+    "candidates": [
+      "Anal Intercourse",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why 'shikhvat zera' is needed and answers that it excludes 'another matter,' which directly corresponds to the prose under 'Anal Intercourse' explaining that the baraita uses shichvat zera perat l'davar acher to exclude anal intercourse.",
+      "chosen_heading": "Anal Intercourse",
+      "current_heading": "Anal Intercourse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Rava's Position",
+      "Non-Intercourse Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Sheshet's exclusion of atypical intercourse and Rava's objection based on 'mishkevei isha,' which is exactly what the prose under 'Rava's Position' describes.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Non-Intercourse Acts",
+    "candidates": [
+      "Non-Intercourse Acts",
+      "Abaye on Kissing",
+      "Kinuy Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rava's statement about excluding non-intercourse acts (evarim) and Abaye's immediate challenge that such acts are mere licentiousness, which is precisely what heading 0 ('Non-Intercourse Acts') and its prose describe, before moving to Abaye's further proposal discussed under heading 1.",
+      "chosen_heading": "Non-Intercourse Acts",
+      "current_heading": "Non-Intercourse Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Kinuy Limits",
+    "candidates": [
+      "Abaye on Kissing",
+      "Kinuy Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's discussion of the tension between the two opinions on hara'ah and the resolution via derech evarim with bikfida deba'al, which is precisely what the 'Kinuy Limits' prose describes.",
+      "chosen_heading": "Kinuy Limits",
+      "current_heading": "Kinuy Limits",
+      "moved": false
+    }
+  }
+]

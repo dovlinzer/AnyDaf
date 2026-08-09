@@ -1,0 +1,302 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Mishnah Review",
+    "candidates": [
+      "Opening",
+      "Mishnah Review",
+      "External vs Internal",
+      "Timing & Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the Beit Shammai/Beit Hillel dispute over single vs. double placements for the chatat and piggul consequences \u2014 precisely the content described in the 'Mishnah Review' prose \u2014 with items 2 and 3 being a direct objection-and-resolution chain about why this case isn't listed among Beit Shammai leniencies/Beit Hillel stringencies, all flowing continuously from item 1.",
+      "chosen_heading": "Mishnah Review",
+      "current_heading": "Mishnah Review",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Timing & Death",
+    "candidates": [
+      "External vs Internal",
+      "Timing & Death",
+      "Outside Offering",
+      "Rav Papa Split",
+      "Stringencies List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's statement about the three placements not being performed at night, after death, and the liability for outside offering \u2014 exactly what the 'Timing & Death' section prose describes as its content.",
+      "chosen_heading": "Timing & Death",
+      "current_heading": "Timing & Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Stringencies List",
+    "candidates": [
+      "Outside Offering",
+      "Rav Papa Split",
+      "Stringencies List",
+      "Leniencies List",
+      "Rav Papa Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav Papa's full statement \u2014 his general principle (item 1), the stringencies list (item 2), and the leniencies list (item 3) \u2014 which together belong under 'Rav Papa Split' whose prose describes exactly this bifurcated ruling, rather than under 'Stringencies List' which covers only one part of it.",
+      "chosen_heading": "Rav Papa Split",
+      "current_heading": "Stringencies List",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Rav Papa Proof",
+    "candidates": [
+      "Leniencies List",
+      "Rav Papa Proof",
+      "Scripture Yize",
+      "Rabbi Nechemya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the content described under 'Rav Papa Proof' \u2014 item 1 is Rav Papa's proof from the mishna and item 2 is the gemara's immediate rejection of that proof via the parallel yesod inference, both of which the prose explicitly describes.",
+      "chosen_heading": "Rav Papa Proof",
+      "current_heading": "Rav Papa Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Rabbi Nechemya",
+    "candidates": [
+      "Scripture Yize",
+      "Rabbi Nechemya",
+      "Bloods for Base",
+      "Bloods to Aqueduct",
+      "Jerusalem Digression",
+      "Challenge to Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly identifies Rabbi Ne\u1e25emya's opinion as the basis for the ruling about remainder blood liability outside the Temple, matching precisely the 'Rabbi Nechemya' section's prose about identifying whose opinion underlies the framework and citing the later mishna about shiyarei ha-dam.",
+      "chosen_heading": "Rabbi Nechemya",
+      "current_heading": "Rabbi Nechemya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Challenge to Source",
+    "candidates": [
+      "Bloods for Base",
+      "Bloods to Aqueduct",
+      "Jerusalem Digression",
+      "Challenge to Source",
+      "Inner Altar Bloods",
+      "Why Not Inner/Outer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 8 items form one continuous chain of challenge-and-response about the baraita's authorship (Rabbi Nechemya), the tension with piggul rulings, the grammatical objection about 'yesod' vs 'keren', and the attempt to resolve by reassigning the baraita to the three placements \u2014 exactly what the 'Challenge to Source' prose describes.",
+      "chosen_heading": "Challenge to Source",
+      "current_heading": "Challenge to Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Why Not Inner/Outer",
+    "candidates": [
+      "Inner Altar Bloods",
+      "Why Not Inner/Outer",
+      "Ravina's Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the question of why the baraita didn't simply distinguish inner vs. outer altar blood, and the answer that Rabbi Nechemya holds outer remainder blood liable \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Why Not Inner/Outer",
+      "current_heading": "Why Not Inner/Outer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Ravina's Split",
+    "candidates": [
+      "Ravina's Split",
+      "Tachlifa Objects",
+      "Ravina Counters",
+      "Mishnah Part 2",
+      "Rashi Intro"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ravina's Split",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Ravina's interpretation distinguishing 'from the corner literally' vs 'fit for the base,' which matches heading 0's prose exactly.",
+      "second_heading": "Ravina Counters",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains both Rav Tachlifa's objection and Ravina's rebuttal of it, and heading 2 ('Ravina Counters') describes precisely this exchange \u2014 Ravina rejecting the alternative reading and restating the correct interpretation \u2014 making it the best fit even though it incorporates the objection as well.",
+      "current_heading": "Ravina's Split",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rashi Intro",
+    "candidates": [
+      "Tachlifa Objects",
+      "Ravina Counters",
+      "Mishnah Part 2",
+      "Rashi Intro",
+      "Baraita Opens",
+      "Seven Placements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage opens with the mishnah about the inner altar and then introduces the baraita asking about 've-asah ka-asher asah,' which is precisely what the 'Mishnah Part 2' prose describes as the transition point where the gemara grounds the inner altar principle in a scriptural source via a baraita.",
+      "chosen_heading": "Mishnah Part 2",
+      "current_heading": "Rashi Intro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Seven Placements",
+    "candidates": [
+      "Baraita Opens",
+      "Seven Placements",
+      "Par Yom HaKippurim"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Par Yom HaKippurim",
+    "candidates": [
+      "Par Yom HaKippurim",
+      "Ribuy u'Mi'ut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the baraita's phrase-by-phrase decoding of the verse (la-par, ka-asher asah le-par, chatat, lo), which is exactly what the prose of candidate 0 describes, including the Yom Kippur bull, the anointed priest's bull, and the goats for idolatry \u2014 all of which match the current placement under 'Par Yom HaKippurim'.",
+      "chosen_heading": "Par Yom HaKippurim",
+      "current_heading": "Par Yom HaKippurim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Ribuy u'Mi'ut",
+    "candidates": [
+      "Ribuy u'Mi'ut",
+      "Scripture Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the ribuy u'mi'ut reasoning \u2014 why certain goats are included and others excluded based on whether they atone for a known transgression \u2014 which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Ribuy u'Mi'ut",
+      "current_heading": "Ribuy u'Mi'ut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Scripture Analysis",
+    "candidates": [
+      "Scripture Analysis",
+      "Gemara Questions",
+      "Answer: Ma'akvin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Scripture Analysis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita's interpretation of 've-chipper' and 've-nislach' showing semichah and shirayim are non-indispensable, which is exactly what the 'Scripture Analysis' prose describes.",
+      "second_heading": "Gemara Questions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge asking how one distinguishes between what is indispensable (sprinklings) and what is not (semichah and shirayim), which is precisely what the 'Gemara Questions' prose describes.",
+      "current_heading": "Scripture Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Answer: Ma'akvin",
+    "candidates": [
+      "Gemara Questions",
+      "Answer: Ma'akvin"
+    ],
+    "result": null
+  }
+]

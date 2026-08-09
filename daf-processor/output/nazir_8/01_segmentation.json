@@ -20,7 +20,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Mishnah: Fill of a House or Box – Interpreting Discrete Units and the Ambiguity of Quantity",
@@ -58,7 +58,7 @@
           "timestamp": "10:10"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -178,7 +178,7 @@
           "timestamp": "40:35"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -426,5 +426,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "27:29",
+  "amud_b_micro_title": "Singular Test",
+  "shiur_start_daf": 8,
+  "shiur_start_amud": "a"
 }

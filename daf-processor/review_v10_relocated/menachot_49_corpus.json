@@ -1,0 +1,383 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Two Tamidim",
+    "candidates": [
+      "Theme & Context",
+      "Mishnah Text",
+      "Musafim Interrelation",
+      "Two Tamidim",
+      "R. Shimon: Tamidim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishnah text covers all the rulings in one passage \u2014 the tamidim/musafim symmetry, the musafim interrelation, and the morning/afternoon tamid \u2014 so it belongs under 'Mishnah Text' which introduces the full Mishnah, rather than being placed only under the 'Two Tamidim' subsection.",
+      "chosen_heading": "Mishnah Text",
+      "current_heading": "Two Tamidim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "R. Shimon: Tamidim",
+    "candidates": [
+      "Two Tamidim",
+      "R. Shimon: Tamidim",
+      "R. Shimon: Musafim",
+      "Incense: Morning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Shimon's qualification about ones/shogeg versus mezidin regarding the morning tamid, which is precisely what the prose under 'R. Shimon: Tamidim' discusses.",
+      "chosen_heading": "R. Shimon: Tamidim",
+      "current_heading": "R. Shimon: Tamidim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Incense: Morning",
+    "candidates": [
+      "R. Shimon: Musafim",
+      "Incense: Morning",
+      "R. Shimon: Incense",
+      "Altar Inauguration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Mishnah's ruling that if morning incense was not burned it may be burned in the afternoon, which is precisely what the 'Incense: Morning' prose section describes.",
+      "chosen_heading": "Incense: Morning",
+      "current_heading": "Incense: Morning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Altar Inauguration",
+    "candidates": [
+      "R. Shimon: Incense",
+      "Altar Inauguration",
+      "R. Chiya's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Shimon's rulings about chinuch (inauguration) of the golden altar, outer altar, table, and menorah \u2014 exactly what the 'Altar Inauguration' prose section describes.",
+      "chosen_heading": "Altar Inauguration",
+      "current_heading": "Altar Inauguration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "R. Chiya's Question",
+    "candidates": [
+      "R. Chiya's Question",
+      "Same Day Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the initial raising of the dilemma by Rabbi \u1e24iyya bar Avin, which matches heading 0's prose describing exactly this question, before the Gemara's follow-up analysis under heading 1.",
+      "chosen_heading": "R. Chiya's Question",
+      "current_heading": "R. Chiya's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Same Day Case",
+    "candidates": [
+      "Same Day Case",
+      "Tadir Principle",
+      "Tamidim Tomorrow",
+      "Planning Ahead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks 'what are the circumstances' and presents the same-day case (temidim and musafim of that day), which exactly matches the 'Same Day Case' prose that describes this scenario as the straightforward case being introduced.",
+      "chosen_heading": "Same Day Case",
+      "current_heading": "Same Day Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Planning Ahead",
+    "candidates": [
+      "Tadir Principle",
+      "Tamidim Tomorrow",
+      "Planning Ahead",
+      "Mishnah Evidence"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tamidim Tomorrow",
+      "first_confidence": "high",
+      "first_reason": "Item 1 poses the dilemma of tomorrow's tamidim vs. today's musafim \u2014 exactly what candidate 1 ('Tamidim Tomorrow') describes as the genuinely difficult case.",
+      "second_heading": "Mishnah Evidence",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Chisda's response citing the Mishnah to resolve the dilemma, which is precisely what candidate 3 ('Mishnah Evidence') discusses.",
+      "current_heading": "Planning Ahead",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Mishnah Evidence",
+    "candidates": [
+      "Planning Ahead",
+      "Mishnah Evidence",
+      "Abaye's Counter",
+      "Baraita Text"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Mishnah Evidence",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are the Gemara's analysis of the Mishnah as evidence \u2014 questioning what case it addresses, citing the baraita about tamid priority, and concluding it must refer to tomorrow's tamidim vs. today's musafim \u2014 exactly matching the 'Mishnah Evidence' prose.",
+      "second_heading": "Abaye's Counter",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is Abaye's rejection of that reading, arguing the Mishnah speaks bedi'avad about order when all animals are present, which matches precisely the 'Abaye's Counter' prose.",
+      "current_heading": "Mishnah Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Baraita Text",
+    "candidates": [
+      "Abaye's Counter",
+      "Baraita Text",
+      "Shabbos/RH Case",
+      "Challenge to Six"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna about six inspected lambs in the Chamber of Lambs, which is exactly what the 'Baraita Text' prose describes as its topic.",
+      "chosen_heading": "Baraita Text",
+      "current_heading": "Baraita Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Challenge to Six",
+    "candidates": [
+      "Shabbos/RH Case",
+      "Challenge to Six",
+      "Ben Bag Bag",
+      "Why Check Tamidim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara dialectic of heichi dami / ela lav / la le'olam that is precisely described in the 'Challenge to Six' prose, including the challenge about insufficient animals, the apparent proof for tamidim adifei, and the rebuttal introducing ben Bag Bag \u2014 all of which the 'Challenge to Six' section explicitly narrates.",
+      "chosen_heading": "Challenge to Six",
+      "current_heading": "Challenge to Six",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Why Check Tamidim",
+    "candidates": [
+      "Ben Bag Bag",
+      "Why Check Tamidim",
+      "Mnemonic Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita of Ben Bag Bag deriving the four-day inspection requirement for the tamid via gezerah shavah from the Korban Pesach, which is precisely what candidate 0 ('Ben Bag Bag') describes as its content, whereas candidate 1 ('Why Check Tamidim') is the essay's prose elaboration and commentary on that same baraita rather than the baraita itself.",
+      "chosen_heading": "Ben Bag Bag",
+      "current_heading": "Why Check Tamidim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Mnemonic Only",
+    "candidates": [
+      "Why Check Tamidim",
+      "Mnemonic Only",
+      "Rotation System",
+      "Six Explained",
+      "Afternoon Option",
+      "Chachamim: Inauguration",
+      "R. Shimon Restricts",
+      "Second Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous Gemara discussion about whether the mishna's number of six inspected lambs is accurate (Ravina's challenge that it should be seven, Rav Ashi's counter that it should be eight, and the resolution that the mishna speaks generally and 'Shabbat and two days of Rosh HaShana' is merely a mnemonic), which is precisely what the 'Mnemonic Only' section's prose describes.",
+      "chosen_heading": "Mnemonic Only",
+      "current_heading": "Mnemonic Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Second Only",
+    "candidates": [
+      "Rotation System",
+      "Six Explained",
+      "Afternoon Option",
+      "Chachamim: Inauguration",
+      "R. Shimon Restricts",
+      "Second Only",
+      "Post-Inauguration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All five items deal with the baraita deriving from 'the second lamb in the afternoon' (sheni bein ha'arbayim velo rishon) and the qualification about inauguration \u2014 precisely what heading 5 ('Second Only') discusses in its prose.",
+      "chosen_heading": "Second Only",
+      "current_heading": "Second Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Post-Inauguration",
+    "candidates": [
+      "Post-Inauguration",
+      "Kohanim Negligence",
+      "Rabbah's Answer",
+      "Afternoon Incense",
+      "Rarity Factor",
+      "Incense Reward",
+      "Rabbinic Concern",
+      "R. Shimon: Full",
+      "Full Amount Why",
+      "Afternoon Inauguration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous discussion of Rabbi Shimon's qualification (mezid vs. shogeg), the Gemara's objection that the altar shouldn't be idle because kohanim sinned, and Rava's resolution that other kohanim may bring it \u2014 exactly the content described in the 'Kohanim Negligence' prose, not the 'Post-Inauguration' section which merely summarizes Rabbi Shimon's position in passing.",
+      "chosen_heading": "Kohanim Negligence",
+      "current_heading": "Post-Inauguration",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Afternoon Inauguration",
+    "candidates": [
+      "Kohanim Negligence",
+      "Rabbah's Answer",
+      "Afternoon Incense",
+      "Rarity Factor",
+      "Incense Reward",
+      "Rabbinic Concern",
+      "R. Shimon: Full",
+      "Full Amount Why",
+      "Afternoon Inauguration",
+      "Tanaic Debate",
+      "Abaye's Logic",
+      "Menorah Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage explicitly presents the baraita contradicting Rabbi Shimon's view about whether the chinuch of the golden altar is through the morning or afternoon ketoret, and concludes it is a tanaic dispute \u2014 exactly what 'Tanaic Debate' describes.",
+      "chosen_heading": "Tanaic Debate",
+      "current_heading": "Afternoon Inauguration",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145,
+      146
+    ],
+    "current_heading": "Menorah Link",
+    "candidates": [
+      "Tanaic Debate",
+      "Abaye's Logic",
+      "Menorah Link",
+      "Parallel View",
+      "Altar Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute Abaye's ruling and its reasoning (items 1-2) plus the opposing view's derivation (item 3), which collectively belong under 'Abaye's Logic' \u2014 the section whose prose explicitly covers Abaye's reasoning about afternoon ketoret primacy and the menorah link, as well as the contrasting morning view, matching the content of all three items.",
+      "chosen_heading": "Abaye's Logic",
+      "current_heading": "Menorah Link",
+      "moved": true
+    }
+  }
+]

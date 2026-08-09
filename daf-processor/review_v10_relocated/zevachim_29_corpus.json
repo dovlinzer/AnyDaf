@@ -1,0 +1,440 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Long & Short Pesukim",
+    "candidates": [
+      "Opening & Daf Overview",
+      "Long & Short Pesukim",
+      "All from Tzav",
+      "Double Language",
+      "Shelamim Paradigm",
+      "Shlishi & Hartzaah",
+      "Matirim & Process",
+      "Time of Piggul",
+      "Lo Yechashev",
+      "Yihyeh & Combining",
+      "Mimenu Singular",
+      "Chutz Lizmano Karet",
+      "Shelamim Paradigm",
+      "Rav Pappa's Q",
+      "Makom Meshulash",
+      "Rashi Heichal",
+      "Tosafot Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage discusses 'mimenu' indicating only one of the two types of improper thought carries karet (echad velo shnayim), which is precisely what the 'Mimenu Singular' section's prose describes.",
+      "chosen_heading": "Mimenu Singular",
+      "current_heading": "Long & Short Pesukim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Tosafot Views",
+    "candidates": [
+      "All from Tzav",
+      "Double Language",
+      "Shelamim Paradigm",
+      "Shlishi & Hartzaah",
+      "Matirim & Process",
+      "Time of Piggul",
+      "Lo Yechashev",
+      "Yihyeh & Combining",
+      "Mimenu Singular",
+      "Chutz Lizmano Karet",
+      "Shelamim Paradigm",
+      "Rav Pappa's Q",
+      "Makom Meshulash",
+      "Rashi Heichal",
+      "Tosafot Views",
+      "Need for Kedoshim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Pappa's challenge to Rava about what the pasuk in Kedoshim teaches \u2014 item 1 is the question and Rava's answer (makom meshulash), and item 2 is the gemara's follow-up question about why not derive it from the first verse \u2014 which is precisely the content described under heading 11 ('Rav Pappa's Q'), not under heading 14 where it currently sits.",
+      "chosen_heading": "Rav Pappa's Q",
+      "current_heading": "Tosafot Views",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Need for Kedoshim",
+    "candidates": [
+      "Tosafot Views",
+      "Need for Kedoshim",
+      "R. Eliezer View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Ashi's statement about Rav Mattana's concern that deriving from Tzav alone would yield a klal mosif al haprat expanding piggul to other locations, which is precisely what the 'Need for Kedoshim' prose describes and paraphrases.",
+      "chosen_heading": "Need for Kedoshim",
+      "current_heading": "Need for Kedoshim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "R. Eliezer View",
+    "candidates": [
+      "R. Eliezer View",
+      "R. Akiva Tzad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Eliezer's argument that the verse concerns intent (machshava) rather than actual eating, and rejects retroactive invalidation \u2014 exactly what the prose under 'R. Eliezer View' describes.",
+      "chosen_heading": "R. Eliezer View",
+      "current_heading": "R. Eliezer View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "R. Akiva Tzad",
+    "candidates": [
+      "R. Akiva Tzad",
+      "R. Eliezer Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Akiva's argument using zav, zavah, and shomeret yom kineged yom as precedents for retroactive invalidation, which is precisely what the prose under 'R. Akiva Tzad' describes.",
+      "chosen_heading": "R. Akiva Tzad",
+      "current_heading": "R. Akiva Tzad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "R. Eliezer Response",
+    "candidates": [
+      "R. Eliezer Response",
+      "Ben Azzai Oto"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Eliezer's textual argument about 'hamakriv' and 'oto' indicating the offering is disqualified at the time of offering, which precisely matches the prose of section 0 discussing R. Eliezer's response.",
+      "chosen_heading": "R. Eliezer Response",
+      "current_heading": "R. Eliezer Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Ben Azzai Oto",
+    "candidates": [
+      "Ben Azzai Oto",
+      "Acherim View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Ben Azzai's teaching about 'oto' limiting 'lo yeratzeh' to piggul cases and excluding the late vow-fulfiller, which is precisely what the prose under 'Ben Azzai Oto' describes.",
+      "chosen_heading": "Ben Azzai Oto",
+      "current_heading": "Ben Azzai Oto",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Acherim View",
+    "candidates": [
+      "Acherim View",
+      "Korban Not Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Acherim's view that 'lo yechashev' indicates the korban is disqualified by improper intention rather than on the third day, which is exactly what the 'Acherim View' prose section discusses.",
+      "chosen_heading": "Acherim View",
+      "current_heading": "Acherim View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Korban Not Kohen",
+    "candidates": [
+      "Korban Not Kohen",
+      "Ben Azzai Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses where Ben Azzai derives that the verse speaks of the offering and not the priest, matching exactly the prose under 'Korban Not Kohen' which explains the two answers (from Acherim and from lo yeratzeh).",
+      "chosen_heading": "Korban Not Kohen",
+      "current_heading": "Korban Not Kohen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Ben Azzai Source",
+    "candidates": [
+      "Ben Azzai Source",
+      "Rav Ashi Why Both"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous baraita of Acherim deriving that a bechor is not disqualified by passage of time via the hekesh to ma'aser, which is precisely what the 'Ben Azzai Source' prose describes as the alternative source for the bal te'acher exemption.",
+      "chosen_heading": "Ben Azzai Source",
+      "current_heading": "Ben Azzai Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rav Ashi Why Both",
+    "candidates": [
+      "Rav Ashi Why Both",
+      "Kodashim Hartza'ah",
+      "Why Oto Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's response about why both sources are needed, explaining the distinction between bechor (lav bar hartza'ah) and kodashim (bnei hartza'ah), which is precisely what the 'Rav Ashi Why Both' section's prose discusses.",
+      "chosen_heading": "Rav Ashi Why Both",
+      "current_heading": "Rav Ashi Why Both",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Why Oto Needed",
+    "candidates": [
+      "Kodashim Hartza'ah",
+      "Why Oto Needed",
+      "Wife Death Neder"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Why Oto Needed",
+      "first_confidence": "high",
+      "first_reason": "Item 1 raises the question of why Ben Azzai needs 'oto' given that 've'haya becha cheit' already teaches 'becha cheit v'lo b'korbanacha cheit', which is precisely what the 'Why Oto Needed' prose discusses.",
+      "second_heading": "Wife Death Neder",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Ben Azzai's actual use of 've'haya becha cheit' to derive 'v'lo b'ishtecha cheit' and the teaching about a man's wife dying, which is exactly what the 'Wife Death Neder' prose describes.",
+      "current_heading": "Why Oto Needed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Wife Death Neder",
+    "candidates": [
+      "Wife Death Neder",
+      "Malkaot Taught"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses what Rabbi Eliezer does with 'lo yechashev' and the A\u1e25erim's view that an offering is disqualified by improper intention rather than third-day consumption, which matches the prose in 'Malkaot Taught' that explicitly discusses the use of 'lo yechashev' in the context of piggul thoughts and disqualification.",
+      "chosen_heading": "Malkaot Taught",
+      "current_heading": "Wife Death Neder",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Malkaot Taught",
+    "candidates": [
+      "Malkaot Taught",
+      "Lav Lo Ma'aseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yannai's teaching about lo yechashev \u2014 item 1 gives the version about competing intentions displacing each other, and item 2 gives Rav Mari's version deriving malkaot \u2014 which is precisely what the 'Malkaot Taught' prose section describes.",
+      "chosen_heading": "Malkaot Taught",
+      "current_heading": "Malkaot Taught",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Lav Lo Ma'aseh",
+    "candidates": [
+      "Lav Lo Ma'aseh",
+      "R. Yehudah Malkaot",
+      "Four Avodot",
+      "Kavana Requirements",
+      "Chutz Limkomo",
+      "Chutz Lizmano"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Ashi's challenge about lav she'ein bo ma'aseh and Rav Mari's response about Rabbi Yehudah, but the current placement under 'Lav Lo Ma'aseh' captures the full exchange, while candidate 1 only covers the second half \u2014 and since all items must go under one heading, the current placement (index 0) is the best fit as it frames the entire dialogue.",
+      "chosen_heading": "Lav Lo Ma'aseh",
+      "current_heading": "Lav Lo Ma'aseh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Chutz Lizmano",
+    "candidates": [
+      "R. Yehudah Malkaot",
+      "Four Avodot",
+      "Kavana Requirements",
+      "Chutz Limkomo",
+      "Chutz Lizmano",
+      "Matir Kemitzvato",
+      "Kemitzvato Example",
+      "Lo Karav Examples"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Four Avodot",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the full Mishna presenting the general rule (klal) covering all four avodot, chutz limkomo, chutz lizmano, and matir kemitzvato \u2014 it belongs under 'Four Avodot' which introduces this comprehensive mishnaic klal.",
+      "second_heading": "Kemitzvato Example",
+      "second_confidence": "high",
+      "second_reason": "Item 2 directly illustrates how 'kemitzvato' works with the specific shechita-in-silence examples, matching perfectly the 'Kemitzvato Example' prose which describes exactly these scenarios.",
+      "current_heading": "Chutz Lizmano",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Lo Karav Examples",
+    "candidates": [
+      "Matir Kemitzvato",
+      "Kemitzvato Example",
+      "Lo Karav Examples",
+      "Half Kezayit Mix"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Lo Karav Examples",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the lo karav hamatir kemitzvato examples (mixed chutz limkomo/lizmano and shelo lishmo cases) that match exactly what heading 2's prose describes.",
+      "second_heading": "Half Kezayit Mix",
+      "second_confidence": "high",
+      "second_reason": "Items 3-8 form a self-contained unit beginning with the half kezayit mishna scenario, Rabbi Yehuda's principle, and the Gemara dispute between Ilfa and Rabbi Yo\u1e25anan about that principle, all matching heading 3's prose about half kezayit combinations.",
+      "current_heading": "Lo Karav Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Half Kezayit Mix",
+    "candidates": [
+      "Half Kezayit Mix",
+      "R. Yehudah First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The entire passage deals with the dispute between Rabbi Meir and Rabbi Yosei about whether the first-mentioned designation takes precedence, and then Abaye and Rava's debate about simultaneous vs. sequential intentions \u2014 this directly parallels the 'R. Yehudah First' section's discussion of whether the first (time/place) thought controls the outcome, not the 'Half Kezayit Mix' section about combining half-kezayit amounts.",
+      "chosen_heading": "R. Yehudah First",
+      "current_heading": "Half Kezayit Mix",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "current_heading": "R. Yehudah First",
+    "candidates": [
+      "R. Yehudah First",
+      "R. Yehudah Order",
+      "Chachamim View",
+      "No Achila Haktara"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "R. Yehudah First",
+      "current_heading": "R. Yehudah First",
+      "moved": false
+    }
+  }
+]

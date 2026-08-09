@@ -1,0 +1,519 @@
+[
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Torah Tziva 611",
+    "candidates": [
+      "Malkot Atonement",
+      "Punishment vs Atonement",
+      "VeHu Rachum Text",
+      "Hanina: Karet Atonement",
+      "Gemara Generalizes",
+      "Every Aveira Chayav",
+      "Transgression vs Merit",
+      "Non-Doing as Mitzvah",
+      "Chananya: Divine Grace",
+      "Anti-Christian Context",
+      "Paul & the Law",
+      "Law as Grace",
+      "Earned Merit",
+      "Rav Simlai 613",
+      "Unique in Shas",
+      "365 & 248 Division",
+      "Rivan's Symbolism",
+      "Torah Tziva 611",
+      "Direct from God",
+      "Ramban's Critique",
+      "Ramban's Accounting",
+      "David's 11"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 17,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Simlai's teaching on 613 mitzvot and Rav Hamnuna's gematria derivation from 'Torah tziva lanu Moshe' (611 + 2 = 613), which is precisely what the 'Torah Tziva 611' section prose describes.",
+      "chosen_heading": "Torah Tziva 611",
+      "current_heading": "Torah Tziva 611",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "David's 11",
+    "candidates": [
+      "Direct from God",
+      "Ramban's Critique",
+      "Ramban's Accounting",
+      "David's 11",
+      "Ethics Focus",
+      "Rivan: Burden Relief",
+      "Essence vs Obligation",
+      "First Two Traits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mnemonic for the biblical figures and David's reduction to eleven mitzvot from Psalm 15 \u2014 are precisely the content that heading 'David's 11' and its prose describe, making the current placement correct.",
+      "chosen_heading": "David's 11",
+      "current_heading": "David's 11",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "First Two Traits",
+    "candidates": [
+      "Ethics Focus",
+      "Rivan: Burden Relief",
+      "Essence vs Obligation",
+      "First Two Traits",
+      "Truth & Honesty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly identifies Abraham as exemplar of 'walks wholeheartedly' and Abba \u1e24ilkiyyahu as exemplar of 'works righteousness,' which is precisely what the 'First Two Traits' prose discusses, including the same Abba Chilkiyahu detail about not pausing from labor.",
+      "chosen_heading": "First Two Traits",
+      "current_heading": "First Two Traits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Truth & Honesty",
+    "candidates": [
+      "Truth & Honesty",
+      "Fairness & Family"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Rav Safra story illustrating 've-doveir emet be-libo' and the Yaakov Avinu example illustrating 'lo ragal al l'shono' \u2014 are explicitly discussed in the 'Truth & Honesty' prose section, which addresses both passages in sequence with matching analysis.",
+      "chosen_heading": "Truth & Honesty",
+      "current_heading": "Truth & Honesty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Fairness & Family",
+    "candidates": [
+      "Fairness & Family",
+      "Disdaining Evil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Fairness & Family' explicitly discusses both items: not infringing on another's trade and drawing relatives near, matching the two quoted passages exactly.",
+      "chosen_heading": "Fairness & Family",
+      "current_heading": "Fairness & Family",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Disdaining Evil",
+    "candidates": [
+      "Disdaining Evil",
+      "Honor Torah Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Hezekiah dragging his father's bones in a bed of ropes as an act of disdaining the vile/evil, which directly matches the 'Disdaining Evil' section's prose discussing this same act and its moral significance.",
+      "chosen_heading": "Disdaining Evil",
+      "current_heading": "Disdaining Evil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Honor Torah Sages",
+    "candidates": [
+      "Honor Torah Sages",
+      "Keeping Oaths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly describes Jehoshaphat honoring Torah scholars, which perfectly matches the 'Honor Torah Sages' section's prose discussing the same king and the same behavior.",
+      "chosen_heading": "Honor Torah Sages",
+      "current_heading": "Honor Torah Sages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Keeping Oaths",
+    "candidates": [
+      "Keeping Oaths",
+      "Financial Ethics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yo\u1e25anan's practice of swearing to fast as an example of keeping oaths to one's detriment, which exactly matches the 'Keeping Oaths' section's prose about this same narrative.",
+      "chosen_heading": "Keeping Oaths",
+      "current_heading": "Keeping Oaths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Financial Ethics",
+    "candidates": [
+      "Financial Ethics",
+      "Gamliel's Tears"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the Financial Ethics section prose, which explicitly discusses lending with interest even to a non-Jew and the bribery example of Rabbi Yishmael beRabbi Yosi \u2014 the exact content of both quoted items.",
+      "chosen_heading": "Financial Ethics",
+      "current_heading": "Financial Ethics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Gamliel's Tears",
+    "candidates": [
+      "Gamliel's Tears",
+      "Isaiah's 6"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern Rabban Gamliel's weeping over 'oseh eleh lo yimmot le-olam' and the subsequent rejoinder about 'even one of these,' which is precisely what the 'Gamliel's Tears' prose discusses in detail.",
+      "chosen_heading": "Gamliel's Tears",
+      "current_heading": "Gamliel's Tears",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Isaiah's 6",
+    "candidates": [
+      "Isaiah's 6",
+      "Against Oppression"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items cover Isaiah's reduction to six principles and the elaboration of the first two (holech tzedakot = Abraham, ve-dover mesharim = not shaming others), which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Isaiah's 6",
+      "current_heading": "Isaiah's 6",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Against Oppression",
+    "candidates": [
+      "Against Oppression",
+      "Active Non-Tolerance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the same two exemplars (Rabbi Yishmael ben Elisha and Rabbi Yishmael beRabbi Yosi) in the context of despising oppression and shaking hands free of bribery, which is precisely what the 'Against Oppression' prose section describes in detail.",
+      "chosen_heading": "Against Oppression",
+      "current_heading": "Against Oppression",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Active Non-Tolerance",
+    "candidates": [
+      "Active Non-Tolerance",
+      "Women & Evil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'otem ozno mi-shmo'a damim' verse and Rabbi Elazar ben Rabbi Shimon's non-silence in the face of Torah scholar denigration, which is precisely what the prose in heading 0 ('Active Non-Tolerance') discusses.",
+      "chosen_heading": "Active Non-Tolerance",
+      "current_heading": "Active Non-Tolerance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Women & Evil",
+    "candidates": [
+      "Women & Evil",
+      "Micah's 3"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi \u1e24iyya bar Abba's statement about not gazing at women at the laundry, which is precisely what the 'Women & Evil' section's prose discusses and analyzes in detail.",
+      "chosen_heading": "Women & Evil",
+      "current_heading": "Women & Evil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Micah's 3",
+    "candidates": [
+      "Micah's 3",
+      "Simple Principles",
+      "Kindness Focus",
+      "Modesty & Humility"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Modesty & Humility",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is the Isaiah 33:16 verse ('He shall dwell on high') which follows from the 'walk humbly' / tzniut discussion in the 'Modesty & Humility' section, serving as the concluding proof-text for that topic.",
+      "second_heading": "Micah's 3",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Micah passage itself ('Ba Micha ve-he'emidam al shalosh') which is exactly what the 'Micah's 3' section prose describes and quotes.",
+      "current_heading": "Micah's 3",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Modesty & Humility",
+    "candidates": [
+      "Simple Principles",
+      "Kindness Focus",
+      "Modesty & Humility",
+      "Kal VaComer",
+      "Isaiah's 2",
+      "Amos's 1",
+      "Nachman's Challenge",
+      "Habakkuk: Faith"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage elaborates on 'walk humbly' (hatzneia lechet) and its connection to taking out the dead and accompanying a bride, which is precisely what the 'Modesty & Humility' section's prose discusses, and the kal va-chomer inference is included in the same Gemara passage that introduces this concept, making it a natural fit under heading 2 where this elaboration begins.",
+      "chosen_heading": "Modesty & Humility",
+      "current_heading": "Modesty & Humility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Habakkuk: Faith",
+    "candidates": [
+      "Kal VaComer",
+      "Isaiah's 2",
+      "Amos's 1",
+      "Nachman's Challenge",
+      "Habakkuk: Faith",
+      "Faith & Christian",
+      "Dwelling Decree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers Isaiah's reduction to two (mishpat/tzedakah), Amos's reduction to one (dirshuni), Rav Nachman's challenge, and Habakkuk's resolution \u2014 this entire sequence begins with Isaiah's two, and the essay has split it across headings 1-4, but the passage as a single unit starts with Isaiah's two principles, matching heading 1 ('Isaiah's 2') as the opening of this combined text; however, since the passage actually spans Isaiah through Habakkuk and currently sits under 'Habakkuk: Faith' (index 4), and heading 1's prose explicitly describes 'Chazar Yeshayahu' which is the opening line of this passage, heading 1 is the better match for where this passage should begin.",
+      "chosen_heading": "Isaiah's 2",
+      "current_heading": "Habakkuk: Faith",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "Dwelling Decree",
+    "candidates": [
+      "Faith & Christian",
+      "Dwelling Decree",
+      "Exile Decree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the first of Moses's four decrees (Israel dwelling safely like Jacob) and Amos's revocation of it, which is exactly what the 'Dwelling Decree' section's prose discusses.",
+      "chosen_heading": "Dwelling Decree",
+      "current_heading": "Dwelling Decree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Exile Decree",
+    "candidates": [
+      "Exile Decree",
+      "Punishment Decree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Moses's decree about no repose in exile and Jeremiah's annulment of it, which exactly matches the 'Exile Decree' section's prose about finding rest in galut.",
+      "chosen_heading": "Exile Decree",
+      "current_heading": "Exile Decree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      166
+    ],
+    "current_heading": "Punishment Decree",
+    "candidates": [
+      "Punishment Decree",
+      "Destruction Decree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Moses's decree of transgenerational punishment and Ezekiel's annulment with individual accountability, which is precisely what the 'Punishment Decree' prose discusses.",
+      "chosen_heading": "Punishment Decree",
+      "current_heading": "Punishment Decree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      169,
+      170
+    ],
+    "current_heading": "Destruction Decree",
+    "candidates": [
+      "Destruction Decree",
+      "Journey Scene"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the verse 've-avadtem ba-goyim' and the subsequent Rav/Rav Pappa/Mar Zutra exchange about its interpretation, which is precisely what the 'Destruction Decree' section's prose describes in detail.",
+      "chosen_heading": "Destruction Decree",
+      "current_heading": "Destruction Decree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      175,
+      176
+    ],
+    "current_heading": "Journey Scene",
+    "candidates": [
+      "Journey Scene",
+      "Fox & Laughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rome road scene \u2014 hearing Rome's tumult, the others weeping, and Rabbi Akiva's explanation \u2014 which is exactly what candidate 0 ('Journey Scene') describes in its prose.",
+      "chosen_heading": "Journey Scene",
+      "current_heading": "Journey Scene",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      179
+    ],
+    "current_heading": "Fox & Laughter",
+    "candidates": [
+      "Fox & Laughter",
+      "Prophecy Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the fox emerging from the Holy of Holies, the weeping of the sages, and Rabbi Akiva's laughter with the exchange about why they weep, which is precisely what the 'Fox & Laughter' section prose discusses.",
+      "chosen_heading": "Fox & Laughter",
+      "current_heading": "Fox & Laughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      183,
+      184
+    ],
+    "current_heading": "Prophecy Link",
+    "candidates": [
+      "Prophecy Link",
+      "Suffering & Redemption",
+      "Final Consolation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in the 'Prophecy Link' prose \u2014 Rabbi Akiva's explanation of the Isaiah verse linking Uriah and Zechariah, the two prophecies quoted, and the logical argument that Uriah's fulfilled prophecy guarantees Zechariah's, concluding with 'Akiva nichamtanu' \u2014 all of which are explicitly discussed in candidate 0's prose.",
+      "chosen_heading": "Prophecy Link",
+      "current_heading": "Prophecy Link",
+      "moved": false
+    }
+  }
+]

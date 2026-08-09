@@ -1,0 +1,388 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah: Rabbi Yossi",
+    "candidates": [
+      "Mishnah: Rabbi Yossi",
+      "Shmuel's Ruling",
+      "Rashi's Reading",
+      "Rav Yosef's Challenge",
+      "Rav vs. Shmuel Debate",
+      "Rav Huna's Context",
+      "Kiddushin & Perception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yehuda citing Shmuel's ruling that the halacha follows Rabbi Yosei, followed immediately by Rav Yosef's challenge and the yevamah dispute with Rav Huna's context \u2014 this is the full content described under 'Shmuel's Ruling' (candidate 1), which explicitly notes that the gemara will immediately raise questions about which formulation Shmuel intends to validate, matching the passage's combined content better than splitting it across candidates 1, 3, 4, and 5.",
+      "chosen_heading": "Shmuel's Ruling",
+      "current_heading": "Mishnah: Rabbi Yossi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Kiddushin & Perception",
+    "candidates": [
+      "Shmuel's Ruling",
+      "Rashi's Reading",
+      "Rav Yosef's Challenge",
+      "Rav vs. Shmuel Debate",
+      "Rav Huna's Context",
+      "Kiddushin & Perception",
+      "Gemara Resolves",
+      "Abaye's Challenge",
+      "Hindsight Principle",
+      "Special Cases",
+      "Rav Huna's Reading",
+      "Zina Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes the Rav-Shmuel dispute directly (Rav says she is like a married woman and forbidden to the yavam; Shmuel says she is not like a married woman and is permitted), which is precisely what heading 3 'Rav vs. Shmuel Debate' introduces and describes.",
+      "chosen_heading": "Rav vs. Shmuel Debate",
+      "current_heading": "Kiddushin & Perception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Zina Case",
+    "candidates": [
+      "Gemara Resolves",
+      "Abaye's Challenge",
+      "Hindsight Principle",
+      "Special Cases",
+      "Rav Huna's Reading",
+      "Zina Case",
+      "Kiddushin & Yevama"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's challenge questioning which interpretation of Rabbi Yosei Shmuel intended, which is precisely what candidate 1 ('Abaye's Challenge') describes.",
+      "second_heading": "Rav Huna's Reading",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the possibility that Rav Huna's entire framing is wrong and that Rav and Shmuel may instead be debating Rav Hamnuna's ruling about zina, which is precisely what candidate 4 ('Rav Huna's Reading') introduces.",
+      "current_heading": "Zina Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Kiddushin & Yevama",
+    "candidates": [
+      "Zina Case",
+      "Kiddushin & Yevama",
+      "Chada Miklal Chaverta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers BOTH the zina disqualification dispute AND the kiddushin dispute as two alternative explanations of the same underlying Rav/Shmuel machlokes, and since heading 0 ('Zina Case') introduces the first alternative while heading 1 ('Kiddushin & Yevama') covers only the second, the full passage \u2014 which presents both alternatives together \u2014 belongs under heading 0, which is the first of the two framings where the combined presentation begins.",
+      "chosen_heading": "Zina Case",
+      "current_heading": "Kiddushin & Yevama",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Chada Miklal Chaverta",
+    "candidates": [
+      "Chada Miklal Chaverta",
+      "Three Wives Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'chada miklal chaverta itmar' principle \u2014 the gemara's question about why a dispute appears twice and the answer that one formulation was derived inferentially from the other \u2014 which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Chada Miklal Chaverta",
+      "current_heading": "Chada Miklal Chaverta",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Three Wives Setup",
+    "candidates": [
+      "Three Wives Setup",
+      "Ruling on Validity",
+      "Yibum Consequences",
+      "First Wife Truly Dead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna presents the chain-of-sisters scenario with five wives, which is exactly what the 'Three Wives Setup' prose describes \u2014 the setup of the case rather than the ruling on validity or yibum consequences.",
+      "chosen_heading": "Three Wives Setup",
+      "current_heading": "Three Wives Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "First Wife Truly Dead",
+    "candidates": [
+      "Ruling on Validity",
+      "Yibum Consequences",
+      "First Wife Truly Dead",
+      "Nine-Year-Old Status",
+      "Disqualification Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss the scenario where the first wife truly died, describing which subsequent wives are permitted/forbidden and whether yibum with them exempts their rival wives \u2014 exactly what the 'First Wife Truly Dead' prose describes.",
+      "chosen_heading": "First Wife Truly Dead",
+      "current_heading": "First Wife Truly Dead",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Disqualification Power",
+    "candidates": [
+      "Nine-Year-Old Status",
+      "Disqualification Power",
+      "Maamar Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the mishnah's ruling on the nine-year-old's disqualification power and the asymmetry between his acts and his brothers' acts, which is precisely what the 'Disqualification Power' prose describes.",
+      "chosen_heading": "Disqualification Power",
+      "current_heading": "Disqualification Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Maamar Question",
+    "candidates": [
+      "Maamar Question",
+      "Baraita on Bia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "Neither candidate's prose closely matches this passage about Rav Sheshet's clarification regarding 'definite death' of the first wife, but the current placement is no worse than the alternative, so it remains under its current heading.",
+      "chosen_heading": "Maamar Question",
+      "current_heading": "Maamar Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Baraita on Bia",
+    "candidates": [
+      "Baraita on Bia",
+      "Mishnah Reinterpreted",
+      "Minor's Acts",
+      "Bia Always Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain resolving the contradiction between the baraita and the mishna by reinterpreting the mishna \u2014 proposing that bi'ah disqualifies even last while maamar only disqualifies first \u2014 which is precisely what 'Mishnah Reinterpreted' describes.",
+      "chosen_heading": "Mishnah Reinterpreted",
+      "current_heading": "Baraita on Bia",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Bia Always Works",
+    "candidates": [
+      "Mishnah Reinterpreted",
+      "Minor's Acts",
+      "Bia Always Works",
+      "Minor Has Get",
+      "Minor Has Maamar",
+      "Rabbi Meir's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the question-and-answer sequence about whether a minor has a legally recognized maamar (the baraita challenge and its resolution via the pesika principle), which exactly matches candidate 1's prose about probing whether a minor has a legally recognized maamar and get.",
+      "chosen_heading": "Minor's Acts",
+      "current_heading": "Bia Always Works",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Rabbi Meir's View",
+    "candidates": [
+      "Minor Has Get",
+      "Minor Has Maamar",
+      "Rabbi Meir's View",
+      "Chalitza Equals Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three elements (Rav Yehuda/Shmuel on get, Rav Tachlifa on maamar, and the baraita citing Rabbi Meir) as a single quoted unit, and candidate 0's prose explicitly introduces this combined amoraic statement beginning with 'yesh lo get,' making it the best home for the entire passage rather than splitting it across multiple headings.",
+      "chosen_heading": "Minor Has Get",
+      "current_heading": "Rabbi Meir's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Chalitza Equals Get",
+    "candidates": [
+      "Rabbi Meir's View",
+      "Chalitza Equals Get",
+      "Acts Correspondence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the question of whether Rabbi Meir holds that a minor has a get and Rav Huna's resolution that the minor's get exists but is weaker \u2014 exactly what candidate 0's prose covers, including the baraita about chalitza/get comparison and the ait lei vezutar point, whereas candidate 1's prose begins after that resolution and moves to Rabban Gamliel's ruling.",
+      "chosen_heading": "Rabbi Meir's View",
+      "current_heading": "Chalitza Equals Get",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Acts Correspondence",
+    "candidates": [
+      "Acts Correspondence",
+      "Second Minor Question",
+      "Self-Disqualification",
+      "Rabbi Shimon View",
+      "All-or-Nothing Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why a minor's *get* after an adult's *get* is ineffective, directly supporting the 'Acts Correspondence' section's discussion of how the minor's *chalitza* is elevated to an adult's *get* level \u2014 and the prose explicitly concludes by noting this distinction matters 'whether one holds that a second *get* after a first *get* carries no effect or that it does,' which is precisely what this Talmudic passage addresses.",
+      "chosen_heading": "Acts Correspondence",
+      "current_heading": "Acts Correspondence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "All-or-Nothing Logic",
+    "candidates": [
+      "Second Minor Question",
+      "Self-Disqualification",
+      "Rabbi Shimon View",
+      "All-or-Nothing Logic",
+      "Complex Case Setup",
+      "Zikat Shnei Yevamim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Second Minor Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna and Gemara presenting the two cases (second minor disqualifying, and self-disqualification) along with Rabbi Shimon's dispute and his baraita reasoning \u2014 this maps precisely to heading 0 ('Second Minor Question') and 1 ('Self-Disqualification') and 2 ('Rabbi Shimon View'), but the Mishna itself (item 1) opens both cases together, and item 2 is Rabbi Shimon's baraita response, which belongs under heading 2 ('Rabbi Shimon View'); however since item 1 is the Mishna covering both cases and item 2 is the Gemara's baraita on Rabbi Shimon's view, the best single home for items 1-2 is heading 2 ('Rabbi Shimon View') whose prose explicitly describes the baraita content of item 2, while items 3-4 belong under heading 3 ('All-or-Nothing Logic') whose prose explicitly mentions the Ben Azzai ruling and the maamar-after-maamar distinction that items 3-4 contain.",
+      "second_heading": "All-or-Nothing Logic",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara's comment that the mishna is not in accordance with Ben Azzai and his teaching about maamar after maamar with two yevamim vs. two yevamot \u2014 this matches exactly the prose of heading 3 ('All-or-Nothing Logic') which explicitly discusses matnitin de'lo k'Ben Azzai and the maamar distinctions.",
+      "current_heading": "All-or-Nothing Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Zikat Shnei Yevamim",
+    "candidates": [
+      "Complex Case Setup",
+      "Zikat Shnei Yevamim",
+      "First Woman Chalitza",
+      "Rabbi Shimon's Option",
+      "Pubic Hair Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishnah text presents the scenario setup \u2014 a nine-year-old performing bi'ah with his yevamah, dying, and the more complex case of him later marrying another woman as an adult \u2014 which directly matches the 'Complex Case Setup' prose that describes exactly this introductory scenario before the legal analysis begins.",
+      "chosen_heading": "Complex Case Setup",
+      "current_heading": "Zikat Shnei Yevamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Pubic Hair Requirement",
+    "candidates": [
+      "First Woman Chalitza",
+      "Rabbi Shimon's Option",
+      "Pubic Hair Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Shimon's ruling about choosing which woman to perform yibum with and doing chalitza with the second, which directly matches the prose of 'Rabbi Shimon's Option' \u2014 the age/pubic hair comment is an addendum to Rabbi Shimon's ruling, not a standalone topic.",
+      "chosen_heading": "Rabbi Shimon's Option",
+      "current_heading": "Pubic Hair Requirement",
+      "moved": true
+    }
+  }
+]

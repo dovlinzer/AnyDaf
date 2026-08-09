@@ -1,0 +1,287 @@
+[
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Pikadon Types",
+    "candidates": [
+      "Intro & Framework",
+      "Two Witnesses: Joint/Seq",
+      "Toch Kedei Dibbur",
+      "Rav Chisda & R.Y.G.",
+      "Rabbi Yochanan",
+      "Daisy-Chaining",
+      "Contradiction Case",
+      "Redundancy Question",
+      "First Group Liable",
+      "Pasul Solution",
+      "Wives' Deaths",
+      "Tosafot Solution",
+      "Pikadon Types",
+      "Generic vs Specific",
+      "Knas Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "All four items are precisely the Mishna text described in the 'Pikadon Types' prose \u2014 the cases of pikadon/tsumet yad/gezel/aveidah with generic vs. specific denial, and the sub-case of wheat/barley/spelt \u2014 matching the current placement exactly.",
+      "chosen_heading": "Pikadon Types",
+      "current_heading": "Pikadon Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Knas Cases",
+    "candidates": [
+      "Generic vs Specific",
+      "Knas Cases",
+      "Knas Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna listing the knas cases (nezek, chatzi nezek, kefel, arba'ah va-chamisha, rape/seduction, son striking, wounding, burning on Yom Kippur) and concluding they are chayavin, which is precisely what the 'Knas Cases' prose section describes and analyzes.",
+      "chosen_heading": "Knas Cases",
+      "current_heading": "Knas Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Knas Question",
+    "candidates": [
+      "Knas Question",
+      "R.E.B.R.S. View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening dilemma about administering an oath to witnesses concerning a fine, which is precisely what the 'Knas Question' prose describes and analyzes.",
+      "chosen_heading": "Knas Question",
+      "current_heading": "Knas Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "R.E.B.R.S. View",
+    "candidates": [
+      "R.E.B.R.S. View",
+      "Rabbanan Position",
+      "Definitive Testimony"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbanan Position",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Rabbi Elazar/Rabbanan distinction about knas admission, directly matching candidate 1's prose about the Rabbanan position and the modeh be-knas rule.",
+      "second_heading": "Definitive Testimony",
+      "second_confidence": "high",
+      "second_reason": "Item 3 asks which view the Rabbanan there align with and invokes 'davar ha-gorem le-mamon ke-mamon dami,' directly matching candidate 2's prose about the gorem le-mamon debate and how the knas scenario relates to it.",
+      "current_heading": "R.E.B.R.S. View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Definitive Testimony",
+    "candidates": [
+      "Rabbanan Position",
+      "Definitive Testimony",
+      "False Report Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous Gemara discussion about whether witnesses to a knas are chayav for shevuat edut \u2014 items 1-3 address the gorem le-mamon / knas dilemma and attempts to resolve it from the mishna's half-damage case, while items 4-8 systematically exhaust the remaining mishna cases (kefel, four-and-five, rape/seduction, Yom Kippur arson), all of which directly correspond to the 'Definitive Testimony' section's prose about the unresolved question of whether the theoretical possibility of admission renders testimony non-definitive.",
+      "chosen_heading": "Definitive Testimony",
+      "current_heading": "Definitive Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "False Report Case",
+    "candidates": [
+      "False Report Case",
+      "Braita Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about adjuring witnesses to testify regarding shem ra and the ruling that they are liable unless the defendant admitted on his own \u2014 exactly what heading 0 ('False Report Case') describes in its prose.",
+      "chosen_heading": "False Report Case",
+      "current_heading": "False Report Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Braita Meaning",
+    "candidates": [
+      "Braita Meaning",
+      "Mishna Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's resolution of the baraita's apparent contradiction \u2014 attributing it to Rabbi Elazar ben Rabbi Shimon and explaining the seifa \u2014 which is precisely what the 'Braita Meaning' prose describes in detail.",
+      "chosen_heading": "Braita Meaning",
+      "current_heading": "Braita Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Mishna Examples",
+    "candidates": [
+      "Mishna Examples",
+      "Third Party Issue",
+      "Qi'yum Leih",
+      "Power of Attorney",
+      "Harsha'ah Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishna listing non-monetary testimony cases (priest/Levite status, rape, wounding, arson on Shabbat) and the opening Gemara inference about those cases \u2014 are precisely the content described in the 'Mishna Examples' prose, which covers exactly these status and penalty-based exemptions.",
+      "chosen_heading": "Mishna Examples",
+      "current_heading": "Mishna Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Harsha'ah Limits",
+    "candidates": [
+      "Third Party Issue",
+      "Qi'yum Leih",
+      "Power of Attorney",
+      "Harsha'ah Limits",
+      "R. Eliezer Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses Shmuel's statement about harsha'ah and the Nehardean rule against writing authorization for movable property with the distinction between cases where the defendant has or has not yet denied the claim \u2014 exactly what section 3 'Harsha'ah Limits' discusses in its prose.",
+      "chosen_heading": "Harsha'ah Limits",
+      "current_heading": "Harsha'ah Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "R. Eliezer Proof",
+    "candidates": [
+      "R. Eliezer Proof",
+      "Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Eliezer's gezerah shavah from the word 'or' (o) connecting shevuat edut and shevuat pikadon, which is precisely what the prose under 'R. Eliezer Proof' describes.",
+      "chosen_heading": "R. Eliezer Proof",
+      "current_heading": "R. Eliezer Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Exclusions",
+    "candidates": [
+      "Exclusions",
+      "R. Akiva Method",
+      "R.Y.H. Examples"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Exclusions",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20134 are the challenge-and-response chain about the murderer and sotah passages, which is precisely what the 'Exclusions' prose describes.",
+      "second_heading": "R. Akiva Method",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces Rabbi Akiva's distinct derivation from 'of these,' which is exactly what the 'R. Akiva Method' prose describes.",
+      "current_heading": "Exclusions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128,
+      129
+    ],
+    "current_heading": "R.Y.H. Examples",
+    "candidates": [
+      "R. Akiva Method",
+      "R.Y.H. Examples",
+      "R. Shimon Kal V.C."
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "R.Y.H. Examples",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present Rabbi Yosei HaGelili's derivation and its two illustrative examples (sight without knowledge, knowledge without sight), which is precisely what candidate 1's prose describes in detail.",
+      "second_heading": "R. Shimon Kal V.C.",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rabbi Shimon's independent proof comparing shevuat edut to shevuat pikadon, which is exactly what candidate 2's prose discusses as Rabbi Shimon's kal va-chomer approach.",
+      "current_heading": "R.Y.H. Examples",
+      "moved": true
+    }
+  }
+]

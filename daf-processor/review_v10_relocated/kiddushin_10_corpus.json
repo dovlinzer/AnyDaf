@@ -1,0 +1,351 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Ten Rapists Braita",
+    "candidates": [
+      "Skilah vs. Chenek",
+      "Ten Rapists Braita",
+      "Rava's Principle",
+      "Rashi vs. Tosafot",
+      "Tosafot's Reading",
+      "Yom Kippur Case",
+      "Rebbi's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly continue the Gemara's discussion of how Rebbi derives his position from the word u've'alah and then introduces Rava's alternative use of that same pasuk \u2014 precisely what the 'Ten Rapists Braita' prose section describes.",
+      "chosen_heading": "Ten Rapists Braita",
+      "current_heading": "Ten Rapists Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Rebbi's Distinction",
+    "candidates": [
+      "Rava's Principle",
+      "Rashi vs. Tosafot",
+      "Tosafot's Reading",
+      "Yom Kippur Case",
+      "Rebbi's Distinction",
+      "Zeira's Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items deal with Rebbi's interpretation of 'beulat ba'al' \u2014 that a husband renders a woman a non-virgin through atypical intercourse but another man does not \u2014 which is precisely what the 'Rebbi's Distinction' prose section discusses, including the baraita about ten rapists and the stoning/strangulation dispute.",
+      "chosen_heading": "Rebbi's Distinction",
+      "current_heading": "Rebbi's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Zeira's Reconciliation",
+    "candidates": [
+      "Zeira's Reconciliation",
+      "Opening Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in candidate 0's prose: Rabbi Zeira's ruling that Rebbi concedes on the knas, the distinction based on 'l'vado,' and the rabbanan's alternative use of 'l'vado' for the baraita about Rabbi Yoshiyah/Yonatan \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Zeira's Reconciliation",
+      "current_heading": "Zeira's Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Opening Question",
+    "candidates": [
+      "Opening Question",
+      "Practical Case",
+      "Tosafot's Approaches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yo\u1e25anan's derivation from 'beulat ba'al' to learn two halakhot simultaneously \u2014 one being kiddushei biah \u2014 which directly relates to the Tosafot section's discussion of kiddushei biah and the mechanics of bi'ah as a kinyan, not to the opening question or the practical nafka mina.",
+      "chosen_heading": "Tosafot's Approaches",
+      "current_heading": "Opening Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Tosafot's Approaches",
+    "candidates": [
+      "Practical Case",
+      "Tosafot's Approaches",
+      "Kohen Gadol Case",
+      "Amemar's Resolution",
+      "Central Question",
+      "Three Consequences"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Practical Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the dilemma (techilat biah vs. sof biah) and its practical nafka mina, which matches the 'Practical Case' prose exactly.",
+      "second_heading": "Amemar's Resolution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ameimar's ruling in the name of Rava (kol habo'el da'ato al gmar biah), which matches the 'Amemar's Resolution' prose exactly.",
+      "current_heading": "Tosafot's Approaches",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Three Consequences",
+    "candidates": [
+      "Kohen Gadol Case",
+      "Amemar's Resolution",
+      "Central Question",
+      "Three Consequences",
+      "Abaye's Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the ibaya 'biah nisuin oseh o eirusin oseh' and its nafka mina \u2014 which is precisely what candidate 2 ('Central Question') describes, whereas candidate 3 ('Three Consequences') covers only the practical consequences already resolved, not the dilemma itself being raised.",
+      "chosen_heading": "Central Question",
+      "current_heading": "Three Consequences",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Abaye's Braita",
+    "candidates": [
+      "Three Consequences",
+      "Abaye's Braita",
+      "Two Stages Problem",
+      "Defense of Biah Nisuin",
+      "Age Threshold",
+      "Yibum Application",
+      "Bo'el Niddah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's citation of the mishna/braita listing the father's rights over his daughter and the husband's additional right to produce upon marriage, which is precisely what the 'Abaye's Braita' section prose describes.",
+      "chosen_heading": "Abaye's Braita",
+      "current_heading": "Abaye's Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Bo'el Niddah",
+    "candidates": [
+      "Two Stages Problem",
+      "Defense of Biah Nisuin",
+      "Age Threshold",
+      "Yibum Application",
+      "Bo'el Niddah",
+      "Kohen Marriage",
+      "Rava's Two Stages"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Defense of Biah Nisuin",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's deflection of the two-stages challenge, which corresponds exactly to heading 1 ('Defense of Biah Nisuin') prose about reading nisseit as applying only to kessef/shtar cases.",
+      "second_heading": "Age Threshold",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are all parts of Rava's new baraita beginning with the three-year-old threshold, and item 2 (the opening with age threshold, yibum, and eshet ish) matches heading 2 ('Age Threshold') which discusses Rava's baraita about bat shalosh shanim.",
+      "current_heading": "Bo'el Niddah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Rava's Two Stages",
+    "candidates": [
+      "Kohen Marriage",
+      "Rava's Two Stages",
+      "Opening Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's analysis of 'katani biah vekatani nisset' and the deflection that 'nisseit le'kohen' describes the character of the nisuin already effected through biah, which is precisely what the prose under 'Rava's Two Stages' describes.",
+      "chosen_heading": "Rava's Two Stages",
+      "current_heading": "Rava's Two Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Opening Question",
+    "candidates": [
+      "Opening Question",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the exchange between Yochanan ben Bag Bag and Rabbi Yehuda ben Beteira, which is precisely what the 'Opening Question' prose describes \u2014 the sending of the message, the ruling about arusa eating teruma, and the comment about kal vachomer expertise \u2014 whereas the 'Kal Vachomer' section's prose discusses the actual logical content of the inference itself, which does not yet appear in this passage.",
+      "chosen_heading": "Opening Question",
+      "current_heading": "Opening Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Kal Vachomer",
+      "Rabbinic Decree",
+      "Refutation",
+      "Reformulated Kal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the kal vachomer argument comparing a Canaanite maidservant to a betrothed woman, followed by the acknowledgment of the rabbinic decree \u2014 but the primary content is the kal vachomer itself, which matches heading 0's prose exactly, and the brief mention of the rabbinic decree is part of Rabbi Yehuda ben Beteira's own statement concluding the kal vachomer, not a separate section.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Reformulated Kal",
+    "candidates": [
+      "Rabbinic Decree",
+      "Refutation",
+      "Reformulated Kal",
+      "Two Concerns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items comprise the Gemara's challenge to and reformulation of Rabbi Yehuda ben Beteira's kal vachomer \u2014 the heichi dami objection (items 1-2), the proof from biah nisuin oseh (item 3), Rav Nachman bar Yitzchak's alternative reading (item 4), and the shifcha kna'anit reformulation (item 5) \u2014 which is precisely what the 'Reformulated Kal' prose describes in detail.",
+      "chosen_heading": "Reformulated Kal",
+      "current_heading": "Reformulated Kal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Two Concerns",
+    "candidates": [
+      "Two Concerns",
+      "Slave Defects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items together constitute Ravina's clarification of ben Bag-Bag's message \u2014 the kal vachomer about simpon, and the rabbinic concession about chuppah due to Ulla \u2014 which is precisely what the 'Two Concerns' prose discusses.",
+      "chosen_heading": "Two Concerns",
+      "current_heading": "Two Concerns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Slave Defects",
+    "candidates": [
+      "Slave Defects",
+      "Slave vs. Wife",
+      "Ganav Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ganav Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 discuss why simpon does not apply to slaves (exposed vs. hidden blemishes, thief/gambler cases), matching the 'Ganav Case' prose which covers exactly nimtza ganav, kubyustos, armed bandit, and public knowledge.",
+      "second_heading": "Slave Defects",
+      "second_confidence": "low",
+      "second_reason": "Item 3 asks what practical difference exists between the two masters' positions regarding teruma/betrothal, which does not match any candidate's prose well, so it defaults to the current placement with low confidence.",
+      "current_heading": "Slave Defects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Ganav Case",
+    "candidates": [
+      "Slave vs. Wife",
+      "Ganav Case",
+      "Rambam Position",
+      "Ra'avad Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the practical differences between cases (accepted blemishes, transferred custody, agents walking) that determine whether the betrothal can be retroactively annulled or whether she might feed teruma to her family \u2014 this is precisely about the wife/betrothal context and the live possibility of retroactive annulment, which matches the 'Slave vs. Wife' section's prose about the two-stage marriage process and the opening for retroactive undoing, not the ganav/criminal-defect discussion of the current placement.",
+      "chosen_heading": "Slave vs. Wife",
+      "current_heading": "Ganav Case",
+      "moved": true
+    }
+  }
+]

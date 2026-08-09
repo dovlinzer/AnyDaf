@@ -54,7 +54,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Non-Standard Modes of Consumption: Chewing Raw Grain and Swallowing Whole",
@@ -77,7 +77,7 @@
           "timestamp": "08:29"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -192,7 +192,7 @@
           "timestamp": "39:02"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -264,8 +264,8 @@
           "timestamp": "48:03"
         }
       ],
-      "sefaria_index": 25,
-      "matched": true
+      "sefaria_index": 23,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -654,8 +654,8 @@
   ],
   "amud_b_sefaria_index": 22,
   "amud_b_segment_index": 8,
-  "amud_b_timestamp": "41:23",
-  "amud_b_micro_title": "Intrinsic Meaning",
+  "amud_b_timestamp": "42:10",
+  "amud_b_micro_title": "Word Meaning",
   "shiur_start_daf": 80,
   "shiur_start_amud": "b"
 }

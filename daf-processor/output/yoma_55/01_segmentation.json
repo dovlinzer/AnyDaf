@@ -202,8 +202,8 @@
           "timestamp": "51:46"
         }
       ],
-      "sefaria_index": 22,
-      "matched": true
+      "sefaria_index": 17,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -442,5 +442,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "46:25",
+  "amud_b_micro_title": "Challenge Writing",
+  "shiur_start_daf": 54,
+  "shiur_start_amud": "b"
 }

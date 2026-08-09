@@ -44,7 +44,7 @@
         }
       ],
       "sefaria_index": 6,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Concern for Seminal Emission: Preventing Tumah Through Dietary Restrictions and Avoidance of Sleep",
@@ -58,7 +58,7 @@
         }
       ],
       "sefaria_index": 6,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Challenge of an Ignorant Kohen Gadol: The Gemara's Resolution Through the Distinction Between Bayis Rishon and Bayis Sheni",
@@ -178,7 +178,7 @@
           "timestamp": "45:05"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -436,5 +436,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "32:20",
+  "amud_b_micro_title": "Arugula Digression",
+  "shiur_start_daf": 18,
+  "shiur_start_amud": "a"
 }

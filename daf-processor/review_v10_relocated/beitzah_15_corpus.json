@@ -1,0 +1,497 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Hard Shatnez",
+    "candidates": [
+      "Overview & Intro",
+      "Shatnez as Curtain",
+      "Hard Shatnez",
+      "Nails & Unsewn",
+      "Sandal Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Pappa's ruling on ardalayin, Rava's distinction between coin-pouches and seed-pouches, and Rav Ashi's warmth-based ruling \u2014 all of which are explicitly described and analyzed in the 'Hard Shatnez' section's prose.",
+      "chosen_heading": "Hard Shatnez",
+      "current_heading": "Hard Shatnez",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Sandal Story",
+    "candidates": [
+      "Nails & Unsewn",
+      "Sandal Story",
+      "Abaye on Sandals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks why spiked sandals are prohibited and answers 'due to an incident that occurred,' which is precisely what the 'Sandal Story' section's prose discusses.",
+      "chosen_heading": "Sandal Story",
+      "current_heading": "Sandal Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Abaye on Sandals",
+    "candidates": [
+      "Abaye on Sandals",
+      "Unsewn Shoes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Abaye's statement about the spiked sandal being prohibited to wear but permitted to move, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Abaye on Sandals",
+      "current_heading": "Abaye on Sandals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Unsewn Shoes",
+    "candidates": [
+      "Unsewn Shoes",
+      "Shoe Regions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the unsewn shoe ruling and Rabbi Yehuda/Rabbi Yosei's dispute about black vs. white shoes \u2014 are explicitly discussed together in the 'Unsewn Shoes' prose, making that the correct placement for the entire passage.",
+      "chosen_heading": "Unsewn Shoes",
+      "current_heading": "Unsewn Shoes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Shoe Regions",
+    "candidates": [
+      "Shoe Regions",
+      "Principle: Usage",
+      "Rav Sheshet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the resolution that each sage ruled according to his locale's leather-working customs (flesh-side down vs. flesh-side up), which is precisely what the 'Shoe Regions' prose discusses.",
+      "chosen_heading": "Shoe Regions",
+      "current_heading": "Shoe Regions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rav Sheshet",
+    "candidates": [
+      "Principle: Usage",
+      "Rav Sheshet",
+      "Rashi/Tosafot",
+      "Abaye's Challenge",
+      "Road Scenario",
+      "Study Hall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage begins with the mishna's general principle ('zeh ha-klal') and then immediately presents Rav Sheshet's ruling and Abaye's challenge together as one continuous Talmudic unit, but since the passage opens with the mishna's principle text and the essay has a dedicated 'Principle: Usage' heading (index 0) that quotes exactly this principle, while the subsequent discussion of Rav Sheshet and Abaye's challenge are covered under their own separate headings, the current placement under 'Rav Sheshet' (index 1) is actually a reasonable home for the full passage since it covers the entire sugya including the reinterpretation \u2014 however, given that the passage contains all three elements (principle, Rav Sheshet, Abaye's challenge) and the 'Rav Sheshet' prose already describes all of this content including the reinterpretation, the current placement is the best single heading for this complete passage.",
+      "chosen_heading": "Principle: Usage",
+      "current_heading": "Rav Sheshet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Study Hall",
+    "candidates": [
+      "Rashi/Tosafot",
+      "Abaye's Challenge",
+      "Road Scenario",
+      "Study Hall",
+      "Three Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the road case and the study hall case together, which corresponds to the 'Road Scenario' section's prose that introduces Abaye's pivot and discusses both scenarios (road and beis medrash) as a unified teaching, whereas 'Study Hall' is meant to cover only the beis medrash case separately.",
+      "chosen_heading": "Road Scenario",
+      "current_heading": "Study Hall",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Three Cases",
+    "candidates": [
+      "Study Hall",
+      "Three Cases",
+      "Jewish Robbers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita challenge about bringing tefillin only to the nearest house, the resolution distinguishing safeguarded vs. unsafeguarded cases, and the further challenge from the mishna about finding tefillin on the ground \u2014 are precisely the content described in the 'Three Cases' prose, which covers exactly this sequence of objection, answer, and counter-challenge.",
+      "chosen_heading": "Three Cases",
+      "current_heading": "Three Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Jewish Robbers",
+    "candidates": [
+      "Jewish Robbers",
+      "Prohibition/Permission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the distinction between cases where tefillin are safeguarded from dogs vs. thieves, and the ruling about Jewish thieves (rov listim Yisrael) \u2014 exactly the content described in the 'Jewish Robbers' prose section.",
+      "chosen_heading": "Jewish Robbers",
+      "current_heading": "Jewish Robbers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Prohibition/Permission",
+    "candidates": [
+      "Prohibition/Permission",
+      "Eruv Remedy",
+      "Shammai/Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the prohibition against cooking on Yom Tov for Shabbat and the eruv tavshilin remedy in a single mishna, but the current placement under 'Prohibition/Permission' is correct as that section's prose explicitly translates and discusses this entire mishna text including both the prohibition and the leftover allowance, while the eruv tavshilin portion is only briefly mentioned as an introduction to the next section.",
+      "chosen_heading": "Prohibition/Permission",
+      "current_heading": "Prohibition/Permission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Shammai/Hillel",
+    "candidates": [
+      "Eruv Remedy",
+      "Shammai/Hillel",
+      "Loss of Eruv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Beit Shammai/Beit Hillel dispute about two versus one cooked dish for eruv tavshilin, which is exactly what the 'Shammai/Hillel' section's prose discusses.",
+      "chosen_heading": "Shammai/Hillel",
+      "current_heading": "Shammai/Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Loss of Eruv",
+    "candidates": [
+      "Loss of Eruv",
+      "Zachor Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what happens when the eruv is eaten or lost and what happens if a minimal amount remains, which perfectly matches the 'Loss of Eruv' section's prose.",
+      "chosen_heading": "Loss of Eruv",
+      "current_heading": "Loss of Eruv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Zachor Verse",
+    "candidates": [
+      "Zachor Verse",
+      "Rashi View",
+      "Ran View",
+      "Rava Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's derivation from the 'Zachor' verse, which is precisely what the 'Zachor Verse' section's prose describes.",
+      "chosen_heading": "Zachor Verse",
+      "current_heading": "Zachor Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Rava Logic",
+    "candidates": [
+      "Rashi View",
+      "Ran View",
+      "Rava Logic",
+      "Rav Ashi Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rava's explanation (kedei sheyivror maneh yafeh l'Shabbat u'maneh yafeh l'Yom Tov) which is precisely the content the 'Rava Logic' section's prose discusses and analyzes.",
+      "chosen_heading": "Rava Logic",
+      "current_heading": "Rava Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Rav Ashi Logic",
+    "candidates": [
+      "Rav Ashi Logic",
+      "Why Erev?"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Ashi Logic",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Ashi's statement of his reason, which belongs under 'Rav Ashi Logic' where the prose explicitly discusses and explains Rav Ashi's rationale.",
+      "second_heading": "Why Erev?",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the gemara's challenge from the mishna's requirement of 'erev Yom Tov' that pits Rav Ashi against Rava, which is precisely what 'Why Erev?' discusses \u2014 why the mishna specifies erev Yom Tov and how each opinion handles it.",
+      "current_heading": "Rav Ashi Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Why Erev?",
+    "candidates": [
+      "Why Erev?",
+      "Bake/Cook Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly answers why the eruv must be made on erev Yom Tov rather than on Yom Tov itself, citing the decree against negligence \u2014 exactly what the 'Why Erev?' section prose describes.",
+      "chosen_heading": "Why Erev?",
+      "current_heading": "Why Erev?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Bake/Cook Verse",
+    "candidates": [
+      "Bake/Cook Verse",
+      "Six Groups"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'bake/cook' verse from Exodus 16:23 and Rabbi Eliezer's derivation of eruv tavshilin from it, which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Bake/Cook Verse",
+      "current_heading": "Bake/Cook Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Six Groups",
+    "candidates": [
+      "Six Groups",
+      "Criticism Escalates",
+      "Reassurance"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Six Groups",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers groups one through three (and the setup), which matches heading 0's prose discussing the first through fifth departing groups.",
+      "second_heading": "Criticism Escalates",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the sixth group's departure and Rabbi Eliezer's curse (*baalei me'eira*), which is precisely what heading 1's prose ('Criticism Escalates') discusses.",
+      "current_heading": "Six Groups",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Reassurance",
+    "candidates": [
+      "Criticism Escalates",
+      "Reassurance",
+      "Permission to Eat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Eliezer casting his eyes on the students, their faces changing color, and his reassurance that his criticism was directed at those who left rather than them \u2014 exactly the content described in the 'Reassurance' section's prose.",
+      "chosen_heading": "Reassurance",
+      "current_heading": "Reassurance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Permission to Eat",
+    "candidates": [
+      "Permission to Eat",
+      "All-or-Nothing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Eliezer's farewell verse to departing students, which is precisely what the 'Permission to Eat' prose section discusses and explains.",
+      "chosen_heading": "Permission to Eat",
+      "current_heading": "Permission to Eat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "All-or-Nothing",
+    "candidates": [
+      "All-or-Nothing",
+      "Verse Reconciliation",
+      "Two Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about simchas Yom Tov being a mitzvah and Rabbi Eliezer's position that it is optional (reshus), which is precisely what the 'All-or-Nothing' section's prose discusses in detail.",
+      "chosen_heading": "All-or-Nothing",
+      "current_heading": "All-or-Nothing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Two Interpretations",
+    "candidates": [
+      "Verse Reconciliation",
+      "Two Interpretations",
+      "No Eruv Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the baraita dispute between Rabbi Eliezer and Rabbi Yehoshua followed by Rabbi Yochanan's observation that both derive from the same verse \u2014 which is precisely what candidate 0 ('Verse Reconciliation') describes in its prose, while candidate 1 ('Two Interpretations') already contains the elaborated analysis of those same positions, making 0 the better home for the source text itself.",
+      "chosen_heading": "Verse Reconciliation",
+      "current_heading": "Two Interpretations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "No Eruv Gift",
+    "candidates": [
+      "Two Interpretations",
+      "No Eruv Gift",
+      "Compassion View",
+      "God Pays Debts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Rav Chisda's interpretation and the 'some say' alternative in a single Gemara excerpt, and while the prose is split across headings 1 and 2, the current placement under 'No Eruv Gift' (index 1) already covers both interpretations since the passage is a single unified text; however, since both interpretations appear in one item and heading 1's prose explicitly covers Rav Chisda's view while heading 2 covers the second interpretation, the passage as a whole best fits under heading 1 where it currently sits, as it begins with Rav Chisda's primary interpretation.",
+      "chosen_heading": "No Eruv Gift",
+      "current_heading": "No Eruv Gift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "God Pays Debts",
+    "candidates": [
+      "Compassion View",
+      "God Pays Debts",
+      "Eruv Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses God telling Israel to borrow and sanctify the day with trust that He will repay, which matches exactly the 'God Pays Debts' section prose about divine support for Yom Tov expenses.",
+      "chosen_heading": "God Pays Debts",
+      "current_heading": "God Pays Debts",
+      "moved": false
+    }
+  }
+]

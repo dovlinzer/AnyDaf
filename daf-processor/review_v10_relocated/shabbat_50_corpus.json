@@ -1,0 +1,338 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Student Challenge",
+    "candidates": [
+      "Opening",
+      "39 Melachot Source",
+      "Insulation & Muktzeh",
+      "Rava's Rule",
+      "Student Challenge",
+      "Rava Clarified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items form one continuous unit: Rava's ruling (item 1), the first-day student's challenge from the mishnah (item 2), and the mishnah's resolution showing the shearings remain muktzeh even after insulation (item 3) \u2014 exactly the content described in the 'Student Challenge' prose.",
+      "chosen_heading": "Student Challenge",
+      "current_heading": "Student Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rava Clarified",
+    "candidates": [
+      "Rava Clarified",
+      "Tannaitic Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's reformulated ruling about designation for insulation changing muktzeh status, which is precisely what the 'Rava Clarified' prose section discusses.",
+      "chosen_heading": "Rava Clarified",
+      "current_heading": "Rava Clarified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Tannaitic Support",
+    "candidates": [
+      "Tannaitic Support",
+      "Palm Beams Case",
+      "R. Shimon b. Gamliel",
+      "Amoraim Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern wool fleece designation for insulation (the Ravin/Rabbi tradition and Ravina's heftek distinction with baraita), which is exactly what the 'Tannaitic Support' prose discusses.",
+      "chosen_heading": "Tannaitic Support",
+      "current_heading": "Tannaitic Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Amoraim Positions",
+    "candidates": [
+      "Palm Beams Case",
+      "R. Shimon b. Gamliel",
+      "Amoraim Positions",
+      "Bandages Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about tying palm branches, the Amoraic dispute (Rav/Shmuel/Rav Asi), and the Gemara's question about whose opinion Rav Asi follows \u2014 are the precise content described in the 'Amoraim Positions' prose, which explicitly covers all three positions and the Gemara's note that Rav matches the first tanna, Shmuel matches Rabban Shimon ben Gamliel, and then asks whose opinion supports Rav Asi.",
+      "chosen_heading": "Amoraim Positions",
+      "current_heading": "Amoraim Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Bandages Case",
+    "candidates": [
+      "Bandages Case",
+      "Straw Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about going out with pakorin/tzipa treated with oil and bound with twine, which is explicitly discussed in the 'Bandages Case' prose as the source for Rav Assi's position on single use transforming muktzeh status.",
+      "chosen_heading": "Bandages Case",
+      "current_heading": "Bandages Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Straw Case",
+    "candidates": [
+      "Straw Case",
+      "Feasibility Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about straw on a bed, muktzeh, and pre-Shabbat preparation directly matches the 'Straw Case' prose, which explicitly discusses this very mishna and its details.",
+      "chosen_heading": "Straw Case",
+      "current_heading": "Straw Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Feasibility Rule",
+    "candidates": [
+      "Feasibility Rule",
+      "Dirt Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi \u1e24anina ben Akiva's palm-branch case and the conclusion that physical tying is required in ordinary circumstances but mental designation suffices when preoccupied, which is exactly what the 'Feasibility Rule' prose discusses in detail.",
+      "chosen_heading": "Feasibility Rule",
+      "current_heading": "Feasibility Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Dirt Case",
+    "candidates": [
+      "Dirt Case",
+      "Sand Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the dirt/earth case \u2014 Rav Yehuda's ruling, the question of whether it follows Rabban Shimon ben Gamliel, and Rav Pappa's resolution \u2014 which are all explicitly covered in the 'Dirt Case' prose.",
+      "chosen_heading": "Dirt Case",
+      "current_heading": "Dirt Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Sand Debate",
+    "candidates": [
+      "Sand Debate",
+      "R. Yehuda vs Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening move of the tannaitic parallel proposal \u2014 citing the baraita that permits natron and sand \u2014 which is precisely what the 'Sand Debate' prose describes as the gemara's neima ke-tanna'ei introduction, before the R. Yehuda vs Shimon analysis begins.",
+      "chosen_heading": "Sand Debate",
+      "current_heading": "Sand Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "R. Yehuda vs Shimon",
+    "candidates": [
+      "R. Yehuda vs Shimon",
+      "Olive Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 8,
+      "first_heading": "R. Yehuda vs Shimon",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20138 are the continuous Gemara discussion about sand/natron, Rabbi Yehuda vs Rabbi Shimon, the nazir case, and the two tanna'im within Rabbi Yehuda's view \u2014 all of which is explicitly discussed in the 'R. Yehuda vs Shimon' prose.",
+      "second_heading": "Olive Case",
+      "second_confidence": "high",
+      "second_reason": "Items 9\u201310 shift to Amoraic rulings about specific permitted cleansers (powdered frankincense, jasmine residue, pepper, barda and its composition), which the 'Olive Case' prose references as the next topic ('what follows immediately after regarding Mar Zutra' and the barda discussion), marking a structural transition to a new set of practical rulings.",
+      "current_heading": "R. Yehuda vs Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Olive Case",
+    "candidates": [
+      "Olive Case",
+      "Mar Zutra's Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the olive-crushing question posed to Rav Sheshet and the subsequent comparison with Shmuel's bread ruling, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Olive Case",
+      "current_heading": "Olive Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Mar Zutra's Stringency",
+    "candidates": [
+      "Mar Zutra's Stringency",
+      "Barda Formula"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly describe Mar Zutra's refusal to use berada and the baraita reasoning behind his stringency, which is precisely what the 'Mar Zutra's Stringency' prose discusses in detail.",
+      "chosen_heading": "Mar Zutra's Stringency",
+      "current_heading": "Mar Zutra's Stringency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Barda Formula",
+    "candidates": [
+      "Barda Formula",
+      "Mishnah Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about washing face, hands, and feet for the sake of one's Maker (the baraita supporting Ameimar and Rav Ashi's permissive view on barda) is explicitly discussed in the 'Barda Formula' prose section, which directly references this baraita and its theological reasoning.",
+      "chosen_heading": "Barda Formula",
+      "current_heading": "Barda Formula",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Mishnah Debate",
+    "candidates": [
+      "Mishnah Debate",
+      "Hole Filling Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the 'hakol modim she-nitkalkela ha-guma' ruling and the subsequent Gemara question about what circumstances the mishnah dispute addresses \u2014 exactly what the 'Hole Filling Issue' prose describes, not the general mishnah dispute overview of candidate 0.",
+      "chosen_heading": "Hole Filling Issue",
+      "current_heading": "Mishnah Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Hole Filling Issue",
+    "candidates": [
+      "Mishnah Debate",
+      "Hole Filling Issue",
+      "Fragrant Plant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's clarification that the dispute is about concern over the hole collapsing (chosheshin), not an actual collapse \u2014 exactly what the 'Hole Filling Issue' prose describes.",
+      "chosen_heading": "Hole Filling Issue",
+      "current_heading": "Hole Filling Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Fragrant Plant",
+    "candidates": [
+      "Fragrant Plant",
+      "Knife in Wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Huna's ruling about the slikusta (fragrant daffodil branch) inserted into moist earth, which matches exactly the 'Fragrant Plant' section's prose about the slikusta case.",
+      "chosen_heading": "Fragrant Plant",
+      "current_heading": "Fragrant Plant",
+      "moved": false
+    }
+  }
+]

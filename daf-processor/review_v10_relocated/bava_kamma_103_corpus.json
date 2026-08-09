@@ -1,0 +1,476 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Shinui Koneh Debate",
+    "candidates": [
+      "Opening",
+      "Shinui Koneh Debate",
+      "Money Investment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items form a continuous chain discussing the Rabbi Meir/Rabbi Yehuda shinui koneh debate as applied to the deviant-agent case, including Rabbi Elazar's objection and resolution and Rabbi Abbahu's proof from the mishna about consecrated property \u2014 all directly elaborating the shinui koneh analogy described in the 'Shinui Koneh Debate' prose.",
+      "chosen_heading": "Shinui Koneh Debate",
+      "current_heading": "Shinui Koneh Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Money Investment",
+    "candidates": [
+      "Money Investment",
+      "Heter Iska"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "Neither candidate heading's prose clearly matches this passage about consecration of property and the intent behind excluding a wife and children's clothing \u2014 the current placement is retained by default given no clearly better match exists among the candidates.",
+      "chosen_heading": "Money Investment",
+      "current_heading": "Money Investment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Heter Iska",
+    "candidates": [
+      "Heter Iska",
+      "No Condition Case",
+      "Rav Sheshet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The passage discusses consecration of property and exemption of wife/children's clothing, which does not match any of the candidate headings well \u2014 the closest structural fit by process of elimination is 'No Condition Case' since it's clearly not about heter iska or Reish Galuta, but confidence is low as none of the prose descriptions match this content about valuations and consecration.",
+      "chosen_heading": "No Condition Case",
+      "current_heading": "Heter Iska",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Rav Sheshet",
+    "candidates": [
+      "No Condition Case",
+      "Rav Sheshet",
+      "Bnei Maarava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita and Rav Sheshet's clarification of it \u2014 the prose under 'No Condition Case' explicitly introduces this baraita and notes it is opaque and requires explanation, making it the natural home for both the baraita (item 1) and Rav Sheshet's interpretation (item 2), while the 'Rav Sheshet' heading's prose presupposes the baraita has already been quoted and moves directly into elaborating the ruling's implications.",
+      "chosen_heading": "No Condition Case",
+      "current_heading": "Rav Sheshet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Bnei Maarava",
+    "candidates": [
+      "Rav Sheshet",
+      "Bnei Maarava",
+      "Abaye's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Bnei Maarava challenge and its resolution (im mishum ha lo kashya), which is precisely what the 'Bnei Maarava' section's prose describes, making the current placement correct.",
+      "chosen_heading": "Bnei Maarava",
+      "current_heading": "Bnei Maarava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Abaye's Reading",
+    "candidates": [
+      "Abaye's Reading",
+      "Stipulated Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute Abaye's reinterpretation of the baraita \u2014 the objection to the latter clause, Abaye's alternative reading, and its resolution \u2014 which is precisely what the 'Abaye's Reading' prose describes.",
+      "chosen_heading": "Abaye's Reading",
+      "current_heading": "Abaye's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Stipulated Condition",
+    "candidates": [
+      "Stipulated Condition",
+      "Witness Notification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ruling that the seller cannot be compelled to write a second document and the reasoning behind it (the purchaser's claim of implicit understanding), which matches precisely the prose of candidate 0 ('Stipulated Condition').",
+      "chosen_heading": "Stipulated Condition",
+      "current_heading": "Stipulated Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Witness Notification",
+    "candidates": [
+      "Witness Notification",
+      "Flax Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'on the condition' stipulation and the witness announcement scenario, which is precisely what the 'Witness Notification' section's prose describes.",
+      "chosen_heading": "Witness Notification",
+      "current_heading": "Witness Notification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Flax Setup",
+    "candidates": [
+      "Flax Setup",
+      "Agent Naming"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the setup (Rav Kahana prepaying for flax, the flax appreciating, the merchant selling it, and Rav Kahana coming before Rav) and Rav's answer about naming the principal, so the full text belongs under the 'Flax Setup' heading which introduces the entire incident including Rav's ruling.",
+      "chosen_heading": "Flax Setup",
+      "current_heading": "Flax Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Agent Naming",
+    "candidates": [
+      "Agent Naming",
+      "Ownership Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks whose opinion Rav's ruling follows and references the Eretz Yisrael sages' requirement that the agency arrangement be explicitly stated \u2014 this directly continues the 'Ownership Response' section's discussion of why the named/unnamed distinction matters and what legal consequences flow from it, not the 'Agent Naming' section which is about the factual question of whether the name was declared.",
+      "chosen_heading": "Ownership Response",
+      "current_heading": "Agent Naming",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Ownership Response",
+    "candidates": [
+      "Agent Naming",
+      "Ownership Response",
+      "Rav's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly argues that since the flax appreciated on its own and the merchant sold it without authorization he is a robber who must pay the value at the time of the robbery \u2014 exactly the content described in the 'Ownership Response' prose.",
+      "chosen_heading": "Ownership Response",
+      "current_heading": "Ownership Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Rav's Principle",
+    "candidates": [
+      "Rav's Principle",
+      "Name Mechanism",
+      "Transition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the amana concept and quotes Rav's principle about futures prepurchase of produce vs. money, which is precisely what the 'Rav's Principle' section's prose discusses.",
+      "chosen_heading": "Rav's Principle",
+      "current_heading": "Rav's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Transition",
+    "candidates": [
+      "Name Mechanism",
+      "Transition",
+      "Mishna Gezel",
+      "Maddai Obligation",
+      "To Whom Give",
+      "Victim Dies",
+      "Principal Fifth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself (hagozel et chaveiro shaveh peruta venishba lo yolichenu acharav leMadai), which the 'Mishna Gezel' section's prose directly introduces and paraphrases word-for-word.",
+      "chosen_heading": "Mishna Gezel",
+      "current_heading": "Transition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Principal Fifth",
+    "candidates": [
+      "Mishna Gezel",
+      "Maddai Obligation",
+      "To Whom Give",
+      "Victim Dies",
+      "Principal Fifth",
+      "Fifth on Fifth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenarios of principal vs. fifth being given or forgiven, and when one must or need not pursue the victim \u2014 which is precisely what the 'Principal Fifth' section prose discusses.",
+      "chosen_heading": "Principal Fifth",
+      "current_heading": "Principal Fifth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Fifth on Fifth",
+    "candidates": [
+      "Fifth on Fifth",
+      "Various Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the 'fifth upon fifth' compounding scenario \u2014 giving back the principal but swearing falsely about the chomesh, then paying a fifth on the fifth \u2014 which exactly matches the prose of heading 0.",
+      "chosen_heading": "Fifth on Fifth",
+      "current_heading": "Fifth on Fifth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Various Cases",
+    "candidates": [
+      "Various Cases",
+      "Oath Requirement",
+      "Not R. Tarfon/Akiva",
+      "R. Tarfon v R. Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the pesukim about pikadon, tishumas yad, gazel, etc. and states the triad of keren, chomesh, and asham obligations, which is precisely what the 'Various Cases' prose describes and analyzes.",
+      "chosen_heading": "Various Cases",
+      "current_heading": "Various Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "R. Tarfon v R. Akiva",
+    "candidates": [
+      "Oath Requirement",
+      "Not R. Tarfon/Akiva",
+      "R. Tarfon v R. Akiva",
+      "Oath Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the gemara's question about whose opinion the mishna reflects, followed by the baraita showing Rabbi Tarfon and Rabbi Akiva's positions \u2014 directly matches heading 1 ('Not R. Tarfon/Akiva'), whose prose describes exactly this: the gemara stating the mishna cannot represent either rabbi because both appear in a baraita that doesn't distinguish oath from non-oath cases.",
+      "chosen_heading": "Not R. Tarfon/Akiva",
+      "current_heading": "R. Tarfon v R. Akiva",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Oath Limitation",
+    "candidates": [
+      "R. Tarfon v R. Akiva",
+      "Oath Limitation",
+      "R. Elazar Takana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question and answer about whose opinion the mishna follows, resolving that it is Rabbi Akiva's view conditioned on a false oath \u2014 precisely the content described in the 'Oath Limitation' prose, including the cited verse 'l'asher hu lo yitnenu b'yom ashmato.'",
+      "chosen_heading": "Oath Limitation",
+      "current_heading": "Oath Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "R. Elazar Takana",
+    "candidates": [
+      "R. Elazar Takana",
+      "R. Akiva Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's explanation of Rabbi Tarfon's position through Rabbi Elazar ben Rabbi Tzadok's takana, which is precisely what the prose under 'R. Elazar Takana' discusses.",
+      "chosen_heading": "R. Elazar Takana",
+      "current_heading": "R. Elazar Takana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "R. Akiva Rejects",
+    "candidates": [
+      "R. Akiva Rejects",
+      "R. Shimon Clarifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi Akiva's reasoning for rejecting the takana in the five-person robbery case, matching precisely the prose under 'R. Akiva Rejects' which discusses the same distinction between known and unknown victims.",
+      "chosen_heading": "R. Akiva Rejects",
+      "current_heading": "R. Akiva Rejects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "R. Shimon Clarifies",
+    "candidates": [
+      "R. Shimon Clarifies",
+      "Rava Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items constitute the baraita of Rabbi Shimon ben Elazar (item 1) and Rav Huna bar Yehuda's immediate objection to it (item 2), which together form the challenge described in the 'R. Shimon Clarifies' prose \u2014 the 'Rava Challenge' section picks up the aftermath of this challenge, not the challenge itself.",
+      "chosen_heading": "R. Shimon Clarifies",
+      "current_heading": "R. Shimon Clarifies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Rava Challenge",
+    "candidates": [
+      "Rava Challenge",
+      "Chasid Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is specifically about the chasid story being used to challenge the oath-based reading (would a pious man swear falsely?), which is precisely what the 'Chasid Objection' prose discusses, while the current 'Rava Challenge' heading's prose already summarizes this story as part of a broader challenge rather than focusing on the chasid-specific objection.",
+      "chosen_heading": "Chasid Objection",
+      "current_heading": "Rava Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Chasid Objection",
+    "candidates": [
+      "Rava Challenge",
+      "Chasid Objection",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the objection that the chasid could not have sworn falsely because figures referred to as 'chasid' (Rabbi Yehuda ben Bava and Rabbi Yehuda bar Ilai) were righteous from the beginning, which is precisely what the 'Chasid Objection' prose describes.",
+      "chosen_heading": "Chasid Objection",
+      "current_heading": "Chasid Objection",
+      "moved": false
+    }
+  }
+]

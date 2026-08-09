@@ -1,40 +1,9 @@
-# Yevamot 110 — Daf Yomi Shiur
-
+[DAF:110a]
 ## Kiddushei Ketanah & Yibum
 
+
+
 ### Scenario Setup
-
-> **Hebrew/Aramaic:** וְאָמַר רַבִּי אֲבָהוּ: אָתְיָא ״רְדִיפָה״ ״רְדִיפָה״. כְּתִיב הָכָא: ״בַּקֵּשׁ שָׁלוֹם וְרׇדְפֵהוּ״, וּכְתִיב הָתָם: ״רוֹדֵף צְדָקָה וָחָסֶד יִמְצָא חַיִּים צְדָקָה וְכָבוֹד״. בַּהֲפָרַת נְדָרִים, כְּרַבִּי נָתָן. דְּתַנְיָא, רַבִּי נָתָן אוֹמֵר: הַנּוֹדֵר — כְּאִילּוּ בָּנָה בָּמָה. וְהַמְקַיְּימוֹ — כְּאִילּוּ הִקְרִיב עָלֶיהָ קׇרְבָּן.
->
-> **Translation:** **And Rabbi Abbahu said: It is derived** by verbal analogy from the terms **pursuit** and **pursuit. It is written here: "Seek peace and pursue it"** (Psalms 34:15) **and it is written there: "He who pursues righteousness and mercy finds life, prosperity, and honor"** (Proverbs 21:21), indicating that pursuing peace is a mitzva, just as pursuing righteousness and mercy is. As **for the nullification of vows, this is in accordance with** the opinion of **Rabbi Natan, as it is taught** in a *baraita*: **Rabbi Natan says:** With regard to **one who vows, it is as if he built** a personal **altar** when it is prohibited to build an altar outside the Temple. **And one who fulfills that** vow, **it is as if he sacrificed an offering on this** personal altar, thereby doubling his sin. Therefore, it is preferable that he ask a halakhic authority to dissolve the vow.
-
-> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא, לְעוֹלָם כִּדְאָמְרִיתוּ מֵעִיקָּרָא: כׇּל הָאוֹמֵר אֵין לוֹ אֶלָּא תּוֹרָה — אֵין לוֹ אֶלָּא תּוֹרָה, לָא צְרִיכָא דְּקָא מַגְמַר לְאַחֲרִינֵי וְאָזְלִי וְעָבְדִי. מַהוּ דְּתֵימָא: אִית לֵיהּ אַגְרָא לְדִידֵיהּ, קָא מַשְׁמַע לַן.
->
-> **Translation:** **And if you wish, say: Actually, it is as you initially said: Anyone who says he has nothing other** than **Torah has nothing other** than **Torah. Rather,** this statement **is necessary** with regard to one who **teaches others and they go and perform** the mitzvot. **Lest you say that there is reward for him in it,** Rabbi Yosei **teaches us** that since that person engaged in Torah study without the intention of observing the mitzvot himself, he does not receive a reward for the mitzvot that he taught others and which they performed.
-
-> **Hebrew/Aramaic:** רַבָּן גַּמְלִיאֵל אוֹמֵר: אִם מֵיאֲנָה וְכוּ׳. בְּעָא מִינֵּיהּ רַבִּי אֶלְעָזָר מֵרַב: מַאי טַעְמָא דְּרַבָּן גַּמְלִיאֵל — מִשּׁוּם דְּקָסָבַר קִידּוּשֵׁי קְטַנָּה מִיתְלָא תְּלוּ, וְכִי גָּדְלָה גָּדְלִי בַּהֲדַהּ, אַף עַל גַּב דְּלָא בְּעַל,
->
-> **Translation:** § It was taught in the mishna that **Rabban Gamliel says: If** the minor **refuses** of her own accord, her refusal is valid. And if not, she should wait until she reaches majority, whereupon her marriage is valid by Torah law, and the widowed adult sister shall be exempt from levirate marriage due to her status as the sister of a wife. **Rabbi Elazar raised a dilemma to Rav: What is Rabban Gamliel's reasoning?** Is it **because he holds that the betrothal of a minor girl is in suspension and when she reaches majority, the betrothal reaches majority,** i.e., is fully realized, **with her?** Accordingly, the betrothal would then be realized **even if he did not engage in intercourse** with her after she reached majority.
-
-> **Hebrew/Aramaic:** אוֹ דִלְמָא מִשּׁוּם דְּקָסָבַר: הַמְקַדֵּשׁ אֲחוֹת יְבָמָה — נִפְטְרָה יְבָמָה וְהָלְכָה לָהּ, אִי בְּעַל — אִין, אִי לָא בְּעַל — לָא?
->
-> **Translation:** **Or perhaps, is it because he holds that** when a *yavam* **betroths the sister of his *yevama*,** causing the *yevama* to be forbidden to him, **the *yevama* is exempt and is released** even though her levirate bond came first? **If he engaged in sexual intercourse with** his betrothed after she reached majority, then **yes,** the *yevama* is exempt as a forbidden relative, because only then does Rabban Gamliel consider the betrothal to be fully realized, but **if he did not engage in intercourse with his** betrothed, then the *yevama* is **not exempt** from levirate marriage.
-
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: הַיְינוּ טַעְמָא דְּרַבָּן גַּמְלִיאֵל, מִשּׁוּם דְּקָסָבַר: הַמְקַדֵּשׁ אֲחוֹת יְבָמָה — נִפְטְרָה יְבָמָה וְהָלְכָה לָהּ, אִי בְּעַל — אִין, אִי לָא בְּעַל — לָא.
->
-> **Translation:** **Rav said to him: This is Rabban Gamliel's reasoning: Because he holds that** in the case of **one who betroths the sister of his *yevama*, the *yevama* is exempt and is released,** then **if he engaged in sexual intercourse** with the sister after she reached majority then **yes,** the *yevama* is exempt from levirate marriage, but **if he did not engage in intercourse** with the sister after she reached majority, the *yevama* is **not** exempt.
-
-> **Hebrew/Aramaic:** אָמַר רַב שֵׁשֶׁת: אָמֵינָא, כִּי נָיֵים וְשָׁכֵיב רַב, אֲמַר לְהָא שְׁמַעְתָּא. דְּתַנְיָא: הַמְקַדֵּשׁ אֶת הַקְּטַנָּה — קִידּוּשֶׁיהָ תְּלוּיִין. מַאי ״תְּלוּיִין״? לָאו כִּי גָּדְלָה גָּדְלִי בַּהֲדַהּ, וְאַף עַל גַּב דְּלָא בָּעַל?
->
-> **Translation:** **Rav Sheshet said: I say that Rav said this *halakha* when he was dozing and lying down,** as it is difficult. **As it is taught** in a *baraita*: In the case of **one who betroths a minor girl, her betrothal is in suspension. What** does it mean that it is **in suspension? Is it not that when she reaches majority, the betrothal reaches majority with her** and is fully realized **even if he did not have intercourse with her** after she reached majority?
-
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבִין בְּרֵיהּ דְּרַב נַחְמָן: הָא מִילְּתָא דִקְטַנָּה, מִיתְלָא תַּלְיָא וְקָיְימָא, אִי בְּעַל — אִין, אִי לָא בְּעַל — לָא. דְּאָמְרָה: הוּא עָדִיף מִינַּאי, וַאֲנָא עֲדִיפְנָא מִינֵּיהּ.
->
-> **Translation:** **Ravin, son of Rav Naḥman, said to** Rav Sheshet: **This matter,** that the betrothal **of a minor girl remains in suspension,** should be understood differently. It means that her betrothal is provisional as long as she is still a minor: **If he has sexual intercourse** with her after she reaches majority, **yes,** her betrothal is realized; **if he does not engage in intercourse** with her after she reaches majority, her betrothal is **not** realized. **For she says** to herself: **He has an advantage over me** in that he can divorce me, **and I have an advantage over him,** as I can refuse him. Since the marriage of a minor depends upon her ongoing consent, as she can refuse him at any time, it remains provisional until it is consummated when she is an adult.
-
-> **Hebrew/Aramaic:** וְסָבַר רַב: אִי בְּעַל — אִין, אִי לָא בְּעַל — לָא? וְהָא אִיתְּמַר: קְטַנָּה שֶׁלֹּא מֵיאֲנָה, וְהִגְדִּילָה, וְעָמְדָה וְנִשֵּׂאת, רַב אָמַר: אֵינָהּ צְרִיכָה גֵּט מִשֵּׁנִי, וּשְׁמוּאֵל אָמַר: צְרִיכָה גֵּט מִשֵּׁנִי.
->
-> **Translation:** The Gemara asks: **But does Rav** truly **think that** only **if he has intercourse with her** after she becomes an adult, then **yes, her** betrothal is realized, **but if he did not engage in intercourse with her,** then **no,** it is not realized? **Wasn't it stated** that with regard to **a minor who had not refused** her husband **and reached majority, and** then **went and married** another, **Rav said: She does not require a bill of divorce from the second** man, as she is fully married to the first and consequently her second marriage is invalid? **And Shmuel said: She does require a bill of divorce from the second** man, as it is uncertain whether her second marriage is valid.
 
 The daf opens at the bottom of 109b, with the Mishnah's discussion of *Rabban Gamliel*'s ruling. The case involves a man who contracted *kiddushei ketanah* — a marriage to a minor girl that was effected not through her father, and therefore binding only *derabbanan* — and whose brother subsequently died, leaving him with an obligation of *yibum derabbanan* toward his sister-in-law. To make the scenario concrete: Reuven is married to Rachel through *kiddushei ketanah* (a *derabbanan* marriage), and his brother dies leaving Leah as the *yevamah*. The complication is that Leah is Rachel's sister — i.e., *achot ishto* — and is therefore an *ervah* who normally cannot be subject to *yibum*. But is this *ervah* relationship truly operative here, given that the marriage to Rachel is only *derabbanan*?
 
@@ -50,11 +19,18 @@ The difficulty with *Rabban Gamliel*'s position is immediate. The obligation of 
 
 *Rabbi Elazar* posed this question directly to *Rav*: what exactly is *Rabban Gamliel*'s reasoning?
 
+> **Hebrew/Aramaic:** רַבָּן גַּמְלִיאֵל אוֹמֵר: אִם מֵיאֲנָה וְכוּ׳. בְּעָא מִינֵּיהּ רַבִּי אֶלְעָזָר מֵרַב: מַאי טַעְמָא דְּרַבָּן גַּמְלִיאֵל — מִשּׁוּם דְּקָסָבַר קִידּוּשֵׁי קְטַנָּה מִיתְלָא תְּלוּ, וְכִי גָּדְלָה גָּדְלִי בַּהֲדַהּ, אַף עַל גַּב דְּלָא בְּעַל,
+> **Translation:** § It was taught in the mishna that **Rabban Gamliel says: If** the minor **refuses** of her own accord, her refusal is valid. And if not, she should wait until she reaches majority, whereupon her marriage is valid by Torah law, and the widowed adult sister shall be exempt from levirate marriage due to her status as the sister of a wife. **Rabbi Elazar raised a dilemma to Rav: What is Rabban Gamliel’s reasoning?** Is it **because he holds that the betrothal of a minor girl is in suspension and when she reaches majority, the betrothal reaches majority,** i.e., is fully realized, **with her?** Accordingly, the betrothal would then be realized **even if he did not engage in intercourse** with her after she reached majority.
+
+> **Hebrew/Aramaic:** אוֹ דִלְמָא מִשּׁוּם דְּקָסָבַר: הַמְקַדֵּשׁ אֲחוֹת יְבָמָה — נִפְטְרָה יְבָמָה וְהָלְכָה לָהּ, אִי בְּעַל — אִין, אִי לָא בְּעַל — לָא?
+> **Translation:** **Or perhaps, is it because he holds that** when a *yavam* **betroths the sister of his *yevama*,** causing the *yevama* to be forbidden to him, **the *yevama* is exempt and is released** even though her levirate bond came first? **If he engaged in sexual intercourse with** his betrothed after she reached majority, then **yes,** the *yevama* is exempt as a forbidden relative, because only then does Rabban Gamliel consider the betrothal to be fully realized, but **if he did not engage in intercourse with his** betrothed, then the *yevama* is **not exempt** from levirate marriage.
+
 ### Suspended Kiddushin
 
 The first possibility *Rav* considers is that *Rabban Gamliel* holds *kiddushei ketanah* are *teluyim* — suspended or held in abeyance. The Aramaic phrase used is evocative: *kiddusheha mitla talu*, and *chi gadlah gadli bahadah* — the *kiddushin* "grows up with her." According to this view, when she contracts *kiddushin* as a minor, the act is not simply a *derabbanan* institution with no *de'oraita* dimension. Rather, the *de'oraita* marriage is latent within the original act and automatically comes into force when she reaches adulthood. There is no new act of *kiddushin* required; the original act, held in suspension, simply activates. On this reading, even retroactively, Rachel was in some sense already his wife when the *yibum* obligation began — and therefore Leah was already an *ervah* in some meaningful sense from the outset.
 
 ### New Kiddushin Theory
+
 
 The second possibility is that *Rabban Gamliel* holds an entirely different view: the original *kiddushei ketanah* carry no *de'oraita* weight whatsoever. When Rachel becomes an adult, it is not that the old *kiddushin* activates — rather, a new act of *kiddushin* is created. This raises a separate question within *yibum* law: if a man has a *mitzvah* of *yibum* with a woman and then, without having performed either *yibum* or *chalitzah*, proceeds to marry her sister, mother, or daughter — creating an *ervah* situation after the *zikah* has already begun — does that *ervah* status dissolve the *zikah*? Can one simply generate an *ervah* after the fact and thereby neutralize the *yibum* obligation? *Rabban Gamliel* apparently holds yes: even if the *ervah* is created after the *zikah* began, she walks away — *nifterah yevamah ve-halchah lah*. On this reading, the crucial question then becomes: when does the new *kiddushin* with Rachel take effect? Since there is no ring or document, only *bi'ah* (intercourse) could create a new act of *kiddushin*. Hence the formulation: *ei baal in, ei lo baal lo* — if they have had *bi'ah*, yes; if not, no.
 
@@ -84,11 +60,9 @@ The core question thus crystallizes: is *kiddushei ketanah* automatically operat
 
 ## Rav vs. Shmuel/Sheshet
 
-### Rav's Position
 
-> **Hebrew/Aramaic:** מַאי לָאו, דְּלָא בְּעַל? לָא, דִּבְעַל. אִי דִּבְעַל, מַאי טַעְמָא דִּשְׁמוּאֵל? קָסָבַר: כׇּל הַבּוֹעֵל — עַל דַּעַת קִדּוּשִׁין הָרִאשׁוֹנִים הוּא בּוֹעֵל.
->
-> **Translation:** **What, is it not** a case **where he did not have intercourse** with her after she reached majority? If so, Rav thinks that even when he did not have intercourse with her, her marriage is fully realized once she reaches majority. The Gemara rejects this: **No,** this is referring to a case **where he did have intercourse with her.** The Gemara asks: **If** it is referring to a case **where he had intercourse with her, what is Shmuel's reasoning?** If the first one engaged in intercourse with her after she reached majority, then the marriage was fully realized. Under such circumstances, the second betrothal would not take effect. The Gemara answers: Shmuel **holds that** when **anyone has sexual intercourse** with a woman he married as a minor, his **intention is that the intercourse** is within the framework established by **the initial betrothal** and is not a new act of acquisition.
+
+### Rav's Position
 
 *Rav* holds that a new act of *bi'ah* is required. When a *ketanah* grows up, the original *kiddushin* does not automatically become operative *de'oraita*; only if they subsequently have intercourse as adults does the marriage become fully binding at a Torah level. *Rav Sheshet* disagrees: the *kiddushin* activates automatically, without any new act.
 
@@ -106,23 +80,34 @@ The *Gemara* resolves the apparent contradiction: the case where *Rav* says she 
 
 ### Shmuel's Position
 
-> **Hebrew/Aramaic:** וְהָא פְּלִיגִי בַּהּ חֲדָא זִימְנָא, דְּאִיתְּמַר: קִדְּשָׁהּ עַל תְּנַאי, וּכְנָסָהּ סְתָם — רַב אָמַר: צְרִיכָה הֵימֶנּוּ גֵּט, וּשְׁמוּאֵל אָמַר: אֵינָהּ צְרִיכָה הֵימֶנּוּ גֵּט.
->
-> **Translation:** The Gemara asks: **But** if this is the basis of the dispute, **they already disagreed about this once, as it was stated** with regard to the following case: A man **betrothed** a woman **on** some **condition, and married her without mentioning** the condition, and the condition was not fulfilled. **Rav says: She requires a bill of divorce from him, and Shmuel says: She does not require a bill of divorce from him.**
-
-> **Hebrew/Aramaic:** רַב אָמַר צְרִיכָה הֵימֶנּוּ גֵּט — כֵּיוָן דְּנַסְבַהּ אַחוֹלֵי אַחֲלֵיהּ לִתְנָאֵיהּ. וּשְׁמוּאֵל אָמַר: אֵינָהּ צְרִיכָה הֵימֶנּוּ גֵּט, כׇּל הַבּוֹעֵל, עַל דַּעַת קִדּוּשִׁין הָרִאשׁוֹנִים הוּא בּוֹעֵל!
->
-> **Translation:** The Gemara explains: **Rav says she requires a bill of divorce from him,** for **since he married her, he** apparently **retracted his condition,** and is therefore married to her even though the condition was not met. **And Shmuel says: She does not require a bill of divorce from him,** because **anyone who has sexual intercourse** with his wife, his **intention is that the intercourse** is within the framework established by **the initial betrothal** and the condition he set at the time of betrothal still stands. Since it was not fulfilled, the marriage is annulled. If so, Rav and Shmuel already disagreed about this same issue.
-
 But the *Gemara* then presses: if she had *bi'ah* with the first husband as an adult, why does *Shmuel* say she still needs a *get* from the second man? How could the second *kiddushin* possibly be effective? *Shmuel*'s answer is the crucial formulation: *kol ha-bo'el al da'at kiddushin ha-rishonim hu bo'el* — anyone who has intercourse does so within the framework of the original *kiddushin*. According to *Shmuel*, even when the adult woman has intercourse with her husband, that act is not a new, independent *kiddushin*; it is a continuation of the original *kiddushei ketanah*. Since the original *kiddushin* was only *derabbanan*, the subsequent intercourse — framed entirely by that context — never creates a new *de'oraita kiddushin*. Therefore, there is no *de'oraita* marriage, and when the second man gives *kiddushin*, it could potentially take effect.
 
 ### Three-Way Debate
 
-> **Hebrew/Aramaic:** צְרִיכָא, דְּאִי אִיתְּמַר הָהִיא, בְּהָהִיא קָאָמַר רַב, מִשּׁוּם דְּאִיכָּא תְּנָאָה, וְכֵיוָן דִּבְעַל, אַחֲלֵיהּ לִתְנָאֵיהּ. אֲבָל בְּהָא, אֵימָא מוֹדֶה לֵיהּ, לִשְׁמוּאֵל. וְאִי אִיתְּמַר בְּהָא: בְּהָךְ קָאָמַר שְׁמוּאֵל, אֲבָל בְּהָךְ, אֵימָא מוֹדֶה לֵיהּ לְרַב, צְרִיכָא.
->
-> **Translation:** The Gemara answers: It is **necessary** to state the dispute in both contexts, **for if only that** *halakha* about conditional betrothal **was stated,** one might think: **In this case Rav says** she needs a divorce **since there is a condition** with regard to the betrothal, **but when he had intercourse** with her, **he retracted the condition. But in this** case of betrothal to a minor, **say that** Rav **would concede to Shmuel** that the intercourse was not performed with the intention of it constituting a full betrothal. **And if only this** case of betrothal to a minor **was stated,** one might think: **Shmuel said that** the marriage is effective **in this** case of betrothal to a minor, **but in that** case of a conditional betrothal, **say** that **he would concede to Rav.** Therefore, it was **necessary** to state the dispute explicitly in both instances.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: הַיְינוּ טַעְמָא דְּרַבָּן גַּמְלִיאֵל, מִשּׁוּם דְּקָסָבַר: הַמְקַדֵּשׁ אֲחוֹת יְבָמָה — נִפְטְרָה יְבָמָה וְהָלְכָה לָהּ, אִי בְּעַל — אִין, אִי לָא בְּעַל — לָא.
+> **Translation:** **Rav said to him: This is Rabban Gamliel’s reasoning: Because he holds that** in the case of **one who betroths the sister of his *yevama*, the *yevama* is exempt and is released,** then **if he engaged in sexual intercourse** with the sister after she reached majority then **yes,** the *yevama* is exempt from levirate marriage, but **if he did not engage in intercourse** with the sister after she reached majority, the *yevama* is **not** exempt.
+
+> **Hebrew/Aramaic:** אָמַר רַב שֵׁשֶׁת: אָמֵינָא, כִּי נָיֵים וְשָׁכֵיב רַב, אֲמַר לְהָא שְׁמַעְתָּא. דְּתַנְיָא: הַמְקַדֵּשׁ אֶת הַקְּטַנָּה — קִידּוּשֶׁיהָ תְּלוּיִין. מַאי ״תְּלוּיִין״? לָאו כִּי גָּדְלָה גָּדְלִי בַּהֲדַהּ, וְאַף עַל גַּב דְּלָא בָּעַל?
+> **Translation:** **Rav Sheshet said: I say that Rav said this *halakha* when he was dozing and lying down,** as it is difficult. **As it is taught** in a *baraita*: In the case of **one who betroths a minor girl, her betrothal is in suspension. What** does it mean that it is **in suspension? Is it not that when she reaches majority, the betrothal reaches majority with her** and is fully realized **even if he did not have intercourse with her** after she reached majority?
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבִין בְּרֵיהּ דְּרַב נַחְמָן: הָא מִילְּתָא דִקְטַנָּה, מִיתְלָא תַּלְיָא וְקָיְימָא, אִי בְּעַל — אִין, אִי לָא בְּעַל — לָא. דְּאָמְרָה: הוּא עָדִיף מִינַּאי, וַאֲנָא עֲדִיפְנָא מִינֵּיהּ.
+> **Translation:** **Ravin, son of Rav Naḥman, said to** Rav Sheshet: **This matter,** that the betrothal **of a minor girl remains in suspension,** should be understood differently. It means that her betrothal is provisional as long as she is still a minor: **If he has sexual intercourse** with her after she reaches majority, **yes,** her betrothal is realized; **if he does not engage in intercourse** with her after she reaches majority, her betrothal is **not** realized. **For she says** to herself: **He has an advantage over me** in that he can divorce me, **and I have an advantage over him,** as I can refuse him. Since the marriage of a minor depends upon her ongoing consent, as she can refuse him at any time, it remains provisional until it is consummated when she is an adult.
+
+> **Hebrew/Aramaic:** וְסָבַר רַב: אִי בְּעַל — אִין, אִי לָא בְּעַל — לָא? וְהָא אִיתְּמַר: קְטַנָּה שֶׁלֹּא מֵיאֲנָה, וְהִגְדִּילָה, וְעָמְדָה וְנִשֵּׂאת, רַב אָמַר: אֵינָהּ צְרִיכָה גֵּט מִשֵּׁנִי, וּשְׁמוּאֵל אָמַר: צְרִיכָה גֵּט מִשֵּׁנִי.
+> **Translation:** The Gemara asks: **But does Rav** truly **think that** only **if he has intercourse with her** after she becomes an adult, then **yes, her** betrothal is realized, **but if he did not engage in intercourse with her,** then **no,** it is not realized? **Wasn’t it stated** that with regard to **a minor who had not refused** her husband **and reached majority, and** then **went and married** another, **Rav said: She does not require a bill of divorce from the second** man, as she is fully married to the first and consequently her second marriage is invalid? **And Shmuel said: She does require a bill of divorce from the second** man, as it is uncertain whether her second marriage is valid.
+
+> **Hebrew/Aramaic:** מַאי לָאו, דְּלָא בְּעַל? לָא, דִּבְעַל. אִי דִּבְעַל, מַאי טַעְמָא דִּשְׁמוּאֵל? קָסָבַר: כׇּל הַבּוֹעֵל — עַל דַּעַת קִדּוּשִׁין הָרִאשׁוֹנִים הוּא בּוֹעֵל.
+> **Translation:** **What, is it not** a case **where he did not have intercourse** with her after she reached majority? If so, Rav thinks that even when he did not have intercourse with her, her marriage is fully realized once she reaches majority. The Gemara rejects this: **No,** this is referring to a case **where he did have intercourse with her.** The Gemara asks: **If** it is referring to a case **where he had intercourse with her, what is Shmuel’s reasoning?** If the first one engaged in intercourse with her after she reached majority, then the marriage was fully realized. Under such circumstances, the second betrothal would not take effect. The Gemara answers: Shmuel **holds that** when **anyone has sexual intercourse** with a woman he married as a minor, his **intention is that the intercourse** is within the framework established by **the initial betrothal** and is not a new act of acquisition.
+
+> **Hebrew/Aramaic:** וְהָא פְּלִיגִי בַּהּ חֲדָא זִימְנָא, דְּאִיתְּמַר: קִדְּשָׁהּ עַל תְּנַאי, וּכְנָסָהּ סְתָם — רַב אָמַר: צְרִיכָה הֵימֶנּוּ גֵּט, וּשְׁמוּאֵל אָמַר: אֵינָהּ צְרִיכָה הֵימֶנּוּ גֵּט.
+> **Translation:** The Gemara asks: **But** if this is the basis of the dispute, **they already disagreed about this once, as it was stated** with regard to the following case: A man **betrothed** a woman **on** some **condition, and married her without mentioning** the condition, and the condition was not fulfilled. **Rav says: She requires a bill of divorce from him, and Shmuel says: She does not require a bill of divorce from him.**
+
+> **Hebrew/Aramaic:** רַב אָמַר צְרִיכָה הֵימֶנּוּ גֵּט — כֵּיוָן דְּנַסְבַהּ אַחוֹלֵי אַחֲלֵיהּ לִתְנָאֵיהּ. וּשְׁמוּאֵל אָמַר: אֵינָהּ צְרִיכָה הֵימֶנּוּ גֵּט, כׇּל הַבּוֹעֵל, עַל דַּעַת קִדּוּשִׁין הָרִאשׁוֹנִים הוּא בּוֹעֵל!
+> **Translation:** The Gemara explains: **Rav says she requires a bill of divorce from him,** for **since he married her, he** apparently **retracted his condition,** and is therefore married to her even though the condition was not met. **And Shmuel says: She does not require a bill of divorce from him,** because **anyone who has sexual intercourse** with his wife, his **intention is that the intercourse** is within the framework established by **the initial betrothal** and the condition he set at the time of betrothal still stands. Since it was not fulfilled, the marriage is annulled. If so, Rav and Shmuel already disagreed about this same issue.
 
 The three-way structure of the debate is now clear. *Rav Sheshet* holds that upon reaching adulthood, the *kiddushei ketanah* automatically activates *de'oraita* — no intercourse required. *Rav* holds that intercourse after adulthood creates a new act of *kiddushin de'oraita*, independent of and superseding the original rabbinic framework. *Shmuel* holds that even post-adolescent intercourse does not create a new *kiddushin*, because all intercourse is understood within the context of the original *kiddushin* — and since that original *kiddushin* was *derabbanan*, the couple never achieves a *de'oraita* marital status unless they explicitly reframe the relationship.
+
+A striking corollary follows from *Shmuel*'s position: according to at least two of the three opinions — *Rav Sheshet* aside — the *ketanah* does not automatically become married *de'oraita* upon reaching adulthood. And even once she has reached adulthood and the couple continues to have intercourse, the relationship under *Shmuel*'s view remains within the rabbinic framework of *kiddushei katanah* rather than constituting a new *de'oraita kiddushin*. To cross that threshold under *Shmuel*, the parties would need to explicitly reframe what they are doing — to acknowledge in some meaningful way that they are now creating a new marital bond, not merely continuing the old one. Short of that, the adult woman is still operating within the original rabbinic *kiddushin*, which raises the further question of whether *miun* would remain available to her even as a *gedolah* — though whether *Chazal* instituted *miun* for a woman who has already reached adulthood is itself an open question.
 
 This three-way debate is not merely of theoretical interest. It bears directly on the practical reasoning of major twentieth-century *poskim*.
 
@@ -138,11 +123,9 @@ This three-way debate is not merely of theoretical interest. It bears directly o
 
 ## Tnai Case & Limits
 
-### Kiddushin B'Tnai
 
-> **Hebrew/Aramaic:** וּמִי אָמַר רַב כִּי בְּעַל — אִין, אִי לָא בְּעַל — לָא? הָא הָהִיא עוֹבָדָא דַּהֲוָה בְּנַרֶשׁ, וְאִיקַּדִּישָׁה כְּשֶׁהִיא קְטַנָּה, וְגָדְלָה, וְאוֹתְבַיהּ אַבֵּי כוּרְסְיָיא, וַאֲתָא אַחֲרִינָא וְחַטְפַהּ מִינֵּיהּ. וְרַב בְּרוֹנָא וְרַב חֲנַנְאֵל תַּלְמִידֵי דְרַב הֲווֹ הָתָם, וְלָא אַצְרְיכוּהָ גִּיטָּא מִבָּתְרָא!
->
-> **Translation:** The Gemara asks: **And did Rav** actually **say** that **when he engaged in sexual intercourse with her, yes,** the original marriage is valid, **and if he did not have intercourse with her, no,** it is not valid? **Wasn't there an incident in** the city of **Neresh where** a woman **was betrothed when she was a minor, and she reached majority, and** the husband **seated her in a bridal chair** under the marriage canopy and had not yet had intercourse with her, **and another** man **came and seized her from him** and married her? **And Rav Bruna and Rav Ḥananel, the students of Rav, were there and they did not require her** to receive **a bill of divorce from the latter** husband. Presumably, they regarded her as fully married to the first husband, so the marriage to the second marriage never took effect, despite the fact that the first marriage had not yet been consummated.
+
+### Kiddushin B'Tnai
 
 The *Gemara* notes that *Rav* and *Shmuel* have already debated this same underlying question in a different context: *kidesh al tnai ve-chanas stam* — a man performed *kiddushin* with an explicit condition (*tnai*), and then the couple began living together without reiterating the condition. They continued to live as husband and wife and to have intercourse, but the *tnai* was never formally addressed again.
 
@@ -152,17 +135,17 @@ The *Gemara* notes that *Rav* and *Shmuel* have already debated this same underl
 
 ### Shmuel on Tnai
 
-> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: בְּנַרֶשׁ מִינְסַב נָסְיבִי, וַהֲדַר מוֹתְבִי אַבֵּי כוּרְסְיָיא. רַב אָשֵׁי אָמַר: הוּא עָשָׂה שֶׁלֹּא כַּהוֹגֶן, לְפִיכָךְ עָשׂוּ בּוֹ שֶׁלֹּא כַּהוֹגֶן, וְאַפְקְעִינְהוּ רַבָּנַן לְקִידּוּשֵׁי מִינֵּיהּ.
->
-> **Translation:** **Rav Pappa said:** There is a difference, because **in Neresh their** practice is to first **marry** a woman and have intercourse with her, **and afterward they seat her in the bridal chair.** In this incident, the husband had already had intercourse with her once she was an adult, and that is why Rav's students did not require a bill of divorce from the second man. **Rav Ashi says:** There was a different reason, even if the practice was not as Rav Pappa describes. **This** bride snatcher **acted improperly. Consequently, they treated him improperly** by annulling the legal validity of his actions, **and the Sages abrogated his betrothal.**
-
 *Shmuel* rules that no *get* is needed. All subsequent intercourse is understood as occurring within the framework of the original *kiddushin* — including its *tnai*. *Kol ha-bo'el al da'at kiddushin ha-rishonim hu bo'el*. Since the *tnai* was never fulfilled or waived explicitly, it remains operative, and the marriage was never fully effectuated.
 
 ### Gemara's Reasoning
 
 The *Gemara* then asks: if so, why does the debate need to be stated in both cases — the *ketanah* case and the *tnai* case? Perhaps one could derive the other. The *Gemara* explains that the two cases are not fully parallel. In the *tnai* case, the *tnai* is explicit and the husband is directly confronted with it; when he subsequently has intercourse, one can reasonably infer that he is consciously setting the *tnai* aside. Therefore, *Rav*'s position — that the *bi'ah* overrides the earlier context — is most naturally at home in the *tnai* case.
 
+> **Hebrew/Aramaic:** צְרִיכָא, דְּאִי אִיתְּמַר הָהִיא, בְּהָהִיא קָאָמַר רַב, מִשּׁוּם דְּאִיכָּא תְּנָאָה, וְכֵיוָן דִּבְעַל, אַחֲלֵיהּ לִתְנָאֵיהּ. אֲבָל בְּהָא, אֵימָא מוֹדֶה לֵיהּ, לִשְׁמוּאֵל. וְאִי אִיתְּמַר בְּהָא: בְּהָךְ קָאָמַר שְׁמוּאֵל, אֲבָל בְּהָךְ, אֵימָא מוֹדֶה לֵיהּ לְרַב, צְרִיכָא.
+> **Translation:** The Gemara answers: It is **necessary** to state the dispute in both contexts, **for if only that** *halakha* about conditional betrothal **was stated,** one might think: **In this case Rav says** she needs a divorce **since there is a condition** with regard to the betrothal, **but when he had intercourse** with her, **he retracted the condition. But in this** case of betrothal to a minor, **say that** Rav **would concede to Shmuel** that the intercourse was not performed with the intention of it constituting a full betrothal. **And if only this** case of betrothal to a minor **was stated,** one might think: **Shmuel said that** the marriage is effective **in this** case of betrothal to a minor, **but in that** case of a conditional betrothal, **say** that **he would concede to Rav.** Therefore, it was **necessary** to state the dispute explicitly in both instances.
+
 ### Possible Agreement
+
 
 By contrast, in the *ketanah* case, there is no explicit problem confronting the husband. He married a young girl, they grew up together, and nothing in his lived experience signals that a new act of *kiddushin* is needed. He simply does not perceive a problem. Therefore, *Rav* might in fact agree with *Shmuel* in the *ketanah* case — holding that since the husband has no awareness that a new *de'oraita* framework is called for, the *bi'ah* does not generate one. Conversely, in the *tnai* case, *Shmuel* might agree with *Rav* — since the problem is so explicit that the husband's continued *bi'ah* could be construed as a conscious act of waiver. Both cases need to be stated to prevent either such inference.
 
@@ -170,13 +153,14 @@ By contrast, in the *ketanah* case, there is no explicit problem confronting the
 
 ## Challenge & Bei Korsaia
 
+
+
 ### Objection to Rav
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי: תִּינַח דְּקַדֵּישׁ בְּכַסְפָּא, קַדֵּישׁ בְּבִיאָה מַאי? שַׁוְּיוּהָ רַבָּנַן לִבְעִילָתוֹ בְּעִילַת זְנוּת. אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הֲלָכָה כְּרַבִּי אֱלִיעֶזֶר. וְכֵן אָמַר רַבִּי אֶלְעָזָר: הֲלָכָה כְּרַבִּי אֱלִיעֶזֶר.
->
-> **Translation:** **Ravina said to Rav Ashi:** This **works out well if** the second man **betrothed her with money,** as then the Sages could declare that money to be ownerless property and void the betrothal. **If he betrothed her by means of intercourse, what** is the *halakha*? How can the Sages dissolve the betrothal when the sexual act took place? The Gemara answers: **The Sages rendered his sexual act a licentious sexual act,** which does not create a bond of betrothal. With regard to the dispute in the mishna, **Rav Yehuda said** that **Shmuel said: The *halakha* is in accordance with** the opinion of **Rabbi Eliezer,** and the minor is instructed to make a declaration of refusal. **Likewise, Rabbi Elazar said: The *halakha* is in accordance with** the opinion of **Rabbi Eliezer.**
-
 The *Gemara* raises a further challenge to *Rav*'s stated position: does *Rav* really hold that the *ketanah*'s *kiddushin* only becomes *de'oraita* upon subsequent *bi'ah*? A story from *Narash* appears to cut the other way.
+
+> **Hebrew/Aramaic:** וּמִי אָמַר רַב כִּי בְּעַל — אִין, אִי לָא בְּעַל — לָא? הָא הָהִיא עוֹבָדָא דַּהֲוָה בְּנַרֶשׁ, וְאִיקַּדִּישָׁה כְּשֶׁהִיא קְטַנָּה, וְגָדְלָה, וְאוֹתְבַיהּ אַבֵּי כוּרְסְיָיא, וַאֲתָא אַחֲרִינָא וְחַטְפַהּ מִינֵּיהּ. וְרַב בְּרוֹנָא וְרַב חֲנַנְאֵל תַּלְמִידֵי דְרַב הֲווֹ הָתָם, וְלָא אַצְרְיכוּהָ גִּיטָּא מִבָּתְרָא!
+> **Translation:** The Gemara asks: **And did Rav** actually **say** that **when he engaged in sexual intercourse with her, yes,** the original marriage is valid, **and if he did not have intercourse with her, no,** it is not valid? **Wasn’t there an incident in** the city of **Neresh where** a woman **was betrothed when she was a minor, and she reached majority, and** the husband **seated her in a bridal chair** under the marriage canopy and had not yet had intercourse with her, **and another** man **came and seized her from him** and married her? **And Rav Bruna and Rav Ḥananel, the students of Rav, were there and they did not require her** to receive **a bill of divorce from the latter** husband. Presumably, they regarded her as fully married to the first husband, so the marriage to the second marriage never took effect, despite the fact that the first marriage had not yet been consummated.
 
 ### Abduction Story
 
@@ -194,15 +178,19 @@ The apparent implication is that she was already fully *mekudeshet* to the first
 
 *Rav Papa* resolves the difficulty by noting a local custom: in *Narash*, the couple has *bi'ah* before the ceremonial chariot ride, not after. The *chuppah* and consummation preceded the *bei korsaia* procession. Therefore the ruling of *Rav Huna* and *Rav Chananel* was issued in a case where *bi'ah* with the first husband had already occurred — fully consistent with *Rav*'s position.
 
+> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: בְּנַרֶשׁ מִינְסַב נָסְיבִי, וַהֲדַר מוֹתְבִי אַבֵּי כוּרְסְיָיא. רַב אָשֵׁי אָמַר: הוּא עָשָׂה שֶׁלֹּא כַּהוֹגֶן, לְפִיכָךְ עָשׂוּ בּוֹ שֶׁלֹּא כַּהוֹגֶן, וְאַפְקְעִינְהוּ רַבָּנַן לְקִידּוּשֵׁי מִינֵּיהּ.
+> **Translation:** **Rav Pappa said:** There is a difference, because **in Neresh their** practice is to first **marry** a woman and have intercourse with her, **and afterward they seat her in the bridal chair.** In this incident, the husband had already had intercourse with her once she was an adult, and that is why Rav’s students did not require a bill of divorce from the second man. **Rav Ashi says:** There was a different reason, even if the practice was not as Rav Pappa describes. **This** bride snatcher **acted improperly. Consequently, they treated him improperly** by annulling the legal validity of his actions, **and the Sages abrogated his betrothal.**
+
 ### Rav Ashi's Approach
+
+
 
 *Rav Ashi* takes a different approach entirely, accepting the case more straightforwardly: the second *kiddushin* was indeed performed before any *bi'ah* with the first husband, and *de'oraita* she was not yet fully married to him. Nevertheless, the second man's *kiddushin* did not take effect — not because the first marriage had activated, but because *hu asa shelo ke-hogen*: he acted in a grossly improper manner by intercepting and abducting the bride on her way to the *chuppah*.
 
 ### Hafka'as Kiddushin
 
-> **Hebrew/Aramaic:** שַׁוְּיוּהָ רַבָּנַן לִבְעִילָתוֹ בְּעִילַת זְנוּת.
->
-> **Translation:** The Sages **rendered his sexual act a licentious sexual act,** which does not create a bond of betrothal.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי: תִּינַח דְּקַדֵּישׁ בְּכַסְפָּא, קַדֵּישׁ בְּבִיאָה מַאי? שַׁוְּיוּהָ רַבָּנַן לִבְעִילָתוֹ בְּעִילַת זְנוּת. אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הֲלָכָה כְּרַבִּי אֱלִיעֶזֶר. וְכֵן אָמַר רַבִּי אֶלְעָזָר: הֲלָכָה כְּרַבִּי אֱלִיעֶזֶר.
+> **Translation:** **Ravina said to Rav Ashi:** This **works out well if** the second man **betrothed her with money,** as then the Sages could declare that money to be ownerless property and void the betrothal. **If he betrothed her by means of intercourse, what** is the *halakha*? How can the Sages dissolve the betrothal when the sexual act took place? The Gemara answers: **The Sages rendered his sexual act a licentious sexual act,** which does not create a bond of betrothal. With regard to the dispute in the mishna, **Rav Yehuda said** that **Shmuel said: The *halakha* is in accordance with** the opinion of **Rabbi Eliezer,** and the minor is instructed to make a declaration of refusal. **Likewise, Rabbi Elazar said: The *halakha* is in accordance with** the opinion of **Rabbi Eliezer.**
 
 Since he acted in violation of basic ethical norms, the Rabbis responded in kind — *anan nami na'avid leh shelo ke-hogen*: we too will deal with him outside the normal rules. They voided (*afkinhu*) his *kiddushin*. The *Gemara* raises the question: what if the second man performed *kiddushei bi'ah* rather than *kiddushei kesef*? If he gave money, one might argue the Rabbis declared it *hefker* and the *kiddushin* collapsed. But if he had intercourse — what can the Rabbis do? The answer: *shavyuh rabbanan le-vi'alaso beilas zenus* — the Rabbis declared his act of intercourse to be *beilas zenus*, devoid of *kiddushin* significance. They refused to recognize it as a marital act at all.
 
@@ -210,27 +198,25 @@ Since he acted in violation of basic ethical norms, the Rabbis responded in kind
 
 ## Hafka'as Kiddushin
 
+
+
 ### Case-Specific Nature
 
-This episode of *hafka'as kiddushin* is striking precisely because it is entirely case-specific. The more familiar instances of *hafka'as kiddushin* operate within pre-defined rabbinic rules: the Rabbis set up a system in advance, and if a person violates the parameters of that system, the *kiddushin* is automatically void — for example, if a husband attempts to annul a *get* in the absence of the agent (*shelo bifnei ha-shali'ah*), the Rabbis simply refused to recognize the transmission as valid. All of this flows from the principle *kol d'mekadesh ada'ata d'rabbanan mekadesh*: every act of *kiddushin* is implicitly performed within and subject to the rabbinic framework, and the Rabbis therefore retain the authority to void it when their rules are violated.
+The *sugya* concludes with a ruling: *Rav Yosef* states that the *halacha* follows *Rabbi Elazar* — that in the case of the sisters, we instruct the *ketanah* to perform *mi'un*.
 
-The *bei korsaia* case is different. Here, the man is not working within the rabbinic system at all — he is brazenly circumventing it. Invoking *ada'ata d'rabbanan* to void his *kiddushin* would be difficult, since he clearly had no intention of operating within rabbinic norms.
+## Ruling & Implications
 
----
 
-## Ruling & Implication (II)
 
 ### Reiteration
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הֲלָכָה כְּרַבִּי אֱלִיעֶזֶר. וְכֵן אָמַר רַבִּי אֶלְעָזָר: הֲלָכָה כְּרַבִּי אֱלִיעֶזֶר.
->
-> **Translation:** With regard to the dispute in the mishna, **Rav Yehuda said** that **Shmuel said: The *halakha* is in accordance with** the opinion of **Rabbi Eliezer,** and the minor is instructed to make a declaration of refusal. **Likewise, Rabbi Elazar said: The *halakha* is in accordance with** the opinion of **Rabbi Eliezer.**
+The *Amora* states *halacha k'Rabbi Elazar*: the practical ruling is that one teaches the *ketanah* to perform *mi'un*.
 
-The practical ruling that emerges from the entire preceding discussion: *Rav Yosef* declares that the *halacha* follows *Rabbi Eliezer* — one teaches the *ketanah* to perform *mi'un*. The Amora *Rabbi Elazar* similarly states: *halacha k'Rabbi Eliezer*, affirming that in the scenario involving sisters, the correct practical course is to have the minor perform *mi'un* rather than wait for her to mature.
-
----
+It is worth pausing here to note something genuinely strange about the *hafka'as kiddushin* that underlies this entire discussion. The strangeness operates on two levels. First, as already observed, this *hafka'as kiddushin* is case-specific — the Rabbis did not lay down a general rule that certain categories of conduct trigger the voiding of *kiddushin*; rather, they looked at this particular situation and responded to it directly. That alone is unusual. Second, and perhaps more striking, is the following: when *Rishonim* elsewhere invoke *hafka'as kiddushin*, the standard justification is the principle *kol d'mekadesh ada'ata d'rabbanan mekadesh* — the notion that any man who betroths a woman does so with the consent and within the framework of rabbinic authority, so that the Rabbis retain the power to undo what they effectively enabled. But that logic depends on the man operating, at least implicitly, within the rabbinic system. Here, the man is doing something despicable, acting in flagrant disregard of rabbinic norms — he is self-evidently *not* acting *ada'ata d'rabbanan*. As a result, the standard formula cannot simply be applied, and the *gemara* does not apply it. This raises a pointed question: on what basis, then, does *hafka'as kiddushin* function in this case — a question *Tosafot* takes up directly.
 
 ## Hafka'as Kiddushin (II)
+
+
 
 ### Tosafot's Doubt
 
@@ -260,6 +246,8 @@ The *sugyot* thus align clearly: the *bei korsaia* case is the only instance in 
 
 ## Ruling & Implication (II)
 
+
+
 ### Rav Yosef's Ruling
 
 *Rav Yosef* rules that the *halacha* follows *Rabbi Eliezer*: in the case of the sisters, one teaches the *ketanah* to perform *mi'un*, and that is the operative practical ruling.
@@ -272,15 +260,15 @@ The *Gemara* transitions to the next Mishnah, which opens a new set of scenarios
 
 ## Two Wives Rules
 
+
+
 ### Two Katanot
 
-> **Hebrew/Aramaic:** מַתְנִי׳ מִי שֶׁהָיָה נָשׂוּי לִשְׁתֵּי יְתוֹמוֹת קְטַנּוֹת, וּמֵת — בִּיאָתָהּ אוֹ חֲלִיצָתָהּ שֶׁל אַחַת מֵהֶם פּוֹטֶרֶת צָרָתָהּ. וְכֵן שְׁתֵּי חֵרְשׁוֹת. קְטַנָּה וְחֵרֶשֶׁת — אֵין בִּיאַת אַחַת מֵהֶן פּוֹטֶרֶת צָרָתָהּ.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ מִי שֶׁהָיָה נָשׂוּי לִשְׁתֵּי יְתוֹמוֹת קְטַנּוֹת, וּמֵת — בִּיאָתָהּ אוֹ חֲלִיצָתָהּ שֶׁל אַחַת מֵהֶם פּוֹטֶרֶת צָרָתָהּ. וְכֵן שְׁתֵּי חֵרְשׁוֹת. קְטַנָּה וְחֵרֶשֶׁת — אֵין בִּיאַת אַחַת מֵהֶן פּוֹטֶרֶת צָרָתָהּ.
 > **Translation:** MISHNA: If **a man was married to two orphaned minors and died, consummation** of levirate marriage **or *ḥalitza* with one of them exempts her rival wife** from either levirate marriage or *ḥalitza*, rendering her free to remarry. **Likewise,** if **two deaf-mutes** were married to one man who died, consummation of levirate marriage or *ḥalitza* with one of them exempts her rival wife. In both of these cases, both women are married by rabbinic law and consequently become *yevamot* by rabbinic law. Since their statuses are equal, one can exempt the other. If one wife is a **minor and** the other is **a deaf-mute, consummation** of levirate marriage or *ḥalitza* **with one of them does not exempt her rival wife.** Although both women are married by rabbinic law, their statuses are not the same and one cannot exempt the other.
 
-> **Hebrew/Aramaic:** פִּקַּחַת וְחֵרֶשֶׁת — בִּיאַת הַפִּקַּחַת פּוֹטֶרֶת הַחֵרֶשֶׁת, וְאֵין בִּיאַת הַחֵרֶשֶׁת פּוֹטֶרֶת אֶת הַפִּקַּחַת. גְּדוֹלָה וּקְטַנָּה — בִּיאַת הַגְּדוֹלָה פּוֹטֶרֶת הַקְּטַנָּה, וְאֵין בִּיאַת הַקְּטַנָּה פּוֹטֶרֶת הַגְּדוֹלָה.
->
-> **Translation:** If one of them **was** halakhically **competent and** one was **a deaf-mute, consummation** of levirate marriage **with the** halakhically **competent** wife **exempts the deaf-mute,** as the halakhically competent women's marriage and levirate marriage are by Torah law. **But consummation** of levirate marriage **with the deaf-mute does not exempt the** halakhically **competent** wife. Likewise, if one was **an adult woman and one a minor girl, consummation** of levirate marriage **with the adult exempts the minor but consummation** of levirate marriage **with the minor does not exempt the adult.**
+> **Hebrew/Aramaic:** פִּקַּחַת וְחֵרֶשֶׁת — בִּיאַת הַפִּקַּחַת פּוֹטֶרֶת הַחֵרֶשֶׁת, וְאֵין בִּיאַת הַחֵרֶשֶׁת פּוֹטֶרֶת אֶת הַפִּקַּחַת. גְּדוֹלָה וּקְטַנָּה — בִּיאַת הַגְּדוֹלָה פּוֹטֶרֶת הַקְּטַנָּה, וְאֵין בִּיאַת הַקְּטַנָּה פּוֹטֶרֶת הַגְּדוֹלָה.
+> **Translation:** If one of them **was** halakhically **competent and** one was **a deaf-mute, consummation** of levirate marriage **with the** halakhically **competent** wife **exempts the deaf-mute,** as the halakhically competent women’s marriage and levirate marriage are by Torah law. **But consummation** of levirate marriage **with the deaf-mute does not exempt the** halakhically **competent** wife. Likewise, if one was **an adult woman and one a minor girl, consummation** of levirate marriage **with the adult exempts the minor but consummation** of levirate marriage **with the minor does not exempt the adult.**
 
 The Mishnah presents the case: a man was married to two minor orphans — *shnei yetomot ketanot*, understood by *Rashi* here as non-sisters — and died. The *Gemara* affirms that *bi'ah* or *chalitzah* of the surviving brother with one of the *yevamot* releases the other. Since both women entered their marriages as *ketanot*, both occupy the same *derabbanan* status vis-à-vis the deceased husband, and the rules of *yibum* operate symmetrically between them. Acting on one fully exempts the other.
 
@@ -306,19 +294,20 @@ The same asymmetry applies to the case of a *gedolah* and a *ketanah*: the adult
 
 ### Chalitzah Problem
 
-> **Hebrew/Aramaic:** גְּמָ׳ וְחֵרֶשֶׁת בַּת חֲלִיצָה הִיא? וְהָתְנַן: חֵרֵשׁ שֶׁנֶּחְלַץ, וְחֵרֶשֶׁת שֶׁחָלְצָה, וְחוֹלֶצֶת מִן הַקָּטָן — חֲלִיצָתָהּ פְּסוּלָה!
->
-> **Translation:** GEMARA: The mishna states that *ḥalitza* by one deaf-mute exempts the other. The Gemara asks: **Can a deaf-mute perform *ḥalitza*? Didn't we learn** in a mishna (104b): If **a male deaf-mute performs *ḥalitza*, and** if **a female deaf-mute performs *ḥalitza*, and** if a woman **performs *ḥalitza* on a minor boy, her *ḥalitza* is disqualified?**
-
 The Mishnah's reference to *chalitzah* as an option in the case of two *chereshot* immediately prompts a difficulty: how can a *chereshet* perform *chalitzah*?
 
 ---
 
 ## Choreshet & Chalitzah
 
+
+
 ### Question on Chalitzah
 
 The *Gemara* asks directly: *chereshet bat chalitzah hi*? Is a *chereshet* even eligible to perform *chalitzah*?
+
+> **Hebrew/Aramaic:** גְּמָ׳ וְחֵרֶשֶׁת בַּת חֲלִיצָה הִיא? וְהָתְנַן: חֵרֵשׁ שֶׁנֶּחְלַץ, וְחֵרֶשֶׁת שֶׁחָלְצָה, וְחוֹלֶצֶת מִן הַקָּטָן — חֲלִיצָתָהּ פְּסוּלָה!
+> **Translation:** GEMARA: The mishna states that *ḥalitza* by one deaf-mute exempts the other. The Gemara asks: **Can a deaf-mute perform *ḥalitza*? Didn’t we learn** in a mishna (104b): If **a male deaf-mute performs *ḥalitza*, and** if **a female deaf-mute performs *ḥalitza*, and** if a woman **performs *ḥalitza* on a minor boy, her *ḥalitza* is disqualified?**
 
 ### Not Bat Chalitzah
 
@@ -326,23 +315,22 @@ A *chereshet* cannot perform *chalitzah* — the act requires specific capacitie
 
 ### Invalid Chalitzah
 
+
 A *baraita* confirms: *chalitzah* performed by a deaf man (*cheresh*), or by a *chereshet*, or with a *katan* (minor male), is *pesulah* — invalid. This appears to categorically bar *chalitzah* by a *chereshet*.
 
 ### Rav Gidel
-
-> **Hebrew/Aramaic:** אָמַר רַב גִּידֵּל אָמַר רַב: אַבִּיאָה. רָבָא אָמַר: אֲפִילּוּ תֵּימָא אַחֲלִיצָה — כָּאן בְּחֵרֶשֶׁת מֵעִיקָּרָא, כָּאן בְּפִקַּחַת וְאַחַר כָּךְ נִתְחָרְשָׁה.
->
-> **Translation:** **Rav Giddel said** that **Rav said:** The mishna is not referring to a deaf-mute's *ḥalitza*, but rather **to consummation** of levirate marriage with one of the deaf-mutes. **Rava said: You** can **even say it is referring to *ḥalitza*. Here,** the mishna is referring **to** a woman who was **a deaf-mute from the outset,** when he married her, and **there** the mishna that disqualifies the *ḥalitza* is referring **to** someone who was halakhically **competent** when she was married **and afterward became a deaf-mute.**
 
 *Rav Gidel* resolves the difficulty by reinterpreting the Mishnah's language: when the Mishnah speaks of the two *chereshot* case and mentions *bi'ah* or *chalitzah*, it meant only *bi'ah* — the *chalitzah* clause applies only to the two *ketanot* case, where *chalitzah* is at least theoretically discussable. For *chereshot*, only *bi'ah* is on the table.
 
 ### Rava's Position
 
-> **Hebrew/Aramaic:** חֵרֶשֶׁת מֵעִיקָּרָא, כִּי הֵיכִי דְּעָל — הָכִי נָפֵק, פִּקַּחַת וְאַחַר כָּךְ נִתְחָרְשָׁה — לָא, דִּמְעַכְּבָא בַּהּ קְרִיָּיה.
->
-> **Translation:** The difference is that **a deaf-mute from the outset, just as she entered** into marriage with her first husband **so she leaves** the levirate bond by means of *ḥalitza*. Both her marriage and her status as a *yevama* are by rabbinic law. However, **one who was** halakhically **competent,** so that she was married by Torah law, **and later became a deaf-mute, no,** she cannot be released by *ḥalitza*, **since recitation is indispensable for her** *ḥalitza*, and she cannot recite the text that a *yevama* must recite.
-
 *Rava* disagrees. He maintains that *chalitzah* is indeed possible in the *chereshot* case, and the key lies in a distinction about the nature of the original marriage.
+
+> **Hebrew/Aramaic:** אָמַר רַב גִּידֵּל אָמַר רַב: אַבִּיאָה. רָבָא אָמַר: אֲפִילּוּ תֵּימָא אַחֲלִיצָה — כָּאן בְּחֵרֶשֶׁת מֵעִיקָּרָא, כָּאן בְּפִקַּחַת וְאַחַר כָּךְ נִתְחָרְשָׁה.
+> **Translation:** **Rav Giddel said** that **Rav said:** The mishna is not referring to a deaf-mute’s *ḥalitza*, but rather **to consummation** of levirate marriage with one of the deaf-mutes. **Rava said: You** can **even say it is referring to *ḥalitza*. Here,** the mishna is referring **to** a woman who was **a deaf-mute from the outset,** when he married her, and **there** the mishna that disqualifies the *ḥalitza* is referring **to** someone who was halakhically **competent** when she was married **and afterward became a deaf-mute.**
+
+> **Hebrew/Aramaic:** חֵרֶשֶׁת מֵעִיקָּרָא, כִּי הֵיכִי דְּעָל — הָכִי נָפֵק, פִּקַּחַת וְאַחַר כָּךְ נִתְחָרְשָׁה — לָא, דִּמְעַכְּבָא בַּהּ קְרִיָּיה.
+> **Translation:** The difference is that **a deaf-mute from the outset, just as she entered** into marriage with her first husband **so she leaves** the levirate bond by means of *ḥalitza*. Both her marriage and her status as a *yevama* are by rabbinic law. However, **one who was** halakhically **competent,** so that she was married by Torah law, **and later became a deaf-mute, no,** she cannot be released by *ḥalitza*, **since recitation is indispensable for her** *ḥalitza*, and she cannot recite the text that a *yevama* must recite.
 
 ### Distinction
 
@@ -354,25 +342,48 @@ If she was always a *chereshet*, her entire marital relationship exists within t
 
 ### Became Deaf
 
+
 If, however, she married as a hearing woman and her marriage was fully *de'oraita*, the subsequent *chalitzah* must also meet *de'oraita* standards. A *chereshet* cannot provide *de'oraita chalitzah* — she cannot recite the required verses. The rabbinic dispensation for her entry into marriage cannot retroactively downgrade the *de'oraita* exit requirement.
 
 ---
 
 ## Abaye's Challenge
 
-### Abaye Challenges
 
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ אַבָּיֵי: וְחֵרֶשֶׁת מֵעִיקָּרָא בַּת חֲלִיצָה הִיא? וְהָתְנַן: שְׁנֵי אַחִין, אֶחָד פִּקֵּחַ וְאֶחָד חֵרֵשׁ, נְשׂוּאִים לִשְׁתֵּי נׇכְרִיּוֹת, אַחַת פִּקַּחַת וְאַחַת חֵרֶשֶׁת, מֵת חֵרֵשׁ בַּעַל חֵרֶשֶׁת, מָה יַעֲשֶׂה פִּקֵּחַ בַּעַל פִּקַּחַת? כּוֹנֵס. וְאִם רָצָה לְהוֹצִיא — יוֹצִיא.
->
-> **Translation:** **Abaye raised an objection to this: And is one who is a deaf-mute from the outset a candidate for *ḥalitza*? Didn't we learn** in a mishna (*Yevamot* 112b): **Two brothers, one** who is halakhically **competent and one** who is **a deaf-mute,** are **married** to **two unrelated** women, **one** who is halakhically **competent and one deaf-mute.** If **the male deaf-mute,** who is **the husband of the female deaf-mute, dies, what should the** halakhically **competent** man, who is **the husband of the** halakhically **competent woman, do? He may consummate** the levirate marriage, but there is no option of performing *ḥalitza*. **And if he wants to divorce** her later, **he may divorce her.**
+
+[DAF:110b]
+### Abaye Challenges
 
 *Abaye* challenges *Rava*'s distinction. Is it truly the case that a *chereshet me'ikara* — a woman who was always deaf — can perform *chalitzah* on the grounds that her marriage was *derabbanan*?
 
-### Two Brothers Setup
+> **Hebrew/Aramaic:** אֵיתִיבֵיהּ אַבָּיֵי: וְחֵרֶשֶׁת מֵעִיקָּרָא בַּת חֲלִיצָה הִיא? וְהָתְנַן: שְׁנֵי אַחִין, אֶחָד פִּקֵּחַ וְאֶחָד חֵרֵשׁ, נְשׂוּאִין לִשְׁתֵּי נׇכְרִיּוֹת, אַחַת פִּקַּחַת וְאַחַת חֵרֶשֶׁת, מֵת חֵרֵשׁ בַּעַל חֵרֶשֶׁת, מָה יַעֲשֶׂה פִּקֵּחַ בַּעַל פִּקַּחַת? כּוֹנֵס. וְאִם רָצָה לְהוֹצִיא — יוֹצִיא.
+> **Translation:** **Abaye raised an objection to this: And is one who is a deaf-mute from the outset a candidate for *ḥalitza*? Didn’t we learn** in a mishna (*Yevamot* 112b): **Two brothers, one** who is halakhically **competent and one** who is **a deaf-mute,** are **married** to **two unrelated** women, **one** who is halakhically **competent and one deaf-mute.** If **the male deaf-mute,** who is **the husband of the female deaf-mute, dies, what should the** halakhically **competent** man, who is **the husband of the** halakhically **competent woman, do? He may consummate** the levirate marriage, but there is no option of performing *ḥalitza*. **And if he wants to divorce** her later, **he may divorce her.**
 
-> **Hebrew/Aramaic:** מֵת פִּקֵּחַ בַּעַל פִּקַּחַת, מָה יַעֲשֶׂה חֵרֵשׁ בַּעַל חֵרֶשֶׁת? כּוֹנֵס, וְאֵינוֹ מוֹצִיא לְעוֹלָם. מַאי לָאו, בְּחֵרֶשֶׁת מֵעִיקָּרָא, וְקָתָנֵי: כּוֹנֵס אִין,
->
+> **Hebrew/Aramaic:** מֵת פִּקֵּחַ בַּעַל פִּקַּחַת, מָה יַעֲשֶׂה חֵרֵשׁ בַּעַל חֵרֶשֶׁת? כּוֹנֵס, וְאֵינוֹ מוֹצִיא לְעוֹלָם. מַאי לָאו, בְּחֵרֶשֶׁת מֵעִיקָּרָא, וְקָתָנֵי: כּוֹנֵס אִין,
 > **Translation:** **If the** halakhically **competent man, husband of the** halakhically **competent woman, dies, what should the** male **deaf-mute,** who is **the husband of the female deaf-mute, do? He may consummate the** levirate marriage, **but he may never divorce her,** as a deaf-mute is not halakhically competent to divorce a woman to whom he is married by Torah law. **What, is it not** referring to **a deaf-mute from the outset? And it is taught: Yes, he may consummate the levirate marriage,**
+
+> **Hebrew/Aramaic:** חוֹלֵץ לָא! לָא, בְּפִקַּחַת וְאַחַר כָּךְ נִתְחָרְשָׁה.
+> **Translation:** but **no, he may not perform *ḥalitza*.** The Gemara rejects this: **No,** it is referring **to a** halakhically **competent woman who later became a deaf-mute,** and *ḥalitza* performed by a deaf-mute does not have the power to undo a levirate bond that is valid by Torah law.
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע: שְׁנֵי אַחִין פִּקְחִין נְשׂוּאִין שְׁתֵּי נׇכְרִיּוֹת, אַחַת פִּקַּחַת וְאַחַת חֵרֶשֶׁת, מֵת פִּקֵּחַ בַּעַל הַחֵרֶשֶׁת, מָה יַעֲשֶׂה פִּקֵּחַ בַּעַל פִּקַּחַת? כּוֹנֵס, וְאִם רוֹצֶה לְהוֹצִיא יוֹצִיא. מֵת פִּקֵּחַ בַּעַל פִּקַּחַת, מָה יַעֲשֶׂה פִּקֵּחַ בַּעַל חֵרֶשֶׁת? אוֹ חוֹלֵץ אוֹ מְיַיבֵּם.
+> **Translation:** **Come** and **hear** proof from a *baraita*: **Two** halakhically **competent brothers** are **married** to **two unrelated** women, **one who is** halakhically **competent and one** who is a **deaf-mute.** If **the** halakhically **competent man** who is **the husband of the female deaf-mute, dies, what should the** halakhically **competent man** who is **the husband of the** halakhically **competent woman do? He consummates** the levirate marriage with the deaf-mute, **and if** he later **wishes to divorce her, he may divorce** her. **But if the** halakhically **competent man** who is **the husband of the** halakhically **competent woman dies, what should the** halakhically **competent man** who is **the husband of the female deaf-mute do? He may either perform *ḥalitza* or consummate the levirate marriage.**
+
+> **Hebrew/Aramaic:** מַאי לָאו: מִדְּהוּא פִּקֵּחַ מֵעִיקָּרָא, הִיא נָמֵי חֵרֶשֶׁת מֵעִיקָּרָא, וְקָתָנֵי: כּוֹנֵס אִין, חוֹלֵץ לָא! מִידֵּי אִירְיָא? הָא כִּדְאִיתָא וְהָא כִּדְאִיתָא.
+> **Translation:** **What, is it not** the case in this *baraita* **that since he is** halakhically **competent from the outset,** one may presume that **she is a deaf-mute from the outset as well? And it is taught yes, he may consummate** the levirate marriage with the *yevama* who is a deaf-mute, but **no, he may not perform *ḥalitza*** to her, thereby indicating that *ḥalitza* cannot be performed even though as a deaf-mute from the outset, she is a *yevama* by rabbinic law and not by Torah law. The Gemara rejects this: **Are the cases comparable? This** case is **as it is,** i.e., the husband is competent throughout, **and that** case is **as it is,** i.e., the wife was not a deaf-mute at the outset.
+
+> **Hebrew/Aramaic:** אֵיתִיבֵיהּ: שְׁנֵי אַחִין, אֶחָד פִּקֵּחַ וְאֶחָד חֵרֵשׁ, נְשׂוּאִין שְׁתֵּי אֲחָיוֹת, אַחַת פִּקַּחַת וְאַחַת חֵרֶשֶׁת. מֵת חֵרֵשׁ בַּעַל חֵרֶשֶׁת, מָה יַעֲשֶׂה פִּקֵּחַ בַּעַל פִּקַּחַת? תֵּצֵא מִשּׁוּם אֲחוֹת אִשָּׁה.
+> **Translation:** The Gemara **raised an objection to this** from a mishna (*Yevamot* 112b): **Two brothers, one** who is halakhically **competent and one** who is a **deaf-mute, are married** to **two sisters, one** who is halakhically **competent and one** who is **a deaf-mute.** If **the male deaf-mute** who is **the husband of the female deaf-mute dies, what shall the** halakhically **competent** man who is **the husband of the** halakhically **competent woman do?** The female deaf-mute **leaves** and is exempt from levirate marriage **due to** the prohibition against marrying **the sister of one’s wife.**
+
+> **Hebrew/Aramaic:** מֵת פִּקֵּחַ בַּעַל פִּקַּחַת, מָה יַעֲשֶׂה חֵרֵשׁ בַּעַל חֵרֶשֶׁת? מוֹצִיא אֶת אִשְׁתּוֹ בְּגֵט, וְאֵשֶׁת אָחִיו אֲסוּרָה לְעוֹלָם.
+> **Translation:** **If the** halakhically **competent man** who is **the husband of the** halakhically **competent woman dies, what should the male deaf-mute** who is **the husband of the female deaf-mute do? He releases his wife,** the female deaf-mute, **with a bill of divorce, and his brother’s wife is forbidden forever** and may never remarry. He cannot remain married because his wife is the sister of his *yevama* by Torah law. He cannot consummate the levirate marriage with her because she is the sister of his ex-wife. Apparently, *ḥalitza* is not an option because he is a deaf-mute, and his *ḥalitza* cannot dissolve a levirate bond that is established by Torah law.
+
+> **Hebrew/Aramaic:** וְכִי תֵּימָא הָכָא נָמֵי בְּפִקֵּחַ וְאַחַר כָּךְ נִתְחָרֵשׁ — מִי מָצֵי מַפֵּיק? וְהָתְנַן: נִתְחָרְשָׁה — יוֹצִיא, נִשְׁתַּטֵּית — לֹא יוֹצִיא. נִתְחָרֵשׁ הוּא אוֹ נִשְׁתַּטָּה — לֹא יוֹצִיא עוֹלָמִית.
+> **Translation:** **And if you would say: Here, too,** it is referring **to** a man who was halakhically **competent and later became a deaf-mute, can** such a person **divorce** his wife? **Didn’t we learn** the following in the mishna (112b): If a halakhically competent man married a halakhically competent woman and she **became a deaf-mute, he may divorce her; if she became mentally incompetent, he may not divorce her,** because of a rabbinic ordinance to protect her from harm. **If he himself became a deaf-mute or became mentally incompetent, he may never divorce her.** Since he was competent when he married her, he cannot dissolve a marriage that is by Torah law when he is incompetent.
+
+> **Hebrew/Aramaic:** אֶלָּא לָאו, בְּחֵרֵשׁ מֵעִיקָּרָא, וּמִדְּהוּא חֵרֵשׁ מֵעִיקָּרָא — הִיא נָמֵי חֵרֶשֶׁת מֵעִיקָּרָא. וּמִדַּאֲחָיוֹת חֵרְשׁוֹת מֵעִיקָּרָא — נׇכְרִיּוֹת נָמֵי חֵרְשׁוֹת מֵעִיקָּרָא, וּתְנַן גַּבֵּי נׇכְרִיּוֹת: כּוֹנֵס אִין, חוֹלֵץ לָא! אִישְׁתִּיק.
+> **Translation:** **Rather, is it not** referring to **a male** who was **deaf-mute from the outset? And since he was a deaf-mute from the outset, she was also a deaf-mute from the outset. And since the sisters** in these cases **were deaf-mutes from the outset, then the unrelated women were also deaf-mutes from the outset, and we learned** in the mishna **with regard to the unrelated women** that **yes, he may consummate** the levirate marriage with them, **but no, he may not perform *ḥalitza*.** When this question was presented to Rabba, he **was silent** and had no response.
+
+### Two Brothers Setup
 
 The *Gemara* presents the relevant Mishnah from the upcoming *perek*: two brothers, one hearing and one deaf (*cheresh*), married to two unrelated women, one hearing and one deaf-mute (*chereshet*). The marriages are matched: the hearing brother to the hearing woman, the deaf brother to the deaf woman.
 
@@ -390,10 +401,6 @@ One might attempt to resolve *Abaye*'s challenge by suggesting that the *cheresh
 
 ### Hearing Brother Dies
 
-> **Hebrew/Aramaic:** חוֹלֵץ לָא! לָא, בְּפִקַּחַת וְאַחַר כָּךְ נִתְחָרְשָׁה.
->
-> **Translation:** but **no, he may not perform *ḥalitza*.** The Gemara rejects this: **No,** it is referring **to a** halakhically **competent woman who later became a deaf-mute,** and *ḥalitza* performed by a deaf-mute does not have the power to undo a levirate bond that is valid by Torah law.
-
 *Abaye* builds his case further from the Mishnah's second scenario: if the hearing brother — married to the hearing woman — dies, what does the deaf brother do? *Koneis* — he does *yibum* with the hearing *yevamah* — and he cannot give a *get* to divorce his own wife, the *chereshet*. Why? Because his marriage to the hearing *yevamah* through *yibum* creates a *de'oraita* bond (the act of *bi'ah* in a *yibum* context effectuates a *de'oraita* marriage), and he cannot have two wives where one might compromise the other.
 
 ### Divorce Logic
@@ -408,11 +415,9 @@ Since the deaf brother was deaf from the beginning, and he was married to the *c
 
 ## Sisters Cases
 
-### Sisters Scenario
 
-> **Hebrew/Aramaic:** תָּא שְׁמַע: שְׁנֵי אַחִין פִּקְחִין נְשׂוּאִים שְׁתֵּי נׇכְרִיּוֹת, אַחַת פִּקַּחַת וְאַחַת חֵרֶשֶׁת, מֵת פִּקֵּחַ בַּעַל הַחֵרֶשֶׁת, מָה יַעֲשֶׂה פִּקֵּחַ בַּעַל פִּקַּחַת? כּוֹנֵס, וְאִם רוֹצֶה לְהוֹצִיא יוֹצִיא. מֵת פִּקֵּחַ בַּעַל פִּקַּחַת, מָה יַעֲשֶׂה פִּקֵּחַ בַּעַל חֵרֶשֶׁת? אוֹ חוֹלֵץ אוֹ מְיַיבֵּם.
->
-> **Translation:** **Come** and **hear** proof from a *baraita*: **Two** halakhically **competent brothers** are **married** to **two unrelated** women, **one who is** halakhically **competent and one** who is a **deaf-mute.** If **the** halakhically **competent man** who is **the husband of the female deaf-mute, dies, what should the** halakhically **competent man** who is **the husband of the** halakhically **competent woman do? He consummates** the levirate marriage with the deaf-mute, **and if** he later **wishes to divorce her, he may divorce** her. **But if the** halakhically **competent man** who is **the husband of the** halakhically **competent woman dies, what should the** halakhically **competent man** who is **the husband of the female deaf-mute do? He may either perform *ḥalitza* or consummate the levirate marriage.**
+
+### Sisters Scenario
 
 A further Mishnah sharpens the difficulty. Two hearing brothers are married to two sisters: one sister is hearing, the other is a *chereshet*.
 
@@ -426,10 +431,6 @@ If the deaf brother — married to the deaf sister — dies, the deaf *yevamah* 
 
 ### The Problem
 
-> **Hebrew/Aramaic:** מַאי לָאו: מִדְּהוּא פִּקֵּחַ מֵעִיקָּרָא, הִיא נָמֵי חֵרֶשֶׁת מֵעִיקָּרָא, וְקָתָנֵי: כּוֹנֵס אִין, חוֹלֵץ לָא! מִידֵּי אִירְיָא? הָא כִּדְאִיתָא וְהָא כִּדְאִיתָא.
->
-> **Translation:** **What, is it not** the case in this *baraita* **that since he is** halakhically **competent from the outset,** one may presume that **she is a deaf-mute from the outset as well? And it is taught yes, he may consummate** the levirate marriage with the *yevama* who is a deaf-mute, but **no, he may not perform *ḥalitza*.** This formulation applies even in the scenario where the marriage was *derabbanan* from the outset. The Gemara rejects this: **Are the cases comparable? This** case is **as it is,** i.e., the husband is competent throughout, **and that** case is **as it is,** i.e., the wife was not a deaf-mute at the outset.
-
 The surviving hearing brother is thus caught: he cannot do *yibum* with the *chereshet yevamah* because she is his wife's sister — *achot ishto*. He cannot do *chalitzah* with her because she is a *chereshet*. The only thing he can do is divorce his hearing wife — but even that does not help, since after divorcing her, the *chereshet* becomes *achot gerushato*, his divorced wife's sister, which is equally an *ervah*.
 
 ### Agunah Result
@@ -440,23 +441,13 @@ The *chereshet yevamah* is thus permanently trapped — an *agunah* within the *
 
 ## Resolution Attempts
 
+
+
 ### Divorce Proof
-
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ: שְׁנֵי אַחִין, אֶחָד פִּקֵּחַ וְאֶחָד חֵרֵשׁ, נְשׂוּאִים שְׁתֵּי אֲחָיוֹת, אַחַת פִּקַּחַת וְאַחַת חֵרֶשֶׁת. מֵת חֵרֵשׁ בַּעַל חֵרֶשֶׁת, מָה יַעֲשֶׂה פִּקֵּחַ בַּעַל פִּקַּחַת? תֵּצֵא מִשּׁוּם אֲחוֹת אִשָּׁה.
->
-> **Translation:** The Gemara **raised an objection to this** from a mishna (*Yevamot* 112b): **Two brothers, one** who is halakhically **competent and one** who is a **deaf-mute, are married** to **two sisters, one** who is halakhically **competent and one** who is **a deaf-mute.** If **the male deaf-mute** who is **the husband of the female deaf-mute dies, what shall the** halakhically **competent** man who is **the husband of the** halakhically **competent woman do?** The female deaf-mute **leaves** and is exempt from levirate marriage **due to** the prohibition against marrying **the sister of one's wife.**
-
-> **Hebrew/Aramaic:** מֵת פִּקֵּחַ בַּעַל פִּקַּחַת, מָה יַעֲשֶׂה חֵרֵשׁ בַּעַל חֵרֶשֶׁת? מוֹצִיא אֶת אִשְׁתּוֹ בְּגֵט, וְאֵשֶׁת אָחִיו אֲסוּרָה לְעוֹלָם.
->
-> **Translation:** **If the** halakhically **competent man** who is **the husband of the** halakhically **competent woman dies, what should the male deaf-mute** who is **the husband of the female deaf-mute do? He releases his wife,** the female deaf-mute, **with a bill of divorce, and his brother's wife is forbidden forever** and may never remarry. He cannot remain married because his wife is the sister of his *yevama* by Torah law. He cannot consummate the levirate marriage with her because she is the sister of his ex-wife. Apparently, *ḥalitza* is not an option because he is a deaf-mute, and his *ḥalitza* cannot dissolve a levirate bond that is established by Torah law.
 
 The *Gemara* returns to the proof from the divorce case. Since the deaf brother can divorce his *chereshet* wife, he must have married her as a *cheresh* — because a man who became deaf after a hearing marriage cannot give a *get*.
 
 ### Deaf Me'ikara
-
-> **Hebrew/Aramaic:** וְכִי תֵּימָא הָכָא נָמֵי בְּפִקֵּחַ וְאַחַר כָּךְ נִתְחָרֵשׁ — מִי מָצֵי מַפֵּיק? וְהָתְנַן: נִתְחָרְשָׁה — יוֹצִיא, נִשְׁתַּטֵּית — לֹא יוֹצִיא. נִתְחָרֵשׁ הוּא אוֹ נִשְׁתַּטָּה — לֹא יוֹצִיא עוֹלָמִית.
->
-> **Translation:** **And if you would say: Here, too,** it is referring **to** a man who was halakhically **competent and later became a deaf-mute, can** such a person **divorce** his wife? **Didn't we learn** the following in the mishna (112b): If a halakhically competent man married a halakhically competent woman and she **became a deaf-mute, he may divorce her; if she became mentally incompetent, he may not divorce her,** because of a rabbinic ordinance to protect her from harm. **If he himself became a deaf-mute or became mentally incompetent, he may never divorce her.** Since he was competent when he married her, he cannot dissolve a marriage that is by Torah law when he is incompetent.
 
 Therefore, the deaf woman in this Mishnah must have been a *chereshet me'ikara* — deaf from the beginning of her marriage. Her marriage was entirely *derabbanan*.
 
@@ -470,12 +461,9 @@ The Mishnah is explicit: *koneis, ein choletz lo* — he does *yibum* with her, 
 
 ### Gemara Silent
 
-> **Hebrew/Aramaic:** אֶלָּא לָאו, בְּחֵרֵשׁ מֵעִיקָּרָא, וּמִדְּהוּא חֵרֵשׁ מֵעִיקָּרָא — הִיא נָמֵי חֵרֶשֶׁת מֵעִיקָּרָא. וּמִדַּאֲחָיוֹת חֵרְשׁוֹת מֵעִיקָּרָא — נׇכְרִיּוֹת נָמֵי חֵרְשׁוֹת מֵעִיקָּרָא, וּתְנַן גַּבֵּי נׇכְרִיּוֹת: כּוֹנֵס אִין, חוֹלֵץ לָא! אִישְׁתִּיק.
->
-> **Translation:** **Rather, is it not** referring to **a male** who was **deaf-mute from the outset? And since he was a deaf-mute from the outset, she was also a deaf-mute from the outset. And since the sisters** in these cases **were deaf-mutes from the outset, then the unrelated women were also deaf-mutes from the outset, and we learned** in the mishna **with regard to the unrelated women** that **yes, he may consummate** the levirate marriage with them, **but no, he may not perform *ḥalitza*.** When this question was presented to Rabba, he **was silent** and had no response.
-
 The *Gemara* does not offer a satisfying resolution to *Abaye*'s challenge. *Ishtik* — silence. The question stands unanswered at this point, and the discussion carries over into the next daf.
 
 ### Final Conclusion
 
-What has been established, however, is the following: a *chereshet* cannot perform *chalitzah* — even when her original marriage was contracted as a *chereshet* and was therefore only *derabbanan* in character. *Rava*'s elegant distinction — that *chereshet me'ikara* can perform *chalitzah* because she entered and exits within the same *derabbanan* framework — is challenged by the explicit ruling of the Mishnah, which *Abaye* has demonstrated must refer to a *chereshet me'ikara* case. The question of how to reconcile *Rava*'s reasoning with the Mishnah's ruling will await resolution as the daf continues.
+
+What has been established, however, is the following: a *chereshet* cannot perform *chalitzah* — even when her original marriage was contracted as a *chereshet* and was therefore only *derabbanan* in character. *Rava*'s elegant distinction — that *chereshet me'ikara* can perform *chalitzah* because she entered and exits within the same *derabbanan* framework — is challenged by the explicit ruling of the Mishnah, which *Abaye* has demonstrated must refer to a *chereshet me'ikara* case. The practical stakes of this conclusion are not merely theoretical: in the case of two brothers, one hearing and one a *cheresh*, married to two sisters, one hearing and one a *chereshet*, where the hearing brother dies, the *cheresh* brother finds himself in an impossible bind. He must divorce his *derabbanan* wife in order to avoid the prohibition of *achot zikato*, and the fact that he can do so proves he married her as a *cheresh* from the outset. But having divorced her, he now cannot perform *yibum* with the surviving *pikachat* because she has become *achot gerushato*, and he cannot perform *chalitzah* because he is a *cheresh*. The result is that the *pikachat* — a fully hearing woman with a *de'oraita* bond of *zika* — remains an *agunah* for life, trapped by the collision of *derabbanan* and *de'oraita* categories in a way that admits no exit. The question of how to reconcile *Rava*'s reasoning with the Mishnah's ruling will await resolution as the daf continues.

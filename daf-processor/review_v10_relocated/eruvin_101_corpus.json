@@ -1,0 +1,329 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Hadeles shebe-muktza",
+    "candidates": [
+      "Hadeles shebe-muktza",
+      "Rashi on Back Doors",
+      "Dragging Doors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage introduces exactly the three cases (hadeles shebe-muktza, chadakim shebepirtza, machatzalos) and the principle of gevohin min ha'aretz that candidate 0's prose directly discusses and analyzes.",
+      "chosen_heading": "Hadeles shebe-muktza",
+      "current_heading": "Hadeles shebe-muktza",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Dragging Doors",
+    "candidates": [
+      "Rashi on Back Doors",
+      "Dragging Doors",
+      "Abaye's Hinge Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's opening contradiction from the baraita about dragging doors, mats, and lattices, which is precisely what the 'Dragging Doors' prose describes in detail.",
+      "chosen_heading": "Dragging Doors",
+      "current_heading": "Dragging Doors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Abaye's Hinge Rule",
+    "candidates": [
+      "Abaye's Hinge Rule",
+      "Rava on Former Hinges",
+      "Braita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's statement (about current hinges) and Rava's statement (about former hinges), and since this is a single Talmudic excerpt presenting both opinions together, it belongs under the first heading where Abaye's position is introduced, which is its current placement.",
+      "chosen_heading": "Abaye's Hinge Rule",
+      "current_heading": "Abaye's Hinge Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Braita Contradiction",
+    "candidates": [
+      "Rava on Former Hinges",
+      "Braita Contradiction",
+      "Widowed Door"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita objection requiring elevation, Abaye and Rava's reconciliations, and the subsequent baraita about thorn bundles \u2014 are precisely described in the 'Braita Contradiction' prose, which explicitly covers all of these elements in sequence.",
+      "chosen_heading": "Braita Contradiction",
+      "current_heading": "Braita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Widowed Door",
+    "candidates": [
+      "Widowed Door",
+      "Fire Piles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the widowed door (delet almanah) and its two definitions, which matches exactly the prose under heading 0 about Rabbi Chiyya's baraita and the two explanations of what makes a door 'widowed.'",
+      "chosen_heading": "Widowed Door",
+      "current_heading": "Widowed Door",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Fire Piles",
+    "candidates": [
+      "Fire Piles",
+      "Eggs & Grills",
+      "Pots & Beds",
+      "Tosafot Qualifications",
+      "Piling Objects",
+      "Sadducee Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav Yehuda's ruling on the fire pile and its extension to eggs, cauldrons, beds, and barrels \u2014 exactly what the 'Fire Piles' prose describes as launching 'a remarkable sequence of cases' governed by the top-down/bottom-up principle, making the current placement correct.",
+      "chosen_heading": "Fire Piles",
+      "current_heading": "Fire Piles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Sadducee Debate",
+    "candidates": [
+      "Eggs & Grills",
+      "Pots & Beds",
+      "Tosafot Qualifications",
+      "Piling Objects",
+      "Sadducee Debate",
+      "Rabbi Meir's Rule",
+      "Patamin Marketplace"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sadducee Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the heretic/Rabbi Yehoshua ben \u1e24ananya exchange about 'tovam kechedek' which is precisely what the 'Sadducee Debate' prose describes.",
+      "second_heading": "Rabbi Meir's Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishna about standing in one domain and opening a door in another, which is exactly what the 'Rabbi Meir's Rule' prose describes.",
+      "current_heading": "Sadducee Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Patamin Marketplace",
+    "candidates": [
+      "Rabbi Meir's Rule",
+      "Patamin Marketplace",
+      "Jerusalem Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the sages' challenge citing the Jerusalem marketplace incident and Rabbi Yose's clarification, which is exactly what the 'Patamin Marketplace' section's prose describes and analyzes.",
+      "chosen_heading": "Patamin Marketplace",
+      "current_heading": "Patamin Marketplace",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Jerusalem Status",
+    "candidates": [
+      "Jerusalem Status",
+      "Garden Gates",
+      "Store Locks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Jerusalem's status as karmelit vs. reshut ha-rabim \u2014 item 1 raises the question about Rabbi Yohanan's statement and item 2 is Rav Pappa's resolution about pre- and post-breach periods \u2014 exactly the content described in the 'Jerusalem Status' prose.",
+      "chosen_heading": "Jerusalem Status",
+      "current_heading": "Jerusalem Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Store Locks",
+    "candidates": [
+      "Garden Gates",
+      "Store Locks",
+      "Abaye's Lock Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Garden Gates",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are Rava's reinterpretation of the mishna as referring to garden gates (shaarei ginna/karmelit), which belongs under 'Garden Gates' where the prose discusses exactly this scenario of karmelit garden gate operations.",
+      "second_heading": "Store Locks",
+      "second_confidence": "high",
+      "second_reason": "Items 3-9 cover the baraita about garden gate gatehouses, the parallel store lock cases distinguishing lock heights, Rabbi Meir vs. Rabbis dispute, and the gemara's analysis of karmelit-to-reshut-hayachid transfer \u2014 all content explicitly discussed in the 'Store Locks' prose.",
+      "current_heading": "Store Locks",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Abaye's Lock Solution",
+    "candidates": [
+      "Abaye's Lock Solution",
+      "Window Restrictions",
+      "Rav Dimi Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Abaye's resolution about the lock not having four-by-four dimensions and the dispute between Rabbi Meir and the Rabbis about chokekin lehashlim, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Abaye's Lock Solution",
+      "current_heading": "Abaye's Lock Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Rav Dimi Teaching",
+    "candidates": [
+      "Window Restrictions",
+      "Rav Dimi Teaching",
+      "Rabbi Eliezer's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Beivai bar Abaye's three inferences from the baraita, which is precisely what the 'Rav Dimi Teaching' prose section describes in detail, including chokekim lehashlim, Rabbi Meir's retraction, and the Rav Dimi/Rabbi Yochanan ruling about makom patur.",
+      "chosen_heading": "Rav Dimi Teaching",
+      "current_heading": "Rav Dimi Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rabbi Eliezer's Rule",
+    "candidates": [
+      "Rabbi Eliezer's Rule",
+      "Rabbi Yose Lenient",
+      "Tiberias Synagogue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text introduces the bolt-with-knob case and the dispute between Rabbi Eliezer and Rabbi Yosei, which is precisely what the 'Rabbi Eliezer's Rule' section prose describes as the final mishna of the daf introducing this case.",
+      "chosen_heading": "Rabbi Eliezer's Rule",
+      "current_heading": "Rabbi Eliezer's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Tiberias Synagogue",
+    "candidates": [
+      "Rabbi Yose Lenient",
+      "Tiberias Synagogue",
+      "Rope Lifting Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is exactly the Tiberias synagogue incident disputed between Rabbi Eliezer and Rabbi Yose, which is precisely what the 'Tiberias Synagogue' section prose describes.",
+      "chosen_heading": "Tiberias Synagogue",
+      "current_heading": "Tiberias Synagogue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Rope Lifting Test",
+    "candidates": [
+      "Rope Lifting Test",
+      "Tosafot Chumra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's rope-lifting test \u2014 narrowing the dispute to cases where the rope cannot bear the bolt's weight \u2014 which is precisely what the 'Rope Lifting Test' prose describes.",
+      "chosen_heading": "Rope Lifting Test",
+      "current_heading": "Rope Lifting Test",
+      "moved": false
+    }
+  }
+]

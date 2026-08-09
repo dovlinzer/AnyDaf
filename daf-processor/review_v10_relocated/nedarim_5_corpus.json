@@ -1,0 +1,141 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rabbi Yossi bar Chanina",
+    "candidates": [
+      "Reading the Mishnah",
+      "Mudrani Mimcha",
+      "Rabbi Yossi bar Chanina",
+      "Reconciling Views",
+      "Lach vs. Mimcha",
+      "Scope of Prohibition",
+      "Achilah vs. Hana'ah",
+      "Ambiguity Problem",
+      "Three Levels of Yad",
+      "Ambiguous Yad Invalid",
+      "Get Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yosei bar Rabbi \u1e24anina's ruling that 'mudrani himcha' makes both parties prohibited, which is precisely the content described in the 'Rabbi Yossi bar Chanina' section's prose.",
+      "chosen_heading": "Rabbi Yossi bar Chanina",
+      "current_heading": "Rabbi Yossi bar Chanina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Get Parallel",
+    "candidates": [
+      "Reconciling Views",
+      "Lach vs. Mimcha",
+      "Scope of Prohibition",
+      "Achilah vs. Hana'ah",
+      "Ambiguity Problem",
+      "Three Levels of Yad",
+      "Ambiguous Yad Invalid",
+      "Get Parallel",
+      "Ran's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 12 items deal with reconciling the Mishnah's unilateral cases with Shmuel's and Rabbi Yossi bar Chanina's bilateral positions, working through the *cherem* language, the *mudrani lach/mimcha* distinction, and the unspecified (*stam*) case \u2014 exactly what the 'Reconciling Views' prose describes.",
+      "chosen_heading": "Reconciling Views",
+      "current_heading": "Get Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Ran's Explanation",
+    "candidates": [
+      "Get Parallel",
+      "Ran's Explanation",
+      "Nazir L'hazir",
+      "Hafla'ah Requirement",
+      "Conditional Nazir",
+      "Applying to Neder",
+      "Abaye's View",
+      "Rava's View",
+      "Get Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Abaye/Rava debate and Rava's proof from 'nazir l'hazir l'Hashem' with the hekkesh comparing yadei nezirut to nezirut and the hafla'ah requirement, which is precisely what the 'Nazir L'hazir' section's prose describes.",
+      "chosen_heading": "Nazir L'hazir",
+      "current_heading": "Ran's Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Get Connection",
+    "candidates": [
+      "Nazir L'hazir",
+      "Hafla'ah Requirement",
+      "Conditional Nazir",
+      "Applying to Neder",
+      "Abaye's View",
+      "Rava's View",
+      "Get Connection",
+      "Kritut Distinction",
+      "Rava's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly asks whether Abaye and Rava's dispute maps onto the Rabbi Yehuda vs. Rabbanan dispute about the essential text of a get, which is precisely what the 'Get Connection' section's prose describes.",
+      "chosen_heading": "Get Connection",
+      "current_heading": "Get Connection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Rava's Response",
+    "candidates": [
+      "Kritut Distinction",
+      "Rava's Response",
+      "Ran's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the symmetric responses of Abaye (item 1) and Rava (items 2-3) explaining how each can hold his position even according to the opposing opinion, with the kritut distinction as the organizing concept \u2014 and the prose under 'Kritut Distinction' explicitly describes exactly this dual exchange (Abaye's response referencing kritut, then Rava's symmetric response), making it the clearly better match than 'Rava's Response' which covers only Rava's side.",
+      "chosen_heading": "Kritut Distinction",
+      "current_heading": "Rava's Response",
+      "moved": true
+    }
+  }
+]

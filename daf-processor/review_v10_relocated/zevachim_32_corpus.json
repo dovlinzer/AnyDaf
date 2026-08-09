@@ -1,0 +1,353 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Kol Hapsulim",
+    "candidates": [
+      "Kol Hapsulim",
+      "Machshava of Shochet",
+      "Shechita Fundamental",
+      "Tosafot on Women",
+      "Vechulan Shekiblu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage directly presents the ruling that all invalid persons who slaughter have valid shechita, listing non-priests, women, slaves, and impure individuals, with the restriction on touching the flesh \u2014 exactly the content described in the 'Kol Hapsulim' section prose.",
+      "chosen_heading": "Kol Hapsulim",
+      "current_heading": "Kol Hapsulim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Vechulan Shekiblu",
+    "candidates": [
+      "Machshava of Shochet",
+      "Shechita Fundamental",
+      "Tosafot on Women",
+      "Vechulan Shekiblu",
+      "Chutz Lizmano",
+      "Psul No Active Stigma",
+      "Kibel Kasher Natan",
+      "Biyemino Bikli Kodesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes exactly the practical remedy when a pasul receives blood with improper intent \u2014 if lifeblood remains, a kasher person should return and collect it \u2014 which is precisely what candidate 4 ('Chutz Lizmano') discusses in its prose.",
+      "chosen_heading": "Chutz Lizmano",
+      "current_heading": "Vechulan Shekiblu",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Biyemino Bikli Kodesh",
+    "candidates": [
+      "Chutz Lizmano",
+      "Psul No Active Stigma",
+      "Kibel Kasher Natan",
+      "Biyemino Bikli Kodesh",
+      "Shelo Bimkomo Rashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly the cases described in candidate 3's prose: kasher-to-pasul handoff, right-to-left hand transfer, kli kodesh to kli chol, and blood spilled on the floor \u2014 all handled under the 'Biyemino Bikli Kodesh' section.",
+      "chosen_heading": "Biyemino Bikli Kodesh",
+      "current_heading": "Biyemino Bikli Kodesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Shelo Bimkomo Rashi",
+    "candidates": [
+      "Shelo Bimkomo Rashi",
+      "Rashi Derech Rishona",
+      "Rashi Derech Shniya",
+      "Shachtu Bedieved",
+      "Midrash on Shechita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text listing the wrong-location blood placement scenarios (ramp, wrong side of base, above/below the line, inside/outside) and the rule about redoing the zerikah if dam hanefesh remains, which is precisely what the 'Shelo Bimkomo Rashi' section's prose introduces and explains.",
+      "chosen_heading": "Shelo Bimkomo Rashi",
+      "current_heading": "Shelo Bimkomo Rashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Midrash on Shechita",
+    "candidates": [
+      "Rashi Derech Rishona",
+      "Rashi Derech Shniya",
+      "Shachtu Bedieved",
+      "Midrash on Shechita",
+      "Havu Lei Hu Hadin",
+      "Tamei Gezeira",
+      "Tosafot Tamei Concern",
+      "Utamei Dieved",
+      "Samach V'Shachat",
+      "Efshar Sakina Aruka"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shachtu Bedieved",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's inference from the Mishnah's past-tense language (shachtu = b'diavad in, lechatchila lo), which is precisely what heading 'Shachtu Bedieved' describes.",
+      "second_heading": "Midrash on Shechita",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20136 constitute the braita/midrash halacha discussion about veshachat/vehikrivu establishing shechita as valid for any person, followed by the hu hadin resolution and the tamei gezeira explanation, which corresponds exactly to headings 'Midrash on Shechita', 'Havu Lei Hu Hadin', and the tamei material \u2014 but as one continuous sugya they sit best under 'Midrash on Shechita' where they currently are, since that heading's prose covers the entire sequence through the tamei contradiction.",
+      "current_heading": "Midrash on Shechita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Efshar Sakina Aruka",
+    "candidates": [
+      "Havu Lei Hu Hadin",
+      "Tamei Gezeira",
+      "Tosafot Tamei Concern",
+      "Utamei Dieved",
+      "Samach V'Shachat",
+      "Efshar Sakina Aruka",
+      "Bia Bimiktzat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about why 'lifnei Hashem' applies to smicha but not shechita, and answers that one can use a long knife to slaughter from outside the Azara \u2014 this is precisely what the 'Samach V'Shachat' section's prose describes as its content, not the 'Efshar Sakina Aruka' section which discusses the resolution in terms of the animal being lifnei Hashem and the bia b'miktzat question.",
+      "chosen_heading": "Samach V'Shachat",
+      "current_heading": "Efshar Sakina Aruka",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Bia Bimiktzat",
+    "candidates": [
+      "Efshar Sakina Aruka",
+      "Bia Bimiktzat",
+      "Shimon HaTeimani"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the continuous sugya about whether a long knife or arm-extension can circumvent the 'lifnei Hashem' requirement, and the efshar sakina arucha / bia b'miktzat interplay \u2014 which is precisely what heading 0 ('Efshar Sakina Aruka') describes, including the bia b'miktzat question raised there, before heading 1 takes up the bia b'miktzat debate proper.",
+      "chosen_heading": "Efshar Sakina Aruka",
+      "current_heading": "Bia Bimiktzat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Shimon HaTeimani",
+    "candidates": [
+      "Shimon HaTeimani",
+      "Tamei Yad Lokei",
+      "Mikyash Bia Negiah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Shimon HaTimni's opinion about the slaughterer needing to stand inside the Azara, which is precisely what the prose under 'Shimon HaTeimani' discusses.",
+      "chosen_heading": "Shimon HaTeimani",
+      "current_heading": "Shimon HaTeimani",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Mikyash Bia Negiah",
+    "candidates": [
+      "Tamei Yad Lokei",
+      "Mikyash Bia Negiah",
+      "Metzora Chamishi",
+      "Yom Shmini Metzora",
+      "Machane Shechina Levels",
+      "Tvul Yom Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both the ruling (lokeh) and its derivation (hekesh), and while the current heading focuses on the hekesh, the passage as a whole introduces Ulla/Reish Lakish's ruling about a tamei person inserting his hand \u2014 which is the content described under heading 0 ('Tamei Yad Lokei'), with the hekesh being part of that same ruling rather than a separate topic.",
+      "chosen_heading": "Tamei Yad Lokei",
+      "current_heading": "Mikyash Bia Negiah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Tvul Yom Pesach",
+    "candidates": [
+      "Metzora Chamishi",
+      "Yom Shmini Metzora",
+      "Machane Shechina Levels",
+      "Tvul Yom Pesach",
+      "Rabbi Yochanan Tvul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita of the metzora whose eighth day falls on erev Pesach who experienced a seminal emission and immersed, which is precisely what heading 1 ('Yom Shmini Metzora') describes \u2014 the setup of this case and its complications \u2014 whereas heading 3 ('Tvul Yom Pesach') covers the Chachamim's ruling and reasoning, which is the essay author's own prose analysis of the conclusion, not the source text presenting the case and ruling together.",
+      "chosen_heading": "Yom Shmini Metzora",
+      "current_heading": "Tvul Yom Pesach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Rabbi Yochanan Tvul",
+    "candidates": [
+      "Tvul Yom Pesach",
+      "Rabbi Yochanan Tvul",
+      "Amar Eli Bia Bonanot",
+      "Houil Vetuter",
+      "Rav Yosef Inference"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yochanan Tvul",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yochanan's statement that by Torah law there is no positive mitzva restricting a tvul yom, proved from the 'new courtyard' verse \u2014 exactly what heading 1 ('Rabbi Yochanan Tvul') describes.",
+      "second_heading": "Amar Eli Bia Bonanot",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Rav Hoshaya's objection about bia b'miktzat (how the metzora inserts his thumbs) and Ulla's response that the metzora's dispensation for leprosy extends to his keri \u2014 matching headings 2 ('Amar Eli Bia Bonanot') and 3 ('Houil Vetuter'), but since items 2 and 3 form one continuous challenge-and-answer unit, they belong together under the heading that introduces the bia b'miktzat problem (index 2), with index 3 being the resolution embedded within that same unit.",
+      "current_heading": "Rabbi Yochanan Tvul",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Rav Yosef Inference",
+    "candidates": [
+      "Amar Eli Bia Bonanot",
+      "Houil Vetuter",
+      "Rav Yosef Inference",
+      "Abaye Hazirah",
+      "Dilma Hachi Kamart"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yosef's inference from Ulla's logic about zavim who become temei meitim receiving a dispensation that extends to their zivah \u2014 exactly what the 'Rav Yosef Inference' section's prose describes.",
+      "chosen_heading": "Rav Yosef Inference",
+      "current_heading": "Rav Yosef Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Dilma Hachi Kamart",
+    "candidates": [
+      "Abaye Hazirah",
+      "Dilma Hachi Kamart",
+      "Lo Dami Hutrah",
+      "Rava Adderaba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous exchange where Abaye objects that the cases are not comparable (item 1), then reformulates Rav Yosef's argument to fix the sequence (item 2), and then the Gemara raises the hutrah/dchuya distinction (item 3) \u2014 this entire chain matches heading 0 ('Abaye Hazirah'), which describes Abaye's objection about the reversed sequence, while the current placement under 'Dilma Hachi Kamart' only captures item 2, and heading 2 ('Lo Dami Hutrah') only captures item 3.",
+      "chosen_heading": "Abaye Hazirah",
+      "current_heading": "Dilma Hachi Kamart",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Rava Adderaba",
+    "candidates": [
+      "Lo Dami Hutrah",
+      "Rava Adderaba",
+      "Metzora vs. Baal Keri",
+      "Common Ground"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's direct counterargument ('adderaba ipcha mistabra') explaining why hutrah creates a narrow carve-out while dchuya creates an extensible principle, which is precisely what the 'Rava Adderaba' section's prose describes.",
+      "chosen_heading": "Rava Adderaba",
+      "current_heading": "Rava Adderaba",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Common Ground",
+    "candidates": [
+      "Metzora vs. Baal Keri",
+      "Common Ground",
+      "Next Discussion Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states by inference that both Amoraim hold tumah is overridden (dchuya) in public cases, which directly matches the 'Common Ground' prose discussing the shared commitment that tumah b'tzibur operates under dchuya, established michlal from their debate.",
+      "chosen_heading": "Common Ground",
+      "current_heading": "Common Ground",
+      "moved": false
+    }
+  }
+]

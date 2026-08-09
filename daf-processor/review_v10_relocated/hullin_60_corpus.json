@@ -1,0 +1,327 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Lion Dimensions",
+    "candidates": [
+      "Keresh Overview",
+      "Tagris Lion",
+      "Lion Dimensions",
+      "Giraffe Theory",
+      "Lion Comparison",
+      "Lion's Roar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three components \u2014 the keresh/tabya identification, the tagris/lion identification, and the dimensional details \u2014 which matches the 'Tagris Lion' section's prose that introduces both creatures and their identification, while the current 'Lion Dimensions' heading only covers part of the passage's content.",
+      "chosen_heading": "Tagris Lion",
+      "current_heading": "Lion Dimensions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Lion's Roar",
+    "candidates": [
+      "Giraffe Theory",
+      "Lion Comparison",
+      "Lion's Roar",
+      "Invisibility Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together narrate the lion of Bei Ila'ei episode \u2014 the Caesar's challenge, Rabbi Yehoshua's prayer, the lion's advance and its devastating roars, and the Caesar's plea to send it back \u2014 which is precisely what candidate 1 ('Lion Comparison') sets up in its prose, describing the exchange about God being compared to the lion of bei ilai and the Caesar demanding to see it.",
+      "chosen_heading": "Lion Comparison",
+      "current_heading": "Lion's Roar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Invisibility Proof",
+    "candidates": [
+      "Lion's Roar",
+      "Invisibility Proof",
+      "Banquet Attempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete 'I wish to see your God' exchange \u2014 the Caesar's request, Rabbi Yehoshua's refusal, the sun demonstration, and the a fortiori conclusion about the Shechina \u2014 which is precisely what the 'Invisibility Proof' prose describes in detail.",
+      "chosen_heading": "Invisibility Proof",
+      "current_heading": "Invisibility Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Banquet Attempt",
+    "candidates": [
+      "Banquet Attempt",
+      "Carpenter Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the banquet preparation story \u2014 the emperor's failed summer and winter attempts to feed God \u2014 which is precisely what the 'Banquet Attempt' prose discusses in detail, including the wind, rain, sweepers, and the Caesar's final concession.",
+      "chosen_heading": "Banquet Attempt",
+      "current_heading": "Banquet Attempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Carpenter Argument",
+    "candidates": [
+      "Carpenter Argument",
+      "Leprosy Curse",
+      "Spool Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full exchange including the carpenter argument and the leprosy curse, but the prose under heading 0 ('Carpenter Argument') explicitly discusses both the theological challenge and her request for a spool, making it the best match for this complete Talmudic excerpt.",
+      "chosen_heading": "Carpenter Argument",
+      "current_heading": "Carpenter Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Spool Gift",
+    "candidates": [
+      "Leprosy Curse",
+      "Spool Gift",
+      "Ox Traits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Yehoshua encountering the woman with her spool in the marketplace and their exchange about God giving but not taking back, which matches precisely the prose under 'Spool Gift.'",
+      "chosen_heading": "Spool Gift",
+      "current_heading": "Spool Gift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Ox Traits",
+    "candidates": [
+      "Ox Traits",
+      "Donkey Traits",
+      "Market Knowledge",
+      "Single Horn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full statement of Rav Yehuda including both ox traits, donkey contrast, and the practical application, but the current placement under 'Ox Traits' is where the quoted text begins, and the prose there explicitly describes this Rav Yehuda statement \u2014 however, the passage actually covers all three sections' content; since it must go under one heading and the current placement is where the gemara unit starts, and the 'Ox Traits' prose explicitly introduces this very statement, the current placement is the best single home.",
+      "chosen_heading": "Ox Traits",
+      "current_heading": "Ox Traits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Single Horn",
+    "candidates": [
+      "Donkey Traits",
+      "Market Knowledge",
+      "Single Horn",
+      "Horn Precedence",
+      "Full Stature Creation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely about Rav Yehuda's teaching that Adam's sacrificial bull had a single horn, supported by the verse makrin/makran, which is exactly what the 'Single Horn' section's prose describes.",
+      "chosen_heading": "Single Horn",
+      "current_heading": "Single Horn",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Full Stature Creation",
+    "candidates": [
+      "Horn Precedence",
+      "Full Stature Creation",
+      "Kal VaCheomer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Horn Precedence",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav Yehuda on the bull's horns preceding hooves) is the specific content discussed under 'Horn Precedence', which explicitly covers karnav kadmu lefarsotav and the makrin/mafris verse.",
+      "second_heading": "Full Stature Creation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rabbi Yehoshua ben Levi on all creation emerging with full stature/knowledge/form) is precisely the content discussed under 'Full Stature Creation', which quotes and explains bekomatan nivreu, l'da'atan nivreu, b'tzivyonam nivreu at length.",
+      "current_heading": "Full Stature Creation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Kal VaCheomer",
+    "candidates": [
+      "Kal VaCheomer",
+      "Officer's Praise",
+      "Grafting Kilayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete narrative of Rabbi \u1e24anina bar Pappa's teaching \u2014 the grasses' kal va-chomer reasoning and their acting upon it \u2014 which is exactly what candidate 0's prose discusses in detail, while candidate 1 covers only the minister's concluding declaration and candidate 2 covers the subsequent halakhic question about grafting.",
+      "chosen_heading": "Kal VaCheomer",
+      "current_heading": "Kal VaCheomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Grafting Kilayim",
+    "candidates": [
+      "Officer's Praise",
+      "Grafting Kilayim",
+      "Co-Kings Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form Ravina's dilemma about grafting two species of grass and its resolution via Rabbi \u1e24anina bar Pappa's framework, which is precisely what the 'Grafting Kilayim' prose describes in detail.",
+      "chosen_heading": "Grafting Kilayim",
+      "current_heading": "Grafting Kilayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Co-Kings Problem",
+    "candidates": [
+      "Co-Kings Problem",
+      "Dominion Division",
+      "Calendar Role",
+      "Righteous Names",
+      "Divine Atonement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Co-Kings Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the moon's initial complaint about two kings sharing one crown, which is precisely what the 'Co-Kings Problem' prose discusses.",
+      "second_heading": "Dominion Division",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers God's offers of dominion over day and night, the calendar role, and righteous names \u2014 spanning 'Dominion Division' through 'Righteous Names', but the 'Dominion Division' prose is the immediate continuation (moon's objection to sharing the sky and the candle-in-daytime response), making it the best single landing heading for the start of item 2's content.",
+      "current_heading": "Co-Kings Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Divine Atonement",
+    "candidates": [
+      "Dominion Division",
+      "Calendar Role",
+      "Righteous Names",
+      "Divine Atonement",
+      "Timeline Contradiction",
+      "Adam's Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes God seeing the moon was not comforted and declaring an atonement for diminishing it, along with Reish Lakish's teaching about the Rosh Chodesh goat offering \u2014 exactly what the 'Divine Atonement' section's prose discusses.",
+      "chosen_heading": "Divine Atonement",
+      "current_heading": "Divine Atonement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Adam's Prayer",
+    "candidates": [
+      "Timeline Contradiction",
+      "Adam's Prayer",
+      "Nachman's Garden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the contradiction between the two verses (third day vs. sixth day) AND resolves it, meaning the full content \u2014 both the contradiction and its resolution \u2014 belongs under the 'Timeline Contradiction' heading, which is where the essay prose discusses this exact textual problem; the current placement under 'Adam's Prayer' only covers the resolution half, splitting what is a single unified Talmudic passage.",
+      "chosen_heading": "Timeline Contradiction",
+      "current_heading": "Adam's Prayer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Nachman's Garden",
+    "candidates": [
+      "Adam's Prayer",
+      "Nachman's Garden",
+      "Prayer Mechanism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rav Na\u1e25man bar Pappa's garden (seeds sown, no growth, prayer, rain, sprouting) is explicitly discussed in the 'Nachman's Garden' section prose, which describes this exact story as a practical illustration of the principle established in the Adam's Prayer section.",
+      "chosen_heading": "Nachman's Garden",
+      "current_heading": "Nachman's Garden",
+      "moved": false
+    }
+  }
+]

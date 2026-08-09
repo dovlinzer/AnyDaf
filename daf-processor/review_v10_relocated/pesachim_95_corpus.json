@@ -1,0 +1,240 @@
+[
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Hallel Eating",
+    "candidates": [
+      "Tammei/Rechoka Ptur",
+      "Tikkun/Tashlumin",
+      "Chazal Science",
+      "Duration Mil",
+      "Shkia/Tzeis",
+      "Cosmology Halacha",
+      "Geography Season",
+      "Chometz Chametz",
+      "Hallel Eating",
+      "Override Shabbat",
+      "Gufo Classification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The Mishnah passage covers the differences between Pesach Rishon and Pesach Sheni including chametz/matzah, Hallel, roasting, and Shabbat override \u2014 its opening distinction about bal yeira'eh/bal yimatzei and chametz u-matzah imo ba-bayit is precisely what the 'Chometz Chametz' section's prose discusses, making that the correct home for this Mishnah.",
+      "chosen_heading": "Chometz Chametz",
+      "current_heading": "Hallel Eating",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Gufo Classification",
+    "candidates": [
+      "Override Shabbat",
+      "Gufo Classification",
+      "Isi ben Yehuda"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Gufo Classification",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the Baraita and Isi ben Yehuda's dispute about deriving which laws apply to Pesach Sheni based on 'gufo' classification, matching the 'Gufo Classification' prose exactly.",
+      "second_heading": "Isi ben Yehuda",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 focus on the Gemara's analysis of Isi ben Yehuda's position \u2014 why the Rabbis needed v'etzem lo yishberu bo and what Isi does with that verse \u2014 matching the 'Isi ben Yehuda' prose exactly.",
+      "current_heading": "Gufo Classification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Isi ben Yehuda",
+    "candidates": [
+      "Isi ben Yehuda",
+      "Three Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabbis' derivation from 'ya'asu oto' regarding not slaughtering the Paschal lamb for an individual, which is precisely the content discussed in the 'Isi ben Yehuda' section's prose about what the Rabbis do with 'ya'asu oto' after using 'v'etzem lo yishberu bo' for limiting purposes.",
+      "chosen_heading": "Isi ben Yehuda",
+      "current_heading": "Isi ben Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Three Categories",
+    "candidates": [
+      "Three Categories",
+      "Lo Totzi/Chaburah",
+      "Hallel Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items constitute the baraita and Gemara analysis of the three categories (mitzvat asei, lo ta'asei she-nitak la-asei, lo ta'asei gamur) for Pesach Sheni, exactly matching the 'Three Categories' section's prose about the klal u-prat structure, the inclusions and exclusions, and the parallel examples from matzot u-merorim, lo yash'iru, and v'etzem lo yishberu.",
+      "chosen_heading": "Three Categories",
+      "current_heading": "Three Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Hallel Derivation",
+    "candidates": [
+      "Lo Totzi/Chaburah",
+      "Hallel Derivation",
+      "Maggid Omission",
+      "Philo Jubilees",
+      "Shechirah Hallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly derives the Hallel requirement for Pesach Rishon vs. Pesach Sheni from the verse 'hashir yihyeh lachem ke-leil hiskadesh chag,' which is exactly what the 'Hallel Derivation' section's prose describes.",
+      "chosen_heading": "Hallel Derivation",
+      "current_heading": "Hallel Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Shechirah Hallel",
+    "candidates": [
+      "Maggid Omission",
+      "Philo Jubilees",
+      "Shechirah Hallel",
+      "Tosefta Lina"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shechirah Hallel",
+      "first_confidence": "high",
+      "first_reason": "Items 1 is about Hallel be-asiyatan and the two reasons why it applies to Pesach Sheni, which is exactly what the 'Shechirah Hallel' prose discusses.",
+      "second_heading": "Tosefta Lina",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 shift to an entirely new Mishnaic topic \u2014 whether Pesach Sheni overrides Shabbat and/or ritual impurity, including a dispute between the first Tanna and Rabbi Yehuda \u2014 which is a self-contained unit unrelated to Hallel, and best matches the 'Tosefta Lina' section's discussion of how Pesach Sheni differs structurally from Pesach Rishon in its laws.",
+      "current_heading": "Shechirah Hallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Tosefta Lina",
+    "candidates": [
+      "Tosefta Lina",
+      "Eating Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly concern the *lina* requirement for Pesach Sheni and the dispute about whether Rabbi Yehuda holds it applies, which is precisely the topic of the 'Tosefta Lina' section's prose.",
+      "chosen_heading": "Tosefta Lina",
+      "current_heading": "Tosefta Lina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Eating Tumah",
+    "candidates": [
+      "Eating Tumah",
+      "Eliezer Azarah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishna about Pesach she-ba be-tumah and who may not eat from it (zavim, zavot, niddot, yoldot) and their exemption from karet, which is precisely what the 'Eating Tumah' prose section discusses.",
+      "chosen_heading": "Eating Tumah",
+      "current_heading": "Eating Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Eliezer Azarah",
+    "candidates": [
+      "Eliezer Azarah",
+      "Pesukim Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rabbi Eliezer's ruling exempting zavim/metzora'im from karet for entering the Temple, which matches heading 0's prose about Rabbi Eliezer's ruling that they would be patur from karet for entering the Azarah, not heading 1 which covers the scriptural derivations behind these rulings.",
+      "chosen_heading": "Eliezer Azarah",
+      "current_heading": "Eliezer Azarah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Pesukim Tamei",
+    "candidates": [
+      "Pesukim Tamei",
+      "Yosef Heikhal",
+      "Rava Heikhal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Pesukim Tamei",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the baraita about zavim/zavot/niddot eating the Paschal lamb in impurity and Rabbi Eliezer's ruling about entering the Azarah, exactly matching the 'Pesukim Tamei' prose.",
+      "second_heading": "Yosef Heikhal",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 present Rav Yosef's question about entering the Heikhal and Rava's two answers, which match the 'Yosef Heikhal' and 'Rava Heikhal' sections \u2014 but since items 4-6 span both headings 1 and 2, the split_after=3 places item 4 under 'Yosef Heikhal' which is its best match, with items 5-6 (Rava's answers) naturally following in that same section or the next.",
+      "current_heading": "Pesukim Tamei",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Tarmod Problems",
+    "candidates": [
+      "Overview",
+      "Haggai's Testimony",
+      "R. Yochanan Contradiction",
+      "Tarmod Problems",
+      "Non-Jew = Mamzer?",
+      "Tosafot Analysis",
+      "Patrilineal Descent",
+      "Benot Yerushalayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses why converts from Tarmod are not accepted and presents the Rabbi Yochanan/Elders dispute about the reason (servants of Solomon vs. daughters of Jerusalem), which is precisely what section 2 ('R. Yochanan Contradiction') sets up as investigating the underlying problems with Tarmod, while section 3 ('Tarmod Problems') already describes this exact content in its prose, confirming the current placement is actually correct \u2014 but section 2's prose ('now investigates what the underlying problems with Tarmod actually were') is the direct lead-in that introduces this passage.",
+      "chosen_heading": "R. Yochanan Contradiction",
+      "current_heading": "Tarmod Problems",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Benot Yerushalayim",
+    "candidates": [
+      "Non-Jew = Mamzer?",
+      "Tosafot Analysis",
+      "Patrilineal Descent",
+      "Benot Yerushalayim",
+      "Metatron Passage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly concern the 'benot Yerushalayim' explanation for the Tarmod concern \u2014 item 1 raises the question about this opinion and introduces the Rav Yosef/Rabbis dispute, and item 2 provides the substance of that dispute (the 12,000 men who turned to the daughters of Jerusalem during the churban), exactly matching the prose of heading 3.",
+      "chosen_heading": "Benot Yerushalayim",
+      "current_heading": "Benot Yerushalayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Metatron Passage",
+    "candidates": [
+      "Metatron Passage",
+      "Sefer Torah Burned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the 'sar ha'olam' saying the verse about youth and old age, which is precisely what the Metatron Passage prose describes.",
+      "chosen_heading": "Metatron Passage",
+      "current_heading": "Metatron Passage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Sefer Torah Burned",
+    "candidates": [
+      "Sefer Torah Burned",
+      "Ammon & Moab"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ammon and Moab burning the Sefer Torah specifically, which directly matches the 'Sefer Torah Burned' section's prose that explicitly discusses this same drasha about yado paras tzar, the burning of the Torah scroll, and the Maharsha's wordplay.",
+      "chosen_heading": "Sefer Torah Burned",
+      "current_heading": "Sefer Torah Burned",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Ammon & Moab",
+    "candidates": [
+      "Ammon & Moab",
+      "Ten Tribes Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav's statement connecting Lamentations 1:17 to Homanya and Pum Nahara in the context of Ammonite adversaries, which is precisely what the 'Ammon & Moab' section's prose discusses.",
+      "chosen_heading": "Ammon & Moab",
+      "current_heading": "Ammon & Moab",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Ten Tribes Concern",
+    "candidates": [
+      "Ten Tribes Concern",
+      "Shmuel's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit discussing the ten tribes concern \u2014 the initial ruling, the objection about majority principle, the response about permanent dwelling places, and the identification of those locations \u2014 which is precisely what the 'Ten Tribes Concern' prose describes in detail.",
+      "chosen_heading": "Ten Tribes Concern",
+      "current_heading": "Ten Tribes Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Shmuel's Response",
+    "candidates": [
+      "Shmuel's Response",
+      "Scripture & Inheritance",
+      "Ravina's Inference",
+      "Infertile Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's direct response to Rav Yehuda about matrilineal descent, which is precisely what candidate 0 ('Shmuel's Response') discusses in its prose.",
+      "chosen_heading": "Shmuel's Response",
+      "current_heading": "Shmuel's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Infertile Women",
+    "candidates": [
+      "Scripture & Inheritance",
+      "Ravina's Inference",
+      "Infertile Women",
+      "Assimilation View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Ravina's inference ('ben bitcha haba min hagoy karuy bincha') followed by the tradition about the girls becoming barren, and candidate 1 ('Ravina's Inference') is the section whose prose explicitly discusses Ravina's statement about the son of your daughter being called your son \u2014 the barren-women tradition is the Gemara's answer to the challenge raised in that same discussion, making it part of that unit rather than a standalone 'Infertile Women' section.",
+      "chosen_heading": "Ravina's Inference",
+      "current_heading": "Infertile Women",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Assimilation View",
+    "candidates": [
+      "Infertile Women",
+      "Assimilation View",
+      "Rav Hamnuna Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the alternative version of the tradition where Shmuel said they were made into complete non-Jews with the Hoshea verse cited, which is precisely what the 'Assimilation View' prose section describes.",
+      "chosen_heading": "Assimilation View",
+      "current_heading": "Assimilation View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Rav Hamnuna Story",
+    "candidates": [
+      "Rav Hamnuna Story",
+      "Harfanya City"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Rav Hamnuna Story",
+      "current_heading": "Rav Hamnuna Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Harfanya City",
+    "candidates": [
+      "Harfanya City",
+      "Hierarchy of Defect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the meaning of Harpanya (Rabbi Zeira's drash and the baraita) and Rava's 'deeper than the netherworld' statement, all of which are discussed together in candidate 0's prose about the city's name and social portrait, while candidate 1's prose focuses on the subsequent genealogical chain (Meshang, Tarmod, Solomon's servants) which is not part of this passage.",
+      "chosen_heading": "Harfanya City",
+      "current_heading": "Harfanya City",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Hierarchy of Defect",
+    "candidates": [
+      "Hierarchy of Defect",
+      "Mamzeirut Irredeemable",
+      "Scenario Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly describe the chain of disqualification from Harpanya through Meishon and Tarmod to Solomon's servants, and the folk saying about the large and small measures rolling to she'ol and onward \u2014 exactly the content described in the 'Hierarchy of Defect' prose.",
+      "chosen_heading": "Hierarchy of Defect",
+      "current_heading": "Hierarchy of Defect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Scenario Setup",
+    "candidates": [
+      "Mamzeirut Irredeemable",
+      "Scenario Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The 'Hadr\u00e1n' formula marks the end of a tractate or chapter, which fits better as a concluding element under the 'Mamzeirut Irredeemable' section that describes the passage as a distillation of the major concerns of Masechet Yevamot, rather than under the 'Scenario Setup' section which introduces a new perek's mishna.",
+      "chosen_heading": "Mamzeirut Irredeemable",
+      "current_heading": "Scenario Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Scenario Setup",
+    "candidates": [
+      "Scenario Setup",
+      "Rachel & Sarah Status",
+      "Maamar Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage directly presents the scenario setup of two brothers dying and a third born later, which is exactly what the 'Scenario Setup' prose explains in detail.",
+      "chosen_heading": "Scenario Setup",
+      "current_heading": "Scenario Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Maamar Case",
+    "candidates": [
+      "Rachel & Sarah Status",
+      "Maamar Case",
+      "Textual Variants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the maamar case where the second brother performed levirate betrothal and then died, resulting in chalitza but not yibum for the second wife \u2014 matching exactly the 'Maamar Case' prose discussion.",
+      "chosen_heading": "Maamar Case",
+      "current_heading": "Maamar Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Textual Variants",
+    "candidates": [
+      "Textual Variants",
+      "Simultaneous Living",
+      "Paternal Brothers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rav Na\u1e25man's ruling that neither the 'first' nor 'second' textual variant is mistaken, which matches exactly the 'Textual Variants' section's prose about rishona/shniya and their interpretations.",
+      "chosen_heading": "Textual Variants",
+      "current_heading": "Textual Variants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Paternal Brothers",
+    "candidates": [
+      "Simultaneous Living",
+      "Paternal Brothers",
+      "Yachdav Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the derivation that yibum applies only to paternal brothers \u2014 item 1 derives this from 'yachdav' meaning unified in inheritance, and item 2 gives Rabba's verbal analogy from Jacob's sons \u2014 exactly matching the 'Paternal Brothers' prose which covers both the yachdav/nachala derivation and Rabba's Jacob's sons analogy.",
+      "chosen_heading": "Paternal Brothers",
+      "current_heading": "Paternal Brothers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Yachdav Meaning",
+    "candidates": [
+      "Yachdav Meaning",
+      "Both Words Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the verbal analogy (gezerah shavah) debate about deriving 'achim' \u2014 first rejecting arayot as a source, then the Rabbi Yishmael objection and response, then rejecting Lot as a source \u2014 which is precisely what the 'Yachdav Meaning' prose describes in detail.",
+      "chosen_heading": "Yachdav Meaning",
+      "current_heading": "Yachdav Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Both Words Needed",
+    "candidates": [
+      "Both Words Needed",
+      "Yibum & Inheritance",
+      "Closest Relationship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items address exactly why both 'achim' and 'yachdav' were necessary \u2014 the precise topic of candidate 0's prose \u2014 covering the risk of deriving from Lot, the need to exclude full-brotherhood requirements, and the inheritance-based clarification, all of which are explicitly laid out in candidate 0's discussion.",
+      "chosen_heading": "Both Words Needed",
+      "current_heading": "Both Words Needed",
+      "moved": false
+    }
+  }
+]

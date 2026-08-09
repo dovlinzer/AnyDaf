@@ -1,0 +1,423 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Wall vs. Door Metaphor",
+    "candidates": [
+      "Intro: Yeridat HaDorot",
+      "Reish Lakish in Jordan",
+      "Wall vs. Door Metaphor",
+      "Arez & Sasmagor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Reish Lakish swimming in the Jordan, Rabbah bar bar \u1e24ana helping him out, and Reish Lakish's initial remark with the verse citation \u2014 exactly what the 'Reish Lakish in Jordan' section prose discusses, before the detailed wall/door explanation covered in section 2.",
+      "chosen_heading": "Reish Lakish in Jordan",
+      "current_heading": "Wall vs. Door Metaphor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Arez & Sasmagor",
+    "candidates": [
+      "Wall vs. Door Metaphor",
+      "Arez & Sasmagor",
+      "Reish Lakish's Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses sasmagor, bat kol, and the baraita about Ruach HaKodesh departing after the last prophets \u2014 exactly what the 'Arez & Sasmagor' section's prose discusses.",
+      "chosen_heading": "Arez & Sasmagor",
+      "current_heading": "Arez & Sasmagor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Reish Lakish's Silence",
+    "candidates": [
+      "Reish Lakish's Silence",
+      "Rav Pappa's Solution",
+      "Rabbi Yochanan's Response",
+      "Persia & Yafet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Reish Lakish's selectivity in speaking with others and the question of whether he would speak with Rabbah bar bar \u1e24ana, which is precisely what the prose under 'Reish Lakish's Silence' describes.",
+      "chosen_heading": "Reish Lakish's Silence",
+      "current_heading": "Reish Lakish's Silence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Persia & Yafet",
+    "candidates": [
+      "Rav Pappa's Solution",
+      "Rabbi Yochanan's Response",
+      "Persia & Yafet",
+      "Sons of Yafet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yochanan's response to Reish Lakish's view \u2014 his rejection of the 'failed aliyah' explanation and his citation of the 'tents of Shem' verse \u2014 which is precisely what candidate 1 ('Rabbi Yochanan's Response') discusses, not the elaboration on Persia/Yafet theology in candidate 2.",
+      "chosen_heading": "Rabbi Yochanan's Response",
+      "current_heading": "Persia & Yafet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Sons of Yafet",
+    "candidates": [
+      "Persia & Yafet",
+      "Sons of Yafet",
+      "Sakastan Geography"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage identifies the sons of Japheth with known nations and concludes that Tiras is Persia, which is exactly what the 'Sons of Yafet' section's prose describes in detail.",
+      "chosen_heading": "Sons of Yafet",
+      "current_heading": "Sons of Yafet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Sakastan Geography",
+    "candidates": [
+      "Sakastan Geography",
+      "Nimrod's Cities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the geographical identification of Sabtah and Sabteca with inner and outer Sakistan and their distances, which matches exactly what the 'Sakastan Geography' section prose describes.",
+      "chosen_heading": "Sakastan Geography",
+      "current_heading": "Sakastan Geography",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Nimrod's Cities",
+    "candidates": [
+      "Nimrod's Cities",
+      "Ashur's Cities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage identifies Babel, Erech, Accad, and Calneh \u2014 exactly Nimrod's cities as discussed in candidate 0's prose, which explicitly covers these same identifications.",
+      "chosen_heading": "Nimrod's Cities",
+      "current_heading": "Nimrod's Cities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Ashur's Cities",
+    "candidates": [
+      "Ashur's Cities",
+      "The Giants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the identification of Asshur's cities (Nineveh, Rehoboth-ir, Calah, Resen) and matches precisely the content described in candidate 0's prose.",
+      "chosen_heading": "Ashur's Cities",
+      "current_heading": "Ashur's Cities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "The Giants",
+    "candidates": [
+      "The Giants",
+      "Rome Falls to Persia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Ahiman, Sheshai, and Talmai \u2014 the giant sons of Anak encountered by the scouts \u2014 which matches perfectly with the 'The Giants' section prose that explicitly discusses these same figures and their name interpretations.",
+      "chosen_heading": "The Giants",
+      "current_heading": "The Giants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Rome Falls to Persia",
+    "candidates": [
+      "Rome Falls to Persia",
+      "Kal VaComer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Yehoshua ben Levi's statement that Rome will fall to Persia, Rabba bar Ulla's objection about 'youngest of the flock,' and the resolution by the Sage before Rav \u1e24aviva bar Surmakei \u2014 form one continuous dispute-and-resolution chain that is fully described in the 'Rome Falls to Persia' prose.",
+      "chosen_heading": "Rome Falls to Persia",
+      "current_heading": "Rome Falls to Persia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Kal VaComer",
+    "candidates": [
+      "Kal VaComer",
+      "Rav's Correction",
+      "Builders vs. Destroyers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the kal vachomer argument about Rome falling to Persia, which is exactly what candidate 0 discusses in detail.",
+      "chosen_heading": "Kal VaComer",
+      "current_heading": "Kal VaComer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Builders vs. Destroyers",
+    "candidates": [
+      "Rav's Correction",
+      "Builders vs. Destroyers",
+      "Mashiach & Rome"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav's statement that Persia will fall to Rome, which is exactly what heading 0 ('Rav's Correction') describes \u2014 Rav disagreeing and saying Persia falls to Rome \u2014 while heading 1's prose covers the students' reaction and the subsequent discussion, which are separate textual items.",
+      "chosen_heading": "Rav's Correction",
+      "current_heading": "Builders vs. Destroyers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Mashiach & Rome",
+    "candidates": [
+      "Builders vs. Destroyers",
+      "Mashiach & Rome",
+      "Mishnah: Chambers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita in this passage discusses Persia falling to Rome because they destroyed synagogues and because of the divine decree that builders fall to destroyers \u2014 content that directly matches the 'Builders vs. Destroyers' section prose, which explicitly references 'Tanya nami hachi' and this exact baraita, whereas the Rav Yehuda/Rav statement about nine months is a supporting proof cited within that context, not the primary focus.",
+      "chosen_heading": "Builders vs. Destroyers",
+      "current_heading": "Mashiach & Rome",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Mishnah: Chambers",
+    "candidates": [
+      "Mishnah: Chambers",
+      "Rabbi Yehudah's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the baraita about chambers lacking mezuzot except for Lishkat Parhedrin, which is precisely what the prose under 'Mishnah: Chambers' discusses, not Rabbi Yehuda's objection.",
+      "chosen_heading": "Mishnah: Chambers",
+      "current_heading": "Mishnah: Chambers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Rabbi Yehudah's Objection",
+    "candidates": [
+      "Rabbi Yehudah's Objection",
+      "Definition of Bayit",
+      "Winter/Summer House"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehuda's objection about Temple chambers lacking mezuzot and his conclusion that Lishkat Parhedrin's mezuzah was a rabbinic decree, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Rabbi Yehudah's Objection",
+      "current_heading": "Rabbi Yehudah's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Winter/Summer House",
+    "candidates": [
+      "Definition of Bayit",
+      "Winter/Summer House",
+      "Sukkah & Mezuzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's explanation of Rabbi Yehuda's position AND Abaye's objection from the winter/summer house verse along with Rava's rebuttal \u2014 exactly matching the 'Winter/Summer House' section's prose, which covers all these elements together.",
+      "chosen_heading": "Winter/Summer House",
+      "current_heading": "Winter/Summer House",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Sukkah & Mezuzah",
+    "candidates": [
+      "Sukkah & Mezuzah",
+      "Ma'aser Discussion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sukkah & Mezuzah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Abaye's objection about the sukka's status requiring mezuza, eruv, and ma'aser, which matches heading 0's prose describing exactly this objection and the baraita about Rabbi Yehuda's three obligations.",
+      "second_heading": "Ma'aser Discussion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the question of whether Rabbi Yehuda's obligations could be merely rabbinic, which matches heading 1's prose that directly addresses this 'bishlama eruv mezuzah miderabbanan' argument and why ma'aser cannot be merely rabbinic.",
+      "current_heading": "Sukkah & Mezuzah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Ma'aser Discussion",
+    "candidates": [
+      "Ma'aser Discussion",
+      "Rava's Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the concern of separating tithes from obligated produce for exempt produce (or vice versa), which is precisely what the 'Ma'aser Discussion' prose explains in detail.",
+      "chosen_heading": "Ma'aser Discussion",
+      "current_heading": "Ma'aser Discussion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138,
+      139
+    ],
+    "current_heading": "Rava's Clarification",
+    "candidates": [
+      "Rava's Clarification",
+      "Distinct Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Abaye's resolution, Rava's objection to it, and Rava's own resolution \u2014 which is precisely what candidate 0's prose describes, including the key phrases 'Ella amar Rava' and 'Sukkah taima le-chud ve-lishka taima le-chud'.",
+      "chosen_heading": "Rava's Clarification",
+      "current_heading": "Rava's Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Distinct Reasons",
+    "candidates": [
+      "Distinct Reasons",
+      "Forced Dwelling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the sukkah debate between Rabbi Yehuda and the Rabbis regarding permanent vs. temporary dwelling and mezuza obligation, which matches exactly the prose under 'Distinct Reasons'.",
+      "chosen_heading": "Distinct Reasons",
+      "current_heading": "Distinct Reasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Forced Dwelling",
+    "candidates": [
+      "Forced Dwelling",
+      "Decree on Lishkat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Rabbanan/Rabbi Yehuda dispute about forced dwelling AND the rabbinic decree for Lishkat Parhedrin, but the current placement under 'Forced Dwelling' is correct since that section's prose explicitly discusses both positions including the rabbinic decree context, while candidate 1 ('Decree on Lishkat') is the essay author's own analytical commentary built upon this Gemara rather than the home of the source text itself.",
+      "chosen_heading": "Forced Dwelling",
+      "current_heading": "Forced Dwelling",
+      "moved": false
+    }
+  }
+]

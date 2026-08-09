@@ -1,0 +1,320 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Pogemet Ketubah",
+    "candidates": [
+      "Review of Ketubot 86b",
+      "Exemption from Oaths",
+      "Neder vs. Shevu'ah",
+      "Apotropaya Interpretation",
+      "Pogemet Ketubah",
+      "Rav Ashi's Clarification",
+      "Why Not Apotropaya?",
+      "Pogemet as Plain Sense",
+      "Apotropaya in Seifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together constitute the gemara's opening question ('what is the purpose of the oath?'), Rav Yehuda/Rav's answer about apotropaya, Rav Nachman's answer about pogemet, and Rav Mordekhai's challenge to Rav Ashi contrasting the two positions \u2014 this is precisely the content described in the 'Apotropaya Interpretation' section's prose, which opens with 'shevuah mai avidatei' and introduces both competing answers before the debate is resolved.",
+      "chosen_heading": "Apotropaya Interpretation",
+      "current_heading": "Pogemet Ketubah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Apotropaya in Seifa",
+    "candidates": [
+      "Rav Ashi's Clarification",
+      "Why Not Apotropaya?",
+      "Pogemet as Plain Sense",
+      "Apotropaya in Seifa",
+      "Mishnah on Heirs' Rights",
+      "Rav Yehuda's Ruling",
+      "Oath Between Mita-Kevura",
+      "Rav Matna's Position",
+      "Urgent Sales Doctrine",
+      "Rashi's Rationale",
+      "Tosafot's Fear",
+      "Dela vs. Naki",
+      "Rabba's Interpretation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Apotropaya in Seifa",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain Rav Ashi's reframing of Rav Yehuda's statement to the seifa and the clarification of 'the past' meaning apitropaya during the husband's lifetime, which is precisely what candidate 3's prose describes as Rav Ashi explaining that Rav Yehuda's statement belongs to the seifa.",
+      "second_heading": "Oath Between Mita-Kevura",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the dispute between Rav Yehuda (oath between death and burial) and Rav Mattana (no oath even then, citing Nehardea's urgent sales doctrine), which matches candidate 6's prose about Rav Yehuda's ruling on the mita-kevura period.",
+      "current_heading": "Apotropaya in Seifa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rabba's Interpretation",
+    "candidates": [
+      "Mishnah on Heirs' Rights",
+      "Rav Yehuda's Ruling",
+      "Oath Between Mita-Kevura",
+      "Rav Matna's Position",
+      "Urgent Sales Doctrine",
+      "Rashi's Rationale",
+      "Tosafot's Fear",
+      "Dela vs. Naki",
+      "Rabba's Interpretation",
+      "Rav Yosef's Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabba's ruling distinguishing 'dela neder/dela shevuah' from 'naki neder/naki shevuah' and their implications for the husband vs. heirs, which is precisely what heading 8 ('Rabba's Interpretation') discusses.",
+      "chosen_heading": "Rabba's Interpretation",
+      "current_heading": "Rabba's Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rav Yosef's Counter",
+    "candidates": [
+      "Rav Yosef's Counter",
+      "Rav Zakai's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yosef's ruling in the name of Rabbi \u1e24iyya distinguishing between the 'dela' and 'naki' formulations, which is precisely what the prose under 'Rav Yosef's Counter' describes.",
+      "chosen_heading": "Rav Yosef's Counter",
+      "current_heading": "Rav Yosef's Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rav Zakai's Resolution",
+    "candidates": [
+      "Rav Zakai's Resolution",
+      "Complete Exemption",
+      "Creditor Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Zakai's ruling to Mar Ukva distinguishing between 'b'nichsai' and 'minichsaya ilin' formulations, which is precisely what the prose under 'Rav Zakai's Resolution' explains.",
+      "chosen_heading": "Rav Zakai's Resolution",
+      "current_heading": "Rav Zakai's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Creditor Exception",
+    "candidates": [
+      "Complete Exemption",
+      "Creditor Exception",
+      "Two Types of Oaths",
+      "Mishnah Cases",
+      "Meshubadim & Debtors",
+      "Case-by-Case Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items contain the ruling of Abba Shaul ben Imma Miriam about all formulations of oath exemption and the caveat about orphans' oath, which is precisely what heading 0 ('Complete Exemption') discusses \u2014 including the final ruling 'halachah k'ven Ima Miriam' \u2014 making it a clearly better match than the current placement under 'Creditor Exception' which focuses only on the caveat portion.",
+      "chosen_heading": "Complete Exemption",
+      "current_heading": "Creditor Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Case-by-Case Analysis",
+    "candidates": [
+      "Two Types of Oaths",
+      "Mishnah Cases",
+      "Meshubadim & Debtors",
+      "Case-by-Case Analysis",
+      "Rami Bar Chama"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Mishnah Cases",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the Mishnah's opening cases (pogemet, one witness, and their elaborations) which match heading 'Mishnah Cases' discussing hapogemes kesuvasah and ed echad meidah.",
+      "second_heading": "Meshubadim & Debtors",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 cover the meshubadim, yetomim, and shelo b'fanav cases which match heading 'Meshubadim & Debtors' discussing collecting from liened property and in the debtor's absence.",
+      "current_heading": "Case-by-Case Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Rami Bar Chama",
+    "candidates": [
+      "Case-by-Case Analysis",
+      "Rami Bar Chama",
+      "Rava's Refutation I",
+      "Rava's Refutation II",
+      "Rabbinic Purpose",
+      "Psychology of Memory"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Case-by-Case Analysis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Shimon's statement about heirs administering an oath, which the 'Case-by-Case Analysis' prose explicitly mentions as the closing view of the mishnah section.",
+      "second_heading": "Rami Bar Chama",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the Gemara's discussion of Rami bar Chama's proposal and Rava's two refutations, which match exactly what the 'Rami Bar Chama' prose describes as the foundational analytical question about whether the oath is biblical or rabbinic.",
+      "current_heading": "Rami Bar Chama",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Psychology of Memory",
+    "candidates": [
+      "Rava's Refutation I",
+      "Rava's Refutation II",
+      "Rabbinic Purpose",
+      "Psychology of Memory",
+      "Witnesses Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's conclusion that the oath is rabbinic (miderabbanan) and his explanation of the psychological rationale \u2014 precisely what the 'Rabbinic Purpose' section's prose introduces, before the detailed elaboration in 'Psychology of Memory.'",
+      "chosen_heading": "Rabbinic Purpose",
+      "current_heading": "Psychology of Memory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Witnesses Question",
+    "candidates": [
+      "Psychology of Memory",
+      "Witnesses Question",
+      "Oath Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly poses the dilemma about a woman who vitiates her ketubah in the presence of witnesses, which is precisely what the 'Witnesses Question' prose describes as the first gemara question about variations on the pogemet case.",
+      "chosen_heading": "Witnesses Question",
+      "current_heading": "Witnesses Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Oath Categories",
+    "candidates": [
+      "Oath Categories",
+      "Precise Accounting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact challenge-and-rebuttal sequence described in the 'Oath Categories' prose \u2014 the mishna citation about who swears and collects, the initial reading that witnesses exempts from oath, and the lo mibaya reversal \u2014 all of which are explicitly narrated in that section's prose.",
+      "chosen_heading": "Oath Categories",
+      "current_heading": "Oath Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Precise Accounting",
+    "candidates": [
+      "Precise Accounting",
+      "Precision Paradox",
+      "Reduced Amount",
+      "Conceding Lesser Amount",
+      "False Document Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma about extreme precision in vitiation of the ketubah, which is exactly what 'Precise Accounting' introduces, with the 'Precision Paradox' section handling the counter-argument and teiku conclusion \u2014 but the Gemara text itself (including the teiku) belongs under the heading that introduces the question, which is index 0.",
+      "chosen_heading": "Precise Accounting",
+      "current_heading": "Precise Accounting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128
+    ],
+    "current_heading": "False Document Resolution",
+    "candidates": [
+      "Precision Paradox",
+      "Reduced Amount",
+      "Conceding Lesser Amount",
+      "False Document Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous discussion of 'pocheshes kesuvasah' (reducing the marriage contract amount), with item 1 raising the dilemma, item 2 resolving it with a baraita, and item 3 addressing the document validity problem \u2014 this entire chain begins with the question posed in candidate 1 ('Reduced Amount'), while candidate 3 ('False Document Resolution') covers only the tail end, making candidate 1 the true home for the whole passage.",
+      "chosen_heading": "Reduced Amount",
+      "current_heading": "False Document Resolution",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,405 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Borrowing Precedence",
+    "candidates": [
+      "Two Moments Debate",
+      "Borrowing Precedence",
+      "Rav Ashi's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous debate about which moment (borrowing vs. injury/death) is determinative for the ba'alav imo exemption \u2014 item 1 sets up the conclusion that borrowing is primary, items 2-4 are the aipoch challenge and its resolution \u2014 which is precisely what candidate 0 ('Two Moments Debate') describes in its prose, including the specific aipoch challenge and the mistavra she'elah adifa reasoning.",
+      "chosen_heading": "Two Moments Debate",
+      "current_heading": "Borrowing Precedence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Rav Ashi's Proof",
+    "candidates": [
+      "Borrowing Precedence",
+      "Rav Ashi's Proof",
+      "Forbidden Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rav Ashi's derivation from the verse and the Gemara's follow-up question about why the explicit clauses are needed \u2014 exactly what the 'Rav Ashi's Proof' prose describes.",
+      "chosen_heading": "Rav Ashi's Proof",
+      "current_heading": "Rav Ashi's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Forbidden Purpose",
+    "candidates": [
+      "Forbidden Purpose",
+      "Appearance Benefit",
+      "Sub-Pruta Benefit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Forbidden Purpose",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the bestiality/forbidden purpose dilemma discussed in candidate 0's prose about borrowing for a forbidden purpose and the hana'ah principle.",
+      "second_heading": "Appearance Benefit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the 'borrowed to be seen with it' dilemma, which matches candidate 1's prose about borrowing for appearance's sake and the mamona/hana'ah distinction.",
+      "current_heading": "Forbidden Purpose",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Sub-Pruta Benefit",
+    "candidates": [
+      "Appearance Benefit",
+      "Sub-Pruta Benefit",
+      "Multiple Items Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses borrowing an item to perform work worth less than one peruta, which matches exactly the 'Sub-Pruta Benefit' section's prose about pachot mipruta and whether sub-pruta benefit constitutes meaningful borrower liability.",
+      "chosen_heading": "Sub-Pruta Benefit",
+      "current_heading": "Sub-Pruta Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Multiple Items Benefit",
+    "candidates": [
+      "Multiple Items Benefit",
+      "Multiple Lenders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses borrowing two cows to perform one peruta's worth of work combined, which is precisely what the 'Multiple Items Benefit' prose describes in detail.",
+      "chosen_heading": "Multiple Items Benefit",
+      "current_heading": "Multiple Items Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Multiple Lenders",
+    "candidates": [
+      "Multiple Lenders",
+      "Multiple Borrowers",
+      "Wife as Lender",
+      "Wife as Borrower",
+      "Kinyan Peirot Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Multiple Lenders",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the case of one borrower borrowing from two partners with one partner working for him, which is precisely what heading 0 ('Multiple Lenders') describes in its prose.",
+      "second_heading": "Multiple Borrowers",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the case of two partners jointly borrowing with the owner working for one of them, which is precisely what heading 1 ('Multiple Borrowers') describes in its prose.",
+      "current_heading": "Multiple Lenders",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Kinyan Peirot Debate",
+    "candidates": [
+      "Multiple Borrowers",
+      "Wife as Lender",
+      "Wife as Borrower",
+      "Kinyan Peirot Debate",
+      "Messenger Representation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the two wife-related questions (borrowing from a woman while her husband is employed, and a woman borrowing while the owner works for her husband), which corresponds to the 'Wife as Lender' section's prose about borrowing property belonging to a wife with husband's usage rights \u2014 the current placement under 'Kinyan Peirot Debate' is too late, as that section discusses the underlying principle rather than posing the questions themselves.",
+      "chosen_heading": "Wife as Lender",
+      "current_heading": "Kinyan Peirot Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Messenger Representation",
+    "candidates": [
+      "Kinyan Peirot Debate",
+      "Messenger Representation",
+      "Related Debates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's question to Rav Ashi about whether sending an agent (shliach) to accompany the borrowed cow satisfies ba'alav imo, which is precisely what the 'Messenger Representation' section's prose describes and discusses.",
+      "chosen_heading": "Messenger Representation",
+      "current_heading": "Messenger Representation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Related Debates",
+    "candidates": [
+      "Related Debates",
+      "Rabbi Yonatan vs. Yoshiya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items concern the husband's kinyan peiros debate between Rabbi Yochanan and Reish Lakish, which is precisely what the 'Related Debates' prose describes in detail, including the bikurim case and the kinyan peiros ke-kinyan ha-guf principle.",
+      "chosen_heading": "Related Debates",
+      "current_heading": "Related Debates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rabbi Yonatan vs. Yoshiya",
+    "candidates": [
+      "Rabbi Yonatan vs. Yoshiya",
+      "Slave Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Baraita about Rabbi Yoshiya and Rabbi Yonatan disputing whether an agent can nullify a wife's vows, which is precisely what the prose under 'Rabbi Yonatan vs. Yoshiya' discusses in detail.",
+      "chosen_heading": "Rabbi Yonatan vs. Yoshiya",
+      "current_heading": "Rabbi Yonatan vs. Yoshiya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Slave Extension",
+    "candidates": [
+      "Slave Extension",
+      "Liability Category"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous Gemara discussion about Rav Ilish's question to Rava regarding the slave accompanying the borrowed cow, which is precisely what the 'Slave Extension' prose describes in detail.",
+      "chosen_heading": "Slave Extension",
+      "current_heading": "Slave Extension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Liability Category",
+    "candidates": [
+      "Liability Category",
+      "Rental to Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the opening of Rami bar \u1e24ama's dilemma about a husband's liability category with respect to his wife's usufruct property, which is precisely what Candidate 0 ('Liability Category') discusses as its central topic.",
+      "chosen_heading": "Liability Category",
+      "current_heading": "Liability Category",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Rental to Marriage",
+    "candidates": [
+      "Rental to Marriage",
+      "Husband as Owner",
+      "Usha Enactment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items trace exactly the sequence described in the 'Rental to Marriage' prose: Rava's \u05de\u05de\u05d4 \u05e0\u05e4\u05e9\u05da objection, the first reinterpretation (he rented then married), the Gemara's objection that even socher after marriage is ba'alav imo, the second reinterpretation (she rented from a third party then married), and the resolution that the dilemma only matters according to Rabbi Yosi.",
+      "chosen_heading": "Rental to Marriage",
+      "current_heading": "Rental to Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Usha Enactment",
+    "candidates": [
+      "Husband as Owner",
+      "Usha Enactment",
+      "Me'ilah Issue",
+      "Me'ilah Culpability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement that a husband is a *lokei'ach* (buyer), which is precisely what the 'Husband as Owner' section's prose discusses \u2014 the current placement under 'Usha Enactment' puts it under the heading for the supporting proof (Rabbi Yosi bar Chanina's ruling), but the primary content of the passage is Rava's classification of the husband as a purchaser, which belongs under 'Husband as Owner'.",
+      "chosen_heading": "Husband as Owner",
+      "current_heading": "Usha Enactment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Me'ilah Culpability",
+    "candidates": [
+      "Me'ilah Issue",
+      "Me'ilah Culpability",
+      "Me'ilah at Spending"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute Rava's systematic elimination of each possible candidate (husband, wife, court) for me'ilah liability, which is precisely what the 'Me'ilah Culpability' prose describes in detail.",
+      "chosen_heading": "Me'ilah Culpability",
+      "current_heading": "Me'ilah Culpability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Me'ilah at Spending",
+    "candidates": [
+      "Me'ilah at Spending",
+      "Use Deterioration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement that the husband commits me'ilah when he spends the money, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Me'ilah at Spending",
+      "current_heading": "Me'ilah at Spending",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Use Deterioration",
+    "candidates": [
+      "Use Deterioration",
+      "Implicit Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the opening dilemma about flesh-weakening from labor and the immediate challenge about dying from labor \u2014 precisely what heading 0 ('Use Deterioration') describes as its content, before heading 1 picks up with the resolution about implicit agreement.",
+      "chosen_heading": "Use Deterioration",
+      "current_heading": "Use Deterioration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Implicit Agreement",
+    "candidates": [
+      "Implicit Agreement",
+      "Hammer Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's explicit statement about meta machmat melacha exemption, which the prose of 'Implicit Agreement' directly quotes and explains in detail, making it the clear home for this text.",
+      "chosen_heading": "Implicit Agreement",
+      "current_heading": "Implicit Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Hammer Case",
+    "candidates": [
+      "Hammer Case",
+      "Proof Burden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes a man borrowing an ax that broke and Rava telling him to bring witnesses to be exempt \u2014 exactly the scenario described in the 'Hammer Case' prose, not the follow-up case in 'Proof Burden' which concerns no witnesses and paying a full hammer.",
+      "chosen_heading": "Hammer Case",
+      "current_heading": "Hammer Case",
+      "moved": false
+    }
+  }
+]

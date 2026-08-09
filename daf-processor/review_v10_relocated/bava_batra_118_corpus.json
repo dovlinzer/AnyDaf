@@ -1,0 +1,257 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Yotzei Mitzrayim vs Ba'ei",
+    "candidates": [
+      "Yotzei Mitzrayim vs Ba'ei",
+      "Combined Approach",
+      "B'shlama Yotzei Mitzrayim",
+      "Ba'ei Ha'aretz Challenge",
+      "Tfelim Explanation",
+      "Equal Tribal Lands",
+      "Nobody Excluded Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "B'shlama Yotzei Mitzrayim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the b'shlama challenge \u2014 why Bnei Yosef complained under yotzei mitzrayim vs. ba'ei ha'aretz \u2014 which is precisely what heading 2 ('B'shlama Yotzei Mitzrayim') and heading 3 ('Ba'ei Ha'aretz Challenge') discuss together, but the prose of heading 2 explicitly covers the full b'shlama question including the ba'ei ha'aretz challenge side, making it the best single home; however since heading 3 also covers the ella side, and item 1 contains both halves, heading 2 is the better fit as it introduces the whole gemara test.",
+      "second_heading": "Tfelim Explanation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's answer 'mishum tfelim' \u2014 because of the children \u2014 which is exactly what heading 4 ('Tfelim Explanation') discusses in its prose.",
+      "current_heading": "Yotzei Mitzrayim vs Ba'ei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Nobody Excluded Logic",
+    "candidates": [
+      "Combined Approach",
+      "B'shlama Yotzei Mitzrayim",
+      "Ba'ei Ha'aretz Challenge",
+      "Tfelim Explanation",
+      "Equal Tribal Lands",
+      "Nobody Excluded Logic",
+      "Bnei Yosef Counterpoint",
+      "Ayin Hara Lesson"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's exact argument that no one failed to receive a portion, matching the 'Nobody Excluded Logic' section's prose which describes this inference and its reasoning from Bnot Tzelofchad and Bnei Yosef complaints.",
+      "chosen_heading": "Nobody Excluded Logic",
+      "current_heading": "Nobody Excluded Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Ayin Hara Lesson",
+    "candidates": [
+      "Bnei Yosef Counterpoint",
+      "Ayin Hara Lesson",
+      "Meraglim & Spies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the ayin hara lesson from the Bnei Yosef episode \u2014 Joshua's advice to hide in forests, Bnei Yosef's claim of immunity as Joseph's descendants, and Rabbi Yosei's fish analogy \u2014 exactly matching the 'Ayin Hara Lesson' prose description.",
+      "chosen_heading": "Ayin Hara Lesson",
+      "current_heading": "Ayin Hara Lesson",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Meraglim & Spies",
+    "candidates": [
+      "Meraglim & Spies",
+      "Chayu Derasha",
+      "Mitlonenim Debate",
+      "Bnot Tzelofchad Arg",
+      "Why Ten Portions?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items together form the continuous Gemara discussion about spies, protesters, and Korah's assembly \u2014 starting with the derasha on 'chayu' (item 1), through the contradiction between baraitot and its resolution (items 2-4), and Rav Pappa's question about the protesters (item 5) \u2014 which perfectly matches heading 1 ('Chayu Derasha') and its prose describing the 'chayu' interpretation and the subsequent machloket about mitlonenim, rather than heading 0 which only sets up the question before the derasha.",
+      "chosen_heading": "Chayu Derasha",
+      "current_heading": "Meraglim & Spies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Why Ten Portions?",
+    "candidates": [
+      "Chayu Derasha",
+      "Mitlonenim Debate",
+      "Bnot Tzelofchad Arg",
+      "Why Ten Portions?",
+      "Yotzei Mitzrayim Count",
+      "Ba'ei Ha'aretz Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rav Pappa's question to Abaye about why Menasseh received ten portions under the 'yotzei mitzrayim' view (six batei avot plus four portions for Bnot Tzelofchad), which is precisely what the 'Why Ten Portions?' section's prose describes.",
+      "chosen_heading": "Why Ten Portions?",
+      "current_heading": "Why Ten Portions?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Ba'ei Ha'aretz Count",
+    "candidates": [
+      "Yotzei Mitzrayim Count",
+      "Ba'ei Ha'aretz Count",
+      "Batei Avot & Bnot",
+      "Yotzei Mitzrayim Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states the ba'ei ha'aretz count yields only eight (tamniya hu dahavu \u2014 six batei avot plus two for the bechor portion), which is precisely what the 'Ba'ei Ha'aretz Count' section's prose describes.",
+      "chosen_heading": "Ba'ei Ha'aretz Count",
+      "current_heading": "Ba'ei Ha'aretz Count",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Yotzei Mitzrayim Braita",
+    "candidates": [
+      "Batei Avot & Bnot",
+      "Yotzei Mitzrayim Braita",
+      "Rabbi Eliezer Addition",
+      "Dead Brothers Logic",
+      "Rav Papa Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Batei Avot & Bnot",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the objection and resolution about yotzei mitzrayim having one uncle vs. ba'ei ha'aretz needing two uncles, which matches heading 0 ('Batei Avot & Bnot') whose prose explicitly discusses 'hacha nami trei achi d'abba hava lehu' and the two-uncle device.",
+      "second_heading": "Yotzei Mitzrayim Braita",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the baraita deriving the multiple portions from the verse (naton titein, betoch achei avihen, ve-ha'avarta) plus Rabbi Eliezer ben Yaakov's addition and the achuzat nachalah derivation, which match headings 1 and 2 ('Yotzei Mitzrayim Braita' and 'Rabbi Eliezer Addition') \u2014 but since items 2 and 3 are a continuous baraita unit and heading 1's prose covers the baraita content while heading 2 covers Rabbi Eliezer's addition separately, the current placement under heading 1 captures the whole unit.",
+      "current_heading": "Yotzei Mitzrayim Braita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Rav Papa Question",
+    "candidates": [
+      "Rabbi Eliezer Addition",
+      "Dead Brothers Logic",
+      "Rav Papa Question",
+      "Batei Avot Resolution",
+      "Bechor Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Pappa's question about what the verse is counting (children vs. batei avot), which is precisely what the 'Rav Papa Question' section's prose describes.",
+      "chosen_heading": "Rav Papa Question",
+      "current_heading": "Rav Papa Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Bechor Paradox",
+    "candidates": [
+      "Batei Avot Resolution",
+      "Bechor Paradox",
+      "Muchzeket Answer",
+      "Braita Both Sides"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage answers 'Actually, the verse is counting fathers' houses' and teaches that Bnot Tzelofchad received the bechor portion, which is precisely what the 'Batei Avot Resolution' prose describes, not the paradox or the muchzeket answer sections.",
+      "chosen_heading": "Batei Avot Resolution",
+      "current_heading": "Bechor Paradox",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Braita Both Sides",
+    "candidates": [
+      "Muchzeket Answer",
+      "Braita Both Sides",
+      "Contradiction Resolved",
+      "Age Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents exactly the contradiction between 'merit of grandfathers' and 'merit of themselves' and resolves it via the yotzei mitzrayim/ba'ei ha'aretz distinction, which is precisely what 'Contradiction Resolved' describes.",
+      "chosen_heading": "Contradiction Resolved",
+      "current_heading": "Braita Both Sides",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Age Distinction",
+    "candidates": [
+      "Contradiction Resolved",
+      "Age Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the 'if you wish say' alternative resolution distinguishing those who were twenty years old from those who were not, which is exactly what the 'Age Distinction' prose describes.",
+      "chosen_heading": "Age Distinction",
+      "current_heading": "Age Distinction",
+      "moved": false
+    }
+  }
+]

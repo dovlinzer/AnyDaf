@@ -1,0 +1,355 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Mishna Cases: Messengers",
+    "candidates": [
+      "Masechet Overview",
+      "Mishna: Reshut Framework",
+      "Mishna Cases: Messengers",
+      "L'Olam Exclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna: Reshut Framework",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening clause of the Mishnah ('she is always under her father's authority until she enters'), which candidate 1 ('Mishna: Reshut Framework') describes in detail \u2014 the sweeping abstract statement about reshut and the word le'olam.",
+      "second_heading": "Mishna Cases: Messengers",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the messenger cases (masar ha'av lishluchei haba'al, halach ha'av, masru shluchei ha'av), which is precisely what candidate 2 ('Mishna Cases: Messengers') discusses in its prose.",
+      "current_heading": "Mishna Cases: Messengers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "L'Olam Exclusion",
+    "candidates": [
+      "L'Olam Exclusion",
+      "Delayed Nisuin",
+      "Rav: Exclusion Terumah",
+      "Rav Assi: All Purposes",
+      "Meach Ta'us Concern",
+      "Father's House Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is entirely about the Gemara's question on the term 'always' (l'olam) and its answer that it excludes the initial mishna's ruling about eating teruma when the wedding time arrived but marriage was postponed \u2014 exactly what the 'L'Olam Exclusion' section prose discusses.",
+      "chosen_heading": "L'Olam Exclusion",
+      "current_heading": "L'Olam Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Father's House Concern",
+    "candidates": [
+      "Delayed Nisuin",
+      "Rav: Exclusion Terumah",
+      "Rav Assi: All Purposes",
+      "Meach Ta'us Concern",
+      "Father's House Concern",
+      "Baraita: Chuppah",
+      "Rav Defense: Ambiguity",
+      "Shmuel Position",
+      "Ravina: Ketubah Meaning",
+      "Complete Status View",
+      "Baraita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the Mishnah's rule about delivering to the husband's messengers and then presents the Rav/Rav Asi dispute about terumah \u2014 this is the opening of the central question about the moment of transition, which is exactly what the 'Delayed Nisuin' prose describes as its content, before the individual positions get their own sections.",
+      "chosen_heading": "Delayed Nisuin",
+      "current_heading": "Father's House Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Baraita Contradiction",
+    "candidates": [
+      "Baraita: Chuppah",
+      "Rav Defense: Ambiguity",
+      "Shmuel Position",
+      "Ravina: Ketubah Meaning",
+      "Complete Status View",
+      "Baraita Contradiction",
+      "Tyufta Dekulhu",
+      "Chatzer Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All 7 items form one continuous passage covering the challenge to Rabbi Yochanan/Rabbi Chanina's 'complete status' view via the Tosefta, which distinguishes yerusha from terumah and concludes with a refutation of all opinions \u2014 exactly what candidate 5 ('Baraita Contradiction') describes in its prose.",
+      "chosen_heading": "Baraita Contradiction",
+      "current_heading": "Baraita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Chatzer Scenario",
+    "candidates": [
+      "Tyufta Dekulhu",
+      "Chatzer Scenario",
+      "Rav Ashi Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the internal contradiction within the Tosefta between the two clauses (her chatzer vs. his chatzer), which is precisely what the 'Chatzer Scenario' prose describes.",
+      "chosen_heading": "Chatzer Scenario",
+      "current_heading": "Chatzer Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Rav Ashi Resolution",
+    "candidates": [
+      "Rav Ashi Resolution",
+      "Two Models",
+      "Na'arah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's exact statement about stami stami katani \u2014 the contextual defaults for her courtyard vs. his courtyard \u2014 which is precisely what the 'Rav Ashi Resolution' prose describes and analyzes.",
+      "chosen_heading": "Rav Ashi Resolution",
+      "current_heading": "Rav Ashi Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Na'arah Status",
+    "candidates": [
+      "Two Models",
+      "Na'arah Status",
+      "Beit Aviha Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about mesirah to the husband's messengers resulting in chenek rather than stoning, which is exactly what the 'Na'arah Status' section's prose describes and introduces.",
+      "chosen_heading": "Na'arah Status",
+      "current_heading": "Na'arah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Beit Aviha Exclusion",
+    "candidates": [
+      "Beit Aviha Exclusion",
+      "Verse Breakdown",
+      "Chuppah Distinction",
+      "Three Stages",
+      "Be'ulah Equation",
+      "Combination Model",
+      "Return Question",
+      "Rava: Never Returns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the challenge about chuppah (item 1), Rava's answer citing Ami that chuppah is explicitly derived elsewhere (item 2), and the analysis of what 'nesuah' means to confirm chuppah is already excluded (item 3) \u2014 which corresponds precisely to the 'Beit Aviha Exclusion' prose describing exactly this sequence of question and resolution about the chuppah objection.",
+      "chosen_heading": "Beit Aviha Exclusion",
+      "current_heading": "Beit Aviha Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Rava: Never Returns",
+    "candidates": [
+      "Verse Breakdown",
+      "Chuppah Distinction",
+      "Three Stages",
+      "Be'ulah Equation",
+      "Combination Model",
+      "Return Question",
+      "Rava: Never Returns",
+      "Never Returns Principle",
+      "Rav Papa Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All three items together comprise Rava's answer citing the Tana d'vei Rabbi Yishmael \u2014 the question about returning to father's house, the verse about widow/divorc\u00e9e, and the intermediate case of sheluchiim \u2014 which is precisely what candidate 6 ('Rava: Never Returns') describes in its prose.",
+      "chosen_heading": "Rava: Never Returns",
+      "current_heading": "Rava: Never Returns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Rav Papa Teaching",
+    "candidates": [
+      "Never Returns Principle",
+      "Rav Papa Teaching",
+      "Rav Nachman: Strangling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's teaching from Sanhedrin 66b about the na'arah me'orasah stoning penalty and the exclusion derived from 'in her father's house,' which is precisely what the Rav Papa Teaching section's prose describes and analyzes.",
+      "chosen_heading": "Rav Papa Teaching",
+      "current_heading": "Rav Papa Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Rav Nachman: Strangling",
+    "candidates": [
+      "Rav Nachman: Strangling",
+      "Rishonim Debate",
+      "Summary Stages",
+      "Mishna Statement",
+      "Midrash Banim/Banot",
+      "Ketubah Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man bar Yitz\u1e25ak's proof from Sanhedrin about strangulation for adultery once a woman enters the husband's reshut, which corresponds exactly to the prose under heading 0 describing this same teaching and its implications.",
+      "chosen_heading": "Rav Nachman: Strangling",
+      "current_heading": "Rav Nachman: Strangling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Ketubah Conditions",
+    "candidates": [
+      "Rishonim Debate",
+      "Summary Stages",
+      "Mishna Statement",
+      "Midrash Banim/Banot",
+      "Ketubah Conditions",
+      "Rabbi Meir Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna stating the father is not obligated to support his daughter and the Gemara's immediate inference about sons vs. daughters and the question of whose opinion the Mishna reflects \u2014 directly correspond to the 'Mishna Statement' section prose, which explicitly introduces this Mishnah and notes that the Gemara will explain why it frames the ruling in terms of daughters.",
+      "chosen_heading": "Mishna Statement",
+      "current_heading": "Ketubah Conditions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Rabbi Meir Position",
+    "candidates": [
+      "Ketubah Conditions",
+      "Rabbi Meir Position",
+      "Rabbi Yehudah Position",
+      "Rabbi Yochanan Position",
+      "Rabbi Meir Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita contains all three opinions (Rabbi Meir, Rabbi Yehuda, Rabbi Yochanan ben Beroka) in a single quoted passage, and it currently sits under 'Rabbi Meir Position' which is where the baraita is first introduced \u2014 the subsequent headings (Rabbi Yehuda Position, Rabbi Yochanan Position) discuss each opinion's prose explanation separately, so the full baraita citation belongs under the first heading where it is introduced.",
+      "chosen_heading": "Rabbi Meir Position",
+      "current_heading": "Rabbi Meir Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Rabbi Meir Test",
+    "candidates": [
+      "Rabbi Yehudah Position",
+      "Rabbi Yochanan Position",
+      "Rabbi Meir Test",
+      "Rabbi Yehudah Test",
+      "Daughters: Teaching Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question 'Whose opinion is expressed in the mishna?' and tests all three Tannaim in sequence, which matches the 'Rabbi Meir Test' section's prose that introduces 'Mani matnitin?' and begins testing each possibility \u2014 the current placement is correct as this single Gemara passage covers the full tripartite test introduced under that heading.",
+      "chosen_heading": "Rabbi Meir Test",
+      "current_heading": "Rabbi Meir Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Daughters: Teaching Logic",
+    "candidates": [
+      "Rabbi Yehudah Test",
+      "Daughters: Teaching Logic",
+      "Follows Yehudah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the three-way 'if you wish say' answer (Rabbi Meir, Rabbi Yehuda, Rabbi Yochanan ben Beroka), which is the setup that candidate 0's prose describes as the Gemara raising tensions with all three Tannaim in turn before resolving them \u2014 making it the natural home for this introductory Aramaic text.",
+      "chosen_heading": "Rabbi Yehudah Test",
+      "current_heading": "Daughters: Teaching Logic",
+      "moved": true
+    }
+  }
+]

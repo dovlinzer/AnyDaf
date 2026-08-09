@@ -1,0 +1,437 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Purpose of Dirt",
+    "candidates": [
+      "Body in Normal Position",
+      "Removal & Reburial",
+      "Purpose of Dirt",
+      "Two Bodies",
+      "Three Bodies Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening mishna describing finding a corpse lying in its normal burial position (mushkav kedarko), which directly matches the 'Body in Normal Position' heading's prose discussion of hamotzei meit techila and mushkav kedarko.",
+      "chosen_heading": "Body in Normal Position",
+      "current_heading": "Purpose of Dirt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Three Bodies Threshold",
+    "candidates": [
+      "Two Bodies",
+      "Three Bodies Threshold",
+      "Twenty-Cubit Radius"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the two-body case (remove them and their surrounding earth) and the three-body threshold, but the prose under heading 0 ('Two Bodies') explicitly discusses both scenarios together \u2014 noting that two bodies are treated individually and that it is only at three bodies that the analysis shifts \u2014 making it the better home for this combined passage, while heading 1's prose focuses exclusively on the three-body rule and its elaborations.",
+      "chosen_heading": "Two Bodies",
+      "current_heading": "Three Bodies Threshold",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Twenty-Cubit Radius",
+    "candidates": [
+      "Three Bodies Threshold",
+      "Twenty-Cubit Radius",
+      "Context Matters",
+      "Discovered vs. Known",
+      "Murdered Bodies",
+      "Position Criteria",
+      "Incomplete Bodies"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Twenty-Cubit Radius",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the twenty-cubit cascading investigation and raglayim ladavar, which matches exactly the 'Twenty-Cubit Radius' prose about checking outward twenty amot and the raglayim ladavar principle.",
+      "second_heading": "Discovered vs. Known",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's opening interpretation of the mishnah's qualifying terms (matza, met, mushkav, kedarko), which matches the 'Discovered vs. Known' prose about Rav Yehuda's method of excluding categories via each word of the mishnah.",
+      "current_heading": "Twenty-Cubit Radius",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Incomplete Bodies",
+    "candidates": [
+      "Context Matters",
+      "Discovered vs. Known",
+      "Murdered Bodies",
+      "Position Criteria",
+      "Incomplete Bodies",
+      "Head-to-Foot Burial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the baraita from Ulla bar \u1e24anina about an incomplete corpse lacking tfisah and shechunat kvarot, which is precisely what the 'Incomplete Bodies' section's prose discusses and analyzes.",
+      "chosen_heading": "Incomplete Bodies",
+      "current_heading": "Incomplete Bodies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Head-to-Foot Burial",
+    "candidates": [
+      "Head-to-Foot Burial",
+      "Mixed Known/Unknown",
+      "Yeshevav's Attempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both head-to-foot burial (two corpses) and the mixed known/unknown case (three/four corpses), and the current heading 'Head-to-Foot Burial' is where it sits, but examining the content more carefully, the passage contains BOTH the head-to-foot scenario AND the mixed known/unknown scenario \u2014 however, since the current placement already covers the head-to-foot content in its prose and the 'Mixed Known/Unknown' section (index 1) covers the second half of the baraita, and the passage as a whole unit must go under one heading, the current placement (index 0) is the best fit since it begins with the head-to-foot case which opens the passage.",
+      "chosen_heading": "Head-to-Foot Burial",
+      "current_heading": "Head-to-Foot Burial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Yeshevav's Attempt",
+    "candidates": [
+      "Mixed Known/Unknown",
+      "Yeshevav's Attempt",
+      "Akiva's Rebuke",
+      "Pure Graveyard Status",
+      "Tfusa Definition",
+      "Egypt Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the incident of Rabbi Yeshevav finding two known and one newly discovered grave and wishing to declare it a shechunat kvarot, which matches heading 1 ('Yeshevav's Attempt') and its prose about Rabbi Yeshevav investigating and finding two known graves and one newly discovered \u2014 the rebuke by Rabbi Akiva is included in the same baraita passage but the primary content matches the current placement.",
+      "chosen_heading": "Yeshevav's Attempt",
+      "current_heading": "Yeshevav's Attempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Egypt Derivation",
+    "candidates": [
+      "Akiva's Rebuke",
+      "Pure Graveyard Status",
+      "Tfusa Definition",
+      "Egypt Derivation",
+      "Three Fingers Earth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks 'what are the circumstances of surrounding earth (tfusa)?' which matches the 'Tfusa Definition' section's prose about asking 'heichi dami t'vusa \u2014 what exactly constitutes the tfusa?', while the current placement under 'Egypt Derivation' covers only Rav Yehuda's answer, not the question itself.",
+      "chosen_heading": "Tfusa Definition",
+      "current_heading": "Egypt Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Three Fingers Earth",
+    "candidates": [
+      "Egypt Derivation",
+      "Three Fingers Earth",
+      "Coffin & Shards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Elazar bar Rabbi Tzadok's teaching about taking loose dirt and digging three fingerbreadths into virgin earth, which directly matches the 'Three Fingers Earth' section's prose about the same teaching.",
+      "chosen_heading": "Three Fingers Earth",
+      "current_heading": "Three Fingers Earth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Coffin & Shards",
+    "candidates": [
+      "Coffin & Shards",
+      "Sifting Remains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Elazar b'Rabbi Tzadok's explanation of tfusa in terms of wood chips (kismin) and lumps of earth (ksasos/tzrorot), which is precisely what the 'Coffin & Shards' prose discusses, including the same baraita, the same figures, and the same details about splinters and earth clumps absorbing bodily matter.",
+      "chosen_heading": "Coffin & Shards",
+      "current_heading": "Coffin & Shards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Sifting Remains",
+    "candidates": [
+      "Sifting Remains",
+      "Rekev Problem",
+      "Third Body Found"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Sifting Remains",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 directly discuss the sifting process and the ben Azzai measure of surrounding earth, exactly matching the 'Sifting Remains' prose which explicitly addresses both the v'zorek/u'maniach/v'hashar sifting baraita and notes that Rav Yehuda amar Rav follows the three-fingerbreadth position of a different tanna.",
+      "second_heading": "Third Body Found",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens a new Mishnah unit ('\u00a7 The mishna taught') about examining up to twenty cubits from where a corpse was found, which is a self-contained topic matching the 'Third Body Found' section's concern with checking and finding bodies in a given area.",
+      "current_heading": "Sifting Remains",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Third Body Found",
+    "candidates": [
+      "Rekev Problem",
+      "Third Body Found",
+      "Retroactive Graveyard",
+      "Rava's Compromise",
+      "Continue Disinterring",
+      "Ilu Matzu Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rava's ruling that the third body stays and the two already moved are not returned \u2014 exactly what 'Rava's Compromise' describes, not the question-framing of 'Third Body Found' where it currently sits.",
+      "chosen_heading": "Rava's Compromise",
+      "current_heading": "Third Body Found",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Ilu Matzu Principle",
+    "candidates": [
+      "Retroactive Graveyard",
+      "Rava's Compromise",
+      "Continue Disinterring",
+      "Ilu Matzu Principle",
+      "Rosh's Reading",
+      "Twenty-Cubit Question",
+      "Still a Graveyard",
+      "Intentional Burial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the 'ika d'amri' formulation of Rava's ruling (once permission was granted, continue disinterring) followed by the 'velishavinhu shechunat kvarot' question and Reish Lakish's 'ilu matzu' answer, which maps precisely to candidate 2 ('Continue Disinterring') whose prose describes this alternative Rava ruling and the practical justification for continuing disinterment.",
+      "chosen_heading": "Continue Disinterring",
+      "current_heading": "Ilu Matzu Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Intentional Burial",
+    "candidates": [
+      "Rosh's Reading",
+      "Twenty-Cubit Question",
+      "Still a Graveyard",
+      "Intentional Burial",
+      "Initial Purity",
+      "Established Impurity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'twenty cubits examined and nothing found' question (badak esrim amah v'lo matza), which is precisely what the 'Twenty-Cubit Question' section's prose discusses, including Rav Menashya bar Yirmeya's ruling of shechunat kvaros and Reish Lakish's ilu matzu principle.",
+      "chosen_heading": "Twenty-Cubit Question",
+      "current_heading": "Intentional Burial",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Established Impurity",
+    "candidates": [
+      "Initial Purity",
+      "Established Impurity",
+      "Two People Case",
+      "Lesion Progression",
+      "Baseline Return",
+      "Verse on Purity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishnah text covers both the initial purity rule and the established impurity rule as a single unit, but its primary content \u2014 stating the rule of initial tahara before tumah is established \u2014 aligns with the 'Initial Purity' section prose, which directly quotes and explains 'kol safek negaim bit'chilatah tahor' and 'ad shelo nizkak l'tumah,' matching the mishnah's opening principle rather than the 'Established Impurity' section which only discusses the second half.",
+      "chosen_heading": "Initial Purity",
+      "current_heading": "Established Impurity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Verse on Purity",
+    "candidates": [
+      "Two People Case",
+      "Lesion Progression",
+      "Baseline Return",
+      "Verse on Purity",
+      "Purity Objection",
+      "Hair Whitening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Gemara question about the source of the tahara-first principle from the verse 'letaharo o letame'o' and the opening challenge, which matches precisely the prose of candidate 3 ('Verse on Purity') where the essay author discusses this exact derivation from Rav Yehuda citing Rav about the verse mentioning tahara first.",
+      "chosen_heading": "Verse on Purity",
+      "current_heading": "Verse on Purity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Hair Whitening",
+    "candidates": [
+      "Purity Objection",
+      "Hair Whitening",
+      "Unknown Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Yehuda/Rav statement about baheret preceding white hair (or vice versa) and the safek ruling, which is precisely what the 'Hair Whitening' section's prose describes and analyzes.",
+      "chosen_heading": "Hair Whitening",
+      "current_heading": "Hair Whitening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Unknown Order",
+    "candidates": [
+      "Unknown Order",
+      "Seven Factors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the meaning of 'keiha' and Rav Yehuda's explanation that it means pure, with the verse supporting purity-first \u2014 exactly what the prose in candidate 0 describes.",
+      "chosen_heading": "Unknown Order",
+      "current_heading": "Unknown Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Seven Factors",
+    "candidates": [
+      "Seven Factors",
+      "External Causes",
+      "Sight & Thoughts",
+      "Pre-Zav Leniency",
+      "No Exemption",
+      "Ones & Semen",
+      "Attributed to Condition",
+      "Mortal Wound"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Seven Factors",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna introducing the seven-way examination before zav status is established, which matches heading 0 ('Seven Factors') whose prose explicitly introduces and explains this mishnah and its seven factors.",
+      "second_heading": "No Exemption",
+      "second_confidence": "high",
+      "second_reason": "Item 2 begins the second half of the Mishna \u2014 'Once he has been confirmed as having a ziva, one no longer examines him' \u2014 which matches heading 4 ('No Exemption') whose prose directly discusses 'mishenizkak le'ziva' and 'ein bodkin oto'.",
+      "current_heading": "Seven Factors",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Mortal Wound",
+    "candidates": [
+      "External Causes",
+      "Sight & Thoughts",
+      "Pre-Zav Leniency",
+      "No Exemption",
+      "Ones & Semen",
+      "Attributed to Condition",
+      "Mortal Wound",
+      "Recovery & Relapse",
+      "Death Attributed",
+      "Different Cause",
+      "Circumstantial Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of one who strikes another and the victim is assessed as likely to die, which is precisely what the 'Mortal Wound' section's prose introduces \u2014 the current placement is correct.",
+      "chosen_heading": "Mortal Wound",
+      "current_heading": "Mortal Wound",
+      "moved": false
+    }
+  }
+]

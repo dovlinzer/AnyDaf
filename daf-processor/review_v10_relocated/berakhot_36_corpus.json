@@ -1,0 +1,228 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Transformation Theory",
+    "candidates": [
+      "Wine Exception",
+      "Transformation Theory",
+      "Wine's Dual Function"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the transformation theory and why oil lacks a distinct blessing \u2014 exactly what candidate 1's prose describes, covering the ishtani le'iluya challenge, the impossibility of borei pri hazayit, and Mar Zutra's nourishment rationale, all of which the essay author explicitly addresses under 'Transformation Theory' before moving to the dual-function discussion under candidate 2.",
+      "chosen_heading": "Transformation Theory",
+      "current_heading": "Transformation Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Wine's Dual Function",
+    "candidates": [
+      "Wine's Dual Function",
+      "Wine Not a Meal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the same continuous discussion about whether oil and wine nourish/satisfy, the challenge from the Nedarim mishna, Rav Huna's resolution, Rava's wine-drinking on erev Pesach, and the verse about wine gladdens vs. bread satiates \u2014 all of which are explicitly covered in the 'Wine's Dual Function' prose.",
+      "chosen_heading": "Wine's Dual Function",
+      "current_heading": "Wine's Dual Function",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Wine Not a Meal",
+    "candidates": [
+      "Wine Not a Meal",
+      "Oil Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss whether wine can serve as the basis for a meal requiring birkat hamazon, which is precisely what the 'Wine Not a Meal' prose section describes, including the Rav Nachman bar Yitzchak/Rava exchange about batla da'ato etzel kol adam.",
+      "chosen_heading": "Wine Not a Meal",
+      "current_heading": "Wine Not a Meal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Oil Contradiction",
+    "candidates": [
+      "Oil Contradiction",
+      "Oil in Mixture",
+      "Ikar and Tafel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the opening of the 'matter itself' (\u05d2\u05d5\u05e4\u05d0) \u2014 Rav Yehuda/Shmuel and Rabbi Yitzchak/Rabbi Yochanan's ruling on olive oil's blessing, followed immediately by the baraita about terumah oil showing that drinking oil directly causes harm, which is precisely what the 'Oil Contradiction' prose describes as its content.",
+      "chosen_heading": "Oil Contradiction",
+      "current_heading": "Oil Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Ikar and Tafel",
+    "candidates": [
+      "Oil in Mixture",
+      "Ikar and Tafel",
+      "Flour Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain \u2014 bread/ikar-tafel objection, anigron introduction, anigron/ikar-tafel objection, sore-throat resolution via baraita, and the obvious/refuah challenge \u2014 which is exactly what heading 1 ('Ikar and Tafel') describes in its prose, including every sub-point in order.",
+      "chosen_heading": "Ikar and Tafel",
+      "current_heading": "Ikar and Tafel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Flour Debate",
+    "candidates": [
+      "Flour Debate",
+      "Flour vs. Oil",
+      "Unfit Foods",
+      "Blessing Floor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the wheat flour dispute between Rav Yehuda and Rav Nachman, and Rava's argument from olive oil \u2014 exactly the content described in the 'Flour Debate' prose.",
+      "chosen_heading": "Flour Debate",
+      "current_heading": "Flour Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Blessing Floor",
+    "candidates": [
+      "Flour vs. Oil",
+      "Unfit Foods",
+      "Blessing Floor",
+      "Palm Hearts"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Flour vs. Oil",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20136 form a continuous chain about flour vs. oil, the wheat/barley flour blessing, and the salt/brine floor of brachot \u2014 all content covered by headings 0\u20132, but the specific flow of the argument (iluya achrina, barley flour, salt/zamit) matches headings 0\u20132's prose exactly, and the current placement under 'Blessing Floor' captures the final portion while 'Flour vs. Oil' and 'Unfit Foods' capture the earlier items \u2014 however since all 6 items are one unbroken sugya the best single home for items 1\u20136 is heading 0 where the argument begins.",
+      "second_heading": "Palm Hearts",
+      "second_confidence": "high",
+      "second_reason": "Item 7 introduces an entirely new case \u2014 the kura/palm heart dispute between Rav Yehuda and Shmuel \u2014 which is the subject of the 'Palm Hearts' heading's prose.",
+      "current_heading": "Blessing Floor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Palm Hearts",
+    "candidates": [
+      "Blessing Floor",
+      "Palm Hearts",
+      "Radish Comparison",
+      "Caper Bush"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Yehuda and Shmuel's dispute over the bracha on kora (palm heart/tip), with Shmuel's reasoning that it will ultimately harden \u2014 exactly the content described in the 'Palm Hearts' section prose.",
+      "chosen_heading": "Palm Hearts",
+      "current_heading": "Palm Hearts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Caper Bush",
+    "candidates": [
+      "Radish Comparison",
+      "Caper Bush",
+      "Blessing Hierarchy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Radish Comparison",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains exactly the Shmuel/Rav Yehuda radish exchange and the velo hi conclusion about palm trees not being planted with leaf tips in mind, which is precisely what the 'Radish Comparison' prose describes.",
+      "second_heading": "Caper Bush",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the caper bush challenge to the planting-intent principle, which is exactly what the 'Caper Bush' prose discusses as its opening challenge.",
+      "current_heading": "Caper Bush",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Blessing Hierarchy",
+    "candidates": [
+      "Blessing Hierarchy",
+      "Juice Question",
+      "Coffee & Cocoa",
+      "Custom Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly supports the 'Blessing Hierarchy' section's discussion of the halakhic ruling favoring Shmuel despite his praise of Rav Yehuda, and the distinction between caper-bush and palm tree planting intent \u2014 exactly the content the prose in section 0 explicitly analyzes.",
+      "chosen_heading": "Blessing Hierarchy",
+      "current_heading": "Blessing Hierarchy",
+      "moved": false
+    }
+  }
+]

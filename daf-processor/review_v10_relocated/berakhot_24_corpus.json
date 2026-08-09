@@ -1,0 +1,260 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Tefillin on Table",
+    "candidates": [
+      "Remove Before Meal",
+      "Tefillin on Table",
+      "Until Blessing",
+      "Wrap Both Items",
+      "Conflicting Rules",
+      "Both Required",
+      "Design Enough",
+      "Under Pillow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "medium",
+      "reason": "The passage discusses Rabbi Yehuda HaNasi behaving in ways during prayer (belching, yawning, sneezing, spitting, feeling for a louse, placing hand on chin) and then a baraita objecting to such behaviors \u2014 this content about bodily comportment during prayer does not match the tefillin-wrapping or tefillin-placement topics of the current or nearby headings, and 'Under Pillow' is the closest candidate that deals with respectful/disrespectful treatment of sacred matters in a bodily/nighttime context, though none of the candidates is a perfect match.",
+      "chosen_heading": "Under Pillow",
+      "current_heading": "Tefillin on Table",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Under Pillow",
+    "candidates": [
+      "Until Blessing",
+      "Wrap Both Items",
+      "Conflicting Rules",
+      "Both Required",
+      "Design Enough",
+      "Under Pillow",
+      "Even Wife Present",
+      "Wife Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage discusses the contradiction (kashya) between sneezing being acceptable and sneezing being a bad omen, which is unrelated to tefillin storage; however, looking at the content more carefully, this gemara about belching, yawning, and sneezing contradictions doesn't fit any of the tefillin-wrapping or pillow headings well, but the current placement under 'Under Pillow' (index 5) or nearby sections all deal with tefillin storage \u2014 yet the passage itself seems misplaced entirely; among the candidates, index 7 'Wife Forbidden' is where a tiyuvta/contradiction resolution appears, making it the closest structural match for a gemara resolving contradictions in this sequence.",
+      "chosen_heading": "Wife Forbidden",
+      "current_heading": "Under Pillow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Wife Forbidden",
+    "candidates": [
+      "Even Wife Present",
+      "Wife Forbidden",
+      "Protect Tefillin",
+      "Exact Placement",
+      "Alternative Methods",
+      "Mikvah Night Test",
+      "Two in Bed",
+      "Wife Back-to-Back",
+      "Wife vs Other",
+      "Like Own Body"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "None of the candidate headings match the content of this passage (sneezing and spitting during prayer), so defaulting to current placement with low confidence.",
+      "chosen_heading": "Wife Forbidden",
+      "current_heading": "Wife Forbidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Like Own Body",
+    "candidates": [
+      "Protect Tefillin",
+      "Exact Placement",
+      "Alternative Methods",
+      "Mikvah Night Test",
+      "Two in Bed",
+      "Wife Back-to-Back",
+      "Wife vs Other",
+      "Like Own Body",
+      "Need Divider"
+    ],
+    "result": {
+      "best_index": 7,
+      "action": "single",
+      "chosen_heading": "Like Own Body",
+      "current_heading": "Like Own Body",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Need Divider",
+    "candidates": [
+      "Need Divider",
+      "Buttocks Issue",
+      "Child Age Limits",
+      "Puberty Ages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Candidate 0's prose explicitly covers the filthy alleyways dispute (items 1-4) and is the best available match, even though items 5-6 introduce a new sub-topic about a garment tied at the waist that no other candidate's prose clearly addresses.",
+      "chosen_heading": "Need Divider",
+      "current_heading": "Need Divider",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Puberty Ages",
+    "candidates": [
+      "Buttocks Issue",
+      "Child Age Limits",
+      "Puberty Ages",
+      "Objective Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "low",
+      "reason": "None of the candidate headings discuss the actual content of this passage (phylacteries in the bathroom, fecal matter and Shema, foul odors, passing feces, pig's mouth, uncertain feces/urine, and drying thresholds), but the current placement is the best available option by default since the true heading is guaranteed to be in this list.",
+      "chosen_heading": "Puberty Ages",
+      "current_heading": "Puberty Ages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Objective Definition",
+    "candidates": [
+      "Objective Definition",
+      "Handbreadth Rule",
+      "Pinky Gazing",
+      "Calf as Ervah",
+      "Voice Ervah",
+      "Hair Ervah",
+      "Social Context",
+      "Married Women Hair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage about Ravina and Rav Yehuda of Difti examining whether feces has formed a crust or cracked concerns the practical assessment of whether feces is dry enough to be considered no longer problematic \u2014 this relates to the objective definition of what constitutes a halakhic concern (ervah/filth), fitting best under 'Objective Definition,' though the match is imperfect since none of the candidate prose sections explicitly discuss feces dryness testing.",
+      "chosen_heading": "Objective Definition",
+      "current_heading": "Objective Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Married Women Hair",
+    "candidates": [
+      "Handbreadth Rule",
+      "Pinky Gazing",
+      "Calf as Ervah",
+      "Voice Ervah",
+      "Hair Ervah",
+      "Social Context",
+      "Married Women Hair",
+      "Rabbi's Method",
+      "Curse Warning",
+      "Strap vs Box"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "low",
+      "reason": "The passage discusses halakhic rulings about feces and urine as impediments to sacred recitation, which thematically fits within the broader discussion of what prevents shema recitation addressed in the 'Social Context' section, though no candidate's prose directly addresses bodily substances, making any placement uncertain.",
+      "chosen_heading": "Social Context",
+      "current_heading": "Married Women Hair",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137,
+      138,
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Strap vs Box",
+    "candidates": [
+      "Rabbi's Method",
+      "Curse Warning",
+      "Strap vs Box",
+      "In Bag Safe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "low",
+      "reason": "The passage discusses urine absorption/drying rules for Shema recitation, which does not match any of the candidate headings (all about tefillin storage); the current placement is retained by default as no candidate prose is a clearly better match.",
+      "chosen_heading": "Strap vs Box",
+      "current_heading": "Strap vs Box",
+      "moved": false
+    }
+  }
+]

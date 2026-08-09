@@ -1,0 +1,432 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Amaltera Problem",
+    "candidates": [
+      "Tanna Kamma & R. Yehuda",
+      "Rav's Heichal Source",
+      "Doorframe Limitations",
+      "Amaltera Problem",
+      "Amaltera Source Issue",
+      "Amaltera Authority",
+      "Conflicting Sources",
+      "Heker Alternative",
+      "Korah & Heker"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Amaltera Problem",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the amaltera challenge to Rav's heichal-based theory and its immediate deflection/dismissal, matching exactly the 'Amaltera Problem' prose which describes the challenge, the ulam deflection, and its dismissal.",
+      "second_heading": "Amaltera Source Issue",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 shift to Rabbi Ila'a's ruling in Rav's name and the subsequent dispute about the amaltera ruling's authorship and authority, matching the 'Amaltera Source Issue' prose which describes exactly this transition to Rav Yosef's challenge about the baraita's attribution.",
+      "current_heading": "Amaltera Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Korah & Heker",
+    "candidates": [
+      "Amaltera Source Issue",
+      "Amaltera Authority",
+      "Conflicting Sources",
+      "Heker Alternative",
+      "Korah & Heker",
+      "Rabbah's Sukkah Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rav Na\u1e25man bar Yitz\u1e25ak's resolution that without Rav the baraitot don't conflict because the korah's rationale is mishum heikeira (to be noticed), and the heichal reference is merely a mnemonic \u2014 this is precisely the content described in the 'Heker Alternative' prose section.",
+      "chosen_heading": "Heker Alternative",
+      "current_heading": "Korah & Heker",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rabbah's Sukkah Logic",
+    "candidates": [
+      "Korah & Heker",
+      "Rabbah's Sukkah Logic",
+      "Redundancy Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabba's explanation of the 20-amah sukkah limit using the pasuk about generational awareness, which is precisely what the 'Rabbah's Sukkah Logic' section's prose describes.",
+      "chosen_heading": "Rabbah's Sukkah Logic",
+      "current_heading": "Rabbah's Sukkah Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Redundancy Question",
+    "candidates": [
+      "Redundancy Question",
+      "Different Contexts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the redundancy question \u2014 why is the dispute recorded in two cases \u2014 which matches precisely the 'Redundancy Question' prose about why the argument appears in both sukkah and mavoi contexts.",
+      "chosen_heading": "Redundancy Question",
+      "current_heading": "Redundancy Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Different Contexts",
+    "candidates": [
+      "Different Contexts",
+      "Amaltera Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the tzericha argument explaining why both the sukkah and mavoi cases are necessary, which is precisely what the 'Different Contexts' prose describes.",
+      "chosen_heading": "Different Contexts",
+      "current_heading": "Different Contexts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Amaltera Types",
+    "candidates": [
+      "Amaltera Types",
+      "Amaltera Noticeable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines amaltera as either birds' nests (kini) or cedar poles (piski d'arza), which directly matches the 'Amaltera Types' section prose discussing these two definitions and their implications.",
+      "chosen_heading": "Amaltera Types",
+      "current_heading": "Amaltera Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Amaltera Noticeable",
+    "candidates": [
+      "Amaltera Noticeable",
+      "Rava's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the competing interpretations of *amaltera* (cedar poles vs. birds' nests) and the rationale of noticeability/publicity (*keivan d'chashiv it lei kala*), which is precisely what the 'Amaltera Noticeable' prose section addresses.",
+      "chosen_heading": "Amaltera Noticeable",
+      "current_heading": "Amaltera Noticeable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rava's Ruling",
+    "candidates": [
+      "Rava's Ruling",
+      "Mavoi Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabba's ruling on the split-boundary case (mavoi kasher, sukkah pasul), which is exactly what heading 0 describes \u2014 the question and Rabba's ruling \u2014 before heading 1 moves on to explain the reasoning behind the mavoi's validity.",
+      "chosen_heading": "Rava's Ruling",
+      "current_heading": "Rava's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Mavoi Logic",
+    "candidates": [
+      "Mavoi Logic",
+      "Sukkah Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the initial question about why kalush works for the mavoi and asks why the same logic shouldn't apply to sukkah \u2014 this is the opening move that sets up the mavoi/kalush discussion, which is exactly what the 'Mavoi Logic' section's prose describes.",
+      "chosen_heading": "Mavoi Logic",
+      "current_heading": "Mavoi Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Sukkah Logic",
+    "candidates": [
+      "Sukkah Logic",
+      "Memory Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the kalush/thinning argument and the ke-shipudin shel mateses analogy applied to the sukkah case, which is precisely what the 'Sukkah Logic' prose describes in detail.",
+      "chosen_heading": "Sukkah Logic",
+      "current_heading": "Sukkah Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Memory Concern",
+    "candidates": [
+      "Memory Concern",
+      "Biblical vs. Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava from Parzakya's statement about individual vs. communal reminding, which is precisely what the 'Memory Concern' prose describes as its central content.",
+      "chosen_heading": "Memory Concern",
+      "current_heading": "Memory Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Biblical vs. Rabbinic",
+    "candidates": [
+      "Biblical vs. Rabbinic",
+      "Challal Definition",
+      "Heichal Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items \u2014 Ravina's biblical vs. rabbinic distinction, the inverted version of Rabba's ruling attributed by Rav Adda bar Mattana, the thinning arguments and their rebuttals, Rava from Parzakya's individual vs. communal responsibility explanation, and the final practical conclusion from Rabba bar Rav Ulla and Rava \u2014 are precisely the content described in the 'Biblical vs. Rabbinic' section's prose, which explicitly walks through all these elements in order.",
+      "chosen_heading": "Biblical vs. Rabbinic",
+      "current_heading": "Biblical vs. Rabbinic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Heichal Precedent",
+    "candidates": [
+      "Challal Definition",
+      "Heichal Precedent",
+      "Lemata Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Challal Definition",
+      "first_confidence": "high",
+      "first_reason": "Item 1 states Rava's challal principle directly, matching heading 0's prose which explains that Rava's ruling rests on the challal (empty space) concept.",
+      "second_heading": "Heichal Precedent",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Pappa's baraita about the Heichal supporting Rava, which matches heading 1's prose describing exactly that baraita and its confirmation of the challal-based measurement.",
+      "current_heading": "Heichal Precedent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Lemata Problem",
+    "candidates": [
+      "Lemata Problem",
+      "Lemata Reread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the objection from the Tosefta using 'lemata' and Rav Pappa's attempted emendation followed by Rav Shimi's rebuttal \u2014 this is precisely the 'Lemata Problem' the heading describes, before any resolution is reached.",
+      "chosen_heading": "Lemata Problem",
+      "current_heading": "Lemata Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Lemata Reread",
+    "candidates": [
+      "Lemata Reread",
+      "Abaye's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's reinterpretation of *lemata* \u2014 that the lower limit is measured by the *challal* (space) just as the upper limit is, with 10 handbreadths minimum \u2014 which is precisely what the 'Lemata Reread' prose describes.",
+      "chosen_heading": "Lemata Reread",
+      "current_heading": "Lemata Reread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Abaye's Rule",
+    "candidates": [
+      "Abaye's Rule",
+      "Mavoi Measurements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Abaye's rule in the name of Rav Na\u1e25man about the five- and six-handbreadth cubits for sukka/mavoi and kilayim, which is precisely what candidate 0 ('Abaye's Rule') introduces and explains.",
+      "chosen_heading": "Abaye's Rule",
+      "current_heading": "Abaye's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Mavoi Measurements",
+    "candidates": [
+      "Mavoi Measurements",
+      "Sukkah Measurements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the cubit of a mavoi \u2014 its application to height and breach measurements, the complication of the length requirement, and two resolutions \u2014 which matches exactly the prose under 'Mavoi Measurements'.",
+      "chosen_heading": "Mavoi Measurements",
+      "current_heading": "Mavoi Measurements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Sukkah Measurements",
+    "candidates": [
+      "Sukkah Measurements",
+      "Kilayim Measurements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the cubit measurement used for sukkah dimensions (height, dofen akuma, minimum area), matching exactly the 'Sukkah Measurements' prose which covers these same points in the same order.",
+      "chosen_heading": "Sukkah Measurements",
+      "current_heading": "Sukkah Measurements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Kilayim Measurements",
+    "candidates": [
+      "Kilayim Measurements",
+      "Vineyard Compression"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vineyard Compression",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is a closing resolution ('and if you wish say') wrapping up the earlier sukka/rov amot discussion, which belongs under the Vineyard Compression section that discusses the rov amot principle as an alternative resolution.",
+      "second_heading": "Kilayim Measurements",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 introduce the kilayim measurements (karachat ha-kerem and machol ha-kerem) with their specific mishna texts, which is precisely what the Kilayim Measurements prose discusses in detail.",
+      "current_heading": "Kilayim Measurements",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Vineyard Compression",
+    "candidates": [
+      "Vineyard Compression",
+      "Rava Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the compressed-vineyard counterexample (Rabbi Shimon vs. Rabbis on a vineyard planted with less than four amot) and its resolution \u2014 exactly what the 'Vineyard Compression' prose describes.",
+      "chosen_heading": "Vineyard Compression",
+      "current_heading": "Vineyard Compression",
+      "moved": false
+    }
+  }
+]

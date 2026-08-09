@@ -1,0 +1,188 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Mikvah Dispute",
+    "candidates": [
+      "One vs. Two Witnesses",
+      "Mikvah Case Source",
+      "Mikvah Dispute",
+      "Comparative Arguments",
+      "Contested Testimony",
+      "Personal Status Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "medium",
+      "reason": "The passage discusses the status of an Ammonite man who married an Egyptian woman and the lineage rules for their converted offspring \u2014 a topic about personal status rules and lineage tracking \u2014 which fits better under 'Personal Status Rule' than under 'Mikvah Dispute' where it currently sits, though the match is not perfect since the prose there focuses on kohen/mikvah issues rather than Ammonite/Egyptian lineage specifically.",
+      "chosen_heading": "Personal Status Rule",
+      "current_heading": "Mikvah Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Personal Status Rule",
+    "candidates": [
+      "Comparative Arguments",
+      "Contested Testimony",
+      "Personal Status Rule",
+      "Child Follows Father",
+      "Child Follows Disqualifi",
+      "Mamzer Status",
+      "Matrilineal Descent",
+      "Challenge to Completeness",
+      "Convert & Mamzeret",
+      "Klal Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage derives the rule that kiddushin is ineffective for arayot (the 'kol mi she-ein lah alav kiddushin' category) from the verse about a divorced woman becoming 'another man's wife,' and then traces this through wife's sister and all other forbidden relations including the niddah exception \u2014 exactly the Talmudic sourcing for the third mishnah category discussed in the 'Matrilineal Descent' section's prose about 'kol mi she-ein lah alav kiddushin aval yesh lah al acherim kiddushin \u2014 ha-velad mamzer.'",
+      "chosen_heading": "Matrilineal Descent",
+      "current_heading": "Personal Status Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Klal Inclusion",
+    "candidates": [
+      "Child Follows Father",
+      "Child Follows Disqualifi",
+      "Mamzer Status",
+      "Matrilineal Descent",
+      "Challenge to Completeness",
+      "Convert & Mamzeret",
+      "Klal Inclusion",
+      "Eizehu Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage discusses juxtaposing forbidden relatives to either a menstruating woman or a wife's sister, concluding we apply the stringent comparison \u2014 this directly relates to the 'Eizehu Exceptions' section's discussion of how prohibited unions are categorized and the principle of applying stringency when determining mamzer/challal status.",
+      "chosen_heading": "Eizehu Exceptions",
+      "current_heading": "Klal Inclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Eizehu Exceptions",
+    "candidates": [
+      "Klal Inclusion",
+      "Eizehu Exceptions",
+      "Israelite & Challala"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items discuss the derivation of betrothal effectiveness with prohibited unions (a fortiori from yevama, explicit verse in Deuteronomy 21:15, Rabbi Akiva's view, Rabbi Simai's exception for almana l'Kohen Gadol, and Rabbi Yeshevav's dispute) \u2014 exactly the content described in the 'Eizehu Exceptions' prose, which explicitly discusses Rabbi Simai's position, the almana l'Kohen Gadol exception, challulim vs. mamzerus, and Rabbi Shaveiv's disagreement.",
+      "chosen_heading": "Eizehu Exceptions",
+      "current_heading": "Eizehu Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Israelite & Challala",
+    "candidates": [
+      "Israelite & Challala",
+      "Framing Difficulty",
+      "Egyptian Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the gemara's pressure on Rabbi Akiva's reading of the verse (be'ulah le-kohen gadol) and the Rabbanan's alternative, which is precisely what candidate 2's prose describes in its closing section about Rabbi Akiva's strained drasha and the Rabbanan's broader reading of 'ki tiheyenah l'ish.'",
+      "chosen_heading": "Egyptian Generations",
+      "current_heading": "Israelite & Challala",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Egyptian Generations",
+    "candidates": [
+      "Framing Difficulty",
+      "Egyptian Generations",
+      "Non-Jewish Nations",
+      "Converted Nations",
+      "Klal & Eizehu Purpose",
+      "Non-Jewish Tribal Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's analysis of which cases the verse 'ki tiheyenah l'ish shtei nashim' can be referring to \u2014 the Egyptian convert combination problem and Rabbi Akiva's forced reading \u2014 which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Egyptian Generations",
+      "current_heading": "Egyptian Generations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Non-Jewish Tribal Status",
+    "candidates": [
+      "Non-Jewish Nations",
+      "Converted Nations",
+      "Klal & Eizehu Purpose",
+      "Non-Jewish Tribal Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the derivation that betrothal is ineffective with a Canaanite maidservant and gentile woman, and that offspring follows the mother's status \u2014 exactly the content the 'Non-Jewish Tribal Status' prose section addresses, including its explicit discussion of *lo tafsei bah kiddushin* and *valdah kemotah* for both *shifcha Kenaanit* and *nochrit*.",
+      "chosen_heading": "Non-Jewish Tribal Status",
+      "current_heading": "Non-Jewish Tribal Status",
+      "moved": false
+    }
+  }
+]

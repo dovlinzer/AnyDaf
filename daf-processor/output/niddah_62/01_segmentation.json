@@ -105,8 +105,8 @@
           "timestamp": "23:25"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Rabbi Chiyya's Baraita: Even Definite Niddah Blood Can Become Permitted Through Paling and Non-Concern",
@@ -124,7 +124,7 @@
           "timestamp": "25:39"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -239,7 +239,7 @@
           "timestamp": "54:46"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 26,
       "matched": true
     }
   ],
@@ -474,5 +474,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "24:44",
+  "amud_b_micro_title": "Rabbi Chiyya",
+  "shiur_start_daf": 61,
+  "shiur_start_amud": "b"
 }

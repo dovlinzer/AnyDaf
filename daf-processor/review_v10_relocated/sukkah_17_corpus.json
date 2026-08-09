@@ -1,0 +1,277 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Vertical vs Horizontal",
+    "candidates": [
+      "Three Tefachim Air Gap",
+      "Gud Asik Extension",
+      "Vertical vs Horizontal",
+      "Rashi on Dofen Akuma",
+      "Collapsed Roof Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna describing a gap of three tefachim between the schach and the walls rendering the sukka invalid is precisely what the prose under 'Three Tefachim Air Gap' introduces and explains.",
+      "chosen_heading": "Three Tefachim Air Gap",
+      "current_heading": "Vertical vs Horizontal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Collapsed Roof Case",
+    "candidates": [
+      "Rashi on Dofen Akuma",
+      "Collapsed Roof Case",
+      "Portico Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the bayit shenifchat (collapsed roof) case with the four amot rule, which is precisely what the 'Collapsed Roof Case' prose section discusses.",
+      "chosen_heading": "Collapsed Roof Case",
+      "current_heading": "Collapsed Roof Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Portico Case",
+    "candidates": [
+      "Portico Case",
+      "Invalid Edge Case",
+      "Why Three Cases?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the portico case and the large sukkah with invalid edge case in a single Talmudic statement, but it is currently placed under 'Portico Case' and the portico content comes first; however, the prose of candidate 1 ('Invalid Edge Case') more specifically addresses the second half of the passage about pasul schach at the perimeter, while candidate 0 covers the portico portion \u2014 since the item is a single combined passage and the current placement is where it sits, and candidate 0's prose discusses both the portico case and references the same rule, the current placement is acceptable though imperfect.",
+      "chosen_heading": "Portico Case",
+      "current_heading": "Portico Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Why Three Cases?",
+    "candidates": [
+      "Invalid Edge Case",
+      "Why Three Cases?",
+      "Yeshiva Positions",
+      "Separation Mechanism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's explanation of why all three mishna cases are necessary (tzricha), which directly matches the 'Why Three Cases?' section's prose describing exactly this argument about bayit shenifchat, the portico, and the large sukka with intrinsically pasul schach.",
+      "chosen_heading": "Why Three Cases?",
+      "current_heading": "Why Three Cases?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Separation Mechanism",
+    "candidates": [
+      "Yeshiva Positions",
+      "Separation Mechanism",
+      "Four Tefachim Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage reports Rabba finding the students of Rav's yeshiva teaching that air invalidates at three tefachim and pasul schach at four tefachim, which matches exactly the 'Yeshiva Positions' prose describing Rabba's encounter with rabbanan d'vei Rav and their ruling.",
+      "chosen_heading": "Yeshiva Positions",
+      "current_heading": "Separation Mechanism",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Four Tefachim Cases",
+    "candidates": [
+      "Separation Mechanism",
+      "Four Tefachim Cases",
+      "Rava's Thought Exp",
+      "Rava's Shiur View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items depict Rabba's challenge to the students (deriving the three-tefachim air rule from the mishna and arguing pasul schach should follow the four-amot measure) and the students' response invoking dofen akuma \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Four Tefachim Cases",
+      "current_heading": "Four Tefachim Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Rava's Shiur View",
+    "candidates": [
+      "Rava's Thought Exp",
+      "Rava's Shiur View",
+      "Rav/Shmuel Haflaga"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a single continuous dialectical exchange \u2014 Rabba's challenge to the students (item 1), the students' counter-challenge (item 2), Rabba's opening of his response (item 3), and Rabba's resolution via the principle that different categories with different shiurim do not combine (item 4) \u2014 which is precisely what candidate 1's prose describes as Rabba's position resolving the paradox through distinct categories with distinct shiurim (lo mitztarfi).",
+      "chosen_heading": "Rava's Shiur View",
+      "current_heading": "Rava's Shiur View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rav/Shmuel Haflaga",
+    "candidates": [
+      "Rav/Shmuel Haflaga",
+      "Abaye's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabba's 'mah li hiflig' argument about haflaga, which is precisely what the prose under 'Rav/Shmuel Haflaga' discusses and analyzes.",
+      "chosen_heading": "Rav/Shmuel Haflaga",
+      "current_heading": "Rav/Shmuel Haflaga",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Abaye's Objection",
+    "candidates": [
+      "Abaye's Objection",
+      "Rava's Response",
+      "Material Minimums"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye's Objection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's objection about the small sukka, which is precisely what candidate 0 ('Abaye's Objection') discusses in its prose.",
+      "second_heading": "Rava's Response",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabba's response rejecting Abaye's premise, which is precisely what candidate 1 ('Rava's Response') discusses in its prose.",
+      "current_heading": "Abaye's Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Material Minimums",
+    "candidates": [
+      "Rava's Response",
+      "Material Minimums",
+      "Stronger Fills Weaker"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge citing the mishna about different minimum sizes for cloth, sackcloth, leather, and mat \u2014 exactly what the 'Material Minimums' prose section describes as its content.",
+      "chosen_heading": "Material Minimums",
+      "current_heading": "Material Minimums",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Stronger Fills Weaker",
+    "candidates": [
+      "Stronger Fills Weaker",
+      "Common Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita stating that garment/sackcloth/hide/mat combine with each other, which is precisely what heading 0 introduces and discusses as the foundation for the 'stronger fills weaker' principle.",
+      "chosen_heading": "Stronger Fills Weaker",
+      "current_heading": "Stronger Fills Weaker",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Common Application",
+    "candidates": [
+      "Common Application",
+      "No Combination",
+      "Sura Version",
+      "Naharda'a Version",
+      "Chananel's Girsa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Shimon's reason for combination via shared fitness for seat-impurity and Reish Lakish's explanation of the one-tefach measure for a donkey saddle patch, which is precisely what the 'Common Application' prose describes.",
+      "chosen_heading": "Common Application",
+      "current_heading": "Common Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Chananel's Girsa",
+    "candidates": [
+      "No Combination",
+      "Sura Version",
+      "Naharda'a Version",
+      "Chananel's Girsa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Neharde'a version of the teaching \u2014 Rav Yehuda citing Shmuel with the center/side distinction, and Rav's opposing position \u2014 which is precisely what the Naharde'a Version prose section describes.",
+      "chosen_heading": "Naharda'a Version",
+      "current_heading": "Chananel's Girsa",
+      "moved": true
+    }
+  }
+]

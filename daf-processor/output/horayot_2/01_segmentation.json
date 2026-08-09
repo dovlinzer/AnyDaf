@@ -34,7 +34,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Introduction to Horayot: Authority, Institutions, and the Ruling Court (continued)",
@@ -66,8 +66,8 @@
           "timestamp": "09:26"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "The First Mishnah: Individual Following a Mistaken Court Ruling (continued)",
@@ -80,7 +80,7 @@
           "timestamp": "14:55"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -109,7 +109,7 @@
           "timestamp": "23:03"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -133,7 +133,7 @@
           "timestamp": "31:07"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -147,8 +147,8 @@
           "timestamp": "31:28"
         }
       ],
-      "sefaria_index": 16,
-      "matched": true
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Shogeg Al Pihem: The Debate Over Accidental Versus Intentional Reliance on Court Rulings (continued)",
@@ -161,7 +161,7 @@
           "timestamp": "35:19"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -180,7 +180,7 @@
           "timestamp": "44:27"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -204,7 +204,7 @@
           "timestamp": "51:22"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 26,
       "matched": true
     }
   ],
@@ -378,5 +378,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 9,
+  "amud_b_timestamp": "40:08",
+  "amud_b_micro_title": "Doubled Language",
+  "shiur_start_daf": 2,
+  "shiur_start_amud": "a"
 }

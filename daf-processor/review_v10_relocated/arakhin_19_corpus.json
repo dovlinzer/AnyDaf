@@ -1,0 +1,274 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Yarmatya Story",
+    "candidates": [
+      "Pledging Weight",
+      "Yarmatya Story",
+      "Hand Weight Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening Mishnah containing both the general rule about pledging one's weight and the Yarmatya story, and candidate 0's prose explicitly describes both components of this Mishnah (the mishkali alai rule and the im kesef/zahav clause), making it the correct home for the entire passage.",
+      "chosen_heading": "Pledging Weight",
+      "current_heading": "Yarmatya Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Hand Weight Method",
+    "candidates": [
+      "Yarmatya Story",
+      "Hand Weight Method",
+      "Silver vs. Gold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'mishkal yedi alai' case with Rabbi Yehuda's barrel method and Rabbi Yosei's objection, which is precisely what the 'Hand Weight Method' prose describes.",
+      "chosen_heading": "Hand Weight Method",
+      "current_heading": "Hand Weight Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Silver vs. Gold",
+    "candidates": [
+      "Silver vs. Gold",
+      "Pitch & Onions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about 'if silver, silver; if gold, gold,' Rav Yehuda's answer, and the inference about unspecified payment \u2014 exactly the content described in the 'Silver vs. Gold' prose.",
+      "chosen_heading": "Silver vs. Gold",
+      "current_heading": "Silver vs. Gold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Pitch & Onions",
+    "candidates": [
+      "Pitch & Onions",
+      "Wealthy Assessment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the pitch and onions rulings by Ra\u1e25ava and Rav Pappa respectively, which is precisely what the 'Pitch & Onions' prose section describes in detail.",
+      "chosen_heading": "Pitch & Onions",
+      "current_heading": "Pitch & Onions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Wealthy Assessment",
+    "candidates": [
+      "Wealthy Assessment",
+      "Height Rods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the incident of Yarmatya's mother and the Gemara's resolution via 'chasuri mechasra' about distinguished persons paying according to their status, which is precisely what the 'Wealthy Assessment' prose describes.",
+      "chosen_heading": "Wealthy Assessment",
+      "current_heading": "Wealthy Assessment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Height Rods",
+    "candidates": [
+      "Height Rods",
+      "Teiku Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit about Rav Yehuda's ruling on komasi vs. melo komasi, the Tosefta challenge, and the resolution via Rabbi Akiva's interpretive principle \u2014 exactly what the 'Height Rods' prose describes in detail.",
+      "chosen_heading": "Height Rods",
+      "current_heading": "Height Rods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Teiku Cases",
+    "candidates": [
+      "Teiku Cases",
+      "Displacement Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the unresolved dilemmas (teiku) about stature, width, sitting, thickness, and girth, which exactly match the 'Teiku Cases' prose describing those same unresolved edge cases.",
+      "chosen_heading": "Teiku Cases",
+      "current_heading": "Teiku Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Displacement Method",
+    "candidates": [
+      "Displacement Method",
+      "Hand Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous baraita dispute between Rabbi Yehuda and Rabbi Yosei about the displacement method for weighing a limb, which is precisely what the 'Displacement Method' prose describes in detail.",
+      "chosen_heading": "Displacement Method",
+      "current_heading": "Displacement Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Hand Definition",
+    "candidates": [
+      "Hand Definition",
+      "Foot Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question-and-answer about the definition of 'yad' (hand sanctification, vows, tefillin, and the final resolution with hilchata gemiri lah), which is precisely what the 'Hand Definition' prose describes in full detail.",
+      "chosen_heading": "Hand Definition",
+      "current_heading": "Hand Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Foot Definition",
+    "candidates": [
+      "Foot Definition",
+      "Chalitza Anatomy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the definition of *regel* up to the knee and the contradiction from *ba'alei kabbayin* exemption, which is precisely what the 'Foot Definition' section's prose describes.",
+      "chosen_heading": "Foot Definition",
+      "current_heading": "Foot Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Chalitza Anatomy",
+    "candidates": [
+      "Chalitza Anatomy",
+      "Slave Market Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the Torah's definition of 'regel' in the context of \u1e25alitza, the me'al/me'al deme'al derivation, and the anatomical dispute between Rav Pappa and Rav Ashi about the ankle bone \u2014 exactly what the 'Chalitza Anatomy' prose describes.",
+      "chosen_heading": "Chalitza Anatomy",
+      "current_heading": "Chalitza Anatomy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Slave Market Value",
+    "candidates": [
+      "Slave Market Value",
+      "Assessment Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 the Mishna on 'demai yadai alai', Rava's damages-based assessment method, Abaye's challenge, and Abaye's alternative slave-market method \u2014 are precisely the content described in the 'Slave Market Value' prose section.",
+      "chosen_heading": "Slave Market Value",
+      "current_heading": "Slave Market Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Assessment Scenarios",
+    "candidates": [
+      "Assessment Scenarios",
+      "Self-Assessment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Assessment Scenarios",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 cover the sequential dilemmas about assessments for nezikin vs. nedarim, repeated pledges, and simultaneous pledges \u2014 all discussed in the 'Assessment Scenarios' prose.",
+      "second_heading": "Self-Assessment",
+      "second_confidence": "high",
+      "second_reason": "Item 6 covers the case of assessment performed on one's own initiative (amduhu me'elav) and the question of kavanah, which is precisely what the 'Self-Assessment' prose discusses.",
+      "current_heading": "Assessment Scenarios",
+      "moved": true
+    }
+  }
+]

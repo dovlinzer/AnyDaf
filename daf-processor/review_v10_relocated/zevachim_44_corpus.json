@@ -1,0 +1,437 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Matir Concept",
+    "candidates": [
+      "Daf Overview",
+      "Matir Concept",
+      "Piggul Not on Matir",
+      "Shelamim Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the verse from Leviticus 7:18 (the shelamim verse) and a baraita demonstrating that piggul applies beyond just peace offerings, which matches precisely the 'Shelamim Question' section's prose about deriving piggul's scope from the biblical text concerning shelamim.",
+      "chosen_heading": "Shelamim Question",
+      "current_heading": "Matir Concept",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Shelamim Question",
+    "candidates": [
+      "Piggul Not on Matir",
+      "Shelamim Question",
+      "Basar & Zevach",
+      "Kedoshim Inclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shelamim Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 opens the baraita's question about whether piggul is limited to offerings similar to shelamim (eaten two days and one night), which is exactly what the 'Shelamim Question' prose describes.",
+      "second_heading": "Basar & Zevach",
+      "second_confidence": "high",
+      "second_reason": "Item 2 derives piggul's extension to offerings eaten one day and night via 'mibasar' and to the olah via 'zevach', which is precisely what the 'Basar & Zevach' prose discusses.",
+      "current_heading": "Shelamim Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Kedoshim Inclusion",
+    "candidates": [
+      "Basar & Zevach",
+      "Kedoshim Inclusion",
+      "Shelamim Emphasis",
+      "Limiting Principle",
+      "Excluded Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous baraita unit: item 1 introduces the 'asher hem makdishim li' derivation for birds/menachot/log shemen, item 2 explains the double gezeira shava (chilul-chilul and avon-avon) linking tumah\u2192notar\u2192piggul, and item 3 asks why shelamim is mentioned if everything is included \u2014 exactly the sequence described in the 'Kedoshim Inclusion' prose.",
+      "chosen_heading": "Kedoshim Inclusion",
+      "current_heading": "Kedoshim Inclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Excluded Items",
+    "candidates": [
+      "Shelamim Emphasis",
+      "Limiting Principle",
+      "Excluded Items",
+      "Nesachim Debate",
+      "Outer Mizbe'ach",
+      "Parim Exclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Limiting Principle",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 lists the blood-as-matir relationships for various korbanot including parim/se'irim hanisrafim, which is the factual predicate for the 'Limiting Principle' discussion of what has matirin, not the exclusion list.",
+      "second_heading": "Excluded Items",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the list of excluded items (kometz, levonah, ketoret, minchat kohanim, dam) that candidate 2 'Excluded Items' explicitly discusses in its prose.",
+      "current_heading": "Excluded Items",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Parim Exclusion",
+    "candidates": [
+      "Nesachim Debate",
+      "Outer Mizbe'ach",
+      "Parim Exclusion",
+      "Bechor Query",
+      "K-P-K Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Shimon's full statement about the outer mizbe'ach criterion including both the inclusion and exclusion of parim/se'irim, and candidate 1 ('Outer Mizbe'ach') explicitly quotes and discusses this exact formulation, whereas candidate 2 ('Parim Exclusion') only covers the exclusion portion \u2014 the full baraita passage belongs under the heading that introduces Rabbi Shimon's derivation.",
+      "chosen_heading": "Outer Mizbe'ach",
+      "current_heading": "Parim Exclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "K-P-K Rule",
+    "candidates": [
+      "Bechor Query",
+      "K-P-K Rule",
+      "Juxtaposed Klalim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's analysis of why 'similar to shelamim' means bechor, why a mah mazinu analogy fails (due to shelamim's unique requirements), and how the derivation instead comes from 'im he'achol ye'achel' \u2014 exactly what the 'Bechor Query' prose describes, not the K-P-K Rule prose which discusses the subsequent klal u-prat u-klal derivation itself.",
+      "chosen_heading": "Bechor Query",
+      "current_heading": "K-P-K Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Juxtaposed Klalim",
+    "candidates": [
+      "K-P-K Rule",
+      "Juxtaposed Klalim",
+      "Rabbi Meir Position",
+      "Rabbis Counter",
+      "Rav Yosef Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the objection that the two klalim are adjacent rather than framing the prat, and Rava's answer citing the principle from Eretz Yisrael about juxtaposed klalim \u2014 exactly what the 'Juxtaposed Klalim' section's prose discusses.",
+      "chosen_heading": "Juxtaposed Klalim",
+      "current_heading": "Juxtaposed Klalim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Rav Yosef Answer",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Rabbis Counter",
+      "Rav Yosef Answer",
+      "R. Yirmiah Object"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items constitute the Gemara's presentation of Rav Yosef's answer \u2014 items 1-2 set up the problem (the baraita's split verdict between Rabbi Meir and the Rabbis), and items 3-5 provide Rav Yosef's resolution attributing the baraita to Rabbi Yehuda HaNasi, supported by the meilah dispute \u2014 which is precisely what the 'Rav Yosef Answer' prose section describes.",
+      "chosen_heading": "Rav Yosef Answer",
+      "current_heading": "Rav Yosef Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "R. Yirmiah Object",
+    "candidates": [
+      "R. Yirmiah Object",
+      "Abaye Reconcile"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute Rabbi Yirmiah's objection to Rav Yosef \u2014 the sharp rhetorical challenge (item 1), the counter-example of the log brought alone where sprinkling is still a matir yet no piggul applies (item 2), and Rabbi Meir's own concession that his ruling only applies when the log comes with the asham (item 3) \u2014 exactly matching the prose of heading 0.",
+      "chosen_heading": "R. Yirmiah Object",
+      "current_heading": "R. Yirmiah Object",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Abaye Reconcile",
+    "candidates": [
+      "Abaye Reconcile",
+      "Chatas Ha-of"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yirmiah's solution (omit nesachim) and Abaye's counter-proposal (do not omit, reread the baraita's structure), which is precisely what the 'Abaye Reconcile' section's prose describes.",
+      "chosen_heading": "Abaye Reconcile",
+      "current_heading": "Abaye Reconcile",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Chatas Ha-of",
+    "candidates": [
+      "Chatas Ha-of",
+      "Log in Kol",
+      "Minchas Omer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chatas Ha-of",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the bird chatat question and the baraita of Levi, which is exactly what the 'Chatas Ha-of' prose describes.",
+      "second_heading": "Log in Kol",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the log shemen shel metzora being included via 'kol korbanam' and the exclusion based on 'min ha'esh', which is precisely what the 'Log in Kol' prose describes.",
+      "current_heading": "Chatas Ha-of",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Minchas Omer",
+    "candidates": [
+      "Log in Kol",
+      "Minchas Omer",
+      "Chatasam Detail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what the prose for 'Minchas Omer' describes: the inclusion of minchat ha'omer and minchat kena'ot via 'le-chol minchasam,' and the reason one might have excluded them (le-hatir / le-varer avon rather than kapara).",
+      "chosen_heading": "Minchas Omer",
+      "current_heading": "Minchas Omer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Chatasam Detail",
+    "candidates": [
+      "Chatasam Detail",
+      "Asham Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the bird sin offering (chatat ha'of) and the neveilah concern, which exactly matches the 'Chatasam Detail' prose description.",
+      "chosen_heading": "Chatasam Detail",
+      "current_heading": "Chatasam Detail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Asham Types",
+    "candidates": [
+      "Asham Types",
+      "Gezel Ger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the inclusion of asham nazir and asham metzora under 'le-chol ashamam,' which is precisely what the 'Asham Types' prose describes.",
+      "chosen_heading": "Asham Types",
+      "current_heading": "Asham Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Gezel Ger",
+    "candidates": [
+      "Gezel Ger",
+      "Outside Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses gezel ha-ger and the priest's ability to use the stolen property for betrothal, which is precisely what the 'Gezel Ger' section's prose describes.",
+      "chosen_heading": "Gezel Ger",
+      "current_heading": "Gezel Ger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Outside Acts",
+    "candidates": [
+      "Outside Acts",
+      "Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita of Rabbi Elazar in the name of Rabbi Yosei HaGelili stating the piggul/outside-inside distinction, which is precisely what the 'Outside Acts' section prose introduces and explains.",
+      "chosen_heading": "Outside Acts",
+      "current_heading": "Outside Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Examples",
+    "candidates": [
+      "Examples",
+      "Makish Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita's concrete cases (the 'how so' elaboration) directly described in the 'Examples' prose, which explicitly covers all four scenarios: the lo-piggul inner-sprinkling case, the lo-piggul outer-emurim case, and the piggul shechita-with-outer-intention case.",
+      "chosen_heading": "Examples",
+      "current_heading": "Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Makish Source",
+    "candidates": [
+      "Makish Source",
+      "Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehoshua ben Levi's question about the verse 'ka'asher yuram mi-shor zevach hashelamim' and what we learn from it, which directly corresponds to the Makish Source section's discussion of this exact verse and its function as a hekesh.",
+      "chosen_heading": "Makish Source",
+      "current_heading": "Makish Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Halacha",
+    "candidates": [
+      "Halacha",
+      "Messianic Era",
+      "Torah Study Value",
+      "Relevance Concern"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Halacha",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the analytical conclusion about piggul applying to the bull of the anointed priest when actions and intentions relate to the outer altar \u2014 exactly what the 'Halacha' prose summarizes as the ruling's content.",
+      "second_heading": "Messianic Era",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the formal halacha ruling by Rav Nachman, which then prompts Rava's objection about issuing rulings on messianic-era laws \u2014 making it the trigger statement that the 'Messianic Era' section's prose ('Rava immediately objects: hilchesa le-mashiacha?') is built around.",
+      "current_heading": "Halacha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Relevance Concern",
+    "candidates": [
+      "Messianic Era",
+      "Torah Study Value",
+      "Relevance Concern",
+      "Tosafot Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's initial objection ('hilchesa le-mashicha?') followed by Abaye's response and Rava's clarification \u2014 the entire exchange is the content described under heading 0 ('Messianic Era'), which explicitly quotes Rava's objection and asks about the force of pronouncing a definitive halacha on such a matter, matching this passage precisely.",
+      "chosen_heading": "Messianic Era",
+      "current_heading": "Relevance Concern",
+      "moved": true
+    }
+  }
+]

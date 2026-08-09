@@ -1,0 +1,376 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Rava: Shehiya for Malkus",
+    "candidates": [
+      "Rava: Shehiya for Malkus",
+      "Korban vs. Malkus",
+      "Suspended in Air"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rava's dilemma about whether shehiya is required for malkus, concluding with teiku \u2014 exactly what heading 0 ('Rava: Shehiya for Malkus') describes in its prose.",
+      "chosen_heading": "Rava: Shehiya for Malkus",
+      "current_heading": "Rava: Shehiya for Malkus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Suspended in Air",
+    "candidates": [
+      "Korban vs. Malkus",
+      "Suspended in Air",
+      "Willful Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's dilemma about a person suspended in the airspace of the azarah, which is precisely what the 'Suspended in Air' section's prose describes and analyzes.",
+      "chosen_heading": "Suspended in Air",
+      "current_heading": "Suspended in Air",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Willful Tumah",
+    "candidates": [
+      "Willful Tumah",
+      "Tosafot's Case",
+      "Nazir Unintentional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Ashi's dilemma about intentionally rendering oneself impure (bemezid) and whether shehiya applies, concluding with teiku \u2014 which is precisely what the 'Willful Tumah' section's prose describes and analyzes.",
+      "chosen_heading": "Willful Tumah",
+      "current_heading": "Willful Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Nazir Unintentional",
+    "candidates": [
+      "Tosafot's Case",
+      "Nazir Unintentional",
+      "Logic of Shiur",
+      "Tosafot Critique",
+      "Rava's Route Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's dilemma about a nazir in a cemetery requiring shehiya for malkus, which is precisely what the 'Nazir Unintentional' section's prose describes and analyzes in detail.",
+      "chosen_heading": "Nazir Unintentional",
+      "current_heading": "Nazir Unintentional",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Rava's Route Rule",
+    "candidates": [
+      "Logic of Shiur",
+      "Tosafot Critique",
+      "Rava's Route Rule",
+      "Combining Intervals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's ruling about the short route exemption (heel-to-toe, all day long), which is precisely what the 'Rava's Route Rule' section's prose describes and analyzes.",
+      "chosen_heading": "Rava's Route Rule",
+      "current_heading": "Rava's Route Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Combining Intervals",
+    "candidates": [
+      "Combining Intervals",
+      "Abaye's Challenge",
+      "Route Determines It"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rava's dilemma about combining intervals of tarrying (shehiyot) and the gemara's response distinguishing continuous slow walking from actual pauses, which is precisely what the 'Combining Intervals' prose section describes.",
+      "chosen_heading": "Combining Intervals",
+      "current_heading": "Combining Intervals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Route Determines It",
+    "candidates": [
+      "Abaye's Challenge",
+      "Route Determines It",
+      "Rav Zevid Difficulty",
+      "Time-Based Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye raising the dilemma to Rabba \u2014 which matches candidate 0's prose describing Abaye's challenge \u2014 while candidate 1 ('Route Determines It') describes Rabba's/Rava's response, but note that the passage actually includes Rabba's answer ('lo nitna arucha lehiddachot etzlo'), yet the primary content and framing is Abaye's question which belongs under candidate 0, and Rabba's brief reply is part of that same exchange unit.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Route Determines It",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Time-Based Solution",
+    "candidates": [
+      "Rav Zevid Difficulty",
+      "Time-Based Solution",
+      "Route-Based Problem",
+      "Rashi Combines Times",
+      "Abaye's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute Rabbi Zeira's objection (parallel to Rav Zevid's difficulty) asking how one can find a case of mita bidei shamayim for avodah while tamei without simultaneously incurring karet \u2014 exactly what candidate 0's prose describes as 'heichi mishkachat lah,' and the time-based resolution (item 2) and route-based problem (item 3) are the internal logic of that same objection, not yet the resolved solutions described in candidates 1\u20133.",
+      "chosen_heading": "Rav Zevid Difficulty",
+      "current_heading": "Time-Based Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Abaye's Answer",
+    "candidates": [
+      "Route-Based Problem",
+      "Rashi Combines Times",
+      "Abaye's Answer",
+      "Rav Huna Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abaye's direct answer explaining how the kohen exits via the short route while performing avodah by flipping meat with a fork in motion, which is precisely what the 'Abaye's Answer' section describes.",
+      "chosen_heading": "Abaye's Answer",
+      "current_heading": "Abaye's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Rav Huna Rule",
+    "candidates": [
+      "Rav Huna Rule",
+      "Rav Oshaya House"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rav Huna's ruling about a non-priest turning over an offering with a fork, the Gemara's question about what service was performed, and the resolution that accelerating the avodah constitutes avodah \u2014 all of which is precisely what the 'Rav Huna Rule' prose section describes.",
+      "chosen_heading": "Rav Huna Rule",
+      "current_heading": "Rav Huna Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Rav Oshaya House",
+    "candidates": [
+      "Rav Oshaya House",
+      "Rava Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Oshaya's statement about backward entry into a leprous house, which is precisely what the 'Rav Oshaya House' section's prose describes and analyzes.",
+      "chosen_heading": "Rav Oshaya House",
+      "current_heading": "Rav Oshaya House",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Rava Support",
+    "candidates": [
+      "Rava Support",
+      "Roof Entry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rava's response distinguishing full-body entry (covered by presence-based tumah like vessels in the house) from partial entry, which is precisely what the 'Rava Support' prose describes.",
+      "chosen_heading": "Rava Support",
+      "current_heading": "Rava Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Roof Entry",
+    "candidates": [
+      "Roof Entry",
+      "Shehiya Post-Roof",
+      "Horayot Rule",
+      "Variable Korban",
+      "No Asham Talui"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly discusses roof entry, the sanctity of rooftops, and the principle that Torah prohibits only the normal manner of entry (derech bi'ah), which is exactly what the 'Roof Entry' section's prose describes.",
+      "chosen_heading": "Roof Entry",
+      "current_heading": "Roof Entry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "No Asham Talui",
+    "candidates": [
+      "Shehiya Post-Roof",
+      "Horayot Rule",
+      "Variable Korban",
+      "No Asham Talui",
+      "Theological Parallel",
+      "Niddah vs. Mikdash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's identification of the Horayot mishna as the referent of 'zo hi mitzvat aseh she'be'mikdash' and the extension to asham talui \u2014 precisely the content described in the 'Horayot Rule' prose, which explicitly discusses 'zo mitzvat aseh she'be'mikdash she'ein chayavin aleha' and its location in Horayot, whereas the current heading 'No Asham Talui' covers only the second item's content and misses item 1.",
+      "chosen_heading": "Horayot Rule",
+      "current_heading": "No Asham Talui",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Niddah vs. Mikdash",
+    "candidates": [
+      "Theological Parallel",
+      "Niddah vs. Mikdash",
+      "Intercourse Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states exactly what candidate 1's prose describes: beit din liability for positive and negative commandments concerning niddah, and the asham talui for uncertainty about niddah status \u2014 matching the current placement precisely.",
+      "chosen_heading": "Niddah vs. Mikdash",
+      "current_heading": "Niddah vs. Mikdash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Intercourse Case",
+    "candidates": [
+      "Intercourse Case",
+      "Withdrawal Transgression",
+      "One or Two Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that withdrawal is pleasurable like entry and therefore makes the man liable \u2014 which is precisely what the 'Withdrawal Transgression' section's prose describes with the phrase 'mipnei sheyetz'iato hana'ah lo k'vi'ato,' whereas the 'Intercourse Case' section focuses on the setup of the case rather than this liability ruling.",
+      "chosen_heading": "Withdrawal Transgression",
+      "current_heading": "Intercourse Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "One or Two Acts",
+    "candidates": [
+      "Withdrawal Transgression",
+      "One or Two Acts",
+      "Rava Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Abaye and Rava's ruling of 'chayav shtayim' (liable for two) with one for entry and one for withdrawal, which is precisely what the 'One or Two Acts' section prose discusses.",
+      "chosen_heading": "One or Two Acts",
+      "current_heading": "One or Two Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Rava Challenge",
+    "candidates": [
+      "Rava Challenge",
+      "Abaye Answer",
+      "Korban Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabba's (labeled Rava in the heading) analysis questioning why a talmid chacham would be liable for the withdrawal, since that act is mezid \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Rava Challenge",
+      "current_heading": "Rava Challenge",
+      "moved": false
+    }
+  }
+]

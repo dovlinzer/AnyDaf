@@ -63,7 +63,7 @@
           "timestamp": "12:54"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -92,8 +92,8 @@
           "timestamp": "19:34"
         }
       ],
-      "sefaria_index": 1,
-      "matched": false
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Tosafot's Resolution: Ritzuy Tzitz for Non-Fixed-Time Korbanot When the Object is Tamei",
@@ -116,8 +116,8 @@
           "timestamp": "22:18"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Rav Nachman's Response: Distinguishing Fixed-Time from Non-Fixed-Time Korbanot (continued)",
@@ -130,8 +130,8 @@
           "timestamp": "24:01"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Blood and Meat Becoming Tamei: Braita on Validity of Tamei Sacrifices and the Role of Tzitz",
@@ -159,7 +159,7 @@
           "timestamp": "32:05"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -212,8 +212,8 @@
           "timestamp": "48:42"
         }
       ],
-      "sefaria_index": 13,
-      "matched": true
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Debate on Whether Tzitz Must Be Worn: Rabbi Yehuda vs. Rabbi Shimon on the Forehead Requirement",
@@ -246,7 +246,7 @@
           "timestamp": "53:49"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 11,
       "matched": true
     }
   ],
@@ -540,5 +540,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "36:25",
+  "amud_b_micro_title": "Pigul Disqualified",
+  "shiur_start_daf": 7,
+  "shiur_start_amud": "a"
 }

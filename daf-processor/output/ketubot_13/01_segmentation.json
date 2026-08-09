@@ -24,8 +24,8 @@
           "timestamp": "02:52"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Amoraim Debate on Bari versus Shema: Rav Yehuda and Rav Huna versus Rav Nachman and Rabbi Yochanan",
@@ -125,8 +125,8 @@
           "timestamp": "29:20"
         }
       ],
-      "sefaria_index": 1,
-      "matched": false
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Third Mishnah Case: Woman Seen with a Man; Claims He Is a Kohen, Making Her Status Acceptable (continued)",
@@ -139,7 +139,7 @@
           "timestamp": "30:33"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -169,7 +169,7 @@
         }
       ],
       "sefaria_index": 11,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Analyzing the Baraita: The Distinction Between Majority of Kosher Versus Majority of Invalid in Different Locations",
@@ -226,7 +226,7 @@
           "timestamp": "47:02"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 22,
       "matched": true
     }
   ],
@@ -844,5 +844,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "39:44",
+  "amud_b_micro_title": "Ruins Distinction",
+  "shiur_start_daf": 12,
+  "shiur_start_amud": "b"
 }

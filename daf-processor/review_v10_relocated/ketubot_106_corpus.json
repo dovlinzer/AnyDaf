@@ -1,0 +1,442 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Fish Gift Rejected",
+    "candidates": [
+      "Fish Gift Rejected",
+      "Gifts as Bikkurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Anan receiving the fish basket, being told the man has a case, refusing the gift, and declaring himself disqualified \u2014 exactly what the 'Fish Gift Rejected' prose describes.",
+      "chosen_heading": "Fish Gift Rejected",
+      "current_heading": "Fish Gift Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Gifts as Bikkurim",
+    "candidates": [
+      "Gifts as Bikkurim",
+      "Aliyah & Rebbe",
+      "Gift Accepted",
+      "Referral Letter",
+      "Misinterpretation",
+      "Two Mitzvot",
+      "Orphans Suspended",
+      "Silenced Party",
+      "Bias & Perception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about bringing gifts to a Torah scholar being equivalent to bikkurim, which is precisely what the 'Gifts as Bikkurim' section's prose discusses.",
+      "chosen_heading": "Gifts as Bikkurim",
+      "current_heading": "Gifts as Bikkurim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Bias & Perception",
+    "candidates": [
+      "Aliyah & Rebbe",
+      "Gift Accepted",
+      "Referral Letter",
+      "Misinterpretation",
+      "Two Mitzvot",
+      "Orphans Suspended",
+      "Silenced Party",
+      "Bias & Perception",
+      "Eliyahu Visits",
+      "Eliyahu Withdrawn",
+      "Fast & Fear"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Misinterpretation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Rav Anan accepting the gift, sending the man to Rav Nachman with the recusal letter, and Rav Nachman inferring he must be a relative \u2014 exactly the content described in candidates 1-3, with the 'Misinterpretation' heading (candidate 3) being the best single home for the culminating inference, though items 1-2 span candidates 1-3; the referral letter and misinterpretation form one continuous narrative unit ending with Rav Nachman's conclusion that the man is Rav Anan's relative.",
+      "second_heading": "Two Mitzvot",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the two competing mitzvot (orphans' case vs. kavod Torah), Rav Nachman's resolution to set aside the orphans' case, and the silencing of the opposing litigant \u2014 precisely the content of candidate 4 ('Two Mitzvot').",
+      "current_heading": "Bias & Perception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Fast & Fear",
+    "candidates": [
+      "Eliyahu Visits",
+      "Eliyahu Withdrawn",
+      "Fast & Fear",
+      "Box Teaching",
+      "Rabba vs Zuta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all events from Eliyahu's regular visits through his withdrawal and frightening return, matching the full arc beginning with the 'Eliyahu Visits' section, but since it spans multiple sections the content is most completely introduced under heading 0 which opens the narrative \u2014 however, the passage actually contains all four narrative beats and the current placement under 'Fast & Fear' (index 2) only captures the latter portion, while heading 0 introduces the whole story; yet given the passage covers Eliyahu visiting, withdrawing, and returning with fear, it best fits as a unified passage under heading 0 where the relationship is first established.",
+      "chosen_heading": "Eliyahu Visits",
+      "current_heading": "Fast & Fear",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Rabba vs Zuta",
+    "candidates": [
+      "Box Teaching",
+      "Rabba vs Zuta",
+      "Mida Kneged Mida",
+      "Famine Prayer",
+      "Elisha Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Anan making a box and sitting before Elijah until he received the complete seder, which is precisely what the 'Box Teaching' prose discusses \u2014 the current placement under 'Rabba vs Zuta' is where the commentary about this passage belongs, not the passage itself.",
+      "chosen_heading": "Box Teaching",
+      "current_heading": "Rabba vs Zuta",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Elisha Precedent",
+    "candidates": [
+      "Mida Kneged Mida",
+      "Famine Prayer",
+      "Elisha Precedent",
+      "2200 Students"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the famine/divine anger situation and Rav Yosef being asked to pray, which matches the 'Famine Prayer' section's prose exactly \u2014 the 'Elisha Precedent' and '2200 Students' sections cover the reasoning Rav Yosef gives, but the quoted text includes both the setup (famine, request to pray) and Rav Yosef's response, and 'Famine Prayer' is the section whose prose introduces this entire episode.",
+      "chosen_heading": "Famine Prayer",
+      "current_heading": "Elisha Precedent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "2200 Students",
+    "candidates": [
+      "Elisha Precedent",
+      "2200 Students",
+      "Bread Math",
+      "Rav: 1,200",
+      "Huna: 800",
+      "Dust Covers Sun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives from the verse 'how shall I set this before a hundred men' that Elisha had 2,200 students, which is precisely what the '2200 Students' section's prose describes as its topic.",
+      "chosen_heading": "2200 Students",
+      "current_heading": "2200 Students",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Dust Covers Sun",
+    "candidates": [
+      "Bread Math",
+      "Rav: 1,200",
+      "Huna: 800",
+      "Dust Covers Sun",
+      "Rava & Yosef: 400",
+      "Later: 200"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the 1,200 at Rav's yeshiva and the 800 at Rav Huna's yeshiva (including the 13 amoraim and the dust cloud detail), so it belongs under 'Rav: 1,200' which is the first heading that introduces this combined passage \u2014 the current placement under 'Dust Covers Sun' splits the content artificially.",
+      "chosen_heading": "Rav: 1,200",
+      "current_heading": "Dust Covers Sun",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Later: 200",
+    "candidates": [
+      "Rava & Yosef: 400",
+      "Later: 200",
+      "Blemish Inspectors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the 400 remaining at Rabba/Rav Yosef's school AND the 200 remaining at Abaye/Rav Pappa/Rav Ashi's school in a single continuous text, so it belongs under the heading that introduces the first part of this combined Talmudic statement (candidate 0, 'Rava & Yosef: 400'), not split across two headings.",
+      "chosen_heading": "Rava & Yosef: 400",
+      "current_heading": "Later: 200",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Blemish Inspectors",
+    "candidates": [
+      "Later: 200",
+      "Blemish Inspectors",
+      "Shechita Teachers",
+      "Kemitza Teachers",
+      "Torah Proofers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both blemish inspectors and shechita teachers in one Talmudic unit, and the current heading 'Blemish Inspectors' with its prose explicitly introduces both topics as part of the gemara's return to the theme of payment from communal funds, making it the correct placement.",
+      "chosen_heading": "Blemish Inspectors",
+      "current_heading": "Blemish Inspectors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Torah Proofers",
+    "candidates": [
+      "Shechita Teachers",
+      "Kemitza Teachers",
+      "Torah Proofers",
+      "Parochet Weavers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the kemitza teachers statement (Rav Giddel/Rav) and the proofreaders statement (Rabba bar bar \u1e24ana/Rabbi Yo\u1e25anan), but the kemitza teachers content belongs under 'Kemitza Teachers' (index 1), and the current placement under 'Torah Proofres' (index 2) only covers the second half \u2014 however, since both statements appear as a single quoted item, and the kemitza teaching statement is the primary/first content of the item, it best fits under index 1 whose prose explicitly discusses Rav Giddel's statement about kemitza teachers, while the proofreaders statement would naturally follow as the next section; given the item must go under one heading and the kemitza content is not yet covered, index 1 is the better match.",
+      "chosen_heading": "Kemitza Teachers",
+      "current_heading": "Torah Proofers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Parochet Weavers",
+    "candidates": [
+      "Torah Proofers",
+      "Parochet Weavers",
+      "13 Parochet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Na\u1e25man's dispute about whether parochet weavers are paid from terumat ha-lishka or bedek ha-bayit, and the baraita objection citing parochet weavers alongside Beis Garmu and Beis Avtinas \u2014 are precisely the content described in the 'Parochet Weavers' prose, which explicitly covers this dispute and this baraita objection.",
+      "chosen_heading": "Parochet Weavers",
+      "current_heading": "Parochet Weavers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "13 Parochet",
+    "candidates": [
+      "13 Parochet",
+      "Para Aduma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the thirteen curtains in the Second Temple, which is precisely what the '13 Parochet' section's prose describes.",
+      "chosen_heading": "13 Parochet",
+      "current_heading": "13 Parochet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Para Aduma",
+    "candidates": [
+      "Para Aduma",
+      "Vessels Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses women raising children for the para aduma and their support from terumat ha-lishka, which is precisely what the 'Para Aduma' section prose describes in detail.",
+      "chosen_heading": "Para Aduma",
+      "current_heading": "Para Aduma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Vessels Source",
+    "candidates": [
+      "Vessels Source",
+      "Vessels Answer",
+      "Proof Text",
+      "Melachim Version"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vessels Source",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain Rav Huna's dilemma and Rav's answer, matching both 'Vessels Source' (the question framing) and 'Vessels Answer' (Rav's ruling), but since items 1-2 together span the question and answer, the question portion belongs under 'Vessels Source' and the answer under 'Vessels Answer' \u2014 however, since item 1 is just the introduction to item 2's dilemma, items 1-2 form one unit best placed under 'Vessels Source' which covers both the question framing and the dilemma itself.",
+      "second_heading": "Proof Text",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the proof-text challenge from Divrei HaYamim showing klei shares came from bedek ha-bayit funds, which matches exactly the 'Proof Text' section prose.",
+      "current_heading": "Vessels Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Melachim Version",
+    "candidates": [
+      "Vessels Answer",
+      "Proof Text",
+      "Melachim Version",
+      "Lev Beis Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the Melachim verse showing Temple money was given to craftsmen not used for vessels, which is precisely what the 'Melachim Version' prose describes as resolving the contradiction with Divrei HaYamim.",
+      "chosen_heading": "Melachim Version",
+      "current_heading": "Melachim Version",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Lev Beis Din",
+    "candidates": [
+      "Lev Beis Din",
+      "Yishmael View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the resolution of the contradiction between verses (lo kashya) and Rabbi Abbahu's principle of lev beis din matne aleihem, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Lev Beis Din",
+      "current_heading": "Lev Beis Din",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Yishmael View",
+    "candidates": [
+      "Yishmael View",
+      "Shirei Option",
+      "Kesef Rishon",
+      "Main Items",
+      "Motar Nesachim",
+      "Building Funds",
+      "City Needs",
+      "Kayitz Concept",
+      "Buy Low Sell High",
+      "Yishmael View",
+      "Akiva Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The entire passage is one continuous sugya flowing from tana debei Rabbi Yishmael's teaching about klei shares through the tannaitic dispute and Rabbi Akiva's objection, all of which is described in heading 0's prose.",
+      "chosen_heading": "Yishmael View",
+      "current_heading": "Yishmael View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Akiva Objection",
+    "candidates": [
+      "Shirei Option",
+      "Kesef Rishon",
+      "Main Items",
+      "Motar Nesachim",
+      "Building Funds",
+      "City Needs",
+      "Kayitz Concept",
+      "Buy Low Sell High",
+      "Yishmael View",
+      "Akiva Objection",
+      "Poor People"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage explains both reasons for Rabbi Akiva's ruling \u2014 'ein aniyut bi-mkom ashirut' for hekdesh funds and 'dilma mitrami lehu ani' for poor funds \u2014 which directly matches the 'Poor People' section's prose discussing both of Rabbi Akiva's objections, particularly the second one about charity funds.",
+      "chosen_heading": "Poor People",
+      "current_heading": "Akiva Objection",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "David's Gezeirah",
+    "candidates": [
+      "Intro: Netinim",
+      "Lo Titchaten Bam",
+      "David's Gezeirah",
+      "Three-Year Famine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely the teaching of Rav \u1e24ana bar Adda that David decreed concerning the Gibeonites, which is exactly what candidate 2 ('David's Gezeirah') describes in its prose.",
+      "chosen_heading": "David's Gezeirah",
+      "current_heading": "David's Gezeirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Three-Year Famine",
+    "candidates": [
+      "Three-Year Famine",
+      "Divine Inquiry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items describe David's three-year famine investigation year by year, which is precisely what the 'Three-Year Famine' prose section describes in detail.",
+      "chosen_heading": "Three-Year Famine",
+      "current_heading": "Three-Year Famine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Divine Inquiry",
+    "candidates": [
+      "Divine Inquiry",
+      "Saul's Culpability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss David's inquiry through the Urim VeTummim \u2014 exactly what the 'Divine Inquiry' prose describes, including the gezerah shavah on 'pnei' that Rabbi Elazar uses to confirm Resh Lakish's identification.",
+      "chosen_heading": "Divine Inquiry",
+      "current_heading": "Divine Inquiry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Saul's Culpability",
+    "candidates": [
+      "Saul's Culpability",
+      "Dual Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Saul's culpability for the Gibeonites' deaths through the destruction of Nob, which is exactly what the prose under 'Saul's Culpability' discusses.",
+      "chosen_heading": "Saul's Culpability",
+      "current_heading": "Saul's Culpability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Dual Punishment",
+    "candidates": [
+      "Dual Punishment",
+      "Givonim Demand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly address the 'Dual Punishment' topic: the Gemara's question about the two simultaneous punishments, Reish Lakish's resolution via the verse, and David's reflection on the twelve-month mourning period for Saul \u2014 all of which are explicitly discussed in the 'Dual Punishment' prose.",
+      "chosen_heading": "Dual Punishment",
+      "current_heading": "Dual Punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Givonim Demand",
+    "candidates": [
+      "Givonim Demand",
+      "Jewish Virtues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes David calling the Gibeonites, their demand for seven of Saul's sons, and David's failed attempt to appease them otherwise \u2014 exactly what the 'Givonim Demand' prose section describes.",
+      "chosen_heading": "Givonim Demand",
+      "current_heading": "Givonim Demand",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Jewish Virtues",
+    "candidates": [
+      "Jewish Virtues",
+      "Conclusion: Unfit",
+      "Selection Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the three distinguishing marks of the Jewish people (merciful, shamefaced, performers of kindness) and the conclusion that whoever has these traits is fit to cleave to the nation, which is precisely what the 'Jewish Virtues' section prose discusses.",
+      "chosen_heading": "Jewish Virtues",
+      "current_heading": "Jewish Virtues",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Selection Process",
+    "candidates": [
+      "Conclusion: Unfit",
+      "Selection Process",
+      "Children Punished"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items concern the selection process of which seven descendants of Shaul would be handed over, specifically Rav Huna's Ark test and the subsequent discussion about David's compassion for Mephiboshes \u2014 exactly what candidate 1 'Selection Process' describes in detail.",
+      "chosen_heading": "Selection Process",
+      "current_heading": "Selection Process",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Children Punished",
+    "candidates": [
+      "Children Punished",
+      "Ritzpah's Vigil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of executing children for their father's sins and Rabbi Yochanan's answer that it is better to uproot one letter than desecrate God's name publicly, which is exactly what the 'Children Punished' prose section discusses.",
+      "chosen_heading": "Children Punished",
+      "current_heading": "Children Punished",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Ritzpah's Vigil",
+    "candidates": [
+      "Ritzpah's Vigil",
+      "Kiddush Hashem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the Rizpah verse and raises the halakhic problem about leaving bodies unburied overnight, which directly matches the prose in heading 0 ('Ritzpah's Vigil') that discusses exactly this verse and this halakhic difficulty.",
+      "chosen_heading": "Ritzpah's Vigil",
+      "current_heading": "Ritzpah's Vigil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Kiddush Hashem",
+    "candidates": [
+      "Kiddush Hashem",
+      "Converts Arrive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the kiddush Hashem mechanism \u2014 passersby asking about the hanged men, being told they were sons of kings who harmed converts, and concluding Israel is the most worthy nation \u2014 which is precisely what the 'Kiddush Hashem' section's prose elaborates on in detail.",
+      "chosen_heading": "Kiddush Hashem",
+      "current_heading": "Kiddush Hashem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Converts Arrive",
+    "candidates": [
+      "Converts Arrive",
+      "Yehoshua's Decree",
+      "Moshe vs. Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the 150,000 converts joining Israel through Solomon's workforce, with scriptural proofs from Kings and Chronicles \u2014 exactly the content described in the 'Converts Arrive' prose.",
+      "chosen_heading": "Converts Arrive",
+      "current_heading": "Converts Arrive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Moshe vs. Yehoshua",
+    "candidates": [
+      "Yehoshua's Decree",
+      "Moshe vs. Yehoshua",
+      "David's Extension",
+      "Repeal Attempt"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Moshe vs. Yehoshua",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the Moshe vs. David distinction \u2014 Moses decreed only for that generation while David extended it to all generations \u2014 which matches candidate 1's prose exactly.",
+      "second_heading": "David's Extension",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses Joshua's decree being limited to when the Temple stands versus David's extension to when the Temple is not standing, which matches candidate 2's prose exactly.",
+      "current_heading": "Moshe vs. Yehoshua",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Repeal Attempt",
+    "candidates": [
+      "David's Extension",
+      "Repeal Attempt",
+      "Shares Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the attempt to permit the netinim and Rabbi's response about releasing 'our share' versus the altar's share, which is precisely what the 'Repeal Attempt' section's prose discusses.",
+      "chosen_heading": "Repeal Attempt",
+      "current_heading": "Repeal Attempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Shares Doctrine",
+    "candidates": [
+      "Shares Doctrine",
+      "Saris Traditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi \u1e24iyya bar Abba's ruling about the congregation's share and the altar's share, which is exactly what the 'Shares Doctrine' prose discusses and contrasts with Rabbi Yehuda HaNasi's position.",
+      "chosen_heading": "Shares Doctrine",
+      "current_heading": "Shares Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Saris Traditions",
+    "candidates": [
+      "Saris Traditions",
+      "Akiva's Distinction",
+      "Sha'at Kosher",
+      "Eliezer's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself in which Rabbi Yehoshua reports hearing two contradictory traditions about a saris performing chalitzah without being able to explain them, which is precisely what the 'Saris Traditions' prose describes.",
+      "chosen_heading": "Saris Traditions",
+      "current_heading": "Saris Traditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Eliezer's View",
+    "candidates": [
+      "Akiva's Distinction",
+      "Sha'at Kosher",
+      "Eliezer's View",
+      "Ben Magusas Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the full dispute between Rabbi Akiva and Rabbi Eliezer on saris adam vs. saris chamah, and the prose under 'Eliezer's View' explicitly discusses both positions and their contrasting logic, making it the correct home for the complete passage.",
+      "chosen_heading": "Eliezer's View",
+      "current_heading": "Eliezer's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Ben Magusas Case",
+    "candidates": [
+      "Ben Magusas Case",
+      "Final Ruling",
+      "Sex vs. Chalitzah",
+      "Ailonit Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the testimony of Rabbi Yehoshua ben Beteira about ben Megusat, which is precisely what the 'Ben Magusas Case' prose section discusses in detail.",
+      "chosen_heading": "Ben Magusas Case",
+      "current_heading": "Ben Magusas Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Ailonit Rules",
+    "candidates": [
+      "Final Ruling",
+      "Sex vs. Chalitzah",
+      "Ailonit Rules",
+      "Prohibition Paradox"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Final Ruling",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the categorical Mishnaic ruling that 'a saris does not perform chalitzah or yibum, and similarly an ailonit does not perform chalitzah or yibum,' which the 'Final Ruling' prose explicitly quotes and analyzes as a stam teaching.",
+      "second_heading": "Sex vs. Chalitzah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the consequences of invalid chalitzah vs. sexual intercourse by a saris or ailonit, which the 'Sex vs. Chalitzah' prose discusses directly in terms of pasla/lo pasla and be'ilat zenut.",
+      "current_heading": "Ailonit Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Prohibition Paradox",
+    "candidates": [
+      "Ailonit Rules",
+      "Prohibition Paradox",
+      "Convert Resolution",
+      "Kahal Gerim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Gemara's challenge to Rabbi Akiva's position \u2014 that chayavei lavin are like chayavei keritot, and those subject to karet are excluded from chalitzah/yibum \u2014 which is precisely what the 'Prohibition Paradox' prose describes.",
+      "chosen_heading": "Prohibition Paradox",
+      "current_heading": "Prohibition Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Kahal Gerim",
+    "candidates": [
+      "Convert Resolution",
+      "Kahal Gerim",
+      "Yibum Question",
+      "Restriction Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Ami's resolution statement identifying the case as involving a convert, which is the 'Convert Resolution' section's topic \u2014 the Kahal Gerim section covers the consequence/reasoning of Rabbi Yossi's principle, but the passage itself is Rabbi Ami's opening resolution that belongs under the Convert Resolution heading.",
+      "chosen_heading": "Convert Resolution",
+      "current_heading": "Kahal Gerim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Restriction Scope",
+    "candidates": [
+      "Yibum Question",
+      "Restriction Scope",
+      "Testimony Inference",
+      "Permission Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the question of why the Mishnah speaks only of chalitzah rather than yibum, and the answer that yibum is also in principle permitted \u2014 which is precisely what the 'Yibum Question' prose describes, including the Ben Megusat testimony confirming that yibum was actually performed.",
+      "chosen_heading": "Yibum Question",
+      "current_heading": "Restriction Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Permission Principle",
+    "candidates": [
+      "Testimony Inference",
+      "Permission Principle",
+      "Valid Acts",
+      "Prohibition Remains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about ptzua daka, khrut shofcha, saris adam, and elderly men being able to either perform chalitzah or yibum, which directly corresponds to the 'Permission Principle' prose describing this exact baraita and its ruling of 'o chaltzin o meyabmin.'",
+      "chosen_heading": "Permission Principle",
+      "current_heading": "Permission Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Prohibition Remains",
+    "candidates": [
+      "Valid Acts",
+      "Prohibition Remains",
+      "Rava's Question",
+      "Rava's Proposal",
+      "Abaye's Objection",
+      "Underage Wife Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the prohibition of maintaining the marriage (ve-assur le-kayanam) and the verse about ptzua daka in the congregation of Israel, which exactly matches the 'Prohibition Remains' section's prose.",
+      "chosen_heading": "Prohibition Remains",
+      "current_heading": "Prohibition Remains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150,
+      151
+    ],
+    "current_heading": "Underage Wife Case",
+    "candidates": [
+      "Rava's Question",
+      "Rava's Proposal",
+      "Abaye's Objection",
+      "Underage Wife Case",
+      "Prohibition Cancellation",
+      "Rav Yosef Answer",
+      "Simple Lav Category",
+      "Kinship Lavim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form Abaye's objection to Rabba's proposal: item 1 states Rabba's case (the injury came after), items 2-3 are Abaye's challenge citing Rabban Gamliel's ruling that a later-arising prohibition can override an already-established yibum obligation \u2014 which is precisely what candidate 2 ('Abaye's Objection') describes in its prose.",
+      "chosen_heading": "Abaye's Objection",
+      "current_heading": "Underage Wife Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      161
+    ],
+    "current_heading": "Kinship Lavim",
+    "candidates": [
+      "Prohibition Cancellation",
+      "Rav Yosef Answer",
+      "Simple Lav Category",
+      "Kinship Lavim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's direct statement attributing the mishna's position to the school of Rabbi Akiva, which is precisely what the 'Rav Yosef Answer' section's prose describes.",
+      "chosen_heading": "Rav Yosef Answer",
+      "current_heading": "Kinship Lavim",
+      "moved": true
+    }
+  }
+]

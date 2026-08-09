@@ -1,0 +1,411 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Brain Push Test",
+    "candidates": [
+      "Intro: Birds List",
+      "Esophagus & Trachea",
+      "Weasel Attack",
+      "Gizzard & Organs",
+      "Fire Damage",
+      "Trampling Impact",
+      "Brain Push Test",
+      "Brain Membranes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes exactly the method Rav, Shmuel, and Levi prescribe for testing whether the brain membrane was pierced after a weasel attack, which is precisely what the 'Brain Push Test' section's prose discusses.",
+      "chosen_heading": "Brain Push Test",
+      "current_heading": "Brain Push Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Brain Membranes",
+    "candidates": [
+      "Brain Membranes",
+      "Zeiri Position",
+      "Diagonal Holes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the debate about inner vs. outer membrane perforation and the resolution that the inner membrane bursts due to fragility, which is precisely what the 'Brain Membranes' section prose describes.",
+      "chosen_heading": "Brain Membranes",
+      "current_heading": "Brain Membranes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Diagonal Holes",
+    "candidates": [
+      "Zeiri Position",
+      "Diagonal Holes",
+      "Zeiri Retraction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Zeiri's initial statement (thin teeth) and Rav Oshaya's clarification (thin and crooked), which together form Zeiri's position \u2014 the 'Zeiri Position' prose covers both parts of this exchange as one unit, while 'Diagonal Holes' prose treats Rav Oshaya's answer as a response to a gemara question, suggesting the passage should be read as a whole under the initial position heading.",
+      "chosen_heading": "Zeiri Position",
+      "current_heading": "Diagonal Holes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Zeiri Retraction",
+    "candidates": [
+      "Diagonal Holes",
+      "Zeiri Retraction",
+      "Hand vs. Nail",
+      "Testing Trade-offs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Zeiri's retraction and transmission of Reish Lakish's ruling about hand vs. nail inspection, which is precisely what the 'Zeiri Retraction' prose discusses.",
+      "chosen_heading": "Zeiri Retraction",
+      "current_heading": "Zeiri Retraction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Testing Trade-offs",
+    "candidates": [
+      "Hand vs. Nail",
+      "Testing Trade-offs",
+      "Thin Membranes",
+      "Levi's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion of the hand-vs-needle dispute between Rabbi Yehuda and Rabbi Ne\u1e25emya, the clarification of 'nevelot' vs 'tereifot', the identification of Rabbi Yehuda as the hand-inspector via baraita, and the resolution of the baraita's internal contradiction regarding waterfowl \u2014 exactly the content described in candidate 1's prose.",
+      "chosen_heading": "Testing Trade-offs",
+      "current_heading": "Testing Trade-offs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Levi's Rule",
+    "candidates": [
+      "Thin Membranes",
+      "Levi's Rule",
+      "Case Study",
+      "Sun & Water Tests"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Levi's Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Rav Na\u1e25man/Rav Anan exchange challenging how inspection is possible given Levi's baraita about skull fractures in birds, which is precisely the tension that heading 'Levi's Rule' (index 1) describes as its central focus.",
+      "second_heading": "Case Study",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the concrete case of Rav \u1e24ana's chicken sent to Rav Mattana, which is exactly the 'Case Study' (index 2) described in that section's prose about Rav Chana's chicken with a fractured skull ruled kosher by Rav Matna.",
+      "current_heading": "Levi's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Sun & Water Tests",
+    "candidates": [
+      "Case Study",
+      "Sun & Water Tests",
+      "Geese Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the inspection techniques used by Rav Sheizvi, Rav Yeimar, and Rav Acha bar Yaakov \u2014 exactly the content discussed in the 'Sun & Water Tests' prose section, which is the current placement.",
+      "chosen_heading": "Sun & Water Tests",
+      "current_heading": "Sun & Water Tests",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Geese Status",
+    "candidates": [
+      "Geese Status",
+      "Green Amount",
+      "Liver Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that geese are classified like waterfowl, which is precisely what the 'Geese Status' section's prose discusses.",
+      "chosen_heading": "Geese Status",
+      "current_heading": "Geese Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Liver Evidence",
+    "candidates": [
+      "Green Amount",
+      "Liver Evidence",
+      "Intact Organs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Green Amount",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Rabbi Yochanan/Rabbi Yosi ben Yehoshua teaching about the measure of greening equaling the measure of perforation, which is exactly what the 'Green Amount' prose describes.",
+      "second_heading": "Liver Evidence",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rav Yosef/Rabbi Yehoshua ben Levi/Rava discussion about the liver turning green facing the intestines as forensic evidence of fire damage, which is precisely what the 'Liver Evidence' prose describes.",
+      "current_heading": "Liver Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Intact Organs",
+    "candidates": [
+      "Intact Organs",
+      "Color Reversals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehoshua ben Levi's hen with green organs and Rabbi Elazar HaKappar's ruling limiting the green-disqualification rule to the gizzard, heart, and liver, which is exactly what the 'Intact Organs' prose discusses in detail.",
+      "chosen_heading": "Intact Organs",
+      "current_heading": "Intact Organs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Color Reversals",
+    "candidates": [
+      "Color Reversals",
+      "Boiling Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yitzchak bar Yosef's hen sent to Rabbi Abbahu, the red innards issue, and the explanation about color reversals and which organs are naturally red \u2014 exactly what the 'Color Reversals' section prose discusses in detail.",
+      "chosen_heading": "Color Reversals",
+      "current_heading": "Color Reversals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Boiling Test",
+    "candidates": [
+      "Boiling Test",
+      "Testing Limits",
+      "No Presumed Defects",
+      "Internal Check"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "The passage covers all three topics (boiling test, testing limits, no presumed defects) discussed across candidates 0-2, but since it is a single unified Talmudic excerpt and candidate 0's prose already introduces the core boiling test discussion that opens the passage, the current placement is acceptable, though candidates 1 and 2 each discuss portions of the same passage.",
+      "chosen_heading": "Boiling Test",
+      "current_heading": "Boiling Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Internal Check",
+    "candidates": [
+      "Testing Limits",
+      "No Presumed Defects",
+      "Internal Check",
+      "24-Hour Rule",
+      "Minor Damage OK",
+      "Missing Crop",
+      "Protruding Organs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of darsa vetarfa bekosel and Rabbi Elazar ben Antigonus's ruling that inspection is required, which is exactly what the 'Internal Check' prose describes.",
+      "chosen_heading": "Internal Check",
+      "current_heading": "Internal Check",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Protruding Organs",
+    "candidates": [
+      "24-Hour Rule",
+      "Minor Damage OK",
+      "Missing Crop",
+      "Protruding Organs",
+      "Feather Loss",
+      "Simai & Tzadok"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna's content spans all the kosher-bird cases (perforated windpipe, weasel strike, crop, protruding organs, broken wings/legs, plucked feathers), and the 'Minor Damage OK' section's prose explicitly introduces this mishna as 'eilu k'sheiros ba'of' and discusses its opening cases, making it the natural header for the full mishna passage.",
+      "chosen_heading": "Minor Damage OK",
+      "current_heading": "Protruding Organs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Simai & Tzadok",
+    "candidates": [
+      "Feather Loss",
+      "Simai & Tzadok",
+      "Teiku Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the incident of Rabbi Simai and Rabbi Tzadok traveling to Lod, spending Shabbat in Ono, and ruling about the womb in accordance with Rabbi's ruling on the crop \u2014 precisely what the 'Simai & Tzadok' section prose describes.",
+      "chosen_heading": "Simai & Tzadok",
+      "current_heading": "Simai & Tzadok",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Teiku Question",
+    "candidates": [
+      "Teiku Question",
+      "Crop-Esophagus Line"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the unresolved dilemma (teiku) about how to read the baraita regarding the womb and crop rulings, which is exactly what the 'Teiku Question' prose describes.",
+      "chosen_heading": "Teiku Question",
+      "current_heading": "Teiku Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Crop-Esophagus Line",
+    "candidates": [
+      "Crop-Esophagus Line",
+      "Stretching Test",
+      "Fallen Organs",
+      "Wrong Order",
+      "Divine Design"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage establishes that the roof of the crop is treated like the esophagus, which is exactly what heading 0 ('Crop-Esophagus Line') discusses, while heading 1 ('Stretching Test') covers only Rav Beivai bar Abaye's criterion \u2014 but since the passage contains both Rabbah's ruling and Rav Beivai's specification as a single unit, and heading 0's prose explicitly references both the Rabbah statement and the transitional anatomy, it is the better home for the complete passage.",
+      "chosen_heading": "Crop-Esophagus Line",
+      "current_heading": "Crop-Esophagus Line",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Divine Design",
+    "candidates": [
+      "Stretching Test",
+      "Fallen Organs",
+      "Wrong Order",
+      "Divine Design",
+      "Midrash Nation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the actual Talmudic text of Rabbi Shmuel bar Rav Yitzchak's ruling about jumbling organs, which is precisely what the 'Wrong Order' section's prose is describing and analyzing.",
+      "chosen_heading": "Wrong Order",
+      "current_heading": "Divine Design",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Midrash Nation",
+    "candidates": [
+      "Divine Design",
+      "Midrash Nation",
+      "Life-Saving Surgery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Meir's baraita reading 'hu ascha vayechonenecha' as a national/midrashic teaching about Israel as a self-sufficient city, which is precisely what the 'Midrash Nation' prose describes.",
+      "chosen_heading": "Midrash Nation",
+      "current_heading": "Midrash Nation",
+      "moved": false
+    }
+  }
+]

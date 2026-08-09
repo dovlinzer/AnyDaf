@@ -1,0 +1,358 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Braita: Deathbed Dist.",
+    "candidates": [
+      "Rule: \u05d1\u05e0\u05d9 \u05d7\u05d5\u05e8\u05d9\u05df First",
+      "Braita: Deathbed Dist.",
+      "Gift Protection Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita about the shechiv meira distributing to three recipients \u2014 the simultaneous case (item 1) and the sequential/acharav case (item 2) \u2014 which is precisely what candidate 1's prose describes as the content of that section.",
+      "chosen_heading": "Braita: Deathbed Dist.",
+      "current_heading": "Braita: Deathbed Dist.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Gift Protection Analysis",
+    "candidates": [
+      "Gift Protection Analysis",
+      "Debts vs. Gifts",
+      "Declaration Priority",
+      "Daughters & Wives",
+      "Stolen Land Risk"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gift Protection Analysis",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers the proof that the Sages instituted the gift-protection ordinance, matching 'Gift Protection Analysis' prose about the creditor being relegated to the last recipient and the grade-B vs grade-C property scenario.",
+      "second_heading": "Debts vs. Gifts",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 cover the Gemara's rejection of that proof by reinterpreting the baraita as dealing with creditor repayment rather than gifts, the shtar/no-shtar debate, and the two alternative resolutions, matching exactly the 'Debts vs. Gifts' and 'Declaration Priority' prose \u2014 but since items 2-3 map to 'Debts vs. Gifts' and items 4-5 map to 'Declaration Priority', and FORM 2 only allows one split, the best single heading for items 2-5 taken together is candidate 1 ('Debts vs. Gifts') which introduces the entire reinterpretation thread that candidates 1 and 2 jointly discuss.",
+      "current_heading": "Gift Protection Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Stolen Land Risk",
+    "candidates": [
+      "Debts vs. Gifts",
+      "Declaration Priority",
+      "Daughters & Wives",
+      "Stolen Land Risk",
+      "Ulla vs. Not Written",
+      "Kesubah Tension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is specifically about Ulla quoting Reish Lakish explaining that the reason produce cannot be collected from liened property sold to third parties is 'because it is not written' \u2014 which directly matches the 'Ulla vs. Not Written' section's prose discussing exactly this Gemara passage and its rationale.",
+      "chosen_heading": "Ulla vs. Not Written",
+      "current_heading": "Stolen Land Risk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Kesubah Tension",
+    "candidates": [
+      "Ulla vs. Not Written",
+      "Kesubah Tension",
+      "Rabbi Chanina: Not Fixed",
+      "Both or One?",
+      "Two Daughters Case",
+      "Parnasa Collectible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the Rabbi Abba/Ulla and Rabbi Zeira/Rabbi Asi exchanges about the wife's and daughters' mezonos being k'man dichtivei yet still not collectible from meshubadim, which is precisely what the 'Kesubah Tension' prose describes.",
+      "chosen_heading": "Kesubah Tension",
+      "current_heading": "Kesubah Tension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Parnasa Collectible",
+    "candidates": [
+      "Rabbi Chanina: Not Fixed",
+      "Both or One?",
+      "Two Daughters Case",
+      "Parnasa Collectible",
+      "Parnasa Well-Known"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form one continuous chain: Rabbi \u1e24anina's 'not fixed' rationale (item 1), the dilemma of whether fixed alone suffices or both fixed and written are required (items 2-3), and the two-daughters case with Rabbi \u1e24anina's proof that parnasa (fixed but unwritten) is collectible (items 4-6) \u2014 all directly address the 'Both or One?' question posed in candidate 1's prose, not the later resolved discussion of parnasa being collectible under candidate 3.",
+      "chosen_heading": "Both or One?",
+      "current_heading": "Parnasa Collectible",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Parnasa Well-Known",
+    "candidates": [
+      "Parnasa Collectible",
+      "Parnasa Well-Known",
+      "Stepdaughter Kinyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the 'shani parnasa, keivan d'is lei kala, k'man dichtiva dami' principle \u2014 that parnasa is different because it is publicly known and treated as if written \u2014 which is precisely what candidate 1 'Parnasa Well-Known' is about.",
+      "chosen_heading": "Parnasa Well-Known",
+      "current_heading": "Parnasa Well-Known",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Stepdaughter Kinyan",
+    "candidates": [
+      "Stepdaughter Kinyan",
+      "Kinyan Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the objection from the Ketubot mishna about the stepdaughter collecting from liened property, which is precisely what the 'Stepdaughter Kinyan' prose introduces as the challenge \u2014 the 'Kinyan Distinction' prose covers the Gemara's resolution/deflection of this objection, not the objection itself.",
+      "chosen_heading": "Stepdaughter Kinyan",
+      "current_heading": "Stepdaughter Kinyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Kinyan Distinction",
+    "candidates": [
+      "Kinyan Distinction",
+      "Improvements Before Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items trace the Gemara's kinyan-based distinction between the stepdaughter and the husband's own daughters, which is precisely what the 'Kinyan Distinction' prose describes in detail.",
+      "chosen_heading": "Kinyan Distinction",
+      "current_heading": "Kinyan Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Improvements Before Sale",
+    "candidates": [
+      "Improvements Before Sale",
+      "Tosafot: Amount Fixed",
+      "Tannaim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the Rabbi Natan braita about when improvements precede or follow a third-party purchase, which is exactly what the 'Improvements Before Sale' prose describes in detail.",
+      "chosen_heading": "Improvements Before Sale",
+      "current_heading": "Improvements Before Sale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Tannaim Debate",
+    "candidates": [
+      "Tosafot: Amount Fixed",
+      "Tannaim Debate",
+      "Finder Exempt",
+      "Wallets vs. Oxen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the baraita that establishes the tannaitic dispute between the 'not written' rationale and the 'not fixed' rationale, which is precisely what the 'Tannaim Debate' prose describes in detail.",
+      "chosen_heading": "Tannaim Debate",
+      "current_heading": "Tannaim Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Wallets vs. Oxen",
+    "candidates": [
+      "Finder Exempt",
+      "Wallets vs. Oxen",
+      "R.E.b.Y. Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the wallets vs. oxen distinction, the reasoning about natural separation, and the variation with oxen already returned \u2014 are precisely the content described in the 'Wallets vs. Oxen' prose, which explicitly covers all these cases including the braita variation at the end.",
+      "chosen_heading": "Wallets vs. Oxen",
+      "current_heading": "Wallets vs. Oxen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "R.E.b.Y. Opinion",
+    "candidates": [
+      "R.E.b.Y. Opinion",
+      "Admission Oath",
+      "Half-Debt Admission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the contradiction between Rabbi Yitzchak's rulings and the mishna's tikkun olam exemption, which is precisely what the 'R.E.b.Y. Opinion' prose describes as the Gemara's challenge that Rav Yitzchak answers by following Rabbi Eliezer ben Yaakov.",
+      "chosen_heading": "R.E.b.Y. Opinion",
+      "current_heading": "R.E.b.Y. Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Half-Debt Admission",
+    "candidates": [
+      "Admission Oath",
+      "Half-Debt Admission",
+      "Migo Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Eliezer ben Yaakov's principle that a person can take an oath based on their own claim, which matches heading 0's prose about this general principle, while heading 1's prose describes the specific maneh l'avicha case that would follow as elaboration.",
+      "chosen_heading": "Admission Oath",
+      "current_heading": "Half-Debt Admission",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Migo Principle",
+    "candidates": [
+      "Half-Debt Admission",
+      "Migo Principle",
+      "Ignorant Claimant",
+      "Katan Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's challenge to Rabbi Eliezer ben Yaakov regarding the 'meishiv aveida patur' principle and Rav's resolution via 'b'ta'anat katan,' which is precisely what the 'Migo Principle' prose discusses \u2014 the migo challenge against Rabbi Eliezer ben Yaakov and how the Gemara resolves it by recharacterizing the nature of the claim.",
+      "chosen_heading": "Migo Principle",
+      "current_heading": "Migo Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Katan Objection",
+    "candidates": [
+      "Ignorant Claimant",
+      "Katan Objection",
+      "Ignorant = Katan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the objection that a katan's claim has no halachic standing, citing the mishna about oaths not being taken for claims of a deaf-mute, imbecile, or minor \u2014 exactly what the 'Katan Objection' prose describes.",
+      "chosen_heading": "Katan Objection",
+      "current_heading": "Katan Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Ignorant = Katan",
+    "candidates": [
+      "Ignorant = Katan",
+      "Claim vs. Admission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the continuous Gemara exchange about why an adult heir is called 'katan' and the resulting paradox about his claim, which is exactly what the 'Ignorant = Katan' prose describes, including the Rabbi Eliezer ben Yaakov modeh b'miktzat point \u2014 the 'Claim vs. Admission' prose discusses a different, later aporia about ta'anat atzmo vs. ta'anat acherim that does touch item 2, but the current placement under heading 0 already covers both items as a unit and the prose there explicitly addresses both the katan reframe and the Rabbi Eliezer ben Yaakov obligation.",
+      "chosen_heading": "Ignorant = Katan",
+      "current_heading": "Ignorant = Katan",
+      "moved": false
+    }
+  }
+]

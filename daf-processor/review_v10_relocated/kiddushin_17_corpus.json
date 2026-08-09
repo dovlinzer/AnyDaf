@@ -1,0 +1,418 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Rav Amram's Challenge",
+    "candidates": [
+      "Reish Lakish's Claim",
+      "Rav Amram's Challenge",
+      "Fixed vs. Uncertain",
+      "Reish Lakish Rejected",
+      "Simanim vs. Father's Death"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Amram's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Amram's challenge from the braisa listing the hanaka categories and noting the omission of mitat ha'av, which is exactly what candidate 1's prose describes.",
+      "second_heading": "Fixed vs. Uncertain",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the fixed-vs-uncertain time defense and its refutation via simanim and mitat adon, which is precisely what candidate 2's prose describes, with the conclusive rejection of Reish Lakish belonging to candidate 3.",
+      "current_heading": "Rav Amram's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Simanim vs. Father's Death",
+    "candidates": [
+      "Fixed vs. Uncertain",
+      "Reish Lakish Rejected",
+      "Simanim vs. Father's Death",
+      "Contradictory Baraitot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the refutation (pircha) of Reish Lakish's kal vachomer based on 'nishtana ha-guf' (body has changed for simanim but not for death of father), which is precisely what the prose under heading 2 'Simanim vs. Father's Death' describes.",
+      "chosen_heading": "Simanim vs. Father's Death",
+      "current_heading": "Simanim vs. Father's Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Contradictory Baraitot",
+    "candidates": [
+      "Contradictory Baraitot",
+      "Father Alive Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the two contradictory baraitot and the Gemara's initial suggestion for resolving them, which is precisely what the 'Contradictory Baraitot' prose describes \u2014 the tension between the two baraitot and the need to resolve it, before the resolution (father alive vs. dead) is worked out under the next heading.",
+      "chosen_heading": "Contradictory Baraitot",
+      "current_heading": "Contradictory Baraitot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Father Alive Case",
+    "candidates": [
+      "Father Alive Case",
+      "Father Dead Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's resolution that both baraitot discuss liberation by simanim, distinguished only by whether the father is alive or not \u2014 this is precisely the content described in the 'Father Alive Case' prose, which explicitly narrates this rejection and resolution.",
+      "chosen_heading": "Father Alive Case",
+      "current_heading": "Father Alive Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Father Dead Case",
+    "candidates": [
+      "Father Dead Case",
+      "Hebrew Slave's Hanaka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the chiddush of excluding brothers from the Hebrew maidservant's severance gift after the father's death, which is precisely what the 'Father Dead Case' prose describes, including the verse from Leviticus 25:46 about bequeathing rights.",
+      "chosen_heading": "Father Dead Case",
+      "current_heading": "Father Dead Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Hebrew Slave's Hanaka",
+    "candidates": [
+      "Hebrew Slave's Hanaka",
+      "Four Cases Listed",
+      "Mitat Adon Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the apparent obviousness of the Hebrew slave keeping his own hanaka and the resolution via Tutai's ruling about creditors \u2014 exactly what the 'Hebrew Slave's Hanaka' prose describes.",
+      "chosen_heading": "Hebrew Slave's Hanaka",
+      "current_heading": "Hebrew Slave's Hanaka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Mitat Adon Logic",
+    "candidates": [
+      "Four Cases Listed",
+      "Mitat Adon Logic",
+      "Exclusions: Who Doesn't\u2026",
+      "Self-Redemption Logic",
+      "Boreach and Yovel",
+      "Boreach Repayment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together enumerate the categories of Hebrew slaves who receive a severance gift (and those who don't, with Tannaitic disputes), which is precisely what heading 0 ('Four Cases Listed') describes \u2014 the Gemara returning to the braisa's four categories \u2014 rather than heading 1 which focuses on the specific logic of mitat adon.",
+      "chosen_heading": "Four Cases Listed",
+      "current_heading": "Mitat Adon Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Boreach Repayment",
+    "candidates": [
+      "Exclusions: Who Doesn't\u2026",
+      "Self-Redemption Logic",
+      "Boreach and Yovel",
+      "Boreach Repayment",
+      "Sick Leave Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Exclusions: Who Doesn't\u2026",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 derive which categories receive or are excluded from the severance gift, matching candidate 0's prose about inclusions and exclusions via the phrase 'shilucho me'imach'.",
+      "second_heading": "Boreach Repayment",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 deal with the boreach's obligation to complete service (hashlama) and the specific case where yovel intervenes, which is exactly what candidate 3's prose describes.",
+      "current_heading": "Boreach Repayment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Sick Leave Rules",
+    "candidates": [
+      "Sick Leave Rules",
+      "Tosafos: Slaves vs. Teachers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses whether illness exempts a slave from making up lost work time, the apparent contradiction between two baraitot about three vs. six years of illness, and Rav Sheshet's resolution via needlework \u2014 all of which are precisely the topics addressed in the 'Sick Leave Rules' prose.",
+      "chosen_heading": "Sick Leave Rules",
+      "current_heading": "Sick Leave Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Tosafos: Slaves vs. Teachers",
+    "candidates": [
+      "Tosafos: Slaves vs. Teachers",
+      "Rabbi Meir: Fifteen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "The passage discusses the internal contradiction in the baraita about sick leave duration for an eved ivri and its resolution, which relates to the sick-leave rules discussed under the Tosafos heading, though neither candidate's prose directly addresses this specific Gemara exchange about the four/six year contradiction.",
+      "chosen_heading": "Tosafos: Slaves vs. Teachers",
+      "current_heading": "Tosafos: Slaves vs. Teachers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Rabbi Meir: Fifteen",
+    "candidates": [
+      "Rabbi Meir: Fifteen",
+      "Meir's Gezeira Shava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita with all three opinions (Rabbi Meir, Rabbi Yehuda, Rabbi Shimon), and the current heading 'Rabbi Meir: Fifteen' with its prose directly introduces this baraita and discusses Rabbi Meir's fifteen sela'im position, making it the correct placement.",
+      "chosen_heading": "Rabbi Meir: Fifteen",
+      "current_heading": "Rabbi Meir: Fifteen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Meir's Gezeira Shava",
+    "candidates": [
+      "Meir's Gezeira Shava",
+      "Five of Each Category"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with Rabbi Meir's ruling of five sela per category and the gezeira shava from pidyon ha-ben, which is precisely what heading 0 ('Meir's Gezeira Shava') discusses, including the arithmetic question and the floor/flexibility clarification.",
+      "chosen_heading": "Meir's Gezeira Shava",
+      "current_heading": "Meir's Gezeira Shava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Five of Each Category",
+    "candidates": [
+      "Five of Each Category",
+      "Rabbi Yehudah: Thirty",
+      "Yehudah's Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the 'Five of Each Category' discussion: item 1 explains why reikam applies to each category separately (not five total), and item 2 raises and resolves the gezeira shava from olat re'iyah \u2014 both of which are explicitly described in the prose under heading 0.",
+      "chosen_heading": "Five of Each Category",
+      "current_heading": "Five of Each Category",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Yehudah's Source",
+    "candidates": [
+      "Rabbi Yehudah: Thirty",
+      "Yehudah's Source",
+      "Rabbi Shimon: Fifty",
+      "Shimon's Gezeira Shava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the gezeira shava derivation from 'netinah' that Rabbi Yehudah uses to arrive at thirty, including the challenge from erchin's fifty \u2014 exactly the content described in the 'Yehudah's Source' prose.",
+      "chosen_heading": "Yehudah's Source",
+      "current_heading": "Yehudah's Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Shimon's Gezeira Shava",
+    "candidates": [
+      "Rabbi Shimon: Fifty",
+      "Shimon's Gezeira Shava",
+      "Gezeira Shava Tradition",
+      "Things That Increase"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the two objections (tafasta meruba and eved me-eved) that the Gemara raises against Rabbi Shimon's derivation from erchin, which is precisely what the prose under 'Shimon's Gezeira Shava' describes as the Gemara's challenge before explaining Rabbi Shimon's answer.",
+      "chosen_heading": "Shimon's Gezeira Shava",
+      "current_heading": "Shimon's Gezeira Shava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Things That Increase",
+    "candidates": [
+      "Gezeira Shava Tradition",
+      "Things That Increase",
+      "Money & Mules Excluded"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Gezeira Shava Tradition",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the gezeira shava derivations of Rabbi Shimon (fifty from valuations via 'netinah'/'netinah' and 'mach'/'mach'), which matches the 'Gezeira Shava Tradition' prose about why each Tanna uses their particular verbal analogy rather than another.",
+      "second_heading": "Things That Increase",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 address why the Torah enumerates flock/threshing floor/winepress for Rabbi Yehuda and Rabbi Shimon, and the baraita expanding and limiting which items qualify via 'bechlal bracha', matching exactly the 'Things That Increase' prose.",
+      "current_heading": "Things That Increase",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Money & Mules Excluded",
+    "candidates": [
+      "Money & Mules Excluded",
+      "Discretionary Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the money/mules exclusion debate between Rabbi Shimon and Rabbi Eliezer ben Yaakov, and the logical necessity of the threefold enumeration (tzon/goren/yekev), which is precisely what the 'Money & Mules Excluded' prose section describes.",
+      "chosen_heading": "Money & Mules Excluded",
+      "current_heading": "Money & Mules Excluded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Discretionary Approach",
+    "candidates": [
+      "Discretionary Approach",
+      "Chazal's Quantification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1's prose ('Chazal's Quantification') explicitly describes both opinions in sequence \u2014 first the unconditional obligation derived from 'hanek ta'anik' with 'asher berachecha' as calibration (Item 1), then Rabbi Elazar ben Azariah's conditional reading (Item 2) \u2014 making it the clearly intended home for both items, while Candidate 0 covers only Rabbi Elazar ben Azariah's view in isolation.",
+      "chosen_heading": "Chazal's Quantification",
+      "current_heading": "Discretionary Approach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Chazal's Quantification",
+    "candidates": [
+      "Discretionary Approach",
+      "Chazal's Quantification",
+      "Son vs. Daughter",
+      "Textual Source",
+      "Son as Continuation",
+      "Brother Excluded",
+      "Brother Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items together form the complete discussion of whether an eved ivri serves the son vs. daughter after the master's death, which is precisely what candidate 2 ('Son vs. Daughter') introduces in its prose.",
+      "chosen_heading": "Son vs. Daughter",
+      "current_heading": "Chazal's Quantification",
+      "moved": true
+    }
+  }
+]

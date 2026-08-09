@@ -345,8 +345,8 @@
           "timestamp": "45:51"
         }
       ],
-      "sefaria_index": 25,
-      "matched": true
+      "sefaria_index": 21,
+      "matched": false
     },
     {
       "title": "Walking Between Rows: Is It Work? Two Interpretive Approaches",
@@ -676,5 +676,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "27:04",
+  "amud_b_micro_title": "Min BeMinoRuling",
+  "shiur_start_daf": 90,
+  "shiur_start_amud": "b"
 }

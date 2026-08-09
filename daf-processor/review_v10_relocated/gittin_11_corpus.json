@@ -1,0 +1,333 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Mishnah Overview",
+      "Get & Manumission",
+      "Rabbi Shimon",
+      "Sales vs. Gifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full mishna text including all its parts (the general rule about gentile courts, the exception for gittin and manumission, and Rabbi Shimon's opinion), and the 'Mishnah Overview' prose explicitly paraphrases and introduces the entire mishna as a unit, making it the natural home for the complete mishna text.",
+      "chosen_heading": "Mishnah Overview",
+      "current_heading": "Rabbi Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Sales vs. Gifts",
+    "candidates": [
+      "Rabbi Shimon",
+      "Sales vs. Gifts",
+      "Dina Malchusa",
+      "Function vs. Instrument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the exact progression discussed under 'Sales vs. Gifts': the mishna's categorical ruling, the explanation of why a sale document works as evidence, and the difficulty with a gift document resolved by Shmuel's dina d'malchusa \u2014 precisely the content the 'Sales vs. Gifts' prose describes.",
+      "chosen_heading": "Sales vs. Gifts",
+      "current_heading": "Sales vs. Gifts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Function vs. Instrument",
+    "candidates": [
+      "Dina Malchusa",
+      "Function vs. Instrument",
+      "Non-Jewish Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the 'v'iba'is eima' alternative reading distinguishing documents-as-evidence from documents-as-instruments, which is precisely what the 'Function vs. Instrument' section's prose describes.",
+      "chosen_heading": "Function vs. Instrument",
+      "current_heading": "Function vs. Instrument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Non-Jewish Witnesses",
+    "candidates": [
+      "Non-Jewish Witnesses",
+      "Witnesses Matter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the 'lo bnei krisus' challenge to Rabbi Shimon's ruling, which is precisely what the prose under 'Non-Jewish Witnesses' discusses as its central topic.",
+      "chosen_heading": "Non-Jewish Witnesses",
+      "current_heading": "Non-Jewish Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Witnesses Matter",
+    "candidates": [
+      "Witnesses Matter",
+      "Forgery Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains Rabbi Zeira's statement that Rabbi Shimon follows Rabbi Elazar's position that witnesses of transmission effect the divorce, which is precisely what the 'Witnesses Matter' section's prose discusses in detail.",
+      "chosen_heading": "Witnesses Matter",
+      "current_heading": "Witnesses Matter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Forgery Risk",
+    "candidates": [
+      "Forgery Risk",
+      "Ambiguous Names",
+      "Implicit Criteria",
+      "Name Examples"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Forgery Risk",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the challenge about mezuyaf mi-tocho and the Gemara's opening question, which matches the 'Forgery Risk' prose perfectly.",
+      "second_heading": "Implicit Criteria",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the answer 'bi-shemos muvhakim' (unambiguous names), which matches the 'Implicit Criteria' prose that explicitly discusses this answer.",
+      "current_heading": "Forgery Risk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Name Examples",
+    "candidates": [
+      "Ambiguous Names",
+      "Implicit Criteria",
+      "Name Examples",
+      "Both Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage provides Rav Pappa's specific examples of unambiguously non-Jewish names, which is exactly what the 'Name Examples' section's prose describes.",
+      "chosen_heading": "Name Examples",
+      "current_heading": "Name Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Both Criteria",
+    "candidates": [
+      "Both Criteria",
+      "Public Courts",
+      "Private Dispute",
+      "Ben Gamliel",
+      "Clear Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Both Criteria",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the Gemara's challenge and resolution regarding ambiguous names and the private court criterion, which is precisely what the 'Both Criteria' prose describes (the hachi nami ka'amar answer and the seifa ata legitei mammon alternative).",
+      "second_heading": "Public Courts",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the baraita (Tosefta) about Rabbi Shimon's statement in Tzaidan distinguishing public courts (where all agree documents are valid) from private courts, which matches the 'Public Courts' prose that explicitly describes this baraita and its content.",
+      "current_heading": "Both Criteria",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Clear Status",
+    "candidates": [
+      "Public Courts",
+      "Private Dispute",
+      "Ben Gamliel",
+      "Clear Status",
+      "Communal Gathering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Clear Status' prose, which explicitly discusses Rabban Shimon ben Gamliel's ruling about places where Jews do/don't sign and the Gemara's gezeira question answered by 'shma bi-shma michlaif, atra be-atra lo michlaif' \u2014 matching items 1 and 2 precisely.",
+      "chosen_heading": "Clear Status",
+      "current_heading": "Clear Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Communal Gathering",
+    "candidates": [
+      "Communal Gathering",
+      "Rafram Rejects",
+      "Loan Document"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ravina considering whether to validate a document from a communal gathering of gentiles, which matches heading 0's prose about Ravina contemplating permitting a document from a large communal gathering of non-Jews \u2014 the Rafram objection is part of the same narrative unit that begins with Ravina's consideration.",
+      "chosen_heading": "Communal Gathering",
+      "current_heading": "Communal Gathering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Loan Document",
+    "candidates": [
+      "Rafram Rejects",
+      "Loan Document",
+      "Witness Testimony",
+      "Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items introduce Rava's ruling about the Persian document handed over before Jewish witnesses and the first challenge (can the witnesses read Persian?), which is precisely what the 'Loan Document' prose describes as the opening case Rava presents, before the fuller list of challenges treated under 'Requirements'.",
+      "chosen_heading": "Loan Document",
+      "current_heading": "Loan Document",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Requirements",
+    "candidates": [
+      "Witness Testimony",
+      "Requirements",
+      "No Liens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the forgery-prevention and final-line requirements of a valid document, which is precisely what the 'Requirements' section prose discusses.",
+      "chosen_heading": "Requirements",
+      "current_heading": "Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "No Liens",
+    "candidates": [
+      "No Liens",
+      "Reish Lakish Q."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why collection from liened property is unavailable due to lack of publicity (leit lei kala), which is precisely what the 'No Liens' section's prose discusses.",
+      "chosen_heading": "No Liens",
+      "current_heading": "No Liens",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Reish Lakish Q.",
+    "candidates": [
+      "Reish Lakish Q.",
+      "R. Yochanan",
+      "Ambiguity Rule",
+      "Tosefta Rule",
+      "Presumption",
+      "Geographic Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Reish Lakish's question and Rabbi Yochanan's immediate answer, which is exactly what the 'Reish Lakish Q.' section's prose describes \u2014 the question about ambiguous gentile-sounding names and the ruling about Lukos and Los.",
+      "chosen_heading": "Reish Lakish Q.",
+      "current_heading": "Reish Lakish Q.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Geographic Limit",
+    "candidates": [
+      "R. Yochanan",
+      "Ambiguity Rule",
+      "Tosefta Rule",
+      "Presumption",
+      "Geographic Limit",
+      "Criticism Q.",
+      "Moshe Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous sugya about the ambiguity rule (Lukos/Los names uncommon among Jews vs. ambiguous names), the Tosefta challenge, its resolution based on diaspora geography, and the alternative formulation \u2014 exactly what the 'Ambiguity Rule' prose introduces, with candidates 2\u20134 covering the subsequent sub-points but item 1 (the inference about Lukos/Los) being the anchor that places the whole passage under heading 1.",
+      "chosen_heading": "Ambiguity Rule",
+      "current_heading": "Geographic Limit",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Rabbi Yehuda Position",
+    "candidates": [
+      "Intro & Contradiction",
+      "Kodesh Hakodashim Entry",
+      "Verse Parsing",
+      "Rabbanan Position",
+      "Rabbi Yehuda Position",
+      "Eastern Facing",
+      "Rashi's Forward Entry",
+      "El Means Exact",
+      "Parah Adumah Link",
+      "General Non-Precision",
+      "Yom Kippur Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items continue the same dispute about how the Rabbanan and Rabbi Yehuda parse 'el pnei hakaporet' \u2014 covering the Rabbanan's concession that the phrase excludes roundabout entry, the binyan av from Beis Rabbi Eliezer ben Yaakov, Rabbi Yehuda's 'el davka' argument, and the resolution connecting back to parah adumah \u2014 which is precisely what the 'Rabbi Yehuda Position' prose describes in its final paragraphs.",
+      "chosen_heading": "Rabbi Yehuda Position",
+      "current_heading": "Rabbi Yehuda Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Yom Kippur Challenge",
+    "candidates": [
+      "Eastern Facing",
+      "Rashi's Forward Entry",
+      "El Means Exact",
+      "Parah Adumah Link",
+      "General Non-Precision",
+      "Yom Kippur Challenge",
+      "Ark Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's objection about the Yom Kippur sprinkling and the Second Temple lacking an aron/kaporet, which matches exactly the 'Yom Kippur Challenge' section's prose describing Rav Yosef pressing on the al pnei hakaporet verse and the beis hamikdash sheni scenario.",
+      "chosen_heading": "Yom Kippur Challenge",
+      "current_heading": "Yom Kippur Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Ark Exception",
+    "candidates": [
+      "Ark Exception",
+      "Metzora Oil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items match the 'Ark Exception' prose exactly: item 1 is Rabba bar Ulla's verse-based resolution about mikdash hakodesh, and items 2-3 are Rava's resolution distinguishing east-west vs. north-south orientation for the two baraitot \u2014 all of which are explicitly described in candidate 0's prose.",
+      "chosen_heading": "Ark Exception",
+      "current_heading": "Ark Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Metzora Oil",
+    "candidates": [
+      "Metzora Oil",
+      "Asham Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about sprinkling inside the Sanctuary and for the metzora being invalid shelo lishmah but valid shelo mechuvanos, then raises the contradicting baraita \u2014 exactly the content described in the 'Metzora Oil' prose section.",
+      "chosen_heading": "Metzora Oil",
+      "current_heading": "Metzora Oil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Asham Status",
+    "candidates": [
+      "Asham Status",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the Rav Yosef resolution and the subsequent challenge about whether a davar halamad b'hekesh can teach via another hekesh \u2014 exactly the content described in the 'Asham Status' prose section.",
+      "chosen_heading": "Asham Status",
+      "current_heading": "Asham Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava's Resolution",
+      "Shift to Vessels",
+      "Menorah Components",
+      "Daily Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's resolution distinguishing between hechsher hakorban and hartzah, which is precisely what the 'Rava's Resolution' section prose describes in detail.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Daily Mitzvot",
+    "candidates": [
+      "Shift to Vessels",
+      "Menorah Components",
+      "Daily Mitzvot",
+      "One Beaten Unit",
+      "Chashmonaim Evidence",
+      "Mikshah Havaya",
+      "Reconciling Repetition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the Mishna discussing the mutual indispensability of menorah branches/lamps, mezuzah passages, tefillin passages, and tzitzit \u2014 exactly the content described in the 'Daily Mitzvot' prose, which quotes and explains all these elements including the Rabbi Yishmael dispute about tzitzit.",
+      "chosen_heading": "Daily Mitzvot",
+      "current_heading": "Daily Mitzvot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Reconciling Repetition",
+    "candidates": [
+      "One Beaten Unit",
+      "Chashmonaim Evidence",
+      "Mikshah Havaya",
+      "Reconciling Repetition",
+      "Trumpets Inverse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "One Beaten Unit",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses why missing branches invalidate the menorah (havaya written concerning them), which matches heading 0's discussion of the one-beaten-unit requirement and its indispensability.",
+      "second_heading": "Mikshah Havaya",
+      "second_confidence": "high",
+      "second_reason": "Items 2-11 are a continuous Gemara discussion about mikshah, zahav, fragments vs. other metals, and the trumpets contrast \u2014 exactly matching headings 2-4's prose about mikshah havaya, reconciling repetitions, and the trumpets inverse.",
+      "current_heading": "Reconciling Repetition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Trumpets Inverse",
+    "candidates": [
+      "Reconciling Repetition",
+      "Trumpets Inverse",
+      "Rav Pappa List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a baraita about Moshe's vessels being valid for future generations with trumpets as an exception, followed by the Gemara's analysis of why 'lecha' limits the trumpets \u2014 exactly the content described in the 'Trumpets Inverse' prose, which explicitly discusses this baraita and the double use of 'lecha' in the trumpet verse versus the aron verse.",
+      "chosen_heading": "Trumpets Inverse",
+      "current_heading": "Trumpets Inverse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Rav Pappa List",
+    "candidates": [
+      "Rav Pappa List",
+      "Rav Yosef Alt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita taught by Rav Pappa before Rav Yosef, which is precisely what heading 0 ('Rav Pappa List') describes and summarizes in its prose.",
+      "chosen_heading": "Rav Pappa List",
+      "current_heading": "Rav Pappa List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Rav Yosef Alt",
+    "candidates": [
+      "Rav Yosef Alt",
+      "Hermeneutics",
+      "Material Positions",
+      "Evidence Consolidation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0's prose explicitly covers the entire chain: Rav Yosef's 'mai daitach' question, Rav Pappa's klal u'prat u'klal answer with the metal vs. distinguished-value distinction, and Rav Yosef's competing baraita about wood \u2014 exactly matching all five items.",
+      "chosen_heading": "Rav Yosef Alt",
+      "current_heading": "Rav Yosef Alt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Evidence Consolidation",
+    "candidates": [
+      "Hermeneutics",
+      "Material Positions",
+      "Evidence Consolidation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the exchange where Rav Pappa challenges Rav Yosef's baraita and Rav Yosef responds with the baraita listing substitute metals (silver, copper, iron, tin, lead) and Rabbi Yose b'Rabbi Yehuda's inclusion of wood, which is precisely what the 'Evidence Consolidation' prose describes.",
+      "chosen_heading": "Evidence Consolidation",
+      "current_heading": "Evidence Consolidation",
+      "moved": false
+    }
+  }
+]

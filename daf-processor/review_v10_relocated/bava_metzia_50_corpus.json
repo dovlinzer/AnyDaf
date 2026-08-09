@@ -1,0 +1,192 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Retraction Time",
+    "candidates": [
+      "BM Structure",
+      "Torah Source",
+      "Exclusions",
+      "Ona'ah Definition",
+      "1/6 Standard",
+      "Retraction Time",
+      "R. Tarfon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The Mishnah passage covers both the one-sixth standard (four ma'ot out of twenty-four per sela) and the retraction time rule, but the '1/6 Standard' section (index 4) explicitly quotes and explains this exact Mishnah text including the arithmetic, while 'Retraction Time' (index 5) is prose commentary on only the second half \u2014 the full Mishnah belongs under index 4 where it is directly introduced and analyzed.",
+      "chosen_heading": "1/6 Standard",
+      "current_heading": "Retraction Time",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "R. Tarfon",
+    "candidates": [
+      "Retraction Time",
+      "R. Tarfon",
+      "Merchants' Choice",
+      "Three Stages",
+      "Rav's Position",
+      "Shmuel Position",
+      "Examples"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Examples",
+    "candidates": [
+      "Merchants' Choice",
+      "Three Stages",
+      "Rav's Position",
+      "Shmuel Position",
+      "Examples",
+      "Shmuel Range",
+      "Chart Analysis",
+      "Confirmation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items present the core Rav/Shmuel dispute and the specific examples (worth five sold for six, worth seven sold for six) with their consequences (bitul mekach, mechila, ona'ah), which is exactly what the 'Examples' section prose discusses in detail.",
+      "chosen_heading": "Examples",
+      "current_heading": "Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Confirmation",
+    "candidates": [
+      "Shmuel Range",
+      "Chart Analysis",
+      "Confirmation",
+      "Categories",
+      "Mechilah",
+      "Ona'ah",
+      "Bitul Mekach",
+      "Baraita",
+      "Question Posed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All seven items form one continuous sugya: Shmuel's range definition (item 1), the Gemara's attempts to prove it from the mishna and Rabbi Tarfon's ruling (items 2-5), and the baraita confirming Shmuel's view with the two illustrative cases of buyer/seller exploitation (items 6-7) \u2014 exactly what candidate 2 ('Confirmation') describes as the baraita supporting Shmuel.",
+      "chosen_heading": "Confirmation",
+      "current_heading": "Confirmation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Question Posed",
+    "candidates": [
+      "Categories",
+      "Mechilah",
+      "Ona'ah",
+      "Bitul Mekach",
+      "Baraita",
+      "Question Posed",
+      "Practical Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage poses exactly the dilemma described in the 'Question Posed' section's prose \u2014 whether mechila below one-sixth is automatic or time-limited \u2014 which is precisely what candidate 5 describes.",
+      "chosen_heading": "Question Posed",
+      "current_heading": "Question Posed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Practical Difference",
+    "candidates": [
+      "Practical Difference",
+      "Merchants Logic",
+      "Parallel Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the practical distinction between one-sixth (choice to renege or recover overcharge) and less than one-sixth (only recover overcharge, no retraction), which is precisely what the 'Practical Difference' prose describes as the Gemara's answer about the nature of redress available in each zone.",
+      "chosen_heading": "Practical Difference",
+      "current_heading": "Practical Difference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Parallel Assumption",
+    "candidates": [
+      "Merchants Logic",
+      "Parallel Assumption",
+      "Correction",
+      "Why Prefer",
+      "Clock Value",
+      "Real Preference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara passage asking what drives the merchants' reversion to the Rabbis, which matches candidate 0 ('Merchants Logic') whose prose explicitly frames this as 'the key to understanding why the merchants of Lod ultimately abandoned Rabbi Tarfon' and says 'the Gemara now works through the logic of their choice' \u2014 precisely what items 1-3 do, whereas candidate 1 ('Parallel Assumption') describes only the later step of assuming pachos mishlish equals pachos mishtus, which is item 2's content but not the framing question of item 1.",
+      "chosen_heading": "Merchants Logic",
+      "current_heading": "Parallel Assumption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Real Preference",
+    "candidates": [
+      "Correction",
+      "Why Prefer",
+      "Clock Value",
+      "Real Preference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together establish and prove the key insight that bitul mekach has no time limit (l'olam chozer) while ona'ah has a finite window \u2014 which is precisely what the 'Clock Value' section's prose describes as the Gemara's central resolution.",
+      "chosen_heading": "Clock Value",
+      "current_heading": "Real Preference",
+      "moved": true
+    }
+  }
+]

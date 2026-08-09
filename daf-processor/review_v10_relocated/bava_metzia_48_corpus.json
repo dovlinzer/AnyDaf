@@ -1,0 +1,326 @@
+[
+  {
+    "quote_indices": [
+      1,
+      2
+    ],
+    "current_heading": "(no heading)",
+    "candidates": [
+      "Intro & Distinction",
+      "Rav Chisda's View",
+      "Mi Shepara Curse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Chisda's View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the Rav Chisda distinction between Rabbi Shimon and the Rabbanan according to Rabbi Yochanan, which is exactly what candidate 1 ('Rav Chisda's View') is about.",
+      "second_heading": "Mi Shepara Curse",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the Mi Shepara curse from the Mishnah and the Gemara's analysis of whether it fits with ma'ot konot or not, which is precisely what candidate 2 ('Mi Shepara Curse') discusses.",
+      "current_heading": "(no heading)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Mi Shepara Curse",
+    "candidates": [
+      "Intro & Distinction",
+      "Rav Chisda's View",
+      "Mi Shepara Curse",
+      "Reish Lakish View",
+      "Words Alone",
+      "Rava's Rule",
+      "Asham Gezeilot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the baraita citing Rabbi Shimon's asymmetrical tallit/gold dinar rule and the expanded mi shepara formulation (with four generations), which is precisely what the 'Reish Lakish View' prose describes as the cited baraita's content.",
+      "chosen_heading": "Reish Lakish View",
+      "current_heading": "Mi Shepara Curse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Asham Gezeilot",
+    "candidates": [
+      "Reish Lakish View",
+      "Words Alone",
+      "Rava's Rule",
+      "Asham Gezeilot",
+      "Tsumat Yad Defined",
+      "Second Pasuk",
+      "Rav Papa Object"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the baraita's rule that verbal commitment alone (words without kinyan) does not effect acquisition and the consequence of reneging, which matches the 'Words Alone' prose exactly \u2014 item 2 is Rava's elaboration on the same baraita clause, and the 'Rava's Rule' prose separately discusses Rava's distinction, but item 1 (the baraita conclusion) belongs with item 2 under 'Words Alone' since they are a continuous unit; however the 'Rava's Rule' heading's prose actually covers Rava's statement (item 2) precisely, making a split tempting \u2014 yet both items together fit best under 'Words Alone' since item 1 is the baraita and item 2 is Rava's immediate gloss on it, and the current placement under 'Asham Gezeilot' is clearly wrong.",
+      "chosen_heading": "Words Alone",
+      "current_heading": "Asham Gezeilot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Rav Papa Object",
+    "candidates": [
+      "Tsumat Yad Defined",
+      "Second Pasuk",
+      "Rav Papa Object",
+      "Bathhouse & Hekdesh",
+      "Rav on Me'ila",
+      "Non-Jew Barber"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tsumat Yad Defined",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rava's initial proof from the verse (defining tsumat yad and oshek, then noting the second verse omits tsumat yad), matching headings 0 ('Tsumat Yad Defined') and 1 ('Second Pasuk') \u2014 but since item 1 defines tsumat yad and item 2 discusses the second pasuk's omission, the split is after item 1 (tsumat yad definition) goes under heading 0, and items 2-6 (the second pasuk and Rav Papa's challenge) go under heading 1; however items 2-6 all belong together under heading 2 ('Rav Papa Object') which covers the full exchange including the second pasuk's omission and Rav Papa's challenge.",
+      "second_heading": "Rav Papa Object",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 form one continuous dispute \u2014 the second verse's omission of tsumat yad, Rav Papa's challenge, the two-types-of-deposit resolution, and the final confirmation \u2014 all of which are described in the prose of heading 2 ('Rav Papa Object').",
+      "current_heading": "Rav Papa Object",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Non-Jew Barber",
+    "candidates": [
+      "Bathhouse & Hekdesh",
+      "Rav on Me'ila",
+      "Non-Jew Barber",
+      "Money Koneh",
+      "Levi Grocer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain elaborating Rav's ruling about the bathhouse attendant \u2014 the baraita support, the barber complication, and its resolution \u2014 which is precisely what candidate 1 ('Rav on Me'ila') describes, while candidate 2 ('Non-Jew Barber') already incorporates this content in its own prose, making candidate 1 the better structural home for the passage that leads into and sets up that discussion.",
+      "chosen_heading": "Rav on Me'ila",
+      "current_heading": "Non-Jew Barber",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Levi Grocer",
+    "candidates": [
+      "Money Koneh",
+      "Levi Grocer",
+      "Siton Proof",
+      "Reish Lakish Reply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both Rav Na\u1e25man's statement (ma'ot konot) and the Levi/siton baraita together in one unit, and candidate 0 ('Money Koneh') explicitly describes Rav Nachman's position as well as his alignment with Rabbi Yochanan, making it the better home for this combined passage \u2014 though the current placement (index 1) separately covers the Levi/siton content, the passage as a whole is better anchored by the Rav Nachman statement that opens it.",
+      "chosen_heading": "Money Koneh",
+      "current_heading": "Levi Grocer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Reish Lakish Reply",
+    "candidates": [
+      "Siton Proof",
+      "Reish Lakish Reply",
+      "Abaye Informs",
+      "Rava Curses",
+      "Rabbi Chiya Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the challenge to Reish Lakish and his response attributing the baraita to Rabbi Shimon, which is precisely what the 'Reish Lakish Reply' section discusses.",
+      "chosen_heading": "Reish Lakish Reply",
+      "current_heading": "Reish Lakish Reply",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Rabbi Chiya Story",
+    "candidates": [
+      "Abaye Informs",
+      "Rava Curses",
+      "Rabbi Chiya Story",
+      "Down Payment Intro",
+      "Rava vs. Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the continuous Abaye/Rava dispute about mi shepara \u2014 items 1-2 state and elaborate the two positions, and item 3 is Rava's proof from Rabbi Chiya bar Yosef \u2014 exactly matching the 'Rabbi Chiya Story' section's prose, which is the current placement.",
+      "chosen_heading": "Rabbi Chiya Story",
+      "current_heading": "Rabbi Chiya Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Rava vs. Yochanan",
+    "candidates": [
+      "Down Payment Intro",
+      "Rava vs. Yochanan",
+      "Two Formulas",
+      "Asmachta Kanya",
+      "Asmachta Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the reframing of the story as involving a down payment and presents Rabbi \u1e24iyya bar Yosef's and Rabbi Yo\u1e25anan's positions, which matches the 'Down Payment Intro' prose exactly \u2014 that section describes this very reframing and the pivotal question of how much a down payment acquires, before the formal Rava vs. Yochanan distinction is elaborated separately.",
+      "chosen_heading": "Down Payment Intro",
+      "current_heading": "Rava vs. Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Asmachta Defined",
+    "candidates": [
+      "Two Formulas",
+      "Asmachta Kanya",
+      "Asmachta Defined",
+      "Rabbi Yehuda View",
+      "Rabban Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the amoraic dispute about eravon (Rav vs. Rabbi Yo\u1e25anan) followed immediately by the baraita challenge about the two formulas and Rabbi Yosi's ruling, which is precisely what candidate 0 ('Two Formulas') describes in its prose.",
+      "chosen_heading": "Two Formulas",
+      "current_heading": "Asmachta Defined",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Rabban Shimon",
+    "candidates": [
+      "Rabbi Yehuda View",
+      "Rabban Shimon",
+      "Kesef vs. Maot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehuda's view and Rabban Shimon ben Gamliel's statement plus the Gemara's question about movable property, but the bulk of the content \u2014 Rabban Shimon's distinction and the Gemara's follow-up question \u2014 aligns most closely with the 'Rabban Shimon' section's prose, which explicitly discusses both Rabban Shimon's ruling about partial payment for land and the subsequent question about metaltelin.",
+      "chosen_heading": "Rabban Shimon",
+      "current_heading": "Rabban Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Kesef vs. Maot",
+    "candidates": [
+      "Kesef vs. Maot",
+      "Mishna Shevi'it",
+      "Gamliel vs. Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between land (karka) acquired fully via kesef and movable property (metaltelin) that only acquires 'mi she'para' with partial payment, which is precisely what the 'Kesef vs. Maot' section's prose addresses.",
+      "chosen_heading": "Kesef vs. Maot",
+      "current_heading": "Kesef vs. Maot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Gamliel vs. Yehuda",
+    "candidates": [
+      "Mishna Shevi'it",
+      "Gamliel vs. Yehuda",
+      "Resolution",
+      "Full vs. Proportional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the baraita dispute between Rabban Shimon ben Gamliel and Rabbi Yehuda HaNasi and the Gemara's initial analysis of what 'does not abrogate' means, which matches heading 1 ('Gamliel vs. Yehuda') describing exactly this dispute and its terms \u2014 the resolution/harmonization conclusion belongs to heading 2, but the passage stops before reaching that conclusion.",
+      "chosen_heading": "Gamliel vs. Yehuda",
+      "current_heading": "Gamliel vs. Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Full vs. Proportional",
+    "candidates": [
+      "Resolution",
+      "Full vs. Proportional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the tannaitic parallel (keneged kulo vs. kenegdo) and its rejection, which is precisely what the 'Full vs. Proportional' prose describes \u2014 Rabban Shimon ben Gamliel holding collateral acquires the whole vs. Rabbi Yehuda HaNasi holding it acquires only proportionally, matching the eravon dispute.",
+      "chosen_heading": "Full vs. Proportional",
+      "current_heading": "Full vs. Proportional",
+      "moved": false
+    }
+  }
+]

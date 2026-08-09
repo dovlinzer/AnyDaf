@@ -270,8 +270,8 @@
           "timestamp": "51:09"
         }
       ],
-      "sefaria_index": 16,
-      "matched": true
+      "sefaria_index": 15,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -597,5 +597,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 4
+  "amud_b_sefaria_index": 4,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "19:25",
+  "amud_b_micro_title": "70-Year Cleaning",
+  "shiur_start_daf": 49,
+  "shiur_start_amud": "a"
 }

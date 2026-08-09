@@ -1,0 +1,430 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Arev Ketubah Intro",
+    "candidates": [
+      "Arev Ketubah Intro",
+      "Moshe bar Atzri",
+      "Divorce Scheme",
+      "Rava's Objection",
+      "Unmarked Divorce",
+      "Kohen Impediment",
+      "Poverty Follows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is precisely Rava's objection citing the mishna's vow requirement and Abaye's response about divorcing outside court, which is exactly what candidate 3 ('Rava's Objection') describes.",
+      "chosen_heading": "Rava's Objection",
+      "current_heading": "Arev Ketubah Intro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Poverty Follows",
+    "candidates": [
+      "Moshe bar Atzri",
+      "Divorce Scheme",
+      "Rava's Objection",
+      "Unmarked Divorce",
+      "Kohen Impediment",
+      "Poverty Follows",
+      "Scheming Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes the revelation that Rav Huna was a kohen, which foreclosed the divorce scheme, and Abaye's folk saying about poverty following the poor \u2014 both of which belong under the 'Kohen Impediment' section (index 4), whose prose explicitly discusses the discovery that Rav Huna was a kohen and its consequences, rather than under 'Poverty Follows' (index 5) which is a separate heading for the folk saying alone.",
+      "chosen_heading": "Kohen Impediment",
+      "current_heading": "Poverty Follows",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Scheming Principle",
+    "candidates": [
+      "Poverty Follows",
+      "Scheming Principle",
+      "Son vs. Rasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the contradiction between Abaye's advice and his own 'cunning wicked person' principle, which is precisely what the 'Scheming Principle' section's prose discusses in detail.",
+      "chosen_heading": "Scheming Principle",
+      "current_heading": "Scheming Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Son vs. Rasha",
+    "candidates": [
+      "Son vs. Rasha",
+      "Father Liability",
+      "Arev Not Obligated",
+      "Arev vs. Kablan",
+      "Kablan Property Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly provides the Gemara's two answers (bno shani and tzurba me'rabanan shani) which is exactly what the 'Son vs. Rasha' section's prose discusses and analyzes.",
+      "chosen_heading": "Son vs. Rasha",
+      "current_heading": "Son vs. Rasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Kablan Property Debate",
+    "candidates": [
+      "Father Liability",
+      "Arev Not Obligated",
+      "Arev vs. Kablan",
+      "Kablan Property Debate",
+      "Property Destroyed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Arev vs. Kablan",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's question and answer that Moshe bar Atzri was a kablan rather than a mere arev, which matches the 'Arev vs. Kablan' prose precisely.",
+      "second_heading": "Kablan Property Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the dispute about whether a kablan of a ketubah is obligated when the husband has no property, which is exactly what the 'Kablan Property Debate' prose describes.",
+      "current_heading": "Kablan Property Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Property Destroyed",
+    "candidates": [
+      "Property Destroyed",
+      "Universal Agreement",
+      "Kablan Always Obligates",
+      "Mixed Cases Debate",
+      "Property Condition",
+      "No Property Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the two resolutions discussed in candidate 0's prose \u2014 the property-was-blighted answer and the father-obligates-himself-for-his-son answer \u2014 which is exactly what this Gemara text presents.",
+      "chosen_heading": "Property Destroyed",
+      "current_heading": "Property Destroyed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "No Property Condition",
+    "candidates": [
+      "Universal Agreement",
+      "Kablan Always Obligates",
+      "Mixed Cases Debate",
+      "Property Condition",
+      "No Property Condition",
+      "Final Arev Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full formal statement covering all four cases \u2014 the two points of consensus and the two disputed intermediate cases \u2014 which corresponds precisely to heading 0 ('Universal Agreement'), whose prose introduces this formal statement and begins with the consensus points, with headings 1-4 then breaking out the individual components that the passage covers as a whole.",
+      "chosen_heading": "Universal Agreement",
+      "current_heading": "No Property Condition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Final Arev Ruling",
+    "candidates": [
+      "No Property Condition",
+      "Final Arev Ruling",
+      "Separate from Hekdesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the halakhic ruling concluding the arev discussion, matching exactly the 'Final Arev Ruling' prose which describes the vehilchata conclusion, the ketubah exception, and the mitzvah reasoning.",
+      "chosen_heading": "Final Arev Ruling",
+      "current_heading": "Final Arev Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Separate from Hekdesh",
+    "candidates": [
+      "Separate from Hekdesh",
+      "Not Cheating Heirs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Huna's statement about a shchiv mera who consecrated all his property and then admits a debt, which is exactly what the prose under 'Separate from Hekdesh' describes, including the chazaka principle against colluding against hekdesh.",
+      "chosen_heading": "Separate from Hekdesh",
+      "current_heading": "Separate from Hekdesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Not Cheating Heirs",
+    "candidates": [
+      "Not Cheating Heirs",
+      "Tenu Requirement",
+      "Appearing Poor",
+      "Shetar Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rav Nachman's objection and its conclusion \u2014 that adam asui shelo lehasbi'a es banav underlies the tenu requirement, and that the same principle applies to hekdesh \u2014 which is precisely what candidate 1 ('Tenu Requirement') discusses in its prose.",
+      "chosen_heading": "Tenu Requirement",
+      "current_heading": "Not Cheating Heirs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Shetar Distinction",
+    "candidates": [
+      "Tenu Requirement",
+      "Appearing Poor",
+      "Shetar Distinction",
+      "Mekuyam & Tenu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer that Rav Huna's ruling applies where the creditor holds a promissory note (shtar), which is precisely what the 'Shetar Distinction' section's prose discusses.",
+      "chosen_heading": "Shetar Distinction",
+      "current_heading": "Shetar Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Mekuyam & Tenu",
+    "candidates": [
+      "Mekuyam & Tenu",
+      "Tenu as Kiyum",
+      "Orphans Believed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core gemara exchange that the 'Mekuyam & Tenu' prose directly describes: the challenge that Rav and Shmuel's ruling implies a shtar-less case, and Rav Na\u1e25man's resolution distinguishing mekuyam from non-mekuyam shtar \u2014 exactly what that section's prose elaborates.",
+      "chosen_heading": "Mekuyam & Tenu",
+      "current_heading": "Mekuyam & Tenu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Orphans Believed",
+    "candidates": [
+      "Tenu as Kiyum",
+      "Orphans Believed",
+      "Tenu Bars Orphans",
+      "Tenu More Credible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabba's ruling that distinguishes between 'maneh li'ploni b'yadi' (orphans believed) and 'tenu maneh l'ploni' (orphans not believed), which is the core content that the 'Orphans Believed' section introduces, covering both halves of the ruling together.",
+      "chosen_heading": "Orphans Believed",
+      "current_heading": "Orphans Believed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Tenu More Credible",
+    "candidates": [
+      "Tenu Bars Orphans",
+      "Tenu More Credible",
+      "Father Remembered",
+      "Father Said Remembered"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the 'kelappei layya' / 'ipcha mistabra' objection that reverses the initial logic, which is exactly what the 'Tenu More Credible' section's prose describes.",
+      "chosen_heading": "Tenu More Credible",
+      "current_heading": "Tenu More Credible",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Father Said Remembered",
+    "candidates": [
+      "Father Remembered",
+      "Father Said Remembered",
+      "Witnesses Needed",
+      "Automatic Shetar",
+      "No Joking at Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0's prose describes exactly the corrected Talmudic scenario ('the shchiv mera said he owes money and the orphans say the father subsequently remembered he had already paid'), while candidate 1's prose describes the reasoning and contrast between the two cases \u2014 the passage itself is the Gemara text being introduced/described by candidate 0, with candidate 1 serving as the analytical commentary that follows.",
+      "chosen_heading": "Father Remembered",
+      "current_heading": "Father Said Remembered",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "No Joking at Death",
+    "candidates": [
+      "Witnesses Needed",
+      "Automatic Shetar",
+      "No Joking at Death",
+      "Force of Document",
+      "Shetar Encumbered",
+      "Witnesses Unencumbered"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rava's dilemma and its resolution \u2014 the passage covers the questions about 'atem edai,' 'ketovu,' and jesting at death, which is precisely what heading 0 ('Witnesses Needed') introduces, and the resolution flows naturally from that framing; the current placement under 'No Joking at Death' captures only the tail end, whereas heading 0's prose explicitly sets up all the questions Rava raises in item 1.",
+      "chosen_heading": "Witnesses Needed",
+      "current_heading": "No Joking at Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Witnesses Unencumbered",
+    "candidates": [
+      "Force of Document",
+      "Shetar Encumbered",
+      "Witnesses Unencumbered",
+      "IOU Unencumbered",
+      "Late Arev Unencumbered",
+      "Choking Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose for 'Shetar Encumbered' (index 1) explicitly states it describes the Mishna that 'sets out a taxonomy of loan types' at the opening of 175b, which matches this complete Mishna text covering all four cases including the shtar rule, witnesses rule, IOU rule, and late guarantor rule with the Ben Nannas dispute.",
+      "chosen_heading": "Shetar Encumbered",
+      "current_heading": "Witnesses Unencumbered",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Choking Parable",
+    "candidates": [
+      "IOU Unencumbered",
+      "Late Arev Unencumbered",
+      "Choking Parable",
+      "Guarantee Causation",
+      "When vs. Before",
+      "Wisdom & Civil Law",
+      "Greatest Intellectual",
+      "Flowing Well",
+      "Shimon ben Nanas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic text of Ben Nanas's choking parable itself, which is precisely what the 'Choking Parable' section's prose describes and introduces.",
+      "chosen_heading": "Choking Parable",
+      "current_heading": "Choking Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Shimon ben Nanas",
+    "candidates": [
+      "Guarantee Causation",
+      "When vs. Before",
+      "Wisdom & Civil Law",
+      "Greatest Intellectual",
+      "Flowing Well",
+      "Shimon ben Nanas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the full statement of Rabbi Yishmael including both the recommendation to study monetary law and the recommendation to attend Shimon ben Nanas, and the prose under 'Wisdom & Civil Law' (index 2) is where the essay author introduces this complete Talmudic quote, making it the natural home for the entire passage rather than splitting it under the later 'Shimon ben Nanas' heading.",
+      "chosen_heading": "Wisdom & Civil Law",
+      "current_heading": "Shimon ben Nanas",
+      "moved": true
+    }
+  }
+]

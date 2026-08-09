@@ -1,0 +1,396 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Marzev & Mazcheila",
+    "candidates": [
+      "Marzev & Mazcheila",
+      "Three Marzev Opinions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Marzev & Mazcheila",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Mishnah text covering marzev/mazcheila, Egyptian/Tyrian ladders, and Egyptian/Tyrian windows \u2014 exactly the mishna content that heading 0 ('Marzev & Mazcheila') introduces.",
+      "second_heading": "Three Marzev Opinions",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 are the Gemara giving Rav Yehuda/Shmuel's and Rabbi \u1e24anina's interpretations of the marzev \u2014 precisely the 'three Marzev opinions' machlokes that heading 1 describes.",
+      "current_heading": "Marzev & Mazcheila",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Three Marzev Opinions",
+    "candidates": [
+      "Three Marzev Opinions",
+      "Mazcheila Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yirmiyah bar Abba's specific opinion about the marzev, which is exactly what the 'Three Marzev Opinions' section discusses as the third of three opinions.",
+      "chosen_heading": "Three Marzev Opinions",
+      "current_heading": "Three Marzev Opinions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Mazcheila Challenge",
+    "candidates": [
+      "Mazcheila Challenge",
+      "Stone & Permanence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the challenge to Rav Yirmeya bar Abba's opinion about the mazcheila creating a chazakah, which is precisely what the 'Mazcheila Challenge' prose describes, including the exact Aramaic formulation cited there.",
+      "chosen_heading": "Mazcheila Challenge",
+      "current_heading": "Mazcheila Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Stone & Permanence",
+    "candidates": [
+      "Stone & Permanence",
+      "Vibration Damage",
+      "Plugging Drainpipe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer about a gutter pipe built into a building where the owner objects that his walls will weaken, which matches precisely the prose in 'Stone & Permanence' discussing the mazcheila built from stone and the concern about structural damage to the owner's walls/foundation.",
+      "chosen_heading": "Stone & Permanence",
+      "current_heading": "Stone & Permanence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Plugging Drainpipe",
+    "candidates": [
+      "Vibration Damage",
+      "Plugging Drainpipe",
+      "Implicit Purchase",
+      "Renovation Limits",
+      "Family Dispute",
+      "Three Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Rav Yehuda/Shmuel ruling about a drainpipe channeling water into a neighbor's courtyard and the yard owner's right to prevent plugging it, which is exactly what the 'Plugging Drainpipe' section's prose introduces and discusses.",
+      "chosen_heading": "Plugging Drainpipe",
+      "current_heading": "Plugging Drainpipe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Three Generations",
+    "candidates": [
+      "Implicit Purchase",
+      "Renovation Limits",
+      "Family Dispute",
+      "Three Generations",
+      "Egyptian Ladder Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage records the three-way dispute between Rabbi Oshaya, Rabbi Chama, and Rabbi Bisa, which matches the 'Family Dispute' section's prose about that exact disagreement, while the 'Three Generations' section's prose covers the subsequent application of the Kohelet verse and Tosafot's analysis \u2014 the Gemara passage itself belongs under 'Family Dispute' since it contains the actual dispute narrative that section describes.",
+      "chosen_heading": "Family Dispute",
+      "current_heading": "Three Generations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Egyptian Ladder Defined",
+    "candidates": [
+      "Three Generations",
+      "Egyptian Ladder Defined",
+      "Temporary Structures",
+      "Window Types",
+      "Definition Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines the Egyptian ladder as one with fewer than four rungs, which directly matches the prose of 'Egyptian Ladder Defined' that discusses exactly this question and answer from Rabbi Yannai.",
+      "chosen_heading": "Egyptian Ladder Defined",
+      "current_heading": "Egyptian Ladder Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Definition Question",
+    "candidates": [
+      "Temporary Structures",
+      "Window Types",
+      "Definition Question",
+      "Height Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about why the mishnah defines the Egyptian window but not the Egyptian ladder, and answers that it is because Rabbi Yehuda disputes the window's definition in the latter clause \u2014 which is precisely what the 'Definition Question' section's prose discusses.",
+      "chosen_heading": "Definition Question",
+      "current_heading": "Definition Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Height Threshold",
+    "candidates": [
+      "Height Threshold",
+      "Rabbi Ila Position",
+      "Midat Sodom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Zeira's and Rabbi Ile'a's positions on the four-cubit height threshold, and the current heading's prose explicitly discusses Rabbi Zeira's framework while acknowledging the contrast with Rabbi Ile'a \u2014 making it the best home for this passage that contains both opinions together.",
+      "chosen_heading": "Height Threshold",
+      "current_heading": "Height Threshold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Midat Sodom",
+    "candidates": [
+      "Rabbi Ila Position",
+      "Midat Sodom",
+      "Stool Peeping Case",
+      "Light Windows"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Midat Sodom",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (the Midat Sodom question and its rejection, including the sharshifa explanation) is precisely what the 'Midat Sodom' prose describes.",
+      "second_heading": "Stool Peeping Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (the case before Rabbi Ami sent to Rabbi Abba bar Memel, ruling like Rabbi Ila) is precisely what the 'Stool Peeping Case' prose describes as the practical ruling emerging from the sugya.",
+      "current_heading": "Midat Sodom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Light Windows",
+    "candidates": [
+      "Stool Peeping Case",
+      "Light Windows",
+      "Window Purpose",
+      "Ledge Widths",
+      "Expansion Rule",
+      "Shiurim",
+      "Abaye Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Shmuel's statement about light windows establishing chazakah at any size, which is precisely what the 'Light Windows' section's prose discusses and elaborates upon.",
+      "chosen_heading": "Light Windows",
+      "current_heading": "Light Windows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Abaye Clarification",
+    "candidates": [
+      "Window Purpose",
+      "Ledge Widths",
+      "Expansion Rule",
+      "Shiurim",
+      "Abaye Clarification",
+      "Rav Huna"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ledge Widths",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah introducing the ziz and its one-tefach threshold, which candidate 1 ('Ledge Widths') explicitly discusses in its prose.",
+      "second_heading": "Expansion Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara with Rabbi Mani's ruling and Abaye's clarification about establishing chazakah on a one-tefach-wide by four-tefachim-long ledge and expanding to four tefachim width, which candidate 2 ('Expansion Rule') directly discusses.",
+      "current_heading": "Abaye Clarification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Rav Huna",
+    "candidates": [
+      "Abaye Clarification",
+      "Rav Huna",
+      "Rabbi Yehuda",
+      "Privacy Concerns",
+      "Stance Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the ruling that a protrusion less than a handbreadth creates no chazakah and neither party can protest, which corresponds directly to the 'Abaye Clarification' section's prose about pachot mitefach ein lo chazakah, while the current placement under 'Rav Huna' only covers the subsequent dispute between Rav Huna and Rav Yehuda \u2014 yet the passage contains both the less-than-handbreadth ruling AND the Rav Huna/Rav Yehuda dispute, making the Abaye section the better fit since it explicitly discusses the pachot mitefach rule that opens this passage.",
+      "chosen_heading": "Abaye Clarification",
+      "current_heading": "Rav Huna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Stance Solutions",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Privacy Concerns",
+      "Stance Solutions",
+      "Window Restrictions",
+      "Stairwell Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's discussion of whether the Rav Huna/Rav Yehuda dispute is about hezek re'iyah and the rejection of that framing \u2014 exactly what candidate 1 ('Privacy Concerns') describes in its prose, including the d'kulei alma shemei hezek rejection, the factual question about the ledge's usability, and the frightened-turn response.",
+      "chosen_heading": "Privacy Concerns",
+      "current_heading": "Stance Solutions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Stairwell Rule",
+    "candidates": [
+      "Window Restrictions",
+      "Stairwell Rule",
+      "Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishnah covers all three cases (windows, secondary entrances, and lofts) as a unified text, and the Window Restrictions prose introduces all of them while the Stairwell Rule prose is clearly written to describe a Gemara-level elaboration on specific sub-cases, making heading 0 the better home for the full mishnah passage.",
+      "chosen_heading": "Window Restrictions",
+      "current_heading": "Stairwell Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Challenge",
+    "candidates": [
+      "Stairwell Rule",
+      "Challenge",
+      "Changed Expectations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge questioning why the mishnah specifically addresses a jointly owned courtyard when the prohibition would obviously apply to another's private courtyard as well, which is exactly what the 'Challenge' section's prose describes.",
+      "chosen_heading": "Challenge",
+      "current_heading": "Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Changed Expectations",
+    "candidates": [
+      "Changed Expectations",
+      "Illegal Window Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the 'la mibaiya' logic of the mishnah regarding the chatzer hashutafin case, articulating precisely the argument about changed privacy expectations (until now only in the chatzer, now even in the house), which is exactly what the 'Changed Expectations' prose section discusses.",
+      "chosen_heading": "Changed Expectations",
+      "current_heading": "Changed Expectations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Illegal Window Case",
+    "candidates": [
+      "Illegal Window Case",
+      "Blockage Chazakah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident (ma'aseh) of someone who opened windows into a jointly owned courtyard and the contrasting rulings of Rabbi Yishmael bar Rabbi Yose and Rabbi \u1e24iyya, which is precisely what the prose under 'Illegal Window Case' discusses.",
+      "chosen_heading": "Illegal Window Case",
+      "current_heading": "Illegal Window Case",
+      "moved": false
+    }
+  }
+]

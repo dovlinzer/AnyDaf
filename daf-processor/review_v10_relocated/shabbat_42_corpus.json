@@ -1,0 +1,241 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Shmuel: Metal/Wood Coals",
+    "candidates": [
+      "Tempering Problem Intro",
+      "Two Answers on Tempering",
+      "Shmuel: Metal/Wood Coals",
+      "Charcoal & Kibuy",
+      "Electric Lights & Esh",
+      "Hezek Rabbim Principle",
+      "Two Debates on Intent",
+      "Ravina's Broken Glass"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly asks whether Shmuel holds like Rabbi Shimon, then introduces Shmuel's ruling about extinguishing metal vs. wood coals \u2014 precisely the content described in the 'Shmuel: Metal/Wood Coals' prose.",
+      "chosen_heading": "Shmuel: Metal/Wood Coals",
+      "current_heading": "Shmuel: Metal/Wood Coals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Ravina's Broken Glass",
+    "candidates": [
+      "Charcoal & Kibuy",
+      "Electric Lights & Esh",
+      "Hezek Rabbim Principle",
+      "Two Debates on Intent",
+      "Ravina's Broken Glass",
+      "Spices in Vessels",
+      "Beit Shammai: Hot/Cold",
+      "Rashi: Element Hierarchy",
+      "Tosafot: Majority Element",
+      "Beit Hillel on Kos",
+      "Bath Exception",
+      "R. Shimon: Hot into Cold",
+      "Basin Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly contains Ravina's statement about moving a thorn in the public domain in increments of less than four cubits and freely in a karmelit, which is precisely what the 'Ravina's Broken Glass' section's prose discusses.",
+      "chosen_heading": "Ravina's Broken Glass",
+      "current_heading": "Ravina's Broken Glass",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Basin Problem",
+    "candidates": [
+      "Spices in Vessels",
+      "Beit Shammai: Hot/Cold",
+      "Rashi: Element Hierarchy",
+      "Tosafot: Majority Element",
+      "Beit Hillel on Kos",
+      "Bath Exception",
+      "R. Shimon: Hot into Cold",
+      "Basin Problem",
+      "Resolution: Kos vs. Bath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items together cover exactly the content described in heading 7 ('Basin Problem'): Item 1 presents the baraita about hot/cold mixing and Rav Na\u1e25man's ruling following Rabbi Shimon ben Menasya (providing the context for the basin discussion), and Item 2 presents Rav Yosef's proposal that a basin is like a bath, Abaye's refutation via Rabbi \u1e24iyya's baraita, and the gemara's question about whether washing with hot water on Shabbat would be impossible \u2014 all of which is precisely what the Basin Problem prose discusses.",
+      "chosen_heading": "Basin Problem",
+      "current_heading": "Basin Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Resolution: Kos vs. Bath",
+    "candidates": [
+      "Resolution: Kos vs. Bath",
+      "Rav Huna on Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's reinterpretation of Rabbi Shimon ben Menasya's ruling as referring to the reisha rather than the seifa, and clarifies his relationship to Beit Shammai \u2014 exactly what the prose under 'Resolution: Kos vs. Bath' describes.",
+      "chosen_heading": "Resolution: Kos vs. Bath",
+      "current_heading": "Resolution: Kos vs. Bath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rav Huna on Rava",
+    "candidates": [
+      "Rav Huna on Rava",
+      "Kli Sheni Principle",
+      "Spices Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Huna's observation of Rava's leniency, the proof from Rabbi \u1e24iyya's baraita, and the challenge/resolution about the vessel acting as a partition \u2014 all of which are precisely what the 'Rav Huna on Rava' prose section describes.",
+      "chosen_heading": "Rav Huna on Rava",
+      "current_heading": "Rav Huna on Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Spices Mishnah",
+    "candidates": [
+      "Kli Sheni Principle",
+      "Spices Mishnah",
+      "Rabbi Yehuda's View",
+      "Debate on R. Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mishna text (kli rishon pot removed from fire, spices prohibition, kli sheni bowl/tureen permission, and Rabbi Yehuda's exception for vinegar/brine) that the 'Spices Mishnah' prose directly quotes, analyzes, and explains in detail.",
+      "chosen_heading": "Spices Mishnah",
+      "current_heading": "Spices Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Debate on R. Yehuda",
+    "candidates": [
+      "Rabbi Yehuda's View",
+      "Debate on R. Yehuda",
+      "Salt Cooks in Kli Sheni"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the gemara's dilemma about whether Rabbi Yehuda is lenient on the reisha or stringent on the seifa, and the baraita resolving it \u2014 are precisely what candidate 1's prose describes as the content of the 'Debate on R. Yehuda' section.",
+      "chosen_heading": "Debate on R. Yehuda",
+      "current_heading": "Debate on R. Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Salt Cooks in Kli Sheni",
+    "candidates": [
+      "Salt Cooks in Kli Sheni",
+      "Salt Needs Much Heat",
+      "Salt Requires Fire",
+      "Kalei Habishul Category",
+      "Kli Sheni: Modern Views",
+      "Tea Question",
+      "Oil Dripping Rule",
+      "Two Explanations",
+      "Pre-Shabbat Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the two versions of the Rav Yosef/Abaye/Rabbi Chiyya/Rav Nachman dispute about whether salt cooks in a kli sheni, which is precisely what heading 0 ('Salt Cooks in Kli Sheni') discusses in its prose \u2014 including explicit quotation of the same disputants and their positions about salt versus spices in kli rishon/kli sheni.",
+      "chosen_heading": "Salt Cooks in Kli Sheni",
+      "current_heading": "Salt Cooks in Kli Sheni",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Pre-Shabbat Exception",
+    "candidates": [
+      "Salt Needs Much Heat",
+      "Salt Requires Fire",
+      "Kalei Habishul Category",
+      "Kli Sheni: Modern Views",
+      "Tea Question",
+      "Oil Dripping Rule",
+      "Two Explanations",
+      "Pre-Shabbat Exception",
+      "Egg Catching",
+      "On Top vs. Under",
+      "Common vs. Rare Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The mishna text directly introduces the rule about not placing a vessel beneath a lamp to catch dripping oil, which is exactly what the 'Oil Dripping Rule' section's prose describes as the topic it is introducing.",
+      "chosen_heading": "Oil Dripping Rule",
+      "current_heading": "Pre-Shabbat Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Common vs. Rare Acts",
+    "candidates": [
+      "Egg Catching",
+      "On Top vs. Under",
+      "Common vs. Rare Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's explanation of Rav \u1e24isda's reasoning about common vs. uncommon preservation, which is precisely what the 'Common vs. Rare Acts' section's prose discusses.",
+      "chosen_heading": "Common vs. Rare Acts",
+      "current_heading": "Common vs. Rare Acts",
+      "moved": false
+    }
+  }
+]

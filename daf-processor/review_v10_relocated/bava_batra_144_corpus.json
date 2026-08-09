@@ -1,0 +1,318 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rava's Shevach Rule",
+    "candidates": [
+      "Minors & Estate Protect",
+      "Rava's Shevach Rule",
+      "Udayni Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's qualification distinguishing shevach machmat nechasim from shevach machmat atzman, which is precisely what the 'Rava's Shevach Rule' prose section discusses.",
+      "chosen_heading": "Rava's Shevach Rule",
+      "current_heading": "Rava's Shevach Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Udayni Exception",
+    "candidates": [
+      "Udayni Exception",
+      "Rav Safra Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the challenge from Rabbi \u1e24anina about the udayni (mortar) and the Gemara's resolution that even minors can supervise it, which is precisely what the 'Udayni Exception' prose section describes.",
+      "chosen_heading": "Udayni Exception",
+      "current_heading": "Udayni Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Rav Safra Case",
+    "candidates": [
+      "Rav Safra Case",
+      "Rashbam on Rav Safra",
+      "Woman Heir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Safra case (his father's dinars, the brothers' claim before Rava, and Rava's ruling), which is precisely what heading 0 'Rav Safra Case' discusses in its prose.",
+      "chosen_heading": "Rav Safra Case",
+      "current_heading": "Rav Safra Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Woman Heir",
+    "candidates": [
+      "Rashbam on Rav Safra",
+      "Woman Heir",
+      "Woman's Unusual Effort"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Woman Heir",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the case of the woman as heiress (yoreshet), which is exactly what the 'Woman Heir' prose discusses in detail.",
+      "second_heading": "Woman's Unusual Effort",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the Gemara's question about whether a woman's unusual effort constitutes an implicit declaration, which is precisely what the 'Woman's Unusual Effort' prose describes.",
+      "current_heading": "Woman Heir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Woman's Unusual Effort",
+    "candidates": [
+      "Woman's Unusual Effort",
+      "House Gift Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case where a woman makes an explicit declaration ('re'u mah she-hiniach li ba'ali') and whether public admiration might override it, which is precisely what candidate 0's prose describes as the Gemara's second consideration.",
+      "chosen_heading": "Woman's Unusual Effort",
+      "current_heading": "Woman's Unusual Effort",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "House Gift Presumption",
+    "candidates": [
+      "House Gift Presumption",
+      "Limitations & Rooms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi \u1e24anina's ruling and the four conditions for the house-gift presumption, which is precisely what the 'House Gift Presumption' prose section discusses.",
+      "chosen_heading": "House Gift Presumption",
+      "current_heading": "House Gift Presumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Limitations & Rooms",
+    "candidates": [
+      "Limitations & Rooms",
+      "Dishes vs House",
+      "Father's Storage Rule",
+      "Small Item Negates Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the exact cases described in the 'Limitations & Rooms' prose: house vs. upper story, house vs. portico, and two nested houses, all left as teiku \u2014 matching perfectly.",
+      "chosen_heading": "Limitations & Rooms",
+      "current_heading": "Limitations & Rooms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Small Item Negates Gift",
+    "candidates": [
+      "Dishes vs House",
+      "Father's Storage Rule",
+      "Small Item Negates Gift",
+      "Arbitrary Laws"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Arbitrary Laws",
+    "candidates": [
+      "Arbitrary Laws",
+      "Job Profit Sharing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Mar Zutra's three 'halakha without explanation' laws, which is exactly what the 'Arbitrary Laws' section prose describes in detail.",
+      "chosen_heading": "Arbitrary Laws",
+      "current_heading": "Arbitrary Laws",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Job Profit Sharing",
+    "candidates": [
+      "Job Profit Sharing",
+      "King's Service Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text introduces brothers who are partners and covers both the job/service income sharing and the medical expenses rule, which is precisely what the 'Job Profit Sharing' prose section discusses as its introduction to this mishna.",
+      "chosen_heading": "Job Profit Sharing",
+      "current_heading": "Job Profit Sharing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "King's Service Position",
+    "candidates": [
+      "King's Service Position",
+      "Personal vs Family Job",
+      "Ambiguous Job Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces both the 'umanut hamelech' concept and the baraita about tax collector/military commander, which is precisely what heading 0's prose discusses \u2014 the king's service context and the family rotation principle leading to shared income.",
+      "chosen_heading": "King's Service Position",
+      "current_heading": "King's Service Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Ambiguous Job Cases",
+    "candidates": [
+      "Personal vs Family Job",
+      "Ambiguous Job Cases",
+      "Support Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question and answer about the 'charif' (sharper) brother case, which is precisely what the 'Ambiguous Job Cases' prose discusses.",
+      "chosen_heading": "Ambiguous Job Cases",
+      "current_heading": "Ambiguous Job Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Support Location",
+    "candidates": [
+      "Support Location",
+      "Rav Huna Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly discusses the case of a brother who took funds to study Torah or learn a trade and the brothers' right to condition support on residence, which is precisely the content described in the 'Support Location' prose.",
+      "chosen_heading": "Support Location",
+      "current_heading": "Support Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rav Huna Blessing",
+    "candidates": [
+      "Rav Huna Blessing",
+      "Tosafot Cost Correction",
+      "Negligence vs Accident"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rav Huna principle of birchas habayis berovah and the hachi nami resolution, which is precisely what the 'Rav Huna Blessing' prose section describes.",
+      "chosen_heading": "Rav Huna Blessing",
+      "current_heading": "Rav Huna Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Negligence vs Accident",
+    "candidates": [
+      "Tosafot Cost Correction",
+      "Negligence vs Accident",
+      "Heaven Principle",
+      "Chronic vs Acute",
+      "Formal Wedding Gifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna's rule that medical expenses come from the brother's own funds, qualified by Ravin/Rabbi Ila'i's distinction between negligence and ones, and defines negligence via Rabbi Chanina's teaching \u2014 exactly matching the 'Negligence vs Accident' section's prose, which is where it currently sits.",
+      "chosen_heading": "Negligence vs Accident",
+      "current_heading": "Negligence vs Accident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Formal Wedding Gifts",
+    "candidates": [
+      "Heaven Principle",
+      "Chronic vs Acute",
+      "Formal Wedding Gifts",
+      "Informal Gifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna covers both shoshvinut (formal wedding gifts) and the contrast with informal gifts of wine and oil, and the current placement under 'Formal Wedding Gifts' is correct since heading 2's prose directly describes this exact mishna's content, while heading 3 covers only the informal gifts aspect which the essay author treats as a separate discussion.",
+      "chosen_heading": "Formal Wedding Gifts",
+      "current_heading": "Formal Wedding Gifts",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,484 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Testimony Issue",
+    "candidates": [
+      "Katan & Megillah",
+      "Proof from Lod",
+      "Testimony Issue",
+      "Rebbi Yehuda Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehuda's autobiographical proof from Lod AND the response about minor testimony \u2014 it covers the complete unit, but the 'Proof from Lod' heading (index 1) introduces the baraita with the autobiographical incident, while 'Testimony Issue' (index 2) covers only the rebuttal; since the passage begins with the mishna ruling and then presents the full baraita including both the proof and its rejection, and candidate 1's prose explicitly cites the baraita text 'katan hayiti v'kirisiyah l'mala me-Reb Tarfon v'hazekeinim b'Lod' which matches this passage's content, the passage belongs under heading 1.",
+      "chosen_heading": "Proof from Lod",
+      "current_heading": "Testimony Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Rebbi Yehuda Proof",
+    "candidates": [
+      "Testimony Issue",
+      "Rebbi Yehuda Proof",
+      "Gemara Analysis",
+      "Tosafos & Obligation",
+      "Pirsumei Nisa",
+      "Megillah vs Torah",
+      "Women & Minors",
+      "Day Mitzvos List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi Yehuda HaNasi's proof about reading the Megilla as a minor before Rabbi Yehuda and the twofold rejection of that proof, which is precisely what the 'Rebbi Yehuda Proof' section's prose describes.",
+      "chosen_heading": "Rebbi Yehuda Proof",
+      "current_heading": "Rebbi Yehuda Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Day Mitzvos List",
+    "candidates": [
+      "Gemara Analysis",
+      "Tosafos & Obligation",
+      "Pirsumei Nisa",
+      "Megillah vs Torah",
+      "Women & Minors",
+      "Day Mitzvos List",
+      "Day Definition",
+      "Megillah Day Source",
+      "Night vs Day"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The Mishnah lists the day-mitzvos (Megillah, milah, tevilah, hazah, shomeres yom k'neged yom) and their timing rules, which is precisely what the 'Day Mitzvos List' section's prose describes.",
+      "chosen_heading": "Day Mitzvos List",
+      "current_heading": "Day Mitzvos List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Night vs Day",
+    "candidates": [
+      "Day Definition",
+      "Megillah Day Source",
+      "Night vs Day",
+      "Bris Milah Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the derivation of Megillah as a day mitzvah AND the challenge/resolution regarding Rabbi Yehoshua ben Levi's nighttime reading, which is precisely what the 'Night vs Day' section's prose discusses.",
+      "chosen_heading": "Night vs Day",
+      "current_heading": "Night vs Day",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Bris Milah Timing",
+    "candidates": [
+      "Bris Milah Timing",
+      "Tevilah Hazah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the verse 'u'vayom hashemini yimol' to establish that circumcision must be performed during the day, which matches exactly the prose discussion under 'Bris Milah Timing.'",
+      "chosen_heading": "Bris Milah Timing",
+      "current_heading": "Bris Milah Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Tevilah Hazah",
+    "candidates": [
+      "Tevilah Hazah",
+      "Tosafos Tevilah",
+      "Shomeres Yom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the verse about sprinkling on the seventh day and links tevilah to hazah via itkash, which is precisely what the 'Tevilah Hazah' section's prose describes as its core content.",
+      "chosen_heading": "Tevilah Hazah",
+      "current_heading": "Tevilah Hazah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Shomeres Yom",
+    "candidates": [
+      "Tosafos Tevilah",
+      "Shomeres Yom",
+      "Zavah vs Zav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question about why the shomeres yom k'neged yom is singled out, which directly matches the prose of heading 1 ('Shomeres Yom') that describes exactly this Gemara question about why the shomeres yom is worth singling out when the rule applies to all who must immerse.",
+      "chosen_heading": "Shomeres Yom",
+      "current_heading": "Shomeres Yom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Zavah vs Zav",
+    "candidates": [
+      "Zavah vs Zav",
+      "Sefira Requirement",
+      "Seven-Day Principle",
+      "Light Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous Gemara passage explaining why the shomeres yom cannot immerse at night \u2014 the zav/ba'al keri hekesh argument (item 1), the refutation via kol yemei zovah (item 2), and the sefira b'imama conclusion (item 3) \u2014 which matches exactly the prose under 'Zavah vs Zav' describing this same chain of reasoning about the shomeres yom and night immersion.",
+      "chosen_heading": "Zavah vs Zav",
+      "current_heading": "Zavah vs Zav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Light Verse",
+    "candidates": [
+      "Sefira Requirement",
+      "Seven-Day Principle",
+      "Light Verse",
+      "Beginning Light",
+      "Symmetry Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains the Mishnah's statement about amud hashachar validity and Rava's derivation from the verse 'Vayikra Elokim la'or yom,' which is precisely what the 'Light Verse' section's prose describes.",
+      "chosen_heading": "Light Verse",
+      "current_heading": "Light Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Symmetry Problem",
+    "candidates": [
+      "Beginning Light",
+      "Symmetry Problem",
+      "Nehemiah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge about symmetry between 'day' and 'night' interpretations, matching exactly the 'Symmetry Problem' section's prose about the *tzeis hakochavim* objection.",
+      "chosen_heading": "Symmetry Problem",
+      "current_heading": "Symmetry Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Nehemiah Source",
+    "candidates": [
+      "Nehemiah Source",
+      "Alos to Neitz",
+      "Rashi Clarity",
+      "Rav S. Framework",
+      "Lemair U'Va",
+      "Bein Hashmashot",
+      "Safek vs Bedia'avad",
+      "All Day Things",
+      "Day List 1"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's presentation of Rabbi Zeira's proof from Nehemiah and the clarification of why the second verse is needed \u2014 exactly what the 'Nehemiah Source' prose describes.",
+      "chosen_heading": "Nehemiah Source",
+      "current_heading": "Nehemiah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Day List 1",
+    "candidates": [
+      "Alos to Neitz",
+      "Rashi Clarity",
+      "Rav S. Framework",
+      "Lemair U'Va",
+      "Bein Hashmashot",
+      "Safek vs Bedia'avad",
+      "All Day Things",
+      "Day List 1",
+      "Day List 2",
+      "Temple Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items together form the complete Mishna of 'kol hayom kasher,' and candidate 6 ('All Day Things') explicitly introduces this Mishna and its governing principle of kol hayom kasher covering day-mitzvos, making it the correct home for the full Mishna text before the essay breaks out its enumeration in Day List 1 and Day List 2.",
+      "chosen_heading": "All Day Things",
+      "current_heading": "Day List 1",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Temple Acts",
+    "candidates": [
+      "Day List 2",
+      "Temple Acts",
+      "Purification",
+      "Night Mitzvos"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Temple Acts",
+      "first_confidence": "high",
+      "first_reason": "Item 1 lists Temple service-acts (semicha, shechitah, tenufah, etc.) which perfectly match the 'Temple Acts' prose describing exactly those avodah acts.",
+      "second_heading": "Purification",
+      "second_confidence": "high",
+      "second_reason": "Item 2 lists sotah, eglah arufah, and taharas hametzora, which perfectly match the 'Purification' prose describing those exact three rituals.",
+      "current_heading": "Temple Acts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Night Mitzvos",
+    "candidates": [
+      "Purification",
+      "Night Mitzvos",
+      "Ze Ha'klal",
+      "Megillah Source",
+      "Hallel Shofar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the nighttime mitzvos (reaping the omer, burning fats and limbs) and the ze ha'klal principle together as a single Mishnaic unit, and the current placement under 'Night Mitzvos' matches the prose which explicitly discusses ketziras ha'omer, haktaras chalavim v'eivarim, and notes the ze ha'klal \u2014 making it the best single home for this unified passage.",
+      "chosen_heading": "Night Mitzvos",
+      "current_heading": "Night Mitzvos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Hallel Shofar",
+    "candidates": [
+      "Ze Ha'klal",
+      "Megillah Source",
+      "Hallel Shofar",
+      "Lulav Musaf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the Megillah source (hayamim ha'eileh nizkarim v'naasim) and the Hallel sources (mimizrach shemesh / zeh hayom asah Hashem), and candidate 1 ('Megillah Source') is where the Gemara begins its sourcing discussion \u2014 the current placement under 'Hallel Shofar' misses the Megillah content that opens this Gemara passage, while candidate 1's prose explicitly covers both the Megillah verse and leads into Hallel, matching the full passage.",
+      "chosen_heading": "Megillah Source",
+      "current_heading": "Hallel Shofar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Lulav Musaf",
+    "candidates": [
+      "Hallel Shofar",
+      "Lulav Musaf",
+      "Sotah Confession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers lulav, shofar, Musafin offerings, and Musaf prayer \u2014 matching exactly the 'Lulav Musaf' prose which discusses lulav (u'lakachtem), Musafin sacrifice and prayer (devar yom biyomo), and k'Musafin shavei rabanan.",
+      "chosen_heading": "Lulav Musaf",
+      "current_heading": "Lulav Musaf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Sotah Confession",
+    "candidates": [
+      "Sotah Confession",
+      "Sotah Legal",
+      "Eglah Metzora",
+      "Night Sources"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Sotah Confession",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20136 cover viduy parim, viduy ma'aser, semichah/shechitah/tenufah/hagashah/melikah/kemitzah/haktarah/hazayah, and the sotah drinking derivation \u2014 all topics discussed in the 'Sotah Confession' prose.",
+      "second_heading": "Eglah Metzora",
+      "second_confidence": "high",
+      "second_reason": "Item 7 covers eglah arufah (kaparah derivation) and taharas ha'metzora (beyom taharato), which exactly match the 'Eglah Metzora' prose section.",
+      "current_heading": "Sotah Confession",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Night Sources",
+    "candidates": [
+      "Sotah Legal",
+      "Eglah Metzora",
+      "Night Sources",
+      "Klal Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses ketziras ha'omer, sfirah, and haktaras chalavim at night, which is precisely what the 'Night Sources' section's prose describes \u2014 the received principle about cutting and counting at night versus bringing by day, and the verse kol halaila ad haboker for burning fats.",
+      "chosen_heading": "Night Sources",
+      "current_heading": "Night Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137
+    ],
+    "current_heading": "Klal Scope",
+    "candidates": [
+      "Klal Scope",
+      "Omer Forgotten",
+      "Omer Night",
+      "Omer Only Night",
+      "Lechem Hapanim",
+      "Rabbi Yosi"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lechem Hapanim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the ze ha'klal principle coming to include siddur bezichin v'silluk bezichin, which matches candidate 4 ('Lechem Hapanim') that explicitly discusses the arrangement and removal of the incense-cups alongside the showbread.",
+      "second_heading": "Rabbi Yosi",
+      "second_confidence": "high",
+      "second_reason": "Item 2 cites the baraita of Rabbi Yosi about removing old shewbread in the morning and arranging new ones toward evening, which matches candidate 5 ('Rabbi Yosi') that describes exactly this baraita and Rabbi Yosi's view on the showbread changeover timing.",
+      "current_heading": "Klal Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Rabbi Yosi",
+    "candidates": [
+      "Omer Forgotten",
+      "Omer Night",
+      "Omer Only Night",
+      "Lechem Hapanim",
+      "Rabbi Yosi",
+      "Pesach Midnight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yosi's interpretation of 'lifnei Hashem tamid' to mean the shulchan should not be without bread for an entire day, which precisely matches the prose in candidate 4 about Rabbi Yosi's view on the showbread and the operative constraint of shelo yalin.",
+      "chosen_heading": "Rabbi Yosi",
+      "current_heading": "Rabbi Yosi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152
+    ],
+    "current_heading": "Pesach Midnight",
+    "candidates": [
+      "Pesach Midnight",
+      "Tosafos Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the ze ha'klal principle about night mitzvos applying to the Pesach offering and Rabbi Elazar ben Azaria's gezeirah shavah limiting eating to midnight, which is precisely what the 'Pesach Midnight' prose describes.",
+      "chosen_heading": "Pesach Midnight",
+      "current_heading": "Pesach Midnight",
+      "moved": false
+    }
+  }
+]

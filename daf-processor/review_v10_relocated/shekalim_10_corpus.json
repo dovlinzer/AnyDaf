@@ -1,0 +1,117 @@
+[
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Mitzvah Connection",
+    "candidates": [
+      "Opening & Transition",
+      "Terumah Usage",
+      "Non-Animal Offerings",
+      "Watchers Payment",
+      "R. Yosi View",
+      "Tzorchei Korban",
+      "Sages' Objection",
+      "Gemara Framing",
+      "Eight Families",
+      "Wood Donations History",
+      "R. Yacha's Analysis",
+      "Core Distinction",
+      "Tunic Case",
+      "Consensus Position",
+      "Wood & Holiday",
+      "Holiday Status",
+      "Geographic Limit",
+      "Ten Holiness Levels",
+      "Syria Excluded",
+      "Mitzvah Connection",
+      "Planting Issue"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Terumah Usage",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah and Halakhah of Chapter 2 concerning the disbursement procedure of the House of Rabban Gamliel and the three boxes, which belongs under the 'Opening & Transition' heading that describes wrapping up the trumat halishka procedure before turning to what was done with the funds.",
+      "second_heading": "Non-Animal Offerings",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20137 begin a new Mishnah opening with 'hatruma mah hayu osin bah' \u2014 what was the disbursement used for \u2014 which is precisely what the 'Terumah Usage' prose describes, covering the purchase of temidin, musafin, and all korbanos tzibur from the funds.",
+      "current_heading": "Mitzvah Connection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Planting Issue",
+    "candidates": [
+      "Mitzvah Connection",
+      "Planting Issue",
+      "Banker Mechanism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "Item 2's extended content culminates in the discussion of leftover produce, libations overflow (beirutzim), and trumat halishka surplus mechanisms that directly correspond to the Banker Mechanism section's focus on how sanctified trumat halishka funds are managed and what constitutes permissible gain from Temple funds.",
+      "chosen_heading": "Banker Mechanism",
+      "current_heading": "Planting Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Banker Mechanism",
+    "candidates": [
+      "Banker Mechanism",
+      "Retroactive Value",
+      "Stone Carvers",
+      "Red Heifer & Scapegoat",
+      "Ritual Items",
+      "Ramps",
+      "City Infrastructure",
+      "Abba Shaul",
+      "Investment Strategy",
+      "R. Yishmael",
+      "R. Akiva",
+      "Poor Funds",
+      "Gold Plating",
+      "Kayitz Option",
+      "R. Akiva Alt",
+      "Nesachim Option",
+      "Three Strings",
+      "Weight Rationales",
+      "Sage Teachers",
+      "Blemish Inspectors",
+      "Scribal Correction",
+      "In-House Judges",
+      "Payment Source",
+      "Conceptual Debate",
+      "Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Kayitz Option",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the excess incense (motar haketoret), how it is redeemed via the banker mechanism, and debates about what to do with leftover coins including adorning the altar (kayitz hamizbeach), which matches the 'Kayitz Option' heading's discussion of leftover funds and kayitz hamizbeach.",
+      "second_heading": "R. Akiva Alt",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is a new Mishnah (\u05de\u05e9\u05e0\u05d4) beginning an entirely different case about one who dedicates his property to the Temple and what happens with items fit for public sacrifices, matching 'R. Akiva Alt' which discusses Rabbi Akiva's position on motar truma and its use.",
+      "current_heading": "Banker Mechanism",
+      "moved": true
+    }
+  }
+]

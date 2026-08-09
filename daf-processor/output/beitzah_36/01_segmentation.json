@@ -24,8 +24,8 @@
           "timestamp": "01:25"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Comparison to Shabbat Parameters and Disputes Over Stringency vs. Leniency",
@@ -48,7 +48,7 @@
           "timestamp": "04:14"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -72,8 +72,8 @@
           "timestamp": "07:41"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Restrictions on Moving Fruit Between Rooftops and the Scope of Permitted Labor",
@@ -139,8 +139,8 @@
           "timestamp": "20:07"
         }
       ],
-      "sefaria_index": 5,
-      "matched": false
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Debate Over Whether Muktzah Items Can Be Moved for Their Protection",
@@ -163,7 +163,7 @@
           "timestamp": "23:30"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -211,7 +211,7 @@
           "timestamp": "33:17"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -240,7 +240,7 @@
           "timestamp": "42:13"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 24,
       "matched": true
     },
     {
@@ -519,5 +519,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 22
+  "amud_b_sefaria_index": 22,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "33:17",
+  "amud_b_micro_title": "Not Intent-Based",
+  "shiur_start_daf": 35,
+  "shiur_start_amud": "b"
 }

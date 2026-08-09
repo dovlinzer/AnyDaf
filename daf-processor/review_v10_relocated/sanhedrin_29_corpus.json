@@ -1,0 +1,558 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Yehuda vs. Yosi Debate",
+    "candidates": [
+      "Relatives Overview",
+      "Yehuda vs. Yosi Debate",
+      "Chiyya: Eight & Twenty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present exactly the baraita debate between Rabbi Yehuda and Rabbi Yosi over chorgo vs. giso and the immediate Gemara question about whose opinion the mishna reflects \u2014 precisely the content described in the 'Yehuda vs. Yosi Debate' prose.",
+      "chosen_heading": "Yehuda vs. Yosi Debate",
+      "current_heading": "Yehuda vs. Yosi Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Chiyya: Eight & Twenty",
+    "candidates": [
+      "Chiyya: Eight & Twenty",
+      "Psak: Follow Rabbi Yosi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the reinterpretation of the baraita to resolve the Rabbi Yehuda/Rabbi Yosi debate and the question of who Rabbi Chiyya's 'eight becoming twenty-four' follows \u2014 exactly the content described in the 'Chiyya: Eight & Twenty' prose.",
+      "chosen_heading": "Chiyya: Eight & Twenty",
+      "current_heading": "Chiyya: Eight & Twenty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Psak: Follow Rabbi Yosi",
+    "candidates": [
+      "Psak: Follow Rabbi Yosi",
+      "Gift by Two Brothers-Law",
+      "Shmuel's Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct ruling 'halacha keRabbi Yosi' from Rav Yehuda in the name of Shmuel, which is precisely what the prose under 'Psak: Follow Rabbi Yosi' quotes and discusses.",
+      "chosen_heading": "Psak: Follow Rabbi Yosi",
+      "current_heading": "Psak: Follow Rabbi Yosi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Shmuel's Ambiguity",
+    "candidates": [
+      "Gift by Two Brothers-Law",
+      "Shmuel's Ambiguity",
+      "Rav Yosef's Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the case of two brothers-in-law signing a gift deed and Rav Yosef's initial inclination to validate it, which is precisely the practical case the prose under heading 0 describes as arriving to ground the dispute.",
+      "chosen_heading": "Gift by Two Brothers-Law",
+      "current_heading": "Shmuel's Ambiguity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Rav Yosef's Approach",
+    "candidates": [
+      "Shmuel's Ambiguity",
+      "Rav Yosef's Approach",
+      "Abbaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 Abaye's challenge about which Rabbi Yosei Shmuel meant, Rav Yosef's response using the Pinchas illustration, Abaye's counter-objection, and Rav Yosef's final ruling to use eidei mesira \u2014 are precisely the content described in candidate 1's prose about Rav Yosef's approach, matching verbatim the Aramaic phrases cited there.",
+      "chosen_heading": "Rav Yosef's Approach",
+      "current_heading": "Rav Yosef's Approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Abbaye's Challenge",
+    "candidates": [
+      "Abbaye's Challenge",
+      "Final: Rabbi Akiva Model",
+      "Yehuda: Children Bar Levi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abbaye's challenge using Rabbi Abba's teaching about Rabbi Elazar conceding on mezuyaph mitocho, which is exactly what heading 0 'Abbaye's Challenge' describes in its prose.",
+      "chosen_heading": "Abbaye's Challenge",
+      "current_heading": "Abbaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Yehuda: Children Bar Levi",
+    "candidates": [
+      "Final: Rabbi Akiva Model",
+      "Yehuda: Children Bar Levi",
+      "Mar Ukva's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the dispute over halakha following Rabbi Yehuda, the baraita of Rabbi Yosei HaGelili on karov v'nitrachak, and Rabba bar bar \u1e24ana's ruling in favor of Rabbi Yosei HaGelili \u2014 are explicitly discussed in the prose of candidate 1 ('Yehuda: Children Bar Levi'), which is also the current placement.",
+      "chosen_heading": "Yehuda: Children Bar Levi",
+      "current_heading": "Yehuda: Children Bar Levi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Mar Ukva's Case",
+    "candidates": [
+      "Mar Ukva's Case",
+      "Mar Ukva's Real Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the sons of Mar Ukva's father-in-law coming before him for judgment and his declaration of disqualification, which is precisely what heading 0's prose covers as the opening of Mar Ukva's case.",
+      "chosen_heading": "Mar Ukva's Case",
+      "current_heading": "Mar Ukva's Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Mar Ukva's Real Reason",
+    "candidates": [
+      "Mar Ukva's Real Reason",
+      "Ohev Narrowly Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact exchange between the brothers-in-law and Mar Ukva about his reason for recusal, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Mar Ukva's Real Reason",
+      "current_heading": "Mar Ukva's Real Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Ohev Narrowly Defined",
+    "candidates": [
+      "Ohev Narrowly Defined",
+      "Witnesses vs. Judges",
+      "Sonei Definition",
+      "Ohev from Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the definition and duration of the 'ohev' (groomsman) disqualification, which is exactly what the 'Ohev Narrowly Defined' prose discusses, including the specific opinions of Rav and the Rabbanan citing Rava about the seven days versus the first day.",
+      "chosen_heading": "Ohev Narrowly Defined",
+      "current_heading": "Ohev Narrowly Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Ohev from Pasuk",
+    "candidates": [
+      "Witnesses vs. Judges",
+      "Sonei Definition",
+      "Ohev from Pasuk",
+      "Judges Need Impartiality",
+      "Enemies Can't Sit",
+      "Frightening Witnesses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Ohev from Pasuk",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 derive the disqualification of ohev and sonei from the pasuk and the sevara argument, matching the 'Ohev from Pasuk' prose exactly.",
+      "second_heading": "Judges Need Impartiality",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 address what the Rabanan derive from the verse (chad ledayan) and Rabbi Yossi beRabbi Yehuda's ruling about two scholars who hate each other not sitting together, which matches the 'Judges Need Impartiality' prose precisely.",
+      "current_heading": "Ohev from Pasuk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Frightening Witnesses",
+    "candidates": [
+      "Judges Need Impartiality",
+      "Enemies Can't Sit",
+      "Frightening Witnesses",
+      "Individual Examination",
+      "Hearsay Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna passage describes exactly the procedure of bringing witnesses into a room, intimidating them, and clearing bystanders \u2014 which is precisely what the 'Frightening Witnesses' prose discusses.",
+      "chosen_heading": "Frightening Witnesses",
+      "current_heading": "Frightening Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Hearsay Rejection",
+    "candidates": [
+      "Individual Examination",
+      "Hearsay Rejection",
+      "Admission Standard",
+      "Verdict Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the rejection of hearsay testimony and the valid admission standard in a single Talmudic excerpt, but the current placement under 'Hearsay Rejection' is appropriate since that section's prose directly addresses the inadmissible answers described in this passage, and the admission standard prose in candidate 2 discusses only the positive requirement separately.",
+      "chosen_heading": "Hearsay Rejection",
+      "current_heading": "Hearsay Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Verdict Process",
+    "candidates": [
+      "Admission Standard",
+      "Verdict Process",
+      "Unanimity or Add Judges",
+      "Announcing Verdict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes bringing in the second witness, examining him, and deliberating if accounts align \u2014 exactly what the 'Verdict Process' prose describes.",
+      "chosen_heading": "Verdict Process",
+      "current_heading": "Verdict Process",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Announcing Verdict",
+    "candidates": [
+      "Unanimity or Add Judges",
+      "Announcing Verdict",
+      "Secrecy of Votes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Unanimity or Add Judges",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the voting outcomes and the requirement to add judges when there is a tie or abstention, matching exactly the prose of 'Unanimity or Add Judges'.",
+      "second_heading": "Announcing Verdict",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the announcement of the verdict by the senior judge after deliberations, matching exactly the prose of 'Announcing Verdict'.",
+      "current_heading": "Announcing Verdict",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Secrecy of Votes",
+    "candidates": [
+      "Secrecy of Votes",
+      "Clouds & Rain Warning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibition on a judge revealing their personal vote after a case concludes, citing the talebearer verses \u2014 exactly what the 'Secrecy of Votes' prose describes.",
+      "chosen_heading": "Secrecy of Votes",
+      "current_heading": "Secrecy of Votes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Clouds & Rain Warning",
+    "candidates": [
+      "Clouds & Rain Warning",
+      "Sword & Arrow Warning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Yehuda's clouds-and-rain verse and Rava's craftsman objection \u2014 are explicitly described in the 'Clouds & Rain Warning' prose, making the current placement correct.",
+      "chosen_heading": "Clouds & Rain Warning",
+      "current_heading": "Clouds & Rain Warning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Sword & Arrow Warning",
+    "candidates": [
+      "Sword & Arrow Warning",
+      "Despised Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rava's sword/arrow verse warning and Rav Ashi's pestilence objection to it, which is precisely what the 'Sword & Arrow Warning' prose describes.",
+      "chosen_heading": "Sword & Arrow Warning",
+      "current_heading": "Sword & Arrow Warning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Despised Witnesses",
+    "candidates": [
+      "Despised Witnesses",
+      "Direct Admission Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Natan bar Mar Zutra's teaching that false witnesses are despised even by those who hire them, which matches precisely the prose of heading 0 ('Despised Witnesses').",
+      "chosen_heading": "Despised Witnesses",
+      "current_heading": "Despised Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Direct Admission Required",
+    "candidates": [
+      "Direct Admission Required",
+      "Yehuda's Strict Rule",
+      "Jest Retraction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Direct Admission Required",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the formal requirements for a valid admission (befanenu + atem edai), which matches the 'Direct Admission Required' and 'Yehuda's Strict Rule' prose \u2014 but since item 1 is the mishnah support and item 2 is Rav Yehuda's rule, they span headings 0 and 1; however the current placement prose for heading 0 already describes both items 1 and 2 as belonging together leading into Rav Yehuda, while heading 1 prose describes Rav Yehuda's rule as its own section, so items 1-2 are best split: item 1 under heading 0 and item 2 under heading 1 \u2014 but since FORM 2 only allows one split point, items 1-2 under heading 0 (which already discusses both) and items 3-4 under heading 2 ('Jest Retraction') which explicitly discusses meshateh ani bach and the baraita confirming it.",
+      "second_heading": "Jest Retraction",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce the meshateh ani bach (jest/teasing) defense via Rabbi Yochanan and a confirming baraita, which matches exactly the 'Jest Retraction' section prose.",
+      "current_heading": "Direct Admission Required",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Jest Retraction",
+    "candidates": [
+      "Yehuda's Strict Rule",
+      "Jest Retraction",
+      "Capital Cases Defense"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Jest Retraction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the braisa about hiding witnesses and the meshateh defense, which the 'Jest Retraction' prose explicitly describes as part of that section's content.",
+      "second_heading": "Capital Cases Defense",
+      "second_confidence": "high",
+      "second_reason": "Item 2 about not advancing a claim on behalf of an inciter (mesit) is a distinct procedural rule tied to capital cases/inciter exceptions, matching the 'Capital Cases Defense' section's discussion of when courts do or do not raise defenses on a defendant's behalf.",
+      "current_heading": "Jest Retraction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Capital Cases Defense",
+    "candidates": [
+      "Capital Cases Defense",
+      "Mesit Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly covers the Gemara's question about the mesit ('who mentioned it?'), the chassurei mechassra reconstruction, and the exception for the mesit \u2014 all of which are the specific content described in the 'Mesit Exception' prose, not merely the general capital-cases rule.",
+      "chosen_heading": "Mesit Exception",
+      "current_heading": "Capital Cases Defense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Mesit Exception",
+    "candidates": [
+      "Mesit Exception",
+      "Mesit & Serpent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the reason the court makes no defense for the mesit (the verse 'lo tachmol ve'lo techaseh alav'), which is the core content of the 'Mesit Exception' prose, not the serpent narrative of candidate 1.",
+      "chosen_heading": "Mesit Exception",
+      "current_heading": "Mesit Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Mesit & Serpent",
+    "candidates": [
+      "Mesit & Serpent",
+      "Adding Takes Away"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rule that courts do not advance claims on behalf of an inciter (mesit), derived from the primordial serpent, which is precisely what the 'Mesit & Serpent' section's prose addresses.",
+      "chosen_heading": "Mesit & Serpent",
+      "current_heading": "Mesit & Serpent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154,
+      155,
+      156,
+      157
+    ],
+    "current_heading": "Adding Takes Away",
+    "candidates": [
+      "Adding Takes Away",
+      "Jest vs. Denial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly discuss the principle of 'kol ha'mosif goreia' (whoever adds subtracts) \u2014 item 1 addresses the snake's defense, item 2 is \u1e24izkiyya's derivation from Eve adding the prohibition of touching, and items 3-4 are Rav Mesharshiyya's and Rav Ashi's additional derivations \u2014 all of which are explicitly described in the 'Adding Takes Away' prose.",
+      "chosen_heading": "Adding Takes Away",
+      "current_heading": "Adding Takes Away",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      162,
+      163
+    ],
+    "current_heading": "Jest vs. Denial",
+    "candidates": [
+      "Jest vs. Denial",
+      "Papa: Jest & Forgetful"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Abaye's ruling distinguishing 'meshateh ani bach' from 'lo hayu devarim me'olam,' which is precisely what the 'Jest vs. Denial' prose describes.",
+      "chosen_heading": "Jest vs. Denial",
+      "current_heading": "Jest vs. Denial",
+      "moved": false
+    }
+  }
+]

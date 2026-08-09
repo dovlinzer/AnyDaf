@@ -40,11 +40,7 @@ It only became necessary to articulate a halachic basis for *mechitzah* in the m
 
 ### Ezrat Nashim Role
 
-One major basis that was offered for the *mechitzah* requirement — particularly in response to the legal and social pressures of twentieth-century American Jewish life — was the model of the Temple. The argument runs as follows: the synagogue is a *mikdash me'at*, a temple in miniature, and therefore its architecture should mirror the Temple's arrangement of separate sections for men and women.
-
-A closer look at the Temple's structure, however, complicates this argument considerably. The *Ezrat Nashim* — the so-called "women's courtyard" — was in fact enormous. This size does not reflect a proportionally larger female attendance at sacrificial worship. Rather, the *Ezrat Nashim* functioned as a social hall. It was the gathering space where men and women mingled freely until it was time to proceed to the worship area proper. As will be discussed further, it was also the site of the *Simchat Beit Hasho'eiva*, the great celebration on *Sukkot*. The actual *Beit HaMikdash* — the sacred precinct defined halachically as the temple — begins only at the wall separating the *Ezrat Nashim* from the *Ezrat Yisrael*. Everything to the east of that line was, functionally, a lobby.
-
----
+Some of the *poskim* turned to the model of the Temple when they needed to explain the source for the *mechitzah* requirement. The Temple's layout, as the diagram on the source sheet illustrates, consisted of several distinct sections: the large *Ezrat Nashim* (the women's courtyard), recognizable by its cross-like shape formed by chambers at the corners; then, moving inward, the *Ezrat Yisrael* (the Israel section); and finally the *Ezrat Kohanim*, the space reserved for the priests. The innermost structure — the sanctuary itself — more closely parallels the *mishkan* that we are currently reading about in the *Torah*, while the surrounding courtyards were open air.
 
 ## Mount Clemens Case
 

@@ -1,0 +1,407 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Ta'a Bidvar Mitzvah",
+    "candidates": [
+      "Case Setup",
+      "Sunday on Shabbat",
+      "Friday on Shabbat",
+      "Eliezer vs. Yehoshua",
+      "Ta'a Bidvar Mitzvah",
+      "Rav Huna Version"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sunday on Shabbat",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening of the Mishna presenting the first scenario (Sunday infant circumcised on Shabbat), which matches the 'Sunday on Shabbat' prose describing exactly that case and its ruling of chayav.",
+      "second_heading": "Friday on Shabbat",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the distinct second scenario (Friday infant circumcised on Shabbat with the Eliezer/Yehoshua dispute), which matches the 'Friday on Shabbat' prose describing precisely that subtler case.",
+      "current_heading": "Ta'a Bidvar Mitzvah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Rav Huna Version",
+    "candidates": [
+      "Ta'a Bidvar Mitzvah",
+      "Rav Huna Version",
+      "Rabbi Meir Version"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items cover the Rav Huna/Rav Yehuda textual dispute, the baraita of Rabbi Shimon ben Elazar distinguishing the two cases, and the derivation from idolatry with Rabbi Eliezer's position \u2014 all of which are explicitly discussed in candidate 1's prose about Rav Huna's version of the mishna.",
+      "chosen_heading": "Rav Huna Version",
+      "current_heading": "Rav Huna Version",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Rabbi Meir Version",
+    "candidates": [
+      "Rabbi Meir Version",
+      "License to Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items cover exactly the content described in heading 0's prose: Rav Yehuda's 'patur' version, the Rabbi Meir baraita about the Friday/Sunday infant cases, Rabbi Eliezer vs. Rabbi Yehoshua's reasoning from idolatry, and Rabbi \u1e24iyya's version ending with the paradox that heading 0 explicitly anticipates ('This appears paradoxical: how can Rabbi Yehoshua exempt...but hold liable...')",
+      "chosen_heading": "Rabbi Meir Version",
+      "current_heading": "Rabbi Meir Version",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "License to Override",
+    "candidates": [
+      "License to Override",
+      "Rav Ashi Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Rabbi Yannai school's resolution about 'de-lo nitnah Shabbat le-hidachos' and 'nitnah Shabbat le-hidachos,' which is precisely what the 'License to Override' section's prose discusses and explains.",
+      "chosen_heading": "License to Override",
+      "current_heading": "License to Override",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rav Ashi Challenge",
+    "candidates": [
+      "Rav Ashi Challenge",
+      "Specific License",
+      "Normal Eighth Day"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's objection and Rav Kahana's reply together, and the current heading 'Rav Ashi Challenge' covers both the challenge and its immediate answer, while 'Specific License' describes the gemara's rejection in prose that summarizes what is already contained within this single passage.",
+      "chosen_heading": "Rav Ashi Challenge",
+      "current_heading": "Rav Ashi Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Normal Eighth Day",
+    "candidates": [
+      "Specific License",
+      "Normal Eighth Day",
+      "Bein Hashmashos",
+      "Holiday Obstacles",
+      "Sickness Delay",
+      "Healing as Rebirth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna lists the possible days (eighth through twelfth) for circumcision, which is precisely what the 'Normal Eighth Day' section introduces with its prose about the enumeration of eighth, ninth, tenth, eleventh, and twelfth day circumcisions.",
+      "chosen_heading": "Normal Eighth Day",
+      "current_heading": "Normal Eighth Day",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Healing as Rebirth",
+    "candidates": [
+      "Bein Hashmashos",
+      "Holiday Obstacles",
+      "Sickness Delay",
+      "Healing as Rebirth",
+      "Corona Visibility"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Holiday Obstacles",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the mishna's catalog of how twilight birth plus Shabbat/Yom Tov/Rosh HaShana delays push the brit to 8, 9, 10, 11, or 12 days, matching the 'Holiday Obstacles' prose exactly.",
+      "second_heading": "Healing as Rebirth",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 cover the sick child's postponement, Shmuel's seven-day recovery ruling, and the me'et le'et dilemma, matching the 'Healing as Rebirth' prose exactly.",
+      "current_heading": "Healing as Rebirth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Corona Visibility",
+    "candidates": [
+      "Corona Visibility",
+      "Obese Infant Case",
+      "Shmuel's Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Corona Visibility",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 4 (the Mishna about flesh covering the corona and Rav's gemara clarifying the height of the corona) directly match the 'Corona Visibility' prose, while items 2-3 introduce the separate fleshy-infant and peri'ah cases.",
+      "second_heading": "Obese Infant Case",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 (the fleshy infant correction for marit ha-ayin and the rule about peri'ah) correspond to the 'Obese Infant Case' section, which explicitly discusses the ba'al basar ruling and marit ha-ayin.",
+      "current_heading": "Corona Visibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Shmuel's Method",
+    "candidates": [
+      "Obese Infant Case",
+      "Shmuel's Method",
+      "Rabban Gamliel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's statement about examining the fleshy infant and the erection-based test, which is precisely what the 'Shmuel's Method' section's prose describes.",
+      "chosen_heading": "Shmuel's Method",
+      "current_heading": "Shmuel's Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rabban Gamliel",
+    "candidates": [
+      "Rabban Gamliel",
+      "Appearance Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita quotes Rabban Shimon ben Gamliel's rule about a flesh-encumbered child, which is precisely the content described in the 'Rabban Gamliel' section's prose about the same baraita and its formulation regarding when re-circumcision is required.",
+      "chosen_heading": "Rabban Gamliel",
+      "current_heading": "Rabban Gamliel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Appearance Standards",
+    "candidates": [
+      "Appearance Standards",
+      "Missing Periah",
+      "Mohel's Beracha",
+      "Father's Beracha",
+      "Assembly's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the practical difference between Shmuel's and Rabban Gamliel's appearance standards for circumcision, which is exactly what the 'Appearance Standards' prose describes.",
+      "chosen_heading": "Appearance Standards",
+      "current_heading": "Appearance Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Assembly's Response",
+    "candidates": [
+      "Missing Periah",
+      "Mohel's Beracha",
+      "Father's Beracha",
+      "Assembly's Response",
+      "Ashkenazic Revision",
+      "Mevarech's Beracha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with 'mal velo para' (circumcised but did not uncover), which is precisely the mishna about missing periah discussed in candidate 0, and then continues with the brachot \u2014 but since it is a single quoted block, it belongs under the heading where its opening line is topically introduced, which is 'Missing Periah,' not 'Assembly's Response.'",
+      "chosen_heading": "Missing Periah",
+      "current_heading": "Assembly's Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Mevarech's Beracha",
+    "candidates": [
+      "Ashkenazic Revision",
+      "Mevarech's Beracha",
+      "Geirim Brachot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the exact text of the mevarech's blessing (Asher kiddash yedid mi-beten... koreit ha-berit), which is precisely what candidate 1's prose discusses and analyzes in detail.",
+      "chosen_heading": "Mevarech's Beracha",
+      "current_heading": "Mevarech's Beracha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Geirim Brachot",
+    "candidates": [
+      "Geirim Brachot",
+      "Slaves Brachot",
+      "Eliezer Allows",
+      "Sages Stringent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Geirim Brachot",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the blessings recited when circumcising converts (geirim), which directly matches the 'Geirim Brachot' prose discussing the mevarech's blessing for geirim invoking dam berit.",
+      "second_heading": "Slaves Brachot",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the blessings recited when circumcising slaves (avadim), which directly matches the 'Slaves Brachot' prose discussing the identical formulation used for Canaanite slaves and the theological questions it raises.",
+      "current_heading": "Geirim Brachot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Sages Stringent",
+    "candidates": [
+      "Slaves Brachot",
+      "Eliezer Allows",
+      "Sages Stringent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The hadran formula marks the conclusion of the milah perek and transition to the next perek, which the prose under 'Eliezer Allows' explicitly describes as beginning with 'hadran alach Rabbi Eliezer de-milah' before opening the new perek on Yom Tov laws.",
+      "chosen_heading": "Eliezer Allows",
+      "current_heading": "Sages Stringent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Sages Stringent",
+    "candidates": [
+      "Sages Stringent",
+      "The Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text presents both Rabbi Eliezer's and the Rabbis' positions on suspending the strainer, and the current heading's prose directly explains and translates the Rabbis' (chakhamim's) ruling, making it the best match for this passage.",
+      "chosen_heading": "Sages Stringent",
+      "current_heading": "Sages Stringent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "The Problem",
+    "candidates": [
+      "The Problem",
+      "Eliezer=Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous gemara passage raising the difficulty against Rabbi Eliezer \u2014 the question, the mishna source for his position on ohel arai, and Rabbi Yochanan's clarification \u2014 exactly matching the prose of 'The Problem' section.",
+      "chosen_heading": "The Problem",
+      "current_heading": "The Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Eliezer=Yehuda",
+    "candidates": [
+      "Eliezer=Yehuda",
+      "Milah Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 2 and 3 \u2014 the challenge that Rabbi Yehuda only permits machshirei that couldn't be done before Yom Tov, and the resolution that Rabbi Eliezer exceeds Rabbi Yehuda \u2014 are explicitly described in candidate 1's prose, which covers exactly this further pressing and conclusion, while candidate 0's prose only covers the initial identification of Rabbi Eliezer with Rabbi Yehuda (item 1).",
+      "chosen_heading": "Milah Parallel",
+      "current_heading": "Eliezer=Yehuda",
+      "moved": true
+    }
+  }
+]

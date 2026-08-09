@@ -1,0 +1,211 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Asham without Knowledge",
+    "candidates": [
+      "Overview",
+      "Three Asham Cases",
+      "Asham Talui & Safek",
+      "Akiva vs. Tarfon",
+      "Asham without Knowledge",
+      "Five Acts Question",
+      "Ulah's Position",
+      "Hamnuna Challenge",
+      "Korban Designation",
+      "Dimi's Claim",
+      "Abaye Analogy",
+      "Awareness Comparison",
+      "Reish Lakish View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Asham without Knowledge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Ulla's opening ruling about asham vadai not requiring prior knowledge, which is precisely what 'Asham without Knowledge' (index 4) discusses as the framework for Ulla's statement.",
+      "second_heading": "Five Acts Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the five-acts case and Rav Hamnuna's challenge, which is exactly what 'Five Acts Question' (index 5) introduces \u2014 Ulla applying the no-yedia principle to the shifcha charufa scenario.",
+      "current_heading": "Asham without Knowledge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Reish Lakish View",
+    "candidates": [
+      "Five Acts Question",
+      "Ulah's Position",
+      "Hamnuna Challenge",
+      "Korban Designation",
+      "Dimi's Claim",
+      "Abaye Analogy",
+      "Awareness Comparison",
+      "Reish Lakish View",
+      "All Agree Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Rav Dimi's arrival and claim that yedia divides asham vadai acts, followed by Abaye's challenge comparing it to chatas and the Rabbi Yochanan/Reish Lakish dispute, and Rav Dimi's silence then confirmation that he meant the hafrasha case \u2014 precisely what the 'Dimi's Claim' prose describes.",
+      "chosen_heading": "Dimi's Claim",
+      "current_heading": "Reish Lakish View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "All Agree Case",
+    "candidates": [
+      "Reish Lakish View",
+      "All Agree Case",
+      "Hafrasha Agreement",
+      "Knowledge Dispute",
+      "Mitasek Definition",
+      "Lift vs. Cut",
+      "Cut Mistake",
+      "Rava Position",
+      "Abaye Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Ravin's three-part summary including the 'everyone agrees' cases and the dispute, which matches exactly the prose of candidate 1 ('All Agree Case') that explicitly discusses Ravin's arrival and his hakol modim formulation regarding shifcha charufa.",
+      "chosen_heading": "All Agree Case",
+      "current_heading": "All Agree Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Abaye Position",
+    "candidates": [
+      "Hafrasha Agreement",
+      "Knowledge Dispute",
+      "Mitasek Definition",
+      "Lift vs. Cut",
+      "Cut Mistake",
+      "Rava Position",
+      "Abaye Position",
+      "Multiple Melachot",
+      "Categories vs. Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces the Abaye-Rava dispute about intending to cut a detached item but cutting an attached one, which is precisely the 'Lift vs. Cut' section's topic of the first case (mit'asek) and the transition to the second case \u2014 the prose of heading 3 ('Lift vs. Cut') describes exactly this scenario and sets up the machloket that follows, while the current placement under 'Abaye Position' is too late in the sequence since this passage presents both positions together as an itmar statement.",
+      "chosen_heading": "Lift vs. Cut",
+      "current_heading": "Abaye Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Categories vs. Acts",
+    "candidates": [
+      "Multiple Melachot",
+      "Categories vs. Acts",
+      "Avodah Zarah",
+      "Fat Mistake Case",
+      "Avodah Zarah Intent",
+      "Synagogue Bow",
+      "Statue Bow",
+      "Ahava Yirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit analyzing the baraita's comparison between Shabbat and other mitzvot \u2014 item 1 introduces Rava's proof from the baraita, items 2-3 are the Gemara's internal analysis of what categories are being compared, culminating in the avodah zarah clarification via Rabbi Ami \u2014 which is precisely what heading 1 ('Categories vs. Acts') describes in its prose.",
+      "chosen_heading": "Categories vs. Acts",
+      "current_heading": "Categories vs. Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Ahava Yirah",
+    "candidates": [
+      "Avodah Zarah",
+      "Fat Mistake Case",
+      "Avodah Zarah Intent",
+      "Synagogue Bow",
+      "Statue Bow",
+      "Ahava Yirah",
+      "Omer Mutar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together cover the ahavah u-yirah case and its resolution via 'omer mutar', which is precisely what heading 5 ('Ahava Yirah') discusses \u2014 the Abaye/Rava dispute over the love-and-fear case and Rava's pivot to the 'omer mutar' explanation, matching the current placement exactly.",
+      "chosen_heading": "Ahava Yirah",
+      "current_heading": "Ahava Yirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Omer Mutar",
+    "candidates": [
+      "Omer Mutar",
+      "Analogy Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rava's dilemma before Rav Na\u1e25man about one versus two sin-offerings and the fact that complete exemption was never considered \u2014 precisely the 'aval niftar legamrei lo' point that the 'Omer Mutar' prose explicitly discusses and contextualizes.",
+      "chosen_heading": "Omer Mutar",
+      "current_heading": "Omer Mutar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Analogy Shabbat",
+    "candidates": [
+      "Analogy Shabbat",
+      "Spit vs. Fat",
+      "Benefit Principle",
+      "No Mitasek",
+      "Rava Abaye",
+      "Technical Issue",
+      "Tosafot Limit",
+      "Love of God"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's reidentification of 'shogeg be-lo mitkaven' for other mitzvot as swallowing what one thought was spittle (roku u-vala'o), and contrasts it with the Shabbat case of intending to lift tallush and cutting mechubar \u2014 exactly what the 'Spit vs. Fat' section's prose describes.",
+      "chosen_heading": "Spit vs. Fat",
+      "current_heading": "Analogy Shabbat",
+      "moved": true
+    }
+  }
+]

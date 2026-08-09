@@ -1,0 +1,315 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Cymbals & Mortar",
+    "candidates": [
+      "Cymbals & Mortar",
+      "Vessel Value Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the two vessels from the First Temple, their damage, and the biblical verses David cited about them \u2014 matching precisely the prose of heading 0 ('Cymbals & Mortar') which discusses these exact points.",
+      "chosen_heading": "Cymbals & Mortar",
+      "current_heading": "Cymbals & Mortar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Vessel Value Dispute",
+    "candidates": [
+      "Vessel Value Dispute",
+      "Water Tunnel Lesson"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the dispute over the value/meaning of 'shenayim' regarding the copper Temple vessels, which is exactly what the 'Vessel Value Dispute' prose describes, including the Rav Yosef baraita and Rabbi Natan's al tikrei interpretation.",
+      "chosen_heading": "Vessel Value Dispute",
+      "current_heading": "Vessel Value Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Water Tunnel Lesson",
+    "candidates": [
+      "Water Tunnel Lesson",
+      "Bells Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about the Siloam pool water tunnel and the lesson about not glorying in wisdom/might is exactly what the 'Water Tunnel Lesson' prose describes in detail.",
+      "chosen_heading": "Water Tunnel Lesson",
+      "current_heading": "Water Tunnel Lesson",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Bells Excluded",
+    "candidates": [
+      "Bells Excluded",
+      "Magrefa Instrument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the hirdolim/hydraulic organ excluded from the Temple because its sound disrupts the melody, which is exactly what the 'Bells Excluded' prose section discusses.",
+      "chosen_heading": "Bells Excluded",
+      "current_heading": "Bells Excluded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Magrefa Instrument",
+    "candidates": [
+      "Magrefa Instrument",
+      "Three Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the magreifa instrument \u2014 its holes, tones, and the baraita's exaggerated figures with Rav Na\u1e25man bar Yitz\u1e25ak's mnemonic \u2014 which is precisely what the 'Magrefa Instrument' prose section discusses in detail.",
+      "chosen_heading": "Magrefa Instrument",
+      "current_heading": "Magrefa Instrument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Three Positions",
+    "candidates": [
+      "Three Positions",
+      "Circular Logic",
+      "Song Validity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a single continuous Talmudic discussion about who the Temple musicians were and the underlying dispute about primary song being vocal or instrumental, resolved by the duchan inference question \u2014 exactly what heading 0 ('Three Positions') describes in its prose, while heading 1 ('Circular Logic') covers the resolution that begins in item 3, but since all items belong together as one unit, the current placement under heading 0 is correct.",
+      "chosen_heading": "Three Positions",
+      "current_heading": "Three Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Song Validity",
+    "candidates": [
+      "Circular Logic",
+      "Song Validity",
+      "Torah Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about Rabbi Meir vs. the Rabbis on whether song is indispensable to the korban, then derives Rabbi Meir's reasoning from Numbers 8:19, and shows the Rabbis use that verse instead for Rabbi Elazar's timing rule \u2014 exactly the content described in the 'Song Validity' prose.",
+      "chosen_heading": "Song Validity",
+      "current_heading": "Song Validity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Torah Proofs",
+    "candidates": [
+      "Torah Proofs",
+      "Joy & Service"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Yehuda/Shmuel's derivation from 'lesharet beshem,' the objection about Priestly Benediction, and Rav Mattana's derivation from 'besimcha uvtuv levav' \u2014 are explicitly discussed in the 'Torah Proofs' prose, which is exactly where the passage currently sits.",
+      "chosen_heading": "Torah Proofs",
+      "current_heading": "Torah Proofs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Joy & Service",
+    "candidates": [
+      "Joy & Service",
+      "Song Over Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between 'tov' (bikkurim) and 'tuv levav' (shira), which is precisely what the 'Joy & Service' section's prose addresses.",
+      "chosen_heading": "Joy & Service",
+      "current_heading": "Joy & Service",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Song Over Wine",
+    "candidates": [
+      "Song Over Wine",
+      "Chizkiyahu Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous chain: Rav Mattana's derivation that Bikkurim require song, the challenge from Rabbi Yonatan that song requires wine (no wine with Bikkurim), and the resolution that Bikkurim can be brought as wine \u2014 exactly the content described in the 'Song Over Wine' prose section.",
+      "chosen_heading": "Song Over Wine",
+      "current_heading": "Song Over Wine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Chizkiyahu Story",
+    "candidates": [
+      "Chizkiyahu Story",
+      "Offering Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents \u1e24izkiyya's derivation of the Levitical singing obligation from the Chenaniah verse, which is explicitly discussed and analyzed in the 'Chizkiyahu Story' section's prose.",
+      "chosen_heading": "Chizkiyahu Story",
+      "current_heading": "Chizkiyahu Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Offering Identity",
+    "candidates": [
+      "Offering Identity",
+      "Death for Wrong Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Candidate 0's prose explicitly discusses the baraita (item 7) about death vs. prohibition for wrong Levitical roles and Abaye's ruling (item 8) about 'zar de'osa avoda,' while items 1-6 provide the derivational context leading into that discussion, making candidate 0 the best single home for all 8 items.",
+      "chosen_heading": "Offering Identity",
+      "current_heading": "Offering Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Death for Wrong Role",
+    "candidates": [
+      "Death for Wrong Role",
+      "Crossing Roles Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1 ('Crossing Roles Story') explicitly discusses the baraita about a singer who performs gating duty (meshorer she-shiyeir) and Abaye's ruling, followed by the tannaitic dispute illustrated by the Rabbi Yehoshua bar Chananya/Rabbi Yochanan ben Gudgeda episode \u2014 precisely the content of both items, whereas candidate 0 only discusses the episode itself without the preceding objection from the baraita.",
+      "chosen_heading": "Crossing Roles Story",
+      "current_heading": "Death for Wrong Role",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Crossing Roles Story",
+    "candidates": [
+      "Death for Wrong Role",
+      "Crossing Roles Story",
+      "Assisting Debate",
+      "Free-Will Offerings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain discussing Rabbi Avin's dilemma about whether a communal voluntary burnt offering requires shira, including the proof from Chizkiyahu and the challenge to Rav Yosef's interpretation, which is exactly what candidate 2 ('Assisting Debate') describes in its prose.",
+      "chosen_heading": "Assisting Debate",
+      "current_heading": "Crossing Roles Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Free-Will Offerings",
+    "candidates": [
+      "Assisting Debate",
+      "Free-Will Offerings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items (Rami bar Rav Yeiva's answer about the omer lamb, Rav Avya's objection, and Rav Ashi's resolution) are precisely the continuation of the Chizkiyahu discussion described in candidate 1's prose, which explicitly references all three of these moves in sequence.",
+      "chosen_heading": "Free-Will Offerings",
+      "current_heading": "Free-Will Offerings",
+      "moved": false
+    }
+  }
+]

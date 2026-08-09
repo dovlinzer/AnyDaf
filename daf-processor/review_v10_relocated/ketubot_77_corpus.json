@@ -1,0 +1,302 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Epilepsy Case",
+    "candidates": [
+      "Stipulation & Timing",
+      "Proof Models",
+      "Hidden Blemishes",
+      "Epilepsy Case",
+      "Case Structure",
+      "Man Blemishes Post",
+      "Gamliel's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Na\u1e25man's ruling that epilepsy is classified like a hidden blemish (mumin shebeseter) when seizures occur at fixed intervals, and like a visible blemish when they do not \u2014 exactly what the 'Epilepsy Case' prose describes.",
+      "chosen_heading": "Epilepsy Case",
+      "current_heading": "Epilepsy Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Gamliel's Rule",
+    "candidates": [
+      "Case Structure",
+      "Man Blemishes Post",
+      "Gamliel's Rule",
+      "Girsa Debate",
+      "Shimon ben Gamliel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Man Blemishes Post",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the case of a man who developed blemishes and the Rabban Shimon ben Gamliel distinction, which is precisely what candidate 1 ('Man Blemishes Post') discusses as the opening of this new scenario.",
+      "second_heading": "Girsa Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara recording the Rav Yehuda/\u1e24iyya bar Rav dispute over the correct text (noldu vs. hayu), which is exactly what candidate 3 ('Girsa Debate') describes in its prose.",
+      "current_heading": "Gamliel's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Shimon ben Gamliel",
+    "candidates": [
+      "Girsa Debate",
+      "Shimon ben Gamliel",
+      "Halacha Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabban Shimon ben Gamliel's distinction between major and minor blemishes, the Gemara's question about how this fits the hayu reading, the answer about savrah lekabel, and the examples of major blemishes \u2014 all of which are the precise content described in the 'Shimon ben Gamliel' prose section.",
+      "chosen_heading": "Shimon ben Gamliel",
+      "current_heading": "Shimon ben Gamliel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Halacha Ruling",
+    "candidates": [
+      "Halacha Ruling",
+      "Disgusting Professions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the halakhic ruling dispute between Rabbi Yochanan/Rabban Shimon ben Gamliel and Rav Nachman/the Rabbis, followed by the resolution about amora'im disagreeing about Rabbi Yochanan's view \u2014 exactly what the 'Halacha Ruling' prose describes.",
+      "chosen_heading": "Halacha Ruling",
+      "current_heading": "Halacha Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Disgusting Professions",
+    "candidates": [
+      "Disgusting Professions",
+      "Rabbi Meir Rule",
+      "Tosafot Safeguard",
+      "Polipus Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself listing the defects/professions that compel divorce, which is precisely what the 'Disgusting Professions' section prose introduces and discusses, including the before/after marriage specification and Rabbi Meir's statement that is covered as a concluding note within that same section's prose.",
+      "chosen_heading": "Disgusting Professions",
+      "current_heading": "Disgusting Professions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Polipus Definition",
+    "candidates": [
+      "Rabbi Meir Rule",
+      "Tosafot Safeguard",
+      "Polipus Definition",
+      "Profession Details"
+    ],
+    "result": {
+      "best_index": 2,
+      "action": "single",
+      "chosen_heading": "Polipus Definition",
+      "current_heading": "Polipus Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Profession Details",
+    "candidates": [
+      "Profession Details",
+      "Food Refusal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the definitions of the professions listed in the mishna (gatherer, coppersmith, tanner), which is exactly what the 'Profession Details' prose section covers in detail.",
+      "chosen_heading": "Profession Details",
+      "current_heading": "Profession Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Food Refusal",
+    "candidates": [
+      "Food Refusal",
+      "Rav Assi Limit",
+      "Childlessness Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav's ruling about a husband who refuses to sustain his wife, Shmuel's objection, and Rav's 'snake in a basket' justification \u2014 exactly the content described in the 'Food Refusal' prose.",
+      "chosen_heading": "Food Refusal",
+      "current_heading": "Food Refusal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Childlessness Rule",
+    "candidates": [
+      "Rav Assi Limit",
+      "Childlessness Rule",
+      "Words vs Force",
+      "Rava Challenge",
+      "Happy Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion about whether the court forces divorce in the childlessness case \u2014 Rav Asi's limiting principle, Rav Ta\u1e25alifa's opposing view, Rav Na\u1e25man's words-vs-rods distinction, and the final structural distinction about consensual vs. non-consensual marriages \u2014 all directly address the 'Childlessness Rule' topic as described in that section's prose.",
+      "chosen_heading": "Childlessness Rule",
+      "current_heading": "Childlessness Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Happy Marriage",
+    "candidates": [
+      "Words vs Force",
+      "Rava Challenge",
+      "Happy Marriage",
+      "Rama Ruling",
+      "Rambam Pre-marital",
+      "Rambam Post-marital",
+      "Gender Asymmetry",
+      "Raatan Definition",
+      "Raatan Treatment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between the mukei shechin (man with boils) case and the childlessness case regarding whether the wife's consent to live with witnesses allows the marriage to continue \u2014 exactly the content described in the 'Happy Marriage' section's prose about shafkinan lah vs. lo shafkinan lah.",
+      "chosen_heading": "Happy Marriage",
+      "current_heading": "Happy Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Raatan Treatment",
+    "candidates": [
+      "Rama Ruling",
+      "Rambam Pre-marital",
+      "Rambam Post-marital",
+      "Gender Asymmetry",
+      "Raatan Definition",
+      "Raatan Treatment",
+      "Contagion Care",
+      "R. Yehoshua Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items cover exactly the etiology, symptoms, and elaborate surgical cure of ra'atan that the 'Raatan Treatment' prose section describes in detail, including the bloodletting/intercourse cause, Rav Papa's qualification, the signs of the disease, Abaye's remedy, and the worm-removal procedure.",
+      "chosen_heading": "Raatan Treatment",
+      "current_heading": "Raatan Treatment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "current_heading": "R. Yehoshua Story",
+    "candidates": [
+      "Contagion Care",
+      "R. Yehoshua Story",
+      "R. Chanina Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Contagion Care",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the various rabbis' cautionary behaviors regarding ra'atan contagion, which matches exactly the 'Contagion Care' section's prose about Rabbi Yochanan's warning and the precautionary behaviors of Rabbi Zeira, Rabbi Elazar, Rabbi Ami, Rabbi Assi, and Rabbi Yehoshua ben Levi.",
+      "second_heading": "R. Yehoshua Story",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 describe Rabbi Yehoshua ben Levi's death, his encounter with the Angel of Death, his entry into paradise, the oath episode, and the rainbow exchange with Rabbi Shimon bar Yochai \u2014 all of which are explicitly narrated in the 'R. Yehoshua Story' prose.",
+      "current_heading": "R. Yehoshua Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134,
+      135
+    ],
+    "current_heading": "R. Chanina Story",
+    "candidates": [
+      "R. Chanina Story",
+      "Babylon Prevention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items tell the continuous story of Rabbi \u1e24anina bar Pappa's death, the knife request, the pillar of fire, and the subsequent discussion about its significance \u2014 exactly what the 'R. Chanina Story' prose describes in detail.",
+      "chosen_heading": "R. Chanina Story",
+      "current_heading": "R. Chanina Story",
+      "moved": false
+    }
+  }
+]

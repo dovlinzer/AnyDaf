@@ -1,0 +1,357 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Port Exception",
+    "candidates": [
+      "Makom - Siman or Not",
+      "Barrels - Braita Evidence",
+      "Port Exception",
+      "Port Not Siman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rav Beivai's dilemma to Rav Nachman about whether makom is a siman, Rav Nachman's reply citing the baraita about barrels, and Rav Zevid's port exception \u2014 all three elements together form the unit that heading 0 ('Makom - Siman or Not') describes in its prose, which explicitly references Rav Bibi's question, Rav Nachman's tani tu response, and the braisa about barrels.",
+      "chosen_heading": "Makom - Siman or Not",
+      "current_heading": "Port Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Port Not Siman",
+    "candidates": [
+      "Port Exception",
+      "Port Not Siman",
+      "Pitch Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Mari's explanation of why the riverbank/port is not a siman and the generalized formulation that location is never a siman, which is precisely what the 'Port Not Siman' prose describes.",
+      "chosen_heading": "Port Not Siman",
+      "current_heading": "Port Not Siman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Pitch Case",
+    "candidates": [
+      "Pitch Case",
+      "Yeush - Weeds Indicate",
+      "Anporya Definition",
+      "Taviyas Ayin",
+      "Talmid Chacham Trust",
+      "Aveidot Expansion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the pitch case itself \u2014 the man finding pitch, Rav's ruling, the hesitation, and the division with \u1e24iyya \u2014 which is exactly what the 'Pitch Case' prose section discusses, with the yeush/weeds clarification by Rabbi Abba being the bridge to the next section.",
+      "chosen_heading": "Pitch Case",
+      "current_heading": "Pitch Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Aveidot Expansion",
+    "candidates": [
+      "Yeush - Weeds Indicate",
+      "Anporya Definition",
+      "Taviyas Ayin",
+      "Talmid Chacham Trust",
+      "Aveidot Expansion",
+      "Three Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines 'anpurya' as new vessels the eye hasn't sufficiently seen, and raises the question about what difference this makes with or without a siman \u2014 exactly what the 'Anporya Definition' prose describes.",
+      "chosen_heading": "Anporya Definition",
+      "current_heading": "Aveidot Expansion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Three Exceptions",
+    "candidates": [
+      "Aveidot Expansion",
+      "Three Exceptions",
+      "Stolen Goblet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the three matters in which Sages may deviate from truth and the nafka mina of returning lost objects by tvi'as ayin \u2014 exactly the content described in the 'Three Exceptions' prose.",
+      "chosen_heading": "Three Exceptions",
+      "current_heading": "Three Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Stolen Goblet",
+    "candidates": [
+      "Stolen Goblet",
+      "Trust Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly narrates the stolen goblet incident, which is exactly what the 'Stolen Goblet' section's prose describes and analyzes.",
+      "chosen_heading": "Stolen Goblet",
+      "current_heading": "Stolen Goblet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Trust Paradox",
+    "candidates": [
+      "Trust Paradox",
+      "Streets & Plazas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the obligation to proclaim found objects based on whether the eye has sufficiently seen them and whether they were found singly or in pairs \u2014 this is continuation of Mishnah-level discussion about found objects in public areas, which matches the 'Streets & Plazas' section's topic of when finders may keep objects versus must announce them, not the 'Trust Paradox' section about talmidei chachamim and honesty.",
+      "chosen_heading": "Streets & Plazas",
+      "current_heading": "Trust Paradox",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Streets & Plazas",
+    "candidates": [
+      "Trust Paradox",
+      "Streets & Plazas",
+      "Crowd Yeush - Scope",
+      "Money in Batei"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Streets & Plazas",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita of Rabbi Shimon ben Elazar listing cases of rescuing from animals and finding in thoroughfares/plazas, which is exactly what the 'Streets & Plazas' prose introduces and discusses.",
+      "second_heading": "Crowd Yeush - Scope",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the dilemma about whether Rabbi Shimon ben Elazar's rule applies only with a majority of gentiles or even with a majority of Jews, which is precisely what the 'Crowd Yeush - Scope' prose describes as the opening ibaya.",
+      "current_heading": "Streets & Plazas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Money in Batei",
+    "candidates": [
+      "Crowd Yeush - Scope",
+      "Money in Batei",
+      "Traffic vs. Population"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items concern the attempt to resolve the scope of Rabbi Shimon ben Elazar's ruling via the baraita about coins found in synagogues and study halls (batei knesiyyot/batei midrashot), followed by the Gemara's deflection that those institutions may have been non-Jewish or frequented by gentiles \u2014 exactly what heading 1 'Money in Batei' describes in its prose.",
+      "chosen_heading": "Money in Batei",
+      "current_heading": "Money in Batei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Traffic vs. Population",
+    "candidates": [
+      "Traffic vs. Population",
+      "Hidden Objects",
+      "Wine - Non-Jewish City"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of challenge-and-response about whether the majority-population mishna resolves the dispute regarding Rabbi Shimon ben Elazar's view, culminating in the garbage-dump resolution \u2014 exactly what the 'Traffic vs. Population' prose describes in detail.",
+      "chosen_heading": "Traffic vs. Population",
+      "current_heading": "Traffic vs. Population",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Wine - Non-Jewish City",
+    "candidates": [
+      "Hidden Objects",
+      "Wine - Non-Jewish City",
+      "River Biran"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are part of the continuous discussion about the barrel of wine found in a majority-gentile city \u2014 item 1 resolves the mishna question, items 2-4 present and analyze Rav Asi's ruling about the barrel \u2014 all of which is explicitly addressed in the 'Wine - Non-Jewish City' prose.",
+      "chosen_heading": "Wine - Non-Jewish City",
+      "current_heading": "Wine - Non-Jewish City",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "River Biran",
+    "candidates": [
+      "River Biran",
+      "Wallet - Non-Jewish",
+      "Middle Position",
+      "Jew Appears Later"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about the Biran River case, matching perfectly with candidate 0's prose which discusses exactly this story about four dinars found in the Biran River, Rav Yehuda's ruling, the zuto shel yam question, and the explanation that Jews dam and dredge the river.",
+      "chosen_heading": "River Biran",
+      "current_heading": "River Biran",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Jew Appears Later",
+    "candidates": [
+      "Wallet - Non-Jewish",
+      "Middle Position",
+      "Jew Appears Later",
+      "Owner Protest"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Owner Protest",
+    "candidates": [
+      "Owner Protest",
+      "Vulture Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava and Rav Na\u1e25man's exchange about a found purse, siman, owner protest, and the 'collapsed house/sunken ship' ruling \u2014 all of which are explicitly and precisely discussed in the 'Owner Protest' prose section.",
+      "chosen_heading": "Owner Protest",
+      "current_heading": "Owner Protest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Vulture Meat",
+    "candidates": [
+      "Vulture Meat",
+      "Slaughtered Goat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the kite (deiyo) taking meat and Abaye's ruling, which exactly matches the 'Vulture Meat' section's prose discussion of the same case.",
+      "chosen_heading": "Vulture Meat",
+      "current_heading": "Vulture Meat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Slaughtered Goat",
+    "candidates": [
+      "Slaughtered Goat",
+      "Fishermen's Bundles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi \u1e24anina's slaughtered goat found between Tiberias and Tzippori, the dispute between Rabbi Yehuda and Rabbi \u1e24ananya about found slaughtered animals, Rabbi Yehuda HaNasi's reconciliation, and Rava's bifurcation of rov nochrim/rov tivchei Yisrael \u2014 all of which are precisely what the 'Slaughtered Goat' prose section describes.",
+      "chosen_heading": "Slaughtered Goat",
+      "current_heading": "Slaughtered Goat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Fishermen's Bundles",
+    "candidates": [
+      "Fishermen's Bundles",
+      "Open Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the two cases (Rabbi Ami's fledglings and Rabbi Yitzchak Nappa\u1e25a's skein) that candidate 0's prose explicitly discusses, making the current placement correct.",
+      "chosen_heading": "Fishermen's Bundles",
+      "current_heading": "Fishermen's Bundles",
+      "moved": false
+    }
+  }
+]

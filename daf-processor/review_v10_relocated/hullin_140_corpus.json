@@ -1,0 +1,596 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Ki Yikarei Drasha",
+    "candidates": [
+      "Opening Context",
+      "Ki Yikarei Drasha",
+      "Kan Mikol Makom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita's question about 'ki yikarei' and its answer that one need not search mountains and hills but only act when the nest confronts you, which is precisely what the 'Ki Yikarei Drasha' prose describes.",
+      "chosen_heading": "Ki Yikarei Drasha",
+      "current_heading": "Ki Yikarei Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Kan Mikol Makom",
+    "candidates": [
+      "Kan Mikol Makom",
+      "Property & Control",
+      "Free vs. Captured",
+      "Gemara Rejects Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same baraita discussing the derivations from 'nest,' 'bird,' 'before you,' 'on the way,' 'in any tree,' and 'on the ground,' which is precisely what candidate 0's prose describes, including the return to explain why 'lefanecha' and 'baderech' appear if everything is already included.",
+      "chosen_heading": "Kan Mikol Makom",
+      "current_heading": "Kan Mikol Makom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Gemara Rejects Baraita",
+    "candidates": [
+      "Property & Control",
+      "Free vs. Captured",
+      "Gemara Rejects Baraita",
+      "Ocean Case",
+      "Sky & Vulture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items constitute the Gemara's analysis of why 'baderech' and 'lefanecha' are needed, which is precisely what the 'Gemara Rejects Baraita' prose describes \u2014 the ki yikarei derivation, the role of lefanecha for formerly-owned birds, and the reassignment of baderech to Rav Yehuda's ruling about the sea.",
+      "chosen_heading": "Gemara Rejects Baraita",
+      "current_heading": "Gemara Rejects Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Sky & Vulture",
+    "candidates": [
+      "Ocean Case",
+      "Sky & Vulture",
+      "Nest on Head"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge about finding a nest in the sky and the response distinguishing 'derech nesher' from an unqualified 'derech,' which is precisely what the 'Sky & Vulture' section's prose describes.",
+      "chosen_heading": "Sky & Vulture",
+      "current_heading": "Sky & Vulture",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Nest on Head",
+    "candidates": [
+      "Nest on Head",
+      "Name Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the nest-on-head question AND the Moses hint question, and the current heading's prose explicitly covers both topics (the nest question and the Moses/beshaggam answer), making it the correct placement.",
+      "chosen_heading": "Nest on Head",
+      "current_heading": "Nest on Head",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Name Sources",
+    "candidates": [
+      "Name Sources",
+      "Maharsha Validation",
+      "Non-Hebrew Names",
+      "Rav Kahana Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same series of Torah-allusion questions (Haman, Esther, Mordecai) that the prose under 'Name Sources' explicitly discusses in the same order and detail.",
+      "chosen_heading": "Name Sources",
+      "current_heading": "Name Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Rav Kahana Story",
+    "candidates": [
+      "Maharsha Validation",
+      "Non-Hebrew Names",
+      "Rav Kahana Story",
+      "Rav Ashi Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly concern the yonei hordasiyot/hardasiyot passage \u2014 item 1 gives the dispute about the name's etymology (Herod vs. location), and item 2 is Rav Kahana's firsthand account of these very birds crying 'kiri kiri,' which is exactly what the Rav Kahana Story prose describes.",
+      "chosen_heading": "Rav Kahana Story",
+      "current_heading": "Rav Kahana Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rav Ashi Response",
+    "candidates": [
+      "Rav Ashi Response",
+      "Mezuman Status",
+      "Tzippor = Kosher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Ashi's report of Rabbi \u1e24anina's statement about 'millin' and the Gemara's correction to 'bemilin,' which is precisely what the 'Rav Ashi Response' prose describes.",
+      "chosen_heading": "Rav Ashi Response",
+      "current_heading": "Rav Ashi Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Tzippor = Kosher",
+    "candidates": [
+      "Mezuman Status",
+      "Tzippor = Kosher",
+      "Challenges to Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the exemption for non-kosher birds and Rabbi Yitzchak's derivation from the word tzippor vs. of, which is precisely what the 'Tzippor = Kosher' section's prose describes.",
+      "chosen_heading": "Tzippor = Kosher",
+      "current_heading": "Tzippor = Kosher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Challenges to Rule",
+    "candidates": [
+      "Challenges to Rule",
+      "Defense Sustained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This passage is one of the challenges to the claim that tzippor means only kosher birds, presenting the verse about graven images \u2014 exactly the first challenge described in the 'Challenges to Rule' prose.",
+      "chosen_heading": "Challenges to Rule",
+      "current_heading": "Challenges to Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Defense Sustained",
+    "candidates": [
+      "Defense Sustained",
+      "Kosher Only?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the challenge-and-response pattern described in 'Defense Sustained' prose: a verse is proposed as proof that tzippor includes non-kosher birds and kanaf means grasshoppers, then rejected with the answer that tzippor means kosher birds while kanaf covers non-kosher birds and grasshoppers.",
+      "chosen_heading": "Defense Sustained",
+      "current_heading": "Defense Sustained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Kosher Only?",
+    "candidates": [
+      "Kosher Only?",
+      "Tehora Excludes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All five items are part of the same continuous chain of challenges to Rabbi Yitzchak's position that *tzippor* refers only to kosher birds, and candidate 0's prose about that debate is the better fit for the whole passage, including item 5 which directly matches its description.",
+      "chosen_heading": "Kosher Only?",
+      "current_heading": "Kosher Only?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Tehora Excludes",
+    "candidates": [
+      "Tehora Excludes",
+      "Asei & Lo Ta'asei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks exactly what the Gemara asks \u2014 what prohibition does 'tehora' exclude? \u2014 and eliminates treifah and shechuta de'metzora as candidates derived from elsewhere, which is precisely what the 'Tehora Excludes' section's prose describes.",
+      "chosen_heading": "Tehora Excludes",
+      "current_heading": "Tehora Excludes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Asei & Lo Ta'asei",
+    "candidates": [
+      "Asei & Lo Ta'asei",
+      "Chayot Meaning",
+      "Chayot vs Tehorot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses how the verse applies to the slaughtered bird of a leper (shechuta de'metzora) and the dual violation of both a positive mitzva (asei) and a prohibition (lo ta'asei), which directly matches the prose of heading 0 about the asei and lo ta'asei applying to the shechuta de'metzora.",
+      "chosen_heading": "Asei & Lo Ta'asei",
+      "current_heading": "Asei & Lo Ta'asei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Chayot vs Tehorot",
+    "candidates": [
+      "Chayot Meaning",
+      "Chayot vs Tehorot",
+      "Machshir Mechaper"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous Gemara discussion about 'chayot' vs 'tehorot' and the tereifah tension, which is precisely what the 'Chayot vs Tehorot' prose section describes in detail, including the chayot/tehorot interplay and the hanicha/ela objection that closes with the appeal to the school of Rabbi Yishmael.",
+      "chosen_heading": "Chayot vs Tehorot",
+      "current_heading": "Chayot vs Tehorot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Machshir Mechaper",
+    "candidates": [
+      "Machshir Mechaper",
+      "Avoda Zara Proceeds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Rabbi Yishmael school teaching about machshir/mechaper inside and outside the Temple, which is precisely what the 'Machshir Mechaper' section's prose elaborates on.",
+      "chosen_heading": "Machshir Mechaper",
+      "current_heading": "Machshir Mechaper",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Avoda Zara Proceeds",
+    "candidates": [
+      "Avoda Zara Proceeds",
+      "Shor Haniskal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the Gemara's exploration of what the word 'kosher' excludes in the leper's purification ritual (tereifa, ir hanidachat birds, reuse of shiluach bird, birds exchanged for avoda zara), which is precisely what candidate 0's prose covers in detail.",
+      "chosen_heading": "Avoda Zara Proceeds",
+      "current_heading": "Avoda Zara Proceeds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Shor Haniskal",
+    "candidates": [
+      "Shor Haniskal",
+      "Summary Tzippor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's statement about a bird that killed a person and the analysis of before/after gmar din, which is precisely what the 'Shor Haniskal' section's prose discusses in detail.",
+      "chosen_heading": "Shor Haniskal",
+      "current_heading": "Shor Haniskal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Summary Tzippor",
+    "candidates": [
+      "Summary Tzippor",
+      "Species Mismatch",
+      "Treifa Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the cross-species brooding scenarios (non-kosher bird on kosher eggs, kosher bird on non-kosher eggs) and raises the exact question about why the kosher mother case is exempt \u2014 precisely what the 'Species Mismatch' prose describes.",
+      "chosen_heading": "Species Mismatch",
+      "current_heading": "Summary Tzippor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Treifa Rules",
+    "candidates": [
+      "Species Mismatch",
+      "Treifa Rules",
+      "Tikach Lach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together constitute the Gemara's application of Rav Kahana's 'tikach lach' principle to non-kosher eggs, followed by the source baraita about treifa mother vs. treifa fledglings and the objection/resolution \u2014 exactly the content described in the 'Treifa Rules' prose.",
+      "chosen_heading": "Treifa Rules",
+      "current_heading": "Treifa Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Tikach Lach",
+    "candidates": [
+      "Tikach Lach",
+      "Rav Hoshaia Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether treifah fledglings affect the shiluach obligation, with Abaye clarifying it is the mother who is treifah \u2014 this fits precisely under the 'Tikach Lach' section's discussion of treifah eggs/chicks and the shiluach obligation.",
+      "chosen_heading": "Tikach Lach",
+      "current_heading": "Tikach Lach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Rav Hoshaia Query",
+    "candidates": [
+      "Rav Hoshaia Query",
+      "Two Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Hoshaya's dilemma question itself, which matches perfectly with the 'Rav Hoshaia Query' section's prose describing the exact scenario of reaching into a nest and partially slaughtering a chick.",
+      "chosen_heading": "Rav Hoshaia Query",
+      "current_heading": "Rav Hoshaia Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Two Positions",
+    "candidates": [
+      "Two Positions",
+      "Teiku",
+      "Yirmiya Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both sides of the dilemma (the two positions about tereifot and tikach lach), which matches the 'Two Positions' prose exactly, and includes the teiku conclusion which is brief enough to remain under the same heading.",
+      "chosen_heading": "Two Positions",
+      "current_heading": "Two Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Yirmiya Questions",
+    "candidates": [
+      "Teiku",
+      "Yirmiya Questions",
+      "Stacking Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yirmiya's dilemma about a rag (matlis) and detached feathers (knafayim) interposing between the mother and eggs, which is precisely what the 'Yirmiya Questions' prose describes.",
+      "chosen_heading": "Yirmiya Questions",
+      "current_heading": "Yirmiya Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Stacking Cases",
+    "candidates": [
+      "Stacking Cases",
+      "All Teiku",
+      "Zeira Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the stacking/interposition cases (unfertilized eggs, two rows stacked, male bird between female and eggs) described in the 'Stacking Cases' prose, which is its current placement.",
+      "chosen_heading": "Stacking Cases",
+      "current_heading": "Stacking Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Zeira Query",
+    "candidates": [
+      "All Teiku",
+      "Zeira Query",
+      "Baraita Inference",
+      "Korei Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's dilemma about a pigeon on tasil eggs and vice versa, which exactly matches the 'Zeira Query' section's prose describing this same scenario.",
+      "chosen_heading": "Zeira Query",
+      "current_heading": "Zeira Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Korei Exception",
+    "candidates": [
+      "Baraita Inference",
+      "Korei Exception",
+      "Mishnah Text",
+      "Gara Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the baraita inference (kosher+kosher = obligated) AND the 'dilma b'korei' rejection in a single Talmudic unit, but the primary content \u2014 Abaye bringing the baraita and drawing the inference \u2014 matches heading 0 ('Baraita Inference') which explicitly discusses this exact baraita and its implication, while the korei rejection is just the brief Gemara pushback that belongs with the same sugya unit under heading 0.",
+      "chosen_heading": "Baraita Inference",
+      "current_heading": "Korei Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      157
+    ],
+    "current_heading": "Gara Drasha",
+    "candidates": [
+      "Mishnah Text",
+      "Gara Drasha",
+      "Male & Korei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Abbahu's gezeirah shavah explanation of Rabbi Eliezer's position using the shared root dagra/gara from Jeremiah and Isaiah, which is precisely what the 'Gara Drasha' section's prose describes.",
+      "chosen_heading": "Gara Drasha",
+      "current_heading": "Gara Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160,
+      161
+    ],
+    "current_heading": "Male & Korei",
+    "candidates": [
+      "Male & Korei",
+      "Final Dispute Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Elazar's clarification of the scope of the dispute regarding the male korei versus female korei and ordinary male birds, which is precisely what the 'Male & Korei' prose describes \u2014 the dual specification needed to convey the full scope of the dispute from both directions.",
+      "chosen_heading": "Male & Korei",
+      "current_heading": "Male & Korei",
+      "moved": false
+    }
+  }
+]

@@ -75,7 +75,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Return to the Mishnah: Rava's Explanation of Collective vs. Separate Acts with Eating",
@@ -241,7 +241,7 @@
           "timestamp": "59:13"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 13,
       "matched": true
     }
   ],
@@ -424,5 +424,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "48:00",
+  "amud_b_micro_title": "Baraita Positions",
+  "shiur_start_daf": 46,
+  "shiur_start_amud": "b"
 }

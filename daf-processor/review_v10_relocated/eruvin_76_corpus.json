@@ -1,0 +1,345 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Shmuel's Ruling",
+    "candidates": [
+      "Ten Houses Setup",
+      "Shmuel's Ruling",
+      "Rabbi Yochanan's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Yehuda saying Shmuel's ruling that the innermost house contributes the eiruv and it is enough, which is precisely what 'Shmuel's Ruling' section discusses in its prose.",
+      "chosen_heading": "Shmuel's Ruling",
+      "current_heading": "Shmuel's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Rabbi Yochanan's View",
+    "candidates": [
+      "Rabbi Yochanan's View",
+      "Gatehouse Debate",
+      "Three Houses Setup"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yochanan's View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yochanan's ruling and the gemara's reinterpretation of it, which is precisely what candidate 0's prose describes.",
+      "second_heading": "Gatehouse Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the gemara's framing of the dispute between Shmuel and Rabbi Yochanan over whether a gatehouse of an individual counts as a beis sha'ar, which is exactly what candidate 1's prose discusses.",
+      "current_heading": "Rabbi Yochanan's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Three Houses Setup",
+    "candidates": [
+      "Gatehouse Debate",
+      "Three Houses Setup",
+      "Eruv Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the two-courtyard/three-house scenario transmitted by Rav Na\u1e25man citing Rabbah bar Avuh citing Rav, which is exactly what the 'Three Houses Setup' prose describes as its content.",
+      "chosen_heading": "Three Houses Setup",
+      "current_heading": "Three Houses Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Eruv Placement",
+    "candidates": [
+      "Eruv Placement",
+      "Structural vs Intentional",
+      "Independent Houses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the beis sha'ar reclassification of outer houses and the middle house's exemption from contributing bread \u2014 the precise content discussed in the 'Eruv Placement' prose.",
+      "chosen_heading": "Eruv Placement",
+      "current_heading": "Eruv Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Independent Houses",
+    "candidates": [
+      "Structural vs Intentional",
+      "Independent Houses",
+      "Dual Status Problem",
+      "Consistency Required",
+      "Twilight Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Ra\u1e25ava's riddle about two courtyards and two houses and the rabbis' 'ma nafshach' answer \u2014 are precisely what the 'Independent Houses' prose describes, including the scenario, the traversal logic, and the dual-status problem, while 'Dual Status Problem' and 'Consistency Required' are the essay author's own elaboration of those same items rather than their home heading.",
+      "chosen_heading": "Independent Houses",
+      "current_heading": "Independent Houses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Twilight Analogy",
+    "candidates": [
+      "Dual Status Problem",
+      "Consistency Required",
+      "Twilight Analogy",
+      "Contradiction Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rava's ruling about the two people commissioning an agent to establish eruvin during twilight, which is exactly the content described in the 'Twilight Analogy' section's prose.",
+      "chosen_heading": "Twilight Analogy",
+      "current_heading": "Twilight Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Contradiction Problem",
+    "candidates": [
+      "Contradiction Problem",
+      "Four by Four Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the gemara text being analyzed in candidate 0's prose, which quotes and extensively discusses the exact Aramaic phrases about the bein ha-shmashot comparison and the bayis/beis sha'ar contradiction.",
+      "chosen_heading": "Contradiction Problem",
+      "current_heading": "Contradiction Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Four by Four Rule",
+    "candidates": [
+      "Four by Four Rule",
+      "Ten-Handbreadth Limit",
+      "Height Restriction",
+      "Partial Openings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items concern the four-by-four and within-ten requirements for a window between courtyards, the lavud comparison, and the gemara's question about the obviousness of the negative case \u2014 exactly what the 'Four by Four Rule' prose describes.",
+      "chosen_heading": "Four by Four Rule",
+      "current_heading": "Four by Four Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Partial Openings",
+    "candidates": [
+      "Ten-Handbreadth Limit",
+      "Height Restriction",
+      "Partial Openings",
+      "Rabbi Yochanan's Rule",
+      "Square in Circle",
+      "Correct Math"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items discuss the case of partial openings straddling the ten-handbreadth line, the baraita confirming both scenarios, and the 'zu ve-ein tzarich lomar zu' formulation \u2014 exactly what the 'Partial Openings' prose describes.",
+      "chosen_heading": "Partial Openings",
+      "current_heading": "Partial Openings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Correct Math",
+    "candidates": [
+      "Rabbi Yochanan's Rule",
+      "Square in Circle",
+      "Correct Math",
+      "Caesarean Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items form the continuous geometric challenge to Rabbi Yochanan's twenty-four handbreadth figure \u2014 moving from 'twelve should suffice' through 'sixteen should suffice' to 'seventeen minus a fifth should suffice' \u2014 which is precisely what the 'Correct Math' section's prose describes in detail.",
+      "chosen_heading": "Correct Math",
+      "current_heading": "Correct Math",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Caesarean Sages",
+    "candidates": [
+      "Caesarean Sages",
+      "Tosafot Defense",
+      "Higher Openings OK",
+      "House as Filled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Caesarean scholars' statement about circle-within-square and square-within-circle ratios, which is exactly what the 'Caesarean Sages' section's prose discusses and attributes to them.",
+      "chosen_heading": "Caesarean Sages",
+      "current_heading": "Caesarean Sages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "House as Filled",
+    "candidates": [
+      "Tosafot Defense",
+      "Higher Openings OK",
+      "House as Filled",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Na\u1e25man's statement distinguishing windows between courtyards from windows between houses (including the 'house as filled' rationale), which matches the 'Higher Openings OK' section prose that introduces exactly this Rav Na\u1e25man ruling, while the current placement under 'House as Filled' covers only the explanatory reasoning that is a subset of the full passage.",
+      "chosen_heading": "Higher Openings OK",
+      "current_heading": "House as Filled",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "House as Filled",
+      "Rava's Challenge",
+      "Size vs Height"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's challenge to Rav Na\u1e25man from the baraita listing all five types of windows requiring four-by-four within ten tefachim, which is precisely what the 'Rava's Challenge' section's prose describes.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Size vs Height",
+    "candidates": [
+      "Size vs Height",
+      "Ladder Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the resolution that the baraita's four-by-four requirement applies universally while the ten-handbreadths height rule applies only to courtyards, which is precisely what the 'Size vs Height' section's prose describes.",
+      "chosen_heading": "Size vs Height",
+      "current_heading": "Size vs Height",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Ladder Requirement",
+    "candidates": [
+      "Ladder Requirement",
+      "Wall vs Roof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Abba's dilemma about whether a permanent ladder is required for a ceiling aperture between a house and attic, which is exactly what the 'Ladder Requirement' section's prose describes.",
+      "chosen_heading": "Ladder Requirement",
+      "current_heading": "Ladder Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Wall vs Roof",
+    "candidates": [
+      "Wall vs Roof",
+      "No Ladder Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the open question of whether 'a house is considered filled' applies only to side openings or also to middle/ceiling openings \u2014 this is precisely the distinction being introduced in the 'Wall vs Roof' section, before the resolution is given in 'No Ladder Needed.'",
+      "chosen_heading": "Wall vs Roof",
+      "current_heading": "Wall vs Roof",
+      "moved": false
+    }
+  }
+]

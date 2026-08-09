@@ -1,0 +1,236 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Edim Zomemim Exception",
+    "candidates": [
+      "Overview & Context",
+      "Baraita Setup",
+      "Drasha on 'Hi'",
+      "Edim Zomemim Exception",
+      "Rabbi Eliezer's Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes both the 'her paramour is not executed by burning' and 'conspiring witnesses are not executed by burning' derivations from the word 'hi', and candidate 2's prose ('Drasha on Hi') explicitly covers both the bo'aleha and zomemeha derivations from 'hi', making it the clear home for this combined quotation rather than the 'Edim Zomemim Exception' section which covers only the second half.",
+      "chosen_heading": "Drasha on 'Hi'",
+      "current_heading": "Edim Zomemim Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Rabbi Eliezer's Statement",
+    "candidates": [
+      "Edim Zomemim Exception",
+      "Rabbi Eliezer's Statement",
+      "Shabbat Violation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Eliezer's statement about sreifah with her father and skilah with her father-in-law, which exactly matches the prose of candidate 1 describing this enigmatic formulation.",
+      "chosen_heading": "Rabbi Eliezer's Statement",
+      "current_heading": "Rabbi Eliezer's Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Shabbat Violation",
+    "candidates": [
+      "Shabbat Violation",
+      "Unmarried Status",
+      "Znus Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the hava amina and dismissal of applying sreifah to a bat kohen who desecrates Shabbat, which is precisely what the 'Shabbat Violation' section's prose describes in detail.",
+      "chosen_heading": "Shabbat Violation",
+      "current_heading": "Shabbat Violation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Znus Definition",
+    "candidates": [
+      "Unmarried Status",
+      "Znus Definition",
+      "Non-Kohen Husbands",
+      "Forbidden Marriages"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Znus Definition",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the hava amina about an unmarried woman (pnuyah) and Rabbi Elazar's definition of zona, which directly matches the 'Znus Definition' prose about yachol afilu pnuyah and Rabbi Eliezer's broader definition of znus.",
+      "second_heading": "Non-Kohen Husbands",
+      "second_confidence": "high",
+      "second_reason": "Items 3-10 cover the derivation that aviha does not mean incest with her father, the hena-hena/zima-zima verbal analogies, and the extension to non-kohen husbands, which matches the 'Non-Kohen Husbands' prose discussing ein li ela sheniset l'kohen and the bat kohen married to various non-kohanim.",
+      "current_heading": "Znus Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Forbidden Marriages",
+    "candidates": [
+      "Non-Kohen Husbands",
+      "Forbidden Marriages",
+      "Rabbi Meir Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly support the hava amina discussed in 'Forbidden Marriages': item 1 establishes that marriage to a Levi or Israelite displaces her from terumah (supporting the premise that her kehunah status is compromised), and item 2 is the gemara's conclusion that despite this hava amina, sreifah still applies \u2014 exactly the argument the 'Forbidden Marriages' prose describes.",
+      "chosen_heading": "Forbidden Marriages",
+      "current_heading": "Forbidden Marriages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Rabbi Meir Position",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Rabbanan Consensus",
+      "Literal Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the baraita presenting the dispute between Rabbi Meir and the Rabbanan about a bat kohen who married a yisrael vs. a disqualifying man, which is precisely what the 'Rabbi Meir Position' prose describes \u2014 including the specific rulings on principal, chomesh, sreifah, and chenek that appear in the passage.",
+      "chosen_heading": "Rabbi Meir Position",
+      "current_heading": "Rabbi Meir Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Literal Reading",
+    "candidates": [
+      "Rabbanan Consensus",
+      "Literal Reading",
+      "Domain Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Eliezer's statement and the immediate Gemara challenge to the literal reading (why specify bat kohen if the rule applies to all daughters?), which is precisely what the 'Literal Reading' prose section describes \u2014 the literal interpretation and its immediate rejection.",
+      "chosen_heading": "Literal Reading",
+      "current_heading": "Literal Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Domain Reading",
+    "candidates": [
+      "Domain Reading",
+      "Rabbi Yishmael Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-5 all belong to the 'Domain Reading' section: item 1 establishes the reshut interpretation, items 2-3 systematically test it against each Tannaitic opinion (rabbanan, Rabbi Shimon, Rabbi Yishmael), and items 4-5 provide Ravin's resolution in the name of Rabbi Yosei b. Rabbi \u1e24anina \u2014 all of which is precisely what the Domain Reading prose describes.",
+      "chosen_heading": "Domain Reading",
+      "current_heading": "Domain Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Rabbi Yishmael Analogy",
+    "candidates": [
+      "Rabbi Yishmael Analogy",
+      "Rabbanan Reading",
+      "Practical Relevance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the debate over how to interpret Rabbi Eliezer's statement \u2014 Rabbi Yirmeya's objection to the 'more/less' reading, his alternative via Rabbi Yishmael, Rava's challenge, Rava's own Rabbi Shimon-based answer, and Rabbi Chanina's objection \u2014 which is precisely what the 'Rabbi Yishmael Analogy' prose describes, culminating in the Rabbi Chanina objection that Rabbi Shimon himself said both cases receive burning.",
+      "chosen_heading": "Rabbi Yishmael Analogy",
+      "current_heading": "Rabbi Yishmael Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Practical Relevance",
+    "candidates": [
+      "Rabbanan Reading",
+      "Practical Relevance"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbanan Reading",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Ravina's resolution proposing the reversed reading (et aviha biskilah, et chamiha bisreifah), which belongs under 'Rabbanan Reading' whose prose explicitly describes this exact move.",
+      "second_heading": "Practical Relevance",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 cover Rav Nachman's halakhic ruling, Rav Yosef's hilchasa limshicha objection, Abaye's rebuttal, and Rav Yosef's clarification \u2014 all of which are explicitly described in the 'Practical Relevance' prose.",
+      "current_heading": "Practical Relevance",
+      "moved": true
+    }
+  }
+]

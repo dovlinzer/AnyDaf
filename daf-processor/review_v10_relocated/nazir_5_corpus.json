@@ -1,0 +1,304 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Angel's Declaration",
+    "candidates": [
+      "Shimshon Status",
+      "Angel's Declaration",
+      "Contact with Dead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge about Samson's naziriteship and the response that it was the angel who spoke \u2014 precisely what the 'Angel's Declaration' section's prose elaborates on in detail.",
+      "chosen_heading": "Angel's Declaration",
+      "current_heading": "Angel's Declaration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Contact with Dead",
+    "candidates": [
+      "Contact with Dead",
+      "Tradition on Contact",
+      "Absalom Example",
+      "Absalom Narrative"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Contact with Dead",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the textual proofs for Samson's corpse-impurity, which candidate 0's prose explicitly covers in detail.",
+      "second_heading": "Tradition on Contact",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the concluding line that all textual proofs fail and the matter is a received tradition, which is precisely what candidate 1's prose describes as closing the discussion.",
+      "current_heading": "Contact with Dead",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Absalom Narrative",
+    "candidates": [
+      "Tradition on Contact",
+      "Absalom Example",
+      "Absalom Narrative",
+      "Walled City Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'where is a permanent nazirite written?' and answers with the Absalom baraita \u2014 this is precisely what candidate 1 ('Absalom Example') describes as its content, where the gemara introduces the concept of Nazir Olam and sources it from Absalom's narrative.",
+      "chosen_heading": "Absalom Example",
+      "current_heading": "Absalom Narrative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Walled City Link",
+    "candidates": [
+      "Absalom Narrative",
+      "Walled City Link",
+      "Qualified Yamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the verbal analogy (gezeirah shavah) between 'yamim' in the Absalom narrative and 'yamim' in the walled city laws, concluding that both mean twelve months \u2014 which is precisely the content described in the 'Walled City Link' section's prose.",
+      "chosen_heading": "Walled City Link",
+      "current_heading": "Walled City Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Qualified Yamim",
+    "candidates": [
+      "Qualified Yamim",
+      "Nehorai: 30 Days"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nehorai: 30 Days",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the dispute between Rabbi Nehorai and Rabbi Yosei about the frequency of haircuts for a Nazir Olam, which matches the 'Nehorai: 30 Days' section's prose discussion of Rabbi Nehorai's position.",
+      "second_heading": "Qualified Yamim",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20139 are the Gemara's analysis of Rabbi Yehuda HaNasi's gezeirah shavah from batei arei chomah, examining qualified vs. unqualified uses of yamim and the yamimah derivation, which exactly matches the 'Qualified Yamim' prose.",
+      "current_heading": "Qualified Yamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Nehorai: 30 Days",
+    "candidates": [
+      "Nehorai: 30 Days",
+      "Yosi: Weekly"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Nehorai's thirty-day opinion and the kohanim-based reasoning, which is precisely what the prose under heading 0 ('Nehorai: 30 Days') discusses in detail.",
+      "chosen_heading": "Nehorai: 30 Days",
+      "current_heading": "Nehorai: 30 Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Yosi: Weekly",
+    "candidates": [
+      "Yosi: Weekly",
+      "Forty Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the Rabbi Yosei weekly haircut discussion \u2014 item 1 presents his opinion and the gemara's question about the difference from his brothers, and item 2 gives the gemara's two answers \u2014 exactly matching the 'Yosi: Weekly' prose which explicitly discusses mai ika beinei and the two answers about yom tov and Friday morning timing.",
+      "chosen_heading": "Yosi: Weekly",
+      "current_heading": "Yosi: Weekly",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Forty Years",
+    "candidates": [
+      "Forty Years",
+      "Mishnah Text",
+      "Gematria Method",
+      "Pada Counts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the forty-year chronological question and Rabbi Nehorai's answer about the request for a king, which is exactly what the 'Forty Years' section prose discusses.",
+      "chosen_heading": "Forty Years",
+      "current_heading": "Forty Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Pada Counts",
+    "candidates": [
+      "Mishnah Text",
+      "Gematria Method",
+      "Pada Counts",
+      "Word Usage Debate",
+      "Pada Defense"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah Text",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah stating the rule of thirty days, matching heading 0 ('Mishnah Text') which discusses exactly that stam nezirut rule.",
+      "second_heading": "Gematria Method",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20135 cover Rav Mattana's gematria derivation, Bar Pada's counting method, and the challenge to Rav Mattana with his response about each occurrence serving a drasha \u2014 all of which the 'Gematria Method' heading's prose explicitly discusses as a unit.",
+      "current_heading": "Pada Counts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Pada Defense",
+    "candidates": [
+      "Word Usage Debate",
+      "Pada Defense",
+      "Matna: 30 True",
+      "Pada: 29 True"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Bar Pada's argument that since at least one occurrence is for counting, all occurrences serve counting purposes, which is precisely what the 'Pada Defense' section describes.",
+      "chosen_heading": "Pada Defense",
+      "current_heading": "Pada Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Pada: 29 True",
+    "candidates": [
+      "Matna: 30 True",
+      "Pada: 29 True",
+      "Matna Resolution",
+      "Principle Overview",
+      "Consecutive Cases",
+      "Full Days Exception",
+      "Day 30 Hinge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All 8 items form one continuous chain of objections and resolutions testing the same two opinions (Rav Mattana vs. Bar Pada) against multiple mishnayot, and the current heading's prose explicitly describes most of this content including the key challenges and responses.",
+      "chosen_heading": "Pada: 29 True",
+      "current_heading": "Pada: 29 True",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Day 30 Hinge",
+    "candidates": [
+      "Matna Resolution",
+      "Principle Overview",
+      "Consecutive Cases",
+      "Full Days Exception",
+      "Day 30 Hinge",
+      "Pada Resolution",
+      "Double-Dip Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Bar Padda's resolution of the back-to-back neziriyot case \u2014 that the seifa supports his view while the reisha is explained by 'be'omer shleimim' \u2014 which is precisely what the 'Pada Resolution' section's prose describes.",
+      "chosen_heading": "Pada Resolution",
+      "current_heading": "Day 30 Hinge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Double-Dip Issue",
+    "candidates": [
+      "Pada Resolution",
+      "Double-Dip Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the 'double-dip' problem for Rav Mattana \u2014 item 1 raises the difficulty from the seifa and item 2 resolves it by explaining that miktzat hayom kekulo can simultaneously serve two neziriyot \u2014 which is precisely what the 'Double-Dip Issue' prose describes.",
+      "chosen_heading": "Double-Dip Issue",
+      "current_heading": "Double-Dip Issue",
+      "moved": false
+    }
+  }
+]

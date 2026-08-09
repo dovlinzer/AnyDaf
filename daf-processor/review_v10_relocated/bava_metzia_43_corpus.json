@@ -1,0 +1,261 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Tzror Hamot Definition",
+    "candidates": [
+      "Mishnah: Tzrurim/Mutarim",
+      "Tzror Hamot Definition",
+      "When Liability Begins",
+      "Huna v. Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's question about why binding alone prevents use, Rav Asi/Rav Yehuda's answer about bound-and-sealed coins, and Rav Mari's discussion of an atypical knot with an unresolved teiku \u2014 all of which are explicitly described in the 'Tzror Hamot Definition' section's prose.",
+      "chosen_heading": "Tzror Hamot Definition",
+      "current_heading": "Tzror Hamot Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Huna v. Nachman",
+    "candidates": [
+      "When Liability Begins",
+      "Huna v. Nachman",
+      "Tosefta: Gizbar Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the Rav Huna vs. Rav Nachman dispute about whether the shulchani is liable in ones, and the subsequent Rava-Nachman exchange about shomer sachar status \u2014 all of which is precisely what the 'Huna v. Nachman' prose describes in detail.",
+      "chosen_heading": "Huna v. Nachman",
+      "current_heading": "Huna v. Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Tosefta: Gizbar Case",
+    "candidates": [
+      "Tosefta: Gizbar Case",
+      "Mishnah: B.S./B.H."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous challenge-and-response unit about the gizbar/shulchani case from Meilah, with Rav Nachman's objection and Rav Huna's reply, exactly matching the prose description in heading 0.",
+      "chosen_heading": "Tosefta: Gizbar Case",
+      "current_heading": "Tosefta: Gizbar Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Mishnah: B.S./B.H.",
+    "candidates": [
+      "Mishnah: B.S./B.H.",
+      "Rava: Wine Barrel Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah about shlichut yad with the Beit Shammai/Beit Hillel/Rabbi Akiva dispute, which is precisely what the prose under heading 0 describes and analyzes.",
+      "chosen_heading": "Mishnah: B.S./B.H.",
+      "current_heading": "Mishnah: B.S./B.H.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Rava: Wine Barrel Case",
+    "candidates": [
+      "Rava: Wine Barrel Case",
+      "Action Requirement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava: Wine Barrel Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present Rabba's wine barrel case and its reasoning (the barrel broke by itself vs. by the robber's action), which is precisely what candidate 0 ('Rava: Wine Barrel Case') discusses in detail.",
+      "second_heading": "Action Requirement",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the Beit Hillel ruling on 'ki-sh'at hotza'ah' and begins questioning its meaning, which is exactly the transition that candidate 1 ('Action Requirement') describes as its opening move connecting Rava's ruling to the Beis Shammai/Beis Hillel dispute.",
+      "current_heading": "Rava: Wine Barrel Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Action Requirement",
+    "candidates": [
+      "Action Requirement",
+      "Chisaron Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with clarifying what 'hotza'ah' means in the Beit Hillel ruling and whether Rabba aligns with Beit Shammai, which is precisely what the 'Action Requirement' prose describes \u2014 the gemara's analysis of hotza'ah min ha-olam vs. hotza'ah me-beis be'alim and the deflection via Rabba's reading of the machloket as applying only to cases of decrease.",
+      "chosen_heading": "Action Requirement",
+      "current_heading": "Action Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Chisaron Requirement",
+    "candidates": [
+      "Chisaron Requirement",
+      "Hotza'ah Definition",
+      "R. Akiva: Tviah",
+      "Shmuel v. R. Yochanan",
+      "Witnesses & Ashma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items are the continuous gemara discussion of the Beit Shammai/Beit Hillel machloket over shlichut yad and its successive reinterpretations (chisaron, sho'el she-lo mi-da'at, shevach gezeila), which is precisely what the 'Chisaron Requirement' prose describes in detail.",
+      "chosen_heading": "Chisaron Requirement",
+      "current_heading": "Chisaron Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Witnesses & Ashma",
+    "candidates": [
+      "Hotza'ah Definition",
+      "R. Akiva: Tviah",
+      "Shmuel v. R. Yochanan",
+      "Witnesses & Ashma",
+      "Rava Psak: B.H."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the Shmuel/Rav Yehuda tradition (Rabbi Akiva concedes where there are witnesses) and the Rabbi Yochanan/Rav Assi challenge to it (Rabbi Akiva disagrees even with witnesses), which is precisely the Shmuel v. R. Yochanan dispute described in candidate 2's prose.",
+      "chosen_heading": "Shmuel v. R. Yochanan",
+      "current_heading": "Witnesses & Ashma",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Rava Psak: B.H.",
+    "candidates": [
+      "Witnesses & Ashma",
+      "Rava Psak: B.H.",
+      "Intent v. Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss Rabbi Yochanan's ruling that the halakha follows Rabbi Akiva 'always' (le-olam), Rav Ashi's explanation of what 'always' excludes (the witnesses case), and the further exclusion of Rabbi Yishmael's position on da'as be'alim \u2014 all of which are explicitly analyzed in the 'Witnesses & Ashma' prose, which directly addresses Rabbi Yochanan's le-olam formulation, the witnesses distinction, and Rabbi Yishmael's position, with Rava's Beit Hillel ruling appearing only as a closing line here rather than the main subject.",
+      "chosen_heading": "Witnesses & Ashma",
+      "current_heading": "Rava Psak: B.H.",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Intent v. Action",
+    "candidates": [
+      "Intent v. Action",
+      "Braita: Pasha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Intent v. Action",
+      "first_confidence": "high",
+      "first_reason": "The Mishna (item 1) covering the Beit Shammai/Beit Hillel dispute on intent vs. action and the barrel cases is precisely what the 'Intent v. Action' prose describes.",
+      "second_heading": "Braita: Pasha",
+      "second_confidence": "high",
+      "second_reason": "The Gemara (item 2) citing the baraita on 'al kol davar pasha' and the back-and-forth between Beit Shammai and Beit Hillel on scriptural sources matches exactly what the 'Braita: Pasha' prose discusses.",
+      "current_heading": "Intent v. Action",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Braita: Pasha",
+    "candidates": [
+      "Braita: Pasha",
+      "Tilting Barrel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Beis Hillel response about extending liability to cases where the shomer instructed his slave or agent, which is explicitly discussed in the 'Braita: Pasha' prose section.",
+      "chosen_heading": "Braita: Pasha",
+      "current_heading": "Braita: Pasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Tilting Barrel",
+    "candidates": [
+      "Tilting Barrel",
+      "Shmuel: Basis Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabba's ruling about the tilted barrel case (nishbera vs. hachmitza) and the 'girei didehu' principle, which is precisely what the 'Tilting Barrel' section's prose elaborates on.",
+      "chosen_heading": "Tilting Barrel",
+      "current_heading": "Tilting Barrel",
+      "moved": false
+    }
+  }
+]

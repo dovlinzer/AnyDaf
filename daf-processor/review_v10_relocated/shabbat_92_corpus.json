@@ -1,0 +1,306 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Hand vs. Vessel Test",
+    "candidates": [
+      "Basket & Fruit Intro",
+      "Rava: Gourds & Seeds",
+      "Abaye: All Seeds Exempt",
+      "Position Reversal",
+      "Tosafot on Reversal",
+      "Hand vs. Vessel Test",
+      "Rashi: Apple vs. Body",
+      "Object Unity Resolved",
+      "Methods of Carrying",
+      "Rashi on Methods",
+      "Unusual Methods Listed",
+      "Exemption Formula",
+      "Shinuy Concept",
+      "Shinuy Parameters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 10 items deal with the dispute between \u1e24izkiya and Rabbi Yo\u1e25anan (and their parallels Rava and Abaye) over whether fusion of objects in a vessel counts as fusion (*egged kli*), arising directly from the basket-of-fruit mishnah \u2014 exactly the content described in the 'Basket & Fruit Intro' prose, which sets up this entire analytical unit.",
+      "chosen_heading": "Basket & Fruit Intro",
+      "current_heading": "Hand vs. Vessel Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Shinuy Parameters",
+    "candidates": [
+      "Rashi: Apple vs. Body",
+      "Object Unity Resolved",
+      "Methods of Carrying",
+      "Rashi on Methods",
+      "Unusual Methods Listed",
+      "Exemption Formula",
+      "Shinuy Concept",
+      "Shinuy Parameters",
+      "Aglei Tal Framework",
+      "Two Shinuy Aspects",
+      "Rabbi Elazar Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text about carrying methods (right hand, left hand, chest, shoulders = liable; backhanded, foot, mouth, etc. = exempt), which directly corresponds to the 'Methods of Carrying' section whose prose introduces exactly this mishnah with the same key phrases (hamotzi bein b'yimino bein b'smolo, B'nei Kehat).",
+      "chosen_heading": "Methods of Carrying",
+      "current_heading": "Shinuy Parameters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rabbi Elazar Rule",
+    "candidates": [
+      "Aglei Tal Framework",
+      "Two Shinuy Aspects",
+      "Rabbi Elazar Rule",
+      "Mishkan Heights",
+      "Moshe 10 Amot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Elazar's ruling that carrying above ten handbreadths is liable because of the sons of Kehat's carrying method, which is precisely what the 'Rabbi Elazar Rule' section prose describes in detail.",
+      "chosen_heading": "Rabbi Elazar Rule",
+      "current_heading": "Rabbi Elazar Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Moshe 10 Amot",
+    "candidates": [
+      "Mishkan Heights",
+      "Moshe 10 Amot",
+      "Aron Proof",
+      "Divine Presence Criteria",
+      "Hutzal Practice",
+      "Gemara Objection",
+      "City Custom"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Moshe 10 Amot",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the proof from the Tabernacle boards and Moses spreading the tent to derive the Levites' height of ten cubits, which matches the 'Moshe 10 Amot' prose exactly.",
+      "second_heading": "Aron Proof",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the alternative proof from the Ark (nine handbreadths plus the kaporet) and then questions why we don't derive from Moses, which matches the 'Aron Proof' section's prose precisely.",
+      "current_heading": "Moshe 10 Amot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "City Custom",
+    "candidates": [
+      "Aron Proof",
+      "Divine Presence Criteria",
+      "Hutzal Practice",
+      "Gemara Objection",
+      "City Custom",
+      "Universal Override",
+      "Tosafot Nuance",
+      "Intent Reversal Cases",
+      "Apron Exception",
+      "Receipt-Keepers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete Gemara discussion about carrying on the head and the people of Hutzal \u2014 Item 1 presents the full back-and-forth including the initial ruling, the objections, and the reformulations, while Item 2 is the concluding line nullifying Hutzal's practice \u2014 and this entire unit matches the 'Hutzal Practice' heading's prose which introduces exactly this Rav/Rabbi Chiyya statement about carrying on the head and the Hutzal practice, covering more of the discussion than the narrower 'Gemara Objection' (candidate 3) or 'City Custom' (candidate 4) headings.",
+      "chosen_heading": "Hutzal Practice",
+      "current_heading": "City Custom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Receipt-Keepers",
+    "candidates": [
+      "Universal Override",
+      "Tosafot Nuance",
+      "Intent Reversal Cases",
+      "Apron Exception",
+      "Receipt-Keepers",
+      "Gemara Confusion",
+      "Rava: Protection Logic",
+      "Rav Elazar Split",
+      "Rav Ashi Resolves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishnah text covers exactly the content described in 'Intent Reversal Cases' \u2014 carrying intended in front but ending behind (exempt) and vice versa (liable), plus the sinar and pittakin extensions \u2014 matching that section's prose precisely.",
+      "chosen_heading": "Intent Reversal Cases",
+      "current_heading": "Receipt-Keepers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Rav Ashi Resolves",
+    "candidates": [
+      "Gemara Confusion",
+      "Rava: Protection Logic",
+      "Rav Elazar Split",
+      "Rav Ashi Resolves",
+      "Money Belt Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous Gemara discussion about the apparent contradiction in the mishna between the two cases of front/behind carrying \u2014 Item 1 raises the difficulty (Rabbi Elazar and Rava), Item 2 reformulates the difficulty as an inferential contradiction (Rabbi Elazar again), and Item 3 resolves it (Rav Ashi) \u2014 all of which corresponds precisely to the 'Gemara Confusion' heading's prose about why one case is exempt and the other liable.",
+      "chosen_heading": "Gemara Confusion",
+      "current_heading": "Rav Ashi Resolves",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Money Belt Debate",
+    "candidates": [
+      "Rav Ashi Resolves",
+      "Money Belt Debate",
+      "Belt Category"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about the money belt debate (fundato piha l'mata) with Rabbi Yehuda and the Sages arguing about liability, which is precisely what the 'Money Belt Debate' section's prose describes and analyzes.",
+      "chosen_heading": "Money Belt Debate",
+      "current_heading": "Money Belt Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Belt Category",
+    "candidates": [
+      "Belt Category",
+      "Normal Range"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda's statement about the unresolved debate, the inferences from each side's rhetorical questions, and the baraita confirming universal exemption for k'l'ahar yad \u2014 all of which are precisely what the 'Belt Category' prose analyzes.",
+      "chosen_heading": "Belt Category",
+      "current_heading": "Belt Category",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Normal Range",
+    "candidates": [
+      "Normal Range",
+      "Two Person Exemption",
+      "Sofa Exception",
+      "Rabbi Shimon View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Normal Range",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the resolution of the money-belt dispute about normal range of carrying, which matches perfectly with candidate 0's prose about the belt with opening facing down and the range of normal.",
+      "second_heading": "Two Person Exemption",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens a new Mishnah unit ('In truth they said: A woman who girded herself...') introducing the sinar/woman case and royal couriers, which is an entirely new self-contained topic unrelated to the money-belt dispute, fitting best under candidate 1 which begins the next section.",
+      "current_heading": "Normal Range",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Rabbi Shimon View",
+    "candidates": [
+      "Two Person Exemption",
+      "Sofa Exception",
+      "Rabbi Shimon View",
+      "Three Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers all three elements (one person liable, two exempt, two required both liable, Rabbi Shimon exempts) but its primary content \u2014 the opening rule that one who carries out is liable and two who carry are exempt \u2014 matches the 'Two Person Exemption' section's prose, which directly quotes and paraphrases this same mishna text.",
+      "chosen_heading": "Two Person Exemption",
+      "current_heading": "Rabbi Shimon View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Three Positions",
+    "candidates": [
+      "Rabbi Shimon View",
+      "Three Positions",
+      "Asymmetric Ability",
+      "Baraita Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present the three-way dispute (Rabbi Meir, Rabbi Yehuda, Rabbi Shimon) across the different ability scenarios, which is precisely what the 'Three Positions' prose describes, including the baraita confirmation that belongs to this same explanatory unit.",
+      "chosen_heading": "Three Positions",
+      "current_heading": "Three Positions",
+      "moved": false
+    }
+  }
+]

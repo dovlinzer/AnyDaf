@@ -1,0 +1,484 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Korban Status Setup",
+    "candidates": [
+      "Korban Status Setup",
+      "Heirs vs Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous sugya about whether priests may divide gezel hager restitution against other gezel hager restitution, resolved by the principle that the Torah labeled it 'asham' \u2014 exactly the korban-status topic described in heading 0's prose.",
+      "chosen_heading": "Korban Status Setup",
+      "current_heading": "Korban Status Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Heirs vs Gift",
+    "candidates": [
+      "Heirs vs Gift",
+      "Chametz Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's dilemma about whether kohanim are heirs or gift-recipients, which is exactly what heading 0 ('Heirs vs Gift') introduces and discusses in its prose.",
+      "chosen_heading": "Heirs vs Gift",
+      "current_heading": "Heirs vs Gift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Chametz Difference",
+    "candidates": [
+      "Chametz Difference",
+      "Rav Zeira Resolves",
+      "Maaser Behema"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chametz Difference",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the chametz nafka mina scenario and the heir vs. gift-recipient distinction, which matches exactly the prose of 'Chametz Difference'.",
+      "second_heading": "Rav Zeira Resolves",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Zeira's objection that the chametz case is not actually a valid nafka mina, which matches exactly the prose of 'Rav Zeira Resolves'.",
+      "current_heading": "Chametz Difference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Maaser Behema",
+    "candidates": [
+      "Rav Zeira Resolves",
+      "Maaser Behema",
+      "Klal Perat Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rav Zeira's true nafka mina \u2014 ten animals received via gezel hager and whether the kohanim must separate ma'aser beheima \u2014 which is precisely what the 'Maaser Behema' prose describes.",
+      "chosen_heading": "Maaser Behema",
+      "current_heading": "Maaser Behema",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Klal Perat Structure",
+    "candidates": [
+      "Klal Perat Structure",
+      "Ten Mikdash Gifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the baraita about twenty-four priestly gifts given with the klal u-perat u-klal framework and brit melach covenant, which is precisely what the 'Klal Perat Structure' prose section describes.",
+      "chosen_heading": "Klal Perat Structure",
+      "current_heading": "Klal Perat Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Ten Mikdash Gifts",
+    "candidates": [
+      "Ten Mikdash Gifts",
+      "Four Jerusalem Gifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the ten Temple gifts (chatas behema, chatas ha-of, asham vaday, asham taluy, etc.), which directly matches the 'Ten Mikdash Gifts' section's prose discussion of exactly these ten items.",
+      "chosen_heading": "Ten Mikdash Gifts",
+      "current_heading": "Ten Mikdash Gifts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Four Jerusalem Gifts",
+    "candidates": [
+      "Four Jerusalem Gifts",
+      "Ten Throughout Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the four Jerusalem gifts (firstborn, firstfruits, portions from thanks-offering/nazirite's ram, and hides of consecrated animals), which is exactly what the 'Four Jerusalem Gifts' section prose discusses in detail.",
+      "chosen_heading": "Four Jerusalem Gifts",
+      "current_heading": "Four Jerusalem Gifts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Ten Throughout Land",
+    "candidates": [
+      "Ten Throughout Land",
+      "Gezel Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita listing the ten bagevulin gifts, which is exactly what the 'Ten Throughout Land' prose section describes and enumerates.",
+      "chosen_heading": "Ten Throughout Land",
+      "current_heading": "Ten Throughout Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Gezel Location",
+    "candidates": [
+      "Gezel Location",
+      "Abbaye Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage concludes that the priests are 'recipients of gifts' (mekablei matanos), which directly supports Abbaye's proof discussed in candidate 1 \u2014 the 'matanah' language is being used to resolve whether the kohanim are gift-recipients or heirs, which is the core issue in the Abbaye Proof section.",
+      "chosen_heading": "Abbaye Proof",
+      "current_heading": "Gezel Location",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Abbaye Proof",
+    "candidates": [
+      "Gezel Location",
+      "Abbaye Proof",
+      "Future Conditions",
+      "Kodashim Parallels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the Abbaye proof discussed in candidate 1's prose \u2014 the mishna ruling that yorshim cannot reclaim money given to the mishmar, and Abbaye's derivation that kesef mechaper mechtza based on adaata de-hachi lo yahav lei logic.",
+      "chosen_heading": "Abbaye Proof",
+      "current_heading": "Abbaye Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Kodashim Parallels",
+    "candidates": [
+      "Future Conditions",
+      "Kodashim Parallels",
+      "Yevama Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the chatas and asham cases whose owners died \u2014 precisely the Kodashim Parallels section prose describes these two cases and their halacha le-Moshe mi-Sinai resolutions.",
+      "chosen_heading": "Kodashim Parallels",
+      "current_heading": "Kodashim Parallels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Yevama Case",
+    "candidates": [
+      "Yevama Case",
+      "Tosafos Unilateral",
+      "Context vs Condition",
+      "Normal Order",
+      "Reversed Order",
+      "Yehudah vs Hachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's challenge and response regarding the yevama/mukeh shechin case, which is precisely what the 'Yevama Case' prose describes in detail, including the anan sahadei answer and Reish Lakish's dictum about preferring marriage to widowhood.",
+      "chosen_heading": "Yevama Case",
+      "current_heading": "Yevama Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Yehudah vs Hachamim",
+    "candidates": [
+      "Tosafos Unilateral",
+      "Context vs Condition",
+      "Normal Order",
+      "Reversed Order",
+      "Yehudah vs Hachamim",
+      "Rava Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the baraita's dispute between Rabbi Yehuda and the Rabbis about the reversed-order case, and the Gemara's opening question 'heichi dami' \u2014 all of which fits precisely under 'Reversed Order,' which introduces the beraita addressing the case where the asham went to Yehoyariv and money to Yedaya, rather than under 'Yehudah vs Hachamim' which discusses Rava's resolution and later analysis.",
+      "chosen_heading": "Reversed Order",
+      "current_heading": "Yehudah vs Hachamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Rava Timing",
+    "candidates": [
+      "Yehudah vs Hachamim",
+      "Rava Timing",
+      "Group One Error"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's clarification of the case scenario and the reasoning behind both Rabbi Yehudah's and the Rabbis' positions, which is precisely what the 'Rava Timing' section's prose describes.",
+      "chosen_heading": "Rava Timing",
+      "current_heading": "Rava Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Group One Error",
+    "candidates": [
+      "Group One Error",
+      "Invalid Korban Leather"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita describes exactly the scenario discussed in candidate 0's prose: group one (Joiarib) jumps ahead and sacrifices the guilt-offering before receiving the money, requiring the robber to bring another asham to be offered by group two (Jedaiah) who holds the money, with group one retaining what they already have.",
+      "chosen_heading": "Group One Error",
+      "current_heading": "Group One Error",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Invalid Korban Leather",
+    "candidates": [
+      "Invalid Korban Leather",
+      "Expired Mishmarot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the invalid guilt-offering and Rava's ruling that the priests receive its hide, which is precisely what the 'Invalid Korban Leather' section's prose addresses.",
+      "chosen_heading": "Invalid Korban Leather",
+      "current_heading": "Invalid Korban Leather",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Expired Mishmarot",
+    "candidates": [
+      "Expired Mishmarot",
+      "Rava Scripture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the baraita scenarios where mishmarot have exited without making demands, and whether waiver (mechila) occurred \u2014 exactly what the 'Expired Mishmarot' prose describes.",
+      "chosen_heading": "Expired Mishmarot",
+      "current_heading": "Expired Mishmarot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Rava Scripture",
+    "candidates": [
+      "Rava Scripture",
+      "Objection Order",
+      "Future Tense",
+      "Learn from Meila",
+      "Chomesh Not Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a single continuous exchange: Rava's scriptural derivation (item 1), the objection about musaf/tamid order (item 2), the baraita supporting that objection (item 3), and Rava's resolution via 'asher yechaper bo' (item 4) \u2014 this entire unit is exactly what heading 0 ('Rava Scripture') describes, as the current placement correctly captures the scriptural basis debate including the challenge and Rava's ultimate response.",
+      "chosen_heading": "Rava Scripture",
+      "current_heading": "Rava Scripture",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Chomesh Not Required",
+    "candidates": [
+      "Objection Order",
+      "Future Tense",
+      "Learn from Meila",
+      "Chomesh Not Required",
+      "Back to Gezeilah",
+      "Thief Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the baraita deriving from 'be-eil ha-asham ve-nislach lo' that both the ram and monetary payment (asham/principal) are required for atonement in me'ila, and the cross-textual learning between me'ila and gezel hager \u2014 which matches exactly the prose of candidate 2 ('Learn from Meila'), while the current placement under candidate 3 ('Chomesh Not Required') only describes items 4-6, not the full passage starting from items 1-3.",
+      "chosen_heading": "Learn from Meila",
+      "current_heading": "Chomesh Not Required",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Thief Children",
+    "candidates": [
+      "Back to Gezeilah",
+      "Thief Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage '\u05d4\u05b2\u05d3\u05b7\u05e8\u05b7\u05df \u05e2\u05b2\u05dc\u05b8\u05da\u05b0 \u05d4\u05b7\u05d2\u05bc\u05d5\u05b9\u05d6\u05b5\u05dc \u05e2\u05b5\u05e6\u05b4\u05d9\u05dd' is the concluding Hadran formula marking the end of the chapter on gezel etzim, signaling a return to the gezeilah topic \u2014 which matches the 'Back to Gezeilah' heading's discussion of transitioning back to classic gezeilah territory.",
+      "chosen_heading": "Back to Gezeilah",
+      "current_heading": "Thief Children",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Thief Children",
+    "candidates": [
+      "Thief Children",
+      "Dual Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah about a robber who feeds stolen food to his children and the exemption/liability distinction, which is precisely what the 'Thief Children' prose section discusses and unpacks.",
+      "chosen_heading": "Thief Children",
+      "current_heading": "Thief Children",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Dual Liability",
+    "candidates": [
+      "Dual Liability",
+      "Not Yet Despaired",
+      "Mishnah Resolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Chisda's principle of dual liability (collecting from either robber), which is precisely what the 'Dual Liability' section's prose describes.",
+      "chosen_heading": "Dual Liability",
+      "current_heading": "Dual Liability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Mishnah Resolved",
+    "candidates": [
+      "Not Yet Despaired",
+      "Mishnah Resolved",
+      "Weakened Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge from the mishna about the gazlan's children being exempt and Rav Chisda's resolution that the mishna speaks after ye'ush \u2014 which is precisely what the 'Mishnah Resolved' section's prose describes.",
+      "chosen_heading": "Mishnah Resolved",
+      "current_heading": "Mishnah Resolved",
+      "moved": false
+    }
+  }
+]

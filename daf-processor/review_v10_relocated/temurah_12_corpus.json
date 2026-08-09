@@ -1,0 +1,384 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Working Impact",
+    "candidates": [
+      "Abaye's Question",
+      "Fetus Analogy",
+      "Rabbinic vs Biblical",
+      "Working Impact",
+      "Fetus Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly contains the exchange about why the Rabbis decreed against labor but not shearing (because labor weakens the animal), which is precisely what the 'Working Impact' section's prose describes.",
+      "chosen_heading": "Working Impact",
+      "current_heading": "Working Impact",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Fetus Status",
+    "candidates": [
+      "Fetus Status",
+      "Act vs Result",
+      "Pasuk-Based Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's dilemma itself \u2014 presenting the case and question \u2014 which exactly matches the 'Fetus Status' prose description of Abaye posing the question about chullin ba-azarah when the mother is a shelamim and the fetus is non-sacred.",
+      "chosen_heading": "Fetus Status",
+      "current_heading": "Fetus Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Pasuk-Based Answer",
+    "candidates": [
+      "Act vs Result",
+      "Pasuk-Based Answer",
+      "Reversed Fetus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's citation of the pasuk to explain why slaughtering the pregnant peace offering in the Temple does not violate the prohibition, which directly matches the 'Pasuk-Based Answer' section's prose about Rav Yosef responding by citing the verse and its implication.",
+      "chosen_heading": "Pasuk-Based Answer",
+      "current_heading": "Pasuk-Based Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Reversed Fetus",
+    "candidates": [
+      "Reversed Fetus",
+      "Fit for Mishkan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's dilemma about a chullin mother with a kodashim fetus slaughtered outside, which is precisely what the 'Reversed Fetus' section's prose describes.",
+      "chosen_heading": "Reversed Fetus",
+      "current_heading": "Reversed Fetus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Fit for Mishkan",
+    "candidates": [
+      "Fit for Mishkan",
+      "Overview",
+      "Meduma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rav Yosef's answer citing the verse about fitness for the entrance of the Tent of Meeting, which is precisely what the 'Fit for Mishkan' prose describes, including both the primary formulation and the alternate version.",
+      "chosen_heading": "Fit for Mishkan",
+      "current_heading": "Fit for Mishkan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Meduma",
+    "candidates": [
+      "Overview",
+      "Meduma",
+      "Mechometz",
+      "Drawn Water",
+      "Mei Chatat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Meduma",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna introducing the meduma case, which matches the 'Meduma' section prose exactly.",
+      "second_heading": "Mechometz",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the mechometz and drawn water cases, which correspond directly to the 'Mechometz' section prose (and the drawn water case follows naturally in that same Mishna).",
+      "current_heading": "Meduma",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Mei Chatat",
+    "candidates": [
+      "Mechometz",
+      "Drawn Water",
+      "Mei Chatat",
+      "Beit Ha-peras",
+      "Double Terumah",
+      "Temurah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers mei chatat, beit haperas, and double terumah together as a single mishnaic unit, and the current placement under 'Mei Chatat' is the first of these three topics, matching where this combined text begins in the essay's structure.",
+      "chosen_heading": "Mei Chatat",
+      "current_heading": "Mei Chatat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Temurah Rule",
+    "candidates": [
+      "Beit Ha-peras",
+      "Double Terumah",
+      "Temurah Rule",
+      "Sages Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses temurah not making temurah and the debate between Rabbi Yehuda and the Sages about whether vlad kodashim can make temurah, which is precisely what the 'Temurah Rule' section's prose describes.",
+      "chosen_heading": "Temurah Rule",
+      "current_heading": "Temurah Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Sages Position",
+    "candidates": [
+      "Sages Position",
+      "Rabbi Eliezer Strict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the Gemara's question about who the tanna is and Rabbi Yochanan's answer that the ruling is not like Rabbi Eliezer, which directly matches the 'Sages Position' prose describing exactly this attribution \u2014 de-lo k'Rabbi Eliezer \u2014 as the current placement correctly reflects.",
+      "chosen_heading": "Sages Position",
+      "current_heading": "Sages Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Rabbi Eliezer Strict",
+    "candidates": [
+      "Rabbi Eliezer Strict",
+      "Sages Proportional",
+      "Yeast Mixture Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the full mishna (Rabbi Eliezer's position and the Rabbis' counter-position) that is introduced as proof text under the 'Rabbi Eliezer Strict' heading, and the prose there explicitly describes this exact mishna from Terumot 5:6 including Rabbi Eliezer's ruling and its rationale.",
+      "chosen_heading": "Rabbi Eliezer Strict",
+      "current_heading": "Rabbi Eliezer Strict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Yeast Mixture Case",
+    "candidates": [
+      "Sages Proportional",
+      "Yeast Mixture Case",
+      "Rabbi Eliezer Yeast",
+      "Sages Yeast",
+      "Cheshbon Meaning",
+      "Three Log Rule",
+      "Rabbi Eliezer ben Yaakov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the opening of the mechometz discussion \u2014 Rabbi Abba citing Rabbi Yochanan that the mishna is not like Rabbi Eliezer, followed by the source mishna from Orla illustrating Rabbi Eliezer's 'achar acharon' position \u2014 which is precisely what the 'Yeast Mixture Case' prose describes as its content.",
+      "chosen_heading": "Yeast Mixture Case",
+      "current_heading": "Yeast Mixture Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Rabbi Eliezer ben Yaakov",
+    "candidates": [
+      "Rabbi Eliezer Yeast",
+      "Sages Yeast",
+      "Cheshbon Meaning",
+      "Three Log Rule",
+      "Rabbi Eliezer ben Yaakov",
+      "Opposing View",
+      "Rava Vessels",
+      "Yosef ben Choni"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Eliezer ben Yaakov",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Eliezer ben Ya'akov's ruling and its reasoning, which is exactly what candidate 4's prose describes \u2014 the Tosefta source, the twenty-one/nineteen se'ah scenario, and the majority-plus-hamshacha principle.",
+      "second_heading": "Opposing View",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the Gemara's inference about the Rabbanan's stricter position and Ravin's report of Rabbi Yochanan's more lenient ruling, concluding 'lo Rabbanan ve-lo Rabbi Eliezer' \u2014 precisely the content described in candidate 5's prose.",
+      "current_heading": "Rabbi Eliezer ben Yaakov",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Yosef ben Choni",
+    "candidates": [
+      "Opposing View",
+      "Rava Vessels",
+      "Yosef ben Choni",
+      "Practical Application",
+      "Basic Rule",
+      "Attribution",
+      "Rabbi Shimon Lenient",
+      "Verse Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabba's interpretation ('lefi cheshbon kelim') and its supporting baraita citing Yosef ben \u1e24oni, which is precisely what the 'Rava Vessels' section's prose introduces \u2014 the shift to interpreting 'calculation' as number of vessels \u2014 before the 'Yosef ben Choni' section elaborates on the logic of that ruling.",
+      "chosen_heading": "Rava Vessels",
+      "current_heading": "Yosef ben Choni",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Verse Analysis",
+    "candidates": [
+      "Practical Application",
+      "Basic Rule",
+      "Attribution",
+      "Rabbi Shimon Lenient",
+      "Verse Analysis",
+      "Sages Water First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Items 3-6 directly address the verse analysis underlying Rabbi Shimon's position (the gezeira shava, the two phrases 'v'natan alav' and 'mayim chayim el keli', and the Sages' reinterpretation of 'alav' as mixing), which matches the 'Verse Analysis' prose precisely, and items 1-2 set up that discussion; all six items form one continuous sugya about the textual basis for the dispute.",
+      "chosen_heading": "Verse Analysis",
+      "current_heading": "Verse Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Sages Water First",
+    "candidates": [
+      "Sages Water First",
+      "Mishnah Position",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's challenge about which clause of the verse is definitive and the answer about the machshir going above, which is precisely what the 'Sages Water First' prose describes in detail.",
+      "chosen_heading": "Sages Water First",
+      "current_heading": "Sages Water First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Mishnah Position",
+      "Rabbi Eliezer",
+      "Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna's ruling that one beit haperas does not create another and then identifies it as not following Rabbi Eliezer \u2014 precisely what the 'Mishnah Position' prose describes (ein beit ha-peras oseh beit ha-peras and matnitin de-lo ke-Rabbi Eliezer), making it a clearly better fit than the 'Rabbi Eliezer' section which focuses on Rabbi Eliezer's own opinion and the plowing scenario.",
+      "chosen_heading": "Mishnah Position",
+      "current_heading": "Rabbi Eliezer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Definition",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Definition",
+      "Tosafot Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly answers 'how far does a beit haperas extend according to the Rabbanan' with Rav Dimi's report of 'three fields and two ma'anot' and defines a ma'ana as 100 amot \u2014 precisely the content described in the 'Definition' section's prose about shalosh sadot u'shtei ma'anot and the hundred-amot measure.",
+      "chosen_heading": "Definition",
+      "current_heading": "Definition",
+      "moved": false
+    }
+  }
+]

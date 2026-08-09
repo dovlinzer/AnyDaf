@@ -1,0 +1,234 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Mishnah Setup",
+    "candidates": [
+      "Mishnah Setup",
+      "Ein Lah L'Shechita",
+      "Shechita Start Problem",
+      "V'Tavcho Kulo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rav \u1e24avivi's inference of 'ein lah l'shechita ela l'sof' from the Mishnah and his explanation of why 'yeshno l'shechita mitechila v'ad sof' creates a problem \u2014 exactly what candidate 1 ('Ein Lah L'Shechita') describes in its prose.",
+      "chosen_heading": "Ein Lah L'Shechita",
+      "current_heading": "Mishnah Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "V'Tavcho Kulo",
+    "candidates": [
+      "Ein Lah L'Shechita",
+      "Shechita Start Problem",
+      "V'Tavcho Kulo",
+      "Walking Animal In"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains the exchange between Rav Huna son of Rava (proposing that liability attaches at the first bit of slaughter) and Rav Ashi's rejection using 'utvacho kulo ba'inan v'leika,' which is precisely what the 'V'Tavcho Kulo' section's prose discusses and analyzes.",
+      "chosen_heading": "V'Tavcho Kulo",
+      "current_heading": "V'Tavcho Kulo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Walking Animal In",
+    "candidates": [
+      "Walking Animal In",
+      "Yochanan vs. Shimon",
+      "Chullin B'Azarah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the 'ela kashya' objection and the Rav Gamda/Rava resolution about beginning the cut outside and finishing inside, which is precisely what the 'Walking Animal In' section's prose describes.",
+      "chosen_heading": "Walking Animal In",
+      "current_heading": "Walking Animal In",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Chullin B'Azarah Status",
+    "candidates": [
+      "Yochanan vs. Shimon",
+      "Chullin B'Azarah Status",
+      "Derabbanan Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the continuous Gemara discussion about whether Rabbi Yochanan holds chullin ba'azarah is not de'oraita, including the challenge and Rav Ashi's response about requiring complete slaughter \u2014 exactly the content described in the 'Chullin B'Azarah Status' prose.",
+      "chosen_heading": "Chullin B'Azarah Status",
+      "current_heading": "Chullin B'Azarah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Derabbanan Clarification",
+    "candidates": [
+      "Derabbanan Clarification",
+      "Edim Zomemim Intro",
+      "Mishnah Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Gamda's resolution (slaughtering part of the simanim outside and finishing inside), which is explicitly identified in the prose of section 0 as the third answer \u2014 the case where the animal physically enters the azarah during the final stroke, making the issur and chiyuv simultaneous.",
+      "chosen_heading": "Derabbanan Clarification",
+      "current_heading": "Derabbanan Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Mishnah Cases",
+    "candidates": [
+      "Edim Zomemim Intro",
+      "Mishnah Cases",
+      "Payment Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both Mishnah items present the opening baseline cases of edim zomemim in the theft/slaughter context, which the 'Edim Zomemim Intro' prose explicitly sets up as the focus of what the Mishnah will address, whereas 'Mishnah Cases' prose discusses the partial hazama scenarios that appear later in the Mishnah (only the second group found zomemim, only one member found zomem, etc.).",
+      "chosen_heading": "Edim Zomemim Intro",
+      "current_heading": "Mishnah Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Payment Scenarios",
+    "candidates": [
+      "Mishnah Cases",
+      "Payment Scenarios",
+      "Payment Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario where only the last (second) group is found to be zomemim, with the thief paying kefel and the witnesses paying threefold \u2014 which is precisely the first scenario discussed in the 'Payment Scenarios' prose under candidate 1 (nimtze'u acharonim zomemim).",
+      "chosen_heading": "Payment Scenarios",
+      "current_heading": "Payment Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Payment Scenarios",
+    "candidates": [
+      "Payment Scenarios",
+      "Abaye vs. Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the nullification of testimony when one witness from either the last or first group is found to be conspiring, which directly matches the 'Payment Scenarios' prose discussion of partial hazama and its consequences including 'batla kol ha'eidus' when one member of the first group is a zomem.",
+      "chosen_heading": "Payment Scenarios",
+      "current_heading": "Payment Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Abaye vs. Rava",
+    "candidates": [
+      "Abaye vs. Rava",
+      "Abaye's Logic",
+      "Rava's Chiddush",
+      "Pesida D'Luchochos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the core Abaye-Rava dispute about retroactive vs. forward disqualification of an ed zomem, which is exactly what candidate 0 ('Abaye vs. Rava') describes in its prose as 'the central Amoraic dispute of this sugya.'",
+      "chosen_heading": "Abaye vs. Rava",
+      "current_heading": "Abaye vs. Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Pesida D'Luchochos",
+    "candidates": [
+      "Abaye's Logic",
+      "Rava's Chiddush",
+      "Pesida D'Luchochos",
+      "Chiddush vs. Pesida"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the 'chiddush' conclusion (ein lecha bo ela mishat chidusho), the alternative version that Rava agrees with Abaye about retroactivity in principle, and the pseida d'luchochos rationale \u2014 are the Gemara's presentation of Rava's position, which is precisely what the 'Rava's Chiddush' prose section discusses, including both the chiddush formulation and the pseida d'luchochos alternative version of Rava's reasoning.",
+      "chosen_heading": "Rava's Chiddush",
+      "current_heading": "Pesida D'Luchochos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Chiddush vs. Pesida",
+    "candidates": [
+      "Pesida D'Luchochos",
+      "Chiddush vs. Pesida",
+      "Halakha L'Abaye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the practical difference between the chiddush and pseida d'luchochos versions of Rava's position \u2014 exactly what candidate 1 ('Chiddush vs. Pesida') is about, matching the Gemara's scenarios of two-against-one testimony and gazlanim disqualification described in that prose.",
+      "chosen_heading": "Chiddush vs. Pesida",
+      "current_heading": "Chiddush vs. Pesida",
+      "moved": false
+    }
+  }
+]

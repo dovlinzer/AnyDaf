@@ -1,0 +1,269 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Basic Teaching",
+    "candidates": [
+      "Basic Teaching",
+      "Ganav vs. Gazlan",
+      "Double to 4 & 5",
+      "Gemara Challenge",
+      "Hekesh Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together cover R. Yochanan's ruling that the to'ein ta'anat ganav pays four and five (items 1-2) and the Gemara's initial challenge to that analogy based on the oath distinction (item 3), which is precisely the content described in candidate 2 ('Double to 4 & 5') and candidate 3 ('Gemara Challenge') \u2014 but since items 1-2 introduce the ruling that belongs under heading 2, and item 3 is the challenge described under heading 3, this is actually a split; however, re-reading FORM 2 criteria, items 1-2 state the ruling and item 3 is the challenge/objection to that same ruling, making this a single continuous question-objection chain best placed where the ruling itself is introduced, i.e., candidate 2, though candidate 3's prose also covers item 3's content \u2014 given the instruction to prefer current placement when uncertain, and that the current placement is index 0 which doesn't match, the best single heading covering the ruling plus its challenge is candidate 2 where the ruling's logic is laid out.",
+      "chosen_heading": "Double to 4 & 5",
+      "current_heading": "Basic Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Hekesh Resolution",
+    "candidates": [
+      "Ganav vs. Gazlan",
+      "Double to 4 & 5",
+      "Gemara Challenge",
+      "Hekesh Resolution",
+      "Michael Eating Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's resolution of the hekesh challenge \u2014 first invoking the hekesh principle, then addressing the objection about both verses referring to to'ein ta'anat ganav, then resolving it via the ribui of 'haganav' \u2014 which is precisely what the 'Hekesh Resolution' prose describes.",
+      "chosen_heading": "Hekesh Resolution",
+      "current_heading": "Hekesh Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Michael Eating Case",
+    "candidates": [
+      "Michael Eating Case",
+      "Neveilah Answer",
+      "Treifah & R. Meir",
+      "Ben Pakuah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the objection raised by Rabbi \u1e24iyya bar Abba to Rabbi Yo\u1e25anan \u2014 presenting the baraita about the ox-eating case and inferring that only kefel, not arba'ah v'chamishah, applies \u2014 which is precisely what the 'Michael Eating Case' prose describes as the sharp challenge being introduced.",
+      "chosen_heading": "Michael Eating Case",
+      "current_heading": "Michael Eating Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Ben Pakuah",
+    "candidates": [
+      "Neveilah Answer",
+      "Treifah & R. Meir",
+      "Ben Pakuah",
+      "Court Ruling",
+      "Two Court Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's answer (neveilah) and the two rejected alternatives (treifah and ben pekuah), which the prose under 'Neveilah Answer' introduces as the Gemara's first proposed answer \u2014 the treifah and ben pekuah rejections are part of establishing why neveilah is the correct answer, and candidate 0's prose explicitly covers all three scenarios as part of one continuous discussion about why neveilah is the chosen resolution.",
+      "chosen_heading": "Neveilah Answer",
+      "current_heading": "Ben Pakuah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Two Court Stages",
+    "candidates": [
+      "Court Ruling",
+      "Two Court Stages",
+      "Aveidah Teaching",
+      "Minor Owner"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together cover exactly what candidate 1 ('Two Court Stages') describes: the distinction between 'tzei ten lo' and 'chayav ata liten lo,' Rava's two-stage ruling, and the Gemara's closing remark that the baraita chose one of several available answers (chada m'tartei nakat), including the shutaf case \u2014 all of which are explicitly discussed in candidate 1's prose.",
+      "chosen_heading": "Two Court Stages",
+      "current_heading": "Two Court Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Minor Owner",
+    "candidates": [
+      "Aveidah Teaching",
+      "Minor Owner",
+      "Rav Ashi Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is precisely the ruling about to'ein ta'anat ganav b'aveidah that heading 0 describes, and Item 2 is the baraita challenge about a minor owner that heading 0's prose also anticipates as the immediate follow-up, making heading 0 the correct home for both items rather than the current heading 1.",
+      "chosen_heading": "Aveidah Teaching",
+      "current_heading": "Minor Owner",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Rav Ashi Answer",
+    "candidates": [
+      "Minor Owner",
+      "Rav Ashi Answer",
+      "R. Yochanan",
+      "Parshiyot Dispute",
+      "Two Pikadon Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the exchange about the minor's deposit challenge and Rav Ashi's resolution, which is precisely what the 'Rav Ashi Answer' prose section describes \u2014 the amendment to the baraita (items 1-2) followed by Rav Ashi's definitive lo dami answer (item 3).",
+      "chosen_heading": "Rav Ashi Answer",
+      "current_heading": "Rav Ashi Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Two Pikadon Cases",
+    "candidates": [
+      "R. Yochanan",
+      "Parshiyot Dispute",
+      "Two Pikadon Cases",
+      "Ein Adam Meiz",
+      "Borrower Calc"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Yochanan",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents R. Yochanan's ruling that toein ta'anat ganav requires modeh b'miktzat, with its scriptural basis from 'ki hu zeh', which is precisely what candidate 0's prose discusses.",
+      "second_heading": "Parshiyot Dispute",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces R. Chiya bar Yosef's eiruv parshiyot objection \u2014 that 'ki hu zeh' belongs to the milveh passage, not pikadon \u2014 which is exactly what candidate 1's prose describes.",
+      "current_heading": "Two Pikadon Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Borrower Calc",
+    "candidates": [
+      "Ein Adam Meiz",
+      "Borrower Calc",
+      "Watchman Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabba's complete statement about why partial admission triggers an oath \u2014 the chazakah of ein adam meiz panav plus the debtor's stalling calculation \u2014 which is precisely what heading 0 ('Ein Adam Meiz') is about, while heading 1 ('Borrower Calc') discusses the same material but as the essay author's own prose synthesis, making heading 0 the better home for the raw Talmudic source text of Rabba's teaching.",
+      "chosen_heading": "Ein Adam Meiz",
+      "current_heading": "Borrower Calc",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Watchman Claim",
+    "candidates": [
+      "Borrower Calc",
+      "Watchman Claim",
+      "Rami Bar Chama"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why 'meiz u'meiz' applies to pikadon but not milveh, which is precisely the distinction discussed in the 'Watchman Claim' section's prose about Rashi's view that the watchman can deny brazenly.",
+      "chosen_heading": "Watchman Claim",
+      "current_heading": "Watchman Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Rami Bar Chama",
+    "candidates": [
+      "Rami Bar Chama",
+      "Ki Yiten Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the baraita of Rami bar \u1e24ama listing all four shomrim requiring partial denial and partial admission, which is precisely what the 'Rami Bar Chama' section's prose describes.",
+      "chosen_heading": "Rami Bar Chama",
+      "current_heading": "Rami Bar Chama",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Ki Yiten Link",
+    "candidates": [
+      "Ki Yiten Link",
+      "Shoel & Socher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rava's derivation of the modeh b'miktzat requirement for shomer chinam via 'ki hu zeh' and for shomer sachar via the netinah-netinah verbal analogy, which is precisely what the 'Ki Yiten Link' section's prose discusses.",
+      "chosen_heading": "Ki Yiten Link",
+      "current_heading": "Ki Yiten Link",
+      "moved": false
+    }
+  }
+]

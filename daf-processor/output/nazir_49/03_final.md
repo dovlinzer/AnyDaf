@@ -1,18 +1,13 @@
-# Nazir 49 — Daf Yomi Shiur
 [DAF:49a]
-
 ## Intro & Overview
+
+
 
 ### Opening Remarks
 
 Today's shiur picks up on 49b and will cover, God willing, through daf 50 as well.
 
-[DAF:49b]
 ### Perek Focus & Exceptions
-
-> **Hebrew/Aramaic:** מַתְנִי׳ עַל אֵלּוּ טוּמְאוֹת הַנָּזִיר מְגַלֵּחַ: עַל הַמֵּת, וְעַל כְּזַיִת מִן הַמֵּת, וְעַל כְּזַיִת נֶצֶל, וְעַל מְלֹא תַּרְווֹד רָקָב. עַל הַשִּׁדְרָה, וְעַל הַגּוּלְגּוֹלֶת, וְעַל אֵבֶר מִן הַמֵּת, וְעַל אֵבֶר מִן הַחַי שֶׁיֵּשׁ עָלָיו בָּשָׂר כָּרָאוּי, וְעַל חֲצִי קַב עֲצָמוֹת, וְעַל חֲצִי לוֹג דָּם.
->
-> **Translation:** MISHNA: **A nazirite shaves for** having become impure from **these** following sources of **ritual impurity: For** having become impure with impurity imparted by **a corpse; and for** impurity imparted by **an olive-bulk of a corpse; and for** impurity imparted by **an olive-bulk of fluid [*netzel*]** from a corpse; **and for** impurity imparted by **a full ladle [*tarvad*] of dust** from a corpse; and **for** impurity imparted by **the spine; and for** impurity imparted by **the skull; and for** impurity imparted by **a limb from a corpse or for** impurity imparted by **a limb** severed **from a living** person, **upon** either of **which there is a fitting** quantity of **flesh; and for** impurity imparted by **a half-*kav* of bones** from a corpse; **and for** impurity imparted by **a half-*log*** of **blood.**
 
 This *perek* has been focused on the prohibition against a *nazir* becoming *tamei*. We have spent considerable time understanding how *meis mitzvah* overrides the restrictions of both a *nazir* and a *kohen gadol*, and the question of priorities when those statuses are combined. Now the *mishnah* turns to the actual parameters of the *nazir*'s *tumah* restrictions — specifically, the minimum sizes and types of materials derived from a corpse that render a *nazir tamei*.
 
@@ -26,11 +21,9 @@ One might ask: how relevant is any of this today? The answer is that *tumah* for
 
 ## First Impurity List
 
-### First List Items
 
-> **Hebrew/Aramaic:** וְעַל מַגָּעָן וְעַל מַשָּׂאָן וְעַל אֲהִילָן. וְעַל עֶצֶם כִּשְׂעוֹרָה עַל מַגָּעוֹ וְעַל מַשָּׂאוֹ.
->
-> **Translation:** **And** a nazirite shaves in each of these cases for becoming impure **by coming into contact with them; and for** becoming impure by **carrying them; and for** becoming impure by **their tent,** i.e., if he was positioned like a tent over them, or if he entered a tent that contains them, or if they served as a tent over him. **And** as **for a bone that is a barley-grain-bulk,** he shaves **for** becoming impure by **coming into contact with it and by carrying it.** However, he is not rendered impure with the impurity imparted in a tent, i.e., by being under the same roof as the bone.
+
+### First List Items
 
 The *mishnah* opens: *al eilu tumos hanazir megale'ach* — for the following *tumot* does a *nazir* shave his head, destroying his current count of *nezirus*, obligating him to bring a *korban* and begin again.
 
@@ -52,15 +45,21 @@ Tosafot continues: *rov binyan* refers to the two hips, or one thigh, or the equ
 
 ### Quarter-Kav Exception
 
-The *halacha* that a *nazir* shaves only on a half-*kav* and not a quarter-*kav* is itself a *halacha l'Moshe m'Sinai*. This may seem like a minor technical distinction, but the principle is important: there exist cases of *tumas meis* that do not trigger *nazir megaleach*. These exceptions also bear on *tumas kohanim*, since the *nazir*'s laws govern those parameters. A *kohen* who would otherwise be prohibited from contracting *tumah* is likewise not bound by this prohibition (*ein kohen muzhar alav*) in cases where the *nazir* does not shave — such as *tumat ohel* from a quarter-*kav* of bones.
+The *halacha* that a *nazir* shaves only on a half-*kav* and not a quarter-*kav* is itself a *halacha l'Moshe m'Sinai*. This may seem like a minor technical distinction, but the principle is important: there exist cases of *tumas meis* that do not trigger *nazir megaleach*. The same dynamic appears with blood: just as the *mishnah* will state that a *nazir* shaves on a half-*log* of blood, a *revi'is* of blood from a corpse causes *tumat ohel* — yet the *nazir* does not shave unless there is a full half-*log*, twice that minimum amount. So for both bones and blood, when it comes to *tumat ohel*, the threshold for *nazir megaleach* is double the threshold for the *tumah* itself. These exceptions also bear on *tumas kohanim*, since the *nazir*'s laws govern those parameters. A *kohen* who would otherwise be prohibited from contracting *tumah* is likewise not bound by this prohibition (*ein kohen muzhar alav*) in cases where the *nazir* does not shave — such as *tumat ohel* from a quarter-*kav* of bones.
 
+[DAF:49b]
 ### Three Modes of Tumah
 
 The first list concludes: *v'al magaan v'al masaan v'al ahilan* — touching them, carrying them, or being in their *ohel*. Everything on this list causes *tumah* through all three modes.
 
+> **Hebrew/Aramaic:** וְעַל מַגָּעָן וְעַל מַשָּׂאָן וְעַל אֲהִילָן. וְעַל עֶצֶם כִּשְׂעוֹרָה עַל מַגָּעוֹ וְעַל מַשָּׂאוֹ.
+> **Translation:** **And** a nazirite shaves in each of these cases for becoming impure **by coming into contact with them; and for** becoming impure by **carrying them; and for** becoming impure by **their tent,** i.e., if he was positioned like a tent over them, or if he entered a tent that contains them, or if they served as a tent over him. **And** as **for a bone that is a barley-grain-bulk,** he shaves **for** becoming impure by **coming into contact with it and by carrying it.** However, he is not rendered impure with the impurity imparted in a tent, i.e., by being under the same roof as the bone.
+
 ---
 
 ## Second Impurity List
+
+
 
 ### Barley-Grain Bone
 
@@ -68,45 +67,43 @@ The *mishnah* then introduces a second, shorter list: *v'al etzem k'se'ora* — 
 
 ### Consequences of Impurity
 
-> **Hebrew/Aramaic:** עַל אֵלּוּ הַנָּזִיר מְגַלֵּחַ, וּמַזֶּה בַּשְּׁלִישִׁי וּבַשְּׁבִיעִי וְסוֹתֵר אֶת הַקּוֹדְמִין, וְאֵינוֹ מַתְחִיל לִמְנוֹת אֶלָּא עַד שֶׁיִּטְהַר וּמֵבִיא אֶת קׇרְבְּנוֹתָיו.
->
+
+> **Hebrew/Aramaic:** עַל אֵלּוּ הַנָּזִיר מְגַלֵּחַ, וּמַזֶּה בַּשְּׁלִישִׁי וּבַשְּׁבִיעִי וְסוֹתֵר אֶת הַקּוֹדְמִין, וְאֵינוֹ מַתְחִיל לִמְנוֹת אֶלָּא עַד שֶׁיִּטְהַר וּמֵבִיא אֶת קׇרְבְּנוֹתָיו.
 > **Translation:** **For** all of **these** occurrences, **a nazirite shaves, and** a priest **sprinkles** the ashes of the red heifer on him **on the third and on the seventh** days to purify him from the impurity imparted by a corpse. **And he negates** all **the previous** days he counted toward his naziriteship, **and he begins counting** his term of naziriteship again **only after he becomes pure and brings his offerings.**
 
 When a *nazir* contracts *tumah* from any of these sources, the consequences are: *u'mazeh bashlishi u'va'shvi'i* — sprinkling of the purification-water on days three and seven; *soter es ha'kodmin* — all prior days of the *nezirus* count are destroyed; and he does not begin counting again until he becomes *tahor*, brings his *korbanot*, and only then begins the new count. The chip of bone the size of a barley grain, though it causes *tumah* only through touch and not through *ohel*, still triggers this full set of consequences for the *nazir*.
+
+It is also worth pausing to note that the *mishnah* constructs two deliberate lists: the first list, ending with *al maga'an v'al masa'an v'al ohilan* — through touch, carrying, and *ohel* — covers everything on it comprehensively, while the second, shorter list covers only touch and carrying, not *ohel*. This is the structural logic of the *mishnah*: not two independent enumerations, but one primary list and a secondary list that carves out a narrower category. Additionally, almost everything enumerated here as a source of *tumat meit* derives from a *meit* — a corpse — with one conspicuous exception: *ever min ha'chai*, a limb severed from a living person. That this source belongs in the same list is, as the *mishnah* itself implies, somewhat striking, and it is a point worth keeping in mind.
 
 ---
 
 ## Sumchos Incident
 
+
+
 ### Yehuda's Warning
 
-> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: אַחַר פְּטִירָתוֹ שֶׁל רַבִּי מֵאִיר אָמַר לָהֶן רַבִּי יְהוּדָה לְתַלְמִידָיו: אַל יִכָּנְסוּ תַּלְמִידֵי רַבִּי מֵאִיר לְכָאן, מִפְּנֵי שֶׁקַּנְתְּרָנִין הֵן, וְלֹא לִלְמוֹד תּוֹרָה הֵן בָּאִין, אֶלָּא לְקַפְּחֵנִי בַּהֲלָכוֹת הֵן בָּאִין.
->
-> **Translation:** GEMARA: **The Sages taught: After Rabbi Meir's death, Rabbi Yehuda said to his students: Do not let the students of Rabbi Meir enter here,** into the house of study, **because they are vexatious and they do not come to study Torah, but they come to overwhelm me with** their ***halakhot*.** 
+> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: אַחַר פְּטִירָתוֹ שֶׁל רַבִּי מֵאִיר אָמַר לָהֶן רַבִּי יְהוּדָה לְתַלְמִידָיו: אַל יִכָּנְסוּ תַּלְמִידֵי רַבִּי מֵאִיר לְכָאן, מִפְּנֵי שֶׁקַּנְתְּרָנִין הֵן, וְלֹא לִלְמוֹד תּוֹרָה הֵן בָּאִין, אֶלָּא לְקַפְּחֵנִי בַּהֲלָכוֹת הֵן בָּאִין. דָּחַק סוֹמְכוֹס וְנִכְנַס.
+> **Translation:** GEMARA: **The Sages taught: After Rabbi Meir’s death, Rabbi Yehuda said to his students: Do not let the students of Rabbi Meir enter here,** into the house of study, **because they are vexatious and they do not come to study Torah, but they come to overwhelm me with** their ***halakhot*.** Nevertheless, **Sumakhos,** a student of Rabbi Meir, **forced his way and entered** the house of study.
 
 The *Gemara* opens this section with a *baraisa*: after the passing of Rabbi Meir — *achar petiraso shel Rabbi Meir*, literally "after his departure" — Rabbi Yehuda said to his students: do not allow Rabbi Meir's students into our *beis medrash*, because they are *kantranim* — troublemakers. They do not come with a sincere desire to learn *Torah*; they come *lekapacheini bahalachos* — to harass through *halachic* argumentation, treating *halacha* as an intellectual exercise and mind game rather than as a genuine search for truth.
 
 ### Sumchos Forces Entry
 
-> **Hebrew/Aramaic:** דָּחַק סוֹמְכוֹס וְנִכְנַס. אָמַר לָהֶם, כָּךְ שָׁנָה לִי רַבִּי מֵאִיר: עַל אֵלּוּ טוּמְאוֹת הַנָּזִיר מְגַלֵּחַ: עַל הַמֵּת, וְעַל כַּזַּיִת מִן הַמֵּת.
->
-> **Translation:** Nevertheless, **Sumakhos,** a student of Rabbi Meir, **forced his way and entered** the house of study. **When they reached the topic of the mishna, Sumakhos said to them: Rabbi Meir taught me like this: A nazirite shaves for** becoming impure from **these** following sources of **ritual impurity: For** impurity imparted by **a corpse and for** impurity imparted by **an olive-bulk from a corpse.**
-
 Despite this, *dachak Sumchos v'nichnas* — Sumchos forced his way in. Sumchos was one of Rabbi Meir's most distinguished students. He came and reported: *kach shana li Rabbi Meir* — this is how Rabbi Meir taught me this *mishnah* — listing both *al hameis* and *al kezayis min hameis* explicitly.
+
+> **Hebrew/Aramaic:** אָמַר לָהֶם, כָּךְ שָׁנָה לִי רַבִּי מֵאִיר: עַל אֵלּוּ טוּמְאוֹת הַנָּזִיר מְגַלֵּחַ: עַל הַמֵּת, וְעַל כַּזַּיִת מִן הַמֵּת. כָּעַס רַבִּי יְהוּדָה וְאָמַר לָהֶן, לֹא כָּךְ אָמַרְתִּי לָכֶם: אַל יִכָּנְסוּ תַּלְמִידֵי רַבִּי מֵאִיר לְכָאן, מִפְּנֵי שֶׁקַּנְתְּרָנִין הֵן? עַל כַּזַּיִת מִן הַמֵּת מְגַלֵּחַ — עַל הַמֵּת לֹא כׇּל שֶׁכֵּן?!
+> **Translation:** When they reached the topic of the mishna, Sumakhos **said to them: Rabbi Meir taught me like this: A nazirite shaves for** becoming impure from **these** following sources of **ritual impurity: For** impurity imparted by **a corpse and for** impurity imparted by **an olive-bulk from a corpse. Rabbi Yehuda grew angry and said to** his disciples: **Didn’t I say to you like this: Do not let the students of Rabbi Meir enter here because they are vexatious?** He explained his annoyance. The clause: For a corpse, is unnecessary, as, if a nazirite **must shave for** impurity imparted by **an olive-bulk from a corpse,** is it **not all the more so** that he must shave **for** impurity imparted by an entire **corpse?**
 
 ### Yehuda's Objection
 
-> **Hebrew/Aramaic:** כָּעַס רַבִּי יְהוּדָה וְאָמַר לָהֶן, לֹא כָּךְ אָמַרְתִּי לָכֶם: אַל יִכָּנְסוּ תַּלְמִידֵי רַבִּי מֵאִיר לְכָאן, מִפְּנֵי שֶׁקַּנְתְּרָנִין הֵן? עַל כַּזַּיִת מִן הַמֵּת מְגַלֵּחַ — עַל הַמֵּת לֹא כׇּל שֶׁכֵּן?!
->
-> **Translation:** **Rabbi Yehuda grew angry and said to** his disciples: **Didn't I say to you like this: Do not let the students of Rabbi Meir enter here because they are vexatious?** He explained his annoyance. The clause: For a corpse, is unnecessary, as, if a nazirite **must shave for** impurity imparted by **an olive-bulk from a corpse,** is it **not all the more so** that he must shave **for** impurity imparted by an entire **corpse?**
 
 Rabbi Yehuda grew angry and said to his students: did I not warn you? Don't let Rabbi Meir's students in here — they are troublemakers. His objection was: *al kezayis min hameis megaleach, al hameis lo kol shekein?* If you shave for a *kezayis* of flesh from the corpse, is it not obviously true all the more so for the entire corpse? Why state *al hameis* at all? It is entirely implicit. The irritation is understandable: it is not merely that Rabbi Meir's version includes an extra phrase. It is that Sumchos is insisting on it, presenting it as halachically significant. "What are you doing?" is the implied complaint. "You're just making trouble — it's obvious."
 
 ### Yosi's Defense
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹסֵי: יֹאמְרוּ מֵאִיר שָׁכַב, יְהוּדָה כָּעַס, יוֹסֵי שָׁתַק — תּוֹרָה מַה תְּהֵא עָלֶיהָ? אָמַר רַבִּי יוֹסֵי: לֹא נִצְרְכָה אֶלָּא לְמֵת שֶׁאֵין עָלָיו כְּזַיִת בָּשָׂר.
->
-> **Translation:** **Rabbi Yosei said:** Now **they will say: Meir is dead, Yehuda is angry,** and **Yosei remained silent** and did not respond. If so, **what will become of the Torah? Rabbi Yosei** therefore **said:** It is **not necessary** to teach that a nazirite must shave for impurity imparted by a corpse, **but** only that he must shave even **for** impurity imparted by **a corpse upon which there is not an olive-bulk of flesh.**
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹסֵי: יֹאמְרוּ מֵאִיר שָׁכַב, יְהוּדָה כָּעַס, יוֹסֵי שָׁתַק — תּוֹרָה מַה תְּהֵא עָלֶיהָ? אָמַר רַבִּי יוֹסֵי: לֹא נִצְרְכָה אֶלָּא לְמֵת שֶׁאֵין עָלָיו כְּזַיִת בָּשָׂר. וַעֲדַיִין יֹאמַר: עַל אֵבֶר מִמֶּנּוּ מְגַלֵּחַ, עַל כּוּלּוֹ לֹא כׇּל שֶׁכֵּן?!
+> **Translation:** **Rabbi Yosei said:** Now **they will say: Meir is dead, Yehuda is angry,** and **Yosei remained silent** and did not respond. If so, **what will become of the Torah? Rabbi Yosei** therefore **said:** It is **not necessary** to teach that a nazirite must shave for impurity imparted by a corpse, **but** only that he must shave even **for** impurity imparted by **a corpse upon which there is not an olive-bulk of flesh.** The Gemara asks: **But one could still say:** If he must **shave for** impurity imparted by **a limb from** a corpse, even if it is less than an olive-bulk, as stated in the mishna, is it **not all the more so** that he must shave **for** impurity imparted by **all of** a corpse, even if it does not contain an olive-bulk of flesh?
 
 Rabbi Yosi's response is itself worth pausing over. He says: *yomru Meir shachav, Yehuda ka'as, Yosi shatak — Torah mah tehei aleha?* They will say: Meir passed away (*shachav* — he went to lie down), Yehuda grew angry, and Yosi was silent — what will be of the *Torah*? Rabbi Yosi is saying: I must defend Rabbi Meir's honor, and more importantly, his *Torah*, even though I am Rabbi Yehuda's colleague. The personalities are getting in the way. The *Torah* has to be defended regardless.
 
@@ -114,23 +111,23 @@ So Rabbi Yosi offers a justification: *lo nitzrecha ela l'meis she'ein alav keza
 
 ### Nefel Discussion
 
-> **Hebrew/Aramaic:** וַעֲדַיִין יֹאמַר: עַל אֵבֶר מִמֶּנּוּ מְגַלֵּחַ, עַל כּוּלּוֹ לֹא כׇּל שֶׁכֵּן?! אֶלָּא, כִּדְאָמַר רַבִּי יוֹחָנָן: לֹא נִצְרְכָה אֶלָּא לְנֵפֶל שֶׁלֹּא נִתְקַשְּׁרוּ אֵבָרָיו בְּגִידִין.
->
-> **Translation:** **But one could still say:** If he must **shave for** impurity imparted by **a limb from** a corpse, even if it is less than an olive-bulk, as stated in the mishna, is it **not all the more so** that he must shave **for** impurity imparted by **all of** a corpse, even if it does not contain an olive-bulk of flesh? **Rather,** the mishna should be explained **as Rabbi Yoḥanan said,** with regard to a different issue: It is **necessary only for a miscarried fetus whose limbs had not** yet **become joined to** its **sinews.**
+> **Hebrew/Aramaic:** אֶלָּא, כִּדְאָמַר רַבִּי יוֹחָנָן: לֹא נִצְרְכָה אֶלָּא לְנֵפֶל שֶׁלֹּא נִתְקַשְּׁרוּ אֵבָרָיו בְּגִידִין. הָכָא נָמֵי: בְּנֵפֶל שֶׁלֹּא נִתְקַשְּׁרוּ אֵבָרָיו בְּגִידִין.
+> **Translation:** **Rather,** the mishna should be explained **as Rabbi Yoḥanan said,** with regard to a different issue: It is **necessary only for a miscarried fetus whose limbs had not** yet **become joined to** its **sinews. Here too,** one can say that the mishna’s statement that a nazirite must shave for impurity imparted by a corpse is referring **to a miscarried fetus whose limbs had not** yet **become joined to** its **sinews.** Although it does not impart impurity through one of its limbs, as the limbs lack sinews and bones, this corpse itself does impart impurity.
 
 The *Gemara* objects: but that is also covered by the other items in the list — limbs, or *rov binyan*, and so on. If you shave even for a single limb, surely you shave for the whole body?
 
-The *Gemara* then brings Rabbi Yochanan's formulation: *lo nitzrecha ela l'nefel shelo nitkashru evarav begidin* — it is needed for the case of a *nefel*, a stillborn or miscarried fetus, whose sinews have not yet developed. Because there are no *gidin*, the halachic concept of an *ever* does not apply. Such a *nefel* could be very underdeveloped — possibly as early as day forty — and might have neither a *kezayis* of flesh nor a developed skeletal structure sufficient to trigger the other items on the list. In that case, only *al hameis* covers it. Why the absence of *gidin* also excludes the *shidra* and *gulgoles* categories is not fully explored, but there seems to be an assumption that if the fetus is so small and underdeveloped, those thresholds are also not met.
+The *Gemara* then brings Rabbi Yochanan's formulation: *lo nitzrecha ela l'nefel shelo nitkashru evarav begidin* — it is needed for the case of a *nefel*, a stillborn or miscarried fetus, whose sinews have not yet developed. Because there are no *gidin*, the halachic concept of an *ever* does not apply. Such a *nefel* could be very underdeveloped — possibly as early as day forty — and might have neither a *kezayis* of flesh nor a developed skeletal structure sufficient to trigger the other items on the list. In that case, only *al hameis* covers it. Why the absence of *gidin* also excludes the *shidra* and *gulgoles* categories is not fully explored, but there seems to be an assumption that if the fetus is so small and undeveloped, those thresholds are also not met.
 
 ### Rava's Answer
 
-> **Hebrew/Aramaic:** רָבָא אָמַר: לֹא נִצְרְכָה אֶלָּא לְרוֹב בִּנְיָינוֹ וּלְרוֹב מִנְיָינוֹ, שֶׁאֵין בָּהֶן רוֹבַע עֲצָמוֹת.
->
-> **Translation:** **Rava said** a different explanation: This ruling is **necessary only for the majority of the structure or the majority of the number** of bones of a very small corpse, despite the fact **that** together **they do not contain a quarter-***kav* **of bones.**
+> **Hebrew/Aramaic:** רָבָא אָמַר: לֹא נִצְרְכָה אֶלָּא לְרוֹב בִּנְיָינוֹ וּלְרוֹב מִנְיָינוֹ, שֶׁאֵין בָּהֶן רוֹבַע עֲצָמוֹת.
+> **Translation:** **Rava said** a different explanation: This ruling is **necessary only for the majority of the structure or the majority of the number** of bones of a very small corpse, despite the fact **that** together **they do not contain a quarter-***kav* **of bones.** Since these bones comprise the majority of the structure or the majority of the number of bones of a corpse, they have the status of a whole body. This *halakha* could not have been derived from the measure of impurity of part of the body, as this corpse is very small.
 
 Rava offers yet another resolution: *lo nitzrecha ela l'rov binyano o l'rov minyano she'ein bahen rov atzamos* — it is needed for a case where you have *rov minyan* and *rov binyan*, but not the minimum volume. If the corpse is very small — such as a very tiny skeletal structure — you could theoretically have a majority of the number of bones and a majority of the body's structure, and yet not reach the minimum volume threshold.
 
 This is an important clarification: *rov minyan* and *rov binyan* are not independent of volume. As Tosafot demonstrated, the requirement is *rov minyan* or *rov binyan* expressed in at least a *rova* (for ordinary *tumas ohel*) or a half-*kav* (for *nazir megaleach*). Even a full *rov minyan* and *rov binyan*, whole and uncrushed, without that minimum volume, does not cause *tumat ohel*. So a very small corpse could have *rov minyan* and *rov binyan* — every structural bone present — and yet fall below the minimum volume. In that case, the explicit *al hameis* is what covers it.
+
+One might notice, however, that Rava's resolution conspicuously leaves aside the categories of *shidra* and *gulgoles*. Why would this small-but-structurally-complete corpse not trigger those thresholds? The *gemara* does not pursue this question, and it is not obvious what the answer would be. The case of the *nefel*, addressed by Rabbi Yochanan in the previous resolution, offers at least a partial explanation for why *shidra* and *gulgoles* might not apply — the fetus is so undeveloped that those structures simply do not yet exist — but for Rava's case, where *rov minyan* and *rov binyan* are present, the silence on *shidra* and *gulgoles* is harder to account for and goes unexplained.
 
 ### Torah vs. Personalities
 
@@ -142,29 +139,26 @@ This same *sugya* appears, in a more developed literary form, in Kiddushin 52b. 
 
 ## Netzel Discussion
 
+
+
 ### Netzel Definition
 
-> **Hebrew/Aramaic:** עַל כְּזַיִת מֵת וְעַל כְּזַיִת נֶצֶל. וְאֵיזֶהוּ נֶצֶל — בְּשַׂר הַמֵּת שֶׁקָּרַשׁ, וּמוֹהַל שֶׁהִרְתִּיחַ.
->
+> **Hebrew/Aramaic:** עַל כְּזַיִת מֵת וְעַל כְּזַיִת נֶצֶל. וְאֵיזֶהוּ נֶצֶל — בְּשַׂר הַמֵּת שֶׁקָּרַשׁ, וּמוֹהַל שֶׁהִרְתִּיחַ.
 > **Translation:** § The mishna taught: A nazirite shaves **for** impurity imparted by **an olive-bulk of a corpse and for** impurity imparted by **an olive-bulk of fluid.** The Gemara explains: **And what is fluid?** This is referring to **flesh of the corpse that** liquefied and subsequently **congealed, and liquid [*mohal*]** from the corpse **that** began **to boil** and then hardened.
 
 The *mishnah* lists *kezayis netzel* among the things for which a *nazir* shaves. The *Gemara* now asks: *ve'eizu netzel* — what exactly is *netzel*? Two answers are given: (1) *basar hameis shekarash* — flesh of the dead that had liquefied and then recongealed; and (2) *mochal she'hirtiach* — juices that ran off the flesh and then were boiled and congealed.
 
 ### Identifying Netzel
 
-> **Hebrew/Aramaic:** הֵיכִי דָּמֵי? אִילֵּימָא דְּלָא יָדְעִינַן דְּדִידֵיהּ הוּא, כִּי קָרַשׁ מַאי הָוֵי? אֶלָּא דְּיָדְעִינַן דְּדִידֵיהּ הוּא, אַף עַל גַּב דְּלֹא קָרַשׁ!
->
+> **Hebrew/Aramaic:** הֵיכִי דָּמֵי? אִילֵּימָא דְּלָא יָדְעִינַן דְּדִידֵיהּ הוּא, כִּי קָרַשׁ מַאי הָוֵי? אֶלָּא דְּיָדְעִינַן דְּדִידֵיהּ הוּא, אַף עַל גַּב דְּלֹא קָרַשׁ!
 > **Translation:** The Gemara asks: **What are the circumstances** in which the congealment is a determinative factor in the imparting of impurity? **If we say that we do not know that** the substance with which the nazirite came into contact **is** from the corpse, even **if** it **congealed, what of it? Rather,** you will say **that we know that it** came from the corpse. But then the nazirite should be impure **even though** it has **not congealed.**
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יִרְמְיָה: בִּסְתָם. אִי קָרַשׁ — מוֹהֵל הוּא, לֹא קָרַשׁ — דִּלְמָא כִּיחוֹ וְנִיעוֹ הוּא.
+> **Translation:** **Rabbi Yirmeya said** that this is referring **to an unspecified** substance that is definitely from the corpse but is not necessarily a substance that imparts impurity. One therefore examines the substance: **If** the substance eventually **congeals, it is liquid** from the corpse, which imparts impurity; if it does **not congeal, perhaps it is his phlegm and his spittle,** which do not impart impurity.
 
 The *Gemara* then asks: what is the case? If we simply do not know whether this congealed substance came from the flesh or from some other liquid of the body — like saliva or mucus — then the act of congealing tells us nothing about its identity. Those other bodily fluids are not *metamei* as *tumas meis* in their own right; they may carry indirect *tumah* from contact with the dead, but they are not themselves the *meis*.
 
 So the *Gemara* clarifies: *ella diyaadina dedidahu* — we know that it came from the flesh. And then the question becomes: even so, does congealing matter? Even in dissolved or liquid form, since we know it came from the flesh, it should cause the same *tumah*. What does congealing add?
-
-### Rabbi Yirmiyah's Answer
-
-> **Hebrew/Aramaic:** אָמַר רַבִּי יִרְמְיָה: בִּסְתָם. אִי קָרַשׁ — מוֹהֵל הוּא, לֹא קָרַשׁ — דִּלְמָא כִּיחוֹ וְנִיעוֹ הוּא.
->
-> **Translation:** **Rabbi Yirmeya said** that this is referring **to an unspecified** substance that is definitely from the corpse but is not necessarily a substance that imparts impurity. One therefore examines the substance: **If** the substance eventually **congeals, it is liquid** from the corpse, which imparts impurity; if it does **not congeal, perhaps it is his phlegm and his spittle,** which do not impart impurity.
 
 Rabbi Yirmiyah answers: *bistam* — in an ambiguous case, where we do not know whether this liquid came from the flesh or from *keicho v'ni'o* (phlegm and mucus), congealing is the identifying factor. *I karash* — if it congeals — *mochal hu* — then we know it is from the juices of the flesh, since those other bodily fluids would not congeal in the same way. *Lo karash* — if it does not congeal — then it may well be mucus or saliva, and we cannot be certain.
 
@@ -174,8 +168,7 @@ Tosafot extends this reasoning to the *hirtiach* case: we know the substance cam
 
 ### Netzel for Animals
 
-> **Hebrew/Aramaic:** בְּעָא מִינֵּיהּ אַבָּיֵי מֵרַבָּה: יֵשׁ נֶצֶל לִבְהֵמָה אוֹ אֵין נֶצֶל לִבְהֵמָה? מִי אָמְרִינַן גְּמִירִי נֶצֶל דְּאָתֵי מֵאָדָם, אֲבָל דְּאָתֵי מִבְּהֵמָה — לָא. אוֹ דִלְמָא לָא שְׁנָא?
->
+> **Hebrew/Aramaic:** בְּעָא מִינֵּיהּ אַבָּיֵי מֵרַבָּה: יֵשׁ נֶצֶל לִבְהֵמָה אוֹ אֵין נֶצֶל לִבְהֵמָה? מִי אָמְרִינַן גְּמִירִי נֶצֶל דְּאָתֵי מֵאָדָם, אֲבָל דְּאָתֵי מִבְּהֵמָה — לָא. אוֹ דִלְמָא לָא שְׁנָא?
 > **Translation:** § With regard to the impurity of fluids from a corpse, **Abaye raised a dilemma before Rabba: Is there** the category of **fluid with regard to animals, or is there no** category of **fluid with regard to animals?** In other words, does fluid from an animal carcass impart impurity like the animal carcass itself or not? The Gemara explains the two sides of the dilemma: **Do we say** that it **is learned** as a tradition that **fluid that comes from a person** is impure **but** fluid **that comes from an animal** is **not** impure? **Or perhaps** it **is no different,** as fluid from a corpse is always considered like the flesh itself?
 
 Abaye poses a question to Rava: *yesh netzel livheimah o ein netzel livheimah* — does the principle of *netzel* apply to animals and *tumas neveilah*, or is it unique to *tumas meis*? The question is whether this is a *halacha* about the definition of flesh as such — in which case it should apply broadly — or whether it is a tradition specific to human corpse *tumah*.
@@ -184,9 +177,6 @@ Two possible positions frame the question: perhaps the tradition of *netzel* is 
 
 ### Tumat Chamurah Doctrine
 
-> **Hebrew/Aramaic:** הָנִיחָא לְמַאן דְּאָמַר טוּמְאָה חֲמוּרָה עַד לְגֵר, וְטוּמְאָה קַלָּה עַד לְכֶלֶב — שַׁפִּיר. אֶלָּא לְמַאן דְּאָמַר טוּמְאָה חֲמוּרָה עַד לְכֶלֶב, מַאי אִיכָּא לְמֵימַר?
->
-> **Translation:** The Gemara comments: **This works out well according to the one who says** that a carcass imparts impurity by **a severe impurity,** through contact and carrying, only **until** the carcass becomes inedible **for a stranger,** i.e., in order impart impurity it must be fit for human consumption. **And** the carcass imparts impurity by **a light impurity** that imparts impurity on food through contact **until** the carcass become inedible **for a dog.** According to this opinion, **it is well,** as the *halakha* of fluid certainly does not apply to an animal, since meat that has liquefied is no longer fit for human consumption. **However, according to the one who says** that a carcass imparts impurity by **a severe impurity until** it becomes inedible **for a dog, what is there to say?** Since fluids from an animal carcass are presumably fit to be eaten by a dog, the above dilemma as to whether it is impure remains pertinent.
 
 Whether this question is even practically relevant, however, depends on another dispute. The *Gemara* introduces the principle: *tumah chamurah ad lager, v'tumah kalah ad lekelev*. The heavier *tumah* — specifically *tumas neveilah*, the carcass of an animal that is itself a primary source of *tumah* — is measured by fitness for human consumption. This is derived from the verse *lager asher bish'arecha titnenah ve'achalcha*: the carcass may be given to the *ger* to eat; from here we learn *ha-raui lager karui neveilah she-eino raui lager eino karui neveilah* — only what is fit for human consumption bears the status of *neveilah* and its accompanying *tumah*.
 
@@ -196,9 +186,17 @@ This principle is itself somewhat counterintuitive, since most *avot hatumah* ha
 
 ### Question Moot
 
-> **Hebrew/Aramaic:** תָּא שְׁמַע: הִמְחוּהוּ בָּאוּר — טָמֵא, בַּחַמָּה — טָהוֹר. וְאִי סָלְקָא דַעְתָּךְ עַד לְכֶלֶב, אֲפִילּוּ בַּחַמָּה נָמֵי! אֵימַת מַמְחֵי לֵיהּ — בָּתַר דְּאַסְרַח בְּחַמָּה, כֵּיוָן דְּאַסְרַח — הָוֵה לֵיהּ עָפָר.
->
-> **Translation:** The Gemara answers: **Come** and **hear** a resolution from the *Tosefta* (*Zavim* 5:9): The fat of an animal carcass **that** someone **liquefied in fire is** still **impure.** However, if it melted **in the sun,** which impairs its taste, it is **pure. And if it enters your mind** that according to the opinion that a carcass imparts impurity **until** it becomes inedible **for a dog** the impurity of fluids does apply to an animal carcass, if so, **even** fat that dissolved **in the sun** should **also** be impure. Even if its taste is spoiled, it remains edible for a dog. The Gemara answers: **When does** this fat **liquefy? After it has putrefied,** which is why it was thrown out, at which point it melted **in the sun.** However, **once it putrefied, it had** already **become** like **dust** and lost any status of ritual impurity it once had. Once it has melted, it is no longer edible for a dog. Consequently, this source provides no proof.
+> **Hebrew/Aramaic:** הָנִיחָא לְמַאן דְּאָמַר טוּמְאָה חֲמוּרָה עַד לְגֵר, וְטוּמְאָה קַלָּה עַד לְכֶלֶב — שַׁפִּיר.
+> **Translation:** The Gemara comments: **This works out well according to the one who says** that a carcass imparts impurity by **a severe impurity,** through contact and carrying, only **until** the carcass becomes inedible **for a stranger,** i.e., in order impart impurity it must be fit for human consumption. **And** the carcass imparts impurity by **a light impurity** that imparts impurity on food through contact **until** the carcass become inedible **for a dog.** According to this opinion, **it is well,** as the *halakha* of fluid certainly does not apply to an animal, since meat that has liquefied is no longer fit for human consumption.
+
+> **Hebrew/Aramaic:** אֶלָּא לְמַאן דְּאָמַר טוּמְאָה חֲמוּרָה עַד לְכֶלֶב, מַאי אִיכָּא לְמֵימַר?
+> **Translation:** **However, according to the one who says** that a carcass imparts impurity by **a severe impurity until** it becomes inedible **for a dog, what is there to say?** Since fluids from an animal carcass are presumably fit to be eaten by a dog, the above dilemma as to whether it is impure remains pertinent.
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע: הִמְחוּהוּ בָּאוּר — טָמֵא, בַּחַמָּה — טָהוֹר. וְאִי סָלְקָא דַעְתָּךְ עַד לְכֶלֶב, אֲפִילּוּ בַּחַמָּה נָמֵי!
+> **Translation:** The Gemara answers: **Come** and **hear** a resolution from the *Tosefta* (*Zavim* 5:9): The fat of an animal carcass **that** someone **liquefied in fire is** still **impure.** However, if it melted **in the sun,** which impairs its taste, it is **pure. And if it enters your mind** that according to the opinion that a carcass imparts impurity **until** it becomes inedible **for a dog** the impurity of fluids does apply to an animal carcass, if so, **even** fat that dissolved **in the sun** should **also** be impure. Even if its taste is spoiled, it remains edible for a dog.
+
+> **Hebrew/Aramaic:** אֵימַת מַמְחֵי לֵיהּ — בָּתַר דְּאַסְרַח בְּחַמָּה, כֵּיוָן דְּאַסְרַח — הָוֵה לֵיהּ עָפָר.
+> **Translation:** The Gemara answers: **When does** this fat **liquefy? After it has putrefied,** which is why it was thrown out, at which point it melted **in the sun.** However, **once it putrefied, it had** already **become** like **dust** and lost any status of ritual impurity it once had. Once it has melted, it is no longer edible for a dog. Consequently, this source provides no proof.
 
 Now, if *tumah chamurah ad lager* is correct — that *tumas neveilah* requires fitness for human consumption — then the question of whether *netzel* from an animal is considered *neveilah* is moot. The juices of decomposing flesh are not fit for human consumption, and therefore they are simply *tahor* regardless of whether they conceptually count as "flesh." The question only has force if *tumah chamurah ad lekelev* — if even *tumas neveilah* requires only fitness for dog consumption, and one holds that decomposing animal juices remain fit for a dog.
 
@@ -210,33 +208,45 @@ The conclusion, therefore, is that if one holds *tumah chamurah ad lekelev*, and
 
 ## Nitzok Mishnah
 
+
+
 ### Pouring Not Connected
 
-> **Hebrew/Aramaic:** תְּנַן: כׇּל הַנִּצּוֹק — טָהוֹר. חוּץ מִדְּבַשׁ הַזִּיפִים וְהַצַּפִּיחִית. בֵּית שַׁמַּאי אוֹמְרִים: אַף הַמִּקְפָּה שֶׁל גְּרִיסִין וְשֶׁל עֲדָשִׁים, מִפְּנֵי שֶׁהִיא סוֹלֶדֶת לַאֲחוֹרֶיהָ.
->
-> **Translation:** § The Gemara discusses a related issue. **We learned** in a mishna (*Makhshirin* 5:9): **Anything that is poured** remains **ritually pure.** In other words, if one pours liquid from one vessel into another, the stream of liquid is not considered to connect the two vessels. Consequently, if the upper vessel and its contents are pure, they do not become impure even if the lower vessel into which the liquid is poured is impure. The stream of liquid does not link them in this manner. The mishna adds: This is the case for all liquids **except for *zifim* honey,** a very thick type of honey, **and batter,** e.g., flour mixed with honey. Since these substances are highly viscous, they are not considered liquids. Rather, they are a kind of soft solid food, which means that they are a single unit that links the two vessels with regard to impurity. Beit Shammai add: They also include thick porridge **of oat-groats or lentils, because it pulls back** toward the vessel.
+> **Hebrew/Aramaic:** תְּנַן: כׇּל הַנִּצּוֹק — טָהוֹר.
+> **Translation:** § The Gemara discusses a related issue. **We learned** in a mishna (*Makhshirin* 5:9): **Anything that is poured** remains **ritually pure.** In other words, if one pours liquid from one vessel into another, the stream of liquid is not considered to connect the two vessels. Consequently, if the upper vessel and its contents are pure, they do not become impure even if the lower vessel into which the liquid is poured is impure. The stream of liquid does not link them in this manner.
 
 The *Gemara* now transitions to a *mishnah* from *Machshirin*: *kol hanitzok tahor* — all instances of pouring are *tahor*. The scenario is this: I have a *tamei* carcass, and I am pouring water from a vessel onto it. The water that actually contacts the carcass becomes *tamei* — it is a *rishon*. But what of the water still in the vessel above? Is the stream of water connecting them treated as one unit, rendering the water in the vessel *tamei* as well? The answer is no: the poured liquid does not constitute a single connected unit with the source. Only what actually makes contact becomes *tamei*.
 
 ### Honey Exception
 
+> **Hebrew/Aramaic:** חוּץ מִדְּבַשׁ הַזִּיפִים וְהַצַּפִּיחִית.
+> **Translation:** The mishna adds: This is the case for all liquids **except for *zifim* honey,** a very thick type of honey, **and batter,** e.g., flour mixed with honey. Since these substances are highly viscous, they are not considered liquids. Rather, they are a kind of soft solid food, which means that they are a single unit that links the two vessels with regard to impurity.
+
 The *mishnah* provides exceptions: *chutz midevash hazifim* — except for a very thick type of honey — *v'hatzapichit* — and the waxy cakes of honey that come directly from the beehive. These substances are so thick that they are considered more like a solid, and the normal rule of *nitzok* does not apply to them. They are treated as sufficiently solid — or sufficiently connected — to constitute a single unit.
 
 ### Beit Shammai View
 
-Beit Shammai add: *af hamikpah shel gerisin v'shel pol* — even a thick porridge of oat-groats or lentils can constitute a connected unit, *mipnei shehi soledet leachoreha* — because it "pulls back." What this means is: if you invert the vessel mid-pour, a watery liquid will simply fall away entirely, while something sufficiently viscous will partially retract back into the vessel. That pulling back demonstrates connectedness and coherence. Notably, the term *soledet*, meaning to recoil or pull back, echoes the *shiur* of *yad soledes bo* — the threshold of heat in the laws of cooking on Shabbos, where one's hand recoils from contact. Both uses of the root share the idea of a reactive withdrawal.
+> **Hebrew/Aramaic:** בֵּית שַׁמַּאי אוֹמְרִים: אַף הַמִּקְפָּה שֶׁל גְּרִיסִין וְשֶׁל פּוֹל, מִפְּנֵי שֶׁהִיא סוֹלֶדֶת לַאֲחוֹרֶיהָ.
+> **Translation:** **Beit Shammai say: Even** the stream **of a stew** made of **crushed and broken beans or of whole beans** also connects two items **because it returns backward.** When one stops pouring this stew, part of the dish reverts to its place of origin, and therefore the stream is considered a single unit.
+
+
+Beit Shammai add: *af hamikpah shel gerisin v'shel pol* — even a thick porridge of oat-groats or lentils can constitute a connected unit, *mipnei shehi soledet leachoreha* — because it "pulls back." What this means is: if you invert the vessel mid-pour, a watery liquid will simply fall away entirely, while something sufficiently viscous will partially retract back into the vessel. That pulling back demonstrates connectedness and coherence. Notably, the term *soledet*, meaning to recoil or pull back, echoes the *shiur* of *yad soledes bo* — the threshold of heat in the laws of cooking on Shabbos, where one's hand recoils from contact. Both uses of the root share the idea of a reactive withdrawal. The technical term for this sticky, adhesive quality is *ririn* — a word the *gemara* uses to describe something that does not merely have thickness but actually adheres and pulls back, like tentacles. The distinction matters because there are two possible explanations for why the substances in our *mishnah* are treated as a single connected unit: either it is *mishum ririn* — because of this sticky, clingy quality — or it is *mishum desmichin* — simply because of their great thickness. As the *gemara* will make clear, for Beit Shammai the criterion is unambiguously the former: it is the pulling-back, the *ririn*, that defines connectedness. The open question, which the *gemara* ultimately leaves unresolved, is what the *tanna kamma* holds — whether for the view that mentions only honey, the operative factor is likewise stickiness, or whether sheer thickness alone suffices.
 
 ---
 
 ## Nitzok for Foods
 
+
+
 ### Nitzok Question
 
-> **Hebrew/Aramaic:** בְּעָא מִינֵּיהּ: יֵשׁ נִצּוֹק לְאוֹכְלִין אוֹ אֵין נִצּוֹק לְאוֹכְלִין? כְּגוֹן דְּקָלַיְנוּ בְּנִצּוֹק וְאַזְלוּ לִטְמִאוּת, נִטְמָא רִאשׁוֹן דִּשְׁלִיחוּת — טָמֵא הַנִּשְׁאָר בִּכְלִי אוֹ טָהוֹר?
->
-> **Translation:** § Building on this *mishnah*, the *Gemara* now asks with regard to liquefied food: **Does the principle of *nitzok* apply to foods, or does the principle of *nitzok* not apply to foods?** Specifically, if food becomes liquefied, and one pours the liquefied food out while part of it remains in the vessel, and the poured food becomes impure through contact, does the food remaining in the vessel become impure as well? In other words, are they considered one connected unit? The question turns on which of two principles underlies the *mishnah*'s ruling.
+> **Hebrew/Aramaic:** בָּעֵי רָמֵי בַּר חָמָא: יֵשׁ נִצּוֹק לָאוֹכָלִין, אוֹ אֵין נִצּוֹק לָאוֹכָלִין. מִי אָמְרִינַן מִשּׁוּם דְּאִית בְּהוּ רִירֵי, וְהָנֵי לֵית בְּהוּ רִירֵי. אוֹ דִּלְמָא מִשּׁוּם דִּסְמִיכִין הוּא, וְהָכָא הָא סְמִיכִין?
+> **Translation:** § **Rami bar Ḥama raises a dilemma:** According to the opinion of the Rabbis that in general, poured liquid does not serve to connect, **is there a stream for food, or is there not a stream for food?** If one pours melted food into an impure vessel, does the food which one is pouring become impure? The Gemara explains the two sides of the dilemma: **Do we say** that *zifim* honey and batter connect different items **because they have a flow** that returns backward, **and these** regular foods **do not have a flow** that returns backward? **Or, perhaps** the reason why *zifim* honey and batter connect is **because they are viscous, and here** the melted foodstuffs **are** also **viscous.**
 
 Building on this *mishnah*, the *Gemara* now asks: *yesh nitzok le'ochlin o ein nitzok le'ochlin* — does the principle of *nitzok* apply to foods? Specifically: if something that began as solid food is liquefied — say, ground down or cooked into a thick flowing mass — and then poured onto a source of *tumah*, is the remaining portion in the vessel considered connected to what flows out, or not?
+
+> **Hebrew/Aramaic:** אָמַר רָבָא, תָּא שְׁמַע: חֵלֶב הַמֵּת שֶׁהוּא שָׁלֵם וְהִתִּיכוֹ — טָמֵא, הָיָה מְפוֹרָד וְהִתִּיכוֹ — טָהוֹר. וְאִי סָלְקָא דַעְתָּךְ אֵין נִצּוֹק לָאוֹכָלִין, שָׁלֵם וְהִתִּיכוֹ נָמֵי לִיטְהַר!
+> **Translation:** **Rava said: Come** and **hear** a resolution from the *Tosefta* (*Oholot* 4:3): If there was **fat of a corpse that was whole** and contained an olive-bulk, **and one melted it,** it is **ritually impure.** If from the outset the fat **was separated** into pieces smaller than an olive-bulk, which do not impart impurity, **and one melted it,** so that it combined into an olive-bulk in its melted state, it is **pure. And if it enters your mind** that **there is no stream for food,** even if it was **whole and one melted it, it should also be pure,** as it became liquid and spread throughout the pan. Consequently, each part should be considered separate, which means the food is not the size of an olive-bulk.
 
 ### Two Criteria
 
@@ -246,9 +256,6 @@ For Beit Shammai, the criterion is clearly *riri*: they explicitly speak of the 
 
 ### Fat of Corpse Proof
 
-> **Hebrew/Aramaic:** רָבִינָא אָמַר לְרַב אַשִׁי: תָּא שְׁמַע, בֵּית שַׁמַּאי אוֹמְרִים אַף הַמִּקְפָּה שֶׁל גְּרִיסִין וְשֶׁל עֲדָשִׁים מִשּׁוּם שֶׁהִיא סוֹלֶדֶת לַאֲחוֹרֶיהָ — הָא מִשּׁוּם רִירִי! מִידִי אִרְיָא? הָשָׁם מִשּׁוּם סְמִיכוּת, הָכָא מִשּׁוּם רִירִי.
->
-> **Translation:** Rava brings a proof from a *mishnah*: **Ravina said to Rav Ashi: Come and hear a proof from Beit Shammai — you can see that for Beit Shammai, the criterion is *riri*, stickiness, not mere thickness. The fact that the porridge pulls back is what makes it connected. The *Gemara* deflects: Is that relevant? There, perhaps the *Tanna Kamma*'s honey is about thickness; here, Beit Shammai are about *riri*.** 
 
 Rava brings a proof from a *mishnah*: *cheilev hameis she'hu shaleim, v'hisicho — tamei*. If the fat of a corpse is whole — meaning present in the minimum quantity sufficient for *tumah* — and then liquefied, it remains *tamei*. However, *hayah mefurad v'hisicho — tahor*: if the fat was already separated into pieces individually below the minimum, and then melted together, it is *tahor*. The logic of that second ruling concerns a broader question: can something that lost its *tumah* status by falling below the minimum regain it once the volume is reconstituted? The *mishnah* assumes it cannot, at least for *tumah* through contact.
 
@@ -260,17 +267,15 @@ This challenge is more striking than it may first appear, because the question o
 
 ### Rav Zeira Answer
 
-> **Hebrew/Aramaic:** אָמַר רַב זֵירָא וּמַר בְּרֵיהּ דְּרַב אֲבִינָא: כְּגוֹן דִּבְהַדֵּי דְּמַרְתִּיחָא לָהּ — סָלִיק עַמּוּדָא דְּנוּרָא לִפּוּם דְּמַנָּא, וְקָרַשׁ.
->
-> **Translation:** **Rav Zeira, together with Mar the son of Rav Avina, offers an answer: We are speaking of a case where, in the very process of** liquefying the fat **over a fire, a column of flame reached the opening of the vessel and caused the fat to recongeal** at the surface. In other words, the fat never became fully and stably liquid; in the same moment that the fire melted it, the heat at the opening caused it to solidify again. The whole quantity is therefore treated as congealed and unified.
+> **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא: אֲנָא וּמָר בְּרֵיהּ דְּרָבִינָא תַּרְגֵּימְנָא: הָכָא בְּמַאי עָסְקִינַן — כְּגוֹן דְּבַהֲדֵי דְּמַרְתַּח לֵיהּ, סָלֵיק עַמּוּדָא דְנוּרָא לְפוּמֵּיהּ דְּמָנָא וְקָרֵשׁ, דְּאִיתֵיהּ כּוּלֵּא גַּבֵּי הֲדָדֵי.
+> **Translation:** **Rabbi Zeira said: I and Mar, son of Ravina, explained** it: **With what are we dealing here?** With a case **where as he was heating it, the column of fire rose** from under the pan **to the mouth of the vessel, and** the fat **congealed** there, **so that it was all** present **together,** i.e., there was no stream at all.
 
 Rav Zeira, together with Mar the son of Rav Avina, offers an answer: *kegon debehadei demartach lei, salik amuda denura lefuma demana, vekarash* — we are speaking of a case where, in the very process of liquefying the fat over a fire, a column of flame reached the opening of the vessel and caused the fat to recongeal at the surface. In other words, the fat never became fully and stably liquid; in the same moment that the fire melted it, the heat at the opening caused it to solidify again. The whole quantity is therefore treated as congealed and unified. This is admittedly a forced reading of the *mishnah*'s plain language, which speaks straightforwardly of the fat being liquefied, but Rav Zeira is constraining the case to preserve coherence.
 
 ### Ravina-Ashi Answer
 
-> **Hebrew/Aramaic:** אָמְרִי לֵיהּ לְרַבִּי זֵירָא: אַנְתְּ בַּחֲלוּקֵי דִּבְרָיָא וּמַרְתְּחִי? הָא קָרַשׁ פַּעַם שֵׁנִית!
->
-> **Translation:** The scholars challenged Rav Zeira's answer, noting that even if the fat recongeals once, one could liquefy it again, and the same *halakha* should apply.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי, תָּא שְׁמַע: בֵּית שַׁמַּאי אוֹמְרִים: אַף הַמִּקְפָּה שֶׁל גְּרִיסִין וְשֶׁל פּוֹל — מִפְּנֵי שֶׁהֵן סוֹלְדִין לַאֲחוֹרֵיהֶן. מִידֵּי אִירְיָא? הָתָם, מִשּׁוּם דִּסְמִיכִין. הָכָא, מִשּׁוּם רִירֵי.
+> **Translation:** **Ravina said to Rav Ashi: Come** and **hear** a resolution from the mishna to the question of whether food is considered a stream. **Beit Shammai say: Even** the stream of **a stew made of crushed and broken beans or of whole beans** also connects two items **because it returns backward.** This indicates that the dispute in the mishna is whether or not stew meets the criteria of returning backward, and the Rabbis hold that honey and anything like it, which return backward, are considered a stream. Rav Ashi replied: **Are the cases comparable? There,** in the case of honey, one might suggest it is a stream **because** it **is viscous. Here,** with regard to the stew, the reason Beit Shammai rule stringently is **due to** the **flow,** which returns backward. The Rabbis do not agree that this is a factor at all.
 
 Ravina said to Rav Ashi: come and hear a proof from Beit Shammai — *Beit Shammai omrim af hamikpah shel gerisin v'shel pol mi-she-hen soladin leachoreha* — you can see that for Beit Shammai, the criterion is *riri*, stickiness, not mere thickness. The fact that the porridge pulls back is what makes it connected.
 

@@ -1,6 +1,7 @@
-# Sukkah 50 — Daf Yomi Shiur
-
+[DAF:49b]
 ## Nisuch Hamayim
+
+
 
 ### Perek Overview
 
@@ -8,17 +9,13 @@ We conclude the discussion of the *nisuch hamayim* at the end of the fourth *per
 
 ### Weekday vs Shabbat
 
-> **Hebrew/Aramaic:** כְּמַעֲשֵׂהוּ בַּחוֹל כּוּ׳
->
-> **Translation:** The mishna continues: **As its performance during the week,** so is its performance on Shabbat, except that on Shabbat one would not draw water. Instead, on Shabbat eve, one would fill a golden barrel that was not consecrated and would place it in the Temple chamber, and water would be drawn from there on Shabbat.
-
 The final *Mishna* of the fourth *perek* states that what they did on a weekday, they also did on *Shabbat* — with one logistical adjustment. On a weekday, they would draw water from the spring. On *erev Shabbat*, they would draw the water in advance, fill it into a barrel, and leave it there so that on *Shabbat* morning they could draw from the barrel rather than carry it from outside. The barrel was kept within the *Mikdash*, already positioned for use the next morning.
 
 ### Non-Sanctified Barrel
 
-> **Hebrew/Aramaic:** וְאַמַּאי? נַיְיתֵי בִּמְקוּדֶּשֶׁת! אֲמַר זְעֵירִי: קָסָבַר אֵין שִׁיעוּר לַמַּיִם, וּכְלֵי שָׁרֵת מְקַדְּשִׁין שֶׁלֹּא מִדַּעַת.
->
-> **Translation:** The Gemara asks: **And why** should one do so? **Let** him **bring** the water **in a consecrated** barrel. **Ze'iri said:** The *tanna* in the mishna **holds that there is no** requisite **measure for the water** to be poured for libation, and therefore more than three *log* could be consecrated; **and** that **Temple vessels consecrate** their content if it is fit to be consecrated, even **without intent** to consecrate it.
+> **Hebrew/Aramaic:** כְּמַעֲשֵׂהוּ בַּחוֹל כּוּ׳. וְאַמַּאי? נַיְיתֵי בִּמְקוּדֶּשֶׁת! אֲמַר זְעֵירִי: קָסָבַר אֵין שִׁיעוּר לַמַּיִם, וּכְלֵי שָׁרֵת מְקַדְּשִׁין שֶׁלֹּא מִדַּעַת.
+> **Translation:** § The mishna continues: **As its performance during the week,** so is its performance on Shabbat, except that on Shabbat one would not draw water. Instead, on Shabbat eve, one would fill a golden barrel that was not consecrated and would place it in the Temple chamber, and water would be drawn from there on Shabbat. The Gemara asks: **And why** should one do so? **Let** him **bring** the water **in a consecrated** barrel. **Ze’iri said:** The *tanna* in the mishna **holds that there is no** requisite **measure for the water** to be poured for libation, and therefore more than three *log* could be consecrated; **and** that **Temple vessels consecrate** their content if it is fit to be consecrated, even **without intent** to consecrate it.
+
 
 The *Mishna* specifies that the barrel used was a gold barrel that was *ainah mekudeshes* — non-sanctified. The *Gemara* asks the obvious question: *v'na'avid b'mekudeshes* — why not simply use a sanctified gold barrel? Why insist on a non-sanctified vessel?
 
@@ -32,11 +29,11 @@ And why is *ain shiur l'mayim* also required? Because one might concede that int
 
 It is worth noting that *Tosafot* raises an important question here. Why is the concern specifically about *linah* — invalidation by remaining overnight? The moment one walks outside the *Mikdash* to draw the water, the vessel is outside the Temple precinct, and if it were sanctified it would immediately become invalid through *yotzei* — being removed from the sacred space. The answer is that something cannot become sanctified outside the *Mikdash* in the first place. Sanctification requires the vessel to be inside the *Beit HaMikdash*. Only once the water is brought in does the sanctification take effect — and at that point, the problem of *linah* applies.
 
-### Sanctification Without Intent
+[DAF:50a]
+### Sanctify Without Intent
 
-> **Hebrew/Aramaic:** חִזְקִיָּה אָמַר: כְּלֵי שָׁרֵת אֵין מְקַדְּשִׁין אֶלָּא מִדַּעַת, וּגְזֵירָה שֶׁמָּא יֹאמְרוּ לְדַעַת נִתְקַדְּשׁוּ.
->
-> **Translation:** **Ḥizkiya said: Temple vessels consecrate only with** specific **intent.** Therefore, in theory, one could bring water to the Temple in a consecrated vessel, provided he has no intent to consecrate it. **And** the reason one may not do so is due to **a** rabbinic **decree lest** people **say,** upon seeing the water poured in the morning, that the water **was intentionally consecrated.** In that case, they might draw the mistaken conclusion that remaining overnight does not disqualify liquids for use in libations.
+> **Hebrew/Aramaic:** וְאִי מַיְיתֵי בִּמְקוּדֶּשֶׁת, אִיפְּסִילוּ לְהוּ בְּלִינָה. חִזְקִיָּה אָמַר: כְּלֵי שָׁרֵת אֵין מְקַדְּשִׁין אֶלָּא מִדַּעַת, וּגְזֵירָה שֶׁמָּא יֹאמְרוּ לְדַעַת נִתְקַדְּשׁוּ.
+> **Translation:** **And if he brings** the water **in a consecrated** barrel, the water **will become disqualified** for use in the libation **by remaining overnight,** just as all consecrated items, e.g., offerings, are rendered unfit after remaining overnight. **Ḥizkiya said: Temple vessels consecrate only with** specific **intent.** Therefore, in theory, one could bring water to the Temple in a consecrated vessel, provided he has no intent to consecrate it. **And** the reason one may not do so is due to **a** rabbinic **decree lest** people **say,** upon seeing the water poured in the morning, that the water **was intentionally consecrated.** In that case, they might draw the mistaken conclusion that remaining overnight does not disqualify liquids for use in libations.
 
 Chizkiyya offers a counterargument: *kli shares ein mekadshin ela midaas* — sanctified vessels do not sanctify their contents unless one intends them to do so. According to Chizkiyya, the officiant could stipulate that the water should not be sanctified when it is placed in the barrel on *erev Shabbat*, and this would be effective. If so, there should be no problem using a sanctified barrel — simply stipulate that the sanctification not take effect until morning.
 
@@ -46,16 +43,14 @@ The *Gemara* responds that even granting Chizkiyya's position, there is a rabbin
 
 ### Rav Zeira's Position
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יַנַּאי אָמַר רַבִּי זֵירָא: אֲפִילּוּ תֵּימָא יֵשׁ שִׁיעוּר לַמַּיִם, וּכְלֵי שָׁרֵת אֵין מְקַדְּשִׁין אֶלָּא מִדַּעַת, וּגְזֵירָה שֶׁמָּא יֹאמְרוּ לְקִידּוּשׁ יָדַיִם וְרַגְלַיִם מִלְּאָן.
->
+> **Hebrew/Aramaic:** אָמַר רַבִּי יַנַּאי אָמַר רַבִּי זֵירָא: אֲפִילּוּ תֵּימָא יֵשׁ שִׁיעוּר לַמַּיִם, וּכְלֵי שָׁרֵת אֵין מְקַדְּשִׁין אֶלָּא מִדַּעַת, וּגְזֵירָה שֶׁמָּא יֹאמְרוּ לְקִידּוּשׁ יָדַיִם וְרַגְלַיִם מִלְּאָן.
 > **Translation:** **Rabbi Yannai said** that **Rabbi Zeira said: Even** if **you say that there is a** requisite **measure for the water** to be poured for libation and no more than three *log* can be consecrated, **and** that **Temple vessels consecrate only with intent,** here there is a rabbinic **decree lest they say** the barrel **was filled** with water **for sanctifying the hands and the feet** of the priest, for which there is no measure. Then, when they see the water poured in the morning, they will draw the mistaken conclusion that remaining overnight does not disqualify liquids for use in libations.
 
 Rav Zeira, in the name of Rav Yannai, extends the concern even further. Even if one accepts both of the following propositions — that there is a fixed exact measurement of three *log* for the *nisuch hamayim*, and that *klei shares* do not sanctify without intent — there is still a reason not to use a sanctified barrel. In this scenario one might think: since the barrel obviously contains much more than three *log*, any observer will objectively recognize that the water cannot yet be in the state of a prepared offering, and no one will draw any mistaken conclusions. Rav Zeira answers that even so, there is a concern: *gezeira shema yomru l'kiddush yadayim v'raglayim mela'un* — people will not know why the barrel was filled. They will assume it was filled for the *Kohen Gadol*'s hand-washing the next morning, a practice that had no fixed minimum amount of water, and they will then conclude that sanctified water could be left overnight and used the following day. Thus across all the variants — whether or not there is an exact measurement, whether or not intent matters — there is always grounds for concern about using a sanctified vessel.
 
 ### Uncovered Water Problem
 
-> **Hebrew/Aramaic:** נִשְׁפְּכָה אוֹ נִתְגַּלְּתָה כּוּ׳. וְאַמַּאי? לִיעַבַּיר בִּמְסַנֶּנֶת. לֵימָא מַתְנִיתִין דְּלָא כְּרַבִּי נְחֶמְיָה, דְּתַנְיָא: מְסַנֶּנֶת יֵשׁ בָּהּ מִשּׁוּם גִּילּוּי. אָמַר רַבִּי נְחֶמְיָה: אֵימָתַי — בִּזְמַן שֶׁהַתַּחְתּוֹנָה מְגוּלָּה, אֲבָל בִּזְמַן שֶׁהַתַּחְתּוֹנָה מְכוּסָּה, אַף עַל פִּי שֶׁהָעֶלְיוֹנָה מְגוּלָּה — אֵין בָּהּ מִשּׁוּם גִּילּוּי. מִפְּנֵי שֶׁאֶרֶס נָחָשׁ דּוֹמֶה לִסְפוֹג צָף וְעוֹמֵד בִּמְקוֹמוֹ.
->
+> **Hebrew/Aramaic:** נִשְׁפְּכָה אוֹ נִתְגַּלְּתָה כּוּ׳. וְאַמַּאי? לִיעַבַּיר בִּמְסַנֶּנֶת. לֵימָא מַתְנִיתִין דְּלָא כְּרַבִּי נְחֶמְיָה, דְּתַנְיָא: מְסַנֶּנֶת יֵשׁ בָּהּ מִשּׁוּם גִּילּוּי. אָמַר רַבִּי נְחֶמְיָה: אֵימָתַי — בִּזְמַן שֶׁהַתַּחְתּוֹנָה מְגוּלָּה, אֲבָל בִּזְמַן שֶׁהַתַּחְתּוֹנָה מְכוּסָּה, אַף עַל פִּי שֶׁהָעֶלְיוֹנָה מְגוּלָּה — אֵין בָּהּ מִשּׁוּם גִּילּוּי. מִפְּנֵי שֶׁאֶרֶס נָחָשׁ דּוֹמֶה לִסְפוֹג צָף וְעוֹמֵד בִּמְקוֹמוֹ.
 > **Translation:** § The mishna continues: **If** the water in the barrel **spilled or was exposed** overnight, the water is disqualified. The Gemara asks: **Why** is the water disqualified? **Let him pass it through a strainer,** eliminating the poison. **Let us say that the mishna is not in accordance with** the opinion of **Rabbi Neḥemya, as it was taught** in a *baraita*: A vessel covered **with a strainer is subject to** the *halakha* of **exposure** if the vessel is left unsupervised. **Rabbi Neḥemya said: When** is this so? It is **when the lower vessel,** in which the liquid collects after passing through the strainer, **is exposed. However, if the lower vessel is covered, even if the upper vessel is exposed,** it **is not subject to** the *halakha* of **exposure, because the poison of a snake is like a sponge** in that **it floats and stays in place.**
 
 The *Mishna* further states that if the water drawn on *erev Shabbat* was spilled or left uncovered (*nitgalta*), it could not be used. The *Gemara* focuses on the problem of uncovered water. As is well known from other *Mishnayot*, *mayim megulim* — uncovered liquids — are forbidden out of concern that a snake may have drunk from them and introduced venom.
@@ -64,9 +59,8 @@ The *Gemara* asks: why not pass the uncovered water through a *mesannenet* — a
 
 ### Filter & Sanctity
 
-> **Hebrew/Aramaic:** אֲפִילּוּ תֵּימָא רַבִּי נְחֶמְיָה, אֵימַר דְּאָמַר רַבִּי נְחֶמְיָה לְהֶדְיוֹט, אֲבָל לְגָבוֹהַּ מִי אָמַר? וְלֵית לֵיהּ לְרַבִּי נְחֶמְיָה: ״הַקְרִיבֵהוּ נָא לְפֶחָתֶךָ הֲיִרְצְךָ אוֹ הֲיִשָּׂא פָנֶיךָ אָמַר ה׳ צְבָאוֹת״?!
->
-> **Translation:** The Gemara answers: **Even** if **you say** it is in accordance with the opinion of **Rabbi Neḥemya, say that Rabbi Neḥemya said** his opinion permitting strained water **for a common** person. **However, did he** actually **say** that strained water is permitted even to be sacrificed **to God?** Even if it is possible to render this water potable, it is certainly not of the select quality that would render it eligible for use in the Temple service. **Isn't Rabbi Neḥemya of** the opinion that it is inappropriate to sacrifice on the altar any item that one would not give to someone of prominent stature? As it is stated: "And when you offer the blind for sacrifice, it is no evil; and when you offer the lame and sick, it is no evil. **Present it now unto your governor; will he be pleased with you or will he accept your person, says the Lord of hosts"** (Malachi 1:8).
+> **Hebrew/Aramaic:** אֲפִילּוּ תֵּימָא רַבִּי נְחֶמְיָה, אֵימַר דְּאָמַר רַבִּי נְחֶמְיָה לְהֶדְיוֹט, אֲבָל לְגָבוֹהַּ מִי אָמַר? וְלֵית לֵיהּ לְרַבִּי נְחֶמְיָה: ״הַקְרִיבֵהוּ נָא לְפֶחָתֶךָ הֲיִרְצְךָ אוֹ הֲיִשָּׂא פָנֶיךָ אָמַר ה׳ צְבָאוֹת״?!
+> **Translation:** The Gemara answers: **Even** if **you say** it is in accordance with the opinion of **Rabbi Neḥemya, say that Rabbi Neḥemya said** his opinion permitting strained water **for a common** person. **However, did he** actually **say** that strained water is permitted even to be sacrificed **to God?** Even if it is possible to render this water potable, it is certainly not of the select quality that would render it eligible for use in the Temple service. **Isn’t Rabbi Neḥemya of** the opinion that it is inappropriate to sacrifice on the altar any item that one would not give to someone of prominent stature? As it is stated: “And when you offer the blind for sacrifice, it is no evil; and when you offer the lame and sick, it is no evil. **Present it now unto your governor; will he be pleased with you or will he accept your person, says the Lord of hosts”** (Malachi 1:8).
 
 The *Gemara* answers that even according to Rabbi Nechemia, such water cannot be used for the *nisuch hamayim*. Rabbi Nechemia only permits filtered water for a *hedyot* — an ordinary person. For *gavoah* — for God — would he ever sanction such a thing? The *Gemara* invokes the *pasuk*: *hakrivehu na lefachatecha hayirtzecha o hayissa panecha* — would you bring such a thing before your governor and expect it to find favor? Even if technically the water is safe to drink after filtration, the fact that it had to undergo such a process makes it categorically unacceptable as an offering on the *mizbei'ach*.
 
@@ -76,11 +70,17 @@ There is a deeper point here worth noting. What makes water that has been filter
 
 ## Thematic Integration
 
+
+
 ### Malachi Theme
 
 Before closing the fourth *perek*, it is worth pausing to note a striking structural connection. The third *perek* opened with the *lulav* framed in the language of a *korban*: the *Gemara* there derived the invalidity of a stolen *lulav* from the concept of *mitzvah haba'ah ba'aveirah*, and it did so through a *pasuk*: *ve'heveitem gazul v'et hapiseach v'et hacholeh* — is this the type of thing you want to bring before God? Something stolen, something lame, something sick? Now, the fourth *perek* closes with the same question, invoked against using filtered water for the *nisuch hamayim*: *hakrivehu na lefachatecha hayirtzecha o hayissa panecha*. Not only are these two *pesukim* making the same theological point, they are both drawn from the very same *parasha* — **Malachi, Chapter 1**.
 
 ### Opening & Closing
+
+> **Hebrew/Aramaic:** הֲדַרַן עֲלָךְ לוּלָב וַעֲרָבָה
+> **Translation:** May we return to you Chapter: Lulav and Aravah
+
 
 This is not coincidental. The entire first chapter of Malachi is a *parasha* of God's grievance against the people for the degradation of His service. The opening of the relevant passage reads:
 
@@ -94,29 +94,32 @@ My name is great among the nations — yet look at how you treat Me. And then:
 
 > *V'havetem gazul v'et hapiseach v'et hacholeh v'havetem et hamincha ha'ertzeh otah miyedchem amar Hashem.*
 
+That these two *pesukim* — the one anchoring the third *perek* and the one anchoring the fourth — are not merely making the same point but are drawn from the very same *perek* in Malachi is itself a *chiddush*. It is not that they happen to share a theme by coincidence; they are part of a single sustained prophetic complaint, and the *Gemara* has, in effect, bracketed the entire discussion of *lulav* and *nisuch hamayim* within that complaint.
+
 This context carries a tone of *klalah* — prophetic rebuke — which somewhat complicates the celebratory associations one might initially expect. Yet if *Sukkot* is, at its core, about drawing close to God and continuing the spiritual work initiated on *Yom Kippur*, and if the *lulav*, the *aravah*, the *nisuch hamayim*, and all the *Mikdash* rituals of these *perakim* represent the ideal of offering our very best to God — then the way the third and fourth *perek* are bookended by two *pesukim* from this same *parasha* in Malachi is remarkably powerful. The theme of *Sukkot* — agricultural success, gratitude, joy before God — is inseparable from the question of what is truly worthy to be brought before Him.
 
 ---
 
 ## Simchat Beit HaShoeva
 
-### Fifth Perek Intro
 
-> **Hebrew/Aramaic:** הֶחָלִיל — חֲמִשָּׁה וְשִׁשָּׁה. זֶהוּ הֶחָלִיל שֶׁל בֵּית הַשּׁוֹאֵבָה, שֶׁאֵינוֹ דּוֹחֶה לֹא אֶת הַשַּׁבָּת וְלֹא אֶת יוֹם טוֹב.
->
-> **Translation:** MISHNA: **The flute** is played on the festival of *Sukkot* for **five** or **six** days. **This is the flute of the Place of the Drawing** of the Water, **whose** playing **overrides neither Shabbat nor** the **Festival.** Therefore, if the first Festival day occurred on Shabbat, they would play the flute for six days that year. However, if Shabbat coincided with one of the intermediate days of the Festival, they would play the flute for only five days.
+
+### Fifth Perek Intro
 
 We now open the fifth *perek* of Maseches Sukkah, which concerns the *Simchat Beit HaShoevah* — the all-night celebration that began the evening before the drawing of the water and continued through the night, building toward the morning *nisuch hamayim*.
 
 ### Chalil Schedule
 
+> **Hebrew/Aramaic:** הֶחָלִיל — חֲמִשָּׁה וְשִׁשָּׁה. זֶהוּ הֶחָלִיל שֶׁל בֵּית הַשּׁוֹאֵבָה, שֶׁאֵינוֹ דּוֹחֶה לֹא אֶת הַשַּׁבָּת וְלֹא אֶת יוֹם טוֹב.
+> **Translation:** MISHNA: **The flute** is played on the festival of *Sukkot* for **five** or **six** days. **This is the flute of the Place of the Drawing** of the Water, **whose** playing **overrides neither Shabbat nor** the **Festival.** Therefore, if the first Festival day occurred on Shabbat, they would play the flute for six days that year. However, if Shabbat coincided with one of the intermediate days of the Festival, they would play the flute for only five days.
+
 The *Mishna* states: *hechalil chamishah v'shishah* — the *chalil* (a flute or recorder-like instrument) was played five or six days. This refers to the musical instruments played for the *Simchat Beit HaShoevah*. The *Mishna* continues: *she'einah dochah lo et haShabbat v'lo et Yom Tov* — this music did not override *Shabbat* or *Yom Tov*. Since the *nisuch hamayim* was performed each of the seven days of *Sukkot*, and the *Simchat Beit HaShoevah* celebration began the night before each drawing, one would expect seven nights of celebration. However, since *Yom Tov* itself fell on the first night and the music could not be played then, that eliminated at least one night. If *Shabbat* also fell during *Sukkot*, it too would be excluded — both the musical celebration the night before and the water-drawing itself, since carrying from outside the *Mikdash* on *Shabbat* was not done. Hence the formula: five or six days.
 
+[DAF:50b]
 ### Textual Variants
 
-> **Hebrew/Aramaic:** גְּמָ׳ אִיתְּמַר: רַב יְהוּדָה וְרַב עֵינָא, חַד תָּנֵי: שׁוֹאֵבָה, וְחַד תָּנֵי: חֲשׁוּבָה. אָמַר מָר זוּטְרָא: מַאן דְּתָנֵי שׁוֹאֵבָה לָא מִשְׁתַּבַּשׁ, וּמַאן דְּתָנֵי חֲשׁוּבָה לָא מִשְׁתַּבַּשׁ. מַאן דְּתָנֵי שׁוֹאֵבָה לָא מִשְׁתַּבַּשׁ, דִּכְתִיב: ״וּשְׁאַבְתֶּם מַיִם בְּשָׂשׂוֹן״. וּמַאן דְּתָנֵי חֲשׁוּבָה לָא מִשְׁתַּבַּשׁ, דְּאָמַר רַב נַחְמָן: מִצְוָה חֲשׁוּבָה הִיא, וּבָאָה מִשֵּׁשֶׁת יְמֵי בְּרֵאשִׁית.
->
-> **Translation:** GEMARA: **It was stated** that **Rav Yehuda and Rav Eina** disagreed: **One** of them **teaches** that the celebration was called the Celebration of **Drawing [*sho'eva*] and one** of them **teaches** that it was called the **significant [*ḥashuva*]** celebration. **Mar Zutra said: The one who taught *sho'eva* is not mistaken, and the one who taught *ḥashuva* is not mistaken. The one who taught *sho'eva* is not mistaken, as it is written: "And you shall draw [*ushavtem*] water with joy** from the wells of salvation" (Isaiah 12:3), and its name reflects the fact that it is a celebration of the water libation. **And the one who taught *ḥashuva* is not mistaken, as Rav Naḥman said: It is a significant mitzva and** it originated **from the six days of Creation.**
+> **Hebrew/Aramaic:** גְּמָ׳ אִיתְּמַר: רַב יְהוּדָה וְרַב עֵינָא, חַד תָּנֵי: שׁוֹאֵבָה, וְחַד תָּנֵי: חֲשׁוּבָה. אָמַר מָר זוּטְרָא: מַאן דְּתָנֵי שׁוֹאֵבָה לָא מִשְׁתַּבַּשׁ, וּמַאן דְּתָנֵי חֲשׁוּבָה לָא מִשְׁתַּבַּשׁ. מַאן דְּתָנֵי שׁוֹאֵבָה לָא מִשְׁתַּבַּשׁ, דִּכְתִיב: ״וּשְׁאַבְתֶּם מַיִם בְּשָׂשׂוֹן״. וּמַאן דְּתָנֵי חֲשׁוּבָה לָא מִשְׁתַּבַּשׁ, דְּאָמַר רַב נַחְמָן: מִצְוָה חֲשׁוּבָה הִיא, וּבָאָה מִשֵּׁשֶׁת יְמֵי בְּרֵאשִׁית.
+> **Translation:** GEMARA: **It was stated** that **Rav Yehuda and Rav Eina** disagreed: **One** of them **teaches** that the celebration was called the Celebration of **Drawing [*sho’eva*] and one** of them **teaches** that it was called the **significant [*ḥashuva*]** celebration. **Mar Zutra said: The one who taught *sho’eva* is not mistaken, and the one who taught *ḥashuva* is not mistaken. The one who taught *sho’eva* is not mistaken, as it is written: “And you shall draw [*ushavtem*] water with joy** from the wells of salvation” (Isaiah 12:3), and its name reflects the fact that it is a celebration of the water libation. **And the one who taught *ḥashuva* is not mistaken, as Rav Naḥman said: It is a significant mitzva and** it originated **from the six days of Creation.**
 
 The *Gemara* at the top of 51b records that there were two variant readings of the name of the celebration. One *tanna* read *Shoeva* — the drawing — which is the familiar and intuitive reading, evoking *u'shavtem mayim b'sasson*, the drawing of water with joy. The other *tanna* read *Chashuva* — the important — yielding *Simchat Beit HaChashuva*. This variant is striking evidence of an oral culture: in written form such a confusion would be nearly impossible, but in oral transmission the similarity of *Shoeva* and *Chashuva* could plausibly yield two traditions.
 
@@ -138,19 +141,21 @@ A broader reading presents itself as well. Way back at the beginning of the *mas
 
 ## Musical Instruments
 
-### Chalil on Shabbat
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הֶחָלִיל דּוֹחֶה אֶת הַשַּׁבָּת, דִּבְרֵי רַבִּי יוֹסֵי בַּר יְהוּדָה. וַחֲכָמִים אוֹמְרִים: אַף יוֹם טוֹב אֵינוֹ דּוֹחֶה. אָמַר רַב יוֹסֵף: מַחְלוֹקֶת בְּשִׁיר שֶׁל קׇרְבָּן, דְּרַבִּי יוֹסֵי סָבַר: עִיקַּר שִׁירָה בִּכְלִי, וַעֲבוֹדָה הִיא, וְדוֹחָה אֶת הַשַּׁבָּת. וְרַבָּנַן סָבְרִי: עִיקַּר שִׁירָה בַּפֶּה, וְלָאו עֲבוֹדָה הִיא, וְאֵינָהּ דּוֹחָה אֶת הַשַּׁבָּת. אֲבָל שִׁיר שֶׁל שׁוֹאֵבָה, דִּבְרֵי הַכֹּל שִׂמְחָה הִיא, וְאֵינָהּ דּוֹחָה אֶת הַשַּׁבָּת.
->
-> **Translation:** § **The Sages taught: The flute overrides Shabbat;** this is the **statement of Rabbi Yosei bar Yehuda. And the Rabbis say: It does not override even a Festival. Rav Yosef said: The dispute is with regard to the song that** the Levites sang accompanying **the** daily **offering. As Rabbi Yosei** bar Yehuda **holds** that the **primary** essence of **song** is the accompaniment **by** musical **instruments,** and consequently these instruments **are** a component of the Temple **service and override Shabbat. The Rabbis hold** that the **primary** essence of **song** is singing **with the mouth, and** consequently the instruments **are not** a component of the **service;** they merely accompany the singing on occasion **and** therefore they **do not override Shabbat. However,** with regard to **the song of** the **Drawing** of the Water, **everyone agrees** that **it is rejoicing and** not a component of the Temple service; therefore **it does not override Shabbat.**
+
+### Chalil on Shabbat
 
 The *Gemara* now cites a *tannaitic* dispute: *hachalil docheh et haShabbat* — the *chalil* overrides *Shabbat* — *divrei Rabbi Yose b'Rabbi Yehuda*. The *Chachamim* go further and say: *af Yom Tov eino docheh* — not only does it not override *Shabbat*, it does not override *Yom Tov* either. This appears to be the ruling of our *Mishna*.
 
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הֶחָלִיל דּוֹחֶה אֶת הַשַּׁבָּת, דִּבְרֵי רַבִּי יוֹסֵי בַּר יְהוּדָה. וַחֲכָמִים אוֹמְרִים: אַף יוֹם טוֹב אֵינוֹ דּוֹחֶה. אָמַר רַב יוֹסֵף: מַחְלוֹקֶת בְּשִׁיר שֶׁל קׇרְבָּן, דְּרַבִּי יוֹסֵי סָבַר: עִיקַּר שִׁירָה בִּכְלִי, וַעֲבוֹדָה הִיא, וְדוֹחָה אֶת הַשַּׁבָּת. וְרַבָּנַן סָבְרִי: עִיקַּר שִׁירָה בַּפֶּה, וְלָאו עֲבוֹדָה הִיא, וְאֵינָהּ דּוֹחָה אֶת הַשַּׁבָּת. אֲבָל שִׁיר שֶׁל שׁוֹאֵבָה, דִּבְרֵי הַכֹּל שִׂמְחָה הִיא, וְאֵינָהּ דּוֹחָה אֶת הַשַּׁבָּת.
+> **Translation:** § **The Sages taught: The flute overrides Shabbat;** this is the **statement of Rabbi Yosei bar Yehuda. And the Rabbis say: It does not override even a Festival. Rav Yosef said: The dispute is with regard to the song that** the Levites sang accompanying **the** daily **offering. As Rabbi Yosei** bar Yehuda **holds** that the **primary** essence of **song** is the accompaniment **by** musical **instruments,** and consequently these instruments **are** a component of the Temple **service and override Shabbat. The Rabbis hold** that the **primary** essence of **song** is singing **with the mouth, and** consequently the instruments **are not** a component of the **service;** they merely accompany the singing on occasion **and** therefore they **do not override Shabbat. However,** with regard to **the song of** the **Drawing** of the Water, **everyone agrees** that **it is rejoicing and** not a component of the Temple service; therefore **it does not override Shabbat.**
+
 ### Rav Yosef Distinction
 
-Rav Yosef clarifies what this dispute is actually about. It would be a mistake to think that anyone is suggesting the musical instruments of the *Simchat Beit HaShoevah* celebration — the all-night party — could override *Shabbat*. That was never on the table; it is simply *Simcha*, joy, and not an *avodah*, and no one disputes that it cannot override *Shabbat*. The debate, Rav Yosef says, concerns the *shir shel korban* — the song of the Levites that accompanied the wine libations of the communal obligatory sacrifices, namely the *tamid shel shachar*, the *tamid shel bein ha'arba'ayim*, and the *mussafin*. With every such sacrifice, at the moment of the pouring of the *nesachim*, the Levites would sing — this is the principle of *ein shira ela al ha'yayin*, that song is performed over wine, which is also the basis for performing *kiddush* and *havdalah* over wine. That song was accompanied by musical instruments. The question is whether those instruments, played at the time of the *korban*, constitute an *avodah* that overrides *Shabbat*.
+Rav Yosef clarifies what this dispute is actually about. It would be a mistake to think that anyone is suggesting the musical instruments of the *Simchat Beit HaShoevah* celebration — the all-night party — could override *Shabbat*. That was never on the table; it is simply *Simcha*, joy, and not an *avodah*, and no one disputes that it cannot override *Shabbat*. The debate, Rav Yosef says, concerns the *shir shel korban* — the song of the Levites that accompanied the wine libations of the communal obligatory sacrifices, namely the *tamid shel shachar*, the *tamid shel bein ha'arba'ayim*, and the *mussafin*. With every such sacrifice, at the moment of the pouring of the *nesachim*, the Levites would sing — this is the principle of *ein shira ela al ha'yayin*, that song is performed over wine, which is also the basis for performing *kiddush* and *havdalah* over wine. It is worth noting that while *kiddush* and *havdalah* — and *birchas hamazon* for those who hold it requires wine — are rooted in the *Gemara* itself, the extension of wine to other rituals such as a *bris milah* or the two cups of *eirusin* and *nisu'in* at a wedding is post-*Gemara*, adopted in the *Geonic* period precisely because wine lends weight and ritual significance to an occasion; the underlying logic, however, flows from this same principle of *shir al ha'yayin*. That song was accompanied by musical instruments. The question is whether those instruments, played at the time of the *korban*, constitute an *avodah* that overrides *Shabbat*.
 
 ### Ikar Shira Debate
+
 
 Rav Yosef formulates the underlying issue: *ikar shira b'kli* — is the essence of the *shira* the musical instruments — or *ikar shira b'peh* — is the essence the vocal song, with instruments serving merely as accompaniment?
 
@@ -164,8 +169,7 @@ An important *halachic* note attaches here. The *Rambam* rules *ikar shira b'peh
 
 ### Wooden Vessels Link
 
-> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף: מְנָא אָמֵינָא דִּבְהָא פְּלִיגִי, דְּתַנְיָא: כְּלֵי שָׁרֵת שֶׁעֲשָׂאָן שֶׁל עֵץ, רַבִּי פּוֹסֵל וְרַבִּי יוֹסֵי בַּר יְהוּדָה מַכְשִׁיר. מַאי לָאו בְּהָא קָמִיפַּלְגִי, מַאן דְּמַכְשַׁיר סָבַר: עִיקַּר שִׁירָה בִּכְלִי, וְיָלְפִינַן מֵאַבּוּבָא דְמֹשֶׁה. וּמַאן דְּפָסֵיל סָבַר: עִיקַּר שִׁירָה בַּפֶּה, וְלָא יָלְפִינַן מֵאַבּוּבָא דְמֹשֶׁה.
->
+> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף: מְנָא אָמֵינָא דִּבְהָא פְּלִיגִי, דְּתַנְיָא: כְּלֵי שָׁרֵת שֶׁעֲשָׂאָן שֶׁל עֵץ, רַבִּי פּוֹסֵל וְרַבִּי יוֹסֵי בַּר יְהוּדָה מַכְשִׁיר. מַאי לָאו בְּהָא קָמִיפַּלְגִי, מַאן דְּמַכְשַׁיר סָבַר: עִיקַּר שִׁירָה בִּכְלִי, וְיָלְפִינַן מֵאַבּוּבָא דְמֹשֶׁה. וּמַאן דְּפָסֵיל סָבַר: עִיקַּר שִׁירָה בַּפֶּה, וְלָא יָלְפִינַן מֵאַבּוּבָא דְמֹשֶׁה.
 > **Translation:** **Rav Yosef said: From where do I say that they disagree about this** matter? It is **as it is taught** in a *baraita*: With regard to Temple **service vessels that one crafted of wood, Rabbi** Yehuda HaNasi **deems** them **unfit and Rabbi Yosei bar Yehuda deems** them **fit. What, is it not that they disagree with regard to this** matter? **The one who deems** the wooden vessel **fit holds** that the **primary** essence of **song is** accompaniment **by** musical **instruments, and we derive** that sacred vessels may be crafted of wood **from the** wooden **flute of Moses,** which according to this opinion was a service vessel. **And the one who deems** the wooden vessel **unfit holds** that the **primary** essence of **song** is singing **with the mouth, and** therefore **we do not derive** any *halakha* relevant to service vessels **from the** wooden **flute of Moses,** as according to this opinion it was not a service vessel.
 
 Rav Yosef now explains the source for his interpretation of the *machloket* — namely, that it concerns the *shir shel korban* and the question of *ikar shira b'kli* or *b'peh*. He cites a *Baraita*: if one fashioned *klei shares* — service vessels of the *Mikdash* — from wood, Rabbi invalidates them and Rabbi Yose b'Rabbi Yehuda declares them valid.
@@ -176,9 +180,11 @@ Conversely, *man de'pasel savar ikar shira b'peh* — the one who invalidates wo
 
 ### Impossible Cases Rule
 
-> **Hebrew/Aramaic:** לָא, דְּכוּלֵּי עָלְמָא עִיקַּר שִׁירָה בִּכְלִי, וְהָכָא בְּדָנִין אֶפְשָׁר מִשֶּׁאִי אֶפְשָׁר קָמִיפַּלְגִי. מַאן דְּמַכְשַׁיר סָבַר: דָּנִין אֶפְשָׁר מִשֶּׁאִי אֶפְשָׁר, וּמַאן דְּפָסֵיל סָבַר: לָא דָּנִין אֶפְשָׁר מִשֶּׁאִי אֶפְשָׁר.
->
+> **Hebrew/Aramaic:** לָא, דְּכוּלֵּי עָלְמָא עִיקַּר שִׁירָה בִּכְלִי, וְהָכָא בְּדָנִין אֶפְשָׁר מִשֶּׁאִי אֶפְשָׁר קָמִיפַּלְגִי. מַאן דְּמַכְשַׁיר סָבַר: דָּנִין אֶפְשָׁר מִשֶּׁאִי אֶפְשָׁר, וּמַאן דְּפָסֵיל סָבַר: לָא דָּנִין אֶפְשָׁר מִשֶּׁאִי אֶפְשָׁר.
 > **Translation:** The Gemara rejects this explanation of the *baraita*. **No,** that is not necessarily the matter that they dispute, as one could say **that everyone agrees:** The **primary** essence of **song** is singing accompanied **by** musical **instruments. And here,** it is **with regard to** whether **one derives** the **possible from** the **impossible** that **they disagree.** Can one establish a principle that applies in all cases based on a case with a unique aspect? **The one who deems** wooden service vessels **fit holds that one derives** the **possible,** i.e., Temple service vessels, **from** the **impossible,** i.e., the flute of Moses. Although there was no alternative to crafting the flute of Moses from wood, one may derive from this that sacred service vessels, even when the alternative to craft them from metal exists, may be crafted from wood. **And the one who deems** wooden service vessels **unfit holds that one does not derive the possible from the impossible.**
+
+> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: דְּכוּלֵּי עָלְמָא דְּעִיקַּר שִׁירָה בַּפֶּה, וְאֵין דָּנִין אֶפְשָׁר מִשֶּׁאִי אֶפְשָׁר, וְהָכָא בְּמֵילַף מְנוֹרָה בִּכְלָלֵי וּפְרָטֵי אוֹ בְּרִבּוּיֵי וּמִיעוּטֵי קָא מִיפַּלְגִי. רַבִּי דָּרֵישׁ כְּלָלֵי וּפְרָטֵי, רַבִּי יוֹסֵי בַּר יְהוּדָה דָּרֵישׁ רִיבּוּיֵי וּמִיעוּטֵי.
+> **Translation:** **And if you wish, say** instead in rejection of Rav Yosef’s proof **that everyone agrees that** the **primary** essence of **song** is singing **with the mouth, and one does not derive the possible from the impossible. And here,** it is **with regard to deriving** the *halakhot* of the Temple **candelabrum by means of** the hermeneutic principle of **generalizations and details or by means of** the principle of **amplifications and restrictions that they disagree. Rabbi** Yehuda HaNasi **interprets** verses by means of the principle of **generalizations and details,** and **Rabbi Yosei bar Yehuda interprets** verses by means of the principle of **amplifications and restrictions.**
 
 The *Gemara* now offers a counterproposal: perhaps the two positions in the *machloket* need not map onto the question of *ikar shira b'kli* versus *b'peh* at all. Perhaps *everyone* agrees that *ikar shira b'kli* — the musical instruments are primary — and therefore everyone agrees that the wooden instruments of the Levites were *klei shares*. So what is the debate about wooden *klei shares*?
 
@@ -192,19 +198,15 @@ The *Gemara* then offers a further alternative: *v'ee ba'it eima d'kulei alma d'
 
 ## Hermeneutics & Menorah
 
-### Hermeneutic Methods
 
-> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: דְּכוּלֵּי עָלְמָא דְּעִיקַּר שִׁירָה בַּפֶּה, וְאֵין דָּנִין אֶפְשָׁר מִשֶּׁאִי אֶפְשָׁר, וְהָכָא בְּמֵילַף מְנוֹרָה בִּכְלָלֵי וּפְרָטֵי אוֹ בְּרִבּוּיֵי וּמִיעוּטֵי קָא מִיפַּלְגִי. רַבִּי דָּרֵישׁ כְּלָלֵי וּפְרָטֵי, רַבִּי יוֹסֵי בַּר יְהוּדָה דָּרֵישׁ רִיבּוּיֵי וּמִיעוּטֵי.
->
-> **Translation:** **And if you wish, say** instead in rejection of Rav Yosef's proof **that everyone agrees that** the **primary** essence of **song** is singing **with the mouth, and one does not derive the possible from the impossible. And here,** it is **with regard to deriving** the *halakhot* of the Temple **candelabrum by means of** the hermeneutic principle of **generalizations and details or by means of** the principle of **amplifications and restrictions that they disagree. Rabbi** Yehuda HaNasi **interprets** verses by means of the principle of **generalizations and details,** and **Rabbi Yosei bar Yehuda interprets** verses by means of the principle of **amplifications and restrictions.**
+
+### Hermeneutic Methods
 
 The *Gemara* now introduces the underlying dispute about hermeneutics as applied to the *Menorah*. The *Menorah* functions as the paradigm case for the permissible materials of *klei shares*. The question is: given the *Torah*'s description of the *Menorah*, what can be derived about other *klei shares*? And the answer depends entirely on which hermeneutic system one employs — *klal u'prat* or *ribuy u'miyut*.
 
-### Klal U'Prat Structure
+It is worth pausing to note why the *Menorah* serves as this paradigm at all. The *Menorah* is itself a *kli shares* — the *kli* used for the act of *hadlaka* — though it is admittedly a somewhat surprising candidate, since unlike the portable vessels of the service it occupies a fixed position. Nevertheless, the *Torah*'s description of the *Menorah* and its permissible materials is the text from which the rules governing *klei shares* generally are derived. The *Menorah* was made of gold, and one might initially conclude that the lesson is simply that all *klei shares* must be gold. But that conclusion depends on the hermeneutic one applies, and crucially, it also depends on what alternatives were available for the *Menorah* itself — what one could have used *bidiavad*. The Hasmoneans, as the story goes, fashioned an improvised *menorah* from their iron spears when they entered the *mikdash*, which establishes that *bidiavad* the *Menorah* need not be gold. The full range of alternatives available for the *Menorah* thus defines the range of permissible materials for *klei shares* more broadly — but how one reads that range out of the relevant *pesukim* is precisely where the two hermeneutic systems diverge, as the next section examines in detail.
 
-> **Hebrew/Aramaic:** רַבִּי דָּרֵישׁ כְּלָלֵי וּפְרָטֵי: ״וְעָשִׂיתָ מְנוֹרַת״ — כָּלַל, ״זָהָב טָהוֹר״ — פָּרַט, ״מִקְשָׁה תֵּעָשֶׂה הַמְּנוֹרָה״ — חָזַר וְכָלַל. כְּלָל וּפְרָט וּכְלָל, אִי אַתָּה דָן אֶלָּא כְּעֵין הַפְּרָט. מָה הַפְּרָט מְפוֹרָשׁ שֶׁל מַתֶּכֶת, אַף כֹּל שֶׁל מַתֶּכֶת.
->
-> **Translation:** **Rabbi** Yehuda HaNasi **interprets** the verse "And you shall make a candelabrum of pure gold: of beaten work shall the candelabrum be made" (Exodus 25:31), by means of the principle of **generalizations and details. "And you shall make a candelabrum of,"** is **a generalization,** as the material of the candelabrum is not specified; **"pure gold,"** that is **a detail,** limiting the material exclusively to gold; **"of beaten work shall the candelabrum be made,"** the verse **then generalized** again. The result is **a generalization and a detail and a generalization,** from which **you may deduce** that the verse is referring **only** to items **that are similar to the detail; just as the detail is explicit** that the candelabrum is crafted **from** gold, which is **a metal, so too all** other materials used in crafting the candelabrum must be **of metal.** The candelabrum is a prototype for all other Temple service vessels.
+### Klal U'Prat Structure
 
 The *klal u'prat* system works as follows. When the *Torah* presents a general statement (*klal*) followed by a specific example (*prat*), the principle of *ein baklal ella mah shebaprat* applies: you limit the general to precisely what the specific contains. An illuminating example from *Parshat Ma'aser Sheni*: the *Torah* says *v'natata hakesef b'chol asher te'aveh nafshecha* — you may spend the money on whatever you desire — and then enumerates *bakar u'tzon v'yayin v'shachar* — cattle, sheep, wine, and strong drink — followed by *u'v'chol asher tishalecha nafshecha* — and whatever else you desire. At the *klal-prat* stage (general, then specific), the rule is: I said "anything," but what I really mean is the specific examples that follow. The opening "anything" does not mean literally anything; it is delimited by the *prat*.
 
@@ -212,13 +214,15 @@ When a second *klal* follows, yielding the structure of *klal u'prat u'klal*, th
 
 ### Ribuy U'Miyut Approach
 
-> **Hebrew/Aramaic:** רַבִּי יוֹסֵי בַּר יְהוּדָה, דָּרֵישׁ רִיבּוּיֵי וּמִיעוּטֵי: ״וְעָשִׂיתָ מְנוֹרַת״ — רִיבָּה, ״זָהָב טָהוֹר״ — מִיעֵט, ״מִקְשָׁה תֵּעָשֶׂה הַמְנוֹרָה״ — חָזַר וְרִיבָּה, רִיבָּה וּמִיעֵט וְרִיבָּה — רִיבָּה הַכֹּל. מַאי רַבִּי — רַבִּי כֹּל מִילֵּי, מַאי מַיעֵט — מַיעֵט שֶׁל חֶרֶס.
->
-> **Translation:** **Rabbi Yosei bar Yehuda,** however, who deems wooden Temple service vessels fit, **interprets** verses by means of the principle of **amplifications and restrictions. "And you shall make a candelabrum of,"** is an **amplification,** as the material of the candelabrum is not specified; **"pure gold,"** is a **restriction,** limiting the material exclusively to gold; **"of beaten work shall the candelabrum be made,"** the verse **repeated and amplified.** The result is **amplification and restriction and amplification,** from which one derives **to amplify all** items except for those items most dissimilar to the restriction. **What did** the verse **amplify? It amplified all materials,** even wood. And **what did** the verse **exclude** with this restriction? **It excluded** a candelabrum crafted **of earthenware.**
-
 *Ribuy u'miyut* operates by a different logic. Here the terms are not *klal* (general/specifying) and *prat* (specific), but *ribuy* (inclusive/expanding) and *miyut* (limiting). The crucial difference is that whereas *prat* is specific, *miyut* is merely limiting without being fully specific. This means that at the *ribuy-miyut* stage (the equivalent of the two-step *klal-prat*), one already arrives at the conclusion that the *ribuy u'miyut* system only reaches at the three-step level. That is, a single *miyut* already implies "anything like the example given," not "only exactly the example." When a second *ribuy* follows (*ribuy u'miyut u'ribuy*), the result is all-inclusive except for something completely different in kind. Where *klal u'prat u'klal* produced "anything similar to the *prat*," *ribuy u'miyut u'ribuy* produces "anything except what is entirely unlike."
 
 ### Menorah Application
+
+> **Hebrew/Aramaic:** רַבִּי דָּרֵישׁ כְּלָלֵי וּפְרָטֵי: ״וְעָשִׂיתָ מְנוֹרַת״ — כָּלַל, ״זָהָב טָהוֹר״ — פָּרַט, ״מִקְשָׁה תֵּעָשֶׂה הַמְּנוֹרָה״ — חָזַר וְכָלַל. כְּלָל וּפְרָט וּכְלָל, אִי אַתָּה דָן אֶלָּא כְּעֵין הַפְּרָט. מָה הַפְּרָט מְפוֹרָשׁ שֶׁל מַתֶּכֶת, אַף כֹּל שֶׁל מַתֶּכֶת.
+> **Translation:** **Rabbi** Yehuda HaNasi **interprets** the verse “And you shall make a candelabrum of pure gold: of beaten work shall the candelabrum be made” (Exodus 25:31), by means of the principle of **generalizations and details. “And you shall make a candelabrum of,”** is **a generalization,** as the material of the candelabrum is not specified; **“pure gold,”** that is **a detail,** limiting the material exclusively to gold; **“of beaten work shall the candelabrum be made,”** the verse **then generalized** again. The result is **a generalization and a detail and a generalization,** from which **you may deduce** that the verse is referring **only** to items **that are similar to the detail; just as the detail is explicit** that the candelabrum is crafted **from** gold, which is **a metal, so too all** other materials used in crafting the candelabrum must be **of metal.** The candelabrum is a prototype for all other Temple service vessels.
+
+> **Hebrew/Aramaic:** רַבִּי יוֹסֵי בַּר יְהוּדָה, דָּרֵישׁ רִיבּוּיֵי וּמִיעוּטֵי: ״וְעָשִׂיתָ מְנוֹרַת״ — רִיבָּה, ״זָהָב טָהוֹר״ — מִיעֵט, ״מִקְשָׁה תֵּעָשֶׂה הַמְנוֹרָה״ — חָזַר וְרִיבָּה, רִיבָּה וּמִיעֵט וְרִיבָּה — רִיבָּה הַכֹּל. מַאי רַבִּי — רַבִּי כֹּל מִילֵּי, מַאי מַיעֵט — מַיעֵט שֶׁל חֶרֶס.
+> **Translation:** **Rabbi Yosei bar Yehuda,** however, who deems wooden Temple service vessels fit, **interprets** verses by means of the principle of **amplifications and restrictions. “And you shall make a candelabrum of,”** is an **amplification,** as the material of the candelabrum is not specified; **“pure gold,”** is a **restriction,** limiting the material exclusively to gold; **“of beaten work shall the candelabrum be made,”** the verse **repeated and amplified.** The result is **amplification and restriction and amplification,** from which one derives **to amplify all** items except for those items most dissimilar to the restriction. **What did** the verse **amplify? It amplified all materials,** even wood. And **what did** the verse **exclude** with this restriction? **It excluded** a candelabrum crafted **of earthenware.**
 
 How does this play out with the *Menorah*? The relevant verses present: *ve'asita menorat* (and you shall make a *menorah*) — *klal* / *ribuy* — followed by *zahav tahor* (pure gold) — *prat* / *miyut* — followed by *mikshah tei'aseh hamenorah* (it shall be hammered work, the *menorah* shall be made) — which reopens the general.
 

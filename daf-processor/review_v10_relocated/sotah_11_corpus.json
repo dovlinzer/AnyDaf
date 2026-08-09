@@ -1,0 +1,433 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Intro: Absalom",
+    "candidates": [
+      "Intro: Absalom",
+      "Hair & Pride"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the baraita about Absalom rebelling through his hair and the identification of the king's stone, which is exactly what the 'Intro: Absalom' prose describes, while the 'Hair & Pride' section begins after this content with the moral consequence of being caught by his hair.",
+      "chosen_heading": "Intro: Absalom",
+      "current_heading": "Intro: Absalom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Hair & Pride",
+    "candidates": [
+      "Hair & Pride",
+      "Tree & Death",
+      "David's Lament"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Absalom being caught by his hair as punishment for his pride, which is exactly what the 'Hair & Pride' section's prose discusses, while the sword/Sheol detail is secondary to this main theme and the current placement is correct.",
+      "chosen_heading": "Hair & Pride",
+      "current_heading": "Hair & Pride",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "David's Lament",
+    "candidates": [
+      "Tree & Death",
+      "David's Lament",
+      "Gehinnom & Prayer",
+      "Monument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the eight mentions of 'my son' and explains their significance (seven chambers of Gehinnom, reconnecting head to body, bringing to Olam Haba), which is precisely what the 'David's Lament' section prose describes.",
+      "chosen_heading": "David's Lament",
+      "current_heading": "David's Lament",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Monument",
+    "candidates": [
+      "Gehinnom & Prayer",
+      "Monument",
+      "Children & Wheat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the 'deep counsel' interpretation of 'emek' by Rabbi \u1e24anina bar Pappa \u2014 first applied to Absalom's monument and the Bathsheba prophecy, then paralleled to Joseph's sending from Hebron \u2014 which is precisely the content described in the 'Monument' section's prose.",
+      "chosen_heading": "Monument",
+      "current_heading": "Monument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Children & Wheat",
+    "candidates": [
+      "Children & Wheat",
+      "Miriam Hovers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Absalom's sons, Rav Yitzchak bar Avdimi's explanation about fitness for kingship, and Rav Chisda's tradition about burning another's grain, all of which are explicitly addressed in the 'Children & Wheat' prose section.",
+      "chosen_heading": "Children & Wheat",
+      "current_heading": "Children & Wheat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Miriam Hovers",
+    "candidates": [
+      "Miriam Hovers",
+      "Math: Hour & Days",
+      "Divine Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Abaye-Rava exchange about whether midah keneged midah applies to good deeds (Miriam's case), which is exactly what the 'Miriam Hovers' prose describes in detail.",
+      "chosen_heading": "Miriam Hovers",
+      "current_heading": "Miriam Hovers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Divine Protection",
+    "candidates": [
+      "Math: Hour & Days",
+      "Divine Protection",
+      "New Pharaoh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yitzchak's teaching that the verse 'and his sister stood afar off' alludes to the Divine Presence, which is precisely what the 'Divine Protection' section's prose describes.",
+      "chosen_heading": "Divine Protection",
+      "current_heading": "Divine Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "New Pharaoh",
+    "candidates": [
+      "New Pharaoh",
+      "Water Plan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the dispute about the new king and Pharaoh initiating the plot first \u2014 are explicitly discussed together in the 'New Pharaoh' prose, which covers exactly these two passages in sequence.",
+      "chosen_heading": "New Pharaoh",
+      "current_heading": "New Pharaoh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Water Plan",
+    "candidates": [
+      "Water Plan",
+      "Pot Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the singular 'lo' interpretation, the fire/sword elimination, and the water plan \u2014 are precisely the content described in candidate 0's prose, which covers the 'deal wisely with him' verse, the measure-for-measure reasoning, and the decision to use water.",
+      "chosen_heading": "Water Plan",
+      "current_heading": "Water Plan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Pot Metaphor",
+    "candidates": [
+      "Pot Metaphor",
+      "Three Advisors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Egyptians falling into the sea, Rabbi Elazar's 'pot' interpretation of 'zadu,' and the measure-for-measure drowning \u2014 all of which are explicitly discussed in the 'Pot Metaphor' prose section.",
+      "chosen_heading": "Pot Metaphor",
+      "current_heading": "Pot Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Three Advisors",
+    "candidates": [
+      "Three Advisors",
+      "Brick Ruse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Three Advisors",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Three Advisors passage (Balaam, Job, Yitro) which is exactly what candidate 0's prose discusses in detail.",
+      "second_heading": "Brick Ruse",
+      "second_confidence": "high",
+      "second_reason": "Item 3 about Pharaoh's self-curse ('get him up out of the land') relates to Pharaoh's enslavement schemes and the brick ruse context discussed in candidate 1's prose about the taskmasters and Pharaoh's machinations against Israel.",
+      "current_heading": "Three Advisors",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Brick Ruse",
+    "candidates": [
+      "Brick Ruse",
+      "Pithom/Raamses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly concern the 'brick ruse' passage \u2014 the singular *alav*, the brick mold hung on Pharaoh's neck, the meaning of *sarei misim*, and the singular/plural tension in *lema'an anoto besivlotam* \u2014 which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Brick Ruse",
+      "current_heading": "Brick Ruse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Pithom/Raamses",
+    "candidates": [
+      "Pithom/Raamses",
+      "Purposeless Work",
+      "Multiplying Promise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the meaning of 'miskenot' and the names 'Pithom and Raamses,' which is exactly what the prose under heading 0 ('Pithom/Raamses') addresses in detail.",
+      "chosen_heading": "Pithom/Raamses",
+      "current_heading": "Pithom/Raamses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Multiplying Promise",
+    "candidates": [
+      "Purposeless Work",
+      "Multiplying Promise",
+      "Women's Sustenance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1-5 all discuss the verses about Egyptian affliction and Israelite multiplication/labor (Exodus 1:12-14), which directly matches the 'Multiplying Promise' section's prose about the future-tense formulation of ken yirbeh veken yifrotz and the divine response to oppression, while the remaining items about befarekh and labor types naturally continue this same exegetical passage.",
+      "chosen_heading": "Multiplying Promise",
+      "current_heading": "Multiplying Promise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Women's Sustenance",
+    "candidates": [
+      "Women's Sustenance",
+      "Apple Trees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rav Avira passage about righteous women drawing water, cooking fish, bringing food to husbands in the field, and lying together 'between the sheepfolds' \u2014 exactly the content described in the 'Women's Sustenance' section prose.",
+      "chosen_heading": "Women's Sustenance",
+      "current_heading": "Women's Sustenance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Apple Trees",
+    "candidates": [
+      "Apple Trees",
+      "Ground & Grass"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the birth under the apple tree and God's miraculous care for the newborns (cleansing, nourishment with honey and oil), which is precisely what the 'Apple Trees' prose section discusses in detail.",
+      "chosen_heading": "Apple Trees",
+      "current_heading": "Apple Trees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Ground & Grass",
+    "candidates": [
+      "Ground & Grass",
+      "God Recognition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the miracle of babies being swallowed by the earth, plowed over, sprouting like grass, and then returning home in flocks \u2014 exactly the content discussed in the 'Ground & Grass' prose section.",
+      "chosen_heading": "Ground & Grass",
+      "current_heading": "Ground & Grass",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "God Recognition",
+    "candidates": [
+      "God Recognition",
+      "Shifra & Puah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses children recognizing God at the sea and saying 'This is my God,' which is precisely what the 'God Recognition' section's prose describes.",
+      "chosen_heading": "God Recognition",
+      "current_heading": "God Recognition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Shifra & Puah",
+    "candidates": [
+      "Shifra & Puah",
+      "Birth Signs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the identities of Shifra and Puah, their alternative names, and the baraita supporting the mother-daughter view \u2014 exactly what the 'Shifra & Puah' section prose describes.",
+      "chosen_heading": "Shifra & Puah",
+      "current_heading": "Shifra & Puah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Birth Signs",
+    "candidates": [
+      "Birth Signs",
+      "Refusal & Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the meaning of 'avnayim' \u2014 the birthing stones \u2014 which is precisely what the 'Birth Signs' section prose describes, including both Rabbi \u1e24anan's cold-thighs explanation and the potter's wheel alternative, matching the current placement exactly.",
+      "chosen_heading": "Birth Signs",
+      "current_heading": "Birth Signs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Refusal & Protection",
+    "candidates": [
+      "Refusal & Protection",
+      "Women as Beasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the prose of 'Refusal & Protection,' which explicitly discusses Rabbi Chanina's sign (face down/face up) and Rabbi Yose bar Chanina's teaching about Pharaoh's sexual proposition and the midwives' refusal \u2014 exactly the content of items 1 and 2.",
+      "chosen_heading": "Refusal & Protection",
+      "current_heading": "Refusal & Protection",
+      "moved": false
+    }
+  }
+]

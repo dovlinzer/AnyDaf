@@ -1,0 +1,461 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Boys & Ben Sorer",
+    "candidates": [
+      "Daf Overview",
+      "Girl w/ 2 Hairs",
+      "Chalitzah/Yibbum",
+      "Bat Mitzvah Obligations",
+      "Boys & Ben Sorer",
+      "Beard Development"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses the boy who grew two pubic hairs becoming obligated in all mitzvot and being fit to be declared a ben sorer umoreh until his beard forms a circle, which is precisely what the 'Boys & Ben Sorer' section's prose describes.",
+      "chosen_heading": "Boys & Ben Sorer",
+      "current_heading": "Boys & Ben Sorer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Beard Development",
+    "candidates": [
+      "Beard Development",
+      "Mi'un Right"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the euphemistic use of 'beard' to refer to pubic hair and the sages' use of clean language, which directly matches the 'Beard Development' section's prose about the mishna's euphemistic language and pubic hair development.",
+      "chosen_heading": "Beard Development",
+      "current_heading": "Beard Development",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Mi'un Right",
+    "candidates": [
+      "Mi'un Right",
+      "Michoel's Q",
+      "Rabbi Yosi",
+      "Woman = Man",
+      "Why Spell Out",
+      "Already Taught"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mi'un Right",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna about mi'un and Rabbi Yehuda's dissent, which belongs under 'Mi'un Right' whose prose explicitly discusses exactly this content.",
+      "second_heading": "Michoel's Q",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 are the gemara's question-and-answer chain about why the mishna spells out chalitzah/yibbum and the boy's obligations, matching the sequence of headings 'Michoel's Q', 'Rabbi Yosi', 'Woman = Man', 'Why Spell Out', and 'Already Taught' \u2014 all of which flow continuously from item 2 onward.",
+      "current_heading": "Mi'un Right",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Already Taught",
+    "candidates": [
+      "Michoel's Q",
+      "Rabbi Yosi",
+      "Woman = Man",
+      "Why Spell Out",
+      "Already Taught",
+      "Halakha: R. Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly answers why the mishna elaborated about the boy even though it was unnecessary, which is precisely what the 'Already Taught' section's prose discusses \u2014 the gemara's conclusion that since the mishna spelled out details about the girl, it did so for the boy as well.",
+      "chosen_heading": "Already Taught",
+      "current_heading": "Already Taught",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Halakha: R. Yehuda",
+    "candidates": [
+      "Halakha: R. Yehuda",
+      "Sex = Binding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states 'the halakha is in accordance with Rabbi Yehuda,' which precisely matches the 'Halakha: R. Yehuda' section's prose about Rabbi Abbahu citing Rabbi Elazar that halacha follows Rabbi Yehuda.",
+      "chosen_heading": "Halakha: R. Yehuda",
+      "current_heading": "Halakha: R. Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Sex = Binding",
+    "candidates": [
+      "Sex = Binding",
+      "Minor vs Adult",
+      "Sex Creates Marriage?",
+      "Agunah Cases",
+      "Chavruhei Ruling",
+      "Child on Shoulders",
+      "Beit Midrash Weeps",
+      "Kiddushei Taut",
+      "Ach'eres Case",
+      "Yavne Vote"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sex = Binding",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the concession by Rabbi Yehuda that sex after two pubic hairs ends mi'un rights, which is exactly what the 'Sex = Binding' prose discusses.",
+      "second_heading": "Chavruhei Ruling",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes Rav Kahana's colleagues attempting to rule like Rabbi Yehuda even after intercourse, which is precisely what the 'Chavruhei Ruling' prose describes.",
+      "current_heading": "Sex = Binding",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Yavne Vote",
+    "candidates": [
+      "Minor vs Adult",
+      "Sex Creates Marriage?",
+      "Agunah Cases",
+      "Chavruhei Ruling",
+      "Child on Shoulders",
+      "Beit Midrash Weeps",
+      "Kiddushei Taut",
+      "Ach'eres Case",
+      "Yavne Vote",
+      "Kahana Silenced",
+      "Dissenting Voices",
+      "Troops Deployed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items together narrate the single episode of Rabbi Yishmael's daughter coming to the beit midrash with her child on her shoulders, the weeping, the citation of Rabbi Yishmael's ruling, and the concluding vote \u2014 which is precisely what heading 4 ('Child on Shoulders') introduces, covering Rav Kahana's account of that incident in full, whereas the current placement under 'Yavne Vote' (index 8) only fits the final item.",
+      "chosen_heading": "Child on Shoulders",
+      "current_heading": "Yavne Vote",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Troops Deployed",
+    "candidates": [
+      "Kahana Silenced",
+      "Dissenting Voices",
+      "Troops Deployed",
+      "Two Long Hairs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Yitzchak/disciples acting like Rabbi Yehuda AND the subsequent report to Rabbi Yochanan and Rabbi Yehuda Nesia's response, but candidate 1's prose explicitly introduces this entire narrative unit starting with Rabbi Yitzchak, while candidate 2 ('Troops Deployed') covers only the second half \u2014 the full passage as a single item belongs under candidate 1 which opens with the dissenting action that this passage begins with.",
+      "chosen_heading": "Dissenting Voices",
+      "current_heading": "Troops Deployed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Two Long Hairs",
+    "candidates": [
+      "Troops Deployed",
+      "Two Long Hairs",
+      "Rava: Surrounding",
+      "From Follicles",
+      "Follicles Alone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav \u1e24isda/Mar Ukva's interpretation and Rava's interpretation of 'yarba hashachor,' and the current heading 'Two Long Hairs' prose explicitly discusses both positions together as a unit, making it the correct placement.",
+      "chosen_heading": "Two Long Hairs",
+      "current_heading": "Two Long Hairs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Follicles Alone",
+    "candidates": [
+      "Rava: Surrounding",
+      "From Follicles",
+      "Follicles Alone",
+      "Two Ravs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the Rabbi \u1e24elbo/Rav Huna statement about follicles AND the Rav Malkiyyu/Rav Adda bar Ahava statement, and the 'From Follicles' heading's prose explicitly discusses both statements together as a unit, making it the better fit than the current placement under 'Follicles Alone' which only covers the second statement.",
+      "chosen_heading": "From Follicles",
+      "current_heading": "Follicles Alone",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Two Ravs",
+    "candidates": [
+      "Follicles Alone",
+      "Two Ravs",
+      "Proof from Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are about distinguishing Rav Malkiyyu from Rav Malkiyya \u2014 exactly what the 'Two Ravs' prose describes, including the Rav Chanina sorting principle, Rav Pappa's mnemonic, and the practical difference over maidservants.",
+      "chosen_heading": "Two Ravs",
+      "current_heading": "Two Ravs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Proof from Silence",
+    "candidates": [
+      "Proof from Silence",
+      "Two from One",
+      "Iyov Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi \u1e24anina's challenge (the silence argument) AND Rav Ashi's answer about two hairs from one follicle, and the 'Two from One' prose explicitly describes both the challenge and the defense about 'shtei sa'aros beguma achas,' making it the better match than the 'Proof from Silence' heading which only captures half the passage's content.",
+      "chosen_heading": "Two from One",
+      "current_heading": "Proof from Silence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Iyov Midrash",
+    "candidates": [
+      "Two from One",
+      "Iyov Midrash",
+      "Head vs Body"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Iyov midrash \u2014 Job's blasphemy with the tempest and God's whirlwind response about each hair having its own follicle \u2014 which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Iyov Midrash",
+      "current_heading": "Iyov Midrash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Head vs Body",
+    "candidates": [
+      "Head vs Body",
+      "Different Locations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly resolves the contradiction about shared follicles by distinguishing head hair from body hair, which is exactly what the 'Head vs Body' section's prose describes.",
+      "chosen_heading": "Head vs Body",
+      "current_heading": "Head vs Body",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Different Locations",
+    "candidates": [
+      "Different Locations",
+      "Girl: Varied Spots"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda citing Shmuel about two hairs for a young boy being valid even in different locations (one on the spoon-shaped area, one on the testicles), which exactly matches the 'Different Locations' prose describing this same ruling for a boy.",
+      "chosen_heading": "Different Locations",
+      "current_heading": "Different Locations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Girl: Varied Spots",
+    "candidates": [
+      "Girl: Varied Spots",
+      "R. Shimon's View",
+      "Same Place Only",
+      "Four Opinions",
+      "Meir vs Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three elements discussed in candidates 0, 1, and 2 \u2014 the varied spots baraita, Rabbi Shimon's attribution, and the Rabbis' requirement of same place \u2014 and since it is a single continuous Talmudic unit, it belongs under the current heading 'Girl: Varied Spots' which introduces the baraita that contains all of this content.",
+      "chosen_heading": "Girl: Varied Spots",
+      "current_heading": "Girl: Varied Spots",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Meir vs Yehuda",
+    "candidates": [
+      "R. Shimon's View",
+      "Same Place Only",
+      "Four Opinions",
+      "Meir vs Yehuda",
+      "Yosi Middle",
+      "Ben Shlakot",
+      "Yavne Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita enumerates all four competing opinions (Meir, Yehuda, Yosi, Ben Shelakot) on the duration of mi'un rights, which matches heading 2 ('Four Opinions') that describes a formal enumeration of competing views, rather than heading 3 which only discusses Meir vs Yehuda.",
+      "chosen_heading": "Four Opinions",
+      "current_heading": "Meir vs Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144
+    ],
+    "current_heading": "Yavne Testimony",
+    "candidates": [
+      "Yosi Middle",
+      "Ben Shlakot",
+      "Yavne Testimony",
+      "Akiva Rejects",
+      "Two Hairs Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yavne Testimony",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Chananya ben Chakinai's message to relay to Rabbi Akiva about Ben Shlakot's testimony at Yavne, which is precisely what the 'Yavne Testimony' prose describes.",
+      "second_heading": "Akiva Rejects",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Akiva's dismissive response rejecting the Yavne testimony and reaffirming 'two hairs,' which matches exactly the 'Akiva Rejects' prose.",
+      "current_heading": "Yavne Testimony",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Two Hairs Analogy",
+    "candidates": [
+      "Akiva Rejects",
+      "Two Hairs Analogy",
+      "Bend to Root",
+      "Fingernail Length",
+      "Tweezers Length",
+      "Strict in All Ways"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna introduces the general question of minimum hair length across parah adumah, nega'im, and maturity contexts, which is exactly what the 'Two Hairs Analogy' prose describes as its subject matter.",
+      "chosen_heading": "Two Hairs Analogy",
+      "current_heading": "Two Hairs Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Strict in All Ways",
+    "candidates": [
+      "Bend to Root",
+      "Fingernail Length",
+      "Tweezers Length",
+      "Strict in All Ways",
+      "Back to Niddah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states the ruling 'halacha kedivarei kulam lehachmir,' which is exactly what the 'Strict in All Ways' section's prose discusses and explains.",
+      "chosen_heading": "Strict in All Ways",
+      "current_heading": "Strict in All Ways",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "High Walls Exception",
+    "candidates": [
+      "Ketoret/Nerot Sequence",
+      "Tamid vs. Yoma Authors",
+      "Rabbi Shimon ben Meshulma",
+      "Two Chamber Locations",
+      "R. Eliezer ben Yaakov",
+      "Eliezer's Forgetfulness",
+      "High Walls Exception",
+      "Priest's Position",
+      "Temple Layout Diagram",
+      "Height Calculation",
+      "Soreg to Ezrat Nashim",
+      "Nashim to Yisrael Steps",
+      "Mizbeach to Ulam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is the actual Talmudic text (the mishna from Middot about all walls being high except the eastern wall, for the kohen burning the red heifer to see the heichal entrance) that the 'High Walls Exception' section prose explicitly introduces and describes.",
+      "chosen_heading": "High Walls Exception",
+      "current_heading": "High Walls Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Mizbeach to Ulam",
+    "candidates": [
+      "Priest's Position",
+      "Temple Layout Diagram",
+      "Height Calculation",
+      "Soreg to Ezrat Nashim",
+      "Nashim to Yisrael Steps",
+      "Mizbeach to Ulam",
+      "Challenge to Rabbanan",
+      "Eliezer's Extra Rise"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Soreg to Ezrat Nashim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 assembles mishnaic measurements for the soreg/cheil (12 steps = 6 amot rise), which is precisely what the 'Soreg to Ezrat Nashim' prose describes.",
+      "second_heading": "Nashim to Yisrael Steps",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the fifteen stairs from ezrat nashim to ezrat yisrael (7.5 amot) and the twelve stairs between the ulam and mizbeach (6 amot, cumulative 19.5), matching exactly the 'Nashim to Yisrael Steps' prose which discusses those fifteen steps and the running total of thirteen and a half amot.",
+      "current_heading": "Mizbeach to Ulam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Eliezer's Extra Rise",
+    "candidates": [
+      "Challenge to Rabbanan",
+      "Eliezer's Extra Rise",
+      "Extra Rise Blocks View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose of candidate 0 explicitly describes citing this mishnah with 'v'tenan' and introducing Rabbi Eliezer ben Yaakov's view, which is exactly what this passage does, whereas candidate 1's prose already analyzes and interprets the content of the passage rather than introducing it.",
+      "chosen_heading": "Challenge to Rabbanan",
+      "current_heading": "Eliezer's Extra Rise",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Extra Rise Blocks View",
+    "candidates": [
+      "Eliezer's Extra Rise",
+      "Extra Rise Blocks View",
+      "Low Wall Proves Eliezer",
+      "Rabbi Yehuda Attribution",
+      "Mizbeach Centered Azarah",
+      "Mizbeach Dimensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's argument that if Middot follows Rabbi Eliezer ben Yaakov the concealed entrance is explained, but if it follows the Rabbis half a cubit remains visible \u2014 exactly the content described in candidate 2's prose ('Low Wall Proves Eliezer').",
+      "chosen_heading": "Low Wall Proves Eliezer",
+      "current_heading": "Extra Rise Blocks View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Mizbeach Dimensions",
+    "candidates": [
+      "Low Wall Proves Eliezer",
+      "Rabbi Yehuda Attribution",
+      "Mizbeach Centered Azarah",
+      "Mizbeach Dimensions",
+      "Mizbeach Height Blocks",
+      "Mizbeach Not Centered",
+      "Azarah Dimensions",
+      "North-South Measurements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Items 1-3 form a continuous unit: item 1 presents Rav Adda's claim that Middot follows Rabbi Yehuda, item 2 gives the baraita supporting it, and item 3 immediately challenges that claim by showing Middot's own dimensions contradict Rabbi Yehuda's 'centered altar' position \u2014 which is precisely what candidate 5 ('Mizbeach Not Centered') describes as the gemara's sharp challenge to Rav Adda's proposal.",
+      "chosen_heading": "Mizbeach Not Centered",
+      "current_heading": "Mizbeach Dimensions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "North-South Measurements",
+    "candidates": [
+      "Mizbeach Height Blocks",
+      "Mizbeach Not Centered",
+      "Azarah Dimensions",
+      "North-South Measurements",
+      "Mizbeach South Position",
+      "Final Eliezer Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "North-South Measurements",
+      "first_confidence": "high",
+      "first_reason": "Item 1 gives the north-to-south dimensional breakdown of 135 amot, which is precisely what heading 3 ('North-South Measurements') discusses in its prose.",
+      "second_heading": "Final Eliezer Proof",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the gemara's rhetorical challenge \u2014 if Middot follows Rabbi Yehuda, you cannot find the mizbeach centered \u2014 which is the concluding proof quoted verbatim in heading 5 ('Final Eliezer Proof') and its prose explicitly quotes 'v'ei salka da'atach middot Rabbi Yehuda hi, mizbe'ach be'emtza azara mi meshkachat lah'.",
+      "current_heading": "North-South Measurements",
+      "moved": true
+    }
+  }
+]

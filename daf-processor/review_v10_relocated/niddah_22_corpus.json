@@ -1,0 +1,249 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Natural vs. Foreign",
+    "candidates": [
+      "Shofoferet Question",
+      "Akara Hilchatit",
+      "Natural vs. Foreign",
+      "Rabbi Eliezer vs. Rabbis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yo\u1e25anan/Rabbi Shimon ben Yo\u1e25ai's ruling about a woman who discharges a piece (chaticha) containing accumulated blood, which is precisely the text the 'Natural vs. Foreign' section's prose introduces as a challenge to the shofoferet ruling \u2014 the section explicitly discusses this very ruling and its role in the Gemara's argument.",
+      "chosen_heading": "Natural vs. Foreign",
+      "current_heading": "Natural vs. Foreign",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Rabbi Eliezer vs. Rabbis",
+    "candidates": [
+      "Rabbi Eliezer vs. Rabbis",
+      "Abaye's Resolution",
+      "Three Interpretations",
+      "Rosh's Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous discussion about blood seen through a tube (shofoferet) and blood inside a piece of tissue (chaticha), covering Rabbi Yirmeya's question, Rabbi Zeira's answer, the baraita dispute between Tanna Kama/Rabbi Eliezer/Rabbis, and the nafka minah regarding cracked tissue \u2014 exactly the content described in the 'Rabbi Eliezer vs. Rabbis' prose.",
+      "chosen_heading": "Rabbi Eliezer vs. Rabbis",
+      "current_heading": "Rabbi Eliezer vs. Rabbis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Rosh's Approach",
+    "candidates": [
+      "Abaye's Resolution",
+      "Three Interpretations",
+      "Rosh's Approach",
+      "Semen Expulsion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items cover Abaye's resolution, Rava's alternative explanation, and the makor mekomo tamei principle \u2014 exactly the content described in candidate 2's prose ('Rosh's Approach'), which explicitly discusses Abaye's claim, Rava's angle on 22a, the isha tehorah v'dam tamei / isha tehorah u'makor mekomo tahor dispute, and notes that the shofoferet produces tahorah with no disagreement.",
+      "chosen_heading": "Rosh's Approach",
+      "current_heading": "Rosh's Approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Semen Expulsion",
+    "candidates": [
+      "Semen Expulsion",
+      "Noge'a vs. Roeh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rabba's question about semen extracted with a sliver and Rav Huna's response about chasimat pi ha-amah, which is precisely the content described in the 'Semen Expulsion' prose.",
+      "chosen_heading": "Semen Expulsion",
+      "current_heading": "Semen Expulsion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Noge'a vs. Roeh",
+    "candidates": [
+      "Noge'a vs. Roeh",
+      "Baal Keri Nature",
+      "Zav's Clean Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the question 'is this to say the tum'ah derives from touching (nogei'a)?' and uses the zav's clean days as a proof challenge \u2014 exactly the content described in heading 0's prose, which explicitly states 'the Gemara now calls out' this nogei'a implication and notes the zav analysis 'is taken up in what follows.'",
+      "chosen_heading": "Noge'a vs. Roeh",
+      "current_heading": "Noge'a vs. Roeh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Zav's Clean Days",
+    "candidates": [
+      "Baal Keri Nature",
+      "Zav's Clean Days",
+      "Tosafot View",
+      "Dried Blood Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous dialectical exchange about whether seminal emission during a zav's seven clean days negates one day or all seven, and whether the disruption stems from tzichtzuchei zivah \u2014 exactly the topic described in the 'Zav's Clean Days' prose.",
+      "chosen_heading": "Zav's Clean Days",
+      "current_heading": "Zav's Clean Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Dried Blood Status",
+    "candidates": [
+      "Tosafot View",
+      "Dried Blood Status",
+      "Water Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the question about dried blood (dam yavesh) and the dilemma over whether 'ki yazuv zov damah' requires liquid flow, which matches exactly the prose description in the 'Dried Blood Status' section.",
+      "chosen_heading": "Dried Blood Status",
+      "current_heading": "Dried Blood Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Water Test",
+    "candidates": [
+      "Water Test",
+      "Elazar bar Tzadok"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the exchange about wet vs. dry blood and the concept of 'yavesh meikara,' which is precisely what the 'Water Test' prose section describes.",
+      "chosen_heading": "Water Test",
+      "current_heading": "Water Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Elazar bar Tzadok",
+    "candidates": [
+      "Elazar bar Tzadok",
+      "Dried Blood Conclusion",
+      "Testing Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items directly correspond to the content described in the 'Elazar bar Tzadok' prose: the mishna's water test for shells/hairs/soil/mosquitoes, Rabba's explanation that non-dissolving matter is a distinct entity, and the two cases Rabbi Elazar bar Tzadok's father brought to Yavneh involving shell-like and hair-like expulsions confirmed by doctors.",
+      "chosen_heading": "Elazar bar Tzadok",
+      "current_heading": "Elazar bar Tzadok",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Testing Methods",
+    "candidates": [
+      "Dried Blood Conclusion",
+      "Testing Methods",
+      "Fish-Like Fetus Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the water-testing procedure (lukewarm water, saliva-on-fingernail method, Ravina's distinction, and the twenty-four-hour soaking question with its teiku), which is precisely what the 'Testing Methods' prose describes in detail.",
+      "chosen_heading": "Testing Methods",
+      "current_heading": "Testing Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Fish-Like Fetus Case",
+    "candidates": [
+      "Fish-Like Fetus Case",
+      "Rabbi Yehuda Debate",
+      "Size Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are a continuous discussion about whether Rabbi Yehuda disagrees with the Rabbis in the fish-like discharge case, presenting Reish Lakish's and Rabbi Yo\u1e25anan's competing explanations and their reconciliation \u2014 exactly the content described in the 'Fish-Like Fetus Case' prose.",
+      "chosen_heading": "Fish-Like Fetus Case",
+      "current_heading": "Fish-Like Fetus Case",
+      "moved": false
+    }
+  }
+]

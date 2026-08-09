@@ -44,7 +44,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Resolving the Contradiction: Shabbat as the Rule and Other Aveirot as the Exception",
@@ -87,8 +87,8 @@
           "timestamp": "13:59"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Rav Ami's Teaching: Three Acts of Avoda Zara in One Forgetfulness Yield One Sin Offering",
@@ -121,7 +121,7 @@
           "timestamp": "23:02"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -271,7 +271,7 @@
           "timestamp": "54:22"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 32,
       "matched": true
     },
     {
@@ -305,8 +305,8 @@
           "timestamp": "62:44"
         }
       ],
-      "sefaria_index": 37,
-      "matched": true
+      "sefaria_index": 32,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -661,5 +661,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 29
+  "amud_b_sefaria_index": 29,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "44:11",
+  "amud_b_micro_title": "Tosafot Solution",
+  "shiur_start_daf": 62,
+  "shiur_start_amud": "b"
 }

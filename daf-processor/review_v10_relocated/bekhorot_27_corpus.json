@@ -1,0 +1,408 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Tanya Nami Hachi",
+    "candidates": [
+      "Tanya Nami Hachi",
+      "Shemasru HaKatuv",
+      "Broader Examples",
+      "Thirty/Fifty Days",
+      "Rabbi Yossi's Position",
+      "Reasoning: Small Teeth",
+      "Mishnah's Rule",
+      "Kohen HaMaseya"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Tanya Nami Hachi",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 (Rava's derivation, the sixty-day challenge, and the baraita) all concern the scriptural basis for the ox's extra waiting period and shemasru hakatuv l'Chachamim, matching exactly the 'Tanya Nami Hachi' prose.",
+      "second_heading": "Thirty/Fifty Days",
+      "second_confidence": "high",
+      "second_reason": "Item 4 gives the practical ruling ('mikan amru') about thirty/fifty days and Rabbi Yosei's small-teeth position, matching the 'Thirty/Fifty Days' section's prose about mikan amru and the subsequent Rabbi Yossi and small-teeth sections.",
+      "current_heading": "Tanya Nami Hachi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Kohen HaMaseya",
+    "candidates": [
+      "Shemasru HaKatuv",
+      "Broader Examples",
+      "Thirty/Fifty Days",
+      "Rabbi Yossi's Position",
+      "Reasoning: Small Teeth",
+      "Mishnah's Rule",
+      "Kohen HaMaseya",
+      "Payment Logic",
+      "Baraita Statement",
+      "Institution Desecration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna's rule about the kohen asking for the animal within the waiting period and Rav Sheshet's reason, which is precisely what heading 5 ('Mishnah's Rule') introduces and sets up before heading 6 provides the explanation.",
+      "chosen_heading": "Mishnah's Rule",
+      "current_heading": "Kohen HaMaseya",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Institution Desecration",
+    "candidates": [
+      "Payment Logic",
+      "Baraita Statement",
+      "Institution Desecration",
+      "Real vs. Apparent",
+      "Preventing Appearances",
+      "Work-for-Welfare Question",
+      "Terumot/Ma'asrot vs Work",
+      "Religious Functionaries"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita text directly matches the 'Baraita Statement' section's prose, which explicitly introduces and summarizes this exact baraita about kohanim, leviyim, and poor people assisting at the shepherd's house, threshing floor, and slaughterhouse who may not receive terumah or ma'aser as wages.",
+      "chosen_heading": "Baraita Statement",
+      "current_heading": "Institution Desecration",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Religious Functionaries",
+    "candidates": [
+      "Real vs. Apparent",
+      "Preventing Appearances",
+      "Work-for-Welfare Question",
+      "Terumot/Ma'asrot vs Work",
+      "Religious Functionaries",
+      "Permitted Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items \u2014 the 've'omer' prooftext about death, the rabbinic fine and why it wasn't imposed, and the tovas hana'ah closing note \u2014 are explicitly discussed and explained in the 'Religious Functionaries' prose, making it the clear and correct home for this passage.",
+      "chosen_heading": "Religious Functionaries",
+      "current_heading": "Religious Functionaries",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Permitted Payment",
+    "candidates": [
+      "Permitted Payment",
+      "Prohibited Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "The passage contains both the permitted case (Israelite paying) and the prohibited case (kohen paying), so it spans both headings; current placement under 'Permitted Payment' is acceptable since the baraita begins with the permitted case, but it could equally sit under 'Prohibited Payment' given it includes both rulings.",
+      "chosen_heading": "Permitted Payment",
+      "current_heading": "Permitted Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Prohibited Payment",
+    "candidates": [
+      "Prohibited Payment",
+      "Discretion vs. Object",
+      "Why Only Terumah",
+      "Kedushat HaGuf",
+      "Gifts Without Kedushah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question of why the baraita mentions only terumah and not the other priestly gifts, which is precisely what the 'Why Only Terumah' section's prose introduces.",
+      "chosen_heading": "Why Only Terumah",
+      "current_heading": "Prohibited Payment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Gifts Without Kedushah",
+    "candidates": [
+      "Discretion vs. Object",
+      "Why Only Terumah",
+      "Kedushat HaGuf",
+      "Gifts Without Kedushah",
+      "Terumah Discretion",
+      "Rava's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explains why the priest might err with gifts of kedushat damim \u2014 thinking their sanctity can be redeemed and treating them as non-sacred \u2014 which is precisely the concern about gifts lacking kedushat haguf that the 'Gifts Without Kedushah' section discusses.",
+      "chosen_heading": "Gifts Without Kedushah",
+      "current_heading": "Gifts Without Kedushah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rava's Ruling",
+    "candidates": [
+      "Terumah Discretion",
+      "Rava's Ruling",
+      "Practical Examples",
+      "Betela BeRov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's ruling about teruma from outside Eretz Yisrael lacking the threshing-floor prohibition, which matches exactly the prose in 'Rava's Ruling' (index 1), while the Rav \u1e24ama detail is incidental support for that ruling rather than a standalone practical example warranting placement under 'Practical Examples'.",
+      "chosen_heading": "Rava's Ruling",
+      "current_heading": "Rava's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Betela BeRov",
+    "candidates": [
+      "Practical Examples",
+      "Betela BeRov",
+      "Rabba's Practice",
+      "Two-to-One Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Shmuel's ruling that teruma from outside Eretz Yisrael is nullified by a majority AND Rabba's practice of nullifying it and eating during impurity \u2014 both elements are introduced together in one Gemara statement, and while heading 2 covers Rabba's practice in detail, the current placement under 'Betela BeRov' (index 1) is the best fit since the passage introduces both leniencies together as a unit, matching that section's prose which says 'this opens the door to the next set of leniencies we are about to encounter.'",
+      "chosen_heading": "Betela BeRov",
+      "current_heading": "Betela BeRov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Two-to-One Method",
+    "candidates": [
+      "Rabba's Practice",
+      "Two-to-One Method",
+      "Ochel VeHoleich"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly Rav Huna bar Rav Yehoshua's two-to-one mixing method, which is precisely what the 'Two-to-One Method' section's prose discusses.",
+      "chosen_heading": "Two-to-One Method",
+      "current_heading": "Two-to-One Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Ochel VeHoleich",
+    "candidates": [
+      "Ochel VeHoleich",
+      "Tumah Yotzei Migufo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's statement about eating teruma from outside Eretz Yisrael and separating afterward, which directly matches the 'Ochel VeHoleich' section prose describing exactly this leniency.",
+      "chosen_heading": "Ochel VeHoleich",
+      "current_heading": "Ochel VeHoleich",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Tumah Yotzei Migufo",
+    "candidates": [
+      "Tumah Yotzei Migufo",
+      "Definitions",
+      "Rationale for Institution",
+      "Tightrope Balance",
+      "Eating vs. Touching",
+      "Niddah Challah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Shmuel's principle about terumah chutz la'aretz being forbidden only to one whose tum'ah issues from his body, which is precisely what the 'Tumah Yotzei Migufo' section's prose is discussing and introducing.",
+      "chosen_heading": "Tumah Yotzei Migufo",
+      "current_heading": "Tumah Yotzei Migufo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Niddah Challah Case",
+    "candidates": [
+      "Definitions",
+      "Rationale for Institution",
+      "Tightrope Balance",
+      "Eating vs. Touching",
+      "Niddah Challah Case",
+      "Tosafot's Question",
+      "Burn Alternative",
+      "Two Challot",
+      "Tamei Meis Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains Ravina's ruling about a niddah separating challah, giving it to a minor kohen, burning it if no minor is available, and separating a second challah \u2014 which is precisely what the 'Niddah Challah Case' section's prose describes.",
+      "chosen_heading": "Niddah Challah Case",
+      "current_heading": "Niddah Challah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Tamei Meis Question",
+    "candidates": [
+      "Tosafot's Question",
+      "Burn Alternative",
+      "Two Challot",
+      "Tamei Meis Question",
+      "Rav Nachman Response",
+      "Rav Amram Ruling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tamei Meis Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the narrative setup and the woman's question about tamei meit immersing to eat terumah chutz la'aretz, which is exactly what heading 3 ('Tamei Meis Question') describes.",
+      "second_heading": "Rav Nachman Response",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rav Nachman's response about the absence of parah adumah sprinkling and Rav Amram's ruling, which corresponds to heading 4 ('Rav Nachman Response') \u2014 though notably heading 5 covers Rav Amram's ruling, the structural seam here is that item 2 opens with Rav Nachman's line which is the subject of heading 4.",
+      "current_heading": "Tamei Meis Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Rav Amram Ruling",
+    "candidates": [
+      "Rav Nachman Response",
+      "Rav Amram Ruling",
+      "Tosafot Interpretation",
+      "Inherent Tumah Logic",
+      "Shana Beshana",
+      "Animal's Own Year",
+      "Verse Derivation",
+      "Two Calendar Years",
+      "Two Days One Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Mar Zutra's ruling in the name of Rav Sheshet about tamei sheretz immersing and eating terumah chutz la'aretz, with the conclusion that the halacha does not follow this ruling \u2014 exactly the content described in the 'Rav Amram Ruling' prose which explicitly mentions this parallel statement about tamei sheretz alongside the tamei meit ruling.",
+      "chosen_heading": "Rav Amram Ruling",
+      "current_heading": "Rav Amram Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147,
+      148,
+      149,
+      150,
+      151,
+      152
+    ],
+    "current_heading": "Two Days One Night",
+    "candidates": [
+      "Tosafot Interpretation",
+      "Inherent Tumah Logic",
+      "Shana Beshana",
+      "Animal's Own Year",
+      "Verse Derivation",
+      "Two Calendar Years",
+      "Two Days One Night",
+      "Linked to Shelamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 6 ('Two Days One Night') describes: the derasha of shana beshana establishing the two-day eating period, debei Rav's source for the birthday-year rule (from other korbanot, traced to keves ben shnato via Rav Acha bar Yaakov), and Rav's own derivation of the two-day period from the verse equating the bechor with the breast and thigh of shelamim \u2014 all of which is precisely the content the prose under heading 6 discusses.",
+      "chosen_heading": "Two Days One Night",
+      "current_heading": "Two Days One Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "Linked to Shelamim",
+    "candidates": [
+      "Linked to Shelamim",
+      "Todah Objection",
+      "Lach Yihyeh Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly contains the 'lach yihyeh' verse and the explanation that the Torah adds another 'havayah' (being/ownership) to teach an additional day for the bechor, which is precisely what the 'Lach Yihyeh Response' prose section describes.",
+      "chosen_heading": "Lach Yihyeh Response",
+      "current_heading": "Linked to Shelamim",
+      "moved": true
+    }
+  }
+]

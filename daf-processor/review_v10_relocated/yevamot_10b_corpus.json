@@ -1,0 +1,177 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Chalitzah Then Remarriage",
+    "candidates": [
+      "Nine Dafim Survey",
+      "Stam to Amoraic Disputes",
+      "Chalitzah Then Remarriage",
+      "Reish Lakish Position",
+      "Rabbi Yochanan Position",
+      "Agency & Representation",
+      "Yochanan's Proof",
+      "Lakish Counter"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Chalitzah Then Remarriage",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the Reish Lakish/Rabbi Yochanan exchange about whether the chalitzah-then-remarriage case should appear in the mishnah and the tzarat tzara answer, which is precisely what heading 2 ('Chalitzah Then Remarriage') describes in its prose.",
+      "second_heading": "Reish Lakish Position",
+      "second_confidence": "high",
+      "second_reason": "Items 5-11 present the direct amoraic dispute (itmar) about karet liability for the choleitz who remarries his yevamah, including Reish Lakish's position, Rabbi Yochanan's shlichut reasoning, and the scriptural derivations \u2014 exactly what heading 3 ('Reish Lakish Position') describes as its content.",
+      "current_heading": "Chalitzah Then Remarriage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Lakish Counter",
+    "candidates": [
+      "Reish Lakish Position",
+      "Rabbi Yochanan Position",
+      "Agency & Representation",
+      "Yochanan's Proof",
+      "Lakish Counter",
+      "Rav Ashi Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items form the continuous exchange where Reish Lakish counters Rabbi Yochanan's proof by citing the latter clause of the baraita, and Rav Sheshet proposes a resolution (seifa follows Rabbi Akiva) that is then challenged \u2014 exactly the content described in the 'Lakish Counter' prose.",
+      "chosen_heading": "Lakish Counter",
+      "current_heading": "Lakish Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Rav Ashi Resolution",
+    "candidates": [
+      "Rav Ashi Resolution",
+      "Ravina Resolution",
+      "Yibbum Case Setup",
+      "Rav Acha vs. Ravina",
+      "Rav on Sotah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Rav Ashi Resolution",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20136 resolve the contradiction in the baraita through Rav Ashi's and Ravina's respective positions, exactly matching the prose of candidates 0 and 1 (the passage opens with the summary statement covered under candidate 0, then elaborates both resolutions).",
+      "second_heading": "Rav Acha vs. Ravina",
+      "second_confidence": "high",
+      "second_reason": "Items 7\u20138 introduce the new parallel dispute between Rav A\u1e25a and Ravina about one who has relations with a yevama's rival wife (karet vs. asei), which is precisely the case described in candidate 3's prose.",
+      "current_heading": "Rav Ashi Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Rav on Sotah",
+    "candidates": [
+      "Ravina Resolution",
+      "Yibbum Case Setup",
+      "Rav Acha vs. Ravina",
+      "Rav on Sotah",
+      "Chisda Challenge",
+      "Sotah Categories",
+      "Ashi's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items form one continuous sugya about Rav's ruling that a sotah's rival wife is forbidden from yibbum \u2014 covering the ruling itself (items 1-2), Rav \u1e24isda's objection from Rabbi Shimon's baraita (item 3), Rav's distinction between sotah de-oraita and sotah de-rabbanan (item 4), and the follow-up question about why Rav \u1e24isda raised the objection at all (item 5) \u2014 which is precisely what heading 3 ('Rav on Sotah') describes.",
+      "chosen_heading": "Rav on Sotah",
+      "current_heading": "Rav on Sotah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Ashi's Proof",
+    "candidates": [
+      "Chisda Challenge",
+      "Sotah Categories",
+      "Ashi's Proof",
+      "Definite vs. Suspected",
+      "Pasuk Source",
+      "Yosi ben Kippur"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ashi's Proof",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are Rav Ashi's objection from the sota safek baraita and Rav's response distinguishing sota vaday from sota safek, which matches the 'Ashi's Proof' prose exactly.",
+      "second_heading": "Definite vs. Suspected",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 explore the source of tumah language for sota safek via the machzir gerushato verse and the dispute between Rabbi Yosi ben Kipar and the Rabbis, which matches the 'Definite vs. Suspected' and subsequent headings \u2014 specifically item 3-4 fit 'Definite vs. Suspected' prose about the Rabbis using 'after she was defiled' to include sota she-nistrah.",
+      "current_heading": "Ashi's Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Yosi ben Kippur",
+    "candidates": [
+      "Definite vs. Suspected",
+      "Pasuk Source",
+      "Yosi ben Kippur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Yosei ben Keifar's position that there is no lav for a sotah (even one who definitely fornicated) and the rationale based on havayah ve-ishus, which is precisely what the 'Yosi ben Kippur' section's prose describes.",
+      "chosen_heading": "Yosi ben Kippur",
+      "current_heading": "Yosi ben Kippur",
+      "moved": false
+    }
+  }
+]

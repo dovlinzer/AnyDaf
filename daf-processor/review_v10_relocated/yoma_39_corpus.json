@@ -1,0 +1,389 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Hand Signaling",
+    "candidates": [
+      "Daf 39 Setup",
+      "Tamid Service Review",
+      "Clothing Changes",
+      "Location Setup",
+      "Tarof B'Kalfi",
+      "Sgan & Rosh Beit Av",
+      "Hand Signaling",
+      "Placement on Goats",
+      "L'Hashem Chatat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes exactly the tarof b'kalfi procedure \u2014 mixing the lots, drawing two, and their inscriptions \u2014 which is precisely what candidate 4's prose discusses, while the hand-signaling content (candidate 6) is only the latter half of the mishna.",
+      "chosen_heading": "Tarof B'Kalfi",
+      "current_heading": "Hand Signaling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "L'Hashem Chatat",
+    "candidates": [
+      "Placement on Goats",
+      "L'Hashem Chatat",
+      "Two Goats Theme",
+      "Blood Detergent",
+      "L'Hashem Focus",
+      "Lots Problem",
+      "Why Shake Box",
+      "Box Properties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes placing lots on goats, pronouncing 'lashem chatat', Rabbi Yishmael's opinion about omitting 'chatat', and the congregation's response \u2014 all of which align precisely with the prose of candidate 1, 'L'Hashem Chatat'.",
+      "chosen_heading": "L'Hashem Chatat",
+      "current_heading": "L'Hashem Chatat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Box Properties",
+    "candidates": [
+      "Two Goats Theme",
+      "Blood Detergent",
+      "L'Hashem Focus",
+      "Lots Problem",
+      "Why Shake Box",
+      "Box Properties",
+      "Unsanctified Box",
+      "Rabbi Eliezer View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Why Shake Box",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (the Gemara's question about why the lots are mixed) and Item 2 (Rava's statement about the box being wood, unconsecrated, and only large enough for two hands) are directly discussed under heading 4 'Why Shake Box', which quotes exactly 'lama itraf b'kalfi' and 'ki heichi d'lo nechavein v'lishkol' and notes the two-hand constraint.",
+      "second_heading": "Unsanctified Box",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (Ravina's objection about why the box is unconsecrated, leading to the wood/kli sharet problem and the Torah's concern for Israel's money) matches perfectly with heading 6 'Unsanctified Box', which explicitly discusses 'nikadshe \u2014 let it be sanctified', 'kli sharet d'etz lo avidnan', and 'HaTorah chasa al mamonam shel Yisrael'.",
+      "current_heading": "Box Properties",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Rabbi Eliezer View",
+    "candidates": [
+      "Unsanctified Box",
+      "Rabbi Eliezer View",
+      "Non-Avodah Role",
+      "Hand Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items introduce and elaborate Rabbi Eliezer's view (via Rabbi Yehuda) that both the sgan and Kohen Gadol insert their hands, and the follow-up question about why the rosh beit av rather than the sgan instructs the Kohen Gadol \u2014 all of which is precisely what candidate 1 ('Rabbi Eliezer View') describes in its prose.",
+      "chosen_heading": "Rabbi Eliezer View",
+      "current_heading": "Rabbi Eliezer View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Hand Debate",
+    "candidates": [
+      "Non-Avodah Role",
+      "Hand Debate",
+      "Rabbi Hanania"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's identification of the dispute between the mishnah and baraita regarding whether the sgan's right hand is preferable to the Kohen Gadol's left, which is precisely what the 'Hand Debate' prose describes.",
+      "chosen_heading": "Hand Debate",
+      "current_heading": "Hand Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rabbi Hanania",
+    "candidates": [
+      "Rabbi Hanania",
+      "YK Signs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Hanania Sgan HaKohanim's baraita explaining the Deputy's role standing at the High Priest's right, which is precisely what the prose under 'Rabbi Hanania' describes.",
+      "chosen_heading": "Rabbi Hanania",
+      "current_heading": "Rabbi Hanania",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "YK Signs",
+    "candidates": [
+      "YK Signs",
+      "Decline Begins",
+      "Further Signs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the baraita about the forty years of Shimon HaTzaddik and the subsequent wavering of signs, which is precisely what the 'YK Signs' prose introduces \u2014 the lot, red string, western lamp, and altar fire \u2014 matching the content of both items exactly.",
+      "chosen_heading": "YK Signs",
+      "current_heading": "YK Signs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Further Signs",
+    "candidates": [
+      "Decline Begins",
+      "Further Signs",
+      "Shimon Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the curse on the omer/two loaves/shewbread, the ben hamtzan incident, and the Rabba bar bar Sheila/Rava verses explaining \u1e25amtzan \u2014 are explicitly discussed together in the 'Further Signs' prose, which covers exactly this content in detail.",
+      "chosen_heading": "Further Signs",
+      "current_heading": "Further Signs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Shimon Death",
+    "candidates": [
+      "Shimon Death",
+      "Divine Name"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the narrative of Shimon HaTzaddik's vision and death, which directly matches the 'Shimon Death' section's prose describing the same events in detail.",
+      "chosen_heading": "Shimon Death",
+      "current_heading": "Shimon Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Divine Name",
+    "candidates": [
+      "Divine Name",
+      "Final Forty Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the kohanim refraining from blessing with the divine name after Shimon HaTzaddik's death, which is precisely what the 'Divine Name' section's prose discusses.",
+      "chosen_heading": "Divine Name",
+      "current_heading": "Divine Name",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Final Forty Years",
+    "candidates": [
+      "Final Forty Years",
+      "Lebanon Midrash"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Final Forty Years",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the forty years of bad omens and Rabban Yochanan ben Zakkai's rebuke of the Temple doors, which is precisely what the 'Final Forty Years' prose discusses.",
+      "second_heading": "Lebanon Midrash",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Yitzchak ben Tavlai's etymology of 'Lebanon' as whitening sins, which is the opening of the midrashic coda described in the 'Lebanon Midrash' prose.",
+      "current_heading": "Final Forty Years",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Lebanon Midrash",
+    "candidates": [
+      "Lebanon Midrash",
+      "Ten Utterances"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Temple being called 'forest' (Beit Yaar HaLevanon) and the golden trees planted by Solomon \u2014 exactly what the 'Lebanon Midrash' prose describes.",
+      "chosen_heading": "Lebanon Midrash",
+      "current_heading": "Lebanon Midrash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Ten Utterances",
+    "candidates": [
+      "Ten Utterances",
+      "Voice Range"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ten times the High Priest mentions God's name on Yom Kippur, which is precisely what the 'Ten Utterances' section prose is about.",
+      "chosen_heading": "Ten Utterances",
+      "current_heading": "Ten Utterances",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Voice Range",
+    "candidates": [
+      "Voice Range",
+      "Ketoret Smell"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the High Priest's voice being heard in Jericho, which directly matches the 'Voice Range' section's prose discussing exactly this Talmudic statement about the distance from Jerusalem to Jericho being ten parasangs.",
+      "chosen_heading": "Voice Range",
+      "current_heading": "Voice Range",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Ketoret Smell",
+    "candidates": [
+      "Ketoret Smell",
+      "Ketoret Stories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the sound of the Sanctuary doors, goats sneezing from incense, and women not needing perfume \u2014 all topics directly discussed in the 'Ketoret Smell' prose, which quotes and explains these exact phenomena.",
+      "chosen_heading": "Ketoret Smell",
+      "current_heading": "Ketoret Smell",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Ketoret Stories",
+    "candidates": [
+      "Ketoret Stories",
+      "Rabbi Yannai",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the two aggadic accounts about the scent of ketoret reaching distant places, which matches perfectly with the 'Ketoret Stories' section prose describing exactly these same two accounts.",
+      "chosen_heading": "Ketoret Stories",
+      "current_heading": "Ketoret Stories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Rabbi Yannai",
+      "Rabbi Yochanan",
+      "Order Debate",
+      "Hagralah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yannai's and Rabbi Yochanan's statements as a single unit, and the prose under heading 0 ('Rabbi Yannai') explicitly discusses both opinions together, making it the natural home for the complete quoted text.",
+      "chosen_heading": "Rabbi Yannai",
+      "current_heading": "Rabbi Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Hagralah Status",
+    "candidates": [
+      "Order Debate",
+      "Hagralah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items present the two readings (ikka d'amri) of how the Rabbi Yehudah/Rabbi Nechemia dispute maps onto whether hagralah is meakev \u2014 exactly the content described in the 'Hagralah Status' prose, which explicitly lays out both the first and second readings of this correlation.",
+      "chosen_heading": "Hagralah Status",
+      "current_heading": "Hagralah Status",
+      "moved": false
+    }
+  }
+]

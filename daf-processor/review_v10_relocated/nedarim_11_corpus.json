@@ -1,0 +1,248 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Altar Associations",
+    "candidates": [
+      "Kinnuyim Definition",
+      "Mishna Categories",
+      "Altar Associations",
+      "Yerushalayim Debate",
+      "Miklal Lav Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage lists exactly the altar-associated expressions (ke'imra, kedirim, ke'etzim, etc.) and the rule about accessories of the altar, which is precisely what the 'Altar Associations' prose describes.",
+      "chosen_heading": "Altar Associations",
+      "current_heading": "Altar Associations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Miklal Lav Assumption",
+    "candidates": [
+      "Yerushalayim Debate",
+      "Miklal Lav Assumption",
+      "Rabbi Meir Principle",
+      "Bnei Gad Example",
+      "Rabbi Meir Logic",
+      "Propositional Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening assumption (savruha) that 'lachullin' means 'it shall not be non-sacred but rather an offering,' which is precisely what the 'Miklal Lav Assumption' prose describes as the preliminary interpretation using miklal lav ata shomea hen.",
+      "chosen_heading": "Miklal Lav Assumption",
+      "current_heading": "Miklal Lav Assumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Propositional Logic",
+    "candidates": [
+      "Rabbi Meir Principle",
+      "Bnei Gad Example",
+      "Rabbi Meir Logic",
+      "Propositional Logic",
+      "Mishnah Attribution",
+      "Tosafot Rid Position",
+      "Yad Kinnuy Distinction",
+      "Ran's Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's attempt to attribute the mishna \u2014 first ruling out Rabbi Meir, then tentatively suggesting Rabbi Yehudah, then immediately rejecting that via the 'mideseifa Rabbi Yehudah, reisha lav Rabbi Yehudah' inference \u2014 which is precisely what candidate 4 ('Mishnah Attribution') describes.",
+      "chosen_heading": "Mishnah Attribution",
+      "current_heading": "Propositional Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Ran's Categories",
+    "candidates": [
+      "Mishnah Attribution",
+      "Tosafot Rid Position",
+      "Yad Kinnuy Distinction",
+      "Ran's Categories",
+      "Ki Necessity",
+      "Mishnah Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's assertion that the entire mishna follows Rabbi Yehuda (kulah Rabbi Yehuda hi) and the immediate challenge to that claim, which is precisely what candidate 5 ('Mishnah Attribution') describes \u2014 the resolution of the authorship question by asserting kulah Rabbi Yehuda hi.",
+      "chosen_heading": "Mishnah Attribution",
+      "current_heading": "Ran's Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Mishnah Attribution",
+    "candidates": [
+      "Ki Necessity",
+      "Mishnah Attribution",
+      "Yerushalayim Distinction",
+      "Yerushalayim Scope",
+      "Braita Strictness",
+      "Permissible Formulas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asserts 'kulah Rabbi Yehudah hi' and 'trei tanna'ei aliba d'Rabbi Yehudah,' which is exactly what the 'Mishnah Attribution' prose describes as resolving the authorship question.",
+      "chosen_heading": "Mishnah Attribution",
+      "current_heading": "Mishnah Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Permissible Formulas",
+    "candidates": [
+      "Yerushalayim Distinction",
+      "Yerushalayim Scope",
+      "Braita Strictness",
+      "Permissible Formulas",
+      "Forbidden Formula",
+      "Tosafot Rid Reversal",
+      "Conditional vs. Direct",
+      "Permitted Formula"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita about chulin formulas and the Gemara's analysis of who authored the first clause (Rabbi Meir) and the apparent contradiction with the latter clause \u2014 exactly what heading 3 'Permissible Formulas' describes in its prose.",
+      "chosen_heading": "Permissible Formulas",
+      "current_heading": "Permissible Formulas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Permitted Formula",
+    "candidates": [
+      "Forbidden Formula",
+      "Tosafot Rid Reversal",
+      "Conditional vs. Direct",
+      "Permitted Formula",
+      "Le-Korban Mishna",
+      "Rav Abba Reinterpretation",
+      "Parallel Question",
+      "Braita Author Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Abba's (Rav Abba's) resolution explaining that 'le-korban yehei, lefikach lo ochal lach' applies equally to the lachullin case, which is precisely what the 'Rav Abba Reinterpretation' section's prose describes.",
+      "chosen_heading": "Rav Abba Reinterpretation",
+      "current_heading": "Permitted Formula",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Braita Author Position",
+    "candidates": [
+      "Le-Korban Mishna",
+      "Rav Abba Reinterpretation",
+      "Parallel Question",
+      "Braita Author Position",
+      "Abstract Concept",
+      "Scope Examples",
+      "She-Ani Formula",
+      "Object Focus",
+      "She-Eini Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's answer that the braita's author agrees with Rabbi Meir in rejecting miklal lav ata shomea hen but disagrees regarding the korban case, which is precisely what the 'Braita Author Position' prose describes.",
+      "chosen_heading": "Braita Author Position",
+      "current_heading": "Braita Author Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "She-Eini Question",
+    "candidates": [
+      "Abstract Concept",
+      "Scope Examples",
+      "She-Ani Formula",
+      "Object Focus",
+      "She-Eini Question",
+      "Status List",
+      "Shelamim Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Rav Ashi's resolution distinguishes between 'lachullin' (non-sacred/permitted) and 'la lachullin' (not non-sacred, but like an offering), which directly addresses the tension between the baraita and mishna formulas discussed in the 'She-Eini Question' prose \u2014 specifically the dispute about how to parse the formula and whether it refers to the food object's status or the speaker's action.",
+      "chosen_heading": "She-Eini Question",
+      "current_heading": "She-Eini Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Shelamim Analogy",
+    "candidates": [
+      "Status List",
+      "Shelamim Analogy",
+      "Permitted State",
+      "Live Example",
+      "Status Identity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Status List",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 opens with the mishna's list of tahor/tamei/notar/piggul, then introduces Rami bar \u1e24ama's dilemma \u2014 matching heading 0's prose about the mishna section and heading 1's framing of the shelamim question, but the mishna list itself is what heading 0 discusses, and the dilemma is just being raised here; however, heading 1's prose explicitly describes Rami bar \u1e24ama's question as its topic, so item 1 best fits heading 1 where it currently sits.",
+      "second_heading": "Permitted State",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's clarification that saying 'after blood-sprinkling' means the meat is in its permitted state (be-heteira kamatpis), which is precisely what heading 2's prose describes.",
+      "current_heading": "Shelamim Analogy",
+      "moved": true
+    }
+  }
+]

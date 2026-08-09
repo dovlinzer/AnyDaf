@@ -1,0 +1,430 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Baraita Stricter",
+    "candidates": [
+      "Jewish Midwife/Non-Jew",
+      "Non-Jew Midwife/Jew",
+      "Jewish Nurse/Non-Jew",
+      "Non-Jew Nurse/Jew",
+      "Ramban/Rabbeinu Yonah",
+      "Baraita Stricter",
+      "Crushing Skull",
+      "Infanticide Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita presenting Rabbi Meir's stringent position and the Rabbis' qualification about supervision, which is precisely what the 'Baraita Stricter' section's prose describes in detail.",
+      "chosen_heading": "Baraita Stricter",
+      "current_heading": "Baraita Stricter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Infanticide Story",
+    "candidates": [
+      "Crushing Skull",
+      "Infanticide Story",
+      "Sages Dismiss",
+      "Poison Nipple"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Infanticide Story",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the infanticide story narrative that proves Rabbi Meir's concern, which matches the 'Infanticide Story' section's prose about the midwife boasting of killing Jewish infants.",
+      "second_heading": "Sages Dismiss",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rabbis' dismissal of the midwife's boast as mere angry exaggeration, which precisely matches the 'Sages Dismiss' section's prose about the Sages rejecting the boast as an exaggeration born of anger.",
+      "current_heading": "Infanticide Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Poison Nipple",
+    "candidates": [
+      "Sages Dismiss",
+      "Poison Nipple",
+      "Both Cases Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about nursing restrictions and Rabbi Meir's poison-nipple concern, which is precisely what the 'Poison Nipple' section's prose describes and analyzes.",
+      "chosen_heading": "Poison Nipple",
+      "current_heading": "Poison Nipple",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Both Cases Needed",
+    "candidates": [
+      "Both Cases Needed",
+      "Paid vs. Free"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's u-tzricha argument explaining why both the midwife and wet nurse cases must be stated explicitly, which matches precisely the 'Both Cases Needed' section's prose.",
+      "chosen_heading": "Both Cases Needed",
+      "current_heading": "Both Cases Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Paid vs. Free",
+    "candidates": [
+      "Paid vs. Free",
+      "Eivah & Shabbat",
+      "Abaye Shabbat Reply",
+      "Chatam Sofer/Feinstein",
+      "Paid Nursing",
+      "Abaye Nursing Excuses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Paid vs. Free",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about paid vs. free midwifery and Rav Yosef's enmity resolution, which matches exactly the 'Paid vs. Free' section's prose.",
+      "second_heading": "Eivah & Shabbat",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yosef's attempted extension of eivah to Shabbat delivery, which matches the 'Eivah & Shabbat' section's prose \u2014 but Abaye's rebuttal in item 2 also belongs there since the 'Eivah & Shabbat' and 'Abaye Shabbat Reply' prose together cover this exchange, and item 2 contains both Rav Yosef's Shabbat position and Abaye's reply, making 'Eivah & Shabbat' the better single home as it introduces the topic.",
+      "current_heading": "Paid vs. Free",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Abaye Nursing Excuses",
+    "candidates": [
+      "Eivah & Shabbat",
+      "Abaye Shabbat Reply",
+      "Chatam Sofer/Feinstein",
+      "Paid Nursing",
+      "Abaye Nursing Excuses",
+      "Idolaters & Shepherds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yosef's suggestion that paid nursing is permitted due to eivah and Abaye's rebuttal with the unmarried/married woman excuses, which is exactly what the 'Abaye Nursing Excuses' section prose discusses.",
+      "chosen_heading": "Abaye Nursing Excuses",
+      "current_heading": "Abaye Nursing Excuses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Idolaters & Shepherds",
+    "candidates": [
+      "Idolaters & Shepherds",
+      "Apostates Harsher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue the discussion of Rav Yosef's eivah argument regarding the baraita about gentiles and shepherds of small animals, which is explicitly described in the prose of candidate 0.",
+      "chosen_heading": "Idolaters & Shepherds",
+      "current_heading": "Idolaters & Shepherds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Apostates Harsher",
+    "candidates": [
+      "Apostates Harsher",
+      "Torah Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita taught by Rabbi Abbahu before Rabbi Yochanan distinguishing gentiles/shepherds (lo ma'alin v'lo moridin) from heretics/informers/apostates (moridin v'lo ma'alin), which is precisely what the 'Apostates Harsher' prose describes.",
+      "chosen_heading": "Apostates Harsher",
+      "current_heading": "Apostates Harsher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Torah Obligation",
+    "candidates": [
+      "Torah Obligation",
+      "Appetite vs. Spite"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Yochanan's challenge to Rabbi Abbahu using the verse 'lekhol aveidat achikha' and the conclusion 'semi mikan mumer,' which is precisely what the prose under 'Torah Obligation' describes.",
+      "chosen_heading": "Torah Obligation",
+      "current_heading": "Torah Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Appetite vs. Spite",
+    "candidates": [
+      "Appetite vs. Spite",
+      "Spite God Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about why Rabbi Abbahu didn't distinguish between lete'avon and lehakh'is, and the answer that lehakh'is is classified as a min \u2014 which is precisely what the 'Appetite vs. Spite' prose discusses as its central question.",
+      "chosen_heading": "Appetite vs. Spite",
+      "current_heading": "Appetite vs. Spite",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Spite God Debate",
+    "candidates": [
+      "Spite God Debate",
+      "Insect Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav A\u1e25a and Ravina dispute about whether lehakh'is makes one a mumer or a min, and defines min as an idol worshipper \u2014 exactly the content described in the 'Spite God Debate' prose.",
+      "chosen_heading": "Spite God Debate",
+      "current_heading": "Spite God Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Insect Proof",
+    "candidates": [
+      "Insect Proof",
+      "Why State Lo Maalin",
+      "Ladder Removal",
+      "Lion Excuse",
+      "Tosafot Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about eating a flea/mosquito and the gemara's challenge and response regarding lehakh'is vs. tasting forbidden food, which is exactly what the 'Insect Proof' section's prose describes.",
+      "chosen_heading": "Insect Proof",
+      "current_heading": "Insect Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Tosafot Authority",
+    "candidates": [
+      "Why State Lo Maalin",
+      "Ladder Removal",
+      "Lion Excuse",
+      "Tosafot Authority",
+      "Stone Cover"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full discussion: first asking why 'lo ma'alin' needs to be stated (heading 0's topic), then giving Rav Yosef bar \u1e24ama/Rav Sheshet's answer about scraping the ledge with the pretext about animals \u2014 all in one continuous Talmudic unit that belongs under the introductory 'Why State Lo Maalin' heading rather than split across multiple headings or placed under 'Tosafot Authority'.",
+      "chosen_heading": "Why State Lo Maalin",
+      "current_heading": "Tosafot Authority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Stone Cover",
+    "candidates": [
+      "Tosafot Authority",
+      "Stone Cover",
+      "Child Emergency",
+      "Purpose of Milah",
+      "Meir: Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both Rabba/Rav Yosef's stone-cover case and Ravina's ladder case together, and the Tosafot Authority section's prose is the one that explicitly discusses why an excuse is needed and frames both scenarios as active prevention with a cover story, making it the best unified home for the complete passage \u2014 though the current split across headings 1 and 2 also has some logic.",
+      "chosen_heading": "Tosafot Authority",
+      "current_heading": "Stone Cover",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Meir: Danger",
+    "candidates": [
+      "Child Emergency",
+      "Purpose of Milah",
+      "Meir: Danger",
+      "Sages: Supervised OK",
+      "Knife Slip"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita covering both the Jew-circumcising-gentile rule (for conversion vs. worm) and the gentile-circumcising-Jew rule attributed to Rabbi Meir, and candidate 1 ('Purpose of Milah') introduces exactly this baraita in its entirety, making it the natural home for the complete quoted text before the subsequent candidates break down its components.",
+      "chosen_heading": "Purpose of Milah",
+      "current_heading": "Meir: Danger",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Knife Slip",
+    "candidates": [
+      "Sages: Supervised OK",
+      "Knife Slip",
+      "No Jewish Doctor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rabbis' position (supervised circumcision by a gentile is permitted) AND Rabbi Meir's objection, but the Rabbis' ruling is the primary content that introduces this debate, and the prose under 'Sages: Supervised OK' explicitly discusses this exact Talmudic text including both opinions, while 'Knife Slip' only discusses Rabbi Meir's reasoning \u2014 the full quoted passage belongs under the heading that covers the Rabbis' ruling which opens the passage.",
+      "chosen_heading": "Sages: Supervised OK",
+      "current_heading": "Knife Slip",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "No Jewish Doctor",
+    "candidates": [
+      "Knife Slip",
+      "No Jewish Doctor",
+      "Meir: Non-Jew Yes",
+      "Yehuda: Samaritan Yes",
+      "Gemara Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction baraita about a city with no Jewish doctor and the Samaritan vs. Aramean mohel options, which is exactly what the 'No Jewish Doctor' section's prose describes.",
+      "chosen_heading": "No Jewish Doctor",
+      "current_heading": "No Jewish Doctor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Gemara Reversal",
+    "candidates": [
+      "Meir: Non-Jew Yes",
+      "Yehuda: Samaritan Yes",
+      "Gemara Reversal",
+      "Covenant Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's reversal of Rabbi Meir and Rabbi Yehuda's positions, which is exactly what the 'Gemara Reversal' section's prose discusses.",
+      "chosen_heading": "Gemara Reversal",
+      "current_heading": "Gemara Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Covenant Language",
+    "candidates": [
+      "Covenant Language",
+      "Expert Removes Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehuda's baraita deriving from 've'ata et briti tishmor' that a gentile cannot perform circumcision, which is exactly the covenant-language argument discussed in candidate 0's prose.",
+      "chosen_heading": "Covenant Language",
+      "current_heading": "Covenant Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Expert Removes Danger",
+    "candidates": [
+      "Expert Removes Danger",
+      "Final Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's resolution that Rabbi Meir permits a non-Jewish expert physician/mohel, which is precisely what the 'Expert Removes Danger' prose describes.",
+      "chosen_heading": "Expert Removes Danger",
+      "current_heading": "Expert Removes Danger",
+      "moved": false
+    }
+  }
+]

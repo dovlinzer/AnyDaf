@@ -1,0 +1,305 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Shmuel: Expert Liable",
+    "candidates": [
+      "Butcher Slips: Liability",
+      "Shmuel: Expert Liable",
+      "Mazik vs. Poshe'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage introduces Shmuel's ruling on the expert butcher for the first time, matching heading 0's prose which describes the opening of the sugya and Shmuel's ruling, though heading 1's prose also directly quotes and analyzes the same text \u2014 however heading 0 is the first presentation of this ruling and best matches the introductory framing of the passage.",
+      "chosen_heading": "Butcher Slips: Liability",
+      "current_heading": "Shmuel: Expert Liable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Mazik vs. Poshe'ah",
+    "candidates": [
+      "Mazik vs. Poshe'ah",
+      "Ramban: Agency Theory",
+      "Baraita: Expert Exempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why Shmuel needed to say both 'mazik' and 'poshea,' explaining that 'mazik' alone would only cover paid work while 'poshea' extends liability to unpaid work \u2014 precisely the content discussed in the 'Mazik vs. Poshe'ah' section's prose.",
+      "chosen_heading": "Mazik vs. Poshe'ah",
+      "current_heading": "Mazik vs. Poshe'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Baraita: Expert Exempt",
+    "candidates": [
+      "Ramban: Agency Theory",
+      "Baraita: Expert Exempt",
+      "Shmuel Adopts R. Meir",
+      "Rabbi Meir Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about an expert butcher being exempt versus a non-expert being liable, and the distinction based on payment \u2014 exactly the content described in the 'Baraita: Expert Exempt' section prose.",
+      "chosen_heading": "Baraita: Expert Exempt",
+      "current_heading": "Baraita: Expert Exempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Rabbi Meir Position",
+    "candidates": [
+      "Shmuel Adopts R. Meir",
+      "Rabbi Meir Position",
+      "Tzipori Shochtim Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous Talmudic inquiry into which specific teaching of Rabbi Meir Shmuel was invoking \u2014 the ox tied with reins, the dyer, and finally the broken pitcher/fallen camel \u2014 which is precisely what the 'Rabbi Meir Position' prose describes in detail.",
+      "chosen_heading": "Rabbi Meir Position",
+      "current_heading": "Rabbi Meir Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Tzipori Shochtim Case",
+    "candidates": [
+      "Tzipori Shochtim Case",
+      "Free vs. Paid Status",
+      "R. Zeira: Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the content described in candidate 0's prose: Rabbi Yochanan's ruling about expert butchers liable even as accomplished as the shochtim of Tzipori, immediately followed by the contradicting incident at the synagogue of Maon \u2014 the precise tension that candidate 0's prose discusses.",
+      "chosen_heading": "Tzipori Shochtim Case",
+      "current_heading": "Tzipori Shochtim Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "R. Zeira: Payment",
+    "candidates": [
+      "Free vs. Paid Status",
+      "R. Zeira: Payment",
+      "Rav's Dual Approach",
+      "Court Ruling Unity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the free vs. paid resolution with Rabbi Zeira's practical ruling and the baraita challenge with its emendation \u2014 are precisely the content described in the 'R. Zeira: Payment' prose, which covers exactly these two moves: Rabbi Zeira's dinar advance, the baraita's 'ke-nosei sachar' language, and the gemara's emendation removing the kaf.",
+      "chosen_heading": "R. Zeira: Payment",
+      "current_heading": "R. Zeira: Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Court Ruling Unity",
+    "candidates": [
+      "Rav's Dual Approach",
+      "Court Ruling Unity",
+      "Dual Benefit Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous gemara discussion about whether Rav Kahana and Rav Assi's 'tartei' comment was permitted, including the baraita about court confidentiality \u2014 exactly what heading 1 ('Court Ruling Unity') describes in its prose.",
+      "chosen_heading": "Court Ruling Unity",
+      "current_heading": "Court Ruling Unity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Dual Benefit Logic",
+    "candidates": [
+      "Dual Benefit Logic",
+      "Coin Authenticity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the 'two favorable rulings' conclusion (tartei lema'alyuta) about avoiding sefek issura and sefek gezeila, which is precisely what the 'Dual Benefit Logic' prose describes as the gemara's conclusion.",
+      "chosen_heading": "Dual Benefit Logic",
+      "current_heading": "Dual Benefit Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Coin Authenticity",
+    "candidates": [
+      "Coin Authenticity",
+      "Expert Exemption Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial case of showing a dinar to a money changer and the two competing baraitot, which is precisely what the 'Coin Authenticity' section's prose describes.",
+      "chosen_heading": "Coin Authenticity",
+      "current_heading": "Coin Authenticity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Expert Exemption Limits",
+    "candidates": [
+      "Expert Exemption Limits",
+      "R. Chiya Acts Generously"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rav Pappa's distinction regarding Dankhu and Issur and the new coin press directly matches the prose under 'Expert Exemption Limits,' which discusses exactly this content.",
+      "chosen_heading": "Expert Exemption Limits",
+      "current_heading": "Expert Exemption Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "R. Chiya Acts Generously",
+    "candidates": [
+      "R. Chiya Acts Generously",
+      "Spirit vs. Letter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the woman presenting the dinar to Rabbi \u1e24iyya and his subsequent exchange of the coin \u2014 the narrative event that candidate 0's prose explicitly discusses as the setup before the 'Spirit vs. Letter' analysis begins.",
+      "chosen_heading": "R. Chiya Acts Generously",
+      "current_heading": "R. Chiya Acts Generously",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Spirit vs. Letter",
+    "candidates": [
+      "Spirit vs. Letter",
+      "Express Reliance",
+      "Reliance Disputed",
+      "Grama Doctrine Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly support the 'Spirit vs. Letter' section's discussion of lifnim mishurat hadin and the Rav Yosef teaching on Exodus 18:20, which the prose explicitly quotes and analyzes in detail.",
+      "chosen_heading": "Spirit vs. Letter",
+      "current_heading": "Spirit vs. Letter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Grama Doctrine Intro",
+    "candidates": [
+      "Express Reliance",
+      "Reliance Disputed",
+      "Grama Doctrine Intro",
+      "Dyer Case: Direct Act",
+      "Vine/Wheat: Kilayim",
+      "Fallen Wall: Inaction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain: Reish Lakish's reliance statement, Rabbi Elazar's grama challenge, confirmation that we rule like Rabbi Meir on dina degarmi, and the gemara's search for which Rabbi Meir teaching establishes this \u2014 all of which is precisely what heading 2 ('Grama Doctrine Intro') describes in its prose.",
+      "chosen_heading": "Grama Doctrine Intro",
+      "current_heading": "Grama Doctrine Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Fallen Wall: Inaction",
+    "candidates": [
+      "Dyer Case: Direct Act",
+      "Vine/Wheat: Kilayim",
+      "Fallen Wall: Inaction",
+      "Dinei Degarmi Framework",
+      "Grama vs. Garmi"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vine/Wheat: Kilayim",
+      "first_confidence": "high",
+      "first_reason": "Items 1 concerns the kilayim mishnah where one drapes a vine over another's grain and is rejected as a source because it involves direct action \u2014 exactly what candidate 1 ('Vine/Wheat: Kilayim') describes.",
+      "second_heading": "Fallen Wall: Inaction",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the baraita about a vineyard partition that broke open, where liability arises from inaction/failure to repair \u2014 precisely the case described in candidate 2 ('Fallen Wall: Inaction').",
+      "current_heading": "Fallen Wall: Inaction",
+      "moved": true
+    }
+  }
+]

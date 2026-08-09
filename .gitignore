@@ -24,3 +24,15 @@ DerivedData/
 
 # Backup directories (may contain old secrets)
 _backup_*/
+
+# daf-processor pipeline backup files (safety-net copies, no long-term value in history)
+*.bak_pass3
+*.bak_before_v10_promotion
+*.bak_before_divider_fix
+*.bak_before_divider_fix_rerun/
+*.bak_before_srt_refix
+*.bak_before_prev_blockquote_restore
+*.bak_before_manual_move
+*.bak_before_3way_split
+__pycache__/
+*.pyc

@@ -1,0 +1,369 @@
+[
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Standard Structure",
+    "candidates": [
+      "Definition of Sirchos",
+      "Leit Lehu Bdika",
+      "Kesidra vs. Shelo Kesidra",
+      "Rashi: Healing, Lobes",
+      "Tosafot: Future vs Now",
+      "Uma Connection Issue",
+      "Rabbeinu Tam Stringency",
+      "Two Blisters: Hole Test",
+      "Standard Structure",
+      "Extra Lobes Problem",
+      "Mareimar Extra Lobe Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage describes Rava's statement about the five lobes of the lung, their orientation relative to a person, and the treifah status for missing, extra, or switched lobes \u2014 exactly what the 'Standard Structure' section's prose discusses.",
+      "chosen_heading": "Standard Structure",
+      "current_heading": "Standard Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Mareimar Extra Lobe Case",
+    "candidates": [
+      "Extra Lobes Problem",
+      "Mareimar Extra Lobe Case",
+      "Red Boat Condition",
+      "Beini & Wild Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly narrates the Mareimar extra lobe case \u2014 Rav Acha at the door, the owner's report, and Mareimar's final ruling \u2014 which is exactly what the 'Mareimar Extra Lobe Case' prose section describes.",
+      "chosen_heading": "Mareimar Extra Lobe Case",
+      "current_heading": "Mareimar Extra Lobe Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Beini & Wild Animals",
+    "candidates": [
+      "Red Boat Condition",
+      "Beini & Wild Animals",
+      "Face of Lung Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the rule that an extra lobe is permitted only when it stands in line with the other lobes but is a tereifa if it is 'in between' \u2014 this is precisely the rule that candidate 0's prose discusses and introduces, not the follow-up case (beini beini before Rav Ashi) discussed in candidate 1.",
+      "chosen_heading": "Red Boat Condition",
+      "current_heading": "Beini & Wild Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Face of Lung Exception",
+    "candidates": [
+      "Beini & Wild Animals",
+      "Face of Lung Exception",
+      "Chopped Wood (Ufta)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the inside/outside distinction that heading 1 ('Face of Lung Exception') explicitly discusses \u2014 item 1 ends with 'migavai' (inside) and item 2 gives the 'agabai' (outside/back) rule, exactly what that section's prose describes.",
+      "chosen_heading": "Face of Lung Exception",
+      "current_heading": "Face of Lung Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Chopped Wood (Ufta)",
+    "candidates": [
+      "Chopped Wood (Ufta)",
+      "Blue vs. Black"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rafram's ruling about a lung resembling 'ufta' (chopped wood) and the various interpretations, which is exactly what the 'Chopped Wood (Ufta)' section's prose elaborates on.",
+      "chosen_heading": "Chopped Wood (Ufta)",
+      "current_heading": "Chopped Wood (Ufta)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Blue vs. Black",
+    "candidates": [
+      "Blue vs. Black",
+      "Red & Green Kosher",
+      "Red = Excess Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's ruling about blue (kechuchla) vs. black (kediyusa) lung coloration and Rabbi \u1e24anina's statement about black blood, which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Blue vs. Black",
+      "current_heading": "Blue vs. Black",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Red = Excess Blood",
+    "candidates": [
+      "Red & Green Kosher",
+      "Red = Excess Blood",
+      "Green: Insufficient Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces both the green and red lung rulings together and attributes both to Rabbi Natan's story, which matches heading 0's prose that explicitly discusses both red and green kosher rulings derived from Rabbi Natan's stories, whereas heading 1 only covers the red/excess blood interpretation and heading 2 covers green/insufficient blood.",
+      "chosen_heading": "Red & Green Kosher",
+      "current_heading": "Red = Excess Blood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Green: Insufficient Blood",
+    "candidates": [
+      "Red = Excess Blood",
+      "Green: Insufficient Blood",
+      "Liver vs. Flesh Color"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Natan's encounter in Cappadocia with a green (yarok) child lacking sufficient blood for circumcision, which is precisely what candidate 1's prose discusses.",
+      "chosen_heading": "Green: Insufficient Blood",
+      "current_heading": "Green: Insufficient Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Liver vs. Flesh Color",
+    "candidates": [
+      "Liver vs. Flesh Color",
+      "Yellow vs. Green Hues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rav Kahana's ruling comparing lung color to liver (kosher) vs. flesh (treifa), which is precisely what the 'Liver vs. Flesh Color' section's prose discusses.",
+      "chosen_heading": "Liver vs. Flesh Color",
+      "current_heading": "Liver vs. Flesh Color",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Yellow vs. Green Hues",
+    "candidates": [
+      "Yellow vs. Green Hues",
+      "Obstruction Testing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses yellow vs. green lung colorations (dodder, saffron, egg yolk vs. leek), which is precisely what the 'Yellow vs. Green Hues' section's prose addresses.",
+      "chosen_heading": "Yellow vs. Green Hues",
+      "current_heading": "Yellow vs. Green Hues",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Obstruction Testing",
+    "candidates": [
+      "Obstruction Testing",
+      "Membrane Coverage",
+      "Whistling Lung Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ravina's ruling about a sealed/obstructed area in the lung and the knife-cutting and feather/saliva tests, which matches exactly the 'Obstruction Testing' prose discussion.",
+      "chosen_heading": "Obstruction Testing",
+      "current_heading": "Obstruction Testing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Whistling Lung Test",
+    "candidates": [
+      "Membrane Coverage",
+      "Whistling Lung Test",
+      "Water Bubble Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yosef statements \u2014 the membrane ruling AND the whistling lung test including both the feather/saliva method and the water basin method \u2014 and the 'Whistling Lung Test' section's prose covers both testing methods as part of one continuous discussion, making it the best single home for the entire passage.",
+      "chosen_heading": "Whistling Lung Test",
+      "current_heading": "Whistling Lung Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Water Bubble Test",
+    "candidates": [
+      "Water Bubble Test",
+      "Whistling Explanation",
+      "Dissolved Flesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the water bubble test procedure (hot/cold/tepid water and bubble detection), which matches heading 0's prose exactly, while the final clause about inner/outer membranes is an extension of that same testing context.",
+      "chosen_heading": "Water Bubble Test",
+      "current_heading": "Water Bubble Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Dissolved Flesh",
+    "candidates": [
+      "Whistling Explanation",
+      "Dissolved Flesh",
+      "Rabbi Yochanan Ruling",
+      "Chisaron vs. Nikvah",
+      "Inside vs. Outside",
+      "Rabbi Shimon Position",
+      "Hole with Flesh Loss"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dissolved Flesh",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Ulla/Rabbi Yochanan's ruling that internal dissolution is kosher, which is exactly what the 'Dissolved Flesh' section's prose discusses.",
+      "second_heading": "Rabbi Yochanan Ruling",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Abba's objection from the mishna about 'perforated or missing,' which is precisely what the 'Rabbi Yochanan Ruling' section's prose describes as the Gemara's challenge to Rabbi Yochanan's position.",
+      "current_heading": "Dissolved Flesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Hole with Flesh Loss",
+    "candidates": [
+      "Rabbi Yochanan Ruling",
+      "Chisaron vs. Nikvah",
+      "Inside vs. Outside",
+      "Rabbi Shimon Position",
+      "Hole with Flesh Loss",
+      "Rav Acha Question",
+      "Lead Vessel Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage responds 'No, actually it refers to outside' (l'olam mibachutz) and explains why the two terms aren't redundant by invoking Rabbi Shimon \u2014 which is precisely what the 'Inside vs. Outside' section's prose describes as the Gemara's resolution.",
+      "chosen_heading": "Inside vs. Outside",
+      "current_heading": "Hole with Flesh Loss",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Lead Vessel Test",
+    "candidates": [
+      "Rav Acha Question",
+      "Lead Vessel Test",
+      "Softened Lung Cavities"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Softened Lung Cavities",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 (Rabbi \u1e24ananya's case of a lung poured like water deemed kosher) is an anecdote about a fully liquefied lung being ruled kosher, which fits better under 'Softened Lung Cavities' as supporting context for the discussion of lung dissolution and kosher rulings, rather than under the vessel test heading.",
+      "second_heading": "Rav Acha Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rava's qualification about bronchi remaining, and Rav A\u1e25a's question to Rav Ashi about how to determine this) directly matches the 'Rav Acha Question' prose, which explicitly addresses Rav Acha's question about knowing whether internal trachea branches have dissolved.",
+      "current_heading": "Lead Vessel Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Softened Lung Cavities",
+    "candidates": [
+      "Softened Lung Cavities",
+      "Missing Womb",
+      "Wormy Liver Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Softened Lung Cavities",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the atrophied lung with intact membrane, which matches exactly the 'Softened Lung Cavities' prose about nimokah and the baraita supporting it.",
+      "second_heading": "Wormy Liver Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the wormy liver case and the three trips to Yavneh, which matches exactly the 'Wormy Liver Case' prose \u2014 the missing womb clause ('nitla shalpushis') is just the closing line of the previous topic before the new wormy liver case begins, but since Item 2 opens with the womb removal and then the liver, the structural seam is between the lung discussion and the womb/liver discussion, with Item 2 best placed under 'Wormy Liver Case' given that heading's prose explicitly covers both the womb (briefly) and the liver incident.",
+      "current_heading": "Softened Lung Cavities",
+      "moved": true
+    }
+  }
+]

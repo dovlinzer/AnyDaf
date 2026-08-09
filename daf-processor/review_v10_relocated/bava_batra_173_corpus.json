@@ -1,0 +1,287 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Proof of Transfer Debate",
+    "candidates": [
+      "Two Dov Linzers",
+      "Otiyot Niknot Bimesira",
+      "Proof of Transfer Debate",
+      "Braita Leniency",
+      "Writing Without Lender"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 10 items concern the Abaye-Rava dispute over whether a holder of a transferred shtar must bring proof of acquisition (tzarich lehavi rayah), along with the supporting baraita about brothers \u2014 exactly the content described in the 'Proof of Transfer Debate' prose.",
+      "chosen_heading": "Proof of Transfer Debate",
+      "current_heading": "Proof of Transfer Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Writing Without Lender",
+    "candidates": [
+      "Braita Leniency",
+      "Writing Without Lender",
+      "Receipt Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together constitute the Gemara's discussion of the kotvin shtar le-loveh dispute \u2014 item 1 raises the question, item 2 gives the answer, and items 3-4 explain each tanna's position \u2014 which is precisely what the 'Writing Without Lender' prose describes in full detail.",
+      "chosen_heading": "Writing Without Lender",
+      "current_heading": "Writing Without Lender",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Receipt Ambiguity",
+    "candidates": [
+      "Receipt Ambiguity",
+      "Three Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishna's clause about finding a receipt among one's documents stating 'the note of Yosef ben Shimon is repaid,' and the Gemara's question about why the receipt is needed given the earlier mishna's rule \u2014 exactly what the 'Receipt Ambiguity' prose describes.",
+      "chosen_heading": "Receipt Ambiguity",
+      "current_heading": "Receipt Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Three Generations",
+    "candidates": [
+      "Three Generations",
+      "Power of Attorney",
+      "All Debts Nullified",
+      "Specific vs. General"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Three Generations",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 all concern the meshulashin (tripling of names) discussion with Rabbi Yirmeya, Rav Hoshaya, Abaye, and the baraita about Kohanim, which is exactly what heading 0's prose describes.",
+      "second_heading": "All Debts Nullified",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is an explicitly marked new MISHNA introducing the entirely new case of a dying man who cannot identify which note is paid, which corresponds precisely to heading 2's prose about 'shtarot kulam paruim' and the deathbed admission principle.",
+      "current_heading": "Three Generations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Specific vs. General",
+    "candidates": [
+      "Power of Attorney",
+      "All Debts Nullified",
+      "Specific vs. General",
+      "Burden of Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's ruling distinguishing between 'shtar lecha beyadi parua' (specific note) and 'hov shelecha beyadi parua' (general debt), which is exactly what the 'Specific vs. General' section's prose describes.",
+      "chosen_heading": "Specific vs. General",
+      "current_heading": "Specific vs. General",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Burden of Proof",
+    "candidates": [
+      "Burden of Proof",
+      "Not First Creditor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous challenge-and-response exchange (Ravina's question about field sales and Rava's answer about yad ba'al ha-shtar al hatachtona) that the 'Burden of Proof' prose describes in detail and correctly.",
+      "chosen_heading": "Burden of Proof",
+      "current_heading": "Burden of Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Not First Creditor",
+    "candidates": [
+      "Not First Creditor",
+      "Direct Collection Rights",
+      "Visible Assets Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage states the basic rule that a lender cannot collect from the guarantor first, which is precisely what heading 0 ('Not First Creditor') discusses in its prose.",
+      "chosen_heading": "Not First Creditor",
+      "current_heading": "Not First Creditor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Visible Assets Exception",
+    "candidates": [
+      "Direct Collection Rights",
+      "Visible Assets Exception",
+      "Ketubah Guarantor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the 'al menat she-efra' stipulation (matching heading 0's prose exactly) and Rabban Shimon ben Gamliel's qualifier about visible assets (matching heading 1's prose), but since this is a single Mishnaic unit covering both rules together, it belongs under heading 0 which introduces the primary rule, with heading 1's prose serving as commentary on the second clause of the same passage.",
+      "chosen_heading": "Direct Collection Rights",
+      "current_heading": "Visible Assets Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Ketubah Guarantor",
+    "candidates": [
+      "Visible Assets Exception",
+      "Ketubah Guarantor",
+      "Bail Bondsman Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabban Shimon ben Gamliel's ruling about a ketubah guarantor and the concern about collusion (kenunya) to extract money from the guarantor, which is precisely what the 'Ketubah Guarantor' prose discusses.",
+      "chosen_heading": "Ketubah Guarantor",
+      "current_heading": "Ketubah Guarantor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Bail Bondsman Theory",
+    "candidates": [
+      "Bail Bondsman Theory",
+      "Biblical Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous discussion of the 'bail bondsman theory' \u2014 the Gemara's question about the guarantor's role, Rabba and Rav Yosef's answer, Rav Na\u1e25man's objection and its clarification, and the final ruling with supporting baraita \u2014 which is precisely what the prose under heading 0 describes in detail.",
+      "chosen_heading": "Bail Bondsman Theory",
+      "current_heading": "Bail Bondsman Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Biblical Source",
+    "candidates": [
+      "Biblical Source",
+      "Kablanus vs. Areivus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Huna's derivation of the biblical source for guarantor obligation from Genesis 43:9, which is precisely what the 'Biblical Source' section's prose discusses.",
+      "chosen_heading": "Biblical Source",
+      "current_heading": "Biblical Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Kablanus vs. Areivus",
+    "candidates": [
+      "Kablanus vs. Areivus",
+      "Areivut vs. Asmachta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav \u1e24isda's kablanus objection, Rabbi Yitz\u1e25ak's Proverbs source, and the further Proverbs verses \u2014 are explicitly described in candidate 0's prose, which covers exactly this chain of argument about distinguishing kablanus from areivut and then finding a biblical source from Mishlei.",
+      "chosen_heading": "Kablanus vs. Areivus",
+      "current_heading": "Kablanus vs. Areivus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Areivut vs. Asmachta",
+    "candidates": [
+      "Areivut vs. Asmachta",
+      "Hana'ah of Reliance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Ameimar's statement connecting areivut to the asmakhta dispute between Rabbi Yehuda and Rabbi Yosei, which is precisely what the prose in candidate 0 describes and analyzes.",
+      "chosen_heading": "Areivut vs. Asmachta",
+      "current_heading": "Areivut vs. Asmachta",
+      "moved": false
+    }
+  }
+]

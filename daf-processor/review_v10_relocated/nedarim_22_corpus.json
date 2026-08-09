@@ -1,0 +1,320 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Heaven Opens Ledger",
+    "candidates": [
+      "Charata and Pesach",
+      "Opening with Charata",
+      "Heaven Opens Ledger",
+      "Verse Proof",
+      "Too Generic",
+      "No Heavenly Ledger",
+      "Bamah Statement Rejected",
+      "Bamah Philosophy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together cover the story of Rabbi Yannai's grandson, the scriptural proof from Rabbi Abba, and the ruling that we do not open with this method \u2014 exactly what heading 2 ('Heaven Opens Ledger') describes in its prose.",
+      "chosen_heading": "Heaven Opens Ledger",
+      "current_heading": "Heaven Opens Ledger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Bamah Philosophy",
+    "candidates": [
+      "Verse Proof",
+      "Too Generic",
+      "No Heavenly Ledger",
+      "Bamah Statement Rejected",
+      "Bamah Philosophy",
+      "Ran's Analysis",
+      "Abaye-Rava Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic text introducing Rabbi Natan's bamah statement and the ruling that we do not open with it, which corresponds exactly to the 'Bamah Statement Rejected' prose that introduces this baraita and the ruling against using it.",
+      "chosen_heading": "Bamah Statement Rejected",
+      "current_heading": "Bamah Philosophy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Abaye-Rava Debate",
+    "candidates": [
+      "Ran's Analysis",
+      "Abaye-Rava Debate",
+      "Shmuel: Vow-Keepers",
+      "Verse on Ceasing Vows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly records the Rav Kahana/Rav Tavyumei version of the Abaye-Rava dispute and the final halakha about not broaching dissolution with either the first or last clause, which is precisely what the 'Abaye-Rava Debate' prose section discusses.",
+      "chosen_heading": "Abaye-Rava Debate",
+      "current_heading": "Abaye-Rava Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Verse on Ceasing Vows",
+    "candidates": [
+      "Shmuel: Vow-Keepers",
+      "Verse on Ceasing Vows",
+      "Sages' Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Shmuel's statement that a vow-keeper is called wicked AND Rabbi Abbahu's verse/gezeira shava derivation \u2014 these are one continuous unit, and candidate 0's prose explicitly describes both elements together, while candidate 1 only covers the verse derivation portion.",
+      "chosen_heading": "Shmuel: Vow-Keepers",
+      "current_heading": "Verse on Ceasing Vows",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Sages' Teaching",
+    "candidates": [
+      "Verse on Ceasing Vows",
+      "Sages' Teaching",
+      "Gehinnom & Anger",
+      "Verse on Anger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's citation of the mishna about 'vows of the virtuous vs. wicked,' which is precisely what the prose of heading 1 ('Sages' Teaching') describes and analyzes.",
+      "chosen_heading": "Sages' Teaching",
+      "current_heading": "Sages' Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Verse on Anger",
+    "candidates": [
+      "Gehinnom & Anger",
+      "Verse on Anger",
+      "Physical Effects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yonatan's statement that anyone who gets angry has all kinds of Gehenna rule over him \u2014 this is precisely what heading 0 ('Gehinnom & Anger') describes as its content, while heading 1 ('Verse on Anger') covers the scriptural proofs and elaboration that follow from that statement.",
+      "chosen_heading": "Gehinnom & Anger",
+      "current_heading": "Verse on Anger",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Physical Effects",
+    "candidates": [
+      "Verse on Anger",
+      "Physical Effects",
+      "Chuza Murder Story",
+      "Ulla's Fear Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses hemorrhoids controlling the angry person, citing the verse from Devarim about failing eyes and languishing soul, which is precisely what the 'Physical Effects' section's prose describes.",
+      "chosen_heading": "Physical Effects",
+      "current_heading": "Physical Effects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Ulla's Fear Response",
+    "candidates": [
+      "Chuza Murder Story",
+      "Ulla's Fear Response",
+      "Exile Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage narrates the entire Ulla story from beginning to end \u2014 including the murder, the exchange with the murderer, and the conversation with Rabbi Yochanan \u2014 making it a single unified narrative that belongs under the 'Chuza Murder Story' heading which introduces the whole episode, rather than being split at the mid-point of the story under 'Ulla's Fear Response'.",
+      "chosen_heading": "Chuza Murder Story",
+      "current_heading": "Ulla's Fear Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Exile Requirement",
+    "candidates": [
+      "Ulla's Fear Response",
+      "Exile Requirement",
+      "Anger Consequences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the question-and-answer exchange about why murderous anger could occur before crossing the Jordan, which is precisely what the 'Exile Requirement' prose describes with the same verse, the same terminology (lev ragaz, hahu sha'ata lo avrinan Yardena), and the same ironic observation.",
+      "chosen_heading": "Exile Requirement",
+      "current_heading": "Exile Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Anger Consequences",
+    "candidates": [
+      "Anger Consequences",
+      "Sin and Scripture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is directly about the consequences of anger (Rabba bar Rav Huna, Rabbi Yirmeya of Difti, and Rav Na\u1e25man bar Yitz\u1e25ak), which is exactly what the 'Anger Consequences' section prose discusses in detail.",
+      "chosen_heading": "Anger Consequences",
+      "current_heading": "Anger Consequences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Sin and Scripture",
+    "candidates": [
+      "Sin and Scripture",
+      "Rav Assi's Rule",
+      "Wife's Vow Case",
+      "Neder or Shvua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rav Adda bar Rabbi \u1e24anina's statement on sin and Scripture (Torah + Joshua only) directly matches the prose under 'Sin and Scripture,' which explicitly discusses this teaching in detail.",
+      "chosen_heading": "Sin and Scripture",
+      "current_heading": "Sin and Scripture",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Neder or Shvua",
+    "candidates": [
+      "Rav Assi's Rule",
+      "Wife's Vow Case",
+      "Neder or Shvua",
+      "Rav Assi to Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Asi's rule itself \u2014 the statement that one does not attend to vows invoking the God of Israel except in one specific case \u2014 which matches heading 0 ('Rav Assi's Rule') exactly, not the detailed interpretive discussion under heading 2 where it currently sits.",
+      "chosen_heading": "Rav Assi's Rule",
+      "current_heading": "Neder or Shvua",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Rav Assi to Woman",
+    "candidates": [
+      "Neder or Shvua",
+      "Rav Assi to Woman",
+      "Kahana-Yosef Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the encounter between the woman and Rav Asi that Candidate 1's prose explicitly narrates and analyzes, making it the correct placement.",
+      "chosen_heading": "Rav Assi to Woman",
+      "current_heading": "Rav Assi to Woman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Kahana-Yosef Story",
+    "candidates": [
+      "Kahana-Yosef Story",
+      "Rav Nachman Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Rav Kahana and Rav Yosef food incident, which exactly matches the prose under heading 0 ('Kahana-Yosef Story').",
+      "chosen_heading": "Kahana-Yosef Story",
+      "current_heading": "Kahana-Yosef Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Rav Nachman Ruling",
+    "candidates": [
+      "Rav Nachman Ruling",
+      "Ran's Clarification",
+      "Gaon Disagreement",
+      "Rav Hai Gaon",
+      "Mar Yehudai Gaon",
+      "Final Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rava citing Rav Nachman's halakhic ruling about charata and Elohei Yisrael, which is precisely what the 'Rav Nachman Ruling' prose section discusses as the bottom-line halakha.",
+      "chosen_heading": "Rav Nachman Ruling",
+      "current_heading": "Rav Nachman Ruling",
+      "moved": false
+    }
+  }
+]

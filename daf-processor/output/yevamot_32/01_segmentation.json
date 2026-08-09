@@ -34,8 +34,8 @@
           "timestamp": "03:46"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Yose's Position: When Does Issur Chal Al Issur Apply?",
@@ -68,8 +68,8 @@
           "timestamp": "10:43"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Issur Mosif and Issur Kolel: Two Types of Overlapping Prohibitions",
@@ -92,7 +92,7 @@
           "timestamp": "23:05"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -420,5 +420,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "11:17",
+  "amud_b_micro_title": "Issur Mosif Defined",
+  "shiur_start_daf": 31,
+  "shiur_start_amud": "b"
 }

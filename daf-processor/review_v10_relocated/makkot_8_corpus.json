@@ -1,0 +1,250 @@
+[
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Mishna Setup",
+    "candidates": [
+      "Structure & Size",
+      "Sanhedrin Link",
+      "Conceptual Move",
+      "Galus & Lashes",
+      "Lack of System",
+      "Yerida Letzorech",
+      "Rung Falls",
+      "Mishna Setup",
+      "Rabbi's Argument",
+      "Rav's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna presenting the dispute between Rabbi and the Chachamim about the axe head versus wood chip, and the Gemara's baraita recording Rabbi's contextual argument from the word 'etz' \u2014 are precisely the content described in the 'Mishna Setup' prose, which explicitly introduces this dispute and Rabbi's argument about min ha'etz.",
+      "chosen_heading": "Mishna Setup",
+      "current_heading": "Mishna Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Rav's Answer",
+    "candidates": [
+      "Rabbi's Argument",
+      "Rav's Answer",
+      "Dirt & Dates",
+      "Kocho Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rav's Answer",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss Rav's statement that Rabbi and the Rabbis derive their rulings from the same verse via yesh eim l'masoret vs. yesh eim lamikra, and the resolution of the apparent contradiction \u2014 exactly what candidate 1 ('Rav's Answer') describes.",
+      "second_heading": "Dirt & Dates",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces Rav Pappa's new case of throwing a clod at a palm tree causing dates to fly off and kill someone, which is precisely what candidate 2 ('Dirt & Dates') discusses.",
+      "current_heading": "Rav's Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Kocho Debate",
+    "candidates": [
+      "Dirt & Dates",
+      "Kocho Debate",
+      "Mishna Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Rube Goldberg-style koach kocho case (clod hits branch, branch hits dates, dates kill someone) that the Kocho Debate prose explicitly describes as the Gemara's answer to what constitutes koach kocho according to Rabbi.",
+      "chosen_heading": "Kocho Debate",
+      "current_heading": "Kocho Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Mishna Stones",
+    "candidates": [
+      "Mishna Stones",
+      "Own Courtyard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Mishna Stones' directly describes and discusses this exact mishna about throwing a stone into the public domain and Rabbi Eliezer ben Yaakov's qualification, matching the passage precisely.",
+      "chosen_heading": "Mishna Stones",
+      "current_heading": "Mishna Stones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Own Courtyard",
+    "candidates": [
+      "Own Courtyard",
+      "Abba Shaul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rule of exile when a stone is thrown into one's own courtyard, deriving from the forest verse that both parties must have permission to enter \u2014 exactly the content described in the 'Own Courtyard' prose.",
+      "chosen_heading": "Own Courtyard",
+      "current_heading": "Own Courtyard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Abba Shaul",
+    "candidates": [
+      "Abba Shaul",
+      "Negligence Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Abba Shaul's drasha about discretionary acts excluding fathers, teachers, and court agents \u2014 exactly what the prose under heading 0 ('Abba Shaul') discusses.",
+      "chosen_heading": "Abba Shaul",
+      "current_heading": "Abba Shaul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Negligence Levels",
+    "candidates": [
+      "Negligence Levels",
+      "Self-Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain analyzing the public domain case \u2014 from the initial question about meizid through the wall-demolition refinements to Rav Pappa's resolution about the scrap heap \u2014 which is precisely what the 'Negligence Levels' prose describes in detail.",
+      "chosen_heading": "Negligence Levels",
+      "current_heading": "Negligence Levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Self-Placement",
+    "candidates": [
+      "Self-Placement",
+      "Mitzvah Chopping",
+      "Means Not Mitzvot",
+      "Ravina Challenge",
+      "Intrinsic Mitzvah?",
+      "Retraction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit about the word 'u'matza' in the exile verse \u2014 the baraita deriving Rabbi Eliezer ben Yaakov's ruling, the contradiction from the land-redemption verse, and Rava's resolution \u2014 which is precisely what the 'Self-Placement' prose describes in detail.",
+      "chosen_heading": "Self-Placement",
+      "current_heading": "Self-Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Retraction",
+    "candidates": [
+      "Mitzvah Chopping",
+      "Means Not Mitzvot",
+      "Ravina Challenge",
+      "Intrinsic Mitzvah?",
+      "Retraction",
+      "Shabbat Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous chain covering Rava's retraction, his revised proof from 'va'asher yavo,' Rav Adda bar Ahava's challenge about 'asher' and met mitzva tumah, and the resolution \u2014 all of which is described in detail under the 'Retraction' prose section (index 4).",
+      "chosen_heading": "Retraction",
+      "current_heading": "Retraction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Shabbat Parallel",
+    "candidates": [
+      "Shabbat Parallel",
+      "Omer Pushback"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about 'in plowing and in harvest you shall rest' with Rabbi Akiva's shvi'is interpretation and Rabbi Yishmael's Shabbat/omer interpretation \u2014 exactly the content described in the 'Shabbat Parallel' prose, which is where the passage currently sits.",
+      "chosen_heading": "Shabbat Parallel",
+      "current_heading": "Shabbat Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Omer Pushback",
+    "candidates": [
+      "Omer Pushback",
+      "Final Necessity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous dialectical chain about whether omer plowing/harvesting is discretionary or mitzva-related, which is precisely what Candidate 0's prose describes \u2014 including the Rabban's challenge, Rava's response, Ravina's objection, and Rava's retraction with the harvest proof.",
+      "chosen_heading": "Omer Pushback",
+      "current_heading": "Omer Pushback",
+      "moved": false
+    }
+  }
+]

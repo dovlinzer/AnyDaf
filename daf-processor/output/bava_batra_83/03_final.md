@@ -1,12 +1,22 @@
-# Bava Batra 83 — Daf Yomi Shiur
-
+[DAF:82b]
 ## Land Between Trees
+
+
 
 ### Three Trees Setup
 
-> **Hebrew/Aramaic:** כִּמְלוֹא אוֹרֶה וְסַלּוֹ. מַתְקֵיף לַהּ רַבִּי אֶלְעָזָר: הַשְׁתָּא דֶּרֶךְ אֵין לוֹ, אוֹרֶה וְסַלּוֹ יֵשׁ לוֹ?! דֶּרֶךְ אֵין לוֹ – דְּאַרְעָא אַחֲרִיתִי הִיא; אוֹרֶה וְסַלּוֹ – יֵשׁ לוֹ?!
->
-> **Translation:** he has acquired an area **sufficient for a gatherer of figs and his basket** in hand to stand close to the tree. **Rabbi Elazar objects to this: Now** that the *halakha* is that the buyer **has no path** and must purchase a path through the field to access his trees; if so, does **he have** possession of an area for **the gatherer and his basket?** The Gemara elaborates: **He has no path,** even though he has no other means of gaining access to the trees, **as** the ground he acquired along with the trees **is** considered **another land** and is not part of the rest of the field. Why, then, would **he have** possession of an area for **a gatherer and his basket?**
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: לָא מִתּוֹקְמָא מַתְנִיתִין כְּרַבִּי עֲקִיבָא.
+> **Translation:** Rava **said to him:** Even if Rabbi Elazar himself agrees with Rabbi Akiva, **the mishna cannot be explained in accordance with** the opinion of **Rabbi Akiva.** Rather, the mishna must be in accordance with the opinion of the Rabbis, who hold that one who sells does so sparingly, and the difficulty that Rabbi Elazar raised against Rabbi Yoḥanan is predicated on the fact that the mishna is in accordance with the opinion of the Rabbis.
+
+> **Hebrew/Aramaic:** מִמַּאי? מִדְּקָתָנֵי: הִגְדִּילוּ – יְשַׁפֶּה, וְאִי סָלְקָא דַּעְתָּךְ רַבִּי עֲקִיבָא הִיא, אַמַּאי יְשַׁפֶּה? הָאָמַר: מוֹכֵר בְּעַיִן יָפָה מוֹכֵר!
+> **Translation:** **From where** does Rava derive that the mishna is not in accordance with the opinion of Rabbi Akiva? **From** the fact **that** the mishna **teaches:** If the three trees **grew,** the owner of the land **may cut down** the branches that extend into his field. **And if it enters your mind** that the mishna **is** in accordance with the opinion of **Rabbi Akiva, why may he cut** them **down? Doesn’t** Rabbi Akiva **say** that **one who sells, sells generously?**
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אֵימוֹר דְּאָמַר רַבִּי עֲקִיבָא – גַּבֵּי בּוֹר וָדוּת, דְּלָא מַכְחֲשִׁי אַרְעָא; גַּבֵּי אִילָן מִי שָׁמְעַתְּ לֵיהּ?
+> **Translation:** Rav Naḥman bar Yitzḥak **said to him:** This does not prove that the mishna is not in accordance with the opinion of Rabbi Akiva. You can **say that Rabbi Akiva stated** his ruling **in the case of a pit and a cistern** that are situated in a field belonging to another, which one sells in a generous manner, **as they do not weaken the land.** But **did you hear him** say that the seller is generous toward the buyer **with regard to a tree,** which can weaken the land?
+
+> **Hebrew/Aramaic:** מִי לָא מוֹדֵי רַבִּי עֲקִיבָא בְּאִילָן הַנּוֹטֶה לְתוֹךְ שְׂדֵה חֲבֵירוֹ, שֶׁקּוֹצֵץ מְלֹא מַרְדֵּעַ מֵעַל גַּבֵּי מַחֲרֵישָׁה?
+> **Translation:** **Doesn’t Rabbi Akiva concede in** the case of **a tree that leans out into the field of another,** in **which** the owner of the other field **cuts down** the branches until the **full** height of **an ox-goad,** the handle that protrudes **over a plow?** Since the extending branches impede his efforts to plow his field, it is permitted for him to cut them down. This indicates that even according to Rabbi Akiva one does not grant privileges that are detrimental to his own interests. If so, the mishna can be explained even in accordance with the opinion of Rabbi Akiva, which indicates that Rabbi Elazar does not accept his ruling.
+
 
 The daf opens in the middle of a discussion on 82b concerning the purchase of three trees. As established, when one buys three trees from a seller's field, the buyer acquires not only the land directly beneath the trees and the land between them — measured according to the extent of the canopy's overhang — but also an additional strip of space extending beyond the canopy sufficient for a picker to stand and harvest. This additional strip is expressed by the Talmudic phrase *kimlo oreh v'salo*, "the full space of a picker and his basket."
 
@@ -14,38 +24,35 @@ The Gemara had previously compared this right of access to the position of Rabbi
 
 ### Oreh v'Salo
 
-> **Hebrew/Aramaic:** וְתָנֵי עֲלַהּ: אַרְבַּע אַמּוֹת שֶׁאָמְרוּ – כְּדֵי עֲבוֹדַת הַכֶּרֶם
->
-> **Translation:** Rav Yosef continues: **And it is taught** in a *baraita* **with regard to** this mishna: The **four cubits that** the Sages **stated** are **for the work of the vineyard,** so that he does not take oxen and a plow into his neighbor's field while tending to his vineyard.
+> **Hebrew/Aramaic:** תַּנְיָא כְּווֹתֵיהּ דְּרַבִּי חִיָּיא בַּר אַבָּא: הֲרֵי זֶה קָנָה תַּחְתֵּיהֶן וּבֵינֵיהֶן, וְחוּצָה לָהֶן כִּמְלוֹא אוֹרֶה וְסַלּוֹ.
+> **Translation:** The Gemara points out: **It is taught** in a *baraita* **in accordance with** the statement **of Rabbi Ḥiyya bar Abba:** If one buys three trees in a field belonging to another, **this** buyer **has acquired** the ground that is found **underneath** the trees, **and** the area **between them, and outside of** the trees and their branches **an area** sufficient for **a gatherer of figs and his basket.**
 
 The Rashbam explains the phrase *oreh v'salo* with care: *oreh* is the specific verb used for harvesting from a fig tree, and *salo* is his basket. The language thus designates a very concrete image — the picker standing outside the canopy's edge, basket in hand, gathering fruit.
 
 ### Who Plants Space
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי לְרַב יוֹסֵף: אוֹתָן אוֹרֶה וְסַלּוֹ, מִי זוֹרְעָן? אֲמַר לֵיהּ, תְּנֵיתוּהָ: הַחִיצוֹן זוֹרֵעַ אֶת הַדֶּרֶךְ.
->
-> **Translation:** **Abaye said to Rav Yosef: Those** areas around the trees that are designated for **a gatherer of figs and his basket** are used for this purpose only at specific times. **Who sows** that land during the rest of the year, the owner of the trees or the owner of the field? Rav Yosef **said to him: You learned** the answer in a mishna (99b): If one owns a garden that is surrounded by the garden of another, the owner of the inner garden has a right to a path through the outer garden. Even so, the owner of **the outer** garden **may sow the path.**
-
 Abaye raises the question directly with Rav Yosef: *osan oreh v'salo mi zor'an* — as for that strip outside the overhang, who has the right to plant it? Rav Yosef responds that the answer may be inferred from a *mishnah* already taught: *hachitzon zorea es haderech* — the owner of the outer garden may plant the path.
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי לְרַב יוֹסֵף: אוֹתָן אוֹרֶה וְסַלּוֹ, מִי זוֹרְעָן? אֲמַר לֵיהּ, תְּנֵיתוּהָ: הַחִיצוֹן זוֹרֵעַ אֶת הַדֶּרֶךְ.
+> **Translation:** **Abaye said to Rav Yosef: Those** areas around the trees that are designated for **a gatherer of figs and his basket** are used for this purpose only at specific times. **Who sows** that land during the rest of the year, the owner of the trees or the owner of the field? Rav Yosef **said to him: You learned** the answer in a mishna (99b): If one owns a garden that is surrounded by the garden of another, the owner of the inner garden has a right to a path through the outer garden. Even so, the owner of **the outer** garden **may sow the path.**
 
 ### Two Gardens
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: מִי דָּמֵי?! הָתָם לֵית לֵיהּ פְּסֵידָא לְלוֹקֵחַ, אֲבָל הָכָא – אִית לֵיהּ פְּסֵידָא לְלוֹקֵחַ, דַּאֲמַר לֵיהּ: קָמִיטַּנְּפִי פֵּירֵי.
->
-> **Translation:** Abaye **said to him: Are** the cases **comparable? There,** in the case of the outer and inner gardens, **there is no loss** suffered **by the buyer** when the owner of the outer garden sows the path, as he can still pass through it. **But here, there is a loss for the buyer, as** the one who bought the trees **says to** the owner of the field: The **fruits** that fall from the trees will become **soiled** by the plants.
 
 The analogy invoked is the case of two adjacent gardens, one nested within the other: an inner garden (*p'nimi*) and an outer garden (*chitzon*), with a path running through the outer garden that grants the inner owner access. The ruling there is that the owner of the outer garden retains the right to plant that path. The buyer of the trees, it is argued, is analogously situated — he has a right of access, but the underlying land remains the *ba'al hasadeh*'s to cultivate.
 
 ### Falling Fruit Problem
 
-The Gemara rejects this analogy, however. Abaye responds that the cases are not truly parallel. In the garden case, the planting of the path causes no real loss to the person with access rights. One might trample the plantings in passing, but the planting itself does not compromise the right of ingress. Here, however, if the field owner plants that outer strip and the buyer's figs or apples fall from the tree onto those plantings, the fallen fruit will damage what is growing there. This is the stated concern: *kamitanfi peiri* — my fruit becomes ruined or dirtied.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: מִי דָּמֵי?! הָתָם לֵית לֵיהּ פְּסֵידָא לְלוֹקֵחַ, אֲבָל הָכָא – אִית לֵיהּ פְּסֵידָא לְלוֹקֵחַ, דַּאֲמַר לֵיהּ: קָמִיטַּנְּפִי פֵּירֵי.
+> **Translation:** Abaye **said to him: Are** the cases **comparable? There,** in the case of the outer and inner gardens, **there is no loss** suffered **by the buyer** when the owner of the outer garden sows the path, as he can still pass through it. **But here, there is a loss for the buyer, as** the one who bought the trees **says to** the owner of the field: The **fruits** that fall from the trees will become **soiled** by the plants.
+
+The Gemara rejects this analogy, however. Abaye responds: *mi dami* — are the cases comparable? In the garden case, the planting of the path causes no real loss to the person with access rights. One might trample the plantings in passing, but the planting itself does not compromise the right of ingress. Here, however, if the field owner plants that outer strip and the buyer's figs or apples fall from the tree onto those plantings, the fallen fruit will damage what is growing there. This is the stated concern: *kamitanfi peiri* — my fruit becomes ruined or dirtied.
 
 What is striking about this argument is its logic. The fundamental justification for granting the buyer that outer strip in the first place is to allow him to stand and pick. One might have expected the challenge to be that planting there physically prevents the picker from standing. Instead, the Gemara shifts the concern to the falling fruit damaging the field owner's crops. This is a somewhat different axis of argument, yet it is sufficient to distinguish the two-gardens case.
 
 ### Neither Plants Space
 
-> **Hebrew/Aramaic:** הָא לָא דָּמְיָא אֶלָּא לְסֵיפָא: וְזֶה וָזֶה אֵינָן רַשָּׁאִין לְזוֹרְעָהּ.
->
+> **Hebrew/Aramaic:** הָא לָא דָּמְיָא אֶלָּא לְסֵיפָא: וְזֶה וָזֶה אֵינָן רַשָּׁאִין לְזוֹרְעָהּ.
 > **Translation:** **This** case is **similar only to the last clause** of that mishna, which states: If the owner of the inner garden is given a side path, so that he suffers a loss of some kind because he cannot take the shortest path to reach his garden, both **this** owner of the inner garden **and that** owner of the outer garden **are not permitted to sow** the path. Similarly, here too, neither the owner of the trees nor the owner of the field are permitted to sow the place designated for the gatherer of figs and his basket.
 
 Having distinguished the inner-garden analogy at its first stage, the Gemara draws the comparison to the end of that *mishnah* instead: *be'zeh u've'zeh einam resha'im lizroa* — where a specific path has been agreed upon between the parties, neither side may plant it. The reasoning is that once both parties have, as it were, designated that strip, the buyer's rights in it are more explicitly recognized. By analogy — or more precisely, because planting there would compromise the buyer's right — neither the field owner nor the buyer may plant that outer strip. The conclusion is that both are precluded. This, the Gemara acknowledges, is not entirely straightforward in its fairness to the *ba'al hasadeh*, but that is the ruling.
@@ -54,35 +61,34 @@ Having distinguished the inner-garden analogy at its first stage, the Gemara dra
 
 ## Distance 4-16 Amot
 
+
+
 ### Distance Question
 
-> **Hebrew/Aramaic:** וְכַמָּה יְהֵא בֵּינֵיהֶן?
->
-> **Translation:** The Gemara inquires: **And how much** space **must there be between** the three trees for them to be considered one unit, which means that the land is acquired by the owner of the trees?
 
 Having resolved the question of access rights outside the trees, the Gemara turns to a new and central question: *ve-kamma yehei beineihem* — how much distance must there be between the three trees in order for the purchase to confer ownership of the land between them? There is both a minimum and a maximum. If the trees are too close together they resemble a grove rather than individually tended fruit trees; if they are too far apart they are not considered a coherent unit. What are these thresholds?
 
 ### 4-8 Amot Opinion
 
-> **Hebrew/Aramaic:** רַב יוֹסֵף אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: מֵאַרְבַּע אַמּוֹת וְעַד שְׁמוֹנֶה.
->
-> **Translation:** **Rav Yosef** says that **Rav Yehuda says** that **Shmuel says:** The distance between the trees must be **from four cubits to eight** cubits.
-
 Rav Yosef cites a tradition in the name of Rav Yehudah in the name of Shmuel: the range is *me-arba ve-ad shemonah* — from four *amot* to eight *amot*. Trees spaced within this range are considered properly connected and their purchase conveys the land between them.
 
 ### 8-16 Amot Ruling
 
-> **Hebrew/Aramaic:** רָבָא אָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: מִשְּׁמוֹנֶה וְעַד שֵׁשׁ עֶשְׂרֵה. אֲמַר לֵיהּ אַבָּיֵי לְרַב יוֹסֵף: לָא תִּפְלוֹג עֲלֵיהּ דְּרַב נַחְמָן, דִּתְנַן מַתְנִיתִין כְּווֹתֵיהּ –
->
-> **Translation:** **Rava** says that **Rav Naḥman says** that **Shmuel says:** It must be **from eight** cubits **to sixteen** cubits. **Abaye said to Rav Yosef: Do not disagree with Rav Naḥman, as we learned** in **a mishna in accordance with his** opinion.
+> **Hebrew/Aramaic:** תַּנְיָא כְּווֹתֵיהּ דְּאַבָּיֵי: הֲרֵי זֶה קָנָה תַּחְתֵּיהֶן וּבֵינֵיהֶן, וְחוּצָה לָהֶן כִּמְלוֹא אוֹרֶה וְסַלּוֹ; וְזֶה וָזֶה אֵינָן רַשָּׁאִין לְזוֹרְעָהּ.
+> **Translation:** The Gemara comments: **It is taught** in a *baraita* **in accordance with** the opinion **of Abaye: This** buyer **has acquired** the ground that is found **underneath** the trees, **and** the area **between them, and outside of** the trees and their branches **an area** sufficient for **a gatherer of figs and his basket. And** both **this** owner of the field **and that** owner of the trees **are not permitted to sow it.**
 
 Rava, however, cites a tradition in the name of Rav Nachman in the name of Shmuel: the range is from eight *amot* to sixteen *amot*. Abaye then says to Rav Yosef: do not argue with Rav Nachman. The Rashbam notes that this phrasing is unusual given that Abaye was Rav Yosef's student, and suggests that Rav Yosef had at some point suffered memory loss, and Abaye may be gently reminding him not to stand against a ruling he ought to remember. Rava's position — the wider range of eight to sixteen — is supported, says Abaye, by a *mishnah*.
 
-### Kilayim Support
+> **Hebrew/Aramaic:** וְכַמָּה יְהֵא בֵּינֵיהֶן? רַב יוֹסֵף אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: מֵאַרְבַּע אַמּוֹת וְעַד שְׁמוֹנֶה. רָבָא אָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: מִשְּׁמוֹנֶה וְעַד שֵׁשׁ עֶשְׂרֵה. אֲמַר לֵיהּ אַבָּיֵי לְרַב יוֹסֵף: לָא תִּפְלוֹג עֲלֵיהּ דְּרַב נַחְמָן, דִּתְנַן מַתְנִיתִין כְּווֹתֵיהּ –
+> **Translation:** The Gemara inquires: **And how much** space **must there be between** the three trees for them to be considered one unit, which means that the land is acquired by the owner of the trees? **Rav Yosef** says that **Rav Yehuda says** that **Shmuel says:** The distance between the trees must be **from four cubits to eight** cubits. **Rava** says that **Rav Naḥman says** that **Shmuel says:** It must be **from eight** cubits **to sixteen** cubits. **Abaye said to Rav Yosef: Do not disagree with Rav Naḥman, as we learned** in **a mishna in accordance with his** opinion.
 
-> **Hebrew/Aramaic:** דִּתְנַן: הַנּוֹטֵעַ אֶת כַּרְמוֹ שֵׁשׁ עֶשְׂרֵה אַמָּה עַל שֵׁשׁ עֶשְׂרֵה אַמָּה, מוּתָּר לְהָבִיא זֶרַע לְשָׁם.
->
-> **Translation:** **As we learned** in a mishna (*Kilayim* 4:9): **One who plants his vineyard sixteen cubits by sixteen cubits,** i.e., he leaves sixteen cubits between each row of vines, is **permitted to bring** other species of **seeds** to the empty spaces between the rows and sow them **there.**
+> **Hebrew/Aramaic:** דִּתְנַן: הַנּוֹטֵעַ אֶת כַּרְמוֹ שֵׁשׁ עֶשְׂרֵה אַמָּה עַל שֵׁשׁ עֶשְׂרֵה אַמָּה, מוּתָּר לְהָבִיא זֶרַע לְשָׁם.
+> **Translation:** **As we learned** in a mishna (*Kilayim* 4:9): **One who plants his vineyard sixteen cubits by sixteen cubits,** i.e., he leaves sixteen cubits between each row of vines, is **permitted to bring** other species of **seeds** to the empty spaces between the rows and sow them **there.** This is not considered a violation of the biblical prohibition with regard to sowing diverse crops in a vineyard, which is one of the prohibitions of diverse kinds.
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יְהוּדָה: מַעֲשֶׂה בְּצַלְמוֹן, בְּאֶחָד שֶׁנָּטַע אֶת כַּרְמוֹ שֵׁשׁ עֶשְׂרֵה עַל שֵׁשׁ עֶשְׂרֵה אַמָּה, וְהָיָה הוֹפֵךְ שְׂעַר שְׁתֵּי שׁוּרוֹת לְצַד אֶחָד, וְזוֹרֵעַ אֶת הַנִּיר; לְשָׁנָה אַחֶרֶת הָיָה הוֹפֵךְ אֶת הַשֵּׂעָר לִמְקוֹם הַזֶּרַע, וְזָרַע אֶת הַבּוּר; וּבָא מַעֲשֶׂה לִפְנֵי חֲכָמִים וְהִתִּירוּהוּ.
+> **Translation:** **Rabbi Yehuda said: There was an incident in** the city of **Tzalmon, where one** individual **planted his vineyard sixteen by sixteen cubits. And he would turn the branches** of **two rows** that were facing each other **to one side,** so that there was a space of sixteen cubits between the two rows, **and sow the clearing. The following year he would turn the branches to the place** that was **sown** the year before, **and would sow** the land that had been left **uncultivated** the previous year, as it had been filled with the branches from the vines. **And the incident came before the Sages and they permitted it.** This demonstrates that sixteen cubits between plants is required for them to be considered separate units.
+
+### Kilayim Support
 
 The *mishnah* in question comes from tractate Kilayim. The laws of *kilayim* provide that a vineyard planted with rows spaced sixteen *amot* by sixteen *amot* apart — *shesh esrei amma al shesh esrei amma* — is considered a properly formed *kerem* (vineyard) in which the full *kerem* restrictions apply. A *kerem* requires its adjacent area to be kept free of foreign seeds to a substantial distance, whereas a single isolated row requires only a minimal clearance. Whether one is dealing with a *kerem* or merely isolated rows turns on how close the rows are to one another.
 
@@ -90,27 +96,34 @@ The *mishnah* rules: if the rows are a full sixteen *amot* apart, *mutar lehavi 
 
 ### Tzalmon Story
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יְהוּדָה: מַעֲשֶׂה בְּצַלְמוֹן, בְּאֶחָד שֶׁנָּטַע אֶת כַּרְמוֹ שֵׁשׁ עֶשְׂרֵה עַל שֵׁשׁ עֶשְׂרֵה אַמָּה, וְהָיָה הוֹפֵךְ שְׂעַר שְׁתֵּי שׁוּרוֹת לְצַד אֶחָד, וְזוֹרֵעַ אֶת הַנִּיר; לְשָׁנָה אַחֶרֶת הָיָה הוֹפֵךְ אֶת הַשֵּׂעָר לִמְקוֹם הַזֶּרַע, וְזָרַע אֶת הַבּוּר; וּבָא מַעֲשֶׂה לִפְנֵי חֲכָמִים וְהִתִּירוּהוּ.
->
-> **Translation:** **Rabbi Yehuda said: There was an incident in** the city of **Tzalmon, where one** individual **planted his vineyard sixteen by sixteen cubits. And he would turn the branches** of **two rows** that were facing each other **to one side,** so that there was a space of sixteen cubits between the two rows, **and sow the clearing. The following year he would turn the branches to the place** that was **sown** the year before, **and would sow** the land that had been left **uncultivated** the previous year, as it had been filled with the branches from the vines. **And the incident came before the Sages and they permitted it.**
 
 At the end of that *mishnah*, Rav Yehudah relates a story: there was a case in the village of Tzalmon where a man had planted his vineyard with rows sixteen *amot* apart. His practice was to take the hanging tendrils of two rows — the overhang that extended inward on each side — and in alternating years fold them back over toward the same direction, thereby leaving a full open gap of sixteen *amot* in the middle with no vines hanging into it. Because this gap was fully open, those rows were regarded as disconnected, and he was therefore permitted to plant that middle strip with another crop. The following year he would reverse the process, folding the tendrils back the other way and opening the previously planted strip. This case came before the Sages and they permitted it. The point for our purposes is that once there were sixteen *amot* completely clear between the rows, they were considered separate, confirming sixteen as the threshold.
 
+[DAF:83a]
 ### Four Amot Case
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אֲנָא לָא יָדַעְנָא, אֶלָּא עוֹבָדָא הֲוָה בְּדוּרָא דְרָעֲוָתָא, וַאֲתוֹ לְקַמֵּיהּ דְּרַב יְהוּדָה, וַאֲמַר לֵיהּ: ״זִיל הַב לֵיהּ כִּמְלֹא בָּקָר וְכֵלָיו״; וְלָא הֲוָה יָדַעְנָא ״כִּמְלֹא בָּקָר וְכֵלָיו״ כַּמָּה; כֵּיוָן דְּשַׁמְעִתַהּ לְהָא דִּתְנַן: לֹא יִטַּע אָדָם אִילָן סָמוּךְ לִשְׂדֵה חֲבֵירוֹ, אֶלָּא אִם כֵּן הִרְחִיק מִמֶּנָּה אַרְבַּע אַמּוֹת; וְתָנֵי עֲלַהּ: אַרְבַּע אַמּוֹת שֶׁאָמְרוּ – כְּדֵי עֲבוֹדַת הַכֶּרֶם; אָמֵינָא: שְׁמַע מִינַּהּ, ״כִּמְלֹא בָּקָר וְכֵלָיו״ – אַרְבַּע אַמּוֹת.
->
-> **Translation:** Rav Yosef **said to him: I do not know** about this, **but there was** a similar **incident** involving the sale of trees **in a village of shepherds, and they came before Rav Yehuda, and he said to** the seller: **Go** and **give to** the one who bought the trees **sufficient** land **for an ox and its vessels. But I did not know how much** was **sufficient** land **for an ox and its vessels. When I heard that which we learned** in a mishna (26a), I came to a conclusion with regard to this case. The mishna teaches as follows: **A person may not plant a tree close by the field of another, unless he places it at a distance** of **four cubits from** the other field. Rav Yosef continues: **And it is taught** in a *baraita* **with regard to** this mishna: The **four cubits that** the Sages **stated** are **for the work of the vineyard,** so that he does not take oxen and a plow into his neighbor's field while tending to his vineyard. **I** studied this mishna and *baraita* and **said: Learn from it** that the phrase: **Sufficient for the ox and its vessels,** means **four cubits.**
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אֲנָא לָא יָדַעְנָא, אֶלָּא עוֹבָדָא הֲוָה
+> **Translation:** Rav Yosef **said to him: I do not know** about this, **but there was** a similar **incident**
+
+> **Hebrew/Aramaic:** בְּדוּרָא דְרָעֲוָתָא, וַאֲתוֹ לְקַמֵּיהּ דְּרַב יְהוּדָה, וַאֲמַר לֵיהּ: ״זִיל הַב לֵיהּ כִּמְלֹא בָּקָר וְכֵלָיו״; וְלָא הֲוָה יָדַעְנָא ״כִּמְלֹא בָּקָר וְכֵלָיו״ כַּמָּה; כֵּיוָן דְּשַׁמְעִתַהּ לְהָא דִּתְנַן: לֹא יִטַּע אָדָם אִילָן סָמוּךְ לִשְׂדֵה חֲבֵירוֹ, אֶלָּא אִם כֵּן הִרְחִיק מִמֶּנָּה אַרְבַּע אַמּוֹת;
+> **Translation:** involving the sale of trees **in a village of shepherds, and they came before Rav Yehuda, and he said to** the seller: **Go** and **give to** the one who bought the trees **sufficient** land **for an ox and its vessels. But I did not know how much** was **sufficient** land **for an ox and its vessels. When I heard that which we learned** in a mishna (26a), I came to a conclusion with regard to this case. The mishna teaches as follows: **A person may not plant a tree close by the field of another, unless he places it at a distance** of **four cubits from** the other field.
+
+> **Hebrew/Aramaic:** וְתָנֵי עֲלַהּ: אַרְבַּע אַמּוֹת שֶׁאָמְרוּ – כְּדֵי עֲבוֹדַת הַכֶּרֶם; אָמֵינָא: שְׁמַע מִינַּהּ, ״כִּמְלֹא בָּקָר וְכֵלָיו״ – אַרְבַּע אַמּוֹת.
+> **Translation:** Rav Yosef continues: **And it is taught** in a *baraita* **with regard to** this mishna: The **four cubits that** the Sages **stated** are **for the work of the vineyard,** so that he does not take oxen and a plow into his neighbor’s field while tending to his vineyard. **I** studied this mishna and *baraita* and **said: Learn from it** that the phrase: **Sufficient for the ox and its vessels,** means **four cubits.** At this stage, the Gemara has demonstrated that Rav Naḥman’s opinion is supported by a mishna, whereas Rav Yosef’s ruling is supported by the incident involving Rav Yehuda.
 
 Rav Yosef responds that he does not have any comment on that *mishnah*, but he does have a story of his own. In the village of Dura de'Re'uta — apparently a village of shepherds — a case came before Rav Yehudah, and Rav Yehudah ruled: *zil havu leh mlo bakar vechelov* — give the buyer the equivalent of "the fill of an ox and its implements," which turns out to equal four *amot*. The Rashbam understands this as a case where the distance between the trees was between four and eight *amot*, and Rav Yehudah ruled that the buyer receives the land — thereby establishing four *amot* as the lower bound.
 
 Rav Yosef then relates that he did not initially know how much *mlo bakar vechelov* was, until he heard a different *mishnah*: one may not plant a tree near the boundary of a neighbor's field unless one maintains a distance of four *amot*, and a *baraita* explains that four *amot* is the space needed for *avodat hakerem* — to work the vineyard with an ox. He therefore concluded that *mlo bakar vechelov* equals four *amot*. So from this story, the lower limit of four *amot* is supported.
 
+It is worth pausing to appreciate the logical structure of what is being assembled here. Neither story on its own proves both endpoints of the range. The Tzalmon story establishes sixteen *amot* as the upper limit — the point at which trees are considered disconnected — and that naturally supports the idea that the range runs up to sixteen. Rav Yosef's story from Dura de'Re'uta establishes four *amot* as the lower limit, the point at which the trees are still considered connected and the buyer therefore receives the land. Each story anchors one end of the range, and together they give the full picture. But as the lecturer notes, neither proof by itself demonstrates both halves — you are really seeing one endpoint at a time, and the inference to the full range requires an assumption that the measured endpoint implies the rest.
+
 ### Story vs. Opinion
 
-> **Hebrew/Aramaic:** וּכְרַב יוֹסֵף מִי לָא תְּנַן?! רַבִּי מֵאִיר וְרַבִּי שִׁמְעוֹן אוֹמְרִים: הַנּוֹטֵעַ אֶת כַּרְמוֹ שְׁמוֹנֶה אַמּוֹת עַל שְׁמוֹנֶה – מוּתָּר לְהָבִיא זֶרַע לְשָׁם! אֲפִילּוּ הָכִי, מַעֲשֶׂה עָדִיף.
->
-> **Translation:** The Gemara asks: **But didn't we** also **learn** a ruling in a mishna (*Kilayim* 4:9) **in accordance with** the opinion of **Rav Yosef?** That mishna teaches: **Rabbi Meir and Rabbi Shimon say:** In a case of **one who plants his vineyard eight cubits by eight** cubits, i.e., he leaves eight cubits between each row of vines, it is **permitted** for him **to bring seeds to** the empty spaces between the rows. This ruling can be cited in support of the opinion of Rav Yosef that if there is a space of eight cubits between trees or vines they are not considered one unit. Why, then, is this mishna not brought as proof? The Gemara answers: **Even so,** it is **preferable** to cite the **incident** in Tzalmon as proof.
+> **Hebrew/Aramaic:** וּכְרַב יוֹסֵף מִי לָא תְּנַן?! רַבִּי מֵאִיר וְרַבִּי שִׁמְעוֹן אוֹמְרִים: הַנּוֹטֵעַ אֶת כַּרְמוֹ שְׁמוֹנֶה אַמּוֹת עַל שְׁמוֹנֶה – מוּתָּר לְהָבִיא זֶרַע לְשָׁם!
+> **Translation:** The Gemara asks: **But didn’t we** also **learn** a ruling in a mishna (*Kilayim* 4:9) **in accordance with** the opinion of **Rav Yosef?** That mishna teaches: **Rabbi Meir and Rabbi Shimon say:** In a case of **one who plants his vineyard eight cubits by eight** cubits, i.e., he leaves eight cubits between each row of vines, it is **permitted** for him **to bring seeds to** the empty spaces between the rows. This ruling can be cited in support of the opinion of Rav Yosef that if there is a space of eight cubits between trees or vines they are not considered one unit. Why, then, is this mishna not brought as proof?
+
+> **Hebrew/Aramaic:** אֲפִילּוּ הָכִי, מַעֲשֶׂה עָדִיף.
+> **Translation:** The Gemara answers: **Even so,** it is **preferable** to cite the **incident** in Tzalmon as proof. Whenever possible, it is preferable to provide support for an opinion by means of a practical ruling, as it demonstrates that the Sages took action in accordance with that opinion and did not merely teach it as *halakha* in theory.
 
 The Gemara then asks: why did Rav Yosef respond to Abaye's citation of the sixteen-*amot* *mishnah* with a story, rather than citing the opinion of Rabbi Meir and Rabbi Shimon in that same *mishnah* in Kilayim, who maintain that the threshold is eight *amot* rather than sixteen — thereby showing that his position of a smaller range was consistent with a *tanna'ic* view? The Gemara answers: *afillu hachi maaseh adif* — even so, a story is preferable, because a story reflects an actual practical ruling, a *psak lema'aseh*. Citing an opinion among other opinions does not resolve which view to follow; citing a story from practice gives the position real weight.
 
@@ -118,9 +131,11 @@ The Rashbam reads the passage slightly differently: the question is not only why
 
 ### Kilayim Inference
 
-> **Hebrew/Aramaic:** בִּשְׁלָמָא לְרַב יוֹסֵף אַלִּיבָּא דְּרַבִּי שִׁמְעוֹן – שָׁמְעִינַן לֵיהּ מְפוּזָּרִין, וְשָׁמְעִינַן לֵיהּ רְצוּפִין; מְפוּזָּרִין – הָא דַּאֲמַרַן, רְצוּפִין – דִּתְנַן: כֶּרֶם הַנָּטוּעַ עַל פָּחוֹת מֵאַרְבַּע אַמּוֹת – אֵינוֹ כֶּרֶם, דִּבְרֵי רַבִּי שִׁמְעוֹן. וַחֲכָמִים אוֹמְרִים: כֶּרֶם, וְרוֹאִין אֶת הָאֶמְצָעִיִּים כְּאִילּוּ אֵינָן. אֶלָּא לְרַב נַחְמָן אַלִּיבָּא דְּרַבָּנַן – מְפוּזָּרִין שָׁמְעִינַן לֵיהּ; רְצוּפִין מִי שָׁמְעִינַן לֵיהּ?! סְבָרָא הוּא: מִדִּלְרַבִּי שִׁמְעוֹן פַּלְגָא, לְרַבָּנַן נָמֵי פַּלְגָא.
->
-> **Translation:** The Gemara comments: **Granted, according to** the analysis of **Rav Yosef** stated **in accordance with** the opinion **of Rabbi Shimon, we hear** about the maximum distance that the trees can be **scattered, and we hear** about the minimum distance that they can be planted **close together.** The distance that the trees can be **scattered** is **that which we said,** i.e., eight cubits. The minimum distance that they can be planted **close together** is **as we learned** in a mishna (*Kilayim* 5:2): **A vineyard that is planted** in consecutive rows **with less than four cubits** between the rows **is not** classified as **a vineyard,** because the rows are planted too close together. This is **the statement of Rabbi Shimon. And the Rabbis say:** It is considered **a vineyard, and one views the middle** vines **as if they are not** there, as they are slated to be uprooted. **But according to** the analysis of **Rav Naḥman** stated **in accordance with** the opinion **of the Rabbis, we hear** the maximum distance that the trees can be **scattered,** i.e., sixteen cubits, as in the incident in Tzalmon. Concerning the minimum distance that they can be planted **close together, did we hear** this distance? The Gemara answers: This **is** based on **logical reasoning; from** the fact **that according to Rabbi Shimon** the minimum distance is **half** of the maximum distance, according **to the Rabbis as well,** the minimum distance is **half** of the maximum, i.e., eight cubits.
+> **Hebrew/Aramaic:** בִּשְׁלָמָא לְרַב יוֹסֵף אַלִּיבָּא דְּרַבִּי שִׁמְעוֹן – שָׁמְעִינַן לֵיהּ מְפוּזָּרִין, וְשָׁמְעִינַן לֵיהּ רְצוּפִין; מְפוּזָּרִין – הָא דַּאֲמַרַן, רְצוּפִין – דִּתְנַן: כֶּרֶם הַנָּטוּעַ עַל פָּחוֹת מֵאַרְבַּע אַמּוֹת – אֵינוֹ כֶּרֶם, דִּבְרֵי רַבִּי שִׁמְעוֹן. וַחֲכָמִים אוֹמְרִים: כֶּרֶם, וְרוֹאִין אֶת הָאֶמְצָעִיִּים כְּאִילּוּ אֵינָן.
+> **Translation:** The Gemara comments: **Granted, according to** the analysis of **Rav Yosef** stated **in accordance with** the opinion **of Rabbi Shimon, we hear** about the maximum distance that the trees can be **scattered, and we hear** about the minimum distance that they can be planted **close together.** The distance that the trees can be **scattered** is **that which we said,** i.e., eight cubits. The minimum distance that they can be planted **close together** is **as we learned** in a mishna (*Kilayim* 5:2): **A vineyard that is planted** in consecutive rows **with less than four cubits** between the rows **is not** classified as **a vineyard,** because the rows are planted too close together. This is **the statement of Rabbi Shimon. And the Rabbis say:** It is considered **a vineyard, and one views the middle** vines **as if they are not** there, as they are slated to be uprooted.
+
+> **Hebrew/Aramaic:** אֶלָּא לְרַב נַחְמָן אַלִּיבָּא דְּרַבָּנַן – מְפוּזָּרִין שָׁמְעִינַן לֵיהּ; רְצוּפִין מִי שָׁמְעִינַן לֵיהּ?! סְבָרָא הוּא: מִדִּלְרַבִּי שִׁמְעוֹן פַּלְגָא, לְרַבָּנַן נָמֵי פַּלְגָא.
+> **Translation:** **But according to** the analysis of **Rav Naḥman** stated **in accordance with** the opinion **of the Rabbis, we hear** the maximum distance that the trees can be **scattered,** i.e., sixteen cubits, as in the incident in Tzalmon. Concerning the minimum distance that they can be planted **close together, did we hear** this distance? The Gemara answers: This **is** based on **logical reasoning; from** the fact **that according to Rabbi Shimon** the minimum distance is **half** of the maximum distance, according **to the Rabbis as well,** the minimum distance is **half** of the maximum, i.e., eight cubits.
 
 The Gemara now considers how each of the two positions — the four-to-eight range of Rav Yosef and the eight-to-sixteen range of Rava — derives both its upper and lower limits from the laws of *kilayim*. For Rav Yosef, whose position aligns with Rabbi Shimon in *kilayim*: Rabbi Shimon holds that vines more than eight *amot* apart are *mefuzarin* — considered separate — and vines less than four *amot* apart do not form a proper *kerem*, as stated explicitly in the *mishnah*: *kerem ha-natu'a pachot me-arba amot eino kerem divrei Rabbi Shimon*. Both the upper and lower limits thus emerge directly from Rabbi Shimon's rulings. The Rabbanan there disagree and say that even tightly packed vines can form a *kerem* — the extra vines are simply to be uprooted — but this does not undercut Rabbi Shimon's coherent framework.
 
@@ -128,9 +143,9 @@ For Rav Nachman, whose position aligns with the Rabbanan, the upper limit of six
 
 ### Final Ruling
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: הִלְכְתָא, מֵאַרְבַּע אַמּוֹת וְעַד שֵׁשׁ עֶשְׂרֵה. תַּנְיָא כְּווֹתֵיהּ דְּרָבָא: כַּמָּה יְהוּ מְקוֹרָבִין? אַרְבַּע אַמּוֹת, וְכַמָּה יְהוּ מְרוּחָקִין? שֵׁשׁ עֶשְׂרֵה.
->
+> **Hebrew/Aramaic:** אָמַר רָבָא: הִלְכְתָא, מֵאַרְבַּע אַמּוֹת וְעַד שֵׁשׁ עֶשְׂרֵה. תַּנְיָא כְּווֹתֵיהּ דְּרָבָא: כַּמָּה יְהוּ מְקוֹרָבִין? אַרְבַּע אַמּוֹת, וְכַמָּה יְהוּ מְרוּחָקִין? שֵׁשׁ עֶשְׂרֵה.
 > **Translation:** **Rava says: The *halakha*** is that one who buys three trees acquires the land if the distance between the trees is anywhere **from four cubits to sixteen** cubits. This ruling is a combination of the two opinions, which is favorable to the buyer. **It is taught** in a *baraita* **in accordance with** the opinion **of Rava: How close** may **they be? Four cubits. And how far apart** may **they be? Sixteen** cubits.
+
 
 Rava then states the *halacha*: *hilchosa me-arba amot ve-ad shesh esrei* — the law follows neither of the ranges in isolation but rather combines them. The lower limit of four *amot* appears to be universally agreed upon — all opinions seem to accept that trees closer than four *amot* are too compressed to constitute a meaningful planting arrangement. The dispute is over the upper limit, and Rava rules like the Rabbanan that sixteen *amot* is the upper threshold. A *baraita* is then cited that confirms this ruling directly: trees must be at least four *amot* apart and no more than sixteen *amot* apart for the purchase to convey the land; within that range, the buyer acquires both the land and the minor trees growing between the main trees.
 
@@ -140,10 +155,11 @@ One should note that this ruling rests on two applications of *kilayim* to the l
 
 ## Land Ownership Rules
 
+
+
 ### Mishnah Statement
 
-> **Hebrew/Aramaic:** הֲרֵי זֶה קָנָה קַרְקַע וְאֶת הָאִילָנוֹת שֶׁבֵּינֵיהֶן; לְפִיכָךְ, יָבֵשׁ הָאִילָן אוֹ נִקְצַץ – יֵשׁ לוֹ קַרְקַע. פָּחוֹת מִכָּאן אוֹ יָתֵר עַל כָּאן, אוֹ שֶׁלְּקָחָן בְּזֶה אַחַר זֶה – הֲרֵי זֶה לֹא קָנָה לֹא אֶת הַקַּרְקַע וְלֹא אֶת הָאִילָנוֹת שֶׁבֵּינֵיהֶן; לְפִיכָךְ, יָבֵשׁ הָאִילָן אוֹ נִקְצַץ – אֵין לוֹ קַרְקַע.
->
+> **Hebrew/Aramaic:** הֲרֵי זֶה קָנָה קַרְקַע וְאֶת הָאִילָנוֹת שֶׁבֵּינֵיהֶן; לְפִיכָךְ, יָבֵשׁ הָאִילָן אוֹ נִקְצַץ – יֵשׁ לוֹ קַרְקַע. פָּחוֹת מִכָּאן אוֹ יָתֵר עַל כָּאן, אוֹ שֶׁלְּקָחָן בְּזֶה אַחַר זֶה – הֲרֵי זֶה לֹא קָנָה לֹא אֶת הַקַּרְקַע וְלֹא אֶת הָאִילָנוֹת שֶׁבֵּינֵיהֶן; לְפִיכָךְ, יָבֵשׁ הָאִילָן אוֹ נִקְצַץ – אֵין לוֹ קַרְקַע.
 > **Translation:** If one bought three trees planted in this manner, **this one has acquired** the **land and the** small **trees that** are **between them. Therefore,** if **the tree dried up or was cut down he has** ownership of the **land.** If the distance between the trees was **less than this or more than this, or if he bought** the trees **one after the other, this** buyer **has not acquired either the land or the trees that** are **between them. Therefore,** if **the tree dried up or was cut down he has no** ownership over the **land.**
 
 The Gemara now presents the *mishnah* that encapsulates the rules governing land ownership through tree purchase. If the three trees are spaced between four and sixteen *amot* apart, the buyer acquires not only the trees but the land between them.
@@ -168,19 +184,18 @@ Equally, if the buyer purchased the three trees one at a time rather than as a s
 
 ## Measuring Distance
 
+
+
 ### Measuring Point
 
-> **Hebrew/Aramaic:** בָּעֵי רַבִּי יִרְמְיָה: כְּשֶׁהוּא מוֹדֵד, מִמָּקוֹם קָצָר הוּא מוֹדֵד, אוֹ מִמָּקוֹם רָחָב הוּא מוֹדֵד?
->
-> **Translation:** **Rabbi Yirmeya raises a dilemma: When one measures** the distance between the trees, **does he measure from the narrow place** on the trunk of the tree **or does he measure from the wide place?**
+> **Hebrew/Aramaic:** בָּעֵי רַבִּי יִרְמְיָה: כְּשֶׁהוּא מוֹדֵד, מִמָּקוֹם קָצָר הוּא מוֹדֵד, אוֹ מִמָּקוֹם רָחָב הוּא מוֹדֵד? אֲמַר לֵיהּ רַב גְּבִיהָה מִבֵּי כְתִיל לְרַב אָשֵׁי: תָּא שְׁמַע, דִּתְנַן: הָרְכוּבָה שֶׁבַּגֶּפֶן – אֵינוֹ מוֹדֵד אֶלָּא מֵעִיקָּר הַשֵּׁנִי.
+> **Translation:** § **Rabbi Yirmeya raises a dilemma: When one measures** the distance between the trees, **does he measure from the narrow place** on the trunk of the tree **or does he measure from the wide place? Rav Geviha of Bei Khatil said to Rav Ashi: Come** and **hear** a proof, **as we learned** in a mishna (*Kilayim* 7:1): When one comes to measure from **the layered branch of the vine he measures only from the second root,** as this is the average, not the widest part of the vine.
 
 Rabbi Yirmiyah raises a concrete question: *keshe-hu moded, mi-makom katzar hu moded o mi-makom rachav hu moded* — when measuring the distance between the trees to determine whether it falls within the four-to-sixteen range, does one measure from the narrow part of the trunk or from the wide part? The Rashbam notes that this is not necessarily a *chumra* or *kula* question, since it depends on which end of the range one is working with. The Rashbam also entertains the possibility that *makom rachav* refers to the canopy rather than the trunk, but he rejects this, reasoning that we are interested in where the tree is planted, and the canopy also presents practical measurement difficulties. He therefore assumes the question is about the base versus the upper part of the trunk.
 
-### Vine Knee Case
+It is worth pausing to clarify what is actually at stake once the trees are confirmed to fall within the valid range. The question of where to measure the four to sixteen *amot* bears only on whether the buyer acquires the land at all. But once that threshold is satisfied, the land conveyed is not limited to the ground between the trunks themselves — based on the earlier *gemara*, it appears that the buyer also acquires the land extending outward to the degree of the trees' overhang or canopy. This further implies that the property line is fixed at the extent of the canopy at the time of purchase, which is precisely why the *mishnah* rules that if the tree continues to grow beyond that line, the neighboring landowner may demand that it be trimmed.
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב גְּבִיהָה מִבֵּי כְתִיל לְרַב אָשֵׁי: תָּא שְׁמַע, דִּתְנַן: הָרְכוּבָה שֶׁבַּגֶּפֶן – אֵינוֹ מוֹדֵד אֶלָּא מֵעִיקָּר הַשֵּׁנִי.
->
-> **Translation:** **Rav Geviha of Bei Khatil said to Rav Ashi: Come** and **hear** a proof, **as we learned** in a mishna (*Kilayim* 7:1): When one comes to measure from **the layered branch of the vine he measures only from the second root,** as this is the average, not the widest part of the vine.
+### Vine Knee Case
 
 Rav Geviha of Bei Katil brings a proof from a *mishnah*: *ha-rekuva she-ba-gefen, eino moded ela me-ikar ha-sheni*. The term *rekuva* refers to a vine that has been bent at the knee — *arkuva*, as Tosafot explain, drawing on the word *berech* (knee). The practice described is that of bending a mature vine downward, burying the bent section underground, and allowing it to come back up and grow as what appears to be a separate vine. This technique (*mavriach*) causes the vine to root at the underground bend and send up a new shoot. The *mishnah* rules that when measuring the relevant distance, one measures from the *ikar ha-sheni* — the second root or the point from which the vine re-emerges.
 
@@ -196,19 +211,19 @@ The Rashbam reads *ikar ha-sheni* differently. Vines have characteristic knobs a
 
 ## Connected Trees
 
+
+
 ### Three Branches
 
-> **Hebrew/Aramaic:** בָּעֵי רַבִּי יִרְמְיָה: מָכַר לוֹ שְׁלֹשָׁה בַּדֵּי אִילָן, מַהוּ?
->
-> **Translation:** **Rabbi Yirmeya raises a dilemma:** If the owner of the field **sold to** someone **three branches** that grew from one **tree,** and its trunk was covered with earth so that the branches appeared to be three separate trees, **what is** the *halakha*?
+> **Hebrew/Aramaic:** בָּעֵי רַבִּי יִרְמְיָה: מָכַר לוֹ שְׁלֹשָׁה בַּדֵּי אִילָן, מַהוּ?
+> **Translation:** **Rabbi Yirmeya raises a dilemma:** If the owner of the field **sold to** someone **three branches** that grew from one **tree,** and its trunk was covered with earth so that the branches appeared to be three separate trees, **what is** the *halakha*? Are they considered three trees, which would mean that their owner acquires the ground between them?
 
-Rabbi Yirmiyah raises a further question, more in his characteristic style of pushing cases to their limits: *machar lo shlosha badei ilan mahu* — if someone sold another person three branches of a single tree, does this qualify as "three trees" for the purpose of land acquisition? The case is as follows: a single tree sends out a branch that bends down to the ground and comes back up, appearing to be a separate tree, and this process repeats, yielding what look like three distinct trees but are all still physically connected to and continuous with the original trunk.
+Rabbi Yirmiyah raises a further question, more in his characteristic style of pushing cases to their limits: *machar lo shlosha badei ilan mahu* — if someone sold another person three branches of a single tree, does this qualify as "three trees" for the purpose of land acquisition? The case is as follows: a single tree sends out a branch that bends down to the ground and comes back up, appearing to be a separate tree, and this process repeats, yielding what look like three distinct trees but are all still physically connected to and continuous with the original trunk. The parallel to the vine case discussed by the Gemara is exact: just as the *mavriach* technique produces what look like three separate vines by bending a single vine down and up repeatedly, here the same phenomenon occurs naturally with a tree. The question is whether these apparent trees count as genuinely distinct entities or remain, legally speaking, a single tree — and it is this question that the Gemara now moves to resolve by turning to a *mishnah*.
 
 ### Batei Ilan
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב גְּבִיהָה מִבֵּי כְתִיל לְרַב אָשֵׁי: תָּא שְׁמַע, דִּתְנַן: הַמַּבְרִיךְ שָׁלֹשׁ גְּפָנִים, וְעִקְּרֵיהֶן נִרְאִין – רַבִּי אֶלְעָזָר בְּרַבִּי צָדוֹק אוֹמֵר: אִם יֵשׁ בֵּינֵיהֶן מֵאַרְבַּע אַמּוֹת וְעַד שְׁמוֹנֶה – מִצְטָרְפִין, וְאִם לָאו – אֵין מִצְטָרְפִין.
->
-> **Translation:** **Rav Geviha of Bei Khatil said to Rav Ashi: Come** and **hear** a proof, **as we learned** in a mishna (*Kilayim* 7:2): With regard to **one who layers** the branches of **three vines** into the ground so that they take root while still attached to the base of the vine, **and their roots** that rise above the ground **are visible, Rabbi Elazar, son of Rabbi Tzadok, says: If there is** a distance **between them of four cubits to eight** cubits, **they combine** to form one vineyard composed of six grapevines. **And if not, they do not combine.**
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב גְּבִיהָה מִבֵּי כְתִיל לְרַב אָשֵׁי: תָּא שְׁמַע, דִּתְנַן: הַמַּבְרִיךְ שָׁלֹשׁ גְּפָנִים, וְעִקְּרֵיהֶן נִרְאִין – רַבִּי אֶלְעָזָר בְּרַבִּי צָדוֹק אוֹמֵר: אִם יֵשׁ בֵּינֵיהֶן מֵאַרְבַּע אַמּוֹת וְעַד שְׁמוֹנֶה – מִצְטָרְפִין, וְאִם לָאו – אֵין מִצְטָרְפִין.
+> **Translation:** **Rav Geviha of Bei Khatil said to Rav Ashi: Come** and **hear** a proof, **as we learned** in a mishna (*Kilayim* 7:2): With regard to **one who layers** the branches of **three vines** into the ground so that they take root while still attached to the base of the vine, **and their roots** that rise above the ground **are visible, Rabbi Elazar, son of Rabbi Tzadok, says: If there is** a distance **between them of four cubits to eight** cubits, **they combine** to form one vineyard composed of six grapevines. **And if not, they do not combine.** It can be inferred from this mishna that the different branches of a tree are considered separate entities when the trunk is covered by earth, provided the required distance between them is maintained.
 
 The answer comes from a *mishnah*: *ha-mavrich gimel gefanim ve-ikreihen nir'in* — if one has bent three vines (using the same *mavriach* technique) and their roots are visible, Rabbi Elazar the son of Rabbi Tzadok says: if there is between them from four *amot* to eight *amot*, they are considered to join together as a unit; if not, they do not join. The key phrase is *ve-ikreihen nir'in* — and their roots are visible, which the Rashbam explains means they have actually taken root underground. Once the bent section has taken root beneath the ground, these are considered separate entities — *batei ilan* — distinct trees or vines, even though they remain physically connected to the original.
 
@@ -220,10 +235,11 @@ The ruling thus follows: even when branches or vines are physically continuous w
 
 ## Special Cases
 
+
+
 ### Boundary Trees
 
-> **Hebrew/Aramaic:** בָּעֵי רַב פָּפָּא: מָכַר לוֹ שְׁנַיִם בְּתוֹךְ שָׂדֵהוּ וְאֶחָד עַל הַמֶּצֶר, מַהוּ? שְׁנַיִם בְּתוֹךְ שֶׁלּוֹ וְאֶחָד בְּתוֹךְ שֶׁל חֲבֵירוֹ, מַאי? תֵּיקוּ.
->
+> **Hebrew/Aramaic:** בָּעֵי רַב פָּפָּא: מָכַר לוֹ שְׁנַיִם בְּתוֹךְ שָׂדֵהוּ וְאֶחָד עַל הַמֶּצֶר, מַהוּ? שְׁנַיִם בְּתוֹךְ שֶׁלּוֹ וְאֶחָד בְּתוֹךְ שֶׁל חֲבֵירוֹ, מַאי? תֵּיקוּ.
 > **Translation:** **Rav Pappa raises a dilemma:** If the owner of a field **sold to** someone **two** trees **in his field and one** situated **on** its **border, what is** the *halakha*? Similarly, if one bought **two** trees **in** the field **of** one person **and one in** the field **of another, what** is the *halakha*? Do the trees combine to form one unit of three trees, or not? The Gemara states that this dilemma **shall stand** unresolved.
 
 Rav Pappa raises a question: *machar lo shnayim betoch sadehu ve-echad al ha-metzar mahu* — what if someone sold two trees located within the interior of the field and one tree standing right at the boundary line (*metzar*)? Does the tree at the edge of the field, by virtue of its position at the border, not combine with the other two to form the required unit? Perhaps a tree standing at the very edge is visually and conceptually distinct from the group, and fails to create the impression of a cohesive planting. The question is left unresolved.
@@ -232,21 +248,20 @@ Rav Pappa raises a question: *machar lo shnayim betoch sadehu ve-echad al ha-met
 
 A related and more striking question: *shnayim betoch shelo ve-echad betoch shel chaveiro mai* — what if two trees are within the seller's own field and the third tree is located within the field of a different person, yet the seller owns that third tree as well? If one were to connect them, the necessary range might be satisfied, but the fact that the third tree is physically situated within someone else's property may undermine the notion that they form a single continuous plot. Does the intervening ownership of the surrounding land sever the connection? The Gemara concludes with *teiku* — this question remains unresolved.
 
+[DAF:83b]
 ### Interruptions
 
-> **Hebrew/Aramaic:** בָּעֵי רַב אָשֵׁי: בּוֹר, מַהוּ שֶׁתַּפְסִיק? אַמַּת הַמַּיִם, מַהוּ שֶׁתַּפְסִיק? רְשׁוּת הָרַבִּים מַהוּ? רִיכְבָּא דְּדִיקְלֵי מַהוּ? תֵּיקוּ.
->
+> **Hebrew/Aramaic:** בָּעֵי רַב אָשֵׁי: בּוֹר, מַהוּ שֶׁתַּפְסִיק? אַמַּת הַמַּיִם, מַהוּ שֶׁתַּפְסִיק? רְשׁוּת הָרַבִּים מַהוּ? רִיכְבָּא דְּדִיקְלֵי מַהוּ? תֵּיקוּ.
 > **Translation:** **Rav Ashi raises a dilemma:** In the case of **a pit** situated between the trees, **what is** the *halakha* with regard to the possibility **that it divides** between the trees, and therefore the owner of the trees does not acquire the ground? Similarly, in the case of **a stream of water, what is** the *halakha* with regard to the possibility **that it divides** between the trees? With regard to the **public thoroughfare** that divides between trees, **what is** the *halakha*? Finally, in the case of **a line of palm trees, what is** the *halakha*? No answer is found for these problems, and the Gemara states that the dilemmas **shall stand** unresolved.
 
 Rav Ashi then raises a series of questions about physical interruptions between the trees. If a well (*bor*) sits in the middle of the space between the three trees, does it break the unit? One might argue that a well actually enhances the desirability of the plot, but one could also note that in a working agricultural field a well is typically situated at the edge rather than in the center of a planting area, and its presence in the middle may therefore conceptually sever the space. Similarly: does an aqueduct (*amat ha-mayim*) that physically cuts through the space between the trees interrupt the unit? A public thoroughfare (*reshut ha-rabbim*) passing between them? A grove of palm trees (*richba di-dikla*)? All of these are posed as *mahu shetefsik* — does it constitute an interruption? — and all remain with *teiku*.
 
 ### Cedar Tree
 
-> **Hebrew/Aramaic:** בְּעָא מִינֵּיהּ הִלֵּל מֵרַבִּי: עָלָה אֶרֶז בֵּינֵיהֶן, מַהוּ? ״עָלָה״?! בִּרְשׁוּתָא דִידֵיהּ נְפַק! אֶלָּא ״הָיָה אֶרֶז בֵּינֵיהֶן, מַהוּ?״ אֲמַר לֵיהּ: קָנָה וְקָנָה.
->
+> **Hebrew/Aramaic:** בְּעָא מִינֵּיהּ הִלֵּל מֵרַבִּי: עָלָה אֶרֶז בֵּינֵיהֶן, מַהוּ? ״עָלָה״?! בִּרְשׁוּתָא דִידֵיהּ נְפַק! אֶלָּא ״הָיָה אֶרֶז בֵּינֵיהֶן, מַהוּ?״ אֲמַר לֵיהּ: קָנָה וְקָנָה.
 > **Translation:** **Hillel raises a dilemma before Rabbi** Yehuda HaNasi: If **a cedar grew between** the three trees that one bought, **what is** the *halakha*? The Gemara asks: If it **grew,** then it **emerged in his domain,** as he already owns the ground, and therefore it is obvious that the cedar belongs to him. **Rather,** the dilemma is as follows: If, when one bought three trees, **there** already **was a cedar between them, what is** the *halakha*? Is it considered a division between the three trees? Rabbi Yehuda HaNasi **said to him:** Since he bought the trees, **he** has thereby **acquired** the cedar **and acquired** the land between them.
 
-Hillel asks of Rebbi: *ala erez beineihem mahu* — if a cedar tree grew up between the three purchased trees, does it break the unit? The Gemara quickly notes that this formulation is odd: if the land already belongs to the buyer by virtue of the three-tree purchase, and a cedar tree then grows in that land, it has grown in the buyer's own property — *ala bireshusa didei nafak*. The question is therefore reformulated: *haya erez beineihem mahu* — what if a cedar tree was already standing between the three trees at the time of purchase? Does its presence interrupt the unit?
+Hillel asks of Rebbi: *ala erez beineihen mahu* — if a cedar tree grew up between the three purchased trees, does it break the unit? The Gemara quickly notes that this formulation is odd: if the land already belongs to the buyer by virtue of the three-tree purchase, and a cedar tree then grows in that land, it has grown in the buyer's own property — *ala bireshusa didei nafik*. The question is therefore reformulated: *haya erez beineihem mahu* — what if a cedar tree was already standing between the three trees at the time of purchase? Does its presence interrupt the unit?
 
 Several factors make the cedar a candidate for breaking the unit: it is large, it is typically a non-fruit-bearing tree, and *ilan* (the standard word for tree in this context) usually refers to fruit trees. The cedar, being categorically distinct from a fruit tree, may render the space between the three purchased trees not a coherent planting unit. Rebbi answers: *karnei ve-karnei* — the buyer gets the land regardless; the cedar does not break the unit.
 
@@ -256,39 +271,32 @@ One further observation is worth noting: the interlocutors here are Hillel and R
 
 ## Row vs. Triangle
 
-### Line or Triangle
 
-> **Hebrew/Aramaic:** כֵּיצַד הֵן עוֹמְדִים? רַב אָמַר: כְּשׁוּרָה, וּשְׁמוּאֵל אָמַר: כַּחֲצוּבָא.
->
-> **Translation:** The Gemara asks: **In what manner** must the three trees be **positioned** for the buyer to acquire the ground between them? **Rav says:** They may be planted **in a straight line, and Shmuel says:** They must be planted **in** the form of **a tripod.**
+
+### Line or Triangle
 
 The Gemara now turns to the question of the physical configuration of the three trees: *keitzad hein omdin* — how must the trees be arranged? Rav says *ke-shura* — they may stand in a straight line. Shmuel says *ke-chatzuva* — they must be arranged like a tripod, i.e., in a triangle formation.
 
-### Land Depends on Form
+> **Hebrew/Aramaic:** כֵּיצַד הֵן עוֹמְדִים? רַב אָמַר: כְּשׁוּרָה, וּשְׁמוּאֵל אָמַר: כַּחֲצוּבָא. מַאן דְּאָמַר כְּשׁוּרָה – כׇּל שֶׁכֵּן כַּחֲצוּבָא; וּמַאן דְּאָמַר כַּחֲצוּבָא – אֲבָל כְּשׁוּרָה לָא, מַאי טַעְמָא? מִשּׁוּם דְּמִיזְדְּרַע בֵּינְתַיְיהוּ.
+> **Translation:** The Gemara asks: **In what manner** must the three trees be **positioned** for the buyer to acquire the ground between them? **Rav says:** They may be planted **in a straight line, and Shmuel says:** They must be planted **in** the form of **a tripod.** The Gemara notes: According to **the one who says** that the trees may be positioned **in a straight line, all the more so** one acquires the ground when the trees are planted **in** the form of **a tripod. But** according to **the one who says** they must be positioned **in a tripod,** the buyer acquires the ground only in this case; **but** if the trees were planted **in a straight line,** he does **not** acquire the ground. **What is the reason?** It is **because** when the trees are planted in the form of a straight line **one can sow between them,** and therefore the seller would not relinquish his right to the ground between the trees.
 
-> **Hebrew/Aramaic:** מַאן דְּאָמַר כְּשׁוּרָה – כׇּל שֶׁכֵּן כַּחֲצוּבָא; וּמַאן דְּאָמַר כַּחֲצוּבָא – אֲבָל כְּשׁוּרָה לָא, מַאי טַעְמָא? מִשּׁוּם דְּמִיזְדְּרַע בֵּינְתַיְיהוּ.
->
-> **Translation:** The Gemara notes: According to **the one who says** that the trees may be positioned **in a straight line, all the more so** one acquires the ground when the trees are planted **in** the form of **a tripod. But** according to **the one who says** they must be positioned **in a tripod,** the buyer acquires the ground only in this case; **but** if the trees were planted **in a straight line,** he does **not** acquire the ground. **What is the reason?** It is **because** when the trees are planted in the form of a straight line **one can sow between them,** and therefore the seller would not relinquish his right to the ground between the trees.
+### Land Depends on Form
 
 The Gemara derives that these two positions are not simply parallel alternatives but stand in logical relation to one another. Whoever holds that trees in a row (*shura*) convey the land would certainly hold that a triangle (*chatzuva*) does — the triangle more obviously defines an enclosed space. But whoever holds that only a triangle conveys the land would not extend this to trees in a row.
 
 ### Plantability Factor
 
+
 The reasoning behind the restrictive view is: *mishum de-mistara beintayhu* — because the space between trees in a row is still accessible and plantable by the seller. If the seller can still run a plow between the trees and cultivate that strip, it is reasonable to assume he would not intend to sell it. The space is still functionally his to use. By contrast, when the trees are arranged in a triangle, the land enclosed between them cannot be efficiently planted by the seller — the configuration makes agricultural use of the interior impractical. In that case, the seller has no strong reason to retain the interior land, and we assume it passes to the buyer along with the trees.
 
 ### Thorny Bush
 
-> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב הַמְנוּנָא: וּלְמַאן דְּאָמַר כַּחֲצוּבָא, מַאי טַעְמָא – דְּלָא מִיזְדְּרַע בֵּינְתַיְיהוּ? אֶלָּא מֵעַתָּה, זַבֵּין לֵיהּ תְּלָת הִיגֵי רוֹמָיָיתָא, דְּלָא מִיזְדְּרַע בֵּינְתַיְיהוּ, הָכִי נָמֵי דְּיֵשׁ לוֹ קַרְקַע?!
->
-> **Translation:** **Rav Hamnuna objects to this: And according to the one who says** that the trees must be planted **in** the form of **a tripod, what is the reason** that one who buys the trees acquires the ground? Is it **that one cannot sow between** the trees? **But if that is so,** in a case where **he sold him three Roman thorny shrubs, where one cannot sow between them, so too** would he say **that** the purchaser **has** ownership of the **ground?!**
+> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב הַמְנוּנָא: וּלְמַאן דְּאָמַר כַּחֲצוּבָא, מַאי טַעְמָא – דְּלָא מִיזְדְּרַע בֵּינְתַיְיהוּ? אֶלָּא מֵעַתָּה, זַבֵּין לֵיהּ תְּלָת הִיגֵי רוֹמָיָיתָא, דְּלָא מִיזְדְּרַע בֵּינְתַיְיהוּ, הָכִי נָמֵי דְּיֵשׁ לוֹ קַרְקַע?! אָמַר לֵיהּ: הָנָךְ לָא חֲשִׁיבִי, הָנָךְ חֲשִׁיבִי.
+> **Translation:** **Rav Hamnuna objects to this: And according to the one who says** that the trees must be planted **in** the form of **a tripod, what is the reason** that one who buys the trees acquires the ground? Is it **that one cannot sow between** the trees? **But if that is so,** in a case where **he sold him three Roman thorny shrubs, where one cannot sow between them, so too** would he say **that** the purchaser **has** ownership of the **ground?** The other Sage **said to** Rav Hamnuna: **Those** Roman shrubs **are not significant,** as they are merely shrubs and not trees, and therefore the ground is not acquired when one purchases them. By contrast, **these** trees **are important.**
 
 Rav Hamnuna challenges the triangle-based reasoning: if the operative principle is that the seller cannot plant the enclosed space, then consider a case where someone sold three large thorny bushes (*higei u-maisai*) arranged in a triangle. Between them, the seller certainly cannot plant — thorns make the space inaccessible. Would we say the buyer therefore receives the land between the thornbushes?
 
 ### Trees Plus Space
-
-> **Hebrew/Aramaic:** אָמַר לֵיהּ: הָנָךְ לָא חֲשִׁיבִי, הָנָךְ חֲשִׁיבִי.
->
-> **Translation:** The other Sage **said to** Rav Hamnuna: **Those** Roman shrubs **are not significant,** as they are merely shrubs and not trees, and therefore the ground is not acquired when one purchases them. By contrast, **these** trees **are important.**
 
 The response is decisive: *lo hanech lo chashivi, hanech chashivi* — thornbushes are not significant enough, not *chashiv* enough, to convey land. Both conditions must be met simultaneously. The items sold must be trees — which by virtue of their importance can serve as a basis for a land transaction — *and* the enclosed space must be one that the seller cannot efficiently plant. In the case of a triangle of trees, both conditions are satisfied. In the case of trees in a row, the trees meet the first condition but the space between them remains plantable, so the second condition fails. In the case of thornbushes in a triangle, the second condition is met but the first is not. Only when both are present does the buyer acquire the land.
 
@@ -296,13 +304,14 @@ The response is decisive: *lo hanech lo chashivi, hanech chashivi* — thornbush
 
 ## Animal Parts
 
+
+
 ### Large Animal Head
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הַמּוֹכֵר רֹאשׁ בְּהֵמָה גַּסָּה – לֹא מָכַר אֶת הָרַגְלַיִם, מָכַר אֶת הָרַגְלַיִם – לֹא מָכַר אֶת הָרֹאשׁ. מָכַר אֶת הַקָּנֶה – לֹא מָכַר אֶת הַכָּבֵד, מָכַר אֶת הַכָּבֵד – לֹא מָכַר אֶת הַקָּנֶה.
->
-> **Translation:** MISHNA: **One who sells the head** of **a large domesticated animal has not sold** along with it **the forelegs,** as each part is considered important in its own right. All the more so, if one **sold the forelegs he has not sold the head.** Similarly, if one **sold the windpipe** and the lungs **he has not sold the liver,** despite the fact that they are sometimes attached, and if he **sold the liver he has not sold the windpipe** and lungs.
-
 A new *mishnah* begins here, addressing a different domain of commercial law: the sale of animal parts. *Ha-mocher rosh behema gassa lo machar et ha-raglayim* — one who sells the head of a large animal (such as a cow) has not sold the legs. The word "head" (*rosh*) might in other contexts function as a synecdoche for the whole animal — we commonly speak of "heads of cattle" — but the *mishnah* establishes that here it means literally the head, and even the legs are not included.
+
+> **Hebrew/Aramaic:** מַתְנִי׳ הַמּוֹכֵר רֹאשׁ בְּהֵמָה גַּסָּה – לֹא מָכַר אֶת הָרַגְלַיִם, מָכַר אֶת הָרַגְלַיִם – לֹא מָכַר אֶת הָרֹאשׁ. מָכַר אֶת הַקָּנֶה – לֹא מָכַר אֶת הַכָּבֵד, מָכַר אֶת הַכָּבֵד – לֹא מָכַר אֶת הַקָּנֶה. אֲבָל בְּדַקָּה; מָכַר אֶת הָרֹאשׁ – מָכַר אֶת הָרַגְלַיִם, מָכַר אֶת הָרַגְלַיִם – לֹא מָכַר אֶת הָרֹאשׁ. מָכַר אֶת הַקָּנֶה – מָכַר אֶת הַכָּבֵד, מָכַר אֶת הַכָּבֵד – לֹא מָכַר אֶת הַקָּנֶה.
+> **Translation:** MISHNA: **One who sells the head** of **a large domesticated animal has not sold** along with it **the forelegs,** as each part is considered important in its own right. All the more so, if one **sold the forelegs he has not sold the head.** Similarly, if one **sold the windpipe** and the lungs **he has not sold the liver,** despite the fact that they are sometimes attached, and if he **sold the liver he has not sold the windpipe** and lungs. **But in** the case of **small** domesticated animals, if one **sold the head he has sold the forelegs,** although if one **sold the legs he has not sold the head.** Likewise, if one **sold the windpipe** and lungs **he has sold the liver,** but if he **sold the liver he has not sold the windpipe** and lungs.
 
 ### Organs and Parts
 
@@ -310,9 +319,6 @@ The *mishnah* then covers the reverse: *machar et ha-raglayim lo machar et ha-ro
 
 ### Small Animal Rules
 
-> **Hebrew/Aramaic:** אֲבָל בְּדַקָּה; מָכַר אֶת הָרֹאשׁ – מָכַר אֶת הָרַגְלַיִם, מָכַר אֶת הָרַגְלַיִם – לֹא מָכַר אֶת הָרֹאשׁ. מָכַר אֶת הַקָּנֶה – מָכַר אֶת הַכָּבֵד, מָכַר אֶת הַכָּבֵד – לֹא מָכַר אֶת הַקָּנֶה.
->
-> **Translation:** **But in** the case of **small** domesticated animals, if one **sold the head he has sold the forelegs,** although if one **sold the legs he has not sold the head.** Likewise, if one **sold the windpipe** and lungs **he has sold the liver,** but if he **sold the liver he has not sold the windpipe** and lungs.
 
 For a small animal (*dakka*), such as a sheep or goat, the rules differ somewhat. *Machar et ha-rosh machar et ha-raglayim* — if one sells the head, the legs are included, presumably because the head of a small animal has relatively little meat and the legs are naturally assumed to come along with it. However, selling the legs does not include the head. As for organs: *machar et ha-kane machar et ha-kaved* — selling the trachea and lungs of a small animal includes the liver, perhaps again because the trachea-and-lungs unit is the less substantial portion. But *machar ha-kaved lo* — selling the liver does not include the lungs and trachea.
 
@@ -320,27 +326,20 @@ For a small animal (*dakka*), such as a sheep or goat, the rules differ somewhat
 
 ## Four Categories
 
+
+
 ### Good to Bad
 
-> **Hebrew/Aramaic:** אַרְבַּע מִדּוֹת בַּמּוֹכְרִין: מָכַר לוֹ חִטִּין יָפוֹת וְנִמְצְאוּ רָעוֹת – הַלּוֹקֵחַ יָכוֹל לַחֲזוֹר בּוֹ.
->
-> **Translation:** There are **four** basic **cases with regard to sellers** and buyers. If the seller **sold him wheat** and said that the wheat was **good, and it is found** to be **bad, the buyer,** but not the seller, **can renege on** the sale.
+> **Hebrew/Aramaic:** אַרְבַּע מִדּוֹת בַּמּוֹכְרִין: מָכַר לוֹ חִטִּין יָפוֹת וְנִמְצְאוּ רָעוֹת – הַלּוֹקֵחַ יָכוֹל לַחֲזוֹר בּוֹ. רָעוֹת וְנִמְצְאוּ יָפוֹת – מוֹכֵר יָכוֹל לַחֲזוֹר בּוֹ. רָעוֹת וְנִמְצְאוּ רָעוֹת; יָפוֹת וְנִמְצְאוּ יָפוֹת – אֵין אֶחָד מֵהֶם יָכוֹל לַחֲזוֹר בּוֹ.
+> **Translation:** There are **four** basic **cases with regard to sellers** and buyers. If the seller **sold him wheat** and said that the wheat was **good, and it is found** to be **bad, the buyer,** but not the seller, **can renege on** the sale. If the seller sold him what he thought was **bad** wheat **and it is found** to be **good, the seller can renege on** the sale but the buyer cannot. If he sold **bad** wheat **and it is found** to be **bad,** or **good** wheat **and it is found** to be **good, neither one of them can renege on** the sale, as the condition of the sale was met.
 
 The *mishnah* introduces a new and conceptually rich section: *arba midot be-mocheim* — four categories of transactions. Despite the formulation (literally "four categories among sellers"), the intent is to classify four types of transactions and the legal rights each generates. The first: *machar lo chitin yafot ve-nimtze'u ra'ot* — he sold him high-quality wheat and it turned out to be low quality. In this case, *ha-loke'ach yachol lachzor bo* — the buyer may retract.
 
 ### Bad to Good
 
-> **Hebrew/Aramaic:** רָעוֹת וְנִמְצְאוּ יָפוֹת – מוֹכֵר יָכוֹל לַחֲזוֹר בּוֹ.
->
-> **Translation:** If the seller sold him what he thought was **bad** wheat **and it is found** to be **good, the seller can renege on** the sale but the buyer cannot.
-
 The second category is the reverse: *ra'ot ve-nimtze'u yafot* — he sold low-quality and it turned out to be high quality. Here, *ha-mocher yachol lachzor bo* — the seller may retract. This might seem counterintuitive — the buyer received something better than he paid for — but the seller can claim that the transaction was not what he intended.
 
 ### As Promised
-
-> **Hebrew/Aramaic:** רָעוֹת וְנִמְצְאוּ רָעוֹת; יָפוֹת וְנִמְצְאוּ יָפוֹת – אֵין אֶחָד מֵהֶם יָכוֹל לַחֲזוֹר בּוֹ.
->
-> **Translation:** If he sold **bad** wheat **and it is found** to be **bad,** or **good** wheat **and it is found** to be **good, neither one of them can renege on** the sale, as the condition of the sale was met.
 
 The third category is where delivery matches the agreement: *yafot ve-nimtze'u yafot, ra'ot ve-nimtze'u ra'ot* — whether the transaction was for high or low quality and the delivery matched, *ein echad meihem yachol lachzor bo* — neither party may retract. This is not a great novelty but is necessary to complete the structure of the four cases.
 
@@ -348,9 +347,8 @@ What requires further reflection is the precise mechanism of the first two categ
 
 ### Different Type
 
-> **Hebrew/Aramaic:** שְׁחַמְתִּית וְנִמְצֵאת לְבָנָה, לְבָנָה וְנִמְצֵאת שְׁחַמְתִּית; עֵצִים שֶׁל זַיִת וְנִמְצְאוּ שֶׁל שִׁקְמָה, שֶׁל שִׁקְמָה וְנִמְצְאוּ שֶׁל זַיִת; יַיִן וְנִמְצָא חוֹמֶץ, חוֹמֶץ וְנִמְצָא יַיִן – שְׁנֵיהֶם יְכוֹלִין לַחֲזוֹר בָּהֶן.
->
-> **Translation:** If the seller sold **reddish-brown** wheat **and it is found** to be **white,** or **white** wheat **and it is found** to be **reddish-brown,** and similarly, if he sold **olive wood and it is found** to be wood **of a sycamore,** or he sold wood **of a sycamore and it is found** to be wood **of an olive** tree, or if the seller sold him **wine and it is found** to be **vinegar,** or **vinegar and it is found** to be **wine,** in all of these cases **both** the seller and the buyer **can renege on** the sale.
+> **Hebrew/Aramaic:** שְׁחַמְתִּית וְנִמְצֵאת לְבָנָה, לְבָנָה וְנִמְצֵאת שְׁחַמְתִּית; עֵצִים שֶׁל זַיִת וְנִמְצְאוּ שֶׁל שִׁקְמָה, שֶׁל שִׁקְמָה וְנִמְצְאוּ שֶׁל זַיִת; יַיִן וְנִמְצָא חוֹמֶץ, חוֹמֶץ וְנִמְצָא יַיִן – שְׁנֵיהֶם יְכוֹלִין לַחֲזוֹר בָּהֶן.
+> **Translation:** If the seller sold **reddish-brown** wheat **and it is found** to be **white,** or **white** wheat **and it is found** to be **reddish-brown,** and similarly, if he sold **olive wood and it is found** to be wood **of a sycamore,** or he sold wood **of a sycamore and it is found** to be wood **of an olive** tree, or if the seller sold him **wine and it is found** to be **vinegar,** or **vinegar and it is found** to be **wine,** in all of these cases **both** the seller and the buyer **can renege on** the sale. Since the sale was for a different item than that which was delivered, the transaction can be nullified even if there was no mistake with regard to the price.
 
 The fourth category is the most conceptually distinct: *shachamtit ve-nimtze'u levana, levana ve-nimtze'u shachamtit* — sold as red and turned out to be white, or sold as white and turned out to be red. More broadly, the *mishnah* includes: sold as olive wood and turned out to be sycamore; sold as sycamore and turned out to be olive wood; sold as wine and turned out to be vinegar; sold as vinegar and turned out to be wine. In all of these cases, the discrepancy is not one of better versus worse but of different kind or color, where preferences among buyers and sellers may vary. *Sheneihem yecholim lachzor bo* — both parties may retract.
 

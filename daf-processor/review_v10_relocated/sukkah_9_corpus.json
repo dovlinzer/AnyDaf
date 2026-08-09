@@ -1,0 +1,239 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Old Sukkah Definition",
+    "candidates": [
+      "Old Sukkah Definition",
+      "Beis Shammai's Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage defining 'old sukkah' and the Beit Shammai/Beit Hillel dispute directly matches the 'Old Sukkah Definition' section's prose, which explicitly discusses this exact mishna content.",
+      "chosen_heading": "Old Sukkah Definition",
+      "current_heading": "Old Sukkah Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Beis Shammai's Intent",
+    "candidates": [
+      "Beis Shammai's Intent",
+      "Beis Hillel's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Beit Shammai's rationale derived from the verse 'chag ha-sukkos shivat yamim l'Hashem,' which is precisely what the prose under 'Beis Shammai's Intent' discusses.",
+      "chosen_heading": "Beis Shammai's Intent",
+      "current_heading": "Beis Shammai's Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Beis Hillel's Position",
+    "candidates": [
+      "Beis Hillel's Position",
+      "Verse Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Beis Hillel's Position' prose, which explicitly discusses Rav Sheshet's derivation about atzei sukkah being forbidden all seven days and Rabbi Yehuda ben Beteira's baraita about shem shamayim taking effect on the sukkah \u2014 precisely the content of items 1 and 2.",
+      "chosen_heading": "Beis Hillel's Position",
+      "current_heading": "Beis Hillel's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Verse Interpretation",
+    "candidates": [
+      "Verse Interpretation",
+      "Chol HaMoed Construction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Beit Shammai derivation from a second verse requiring the sukka to be designated for the sake of the festival, which is precisely what the 'Verse Interpretation' prose discusses in detail.",
+      "chosen_heading": "Verse Interpretation",
+      "current_heading": "Verse Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Chol HaMoed Construction",
+    "candidates": [
+      "Chol HaMoed Construction",
+      "Chal Shem Shamayim",
+      "Tzitzis Leshmah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Beit Hillel's and Beit Shammai's positions on constructing a sukkah during chol ha-moed, which is precisely what the 'Chol HaMoed Construction' section's prose addresses.",
+      "chosen_heading": "Chol HaMoed Construction",
+      "current_heading": "Chol HaMoed Construction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Tzitzis Leshmah",
+    "candidates": [
+      "Chal Shem Shamayim",
+      "Tzitzis Leshmah",
+      "Sukkah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Rav Yehuda/Rav ruling about tzitzis made from kotzim, nimim, geradin, and sisin, and Shmuel's extension requiring teviyah lishmah \u2014 exactly the content described in the 'Tzitzis Leshmah' section prose.",
+      "chosen_heading": "Tzitzis Leshmah",
+      "current_heading": "Tzitzis Leshmah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Sukkah Exception",
+    "candidates": [
+      "Sukkah Exception",
+      "Mitzvah vs. Kedusha",
+      "Ownership Issues",
+      "Tree Prohibition",
+      "Sukkah Tachas Sukkah",
+      "Rabbi Yehuda's Exception",
+      "Shade-Sunlight Ratio"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question-and-answer about why 'lecha' in the sukkah verse doesn't require lishmah while 'lach' in tzitzis does, which is precisely what the 'Sukkah Exception' prose describes in detail.",
+      "chosen_heading": "Sukkah Exception",
+      "current_heading": "Sukkah Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Shade-Sunlight Ratio",
+    "candidates": [
+      "Mitzvah vs. Kedusha",
+      "Ownership Issues",
+      "Tree Prohibition",
+      "Sukkah Tachas Sukkah",
+      "Rabbi Yehuda's Exception",
+      "Shade-Sunlight Ratio",
+      "Schach Combination",
+      "Mixed Schach Solution",
+      "Mixed Schach Halacha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tree Prohibition",
+      "first_confidence": "high",
+      "first_reason": "Items 1 (the Mishna introducing the tree case and sukkah-atop-sukkah) belongs under 'Tree Prohibition' / 'Sukkah Tachas Sukkah' context, but the Mishna text itself is the opening that the 'Tree Prohibition' prose introduces.",
+      "second_heading": "Shade-Sunlight Ratio",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are Rava's Gemara ruling on the shade-sunlight ratio and Rav Pappa's solution to the pasul sechach combining problem, which exactly matches the 'Shade-Sunlight Ratio' prose discussion.",
+      "current_heading": "Shade-Sunlight Ratio",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Mixed Schach Halacha",
+    "candidates": [
+      "Schach Combination",
+      "Mixed Schach Solution",
+      "Mixed Schach Halacha",
+      "Vines and Gourds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question about why the halacha needed to be stated when mixing was done, and provides the answer about not issuing a gezeirah \u2014 which is precisely what the 'Mixed Schach Halacha' section's prose describes.",
+      "chosen_heading": "Mixed Schach Halacha",
+      "current_heading": "Mixed Schach Halacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Vines and Gourds",
+    "candidates": [
+      "Vines and Gourds",
+      "Bediavad vs. Lechatila"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about trellising grapevines, gourds, and ivy over a sukka, which is precisely what the 'Vines and Gourds' section's prose discusses in detail.",
+      "chosen_heading": "Vines and Gourds",
+      "current_heading": "Vines and Gourds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Bediavad vs. Lechatila",
+    "candidates": [
+      "Bediavad vs. Lechatila",
+      "Branch Overhang Impact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the bediavad vs. lechatchila distinction \u2014 questioning whether the mishna's ruling applies only after the fact and concluding that one may mix pasul and kosher sechach even ab initio \u2014 which is precisely what the prose in candidate 0 describes.",
+      "chosen_heading": "Bediavad vs. Lechatila",
+      "current_heading": "Bediavad vs. Lechatila",
+      "moved": false
+    }
+  }
+]

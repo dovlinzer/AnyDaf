@@ -1,0 +1,283 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Ben Bag Bag's Question",
+    "candidates": [
+      "Kohen's Wife Terumah",
+      "Kinyan Kaspo vs. Beveitch",
+      "Bavli vs. Yerushalmi",
+      "Ben Bag Bag's Question",
+      "Kal Vachomer: Slave",
+      "Beteira's Response",
+      "Ula's Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly constitute Ravina's clarification that Ben Bag Bag's question concerned only the rabbinic dimension, and the content of the message sent \u2014 precisely what the prose under 'Ben Bag Bag's Question' describes in detail, including the simpon concern.",
+      "chosen_heading": "Ben Bag Bag's Question",
+      "current_heading": "Ben Bag Bag's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Ula's Reason",
+    "candidates": [
+      "Kal Vachomer: Slave",
+      "Beteira's Response",
+      "Ula's Reason",
+      "Wife vs. Slave Defect",
+      "Visible vs. Hidden Defect",
+      "Gannav, Kubyustos Slaves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form Rabbi Yehuda ben Beteira's response \u2014 the kal vachomer from the Canaanite maidservant followed by the conclusion that the Sages ruled an arusah does not eat terumah until chuppah due to Ulla's reason \u2014 which is exactly what candidate 1 ('Beteira's Response') describes in its prose.",
+      "chosen_heading": "Beteira's Response",
+      "current_heading": "Ula's Reason",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Gannav, Kubyustos Slaves",
+    "candidates": [
+      "Wife vs. Slave Defect",
+      "Visible vs. Hidden Defect",
+      "Gannav, Kubyustos Slaves",
+      "Practical Difference",
+      "Kibeil: Waiver",
+      "Masar V'Halach"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Visible vs. Hidden Defect",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss why simpon does not apply to slaves (visible blemishes, hidden blemishes irrelevant for labor, thief/gambler expected, bandit publicly known), which matches exactly the 'Visible vs. Hidden Defect' and 'Gannav, Kubyustos Slaves' prose \u2014 but since item 1 (ben Bag Bag rejecting simpon for slaves entirely) is the opening move of this slave-defect discussion, and the prose of candidate 1 ('Visible vs. Hidden Defect') explicitly covers the ben Bag Bag reasoning about visible vs. hidden defects, items 1-2 together belong under candidate 1 which flows into candidate 2, but the current placement of items 1-2 under candidate 2 ('Gannav, Kubyustos Slaves') is also defensible; however item 3 is a structurally new question \u2014 'what is the practical difference between them' \u2014 which is the mai beinaihu question that belongs under candidate 3 ('Practical Difference').",
+      "second_heading": "Practical Difference",
+      "second_confidence": "high",
+      "second_reason": "Item 3 asks 'what is the difference between them' given that both authorities agree the arusah does not eat teruma, which is precisely the mai beinaihu question described in the 'Practical Difference' prose.",
+      "current_heading": "Gannav, Kubyustos Slaves",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Masar V'Halach",
+    "candidates": [
+      "Practical Difference",
+      "Kibeil: Waiver",
+      "Masar V'Halach",
+      "Tosefta: L'Shem Kiddushin",
+      "Common Law Marriage",
+      "Henkin vs. Feinstein",
+      "Shammai vs. Hillel",
+      "Coinage Chart",
+      "Makpedet Al Atzma",
+      "Alas Ma'ata"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Practical Difference",
+      "first_confidence": "high",
+      "first_reason": "Item 1 lists the three practical differences (kibeil, masar, halach) between the two rationales, which is the direct answer to the 'mai beinaihu' question posed in the 'Practical Difference' section's prose.",
+      "second_heading": "Shammai vs. Hillel",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the gemara's return to the mishna's dispute between Beit Shammai and Beit Hillel over the minimum amount for kiddushei kesef, which is precisely what the 'Shammai vs. Hillel' section's prose describes.",
+      "current_heading": "Masar V'Halach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Alas Ma'ata",
+    "candidates": [
+      "Tosefta: L'Shem Kiddushin",
+      "Common Law Marriage",
+      "Henkin vs. Feinstein",
+      "Shammai vs. Hillel",
+      "Coinage Chart",
+      "Makpedet Al Atzma",
+      "Alas Ma'ata",
+      "Daughters of Rabbi Yannai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage shows Abaye's challenge about Rabbi Yannai's daughters who won't accept kiddushin for less than a basketful of dinars, which is the exact objection the prose under 'Makpedet Al Atzma' (index 5) describes as the difficulty with Rabbi Zeira's subjective rationale \u2014 the current placement under 'Alas Ma'ata' (index 6) is where the gemara's answer appears, but this passage is the question/objection that belongs with the discussion of the subjective dignity problem raised in index 5.",
+      "chosen_heading": "Makpedet Al Atzma",
+      "current_heading": "Alas Ma'ata",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Daughters of Rabbi Yannai",
+    "candidates": [
+      "Alas Ma'ata",
+      "Daughters of Rabbi Yannai",
+      "Two Coinage Systems"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's response clarifying that 'pashta yada ve-kibla' is not the case under discussion, which matches candidate 0's prose that explicitly discusses this exact phrase and the gemara's answer about conscious acceptance.",
+      "chosen_heading": "Alas Ma'ata",
+      "current_heading": "Daughters of Rabbi Yannai",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Two Coinage Systems",
+    "candidates": [
+      "Two Coinage Systems",
+      "1:8 Ratio",
+      "Ketubah Application",
+      "Rav Assi's Chiddush"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Coinage Systems",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yosef's citation of the Tyrian/provincial coinage rule as an explanation for Beit Shammai, which is precisely what heading 0 'Two Coinage Systems' describes.",
+      "second_heading": "Rav Assi's Chiddush",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens 'gufa' \u2014 the Gemara's independent re-examination of Rav Assi's rule itself \u2014 which is exactly what heading 3 'Rav Assi's Chiddush' describes as stepping back to reconsider the full scope of the rule and its reformulation.",
+      "current_heading": "Two Coinage Systems",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Rav Assi's Chiddush",
+    "candidates": [
+      "1:8 Ratio",
+      "Ketubah Application",
+      "Rav Assi's Chiddush",
+      "Rabbinic Fixed Amounts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items form the continuous gemara discussion that challenges and then reformulates Rav Asi's rule \u2014 covering the deposit/claim objection, the tithe and hekdesh objections, the kiddushin objection, and the final reformulation to 'kesef katzuv' \u2014 which is precisely what the 'Rav Assi's Chiddush' prose describes.",
+      "chosen_heading": "Rav Assi's Chiddush",
+      "current_heading": "Rav Assi's Chiddush",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Rabbinic Fixed Amounts",
+    "candidates": [
+      "Rabbinic Fixed Amounts",
+      "Sela Medina: Istira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly presents the Gemara's challenge 'what is Rav Asi teaching us?' followed by the mishnah listing Torah-fixed amounts (five sela, thirty, fifty, one hundred \u2014 all in shekel hakodesh/maneh Tzuri), which is precisely what the prose in candidate 0 discusses as the already-known first part that is NOT Rav Assi's chiddush, making the current placement correct.",
+      "chosen_heading": "Rabbinic Fixed Amounts",
+      "current_heading": "Rabbinic Fixed Amounts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Sela Medina: Istira",
+    "candidates": [
+      "Sela Medina: Istira",
+      "Slave Girl Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the definition of 'sela' as half a dinar (istira/isteira) in the context of rabbinic fines, which matches exactly what the prose under 'Sela Medina: Istira' is explaining.",
+      "chosen_heading": "Sela Medina: Istira",
+      "current_heading": "Sela Medina: Istira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Slave Girl Model",
+    "candidates": [
+      "Slave Girl Model",
+      "Pidyon Logic",
+      "Presumed Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Shimon ben Lakish's explanation grounding Beit Shammai's reasoning in the amah ivrit parallel, which is precisely what the 'Slave Girl Model' prose describes as its content.",
+      "chosen_heading": "Slave Girl Model",
+      "current_heading": "Slave Girl Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Presumed Amount",
+    "candidates": [
+      "Pidyon Logic",
+      "Presumed Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly argues that if the original price were a single perutah, the redemption-by-deduction mechanism would be meaningless \u2014 precisely the 'mi-perutah mi-migra'at' logic described in the 'Pidyon Logic' prose, not the 'Presumed Amount' prose which discusses moving from 'more than a perutah' to a dinar specifically.",
+      "chosen_heading": "Pidyon Logic",
+      "current_heading": "Presumed Amount",
+      "moved": true
+    }
+  }
+]

@@ -1,12 +1,9 @@
-# Shabbat 4 — Daf Yomi Shiur
-
+[DAF:3b]
 ## Previous Principles
 
-### Patur & Domain
 
-> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: אִידֵּי וְאִידֵּי לְמַטָּה מֵעֲשָׂרָה וְלָאו כְּכַרְמְלִית דָּמְיָא, וְלָא קַשְׁיָא: כָּאן מִבְּעוֹד יוֹם, כָּאן מִשֶּׁחָשֵׁיכָה. מִבְּעוֹד יוֹם — לָא קַנְסוּהּ רַבָּנַן, מִשֶּׁחָשֵׁיכָה — קַנְסוּהּ רַבָּנַן.
->
-> **Translation:** **And if you wish, say** instead that **this** *baraita* **and that** *baraita* are both referring to a case where he took his hand out to the public domain at a height **below ten** handbreadths, **and** his hand **is not considered a *karmelit*. And** yet, this is **not difficult.** As **here,** the *baraita* permitting him to bring it back, is referring to a case where he took it out **while it was still day** on Shabbat eve. Since he extended his hand before Shabbat and, in doing so, did nothing wrong, the Sages did not penalize him and permitted him to bring his hand back on Shabbat itself. However, **there,** the *baraita* prohibiting him from bringing it back, is referring to a case where he took it out **after dark,** and Shabbat had already begun. Since there is an element of prohibition involved, the Sages penalized him and prohibited him from bringing it back.
+
+### Patur & Domain
 
 The daf begins at the very bottom of 3b with the word *iba'it eima*. Before proceeding, it is worth reviewing several principles that have emerged over the preceding days of learning. First, the word *patur* as it appears in the *Mishna* does not mean fully permitted — it still indicates a rabbinic problem. Second, regarding the location of an object: if an object is resting on your person and you are stationary, the object is considered to be in the same domain that you occupy. A useful way to picture this is that you become like a piece of furniture — the object on you is like an object on a table. Consequently, when you move, it is as though you are lifting the object off that table and removing it from its domain.
 
@@ -20,23 +17,32 @@ The situation changes, however, when one's body is in one domain and one's hand 
 
 The concrete scenario is as follows: one extends one's arm through a window on *Shabbos* without an *eiruv*, and the object in one's hand is now suspended over the airspace of *reshut harabim* — which, as was established, extends only up to *asara tefachim*. The object is neither in *reshut hayachid* (because the hand is outside) nor in *reshut harabim* (because the person is inside). May one pull the hand back in?
 
+[DAF:4a]
 ### Two Braitot
 
 Two *braitot* were cited earlier, one permitting retraction and one prohibiting it. The *Gemara* offered various interpretations relating to when a *knas* — a rabbinic fine — is imposed and when it is not.
 
+> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא, לְעוֹלָם לָא תִּפְשׁוֹט, וְלָא קַשְׁיָא: כָּאן בְּשׁוֹגֵג, כָּאן בְּמֵזִיד. בְּשׁוֹגֵג — לָא קַנְסוּהּ רַבָּנַן. בְּמֵזִיד קַנְסוּהּ רַבָּנַן.
+> **Translation:** **And if you wish, say** instead: **Actually, do not resolve** the dilemma, but, nevertheless, resolve the contradiction between the *baraitot* in the following manner. **Here,** the *baraita* that taught that it is permitted to bring one’s hand back is referring to a case where he extended it **unwittingly. There,** the *baraita* that taught that it is prohibited for one to bring it back is referring to a case where he took it out **intentionally.** When he took it out **unwittingly, the Sages did not penalize him.** When he took it out **intentionally, the Sages penalized him** and prohibited him from bringing it back.
+
+> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא, אִידֵּי וְאִידֵּי בְּשׁוֹגֵג, וְהָכָא בְּקָנְסוּ שׁוֹגֵג אַטּוּ מֵזִיד קָמִיפַּלְגִי: מָר סָבַר קָנְסוּ שׁוֹגֵג אַטּוּ מֵזִיד. וּמָר סָבַר לֹא קָנְסוּ שׁוֹגֵג אַטּוּ מֵזִיד.
+> **Translation:** **And if you wish, say** instead, in order to resolve the contradiction that **this** *baraita* **and that** *baraita* **are** both referring to a case where he took his hand out **unwittingly. And here they disagree** with regard to the question: Did the Sages **penalize** an **unwitting** offender **due to an intentional** offender? **The Sage** who prohibits him from bringing his hand back **holds** that **they penalized** an **unwitting** offender **due to an intentional** offender. Therefore, even though he took his hand out unwittingly, they penalized him and prohibited him from bringing the object back so that he would not come to do so intentionally. **The Sage** who permits him to bring it back **holds** that **they did not penalize** an **unwitting** offender **due to an intentional** offender. Therefore, they did not prohibit him from bringing it back.
+
+> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא, לְעוֹלָם לֹא קָנְסוּ, וְלָא קַשְׁיָא: כָּאן לְאוֹתָהּ חָצֵר,
+> **Translation:** **And if you wish, say** instead that, **actually, they did not penalize** an unwitting offender due to an intentional offender, **and** still, this is **not difficult,** and there is no contradiction. **Here,** the *baraita* that permits bringing it back, is referring to bringing it back **to the same courtyard** where he is standing.
+
+> **Hebrew/Aramaic:** כָּאן לְחָצֵר אַחֶרֶת. כְּדִבְעָא מִינֵּיהּ רָבָא מֵרַב נַחְמָן: הָיְתָה יָדוֹ מְלֵאָה פֵּירוֹת וְהוֹצִיאָהּ לַחוּץ, מַהוּ לְהַחֲזִירָהּ לְאוֹתָהּ חָצֵר? אָמַר לֵיהּ: מוּתָּר. לְחָצֵר אַחֶרֶת מַהוּ? אָמַר לֵיהּ: אָסוּר.
+> **Translation:** **There,** the *baraita* that prohibits returning the object, is referring to bringing it **to a different courtyard, as Rava raised a dilemma before Rav Naḥman:** One who was standing in a courtyard on Shabbat, and **his hand was filled with fruits, and he extended it outside** into the public domain, **what is** the ruling with regard to whether or not he is allowed **to bring it back into the same courtyard** where he is standing? Rav Naḥman **said to him: It is permitted.** And he asked him further: **What is** the ruling with regard to bringing it from the public domain **to a different courtyard? He said to him: It is prohibited.**
+
+> **Hebrew/Aramaic:** וּמַאי שְׁנָא! לְכִי תֵּיכוּל עֲלַהּ כּוֹרָא דְּמִילְחָא. הָתָם, לָא אִיתְעֲבִידָא מַחְשַׁבְתּוֹ. הָכָא, אִיתְעֲבִידָא מַחְשַׁבְתּוֹ.
+> **Translation:** Rava asked about this: **And** in **what** way **is** one case **different** from the other? By definition, both courtyards are private domains, and there is no apparent halakhic difference between them in terms of Shabbat. Rav Naḥman answered jokingly: **When you eat a *kor* of salt** while thinking **it over,** you will know the answer. Actually, the answer is simple: **There,** the *baraita* that taught that it is permitted to bring it back to the same courtyard, said so because **his planned** objective **was not realized.** Since he sought to take an object out of his courtyard, requiring him to bring the object back to its original place is a penalty of sorts. However, **here,** the *baraita* that taught that it is prohibited to bring it back to a different courtyard, said so because **his planned** objective **was realized.** Therefore, it is prohibited to bring it back there.
+
 ### Kaneis Resolution
 
-> **Hebrew/Aramaic:** לְעוֹלָם לֹא קָנְסוּ, וְלָא קַשְׁיָא: כָּאן לְאוֹתָהּ חָצֵר, כָּאן לְחָצֵר אַחֶרֶת. כְּדִבְעָא מִינֵּיהּ רָבָא מֵרַב נַחְמָן: הָיְתָה יָדוֹ מְלֵאָה פֵּירוֹת וְהוֹצִיאָהּ לַחוּץ, מַהוּ לְהַחֲזִירָהּ לְאוֹתָהּ חָצֵר? אָמַר לֵיהּ: מוּתָּר. לְחָצֵר אַחֶרֶת מַהוּ? אָמַר לֵיהּ: אָסוּר.
->
-> **Translation:** **Actually, they did not penalize** an unwitting offender due to an intentional offender, **and** still, this is **not difficult,** and there is no contradiction. **Here,** the *baraita* that permits bringing it back, is referring to bringing it back **to the same courtyard** where he is standing. **There,** the *baraita* that prohibits returning the object, is referring to bringing it **to a different courtyard, as Rava raised a dilemma before Rav Naḥman:** One who was standing in a courtyard on Shabbat, and **his hand was filled with fruits, and he extended it outside** into the public domain, **what is** the ruling with regard to whether or not he is allowed **to bring it back into the same courtyard** where he is standing? Rav Naḥman **said to him: It is permitted.** And he asked him further: **What is** the ruling with regard to bringing it from the public domain **to a different courtyard? He said to him: It is prohibited.**
 
 The *Gemara* now resolves the tension. Two lines from the bottom of 3b, the *Gemara* states: *iba'it eima le'olam lo knasu* — in truth, no fine was ever imposed to prevent one who extended one's hand *beshogeg*, unintentionally, from pulling it back in. *Velo kashya* — there is no difficulty between the two *braitot*: *kan le'oto chatzer, kan lachatzer acheret* — one case refers to pulling the hand back into one's own yard, the other to dropping the object into a neighbor's yard.
 
 The distinction is this: if one pulls one's hand back into one's own house, one has simply reversed one's action. The net result is as though nothing was done, and we permit that. However, if one's hand is suspended over *reshut harabim* and one then drops the object into a neighbor's yard, one has in effect accomplished something — the object is no longer in one's own domain. Even if the full intention was not realized (perhaps one wanted it in *reshut harabim* itself, not a neighbor's yard), part of the original intention has been satisfied.
-
-> **Hebrew/Aramaic:** וּמַאי שְׁנָא! לְכִי תֵּיכוּל עֲלַהּ כּוֹרָא דְּמִילְחָא. הָתָם, לָא אִיתְעֲבִידָא מַחְשַׁבְתּוֹ. הָכָא, אִיתְעֲבִידָא מַחְשַׁבְתּוֹ.
->
-> **Translation:** Rava asked about this: **And** in **what** way **is** one case **different** from the other? By definition, both courtyards are private domains, and there is no apparent halakhic difference between them in terms of Shabbat. Rav Naḥman answered jokily: **When you eat a *kor* of salt** while thinking **it over,** you will know the answer. Actually, the answer is simple: **There,** the *baraita* that taught that it is permitted to bring it back to the same courtyard, said so because **his planned** objective **was not realized.** Since he sought to take an object out of his courtyard, requiring him to bring the object back to its original place is a penalty of sorts. However, **here,** the *baraita* that taught that it is prohibited to bring it back to a different courtyard, said so because **his planned** objective **was realized.** Therefore, it is prohibited to bring it back there.
 
 This is the substance of the exchange between Rabba and Rav Nachman cited by the *Gemara*: *haita yado mele'ah peirot vehotzi'ah lachutz* — one extended a hand full of fruit outside — *mahu lehachzirah le'oto chatzer?* May one return it to one's own yard? *Amar lei mutar* — it is permitted. *Lachatzer acheret mai?* — what about a different yard? *Ve'amar lei assur* — that is forbidden.
 
@@ -50,11 +56,13 @@ That same tension — how much concern do we have that a rabbinic restriction wi
 
 ## Bread in Oven
 
+
+
 ### Remove Before Violation
 
-> **Hebrew/Aramaic:** בָּעֵי רַב בִּיבִי בַּר אַבָּיֵי: הִדְבִּיק פַּת בַּתַּנּוּר הִתִּירוּ לוֹ לִרְדּוֹתָהּ קוֹדֶם שֶׁיָּבוֹא לִידֵי חִיּוּב חַטָּאת, אוֹ לֹא הִתִּירוּ?
->
-> **Translation:** Since Rav Beivai bar Abaye's dilemma was mentioned in passing, the Gemara proceeds to discuss **the matter itself. Rav Beivai bar Abaye raised a dilemma: One who** erred and **stuck bread in the oven** on Shabbat, **did they permit him to** override a rabbinic prohibition and **remove it** before it bakes, i.e., **before he incurs liability** to bring a **sin-offering** for baking bread on Shabbat, **or did they not permit** him to do so?
+> **Hebrew/Aramaic:** גּוּפָא. בָּעֵי רַב בִּיבִי בַּר אַבָּיֵי: הִדְבִּיק פַּת בַּתַּנּוּר הִתִּירוּ לוֹ לִרְדּוֹתָהּ קוֹדֶם שֶׁיָּבוֹא לִידֵי חִיּוּב חַטָּאת, אוֹ לֹא הִתִּירוּ?
+> **Translation:** Since Rav Beivai bar Abaye’s dilemma was mentioned in passing, the Gemara proceeds to discuss **the matter itself. Rav Beivai bar Abaye raised a dilemma: One who** erred and **stuck bread in the oven** on Shabbat, **did they permit him to** override a rabbinic prohibition and **remove it** before it bakes, i.e., **before he incurs liability** to bring a **sin-offering** for baking bread on Shabbat, **or did they not permit** him to do so?
+
 
 *Ba'ei Rav Bibi bar Abaye* — Rav Bibi bar Abaye raised the famous question: *hidbik pas b'tanur* — someone stuck dough on the walls of an oven to bake on *Shabbos*. On *Shabbos*, one does not transgress the moment the dough is placed; the transgression requires the food to actually cook. This opens a deeper question about the nature of the transgressive act: is the act completed by the initial placement of the dough on the heat, on condition that it eventually finishes cooking? Or is the transgression constituted by the ongoing process of cooking, such that one is considered to be continuously involved in the act as it proceeds on *Shabbos*?
 
@@ -64,19 +72,17 @@ With that conceptual backdrop, the question is: if one put dough in the oven on 
 
 ### Shogeg vs. Mezid
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אַחָא בַּר אַבָּיֵי לְרָבִינָא: הֵיכִי דָּמֵי? אִילֵּימָא בְּשׁוֹגֵג וְלָא אִידְּכַר לֵיהּ, לְמַאן הִתִּירוּ?
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אַחָא בַּר אַבָּיֵי לְרָבִינָא: הֵיכִי דָּמֵי? אִילֵּימָא בְּשׁוֹגֵג וְלָא אִידְּכַר לֵיהּ, לְמַאן הִתִּירוּ?
 > **Translation:** **Rav Aḥa bar Abaye said to Ravina: What are the circumstances? If you say** that he stuck the bread to the oven **unwittingly and did not remember** either that today was Shabbat or that it is prohibited to do so on Shabbat, **to whom did they permit** to remove it? If he remains unaware that a prohibition is involved, it will not occur to him to ask whether or not he is permitted to remove the bread before it bakes.
 
 Rav Acha bar Abaye posed the clarifying question to Ravina: *heichi dami?* — what exactly is the case? If we say the person placed the dough *beshogeg* — unintentionally, having forgotten it was *Shabbos* — and then continued in that state of unawareness, *velo yadei*, still unaware that he had done anything wrong — then who are we permitting to remove the bread? The person himself doesn't know there is a problem. He thinks it is an ordinary day. There is no one asking for permission.
 
+So it must be, says the *Gemara*, *de-adkar ve-iftar* — that the person subsequently remembered it was *Shabbos*. This is a very common real-life situation: one walks into a room without thinking, performs some act, and then suddenly realizes it is *Shabbos*. Here, however, the realization is potentially helpful — if one is permitted to remove the bread at that point, one can actually reverse the problematic situation and prevent the full transgression from being completed.
+
 ### Chatas Awareness Rule
 
-> **Hebrew/Aramaic:** וְאֶלָּא לָאו דְּאִיהַדַּר וְאִידְּכַר, מִי מִחַיַּיב?! וְהָתְנַן: כׇּל חַיָּיבֵי חֲטָאוֹת — אֵינָן חַיָּיבִין עַד שֶׁתְּהֵא תְּחִלָּתָן שְׁגָגָה וְסוֹפָן שְׁגָגָה.
->
-> **Translation:** **But rather, is it not** a case **where he then,** before it baked, **remembered** that it is prohibited? In that case, **is he liable** to bring a sin-offering? **Didn't we learn** in a mishna: **All those who** sin unwittingly and **are** therefore **liable** to bring **sin-offerings are only liable if** the **beginning** of **their** action **was unwitting and** the **end** of **their** action **was unwitting.** This means that throughout the entire action until its completion, the person remains unaware that his action is prohibited. Consequently, in our case, since he became aware that his action is prohibited while the bread was still baking, his very awareness exempts him from a sin-offering and removing the bread is no longer necessary to prevent him from incurring liability to bring a sin-offering.
-
-So it must be, says the *Gemara*, *de-adkar ve-iftar* — that the person subsequently remembered it was *Shabbos*. This is a very common real-life situation: one walks into a room without thinking, performs some act, and then suddenly realizes it is *Shabbos*. Here, however, the realization is potentially helpful — if one is permitted to remove the bread at that point, one can actually reverse the problematic situation and prevent the full transgression from being completed.
+> **Hebrew/Aramaic:** וְאֶלָּא לָאו דְּאִיהַדַּר וְאִידְּכַר, מִי מִחַיַּיב?! וְהָתְנַן: כׇּל חַיָּיבֵי חֲטָאוֹת — אֵינָן חַיָּיבִין עַד שֶׁתְּהֵא תְּחִלָּתָן שְׁגָגָה וְסוֹפָן שְׁגָגָה.
+> **Translation:** **But rather, is it not** a case **where he then,** before it baked, **remembered** that it is prohibited? In that case, **is he liable** to bring a sin-offering? **Didn’t we learn** in a mishna: **All those who** sin unwittingly and **are** therefore **liable** to bring **sin-offerings are only liable if** the **beginning** of **their** action **was unwitting and** the **end** of **their** action **was unwitting.** This means that throughout the entire action until its completion, the person remains unaware that his action is prohibited. Consequently, in our case, since he became aware that his action is prohibited while the bread was still baking, his very awareness exempts him from a sin-offering and removing the bread is no longer necessary to prevent him from incurring liability to bring a sin-offering.
 
 But the *Gemara* presses: if the person became aware in the middle — *mi mechayiv?* — even if he does nothing, he would not be obligated in a *chatas*. Why? *Ve-hasnan: kol chayavei chataos einan chayavin ad she-tehei techilasan shegaga ve-sofan shegaga* — all those obligated in a *chatas* are only obligated if they were unaware from the beginning of the act to its conclusion. If one became aware at any point during the commission of the transgression, one does not bring a *chatas*. One is not *chayav misa* because one did not begin the act knowingly, but one is also not *chayav chatas* because one did not complete it in a state of unawareness.
 
@@ -84,20 +90,21 @@ This rule also reveals something important about the nature of the transgression
 
 ### No Korban Question
 
-This gives the *Gemara* pause. If becoming aware midway means one would not be *chayav chatas* regardless, why does one need permission to remove the bread? *Tosafot* questions the *Gemara*'s framing: one might think the goal is simply to prevent any violation of *Shabbos*, not merely to avoid the specific obligation of a *korban*. Even if one would not bring a sacrifice, the *melacha* would still constitute a transgression of *Shabbos*, and preventing that would seem a worthy enough reason to permit the removal. For some reason, the *Gemara* does not seem willing to frame it that way — it treats the rationale as being specifically about saving one from a *korban* obligation.
+This gives the *Gemara* pause. If becoming aware midway means one would not be *chayav chatas* regardless, why does one need permission to remove the bread? *Tosafot* questions the *Gemara*'s framing: one might think the goal is simply to prevent any violation of *Shabbos*, not merely to avoid the specific obligation of a *korban*. Even if one would not bring a sacrifice, the *melacha* would still constitute a transgression of *Shabbos*, and preventing that would seem a worthy enough reason to permit the removal. For some reason, the *Gemara* does not seem willing to frame it that way — it treats the rationale as being specifically about saving one from a *korban* obligation. In other words, the *Gemara* understands "saving" someone as saving them from an actual this-world consequence — a *korban* they would otherwise have to bring — rather than from the abstract fact of transgression. Since awareness in the middle already removes the *chatas* obligation on its own, there is no concrete consequence left to save the person from, and so the permission to remove the bread loses its justification.
 
 ### Mezid Case
 
-> **Hebrew/Aramaic:** אֶלָּא בְּמֵזִיד. ״קוֹדֶם שֶׁיָּבוֹא לִידֵי אִיסּוּר סְקִילָה״ מִיבְּעֵי לֵיהּ!
->
+> **Hebrew/Aramaic:** אֶלָּא בְּמֵזִיד. ״קוֹדֶם שֶׁיָּבֹא לִידֵי אִיסּוּר סְקִילָה״ מִיבְּעֵי לֵיהּ!
 > **Translation:** **Rather,** say that that person stuck the bread in the oven **intentionally,** but afterward regrets having done so and does not want to violate the prohibition. However, if that is the case, the formulation of the dilemma is inaccurate. It **should have** said: **Before he comes to** violate **a prohibition** punishable by **stoning.** One who desecrates Shabbat intentionally is liable to be stoned, he is not merely liable to bring a sin-offering.
 
 *Ella b'meizid* — so perhaps the case is one of willful violation. The person intentionally placed the dough in the oven on *Shabbos*. Now, despite having begun with full awareness and willfulness, a spirit of regret came over him — and the question is whether we allow him, even in this situation, to remove the bread. The *Gemara* notes: *kodem sheyavo lidei issur sekilah miba'ei lei* — the question should really be phrased as whether he can reverse the act before becoming liable to *sekilah* (stoning, the penalty for willful *Shabbos* violation), not before becoming liable in a *chatas*. This confirms that the case is indeed *mezid*.
 
 ### Rav Sheshet Challenge
 
-> **Hebrew/Aramaic:** מַתְקִיף לַהּ רַב שֵׁשֶׁת: וְכִי אוֹמְרִים לוֹ לָאָדָם ״חֲטָא כְּדֵי שֶׁיִּזְכֶּה חֲבֵירְךָ״?!
->
+> **Hebrew/Aramaic:** אָמַר רַב שֵׁילָא: לְעוֹלָם בְּשׁוֹגֵג, וּלְמַאן הִתִּירוּ — לַאֲחֵרִים.
+> **Translation:** **Rav Sheila said: Actually,** it is referring to a case where he did so **unwittingly,** and the dilemma whether or not they permitted removing the bread is not with regard to the person who stuck it in the oven, as he remains unaware of his transgression. Rather, with regard **to whom** is Rav Beivai raising a dilemma whether or not the Sages **permitted** him to remove the bread? It is with regard **to others** who wish to spare the unwitting sinner from violating a Torah prohibition.
+
+> **Hebrew/Aramaic:** מַתְקִיף לַהּ רַב שֵׁשֶׁת: וְכִי אוֹמְרִים לוֹ לָאָדָם ״חֲטָא כְּדֵי שֶׁיִּזְכֶּה חֲבֵירְךָ״?!
 > **Translation:** **Rav Sheshet strongly objected to this. And does one tell** another **person: Sin so that another will benefit?** Permitting one to violate a prohibition, even one prohibited by rabbinic law, in order to help another perform a mitzva is inconceivable. The same is true with regard to preventing another from violating a more severe prohibition.
 
 *Maskif leh Rav Sheshet* — Rav Sheshet challenges this framing. He first raises the position *le'olam beshogeg* — that it really is *shogeg* — and asks: *ul'man hitiru? l'acherim* — for whom are we granting permission? Not for the person himself, who has walked away unaware, but for a bystander. Someone else witnessed the situation — passed by, noticed the bread baking, and wants to remove it in order to spare this oblivious fellow from the full transgression and the *korban* obligation. The bystander is contemplating violating a *d'rabbanan* in order to help someone who transgressed *beshogeg*.
@@ -108,8 +115,7 @@ The case is actually *shogeg*, which makes the challenge more striking. The pers
 
 ### Allow Removal
 
-> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב אָשֵׁי: לְעוֹלָם בְּמֵזִיד. וְאֵימָא: קוֹדֶם שֶׁיָּבֹא לִידֵי אִיסּוּר סְקִילָה. רַב אַחָא בְּרֵיהּ דְּרָבָא מַתְנֵי לַהּ בְּהֶדְיָא. אָמַר רַב בִּיבִי בַּר אַבָּיֵי: הִדְבִּיק פַּת בַּתַּנּוּר הִתִּירוּ לוֹ לִרְדּוֹתָהּ קוֹדֶם שֶׁיָּבוֹא לִידֵי אִיסּוּר סְקִילָה.
->
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב אָשֵׁי: לְעוֹלָם בְּמֵזִיד. וְאֵימָא: קוֹדֶם שֶׁיָּבֹא לִידֵי אִיסּוּר סְקִילָה. רַב אַחָא בְּרֵיהּ דְּרָבָא מַתְנֵי לַהּ בְּהֶדְיָא. אָמַר רַב בִּיבִי בַּר אַבָּיֵי: הִדְבִּיק פַּת בַּתַּנּוּר הִתִּירוּ לוֹ לִרְדּוֹתָהּ קוֹדֶם שֶׁיָּבֹא לִידֵי אִיסּוּר סְקִילָה.
 > **Translation:** **Rather, Rav Ashi said: Actually,** it is referring to a case where he stuck the bread in the oven **intentionally. And say,** emend the text as follows: **Before he comes to** violate **a prohibition** punishable by **stoning.** Indeed, **Rav Aḥa, son of Rava, would teach it explicitly** in that manner; not as a dilemma, but rather, as a halakhic ruling. According to his version, **Rav Beivai bar Abaye said:** With regard to one who **stuck bread in an oven** on Shabbat eve, the Sages **permitted him to remove it** from the oven on Shabbat **before he comes to** violate **a prohibition** punishable by **stoning.**
 
 *Ella amar Rav Ashi le'olam bemezid* — Rav Ashi returns to the case of *mezid*. *Ve'eima* — and therefore shift the reading of the text: the question was not whether to permit removal before becoming *chayav chatas* (which would not apply to *mezid*), but before becoming *chayav sekilah*. Rav Acha the son of Rava (*Rav Acha brei deRava*) stated that the matter was actually transmitted not as a question but as a ruling: *amar Rav Bibi bar Abaye lo ba'ei* — Rav Bibi bar Abaye did not ask; he declared. *Hidbik pas b'tanur, hetiru lo lirdosah kodem sheyavo lidei issur sekilah* — if one placed the bread in the oven, they did permit one to remove it before becoming liable to *sekilah*. The conclusion is affirmative, and it is in the case of *mezid*.
@@ -144,13 +150,20 @@ As for whether the *shogeg* case — where one became aware midway and would the
 
 ## Four-by-Four Requirement
 
+
+
 ### Poor Man Takes Bread
 
-> **Hebrew/Aramaic:** פָּשַׁט הֶעָנִי אֶת יָדוֹ: אַמַּאי חַיָּיב? וְהָא בָּעֵינַן עֲקִירָה וְהַנָּחָה מֵעַל גַּבֵּי מְקוֹם אַרְבָּעָה עַל אַרְבָּעָה, וְלֵיכָּא?
->
-> **Translation:** We learned in the mishna several examples where **the poor person extended his hand:** One, when he placed an object into the hand of the homeowner and one, when he took an object from the hand of the homeowner. In those cases, we learned that he is liable to bring a sin-offering. The Gemara asks: **Why is he liable? Don't we require** that halakhic **lifting and placing** be performed **from** and onto **the surface of an area** that is **four by four** handbreadths? A smaller area is not considered a defined place, and it is as if the object were not there at all; **and** a person's hand **is not** that size. Why, then, is he liable?
-
 The *Gemara* now turns to the *Mishna*'s case of the *ani* and the *ba'al habayit*. *Pashat he'ani es yado* — the poor man extends his hand inside the house, takes bread from the hand of the homeowner, and carries it out. In so doing he has performed *akira*, *hotza'ah*, and *hanacha* — the complete act of carrying. The *Gemara* asks: *amai chayav?* — why is he *chayav*? *Ve'ba'inan akira v'hanachah mei'al gabei makom arba al arba v'leika* — we require the removal and placement to involve a space of four by four, and that condition does not appear to be met here. The object was taken from the homeowner's hand, which is not a *makom arba al arba*. Why is the *ani* liable?
+
+> **Hebrew/Aramaic:** פָּשַׁט הֶעָנִי אֶת יָדוֹ: אַמַּאי חַיָּיב? וְהָא בָּעֵינַן עֲקִירָה וְהַנָּחָה מֵעַל גַּבֵּי מְקוֹם אַרְבָּעָה עַל אַרְבָּעָה, וְלֵיכָּא?
+> **Translation:** We learned in the mishna several examples where **the poor person extended his hand:** One, when he placed an object into the hand of the homeowner and one, when he took an object from the hand of the homeowner. In those cases, we learned that he is liable to bring a sin-offering. The Gemara asks: **Why is he liable? Don’t we require** that halakhic **lifting and placing** be performed **from** and onto **the surface of an area** that is **four by four** handbreadths? A smaller area is not considered a defined place, and it is as if the object were not there at all; **and** a person’s hand **is not** that size. Why, then, is he liable?
+
+> **Hebrew/Aramaic:** אָמַר רַבָּה: הָא מַנִּי? — רַבִּי עֲקִיבָא, דְּאָמַר לָא בָּעֵינַן מְקוֹם אַרְבָּעָה עַל אַרְבָּעָה. דִּתְנַן: הַזּוֹרֵק מֵרְשׁוּת הַיָּחִיד לִרְשׁוּת הַיָּחִיד וּרְשׁוּת הָרַבִּים בָּאֶמְצַע, רַבִּי עֲקִיבָא מְחַיֵּיב, וַחֲכָמִים פּוֹטְרִים.
+> **Translation:** **Rabba said: Whose** opinion **is it** in this mishna? It is the opinion of **Rabbi Akiva** who **said** that **we do not require a place of four by four** handbreadths. According to his opinion, even a smaller area is considered a significant place in terms of carrying out on Shabbat. **As we learned** in a mishna: **One who throws** an object **from the private domain** to **the** other **private domain and** there is **the public domain in the middle, Rabbi Akiva deems him liable** for carrying out into the public domain, **and the Rabbis deem him exempt** because the object merely passed through the public domain and did not come to rest in it.
+
+> **Hebrew/Aramaic:** רַבִּי עֲקִיבָא סָבַר אָמְרִינַן ״קְלוּטָה כְּמִי שֶׁהוּנְּחָה דָּמְיָא״. וְרַבָּנַן סָבְרִי לָא אָמְרִינַן ״קְלוּטָה כְּמִי שֶׁהוּנְּחָה דָּמְיָא״.
+> **Translation:** This dispute can be explained as follows: **Rabbi Akiva holds** that **we say** that **an object in airspace is considered at rest.** In his opinion, an object that passed, even briefly, through the airspace of the public domain is considered as if it came to rest in that domain. Therefore, one who threw the object has, for all intents and purposes, lifted the object from the private domain and placed it in the public domain, and he is liable. **And the Rabbis hold** that **we do not say** that **an object in airspace is considered at rest.** In their opinion, although he lifted the object from the private domain, it never came to rest in the public domain. Since he never placed it in the public domain, he is not liable. Regardless, according to Rabbi Akiva’s opinion, placing does not require a defined area. The mere presence of an object in the public domain accords it the legal status of having been placed there. Apparently, there is no requirement that an object be placed on a surface with an area of four by four handbreadths.
 
 ### Four-by-Four Meaning
 
@@ -166,43 +179,43 @@ This connects to a broader difficulty with understanding *hotza'ah* as a *melach
 
 ### Gemara's Question
 
-The *Gemara* thus presses: *ve-leika* — the four-by-four requirement is not met here. Rava responds:
-
-> **Hebrew/Aramaic:** אָמַר רַבָּה: הָא מַנִּי? — רַבִּי עֲקִיבָא, דְּאָמַר לָא בָּעֵינַן מְקוֹם אַרְבָּעָה עַל אַרְבָּעָה. דִּתְנַן: הַזּוֹרֵק מֵרְשׁוּת הַיָּחִיד לִרְשׁוּת הַיָּחִיד וּרְשׁוּת הָרַבִּים בָּאֶמְצַע, רַבִּי עֲקִיבָא מְחַיֵּיב, וַחֲכָמִים פּוֹטְרִים.
->
-> **Translation:** **Rabba said: Whose** opinion **is it** in this mishna? It is the opinion of **Rabbi Akiva** who **said** that **we do not require a place of four by four** handbreadths. According to his opinion, even a smaller area is considered a significant place in terms of carrying out on Shabbat. **As we learned** in a mishna: **One who throws** an object **from the private domain** to **the** other **private domain and** there is **the public domain in the middle, Rabbi Akiva deems him liable** for carrying out into the public domain, **and the Rabbis deem him exempt** because the object merely passed through the public domain and did not come to rest in it.
-
-*ha mani Rabbi Akiva hi* — this is the view of Rabbi Akiva. *De-amar lo ba'inan makom arba'ah al arba'ah* — Rabbi Akiva holds that we do not require a *makom arba'ah al arba'ah*. But what exactly is the *girsa* here — is the measurement in *tefachim* or *amot*? From the context, it is *tefachim*, as the subsequent discussion will make clear. The question then is: what is Rabbi Akiva's principle that dispenses with this requirement?
+The *Gemara* thus presses: *ve-leika* — the four-by-four requirement is not met here. Rava responds: *ha mani Rabbi Akiva hi* — this is the view of Rabbi Akiva. *De-amar lo ba'inan makom arba'ah al arba'ah* — Rabbi Akiva holds that we do not require a *makom arba'ah al arba'ah*. But what exactly is the *girsa* here — is the measurement in *tefachim* or *amot*? From the context, it is *tefachim*, as the subsequent discussion will make clear. The question then is: what is Rabbi Akiva's principle that dispenses with this requirement?
 
 ---
 
 ## Rabbi Akiva Position
 
+
+
 ### Kluta Position
 
-> **Hebrew/Aramaic:** רַבִּי עֲקִיבָא סָבַר אָמְרִינַן ״קְלוּטָה כְּמִי שֶׁהוּנְּחָה דָּמְיָא״. וְרַבָּנַן סָבְרִי לָא אָמְרִינַן ״קְלוּטָה כְּמִי שֶׁהוּנְּחָה דָּמְיָא״.
->
-> **Translation:** This dispute can be explained as follows: **Rabbi Akiva holds** that **we say** that **an object in airspace is considered at rest.** In his opinion, an object that passed, even briefly, through the airspace of the public domain is considered as if it came to rest in that domain. Therefore, one who threw the object has, for all intents and purposes, lifted the object from the private domain and placed it in the public domain, and he is liable. **And the Rabbis hold** that **we do not say** that **an object in airspace is considered at rest.** In their opinion, although he lifted the object from the private domain, it never came to rest in the public domain. Since he never placed it in the public domain, he is not liable. Regardless, according to Rabbi Akiva's opinion, placing does not require a defined area. The mere presence of an object in the public domain accords it the legal status of having been placed there. Apparently, there is no requirement that an object be placed on a surface with an area of four by four handbreadths.
 
 Rava identifies the source: *d'tnan*, as we learned in the *Mishna* — *hazorek mereshut hayachid lereshut hayachid ureshut harabim be'emtza* — one who throws an object from a private domain to a private domain with a public domain in between. *Rabbi Akiva mechayev, vechachamim potrim* — Rabbi Akiva declares the person *chayav* and the *chachamim* exempt.
 
-Now, why would Rabbi Akiva say one is *chayav* here? The object never stopped in *reshut harabim* — it flew straight through the air. Yet Rabbi Akiva says: *amrinan kluta k'mi she'huncha damya* — we say that something absorbed in the airspace is considered as though it was placed on the ground. *Verabanan savri lo amrinan kluta k'mi she'huncha damya* — and the Rabbis say we do not apply this principle. Rabbi Akiva's position is thus that once an object passes through the airspace of a domain, it is as though it came to rest there. And if so, it has effectively been placed in that domain — and one is *chayav* not only for bringing it into *reshut harabim* but perhaps even a second time for then taking it from *reshut harabim* into the second *reshut hayachid*.
+Now, why would Rabbi Akiva say one is *chayav* here? The object never stopped in *reshut harabim* — it flew straight through the air, below ten *tefachim*. Yet Rabbi Akiva says: *amrinan kluta k'mi she'huncha damya* — we say that something absorbed in the airspace is considered as though it was placed on the ground. *Verabanan savri lo amrinan kluta k'mi she'huncha damya* — and the Rabbis say we do not apply this principle. Rabbi Akiva's position is thus that once an object passes through the airspace of a domain, it is as though it came to rest there. And if so, it has effectively been placed in that domain — and one is *chayav* not only for bringing it into *reshut harabim* but perhaps even a second time for then taking it from *reshut harabim* into the second *reshut hayachid*.
 
-If Rabbi Akiva can apply this to an object flying through the air — never even touching the ground — then certainly he would apply it to an object held stationary in one's hand: once it is in the airspace of a domain, it is considered fully present there and one is *chayav*.
+Now notice what the *girsa* here confirms: the measurement is *arba'ah al arba'ah tefachim*, not *amot*. That distinction is not trivial. *Arba'ah al arba'ah tefachim* is roughly a foot by a foot — something like a tray. *Arba amot* by *arba amot*, by contrast, is the personal domain-space of a person. *Tosafot* actually navigates between these two registers: *Rabbeinu Tam* explains that *hanacha* normally requires a surface of four *tefachim*, and the *Ri* adds that the verse *al yetze ish mi-mekomo* — do not let a man leave his place — implies that *makom* can refer either to the *makom* of a person (*arba amot*) or to the *makom* of an object (*arba tefachim*). The upshot is that even *Tosafot* seems to acknowledge that when we speak of the object's own *makom*, we are talking about *arba'ah tefachim*, not *arba amot* — a space sufficient to give the object significance as resting in a defined location, rather than merely hovering without *hanacha*.
+
+If Rabbi Akiva can apply the principle of *kluta k'mi she'huncha* to an object flying through the air — never even touching the ground — then certainly he would apply it to an object held stationary in one's hand: once it is in the airspace of a domain, it is considered fully present there and one is *chayav*.
 
 ### Rava's Question
 
-> **Hebrew/Aramaic:** לְמֵימְרָא דִּפְשִׁיטָא לֵיהּ לְרַבָּה דְּבִקְלוּטָה כְּמִי שֶׁהוּנְּחָה דָּמְיָא, וּבְתוֹךְ עֲשָׂרָה פְּלִיגִי? וְהָא מִיבַּעְיָא בָּעֵי לַהּ רַבָּה! דְּבָעֵי רַבָּה: לְמַטָּה מֵעֲשָׂרָה פְּלִיגִי — וּבְהָא פְּלִיגִי: דְּרַבִּי עֲקִיבָא סָבַר קְלוּטָה כְּמִי שֶׁהוּנְּחָה דָּמְיָא, וְרַבָּנַן סָבְרִי לָא אָמְרִינַן קְלוּטָה כְּמִי שֶׁהוּנְּחָה דָּמְיָא. אֲבָל לְמַעְלָה מֵעֲשָׂרָה דִּבְרֵי הַכֹּל פָּטוּר, וּדְכוּלֵּי עָלְמָא לָא יָלְפִינַן זוֹרֵק מִמּוֹשִׁיט.
->
-> **Translation:** Initially, the Gemara wonders about the substance of Rabba's opinion: **Is that to say that it is obvious to Rabba** that, **with regard** to whether or not **an object in airspace is considered at rest, and** it is in a case where the object passed **within ten** handbreadths of the ground that **they disagree? And wasn't it raised as a dilemma by Rabba,** as it was unclear to him whether or not that is the correct explanation of the dispute between Rabbi Akiva and the Rabbis? **As Rabba raised a dilemma: Do** those who dispute the matter of one who throws from a private domain to a private domain with a public domain in the middle **disagree** with regard to a case where the object was thrown **below ten** handbreadths off the ground, **and this is** the point over which **they disagree: Rabbi Akiva holds** that **an object in airspace is considered at rest, and the Rabbis hold** that **we do not say** that **an object in airspace is considered at rest? However,** if the object passed more **than ten** handbreadths **above** the public domain, **everyone agrees** that **he is exempt and everyone agrees** that **we do not derive** the law of **throwing from** the law of **passing.** There is a special *halakha* with regard to passing objects: One standing in a private domain who passes an object through a public domain to another private domain, even though the object did not come to rest in the public domain, his action is considered to have carried out. However, the *halakha* with regard to throwing is different.
-
 But the *Gemara* raises a challenge: *lemeimra d'pshita leh l'Rava de'bi'kluta k'mi she'huncha damya?* — does Rava simply take it as clear that the debate between Rabbi Akiva and the *chachamim* is about *kluta k'mi she'huncha*? *Uvetoch asara paligi* — and that they are arguing specifically about the case below ten *tefachim*, which is the airspace of *reshut harabim*? *V'ha mibaya ba'i lah Rava* — but Rava himself raised this as an open question! The *Gemara* quotes Rava's earlier inquiry: *lemata me'asara paligi?* — is their argument specifically about the case below ten *tefachim*?
 
+[DAF:4b]
 ### Two Interpretations
 
-> **Hebrew/Aramaic:** אוֹ דִילְמָא לְמַעְלָה מֵעֲשָׂרָה פְּלִיגִי — וּבְהָא פְּלִיגִי: דְּרַבִּי עֲקִיבָא סָבַר יָלְפִינַן זוֹרֵק מִמּוֹשִׁיט, וְרַבָּנַן סָבְרִי לָא יָלְפִינַן זוֹרֵק מִמּוֹשִׁיט. אֲבָל לְמַטָּה מֵעֲשָׂרָה דִּבְרֵי הַכֹּל חַיָּיב. מַאי טַעְמָא, אָמְרִינַן קְלוּטָה כְּמִי שֶׁהוּנְּחָה דָּמְיָא.
->
-> **Translation:** **Or, perhaps they disagree with regard** to a case where the object passed **ten** handbreadths **above** the ground, **and this is** the point over which **they disagree: Rabbi Akiva holds** that **we derive** the *halakha* of **throwing from** the *halakha* of **passing** and considers them details of one *halakha*. **And the Rabbis hold** that **we do not derive throwing from passing,** and, although one who passes the object in that case is liable, one who throws it is not. The *halakha* with regard to passing is a unique *halakha*, a Torah decree, and other cases cannot be derived from it. **However,** with regard to one who throws from one private domain to another via a public domain, if the object passed **below ten** handbreadths off the ground, **everyone agrees** that he **is liable. What is the reason** for this? Everyone agrees that an **object in airspace is considered at rest.** Since Rabba himself is uncertain as to the point of the dispute in that mishna with regard to one who throws an object, how can he determine Rabbi Akiva's opinion in the matter of our mishna?
+> **Hebrew/Aramaic:** לְמֵימְרָא דִּפְשִׁיטָא לֵיהּ לְרַבָּה דְּבִקְלוּטָה כְּמִי שֶׁהוּנְּחָה דָּמְיָא,
+> **Translation:** Initially, the Gemara wonders about the substance of Rabba’s opinion: **Is that to say that it is obvious to Rabba** that, **with regard** to whether or not **an object in airspace is considered at rest,**
+
+> **Hebrew/Aramaic:** וּבְתוֹךְ עֲשָׂרָה פְּלִיגִי? וְהָא מִיבַּעְיָא בָּעֵי לַהּ רַבָּה! דְּבָעֵי רַבָּה: לְמַטָּה מֵעֲשָׂרָה פְּלִיגִי — וּבְהָא פְּלִיגִי: דְּרַבִּי עֲקִיבָא סָבַר קְלוּטָה כְּמִי שֶׁהוּנְּחָה דָּמְיָא, וְרַבָּנַן סָבְרִי לָא אָמְרִינַן קְלוּטָה כְּמִי שֶׁהוּנְּחָה דָּמְיָא. אֲבָל לְמַעְלָה מֵעֲשָׂרָה דִּבְרֵי הַכֹּל פָּטוּר, וּדְכוּלֵּי עָלְמָא לָא יָלְפִינַן זוֹרֵק מִמּוֹשִׁיט.
+> **Translation:** **and** it is in a case where the object passed **within ten** handbreadths of the ground that **they disagree? And wasn’t it raised as a dilemma by Rabba,** as it was unclear to him whether or not that is the correct explanation of the dispute between Rabbi Akiva and the Rabbis? **As Rabba raised a dilemma: Do** those who dispute the matter of one who throws from a private domain to a private domain with a public domain in the middle **disagree** with regard to a case where the object was thrown **below ten** handbreadths off the ground, **and this is** the point over which **they disagree: Rabbi Akiva holds** that **an object in airspace is considered at rest, and the Rabbis hold** that **we do not say** that **an object in airspace is considered at rest? However,** if the object passed more **than ten** handbreadths **above** the public domain, **everyone agrees** that **he is exempt and everyone agrees** that **we do not derive** the *halakha* of **throwing from** the *halakha* of **passing.** There is a special *halakha* with regard to passing objects: One standing in a private domain who passes an object through a public domain to another private domain, even though the object did not come to rest in the public domain, his action is considered to have carried out. However, the *halakha* with regard to throwing is different.
+
+> **Hebrew/Aramaic:** אוֹ דִילְמָא לְמַעְלָה מֵעֲשָׂרָה פְּלִיגִי — וּבְהָא פְּלִיגִי: דְּרַבִּי עֲקִיבָא סָבַר יָלְפִינַן זוֹרֵק מִמּוֹשִׁיט, וְרַבָּנַן סָבְרִי לָא יָלְפִינַן זוֹרֵק מִמּוֹשִׁיט. אֲבָל לְמַטָּה מֵעֲשָׂרָה דִּבְרֵי הַכֹּל חַיָּיב. מַאי טַעְמָא, אָמְרִינַן קְלוּטָה כְּמִי שֶׁהוּנְּחָה דָּמְיָא.
+> **Translation:** **Or, perhaps they disagree with regard** to a case where the object passed **ten** handbreadths **above** the ground, **and this is** the point over which **they disagree: Rabbi Akiva holds** that **we derive** the *halakha* of **throwing from** the *halakha* of **passing** and considers them details of one *halakha*. **And the Rabbis hold** that **we do not derive throwing from passing,** and, although one who passes the object in that case is liable, one who throws it is not. The *halakha* with regard to passing is a unique *halakha*, a Torah decree, and other cases cannot be derived from it. **However,** with regard to one who throws from one private domain to another via a public domain, if the object passed **below ten** handbreadths off the ground, **everyone agrees** that he **is liable. What is the reason** for this? Everyone agrees that an **object in airspace is considered at rest.** Since Rabba himself is uncertain as to the point of the dispute in that mishna with regard to one who throws an object, how can he determine Rabbi Akiva’s opinion in the matter of our mishna?
+
+> **Hebrew/Aramaic:** הָא לָא קַשְׁיָא: בָּתַר דְּאִיבַּעְיָא הֲדַר אִיפְּשִׁיטָא לֵיהּ דְּסָבַר רַבִּי עֲקִיבָא קְלוּטָה כְּמִי שֶׁהוּנְּחָה דָּמְיָא.
+> **Translation:** The Gemara answers: **That is not difficult.** It can be explained that, **after he raised the dilemma, it was later resolved for him** that the correct understanding is **that Rabbi Akiva** alone **holds** that an **object in airspace is considered at rest.**
 
 Two entirely different framings of the debate are possible, and Rava himself raised both.
 
@@ -212,17 +225,12 @@ The second interpretation inverts the logic entirely. *Od eima lemala me'asara p
 
 The case of Moshe's beams: the *Gemara* describes a specific scenario from the *midbar* in which Leviyim on wagons carrying the beams of the *Aron* would hand objects from one wagon to the next. Each wagon constituted a *reshut hayachid*, and the transfer occurred over *reshut harabim* in between. That act of handing — *mushit* — over a *reshut harabim* is itself considered a form of *hotza'ah*. The question is whether *zorek* — throwing — is comparable. On the second reading, the debate between Rabbi Akiva and the Rabbis is not about whether the object rested in the airspace below ten *tefachim*, but about whether throwing is sufficiently analogous to the case of Moshe handing the beams. And if they argue above ten *tefachim* — in the zone that is definitely not *reshut harabim* proper — then according to this reading, *aval lemata me'asara divrei hakol chayav* — below ten *tefachim*, everyone would agree one is *chayav*, because below ten we would say *kluta k'mi she'huncha dami*.
 
-> **Hebrew/Aramaic:** הָא לָא קַשְׁיָא. בָּתַר דְּאִיבַּעְיָא הֲדַר אִיפְּשִׁיטָא לֵיהּ דְּסָבַר רַבִּי עֲקִיבָא קְלוּטָה כְּמִי שֶׁהוּנְּחָה דָּמְיָא.
->
-> **Translation:** The Gemara answers: **That is not difficult.** It can be explained that, **after he raised the dilemma, it was later resolved for him** that the correct understanding is **that Rabbi Akiva** alone **holds** that an **object in airspace is considered at rest.**
-
 After raising both possibilities, the *Gemara* concludes: *ha lo kashya. Batar d'ibaya hadar ipshita lei* — this is not difficult, because perhaps after Rava raised the question, he ultimately resolved it: *d'savar Rebbi Akiva kluta k'mi she'huncha damya* — Rabbi Akiva's principle is indeed about the airspace below ten *tefachim*, and it is the principle of *kluta k'mi she'huncha*. And if so, the *chiddush* of Rabbi Akiva is radical: not only does one not need the object to be stationary, not only does one not need it to be on a physical surface, but merely passing through the airspace is equivalent to having rested there.
 
 ### Akira vs. Hanacha
 
-> **Hebrew/Aramaic:** וְדִילְמָא הַנָּחָה הוּא דְּלָא בָּעֲיָא, הָא עֲקִירָה בָּעֲיָא!
->
-> **Translation:** However, there is room to question the parallel between Rabbi Akiva's opinion and the case in our mishna. **Perhaps placing** alone **does not require** an area of four by four in order to be considered halakhic placing, **but lifting does require** a minimum of four by four handbreadths to be considered halakhic lifting. Perhaps placing, which is merely the conclusion of the prohibited labor, does not require the same conditions as lifting, which is the beginning and the essence of the labor of carrying out (Rashba). From Rabbi Akiva's opinion, a conclusion may be drawn that an object in airspace is considered placed even without the surface area of four by four handbreadths. But, a conclusion may not be drawn that an object lifted from a surface lacking that area is considered lifted.
+> **Hebrew/Aramaic:** וְדִילְמָא הַנָּחָה הוּא דְּלָא בָּעֲיָא, הָא עֲקִירָה בָּעֲיָא!
+> **Translation:** However, there is room to question the parallel between Rabbi Akiva’s opinion and the case in our mishna. **Perhaps placing** alone **does not require** an area of four by four in order to be considered halakhic placing, **but lifting does require** a minimum of four by four handbreadths to be considered halakhic lifting. Perhaps placing, which is merely the conclusion of the prohibited labor, does not require the same conditions as lifting, which is the beginning and the essence of the labor of carrying out (Rashba). From Rabbi Akiva’s opinion, a conclusion may be drawn that an object in airspace is considered placed even without the surface area of four by four handbreadths. But, a conclusion may not be drawn that an object lifted from a surface lacking that area is considered lifted.
 
 Even granting all of this, the *Gemara* presses further: *v'dilma hanacha hu d'la bei, akira bei* — perhaps it is only *hanacha* that does not require a four-by-four space according to Rabbi Akiva; perhaps *akira* — the uprooting, the initial removal — still requires that the object be removed from a *makom* of four by four.
 
@@ -236,27 +244,31 @@ In our *Mishna*, it appears from the case itself that even the *akira* did not r
 
 ## Tree Branch Case
 
-### Small Protrusion
 
-> **Hebrew/Aramaic:** זָרַק וְנָח עַל גַּבֵּי זִיז כׇּל שֶׁהוּא — רַבִּי מְחַיֵּיב, וַחֲכָמִים פּוֹטְרִין.
->
-> **Translation:** One who **threw** an object on Shabbat in the public domain from the beginning to the end of four cubits, **and it,** the object, **came to rest atop a projection of any size, Rabbi** Yehuda HaNasi **deems** him **liable, and the Rabbis deem** him **exempt.** Apparently, this proves that, according to Rabbi Yehuda HaNasi, there is no minimum area required for lifting and placing. This is the *halakha* to which Rav Yosef referred.
+
+### Small Protrusion
 
 The *Gemara* now considers a *braita*: *zarak venach agabi ziz kol shehu* — one threw an object and it came to rest on a small protrusion. *Rabbi mechayev, vachachamim potrin* — Rabbi declares the person *chayav*, and the *chachamim* exempt. This appears to be a direct proof that one may be *chayav* even when the object lands on a space smaller than four by four *tefachim* — since *kol shehu* means any size at all.
 
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב יוֹסֵף: הָא מַנִּי? — רַבִּי הִיא.
+> **Translation:** **Rather, Rav Yosef said: Whose** opinion **is it** in this mishna? **It is** the opinion of **Rabbi** Yehuda HaNasi.
+
+> **Hebrew/Aramaic:** הֵי רַבִּי? אִילֵּימָא הָא רַבִּי, דְּתַנְיָא: זָרַק וְנָח עַל גַּבֵּי זִיז כׇּל שֶׁהוּא — רַבִּי מְחַיֵּיב, וַחֲכָמִים פּוֹטְרִין.
+> **Translation:** The Gemara asks: To **which** of **Rabbi** Yehuda HaNasi’s *halakhot* is Rav Yosef referring? **If you say** that he is referring to **this** *halakha*, **as it was taught** in a *baraita*: One who **threw** an object on Shabbat in the public domain from the beginning to the end of four cubits, **and it,** the object, **came to rest atop a projection of any size, Rabbi** Yehuda HaNasi **deems** him **liable, and the Rabbis deem** him **exempt.** Apparently, this proves that, according to Rabbi Yehuda HaNasi, there is no minimum area required for lifting and placing. This is the *halakha* to which Rav Yosef referred.
+
+> **Hebrew/Aramaic:** הָתָם כִּדְבָעֵינַן לְמֵימַר לְקַמָּן כִּדְאַבָּיֵי, דְּאָמַר אַבָּיֵי: הָכָא בָּאִילָן הָעוֹמֵד בִּרְשׁוּת הַיָּחִיד וְנוֹפוֹ נוֹטֶה לִרְשׁוּת הָרַבִּים, וְזָרַק וְנָח אַנּוֹפוֹ.
+> **Translation:** The Gemara rejects this: **There,** the explanation is according to what **we will need to say later in accordance with** the statement of **Abaye,** as **Abaye said: Here,** the *baraita* is not dealing with just any situation. Rather, it is dealing with a special case where there is **a tree standing in the private domain and its boughs lean into the public domain, and** one **threw** an object from the public domain **and it rested** upon **the boughs** of the tree.
+
 ### Abaye Reframing
 
-> **Hebrew/Aramaic:** הָתָם כִּדְבָעֵינַן לְמֵימַר לְקַמָּן כִּדְאַבָּיֵי, דְּאָמַר אַבָּיֵי: הָכָא בָּאִילָן הָעוֹמֵד בִּרְשׁוּת הַיָּחִיד וְנוֹפוֹ נוֹטֶה לִרְשׁוּת הָרַבִּים, וְזָרַק וְנָח אַנּוֹפוֹ.
->
-> **Translation:** The Gemara rejects this: **There,** the explanation is according to what **we will need to say later in accordance with** the statement of **Abaye,** as **Abaye said: Here,** the *baraita* is not dealing with just any situation. Rather, it is dealing with a special case where there is **a tree standing in the private domain and its boughs lean into the public domain, and** one **threw** an object from the public domain **and it rested** upon **the boughs** of the tree.
 
 The *Gemara* deflects: *hasham kidebayeina lemeimar lekaman kideAbaye* — there, it will be reframed as Abaye reframes it. *De'amar Abaye: hacha be'ilan ha'omed bereshus hayachid venofov noto lereshus harabim* — we are dealing with a tree whose trunk stands in *reshut hayachid* and whose branch extends into *reshut harabim*. *Ve'zarak venach al nofo* — one threw an object from *reshut harabim* and it came to rest on the branch. *Rabbi savar amrinan shadi nofo basar ikaro* — Rabbi holds that we treat the branch as following the trunk. *Verabbanan savri lo amrinan shadi nofo basar ikaro* — the Rabbis hold that we do not say the branch follows the trunk.
 
+> **Hebrew/Aramaic:** דְּרַבִּי סָבַר: אָמְרִינַן ״שְׁדִי נוֹפוֹ בָּתַר עִיקָּרוֹ״. וְרַבָּנַן סָבְרִי: לָא אָמְרִינַן ״שְׁדִי נוֹפוֹ בָּתַר עִיקָּרוֹ״.
+> **Translation:** **Rabbi** Yehuda HaNasi **holds** that **we say: Cast its boughs after its trunk.** The tree’s branches are considered an extension of its trunk. Therefore, the entire tree is considered as a private domain, and one who throws onto it is liable. **And the Rabbis hold** that **we do not say: Cast its boughs after its trunk.** Therefore, the boughs themselves are not considered to be a private domain, and one who throws atop them from the public domain is not liable. Since Rabbi Yehuda HaNasi considers the boughs of the tree like part of the trunk, something thrown atop the tree is considered as if it were placed on the trunk, which is four by four handbreadths. If so, one cannot conclude from here that there is no need for a significant area according to Rabbi Yehuda HaNasi.
+
 ### Branch Follows Trunk
 
-> **Hebrew/Aramaic:** דְּרַבִּי סָבַר: אָמְרִינַן ״שְׁדִי נוֹפוֹ בָּתַר עִיקָּרוֹ״. וְרַבָּנַן סָבְרִי: לָא אָמְרִינַן ״שְׁדִי נוֹפוֹ בָּתַר עִיקָּרוֹ״.
->
-> **Translation:** **Rabbi** Yehuda HaNasi **holds** that **we say: Cast its boughs after its trunk.** The tree's branches are considered an extension of its trunk. Therefore, the entire tree is considered as a private domain, and one who throws onto it is liable. **And the Rabbis hold** that **we do not say: Cast its boughs after its trunk.** Therefore, the boughs themselves are not considered to be a private domain, and one who throws atop them from the public domain is not liable. Since Rabbi Yehuda HaNasi considers the boughs of the tree like part of the trunk, something thrown atop the tree is considered as if it were placed on the trunk, which is four by four handbreadths. If so, one cannot conclude from here that there is no need for a significant area according to Rabbi Yehuda HaNasi.
 
 *Tosafot* understands this debate in a fairly *peshat* manner: the dispute is about which domain the branch is considered to belong to. If the object lands on the branch and the branch follows the trunk — which is rooted in *reshut hayachid* — then throwing the object onto the branch is considered as though one threw it into *reshut hayachid*, making one *chayav*. If the branch does not follow the trunk, it is considered part of *reshut harabim*, and the object never genuinely arrived in *reshut hayachid*.
 
@@ -266,37 +278,36 @@ But there is a further relevance to the question of four by four: if the branch 
 
 ### Cannot Prove Absence
 
-> **Hebrew/Aramaic:** אֶלָּא אָמַר רַבִּי זֵירָא: הָא מַנִּי? — אֲחֵרִים הִיא.
->
-> **Translation:** **Rather, Rabbi Zeira said:** There must be a different source for our mishna. **Whose** opinion **is it** in our mishna? It is the opinion of ***Aḥerim*,
-
 Therefore, says the *Gemara*, one cannot derive from this *braita* that four by four is not required. *Ella* — rather, this case depends entirely on the status of the trunk. It does not demonstrate a general principle that the four-by-four requirement may be dispensed with. The question of whether *hotza'ah* can be *chayav* without any *makom arba'ah* remains unresolved from this source.
 
 ---
 
 ## Public-to-Public Case
 
-### Window Throw
 
-> **Hebrew/Aramaic:** דִּתְנַן: אֲחֵרִים אוֹמְרִים: עָמַד בִּמְקוֹמוֹ וְקִבֵּל — חַיָּיב, עָקַר מִמְּקוֹמוֹ וְקִבֵּל — פָּטוּר.
->
-> **Translation:** **as it was taught** in a *baraita*: ***Aḥerim* say:** One who **stood in his place** on Shabbat **and received** an object thrown to him from another domain, the one who threw the object **is liable** for the prohibited labor of carrying out, as he both lifted and placed the object. However, if the one who received the object **moved from his place,** ran toward the object, **and** then **received** it in his hand, he, the one who threw it, **is exempt.** That is because, even though he performed an act of lifting, the placing of the object was facilitated by the action of the one who received it, and therefore the one who threw it did not perform the act of placing. In any case, according to the opinion of *Aḥerim*, if **he stood in his place and received** the object, the one who threw it **is liable. Don't we require placing upon an area of four** by four handbreadths **and there is none** in this case?
+
+### Window Throw
 
 *Ella ha Rebbi, detanya: zarak mereshus harabim lereshut harabim ureshut hayachid be'emtza* — the following case attributed to Rabbi: one threw an object from a public domain to a public domain with a private domain in between. The object flew through someone's window, crossed through the private house, and landed in the street on the other side.
 
+> **Hebrew/Aramaic:** אֶלָּא הָא רַבִּי, דְּתַנְיָא: זָרַק מֵרְשׁוּת הָרַבִּים לִרְשׁוּת הָרַבִּים וּרְשׁוּת הַיָּחִיד בָּאֶמְצַע — רַבִּי מְחַיֵּיב, וַחֲכָמִים פּוֹטְרִין.
+> **Translation:** **Rather,** it is possible that Rav Yosef referred to **this** *halakha* of **Rabbi** Yehuda HaNasi, **as it was taught** in a *baraita*: One who **threw** an object on Shabbat **from the public domain to the public domain and the private domain** was **in the middle, Rabbi** Yehuda HaNasi **deems** him **liable** for carrying out from domain to domain, and **the Rabbis deem** him **exempt.**
+
+> **Hebrew/Aramaic:** וְאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל, מְחַיֵּיב הָיָה רַבִּי שְׁתַּיִם: אַחַת מִשּׁוּם הוֹצָאָה, וְאַחַת מִשּׁוּם הַכְנָסָה. אַלְמָא לָא בָּעֵי עֲקִירָה וְלָא הַנָּחָה עַל גַּבֵּי מְקוֹם אַרְבָּעָה עַל אַרְבָּעָה.
+> **Translation:** **And Rav Yehuda said** that **Shmuel said:** In that case, **Rabbi** Yehuda HaNasi **holds** that the one who threw the object is **liable** to bring **two** sin-offerings, as he violated two prohibitions: **One, due to carrying** from the public domain **into** the private domain, when the object passed through the airspace of the private domain; **and one, due to carrying** from the private domain **out** to the public domain. **Apparently, he requires neither lifting** from **nor placing upon an area of four by four** handbreadths, as not only is he liable for carrying the object into a private domain and placing it by means of passing through its airspace, but he is also liable for lifting the object from that private domain and bringing it to the public domain. According to Rabbi Yehuda HaNasi, neither lifting nor placing requires a significant area.
+
 ### Two Transgressions
 
-> **Hebrew/Aramaic:** וְאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל, מְחַיֵּיב הָיָה רַבִּי שְׁתַּיִם: אַחַת מִשּׁוּם הוֹצָאָה, וְאַחַת מִשּׁוּם הַכְנָסָה. אַלְמָא לָא בָּעֵי עֲקִירָה וְלָא הַנָּחָה עַל גַּבֵּי מְקוֹם אַרְבָּעָה עַל אַרְבָּעָה.
->
-> **Translation:** **And Rav Yehuda said** that **Shmuel said:** In that case, **Rabbi** Yehuda HaNasi **holds** that the one who threw the object is **liable** to bring **two** sin-offerings, as he violated two prohibitions: **One, due to carrying** from the public domain **into** the private domain, when the object passed through the airspace of the private domain; **and one, due to carrying** from the private domain **out** to the public domain. **Apparently, he requires neither lifting** from **nor placing upon an area of four by four** handbreadths, as not only is he liable for carrying the object into a private domain and placing it by means of passing through its airspace, but he is also liable for lifting the object from that private domain and bringing it to the public domain. According to Rabbi Yehuda HaNasi, neither lifting nor placing requires a significant area.
 
 *Rabbi mechayiv, vachachamim potrin*. Rabbi holds one is *chayav*, the *chachamim* exempt the person. Now, crucially, this case cannot be explained by the principle of Moshe's beams: that principle applies specifically to private-to-private with public in the middle, not public-to-public with private in the middle. So Rabbi's ruling here must reflect a genuine position that does not require the object to come to rest — it flew straight through without stopping — and also does not require a *makom arba'ah*. And *Rav Yehuda amar Shmuel* adds: *mechayiv haya Rebbi shtayim* — Rabbi would hold one *chayav* for two separate transgressions: *achas mishum hotza'ah ve'achas mishum hachnasah* — one for the *hotza'ah* (carrying out, from *reshut harabim* into *reshut hayachid*) and one for the *hachnasah* (bringing in, from *reshut hayachid* back into *reshut harabim* on the other side). This demonstrates that Rabbi requires neither a *hanacha* on a *makom arba'ah* nor an *akira* from a *makom arba'ah* — the object was in motion the entire time.
 
 ### Roofed House Limit
 
-> **Hebrew/Aramaic:** לָא מְחַיֵּיב רַבִּי אֶלָּא בִּרְשׁוּת הַיָּחִיד מְקוֹרֶה, דְּאָמְרִינַן: בֵּיתָא כְּמַאן דְּמַלְיָא דָּמְיָא.
->
-> **Translation:** **Rabbi** Yehuda HaNasi **only deemed** him **liable in the covered private domain,** with a roof, **as we say: The house is considered as one that is full?** The entire house with all its space is considered one unit, and each part of it is considered as if it is filled with actual objects. Therefore, an object passing through the house is considered as if it landed on an actual surface of at least four by four handbreadths.
+> **Hebrew/Aramaic:** הָא אִיתְּמַר עֲלַהּ, רַב וּשְׁמוּאֵל דְּאָמְרִי תַּרְוַויְיהוּ:
+> **Translation:** The Gemara rejects this proof. **Wasn’t it stated with regard to this** dispute **that Rav and Shmuel both said:**
+
+> **Hebrew/Aramaic:** לָא מְחַיֵּיב רַבִּי אֶלָּא בִּרְשׁוּת הַיָּחִיד מְקוֹרֶה, דְּאָמְרִינַן: בֵּיתָא כְּמַאן דְּמַלְיָא דָּמְיָא. אֲבָל שֶׁאֵינוֹ מְקוֹרֶה — לָא.
+> **Translation:** **Rabbi** Yehuda HaNasi **only deemed** him **liable in the covered private domain,** with a roof, **as we say: The house is considered as one that is full?** The entire house with all its space is considered one unit, and each part of it is considered as if it is filled with actual objects. Therefore, an object passing through the house is considered as if it landed on an actual surface of at least four by four handbreadths. **However,** in a private domain **that is not covered,** Rabbi Yehuda HaNasi does **not** deem him liable.
 
 However, *Rava* and *Shmuel* both qualify Rabbi's position: *lo mechayiv Rebbi ella bereshut hayachid mekura* — Rabbi only declares one *chayav* if the private domain through which the object passed was a roofed house. *De'amrinan beisa keman demalya dami* — because we say a house is considered as though it were full. The roof of the house is what makes the airspace of the house count as genuinely "occupied" — when the object passes through that enclosed, roofed space, it is as though it was truly present within the domain. *Aval she'eino mekura lo* — but if the private domain had no roof, Rabbi would not declare one *chayav*. This is the principle of *kluta k'mi she'huncha* at work: a closed, roofed house truly absorbs the object, making the passage through its airspace equivalent to placement; an unroofed space does not.
 

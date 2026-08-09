@@ -1,0 +1,399 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Safek, Androgynos, Bein",
+    "candidates": [
+      "Safek, Androgynos, Bein",
+      "Bein Hashmashos: Birth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita's derashah from 'arlaso' deriving that only a definite foreskin overrides Shabbat and excluding both safek and androgynos \u2014 exactly what the prose of heading 0 describes.",
+      "chosen_heading": "Safek, Androgynos, Bein",
+      "current_heading": "Safek, Androgynos, Bein",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Bein Hashmashos: Birth",
+    "candidates": [
+      "Bein Hashmashos: Birth",
+      "Beit Shammai vs. Hillel",
+      "R. Shimon - Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Yehuda's exclusions including the androginus, the twilight-born child, and the child born circumcised along with the Beit Shammai/Beit Hillel dispute \u2014 all of which are the exact topics introduced and explained in the 'Bein Hashmashos: Birth' prose section.",
+      "chosen_heading": "Bein Hashmashos: Birth",
+      "current_heading": "Bein Hashmashos: Birth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "R. Shimon - Agreement",
+    "candidates": [
+      "Beit Shammai vs. Hillel",
+      "R. Shimon - Agreement",
+      "Convert's Status",
+      "Conceptual Foundations",
+      "Safek - Viability Doubt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Shimon ben Elazar's statement that Beit Shammai and Beit Hillel agree on the born-circumcised case (due to concealed foreskin) and disagree on the converted-circumcised case, which is precisely what the prose under 'R. Shimon - Agreement' describes.",
+      "chosen_heading": "R. Shimon - Agreement",
+      "current_heading": "R. Shimon - Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Safek - Viability Doubt",
+    "candidates": [
+      "Convert's Status",
+      "Conceptual Foundations",
+      "Safek - Viability Doubt",
+      "Birth Without Foreskin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly concern the seventh-month/eighth-month viability doubt (safek ben shivah/ben shmonah) and the muktzeh status of an eighth-month infant, which is precisely what the prose of candidate 2 ('Safek - Viability Doubt') discusses in detail.",
+      "chosen_heading": "Safek - Viability Doubt",
+      "current_heading": "Safek - Viability Doubt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Birth Without Foreskin",
+    "candidates": [
+      "Birth Without Foreskin",
+      "Refused by Mohelim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage records exactly the Rav/Shmuel dispute over hatafat dam bris for a child born without a foreskin, which is precisely what the prose under 'Birth Without Foreskin' describes.",
+      "chosen_heading": "Birth Without Foreskin",
+      "current_heading": "Birth Without Foreskin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Refused by Mohelim",
+    "candidates": [
+      "Refused by Mohelim",
+      "Tragic Consequence",
+      "Rav Nachman Corrects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Adda bar Ahava circumcising his son himself, rendering him a krus shofkha, and lamenting that he violated Rav's ruling \u2014 which matches 'Tragic Consequence' prose exactly, not 'Refused by Mohelim' which covers only the mohalim's refusals.",
+      "chosen_heading": "Tragic Consequence",
+      "current_heading": "Refused by Mohelim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Rav Nachman Corrects",
+    "candidates": [
+      "Tragic Consequence",
+      "Rav Nachman Corrects",
+      "Rabbah - Suspicion",
+      "Rav Yosef - Certainty",
+      "R. Elizer Hakappar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Nachman's correction about Shmuel's ruling being limited to weekdays, Rav Adda bar Ahava's reasoning about vadai orlah kevushah, and the statement of the Rabbah/Rav Yosef dispute \u2014 exactly what the 'Rav Nachman Corrects' prose describes.",
+      "chosen_heading": "Rav Nachman Corrects",
+      "current_heading": "Rav Nachman Corrects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "R. Elizer Hakappar",
+    "candidates": [
+      "Rabbah - Suspicion",
+      "Rav Yosef - Certainty",
+      "R. Elizer Hakappar",
+      "Tanna Kamma Analysis",
+      "Weekday vs. Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's proof from the Rabbi Eliezer HaKappar baraita, which the essay places under 'Rav Yosef - Certainty' (index 1) as the source for his position \u2014 the current placement under 'R. Elizer Hakappar' (index 2) is actually the correct section according to the prose, which explicitly describes this exact baraita and Rav Yosef's inference from it, making index 2 the best match.",
+      "chosen_heading": "Rav Yosef - Certainty",
+      "current_heading": "R. Elizer Hakappar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Weekday vs. Shabbat",
+    "candidates": [
+      "Tanna Kamma Analysis",
+      "Weekday vs. Shabbat",
+      "Against Hatafat",
+      "For Hatafat",
+      "Shabbat Override",
+      "Modern Applications",
+      "Convert Exception",
+      "Rabbi Assi - Tumat Leida"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge to the tanna kamma interpretation and the response about Rabbi Eliezer HaKappar not merely stating Beit Shammai's reasoning, which is precisely what Candidate 0's prose describes.",
+      "chosen_heading": "Tanna Kamma Analysis",
+      "current_heading": "Weekday vs. Shabbat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Rabbi Assi - Tumat Leida",
+    "candidates": [
+      "Against Hatafat",
+      "For Hatafat",
+      "Shabbat Override",
+      "Modern Applications",
+      "Convert Exception",
+      "Rabbi Assi - Tumat Leida",
+      "C-Section Exception",
+      "Abaye Objection",
+      "Torah Changed Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Assi's principle linking tumat leida to eighth-day circumcision (item 1) and Abaye's objection from the early generations (item 2), which is precisely the content described in the 'Rabbi Assi - Tumat Leida' section's prose \u2014 noting that Abaye's objection belongs to heading 7, but since both items are part of one continuous chain (ruling followed immediately by its first challenge), and the current placement matches the opening of this dispute, the passage sits correctly under heading 5 where the prose introduces Rabbi Assi's halakhah and its derivation.",
+      "chosen_heading": "Rabbi Assi - Tumat Leida",
+      "current_heading": "Rabbi Assi - Tumat Leida",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Torah Changed Law",
+    "candidates": [
+      "C-Section Exception",
+      "Abaye Objection",
+      "Torah Changed Law",
+      "Baraita Four Cases",
+      "Yeled Bayit",
+      "Miknei Kesef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Asi's 'nitna Torah v'nitchadsha halakha' response, the subsequent challenge from the Rav Huna/Rav Chiyya bar Rav dispute, and the 'ha baha talya' resolution \u2014 are precisely the content described in the 'Torah Changed Law' section's prose.",
+      "chosen_heading": "Torah Changed Law",
+      "current_heading": "Torah Changed Law",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Miknei Kesef",
+    "candidates": [
+      "Baraita Four Cases",
+      "Yeled Bayit",
+      "Miknei Kesef",
+      "Rav Chama's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Item 1 introduces the four-case baraita structure that Candidate 0's prose explicitly describes as its subject, and Items 2\u20133 naturally follow as the elaboration of those cases, making Candidate 0 the best single home for the whole passage as it frames the chiastic four-case structure from which the subsequent explanations flow.",
+      "chosen_heading": "Baraita Four Cases",
+      "current_heading": "Miknei Kesef",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rav Chama's View",
+    "candidates": [
+      "Rav Chama's View",
+      "Tanna Kamma Disagrees",
+      "Detailed Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the tanna kamma's position that he makes no distinction between immersion before or after birth, matching directly with the 'Tanna Kamma Disagrees' section's prose about 'V'Tanna Kamma lo shani lei' and the irrelevance of tumat leida to the tanna kamma's view.",
+      "chosen_heading": "Tanna Kamma Disagrees",
+      "current_heading": "Rav Chama's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Detailed Analysis",
+    "candidates": [
+      "Tanna Kamma Disagrees",
+      "Detailed Analysis",
+      "Special Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form the continuous Gemara analysis of how each tanna generates the four permutations \u2014 Rava's demonstration for Rabbi \u1e24ama, the challenge for the tanna kamma, Rabbi Yirmiah's answer, and the kinyan peiros qualification \u2014 exactly matching the 'Detailed Analysis' prose description.",
+      "chosen_heading": "Detailed Analysis",
+      "current_heading": "Detailed Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Special Condition",
+    "candidates": [
+      "Special Condition",
+      "Unresolved Debate",
+      "Rosh's Solution",
+      "Modern Practice",
+      "Thirty Day Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Mesharshiya's statement about purchasing a maidservant on condition she not immerse, which is exactly what the 'Special Condition' section's prose discusses.",
+      "chosen_heading": "Special Condition",
+      "current_heading": "Special Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Thirty Day Rule",
+    "candidates": [
+      "Unresolved Debate",
+      "Rosh's Solution",
+      "Modern Practice",
+      "Thirty Day Rule",
+      "Eight Days Animals",
+      "Viability Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about the thirty-day viability rule for humans and eight-day rule for animals, which is exactly what the 'Thirty Day Rule' section's prose describes, with the 'Eight Days Animals' section covering the interpretive point separately in essay prose but the baraita itself belongs under its current heading as a unified source.",
+      "chosen_heading": "Thirty Day Rule",
+      "current_heading": "Thirty Day Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Viability Contradiction",
+    "candidates": [
+      "Eight Days Animals",
+      "Viability Contradiction",
+      "Rav Adda Resolution",
+      "Two Outcomes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the sharp question \u2014 if a sub-thirty-day infant is uncertain/nefel status, how can we circumcise him on Shabbat? \u2014 which is precisely what the 'Viability Contradiction' prose describes.",
+      "chosen_heading": "Viability Contradiction",
+      "current_heading": "Viability Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Two Outcomes",
+    "candidates": [
+      "Rav Adda Resolution",
+      "Two Outcomes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Adda bar Ahava's mimah nafshach argument as a unit, and candidate 0 ('Rav Adda Resolution') directly describes this exact argument and framing, while candidate 1 elaborates on the two outcomes that follow from it \u2014 the passage itself is the source text for the resolution, not the elaboration of its two branches.",
+      "chosen_heading": "Rav Adda Resolution",
+      "current_heading": "Two Outcomes",
+      "moved": true
+    }
+  }
+]

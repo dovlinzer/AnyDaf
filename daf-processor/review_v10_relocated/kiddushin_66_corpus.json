@@ -1,0 +1,336 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Central Question",
+      "Rav's Position",
+      "Rabbah bar Rav Huna",
+      "Textual Variants",
+      "The Scenario",
+      "The Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yitzchak bar Shmuel bar Marta's ruling in Rav's name AND Rabbah bar Rav Huna's parallel formulation with its textual variants, but the current placement under 'Rav's Position' is too narrow \u2014 however, examining the candidates, the passage spans headings 1, 2, and 3, and since all items must go under ONE heading, the current placement (index 1) is the starting point of the passage's content, but index 3 ('Textual Variants') is the last section whose prose explicitly covers the ve-ika de-amrei alternative version that concludes this passage, making it the best single home \u2014 yet the prose of index 1 already begins covering this material, so the current placement is acceptable, but index 3's prose most comprehensively covers the full passage including both versions and both attributions.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "The Ruling",
+    "candidates": [
+      "Rabbah bar Rav Huna",
+      "Textual Variants",
+      "The Scenario",
+      "The Ruling",
+      "Case Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the baraita scenario itself (two men from overseas, the woman, the bundle, and their conflicting claims), which matches 'The Scenario' section's prose description of Rav Achdevai bar Ami's counter-challenge and the exact same details, whereas 'The Ruling' section discusses the halachic outcome which comes after this passage.",
+      "chosen_heading": "The Scenario",
+      "current_heading": "The Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Case Clarification",
+    "candidates": [
+      "The Ruling",
+      "Case Clarification",
+      "Rabbi Meir's Chiddush",
+      "Kahana & Papa",
+      "Gezeirah Shavah",
+      "Beirur vs. Kiyum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly poses the 'heichi dami' question and the one-witness scenario, which is exactly what the 'Case Clarification' prose discusses.",
+      "chosen_heading": "Case Clarification",
+      "current_heading": "Case Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Beirur vs. Kiyum",
+    "candidates": [
+      "Rabbi Meir's Chiddush",
+      "Kahana & Papa",
+      "Gezeirah Shavah",
+      "Beirur vs. Kiyum",
+      "Asset Division",
+      "Abaye's Answer",
+      "Framework",
+      "Contaminated Terumah"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Contaminated Terumah",
+    "candidates": [
+      "Asset Division",
+      "Abaye's Answer",
+      "Framework",
+      "Contaminated Terumah",
+      "Korban Obligation",
+      "Animal Status",
+      "Why Three Cases",
+      "Tosafos Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items are Abaye's series of cases about a single witness being believed when the subject is silent \u2014 the chelev case (items 1-2), the taharos case (item 2), and the ox/bestiality case (items 3-4) \u2014 which is precisely what the 'Contaminated Terumah' section's prose describes as the series of Abaye rulings with the silence-as-admission mechanism.",
+      "chosen_heading": "Contaminated Terumah",
+      "current_heading": "Contaminated Terumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Tosafos Analysis",
+    "candidates": [
+      "Korban Obligation",
+      "Animal Status",
+      "Why Three Cases",
+      "Tosafos Analysis",
+      "The Case",
+      "Abaye vs. Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's tzricha explanation of why all three cases (chullin ba-azarah, tamei foods, and the ox) are necessary, which matches precisely the 'Why Three Cases' prose description.",
+      "chosen_heading": "Why Three Cases",
+      "current_heading": "Tosafos Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Abaye vs. Rava",
+    "candidates": [
+      "The Case",
+      "Abaye vs. Rava",
+      "Reframing",
+      "The Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the dilemma and the two opinions in a single Talmudic unit, and its content \u2014 posing the question of the silent husband and one witness \u2014 matches the 'The Case' prose which frames exactly this scenario before the detailed analysis of Abaye vs. Rava begins.",
+      "chosen_heading": "The Case",
+      "current_heading": "Abaye vs. Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "The Setup",
+    "candidates": [
+      "Reframing",
+      "The Setup",
+      "Shmuel's Ruling",
+      "Abaye's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what 'The Setup' prose discusses: Abaye introducing the story of the blind tanna who reviewed mishnayos before Mar Shmuel, his lateness, the messenger being sent, and the messenger's report of the wife's adultery \u2014 all setup material before Shmuel's ruling.",
+      "chosen_heading": "The Setup",
+      "current_heading": "The Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Abaye's Proof",
+    "candidates": [
+      "Shmuel's Ruling",
+      "Abaye's Proof",
+      "Rava's Reading",
+      "The Feast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Abaye/Rava debate about the meaning of Shmuel's phrase 'im meiman lach,' which is precisely what the 'Shmuel's Ruling' prose section unpacks \u2014 explaining both Abaye's interpretation (not a gazlan) and Rava's counter-reading (trusted like two witnesses), making it a better fit there than under 'Abaye's Proof' which discusses the broader evidentiary argument rather than this specific textual dispute.",
+      "chosen_heading": "Shmuel's Ruling",
+      "current_heading": "Abaye's Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "The Feast",
+    "candidates": [
+      "Rava's Reading",
+      "The Feast",
+      "The Insult"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the feast with King Yannai, salty foods, and tables of gold \u2014 exactly what the 'The Feast' section's prose discusses.",
+      "chosen_heading": "The Feast",
+      "current_heading": "The Feast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "The Insult",
+    "candidates": [
+      "The Insult",
+      "The Rumor",
+      "The Conspiracy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the feast scene \u2014 Elazar ben Poira's provocation and Yehuda ben Gedidya's remark about the captive mother \u2014 which are precisely the events discussed in 'The Insult' prose, including the tzitz episode and the Modi'in rumor.",
+      "chosen_heading": "The Insult",
+      "current_heading": "The Insult",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "The Conspiracy",
+    "candidates": [
+      "The Rumor",
+      "The Conspiracy",
+      "Heresy & Restoration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Elazar ben Poira's argument to Yannai that the sages' lenient punishment (treating Yannai like a 'hedyot') revealed their disloyalty, which is precisely what the 'Rumor' section's prose discusses \u2014 the logic of Elazar's framing of the inadequate sentence as an indictment of the sages.",
+      "chosen_heading": "The Rumor",
+      "current_heading": "The Conspiracy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Heresy & Restoration",
+    "candidates": [
+      "The Conspiracy",
+      "Heresy & Restoration",
+      "The Question",
+      "Evidence Structure",
+      "Rashi's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Nachman bar Yitzchak's statement about heresy entering Yannai and the subsequent killing of sages followed by Shimon ben Shetach's restoration, which directly matches the 'Heresy & Restoration' section's prose content.",
+      "chosen_heading": "Heresy & Restoration",
+      "current_heading": "Heresy & Restoration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Rashi's View",
+    "candidates": [
+      "The Question",
+      "Evidence Structure",
+      "Rashi's View",
+      "Gemara's Inference",
+      "Rava's Counter",
+      "Alternative Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's opening question asking 'what are the circumstances' of the case \u2014 exactly what candidate 0 ('The Question') describes as the Gemara turning to ask what the story proves and how the refutation of the rumor worked.",
+      "chosen_heading": "The Question",
+      "current_heading": "Rashi's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Alternative Explanation",
+    "candidates": [
+      "Gemara's Inference",
+      "Rava's Counter",
+      "Alternative Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form Rava's counter-argument: item 1 is the inference supporting Abaye that Rava must rebut, item 2 is Rava's hazamah response, and item 3 is an additional alternative Rava can use \u2014 all directly serving to answer the proof for Abaye's position, which is exactly what candidate 1 ('Rava's Counter') describes.",
+      "chosen_heading": "Rava's Counter",
+      "current_heading": "Alternative Explanation",
+      "moved": true
+    }
+  }
+]

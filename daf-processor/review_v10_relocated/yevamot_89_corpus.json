@@ -1,0 +1,324 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rav Huna Gezeira",
+    "candidates": [
+      "Setup: Single Witness",
+      "Rav Huna Gezeira",
+      "Kiddushin Only Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the exact Talmudic text introducing the question 'tzericha get mizeh umizeh' and the initial 'bishlama' challenge about why a get is needed from the second husband \u2014 this is the setup material described in candidate 0's prose, not the answer (Rav Huna's gezeira) described in candidate 1.",
+      "chosen_heading": "Setup: Single Witness",
+      "current_heading": "Rav Huna Gezeira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Kiddushin Only Case",
+    "candidates": [
+      "Rav Huna Gezeira",
+      "Kiddushin Only Case",
+      "Public Perception Issue",
+      "Mechzir Gerushato",
+      "R. Yose ben Kipur",
+      "Get Doesn't Matter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete sugya of Rav Huna's gezeira \u2014 the initial ruling, the challenge from the kiddushin case, and the resolution via Rabbi Yosei ben Keifar \u2014 which matches heading 0's prose describing exactly this chain of reasoning about the gezeira and the perception problem.",
+      "chosen_heading": "Rav Huna Gezeira",
+      "current_heading": "Kiddushin Only Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Get Doesn't Matter",
+    "candidates": [
+      "Public Perception Issue",
+      "Mechzir Gerushato",
+      "R. Yose ben Kipur",
+      "Get Doesn't Matter",
+      "Kiddushei Ta'ut",
+      "Kensu Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's proof from the latter clause of the mishna that the second man's get is halachically meaningless because it doesn't disqualify her from kehunah, which is exactly what the 'Get Doesn't Matter' section's prose describes.",
+      "chosen_heading": "Get Doesn't Matter",
+      "current_heading": "Get Doesn't Matter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Kensu Rabbanan",
+    "candidates": [
+      "Kiddushei Ta'ut",
+      "Kensu Rabbanan",
+      "No Ketubah",
+      "Ketubah Nature"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about why the first clause doesn't also invoke 'mistaken marriage' logic, and answers that the Rabbis penalized her in the first clause because she violated a prohibition, while not penalizing her in the latter clause \u2014 exactly what the 'Kensu Rabbanan' prose describes.",
+      "chosen_heading": "Kensu Rabbanan",
+      "current_heading": "Kensu Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Ketubah Nature",
+    "candidates": [
+      "No Ketubah",
+      "Ketubah Nature",
+      "No Support Benefits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why no ketubah is required \u2014 the rabbinic rationale for the ketubah (deterring hasty divorce) is inverted here \u2014 which exactly matches the prose of heading 0 ('No Ketubah'), not heading 1 which discusses whether the ketubah is de'oraita and contractual theory.",
+      "chosen_heading": "No Ketubah",
+      "current_heading": "Ketubah Nature",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "No Support Benefits",
+    "candidates": [
+      "Ketubah Nature",
+      "No Support Benefits",
+      "Competing Values",
+      "Return Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the mishna's statement about no profits, sustenance, or worn clothes, and the principle 'tenai ketubah ke-ketubah dami,' which is precisely what the 'No Support Benefits' section's prose discusses.",
+      "chosen_heading": "No Support Benefits",
+      "current_heading": "No Support Benefits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Return Property",
+    "candidates": [
+      "Competing Values",
+      "Return Property",
+      "Mamzerim Both Sides",
+      "Terumah Analogy",
+      "Bad Terumah",
+      "Chisda vs. Natan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ruling that a woman must return property she took (natlah mizeh umizeh) and the gemara's clarification that even once she has taken hold of it (keivan detafsa) the court removes it from her \u2014 exactly what the 'Return Property' section's prose describes.",
+      "chosen_heading": "Return Property",
+      "current_heading": "Return Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Chisda vs. Natan",
+    "candidates": [
+      "Mamzerim Both Sides",
+      "Terumah Analogy",
+      "Bad Terumah",
+      "Chisda vs. Natan",
+      "Invalid Terumah",
+      "Rabbi Ilai Source",
+      "Challenge to Authority",
+      "Mamzer Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 12 items form a single continuous discussion of the Rav \u1e24isda/Rav Natan bar Rav Oshaya dispute about tamei terumah separated on tahor produce, including the challenges from shogeg/meizid cases, the Rabbi Ilai derivation, and Rabbah's challenge to Rav \u1e24isda \u2014 exactly the content described in candidate 3 ('Chisda vs. Natan').",
+      "chosen_heading": "Chisda vs. Natan",
+      "current_heading": "Chisda vs. Natan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Mamzer Restriction",
+    "candidates": [
+      "Invalid Terumah",
+      "Rabbi Ilai Source",
+      "Challenge to Authority",
+      "Mamzer Restriction",
+      "Chisda's Examples",
+      "Minor Daughters",
+      "When Inherit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the direct continuation of the mamzer discussion \u2014 item 1 is Rav \u1e24isda's challenge from the mishna's mamzer ruling, and item 2 is Rabba's resolution via Shmuel and Rabbi Yo\u1e25anan that the child is forbidden to a mamzeret \u2014 exactly the content described in the 'Mamzer Restriction' prose.",
+      "chosen_heading": "Mamzer Restriction",
+      "current_heading": "Mamzer Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "When Inherit",
+    "candidates": [
+      "Chisda's Examples",
+      "Minor Daughters",
+      "When Inherit",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rav Chisda's baraita about the minor wife and the Beit Shammai/Beit Hillel/Rabbi Eliezer dispute over when the husband inherits her, which is precisely what the 'Minor Daughters' prose introduces \u2014 the passage is Rav Chisda's proof sent to Rabbah and the initial clarification of the baraita's details, fitting that heading's description of the baraita and its dispute about timing.",
+      "chosen_heading": "Minor Daughters",
+      "current_heading": "When Inherit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "When Inherit",
+      "Rabbi Eliezer",
+      "Hefker Beit Din",
+      "Ezra Precedent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Eliezer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses Rabbi Eliezer's position and the tension with his view that acts of a minor are null, resolved by requiring majority before consummation \u2014 exactly what the 'Rabbi Eliezer' prose describes.",
+      "second_heading": "Hefker Beit Din",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the husband inheriting her when Torah law gives rights to her family, resolved via hefker beit din hefker \u2014 exactly what the 'Hefker Beit Din' prose describes.",
+      "current_heading": "Rabbi Eliezer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Ezra Precedent",
+    "candidates": [
+      "Hefker Beit Din",
+      "Ezra Precedent",
+      "Joshua Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yitz\u1e25ak's derivation from Ezra 10:8 for the principle of hefker beit din, which is precisely what the 'Ezra Precedent' prose section describes and analyzes.",
+      "chosen_heading": "Ezra Precedent",
+      "current_heading": "Ezra Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Joshua Source",
+    "candidates": [
+      "Joshua Source",
+      "Tamei Authority",
+      "Met Mitzvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's derivation from Joshua 19:51 comparing rashim to avot, which is exactly what the 'Joshua Source' prose describes in detail.",
+      "chosen_heading": "Joshua Source",
+      "current_heading": "Joshua Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Met Mitzvah",
+    "candidates": [
+      "Tamei Authority",
+      "Met Mitzvah",
+      "Terumah D'Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the met mitzvah justification and the baraita's definition of met mitzvah, which is precisely what the 'Met Mitzvah' section's prose elaborates on.",
+      "chosen_heading": "Met Mitzvah",
+      "current_heading": "Met Mitzvah",
+      "moved": false
+    }
+  }
+]

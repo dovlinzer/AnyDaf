@@ -1,0 +1,576 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Four Lepers Setup",
+    "candidates": [
+      "Four Lepers Setup",
+      "Alexandria Flight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gehazi narrative (the baraita about left/right, the Gehazi-Naaman story, and its resolution with leprosy) that candidate 0's prose explicitly describes as the passage introduced by 'tanu rabbanan leolam tehei smol docheh veyamin mekarevet' and the Elisha-Gehazi narrative leading to the identification of the four lepers as Gehazi and his sons.",
+      "chosen_heading": "Four Lepers Setup",
+      "current_heading": "Four Lepers Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Alexandria Flight",
+    "candidates": [
+      "Alexandria Flight",
+      "Inn & Appearance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the content covered in the 'Alexandria Flight' section prose: King Yannai killing rabbis, Yehoshua ben Perachia and Yeishu fleeing to Alexandria, and Shimon ben Shatach's poetic message calling him back.",
+      "chosen_heading": "Alexandria Flight",
+      "current_heading": "Alexandria Flight",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Inn & Appearance",
+    "candidates": [
+      "Inn & Appearance",
+      "Excommunication",
+      "Final Rejection",
+      "Brick Worship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the inn arrival, the comment about the innkeeper, and the ostracism with 400 shofarot, which matches exactly the prose under 'Inn & Appearance' (candidate 0).",
+      "chosen_heading": "Inn & Appearance",
+      "current_heading": "Inn & Appearance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Brick Worship",
+    "candidates": [
+      "Excommunication",
+      "Final Rejection",
+      "Brick Worship",
+      "Kishuf & Context",
+      "Both Hands Rejection",
+      "Left & Right",
+      "Yetzer & Balance",
+      "Children & Wives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Yeishu coming repeatedly, Yehoshua ben Perachia's softening during Shema and the misread hand signal, then the brick incident and final rejection \u2014 the prose of 'Final Rejection' (index 1) covers exactly this sequence of events, while the current placement 'Brick Worship' (index 2) is meant to discuss the aftermath and consequences of the brick incident rather than the narrative leading up to it.",
+      "chosen_heading": "Final Rejection",
+      "current_heading": "Brick Worship",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Children & Wives",
+    "candidates": [
+      "Kishuf & Context",
+      "Both Hands Rejection",
+      "Left & Right",
+      "Yetzer & Balance",
+      "Children & Wives",
+      "Chesed & Din",
+      "Abraham's Aging"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita explicitly lists yetzer, child, and woman together as a unit, and the prose under 'Yetzer & Balance' (index 3) is the section that introduces and discusses Rabbi Shimon ben Elazar's application of the smol docheh/yamin mekarevet principle to these three domains, making it the natural home for this passage rather than 'Children & Wives' which discusses only the child and wife portion in Rashi's commentary.",
+      "chosen_heading": "Yetzer & Balance",
+      "current_heading": "Children & Wives",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Abraham's Aging",
+    "candidates": [
+      "Chesed & Din",
+      "Abraham's Aging",
+      "Jacob's Illness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage about Elisha's three illnesses directly illustrates the theme of illness as a meaningful experience \u2014 fitting the section on Jacob's prayer instituting illness as a gift that gives time to prepare, rather than Abraham's aging or the chesed/din discussion.",
+      "chosen_heading": "Jacob's Illness",
+      "current_heading": "Abraham's Aging",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Jacob's Illness",
+    "candidates": [
+      "Abraham's Aging",
+      "Jacob's Illness",
+      "Elisha's Recovery",
+      "No Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three topics (Abraham's aging, Jacob's illness, Elisha's recovery) as a single Talmudic unit, and the 'Abraham's Aging' heading's prose explicitly addresses the full passage including the identical-appearance problem and Abraham's prayer, making it the natural home for the entire quoted text which begins with Abraham and flows through to Elisha.",
+      "chosen_heading": "Abraham's Aging",
+      "current_heading": "Jacob's Illness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "No Judgment",
+    "candidates": [
+      "Elisha's Recovery",
+      "No Judgment",
+      "Dor HaPlagah",
+      "Disputes on Groups",
+      "Meraglim & Midbar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items cover the Mishnah's ruling on Anshei Sedom and Rabbi Ne\u1e25emya's dispute about whether they stand in judgment, which is precisely what candidate 3 ('Disputes on Groups') discusses in its prose.",
+      "chosen_heading": "Disputes on Groups",
+      "current_heading": "No Judgment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Meraglim & Midbar",
+    "candidates": [
+      "Dor HaPlagah",
+      "Disputes on Groups",
+      "Meraglim & Midbar",
+      "R. Eliezer View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage about the Meraglim having no share in the World-to-Come, derived from the verse about dying 'by plague,' is explicitly discussed in the 'Meraglim & Midbar' section's prose, which directly references this exact proof-text and ruling.",
+      "chosen_heading": "Meraglim & Midbar",
+      "current_heading": "Meraglim & Midbar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "R. Eliezer View",
+    "candidates": [
+      "R. Eliezer View",
+      "Akiva & Beteira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Dor HaMidbar dispute and the Adat Korach dispute between Rabbi Akiva and Rabbi Eliezer \u2014 are precisely the content described in the 'R. Eliezer View' prose, which explicitly walks through both cases and both sages' positions.",
+      "chosen_heading": "R. Eliezer View",
+      "current_heading": "R. Eliezer View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Akiva & Beteira",
+    "candidates": [
+      "Akiva & Beteira",
+      "Menachem's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the baraita with Rabbi Akiva's and Rabbi Yehuda ben Beteira's views on the generation of the flood, which is precisely what heading 0 ('Akiva & Beteira') describes in its prose.",
+      "chosen_heading": "Akiva & Beteira",
+      "current_heading": "Akiva & Beteira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Menachem's View",
+    "candidates": [
+      "Menachem's View",
+      "Wealth & Pride"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Mena\u1e25em bar Rabbi Yosef's statement about souls suffering in Gehinnom at resurrection, which directly matches the prose in 'Menachem's View' that discusses exactly this teaching, its proof-text, and its implications.",
+      "chosen_heading": "Menachem's View",
+      "current_heading": "Menachem's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Wealth & Pride",
+    "candidates": [
+      "Wealth & Pride",
+      "Mocking God"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about the generation of the flood's prosperity and pride, which directly matches the 'Wealth & Pride' section's prose discussing the same verses and themes.",
+      "chosen_heading": "Wealth & Pride",
+      "current_heading": "Wealth & Pride",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Mocking God",
+    "candidates": [
+      "Mocking God",
+      "Divine Judgment",
+      "Eye & Lust",
+      "Creation & Taking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the rejection of God (mocking) and the divine response/judgment, but the bulk of the text \u2014 including the Job quotation, the rivers/springs declaration, and God's response about judging with water \u2014 spans both headings 0 and 1; however, since the current placement under 'Mocking God' already contains prose that paraphrases virtually every line of this passage (including the rivers/springs line), and heading 1's prose separately covers the divine judgment portion, the current placement is the better single home for the full quoted text.",
+      "chosen_heading": "Mocking God",
+      "current_heading": "Mocking God",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Creation & Taking",
+    "candidates": [
+      "Divine Judgment",
+      "Eye & Lust",
+      "Creation & Taking",
+      "Rabba Echo",
+      "Hot Springs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yosei's etiology linking the flood generation's downfall to lust of the eye (*galgal ha-ayin*), which matches the 'Eye & Lust' section's prose exactly, while the current placement under 'Creation & Taking' only discusses the consequent water-punishment detail.",
+      "chosen_heading": "Eye & Lust",
+      "current_heading": "Creation & Taking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Hot Springs",
+    "candidates": [
+      "Rabba Echo",
+      "Hot Springs",
+      "Mixed Species",
+      "Animal Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the 'rabbah echo' teaching AND the hot springs teaching by Rabbi Yochanan, but the 'Rabba Echo' heading (index 0) covers the first part while 'Hot Springs' (index 1) covers the second \u2014 however, since this is a single unified passage, it should sit under index 0 because the rabbah wordplay is the primary/first statement and the hot springs follow as a continuation, and the current placement under 'Hot Springs' splits the natural unit incorrectly by placing it after the 'Rabba Echo' section rather than within it.",
+      "chosen_heading": "Rabba Echo",
+      "current_heading": "Hot Springs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Animal Exception",
+    "candidates": [
+      "Mixed Species",
+      "Animal Exception",
+      "Power of Theft"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yo\u1e25anan's teaching about cross-species mating AND Rabbi Abba bar Kahana's note about the tushlami \u2014 it is a single continuous Talmudic unit, and heading 0 ('Mixed Species') covers the full content of the crossbreeding discussion that is the main subject, while heading 1 ('Animal Exception') only addresses the secondary clause about the tushlami returning to their kind.",
+      "chosen_heading": "Mixed Species",
+      "current_heading": "Animal Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Power of Theft",
+    "candidates": [
+      "Animal Exception",
+      "Power of Theft",
+      "Hamas Testifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yochanan's teaching on the power of robbery/hamas sealing the decree against the flood generation, which is precisely what the 'Power of Theft' section's prose describes.",
+      "chosen_heading": "Power of Theft",
+      "current_heading": "Power of Theft",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Hamas Testifies",
+    "candidates": [
+      "Hamas Testifies",
+      "Noah's Favor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Hamas/robbery standing before God like a rod and declaring 'nothing comes from them,' which is precisely what the 'Hamas Testifies' section's prose discusses, including the specific quote 'lo me-hem, ve-lo me-hamonam, ve-lo me-hemahem, ve-lo noah ba-hem.'",
+      "chosen_heading": "Hamas Testifies",
+      "current_heading": "Hamas Testifies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Noah's Favor",
+    "candidates": [
+      "Noah's Favor",
+      "Yochanan View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Noah's decree being sealed, God's consolation/regret about creating man \u2014 are precisely the content described in the 'Noah's Favor' prose, which explicitly discusses the tana de-vei Rabbi Yishmael teaching, the yafeh asiti/lo yafeh asiti interpretations of vayyina\u1e25em, and the burial metaphor.",
+      "chosen_heading": "Noah's Favor",
+      "current_heading": "Noah's Favor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Yochanan View",
+    "candidates": [
+      "Yochanan View",
+      "Lakish View",
+      "Wine Mashal",
+      "Perfume Mashal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yochanan's and Reish Lakish's views together as a single Talmudic unit, and candidate 0 ('Yochanan View') is where it currently sits and introduces the debate that the subsequent headings then elaborate upon separately.",
+      "chosen_heading": "Yochanan View",
+      "current_heading": "Yochanan View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Perfume Mashal",
+    "candidates": [
+      "Lakish View",
+      "Wine Mashal",
+      "Perfume Mashal",
+      "Animals Mashal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains BOTH mashals \u2014 Rabbi \u1e24anina's wine mashal (for Rabbi Yochanan) AND Rabbi Oshaya's perfume mashal (for Reish Lakish) \u2014 and since it is a single unified Talmudic text, it belongs under the 'Wine Mashal' heading (index 1) which introduces Rabbi Yochanan's view first, matching the order of the text, rather than being split or placed only under 'Perfume Mashal'.",
+      "chosen_heading": "Wine Mashal",
+      "current_heading": "Perfume Mashal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133
+    ],
+    "current_heading": "Animals Mashal",
+    "candidates": [
+      "Perfume Mashal",
+      "Animals Mashal",
+      "Fish Spared"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the question about why animals were punished and Rabbi Yehoshua ben Kor\u1e25a's wedding-canopy parable answering it \u2014 match precisely the 'Animals Mashal' section prose, which explicitly discusses the same question and parable.",
+      "chosen_heading": "Animals Mashal",
+      "current_heading": "Animals Mashal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Fish Spared",
+    "candidates": [
+      "Fish Spared",
+      "Noah Warns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that fish in the sea were spared from the flood, which matches exactly the 'Fish Spared' section's prose discussing how fish were exempt from the flood's destruction.",
+      "chosen_heading": "Fish Spared",
+      "current_heading": "Fish Spared",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Noah Warns",
+    "candidates": [
+      "Noah Warns",
+      "Mocking Response",
+      "Between Heels",
+      "Hot Waters",
+      "Rotchin Measure",
+      "Verbal Echo",
+      "Metushelach Mourning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together cover exactly what heading 0 ('Noah Warns') describes: Rabbi Yosei's drasha about Noah warning the generation, the mocking response about vineyards, Rava's drasha about torches and contempt, the ark question and flood-type responses \u2014 all the content the prose of heading 0 explicitly discusses, and the subsequent headings (1\u20135) each cover only a sub-portion of these items, while heading 0's prose encompasses the full passage.",
+      "chosen_heading": "Noah Warns",
+      "current_heading": "Noah Warns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Metushelach Mourning",
+    "candidates": [
+      "Mocking Response",
+      "Between Heels",
+      "Hot Waters",
+      "Rotchin Measure",
+      "Verbal Echo",
+      "Metushelach Mourning",
+      "Creation Reversal",
+      "120 to 7",
+      "Taste of Olam HaBa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage asks about the nature of the seven days before the flood, which is precisely what the 'Metushelach Mourning' section discusses \u2014 it poses the question that the section then answers with Rav's explanation about mourning for Metushelach.",
+      "chosen_heading": "Metushelach Mourning",
+      "current_heading": "Metushelach Mourning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      166
+    ],
+    "current_heading": "Taste of Olam HaBa",
+    "candidates": [
+      "Creation Reversal",
+      "120 to 7",
+      "Taste of Olam HaBa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all four interpretations of the seven days (Methuselah's mourning, creation reversal, long/short deadline, and taste of olam haba), and since it is a single unified Talmudic passage it belongs under one heading; the creation reversal interpretation is the first substantive one listed after Methuselah's mourning, but more importantly the passage as a whole must sit under one heading \u2014 and given the essay structure where headings 0, 1, and 2 each address one of the later interpretations, the passage likely belongs at the start of this sequence; however, since the current placement at 'Taste of Olam HaBa' (index 2) is the last of the three, and the passage contains all four interpretations together, placing it under index 0 ('Creation Reversal') \u2014 the first of the thematic headings \u2014 allows the subsequent prose sections to elaborate on each interpretation in turn, making index 0 the best single home for the full source passage.",
+      "chosen_heading": "Creation Reversal",
+      "current_heading": "Taste of Olam HaBa",
+      "moved": true
+    }
+  }
+]

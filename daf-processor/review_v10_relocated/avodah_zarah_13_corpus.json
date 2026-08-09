@@ -1,0 +1,347 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Beis She'an Case",
+    "candidates": [
+      "Market vs Holiday",
+      "Beis She'an Case",
+      "Selling vs Buying",
+      "Myrtle & Roses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text about adorned vs. unadorned stores in Beit She'an, which is precisely what the 'Beis She'an Case' section's prose discusses.",
+      "chosen_heading": "Beis She'an Case",
+      "current_heading": "Beis She'an Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Myrtle & Roses",
+    "candidates": [
+      "Selling vs Buying",
+      "Myrtle & Roses",
+      "Nehane Assur",
+      "Smell & Hana'ah",
+      "Kal Vachomer",
+      "Tax & Ownership",
+      "Intent & Use",
+      "Crown Offer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Myrtle & Roses",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Reish Lakish's ruling distinguishing roses/myrtle from fruit decorations and the verse deriving that nehane is forbidden \u2014 matching heading 1 'Myrtle & Roses' which discusses exactly this distinction and heading 2 'Nehane Assur' which covers the verse and the nehane/mehane principle; heading 1 is the better fit for the opening ruling.",
+      "second_heading": "Kal Vachomer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yochanan's kal vachomer argument that even fruit-decorated stores are forbidden because mehane is a fortiori prohibited \u2014 matching heading 4 'Kal Vachomer' which explicitly discusses Rabbi Yochanan's broader position and this exact kal vachomer reasoning.",
+      "current_heading": "Myrtle & Roses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Crown Offer",
+    "candidates": [
+      "Nehane Assur",
+      "Smell & Hana'ah",
+      "Kal Vachomer",
+      "Tax & Ownership",
+      "Intent & Use",
+      "Crown Offer",
+      "Jew's Dilemma",
+      "Idolatry Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Natan describing the tax-waiver announcement for those who place a wreath on their head and donkey, which is precisely what the 'Crown Offer' section's prose introduces and discusses.",
+      "chosen_heading": "Crown Offer",
+      "current_heading": "Crown Offer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Idolatry Concern",
+    "candidates": [
+      "Jew's Dilemma",
+      "Idolatry Concern",
+      "Buy & Register",
+      "Matzil Miyadam",
+      "Land Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly address the Jew's dilemma of nehane/mehane in the idol-market (the wreath scenario), the consequences for transgression, and the Reish Lakish/Rabbi Yochanan dispute about that exact dilemma \u2014 all of which is precisely what the 'Jew's Dilemma' prose discusses, whereas the current placement under 'Idolatry Concern' discusses secondary puzzles and Tosafot's analysis that follow from that dilemma.",
+      "chosen_heading": "Jew's Dilemma",
+      "current_heading": "Idolatry Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Land Context",
+    "candidates": [
+      "Buy & Register",
+      "Matzil Miyadam",
+      "Land Context",
+      "Kohen Abroad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge quoting the baraita about going to a gentile fair and buying/registering property, which is precisely what the 'Buy & Register' section's prose describes as its content.",
+      "chosen_heading": "Buy & Register",
+      "current_heading": "Land Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Kohen Abroad",
+    "candidates": [
+      "Land Context",
+      "Kohen Abroad",
+      "Challenge",
+      "Merchant vs Homeowner"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items discuss the kohen's permission to become ritually impure outside Eretz Yisrael for litigation, Torah study, or marriage \u2014 precisely the content described in candidate 1's prose about 'Kohen Abroad,' which matches the passage in detail including Rabbi Yehudah's limitation, Rabbi Yossi's disagreement, the incident of Yosef ha-Kohen, and Rabbi Yochanan's ruling.",
+      "chosen_heading": "Kohen Abroad",
+      "current_heading": "Kohen Abroad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Merchant vs Homeowner",
+    "candidates": [
+      "Challenge",
+      "Merchant vs Homeowner",
+      "Church Taxes",
+      "Christianity & AZ",
+      "Punishment Rules",
+      "Tzaar Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the Gemara's resolution of the apparent dispute between Rabbi Natan and the Rabbis \u2014 Rabbi Yochanan's 'leolam lo pligi' answer and the merchant vs. homeowner (meches) distinction \u2014 which is precisely what the 'Merchant vs Homeowner' section's prose describes.",
+      "chosen_heading": "Merchant vs Homeowner",
+      "current_heading": "Merchant vs Homeowner",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Tzaar Debate",
+    "candidates": [
+      "Church Taxes",
+      "Christianity & AZ",
+      "Punishment Rules",
+      "Tzaar Debate",
+      "Abaye vs Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the tzaar baalei chayim objection to maiming animals and Abaye's response from the verse in Joshua, which is precisely what the 'Tzaar Debate' section's prose discusses.",
+      "chosen_heading": "Tzaar Debate",
+      "current_heading": "Tzaar Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Abaye vs Rava",
+    "candidates": [
+      "Abaye vs Rava",
+      "Slaughter Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the contradiction between the earlier definition of ikur (cutting hooves) and the baraita's definition (locking the door until the animal dies), which is precisely the setup described in the 'Abaye vs Rava' prose before it explains why direct mutilation is prohibited \u2014 this contradiction is what motivates Abaye and Rava's dispute.",
+      "chosen_heading": "Abaye vs Rava",
+      "current_heading": "Abaye vs Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Slaughter Risk",
+    "candidates": [
+      "Slaughter Risk",
+      "Bizui Kodashim",
+      "Lock Up",
+      "Verse Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content discussed in the 'Slaughter Risk' section prose \u2014 Abaye's bizui kodashim distinction, the question of why not slaughter, and the answer about takalah (mishap from eating consecrated meat).",
+      "chosen_heading": "Slaughter Risk",
+      "current_heading": "Slaughter Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Verse Proof",
+    "candidates": [
+      "Bizui Kodashim",
+      "Lock Up",
+      "Verse Proof",
+      "Mum Appearance",
+      "Blemish Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Abaye citing the verse 'lo ta'asun ken l'Hashem Eloheichem' to prohibit active destruction of consecrated items, which is precisely the scriptural basis discussed in the 'Verse Proof' section's prose.",
+      "chosen_heading": "Verse Proof",
+      "current_heading": "Verse Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Blemish Conditions",
+    "candidates": [
+      "Mum Appearance",
+      "Blemish Conditions",
+      "Slave Destruction",
+      "Not Saving Idolaters",
+      "Under Shekhinah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue Rava's 'nira ke'matil mum' reasoning \u2014 Item 1 presents Rava's rationale and the Temple-standing/not-standing distinction, and Item 2 addresses the baal mum objection and resolves it \u2014 all of which is precisely what the 'Mum Appearance' prose describes, whereas 'Blemish Conditions' prose discusses the same material but as a refinement after the appearance question is already established.",
+      "chosen_heading": "Mum Appearance",
+      "current_heading": "Blemish Conditions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Under Shekhinah",
+    "candidates": [
+      "Slave Destruction",
+      "Not Saving Idolaters",
+      "Under Shekhinah",
+      "Me'utaihu"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Slave Destruction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the exchange between Rabbi Yona and Rabbi Elai about what to do with a slave purchased at a pagan fair, resolved by citing the baraita about not raising/lowering gentiles from a pit \u2014 which is precisely what the 'Slave Destruction' and 'Not Saving Idolaters' prose describes, with item 1 belonging under 'Slave Destruction' (heading 0) as the question that leads into that discussion.",
+      "second_heading": "Under Shekhinah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rabbi Yirmeya/Rabbi Zeira/Ravin exchange about whether the permissive baraita covers gentile slaves and the 'wings of the Divine Presence' rationale \u2014 exactly what the 'Under Shekhinah' prose (heading 2, the current placement) describes.",
+      "current_heading": "Under Shekhinah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Me'utaihu",
+    "candidates": [
+      "Me'utaihu",
+      "Mutual Criticism",
+      "Ironic Suspicion",
+      "Three Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Ashi's argument about mi'utaihu (reducing gentile possessions) as the true reason for permitting purchases, which is precisely what the 'Me'utaihu' section's prose discusses.",
+      "chosen_heading": "Me'utaihu",
+      "current_heading": "Me'utaihu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Three Categories",
+    "candidates": [
+      "Mutual Criticism",
+      "Ironic Suspicion",
+      "Three Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together establish the three-category distinction (merchant, homeowner, non-regular homeowner) and Rabbi Yochanan's qualification about markets where even homeowners pay the tax \u2014 precisely what the 'Three Categories' prose describes as the resolution grounding this incident.",
+      "chosen_heading": "Three Categories",
+      "current_heading": "Three Categories",
+      "moved": false
+    }
+  }
+]

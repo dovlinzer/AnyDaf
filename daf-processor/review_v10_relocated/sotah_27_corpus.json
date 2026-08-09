@@ -1,0 +1,595 @@
+[
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Bestiality Case",
+    "candidates": [
+      "Zera Theme",
+      "Ramban's Zera",
+      "Ritual Effects",
+      "Sterile Women",
+      "Impotent Husbands",
+      "Impotent Suspected Men",
+      "Mi She'eino Ish",
+      "Sex Between Women",
+      "Bestiality Case",
+      "Shade Case",
+      "Rav Papa Behemah",
+      "Rava Challenges",
+      "Etnan Zonah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Pappa's statement that 'mi she'eino ish' excludes behemah because 'ein zenut be-behemah,' which is precisely what candidate 10 ('Rav Papa Behemah') describes in its prose.",
+      "chosen_heading": "Rav Papa Behemah",
+      "current_heading": "Bestiality Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Etnan Zonah",
+    "candidates": [
+      "Shade Case",
+      "Rav Papa Behemah",
+      "Rava Challenges",
+      "Etnan Zonah",
+      "Etnan Kelev",
+      "Baraita Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava of Parzakya's question to Rav Ashi asking for the source of the principle 'ein zenut be-beheimah', which matches exactly the 'Rava Challenges' section prose describing Rava challenging where we know bestiality is not considered zenut.",
+      "chosen_heading": "Rava Challenges",
+      "current_heading": "Etnan Zonah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Baraita Exception",
+    "candidates": [
+      "Etnan Kelev",
+      "Baraita Exception",
+      "Not Zenut",
+      "Zenut Meaning",
+      "Why Shichvat Zera?",
+      "Anal vs Vaginal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly teaches the baraita about etnan kelev u-mechir zonah being permitted (mutarin) based on 'gam sheneihem' = shenayim v'lo arba, which is exactly what the 'Baraita Exception' prose describes.",
+      "chosen_heading": "Baraita Exception",
+      "current_heading": "Baraita Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Anal vs Vaginal",
+    "candidates": [
+      "Not Zenut",
+      "Zenut Meaning",
+      "Why Shichvat Zera?",
+      "Anal vs Vaginal",
+      "Abaye Challenges",
+      "Mishkevei Isha",
+      "Anal Sex Defined",
+      "Limbs Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together address the question of why 'shichvat zera' is needed in the verse and begin exploring what it excludes \u2014 exactly what heading 2 ('Why Shichvat Zera?') describes \u2014 rather than the already-resolved answer about anal vs vaginal that heading 3 assumes is established.",
+      "chosen_heading": "Why Shichvat Zera?",
+      "current_heading": "Anal vs Vaginal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Limbs Exclusion",
+    "candidates": [
+      "Abaye Challenges",
+      "Mishkevei Isha",
+      "Anal Sex Defined",
+      "Limbs Exclusion",
+      "Peritzuta",
+      "Shichvat Needed",
+      "Neshika Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's 'derech evarim' exclusion and Abaye's immediate challenge to it, and the current placement under 'Limbs Exclusion' covers Rava's revised answer \u2014 with the 'Peritzuta' section (index 4) covering Abaye's challenge separately; however, since the passage contains both statements as a single unit and the current heading's prose explicitly describes Rava's 'derech evarim' formulation which opens this passage, the current placement is the best single home for this combined exchange.",
+      "chosen_heading": "Limbs Exclusion",
+      "current_heading": "Limbs Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Neshika Dispute",
+    "candidates": [
+      "Peritzuta",
+      "Shichvat Needed",
+      "Neshika Dispute",
+      "Ha'arah Definition",
+      "Pasuk Paradox",
+      "Tosafot Reversal",
+      "Jealousy vs Adultery",
+      "Resolution",
+      "Jealousy Limited",
+      "Objective Definition",
+      "Insemination Debate",
+      "Rav Moshe Position",
+      "Tzitz Eliezer Position",
+      "Rav Moshe Dismisses",
+      "Halacha Brackets Zera",
+      "Shmuel's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's challenge about the paradox of excluding neshika via shichvat zera \u2014 item 1 raises the question of what shichvat zera excludes when ha'arah means neshika, and item 2 gives the resolution \u2014 which matches candidate 4 ('Pasuk Paradox') that explicitly discusses this exact tension about why the pasuk would need to exclude what was never included.",
+      "chosen_heading": "Pasuk Paradox",
+      "current_heading": "Neshika Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Shmuel's Rule",
+    "candidates": [
+      "Ha'arah Definition",
+      "Pasuk Paradox",
+      "Tosafot Reversal",
+      "Jealousy vs Adultery",
+      "Resolution",
+      "Jealousy Limited",
+      "Objective Definition",
+      "Insemination Debate",
+      "Rav Moshe Position",
+      "Tzitz Eliezer Position",
+      "Rav Moshe Dismisses",
+      "Halacha Brackets Zera",
+      "Shmuel's Rule",
+      "Dumah Explained",
+      "Seed Quality",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "Both items together constitute Shmuel's ruling about marrying a *dumah* versus her daughter, which is precisely what the 'Shmuel's Rule' section prose introduces and discusses.",
+      "chosen_heading": "Shmuel's Rule",
+      "current_heading": "Shmuel's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Dumah Explained",
+      "Seed Quality",
+      "Rabbi Yochanan",
+      "Chazaka Logic",
+      "Chazaka Paradox",
+      "Character vs Halacha",
+      "Baraita Support",
+      "Rava Caveat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yochanan's ruling that one should marry the daughter of a dumah rather than the dumah herself, citing her chazakat kashrut \u2014 exactly what the 'Rabbi Yochanan' section's prose describes.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Rava Caveat",
+    "candidates": [
+      "Chazaka Logic",
+      "Chazaka Paradox",
+      "Character vs Halacha",
+      "Baraita Support",
+      "Rava Caveat",
+      "Final Halacha",
+      "Rov Beilos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita citation (nosei adam duma) and Rava's qualification together, and the prose under 'Baraita Support' (index 3) introduces the baraita while 'Rava Caveat' (index 4) covers Rava's response \u2014 but since the gemara text includes both elements as one continuous passage, it best fits under 'Baraita Support' which introduces this exact baraita citation that the passage begins with, with Rava's response being the natural continuation discussed in that same section's context.",
+      "chosen_heading": "Baraita Support",
+      "current_heading": "Rava Caveat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Rov Beilos",
+    "candidates": [
+      "Final Halacha",
+      "Rov Beilos",
+      "Halachic Presumption",
+      "Rami's Question",
+      "Fertile Window Theory",
+      "Timing Uncertainty",
+      "Mikveh Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the final halachic ruling (hilchata yisa adam bat duma) AND the supporting principle of rov beilos, but the essay's 'Final Halacha' section (index 0) already covers both elements together, while the current placement under 'Rov Beilos' splits off only the supporting rationale \u2014 the text as a single Gemara passage announcing the hilchata with its reasoning belongs under the final ruling heading.",
+      "chosen_heading": "Final Halacha",
+      "current_heading": "Rov Beilos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Mikveh Timing",
+    "candidates": [
+      "Halachic Presumption",
+      "Rami's Question",
+      "Fertile Window Theory",
+      "Timing Uncertainty",
+      "Mikveh Timing",
+      "No Control",
+      "Teiku",
+      "Evidence Standard",
+      "Modern Issues",
+      "Sotah Eligibility",
+      "Physical Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together form the complete dilemma about the mikveh-timing view (the second opinion), asking whether the husband's knowledge of the mikveh calendar means he watches her closely enough even when she is extremely promiscuous \u2014 exactly what candidate 4 ('Mikveh Timing') discusses, with the teiku resolution fitting naturally at its end.",
+      "chosen_heading": "Mikveh Timing",
+      "current_heading": "Mikveh Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146,
+      147
+    ],
+    "current_heading": "Physical Conditions",
+    "candidates": [
+      "No Control",
+      "Teiku",
+      "Evidence Standard",
+      "Modern Issues",
+      "Sotah Eligibility",
+      "Physical Conditions",
+      "Rav Sheshes Blind",
+      "Beisi Lame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses who qualifies for the sotah process \u2014 specifically the court issuing warnings in place of incapacitated husbands \u2014 which matches the 'Sotah Eligibility' section's description of conditions under which the sotah process may be carried out and who qualifies as subject to it, not the 'Physical Conditions' section which deals with exclusions based on the woman's physical disabilities.",
+      "chosen_heading": "Sotah Eligibility",
+      "current_heading": "Physical Conditions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152,
+      153
+    ],
+    "current_heading": "Beisi Lame",
+    "candidates": [
+      "Rav Sheshes Blind",
+      "Beisi Lame",
+      "Mar bar Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete baraita introducing the comparison of man to woman and woman to man (lehakish), with Rav Sheshet's blind ruling, Rav Ashi's lame/armless ruling, and Mar bar Rav Ashi's mute ruling \u2014 the passage begins with Rav Sheshet's derivation, which is what heading 0 ('Rav Sheshes Blind') is specifically about, and the entire unit belongs under that opening heading since it introduces the whole baraita.",
+      "chosen_heading": "Rav Sheshes Blind",
+      "current_heading": "Beisi Lame",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "Mar bar Rav Ashi",
+    "candidates": [
+      "Beisi Lame",
+      "Mar bar Rav Ashi",
+      "Husband Conditions",
+      "Perek End",
+      "Mutual Effect",
+      "Uvau Uvau",
+      "Who Is Him?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the double mention of 'u-va'u' (and shall enter) as the derivation for the mutual effect, which is precisely what the 'Uvau Uvau' section's prose describes.",
+      "chosen_heading": "Uvau Uvau",
+      "current_heading": "Mar bar Rav Ashi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      170
+    ],
+    "current_heading": "Who Is Him?",
+    "candidates": [
+      "Husband Conditions",
+      "Perek End",
+      "Mutual Effect",
+      "Uvau Uvau",
+      "Who Is Him?",
+      "Forbidden Status",
+      "Practical Case",
+      "Practical Effect",
+      "Venitma'ah",
+      "Rabbi Akiva View",
+      "Rabbi Yehoshua View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Akiva's statement deriving the prohibition to the boel from the extra vav in v'nitme'ah, which is precisely what the 'Rabbi Akiva View' prose describes.",
+      "chosen_heading": "Rabbi Akiva View",
+      "current_heading": "Who Is Him?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      183
+    ],
+    "current_heading": "Rabbi Yehoshua View",
+    "candidates": [
+      "Forbidden Status",
+      "Practical Case",
+      "Practical Effect",
+      "Venitma'ah",
+      "Rabbi Akiva View",
+      "Rabbi Yehoshua View",
+      "Beit Medrash Opens",
+      "Bo Bayom Context",
+      "Yitma Drasha",
+      "Vessel Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yehoshua citing Zecharya ben HaKatzav and Rabbi Yehuda HaNasi's view that the two instances of 'nitme'ah' in the parsha teach two prohibitions (one to the husband, one to the boel), which is exactly what the 'Rabbi Yehoshua View' prose describes.",
+      "chosen_heading": "Rabbi Yehoshua View",
+      "current_heading": "Rabbi Yehoshua View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      194
+    ],
+    "current_heading": "Vessel Drasha",
+    "candidates": [
+      "Beit Medrash Opens",
+      "Bo Bayom Context",
+      "Yitma Drasha",
+      "Vessel Drasha",
+      "Rabbi Yehoshua Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rabbi Akiva's drasha on the word 'yitma' from the earthenware vessel verse, which is precisely what the 'Yitma Drasha' section's prose describes \u2014 whereas the current placement ('Vessel Drasha') discusses the structural chain of tumah transmission that follows from this drasha.",
+      "chosen_heading": "Yitma Drasha",
+      "current_heading": "Vessel Drasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      197
+    ],
+    "current_heading": "Rabbi Yehoshua Response",
+    "candidates": [
+      "Vessel Drasha",
+      "Rabbi Yehoshua Response",
+      "Levite Cities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehoshua's famous reaction invoking Rabban Yochanan ben Zakkai, which is precisely what the 'Rabbi Yehoshua Response' section's prose describes.",
+      "chosen_heading": "Rabbi Yehoshua Response",
+      "current_heading": "Rabbi Yehoshua Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      201
+    ],
+    "current_heading": "Levite Cities",
+    "candidates": [
+      "Levite Cities",
+      "Pasuk Conflict",
+      "Akiva Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents only the initial statement of the contradiction between the two verses about Levite cities, which is precisely what the 'Levite Cities' section prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Levite Cities",
+      "current_heading": "Levite Cities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      206
+    ],
+    "current_heading": "Akiva Resolution",
+    "candidates": [
+      "Pasuk Conflict",
+      "Akiva Resolution",
+      "Alternative View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction between the two verses and asks 'how can these be reconciled?' \u2014 which matches the 'Pasuk Conflict' prose describing the impossibility statement, while the resolution content (migrash and techum Shabbat) belongs under 'Akiva Resolution' separately; however, this single Talmudic passage contains both the conflict AND the resolution together, and since the passage as a whole is one unit, it fits best under 'Pasuk Conflict' which introduces the contradiction that this passage is resolving, but actually the passage includes the full resolution too \u2014 yet 'Pasuk Conflict' prose explicitly quotes the 'ee efshar' language that opens this passage, making it the primary match.",
+      "chosen_heading": "Pasuk Conflict",
+      "current_heading": "Akiva Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      209
+    ],
+    "current_heading": "Alternative View",
+    "candidates": [
+      "Akiva Resolution",
+      "Alternative View",
+      "Red Sea Drasha",
+      "Vayomru Leimor",
+      "Hallel Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Eliezer son of Rabbi Yosei HaGelili's view that one thousand cubits is migrash and two thousand cubits is fields and vineyards, which matches exactly the prose in candidate 1 describing this alternative reading.",
+      "chosen_heading": "Alternative View",
+      "current_heading": "Alternative View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      216
+    ],
+    "current_heading": "Hallel Reading",
+    "candidates": [
+      "Red Sea Drasha",
+      "Vayomru Leimor",
+      "Hallel Reading",
+      "Nechemia View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with 'on that same day Rabbi Akiva interpreted' and introduces the entire drasha about the Red Sea song, making it the opening of that section rather than belonging under the sub-headings about the word leimor or the Hallel comparison.",
+      "chosen_heading": "Red Sea Drasha",
+      "current_heading": "Hallel Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      219
+    ],
+    "current_heading": "Nechemia View",
+    "candidates": [
+      "Hallel Reading",
+      "Nechemia View",
+      "Job Drasha",
+      "Job Pasuk",
+      "Love Proof",
+      "Student Vindication"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Ne\u1e25emya's view that the song was recited like Shema (in unison) rather than like Hallel, which directly matches the prose in candidate 1 ('Nechemia View') describing his position.",
+      "chosen_heading": "Nechemia View",
+      "current_heading": "Nechemia View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      228,
+      229
+    ],
+    "current_heading": "Student Vindication",
+    "candidates": [
+      "Job Drasha",
+      "Job Pasuk",
+      "Love Proof",
+      "Student Vindication"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the complete unit: Item 1 is Rabbi Yehoshua ben Hyrcanus's drasha that Job served out of love (including the ambiguous verse and its resolution), and Item 2 is Rabbi Yehoshua's exclamation to Rabban Yochanan ben Zakkai about the student-of-student vindicating love over fear \u2014 exactly what Candidate 3 ('Student Vindication') discusses, with its prose explicitly covering both the Rabban Yochanan ben Zakkai teaching and the 'talmid talmidecha' conclusion.",
+      "chosen_heading": "Student Vindication",
+      "current_heading": "Student Vindication",
+      "moved": false
+    }
+  }
+]

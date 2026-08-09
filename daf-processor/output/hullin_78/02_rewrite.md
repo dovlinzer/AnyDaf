@@ -16,9 +16,7 @@ The *mishnah* opens by establishing the scope of the prohibition. *oto ve'et ben
 
 ### Chullin Bachutz
 
-Before examining the full matrix of cases, several foundational parameters of *oto ve'et beno* must be stated. First, the order of *shechita* is immaterial: whether one slaughters the mother first or the child first, the prohibition is equally triggered. Second, the two *shechitot* need not be performed by the same person; it is always the one who performs the *second* slaughter who transgresses. Third — and critically — the *shechita* itself remains valid. Transgressing the prohibition does not render the meat forbidden.
-
-The *mishnah* then works through the permutations. The simplest case: *chullin bachutz* — both animals are non-sanctified and are slaughtered outside the *beit haMikdash*. *sheneihem kesherim*: both animals are *kasher*. The meat may be eaten. The second person, however — whoever performs the second *shechita* — *sofeg et ha'arba'im*, absorbs the forty lashes for having violated the prohibition.
+The *mishnah* introduces its first case with the word *keitzad* — "how so?" — and proceeds to the simplest permutation: *chullin bachutz*, both animals are non-sanctified and slaughtered outside the *beit haMikdash*. *Sheneihem kesherim*: both are valid. Although a prohibition was transgressed in the act of *shechita*, the slaughter itself remains kosher.
 
 ## Oto Ve'et Beno Intro (II)
 

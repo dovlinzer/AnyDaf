@@ -1,0 +1,327 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Korah & Brick Basics",
+    "candidates": [
+      "Korah & Brick Basics",
+      "Chachamim vs. R. Yehuda",
+      "R. Yehuda's Fictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening mishnah defining the korah's width requirement in terms of receiving a brick, which is precisely what the 'Korah & Brick Basics' section prose discusses in detail.",
+      "chosen_heading": "Korah & Brick Basics",
+      "current_heading": "Korah & Brick Basics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "R. Yehuda's Fictions",
+    "candidates": [
+      "Chachamim vs. R. Yehuda",
+      "R. Yehuda's Fictions",
+      "Plaster Support"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "R. Yehuda's Fictions",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Mishnah text covering Rabbi Yehuda's fictions (straw/reeds as metal, curved as straight, round as square, and the pi approximation), which the prose of candidate 1 explicitly discusses in detail.",
+      "second_heading": "Plaster Support",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the opening Gemara question ('a handbreadth and a half is required') which launches the plaster-support discussion that candidate 2's prose directly addresses.",
+      "current_heading": "R. Yehuda's Fictions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Plaster Support",
+    "candidates": [
+      "Plaster Support",
+      "Beam vs. Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses how plaster secures the overhanging portion of a brick on a one-tefach korah, which is precisely what the 'Plaster Support' section's prose describes.",
+      "chosen_heading": "Plaster Support",
+      "current_heading": "Plaster Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Beam vs. Support",
+    "candidates": [
+      "Beam vs. Support",
+      "Covered Korah Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the debate between Rabba bar Rav Huna and Rav \u1e24isda about whether the supports of the korah must be sturdy enough to hold the beam and brick, which matches exactly the prose under 'Beam vs. Support'.",
+      "chosen_heading": "Beam vs. Support",
+      "current_heading": "Beam vs. Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Covered Korah Issue",
+    "candidates": [
+      "Covered Korah Issue",
+      "Single Beam Gap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Sheshet's ruling about a korah covered by a mat raised three handbreadths, resulting in neither a valid korah nor a valid mechitzah \u2014 exactly what the 'Covered Korah Issue' prose discusses in detail.",
+      "chosen_heading": "Covered Korah Issue",
+      "current_heading": "Covered Korah Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Single Beam Gap",
+    "candidates": [
+      "Single Beam Gap",
+      "RSBG Four Tefach",
+      "Parallel Beams"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita discusses a single beam not reaching the opposite wall and two beams not touching each other, with the three-handbreadth threshold based on lavud \u2014 exactly what the 'Single Beam Gap' prose describes.",
+      "chosen_heading": "Single Beam Gap",
+      "current_heading": "Single Beam Gap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Parallel Beams",
+    "candidates": [
+      "RSBG Four Tefach",
+      "Parallel Beams",
+      "Vertical Adjustment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "RSBG Four Tefach",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabban Shimon ben Gamliel's ruling about the four-tefach threshold for lavud, which matches heading 0 ('RSBG Four Tefach') exactly.",
+      "second_heading": "Parallel Beams",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 present the baraita about two parallel beams (shtei korot ha-mas'imot) and Rabban Shimon ben Gamliel's variant ruling for that scenario, which matches heading 1 ('Parallel Beams') precisely.",
+      "current_heading": "Parallel Beams",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Vertical Adjustment",
+    "candidates": [
+      "Vertical Adjustment",
+      "Abaye on R. Yose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yose b'Rabbi Yehuda's ruling about two beams at different heights (one above, one below) and the conditions for validity, which is precisely what the 'Vertical Adjustment' section's prose describes and analyzes.",
+      "chosen_heading": "Vertical Adjustment",
+      "current_heading": "Vertical Adjustment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Abaye on R. Yose",
+    "candidates": [
+      "Abaye on R. Yose",
+      "Bent Beams"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items cover exactly the content described in candidate 0's prose: Abaye's analysis of Rabbi Yose b'Rabbi Yehuda agreeing/disagreeing with his father, Rav's correction of the mishna's wording (rechava u-vri'ah), the four-tefachim exception, and the straw-as-metal novel point \u2014 all explicitly discussed in candidate 0's prose and none of it in candidate 1.",
+      "chosen_heading": "Abaye on R. Yose",
+      "current_heading": "Abaye on R. Yose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Bent Beams",
+    "candidates": [
+      "Bent Beams",
+      "Circle to Square"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the bent/curved korah case (akmumah) and Rabbi Zeira's formulation about the beam inside the mavoi with its curvature outside, which is precisely what the 'Bent Beams' prose discusses.",
+      "chosen_heading": "Bent Beams",
+      "current_heading": "Bent Beams",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Circle to Square",
+    "candidates": [
+      "Circle to Square",
+      "3:1 Pi Ratio",
+      "Shlomo's Yam Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the circular korah being viewed as square and the geometric principle that a circumference of three handbreadths equals a diameter of one handbreadth, which is precisely what the 'Circle to Square' section's prose describes.",
+      "chosen_heading": "Circle to Square",
+      "current_heading": "Circle to Square",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Shlomo's Yam Text",
+    "candidates": [
+      "3:1 Pi Ratio",
+      "Shlomo's Yam Text",
+      "Rambam Rounding",
+      "Vilna Gaon Gematria",
+      "Cubic Conversion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain \u2014 deriving the 3:1 ratio from I Kings 7:23, raising the brim objection, Rav Pappa's lily-petal resolution, and the final mashhu/interior-measurement answer \u2014 which exactly matches the prose of candidate 1 ('Shlomo's Yam Text'), where the current placement already sits.",
+      "chosen_heading": "Shlomo's Yam Text",
+      "current_heading": "Shlomo's Yam Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Cubic Conversion",
+    "candidates": [
+      "Rambam Rounding",
+      "Vilna Gaon Gematria",
+      "Cubic Conversion",
+      "Square-Circle Mix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items constitute the gemara's calculation about Solomon's Sea containing 150 mikva'ot \u2014 the baraita, the mikveh volume derivation, the square calculation, the correction for circularity, and the resulting discrepancy \u2014 which is precisely what the 'Cubic Conversion' prose describes.",
+      "chosen_heading": "Cubic Conversion",
+      "current_heading": "Cubic Conversion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Square-Circle Mix",
+    "candidates": [
+      "Square-Circle Mix",
+      "Bat Measure",
+      "Dry Measure Hump"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rami bar Ye\u1e25ezkel's teaching that the lower three cubits were square and the upper two were round, which is precisely the content discussed in the 'Square-Circle Mix' section's prose.",
+      "chosen_heading": "Square-Circle Mix",
+      "current_heading": "Square-Circle Mix",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Dry Measure Hump",
+    "candidates": [
+      "Bat Measure",
+      "Dry Measure Hump"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bat Measure",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address the round brim question and the 2,000 bat volume calculation, which matches heading 0's prose about cross-checking the geometric result against the pasuk's stated volume of 2,000 bat.",
+      "second_heading": "Dry Measure Hump",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 address the contradiction from II Chronicles (3,000 bat), the gudsha resolution, Abaye's one-third ratio, and the mishna about large vessels \u2014 all of which exactly match heading 1's prose about the dry measure hump.",
+      "current_heading": "Dry Measure Hump",
+      "moved": true
+    }
+  }
+]

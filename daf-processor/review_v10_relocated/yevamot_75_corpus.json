@@ -1,0 +1,426 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Dissenting Tana View",
+    "candidates": [
+      "Intro: Mechussar Kipurim",
+      "Dissenting Tana View",
+      "Two Pesukim Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is asking precisely the question 'why do I need two verses with regard to sacrificial food?' \u2014 which is the question introduced and answered in the 'Two Pesukim Analysis' section's prose, not merely the setup of the dissenting tana's position.",
+      "chosen_heading": "Two Pesukim Analysis",
+      "current_heading": "Dissenting Tana View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Two Pesukim Analysis",
+    "candidates": [
+      "Dissenting Tana View",
+      "Two Pesukim Analysis",
+      "Vessels & Tvul Yom",
+      "Rav Zeira's Insight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why two verses are needed (yoledes and zav), explaining each would be insufficient alone \u2014 exactly what the 'Two Pesukim Analysis' prose describes.",
+      "chosen_heading": "Two Pesukim Analysis",
+      "current_heading": "Two Pesukim Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Rav Zeira's Insight",
+    "candidates": [
+      "Vessels & Tvul Yom",
+      "Rav Zeira's Insight",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together \u2014 Rabbi Zeira's teaching about negi'ah and the Baraita resolving the tension between ve-tamei and ve-taher with the kan le-ma'aser/kan le-terumah distinction \u2014 are precisely what the 'Rav Zeira's Insight' prose describes, making the current placement correct.",
+      "chosen_heading": "Rav Zeira's Insight",
+      "current_heading": "Rav Zeira's Insight",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Kal Vachomer",
+      "Yoledes & Tamei Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses reversing the hierarchy between teruma and maaser and the gemara's rejection of that reversal, which is precisely what the 'Kal Vachomer' section's prose describes.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Yoledes & Tamei Status",
+    "candidates": [
+      "Yoledes & Tamei Status",
+      "Intro: Ptzua Daka",
+      "Wife's Status Change",
+      "Rabbi Elazar Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the derivation from 'bechol kodesh lo tiga' regarding the yoledes/tvul yom, juxtaposing kodesh to mikdash and explaining negi'ah ke-achilah \u2014 exactly the content described in the 'Yoledes & Tamei Status' prose.",
+      "chosen_heading": "Yoledes & Tamei Status",
+      "current_heading": "Yoledes & Tamei Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rabbi Elazar Debate",
+    "candidates": [
+      "Intro: Ptzua Daka",
+      "Wife's Status Change",
+      "Rabbi Elazar Debate",
+      "Rabbi Yochanan Reply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly asks which tanna holds that a woman awaiting a disqualifying intercourse may still eat teruma, and Rabbi Elazar identifies it as the position of Rabbi Elazar and Rabbi Shimon \u2014 precisely what the 'Rabbi Elazar Debate' section's prose describes.",
+      "chosen_heading": "Rabbi Elazar Debate",
+      "current_heading": "Rabbi Elazar Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Rabbi Yochanan Reply",
+    "candidates": [
+      "Rabbi Yochanan Reply",
+      "Testicle Injuries",
+      "Three Injury Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous Rabbi Yo\u1e25anan/Rabbi Elazar exchange about 'she-kvar achlah' and 'paka kinyana,' which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rabbi Yochanan Reply",
+      "current_heading": "Rabbi Yochanan Reply",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Three Injury Types",
+    "candidates": [
+      "Testicle Injuries",
+      "Three Injury Types",
+      "Three Body Parts",
+      "Rabbi Yishmael Teaching",
+      "Saris Chama Clarified",
+      "Bidei Shamayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage introduces the baraita defining ptzua daka through various types of testicle injuries, which matches the 'Testicle Injuries' section's prose about what physically constitutes ptzua daka, though it also overlaps with 'Three Injury Types' and 'Rabbi Yishmael Teaching' content \u2014 the opening definitional discussion best fits under heading 0 where the essay author introduces this baraita.",
+      "chosen_heading": "Testicle Injuries",
+      "current_heading": "Three Injury Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Bidei Shamayim",
+    "candidates": [
+      "Three Body Parts",
+      "Rabbi Yishmael Teaching",
+      "Saris Chama Clarified",
+      "Bidei Shamayim",
+      "Tosafot Surgical Evidence",
+      "Rav Moshe Reassessment",
+      "Case: Man in Palm Tree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's question about whether he is literally a saris chamah and its clarification that he merely 'resembles' a saris chamah and is kasher \u2014 exactly what the 'Saris Chama Clarified' section's prose describes.",
+      "chosen_heading": "Saris Chama Clarified",
+      "current_heading": "Bidei Shamayim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Case: Man in Palm Tree",
+    "candidates": [
+      "Tosafot Surgical Evidence",
+      "Rav Moshe Reassessment",
+      "Case: Man in Palm Tree",
+      "Rav's Skeptical Reply",
+      "Natural Causes Kosher",
+      "Ptzua vs. Haptzua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the palm tree case and Rav's skeptical reply about the children's origins, which is exactly what candidate 2 ('Case: Man in Palm Tree') describes \u2014 the gemara's challenge from the man who was punctured by a thorn and still fathered children, along with Shmuel sending the case to Rav who questioned the children's paternity.",
+      "chosen_heading": "Case: Man in Palm Tree",
+      "current_heading": "Case: Man in Palm Tree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Ptzua vs. Haptzua",
+    "candidates": [
+      "Rav's Skeptical Reply",
+      "Natural Causes Kosher",
+      "Ptzua vs. Haptzua",
+      "Mamzer Comparison",
+      "Rav Herzog Principle",
+      "Rava's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Shmuel's ruling that 'ptzua daka bidei shamayim kasher' and Rava's linguistic derivation supporting it \u2014 both belong together under the 'Natural Causes Kosher' heading, which explicitly discusses this Shmuel statement, while the current placement under 'Ptzua vs. Haptzua' only covers Rava's derivation in isolation.",
+      "chosen_heading": "Natural Causes Kosher",
+      "current_heading": "Ptzua vs. Haptzua",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Rava's Rule",
+    "candidates": [
+      "Mamzer Comparison",
+      "Rav Herzog Principle",
+      "Rava's Rule",
+      "Bar Hamduri Challenge",
+      "Future Generations Test"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mamzer Comparison",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita comparing ptzua daka to mamzer via the bidei adam principle, which is precisely what the 'Mamzer Comparison' prose describes.",
+      "second_heading": "Rava's Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's ruling that all three injury types apply to all three body parts, which is exactly what the 'Rava's Rule' prose describes.",
+      "current_heading": "Rava's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Future Generations Test",
+    "candidates": [
+      "Bar Hamduri Challenge",
+      "Future Generations Test",
+      "Alternative Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the challenge (how do we know petzua dakka refers to genitals?) and Rava's response (absence of generational language proves it), making it a complete unit that begins with the challenge described in heading 0, not a split across headings 0 and 1.",
+      "chosen_heading": "Bar Hamduri Challenge",
+      "current_heading": "Future Generations Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Alternative Explanation",
+    "candidates": [
+      "Future Generations Test",
+      "Alternative Explanation",
+      "Krus Shofcha Parallel",
+      "Stream vs. Flow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This passage is the Gemara's challenge to Rava's 'Future Generations Test' argument \u2014 asking whether the absence of generational language might simply mean only he is prohibited \u2014 which is the objection that arises within the Future Generations Test section, before Bar Hamduri's counter is presented in the Alternative Explanation section.",
+      "chosen_heading": "Future Generations Test",
+      "current_heading": "Alternative Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Stream vs. Flow",
+    "candidates": [
+      "Krus Shofcha Parallel",
+      "Stream vs. Flow",
+      "Through-Piercing Case",
+      "Corona Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the derivation that petzua dakka and krus shofcha refer to injuries 'in that place' (the genitals), which is exactly what the 'Krus Shofcha Parallel' prose describes, whereas the current heading 'Stream vs. Flow' only partially covers items 2-3 and misses the overall framing of items 1 and 4.",
+      "chosen_heading": "Krus Shofcha Parallel",
+      "current_heading": "Stream vs. Flow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Corona Debate",
+    "candidates": [
+      "Through-Piercing Case",
+      "Corona Debate",
+      "Hair-Thin Strip Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the through-piercing case (puncture below corona on one side, above on the other) and the debate about it, which is exactly what heading 0's prose introduces, while heading 1's prose already describes the resolution/conclusion of that same debate \u2014 meaning the Gemara text belongs under the heading that sets up the case, not the one summarizing its resolution.",
+      "chosen_heading": "Through-Piercing Case",
+      "current_heading": "Corona Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Hair-Thin Strip Rule",
+    "candidates": [
+      "Corona Debate",
+      "Hair-Thin Strip Rule",
+      "Circumference Question",
+      "Majority Answer",
+      "Quill Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Ravina's dilemma and Rava Tosfa'a's answer in one unit, and heading 1 ('Hair-Thin Strip Rule') introduces this exact discussion, while headings 2 and 3 split it artificially \u2014 the current placement under heading 1 is the correct home for the entire combined passage.",
+      "chosen_heading": "Hair-Thin Strip Rule",
+      "current_heading": "Hair-Thin Strip Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Quill Case",
+    "candidates": [
+      "Circumference Question",
+      "Majority Answer",
+      "Quill Case",
+      "Drain Pipe Case",
+      "Air Exposure Test",
+      "Rav Chisda Opposite",
+      "Friction Theory",
+      "Rava Agrees",
+      "Faucet Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Huna's and Rav Chisda's rulings on the quill vs. gutter cases in a single Talmudic excerpt, and the 'Quill Case' heading is where the essay begins discussing this dispute, making it the natural home for the combined text.",
+      "chosen_heading": "Quill Case",
+      "current_heading": "Quill Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Faucet Analogy",
+    "candidates": [
+      "Drain Pipe Case",
+      "Air Exposure Test",
+      "Rav Chisda Opposite",
+      "Friction Theory",
+      "Rava Agrees",
+      "Faucet Analogy",
+      "Final Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rava agreeing with Rav Huna's air-exposure criterion and then addressing the friction argument with the barrel-stopper analogy, which fits squarely under 'Rava Agrees' (index 4) rather than the separate 'Faucet Analogy' section.",
+      "chosen_heading": "Rava Agrees",
+      "current_heading": "Faucet Analogy",
+      "moved": true
+    }
+  }
+]

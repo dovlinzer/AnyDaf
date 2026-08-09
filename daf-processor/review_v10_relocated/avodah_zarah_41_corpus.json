@@ -1,0 +1,386 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Statues of Kings",
+    "candidates": [
+      "Statues of Kings",
+      "Villages vs. Cities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda/Shmuel's statement about statues of kings and Rabba bar bar \u1e24ana/Rabbi Yochanan's statement about statues at city entrances, and the 'Statues of Kings' prose explicitly discusses both of these statements as an integrated unit before the geographic clarification becomes its own topic under 'Villages vs. Cities'.",
+      "chosen_heading": "Statues of Kings",
+      "current_heading": "Statues of Kings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Villages vs. Cities",
+    "candidates": [
+      "Villages vs. Cities",
+      "Staff, Bird, Globe",
+      "Symbolic Meanings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous Rabba villages-vs-cities dialectic (initial statement, challenge, and revised formulation), which is precisely what the 'Villages vs. Cities' prose describes in detail.",
+      "chosen_heading": "Villages vs. Cities",
+      "current_heading": "Villages vs. Cities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Symbolic Meanings",
+    "candidates": [
+      "Staff, Bird, Globe",
+      "Symbolic Meanings",
+      "Sword, Crown, Ring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the Rabbis' position and explains the three symbols (staff, bird, orb), which matches heading 0 ('Staff, Bird, Globe') whose prose explicitly sets up this explanation, whereas heading 1 ('Symbolic Meanings') contains the detailed symbolic analysis that the essay author wrote about this passage \u2014 meaning the Talmudic text itself belongs under heading 0 as the source being introduced there.",
+      "chosen_heading": "Staff, Bird, Globe",
+      "current_heading": "Symbolic Meanings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Sword, Crown, Ring",
+    "candidates": [
+      "Symbolic Meanings",
+      "Sword, Crown, Ring",
+      "Symbols & Divinity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita introducing sword, crown, and ring as additional indicators, which is exactly what the 'Sword, Crown, Ring' section's prose describes as its subject matter.",
+      "chosen_heading": "Sword, Crown, Ring",
+      "current_heading": "Sword, Crown, Ring",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Symbols & Divinity",
+    "candidates": [
+      "Symbols & Divinity",
+      "Rabban Shimon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the sword, crown, and ring symbols and their reinterpretation from mundane to cosmic/divine significance, which is precisely what the 'Symbols & Divinity' prose section discusses in detail.",
+      "chosen_heading": "Symbols & Divinity",
+      "current_heading": "Symbols & Divinity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rabban Shimon View",
+    "candidates": [
+      "Rabban Shimon View",
+      "Waste Inquiry",
+      "Waste Symbolism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabban Shimon ben Gamliel's position and the baraita teaching that even a pebble or twig suffices, which is exactly what the 'Rabban Shimon View' prose describes.",
+      "chosen_heading": "Rabban Shimon View",
+      "current_heading": "Rabban Shimon View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Waste Symbolism",
+    "candidates": [
+      "Waste Inquiry",
+      "Waste Symbolism",
+      "Hands & Feet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the two interpretive readings (world is inferior to the idol vs. idol is inferior to the world) and the teiku conclusion that Candidate 1's prose describes in detail, making it the clear best match.",
+      "chosen_heading": "Waste Symbolism",
+      "current_heading": "Waste Symbolism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Hands & Feet",
+    "candidates": [
+      "Hands & Feet",
+      "Shmuel's Reading"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hands & Feet",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the case of broken statues and the hand/foot prohibition, which heading 0 ('Hands & Feet') explicitly discusses in its prose.",
+      "second_heading": "Shmuel's Reading",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 present Shmuel's bold extension of the Mishna to confirmed idols and the Gemara's challenge and resolution, which is precisely what heading 1 ('Shmuel's Reading') describes in its prose.",
+      "current_heading": "Hands & Feet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Shmuel's Reading",
+    "candidates": [
+      "Shmuel's Reading",
+      "Natural Breakage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Shmuel's interpretation of the mishna regarding hands and feet standing on their pedestals ('be'omdim al besisan'), which is explicitly discussed in the 'Shmuel's Reading' prose section.",
+      "chosen_heading": "Shmuel's Reading",
+      "current_heading": "Shmuel's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Natural Breakage",
+    "candidates": [
+      "Natural Breakage",
+      "Dagon Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the dispute between Rabbi Yochanan and Reish Lakish about an idol that breaks by itself and the reasoning behind each position, which is precisely what the 'Natural Breakage' prose discusses in detail.",
+      "chosen_heading": "Natural Breakage",
+      "current_heading": "Natural Breakage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Dagon Proof",
+    "candidates": [
+      "Dagon Proof",
+      "Threshold Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yo\u1e25anan's objection to Reish Lakish using the Dagon story, which is exactly what the 'Dagon Proof' section's prose describes \u2014 the challenge based on the priests continuing to worship despite the idol's destruction.",
+      "chosen_heading": "Dagon Proof",
+      "current_heading": "Dagon Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Threshold Transfer",
+    "candidates": [
+      "Threshold Transfer",
+      "Principle Stated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items continue the same debate with Reish Lakish responding to Rabbi Yohanan's challenges \u2014 item 1 is Reish Lakish's threshold-transfer rebuttal (explicitly described in candidate 0's prose), and items 2\u20133 are the next objection-and-response in that same continuous exchange, which still belongs under the 'Threshold Transfer' section rather than the 'Principle Stated' section which discusses a different safeik/vadai principle.",
+      "chosen_heading": "Threshold Transfer",
+      "current_heading": "Threshold Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Principle Stated",
+    "candidates": [
+      "Principle Stated",
+      "Chaver Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the question-and-answer exchange that establishes the 'ein safeik motzi midei vadai' principle described in the 'Principle Stated' prose \u2014 item 1 raises the challenge from Rabbi Meir's ruling on statues, and item 2 rejects it by articulating the safeik/vadai distinction, which is precisely what the prose describes.",
+      "chosen_heading": "Principle Stated",
+      "current_heading": "Principle Stated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Chaver Case",
+    "candidates": [
+      "Chaver Case",
+      "Chazaka as Vadai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the challenge portion \u2014 the baraita about the chaver and the inference that safeik overrides vadai \u2014 which the 'Chaver Case' prose explicitly discusses as the first challenge to the principle, before the resolution appears in 'Chazaka as Vadai'.",
+      "chosen_heading": "Chaver Case",
+      "current_heading": "Chaver Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Chazaka as Vadai",
+    "candidates": [
+      "Chazaka as Vadai",
+      "Safeik vs. Safeik"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi \u1e24anina \u1e24oza'a's ruling that a \u1e25aver never releases unprepared produce, which is precisely the content discussed in heading 0's prose about chazakah as vadai.",
+      "chosen_heading": "Chazaka as Vadai",
+      "current_heading": "Chazaka as Vadai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Safeik vs. Safeik",
+    "candidates": [
+      "Safeik vs. Safeik",
+      "Miscarriage Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the 'safeik v'safeik' resolution based on Rabbi Oshaya's ruling about bringing grain in its chaff, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Safeik vs. Safeik",
+      "current_heading": "Safeik vs. Safeik",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Miscarriage Case",
+    "candidates": [
+      "Miscarriage Case",
+      "Animal Scavengers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full baraita about the maidservant's miscarriage in Rimon \u2014 item 1 is the opening of the case and item 2 is its conclusion \u2014 which perfectly matches the 'Miscarriage Case' prose that describes exactly this baraita in its entirety.",
+      "chosen_heading": "Miscarriage Case",
+      "current_heading": "Miscarriage Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Animal Scavengers",
+    "candidates": [
+      "Animal Scavengers",
+      "Fetal Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's objection about a certain casting of a non-viable newborn into a pit and uncertain animal dragging, which matches the 'Animal Scavengers' prose describing exactly this challenge to *ein safeik motzi midei vadai*.",
+      "chosen_heading": "Animal Scavengers",
+      "current_heading": "Animal Scavengers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Fetal Status",
+    "candidates": [
+      "Fetal Status",
+      "Animal Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-objection-answer chain about whether the baraita describes a vadai nefel or something resembling a nefel, exactly matching the 'Fetal Status' prose which describes the lo teima reinterpretation, the leida im zachar im nekeivah difficulty, and the hachi ka'amar resolution.",
+      "chosen_heading": "Fetal Status",
+      "current_heading": "Fetal Status",
+      "moved": false
+    }
+  }
+]

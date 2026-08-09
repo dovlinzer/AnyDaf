@@ -91,8 +91,8 @@
           "timestamp": "19:06"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "The Case of Rabbi Shimon and the Walls of the Sukkah (continued)",
@@ -105,8 +105,8 @@
           "timestamp": "19:28"
         }
       ],
-      "sefaria_index": 11,
-      "matched": false
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Debates Among Tannaim on Reading Versus Writing: Beit Shammai and Beit Hillel (continued)",
@@ -119,7 +119,7 @@
           "timestamp": "19:28"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": false
     },
     {
@@ -157,7 +157,7 @@
           "timestamp": "26:03"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -181,7 +181,7 @@
           "timestamp": "43:05"
         }
       ],
-      "sefaria_index": 28,
+      "sefaria_index": 26,
       "matched": true
     }
   ],
@@ -353,5 +353,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "24:59",
+  "amud_b_micro_title": "Rav Acha's Objection",
+  "shiur_start_daf": 4,
+  "shiur_start_amud": "a"
 }

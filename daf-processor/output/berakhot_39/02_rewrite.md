@@ -218,18 +218,6 @@ A *tanna* who was teaching this as a *braisa* before Rav Nachman bar Yitzchak wa
 
 ---
 
-## Blessing Priority
-
-*[Note: The shiur's discussion of the formal principles of blessing priority — the Tannaitic dispute reconstructed from the Bar Kappara story — was addressed earlier in the "Bar Kapra Story" and "Blessing Priority" sections above, as presented in the lecture.]*
-
----
-
-## Processing Vegetables
-
-*[Note: The discussion of Rav Huna's turnip ruling, Rav Yehudah's revision, and Rav Kahana's stew teaching was presented above in "Processing Vegetables," following the segmentation of the lecture.]*
-
----
-
 ## Pesach Matzot
 
 ### Pesach Exception

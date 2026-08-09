@@ -1,0 +1,311 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Rabban Gamliel Story",
+    "candidates": [
+      "Leap Year Requirement",
+      "Rabban Gamliel Story",
+      "Shmuel HaKatan"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Leap Year Requirement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mnemonic and opening baraita about intercalation requiring invited participants, which matches the 'Leap Year Requirement' prose discussing 'ain me'abrin et hashana ella bimezumamin.'",
+      "second_heading": "Rabban Gamliel Story",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rabban Gamliel incident about finding eight instead of seven in the loft, which matches exactly the 'Rabban Gamliel Story' prose describing that same ma'aseh.",
+      "current_heading": "Rabban Gamliel Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Shmuel HaKatan",
+    "candidates": [
+      "Shmuel HaKatan",
+      "Rabbi Chiya & Garlic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Shmuel HaKatan taking blame to spare another's embarrassment, which is exactly what the prose under heading 0 discusses in detail, including the Aramaic clarification about the actual intruder and Shmuel HaKatan's selfless act.",
+      "chosen_heading": "Shmuel HaKatan",
+      "current_heading": "Shmuel HaKatan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rabbi Chiya & Garlic",
+    "candidates": [
+      "Rabbi Chiya & Garlic",
+      "Justice vs. Dignity",
+      "Rabbi Meir Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly narrates the garlic incident with Rabbi Chiya, which is precisely what the prose under 'Rabbi Chiya & Garlic' discusses in detail.",
+      "chosen_heading": "Rabbi Chiya & Garlic",
+      "current_heading": "Rabbi Chiya & Garlic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rabbi Meir Precedent",
+    "candidates": [
+      "Justice vs. Dignity",
+      "Rabbi Meir Precedent",
+      "Chain of Learning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about Rabbi Meir writing a get for the woman who came to his study hall, which is exactly what the 'Rabbi Meir Precedent' section's prose discusses in detail.",
+      "chosen_heading": "Rabbi Meir Precedent",
+      "current_heading": "Rabbi Meir Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Chain of Learning",
+    "candidates": [
+      "Chain of Learning",
+      "Bat Kol & Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the chain-of-tradition tracing how the practice of collective/protective speech was transmitted from Moses through Joshua, Shecaniah, Shmuel HaKatan, and Rabbi Meir, which is precisely what the 'Chain of Learning' prose describes in detail.",
+      "chosen_heading": "Chain of Learning",
+      "current_heading": "Chain of Learning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Bat Kol & Hillel",
+    "candidates": [
+      "Bat Kol & Hillel",
+      "Shmuel Worthy of Prophecy",
+      "Shmuel's Prophecy",
+      "Yehuda ben Bava"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bat Kol & Hillel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the departure of the Divine Spirit after the last prophets, the bat kol at Jericho, and the eulogy of Hillel \u2014 exactly what heading 0 ('Bat Kol & Hillel') discusses.",
+      "second_heading": "Shmuel Worthy of Prophecy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the bat kol at Yavne identifying Shmuel HaKatan, his eulogy as disciple of Hillel, and his deathbed prophecy \u2014 matching heading 1 ('Shmuel Worthy of Prophecy') and heading 2 ('Shmuel's Prophecy'), but since item 2 contains both the identification and the prophecy together as one baraita continuation, it best fits under heading 1 which introduces Shmuel's worthiness and the deathbed statement flows naturally from it.",
+      "current_heading": "Bat Kol & Hillel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Yehuda ben Bava",
+    "candidates": [
+      "Shmuel Worthy of Prophecy",
+      "Shmuel's Prophecy",
+      "Yehuda ben Bava",
+      "Nasi Consent",
+      "Retroactive Validation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the inability to eulogize Yehuda ben Bava because he was executed by the Roman government, which is precisely what the 'Yehuda ben Bava' section's prose describes.",
+      "chosen_heading": "Yehuda ben Bava",
+      "current_heading": "Yehuda ben Bava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Retroactive Validation",
+    "candidates": [
+      "Nasi Consent",
+      "Retroactive Validation",
+      "Valid Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the incident of Rabban Gamliel's delayed return and the conditional intercalation ratified upon his return, which is precisely what the 'Retroactive Validation' prose discusses.",
+      "chosen_heading": "Retroactive Validation",
+      "current_heading": "Retroactive Validation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Valid Reasons",
+    "candidates": [
+      "Valid Reasons",
+      "Invalid Reasons",
+      "Animals & Birds",
+      "Aramaic Edict Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both valid and invalid reasons in a single baraita, but the current placement under 'Valid Reasons' is where it sits, and the prose for heading 0 explicitly discusses this tanna rabbanan \u2014 the invalid reasons prose in heading 1 appears to be commentary on the same baraita's second half, suggesting the full baraita is correctly anchored under heading 0 where it first appears.",
+      "chosen_heading": "Valid Reasons",
+      "current_heading": "Valid Reasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Aramaic Edict Text",
+    "candidates": [
+      "Invalid Reasons",
+      "Animals & Birds",
+      "Aramaic Edict Text",
+      "Month Length"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the baraita about kids, lambs, and fledgling doves not being valid standalone reasons for intercalation but serving as supporting factors \u2014 directly matches the 'Animals & Birds' prose, while the Aramaic edict text (heading 2) is a separate element that the Gemara appends to illustrate 'how' the supporting-factor principle works in practice.",
+      "chosen_heading": "Animals & Birds",
+      "current_heading": "Aramaic Edict Text",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Month Length",
+    "candidates": [
+      "Aramaic Edict Text",
+      "Month Length",
+      "Mighty vs. Humble"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the apparent contradiction between thirty days and a standard month for ibbur hashana, and Rav Papa's resolution \u2014 exactly what the 'Month Length' section's prose discusses.",
+      "chosen_heading": "Month Length",
+      "current_heading": "Month Length",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Mighty vs. Humble",
+    "candidates": [
+      "Mighty vs. Humble",
+      "Three Letters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's observation about the ironic contrast between the stern earlier authorities and the humble later ones, which is precisely what the 'Mighty vs. Humble' section's prose discusses.",
+      "chosen_heading": "Mighty vs. Humble",
+      "current_heading": "Mighty vs. Humble",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Three Letters",
+    "candidates": [
+      "Three Letters",
+      "Galilee & South Letters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the opening scene of the baraita \u2014 Rabban Gamliel sitting on the Temple Mount with his scribe Yochanan and three prepared documents before him \u2014 which is exactly what the 'Three Letters' section prose introduces.",
+      "chosen_heading": "Three Letters",
+      "current_heading": "Three Letters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Galilee & South Letters",
+    "candidates": [
+      "Galilee & South Letters",
+      "Diaspora Letter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the letters to Upper/Lower Galilee and the South regarding bi'ur of tithes from olives and grain stalks, which exactly matches the prose in candidate 0 ('Galilee & South Letters').",
+      "chosen_heading": "Galilee & South Letters",
+      "current_heading": "Galilee & South Letters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Diaspora Letter",
+    "candidates": [
+      "Diaspora Letter",
+      "Humility Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the actual text of the diaspora letter with its intercalation notice, which matches exactly the 'Diaspora Letter' prose that describes and analyzes this same Aramaic text and its specific formulas.",
+      "chosen_heading": "Diaspora Letter",
+      "current_heading": "Diaspora Letter",
+      "moved": false
+    }
+  }
+]

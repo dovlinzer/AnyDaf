@@ -39,7 +39,7 @@
           "timestamp": "02:05"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -156,7 +156,7 @@
           "timestamp": "14:55"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -180,7 +180,7 @@
           "timestamp": "18:29"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 19,
       "matched": false
     },
     {
@@ -228,8 +228,8 @@
           "timestamp": "22:35"
         }
       ],
-      "sefaria_index": 23,
-      "matched": true
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "Debate Between Chizkiyahu and Rabbi Yochanan on Status Change Moment",
@@ -252,7 +252,7 @@
           "timestamp": "23:50"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 20,
       "matched": false
     },
     {
@@ -281,7 +281,7 @@
           "timestamp": "25:26"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 20,
       "matched": false
     },
     {
@@ -306,7 +306,7 @@
         }
       ],
       "sefaria_index": 23,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Comparison to Zevachim: When Psul Blood Affects Garment",
@@ -334,8 +334,8 @@
           "timestamp": "31:11"
         }
       ],
-      "sefaria_index": 23,
-      "matched": false
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Torah's Requirement on Chatas Blood Splattering on Garments",
@@ -358,7 +358,7 @@
           "timestamp": "34:39"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": false
     },
     {
@@ -387,7 +387,7 @@
           "timestamp": "37:01"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": false
     },
     {
@@ -416,7 +416,7 @@
           "timestamp": "43:01"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": false
     },
     {
@@ -450,7 +450,7 @@
           "timestamp": "46:43"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": false
     },
     {
@@ -484,7 +484,7 @@
           "timestamp": "53:40"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 22,
       "matched": false
     }
   ],
@@ -789,5 +789,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "05:26",
+  "amud_b_micro_title": "Zerika Timing Proof",
+  "shiur_start_daf": 4,
+  "shiur_start_amud": "a"
 }

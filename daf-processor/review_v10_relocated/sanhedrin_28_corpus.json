@@ -1,0 +1,536 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Fathers & Sons",
+    "candidates": [
+      "Korva & Scope",
+      "Genealogical Chart",
+      "Ishto Kigufo",
+      "Sheni Besheni",
+      "Rabbi Yose vs. Akiva",
+      "Fathers & Sons",
+      "Punishment vs. Edut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the Gemara asking 'from where is this matter derived' and citing the baraita about 'fathers shall not be put to death for the children,' which corresponds exactly to the 'Fathers & Sons' section prose describing 'mena hani mili' and the verse 'lo yumtu avot al banim.'",
+      "chosen_heading": "Fathers & Sons",
+      "current_heading": "Fathers & Sons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Punishment vs. Edut",
+    "candidates": [
+      "Punishment vs. Edut",
+      "Plural Avot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Punishment vs. Edut",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover exactly what candidate 0's prose describes: the reinterpretation of the verse as testimony-disqualification, the question about divine punishment of children for parental sin, and the baraita resolving it via 'adopting ancestral actions.'",
+      "second_heading": "Plural Avot",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces the 'stumbling one upon another' verse and the concept of mutual guarantorship (arevim), which is precisely what candidate 1's prose discusses as its opening point.",
+      "current_heading": "Punishment vs. Edut",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Plural Avot",
+    "candidates": [
+      "Plural Avot",
+      "Theology of Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the concept of co-guarantors and the condition of having the ability to protest but failing to do so, which is exactly what the 'Plural Avot' prose discusses.",
+      "chosen_heading": "Plural Avot",
+      "current_heading": "Plural Avot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Theology of Sin",
+    "candidates": [
+      "Theology of Sin",
+      "Cousins & Third Parties",
+      "Zomemim Example",
+      "Three Brothers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items conclude the derivation that fathers/children are disqualified from testifying about each other and that related fathers (brothers) are disqualified a fortiori \u2014 exactly what the 'Theology of Sin' prose describes as the gemara's reasoning about extending disqualification to uncle/nephew and then to brothers.",
+      "chosen_heading": "Theology of Sin",
+      "current_heading": "Theology of Sin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Three Brothers",
+    "candidates": [
+      "Cousins & Third Parties",
+      "Zomemim Example",
+      "Three Brothers",
+      "Hazama Mei'alma",
+      "Extra Word Banim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items form one continuous chain \u2014 the question about banim le'alma, Rami bar Chama's sevara answer using the zomemim case (items 1-4), Rava's challenge with the three-brothers mishna (items 5-6), and the resolution hazama mei'alma (item 7) \u2014 which matches the 'Zomemim Example' prose that describes exactly this argument about cousins testifying against a third party and the zomemim concern, not the 'Three Brothers' heading where it currently sits.",
+      "chosen_heading": "Zomemim Example",
+      "current_heading": "Three Brothers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Extra Word Banim",
+    "candidates": [
+      "Hazama Mei'alma",
+      "Extra Word Banim",
+      "Mother's Family"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the verse uses 'uvanim' (the extra word 'banim') rather than 'uven' or 'heim', concluding that the plural form extends disqualification to relatives testifying about others \u2014 exactly what the 'Extra Word Banim' section's prose describes.",
+      "chosen_heading": "Extra Word Banim",
+      "current_heading": "Extra Word Banim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Mother's Family",
+    "candidates": [
+      "Mother's Family",
+      "For & Against"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly derives the disqualification of maternal relatives using the double appearance of 'avot,' which is precisely what the 'Mother's Family' section's prose describes.",
+      "chosen_heading": "Mother's Family",
+      "current_heading": "Mother's Family",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "For & Against",
+    "candidates": [
+      "For & Against",
+      "Equal Law"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "For & Against",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the derivation for lechovah vs. lizchut (for and against), which is precisely what the 'For & Against' prose describes.",
+      "second_heading": "Equal Law",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the question of extending the disqualification from dinei nefashot to dinei mamonot, which is exactly what the 'Equal Law' prose discusses.",
+      "current_heading": "For & Against",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Equal Law",
+    "candidates": [
+      "Equal Law",
+      "Rav's Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and interprets 'mishpat echad yihyeh lachem' to establish equal law between monetary and capital cases, which is precisely what the prose of candidate 0 describes.",
+      "chosen_heading": "Equal Law",
+      "current_heading": "Equal Law",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Rav's Statement",
+    "candidates": [
+      "Rav's Statement",
+      "Reciprocal",
+      "Chasno Drasha",
+      "Eight Categories"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav's Statement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav's statement about his uncle not testifying for him and him not testifying for his uncle \u2014 matching heading 0's prose about Rav's articulation of the disqualification scope.",
+      "second_heading": "Reciprocal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge asking why the third-generation (shlishi berishon) case is valid when the mishnah only discussed sheni besheni and sheni berishon \u2014 matching heading 1's prose about the reciprocal extension and the shlishi berishon problem the mishnah didn't mention.",
+      "current_heading": "Rav's Statement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Eight Categories",
+    "candidates": [
+      "Reciprocal",
+      "Chasno Drasha",
+      "Eight Categories",
+      "True Chasno"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Chasno Drasha",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the re-reading of 'chasno' as 'chatan beno' and the incidental teaching that a husband is like his wife, matching exactly the 'Chasno Drasha' prose about this re-reading and its rejection.",
+      "second_heading": "Eight Categories",
+      "second_confidence": "high",
+      "second_reason": "Item 4 raises Rabbi \u1e24iyya's counting challenge (eight fathers = 24, but third-generation reading yields 32), which matches precisely the 'Eight Categories' prose describing Rabbi Chiya's baraita and the inflated count problem.",
+      "current_heading": "Eight Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "True Chasno",
+    "candidates": [
+      "True Chasno",
+      "Rav vs. Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'True Chasno' prose, which explicitly discusses the gemara's resolution that chasno means actual son-in-law treated as another generation, followed by the challenge about shlishi besheni and Rav's position on it.",
+      "chosen_heading": "True Chasno",
+      "current_heading": "True Chasno",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Rav vs. Eliezer",
+    "candidates": [
+      "Rav vs. Eliezer",
+      "Extra Vav"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rav vs. Eliezer",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 cover exactly the content described in candidate 0's prose: Rav following Rabbi Eliezer's baraita, the shlishi besheni challenge, and Rav agreeing with Rabbi Eliezer on one point while disagreeing on another.",
+      "second_heading": "Extra Vav",
+      "second_confidence": "high",
+      "second_reason": "Item 4 gives Rav's scriptural derivation from the extra vav in 'uvanim,' which is precisely what candidate 1's prose ('Extra Vav') describes.",
+      "current_heading": "Rav vs. Eliezer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Extra Vav",
+    "candidates": [
+      "Extra Vav",
+      "Ashkenazi vs. Sefardi",
+      "Achi Chamoti",
+      "Extensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar's derivation from the word 'al banim' as a textual basis for his position, which directly parallels the discussion in the 'Extra Vav' section about how different rabbis derive their opinions from close readings of the same verse.",
+      "chosen_heading": "Extra Vav",
+      "current_heading": "Extra Vav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Extensions",
+    "candidates": [
+      "Ashkenazi vs. Sefardi",
+      "Achi Chamoti",
+      "Extensions",
+      "Father-in-Law",
+      "Stepson's Wife"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Achi Chamoti",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain Rav Nachman's rulings about the mother-in-law's relatives (achi chamoti, ben achi chamoti, ben achot chamoti) which matches the 'Achi Chamoti' and 'Extensions' sections, but item 1 specifically opens Rav Nachman's statement which belongs under 'Achi Chamoti' per its prose about exactly this ruling.",
+      "second_heading": "Father-in-Law",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 (Rav Ashi's question about the brother of the father-in-law and Ulla's answer) match perfectly the 'Father-in-Law' section's prose about achi chamiv and the mishnah's language about achiv/achei aviv/achei immo.",
+      "current_heading": "Extensions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Stepson's Wife",
+    "candidates": [
+      "Father-in-Law",
+      "Stepson's Wife",
+      "Sura: Ba'al Ke'Ishto"
+    ],
+    "result": {
+      "best_index": 1,
+      "action": "single",
+      "chosen_heading": "Stepson's Wife",
+      "current_heading": "Stepson's Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Sura: Ba'al Ke'Ishto",
+    "candidates": [
+      "Sura: Ba'al Ke'Ishto",
+      "Pumbedita: Isha Ke'Vaalah",
+      "Torah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states the Sura formulation 'ba'al ke'ishto' (husband is like his wife), which matches exactly what the Sura heading's prose describes.",
+      "chosen_heading": "Sura: Ba'al Ke'Ishto",
+      "current_heading": "Sura: Ba'al Ke'Ishto",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Torah Source",
+    "candidates": [
+      "Pumbedita: Isha Ke'Vaalah",
+      "Torah Source",
+      "Mother's Husband's Son"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Pumbedita formulation ('isha ke'va'alah') and then immediately provides the Torah source, making it a single unit that belongs under the 'Pumbedita: Isha Ke'Vaalah' heading, not split off under a separate 'Torah Source' heading.",
+      "chosen_heading": "Pumbedita: Isha Ke'Vaalah",
+      "current_heading": "Torah Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Mother's Husband's Son",
+    "candidates": [
+      "Torah Source",
+      "Mother's Husband's Son",
+      "Rabbi Yirmiyah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the Gemara's challenge that the stepfather's son is the same as the half-brother, which is precisely what the prose under 'Mother's Husband's Son' discusses.",
+      "chosen_heading": "Mother's Husband's Son",
+      "current_heading": "Mother's Husband's Son",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Rabbi Yirmiyah",
+    "candidates": [
+      "Rabbi Yirmiyah",
+      "Rav Chisda",
+      "Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yirmiyah's statement that the mishnah is necessary for the case of a 'brother's brother,' which is exactly what heading 0's prose describes.",
+      "chosen_heading": "Rabbi Yirmiyah",
+      "current_heading": "Rabbi Yirmiyah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Concern",
+    "candidates": [
+      "Rav Chisda",
+      "Concern",
+      "Fathers of Couple"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together cover Rav Chisda's ruling about the half-brother's half-brother and the immediate follow-up question about why the mishnah mentions the stepfather's son (resolved as paternal vs. maternal brotherhood), which is precisely the content described in candidate 0's prose about Rav Chisda's disagreement and interpretation.",
+      "chosen_heading": "Rav Chisda",
+      "current_heading": "Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Fathers of Couple",
+    "candidates": [
+      "Concern",
+      "Fathers of Couple",
+      "Loose Cover",
+      "Rabba's View",
+      "Ravina Qualifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav \u1e24isda's ruling that the father of the groom and father of the bride may testify about each other, which directly matches the 'Fathers of Couple' section's prose discussing exactly this ruling.",
+      "chosen_heading": "Fathers of Couple",
+      "current_heading": "Fathers of Couple",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151
+    ],
+    "current_heading": "Ravina Qualifies",
+    "candidates": [
+      "Loose Cover",
+      "Rabba's View",
+      "Ravina Qualifies",
+      "Rejection",
+      "She'er Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabba's View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both Rabba bar bar \u1e24ana's ruling and Ravina's qualification, which together correspond exactly to the 'Rabba's View' section (which sets up the ruling) and 'Ravina Qualifies' section \u2014 but since Item 1 includes Ravina's qualification, it best fits under heading 1 ('Rabba's View') which introduces the base ruling that Ravina then qualifies, and the current placement under 'Ravina Qualifies' (index 2) also works; however, the prose of heading 1 describes Rabba's ruling and heading 2 describes Ravina's qualification, and Item 1 contains both, so it belongs under heading 2 where the full exchange is discussed.",
+      "second_heading": "Rejection",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's rejection of Ravina's distinction, which matches exactly the prose of heading 3 ('Rejection') describing lo shna lafukei velo shna le'ayilu.",
+      "current_heading": "Ravina Qualifies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "She'er Status",
+    "candidates": [
+      "Rejection",
+      "She'er Status",
+      "Ikruvei Da'ata"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi \u1e24iyya bar Ami's teaching about the onen/tumah/inheritance status of a betrothed wife, which is precisely what the 'She'er Status' section's prose discusses and analyzes.",
+      "chosen_heading": "She'er Status",
+      "current_heading": "She'er Status",
+      "moved": false
+    }
+  }
+]

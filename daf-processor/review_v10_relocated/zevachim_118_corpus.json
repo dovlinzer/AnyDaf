@@ -1,0 +1,310 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Pesach Derivation",
+    "candidates": [
+      "R. Yehuda Position",
+      "R. Meir/Chachamim",
+      "Aron & Bamah Status",
+      "Presence & Restriction",
+      "R. Shimon Position",
+      "Pesach Derivation",
+      "Gemara Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items directly discuss Rabbi Shimon's derivation from the Gilgal Pesach verse, the Gemara's challenge that this is obvious, the answer about 'chovot ke'ein Pesach,' and the alternative use of the verse by the Chachamim for Rabbi Yochanan's teaching about an arel receiving hazayah \u2014 exactly what the 'Pesach Derivation' prose describes.",
+      "chosen_heading": "Pesach Derivation",
+      "current_heading": "Pesach Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Gemara Challenge",
+    "candidates": [
+      "Gemara Challenge",
+      "Olot vs. Chatas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita taught before Rav Adda bar Ahava and his challenge about where an individual gets fixed-time compulsory offerings, which is precisely the 'Gemara Challenge' that candidate 0's prose discusses.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Gemara Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Olot vs. Chatas",
+    "candidates": [
+      "Olot vs. Chatas",
+      "Shilo Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Gemara's resolution about compulsory olot vs. chatas and the question about minchat chovah, which is precisely what the 'Olot vs. Chatas' prose section describes.",
+      "chosen_heading": "Olot vs. Chatas",
+      "current_heading": "Olot vs. Chatas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Shilo Structure",
+    "candidates": [
+      "Shilo Structure",
+      "Menucha Status",
+      "Kodashim Eating Rules",
+      "Restriction Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's derivation of the hybrid stone-and-curtain structure of the Mishkan in Shiloh from the apparent contradiction between verses calling it a 'house' and a 'tent,' which is precisely what the 'Shilo Structure' prose discusses.",
+      "chosen_heading": "Shilo Structure",
+      "current_heading": "Shilo Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Restriction Verse",
+    "candidates": [
+      "Menucha Status",
+      "Kodashim Eating Rules",
+      "Restriction Verse",
+      "Yosef Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a single chain of question-objection-answer about the verse source for the rule that offerings may be eaten wherever Shiloh is visible, exactly matching the 'Restriction Verse' prose which describes Rabbi Oshaya's verse, the slaughter objection, and Rabbi Yannai's resolution.",
+      "chosen_heading": "Restriction Verse",
+      "current_heading": "Restriction Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Yosef Midrash",
+    "candidates": [
+      "Yosef Midrash",
+      "Visibility Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items (Rabbi Avdimi bar \u1e24asa on Taanath Shiloh, Rabbi Abbahu on 'ben porat alei ayin', and Rabbi Yosei on 'uretzon shocheni seneh') are precisely the midrashic derivations discussed in the 'Yosef Midrash' prose, which explicitly covers all three of these teachings in sequence.",
+      "chosen_heading": "Yosef Midrash",
+      "current_heading": "Yosef Midrash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Visibility Rules",
+    "candidates": [
+      "Visibility Rules",
+      "Partial Sight",
+      "Edge Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Baraita's initial definition of 'overlooks' (requiring no obstruction) and Rav Pappa's refinement about partial sight, but the current heading 'Visibility Rules' prose already incorporates both elements including Rav Pappa's ruling, making it the best single home for the entire passage.",
+      "chosen_heading": "Visibility Rules",
+      "current_heading": "Visibility Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Edge Cases",
+    "candidates": [
+      "Partial Sight",
+      "Edge Cases",
+      "Rav Dimi Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the dilemmas of Rav Pappa (standing/sitting) and Rabbi Yirmiah (on the bank of the stream vs. in the stream) followed by teiku, which is precisely what the 'Edge Cases' prose describes.",
+      "chosen_heading": "Edge Cases",
+      "current_heading": "Edge Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Rav Dimi Teaching",
+    "candidates": [
+      "Rav Dimi Teaching",
+      "Shilo Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Dimi's teaching about the three locations of the Shechinah in Benjamin's portion, which is precisely what the 'Rav Dimi Teaching' section's prose discusses in detail.",
+      "chosen_heading": "Rav Dimi Teaching",
+      "current_heading": "Rav Dimi Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Shilo Location",
+    "candidates": [
+      "Shilo Location",
+      "Rabbi Yochanan",
+      "Tannaitic Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Talmudic exchange about whether Shilo was in Binyamin's or Yosef's portion, covering Rav Yosef's objection, Rav Adda's response, the strip (retzuah) analogy, and the Taanath Shiloh verse \u2014 exactly what the 'Shilo Location' prose describes in detail.",
+      "chosen_heading": "Shilo Location",
+      "current_heading": "Shilo Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Tannaitic Dispute",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Tannaitic Dispute",
+      "480-Year Framework",
+      "Final Subtraction",
+      "Wilderness: 39 Years",
+      "Gilgal: 14 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Tannaitic dispute (k'tannai) about the meaning of the verse from Moses' blessing to Benjamin, which is exactly what the 'Tannaitic Dispute' section's prose describes in detail \u2014 the two competing interpretations (first Tanna's discrete periods vs. Rabbi Yehuda HaNasi's more expansive reading) that determine whether Shiloh was in Benjamin's portion.",
+      "chosen_heading": "Tannaitic Dispute",
+      "current_heading": "Tannaitic Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Gilgal: 14 Years",
+    "candidates": [
+      "480-Year Framework",
+      "Final Subtraction",
+      "Wilderness: 39 Years",
+      "Gilgal: 14 Years",
+      "Nov/Givon: 57 Years",
+      "Eli & Aron Capture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All six items deal with deriving the durations of the Tent of Meeting periods \u2014 particularly the 14 years of Gilgal (via Calev's testimony) and the seven years of division (via the Yechezkel verse) \u2014 which is precisely what the 'Gilgal: 14 Years' prose section describes.",
+      "chosen_heading": "Gilgal: 14 Years",
+      "current_heading": "Gilgal: 14 Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Eli & Aron Capture",
+    "candidates": [
+      "Nov/Givon: 57 Years",
+      "Eli & Aron Capture",
+      "Aron Kiryat Ye'arim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the transition from Shilo to Nov triggered by Eli's death and the subsequent move to Givon upon Shmuel's death, which is precisely what the 'Eli & Aron Capture' prose section describes.",
+      "chosen_heading": "Eli & Aron Capture",
+      "current_heading": "Eli & Aron Capture",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Aron Kiryat Ye'arim",
+    "candidates": [
+      "Aron Kiryat Ye'arim",
+      "David & Solomon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together explain the twenty years the Ark resided in Kiriath Jearim \u2014 the verse establishing the twenty years, the breakdown of those twenty years into Samuel/Saul/David reigns, and the proof-text for David's seven years in Hebron \u2014 exactly matching the 'Aron Kiryat Ye'arim' prose.",
+      "chosen_heading": "Aron Kiryat Ye'arim",
+      "current_heading": "Aron Kiryat Ye'arim",
+      "moved": false
+    }
+  }
+]

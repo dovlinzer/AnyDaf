@@ -151,7 +151,7 @@
           "timestamp": "22:49"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -180,7 +180,7 @@
           "timestamp": "30:19"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -243,8 +243,8 @@
           "timestamp": "33:37"
         }
       ],
-      "sefaria_index": 23,
-      "matched": true
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "Application to Heirs: Father Dies Before Shabbat; Heir Cannot Do Bittul vs. Father Dies on Shabbat; Heir Can Carry",
@@ -272,8 +272,8 @@
           "timestamp": "35:33"
         }
       ],
-      "sefaria_index": 30,
-      "matched": true
+      "sefaria_index": 20,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -1363,5 +1363,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "30:32",
+  "amud_b_micro_title": "Rava's Question",
+  "shiur_start_daf": 70,
+  "shiur_start_amud": "a"
 }

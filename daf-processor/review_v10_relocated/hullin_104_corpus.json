@@ -1,0 +1,390 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishna: Meat/Milk Rule",
+    "candidates": [
+      "Perek Overview",
+      "Mishna: Meat/Milk Rule",
+      "Table/Vows Extensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact mishna text discussed in candidate 1's prose, which quotes and explains both clauses of this mishna including the fish/grasshopper exceptions and the table-proximity prohibition.",
+      "chosen_heading": "Mishna: Meat/Milk Rule",
+      "current_heading": "Mishna: Meat/Milk Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Table/Vows Extensions",
+    "candidates": [
+      "Table/Vows Extensions",
+      "Vows & Vernacular",
+      "Birds Extension Logic",
+      "Two Extensions",
+      "Mishna Structure",
+      "Birds Biblical Assumption",
+      "Tosafot Logic",
+      "Rabbi Akiva Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct mishnaic quote about vows prohibiting meat being permitted for fish and grasshoppers, which is exactly what heading 0 ('Table/Vows Extensions') introduces and discusses in its prose.",
+      "chosen_heading": "Table/Vows Extensions",
+      "current_heading": "Table/Vows Extensions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Rabbi Akiva Position",
+    "candidates": [
+      "Vows & Vernacular",
+      "Birds Extension Logic",
+      "Two Extensions",
+      "Mishna Structure",
+      "Birds Biblical Assumption",
+      "Tosafot Logic",
+      "Rabbi Akiva Position",
+      "Vow Principle Applied",
+      "Vegetables Vow Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly raises the Gemara's opening assumption that birds are biblically prohibited ('ha-of assur mi-d'Oraisa'), which is precisely what the 'Birds Biblical Assumption' prose section says it will address \u2014 why the Gemara would assume this given the near-universal view that birds cannot be included.",
+      "chosen_heading": "Birds Biblical Assumption",
+      "current_heading": "Rabbi Akiva Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Vegetables Vow Example",
+    "candidates": [
+      "Vow Principle Applied",
+      "Vegetables Vow Example",
+      "Inconsistency Problem",
+      "Rav Yosef Solution",
+      "Hanasi's Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present the Gemara's challenge from the seifa of the mishnah, the citation of Rabbi Akiva's principle from Nedarim with the vegetables/gourds baraita, and Rabbi Akiva's own response establishing his rule \u2014 exactly the content described in the 'Vegetables Vow Example' prose, which walks through this entire exchange in detail.",
+      "chosen_heading": "Vegetables Vow Example",
+      "current_heading": "Vegetables Vow Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Hanasi's Positions",
+    "candidates": [
+      "Inconsistency Problem",
+      "Rav Yosef Solution",
+      "Hanasi's Positions",
+      "Tannaim Uncertainty",
+      "All Meat/Some Biblical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's statement that the mishnah is by Rabbi Yehuda HaNasi who adopts different tannaitic opinions on different matters, which directly matches the 'Rav Yosef Solution' prose rather than the 'Hanasi's Positions' prose which describes the content of those positions.",
+      "chosen_heading": "Rav Yosef Solution",
+      "current_heading": "Hanasi's Positions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "All Meat/Some Biblical",
+    "candidates": [
+      "Tannaim Uncertainty",
+      "All Meat/Some Biblical",
+      "Birds Rabbinic Only",
+      "Rav Yosef Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's explanation that the entire mishnah follows Rabbi Akiva and that all meat is prohibited either biblically or rabbinically except fish and grasshoppers, which is exactly what the 'All Meat/Some Biblical' section's prose describes.",
+      "chosen_heading": "All Meat/Some Biblical",
+      "current_heading": "All Meat/Some Biblical",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rav Yosef Challenge",
+    "candidates": [
+      "Birds Rabbinic Only",
+      "Rav Yosef Challenge",
+      "Safeguard Doubling",
+      "Tosafot Safeguards",
+      "Table Safeguard Question",
+      "Challah Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yosef's exact argument that the table-placement prohibition proves birds are biblically prohibited, which is precisely what the 'Rav Yosef Challenge' prose describes.",
+      "chosen_heading": "Rav Yosef Challenge",
+      "current_heading": "Rav Yosef Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Challah Comparison",
+    "candidates": [
+      "Safeguard Doubling",
+      "Tosafot Safeguards",
+      "Table Safeguard Question",
+      "Challah Comparison",
+      "Student Objections",
+      "Cultural Kashrus Nuance",
+      "Rav Sheshet Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-2 introduce the challah proof that we do not issue a gezeirah ligezeirah, and items 3-4 are Abaye's rebuttal distinguishing the challah case \u2014 this entire sequence is the Gemara's adduction and then rejection of the challah comparison, which is precisely what heading 2 ('Table Safeguard Question') describes, while heading 3 ('Challah Comparison') covers only Abaye's response without the initial proof itself.",
+      "chosen_heading": "Table Safeguard Question",
+      "current_heading": "Challah Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rav Sheshet Challenge",
+    "candidates": [
+      "Student Objections",
+      "Cultural Kashrus Nuance",
+      "Rav Sheshet Challenge",
+      "Hot Pot Response",
+      "Kli Sheni Discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav Sheshet's objection that the scenario is cold-in-cold (tzon b'tzon), which is precisely what the 'Rav Sheshet Challenge' prose describes, making the current placement correct.",
+      "chosen_heading": "Rav Sheshet Challenge",
+      "current_heading": "Rav Sheshet Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Kli Sheni Discussion",
+    "candidates": [
+      "Hot Pot Response",
+      "Kli Sheni Discussion",
+      "Mishna Dispute Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's exchange about kli sheni not cooking and the decree regarding a primary vessel (kli rishon) being brought to the table, which is precisely what the 'Hot Pot Response' prose describes and analyzes.",
+      "chosen_heading": "Hot Pot Response",
+      "current_heading": "Kli Sheni Discussion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Mishna Dispute Rules",
+    "candidates": [
+      "Kli Sheni Discussion",
+      "Mishna Dispute Rules",
+      "Debate Indicates Rabbinic",
+      "Rabbi Yosi Comment",
+      "Table Type Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text covers both the Beit Shammai/Beit Hillel dispute and Rabbi Yosi's comment, and the 'Mishna Dispute Rules' prose explicitly introduces and paraphrases this exact mishna's content about birds and cheese on the table.",
+      "chosen_heading": "Mishna Dispute Rules",
+      "current_heading": "Mishna Dispute Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Table Type Distinction",
+    "candidates": [
+      "Debate Indicates Rabbinic",
+      "Rabbi Yosi Comment",
+      "Table Type Distinction",
+      "Table Type Clarification",
+      "Rashi Explanations",
+      "Extension Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishnah's distinction between the eating table and the preparation table, which is exactly what the 'Table Type Distinction' section's prose describes and quotes.",
+      "chosen_heading": "Table Type Distinction",
+      "current_heading": "Table Type Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Extension Framework",
+    "candidates": [
+      "Table Type Clarification",
+      "Rashi Explanations",
+      "Extension Framework",
+      "Igra Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yosei's view on bird-and-cheese, the baraita listing six leniencies of Beit Shammai/stringencies of Beit Hillel, and the identification of the first tanna as Rabbi Yosei \u2014 all of which directly follows and connects to the Igra baraita section's discussion of the rabbinic status of the bird-milk prohibition and its leniencies.",
+      "chosen_heading": "Igra Baraita",
+      "current_heading": "Extension Framework",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Igra Baraita",
+    "candidates": [
+      "Extension Framework",
+      "Igra Baraita",
+      "Rav Ashi Story",
+      "Daytime Visibility",
+      "Wipe vs Rinse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Igra's baraita about birds and cheese eaten without handwashing, the story of Rav Yitzchak eating cheese then meat without washing, and his daytime visibility defense \u2014 are currently placed under 'Igra Baraita', but the prose for candidates 1, 2, and 3 each individually match exactly one of the items; however, since the question asks for ONE heading for all three items together, and candidate 1 ('Igra Baraita') is where the passage currently sits and its prose discusses the Igra teaching that anchors all three items, while candidates 2 and 3 are separate headings that discuss the subsequent story and daytime reply respectively, the current placement is actually incorrect \u2014 but looking at the candidates, each item maps to its own heading (item 1\u2192candidate 1, item 2\u2192candidate 2, item 3\u2192candidate 3), which is a structural split situation; however these are all one continuous Talmudic discussion (challenge and response chain), so FORM 1 applies, and the best single heading is candidate 1 since Igra's baraita is the anchor teaching all items refer back to.",
+      "chosen_heading": "Igra Baraita",
+      "current_heading": "Igra Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Wipe vs Rinse",
+    "candidates": [
+      "Rav Ashi Story",
+      "Daytime Visibility",
+      "Wipe vs Rinse",
+      "Either/Or Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita presenting the Beit Shammai/Beit Hillel dispute over wiping vs. rinsing, which is precisely what the 'Wipe vs Rinse' section's prose introduces and discusses.",
+      "chosen_heading": "Wipe vs Rinse",
+      "current_heading": "Wipe vs Rinse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Either/Or Interpretation",
+    "candidates": [
+      "Either/Or Interpretation",
+      "Bread Requirements",
+      "Bread Qualifications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's sequential interpretations of the Beit Shammai/Beit Hillel dispute about wiping vs. rinsing \u2014 exactly the content described in candidate 0's prose, which explicitly covers all three stages: the either/or reading, the leniency/stringency objection, and the final resolution that they do not disagree.",
+      "chosen_heading": "Either/Or Interpretation",
+      "current_heading": "Either/Or Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Bread Qualifications",
+    "candidates": [
+      "Bread Requirements",
+      "Bread Qualifications",
+      "Practical Food Rules",
+      "Prohibitions So Far",
+      "Order Direction Note"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the continuous chain of qualifications to Rabbi Zeira's bread-wiping rule (wheat vs. barley, cold vs. warm, soft vs. hard, and the final halakhic conclusion), which is precisely what 'Bread Qualifications' prose describes.",
+      "chosen_heading": "Bread Qualifications",
+      "current_heading": "Bread Qualifications",
+      "moved": false
+    }
+  }
+]

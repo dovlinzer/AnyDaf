@@ -1,0 +1,266 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rav Huna's Ruling",
+    "candidates": [
+      "Money vs. Shtar",
+      "Legal Systems Conflict",
+      "Gemara Response",
+      "Rav Huna's Ruling",
+      "Rabbinic Agreement",
+      "Ukba's Teachings",
+      "Dina De-Malkhuta",
+      "40-Year Possession",
+      "Arissuta Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes exactly the ruling sent by Rav Huna bar Avin about a Jew purchasing a field from a gentile and another Jew seizing it, which is precisely what heading 3 'Rav Huna's Ruling' discusses, including the agreement of Rav Avin, Rav Ilai, and all the Rabbis (which heading 4 treats as a separate addendum but is part of the same transmitted message).",
+      "chosen_heading": "Rav Huna's Ruling",
+      "current_heading": "Rav Huna's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Arissuta Debate",
+    "candidates": [
+      "Rabbinic Agreement",
+      "Ukba's Teachings",
+      "Dina De-Malkhuta",
+      "40-Year Possession",
+      "Arissuta Debate",
+      "Override Chazaka",
+      "Tax Purchasers",
+      "Tax Distinction",
+      "Portable Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabba's introduction of the three teachings from Ukva bar Nehemya in the name of Shmuel, which is precisely what heading 1 'Ukba's Teachings' describes in its prose.",
+      "chosen_heading": "Ukba's Teachings",
+      "current_heading": "Arissuta Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Portable Items",
+    "candidates": [
+      "Override Chazaka",
+      "Tax Purchasers",
+      "Tax Distinction",
+      "Portable Items",
+      "Reasonableness",
+      "Lien Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage distinguishes between land tax (taska) and head tax (karga), explaining why the head tax rule differs because it rests on the person not the land \u2014 this is precisely the 'Tax Distinction' section's content, not the 'Portable Items' section which discusses Rav Papa's counterargument (the barley-in-pitcher point that appears at the end of this passage is actually the opening of that rebuttal, but the full passage including the karga/taska distinction belongs under 'Tax Distinction').",
+      "chosen_heading": "Tax Distinction",
+      "current_heading": "Portable Items",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Lien Problem",
+    "candidates": [
+      "Reasonableness",
+      "Lien Problem",
+      "Muchzak vs Ra'uy",
+      "Two Explanations",
+      "Property Tax Parallel",
+      "Tax Timing",
+      "Halacha Report"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's response to Ameimar's challenge \u2014 turning it back with the property-tax parallel and then resolving it with the 'paid and then died' answer \u2014 which is precisely what candidate 4 ('Property Tax Parallel') describes in its prose.",
+      "chosen_heading": "Property Tax Parallel",
+      "current_heading": "Lien Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Halacha Report",
+    "candidates": [
+      "Muchzak vs Ra'uy",
+      "Two Explanations",
+      "Property Tax Parallel",
+      "Tax Timing",
+      "Halacha Report",
+      "Gemara Skepticism",
+      "Town vs Collector"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi reporting Huna bar Natan's inquiry to Rava's scribes and their ruling that the halakha follows Rav Huna son of Rav Yehoshua, which matches exactly the 'Halacha Report' section's prose.",
+      "chosen_heading": "Halacha Report",
+      "current_heading": "Halacha Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Town vs Collector",
+    "candidates": [
+      "Gemara Skepticism",
+      "Town vs Collector",
+      "Divine Help",
+      "Rav Assi Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about the pardakht/pardachas (idler) being obligated to assist the town when the townspeople covered his tax share, which matches exactly the prose in 'Town vs Collector' (candidate 1), not the 'Divine Help' section which covers the andisekei/collector scenario separately.",
+      "chosen_heading": "Town vs Collector",
+      "current_heading": "Town vs Collector",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rav Assi Teaching",
+    "candidates": [
+      "Divine Help",
+      "Rav Assi Teaching",
+      "Mishna Division",
+      "Path Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Assi's teaching about boundary markers and chatzav dividing a ger's property and the question of pe'ah and tumah, which is precisely what the 'Rav Assi Teaching' prose section describes.",
+      "chosen_heading": "Rav Assi Teaching",
+      "current_heading": "Rav Assi Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Path Requirements",
+    "candidates": [
+      "Mishna Division",
+      "Path Requirements",
+      "Peah Example",
+      "Logic Difference",
+      "Eliezer Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishna listing the barriers that divide a field for pe'ah purposes (nachal, shulit, public road, private road, public trail, permanent private trail), which matches candidate 0's prose about exactly this Mishna and its list of dividers, whereas candidate 1 ('Path Requirements') focuses on the additional criterion for footpaths and the Yerushalmi's discussion \u2014 content that appears only in the tail of item 2's translation, not in the core quoted text.",
+      "chosen_heading": "Mishna Division",
+      "current_heading": "Path Requirements",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Eliezer Debate",
+    "candidates": [
+      "Peah Example",
+      "Logic Difference",
+      "Eliezer Debate",
+      "Rashbam & Tosfos",
+      "Rabin Update",
+      "Valley Scenario",
+      "One Obliviousness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly present the Mishna from Teharot and Rabbi Eliezer's distinction between safek bi'ah and safek maga, which is precisely what the 'Eliezer Debate' prose discusses in detail.",
+      "chosen_heading": "Eliezer Debate",
+      "current_heading": "Eliezer Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "One Obliviousness",
+    "candidates": [
+      "Rashbam & Tosfos",
+      "Rabin Update",
+      "Valley Scenario",
+      "One Obliviousness",
+      "Same Domain",
+      "Separating Domains",
+      "Carmelis Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "One Obliviousness",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rava's baraita about combining two half-measures within one lapse of awareness (be-helem achas), which matches heading 3 'One Obliviousness' exactly.",
+      "second_heading": "Same Domain",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Rabbi Yosei's additional condition about same versus different domains (reshut achas vs. shtei reshuyot), which matches heading 4 'Same Domain' exactly.",
+      "current_heading": "One Obliviousness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Carmelis Debate",
+    "candidates": [
+      "Same Domain",
+      "Separating Domains",
+      "Carmelis Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents all three opinions (Rabbah, Abaye, and Rava) together in one Talmudic unit, and the prose under 'Separating Domains' (index 1) already introduces Rabbah's position and the core question of what divides reshuyot, making it the natural home for the entire passage including Abaye's and Rava's responses.",
+      "chosen_heading": "Separating Domains",
+      "current_heading": "Carmelis Debate",
+      "moved": true
+    }
+  }
+]

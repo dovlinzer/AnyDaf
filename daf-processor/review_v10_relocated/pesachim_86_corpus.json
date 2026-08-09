@@ -1,0 +1,361 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Kedusha Concepts",
+    "candidates": [
+      "Intro: Doorways",
+      "Rambam: House Focus",
+      "Rooftops Unsanctified",
+      "Kedusha Concepts",
+      "Hallel Rooftop Image"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav's statement that rooftops and upper stories were not sanctified and the immediate Gemara challenge to it, which is precisely what the 'Rooftops Unsanctified' section's prose describes.",
+      "chosen_heading": "Rooftops Unsanctified",
+      "current_heading": "Kedusha Concepts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Hallel Rooftop Image",
+    "candidates": [
+      "Kedusha Concepts",
+      "Hallel Rooftop Image",
+      "Afikoman & Groups"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly continues the Hallel rooftop discussion \u2014 questioning whether they ate and said Hallel on the roof, then rejecting that reading \u2014 which is precisely what the 'Hallel Rooftop Image' prose describes.",
+      "chosen_heading": "Hallel Rooftop Image",
+      "current_heading": "Hallel Rooftop Image",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Afikoman & Groups",
+    "candidates": [
+      "Afikoman & Groups",
+      "Post-Meal Movement",
+      "Upper Chamber Kedusha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the mishna about afikoman, Rav's explanation about not uprooting from one group to another, and the gemara's resolution \u2014 all of which are the core content described in the 'Afikoman & Groups' prose section, which explicitly poses the question of how people could move to the rooftop given this ruling.",
+      "chosen_heading": "Afikoman & Groups",
+      "current_heading": "Afikoman & Groups",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Upper Chamber Kedusha",
+    "candidates": [
+      "Post-Meal Movement",
+      "Upper Chamber Kedusha",
+      "Access Defines Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Abba Shaul about the upper story of the Holy of Holies being more stringent, which is exactly what candidate 1's prose discusses in detail.",
+      "chosen_heading": "Upper Chamber Kedusha",
+      "current_heading": "Upper Chamber Kedusha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Access Defines Status",
+    "candidates": [
+      "Access Defines Status",
+      "Tunnels & Kedusha",
+      "Measuring Sticks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of objections and resolutions about the sanctity of rooftops and chambers in the Temple, exactly matching the 'Access Defines Status' prose which covers Rav Yosef's Heichal objection, the lishkot mishna, Rav Chisda's interpretation, the seifa challenge, Rabbi Yochanan's tunnel ruling, and Rabbi Yehuda's baraita \u2014 all of which appear in items 1\u20135.",
+      "chosen_heading": "Access Defines Status",
+      "current_heading": "Access Defines Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Measuring Sticks",
+    "candidates": [
+      "Tunnels & Kedusha",
+      "Measuring Sticks",
+      "Windows & Ground Level"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the rooftop kedusha question and the two measuring sticks (amot) stored in Shushan ha-Bira, which is precisely what the 'Measuring Sticks' prose section describes in detail.",
+      "chosen_heading": "Measuring Sticks",
+      "current_heading": "Measuring Sticks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Windows & Ground Level",
+    "candidates": [
+      "Windows & Ground Level",
+      "Secondary Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's question about how windows and wall thickness can be level with the ground, which is precisely what the 'Windows & Ground Level' section prose describes \u2014 the challenge regarding ovi ha-choma comes at the end of that section, before the answer about a secondary wall is given in the next section.",
+      "chosen_heading": "Windows & Ground Level",
+      "current_heading": "Windows & Ground Level",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Secondary Walls",
+    "candidates": [
+      "Secondary Walls",
+      "Two Groups Separated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the low wall (var shura) and the verse from Lamentations interpreted as 'a wall and a low wall,' which is precisely what the 'Secondary Walls' section prose discusses.",
+      "chosen_heading": "Secondary Walls",
+      "current_heading": "Secondary Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Two Groups Separated",
+    "candidates": [
+      "Two Groups Separated",
+      "Baraita: Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself about two groups eating in one house, turning faces, the boiler, the attendant, and the bride \u2014 exactly what the prose under 'Two Groups Separated' discusses in detail.",
+      "chosen_heading": "Two Groups Separated",
+      "current_heading": "Two Groups Separated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Baraita: Division",
+    "candidates": [
+      "Baraita: Division",
+      "Attendant Scenario",
+      "Rabbi Yehuda: One Place",
+      "Rabbi Shimon: Multiple",
+      "Debate Resolution",
+      "Partition Setup",
+      "Partition Removed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Baraita: Division",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the gemara's identification of the mishna as Rabbi Yehuda's view and the baraita's attendant scenario, matching exactly the 'Baraita: Division' and 'Attendant Scenario' prose \u2014 but since items 1-2 together span two headings, the split is between item 2 (attendant scenario, heading 1) and item 3 onward.",
+      "second_heading": "Rabbi Shimon: Multiple",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 cover Rabbi Shimon's opposing interpretation and the gemara's resolution via yesh em la-masoret/mikra, matching the 'Rabbi Shimon: Multiple' and 'Debate Resolution' sections \u2014 item 3 begins Rabbi Shimon's independent position, a clear structural seam from the attendant discussion.",
+      "current_heading": "Baraita: Division",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Partition Removed",
+    "candidates": [
+      "Attendant Scenario",
+      "Rabbi Yehuda: One Place",
+      "Rabbi Shimon: Multiple",
+      "Debate Resolution",
+      "Partition Setup",
+      "Partition Removed",
+      "Rav Ashi Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items describe the partition scenarios (erected then removed) that are explicitly discussed in the 'Partition Removed' section's prose, which covers both the mechitza-erected case (item 1) and the mechitza-removed case (item 2) as a paired set of scenarios.",
+      "chosen_heading": "Partition Removed",
+      "current_heading": "Partition Removed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Rav Ashi Challenge",
+    "candidates": [
+      "Rav Ashi Challenge",
+      "Bride's Modesty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Ashi challenging Rav Kahana's presentation of the partition cases as settled rulings and posing them as open questions, ending in teiku \u2014 exactly what the 'Rav Ashi Challenge' prose section describes.",
+      "chosen_heading": "Rav Ashi Challenge",
+      "current_heading": "Rav Ashi Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Bride's Modesty",
+    "candidates": [
+      "Bride's Modesty",
+      "Rav Huna Visit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the bride turns her face (embarrassment), which directly corresponds to the 'Bride's Modesty' section's prose discussing Rabbi Chiya bar Abba's explanation in the name of Rabbi Yochanan.",
+      "chosen_heading": "Bride's Modesty",
+      "current_heading": "Bride's Modesty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Rav Huna Visit",
+    "candidates": [
+      "Rav Huna Visit",
+      "Couch Protocol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Huna's arrival, introduction of his name, and initial behaviors at the house, which matches the 'Rav Huna Visit' prose that frames the visit and the series of social missteps, before the 'Couch Protocol' section discusses the justifications given.",
+      "chosen_heading": "Rav Huna Visit",
+      "current_heading": "Rav Huna Visit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Couch Protocol",
+    "candidates": [
+      "Couch Protocol",
+      "Wine Acceptance",
+      "Drinking Etiquette"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Huna's explanation for sitting on the bed (puraya) and the principle of following the ba'al ha-bayit's instructions except for 'leave,' which is precisely what the 'Couch Protocol' section's prose addresses.",
+      "chosen_heading": "Couch Protocol",
+      "current_heading": "Couch Protocol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Drinking Etiquette",
+    "candidates": [
+      "Wine Acceptance",
+      "Drinking Etiquette",
+      "Face Turning",
+      "Yishmael Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three questions (accepting the cup, drinking in two sips, not turning face) as a single continuous exchange, and candidate 0 ('Wine Acceptance') is where this unified passage begins \u2014 however, since the passage spans all three topics (acceptance, drinking etiquette, face turning), and the current placement is under 'Drinking Etiquette' which covers only the middle portion, the best single heading that introduces the whole sequence is candidate 0, where the first question about accepting the cup is discussed.",
+      "chosen_heading": "Wine Acceptance",
+      "current_heading": "Drinking Etiquette",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Yishmael Exception",
+    "candidates": [
+      "Face Turning",
+      "Yishmael Exception",
+      "Servant Protocol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yishmael drinking a cup of wine in one gulp and justifying it with three reasons (small cup, sweet wine, large stomach), which is exactly what the 'Yishmael Exception' prose discusses.",
+      "chosen_heading": "Yishmael Exception",
+      "current_heading": "Yishmael Exception",
+      "moved": false
+    }
+  }
+]

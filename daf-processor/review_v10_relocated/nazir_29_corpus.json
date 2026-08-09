@@ -1,0 +1,275 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Age Limits Debate",
+    "candidates": [
+      "Age Limits Debate",
+      "Rabbi's Halacha View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the Tannaitic dispute about the age limit for a father to impose naziriteship on his son, which corresponds directly to the 'Age Limits Debate' section's prose about the Gemara suggesting the Amoraic debate may be rooted in an earlier Tannaitic dispute and introducing the baraita with 'until what age can a father make his son a nazir.'",
+      "chosen_heading": "Age Limits Debate",
+      "current_heading": "Age Limits Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rabbi's Halacha View",
+    "candidates": [
+      "Rabbi's Halacha View",
+      "R. Yose Chinuch View",
+      "Gemara Reconciliation",
+      "Halacha Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question 'is this not a dispute between tannaim?' and maps Rabbi's position to halacha and Rabbi Yose b'Rabbi Yehuda's position to chinuch \u2014 exactly the content described in the 'Gemara Reconciliation' prose, which discusses how the Tannaitic debate maps onto the Amoraic one before exploring two distinct approaches.",
+      "chosen_heading": "Gemara Reconciliation",
+      "current_heading": "Rabbi's Halacha View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Halacha Approach",
+    "candidates": [
+      "R. Yose Chinuch View",
+      "Gemara Reconciliation",
+      "Halacha Approach",
+      "Halacha L'Moshe Status",
+      "Chinuch Approach",
+      "Chanina Story Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together present the Gemara's two approaches to reconciling the Tannaitic dispute \u2014 first the 'halacha' approach (items 1-2) and then the 'chinuch' approach (items 3-4) \u2014 which is precisely what the 'Halacha Approach' prose section describes as its content, covering both Rabbi's and Rabbi Yose b'Rabbi Yehuda's positions within that framework.",
+      "chosen_heading": "Halacha Approach",
+      "current_heading": "Halacha Approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Chanina Story Setup",
+    "candidates": [
+      "Halacha L'Moshe Status",
+      "Chinuch Approach",
+      "Chanina Story Setup",
+      "Chanina's Response",
+      "Gamliel's Praise",
+      "Middle Adulthood Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Chanina Story Setup",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita narrative itself \u2014 the story of Rabbi Chanina being brought before Rabban Gamliel, the examination, his response, and Gamliel's praise \u2014 which matches the 'Chanina Story Setup' and 'Chanina's Response'/'Gamliel's Praise' sections, but since items 1-2 cover both the setup and the response/praise together, and the current placement prose for heading 2 describes exactly this baraita content including Gamliel's examination and Chanina's response, they fit best under heading 2.",
+      "second_heading": "Middle Adulthood Problem",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 contain the Gemara's analytical challenge \u2014 examining how Chanina's statement works according to Rabbi Yose b'Rabbi Yehuda vs. Rabbi, and the problem of middle-adulthood \u2014 which matches heading 5 ('Middle Adulthood Problem') whose prose explicitly discusses this same Gemara reasoning about the three scenarios and the challenge to Rabbi's position.",
+      "current_heading": "Chanina Story Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Middle Adulthood Problem",
+    "candidates": [
+      "Chanina's Response",
+      "Gamliel's Praise",
+      "Middle Adulthood Problem",
+      "Adult Status Interrupts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly asks about the three timing scenarios (before, after, or in the middle) of developing two hairs relative to the father's nezirut vow, which is precisely the 'Middle Adulthood Problem' scenario discussed in that section's prose.",
+      "chosen_heading": "Middle Adulthood Problem",
+      "current_heading": "Middle Adulthood Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Adult Status Interrupts",
+    "candidates": [
+      "Adult Status Interrupts",
+      "Dual Acceptance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically discusses Rabbi Yosei son of Rabbi Yehuda's opinion that the threshold is onat nedarim (not full adulthood), which directly supports the 'Adult Status Interrupts' section's analysis of the asymmetry between onat nedarim and full adulthood and why reaching onat nedarim mid-nezirut does not terminate the father's imposition.",
+      "chosen_heading": "Adult Status Interrupts",
+      "current_heading": "Adult Status Interrupts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Dual Acceptance",
+    "candidates": [
+      "Dual Acceptance",
+      "Mishnah Rule",
+      "After Death Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yehuda HaNasi's position on when paternal nezirut terminates (at shtei se'arot) and the resulting rectification requiring the son to sit for both terms, which directly corresponds to the 'Dual Acceptance' prose's closing discussion about Rabbi's view that shtei se'arot structurally terminates the father's nezirut and the automatic legal effect of reaching adulthood.",
+      "chosen_heading": "Dual Acceptance",
+      "current_heading": "Dual Acceptance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "After Death Case",
+    "candidates": [
+      "Mishnah Rule",
+      "After Death Case",
+      "Simultaneous Nazirs",
+      "Halacha Reason",
+      "Son-Only Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full Mishnah text \u2014 the opening rule (item 1) and Rabbi Yosei's clarification of who qualifies (item 2) \u2014 which matches heading 0 ('Mishnah Rule'), whose prose explicitly introduces this mishnah and quotes the rule ha'ish megalei'ach al nezirut aviv.",
+      "chosen_heading": "Mishnah Rule",
+      "current_heading": "After Death Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Son-Only Rule",
+    "candidates": [
+      "Simultaneous Nazirs",
+      "Halacha Reason",
+      "Son-Only Rule",
+      "Baraita Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items address the Gemara's question of why only a son and not a daughter may use the father's nazir funds, including the case of a sole-daughter heir and Rabbi Yochanan's answer that it is a halacha specific to sons \u2014 exactly what the 'Son-Only Rule' prose describes.",
+      "chosen_heading": "Son-Only Rule",
+      "current_heading": "Son-Only Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Baraita Positions",
+    "candidates": [
+      "Baraita Positions",
+      "Rava's Splitting",
+      "Yerusha Connection",
+      "Bechor Double Share",
+      "Chulin vs Hekdesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the baraita that the Gemara introduces to resolve whether the Rabbis dispute Rabbi Yosei and on which clause, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Baraita Positions",
+      "current_heading": "Baraita Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Chulin vs Hekdesh",
+    "candidates": [
+      "Rava's Splitting",
+      "Yerusha Connection",
+      "Bechor Double Share",
+      "Chulin vs Hekdesh",
+      "Bechor Inapplicable",
+      "Different Nazir Types"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Splitting",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabba's dilemma about two nazirite sons (first come first served vs. equal split) and Rava's follow-up about bechor vs. pashut (double portion or not), which match candidates 0-2 about the splitting and bechor double share questions.",
+      "second_heading": "Chulin vs Hekdesh",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the chulin vs. hekdesh refinement \u2014 asking whether the bechor's double portion applies only to non-sacred property \u2014 which is precisely what candidate 3 ('Chulin vs Hekdesh') discusses.",
+      "current_heading": "Chulin vs Hekdesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Different Nazir Types",
+    "candidates": [
+      "Bechor Inapplicable",
+      "Different Nazir Types",
+      "Tamei-Tahor Funds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks about the case where father and son are different types of nazirites (nazir olam vs. nazir stam), which is precisely what the 'Different Nazir Types' section's prose describes.",
+      "chosen_heading": "Different Nazir Types",
+      "current_heading": "Different Nazir Types",
+      "moved": false
+    }
+  }
+]

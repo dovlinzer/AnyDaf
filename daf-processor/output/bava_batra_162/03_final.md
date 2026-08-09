@@ -1,30 +1,32 @@
-# Bava Batra 162 — Daf Yomi Shiur
 [DAF:161b]
-
 ## Two Blank Lines
 
-[DAF:162a]
+
+
 ### Blank Lines Rule
 
-> **Hebrew/Aramaic:** אָמַר רַב עַמְרָם: לְפִי שֶׁאֵין לְמֵדִין מִשִּׁיטָה אַחֲרוֹנָה.
->
-> **Translation:** **Rav Amram says:** It is **because** one **may not learn** any new details **from** the **final line** of a document. There is a concern that the holder of the document may have written in an extra line of text to his advantage, between the text and the witnesses' signatures. Therefore, any new information contained in the last line is disregarded. Since the final line is disregarded, it is necessary that the final line of a document contain only a review of what is already written in it.
+
 
 The *daf* opens on 162b with the established principle that a *shtar* is invalidated when two blank lines appear between the body of the document and the signatures of the witnesses. The concern is straightforward: people naturally leave some space when they sign, writing, say, *Yaakov ben Yitzchak*, *eid*, a bit below the last line of text. That gap creates an opportunity for a forger to insert an additional line of content. The first principle invoked is *ayn lamedin mishitah achronah* — we do not derive the terms of the document from the last line — meaning that even if a forged line were inserted just above the witnesses, it could be argued that we would simply disregard that last line. But if there are two blank lines, a forger could insert two lines of text, and we would then learn from the *second*-to-last line, which would not be covered by that principle. Hence the document becomes *pasul*.
 
 ### Ayn Lamedin
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב נַחְמָן לְרַב עַמְרָם: מְנָא לָךְ הָא? אֲמַר לֵיהּ, דְּתַנְיָא: הִרְחִיק אֶת הָעֵדִים שְׁנֵי שִׁיטִין מִן הַכְּתָב – פָּסוּל, שִׁיטָה אַחַת – כָּשֵׁר.
->
-> **Translation:** **Rav Naḥman said to Rav Amram: From where do you** know **this?** Rav Amram **said to him: As it is taught** in a *baraita* (*Tosefta* 11:1): If one writing a document **distanced the witnesses'** signatures **two lines from the text** of the document, leaving two lines blank, the document is **not valid,** as it would be possible for the holder of the document to fill in false information in those lines. But if one distanced the signatures **one line** from the text, the document is **valid.**
-
 The principle of *ayn lamedin mishitah achronah* is thus the background assumption against which the entire discussion of blank lines must be understood. It protects against a single line of forgery, but it cannot protect against two, since we would then be forced to reckon with what appears above the last line.
 
+[DAF:162b]
 ### Line and Half
 
-> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: שִׁיטָה וּמֶחֱצָה, מַאי? תָּא שְׁמַע: הִרְחִיק אֶת הָעֵדִים שְׁנֵי שִׁיטִין – פָּסוּל. הָא שִׁיטָה וּמֶחֱצָה – כָּשֵׁר.
->
-> **Translation:** **A dilemma was raised before** the Sages: If the space of **a line and a half** is left blank, **what** is the *halakha*? The Gemara seeks a solution to the dilemma. **Come** and **hear** what was stated in the *baraita* cited earlier: If one writing a document **distanced the witnesses'** signatures **two lines** from the text of the document, leaving two lines blank, the document is **not valid.** One can infer: **But** if there is a gap of only **a line and a half,** the document is **valid.**
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב נַחְמָן לְרַב עַמְרָם: מְנָא לָךְ הָא? אֲמַר לֵיהּ, דְּתַנְיָא: הִרְחִיק אֶת הָעֵדִים שְׁנֵי שִׁיטִין מִן הַכְּתָב – פָּסוּל, שִׁיטָה אַחַת – כָּשֵׁר.
+> **Translation:** **Rav Naḥman said to Rav Amram: From where do you** know **this?** Rav Amram **said to him: As it is taught** in a *baraita* (*Tosefta* 11:1): If one writing a document **distanced the witnesses’** signatures **two lines from the text** of the document, leaving two lines blank, the document is **not valid,** as it would be possible for the holder of the document to fill in false information in those lines. But if one distanced the signatures **one line** from the text, the document is **valid.**
+
+> **Hebrew/Aramaic:** מַאי שְׁנָא שְׁנֵי שִׁיטִין – דִּלְמָא מְזַיֵּיף וְכָתֵב; שִׁיטָה אַחַת נָמֵי, מְזַיֵּיף וְכָתַב! אֶלָּא לָאו שְׁמַע מִינַּהּ אֵין לְמֵדִין מִשִּׁיטָה אַחֲרוֹנָה? שְׁמַע מִינַּהּ.
+> **Translation:** Rav Amram analyzes the *baraita*: **What is different** in the case of **two** blank **lines** that the document is not valid? If you say that **perhaps** the holder of the document will take advantage of those two blank lines, and **forge** unverified information **and write** it in those lines, then in the case of **one line** left blank **as well,** he can **forge** information **and write** it in that line. **Rather,** must one **not conclude from** the *baraita* that one **may not learn** any new details **from** the **final line** of a document? Therefore, only when two lines are left blank is there a concern that false information would be added to the penultimate line. The Gemara affirms: **Conclude from** this *baraita* that it is so.
+
+> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: שִׁיטָה וּמֶחֱצָה, מַאי? תָּא שְׁמַע: הִרְחִיק אֶת הָעֵדִים שְׁנֵי שִׁיטִין – פָּסוּל. הָא שִׁיטָה וּמֶחֱצָה – כָּשֵׁר.
+> **Translation:** **A dilemma was raised before** the Sages: If the space of **a line and a half** is left blank, **what** is the *halakha*? The Gemara seeks a solution to the dilemma. **Come** and **hear** what was stated in the *baraita* cited earlier: If one writing a document **distanced the witnesses’** signatures **two lines** from the text of the document, leaving two lines blank, the document is **not valid.** One can infer: **But** if there is a gap of only **a line and a half,** the document is **valid.**
+
+> **Hebrew/Aramaic:** אֵימָא סֵיפָא: שִׁיטָה אַחַת – כָּשֵׁר. שִׁיטָה אַחַת הוּא דְּכָשֵׁר, הָא שִׁיטָה וּמֶחֱצָה – פָּסוּל! אֶלָּא מֵהָא לֵיכָּא לְמִשְׁמַע מִינַּהּ.
+> **Translation:** The Gemara deflects this proof: **Say the last clause** of the *baraita*: If one writing a document distanced the witnesses’ signatures **one line** from the text of the document, the document is **valid.** One can infer: It is only when there is a gap of **one line that** the document **is valid, but** if there is a gap of **a line and a half** it is **not valid.** The Gemara states: **Rather, no** inference is **to be learned from this** *baraita*.
 
 The *Gemara* raises the intermediate case: what about a space of a line and a half? The question is whether that much space is sufficient to enable a damaging forgery. If it is, the *shtar* should be *pasul*; if not, it should remain *kasher*.
 
@@ -32,12 +34,10 @@ The *Gemara* raises the intermediate case: what about a space of a line and a ha
 
 *Tosafot* entertains a possible reading in which "a line and a half" refers to the height — that is, 1.5 times the normal line height. *Tosafot* initially considers whether this might mean that the *eidim* signed at a certain point, leaving a space of roughly one and a half lines in which something could be inserted. *Tosafot* then rejects this, noting that in such a case we would simply presume that neither the line above the *eidim* nor the line alongside them would be learned from. The more straightforward reading of "a line and a half" is that it refers to the vertical height of a line-and-a-half's worth of space — the question being whether a forger can squeeze two small lines into that height, or whether any attempt to do so would be obvious.
 
-[DAF:162b]
 ### Braita Evidence
 
-> **Hebrew/Aramaic:** מַאי הָוֵי עֲלַהּ? תָּא שְׁמַע, דְּתַנְיָא: הִרְחִיק אֶת הָעֵדִים שְׁנֵי שִׁיטִין מִן הַכְּתָב – פָּסוּל. פָּחוֹת מִכָּאן – כָּשֵׁר.
->
-> **Translation:** **What** halakhic conclusion **was** reached **about** this matter? **Come** and **hear** a proof from a different source, **as it is taught** in a *baraita* (*Tosefta* 11:10): If one writing a document **distanced the witnesses'** signatures **two lines from the text** of the document, the document is **not valid,** but if the gap is **less than that,** it is **valid.** It is clear from the *baraita* that any gap less than two full lines does not invalidate the document.
+> **Hebrew/Aramaic:** מַאי הָוֵי עֲלַהּ? תָּא שְׁמַע, דְּתַנְיָא: הִרְחִיק אֶת הָעֵדִים שְׁנֵי שִׁיטִין מִן הַכְּתָב – פָּסוּל. פָּחוֹת מִכָּאן – כָּשֵׁר.
+> **Translation:** **What** halakhic conclusion **was** reached **about** this matter? **Come** and **hear** a proof from a different source, **as it is taught** in a *baraita* (*Tosefta* 11:10): If one writing a document **distanced the witnesses’** signatures **two lines from the text** of the document, the document is **not valid,** but if the gap is **less than that,** it is **valid.** It is clear from the *baraita* that any gap less than two full lines does not invalidate the document.
 
 The *Gemara* brings a *braitah* to resolve the matter: *hirchik et haeidim shtei shitim min haksav pasul* — if the witnesses are placed two lines away from the text, the *shtar* is *pasul*. Critically, the *braitah* does not introduce an intermediate figure; it simply states *pachot mikan*, anything less than two lines. This is far cleaner than the earlier formulation, which introduced the ambiguous case of a line and a half.
 
@@ -49,29 +49,28 @@ The conclusion is therefore that anything less than two lines of distance is *ka
 
 ## Multiple Witnesses
 
+
+
 ### Multiple Witnesses Case
 
-> **Hebrew/Aramaic:** הָיוּ אַרְבָּעָה וַחֲמִשָּׁה עֵדִים חֲתוּמִין עַל הַשְּׁטָר, וְנִמְצָא אֶחָד מֵהֶן קָרוֹב אוֹ פָּסוּל – תִּתְקַיֵּים עֵדוּת בַּשְּׁאָר.
->
+> **Hebrew/Aramaic:** הָיוּ אַרְבָּעָה וַחֲמִשָּׁה עֵדִים חֲתוּמִין עַל הַשְּׁטָר, וְנִמְצָא אֶחָד מֵהֶן קָרוֹב אוֹ פָּסוּל – תִּתְקַיֵּים עֵדוּת בַּשְּׁאָר.
 > **Translation:** The *baraita* continues: If **there were four or five witnesses signed on the document, and one of them was found** to be **a relative** of one of the parties in the document, **or** one of them was found to be otherwise **disqualified** from bearing witness, the **testimony** on the document may be **established via the other** witnesses.
 
 The *Gemara* next presents a distinct but related *halachah*: if four or five witnesses signed a *shtar* and one of them is found to be either a *karov* (a relative of one of the parties) or otherwise *pasul*, the testimony of the remaining valid witnesses stands — *titkayem eidut bashear*. This ruling is introduced here in close connection with the preceding discussion of blank lines, and *Tosafot* argues that it reads most naturally as a continuation of that discussion rather than a fully independent statement.
 
 ### Chizkiyah Ruling
 
-> **Hebrew/Aramaic:** מְסַיַּיע לֵיהּ לְחִזְקִיָּה, דְּאָמַר חִזְקִיָּה: מִלְּאָהוּ בִּקְרוֹבִים – כָּשֵׁר.
->
+> **Hebrew/Aramaic:** מְסַיַּיע לֵיהּ לְחִזְקִיָּה, דְּאָמַר חִזְקִיָּה: מִלְּאָהוּ בִּקְרוֹבִים – כָּשֵׁר.
 > **Translation:** The Gemara draws a further conclusion from this *baraita*: This **supports** the opinion of **Ḥizkiyya, as Ḥizkiyya says:** If one **filled in** the gap between the document and the signatures **with** signatures of **relatives,** the document is **valid.**
 
 The connection to the blank lines discussion becomes clear through the statement attributed to *Chizkiyah*: *miluo bikrovim kasher* — if one filled the white space in a *shtar* with *krovim*, the document is *kasher*. The principle is that when the document has been placed too far from the signatures, the problematic white space can be filled in with additional signatories, even if those signatories are *pasul*, and the *shtar* remains valid.
 
 ### Sukkah Analogy
 
-> **Hebrew/Aramaic:** וְאַל תִּתְמַהּ, שֶׁהֲרֵי אֲוִיר סוּכָּה פּוֹסֵל בִּשְׁלֹשָׁה, סְכָךְ פָּסוּל פּוֹסֵל בְּאַרְבָּעָה.
->
-> **Translation:** Ḥizkiyya continued: **And do not be surprised** by this, **as** a similar situation is found with regard to the roofing of a *sukka*. Empty **space** in the roofing **of a *sukka* disqualifies** the *sukka* if the space extends for **three** handbreadths, whereas materials that are **unfit** to be used as **roofing disqualify** the *sukka* only if the unfit material extends for **four** handbreadths. If a *sukka* had a gap in its roofing of three handbreadths it is disqualified, but if the gap is filled in with unfit material the *sukka* is valid, since it is less than four handbreadths. This is comparable to the situation with a document: If there is a significant gap between the text and the signatures the document is not valid, but if the gap is filled in with signatures of those disqualified from bearing witness it is valid.
-
 The *Gemara* supports this with an analogy to *sukkah*: *avir sukkah pasul bisheloshah, schach pasul posel b'arba'ah* — a gap of air in the *sechach* of a *sukkah* invalidates it at three *tefachim*, whereas invalid *sechach* only creates a problem at four *tefachim*. The initial reaction to *Chizkiyah*'s ruling is naturally one of surprise: how can filling a *pasul* space with something itself *pasul* make the *shtar* more *kasher*? The *sukkah* analogy is invoked to show that such a result is not without precedent.
+
+> **Hebrew/Aramaic:** וְאַל תִּתְמַהּ, שֶׁהֲרֵי אֲוִיר סוּכָּה פּוֹסֵל בִּשְׁלֹשָׁה, סְכָךְ פָּסוּל פּוֹסֵל בְּאַרְבָּעָה.
+> **Translation:** Ḥizkiyya continued: **And do not be surprised** by this, **as** a similar situation is found with regard to the roofing of a *sukka*. Empty **space** in the roofing **of a *sukka* disqualifies** the *sukka* if the space extends for **three** handbreadths, whereas materials that are **unfit** to be used as **roofing disqualify** the *sukka* only if the unfit material extends for **four** handbreadths. If a *sukka* had a gap in its roofing of three handbreadths it is disqualified, but if the gap is filled in with unfit material the *sukka* is valid, since it is less than four handbreadths. This is comparable to the situation with a document: If there is a significant gap between the text and the signatures the document is not valid, but if the gap is filled in with signatures of those disqualified from bearing witness it is valid.
 
 ### Sukkah Details
 
@@ -101,9 +100,12 @@ The argument becomes more subtle when one considers that signing a *shtar* is, o
 
 ### Witness Position
 
+
 *Tosafot* raises a further question about the physical placement of the *pasul eidim* on the document. If we are to set aside the invalid signatures, which ones do we set aside? Consider a document in which the *kasher* witnesses signed above and the *pasul* witnesses signed below — or vice versa. Intuitively, one might think that the signatures closest to the body of the document are the more significant ones, as they directly address the question of whether the white space between the text and the signatures is impermissibly large. Those below, farther from the text, might seem more like afterthoughts. On the other hand, one could argue the opposite: the signatures below are closer to the *beit din*'s *kiyum hashtar*, which is appended at the bottom, and are thus more connected to the validation apparatus.
 
-From the *sukkah* analogy, it would seem that the signatures filling the white space closer to the document are the ones doing the critical work of preventing forgery. Even if those are *pasul*, they are *kasher* by *Chizkiyah*'s ruling, since without them the *shtar* would have been *pasul* due to the white space. And if even those are acceptable, then certainly the *pasul* ones at the bottom, which are not filling the critical zone, would be acceptable.
+There is also a consideration running in the other direction: signatures appearing at the very top of the witness list might be easier to dismiss precisely because one could say they were added in to deal with the white space — they feel supplementary rather than essential. The bottom signatures, by contrast, sit closer to the zone that determines the *kashrus* of the *shtar* itself, and in that sense carry more weight. Neither position yields an obvious answer, and *Tosafot* does not resolve the question cleanly.
+
+From the *sukkah* analogy, it would seem that the signatures filling the white space closer to the document are the ones doing the critical work of preventing forgery. Even if those are *pasul*, they are *kasher* by *Chizkiyah*'s ruling, since without them the *shtar* would have been *pasul* due to the white space. And if even those are acceptable, then certainly the *pasul* ones at the bottom, which are not filling the critical zone, would be acceptable. *Tosafot*'s majority position, however, moves beyond any analysis tied to physical position: the original formulation of *hayu arba v'chamisha v'nimtza echad karov o pasul* — there were four or five and one was found to be a relative or otherwise invalid — does not appear to condition its ruling on where the *pasul* witness signed. Even a document arranged *kasher*, *pasul*, *kasher*, with no two valid witnesses adjacent, would seem to fall under the same principle. The placement question remains genuinely open within *Tosafot*, as does a second question — taken up in the following section — about whether *Chizkiyah*'s ruling applies equally to a *karov* and to a *pasul* in the broader sense.
 
 ### Karov Pasul
 
@@ -112,6 +114,8 @@ From the *sukkah* analogy, it would seem that the signatures filling the white s
 ---
 
 ## Women Ketubah
+
+
 
 ### Rama Practice
 
@@ -135,11 +139,15 @@ In light of this analysis, a practical recommendation emerges for those who wish
 
 ## Two Lines Measurement
 
+
+
 ### With/Without Space
 
-> **Hebrew/Aramaic:** שְׁנֵי שִׁיטִין שֶׁאָמְרוּ – הֵן וַאֲוִירָן, אוֹ דִלְמָא הֵן וְלֹא אֲוִירָן?
->
-> **Translation:** § With regard to the gap of **two** blank **lines** between the text and the signatures, **which** the Sages **said** invalidates the document, does this refer to the size of lines **with the space** between lines added? **Or** is it **perhaps** referring to lines of writing themselves, **without their spaces?**
+> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: שְׁנֵי שִׁיטִין שֶׁאָמְרוּ –
+> **Translation:** § **A dilemma was raised before** the Sages: With regard to the gap of **two** blank **lines** between the text and the signatures, **which** the Sages **said** invalidates the document,
+
+> **Hebrew/Aramaic:** הֵן וַאֲוִירָן, אוֹ דִלְמָא הֵן וְלֹא אֲוִירָן?
+> **Translation:** does this refer to the size of lines **with the space** between lines added? **Or** is it **perhaps** referring to lines of writing themselves, **without their spaces?**
 
 After the preceding discussions, the *Gemara* returns to the technical measurement of what constitutes "two lines" of space, and poses a careful question: *shnei shitin she'amru hen v'aviram o dilma hen v'lo aviram* — when the *halachah* says that two lines of distance renders the *shtar pasul*, does that measure include the normal intervening space between lines, or does it refer only to the height of the text itself, without that space?
 
@@ -149,21 +157,20 @@ The practical difference is significant. If two full "natural" lines including t
 
 ### Nachman Ruling
 
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן בַּר יִצְחָק: מִסְתַּבְּרָא דְּהֵן וַאֲוִירָן, דְּאִי סָלְקָא דַּעְתָּךְ הֵן וְלֹא אֲוִירָן – שִׁיטָה אַחַת בְּלֹא אֲוִירָהּ, לְמַאי חַזְיָא? אֶלָּא שְׁמַע מִינַּהּ – הֵן וַאֲוִירָן! שְׁמַע מִינַּהּ.
->
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן בַּר יִצְחָק: מִסְתַּבְּרָא דְּהֵן וַאֲוִירָן, דְּאִי סָלְקָא דַּעְתָּךְ הֵן וְלֹא אֲוִירָן – שִׁיטָה אַחַת בְּלֹא אֲוִירָהּ, לְמַאי חַזְיָא? אֶלָּא שְׁמַע מִינַּהּ – הֵן וַאֲוִירָן! שְׁמַע מִינַּהּ.
 > **Translation:** **Rav Naḥman bar Yitzḥak said:** It **stands to reason that** it is referring to the lines **with their spaces. As, if** it were to **enter your mind** that it is referring to the lines **without their spaces, for what is one line without its space fit?** The *baraita* did not have to state that a document with a single blank line after the text, measured without counting spaces, is not forgeable; this is obvious. **Rather,** one may **conclude from** this claim that the reference is to two lines **with their spaces.** The Gemara affirms: **Conclude from** this claim that it is so.
 
 *Rav Nachman bar Yitzchak* resolves the question: *nistavera d'hen v'aviram* — it stands to reason that the measure is the lines with their intervening space. His reasoning is elegant: if we were to say the measure excludes the spacing, then a single line of text without any following space would itself be a meaningful measure — but a line without any spacing after it is not a natural or functional unit of writing. The measure must therefore reflect actual writing practice, meaning the full height of a line as it would normally appear, including its spacing.
 
 ### Scribe Script
 
-> **Hebrew/Aramaic:** רַבִּי שַׁבְּתַי אָמַר מִשְּׁמֵיהּ דְּחִזְקִיָּה: שְׁנֵי שִׁיטִין שֶׁאָמְרוּ – בִּכְתַב יְדֵי עֵדִים, וְלֹא כְּתַב יְדֵי סוֹפֵר. מַאי טַעְמָא? דְּכׇל הַמְזַיֵּיף, לָאו לְגַבֵּי סָפְרָא אָזֵיל וּמְזַיֵּיף.
->
+A further refinement is introduced by *Rav Chisda* in the name of *Chizkiyah*: *shnei shitin she'amru biksav yad eidim v'lo biksav yad sofer* — the two-line measure that renders a *shtar pasul* applies specifically to the handwriting size of non-professional witnesses, not to the smaller, more controlled handwriting of a professional *sofer*. The distinction is rooted in the different scales of writing. A trained *sofer* writes with precision and uniformity, producing smaller, tighter letters. An ordinary person writing in script produces larger, less uniform lettering. The practical implication is this: a blank space that could accommodate two lines of ordinary script is dangerous, because a forger could plausibly squeeze in additional text at that scale. But if the blank space is only large enough for two lines of *sofer*-sized script, the risk disappears — the only person capable of filling that space with writing at that scale is a professional *sofer*, and a *sofer* would not agree to insert fraudulent text after the witnesses have already signed, a point the next section takes up in full.
+
+> **Hebrew/Aramaic:** רַבִּי שַׁבְּתַי אָמַר מִשְּׁמֵיהּ דְּחִזְקִיָּה: שְׁנֵי שִׁיטִין שֶׁאָמְרוּ – בִּכְתַב יְדֵי עֵדִים, וְלֹא כְּתַב יְדֵי סוֹפֵר. מַאי טַעְמָא? דְּכׇל הַמְזַיֵּיף, לָאו לְגַבֵּי סָפְרָא אָזֵיל וּמְזַיֵּיף.
 > **Translation:** **Rabbi Shabbtai says in the name of Ḥizkiyya:** With regard to the gap of **two** blank **lines** between the text and the signatures, **which** the Sages **said** invalidates the document, the lines are measured **by the handwriting of witnesses, and not** by **the handwriting of a scribe,** who is presumably skilled enough to write in a smaller script. **What is the reason** for this? **Anyone who forges** a document, adding additional lines to the document, **would not go to a scribe and** ask him to **forge** it; he would execute the forgery himself, or have another unscrupulous person who is not a professional scribe forge it. Therefore, in order to present a concern for possible forgery, a document must have two blank lines that are measured by the handwriting of an ordinary person, such as one of the witnesses.
 
-A further refinement is introduced by *Rav Chisda* in the name of *Chizkiyah*: *shnei shitin she'amru biksav yad eidim v'lo biksav yad sofer* — the two-line measure that renders a *shtar pasul* applies specifically to the handwriting size of non-professional witnesses, not to the smaller, more controlled handwriting of a professional *sofer*. The distinction is rooted in the different scales of writing. A trained *sofer* writes with precision and uniformity, producing smaller, tighter letters. An ordinary person writing in script produces larger, less uniform lettering.
-
 ### Forgery Risk
+
 
 The entire concern about blank lines is that a forger will insert additional text after the witnesses have signed. For such an insertion to be dangerous, it must be capable of appearing natural — indistinguishable from the original. *Rav Chisda* reasons that the only person who could plausibly forge in a *sofer*'s handwriting is another *sofer*, and a *sofer* would not agree to participate in a forgery. Therefore, two lines of *sofer* script in a blank space do not create the same risk as two lines of ordinary script. The blank space is only *pasul* when it could plausibly accommodate the insertion of ordinary-sized lines.
 
@@ -171,11 +178,10 @@ One might object that even if the blank space contains ordinary script different
 
 ### Lach Lach
 
-> **Hebrew/Aramaic:** וְכַמָּה? אָמַר רַב יִצְחָק בֶּן אֶלְעָזָר: כְּגוֹן ״לְךָ–לְךָ״ זֶה עַל גַּבֵּי זֶה. אַלְמָא קָסָבַר: שְׁנֵי שִׁיטִין, וְאַרְבָּעָה אֲוִירִין.
->
-> **Translation:** The Gemara has established that the width of the gap required to invalidate the document is two lines with interlinear space. The Gemara clarifies: **And how much** interlinear space is necessary to invalidate the document? **Rav Yitzḥak ben Elazar says: For example,** enough to write the Hebrew word ***lekha*, and** then the Hebrew word ***lekha*, this** word **on top of that** one. These two words each consist of the two letters *lamed* and final *khaf*; the former has a projection that fully occupies the interlinear space above it, and the latter has a projection that fully occupies the interlinear space below it. Writing these words one under the other, then, would require an additional interlinear space above and below both lines. The Gemara concludes: **Apparently,** Rav Yitzḥak ben Elazar **maintains** that the empty space required to invalidate the document is the width of **two** written **lines with four** interlinear **spaces.**
-
 *Rav Yitzchak ben Elazar* further refines the measurement with a concrete example: *k'gon lach lach zeh al gabi zeh* — imagine the word *lach* written one on top of the other. The word *lach* is written with a *lamed* and a *chof*. The *lamed* has an ascending stroke that rises above the normal line height, demanding an extra airspace above the line. The *chof* has a descending stroke that falls below the normal baseline, demanding an extra airspace below. When two such words are stacked, the visual footprint is therefore: the body of the first line, an airspace below for its *chof*, an airspace above for the *lamed* of the second line, and the body of the second line. This gives a total of two lines plus four airspaces — *shnei shitim v'arba'ah avirim* — as the full measure of what a forger would need to insert two lines of text that appear completely natural.
+
+> **Hebrew/Aramaic:** וְכַמָּה? אָמַר רַב יִצְחָק בֶּן אֶלְעָזָר: כְּגוֹן ״לְךָ–לְךָ״ זֶה עַל גַּבֵּי זֶה. אַלְמָא קָסָבַר: שְׁנֵי שִׁיטִין, וְאַרְבָּעָה אֲוִירִין.
+> **Translation:** The Gemara has established that the width of the gap required to invalidate the document is two lines with interlinear space. The Gemara clarifies: **And how much** interlinear space is necessary to invalidate the document? **Rav Yitzḥak ben Elazar says: For example,** enough to write the Hebrew word ***lekha*, and** then the Hebrew word ***lekha*, this** word **on top of that** one. These two words each consist of the two letters *lamed* and final *khaf*; the former has a projection that fully occupies the interlinear space above it, and the latter has a projection that fully occupies the interlinear space below it. Writing these words one under the other, then, would require an additional interlinear space above and below both lines. The Gemara concludes: **Apparently,** Rav Yitzḥak ben Elazar **maintains** that the empty space required to invalidate the document is the width of **two** written **lines with four** interlinear **spaces.**
 
 ### Two Lines Four Air
 
@@ -183,25 +189,20 @@ To visualize this: the blank space above the witnesses, measured from the last l
 
 ### Lamed Chof
 
-> **Hebrew/Aramaic:** רַב חִיָּיא בַּר אַמֵּי מִשְּׁמֵיהּ דְּעוּלָּא אָמַר: כְּגוֹן לָמֶד מִלְּמַעְלָה וְכָף מִלְּמַטָּה. אַלְמָא קָסָבַר: שְׁנֵי שִׁיטִין וּשְׁלֹשָׁה אֲוִירִין.
->
+
+> **Hebrew/Aramaic:** רַב חִיָּיא בַּר אַמֵּי מִשְּׁמֵיהּ דְּעוּלָּא אָמַר: כְּגוֹן לָמֶד מִלְּמַעְלָה וְכָף מִלְּמַטָּה. אַלְמָא קָסָבַר: שְׁנֵי שִׁיטִין וּשְׁלֹשָׁה אֲוִירִין.
 > **Translation:** **Rav Ḥiyya bar Ami states** a different opinion **in the name of Ulla: For example,** enough to write a ***lamed* on** the **upper** line **and** a final ***khaf* on** the **lower** line. The Gemara concludes: **Apparently,** Ulla **maintains** that the empty space required to invalidate the document is the width of **two** written **lines with three** interlinear **spaces,** one above the first line, one between the two lines, and one beneath the second line.
 
 *Rabbi Chiya bar Ammi* in the name of *Ulla* offers a slightly different account: one need only allow for the *lamed* above and the *chof* below, with a single normal space between the two lines — *shnei shitin v'shalosh avirim*, two lines and three airspaces. The point is that a skilled writer could avoid having both the descender of the upper line and the ascender of the lower line occupy space simultaneously; one can simply position the letters so they do not interfere with each other. The minimum natural arrangement requires only three airspaces rather than four.
 
 ### Single Line Two Air
 
-> **Hebrew/Aramaic:** רַבִּי אֲבָהוּ אָמַר: כְּגוֹן: ״בָּרוּךְ בֶּן לֵוִי״ בְּשִׁיטָה אַחַת. קָא סָבַר: שִׁיטָה אַחַת וּשְׁנֵי אֲוִירִין.
->
+> **Hebrew/Aramaic:** רַבִּי אֲבָהוּ אָמַר: כְּגוֹן: ״בָּרוּךְ בֶּן לֵוִי״ בְּשִׁיטָה אַחַת. קָא סָבַר: שִׁיטָה אַחַת וּשְׁנֵי אֲוִירִין.
 > **Translation:** **Rabbi Abbahu states** a different opinion: **For example,** enough to write the name **Barukh ben Levi on one line.** Barukh contains a final *khaf*, and Levi contains a *lamed*. The Gemara concludes: **Apparently,** Rabbi Abbahu **maintains** that the empty space required to invalidate the document is the width of **one** written **line with two** interlinear **spaces,** one above the line and one beneath the line.
 
 *Abba* goes further still: *k'gon Baruch ben Levi b'shita achas* — take the name *Baruch ben Levi* written in a single line. *Baruch* contains a *chof* with a descender, and *Levi* contains a *lamed* with an ascender. Even within a single line, these letters demand airspace above and below. *Abba* therefore says: *shita achas u'shnei avirim* — only one line and two airspaces. This is a striking position, apparently arguing that even the threshold of two lines set earlier is not absolute — perhaps only a single line with the appropriate airspaces constitutes the danger zone. *Tosafot* notes that this seems to be a direct disagreement with the prior ruling.
 
 ### Before Hashrat
-
-> **Hebrew/Aramaic:** אָמַר רַב: לֹא שָׁנוּ אֶלָּא בֵּין עֵדִים לַכְּתָב, אֲבָל בֵּין עֵדִים לָאַשַּׁרְתָּא – אֲפִילּוּ טוּבָא נָמֵי כָּשֵׁר.
->
-> **Translation:** § **Rav says: They taught** in the *baraita* that a gap of two lines invalidates the document **only** if that space is **between the witnesses'** signatures **and the text** of the document. **But** if there is a gap **between the witnesses'** signatures **and** a court's **ratification** of the document, which follows the witnesses' signatures, then **even** if there is **more** space than this, the document is **valid.**
 
 *Rav* adds a final qualification: *lo shanu ella bein eidim l'chsav* — the distance rule applies only to the space between the witnesses' signatures and the body of the *shtar*. However, *bein eidim l'ashrasa afilu tuvnami kasher* — between the witnesses and the *hashrat*, the court's validation of the document, even a large space is *kasher*. This distinction opens the discussion that occupies the final section of the *daf*.
 
@@ -209,11 +210,9 @@ To visualize this: the blank space above the witnesses, measured from the last l
 
 ## Witnesses Hashrat
 
-### Space Permitted
 
-> **Hebrew/Aramaic:** מַאי שְׁנָא בֵּין עֵדִים לַכְּתָב – דִּלְמָא מְזַיֵּיף וְכָתֵב מַאי דְּבָעֵי, וַחֲתִימִי סָהֲדִי; בֵּין עֵדִים לָאַשַּׁרְתָּא נָמֵי, מְזַיֵּיף וְכָתֵב מַאי דְּבָעֵי, וַחֲתִימִי סָהֲדִי!
->
-> **Translation:** The Gemara asks: **What is different** about the case where the gap is **between the witnesses and the text,** that it invalidates the document? There is a concern that **perhaps** the holder of the document **may forge** additional lines **and write whatever he wants, and the witnesses** have already **signed** at the bottom, giving the appearance that they attest to the added lines as well. But the same concern can be raised concerning a gap **between the witnesses'** signatures **and** the court's **ratification as well:** There, too, he can **forge** additional lines **and write whatever he wants, and** have **witnesses sign it,** with the court's ratification giving the appearance that it attests to the added lines and signatures as well. Why is this document valid?
+
+### Space Permitted
 
 The ruling of *Rav* — that a large space between the witnesses and the *kiyum hashtar* (the court's validation) is *kasher* — invites immediate scrutiny. The *kiyum hashtar* is appended by the *beit din* at the bottom of the *shtar* to certify that the witnesses' signatures are genuine. Why should white space in that location not create the same forgery concern as white space between the witnesses and the body of the document?
 
@@ -223,25 +222,13 @@ The *Gemara* itself voices this objection: *mai shena bein eidim l'chsav? dilma 
 
 ### Court Marks
 
-> **Hebrew/Aramaic:** דִּמְטַיֵּיט לֵיהּ.
->
-> **Translation:** The Gemara explains: When is a gap between the witnesses' signatures and the court's ratification not problematic, according to Rav? Only **when** someone **inks in** the blank space with lines or dots, to prevent information from being added there.
-
 The *Gemara* answers: *d'mitayeit lei* — what the *beit din* does is mark up or fill in the blank space between the witnesses' signatures and the *kiyum*. The court draws lines, marks, or other indications across that space, rendering it unusable. Any attempt to scrape those marks away and insert forged text would be visually apparent. With this practice in place, the blank space between the witnesses and the *kiyum* presents no forgery danger, and the *shtar* remains *kasher* even with a large gap in that location.
 
 ### Why Not Above
 
-> **Hebrew/Aramaic:** אִי הָכִי, בֵּין עֵדִים לַשְּׁטָר נָמֵי מְטַיֵּיט לֵיהּ!
->
-> **Translation:** The Gemara asks: **If so,** the gap **between the witnesses'** signatures **and** the text of **the document** should **also** be made irrelevant in this manner: **Let** the scribe **ink in [*metayyet*]** the blank space. Why, then, was it taught categorically that the witnesses must sign within two lines of the text?
-
 The *Gemara* then raises the obvious question: if such marking can solve the problem below, why not simply apply the same solution above? Mark the space between the witnesses and the body of the *shtar*, and the forgery concern is resolved there as well. If that worked, there would be no need for the strict two-line rule at all.
 
 ### Cannot Mark Above
-
-> **Hebrew/Aramaic:** אָמְרִי: סָהֲדֵי אַטְּיוּטָא הוּא דַּחֲתִימִי.
->
-> **Translation:** The Gemara answers: Inking in the gap between the text and the signatures of the witnesses will not help, as people might **say,** i.e., the concern might be raised: **The witnesses are signed** only **on the inking in.** It is possible that the witnesses' signatures were affixed only to attest that the inking was done in their presence and that the inking in is not a sign of duplicity, and their signatures do not relate to the actual text of the document.
 
 The *Gemara* states that this solution cannot be applied above, between the witnesses' signatures and the text of the *shtar*.
 
@@ -251,9 +238,17 @@ The reason is that if there are marks or designs in the space between the witnes
 
 ### Court Clarity
 
-> **Hebrew/Aramaic:** בֵּין עֵדִים לָאַשַּׁרְתָּא נָמֵי, אָמְרִי: בֵּי דִינָא אַטְּיוּטָא הוּא דַּחֲתִימִי! בֵּי דִינָא אַטְּיוּטָא לָא חֲתִימִי.
->
-> **Translation:** The Gemara asks: If so, raise the same concern when the gap **between the witnesses'** signatures **and the** court's **ratification** is inked in; there too, people might **say: The court's** ratification **is signed** only **for the inking in,** and not for the actual text of the document. The Gemara answers: **A court does not sign on** mere **inking in;** their ratification is always in reference to the entire document.
+> **Hebrew/Aramaic:** אָמַר רַב: לֹא שָׁנוּ אֶלָּא בֵּין עֵדִים לַכְּתָב, אֲבָל בֵּין עֵדִים לָאַשַּׁרְתָּא – אֲפִילּוּ טוּבָא נָמֵי כָּשֵׁר.
+> **Translation:** § **Rav says: They taught** in the *baraita* that a gap of two lines invalidates the document **only** if that space is **between the witnesses’** signatures **and the text** of the document. **But** if there is a gap **between the witnesses’** signatures **and** a court’s **ratification** of the document, which follows the witnesses’ signatures, then **even** if there is **more** space than this, the document is **valid.**
+
+> **Hebrew/Aramaic:** מַאי שְׁנָא בֵּין עֵדִים לַכְּתָב – דִּלְמָא מְזַיֵּיף וְכָתֵב מַאי דְּבָעֵי, וַחֲתִימִי סָהֲדִי; בֵּין עֵדִים לָאַשַּׁרְתָּא נָמֵי, מְזַיֵּיף וְכָתֵב מַאי דְּבָעֵי, וַחֲתִימִי סָהֲדִי!
+> **Translation:** The Gemara asks: **What is different** about the case where the gap is **between the witnesses and the text,** that it invalidates the document? There is a concern that **perhaps** the holder of the document **may forge** additional lines **and write whatever he wants, and the witnesses** have already **signed** at the bottom, giving the appearance that they attest to the added lines as well. But the same concern can be raised concerning a gap **between the witnesses’** signatures **and** the court’s **ratification as well:** There, too, he can **forge** additional lines **and write whatever he wants, and** have **witnesses sign it,** with the court’s ratification giving the appearance that it attests to the added lines and signatures as well. Why is this document valid?
+
+> **Hebrew/Aramaic:** דִּמְטַיֵּיט לֵיהּ. אִי הָכִי, בֵּין עֵדִים לַשְּׁטָר נָמֵי מְטַיֵּיט לֵיהּ!
+> **Translation:** The Gemara explains: When is a gap between the witnesses’ signatures and the court’s ratification not problematic, according to Rav? Only **when** someone **inks in** the blank space with lines or dots, to prevent information from being added there. The Gemara asks: **If so,** the gap **between the witnesses’** signatures **and** the text of **the document** should **also** be made irrelevant in this manner: **Let** the scribe **ink in [*metayyet*]** the blank space. Why, then, was it taught categorically that the witnesses must sign within two lines of the text?
+
+> **Hebrew/Aramaic:** אָמְרִי: סָהֲדֵי אַטְּיוּטָא הוּא דַּחֲתִימִי. בֵּין עֵדִים לָאַשַּׁרְתָּא נָמֵי, אָמְרִי: בֵּי דִינָא אַטְּיוּטָא הוּא דַּחֲתִימִי! בֵּי דִינָא אַטְּיוּטָא לָא חֲתִימִי.
+> **Translation:** The Gemara answers: Inking in the gap between the text and the signatures of the witnesses will not help, as people might **say,** i.e., the concern might be raised: **The witnesses are signed** only **on the inking in.** It is possible that the witnesses’ signatures were affixed only to attest that the inking was done in their presence and that the inking in is not a sign of duplicity, and their signatures do not relate to the actual text of the document. The Gemara asks: If so, raise the same concern when the gap **between the witnesses’** signatures **and the** court’s **ratification** is inked in; there too, people might **say: The court’s** ratification **is signed** only **for the inking in,** and not for the actual text of the document. The Gemara answers: **A court does not sign on** mere **inking in;** their ratification is always in reference to the entire document.
 
 Why does this problem not apply to the *kiyum hashtar* below? The *Gemara* answers: *bedina tiyuta lo chasimi* — no one would think that a *beit din* is signing its certification on a design or set of marks. It is universally understood that the *kiyum* of a *beit din* refers exclusively to the witnesses' signatures. Its referent is unambiguous: it certifies the identity and validity of the witnesses above it, nothing else. Therefore, even with marks between the witnesses and the *kiyum*, there is no confusion about what the court is validating.
 

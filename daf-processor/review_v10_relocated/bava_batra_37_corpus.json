@@ -1,0 +1,189 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Thirty Trees Case",
+    "candidates": [
+      "Opening & Previous Debate",
+      "Rashbam's Two Models",
+      "Nimukei Yosef's Critique",
+      "Thirty Trees Case",
+      "When Fruits Unavailable",
+      "Trees Interspersed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items discuss Abaye's inference from Rabbi Yishmael's ruling to derive the thirty-trees case for the Rabbanan, which is precisely what the 'Thirty Trees Case' prose describes.",
+      "chosen_heading": "Thirty Trees Case",
+      "current_heading": "Thirty Trees Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Trees Interspersed",
+    "candidates": [
+      "When Fruits Unavailable",
+      "Trees Interspersed",
+      "Rav Zevid Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses BOTH restrictions together (fruit not produced AND trees interspersed), but the first restriction about trees not producing fruit is the opening content of the passage, matching candidate 0's prose about 'When Fruits Unavailable,' and the essay's structure places the 'Trees Interspersed' section (candidate 1) as a separate heading \u2014 meaning the passage, which covers both conditions in one Talmudic statement, should sit under the first condition's heading (candidate 0) where the interspersed condition is introduced as a second qualifier within the same ruling, not split across headings.",
+      "chosen_heading": "When Fruits Unavailable",
+      "current_heading": "Trees Interspersed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Rav Zevid Position",
+    "candidates": [
+      "Trees Interspersed",
+      "Rav Zevid Position",
+      "Rav Pappa Challenge",
+      "One vs. Two Buyers",
+      "Trees Retained Case",
+      "Trees vs. Wells"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Rav Zevid ruling and Rav Pappa's objection (including the 'uproot your trees and go' challenge and Rav Pappa's resolution of half-and-half), which is the precise content described in the 'Rav Zevid Position' section's prose.",
+      "chosen_heading": "Rav Zevid Position",
+      "current_heading": "Rav Zevid Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Trees vs. Wells",
+    "candidates": [
+      "Rav Pappa Challenge",
+      "One vs. Two Buyers",
+      "Trees Retained Case",
+      "Trees vs. Wells",
+      "Buyer Gets Land?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara explanation of why retaining trees (unlike a pit/cistern) carries with it retention of surrounding land even according to Rabbi Akiva, which is precisely what the 'Trees vs. Wells' prose discusses in detail.",
+      "chosen_heading": "Trees vs. Wells",
+      "current_heading": "Trees vs. Wells",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Buyer Gets Land?",
+    "candidates": [
+      "Buyer Gets Land?",
+      "Two Buyers Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the reverse case of selling trees while retaining land, and the Rabbi Akiva vs. Rabbanan dispute about it \u2014 which is precisely what the 'Buyer Gets Land?' section prose discusses.",
+      "chosen_heading": "Buyer Gets Land?",
+      "current_heading": "Buyer Gets Land?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Two Buyers Analysis",
+    "candidates": [
+      "Two Buyers Analysis",
+      "Packed Trees Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the reconciliation between the one-buyer and two-buyer frameworks (Rav Zevid/Rabbi Akiva and Rav Pappa/Rabbanan), which is precisely what the 'Two Buyers Analysis' prose discusses in detail.",
+      "chosen_heading": "Two Buyers Analysis",
+      "current_heading": "Two Buyers Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Packed Trees Rule",
+    "candidates": [
+      "Packed Trees Rule",
+      "Dense Vineyard Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Neharde'a ruling on packed trees, Rava's objection about alfalfa, and Rava's reformulation \u2014 all of which are the exact content described in the 'Packed Trees Rule' prose section.",
+      "chosen_heading": "Packed Trees Rule",
+      "current_heading": "Packed Trees Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Dense Vineyard Debate",
+    "candidates": [
+      "Dense Vineyard Debate",
+      "Palm Tree Depths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's tannaitic comparison about a densely planted vineyard, which is precisely what the 'Dense Vineyard Debate' prose discusses in detail.",
+      "chosen_heading": "Dense Vineyard Debate",
+      "current_heading": "Dense Vineyard Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Palm Tree Depths",
+    "candidates": [
+      "Palm Tree Depths",
+      "Ownership vs. Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the Nahardean ruling about selling a palm tree and rights extending to the depths, which is precisely what the 'Palm Tree Depths' section's prose introduces and explains.",
+      "chosen_heading": "Palm Tree Depths",
+      "current_heading": "Palm Tree Depths",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,334 @@
+[
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Shards Absorbed",
+    "candidates": [
+      "Iruy & Blia'ah",
+      "Oven: No Blia'ah",
+      "Pottery Oven Kasher",
+      "Kasher vs. Break",
+      "Rashi: Blia'ah Model",
+      "Tosafot: Include Bishul",
+      "No Kilns in Yerushalayim",
+      "Breaking as Leniency",
+      "Abaye's Question",
+      "Shards Absorbed",
+      "Metal Oven in Mikdash",
+      "Why Metal Only?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's question about scrap heaps in the Azarah and the answer that shards are miraculously absorbed, which directly matches heading 8 ('Abaye's Question') whose prose describes exactly this challenge and its resolution, while the current placement under heading 9 ('Shards Absorbed') splits the question from its answer.",
+      "chosen_heading": "Abaye's Question",
+      "current_heading": "Shards Absorbed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Why Metal Only?",
+    "candidates": [
+      "Metal Oven in Mikdash",
+      "Why Metal Only?",
+      "Kli Shares Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage poses the exact question 'why not use a pottery oven given that kindling from inside kashers it?' \u2014 which is precisely what the 'Why Metal Only?' section's prose describes as the immediate question being raised.",
+      "chosen_heading": "Why Metal Only?",
+      "current_heading": "Why Metal Only?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Kli Shares Requirement",
+    "candidates": [
+      "Kli Shares Requirement",
+      "Pottery Not Kli Shares"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the oven is a kli shareis \u2014 because the shtei halechem and lechem hapanim are sanctified in it \u2014 which matches heading 0's prose about kiddushan batanur and the oven functioning as a sacred vessel, rather than heading 1's focus on the prohibition against pottery kli shareis.",
+      "chosen_heading": "Kli Shares Requirement",
+      "current_heading": "Kli Shares Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Pottery Not Kli Shares",
+    "candidates": [
+      "Pottery Not Kli Shares",
+      "Leaving Rami"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states that Rabbi Yosei permits wood but not earthenware for a kli shareis, which is precisely the content discussed in the 'Pottery Not Kli Shares' section's prose.",
+      "chosen_heading": "Pottery Not Kli Shares",
+      "current_heading": "Pottery Not Kli Shares",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Leaving Rami",
+    "candidates": [
+      "Leaving Rami",
+      "Logic Contradicted",
+      "Rav Sheshet & Texts",
+      "Rami's Defense",
+      "Whole vs. Part",
+      "Blood Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete anecdote of Rav Yitzchak leaving Rami bar Chama for Rav Sheshet \u2014 item 1 is Rami's challenge and item 2 is Rav Yitzchak's pedagogical explanation \u2014 which is precisely what heading 0 ('Leaving Rami') describes in its prose.",
+      "chosen_heading": "Leaving Rami",
+      "current_heading": "Leaving Rami",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Blood Analogy",
+    "candidates": [
+      "Logic Contradicted",
+      "Rav Sheshet & Texts",
+      "Rami's Defense",
+      "Whole vs. Part",
+      "Blood Analogy",
+      "Taste Spreads"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items depict Rami bar Chama answering Rav Yitzchak's question from svara (reasoning by analogy to the garment/blood rule) and Rav Yitzchak pushing back that the mishna doesn't say this explicitly \u2014 this is precisely the 'direct test' of Rami's claim that his svara will be consistent with texts, which is what candidate 2 ('Rami's Defense') sets up.",
+      "chosen_heading": "Rami's Defense",
+      "current_heading": "Blood Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Taste Spreads",
+    "candidates": [
+      "Blood Analogy",
+      "Taste Spreads",
+      "Braita: Whole Vessel",
+      "Rami Concedes",
+      "Verse Foundation",
+      "Nechoshes Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together constitute the baraita that Rav Yitzchak cites to refute Rami's blood analogy \u2014 items 1 introduces the baraita, items 2-3 spell out its two parts \u2014 which is precisely the content described in the 'Braita: Whole Vessel' prose section.",
+      "chosen_heading": "Braita: Whole Vessel",
+      "current_heading": "Taste Spreads",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Nechoshes Verse",
+    "candidates": [
+      "Braita: Whole Vessel",
+      "Rami Concedes",
+      "Verse Foundation",
+      "Nechoshes Verse",
+      "Yehuda vs. Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rami's concession ('ei tanya, tanya') and the Gemara's clarification of the verse's reason, but the item includes both parts \u2014 however, looking more carefully, the item contains both the concession AND the verse explanation, yet the current placement under 'Nechoshes Verse' only covers the verse part; the concession 'ei tanya tanya' belongs under 'Rami Concedes' (index 1), and since the item is a single unit containing both, but the verse explanation is actually the dominant content being asked about in this single item... The item is one passage covering both Rami's concession and the verse derivation \u2014 since it must go under ONE heading and the passage begins with Rami's concession which is the primary action, while the verse explanation follows as clarification, index 1 ('Rami Concedes') best captures the opening of this passage, but actually the prose of index 3 explicitly describes the verse content of this exact passage. Given the passage contains both elements and must go under one heading, index 1's prose discusses 'ei tanya tanya' which opens this passage, making it the better single home.",
+      "chosen_heading": "Rami Concedes",
+      "current_heading": "Nechoshes Verse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Yehuda vs. Shimon",
+    "candidates": [
+      "Nechoshes Verse",
+      "Yehuda vs. Shimon",
+      "Otah Exclusion",
+      "Shimon's Counter",
+      "Terumah Kashering",
+      "Absorption Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit presenting the baraita's derivation and the Yehuda/Shimon dispute about scope of merika u'shtifa, which is precisely what the 'Yehuda vs. Shimon' section's prose describes.",
+      "chosen_heading": "Yehuda vs. Shimon",
+      "current_heading": "Yehuda vs. Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Absorption Principle",
+    "candidates": [
+      "Otah Exclusion",
+      "Shimon's Counter",
+      "Terumah Kashering",
+      "Absorption Principle",
+      "Ritual Differs",
+      "Entire vs. Used"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge questioning whether terumah requires no rinsing/scouring at all, which directly corresponds to the 'Terumah Kashering' prose that frames the immediate difficulty: if terumah is exempt from merika u'shtifa, does that mean it needs no treatment whatsoever \u2014 exactly the question this baraita is being cited to press.",
+      "chosen_heading": "Terumah Kashering",
+      "current_heading": "Absorption Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Entire vs. Used",
+    "candidates": [
+      "Ritual Differs",
+      "Entire vs. Used",
+      "Water Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically discusses Abaye's teaching that the ritual requires scouring the entire vessel while teruma only requires treatment at the place of cooking \u2014 exactly the 'entire vs. used portion' distinction that the prose under heading 1 describes.",
+      "chosen_heading": "Entire vs. Used",
+      "current_heading": "Entire vs. Used",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Water Only",
+    "candidates": [
+      "Water Only",
+      "Cold Rinse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rava's statement directly addresses the water-only requirement, explaining that 'b'mayim' excludes wine and diluted wine for the Temple vessel ritual while permitting them for teruma vessels \u2014 precisely the content the 'Water Only' prose section discusses.",
+      "chosen_heading": "Water Only",
+      "current_heading": "Water Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Cold Rinse",
+    "candidates": [
+      "Cold Rinse",
+      "Tarfon: Holiday Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the dispute about whether merika u'shtifa is cold or hot+cold water, and the concept of 'shtifa yetirta' (additional cold rinse) \u2014 exactly the content described in the 'Cold Rinse' prose section.",
+      "chosen_heading": "Cold Rinse",
+      "current_heading": "Cold Rinse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Tarfon: Holiday Use",
+    "candidates": [
+      "Tarfon: Holiday Use",
+      "Sages: End Eating",
+      "Cup Analogy",
+      "Cold Water",
+      "Spits & Hagala"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full Mishna text covering all three topics (Rabbi Tarfon's ruling, the Sages' ruling, and the cup analogy with cold water), and it belongs under the first heading that introduces the Mishna, which is where it currently sits.",
+      "chosen_heading": "Tarfon: Holiday Use",
+      "current_heading": "Tarfon: Holiday Use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Spits & Hagala",
+    "candidates": [
+      "Sages: End Eating",
+      "Cup Analogy",
+      "Cold Water",
+      "Spits & Hagala"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage about the spit and grill being purged in hot water directly matches the prose in 'Spits & Hagala', which specifically discusses hashapud and ha'askala being subjected to hagala (immersion in boiling/hot water).",
+      "chosen_heading": "Spits & Hagala",
+      "current_heading": "Spits & Hagala",
+      "moved": false
+    }
+  }
+]

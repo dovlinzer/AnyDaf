@@ -1,0 +1,281 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Proximity Outside City",
+    "candidates": [
+      "Proximity Outside City",
+      "Atlusa Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah that the 'Proximity Outside City' prose explicitly summarizes and references, covering city vs. outside-city idol worship and road travel rules.",
+      "chosen_heading": "Proximity Outside City",
+      "current_heading": "Proximity Outside City",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Atlusa Distinction",
+    "candidates": [
+      "Atlusa Distinction",
+      "Reish Lakish's Question",
+      "Shared Oven Analogy",
+      "Abaye: Neveilah Concern",
+      "Money of Idols Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Reish Lakish's Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 asks what 'outside' means and gives the atlusa of Gaza as the answer (or question), which matches heading 1 'Reish Lakish's Question' that explicitly describes the alternative version where Reish Lakish posed this as a question to Rabbi Chanina.",
+      "second_heading": "Shared Oven Analogy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 continues Rabbi Chanina's response about two pots on one stove and the Sages not being concerned, which matches heading 2 'Shared Oven Analogy' whose prose describes exactly this analogy and the phrase 'velo chashu lahem chachamim'.",
+      "current_heading": "Atlusa Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Money of Idols Analogy",
+    "candidates": [
+      "Reish Lakish's Question",
+      "Shared Oven Analogy",
+      "Abaye: Neveilah Concern",
+      "Money of Idols Analogy",
+      "Rava: Bishul Akum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement about the neveilah concern, which is precisely what candidate 2 ('Abaye: Neveilah Concern') discusses \u2014 it belongs there, not under the 'Money of Idols Analogy' section which discusses the parallel application of Abaye's reasoning to Gaza.",
+      "chosen_heading": "Abaye: Neveilah Concern",
+      "current_heading": "Money of Idols Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rava: Bishul Akum",
+    "candidates": [
+      "Money of Idols Analogy",
+      "Rava: Bishul Akum",
+      "Rabbah Bar Ulla: Splatter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement explaining that the Sages were not concerned about bishul akum (food cooked by gentiles), which matches precisely the 'Rava: Bishul Akum' section's prose.",
+      "chosen_heading": "Rava: Bishul Akum",
+      "current_heading": "Rava: Bishul Akum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Rabbah Bar Ulla: Splatter",
+    "candidates": [
+      "Rabbah Bar Ulla: Splatter",
+      "Cannot Enter City",
+      "Rabbi Meir Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items belong together under 'Rabbah Bar Ulla: Splatter' \u2014 item 1 is Rava's conclusion about yom eidam (which the prose under heading 0 treats as the setup before Rabbah bar Ulla), and items 2-3 are Rabbah bar Ulla's tzinnora argument and its corresponding conclusion about lifnei edeihen, which is precisely what heading 0's prose describes in detail.",
+      "chosen_heading": "Rabbah Bar Ulla: Splatter",
+      "current_heading": "Rabbah Bar Ulla: Splatter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rabbi Meir Position",
+    "candidates": [
+      "Cannot Enter City",
+      "Rabbi Meir Position",
+      "Sages: Extended Road",
+      "Thorn Before Idol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita including both Rabbi Meir's and the Rabbis' positions, and its opening clause ('mahu leilech l'sham') directly connects it to the city-entry question that heading 0 introduces, making it a better fit there than under the heading that only covers Rabbi Meir's specific position.",
+      "chosen_heading": "Cannot Enter City",
+      "current_heading": "Rabbi Meir Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Thorn Before Idol",
+    "candidates": [
+      "Sages: Extended Road",
+      "Thorn Before Idol",
+      "Money Scatters",
+      "Spring Water Idol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the thorn and scattered coins cases, and the current placement under 'Thorn Before Idol' is where the baraita begins, with the prose of heading 1 explicitly introducing both cases as a unit starting with the thorn example.",
+      "chosen_heading": "Thorn Before Idol",
+      "current_heading": "Thorn Before Idol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Spring Water Idol",
+    "candidates": [
+      "Money Scatters",
+      "Spring Water Idol",
+      "Idol's Mouth Water",
+      "Pipe Danger",
+      "Marit Ayin Always Applies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three cases (spring before idol, faces/fountains, and pipe danger) and the current heading 'Spring Water Idol' is where it sits, but more importantly the prose under heading 1 directly discusses the spring case that opens the passage, while headings 2 and 3 cover the subsequent sub-cases \u2014 however, since the item is a single unified Talmudic passage and must go under ONE heading, and the current placement under heading 1 matches the opening and primary content of the passage, it belongs there.",
+      "chosen_heading": "Spring Water Idol",
+      "current_heading": "Spring Water Idol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Marit Ayin Always Applies",
+    "candidates": [
+      "Idol's Mouth Water",
+      "Pipe Danger",
+      "Marit Ayin Always Applies",
+      "Reasonable Alternative",
+      "Why All Four Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about what 'eino nireh' means, rejects the interpretation that it means being unobserved, and cites Rav Yehudah's ruling that maris ayin applies even in innermost chambers \u2014 exactly what the prose of candidate 2 ('Marit Ayin Always Applies') describes.",
+      "chosen_heading": "Marit Ayin Always Applies",
+      "current_heading": "Marit Ayin Always Applies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Why All Four Cases",
+    "candidates": [
+      "Reasonable Alternative",
+      "Why All Four Cases",
+      "Peshat: Yehareg Avodah Z.",
+      "Rema: Not Yehareg ve'al"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's explanation of why the baraita needed to enumerate all four cases (thorn, coins, spring), which matches exactly the prose of heading 1 'Why All Four Cases' \u2014 the current placement is correct.",
+      "chosen_heading": "Why All Four Cases",
+      "current_heading": "Why All Four Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rema: Not Yehareg ve'al",
+    "candidates": [
+      "Peshat: Yehareg Avodah Z.",
+      "Rema: Not Yehareg ve'al",
+      "Gra: Yehareg ve'al",
+      "Rema's Practical Cases",
+      "Leech Danger",
+      "No Direct Drinking",
+      "Leech Treatment",
+      "Leech Case Story",
+      "Leech Case Story (continued)",
+      "Wasp Danger",
+      "Shavrizi Demon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage asks why the baraita mentions drinking from face-shaped fountains and answers that it was needed to teach the prohibition of placing one's mouth on a pipe due to danger \u2014 this is precisely the content the 'Leech Danger' prose introduces, explaining the 'mipnei hasakana' (danger) from drinking directly from a pipe.",
+      "chosen_heading": "Leech Danger",
+      "current_heading": "Rema: Not Yehareg ve'al",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Shavrizi Demon",
+    "candidates": [
+      "Gra: Yehareg ve'al",
+      "Rema's Practical Cases",
+      "Leech Danger",
+      "No Direct Drinking",
+      "Leech Treatment",
+      "Leech Case Story",
+      "Leech Case Story (continued)",
+      "Wasp Danger",
+      "Shavrizi Demon",
+      "Wake Others",
+      "Solo Incantation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "No Direct Drinking",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the baraita about not drinking from rivers/ponds (leech danger), the Rabbi Chanina ruling about heating water on Shabbat for one who swallowed a leech, and the wasp case \u2014 all fitting under 'No Direct Drinking' through 'Wasp Danger' as one continuous topic chain, with item 3 (wasp) best matching candidate 7 'Wasp Danger'.",
+      "second_heading": "Shavrizi Demon",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the baraita about not drinking water at night due to the shavrirei demon, which is a structurally new case with entirely different facts and concern (demons vs. leeches/wasps), matching candidate 8 'Shavrizi Demon' where it currently sits.",
+      "current_heading": "Shavrizi Demon",
+      "moved": true
+    }
+  }
+]

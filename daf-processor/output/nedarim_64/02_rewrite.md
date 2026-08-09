@@ -70,9 +70,7 @@ The second is a concern about trivialization: if there is a universal escape rou
 
 ### Chachamim Concede Parents
 
-The *Gemara* notes at this point that there is, in fact, one case where the *chachamim* concede the validity of Rabbi Eliezer's position: *modim chachamim l'Rabbi Eliezer b'davar she-beino l'vein aviv v'imo she-potchin lo b'khvod aviv v'imo* — where the vow directly impacts the parents, the *chachamim* agree that the *beit din* may open with the matter of the parents' honor. If a person took a vow that he would receive no benefit from his parents, or that his parents would receive no benefit from him, the *beit din* may indeed ask: had you really thought through how this would affect your relationship with your parents? This concession by the *chachamim* will need to be explained in light of their broader objection, and the *Gemara* will return to this point in the next section.
-
----
+The *Gemara* notes that the *chachamim* concede to Rabbi Eliezer in a case where the vow directly impacts the parents — *modim chachamim l'Rabbi Eliezer b'davar she-beino l'vein aviv v'imo she-potchin lo b'khvod aviv v'imo* — and that if the vow concerned benefit to or from the parents, the *beit din* may raise the question of how it would affect that relationship. The *Gemara* then moves on to another teaching of Rabbi Eliezer: *ve'od amar Rabbi Eliezer* — "and Rabbi Eliezer further said."
 
 ## Nolad Innovation
 

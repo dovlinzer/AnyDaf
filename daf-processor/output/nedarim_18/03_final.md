@@ -1,12 +1,9 @@
-# Nedarim 18 — Daf Yomi Shiur
-
+[DAF:18a]
 ## Neder Betoch Neder
 
-### Rav Huna vs. Shmuel
 
-> **Hebrew/Aramaic:** וּתְיוּבְתָּא דְרַב הוּנָא! לָא, לְעוֹלָם ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי לְמָחָר״, וּמַאי ״עָלְתָה לוֹ״ — לְבַר מֵהָהוּא יוֹמָא יַתִּירָא. אִי נָמֵי, כְּגוֹן שֶׁקִּיבֵּל שְׁתֵּי נְזִירוּת בְּבַת אַחַת.
->
-> **Translation:** **and** this is **a conclusive refutation** of the statement **of Rav Huna.** The Gemara answers: **No, actually** the case is where he said: **I am hereby a nazirite today, I am hereby** a nazirite **tomorrow. And what** is the meaning of the statement: The second term of naziriteship **is counted for him** instead of the first? It is counted **except for that additional day,** which he still must observe. **Alternatively,** it may be a case **where he accepted** upon himself **two** periods of **naziriteship simultaneously,** i.e., he said: I am hereby a nazirite twice.
+
+### Rav Huna vs. Shmuel
 
 The daf begins at 18a, approximately four lines down, with *mative rav hamnuna* — a challenge posed by Rav Hamnuna. We are in the midst of the debate between Rav Huna and Shmuel concerning what the *mishnah* means when it says *yesh neder betoch neder* — that there is a neder within a neder.
 
@@ -16,10 +13,6 @@ What emerged in the prior session is that even Rav Huna would concede that if so
 
 ### Ran's Approaches
 
-> **Hebrew/Aramaic:** מֵתִיב רַב הַמְנוּנָא: ״נָזִיר לְהַזִּיר״ — מִכָּאן שֶׁהַנְּזִירוּת חָל עַל הַנְּזִירוּת. שֶׁיָּכוֹל, וַהֲלֹא דִּין הוּא: וּמָה שְׁבוּעָה חֲמוּרָה — אֵין שְׁבוּעָה חָלָה עַל שְׁבוּעָה, נְזִירוּת קַלָּה לֹא כׇּל שֶׁכֵּן — תַּלְמוּד לוֹמַר: נָזִיר לְהַזִּיר, מִכָּאן שֶׁהַנְּזִירוּת חָלָה עַל הַנְּזִירוּת.
->
-> **Translation:** **Rav Hamnuna raised** an additional **objection** against the opinion of Rav Huna from a *baraita*. It is stated in the verse: **"A nazirite, to consecrate [*nazir lehazzir*]"** (Numbers 6:2). **From** the use of similar, repetitive wording in the verse **here** it is derived **that naziriteship takes effect upon** a prior vow of **naziriteship. As** one **might** have thought that it could be derived through an *a fortiori* **inference** that naziriteship does not take effect, as follows: **And just as** with regard to **an oath,** which is more **stringent, an oath does not take effect upon** a prior **oath,** with regard to **naziriteship,** which is more **lenient, all the more so** is it **not** clear that it does not take effect where a vow of naziriteship was already in effect? Therefore, **the verse states: "*Nazir lehazzir*." From here** it is derived **that naziriteship takes effect upon** a prior vow of **naziriteship.**
-
 It is worth noting that the Ran actually presents two distinct ways of reading the entire *sugya*, and we have been following only one of them. The approach we have been working with understands *neder betoch neder* as the second *nezirut* being suspended and held in abeyance, to take effect when the first concludes. This explains naturally why the phenomenon is unique to *nezirut*: only *nezirut* has a finite, time-bound character, which creates conceptual space for the second to hover.
 
 However, the Ran also acknowledges a quite different reading: that *yesh neder betoch neder* means both *neziruyot* take effect simultaneously, making one a double *nazir*. Under this reading, if someone were to drink wine, he would incur two sets of lashes. The Ran does not favor this reading, but he recognizes it as a legitimate interpretation of the *Gemara*. More significantly, under this reading Rav Huna's insistence that the two acceptances differ makes excellent sense, because if they are absolutely identical, the principle of *ein issur chal al issur* — one prohibition cannot take effect upon another — would prevent the second from having any force. If, however, they differ slightly, the second qualifies as an *issur mosif* or *issur kolel*, and that distinction permits one to take effect upon the other within the *Gemara*'s framework for *ein issur chal al issur*. Crucially, this second reading would not confine the phenomenon to *nezirut* at all. The *mishnah*'s use of *nezirut* would be merely illustrative, and in principle one could say *konam kikar zeh alai konam kikar zeh alai* and create two stacked prohibitions on that loaf of bread, with the person incurring two sets of lashes for eating it.
@@ -28,17 +21,18 @@ These are genuinely two very different frameworks for understanding the *sugya*.
 
 ### Why Verse Needed
 
-> **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִילֵימָא דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר לְמָחָר״, הָא קְרָא בָּעֲיָא?! אֶלָּא לָאו: דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר הַיּוֹם״ — וְקָתָנֵי נְזִירוּת חָל עַל נְזִירוּת! לָא, הָכָא בְּמַאי עָסְקִינַן — כְּגוֹן שֶׁקִּיבֵּל עָלָיו שְׁתֵּי נְזִירוּת בְּבַת אַחַת.
->
-> **Translation:** **What are the circumstances? If we say** it is a case **where** one **said: I am hereby a nazirite today, I am hereby a nazirite tomorrow, does that** case **require** proof from **a verse** that it takes effect? It is obvious that the second vow of naziriteship takes effect at least on the additional day. And as the minimum term of naziriteship is thirty days, an additional thirty days must be observed. **Rather, is it not** a case **where** one **said: I am a nazirite today, I am a nazirite today? And** the *baraita* **teaches** that in this case as well, **naziriteship takes effect upon** a prior vow of **naziriteship,** contrary to the opinion of Rav Huna. The Gemara answers: That is **not** the case. Rather, **with what are we dealing here?** We are dealing with a case **where he accepted upon himself two** terms of **naziriteship simultaneously.** The *baraita* teaches that he must observe two terms of naziriteship and bring a separate offering for each.
-
 The *mishnah* says *yesh neder betoch neder* but goes directly to the case of *nezirut* without explaining what makes *nezirut* distinctive. Once we operate within the hovering framework — that the second *nezirut* waits and takes effect when the first ends — we understand the uniqueness of *nezirut*. But the question arises: why does a *pasuk* need to teach us this? The *Gemara* asks *heichi dami* — precisely which case requires the scriptural derivation?
 
 ### Qal VaChomer
 
-> **Hebrew/Aramaic:** וּמָה שְׁבוּעָה חֲמוּרָה — אֵין שְׁבוּעָה חָלָה עַל שְׁבוּעָה, נְזִירוּת קַלָּה לֹא כׇּל שֶׁכֵּן — תַּלְמוּד לוֹמַר: נָזִיר לְהַזִּיר, מִכָּאן שֶׁהַנְּזִירוּת חָלָה עַל הַנְּזִירוּת.
->
-> **Translation:** **And just as** with regard to **an oath,** which is more **stringent, an oath does not take effect upon** a prior **oath,** with regard to **naziriteship,** which is more **lenient, all the more so** is it **not** clear that it does not take effect where a vow of naziriteship was already in effect? Therefore, **the verse states: "*Nazir lehazzir*." From here** it is derived **that naziriteship takes effect upon** a prior vow of **naziriteship.**
+> **Hebrew/Aramaic:** מֵתִיב רַב הַמְנוּנָא: ״נָזִיר לְהַזִּיר״ — מִכָּאן שֶׁהַנְּזִירוּת חָל עַל הַנְּזִירוּת. שֶׁיָּכוֹל, וַהֲלֹא דִּין הוּא: וּמָה שְׁבוּעָה חֲמוּרָה — אֵין שְׁבוּעָה חָלָה עַל שְׁבוּעָה, נְזִירוּת קַלָּה לֹא כׇּל שֶׁכֵּן — תַּלְמוּד לוֹמַר: נָזִיר לְהַזִּיר, מִכָּאן שֶׁהַנְּזִירוּת חָלָה עַל הַנְּזִירוּת.
+> **Translation:** **Rav Hamnuna raised** an additional **objection** against the opinion of Rav Huna from a *baraita*. It is stated in the verse: **“A nazirite, to consecrate [*nazir lehazzir*]”** (Numbers 6:2). **From** the use of similar, repetitive wording in the verse **here** it is derived **that naziriteship takes effect upon** a prior vow of **naziriteship. As** one **might** have thought that it could be derived through an *a fortiori* **inference** that naziriteship does not take effect, as follows: **And just as** with regard to **an oath,** which is more **stringent, an oath does not take effect upon** a prior **oath,** with regard to **naziriteship,** which is more **lenient, all the more so** is it **not** clear that it does not take effect where a vow of naziriteship was already in effect? Therefore, **the verse states: “*Nazir lehazzir*.” From here** it is derived **that naziriteship takes effect upon** a prior vow of **naziriteship.**
+
+> **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִילֵימָא דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר לְמָחָר״, הָא קְרָא בָּעֲיָא?! אֶלָּא לָאו: דְּאָמַר ״הֲרֵינִי נָזִיר הַיּוֹם, הֲרֵינִי נָזִיר הַיּוֹם״ — וְקָתָנֵי נְזִירוּת חָל עַל נְזִירוּת!
+> **Translation:** **What are the circumstances? If we say** it is a case **where** one **said: I am hereby a nazirite today, I am hereby a nazirite tomorrow, does that** case **require** proof from **a verse** that it takes effect? It is obvious that the second vow of naziriteship takes effect at least on the additional day. And as the minimum term of naziriteship is thirty days, an additional thirty days must be observed. **Rather, is it not** a case **where** one **said: I am a nazirite today, I am a nazirite today? And** the *baraita* **teaches** that in this case as well, **naziriteship takes effect upon** a prior vow of **naziriteship,** contrary to the opinion of Rav Huna.
+
+> **Hebrew/Aramaic:** לָא, הָכָא בְּמַאי עָסְקִינַן — כְּגוֹן שֶׁקִּיבֵּל עָלָיו שְׁתֵּי נְזִירוּת בְּבַת אַחַת.
+> **Translation:** The Gemara answers: That is **not** the case. Rather, **with what are we dealing here?** We are dealing with a case **where he accepted upon himself two** terms of **naziriteship simultaneously.** The *baraita* teaches that he must observe two terms of naziriteship and bring a separate offering for each.
 
 To appreciate the need for a *pasuk*, the *Gemara* first reconstructs the *qal vachomer* one might have made in the opposite direction. The *Gemara* states: *ma shvua chamura, she'ein shvua chala al shvua* — a *shvua* is weightier, yet a *shvua* cannot take effect upon a *shvua*. If you take an oath not to eat a loaf of bread and then take a second oath to the same effect, the second one does not take effect, because you are already *mushba v'omed* — already obligated — and you cannot obligate yourself anew in the same matter. Therefore, reasons the *qal vachomer*, *nezirut kala lo kol sheken* — how much more so should the lighter category of *nezirut* be unable to double up?
 
@@ -50,9 +44,8 @@ The *Gemara* deflects: *hacha b'mai askinan k'gon shekibel alav shtei neziruyot 
 
 ### Weight of Shvua
 
-> **Hebrew/Aramaic:** וּמַאי חוּמְרָא דִּשְׁבוּעָה מִנֶּדֶר? אִילֵּימָא מִשּׁוּם דְּחָיְילָא אֲפִילּוּ עַל דָּבָר שֶׁאֵין בּוֹ מַמָּשׁ, נֶדֶר נָמֵי חָמוּר, שֶׁכֵּן חָל עַל הַמִּצְוָה כִּרְשׁוּת. אֶלָּא — מִשּׁוּם דִּכְתִיב בָּהּ בִּשְׁבוּעָה: ״לֹא יְנַקֶּה״.
->
-> **Translation:** The *baraita* stated that an oath is more stringent than a vow. The Gemara asks: **And what is the stringency of an oath vis-à-vis a vow,** such as a vow of naziriteship? **If we say** the *baraita* posits this **because** an oath, unlike a vow, **takes effect even with regard to a matter that has no actual** substance, there is a counterargument that **a vow also has stringency** vis-à-vis an oath, **in that it,** unlike an oath, **takes effect with regard to a mitzva just as** it does with regard to a matter that is **permitted. Rather,** oaths are more stringent **because it is written with regard to an oath: "The Lord will not hold guiltless** he who takes His name in vain" (Exodus 20:6).
+> **Hebrew/Aramaic:** וּמַאי חוּמְרָא דִּשְׁבוּעָה מִנֶּדֶר? אִילֵּימָא מִשּׁוּם דְּחָיְילָא אֲפִילּוּ עַל דָּבָר שֶׁאֵין בּוֹ מַמָּשׁ, נֶדֶר נָמֵי חָמוּר, שֶׁכֵּן חָל עַל הַמִּצְוָה כִּרְשׁוּת. אֶלָּא — מִשּׁוּם דִּכְתִיב בָּהּ בִּשְׁבוּעָה: ״לֹא יְנַקֶּה״.
+> **Translation:** The *baraita* stated that an oath is more stringent than a vow. The Gemara asks: **And what is the stringency of an oath vis-à-vis a vow,** such as a vow of naziriteship? **If we say** the *baraita* posits this **because** an oath, unlike a vow, **takes effect even with regard to a matter that has no actual** substance, there is a counterargument that **a vow also has stringency** vis-à-vis an oath, **in that it,** unlike an oath, **takes effect with regard to a mitzva just as** it does with regard to a matter that is **permitted. Rather,** oaths are more stringent **because it is written with regard to an oath: “The Lord will not hold guiltless** he who takes His name in vain” (Exodus 20:6).
 
 The *Gemara* then asks: *umai chumra d'shvua* — in what sense is a *shvua* said to be weightier, such that the *qal vachomer* runs from *nezirut* (the *kal*) to *shvua* (the *chamur*)? The *Gemara* first raises a possible answer and immediately complicates it: perhaps *shvua* is weightier because it takes effect even on matters that are non-physical — it obligates you to perform an action rather than conferring status on an object. But then *neder nami chamir* — a *neder* has its own weightiness: *sheken chal al mitzva k'reshut* — it can take effect on *mitzvah* objects and prevent you from performing a *mitzvah*. For instance, one can forbid all *sukkot* or all *tefillin* upon oneself, which a *shvua* cannot do, because a *shvua* that directly contradicts a Torah obligation is invalid, whereas a *neder* accomplishes the same end-result through a different mechanism.
 
@@ -60,17 +53,19 @@ Since each has an advantage over the other, the *Gemara* cannot identify a clean
 
 ### Tosafot on Lo Yenakeh
 
-There is a point worth flagging here, which Tosafot addresses. The *pasuk* of *lo yenakeh* is written in the context of *shvuat sheker* — a false oath about the past, where one invokes God's name to testify to the truth of a statement that is in fact false. That is the paradigmatic desecration of God's name: calling on God to bear witness to a lie. The *mishnah*'s case, however, involves *shvuat bituy* — an oath about future behavior, which creates an obligation. These are conceptually distinct: *shvuat bituy* is not primarily about calling God to witness a falsehood; it creates a positive obligation on the person. When you fail to fulfill it, retroactively you have backed your word with God's name and then not delivered on it — which resembles *shvuat sheker*, but the conceptual emphasis is on the obligation created rather than the invocation of the divine name.
+There is a point worth flagging here, which Tosafot addresses. The *pasuk* of *lo yenakeh* is written in the context of *shvuat sheker* — a false oath about the past, where one invokes God's name to testify to the truth of a statement that is in fact false. That is the paradigmatic desecration of God's name: calling on God to bear witness to a lie. The *mishnah*'s case, however, involves *shvuat bituy* — an oath about future behavior, which creates an obligation. These are conceptually distinct: *shvuat bituy* is not primarily about calling God to witness a falsehood; it creates a positive obligation on the person. When you fail to fulfill it, retroactively you have backed your word with God's name and then not delivered on it — which resembles *shvuat sheker*, but the conceptual emphasis is on the obligation created rather than the invocation of the divine name. This distinction also bears on how we understand *ein shvua chala al shvua*: because the governing concept in *shvuat bituy* is the obligation the oath creates, the rule against a second oath taking hold is really about the impossibility of generating a new obligation where one already exists — not about any further misuse of the divine name.
 
 Tosafot acknowledges that the *pasuk* of *lo yenakeh* is technically written in the context of *shvuat sheker*, and the *mishnah* deals with *shvuat bituy*, but concludes: *mikol makom chumra chashivuta shava hi* — nevertheless, as a category, *shvua* as a whole is weightier than *neder*, and the *Gemara* simply uses the most accessible expression of that weightiness. There are other respects in which *shvua* is more serious, which the *Gemara* in Shvuot elaborates; here the *Gemara* takes the straightforward one.
 
 ### Logic of Qal VaChomer
 
-This is a good moment to clarify the logical structure at play. A *qal vachomer* runs from the *kal* to the *chamur*: if something is true for the lighter category, it certainly holds for the weightier one. Here, you might have wanted to argue: since *neder betoch neder* works by *nezirut*, which is *kal*, it should certainly work by *shvua*, which is *chamur*. But we know it does not work by *shvua*. The *Gemara*'s move is the logical contrapositive: if it does not hold for the *chamur*, it certainly should not hold for the *kal*. If *shvua* — which is *chamur* — does not permit *ein shvua chala al shvua* to be overridden, then *nezirut* — which is *kal* — certainly should not permit it. This is the structure of *if P then Q; therefore if not-Q then not-P*. You would have expected that just as *shvua* cannot double up, neither should *nezirut* be able to — and the *pasuk* comes to teach otherwise.
+This is a good moment to clarify the logical structure at play. A *qal vachomer* runs from the *kal* to the *chamur*: if something is true for the lighter category, it certainly holds for the weightier one. Here, you might have wanted to argue: since *neder betoch neder* works by *nezirut*, which is *kal*, it should certainly work by *shvua*, which is *chamur*. But we know it does not work by *shvua*. The *Gemara*'s move is the logical contrapositive: if it does not hold for the *chamur*, it certainly should not hold for the *kal*. If *shvua* — which is *chamur* — does not permit *ein shvua chala al shvua* to be overridden, then *nezirut* — which is *kal* — certainly should not permit it. This is the structure of *if P then Q; therefore if not-Q then not-P*: if the *kal* implies the *chamur*, then the negation of the *chamur* implies the negation of the *kal*. Stated in terms of the *sugya*: since *ein shvua chala al shvua* — a *shvua* does not take effect upon a *shvua* — and *shvua* is the *chamur*, one might have concluded that *ein neder chal al neder* — a *neder* should likewise not take effect upon a *neder* — given that *neder* is the *kal*. The *pasuk* of *nezirut* comes specifically to teach that this is not so, that the doubling works there despite what you might have inferred from the harder case. You would have expected that just as *shvua* cannot double up, neither should *nezirut* be able to — and the *pasuk* comes to teach otherwise.
 
 ---
 
-## Issur Cheftza vs. Ga (II)
+## Issur Cheftza vs. Gavra
+
+
 
 ### Order of Neder/Shvua
 
@@ -122,6 +117,12 @@ A question arises: what about *hekdesh*? When one is *makdish* something — con
 
 Precisely — the Ran's point applies equally to *hekdesh*. Every *issur cheftza* translates into an *issur gavra*. What is distinctive about *hekdesh*, one might note, is that the *issur cheftza* is capable of generating an *issur gavra* not just for the one who sanctified it but for any person who might interact with it. But this is not categorically different from the Ran's point; it simply illustrates the broader reach of an *issur cheftza*. A *neder* can similarly forbid a loaf to the entire world if the person who makes the *neder* owns that loaf. The principle that *issur cheftza* implies *issur gavra* holds across these cases. Indeed, the very concept of *kedushah* carries this inherently: the object's sanctified status is not merely an internal metaphysical fact about the object but speaks directly to what any person may or may not do with it.
 
+A useful analogy: imagine a high-voltage power plant surrounded by a danger zone. The prohibition on entering starts with the place itself — something about that location makes entry objectionable — and that *issur cheftza* then translates into a directive forbidding anyone from going in. By contrast, if a parent tells a specific child to stay out of a particular room, there is no *issur cheftza* with the room whatsoever; the room is entirely neutral. The restriction is purely about where that person is permitted to be. The distinction captures the difference between a status that originates with the object and radiates outward to persons, and one that originates entirely as a personal directive without any claim about the object itself.
+
+This brings us to a broader observation. One might be tempted to argue that every prohibition in the Torah is inherently an *issur gavra*, since the Torah always ultimately addresses human behavior — it tells you what to do or not do. The Ran, however, resists collapsing the distinction. It is true that every *lo ta'aseh* in the Torah is, at some level, an *issur gavra* — the Torah is not merely informing you that *chazir* is metaphysically problematic and leaving it there. It is telling you not to eat it. But this does not mean that every prohibition is *only* an *issur gavra*. Some prohibitions begin with a status that is genuinely about the object, and that object-level status then generates the personal prohibition. The *issur cheftza* does not terminate at the level of the object; it translates into an *issur gavra*. But the direction of derivation matters: some *lo ta'aseh* formulations start from something fundamentally problematic about the thing itself, and others do not. The question of which prohibitions carry an underlying *issur cheftza* and which are purely personal directives is itself an open and interesting one — a question the discussion of *basar b'chalav* will take up in the following section.
+
+For the purposes of *nedarim*, however, the operative question is not whether a Torah prohibition is *issur gavra* or *issur cheftza* in the abstract, but whether the object in question is a *davar hanadur* — something whose forbidden status derives from speech-act dedication — or not. That is the criterion for whether a *neder* can use it as a reference point.
+
 ### Meat and Milk
 
 The conceptual framework of *issur gavra* versus *issur cheftza* opens onto a rich set of questions about Torah prohibitions generally. Take the prohibition of *basar b'chalav* — meat and milk. One approach holds that the primary prohibition of the Torah is simply not to eat them together; everything else — the prohibition on cooking them, on deriving benefit — is secondary and constructed to protect the eating prohibition. Under this view, the orientation is fundamentally personal and action-centered: there is nothing problematic about the combination per se, only about what you do with it. This is closer to a pure *issur gavra* orientation.
@@ -136,49 +137,49 @@ For the purposes of *Nedarim*, the operative question is not whether a Torah pro
 
 ## Retroactive Effect
 
+
+
 ### Rava's Retroactivity
 
-> **Hebrew/Aramaic:** ״שְׁבוּעָה שֶׁלֹּא אוֹכַל, שְׁבוּעָה שֶׁלֹּא אוֹכַל״, וְאָכַל — אֵינוֹ חַיָּיב אֶלָּא אַחַת. אָמַר רָבָא: אִם נִשְׁאַל עַל הָרִאשׁוֹנָה — שְׁנִיָּה חָלָה עָלָיו.
->
-> **Translation:** It is taught in the mishna that if one said: I hereby take **an oath that I will not eat,** I hereby take **an oath that I will not eat, and he** then **ate, he is liable** to bring an offering for **only one** violation of an oath. **Rava said: If he requested** and received dissolution from a halakhic authority **for the first** oath, **the second** oath **takes effect upon him.**
+> **Hebrew/Aramaic:** ״שְׁבוּעָה שֶׁלֹּא אוֹכַל, שְׁבוּעָה שֶׁלֹּא אוֹכַל״, וְאָכַל — אֵינוֹ חַיָּיב אֶלָּא אַחַת. אָמַר רָבָא: אִם נִשְׁאַל עַל הָרִאשׁוֹנָה — שְׁנִיָּה חָלָה עָלָיו. מִמַּאי — מִדְּלָא קָתָנֵי ״אֵינוֹ אֶלָּא אַחַת״, וְקָתָנֵי ״אֵינוֹ חַיָּיב אֶלָּא אַחַת״, רַוְוחָא הוּא דְּלֵית לַהּ. כִּי מִיתְּשִׁיל עַל חֲבֶירְתַּהּ — חָיְילָא.
+> **Translation:** § It is taught in the mishna that if one said: I hereby take **an oath that I will not eat,** I hereby take **an oath that I will not eat, and he** then **ate, he is liable** to bring an offering for **only one** violation of an oath. **Rava said: If he requested** and received dissolution from a halakhic authority **for the first** oath, **the second** oath **takes effect upon him. From where** is this derived? **From** the fact **that it is not taught** in the mishna that **there is only one,** i.e., it is as though he took only one oath as the oaths are identical. **Rather, it is taught** that **he is liable for only one.** Evidently, he is not liable for the second oath only because it **does not have a span** of time in which to take effect, as he is already under oath not to eat. However, **when he requests** dissolution of **the other** oath, i.e. the first oath, the second oath has a span of time in which to take effect, and **takes effect.**
 
-The *Gemara* now transitions to a related question. The *mishnah* establishes that when someone makes a *shvua* and then makes a second *shvua* on the same matter — *shvua shelo ochal v'achal eino chayav ela achat* — he violates only once. The second *shvua* does not take effect because one is already *mushba v'omed*. Rava, however, asserts: *nish'al al rishona, shniya chala alav* — if the person petitions a *chacham* and has the first *shvua* dissolved through *heter*, the second *shvua* takes retroactive effect. Even though the second *shvua* was meaningless at the moment of utterance — since the first was already operative — once the first is removed, the second comes into force.
+The *Gemara* now transitions to a related question. The *mishnah* establishes that when someone makes a *shvua* and then makes a second *shvua* on the same matter — *shvua shelo ochal v'achal eino chayav ela achat* — he violates only once. The second *shvua* does not take effect because one is already *mushba* and *omed*. Rava, however, asserts: *nish'al al rishona, shniya chala alav* — if the person petitions a *chacham* and has the first *shvua* dissolved through *heter*, the second *shvua* takes retroactive effect. Even though the second *shvua* was meaningless at the moment of utterance — since the first was already operative — once the first is removed, the second comes into force.
 
 This is a striking principle. One might have argued that a statement which is entirely without force at the moment it is uttered is simply null — a *davar she'ein bo mamash*, a nothing. How can it hover and then retroactively take effect?
 
 ### Revach Concept
 
-> **Hebrew/Aramaic:** מִמַּאי — מִדְּלָא קָתָנֵי ״אֵינוֹ אֶלָּא אַחַת״, וְקָתָנֵי ״אֵינוֹ חַיָּיב אֶלָּא אַחַת״, רַוְוחָא הוּא דְּלֵית לַהּ. כִּי מִיתְּשִׁיל עַל חֲבֶירְתַּהּ — חָיְילָא.
->
-> **Translation:** From where** is this derived? **From** the fact **that it is not taught** in the mishna that **there is only one,** i.e., it is as though he took only one oath as the oaths are identical. **Rather, it is taught** that **he is liable for only one.** Evidently, he is not liable for the second oath only because it **does not have a span** of time in which to take effect, as he is already under oath not to eat. However, **when he requests** dissolution of **the other** oath, i.e. the first oath, the second oath has a span of time in which to take effect, and **takes effect.**
-
 The *Gemara*'s language is illuminating. It does not say the second *shvua* is null; it says *revacha hu de-leit lei* — it has no *revach*, no space, no room in which to operate. This language is remarkable because it treats the *shvua* as something concrete — an obligation-object that requires physical space in which to exist. The first *shvua* occupies that space entirely, leaving no room for the second. But the second is nonetheless present, hovering, awaiting an opening. When the first is dissolved, the space opens, and the second takes effect. The obligations and statuses created by speech are being conceptualized with something close to physicality — they occupy space, they compete for room, they hover.
 
 ### Two Neziruyot
 
-> **Hebrew/Aramaic:** לִישָּׁנָא אַחֲרִינָא: חִיּוּבָא הוּא דְּלֵיכָּא, הָא שְׁבוּעָה אִיכָּא. לְמַאי הִלְכְתָא? לְכִדְרָבָא. דְּאָמַר רָבָא: נִשְׁאַל עַל הָרִאשׁוֹנָה — עָלְתָה לוֹ שְׁנִיָּה תַּחְתֶּיהָ.
->
-> **Translation:** **Another version** of Rava's proof from the mishna is that it may be inferred from the statement: He is liable for only one, that although **there is no liability** to bring an offering for violating the second oath, **there is** an effective **oath.** But if there is no liability, then **with regard to what *halakha*** is it effective? Certainly it is effective **with regard to** the statement **of Rava, as Rava said: If he requested** and received dissolution from a halakhic authority **for the first** oath, **the second is counted for him in its place.**
+> **Hebrew/Aramaic:** לִישָּׁנָא אַחֲרִינָא: חִיּוּבָא הוּא דְּלֵיכָּא, הָא שְׁבוּעָה אִיכָּא. לְמַאי הִלְכְתָא? לְכִדְרָבָא. דְּאָמַר רָבָא: נִשְׁאַל עַל הָרִאשׁוֹנָה — עָלְתָה לוֹ שְׁנִיָּה תַּחְתֶּיהָ.
+> **Translation:** **Another version** of Rava’s proof from the mishna is that it may be inferred from the statement: He is liable for only one, that although **there is no liability** to bring an offering for violating the second oath, **there is** an effective **oath.** But if there is no liability, then **with regard to what *halakha*** is it effective? Certainly it is effective **with regard to** the statement **of Rava, as Rava said: If he requested** and received dissolution from a halakhic authority **for the first** oath, **the second is counted for him in its place.**
+
+> **Hebrew/Aramaic:** לֵימָא מְסַיַּיע לֵיהּ: מִי שֶׁנָּדַר שְׁתֵּי נְזִירוֹת וּמָנָה אֶת הָרִאשׁוֹנָה, וְהִפְרִישׁ קׇרְבָּן וְנִשְׁאַל עָלֶיהָ — עָלְתָה לוֹ שְׁנִיָּה בָּרִאשׁוֹנָה.
+> **Translation:** The Gemara proposes: **Let us say** that the following mishna (*Shevuot* 27b) **supports his** opinion: In the case of **one who took two** vows of **naziriteship, and counted the first** term, **and set aside an offering, and requested** and received dissolution from a halakhic authority **for** the first oath, **the second** term **counts for him instead of the first.** Evidently, although initially the second term of naziriteship did not have a span of time in which to take effect, it was not completely void. Therefore, when the first vow was dissolved, the second one immediately took its place. It may be proved from here that this is true with regard to oaths as well.
 
 The *Gemara* attempts to derive Rava's principle from the case of two *neziruyot*. If someone accepted two *neziruyot* — *mi she-nadar shtei nezirot u-manat et ha-rishona ve-hifrish korban* — counted the first *nezirut*, separated a *korban*, and then obtained a *heter* on the first *nezirut*, *ala lo shniya bi-rishona* — the second *nezirut* is considered to have been operative from the start, and the days already counted apply retroactively to the second. The second *nezirut* hovered and, upon dissolution of the first, retroactively took its place. This seems to be strong support for Rava's principle.
 
 ### Bat Achat Status
 
-> **Hebrew/Aramaic:** כְּגוֹן שֶׁקִּיבֵּל עָלָיו שְׁתֵּי נְזִירוּת בְּבַת אַחַת.
->
-> **Translation:** The Gemara refutes this proof: That mishna may be referring to a case **where he accepted upon himself two** terms of **naziriteship simultaneously.**
+> **Hebrew/Aramaic:** כְּגוֹן שֶׁקִּיבֵּל עָלָיו שְׁתֵּי נְזִירוֹת בְּבַת אַחַת.
+> **Translation:** The Gemara refutes this proof: That mishna may be referring to a case **where he accepted upon himself two** terms of **naziriteship simultaneously.** Since two terms cannot be observed concurrently, when he accepts two terms simultaneously, the *halakha* is that the second term commences immediately following the close of the first, which immediately took effect upon sequential periods of time. However, when one takes an oath prohibiting himself from a matter that is already prohibited by an oath in the same period of time, the second oath may not take effect at all.
 
 The *Gemara* deflects the proof: *hacha b'mai askinan k'gon shekibel alav shtei neziruyot b'vat achat* — perhaps the case of two *neziruyot* refers specifically to the scenario where both were accepted simultaneously in a single utterance. In that case, we have already accepted that the simultaneous acceptance creates the hovering phenomenon: one takes effect, the other hovers, and if the first is dissolved, the second retroactively fills its place. This is structurally different from the sequential case, where one *shvua* was already in force before the second was uttered. In the *bat achat* scenario, because they were created together as a single package, the hovering status is constitutive and built-in. The *Gemara* is suggesting that perhaps Rava's extension to the sequential *shvua* case is not proven from the *nezirut* example.
 
-### Sequential vs. Simultaneous
+### Sequential vs
 
 And yet Rava's assertion stands: even in the sequential case, where the second *shvua* was uttered after the first was already operative, the second one nonetheless hovers — *revacha hu de-leit lei* — and will take effect if the first is dissolved. The *lishna achrina* of the *Gemara* reinforces this: *chiyuva hu de-leka, ha-shvuah ika* — the obligation to bring a *korban* or the liability for violation may not exist, but the *shvua* itself is still present. The practical implication — *le-mai hilchata* — is precisely *de-Rava*: if you dissolve the first *shvua*, *chala lo shniya tachteiha*, the second takes its place. Even by *shvua*, where we say *ein shvua chala al shvua*, the focus remains on the obligation-creating dimension of the *shvua*, and even there the second one hovers with just no room to operate, until the first is removed.
 
 ---
 
-## Power of Words
+## Issur Cheftza vs. Ga (II)
 
-### Issur Cheftza vs. Ga (II)vra
+
+
+### Power of Words
 
 It is worth pausing over what *Masechet Nedarim* reveals about the nature of speech. The *Gemara*'s language — that the second *shvua* has no *revach*, no space — treats obligations and statuses created by words as if they were concrete, quasi-physical entities that occupy space, hover, and compete. This is not incidental to the *sugya*; it is, in a sense, its deepest teaching. When one says *konam* or takes a *shvua*, one is not merely expressing an intention. One is creating a status — of an object, of oneself — that now has an independent existence in the world of *halacha*. It competes with other statuses, it occupies conceptual space, it can hover waiting for room to take effect. The tractate of *Nedarim* is, among other things, a meditation on the creative power of speech: how words construct religious realities, generate obligations, transform the status of objects, and build what might be called a personal religious world alongside the pre-existing structure of Torah obligations. Much as a *bamah* was a personal, do-it-yourself site of worship — the *Gemara* elsewhere compares *nedarim* to this — so one who makes *nedarim* is in a sense constructing his own overlay of sanctity and prohibition on a neutral world. The statuses thus created are real, weighty, and interact with one another in all the ways we have been tracing.
 
@@ -186,19 +187,22 @@ It is worth pausing over what *Masechet Nedarim* reveals about the nature of spe
 
 ## Stam Nedarim Lehachmir
 
-### Opening Principle
 
-> **Hebrew/Aramaic:** מַתְנִי׳ סְתַם נְדָרִים לְהַחֲמִיר, וּפֵירוּשָׁם לְהָקֵל.
->
-> **Translation:** MISHNA: **Unspecified vows** are treated **stringently, but their specification,** if specification is necessary, is treated **leniently.**
+
+[DAF:18b]
+### Opening Principle
 
 The *mishnah* now presents a principle that addresses a question that has been hovering throughout the tractate: *stam nedarim lehachmir u-peirusham lehakel* — unspecified *nedarim* are given the stricter interpretation, while an articulated clarification is given the more lenient one. This principle speaks directly to the recurring question of why we do not simply ask the person what he meant. The answer embedded in the *mishnah* is that we do ask — and when he tells us, we follow the lenient interpretation. But when he does not tell us, or cannot tell us, we default to strict.
 
+> **Hebrew/Aramaic:** מַתְנִי׳ סְתַם נְדָרִים לְהַחֲמִיר, וּפֵירוּשָׁם לְהָקֵל. כֵּיצַד? אָמַר ״הֲרֵי עָלַי כְּבָשָׂר מָלִיחַ״ ״כְּיֵין נֶסֶךְ״, אִם בְּשֶׁל שְׁלָמִים נָדַר — אָסוּר.
+> **Translation:** MISHNA: **Unspecified vows** are treated **stringently, but their specification,** if specification is necessary, is treated **leniently. How so?** If one **said: This** item is prohibited **to me like salted meat,** or: This item is prohibited to me **like** the **wine** used for **libations, if he vowed in reference to** meat or libations **of a peace-offering,** i.e., if he claimed that his intention was that the item will be forbidden to him like the salted meat of an offering, or like wine that is used for libations on the altar, it is **forbidden,** as he associated the item of the vow with an item forbidden by means of a vow, i.e., the offering.
+
+> **Hebrew/Aramaic:** אִם בְּשֶׁל עֲבוֹדָה זָרָה נָדַר — מוּתָּר. וְאִם סְתָם — אָסוּר.
+> **Translation:** **If** he claims that **he vowed in reference to** meat or libations **of idol worship,** i.e., that the item will be like the salted meat of an offering for an idol, or like wine that is used for libations as idol worship, it is **permitted,** as the item of the vow was associated with an item forbidden by the Torah. By enabling the one who took the vow to later clarify his intent, the vow is treated leniently. **And if** the vow was **without specification,** i.e., the one who took the vow did not specify whether his intention was to associate the item with an offering for Heaven or to associate the item with idol worship, it is **forbidden.**
+
 ### Sacrificial Examples
 
-> **Hebrew/Aramaic:** כֵּיצַד? אָמַר ״הֲרֵי עָלַי כְּבָשָׂר מָלִיחַ״ ״כְּיֵין נֶסֶךְ״, אִם בְּשֶׁל שְׁלָמִים נָדַר — אָסוּר. אִם בְּשֶׁל עֲבוֹדָה זָרָה נָדַר — מוּתָּר. וְאִם סְתָם — אָסוּר.
->
-> **Translation:** **How so?** If one **said: This** item is prohibited **to me like salted meat,** or: This item is prohibited to me **like** the **wine** used for **libations, if he vowed in reference to** meat or libations **of a peace-offering,** i.e., if he claimed that his intention was that the item will be forbidden to him like the salted meat of an offering, or like wine that is used for libations on the altar, it is **forbidden,** as he associated the item of the vow with an item forbidden by means of a vow, i.e., the offering. **If** he claims that **he vowed in reference to** meat or libations **of idol worship,** i.e., that the item will be like the salted meat of an offering for an idol, or like wine that is used for libations as idol worship, it is **permitted,** as the item of the vow was associated with an item forbidden by the Torah. By enabling the one who took the vow to later clarify his intent, the vow is treated leniently. **And if** the vow was **without specification,** i.e., the one who took the vow did not specify whether his intention was to associate the item with an offering for Heaven or to associate the item with idol worship, it is **forbidden.**
+
 
 *Keitzad* — what are the examples? The *mishnah* says: *harei alai k'basar maliach k'yayin nesech* — let this be forbidden to me like salted meat or like wine of libation. Two possible meanings present themselves. Salted meat is associated with sacrificial meat, since *kol korban chovatcha takriv melach* — all your obligatory offerings require salt. *Yayin nesech* — wine of libation — can refer either to *nesachim*, the wine poured on the altar as part of the Temple service, or to wine poured as a libation to *avodah zarah*. These are radically different referents with opposite halachic consequences.
 
@@ -210,24 +214,21 @@ One might ask: what if the person says he had no particular meaning in mind, tha
 
 ### Cherem Example
 
-> **Hebrew/Aramaic:** ״הֲרֵי עָלַי כְּחֵרֶם״, אִם כְּחֵרֶם שֶׁל שָׁמַיִם — אָסוּר, וְאִם כְּחֵרֶם שֶׁל כֹּהֲנִים — מוּתָּר. וְאִם סְתָם — אָסוּר.
->
+> **Hebrew/Aramaic:** ״הֲרֵי עָלַי כְּחֵרֶם״, אִם כְּחֵרֶם שֶׁל שָׁמַיִם — אָסוּר, וְאִם כְּחֵרֶם שֶׁל כֹּהֲנִים — מוּתָּר. וְאִם סְתָם — אָסוּר.
 > **Translation:** Similarly, if one said: **This** item is **hereby** forbidden **to me** like an item dedicated to the Temple, **if** his intention was that it would be **like a dedication to Heaven,** which is a form of consecration, **it is forbidden. And if** his intention was that it would be **like a dedication to priests,** whereby one pledges his asset as a gift to priests, **it is permitted,** as this type of gift is not forbidden at all. **And if** he said it **without specification,** it is **forbidden.**
 
 *Harei alai kecherem* — let this be upon me like *cherem*. *Cherem* admits of two referents: *cherem shel shamayim* — consecrated to the *Beit HaMikdash* — and *cherem shel kohanim* — dedicated to the *kohanim* for their use. The former is forbidden to all; the latter is permissible to those who receive it. *Im kecherem shel shamayim, assur* — that is a *davar hanadur* and forbidden. *V'im kecherem shel kohanim, mutar* — that is not forbidden to people, so it cannot serve as a *neder* reference point. *V'im stam, assur* — unspecified, we give it the strict meaning.
 
 ### Ma'aser Example
 
-> **Hebrew/Aramaic:** ״הֲרֵי עָלַי כְּמַעֲשֵׂר״, אִם כְּמַעְשַׂר בְּהֵמָה נָדַר — אָסוּר. וְאִם שֶׁל גּוֹרֶן, — מוּתָּר. וְאִם סְתָם — אָסוּר.
->
+> **Hebrew/Aramaic:** ״הֲרֵי עָלַי כְּמַעֲשֵׂר״, אִם כְּמַעְשַׂר בְּהֵמָה נָדַר — אָסוּר. וְאִם שֶׁל גּוֹרֶן, — מוּתָּר. וְאִם סְתָם — אָסוּר.
 > **Translation:** Likewise, if he said: **This** item **is hereby** forbidden **to me like tithes, if he took a vow** with the intention that it would be **like the animal tithe,** it is **forbidden,** as the item of the vow was associated with an item forbidden by a vow. **And if** his intention was that it will be like the tithe **of the granary,** i.e., grain that is given to the Levites and has no sanctity, it is **permitted. And if** he said it **without specification,** it is **forbidden.**
 
 *Harei alai kema'aser* — let this be upon me like *ma'aser*. Again, two referents: *ma'aser behemah* — the animal tithe — and *ma'aser goren* — the grain tithe. *Im kema'aser behemah nadar, assur*: the animal tithe is a *korban* and is forbidden to be eaten by ordinary people; it is both a *davar hanadur* and a *davar ha'assur*. *V'im shel goren, mutar*: the grain tithe (*ma'aser rishon* or *ma'aser sheni*), while it is a *davar hanadur* in the sense that it is set aside through designation, it is not a *davar ha'assur* — it is permissible for consumption. Therefore it cannot serve as a reference point for creating a prohibition. *V'im stam, assur* — without clarification, the strict meaning governs.
 
 ### Terumah Example
 
-> **Hebrew/Aramaic:** ״הֲרֵי עָלַי כִּתְרוּמָה״, אִם כִּתְרוּמַת הַלִּשְׁכָּה נָדַר — אָסוּר. וְאִם שֶׁל גּוֹרֶן — מוּתָּר. וְאִם סְתָם — אָסוּר. דִּבְרֵי רַבִּי מֵאִיר.
->
+> **Hebrew/Aramaic:** ״הֲרֵי עָלַי כִּתְרוּמָה״, אִם כִּתְרוּמַת הַלִּשְׁכָּה נָדַר — אָסוּר. וְאִם שֶׁל גּוֹרֶן — מוּתָּר. וְאִם סְתָם — אָסוּר. דִּבְרֵי רַבִּי מֵאִיר.
 > **Translation:** Similarly, if he said: **This** item **is hereby** forbidden **to me like *teruma*, if he took a vow** with the intention that it would be **like the collection of the** Temple treasury **chamber [*terumat halishka*],** which is a tax for the communal offerings, it is **forbidden,** his vow was associated with an item forbidden by a vow. **And if** his intention was that it would be like *teruma* **of the granary** that is given to the priests, it is **permitted,** as *teruma* is not an item forbidden by a vow. **And if** the vow was taken **without specification,** it is **forbidden.** This is **the statement of Rabbi Meir.**
 
 *Harei alai kiterumah* — let this be upon me like *terumah*. Two referents: *terumat halishkah* — the annual donation to the *Beit HaMikdash* treasury (the *machatzit hashekel*) — and *terumah goren* — the priestly tithe separated from grain. *Im kiterumat halishkah nadar, assur*: this is forbidden to all and dedicated to the *Beit HaMikdash*, a clear *davar hanadur*. *V'im shel goren, mutar*: *terumah* of the grain is not a *davar hanadur* for the purposes of *neder* — either because it is not forbidden to all (being permitted to *kohanim*) or, as the Rambam suggests, because it is not a freely undertaken vow but a Torah-imposed obligation, and thus does not qualify as a *davar hanadur*. *V'im stam, assur* — the last statement is attributed specifically to Rabbi Meir, and it is this attribution that opens the door for Rabbi Yehudah's qualification.
@@ -236,13 +237,14 @@ One might ask: what if the person says he had no particular meaning in mind, tha
 
 ## Rabbi Yehudah
 
+
+
 ### Terumah Regional
 
-> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: סְתַם תְּרוּמָה, בִּיהוּדָה — אֲסוּרָה, בַּגָּלִיל — מוּתֶּרֶת, שֶׁאֵין אַנְשֵׁי גָלִיל מַכִּירִין אֶת תְּרוּמַת הַלִּשְׁכָּה. סְתַם חֲרָמִים, בִּיהוּדָה — מוּתָּרִין, בַּגָּלִיל — אֲסוּרִין, שֶׁאֵין אַנְשֵׁי גָלִיל מַכִּירִין אֶת חֶרְמֵי הַכֹּהֲנִים.
->
-> **Translation:** **Rabbi Yehuda says: Unspecified *teruma* in Judea is forbidden.** However, **in the Galilee it is permitted, as the people of the Galilee are unfamiliar with the collection of the chamber.** When they say *teruma* they are referring to the *teruma* allotted to the priests, which is familiar to them. Conversely, **unspecified dedications in Judea are permitted,** but **in the Galilee they are forbidden, as the people of the Galilee are unfamiliar with dedications** allotted **to the priests,** so when they say dedication they are referring to dedication to Heaven.
-
 Rabbi Yehudah says: the strict default for unspecified *terumah* applies only in *Yehudah*, not in the *Galil*. *Stam terumah bi'Yehudah asurah, ba'Galil muteret* — in the *Galil* it is permitted even without clarification. The reason: *she'ein anshei Galil makirim et terumat halishkah* — the people of the *Galil* are not familiar with *terumat halishkah*. The *Beit HaMikdash* is not in their environment; the concept of *terumat halishkah* as a donation to the Temple treasury is not part of their daily consciousness.
+
+> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: סְתַם תְּרוּמָה, בִּיהוּדָה — אֲסוּרָה, בַּגָּלִיל — מוּתֶּרֶת, שֶׁאֵין אַנְשֵׁי גָלִיל מַכִּירִין אֶת תְּרוּמַת הַלִּשְׁכָּה. סְתַם חֲרָמִים, בִּיהוּדָה — מוּתָּרִין, בַּגָּלִיל — אֲסוּרִין, שֶׁאֵין אַנְשֵׁי גָלִיל מַכִּירִין אֶת חֶרְמֵי הַכֹּהֲנִים.
+> **Translation:** **Rabbi Yehuda says: Unspecified *teruma* in Judea is forbidden.** However, **in the Galilee it is permitted, as the people of the Galilee are unfamiliar with the collection of the chamber.** When they say *teruma* they are referring to the *teruma* allotted to the priests, which is familiar to them. Conversely, **unspecified dedications in Judea are permitted,** but **in the Galilee they are forbidden, as the people of the Galilee are unfamiliar with dedications** allotted **to the priests,** so when they say dedication they are referring to dedication to Heaven.
 
 ### Default Modifier
 
@@ -252,9 +254,6 @@ The phenomenon of what becomes the default and what requires modification is alw
 
 ### Cherem Regional
 
-> **Hebrew/Aramaic:** סְתַם חֲרָמִים, בִּיהוּדָה — מוּתָּרִין, בַּגָּלִיל — אֲסוּרִין, שֶׁאֵין אַנְשֵׁי גָלִיל מַכִּירִין אֶת חֶרְמֵי הַכֹּהֲנִים.
->
-> **Translation:** Conversely, **unspecified dedications in Judea are permitted,** but **in the Galilee they are forbidden, as the people of the Galilee are unfamiliar with dedications** allotted **to the priests,** so when they say dedication they are referring to dedication to Heaven.
 
 Rabbi Yehudah then applies the same logic in the opposite direction for *cherem*: *stam charamim bi'Yehudah mutarin, baGalil asurin*. In *Yehudah*, unspecified *cherem* is permissible; in the *Galil*, it is forbidden. Why? *She'ein anshei Galil makirin et charmei kohanim* — the people of the *Galil* are not familiar with the concept of *cherem* given to *kohanim*. In the *Galil*, the word *cherem* evokes only *cherem* consecrated to the *Beit HaMikdash*, which is the strict, forbidden category. *Cherem* given to *kohanim* would need a modifier there. Therefore *stam cherem* in the *Galil* is the strict meaning and the result is *assur*.
 

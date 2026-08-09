@@ -1,0 +1,331 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Gamliel vs. Akiva",
+    "candidates": [
+      "Rashi: Sunlight",
+      "Tosafot: Sun & Roof",
+      "Gamliel vs. Akiva",
+      "Wind Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the gemara identifying the mishna as Rabbi Akiva's opinion and citing the baraita about Rabban Gamliel vs. Rabbi Akiva on a sukkah atop a ship, which is exactly what the 'Gamliel vs. Akiva' section prose describes.",
+      "chosen_heading": "Gamliel vs. Akiva",
+      "current_heading": "Gamliel vs. Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Wind Story",
+    "candidates": [
+      "Wind Story",
+      "Wind Standards",
+      "Gamliel: Permanent",
+      "Akiva: Temporary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident (Rabban Gamliel and Rabbi Akiva on a ship, Akiva building a sukkah, the wind uprooting it, Gamliel's pointed remark) that the 'Wind Story' prose section narrates and analyzes.",
+      "chosen_heading": "Wind Story",
+      "current_heading": "Wind Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Akiva: Temporary",
+    "candidates": [
+      "Wind Standards",
+      "Gamliel: Permanent",
+      "Akiva: Temporary",
+      "Meir vs. Yehuda",
+      "Yehuda: Seven Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's full analysis including all three cases (cannot withstand typical land wind, can withstand atypical land wind, and the disputed middle case) plus both Rabban Gamliel's and Rabbi Akiva's positions \u2014 this entire unit belongs under 'Wind Standards' where the prose explicitly describes Abaye mapping out the full range of cases including both opinions.",
+      "chosen_heading": "Wind Standards",
+      "current_heading": "Akiva: Temporary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Yehuda: Seven Days",
+    "candidates": [
+      "Meir vs. Yehuda",
+      "Yehuda: Seven Days",
+      "Meir: Torah vs. Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the identification of the mishna's author as Rabbi Meir AND Rabbi Yehuda's reasoning from the verse, making it a unified passage that belongs under heading 0 ('Meir vs. Yehuda'), which introduces the baraita and the dispute \u2014 headings 1 and 2 cover the subsequent gemara analysis of each position separately, but this single quoted passage encompasses the whole unit starting from 'who is the tanna of the mishna.'",
+      "chosen_heading": "Meir vs. Yehuda",
+      "current_heading": "Yehuda: Seven Days",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Meir: Torah vs. Rabbanan",
+    "candidates": [
+      "Yehuda: Seven Days",
+      "Meir: Torah vs. Rabbanan",
+      "Animal as Dofen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Meir's argument that the sukka is fit mi-d'oraita and it is only the Rabbanan who issued a decree, which is precisely what the prose under 'Meir: Torah vs. Rabbanan' discusses.",
+      "chosen_heading": "Meir: Torah vs. Rabbanan",
+      "current_heading": "Meir: Torah vs. Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Animal as Dofen",
+    "candidates": [
+      "Animal as Dofen",
+      "Death vs. Flight",
+      "Elephant Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about using an animal as a dofen, Rabbi Meir's general principle about animate objects, and Rabbi Yose HaGelili's addition about gittin \u2014 exactly what the prose under 'Animal as Dofen' describes and introduces.",
+      "chosen_heading": "Animal as Dofen",
+      "current_heading": "Animal as Dofen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Elephant Analysis",
+    "candidates": [
+      "Death vs. Flight",
+      "Elephant Analysis",
+      "Tied Animal Debate",
+      "Death Uncommon",
+      "Rope Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items work through the elephant analysis \u2014 tied vs. untied elephant cases, then the gemara's rejection and reframing \u2014 which is precisely what the 'Elephant Analysis' prose describes, including the conclusion that an untied elephant is problematic for everyone and the machlokes must lie elsewhere.",
+      "chosen_heading": "Elephant Analysis",
+      "current_heading": "Elephant Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rope Setup",
+    "candidates": [
+      "Tied Animal Debate",
+      "Death Uncommon",
+      "Rope Setup",
+      "Shrinkage Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage addresses both the 'death is not common' answer and the gap-between-legs problem with its palm/laurel solution, but the gap question and its answer are the primary content, matching the 'Rope Setup' section's prose about filling the space beneath the animal's body \u2014 the death-uncommon answer is just a brief transitional point before the main gap discussion.",
+      "chosen_heading": "Rope Setup",
+      "current_heading": "Rope Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Shrinkage Risk",
+    "candidates": [
+      "Shrinkage Risk",
+      "Abaye Query",
+      "Terumah Widow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the scenario where the animal dies and contracts away from the schach, invalidating the lavud measurement without the owner noticing \u2014 exactly what the 'Shrinkage Risk' prose describes.",
+      "chosen_heading": "Shrinkage Risk",
+      "current_heading": "Shrinkage Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Terumah Widow",
+    "candidates": [
+      "Abaye Query",
+      "Terumah Widow",
+      "Conditional Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge to Abaye's framework ('And did Abaye say...?'), which belongs under the 'Abaye Query' heading that explicitly describes the Gemara stepping back to challenge Abaye's construction, not under 'Terumah Widow' which describes the mishna's content in isolation.",
+      "chosen_heading": "Abaye Query",
+      "current_heading": "Terumah Widow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Conditional Get",
+    "candidates": [
+      "Terumah Widow",
+      "Conditional Get",
+      "Initial Harmony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the contradictory case of the conditional get forbidding teruma immediately, which is exactly what the 'Conditional Get' section's prose describes as the contradictory ruling being adduced.",
+      "chosen_heading": "Conditional Get",
+      "current_heading": "Conditional Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Initial Harmony",
+    "candidates": [
+      "Initial Harmony",
+      "Wine Flask"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's resolution attributing the two mishnot to Rabbi Meir and Rabbi Yehuda respectively, which is precisely what the 'Initial Harmony' prose describes.",
+      "chosen_heading": "Initial Harmony",
+      "current_heading": "Initial Harmony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Wine Flask",
+    "candidates": [
+      "Wine Flask",
+      "Ipcha Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita about purchasing wine from Samaritans and the dispute between Rabbi Meir and Rabbis Yehuda/Yosi/Shimon, which is exactly what the 'Wine Flask' prose describes in detail.",
+      "chosen_heading": "Wine Flask",
+      "current_heading": "Wine Flask",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Ipcha Reversal",
+    "candidates": [
+      "Ipcha Reversal",
+      "Meir Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the *ipcha* (reversal) of attributions between Rabbi Meir and Rabbi Yehuda regarding concern about death, along with the *sukkah* baraita proof \u2014 exactly what the 'Ipcha Reversal' section's prose describes.",
+      "chosen_heading": "Ipcha Reversal",
+      "current_heading": "Ipcha Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Meir Defense",
+    "candidates": [
+      "Meir Defense",
+      "Yehuda Breira",
+      "Debate Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the contradiction between Rabbi Meir's two positions and his resolution (death is common, flask-breaking is not common and can be guarded against), which is precisely what the 'Meir Defense' prose section describes.",
+      "chosen_heading": "Meir Defense",
+      "current_heading": "Meir Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Debate Separation",
+    "candidates": [
+      "Yehuda Breira",
+      "Debate Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute the continuous gemara exchange about Rabbi Yehuda's contradiction between sukka and tithes, resolved via breira rather than flask-bursting concern \u2014 exactly what heading 0 ('Yehuda Breira') describes in its prose, including the flask-breaking argument as Rabbi Yehuda challenging Rabbi Meir on his own terms and Rabbi Meir's 'when it breaks' response.",
+      "chosen_heading": "Yehuda Breira",
+      "current_heading": "Debate Separation",
+      "moved": true
+    }
+  }
+]

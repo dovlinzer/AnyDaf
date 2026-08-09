@@ -212,8 +212,8 @@
           "timestamp": "32:19"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mumar Ochel Neveilot: Pleasure vs. Money and the Definition of Rasha (continued)",
@@ -231,8 +231,8 @@
           "timestamp": "33:04"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Two Categories of Witness Invalidity: Rasha de-Chamas and Formal Rasha",
@@ -245,8 +245,8 @@
           "timestamp": "32:37"
         }
       ],
-      "sefaria_index": 9,
-      "matched": false
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Resolving Abaye and Rava Through the Tannaim: Rabbi Meir vs. Rabbi Yossi",
@@ -274,7 +274,7 @@
           "timestamp": "39:39"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -654,5 +654,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 11,
+  "amud_b_timestamp": "44:27",
+  "amud_b_micro_title": "Counter-Testimony",
+  "shiur_start_daf": 26,
+  "shiur_start_amud": "b"
 }

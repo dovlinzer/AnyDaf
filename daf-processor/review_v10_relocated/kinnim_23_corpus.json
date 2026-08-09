@@ -1,0 +1,47 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "4+4 Mixing",
+    "candidates": [
+      "Chova Structure",
+      "One Bird Flies",
+      "Pairing Solution",
+      "4+4 Mixing",
+      "Fixing Identity Problem",
+      "Pesul Principle",
+      "First Flight",
+      "Return Flight",
+      "Worst Case ABAB",
+      "Multiple Flyings",
+      "Setup 1-7",
+      "In-Out Rule",
+      "Logic Check",
+      "Second Round",
+      "Seventh Group",
+      "Metot Mixing",
+      "Stuma Flies In",
+      "Pairing Remaining",
+      "Setup Trio",
+      "No Loss First",
+      "Middle Dies",
+      "Continuous Cycle",
+      "Same Species Rule",
+      "Pigeon-Dove Case",
+      "Dove-Pigeon Case",
+      "Ben Azzai View",
+      "Olah Required",
+      "Chatas Waived"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenarios of a bird flying into open air, among dead birds, or one dying \u2014 with the solution of pairing the survivor \u2014 which is precisely what candidate 1 ('One Bird Flies') discusses, not the 4+4 mixing scenario of candidate 3 where it currently sits.",
+      "chosen_heading": "One Bird Flies",
+      "current_heading": "4+4 Mixing",
+      "moved": true
+    }
+  }
+]

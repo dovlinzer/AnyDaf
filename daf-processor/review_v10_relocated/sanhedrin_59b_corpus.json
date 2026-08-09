@@ -1,0 +1,578 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Core Principle",
+    "candidates": [
+      "Ever Min Hachai Setup",
+      "Core Principle",
+      "Gemara Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the core principle about bnei Noach mitzvot not repeated at Sinai applying only to Yisrael, and gives gid hanasheh as the lone example \u2014 exactly what the 'Core Principle' prose describes.",
+      "chosen_heading": "Core Principle",
+      "current_heading": "Core Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Gemara Challenge",
+    "candidates": [
+      "Gemara Challenge",
+      "Higher Kedusha",
+      "Yefat Toar",
+      "Pruta & Mechila"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the 'aderaba' objection \u2014 arguing that repetition at Sinai implies the law applies only to Jews, not bnei Noach \u2014 which matches exactly the prose of candidate 0 describing the Gemara pressing the difficulty with the opposite inference.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Gemara Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Pruta & Mechila",
+    "candidates": [
+      "Higher Kedusha",
+      "Yefat Toar",
+      "Pruta & Mechila",
+      "Tosafot Analysis",
+      "Tosafot Questions",
+      "Not Fully Permitted",
+      "Mother's Life Priority",
+      "Ranking Even in Murder",
+      "Milah Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Higher Kedusha",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the principle that mitzvot repeated at Sinai apply to both groups and the rule that nothing permitted to Jews is forbidden to gentiles, matching the 'Higher Kedusha' prose exactly.",
+      "second_heading": "Yefat Toar",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the two counter-examples (yefat to'ar and less than a perutah) with their resolutions, matching the 'Yefat Toar' prose which discusses yefat to'ar as the first challenge tested against the principle.",
+      "current_heading": "Pruta & Mechila",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Milah Exception",
+    "candidates": [
+      "Tosafot Analysis",
+      "Tosafot Questions",
+      "Not Fully Permitted",
+      "Mother's Life Priority",
+      "Ranking Even in Murder",
+      "Milah Exception",
+      "Repetition for Detail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items directly concern the milah counter-example \u2014 item 1 states the general principle about mitzvot repeated at Sinai, and item 2 raises circumcision as a challenge to that principle \u2014 which is precisely what candidate 5 ('Milah Exception') discusses.",
+      "chosen_heading": "Milah Exception",
+      "current_heading": "Milah Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Repetition for Detail",
+    "candidates": [
+      "Repetition for Detail",
+      "Peru V'Rivu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses how the verse at Sinai serves only to permit circumcision on Shabbat rather than to repeat the mitzvah itself, which is precisely what the 'Repetition for Detail' section's prose discusses.",
+      "chosen_heading": "Repetition for Detail",
+      "current_heading": "Repetition for Detail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Peru V'Rivu",
+    "candidates": [
+      "Peru V'Rivu",
+      "Avraham's Line"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Peru V'Rivu",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20136 discuss the mitzva of procreation and why it does not apply to bnei Noach, which is exactly the topic of the 'Peru V'Rivu' section prose.",
+      "second_heading": "Avraham's Line",
+      "second_confidence": "high",
+      "second_reason": "Item 7 introduces the alternative explanation that milah was given specifically to Avraham and his line (v'atah et briti tishmor ata v'zar'acha), which is precisely the content described in the 'Avraham's Line' section prose.",
+      "current_heading": "Peru V'Rivu",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Avraham's Line",
+    "candidates": [
+      "Avraham's Line",
+      "Keturah Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Ishmael's descendants and the verse 'ki v'Yitzchak yikarei lcha zara' is explicitly discussed in the prose of heading 0, which covers exactly this Gemara exchange about whether bnei Yishmael are obligated and the answer from that verse.",
+      "chosen_heading": "Avraham's Line",
+      "current_heading": "Avraham's Line",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Keturah Question",
+    "candidates": [
+      "Keturah Question",
+      "Eternal vs. Temporary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why Esau's descendants are excluded from the circumcision obligation via the interpretation of 'beYitzchak,' which directly corresponds to the 'Eternal vs. Temporary' section's discussion of how the ongoing covenantal obligation is limited to a specific line through Isaac \u2014 not all of Isaac's descendants.",
+      "chosen_heading": "Eternal vs. Temporary",
+      "current_heading": "Keturah Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Eternal vs. Temporary",
+    "candidates": [
+      "Keturah Question",
+      "Eternal vs. Temporary",
+      "Adam Vegetarian"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Oshaya's objection about the descendants of Keturah and the answer from Rabbi Yosei bar Avin/\u1e24anina, which directly matches the 'Keturah Question' heading's prose about this exact challenge and resolution regarding Avraham's children from Keturah.",
+      "chosen_heading": "Keturah Question",
+      "current_heading": "Eternal vs. Temporary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Adam Vegetarian",
+    "candidates": [
+      "Adam Vegetarian",
+      "Meat Permitted",
+      "Ever Min Hachai Details"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Adam Vegetarian",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the Rav Yehuda/Rav statement that Adam was not permitted to eat meat, which is exactly what candidate 0's prose describes.",
+      "second_heading": "Meat Permitted",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the permission granted to bnei Noach to eat meat ('keyerek esev natati lachem et hakol') and the derivation of ever min hachai's scope, which matches candidate 1's prose about meat being permitted to bnei Noach.",
+      "current_heading": "Adam Vegetarian",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Ever Min Hachai Details",
+    "candidates": [
+      "Meat Permitted",
+      "Ever Min Hachai Details",
+      "Fish & Birds Work"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's derivation about blood being separate from flesh to exclude sheratzim, which is precisely what the 'Ever Min Hachai Details' prose describes.",
+      "chosen_heading": "Ever Min Hachai Details",
+      "current_heading": "Ever Min Hachai Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Fish & Birds Work",
+    "candidates": [
+      "Fish & Birds Work",
+      "Serpent Servant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of objections and responses about whether 'dominion' verses (fish, birds, creeping things) permit eating or refer to labor, exactly matching the 'Fish & Birds Work' section prose which covers all these same points including the snake/nachash conclusion.",
+      "chosen_heading": "Fish & Birds Work",
+      "current_heading": "Fish & Birds Work",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Serpent Servant",
+    "candidates": [
+      "Serpent Servant",
+      "Meat from Heaven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about Rabbi Shimon ben Menasya lamenting the lost serpent-servant is exactly what the prose under 'Serpent Servant' describes in detail.",
+      "chosen_heading": "Serpent Servant",
+      "current_heading": "Serpent Servant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Meat from Heaven",
+    "candidates": [
+      "Meat from Heaven",
+      "Witnesses Testify"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items discuss the Noahide commandments (sorcery per Rabbi Shimon, diverse kinds per Rabbi Elazar), which are part of the broader blasphemy/Noahide laws context of the Mishnah on birkat Hashem, fitting under 'Witnesses Testify' far better than the 'Meat from Heaven' digression about Adam and miraculous meat.",
+      "chosen_heading": "Witnesses Testify",
+      "current_heading": "Meat from Heaven",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Witnesses Testify",
+    "candidates": [
+      "Witnesses Testify",
+      "Four-Letter Name"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehoshua ben Kor\u1e25a's court procedure using the euphemism 'Yosei smite Yosei,' which directly matches the 'Witnesses Testify' section's prose about witnesses using this substitution during blasphemy trials.",
+      "chosen_heading": "Witnesses Testify",
+      "current_heading": "Witnesses Testify",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Four-Letter Name",
+    "candidates": [
+      "Four-Letter Name",
+      "Standing Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss Rav A\u1e25a bar Ya'akov's teaching about the four-letter name requirement for blasphemy liability, exactly matching the prose under 'Four-Letter Name' which covers this ruling, the Gemara's challenge, and the alternative reading.",
+      "chosen_heading": "Four-Letter Name",
+      "current_heading": "Four-Letter Name",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Standing Requirement",
+    "candidates": [
+      "Standing Requirement",
+      "Ravshakeh Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the requirement to stand when God's name is uttered during blasphemy proceedings, and the 'Standing Requirement' prose explicitly discusses the same Ehud/Eglon kal vachomer derivation found in Item 2.",
+      "chosen_heading": "Standing Requirement",
+      "current_heading": "Standing Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Ravshakeh Story",
+    "candidates": [
+      "Ravshakeh Story",
+      "Gezera Shava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives the obligation of keriah from the Ravshakeh story (II Kings 18:37), which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Ravshakeh Story",
+      "current_heading": "Ravshakeh Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Gezera Shava",
+    "candidates": [
+      "Gezera Shava",
+      "Firsthand Secondhand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the question and answer about why the tear is never sewn up, resolved via Rabbi Abbahu's gezeirah shavah \u2014 exactly what the 'Gezera Shava' prose describes.",
+      "chosen_heading": "Gezera Shava",
+      "current_heading": "Gezera Shava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136
+    ],
+    "current_heading": "Firsthand Secondhand",
+    "candidates": [
+      "Firsthand Secondhand",
+      "Jew & Explicit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss who is obligated to perform keriah and the rule that witnesses need not tear again, exactly matching the 'Firsthand Secondhand' prose which covers the Baraita about shomeia/shomeia mipi shomeia and the Hezekiah verse proof.",
+      "chosen_heading": "Firsthand Secondhand",
+      "current_heading": "Firsthand Secondhand",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "Jew & Explicit",
+    "candidates": [
+      "Jew & Explicit",
+      "Rabbi Chiya View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav Yehuda/Shmuel rulings about keriah \u2014 one about a gentile blasphemer (with the Rabshakeh answer) and one about the ineffable name vs. appellations \u2014 which are precisely what the 'Jew & Explicit' prose describes.",
+      "chosen_heading": "Jew & Explicit",
+      "current_heading": "Jew & Explicit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146,
+      147
+    ],
+    "current_heading": "Rabbi Chiya View",
+    "candidates": [
+      "Rabbi Chiya View",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss Rabbi \u1e24iyya's ruling about not being obligated to tear one's garment when hearing blasphemy nowadays, the Gemara's analysis that this refers to gentiles cursing with an appellation, and the conclusion that this contradicts Shmuel \u2014 exactly matching the 'Rabbi Chiya View' prose.",
+      "chosen_heading": "Rabbi Chiya View",
+      "current_heading": "Rabbi Chiya View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152,
+      153
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Reish Lakish",
+      "Me Too Testimony",
+      "Third Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core Reish Lakish ruling and its supporting proof (de'i salka daitach), which the prose under heading 0 explicitly discusses in detail, making the current placement correct.",
+      "chosen_heading": "Reish Lakish",
+      "current_heading": "Reish Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Third Witness",
+    "candidates": [
+      "Me Too Testimony",
+      "Third Witness",
+      "Classic Forms",
+      "Verbal Acceptance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the third witness saying 'af ani kamohu' and the Gemara's comment that the mishna follows Rabbi Akiva who compares three witnesses to two, which matches exactly the prose under 'Third Witness'.",
+      "chosen_heading": "Third Witness",
+      "current_heading": "Third Witness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165
+    ],
+    "current_heading": "Verbal Acceptance",
+    "candidates": [
+      "Classic Forms",
+      "Verbal Acceptance",
+      "Adoration Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna passage enumerates all the forms of idol worship including the four classic acts (slaughter, incense, libation, prostration) plus verbal acceptance, and the 'Classic Forms' section's prose explicitly introduces this Mishna as transitioning to avoda zara and listing these enumerated acts, making it the natural home for the full Mishna text rather than 'Verbal Acceptance' which discusses only a subset of its content.",
+      "chosen_heading": "Classic Forms",
+      "current_heading": "Verbal Acceptance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      170
+    ],
+    "current_heading": "Adoration Acts",
+    "candidates": [
+      "Verbal Acceptance",
+      "Adoration Acts",
+      "Vows & Oaths",
+      "Unique Worship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists exactly the adoration acts (hugging, kissing, cleaning, etc.) and vows/oaths together in one Mishnaic statement, and the current placement under 'Adoration Acts' matches the primary content, with the vows portion being a secondary clause \u2014 however, the passage spans both sections 1 and 2, but since it is a single unified Mishnaic text and the adoration acts are its primary content, the current placement is the best single heading.",
+      "chosen_heading": "Adoration Acts",
+      "current_heading": "Adoration Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      175
+    ],
+    "current_heading": "Unique Worship",
+    "candidates": [
+      "Vows & Oaths",
+      "Unique Worship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about defecating before Ba'al-Peor and throwing a stone at Markolis is precisely what the 'Unique Worship' section's prose describes and analyzes.",
+      "chosen_heading": "Unique Worship",
+      "current_heading": "Unique Worship",
+      "moved": false
+    }
+  }
+]

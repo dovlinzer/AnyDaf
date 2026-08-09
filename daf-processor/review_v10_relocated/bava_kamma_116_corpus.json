@@ -1,0 +1,361 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Gilui & Snake Poison",
+    "candidates": [
+      "Spilled Liquid Question",
+      "Gilui & Snake Poison",
+      "Sieve Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about exposed water (mayim shenitgalu) and its prohibitions, which is exactly what the 'Gilui & Snake Poison' prose describes as closing off the ziluf possibility \u2014 this is the current placement and it is correct.",
+      "chosen_heading": "Gilui & Snake Poison",
+      "current_heading": "Gilui & Snake Poison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Sieve Solution",
+    "candidates": [
+      "Sieve Solution",
+      "Pouring Pressure Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the sieve/strainer solution and Rabbi Ne\u1e25emya's ruling about when exposure is a concern based on whether the lower vessel is covered, which is precisely what the 'Sieve Solution' prose describes.",
+      "chosen_heading": "Sieve Solution",
+      "current_heading": "Sieve Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Pouring Pressure Issue",
+    "candidates": [
+      "Pouring Pressure Issue",
+      "Demai Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi Yehoshua ben Levi's qualification about mixing/agitating the wine and the Gemara's resolution via placing something at the barrel's mouth \u2014 exactly what Candidate 0's prose describes as the 'pouring pressure' complication and its answer.",
+      "chosen_heading": "Pouring Pressure Issue",
+      "current_heading": "Pouring Pressure Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Demai Exception",
+    "candidates": [
+      "Demai Exception",
+      "Comparative Values"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Ne\u1e25emya's position on separating teruma from impure produce for other impure produce and the demai exception, which is precisely what the 'Demai Exception' prose describes in detail.",
+      "chosen_heading": "Demai Exception",
+      "current_heading": "Demai Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Comparative Values",
+    "candidates": [
+      "Comparative Values",
+      "Takalah Concern",
+      "Vessel Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the oil/wine distinction and the value of ziluf as raised in the 'Comparative Values' section, which explicitly discusses the same Shmuel/Rabbi Chiyya citation about one sela vs two slaim per log.",
+      "chosen_heading": "Comparative Values",
+      "current_heading": "Comparative Values",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Vessel Distinction",
+    "candidates": [
+      "Takalah Concern",
+      "Vessel Distinction",
+      "Three Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the oil-vs-wine vessel distinction discussion (shemen nami / bichli maus / hashta l'ziluf) which is precisely what the 'Vessel Distinction' prose describes, and the passage is already correctly placed there.",
+      "chosen_heading": "Vessel Distinction",
+      "current_heading": "Vessel Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Three Positions",
+    "candidates": [
+      "Three Positions",
+      "Third Opinion Rule",
+      "Active Loss Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the baraita about impure terumah wine (Beit Shammai, Beit Hillel, Rabbi Yishmael b'Rabbi Yose's two versions of adjudication), which is precisely what the 'Three Positions' prose describes in detail.",
+      "chosen_heading": "Three Positions",
+      "current_heading": "Three Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Active Loss Payment",
+    "candidates": [
+      "Third Opinion Rule",
+      "Active Loss Payment",
+      "Passive Loss Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about why the stipulation in the mishna ('I will salvage yours') is binding \u2014 the question of meshahta ani bach, the baraita about the ferryman/prisoner, and Rami bar \u1e24ama's distinction between reisha and seifa \u2014 which is precisely what the 'Active Loss Payment' prose describes in detail.",
+      "chosen_heading": "Active Loss Payment",
+      "current_heading": "Active Loss Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Passive Loss Rules",
+    "candidates": [
+      "Passive Loss Rules",
+      "Lucky Outcome"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items contain exactly the Gemara's 'utzricha' argument about why both the wine-and-honey case and the donkey case were necessary to teach, which is precisely what the 'Passive Loss Rules' prose describes in detail.",
+      "chosen_heading": "Passive Loss Rules",
+      "current_heading": "Passive Loss Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Lucky Outcome",
+    "candidates": [
+      "Lucky Outcome",
+      "Rav Safra Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Kahana's dilemma to Rav about the rescuer whose own donkey emerged by itself, and Rav's answer that 'from Heaven mercy was bestowed upon him' \u2014 exactly what the 'Lucky Outcome' section's prose describes and analyzes.",
+      "chosen_heading": "Lucky Outcome",
+      "current_heading": "Lucky Outcome",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Rav Safra Story",
+    "candidates": [
+      "Rav Safra Story",
+      "Failed Rescue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rav Safra caravan story and the subsequent Rav A\u1e25a/Ravina dialogue about why he needed to re-acquire the donkey, which is exactly what the 'Rav Safra Story' prose section discusses in detail.",
+      "chosen_heading": "Rav Safra Story",
+      "current_heading": "Rav Safra Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Failed Rescue",
+    "candidates": [
+      "Failed Rescue",
+      "Unnecessary Service"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav's question to Rabbi Yehuda HaNasi about a failed rescue attempt and Rebbe's response that only the standard wage applies, which is exactly what the 'Failed Rescue' prose discusses.",
+      "chosen_heading": "Failed Rescue",
+      "current_heading": "Failed Rescue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Unnecessary Service",
+    "candidates": [
+      "Unnecessary Service",
+      "Success Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the objection from the baraita about hiring a worker to bring cabbage and plums for a sick person, which is exactly what the 'Unnecessary Service' prose describes \u2014 the challenge raised before the distinction is made in 'Success Distinction'.",
+      "chosen_heading": "Unnecessary Service",
+      "current_heading": "Unnecessary Service",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Success Distinction",
+    "candidates": [
+      "Success Distinction",
+      "Ransom Math"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly articulates the success/completion distinction \u2014 agent performed vs. did not perform his assignment \u2014 which is precisely what the 'Success Distinction' section's prose discusses.",
+      "chosen_heading": "Success Distinction",
+      "current_heading": "Success Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Ransom Math",
+    "candidates": [
+      "Ransom Math",
+      "Donkey Guild"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the baraita about caravan ransom divided by wealth vs. per capita, and the scout whose fee is divided by both wealth and souls \u2014 exactly what the 'Ransom Math' prose discusses, including the closing line about not deviating from donkey-drivers' custom.",
+      "chosen_heading": "Ransom Math",
+      "current_heading": "Ransom Math",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Donkey Guild",
+    "candidates": [
+      "Donkey Guild",
+      "Shared Interest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the donkey drivers' stipulation, the negligence/non-negligence distinction, and the rejection of the cash-instead-of-donkey request \u2014 all three elements are discussed in candidate 0's prose, while candidate 1's prose addresses the subsequent Gemara discussion about why cash is insufficient (the 'skin in the game' reasoning), which goes beyond what this quoted text contains.",
+      "chosen_heading": "Donkey Guild",
+      "current_heading": "Donkey Guild",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Shared Interest",
+    "candidates": [
+      "Shared Interest",
+      "Weight Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of a guild member with another donkey and the principle that guarding one donkey differs from guarding two, which is precisely what the 'Shared Interest' prose describes.",
+      "chosen_heading": "Shared Interest",
+      "current_heading": "Shared Interest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Weight Division",
+    "candidates": [
+      "Weight Division",
+      "Seafarer Custom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the weight-based calculation for jettisoned cargo, which is precisely what the 'Weight Division' prose explains, while the 'Seafarer Custom' prose covers the guild stipulations and negligence exceptions that appear in a subsequent baraita.",
+      "chosen_heading": "Weight Division",
+      "current_heading": "Weight Division",
+      "moved": false
+    }
+  }
+]

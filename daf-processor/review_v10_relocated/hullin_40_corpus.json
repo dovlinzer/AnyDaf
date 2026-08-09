@@ -1,0 +1,162 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishnah: Slaughter Places",
+    "candidates": [
+      "Setup & Context",
+      "Mishnah: Slaughter Places",
+      "Mishnah: Mixed Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact Mishnah text about slaughtering for mountains, hills, seas, rivers, and wildernesses, which is precisely what the 'Mishnah: Slaughter Places' prose describes and analyzes.",
+      "chosen_heading": "Mishnah: Slaughter Places",
+      "current_heading": "Mishnah: Slaughter Places",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Mishnah: Mixed Intent",
+    "candidates": [
+      "Mishnah: Mixed Intent",
+      "Parallel to Ownership",
+      "Weak Term Puzzle",
+      "Baraita: Full List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnah text about two people grasping a knife together with mixed intent, which is precisely what the 'Mishnah: Mixed Intent' section's prose describes and analyzes.",
+      "chosen_heading": "Mishnah: Mixed Intent",
+      "current_heading": "Mishnah: Mixed Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Baraita: Full List",
+    "candidates": [
+      "Parallel to Ownership",
+      "Weak Term Puzzle",
+      "Baraita: Full List",
+      "Abaye: Object vs. Spirit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage begins with the Gemara's inference that the Mishnah uses 'psulah' rather than 'zivchei meitim' and then raises the contradiction from the baraita \u2014 this is precisely the content described in the 'Weak Term Puzzle' section, which covers both the Mishnah's weaker formulation and the question it raises, with the baraita citation being part of that same analytical move rather than a standalone section.",
+      "chosen_heading": "Weak Term Puzzle",
+      "current_heading": "Baraita: Full List",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Abaye: Object vs. Spirit",
+    "candidates": [
+      "Baraita: Full List",
+      "Abaye: Object vs. Spirit",
+      "Mountains Cannot Forbid",
+      "Verse Derivation",
+      "Mechubar & Status",
+      "Rashi: Mountains & Beasts",
+      "Tosafot: Avodah Zarah",
+      "Three Categories",
+      "Rav Huna: Action Allows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's resolution distinguishing slaughter 'to the mountain' from slaughter 'to the angel of the mountain,' which is precisely what the 'Abaye: Object vs. Spirit' section's prose describes.",
+      "chosen_heading": "Abaye: Object vs. Spirit",
+      "current_heading": "Abaye: Object vs. Spirit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rav Huna: Action Allows",
+    "candidates": [
+      "Mountains Cannot Forbid",
+      "Verse Derivation",
+      "Mechubar & Status",
+      "Rashi: Mountains & Beasts",
+      "Tosafot: Avodah Zarah",
+      "Three Categories",
+      "Rav Huna: Action Allows",
+      "Ulla & R. Yochanan",
+      "Bowing vs. Action",
+      "Multi-Violation Case",
+      "Paradox: Offering Switch",
+      "Chatas Ha'of Special Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's ruling about an animal crouching before an idol and cutting one siman making it forbidden, which is exactly what section 6 'Rav Huna: Action Allows' discusses in its prose.",
+      "chosen_heading": "Rav Huna: Action Allows",
+      "current_heading": "Rav Huna: Action Allows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Chatas Ha'of Special Case",
+    "candidates": [
+      "Ulla & R. Yochanan",
+      "Bowing vs. Action",
+      "Multi-Violation Case",
+      "Paradox: Offering Switch",
+      "Chatas Ha'of Special Case",
+      "Absolute Non-Forbidding",
+      "Baraita Challenge",
+      "Korban Ownership",
+      "Korban vs. Regular",
+      "Rav Huna: Two Points",
+      "Absolute Rule",
+      "Korban Consensus"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 9,
+      "first_heading": "Chatas Ha'of Special Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-9 cover Rav Nachman's challenge, Rav Pappa's chatas ha'of resolution, the half-cut trachea refinement, and Rav Pappa's two meta-comments about Rav Huna's innovations, all squarely addressed by the 'Chatas Ha'of Special Case' prose.",
+      "second_heading": "Absolute Non-Forbidding",
+      "second_confidence": "high",
+      "second_reason": "Items 10-12 introduce a new mnemonic and the categorical position of Rav Nachman/Rav Amram/Rav Yitzchak that 'ein adam oser davar she'eino shelo' is absolute, with a baraita challenge and korban-ownership response, matching the 'Absolute Non-Forbidding' prose exactly.",
+      "current_heading": "Chatas Ha'of Special Case",
+      "moved": true
+    }
+  }
+]

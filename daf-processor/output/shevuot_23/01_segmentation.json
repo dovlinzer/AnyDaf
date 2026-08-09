@@ -19,8 +19,8 @@
           "timestamp": "00:20"
         }
       ],
-      "sefaria_index": 20,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishna on Single vs. Multiple Oaths: One Oath to Refrain from Eating vs. Separate Oaths for Eating and Drinking",
@@ -43,7 +43,7 @@
           "timestamp": "03:39"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 20,
       "matched": true
     },
     {
@@ -231,7 +231,7 @@
           "timestamp": "56:39"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 31,
       "matched": true
     }
   ],
@@ -459,5 +459,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "28:49",
+  "amud_b_micro_title": "Separation Principle",
+  "shiur_start_daf": 23,
+  "shiur_start_amud": "a"
 }

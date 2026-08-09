@@ -1,0 +1,294 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Separation Requirement",
+    "candidates": [
+      "Blood Categories Overview",
+      "Rav Sheshes on Human",
+      "Braita on Blood Types",
+      "Separation Requirement",
+      "Milk vs. Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly challenges the resolution about separated vs. non-separated blood by pointing out that even blood on a loaf (which has separated but not been collected) is permitted, which is precisely the topic discussed in the 'Separation Requirement' section's prose about dam she-al gabei ha-kikar and the ambiguity in middle cases.",
+      "chosen_heading": "Separation Requirement",
+      "current_heading": "Separation Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Milk vs. Blood",
+    "candidates": [
+      "Milk vs. Blood",
+      "Heart Blood Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items deal with the status of human blood and human milk (bipeds), the baraita about 've-zeh lachem ha-tamei,' and Rav Sheshet's ruling \u2014 exactly the content described in the 'Milk vs. Blood' prose.",
+      "chosen_heading": "Milk vs. Blood",
+      "current_heading": "Milk vs. Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Heart Blood Removal",
+    "candidates": [
+      "Heart Blood Removal",
+      "Heart Blood Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the requirement to tear open the heart and remove its blood before eating, and the dispute about liability for consuming heart blood \u2014 precisely what the 'Heart Blood Removal' prose introduces as the entry point for the broader discussion.",
+      "chosen_heading": "Heart Blood Removal",
+      "current_heading": "Heart Blood Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Heart Blood Source",
+    "candidates": [
+      "Heart Blood Source",
+      "Death Definition",
+      "Bloodletting Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Talmudic exchange about the distinction between the heart's own blood and blood that comes from outside, culminating in Rabbi Zeira's explanation that blood is drawn into the heart at the moment of death \u2014 exactly the content discussed in the 'Heart Blood Source' prose.",
+      "chosen_heading": "Heart Blood Source",
+      "current_heading": "Heart Blood Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Bloodletting Dispute",
+    "candidates": [
+      "Death Definition",
+      "Bloodletting Dispute",
+      "Two Vessel Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items are the continuous Gemara dispute about dam ha-kazah/dam ha-neshama during bloodletting \u2014 the Rabbi Yochanan/Resh Lakish disagreement, the baraita challenges and resolutions, and the Rabbi Yishmael school's related halakha \u2014 exactly matching the 'Bloodletting Dispute' prose description.",
+      "chosen_heading": "Bloodletting Dispute",
+      "current_heading": "Bloodletting Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Two Vessel Question",
+    "candidates": [
+      "Two Vessel Question",
+      "All Blood Kares",
+      "Atonement Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are about the bloodletting-into-two-cups dilemma and the Rabbi Yochanan/Reish Lakish dispute regarding liability for the second cup, which is precisely what the 'Two Vessel Question' prose describes.",
+      "chosen_heading": "Two Vessel Question",
+      "current_heading": "Two Vessel Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Atonement Blood",
+    "candidates": [
+      "All Blood Kares",
+      "Atonement Blood",
+      "Sifra Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Elazar's clarification that Rabbi Yehuda concedes blood of exudate does not atone, citing the verse about blood making atonement through the soul \u2014 exactly what the 'Atonement Blood' section's prose describes.",
+      "chosen_heading": "Atonement Blood",
+      "current_heading": "Atonement Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Sifra Drasha",
+    "candidates": [
+      "Sifra Drasha",
+      "Me'ilah Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rav Na\u1e25man bar Yitz\u1e25ak baraita from the Sifra about 'kol dam,' which is precisely what the 'Sifra Drasha' prose describes \u2014 the drasha on why the verse says 'any blood' rather than just 'blood,' extending karet to dam chullin and dam tamtzit, attributed to Rabbi Yehuda as stam Sifra.",
+      "chosen_heading": "Sifra Drasha",
+      "current_heading": "Sifra Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Me'ilah Dispute",
+    "candidates": [
+      "Me'ilah Dispute",
+      "Tarfon's Strategy",
+      "Akiva Objection",
+      "Gezeirah Shavah",
+      "Vav vs. Gezeirah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Me'ilah Dispute",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Mishna covering Rabbi Akiva's ruling on doubtful me'ilah, Rabbi Tarfon's pragmatic strategy, and Rabbi Akiva's objection for large amounts \u2014 exactly matching headings 0, 1, and 2 which the current heading 0 prose only partially covers, but since items 1-3 form a continuous Mishna unit, the best single home for all three together is heading 0 ('Me'ilah Dispute') which introduces the full dispute including Tarfon's strategy and Akiva's objection as part of the same Mishnaic unit.",
+      "second_heading": "Gezeirah Shavah",
+      "second_confidence": "high",
+      "second_reason": "Items 4-9 are the Gemara discussing the baraita, the gezeirah shavah of mitzvot-mitzvot, and the exclusion of me'ilah from asham talui \u2014 directly matching heading 3 ('Gezeirah Shavah') which discusses exactly this derivation and its consequences.",
+      "current_heading": "Me'ilah Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Vav vs. Gezeirah",
+    "candidates": [
+      "Tarfon's Strategy",
+      "Akiva Objection",
+      "Gezeirah Shavah",
+      "Vav vs. Gezeirah",
+      "Akiva Vav View",
+      "Chachamim Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in 'Vav vs. Gezeirah': the dispute between Rabbi Akiva and the Rabbis over the gezeirah shavah of mitzvot-mitzvot, the vav of ve-im nefesh, whether elyon learns from tachton or vice versa, the kesef shekalim minimum, and the principles of ein gezeirah shavah le-mechetzah and ein hekesh le-mechetzah \u2014 all of which the 'Vav vs. Gezeirah' prose explicitly discusses.",
+      "chosen_heading": "Vav vs. Gezeirah",
+      "current_heading": "Vav vs. Gezeirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Chachamim Response",
+    "candidates": [
+      "Akiva Vav View",
+      "Chachamim Response",
+      "Akiva Concession",
+      "Stipulation Language",
+      "Rav Huna Formula",
+      "Awareness Objection",
+      "Rava Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the derivation of the minimum two-shekel cost for asham talui \u2014 items 1-2 explain why 'zos toras ha-asham' alone is insufficient without the vav (since one might compare asham talui to a chatat worth only a danka), and item 3 asks what the one who doesn't expound 'zos toras ha-asham' does \u2014 all of which matches the 'Akiva Vav View' prose describing how Rabbi Akiva derives minimum cost from zos toras ha-asham independently, freeing the vav for a different function.",
+      "chosen_heading": "Akiva Vav View",
+      "current_heading": "Chachamim Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Rava Resolution",
+    "candidates": [
+      "Akiva Concession",
+      "Stipulation Language",
+      "Rav Huna Formula",
+      "Awareness Objection",
+      "Rava Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Akiva Concession",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 concludes a prior derivation about the guilt offering for an espoused maidservant via a verbal analogy ('ram'/'ram'), which belongs under the 'Akiva Concession' heading as preceding material.",
+      "second_heading": "Rava Resolution",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 form a continuous chain about Rabbi Tarfon's stipulation, the problem with its language, Rava's reformulation, the awareness objection, and Rava's resolution that asham vadai does not require prior awareness \u2014 precisely what 'Rava Resolution' discusses.",
+      "current_heading": "Rava Resolution",
+      "moved": true
+    }
+  }
+]

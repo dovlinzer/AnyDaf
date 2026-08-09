@@ -1,0 +1,390 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Shammai vs. Hillel",
+    "candidates": [
+      "Shammai vs. Hillel",
+      "Kallah Kemoshechi",
+      "Kallah Na'ah Vechasudah",
+      "Mikach Ra Debate",
+      "Finding Nice Words",
+      "Maharsha Reconciles",
+      "Lo Kchal v'lo Srak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete baraita introducing the Beit Shammai/Beit Hillel debate about dancing before the bride, which is precisely what heading 0 ('Shammai vs. Hillel') describes as its topic \u2014 the transition via tanu rabbanan to this famous dispute about what one recites while performing the rikud.",
+      "chosen_heading": "Shammai vs. Hillel",
+      "current_heading": "Shammai vs. Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Lo Kchal v'lo Srak",
+    "candidates": [
+      "Kallah Kemoshechi",
+      "Kallah Na'ah Vechasudah",
+      "Mikach Ra Debate",
+      "Finding Nice Words",
+      "Maharsha Reconciles",
+      "Lo Kchal v'lo Srak",
+      "Smicha Celebration",
+      "Ami and Assi Songs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly contains the 'lo kchal v'lo srak v'lo pirchus v'ya'alat chen' song reported by Rav Dimi and its use at Rabbi Zeira's ordination, which is exactly what heading 5 ('Lo Kchal v'lo Srak') describes in its prose.",
+      "chosen_heading": "Lo Kchal v'lo Srak",
+      "current_heading": "Lo Kchal v'lo Srak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Ami and Assi Songs",
+    "candidates": [
+      "Smicha Celebration",
+      "Ami and Assi Songs",
+      "Abbahu's Prestige"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the song sung at the ordination of Rabbi Ami and Rabbi Asi, which is precisely what the 'Ami and Assi Songs' section prose discusses in detail.",
+      "chosen_heading": "Ami and Assi Songs",
+      "current_heading": "Ami and Assi Songs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Abbahu's Prestige",
+    "candidates": [
+      "Abbahu's Prestige",
+      "Dancing with Hadassim",
+      "Three-Fold Dancing",
+      "Pillar of Fire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Abbahu being greeted by the emperor's maidservants with a song of praise, which is exactly what the 'Abbahu's Prestige' section prose discusses in detail.",
+      "chosen_heading": "Abbahu's Prestige",
+      "current_heading": "Abbahu's Prestige",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Pillar of Fire",
+    "candidates": [
+      "Dancing with Hadassim",
+      "Three-Fold Dancing",
+      "Pillar of Fire",
+      "Bride on Shoulders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together describe the pillar of fire at Rav Shmuel bar Rav Yitzchak's death and Rabbi Zeira's subsequent reassessment ('his branch/nonsense/method helped him'), which is precisely what candidate 2 'Pillar of Fire' discusses in its prose.",
+      "chosen_heading": "Pillar of Fire",
+      "current_heading": "Pillar of Fire",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Bride on Shoulders",
+    "candidates": [
+      "Bride on Shoulders",
+      "Looking All Week"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav A\u1e25a carrying the bride on his shoulders and dancing, and the subjective ruling about whether others may do the same \u2014 exactly what the prose under 'Bride on Shoulders' discusses.",
+      "chosen_heading": "Bride on Shoulders",
+      "current_heading": "Bride on Shoulders",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Looking All Week",
+    "candidates": [
+      "Looking All Week",
+      "Ma'avirin Hamet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is directly about Rabbi Shmuel bar Na\u1e25mani's ruling permitting gazing at the bride all seven days, which is precisely what the 'Looking All Week' section's prose discusses in detail.",
+      "chosen_heading": "Looking All Week",
+      "current_heading": "Looking All Week",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Ma'avirin Hamet",
+    "candidates": [
+      "Ma'avirin Hamet",
+      "Agrippas's Humility",
+      "Royal Honor Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly teaches the baraita about rerouting a funeral procession before a bride and both yielding to a king, plus the praise of Agrippa \u2014 all of which is introduced and explained in heading 0's prose about ma'avirin et ha-met milifnei ha-kallah, while headings 1 and 2 address the subsequent Talmudic discussion puzzling over and resolving the Agrippa story.",
+      "chosen_heading": "Ma'avirin Hamet",
+      "current_heading": "Ma'avirin Hamet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Royal Honor Doctrine",
+    "candidates": [
+      "Agrippas's Humility",
+      "Royal Honor Doctrine",
+      "Mevatlin Talmud Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the Sages praising Agrippas, the Gemara's challenge about whether he did well, Rav Ashi's royal honor doctrine, and the crossroads resolution \u2014 this is the complete sugya about Agrippas's act, and heading 0's prose explicitly introduces the praise and the immediate question, while heading 1 discusses the same content but the passage itself begins with the praise/challenge that heading 0 describes as its topic.",
+      "chosen_heading": "Agrippas's Humility",
+      "current_heading": "Royal Honor Doctrine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Mevatlin Talmud Torah",
+    "candidates": [
+      "Royal Honor Doctrine",
+      "Mevatlin Talmud Torah",
+      "Leaving Beit Midrash",
+      "Enough People Condition",
+      "Required Numbers",
+      "Natilatah Kentinatah",
+      "Teachers Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states the baraita that one suspends Torah study for burial/wedding processions and cites Rabbi Yehuda be-Rabbi Ilai's practice, plus the qualifying condition about sufficient people \u2014 which is exactly what the 'Mevatlin Talmud Torah' section's prose introduces as its topic.",
+      "chosen_heading": "Mevatlin Talmud Torah",
+      "current_heading": "Mevatlin Talmud Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Teachers Exception",
+    "candidates": [
+      "Leaving Beit Midrash",
+      "Enough People Condition",
+      "Required Numbers",
+      "Natilatah Kentinatah",
+      "Teachers Exception",
+      "Hinuma Practice",
+      "Myrtle Dome"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss the required numbers (12,000/13,000 men, Ulla's visual measure, and the 600,000 standard) which is precisely what candidate 2 'Required Numbers' covers, and item 2's qualification about one who taught fits as a natural continuation of that same discussion rather than a separate topic warranting its own heading placement under 'Teachers Exception'.",
+      "chosen_heading": "Required Numbers",
+      "current_heading": "Teachers Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Myrtle Dome",
+    "candidates": [
+      "Hinuma Practice",
+      "Myrtle Dome",
+      "Veil Practice",
+      "Roasted Grain",
+      "Oil on Rabbis",
+      "Oil Ritual Challenge",
+      "Abaye's Reminder",
+      "Rabbinical Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the question 'what is a hinuma?' and then gives both answers (myrtle canopy and veil), so it belongs under the heading that poses that very question, 'Hinuma Practice', rather than being split between the 'Myrtle Dome' and 'Veil Practice' sections.",
+      "chosen_heading": "Hinuma Practice",
+      "current_heading": "Myrtle Dome",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rabbinical Practice",
+    "candidates": [
+      "Veil Practice",
+      "Roasted Grain",
+      "Oil on Rabbis",
+      "Oil Ritual Challenge",
+      "Abaye's Reminder",
+      "Rabbinical Practice",
+      "Widow Weddings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage begins with Rabbi Yochanan ben Beroka's teaching about roasted grain and then moves through the Babylonian custom of oil on rabbis, Rav Pappa's challenge, and Abaye's response with the concrete example \u2014 all of this content spans headings 1-5, but the passage as a single unit starts with the roasted grain mishna quote and should sit under heading 1 ('Roasted Grain') where the essay prose explicitly introduces Rabbi Yochanan ben Beroka and the Baraita about Yehudah, matching the opening of this passage.",
+      "chosen_heading": "Roasted Grain",
+      "current_heading": "Rabbinical Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Widow Weddings",
+    "candidates": [
+      "Rabbinical Practice",
+      "Widow Weddings",
+      "Field Admission Case",
+      "Rashi and Tosafot",
+      "Father Mentioned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the widow wedding custom (almanusa/armalta without roasted grain), which is exactly what the 'Widow Weddings' section prose discusses.",
+      "chosen_heading": "Widow Weddings",
+      "current_heading": "Widow Weddings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Father Mentioned",
+    "candidates": [
+      "Field Admission Case",
+      "Rashi and Tosafot",
+      "Father Mentioned",
+      "Three Year Chazakah",
+      "Katan Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly address why the Mishnah frames the case as 'your father's field' rather than 'your field,' and explain the need to teach the seifa \u2014 which is precisely what the 'Father Mentioned' prose section describes.",
+      "chosen_heading": "Father Mentioned",
+      "current_heading": "Father Mentioned",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Katan Property",
+    "candidates": [
+      "Three Year Chazakah",
+      "Katan Property",
+      "Afilu Higdil",
+      "Father's Role",
+      "Shelo Befanav",
+      "Judea and Galilee"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Father's Role",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 address exactly the content in 'Father's Role' prose: why the Mishnah uses the father framing, Rav Huna's principle, and the two answers about whether Rav Huna is restating the Mishnah or teaching *afilu higdil*.",
+      "second_heading": "Shelo Befanav",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 present the Gemara's challenge of using *shelo befanav* instead of the father scenario and its refutation, which is exactly what 'Shelo Befanav' prose describes.",
+      "current_heading": "Katan Property",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133
+    ],
+    "current_heading": "Judea and Galilee",
+    "candidates": [
+      "Afilu Higdil",
+      "Father's Role",
+      "Shelo Befanav",
+      "Judea and Galilee",
+      "Emergency Situation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly present the Mishnah from Bava Batra about three regions (Judea, Transjordan, Galilee) and the Gemara's probing question about mecha'ah shelo befanav, which is precisely what candidate 3 ('Judea and Galilee') discusses in its prose.",
+      "chosen_heading": "Judea and Galilee",
+      "current_heading": "Judea and Galilee",
+      "moved": false
+    }
+  }
+]

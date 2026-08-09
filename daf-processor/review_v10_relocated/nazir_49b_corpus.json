@@ -1,0 +1,379 @@
+[
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Tumah Consequences",
+    "candidates": [
+      "Opening Remarks",
+      "Perek Focus",
+      "Tumah Parameters",
+      "Halacha L'Moshe: Tumah",
+      "Mishnah Introduction",
+      "Corpse & Flesh",
+      "Definition of Ahel",
+      "Netzeil Definition",
+      "Rekev Amount",
+      "Spine & Skull",
+      "Limb Sources",
+      "Bones Requirement",
+      "Tosafot: Bone Amounts",
+      "Blood Amount",
+      "Three Types Tumah",
+      "Second List: Bones",
+      "Tumah Consequences",
+      "Entry Prohibition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Types Tumah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 states explicitly that the nazir shaves for maga, masa, and ohel on the first list, and only maga and masa for the barleycorn bone \u2014 this is precisely what candidate 14 ('Three Types Tumah') and candidate 15 ('Second List: Bones') discuss, but the phrasing 'v'al maga'an v'al masa'an v'al ohilan' with the bone exception matches the transition described in candidates 14-15, and item 1 alone (the statement of the three tumah modes plus the bone exception) best fits candidate 14's prose about all three modes.",
+      "second_heading": "Tumah Consequences",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the consequences of tumah for the nazir \u2014 shaving, sprinkling on third and seventh days, negating prior days, and restarting only after becoming tahor and bringing korbanot \u2014 which is exactly what candidate 16 ('Tumah Consequences') discusses.",
+      "current_heading": "Tumah Consequences",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Entry Prohibition",
+    "candidates": [
+      "Entry Prohibition",
+      "Sumchus Enters",
+      "Yehuda's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Entry Prohibition' prose \u2014 Rabbi Yehuda's instruction not to let Rabbi Meir's students enter and his reasoning \u2014 ending with Sumchus forcing entry, which is the transition point before the next section.",
+      "chosen_heading": "Entry Prohibition",
+      "current_heading": "Entry Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Yehuda's Challenge",
+    "candidates": [
+      "Sumchus Enters",
+      "Yehuda's Challenge",
+      "Yosi Defends Meir",
+      "Yosi's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Sumchus reporting Rabbi Meir's teaching AND Rabbi Yehuda's angry response as a single continuous narrative unit, but the prose of heading 0 ('Sumchus Enters') explicitly describes Sumchus reporting the mishnah with both listings \u2014 matching the first half of the passage \u2014 while heading 1 covers only Rabbi Yehuda's reaction; since the passage begins with Sumchus's report and the entire exchange is one unit, and heading 0's prose already anticipates the full content including the formulation that provoked Yehuda, the passage fits better under heading 0 which introduces Sumchus entering and reporting, with Yehuda's reaction being the natural continuation of that same scene.",
+      "chosen_heading": "Sumchus Enters",
+      "current_heading": "Yehuda's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Yosi's Answer",
+    "candidates": [
+      "Yosi Defends Meir",
+      "Yosi's Answer",
+      "Yochanan: Stillbirth"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Yochanan: Stillbirth",
+    "candidates": [
+      "Yochanan: Stillbirth",
+      "Rava: Skeleton Volume"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yochanan's answer about a nefel whose limbs had not become joined to sinews, which is precisely what the 'Yochanan: Stillbirth' section's prose discusses.",
+      "chosen_heading": "Yochanan: Stillbirth",
+      "current_heading": "Yochanan: Stillbirth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rava: Skeleton Volume",
+    "candidates": [
+      "Rava: Skeleton Volume",
+      "Death Terminology",
+      "Netzeil Definition (II)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about rov binyan and rov minyan without a rova of bones, which is precisely what the 'Rava: Skeleton Volume' section's prose discusses in detail.",
+      "chosen_heading": "Rava: Skeleton Volume",
+      "current_heading": "Rava: Skeleton Volume",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Netzeil Definition (II)",
+    "candidates": [
+      "Death Terminology",
+      "Netzeil Definition (II)",
+      "Two Versions",
+      "Identity Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines netzeil as congealed flesh and boiled liquid, which matches exactly the 'Netzeil Definition (II)' prose that describes the gemara returning to define netzeil precisely as 'basar hameit shekarash'.",
+      "chosen_heading": "Netzeil Definition (II)",
+      "current_heading": "Netzeil Definition (II)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Identity Question",
+    "candidates": [
+      "Two Versions",
+      "Identity Question",
+      "Congealing Indicator"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge about whether knowing the substance's identity matters and why congealing should be determinative \u2014 exactly what candidate 1's prose ('Identity Question') discusses in detail.",
+      "chosen_heading": "Identity Question",
+      "current_heading": "Identity Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Congealing Indicator",
+    "candidates": [
+      "Congealing Indicator",
+      "Tosafot Tests",
+      "Netzeil for Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yirmeya's statement about bistam and the congealing test, which is precisely what the 'Congealing Indicator' prose section discusses and analyzes.",
+      "chosen_heading": "Congealing Indicator",
+      "current_heading": "Congealing Indicator",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Netzeil for Animals",
+    "candidates": [
+      "Tosafot Tests",
+      "Netzeil for Animals",
+      "Human vs. General",
+      "Consumption Fitness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly poses Abaye's question to Rabba about whether netzeil applies to animals, which is precisely what the 'Netzeil for Animals' section's prose describes.",
+      "chosen_heading": "Netzeil for Animals",
+      "current_heading": "Netzeil for Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Consumption Fitness",
+    "candidates": [
+      "Human vs. General",
+      "Consumption Fitness",
+      "Liquefied vs. Decomposed",
+      "Decomposition Results"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces the distinction between tumah chamura ad lager and tumah kala ad lekelev, which is precisely what the 'Consumption Fitness' section's prose elaborates on in detail.",
+      "chosen_heading": "Consumption Fitness",
+      "current_heading": "Consumption Fitness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Decomposition Results",
+    "candidates": [
+      "Liquefied vs. Decomposed",
+      "Decomposition Results",
+      "Pouring Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the question about the 'until fit for a dog' opinion, the baraita proof-attempt, and its rebuttal \u2014 which matches exactly what Candidate 1's prose describes about the sun-decomposition case and the gemara's unresolved conclusion.",
+      "chosen_heading": "Decomposition Results",
+      "current_heading": "Decomposition Results",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Pouring Rule",
+    "candidates": [
+      "Pouring Rule",
+      "Beit Shammai View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the general rule of kol hanitzok tahor and the exceptions for zifim honey and batter \u2014 are explicitly discussed in the 'Pouring Rule' prose, which covers exactly this mishnah and its exceptions.",
+      "chosen_heading": "Pouring Rule",
+      "current_heading": "Pouring Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Beit Shammai View",
+    "candidates": [
+      "Beit Shammai View",
+      "Niztok & Foods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Beit Shammai ruling about the stew returning backward (soledet leachoreha), which is precisely what the 'Beit Shammai View' prose discusses in detail.",
+      "chosen_heading": "Beit Shammai View",
+      "current_heading": "Beit Shammai View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Niztok & Foods",
+    "candidates": [
+      "Niztok & Foods",
+      "Thick Foods Criteria",
+      "Fat Status",
+      "Liquids Not Combined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses Rami bar \u1e24ama's dilemma about whether nitzok applies to foods, which is precisely what the 'Niztok & Foods' section's prose describes.",
+      "chosen_heading": "Niztok & Foods",
+      "current_heading": "Niztok & Foods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Liquids Not Combined",
+    "candidates": [
+      "Thick Foods Criteria",
+      "Fat Status",
+      "Liquids Not Combined",
+      "Container Question",
+      "Recongealing Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Rava's argument is precisely that if nitzok does not apply to foods (liquids are not unified), then the whole melted fat should also be pure \u2014 which is exactly the question raised in the 'Liquids Not Combined' section about why the melted fat remains tamei given the nitzok principle.",
+      "chosen_heading": "Liquids Not Combined",
+      "current_heading": "Liquids Not Combined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Recongealing Answer",
+    "candidates": [
+      "Container Question",
+      "Recongealing Answer",
+      "Stickiness Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's explanation about the column of fire recongealing the fat, which is precisely what the 'Recongealing Answer' section discusses.",
+      "chosen_heading": "Recongealing Answer",
+      "current_heading": "Recongealing Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Stickiness Debate",
+    "candidates": [
+      "Stickiness Debate",
+      "Unresolved Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Ravina/Rav Ashi exchange about whether stickiness (riri) or thickness (smichut) is the operative criterion, which is precisely what the 'Stickiness Debate' prose describes, including the specific terms midi irya, smichin, and riri.",
+      "chosen_heading": "Stickiness Debate",
+      "current_heading": "Stickiness Debate",
+      "moved": false
+    }
+  }
+]

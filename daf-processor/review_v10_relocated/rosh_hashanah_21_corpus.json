@@ -1,0 +1,369 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Yochanan & Reish Lakish",
+    "candidates": [
+      "Requirement Statement",
+      "Yochanan & Reish Lakish",
+      "Abaye & Rava Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the two amoraic verse-based derivations (Rabbi Yo\u1e25anan and Reish Lakish) that heading 1 explicitly describes, and the current placement is correct.",
+      "chosen_heading": "Yochanan & Reish Lakish",
+      "current_heading": "Yochanan & Reish Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Abaye & Rava Debate",
+    "candidates": [
+      "Abaye & Rava Debate",
+      "Rashi's Explanation",
+      "Rabbeinu Chananel",
+      "Molad & Visibility Gap",
+      "Chatzos & Matzah",
+      "Fixed Calendar Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's answer to 'mai beinaihu' \u2014 that the difference is purely one of textual interpretation (mashmaut dorshin) with no practical halachic consequence \u2014 which is exactly what the 'Abaye & Rava Debate' section's prose describes.",
+      "chosen_heading": "Abaye & Rava Debate",
+      "current_heading": "Abaye & Rava Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Fixed Calendar Practice",
+    "candidates": [
+      "Rashi's Explanation",
+      "Rabbeinu Chananel",
+      "Molad & Visibility Gap",
+      "Chatzos & Matzah",
+      "Fixed Calendar Practice",
+      "Rav Nachman Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Rava's statement about chatzos layla being the practical difference between Rabbi Yochanan and Reish Lakish \u2014 with the connection to matzah/Pesach until midnight \u2014 directly corresponds to the 'Chatzos & Matzah' section which explicitly discusses how chatzos enters the analysis through the structural connection to matzah obligation.",
+      "chosen_heading": "Chatzos & Matzah",
+      "current_heading": "Fixed Calendar Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Rav Nachman Principle",
+    "candidates": [
+      "Fixed Calendar Practice",
+      "Rav Nachman Principle",
+      "Discovery Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Nachman Principle",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Nachman's principle that uncertainty is cast forward (observing the 15th and 16th, not the 14th), which is exactly what the 'Rav Nachman Principle' prose describes.",
+      "second_heading": "Discovery Principle",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the question of why we don't also observe the 14th (in case both Av and Elul were short), which is precisely the concern the 'Discovery Principle' prose addresses \u2014 the gemara's answer that two consecutive short months would have become known.",
+      "current_heading": "Rav Nachman Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Discovery Principle",
+    "candidates": [
+      "Discovery Principle",
+      "Two-Day Observance",
+      "Levi's Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle that two consecutive short months would generate publicity, which is precisely what the prose under 'Discovery Principle' explains and cites as 'trei yarchei chasiri kala it lehu'.",
+      "chosen_heading": "Discovery Principle",
+      "current_heading": "Discovery Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Levi's Silence",
+    "candidates": [
+      "Two-Day Observance",
+      "Levi's Silence",
+      "Tosafot: Minhag Mekomos",
+      "Rav Yochanan Ruling",
+      "Geographic Zones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Levi's arrival in Babylonia, his comment about the food, and his refusal to testify because he didn't personally hear the court's proclamation \u2014 exactly what the 'Levi's Silence' section's prose discusses.",
+      "chosen_heading": "Levi's Silence",
+      "current_heading": "Levi's Silence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Geographic Zones",
+    "candidates": [
+      "Tosafot: Minhag Mekomos",
+      "Rav Yochanan Ruling",
+      "Geographic Zones",
+      "Uniformity Requirement",
+      "Aibo & Chiyya Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yo\u1e25anan's proclamation about messengers of Nissan vs. Tishrei and the two-day decree, which is precisely what the 'Rav Yochanan Ruling' prose section introduces and describes.",
+      "chosen_heading": "Rav Yochanan Ruling",
+      "current_heading": "Geographic Zones",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Aibo & Chiyya Story",
+    "candidates": [
+      "Uniformity Requirement",
+      "Aibo & Chiyya Story",
+      "Rava's Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly narrates the story of Rabbi Aivu bar Naggarei and Rabbi \u1e24iyya bar Abba visiting a community in the intermediate zone and Rav Yo\u1e25anan's angry reaction, which is precisely what the 'Aibo & Chiyya Story' prose describes.",
+      "chosen_heading": "Aibo & Chiyya Story",
+      "current_heading": "Aibo & Chiyya Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rava's Practice",
+    "candidates": [
+      "Rava's Practice",
+      "Rava Vindicated",
+      "Rabbeinu Chananel (II)",
+      "Rav Nachman Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's regular practice of fasting two days for Yom Kippur and mentions that it once happened in accordance with his opinion \u2014 both elements are directly addressed in the 'Rava's Practice' prose, which covers his custom and the reasoning behind it.",
+      "chosen_heading": "Rava's Practice",
+      "current_heading": "Rava's Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rav Nachman Story",
+    "candidates": [
+      "Rava Vindicated",
+      "Rabbeinu Chananel (II)",
+      "Rav Nachman Story",
+      "Nachman's Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav Nachman fasting on Yom Kippur and being told at evening that tomorrow is Yom Kippur in Eretz Yisrael, which exactly matches the 'Rav Nachman Story' section's prose about this very incident.",
+      "chosen_heading": "Rav Nachman Story",
+      "current_heading": "Rav Nachman Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Nachman's Curse",
+    "candidates": [
+      "Nachman's Curse",
+      "Solstice Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Na\u1e25man's exchange about the place name Damihareya, the 'blood will be his end' wordplay, and the verse from Lamentations, all of which are precisely what the 'Nachman's Curse' section's prose discusses.",
+      "chosen_heading": "Nachman's Curse",
+      "current_heading": "Nachman's Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Solstice Rule",
+    "candidates": [
+      "Solstice Rule",
+      "Verse Basis",
+      "Rashi's Explanation (II)",
+      "Adjustment Limits",
+      "Seafarer's Marker",
+      "Astronomical Marker"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the ruling from Rav Huna bar Avin to Rava about extending tekufas Tevet to the sixteenth of Nisan requiring a leap year, which is exactly what the 'Solstice Rule' section's prose describes.",
+      "chosen_heading": "Solstice Rule",
+      "current_heading": "Solstice Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Astronomical Marker",
+    "candidates": [
+      "Verse Basis",
+      "Rashi's Explanation (II)",
+      "Adjustment Limits",
+      "Seafarer's Marker",
+      "Astronomical Marker",
+      "Land vs. Sea",
+      "Nissan & Tishrei",
+      "Festival Dependency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Na\u1e25man's instruction to seafarers and the immediate follow-up clarification about when the moon sets \u2014 which is precisely the content described in the 'Seafarer's Marker' prose, not the 'Astronomical Marker' section which discusses the geometry of the full moon phenomenon separately.",
+      "chosen_heading": "Seafarer's Marker",
+      "current_heading": "Astronomical Marker",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Festival Dependency",
+    "candidates": [
+      "Land vs. Sea",
+      "Nissan & Tishrei",
+      "Festival Dependency",
+      "Formal Declaration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text introduces the rule about two months (Nissan and Tishrei) permitting Shabbat desecration, which is precisely what heading 1 'Nissan & Tishrei' introduces, while the current placement under 'Festival Dependency' (index 2) actually belongs to the explanatory prose that follows this mishna text.",
+      "chosen_heading": "Nissan & Tishrei",
+      "current_heading": "Festival Dependency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Formal Declaration",
+    "candidates": [
+      "Festival Dependency",
+      "Formal Declaration",
+      "Verse Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the contradiction between two months and six months, Abaye's resolution about messengers departing at nightfall for all months but waiting for the formal 'mekudash' declaration for Nisan and Tishrei, and the corroborating baraita \u2014 directly match the 'Formal Declaration' prose, which explicitly describes this same contradiction and Abaye's resolution about shluchim yotzim me'urta versus waiting for the formal mekudash declaration.",
+      "chosen_heading": "Formal Declaration",
+      "current_heading": "Formal Declaration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Verse Derivation",
+    "candidates": [
+      "Verse Derivation",
+      "Ben Zakkai's Takana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita deriving from the verse 'asher tikre'u otam' that Shabbat may be desecrated for the declaration of the new moon but not for the observance of the festivals \u2014 precisely what candidate 0 ('Verse Derivation') describes in its prose.",
+      "chosen_heading": "Verse Derivation",
+      "current_heading": "Verse Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Ben Zakkai's Takana",
+    "candidates": [
+      "Ben Zakkai's Takana",
+      "Post-Mikdash Reality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the mishna and baraita content about desecrating Shabbat for all months when the Temple stood and Rabban Yochanan ben Zakkai's subsequent restriction to Nisan and Tishrei, which is exactly what the 'Ben Zakkai's Takana' prose discusses, whereas the 'Post-Mikdash Reality' prose focuses on the broader interpretive framework of his takannot rather than the primary text itself.",
+      "chosen_heading": "Ben Zakkai's Takana",
+      "current_heading": "Ben Zakkai's Takana",
+      "moved": false
+    }
+  }
+]

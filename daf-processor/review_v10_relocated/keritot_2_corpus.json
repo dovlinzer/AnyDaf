@@ -1,0 +1,197 @@
+[
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Asham Talui",
+    "candidates": [
+      "Masechet Overview",
+      "Focus on Chatat",
+      "Text Transmission",
+      "Pseudo-Rashi Issue",
+      "Karet Intro",
+      "What is Karet",
+      "Arayot List",
+      "Gender in Arayot",
+      "Arayot Continued",
+      "Non-Sexual Karets",
+      "Temple Violations",
+      "Forbidden Foods",
+      "Oil, Incense, Chametz",
+      "Pesach & Milah",
+      "Mishna 2 Intro",
+      "Shogeg Definition",
+      "Omer Mutar",
+      "Asham Talui",
+      "Blasphemer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 17,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna text about karet for intentional violation, chatat for unintentional violation, and asham talui for uncertain cases with the exception for Temple defilement (oleh v'yored), which is precisely what the 'Asham Talui' section's prose discusses.",
+      "chosen_heading": "Asham Talui",
+      "current_heading": "Asham Talui",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Blasphemer",
+    "candidates": [
+      "Blasphemer",
+      "Why 36 Karets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Rabbis excluding the blasphemer from chatat/asham talui liability due to lack of physical action, which is precisely what the 'Blasphemer' section prose discusses.",
+      "chosen_heading": "Blasphemer",
+      "current_heading": "Blasphemer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Why 36 Karets",
+    "candidates": [
+      "Why 36 Karets",
+      "39 Melachot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'minyana lama li' question about the 36 karets and Rabbi Yo\u1e25anan's answer about liability for each one in a single lapse of awareness, which is precisely what the prose under 'Why 36 Karets' describes.",
+      "chosen_heading": "Why 36 Karets",
+      "current_heading": "Why 36 Karets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "39 Melachot",
+    "candidates": [
+      "39 Melachot",
+      "Mechusrei Kapparah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the 39 melachot mishna and the reason for stating the tally (liability for each in one lapse of awareness), which matches exactly the prose under '39 Melachot'.",
+      "chosen_heading": "39 Melachot",
+      "current_heading": "39 Melachot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Mechusrei Kapparah",
+    "candidates": [
+      "Mechusrei Kapparah",
+      "Voluntary Offerings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the four mechusrei kapparah and Rabbi Eliezer ben Yaakov's position that there are five, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Mechusrei Kapparah",
+      "current_heading": "Mechusrei Kapparah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Voluntary Offerings",
+    "candidates": [
+      "Voluntary Offerings",
+      "Five One Korban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the mishna's tally of four who bring an offering for intentional transgression as for unwitting transgression, and the exclusion of Rabbi Shimon's position on oath on a deposit \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Voluntary Offerings",
+      "current_heading": "Voluntary Offerings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Five One Korban",
+    "candidates": [
+      "Five One Korban",
+      "Nazir Tumah Detail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the question-and-answer about why the mishna counts five cases, with the answer introducing the nazir case \u2014 exactly what heading 0's prose describes as the core content of this section.",
+      "chosen_heading": "Five One Korban",
+      "current_heading": "Five One Korban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Nazir Tumah Detail",
+    "candidates": [
+      "Nazir Tumah Detail",
+      "Oleh V'yored"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the exact dispute between Rabbi Yehuda HaNasi and Rabbi Yosei son of Rabbi Yehuda regarding when naziriteship of purity takes effect, which is precisely what the prose under 'Nazir Tumah Detail' describes in detail.",
+      "chosen_heading": "Nazir Tumah Detail",
+      "current_heading": "Nazir Tumah Detail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Oleh V'yored",
+    "candidates": [
+      "Oleh V'yored",
+      "Avot Nezikin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the tally of five oleh v'yored cases and why the mishna states that number \u2014 specifically to exclude Rabbi Eliezer's position that a nasi brings a sa'ir \u2014 which matches exactly the prose under 'Oleh V'yored'.",
+      "chosen_heading": "Oleh V'yored",
+      "current_heading": "Oleh V'yored",
+      "moved": false
+    }
+  }
+]

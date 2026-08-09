@@ -22,9 +22,7 @@ The *mishna* continues with a parallel ruling regarding witnesses. *Zeh posel id
 
 ### Gemara Question
 
-The *gemara* opens with the question *mai zeh borer lo echad vezeh borer lo echad, bitlata sagi* — what does this mean, "this one chooses one and this one chooses one"? Three *dayanim* would suffice; why does the *mishna* speak of this elaborate procedure of choosing? According to Rashi's reading, the *gemara*'s initial assumption is that *echad* in the *mishna* means one entire *beit din* of three judges — meaning each litigant selects a full *beit din*, yielding six judges, and then together they choose a third *beit din*, yielding nine. The *gemara* finds this puzzling: we only need three.
-
----
+The *gemara* will ask *mai zeh borer* — what does this mean, "this one chooses one and this one chooses one"? Turning to Rashi,
 
 ## Perek III Intro (II)
 

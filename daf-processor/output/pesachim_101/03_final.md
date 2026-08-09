@@ -1,47 +1,39 @@
-# Pesachim 101 — Daf Yomi Shiur
-[DAF:101a]
-
+[DAF:100b]
 ## Kiddush in Shul
 
-### Intro: Shul Kiddush
 
-> **Hebrew/Aramaic:** אוֹתָם בְּנֵי אָדָם שֶׁקִּידְּשׁוּ בְּבֵית הַכְּנֶסֶת, אָמַר רַב: יְדֵי יַיִן לֹא יָצְאוּ, יְדֵי קִידּוּשׁ יָצְאוּ. וּשְׁמוּאֵל אָמַר:
->
-> **Translation:** The Gemara continues to discuss the *halakhot* of *kiddush*: With regard to **those people who recited *kiddush* in the synagogue,** as was customarily done at the conclusion of the prayer service on Shabbat night, **Rav said: They have not fulfilled** their obligation to recite a blessing **over wine.** That is, the blessing over the wine in the synagogue does not enable them to drink wine at home without an additional blessing. However, **they have fulfilled** their obligation **of** reciting ***kiddush*. And Shmuel said:**
+
+### Intro: Shul Kiddush
 
 The Gemara on 101b opens with a case involving those who recited *kiddush* in the synagogue — *otam bnei adam shekidshu bevet haknesses* — and asks what the halachic consequence of that *kiddush* is. The framing question is simple: has one fulfilled one's obligation, and if so, which obligation exactly?
 
 ### Rav's Position
 
-> **Hebrew/Aramaic:** אַף יְדֵי קִידּוּשׁ לֹא יָצְאוּ. אֶלָּא לְרַב, לְמָה לֵיהּ לְקַדּוֹשֵׁי בְּבֵיתֵיהּ? כְּדֵי לְהוֹצִיא בָּנָיו וּבְנֵי בֵיתוֹ.
->
-> **Translation:** **Even** the obligation **of *kiddush* they have not fulfilled,** and they must recite *kiddush* again at home. The Gemara asks: **But according to** the opinion of **Rav, why** should one have **to recite *kiddush*** a second time **at home** if he has already fulfilled his obligation in the synagogue? The Gemara answers: He must repeat *kiddush* **to fulfill** the obligations of **his children and the members of his household,** who did not come to the synagogue.
-
 Rav's answer is precise but initially surprising. He says *yedei yayin lo yatzu, yedei kiddush yatzu* — they did not fulfill the obligation regarding the wine, but they did fulfill the obligation of *kiddush*. The Rashbam explains that this is not a question about Shabbat *per se* but about *halachot berakhot*. Having recited *borei pri hagafen* in the *shul*, and then departing for home, the change of location — *shinuy makom* — means that if one wishes to continue drinking wine, a new *borei pri hagafen* is required. That is the principle of *shinuy makom*: a change of location, even if anticipated, requires a new *berakhah* on wine. The *kiddush* obligation itself, however, has been fulfilled even without a meal at that location. This *shinuy makom* question is flagged as a *berakhot* issue that the *Gemara* will return to at length; the immediate focus is the ruling that *yedei kiddush yatzu* — one is *yotzei kiddush* even though no meal was eaten in the *shul*.
 
-### Shmuel's Position
+> **Hebrew/Aramaic:** אוֹתָם בְּנֵי אָדָם שֶׁקִּידְּשׁוּ בְּבֵית הַכְּנֶסֶת, אָמַר רַב: יְדֵי יַיִן לֹא יָצְאוּ, יְדֵי קִידּוּשׁ יָצְאוּ. וּשְׁמוּאֵל אָמַר:
+> **Translation:** The Gemara continues to discuss the *halakhot* of *kiddush*: With regard to **those people who recited *kiddush* in the synagogue,** as was customarily done at the conclusion of the prayer service on Shabbat night, **Rav said: They have not fulfilled** their obligation to recite a blessing **over wine.** That is, the blessing over the wine in the synagogue does not enable them to drink wine at home without an additional blessing. However, **they have fulfilled** their obligation **of** reciting ***kiddush*. And Shmuel said:**
 
-> **Hebrew/Aramaic:** וּשְׁמוּאֵל אָמַר: אַף יְדֵי קִידּוּשׁ לֹא יָצְאוּ.
->
-> **Translation:** **And Shmuel said: Even** the obligation **of *kiddush* they have not fulfilled.**
+[DAF:101a]
+### Shmuel's Position
 
 Shmuel disagrees sharply. He holds *af yedei kiddush lo yatzu* — one has not fulfilled the *kiddush* obligation at all. His ruling rests on the fundamental principle that *ein kiddush ela bimkom seudah*: *kiddush* is valid only in the place where the meal will be eaten.
 
+> **Hebrew/Aramaic:** אַף יְדֵי קִידּוּשׁ לֹא יָצְאוּ. אֶלָּא לְרַב, לְמָה לֵיהּ לְקַדּוֹשֵׁי בְּבֵיתֵיהּ? כְּדֵי לְהוֹצִיא בָּנָיו וּבְנֵי בֵיתוֹ.
+> **Translation:** **Even** the obligation **of *kiddush* they have not fulfilled,** and they must recite *kiddush* again at home. The Gemara asks: **But according to** the opinion of **Rav, why** should one have **to recite *kiddush*** a second time **at home** if he has already fulfilled his obligation in the synagogue? The Gemara answers: He must repeat *kiddush* **to fulfill** the obligations of **his children and the members of his household,** who did not come to the synagogue.
+
 ### Rav's Reasoning
+
+
 
 Given Rav's position that one is *yotzei kiddush* in *shul*, the *Gemara* asks the obvious question: why then bother making *kiddush* again at home? The answer is *kedei lehotzi banav uvnei beito* — to discharge the obligation on behalf of one's children, spouse, guests, and household members who were not present in the *shul*. This invokes the general principle of *af al pi sheyotzei motzi* — even one who has already fulfilled an obligation may discharge it on behalf of others. Moreover, anyone who hears *kiddush* recited in *shul* and wishes to be *yotzei* with it may do so; those who already fulfilled their own obligation need not repeat it at home for their own sake.
 
 ### Shmuel's Reasoning
 
-> **Hebrew/Aramaic:** וּשְׁמוּאֵל, לְמָה לִי לְקַדּוֹשֵׁי בְּבֵי כְנִישְׁתָּא? לְאַפּוֹקֵי אוֹרְחִים יְדֵי חוֹבָתָן, דְּאָכְלוּ וְשָׁתוּ וְגָנוּ בְּבֵי כְנִישְׁתָּא.
->
+> **Hebrew/Aramaic:** וּשְׁמוּאֵל, לְמָה לִי לְקַדּוֹשֵׁי בְּבֵי כְנִישְׁתָּא? לְאַפּוֹקֵי אוֹרְחִים יְדֵי חוֹבָתָן, דְּאָכְלוּ וְשָׁתוּ וְגָנוּ בְּבֵי כְנִישְׁתָּא.
 > **Translation:** The Gemara asks: **But** according to the opinion of **Shmuel, why do I** need **to recite *kiddush* in the synagogue** at all, if one does not fulfill his obligation with that *kiddush*? The Gemara answers: The purpose of *kiddush* in the synagogue is **to fulfill the obligations of the guests who eat and drink and sleep in the synagogue.** Since these visitors are staying in the synagogue for Shabbat, they must hear *kiddush* there.
 
 The *Gemara* presses Shmuel in the other direction: if one is *not* *yotzei* with *shul kiddush*, why recite it there at all? The answer is *le'afokei orchim yedei chovatan* — to discharge the obligation of the guests. Why are guests different? *De'achlu veshatu veganu bevei kenishta* — because they eat, drink, and sleep in the *shul*. As Tosafot notes, this does not mean literally in the sanctuary; rather, it refers to some side room that functions as the guests' quarters. For those guests, the *shul* itself is their *makom seudah*, and therefore the *kiddush* recited there is fully valid for them.
-
-> **Hebrew/Aramaic:** וְאַזְדָּא שְׁמוּאֵל לְטַעְמֵיהּ, דְּאָמַר שְׁמוּאֵל: אֵין קִידּוּשׁ אֶלָּא בִּמְקוֹם סְעוּדָה.
->
-> **Translation:** **And Shmuel follows his** line of **reasoning, as Shmuel said: There is no** valid ***kiddush* except in the place of** one's Shabbat **meal.**
 
 The *Gemara* then states explicitly: *de'azal Shmuel letameih* — Shmuel goes according to his own reasoning, namely *ein kiddush ela bimkom seudah*.
 
@@ -69,19 +61,26 @@ A related question concerns who should ideally recite *kiddush*. The principle o
 
 ### Wine Not Required
 
-Tosafot draws one further inference from this *Gemara*: it appears that drinking the wine is not required in order to be *yotzei kiddush*. Tosafot on 101b states: *af al pi shelo shatu, rak sheyitaom hamvarekh, o afilu echad meihem; ulchatchila tzarich sheyitaamu kulam* — even if the listeners did not drink, as long as the one reciting *kiddush* tasted, or at minimum one person did, there is *yetziat kiddush*. The ideal is for everyone to drink, but it is not strictly required for *yetziat kiddush*. The resulting picture is somewhat counterintuitive: one can hear *kiddush* and be *yotzei* without drinking the wine — even from a person who is himself not *yotzei kiddush* because he is not remaining for the *seudah* — yet the one thing one *must* do is eat a meal. There is a small irony here: the very act from which the *kiddush* obligation is formally discharged is not drinking wine but eating the *seudah*. That this is a function of *kiddush bimkom seudah* rather than of the wine *per se* is a point that will resurface in the fuller discussion below.
+Tosafot draws one further inference from this *Gemara*: it appears that drinking the wine is not required in order to be *yotzei kiddush*. Tosafot on 101b states: *af al pi shelo shatu, rak sheyitaom hamvarekh, o afilu echad meihem; ulchatchila tzarich sheyitaamu kulam* — even if the listeners did not drink, as long as the one reciting *kiddush* tasted, or at minimum one person did, there is *yetziat kiddush*. The ideal is for everyone to drink, but it is not strictly required for *yetziat kiddush*. Underlying this is a broader point about *birchat hanenin* — blessings of pleasure — and how they function relative to *motzi* others. If one wishes to be *motzi* another with a *birchat hanenin*, such as *HaMotzi*, one must oneself be deriving pleasure from the food, because that blessing is rooted in personal enjoyment rather than in a shared communal obligation. One cannot recite such a blessing solely on another's behalf, nor can one repeat it for another after already having recited it for oneself without eating again. The *Borei Pri HaGafen* of *kiddush*, however, is treated differently: because it is incorporated into the *mitzvah berakhah* of *kiddush* itself, it takes on the character of that *mitzvah* obligation and is not governed by the same strictly personal logic of *hana'ah*. The resulting picture is somewhat counterintuitive: one can hear *kiddush* and be *yotzei* without drinking the wine — even from a person who is himself not *yotzei kiddush* because he is not remaining for the *seudah* — yet the one thing one *must* do is eat a meal. There is a small irony here: the very act from which the *kiddush* obligation is formally discharged is not drinking wine but eating the *seudah*. That this is a function of *kiddush bimkom seudah* rather than of the wine *per se* is a point that will resurface in the fuller discussion below.
 
 ---
 
-## Makom Seudah Evidenc (II)
+## Makom Seudah Evidence
+
+
 
 ### Ein Kiddush Principle
 
-> **Hebrew/Aramaic:** סְבוּר מִינַּהּ: הָנֵי מִילֵּי מִבַּיִת לְבְַיִת, אֲבָל מִמָּקוֹם לְמָקוֹם בְּחַד בֵּיתָא — לָא.
->
-> **Translation:** If one does not eat a meal in the location in which he recites *kiddush*, he has not fulfilled the mitzva of *kiddush*. The students **understood from** this statement that **this** *halakha* **applies** only when one goes **from house to house** and eats the Shabbat meal in a different house from the one in which he recited *kiddush*. **But** if one went **from** the **place** where he recited *kiddush* **to** another **place in one house, no,** there is no problem, and he has fulfilled the mitzva of *kiddush*.
-
 The *Gemara* now states the principle of *ein kiddush ela bimkom seudah* explicitly as a topic in its own right and examines it from multiple angles.
+
+> **Hebrew/Aramaic:** וְאַזְדָּא שְׁמוּאֵל לְטַעְמֵיהּ, דְּאָמַר שְׁמוּאֵל: אֵין קִידּוּשׁ אֶלָּא בִּמְקוֹם סְעוּדָה. סְבוּר מִינַּהּ: הָנֵי מִילֵּי מִבַּיִת לְבַיִת, אֲבָל מִמָּקוֹם לְמָקוֹם בְּחַד בֵּיתָא — לָא.
+> **Translation:** **And Shmuel follows his** line of **reasoning, as Shmuel said: There is no** valid ***kiddush* except in the place of** one’s Shabbat **meal.** If one does not eat a meal in the location in which he recites *kiddush*, he has not fulfilled the mitzva of *kiddush*. The students **understood from** this statement that **this** *halakha* **applies** only when one goes **from house to house** and eats the Shabbat meal in a different house from the one in which he recited *kiddush*. **But** if one went **from** the **place** where he recited *kiddush* **to** another **place in one house, no,** there is no problem, and he has fulfilled the mitzva of *kiddush*.
+
+> **Hebrew/Aramaic:** אֲמַר לְהוּ רַב עָנָן בַּר תַּחְלִיפָא: זִימְנִין סַגִּיאִין הֲוָה קָאֵימְנָא קַמֵּיהּ דִּשְׁמוּאֵל, וְנָחֵית מֵאִיגָּרָא לְאַרְעָא וַהֲדַר מְקַדֵּשׁ.
+> **Translation:** However, **Rav Anan bar Taḥalifa said to** the students: **Many times I stood before Shmuel, and he descended from the roof to the ground** floor **and recited *kiddush* again.** This indicates that Shmuel maintains that even if one recites *kiddush* and eats the Shabbat meal in a different part of the same house, he must recite *kiddush* a second time.
+
+> **Hebrew/Aramaic:** וְאַף רַב הוּנָא סָבַר אֵין קִידּוּשׁ אֶלָּא בִּמְקוֹם סְעוּדָה. דְּרַב הוּנָא קַדֵּישׁ, וְאִיתְעֲקַרָא לֵיהּ שְׁרָגָא, וְעַיַּילִי לֵיהּ לְמָנֵיהּ לְבֵי גְנָנֵיהּ דְּרַבָּה בְּרֵיהּ דַּהֲוָה שְׁרָגָא וְקַדֵּישׁ וּטְעֵים מִידֵּי, אַלְמָא קָסָבַר: אֵין קִידּוּשׁ אֶלָּא בִּמְקוֹם סְעוּדָה.
+> **Translation:** With regard to this *halakha*, the Gemara notes: **And Rav Huna also maintains** that **there is no *kiddush* except in the place of** one’s Shabbat **meal.** The proof of this is **that Rav Huna** once **recited *kiddush* and his lamp was extinguished. And** as it was difficult to eat in the dark, **he brought his belongings to the wedding home of his son Rabba, where there was a lamp, and he recited *kiddush*** there **and tasted some** food. **Apparently,** Rav Huna **maintains** that **there is no *kiddush* except in the place of** one’s Shabbat **meal.**
 
 ### Rashbam's Explanations
 
@@ -89,21 +88,15 @@ The Rashbam offers two reasons for the requirement. The first is that since *kid
 
 ### Rav Huna's Case
 
-> **Hebrew/Aramaic:** וְאַף רַב הוּנָא סָבַר אֵין קִידּוּשׁ אֶלָּא בִּמְקוֹם סְעוּדָה. דְּרַב הוּנָא קַדֵּישׁ, וְאִיתְעֲקַרָא לֵיהּ שְׁרָגָא, וְעַיַּילִי לֵיהּ לְמָנֵיהּ לְבֵי גְנָנֵיהּ דְּרַבָּה בְּרֵיהּ דַּהֲוָה שְׁרָגָא וְקַדֵּישׁ וּטְעֵים מִידֵּי, אַלְמָא קָסָבַר: אֵין קִידּוּשׁ אֶלָּא בִּמְקוֹם סְעוּדָה.
->
-> **Translation:** With regard to this *halakha*, the Gemara notes: **And Rav Huna also maintains** that **there is no *kiddush* except in the place of** one's Shabbat **meal.** The proof of this is **that Rav Huna** once **recited *kiddush* and his lamp was extinguished. And** as it was difficult to eat in the dark, **he brought his belongings to the wedding home of his son Rabba, where there was a lamp, and he recited *kiddush*** there **and tasted some** food. **Apparently,** Rav Huna **maintains** that **there is no *kiddush* except in the place of** one's Shabbat **meal.**
-
 A case involving Rav Huna illustrates *ein kiddush ela bimkom seudah* in practice. Rav Huna made *kiddush* and intended to eat, but then his candle blew out — *itfara lei shraga*. He then brought his vessels to the house of Rabbah his son, who had recently married and where there was light, and recited *kiddush* again and ate there. The *Gemara* concludes: *almah kasavar ein kiddush ela bimkom seudah* — this demonstrates that when one is no longer able to eat in the location where *kiddush* was recited, one must make *kiddush* again in the new location where the meal will take place.
 
 ---
 
 ## Shinuy Makom
 
-### Rav Anan's Testimony
 
-> **Hebrew/Aramaic:** אֲמַר לְהוּ רַב עָנָן בַּר תַּחְלִיפָא: זִימְנִין סַגִּיאִין הֲוָה קָאֵימְנָא קַמֵּיהּ דִּשְׁמוּאֵל, וְנָחֵית מֵאִיגָּרָא לְאַרְעָא וַהֲדַר מְקַדֵּשׁ.
->
-> **Translation:** However, **Rav Anan bar Taḥalifa said to** the students: **Many times I stood before Shmuel, and he descended from the roof to the ground** floor **and recited *kiddush* again.** This indicates that Shmuel maintains that even if one recites *kiddush* and eats the Shabbat meal in a different part of the same house, he must recite *kiddush* a second time.
+
+### Rav Anan's Testimony
 
 The *Gemara* had initially speculated that the restriction of *makom seudah* might apply only when moving from one building to another — *mibayit lebayit* — but not between different locations within a single building — *mimakom lemakom bechad beisa*. Rav Anan bar Tachlifa then testifies directly: *zimnin sagi'in havei kamina kamei d'Shmuel denachit me'igra le'ara vahadar mekadesh* — many times I was in the presence of Shmuel, and he would descend from the rooftop to the ground floor and only then make *kiddush*. Shmuel thus deliberately avoided making *kiddush* on the roof when the meal would be eaten downstairs, evidently because he considered the roof and the ground floor to be different *mekomot* even within the same structure. This testimony establishes that even a change of location within a single building can constitute a halachically meaningful *shinuy makom*.
 
@@ -111,11 +104,13 @@ The *Gemara* had initially speculated that the restriction of *makom seudah* mig
 
 ## Makom Seudah Evidenc (II)
 
+
+
 ### Tosafot's Qualification
 
 While the testimony of Rav Anan bar Tachlifa establishes that different floors within one building can be distinct locations for purposes of *kiddush bimkom seudah*, Tosafot introduces a qualification. Examining the phrase *mimakom lemakom bechad beisa*, Tosafot reads the case as involving a room-to-room change — *micheder levayit* — or a floor-to-floor change like *igra le'ara*. However, Tosafot rules that going from one corner of a room to another — *mipina lepina* — does not constitute a problematic *shinuy makom*. This is consistent with the later *Gemara* on *shinuy makom* and *berakhot*, which distinguishes *mipina lepina* from *mibayit lebayit*.
 
-### House vs. Room Distincti…
+### Houses vs. Rooms
 
 Two clear extremes emerge from the discussion: moving from one building to another is unambiguously a new *makom* that invalidates *kiddush bimkom seudah*; moving from one corner of a room to another within a large space is not. The intermediate case — different rooms or different floors within the same building — is less clear from the *Gemara* itself.
 
@@ -125,17 +120,17 @@ The conceptual rationale relates to the framing function of *kiddush*. When one 
 
 ### Shul Application
 
+
 This ruling has direct application to the standard practice of many synagogues, where *kiddush* is recited upstairs in the sanctuary and the *seudah* is served downstairs in the social hall. On the plain reading of the *Gemara*, this ought not to work — moving from one floor to another is akin to *igra le'ara*, the very case Shmuel took pains to avoid. But on the basis of Tosafot's reading of the Yerushalmi, since the *kiddush* is made upstairs with explicit intent to eat downstairs in the same building, it qualifies as *bimkom seudah*. This is the accepted practice and is treated as *lechatchila*.
 
-The distinction between two buildings and two locations within one building is thus the operative line: a *kiddush* made in *shul* can never discharge the obligation of someone who intends to eat at home — Shmuel is unambiguous on this — but a *kiddush* made in one part of a building can work for a meal eaten in another part, provided the intent was in place at the time of *kiddush*.
+The distinction between two buildings and two locations within one building is thus the operative line: a *kiddush* made in *shul* can never discharge the obligation of someone who intends to eat at home — Shmuel is unambiguous on this — but a *kiddush* made in one part of a building can work for a meal eaten in another part, provided the intent was in place at the time of *kiddush*. It is worth noting that this intent need not take the form of an explicit mental declaration; if one is routinely part of a *kiddush* made upstairs before proceeding to eat downstairs, the context itself establishes that the *kiddush* is understood as introducing what follows. It is only when the move to a second location is unplanned — a new idea, not part of the original frame — that the *kiddush* is seen as disconnected from the meal.
 
 One important corollary bears repeating: the fact that *kiddush* qualifies as *bimkom seudah* for those present at a *shul kiddush* does not help those who are listening without themselves having food. One must have food — at minimum *mezonot* — at one's own location for the *kiddush* to count as *bimkom seudah* for oneself.
 
 ### Abaye's Account
 
-> **Hebrew/Aramaic:** וְאַף רַבָּה סָבַר אֵין קִידּוּשׁ אֶלָּא בִּמְקוֹם סְעוּדָה. דַּאֲמַר אַבָּיֵי: כִּי הֲוֵינָא בֵּי מָר, כִּי הֲוָה מְקַדֵּשׁ אֲמַר לַן: טְעִימוּ מִידֵּי, דִּילְמָא אַדְּאָזְלִיתוּ לְאוּשְׁפִּיזָא מִתְעַקְרָא לְכוּ שְׁרָגָא וְלָא מְקַדֵּשׁ לְכוּ בְּבֵית אֲכִילָה, וּבְקִידּוּשָׁא דְהָכָא לָא נָפְקִיתוּ, דְּאֵין קִידּוּשׁ אֶלָּא בִּמְקוֹם סְעוּדָה.
->
-> **Translation:** The Gemara further comments: **And Rabba also maintains** that **there is no *kiddush* except in the place of** one's Shabbat **meal, as Abaye said: When I was in the house of my Master,** Rabba, **when he would recite *kiddush*** he would **say to us: Taste some** food here, **lest by the time you get to your** place of **lodging your lamp be extinguished, and you will not** be able to **recite *kiddush* in the place** where you will **eat. And with the *kiddush*** you heard **here you do not fulfill** the mitzva, **as there is no *kiddush* except in the place of** one's Shabbat **meal.**
+> **Hebrew/Aramaic:** וְאַף רַבָּה סָבַר אֵין קִידּוּשׁ אֶלָּא בִּמְקוֹם סְעוּדָה. דַּאֲמַר אַבָּיֵי: כִּי הֲוֵינָא בֵּי מָר, כִּי הֲוָה מְקַדֵּשׁ אֲמַר לַן: טְעִימוּ מִידֵּי, דִּילְמָא אַדְּאָזְלִיתוּ לְאוּשְׁפִּיזָא מִתְעַקְרָא לְכוּ שְׁרָגָא וְלָא מְקַדֵּשׁ לְכוּ בְּבֵית אֲכִילָה, וּבְקִידּוּשָׁא דְהָכָא לָא נָפְקִיתוּ, דְּאֵין קִידּוּשׁ אֶלָּא בִּמְקוֹם סְעוּדָה.
+> **Translation:** The Gemara further comments: **And Rabba also maintains** that **there is no *kiddush* except in the place of** one’s Shabbat **meal, as Abaye said: When I was in the house of my Master,** Rabba, **when he would recite *kiddush*** he would **say to us: Taste some** food here, **lest by the time you get to your** place of **lodging your lamp be extinguished, and you will not** be able to **recite *kiddush* in the place** where you will **eat. And with the *kiddush*** you heard **here you do not fulfill** the mitzva, **as there is no *kiddush* except in the place of** one’s Shabbat **meal.**
 
 The *Gemara* then cites a parallel case. Abaye relates: *ki havina bei mar* — when I was at the house of the Master (i.e., Rabbah, his teacher) — when Rabbah made *kiddush* on Friday night, he would say to the students: *teimu midi* — have a bit to eat right now before you go home. The reason: *dilma ad'azlitu le'ushpiza itfara lechu shraga* — perhaps by the time you travel to your lodgings, the candles there will have blown out. If that happens, *vela mekadesh lechu beveit achilah* — there will be no *kiddush* made in the place of eating, and *uvekidddusha dehacha lo nafkitu* — you will not have been *yotzei* with my *kiddush* here, *de'ein kiddush ela bimkom seudah* — because *kiddush* is valid only in the place of the meal. Therefore Rabbah insisted that students eat something before departing. This confirms both the principle of *ein kiddush ela bimkom seudah* and the personal nature of *bimkom seudah* — the students, even though they heard Rabbah's *kiddush*, must themselves eat in that place if they wish to be *yotzei* with it.
 
@@ -163,23 +158,21 @@ Rambam's position is that wine should accompany all three Shabbat meals, not jus
 
 ### Rabbah's Three Rulings
 
-> **Hebrew/Aramaic:** אִינִי?! וְהָאָמַר אַבָּיֵי: כֹּל מִילֵּי דְּמָר הֲוָה עָבֵיד כְּרַב, לְבַר מֵהָנֵי תְּלָת דְּעָבֵיד כִּשְׁמוּאֵל: מַתִּירִין מִבֶּגֶד לְבֶגֶד. וּמַדְלִיקִין מִנֵּר לְנֵר. וַהֲלָכָה כְּרַבִּי שִׁמְעוֹן בִּגְרִירָה.
->
-> **Translation:** The Gemara expresses surprise at this statement: **Is that so? But didn't Abaye say:** With regard to **all the** customs **of my Master,** Rabba, **he would act in accordance with** the opinion of **Rav, except for these three** instances, in which **he acted in accordance with** the opinion of **Shmuel:** Rabba maintained that **one** may **untie** ritual fringes [*tzitzit*] **from** one **garment** and tie them **to** another **garment,** contrary to Rav's opinion that this constitutes a disgrace of the mitzva. He also maintained that on Hanukkah **one** may **light from** one **lamp to** another **lamp,** despite Rav's opinion that this is prohibited as a mundane usage of the lamp of the mitzva. In addition, Rabba maintained that **the *halakha* is in accordance with** the opinion of **Rabbi Shimon in** the case of dragging.
-
 The *Gemara* now notes that while Rabbah generally ruled like Rav against Shmuel, Abaye records that in three specific cases Rabbah ruled like Shmuel. *Kol mili d'mar hava avid k'Rav, l'var mihani tlas d'avid k'Shmuel* — in everything else the Master followed Rav, but in these three he followed Shmuel.
+
+> **Hebrew/Aramaic:** אִינִי?! וְהָאָמַר אַבָּיֵי: כֹּל מִילֵּי דְּמָר הֲוָה עָבֵיד כְּרַב, לְבַר מֵהָנֵי תְּלָת דְּעָבֵיד כִּשְׁמוּאֵל: מַתִּירִין מִבֶּגֶד לְבֶגֶד. וּמַדְלִיקִין מִנֵּר לְנֵר. וַהֲלָכָה כְּרַבִּי שִׁמְעוֹן בִּגְרִירָה.
+> **Translation:** The Gemara expresses surprise at this statement: **Is that so? But didn’t Abaye say:** With regard to **all the** customs **of my Master,** Rabba, **he would act in accordance with** the opinion of **Rav, except for these three** instances, in which **he acted in accordance with** the opinion of **Shmuel:** Rabba maintained that **one** may **untie** ritual fringes [*tzitzit*] **from** one **garment** and tie them **to** another **garment,** contrary to Rav’s opinion that this constitutes a disgrace of the mitzva. He also maintained that on Hanukkah **one** may **light from** one **lamp to** another **lamp,** despite Rav’s opinion that this is prohibited as a mundane usage of the lamp of the mitzva. In addition, Rabba maintained that **the *halakha* is in accordance with** the opinion of **Rabbi Shimon in** the case of dragging.
+
+> **Hebrew/Aramaic:** דְּתַנְיָא, רַבִּי שִׁמְעוֹן אוֹמֵר: גּוֹרֵר אָדָם מִטָּה כִּסֵּא וְסַפְסָל בַּשַּׁבָּת, וּבִלְבַד שֶׁלֹּא יִתְכַּוֵּין לַעֲשׂוֹת חָרִיץ.
+> **Translation:** As it was taught in a *baraita* that **Rabbi Shimon says: A person** may **drag a bed, chair, or stool on Shabbat** if it is difficult for him to lift them, **provided that he does not intend to dig a furrow** in the ground. In the event that he does create a furrow, he has not violated a prohibition, as an unintentional act does not constitute a prohibited act of labor on Shabbat. In light of Abaye’s statement that with the exception of those three rulings Rabba always acted in accordance with Rav, why didn’t Rabba follow the opinion of Rav with regard to *kiddush*, as Rav maintains that one fulfills the mitzva of *kiddush* even if he does not eat his Shabbat meal in the same location?
+
+> **Hebrew/Aramaic:** כְּחוּמְרֵי דְרַב הֲוָה עָבֵיד, כְּקוּלֵּי דְרַב לָא הֲוָה עֲבִיד.
+> **Translation:** The Gemara answers: **He would act in accordance with Rav’s stringencies,** but **he would not act in accordance with Rav’s leniencies.** In the three cases listed above, Rabba was lenient despite Rav’s stringent ruling. However, with regard to *kiddush*, Rabba did not follow Rav’s lenient opinion.
 
 ### Three Cases
 
-> **Hebrew/Aramaic:** דְּתַנְיָא, רַבִּי שִׁמְעוֹן אוֹמֵר: גּוֹרֵר אָדָם מִטָּה כִּסֵּא וְסַפְסָל בַּשַּׁבָּת, וּבִלְבַד שֶׁלֹּא יִתְכַּוֵּין לַעֲשׂוֹת חָרִיץ.
->
-> **Translation:** As it was taught in a *baraita* that **Rabbi Shimon says: A person** may **drag a bed, chair, or stool on Shabbat** if it is difficult for him to lift them, **provided that he does not intend to dig a furrow** in the ground. In the event that he does create a furrow, he has not violated a prohibition, as an unintentional act does not constitute a prohibited act of labor on Shabbat. In light of Abaye's statement that with the exception of those three rulings Rabba always acted in accordance with Rav, why didn't Rabba follow the opinion of Rav with regard to *kiddush*, as Rav maintains that one fulfills the mitzva of *kiddush* even if he does not eat his Shabbat meal in the same location?
 
 The three cases are: (1) *ma'avirin mibeged lebeged* — Shmuel's ruling that one may transfer *tzitzit* from one garment to another, removing the *mitzvah* from one garment in order to place it on another; (2) *madlikin miner lener* — Shmuel's ruling that on *Chanukah* one may use one lit candle to light another, without concern that this disrespects the first *ner Chanukah*; (3) *halachah k'Rabbi Shimon bigreirah* — that one may drag a bed, chair, or bench on Shabbat even though doing so might inadvertently create a furrow, in accordance with the principle of *davar she'eino mitkavein* as ruled by Rabbi Shimon. Rabbah followed Shmuel, who ruled like Rabbi Shimon against Rav's position. This last ruling is of enormous practical importance throughout *hilchot Shabbat*: without it, one could not walk on grass lest one inadvertently uproot it, and countless ordinary Shabbat activities would be prohibited.
-
-> **Hebrew/Aramaic:** כְּחוּמְרֵי דְרַב הֲוָה עָבֵיד, כְּקוּלֵּי דְרַב לָא הֲוָה עֲבִיד.
->
-> **Translation:** The Gemara answers: **He would act in accordance with Rav's stringencies,** but **he would not act in accordance with Rav's leniencies.** In the three cases listed above, Rabba was lenient despite Rav's stringent ruling. However, with regard to *kiddush*, Rabba did not follow Rav's lenient opinion.
 
 The *Gemara* then explains how Rabbah could maintain this selective alignment. It was not that he arbitrarily adopted the *chumra* of each party — which would violate the principle that one cannot always take the stringent position from both sides of a dispute. Rather: *kechumrei deRav hava avid* — he followed Rav when Rav was *machmir*. But *kekulei deRav lo hava avid* — when Rav was the *meikel*, Rabbah did not follow him. In those three cases, Shmuel was the *machmir*, and Rabbah ruled accordingly. Tosafot notes the broader principle that one is permitted to take *chumrot* from different positions as long as they are not internally contradictory, and here Rabbah's approach was internally consistent. The application to *kiddush bimkom seudah* is that Rabbah, who generally ruled like Rav, here adopted Shmuel's *chumra* of *ein kiddush ela bimkom seudah*.
 
@@ -187,54 +180,52 @@ The *Gemara* then explains how Rabbah could maintain this selective alignment. I
 
 ## Shinuy Makom (II)
 
+
+
 ### Yochanan's Position
 
-> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן אָמַר: אַף יְדֵי יַיִן נָמֵי יָצְאוּ. וְאַזְדָּא רַבִּי יוֹחָנָן לְטַעְמֵיהּ, דְּאָמַר רַבִּי חָנִין בַּר אַבָּיֵי אָמַר רַבִּי פְּדָת אָמַר רַבִּי יוֹחָנָן: אֶחָד שִׁינּוּי יַיִן, וְאֶחָד שִׁינּוּי מָקוֹם — אֵין צָרִיךְ לְבָרֵךְ.
->
-> **Translation:** **And Rabbi Yoḥanan said:** Not only do those who recite *kiddush* in the synagogue fulfill the mitzva of *kiddush*, **they fulfill even** their obligation to recite a blessing **over** the **wine** they will drink during their meal at home. Since they intend to eat the Shabbat meal and drink wine at home, they do not divert their attention from the blessing and need not recite another one. **And Rabbi Yoḥanan follows his** regular line of **reasoning, as Rabbi Ḥanin bar Abaye said** that **Rabbi Pedat said** that **Rabbi Yoḥanan said: Both** in a case of **a change of wine** during a meal to a new type, **and a change of place,** i.e., one moves to a different location in the middle of his meal, he **need not recite** a new **blessing.**
+> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן אָמַר: אַף יְדֵי יַיִן נָמֵי יָצְאוּ. וְאַזְדָּא רַבִּי יוֹחָנָן לְטַעְמֵיהּ, דְּאָמַר רַבִּי חָנִין בַּר אַבָּיֵי אָמַר רַבִּי פְּדָת אָמַר רַבִּי יוֹחָנָן: אֶחָד שִׁינּוּי יַיִן,
+> **Translation:** **And Rabbi Yoḥanan said:** Not only do those who recite *kiddush* in the synagogue fulfill the mitzva of *kiddush*, **they fulfill even** their obligation to recite a blessing **over** the **wine** they will drink during their meal at home. Since they intend to eat the Shabbat meal and drink wine at home, they do not divert their attention from the blessing and need not recite another one. **And Rabbi Yoḥanan follows his** regular line of **reasoning, as Rabbi Ḥanin bar Abaye said** that **Rabbi Pedat said** that **Rabbi Yoḥanan said: Both** in a case of **a change of wine** during a meal to a new type,
+
 
 The *Gemara* returns to the first half of the original dispute — not the *kiddush bimkom seudah* question, but the *berakhot* question: if one made *kiddush* in *shul*, reciting *borei pri hagafen* and drinking, and then moves to a new location, must one recite a new *borei pri hagafen*? Both Rav and Shmuel agreed that one must; the earlier discussion focused on the *kiddush* question. Now Rabbi Yochanan takes a different position entirely: *af yedei yayin nami yatza* — one has also fulfilled the *yayin* obligation, meaning no new *borei pri hagafen* is required even after a change of location.
 
 Rabbi Yochanan goes according to a principle he is quoted as holding in the name of several transmitters — Rabbi Yochanan bar Abba citing Rav Chanin bar Abba citing Rav Assi citing Rabbi Yochanan: *echad shinui yayin ve'echad shinui makom ein tzarich levarech* — neither a change of wine (opening a new barrel) nor a change of location requires a new *berakhah*. It should be noted that while a change to a superior wine does not require a new *borei pri hagafen*, it does require *hatov vehametiv* if the new wine is better than what was on the table. The Rashbam and Tosafot both note this: changing wine barrels requires no new *borei pri hagafen*, but if the new wine is superior, *hatov vehametiv* must be recited. That question of *hatov vehametiv* is a separate discussion; the present point is whether *borei pri hagafen* must be repeated, and on that Rabbi Yochanan says no for both *shinuy yayin* and *shinuy makom*.
 
+[DAF:101b]
 ### Refutation of Yochanan
 
-> **Hebrew/Aramaic:** מֵיתִיבִי: שִׁינּוּי מָקוֹם צָרִיךְ לְבָרֵךְ, שִׁינּוּי יַיִן אֵין צָרִיךְ לְבָרֵךְ, תְּיוּבְתָּא דְּרַבִּי יוֹחָנָן תְּיוּבְתָּא.
->
-> **Translation:** The Gemara **raises an objection** from a *baraita*: In the case of **a change of place** one **must recite** a new **blessing;** however, in a case of **a change of wine** one **need not recite** another **blessing.** The Gemara concludes: **The refutation** of the opinion **of Rabbi Yoḥanan** is indeed **a conclusive refutation.**
+> **Hebrew/Aramaic:** וְאֶחָד שִׁינּוּי מָקוֹם — אֵין צָרִיךְ לְבָרֵךְ. מֵיתִיבִי: שִׁינּוּי מָקוֹם צָרִיךְ לְבָרֵךְ, שִׁינּוּי יַיִן אֵין צָרִיךְ לְבָרֵךְ, תְּיוּבְתָּא דְּרַבִּי יוֹחָנָן תְּיוּבְתָּא.
+> **Translation:** **and a change of place,** i.e., one moves to a different location in the middle of his meal, he **need not recite** a new **blessing.** The Gemara **raises an objection** from a *baraita*: In the case of **a change of place** one **must recite** a new **blessing;** however, in a case of **a change of wine** one **need not recite** another **blessing.** The Gemara concludes: **The refutation** of the opinion **of Rabbi Yoḥanan** is indeed **a conclusive refutation.**
 
 The *Gemara* immediately challenges Rabbi Yochanan with a *braita*: *shinuy makom tzarich levarech, shinuy yayin ein tzarich levarech* — a change of location requires a new *berakhah*, a change of wine does not. This *braita* is unambiguous: *shinuy makom* requires a new *berakhah*. The *Gemara* concludes: *tyuvta d'Rabbi Yochanan tyuvta* — Rabbi Yochanan's position is refuted. So *shinuy makom* does require a new *borei pri hagafen*. A question is noted: if one recited a *berakhah acharona* before leaving the first location, that would certainly break the continuity; but even absent a *berakhah acharona*, the objective change of location requires a new *berakhah rishona*.
 
-[DAF:101b]
-### Rav Chisda's First Teach…
+### Rav Chisda: Bayit vs
 
-> **Hebrew/Aramaic:** יָתֵיב רַב אִידִי בַּר אָבִין קַמֵּיהּ דְּרַב חִסְדָּא, וְיָתֵיב רַב חִסְדָּא וְקָאָמַר מִשְּׁמֵיהּ דְּרַב הוּנָא: הָא דְּאָמְרַתְּ שִׁינּוּי מָקוֹם צָרִיךְ לְבָרֵךְ, לֹא שָׁנוּ אֶלָּא מִבַּיִת לְבַיִת, אֲבָל מִמָּקוֹם לְמָקוֹם — לָא.
->
+> **Hebrew/Aramaic:** יָתֵיב רַב אִידִי בַּר אָבִין קַמֵּיהּ דְּרַב חִסְדָּא, וְיָתֵיב רַב חִסְדָּא וְקָאָמַר מִשְּׁמֵיהּ דְּרַב הוּנָא: הָא דְּאָמְרַתְּ שִׁינּוּי מָקוֹם צָרִיךְ לְבָרֵךְ, לֹא שָׁנוּ אֶלָּא מִבַּיִת לְבַיִת, אֲבָל מִמָּקוֹם לְמָקוֹם — לָא.
 > **Translation:** The Gemara relates: **Rav Idi bar Avin sat before Rav Ḥisda, and Rav Ḥisda sat and said in the name of Rav Huna: That** which **you said,** that after **a change of place** following *kiddush* one **must recite** a new **blessing, they only taught** this *halakha* with regard to one who moves **from house to house; however,** with regard to one who moves **from place to place** within one house, **no,** he is not obligated to recite a new blessing.
 
-With the refutation of Rabbi Yochanan established, the *Gemara* turns to define what constitutes a *shinuy makom* requiring a new *berakhah*. The passage is: Rav Idi bar Abin was sitting before Rav Chisda, and Rav Chisda was seated and transmitting in the name of Rav Huna: *ha de'amrat shinui makom tzarich levarech, lo shanu ela mibayit lebayit* — what we said, that changing location requires a new *berakhah*, applies only when going from one *bayit* to another *bayit*. But *mimakom lemakom* — from one location to another — or more precisely *mipina lepina* — from one corner of a room to another — does not require a new *berakhah*. That is not considered a *shinuy makom*.
-
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אִידִי בַּר אָבִין: הָכִי תְּנֵינָא לֵיהּ בְּמַתְנִיתָא דְּבֵי רַב הֵינַק, וְאָמְרִי לֵיהּ בְּמַתְנִיתָא דְּבֵי בַּר הֵינַק כְּווֹתָיךְ. וְאֶלָּא רַב הוּנָא מַתְנִיתָא קָא מַשְׁמַע לַן? רַב הוּנָא מַתְנִיתָא לָא שְׁמִיעַ לֵיהּ.
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אִידִי בַּר אָבִין: הָכִי תְּנֵינָא לֵיהּ בְּמַתְנִיתָא דְּבֵי רַב הֵינַק, וְאָמְרִי לֵיהּ בְּמַתְנִיתָא דְּבֵי בַּר הֵינַק כְּווֹתָיךְ. וְאֶלָּא רַב הוּנָא מַתְנִיתָא קָא מַשְׁמַע לַן? רַב הוּנָא מַתְנִיתָא לָא שְׁמִיעַ לֵיהּ.
 > **Translation:** **Rav Idi bar Avin said to him: This** is indeed what **we learned in the *baraita* of the school of Rav Hinak, and** some **say in the *baraita* of the school of bar Hinak, in accordance with your** ruling. The Gemara asks: **But** if there is a *baraita* that states the same *halakha*, does **Rav Huna** merely come to **teach us a *baraita*?** The Gemara answers: **Rav Huna** taught the *halakha* quoted in the *baraita* because **he had not heard the *baraita*.** Rav Huna independently issued the same ruling as that of the *baraita*.
+
+With the refutation of Rabbi Yochanan established, the *Gemara* turns to define what constitutes a *shinuy makom* requiring a new *berakhah*. The passage is: Rav Idi bar Abin was sitting before Rav Chisda, and Rav Chisda was seated and transmitting in the name of Rav Huna: *ha de'amrat shinui makom tzarich levarech, lo shanu ela mibayit lebayit* — what we said, that changing location requires a new *berakhah*, applies only when going from one *bayit* to another *bayit*. But *mimakom lemakom* — from one location to another — or more precisely *mipina lepina* — from one corner of a room to another — does not require a new *berakhah*. That is not considered a *shinuy makom*.
 
 Rav Idi bar Abin then notes that this was actually already taught in a *braita* from the school of Rav Huna — or, according to some versions, from the school of bar Huna: *kevaseich* — just as you said. The *Gemara* then asks: was Rav Huna then just teaching his own opinion as if it were novel, when it already appears in a *braita*? The answer: *Rav Huna masnita lo shemia lei* — Rav Huna had never encountered this *braita* from the school of bar Huna. He formulated his ruling on his own authority, and it happened to align with what was already taught.
 
 The operative parameters are thus: one building to another — definitely *shinuy makom* requiring a new *berakhah*; one corner of a room to another — definitely not *shinuy makom*. The intermediate case — different rooms or different floors within the same building — parallels the same ambiguity encountered in the *kiddush bimkom seudah* discussion. The term *bayit lebayit* in the *Gemara* can refer to different rooms within a building, so different rooms presumably create a *shinuy makom*, though this is not absolutely explicit. Moving from one visible space to another visible space within a room, on the other hand, does not. Whether having intent in mind helps in these intermediate cases — as Tosafot argued it does for *kiddush bimkom seudah* — is a question that the *Gemara* does not address directly here but is implicitly raised.
 
-### Rav Chisda's Second Teac…
-
-> **Hebrew/Aramaic:** וְתוּ, יָתֵיב רַב חִסְדָּא וְקָאָמַר מִשְּׁמֵיהּ דְּנַפְשֵׁיהּ: הָא דְּאָמְרַתְּ שִׁינּוּי מָקוֹם צָרִיךְ לְבָרֵךְ, לָא אֲמַרַן אֶלָּא בִּדְבָרִים שֶׁאֵין טְעוּנִין בְּרָכָה לְאַחֲרֵיהֶן בִּמְקוֹמָן, אֲבָל דְּבָרִים הַטְּעוּנִין בְּרָכָה לְאַחֲרֵיהֶן בִּמְקוֹמָן — אֵין צָרִיךְ לְבָרֵךְ.
->
-> **Translation:** **And furthermore, Rav Ḥisda sat and said in his own name,** not in the name of his teachers: **That** which **you said,** that after **a change of place** one **must recite** a new **blessing, we only said** so **with regard to** one who eats **items** of food **that do not require a blessing after them in their** original **place,** e.g., water or fruit. In a case of this kind, exiting one's location indicates that he has concluded his meal, and when he begins to eat again, this is considered a new meal that requires a new blessing. **However,** this is the ruling if one is eating **items** of food **that require a blessing** of significance, i.e., Grace after Meals and its abridged version, **after them,** e.g., one of the seven species: As this blessing must be recited **in their** original **place,** i.e., where one ate these foods, he has not completed his meal by exiting that location. Therefore, if he changes location and continues to eat, he **need not recite** a new **blessing.**
+### Rav Chisda: Beracha Achor
 
 Rav Chisda then makes a further ruling, this time in his own name: *ha de'amrat shinui makom tzarich levarech, lo amran ella bidvarim she'ein te'unin berakhah le'achareihem bimkoman* — the rule that a *shinuy makom* requires a new *berakhah rishona* applies only to foods that do not require a *berakhah acharona* in the specific location where they were eaten. But for foods that *do* require a *berakhah acharona* in the specific place — *devarim hate'unin berakhah le'achareihem bimkoman* — one does not make a new *berakhah rishona* upon moving to a new location.
 
+> **Hebrew/Aramaic:** וְתוּ, יָתֵיב רַב חִסְדָּא וְקָאָמַר מִשְּׁמֵיהּ דְּנַפְשֵׁיהּ: הָא דְּאָמְרַתְּ שִׁינּוּי מָקוֹם צָרִיךְ לְבָרֵךְ, לָא אֲמַרַן אֶלָּא בִּדְבָרִים שֶׁאֵין טְעוּנִין בְּרָכָה לְאַחֲרֵיהֶן בִּמְקוֹמָן,
+> **Translation:** **And furthermore, Rav Ḥisda sat and said in his own name,** not in the name of his teachers: **That** which **you said,** that after **a change of place** one **must recite** a new **blessing, we only said** so **with regard to** one who eats **items** of food **that do not require a blessing after them in their** original **place,** e.g., water or fruit. In a case of this kind, exiting one’s location indicates that he has concluded his meal, and when he begins to eat again, this is considered a new meal that requires a new blessing.
+
+> **Hebrew/Aramaic:** אֲבָל דְּבָרִים הַטְּעוּנִין בְּרָכָה לְאַחֲרֵיהֶן בִּמְקוֹמָן — אֵין צָרִיךְ לְבָרֵךְ. מַאי טַעְמָא, לְקִיבְעָא קַמָּא הָדַר. וְרַב שֵׁשֶׁת אָמַר: אֶחָד זֶה וְאֶחָד זֶה צָרִיךְ לְבָרֵךְ.
+> **Translation:** **However,** this is the ruling if one is eating **items** of food **that require a blessing** of significance, i.e., Grace after Meals and its abridged version, **after them,** e.g., one of the seven species: As this blessing must be recited **in their** original **place,** i.e., where one ate these foods, he has not completed his meal by exiting that location. Therefore, if he changes location and continues to eat, he **need not recite** a new **blessing. What is the reason** for this *halakha*? **He returns to the originally established** meal when he continues eating, as he certainly intended to continue that meal. **And Rav Sheshet said: Both** in **this** case **and that** case, whether or not one is eating food that requires a blessing afterward in the place where he ate, if he changes location and continues eating he **must recite** a new **blessing.**
+
 ### Lekviat Kama Hadar
 
-> **Hebrew/Aramaic:** מַאי טַעְמָא, לְקִיבְעָא קַמָּא הָדַר.
->
-> **Translation:** **What is the reason** for this *halakha*? **He returns to the originally established** meal when he continues eating, as he certainly intended to continue that meal.
 
 The reason: *lekvi'uta kama hadar* — one is, in effect, returning to the original established meal, the original *kevi'ut*. If food is of a kind that requires returning to its original location for the *berakhah acharona*, then any eating done elsewhere is seen as an extension of that original established eating, not as a new and independent event. The change of location does not sever the connection to the original *kevi'ut* because the person remains, by halachic logic, rooted in the original place.
 
@@ -256,32 +247,28 @@ This has a recognizable practical application. Consider a situation where a meal
 
 ### Rav Sheshet's Position
 
-> **Hebrew/Aramaic:** וְרַב שֵׁשֶׁת אָמַר: אֶחָד זֶה וְאֶחָד זֶה צָרִיךְ לְבָרֵךְ.
->
-> **Translation:** **And Rav Sheshet said: Both** in **this** case **and that** case, whether or not one is eating food that requires a blessing afterward in the place where he ate, if he changes location and continues eating he **must recite** a new **blessing.**
-
 Rav Sheshet takes an entirely different and maximally stringent view: *echad zeh ve'echad zeh tzarich levarech* — whether one is in the middle of a *Hamotzi* meal or eating casually, a genuine *shinuy makom* always requires a new *berakhah rishona*. Rav Sheshet does not accept Rav Chisda's distinction between established and non-established eating. For him, the objective fact of being in a new location is always halachically significant and always requires a new *berakhah*.
 
 It should be noted that this entire discussion has focused on the *berakhah rishona* upon returning to or continuing eating in a new location. Whether *shinuy makom* also requires a *berakhah acharona* before leaving the original location — as a sort of forced interruption — is a question Tosafot addresses with some ambiguity. According to Rav Sheshet, if a new *berakhah rishona* is always required upon moving, one might ask whether the act of moving itself constitutes a conclusion of eating at the first location requiring a *berakhah acharona* there. Tosafot's analysis of this point goes back and forth.
 
 ### Chavura Case
 
-> **Hebrew/Aramaic:** מֵיתִיבִי: בְּנֵי חֲבוּרָה שֶׁהָיוּ מְסוּבִּין לִשְׁתּוֹת, וְעָקְרוּ רַגְלֵיהֶן לָצֵאת לִקְרַאת חָתָן אוֹ לִקְרַאת כַּלָּה, כְּשֶׁהֵן יוֹצְאִין — אֵין טְעוּנִין בְּרָכָה לְמַפְרֵעַ, כְּשֶׁהֵן חוֹזְרִין — אֵין טְעוּנִין בְּרָכָה לְכַתְּחִלָּה.
->
-> **Translation:** The Gemara **raises an objection** to Rav Ḥisda's opinion from a *baraita*: With regard to **members of a group who were reclining to drink, and they uprooted themselves from their place to go** and **greet a groom or greet a bride, when they exit,** these foods **do not require a blessing** to be recited **afterward, and when they return** these foods **do not require an introductory blessing.**
+> **Hebrew/Aramaic:** מֵיתִיבִי: בְּנֵי חֲבוּרָה שֶׁהָיוּ מְסוּבִּין לִשְׁתּוֹת, וְעָקְרוּ רַגְלֵיהֶן לָצֵאת לִקְרַאת חָתָן אוֹ לִקְרַאת כַּלָּה, כְּשֶׁהֵן יוֹצְאִין — אֵין טְעוּנִין בְּרָכָה לְמַפְרֵעַ, כְּשֶׁהֵן חוֹזְרִין — אֵין טְעוּנִין בְּרָכָה לְכַתְּחִלָּה.
+> **Translation:** The Gemara **raises an objection** to Rav Ḥisda’s opinion from a *baraita*: With regard to **members of a group who were reclining to drink, and they uprooted themselves from their place to go** and **greet a groom or greet a bride, when they exit,** these foods **do not require a blessing** to be recited **afterward,** and **when they return** these foods **do not require an introductory blessing.**
+
+> **Hebrew/Aramaic:** בַּמֶּה דְּבָרִים אֲמוּרִים שֶׁהִנִּיחוּ שָׁם זָקֵן אוֹ חוֹלֶה, אֲבָל לֹא הִנִּיחוּ שָׁם לֹא זָקֵן וְלֹא חוֹלֶה, כְּשֶׁהֵן יוֹצְאִין — טְעוּנִין בְּרָכָה לְמַפְרֵעַ, כְּשֶׁהֵן חוֹזְרִין — טְעוּנִין בְּרָכָה לְכַתְּחִלָּה.
+> **Translation:** The *baraita* continues: **In what** case **is this statement said? When they left there an elderly or a sick** person who cannot go with them, and he remains in the place of the meal. In this case, the original meal is considered ongoing. **However,** if **they did not leave there an elderly or sick** person, **when they exit,** the foods that they have already eaten **require a blessing; when they return,** the foods that they will eat **require an introductory blessing.**
+
+> **Hebrew/Aramaic:** מִדְּקָתָנֵי עָקְרוּ רַגְלֵיהֶן, מִכְּלָל דְּבִדְבָרִים הַטְּעוּנִין בְּרָכָה לְאַחֲרֵיהֶן בִּמְקוֹמָן עָסְקִינַן, וְטַעְמָא דְּהִנִּיחוּ שָׁם זָקֵן אוֹ חוֹלֶה הוּא דִּכְשֶׁהֵן יוֹצְאִין אֵין טְעוּנִין בְּרָכָה לְמַפְרֵעַ וּכְשֶׁהֵן חוֹזְרִין אֵין טְעוּנִין בְּרָכָה לְכַתְּחִלָּה,
+> **Translation:** The Gemara infers from the *baraita*: **From** the fact **that it is taught** in the *baraita*: **Uprooted themselves,** this proves **by inference that we are dealing with items** of food **that require a blessing after them in their** original **place.** The word uprooted indicates that in the normal course of events, a blessing would have been required for this meal in its place, and for some reason the people left the meal early. **And the reason is that they left there an elderly or sick** person. **That is** why **when they exit,** these foods **do not require a blessing** to be recited **afterward, and when they return,** these foods **do not require an introductory blessing.**
+
+> **Hebrew/Aramaic:** אֲבָל לֹא הִנִּיחוּ שָׁם זָקֵן אוֹ חוֹלֶה, כְּשֶׁהֵן יוֹצְאִין — טְעוּנִין בְּרָכָה לְמַפְרֵעַ, וּכְשֶׁהֵן חוֹזְרִין — טְעוּנִין בְּרָכָה לְכַתְּחִלָּה, קַשְׁיָא לְרַב חִסְדָּא!
+> **Translation:** **However, if they did not leave there an elderly or sick** person, **when they exit,** the foods they have already eaten **require a blessing** to be recited **afterward, and when they return,** these foods **require an introductory blessing** before resuming eating. This is **difficult according to** the opinion of **Rav Ḥisda,** who maintains that even if one did not return to his original location at all but resumed eating elsewhere, he need not recite a new blessing.
 
 The *Gemara* now introduces a *braita* that bears on this: *bnei chavura shehayu mesubin lishtot, ve'akru ragleihem latzet likrat chatan o likrat kallah* — a group who were reclining and drinking, and they all got up to go welcome a wedding party. When they go out, *ein te'unin berakhah lemafrea* — they do not need to recite a *berakhah acharona* before leaving. When they return, *ein te'unin berakhah lechatchila* — they do not need to make a new *berakhah rishona*. All of this is treated as continuous. However, this applies only if they left someone behind — an elderly or ill person who could not join them. *Henihichu sham zaken o choleh* — the presence of that person creates continuity; the group is considered as though they remained. If they left no one behind, then when they go out they must recite a *berakhah acharona*, and when they return they must recite a new *berakhah rishona*. The *seudah* has been definitively interrupted.
-
-> **Hebrew/Aramaic:** בַּמֶּה דְּבָרִים אֲמוּרִים שֶׁהִנִּיחוּ שָׁם זָקֵן אוֹ חוֹלֶה, אֲבָל לֹא הִנִּיחוּ שָׁם לֹא זָקֵן וְלֹא חוֹלֶה, כְּשֶׁהֵן יוֹצְאִין — טְעוּנִין בְּרָכָה לְמַפְרֵעַ, כְּשֶׁהֵן חוֹזְרִין — טְעוּנִים בְּרָכָה לְכַתְּחִלָּה.
->
-> **Translation:** The *baraita* continues: **In what** case **is this statement said? When they left there an elderly or a sick** person who cannot go with them, and he remains in the place of the meal. In this case, the original meal is considered ongoing. **However, if they did not leave there an elderly or sick** person, **when they exit,** these foods that they have already eaten **require a blessing** to be recited **afterward, and when they return,** these foods that they will eat **require an introductory blessing.**
 
 Crucially, the *braita* uses the phrase *akru ragleihem* — "they uprooted their legs" — which implies that they were genuinely *kavu'a*, established and planted in their place. This is a *Hamotzi*-style meal, the type for which *Birkat Hamazon* must be recited in the *makom seudah*. Yet even for that type of established meal, a *shinuy makom* interrupts things, unless someone is left behind to maintain continuity. This seems to directly contradict Rav Chisda's ruling that established meals (*devarim hate'unin berakhah le'achareihem bimkoman*) are *not* subject to the *shinuy makom* requirement of a new *berakhah*. The *Gemara* therefore presents this as a *kashya* to Rav Chisda.
 
 ### Yehuda vs. Chachamim
-
-> **Hebrew/Aramaic:** מִדְּקָתָנֵי עָקְרוּ רַגְלֵיהֶן, מִכְּלָל דְּבִדְבָרִים הַטְּעוּנִין בְּרָכָה לְאַחֲרֵיהֶן בִּמְקוֹמָן עָסְקִינַן, וְטַעְמָא דְּהִנִּיחוּ שָׁם זָקֵן אוֹ חוֹלֶה הוּא דִּכְשֶׁהֵן יוֹצְאִין אֵין טְעוּנִין בְּרָכָה לְמַפְרֵעַ וּכְשֶׁהֵן חוֹזְרִין אֵין טְעוּנִין בְּרָכָה לְכַתְּחִלָּה,
->
-> **Translation:** The Gemara infers from the *baraita*: **From** the fact **that it is taught** in the *baraita*: **Uprooted themselves,** this proves **by inference that we are dealing with items** of food **that require a blessing after them in their** original **place.** The word uprooted indicates that in the normal course of events, a blessing would have been required for this meal in its place, and for some reason the people left the meal early. **And the reason is that they left there an elderly or sick** person. **That is** why **when they exit,** these foods **do not require a blessing** to be recited **afterward, and when they return,** these foods **do not require an introductory blessing.**
 
 The resolution lies in identifying the authorship of the *braita*. Rav Nachman bar Yitzchak says: *man tana akira akirot? Rabbi Yehuda* — the author of this *braita*, with its emphasis on *akirah* (uprooting), is Rabbi Yehuda. Rabbi Yehuda holds that even for an established *Hamotzi* meal, *shinuy makom* — without someone left behind to maintain continuity — interrupts the meal and requires both a *berakhah acharona* upon leaving and a new *berakhah rishona* upon returning. The *Chachamim*, however, disagree: even without someone left behind, the meal is considered continuous and no new *berakhot* are required. Rav Chisda's position, it emerges, aligns with the *Chachamim*: for an established meal, *shinuy makom* does not require a new *berakhah*. Rav Sheshet's maximally stringent position, on the other hand, aligns with Rabbi Yehuda. The debate between Rav Chisda and Rav Sheshet thus maps onto the Tannaitic dispute between Rabbi Yehuda and the *Chachamim* over whether *shinuy makom* during an established *kevi'at seudah* interrupts the meal. This will be developed in the following *daf*.

@@ -1,0 +1,545 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Rav's Death & Mourning",
+    "candidates": [
+      "Opening Dispute",
+      "Mishnah-Braita Tension",
+      "Designated Place Haseiba",
+      "Group vs Individual",
+      "Rav's Death & Mourning",
+      "Anonymous Elder's Help",
+      "Narrative Significance",
+      "Rav's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together form the continuous narrative about Rav's death, the students' dilemma at the Dannak River, and Rav Adda bar Ahava's double tearing of garments \u2014 exactly what candidate 4's prose describes.",
+      "chosen_heading": "Rav's Death & Mourning",
+      "current_heading": "Rav's Death & Mourning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Rav's View",
+    "candidates": [
+      "Anonymous Elder's Help",
+      "Narrative Significance",
+      "Rav's View",
+      "Rabbi Yochanan's View",
+      "Two Interpretations",
+      "Pre-Meal Customs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav's View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the first version of the Rav/Rabbi Yochanan dispute using the language of 'requires' (ba'ei haseiba), which is precisely what the prose under 'Rav's View' (index 2) and 'Rabbi Yochanan's View' (index 3) discuss \u2014 but since both sages appear together and the current placement covers Rav's view leading into Yochanan's, index 2 is the best single home for item 1.",
+      "second_heading": "Two Interpretations",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the second version using 'effective/ineffective' (mahani) language, which is exactly what the prose under 'Two Interpretations' (index 4) analyzes as a subtly different nuance from the first version.",
+      "current_heading": "Rav's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Pre-Meal Customs",
+    "candidates": [
+      "Rabbi Yochanan's View",
+      "Two Interpretations",
+      "Pre-Meal Customs",
+      "Meal Begins",
+      "Post-Meal Wine",
+      "Tosefta-Mishnah: Wine",
+      "Guests Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the full Tosefta text about the order of haseiba \u2014 guests entering, sitting on benches/chairs, washing one hand, and each blessing individually over pre-meal wine \u2014 which is precisely what the 'Pre-Meal Customs' section's prose describes and analyzes.",
+      "chosen_heading": "Pre-Meal Customs",
+      "current_heading": "Pre-Meal Customs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Guests Exception",
+    "candidates": [
+      "Meal Begins",
+      "Post-Meal Wine",
+      "Tosefta-Mishnah: Wine",
+      "Guests Exception",
+      "Context of Bread Haseiba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly concern the version of Rav's position where wine does not require haseiba \u2014 item 1 raises the difficulty from the Tosefta's first clause, and item 2 gives the 'guests are different / intention to leave' answer \u2014 which is precisely what candidate 3 ('Guests Exception') describes in its prose.",
+      "chosen_heading": "Guests Exception",
+      "current_heading": "Guests Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Context of Bread Haseiba",
+    "candidates": [
+      "Context of Bread Haseiba",
+      "Ben Zoma's Question",
+      "Choking Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present precisely the challenge and resolution discussed in heading 0's prose \u2014 the difficulty with the Tosefta's wine clause under Rav's version, and the 'dimigo' answer that bread-haseiba extends to wine \u2014 which is the exact content that heading 0's prose describes.",
+      "chosen_heading": "Context of Bread Haseiba",
+      "current_heading": "Context of Bread Haseiba",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Choking Explanation",
+    "candidates": [
+      "Ben Zoma's Question",
+      "Choking Explanation",
+      "Group Experience Need",
+      "Shared Experience",
+      "Convention & Hand-Washing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the question posed to Ben Zoma and his answer together as a unit, and candidate 0 ('Ben Zoma's Question') is the heading that introduces this exact question about why during the meal each person blesses for himself while after the meal one blesses for all \u2014 the answer (throat not available) is part of the same quoted passage and belongs under the heading that frames the question.",
+      "chosen_heading": "Ben Zoma's Question",
+      "current_heading": "Choking Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Convention & Hand-Washing",
+    "candidates": [
+      "Group Experience Need",
+      "Shared Experience",
+      "Convention & Hand-Washing",
+      "Mayim Acharonim Rule",
+      "Rav Adda Example",
+      "Rabbi Zeira's Question",
+      "Before or After?",
+      "Nehenin vs Shevach"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Convention & Hand-Washing",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the mishnah's question of why the wine-blesser also recites the mugmar blessing and the answer about washing hands first, which matches the 'Convention & Hand-Washing' prose exactly.",
+      "second_heading": "Rav Adda Example",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the narrative of Rav and Rabbi Chiya before Rabbi Yehuda HaNasi illustrating the mayim acharonim designation principle, which matches the 'Rav Adda Example' prose exactly.",
+      "current_heading": "Convention & Hand-Washing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Nehenin vs Shevach",
+    "candidates": [
+      "Mayim Acharonim Rule",
+      "Rav Adda Example",
+      "Rabbi Zeira's Question",
+      "Before or After?",
+      "Nehenin vs Shevach",
+      "Meorei Ha-Esh Example",
+      "General Rule",
+      "Braita Restriction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Before or After?",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the exchange between Rabbi Zeira and Rava bar Yirmeya about when to recite the blessing over incense (from when the column rises), with the hamotzi analogy \u2014 precisely what candidate 3 ('Before or After?') describes in its prose.",
+      "second_heading": "General Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Chisda's ruling that all mugmarot receive 'borei atzei besamim' except musk, which gets 'borei minei besamim' \u2014 exactly what candidate 6 ('General Rule') describes in its prose.",
+      "current_heading": "Nehenin vs Shevach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Braita Restriction",
+    "candidates": [
+      "Meorei Ha-Esh Example",
+      "General Rule",
+      "Braita Restriction",
+      "Resolution: Braita",
+      "Balsam Oil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita objection restricting borei atzei besamim to afarsamon and hadas, and the tiyuvta declaration \u2014 are precisely what the 'Braita Restriction' prose section describes as its content.",
+      "chosen_heading": "Braita Restriction",
+      "current_heading": "Braita Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Balsam Oil",
+    "candidates": [
+      "Resolution: Braita",
+      "Balsam Oil",
+      "Costus & Oil-Infused"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara passage about the blessing over balsam oil, which is exactly what the 'Balsam Oil' section prose describes \u2014 Rav Chisda's question, Rav Yehuda's borei shemen artzeinu, and Rabbi Yochanan's borei shemen areiv.",
+      "chosen_heading": "Balsam Oil",
+      "current_heading": "Balsam Oil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Costus & Oil-Infused",
+    "candidates": [
+      "Costus & Oil-Infused",
+      "Stalks as Etz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Adda bar Ahava's ruling on costus and oil-infused spices, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Costus & Oil-Infused",
+      "current_heading": "Costus & Oil-Infused",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Stalks as Etz",
+    "candidates": [
+      "Stalks as Etz",
+      "Daffodil Distinction",
+      "Flowers & Perennials",
+      "Fruit Blessings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses jasmine (simlak) and spikenard (hilfe de-yama) receiving 'borei atzei besamim,' which is exactly what the 'Flowers & Perennials' prose describes, and Mar Zutra's scriptural proof about flax stalks is cited there as establishing the basis for these rulings, making candidate 2 the better fit even though the proof text is also discussed in candidate 0.",
+      "chosen_heading": "Flowers & Perennials",
+      "current_heading": "Stalks as Etz",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Fruit Blessings",
+    "candidates": [
+      "Daffodil Distinction",
+      "Flowers & Perennials",
+      "Fruit Blessings",
+      "Trees Blessing Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three rulings together \u2014 the garden vs. field daffodil distinction (which is exactly what heading 0 'Daffodil Distinction' discusses), the violet ruling, and the etrog/quince ruling \u2014 and heading 0's prose explicitly addresses this entire block of Rav Mesharshiya's statement along with the broader principle of distinguishing atzei from ispei besamim for specific plants.",
+      "chosen_heading": "Daffodil Distinction",
+      "current_heading": "Fruit Blessings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Trees Blessing Text",
+    "candidates": [
+      "Fruit Blessings",
+      "Trees Blessing Text",
+      "Scriptural Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Rav Yehuda trees-blossoming blessing and the Rav Zutra/Rav derivation from 'kol ha-neshamah,' and the 'Trees Blessing Text' section prose explicitly covers both topics together, noting the smell-to-trees transition and stating that 'the question of the deeper scriptural grounding for blessings on such sensory experiences \u2014 including smell \u2014 is taken up immediately after,' making it the single best home for the entire combined passage.",
+      "chosen_heading": "Trees Blessing Text",
+      "current_heading": "Trees Blessing Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Scriptural Proof",
+    "candidates": [
+      "Scriptural Proof",
+      "Nature of Smell",
+      "Oil & Myrtle Practice",
+      "Shammai-Hillel Debate",
+      "Rabban Gamliel's Ruling",
+      "Halacha Ruling",
+      "Rav Pappa's Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "Both items are Rav Zutra bar Toviya sayings that appear as tangential elaborations following the soul/smell distinction \u2014 they are the kind of associative digressions the gemara appends after the neshamah proof-text \u2014 and the 'Nature of Smell' section's prose is the closest thematic context for material flowing out of that soul-benefit discussion, though neither fits perfectly.",
+      "chosen_heading": "Nature of Smell",
+      "current_heading": "Scriptural Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Rav Pappa's Story",
+    "candidates": [
+      "Nature of Smell",
+      "Oil & Myrtle Practice",
+      "Shammai-Hillel Debate",
+      "Rabban Gamliel's Ruling",
+      "Halacha Ruling",
+      "Rav Pappa's Story",
+      "Rava's Explanation",
+      "Oil-Wine Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rava's Explanation",
+      "first_confidence": "low",
+      "first_reason": "Items 1-3 contain standalone Amoraic sayings (pig proverb, torch/moon, fiery furnace) that don't match any candidate prose well, but are separate from the oil/myrtle topic that begins at item 4.",
+      "second_heading": "Rav Pappa's Story",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 are precisely the oil and myrtle blessing dispute and Rav Pappa's visit narrative described in the 'Rav Pappa's Story' section prose.",
+      "current_heading": "Rav Pappa's Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Oil-Wine Dispute",
+    "candidates": [
+      "Rava's Explanation",
+      "Oil-Wine Dispute",
+      "Wiping on Shamash",
+      "Unseemly for Scholars",
+      "Perfumed in Public"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita describes exactly the oil-wine dispute between Beit Shammai and Beit Hillel (including the wiping on the shamash detail), which matches the current placement under 'Oil-Wine Dispute' whose prose accurately summarizes this passage's content.",
+      "chosen_heading": "Oil-Wine Dispute",
+      "current_heading": "Oil-Wine Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159,
+      160
+    ],
+    "current_heading": "Perfumed in Public",
+    "candidates": [
+      "Wiping on Shamash",
+      "Unseemly for Scholars",
+      "Perfumed in Public",
+      "Alone at Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the baraita listing six disgraceful behaviors for a Torah scholar and the Gemara's elaboration on the first (going out perfumed), which is precisely what candidate 2 'Perfumed in Public' describes.",
+      "chosen_heading": "Perfumed in Public",
+      "current_heading": "Perfumed in Public",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Alone at Night",
+    "candidates": [
+      "Alone at Night",
+      "Patched Shoes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses going out alone at night and the exception for having a fixed study time, which matches perfectly with the 'Alone at Night' section's prose.",
+      "chosen_heading": "Alone at Night",
+      "current_heading": "Alone at Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      166
+    ],
+    "current_heading": "Patched Shoes",
+    "candidates": [
+      "Patched Shoes",
+      "Speaking with Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses patched shoes and Rabbi \u1e24iyya bar Abba's ruling, which directly matches the 'Patched Shoes' section's prose about the same topic.",
+      "chosen_heading": "Patched Shoes",
+      "current_heading": "Patched Shoes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      169
+    ],
+    "current_heading": "Speaking with Women",
+    "candidates": [
+      "Speaking with Women",
+      "Avoiding Am Ha'Aretz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibition of conversing with a woman in the marketplace, matching the 'Speaking with Women' section's prose exactly.",
+      "chosen_heading": "Speaking with Women",
+      "current_heading": "Speaking with Women",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      172
+    ],
+    "current_heading": "Avoiding Am Ha'Aretz",
+    "candidates": [
+      "Avoiding Am Ha'Aretz",
+      "Last to Arrive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses not reclining in the company of ignoramuses (amei ha-aretz) and the reason one may be drawn after them, which matches exactly the prose under 'Avoiding Am Ha'Aretz'.",
+      "chosen_heading": "Avoiding Am Ha'Aretz",
+      "current_heading": "Avoiding Am Ha'Aretz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      175
+    ],
+    "current_heading": "Last to Arrive",
+    "candidates": [
+      "Last to Arrive",
+      "Large Steps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses being the last to enter the study hall and being called negligent, which exactly matches the 'Last to Arrive' section's prose about the sixth prohibition regarding the beit ha-midrash and being called poshea.",
+      "chosen_heading": "Last to Arrive",
+      "current_heading": "Last to Arrive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      178
+    ],
+    "current_heading": "Large Steps",
+    "candidates": [
+      "Large Steps",
+      "Haughty Bearing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about large strides removing eyesight and the kiddush wine remedy, which matches exactly the prose under 'Large Steps'.",
+      "chosen_heading": "Large Steps",
+      "current_heading": "Large Steps",
+      "moved": false
+    }
+  }
+]

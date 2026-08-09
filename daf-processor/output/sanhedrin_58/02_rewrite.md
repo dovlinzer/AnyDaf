@@ -308,7 +308,7 @@ The answer: the father is already excluded by the later verse, *v'lo b'zachar* �
 
 ### Mother Parallel
 
-The Gemara challenges Rabbi Akiva's reading that *imo* means the mother literally. If *aviv* means *eshet aviv* — the father's wife — what is the basis for treating *imo* differently and reading it literally as the mother? Rabbi Akiva answers: the mother is analogous to the father's wife — *damya l'imo*. Just as the father's wife is prohibited not because of a marriage-based category (*eshes ish*) but because of her intimate connection to the father, so too the mother is prohibited through that same family-based logic rather than as an *eshes ish*. In other words, the prohibition of the mother is a *she'er*-based prohibition, not an *ervah*-based one.
+The Gemara raises the possibility of reading *imo* literally — as his actual mother — while *aviv* is taken to mean *eshet aviv*, the father's wife. The underlying logic is that just as a man's mother is prohibited to him not as an *eshet ish* but because of the inherent parent-child relationship, so too *eshet aviv* is prohibited not by virtue of being a married woman (in which case death would dissolve the prohibition) but because of her connection to his father — a family-bond prohibition rather than a marriage-based one.
 
 ## Eleazar Challenge (II)
 

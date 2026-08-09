@@ -136,8 +136,8 @@
           "timestamp": "24:21"
         }
       ],
-      "sefaria_index": 0,
-      "matched": true
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "Contextual Resolution: Seller's Intent Based on Financial Circumstances (continued)",
@@ -155,7 +155,7 @@
           "timestamp": "26:27"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -272,7 +272,7 @@
           "timestamp": "56:02"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 10,
       "matched": true
     }
   ],
@@ -487,5 +487,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "49:26",
+  "amud_b_micro_title": "Rabbi Meir Position",
+  "shiur_start_daf": 77,
+  "shiur_start_amud": "b"
 }

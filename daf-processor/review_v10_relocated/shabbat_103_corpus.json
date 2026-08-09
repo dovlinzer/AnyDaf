@@ -1,0 +1,364 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Mesatet Discussion",
+    "candidates": [
+      "Rav's Broad Boneh",
+      "Shmuel's Makeh B'Patish",
+      "Rashi on Makeh B'Patish",
+      "Tosafot's View",
+      "Mesatet Discussion",
+      "Hole with Peg Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is precisely the Rav Natan bar Oshaya\u2013Rabbi Yochanan exchange about mesatet being classified under makeh b'patish, which is exactly what the 'Mesatet Discussion' section's prose describes.",
+      "chosen_heading": "Mesatet Discussion",
+      "current_heading": "Mesatet Discussion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Hole with Peg Case",
+    "candidates": [
+      "Hole with Peg Case",
+      "Melacha Mitkayem",
+      "Rashi: Mitkayem Meaning",
+      "Quart Containers Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the 'ta shma' proof about drilling a hole and the gemara's resolution involving an iron nail left inside, which is precisely the content described in the 'Hole with Peg Case' prose.",
+      "chosen_heading": "Hole with Peg Case",
+      "current_heading": "Hole with Peg Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Quart Containers Case",
+    "candidates": [
+      "Melacha Mitkayem",
+      "Rashi: Mitkayem Meaning",
+      "Quart Containers Case",
+      "Anvil Striking",
+      "Challenge to Anvil",
+      "Training Hand Theory",
+      "B'nei Rechava Question",
+      "Mishkan Gold Plates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the gemara's question 'zeh haklal l'atuyei mai' and the answer about carving a kefiza (half-kav) vessel in a kav-capacity piece of wood, which is precisely what the 'Quart Containers Case' prose describes.",
+      "chosen_heading": "Quart Containers Case",
+      "current_heading": "Quart Containers Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Mishkan Gold Plates",
+    "candidates": [
+      "Anvil Striking",
+      "Challenge to Anvil",
+      "Training Hand Theory",
+      "B'nei Rechava Question",
+      "Mishkan Gold Plates",
+      "Choresh Minimum",
+      "Wood Gathering",
+      "Grass Gathering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers the full discussion including Rabbah/Rav Yosef's explanation, the bnei Rechava challenge, and Abaye/Rava's Mishkan gold plates resolution with the confirming baraita \u2014 all of which is synthesized and discussed together in the 'Mishkan Gold Plates' prose section (index 4), making that the best single home for the entire passage.",
+      "chosen_heading": "Mishkan Gold Plates",
+      "current_heading": "Mishkan Gold Plates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Grass Gathering",
+    "candidates": [
+      "Choresh Minimum",
+      "Wood Gathering",
+      "Grass Gathering",
+      "Ground Improvement Q",
+      "Swamp Resolution",
+      "Friend's Field Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishna listing plowing/weeding/pruning with kol shehu, the Gemara explaining the minimum for plowing as a single pumpkin seed, and the baraita detailing minimums for weeding/pruning \u2014 directly address the 'Choresh Minimum' section's topic of minimum shiurim for plowing, weeding, and pruning melachot, matching that prose perfectly.",
+      "chosen_heading": "Choresh Minimum",
+      "current_heading": "Grass Gathering",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Friend's Field Case",
+    "candidates": [
+      "Ground Improvement Q",
+      "Swamp Resolution",
+      "Friend's Field Case",
+      "Psik Reisha Concept",
+      "Psik Reisha Detail",
+      "Psik Reisha Status",
+      "Ritva's Challenge",
+      "Reconciliation",
+      "Melacha She'Eino",
+      "Tosafot Identity",
+      "Two Letters Rule",
+      "Roshem Opinion",
+      "Partial Name Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full arc from the initial question about ground improvement through Rabba/Rav Yosef's swamp resolution, Abaye's alternative, the psik reisha objection, and the 'friend's field' answer \u2014 all of which belongs under the 'Ground Improvement Q' heading that introduces this entire discussion, not split across later headings.",
+      "chosen_heading": "Ground Improvement Q",
+      "current_heading": "Friend's Field Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Partial Name Examples",
+    "candidates": [
+      "Psik Reisha Concept",
+      "Psik Reisha Detail",
+      "Psik Reisha Status",
+      "Ritva's Challenge",
+      "Reconciliation",
+      "Melacha She'Eino",
+      "Tosafot Identity",
+      "Two Letters Rule",
+      "Roshem Opinion",
+      "Partial Name Examples",
+      "Right-Left Hand",
+      "Lefty Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage is the mishna text about writing two letters (hakosev shetei osiyos), which corresponds directly to candidate 7 ('Two Letters Rule') whose prose explicitly introduces and explains this exact mishna about writing two letters, right/left hand, same/different letters, different inks, and any language.",
+      "chosen_heading": "Two Letters Rule",
+      "current_heading": "Partial Name Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Lefty Exception",
+    "candidates": [
+      "Right-Left Hand",
+      "Lefty Exception",
+      "Ambidextrous Case",
+      "Marking vs Writing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the entire discussion starting from the gemara's initial question about right/left hand liability through both Rabbi Yirmiyah's left-handed answer and Abaye's ambidextrous resolution, making it a single unified passage that belongs under the heading that introduces the right-hand/left-hand question ('Right-Left Hand'), not split across the later headings.",
+      "chosen_heading": "Right-Left Hand",
+      "current_heading": "Lefty Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Marking vs Writing",
+    "candidates": [
+      "Ambidextrous Case",
+      "Marking vs Writing",
+      "Baraita Achat",
+      "Me'achat Deduction",
+      "Name Hierarchy",
+      "Same Letters Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yaakov's attribution of the mishna to Rabbi Yosi's 'roshem' (marking) opinion and the gemara's resolution that the entire mishna follows Rabbi Yosi, which matches precisely the 'Marking vs Writing' section's prose description.",
+      "chosen_heading": "Marking vs Writing",
+      "current_heading": "Marking vs Writing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Same Letters Opinion",
+    "candidates": [
+      "Baraita Achat",
+      "Me'achat Deduction",
+      "Name Hierarchy",
+      "Same Letters Opinion",
+      "Symbol Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "All four items together form the continuous baraita-and-Gemara unit that culminates in Rabbi Yehuda's ruling about doubled letters (\u05e9\u05e9 \u05ea\u05ea etc.), which is precisely what candidate 3's prose describes.",
+      "chosen_heading": "Same Letters Opinion",
+      "current_heading": "Same Letters Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Symbol Requirement",
+    "candidates": [
+      "Symbol Requirement",
+      "Mitkayem Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yosei's position that the melacha is roshem (marking) not kotev (writing), with the specific example of scratches on beams, which is precisely what the 'Symbol Requirement' prose discusses.",
+      "chosen_heading": "Symbol Requirement",
+      "current_heading": "Symbol Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Mitkayem Standard",
+    "candidates": [
+      "Mitkayem Standard",
+      "Shimon Consistency",
+      "Word vs Sentence",
+      "New vs Existing",
+      "Korban Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mitkayem Standard",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Shimon's baraita about 'achat' vs 'me'achat' and the mitkayemet standard, which is precisely what the 'Mitkayem Standard' prose discusses.",
+      "second_heading": "Korban Analysis",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yosi's teaching about 've'asa achat ve'asa hena' and multiple vs single korbanot, which is exactly what the 'Korban Analysis' prose elaborates on.",
+      "current_heading": "Mitkayem Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Korban Analysis",
+    "candidates": [
+      "Shimon Consistency",
+      "Word vs Sentence",
+      "New vs Existing",
+      "Korban Analysis",
+      "Shem Shimon Problem",
+      "Mem Distinction",
+      "Chisda's Solution",
+      "Torah Scroll Rules",
+      "Letter Confusions"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Letter Confusions",
+    "candidates": [
+      "Shem Shimon Problem",
+      "Mem Distinction",
+      "Chisda's Solution",
+      "Torah Scroll Rules",
+      "Letter Confusions",
+      "Parshiyos Format",
+      "Invalid Writings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage enumerates precisely the prohibited letter confusions (alef/ayin, beit/kaf, etc.) that the 'Letter Confusions' section prose directly describes and analyzes.",
+      "chosen_heading": "Letter Confusions",
+      "current_heading": "Letter Confusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Invalid Writings",
+    "candidates": [
+      "Parshiyos Format",
+      "Invalid Writings",
+      "Unresolved Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both letter-form rules (bent/straight, mem/samekh, open/closed) AND the invalid-writing cases (poetry format, no ink, gold names requiring genizah), which together match the 'Invalid Writings' section's prose about cases rendering a sefer Torah invalid and requiring genizah.",
+      "chosen_heading": "Invalid Writings",
+      "current_heading": "Invalid Writings",
+      "moved": false
+    }
+  }
+]

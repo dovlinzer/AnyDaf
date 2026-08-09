@@ -1,0 +1,456 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Ben Sorer Comparison",
+    "candidates": [
+      "Overview & Context",
+      "Suma Patur Derasha",
+      "Ba'avur Zeh Tziyun",
+      "Ben Sorer Comparison",
+      "Mareimar Challenge",
+      "One Reciter Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the gezerah shavah comparison between 'ba'avur zeh' and 'bneinu zeh' (ben sorer u'moreh) to derive that a blind person is exempt from haggadah, which is precisely what the 'Ben Sorer Comparison' prose section describes.",
+      "chosen_heading": "Ben Sorer Comparison",
+      "current_heading": "Ben Sorer Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "One Reciter Model",
+    "candidates": [
+      "Mareimar Challenge",
+      "One Reciter Model",
+      "Matzah Status Debate",
+      "Rav Acha's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Mareimar challenge (asking who recited the haggadah by Rav Yosef and Rav Sheshet) and the initial resolution (matzah nowadays is rabbinic), which is precisely what the 'Mareimar Challenge' heading's prose describes.",
+      "chosen_heading": "Mareimar Challenge",
+      "current_heading": "One Reciter Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Rav Acha's Logic",
+    "candidates": [
+      "Matzah Status Debate",
+      "Rav Acha's Logic",
+      "Ba'avur Zeh Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the internal contradiction in Rav Acha bar Yaakov's position and the principle of kol d'tikon rabanan k'ein d'oraisa tikun, which is precisely what the 'Rav Acha's Logic' section prose describes.",
+      "chosen_heading": "Rav Acha's Logic",
+      "current_heading": "Rav Acha's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Ba'avur Zeh Rejected",
+    "candidates": [
+      "Ba'avur Zeh Rejected",
+      "Haggadah Food Link",
+      "Hallel Overview",
+      "One Word Debate",
+      "Rav Rabba Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's rejection of the ben soreir u'moreh comparison, explaining why 'ba'avur zeh' is not superfluous and therefore carries no exclusionary implication regarding the blind \u2014 exactly what section 0's prose describes.",
+      "chosen_heading": "Ba'avur Zeh Rejected",
+      "current_heading": "Ba'avur Zeh Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Rav Rabba Split",
+    "candidates": [
+      "Haggadah Food Link",
+      "Hallel Overview",
+      "One Word Debate",
+      "Rav Rabba Split",
+      "Intensifier Theory"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hallel Overview",
+      "first_confidence": "high",
+      "first_reason": "Item 1 ('Therefore we are obligated') is the closing line of the mishna's general obligation section, matching the 'Hallel Overview' prose which discusses the obligation structure and transitions into the hallelujah digression.",
+      "second_heading": "Rav Rabba Split",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 present the full dispute among Rav \u1e24isda/Rav Yochanan, Rav, and Rabba about whether hallelujah/kesya/mer\u1e25avya/Yedidya are one or two words, along with the teiku and the proof about Yedidya \u2014 exactly what the 'Rav Rabba Split' prose describes.",
+      "current_heading": "Rav Rabba Split",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Intensifier Theory",
+    "candidates": [
+      "Intensifier Theory",
+      "God's Name Praise"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "God's Name Praise",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav's evidence that halleluya can be split (hallelu on one side, yah on the other), which belongs under 'God's Name Praise' where the divine name embedded in hallelujah is being discussed, not under 'Intensifier Theory'.",
+      "second_heading": "Intensifier Theory",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's note that Rav's view disputes Rabbi Yehoshua ben Levi's intensifier reading, which is precisely what the 'Intensifier Theory' prose discusses \u2014 the tension between the intensifier view and the divine-name view.",
+      "current_heading": "Intensifier Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "God's Name Praise",
+    "candidates": [
+      "God's Name Praise",
+      "Prophets Tikun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi Yehoshua ben Levi's statement on the ten expressions of praise in Psalms and the greatness of halleluya, which is precisely what the 'God's Name Praise' section prose discusses.",
+      "chosen_heading": "God's Name Praise",
+      "current_heading": "God's Name Praise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Prophets Tikun",
+    "candidates": [
+      "Prophets Tikun",
+      "Three Contexts",
+      "David Authorship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yehuda/Shmuel's statement about the prophets establishing Hallel, which is exactly what the 'Prophets Tikun' section's prose describes as its content.",
+      "chosen_heading": "Prophets Tikun",
+      "current_heading": "Prophets Tikun",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "David Authorship",
+    "candidates": [
+      "Three Contexts",
+      "David Authorship",
+      "Moshe at Sea",
+      "Necessity Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Meir's baraita claiming David authored all Psalms via the drasha on 'kalu'/'kol elu', which matches exactly the 'David Authorship' section's prose description.",
+      "chosen_heading": "David Authorship",
+      "current_heading": "David Authorship",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Necessity Proof",
+    "candidates": [
+      "Moshe at Sea",
+      "Necessity Proof",
+      "Ramban Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the two arguments Rabbi Yose uses to defend the antiquity of Hallel (the necessity proof from Pesach/lulav, and the Micah's idol argument), which is precisely what the 'Necessity Proof' prose describes as the first and second arguments.",
+      "chosen_heading": "Necessity Proof",
+      "current_heading": "Necessity Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Ramban Defense",
+    "candidates": [
+      "Ramban Defense",
+      "Simcha Shel Mitzvah",
+      "Mood for Halacha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ramban Defense",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 discuss the nature of Psalms and their headings (singular/plural, mizmor l'David vs l'David mizmor), which relates to the Ramban Defense section's discussion of David composing the Psalms and their biblical status, though candidate 1 also discusses the mizmor l'David contrast.",
+      "second_heading": "Simcha Shel Mitzvah",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the direct statement that the shechina does not rest from laziness/sadness but from simcha shel mitzvah, which is precisely what candidate 1 ('Simcha Shel Mitzvah') discusses in its prose.",
+      "current_heading": "Ramban Defense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Mood for Halacha",
+    "candidates": [
+      "Simcha Shel Mitzvah",
+      "Mood for Halacha",
+      "Dreams Joy",
+      "Trembling Lips"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Yehuda/Rav extending the principle to halacha and Rav Nachman extending it to good dreams, which is precisely what the 'Mood for Halacha' prose describes.",
+      "chosen_heading": "Mood for Halacha",
+      "current_heading": "Mood for Halacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Trembling Lips",
+    "candidates": [
+      "Dreams Joy",
+      "Trembling Lips",
+      "Rebbe vs Student",
+      "Rabba's Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the challenge (Rav Giddel's statement about bitterness) and its resolution (rabbi vs. student), which is exactly what the 'Trembling Lips' prose describes, and the resolution item belongs here rather than under 'Rebbe vs Student' because the prose of that section discusses the *lo kashya* resolution as its own topic while the current section's prose already anticipates and frames the entire exchange including the resolution.",
+      "chosen_heading": "Trembling Lips",
+      "current_heading": "Trembling Lips",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Rabba's Method",
+    "candidates": [
+      "Rebbe vs Student",
+      "Rabba's Method",
+      "Moshe Israel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabba's practice of opening with humor before teaching with solemnity, which is precisely what the 'Rabba's Method' section discusses, and that section's prose directly quotes and elaborates on the same Aramaic content.",
+      "chosen_heading": "Rabba's Method",
+      "current_heading": "Rabba's Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Moshe Israel",
+    "candidates": [
+      "Moshe Israel",
+      "Yehoshua Kings",
+      "Deborah Barak",
+      "Chizkiyahu",
+      "Three Friends",
+      "Mordechai Esther",
+      "Chachamim View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete baraita listing all Tannaitic opinions about who first recited Hallel, and the current heading's prose explicitly introduces this baraita and discusses Rabbi Eliezer's position, while the subsequent headings each correspond to individual opinions within the baraita \u2014 the entire passage belongs under the introductory heading that frames the whole baraita.",
+      "chosen_heading": "Moshe Israel",
+      "current_heading": "Moshe Israel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Chachamim View",
+    "candidates": [
+      "Yehoshua Kings",
+      "Deborah Barak",
+      "Chizkiyahu",
+      "Three Friends",
+      "Mordechai Esther",
+      "Chachamim View",
+      "Ends Perek",
+      "Begins Perek",
+      "Between Sections"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage quotes the Chachamim's position that prophets instituted Hallel for every occasion and for redemption, which directly matches the 'Chachamim View' section's prose discussing exactly this formulation and its emphasis on recitation al geulatan.",
+      "chosen_heading": "Chachamim View",
+      "current_heading": "Chachamim View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Between Sections",
+    "candidates": [
+      "Ends Perek",
+      "Begins Perek",
+      "Between Sections",
+      "Consensus Begin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions together \u2014 Rav \u1e24isda's 'sof pirka,' Rabba bar Rav Huna's 'reish pirka,' and Rav \u1e24isda's report about Rav \u1e24anin bar Rav's uncertainty \u2014 and belongs under a single heading; heading 0 ('Ends Perek') is where this Talmudic discussion begins, making it the natural home for the entire unit rather than splitting it across three headings.",
+      "chosen_heading": "Ends Perek",
+      "current_heading": "Between Sections",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Consensus Begin",
+    "candidates": [
+      "Between Sections",
+      "Consensus Begin",
+      "Ashrei Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav \u1e24anin bar Rava's statement that 'everyone concedes' (hakol modin) that the halleluya following specific verses marks the start of the next chapter, which is precisely what Candidate 1 'Consensus Begin' describes.",
+      "chosen_heading": "Consensus Begin",
+      "current_heading": "Consensus Begin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Ashrei Practice",
+    "candidates": [
+      "Ashrei Practice",
+      "Shammai Hillel",
+      "Version One",
+      "Version Two",
+      "Chisda Explains",
+      "Rabba Explains",
+      "Kashia Unresolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses specific verses where the subsequent hallelujah functions as reish pirka (beginning of the next chapter), which directly supports the prose in 'Ashrei Practice' about hallelujah being structurally the opening of the next perek rather than the ending of the preceding psalm.",
+      "chosen_heading": "Ashrei Practice",
+      "current_heading": "Ashrei Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145,
+      146,
+      147,
+      148,
+      149
+    ],
+    "current_heading": "Kashia Unresolved",
+    "candidates": [
+      "Shammai Hillel",
+      "Version One",
+      "Version Two",
+      "Chisda Explains",
+      "Rabba Explains",
+      "Kashia Unresolved"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shammai Hillel",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the two versions of the Beit Shammai/Beit Hillel dispute and the initial inference about what they disagree about, matching heading 0 ('Shammai Hillel') which describes exactly this \u2014 two beraisos recording the dispute and the apparent difference between them.",
+      "second_heading": "Chisda Explains",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 present Rav \u1e24isda's resolution and its kashia, then Rabba bar Rav Huna's resolution and its kashia, matching headings 3 and 4 ('Chisda Explains' and 'Rabba Explains'), but since all four items together span both resolutions and both kashia conclusions, and heading 5 ('Kashia Unresolved') explicitly describes both kashia challenges as its content, the best single heading for items 3-6 is heading 3, with items 5-6 naturally flowing into heading 4 \u2014 however as FORM 2 only allows one split, items 3-6 best start at heading 3 ('Chisda Explains') which begins the resolution discussion.",
+      "current_heading": "Kashia Unresolved",
+      "moved": true
+    }
+  }
+]

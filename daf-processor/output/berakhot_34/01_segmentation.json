@@ -19,8 +19,8 @@
           "timestamp": "03:06"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Shliach Tzibur Making Errors and Replacement Procedures",
@@ -431,5 +431,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "39:00",
+  "amud_b_micro_title": "Special Status Bowing",
+  "shiur_start_daf": 33,
+  "shiur_start_amud": "b"
 }

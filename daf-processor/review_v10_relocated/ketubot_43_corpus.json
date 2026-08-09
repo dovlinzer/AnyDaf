@@ -1,0 +1,385 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Knas Identity After Court",
+    "candidates": [
+      "Knas Identity After Court",
+      "Rabbi Shimon Exception",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the gemara's question about why ve-kichesh is needed rather than ve-natan, and Rava's answer about the specific scenario of ha'amadah be-din followed by begerut and death \u2014 precisely the content described in candidate 2's prose about parsing the detail of ve-kichesh versus ve-natan and the unusual scenario the gemara answers with.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Knas Identity After Court",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Rabbi Shimon Exception",
+      "Rava's Challenge",
+      "Bogeret Exception",
+      "Knas Origin Rule",
+      "Implicit Demand Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Na\u1e25man bar Yitz\u1e25ak's answer 'yatzu eilu she-ikaran knas' \u2014 the 'knas origin rule' \u2014 which is precisely what candidate 3's prose describes and explains.",
+      "chosen_heading": "Knas Origin Rule",
+      "current_heading": "Rava's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Implicit Demand Debate",
+    "candidates": [
+      "Bogeret Exception",
+      "Knas Origin Rule",
+      "Implicit Demand Debate",
+      "Torah Exemption",
+      "Fixed vs. Amorphous"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute the continuous objection-and-resolution sequence about Rabbi Shimon's le-divreichem de-rabbanan argument and the modeh be-knas patur principle, which is precisely what the 'Implicit Demand Debate' prose describes.",
+      "chosen_heading": "Implicit Demand Debate",
+      "current_heading": "Implicit Demand Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Fixed vs. Amorphous",
+    "candidates": [
+      "Torah Exemption",
+      "Fixed vs. Amorphous",
+      "Escape vs. No Escape",
+      "Earnings Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Pappa's framing of the entire dispute between Rabbi Shimon and the Rabbis, which is precisely what heading 0 ('Torah Exemption') describes \u2014 the gemara asking 'be-mai kamiplagei' and Rav Pappa explaining both positions, making it the natural home for the full Rav Pappa statement rather than splitting it across two headings.",
+      "chosen_heading": "Torah Exemption",
+      "current_heading": "Fixed vs. Amorphous",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Earnings Question",
+    "candidates": [
+      "Escape vs. No Escape",
+      "Earnings Question",
+      "Reciprocity Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the opening dilemma posed by Rabbi Avina to Rav Sheshet about a daughter sustained by her brothers and to whom her earnings belong, which is precisely what the 'Earnings Question' prose introduces and contextualizes.",
+      "chosen_heading": "Earnings Question",
+      "current_heading": "Earnings Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Reciprocity Principle",
+    "candidates": [
+      "Reciprocity Principle",
+      "Widow vs. Daughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the reciprocity/analogy between brothers and father regarding earnings vs. support obligations, which maps precisely to the 'Reciprocity Principle' section's prose about hatam mididei mizna and the distinction between father's voluntary support from his own pocket versus brothers disbursing from the estate.",
+      "chosen_heading": "Reciprocity Principle",
+      "current_heading": "Reciprocity Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Widow vs. Daughter",
+    "candidates": [
+      "Widow vs. Daughter",
+      "Father's Priorities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the widow-daughter comparison (Rav Sheshet's proof from the widow mishna and the gemara's rejection via mi dami), which is exactly what the 'Widow vs. Daughter' prose describes, not the ziluta/harvacha distinction elaborated in 'Father's Priorities'.",
+      "chosen_heading": "Widow vs. Daughter",
+      "current_heading": "Widow vs. Daughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Father's Priorities",
+    "candidates": [
+      "Father's Priorities",
+      "Earnings During Life"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rabbi Abba/Rabbi Yosei challenge and its resolution regarding ziluta vs. harvacha, which the prose of candidate 0 explicitly discusses in detail.",
+      "chosen_heading": "Father's Priorities",
+      "current_heading": "Father's Priorities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Earnings During Life",
+    "candidates": [
+      "Earnings During Life",
+      "All or Excess?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yosef's objection and the initial inference from the mishna about earnings during the father's lifetime versus after his death, which is precisely what the 'Earnings During Life' prose describes \u2014 the 'All or Excess?' section discusses the subsequent gemara pushback about whether the mishna refers to a supported or unsupported daughter, which is a separate step not yet reached in this quoted text.",
+      "chosen_heading": "Earnings During Life",
+      "current_heading": "Earnings During Life",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "All or Excess?",
+    "candidates": [
+      "All or Excess?",
+      "Hadafah Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the gemara's argument that the unsupported case is obvious (even for a Hebrew slave the master must feed him due to 'imcha,' so certainly the daughter), which is precisely the content described in candidate 0's prose about the gemara pushing back with the Jewish slave/imcha argument.",
+      "chosen_heading": "All or Excess?",
+      "current_heading": "All or Excess?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Hadafah Theory",
+    "candidates": [
+      "Hadafah Theory",
+      "Found Object Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabba bar Ulla's hadafah explanation and Rava's dismissal of it, which is precisely what the 'Hadafah Theory' section's prose describes.",
+      "chosen_heading": "Hadafah Theory",
+      "current_heading": "Hadafah Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Found Object Problem",
+    "candidates": [
+      "Found Object Problem",
+      "Earnings=Found Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's analysis of why the mishna's use of 'collect' is problematic when applied to found objects \u2014 exactly the 'metziatah me-man gavya' difficulty described in the 'Found Object Problem' prose \u2014 before the conclusion/equation drawn in the next section.",
+      "chosen_heading": "Found Object Problem",
+      "current_heading": "Found Object Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Earnings=Found Objects",
+    "candidates": [
+      "Earnings=Found Objects",
+      "Volitional Support",
+      "Mandatory Obligation",
+      "Rav Yehuda's Ruling",
+      "Scripture Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's conclusion that earnings equal found objects (maaseh yadeha ke-metziatah), which is precisely what the 'Earnings=Found Objects' section's prose describes and analyzes.",
+      "chosen_heading": "Earnings=Found Objects",
+      "current_heading": "Earnings=Found Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Scripture Proof",
+    "candidates": [
+      "Volitional Support",
+      "Mandatory Obligation",
+      "Rav Yehuda's Ruling",
+      "Scripture Proof",
+      "Rabba Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda/Rav's ruling about the daughter's earnings belonging to herself AND Rav Kahana's scriptural reasoning, and the prose under heading 2 ('Rav Yehuda's Ruling') explicitly introduces this amoraic statement while heading 3 ('Scripture Proof') handles the verse analysis separately \u2014 but since the Talmudic text is a single continuous unit (itmar nami through the verse interpretation), it belongs under the heading that introduces the full amoraic statement, which is heading 2.",
+      "chosen_heading": "Rav Yehuda's Ruling",
+      "current_heading": "Scripture Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Rabba Objects",
+    "candidates": [
+      "Scripture Proof",
+      "Rabba Objects",
+      "Injury Distinction",
+      "Final Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabba's objection that the verse refers to seduction fines, injury payments, and rape fines \u2014 exactly what the 'Rabba Objects' section's prose describes.",
+      "chosen_heading": "Rabba Objects",
+      "current_heading": "Rabba Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Final Halacha",
+    "candidates": [
+      "Injury Distinction",
+      "Final Halacha",
+      "Eirusin Divorce"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Injury Distinction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the injury distinction (Rabbi Yosei bar Chanina's face-injury resolution) and the Rav ruling about daughters sustained by brothers, which the 'Injury Distinction' prose explicitly discusses.",
+      "second_heading": "Final Halacha",
+      "second_confidence": "high",
+      "second_reason": "Item 3 covers the Avimi bar Pappi/Shkod attribution, the Nehardea tradition, and the final halakhic ruling following Rav, which is exactly what the 'Final Halacha' prose describes in detail.",
+      "current_heading": "Final Halacha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Eirusin Divorce",
+    "candidates": [
+      "Eirusin Divorce",
+      "Eirusin Widowed",
+      "Nissu'in Collection",
+      "Rabbi Yehuda Position",
+      "Gemara Rejects Yehuda",
+      "Two Deaths Avoidance",
+      "Husband Deaths Debate",
+      "Rabbi's Two-Time Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers all the cases discussed in candidates 0-4 as a single unit, and it currently sits under the first relevant heading which introduces the mishnah's topic \u2014 the correct placement for the full mishnah text before the essay's prose breaks it into sub-discussions.",
+      "chosen_heading": "Eirusin Divorce",
+      "current_heading": "Eirusin Divorce",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Rabbi's Two-Time Rule",
+    "candidates": [
+      "Eirusin Widowed",
+      "Nissu'in Collection",
+      "Rabbi Yehuda Position",
+      "Gemara Rejects Yehuda",
+      "Two Deaths Avoidance",
+      "Husband Deaths Debate",
+      "Rabbi's Two-Time Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "medium",
+      "reason": "The passage covers both the inference about two deaths rendering her unfit to marry AND the incidental alignment with Rabbi's two-occurrence rule, which spans both candidates 5 and 6; however, candidate 5's prose ('Two Deaths Avoidance'/'Husband Deaths Debate') introduces the gemara's answer about two deaths and the chazakah debate, making it a slightly better match for where this combined content begins, though the current placement (6) also captures the Rabbi-specific point \u2014 overall candidate 5 is the better fit since it introduces the full gemara passage including both the two-deaths conclusion and the incidental ruling.",
+      "chosen_heading": "Husband Deaths Debate",
+      "current_heading": "Rabbi's Two-Time Rule",
+      "moved": true
+    }
+  }
+]

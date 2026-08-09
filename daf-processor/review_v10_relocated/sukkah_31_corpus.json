@@ -1,0 +1,366 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Eliezer vs. Rabbis",
+    "candidates": [
+      "Lulav to Sukkah",
+      "Eliezer vs. Rabbis",
+      "Two Problems",
+      "Land Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself introducing the dispute between Rabbi Eliezer and the Rabbis over a stolen sukkah and one built in public space, which is precisely what the 'Eliezer vs. Rabbis' prose section is describing and analyzing.",
+      "chosen_heading": "Eliezer vs. Rabbis",
+      "current_heading": "Eliezer vs. Rabbis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Land Status",
+    "candidates": [
+      "Two Problems",
+      "Land Status",
+      "Rabbis' Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage details Rav Nachman's explanation of Rabbi Eliezer's dual reasoning (stolen vs. borrowed sukka based on his principle that one cannot fulfill the mitzvah in another's sukka), which matches precisely the prose of 'Land Status' rather than the setup discussion of 'Two Problems' or the rabbinic counter-position in 'Rabbis' Position'.",
+      "chosen_heading": "Land Status",
+      "current_heading": "Land Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rabbis' Position",
+    "candidates": [
+      "Rabbis' Position",
+      "Stolen Schach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the Rabbis' position on fulfilling one's obligation in another's sukkah and why karka einah nigzelet means the sukkah is merely borrowed, which maps precisely to the 'Rabbis' Position' prose.",
+      "chosen_heading": "Rabbis' Position",
+      "current_heading": "Rabbis' Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Stolen Schach",
+    "candidates": [
+      "Stolen Schach",
+      "Gemara's Question",
+      "Dumya Argument",
+      "Schach Consensus",
+      "Servants' Theft",
+      "Woman Complains",
+      "Abraham Reference",
+      "Payment Suffices",
+      "Ravina's Statement",
+      "Common vs. Uncommon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 the unanimous ruling on stolen schach (item 1), the gemara's question about the source of that ruling (item 2), the dumya argument from reshut ha-rabim (item 3), the story of the old woman and the Exilarch's sukka (item 4), and Ravina's statement about takkanat marish (item 5) \u2014 are all discussed together under the 'Stolen Schach' heading, whose prose explicitly covers all of these elements: the divrei ha-kol ruling, the takkanat marish, the old woman narrative, and Ravina's restatement of the principle.",
+      "chosen_heading": "Stolen Schach",
+      "current_heading": "Stolen Schach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Common vs. Uncommon",
+    "candidates": [
+      "Gemara's Question",
+      "Dumya Argument",
+      "Schach Consensus",
+      "Servants' Theft",
+      "Woman Complains",
+      "Abraham Reference",
+      "Payment Suffices",
+      "Ravina's Statement",
+      "Common vs. Uncommon",
+      "Seven-Day Rule",
+      "Permanence Factor",
+      "Summary",
+      "Yaavesh Intro",
+      "Rava's Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "Both items directly address the 'pshita' objection and the seven-day qualification discussed in candidate 8's prose about common vs. uncommon items and the takkana's scope, matching the current placement perfectly.",
+      "chosen_heading": "Common vs. Uncommon",
+      "current_heading": "Common vs. Uncommon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rava's Claim",
+    "candidates": [
+      "Seven-Day Rule",
+      "Permanence Factor",
+      "Summary",
+      "Yaavesh Intro",
+      "Rava's Claim",
+      "Rabbis Connect",
+      "Rabbi Yehuda",
+      "Bound Leaves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about the dry lulav being unfit and Rava's analysis of the dispute, which is exactly what 'Rava's Claim' prose describes as its content.",
+      "chosen_heading": "Rava's Claim",
+      "current_heading": "Rava's Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Bound Leaves",
+    "candidates": [
+      "Rabbis Connect",
+      "Rabbi Yehuda",
+      "Bound Leaves",
+      "Palm Binding",
+      "Rava's Response",
+      "Bal Tosif"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items form the challenge-and-rejection sequence about whether Rabbi Yehuda requires hadar for the lulav based on the binding requirement, which is precisely what the 'Bound Leaves' prose describes \u2014 the gemara asks whether binding the spread lulav reflects a hadar demand, then rejects it via Rabbi Tarfon's derivation from kapot.",
+      "chosen_heading": "Bound Leaves",
+      "current_heading": "Bound Leaves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Bal Tosif",
+    "candidates": [
+      "Palm Binding",
+      "Rava's Response",
+      "Bal Tosif",
+      "City Dwellers"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Palm Binding",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's challenge about whether Rabbi Yehuda requires hadar based on the mishna about binding with one's own species, which matches exactly the 'Palm Binding' prose that describes this precise question.",
+      "second_heading": "Rava's Response",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's response rejecting the aesthetic explanation and introducing the bal tosif reasoning, which matches the 'Rava's Response' prose describing Rava's permission of ugly palm material to disprove the aesthetic motivation.",
+      "current_heading": "Bal Tosif",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "City Dwellers",
+    "candidates": [
+      "Bal Tosif",
+      "City Dwellers",
+      "Urgency Objection",
+      "Rava Defended"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous baraita-and-proof sequence about dried-out minim and Rabbi Yehuda's city-dwellers incident, which is exactly what the 'City Dwellers' prose describes.",
+      "chosen_heading": "City Dwellers",
+      "current_heading": "City Dwellers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Rava Defended",
+    "candidates": [
+      "Urgency Objection",
+      "Rava Defended",
+      "She'at Implications",
+      "Ashkenazi-Sefardi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's challenge from Rabbi Yehuda's statement about dried species and the rebuttal that it refers only to the lulav, which is precisely what the 'Rava Defended' section's prose describes.",
+      "chosen_heading": "Rava Defended",
+      "current_heading": "Rava Defended",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Ashkenazi-Sefardi",
+    "candidates": [
+      "She'at Implications",
+      "Ashkenazi-Sefardi",
+      "Old Etrog Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita's rulings about not adding extra species and not substituting a pomegranate/quince for an etrog, which the prose of candidate 1 ('Ashkenazi-Sefardi') explicitly cites and discusses as counterweights to the she'at ha-dechak principle and the tension around substitutes.",
+      "chosen_heading": "Ashkenazi-Sefardi",
+      "current_heading": "Ashkenazi-Sefardi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Old Etrog Proof",
+    "candidates": [
+      "Old Etrog Proof",
+      "Tyufta",
+      "Green Etrog"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about the old etrog and the refutation of Rava, which is exactly what the 'Old Etrog Proof' section's prose describes \u2014 the conclusive proof against Rava's position \u2014 while 'Tyufta' covers the aftermath/conclusion of the refutation separately.",
+      "chosen_heading": "Old Etrog Proof",
+      "current_heading": "Old Etrog Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Green Etrog",
+    "candidates": [
+      "Tyufta",
+      "Green Etrog",
+      "Minimum Size"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the green etrog case (yarok ke-karti), Rabbi Meir permitting and Rabbi Yehuda deeming it unfit, and the gemara's answer that it is due to the fruit not having ripened \u2014 exactly what the 'Green Etrog' section's prose describes.",
+      "chosen_heading": "Green Etrog",
+      "current_heading": "Green Etrog",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Minimum Size",
+    "candidates": [
+      "Minimum Size",
+      "Maximum Size",
+      "Teimani Etrogim",
+      "Hand-Switching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the minimum size dispute between Rabbi Meir and Rabbi Yehuda and the gemara's rejection of the hadar-based explanation, which exactly matches the 'Minimum Size' section's prose.",
+      "chosen_heading": "Minimum Size",
+      "current_heading": "Minimum Size",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Hand-Switching",
+    "candidates": [
+      "Maximum Size",
+      "Teimani Etrogim",
+      "Hand-Switching",
+      "Tree Identifier"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the challenge about maximum size (Rav Yehuda vs. Rav Yosi) and asks whether Rav Yehuda's limit is aesthetic \u2014 which is exactly what the 'Maximum Size' prose describes \u2014 while the hand-switching explanation is the Gemara's answer to that challenge, but the passage as a whole belongs under 'Maximum Size' where the challenge is posed.",
+      "chosen_heading": "Maximum Size",
+      "current_heading": "Hand-Switching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Tree Identifier",
+    "candidates": [
+      "Hand-Switching",
+      "Tree Identifier",
+      "Perennial Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is asking the question 'what does Rabbi Yehuda do with the word hadar?' which is precisely what the 'Tree Identifier' prose describes as the gemara's question before reaching its resolution.",
+      "chosen_heading": "Tree Identifier",
+      "current_heading": "Tree Identifier",
+      "moved": false
+    }
+  }
+]

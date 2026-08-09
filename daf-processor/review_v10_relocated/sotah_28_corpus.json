@@ -1,0 +1,244 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Waters Check Both",
+    "candidates": [
+      "Who is \"Him\"?",
+      "Waters Check Both",
+      "Parallel Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question 'to whom does otoh refer?' and the immediate rejection of the husband interpretation \u2014 precisely the content described in heading 0 ('Who is Him?'), which asks who the mishnah means by otoh and considers the husband vs. adulterer; heading 1's prose describes this same material but as already resolved, whereas heading 0's prose matches the opening question and first attempted answer being examined here.",
+      "chosen_heading": "Who is \"Him\"?",
+      "current_heading": "Waters Check Both",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Parallel Language",
+    "candidates": [
+      "Waters Check Both",
+      "Parallel Language",
+      "Yerushalmi & Gematria",
+      "Brother Restriction",
+      "Status Works Through Her",
+      "Him Affected Only",
+      "Intentional/Unwitting",
+      "Her Affected Only",
+      "Marriage Question",
+      "Four Cases Summary",
+      "Vav or Repetition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the stylistic challenge and its resolution about why the mishnah uses 'otoh/otah' rather than explicitly naming the bo'el, which is precisely what the 'Parallel Language' section's prose describes.",
+      "chosen_heading": "Parallel Language",
+      "current_heading": "Parallel Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Vav or Repetition",
+    "candidates": [
+      "Yerushalmi & Gematria",
+      "Brother Restriction",
+      "Status Works Through Her",
+      "Him Affected Only",
+      "Intentional/Unwitting",
+      "Her Affected Only",
+      "Marriage Question",
+      "Four Cases Summary",
+      "Vav or Repetition",
+      "Six Instances Explained",
+      "Tzava, Asiyah, Yedia"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Vav or Repetition",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 directly address the Gemara's dilemma about whether Rabbi Akiva derives from the extra vav or from repetition of the word, and resolve it from Rebbi's statement \u2014 exactly what section 8 ('Vav or Repetition') describes.",
+      "second_heading": "Six Instances Explained",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 introduce the conclusion that according to Rabbi Akiva there are six textual units and begin explaining each pair, which is precisely what section 9 ('Six Instances Explained') describes.",
+      "current_heading": "Vav or Repetition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Tzava, Asiyah, Yedia",
+    "candidates": [
+      "Six Instances Explained",
+      "Tzava, Asiyah, Yedia",
+      "Three Instances"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items explicitly discuss asiyah (execution/her and his) and yedia (knowledge/her and his), which are precisely the two of the three categories (tzava, asiyah, yedia) that the 'Tzava, Asiyah, Yedia' section's prose elaborates on, making that section the clearly correct home.",
+      "chosen_heading": "Tzava, Asiyah, Yedia",
+      "current_heading": "Tzava, Asiyah, Yedia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Three Instances",
+    "candidates": [
+      "Three Instances",
+      "Rabbi Akiva's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items discuss Rebbi's three-verse derivation and how he knows the waters affect the paramour (bo'el), including the baraita about 'belly and thigh,' Rabbi Akiva's counter-interpretation, and Rebbi's response \u2014 exactly matching the 'Three Instances' prose description.",
+      "chosen_heading": "Three Instances",
+      "current_heading": "Three Instances",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Rabbi Akiva's View",
+    "candidates": [
+      "Rabbi Akiva's View",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kal Vachomer",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 references Rabbi Yehuda HaNasi's derivation of two prohibitions from the double mention of defilement, which is the setup/preceding discussion before Rabbi Akiva's baraita, and fits loosely with the 'Kal Vachomer' section's mention of prior headings, but more importantly it is a closing/transitional line that wraps up the mishna discussion before the baraita begins.",
+      "second_heading": "Rabbi Akiva's View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is exactly the baraita about the three appearances of nitme'ah and Rabbi Akiva's three-way derivation, which is precisely what the 'Rabbi Akiva's View' prose describes.",
+      "current_heading": "Rabbi Akiva's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Kal Vachomer",
+      "Why Repetition?",
+      "Definitely Forbidden",
+      "Issur Asei Nature",
+      "Comparison to Sheretz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yishmael's kal vachomer argument about the sotah being forbidden to marry a kohen, which is precisely what the prose under heading 0 ('Kal Vachomer') discusses in detail.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Comparison to Sheretz",
+    "candidates": [
+      "Why Repetition?",
+      "Definitely Forbidden",
+      "Issur Asei Nature",
+      "Comparison to Sheretz",
+      "Private Domain",
+      "Kinui & Sitrah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items together form the kal vachomer derivation from sotah to sheretz (items 1-3) and the reshut hayachid limitation (item 4), which is precisely what the 'Comparison to Sheretz' prose section discusses.",
+      "chosen_heading": "Comparison to Sheretz",
+      "current_heading": "Comparison to Sheretz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Kinui & Sitrah",
+    "candidates": [
+      "Private Domain",
+      "Kinui & Sitrah",
+      "Knowledge Requirement",
+      "Final Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the 'da'at lisha'el' (awareness/knowledge) parameter derived from sotah applied to sheretz, which is precisely what the 'Knowledge Requirement' section's prose discusses.",
+      "chosen_heading": "Knowledge Requirement",
+      "current_heading": "Kinui & Sitrah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Final Rule",
+    "candidates": [
+      "Knowledge Requirement",
+      "Final Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the fully articulated final rule summarizing both the da'at/no-da'at and reshut hayachid/reshut harabbim distinctions, which is precisely what the 'Final Rule' prose section describes.",
+      "chosen_heading": "Final Rule",
+      "current_heading": "Final Rule",
+      "moved": false
+    }
+  }
+]

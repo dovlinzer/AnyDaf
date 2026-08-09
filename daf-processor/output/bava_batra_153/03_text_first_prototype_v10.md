@@ -32,25 +32,27 @@ The *gemara* now introduces a new case: a gift document that was written with th
 
 ### Rav Position
 
-> **Hebrew/Aramaic:** רַב אָמַר הֲרֵי הִיא כְּמַתְּנַת שְׁכִיב מְרַע – מִדִּכְתִיב בָּהּ ״בַּמָּוֶת״, אַחַר מִיתָה קָאָמַר לֵיהּ; וְהַאי דִּכְתִיב ״בַּחַיִּים״ – סִימָן בְּעָלְמָא, דְּחָיֵי.
-> **Translation:** The Gemara explains: **Rav says: It is like** the **gift of a person on his deathbed.** This can be inferred **from** the fact **that it is written in** the deed that the gift is given **in death.** This means that the giver **is saying to him** that the gift should take effect **after** his **death, and that which is written** in the deed, that the gift is given **in life,** is **merely** an auspicious **omen,** expressing hope **that** the giver **will live.**
-
 Rav says: *harei hi ke-matnas shchiv mera* — it has the character of a *matnas shchiv mera*. The reasoning is that because the document includes the word *be-mavet*, it is clear that the donor means to designate this as taking effect at or around death — that is, he is *metzaveh machmat mita*, issuing instructions by reason of impending death, and the gift carries all the conditions of a *matnas shchiv mera*. As for why he wrote *be-hayim* — "in life" — Rav explains that this is merely a conventional flourish, a *siman be-alma de-hayyei*, a way of signaling that he is still alive, to ward off an *ayin hara*, as it were. His true intent is that the gift should take effect after his death.
 
 ### Shmuel Position
 
+> **Hebrew/Aramaic:** רַב אָמַר הֲרֵי הִיא כְּמַתְּנַת שְׁכִיב מְרַע – מִדִּכְתִיב בָּהּ ״בַּמָּוֶת״, אַחַר מִיתָה קָאָמַר לֵיהּ; וְהַאי דִּכְתִיב ״בַּחַיִּים״ – סִימָן בְּעָלְמָא, דְּחָיֵי.
+> **Translation:** The Gemara explains: **Rav says: It is like** the **gift of a person on his deathbed.** This can be inferred **from** the fact **that it is written in** the deed that the gift is given **in death.** This means that the giver **is saying to him** that the gift should take effect **after** his **death, and that which is written** in the deed, that the gift is given **in life,** is **merely** an auspicious **omen,** expressing hope **that** the giver **will live.**
+
 > **Hebrew/Aramaic:** וּשְׁמוּאֵל אָמַר הֲרֵי הִיא כְּמַתְּנַת בָּרִיא – מִדִּכְתִיב בָּהּ ״בַּחַיִּים״, מֵחַיִּים קָאָמַר; וְהַאי דִּכְתַב ״וּבַמָּוֶת״ – כְּמַאן דְּאָמַר ״מֵעַתָּה וְעַד עוֹלָם״. אָמְרִי נְהַרְדָּעֵי: הִלְכְתָא כְּווֹתֵיהּ דְּרַב.
 > **Translation:** **And Shmuel says: It is like** the **gift of a healthy person.** This can be inferred **from** the fact **that it is written in** the deed that the gift is given **in life.** This means that the giver **is saying** that the gift takes effect **during** his **life,** i.e., immediately. **And that which he wrote,** that the gift is given **in death, is like one who says: From now and for evermore,** i.e., that the gift is not retractable. The Sages **of Neharde’a say: The *halakha*** is **in accordance with** the opinion **of Rav.**
-
-Shmuel disagrees: *harei hi ke-matnas bari* — it is equivalent to the gift of a healthy person. The word *be-hayim* signals that he is giving it *me-hayim* — from the time he is still living, meaning it takes effect immediately and unconditionally. As for the phrase *u-ve-mavet*, Shmuel reads this as equivalent to saying *me-ata ve-ad olam* — from now and henceforth. He simply means: you should have it now, and it should remain yours even after I die. The phrase is therefore an expression of perpetuity, not an indication of *shchiv mera* intent.
-
-### Rava Limitation
 
 > **Hebrew/Aramaic:** אָמַר רָבָא: וְאִי כְּתִיב בַּהּ ״מֵחַיִּים״ – קְנָה.
 > **Translation:** **Rava said: And if it was written in** the deed that the gift is given **during life** and in death, the recipient **acquires** the gift and it cannot be retracted, as this term indicates that the gift takes effect while the giver still lives.
 
 > **Hebrew/Aramaic:** אָמַר אַמֵּימָר: לֵית הִלְכְתָא כְּווֹתֵיהּ דְּרָבָא. אֲמַר לֵיהּ רַב אָשֵׁי לְאַמֵּימָר: פְּשִׁיטָא, דְּהָא אָמְרִי נְהַרְדָּעֵי: הִלְכְתָא כְּווֹתֵיהּ דְּרַב! מַהוּ דְּתֵימָא ״מֵחַיִּים״ – מוֹדֵי רַב; קָא מַשְׁמַע לַן.
 > **Translation:** **Ameimar said: The *halakha* is not in accordance with** the opinion **of Rava. Rav Ashi said to Ameimar:** Isn’t that **obvious, as** the Sages **of Neharde’a say** that **the *halakha*** is **in accordance with** the opinion **of Rav?** Ameimar replied: **Lest you say** that with regard to the term: **During life, Rav concedes** that the giver intends for the gift to take effect immediately, Ameimar **teaches us** that since the giver also mentioned death, he intended the gift as the gift of a person on his deathbed and he can retract it.
+
+Shmuel disagrees: *harei hi ke-matnas bari* — it is equivalent to the gift of a healthy person. The word *be-hayim* signals that he is giving it *me-hayim* — from the time he is still living, meaning it takes effect immediately and unconditionally. As for the phrase *u-ve-mavet*, Shmuel reads this as equivalent to saying *me-ata ve-ad olam* — from now and henceforth. He simply means: you should have it now, and it should remain yours even after I die. The phrase is therefore an expression of perpetuity, not an indication of *shchiv mera* intent.
+
+The disagreement between Rav and Shmuel thus turns on which phrase in the document is doing the real interpretive work. For Rav, *be-mavet* is the decisive signal — it tells us the donor's true intent is to transfer at death, and *be-hayim* is mere convention. For Shmuel, *be-hayim* is the operative term — it tells us the gift takes effect during the donor's lifetime, and *be-mavet* is merely an assurance of permanence. What is striking here is that the very same document, with the very same two phrases, yields diametrically opposed legal consequences depending on which word you treat as primary. The *nehardaei* — the scholars of Nehardaei, which was in fact Shmuel's own locale — weigh in on this dispute and rule *hilchata kevateih de-Rav*, that the law follows Rav. It is notable that Shmuel's own academy is prepared to rule against its founder's position and read such a document as a *matnas shchiv mera*.
+
+### Rava Limitation
 
 Rava introduces a qualification to Rav's position: *ve-i katav bei me-hayim kana* — even Rav would concede that if the document says *me-hayim* rather than *be-hayim*, the recipient acquires the gift outright. The difference in preposition is meaningful: *me-hayim* — "from life," from the time of living — indicates that the donor intends the gift to take immediate effect, and it would therefore be treated as a *matnas bari*.
 
@@ -164,12 +166,12 @@ Rav Huna the son of Rav Yehoshua asks: *keman azla ha shemata de-Rabba* — whos
 
 ### Rabbi Yaakov
 
-> **Hebrew/Aramaic:** אָמַר רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: כְּמַאן אָזְלָא הָא שְׁמַעְתָּא דְּרַבָּה – כְּרַבִּי נָתָן. דְּתַנְיָא: מִי מוֹצִיא מִיַּד מִי? הוּא מוֹצִיא מִידֵיהֶן בְּלֹא רְאָיָה, וְהֵן אֵין מוֹצִיאִין מִיָּדוֹ אֶלָּא בִּרְאָיָה; דִּבְרֵי רַבִּי יַעֲקֹב.
-> **Translation:** **Rav Huna, son of Rav Yehoshua, said: In accordance with whose** opinion **is that *halakha* of Rabba?** It is **in accordance with** the opinion of **Rabbi Natan, as it is taught** in a *baraita*: With regard to a case where one who gave his property to others claims that since he was on his deathbed at the time he can retract the gifts, and the recipients claim that he was healthy and cannot retract it, **who removes** the property **from whose possession?** The giver **can remove** it **from** the recipients’ **possession without proof,** as the property was previously established to be in his possession, **but** the recipients **can remove** it **from** the giver’s **possession only with proof.** This is **the statement of Rabbi Ya’akov.**
-
 Rabbi Yaakov holds that the donor takes the property out of the recipients' hands without bringing any proof — *hu motzi mi-yadeihen belo raaya* — and they cannot recover it from him except by bringing proof — *ve-hen motzi-in mi-yado ela be-raaya*. In other words, he is the *muchzak*, and they must prove their claim. This position is striking: they hold a *shtar*; moreover, the donor is currently healthy — which would seem to strengthen, not weaken, the case that he gave it as a healthy person. Yet Rabbi Yaakov says none of that is sufficient. He is the *muchzak* in the property, and that presumption of ownership trumps even the *shtar* in their hands, as long as the *shtar*'s circumstances are contested. This position corresponds to that of the *chachamim* in the *mishna*.
 
 ### Rabbi Natan
+
+> **Hebrew/Aramaic:** אָמַר רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: כְּמַאן אָזְלָא הָא שְׁמַעְתָּא דְּרַבָּה – כְּרַבִּי נָתָן. דְּתַנְיָא: מִי מוֹצִיא מִיַּד מִי? הוּא מוֹצִיא מִידֵיהֶן בְּלֹא רְאָיָה, וְהֵן אֵין מוֹצִיאִין מִיָּדוֹ אֶלָּא בִּרְאָיָה; דִּבְרֵי רַבִּי יַעֲקֹב.
+> **Translation:** **Rav Huna, son of Rav Yehoshua, said: In accordance with whose** opinion **is that *halakha* of Rabba?** It is **in accordance with** the opinion of **Rabbi Natan, as it is taught** in a *baraita*: With regard to a case where one who gave his property to others claims that since he was on his deathbed at the time he can retract the gifts, and the recipients claim that he was healthy and cannot retract it, **who removes** the property **from whose possession?** The giver **can remove** it **from** the recipients’ **possession without proof,** as the property was previously established to be in his possession, **but** the recipients **can remove** it **from** the giver’s **possession only with proof.** This is **the statement of Rabbi Ya’akov.**
 
 > **Hebrew/Aramaic:** רַבִּי נָתָן אוֹמֵר: אִם בָּרִיא הוּא – עָלָיו לְהָבִיא רְאָיָה שֶׁהָיָה שְׁכִיב מְרַע. אִם שְׁכִיב מְרַע הוּא – עֲלֵיהֶן לְהָבִיא רְאָיָה שֶׁבָּרִיא הָיָה.
 > **Translation:** **Rabbi Natan says:** The presumption is that the current situation reflects the situation at the time the gift was bestowed. Therefore, **if he is** currently **healthy,** the obligation **is upon him to bring proof that he was on his deathbed** when he gave his property to others. **If he is** currently **on his deathbed,** the obligation **is upon** the recipients **to bring proof that he was healthy** then.
@@ -239,21 +241,3 @@ Rav Chisda and Rabba bar Rav Huna disagree: *raaya be-kiyum ha-shtar* — the pr
 This in turn illuminates the underlying debate between Rabbi Meir and the *chachamim* in the *mishna*. Rav Huna's reading is that Rabbi Meir and the *chachamim* are disputing the same point as Rabbi Natan and Rabbi Yaakov: the question is whose *hashta* — whose current status — determines the burden. Rav Chisda and Rabba bar Rav Huna, however, read the *mishna* differently. Their view is that the dispute in the *mishna* concerns *modeh be-shtar she-ketavo tzarich le-kaymo* — whether one who acknowledges the authenticity of a *shtar* but contests its validity on other grounds is required to independently authenticate it. Rabbi Meir holds: *eino tzarich le-kaymo* — since the donor is not claiming the *shtar* is a forgery, only that the circumstances render it inapplicable, there is no need for them to do a *kiyum*. The document as acknowledged governs, and he bears the burden of proving his *shchiv mera* claim. The *chachamim*, however, hold: *tzarich le-kaymo* — since the donor is simultaneously acknowledging the *shtar* and undermining its operative force by claiming he was a *shchiv mera*, this is akin to the principle of *peh she'asar hu peh she-hitir* — the mouth that imposes a restriction is the same mouth that permits. Because the *shtar*'s legal weight is entangled with the donor's ambivalent acknowledgement, the recipients cannot rely on that acknowledgement alone; they must produce an independent *kiyum ha-shtar* to give it independent force. The classic analogy is the case of a debtor who, when presented with an unauthenticated *shtar*, says: "Yes, it is a real document, but I already paid." The question there is the same: does his acknowledgement that the *shtar* is genuine suffice to give it force, or does the fact that he simultaneously undermines it require independent authentication?
 
 Once Rav Chisda's framing is accepted, the *chachamim*'s position becomes fully coherent. They are not saying that a *shtar* plus a healthy donor is somehow insufficient to overcome the *muchzak* presumption — they are saying that the recipients must perform a *kiyum ha-shtar* to establish the document on independent grounds, after which it will indeed prevail.
-
----
-
-## Found Document
-
-
-
-### Mishna Case
-
-The *gemara* turns to the next *mishna*: *mi she-meit ve-nimtza'as dyatiki keshura lo al yereicho* — someone dies and a document, a *dyatiki* — a will or gift document — is found tied to his thigh. *Harei zu eina klum* — it is entirely worthless. The *mishna* goes on to explain that if the donor had previously handed over the document to a third party (*zicha ba le-acher*) to take possession on behalf of the recipient, then the gift is valid whether the document was inside the house or outside. The *gemara* notes that the word *dyatiki* is an acronym for *da tehei le-mikam u-li-hyot* — "this shall stand and be" — which was the formula a dying person would use in declaring his final disposition of property.
-
-### Gemara Question
-
-The *gemara* asks: why should the document found on his thigh be invalid? *Ve-lima dilma be-ma'amad shloshtan amra* — perhaps he transferred the gift in the presence of three people. A verbal gift made in the presence of three witnesses is a valid and recognized mode of transfer even without a physical document. The mere fact that the document was discovered on his body does not rule out the possibility that he had already accomplished the transfer through this other method.
-
-### Found Implication
-
-The *gemara* answers: the *mishna* says *found*. The word *nimtza'as* — found — carries a specific implication. When a document is *found*, it means that no one knew about it until it was discovered. And if no one knew about it, then there was no prior occasion on which it was handed over in the presence of three people. Had a *ma'amad shloshtan* occurred, people would have been present and would have known. The very fact of discovery — the surprise, the absence of prior knowledge — excludes the possibility of any prior effective transfer. The document is therefore worthless precisely because it was found.

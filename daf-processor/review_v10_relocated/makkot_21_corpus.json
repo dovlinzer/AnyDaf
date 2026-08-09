@@ -1,0 +1,323 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Sof Rosho Definition",
+    "candidates": [
+      "Daf Overview",
+      "Makif & Peot",
+      "Sof Rosho Definition",
+      "Echad Hamakif"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage defines 'sof rosho' (extremity of the head) as leveling the temples to the back of the ear and forehead, which is precisely what the 'Sof Rosho Definition' section's prose describes and analyzes.",
+      "chosen_heading": "Sof Rosho Definition",
+      "current_heading": "Sof Rosho Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Echad Hamakif",
+    "candidates": [
+      "Echad Hamakif",
+      "Lav She'ein Bo",
+      "Lo Takifu & Mesayeia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about both makif and nikaf receiving lashes and Rav Chisda's 'dates in a sieve' idiom, which is precisely what the prose under 'Echad Hamakif' describes and analyzes.",
+      "chosen_heading": "Echad Hamakif",
+      "current_heading": "Echad Hamakif",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Lo Takifu & Mesayeia",
+    "candidates": [
+      "Lav She'ein Bo",
+      "Lo Takifu & Mesayeia",
+      "Five Corners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's b'makif l'atzmo and Rav Ashi's mesayei'a solutions, which are precisely what candidate 1's prose discusses and summarizes.",
+      "chosen_heading": "Lo Takifu & Mesayeia",
+      "current_heading": "Lo Takifu & Mesayeia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Five Corners",
+    "candidates": [
+      "Five Corners",
+      "Sherit for Dead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses pe'at ha-zakan \u2014 the edge/extremity of the beard \u2014 which is precisely what the 'Five Corners' section's prose addresses, explaining the corners of the beard and their anatomical boundaries.",
+      "chosen_heading": "Five Corners",
+      "current_heading": "Five Corners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Sherit for Dead",
+    "candidates": [
+      "Sherit for Dead",
+      "One Act, Multiple Dead",
+      "Sherita vs Gedida",
+      "Samuel's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together form the continuous baraita discussion about the prohibition of incisions \u2014 establishing that liability applies only for the dead, that five incisions over one dead person generates multiple liabilities, Rabbi Yose's ruling about one incision over five dead persons, and the Gemara's resolution of how Rabbi Yose uses 'la-nefesh' \u2014 which is precisely what the prose under 'Sherit for Dead' describes.",
+      "chosen_heading": "Sherit for Dead",
+      "current_heading": "Sherit for Dead",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Samuel's Ruling",
+    "candidates": [
+      "One Act, Multiple Dead",
+      "Sherita vs Gedida",
+      "Samuel's Ruling",
+      "Pagan Ritual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Shmuel's ruling about cutting with a utensil, the objection from the baraita distinguishing sherita (by hand) from gedida (by tool), and the resolution that Shmuel follows Rabbi Yose \u2014 exactly what the 'Samuel's Ruling' section prose describes.",
+      "chosen_heading": "Samuel's Ruling",
+      "current_heading": "Samuel's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Pagan Ritual",
+    "candidates": [
+      "Pagan Ritual",
+      "Rambam on Paganism",
+      "Hand vs Tool",
+      "Rabbi Eliezer Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita taught before Rabbi Yochanan about liability for incisions over the dead versus for idolatry, and Rabbi Yochanan's correction based on the verse about the priests of Baal \u2014 which is precisely what the 'Pagan Ritual' section's prose describes and analyzes.",
+      "chosen_heading": "Pagan Ritual",
+      "current_heading": "Pagan Ritual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rabbi Eliezer Debate",
+    "candidates": [
+      "Rambam on Paganism",
+      "Hand vs Tool",
+      "Rabbi Eliezer Debate",
+      "Razor vs Scissors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the five corners of the beard and where Rav Sheshet would gesture to indicate the anatomical divisions of the head and beard, which directly supports the 'Rabbi Eliezer Debate' section's discussion of the five corners of the beard and liability for their removal.",
+      "chosen_heading": "Rabbi Eliezer Debate",
+      "current_heading": "Rabbi Eliezer Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Razor vs Scissors",
+    "candidates": [
+      "Razor vs Scissors",
+      "Electric Shavers",
+      "Ketiva & Ke'aka",
+      "Ink Without Cut",
+      "Rabbi Shimon's Name"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the razor/scissors/tweezers distinction for beard-marring liability \u2014 exactly the content described in the 'Razor vs Scissors' prose, including Rabbi Eliezer's position on tweezers, the baraita deriving the razor requirement from two verses, and the Gemara's resolution via verbal analogy.",
+      "chosen_heading": "Razor vs Scissors",
+      "current_heading": "Razor vs Scissors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Rabbi Shimon's Name",
+    "candidates": [
+      "Electric Shavers",
+      "Ketiva & Ke'aka",
+      "Ink Without Cut",
+      "Rabbi Shimon's Name",
+      "Ashes in Wounds",
+      "Breast Reconstruction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishnah on tattooing with Rabbi Shimon ben Yehuda's view that one must write 'the Name,' and the Gemara exchange between Rav A\u1e25a and Rav Ashi clarifying via Bar Kappara that liability requires writing the name of idol worship \u2014 are precisely what the prose under heading 3 ('Rabbi Shimon's Name') describes.",
+      "chosen_heading": "Rabbi Shimon's Name",
+      "current_heading": "Rabbi Shimon's Name",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Breast Reconstruction",
+    "candidates": [
+      "Ashes in Wounds",
+      "Breast Reconstruction",
+      "Nazir Wine Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the prohibition of placing burnt ashes on wounds and the Rav Malkiyya/Rav Malkiyyu attribution mnemonic, which the 'Ashes in Wounds' prose explicitly covers in detail, whereas the current placement under 'Breast Reconstruction' is a later application section that references these rulings but is not their proper home.",
+      "chosen_heading": "Ashes in Wounds",
+      "current_heading": "Breast Reconstruction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Nazir Wine Case",
+    "candidates": [
+      "Breast Reconstruction",
+      "Nazir Wine Case",
+      "Warnings Divide Acts",
+      "Ongoing Actions",
+      "State vs Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishnah passage directly presents the nazir wine/impurity/shaving cases with the warning principle, which is exactly what the 'Nazir Wine Case' prose describes \u2014 single liability without warnings, multiple liability with repeated warnings.",
+      "chosen_heading": "Nazir Wine Case",
+      "current_heading": "Nazir Wine Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "State vs Action",
+    "candidates": [
+      "Warnings Divide Acts",
+      "Ongoing Actions",
+      "State vs Action",
+      "Choresh Telem Echad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the kilayim/sha'atnez case \u2014 wearing forbidden garments all day yields one liability, but removing and re-donning after each warning yields separate liabilities \u2014 which is exactly the state-vs-action distinction discussed in candidate 2's prose.",
+      "chosen_heading": "State vs Action",
+      "current_heading": "State vs Action",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Choresh Telem Echad",
+    "candidates": [
+      "Choresh Telem Echad",
+      "Chananya's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the eight prohibitions from plowing a single furrow, which is exactly what the 'Choresh Telem Echad' section's prose discusses in detail.",
+      "chosen_heading": "Choresh Telem Echad",
+      "current_heading": "Choresh Telem Echad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Chananya's Objection",
+    "candidates": [
+      "Chananya's Objection",
+      "Methodological Note",
+      "Tosafot's Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Chananya ben Chakinai's argument about sha'atnez and the Sages' exchange, which is precisely what the prose under 'Chananya's Objection' describes.",
+      "chosen_heading": "Chananya's Objection",
+      "current_heading": "Chananya's Objection",
+      "moved": false
+    }
+  }
+]

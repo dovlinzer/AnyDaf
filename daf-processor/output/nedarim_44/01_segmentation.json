@@ -59,7 +59,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Attribution Dispute: Is the Mishnah's First Part Rabbanan or Rabbi Yose?",
@@ -116,8 +116,8 @@
           "timestamp": "31:16"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara's Challenge to Reish Lakish and Rava's Resolution on the Rammaim",
@@ -179,7 +179,7 @@
           "timestamp": "53:40"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -203,7 +203,7 @@
           "timestamp": "56:45"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 7,
       "matched": false
     }
   ],
@@ -464,5 +464,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 5
+  "amud_b_sefaria_index": 5,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "43:29",
+  "amud_b_micro_title": "Rava: Rammaim Balance",
+  "shiur_start_daf": 44,
+  "shiur_start_amud": "a"
 }

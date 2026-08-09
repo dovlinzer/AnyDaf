@@ -1,0 +1,326 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Rule vs Exception",
+    "candidates": [
+      "Rule & Exceptions",
+      "Rambam's Masora",
+      "Tefillin & Reaiyah",
+      "Rule vs Exception",
+      "Peru Verev\u00fa Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The prose of 'Rule vs Exception' explicitly discusses the shnei ketuvim habaim ke'echad principle applied to matzah and hakhel, and the mora derivation for shelo hazman grama, which is exactly what items 2-8 address, and item 1 about the widow is part of the same continuous sugya about festival obligation cases.",
+      "chosen_heading": "Rule vs Exception",
+      "current_heading": "Rule vs Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Peru Verev\u00fa Debate",
+    "candidates": [
+      "Peru Verev\u00fa Debate",
+      "Necessity Standard"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Peru Verev\u00fa Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 deal with the shnei ketuvim habaim ke'echad argument \u2014 first for the standard view (Torah study + procreation), then for Rabbi Yochanan ben Beroka's view (Torah study + Pidyon HaBen) \u2014 which is precisely what the 'Peru Verev\u00fa Debate' prose describes.",
+      "second_heading": "Necessity Standard",
+      "second_confidence": "high",
+      "second_reason": "Item 3 shifts to explaining why both procreation and fear of parents had to be explicitly stated (necessity argument), which is exactly what the 'Necessity Standard' prose discusses regarding ve-chivshuha and the ish darcho lichbosh reasoning.",
+      "current_heading": "Peru Verev\u00fa Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Necessity Standard",
+    "candidates": [
+      "Necessity Standard",
+      "Unresolved Question",
+      "Tefillin Paradigm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why the Torah needed to explicitly state women's obligation in yiras av va-em (because without it one might exempt women entirely since they can't always fulfill it), which is precisely what the 'Necessity Standard' prose describes as the reasoning behind why each case was necessary.",
+      "chosen_heading": "Necessity Standard",
+      "current_heading": "Necessity Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Tefillin Paradigm",
+    "candidates": [
+      "Unresolved Question",
+      "Tefillin Paradigm",
+      "Tefillin Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the unresolved question about shnei ketuvim habaim ke'echad and then Rava's answer (Rav Acha bar Yaakov's tefillin derivation) as a direct resolution to that exact difficulty \u2014 this is precisely what the 'Unresolved Question' prose section describes, whereas the 'Tefillin Paradigm' section discusses the same material but as already-established content without framing it as the answer to the shnei ketuvim problem.",
+      "chosen_heading": "Unresolved Question",
+      "current_heading": "Tefillin Paradigm",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Tefillin Status",
+    "candidates": [
+      "Tefillin Paradigm",
+      "Tefillin Status",
+      "Three Cases Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the challenge regarding tefillin's status as time-bound or not, and Rabbi Meir's use of shnei ketuvim habaim ke'echad, which is precisely what the 'Tefillin Status' section's prose describes.",
+      "chosen_heading": "Tefillin Status",
+      "current_heading": "Tefillin Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Three Cases Rule",
+    "candidates": [
+      "Three Cases Rule",
+      "All Lav Mitzvot",
+      "Ish ve-Isha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda's position and the resolution via three verses (matza, simcha, hakhel) constituting shlosheh ketuvim habaim ke'echad, which is precisely what the 'Three Cases Rule' prose section describes.",
+      "chosen_heading": "Three Cases Rule",
+      "current_heading": "Three Cases Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Ish ve-Isha",
+    "candidates": [
+      "All Lav Mitzvot",
+      "Ish ve-Isha",
+      "Three Teachings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the derivation for women's obligation in negative commandments (lo ta'aseh), which is exactly what heading 0 'All Lav Mitzvot' is about \u2014 establishing the source for that rule \u2014 whereas heading 1 'Ish ve-Isha' is the essay author's own explanation of that same derivation, meaning the Talmudic text belongs under the heading that introduces the topic, not under the author's prose elaboration of it.",
+      "chosen_heading": "All Lav Mitzvot",
+      "current_heading": "Ish ve-Isha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Three Teachings",
+    "candidates": [
+      "Ish ve-Isha",
+      "Three Teachings",
+      "Why All Three"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the second and third limudim (from the school of Rabbi Eliezer and school of Chizkiyya) which are precisely what the 'Three Teachings' prose section describes as its second and third components.",
+      "chosen_heading": "Three Teachings",
+      "current_heading": "Three Teachings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Why All Three",
+    "candidates": [
+      "Why All Three",
+      "Status Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why the first case (guilt-offerings/atonement) alone would be insufficient to teach civil law cases, which directly matches the 'Why All Three' section's prose about the necessity of all three cases and the kaparah reasoning.",
+      "chosen_heading": "Why All Three",
+      "current_heading": "Why All Three",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Status Concern",
+    "candidates": [
+      "Status Concern",
+      "Equal Citizens",
+      "Three Exceptions",
+      "Benei Aharon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's 'tzericha' argument about why all three cases (monetary judgments, kofer, and mitzvot status) needed to be stated, with item 2 explicitly discussing the hava amina that a woman's kofer liability might differ due to her fewer mitzvot obligations \u2014 precisely the content discussed in the 'Status Concern' prose.",
+      "chosen_heading": "Status Concern",
+      "current_heading": "Status Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Benei Aharon",
+    "candidates": [
+      "Equal Citizens",
+      "Three Exceptions",
+      "Benei Aharon",
+      "Zekanecha Language",
+      "Sevel Logic",
+      "Braita Challenge",
+      "Abaye's Resolution",
+      "Kal Vachomer Question",
+      "Gezerah Shavah Scope",
+      "Tashchit Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The entire passage covers the derivation of women's exemption from bal takif and bal tashchit \u2014 starting from the basic question, through the sevara and zekanecha textual arguments, the baraita challenge, Abaye's gezeirah shavah resolution, the kal vachomer question, and the hifsik ha-inyan answer \u2014 all of which is precisely what heading 3 ('Zekanecha Language') describes in its prose.",
+      "chosen_heading": "Zekanecha Language",
+      "current_heading": "Benei Aharon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Tashchit Definition",
+    "candidates": [
+      "Zekanecha Language",
+      "Sevel Logic",
+      "Braita Challenge",
+      "Abaye's Resolution",
+      "Kal Vachomer Question",
+      "Gezerah Shavah Scope",
+      "Tashchit Definition",
+      "Braita Purpose",
+      "Isi's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage discusses how the phrase 'pe'at zekanecha' (corners of your beard) in the verse teaches two conclusions simultaneously \u2014 the definition of the prohibited shaving act and the exemption of women \u2014 which directly corresponds to the 'Tashchit Definition' section's discussion of the gezeirah shavah serving a double purpose.",
+      "chosen_heading": "Tashchit Definition",
+      "current_heading": "Tashchit Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Isi's Teaching",
+    "candidates": [
+      "Braita Purpose",
+      "Isi's Teaching",
+      "Banim Atem",
+      "Korcha vs Gedida"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Mar Zutra's suggestions about the baraita's purpose (tumat nega'im then taharat nega'im), which is precisely what candidate 0 ('Braita Purpose') describes in its prose, not the topic of Isi's teaching about bal yikrechu which is candidate 1.",
+      "chosen_heading": "Braita Purpose",
+      "current_heading": "Isi's Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Korcha vs Gedida",
+    "candidates": [
+      "Banim Atem",
+      "Korcha vs Gedida"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Banim Atem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses ritual purification from leprosy (a separate topic) and Item 2 introduces Isi's teaching about 'bal yikrachu' with the 'banim atem' verse, which is precisely what the 'Banim Atem' prose section describes.",
+      "second_heading": "Korcha vs Gedida",
+      "second_confidence": "high",
+      "second_reason": "Items 3 and 4 discuss the korcha vs gedida distinction and the reasoning for including/excluding each prohibition, which is exactly what the 'Korcha vs Gedida' prose section describes.",
+      "current_heading": "Korcha vs Gedida",
+      "moved": true
+    }
+  }
+]

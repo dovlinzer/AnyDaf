@@ -1,0 +1,411 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Ocean & Water Cycle",
+    "candidates": [
+      "Mishna: Falling Asleep",
+      "R. Yochanan vs. Chachamim",
+      "Hefker Objects",
+      "Rain on Yom Tov",
+      "Ocean & Water Cycle",
+      "Clouds & Movement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items \u2014 the question of why rainwater doesn't acquire shvisa in the ocean, the challenge regarding Rabbi Eliezer's view on the water cycle, and Rabbi Yitzchak's answer about pre-formed clouds \u2014 are precisely the content described in the 'Ocean & Water Cycle' section's prose, which is the current placement.",
+      "chosen_heading": "Ocean & Water Cycle",
+      "current_heading": "Ocean & Water Cycle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Clouds & Movement",
+    "candidates": [
+      "Clouds & Movement",
+      "Rivers & Flowing Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 the cloud-identity question, the safek d'rabbanan answer, the shevitah b'avim question, the 'yesh techumin/maya blei'i' answer, and the nolad objection \u2014 are explicitly discussed in the 'Clouds & Movement' prose, making it the clear and correct home for this passage.",
+      "chosen_heading": "Clouds & Movement",
+      "current_heading": "Clouds & Movement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rivers & Flowing Water",
+    "candidates": [
+      "Rivers & Flowing Water",
+      "Psak: R. Yochanan",
+      "Explicit vs. Inferred"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses water in clouds, the ocean, and the baraita about flowing rivers and springs \u2014 exactly what the 'Rivers & Flowing Water' section prose describes in detail.",
+      "chosen_heading": "Rivers & Flowing Water",
+      "current_heading": "Rivers & Flowing Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Explicit vs. Inferred",
+    "candidates": [
+      "Psak: R. Yochanan",
+      "Explicit vs. Inferred",
+      "General Leniency Rule",
+      "Person vs. Object"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the explicit transmission of the ruling, the question about what inference could have been drawn, and the 'why do I need both' question \u2014 are precisely the content described in the 'Explicit vs. Inferred' section's prose, which covers all these points in sequence.",
+      "chosen_heading": "Explicit vs. Inferred",
+      "current_heading": "Explicit vs. Inferred",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Person vs. Object",
+    "candidates": [
+      "General Leniency Rule",
+      "Person vs. Object",
+      "Minority Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why both rulings were necessary (tzrichi), which is precisely what the 'General Leniency Rule' prose discusses \u2014 Rabbi Zeira's answer that without the general leniency principle we might have applied Rabbi Yochanan ben Nuri's ruling even stringently.",
+      "chosen_heading": "General Leniency Rule",
+      "current_heading": "Person vs. Object",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Minority Opinion",
+    "candidates": [
+      "Person vs. Object",
+      "Minority Opinion",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the question-and-answer about why the explicit ruling 'halacha k'Rabbi Yochanan ben Nuri' was needed beyond the general leniency principle, specifically addressing the yachid bimkom rabbim concern \u2014 exactly what the 'Minority Opinion' prose describes.",
+      "chosen_heading": "Minority Opinion",
+      "current_heading": "Minority Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Rava's Challenge",
+      "Niddah Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous exchange \u2014 Rava's challenge to Abaye and Rav Pappa's immediate rejoinder to Rava \u2014 which is precisely what the 'Rava's Challenge' prose describes, including Rav Pappa's response that the assumption is incorrect.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Niddah Example",
+    "candidates": [
+      "Niddah Example",
+      "Sha'as HaDchak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the Mishnah about Rabbi Elazar's ruling on three menstrual cycles (mesuleket damim), which is precisely what the 'Niddah Example' prose discusses as the introduction to the niddah case.",
+      "chosen_heading": "Niddah Example",
+      "current_heading": "Niddah Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Sha'as HaDchak",
+    "candidates": [
+      "Sha'as HaDchak",
+      "Aveilus Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly discuss the baraita about Rabbi Yehuda HaNasi ruling like Rabbi Elazar and the subsequent Gemara analysis of what 'after he remembered' means \u2014 exactly the content described in the 'Sha'as HaDchak' prose section.",
+      "chosen_heading": "Sha'as HaDchak",
+      "current_heading": "Sha'as HaDchak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Aveilus Leniency",
+    "candidates": [
+      "Aveilus Leniency",
+      "Chatzerot vs. Techumin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the shemua kerova/rechoka dispute between Rabbi Akiva and the Rabbis, Rabba bar bar Chana's ruling in Rabbi Yochanan's name, Shmuel's principle of leniency in aveilus, and the inference that this leniency is specific to mourning \u2014 exactly what the 'Aveilus Leniency' prose describes.",
+      "chosen_heading": "Aveilus Leniency",
+      "current_heading": "Aveilus Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Chatzerot vs. Techumin",
+    "candidates": [
+      "Chatzerot vs. Techumin",
+      "Alleyway Courtyards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement distinguishing eiruv chatzerot from eiruv techumin, which is precisely what the prose in candidate 0 ('Chatzerot vs. Techumin') describes and analyzes.",
+      "chosen_heading": "Chatzerot vs. Techumin",
+      "current_heading": "Chatzerot vs. Techumin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Alleyway Courtyards",
+    "candidates": [
+      "Alleyway Courtyards",
+      "Techillas vs. Shiyurei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between eiruv of courtyards and eiruv of Shabbat limits, citing Rabbi Yehuda's ruling about acting in a person's interest without their knowledge \u2014 exactly the content described in the 'Alleyway Courtyards' prose section.",
+      "chosen_heading": "Alleyway Courtyards",
+      "current_heading": "Alleyway Courtyards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Techillas vs. Shiyurei",
+    "candidates": [
+      "Techillas vs. Shiyurei",
+      "Food Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav Ashi's explanation of the distinction between shiyurei eiruv and techillas eiruv, and the supporting mishna from Rabbi Yose \u2014 exactly what the 'Techillas vs. Shiyurei' prose describes.",
+      "chosen_heading": "Techillas vs. Shiyurei",
+      "current_heading": "Techillas vs. Shiyurei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Food Minimum",
+    "candidates": [
+      "Food Minimum",
+      "Standard Authorities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes 'v'lo amru l'arev chatzeros ella k'dei shelo lishkach toras eruv min hatinokos,' which is explicitly discussed and explained in the 'Food Minimum' section's prose.",
+      "chosen_heading": "Food Minimum",
+      "current_heading": "Food Minimum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Standard Authorities",
+    "candidates": [
+      "Standard Authorities",
+      "Three Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Ya'akov and Rabbi Zerika statement about ruling like Rabbi Akiva, Rabbi Yosei, and Rabbi Yehuda HaNasi, which is exactly what the prose under 'Standard Authorities' describes and introduces.",
+      "chosen_heading": "Standard Authorities",
+      "current_heading": "Standard Authorities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Three Levels",
+    "candidates": [
+      "Three Levels",
+      "Tannaitic Ranking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the three Amoraim (Rabbi Asi/halacha, Rabbi Chiyya bar Abba/matim, Rabbi Yosei/nir'im) and their formulations, which is precisely what the 'Three Levels' prose section discusses.",
+      "chosen_heading": "Three Levels",
+      "current_heading": "Three Levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Tannaitic Ranking",
+    "candidates": [
+      "Tannaitic Ranking",
+      "Transitive Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the hierarchy of Rabbi Meir/Yehuda/Yose and the rhetorical conclusion about Rabbi Meir vs Rabbi Yose, which is precisely what the 'Tannaitic Ranking' prose describes, whereas 'Transitive Logic' prose discusses this same text but as part of extended commentary including Rav Assi, Rabbi Shimon, and teiku \u2014 content not present in this single quoted passage.",
+      "chosen_heading": "Tannaitic Ranking",
+      "current_heading": "Tannaitic Ranking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Transitive Logic",
+    "candidates": [
+      "Transitive Logic",
+      "Mesharshiya Dissent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact content described in the 'Transitive Logic' prose \u2014 Rav Asi's transitive reasoning about Rabbi Yosei vs Rabbi Shimon, and the unresolved teiku about Rabbi Meir vs Rabbi Shimon \u2014 matching perfectly with the current placement.",
+      "chosen_heading": "Transitive Logic",
+      "current_heading": "Transitive Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Mesharshiya Dissent",
+    "candidates": [
+      "Mesharshiya Dissent",
+      "Three Courtyards Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rav Mesharshiya's dissent and the question of its source, matching exactly the prose in candidate 0 which discusses the same statement and the same follow-up question.",
+      "chosen_heading": "Mesharshiya Dissent",
+      "current_heading": "Mesharshiya Dissent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Three Courtyards Case",
+    "candidates": [
+      "Three Courtyards Case",
+      "Conditional Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the three-courtyards mishna and Rav Chama bar Gurya's ruling about halacha k'Rabbi Shimon plus the immediate contradiction with the klal \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Three Courtyards Case",
+      "current_heading": "Three Courtyards Case",
+      "moved": false
+    }
+  }
+]

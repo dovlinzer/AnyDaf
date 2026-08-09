@@ -106,9 +106,7 @@ The Gemara raises a pointed question: *mai shena be-nashei badki u-mai shena be-
 
 ### Chazaka Default
 
-The implicit question remains: why is *bedika* not automatically required regardless of any challenge? The answer is the *chezkat kashrut* — all families stand in a presumption of fitness. *Kol mishpachot be-chezkat kashrut hen omdot*. This is the *shitas chachamim* that forms the halakhic baseline. The investigation is triggered not by the mere act of marriage but by a specific *ir'ur* — a challenge to status.
-
----
+The *Gemara* raises a further question: *v'ei ihi nami tivdok beih b'dideih* — why shouldn't she likewise check *him*? The *Gemara* itself acknowledges that the previous answer does not resolve everything.
 
 ## Bedika Upon Challeng (II)
 

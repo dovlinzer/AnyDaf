@@ -106,7 +106,7 @@
           "timestamp": "32:27"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -169,7 +169,7 @@
           "timestamp": "59:26"
         }
       ],
-      "sefaria_index": 34,
+      "sefaria_index": 33,
       "matched": true
     }
   ],
@@ -324,5 +324,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "43:41",
+  "amud_b_micro_title": "Divine Names",
+  "shiur_start_daf": 66,
+  "shiur_start_amud": "b"
 }

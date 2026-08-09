@@ -1,14 +1,11 @@
-# Gittin 80 — Daf Yomi Shiur
-
+[DAF:80a]
 ## Defects Beyond Giving
+
+
 
 ### Shift in Focus
 
-> **Hebrew/Aramaic:** מַתְנִי׳ כָּתַב לְשׁוּם מַלְכוּת שֶׁאֵינָהּ הוֹגֶנֶת; לְשׁוּם מַלְכוּת מָדַי; לְשׁוּם מַלְכוּת יָוָן; לְבִנְיַן הַבַּיִת; לְחוּרְבַּן הַבַּיִת;
->
-> **Translation:** MISHNA: If **he wrote** the date on the bill of divorce using a calendrical system that counts years **in the name of a kingdom that is not legitimate,** or he wrote the date **in the name of the kingdom of Media,** or **in the name of the Greek Empire,** after it ceased to exist, or he wrote the date counting **to the building of the Temple,** or counting **to the destruction of the Temple,** in all these case, the bill of divorce is not valid. In the time of the mishna, the local government was particular that documents be dated with the official government date. Therefore, the Sages instituted that this must be done in bills of divorce as well. If one deviates from this practice, the rabbinic dictates of bills of divorce have been violated, and the bill of divorce is invalid.
-
-Today's daf is 80, and we pick up with the *mishna* at the bottom of 79b. Until now, the extended *mishna* — really at least two *mishnayot* joined together — has been occupied with the act of giving the *get*: what constitutes the woman's domain, the man's domain, and the precise mechanics of the act of giving itself, with enormous discussion among the *rishonim* about whether these definitions parallel those of standard *kinyanim* or operate according to independent principles. We have now completely switched gears. The brief *mishna* encountered yesterday about an old *get* — a *get* written before *yichud* — had nothing to do with the act of giving; it introduced the topic of *psulim*, of problems internal to the *get* document itself. That transition marks the character of the current *mishna*, which addresses additional categories of defects in the *get*.
+Until now, the extended *mishna* — really at least two *mishnayot* joined together — has been occupied with the act of giving the *get*: what constitutes the woman's domain, the man's domain, and the precise mechanics of the act of giving itself, with enormous discussion among the *rishonim* about whether these definitions parallel those of standard *kinyanim* or operate according to independent principles. We have now completely switched gears. The brief *mishna* encountered yesterday about an old *get* — a *get* written before *yichud* — had nothing to do with the act of giving; it introduced the topic of *psulim*, of problems internal to the *get* document itself. That transition marks the character of the current *mishna*, which addresses additional categories of defects in the *get*.
 
 ### Get Yashan Review
 
@@ -16,15 +13,16 @@ That earlier case of the *get yashan* — the old *get* — served as the thresh
 
 ---
 
-## Improper Government (II)
+## Improper Government
+
+
 
 ### Mishna: Wrong Dating
 
-> **Hebrew/Aramaic:** כָּתַב לְשׁוּם מַלְכוּת שֶׁאֵינָהּ הוֹגֶנֶת
->
-> **Translation:** If **he wrote** the date on the bill of divorce using a calendrical system that counts years **in the name of a kingdom that is not legitimate,**
-
 The *mishna* states: *kasav lishum malchus she'eino hogenet* — if the *get* was written in the name of an improper government, it is invalid. The *gemara* will explain that this refers specifically to dating by the Roman *caesar*, and will call Rome a *malchus she'eino hogenet* — an improper government — even if the year written is technically accurate.
+
+> **Hebrew/Aramaic:** מַתְנִי׳ כָּתַב לְשׁוּם מַלְכוּת שֶׁאֵינָהּ הוֹגֶנֶת; לְשׁוּם מַלְכוּת מָדַי; לְשׁוּם מַלְכוּת יָוָן; לְבִנְיַן הַבַּיִת; לְחוּרְבַּן הַבַּיִת;
+> **Translation:** MISHNA: If **he wrote** the date on the bill of divorce using a calendrical system that counts years **in the name of a kingdom that is not legitimate,** or he wrote the date **in the name of the kingdom of Media,** or **in the name of the Greek Empire,** after it ceased to exist, or he wrote the date counting **to the building of the Temple,** or counting **to the destruction of the Temple,** in all these case, the bill of divorce is not valid. In the time of the mishna, the local government was particular that documents be dated with the official government date. Therefore, the Sages instituted that this must be done in bills of divorce as well. If one deviates from this practice, the rabbinic dictates of bills of divorce have been violated, and the bill of divorce is invalid.
 
 ### Historical Problem
 
@@ -32,29 +30,26 @@ This immediately raises a striking historical difficulty. The *mishna* was autho
 
 ### Alternative Datings
 
-> **Hebrew/Aramaic:** לְשׁוּם מַלְכוּת מָדַי; לְשׁוּם מַלְכוּת יָוָן; לְבִנְיַן הַבַּיִת; לְחוּרְבַּן הַבַּיִת;
->
-> **Translation:** or he wrote the date **in the name of the kingdom of Media,** or **in the name of the Greek Empire,** after it ceased to exist, or he wrote the date counting **to the building of the Temple,** or counting **to the destruction of the Temple,** in all these case, the bill of divorce is not valid.
-
 The *mishna* continues: *lishum malchus Madai, lishum malchus Yavan* — if the *get* was dated by the Median kingdom or by the Greek kingdom, it is similarly invalid. The *gemara* will treat this as a separate and significant *chiddush*, since these are dead kingdoms — the Medians and the Greeks have long since ceased to exist as sovereign powers. One might have thought that invoking a long-defunct monarchy poses no *shalom malchus* problem at all, since there is no living competing government whose honor is at stake. The *mishna* therefore teaches that even naming a *get* after an ancient, dead *malchus* is problematic.
 
 Notably, the *mishna* includes two further categories: *u'v'vinyan habayit* and *u'v'churban habayit* — dating by the construction of the *Beit Hamikdash* or by its destruction. These would seem to be purely Jewish, internally religious datings with no political valence at all, yet they too are invalid. It is worth observing that it was precisely these categories — *minyan shtarot* (the Seleucid dating system, which began with the establishment of the Seleucid monarchy in 311 BCE and is what the *mishna* likely means by *malchus Yavan*), *binyan habayit*, and *churban habayit* — that constituted the historically known and commonly used Jewish dating systems. The *mishna* invalidates all of them. The clear implication is that there is no intrinsic prohibition against dating a *get* by these systems; the problem is contextual. In the environment the *mishna* envisions, these datings were simply not the appropriate ones to use.
 
-### Principle: Current Authority
+### Authority Principle
 
 The consistent principle that emerges from all these cases is that a *get* must be dated according to the government and country under which the parties currently live, not by a foreign power, a competing authority, or a dead kingdom. This, as the *gemara* will explain, reflects the requirement of *shalom malchus* — giving proper fealty and acknowledgment to the existing ruling authority. The same logic extends even to one's own Jewish historical datings, since using them instead of the current government's calendar fails to provide that acknowledgment.
 
 ---
 
-## Wrong Location (II)
+## Wrong Location
+
+
 
 ### Mishna Case
 
-> **Hebrew/Aramaic:** הָיָה בַּמִּזְרָח וְכָתַב בַּמַּעֲרָב; בַּמַּעֲרָב וְכָתַב בַּמִּזְרָח – תֵּצֵא מִזֶּה וּמִזֶּה, וּצְרִיכָה גֵּט מִזֶּה וּמִזֶּה.
->
-> **Translation:** If **he was in the east and he wrote** the location in the bill of divorce as **in the west,** or if he was **in the west and he wrote** the location in the bill of divorce as **in the east,** the bill of divorce is not valid. If he divorced her with this bill of divorce and she remarried, **she** must **leave** both **this** first husband **and that** second husband, **and she needs a bill of divorce from this** husband **and that** husband.
-
 The *mishna* also addresses a separate set of problems: a *get* written in the wrong city — specifically, where the scribe and witnesses indicated the wrong location for where the *get* was being written.
+
+> **Hebrew/Aramaic:** הָיָה בַּמִּזְרָח וְכָתַב בַּמַּעֲרָב; בַּמַּעֲרָב וְכָתַב בַּמִּזְרָח – תֵּצֵא מִזֶּה וּמִזֶּה, וּצְרִיכָה גֵּט מִזֶּה וּמִזֶּה.
+> **Translation:** If **he was in the east and he wrote** the location in the bill of divorce as **in the west,** or if he was **in the west and he wrote** the location in the bill of divorce as **in the east,** the bill of divorce is not valid. If he divorced her with this bill of divorce and she remarried, **she** must **leave** both **this** first husband **and that** second husband, **and she needs a bill of divorce from this** husband **and that** husband.
 
 ### East-West Problem
 
@@ -62,15 +57,13 @@ The *gemara* clarifies the precise scenario. *Haya bamizrach v'chasav bama'arav*
 
 ### Consequences Apply
 
-> **Hebrew/Aramaic:** וְאֵין לָהּ לֹא כְּתוּבָּה וְלֹא פֵּירוֹת וְלֹא מְזוֹנוֹת וְלֹא בְּלָאוֹת – לֹא עַל זֶה, וְלֹא עַל זֶה.
->
-> **Translation:** **And she does not receive** payment of her **marriage contract, and not** the **profits** from her properties that her husband consumed, **and** she does **not** have a claim to receive **sustenance, and** she does **not** have a claim to **worn clothes** that belonged to her, but which her husband used. She cannot demand these items, **not of this** husband **and not of that** husband.
-
-These location errors generate the same severe legal consequences as the government-dating errors described above. The *gemara* will identify this entire set of stringent rulings with the position of Rabbi Meir, and we will see the full range of those consequences in the following section.
+These location errors generate the same severe legal consequences as the government-dating errors described above. Before examining those consequences in detail, it is worth pausing on a point that is genuinely surprising: the *Tosafot* holds that all of the cases in this *mishna* are instances of *batel miderabbanan* — invalidity by Rabbinic law only. This stands in contrast to a reading of *Rashi* that sounds as though the *get* is *batel mide'oraita*, invalid at the Torah level, which would make the severity of the consequences easier to understand. After all, how could something like basing a date on *shalom malchut* — the reckoning of the ruling government — constitute a Torah-level problem? The *Tosafot*'s position is the more straightforward one: these are Rabbinic disqualifications. And yet it is precisely because they are only Rabbinic disqualifications that the situation becomes so fraught, placing the woman in the worst of both worlds, a question the following section will address directly. It is also worth noting that not every *psul* — every flaw in a *get* — carries consequences of this magnitude; the *mishna* is identifying specifically those *gittin* that represent the most serious category of problem, as distinct from, say, a *get yashan*, where we ruled that after the fact the marriage does not require dissolution. The *gemara* will identify this entire set of stringent rulings with the position of Rabbi Meir, and we will see the full range of those consequences in the following section.
 
 ---
 
 ## Rabbi Meir's Position
+
+
 
 ### Paradoxical Status
 
@@ -78,17 +71,18 @@ The severity of the consequences in these cases derives from a paradoxical statu
 
 ### Mamzer Consequence
 
-> **Hebrew/Aramaic:** כָּל הַמְשַׁנֶּה מִמַּטְבֵּעַ שֶׁטָּבְעוּ חֲכָמִים בְּגִיטִּין – הַוָּלָד מַמְזֵר.
->
-> **Translation:** **anyone deviating from the formula coined by the Sages for bills of divorce,** even if it is only a minor deviation, the bill of divorce is invalid, and if the woman remarried on the basis of this bill of divorce, then **the offspring** from that marriage **is a *mamzer*.**
-
 Rabbi Meir articulates his foundational principle: *kol hamishaneh mimatbei'ah shetavu chachamim begittin havlad mamzer* — anyone who deviates from the formulation established by the Sages for *gittin*, the child is a *mamzer*. Rabbi Meir is extraordinarily exacting about adherence to the precise text and form of the *get*. Any deviation from that established form — even if the *get* remains valid *mide'oraita* — triggers these consequences according to his view. It is worth pausing on the phrase *mimatbei'ah shetavu chachamim* — from the coin-stamp that the Sages minted. This type of language appears in other halachic contexts as well, such as the fixed texts of prayer, and carries the implication that the Sages have established a precise formulation that may not be varied. In *gittin*, where the formulation is in some respects variable — the *sofer* cannot know in advance which *malchus* will be relevant, or exactly what city he will be in — there are nonetheless very precise rules about how the text is to be constructed. When those rules are violated, the text has been changed, and Rabbi Meir treats such a change as maximally consequential.
 
 ### Double Divorce
 
+
+
 The first consequence is *tetzei mizeh umizeh* — she must leave both men and receive a *get* from each. She cannot remain with the second husband because, from the Torah-law perspective, she was still married to the first husband when she married him, making the second marriage adulterous. She cannot return to the first husband because, from the Rabbinic perspective, the first *get* is being treated as valid, meaning she committed adultery with the second man, which permanently bars her from returning to the first. She therefore needs a *get* from both: from the second man because we treat her as having been married to him, and from the first man because we treat his original *get* as though it effected a divorce.
 
 ### Financial Loss
+
+> **Hebrew/Aramaic:** וְאֵין לָהּ לֹא כְּתוּבָּה וְלֹא פֵּירוֹת וְלֹא מְזוֹנוֹת וְלֹא בְּלָאוֹת – לֹא עַל זֶה, וְלֹא עַל זֶה.
+> **Translation:** **And she does not receive** payment of her **marriage contract, and not** the **profits** from her properties that her husband consumed, **and** she does **not** have a claim to receive **sustenance, and** she does **not** have a claim to **worn clothes** that belonged to her, but which her husband used. She cannot demand these items, **not of this** husband **and not of that** husband.
 
 Beyond this, *ve'ein lah lo ketubah, velo peiros, velo mezonot, velo bl'ot, lo mizeh v'lo mizeh* — she does not collect her *ketubah* from either husband, she does not receive *peiros* (the produce proceeds that would otherwise be a husband's entitlement during marriage, which Rashi understands here as what she would receive in exchange), she does not receive *mezonot* from either party while awaiting her *get*, and she does not receive reimbursement for worn-out clothing from either husband.
 
@@ -100,27 +94,26 @@ A more honest reading may be that this is not a punishment at all, but simply an
 
 Furthermore, *im nitla mizeh umizeh tachzir* — if she was actually given any of these payments, she must return them. This is not merely a case of *hamotzi mechavero alav hara'ayah*, where the burden of proof rests on the party seeking to extract money; she must proactively return it even if she is already in possession. This detail does suggest something more than a neutral consequence and more than a mere technical result of her status — though why she should bear such an active obligation remains difficult to explain satisfactorily.
 
+> **Hebrew/Aramaic:** אִם נָטְלָה מִזֶּה וּמִזֶּה – תַּחְזִיר. וְהַוָּלָד מַמְזֵר מִזֶּה וּמִזֶּה. וְלֹא זֶה וָזֶה מְטַמְּאִין לָהּ, וְלֹא זֶה וָזֶה זַכָּאִין – לֹא בִּמְצִיאָתָהּ וְלֹא בְּמַעֲשֵׂה יָדֶיהָ וְלֹא בַּהֲפָרַת נְדָרֶיהָ.
+> **Translation:** **If she took** any of these items **from this** husband **or from that** husband, **she** must **return** what was taken. **And the child** that was born **from this** husband **or from that** husband that was conceived after she married the second husband is a **son born from an adulterous relationship [*mamzer*]. And neither this** husband **nor that** husband, if they are priests, is permitted to **become ritually impure by her** when she dies, which a husband may ordinarily do for his wife. **And neither this** husband **nor that** husband **have the rights to objects she finds, or to her earnings, or to the annulment of her vows.**
+
 ### Impurity & Property
 
-> **Hebrew/Aramaic:** וְלֹא זֶה וָזֶה מִטַמְּאִים לָהּ, וְלֹא זֶה וָזֶה זַכָּאִים – לֹא בִּמְצִיאָתָהּ וְלֹא בְּמַעֲשֵׂה יָדֶיהָ וְלֹא בַּהֲפָרַת נְדָרֶיהָ.
->
-> **Translation:** **And neither this** husband **nor that** husband, if they are priests, is permitted to **become ritually impure by her** when she dies, which a husband may ordinarily do for his wife. **And neither this** husband **nor that** husband **have the rights to objects she finds, or to her earnings, or to the annulment of her vows.**
 
 *V'lo zeh v'zeh mitam'im lah* — if she dies and either husband is a *kohen*, he does not become *tamei* to bury her. *V'lo zeh v'zeh zaka'im lo bimtziatah v'lo bima'aseh yadeha v'lo b'hafarat nedareha* — neither husband is entitled to her found objects, her labor, or the right to annul her vows. Here, at least, the husbands too lose something; they have no rights over her, even as she remains legally entangled with both of them.
 
-### Priesthood Disqualification
+### Kohen Daughter Terumah
 
-> **Hebrew/Aramaic:** הָיְתָה בַּת יִשְׂרָאֵל – נִפְסֶלֶת מִן הַכְּהוּנָּה. בַּת לֵוִי – מִן הַמַּעֲשֵׂר. בַּת כֹּהֵן – מִן הַתְּרוּמָה.
->
-> **Translation:** If **she was an Israelite woman,** then through these two marriages **she** becomes **disqualified from** marrying into **the priesthood,** due to the prohibition against a priest marrying a *zona*. If she was the **daughter of a Levite,** through these two marriages she becomes prohibited **from** partaking of **the tithe** that is given to Levites. If she was the **daughter of a priest,** she becomes prohibited **from** partaking of ***teruma*,** even after she returns to the house of her father the priest.
+> **Hebrew/Aramaic:** הָיְתָה בַּת יִשְׂרָאֵל – נִפְסֶלֶת מִן הַכְּהוּנָּה.
+> **Translation:** If **she was an Israelite woman,** then through these two marriages **she** becomes **disqualified from** marrying into the **priesthood,** due to the prohibition against a priest marrying a *zona*.
+
+> **Hebrew/Aramaic:** בַּת לֵוִי – מִן הַמַּעֲשֵׂר. בַּת כֹּהֵן – מִן הַתְּרוּמָה.
+> **Translation:** If she was the **daughter of a Levite,** through these two marriages she becomes prohibited **from** partaking of **the tithe** that is given to Levites. If she was the **daughter of a priest,** she becomes prohibited **from** partaking of ***teruma*,** even after she returns to the house of her father the priest.
 
 *Haytah bat Yisrael nifselah min hakehunah* — if she was a *bat Yisrael*, she becomes disqualified from marrying a *kohen*, since she is considered to have committed relations with someone who was not her husband while she was still married — rendering her a *zonah* in the technical sense. The point is somewhat complicated by the fact that the first *get*, even if Rabbinically defective, is technically valid *mide'oraita*, meaning she is already a *gerushah* by Torah law and would in any case be disqualified from *kehunah*. But the additional disqualification follows as a consequence of the adulterous union. *Bat Levi min hama'aser* — a daughter of a Levite loses her right to *ma'aser*, which requires its own analysis in *Yevamot*. *Bat Kohen min hatrumah* — a daughter of a *kohen* loses her right to eat *terumah*, since the verse *v'nitma'ah* is stated three times in connection with a woman who commits adultery, each instance disqualifying her from a different priestly privilege.
 
 ### Inheritance & Children
 
-> **Hebrew/Aramaic:** וְאֵין יוֹרְשִׁין שֶׁל זֶה וְיוֹרְשִׁין שֶׁל זֶה יוֹרְשִׁים כְּתוּבָּתָהּ.
->
-> **Translation:** **And the heirs of this** husband **and the heirs of that** husband **do not inherit** the rights to collect payment of **her marriage contract** if she dies.
 
 *V'ein yorshim shel zeh v'yorshim shel zeh yorshim ktuvatah* — neither husband's heirs inherit her *ketubah*. This refers to the institution of *ktuvat benin dichrin*: when a woman brings a dowry into a marriage, that property, if she predeceases her husband, passes through him but then descends specifically to her children rather than to all of the husband's heirs from various wives. In this case, because she is in a status of double marriage, that protection is lost. Each husband does inherit from her while she is alive (which itself raises questions, since she receives nothing from them), but upon their deaths, the property descends equally to all heirs rather than being reserved for her children. This seems manifestly unfair — she loses the very protection the *ketubah* institution was designed to provide — but it reflects the logical consequence of a status that cannot be resolved cleanly into either marriage.
 
@@ -128,9 +121,8 @@ Regarding the *mamzeirim*: an important clarification is necessary. The *mamzer*
 
 ### Yibum Issues
 
-> **Hebrew/Aramaic:** וְאִם מֵתוּ – אָחִיו שֶׁל זֶה וְאָחִיו שֶׁל זֶה חוֹלְצִין, וְלֹא מְיַיבְּמִין.
->
-> **Translation:** **And if** the husbands **die, the brother of this** first husband **and the brother of that** second husband **perform *ḥalitza*,** since she was betrothed to the second one as well, **and they do not consummate the levirate marriage.**
+> **Hebrew/Aramaic:** וְאֵין יוֹרְשִׁין שֶׁל זֶה וְיוֹרְשִׁין שֶׁל זֶה יוֹרְשִׁים כְּתוּבָּתָהּ. וְאִם מֵתוּ – אָחִיו שֶׁל זֶה וְאָחִיו שֶׁל זֶה חוֹלְצִין, וְלֹא מְיַיבְּמִין.
+> **Translation:** **And the heirs of this** husband **and the heirs of that** husband **do not inherit** the rights to collect payment of **her marriage contract** if she dies. **And if** the husbands **die, the brother of this** first husband **and the brother of that** second husband **perform *ḥalitza*,** since she was betrothed to the second one as well, **and they do not consummate the levirate marriage.**
 
 *V'im meis achiv shel zeh v'achiv shel zeh choltzin v'lo meyabmin* — if either husband dies before giving her a *get*, his brother must perform *chalitzah* and may not perform *yibbum*. Since she is in a *safek* status with respect to each husband — possibly married, possibly not — *yibbum* cannot be performed, for she might not be a true *yevamah* to the brother; yet since she might be, *chalitzah* is required.
 
@@ -138,11 +130,12 @@ Regarding the *mamzeirim*: an important clarification is necessary. The *mamzer*
 
 ## Changing Names
 
-### Mishna Case
 
-> **Hebrew/Aramaic:** שִׁינָּה שְׁמוֹ, וּשְׁמָהּ, שֵׁם עִירוֹ, וְשֵׁם עִירָהּ – תֵּצֵא מִזֶּה וּמִזֶּה, וְכׇל הַדְּרָכִים הָאֵלּוּ בָּהּ.
->
-> **Translation:** If **he changed his name,** i.e., he wrote a different name in the bill of divorce, **or** he changed **her name,** or if he changed **the name of his city or the name of her city,** and she remarried on the basis of this bill of divorce, then **she** must **leave** both **this** first husband **and that** second husband. **And all of those** above-mentioned **ways** of penalizing a woman who remarried based on the bills of divorce detailed in the earlier clause of the mishna apply **to her** in this case as well.
+
+### Mishna Case (II)
+
+> **Hebrew/Aramaic:** שִׁינָּה שְׁמוֹ, וּשְׁמָהּ, שֵׁם עִירוֹ, וְשֵׁם עִירָהּ – תֵּצֵא מִזֶּה וּמִזֶּה, וְכׇל הַדְּרָכִים הָאֵלּוּ בָּהּ.
+> **Translation:** The mishna proceeds to teach an additional *halakha* concerning a bill of divorce written not in accordance with its *halakhot*: If **he changed his name,** i.e., he wrote a different name in the bill of divorce, **or** he changed **her name,** or if he changed **the name of his city or the name of her city,** and she remarried on the basis of this bill of divorce, then **she** must **leave** both **this** first husband **and that** second husband. **And all of those** above-mentioned **ways** of penalizing a woman who remarried based on the bills of divorce detailed in the earlier clause of the mishna apply **to her** in this case as well.
 
 The *mishna* continues: *shina shemo u'shmah, shemo u'shemah, o shemo v'shem iro* — if the *get* changed the name of the husband, the wife, or their cities, the same consequences apply and she must leave both men.
 
@@ -158,38 +151,41 @@ The *gemara* attributes this ruling — *tetzei mizeh umizeh v'chol hadrachim ha
 
 ## Arayot & Ailonit
 
-### Arayah Exemption
 
-> **Hebrew/Aramaic:** כׇּל עֲרָיוֹת שֶׁאָמְרוּ ״צָרוֹתֵיהֶן מוּתָּרוֹת״
->
-> **Translation:** **all** of those cases in **which they said** that a man who died without children and left behind a widow who is, to the man's brother, one of **those with whom relations are forbidden,** and thus not only is there no levirate bond for her, but **the rival wives** of the brother who died **are** also **permitted** to marry without either levirate marriage or *ḥalitza*.
+
+### Arayah Exemption
 
 The *mishna* now turns to a different category of cases that generate the same severe consequences, though these have nothing to do with a defective text. The principle of *kol ha'arayot she'amru tzaroteihen mutarot* — that whenever one woman is an *ervah* to the surviving brother (and thus forbidden to him for *yibbum*), her co-wife is also exempt from both *yibbum* and *chalitzah* — is central to the opening *mishna* of *Yevamot*. The classic example: a man married his brother's daughter (his niece). Since a niece is an *ervah* to the surviving brother (who is her uncle), she is exempt from *yibbum*, and her co-wife is consequently also exempt and may freely remarry without *chalitzah*.
 
+> **Hebrew/Aramaic:** כׇּל עֲרָיוֹת שֶׁאָמְרוּ ״צָרוֹתֵיהֶן מוּתָּרוֹת״ –
+> **Translation:** The mishna teaches another *halakha* associated with the previous *halakhot*: With regard to **all** of those cases in **which they said** that a man who died without children and left behind a widow who is, to the man’s brother, one of **those with whom relations are forbidden,** e.g., she is his wife’s sister, not only is there no levirate bond for her, but **the rival wives** of the brother who died **are** also **permitted** to marry without either levirate marriage or *ḥalitza*.
+
 ### Ailonit Discovery
 
-> **Hebrew/Aramaic:** הָלְכוּ הַצָּרוֹת הָאֵלּוּ וְנִישְּׂאוּ, וְנִמְצְאוּ אֵלּוּ אַיְילוֹנִיֹּת – תֵּצֵא מִזֶּה וּמִזֶּה, וְכׇל הַדְּרָכִים הָאֵלּוּ בָּהּ.
->
-> **Translation:** **These rival wives went and married** another man without *ḥalitza*, **and these** widows with whom relationships were forbidden **were found** to be **sexually underdeveloped women** incapable of bearing children **[*ailonit*].** Therefore, it became clear, retroactively, that the marriage to the dead brother was never valid, and accordingly, the rival wives were never exempt from the obligation of levirate marriage due to their being the rival wives of a forbidden relationship. Consequently, the rival wives were forbidden to marry anyone else without *ḥalitza*, and the rival wives must **leave** both **this** man whom they remarried, **and that** *yavam*, i.e., they cannot enter into levirate marriage with him. **And all of those** above-mentioned **ways** of penalizing a woman who remarried based on the bills of divorce detailed in the earlier clause of the mishna apply **to her** in this case as well.
-
 The scenario the *mishna* presents: the co-wife, relying on her exemption, went and married another man. Subsequently, the woman who was the *ervah* — say, the niece — grew up and was discovered to be an *ailonit*, a woman who never developed sexually, and who would have been a *mekach ta'ut* — a mistaken transaction — had her condition been known at the time of marriage. Since presumably neither party knew, the marriage is retroactively voided. There was no deliberate deception; the facts simply became apparent later. But the legal consequence is that retroactively he was never married to his niece. She was therefore never an *ervah* to the surviving brother. When the first husband died, the co-wife was therefore always obligated in *yibbum* or *chalitzah* — she simply did not know it.
+
+> **Hebrew/Aramaic:** הָלְכוּ הַצָּרוֹת הָאֵלּוּ וְנִישְּׂאוּ, וְנִמְצְאוּ אֵלּוּ אַיְילוֹנִיֹּת – תֵּצֵא מִזֶּה וּמִזֶּה, וְכׇל הַדְּרָכִים הָאֵלּוּ בָּהּ.
+> **Translation:** The mishna discusses another case: **These rival wives went and married** another man without *ḥalitza*, **and these** widows with whom relationships were forbidden **were found** to be **sexually underdeveloped women** incapable of bearing children **[*ailonit*].** Therefore, it became clear, retroactively, that the marriage to the dead brother was never valid, and accordingly, the rival wives were never exempt from the obligation of levirate marriage due to their being the rival wives of a forbidden relationship. Consequently, the rival wives were forbidden to marry anyone else without *ḥalitza*, and the rival wives must **leave** both **this** man whom they remarried, **and that** *yavam*, i.e., they cannot enter into levirate marriage with him. **And all of those** above-mentioned **ways** of penalizing a woman who remarried based on the bills of divorce detailed in the earlier clause of the mishna apply **to her** in this case as well.
 
 ### Co-Wife's Problem
 
 The co-wife's situation is that she has been married to her second husband, perhaps for twenty years, in the genuine belief that she was free to do so. Nobody deceived her; she had every legal reason to believe she required neither *chalitzah* nor *yibbum*. Yet retroactively, because the *ailonit* determination voids the original marriage, the co-wife was always *zekukah l'yibbum* — bound to the surviving brother — before she remarried. The prohibition she violated is *lo tihyeh eishet hamet hachutzah le'ish zar*, and the *gemara* understands the resulting child as a *mamzer* according to the position of Rabbi Akiva, who holds that a child born from a union prohibited by a *lav* is a *mamzer*. This may reflect Rabbi Akiva's general position on all *issur lav* relationships, or it may reflect something more specific to *yibbum*, where the status of *zekukah leyibbum* creates a quasi-*kiddushin* bond between the woman and the surviving brother, making her union with another man more analogous to adultery.
 
-### Consequences Apply
+### Consequences Apply (II)
 
-The consequences the *mishna* describes — *tetzei mizeh umizeh v'chol hadrachim ha'elu bah* — are that she must leave both men and suffers all of the consequences catalogued by Rabbi Meir. The unfairness here is, if anything, more acute than in the *get* cases. At least in those cases one could say the parties should have had expert supervision of the *get* text. Here, the co-wife did everything correctly given the information available to her, and she is still subjected to all these consequences. What she was supposed to do to prevent this is unclear: as one might ask, was the court supposed to wait, however many years it takes, to determine whether the *ervah* was an *ailonit* before permitting the co-wife to remarry? Or should the *ervah* have been brought to perform *chalitzah* just in case — which itself would have entailed disqualifying her from *kehunah* and attendant consequences? The situation is genuinely without good remedy.
+
+
+*Tetzei mizeh umizeh v'chol hadrachim ha'elu bah* — she must leave both men and suffers all of the consequences catalogued by Rabbi Meir. The unfairness here is, if anything, more acute than in the *get* cases. At least in those cases one could say the parties should have had expert supervision of the *get* text. Here, the co-wife did everything correctly given the information available to her, and she is still subjected to all these consequences. One might ask why this is so consequential at all: she was not married to the surviving brother, she simply lacked *chalitzah*, and the *issur* on her remarrying was only an *issur lav*. Why should the child of such a union be a *mamzer*? The answer, as the *gemara* works it out, is that this follows the position of Rabbi Akiva — and it is worth noting that treating this as a *da'at yachid*, a minority position of considerable stringency, is what makes the result so severe. Whether Rabbi Akiva's principle here is his general view that any child born from a union prohibited by a *lav* is a *mamzer*, or whether it reflects something more specific to *yibbum* — where *zekukah leyibbum* creates a quasi-*kiddushin* bond making her union with another man more closely analogous to adultery — is a question the previous section addresses in full. What she was supposed to do to prevent this is unclear: as one might ask, was the court supposed to wait, however many years it takes, to determine whether the *ervah* was an *ailonit* before permitting the co-wife to remarry? Or should the *ervah* have been brought to perform *chalitzah* just in case — which itself would have entailed disqualifying her from *kehunah* and attendant consequences? The situation is genuinely without good remedy.
 
 ---
 
 ## Yibum with Ailonit
 
+
+
 ### Scenario Setup
 
-> **Hebrew/Aramaic:** הַכּוֹנֵס אֶת יְבִמְתּוֹ, וְהָלְכָה צָרָתָהּ וְנִישֵּׂאת לְאַחֵר, וְנִמְצֵאת זוֹ – שֶׁהָיְתָה אַיְילוֹנִית; תֵּצֵא מִזֶּה וּמִזֶּה, וְכׇל הַדְּרָכִים הָאֵלּוּ בָּהּ.
->
+> **Hebrew/Aramaic:** הַכּוֹנֵס אֶת יְבִמְתּוֹ, וְהָלְכָה צָרָתָהּ וְנִישֵּׂאת לְאַחֵר, וְנִמְצֵאת זוֹ – שֶׁהָיְתָה אַיְילוֹנִית; תֵּצֵא מִזֶּה וּמִזֶּה, וְכׇל הַדְּרָכִים הָאֵלּוּ בָּהּ.
 > **Translation:** Similarly, with regard to **one who marries his *yevama*, and her rival wife went and got married to another** man, **and it was found that this** *yevama* **was a sexually underdeveloped woman,** the rival wife must **leave this** man whom she remarried **and that** *yavam*, i.e., she cannot enter into levirate marriage with him. Because the *yevama* was a sexually underdeveloped woman, the obligation of levirate marriage never applied to her, and her levirate marriage did not exempt her rival wife. **And all of those** aforementioned **ways** of penalizing a woman who remarried based on the bills of divorce detailed in the earlier clause of the mishna apply **to her** in this case as well.
 
 A further variation: a man performed *yibbum* with one of two *yevamot*. The co-wife, understanding herself to be freed by the *yibbum*, went and married another man. Subsequently, the woman with whom *yibbum* was performed was discovered to be an *ailonit*.
@@ -200,17 +196,19 @@ The retroactive consequence: the *yibbum* never legally occurred, since the *ail
 
 ### Unfair Penalty
 
-She must separate from her second husband and suffers all the consequences. As in the previous case, she did nothing wrong; the situation arose through no fault of hers. Yet the severity of the consequences follows her.
+*Tetzei mizeh umizeh v'chol hadrachim ha'elu bah* — she must separate from her second husband and suffers all the consequences. As in the previous case, she did nothing wrong; the situation arose through no fault of hers. Yet the severity of the consequences follows her.
 
 ---
 
 ## Mistaken Documents
 
+
+
 ### Mix-up Scenario
 
-> **Hebrew/Aramaic:** כָּתַב סוֹפֵר גֵּט לָאִישׁ, וְשׁוֹבָר לָאִשָּׁה; וְטָעָה וְנָתַן גֵּט לָאִשָּׁה, וְשׁוֹבָר לָאִישׁ, וְנָתְנוּ זֶה לָזֶה; וּלְאַחַר זְמַן הֲרֵי הַגֵּט יוֹצֵא מִיַּד הָאִישׁ וְשׁוֹבָר מִיַּד הָאִשָּׁה – תֵּצֵא מִזֶּה וּמִזֶּה, וְכׇל הַדְּרָכִים הָאֵלּוּ בָּהּ.
->
-> **Translation:** **A scribe wrote a bill of divorce for a man,** so that the man could divorce his wife with it; **and** he wrote **a receipt for the woman,** for her to give to her husband upon receiving payment of her marriage contract, verifying that she received the payment. **And** the scribe **erred and gave** the **bill of divorce to the woman and** the **receipt to the man, and** not knowing what was written in the documents that were in their possession, **they gave** what they received from the scribe **to each other.** The woman gave her husband a bill of divorce and the husband gave his wife a receipt, and consequently, there was no divorce at all. **And after** some **time, the bill of divorce is in the possession of the man, and the receipt is in the possession of the woman,** and they discover that the divorce never actually transpired. If the woman had remarried another man, **she** must **leave this,** the first husband, **and that,** the second husband. **And all of those** above-mentioned **ways** of penalizing a woman who remarried based on the bills of divorce detailed in the earlier clause of the mishna apply **to her** in this case as well.
+> **Hebrew/Aramaic:** כָּתַב סוֹפֵר גֵּט לָאִישׁ, וְשׁוֹבָר לָאִשָּׁה; וְטָעָה וְנָתַן גֵּט לָאִשָּׁה, וְשׁוֹבָר לָאִישׁ, וְנָתְנוּ זֶה לָזֶה;
+> **Translation:** The mishna now discusses another case: **A scribe wrote a bill of divorce for a man,** so that the man could divorce his wife with it; **and** he wrote **a receipt for the woman,** for her to give to her husband upon receiving payment of her marriage contract, verifying that she received the payment. **And** the scribe **erred and gave** the **bill of divorce to the woman and** the **receipt to the man, and** not knowing what was written in the documents that were in their possession, **they gave** what they received from the scribe **to each other.** The woman gave her husband a bill of divorce and the husband gave his wife a receipt, and consequently, there was no divorce at all.
+
 
 The *mishna* presents a case of scribal error of a different kind: *katav sofer get la'ish v'shovar la'ishah* — the *sofer* prepared the *get* for the husband and a *shovar* (a receipt acknowledging payment of the *ketubah*) for the wife. The design was that the wife, upon receiving payment of her *ketubah*, would hand the receipt to the husband; the husband would hand the *get* to her. The *sofer* inadvertently delivered the documents in reverse: the wife received the receipt and the husband received the *get*. *V'natnu zeh lazeh* — and they exchanged documents, each believing they had the correct one. Perhaps both parties were not fully literate, or perhaps the documents were handled quickly and without close inspection.
 
@@ -220,27 +218,32 @@ The result is that she is not actually divorced — she received a receipt, not 
 
 ### Later Discovery
 
-Some time later, someone examines the documents and discovers that the husband is holding the *get* and the wife the receipt — the reverse of what they should have.
+> **Hebrew/Aramaic:** וּלְאַחַר זְמַן הֲרֵי הַגֵּט יוֹצֵא מִיַּד הָאִישׁ וְשׁוֹבָר מִיַּד הָאִשָּׁה – תֵּצֵא מִזֶּה וּמִזֶּה, וְכׇל הַדְּרָכִים הָאֵלּוּ בָּהּ.
+> **Translation:** **And after** some **time, the bill of divorce is in the possession of the man, and the receipt is in the possession of the woman,** and they discover that the divorce never actually transpired. If the woman had remarried another man, **she** must **leave this,** the first husband, **and that,** the second husband. **And all of those** above-mentioned **ways** of penalizing a woman who remarried based on the bills of divorce detailed in the earlier clause of the mishna apply **to her** in this case as well.
+
+*V'le'achar zman harei haget yotzei miyad ha'ish v'hashovar miyad ha'ishah* — some time later, someone examines the documents and discovers that the husband is holding the *get* and the wife the receipt — the reverse of what they should have.
 
 ### Consequences
 
-She must leave her second husband and suffers all the consequences. She married her second husband genuinely believing she was divorced, and yet all the penalties attach.
+*Tetzei mizeh umizeh v'chol hadrachim ha'elu bah* — she must leave her second husband and suffers all the consequences. She married her second husband genuinely believing she was divorced, and yet all the penalties attach.
 
 ### Immediate Discovery
 
-> **Hebrew/Aramaic:** רַבִּי אֶלְעָזָר אוֹמֵר: אִם לְאַלְתַּר יָצָא, אֵין זֶה גֵּט; אִם לְאַחַר זְמַן יָצָא, הֲרֵי זֶה גֵּט – לֹא כָּל הֵימֶנּוּ מִן הָרִאשׁוֹן לְאַבֵּד זְכוּתוֹ שֶׁל שֵׁנִי.
->
-> **Translation:** **Rabbi Elazar says: If** the bill of divorce **is immediately [*le'altar*] in** the husband's possession, **this is not** a valid **bill of divorce,** since he clearly never gave it to her. But **if it is in** his possession **after** some **time,** then **this is** a valid **bill of divorce,** since **it is not in the power of the first** husband **to eliminate the right of the second** husband. The assumption is that the husband did in fact give her the bill of divorce in the correct manner, but at some point, he took it back from her.
-
 Rabbi Eliezer offers a partial exception: *im l'altar yatza ein zeh get* — if the mistake is discovered immediately, when the documents are examined right away at the time of exchange, then plainly no valid *get* was given, the error is clear, and the relevant consequences follow straightforwardly.
 
+> **Hebrew/Aramaic:** רַבִּי אֶלְעָזָר אוֹמֵר: אִם לְאַלְתַּר יָצָא, אֵין זֶה גֵּט; אִם לְאַחַר זְמַן יָצָא, הֲרֵי זֶה גֵּט – לֹא כָּל הֵימֶנּוּ מִן הָרִאשׁוֹן לְאַבֵּד זְכוּתוֹ שֶׁל שֵׁנִי.
+> **Translation:** **Rabbi Elazar says: If** the bill of divorce **is immediately [*le’altar*] in** the husband’s possession, **this is not** a valid **bill of divorce,** since he clearly never gave it to her. But **if it is in** his possession **after** some **time,** then **this is** a valid **bill of divorce,** since **it is not in the power of the first** husband **to eliminate the right of the second** husband. The assumption is that the husband did in fact give her the bill of divorce in the correct manner, but at some point, he took it back from her.
+
 ### Delayed Discovery
+
 
 However, *v'im l'achar zman yatza* — if the error surfaces only after a significant period has elapsed — Rabbi Eliezer rules differently: *lo kol heimenu min harishon l'abeid zchuto shel sheni* — the first husband does not have the power to retroactively destroy the second husband's rights. If the first husband, a year after giving what purported to be a *get*, asks to examine the document and it turns out to be a *shovar*, Rabbi Eliezer does not accept the resulting claim that the *get* was never given. After the passage of time, who can verify that these are the same documents as were originally exchanged? Perhaps the first husband himself swapped the documents in order to reclaim his wife and undermine the second marriage. The *gemara* will discuss how much time must elapse for this rule of Rabbi Eliezer to apply.
 
 ---
 
-## Contemporary Dating (II)
+## Contemporary Dating
+
+
 
 ### City of Origin
 
@@ -248,22 +251,23 @@ Tosafot raises an important practical question about the *mishna*'s prohibition 
 
 ### Historical Context
 
-Tosafot notes that older practice did include the city of origin: *ve'hakadmonim nahagu le'kotvo* — the earlier generations customarily wrote it. The reason was identification: *mishum shema yihiyeh arar she'yesh sham Yosef ben Shimon acher yihiyeh shemo v'shem iro mikom leida* — because if there might be a challenge and another man named Yosef ben Shimon existed elsewhere, having the city of birth as well would serve to identify the correct individual. It is analogous to the function of a family name. Indeed, as was noted, these place-names very often became the basis for family names over time.
+Tosafot notes that older practice did include the city of origin: *ve'hakadmonim nahagu le'kotvo* — the earlier generations customarily wrote it. The reason was identification: *mishum shema yihiyeh arar she'yesh sham Yosef ben Shimon acher yihiyeh shemo v'shem iro mekom leida* — because if there might be a challenge and another man named Yosef ben Shimon existed elsewhere, having the city of birth as well would serve to identify the correct individual. It is analogous to the function of a family name. Indeed, as was noted, these place-names very often became the basis for family names over time.
 
 Since the city of origin was never required, one might have thought that if one writes it and gets it wrong, that is worse than not writing it at all — a case of doing the optional thing incorrectly. But Tosafot rejects this conclusion on practical grounds.
 
 ### Practical Evidence
 
-*De'chazinan de'kama pe'amim kotvim mikom leida pi ha'ba'al o ha'ishah* — Tosafot observes that in practice, the city of birth was simply written on the basis of what the husband or wife stated, without any independent verification. No proof of origin was demanded. Tosafot argues this demonstrates that the city of origin cannot be *pasul be'di'avad* if incorrect: if getting it wrong would invalidate the *get*, one would not simply accept the husband's word without some form of objective evidence. In fact, *Ri* himself validated a *get* where the city of birth turned out to be incorrect. And in cases where the city of birth was simply not known — the family had moved when the person was young, for instance — *Ri* ruled that the city of origin should be omitted entirely rather than guessed at.
+*De'chazinan de'kama pe'amim kotvim mekom leida pi ha'ba'al o ha'ishah* — Tosafot observes that in practice, the city of birth was simply written on the basis of what the husband or wife stated, without any independent verification. No proof of origin was demanded. Tosafot argues this demonstrates that the city of origin cannot be *pasul be'di'avad* if incorrect: if getting it wrong would invalidate the *get*, one would not simply accept the husband's word without some form of objective evidence. In fact, *Ri* himself validated a *get* where the city of birth turned out to be incorrect. And in cases where the city of birth was simply not known — the family had moved when the person was young, for instance — *Ri* ruled that the city of origin should be omitted entirely rather than guessed at.
 
 ---
 
 ## Improper Government (II)
 
+
+
 ### Gemara: Rome's Definition
 
-> **Hebrew/Aramaic:** גְּמָ׳ מַאי ״מַלְכוּת שֶׁאֵינָהּ הוֹגֶנֶת״? רוֹמִי. וְאַמַּאי קָרֵי לַהּ מַלְכוּת שֶׁאֵינָהּ הוֹגֶנֶת? מִשּׁוּם דְּאֵין לָהֶם לֹא כְּתָב, וְלֹא לָשׁוֹן.
->
+> **Hebrew/Aramaic:** גְּמָ׳ מַאי ״מַלְכוּת שֶׁאֵינָהּ הוֹגֶנֶת״? רוֹמִי. וְאַמַּאי קָרֵי לַהּ מַלְכוּת שֶׁאֵינָהּ הוֹגֶנֶת? מִשּׁוּם דְּאֵין לָהֶם לֹא כְּתָב, וְלֹא לָשׁוֹן.
 > **Translation:** GEMARA: It was stated in the mishna that if one wrote the date on a bill of divorce according to a kingdom that is not legitimate, it is invalid. The Gemara asks: **What** is the meaning of the description: **A kingdom that is not legitimate?** The Gemara answers: This is referring to **the Roman Empire,** and he wrote the bill of divorce in a different country, such as Babylonia, where the Romans were not in power. **And why is it called: A kingdom that is not legitimate? Because they have neither** their own **script, nor** their own **language,** but rather, they took them from other nations.
 
 The *gemara* now formally addresses the opening clause of the *mishna*. *Mai malchus she'eina hogenet?* — what is an improper government? *Malchus ha'romim* — Rome. And why call it *malchus she'eina hogenet*? *Mishum de'ein lahem ktav v'lo lashon* — the *gemara*'s stated reason is that the Romans have no writing or language of their own. This claim is historically puzzling, to say the least: Latin is distinctly Rome's own language, and the Latin alphabet, derived from the same part of Italy, was Rome's own as well. The precise meaning of the *gemara*'s statement here is difficult to resolve.
@@ -272,9 +276,23 @@ Setting that aside, the deeper historical difficulty remains: if the *mishna* wa
 
 ### Shalom Malchut Rationale
 
-> **Hebrew/Aramaic:** אָמַר עוּלָּא: מִפְּנֵי מָה תִּיקְּנוּ מַלְכוּת בְּגִיטִּין – מִשּׁוּם שְׁלוֹם מַלְכוּת.
->
+> **Hebrew/Aramaic:** אָמַר עוּלָּא: מִפְּנֵי מָה תִּיקְּנוּ מַלְכוּת בְּגִיטִּין – מִשּׁוּם שְׁלוֹם מַלְכוּת.
 > **Translation:** **Ulla said: For what** reason **did** the Sages **institute** that the date should be written according to the years of the local **kingdom, in bills of divorce? Due to** the need to maintain **peaceful** relations with **the kingdom,** as the government is particular that important documents issued in its domain be written with the date of that government.
+
+> **Hebrew/Aramaic:** וּמִשּׁוּם שְׁלוֹם מַלְכוּת – תֵּצֵא וְהַוָּלָד מַמְזֵר?!
+> **Translation:** The Gemara asks: **But due to** an ordinance instituted by the Sages solely for the sake of maintaining **peaceful** relations with **the kingdom,** would they be so stringent that the woman would be forced to **leave** her husband, **and** they would declare the status of **the offspring is a *mamzer*?**
+
+> **Hebrew/Aramaic:** אִין, רַבִּי מֵאִיר לְטַעְמֵיהּ – דְּאָמַר רַב הַמְנוּנָא מִשְּׁמֵיהּ דְּעוּלָּא, אוֹמֵר הָיָה רַבִּי מֵאִיר: כָּל הַמְשַׁנֶּה מִמַּטְבֵּעַ שֶׁטָּבְעוּ חֲכָמִים בְּגִיטִּין – הַוָּלָד מַמְזֵר.
+> **Translation:** The Gemara answers: **Yes. Rabbi Meir** conforms **to his** line of **reasoning. As Rav Hamnuna says in the name of Ulla: Rabbi Meir would say** that **anyone deviating from the formula coined by the Sages for bills of divorce,** even if it is only a minor deviation, the bill of divorce is invalid, and if the woman remarried on the basis of this bill of divorce, then **the offspring** from that marriage **is a *mamzer*.**
+
+> **Hebrew/Aramaic:** לְשׁוּם מַלְכוּת יָוָן. וּצְרִיכָא; דְּאִי אַשְׁמוֹעִינַן מַלְכוּת שֶׁאֵינָהּ הוֹגֶנֶת – מִשּׁוּם דִּמְלִיכָא; אֲבָל מַלְכוּת מָדַי וּמַלְכוּת יָוָן – מַאי דַהֲוָה הֲוָה;
+> **Translation:** It was stated in the mishna: If he wrote the date on a bill of divorce **in the name of the Greek Empire,** then the bill of divorce is invalid. The Gemara comments: **And** it is **necessary** to state this *halakha* and the other *halakhot* as well. **As, if** the mishna **had taught us** this *halakha* only with regard to **a kingdom that is not legitimate,** one could say that the bill of divorce is invalid **because** this kingdom is currently **ruling,** and the local government where he is writing the bill of divorce therefore objects to his writing the date of an another kingdom. **But** with regard to **the kingdom of Media, and the Greek Empire,** it is not necessary to invalidate the bill of divorce, since **what was, was,** and since these kingdoms are no longer in power, the local government is not particular if they are mentioned in a document.
+
+> **Hebrew/Aramaic:** וְאִי אַשְׁמְעִינַן מַלְכוּת מָדַי וּמַלְכוּת יָוָן – מִשּׁוּם דְּמַלְכְוָתָא הָווּ; אֲבָל בִּנְיַן הַבַּיִת – מַאי דַהֲוָה הֲוָה;
+> **Translation:** **And if** the mishna **had taught us** this *halakha* with regard to **the kingdom of Media and the Greek Empire,** one could understand the concern, **because they were kingdoms,** and the current government objects to another kingdom being mentioned in a document. **But** if he wrote the date counting to **the building of the Temple,** then one could say **what was, was,** and the local government is not particular if this is mentioned in a document. Consequently, it was necessary for the mishna to teach us this *halakha* as well.
+
+> **Hebrew/Aramaic:** וְאִי אַשְׁמְעִינַן בִּנְיַן הַבַּיִת – דְּאָמְרִי: קָמַדְכְּרִי שְׁבָחַיְיהוּ; אֲבָל חוּרְבַּן הַבַּיִת, דְּצַעֲרָא הוּא – אֵימָא לָא; צְרִיכָא.
+> **Translation:** **And if** the mishna **had taught us** this *halakha* with regard to **the building of the Temple,** then one could say that the reason why this is problematic is because the governments **will say:** The Jews **mention their** own **praise,** instead of honoring the ruling government. **But** with regard to **the destruction of the Temple, which is a** cause of **anguish** for us, **say** that **no,** the government is not particular about this. Therefore it is **necessary** to mention all of these *halakhot*.
 
 *Amar Ula: mipnei mah tiknu malchus be'gittin? Mishum shalom malchus* — why did the Sages require that *gittin* be dated by the reigning government? For the sake of peace with the government — *shalom malchus*. Tosafot adds that this requirement seems to apply specifically to *gittin* and not to other *shtarot*; other documents were historically dated by *minyan shtarot* and *binyan habayit* without concern. The reason *gittin* are singled out is that *gittin* are so consequential — they determine personal status, they separate husband and wife — that they more than any other document warranted official, government-recognized dating. The government has an interest in such documents being precisely and officially dated; dating them by an unrecognized system fails to provide that.
 
@@ -283,6 +301,8 @@ This rationale then drives the *gemara*'s analysis of the other cases in the *mi
 ---
 
 ## Contemporary Dating (II)
+
+
 
 ### Question Posed
 
@@ -300,15 +320,18 @@ Tosafot cites Rav Yosef's explanation: *de'achshav ein hamalchus makpedet* — n
 
 The conclusion Tosafot draws is two-fold: first, even if one were to rule like Rabbi Meir, dating *l'vriat olam* would not be problematic today because there is no *shalom malchus* issue — the government is indifferent, and therefore the underlying rationale for the requirement does not apply. Second, independent of the *shalom malchus* question, we do not rule like Rabbi Meir in this matter. Dating by *briat olam*, Tosafot concludes, is entirely permissible on both grounds.
 
+What Tosafot is arguing, to be precise, is that the *gemara*'s conclusion — that a wrong date always invalidates a *get* regardless of whether a *shalom malchus* concern is present — is not accepted. Tosafot holds that in scenarios where we can establish there is no *shalom malchus* issue, the dating problem simply does not arise. This means that even if you were to rule like Rabbi Meir, and even if we were talking about *briat olam* specifically, so long as *shalom malchus* is off the table, the date is not grounds for *pesul*. It is worth pausing on how striking this is: Tosafot is willing to part ways with what appears to be the *gemara*'s own stated conclusion on the strength of this reasoning.
+
+The *gemara* then moves to a new clause of the *mishna*: *haya bamizrach v'chasav bama'arav* — he was in the east and wrote for the west, a question whose full implications are taken up in the section that follows.
+
 ---
 
 ## Wrong Location (II)
 
+
+
 ### Written vs. Given
 
-> **Hebrew/Aramaic:** אֶלָּא לָאו סוֹפֵר – כְּדַאֲמַר לְהוּ רַב לְסָפְרֵיהּ, וְכֵן אֲמַר לְהוּ רַב הוּנָא לְסָפְרֵיהּ: כִּי יָתְבִיתוּ בְּשִׁילֵי, כְּתוּבוּ בְּשִׁילֵי; וְאַף עַל גַּב דְּמִימַּסְרָן לְכוּ מִילֵּי בְּהִינֵי. וְכִי יָתְבִיתוּ בְּהִינֵי, כְּתוּבוּ בְּהִינֵי; וְאַף עַל גַּב דְּמִימַּסְרָן לְכוּ מִילֵּי בְּשִׁילֵי.
->
-> **Translation:** **Rather, is it not** referring to **a scribe** who changed the place in which the bill of divorce was written, and did not record the correct location where he was when he wrote the bill of divorce? **As Rav said to his scribes, and similarly, Rav Huna said to his scribes: When you are situated in** the place called **Shili, write** the location of the document as: **In Shili, even though the matters were presented to you,** i.e., the transaction recorded in the document took place, **in** the place called **Hini. And when you are situated in** the place called **Hini, write: In Hini, even though the matters were presented to you in Shili.** One must be careful to write the precise location where the document was written and not somewhere else, as that is considered an illegitimate deviation.
 
 The *gemara* returns to the issue of the wrong location in the *get*. The question arises: when the *get* specifies a location, what moment does that location refer to — when the *get* was written, or when it was given? The *gemara* considers the possibility that the *baal* (the husband) is the one referred to in *haya bamizrach v'chasav bama'arav*, meaning he comes from the east but wrote that he is from the west. But the *gemara* dismisses this reading: that would just be a case of the wrong city of residence for the husband, which is already addressed in the later clause of the *mishna* (*shina shemo u'shem iro*). The correct reading is that it refers to the *sofer* — specifically, where the *sofer* was physically located at the moment of writing. The location written in the *get* should reflect where the scribe was when he wrote it. What matters is where the document was created, not where the husband gave the instruction.
 
@@ -316,17 +339,25 @@ A natural question arises: who really cares where the *sofer* was? Tosafot engag
 
 ### Rav's Rule
 
+> **Hebrew/Aramaic:** הָיָה בַּמִּזְרָח וְכָתַב בַּמַּעֲרָב: מַאן? אִילֵּימָא בַּעַל, הַיְינוּ ״שִׁינָּה שְׁמוֹ וּשְׁמָהּ, שֵׁם עִירוֹ וְשֵׁם עִירָהּ״!
+> **Translation:** § It was stated in the mishna, that if **he was in the east and he wrote** the location in the bill of divorce as **in the west,** then the bill of divorce is invalid. The Gemara asks: **Who** is the mishna discussing? **If we say** that the place of the **husband** was changed, then **this is** the same as what is stated later on in the mishna: **He changed his name, or her name; the name of his city or the name of her city.**
+
+> **Hebrew/Aramaic:** אֶלָּא לָאו סוֹפֵר – כְּדַאֲמַר לְהוּ רַב לְסָפְרֵיהּ, וְכֵן אֲמַר לְהוּ רַב הוּנָא לְסָפְרֵיהּ: כִּי יָתְבִיתוּ בְּשִׁילֵי, כְּתוּבוּ בְּשִׁילֵי; וְאַף עַל גַּב דְּמִימַּסְרָן לְכוּ מִילֵּי בְּהִינֵי. וְכִי יָתְבִיתוּ בְּהִינֵי, כְּתוּבוּ בְּהִינֵי; וְאַף עַל גַּב דְּמִימַּסְרָן לְכוּ מִילֵּי בְּשִׁילֵי.
+> **Translation:** **Rather, is it not** referring to **a scribe** who changed the place in which the bill of divorce was written, and did not record the correct location where he was when he wrote the bill of divorce? **As Rav said to his scribes, and similarly, Rav Huna said to his scribes: When you are situated in** the place called **Shili, write** the location of the document as: **In Shili, even though the matters were presented to you,** i.e., the transaction recorded in the document took place, **in** the place called **Hini. And when you are situated in** the place called **Hini, write: In Hini, even though the matters were presented to you in Shili.** One must be careful to write the precise location where the document was written and not somewhere else, as that is considered an illegitimate deviation.
+
 *V'hilchta safra k'de'amar leh Rav l'safrei, v'chein amar leh Rav Huna l'safrei* — the practical ruling follows what Rav said to his scribe, and what Rav Huna similarly said to his scribe: *ki yasvitu b'Shili ktuvu b'Shili* — when you are sitting in Shili and writing, write that you are in Shili. *V'af al gav d'mimsaran l'chu mili b'Hini* — even if the husband communicated his instructions to you when you were all in Hini, if you are now writing the document in Shili, write Shili. The location to be recorded is where the *sofer* physically sits at the moment of writing — not where he received the instruction, and not where the husband was standing. The converse applies equally: *v'chi yasvitu b'Hini ktuvu b'Hini, v'af al gav d'mimsaran l'chu mili b'Shili* — if you are in Hini when you write it, write Hini, even if the instruction was given in Shili.
 
 ---
 
-## Rabbi Meir vs. Sages (II)
+## Rabbi Meir vs. Sages
+
+
 
 ### Rabbi Meir Strict
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: זוֹ דִּבְרֵי רַבִּי מֵאִיר, אֲבָל חֲכָמִים אוֹמְרִים: אֲפִילּוּ לֹא כָּתַב אֶלָּא לְשֵׁם סַנְטָר שֶׁבָּעִיר – הֲרֵי זוֹ מְגוֹרֶשֶׁת.
->
-> **Translation:** **Rav Yehuda says** that **Shmuel says:** **This** is **the statement of Rabbi Meir,** who is particular about maintaining peaceful relations with the kingdom, with regard to bills of divorce. **But the Rabbis say: Even if he wrote** a date on the bill of divorce **only in the name of** the **guardsman [*santar*] in the city, she is divorced,** since it is irrelevant which calendrical system was used for the date.
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל:
+> **Translation:** **Rav Yehuda says** that **Shmuel says:**
+
 
 *Amar Rav Yehuda amar Shmuel: zu divrei Rabbi Meir* — the entire set of severe consequences we have been discussing is the position of Rabbi Meir. As the *gemara* restates it: *kol hamishaneh mimatbei'ah shetavu chachamim begittin havlad mamzer* — anyone who changes the established form of *gittin*, the child is a *mamzer*. This returns the *gemara* to the question of which cases are governed by Rabbi Meir's principle and which are agreed upon by all.
 
@@ -334,22 +365,30 @@ A natural question arises: who really cares where the *sofer* was? Tosafot engag
 
 ## Governor Cases
 
+
+
+[DAF:80b]
 ### Local Official
 
-The *gemara* now considers a case involving a local official rather than the king: what if the *get* was dated in the name of a *santar* — a local city official — rather than in the name of the reigning monarch?
+
+> **Hebrew/Aramaic:** זוֹ דִּבְרֵי רַבִּי מֵאִיר, אֲבָל חֲכָמִים אוֹמְרִים: אֲפִילּוּ לֹא כָּתַב אֶלָּא לְשֵׁם סַנְטָר שֶׁבָּעִיר – הֲרֵי זוֹ מְגוֹרֶשֶׁת.
+> **Translation:** **This** is **the statement of Rabbi Meir,** who is particular about maintaining peaceful relations with the kingdom, with regard to bills of divorce. **But the Rabbis say: Even if he wrote** a date on the bill of divorce **only in the name of** the **guardsman [*santar*] in the city, she is divorced,** since it is irrelevant which calendrical system was used for the date.
+
+The *gemara* now considers a case involving a local official rather than the king: what if the *get* was dated in the name of a *santar* — a local city official — rather than in the name of the reigning monarch? The Sages rule: *afilu lo katav ela shem santar shebe'ir harei zu megureshes* — even if the *get* was written only in the name of a local city official, the divorce is valid. To use a contemporary analogy, dating a *get* "in the third year of the reign of the mayor of the city" would, according to the Sages, be acceptable.
 
 ### Royal Appointee
 
-> **Hebrew/Aramaic:** הָהוּא גִּיטָּא דַּהֲוָה כְּתִיב בֵּיהּ לְשֵׁם אִיסְטַנְדְּרָא דְּבַשְׁכָּר, שַׁלְחֵהּ רַב נַחְמָן בַּר רַב חִסְדָּא לְקַמֵּיהּ דְּרַבָּה: כִּי הַאי גַוְונָא, מַאי? שְׁלַח לֵיהּ: בְּהָא אֲפִילּוּ רַבִּי מֵאִיר מוֹדֵי, מַאי טַעְמָא? מֵאוֹתָהּ מַלְכוּת הוּא.
->
-> **Translation:** It is related that there was **a certain bill of divorce in which** the date **was written in the name of the governor [*istandera*]** of the city **of Bascar,** i.e., the date was marked according to the years of his government. **Rav Naḥman bar Rav Ḥisda sent this** dilemma **before Rabba: What** is the *halakha* in **a case like this?** He **sent him** in response: **With regard to this, even Rabbi Meir concedes** that the bill of divorce is valid. **What is the reason?** The governor **is** an official **from that kingdom,** so the ruler of the kingdom does not mind.
+> **Hebrew/Aramaic:** הָהוּא גִּיטָּא דַּהֲוָה כְּתִיב בֵּיהּ לְשֵׁם אִיסְטַנְדְּרָא דְּבַשְׁכָּר, שַׁלְחֵהּ רַב נַחְמָן בַּר רַב חִסְדָּא לְקַמֵּיהּ דְּרַבָּה: כִּי הַאי גַוְונָא, מַאי?
+> **Translation:** It is related that there was **a certain bill of divorce in which** the date **was written in the name of the governor [*istandera*]** of the city **of Bascar,** i.e., the date was marked according to the years of his government. **Rav Naḥman bar Rav Ḥisda sent this** dilemma **before Rabba: What** is the *halakha* in **a case like this?**
 
-There was a particular *get* that came before Rava, having been dated in the name of a governor of Bashkar who was an appointee of the king — not the king himself.
+> **Hebrew/Aramaic:** שְׁלַח לֵיהּ: בְּהָא אֲפִילּוּ רַבִּי מֵאִיר מוֹדֵי, מַאי טַעְמָא? מֵאוֹתָהּ מַלְכוּת הוּא.
+> **Translation:** **He sent him** in response: **With regard to this, even Rabbi Meir concedes** that the bill of divorce is valid. **What is the reason?** The governor **is** an official **from that kingdom,** so the ruler of the kingdom does not mind.
+
+There was a particular *get* that came before Rava, having been dated in the name of a governor of Bashkar who was an appointee of the king — not the king himself. *Shalchu Rav Nachman v'Rav Chisda l'kamei d'Rava: ki hai gavna mai?* — is such a dating valid or not? *Shalach lehu: be'ha afilu Rabbi Meir modeh* — even Rabbi Meir agrees that this is valid. *Me'ota malchus hu* — he is an official of the same government. You have not given honor to a foreign power; you have simply named the official agent of the legitimate authority.
 
 ### Official Rank
 
-> **Hebrew/Aramaic:** וּמַאי שְׁנָא מִסַּנְטָר שֶׁבָּעִיר? הָתָם זִילָא לְהוּ מִילְּתָא, הָכָא שְׁבִיחָא לְהוּ מִילְּתָא.
->
+> **Hebrew/Aramaic:** וּמַאי שְׁנָא מִסַּנְטָר שֶׁבָּעִיר? הָתָם זִילָא לְהוּ מִילְּתָא, הָכָא שְׁבִיחָא לְהוּ מִילְּתָא.
 > **Translation:** The Gemara asks: **And** in **what** way **is** this case **different from the guardsman in the city?** The Gemara answers: **There, it is demeaning for them** that the date is written in the name of an unimportant official. **Here,** with regard to the governor, **it is complimentary for them** that the date is written in the name of a senior official.
 
 The distinction between the governor of Bashkar and the *santar* of the city is then established. *U'mai shna mi'santar shebe'ir?* — how is the appointed governor different from the petty city official, given that the Sages accept both and Rabbi Meir accepts the governor? *Hatam zila leh milta* — in the case of the *santar*, the matter is considered disrespectful to the *malchus*: the *santar*, as Rashi describes him, is a minor, perhaps insignificant local functionary, possibly not even a government official in any meaningful sense. Dating a *get* after him is almost a mockery of the idea of government dating. *Hacha shevicha leh milta* — in the case of the appointed governor, the matter redounds to the honor of the *malchus*, since he is a significant official formally appointed by the king. The distinction, then, is not merely between a local and a national official, but between an important, formally appointed official and a petty functionary of no real standing.
@@ -358,22 +397,26 @@ The distinction between the governor of Bashkar and the *santar* of the city is 
 
 ## Rabbi Meir vs. Sages (II)
 
-### Sages Lenient
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי אַבָּא אָמַר רַב הוּנָא אָמַר רַב: זוֹ דִּבְרֵי רַבִּי מֵאִיר, אֲבָל חֲכָמִים אוֹמְרִים: הַוָּלָד כָּשֵׁר. וּמוֹדִים חֲכָמִים לְרַבִּי מֵאִיר, שֶׁאִם שִׁינָּה שְׁמוֹ וּשְׁמָהּ, שֵׁם עִירוֹ וְשֵׁם עִירָהּ – שֶׁהַוָּלָד מַמְזֵר.
->
-> **Translation:** **Rabbi Abba says** that **Rav Huna says** that **Rav says: This** mishna is in accordance with **the statement of Rabbi Meir,** who is stringent with regard to this bill of divorce and holds that the child is a *mamzer*. **But the Rabbis say:** The lineage of **the offspring is unflawed. And the Rabbis concede to Rabbi Meir, that if he changed his name or her name, the name of his city or the name of her city, the offspring is a *mamzer*.**
+
+### Sages Lenient
 
 *Amar Rav Abba amar Rav Huna amar Rav: zu divrei Rabbi Meir. Aval Chachamim omrim ha'vlad kasher* — the position that wrong dating results in *mamzer* status for the child belongs to Rabbi Meir alone. The Sages hold that even if the dating was done incorrectly — even if the wrong *malchus* was named — the child is *kasher*, not a *mamzer*.
 
+> **Hebrew/Aramaic:** אָמַר רַבִּי אַבָּא אָמַר רַב הוּנָא אָמַר רַב: זוֹ דִּבְרֵי רַבִּי מֵאִיר, אֲבָל חֲכָמִים אוֹמְרִים: הַוָּלָד כָּשֵׁר. וּמוֹדִים חֲכָמִים לְרַבִּי מֵאִיר, שֶׁאִם שִׁינָּה שְׁמוֹ וּשְׁמָהּ, שֵׁם עִירוֹ וְשֵׁם עִירָהּ – שֶׁהַוָּלָד מַמְזֵר.
+> **Translation:** **Rabbi Abba says** that **Rav Huna says** that **Rav says: This** mishna is in accordance with **the statement of Rabbi Meir,** who is stringent with regard to this bill of divorce and holds that the child is a *mamzer*. **But the Rabbis say:** The lineage of **the offspring is unflawed. And the Rabbis concede to Rabbi Meir, that if he changed his name or her name, the name of his city or the name of her city, the offspring is a *mamzer*.**
+
 ### Areas Agree
+
 
 However, *u'modim Chachamim l'Rabbi Meir she'im shina shmo u'shmah shem iro v'shem irah she'havlad mamzer* — the Sages concede to Rabbi Meir that if the names of the husband or wife, or their cities, were changed, the child is a *mamzer*. Changing the name of a party to the *get* or the name of their city is far more central to the document than the dating system used — these names identify the very people between whom the divorce is effected. Even if such a change does not necessarily render the *get* invalid *mide'oraita* (since it may be a small variation rather than a wholesale substitution), it is sufficiently central to the document that the Sages join Rabbi Meir in applying the *mamzer* consequence.
 
 ### Mishna Structure
 
-> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי: אַף אֲנַן נָמֵי תְּנֵינָא: שִׁינָּה שְׁמוֹ וּשְׁמָהּ, שֵׁם עִירוֹ וְשֵׁם עִירָהּ – תֵּצֵא מִזֶּה וּמִזֶּה, וְכׇל הַדְּרָכִים הָאֵלּוּ בָּהּ. הָא מַאן קָתָנֵי לַהּ? אִילֵּימָא רַבִּי מֵאִיר – לִיעָרְבִינְהוּ וְלִיתְנִינְהוּ! אֶלָּא שְׁמַע מִינַּהּ רַבָּנַן; שְׁמַע מִינַּהּ.
->
-> **Translation:** **Rav Ashi says: We, too, learn** in the mishna: If **he changed his name or her name, the name of his city or the name of her city,** and she remarried on the basis of this bill of divorce, then **she** must **leave this** husband **and that** husband, **and all of those ways** of penalizing a woman who remarried based on the bills of divorce detailed in the earlier clause of the mishna apply **to her.** It is necessary to clarify **who teaches this** *halakha*? **If we say** that it is **Rabbi Meir, let him combine** the case of one who writes a different kingdom, and the case of one who changes the names, **and teach them** both as one *halakha*. **Rather, conclude from it** that this *halakha* is the opinion of **the Rabbis.** The Gemara concludes: **Conclude from it** that until this point the mishna was quoting the statement of Rabbi Meir, but subsequently it is the statement of the Rabbis that is quoted, that in a case of such a fundamental change, even in their opinion such a bill of divorce is invalid.
+> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי, אַף אֲנַן נָמֵי תְּנֵינָא: שִׁינָּה שְׁמוֹ וּשְׁמָהּ, שֵׁם עִירוֹ וְשֵׁם עִירָהּ – תֵּצֵא מִזֶּה וּמִזֶּה, וְכׇל הַדְּרָכִים הָאֵלּוּ בָּהּ.
+> **Translation:** **Rav Ashi says: We, too, learn** in the mishna: If **he changed his name or her name, the name of his city or the name of her city,** and she remarried on the basis of this bill of divorce, then **she** must **leave this** husband **and that** husband, **and all of those ways** of penalizing a woman who remarried based on the bills of divorce detailed in the earlier clause of the mishna apply **to her.**
+
+> **Hebrew/Aramaic:** הָא מַאן קָתָנֵי לַהּ? אִילֵּימָא רַבִּי מֵאִיר – לִיעָרְבִינְהוּ וְלִיתְנִינְהוּ! אֶלָּא שְׁמַע מִינַּהּ רַבָּנַן; שְׁמַע מִינַּהּ.
+> **Translation:** It is necessary to clarify **who teaches this** *halakha*? **If we say** that it is **Rabbi Meir, let him combine** the case of one who writes a different kingdom, and the case of one who changes the names, **and teach them** both as one *halakha*. **Rather, conclude from it** that this *halakha* is the opinion of **the Rabbis.** The Gemara concludes: **Conclude from it** that until this point the mishna was quoting the statement of Rabbi Meir, but subsequently it is the statement of the Rabbis that is quoted, that in a case of such a fundamental change, even in their opinion such a bill of divorce is invalid.
 
 *Amar Rav Ashi: af anan nami tanina* — Rav Ashi notes that this agreement between the Sages and Rabbi Meir on the name-and-city issue is evident from the structure of the *mishna* itself. The *mishna* states the case of wrong dating and its consequences, and then separately states: *shina shemo u'shmah shem iro v'shem irah tetzei mizeh umizeh v'chol hadrachim ha'elu bah* — if he changed the names or locations, she must leave both and all these consequences apply. *Man tana lah?* — who is the author of this second clause? If we say it is Rabbi Meir, then it should simply have been listed together with the first clause and all the other cases of wrong dating. The fact that the *mishna* states the name-and-city clause separately — as a distinct addition — indicates *shma mina rabbanan*: this reflects the position of the Sages as well, not only Rabbi Meir. The Sages, even in their leniency regarding dating errors, agree that changing the names of the parties or their cities carries the full severity of consequences. This explains the extraordinary care taken in the drafting of a *get* with respect to names and locations — because on this point, the consequences are severe according to all opinions.

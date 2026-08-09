@@ -1,0 +1,402 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna: YK & Obligations",
+    "candidates": [
+      "Mishna: YK & Obligations",
+      "Rav Dimi's Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna's ruling about chayvei chataot ve'ashamot vadai and chayvei asham talui, followed by the Gemara's opening question 'from where is this derived?' \u2014 exactly what the prose of heading 0 describes.",
+      "chosen_heading": "Mishna: YK & Obligations",
+      "current_heading": "Mishna: YK & Obligations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rav Dimi's Drasha",
+    "candidates": [
+      "Rav Dimi's Drasha",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the drasha of Rav Dimi/Rabbi Ami/Rabbi \u1e24anina deriving from Leviticus 16:16 that Yom Kippur atones only for sins not subject to a korban offering, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Rav Dimi's Drasha",
+      "current_heading": "Rav Dimi's Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Abaye's Challenge",
+      "Se'ir Types",
+      "Abaye's Se'ir Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Abaye's challenge to Rav Dimi's drasha on the grounds that the verse concerns the se'ir hanasa bifnim (not the se'ir hamishtaleach), which matches exactly what heading 0 'Abaye's Challenge' describes in its prose.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Abaye's Se'ir Source",
+    "candidates": [
+      "Se'ir Types",
+      "Abaye's Se'ir Source",
+      "Ravin's Version",
+      "Ravina's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's derivation from the scapegoat verse (Leviticus 16:21) using the 'chataim dumya d'pish'aim' drasha, which matches exactly the content described in the 'Abaye's Se'ir Source' prose.",
+      "chosen_heading": "Abaye's Se'ir Source",
+      "current_heading": "Abaye's Se'ir Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Ravina's Challenge",
+    "candidates": [
+      "Ravin's Version",
+      "Ravina's Challenge",
+      "Abaye's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Dimi's challenge asking how we know the pish'aim in the verse are not subject to a korban, citing the mishna of arba'ah mevi'in al hazadon kish'gagah \u2014 precisely what heading 1 ('Ravina's Challenge') describes in its prose.",
+      "chosen_heading": "Ravina's Challenge",
+      "current_heading": "Ravina's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Abaye's Resolution",
+    "candidates": [
+      "Abaye's Resolution",
+      "Asham Talui Exempted",
+      "God-Known Sins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain about the scapegoat's atonement scope \u2014 Ravin brings Reish Lakish's drasha, Abaye notes he said the same and Rav Dimi challenged it, Ravin's majority-response is rejected, and Abaye then resolves it from the reisha of the pasuk \u2014 exactly the content described in the 'Abaye's Resolution' prose.",
+      "chosen_heading": "Abaye's Resolution",
+      "current_heading": "Abaye's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "God-Known Sins",
+    "candidates": [
+      "Asham Talui Exempted",
+      "God-Known Sins",
+      "Unknown Sins Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the question of why Yom Kippur exempts the asham talui obligation and provides Rabbi Elazar's derivation, which matches the 'Asham Talui Exempted' section's prose about turning to the second part of the mishna and asking why Yom Kippur wipes away the asham talui obligation \u2014 the 'God-Known Sins' section's prose already describes this same derivation as established fact, suggesting the actual source passage belongs one heading earlier.",
+      "chosen_heading": "Asham Talui Exempted",
+      "current_heading": "God-Known Sins",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Unknown Sins Rule",
+    "candidates": [
+      "God-Known Sins",
+      "Unknown Sins Rule",
+      "Shvuos Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav Ta\u1e25lifa's statement in the name of Rava that the 'God-known vs. person-known' distinction can serve as the single source for both halves of the ruling \u2014 exactly what the 'Unknown Sins Rule' prose describes, including the derivation from 'cheit she'ein makir bo ela HaMakom' doing double duty.",
+      "chosen_heading": "Unknown Sins Rule",
+      "current_heading": "Unknown Sins Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Shvuos Precedent",
+    "candidates": [
+      "Shvuos Precedent",
+      "Core Principle",
+      "Hasra'ah Distinction",
+      "Safek Yoledet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a single continuous chain \u2014 Rav Ta\u1e25lifa's ruling on malkos, the obvious-question challenge, the body-vs-money distinction answer, the Shevuot mishna objection, and the hasra'ah resolution \u2014 and the prose under heading 0 ('Shvuos Precedent') explicitly discusses all of this material including the mishna challenge and the hasra'ah resolution, while headings 1 and 2 discuss different aspects of the same sugya in the context of a different part of the essay's argument.",
+      "chosen_heading": "Shvuos Precedent",
+      "current_heading": "Shvuos Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Safek Yoledet",
+    "candidates": [
+      "Core Principle",
+      "Hasra'ah Distinction",
+      "Safek Yoledet",
+      "Sin vs. Impurity",
+      "RSBY Yoledet",
+      "Yoledet Purity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Safek Yoledet",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mnemonic introducing the series of safek korban cases, which belongs under 'Safek Yoledet' where the gemara turns to doubt-based offerings and the first case of safek yoledet.",
+      "second_heading": "Sin vs. Impurity",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Hoshaya's answer distinguishing sin from impurity (l'chol chatosam v'lo l'chol tumasam), which is precisely the content described in the 'Sin vs. Impurity' prose section.",
+      "current_heading": "Safek Yoledet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Yoledet Purity",
+    "candidates": [
+      "Sin vs. Impurity",
+      "RSBY Yoledet",
+      "Yoledet Purity",
+      "Safek Metzora",
+      "Safek Nazir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items address the RSBY challenge \u2014 item 1 is the question and answer about why Yom Kippur doesn't cover the yoledet's korban according to Rabbi Shimon ben Yochai (who calls her a sinner), and item 2 is Rav Ashi's supporting proof from the mishna about the doubtful bird sin offering \u2014 all of which is described precisely in candidate 1 ('RSBY Yoledet') and its prose, not in candidate 2 ('Yoledet Purity') where it currently sits.",
+      "chosen_heading": "RSBY Yoledet",
+      "current_heading": "Yoledet Purity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Safek Nazir",
+    "candidates": [
+      "Safek Metzora",
+      "Safek Nazir",
+      "Safek Sotah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Safek Metzora",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 concern the safek metzora case, with the objection about leprosy coming from seven sins and the answer that the metzora's offerings are for taharah/ishtruyei b'achilas kodshim, matching the 'Safek Metzora' prose exactly.",
+      "second_heading": "Safek Nazir",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 concern the safek nazir case and Rabbi Elazar ben HaKappar's view that a nazir is a sinner, with the answer that the nazir's korban is not for kaparah, matching the 'Safek Nazir' prose exactly.",
+      "current_heading": "Safek Nazir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Safek Sotah",
+    "candidates": [
+      "Safek Sotah",
+      "Eglah Arufah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the safek sotah case \u2014 Rabbi Oshaya's answer about 'sins not impurity,' Abaye's answer about the paramour knowing, and Rava's answer about clarification vs. atonement \u2014 all of which are explicitly discussed in the 'Safek Sotah' prose section.",
+      "chosen_heading": "Safek Sotah",
+      "current_heading": "Safek Sotah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Eglah Arufah",
+    "candidates": [
+      "Eglah Arufah",
+      "Unknown During YK",
+      "Triple Yedia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the eglah arufah case \u2014 Abaye's 'horeg makir,' Rava's verse about blood-guilt, and Rav Papa's verse about forgiving Israel \u2014 which are all addressed in the 'Eglah Arufah' prose section, matching the current placement exactly.",
+      "chosen_heading": "Eglah Arufah",
+      "current_heading": "Eglah Arufah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Triple Yedia",
+    "candidates": [
+      "Unknown During YK",
+      "Triple Yedia",
+      "One Case Insufficient",
+      "Yachid & Nasi"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Unknown During YK",
+      "first_confidence": "high",
+      "first_reason": "Items 1 (the question about not needing a chatat after Yom Kippur) and the first part of item 1 (Rabbi Zeira's rejection citing triple yedia) match heading 0 'Unknown During YK' which discusses exactly this question and Rabbi Zeira's answer, while heading 1 'Triple Yedia' also covers this \u2014 but item 1 alone (the question + Rabbi Zeira's initial response) fits under heading 0 since that prose explicitly asks 'eima ki mishtakhach leh batar Yom HaKippurim nami lo mayti chatat' and then presents Rabbi Zeira's rejection, matching items 1 exactly.",
+      "second_heading": "One Case Insufficient",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 discuss why all three mentions of yedia are necessary and why a single case would be insufficient, which matches heading 2 'One Case Insufficient' whose prose explicitly states 'A single mention would not suffice to establish yedia as a universal criterion applicable across all three cases.'",
+      "current_heading": "Triple Yedia",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Yachid & Nasi",
+    "candidates": [
+      "One Case Insufficient",
+      "Yachid & Nasi",
+      "Tzibur Uniqueness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss why the nasi's sin offering cannot serve as the source for deriving the yachid (shemiat kol) and tzibur (korban nekeivah) respectively, which matches exactly the content described in the 'Yachid & Nasi' prose section.",
+      "chosen_heading": "Yachid & Nasi",
+      "current_heading": "Yachid & Nasi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Tzibur Uniqueness",
+    "candidates": [
+      "Tzibur Uniqueness",
+      "Two-Case Logic",
+      "Nasi Extra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong to the two-case logic discussion: item 1 is the refutation of deriving from tzibur alone (which the 'Tzibur Uniqueness' prose already covered as background), and item 2 introduces the suggestion of deriving one instance of yedia from two others \u2014 exactly the tzad hashaveh analysis that 'Two-Case Logic' prose describes as the gemara's next move.",
+      "chosen_heading": "Two-Case Logic",
+      "current_heading": "Tzibur Uniqueness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Nasi Extra",
+    "candidates": [
+      "Two-Case Logic",
+      "Nasi Extra",
+      "Post-YK Discovery"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Two-Case Logic",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the refutations of the first two pairings (nasi+tzibur without yachid, and yachid+nasi without tzibur), which is precisely what the 'Two-Case Logic' prose describes as the failed combinations.",
+      "second_heading": "Nasi Extra",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 complete the third combination (yachid+tzibur deriving nasi), show it succeeds, and conclude with the im eino inyan redirect to post-Yom Kippur discovery \u2014 exactly what the 'Nasi Extra' prose describes.",
+      "current_heading": "Nasi Extra",
+      "moved": true
+    }
+  }
+]

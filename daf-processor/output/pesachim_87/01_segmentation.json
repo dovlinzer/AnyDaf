@@ -63,8 +63,8 @@
           "timestamp": "07:06"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Braita Contrasting First Yom Tov with Subsequent Years: Custom and Assumption",
@@ -92,8 +92,8 @@
           "timestamp": "11:17"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Digression on Shir HaShirim: Interpreting the Bride's Love and Relationships Through Biblical Verse",
@@ -136,7 +136,7 @@
           "timestamp": "20:29"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -272,7 +272,7 @@
           "timestamp": "53:56"
         }
       ],
-      "sefaria_index": 35,
+      "sefaria_index": 32,
       "matched": true
     },
     {
@@ -735,5 +735,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "26:40",
+  "amud_b_micro_title": "Gomer Name Meaning",
+  "shiur_start_daf": 87,
+  "shiur_start_amud": "a"
 }

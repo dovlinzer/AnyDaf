@@ -1,0 +1,160 @@
+[
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Day Four Position",
+    "candidates": [
+      "Three Topics",
+      "Day Three Impurity",
+      "Three-Day Separation",
+      "Women at Sinai",
+      "Sex & Tumah",
+      "Tosafot's Logic",
+      "Day Three Debate",
+      "Textual Variants",
+      "Three Positions",
+      "Rabbi Elazar Day 3",
+      "Day Four Position",
+      "Rabbi Akiva 60 Hours",
+      "Rav Pappa's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The baraita presents the three tannaitic positions (Rabbi Elazar ben Azarya, Rabbi Yishmael, Rabbi Akiva) on when poletet status ends, which is precisely what the 'Three Positions' section introduces as 'the formal presentation of the tannaitic debate' in the braita that follows.",
+      "chosen_heading": "Three Positions",
+      "current_heading": "Day Four Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Rav Pappa's Question",
+    "candidates": [
+      "Rabbi Akiva 60 Hours",
+      "Rav Pappa's Question",
+      "Moshe's Instructions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the question 'Ela Rabbi Akiva keman?' and the initial answer, matching Rav Pappa's Question section prose which describes this precise difficulty and question about whose position Rabbi Akiva follows.",
+      "chosen_heading": "Rav Pappa's Question",
+      "current_heading": "Rav Pappa's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Moshe's Instructions",
+    "candidates": [
+      "Moshe's Instructions",
+      "Wednesday Start",
+      "Five Onot Calculation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly provides the Talmudic proof that Moses ascended and descended early in the morning (behashkamah), which is exactly what the prose in heading 0 ('Moshe's Instructions') describes and explains.",
+      "chosen_heading": "Moshe's Instructions",
+      "current_heading": "Moshe's Instructions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Five Onot Calculation",
+    "candidates": [
+      "Wednesday Start",
+      "Five Onot Calculation",
+      "Friday Night Immersion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rav Huna's principle that Jews don't have daytime relations, Rava's dark-house exception, and the Torah scholar's cloak ruling is directly discussed and explained in the 'Five Onot Calculation' prose, which explicitly quotes and contextualizes these exact rulings.",
+      "chosen_heading": "Five Onot Calculation",
+      "current_heading": "Five Onot Calculation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Friday Night Immersion",
+    "candidates": [
+      "Friday Night Immersion",
+      "Torah to Tevulei Yom",
+      "Theory vs. Reality",
+      "Rabbi Yitzchak's Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Mareimar stating the halakha and Ravina's challenge asking whether the Torah 'was' given or 'was fit to be given' to tevulei yom, and Mareimar's answer that he meant theoretically ('re'uya') \u2014 which is precisely what the 'Theory vs. Reality' section's prose discusses.",
+      "chosen_heading": "Theory vs. Reality",
+      "current_heading": "Friday Night Immersion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rabbi Yitzchak's Reason",
+    "candidates": [
+      "Torah to Tevulei Yom",
+      "Theory vs. Reality",
+      "Rabbi Yitzchak's Reason",
+      "Six Full Onot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Yitzchak's two answers about why immersion and Torah reception couldn't happen at twilight or Shabbat morning, which is exactly what the prose in candidate 2 ('Rabbi Yitzchak's Reason') discusses.",
+      "chosen_heading": "Rabbi Yitzchak's Reason",
+      "current_heading": "Rabbi Yitzchak's Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Six Full Onot",
+    "candidates": [
+      "Six Full Onot",
+      "Rambam vs. Gemara",
+      "Niddah Counting",
+      "Woman vs. Garment",
+      "Moisture vs. Chemistry",
+      "Jewish/Non-Jewish",
+      "Body Temperature",
+      "Animal vs. Human",
+      "Prozozdor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yochanan's statement distinguishing Rabbi Yishmael/Akiva from the Rabbis who require six complete onot, then Rav Hisda's distinction about semen discharged from a woman vs. a man, and Rav Sheshet's objection with its resolution \u2014 all of which is the core content described in heading 0's prose about the six-onot ruling and its practical implications, with the Rav Hisda/Rav Sheshet material serving as the transition that headings 3 and 4 elaborate on separately.",
+      "chosen_heading": "Six Full Onot",
+      "current_heading": "Six Full Onot",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Shift to Late Fasts",
+    "candidates": [
+      "Shift to Late Fasts",
+      "Matri'in Debate",
+      "Rashi on Shofar",
+      "Shofar + Anenu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the mishna's distinction between the final seven fasts and the earlier ones (matri'in and locking stores) and then poses the opening question of what matri'in means, which is precisely what the 'Shift to Late Fasts' prose describes as the setup before the debate begins.",
+      "chosen_heading": "Shift to Late Fasts",
+      "current_heading": "Shift to Late Fasts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Shofar + Anenu",
+    "candidates": [
+      "Matri'in Debate",
+      "Rashi on Shofar",
+      "Shofar + Anenu",
+      "Matri'in Scope",
+      "Tzoa'kin vs Matri'in",
+      "Matri'in Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the Gemara's initial assumption that the two opinions are mutually exclusive, then the baraita's challenge citing eighteen hatra'ot with the mnemonic of Jericho \u2014 exactly what the 'Shofar + Anenu' section's prose describes.",
+      "chosen_heading": "Shofar + Anenu",
+      "current_heading": "Shofar + Anenu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Matri'in Shabbat",
+    "candidates": [
+      "Matri'in Scope",
+      "Tzoa'kin vs Matri'in",
+      "Matri'in Shabbat",
+      "Matri'in Resolution",
+      "Rabbi Yehuda Nesia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain: items 1-2 reframe the Rav/Rav Yehuda dispute about matri'in (shofarot vs. anenu), item 3 raises the baraita challenge about tzoa'kin vs. matri'in, and items 4-5 resolve it via the tanna'im dispute about sounding the alarm on Shabbat \u2014 exactly the content described in the 'Matri'in Shabbat' prose, which covers the baraita about Shabbat alarms, Rabbi Yossi's qualification, and the conclusion that matri'in can refer to anenu.",
+      "chosen_heading": "Matri'in Shabbat",
+      "current_heading": "Matri'in Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Rabbi Yehuda Nesia",
+    "candidates": [
+      "Matri'in Resolution",
+      "Rabbi Yehuda Nesia",
+      "Rain-Specific Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the incident of Rabbi Yehuda Nesia decreeing thirteen fasts without being answered and Rabbi Ami's objection to decreeing more, which is precisely what the 'Rabbi Yehuda Nesia' section's prose discusses.",
+      "chosen_heading": "Rabbi Yehuda Nesia",
+      "current_heading": "Rabbi Yehuda Nesia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rain-Specific Limit",
+    "candidates": [
+      "Rain-Specific Limit",
+      "Tannaitic Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yochanan's ruling that the thirteen-fast limit applies only to rain while other calamities continue indefinitely, which is precisely what the 'Rain-Specific Limit' prose discusses in detail.",
+      "chosen_heading": "Rain-Specific Limit",
+      "current_heading": "Rain-Specific Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Tannaitic Debate",
+    "candidates": [
+      "Tannaitic Debate",
+      "Nineveh Question",
+      "Shomeah Tefillah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita dispute between Rabbi and Rabban Shimon ben Gamliel about the reason for stopping at thirteen fasts, which is precisely what the 'Tannaitic Debate' prose discusses in detail.",
+      "chosen_heading": "Tannaitic Debate",
+      "current_heading": "Tannaitic Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Shomeah Tefillah",
+    "candidates": [
+      "Nineveh Question",
+      "Shomeah Tefillah",
+      "Standard Calendar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Nineveh question being sent to Rabbi and his response, which is exactly what candidate 0 'Nineveh Question' introduces, while candidate 1 'Shomeah Tefillah' is the essay author's analysis/interpretation of that passage rather than the place where the Talmudic text itself should be anchored.",
+      "chosen_heading": "Nineveh Question",
+      "current_heading": "Shomeah Tefillah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Standard Calendar",
+    "candidates": [
+      "Shomeah Tefillah",
+      "Standard Calendar",
+      "Amoraic Consensus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita challenge from Rabbi Yehuda and the Gemara's deflection ('Rabbi Tanna hu u'falig'), which is precisely what the 'Standard Calendar' prose section describes and analyzes.",
+      "chosen_heading": "Standard Calendar",
+      "current_heading": "Standard Calendar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Amoraic Consensus",
+    "candidates": [
+      "Amoraic Consensus",
+      "Store Closures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Amoraic debate between Rav Nachman and Rav Sheshet and the Gemara's halakhic conclusion, which is precisely what the 'Amoraic Consensus' section's prose discusses.",
+      "chosen_heading": "Amoraic Consensus",
+      "current_heading": "Amoraic Consensus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Store Closures",
+    "candidates": [
+      "Store Closures",
+      "Avelut Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the store opening rules on Monday and Thursday during fasts, including the baraita resolving the dilemma and the refinements about two entrances and a platform \u2014 all of which are explicitly covered in the 'Store Closures' prose.",
+      "chosen_heading": "Store Closures",
+      "current_heading": "Store Closures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Avelut Restrictions",
+    "candidates": [
+      "Avelut Restrictions",
+      "She'ilat Shalom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the restrictions on joyful building and planting after unanswered fasts, which is precisely what the 'Avelut Restrictions' prose section addresses.",
+      "chosen_heading": "Avelut Restrictions",
+      "current_heading": "Avelut Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "She'ilat Shalom",
+    "candidates": [
+      "She'ilat Shalom",
+      "Mourning Garb",
+      "Falling on Face"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses she'ilat shalom restrictions, the distinction between chaverim and amei ha'aretz in greetings, and the soft/solemn response \u2014 all directly addressed in the 'She'ilat Shalom' section's prose, which quotes and explains the same baraita.",
+      "chosen_heading": "She'ilat Shalom",
+      "current_heading": "She'ilat Shalom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Falling on Face",
+    "candidates": [
+      "Mourning Garb",
+      "Falling on Face",
+      "Sackcloth Warning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar's ruling about an important person falling on his face unless he will be answered like Joshua son of Nun, which is precisely what the 'Falling on Face' section's prose analyzes.",
+      "chosen_heading": "Falling on Face",
+      "current_heading": "Falling on Face",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Sackcloth Warning",
+    "candidates": [
+      "Sackcloth Warning",
+      "Varied Expressions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibition on important persons wearing sackcloth unless they expect to be answered like Jehoram ben Ahab, which is precisely what the 'Sackcloth Warning' prose section is about.",
+      "chosen_heading": "Sackcloth Warning",
+      "current_heading": "Sackcloth Warning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Varied Expressions",
+    "candidates": [
+      "Varied Expressions",
+      "Challenge & Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Elazar's statement distinguishing Moses/Aaron (falling) from Joshua/Caleb (rending), which is precisely what the 'Varied Expressions' prose discusses in detail.",
+      "chosen_heading": "Varied Expressions",
+      "current_heading": "Varied Expressions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Challenge & Resolution",
+    "candidates": [
+      "Challenge & Resolution",
+      "Rising & Bowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's challenge about the vav in 'vYehoshua' implying Joshua and Caleb did both actions, which matches exactly the prose under 'Challenge & Resolution' describing this specific objection.",
+      "chosen_heading": "Challenge & Resolution",
+      "current_heading": "Challenge & Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Rising & Bowing",
+    "candidates": [
+      "Rising & Bowing",
+      "Righteous & Upright"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Elazar's teaching about kings rising and ministers bowing, along with Rabbi Zeira's objection about the vav \u2014 exactly the content described in the 'Rising & Bowing' prose.",
+      "chosen_heading": "Rising & Bowing",
+      "current_heading": "Rising & Bowing",
+      "moved": false
+    }
+  }
+]

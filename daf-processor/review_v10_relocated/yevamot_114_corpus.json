@@ -1,0 +1,323 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rabbi Yitzchak View",
+    "candidates": [
+      "Rabbi Yitzchak View",
+      "Rabbinic Protection",
+      "Preservation Capacity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Yitzchak's biblical principle (shotah mitgareshet) and the rabbinic reason (minhag hefker), and heading 0's prose explicitly frames it as Rabbi Yitzchak's statement with the proof from competent women divorced against their will, while heading 1's prose treats the rabbinic protection as a follow-up question \u2014 but since the Gemara passage contains both elements as a single unit and is currently placed under heading 0, which accurately describes its primary content, it belongs there.",
+      "chosen_heading": "Rabbi Yitzchak View",
+      "current_heading": "Rabbi Yitzchak View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Preservation Capacity",
+    "candidates": [
+      "Rabbinic Protection",
+      "Preservation Capacity",
+      "Tosefta Requirements",
+      "Rav Idi Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara inquiry about 'what are the circumstances' (heichi dami), establishing that only a woman who can guard her get but not herself is the subject \u2014 precisely what the 'Preservation Capacity' prose discusses, including the Rabbi Yannai and Rabbi Yishmael derivations.",
+      "chosen_heading": "Preservation Capacity",
+      "current_heading": "Preservation Capacity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Rav Idi Inference",
+    "candidates": [
+      "Tosefta Requirements",
+      "Rav Idi Inference",
+      "Inconsistency Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the rabbinic nature of the prohibition against divorcing an imbecilic woman \u2014 Item 1 explains she can be divorced by Torah law but rabbis prohibited it to prevent treating her as ownerless, and Item 2 (Abaye's inference from 'olamit') confirms this is rabbinic, both of which match the 'Tosefta Requirements' prose describing the rabbinic character of the lo tifkah prohibition and the distinction between biblical and rabbinic law \u2014 not the 'Rav Idi Inference' prose which attributes this same Abaye argument to 'Rav Idi.'",
+      "chosen_heading": "Tosefta Requirements",
+      "current_heading": "Rav Idi Inference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Inconsistency Query",
+    "candidates": [
+      "Rav Idi Inference",
+      "Inconsistency Query",
+      "Actor Distinction",
+      "Gudgada Testimony",
+      "Deception Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items deal with the dilemma about Rabbi Yochanan ben Nuri's question \u2014 which direction his challenge runs regarding the asymmetry between the cheresh and chereshet \u2014 and the Gemara's attempts to resolve it, which is precisely what the 'Inconsistency Query' prose describes.",
+      "chosen_heading": "Inconsistency Query",
+      "current_heading": "Inconsistency Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Deception Ruling",
+    "candidates": [
+      "Actor Distinction",
+      "Gudgada Testimony",
+      "Deception Ruling",
+      "Intervention Question",
+      "Keys Retrieval Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute Rava's inference from Rabbi Yochanan ben Gudgada's testimony about the deception case (get called a promissory note), the Gemara's challenge that it's obvious, and the resolution about bittul and kisufa \u2014 exactly what the 'Deception Ruling' prose describes in detail.",
+      "chosen_heading": "Deception Ruling",
+      "current_heading": "Deception Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Keys Retrieval Case",
+    "candidates": [
+      "Intervention Question",
+      "Keys Retrieval Case",
+      "Fire Extinguishing",
+      "Father's Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items describe the Rav Yitzchak bar Bisna keys story, the baraisa about not directing a child to carry, and Abaye's rebuttal \u2014 exactly the content described in the 'Keys Retrieval Case' prose, which is also the current placement.",
+      "chosen_heading": "Keys Retrieval Case",
+      "current_heading": "Keys Retrieval Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Father's Intent",
+    "candidates": [
+      "Fire Extinguishing",
+      "Father's Intent",
+      "Grandfather Fruit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form one continuous unit: the baraita about extinguishing fire (item 1) and Rabbi Yochanan's explanation via 'father's intent' plus the gentile contrast (item 2) are discussed together in the 'Father's Intent' prose, which explicitly covers both the fire baraita and Rabbi Yochanan's da'as aviv reasoning and the gentile comparison.",
+      "chosen_heading": "Father's Intent",
+      "current_heading": "Father's Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Grandfather Fruit",
+    "candidates": [
+      "Grandfather Fruit",
+      "Impure Terumah",
+      "Nursing Exception",
+      "Nursing Melacha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Grandfather Fruit",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the demai/grandfather fruit case and Rabbi Yochanan's uncertainty, which matches exactly the 'Grandfather Fruit' prose discussion.",
+      "second_heading": "Impure Terumah",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces a new case about a kohen's son visiting a kohen am ha'aretz and ritually impure terumah, which matches exactly the 'Impure Terumah' section prose.",
+      "current_heading": "Grandfather Fruit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Nursing Melacha",
+    "candidates": [
+      "Impure Terumah",
+      "Nursing Exception",
+      "Nursing Melacha",
+      "Initial Setup",
+      "Deaf Dies First",
+      "Hearing Dies First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Nursing Melacha' prose: Abba Shaul's testimony about nursing from a kosher animal on Yom Tov, the sakana/tzaar distinction, the mefareik ke-lachar yad principle, and then the three derashot (shekatzim, dam, tumah) with the explanation of why all three cases are necessary \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Nursing Melacha",
+      "current_heading": "Nursing Melacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Hearing Dies First",
+    "candidates": [
+      "Initial Setup",
+      "Deaf Dies First",
+      "Hearing Dies First",
+      "Both Deaf Query",
+      "Gezeirah Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Heading 3's prose explicitly traces the full argument arc of all six items \u2014 establishing mishum issura didah (items 1-3), mishum issura deilei (items 4-5), and then Rava's crystallizing case where both parties are deaf (item 6) \u2014 whereas heading 2 only describes the 'hearing dies first' sub-case.",
+      "chosen_heading": "Both Deaf Query",
+      "current_heading": "Hearing Dies First",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Gezeirah Answer",
+    "candidates": [
+      "Both Deaf Query",
+      "Gezeirah Answer",
+      "Three Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Shemaya's answer about the gezeira mishum hataras yevama lashuk, which is precisely what Candidate 1 ('Gezeirah Answer') discusses in its prose \u2014 the current placement is correct.",
+      "chosen_heading": "Gezeirah Answer",
+      "current_heading": "Gezeirah Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Three Conditions",
+    "candidates": [
+      "Three Conditions",
+      "Lost Credibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Mishnah describing the three conditions (peace between spouses, peace in the world, and her testimony) under which a woman is believed about her husband's death, which directly matches the 'Three Conditions' section's prose.",
+      "chosen_heading": "Three Conditions",
+      "current_heading": "Three Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Lost Credibility",
+    "candidates": [
+      "Lost Credibility",
+      "Yehudah View",
+      "War Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal directly with the cases of marital strife and war disqualifying the wife's testimony, plus Rabbi Yehudah's view and the Gemara's clarification of why those cases were taught \u2014 all of which is precisely what the 'Lost Credibility' prose describes, and the passage sits before the dedicated 'Yehudah View' section which covers only Rabbi Yehudah's opinion separately.",
+      "chosen_heading": "Lost Credibility",
+      "current_heading": "Lost Credibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "War Assumption",
+    "candidates": [
+      "Yehudah View",
+      "War Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's explanation of why war testimony is unreliable due to impressionistic inference (didamei), arrows/spears, and samterei medicine, which is precisely what the 'War Assumption' prose section describes.",
+      "chosen_heading": "War Assumption",
+      "current_heading": "War Assumption",
+      "moved": false
+    }
+  }
+]

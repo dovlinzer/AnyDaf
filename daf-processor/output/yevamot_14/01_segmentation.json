@@ -24,8 +24,8 @@
           "timestamp": "04:04"
         }
       ],
-      "sefaria_index": 6,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Evidence from Different Geographic Locations: Rabbi Eliezer, Rabbi Yosi HaGelili, and Rabbi Akiva",
@@ -110,8 +110,8 @@
           "timestamp": "16:22"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "The Core Dispute: Did Beit Shammai Follow Their Own Practices or Adopt Beit Hillel's? (continued)",
@@ -129,7 +129,7 @@
           "timestamp": "17:20"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -143,8 +143,8 @@
           "timestamp": "19:03"
         }
       ],
-      "sefaria_index": 18,
-      "matched": true
+      "sefaria_index": 15,
+      "matched": false
     },
     {
       "title": "The Gemara's Resolution: Beit Shammai Kept Their Practices but Informed Each Other About Family Status (continued)",
@@ -167,7 +167,7 @@
           "timestamp": "23:10"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -181,7 +181,7 @@
           "timestamp": "19:08"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 18,
       "matched": false
     },
     {
@@ -205,7 +205,7 @@
           "timestamp": "30:31"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 18,
       "matched": false
     },
     {
@@ -248,7 +248,7 @@
           "timestamp": "35:54"
         }
       ],
-      "sefaria_index": 35,
+      "sefaria_index": 26,
       "matched": true
     },
     {
@@ -282,7 +282,7 @@
           "timestamp": "45:46"
         }
       ],
-      "sefaria_index": 29,
+      "sefaria_index": 30,
       "matched": true
     },
     {
@@ -311,8 +311,8 @@
           "timestamp": "50:27"
         }
       ],
-      "sefaria_index": 29,
-      "matched": false
+      "sefaria_index": 35,
+      "matched": true
     },
     {
       "title": "Rabban Gamliel's Objection: The Human and Retroactive Costs of Imposing New Standards",
@@ -610,5 +610,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "21:51",
+  "amud_b_micro_title": "Tumat Tahara",
+  "shiur_start_daf": 13,
+  "shiur_start_amud": "b"
 }

@@ -60,9 +60,7 @@ Rav Yehuda's baseline ruling rests on Rashi's explanation that the cress, while 
 
 ### Shared Orchard Saying
 
-Rav Yehuda says to Ravin bar Rav Nachman: *hanei diley dilakh u'dilakh diley* — what is mine is yours and what is yours is mine. This is not a generous offer but a description of a practical reality: when two neighboring fields are divided by a *metzar* (a raised boundary mound), and trees have been planted along that mound, it sometimes happens that a tree whose trunk appears on one side actually has its roots drawing nourishment from the other side, and vice versa. The result is that what looks like your tree is nourishing itself from my land, and what looks like my tree draws from yours.
-
----
+Rav Yehuda addresses his brother Ravin with the phrase *hanei diley dilakh u'dilakh diley* — what is mine is yours and what is yours is mine. This is not, it turns out, a generous sentiment. The context is *nehog benei metzar*, the conduct of neighbors along a boundary, specifically regarding a tree that leans across from one property into the other — *ilan ha-noteh le-khan ve-ha-noteh le-khan*.
 
 ## Tachal in Flax (II)
 

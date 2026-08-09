@@ -1,0 +1,276 @@
+[
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Reframe to Heirs",
+    "candidates": [
+      "Rabbi Yosei's Position",
+      "Debate on Damages",
+      "Compensation Obligation",
+      "Rav Yosef's Reframe",
+      "Oral Loan Collection",
+      "Torah-Inscribed Debt",
+      "Tosefta on Injury",
+      "Cannot Stand Trial",
+      "Reframe to Heirs",
+      "Einui HaDin Principle",
+      "Sin Before Death",
+      "Abaye's Challenge",
+      "Slaughtered Sacrifice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All 11 items cover the dispute between tanna kamma and Rabbi Shimon ben Elazar (from the Tosefta version), the reapplication of Rav Yosef's and Rava/Rabba's frameworks about oral loans and Torah-inscribed debts, and the braita about the pit-digger and its resolutions \u2014 all of which are explicitly discussed in the 'Reframe to Heirs' prose under heading 8.",
+      "chosen_heading": "Reframe to Heirs",
+      "current_heading": "Reframe to Heirs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Slaughtered Sacrifice",
+    "candidates": [
+      "Einui HaDin Principle",
+      "Sin Before Death",
+      "Abaye's Challenge",
+      "Slaughtered Sacrifice",
+      "No Delay for Birth",
+      "Exception in Labor",
+      "Fetus Independence",
+      "Pshita Gufa Hi"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Slaughtered Sacrifice",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 form a continuous Talmudic discussion about the condemned person's sacrifices and the einui hadin principle, matching the 'Slaughtered Sacrifice' section's prose about zivcho zavuach and na'aseh kemi shechata be'otah sha'ah.",
+      "second_heading": "No Delay for Birth",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is a new Mishnah (marked 'MISHNA:') introducing an entirely different case about a pregnant woman condemned to execution, matching the 'No Delay for Birth' section's prose exactly.",
+      "current_heading": "Slaughtered Sacrifice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Pshita Gufa Hi",
+    "candidates": [
+      "No Delay for Birth",
+      "Exception in Labor",
+      "Fetus Independence",
+      "Pshita Gufa Hi",
+      "Father's Interest",
+      "Both Shall Die"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's answer to 'pshita gufa hi' \u2014 explaining why the ruling was needed (itztarich) due to the father's potential property interest in the fetus (mamona de'ba'al hu), which matches exactly the prose of candidate 4 ('Father's Interest').",
+      "chosen_heading": "Father's Interest",
+      "current_heading": "Pshita Gufa Hi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Both Shall Die",
+    "candidates": [
+      "Father's Interest",
+      "Both Shall Die",
+      "Fetal Abortion Practice",
+      "Nivul Ha-Meis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's derivation from 'u'metu gam shneihem' that the fetus dies with the mother, including the technical objection about 'shneihem' and its resolution via 'gam' \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Both Shall Die",
+      "current_heading": "Both Shall Die",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Nivul Ha-Meis",
+    "candidates": [
+      "Fetal Abortion Practice",
+      "Nivul Ha-Meis",
+      "Order of Death"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Fetal Abortion Practice",
+      "current_heading": "Nivul Ha-Meis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Order of Death",
+    "candidates": [
+      "Order of Death",
+      "Cutting Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain about the order of death between mother and fetus \u2014 the mishna about inheritance, the principle that the fetus dies first in natural death, the Angel of Death explanation, and the lizard-tail dismissal \u2014 which perfectly matches the 'Order of Death' prose description.",
+      "chosen_heading": "Order of Death",
+      "current_heading": "Order of Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Cutting Permitted",
+    "candidates": [
+      "Cutting Permitted",
+      "No Melachah",
+      "Violate Shabbat",
+      "Building Collapse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Cutting Permitted",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the ruling itself (bringing a knife to cut open the abdomen) and the obvious question 'what is he doing?', which matches heading 0 'Cutting Permitted' whose prose describes exactly this ruling and question.",
+      "second_heading": "No Melachah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives Rabba's answer that the novelty is carrying the knife through a public thoroughfare (genuine Shabbat violation), which matches heading 1 'No Melachah' whose prose discusses the question of what melachah is involved and that cutting a dead body is not prohibited.",
+      "current_heading": "Cutting Permitted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Building Collapse",
+    "candidates": [
+      "No Melachah",
+      "Violate Shabbat",
+      "Building Collapse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the building collapse (mapolet) mishna and the chazakah d'chiyuta distinction, which is precisely what the 'Building Collapse' section's prose elaborates on.",
+      "chosen_heading": "Building Collapse",
+      "current_heading": "Building Collapse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Building Collapse",
+    "candidates": [
+      "Building Collapse",
+      "Hair Permitted",
+      "Woven Hair Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items discuss the Gemara's analysis of the executed woman's hair ruling \u2014 Rav's explanation involving a wig (pe'a nokhrit), the objection about hands, the inference from Rav's statement, and Rava's clarification about Rabbi Yosei's dilemma regarding a wig on a peg \u2014 which precisely matches the 'Woven Hair Only' section's prose about Rav's pe'ah nochrit explanation and the subsequent Gemara discussion.",
+      "chosen_heading": "Woven Hair Only",
+      "current_heading": "Building Collapse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Woven Hair Only",
+    "candidates": [
+      "Hair Permitted",
+      "Woven Hair Only",
+      "Apostate City Hair",
+      "Hanging by Peg",
+      "Hair Doesn't Die"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly contrasts the case where the wig is attached ('mechubar bah') with the loosely hanging wig, concluding that when attached, the reason it is permitted is only because she said 'give it,' otherwise it is considered her body \u2014 this directly resolves Rabbi Yossi b'Rabbi Chanina's doubt about the loosely attached wig discussed in the 'Hanging by Peg' section.",
+      "chosen_heading": "Hanging by Peg",
+      "current_heading": "Woven Hair Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139,
+      140,
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Hair Doesn't Die",
+    "candidates": [
+      "Apostate City Hair",
+      "Hanging by Peg",
+      "Hair Doesn't Die"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items discuss Rav Na\u1e25man bar Yitz\u1e25ak's resolution of the animal/woman hair comparison, the baraitot supporting both Rav and Rav Na\u1e25man bar Yitz\u1e25ak, and the concluding hadran \u2014 exactly what the 'Hair Doesn't Die' section's prose describes.",
+      "chosen_heading": "Hair Doesn't Die",
+      "current_heading": "Hair Doesn't Die",
+      "moved": false
+    }
+  }
+]

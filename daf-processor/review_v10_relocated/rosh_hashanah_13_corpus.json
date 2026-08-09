@@ -1,0 +1,362 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Development Stage: Year",
+    "candidates": [
+      "Development Stage: Year",
+      "Vegetable Picking",
+      "Obligation vs. Dating",
+      "Chaviv Framework",
+      "Year Determination",
+      "Produce-Type Moments",
+      "Source of Third",
+      "Sukkot Verse Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes exactly the Mishna (fenugreek sprouts, grain/olives at one-third) and the Gemara's clarification of 'titzmach lizraim,' which the prose of heading 0 ('Development Stage: Year') explicitly cites and discusses in detail, including the same Hebrew text and the same interpretive point about fenugreek sprouting for seed.",
+      "chosen_heading": "Development Stage: Year",
+      "current_heading": "Development Stage: Year",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Sukkot Verse Logic",
+    "candidates": [
+      "Vegetable Picking",
+      "Obligation vs. Dating",
+      "Chaviv Framework",
+      "Year Determination",
+      "Produce-Type Moments",
+      "Source of Third",
+      "Sukkot Verse Logic",
+      "Precision Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items are the direct answer to the question 'from where are these matters derived?' (\u05de\u05e0\u05d0 \u05d4\u05e0\u05d9 \u05de\u05d9\u05dc\u05d9) \u2014 the verse derivation from Deuteronomy 31:10 and its conclusion \u2014 which is precisely what heading 5 ('Source of Third') introduces with that exact Aramaic phrase, whereas heading 6 ('Sukkot Verse Logic') already contains a prose summary of this very content, suggesting the passage was placed one heading too late.",
+      "chosen_heading": "Source of Third",
+      "current_heading": "Sukkot Verse Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Precision Challenge",
+    "candidates": [
+      "Sukkot Verse Logic",
+      "Precision Challenge",
+      "Measurement Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute Rabbi Zeira's challenge and its resolution \u2014 the suggestion that the verse refers to non-grown produce and the gemara's rebuttal using the Exodus 23:16 verse \u2014 which is precisely what the 'Precision Challenge' prose describes in detail.",
+      "chosen_heading": "Precision Challenge",
+      "current_heading": "Precision Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Measurement Standards",
+    "candidates": [
+      "Measurement Standards",
+      "Omer Source Question",
+      "Non-Jewish Grain Problem",
+      "Omer Verification",
+      "Eating New Grain",
+      "Pesach Terminology",
+      "Ownership Criterion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Rabbi Yirmeyah/Rabbi Zeira exchange about whether Sages can distinguish one-third from less-than-one-third, followed by the parallel examples (mikveh, egg-bulk, cloth) illustrating that rabbinic measures are precise thresholds \u2014 exactly what the 'Measurement Standards' prose describes.",
+      "chosen_heading": "Measurement Standards",
+      "current_heading": "Measurement Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Ownership Criterion",
+    "candidates": [
+      "Omer Source Question",
+      "Non-Jewish Grain Problem",
+      "Omer Verification",
+      "Eating New Grain",
+      "Pesach Terminology",
+      "Ownership Criterion",
+      "Discernment Challenge",
+      "Grain Development Nissan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete unit of Rabbi Yirmiyah's retraction, the colleagues' question to Rav Kahana about the omer source, the verification that the omer was indeed brought, and Rav Kahana's answer about shalish \u2014 all of which is precisely what heading 0 ('Omer Source Question') describes as its content, including the entry into the land and the grain question.",
+      "chosen_heading": "Omer Source Question",
+      "current_heading": "Ownership Criterion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Grain Development Nissan",
+    "candidates": [
+      "Discernment Challenge",
+      "Grain Development Nissan",
+      "Asif Language Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items continue the same chain of argument about whether Bnei Yisrael's entry into the land proves the Sages can discern shalish \u2014 including the eretz tzvi resolution and the concluding inference that 'they can discern' \u2014 which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Grain Development Nissan",
+      "current_heading": "Grain Development Nissan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Asif Language Challenge",
+    "candidates": [
+      "Asif Language Challenge",
+      "Proof Destroyed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi \u1e24anina's direct challenge to the 'asif' interpretation, which is precisely what candidate 0's prose describes \u2014 the objection that 'asif' refers to gathering stored produce/threshing floor waste rather than harvesting, undermining the shalish derivation.",
+      "chosen_heading": "Asif Language Challenge",
+      "current_heading": "Asif Language Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Proof Destroyed",
+    "candidates": [
+      "Proof Destroyed",
+      "Three/Third Wordplay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's exact statement about having a proof destroyed by Rabbi \u1e24anina, which matches precisely the 'Proof Destroyed' section's prose discussion of this same quote and its significance.",
+      "chosen_heading": "Proof Destroyed",
+      "current_heading": "Proof Destroyed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Three/Third Wordplay",
+    "candidates": [
+      "Three/Third Wordplay",
+      "Redundancy Question",
+      "Completion Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yonatan ben Yosef's al-tikrei drasha on 'lishlosh'/'lishlish', which is precisely what the 'Three/Third Wordplay' section's prose describes.",
+      "chosen_heading": "Three/Third Wordplay",
+      "current_heading": "Three/Third Wordplay",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Completion Concept",
+    "candidates": [
+      "Redundancy Question",
+      "Completion Concept",
+      "Legume Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the objection (the verse is needed for its literal meaning) and the answer (another verse covers that), which maps directly to the 'Redundancy Question' section's prose about the gemara objecting that the verse is needed for p'shat \u2014 the answer is part of that same exchange and belongs under the heading that introduces the question it resolves.",
+      "chosen_heading": "Redundancy Question",
+      "current_heading": "Completion Concept",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Legume Categories",
+    "candidates": [
+      "Completion Concept",
+      "Legume Categories",
+      "Moment Summary",
+      "Vegetable Logic",
+      "Convenience Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Legume Categories",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna about rice/millet/poppy/sesame taking root before Rosh HaShana, which is exactly the text the 'Legume Categories' prose quotes and discusses.",
+      "second_heading": "Moment Summary",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabba's summary of the three tithe-year criteria (tree/grain/vegetable) and the question of where kitniyot fit, which is precisely what the 'Moment Summary' prose quotes and discusses.",
+      "current_heading": "Legume Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Convenience Logic",
+    "candidates": [
+      "Moment Summary",
+      "Vegetable Logic",
+      "Convenience Logic",
+      "Mixing Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rabba's explanation that kitniyot follow hashrashah because they ripen little by little, which is precisely the content discussed in the 'Convenience Logic' section's prose about prachin prachin and the rabbinic solution of hashrashah.",
+      "chosen_heading": "Convenience Logic",
+      "current_heading": "Convenience Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Mixing Solution",
+    "candidates": [
+      "Mixing Solution",
+      "Equal Distribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge proposing the mixing/piling solution, which is exactly what the 'Mixing Solution' prose describes and analyzes.",
+      "chosen_heading": "Mixing Solution",
+      "current_heading": "Mixing Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      166,
+      167
+    ],
+    "current_heading": "Equal Distribution",
+    "candidates": [
+      "Equal Distribution",
+      "Distribution Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita of Rabbi Yosei ben Keifar/Rabbi Shimon Shezuri about cowpeas and the pile-on-threshing-floor solution, which is exactly what candidate 0's prose quotes and discusses as the setup before Rava's response in candidate 1.",
+      "chosen_heading": "Equal Distribution",
+      "current_heading": "Equal Distribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      172
+    ],
+    "current_heading": "Distribution Dispute",
+    "candidates": [
+      "Distribution Dispute",
+      "Halachic Ruling",
+      "Shmuel Contradiction",
+      "Finish Time Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabba's response to Abaye identifying that the braita follows Rabbi Shimon Shezuri who holds yesh bilah, which is precisely what candidate 0's prose discusses as Rava's response to Abaye's challenge about yesh bilah versus ein bilah.",
+      "chosen_heading": "Distribution Dispute",
+      "current_heading": "Distribution Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      185,
+      186,
+      187,
+      188
+    ],
+    "current_heading": "Finish Time Standard",
+    "candidates": [
+      "Halachic Ruling",
+      "Shmuel Contradiction",
+      "Finish Time Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together form the chain of objection-and-resolution around Shmuel's 'gmar pri' principle \u2014 the contradiction between Shmuel's two statements and its resolution \u2014 which is precisely what the 'Finish Time Standard' prose describes.",
+      "chosen_heading": "Finish Time Standard",
+      "current_heading": "Finish Time Standard",
+      "moved": false
+    }
+  }
+]

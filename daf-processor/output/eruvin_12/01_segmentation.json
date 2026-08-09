@@ -24,8 +24,8 @@
           "timestamp": "01:59"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Rebbi Eliezer's Position on Two Lechayim and the Braita Reconciliation",
@@ -111,7 +111,7 @@
           "timestamp": "17:40"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -958,5 +958,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 24
+  "amud_b_sefaria_index": 24,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "34:27",
+  "amud_b_micro_title": "Carrying vs Water",
+  "shiur_start_daf": 11,
+  "shiur_start_amud": "b"
 }

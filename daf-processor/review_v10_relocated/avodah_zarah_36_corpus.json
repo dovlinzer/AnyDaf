@@ -1,0 +1,377 @@
+[
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Shmuel's Logic for Repeal",
+    "candidates": [
+      "Oil Prohibition Overview",
+      "Cheese Prohibition Sakana",
+      "Oil Repeal Question",
+      "Daniel Gazar Alav",
+      "Shmuel: Seepage Tamei",
+      "Tahara Not Universal",
+      "Shmuel: No Seepage",
+      "Shmuel's Logic for Repeal",
+      "Repealing Earlier Gezeira",
+      "Rav's Defense: Ein Beis",
+      "Ad Hominem vs. Lod"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All five items form one continuous dispute about the origin and repeal of the oil prohibition \u2014 Rav's Daniel attribution, Shmuel's prohibited-vessels rationale, the correction from tamei to assur vessels, Shmuel's argument that noten ta'am lifgam explains the repeal, and the challenge to Rav about voiding Daniel's decree \u2014 which is precisely what heading 7 ('Shmuel's Logic for Repeal') describes.",
+      "chosen_heading": "Shmuel's Logic for Repeal",
+      "current_heading": "Shmuel's Logic for Repeal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Ad Hominem vs. Lod",
+    "candidates": [
+      "Repealing Earlier Gezeira",
+      "Rav's Defense: Ein Beis",
+      "Ad Hominem vs. Lod",
+      "Rav's Tradition Defense",
+      "Daniel 1:8 Citation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly depicts Rav questioning Rabbi Simlai's reliability by citing the laxity of Lod residents (the ad hominem attack on the community), which is precisely what the 'Ad Hominem vs. Lod' section's prose describes.",
+      "chosen_heading": "Ad Hominem vs. Lod",
+      "current_heading": "Ad Hominem vs. Lod",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Daniel 1:8 Citation",
+    "candidates": [
+      "Rav's Tradition Defense",
+      "Daniel 1:8 Citation",
+      "Weak Drashah Admission",
+      "Rav & Shmuel: Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav's citation of Daniel 1:8 and the derivation that 'mishtav' refers to two types of drinking (wine and oil), which is exactly what the 'Daniel 1:8 Citation' prose describes.",
+      "chosen_heading": "Daniel 1:8 Citation",
+      "current_heading": "Daniel 1:8 Citation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rav & Shmuel: Law",
+    "candidates": [
+      "Weak Drashah Admission",
+      "Rav & Shmuel: Law",
+      "Shmuel: Personal Decision",
+      "Oil Among Eighteen?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav/Shmuel dispute about whether Daniel's avoidance of oil was a personal practice or a binding ruling for all Israel, which is precisely what section 1 ('Rav & Shmuel: Law') discusses.",
+      "chosen_heading": "Rav & Shmuel: Law",
+      "current_heading": "Rav & Shmuel: Law",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Oil Among Eighteen?",
+    "candidates": [
+      "Shmuel: Personal Decision",
+      "Oil Among Eighteen?",
+      "Daniel: Rejected\u2192Accepted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks whether Daniel decreed the oil prohibition and cites Rav's tradition attributing it to the eighteen matters, which is precisely what the 'Oil Among Eighteen?' section's prose describes.",
+      "chosen_heading": "Oil Among Eighteen?",
+      "current_heading": "Oil Among Eighteen?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Daniel: Rejected\u2192Accepted",
+    "candidates": [
+      "Daniel: Rejected\u2192Accepted",
+      "Urban vs. Rural Scope",
+      "Repeal vs. Beit Shammai",
+      "Decrees Repealed: Ex 18",
+      "Eliyahu Cannot Repeal",
+      "Rav Mesharshiya Oil",
+      "Oil Accepted Debate",
+      "Majority Uphold Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the 'Daniel decreed but people did not accept / students of Hillel and Shammai decreed and accepted' scenario AND the alternative resolution (urban vs. rural scope), and candidate 0's prose explicitly covers both the rejected-then-accepted possibility and the challenge about Rav's testimony, making it the correct home for this passage which introduces both ideas together before candidate 1 separates out the urban/rural resolution.",
+      "chosen_heading": "Daniel: Rejected\u2192Accepted",
+      "current_heading": "Daniel: Rejected\u2192Accepted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Majority Uphold Principle",
+    "candidates": [
+      "Urban vs. Rural Scope",
+      "Repeal vs. Beit Shammai",
+      "Decrees Repealed: Ex 18",
+      "Eliyahu Cannot Repeal",
+      "Rav Mesharshiya Oil",
+      "Oil Accepted Debate",
+      "Majority Uphold Principle",
+      "Malachi 3:9 Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Repeal vs. Beit Shammai",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents both the mishna principle about courts voiding other courts' rulings AND the Rabba bar bar Chana/Rabbi Yochanan statement about the eighteen matters, which together form the challenge to Rabbi Yehuda HaNasi's authority \u2014 this maps precisely to headings 'Repeal vs. Beit Shammai' and 'Decrees Repealed: Ex 18', but since both items are combined in one Gemara challenge, heading 1 ('Repeal vs. Beit Shammai') best captures it as that heading's prose explicitly references both the takkanah question and the ein beit din principle.",
+      "second_heading": "Rav Mesharshiya Oil",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Mesharshiyya's explanation about the prohibition spreading (or not) among the majority of Israel, including the Rabbi Shmuel bar Abba/Rabbi Yochanan finding and the Rabban Shimon ben Gamliel principle, which matches heading 4 ('Rav Mesharshiya Oil') whose prose explicitly summarizes this exact content.",
+      "current_heading": "Majority Uphold Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Malachi 3:9 Proof",
+    "candidates": [
+      "Majority Uphold Principle",
+      "Malachi 3:9 Proof",
+      "Entire Nation Requirement",
+      "Curse Acceptance Terms",
+      "Four Things Listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Malachi 3:9 and derives the condition 'if there is the whole nation, yes; if not, no,' which is precisely what the 'Malachi 3:9 Proof' section describes \u2014 Rav Adda bar Ahava providing a Scriptural peg using that exact verse.",
+      "chosen_heading": "Malachi 3:9 Proof",
+      "current_heading": "Malachi 3:9 Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Four Things Listed",
+    "candidates": [
+      "Entire Nation Requirement",
+      "Curse Acceptance Terms",
+      "Four Things Listed",
+      "Benoteihem Definition",
+      "Non-Jewish Women Niddot",
+      "Gneiva: Avodah Zarah",
+      "Bread-Oil-Wine Chain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 attributing the prohibition of bread, oil, wine, and daughters to the eighteen decrees \u2014 matches exactly the prose of candidate 2, which describes this same teaching attributed to Bali/Avimi/Rav listing those four categories among the eighteen decrees.",
+      "chosen_heading": "Four Things Listed",
+      "current_heading": "Four Things Listed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Bread-Oil-Wine Chain",
+    "candidates": [
+      "Benoteihem Definition",
+      "Non-Jewish Women Niddot",
+      "Gneiva: Avodah Zarah",
+      "Bread-Oil-Wine Chain",
+      "Wine \u2192 Daughters",
+      "Daughters: Davar Acher",
+      "Davar Acher: Unclear",
+      "Seven Nations Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gneiva: Avodah Zarah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Geneiva/Rav's view that all four prohibitions stem from avodah zarah, plus the Rav Acha bar Adda/Rabbi Yitzchak statement about bread decreed due to oil \u2014 this belongs under 'Gneiva: Avodah Zarah' which explicitly introduces this opinion.",
+      "second_heading": "Bread-Oil-Wine Chain",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the full chain (bread+oil\u2192wine\u2192daughters\u2192davar acher\u2192davar acher), which is precisely what 'Bread-Oil-Wine Chain' and its subsequent headings describe, and the current placement under that heading is correct for this item.",
+      "current_heading": "Bread-Oil-Wine Chain",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Seven Nations Exception",
+    "candidates": [
+      "Wine \u2192 Daughters",
+      "Daughters: Davar Acher",
+      "Davar Acher: Unclear",
+      "Seven Nations Exception",
+      "Shimon ben Yochai: Women",
+      "Chatnut vs. Znut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question about whether the prohibition against marrying non-Jewish daughters is biblical or rabbinic, explaining that the Torah prohibition applies only to the seven Canaanite nations while the rabbis extended it to other nations \u2014 precisely what the 'Seven Nations Exception' section's prose describes.",
+      "chosen_heading": "Seven Nations Exception",
+      "current_heading": "Seven Nations Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Chatnut vs. Znut",
+    "candidates": [
+      "Shimon ben Yochai: Women",
+      "Chatnut vs. Znut",
+      "Asymmetric Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the resolution of Rabbi Shimon ben Yochai's position by distinguishing de-oraita ishut derech chatnut from the rabbinic extension to znut, which is precisely what the 'Chatnut vs. Znut' section's prose discusses.",
+      "chosen_heading": "Chatnut vs. Znut",
+      "current_heading": "Chatnut vs. Znut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Asymmetric Prohibition",
+    "candidates": [
+      "Asymmetric Prohibition",
+      "Chashmonaim: Biah Decree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of objections and resolutions about the historical layering of prohibitions on licentious intercourse \u2014 Beit Din of Shem, the asymmetric Torah-level prohibition, the Halacha le-Moshe mi-Sinai of zealots, and the public/private distinction \u2014 which precisely matches the 'Asymmetric Prohibition' prose's discussion of these same distinctions in the same order.",
+      "chosen_heading": "Asymmetric Prohibition",
+      "current_heading": "Asymmetric Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Chashmonaim: Biah Decree",
+    "candidates": [
+      "Chashmonaim: Biah Decree",
+      "Biah vs. Yichud",
+      "David: Yichud with Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the Hasmonean court's decree on biah with a gentile woman and the two variant mnemonic formulations (nashga with eshet ish vs. nashgaz with zona), which is precisely what the prose of heading 0 describes.",
+      "chosen_heading": "Chashmonaim: Biah Decree",
+      "current_heading": "Chashmonaim: Biah Decree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "David: Yichud with Women",
+    "candidates": [
+      "Biah vs. Yichud",
+      "David: Yichud with Women",
+      "Shammai/Hillel: Yichud",
+      "Yichud De'oraisa Source",
+      "Deuteronomy Remez"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form a continuous question-and-answer chain discussing exactly what the 'Biah vs. Yichud' prose describes: the Hasmonean court prohibited biah but not yichud, then the objection that David's court already decreed yichud, then the resolution that David's decree covered yichud with a Jewish woman only \u2014 all one unified discussion of the precise scope of the Hasmonean decree versus later enactments.",
+      "chosen_heading": "Biah vs. Yichud",
+      "current_heading": "David: Yichud with Women",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Deuteronomy Remez",
+    "candidates": [
+      "Shammai/Hillel: Yichud",
+      "Yichud De'oraisa Source",
+      "Deuteronomy Remez",
+      "Son-Mother Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the question of whether yichud with a Jewish woman is de-oraita and presents the remez from Deuteronomy as the answer, which matches heading 1's prose about the question of yichud de-oraita status and its Torah basis being characterized as a remez.",
+      "chosen_heading": "Yichud De'oraisa Source",
+      "current_heading": "Deuteronomy Remez",
+      "moved": true
+    }
+  }
+]

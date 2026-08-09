@@ -1,0 +1,245 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "R. Shimon ben Gamliel",
+    "candidates": [
+      "Transition to Shechita",
+      "R. Shimon ben Gamliel",
+      "R. Eliezer: Blood",
+      "R. Shimon: Night Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the mesukenet animal's presumptive status (bechezkat mesukenet vs. bechezkat beriah) and the validity of shechita based on observed signs of life, which directly corresponds to the prose under 'R. Shimon ben Gamliel' describing the core concern of the mishnah about verifying the animal's life at the time of shechita.",
+      "chosen_heading": "R. Shimon ben Gamliel",
+      "current_heading": "R. Shimon ben Gamliel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "R. Shimon: Night Case",
+    "candidates": [
+      "R. Eliezer: Blood",
+      "R. Shimon: Night Case",
+      "Rabbis: Lenient",
+      "Leg Extension Excluded",
+      "Signs Req'd: Moribund",
+      "Why Permit Mesukenet?",
+      "Neveilah Inference",
+      "Mesukenet-Neveilah Link",
+      "Treifah Kal Vachomer",
+      "Verse: Two Prohibitions",
+      "Issur Chal Al Issur",
+      "Application: Mesukenet",
+      "Rashi: Continuum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items address the gemara's question of why shechita of a mesukenet is permitted at all \u2014 item 1 raises the potential prohibition from 'zot hachayah asher tochlu' and item 2 provides the inference from neveilah that mesukenet is permitted \u2014 which is precisely what candidate 5 ('Why Permit Mesukenet?') describes in its prose.",
+      "chosen_heading": "Why Permit Mesukenet?",
+      "current_heading": "R. Shimon: Night Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Rashi: Continuum",
+    "candidates": [
+      "Rabbis: Lenient",
+      "Leg Extension Excluded",
+      "Signs Req'd: Moribund",
+      "Why Permit Mesukenet?",
+      "Neveilah Inference",
+      "Mesukenet-Neveilah Link",
+      "Treifah Kal Vachomer",
+      "Verse: Two Prohibitions",
+      "Issur Chal Al Issur",
+      "Application: Mesukenet",
+      "Rashi: Continuum",
+      "Mar bar Rav Ashi",
+      "Cleaved Animal",
+      "Gemara Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "medium",
+      "reason": "All 8 items form the continuous Talmudic argument about why mesukenet is permitted \u2014 moving through the neveilah inference (items 1-2), the treifah inference and its challenges (items 3-5), and the fat verse proof (items 6-8) \u2014 which is precisely the multi-stage dialectic described in the 'Treifah Kal Vachomer' prose, not the Rashi interpretive commentary under the current heading 10.",
+      "chosen_heading": "Treifah Kal Vachomer",
+      "current_heading": "Rashi: Continuum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Gemara Response",
+    "candidates": [
+      "Mar bar Rav Ashi",
+      "Cleaved Animal",
+      "Gemara Response",
+      "Drasha: Extra Word"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full arc of Mar bar Rav Ashi's objection, the gistera illustration, and the Gemara's rejection \u2014 all of which are introduced by Mar bar Rav Ashi's challenge, making heading 0 the best single home, with headings 1 and 2 being downstream elaborations of the same passage that the essay author split artificially.",
+      "chosen_heading": "Mar bar Rav Ashi",
+      "current_heading": "Gemara Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Drasha: Extra Word",
+    "candidates": [
+      "Gemara Response",
+      "Drasha: Extra Word",
+      "Yechezkel's Claims"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the exact drasha about the doubled word 'cheilev' teaching that mesukenet's fat is distinct from its meat, which is precisely what the 'Drasha: Extra Word' prose section discusses.",
+      "chosen_heading": "Drasha: Extra Word",
+      "current_heading": "Drasha: Extra Word",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Yechezkel's Claims",
+    "candidates": [
+      "Yechezkel's Claims",
+      "Mesukenet Subject",
+      "No Rabbi Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Ezekiel 4:14 verse itself, which the prose under heading 0 ('Yechezkel's Claims') directly introduces and discusses as a proof text for mesukenet.",
+      "chosen_heading": "Yechezkel's Claims",
+      "current_heading": "Yechezkel's Claims",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "No Rabbi Ruling",
+    "candidates": [
+      "Mesukenet Subject",
+      "No Rabbi Ruling",
+      "Logical Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains all three components of Yechezkel's declaration including the 'no sinful thoughts' clause, the mesukenet meat, and both interpretations of piggul (rabbi's ruling and priestly gifts), which is precisely what the 'No Rabbi Ruling' section's prose discusses in detail.",
+      "chosen_heading": "No Rabbi Ruling",
+      "current_heading": "No Rabbi Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Logical Test",
+    "candidates": [
+      "Logical Test",
+      "Rashi: Disgust",
+      "Cannot Stand",
+      "Rava: Even Chewing",
+      "Rami: Eating Beams"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the logical argument discussed in candidate 0's prose \u2014 the 'if permitted then greatness, if forbidden then no greatness' reasoning that proves mesukenet is permitted.",
+      "chosen_heading": "Logical Test",
+      "current_heading": "Logical Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Rami: Eating Beams",
+    "candidates": [
+      "Rashi: Disgust",
+      "Cannot Stand",
+      "Rava: Even Chewing",
+      "Rami: Eating Beams",
+      "Sura and Pumbedita",
+      "Shmuel's Question",
+      "Movement List",
+      "Ear Movement Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together cover the full definition of mesukenet \u2014 cannot stand, eating wood chips, eating beams, and the Sura/Pumbedita variants \u2014 which is precisely what the 'Cannot Stand' prose introduces as the gemara's definition of mesukenet, making it the best single home for this entire continuous passage.",
+      "chosen_heading": "Cannot Stand",
+      "current_heading": "Rami: Eating Beams",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Ear Movement Critique",
+    "candidates": [
+      "Sura and Pumbedita",
+      "Shmuel's Question",
+      "Movement List",
+      "Ear Movement Critique",
+      "Shmuel's Principle",
+      "Rav Called Abba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the exchange where Shmuel questions Rav's students about mesukenet and pirchus, which is precisely what the 'Shmuel's Question' prose describes \u2014 the students reporting not only the definition of mesukenet but also what constitutes valid pirchus including the movement list and Shmuel's response about ear movement.",
+      "chosen_heading": "Shmuel's Question",
+      "current_heading": "Ear Movement Critique",
+      "moved": true
+    }
+  }
+]

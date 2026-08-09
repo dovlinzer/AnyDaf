@@ -1,0 +1,398 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Pregnant Slave Challenge",
+    "candidates": [
+      "Slave Status",
+      "Bar Hachi",
+      "Terumot/Maasrot",
+      "Slaves Excluded: Gittin",
+      "Pregnant Slave Challenge",
+      "Two Explanations",
+      "Freeing Half",
+      "Fetus Separation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Slave Status",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 form the complete discussion about whether slaves qualify as agents via the gam atem / ben brit distinction, which heading 0 explicitly describes as its topic.",
+      "second_heading": "Pregnant Slave Challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 6-8 cover Rabbi \u1e24iyya bar Abba's statement about slaves and gittin, the pregnant slave clause, and Rav Shmuel bar Yehuda's clarification \u2014 precisely what heading 4's prose describes as its content.",
+      "current_heading": "Pregnant Slave Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Fetus Separation",
+    "candidates": [
+      "Two Explanations",
+      "Freeing Half",
+      "Fetus Separation",
+      "Gitov Principle",
+      "Disqualified Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both explanations \u2014 'chad amar' identifying Rabbi Yehuda HaNasi's ruling about freeing half a slave, and 'chad amar' explaining the 'ubar yerech imo' principle \u2014 and the current placement under 'Fetus Separation' covers both since its prose explicitly discusses how Rabbi's principle applies to the pregnant slave case via 'ubar yerech imo hu.'",
+      "chosen_heading": "Fetus Separation",
+      "current_heading": "Fetus Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Disqualified Witness",
+    "candidates": [
+      "Gitov Principle",
+      "Disqualified Witness",
+      "Self-Proving Doc"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage lists the women disqualified from testifying about death who are nonetheless believed to bring a get, which is precisely what the 'Disqualified Witness' section's prose describes and analyzes.",
+      "chosen_heading": "Disqualified Witness",
+      "current_heading": "Disqualified Witness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Self-Proving Doc",
+    "candidates": [
+      "Self-Proving Doc",
+      "Rav Yosef Position",
+      "Abaye Counterargument",
+      "Protection Via Bifnei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the mishnah's question 'mah bein get l'mitah' and the answer that the writing proves the divorce, plus the ruling that a woman may bring her own get with the declaration 'bifnei nichtav u'bifnei nechtam' \u2014 exactly the content described in the 'Self-Proving Doc' prose section.",
+      "chosen_heading": "Self-Proving Doc",
+      "current_heading": "Self-Proving Doc",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Protection Via Bifnei",
+    "candidates": [
+      "Rav Yosef Position",
+      "Abaye Counterargument",
+      "Protection Via Bifnei",
+      "Shimon Ben Elazar",
+      "Self-Agency Problem",
+      "Rav Huna Solution",
+      "Ground Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous debate about whether the mishnah's leniency applies in Eretz Yisrael or Chutz la'Aretz \u2014 covering Rav Yosef's resolution (items 1-2), Abaye's counter (item 3), the baraita supporting Abaye (items 4-5), Rav Ashi's proof from the mishnah (item 6), and Rav Yosef's response about the mishnah's structure (items 7-8) \u2014 which is precisely what candidate 2 ('Protection Via Bifnei') describes in its prose.",
+      "chosen_heading": "Protection Via Bifnei",
+      "current_heading": "Protection Via Bifnei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Ground Placement",
+    "candidates": [
+      "Shimon Ben Elazar",
+      "Self-Agency Problem",
+      "Rav Huna Solution",
+      "Ground Placement",
+      "Status Change",
+      "Agency Survival",
+      "Intermediary Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items deal with the 'ground placement' solution proposed by Rav Huna bar Manoach \u2014 item 1 sets up the problem (Rav Huna's beit din stipulation), item 2 introduces the ground-placement answer, and item 3 immediately challenges it with Rava's ruling that 'take your get from the ground' is invalid \u2014 exactly the content described in candidate 3's prose.",
+      "chosen_heading": "Ground Placement",
+      "current_heading": "Ground Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Intermediary Solutions",
+    "candidates": [
+      "Status Change",
+      "Agency Survival",
+      "Intermediary Solutions",
+      "Question Posed",
+      "Bizayon Ba'al",
+      "Property Transfer Issue",
+      "Acceptable Pathways",
+      "Four Invalid Cases",
+      "Practice Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Status Change",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the identity-shift formulation and the shelichut-survival objection, matching the 'Status Change' and 'Agency Survival' prose, but since item 1 is the core formulation discussed under 'Status Change' and item 2 is the objection discussed under 'Agency Survival', the split falls between them \u2014 however, items 1-2 together form the Status Change / Agency Survival transition, and items 3-7 cover the intermediary solutions and their sub-debates, which perfectly match 'Intermediary Solutions', 'Question Posed', 'Bizayon Ba'al', 'Property Transfer Issue', and 'Acceptable Pathways' \u2014 the current placement under 'Intermediary Solutions' (index 2) captures only items 3-7, so items 1-2 belong under index 1 ('Agency Survival') which itself follows 'Status Change', and items 3-7 belong under index 2.",
+      "second_heading": "Intermediary Solutions",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 cover the debate about appointing a shaliach l'kablah, the bizayon and chatzer rationales, and the alternative pathways through a second shaliach or beit din, all of which are precisely described in the 'Intermediary Solutions' prose at index 2.",
+      "current_heading": "Intermediary Solutions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Practice Case",
+    "candidates": [
+      "Question Posed",
+      "Bizayon Ba'al",
+      "Property Transfer Issue",
+      "Acceptable Pathways",
+      "Four Invalid Cases",
+      "Practice Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage 'Hadran alach hameivi get' is the concluding formula for the second perek, and the prose under heading 4 ('Four Invalid Cases') explicitly discusses this exact phrase as the transition marker into the third perek, making it the clear home for this item.",
+      "chosen_heading": "Four Invalid Cases",
+      "current_heading": "Practice Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Practice Case",
+    "candidates": [
+      "Practice Case",
+      "Discarded Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself introducing the 'practice case' scenario of a man hearing scribes dictating in the marketplace, which is precisely what the prose under 'Practice Case' discusses and analyzes.",
+      "chosen_heading": "Practice Case",
+      "current_heading": "Practice Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Discarded Get",
+    "candidates": [
+      "Discarded Get",
+      "Wrong Wife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario in candidate 0's prose: a man wrote a get, reconsidered, and a townsman with matching names proposes using it \u2014 matching 'Discarded Get' perfectly.",
+      "chosen_heading": "Discarded Get",
+      "current_heading": "Discarded Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Wrong Wife",
+    "candidates": [
+      "Wrong Wife",
+      "Unspecified Wife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the 'two wives with identical names / wrote get for older one / cannot use it for younger' case, which matches exactly the prose under heading 0 ('Wrong Wife').",
+      "chosen_heading": "Wrong Wife",
+      "current_heading": "Wrong Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "current_heading": "Unspecified Wife",
+    "candidates": [
+      "Unspecified Wife",
+      "Ketav Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items deal with the fourth mishna case (writing a get for whichever wife he chooses) and the subsequent gemara discussion including Rav Pappa, Rav Ashi, and the tana devei Rabbi Yishmael baraita explaining the escalating novelty of each case \u2014 exactly what the 'Unspecified Wife' prose describes.",
+      "chosen_heading": "Unspecified Wife",
+      "current_heading": "Unspecified Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Ketav Derivation",
+    "candidates": [
+      "Ketav Derivation",
+      "Ein Bereirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's derivation from 'vekasav' and 'lah' explaining why each word is needed \u2014 exactly what the 'Ketav Derivation' prose describes, covering the exclusion of a get written for another person and the requirement of writing for this specific wife.",
+      "chosen_heading": "Ketav Derivation",
+      "current_heading": "Ketav Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Ein Bereirah",
+    "candidates": [
+      "Ein Bereirah",
+      "Name Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses 'ein bereirah' \u2014 that retroactive clarification is invalid and the get must be written for a specific woman from the outset \u2014 which directly matches the prose in candidate 0 about ein bereirah and the lah requirement demanding clarity at the time of writing.",
+      "chosen_heading": "Ein Bereirah",
+      "current_heading": "Ein Bereirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Name Ambiguity",
+    "candidates": [
+      "Name Ambiguity",
+      "Rava's Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishna's ruling about writing a get for the older wife and using it to divorce her, which is exactly what the 'Name Ambiguity' prose analyzes with its reference to 'hagedolah matzi megaresh bah' and the question of whether a get with ambiguous names is valid.",
+      "chosen_heading": "Name Ambiguity",
+      "current_heading": "Name Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Rava's Parallel",
+    "candidates": [
+      "Rava's Parallel",
+      "Holder Identity",
+      "Abaye Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage states that two Yosef ben Shimons can present a promissory note against others, which directly corresponds to the principle cited in Abaye's Challenge prose ('when Yosef ben Shimon himself holds it, the identity of the relevant Yosef ben Shimon is clear') \u2014 this is the positive side of the shtar chov rule that Abaye references, not the parallel Rava draws about collecting from the wrong person as described in candidate 0.",
+      "chosen_heading": "Abaye Challenge",
+      "current_heading": "Rava's Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      158,
+      159,
+      160
+    ],
+    "current_heading": "Abaye Challenge",
+    "candidates": [
+      "Holder Identity",
+      "Abaye Challenge",
+      "Edei Mesirah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye Challenge",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain Abaye's challenge and the initial 'be'idei mesirah de-Rabbi Elazar' response, which is precisely what the 'Abaye Challenge' prose describes as Abaye's objection and its acknowledgment.",
+      "second_heading": "Edei Mesirah",
+      "second_confidence": "high",
+      "second_reason": "Item 3 \u2014 'haka nami be'idei mesirah de-Rabbi Elazar hi' \u2014 is the conclusive resolution applying edei mesirah to the parallel case, which matches exactly the 'Edei Mesirah' prose section's discussion of that resolution.",
+      "current_heading": "Abaye Challenge",
+      "moved": true
+    }
+  }
+]

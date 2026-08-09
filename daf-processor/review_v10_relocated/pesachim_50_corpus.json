@@ -1,0 +1,608 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Mishna Debate",
+    "candidates": [
+      "Returning for Chametz",
+      "Mishna Debate",
+      "Reversal Question",
+      "Texts Switched",
+      "Abaye's Answer",
+      "Rabbi Meir's Ketubim",
+      "Rabbi Yehuda's Sevia",
+      "Tosafos Asmachta",
+      "Hazarah Significance",
+      "Rabbi Meir Tumah",
+      "Rabbi Yehuda Issurah",
+      "Object vs. Act",
+      "Rabbi Natan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the apparent contradiction between Rabbi Meir and Rabbi Yehuda's positions in the zimmun Mishna versus our Mishna, Rabbi Yochanan's reversal solution, and Abaye's alternative resolution \u2014 all of which is precisely what heading 2 ('Reversal Question') describes, including the raised contradiction, the reversed opinions, and the opening of the explanation.",
+      "chosen_heading": "Reversal Question",
+      "current_heading": "Mishna Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rabbi Natan",
+    "candidates": [
+      "Reversal Question",
+      "Texts Switched",
+      "Abaye's Answer",
+      "Rabbi Meir's Ketubim",
+      "Rabbi Yehuda's Sevia",
+      "Tosafos Asmachta",
+      "Hazarah Significance",
+      "Rabbi Meir Tumah",
+      "Rabbi Yehuda Issurah",
+      "Object vs. Act",
+      "Rabbi Natan",
+      "Light Yikaros",
+      "Rabbi Elazar Light"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Natan's baraita stating the threshold is two egg-bulks and that the Rabbis did not agree, which matches exactly the prose of candidate 10 ('Rabbi Natan') describing this third opinion of shtei beitzim and the Sages' disagreement.",
+      "chosen_heading": "Rabbi Natan",
+      "current_heading": "Rabbi Natan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Rabbi Elazar Light",
+    "candidates": [
+      "Light Yikaros",
+      "Rabbi Elazar Light",
+      "Negaim Oholos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the opening question about 'yekarot vekippaon,' which belongs under the 'Light Yikaros' heading that introduces the verse and the competing interpretations \u2014 Rabbi Elazar's answer is just the first interpretation following the question, and the prose under heading 0 explicitly describes this setup.",
+      "chosen_heading": "Light Yikaros",
+      "current_heading": "Rabbi Elazar Light",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Negaim Oholos",
+    "candidates": [
+      "Rabbi Elazar Light",
+      "Negaim Oholos",
+      "Weighty People",
+      "Rav Yosef Vision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yo\u1e25anan's statement about Negaim and Oholot being weighty in this world but easy in the World-to-Come, which matches exactly the prose under 'Negaim Oholos' where the current placement sits.",
+      "chosen_heading": "Negaim Oholos",
+      "current_heading": "Negaim Oholos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rav Yosef Vision",
+    "candidates": [
+      "Weighty People",
+      "Rav Yosef Vision",
+      "Olam Hafuch",
+      "Father Response",
+      "Talmudo B'Yado"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full quote including Rabbi Yehoshua ben Levi's teaching about *yekarim*/*kefuyim*, the Rav Yosef story, the inverted world vision, the father's response, and the status of Torah scholars \u2014 all of which together belong under the 'Weighty People' heading that introduces this entire unit, rather than being split across multiple headings.",
+      "chosen_heading": "Weighty People",
+      "current_heading": "Rav Yosef Vision",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Talmudo B'Yado",
+    "candidates": [
+      "Olam Hafuch",
+      "Father Response",
+      "Talmudo B'Yado",
+      "Harugei Malchut",
+      "Harugei Lod"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the 'talmudo b'yado' statement and the 'harugei malchut' statement as a single quoted unit, and the current placement under 'Talmudo B'Yado' (index 2) covers both reports together, with the 'Harugei Malchut' prose (index 3) separately discussing only the second report \u2014 the current placement correctly keeps the combined Talmudic text together before the essay splits the discussion into two separate sections.",
+      "chosen_heading": "Talmudo B'Yado",
+      "current_heading": "Talmudo B'Yado",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Harugei Lod",
+    "candidates": [
+      "Harugei Malchut",
+      "Harugei Lod",
+      "Metzilot Hasus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks 'who are these martyrs?' in direct response to the harugei malchut discussion, making it a continuation of that section's content; the 'Harugei Lod' heading's prose already describes and interprets this Gemara passage, but the Gemara text itself is the transition/question that belongs under 'Harugei Malchut' where the essay prose explicitly anticipates this question will be pressed.",
+      "chosen_heading": "Harugei Malchut",
+      "current_heading": "Harugei Lod",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Metzilot Hasus",
+    "candidates": [
+      "Harugei Lod",
+      "Metzilot Hasus",
+      "Jerusalem Expansion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks the question 'What is the meaning of metzillot hasus?' which is precisely what the 'Metzilot Hasus' section's prose introduces, making the current placement correct.",
+      "chosen_heading": "Metzilot Hasus",
+      "current_heading": "Metzilot Hasus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Jerusalem Expansion",
+    "candidates": [
+      "Jerusalem Expansion",
+      "Horse Ornaments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi Yehoshua ben Levi's teaching on Jerusalem's future expansion based on the root 'tzel' (shade/shadow), which is precisely what the 'Jerusalem Expansion' section's prose discusses.",
+      "chosen_heading": "Jerusalem Expansion",
+      "current_heading": "Jerusalem Expansion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Horse Ornaments",
+    "candidates": [
+      "Horse Ornaments",
+      "War Booty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rabbi Elazar's teaching about bells/ornaments hung between a horse's eyes being consecrated, which matches the 'Horse Ornaments' section's prose about decorations hung between horses' eyes.",
+      "chosen_heading": "Horse Ornaments",
+      "current_heading": "Horse Ornaments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "War Booty",
+    "candidates": [
+      "War Booty",
+      "Verses Resolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's statement about war booty being consecrated to God, which is precisely what the 'War Booty' section's prose discusses and summarizes.",
+      "chosen_heading": "War Booty",
+      "current_heading": "War Booty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Verses Resolved",
+    "candidates": [
+      "Verses Resolved",
+      "Kena'ani Trader"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's resolution of how the continuation verses (pots in the Temple, no more Kna'ani) fit the competing interpretations, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Verses Resolved",
+      "current_heading": "Verses Resolved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Kena'ani Trader",
+    "candidates": [
+      "Kena'ani Trader",
+      "No Kena'ani",
+      "God's Name Echad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's derivation that 'kena'ani' means merchant/trader, using the verse about Judah and Rabbi Shimon ben Lakish's interpretation, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Kena'ani Trader",
+      "current_heading": "Kena'ani Trader",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "God's Name Echad",
+    "candidates": [
+      "No Kena'ani",
+      "God's Name Echad",
+      "Experience God",
+      "Name Pronunciation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's discussion of why God will be 'One' in the future era, with Item 1 raising the question and Item 2 providing Rabbi A\u1e25a bar \u1e24anina's answer about unified experiential blessing \u2014 exactly what the 'God's Name Echad' section prose describes.",
+      "chosen_heading": "God's Name Echad",
+      "current_heading": "God's Name Echad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Name Pronunciation",
+    "candidates": [
+      "Experience God",
+      "Name Pronunciation",
+      "Rava Pronunciation",
+      "Name Hidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the question of why the verse says 'His name one' and Rav Nachman bar Yitzchak's answer about the written vs. pronounced divine name \u2014 exactly the content described in the 'Name Pronunciation' section's prose.",
+      "chosen_heading": "Name Pronunciation",
+      "current_heading": "Name Pronunciation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Name Hidden",
+    "candidates": [
+      "Rava Pronunciation",
+      "Name Hidden",
+      "Masechta Structure",
+      "Mishna Work",
+      "Rashi Explanation",
+      "Travel Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the concealment/pronunciation of the divine name (le'alem ktiv and Rabbi Avina's contradiction), which is precisely what the 'Name Hidden' section's prose discusses in detail.",
+      "chosen_heading": "Name Hidden",
+      "current_heading": "Name Hidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Travel Stringency",
+    "candidates": [
+      "Masechta Structure",
+      "Mishna Work",
+      "Rashi Explanation",
+      "Travel Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Hadran alach Eilu Overin marks the conclusion of the third perek, which is exactly what the 'Masechta Structure' prose discusses \u2014 the closing of the first three prakim and transition to the fourth.",
+      "chosen_heading": "Masechta Structure",
+      "current_heading": "Travel Stringency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Travel Stringency",
+    "candidates": [
+      "Travel Stringency",
+      "Avoid Machlokes",
+      "Shevi'it Produce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full Mishna opening that includes both the basic local custom rule and the travel stringency rule, and the current heading's prose directly discusses and translates this exact travel stringency ruling about adopting the stringencies of both places.",
+      "chosen_heading": "Travel Stringency",
+      "current_heading": "Travel Stringency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Shevi'it Produce",
+    "candidates": [
+      "Avoid Machlokes",
+      "Shevi'it Produce",
+      "Rabbi Yehuda Shevi'it",
+      "Why Pesach",
+      "Braisa Mincha",
+      "Threshold Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 1's prose describes: the shevi'it produce case involving biur obligations when transporting produce between places where it has and hasn't ceased, including Rabbi Yehuda's position \u2014 all of which is the subject of candidates 1 and 2, but the full mishna text (both the main ruling and Rabbi Yehuda's view) fits best under the current placement (index 1) which introduces the shevi'it parallel case.",
+      "chosen_heading": "Shevi'it Produce",
+      "current_heading": "Shevi'it Produce",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137
+    ],
+    "current_heading": "Threshold Difference",
+    "candidates": [
+      "Rabbi Yehuda Shevi'it",
+      "Why Pesach",
+      "Braisa Mincha",
+      "Threshold Difference",
+      "Noon Cherem",
+      "Four Types",
+      "Zariz Niskar",
+      "Zariz Nifsad",
+      "Shafel Niskar",
+      "Shafel Nifsad",
+      "Mechuza Women"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Why Pesach",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's question 'why specifically Pesach eves?' and its two answers distinguishing Erev Pesach from Erev Shabbat, which matches exactly the 'Why Pesach' heading's prose about the Gemara opening with 'mai irya arvei pesachim' and the chiddush of specifying Erev Pesach.",
+      "second_heading": "Braisa Mincha",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the full baraita text about performing melacha on Erev Shabbat/Yom Tov from Mincha onward and never seeing a sign of blessing, which matches exactly the 'Braisa Mincha' heading's prose citing this same baraita with its 'eino ro'eh siman beracha' ruling.",
+      "current_heading": "Threshold Difference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Mechuza Women",
+    "candidates": [
+      "Noon Cherem",
+      "Four Types",
+      "Zariz Niskar",
+      "Zariz Nifsad",
+      "Shafel Niskar",
+      "Shafel Nifsad",
+      "Mechuza Women",
+      "Kindness Height",
+      "Lishma Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the entire baraita presenting all four types (zariz veniskar, zariz venifsad, shafel veniskar, shafel venifsad) plus Rava's application to the women of Mechuza, which corresponds to the 'Four Types' heading whose prose explicitly describes this taxonomy as a whole unit cited from the braisa.",
+      "chosen_heading": "Four Types",
+      "current_heading": "Mechuza Women",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Lishma Intent",
+    "candidates": [
+      "Kindness Height",
+      "Lishma Intent",
+      "Wife Millstone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with Rava raising the contradiction between the two verses about the height of God's kindness, which is precisely what heading 0 'Kindness Height' introduces, and the resolution (lishma/shelo lishma) and Rav Yehuda's teaching are all part of the same continuous passage that belongs under that heading \u2014 heading 1 'Lishma Intent' covers only the resolution/conclusion prose, but the Talmudic text as a whole unit starts with the contradiction and should sit under heading 0.",
+      "chosen_heading": "Kindness Height",
+      "current_heading": "Lishma Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Wife Millstone",
+    "candidates": [
+      "Lishma Intent",
+      "Wife Millstone",
+      "Work vs. Rent",
+      "Eshet Chayil",
+      "Large Volume",
+      "Market Vendors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Wife Millstone' heading's prose \u2014 the braisa about not seeing blessing from wife's earnings or a millstone, with the scale/matkolta explanation \u2014 and the current placement is correct.",
+      "chosen_heading": "Wife Millstone",
+      "current_heading": "Wife Millstone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      172
+    ],
+    "current_heading": "Market Vendors",
+    "candidates": [
+      "Work vs. Rent",
+      "Eshet Chayil",
+      "Large Volume",
+      "Market Vendors",
+      "Nicer Portion",
+      "Four Prutos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both baraitot \u2014 the one about rods/jugs and the one about market vendors/small livestock/tree-choppers \u2014 and the prose under 'Large Volume' (index 2) explicitly introduces both of these baraitot together, while 'Market Vendors' (index 3) only discusses the second baraita, making index 2 the correct home for the entire passage.",
+      "chosen_heading": "Large Volume",
+      "current_heading": "Market Vendors",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      177
+    ],
+    "current_heading": "Four Prutos",
+    "candidates": [
+      "Nicer Portion",
+      "Four Prutos",
+      "Scribes Translators"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the four types of payments with no blessing, which matches exactly the 'Four Prutos' section prose that introduces and enumerates these same four categories.",
+      "chosen_heading": "Four Prutos",
+      "current_heading": "Four Prutos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      180
+    ],
+    "current_heading": "Scribes Translators",
+    "candidates": [
+      "Scribes Translators",
+      "Scribes Fasts",
+      "Scribes Profitability",
+      "Sacred Text Sellers",
+      "Lishma Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the reasoning behind wages of disseminators, orphans' money, and overseas investments \u2014 exactly what heading 0's prose discusses in the same order and with the same concepts.",
+      "chosen_heading": "Scribes Translators",
+      "current_heading": "Scribes Translators",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      189
+    ],
+    "current_heading": "Lishma Exception",
+    "candidates": [
+      "Scribes Fasts",
+      "Scribes Profitability",
+      "Sacred Text Sellers",
+      "Lishma Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full arc from the scribes' wages question through the twenty-four fasts, the braisa about sellers of sacred items, and the lishma exception \u2014 all of this content is introduced and anchored by the 'Scribes Fasts' heading whose prose begins with exactly the question this passage answers (why scribes shouldn't be wealthy) and quotes the same Rabbi Yehoshua ben Levi statement, making it the single best home for the entire passage.",
+      "chosen_heading": "Scribes Fasts",
+      "current_heading": "Lishma Exception",
+      "moved": true
+    }
+  }
+]

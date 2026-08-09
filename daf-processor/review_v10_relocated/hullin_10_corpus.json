@@ -1,0 +1,409 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Three Liquids Assur",
+    "candidates": [
+      "Three Liquids Assur",
+      "Snake Timeline",
+      "Tosfos on Snakes",
+      "Ashkenazi Practice",
+      "Health-Based Laws",
+      "Halacha Obsolescence",
+      "Rambam/SA Ruling",
+      "Tosfos Method",
+      "Case Setup",
+      "Rav Huna Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the Mishnah about three forbidden liquids and the Gemara's clarification of the time threshold (emergence, drinking, and return to hole), which is precisely what heading 0 'Three Liquids Assur' describes in its prose.",
+      "chosen_heading": "Three Liquids Assur",
+      "current_heading": "Three Liquids Assur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Rav Huna Position",
+    "candidates": [
+      "Snake Timeline",
+      "Tosfos on Snakes",
+      "Ashkenazi Practice",
+      "Health-Based Laws",
+      "Halacha Obsolescence",
+      "Rambam/SA Ruling",
+      "Tosfos Method",
+      "Case Setup",
+      "Rav Huna Position",
+      "Rav Chisda Position",
+      "Mikvah/Chatzitza Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "Both items present the core dispute between Rav Huna and Rav Chisda about a knife found notched after slaughter, which is precisely what the 'Rav Huna Position' prose introduces and analyzes in detail, including the bone-chopping scenario and the competing principles at stake.",
+      "chosen_heading": "Rav Huna Position",
+      "current_heading": "Rav Huna Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Mikvah/Chatzitza Case",
+    "candidates": [
+      "Rav Chisda Position",
+      "Mikvah/Chatzitza Case",
+      "Competing Chazakos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's objection using the mikvah/chatzitza case to support Rav Huna, which is exactly what the 'Mikvah/Chatzitza Case' prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Mikvah/Chatzitza Case",
+      "current_heading": "Mikvah/Chatzitza Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Competing Chazakos",
+    "candidates": [
+      "Competing Chazakos",
+      "External vs. Intrinsic",
+      "Tosfos Critique",
+      "Inspection Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with competing chazakot \u2014 item 1 establishes that the tamei person's presumptive status of impurity holds, and item 2 applies the same logic to the animal before being resolved by 'the slaughtered animal is before you,' which is exactly what the 'Competing Chazakos' prose describes.",
+      "chosen_heading": "Competing Chazakos",
+      "current_heading": "Competing Chazakos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Inspection Evidence",
+    "candidates": [
+      "External vs. Intrinsic",
+      "Tosfos Critique",
+      "Inspection Evidence",
+      "Baraita on Trachea"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present precisely the Gemara's exchange that establishes the 'sakin itra'ei beheima lo itra'ei' distinction \u2014 the knife became flawed but the animal did not \u2014 which is the exact content described in the 'External vs. Intrinsic' prose section.",
+      "chosen_heading": "External vs. Intrinsic",
+      "current_heading": "Inspection Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Baraita on Trachea",
+    "candidates": [
+      "Inspection Evidence",
+      "Baraita on Trachea",
+      "Doubt Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about trachea displacement and the practical case (zeh hayah ma'aseh) that resulted in the kol safek ruling, which is precisely what the 'Baraita on Trachea' prose describes \u2014 the anatomy, the validity conditions, and the doubt principle arising from the incident.",
+      "chosen_heading": "Baraita on Trachea",
+      "current_heading": "Baraita on Trachea",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Doubt Principle",
+    "candidates": [
+      "Doubt Principle",
+      "Animal vs. Knife Doubts",
+      "Principle Agreement",
+      "Hilcheta Rav Huna",
+      "Hilcheta Rav Chisda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's answer that 'kol safek' adds cases of shehiyah and derisah (not the knife-nick case), which matches the prose of 'Animal vs. Knife Doubts' that explicitly references 'lo le'asuyei safek she-hasafek daras' and the standard categories of shehiyah and derisah.",
+      "chosen_heading": "Animal vs. Knife Doubts",
+      "current_heading": "Doubt Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Hilcheta Rav Chisda",
+    "candidates": [
+      "Animal vs. Knife Doubts",
+      "Principle Agreement",
+      "Hilcheta Rav Huna",
+      "Hilcheta Rav Chisda",
+      "Rav Yosef Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Animal vs. Knife Doubts",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the Gemara's distinction between animal-based flaws and knife-based flaws, which is the core content described in candidate 0 ('Animal vs. Knife Doubts').",
+      "second_heading": "Hilcheta Rav Huna",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the halakhic ruling following Rav Huna and Rav Chisda with the bone-breaking distinction, which matches the 'Hilcheta Rav Huna' section's prose about the final rulings rendered in two parts.",
+      "current_heading": "Hilcheta Rav Chisda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Rav Yosef Case",
+    "candidates": [
+      "Hilcheta Rav Chisda",
+      "Rav Yosef Case",
+      "Nick Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the incident where Rav Yosef declared thirteen animals tereifot and asks which opinion (Rav Huna or Rav Chisda) he followed, which is exactly what the 'Rav Yosef Case' prose discusses.",
+      "chosen_heading": "Rav Yosef Case",
+      "current_heading": "Rav Yosef Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Nick Attribution",
+    "candidates": [
+      "Nick Attribution",
+      "Practical Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'v'ee ba'is ayma l'olam k'Rav Huna' argument about why attributing the nick to the first versus last spine undermines Rav Chisda's leniency, which is precisely what the 'Nick Attribution' prose describes.",
+      "chosen_heading": "Nick Attribution",
+      "current_heading": "Nick Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Practical Solution",
+    "candidates": [
+      "Practical Solution",
+      "Knife Inspection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Kahana's practice of examining the knife between each animal and the Gemara's question about whether this aligns with Rav Huna or Rav Chisda, which is precisely what the 'Practical Solution' prose section describes in detail.",
+      "chosen_heading": "Practical Solution",
+      "current_heading": "Practical Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Knife Inspection",
+    "candidates": [
+      "Knife Inspection",
+      "Self-Checking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses whether intermediate knife checks require showing to a sage and resolves this via Rabbi Yochanan's ruling about sage-honor \u2014 exactly what the 'Knife Inspection' prose describes.",
+      "chosen_heading": "Knife Inspection",
+      "current_heading": "Knife Inspection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Self-Checking",
+    "candidates": [
+      "Self-Checking",
+      "Derivation Question",
+      "Tzara'at Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'from where do the Rabbis derive the principle of chazakah,' which is precisely what the 'Derivation Question' section's prose describes as its topic.",
+      "chosen_heading": "Derivation Question",
+      "current_heading": "Self-Checking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Tzara'at Source",
+    "candidates": [
+      "Derivation Question",
+      "Tzara'at Source",
+      "Backward Walking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Shmuel bar Na\u1e25mani's teaching about the tzara'at of a house as the source for chazakah, which is precisely what the 'Tzara'at Source' section's prose describes.",
+      "chosen_heading": "Tzara'at Source",
+      "current_heading": "Tzara'at Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Backward Walking",
+    "candidates": [
+      "Backward Walking",
+      "Abaye's Answers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav A\u1e25a bar Ya'akov's objection about backward walking, which is precisely what the 'Backward Walking' section's prose describes.",
+      "chosen_heading": "Backward Walking",
+      "current_heading": "Backward Walking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Abaye's Answers",
+    "candidates": [
+      "Abaye's Answers",
+      "Rava Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's two refutations (backward walking not constituting exit, and the dark house window ruling), which exactly matches the prose description under 'Abaye's Answers'.",
+      "chosen_heading": "Abaye's Answers",
+      "current_heading": "Abaye's Answers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Rava Response",
+    "candidates": [
+      "Rava Response",
+      "Baraita Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct rebuttal to Abaye on both the backward-exit and dark-house points, which is exactly what the 'Rava Response' section's prose describes.",
+      "chosen_heading": "Rava Response",
+      "current_heading": "Rava Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Baraita Rules",
+    "candidates": [
+      "Baraita Rules",
+      "Post-Facto Sealing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita that rules the priest must fully exit the house before quarantining it, which is precisely what the 'Baraita Rules' prose describes \u2014 the full exit requirement and the 'stands alongside the lintel' ruling.",
+      "chosen_heading": "Baraita Rules",
+      "current_heading": "Baraita Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Post-Facto Sealing",
+    "candidates": [
+      "Post-Facto Sealing",
+      "Final Challenge",
+      "Chazaka Conclusion",
+      "Tosfos on Chazaka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the baraita's conclusion about post-facto sealing (item 1) followed by Rav A\u1e25a bar Ya'akov's interpretation (items 2-3), which the current heading's prose explicitly discusses as the decisive proof about the kohen declaring from home \u2014 the 'Final Challenge' heading handles Rav A\u1e25a's relay-of-men objection but the passage as a whole, including the baraita conclusion that precedes it, sits correctly under 'Post-Facto Sealing'.",
+      "chosen_heading": "Post-Facto Sealing",
+      "current_heading": "Post-Facto Sealing",
+      "moved": false
+    }
+  }
+]

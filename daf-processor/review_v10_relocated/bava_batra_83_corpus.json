@@ -1,0 +1,466 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Three Trees Setup",
+    "candidates": [
+      "Three Trees Setup",
+      "Oreh v'Salo",
+      "Who Plants Space",
+      "Two Gardens"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Three Trees Setup",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-4 continue the debate about whether the mishna follows Rabbi Akiva's opinion on generous selling, which fits the 'Three Trees Setup' prose discussing the Rabbi Akiva parallel.",
+      "second_heading": "Oreh v'Salo",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is the baraita supporting Rabbi \u1e24iyya bar Abba's ruling specifically about 'kimlo oreh v'salo,' directly matching the 'Oreh v'Salo' section's prose about that phrase.",
+      "current_heading": "Three Trees Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Two Gardens",
+    "candidates": [
+      "Oreh v'Salo",
+      "Who Plants Space",
+      "Two Gardens",
+      "Falling Fruit Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the exchange where Abaye asks Rav Yosef who sows the oreh v'salo strip and Rav Yosef answers by citing the outer-garden mishna, which is exactly what candidate 1's prose describes.",
+      "chosen_heading": "Who Plants Space",
+      "current_heading": "Two Gardens",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Falling Fruit Problem",
+    "candidates": [
+      "Two Gardens",
+      "Falling Fruit Problem",
+      "Neither Plants Space"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's rejection of the two-gardens analogy on the grounds that fallen fruit will become soiled, which is precisely what the 'Falling Fruit Problem' prose describes and analyzes.",
+      "chosen_heading": "Falling Fruit Problem",
+      "current_heading": "Falling Fruit Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Neither Plants Space",
+    "candidates": [
+      "Neither Plants Space",
+      "Distance Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the 'last clause' about neither party being permitted to sow, which matches exactly the 'Neither Plants Space' section's prose discussing be'zeh u've'zeh einam resha'im lizroa.",
+      "chosen_heading": "Neither Plants Space",
+      "current_heading": "Neither Plants Space",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Distance Question",
+    "candidates": [
+      "Distance Question",
+      "4-8 Amot Opinion",
+      "8-16 Amot Ruling",
+      "Kilayim Support",
+      "Tzalmon Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita confirms Abaye's position and directly supports the 8-16 amot ruling discussion, where Abaye defends Rav Nachman's opinion \u2014 this baraita is explicitly described as 'taught in accordance with Abaye,' fitting the '8-16 Amot Ruling' section where Abaye's stance is the focus.",
+      "chosen_heading": "8-16 Amot Ruling",
+      "current_heading": "Distance Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Tzalmon Story",
+    "candidates": [
+      "4-8 Amot Opinion",
+      "8-16 Amot Ruling",
+      "Kilayim Support",
+      "Tzalmon Story",
+      "Four Amot Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the dispute between Rav Yosef and Rava/Rav Na\u1e25man, Abaye's challenge citing the Kilayim mishnah, and the Tzalmon story \u2014 are the continuous chain supporting the 8-16 amot ruling, exactly as described in heading 1's prose which mentions Abaye's citation of a mishnah and the Rashbam's note, while headings 2 and 3 cover those same sub-elements but the entire passage as a unit belongs under the '8-16 Amot Ruling' heading.",
+      "chosen_heading": "8-16 Amot Ruling",
+      "current_heading": "Tzalmon Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Four Amot Case",
+    "candidates": [
+      "Tzalmon Story",
+      "Four Amot Case",
+      "Story vs. Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the Dura de'Re'uta story where Rav Yosef recounts Rav Yehuda's ruling and derives that 'mlo bakar vechelov' equals four amot, which is precisely what the 'Four Amot Case' prose describes.",
+      "chosen_heading": "Four Amot Case",
+      "current_heading": "Four Amot Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Story vs. Opinion",
+    "candidates": [
+      "Story vs. Opinion",
+      "Kilayim Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the challenge from the Rabbi Meir/Rabbi Shimon mishna and the answer that a practical incident is preferable \u2014 are precisely what the 'Story vs. Opinion' prose describes: why Rav Yosef cited a story rather than the minority opinion, answered by 'afillu hachi maaseh adif.'",
+      "chosen_heading": "Story vs. Opinion",
+      "current_heading": "Story vs. Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Kilayim Inference",
+    "candidates": [
+      "Kilayim Inference",
+      "Final Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss exactly what the 'Kilayim Inference' prose describes: how Rav Yosef/Rabbi Shimon derive both limits from kilayim rulings, and how Rav Nachman/Rabbanan derive their lower limit via the svara (proportional reasoning) that half of sixteen is eight.",
+      "chosen_heading": "Kilayim Inference",
+      "current_heading": "Kilayim Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Final Ruling",
+    "candidates": [
+      "Final Ruling",
+      "Mishnah Statement",
+      "Minor Trees",
+      "Ownership After Death",
+      "Distance Limits",
+      "Sequential Purchase",
+      "Measuring Point"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Final Ruling",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's final halakhic ruling with its confirming baraita, which is exactly what the 'Final Ruling' prose describes.",
+      "second_heading": "Mishnah Statement",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Mishnah text that spells out the consequences of meeting or failing the spacing requirements, which is precisely what the 'Mishnah Statement' prose introduces.",
+      "current_heading": "Final Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Measuring Point",
+    "candidates": [
+      "Mishnah Statement",
+      "Minor Trees",
+      "Ownership After Death",
+      "Distance Limits",
+      "Sequential Purchase",
+      "Measuring Point",
+      "Vine Knee Case",
+      "Root Measurement",
+      "Middle Knob",
+      "Three Branches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yirmiyah's dilemma about measuring from the narrow or wide place, which is precisely what the 'Measuring Point' section's prose discusses, and the proof from the vine mishnah is introduced here as part of that same unit of discussion.",
+      "chosen_heading": "Measuring Point",
+      "current_heading": "Measuring Point",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Three Branches",
+    "candidates": [
+      "Vine Knee Case",
+      "Root Measurement",
+      "Middle Knob",
+      "Three Branches",
+      "Batei Ilan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yirmiyah's dilemma about three branches of a single tree, which is precisely what the 'Three Branches' section prose describes and introduces.",
+      "chosen_heading": "Three Branches",
+      "current_heading": "Three Branches",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Batei Ilan",
+    "candidates": [
+      "Batei Ilan",
+      "Distinct Roots",
+      "Boundary Trees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source text that the 'Batei Ilan' section prose directly quotes and explains, discussing the mishnah about layering three vines whose roots are visible and the ruling of Rabbi Elazar son of Rabbi Tzadok.",
+      "chosen_heading": "Batei Ilan",
+      "current_heading": "Batei Ilan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Boundary Trees",
+    "candidates": [
+      "Distinct Roots",
+      "Boundary Trees",
+      "Cross-Property Trees",
+      "Interruptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both dilemmas (boundary tree and cross-property tree) in a single Talmudic unit ending with teiku, and the current heading 'Boundary Trees' with its prose covers the first question while the second question's prose is split off artificially \u2014 but since the Gemara text presents both as one continuous passage, the current placement under 'Boundary Trees' matches the actual Talmudic text which raises both questions together before the single teiku resolution.",
+      "chosen_heading": "Boundary Trees",
+      "current_heading": "Boundary Trees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Interruptions",
+    "candidates": [
+      "Cross-Property Trees",
+      "Interruptions",
+      "Cedar Tree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Ashi's dilemmas about physical interruptions (pit, stream, public thoroughfare, palm grove) between trees, which is precisely what the 'Interruptions' section prose describes.",
+      "chosen_heading": "Interruptions",
+      "current_heading": "Interruptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Cedar Tree",
+    "candidates": [
+      "Cedar Tree",
+      "Line or Triangle",
+      "Land Depends on Form",
+      "Plantability Factor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Hillel's dilemma about a cedar tree between purchased trees and Rebbi's answer, which is precisely what the 'Cedar Tree' section prose describes.",
+      "chosen_heading": "Cedar Tree",
+      "current_heading": "Cedar Tree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Plantability Factor",
+    "candidates": [
+      "Line or Triangle",
+      "Land Depends on Form",
+      "Plantability Factor",
+      "Thorny Bush"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full debate between Rav and Shmuel on straight-line vs. tripod arrangement AND the reasoning behind the restrictive view, all of which begins at 'Line or Triangle' \u2014 the content spans headings 0\u20132 but the natural home for the single unified Gemara passage is the heading that introduces the question it answers.",
+      "chosen_heading": "Line or Triangle",
+      "current_heading": "Plantability Factor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Thorny Bush",
+    "candidates": [
+      "Plantability Factor",
+      "Thorny Bush",
+      "Trees Plus Space",
+      "Large Animal Head",
+      "Organs and Parts",
+      "Small Animal Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Hamnuna's challenge about the Roman thorny shrubs (higei Romayata) and the response that they are not significant enough to convey land, which is exactly what the 'Thorny Bush' section's prose describes.",
+      "chosen_heading": "Thorny Bush",
+      "current_heading": "Thorny Bush",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Small Animal Rules",
+    "candidates": [
+      "Trees Plus Space",
+      "Large Animal Head",
+      "Organs and Parts",
+      "Small Animal Rules",
+      "Good to Bad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the complete mishnah covering both large and small animal sales, and the prose under 'Large Animal Head' (index 1) introduces this mishnah as a whole, while indices 2 and 3 are commentary on its sub-sections \u2014 the full mishnah text belongs under the heading that introduces it.",
+      "chosen_heading": "Large Animal Head",
+      "current_heading": "Small Animal Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Good to Bad",
+    "candidates": [
+      "Small Animal Rules",
+      "Good to Bad",
+      "Bad to Good",
+      "As Promised",
+      "Different Type"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents all four cases of the mishnah as a unit, and the current heading 'Good to Bad' with its prose explicitly introduces the 'arba midot be-mocheim' framework that encompasses all four categories described in this single mishnaic text.",
+      "chosen_heading": "Good to Bad",
+      "current_heading": "Good to Bad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Different Type",
+    "candidates": [
+      "Bad to Good",
+      "As Promised",
+      "Different Type",
+      "Mekach Ta'ut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage lists exactly the cases of different-type discrepancies (reddish-brown/white, olive/sycamore, wine/vinegar) where both parties may retract, which is precisely what the 'Different Type' section's prose describes.",
+      "chosen_heading": "Different Type",
+      "current_heading": "Different Type",
+      "moved": false
+    }
+  }
+]

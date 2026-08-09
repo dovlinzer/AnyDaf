@@ -19,8 +19,8 @@
           "timestamp": "01:51"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Question of a Deposed Nasi with Tzara'at: Is the Exemption Categorical or Temporary?",
@@ -44,7 +44,7 @@
         }
       ],
       "sefaria_index": 2,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Rabbi Akiva's Position: Kohen Gadol Excluded from Oleh V'Yored Because He Cannot Bring a Mincha",
@@ -115,8 +115,8 @@
           "timestamp": "20:20"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Rabbi Eliezer's Rule: When Nasi Brings Oleh V'Yored, He Brings His Standard Korban (She-Goat)",
@@ -134,7 +134,7 @@
           "timestamp": "20:59"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -172,7 +172,7 @@
           "timestamp": "23:28"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -196,7 +196,7 @@
           "timestamp": "23:56"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -210,8 +210,8 @@
           "timestamp": "23:56"
         }
       ],
-      "sefaria_index": 18,
-      "matched": true
+      "sefaria_index": 19,
+      "matched": false
     },
     {
       "title": "Deposed Leader's Korban: Status at Time of Sin vs. Status at Time of Atonement",
@@ -244,7 +244,7 @@
           "timestamp": "24:15"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 23,
       "matched": true
     }
   ],
@@ -624,5 +624,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "22:00",
+  "amud_b_micro_title": "Rav Huna Resolves",
+  "shiur_start_daf": 9,
+  "shiur_start_amud": "a"
 }

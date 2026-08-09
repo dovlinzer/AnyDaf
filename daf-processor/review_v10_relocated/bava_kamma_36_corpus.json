@@ -1,0 +1,247 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Intro: Burden of Proof",
+    "candidates": [
+      "Intro: Burden of Proof",
+      "Bari vs. Shema",
+      "Chitin v. Se'orin",
+      "Shor Tam Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the question of whether the nizak can collect what the mazik concedes when both make bari claims, and explicitly introduces the refutation of Rabba bar Natan's chitin/se'orin ruling \u2014 exactly what the 'Bari vs. Shema' section describes as its content.",
+      "chosen_heading": "Bari vs. Shema",
+      "current_heading": "Intro: Burden of Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Shor Tam Application",
+    "candidates": [
+      "Bari vs. Shema",
+      "Chitin v. Se'orin",
+      "Shor Tam Application",
+      "Sumchos Extreme Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous gemara discussion asking who says bari and who says shema, rejecting the nizak-bari/mazik-shema configuration, and concluding it must be nizak-shema/mazik-bari \u2014 exactly the content described in the 'Shor Tam Application' prose.",
+      "chosen_heading": "Shor Tam Application",
+      "current_heading": "Shor Tam Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Sumchos Extreme Case",
+    "candidates": [
+      "Sumchos Extreme Case",
+      "Mishna's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Sumchos Extreme Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss whether the seyfa involves nizak shema/mazik bari and whether Sumchos would apply his ruling even in that configuration \u2014 exactly what the 'Sumchos Extreme Case' prose describes.",
+      "second_heading": "Mishna's Position",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 resolve the full picture by distinguishing reysha (nizak bari, mazik shema) from seyfa (nizak shema, mazik bari) and explaining that these are 'chada milta' \u2014 precisely what the 'Mishna's Position' prose describes.",
+      "current_heading": "Sumchos Extreme Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Mishna's Position",
+    "candidates": [
+      "Mishna's Position",
+      "Both Oxen Present",
+      "Tam vs. Muad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabba bar Natan's ruling about wheat/barley (chitin ve-se'orin) and its implications for the mishna's cases where the nizak collects according to what the mazik says \u2014 precisely the topic the current heading's prose addresses: how the mishna navigates between rejecting Sumchos and avoiding the full harshness of chitin ve-se'orin, with the key being whether the nizak's claim is bari or shema.",
+      "chosen_heading": "Mishna's Position",
+      "current_heading": "Mishna's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Tam vs. Muad",
+    "candidates": [
+      "Both Oxen Present",
+      "Tam vs. Muad",
+      "Akiva's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of objection and response about whether the mishna's opening case deals with muadim or tamim oxen, culminating in Rav A\u1e25a the Elder's challenge about the language 'chayavim' \u2014 exactly the content described in the 'Tam vs. Muad' prose.",
+      "chosen_heading": "Tam vs. Muad",
+      "current_heading": "Tam vs. Muad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Akiva's Logic",
+    "candidates": [
+      "Akiva's Logic",
+      "Yishmael vs. Akiva",
+      "Tosafot Analysis",
+      "R. Meir: Last First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's conclusion about tamim oxen and Rabbi Akiva's shutfin reasoning, which is precisely what the 'Akiva's Logic' prose section discusses in detail.",
+      "chosen_heading": "Akiva's Logic",
+      "current_heading": "Akiva's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "R. Meir: Last First",
+    "candidates": [
+      "Yishmael vs. Akiva",
+      "Tosafot Analysis",
+      "R. Meir: Last First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The item is a 'Hadaran' concluding formula marking the end of a chapter, which naturally belongs at the end of the section under 'R. Meir: Last First' as a chapter conclusion marker, not under the analytical sections about Yishmael/Akiva or Tosafot.",
+      "chosen_heading": "R. Meir: Last First",
+      "current_heading": "R. Meir: Last First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "R. Meir: Last First",
+    "candidates": [
+      "R. Meir: Last First",
+      "R. Shimon: Partners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna introducing Rabbi Meir's rule of 'acharon acharon nishkar' (last victim collects first), which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "R. Meir: Last First",
+      "current_heading": "R. Meir: Last First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "R. Shimon: Partners",
+    "candidates": [
+      "R. Shimon: Partners",
+      "Awareness Caveat",
+      "Attribution to Amoraim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Mishnaic text of Rabbi Shimon's sequential goring cases (200\u2192200\u2192200 with worthless carcasses), which is precisely what the 'R. Shimon: Partners' prose section explains and quotes verbatim at its conclusion.",
+      "chosen_heading": "R. Shimon: Partners",
+      "current_heading": "R. Shimon: Partners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Attribution to Amoraim",
+    "candidates": [
+      "Awareness Caveat",
+      "Attribution to Amoraim",
+      "Seizure & Shomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 1 ('Attribution to Amoraim') describes: the Gemara's question about whose opinion the mishna reflects, the difficulties with both Rabbi Yishmael and Rabbi Akiva, and Rava's resolution via the tafas nizak/shomer sachar mechanism \u2014 all of which the prose of candidate 1 explicitly summarizes.",
+      "chosen_heading": "Attribution to Amoraim",
+      "current_heading": "Attribution to Amoraim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Seizure & Shomer",
+    "candidates": [
+      "Seizure & Shomer",
+      "Remainder Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly challenges the mishna's phrasing about returning surplus 'to the previous owner' rather than 'to the owner,' which is precisely the distribution mechanics and remainder rules discussed in the 'Remainder Rules' prose section, including the specific phrase 'im yesh motar be-nizakav yachzir le-shel lifanav.'",
+      "chosen_heading": "Remainder Rules",
+      "current_heading": "Seizure & Shomer",
+      "moved": true
+    }
+  }
+]

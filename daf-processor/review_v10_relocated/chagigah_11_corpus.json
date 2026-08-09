@@ -1,0 +1,342 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Building Beam",
+    "candidates": [
+      "Me'ilah Intro",
+      "Beam Case",
+      "Building Beam",
+      "Rava's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items deal with the 'built beam into house' case from the mishnah \u2014 item 1 raises the difficulty (why does dwelling matter after shinuy?) and item 2 is the gemara's immediate rejection/rebuttal (perhaps it follows Rav's reading where no shinuy occurred), which is precisely the content described in candidate 2's prose about 'Building Beam.'",
+      "chosen_heading": "Building Beam",
+      "current_heading": "Building Beam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rava's Explanation",
+    "candidates": [
+      "Rava's Explanation",
+      "Definition",
+      "Few Verses Many Laws",
+      "Negaim Opposite"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's explanation of the shaliach/me'ilah case and the 'mountains suspended by a hair' conclusion, which is precisely what the prose of heading 0 describes.",
+      "chosen_heading": "Rava's Explanation",
+      "current_heading": "Rava's Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Negaim Opposite",
+    "candidates": [
+      "Definition",
+      "Few Verses Many Laws",
+      "Negaim Opposite",
+      "Practical Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the braita's claim about negaim ve'ohalos AND Rav Pappa's resolution of the contradiction, which is precisely what heading 2 'Negaim Opposite' discusses \u2014 the challenge that negaim actually has many verses and Rav Pappa's reversal explaining the proportionality distinction.",
+      "chosen_heading": "Negaim Opposite",
+      "current_heading": "Negaim Opposite",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Practical Application",
+    "candidates": [
+      "Practical Application",
+      "Avodah Zarah Tangent",
+      "Three Categories Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the gemara's answer to 'umai nafka mina' about negaim/verses and ohalos/mishnayot, which is precisely what Candidate 0's prose is describing and explaining.",
+      "chosen_heading": "Practical Application",
+      "current_heading": "Practical Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Three Categories Intro",
+    "candidates": [
+      "Avodah Zarah Tangent",
+      "Three Categories Intro",
+      "Dinim & Eye/Eye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically discusses 'dinim' being written in the Torah and the Gemara's answer citing Rabbi's derivation \u2014 content that matches precisely the 'Dinim & Eye/Eye' section's prose about michtav ketivan and lo nitzrecha ela le'khid'rabbi.",
+      "chosen_heading": "Dinim & Eye/Eye",
+      "current_heading": "Three Categories Intro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Dinim & Eye/Eye",
+    "candidates": [
+      "Three Categories Intro",
+      "Dinim & Eye/Eye",
+      "Avodot Blood Catching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita from Rabbi Yehuda HaNasi deriving that 'life for life' means monetary payment via a gezera shava on the word 'giving,' which is precisely what the 'Dinim & Eye/Eye' prose section describes and analyzes.",
+      "chosen_heading": "Dinim & Eye/Eye",
+      "current_heading": "Dinim & Eye/Eye",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Avodot Blood Catching",
+    "candidates": [
+      "Avodot Blood Catching",
+      "Taharot Shiurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the derivation that carrying the blood (holacha) is halachically equivalent to collecting the blood (kabalat hadam), which is precisely what the 'Avodot Blood Catching' prose section describes in detail.",
+      "chosen_heading": "Avodot Blood Catching",
+      "current_heading": "Avodot Blood Catching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Taharot Shiurim",
+    "candidates": [
+      "Taharot Shiurim",
+      "Arayot Daughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the shiurim for taharot (ritual bath measure of forty se'ah) and tumah (lentil-bulk from a creeping animal), which are precisely what the 'Taharot Shiurim' prose section describes in detail.",
+      "chosen_heading": "Taharot Shiurim",
+      "current_heading": "Taharot Shiurim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Arayot Daughter",
+    "candidates": [
+      "Arayot Daughter",
+      "Hen Hen Gufei",
+      "Mishnah Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the daughter from a raped woman and the gezeirah shavah derivations (hena hena, zima zima), which is precisely what the 'Arayot Daughter' prose describes in detail.",
+      "chosen_heading": "Arayot Daughter",
+      "current_heading": "Arayot Daughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Mishnah Intro",
+    "candidates": [
+      "Hen Hen Gufei",
+      "Mishnah Intro",
+      "Four Areas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's challenge to 'hen hen gufei Torah' and the resolution to 'hen ve'hen gufei Torah,' which is precisely what candidate 0's prose describes in detail, making it the clear home for this passage.",
+      "chosen_heading": "Hen Hen Gufei",
+      "current_heading": "Mishnah Intro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Four Areas",
+    "candidates": [
+      "Mishnah Intro",
+      "Four Areas",
+      "Student Count",
+      "Verse Attempts"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 3,
+      "first_heading": "Mishnah Intro",
+      "first_confidence": "high",
+      "first_reason": "The Hadaran formula marks the end of the previous chapter/perek, which corresponds to the 'Mishnah Intro' heading that discusses the transition between the first and second perek.",
+      "second_heading": "Four Areas",
+      "second_confidence": "high",
+      "second_reason": "These two mishna items present exactly the content described in the 'Four Areas' prose: the restrictions on expounding arayot/bereishit/merkavah and the warning about gazing into four areas with the kol hamistakel passage.",
+      "third_heading": "Student Count",
+      "third_confidence": "high",
+      "third_reason": "The Gemara question about the contradiction in the mishna (merkavah by oneself vs. unless wise) and its resolution (hachi ka'amar) matches precisely the 'Student Count' prose which describes this exact exchange about counting students vs. total group.",
+      "current_heading": "Four Areas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Verse Attempts",
+    "candidates": [
+      "Student Count",
+      "Verse Attempts",
+      "Subtlety Focus",
+      "Sexual Desire Psychology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items constitute the Gemara's successive attempts to find a scriptural source for the three-student limit on teaching arayot \u2014 first the ish ish derivation with its challenges and resolution, then the ushmartem derivation with its challenge \u2014 which is precisely what candidate 1 ('Verse Attempts') describes in its prose.",
+      "chosen_heading": "Verse Attempts",
+      "current_heading": "Verse Attempts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Sexual Desire Psychology",
+    "candidates": [
+      "Subtlety Focus",
+      "Sexual Desire Psychology",
+      "Creation Verses",
+      "Spatial Boundaries"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Subtlety Focus",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Ashi's resolution about 'sitrei arayot' (concealed laws), which is precisely what candidate 0 'Subtlety Focus' discusses in its prose about the hidden, non-obvious dimensions of arayot laws.",
+      "second_heading": "Sexual Desire Psychology",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 present the logical reasoning (svara) about two vs. three students, the distinction that arayot are different due to craving, and the psychological contrast between sexual desire and theft \u2014 exactly what candidate 1 'Sexual Desire Psychology' covers in detail in its prose.",
+      "current_heading": "Sexual Desire Psychology",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Spatial Boundaries",
+    "candidates": [
+      "Creation Verses",
+      "Spatial Boundaries",
+      "Adam Size Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the baraita deriving the prohibition on teaching maaseh bereishit to two students, limiting temporal scope to the period from creation onward, and limiting spatial scope to within the heavens \u2014 exactly what heading 0 ('Creation Verses') describes, while heading 1 ('Spatial Boundaries') describes the same content but is clearly the section where this passage currently sits erroneously since heading 0's prose explicitly opens with the mishna's prohibition and the baraita's derivation from 'ki she'al na l'yamim rishonim,' which is precisely Item 1.",
+      "chosen_heading": "Creation Verses",
+      "current_heading": "Spatial Boundaries",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Adam Size Midrash",
+    "candidates": [
+      "Spatial Boundaries",
+      "Adam Size Midrash",
+      "Alternative Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Elazar's teaching that Adam spanned from earth to heaven and was diminished after sinning, which is precisely what the 'Adam Size Midrash' prose section describes and analyzes.",
+      "chosen_heading": "Adam Size Midrash",
+      "current_heading": "Adam Size Midrash",
+      "moved": false
+    }
+  }
+]

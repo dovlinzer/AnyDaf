@@ -1,0 +1,757 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Chiya Death Chronology",
+    "candidates": [
+      "Amud Corrections",
+      "Rebbe's Final Days",
+      "Chiya Death Chronology",
+      "Source Contradictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the first two 'ipocha' reversals (Rabbi \u1e24iyya's grave statement and the 'kedusha ceased' statement), which are explicitly described and analyzed in the 'Chiya Death Chronology' prose, making the current placement correct.",
+      "chosen_heading": "Chiya Death Chronology",
+      "current_heading": "Chiya Death Chronology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Source Contradictions",
+    "candidates": [
+      "Source Contradictions",
+      "Chiya's Mitzvot Work"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Source Contradictions' explicitly describes this exact baraita \u2014 Rabbi Chiya visiting the ailing Rebbe, the list of death omens, and Rebbe's answer about Torah and mitzvot \u2014 as the third source complicating the chronological question, matching both items perfectly.",
+      "chosen_heading": "Source Contradictions",
+      "current_heading": "Source Contradictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Chiya's Mitzvot Work",
+    "candidates": [
+      "Chiya's Mitzvot Work",
+      "Chanina's Intellect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the two alternatives (reverse names or don't reverse), and the 'do not reverse' explanation that Rabbi Chiya was occupied with mitzvot and Rebbe didn't want to hold him back \u2014 exactly the content described in heading 0's prose.",
+      "chosen_heading": "Chiya's Mitzvot Work",
+      "current_heading": "Chiya's Mitzvot Work",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Chanina's Intellect",
+    "candidates": [
+      "Chanina's Intellect",
+      "Chiya's Practice",
+      "Chiya's Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Chanina's boast about restoring Torah through his analytical powers, which matches exactly the 'Chanina's Intellect' section prose.",
+      "chosen_heading": "Chanina's Intellect",
+      "current_heading": "Chanina's Intellect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Chiya's Method",
+    "candidates": [
+      "Chiya's Practice",
+      "Chiya's Method",
+      "Distribution Model",
+      "Rebbe Approves",
+      "Shimon's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Chiya's detailed method (planting flax, trapping deer, feeding orphans, writing scrolls, teaching children), which matches exactly what the 'Chiya's Method' prose discusses, including all the specific steps cited there.",
+      "chosen_heading": "Chiya's Method",
+      "current_heading": "Chiya's Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Shimon's Challenge",
+    "candidates": [
+      "Distribution Model",
+      "Rebbe Approves",
+      "Shimon's Challenge",
+      "Yehoshaphat Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both Shimon's challenge ('afilu mimcha?') and Yishmael's challenge ('afilu me-abba?') with Rebbe's responses, and the current heading 'Shimon's Challenge' plus its prose directly addresses this exact content, while candidate 1 ('Rebbe Approves') covers only the kama gedolim statement and candidate 3 covers the aftermath/Yehoshaphat parallel.",
+      "chosen_heading": "Shimon's Challenge",
+      "current_heading": "Shimon's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Yehoshaphat Parallel",
+    "candidates": [
+      "Yehoshaphat Parallel",
+      "Youngest Son",
+      "Eldest Son",
+      "Leadership Balance",
+      "Private vs. Public",
+      "Air Quality"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Youngest Son",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the transmission to the younger son (sidrei chochmah) and older son (sidrei nesiyut), matching the 'Youngest Son' and 'Eldest Son' sections \u2014 but since they must go under one heading and item 1 matches 'Youngest Son' while item 2 matches 'Eldest Son', the split should separate them; however the passage as given has items 1-2 as the deathbed transmissions and items 3-4 as the Yehoshaphat challenge and resolution, so splitting after item 2 places items 1-2 under a transmission heading and items 3-4 under the Yehoshaphat/resolution heading.",
+      "second_heading": "Yehoshaphat Parallel",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 contain the Yehoshaphat parallel and the private/public resolution (lo kashya ha betzina ha befarhesya), which is precisely what the 'Yehoshaphat Parallel' prose describes in detail.",
+      "current_heading": "Yehoshaphat Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Air Quality",
+    "candidates": [
+      "Youngest Son",
+      "Eldest Son",
+      "Leadership Balance",
+      "Private vs. Public",
+      "Air Quality",
+      "Fast Day Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit about Rabbi Yehuda HaNasi being ill in Tzippori while his burial site was in Beit She'arim, and the resolution that he relocated to Tzippori for its elevated, sweet air \u2014 exactly what the 'Air Quality' section's prose describes.",
+      "chosen_heading": "Air Quality",
+      "current_heading": "Air Quality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Fast Day Oath",
+    "candidates": [
+      "Fast Day Oath",
+      "Prayer for Life",
+      "Observing Suffering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the fast day decree and the oath against announcing Rabbi's death, which is precisely what the 'Fast Day Oath' section's prose discusses.",
+      "chosen_heading": "Fast Day Oath",
+      "current_heading": "Fast Day Oath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Observing Suffering",
+    "candidates": [
+      "Prayer for Life",
+      "Observing Suffering",
+      "Moment of Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the initial prayer for life AND the reversal after observing suffering \u2014 it is a single continuous text that begins with the maidservant's prayer for Rebbe to live, which matches heading 0's prose perfectly, and the full passage including the reversal belongs together under that heading rather than split across two headings.",
+      "chosen_heading": "Prayer for Life",
+      "current_heading": "Observing Suffering",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Moment of Death",
+    "candidates": [
+      "Observing Suffering",
+      "Moment of Death",
+      "Medical Ethics",
+      "David Parallel",
+      "Garment Torn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the exact moment the maidservant throws the jug, the Rabbis fall silent, and Rebbe dies \u2014 which is precisely what the 'Moment of Death' section's prose discusses in detail.",
+      "chosen_heading": "Moment of Death",
+      "current_heading": "Moment of Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Garment Torn",
+    "candidates": [
+      "Medical Ethics",
+      "David Parallel",
+      "Garment Torn",
+      "Poetic Eulogy",
+      "Evasion Technique",
+      "Ten Fingers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Bar Kappara being sent, finding Rebbe dead, tearing his garment and turning the tear to the back \u2014 exactly what the 'Garment Torn' prose discusses, making the current placement correct.",
+      "chosen_heading": "Garment Torn",
+      "current_heading": "Garment Torn",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Ten Fingers",
+    "candidates": [
+      "Poetic Eulogy",
+      "Evasion Technique",
+      "Ten Fingers",
+      "Heavenly Voice",
+      "Righteous Greeters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rebbe raising his ten fingers and declaring he derived no benefit from the world, which is precisely what the 'Ten Fingers' section prose discusses in detail.",
+      "chosen_heading": "Ten Fingers",
+      "current_heading": "Ten Fingers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Righteous Greeters",
+    "candidates": [
+      "Heavenly Voice",
+      "Righteous Greeters",
+      "Three Angel Groups"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the teaching of Rabbi \u1e24iyya bar Gamda / Rabbi Yosei ben Shaul about the righteous coming out to greet the newly deceased, which is precisely what the 'Righteous Greeters' section prose describes, and the current placement is correct.",
+      "chosen_heading": "Righteous Greeters",
+      "current_heading": "Righteous Greeters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Three Angel Groups",
+    "candidates": [
+      "Three Angel Groups",
+      "No Worldly Benefit",
+      "Holiness Died",
+      "Priestly Purity",
+      "Raavad Instance",
+      "Mishnah Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Elazar's teaching about three groups of angels greeting the righteous and three groups of destructive angels meeting the wicked, which is exactly what the 'Three Angel Groups' prose discusses.",
+      "chosen_heading": "Three Angel Groups",
+      "current_heading": "Three Angel Groups",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Mishnah Rules",
+    "candidates": [
+      "No Worldly Benefit",
+      "Holiness Died",
+      "Priestly Purity",
+      "Raavad Instance",
+      "Mishnah Rules",
+      "25-Year Theory",
+      "Embarrassment Factor",
+      "Heirs Continue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah text presenting Rabbi Meir's and the Rabbis' opposing rulings on when a widow may collect her ketubah, which is precisely what candidate 4 ('Mishnah Rules') describes in its prose.",
+      "chosen_heading": "Mishnah Rules",
+      "current_heading": "Mishnah Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Heirs Continue",
+    "candidates": [
+      "25-Year Theory",
+      "Embarrassment Factor",
+      "Heirs Continue",
+      "Poor Woman Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage states that if the widow dies her heirs may mention the ketubah for up to 25 years, which directly matches the 'Heirs Continue' section prose about heirs continuing the count after the widow's death.",
+      "chosen_heading": "Heirs Continue",
+      "current_heading": "Heirs Continue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Poor Woman Case",
+    "candidates": [
+      "Poor Woman Case",
+      "Wealthy Woman Case",
+      "Camel Burden",
+      "Pro-Rata Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Poor Woman Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's question contrasting the poor woman and Marta bat Baisos, which fits under the 'Poor Woman Case' heading that sets up the contrast between minimal and enormous ketubot.",
+      "second_heading": "Camel Burden",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yosef's answer 'lifum gamla shichna' (the burden is proportional to the camel), which is exactly the content described under the 'Camel Burden' heading.",
+      "current_heading": "Poor Woman Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Pro-Rata Question",
+    "candidates": [
+      "Wealthy Woman Case",
+      "Camel Burden",
+      "Pro-Rata Question",
+      "Waiver Model",
+      "Sunset Precision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source for the pro-rata question about Rabbi Meir's position, which is precisely what the 'Pro-Rata Question' section's prose describes.",
+      "chosen_heading": "Pro-Rata Question",
+      "current_heading": "Pro-Rata Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Sunset Precision",
+    "candidates": [
+      "Waiver Model",
+      "Sunset Precision",
+      "Defining Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Abaye's question to Rav Yosef about whether coming before vs. after sunset makes a difference, which is precisely what the 'Sunset Precision' prose describes.",
+      "chosen_heading": "Sunset Precision",
+      "current_heading": "Sunset Precision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Defining Limits",
+    "candidates": [
+      "Defining Limits",
+      "Document Possession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the fixed measure of forty se'ah for mikvah immersion and the consequence of a kortov shortage, which directly matches the 'Defining Limits' prose discussing this exact concept.",
+      "chosen_heading": "Defining Limits",
+      "current_heading": "Defining Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Document Possession",
+    "candidates": [
+      "Document Possession",
+      "Document Irrelevant",
+      "Creditor Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yishmael bar Rabbi Yosi's ruling (document possession exempts from the 25-year limit) and Rabbi Elazar's disagreement (document doesn't help), and the 'Document Possession' section's prose explicitly covers both positions together, making it the best match for the full quoted text.",
+      "chosen_heading": "Document Possession",
+      "current_heading": "Document Possession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Creditor Parallel",
+    "candidates": [
+      "Document Irrelevant",
+      "Creditor Parallel",
+      "Admission Clause"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Sheshet's objection about a creditor collecting without mention and the inference that a widow waives her ketubah rights, which matches precisely the 'Creditor Parallel' section's prose description of this exact argument.",
+      "chosen_heading": "Creditor Parallel",
+      "current_heading": "Creditor Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152,
+      153
+    ],
+    "current_heading": "Admission Clause",
+    "candidates": [
+      "Admission Clause",
+      "Debate Scope",
+      "Reset on Demand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1 ('Debate Scope') explicitly discusses Rabbi Ila's teaching about the gerusha as ba'al chov, the heichi dami question about holding a ketubah, and the hacha nami keshechayav modeh resolution \u2014 matching all three items in the passage precisely, whereas candidate 0 ('Admission Clause') only covers the first item's resolution without the Rabbi Ila material.",
+      "chosen_heading": "Debate Scope",
+      "current_heading": "Admission Clause",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      159,
+      160
+    ],
+    "current_heading": "Reset on Demand",
+    "candidates": [
+      "Debate Scope",
+      "Reset on Demand",
+      "Document Protects",
+      "No Document Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Reset on Demand",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the demand-resets-the-clock ruling, which is exactly what the 'Reset on Demand' prose discusses.",
+      "second_heading": "Document Protects",
+      "second_confidence": "high",
+      "second_reason": "Item 2 states that holding the shtar allows collection forever, which is precisely what the 'Document Protects' prose describes.",
+      "current_heading": "Reset on Demand",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      165,
+      166
+    ],
+    "current_heading": "No Document Rule",
+    "candidates": [
+      "Document Protects",
+      "No Document Rule",
+      "Base Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'No Document Rule' explicitly paraphrases this exact exchange between Rav Nachman bar Rav Chisda and Rav Nachman bar Yaakov, including the question about whether the dispute applies when she holds the shtar or not, and the response that the dispute is only when she lacks a shtar, with the halacha following the Sages \u2014 matching the passage verbatim.",
+      "chosen_heading": "No Document Rule",
+      "current_heading": "No Document Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      170
+    ],
+    "current_heading": "Base Only",
+    "candidates": [
+      "Base Only",
+      "Tosafet Waiver"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states that the 25-year waiver applies only to the base ketubah amounts (maneh/matayim) but not to the tosefet, which matches exactly the prose under 'Base Only' discussing Rav Dimi's transmission of this ruling.",
+      "chosen_heading": "Base Only",
+      "current_heading": "Base Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      173
+    ],
+    "current_heading": "Tosafet Waiver",
+    "candidates": [
+      "Tosafet Waiver",
+      "Abbahu View",
+      "Tosafet Disputes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Abbahu citing Rabbi Yochanan that even the tosefet is forfeited, supported by Rabbi Aivu/Yannai's principle that tosefet equals the base ketubah \u2014 exactly what the 'Tosafet Waiver' prose describes.",
+      "chosen_heading": "Tosafet Waiver",
+      "current_heading": "Tosafet Waiver",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      178,
+      179
+    ],
+    "current_heading": "Tosafet Disputes",
+    "candidates": [
+      "Abbahu View",
+      "Tosafet Disputes",
+      "Chiya Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous exchange about Rav's ruling on tosefet versus the base ketubah amount, and candidate 1 ('Tosafet Disputes') explicitly describes this exact passage \u2014 Rabbi Abba citing Rav Huna citing Rav, the ashtukin/ashkayin exchange, and Rabbi Abba's disagreement \u2014 making it the clear and correct home.",
+      "chosen_heading": "Tosafet Disputes",
+      "current_heading": "Tosafet Disputes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      183
+    ],
+    "current_heading": "Chiya Story",
+    "candidates": [
+      "Chiya Story",
+      "Heir Refusal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav \u1e24iyya sustaining his sister-in-law for 25 years, which matches exactly the content described in the 'Chiya Story' prose section.",
+      "chosen_heading": "Chiya Story",
+      "current_heading": "Chiya Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      186
+    ],
+    "current_heading": "Heir Refusal",
+    "candidates": [
+      "Heir Refusal",
+      "Judge Recognition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the exchange where she demands sustenance and ketubah and he refuses both, which is the 'Heir Refusal' section's prose topic of waiver of mezonot and ketubah.",
+      "chosen_heading": "Heir Refusal",
+      "current_heading": "Heir Refusal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      189,
+      190
+    ],
+    "current_heading": "Judge Recognition",
+    "candidates": [
+      "Judge Recognition",
+      "Payment Ordered",
+      "Escalation",
+      "Produce Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe exactly what candidate 0 ('Judge Recognition') summarizes: Rabba bar Shila asks for the facts, Rav \u1e24iyya Arikha describes 25 years of support on his shoulders, and Rabba bar Shila applies the kissufa reasoning to rule in the widow's favor \u2014 all of which is the precise content of candidate 0's prose.",
+      "chosen_heading": "Judge Recognition",
+      "current_heading": "Judge Recognition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      198
+    ],
+    "current_heading": "Produce Claim",
+    "candidates": [
+      "Payment Ordered",
+      "Escalation",
+      "Produce Claim",
+      "Document Defect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in 'Escalation': non-compliance with the ruling, issuance of the seizure order (adrachta), and the appeal to Rava with his confirmation \u2014 all of which is the prose of candidate 1.",
+      "chosen_heading": "Escalation",
+      "current_heading": "Produce Claim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      202
+    ],
+    "current_heading": "Document Defect",
+    "candidates": [
+      "Produce Claim",
+      "Document Defect",
+      "Wrong Property",
+      "Final Property Rule",
+      "Payment Remains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows the widow demanding return of produce from the time of the seizure document until now, and Rava's response upon examining the document \u2014 this is the initial produce claim and document inspection exchange described in candidate 0's prose, before the detailed analysis of the defect discussed in candidate 1.",
+      "chosen_heading": "Produce Claim",
+      "current_heading": "Document Defect",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      211,
+      212,
+      213,
+      214
+    ],
+    "current_heading": "Payment Remains",
+    "candidates": [
+      "Wrong Property",
+      "Final Property Rule",
+      "Payment Remains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of argument about the widow's fallback claim to produce from the time of auction completion, Rava's rejection based on the error in the seizure document, her invocation of the 'scribal error' principle, and Rava's rebuttal explaining why that principle cannot apply here \u2014 all of which is precisely what the 'Payment Remains' prose describes.",
+      "chosen_heading": "Payment Remains",
+      "current_heading": "Payment Remains",
+      "moved": false
+    }
+  }
+]

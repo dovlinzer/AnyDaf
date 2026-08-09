@@ -1,0 +1,382 @@
+[
+  {
+    "quote_indices": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Mishnah Setup",
+    "candidates": [
+      "Mishnah Setup",
+      "Eating Through Whom",
+      "Kinyan Ochel",
+      "Rava's Gezerah",
+      "Rav Ashi's Concern",
+      "Rav Ashi's Concern",
+      "Almanah Kohenes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mishnah Setup",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah text defining the two slave categories and their terumah status, which the 'Mishnah Setup' prose explicitly describes as the opening mishnah introducing these two property categories.",
+      "second_heading": "Kinyan Ochel",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara's opening challenge invoking the baraita about *kinyano she-kanah kinyan* to ask why milug slaves shouldn't eat terumah, which is precisely the principle the 'Kinyan Ochel' prose discusses as Ravina's resolution \u2014 *kinyan ochel ma'achil, kinyan she'eino ochel eino ma'achil*.",
+      "current_heading": "Mishnah Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Almanah Kohenes",
+    "candidates": [
+      "Eating Through Whom",
+      "Kinyan Ochel",
+      "Rava's Gezerah",
+      "Rav Ashi's Concern",
+      "Rav Ashi's Concern",
+      "Almanah Kohenes",
+      "Property Assessment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items articulate and defend the principle 'kol ha-ochel ma'achil' \u2014 anyone who partakes enables others to partake \u2014 which is precisely the 'kinyan ochel' principle Ravina invokes as the first explanation, as described in candidate 1's prose.",
+      "chosen_heading": "Kinyan Ochel",
+      "current_heading": "Almanah Kohenes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Property Assessment",
+    "candidates": [
+      "Almanah Kohenes",
+      "Property Assessment",
+      "Title vs. Debt"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Almanah Kohenes",
+      "first_confidence": "high",
+      "first_reason": "Items 1-7 continue the discussion of mamzer/forbidden wives and teruma eligibility, the decree reasons (Ravina, Rava, Rav Ashi), and the almanah kohenes case \u2014 all topics explicitly covered in the 'Almanah Kohenes' prose.",
+      "second_heading": "Property Assessment",
+      "second_confidence": "high",
+      "second_reason": "Items 8-9 introduce the entirely new itmar dispute between Rav Yehuda and Rav Ami about nichsei tzon barzel property recovery, which is the exact topic introduced in the 'Property Assessment' prose.",
+      "current_heading": "Property Assessment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Title vs. Debt",
+    "candidates": [
+      "Title vs. Debt",
+      "Rental Comparison",
+      "Middle Zone"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Title vs. Debt",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Rav Yehuda/Rav Ami dispute and Rav Safra's rebuttal, which is precisely what heading 0 ('Title vs. Debt') describes in its prose.",
+      "second_heading": "Rental Comparison",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the rental cow mishnah challenge, which is exactly what heading 1 ('Rental Comparison') describes in its prose.",
+      "current_heading": "Title vs. Debt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Middle Zone",
+    "candidates": [
+      "Rental Comparison",
+      "Middle Zone",
+      "Two Braitot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the rented cow case is not parallel to guaranteed property and then points to the latter clause of the mishnah about feeding terumah fodder \u2014 content that directly matches the 'Rental Comparison' prose discussing rental liability being insufficient and the specific mishnah about a kohen renting from a yisrael.",
+      "chosen_heading": "Rental Comparison",
+      "current_heading": "Middle Zone",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Two Braitot",
+    "candidates": [
+      "Middle Zone",
+      "Two Braitot",
+      "She Retrieves",
+      "Shen V'Ayin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the two baraitot (one supporting Rabbi Ami via shen va-ayin, one supporting Rav Yehuda via inability to sell) that Rabba and Rav Yosef discuss at the conclusion of Rav Nachman's sermon, which is precisely what the 'Two Braitot' section prose describes.",
+      "chosen_heading": "Two Braitot",
+      "current_heading": "Two Braitot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Shen V'Ayin",
+    "candidates": [
+      "She Retrieves",
+      "Shen V'Ayin",
+      "Cloak Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage records Rava citing Rav Nachman's ruling that the halakha follows Rav Yehuda, along with the exchange about the counter-baraita, which matches exactly the prose of candidate 0 ('She Retrieves') describing this very ruling and the braita discussion, whereas candidate 1 ('Shen V'Ayin') is about a different legal context involving slaves and shen va-ayin laws.",
+      "chosen_heading": "She Retrieves",
+      "current_heading": "Shen V'Ayin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Cloak Story",
+    "candidates": [
+      "Shen V'Ayin",
+      "Cloak Story",
+      "Requires Collection"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Cloak Story",
+      "first_confidence": "high",
+      "first_reason": "Item 1 narrates the cloak incident (the woman, the robe, the husband's death, the orphans using it as a shroud), which matches exactly the 'Cloak Story' prose describing the ma'aseh.",
+      "second_heading": "Requires Collection",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rava's ruling ('kanya misna') and the challenge/resolution about mechusar gubyanya, which matches precisely the 'Requires Collection' prose discussing that even Rav Yehuda concedes the property requires active collection.",
+      "current_heading": "Cloak Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Requires Collection",
+    "candidates": [
+      "Requires Collection",
+      "Two Vessels",
+      "Shevach Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rava's principle about hekdesh/chametz/shichrur releasing liens, which is explicitly discussed and explained in the 'Requires Collection' prose as the broader principle Rava invokes to explain why the cloak's assignment to the dead dissolves the wife's lien on it.",
+      "chosen_heading": "Requires Collection",
+      "current_heading": "Requires Collection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Shevach Rule",
+    "candidates": [
+      "Two Vessels",
+      "Shevach Rule",
+      "Mishnah Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav Yehuda's ruling about two vessels that appreciated from 1000 to 2000 zuz and the Gemara's follow-up question about its novelty \u2014 this is precisely the scenario described in candidate 0's prose ('Two Vessels'), not candidate 1 ('Shevach Rule') which discusses the implications and logic of the ruling rather than the ruling itself.",
+      "chosen_heading": "Two Vessels",
+      "current_heading": "Shevach Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Mishnah Setup",
+    "candidates": [
+      "Shevach Rule",
+      "Mishnah Setup",
+      "Rabbi Yosi",
+      "Kohenes Challenge",
+      "Two Theories"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah Setup",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah itself presenting the case of a bas yisrael married to a kohen, which is precisely what heading 1 ('Mishnah Setup') describes in detail.",
+      "second_heading": "Kohenes Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rabbis' challenge to Rabbi Yosi about the bas kohen case, which is exactly what heading 3 ('Kohenes Challenge') describes \u2014 the Sages extending Rabbi Yosi's ruling to a kohen mother.",
+      "current_heading": "Mishnah Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Two Theories",
+    "candidates": [
+      "Rabbi Yosi",
+      "Kohenes Challenge",
+      "Two Theories",
+      "No Ruling",
+      "Fetus Title"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about the two theories explaining Rabbi Yosi's reasoning (Rabba vs. Rav Yosef), the nafka mina between them, and the baraita challenge/resolution \u2014 exactly what the 'Two Theories' prose describes.",
+      "chosen_heading": "Two Theories",
+      "current_heading": "Two Theories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Fetus Title",
+    "candidates": [
+      "No Ruling",
+      "Fetus Title",
+      "Shmuel's Rule",
+      "Shmuel vs. Sages",
+      "Shemaya Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rav Yehuda/Shmuel's report of the Rabbis' disagreement with Rabbi Yosi and the question of whether Shmuel personally holds Rabbi Yosi's position \u2014 exactly the content described in the 'Fetus Title' prose, which discusses the chachamim's counter-position and closes by noting the gemara asks whether Shmuel personally agrees with Rabbi Yosi.",
+      "chosen_heading": "Fetus Title",
+      "current_heading": "Fetus Title",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Shemaya Testimony",
+    "candidates": [
+      "Shmuel's Rule",
+      "Shmuel vs. Sages",
+      "Shemaya Testimony",
+      "Sons Present",
+      "Only Pregnancy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Zakkai's testimony about Rabbi Yosi transmitting from Shemaya and Avtalyon, and Rav Ashi's clarification that 'hodu lo' means acknowledged rather than formally accepted \u2014 precisely what the 'Shemaya Testimony' section prose describes.",
+      "chosen_heading": "Shemaya Testimony",
+      "current_heading": "Shemaya Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Only Pregnancy",
+    "candidates": [
+      "Sons Present",
+      "Only Pregnancy",
+      "Sons & Pregnancy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers all three cases (sons present, pregnancy only, and sons+pregnancy) as a single unit, and the first heading 'Sons Present' is where this comprehensive baraita should be introduced, with the subsequent headings providing prose commentary on the later cases \u2014 the baraita itself belongs under the first heading where it begins.",
+      "chosen_heading": "Sons Present",
+      "current_heading": "Only Pregnancy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Sons & Pregnancy",
+    "candidates": [
+      "Only Pregnancy",
+      "Sons & Pregnancy",
+      "Daughter vs. Son",
+      "Shimon View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Daughter vs. Son",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss Rabbi Yishmael son of Rabbi Yosi's position (daughter enables, son does not) and Rabbi Shimon ben Yo\u1e25ai's position with the Gemara's analysis of his reasoning \u2014 exactly what candidate 2 ('Daughter vs. Son') describes, including the unpacking of Rabbi Yishmael's report and the challenge/answer about Rabbi Shimon's dual reasoning.",
+      "second_heading": "Shimon View",
+      "second_confidence": "high",
+      "second_reason": "Item 3 begins the Gemara's challenge to the first clause of Rabbi Shimon's statement (males eat \u2014 but what about the fetus?), which is precisely the continuation of Rabbi Shimon's view that candidate 3 ('Shimon View') describes as extending into analysis of his position.",
+      "current_heading": "Sons & Pregnancy",
+      "moved": true
+    }
+  }
+]

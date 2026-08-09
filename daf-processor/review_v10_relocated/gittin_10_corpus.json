@@ -1,0 +1,317 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Non-Jewish Courts",
+    "candidates": [
+      "Intro & Baraita",
+      "Befanai Requirement",
+      "Samaritan Witnesses",
+      "Non-Jewish Courts",
+      "Rabbi Meir Retraction",
+      "Zachin Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both the third point (documents from non-Jewish courts valid except for get and shtar shichrur) and Rabbi Meir's fourth point, and the prose under heading 3 ('Non-Jewish Courts') explicitly discusses both the arkaot rule and introduces Rabbi Meir's fourth comparison, making it the correct current placement.",
+      "chosen_heading": "Non-Jewish Courts",
+      "current_heading": "Non-Jewish Courts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Zachin Dispute",
+    "candidates": [
+      "Rabbi Meir Retraction",
+      "Zachin Dispute",
+      "Stencil Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks exactly the question discussed in the 'Zachin Dispute' prose \u2014 bishlama l'rabbanan minyana l'matuhei Rabbi Meir, but what does Rabbi Meir's number exclude \u2014 which is precisely what that section's prose explains.",
+      "chosen_heading": "Zachin Dispute",
+      "current_heading": "Zachin Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Stencil Method",
+    "candidates": [
+      "Stencil Method",
+      "Get Nashim Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the stencil method for witnesses who cannot sign, which is precisely what the 'Stencil Method' section's prose discusses.",
+      "chosen_heading": "Stencil Method",
+      "current_heading": "Stencil Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Get Nashim Leniency",
+    "candidates": [
+      "Get Nashim Leniency",
+      "Cannot Read/Sign"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabban Shimon ben Gamliel's statement distinguishing the get leniency from manumission and other documents, which is precisely what the 'Get Nashim Leniency' prose discusses in detail.",
+      "chosen_heading": "Get Nashim Leniency",
+      "current_heading": "Get Nashim Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Cannot Read/Sign",
+    "candidates": [
+      "Cannot Read/Sign",
+      "Ed Mipi Ed Issue",
+      "Post-Mortem Invalidity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's question about reading (*kriya man dachar shemei*) and the answer that the baraita is incomplete (*chisura mechsara*), which is precisely what the 'Cannot Read/Sign' section's prose describes.",
+      "chosen_heading": "Cannot Read/Sign",
+      "current_heading": "Cannot Read/Sign",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Post-Mortem Invalidity",
+    "candidates": [
+      "Ed Mipi Ed Issue",
+      "Post-Mortem Invalidity",
+      "Shechiv Merah Property",
+      "Living Principal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the gemara's question about additional cases where get and shtar shichrur are equal, specifically the post-mortem invalidity rule, which is exactly what the 'Post-Mortem Invalidity' prose describes \u2014 the v'tu lika challenge and the answer that the baraita only lists matters not applicable to ordinary documents.",
+      "chosen_heading": "Post-Mortem Invalidity",
+      "current_heading": "Post-Mortem Invalidity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Living Principal",
+    "candidates": [
+      "Shechiv Merah Property",
+      "Living Principal",
+      "Shtar vs Property",
+      "Rabbinic Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage establishes that when a shechiv merah specifies transfer via a shtar, the document cannot be written after death \u2014 which is precisely the principle that 'Shtar vs Property' discusses as a general rule applying to all shtarot, explaining why it is not listed as a distinction unique to get and shtar shichrur.",
+      "chosen_heading": "Shtar vs Property",
+      "current_heading": "Living Principal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Rabbinic Only",
+    "candidates": [
+      "Shtar vs Property",
+      "Rabbinic Only",
+      "Court Challenge",
+      "Eidei Mesira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items address exactly what candidate 1 ('Rabbinic Only') discusses: the gemara's questions about why lishmah and mechubar are omitted from the baraita's list, and the answer that the baraita only lists rabbinic disqualifications.",
+      "chosen_heading": "Rabbinic Only",
+      "current_heading": "Rabbinic Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Eidei Mesira",
+    "candidates": [
+      "Court Challenge",
+      "Eidei Mesira",
+      "Rabbi Shimon Agrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the challenge about gentile courts (matching 'Court Challenge' prose exactly) and the Eidei Mesira answer, but since it is a single item that must go under one heading, and the 'Court Challenge' prose explicitly states it includes both the challenge and anticipates the answer ('How can the list be limited to rabbinic matters if this case is included?'), while 'Eidei Mesira' prose separately elaborates on the answer \u2014 however, the passage as a unit (challenge + answer) most naturally belongs under 'Court Challenge' which frames the question that this passage resolves, and 'Eidei Mesira' is meant to stand as the elaborated answer prose without the quoted text repeating it.",
+      "chosen_heading": "Court Challenge",
+      "current_heading": "Eidei Mesira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Rabbi Shimon Agrees",
+    "candidates": [
+      "Eidei Mesira",
+      "Rabbi Shimon Agrees",
+      "Unique to Get",
+      "Chazara Question",
+      "Two-Sided vs One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Rabbi Shimon / tanna kamma debate resolved by 'shemot muvhakin,' which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Rabbi Shimon Agrees",
+      "current_heading": "Rabbi Shimon Agrees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Two-Sided vs One",
+    "candidates": [
+      "Unique to Get",
+      "Chazara Question",
+      "Two-Sided vs One",
+      "Mishna Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the challenge that chazara is biblical, the gemara's new principle of 'unique to kiddushin,' and the challenge/resolution about chazara applying to kiddushin too \u2014 are explicitly discussed in candidate 0's prose, which covers exactly this sequence of argument.",
+      "chosen_heading": "Unique to Get",
+      "current_heading": "Two-Sided vs One",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Mishna Rule",
+    "candidates": [
+      "Two-Sided vs One",
+      "Mishna Rule",
+      "Tanaic Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 1's prose describes: the mishna's rule about Samaritan witnesses on documents, the gemara's question about whose opinion it reflects, the rejection of the tanna kamma/Rabbi Elazar/Rabban Shimon ben Gamliel attributions, and the resolution involving a Jew signing last and Rav Pappa's ruling that get witnesses must sign together.",
+      "chosen_heading": "Mishna Rule",
+      "current_heading": "Mishna Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Tanaic Debate",
+    "candidates": [
+      "Tanaic Debate",
+      "Opinion ID",
+      "One Witness Puzzle",
+      "Validation Theory",
+      "Validation Problem",
+      "Mutual Presence",
+      "Kulchem Fraud",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's analysis of Rabbi Elazar's statement that only one Samaritan witness is valid \u2014 precisely the content described in the 'Validation Theory' prose, which opens with 'Rav Elazar resolves the puzzle about one witness: lo hechshiru bo ela ed echad Kuti bilvad.'",
+      "chosen_heading": "Validation Theory",
+      "current_heading": "Tanaic Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Conclusion",
+    "candidates": [
+      "Opinion ID",
+      "One Witness Puzzle",
+      "Validation Theory",
+      "Validation Problem",
+      "Mutual Presence",
+      "Kulchem Fraud",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items \u2014 Abaye's reading of the Rabban Gamliel incident as involving one Samaritan witness and Rava's counter that it indeed involved two with Rabban Gamliel disagreeing \u2014 are precisely the content described in the 'Conclusion' prose section, which explicitly references 'Amar Abaye tani eido' and 'Rava amar le-olam terei' and 'Rabban Gamliel miflag palig'.",
+      "chosen_heading": "Conclusion",
+      "current_heading": "Conclusion",
+      "moved": false
+    }
+  }
+]

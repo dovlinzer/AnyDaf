@@ -1,0 +1,367 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Rav Ika's Claim",
+      "Abaye's Challenge",
+      "Ten Tribes Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Rav Ika's initial claim AND Abaye's challenge AND the verification with Rav \u1e24ananel as one continuous episode, but heading 0 ('Rav Ika's Claim') introduces this entire sugya as a unit and its prose explicitly notes 'the Gemara immediately scrutinizes it,' while heading 1's prose already narrates the full content of this passage in detail \u2014 however, since the passage is a single unified text item covering the whole episode from Rav Ika's statement through the resolution with Rav \u1e24ananel, and heading 0 frames the opening of this sugya, the passage most naturally belongs under heading 0 as the complete episode it introduces.",
+      "chosen_heading": "Rav Ika's Claim",
+      "current_heading": "Abaye's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Ten Tribes Connection",
+    "candidates": [
+      "Ten Tribes Connection",
+      "Border Cities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi Abba bar Kahana's identification of the Ten Tribes' exile locations and the subsequent discussion of Nihavnad's neighboring towns (Mushekhei, \u1e24osekei, Rumekei) and their flawed lineage status, which is precisely what the 'Ten Tribes Connection' prose discusses in detail.",
+      "chosen_heading": "Ten Tribes Connection",
+      "current_heading": "Ten Tribes Connection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Border Cities",
+    "candidates": [
+      "Border Cities",
+      "Humanya",
+      "Misgarya",
+      "Birka",
+      "Birta deSatya",
+      "Akra de-Agma",
+      "Succession of Tzadikim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Daniel verse about three ribs interpreted as border cities, the bear-like beast identified as Persians, and Rabbi Yehuda HaNasi's conversation with Levi about Persians/\u1e24abbarin/Ishmaelites/Torah scholars \u2014 are explicitly discussed together in the 'Border Cities' prose, which covers all of this material in sequence.",
+      "chosen_heading": "Border Cities",
+      "current_heading": "Border Cities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Succession of Tzadikim",
+    "candidates": [
+      "Humanya",
+      "Misgarya",
+      "Birka",
+      "Birta deSatya",
+      "Akra de-Agma",
+      "Succession of Tzadikim",
+      "Good Version"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Humanya",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the complete deathbed prophecy about all Babylonian cities (Homanya, Misgarya, Birka, Birta deSatya, Akra de-Agma) which the essay author distributed across candidates 0-4, making candidate 0 (Humanya) the natural home for this source block.",
+      "second_heading": "Succession of Tzadikim",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 cover Adda bar Ahava's birth/circumcision, Rav Yehuda's birth, the tzadikim succession chain, and the Homanya-Pum Nahara verse \u2014 precisely the content described in candidate 5's prose.",
+      "current_heading": "Succession of Tzadikim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Good Version",
+    "candidates": [
+      "Good Version",
+      "Bad Version"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the 'good' interpretation of Pelatiah ben Benaiah's death \u2014 the governor of Meishan story and Pelatiah's intervention to keep Jews in Babylon \u2014 which matches exactly the prose under heading 0 ('Good Version').",
+      "chosen_heading": "Good Version",
+      "current_heading": "Good Version",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Bad Version",
+    "candidates": [
+      "Bad Version",
+      "Shmuel's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the negative interpretation of Pelatya's actions using the Ezekiel passages about the twenty-five men exposing themselves toward the Temple, which is exactly what the 'Bad Version' prose discusses in detail.",
+      "chosen_heading": "Bad Version",
+      "current_heading": "Bad Version",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Shmuel's Position",
+    "candidates": [
+      "Shmuel's Position",
+      "Rabbi Meir's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Gemara discussion about Shmuel's position \u2014 item 1 proposes concluding Shmuel holds the negative view, and item 2 rejects that and shows Shmuel can consistently hold the positive view via his principle about renounced slaves \u2014 exactly matching the prose of candidate 0.",
+      "chosen_heading": "Shmuel's Position",
+      "current_heading": "Shmuel's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rabbi Meir's Position",
+    "candidates": [
+      "Rabbi Meir's Position",
+      "Chachamim's View",
+      "Amemar vs. Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Yehuda in Shmuel's name attributing the mishna's framework to Rabbi Meir, which is exactly what the 'Rabbi Meir's Position' prose discusses, while the Chachamim's counter-position is a separate clause better handled under its own heading.",
+      "chosen_heading": "Rabbi Meir's Position",
+      "current_heading": "Rabbi Meir's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Amemar vs. Rav Ashi",
+    "candidates": [
+      "Chachamim's View",
+      "Amemar vs. Rav Ashi",
+      "Version Disputes",
+      "Rabbi Yosi's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Ameimar permitting Rav Huna bar Natan to marry a woman from Me\u1e25oza and Rav Ashi's challenge based on the school traditions, which is precisely what the 'Amemar vs. Rav Ashi' section's prose discusses, including the *mah da'atach* challenge and the houses of Rav Kahana, Rav Pappa, and Rav Zevid not transmitting the tradition as a dispute.",
+      "chosen_heading": "Amemar vs. Rav Ashi",
+      "current_heading": "Amemar vs. Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Rabbi Yosi's View",
+    "candidates": [
+      "Version Disputes",
+      "Rabbi Yosi's View",
+      "Rabbi Meir's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita debate between Rabbi Yosi and Rabbi Meir about mamzerim becoming pure in the future, which directly corresponds to the 'Rabbi Yosi's View' section's prose discussing this exact baraita and Rabbi Yosi's position with the Ezekiel prooftext.",
+      "chosen_heading": "Rabbi Yosi's View",
+      "current_heading": "Rabbi Yosi's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Rabbi Meir's Response",
+    "candidates": [
+      "Rabbi Meir's Response",
+      "Yechezkel's Vision",
+      "Halacha K'Rabbi Yosi",
+      "Rav Yosef's Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara text about Rabbi Meir vs. Rabbi Yosi regarding 've-yashav mamzer be-Ashdod' and Rav Yosef's targum, which is precisely what the prose in candidate 0 ('Rabbi Meir's Response') discusses in detail.",
+      "chosen_heading": "Rabbi Meir's Response",
+      "current_heading": "Rabbi Meir's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rav Yosef's Statement",
+    "candidates": [
+      "Yechezkel's Vision",
+      "Halacha K'Rabbi Yosi",
+      "Rav Yosef's Statement",
+      "Ger and Mamzeret",
+      "Chamisha Kahale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the ruling 'halacha k'Rabbi Yosi' from Rav Yehuda/Shmuel AND Rav Yosef's follow-up statement, but the heading 'Halacha K'Rabbi Yosi' (index 1) has prose that discusses both components together as a unit, while the current placement under 'Rav Yosef's Statement' (index 2) splits the single Talmudic excerpt artificially \u2014 the passage is one continuous sugya and belongs under the heading whose prose explicitly addresses the combined ruling and its implications.",
+      "chosen_heading": "Halacha K'Rabbi Yosi",
+      "current_heading": "Rav Yosef's Statement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Chamisha Kahale",
+    "candidates": [
+      "Ger and Mamzeret",
+      "Chamisha Kahale",
+      "Vadai vs. Safek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about a ger marrying a mamzeret (Rabbi Yosei vs. Rabbi Yehuda) and only begins the question about Rabbi Yosei's reason, which matches the 'Ger and Mamzeret' prose that discusses exactly this dispute and its basis in 'lo yavo mamzer bi-khal Hashem'; the 'Chamisha Kahale' section is where the answer to that question is elaborated, but the passage itself belongs under the heading that introduces the dispute.",
+      "chosen_heading": "Ger and Mamzeret",
+      "current_heading": "Chamisha Kahale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Vadai vs. Safek",
+    "candidates": [
+      "Chamisha Kahale",
+      "Vadai vs. Safek",
+      "Gerim Outside Kahal",
+      "One Law Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the interpretation of the five occurrences of 'kahal' \u2014 assigning them to kohanim, leviyim, yisraelim, mamzer/shtuki, and shtuki/yisrael permissibility, plus the congregation of converts \u2014 which is precisely what the 'Chamisha Kahale' section's prose describes.",
+      "chosen_heading": "Chamisha Kahale",
+      "current_heading": "Vadai vs. Safek",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "One Law Argument",
+    "candidates": [
+      "Gerim Outside Kahal",
+      "One Law Argument",
+      "Marriage to Kohenet",
+      "Women's Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents both Rabbi Yehuda's argument from 'ha-kahal chuka achat lachem v'la-ger ha-gar' and Rabbi Yosi's rebuttal that 'chuka achat hefsik ha-inyan,' which is exactly what the 'One Law Argument' prose section describes.",
+      "chosen_heading": "One Law Argument",
+      "current_heading": "One Law Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Women's Status",
+    "candidates": [
+      "Marriage to Kohenet",
+      "Women's Status",
+      "Zeira Stoned",
+      "Rava's Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the rule that a ger, emancipated slave, and chalal are permitted to marry a kohenet and supports Rav's position \u2014 content that directly matches the 'Marriage to Kohenet' section's prose, which covers exactly this Tosefta statement and the same Rav ruling about kesherot not being restricted.",
+      "chosen_heading": "Marriage to Kohenet",
+      "current_heading": "Women's Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Rava's Strategy",
+    "candidates": [
+      "Zeira Stoned",
+      "Rava's Strategy",
+      "Final Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Zeira's stoning incident and Rava's strategic reframing in Me\u1e25oza, but the bulk of the text (Rava's two-step teaching, the silk garments, the community's objection, and Rava's reply about expanding options) maps directly to candidate 1's prose about Rava's pedagogical strategy, and candidate 0 covers only the Zeira portion while the full passage belongs under the heading that discusses the complete episode including Rava's response.",
+      "chosen_heading": "Rava's Strategy",
+      "current_heading": "Rava's Strategy",
+      "moved": false
+    }
+  }
+]

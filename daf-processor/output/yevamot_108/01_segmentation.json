@@ -116,7 +116,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Scope and contexts of valid miun: when utterance counts despite unusual circumstances",
@@ -265,7 +265,7 @@
           "timestamp": "53:19"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 23,
       "matched": true
     }
   ],
@@ -543,5 +543,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "44:47",
+  "amud_b_micro_title": "Get After Miun",
+  "shiur_start_daf": 108,
+  "shiur_start_amud": "a"
 }

@@ -24,7 +24,7 @@
           "timestamp": "04:06"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -120,7 +120,7 @@
           "timestamp": "35:36"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 28,
       "matched": true
     },
     {
@@ -526,5 +526,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "05:59",
+  "amud_b_micro_title": "Shammai's Logic",
+  "shiur_start_daf": 22,
+  "shiur_start_amud": "a"
 }

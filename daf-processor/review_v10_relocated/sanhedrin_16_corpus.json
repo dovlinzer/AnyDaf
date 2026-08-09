@@ -1,0 +1,505 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Reish Lakish Position",
+    "candidates": [
+      "Opening & Context",
+      "R. Eliezer Opinion",
+      "Reish Lakish Position",
+      "R. Yochanan Position",
+      "Merit Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents both Reish Lakish's and Rabbi Yochanan's positions together, but the current placement under 'Reish Lakish Position' is appropriate since the prose there explicitly discusses both views as part of explaining Reish Lakish's qualification, and the Gemara text itself presents them as a paired dispute \u2014 the current heading's prose covers both opinions in context.",
+      "chosen_heading": "Reish Lakish Position",
+      "current_heading": "Reish Lakish Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Merit Explained",
+    "candidates": [
+      "R. Yochanan Position",
+      "Merit Explained",
+      "Tanya & Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses what Rabbi Eliezer's term 'zachah' means according to each of Rabbi Yochanan and Reish Lakish, which is precisely what the 'Merit Explained' section's prose addresses.",
+      "chosen_heading": "Merit Explained",
+      "current_heading": "Merit Explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Tanya & Reish Lakish",
+    "candidates": [
+      "Tanya & Reish Lakish",
+      "R. Akiva & Beis Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita supporting Reish Lakish's position and Rabbi Eliezer's statement about 'zachah lishmaya,' which is precisely what the prose under 'Tanya & Reish Lakish' describes.",
+      "chosen_heading": "Tanya & Reish Lakish",
+      "current_heading": "Tanya & Reish Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "R. Akiva & Beis Din",
+    "candidates": [
+      "R. Akiva & Beis Din",
+      "Shevet Intro",
+      "Tribe's Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Akiva's position versus the first tanna and the difference regarding a snake, which is precisely what the prose under 'R. Akiva & Beis Din' addresses.",
+      "chosen_heading": "R. Akiva & Beis Din",
+      "current_heading": "R. Akiva & Beis Din",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Tribe's Sin",
+    "candidates": [
+      "Shevet Intro",
+      "Tribe's Sin",
+      "Ir Hanidachas Model",
+      "City Size Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of what sin the tribe committed, discusses chilul Shabbat, the Torah's distinction between individuals and multitudes specifically for avoda zara, and concludes it must be a tribe that was subverted into idolatry \u2014 exactly what Candidate 1's prose describes.",
+      "chosen_heading": "Tribe's Sin",
+      "current_heading": "Tribe's Sin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "City Size Debate",
+    "candidates": [
+      "Ir Hanidachas Model",
+      "City Size Debate",
+      "Rav Masnah Answer",
+      "Moses as Source",
+      "Ulla: Boundaries"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ir Hanidachas Model",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the ir hanidachas size debate (Rabbi Yoshiya/Yonatan baraisa) and conclude that even Rabbi Yonatan's model cannot apply to an entire tribe \u2014 exactly what candidate 0's prose describes as demonstrating the ir hanidachas framework is legally impossible for a whole tribe.",
+      "second_heading": "Rav Masnah Answer",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Rav Mattana's answer that the Mishnah deals with the nasi of a tribe, supported by Rav Adda bar Ahava's principle about 'great matters' \u2014 precisely what candidate 2's prose describes as Rav Masnah's first answer.",
+      "current_heading": "City Size Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Ulla: Boundaries",
+    "candidates": [
+      "Rav Masnah Answer",
+      "Moses as Source",
+      "Ulla: Boundaries",
+      "Ravina Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are Ulla/Rabbi Elazar's answer about boundary disputes and the Gemara's rejection of it in favor of Rav Mattana, which exactly matches the 'Ulla: Boundaries' section's prose describing the argument and its rebuttal.",
+      "chosen_heading": "Ulla: Boundaries",
+      "current_heading": "Ulla: Boundaries",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Ravina Answer",
+    "candidates": [
+      "Ravina Answer",
+      "R. Chama Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's answer about a subverted tribe being judged by a court of the multitude even though executed as individuals, which directly matches the prose in candidate 0 ('Ravina Answer').",
+      "chosen_heading": "Ravina Answer",
+      "current_heading": "Ravina Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "R. Chama Source",
+    "candidates": [
+      "R. Chama Source",
+      "Navi Intro",
+      "Hazada Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rabbi \u1e24ama/Rabbi Oshaya teaching about taking individuals vs. an entire city or tribe to one's gates, which is precisely what the prose of 'R. Chama Source' describes and analyzes.",
+      "chosen_heading": "R. Chama Source",
+      "current_heading": "R. Chama Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Hazada Problem",
+    "candidates": [
+      "Navi Intro",
+      "Hazada Problem",
+      "Gezeirah Shavah",
+      "No Reverse Link",
+      "Zakein Irony",
+      "KG Intro",
+      "Yitro Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together form the complete Gemara discussion on the source for judging a false prophet by seventy-one \u2014 the initial question, Rabbi Yosei's gezeirah shavah, Reish Lakish's alternative, and the final objection/answer \u2014 which is precisely what the 'Navi Intro' prose describes as the Gemara seeking the scriptural basis for this ruling, while the current placement under 'Hazada Problem' only covers part of the discussion.",
+      "chosen_heading": "Navi Intro",
+      "current_heading": "Hazada Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Yitro Source",
+    "candidates": [
+      "Gezeirah Shavah",
+      "No Reverse Link",
+      "Zakein Irony",
+      "KG Intro",
+      "Yitro Source",
+      "Gadol vs. Kashe",
+      "Two Concepts"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "KG Intro",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the source for the High Priest being judged by seventy-one via Rav Adda bar Ahava's derivation from 'every great matter,' which matches the 'KG Intro' prose describing exactly this scriptural question and the Yitro verse answer.",
+      "second_heading": "Gadol vs. Kashe",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita challenge asking whether 'davar gadol' means a difficult matter or matters of a great personage, which corresponds precisely to the 'Gadol vs. Kashe' prose describing that exact baraita and its question.",
+      "current_heading": "Yitro Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Two Concepts",
+    "candidates": [
+      "Gadol vs. Kashe",
+      "Two Concepts",
+      "Abaye: Monetary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern the resolution that 'gadol' and 'kashe' convey two distinct concepts (shema mina tartei), which is precisely what the 'Two Concepts' prose describes \u2014 the baraita appeal, the lexical variation argument, and the conclusion that both terms are intentionally different to teach two separate principles.",
+      "chosen_heading": "Two Concepts",
+      "current_heading": "Two Concepts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Abaye: Monetary",
+    "candidates": [
+      "Abaye: Monetary",
+      "Open Questions",
+      "War Intro",
+      "Joshua & Urim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi Elazar's question about the ox of the High Priest and Abaye's response that monetary matters are obviously not requiring seventy-one judges, which is precisely what the 'Abaye: Monetary' prose describes.",
+      "chosen_heading": "Abaye: Monetary",
+      "current_heading": "Abaye: Monetary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Joshua & Urim",
+    "candidates": [
+      "Open Questions",
+      "War Intro",
+      "Joshua & Urim",
+      "Verse Parsing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Abbahu's derivation from the verse about Joshua and Elazar, which is exactly what the 'Joshua & Urim' section's prose describes.",
+      "chosen_heading": "Joshua & Urim",
+      "current_heading": "Joshua & Urim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Verse Parsing",
+    "candidates": [
+      "Verse Parsing",
+      "Urim Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage parses 'he,' 'all the children of Israel with him,' and 'all the congregation' to identify the king, anointed-for-war priest, and Sanhedrin respectively, which directly matches the 'Verse Parsing' section's prose about identifying each component required for milchemet reshut.",
+      "chosen_heading": "Verse Parsing",
+      "current_heading": "Verse Parsing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Urim Authority",
+    "candidates": [
+      "Urim Authority",
+      "David Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge that the verse may only be about who has standing to consult the Urim VeTummim rather than a requirement for Sanhedrin approval for war, which matches exactly the prose of 'Urim Authority' describing this alternative reading that the Gemara then sets aside.",
+      "chosen_heading": "Urim Authority",
+      "current_heading": "Urim Authority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "David Story",
+    "candidates": [
+      "David Story",
+      "David Breakdown"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the David/kinor midrash \u2014 the lyre story, the sustenance dialogue, and the consultation with Ahithophel/Sanhedrin/Urim VeTummim \u2014 which is precisely the content described in the 'David Story' prose, ending with 'Rav Yosef presses the question: mai kra?' that transitions to the 'David Breakdown' section.",
+      "chosen_heading": "David Story",
+      "current_heading": "David Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "David Breakdown",
+    "candidates": [
+      "David Breakdown",
+      "Kereti & Peleti",
+      "David's Harp"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "David Breakdown",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the verse breakdown mapping Ahithophel\u2192advisor, Benayahu\u2192Sanhedrin, Evyatar\u2192Urim VeTummim, which is exactly what candidate 0 ('David Breakdown') describes.",
+      "second_heading": "Kereti & Peleti",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains why the Sanhedrin is called Kereti and Peleti, which is precisely what candidate 1 ('Kereti & Peleti') discusses in its prose.",
+      "current_heading": "David Breakdown",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "David's Harp",
+    "candidates": [
+      "Kereti & Peleti",
+      "David's Harp",
+      "City Walls",
+      "Mosaic Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about the verse supporting David's lyre waking him at midnight, which directly matches the 'David's Harp' section prose discussing this exact scriptural basis.",
+      "chosen_heading": "David's Harp",
+      "current_heading": "David's Harp",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Mosaic Model",
+    "candidates": [
+      "City Walls",
+      "Mosaic Model",
+      "Mishkan Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with the mishna's rule about not extending the city and asks for its derivation \u2014 this is the 'City Walls' section's content \u2014 and Rav Shimi's answer citing the verse is the direct response to that question, so both belong together under 'City Walls' rather than being split off into 'Mosaic Model'.",
+      "chosen_heading": "City Walls",
+      "current_heading": "Mosaic Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Mishkan Vessels",
+    "candidates": [
+      "Mosaic Model",
+      "Mishkan Vessels",
+      "Vessel Sanctification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's objection from the baraita about vessel consecration through anointment vs. use, which is precisely what the 'Mishkan Vessels' section's prose describes and discusses.",
+      "chosen_heading": "Mishkan Vessels",
+      "current_heading": "Mishkan Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Vessel Sanctification",
+    "candidates": [
+      "Vessel Sanctification",
+      "Judges Mitzvah",
+      "Police Force",
+      "Tribal & City Courts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the exact same topic \u2014 vessel sanctification through anointment vs. service, and the role of the word 'otam' \u2014 which is precisely what the 'Vessel Sanctification' prose describes in detail.",
+      "chosen_heading": "Vessel Sanctification",
+      "current_heading": "Vessel Sanctification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134,
+      135
+    ],
+    "current_heading": "Tribal & City Courts",
+    "candidates": [
+      "Judges Mitzvah",
+      "Police Force",
+      "Tribal & City Courts",
+      "R. Yehudah Head",
+      "RSbG Tribal Authority"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Judges Mitzvah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about appointing a lesser Sanhedrin via Moses as precedent (a separate Gemara derivation), while items 2-3 are the baraita deriving the obligation to appoint judges, officers, tribal courts, and city courts from Deuteronomy 16:18 \u2014 which is exactly what candidates 0-4 discuss in sequence.",
+      "second_heading": "Tribal & City Courts",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 contain the full baraita text covering judges and officers for each tribe and city, plus Rabbi Yehuda and Rabban Shimon ben Gamliel's opinions, which maps directly to the 'Tribal & City Courts' section prose that quotes these very derivations.",
+      "current_heading": "Tribal & City Courts",
+      "moved": true
+    }
+  }
+]

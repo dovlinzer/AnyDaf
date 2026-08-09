@@ -148,7 +148,7 @@
           "timestamp": "31:25"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -186,7 +186,7 @@
           "timestamp": "37:41"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -511,5 +511,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "37:41",
+  "amud_b_micro_title": "Only R. Eliezer",
+  "shiur_start_daf": 22,
+  "shiur_start_amud": "b"
 }

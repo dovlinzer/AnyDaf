@@ -1,0 +1,360 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Zachor Zachor Source",
+    "candidates": [
+      "Zachor Zachor Source",
+      "Pirsumei Nisa & Ritual",
+      "Hebrew Scroll/Reading",
+      "Two Translation Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Rava gezeirah shavah derivation and the subsequent baraita proving that zachor means oral recitation, which is precisely what the 'Zachor Zachor Source' prose describes in full detail.",
+      "chosen_heading": "Zachor Zachor Source",
+      "current_heading": "Zachor Zachor Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Two Translation Cases",
+    "candidates": [
+      "Pirsumei Nisa & Ritual",
+      "Hebrew Scroll/Reading",
+      "Two Translation Cases",
+      "Rav & Shmuel Greek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of reading the Megilla in Aramaic translation, specifically the *heichi dami* question and the resolution that it refers to a scroll written in translation and read in translation \u2014 exactly what the 'Two Translation Cases' prose describes.",
+      "chosen_heading": "Two Translation Cases",
+      "current_heading": "Two Translation Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Rav & Shmuel Greek",
+    "candidates": [
+      "Rav & Shmuel Greek",
+      "Loazim Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav and Shmuel's Greek-only ruling, the clarification by Rabbi A\u1e25a/Rabbi Elazar about a scroll written in Greek, and the digression about God calling Jacob 'El' \u2014 are explicitly described and accounted for in the 'Rav & Shmuel Greek' prose, which matches the passage's content precisely.",
+      "chosen_heading": "Rav & Shmuel Greek",
+      "current_heading": "Rav & Shmuel Greek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Loazim Exception",
+    "candidates": [
+      "Loazim Exception",
+      "Greek Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita objection listing languages where one has not fulfilled the obligation, and the resolution via the parallel baraita about reading each language to its native speakers \u2014 are explicitly described and resolved in the 'Loazim Exception' prose, which directly quotes and discusses these exact baraitot.",
+      "chosen_heading": "Loazim Exception",
+      "current_heading": "Loazim Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Greek Exception",
+    "candidates": [
+      "Greek Exception",
+      "Understanding Requirement",
+      "Ravina Pirsumei Nisa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain about why Rav and Shmuel stated Greek is valid for everyone, their reliance on Rabban Shimon ben Gamliel, and why they issued an independent ruling rather than simply citing that opinion \u2014 exactly what the 'Greek Exception' prose discusses in detail.",
+      "chosen_heading": "Greek Exception",
+      "current_heading": "Greek Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Ravina Pirsumei Nisa",
+    "candidates": [
+      "Understanding Requirement",
+      "Ravina Pirsumei Nisa",
+      "Rare Hebrew Words"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address whether comprehension is required for fulfilling the Megilla obligation \u2014 the women/amei ha-aretz answer and Ravina's ha-achashteranim objection \u2014 which is precisely what the 'Ravina Pirsumei Nisa' prose section discusses in detail.",
+      "chosen_heading": "Ravina Pirsumei Nisa",
+      "current_heading": "Ravina Pirsumei Nisa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Rare Hebrew Words",
+    "candidates": [
+      "Rare Hebrew Words",
+      "Seirugin Breaks",
+      "More Vocabulary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the maidservant-of-Rabbi's-house vocabulary cases (seirugin, \u1e25alogelogot, salseleha) that candidate 0's prose explicitly describes in full detail, making it the clear home for this passage.",
+      "chosen_heading": "Rare Hebrew Words",
+      "current_heading": "Rare Hebrew Words",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "More Vocabulary",
+    "candidates": [
+      "Seirugin Breaks",
+      "More Vocabulary",
+      "Rav Mona Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are vocabulary cases (yehav and matatei) that are explicitly described in the 'More Vocabulary' prose, which discusses exactly these two examples in sequence.",
+      "chosen_heading": "More Vocabulary",
+      "current_heading": "More Vocabulary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Rav Mona Measure",
+    "candidates": [
+      "Rav Mona Measure",
+      "Rav vs. Shmuel Break"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the baraita on seirugin/seirusin, Rav Mona's rule about pausing long enough to finish the Megillah, and Abaye's clarification of that measure \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Rav Mona Measure",
+      "current_heading": "Rav Mona Measure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Rav vs. Shmuel Break",
+    "candidates": [
+      "Rav vs. Shmuel Break",
+      "Missing Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Sura/Pumbedita versions of the Rav/Shmuel dispute, Rav Yosef's instruction to follow Rav Beivai, and the proof from Shmuel's ruling like Rabbi Yehuda ben Beteira \u2014 are precisely what candidate 0's prose describes in detail, confirming this is the correct placement.",
+      "chosen_heading": "Rav vs. Shmuel Break",
+      "current_heading": "Rav vs. Shmuel Break",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Missing Text",
+    "candidates": [
+      "Missing Text",
+      "Smudged Letters",
+      "Percentage Threshold",
+      "Serussin Out of Order"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Missing Text",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about a scribe omitting letters or verses, which is exactly what the 'Missing Text' prose discusses.",
+      "second_heading": "Smudged Letters",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the objection from smudged/torn letters and its resolution, which matches the 'Smudged Letters' prose precisely.",
+      "current_heading": "Missing Text",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Serussin Out of Order",
+    "candidates": [
+      "Smudged Letters",
+      "Percentage Threshold",
+      "Serussin Out of Order",
+      "Misnamnem Drowsy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita directly discusses reading the Megilla out of order (skipping a verse or starting mid-reading), which is precisely what the 'Serussin Out of Order' section's prose describes and analyzes.",
+      "chosen_heading": "Serussin Out of Order",
+      "current_heading": "Serussin Out of Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Misnamnem Drowsy",
+    "candidates": [
+      "Misnamnem Drowsy",
+      "Copying Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines the state of 'misnamnem' (dozing), which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Misnamnem Drowsy",
+      "current_heading": "Misnamnem Drowsy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Copying Scenario",
+    "candidates": [
+      "Copying Scenario",
+      "Complete Scroll"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Copying Scenario",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the copying scenario and the question of what constitutes valid reading from written text, which matches the 'Copying Scenario' prose exactly.",
+      "second_heading": "Complete Scroll",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces Rav \u1e24ama bar Gurya's ruling that the entire Megillah must be written before reading, which matches the 'Complete Scroll' prose discussion of that exact ruling and its implication for the copying scenario.",
+      "current_heading": "Copying Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Complete Scroll",
+    "candidates": [
+      "Complete Scroll",
+      "Rabbi Meir Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the copying scenario and the Rabba bar bar \u1e24ana/Rabbi Yo\u1e25anan ruling about not writing without a written text, including the Gemara's deflection with 'de-itrami lei,' all of which are explicitly discussed in the 'Complete Scroll' prose.",
+      "chosen_heading": "Complete Scroll",
+      "current_heading": "Complete Scroll",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Rabbi Meir Exception",
+    "candidates": [
+      "Rabbi Meir Exception",
+      "She'at Hadchak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern Rabbi Meir's exceptional ability to write from memory and the verse explaining it, which is precisely what the 'Rabbi Meir Exception' section's prose discusses in detail.",
+      "chosen_heading": "Rabbi Meir Exception",
+      "current_heading": "Rabbi Meir Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "She'at Hadchak",
+    "candidates": [
+      "She'at Hadchak",
+      "Tefillin Mezuzot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav \u1e24isda finding Rav \u1e24ananel writing without a text and the resolution via 'she'at ha-dechak shani,' which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "She'at Hadchak",
+      "current_heading": "She'at Hadchak",
+      "moved": false
+    }
+  }
+]

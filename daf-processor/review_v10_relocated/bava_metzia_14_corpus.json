@@ -1,0 +1,226 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Braita Contradiction",
+    "candidates": [
+      "Mishnah Review",
+      "Chayiv Modeh",
+      "Braita Contradiction",
+      "Pira'on Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present the two-pronged refutation of Shmuel (*tiyuvta de-Shmuel be-tartei*) \u2014 the first mirroring the Rabbi Elazar contradiction and the second involving Shmuel's ruling about a shtar hakna'ah \u2014 which is exactly what the 'Braita Contradiction' prose describes.",
+      "chosen_heading": "Braita Contradiction",
+      "current_heading": "Braita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Pira'on Principle",
+    "candidates": [
+      "Pira'on Principle",
+      "Shevach, Shefer, Shibud",
+      "Shibud Explained",
+      "Achrayus Ta'us Sofer",
+      "Sale Focus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents a conclusive refutation (tiyuvta) based on the baraita's ruling that even when both parties agree the document should not be returned, demonstrating that we do suspect prior repayment (pira'on) \u2014 which is precisely what the 'Pira'on Principle' section's prose discusses.",
+      "chosen_heading": "Pira'on Principle",
+      "current_heading": "Pira'on Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Sale Focus",
+    "candidates": [
+      "Shevach, Shefer, Shibud",
+      "Shibud Explained",
+      "Achrayus Ta'us Sofer",
+      "Sale Focus",
+      "Seller's Standing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items together present Shmuel's principle that achrayus ta'us sofer applies to loan documents, the challenge from shevach/shefer/shibud, and the resolution distinguishing loans from sales \u2014 which is precisely what candidate 2 ('Achrayus Ta'us Sofer') describes as the tension the gemara is flagging, rather than candidate 3 ('Sale Focus') which describes the resolution and its elaboration.",
+      "chosen_heading": "Achrayus Ta'us Sofer",
+      "current_heading": "Sale Focus",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Seller's Standing",
+    "candidates": [
+      "Sale Focus",
+      "Seller's Standing",
+      "Standing Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's teaching about Reuven's standing to litigate when he sold with achrayus, which is precisely what the 'Seller's Standing' prose discusses in detail.",
+      "chosen_heading": "Seller's Standing",
+      "current_heading": "Seller's Standing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Standing Debate",
+    "candidates": [
+      "Standing Debate",
+      "Seller's Benefit",
+      "Retract Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the 'ika d'amrei' version stating Reuven has standing even without achrayus because he doesn't want Shimon to have a grievance against him, which is exactly what the 'Standing Debate' prose discusses.",
+      "chosen_heading": "Standing Debate",
+      "current_heading": "Standing Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Retract Rights",
+    "candidates": [
+      "Seller's Benefit",
+      "Retract Rights",
+      "Chazakah Definition",
+      "Chazakah Innovation",
+      "Insurance Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Retract Rights",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 together present the full ruling of Abaye about retracting from a sale without achrayus when asikin arise, including the 'tied sack' reasoning, which is precisely what the 'Retract Rights' prose describes.",
+      "second_heading": "Chazakah Definition",
+      "second_confidence": "high",
+      "second_reason": "The question 'From when is possession?' and its answer (walking the borders) is exactly what the 'Chazakah Definition' prose discusses \u2014 eimatai havei chazakah and miki deish amtzarei.",
+      "current_heading": "Retract Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Insurance Exception",
+    "candidates": [
+      "Chazakah Definition",
+      "Chazakah Innovation",
+      "Insurance Exception",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the 've-ika d'amrei' opinion that even with achrayus the buyer cannot retract until showing documentation of actual seizure, which is precisely what the 'Insurance Exception' section's prose describes.",
+      "chosen_heading": "Insurance Exception",
+      "current_heading": "Insurance Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Mechzi K'Ribis",
+      "Rav Nachman Rules",
+      "Tikun Ha-Olam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Rav/Shmuel dispute, the question posed to Rav Huna about explicit stipulation, and Rav Na\u1e25man's ruling in Shmuel's name \u2014 are explicitly discussed together in the 'Rav vs. Shmuel' prose, which covers all of these elements in sequence, including the mechzi ke-ribis concern and the Rav Huna dilemma, while the separate 'Rav Nachman Rules' section covers only item 3's content redundantly but less comprehensively than the current placement.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Tikun Ha-Olam",
+    "candidates": [
+      "Mechzi K'Ribis",
+      "Rav Nachman Rules",
+      "Tikun Ha-Olam",
+      "Peirot & Shevach",
+      "Seizure Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Mishnaic text (from Gittin 48b) that the Tikun Ha-Olam section's prose explicitly introduces and discusses \u2014 it is Rava's objection citing the mishna about not appropriating liened property for peiros, shevach karka'os, and mezon isha u-vanos mipnei tikkun ha-olam, which is precisely what that section's prose analyzes.",
+      "chosen_heading": "Tikun Ha-Olam",
+      "current_heading": "Tikun Ha-Olam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Seizure Distinction",
+    "candidates": [
+      "Peirot & Shevach",
+      "Seizure Distinction",
+      "Unresolved Tension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous exchange \u2014 the challenge from 'lokeach mi-gazlan,' the response 'ba'al chov,' and the counter-challenge about peiros \u2014 which is precisely the dialectic described in the 'Seizure Distinction' prose.",
+      "chosen_heading": "Seizure Distinction",
+      "current_heading": "Seizure Distinction",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,383 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Vav vs. Or Debate",
+    "candidates": [
+      "Overview & Exclusions",
+      "Vav vs. Or Debate",
+      "Or Excludes Birds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question to Rabbi Yonatan about why he needs a verse to establish that 'or' means 'or' given his standing principle, which is precisely what the 'Vav vs. Or Debate' section discusses.",
+      "chosen_heading": "Vav vs. Or Debate",
+      "current_heading": "Vav vs. Or Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Or Excludes Birds",
+    "candidates": [
+      "Or Excludes Birds",
+      "Toda Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss why each tanna (Rabbi Yoshiya and Rabbi Yonatan) needs a verse to clarify that cattle and sheep are alternatives rather than joint requirements, which matches exactly the 'Or Excludes Birds' prose about the conditional structure of the verses and why each authority needs the word *o*.",
+      "chosen_heading": "Or Excludes Birds",
+      "current_heading": "Or Excludes Birds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Toda Exception",
+    "candidates": [
+      "Toda Exception",
+      "Nazir Comparison"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Toda Exception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses why the word 'or' is needed to include the toda despite it being a zevach \u2014 because one might think its bread replaces nesachim \u2014 which is precisely what heading 0 ('Toda Exception') describes.",
+      "second_heading": "Nazir Comparison",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the challenge from the nazirite's ram (which also has bread yet requires nesachim), which is exactly the content described in heading 1 ('Nazir Comparison').",
+      "current_heading": "Toda Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Nazir Comparison",
+    "candidates": [
+      "Nazir Comparison",
+      "Klal U'Frat Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nazir Comparison",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's answer about why the two-type vs. four-type bread distinction matters, which is precisely what Candidate 0 ('Nazir Comparison') describes as the response explaining that four types of bread might be thought to replace nesachim.",
+      "second_heading": "Klal U'Frat Analysis",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens a new Gemara challenge about why the word 'olah' is needed alongside 'lepale neder o nedavah,' which is exactly the question that Candidate 1 ('Klal U'Frat Analysis') addresses in its prose.",
+      "current_heading": "Nazir Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Klal U'Frat Analysis",
+    "candidates": [
+      "Klal U'Frat Analysis",
+      "Or #1: Neder/Nedavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items deal precisely with the klal u'frat ukhlal analysis, the role of the word 'olah' in narrowing and then expanding the nesachim obligation, and the derivative cases (vlad kodashim, tmura, surplus olah, pastured asham, shelo lishman) \u2014 exactly what the prose of candidate 0 describes.",
+      "chosen_heading": "Klal U'Frat Analysis",
+      "current_heading": "Klal U'Frat Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Or #1: Neder/Nedavah",
+    "candidates": [
+      "Or #1: Neder/Nedavah",
+      "Or #2: Different Types",
+      "Or #3: Each Separate",
+      "No Grouping Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Or #1: Neder/Nedavah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly address the o in lepale neder o nedavah and the Rabbi Yoshiya/Yonatan distinction, matching the prose of heading 0 exactly.",
+      "second_heading": "Or #2: Different Types",
+      "second_confidence": "medium",
+      "second_reason": "Items 3-10 address successive 'or' words dealing with grouping scenarios (same type, same commitment, same species), beginning with 'or on your Festivals' and progressing through the chain that heading 1's prose describes as the o in ben bakar o zavach teaching that same-category offerings still cannot share nesachim.",
+      "current_heading": "Or #1: Neder/Nedavah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "No Grouping Rule",
+    "candidates": [
+      "Or #2: Different Types",
+      "Or #3: Each Separate",
+      "No Grouping Rule",
+      "Three Esronim Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the closing verse 'kacha ta'asu le'echad' and its teaching that simultaneous offerings cannot share a single set of nesachim, which is precisely what the 'No Grouping Rule' prose describes as the final point in that section.",
+      "chosen_heading": "No Grouping Rule",
+      "current_heading": "No Grouping Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Three Esronim Source",
+    "candidates": [
+      "Three Esronim Source",
+      "Wine Inclusion",
+      "Why Not Nazir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous baraita deriving that the metzora's chatas and asham require nesachim \u2014 exactly the content described in heading 0's prose, which covers both the flour (esronim) and wine derivations as one unit ending with the question of how we know wine is included.",
+      "chosen_heading": "Three Esronim Source",
+      "current_heading": "Three Esronim Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Why Not Nazir",
+    "candidates": [
+      "Wine Inclusion",
+      "Why Not Nazir",
+      "Supporting Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 9 items address exactly the question discussed in the 'Why Not Nazir' prose: why zevach cannot include both chatas and asham of the metzora together (items 1-3), why the derivation applies to metzora rather than nazir (items 4-7), and why 'olah' refers to the metzora's olah rather than the yoledet's (items 8-9) \u2014 all matching the 'Why Not Nazir' section's description of these very Gemara exchanges.",
+      "chosen_heading": "Why Not Nazir",
+      "current_heading": "Why Not Nazir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Supporting Cases",
+    "candidates": [
+      "Supporting Cases",
+      "Olas Yoledet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together \u2014 Rabbi Natan's baraita identifying the olat yoledet and the eleventh animal of ma'aser behemah, plus the paradox that the ancillary is more stringent than the principal \u2014 are precisely what the 'Supporting Cases' prose describes, including the specific paradox language about a subsidiary being more stringent than its source.",
+      "chosen_heading": "Supporting Cases",
+      "current_heading": "Supporting Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Olas Yoledet",
+    "candidates": [
+      "Olas Yoledet",
+      "Ail Aharon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rava's statement about the metzora requiring three inclusions is explicitly discussed in the prose of section 0, which explains that the threefold language in the metzora passage extends nesachim to each of his three offerings.",
+      "chosen_heading": "Olas Yoledet",
+      "current_heading": "Olas Yoledet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Ail Aharon",
+    "candidates": [
+      "Ail Aharon",
+      "Palgas Animal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the derivation that Aaron's ram on Yom Kippur requires libations, including the challenges from 'b'moadeichem' and 'olat yoledet' and their resolutions, which matches exactly the prose of candidate 0 ('Ail Aharon').",
+      "chosen_heading": "Ail Aharon",
+      "current_heading": "Ail Aharon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Palgas Animal",
+    "candidates": [
+      "Palgas Animal",
+      "Palgas Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically addresses why the word 'or' in 'or for a ram' is needed \u2014 to include the palgas \u2014 which directly corresponds to the Palgas Debate section's discussion of Bar Parda's difficulty accounting for this extra 'o' and Rabbi Yochanan's derivation from it, rather than the general introduction of the palgas concept in section 0.",
+      "chosen_heading": "Palgas Debate",
+      "current_heading": "Palgas Animal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Palgas Debate",
+    "candidates": [
+      "Palgas Animal",
+      "Palgas Debate",
+      "Ox Uniformity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's discussion of Rabbi Yochanan vs. bar Padda on the palgas \u2014 exactly the debate described in the 'Palgas Debate' prose, including the mishna citation, bar Padda's stipulation approach, and the concluding 'kashya' \u2014 matching candidate 1 perfectly.",
+      "chosen_heading": "Palgas Debate",
+      "current_heading": "Palgas Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Ox Uniformity",
+    "candidates": [
+      "Ox Uniformity",
+      "Ram Uniformity",
+      "Sheep Uniformity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why the verse states 'for the one bull' to teach that no distinction is made between a bull and a calf for libations, which matches exactly the 'Ox Uniformity' section's prose about calf vs. full-grown cow uniformity.",
+      "chosen_heading": "Ox Uniformity",
+      "current_heading": "Ox Uniformity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Sheep Uniformity",
+    "candidates": [
+      "Ram Uniformity",
+      "Sheep Uniformity",
+      "Goat Uniformity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ram Uniformity",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses why the verse states 'for the one ram' to prevent distinguishing between a second-year and third-year ram, which is precisely what candidate 0 'Ram Uniformity' discusses.",
+      "second_heading": "Sheep Uniformity",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses why the verse states 'for the kid of the lambs' to prevent distinguishing between a female lamb and a ewe, which is precisely what candidate 1 'Sheep Uniformity' discusses.",
+      "current_heading": "Sheep Uniformity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Goat Uniformity",
+    "candidates": [
+      "Goat Uniformity",
+      "Mishna Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why the verse states 'or of the goats' by addressing the potential distinction between kid and older goat, which is precisely what the 'Goat Uniformity' section's prose discusses.",
+      "chosen_heading": "Goat Uniformity",
+      "current_heading": "Goat Uniformity",
+      "moved": false
+    }
+  }
+]

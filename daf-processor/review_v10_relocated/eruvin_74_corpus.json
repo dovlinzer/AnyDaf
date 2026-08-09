@@ -1,0 +1,282 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rav's Definition",
+    "candidates": [
+      "Asymmetry Resolution",
+      "Rav's Definition",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states Rav's reasoning that an alleyway cannot be rendered permitted through a lechi or kora unless houses and courtyards open into it, which is precisely what the 'Rav's Definition' section discusses \u2014 the redirection of Rav's statement toward defining when a lechi or kora suffices for a maboi.",
+      "chosen_heading": "Rav's Definition",
+      "current_heading": "Rav's Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Rabbi Yochanan",
+      "Horva vs. Path"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav's ruling and the immediate responses of Shmuel and Rabbi Yochanan about what qualifies a maboi, which is exactly what heading 0 ('Rav vs. Shmuel') discusses \u2014 the prose there covers all three opinions including Rabbi Yochanan's afilu horva statement.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Horva vs. Path",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Horva vs. Path",
+      "Rav Huna's Link",
+      "Unified Domains",
+      "Vessel Identity",
+      "Carrying Between Domains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Abaye's question to Rav Yosef about whether Rabbi Yochanan's leniency extends to a vineyard path, and the answer limiting it to a ruin (horva) that is fit for habitation \u2014 exactly what the 'Horva vs. Path' prose describes.",
+      "chosen_heading": "Horva vs. Path",
+      "current_heading": "Horva vs. Path",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Carrying Between Domains",
+    "candidates": [
+      "Rav Huna's Link",
+      "Unified Domains",
+      "Vessel Identity",
+      "Carrying Between Domains",
+      "Rashi's Expansion",
+      "Rav's Gezeirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna bar \u1e24innana's statement connecting Rabbi Yo\u1e25anan to his consistent reasoning and introducing the Rabbi Shimon mishna \u2014 this is precisely what heading 0 ('Rav Huna's Link') describes, serving as the bridge/introduction before the mishna's content is expounded under heading 1.",
+      "chosen_heading": "Rav Huna's Link",
+      "current_heading": "Carrying Between Domains",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Rav's Gezeirah",
+    "candidates": [
+      "Rashi's Expansion",
+      "Rav's Gezeirah",
+      "Shmuel Rejects Gezeirah",
+      "True Concern",
+      "Rav Bruna Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav's Gezeirah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav's ruling with the gezeirah qualification (eirvu vs. lo eirvu), which exactly matches the 'Rav's Gezeirah' prose describing Rav's critical qualification about the eruv case.",
+      "second_heading": "Shmuel Rejects Gezeirah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Shmuel and Rabbi Yochanan both rejecting the gezeirah (bein eirvu bein lo eirvu), which exactly matches the 'Shmuel Rejects Gezeirah' prose discussing their shared rejection of Rav's concern.",
+      "current_heading": "Rav's Gezeirah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Rav Bruna Challenge",
+    "candidates": [
+      "Shmuel Rejects Gezeirah",
+      "True Concern",
+      "Rav Bruna Challenge",
+      "Mishna's Language",
+      "Chazan Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Bruna Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Rav Bruna relating Shmuel's ruling and Rabbi Elazar going to verify it, which is exactly what candidate 2's prose describes as the Rav Bruna challenge section.",
+      "second_heading": "Mishna's Language",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Shmuel's silence (ishtik) in response to the challenge about the mishna's language, which is precisely what candidate 3's prose ('Mishna's Language') discusses as its opening point.",
+      "current_heading": "Rav Bruna Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Chazan Case",
+    "candidates": [
+      "Mishna's Language",
+      "Chazan Case",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the Ivut bar Ihi incident used to prove Shmuel did not accept Rabbi Elazar's objection, which is exactly what the 'Chazan Case' prose section describes.",
+      "chosen_heading": "Chazan Case",
+      "current_heading": "Chazan Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Resolution",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the alternative reading about the chazan who eats elsewhere but sleeps in the synagogue, and the dispute between makom pita goreim and makom linah goreim \u2014 precisely what the 'Resolution' prose describes.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Case Setup",
+      "Rav's Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav's actual ruling ('ein me'arvin oto derech chalonot l'hatiro derech petachim la-maboi'), which is precisely what the 'Rav's Prohibition' section's prose discusses, not merely the case setup.",
+      "chosen_heading": "Rav's Prohibition",
+      "current_heading": "Case Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Rav's Prohibition",
+    "candidates": [
+      "Case Setup",
+      "Rav's Prohibition",
+      "Abaye's Question",
+      "Non-Jew Domain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items concern Abaye's question to Rav Yosef about whether Rav's ruling applies even to a chatzer, and Rav Yosef's affirmative response \u2014 exactly what candidate 2 ('Abaye's Question') describes in its prose.",
+      "chosen_heading": "Abaye's Question",
+      "current_heading": "Rav's Prohibition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Non-Jew Domain",
+    "candidates": [
+      "Abaye's Question",
+      "Non-Jew Domain",
+      "Unified Household"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why two separate rulings are necessary \u2014 one teaching that a gentile's residence doesn't count, and one teaching that two houses are required \u2014 which directly corresponds to the 'Non-Jew Domain' prose's discussion of why Rav's ruling needed to be stated separately and wasn't subsumed by the earlier requirement of two courtyards with two houses.",
+      "chosen_heading": "Non-Jew Domain",
+      "current_heading": "Non-Jew Domain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Unified Household",
+    "candidates": [
+      "Unified Household",
+      "Rav Yosef Understanding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav's reason \u2014 that it is prohibited for an individual to establish his home in the place of a gentile \u2014 which is precisely what the 'Unified Household' prose discusses as the core of Rav's reasoning.",
+      "chosen_heading": "Unified Household",
+      "current_heading": "Unified Household",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Rav Yosef Understanding",
+    "candidates": [
+      "Rav Yosef Understanding",
+      "Yachid Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Yosef's realization about why Rabbi Tavla repeated 'a gentile' twice, which is precisely what the prose under 'Rav Yosef Understanding' discusses.",
+      "chosen_heading": "Rav Yosef Understanding",
+      "current_heading": "Rav Yosef Understanding",
+      "moved": false
+    }
+  }
+]

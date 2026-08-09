@@ -1,0 +1,200 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Intro: Exceptions",
+    "candidates": [
+      "Intro: Exceptions",
+      "Meir's Objection",
+      "Gemara Source",
+      "Chain of Tradition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Intro: Exceptions",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah itself (Rabbi Eliezer's rule and Rabbi Meir's objection), which the 'Intro: Exceptions' prose describes in detail as the opening of this perek.",
+      "second_heading": "Gemara Source",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara's baraita about the chain of transmission through Rabbi Yehoshua bar Memel, which is exactly what the 'Gemara Source' prose discusses.",
+      "current_heading": "Intro: Exceptions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Chain of Tradition",
+    "candidates": [
+      "Meir's Objection",
+      "Gemara Source",
+      "Chain of Tradition",
+      "Akiva's Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly illustrate the gemara's principle about citing only the first and last links in a chain of tradition, which is precisely what candidate 2 ('Chain of Tradition') discusses in its prose.",
+      "chosen_heading": "Chain of Tradition",
+      "current_heading": "Chain of Tradition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Akiva's Argument",
+    "candidates": [
+      "Akiva's Argument",
+      "Eliezer Dismisses",
+      "Yehoshua Validates",
+      "Eliezer vs. Akiva",
+      "Which is Exception",
+      "Beraita Answer",
+      "No KV from Exception",
+      "Mishnah Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items (the Mishna with Rabbi Akiva's kal vachomer, Rabbi Eliezer's dismissal, Rabbi Yehoshua's validation, and the Gemara's dilemma/resolution about which rule is the halacha l'Moshe miSinai) are all addressed together in heading 0's prose, which covers the entire exchange including the contrast between the two teachers and the underlying conceptual tension.",
+      "chosen_heading": "Akiva's Argument",
+      "current_heading": "Akiva's Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Mishnah Setup",
+    "candidates": [
+      "Eliezer Dismisses",
+      "Yehoshua Validates",
+      "Eliezer vs. Akiva",
+      "Which is Exception",
+      "Beraita Answer",
+      "No KV from Exception",
+      "Mishnah Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "medium",
+      "reason": "The text 'Hadranan alach Kohen Gadol' is a closing formula marking the end of a tractate chapter, which would naturally appear at a transition point before a new mishnah section begins, making the 'Mishnah Setup' heading the closest contextual match among the candidates.",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Mishnah Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Mishnah Setup",
+    "candidates": [
+      "Mishnah Setup",
+      "Safek Tumah Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah presenting the case of two nazirites in doubtful impurity, which is precisely what the 'Mishnah Setup' prose describes and introduces.",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Mishnah Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Safek Tumah Rules",
+    "candidates": [
+      "Safek Tumah Rules",
+      "Domain Question",
+      "Reshut Hayachid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the question of why the two nazirites are safek tamei and introduces the derivation of safek tumah birshut hayachid from sotah, which is precisely what the 'Safek Tumah Rules' section's prose describes.",
+      "chosen_heading": "Safek Tumah Rules",
+      "current_heading": "Safek Tumah Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Reshut Hayachid",
+    "candidates": [
+      "Domain Question",
+      "Reshut Hayachid",
+      "Paired Offerings",
+      "Two-Person Advantage",
+      "Hakafah Problem",
+      "Shmuel: Woman/Minor",
+      "Inference: Hakafah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the gemara's discussion of why the mishna's case is reshut hayachid despite three people being present \u2014 item 1 raises the three-person problem (matching candidate 0's prose exactly), items 2-3 provide Rabba bar Rav Huna's resolution and Rav Ashi's confirmation, which candidate 0 describes as the gemara's challenge before candidate 1 describes the resolution, making candidate 0 the correct home for the full passage that poses and resolves the domain question.",
+      "chosen_heading": "Domain Question",
+      "current_heading": "Reshut Hayachid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Inference: Hakafah",
+    "candidates": [
+      "Paired Offerings",
+      "Two-Person Advantage",
+      "Hakafah Problem",
+      "Shmuel: Woman/Minor",
+      "Inference: Hakafah",
+      "Huna: Shaver Independent",
+      "Adda Challenges",
+      "Huna Response",
+      "The Curse",
+      "Huna's Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items together form the continuous discussion of the hakafah problem: items 1-2 present Shmuel's answer and the inference about hakafat kol harosh (exactly what heading 4 'Inference: Hakafah' describes), item 3 is Mar Zutra's parallel teaching of the same Shmuel ruling, and item 4 introduces Rav Huna's ruling about rounding a minor's head \u2014 all of which the prose under heading 4 explicitly covers as the inference drawn from Shmuel's position.",
+      "chosen_heading": "Inference: Hakafah",
+      "current_heading": "Inference: Hakafah",
+      "moved": false
+    }
+  }
+]

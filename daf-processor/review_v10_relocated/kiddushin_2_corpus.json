@@ -1,0 +1,206 @@
+[
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Perutah Definition",
+    "candidates": [
+      "Masechet Overview",
+      "First Perek Structure",
+      "Mishna Text",
+      "Rashi's Explanation",
+      "Three Methods",
+      "Kesef Method",
+      "Ring Practice",
+      "Shtar Method",
+      "Biah Method",
+      "Kiddushin Defined",
+      "Nisu'in Defined",
+      "Historical Context",
+      "Rashi's Precision",
+      "Biah Distinction",
+      "Beit Shammai vs. Hillel",
+      "Perutah Definition",
+      "Kesef Evolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the opening Mishna text of Kiddushin (ha-isha nikneit b'shalosh drachim) including the Beit Shammai/Beit Hillel dispute and the definition of a perutah, which corresponds directly to the 'Mishna Text' section's prose that quotes and summarizes exactly this mishna.",
+      "chosen_heading": "Mishna Text",
+      "current_heading": "Perutah Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Kesef Evolution",
+    "candidates": [
+      "Perutah Definition",
+      "Kesef Evolution",
+      "Kesef in Context",
+      "Kinyan vs. Kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage lists modes of acquisition and release for a wife and a yevama, which directly parallels the early 'kinyan model' mishnayot described in the 'Kinyan vs. Kiddushin' section prose \u2014 specifically the 'ha-yevamah nikneit' structure that the essay author explicitly cites as part of that early stratum.",
+      "chosen_heading": "Kinyan vs. Kiddushin",
+      "current_heading": "Kesef Evolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Kinyan vs. Kiddushin",
+    "candidates": [
+      "Kesef in Context",
+      "Kinyan vs. Kiddushin",
+      "Terminology Question",
+      "Kinyan from Efron",
+      "Gezerah Shavah",
+      "Field Acquisition",
+      "Biblical vs. Rabbinic",
+      "Hekdesh Model",
+      "Tosafot Relationship",
+      "Kinyan to Status",
+      "Woman's Agency",
+      "Tosafot Q1",
+      "Tosafot Answer",
+      "Tosafot Q2",
+      "Biblical Kicha",
+      "Erusin",
+      "Methodological Paradox",
+      "Voice Answer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Terminology Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's opening question about why this mishna uses 'nikneit' vs. 'mekadesh', which matches heading 2 ('Terminology Question') exactly.",
+      "second_heading": "Kinyan from Efron",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 cover the gezerah shavah from Efron's field establishing kesef as kinyan, and the biblical vs. rabbinic language distinction, matching heading 3 ('Kinyan from Efron') which begins that derivation chain.",
+      "current_heading": "Kinyan vs. Kiddushin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Voice Answer",
+    "candidates": [
+      "Terminology Question",
+      "Kinyan from Efron",
+      "Gezerah Shavah",
+      "Field Acquisition",
+      "Biblical vs. Rabbinic",
+      "Hekdesh Model",
+      "Tosafot Relationship",
+      "Kinyan to Status",
+      "Woman's Agency",
+      "Tosafot Q1",
+      "Tosafot Answer",
+      "Tosafot Q2",
+      "Biblical Kicha",
+      "Erusin",
+      "Methodological Paradox",
+      "Voice Answer",
+      "Voice Question",
+      "Medatah Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 15,
+      "confidence": "high",
+      "reason": "The passage explains why the mishna uses 'ha-isha nikneit' (passive, woman as subject) rather than 'ha-ish koneh' (active, man as subject), specifically because the latter clause 'v'konah et atzmah' is stated with regard to her, so the first clause is also stated with regard to her \u2014 this is precisely the structural/voice explanation discussed in the 'Voice Answer' prose.",
+      "chosen_heading": "Voice Answer",
+      "current_heading": "Voice Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Medatah Requirement",
+    "candidates": [
+      "Voice Question",
+      "Medatah Requirement",
+      "Father's Rights",
+      "Grammar Question",
+      "Derech Feminine",
+      "Derech Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form exactly the content described in the 'Medatah Requirement' prose: item 1 addresses the Heaven-releases-her answer to the voice question, and item 2 gives the iba'it eima explanation about consent (mida'atah), both of which are explicitly narrated in that section's prose.",
+      "chosen_heading": "Medatah Requirement",
+      "current_heading": "Medatah Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Derech Contradiction",
+    "candidates": [
+      "Father's Rights",
+      "Grammar Question",
+      "Derech Feminine",
+      "Derech Contradiction",
+      "Context Resolution",
+      "Ha-Isha Gender",
+      "Zav Gender",
+      "Zav Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together form the contradiction-and-resolution unit: items 1-2 raise the apparent contradictions between verses and mishnayot about the gender of 'derech', and item 3 resolves them \u2014 this entire sequence matches the 'Derech Contradiction' heading's prose, which describes exactly this contradiction and its resolution about context-dependent gender.",
+      "chosen_heading": "Derech Contradiction",
+      "current_heading": "Derech Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Zav Rationale",
+    "candidates": [
+      "Context Resolution",
+      "Ha-Isha Gender",
+      "Zav Gender",
+      "Zav Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explains why men are examined but women are not (because women become impure even under circumstances beyond their control), which is precisely what the 'Zav Rationale' section discusses.",
+      "chosen_heading": "Zav Rationale",
+      "current_heading": "Zav Rationale",
+      "moved": false
+    }
+  }
+]

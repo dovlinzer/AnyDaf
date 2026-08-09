@@ -1,0 +1,222 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Mishnah Statement",
+    "candidates": [
+      "Transition to Hafarah",
+      "Basic Halachot",
+      "Hafarah vs. Hatarah",
+      "Orphan Question",
+      "Mishnah Statement",
+      "Ran's Analysis",
+      "Groom Annuls Pre-Betroth",
+      "Vows Age 11+1",
+      "Joint Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text about a betrothed young woman whose father and husband together nullify her vows, which is precisely what the 'Mishnah Statement' section's prose introduces and discusses.",
+      "chosen_heading": "Mishnah Statement",
+      "current_heading": "Mishnah Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Joint Requirement",
+    "candidates": [
+      "Ran's Analysis",
+      "Groom Annuls Pre-Betroth",
+      "Vows Age 11+1",
+      "Joint Requirement",
+      "Gemara Parsing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishnah text about joint requirement for annulment (father alone or husband alone is insufficient, and hakamah by one ruins it), which is exactly what the 'Joint Requirement' prose section discusses.",
+      "chosen_heading": "Joint Requirement",
+      "current_heading": "Joint Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Gemara Parsing",
+    "candidates": [
+      "Gemara Parsing",
+      "One Voids, One Affirms",
+      "Hatarah on Hakamah",
+      "Hakamah Reversal Problem",
+      "Gemara Conclusion",
+      "Ran's Logical Question",
+      "Ran's Answer",
+      "Why Mention Hakamah",
+      "Reading the Pesukim",
+      "Father's Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's parsing of the mishnah \u2014 questioning why the first clause is needed, why hakamah needs to be mentioned, and the answer about the case where one nullified and one ratified then retracted \u2014 which matches exactly the 'Gemara Parsing' prose description.",
+      "chosen_heading": "Gemara Parsing",
+      "current_heading": "Gemara Parsing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Father's Role",
+    "candidates": [
+      "One Voids, One Affirms",
+      "Hatarah on Hakamah",
+      "Hakamah Reversal Problem",
+      "Gemara Conclusion",
+      "Ran's Logical Question",
+      "Ran's Answer",
+      "Why Mention Hakamah",
+      "Reading the Pesukim",
+      "Father's Role",
+      "Husband's Role",
+      "Widow/Divorcee",
+      "Vows During Marriage",
+      "Two Nisuin Cases?",
+      "Both Nisuin Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's derivation that a betrothed young woman's vows require both father and husband to nullify, sourced from the verse 'v'im hayo tihye l'ish' \u2014 which is precisely the exegetical problem discussed in section 12 ('Two Nisuin Cases?'), where the gemara confronts whether both paragraphs concern a fully married woman or one concerns a betrothed woman.",
+      "chosen_heading": "Two Nisuin Cases?",
+      "current_heading": "Father's Role",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Both Nisuin Theory",
+    "candidates": [
+      "Husband's Role",
+      "Widow/Divorcee",
+      "Vows During Marriage",
+      "Two Nisuin Cases?",
+      "Both Nisuin Theory",
+      "Havayah = Erusin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly address the gemara's argument that two nisuin paragraphs could teach 'ein ha'baal meifer b'kodmin' and the rejection of that theory \u2014 exactly what candidate 4 ('Both Nisuin Theory') describes in its prose.",
+      "chosen_heading": "Both Nisuin Theory",
+      "current_heading": "Both Nisuin Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Havayah = Erusin",
+    "candidates": [
+      "Havayah = Erusin",
+      "Father-Only Theory",
+      "Father-Only Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'havayah indicates betrothal' argument, which is precisely what the prose under heading 0 describes as the gemara's alternative approach using havayah k'kiddushin mashma.",
+      "chosen_heading": "Havayah = Erusin",
+      "current_heading": "Havayah = Erusin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Father-Only Fails",
+    "candidates": [
+      "Father-Only Theory",
+      "Father-Only Fails",
+      "Groom-Only Reading",
+      "Husband Case Objection"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Father-Only Fails",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's rejection of the father-alone theory by showing it renders the opening paragraph superfluous, which is exactly what 'Father-Only Fails' prose describes.",
+      "second_heading": "Groom-Only Reading",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the opposite proposal \u2014 that the betrothed/groom nullifies alone while the father's mention serves only to teach that his ratification blocks the groom \u2014 which is precisely what the 'Groom-Only Reading' prose discusses.",
+      "current_heading": "Father-Only Fails",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Husband Case Objection",
+    "candidates": [
+      "Groom-Only Reading",
+      "Husband Case Objection",
+      "Husband Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the gemara's attempt to rescue the groom-only reading by proposing that 'beis isha' teaches the husband cannot annul prior vows, followed by the reductio that this implies the arus can annul prior vows \u2014 which is precisely what candidate 2 ('Husband Limitation') describes in its prose.",
+      "chosen_heading": "Husband Limitation",
+      "current_heading": "Husband Case Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Husband Limitation",
+    "candidates": [
+      "Husband Case Objection",
+      "Husband Limitation",
+      "Shutfuta Resolution",
+      "Father's Fundamentality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'Ela lav mishum shutfuta d'av' \u2014 asking whether the arus's extended capacity is not precisely because of the father's partnership \u2014 is the concluding rhetorical question of the gemara's argument described in the 'Husband Limitation' prose, which explicitly references this exact phrase and logical move.",
+      "chosen_heading": "Husband Limitation",
+      "current_heading": "Husband Limitation",
+      "moved": false
+    }
+  }
+]

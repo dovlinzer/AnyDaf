@@ -1,0 +1,239 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Wife's Sale Valid",
+    "candidates": [
+      "Husband No Chazakah",
+      "Wife's Sale Valid",
+      "Amemar Nichsei Milog",
+      "Sale Not Permanent",
+      "Joint vs Individual",
+      "Husband Lokeach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Ameimar's teaching about husband or wife selling nichsei milog accomplishing nothing, which is precisely what candidate 2 ('Amemar Nichsei Milog') discusses in its prose.",
+      "chosen_heading": "Amemar Nichsei Milog",
+      "current_heading": "Wife's Sale Valid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Husband Lokeach",
+    "candidates": [
+      "Amemar Nichsei Milog",
+      "Sale Not Permanent",
+      "Joint vs Individual",
+      "Husband Lokeach",
+      "Four Ownership Types",
+      "Slave Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items elaborate the reinterpretation of Amemar's ruling \u2014 item 1 explaining the Usha takanah that handles the case where one party sells and then dies, and item 2 clarifying that joint sales or wife-to-husband sales are fully valid \u2014 which matches exactly the 'Sale Not Permanent' section's prose about these precise sub-cases, rather than the 'Husband Lokeach' section where it currently sits.",
+      "chosen_heading": "Sale Not Permanent",
+      "current_heading": "Husband Lokeach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Slave Case",
+    "candidates": [
+      "Four Ownership Types",
+      "Slave Case",
+      "Rabbi Meir Position",
+      "Rabbi Yehudah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items present Rabbi Meir's position and his reasoning (kinyan peirot ke-kinyan haguf dami), which is precisely what candidate 2 'Rabbi Meir Position' discusses in its prose.",
+      "chosen_heading": "Rabbi Meir Position",
+      "current_heading": "Slave Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rabbi Yehudah",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Rabbi Yehudah",
+      "Rabbi Yose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehuda's ruling that the second master (kinyan haguf holder) receives the yom o yomayim exemption because the slave is 'his money,' explicitly stating kinyan peirot lav ke-kinyan haguf dami, which matches precisely the content described in the 'Rabbi Yehudah' section prose.",
+      "chosen_heading": "Rabbi Yehudah",
+      "current_heading": "Rabbi Yehudah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Rabbi Yose",
+    "candidates": [
+      "Rabbi Yose",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yosei's ruling that both masters are included in the exemption and the Gemara's explanation of his uncertainty regarding kinyan peirot vs. kinyan haguf, which is precisely what the prose under 'Rabbi Yose' discusses.",
+      "chosen_heading": "Rabbi Yose",
+      "current_heading": "Rabbi Yose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Third Party No Chazakah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Elazar's ruling and Rava's explanation of it (chaspo ha-meyuchad lo), which is precisely what the 'Rabbi Eliezer' section's prose discusses in detail, including Rava's formulation and its connection to Amemar's ruling about usufruct property.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Rabbi Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Third Party No Chazakah",
+    "candidates": [
+      "Third Party No Chazakah",
+      "Wife Relies Husband",
+      "Owner's Silence",
+      "Principal Changes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the contradiction between the mishnah's ruling that a husband has no chazakah on his wife's property and Rav's statement that a married woman must protest her husband \u2014 which is precisely what the 'Principal Changes' section discusses as the setup for Rava's resolution about structural changes to the keren.",
+      "chosen_heading": "Principal Changes",
+      "current_heading": "Third Party No Chazakah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Principal Changes",
+    "candidates": [
+      "Wife Relies Husband",
+      "Owner's Silence",
+      "Principal Changes",
+      "Damage Acts Immediate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rava's ruling about digging pits/cisterns establishing chazakah, and the Gemara's challenge from 'ein chazakah le-nezikin' \u2014 are precisely the content discussed in candidate 3's prose, which addresses whether principal-changing damage acts create immediate chazakah and invokes the 'ein chazakah le-nezikin' principle that the Rashbam reinterprets.",
+      "chosen_heading": "Damage Acts Immediate",
+      "current_heading": "Principal Changes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Damage Acts Immediate",
+    "candidates": [
+      "Damage Acts Immediate",
+      "Nezikin Clarified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains 'ein din chazakah le-nezikin' as meaning no three-year period is required for damaging acts, which is precisely what the 'Damage Acts Immediate' section's prose discusses \u2014 the Rashbam reinterpretation that chazakah through damaging acts takes effect immediately.",
+      "chosen_heading": "Damage Acts Immediate",
+      "current_heading": "Damage Acts Immediate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Nezikin Clarified",
+    "candidates": [
+      "Nezikin Clarified",
+      "Widowed Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's alternative answer about smoke and bathroom as referents of 'ein chazakah le-nezikin', which is precisely what the 'Nezikin Clarified' section's prose describes.",
+      "chosen_heading": "Nezikin Clarified",
+      "current_heading": "Nezikin Clarified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Widowed Exception",
+    "candidates": [
+      "Widowed Exception",
+      "Dayanei Golah",
+      "Rav's Reversal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Widowed Exception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yosef's ruling about the widow scenario with the migo argument, which is exactly what the 'Widowed Exception' prose describes.",
+      "second_heading": "Dayanei Golah",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 return to Rav's original statement, the dayanei golah's opposing ruling, and Rav's apparent reversal with his harmonizing response \u2014 precisely the content described in both the 'Dayanei Golah' and 'Rav's Reversal' sections, and the gemara itself signals the structural break with 'gufa' (returning to the matter itself).",
+      "current_heading": "Widowed Exception",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Land Valuation",
+    "candidates": [
+      "Atida Eretz Yisrael",
+      "Nasi's Proof",
+      "Workers vs Inheritance",
+      "Yechezkel's Nasi",
+      "Land Valuation",
+      "Eliezer vs Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses the cash-value division of land (velo nitchaleka ela bechasafim) and the distinction between beauty/quality versus proximity to the city (kurva verichoka), which is precisely what the 'Land Valuation' section's prose addresses.",
+      "chosen_heading": "Land Valuation",
+      "current_heading": "Land Valuation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Eliezer vs Yehoshua",
+    "candidates": [
+      "Eliezer vs Yehoshua",
+      "Ach Begoral"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Tannaitic dispute between Rabbi Eliezer and Rabbi Yehoshua over cash versus land compensation, which is precisely what the prose under 'Eliezer vs Yehoshua' discusses.",
+      "chosen_heading": "Eliezer vs Yehoshua",
+      "current_heading": "Eliezer vs Yehoshua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Ach Begoral",
+    "candidates": [
+      "Ach Begoral",
+      "Joshua's City"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the exclusion of Joshua and Caleb from the lottery and the meaning of 'ach begoral,' which is precisely what the prose under heading 0 discusses, ending with 'ela al pi Hashem' \u2014 the passage ends before the specific discussion of Timnath Serah's name variants that characterizes heading 1.",
+      "chosen_heading": "Ach Begoral",
+      "current_heading": "Ach Begoral",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Joshua's City",
+    "candidates": [
+      "Joshua's City",
+      "Caleb's Hebron"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the dual names of Timnat Serah/Heres and Rabbi Elazar's explanation about the city's fruits, which is precisely the content discussed in the 'Joshua's City' section prose.",
+      "chosen_heading": "Joshua's City",
+      "current_heading": "Joshua's City",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Caleb's Hebron",
+    "candidates": [
+      "Caleb's Hebron",
+      "Contradiction Setup",
+      "Nachman's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Caleb receiving Hebron, the city of refuge objection, and Abaye's resolution about the outskirts \u2014 exactly what the 'Caleb's Hebron' section's prose describes in detail.",
+      "chosen_heading": "Caleb's Hebron",
+      "current_heading": "Caleb's Hebron",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Nachman's Resolution",
+    "candidates": [
+      "Contradiction Setup",
+      "Nachman's Resolution",
+      "Pappa's Bechorah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Contradiction Setup",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna and the opening Gemara challenge (the contradiction setup about son preceding daughter), which match exactly the 'Contradiction Setup' prose describing the apparent contradiction and the four-part sugya introduction.",
+      "second_heading": "Nachman's Resolution",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are Rav Nachman bar Yitzchak's resolution about raui/muchzak and the supporting proof from Zelophehad's daughters, matching exactly the 'Nachman's Resolution' prose.",
+      "current_heading": "Nachman's Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Pappa's Bechorah",
+    "candidates": [
+      "Pappa's Bechorah",
+      "Ashi's Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the ongoing challenge to Rav Pappa's explanation \u2014 the 'we already learn this' objection and the 'what is meant by ela' question \u2014 which is precisely what the 'Pappa's Bechorah' prose section describes.",
+      "chosen_heading": "Pappa's Bechorah",
+      "current_heading": "Pappa's Bechorah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Ashi's Context",
+    "candidates": [
+      "Ashi's Context",
+      "Mar's Synthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items trace the exact arc described in 'Ashi's Context' prose: Rav Ashi's reading, its identification with Rabbi Yo\u1e25anan ben Beroka's later mishna, and the stam-ve'achar-kach-machlokes difficulty \u2014 matching perfectly with the current placement.",
+      "chosen_heading": "Ashi's Context",
+      "current_heading": "Ashi's Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Mar's Synthesis",
+    "candidates": [
+      "Mar's Synthesis",
+      "Two Models",
+      "Double Proportion",
+      "Two-Thirds Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the objection to Rav Ashi's reading ('what is meant by *ella*?') and Mar bar Rav Ashi's resolution \u2014 are exactly the content described in the 'Mar's Synthesis' prose, which explains the *ella* clause and Mar bar Rav Ashi's formulation as the accepted answer.",
+      "chosen_heading": "Mar's Synthesis",
+      "current_heading": "Mar's Synthesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Two-Thirds Model",
+    "candidates": [
+      "Two Models",
+      "Double Proportion",
+      "Two-Thirds Model",
+      "Hanchilo Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the baraita presenting the two interpretations of 'pi shnayim' (ke'echad vs. bechol hanechasim) with the logical derivations for each, which is precisely what the 'Two Models' prose describes.",
+      "chosen_heading": "Two Models",
+      "current_heading": "Two-Thirds Model",
+      "moved": true
+    }
+  }
+]

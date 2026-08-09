@@ -1,0 +1,429 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Terumat HaLishka",
+    "candidates": [
+      "Mishnah Summary",
+      "Shomer Exemptions",
+      "Negligent Admission",
+      "Mishnah Setup",
+      "Terumat HaLishka",
+      "Before/After Teruma",
+      "Eilu V'Eilu Shekalim",
+      "Shvuah on Hekdesh",
+      "Fee Collection Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge (u'remi'nei) from the Shekalim mishnah \u2014 the setup of the shaliach scenario with stolen/lost coins \u2014 which matches exactly the prose of 'Mishnah Setup' (candidate 3), not the current placement under 'Terumat HaLishka' (candidate 4) which discusses the legal mechanics of terumat ha-lishka, a topic not yet introduced in these three items.",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Terumat HaLishka",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Fee Collection Purpose",
+    "candidates": [
+      "Before/After Teruma",
+      "Eilu V'Eilu Shekalim",
+      "Shvuah on Hekdesh",
+      "Fee Collection Purpose",
+      "Swearing to Gizbarin",
+      "Rabbah's Solution",
+      "Negligence Forfeits Pay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains Shmuel's explanation about paid bailees swearing to collect wages, followed by the gemara's challenge that they should swear to the townspeople not the gizbarin, and Rabba's resolution \u2014 this matches candidate 4 ('Swearing to Gizbarin') which discusses exactly this challenge about why the mishnah says they swear to the gizbarin when according to Shmuel they should swear to the townspeople.",
+      "chosen_heading": "Swearing to Gizbarin",
+      "current_heading": "Fee Collection Purpose",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Negligence Forfeits Pay",
+    "candidates": [
+      "Swearing to Gizbarin",
+      "Rabbah's Solution",
+      "Negligence Forfeits Pay",
+      "Duty of Care",
+      "Oath Insufficient",
+      "Unavoidable Disasters",
+      "Oneis Logic",
+      "Rabbi Shimon Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Negligence Forfeits Pay",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's objection that a paid bailee who fails in his duty should forfeit his wages, which matches exactly the 'Negligence Forfeits Pay' prose.",
+      "second_heading": "Unavoidable Disasters",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbah's resolution recharacterizing the theft and loss as oneis (armed bandits, sinking ship), which matches exactly the 'Unavoidable Disasters' prose.",
+      "current_heading": "Negligence Forfeits Pay",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Rabbi Shimon Principle",
+    "candidates": [
+      "Duty of Care",
+      "Oath Insufficient",
+      "Unavoidable Disasters",
+      "Oneis Logic",
+      "Rabbi Shimon Principle",
+      "Principle Limits",
+      "Braita: Teruma Scope",
+      "L'Asid Ligvos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yo\u1e25anan attributing the mishnah to Rabbi Shimon's principle about consecrated items for which one bears responsibility being subject to exploitation and oaths, which is precisely what the 'Rabbi Shimon Principle' section discusses.",
+      "chosen_heading": "Rabbi Shimon Principle",
+      "current_heading": "Rabbi Shimon Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "L'Asid Ligvos",
+    "candidates": [
+      "Principle Limits",
+      "Braita: Teruma Scope",
+      "L'Asid Ligvos",
+      "Takana Justification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge that once terumat ha-lishka has been collected the coins become kodashim she-eino chayav be-achrayutan, and cites the baraita establishing that teruma covers lost, collected, and future coins \u2014 this is exactly the 'limitation' identified in candidate 0's prose, which describes this precise challenge and quotes the same baraita concept, before the essay moves on to analyze its clauses in subsequent sections.",
+      "chosen_heading": "Principle Limits",
+      "current_heading": "L'Asid Ligvos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Takana Justification",
+    "candidates": [
+      "L'Asid Ligvos",
+      "Takana Justification",
+      "Policy Rationale",
+      "Scope of Takana",
+      "Payment Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Elazar's conclusion that the oath is a rabbinic ordinance (takanas chachamim) so people won't treat hekdesh with contempt, which is exactly what the 'Takana Justification' section's prose describes as its content.",
+      "chosen_heading": "Takana Justification",
+      "current_heading": "Takana Justification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Payment Scenarios",
+    "candidates": [
+      "Policy Rationale",
+      "Scope of Takana",
+      "Payment Scenarios",
+      "Havla'ah Concept",
+      "Liability Problem",
+      "Kinyan Sudar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form one continuous unit \u2014 Rav Yosef bar \u1e24ama's contradiction, the baraita's two clauses, and Rabba's silence \u2014 which the 'Payment Scenarios' prose explicitly describes as the fresh challenge raised by Rav Yosef bar Chama against the mishnah's ruling, making the current placement correct.",
+      "chosen_heading": "Payment Scenarios",
+      "current_heading": "Payment Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Kinyan Sudar",
+    "candidates": [
+      "Havla'ah Concept",
+      "Liability Problem",
+      "Kinyan Sudar",
+      "Kinyan Sudar Effects",
+      "Liability Determines"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Sheshet and Rabbi Yochanan stating 'be-shekanu miyado' (they performed an act of acquisition with him), which is the Talmudic source for the kinyan sudar solution discussed in the 'Kinyan Sudar' section's prose.",
+      "chosen_heading": "Kinyan Sudar",
+      "current_heading": "Kinyan Sudar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Liability Determines",
+    "candidates": [
+      "Kinyan Sudar Effects",
+      "Liability Determines",
+      "Braita Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Shimon's principle and the baraita taught before Rabbi Yitzchak bar Abba distinguishing liability based on whether one bears responsibility for sacrificial animals, which matches exactly the prose of 'Liability Determines' describing that same tanna's teaching before Rabbi Yitzchak.",
+      "chosen_heading": "Liability Determines",
+      "current_heading": "Liability Determines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Braita Analysis",
+    "candidates": [
+      "Braita Analysis",
+      "Word Analysis",
+      "Amito Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'kelapei layya' (isn't it the opposite?) directly matches the Braita Analysis prose, which describes the gemara noting that the reasoning seems backwards and that a tanna initially has no answer when questioned about it.",
+      "chosen_heading": "Braita Analysis",
+      "current_heading": "Braita Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Amito Principle",
+    "candidates": [
+      "Word Analysis",
+      "Amito Principle",
+      "Sefer Torah Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the baraita's interpretation of kodshim she-chayav/she-eino chayav be-achrayutan, derived from 'ba-Hashem' and 'be-amito,' which is precisely what the 'Amito Principle' prose describes.",
+      "chosen_heading": "Amito Principle",
+      "current_heading": "Amito Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Sefer Torah Value",
+    "candidates": [
+      "Sefer Torah Value",
+      "Matching Premium",
+      "Matching Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Yehuda's full list (sefer Torah, margalit, behemah) and the baraita's explanations for all three, and the current heading's prose directly addresses this exact content including the baraita's reasoning for each item.",
+      "chosen_heading": "Sefer Torah Value",
+      "current_heading": "Sefer Torah Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Matching Question",
+    "candidates": [
+      "Matching Premium",
+      "Matching Question",
+      "Particular Value",
+      "Doubling Limit",
+      "War Goods Exception",
+      "Desperate Market"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains both the Rabbis' pushback question AND Ameimar's ruling about 'up to double their value,' but the specific content \u2014 Rabbi Yehuda's response that these items are chashivei and Ameimar's ad kedei dmeihem ruling \u2014 directly corresponds to the 'Doubling Limit' section's prose, which explicitly discusses both Ameimar's ruling and the chashivei distinction.",
+      "chosen_heading": "Doubling Limit",
+      "current_heading": "Matching Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Desperate Market",
+    "candidates": [
+      "Particular Value",
+      "Doubling Limit",
+      "War Goods Exception",
+      "Desperate Market",
+      "Price Without Intent",
+      "Modern Application",
+      "Component Types",
+      "Past Deeds Cases",
+      "Torah Source",
+      "Braita Cases"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 2,
+      "first_heading": "War Goods Exception",
+      "first_confidence": "high",
+      "first_reason": "The baraita about Rabbi Yehuda ben Beteira selling a horse, sword, and helmet during wartime matches exactly the 'War Goods Exception' heading's prose describing this ruling.",
+      "second_heading": "Price Without Intent",
+      "second_confidence": "high",
+      "second_reason": "The Mishna introducing ona'at devarim with the example of asking a price without intent to buy matches the 'Price Without Intent' heading's prose about asking a storekeeper's price with no intention of buying.",
+      "third_heading": "Torah Source",
+      "third_confidence": "high",
+      "third_reason": "The Gemara deriving from Leviticus 25:14 and 25:17 that one verse addresses monetary exploitation and the other verbal mistreatment matches the 'Torah Source' heading's prose explaining the doubling of the prohibition with each verse targeting a distinct category.",
+      "current_heading": "Desperate Market",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Braita Cases",
+    "candidates": [
+      "Price Without Intent",
+      "Modern Application",
+      "Component Types",
+      "Past Deeds Cases",
+      "Torah Source",
+      "Braita Cases",
+      "Suffering Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Braita Cases' section prose, which explicitly discusses the same three cases: the ba'al teshuva, the child of converts, and the ger who comes to study Torah being taunted about his past eating of forbidden foods.",
+      "chosen_heading": "Braita Cases",
+      "current_heading": "Braita Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Suffering Cases",
+    "candidates": [
+      "Suffering Cases",
+      "Fool's Errand",
+      "Non-Verbal Ona'ah",
+      "Davar Masur L'Lev"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Job verse about attributing suffering to sin, which is precisely what the prose in 'Suffering Cases' (index 0) discusses and analyzes.",
+      "chosen_heading": "Suffering Cases",
+      "current_heading": "Suffering Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Davar Masur L'Lev",
+    "candidates": [
+      "Fool's Errand",
+      "Non-Verbal Ona'ah",
+      "Davar Masur L'Lev",
+      "Yochanan's View",
+      "Yirat Elohim",
+      "Elazar: Person vs. Pocket",
+      "Nachmani: Irreversibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the donkey drivers case (fool's errand) and Rabbi Yehuda's extension plus the davar masur la-lev conclusion, and heading 0 ('Fool's Errand') is where the donkey drivers case begins, with headings 1 and 2 covering the subsequent extensions \u2014 but since this is one continuous Talmudic text covering all three elements, and the essay has split them artificially, the passage as a whole most naturally belongs under heading 0 where the donkey drivers case is discussed, as that is the start of this textual unit; however, since the current placement is heading 2 and the passage contains all three elements (donkey drivers, non-verbal ona'ah, davar masur la-lev), the best single heading that matches the full passage's specific content most closely is heading 0, where the prose explicitly quotes and discusses the donkey drivers portion that opens this passage.",
+      "chosen_heading": "Fool's Errand",
+      "current_heading": "Davar Masur L'Lev",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Nachmani: Irreversibility",
+    "candidates": [
+      "Yochanan's View",
+      "Yirat Elohim",
+      "Elazar: Person vs. Pocket",
+      "Nachmani: Irreversibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions (Rabbi Yochanan's statement, Rabbi Elazar's explanation, and Rabbi Shmuel bar Nachmani's addition) and belongs under the heading that introduces the full unit \u2014 'Yochanan's View' \u2014 since the essay breaks out each element separately in prose but the Talmudic text presents them as one continuous passage that should sit under the opening heading.",
+      "chosen_heading": "Yochanan's View",
+      "current_heading": "Nachmani: Irreversibility",
+      "moved": true
+    }
+  }
+]

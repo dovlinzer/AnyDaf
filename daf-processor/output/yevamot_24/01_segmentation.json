@@ -24,8 +24,8 @@
           "timestamp": "01:03"
         }
       ],
-      "sefaria_index": 21,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishnah 24b: Suspected Affairs with Non-Jewish Women and Slaves versus Married Women",
@@ -59,7 +59,7 @@
         }
       ],
       "sefaria_index": 21,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Gemara on Conversion for Marriage: Geirus with Ulterior Motive (Rav Yitzchak and Rabbi Nechemia)",
@@ -165,8 +165,8 @@
           "timestamp": "16:47"
         }
       ],
-      "sefaria_index": 22,
-      "matched": false
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Talmudic Restrictions on Accepting Gerim: Times of King David and King Solomon",
@@ -272,7 +272,7 @@
           "timestamp": "31:44"
         }
       ],
-      "sefaria_index": 31,
+      "sefaria_index": 32,
       "matched": true
     },
     {
@@ -286,7 +286,7 @@
           "timestamp": "32:40"
         }
       ],
-      "sefaria_index": 31,
+      "sefaria_index": 32,
       "matched": false
     },
     {
@@ -388,7 +388,7 @@
         }
       ],
       "sefaria_index": 35,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Mishnah on Divorce for Bad Reputation or Vow: Prohibition and Post Facto Marriage Validity",
@@ -416,8 +416,8 @@
           "timestamp": "51:32"
         }
       ],
-      "sefaria_index": 35,
-      "matched": false
+      "sefaria_index": 28,
+      "matched": true
     },
     {
       "title": "Gemara Dispute: Comparing Adultery Cases to Bad Reputation/Vow Remarriage Cases",
@@ -445,7 +445,7 @@
           "timestamp": "54:57"
         }
       ],
-      "sefaria_index": 35,
+      "sefaria_index": 28,
       "matched": false
     }
   ],
@@ -669,9 +669,9 @@
     }
   ],
   "amud_b_sefaria_index": 20,
-  "amud_b_segment_index": 2,
-  "amud_b_timestamp": "09:31",
-  "amud_b_micro_title": "Marriage Allowance Q",
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "01:58",
+  "amud_b_micro_title": "Slave/Non-Jew Case",
   "shiur_start_daf": 24,
   "shiur_start_amud": "a"
 }

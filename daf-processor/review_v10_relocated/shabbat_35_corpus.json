@@ -1,0 +1,310 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rabbah vs Rav Yosef",
+    "candidates": [
+      "Opening Remarks",
+      "Definition of BH",
+      "Redness Disappears",
+      "Basket Digression",
+      "Rabbah vs Rav Yosef",
+      "Two/Three Reversal",
+      "Abaye's Question",
+      "Mishna Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces the reversal of positions between Rabbah and Rav Yosef regarding the khalsa, which is exactly what the 'Basket Digression' prose describes as 'v'hilufa b'khalsa' \u2014 the reversal \u2014 making it the introductory statement that belongs under that heading rather than under 'Rabbah vs Rav Yosef' which covers the detailed breakdown of their positions.",
+      "chosen_heading": "Basket Digression",
+      "current_heading": "Rabbah vs Rav Yosef",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Mishna Connection",
+    "candidates": [
+      "Two/Three Reversal",
+      "Abaye's Question",
+      "Mishna Connection",
+      "Dry/Liquid Measures",
+      "Abaye Watches Rava",
+      "Penei Mizrach Explained",
+      "Alternative Account",
+      "Window Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Abaye raising a practical question to Rabbah (his Master) who did not permit even a two-kor vessel, which is precisely what heading 1 'Abaye's Question' describes, while the current placement under 'Mishna Connection' better fits only the second part of the passage about the Mishnah listing large containers.",
+      "chosen_heading": "Abaye's Question",
+      "current_heading": "Mishna Connection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Window Metaphor",
+    "candidates": [
+      "Dry/Liquid Measures",
+      "Abaye Watches Rava",
+      "Penei Mizrach Explained",
+      "Alternative Account",
+      "Window Metaphor",
+      "Textual Problems",
+      "Pesachim Gemara",
+      "Geonim/Gra Approach",
+      "Gra's Rakia Model",
+      "Star Explanation",
+      "Rabbeinu Tam's View",
+      "Tam's Geography",
+      "Modern Practice",
+      "Latitude Dependence",
+      "Rav Moshe's View",
+      "Rabbi Nechemiah",
+      "Mount Carmel Test",
+      "Tosafot Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Abaye observing Rava gazing westward and the ensuing question about why he looks west rather than east, which is precisely what the 'Abaye Watches Rava' section's prose introduces \u2014 the puzzle of Rava peering westward despite the baraita referencing penei mizrach.",
+      "chosen_heading": "Abaye Watches Rava",
+      "current_heading": "Window Metaphor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Tosafot Reading",
+    "candidates": [
+      "Textual Problems",
+      "Pesachim Gemara",
+      "Geonim/Gra Approach",
+      "Gra's Rakia Model",
+      "Star Explanation",
+      "Rabbeinu Tam's View",
+      "Tam's Geography",
+      "Modern Practice",
+      "Latitude Dependence",
+      "Rav Moshe's View",
+      "Rabbi Nechemiah",
+      "Mount Carmel Test",
+      "Tosafot Reading",
+      "Two-Sided Strictness",
+      "Strictness Explained"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mount Carmel Test",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Nechemiah's shiur illustrated by Rabbi Chanina's Mount Carmel descend-and-immerse example, which is precisely what heading 11 ('Mount Carmel Test') discusses.",
+      "second_heading": "Tosafot Reading",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the aggadic digression about Miriam's well triggered by the Mount Carmel mention, which heading 12 ('Tosafot Reading') explicitly discusses as the 'striking aggadic interlude' about Rabbi Chiya and the well of Miriam.",
+      "current_heading": "Tosafot Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Strictness Explained",
+    "candidates": [
+      "Two-Sided Strictness",
+      "Strictness Explained",
+      "Tosafot Question",
+      "Star Counting"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Strictness Explained",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss Rav Yehuda/Shmuel's ruling that priests can immerse during Rabbi Yehuda's twilight according to Rabbi Yosei, and the clarification that Rabbi Yosei's twilight follows Rabbi Yehuda's \u2014 this is the setup material discussed in the 'Strictness Explained' prose about kohanim immersing during bein hashmashot.",
+      "second_heading": "Two-Sided Strictness",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are precisely the Rabba bar bar Channa/Rabbi Yochanan ruling that halakha follows Rabbi Yehuda for Shabbat and Rabbi Yosei for terumah, which is the exact text quoted in the 'Two-Sided Strictness' prose heading.",
+      "current_heading": "Strictness Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Star Counting",
+    "candidates": [
+      "Tosafot Question",
+      "Star Counting",
+      "Baraita Confirmation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yehuda/Shmuel's star-counting rule and Rabbi Yosi's clarification about medium stars, which directly matches the 'Star Counting' section's prose about this exact teaching.",
+      "chosen_heading": "Star Counting",
+      "current_heading": "Star Counting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Baraita Confirmation",
+    "candidates": [
+      "Baraita Confirmation",
+      "Chatat Rule",
+      "Medium Stars",
+      "Rava's Objection",
+      "Astronomy Basis",
+      "Conceptual Issue",
+      "Sun/Palm Trees",
+      "Animal Signs",
+      "Grass Sign",
+      "Sign Puzzle",
+      "Six Blasts Intro",
+      "First Blast",
+      "Second Blast",
+      "Third Blast",
+      "Tefillin Alternative",
+      "Final Three Blasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in candidate 6 ('Sun/Palm Trees') \u2014 Rava's instruction to his servant about lighting candles when the sun is at the tops of the palm trees \u2014 as well as the cloudy-day signs (roosters, ravens, adanei) covered in candidates 7 and 8, but the passage opens with Rabbi Yosei's chatat ruling which belongs under candidate 0 or 1; however, since the entire passage must go under ONE heading and the dominant practical content (Rava to servant, sun at palm trees, animal signs, grass signs) aligns most directly with candidate 6, and the chatat ruling at the start is a brief introduction that flows into Rava's practical guidance, candidate 6 is the best single home \u2014 though the current placement (0) captures the chatat opening, candidate 6's prose is the clearest match for the majority of this passage's specific content.",
+      "chosen_heading": "Sun/Palm Trees",
+      "current_heading": "Baraita Confirmation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Final Three Blasts",
+    "candidates": [
+      "Chatat Rule",
+      "Medium Stars",
+      "Rava's Objection",
+      "Astronomy Basis",
+      "Conceptual Issue",
+      "Sun/Palm Trees",
+      "Animal Signs",
+      "Grass Sign",
+      "Sign Puzzle",
+      "Six Blasts Intro",
+      "First Blast",
+      "Second Blast",
+      "Third Blast",
+      "Tefillin Alternative",
+      "Final Three Blasts",
+      "Babylonian Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The baraita describing all six blasts on Shabbat eve \u2014 their purposes, the dispute between Rabbi Natan and Rabbi Yehuda HaNasi, the pause interval, and the final tekiah-teruah-tekiah sequence \u2014 belongs under 'Six Blasts Intro' which introduces this very baraita, rather than being split across multiple headings.",
+      "chosen_heading": "Six Blasts Intro",
+      "current_heading": "Final Three Blasts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Babylonian Practice",
+    "candidates": [
+      "Final Three Blasts",
+      "Babylonian Practice",
+      "First Tekiah Detail"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Babylonian Practice",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the Babylonian practice passage that candidate 1's prose describes in detail, including the minhag avoteihem resolution.",
+      "second_heading": "Final Three Blasts",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 about Rav Yehuda teaching his son which blast signals candle-lighting relates to the final blast sequence and which numbered blast marks the lighting of the Shabbat lamp, fitting better under 'Final Three Blasts' than under 'Babylonian Practice'; however the 'First Tekiah Detail' section is also possible, and 'Final Three Blasts' is the closest match since it discusses the concluding blast sequence timing.",
+      "current_heading": "Babylonian Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "First Tekiah Detail",
+    "candidates": [
+      "First Tekiah Detail",
+      "Suspicion Issue",
+      "Second Tekiah Detail",
+      "Third Tekiah Detail",
+      "Shabbat Arrival",
+      "Late Lighting Leniency",
+      "Shofar-Blower Travel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire six-blast sequence from first through third tekiah including the final tekiah-teruah-tekiah, and the current heading 'First Tekiah Detail' with its prose introducing the full tana d'vei Rabbi Yishmael narrative is the correct placement \u2014 the subsequent headings (Suspicion Issue, Second Tekiah Detail, etc.) are the essay author's commentary sections that unpack portions of this single Talmudic passage.",
+      "chosen_heading": "First Tekiah Detail",
+      "current_heading": "First Tekiah Detail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Shofar-Blower Travel",
+    "candidates": [
+      "Suspicion Issue",
+      "Second Tekiah Detail",
+      "Third Tekiah Detail",
+      "Shabbat Arrival",
+      "Late Lighting Leniency",
+      "Shofar-Blower Travel",
+      "Objection",
+      "Roof Storage",
+      "Muktzah Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Yosei bar \u1e24anina's ruling about late lighting, the rationale about the sexton's travel time, the objection about variable distances, and the resolution about roof storage \u2014 this entire sequence begins with the late lighting leniency (heading 4) and the current placement at heading 5 splits what is one continuous sugya that properly starts under 'Late Lighting Leniency'.",
+      "chosen_heading": "Late Lighting Leniency",
+      "current_heading": "Shofar-Blower Travel",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "New Mishna Context",
+    "candidates": [
+      "New Mishna Context",
+      "Abaye's Phrasing Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing the eighteen decrees made in Chananya ben Garon's upper story, which is exactly what the 'New Mishna Context' prose describes and discusses.",
+      "chosen_heading": "New Mishna Context",
+      "current_heading": "New Mishna Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Abaye's Phrasing Question",
+    "candidates": [
+      "Abaye's Phrasing Question",
+      "Braita Proof",
+      "Rambam's Listing",
+      "Megillat Taanit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text discussing Abaye's question to Rav Yosef about whether the mishna reads 'elu' or 'v'elu' and its resolution from the baraita, which exactly matches the content described in candidate 0's prose.",
+      "chosen_heading": "Abaye's Phrasing Question",
+      "current_heading": "Abaye's Phrasing Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Megillat Taanit",
+    "candidates": [
+      "Braita Proof",
+      "Rambam's Listing",
+      "Megillat Taanit",
+      "Yechezkel Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items \u2014 the authorship of Megillat Taanit, Rabban Shimon ben Gamliel's remark, and the two 'davar acher' metaphors including the Rav Yitzchak challenge and resolution \u2014 are explicitly discussed in the 'Megillat Taanit' section's prose, which covers exactly this material in sequence.",
+      "chosen_heading": "Megillat Taanit",
+      "current_heading": "Megillat Taanit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Yechezkel Reconciliation",
+    "candidates": [
+      "Yechezkel Reconciliation",
+      "Nine Categories Listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about \u1e24ananya ben \u1e24izkiya reconciling the Book of Ezekiel with the Torah is directly and explicitly discussed in the 'Yechezkel Reconciliation' prose, which quotes and explains this very Talmudic passage.",
+      "chosen_heading": "Yechezkel Reconciliation",
+      "current_heading": "Yechezkel Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Nine Categories Listed",
+    "candidates": [
+      "Nine Categories Listed",
+      "R. Eliezer vs. Yehoshua",
+      "Eating Foods Reasoning",
+      "Drinking Liquids Ruling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nine Categories Listed",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers the list of eighteen decrees and nine categories that disqualify teruma, which matches the 'Nine Categories Listed' prose perfectly.",
+      "second_heading": "R. Eliezer vs. Yehoshua",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 cover the dispute between Rabbi Eliezer and Rabbi Yehoshua about degree of impurity from eating tamei food, and the rationale for the decree, which matches 'R. Eliezer vs. Yehoshua' prose exactly.",
+      "current_heading": "Nine Categories Listed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Drinking Liquids Ruling",
+    "candidates": [
+      "R. Eliezer vs. Yehoshua",
+      "Eating Foods Reasoning",
+      "Drinking Liquids Ruling",
+      "Cave Water Origin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the decree about drinking impure liquids, why it was issued, and the hainu hach question about why it's listed separately from the eating decree \u2014 all of which matches the 'Drinking Liquids Ruling' prose precisely.",
+      "chosen_heading": "Drinking Liquids Ruling",
+      "current_heading": "Drinking Liquids Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Cave Water Origin",
+    "candidates": [
+      "Cave Water Origin",
+      "Bathing's Role Clarified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the origin of the drawn-water decree (cave water, rinsing with drawn water, the practice becoming fixed), which is precisely what the 'Cave Water Origin' prose section discusses, before the subsequent section moves on to the Abaye/Rava dispute about why fixity necessitated the decree.",
+      "chosen_heading": "Cave Water Origin",
+      "current_heading": "Cave Water Origin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Bathing's Role Clarified",
+    "candidates": [
+      "Bathing's Role Clarified",
+      "General Shower Gezeirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage records precisely the Abaye-Rava dispute about what 'fixing' the practice means, which is the exact content discussed in candidate 0's prose about why the fixity necessitated a decree.",
+      "chosen_heading": "Bathing's Role Clarified",
+      "current_heading": "Bathing's Role Clarified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "General Shower Gezeirah",
+    "candidates": [
+      "General Shower Gezeirah",
+      "Sifrei Kodesh Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gezeirah on a tahor person upon whom three lugin of drawn water fell, which is exactly what the 'General Shower Gezeirah' prose section describes and analyzes.",
+      "chosen_heading": "General Shower Gezeirah",
+      "current_heading": "General Shower Gezeirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Sifrei Kodesh Tumah",
+    "candidates": [
+      "Sifrei Kodesh Tumah",
+      "Hands Always Sheni",
+      "Sefer Torah Handling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the Sages decreed impurity on the Torah scroll (the teruma storage problem with mice), which is precisely what heading 0 'Sifrei Kodesh Tumah' discusses in its prose.",
+      "chosen_heading": "Sifrei Kodesh Tumah",
+      "current_heading": "Sifrei Kodesh Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Sefer Torah Handling",
+    "candidates": [
+      "Hands Always Sheni",
+      "Sefer Torah Handling",
+      "Gezeirah Priority Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses hands becoming impure from touching a sefer Torah and Rabbi Parnakh's teaching about holding a Torah scroll uncovered, which is precisely what the 'Sefer Torah Handling' section's prose addresses in detail.",
+      "chosen_heading": "Sefer Torah Handling",
+      "current_heading": "Sefer Torah Handling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Gezeirah Priority Debate",
+    "candidates": [
+      "Gezeirah Priority Debate",
+      "Food Liquid Contamination"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Gezeirah Priority Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the gemara's sequencing debate about which decree came first (the targeted sefer decree vs. the general hands decree), which is precisely what the 'Gezeirah Priority Debate' prose describes.",
+      "second_heading": "Food Liquid Contamination",
+      "second_confidence": "medium",
+      "second_reason": "Item 3 shifts to a structurally new topic \u2014 the mishna's decree about tevul yom and the gemara's challenge that it is d'oraita \u2014 which is a self-contained unit unrelated to the sequencing debate, and while it doesn't perfectly match the 'Food Liquid Contamination' prose, it is the only remaining candidate and the current placement ends at item 2.",
+      "current_heading": "Gezeirah Priority Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Food Liquid Contamination",
+    "candidates": [
+      "Food Liquid Contamination",
+      "Sheni-to-Rishon Upgrade",
+      "Vessel Liquid Contact",
+      "Attribution Question",
+      "Earlier Tannaitic Gezerot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Food Liquid Contamination",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses foods becoming impure through liquids that came via hands, with the decree modeled on liquids from a creeping animal \u2014 exactly what heading 0 ('Food Liquid Contamination') describes in its prose.",
+      "second_heading": "Vessel Liquid Contact",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses vessels becoming impure through liquids, asking what kind of liquid and concluding it refers to liquids from a creeping animal with a decree modeled on zav-liquids \u2014 exactly what heading 2 ('Vessel Liquid Contact') describes in its prose.",
+      "current_heading": "Food Liquid Contamination",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Earlier Tannaitic Gezerot",
+    "candidates": [
+      "Sheni-to-Rishon Upgrade",
+      "Vessel Liquid Contact",
+      "Attribution Question",
+      "Earlier Tannaitic Gezerot",
+      "Shammai-Hillel Role",
+      "Hands Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage raises the question of whether it was the disciples of Shammai and Hillel or Shammai and Hillel themselves who issued the decree about hands, which matches exactly the 'Attribution Question' heading's prose about raising that very question.",
+      "chosen_heading": "Attribution Question",
+      "current_heading": "Earlier Tannaitic Gezerot",
+      "moved": true
+    }
+  }
+]

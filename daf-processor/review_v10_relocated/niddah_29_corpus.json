@@ -1,0 +1,396 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Head vs. Majority",
+    "candidates": [
+      "Head vs. Majority",
+      "Eliezer vs. Yochanan",
+      "Shmuel's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the dispute between Rabbi Elazar/Eliezer and Rabbi Yochanan about whether the head's emergence among dismembered limbs counts as birth, which is precisely what candidate 1 ('Eliezer vs. Yochanan') discusses in its prose.",
+      "chosen_heading": "Eliezer vs. Yochanan",
+      "current_heading": "Head vs. Majority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Shmuel's Position",
+    "candidates": [
+      "Eliezer vs. Yochanan",
+      "Shmuel's Position",
+      "Three Birth Scenarios",
+      "Independent Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Shmuel question \u2014 item 1 asks whether Rabbi Elazar and Rabbi Yochanan dispute Shmuel's ruling about non-viable newborns, and item 2 resolves it by showing their actual dispute is about dismembered births \u2014 precisely what candidate 1 ('Shmuel's Position') describes in its prose.",
+      "chosen_heading": "Shmuel's Position",
+      "current_heading": "Shmuel's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Independent Debate",
+    "candidates": [
+      "Three Birth Scenarios",
+      "Independent Debate",
+      "Rav Papa Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the 'lishana achrina' (alternative version) and the standalone formulation of the Rabbi Elazar/Rabbi Yochanan debate over whether the head counts as rov evarim in a non-viable birth, which is precisely what the 'Independent Debate' prose section describes in detail.",
+      "chosen_heading": "Independent Debate",
+      "current_heading": "Independent Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rav Papa Analysis",
+    "candidates": [
+      "Rav Papa Analysis",
+      "Rav Zvid Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage challenges Rabbi Yochanan's position by inferring from the mishna's use of 'reversed' that a dismembered fetus emerging head-first still requires a majority, which directly corresponds to Rav Zvid's section discussing the challenge to Rabbi Yochanan's view and the precise reading of the mishna's compound case.",
+      "chosen_heading": "Rav Zvid Challenge",
+      "current_heading": "Rav Papa Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Rav Zvid Challenge",
+    "candidates": [
+      "Rav Papa Analysis",
+      "Rav Zvid Challenge",
+      "Baraita Parallel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rav Papa Analysis",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-4 cover Rabbi Yo\u1e25anan's reinterpretation of the mishna and Rav Pappa's parallel tanna'im analysis, matching the 'Rav Papa Analysis' prose about Rav Papa's reading of mechutach u-mesuras and Rabbi Yosi's ke-tikno le-chaim.",
+      "second_heading": "Rav Zvid Challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 are Rav Zevid's objection to Rav Pappa's interpretation and his alternative reading, directly matching the 'Rav Zvid Challenge' prose about rubo ke-kulo and Rav Zevid's recast of the baraita.",
+      "current_heading": "Rav Zvid Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Baraita Parallel",
+    "candidates": [
+      "Baraita Parallel",
+      "Head Majority Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita that discusses dismembered/reversed birth defaulting to majority, head exempting in normal order, and Rabbi Yosi's qualification about emerging alive \u2014 exactly what the 'Baraita Parallel' prose describes.",
+      "chosen_heading": "Baraita Parallel",
+      "current_heading": "Baraita Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Head Majority Defined",
+    "candidates": [
+      "Head Majority Defined",
+      "Mishnah Overview"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly defines what constitutes 'most of the head' with the three opinions (Rabbi Yosei on temples, Abba \u1e24anan on forehead, and the view on corners of the head), which is precisely what the 'Head Majority Defined' section's prose discusses.",
+      "chosen_heading": "Head Majority Defined",
+      "current_heading": "Head Majority Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Mishnah Overview",
+    "candidates": [
+      "Mishnah Overview",
+      "R. Yehoshua b. Levi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage presents exactly the two cases (unknown sex, and unknown whether a fetus at all) that the 'Mishnah Overview' prose directly explains and analyzes, including the teshev le-zachar ule-nekevah ule-niddah ruling.",
+      "chosen_heading": "Mishnah Overview",
+      "current_heading": "Mishnah Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "R. Yehoshua b. Levi",
+    "candidates": [
+      "R. Yehoshua b. Levi",
+      "Animal Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core content described under heading 0 \u2014 Rabbi Yehoshua ben Levi's ruling about the woman who crosses a river and the immediate challenge from the mishna's teshev le-niddah ruling, which the prose explicitly anticipates and discusses.",
+      "chosen_heading": "R. Yehoshua b. Levi",
+      "current_heading": "R. Yehoshua b. Levi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Animal Parallel",
+    "candidates": [
+      "Animal Parallel",
+      "Ravina's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the same continuous discussion: item 1 resolves the mishna/Rabbi Yehoshua ben Levi tension by distinguishing presumed vs. non-presumed pregnancy, then items 2-3 introduce and question the animal parallel (baraita about the animal that went out full and came back empty), which is precisely what the 'Animal Parallel' prose describes.",
+      "chosen_heading": "Animal Parallel",
+      "current_heading": "Animal Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Ravina's Answer",
+    "candidates": [
+      "Ravina's Answer",
+      "Woman in Error Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Ravina's answer and its immediate Gemara refinement about the turbid liquids sign undermining the majority, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Ravina's Answer",
+      "current_heading": "Ravina's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Woman in Error Case",
+    "candidates": [
+      "Woman in Error Case",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together \u2014 Ravin's report of the challenge and the baraita's opening facts \u2014 are precisely what heading 0 describes: the ki ata Ravin narrative, the to'eh baraita, and the woman who left pregnant and returned empty, examined as a potential challenge to Rabbi Yehoshua ben Levi.",
+      "chosen_heading": "Woman in Error Case",
+      "current_heading": "Woman in Error Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Case Setup",
+      "Worst-Case Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage details the conclusion of the worst-case scenario analysis \u2014 when she may resume relations and how many immersions are required \u2014 which is the direct output of the worst-case reasoning described in the 'Worst-Case Scenario' prose, not the initial case setup.",
+      "chosen_heading": "Worst-Case Scenario",
+      "current_heading": "Case Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Worst-Case Scenario",
+    "candidates": [
+      "Case Setup",
+      "Worst-Case Scenario",
+      "Tevilah Timing",
+      "Structured Scenario",
+      "Days 40 & 80",
+      "Weeks 1-2 Analysis",
+      "Single Permitted Night",
+      "95 Immersions",
+      "Final Immersion",
+      "Week 3 Zava Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage explains why she cannot have relations during weeks one, two, and three (yoledet zachar, yoledet nekevah, yoledet nekevah be-zova) and then poses the objection about week four \u2014 precisely the content described in candidate 5 ('Weeks 1-2 Analysis'), which discusses why she cannot have relations during the first two weeks due to childbirth tumah, and naturally extends into week three and the week-four challenge.",
+      "chosen_heading": "Weeks 1-2 Analysis",
+      "current_heading": "Worst-Case Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Week 3 Zava Status",
+    "candidates": [
+      "Tevilah Timing",
+      "Structured Scenario",
+      "Days 40 & 80",
+      "Weeks 1-2 Analysis",
+      "Single Permitted Night",
+      "95 Immersions",
+      "Final Immersion",
+      "Week 3 Zava Status",
+      "Yemei Leida Phrase",
+      "Night Bleeding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage explains why Ravin said he didn't know the objection to Rabbi Yehoshua ben Levi \u2014 resolving it by suggesting her birth was distant (hirchika leida), which directly concerns the 'yemei leida' framework and the phrase about childbirth timing that section 8 discusses.",
+      "chosen_heading": "Yemei Leida Phrase",
+      "current_heading": "Week 3 Zava Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Night Bleeding",
+    "candidates": [
+      "Yemei Leida Phrase",
+      "Night Bleeding",
+      "Week 4 Problem",
+      "Ravin's Defense",
+      "Week 3 Saturday",
+      "Week 1 Immersions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Week 4 Problem",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss why the pure fifth week still doesn't permit relations due to uncertainty about each day of week four being the start of niddah, which is precisely what the 'Week 4 Problem' prose describes.",
+      "second_heading": "Week 3 Saturday",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 discuss the day-21 question and Rabbi Shimon's ruling prohibiting relations on the seventh day of ziva purity, which matches the 'Week 3 Saturday' prose exactly.",
+      "current_heading": "Night Bleeding",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Week 1 Immersions",
+    "candidates": [
+      "Week 4 Problem",
+      "Ravin's Defense",
+      "Week 3 Saturday",
+      "Week 1 Immersions",
+      "Week 2 Immersions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the ninety-five immersions and the first-week nighttime immersions due to uncertainty about whether she gave birth to a male, which is precisely what the 'Week 1 Immersions' prose section describes.",
+      "chosen_heading": "Week 1 Immersions",
+      "current_heading": "Week 1 Immersions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Week 2 Immersions",
+    "candidates": [
+      "Week 2 Immersions",
+      "Week 3 Immersions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses week two immersions \u2014 nighttime immersions for a female birth scenario and daytime immersions for a male birth with ziva \u2014 which matches exactly the prose under 'Week 2 Immersions'.",
+      "chosen_heading": "Week 2 Immersions",
+      "current_heading": "Week 2 Immersions",
+      "moved": false
+    }
+  }
+]

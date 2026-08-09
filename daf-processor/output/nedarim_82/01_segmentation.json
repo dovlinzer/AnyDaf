@@ -25,7 +25,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Rava's Question to Rav Nachman: Is Denial of Sexual Relations Inuy Nefesh?",
@@ -58,7 +58,7 @@
           "timestamp": "07:59"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -447,5 +447,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "18:01",
+  "amud_b_micro_title": "Sole Provider Case",
+  "shiur_start_daf": 82,
+  "shiur_start_amud": "a"
 }

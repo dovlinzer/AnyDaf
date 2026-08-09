@@ -1,0 +1,154 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Hair Growth Logic",
+    "candidates": [
+      "Mishnah Overview",
+      "Three Metzora Stages",
+      "Tahara Ritual",
+      "Gamro vs. Sipro",
+      "Final Purification",
+      "Short vs. Long",
+      "Hair Growth Logic",
+      "Rav Sharvaya's Challenge",
+      "Hypothetical Scenario",
+      "Real Halacha Problem",
+      "Case Setup",
+      "Safek Resolution",
+      "Timeline: 60 & 120 Days",
+      "Triple Shaving Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Rav \u1e24isda's distinction between short and lengthy naziriteship, Rav Sherevya's objection, and Rav Sherevya's own resolution \u2014 which is precisely the content described in the 'Hair Growth Logic' section's prose about the short vs. long nezirut distinction and the fifty-day scenario.",
+      "chosen_heading": "Hair Growth Logic",
+      "current_heading": "Hair Growth Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Triple Shaving Structure",
+    "candidates": [
+      "Rav Sharvaya's Challenge",
+      "Hypothetical Scenario",
+      "Real Halacha Problem",
+      "Case Setup",
+      "Safek Resolution",
+      "Timeline: 60 & 120 Days",
+      "Triple Shaving Structure",
+      "Shaving Non-Doubling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents Rami bar \u1e24ama's objection from the mishna about the nazir with double safek (tamei and muchlat), giving the 60-day and 120-day figures and their Tosefta elaboration for a year-long nezirut \u2014 exactly the material that heading 7's prose describes as confirming that yemei gamro and yemei sipro do not count toward nezirut, directly refuting Rav Chisda.",
+      "chosen_heading": "Shaving Non-Doubling",
+      "current_heading": "Triple Shaving Structure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Shaving Non-Doubling",
+    "candidates": [
+      "Triple Shaving Structure",
+      "Shaving Non-Doubling",
+      "Rav Ashi's Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shaving Non-Doubling",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the four-year requirement and the proof that yemei gamro/sipro do not count toward nezirut, directly matching the 'Shaving Non-Doubling' prose about the four-year figure refuting Rav Chisda.",
+      "second_heading": "Rav Ashi's Question",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav Ashi's objection asking for the biblical source that yemei chaluto do not count, which precisely matches the 'Rav Ashi's Question' prose about ein li ela yemei tumah and yemei chaluto minayin.",
+      "current_heading": "Shaving Non-Doubling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rav Ashi's Question",
+    "candidates": [
+      "Rav Ashi's Question",
+      "Graveyard Nazir Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection of the kal va-chomer analogy between yemei tumah and yemei chaluto, specifically arguing that tumah is weightier because it negates previous days while chaluto does not \u2014 which is precisely the challenge described in candidate 1's prose about the analogy being challenged on the grounds that tumas meis destroys earlier days while tzara'at does not.",
+      "chosen_heading": "Graveyard Nazir Logic",
+      "current_heading": "Rav Ashi's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Graveyard Nazir Logic",
+    "candidates": [
+      "Graveyard Nazir Logic",
+      "Shaving & Korban",
+      "Musgar Stage Counts",
+      "Fundamental Non-Counting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage opens with the *nazir be-kever kal va-chomer* that candidate 0's prose explicitly describes, and the subsequent items (yemei sipro, yemei hasgiro) form a continuous logical chain flowing from that initial argument.",
+      "chosen_heading": "Graveyard Nazir Logic",
+      "current_heading": "Graveyard Nazir Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Fundamental Non-Counting",
+    "candidates": [
+      "Shaving & Korban",
+      "Musgar Stage Counts",
+      "Fundamental Non-Counting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the baraita's conclusion (yemei sipro/gomro ein olim, but zav/zavah/musgar do count) followed by the Gemara's deployment of that baraita against Rav \u1e24isda via the nezirut merubah argument \u2014 exactly what the 'Fundamental Non-Counting' prose describes.",
+      "chosen_heading": "Fundamental Non-Counting",
+      "current_heading": "Fundamental Non-Counting",
+      "moved": false
+    }
+  }
+]

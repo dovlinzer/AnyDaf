@@ -1,0 +1,314 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna Reading",
+    "candidates": [
+      "Mishna Reading",
+      "Intent & Practice",
+      "Ezov Identification",
+      "Ulla & Shumshuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself, and the current 'Mishna Reading' section prose directly summarizes and explains this exact mishna content about ezovon, yo'ezer, mei dekalim, and kos ikarin.",
+      "chosen_heading": "Mishna Reading",
+      "current_heading": "Mishna Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Ulla & Shumshuk",
+    "candidates": [
+      "Intent & Practice",
+      "Ezov Identification",
+      "Ulla & Shumshuk",
+      "Tapeworm Treatment",
+      "Liver Worm Treatment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three identifications of ezov (Rav Yosef, Ulla, Rav Pappi/Rav Yirmeya) plus the tapeworm treatment, spanning headings 1-3, but the current placement under 'Ulla & Shumshuk' (index 2) misses that the passage begins with Rav Yosef's identification which belongs under 'Ezov Identification' (index 1), and since the entire gemara passage starts there and flows through, index 1 is the best single home \u2014 however, given the passage also contains the tapeworm material of index 3, and the essay has split these into separate sections, the passage as a whole most naturally starts under index 1 where Rav Yosef's identification opens the gemara discussion.",
+      "chosen_heading": "Ezov Identification",
+      "current_heading": "Ulla & Shumshuk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Liver Worm Treatment",
+    "candidates": [
+      "Tapeworm Treatment",
+      "Liver Worm Treatment",
+      "Medical Knowledge",
+      "Water Poison Remedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss liver worm treatment \u2014 yo'ezer/potnak eaten with seven white dates, causes of liver worms, and the sequence of fallback remedies \u2014 which precisely matches the 'Liver Worm Treatment' prose description.",
+      "chosen_heading": "Liver Worm Treatment",
+      "current_heading": "Liver Worm Treatment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Water Poison Remedy",
+    "candidates": [
+      "Medical Knowledge",
+      "Water Poison Remedy",
+      "Snake Poison Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Water Poison Remedy' prose section discusses: the identity of chumtarya/chutra yechida, its use for exposed/poisoned water, and the five-roses-and-five-cups-of-beer remedy, matching the current placement perfectly.",
+      "chosen_heading": "Water Poison Remedy",
+      "current_heading": "Water Poison Remedy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Snake Poison Case",
+    "candidates": [
+      "Snake Poison Case",
+      "Snake Venom Options"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the specific remedy made by Rav A\u1e25advoi bar Ami's mother (rose + beer, boiling, oven treatment), which matches exactly the prose in 'Snake Poison Case' discussing this same remedy in detail.",
+      "chosen_heading": "Snake Poison Case",
+      "current_heading": "Snake Poison Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Snake Venom Options",
+    "candidates": [
+      "Snake Venom Options",
+      "Snake Bite Treatment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the remedies discussed in the 'Snake Venom Options' prose: Rav Avya's white goat milk, Rav Huna bar Yehuda's etrog with honey, Rabbi \u1e24anina's aged urine for various maladies, and Rabbi Yo\u1e25anan's anigron/avangar/balsam remedies \u2014 all of which match the current section's prose description precisely.",
+      "chosen_heading": "Snake Venom Options",
+      "current_heading": "Snake Venom Options",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Snake Bite Treatment",
+    "candidates": [
+      "Snake Bite Treatment",
+      "Snake Bite Cause",
+      "Snake Avoidance"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Snake Bite Treatment",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the treatments for swallowing a snake and being bitten by a snake (hops/salt/running, donkey fetus remedy), which matches heading 0's prose exactly.",
+      "second_heading": "Snake Bite Cause",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers Abaye's diagnosis that the snake of the rabbis bit the official due to violating a rabbinic decree, with no cure \u2014 matching heading 1's prose exactly.",
+      "current_heading": "Snake Bite Treatment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Snake Avoidance",
+    "candidates": [
+      "Snake Bite Cause",
+      "Snake Avoidance",
+      "Snakes & Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenarios covered in the 'Snake Avoidance' prose: a snake encircling a person, a snake pursuing someone with the basket/water/companion/cats/sand remedies \u2014 all of which are explicitly described in that section's prose.",
+      "chosen_heading": "Snake Avoidance",
+      "current_heading": "Snake Avoidance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Snakes & Women",
+    "candidates": [
+      "Snakes & Women",
+      "Internal Snake"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes a woman seeing a snake and testing whether it has directed attention toward her by throwing her garment before it \u2014 exactly the scenario described in the 'Snakes & Women' prose, which explicitly discusses this same garment-throwing diagnostic method.",
+      "chosen_heading": "Snakes & Women",
+      "current_heading": "Snakes & Women",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Internal Snake",
+    "candidates": [
+      "Internal Snake",
+      "Permitted Foods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the remedy for a snake that has entered a woman's body \u2014 including the tongs, barrels, fatty meat, cress and wine \u2014 which is precisely what the 'Internal Snake' section's prose discusses.",
+      "chosen_heading": "Internal Snake",
+      "current_heading": "Internal Snake",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Permitted Foods",
+    "candidates": [
+      "Permitted Foods",
+      "Beverages Permitted",
+      "Urine Question",
+      "Water Variants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three topics sequentially \u2014 kol ha'ochalim inclusions, kol hamashkin inclusions, and the urine question \u2014 and the current placement under 'Permitted Foods' captures the opening discussion, while the passage as a whole is a unified Talmudic unit that the essay's prose under heading 0 explicitly describes in full.",
+      "chosen_heading": "Permitted Foods",
+      "current_heading": "Permitted Foods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Water Variants",
+    "candidates": [
+      "Beverages Permitted",
+      "Urine Question",
+      "Water Variants",
+      "Zeysum Formula",
+      "Variant & Memory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the textual variants mei dekalim vs mei dekarim, Rabbah bar Beruna's explanation of the palm tree spring, and Ulla's comparison with Babylonian beer \u2014 exactly what the 'Water Variants' prose describes.",
+      "chosen_heading": "Water Variants",
+      "current_heading": "Water Variants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Variant & Memory",
+    "candidates": [
+      "Zeysum Formula",
+      "Variant & Memory",
+      "Pesach-Shavuot",
+      "Cos Ikrin Mix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Yosef's formula AND Rav Papa's variant AND the mnemonic AND the Pesach-Shavuot drinking instruction all in one continuous Talmudic excerpt, but the content begins with Rav Yosef's formula (heading 0) and the current placement under 'Variant & Memory' (heading 1) splits what is a single unified passage \u2014 however, since heading 0 ('Zeysum Formula') covers Rav Yosef's description which opens the passage and encompasses the full recipe discussion, and the passage as a whole is one unit, it best fits under heading 0 where the formula discussion begins.",
+      "chosen_heading": "Zeysum Formula",
+      "current_heading": "Variant & Memory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Cos Ikrin Mix",
+    "candidates": [
+      "Pesach-Shavuot",
+      "Cos Ikrin Mix",
+      "Three Ingredients",
+      "Two Ingredients",
+      "Remedy 1",
+      "Remedy 2",
+      "Remedy 3",
+      "Remedy 4",
+      "Remedy 5",
+      "Remedy 6",
+      "Remedy 7",
+      "Remedy 8",
+      "Remedy 9",
+      "Remedy 10",
+      "Remedy 11",
+      "Jaundice Two Ingredients",
+      "Remedy 1",
+      "Remedy 2",
+      "Remedy 3",
+      "Remedy 4",
+      "Remedy 5",
+      "Remedy 6",
+      "Remedy 7",
+      "Sterilization Ban",
+      "Intent & Effect",
+      "Rav Assi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly defines what a 'kos ikarin' is (Rabbi Yochanan's recipe of three ingredients) and begins discussing its use for a zava and jaundice, which exactly matches the 'Cos Ikrin Mix' section's prose about Rabbi Yochanan's recipe and the three ingredients.",
+      "chosen_heading": "Cos Ikrin Mix",
+      "current_heading": "Cos Ikrin Mix",
+      "moved": false
+    }
+  }
+]

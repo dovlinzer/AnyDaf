@@ -1,0 +1,327 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Maamar de-Heitera",
+    "candidates": [
+      "Maamar as Kinyan",
+      "Pushes Off Co-wife",
+      "Maamar de-Heitera",
+      "Meshayer Position",
+      "Meshayer Contradiction",
+      "Yevama Distinction",
+      "Nisuin Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Pushes Off Co-wife",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 develop Rabbi Elazar's teaching that maamar is not kinyan gamur but only pushes off the co-wife, with Rabbi Avin's proof and the maamar de-heteira resolution, matching the 'Pushes Off Co-wife' prose.",
+      "second_heading": "Meshayer Position",
+      "second_confidence": "high",
+      "second_reason": "Items 6-8 are Rav Ashi's parallel reformulation introducing the doche u-meshayyer position, Rabbi Avin's contradiction from the mishna, and the yevama de-chazya resolution, matching the 'Meshayer Position' prose.",
+      "current_heading": "Maamar de-Heitera",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Nisuin Question",
+    "candidates": [
+      "Meshayer Position",
+      "Meshayer Contradiction",
+      "Yevama Distinction",
+      "Nisuin Question",
+      "Abaye's Answer",
+      "Eirusin Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's question about whether maamar creates nisuin or eirusin according to Beit Shammai, and Abaye's immediate response asking 'le-mai hilcheta,' which directly matches the 'Nisuin Question' heading's prose describing Rava/Rabba probing whether maamar achieves nisuin status and Abaye's follow-up question.",
+      "chosen_heading": "Nisuin Question",
+      "current_heading": "Nisuin Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Eirusin Rights",
+    "candidates": [
+      "Abaye's Answer",
+      "Eirusin Rights",
+      "Chuppah Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's argument that maamar cannot confer nisuin rights (inheritance, tumah, vow annulment) because even ordinary eirusin de-Oraita does not confer them per Rabbi Chiyya's baraita \u2014 this is precisely the content described in candidate 0's prose about Abaye's answer, not the separate analytical section in candidate 1.",
+      "chosen_heading": "Abaye's Answer",
+      "current_heading": "Eirusin Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Chuppah Requirement",
+    "candidates": [
+      "Eirusin Rights",
+      "Chuppah Requirement",
+      "Bi'ah as Chuppah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly poses the question of whether maamar constitutes nisuin (not requiring chuppah) or eirusin (requiring delivery to chuppah), which is precisely the question Rava's refinement described in the 'Chuppah Requirement' prose.",
+      "chosen_heading": "Chuppah Requirement",
+      "current_heading": "Chuppah Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Bi'ah as Chuppah",
+    "candidates": [
+      "Bi'ah as Chuppah",
+      "Zikat Yevamim Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's argument that bi'ah in yibum works even against her will (be'al korchah) without maamar, making maamar-followed-by-bi'ah a fortiori permissible \u2014 exactly the content discussed in the 'Bi'ah as Chuppah' prose.",
+      "chosen_heading": "Bi'ah as Chuppah",
+      "current_heading": "Bi'ah as Chuppah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Zikat Yevamim Removal",
+    "candidates": [
+      "Zikat Yevamim Removal",
+      "Shomeret Yavam",
+      "Rabbinic Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabba's statement about zikat yevamin being removed and replaced by zikat eirusin, which is precisely what the prose under 'Zikat Yevamim Removal' discusses.",
+      "chosen_heading": "Zikat Yevamim Removal",
+      "current_heading": "Zikat Yevamim Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Rabbinic Dispute",
+    "candidates": [
+      "Shomeret Yavam",
+      "Rabbinic Dispute",
+      "Maamar Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the mishna's three-way dispute and the gemara's analysis of the coherence of each position \u2014 exactly what the 'Rabbinic Dispute' prose describes, including Rabbi Eliezer's difficulty with two yevamin.",
+      "chosen_heading": "Rabbinic Dispute",
+      "current_heading": "Rabbinic Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Maamar Context",
+    "candidates": [
+      "Maamar Context",
+      "Nisuin vs Eirusin",
+      "Partnership Annulment",
+      "Meshayer & Hafara",
+      "Court Support Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Ami bar Ahava's identification of the case as involving maamar and Beit Shammai's position that maamar acquires a full acquisition, which is precisely what the 'Maamar Context' prose describes.",
+      "chosen_heading": "Maamar Context",
+      "current_heading": "Maamar Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Court Support Case",
+    "candidates": [
+      "Nisuin vs Eirusin",
+      "Partnership Annulment",
+      "Meshayer & Hafara",
+      "Court Support Case",
+      "Case 1: Rachel Then Leah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: item 1 raises the nisuin/eirusin question via vow annulment, item 2 challenges Rav Nachman's partnership answer from Rabbi Elazar's position, item 3 offers the alternate 'court support' explanation with singular 'yafer', and item 4 supplies Rav Pinchas/Rava's principle that underlies that alternate explanation \u2014 exactly what the 'Court Support Case' prose describes.",
+      "chosen_heading": "Court Support Case",
+      "current_heading": "Court Support Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Case 1: Rachel Then Leah",
+    "candidates": [
+      "Case 1: Rachel Then Leah",
+      "Case 1 Result",
+      "No Zikat Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text presents the three-brother case setup and its outcomes, which matches Candidate 0's prose that introduces this exact scenario with Reuven/Shimon/Levi married to Rachel/Leah/Devorah \u2014 the current placement is correct.",
+      "chosen_heading": "Case 1: Rachel Then Leah",
+      "current_heading": "Case 1: Rachel Then Leah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "No Zikat Proof",
+    "candidates": [
+      "Case 1 Result",
+      "No Zikat Proof",
+      "Case 2: Devorah First",
+      "Case 2 Result",
+      "Kal Va-Chomer",
+      "Sequence of Deaths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's inference about maamar and zika, and Rav Nachman's conclusion that 'ein zika va-afilu b'chad acha,' which is precisely what the 'No Zikat Proof' section's prose describes.",
+      "chosen_heading": "No Zikat Proof",
+      "current_heading": "No Zikat Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Sequence of Deaths",
+    "candidates": [
+      "Case 2: Devorah First",
+      "Case 2 Result",
+      "Kal Va-Chomer",
+      "Sequence of Deaths",
+      "Olamit Forbidding",
+      "Rav Yehuda's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text describes exactly the scenario discussed in 'Case 2 Result' \u2014 three brothers, two married to sisters, one to an unrelated woman, with the ruling that the first woman leaves due to achot isha and the second as her rival wife, plus the maamar sub-case \u2014 matching that prose precisely.",
+      "chosen_heading": "Case 2 Result",
+      "current_heading": "Sequence of Deaths",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Rav Yehuda's Rule",
+    "candidates": [
+      "Olamit Forbidding",
+      "Rav Yehuda's Rule",
+      "Attribution Question",
+      "Status Finality",
+      "Death Status Lock"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The Gemara passage asks why the mishna about two brothers married to two sisters is needed when it seems redundant, then gives a kal vachomer argument \u2014 this directly matches the 'Death Status Lock' prose which describes the Gemara challenging by citing that exact mishna (shenei achim nesu'im shtei achayot) and explaining the kal vachomer logic between the two cases.",
+      "chosen_heading": "Death Status Lock",
+      "current_heading": "Rav Yehuda's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Death Status Lock",
+    "candidates": [
+      "Attribution Question",
+      "Status Finality",
+      "Death Status Lock",
+      "Divorce Permits Yibum",
+      "Life vs Divorce",
+      "All Permit Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Death Status Lock",
+      "first_confidence": "high",
+      "first_reason": "Items 1-7 form a continuous gemara discussion about Rav Yehuda's principle regarding permanent prohibition once forbidden at one time, matching the Death Status Lock and its challenges/resolutions.",
+      "second_heading": "Divorce Permits Yibum",
+      "second_confidence": "high",
+      "second_reason": "Item 8 is a new, self-contained Mishna introducing an entirely different scenario (divorce rather than death) that matches the Divorce Permits Yibum prose.",
+      "current_heading": "Death Status Lock",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rabbi Meir Retracts",
+    "candidates": [
+      "Tosafos Four Reasons",
+      "Lav Bnei Keritut",
+      "Non-Jews as Shelichim",
+      "Rabbi Meir Retracts",
+      "Zachin L'Adam",
+      "Chakhamim on Shichrur",
+      "Feeding Obligations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna passage about retracting a get and shtar shichrur before delivery is precisely what the 'Rabbi Meir Retracts' section's prose describes.",
+      "chosen_heading": "Rabbi Meir Retracts",
+      "current_heading": "Rabbi Meir Retracts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Feeding Obligations",
+    "candidates": [
+      "Zachin L'Adam",
+      "Chakhamim on Shichrur",
+      "Feeding Obligations",
+      "Rav Huna Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Rabbis' ruling on bills of manumission vs. divorce, the feeding obligation argument, and Rabbi Meir's teruma counter-argument with the Rabbis' kinyano response \u2014 are precisely what the 'Feeding Obligations' prose describes, making the current placement correct.",
+      "chosen_heading": "Feeding Obligations",
+      "current_heading": "Feeding Obligations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rav Huna Analogy",
+    "candidates": [
+      "Rav Huna Analogy",
+      "Tosafot Objection",
+      "Rav Yochanan vs Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Huna sitting before Rabbi Yirmiyah (who is dozing) and proposing the inference about seizing property for a creditor, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Rav Huna Analogy",
+      "current_heading": "Rav Huna Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Rav Yochanan vs Yosef",
+    "candidates": [
+      "Tosafot Objection",
+      "Rav Yochanan vs Yosef",
+      "When One Says Give"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the same exchange: Rav Yitzchak bar Yosef challenging Rav Huna about whether tofes le-ba'al chov works even to the detriment of others, and Rabbi Yirmiyah waking up to report Rabbi Yochanan's ruling that it does not \u2014 exactly the content described in the 'Rav Yochanan vs Yosef' prose.",
+      "chosen_heading": "Rav Yochanan vs Yosef",
+      "current_heading": "Rav Yochanan vs Yosef",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "When One Says Give",
+    "candidates": [
+      "When One Says Give",
+      "No Obligation Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items discuss the 'tnu k'omer zachi' principle and the Rav \u1e24isda/Ameimar analysis of tofes le-ba'al chov versus the pe'ah mishna dispute between Rabbi Eliezer and the Rabbis, which is precisely what the prose of candidate 0 describes.",
+      "chosen_heading": "When One Says Give",
+      "current_heading": "When One Says Give",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "No Obligation Inference",
+    "candidates": [
+      "No Obligation Inference",
+      "Counter: Must Feed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial inference from the mishna that a master may say 'work for me and I will not feed you,' which is precisely what the 'No Obligation Inference' section's prose describes before the gemara's resistance begins.",
+      "chosen_heading": "No Obligation Inference",
+      "current_heading": "No Obligation Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Counter: Must Feed",
+    "candidates": [
+      "Counter: Must Feed",
+      "Wife vs Slave",
+      "Slave Without Means",
+      "Cities of Refuge",
+      "Slave's Own Labor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's rejection using the phrase 'tze ma'asei yadecha bi-mezonotecha' (spend your earnings to sustain yourself), which is precisely what the 'Counter: Must Feed' section's prose describes and analyzes.",
+      "chosen_heading": "Counter: Must Feed",
+      "current_heading": "Counter: Must Feed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Slave's Own Labor",
+    "candidates": [
+      "Wife vs Slave",
+      "Slave Without Means",
+      "Cities of Refuge",
+      "Slave's Own Labor",
+      "Hedesh Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 16 items form a continuous chain of objections and resolutions about whether a master must feed his slave, covering the cities of refuge baraita, the wife comparison, the kol kevuda argument, and the Rabban Shimon ben Gamliel tannaitic dispute \u2014 exactly the content described in the current heading's prose.",
+      "chosen_heading": "Slave's Own Labor",
+      "current_heading": "Slave's Own Labor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Hedesh Case",
+    "candidates": [
+      "Hedesh Case",
+      "Borrowing to Eat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav's ruling about consecrating a slave's hands and the borrowing-to-eat mechanism, which is precisely what the 'Hedesh Case' prose introduces and explains as the initial presentation of this case.",
+      "chosen_heading": "Hedesh Case",
+      "current_heading": "Hedesh Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Borrowing to Eat",
+    "candidates": [
+      "Borrowing to Eat",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-answer chain about why the slave borrows for surplus food and why hekdesh permits it, which is precisely what the 'Borrowing to Eat' prose discusses in detail.",
+      "chosen_heading": "Borrowing to Eat",
+      "current_heading": "Borrowing to Eat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Rav's Position",
+      "Bare Minimum Feeding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav's ruling about consecrating a slave's hands \u2014 the sub-peruta mechanism for repayment and Rav's explicit statement that the slave works and eats \u2014 which is precisely what the 'Rav's Position' prose section is about.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Bare Minimum Feeding",
+    "candidates": [
+      "Bare Minimum Feeding",
+      "Severing Hand",
+      "Charity Food"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains that Rav's two rulings are reconciled by distinguishing whether the master feeds the slave or not, which is precisely what the 'Bare Minimum Feeding' section's prose describes as the gemara's resolution.",
+      "chosen_heading": "Bare Minimum Feeding",
+      "current_heading": "Bare Minimum Feeding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Charity Food",
+    "candidates": [
+      "Severing Hand",
+      "Charity Food",
+      "No Feeding Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the argument about whether the master can say 'work for me but I will not sustain you,' which is precisely the content of the 'No Feeding Required' section discussing whether the master has an obligation to feed his slave while collecting labor benefits.",
+      "chosen_heading": "No Feeding Required",
+      "current_heading": "Charity Food",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "No Feeding Required",
+    "candidates": [
+      "Charity Food",
+      "No Feeding Required",
+      "Doctor Bills"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's conclusive inference (*shma mina*) that a master CANNOT say 'work for me but I will not feed you' \u2014 this is Rav's position being confirmed, which the 'Charity Food' prose explicitly sets up as the inference drawn immediately after explaining the tension in Rabbi Yochanan's ruling, whereas the 'No Feeding Required' prose discusses Rabbi Yochanan's opposite conclusion that the master MAY collect without feeding.",
+      "chosen_heading": "Charity Food",
+      "current_heading": "No Feeding Required",
+      "moved": true
+    }
+  }
+]

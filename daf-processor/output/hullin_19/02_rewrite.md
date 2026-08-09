@@ -108,11 +108,6 @@ Abaye responds: אטו כל רובי דאמר רבי יוסי בר יהודה ק
 
 The Gemara presents a לישנא אחרינא, a second formulation of Rav Huna's statement in the name of Rav. In this version, the debate is framed from the outset as: מחלוקת שהגרים שליש ושחט שני שליש — the dispute concerns the case where the first third was performed incorrectly and the last two-thirds were performed correctly. Rabbi Yosi bar Rabbi Yehuda says it is valid: מידי דהוה אחתיכה דפגא — analogously to a pre-existing cut in the trachea, the invalid opening in the beginning is treated as though it were a natural wound, and the valid cutting of the remainder suffices. The Rabbis say it is invalid: התם מקום שחיטה הכא לאו מקום שחיטה — there, the pre-existing wound is in the proper location; here, the initial cut was not in the proper location. In the end the valid zone was not cut through its majority even though the majority depth of the trachea was reached.
 
-## Middle Third Case
-
-### Good-Bad-Good
-
-The second formulation then posits: if the first two-thirds were performed correctly and only the final third was above the zone — אבל שחט שני שליש והגרים שליש, דברי הכל כשרה — everyone agrees it is valid, because the principle of רובו של אחד כמוהו applies and we do not concern ourselves with what occurred after the majority was correctly executed.
 
 ## Lishna Achrina (II)
 

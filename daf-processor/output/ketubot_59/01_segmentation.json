@@ -105,7 +105,7 @@
           "timestamp": "13:22"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -148,8 +148,8 @@
           "timestamp": "20:19"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Rav Yosef's Explanation: The Unique Power of Konamot Over Hekdesh",
@@ -167,8 +167,8 @@
           "timestamp": "24:02"
         }
       ],
-      "sefaria_index": 12,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Abaye's Challenge: Can a Woman Forbid Her Future Labor That She Doesn't Own?",
@@ -186,8 +186,8 @@
           "timestamp": "25:37"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Rav Huna's Solution: Sanctifying the Hands Themselves (Kedusha Shel Guf)",
@@ -205,8 +205,8 @@
           "timestamp": "27:52"
         }
       ],
-      "sefaria_index": 13,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "The Delayed Kiddushin Formula: 'When I Get Divorced'",
@@ -224,7 +224,7 @@
           "timestamp": "29:42"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 5,
       "matched": false
     },
     {
@@ -243,7 +243,7 @@
           "timestamp": "31:33"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -262,7 +262,7 @@
           "timestamp": "34:09"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -281,7 +281,7 @@
           "timestamp": "43:22"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -339,7 +339,7 @@
         }
       ],
       "sefaria_index": 22,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Gemara's Interpretation of the Mishnah's Labor Descriptions",
@@ -669,5 +669,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 12,
+  "amud_b_timestamp": "32:03",
+  "amud_b_micro_title": "Lack of Control",
+  "shiur_start_daf": 58,
+  "shiur_start_amud": "b"
 }

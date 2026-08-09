@@ -1,0 +1,418 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rabbi Shimon's View",
+    "candidates": [
+      "Mishnah Setup",
+      "Rabbi Shimon's View",
+      "Status Duration",
+      "Who is the Nasi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself, presenting both the tanna kamma ruling (treated as commoners) and Rabbi Shimon's view together, which matches the 'Mishnah Setup' prose that introduces and explains the entire mishnah's case including the harei elu ke-hedyotot ruling \u2014 the current placement under 'Rabbi Shimon's View' splits what is a single mishnaic unit.",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Rabbi Shimon's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Who is the Nasi",
+    "candidates": [
+      "Status Duration",
+      "Who is the Nasi",
+      "Leviticus 4:3 Source",
+      "Kal VaComer Rejected",
+      "Im vs. Asher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly defines the nasi as the king based on Leviticus 4:22, which is precisely what the 'Who is the Nasi' section's prose describes.",
+      "chosen_heading": "Who is the Nasi",
+      "current_heading": "Who is the Nasi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Im vs. Asher",
+    "candidates": [
+      "Leviticus 4:3 Source",
+      "Kal VaComer Rejected",
+      "Im vs. Asher",
+      "Asher Nasi Yecheta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items together form the complete kal va-chomer argument and its rejection for both the kohen mashiach and the nasi \u2014 exactly the content described in candidate 1's prose about the kal va-chomer being proposed and then rejected because neither case can straightforwardly imply the other.",
+      "chosen_heading": "Kal VaComer Rejected",
+      "current_heading": "Im vs. Asher",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Asher Nasi Yecheta",
+    "candidates": [
+      "Im vs. Asher",
+      "Asher Nasi Yecheta",
+      "Prat L'Choleh",
+      "Tzaraat = Spiritual",
+      "Uzziah Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items discuss the baraita about whether 'asher nasi yecheta' implies a decree that the king must sin, the comparison to the kohen mashiach's 'im', and the digression into tzaraat of houses (Rabbi Yehuda/Rabbi Shimon), the zav comparison, and Rava/Rav Pappa's qualifications \u2014 all of which are explicitly described in candidate 1's prose.",
+      "chosen_heading": "Asher Nasi Yecheta",
+      "current_heading": "Asher Nasi Yecheta",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Uzziah Story",
+    "candidates": [
+      "Prat L'Choleh",
+      "Tzaraat = Spiritual",
+      "Uzziah Story",
+      "Beit HaChutzfiyot",
+      "Ship Provisions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three elements in sequence \u2014 the baraita excluding a sick nasi, Rav Avdimi's clarification about leprosy, and the proof from Kings with the 'beit ha-chofshit' comment \u2014 and heading 0 ('Prat L'Choleh') is where the baraita itself begins, making it the natural home for the entire unified talmudic excerpt.",
+      "chosen_heading": "Prat L'Choleh",
+      "current_heading": "Uzziah Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Ship Provisions",
+    "candidates": [
+      "Beit HaChutzfiyot",
+      "Ship Provisions",
+      "Comet Knowledge",
+      "Gamliel's Question",
+      "Two Students"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the boat journey, provisions (bread and flour), and Rabban Gamliel's question about the delay \u2014 exactly what the 'Ship Provisions' prose discusses, before the comet answer is treated separately under 'Comet Knowledge'.",
+      "chosen_heading": "Ship Provisions",
+      "current_heading": "Ship Provisions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Two Students",
+    "candidates": [
+      "Comet Knowledge",
+      "Gamliel's Question",
+      "Two Students",
+      "Serara as Slavery"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Serara as Slavery",
+    "candidates": [
+      "Serara as Slavery",
+      "Elders' Counsel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabban Gamliel sending for them and their initial refusal followed by coming, and his question about 'granting authority' \u2014 this is exactly the narrative discussed in the 'Serara as Slavery' prose, which explicitly references this sequence of events and quotes the same phrase.",
+      "chosen_heading": "Serara as Slavery",
+      "current_heading": "Serara as Slavery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Elders' Counsel",
+    "candidates": [
+      "Elders' Counsel",
+      "Rehoboam's Hubris",
+      "Schism Result",
+      "Ashrei Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the exact verse (I Kings 12:7) about being a servant to the people, which is the elders' counsel to Rehoboam \u2014 directly matching the 'Elders' Counsel' section's prose discussion of that same verse and its message that genuine leadership is servitude.",
+      "chosen_heading": "Elders' Counsel",
+      "current_heading": "Elders' Counsel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Ashrei Drasha",
+    "candidates": [
+      "Rehoboam's Hubris",
+      "Schism Result",
+      "Ashrei Drasha",
+      "Rava's Pushback"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the baraita about Rabbi Yochanan ben Zakai's 'ashrei ha-dor' drasha, which the prose of candidate 2 ('Ashrei Drasha') directly describes and discusses.",
+      "chosen_heading": "Ashrei Drasha",
+      "current_heading": "Ashrei Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Rava's Pushback",
+    "candidates": [
+      "Rava's Pushback",
+      "Context Rules",
+      "Eccl 8:14 Cited",
+      "First Interp"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rava's objection about applying 'asher' to Jeroboam and the Gemara's resolution about contextual formulation, which matches the current heading 'Rava's Pushback' and its prose perfectly.",
+      "chosen_heading": "Rava's Pushback",
+      "current_heading": "Rava's Pushback",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "First Interp",
+    "candidates": [
+      "Context Rules",
+      "Eccl 8:14 Cited",
+      "First Interp",
+      "Rava's Fix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 Rav Na\u1e25man bar \u1e24isda's drasha interpreting the verse as righteous suffering now/rewarded later and wicked prospering now/punished later \u2014 is precisely what the 'First Interp' prose describes, making the current placement correct.",
+      "chosen_heading": "First Interp",
+      "current_heading": "First Interp",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Rava's Fix",
+    "candidates": [
+      "Rava's Fix",
+      "Small Wealth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's objection and reframing, which is precisely what the 'Rava's Fix' section prose describes in detail.",
+      "chosen_heading": "Rava's Fix",
+      "current_heading": "Rava's Fix",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Small Wealth",
+    "candidates": [
+      "Small Wealth",
+      "Hosea 14:10"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly narrates the encounter between Rav Pappa, Rav Huna, and Rava about mastering tractates and becoming modestly wealthy, which is precisely what the 'Small Wealth' section's prose discusses in detail.",
+      "chosen_heading": "Small Wealth",
+      "current_heading": "Small Wealth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Hosea 14:10",
+    "candidates": [
+      "Hosea 14:10",
+      "Pesach Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both the citation of the Hosea verse and the Pesach example, but the current heading's prose explicitly states the gemara will find concrete examples after introducing the verse, making heading 0 a reasonable home, though heading 1's prose also describes this exact content \u2014 the current placement is acceptable as the passage begins with the verse citation that heading 0 is about.",
+      "chosen_heading": "Hosea 14:10",
+      "current_heading": "Hosea 14:10",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Pesach Example",
+    "candidates": [
+      "Pesach Example",
+      "Wife/Sister",
+      "Lot's Daughters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Reish Lakish's challenge to the Pesach example ('rasha karit leih?') and his parable of the wife/sister, which the Pesach Example prose explicitly describes as part of the Pesach illustration being challenged and abandoned \u2014 the wife/sister parable here is Reish Lakish's counter-argument within the Pesach discussion, not the standalone wife/sister example that gets separately proposed and rejected.",
+      "chosen_heading": "Pesach Example",
+      "current_heading": "Pesach Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Lot's Daughters",
+    "candidates": [
+      "Wife/Sister",
+      "Lot's Daughters",
+      "Lot's Intent",
+      "Entire Story Evil",
+      "Gaze Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the rejection 'mi dami? anan ka-amrinan chada derech, ve-hacha shtei drachim' and the transition 'ela mashal le-Lot u-shtei benotav,' which corresponds exactly to the Wife/Sister section's prose describing this rejection and the move to the Lot example \u2014 the current placement under 'Lot's Daughters' splits what is a single transitional unit that belongs with the Wife/Sister discussion.",
+      "chosen_heading": "Wife/Sister",
+      "current_heading": "Lot's Daughters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Gaze Analogy",
+    "candidates": [
+      "Lot's Intent",
+      "Entire Story Evil",
+      "Gaze Analogy",
+      "Second Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yochanan's proof that the entire verse is stated in the context of transgression \u2014 item 1 is his declaration and item 2 is his detailed explication \u2014 which is precisely what the 'Entire Story Evil' prose describes, whereas the 'Gaze Analogy' heading is downstream prose that summarizes the same content in essay form.",
+      "chosen_heading": "Entire Story Evil",
+      "current_heading": "Gaze Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Second Night",
+    "candidates": [
+      "Gaze Analogy",
+      "Second Night",
+      "Separation = Shame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'ones' objection, the dotted vav in 'bekumah,' Lot's partial knowledge upon waking, and the conclusion that he should not have drunk on the second night \u2014 all of which are precisely what the 'Second Night' prose describes.",
+      "chosen_heading": "Second Night",
+      "current_heading": "Second Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Separation = Shame",
+    "candidates": [
+      "Separation = Shame",
+      "David's Lineage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items expound verses from Proverbs about Lot's separation from Abraham leading to shame/contention \u2014 exactly the theme of the 'Separation = Shame' prose, which explicitly discusses these same derashoth about Lot separating from Avraham and the resulting conflicts with Ammon/Moab.",
+      "chosen_heading": "Separation = Shame",
+      "current_heading": "Separation = Shame",
+      "moved": false
+    }
+  }
+]

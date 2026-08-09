@@ -1,0 +1,185 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Abaye's Question",
+    "candidates": [
+      "Mishnah Overview",
+      "Rava's Answer",
+      "Abaye's Question",
+      "Presume Prior Knowledge",
+      "Two Presumptions",
+      "Counterargument",
+      "Neutralizing Arguments",
+      "Tosafot's Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a single continuous exchange: Rava's *kan nimtze'u kan hayu* principle (item 1), Abaye's objection about the intermediate post-*kiddushin* period (item 2), Rava's response about *ein adam shoteh be'kos* (item 3), and the Gemara's follow-up challenge about *ein adam mitpayes be'mumim* (item 4) \u2014 exactly the content described in candidate 2 ('Abaye's Question') prose.",
+      "chosen_heading": "Abaye's Question",
+      "current_heading": "Abaye's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Tosafot's Framework",
+    "candidates": [
+      "Presume Prior Knowledge",
+      "Two Presumptions",
+      "Counterargument",
+      "Neutralizing Arguments",
+      "Tosafot's Framework",
+      "Father's Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the core argument about two presumptions (chazakat ha'guf + ein adam shoteh be'kos) operating in her favor when blemishes are post-kiddushin, versus only one presumption available pre-kiddushin, which is precisely what the 'Two Presumptions' prose section describes.",
+      "chosen_heading": "Two Presumptions",
+      "current_heading": "Tosafot's Framework",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Father's Claim",
+    "candidates": [
+      "Tosafot's Framework",
+      "Father's Claim",
+      "Woman's Claim",
+      "Braita Challenge",
+      "Congenital Blemishes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's explanation distinguishing 'mana l'abba biyadeich' (father's house/father's claim) from 'mana li biyadeich' (husband's house/woman's own claim), which is precisely what the 'Father's Claim' section's prose describes.",
+      "chosen_heading": "Father's Claim",
+      "current_heading": "Father's Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Congenital Blemishes",
+    "candidates": [
+      "Woman's Claim",
+      "Braita Challenge",
+      "Congenital Blemishes",
+      "Shmuel's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the baraita challenge and its resolution (yateret answer), which is precisely what candidate 1 'Braita Challenge' describes \u2014 Rav Acha's objection to Rav Ashi and the question of why the father bears the burden for congenital blemishes.",
+      "chosen_heading": "Braita Challenge",
+      "current_heading": "Congenital Blemishes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Shmuel's Case",
+    "candidates": [
+      "Congenital Blemishes",
+      "Shmuel's Case",
+      "Comparison",
+      "Burden Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Shmuel's donkey-and-cow case plus the Gemara's attempt to identify which part of the kallah mishnah provides the parallel\u2014the bride in father's house vs. father-in-law's house comparison\u2014which is precisely what candidate 2 ('Comparison') describes in its prose.",
+      "chosen_heading": "Comparison",
+      "current_heading": "Shmuel's Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Burden Analysis",
+    "candidates": [
+      "Comparison",
+      "Burden Analysis",
+      "Ring Conditional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage \u2014 Rav Na\u1e25man bar Yitz\u1e25ak identifying the proof as coming from the bride-in-father's-house case specifically with regard to betrothal/kiddushin money \u2014 directly introduces the analysis elaborated in the 'Burden Analysis' prose, which explains why the kallah's possession of the ring is conditional and how that parallels the donkey-owner's burden.",
+      "chosen_heading": "Burden Analysis",
+      "current_heading": "Burden Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Ring Conditional",
+    "candidates": [
+      "Ring Conditional",
+      "Correction",
+      "True Principle",
+      "Needle Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses whether kiddushin money given le'tivu'a must be returned in a case of kiddushei ta'ut, which matches exactly the 'Ring Conditional' prose about the le'tivu'a dispute and its application to mistaken betrothal.",
+      "chosen_heading": "Ring Conditional",
+      "current_heading": "Ring Conditional",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Needle Case",
+    "candidates": [
+      "Correction",
+      "True Principle",
+      "Needle Case",
+      "Payment Presumption",
+      "Two Approaches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's introduction of the needle-in-stomach baraita, which is exactly what the 'Needle Case' section's prose describes and analyzes.",
+      "chosen_heading": "Needle Case",
+      "current_heading": "Needle Case",
+      "moved": false
+    }
+  }
+]

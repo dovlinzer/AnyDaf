@@ -1,0 +1,429 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Shnayim/Echad Rule",
+    "candidates": [
+      "Oath Cases Overview",
+      "Partial Payment Concession",
+      "D'Rabbanan Oath Rationale",
+      "One Witness Testifies",
+      "Rami Bar Chama Position",
+      "Deut. Source & Ed Echad",
+      "Witness Demands Oath",
+      "Shnayim/Echad Rule",
+      "Oath Taker Benefits",
+      "She Swears & Collects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents Rami bar \u1e24ama's argument that this is a biblical oath based on Deuteronomy 19:15 and the ed echad principle, which is precisely what the 'Rami Bar Chama Position' prose section describes \u2014 the current placement under 'Shnayim/Echad Rule' is too late in the logical sequence, as that section's prose covers the crystallized general principle as a conclusion to Rami's reasoning, whereas this passage is the argument itself.",
+      "chosen_heading": "Rami Bar Chama Position",
+      "current_heading": "Shnayim/Echad Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "She Swears & Collects",
+    "candidates": [
+      "Oath Taker Benefits",
+      "She Swears & Collects",
+      "Karka Lien Issue",
+      "D'Rabbanan to Appease"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's full statement with BOTH objections, and candidate 0 ('Oath Taker Benefits') is the heading that introduces Rava's response and his first objection \u2014 the natural home for the complete quoted text that encompasses both answers together, rather than splitting it under the second objection's heading.",
+      "chosen_heading": "Oath Taker Benefits",
+      "current_heading": "She Swears & Collects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "D'Rabbanan to Appease",
+    "candidates": [
+      "Karka Lien Issue",
+      "D'Rabbanan to Appease",
+      "Oath & Truthfulness",
+      "Husband's Clever Move"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct statement that the oath is rabbinic and instituted to appease the husband, which is precisely what the 'D'Rabbanan to Appease' section's prose describes and analyzes.",
+      "chosen_heading": "D'Rabbanan to Appease",
+      "current_heading": "D'Rabbanan to Appease",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Husband's Clever Move",
+    "candidates": [
+      "Oath & Truthfulness",
+      "Husband's Clever Move",
+      "Rashi on Weightiness",
+      "Curse vs. Oath",
+      "Double Payment Tactic",
+      "Combining Witnesses",
+      "Combining Witnesses",
+      "Rav Sheshes Fix",
+      "Two Ketubos Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Pappa's statement about the clever husband's strategy, which is precisely what heading 1 ('Husband's Clever Move') introduces in its prose.",
+      "chosen_heading": "Husband's Clever Move",
+      "current_heading": "Husband's Clever Move",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Two Ketubos Defense",
+    "candidates": [
+      "Rashi on Weightiness",
+      "Curse vs. Oath",
+      "Double Payment Tactic",
+      "Combining Witnesses",
+      "Combining Witnesses",
+      "Rav Sheshes Fix",
+      "Two Ketubos Defense",
+      "Witness Confidence",
+      "Rarity Assumption",
+      "Dead Husband Case",
+      "Shvuot Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous dispute-and-resolution chain about the 'two ketubot' defense: item 1 (Rav Sheisha's fix) leads into item 2 (Rav Ashi's objection that she can claim two ketubot and his resolution), which is precisely what the 'Two Ketubos Defense' prose section describes.",
+      "chosen_heading": "Two Ketubos Defense",
+      "current_heading": "Two Ketubos Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Shvuot Mishnah",
+    "candidates": [
+      "Witness Confidence",
+      "Rarity Assumption",
+      "Dead Husband Case",
+      "Shvuot Mishnah",
+      "Why Heirs Swear",
+      "Debtor Dead Principle",
+      "Heirs' Statement Test",
+      "Complete Denial Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes the mishnah from Shvuot about orphans/heirs collecting only by oath, which is precisely what the 'Shvuot Mishnah' section's prose describes as the Gemara adducing a parallel from that mishnah.",
+      "chosen_heading": "Shvuot Mishnah",
+      "current_heading": "Shvuot Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Complete Denial Rule",
+    "candidates": [
+      "Why Heirs Swear",
+      "Debtor Dead Principle",
+      "Heirs' Statement Test",
+      "Complete Denial Rule",
+      "Rav Ashi Objection",
+      "Heirs Say Father Paid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is precisely the Gemara's question about why heirs must swear when their father could collect without an oath \u2014 matching heading 0's prose exactly \u2014 and Item 2 is Rav Zerika/Rav Yehuda's qualification that follows directly from that resolution, both belonging together under 'Why Heirs Swear' rather than the current 'Complete Denial Rule' heading.",
+      "chosen_heading": "Why Heirs Swear",
+      "current_heading": "Complete Denial Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Heirs Say Father Paid",
+    "candidates": [
+      "Rav Ashi Objection",
+      "Heirs Say Father Paid",
+      "Husband in Hawaii",
+      "Oath for Absent Husband"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rava's objection and Rav Zerika's corrected ruling that when heirs claim their father never borrowed (lo lovisi), the creditor collects without an oath \u2014 precisely what the 'Heirs Say Father Paid' prose describes as the inverted ruling distinguishing the paid vs. never-borrowed scenarios.",
+      "chosen_heading": "Heirs Say Father Paid",
+      "current_heading": "Heirs Say Father Paid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Oath for Absent Husband",
+    "candidates": [
+      "Husband in Hawaii",
+      "Oath for Absent Husband",
+      "Mishum China Rationale",
+      "Woman's Standing",
+      "Creditor Different",
+      "Rava's Broad Rule",
+      "Absconding Risk",
+      "Creditor Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Acha Sar HaBira's ruling about 'lo shanu ela kesubas isha mishum china' and the distinction between a wife's ketubah and an ordinary creditor, which is precisely what the 'Mishum China Rationale' section's prose describes.",
+      "chosen_heading": "Mishum China Rationale",
+      "current_heading": "Oath for Absent Husband",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Creditor Protection",
+    "candidates": [
+      "Mishum China Rationale",
+      "Woman's Standing",
+      "Creditor Different",
+      "Rava's Broad Rule",
+      "Absconding Risk",
+      "Creditor Protection",
+      "Tosafot Dispute",
+      "Yerushalmi Compromise",
+      "Only Ketubah",
+      "Context Identified",
+      "Maintenance & Ketubah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Rava citing Rav Nachman extending collection rights to an ordinary creditor (baal chov), which is precisely what heading 3 'Rava's Broad Rule' describes \u2014 the current placement under 'Creditor Protection' is too late in the sequence.",
+      "chosen_heading": "Rava's Broad Rule",
+      "current_heading": "Creditor Protection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Maintenance & Ketubah",
+    "candidates": [
+      "Tosafot Dispute",
+      "Yerushalmi Compromise",
+      "Only Ketubah",
+      "Context Identified",
+      "Maintenance & Ketubah",
+      "Chanan's Rule",
+      "Bnei Kohanim View",
+      "Shimon = Chanan",
+      "Rabbis = Bnei Kohanim",
+      "Heirs Problem",
+      "Apotropos Context",
+      "After Husband's Death",
+      "No Oath Without Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items together cover exactly the content described in heading 4 ('Maintenance & Ketubah'): Rabbi Shimon's distinction between mezonot and ketubah claims, the lo shanya formulation, and Rav Sheshet's objection about the word 'heirs' \u2014 all of which the prose of heading 4 explicitly discusses.",
+      "chosen_heading": "Maintenance & Ketubah",
+      "current_heading": "Maintenance & Ketubah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "No Oath Without Role",
+    "candidates": [
+      "Chanan's Rule",
+      "Bnei Kohanim View",
+      "Shimon = Chanan",
+      "Rabbis = Bnei Kohanim",
+      "Heirs Problem",
+      "Apotropos Context",
+      "After Husband's Death",
+      "No Oath Without Role",
+      "Future vs. Past",
+      "Abba Shaul Debate",
+      "Abba Shaul Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is Rav Sheshet's proposal of a different context (the apotropos scenario) to explain Rabbi Shimon's use of 'heirs,' which matches the 'Apotropos Context' heading's prose about Rav Sheshes proposing this different context.",
+      "chosen_heading": "Apotropos Context",
+      "current_heading": "No Oath Without Role",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Abba Shaul Position",
+    "candidates": [
+      "Future vs. Past",
+      "Abba Shaul Debate",
+      "Abba Shaul Position",
+      "Rabbis Position",
+      "Shimon = Abba Shaul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the Abba Shaul/Rabbis dispute by quoting the mishna from Gittin, which is precisely what the 'Abba Shaul Debate' section prose describes \u2014 the existence of a separate Tannaitic dispute about when an apotropos must swear \u2014 rather than belonging under 'Abba Shaul Position' which discusses only Abba Shaul's specific ruling.",
+      "chosen_heading": "Abba Shaul Debate",
+      "current_heading": "Abba Shaul Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150
+    ],
+    "current_heading": "Shimon = Abba Shaul",
+    "candidates": [
+      "Rabbis Position",
+      "Shimon = Abba Shaul",
+      "Husband's Waiver",
+      "Broad Waiver",
+      "Cannot Waive Heirs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Sheshet's alignment of Rabbi Shimon with Abba Shaul and Abaye's grammatical objection about 'kol zman' vs. 'im' \u2014 are precisely the content described in the 'Shimon = Abba Shaul' prose, which explicitly covers this reading and Abaye's challenge to it.",
+      "chosen_heading": "Shimon = Abba Shaul",
+      "current_heading": "Shimon = Abba Shaul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159,
+      160
+    ],
+    "current_heading": "Cannot Waive Heirs",
+    "candidates": [
+      "Husband's Waiver",
+      "Broad Waiver",
+      "Cannot Waive Heirs",
+      "Heirs Oath Rule",
+      "Rav Papa's Question",
+      "Excludes R. Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Abaye's explanation that Rabbi Shimon's ruling connects to the dispute between Abba Shaul and the Rabbis \u2014 precisely the content described in candidate 2's prose about Abba Shaul's position that the husband cannot waive the orphans' protection oath.",
+      "chosen_heading": "Cannot Waive Heirs",
+      "current_heading": "Cannot Waive Heirs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      167
+    ],
+    "current_heading": "Excludes R. Eliezer",
+    "candidates": [
+      "Heirs Oath Rule",
+      "Rav Papa's Question",
+      "Excludes R. Eliezer",
+      "R. Eliezer Strict",
+      "Chachamim Middle",
+      "Shimon Balanced"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's objection asking what the second clause (when she does not demand her ketubah) adds, which directly matches the prose of candidate 1 describing Rav Papa's question about the second half of Rabbi Shimon's formulation.",
+      "chosen_heading": "Rav Papa's Question",
+      "current_heading": "Excludes R. Eliezer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      174
+    ],
+    "current_heading": "Shimon Balanced",
+    "candidates": [
+      "R. Eliezer Strict",
+      "Chachamim Middle",
+      "Shimon Balanced",
+      "Ashkenazi Women",
+      "Husband Suspects Wife",
+      "No Oath in Marriage",
+      "Woman Empowerment",
+      "Practical Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains Rav Pappa's clarification that Rabbi Shimon's position excludes both Rabbi Eliezer and the Chachamim, establishing that heirs can only administer oaths when she collects her ketubah \u2014 which is precisely what the 'Shimon Balanced' section's prose describes.",
+      "chosen_heading": "Shimon Balanced",
+      "current_heading": "Shimon Balanced",
+      "moved": false
+    }
+  }
+]

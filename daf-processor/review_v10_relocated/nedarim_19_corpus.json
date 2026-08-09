@@ -1,0 +1,268 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Three Explanations",
+    "candidates": [
+      "Opening Discrepancy",
+      "Three Explanations",
+      "Rabbi Zeira Resolution",
+      "Koi Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening challenge \u2014 'But didn't we learn that safek nezirut le-hakel?' \u2014 which is precisely the opening discrepancy/contradiction that the 'Three Explanations' prose describes as the gemara's starting point before presenting the three directions of resolution.",
+      "chosen_heading": "Three Explanations",
+      "current_heading": "Three Explanations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Koi Baraita",
+    "candidates": [
+      "Rabbi Zeira Resolution",
+      "Koi Baraita",
+      "Safek Bechoros"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute Rabbi Zeira's resolution \u2014 the baraita about the koy and the ma'eil logic connecting Rabbi Eliezer vs. Rabbanan \u2014 which is precisely what the 'Rabbi Zeira Resolution' prose describes, making that heading the correct home rather than the 'Koi Baraita' heading where it currently sits.",
+      "chosen_heading": "Rabbi Zeira Resolution",
+      "current_heading": "Koi Baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Safek Bechoros",
+    "candidates": [
+      "Koi Baraita",
+      "Safek Bechoros",
+      "Kedusha Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Abaye's challenge about safek bechoros and the baraita about shearing/labor prohibitions, which is precisely what the 'Safek Bechoros' prose section describes \u2014 the contrast between monetary leniency (hamotzi me-chaveiro) and issur strictness for doubtful firstborns.",
+      "chosen_heading": "Safek Bechoros",
+      "current_heading": "Safek Bechoros",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Kedusha Types",
+    "candidates": [
+      "Kedusha Types",
+      "Facts vs. Interpretation",
+      "Liquids Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the actual Talmudic source text for the distinction drawn in heading 0's prose \u2014 Rabbi Zeira's question 'why do you compare sanctity that emerges by itself to sanctity that emerges by a person' \u2014 which is precisely what heading 0 discusses, before heading 1 elaborates the implications of that distinction.",
+      "chosen_heading": "Kedusha Types",
+      "current_heading": "Kedusha Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Liquids Tumah",
+    "candidates": [
+      "Facts vs. Interpretation",
+      "Liquids Tumah",
+      "Shmuel Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly address the challenge about safek mashkin and Rabbi Eliezer's position on tumat mashkin, which is precisely what the 'Liquids Tumah' section's prose describes \u2014 the mishnah's split ruling, Rabbi Eliezer's agreement with it, and the baraita challenge from ein tumah le-mashkin kol ikar with the Yose ben Yoezer testimony.",
+      "chosen_heading": "Liquids Tumah",
+      "current_heading": "Liquids Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Shmuel Resolution",
+    "candidates": [
+      "Shmuel Resolution",
+      "Grain Condition Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Shmuel/Rav dispute about the nature of Temple liquid purity, which is precisely what the 'Shmuel Resolution' prose section addresses in detail.",
+      "chosen_heading": "Shmuel Resolution",
+      "current_heading": "Shmuel Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Grain Condition Case",
+    "candidates": [
+      "Grain Condition Case",
+      "Yehuda Matir Shimon Oser",
+      "Safek Chamer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the resolution 'that is Rabbi Yehuda, this is Rabbi Shimon' and the baraita about the grain-heap case that supports it \u2014 exactly the content described in the 'Grain Condition Case' prose, which introduces the ha-Rabbi-Yehuda/ha-Rabbi-Shimon resolution and the baraita about someone who vows nezirut conditional on finding a hundred kor.",
+      "chosen_heading": "Grain Condition Case",
+      "current_heading": "Grain Condition Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Safek Chamer",
+    "candidates": [
+      "Yehuda Matir Shimon Oser",
+      "Safek Chamer",
+      "Nazir Olam"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Safek Chamer",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the contradiction raised against Rabbi Yehuda from the teruma mishna and Rava's resolution via the safek chamur principle, which is exactly what candidate 1's prose describes.",
+      "second_heading": "Nazir Olam",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rav Huna bar Yehuda's challenge about nazir olam, which is precisely the subject of candidate 2's prose about whether safek is still worse than vadai for a permanent nazirite.",
+      "current_heading": "Safek Chamer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Nazir Olam",
+    "candidates": [
+      "Nazir Olam",
+      "Nazir Shimshon",
+      "Tarfon Position",
+      "Ki Yafla Source",
+      "Grain Lost Detail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's response about nazir olam\u2014that a safek nazir olam cannot use the hair-trimming leniency available to a vadai nazir olam\u2014which is precisely what the 'Nazir Olam' section's prose describes.",
+      "chosen_heading": "Nazir Olam",
+      "current_heading": "Nazir Olam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Grain Lost Detail",
+    "candidates": [
+      "Nazir Shimshon",
+      "Tarfon Position",
+      "Ki Yafla Source",
+      "Grain Lost Detail",
+      "Teruma Strict Lenient"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Nazir Shimshon",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the nazir Shimshon question and Rava's response, which matches exactly the 'Nazir Shimshon' heading's prose about Rav Huna's question, the gemara's response that nazir Shimshon lo tanya, and Rava's concession of im tanya tanya.",
+      "second_heading": "Tarfon Position",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 discuss Rav Ashi's resolution via Rabbi Tarfon's principle (nezirut requires hafla'ah) and the gemara's question about why theft/loss is specified, which matches the 'Tarfon Position' and 'Grain Lost Detail' headings \u2014 item 3 fits 'Tarfon Position' and item 4 fits 'Grain Lost Detail', but since they must go together under one heading, 'Tarfon Position' is the better match as item 3 introduces the principle that item 4 then interrogates.",
+      "current_heading": "Grain Lost Detail",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Teruma Strict Lenient",
+    "candidates": [
+      "Grain Lost Detail",
+      "Teruma Strict Lenient",
+      "Charamim: Yehuda vs Galil",
+      "Yehuda Consistency",
+      "Elazar b'Tzadok"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous gemara sequence \u2014 the teruma inference (alma safeka lechumra) followed immediately by the charamim counter-inference (alma safeka lekula) \u2014 which is precisely what candidate 1's prose describes as the teruma/charamim tension the gemara raises in sequence.",
+      "chosen_heading": "Teruma Strict Lenient",
+      "current_heading": "Teruma Strict Lenient",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Elazar b'Tzadok",
+    "candidates": [
+      "Charamim: Yehuda vs Galil",
+      "Yehuda Consistency",
+      "Elazar b'Tzadok"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement identifying the latter clause as Rabbi Elazar b'Rabbi Tzadok's opinion, which is exactly what the prose in candidate 2 ('Elazar b'Tzadok') discusses \u2014 Abaye's resolution of the cherem anomaly by attributing the final ruling to Rabbi Elazar be-Rebbi Tzadok.",
+      "chosen_heading": "Elazar b'Tzadok",
+      "current_heading": "Elazar b'Tzadok",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Deriving from Nirtza",
+    "candidates": [
+      "Amah vs. Eved Overview",
+      "No Service to Non-Heirs",
+      "Deriving from Nirtza",
+      "Double Derivation Issue",
+      "Nirtza Non-Service",
+      "Non-Jew Sale Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion about deriving from 've'af la'amatcha ta'aseh ken' that an amah ivriyah serves neither son nor daughter, and whether this verse conflicts with its use for hanakah \u2014 exactly the content described in candidate 2 ('Deriving from Nirtza'), which is also the current placement.",
+      "chosen_heading": "Deriving from Nirtza",
+      "current_heading": "Deriving from Nirtza",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Non-Jew Sale Rule",
+    "candidates": [
+      "Double Derivation Issue",
+      "Nirtza Non-Service",
+      "Non-Jew Sale Rule",
+      "Rava's Inference",
+      "Non-Jew Inherits Father",
+      "Convert Inherits Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses both the nirtza rule (from Exodus 21:6) and the non-Jew sale rule (from Leviticus 25:50 via Chizkiya), which is exactly what the 'Non-Jew Sale Rule' section's prose describes.",
+      "chosen_heading": "Non-Jew Sale Rule",
+      "current_heading": "Non-Jew Sale Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Convert Inherits Rabbinic",
+    "candidates": [
+      "Rava's Inference",
+      "Non-Jew Inherits Father",
+      "Convert Inherits Rabbinic",
+      "Forbidden Items Division",
+      "Biblical vs. Rabbinical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the convert's inheritance from a non-Jewish father \u2014 item 1 establishes it is rabbinic law, and item 2 provides the Mishnaic proof case about dividing forbidden items \u2014 which is precisely what candidate 2 ('Convert Inherits Rabbinic') describes in its prose.",
+      "chosen_heading": "Convert Inherits Rabbinic",
+      "current_heading": "Convert Inherits Rabbinic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Biblical vs. Rabbinical",
+    "candidates": [
+      "Forbidden Items Division",
+      "Biblical vs. Rabbinical",
+      "Tosafot on Breira",
+      "Non-Jew Inherits Convert",
+      "Convert Inherits Convert"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage argues that if inheritance were biblical, possession would vest at death making the before/after possession distinction meaningless \u2014 this is precisely the argument described in the 'Biblical vs. Rabbinical' section's prose.",
+      "chosen_heading": "Biblical vs. Rabbinical",
+      "current_heading": "Biblical vs. Rabbinical",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Convert Inherits Convert",
+    "candidates": [
+      "Tosafot on Breira",
+      "Non-Jew Inherits Convert",
+      "Convert Inherits Convert",
+      "Debt Repayment Ethics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the rabbinic decree (gezeirah) that a convert inherits from his non-Jewish father lest he return to his wayward path (shema yachzor lesuro), and the baraita distinguishing inherited vs. partnership property \u2014 content that directly corresponds to the 'Convert Inherits Convert' section's discussion of why rabbinic enactment exists only for the convert-inherits-non-Jewish-father case and not other scenarios.",
+      "chosen_heading": "Convert Inherits Convert",
+      "current_heading": "Convert Inherits Convert",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Debt Repayment Ethics",
+    "candidates": [
+      "Debt Repayment Ethics",
+      "Conversion & Parentage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about a gentile/convert not inheriting and the Mishnaic case about repaying a debt to a convert's sons \u2014 exactly the material discussed in the 'Debt Repayment Ethics' prose, which explicitly references this baraita and Mishnah.",
+      "chosen_heading": "Debt Repayment Ethics",
+      "current_heading": "Debt Repayment Ethics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Conversion & Parentage",
+    "candidates": [
+      "Conversion & Parentage",
+      "Rav Chiya's Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the distinction between horato velidato shelo bikhdusha and horato shelo bikhdusha velidato bikhdusha \u2014 the exact content that candidate 0's prose elaborates on in detail, including the ruach chachamim nocha heimenu baraita resolution.",
+      "chosen_heading": "Conversion & Parentage",
+      "current_heading": "Conversion & Parentage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Rav Chiya's Sources",
+    "candidates": [
+      "Rav Chiya's Sources",
+      "Freedom Methods Listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the dispute between Rav \u1e24iyya bar Avin and Rava over the biblical source for gentile inheritance rights, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Rav Chiya's Sources",
+      "current_heading": "Rav Chiya's Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Freedom Methods Listed",
+    "candidates": [
+      "Freedom Methods Listed",
+      "Yiudah Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself comparing the methods of freedom for the eved ivri and amah ivriyah, which is exactly what the prose of heading 0 ('Freedom Methods Listed') describes and analyzes directly.",
+      "chosen_heading": "Freedom Methods Listed",
+      "current_heading": "Freedom Methods Listed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Yiudah Interpretation",
+    "candidates": [
+      "Yiudah Interpretation",
+      "No Resale of Amah",
+      "Eved Resale Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Rav Sheshet resolution involving yiud and the subsequent Gemara challenge about simanim \u2014 precisely the content described in the 'Yiudah Interpretation' prose.",
+      "chosen_heading": "Yiudah Interpretation",
+      "current_heading": "Yiudah Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Eved Resale Limits",
+    "candidates": [
+      "No Resale of Amah",
+      "Eved Resale Limits",
+      "Rabbi Eliezer Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the contradiction about eved resale, Rava's resolution distinguishing one theft from two thefts, and Abaye's counter-resolution distinguishing one person from two people \u2014 are precisely the content described in the 'Eved Resale Limits' prose, which explicitly covers the baraita contradiction, Rava's kan b'gneivah achat/shtei gneivot distinction, and Abaye's kan b'adam echad/shnei bnei adam reformulation.",
+      "chosen_heading": "Eved Resale Limits",
+      "current_heading": "Eved Resale Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Rabbi Eliezer Position",
+    "candidates": [
+      "Rabbi Eliezer Position",
+      "Forced Redemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the baraita about stolen amounts vs. slave value and Rava's analysis of Rabbi Eliezer's position, which is exactly what the 'Rabbi Eliezer Position' prose describes in detail.",
+      "chosen_heading": "Rabbi Eliezer Position",
+      "current_heading": "Rabbi Eliezer Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Forced Redemption",
+    "candidates": [
+      "Forced Redemption",
+      "Father's Resale Rights",
+      "First Dispute Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Forced Redemption",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the forced redemption discussion (Rava/Abaye debate about 'against whose will,' the pearl/shard argument, and the family-honor rationale) which the 'Forced Redemption' prose directly and exhaustively describes.",
+      "second_heading": "Father's Resale Rights",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the baraita about a father's right to sell his daughter into slavery or marriage and whether he may repeat it, including Rabbi Shimon's position on shifchut achar shifchut, which is precisely what the 'Father's Resale Rights' prose discusses.",
+      "current_heading": "Forced Redemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122
+    ],
+    "current_heading": "First Dispute Source",
+    "candidates": [
+      "Father's Resale Rights",
+      "First Dispute Source",
+      "Rabbi Shimon Position",
+      "Bigdo Textual Debate",
+      "Three Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the baraita with Rabbi Akiva's and Rabbi Eliezer's positions on 'bevigdo vah' and then explains the dispute in terms of yesh em l'masores vs. yesh em l'mikra, which is precisely what candidate 3 ('Bigdo Textual Debate') discusses \u2014 the masorah/kesiv vs. mikra/keri readings and their legal consequences.",
+      "chosen_heading": "Bigdo Textual Debate",
+      "current_heading": "First Dispute Source",
+      "moved": true
+    }
+  }
+]

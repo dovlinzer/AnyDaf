@@ -176,11 +176,9 @@ The *beraita* that introduced the oven debate also established that the cover of
 
 ### Tight Fit Required
 
-The *mishnah* introduces a new case: *ha'even shebakiruya* — the stone in the *kiruyah*, a type of hollowed-out gourd used for drawing water. A gourd floats and therefore cannot draw water without ballast. The common solution was to insert a stone to weigh it down. The *mishnah* rules: *im memalin bah ve'einah nofeles, memalin bah* — if when one draws water the stone does not fall out, the gourd may be used and the stone is considered part of the vessel. *Ve'im lav* — if the stone would float out, one may not use the gourd: the stone remains *muktzah*, the gourd may become a *basis* for a *muktzah* object, and the entire assembly is problematic.
+The *mishnah* presents the case of a stone inserted into a hollowed gourd (*kiruyah*) to weigh it down for drawing water. If the stone does not float out — because it fits tightly, is tied, or is heavy enough — the gourd may be used on *Shabbos* and the stone is considered part of the vessel (*memalin bah*). If it would float out, the stone remains *muktzah*, the gourd risks becoming a *basis* for a *muktzah* object, and the assembly may not be used (*ein memalin bah*). Similarly, a vine (*zemora*) tied to a bucket may be used; an untied vine lying around has not yet been incorporated into a vessel and is *muktzah*.
 
-This case raises in concrete form the question of what is needed to transform a stone — a piece of nature with no prior history as a *kli* — into a functional vessel component. The *mishnah* will be analyzed further in the *gemara* below.
-
----
+This points toward an interesting contrast with a *shever kli* — a broken vessel. A *shever kli* began its life as a *kli* and therefore retains more of that status even after breaking. A piece of nature that was never yet a vessel does not acquire non-*muktzah* status merely through mental designation; something more may be required — actually tying it, using it, doing something to it. This contrast will be developed further in the *gemara*.
 
 ## Window Stopper
 

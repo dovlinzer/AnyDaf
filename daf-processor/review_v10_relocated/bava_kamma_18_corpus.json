@@ -1,0 +1,269 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Rava's Vessel Question",
+    "candidates": [
+      "Tzeroros Overview",
+      "Rava's Vessel Question",
+      "Rabbah's Staff Case",
+      "Rabbah vs. Rava",
+      "Hidus Debate",
+      "Hidus as Tzeroros"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All three items form one continuous sugya \u2014 a baraita establishing full liability for chickens pecking a rope, followed by Rava's related dilemma about an animal treading on a vessel, and an attempted resolution from Rabbah's ruling \u2014 all centered on the question of direct vs. indirect causation that is the focus of the 'Rava's Vessel Question' section.",
+      "chosen_heading": "Rava's Vessel Question",
+      "current_heading": "Rava's Vessel Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Hidus as Tzeroros",
+    "candidates": [
+      "Rabbah's Staff Case",
+      "Rabbah vs. Rava",
+      "Hidus Debate",
+      "Hidus as Tzeroros",
+      "Tarnigolim Case",
+      "Proof of Initial Act",
+      "Sumchus Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the baraita about hidus (hopping) and the Gemara's reinterpretation of it \u2014 the precise content described in the 'Hidus Debate' prose, which introduces the baraita and notes the unusual muad/eino muad framing that invites scrutiny, matching item 1, while item 2's reinterpretation as hidusa v'hitiz and the basar me'ikara vs. basar tevar mana dispute is also anticipated there, making candidate 2 the clearly better fit than the current placement at candidate 3.",
+      "chosen_heading": "Hidus Debate",
+      "current_heading": "Hidus as Tzeroros",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Sumchus Distinction",
+    "candidates": [
+      "Tarnigolim Case",
+      "Proof of Initial Act",
+      "Sumchus Distinction",
+      "Rav Ashi Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Tarnigolim Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 resolve the earlier baraita dispute by reinterpreting it as concerning pebbles/tzeroros and the Sumakhos-Rabbanan disagreement, which matches the 'Tarnigolim Case' prose about the initial attempt to prove basar me'ikara from the chicken-rope-bucket baraita.",
+      "second_heading": "Proof of Initial Act",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 cover the Gemara's successive attempts to interpret the baraita (rope vs. bucket, meshuneh objection, dough explanation, Sumakhos attribution, and the ko'ach kocho problem), matching the 'Proof of Initial Act' prose which walks through exactly these interpretive moves about whether payment is for the rope or bucket and the Sumakhos complication.",
+      "current_heading": "Sumchus Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rav Ashi Question",
+    "candidates": [
+      "Sumchus Distinction",
+      "Rav Ashi Question",
+      "Resolve as Rabbanan",
+      "Alt: Continued Pushing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why Rav Ashi didn't resolve his dilemma using the baraita, and concludes that Sumchus makes no distinction between kocho and ko'ach kocho \u2014 this directly supports the 'Sumchus Distinction' section's discussion of whether Sumchus distinguishes between these two types of force.",
+      "chosen_heading": "Sumchus Distinction",
+      "current_heading": "Rav Ashi Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Alt: Continued Pushing",
+    "candidates": [
+      "Resolve as Rabbanan",
+      "Alt: Continued Pushing",
+      "Migufo Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's move of reading the baraita as Rabbanan (item 1) and Rav Bibi's rebuttal that strips it of probative value (item 2), which is precisely what heading 0 'Resolve as Rabbanan' describes \u2014 the attempt to read the baraita per Rabbanan and the subsequent deflection of that proof.",
+      "chosen_heading": "Resolve as Rabbanan",
+      "current_heading": "Alt: Continued Pushing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Migufo Question",
+    "candidates": [
+      "Alt: Continued Pushing",
+      "Migufo Question",
+      "Hidus Evidence",
+      "Inconclusive",
+      "Case Setup",
+      "Tosefta Evidence",
+      "Rabbi Eliezer Disagree",
+      "Meshuneh Reading",
+      "Rabbi Tarfon Position",
+      "Migufo Challenge",
+      "Rabbi Yehuda Model",
+      "Rav Sama Objection",
+      "Ha'ada'ah Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's dilemma about whether chatzi nezek tzeroros is paid migufo or me'aliya, which is precisely what the 'Migufo Question' section's prose describes.",
+      "chosen_heading": "Migufo Question",
+      "current_heading": "Migufo Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Ha'ada'ah Question",
+    "candidates": [
+      "Hidus Evidence",
+      "Inconclusive",
+      "Case Setup",
+      "Tosefta Evidence",
+      "Rabbi Eliezer Disagree",
+      "Meshuneh Reading",
+      "Rabbi Tarfon Position",
+      "Migufo Challenge",
+      "Rabbi Yehuda Model",
+      "Rav Sama Objection",
+      "Ha'ada'ah Question",
+      "Three-Time Warning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Hidus Evidence",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-3 discuss the *hidus* baraita and whether it addresses Rava's dilemma via Sumakhos/Rabbanan, matching the 'Hidus Evidence' prose about the *hidus* baraita's language of *muad*/*eino muad* and *migufo*/*me'aliya*.",
+      "second_heading": "Case Setup",
+      "second_confidence": "medium",
+      "second_reason": "Items 4-20 introduce the *harara* mishna (dog/coal/haystack case) and work through Rabbi Elazar's ruling via multiple frameworks including Rabbi Tarfon and *dayy\u00f3*, which matches the 'Case Setup' prose introducing this very mishna.",
+      "current_heading": "Ha'ada'ah Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Three-Time Warning",
+    "candidates": [
+      "Three-Time Warning",
+      "Single vs. Repeated",
+      "Case Setup (II)",
+      "Normal vs. Unusual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's attempt to resolve Rava's dilemma via the hidus baraita and its rejection \u2014 the baraita may describe a single incident with the Sumchus/Rabbanan dispute, leaving the question unresolved \u2014 which matches exactly the 'Single vs. Repeated' prose describing the Gemara declining to treat this as a resolution and reducing to Sumchus versus Rabbanan.",
+      "chosen_heading": "Single vs. Repeated",
+      "current_heading": "Three-Time Warning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Normal vs. Unusual",
+    "candidates": [
+      "Single vs. Repeated",
+      "Case Setup (II)",
+      "Normal vs. Unusual",
+      "Pedagogical Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the initial case setup of the animal defecating into dough and the disagreement between Rav Yehuda and Rabbi Elazar, with the Gemara asking whether it concerns ha'ada'ah after three occurrences \u2014 exactly what 'Case Setup (II)' describes.",
+      "chosen_heading": "Case Setup (II)",
+      "current_heading": "Normal vs. Unusual",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Pedagogical Purpose",
+    "candidates": [
+      "Normal vs. Unusual",
+      "Pedagogical Purpose",
+      "Sumchus vs. Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 addresses the meshuneh/dachika lei alma resolution and the single-occurrence/Sumchus-Rabbanan reduction \u2014 exactly what heading 0's prose describes \u2014 and Item 2 follows directly as the 'glalim itzricha lei' point, but that point is introduced here as the closing answer to why the amoraim stated their dispute in this case, which in context is still part of the same chain that heading 0's prose summarizes (it mentions the single-occurrence/Sumchus-Rabbanan reading), whereas heading 1's prose focuses on the glalim novelty as the primary topic; however, both items together read as the tail end of the meshuneh/normal discussion (heading 0) flowing into the pedagogical necessity point, and heading 0's prose explicitly mentions the single-occurrence/Sumchus-Rabbanan dismissal that Item 1 contains, making it the better fit for the passage as a whole.",
+      "chosen_heading": "Normal vs. Unusual",
+      "current_heading": "Pedagogical Purpose",
+      "moved": true
+    }
+  }
+]

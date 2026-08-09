@@ -1,0 +1,378 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Woman Visits Father",
+    "candidates": [
+      "Perek HaIsha Intro",
+      "Woman in Husband's House",
+      "Woman Visits Father",
+      "Orphan & Trustees",
+      "Slave Two Partners",
+      "Half-Slave Status",
+      "Breira Inference",
+      "Tosafot Breira Timing",
+      "Text vs. Doctrine",
+      "Remini Question",
+      "Father First Holiday",
+      "Later Holidays Open",
+      "Lo Kashya Women Types",
+      "Ishi vs. Bali",
+      "Sister Interpretation",
+      "Wall Imagery Torah",
+      "Sons Daughters Verse",
+      "Bloodline Symbol",
+      "Desire Mastery",
+      "Four Prophets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items together cover the mishna about the woman visiting her father's house, the orphan/slave cases, the breira inference, the baraita contradiction, and the lo kashya resolution with Rabbi Yochanan's verse \u2014 all of which the 'Woman Visits Father' prose explicitly anticipates as the content of this section.",
+      "chosen_heading": "Woman Visits Father",
+      "current_heading": "Woman Visits Father",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Four Prophets",
+    "candidates": [
+      "Orphan & Trustees",
+      "Slave Two Partners",
+      "Half-Slave Status",
+      "Breira Inference",
+      "Tosafot Breira Timing",
+      "Text vs. Doctrine",
+      "Remini Question",
+      "Father First Holiday",
+      "Later Holidays Open",
+      "Lo Kashya Women Types",
+      "Ishi vs. Bali",
+      "Sister Interpretation",
+      "Wall Imagery Torah",
+      "Sons Daughters Verse",
+      "Bloodline Symbol",
+      "Desire Mastery",
+      "Four Prophets",
+      "God Complains",
+      "Hoshea Dismisses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Sons Daughters Verse",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 continue the Song of Songs / Psalms homiletical interpretations about Eilam, Torah as wall, and sons/daughters as plants and cornerstones, matching the prose of candidates 11-15 (specifically 13-15 for the Psalms 144 verse), which discuss exactly these topics.",
+      "second_heading": "Four Prophets",
+      "second_confidence": "high",
+      "second_reason": "Item 6 shifts to Hosea 1:1 and the four prophets who prophesied in the same era, which matches exactly the prose of candidate 16 about Hoshea, Yeshayahu, Amos, and Michah prophesying in one period.",
+      "current_heading": "Four Prophets",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Hoshea Dismisses",
+    "candidates": [
+      "God Complains",
+      "Hoshea Dismisses",
+      "Prostitute Wife Lesson",
+      "Gomer Name Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both God's complaint ('Your sons have sinned') AND Hosea's dismissive response in one continuous unit, but the prose under heading 0 ('God Complains') already describes both the complaint and the expected response AND explicitly quotes Hosea's actual reply ('the whole world is Yours, exchange them'), making heading 0 the better match \u2014 however, the passage is currently split across headings 0 and 1, and since this single Talmudic quote covers both the complaint and Hosea's dismissal as one continuous Aramaic unit, it belongs under heading 0 where the essay prose actually discusses this entire exchange including Hosea's failure to advocate properly.",
+      "chosen_heading": "God Complains",
+      "current_heading": "Hoshea Dismisses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Gomer Name Meaning",
+    "candidates": [
+      "Prostitute Wife Lesson",
+      "Gomer Name Meaning",
+      "Children Names Prophecy",
+      "God Demands Divorce"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Prostitute Wife Lesson",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover God's deliberation about Hosea and the homiletical interpretations of Gomer/Diblaim, which match heading 0 ('Prostitute Wife Lesson') as the setup for the command, but more precisely all three items together belong under heading 1 ('Gomer Name Meaning') since that prose explicitly covers all the name interpretations including the alternative Gomer interpretation \u2014 however, item 1 includes the divine deliberation narrative that heading 0's prose describes as its own content.",
+      "second_heading": "Gomer Name Meaning",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the alternative Gomer interpretation with Rabbi Yehuda and Rabbi Yochanan on plundering Israel's wealth) is explicitly discussed in heading 1's prose, confirming items 2-3 belong under 'Gomer Name Meaning'.",
+      "current_heading": "Gomer Name Meaning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "God Demands Divorce",
+    "candidates": [
+      "Children Names Prophecy",
+      "God Demands Divorce",
+      "Israel Eternal Kinyan"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Children Names Prophecy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the biblical passage listing the three children's names (Jezreel, Lo-ruhamah, Lo-ammi), which directly corresponds to heading 0 'Children Names Prophecy' whose prose explicitly discusses each of these three names and their meanings.",
+      "second_heading": "God Demands Divorce",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is God's demand that Hosea learn from Moses and separate from his wife, which directly corresponds to heading 1 'God Demands Divorce' whose prose discusses exactly this exchange about separating from the woman.",
+      "current_heading": "God Demands Divorce",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Israel Eternal Kinyan",
+    "candidates": [
+      "Israel Eternal Kinyan",
+      "Hoshea's Repentance",
+      "Compassion for Israel",
+      "Edicts Nullified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in 'Israel Eternal Kinyan' prose \u2014 God's rebuke of Hosea comparing Israel to his own children, and the enumeration of the four acquisitions (Torah, heaven and earth, Temple, Israel) with the final challenge 've-ata amarta ha'avireim be-umah acheret,' all of which are explicitly laid out in that section's prose.",
+      "chosen_heading": "Israel Eternal Kinyan",
+      "current_heading": "Israel Eternal Kinyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Edicts Nullified",
+    "candidates": [
+      "Hoshea's Repentance",
+      "Compassion for Israel",
+      "Edicts Nullified",
+      "Rabbinate Burden"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rabbinate Burden",
+    "candidates": [
+      "Rabbinate Burden",
+      "Yerovam Accepts Amos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yochanan's statement about authority burying its holders and prophets outliving four kings, which is precisely what the 'Rabbinate Burden' section's prose describes.",
+      "chosen_heading": "Rabbinate Burden",
+      "current_heading": "Rabbinate Burden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Yerovam Accepts Amos",
+    "candidates": [
+      "Yerovam Accepts Amos",
+      "Compassion in Anger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit about Jeroboam ben Joash being counted with the kings of Judah because he did not accept slander against Amos, which is precisely what the prose under 'Yerovam Accepts Amos' describes.",
+      "chosen_heading": "Yerovam Accepts Amos",
+      "current_heading": "Yerovam Accepts Amos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Compassion in Anger",
+    "candidates": [
+      "Compassion in Anger",
+      "Exile & Converts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar's teaching about God remembering compassion even in anger, which is precisely what the 'Compassion in Anger' section's prose addresses.",
+      "chosen_heading": "Compassion in Anger",
+      "current_heading": "Compassion in Anger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Exile & Converts",
+    "candidates": [
+      "Exile & Converts",
+      "Nations Converted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar's teaching that God exiled Israel so that converts would join them, with the agricultural metaphor of sowing a se'a to harvest many kor \u2014 exactly what the 'Exile & Converts' prose section analyzes in detail.",
+      "chosen_heading": "Exile & Converts",
+      "current_heading": "Exile & Converts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Nations Converted",
+    "candidates": [
+      "Nations Converted",
+      "Scattering Kindness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Nations Converted' explicitly describes all three items in order: Rabbi Yochanan's citation of the Hosea verse about Lo Ruchama, then the Shimon bar Yochai teaching about Proverbs 30:10-11 and the wicked generation, and the resolution tracing back to Hosea \u2014 exactly matching the current placement.",
+      "chosen_heading": "Nations Converted",
+      "current_heading": "Nations Converted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Scattering Kindness",
+    "candidates": [
+      "Scattering Kindness",
+      "Heretic Boasts",
+      "Chanina Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Oshaya's teaching about God scattering Israel as a charitable act AND the beginning of the min's challenge to Rabbi \u1e24anina, which together form the 'Scattering Kindness' section's content \u2014 the heretic's boast is introduced here as an illustration of the scattering concept, not yet as a standalone topic.",
+      "chosen_heading": "Scattering Kindness",
+      "current_heading": "Scattering Kindness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Chanina Response",
+    "candidates": [
+      "Heretic Boasts",
+      "Chanina Response",
+      "Scattered Safe",
+      "Roman Cruelty Escape"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Oshaya's response to the min's boast about not harming Jews, explaining it is due to inability rather than virtue \u2014 exactly what the 'Chanina Response' prose describes.",
+      "chosen_heading": "Chanina Response",
+      "current_heading": "Chanina Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Roman Cruelty Escape",
+    "candidates": [
+      "Scattered Safe",
+      "Roman Cruelty Escape",
+      "Babylon Deep Sheol",
+      "Aramaic Affinity",
+      "Mother's House Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions (Rabbi \u1e24iyya/Roman decrees, Rabbi Elazar/deep as sheol, Rabbi \u1e24anina/Aramaic language) as a single textual unit, and the current heading 'Roman Cruelty Escape' corresponds to the first opinion which opens the passage, but since all three opinions appear together in one quoted text, they must sit under one heading \u2014 and the current placement at heading 1 is where the passage already sits, covering the full sequence including the Roman cruelty reason that introduces it.",
+      "chosen_heading": "Roman Cruelty Escape",
+      "current_heading": "Roman Cruelty Escape",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Mother's House Return",
+    "candidates": [
+      "Babylon Deep Sheol",
+      "Aramaic Affinity",
+      "Mother's House Return",
+      "Three Returns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yo\u1e25anan's statement about sending Israel to their mother's house with the mashal of a man sending his wife to her mother's house, which matches exactly the prose of candidate 2 'Mother's House Return'.",
+      "chosen_heading": "Mother's House Return",
+      "current_heading": "Mother's House Return",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,357 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Margins Teaching",
+    "candidates": [
+      "Gold Plate Get",
+      "Tosafot on Object",
+      "Margins Teaching",
+      "Possession Principle",
+      "Husband Retains Paper",
+      "Conditional Return",
+      "White Space Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita about margins (shar) and Rav Nachman's response that even without margins it is valid, with the explanation that silence means the remainder is considered part of the scroll \u2014 exactly what the 'Margins Teaching' prose describes.",
+      "chosen_heading": "Margins Teaching",
+      "current_heading": "Margins Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "White Space Question",
+    "candidates": [
+      "Possession Principle",
+      "Husband Retains Paper",
+      "Conditional Return",
+      "White Space Question",
+      "Teiku on Letters",
+      "Interwoven Letters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita discusses exactly the two cases described in candidate 1 and 2's prose \u2014 'harei ze giteich v'haniyar sheli' (she is not divorced) and 'al menat she-tachziri li es haniyar' (she is divorced) \u2014 and candidate 1's prose explicitly introduces this baraita as what the Gemara 'now turns to,' making it the natural home for this passage.",
+      "chosen_heading": "Husband Retains Paper",
+      "current_heading": "White Space Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Interwoven Letters",
+    "candidates": [
+      "Teiku on Letters",
+      "Interwoven Letters",
+      "Slave Holding Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the teiku question (item 1) and its attempted resolution via 'one scroll' followed by the dime'ura answer (item 2), which is precisely what candidate 0 ('Teiku on Letters') describes in its prose, whereas candidate 1 ('Interwoven Letters') covers the subsequent Rashi/Ribam/Tosafot analysis of dime'ura.",
+      "chosen_heading": "Teiku on Letters",
+      "current_heading": "Interwoven Letters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Slave Holding Get",
+    "candidates": [
+      "Interwoven Letters",
+      "Slave Holding Get",
+      "Tattooing Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the dilemma Rami bar \u1e24ama poses \u2014 the presumption of ownership, the get written on the slave's hand, the slave found in the wife's possession, and the two sides of the question (akneiye aknei lah vs. hu minafshei azal) \u2014 which matches precisely the prose under 'Slave Holding Get'.",
+      "chosen_heading": "Slave Holding Get",
+      "current_heading": "Slave Holding Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Tattooing Objection",
+    "candidates": [
+      "Tattooing Objection",
+      "Tattooed Resolution",
+      "Flocks Rule",
+      "Slave Possession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous dispute about forgery and the tattoo resolution \u2014 exactly what candidate 0 ('Tattooing Objection') describes, covering Rava's forgery challenge, the Mishna difficulty, the eidei mesira answer, and the tattoo resolution \u2014 while candidate 1 ('Tattooed Resolution') only covers the final tattoo answer without the preceding Rava/Rami bar \u1e24ama exchange that dominates items 1\u20132.",
+      "chosen_heading": "Tattooing Objection",
+      "current_heading": "Tattooing Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Slave Possession",
+    "candidates": [
+      "Tattooed Resolution",
+      "Flocks Rule",
+      "Slave Possession",
+      "Tablet Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Reish Lakish's ruling that livestock have no presumption of ownership (ha-godrot ein lahem chazakah), which is precisely the content described in the 'Flocks Rule' section's prose.",
+      "chosen_heading": "Flocks Rule",
+      "current_heading": "Slave Possession",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Tablet Ownership",
+    "candidates": [
+      "Slave Possession",
+      "Tablet Ownership",
+      "Woman's Knowledge",
+      "Elder Lender Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rami bar \u1e24ama's dilemma about a tablet (tavla) presumed to belong to the wife with a get written on it, which directly matches the 'Tablet Ownership' section's prose discussing exactly this scenario and the question of whether she genuinely transferred ownership.",
+      "chosen_heading": "Tablet Ownership",
+      "current_heading": "Tablet Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Elder Lender Case",
+    "candidates": [
+      "Woman's Knowledge",
+      "Elder Lender Case",
+      "Tosafot Distinction",
+      "Co-signer Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Abaye's proof from the elder lender precedent \u2014 item 1 raises the sefer makneh challenge and item 2 resolves it with 'akneiye aknei lehu' \u2014 which is precisely what the 'Elder Lender Case' prose describes.",
+      "chosen_heading": "Elder Lender Case",
+      "current_heading": "Elder Lender Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Co-signer Case",
+    "candidates": [
+      "Tosafot Distinction",
+      "Co-signer Case",
+      "Woman Writes Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly what the 'Co-signer Case' prose describes: Rava's challenge that the elder lender is different because he knows to transfer documents (items 1-2), followed by Rava's proof from the guarantor who signs after the note is sealed (item 3), which is the arev ha-yotze l'achar chitum shtarot case the prose explicitly discusses.",
+      "chosen_heading": "Co-signer Case",
+      "current_heading": "Co-signer Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Woman Writes Get",
+    "candidates": [
+      "Woman Writes Get",
+      "Get+Slave+Field"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Ashi's proof from 'isha kotevet et gittah' and the principle that get ratification depends only on its signatories, which directly matches the 'Woman Writes Get' section's prose about this exact teaching and its implications.",
+      "chosen_heading": "Woman Writes Get",
+      "current_heading": "Woman Writes Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Get+Slave+Field",
+    "candidates": [
+      "Get+Slave+Field",
+      "Moving Chatzer",
+      "Get in Field",
+      "Field vs Slave"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Moving Chatzer",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the slave case and the chatzer mehalechet objection with its resolution (kafut), which is precisely what headings 0 and 1 discuss together as one continuous unit \u2014 the current placement under 'Get+Slave+Field' covers item 1 and heading 'Moving Chatzer' covers item 2, but since both prose sections together describe this single slave scenario, the best single heading for items 1-2 is 'Moving Chatzer' (index 1) which explicitly covers both the slave case and the chatzer mehalechet resolution.",
+      "second_heading": "Get in Field",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Rava's distinct field/courtyard case (get placed in his chatzer, deed of gift given for the chatzer), which is precisely what heading 'Get in Field' (index 2) describes in its prose.",
+      "current_heading": "Get+Slave+Field",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Field vs Slave",
+    "candidates": [
+      "Moving Chatzer",
+      "Get in Field",
+      "Field vs Slave",
+      "Active Participation",
+      "Shlichut Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the classic 'utzricha' passage explaining why both the slave case and the chatzer case must be stated independently, which is precisely what the 'Field vs Slave' prose describes.",
+      "chosen_heading": "Field vs Slave",
+      "current_heading": "Field vs Slave",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Shlichut Parallel",
+    "candidates": [
+      "Active Participation",
+      "Shlichut Parallel",
+      "Horn of Cow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items constitute the continuous Abaye-Rava debate about deriving chatzer from yadah and the shlichut parallel, which is precisely what the 'Shlichut Parallel' prose section describes in detail.",
+      "chosen_heading": "Shlichut Parallel",
+      "current_heading": "Shlichut Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Horn of Cow",
+    "candidates": [
+      "Horn of Cow",
+      "Yose vs Rabbanan",
+      "Sefer Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the Gemara's question and answer about why writing a get on a cow's horn requires giving the whole cow, which is precisely the content described in the 'Horn of Cow' section's prose.",
+      "chosen_heading": "Horn of Cow",
+      "current_heading": "Horn of Cow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Sefer Limits",
+    "candidates": [
+      "Yose vs Rabbanan",
+      "Sefer Limits",
+      "Ketiva Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the dispute between Rabbi Yosei HaGelili and the Rabbanan over the derivation from 'sefer,' which is precisely what the 'Yose vs Rabbanan' prose describes, whereas the current 'Sefer Limits' section covers only Rabbi Yosei HaGelili's derivation (item 1) and 'Ketiva Requirement' covers a different use of ve-kasav entirely.",
+      "chosen_heading": "Yose vs Rabbanan",
+      "current_heading": "Sefer Limits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Ketiva Requirement",
+    "candidates": [
+      "Sefer Limits",
+      "Ketiva Requirement",
+      "Krit/Kritut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly teaches that 've-kasav' means divorce is effected only through writing not money, which is precisely what the 'Ketiva Requirement' section's prose describes.",
+      "chosen_heading": "Ketiva Requirement",
+      "current_heading": "Ketiva Requirement",
+      "moved": false
+    }
+  }
+]

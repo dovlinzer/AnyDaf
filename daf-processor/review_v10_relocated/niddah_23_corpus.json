@@ -1,0 +1,313 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Mishna: Animal Appearance",
+    "candidates": [
+      "Yoledet Status",
+      "Mishna: Animal Appearance",
+      "Yetzira Parallels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text about a woman who discharges tissue resembling a domesticated animal, which is precisely what candidate 1 ('Mishna: Animal Appearance') introduces and discusses.",
+      "chosen_heading": "Mishna: Animal Appearance",
+      "current_heading": "Mishna: Animal Appearance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Yetzira Parallels",
+    "candidates": [
+      "Yetzira Parallels",
+      "Bereishit Verbs",
+      "Sea Monsters Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the Rav Yehuda/Shmuel statement giving Rabbi Meir's reason via the yetzira verbal parallel, which is precisely what heading 0 ('Yetzira Parallels') describes as its opening content.",
+      "chosen_heading": "Yetzira Parallels",
+      "current_heading": "Yetzira Parallels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Sea Monsters Problem",
+    "candidates": [
+      "Bereishit Verbs",
+      "Sea Monsters Problem",
+      "Mufneh Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items directly continue the sea monster discussion \u2014 the challenge about tannin, the yetzirah/briah distinction, the objection about equating similar words, and the resolution via bara/bara \u2014 which is precisely what the 'Sea Monsters Problem' prose describes.",
+      "chosen_heading": "Sea Monsters Problem",
+      "current_heading": "Sea Monsters Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Mufneh Principle",
+    "candidates": [
+      "Mufneh Principle",
+      "Yishmael Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items constitute the gemara's technical discussion of why vayitzer is mufneh mishnei tzedadim while vayivra is only mufneh mitzad echad, which is precisely what the 'Mufneh Principle' prose describes as the framework applied before the Yishmael dispute.",
+      "chosen_heading": "Mufneh Principle",
+      "current_heading": "Mufneh Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Yishmael Dispute",
+    "candidates": [
+      "Yishmael Dispute",
+      "Airtight Connection",
+      "Eyes Similarity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items discuss the hierarchy of gezerah shavah validity (mufneh kol ikar, mitzad echad, mishnei tzedadim) and the dispute between Rabbi Yishmael and the Rabbanan, which is precisely what the 'Yishmael Dispute' prose describes in detail.",
+      "chosen_heading": "Yishmael Dispute",
+      "current_heading": "Yishmael Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Eyes Similarity",
+    "candidates": [
+      "Airtight Connection",
+      "Eyes Similarity",
+      "Snake Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items \u2014 the refutation of the man/sea-monster gezerah shavah, Rabbi \u1e24iyya bar Abba's yetzira rationale for Rabbi Meir, the mountain challenge, the rua\u1e25 challenge, and the Torah-from-Torah rule \u2014 are explicitly discussed in the 'Eyes Similarity' prose, which covers exactly these texts in sequence.",
+      "chosen_heading": "Eyes Similarity",
+      "current_heading": "Eyes Similarity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Snake Objection",
+    "candidates": [
+      "Snake Objection",
+      "Eye Anatomy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: Rabbi Yo\u1e25anan's eye-resemblance rationale for Rabbi Meir, the snake objection (its pupil is also round), and the resolution explaining why the mishna omits snakes \u2014 exactly the content described in the 'Snake Objection' prose.",
+      "chosen_heading": "Snake Objection",
+      "current_heading": "Snake Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Eye Anatomy",
+    "candidates": [
+      "Eye Anatomy",
+      "Eye Position",
+      "Owls vs. Other Birds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the tension between the animal eye resemblance claim and the blemish ruling in Bechorot, and its resolution (pupil vs. socket), which is exactly what the 'Eye Anatomy' prose describes.",
+      "chosen_heading": "Eye Anatomy",
+      "current_heading": "Eye Anatomy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Owls vs. Other Birds",
+    "candidates": [
+      "Eye Position",
+      "Owls vs. Other Birds",
+      "Compromise View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the specific difficulty with Rabbi Yannai's eye-position rationale as applied to birds, and Abaye's resolution that Rabbi Meir refers only to owls (bakiya and kipufa) whose eyes face forward \u2014 precisely what the 'Owls vs. Other Birds' section's prose describes.",
+      "chosen_heading": "Owls vs. Other Birds",
+      "current_heading": "Owls vs. Other Birds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Compromise View",
+    "candidates": [
+      "Compromise View",
+      "Braita Wording"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together form the exact Gemara sequence described in the 'Compromise View' prose: the baraita of Rabbi \u1e24anina ben Antigonus (here called Rabbi Chanina ben Gamliel in the prose), the question about owls, the conclusion that Rabbi Meir disputed even non-owl birds, and the chasuri mechasra emendation \u2014 all of which are explicitly narrated in candidate 0's prose.",
+      "chosen_heading": "Compromise View",
+      "current_heading": "Compromise View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Braita Wording",
+    "candidates": [
+      "Braita Wording",
+      "Kiddushin Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the baraita of Rabbi Elazar bar Tzadok and its Gemara discussion (tibbadek, Rav A\u1e25a's reinterpretation, and the cheeks explanation), which is precisely what candidate 0 'Braita Wording' describes in detail.",
+      "chosen_heading": "Braita Wording",
+      "current_heading": "Braita Wording",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Kiddushin Question",
+    "candidates": [
+      "Kiddushin Question",
+      "Viable by Species"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yirmeya's question to Rabbi Zeira about kiddushin validity for a behemah-like fetus, which matches exactly the prose under 'Kiddushin Question' (index 0), not the response/answer discussed under 'Viable by Species' (index 1).",
+      "chosen_heading": "Kiddushin Question",
+      "current_heading": "Kiddushin Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Viable by Species",
+    "candidates": [
+      "Viable by Species",
+      "Absurd Question",
+      "Tosafot: Bestiality",
+      "Bechorot List",
+      "Never Viable",
+      "Father's Pain"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Absurd Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the gemara's challenge about whether the animal-like fetus can actually live and Rav Acha's remark that Rabbi Yirmiyah was joking, which correspond exactly to the 'Viable by Species' and 'Absurd Question' prose sections \u2014 item 1 closes the viability discussion and item 2 is Rav Acha's remark about laughter, matching candidate 1.",
+      "second_heading": "Bechorot List",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the mishna from Bechorot about a woman who discharges a fetus resembling an animal and its implications for firstborn status, which matches candidate 3 ('Bechorot List') exactly.",
+      "current_heading": "Viable by Species",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Father's Pain",
+    "candidates": [
+      "Absurd Question",
+      "Tosafot: Bestiality",
+      "Bechorot List",
+      "Never Viable",
+      "Father's Pain",
+      "Miscarriage Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Item 1 presents the Bechorot mishna as a proof that the animal-like fetus is never viable, and Item 2 is Rava's rebuttal using the 'reishit ono'/'libo daveih alav' derashah \u2014 exactly what the 'Father's Pain' prose describes as Rava's attempt to resist the proof by invoking the father's anguish criterion.",
+      "chosen_heading": "Father's Pain",
+      "current_heading": "Father's Pain",
+      "moved": false
+    }
+  }
+]

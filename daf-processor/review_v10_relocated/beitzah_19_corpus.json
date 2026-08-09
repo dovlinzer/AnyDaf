@@ -1,0 +1,318 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Bein Hashmashot Issue",
+    "candidates": [
+      "Bein Hashmashot Issue",
+      "R. Shimon Shezuri"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about not immersing a vessel during twilight on erev Yom Tov, which is precisely what the 'Bein Hashmashot Issue' prose describes and discusses.",
+      "chosen_heading": "Bein Hashmashot Issue",
+      "current_heading": "Bein Hashmashot Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "R. Shimon Shezuri",
+    "candidates": [
+      "R. Shimon Shezuri",
+      "Tanna Kamma Query",
+      "Machshavto Nikares"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct quote of Rabbi Shimon Shezuri's statement, which is precisely what the prose under heading 0 discusses and explicates.",
+      "chosen_heading": "R. Shimon Shezuri",
+      "current_heading": "R. Shimon Shezuri",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Machshavto Nikares",
+    "candidates": [
+      "Tanna Kamma Query",
+      "Machshavto Nikares",
+      "Intent & Knowledge",
+      "Pachot Mik'adasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage opens with the Gemara's question about whether the first tanna requires sunset (matching heading 0's prose about that exact query) and then immediately provides Rava's answer about machshavto nikares \u2014 but since the passage includes both the question and Rava's answer together as one unit, and heading 0 explicitly asks 'how does the Tanna Kamma address the concern,' while heading 1 covers only Rava's answer, the full passage (question + answer) fits better under heading 0 which anticipates Rava's response as the resolution, though current placement under heading 1 is also defensible since Rava's answer is the main content.",
+      "chosen_heading": "Tanna Kamma Query",
+      "current_heading": "Machshavto Nikares",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Pachot Mik'adasha",
+    "candidates": [
+      "Intent & Knowledge",
+      "Pachot Mik'adasha",
+      "Mi-Gav L'Gav",
+      "Michiburah L'Chiburah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the continuous Gemara passage about whether running indicates knowledge of ha'erev shemesh and the pachot mik'adasha case, which is precisely what heading 0 ('Intent & Knowledge') describes \u2014 the dispute over reading intent from behavior and the ki peligi clarification \u2014 while heading 1 ('Pachot Mik'adasha') is actually the prose commentary on this very passage, meaning the passage itself belongs under the heading that introduces the dispute (heading 0) whose prose already anticipates and summarizes all three items including the pachot mik'adasha sub-case.",
+      "chosen_heading": "Intent & Knowledge",
+      "current_heading": "Pachot Mik'adasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Michiburah L'Chiburah",
+    "candidates": [
+      "Mi-Gav L'Gav",
+      "Michiburah L'Chiburah",
+      "Non-Halachic Tevilah",
+      "Beit S. vs. Beit H.",
+      "Ulla's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the baraita explaining 'mi-gav l'gav' and 'mi-chaburah l'chaburah' from the Mishnah, which is precisely what heading 0 ('Mi-Gav L'Gav') discusses, while the current placement under heading 1 ('Michiburah L'Chiburah') only covers item 3's content and misses items 1 and 2.",
+      "chosen_heading": "Mi-Gav L'Gav",
+      "current_heading": "Michiburah L'Chiburah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Ulla's View",
+    "candidates": [
+      "Non-Halachic Tevilah",
+      "Beit S. vs. Beit H.",
+      "Ulla's View",
+      "Braita Alternative",
+      "Tannai Dispute",
+      "Rav Yosef",
+      "Shelamim YT",
+      "Nedarim V'Nedavot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beit S. vs. Beit H.",
+      "first_confidence": "high",
+      "first_reason": "Items 1 (the Mishna) belongs under 'Beit S. vs. Beit H.' whose prose explicitly introduces and discusses this exact Mishna about Beit Shammai and Beit Hillel on shelamim, olot, and semicha.",
+      "second_heading": "Ulla's View",
+      "second_confidence": "high",
+      "second_reason": "Items 2-8 form the Gemara discussion beginning with Ulla's refinement of the dispute, the baraita objection, resolution, and Rav Yosef's response \u2014 all covered under 'Ulla's View' and its subsequent headings, and the current placement at 'Ulla's View' is correct for this block.",
+      "current_heading": "Ulla's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Nedarim V'Nedavot",
+    "candidates": [
+      "Braita Alternative",
+      "Tannai Dispute",
+      "Rav Yosef",
+      "Shelamim YT",
+      "Nedarim V'Nedavot",
+      "Toda Fulfillment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes exactly what heading 4's prose discusses: a baraita ruling that a toda may not be brought on Pesach (due to chametz) or Shavuot (because it is Yom Tov), but may be brought on Sukkot \u2014 which is precisely the content of item 1.",
+      "chosen_heading": "Nedarim V'Nedavot",
+      "current_heading": "Nedarim V'Nedavot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Toda Fulfillment",
+    "candidates": [
+      "Toda Fulfillment",
+      "Abaye's Frame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the baraita's discussion of when a toda may or may not be brought on the three festivals, including Rabbi Elazar ben Rabbi Shimon's distinction between simchah and chagigah obligations \u2014 precisely the content the 'Toda Fulfillment' prose section analyzes in detail.",
+      "chosen_heading": "Toda Fulfillment",
+      "current_heading": "Toda Fulfillment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Abaye's Frame",
+    "candidates": [
+      "Abaye's Frame",
+      "Tanna Kamma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong under 'Abaye's Frame' \u2014 item 1 is Rabbi Zeira's objection to Rabbi Shimon and item 2 is Abaye's resolution, both of which are explicitly described and explained in that section's prose.",
+      "chosen_heading": "Abaye's Frame",
+      "current_heading": "Abaye's Frame",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Tanna Kamma",
+    "candidates": [
+      "Tanna Kamma",
+      "R. Shimon",
+      "R. Elazar b. Shimon"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tanna Kamma",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Tanna Kamma's position that three Festivals need not be in order, which matches exactly the prose of heading 0 discussing 'afilu shelo kesidran.'",
+      "second_heading": "R. Shimon",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Shimon's position that only festivals passing in proper order trigger the violation ('kesidran in, shelo kesidran lo'), which matches exactly the prose of heading 1.",
+      "current_heading": "Tanna Kamma",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "R. Elazar b. Shimon",
+    "candidates": [
+      "R. Shimon",
+      "R. Elazar b. Shimon",
+      "Toda L'Chagigah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss Rabbi Elazar ben Rabbi Shimon's position \u2014 his ruling about bringing a toda on Sukkot (item 1), the Gemara's question about why Sukkot is specified with the answer tracing back to Rabbi Shimon's baraita (item 2), and Rabbi Elazar ben Rabbi Shimon's own interpretation that Sukkot 'causes' (gorem) the deadline (item 3) \u2014 which is exactly the content described in the 'R. Elazar b. Shimon' prose.",
+      "chosen_heading": "R. Elazar b. Shimon",
+      "current_heading": "R. Elazar b. Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Toda L'Chagigah",
+    "candidates": [
+      "Toda L'Chagigah",
+      "Neder & Tenai",
+      "Schiv Mera"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara unit about whether a toda can fulfill the chagigah obligation and the parallel nazir/ma'aser sheni case \u2014 exactly what the 'Toda L'Chagigah' prose section discusses, including Rabbi Shimon ben Lakish's question to Rabbi Yochanan and the ruling neder ve-eino yotzei / nazir ve-eino megaleach.",
+      "chosen_heading": "Toda L'Chagigah",
+      "current_heading": "Toda L'Chagigah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Schiv Mera",
+    "candidates": [
+      "Neder & Tenai",
+      "Schiv Mera",
+      "Mareimar & Ravina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Schiv Mera' explicitly describes and explains both items \u2014 the hahu gavra case with Rav Pappa's ruling (item 1) and the reversal of order analysis (item 2) \u2014 in precise detail, making it the clear correct home for this passage.",
+      "chosen_heading": "Schiv Mera",
+      "current_heading": "Schiv Mera",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Mareimar & Ravina",
+    "candidates": [
+      "Mareimar & Ravina",
+      "Tosafot Synthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Mareimar teaching the halakha in his own name and Ravina noting the attribution to Reish Lakish/Rabbi Yochanan, which is exactly what the 'Mareimar & Ravina' prose section discusses.",
+      "chosen_heading": "Mareimar & Ravina",
+      "current_heading": "Mareimar & Ravina",
+      "moved": false
+    }
+  }
+]

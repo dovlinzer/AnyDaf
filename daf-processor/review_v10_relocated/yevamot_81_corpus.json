@@ -1,0 +1,246 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Androgynos Categories",
+    "candidates": [
+      "Saris Wife Terumah",
+      "Androgynos Categories",
+      "Androgynos Marriage",
+      "Tumtum Chalitzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a single mishna covering both the saris chama terumah ruling and the androgynos terumah ruling together, and candidate 0's prose explicitly discusses both parts of this mishna as a unified unit, making it the correct home for the entire passage.",
+      "chosen_heading": "Saris Wife Terumah",
+      "current_heading": "Androgynos Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Tumtum Chalitzah",
+    "candidates": [
+      "Androgynos Marriage",
+      "Tumtum Chalitzah",
+      "Saris Wife Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the tumtum/chalitzah ruling AND the androgynos marriage and Rabbi Eliezer rulings, and the 'Androgynos Marriage' prose explicitly discusses all three elements (androgynos marrying a woman but not a man, and Rabbi Eliezer's sekilah ruling), making it the clearly better match for the complete passage.",
+      "chosen_heading": "Androgynos Marriage",
+      "current_heading": "Tumtum Chalitzah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Saris Wife Terumah",
+    "candidates": [
+      "Tumtum Chalitzah",
+      "Saris Wife Terumah",
+      "Lakish Safek View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's question of 'peshita' regarding whether a saris chama's wife eats terumah, the molid/she'eino molid reasoning, and the mishnah's teaching \u2014 all of which are explicitly described in the 'Saris Wife Terumah' prose.",
+      "chosen_heading": "Saris Wife Terumah",
+      "current_heading": "Saris Wife Terumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Lakish Safek View",
+    "candidates": [
+      "Lakish Safek View",
+      "Yochanan Male View",
+      "Terumah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the Reish Lakish/Rabbi Yochanan dispute about the androgynos kohen's wife eating teruma vs. chazeh v'shok, and the gemara's answer that teruma bizman hazeh is rabbinic \u2014 exactly what the 'Lakish Safek View' prose describes.",
+      "chosen_heading": "Lakish Safek View",
+      "current_heading": "Lakish Safek View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Terumah Status",
+    "candidates": [
+      "Yochanan Male View",
+      "Terumah Status",
+      "Igul Batel Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the exact content described in the 'Terumah Status' prose: Item 1 is the gemara's resolution that Reish Lakish means she eats today's rabbinic terumah but not at Temple times (even rabbinic terumah then), due to the concern of dilma asi l'ochla, and Item 2 is Rabbi Yochanan's challenge to Reish Lakish about whether terumah today is rabbinic and Reish Lakish's igul proof \u2014 all of which is explicitly narrated in the 'Terumah Status' prose.",
+      "chosen_heading": "Terumah Status",
+      "current_heading": "Terumah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Igul Batel Proof",
+    "candidates": [
+      "Igul Batel Proof",
+      "Et vs Kol",
+      "Kilaim Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's correction of Reish Lakish's reading \u2014 'et she-darko limanot' vs 'kol she-darko limanot' \u2014 which is precisely what the 'Et vs Kol' section's prose describes.",
+      "chosen_heading": "Et vs Kol",
+      "current_heading": "Igul Batel Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Kilaim Baraita",
+    "candidates": [
+      "Et vs Kol",
+      "Kilaim Baraita",
+      "Chatichah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the kilaim mishna and baraita about bundles of tiltan, Rabbi Meir's kol she-darko limanot rule, and the Rabbis'/Rabbi Akiva's list of six/seven items \u2014 exactly the content described in the 'Kilaim Baraita' section prose, which is also the current placement.",
+      "chosen_heading": "Kilaim Baraita",
+      "current_heading": "Kilaim Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Chatichah Proof",
+    "candidates": [
+      "Chatichah Proof",
+      "Ground Meat Batel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ground Meat Batel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Amora'im dispute about the wording of the mishna (et she-darko vs. kol she-darko), which is the setup leading into the chatichah proof discussed in candidate 0's prose.",
+      "second_heading": "Chatichah Proof",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are precisely the baraita about chatichah of chatat and lechem hapanim that candidate 0's prose explicitly describes and analyzes in detail, including both the disputed case (tamei mixed with tahor) and the contrasting case (tahor kodashim mixed with tahor chulin).",
+      "current_heading": "Chatichah Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Ground Meat Batel",
+    "candidates": [
+      "Ground Meat Batel",
+      "Challenge Distinction",
+      "Rabbinic vs Biblical",
+      "All-Pure Case",
+      "Lav vs Karet"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Challenge Distinction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 cover Reish Lakish's nimucha answer, Rabbi Yehuda's min b'mino reasoning, and the structural baraita challenge resolved by 'tahor b'tahor adif lei' \u2014 exactly what heading 1 ('Challenge Distinction') describes.",
+      "second_heading": "Rabbinic vs Biblical",
+      "second_confidence": "high",
+      "second_reason": "Items 6-8 introduce Rav Sheisha's distinct resolution based on tum'at mashkin derabbanan versus d'oraita, followed by the parallel structural question and tahor b'tahor answer \u2014 precisely what heading 2 ('Rabbinic vs Biblical') describes.",
+      "current_heading": "Ground Meat Batel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Lav vs Karet",
+    "candidates": [
+      "Challenge Distinction",
+      "Rabbinic vs Biblical",
+      "All-Pure Case",
+      "Lav vs Karet",
+      "Matirin Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabba's distinction between issur lav and issur karet as the reason for the reisha/seifa asymmetry, followed by the gemara's challenge that Rabba himself ruled there is no difference between lav and karet for bittul purposes \u2014 exactly what the 'Lav vs Karet' prose describes.",
+      "chosen_heading": "Lav vs Karet",
+      "current_heading": "Lav vs Karet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Matirin Concept",
+    "candidates": [
+      "Matirin Concept",
+      "Rejection Matirin",
+      "Three Answers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's argument about davar she-yesh lo matirin, which is precisely what the 'Matirin Concept' section's prose describes and analyzes.",
+      "chosen_heading": "Matirin Concept",
+      "current_heading": "Matirin Concept",
+      "moved": false
+    }
+  }
+]

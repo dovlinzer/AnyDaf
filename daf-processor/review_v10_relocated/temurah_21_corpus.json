@@ -1,0 +1,364 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Challenge from Mishnah",
+    "candidates": [
+      "Question on Female Asham",
+      "Earlier: Kedusha",
+      "Avin's Response",
+      "Challenge from Mishnah",
+      "Resolving Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Avin bar Kahana's response ('Its offspring is sacrificed as a burnt offering') followed immediately by Rabbi Avin bar \u1e24iyya's challenge to that response, which corresponds precisely to the 'Avin's Response' section describing Rabbi Avin bar Kahana's position and the reasoning behind it.",
+      "chosen_heading": "Avin's Response",
+      "current_heading": "Challenge from Mishnah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Resolving Contradiction",
+    "candidates": [
+      "Challenge from Mishnah",
+      "Resolving Contradiction",
+      "Bechor/Maaser Intro",
+      "Mishnah Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous dispute between Rabbi Avin bar Kahana and Rabbi Avin bar \u1e24iyya \u2014 the reinterpretation of Rabbi Elazar's reasoning, the objection from the mishna, and the forced 'Babylonian' resolution \u2014 which is precisely what candidate 1 ('Resolving Contradiction') describes in its prose.",
+      "chosen_heading": "Resolving Contradiction",
+      "current_heading": "Resolving Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Mishnah Text",
+    "candidates": [
+      "Bechor/Maaser Intro",
+      "Mishnah Text",
+      "Marketplace Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself, and candidate 1 'Mishnah Text' directly discusses and explains this exact mishna about temurat habechor ve'hama'aser and their offspring eating rules, matching the current placement perfectly.",
+      "chosen_heading": "Mishnah Text",
+      "current_heading": "Mishnah Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Marketplace Restriction",
+    "candidates": [
+      "Marketplace Restriction",
+      "No Redemption",
+      "Outside Eretz Yisrael",
+      "Parnasa Argument",
+      "Other Korbanot Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the marketplace distinction between bechor/maaser and other kodashim, which is exactly what candidate 0's prose addresses in detail.",
+      "chosen_heading": "Marketplace Restriction",
+      "current_heading": "Marketplace Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Other Korbanot Transfer",
+    "candidates": [
+      "No Redemption",
+      "Outside Eretz Yisrael",
+      "Parnasa Argument",
+      "Other Korbanot Transfer",
+      "Rav Aha Question",
+      "Abaye's Daisy-Chain"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No Redemption",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers both the redemption rules (no redemption for bechor/maaser) and the outside-Eretz-Yisrael rules, matching heading 0's prose about pidyon and the mishna's content \u2014 but heading 0 covers the redemption portion and heading 1 covers the outside-Eretz-Yisrael portion; since item 1 covers both topics together as a single mishna passage, the best single home is heading 1 which discusses both aspects including the blemished/unblemished distinction.",
+      "second_heading": "Parnasa Argument",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Shimon's parnasa argument explaining why bechor and maaser need not come from outside Eretz Yisrael, which matches heading 2's prose exactly.",
+      "current_heading": "Other Korbanot Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Abaye's Daisy-Chain",
+    "candidates": [
+      "Rav Aha Question",
+      "Abaye's Daisy-Chain",
+      "Conclusion: Permitted",
+      "Tosafot Distinction",
+      "Contradiction Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form one continuous dialectical exchange about inflicting a blemish on the substitute of firstborn/tithe and the ninth animal of tithe, which is precisely what candidate 1 ('Abaye's Daisy-Chain') describes \u2014 the mutual redirection between the two questions and the Torah exclusions cited in each direction.",
+      "chosen_heading": "Abaye's Daisy-Chain",
+      "current_heading": "Abaye's Daisy-Chain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Contradiction Setup",
+    "candidates": [
+      "Conclusion: Permitted",
+      "Tosafot Distinction",
+      "Contradiction Setup",
+      "Akiva's Distinction",
+      "Rabbi Yishmael",
+      "Logical Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the setup of the contradiction regarding bringing bechor from outside Eretz Yisrael and Rav Chisda's resolution via Rabbi Yishmael vs. Rabbi Akiva, followed by the opening of the baraita cited to elaborate that distinction \u2014 exactly what the 'Contradiction Setup' prose describes.",
+      "chosen_heading": "Contradiction Setup",
+      "current_heading": "Contradiction Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Logical Derivation",
+    "candidates": [
+      "Akiva's Distinction",
+      "Rabbi Yishmael",
+      "Logical Derivation",
+      "Akiva's Derivation",
+      "Common Denominator Q",
+      "Pesuk Necessity",
+      "Kedusha Scenario",
+      "Blood-Meat Unity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Logical Derivation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the logical derivations, refutations, and talmud lomar resolution that the 'Logical Derivation' prose explicitly describes.",
+      "second_heading": "Common Denominator Q",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 are the mah hatzad question and Rav Ashi's answer, which is precisely what 'Common Denominator Q' and 'Pesuk Necessity' describe \u2014 item 5 is the question posed in candidate 4's prose.",
+      "current_heading": "Logical Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Blood-Meat Unity",
+    "candidates": [
+      "Akiva's Derivation",
+      "Common Denominator Q",
+      "Pesuk Necessity",
+      "Kedusha Scenario",
+      "Blood-Meat Unity",
+      "Agricultural Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items form one continuous Talmudic chain probing the kedusha scenario \u2014 the dilemma about what Rabbi Yishmael holds regarding first kedusha, the resolution involving blood-sprinkling before destruction, and the subsequent blood-meat-tithe derivation discussion \u2014 which corresponds precisely to the 'Kedusha Scenario' prose that sets up and asks why bechor is certain but maaser sheni uncertain, exactly what these items address.",
+      "chosen_heading": "Kedusha Scenario",
+      "current_heading": "Blood-Meat Unity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Agricultural Basis",
+    "candidates": [
+      "Blood-Meat Unity",
+      "Agricultural Basis",
+      "Ben Azzai Question",
+      "Logical Derivation (II)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Akiva's derivation that firstborn animals from outside Eretz Yisrael cannot be brought as offerings, equating bechor with maaser dagan \u2014 exactly the 'agricultural basis' logic discussed in candidate 1's prose about bring bechor only from the same place from which you bring maaser dagan.",
+      "chosen_heading": "Agricultural Basis",
+      "current_heading": "Agricultural Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Logical Derivation (II)",
+    "candidates": [
+      "Ben Azzai Question",
+      "Logical Derivation (II)",
+      "Mizbe'ach Distinction",
+      "Verse Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Ben Azzai's initial question about eating maaser sheni in 'kol haroeh' AND his logical derivation together as one unit, and candidate 0's prose explicitly covers both the question (yachol maaleh maaser sheni yochlenu bechol haroeh) and introduces the logical inference, making it the best match for the complete passage rather than splitting it across headings 0 and 1.",
+      "chosen_heading": "Ben Azzai Question",
+      "current_heading": "Logical Derivation (II)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Verse Link",
+    "candidates": [
+      "Mizbe'ach Distinction",
+      "Verse Link",
+      "Walls vs. Kol HaRoeh",
+      "Shilo Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the rejection (mizbe'ach distinction) AND the verse resolution (hekesh), and candidate 0's prose explicitly describes the mizbe'ach rejection that opens this passage, while candidate 1 describes only the verse resolution \u2014 but since the passage is a single unit, it fits best under candidate 0 which captures the full argumentative arc starting with the refutation that the passage leads with.",
+      "chosen_heading": "Mizbe'ach Distinction",
+      "current_heading": "Verse Link",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Shilo Precedent",
+    "candidates": [
+      "Walls vs. Kol HaRoeh",
+      "Shilo Precedent",
+      "Wall Limitation",
+      "Third Opinion Psul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items address the Gemara's question of what prompted Ben Azzai to raise the concept of kol haroeh and explain the Shilo mishna as the source of that concern \u2014 which is precisely what candidate 0 ('Walls vs. Kol HaRoeh') describes, asking what gave kol haroeh its foothold, whereas candidate 1 ('Shilo Precedent') describes the resolved explanation of why Shilo used kol haroeh as a wall-substitute, a later stage of the discussion.",
+      "chosen_heading": "Walls vs. Kol HaRoeh",
+      "current_heading": "Shilo Precedent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Third Opinion Psul",
+    "candidates": [
+      "Wall Limitation",
+      "Third Opinion Psul",
+      "Maaser Connection",
+      "Shana BeShana",
+      "Two Days Eaten",
+      "Two Days Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit about whether a bechor becomes pasul after its first year and the competing derivations \u2014 exactly matching the 'Third Opinion Psul' heading's prose about acherim raising the psul question, the maaser juxtaposition answer, and the Rabbis' alternative derivation from 'shana veshana'.",
+      "chosen_heading": "Third Opinion Psul",
+      "current_heading": "Third Opinion Psul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146,
+      147
+    ],
+    "current_heading": "Two Days Source",
+    "candidates": [
+      "Maaser Connection",
+      "Shana BeShana",
+      "Two Days Eaten",
+      "Two Days Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Two Days Eaten",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 form a continuous unit about the source for eating a bechor over two days and one night \u2014 item 1 gives the acherim's source (shana veshana) and item 2 gives the Rabbis' source (yihyeh lach kehazeh), which matches the 'Two Days Eaten' prose about deriving ne'echal lishnei yamim.",
+      "second_heading": "Two Days Source",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the hadran closing formula, which belongs under 'Two Days Source' as that section's prose explicitly ends with 'Hadran alach Kol Pesulei HaMukdashin.'",
+      "current_heading": "Two Days Source",
+      "moved": true
+    }
+  }
+]

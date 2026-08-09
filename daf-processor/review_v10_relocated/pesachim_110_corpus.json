@@ -1,0 +1,423 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Eating/Drinking/Sex",
+    "candidates": [
+      "Four Cups Problem",
+      "Three Solutions",
+      "Eating/Drinking/Sex",
+      "Abaye: Health Issue",
+      "Two Cups Risk",
+      "Rav Yehuda: Outdoors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about 'lo ya'aseh tzorcho trei' and Abaye's reinterpretation, which is precisely what section 2 ('Eating/Drinking/Sex') describes \u2014 the Gemara picking up with the last prohibition and the nimlach hu answer, followed by Abaye's health-based reinterpretation that section 3 summarizes separately but which appears here as a single continuous passage.",
+      "chosen_heading": "Eating/Drinking/Sex",
+      "current_heading": "Eating/Drinking/Sex",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Rav Yehuda: Outdoors",
+    "candidates": [
+      "Abaye: Health Issue",
+      "Two Cups Risk",
+      "Rav Yehuda: Outdoors",
+      "Travel/Sleep Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita about drinking in pairs (matching 'Two Cups Risk' prose) and Rav Yehuda/Rav Ashi's qualification about seeing the marketplace, and candidate 1's prose explicitly covers all of this content together, while candidate 2 ('Rav Yehuda: Outdoors') redundantly covers only the latter portion \u2014 the full passage including the baraita belongs under candidate 1.",
+      "chosen_heading": "Two Cups Risk",
+      "current_heading": "Rav Yehuda: Outdoors",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Travel/Sleep Danger",
+    "candidates": [
+      "Rav Yehuda: Outdoors",
+      "Travel/Sleep Danger",
+      "Rava Counts Beams",
+      "Abaye's Mother"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Travel/Sleep Danger' prose: the qualification that concern applies only when traveling, Rabbi Zeira's ruling about sleep, Rav Pappa's ruling about going to the bathroom, and the opening of the question about Rava counting beams \u2014 all of which align with candidate 1's discussion, with the Rava beams content serving as a transitional question that leads into candidate 2's section.",
+      "chosen_heading": "Travel/Sleep Danger",
+      "current_heading": "Travel/Sleep Danger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Abaye's Mother",
+    "candidates": [
+      "Rava Counts Beams",
+      "Abaye's Mother",
+      "Ulla: Ten Safe",
+      "Beis Avel Takana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Abaye's mother placing two cups in his hands and Rav Na\u1e25man bar Yitz\u1e25ak's attendant doing similarly, concluding with 'adam chashuv shanei' \u2014 all of which is precisely what the 'Abaye's Mother' section prose discusses.",
+      "chosen_heading": "Abaye's Mother",
+      "current_heading": "Abaye's Mother",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Beis Avel Takana",
+    "candidates": [
+      "Ulla: Ten Safe",
+      "Beis Avel Takana",
+      "Ulla: Eight-Four",
+      "Shalom: Seven Safe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with Ulla's ruling that ten cups have no concern of pairs, which is the primary content of heading 0 ('Ulla: Ten Safe'), and the subsequent reasoning about the beis avel takana is Ulla's supporting proof for that ruling \u2014 both belong under the heading that introduces Ulla's ten-cup ruling, not split into a separate heading.",
+      "chosen_heading": "Ulla: Ten Safe",
+      "current_heading": "Beis Avel Takana",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Shalom: Seven Safe",
+    "candidates": [
+      "Ulla: Eight-Four",
+      "Shalom: Seven Safe",
+      "Veyechuneka: Five",
+      "Veyishmerecha: Three",
+      "Historical Lessening",
+      "Only Two Problem",
+      "Rava Four Cups",
+      "Confirmation Bias",
+      "Ashmedai King",
+      "Two Versions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Shalom: Seven Safe",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the chain of opinions (Rav \u1e24isda/Rabba bar Rav Huna on shalom/seven, Rabba/Rav Yosef on vi\u1e25uneka/five, Abaye/Rava on veyishmerekha/three) that belong under the 'Shalom: Seven Safe' heading which explicitly discusses this entire series of Birchas Kohanim-based rulings, but items 1-3 are currently misplaced \u2014 item 1 belongs under 'Shalom: Seven Safe', item 2 under 'Veyechuneka: Five', item 3 under 'Veyishmerecha: Three'; however since all items must be assigned to one heading for form 1, and the current placement already covers items 1-3, the structural seam is after item 3 where item 4 (Rava's practical application) belongs under 'Rava Four Cups'.",
+      "second_heading": "Rava Four Cups",
+      "second_confidence": "high",
+      "second_reason": "Item 4 describes Rava acting on his own reasoning by sending students home after four cups and dismissing the injury of Rava bar Livai, which matches exactly the 'Rava Four Cups' section prose.",
+      "current_heading": "Shalom: Seven Safe",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Two Versions",
+    "candidates": [
+      "Veyechuneka: Five",
+      "Veyishmerecha: Three",
+      "Historical Lessening",
+      "Only Two Problem",
+      "Rava Four Cups",
+      "Confirmation Bias",
+      "Ashmedai King",
+      "Two Versions",
+      "Rav Papa Shedim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage presents both the first version (a king doesn't want to be called a destroyer) and the second version (a king is angry and does what he wants) of the Ashmedai statement, but the passage as a whole \u2014 including both versions \u2014 belongs under heading 6 'Ashmedai King' which introduces this entire Rav Yosef/Ashmedai discussion, while heading 7 'Two Versions' covers only the second version's content, making heading 6 the better home for the complete passage.",
+      "chosen_heading": "Ashmedai King",
+      "current_heading": "Two Versions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rav Papa Shedim",
+    "candidates": [
+      "Two Versions",
+      "Rav Papa Shedim",
+      "Thumb Incant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's report from Yosef the demon about the dangers of two vs. four cups, which is precisely what the 'Rav Papa Shedim' section's prose describes.",
+      "chosen_heading": "Rav Papa Shedim",
+      "current_heading": "Rav Papa Shedim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Thumb Incant",
+    "candidates": [
+      "Thumb Incant",
+      "Shed Bursts",
+      "Rishtina Witches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full exchange including the demon bursting at 101, which matches the 'Shed Bursts' prose exactly, while the current 'Thumb Incant' prose only covers the initial thumb-counting remedy without the demon-bursting conclusion.",
+      "chosen_heading": "Shed Bursts",
+      "current_heading": "Thumb Incant",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Rishtina Witches",
+    "candidates": [
+      "Shed Bursts",
+      "Rishtina Witches",
+      "Eretz Yisrael No Care",
+      "Rav Dimi Four Foods",
+      "Fear Attracts",
+      "Bavli Extends"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete incantation against witches reported by Ameimar from the chief of witches, which is precisely what the 'Rishtina Witches' prose section describes in detail.",
+      "chosen_heading": "Rishtina Witches",
+      "current_heading": "Rishtina Witches",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Bavli Extends",
+    "candidates": [
+      "Eretz Yisrael No Care",
+      "Rav Dimi Four Foods",
+      "Fear Attracts",
+      "Bavli Extends",
+      "Witchcraft vs Mazikin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fear Attracts",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both the Eretz Yisrael leniency, Rav Dimi's barrel story, and the 'klala d'milta' rule \u2014 all of which are discussed together in candidate 2's prose about the general rule that fear attracts and the qualification that some concern is still warranted.",
+      "second_heading": "Bavli Extends",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Dimi's report of the four specific foods as halacha l'Moshe mi'Sinai and the Sages' extension to all pairs due to the forgotten fourth item, which is precisely what candidate 3's prose discusses.",
+      "current_heading": "Bavli Extends",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Witchcraft vs Mazikin",
+    "candidates": [
+      "Witchcraft vs Mazikin",
+      "Curse Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the distinction between mazikin and keshafim \u2014 that large even numbers are still dangerous for witchcraft \u2014 which is precisely what the 'Witchcraft vs Mazikin' section's prose discusses.",
+      "chosen_heading": "Witchcraft vs Mazikin",
+      "current_heading": "Witchcraft vs Mazikin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Curse Story",
+    "candidates": [
+      "Curse Story",
+      "Plates Bread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the same continuous narrative about the man who divorced his wife, her witchcraft attempts, and his eventual death \u2014 exactly the story discussed in the 'Curse Story' prose.",
+      "chosen_heading": "Curse Story",
+      "current_heading": "Curse Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Plates Bread",
+    "candidates": [
+      "Plates Bread",
+      "Made by Whom",
+      "Bar Drinking",
+      "Guests Ad Hoc",
+      "Women Drinking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the specific ruling about plates/loaves AND the general rule (klala d'milta), and the current heading 'Plates Bread' with its prose already references both points together, while candidate 1 'Made by Whom' covers only the general principle distinction \u2014 the full passage fits best under its current placement where both the specific case and the rule are introduced together.",
+      "chosen_heading": "Plates Bread",
+      "current_heading": "Plates Bread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Women Drinking",
+    "candidates": [
+      "Made by Whom",
+      "Bar Drinking",
+      "Guests Ad Hoc",
+      "Women Drinking",
+      "Health Drinks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all four cases (store/bar, changed mind, guest, woman) in sequence, and the 'Bar Drinking' prose section (index 1) is where this combined passage begins \u2014 it explicitly discusses *chanut*, *nimlach*, and references the guest and woman cases as part of the same Talmudic unit, making it the best single heading for the entire passage.",
+      "chosen_heading": "Bar Drinking",
+      "current_heading": "Women Drinking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Health Drinks",
+    "candidates": [
+      "Women Drinking",
+      "Health Drinks",
+      "Even Odd Doubt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is specifically about ispargus combining for good but not for bad, which is exactly what the 'Health Drinks' section discusses in detail.",
+      "chosen_heading": "Health Drinks",
+      "current_heading": "Health Drinks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Even Odd Doubt",
+    "candidates": [
+      "Even Odd Doubt",
+      "Wine Beer Separate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Ravina/Rava dispute about pairs-doubt (stringent vs. lenient) AND Rav Yosef's wine/beer combining rule, and the current placement under 'Even Odd Doubt' already covers the Ravina material while the essay clearly separates the Rav Yosef content under 'Wine Beer Separate' \u2014 but since both items appear in a single quoted passage, they belong together, and the current heading 0 is where they already sit, matching the passage's primary content about the safek of pairs.",
+      "chosen_heading": "Even Odd Doubt",
+      "current_heading": "Even Odd Doubt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Wine Beer Separate",
+    "candidates": [
+      "Wine Beer Separate",
+      "Tumah Principle",
+      "Rav Nachman Timing",
+      "Rav Mesharshiya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the tumah mnemonic rule ('zeh ha-klal, kol ha-muchbar lo...') which is exactly what the 'Tumah Principle' prose section discusses \u2014 the hybrid fabric rule used as an analogy for wine/beer combining.",
+      "chosen_heading": "Tumah Principle",
+      "current_heading": "Wine Beer Separate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Rav Mesharshiya",
+    "candidates": [
+      "Tumah Principle",
+      "Rav Nachman Timing",
+      "Rav Mesharshiya",
+      "Two After One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Nachman's ruling about before/during-meal cups combining and Rav Mesharshiya's objection to it \u2014 are a continuous dispute about the same ruling, and the prose under 'Rav Nachman Timing' explicitly covers both the ruling and Mesharshiya's challenge to it, making it the clearly better home than the current placement under the separate 'Rav Mesharshiya' heading.",
+      "chosen_heading": "Rav Nachman Timing",
+      "current_heading": "Rav Mesharshiya",
+      "moved": true
+    }
+  }
+]

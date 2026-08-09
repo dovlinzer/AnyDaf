@@ -1,0 +1,227 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Woman & Fetus",
+    "candidates": [
+      "Woman & Fetus",
+      "Rabbi Elazar's Challenge",
+      "Chezakat Kashrut",
+      "Beraitah Challenge",
+      "Shetuki Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yochanan's principle about validating/invalidating the woman and her daughter, plus Rabbi Elazar's initial disagreement \u2014 exactly what the 'Woman & Fetus' prose describes as its content.",
+      "chosen_heading": "Woman & Fetus",
+      "current_heading": "Woman & Fetus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Shetuki Definition",
+    "candidates": [
+      "Rabbi Elazar's Challenge",
+      "Chezakat Kashrut",
+      "Beraitah Challenge",
+      "Shetuki Definition",
+      "Shetuki vs. Pasul",
+      "Mutual Admission"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chezakat Kashrut",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly discuss Rabba's rationale for Rabbi Elazar's distinction based on chezakat kashrut and the baraita challenge, which is exactly what candidates 1 ('Chezakat Kashrut') and 2 ('Beraitah Challenge') cover \u2014 but since item 1 belongs under candidate 1 and item 2 under candidate 2, a split is needed; however items 1 belongs under candidate 1 which discusses Rabba's chezakat kashrut reasoning.",
+      "second_heading": "Shetuki Definition",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 belong under candidate 3 ('Shetuki Definition') whose prose explicitly discusses the baraita challenge, the shetuki kasher question, Shmuel's case of ten kohanim, and the derivation from the verse about kehunah \u2014 matching items 2, 3, and 4 precisely.",
+      "current_heading": "Shetuki Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Mutual Admission",
+    "candidates": [
+      "Shetuki vs. Pasul",
+      "Mutual Admission",
+      "Rov Kasherim Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the betrothed couple appearing before Rav Yosef, her claim of paternity, his admission, and Rav Yosef's two-part ruling citing his concession and halacha ke-Rabban Gamliel \u2014 exactly what the 'Mutual Admission' prose describes.",
+      "chosen_heading": "Mutual Admission",
+      "current_heading": "Mutual Admission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rov Kasherim Requirement",
+    "candidates": [
+      "Rov Kasherim Requirement",
+      "Halacha vs. Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's challenge about the rov kasherim requirement and Shmuel's qualification to Rav Yehuda, which is precisely what the prose in candidate 0 discusses.",
+      "chosen_heading": "Rov Kasherim Requirement",
+      "current_heading": "Rov Kasherim Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Halacha vs. Practice",
+    "candidates": [
+      "Halacha vs. Practice",
+      "Almanas Issa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the lechatchila/bedieved distinction and how the betrothed woman's case is classified as bedieved, which is precisely what the prose under 'Halacha vs. Practice' explains.",
+      "chosen_heading": "Halacha vs. Practice",
+      "current_heading": "Halacha vs. Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Almanas Issa",
+    "candidates": [
+      "Almanas Issa",
+      "Definite vs. Doubtful"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Abaye's challenge from the almanas issa mishnah and Rava's resolution distinguishing a marrying woman who investigates from a woman engaged in zenut \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Almanas Issa",
+      "current_heading": "Almanas Issa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Definite vs. Doubtful",
+    "candidates": [
+      "Definite vs. Doubtful",
+      "Gamliel vs. Yehoshua",
+      "Beraitah Unpacked"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain resolving the contradictions between Rabban Gamliel's statements and Rabbi Yehoshua's statements via the bari/shema and chad sefeika/trei sefeika distinctions, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Definite vs. Doubtful",
+      "current_heading": "Definite vs. Doubtful",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Beraitah Unpacked",
+    "candidates": [
+      "Gamliel vs. Yehoshua",
+      "Beraitah Unpacked",
+      "Mamzer Silence",
+      "Chalal Silence",
+      "Dispute Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 10 items constitute the baraita on almanas issa and the gemara's sustained analysis of it \u2014 defining the term, raising the redundancy objections, and introducing Rabbi Yochanan's silence-as-admission framework \u2014 which is precisely what the 'Beraitah Unpacked' prose describes in detail.",
+      "chosen_heading": "Beraitah Unpacked",
+      "current_heading": "Beraitah Unpacked",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Dispute Resolution",
+    "candidates": [
+      "Mamzer Silence",
+      "Chalal Silence",
+      "Dispute Resolution",
+      "Rov Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the contradiction between the two baraitot and its resolution (la kashya), which is precisely what the 'Dispute Resolution' prose describes \u2014 the two baraitot stating opposite rules and the gemara resolving them by attributing one to the tanna kamma and one to Rabbi Shimon ben Elazar, both in the name of Rabbi Meir.",
+      "chosen_heading": "Dispute Resolution",
+      "current_heading": "Dispute Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Rov Standard",
+    "candidates": [
+      "Rov Standard",
+      "Position Identification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the mishna about the young girl who was raped and Rabbi Yochanan ben Nuri's ruling based on rov, which is exactly what candidate 0's prose discusses as an introduction to this new scenario and the rov principle.",
+      "chosen_heading": "Rov Standard",
+      "current_heading": "Rov Standard",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rambam Shvuat Shgaga",
+    "candidates": [
+      "Mistaken Assumptions",
+      "Rambam Shvuat Shgaga",
+      "Subjective Truth Standard",
+      "Wine & Shabbat Case",
+      "Rabbi Akiva Principle",
+      "Rabba's Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna about broaching vow dissolution based on Shabbat and Festivals, and the early position that only those days were released \u2014 precisely the foundational case described in the 'Wine & Shabbat Case' prose, before introducing Rabbi Akiva's principle.",
+      "chosen_heading": "Wine & Shabbat Case",
+      "current_heading": "Rambam Shvuat Shgaga",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Rabba's Analysis",
+    "candidates": [
+      "Subjective Truth Standard",
+      "Wine & Shabbat Case",
+      "Rabbi Akiva Principle",
+      "Rabba's Analysis",
+      "Mekayem vs. Meshane",
+      "Beit Shammai vs. Hillel",
+      "Rava's Position",
+      "Rabbi Meir & Yose"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabba's Analysis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabba's statement distinguishing the two cases (mekayem vs. meshane devarav), which is precisely what heading 3 'Rabba's Analysis' describes.",
+      "second_heading": "Rava's Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's counter-position \u2014 that everyone agrees meshane devarav voids the neder and the dispute is over mekayem devarav \u2014 which is exactly what heading 6 'Rava's Position' describes.",
+      "current_heading": "Rabba's Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Rabbi Meir & Yose",
+    "candidates": [
+      "Mekayem vs. Meshane",
+      "Beit Shammai vs. Hillel",
+      "Rava's Position",
+      "Rabbi Meir & Yose",
+      "Class Questions",
+      "Language & Intent",
+      "Single Unit Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items explicitly map Beit Shammai to Rabbi Meir's 'tfos lashon rishon' and Beit Hillel to Rabbi Yose's 'begmar devarav adam nitfas,' which is precisely what the 'Rabbi Meir & Yose' section's prose describes.",
+      "chosen_heading": "Rabbi Meir & Yose",
+      "current_heading": "Rabbi Meir & Yose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Single Unit Case",
+    "candidates": [
+      "Class Questions",
+      "Language & Intent",
+      "Single Unit Case",
+      "Chain Structure",
+      "First Middle Last",
+      "Rabba's Reisha/Seifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Rav Pappa objection introducing the mishna about Rabbi Akiva's principle, which is exactly what the 'Single Unit Case' prose describes as its content.",
+      "chosen_heading": "Single Unit Case",
+      "current_heading": "Single Unit Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rabba's Reisha/Seifa",
+    "candidates": [
+      "Chain Structure",
+      "First Middle Last",
+      "Rabba's Reisha/Seifa",
+      "Rava's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rabba's reading of the reisha ('Granted, according to Rabba, he establishes the first clause'), which is precisely the topic of the 'Rabba's Reisha/Seifa' section's prose about how Rabba maps the mishna's cases onto his framework.",
+      "chosen_heading": "Rabba's Reisha/Seifa",
+      "current_heading": "Rabba's Reisha/Seifa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Rava's Objection",
+    "candidates": [
+      "Rava's Objection",
+      "Daisy-Chain Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are part of the back-and-forth between Rava and Rav Pappa about how to read the reisha and seifa under Rabba's and Rava's competing frameworks \u2014 precisely the content described in 'Rava's Objection' prose.",
+      "chosen_heading": "Rava's Objection",
+      "current_heading": "Rava's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Daisy-Chain Logic",
+    "candidates": [
+      "Daisy-Chain Logic",
+      "Onion Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly describe the daisy-chain logic \u2014 Rava's explanation of lekulchem vs. tla'an zeh bazeh, and the baraita about hutar ha'emtza'i \u2014 which is precisely what the 'Daisy-Chain Logic' prose discusses.",
+      "chosen_heading": "Daisy-Chain Logic",
+      "current_heading": "Daisy-Chain Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Onion Vow",
+    "candidates": [
+      "Onion Vow",
+      "Kufri Exception",
+      "Question on Rava",
+      "Mishne Devarim Reply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the mishna/baraita text about the onion vow itself \u2014 the declaration, the rationale, and Rabbi Meir's ruling \u2014 which is precisely what the 'Onion Vow' section's prose introduces and discusses.",
+      "chosen_heading": "Onion Vow",
+      "current_heading": "Onion Vow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Mishne Devarim Reply",
+    "candidates": [
+      "Kufri Exception",
+      "Question on Rava",
+      "Mishne Devarim Reply",
+      "Basket Vow",
+      "Two Outcomes",
+      "Mishne Devarim Assumed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items constitute exactly the question-and-answer exchange about whether the kuferi case involves 'mekayem devarav' or 'meshane devarav,' which is precisely what the 'Mishne Devarim Reply' prose describes \u2014 the gemara's challenge assuming the speaker would have said a qualifier, followed by the resolution that he would have enumerated specific onions (meshane devarav), satisfying both Rabba and Rabbi Meir.",
+      "chosen_heading": "Mishne Devarim Reply",
+      "current_heading": "Mishne Devarim Reply",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Mishne Devarim Assumed",
+    "candidates": [
+      "Basket Vow",
+      "Two Outcomes",
+      "Mishne Devarim Assumed",
+      "Qualifier Option",
+      "Five-Person Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute Ravina's objection to Rava and the gemara's resolution \u2014 the initial assumption that the case is meshane devarav (items 1-2) and the gemara's rebuttal assigning a qualifier reading instead (item 3) \u2014 which is precisely what the 'Mishne Devarim Assumed' prose describes.",
+      "chosen_heading": "Mishne Devarim Assumed",
+      "current_heading": "Mishne Devarim Assumed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Five-Person Vow",
+    "candidates": [
+      "Qualifier Option",
+      "Five-Person Vow",
+      "Contradiction",
+      "Rabba's Attribution",
+      "Rava's Attribution",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's question about who taught the five-person vow baraita and its two-possibility answer (Rabba vs. Rava), which is precisely what the 'Five-Person Vow' prose describes as the concluding identification of the tanna behind that baraita.",
+      "chosen_heading": "Five-Person Vow",
+      "current_heading": "Five-Person Vow",
+      "moved": false
+    }
+  }
+]

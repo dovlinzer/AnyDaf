@@ -6,11 +6,6 @@
 
  The preceding *dappim* were occupied with the question of wine left unattended with a non-Jew: under what circumstances may one assume, with sufficient confidence, that the non-Jew did not touch the wine or otherwise handle it? Now, with the *mishna* at the top of 71a, the discussion returns to an earlier cluster of themes — when does wine become the property of the non-Jew, and when is it still considered the Jew's wine? Related to this is the question of at what stage one is deemed to have derived benefit (*hana'ah*) from *yayin nesech*. These are the central concerns of the current *daf*.
 
-## Workers Refuse Wine
-
-### Non-Jew Payment
-
-The *mishna* presents the following case: Jewish workers are employed by a non-Jewish owner. When the time comes to pay their wages, the employer has no cash on hand and offers them a barrel of wine instead. The *mishna* terms this *yayin nesech*, though as a practical matter, the non-Jew would not typically be setting aside wine dedicated to *avodah zarah*. Even *stam yeinam* — the ordinary wine of a non-Jew — is forbidden for benefit, and so the workers cannot simply accept this wine as payment.
 
 ## Wine & Non-Jews Intr (II)
 

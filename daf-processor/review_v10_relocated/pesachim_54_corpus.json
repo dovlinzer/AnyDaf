@@ -1,0 +1,298 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Public Lighting",
+    "candidates": [
+      "Mishnah: Yom Kippur",
+      "Why Light Candles?",
+      "Public Lighting",
+      "Shammai vs. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text itself, and candidate 0's prose directly introduces and quotes this exact Mishna about lighting candles on Yom Kippur night, including the same opening lines about places that customarily light vs. don't light.",
+      "chosen_heading": "Mishnah: Yom Kippur",
+      "current_heading": "Public Lighting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Shammai vs. Hillel",
+    "candidates": [
+      "Public Lighting",
+      "Shammai vs. Hillel",
+      "Blessing Light Shabbat",
+      "Fire and Creativity",
+      "Ulla's Inquiry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's teaching that both those who said to kindle and those who said not to kindle had the same objective, and Rava's exposition of 've-amech kulam tzaddikim,' which is exactly what the 'Shammai vs. Hillel' section's prose describes.",
+      "chosen_heading": "Shammai vs. Hillel",
+      "current_heading": "Shammai vs. Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Ulla's Inquiry",
+    "candidates": [
+      "Blessing Light Shabbat",
+      "Fire and Creativity",
+      "Ulla's Inquiry",
+      "Yom Kippur Shabbat Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Yehuda's teaching in Shmuel's name that the blessing over fire is recited only at the conclusion of Shabbat, along with the elder's/Rabbah bar bar \u1e24ana's affirmation and the beginning of the Ulla narrative \u2014 all of which corresponds precisely to the 'Blessing Light Shabbat' section's prose about Rav Yehuda/Shmuel's ruling and its rationale, not the later narrative section where it currently sits.",
+      "chosen_heading": "Blessing Light Shabbat",
+      "current_heading": "Ulla's Inquiry",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Yom Kippur Shabbat Case",
+    "candidates": [
+      "Ulla's Inquiry",
+      "Yom Kippur Shabbat Case",
+      "Conflicting Sources",
+      "New vs. Old Fire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Ulla's glance and Rabbah bar Bar Chana's clarification about the Yom Kippur/Shabbat candle-lighting case, Rav Yosef's verse, and its application plus Rabbi Binyamin bar Yefet's ruling \u2014 are fully narrated and explained in candidate 1's prose, making it the clear and correct home for this passage.",
+      "chosen_heading": "Yom Kippur Shabbat Case",
+      "current_heading": "Yom Kippur Shabbat Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "New vs. Old Fire",
+    "candidates": [
+      "Conflicting Sources",
+      "New vs. Old Fire",
+      "Blessing Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the 'conflicting sources' sequence: item 1 raises the objection (a baraita saying only motzaei Shabbat) and Rabbi Yochanan's ruling, items 2\u20133 resolve the contradictions with the new-vs-old fire distinction \u2014 but this entire chain is the resolution of the conflict introduced in candidate 0's prose, which explicitly anticipates the lo kashya answers as part of resolving the conflicting reports.",
+      "chosen_heading": "Conflicting Sources",
+      "current_heading": "New vs. Old Fire",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Blessing Order",
+    "candidates": [
+      "New vs. Old Fire",
+      "Blessing Order",
+      "Ten Things Created"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehuda HaNasi scattering the blessings, Rabbi \u1e24iyya collecting them, and Rabbi Yitz\u1e25ak bar Avdimi clarifying that Rabbi repeats them over the cup \u2014 exactly what the 'Blessing Order' prose discusses.",
+      "chosen_heading": "Blessing Order",
+      "current_heading": "Blessing Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Ten Things Created",
+    "candidates": [
+      "Ten Things Created",
+      "Liminal Space",
+      "Creativity vs. Miracle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita listing the ten things created on erev Shabbat bein ha-shmashot, which is exactly what the prose under heading 0 ('Ten Things Created') discusses \u2014 the challenge to fire being created on motzaei Shabbat and the enumeration of the ten items.",
+      "chosen_heading": "Ten Things Created",
+      "current_heading": "Ten Things Created",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Creativity vs. Miracle",
+    "candidates": [
+      "Liminal Space",
+      "Creativity vs. Miracle",
+      "Gehennom Fire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Nechemia, Rabbi Yoshiya, and Rabbi Yehuda's additions to the erev Shabbat list (fire, mule, ram, shamir, tongs) along with the tongs bootstrapping argument \u2014 precisely what Candidate 1's prose describes in detail.",
+      "chosen_heading": "Creativity vs. Miracle",
+      "current_heading": "Creativity vs. Miracle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Gehennom Fire",
+    "candidates": [
+      "Gehennom Fire",
+      "Our Fire Created"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form one continuous chain of question-and-answer about when the fire of Gehenna was created, which is precisely what the 'Gehennom Fire' prose section discusses in detail, including the seven pre-Creation phenomena, the void/fire distinction, and Rabbi Yosei's baraita about the second day.",
+      "chosen_heading": "Gehennom Fire",
+      "current_heading": "Gehennom Fire",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Our Fire Created",
+    "candidates": [
+      "Our Fire Created",
+      "Fire and Mule",
+      "Ana's Genealogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content discussed in the 'Our Fire Created' prose section \u2014 the distinction between divine thought on erev Shabbat and actual creation on motzaei Shabbat, Rabbi Yosei's baraita about the two phenomena, Adam's creation of fire from stones, and the mule, all of which are elaborated in that section's prose.",
+      "chosen_heading": "Our Fire Created",
+      "current_heading": "Our Fire Created",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Ana's Genealogy",
+    "candidates": [
+      "Fire and Mule",
+      "Ana's Genealogy",
+      "Ana Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'dorshei chamurot' tradition about Anah being pasul due to Zibeon cohabiting with his mother, which is precisely what the prose of candidate 1 ('Ana's Genealogy') describes in detail.",
+      "chosen_heading": "Ana's Genealogy",
+      "current_heading": "Ana's Genealogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Ana Question",
+    "candidates": [
+      "Ana Question",
+      "Seven Hidden Things"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the question of whether there were two people named Anah and Rava's/Rav Pappa's resolution using the 'hu Anah' verse, which is precisely what the 'Ana Question' section's prose describes.",
+      "chosen_heading": "Ana Question",
+      "current_heading": "Ana Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Seven Hidden Things",
+    "candidates": [
+      "Seven Hidden Things",
+      "Three Necessary Evils",
+      "Life's Necessities"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Three Necessary Evils",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the ten things created on Shabbat eve during twilight, which fits under 'Three Necessary Evils' / 'Life's Necessities' area less well \u2014 but actually these belong before 'Seven Hidden Things' since the essay prose for heading 0 explicitly discusses the seven hidden things, and the Gemara itself (item 3) introduces the seven hidden things as 'apropos the list of items created during twilight,' meaning items 1-2 (the ten twilight creations) are the preceding baraita that leads into the seven hidden things discussion under heading 0.",
+      "second_heading": "Seven Hidden Things",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita listing the seven things concealed from people, which is precisely what the prose under heading 0 ('Seven Hidden Things') discusses in detail.",
+      "current_heading": "Seven Hidden Things",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Life's Necessities",
+    "candidates": [
+      "Three Necessary Evils",
+      "Life's Necessities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita listing the three necessary evils, which is precisely what heading 0's prose introduces and explains, while heading 1's prose discusses the interpretive implications of those items rather than the source text itself.",
+      "chosen_heading": "Three Necessary Evils",
+      "current_heading": "Life's Necessities",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,393 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Rabbi Yishmael",
+    "candidates": [
+      "Three Positions",
+      "Rabbi Yishmael",
+      "Analogy Comparison",
+      "False Witnesses",
+      "Bo'el Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute the baraita establishing Rabbi Yishmael's position \u2014 item 1 opens the question and item 2 provides the analogical reasoning \u2014 which is precisely what the 'Rabbi Yishmael' section's prose describes.",
+      "chosen_heading": "Rabbi Yishmael",
+      "current_heading": "Rabbi Yishmael",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Bo'el Punishment",
+    "candidates": [
+      "Analogy Comparison",
+      "False Witnesses",
+      "Bo'el Punishment",
+      "Gender Distinction",
+      "Rabbi Akiva",
+      "Extra Vav Dispute",
+      "Dibra Torah Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the correction of the baraita regarding edim zomemim and the bo'el \u2014 item 1 raises the verse applied to the bo'el and item 2 corrects it \u2014 which is precisely what the 'Bo'el Punishment' prose describes: the Gemara's textual correction that zomemim receive chenek (the bo'el's punishment) rather than srefah.",
+      "chosen_heading": "Bo'el Punishment",
+      "current_heading": "Bo'el Punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Dibra Torah Principle",
+    "candidates": [
+      "Gender Distinction",
+      "Rabbi Akiva",
+      "Extra Vav Dispute",
+      "Dibra Torah Principle",
+      "Vav as Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 7 items cover the Rabbi Yishmael vs. Rabbi Akiva dispute over 'bas u'vas,' the gezeirah shavah excluding the pnuya, and Rabbi Yishmael's possible misreading of Rabbi Akiva as abandoning the gezeirah shavah \u2014 exactly the content described in the 'Dibra Torah Principle' prose.",
+      "chosen_heading": "Dibra Torah Principle",
+      "current_heading": "Dibra Torah Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Vav as Exclusion",
+    "candidates": [
+      "Vav as Exclusion",
+      "Initial Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items discuss exactly what candidate 0's prose covers: Rabbi Yishmael's use of the extra vav (u'vas) for the blemished bat kohen teaching, Rabbi Akiva's derivation from v'hayu kodesh, and the et aviha hi mechalelet exposition including Rabbi Meir's baraita and Rav Ashi's remark \u2014 all of which are explicitly described in the 'Vav as Exclusion' prose.",
+      "chosen_heading": "Vav as Exclusion",
+      "current_heading": "Vav as Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Initial Setup",
+    "candidates": [
+      "Initial Setup",
+      "Mouth Opening"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Initial Setup",
+      "current_heading": "Initial Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Mouth Opening",
+    "candidates": [
+      "Mouth Opening",
+      "Historical Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehuda's alternative method of forcing open the mouth with tongs to fulfill mitzvas srefah, which directly matches the 'Mouth Opening' section's prose about Rabbi Yehuda's objection and proposed solution using tzavas.",
+      "chosen_heading": "Mouth Opening",
+      "current_heading": "Mouth Opening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Historical Case",
+    "candidates": [
+      "Historical Case",
+      "Ptilah Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact Rabbi Elazar ben Tzadok testimony about the priest's daughter case that the 'Historical Case' prose explicitly describes and discusses.",
+      "chosen_heading": "Historical Case",
+      "current_heading": "Historical Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Ptilah Identity",
+    "candidates": [
+      "Ptilah Identity",
+      "Two Models"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks what kind of 'ptilah' (wick) the mishna refers to and gives Rav Mattana's answer of a lead wick, which is precisely what the 'Ptilah Identity' section's prose describes.",
+      "chosen_heading": "Ptilah Identity",
+      "current_heading": "Ptilah Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Two Models",
+    "candidates": [
+      "Two Models",
+      "Korach Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the two competing *gezeirah shavah* derivations (from Korach's congregation and from Nadav and Avihu) for the soul-burning method of *srefah*, which is precisely what Candidate 0's prose describes and labels 'Two Models'.",
+      "chosen_heading": "Two Models",
+      "current_heading": "Two Models",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Korach Analysis",
+    "candidates": [
+      "Korach Analysis",
+      "Nadav Avihu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the derivation from the assembly of Korah regarding sreifas neshamah v'guf kayam, including the interpretation of 'b'nafshosam' and Reish Lakish's reading about flattery and eating \u2014 exactly what the 'Korach Analysis' prose section discusses.",
+      "chosen_heading": "Korach Analysis",
+      "current_heading": "Korach Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Nadav Avihu",
+    "candidates": [
+      "Nadav Avihu",
+      "Human Models"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the interpretation of the deaths of Nadav and Avihu (sons of Aaron) \u2014 specifically whether 'vayamutu' implies the body was intact, whether the fire was internal or external, and what 'vatokhal otam' means \u2014 which matches exactly the prose under heading 0 ('Nadav Avihu').",
+      "chosen_heading": "Nadav Avihu",
+      "current_heading": "Nadav Avihu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Human Models",
+    "candidates": [
+      "Human Models",
+      "Mercy Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous question-and-answer chain about deriving srefah from parim hanisrafim versus human models, which is precisely what the 'Human Models' prose section describes in detail.",
+      "chosen_heading": "Human Models",
+      "current_heading": "Human Models",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Mercy Principle",
+    "candidates": [
+      "Mercy Principle",
+      "Body Image Approach",
+      "Divine Death Model",
+      "Ambition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Talmudic discussion about the mercy principle (ve'ahavta lerei'acha kamocha / beror lo misa yafa) and its relationship to the gezeirah shavah, which is precisely what the 'Mercy Principle' section's prose describes in detail.",
+      "chosen_heading": "Mercy Principle",
+      "current_heading": "Mercy Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Ambition",
+    "candidates": [
+      "Body Image Approach",
+      "Divine Death Model",
+      "Ambition",
+      "Camel Proverb",
+      "Seduction Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage depicts Nadav and Avihu's ambitious conversation about outliving Moses and Aaron and God's response, which is precisely what the 'Ambition' section's prose describes.",
+      "chosen_heading": "Ambition",
+      "current_heading": "Ambition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Seduction Strategy",
+    "candidates": [
+      "Camel Proverb",
+      "Seduction Strategy",
+      "Requirements",
+      "Rav Chama Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Eliezer's parable about a Torah scholar's diminishing status in an ignoramus's eyes, which the prose of 'Seduction Strategy' explicitly discusses and connects to Korach's strategy of hospitality undermining the leaders' critical detachment.",
+      "chosen_heading": "Seduction Strategy",
+      "current_heading": "Seduction Strategy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Rav Chama Case",
+    "candidates": [
+      "Requirements",
+      "Rav Chama Case",
+      "Testimony Dismissal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together describe the Rav Chama bar Toviyya case (item 1) and Rav Yosef's verdict that he erred in two ways (item 2), which is precisely what the 'Rav Chama Case' prose discusses.",
+      "chosen_heading": "Rav Chama Case",
+      "current_heading": "Rav Chama Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Testimony Dismissal",
+    "candidates": [
+      "Testimony Dismissal",
+      "Halakha Divergence",
+      "Two Accounts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna's incident with a priest's daughter and Rav Yosef's identification of the Sadducean court, which is precisely what the 'Testimony Dismissal' prose discusses in detail.",
+      "chosen_heading": "Testimony Dismissal",
+      "current_heading": "Testimony Dismissal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Two Accounts",
+    "candidates": [
+      "Halakha Divergence",
+      "Two Accounts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single continuous Talmudic discussion about harmonizing the two accounts of Rabbi Elazar bar Tzadok \u2014 establishing there were two incidents and working out their logical order \u2014 which is precisely what the 'Two Accounts' prose describes.",
+      "chosen_heading": "Two Accounts",
+      "current_heading": "Two Accounts",
+      "moved": false
+    }
+  }
+]

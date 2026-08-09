@@ -1,0 +1,411 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Bi'ah of Minor",
+    "candidates": [
+      "Bi'ah of Minor",
+      "No Co-Wife Case",
+      "Appearance Concern",
+      "Regular Marriage Rules",
+      "Shotim Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items contain Rava's ruling that the prohibition on yibum when there are two zekat applies even where there is no co-wife (leka tzara), which is precisely what candidate 1 ('No Co-Wife Case') discusses in its prose.",
+      "chosen_heading": "No Co-Wife Case",
+      "current_heading": "Bi'ah of Minor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Shotim Exemption",
+    "candidates": [
+      "No Co-Wife Case",
+      "Appearance Concern",
+      "Regular Marriage Rules",
+      "Shotim Exemption",
+      "Rav Ashi vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita about shoteh and katan whose wives are exempt from chalitzah and yibum, which directly matches the 'Shotim Exemption' section prose describing exactly this tannaic teaching.",
+      "chosen_heading": "Shotim Exemption",
+      "current_heading": "Shotim Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Rav Ashi vs. Shmuel",
+    "candidates": [
+      "Rav Ashi vs. Shmuel",
+      "Tannaitic Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Ashi vs. Shmuel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Rav/Shmuel/Rabbi Yochanan dispute about whether bi'ah of a nine-year-old equals ma'amar begadol, which is precisely what the 'Rav Ashi vs. Shmuel' prose discusses.",
+      "second_heading": "Tannaitic Dispute",
+      "second_confidence": "high",
+      "second_reason": "Item 2 reframes the contradiction as a machloket tanna'im with the gezeirah mishum tzara, which is exactly what the 'Tannaitic Dispute' prose describes.",
+      "current_heading": "Rav Ashi vs. Shmuel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Tannaitic Dispute",
+    "candidates": [
+      "Tannaitic Dispute",
+      "Teaching Without Name",
+      "Tiberias Synagogue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly express the tannaitic dispute logic described in candidate 0's prose \u2014 each tanna applies his ruling equally to both kattan and gadol cases, teaching whichever example was directly relevant to his discussion, which is precisely what the prose of 'Tannaitic Dispute' explains.",
+      "chosen_heading": "Tannaitic Dispute",
+      "current_heading": "Tannaitic Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Tiberias Synagogue",
+    "candidates": [
+      "Teaching Without Name",
+      "Tiberias Synagogue",
+      "Yehoshua Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Elazar teaching without attribution, the Tiberias synagogue dispute story used to appease Rabbi Yochanan, and Rabbi Yochanan growing angrier at the 'colleagues' comparison \u2014 are precisely the content described in the 'Tiberias Synagogue' prose, and the current placement is correct.",
+      "chosen_heading": "Tiberias Synagogue",
+      "current_heading": "Tiberias Synagogue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Yehoshua Analogy",
+    "candidates": [
+      "Yehoshua Analogy",
+      "Immortality via Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yaakov bar Idi's Yehoshua analogy and its effect on Rabbi Yochanan, which is exactly what the 'Yehoshua Analogy' section prose discusses.",
+      "chosen_heading": "Yehoshua Analogy",
+      "current_heading": "Yehoshua Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Immortality via Torah",
+    "candidates": [
+      "Immortality via Torah",
+      "Saris Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss Rabbi Yochanan's anger about attribution, David's prayer to dwell in two worlds, and the teaching that a scholar's lips murmur in the grave when Torah is cited in his name \u2014 precisely the content described in the 'Immortality via Torah' prose.",
+      "chosen_heading": "Immortality via Torah",
+      "current_heading": "Immortality via Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Saris Definition",
+    "candidates": [
+      "Saris Definition",
+      "Rava's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous unit \u2014 a contradiction raised from a baraita about a twenty-year-old without pubic hair being classified as a saris exempt from chalitza/yibum, followed by the resolution from Rav Shmuel bar Yitzchak/Rav requiring additional signs of a saris, and Rava's confirmation from the baraita's precise language \u2014 which matches exactly the prose under 'Saris Definition'.",
+      "chosen_heading": "Saris Definition",
+      "current_heading": "Saris Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Rava's Ruling",
+    "candidates": [
+      "Rava's Ruling",
+      "Ha-Isha Rabba End",
+      "Non-Marital Relations",
+      "Father's Exception",
+      "Daughter Prohibition",
+      "Suspected Affair",
+      "Death Removes Ties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the content described in 'Rava's Ruling' prose: item 1 is the school of Rabbi \u1e24iyya's teaching about 'until most of his years' and item 2 is Rava's practical approach of fattening or thinning the person before determining saris status \u2014 both explicitly discussed in that section's prose.",
+      "chosen_heading": "Rava's Ruling",
+      "current_heading": "Rava's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Death Removes Ties",
+    "candidates": [
+      "Ha-Isha Rabba End",
+      "Non-Marital Relations",
+      "Father's Exception",
+      "Daughter Prohibition",
+      "Suspected Affair",
+      "Death Removes Ties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Hadran declaration marking the end of the chapter Ha'isha Rabba, which belongs under the 'Ha-Isha Rabba End' heading that explicitly discusses this conclusion.",
+      "chosen_heading": "Ha-Isha Rabba End",
+      "current_heading": "Death Removes Ties",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Death Removes Ties",
+    "candidates": [
+      "Death Removes Ties",
+      "Terminology Pattern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The three items together form the Mishnah and its Gemara discussion resolving that 'nosein l'chatchilah' applies after death, which is precisely what the 'Death Removes Ties' prose describes \u2014 the post-death scenario dissolving even rabbinic prohibitions and explaining why the Mishnah uses ab initio language.",
+      "chosen_heading": "Death Removes Ties",
+      "current_heading": "Death Removes Ties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Terminology Pattern",
+    "candidates": [
+      "Terminology Pattern",
+      "Rava Challenges",
+      "Context Determines",
+      "Conflicting Verses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Terminology Pattern",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita deriving that the Torah prohibited these relations through 'taking' (marriage), which is exactly what heading 0 'Terminology Pattern' discusses \u2014 the textual basis of kichah vs. shichivah and derech likuchin.",
+      "second_heading": "Rava Challenges",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 form the challenge-and-resolution unit about the sister's case (Rav Pappa's objection and Abaye's answer about context determining meaning), which maps precisely onto headings 1 'Rava Challenges' and 2 'Context Determines' \u2014 but since they must go under one heading together, heading 1 begins the challenge and heading 2 covers the resolution, so splitting item 2 under heading 1 and item 3 under heading 2 would require a further split; however the form only allows one split, so placing items 2\u20133 under heading 1 with the understanding that the prose of headings 1\u20132 together covers this unit is the best available option given the constraint.",
+      "current_heading": "Terminology Pattern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Conflicting Verses",
+    "candidates": [
+      "Rava Challenges",
+      "Context Determines",
+      "Conflicting Verses",
+      "Sheir Concept",
+      "Shomeret Yavam",
+      "Knaf Aviv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the exact Gemara passage about reconciling the two conflicting verses regarding a woman's granddaughter in cases of rape vs. marriage, which is precisely what the 'Conflicting Verses' prose describes \u2014 including the *ha ketsad* resolution and the *she'er* argument against reversing the verses.",
+      "chosen_heading": "Conflicting Verses",
+      "current_heading": "Conflicting Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Knaf Aviv",
+    "candidates": [
+      "Sheir Concept",
+      "Shomeret Yavam",
+      "Knaf Aviv",
+      "Rabbanan Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Giddel citing Rav's explanation of Rabbi Yehuda's position using the 'knaf aviv' verse, which is precisely what the 'Knaf Aviv' section's prose describes.",
+      "chosen_heading": "Knaf Aviv",
+      "current_heading": "Knaf Aviv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Rabbanan Counter",
+    "candidates": [
+      "Rabbanan Counter",
+      "Aunt Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Rabbis' counter-argument: item 1 establishes the contextual proof from the rape passage, and item 2 gives the Rabbinic rebuttal via Rav Anan's teaching about the father's shomeret yavam \u2014 exactly what the 'Rabbanan Counter' prose describes.",
+      "chosen_heading": "Rabbanan Counter",
+      "current_heading": "Rabbanan Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Aunt Status",
+    "candidates": [
+      "Aunt Status",
+      "Post-Death",
+      "Stepdaughter Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the question of why the Torah needs a separate prohibition for the father's yevama given existing prohibitions (aunt, yevama lashuk), and the answers about accumulating two and three lavin \u2014 exactly the content described in the 'Aunt Status' prose.",
+      "chosen_heading": "Aunt Status",
+      "current_heading": "Aunt Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Stepdaughter Case",
+    "candidates": [
+      "Post-Death",
+      "Stepdaughter Case",
+      "Son-Brother",
+      "Aunt Case",
+      "Multi-Relation",
+      "Cousins Case",
+      "First Cousins"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Stepdaughter Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the half-brother/stepfather riddle tied to Rabbi Yehuda's ruling, exactly matching the 'Stepdaughter Case' prose.",
+      "second_heading": "Son-Brother",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 are the son-brother and subsequent riddles involving gentile incest scenarios, beginning with the 'achi v'breih' riddle that matches the 'Son-Brother' prose exactly.",
+      "current_heading": "Stepdaughter Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143
+    ],
+    "current_heading": "First Cousins",
+    "candidates": [
+      "Son-Brother",
+      "Aunt Case",
+      "Multi-Relation",
+      "Cousins Case",
+      "First Cousins",
+      "I Am My Grandpa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items deal with the 'ana ve'at achin / ana ve'avuch achin / ana ve'imach achin' riddle \u2014 item 1 is the incest-based solution and item 2 is the permitted-marriage solution \u2014 exactly matching the 'Cousins Case' prose which describes this fifth riddle and its construction, not the 'First Cousins' prose which describes the sixth riddle about benei achi (children of siblings).",
+      "chosen_heading": "Cousins Case",
+      "current_heading": "First Cousins",
+      "moved": true
+    }
+  }
+]

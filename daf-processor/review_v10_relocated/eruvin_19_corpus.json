@@ -1,0 +1,327 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Extend vs. Add Planks",
+    "candidates": [
+      "Meir vs. Yehuda Gap",
+      "Extend vs. Add Planks",
+      "Yehuda: Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the exact dispute about whether 'yarbeh ba-pasim' means extending existing corner-posts or adding more straight planks, including the alternative version (ika d'amri) and the concluding 'hachi nami mistabra' \u2014 all of which are explicitly described in the prose of candidate 1 ('Extend vs. Add Planks').",
+      "chosen_heading": "Extend vs. Add Planks",
+      "current_heading": "Extend vs. Add Planks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Yehuda: Extension",
+    "candidates": [
+      "Yehuda: Extension",
+      "Wall vs. Corner Law",
+      "Hill as Diomed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form one continuous chain: Abaye's dilemma about Rabbi Yehuda's rule (item 1), Rabba's answer from the baraita about distance limits (items 2-4), the Gemara's challenge to Rabba's proof (item 5), and the resolution explaining the mechitza/pasim distinction (item 6) \u2014 exactly matching the prose under heading 0 ('Yehuda: Extension'), which describes this entire sequence including the baraita, Rabbi Yehuda's response, and the zo mechitza/zo pasim formulation.",
+      "chosen_heading": "Yehuda: Extension",
+      "current_heading": "Yehuda: Extension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Hill as Diomed",
+    "candidates": [
+      "Wall vs. Corner Law",
+      "Hill as Diomed",
+      "Square/Circular Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's question to Rabba about whether a mound rising ten handbreadths within four cubits can serve as a diyumed (double post/corner-post), which is precisely what the 'Hill as Diomed' section's prose describes.",
+      "chosen_heading": "Hill as Diomed",
+      "current_heading": "Hill as Diomed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Square/Circular Stones",
+    "candidates": [
+      "Square/Circular Stones",
+      "Stick Fences/Lavud"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the square/circular stone baraita and the dispute between Rabbi Shimon ben Elazar and Rabbi Yishmael about single vs. double theoretical transformations (chad ro'in vs. trei ro'in), which is precisely what the 'Square/Circular Stones' prose section describes.",
+      "chosen_heading": "Square/Circular Stones",
+      "current_heading": "Square/Circular Stones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Stick Fences/Lavud",
+    "candidates": [
+      "Stick Fences/Lavud",
+      "Single Courtyard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form a single continuous dialectical unit about whether a barrier of reeds (either via lavud or as a thicket) can serve as a diyumed, exactly matching the prose under 'Stick Fences/Lavud'.",
+      "chosen_heading": "Stick Fences/Lavud",
+      "current_heading": "Stick Fences/Lavud",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Single Courtyard",
+    "candidates": [
+      "Single Courtyard",
+      "Two Courtyards Forbidden",
+      "Rava Permits Eruv",
+      "Braita Eruv Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Single Courtyard",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the case of a single courtyard opening into bein ha-passim, which candidate 0 ('Single Courtyard') discusses explicitly.",
+      "second_heading": "Two Courtyards Forbidden",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the new case of two courtyards, which is the subject of candidate 1 ('Two Courtyards Forbidden') and its prose directly describes this ruling.",
+      "current_heading": "Single Courtyard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Braita Eruv Rules",
+    "candidates": [
+      "Two Courtyards Forbidden",
+      "Rava Permits Eruv",
+      "Braita Eruv Rules",
+      "Water Dries",
+      "Water Returns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a single continuous dispute: Rav Huna's prohibition even with eruv, Rava's leniency, Abaye's supporting baraita, and Rav Huna's reinterpretation of that baraita \u2014 exactly what heading 2 ('Braita Eruv Rules') describes in its prose.",
+      "chosen_heading": "Braita Eruv Rules",
+      "current_heading": "Braita Eruv Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Water Returns",
+    "candidates": [
+      "Water Dries",
+      "Water Returns",
+      "Rav Nachman Distinction",
+      "Rabbi Eliezer Throws"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form one continuous chain covering water drying up on Shabbat, water returning on Shabbat, the baraita about partitions made on Shabbat, Rav Na\u1e25man's qualification, and the clarification that his restriction applies only to intentional violations \u2014 exactly the content described in the 'Water Returns' prose.",
+      "chosen_heading": "Water Returns",
+      "current_heading": "Water Returns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Rabbi Eliezer Throws",
+    "candidates": [
+      "Rav Nachman Distinction",
+      "Rabbi Eliezer Throws",
+      "Rabbim Non-Negation",
+      "Head & Body Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous chain about Rabbi Elazar's ruling on throwing into pasi biraot \u2014 the objections, reframings, and resolution about rabbim not negating the mechitza \u2014 which is precisely what candidate 1 ('Rabbi Eliezer Throws') describes in its prose, covering the obvious objection, the reframing to a k'ein pasi biraot in reshut ha-rabbim, and the chiddush about rabbim passing through.",
+      "chosen_heading": "Rabbi Eliezer Throws",
+      "current_heading": "Rabbi Eliezer Throws",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Head & Body Rationale",
+    "candidates": [
+      "Rabbim Non-Negation",
+      "Head & Body Rationale",
+      "Question: More Required?",
+      "Trough Case Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Head & Body Rationale",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 introduce the parallel from the mishna about a person drinking across domains and the winepress case, matching the 'Head & Body Rationale' prose which discusses drawing this exact parallel to explain the rosho ve-rubo requirement.",
+      "second_heading": "Question: More Required?",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 raise and begin resolving the dilemma about whether rosho ve-rubo applies when holding vs. not holding the cow, matching the 'Question: More Required?' prose which discusses precisely this distinction between nakit mana/lo nakit lah vs. nakit mana ve-nakit lah.",
+      "current_heading": "Head & Body Rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Trough Case Analysis",
+    "candidates": [
+      "Question: More Required?",
+      "Trough Case Analysis",
+      "Approach 1: Holding",
+      "Approach 2: Not Holding",
+      "Camel Long Neck"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Approach 1: Holding",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 present the first approach where holding the vessel without restraining the cow is categorically forbidden, matching 'Approach 1: Holding' prose exactly.",
+      "second_heading": "Approach 2: Not Holding",
+      "second_confidence": "high",
+      "second_reason": "Items 7-13 begin with 'ika d'amri' (some say), the classic formula introducing the second/alternative approach that inverts the question, matching 'Approach 2: Not Holding' prose exactly.",
+      "current_heading": "Trough Case Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Camel Long Neck",
+    "candidates": [
+      "Approach 1: Holding",
+      "Approach 2: Not Holding",
+      "Camel Long Neck",
+      "Other Animals"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Camel Long Neck",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the camel baraita and Rav Sheshet's 'long neck' distinction, which match exactly the 'Camel Long Neck' and 'Other Animals' prose descriptions respectively \u2014 but items 1-2 specifically belong under 'Camel Long Neck' as that section describes the camel baraita and the obsin analogy.",
+      "second_heading": "Other Animals",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the second baraita about a generic behema requiring rosho ve-rubo even when controlled, which matches the 'Other Animals' prose description of a second baraita about a generic behema and the attempt to distinguish camel from cow.",
+      "current_heading": "Camel Long Neck",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Other Animals",
+    "candidates": [
+      "Other Animals",
+      "Rabbi Eliezer Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the contradiction between the two braitot (one saying 'animal,' one saying 'camel'), which is precisely what the prose under 'Other Animals' discusses \u2014 the gemara introducing the second braita about generic behema and the tension between the two texts.",
+      "chosen_heading": "Other Animals",
+      "current_heading": "Other Animals",
+      "moved": false
+    }
+  }
+]

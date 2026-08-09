@@ -1,0 +1,412 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah Rule",
+    "candidates": [
+      "Mishnah Rule",
+      "Verse Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text about purchasing or receiving animals as a gift being exempt from animal tithe is directly quoted and explained in the 'Mishnah Rule' prose, which explicitly references 'haloke'ach o shenitan lo b'matanah patur mi-ma'aser behemah.'",
+      "chosen_heading": "Mishnah Rule",
+      "current_heading": "Mishnah Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Verse Comparison",
+    "candidates": [
+      "Verse Comparison",
+      "Not for Bechor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the complete unit of Rav Kahana's verse derivation plus the objection that the verse is about bechor plus the resolution via 'kein ta'aseh' \u2014 exactly what candidate 1 ('Not for Bechor') describes in its prose, while candidate 0 only covers the derivation and notes the difficulty is 'taken up in the next section,' meaning the full passage including the objection and answer belongs under candidate 1.",
+      "chosen_heading": "Not for Bechor",
+      "current_heading": "Verse Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Not for Bechor",
+    "candidates": [
+      "Verse Comparison",
+      "Not for Bechor",
+      "Dumya Deduction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's 'dumya deduction' challenges \u2014 suggesting the verse might apply to sin offerings/guilt offerings (item 1) or burnt offerings/peace offerings (item 2) \u2014 which is precisely the content described in the 'Dumya Deduction' prose section, not the 'Not for Bechor' section where they currently sit.",
+      "chosen_heading": "Dumya Deduction",
+      "current_heading": "Not for Bechor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Dumya Deduction",
+    "candidates": [
+      "Dumya Deduction",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the final leg of the dumya deduction eliminating olas re'iya because it has a fixed time, which is precisely what the 'Dumya Deduction' prose section describes as the third part of the three-part dumya argument.",
+      "chosen_heading": "Dumya Deduction",
+      "current_heading": "Dumya Deduction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the tension described in candidate 0's prose \u2014 the 'ei ma bincha' argument and Rabbi Yochanan's ruling about purchased fetuses \u2014 which is the content the passage's prose is directly discussing.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava's Resolution",
+      "Fetus Defense",
+      "Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Resolution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's resolution using 'bishat asiyah' \u2014 exactly what Candidate 0's prose describes as Rava's answer to the tension.",
+      "second_heading": "Fetus Defense",
+      "second_confidence": "high",
+      "second_reason": "Item 2 reopens the 'gufah' discussion of Rabbi Yochanan's ruling about fetuses and the mishna's challenge, which is precisely what Candidate 1's prose describes as the Gemara revisiting Rabbi Assi/Yochanan in original context with the mishnah's unqualified exemption creating tension.",
+      "current_heading": "Rava's Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Challenge",
+    "candidates": [
+      "Fetus Defense",
+      "Challenge",
+      "Braita Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Elazar's dream-inspired defense of Rabbi Yochanan (bishat asiyah) and the opening challenge from Rabbi Shimon ben Elyakim, which together form the content described in the 'Fetus Defense' section prose \u2014 the challenge is introduced there as part of the same unit, not as a separate section.",
+      "chosen_heading": "Fetus Defense",
+      "current_heading": "Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Braita Rejection",
+    "candidates": [
+      "Challenge",
+      "Braita Rejection",
+      "Esnan Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Elazar's rejection of the braita as unreliable and his attribution of it to Rabbi Shimon ben Yehuda/Rabbi Shimon's minority view about mechussar zman being like a bechor \u2014 exactly what the 'Braita Rejection' section's prose describes.",
+      "chosen_heading": "Braita Rejection",
+      "current_heading": "Braita Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Esnan Problem",
+    "candidates": [
+      "Esnan Problem",
+      "Sell & Rebuy",
+      "Jewish vs Non-Jewish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the continuous question-and-answer sequence about the baraita's proposed 'sell and rebuy' solution and the lakuach objection, which is precisely what the 'Sell & Rebuy' prose section discusses \u2014 the baraita's scenario, the Gemara's rejection via lakuach, and the puzzle being thrown back open, before the fetus-purchase resolution appears in the next section.",
+      "chosen_heading": "Sell & Rebuy",
+      "current_heading": "Esnan Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Jewish vs Non-Jewish",
+    "candidates": [
+      "Sell & Rebuy",
+      "Jewish vs Non-Jewish",
+      "Abaye's Rule",
+      "Reversal Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks why the prostitute can't tithe the animal herself and answers 'bezonah goyah' (a gentile prostitute), which is precisely the content described in the 'Jewish vs Non-Jewish' section's prose about the question 'veta'asrei ihi' and the answer 'bezonah kutit'.",
+      "chosen_heading": "Jewish vs Non-Jewish",
+      "current_heading": "Jewish vs Non-Jewish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Reversal Logic",
+    "candidates": [
+      "Abaye's Rule",
+      "Reversal Logic",
+      "Mishnah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the Gemara's explanation of why a Jewish prostitute's payment is not esnan and Abaye's ruling about the distinction between Jewish and gentile prostitutes \u2014 exactly the content described in candidate 0's prose about Abaye's rule regarding esnan zonah.",
+      "chosen_heading": "Abaye's Rule",
+      "current_heading": "Reversal Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Mishnah Rule",
+    "candidates": [
+      "Reversal Logic",
+      "Mishnah Rule",
+      "Verse Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah text about brothers and partners (achim veshutfin) and their obligations regarding kalbon and ma'aser behemah, which is precisely what the 'Mishnah Rule' prose describes in detail, including the kalbon/ma'aser behemah inversion, the undivided estate concept, kanu mitfisas habayis, and chalku vechazru venishtatfu.",
+      "chosen_heading": "Mishnah Rule",
+      "current_heading": "Mishnah Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Verse Source",
+    "candidates": [
+      "Verse Source",
+      "Four Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita and Gemara discussion deriving the shutfut exemption from ma'aser behemah via yiheyeh lecha and the im eino inyan transfer from bechor, which is precisely what the 'Verse Source' prose describes.",
+      "chosen_heading": "Verse Source",
+      "current_heading": "Verse Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Four Scenarios",
+    "candidates": [
+      "Four Scenarios",
+      "Money Divided",
+      "Animals Divided"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yirmiyah's statement enumerating all four combinations of obligation/exemption, which is precisely what the 'Four Scenarios' prose describes as its subject matter \u2014 the complete mapping of all four cases before disaggregating them.",
+      "chosen_heading": "Four Scenarios",
+      "current_heading": "Four Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Animals Divided",
+    "candidates": [
+      "Money Divided",
+      "Animals Divided",
+      "Chiddush"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together enumerate all four cases (obligated in both, exempt from both, obligated in kalbon/exempt from ma'aser, obligated in ma'aser/exempt from kalbon), and item 1 specifically covers the 'divided money but not animals' case which is the subject of heading 0 ('Money Divided'), making that the best home for the complete passage.",
+      "chosen_heading": "Money Divided",
+      "current_heading": "Animals Divided",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Chiddush",
+    "candidates": [
+      "Animals Divided",
+      "Chiddush",
+      "Rav Anani"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's pshita objection and the chiddush about dividing animals but not money, which is precisely what the 'Chiddush' section's prose describes.",
+      "chosen_heading": "Chiddush",
+      "current_heading": "Chiddush",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Rav Anani",
+    "candidates": [
+      "Rav Anani",
+      "Equal Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Anan's qualification about non-uniform division (kids for goats), which matches candidate 0's prose about the non-uniform division case, not the homogeneous division case discussed in candidate 1.",
+      "chosen_heading": "Rav Anani",
+      "current_heading": "Rav Anani",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Equal Division",
+    "candidates": [
+      "Equal Division",
+      "Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the case of equal division (kids for kids, goats for goats) resulting in each brother's share being considered his from the outset, which is precisely the ruling of Rav Anani discussed in the 'Equal Division' section's prose.",
+      "chosen_heading": "Equal Division",
+      "current_heading": "Equal Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rav Nachman",
+    "candidates": [
+      "Rav Nachman",
+      "Rabbi Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Na\u1e25man's position that even a perfectly equal division (kids for kids, goats for goats) does not constitute receiving one's share from the outset, which matches exactly the prose under heading 0 describing Rav Nachman's disagreement.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rav Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Rabbi Elazar",
+    "candidates": [
+      "Rabbi Elazar",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Rabbi Elazar vs. Rabbi Yochanan dispute about dividing nine-for-nine and ten-for-ten, which is precisely what the 'Rabbi Elazar' prose section describes, including both positions and their nafka mina \u2014 the current placement is correct.",
+      "chosen_heading": "Rabbi Elazar",
+      "current_heading": "Rabbi Elazar",
+      "moved": false
+    }
+  }
+]

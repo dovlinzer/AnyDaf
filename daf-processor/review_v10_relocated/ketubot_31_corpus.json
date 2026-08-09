@@ -1,0 +1,210 @@
+[
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Wallet Theft",
+    "candidates": [
+      "Opening",
+      "Kiyma Lei Concept",
+      "Single Act Scenarios",
+      "Multiple Acts Timing",
+      "Arrow Setup",
+      "Carrying Process",
+      "Carrying Definition",
+      "Wallet Theft",
+      "Dragging Property",
+      "Domains Explained",
+      "Comparison",
+      "Process Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Avin's arrow teaching and Rav Beivai bar Abaye's challenge from the purse-dragging baraita, and the 'Arrow Setup' heading's prose explicitly introduces this as the opening teaching of Rabbi Avin that the Gemara then analyzes \u2014 the current placement under 'Wallet Theft' separates the challenge from the teaching it challenges, when the whole passage belongs together under the heading that introduces the arrow case.",
+      "chosen_heading": "Arrow Setup",
+      "current_heading": "Wallet Theft",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Process Challenge",
+    "candidates": [
+      "Dragging Property",
+      "Domains Explained",
+      "Comparison",
+      "Process Challenge",
+      "Rest vs Adjust"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items deal with the 'intent to hide then reconsidered' scenario and the subsequent challenge from Rabbi Yochanan's ruling about akira not initially directed toward carrying out \u2014 exactly the content described in the 'Process Challenge' prose.",
+      "chosen_heading": "Process Challenge",
+      "current_heading": "Process Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Rest vs Adjust",
+    "candidates": [
+      "Rest vs Adjust",
+      "Ben Azzai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the 'stopped to rest vs. stopped to adjust shoulder' distinction that is the explicit subject of heading 0's prose, and neither item touches the Ben Azzai content of heading 1.",
+      "chosen_heading": "Rest vs Adjust",
+      "current_heading": "Rest vs Adjust",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Ben Azzai",
+    "candidates": [
+      "Ben Azzai",
+      "Destinations",
+      "Thoroughfare Sides"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the Ben Azzai framework and the dragging case \u2014 specifically the niflog venisni challenges, the Ben Azzai resolution, and the intermediate-sized purse conclusion \u2014 which is precisely what the 'Ben Azzai' section prose describes in detail.",
+      "chosen_heading": "Ben Azzai",
+      "current_heading": "Ben Azzai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Thoroughfare Sides",
+    "candidates": [
+      "Destinations",
+      "Thoroughfare Sides",
+      "Hand Acquisition",
+      "Rava's Hand Rule",
+      "Ravina Position",
+      "Animal Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the question about where the thief carried the pouch, the tzidei reshus harabim proposal, the resolution via Rabbi Eliezer's distinction between Shabbos liability and kinyan, and Rav Ashi's hand-below-three-tefachim alternative \u2014 are exactly the content described in the 'Thoroughfare Sides' prose, which covers all these points in sequence.",
+      "chosen_heading": "Thoroughfare Sides",
+      "current_heading": "Thoroughfare Sides",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Animal Mishna",
+    "candidates": [
+      "Hand Acquisition",
+      "Rava's Hand Rule",
+      "Ravina Position",
+      "Animal Mishna",
+      "Ravina Read",
+      "Rav Acha Read",
+      "Debate Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the Ravina/Rav Acha dispute grounded in the animal mishna (haya moshcho ve'yotze), which is precisely what candidate 3 ('Animal Mishna') describes \u2014 the mishna about stealing an animal and the question of what 'taking it out' means, exactly matching the content of both textual items.",
+      "chosen_heading": "Animal Mishna",
+      "current_heading": "Animal Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Debate Resolution",
+    "candidates": [
+      "Ravina Read",
+      "Rav Acha Read",
+      "Debate Resolution",
+      "Incest Acts",
+      "Ain Lokeh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly resolves the tensions between Rav Acha's and Ravina's readings by explaining how each handles the problematic clause of the mishna, which is exactly what the 'Debate Resolution' prose section discusses.",
+      "chosen_heading": "Debate Resolution",
+      "current_heading": "Debate Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Ain Lokeh",
+    "candidates": [
+      "Incest Acts",
+      "Ain Lokeh",
+      "Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna's ruling that one pays a fine for relations with his sister/father's sister and then raises the contradiction from Makkot \u2014 this is precisely the content described in heading 0 ('Incest Acts'), which discusses the knas ruling and the initial Gemara challenge, whereas heading 1 ('Ain Lokeh') describes the subsequent discussion of the principle itself after the contradiction has already been raised.",
+      "chosen_heading": "Incest Acts",
+      "current_heading": "Ain Lokeh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Challenge",
+    "candidates": [
+      "Ain Lokeh",
+      "Challenge",
+      "Ulla Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Ulla's complete answer distinguishing between a na'arah (young woman) and bogeret (grown woman), which directly matches the 'Ulla Answer' section's prose describing Ulla's distinction, rather than the 'Challenge' section where it currently sits.",
+      "chosen_heading": "Ulla Answer",
+      "current_heading": "Challenge",
+      "moved": true
+    }
+  }
+]

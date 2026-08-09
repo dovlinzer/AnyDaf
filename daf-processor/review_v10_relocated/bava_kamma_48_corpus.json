@@ -1,0 +1,414 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Tashma: Third Party",
+    "candidates": [
+      "Tashma: Third Party",
+      "Rabbi Tarfon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents a baraita about an ox brought into a courtyard with/without permission that ate wheat and died, with Rava's resolution \u2014 this matches the 'Tashma: Third Party' section's description of a tashma about an animal brought into another's property with/without permission, where the gemara distinguishes between the two scenarios and resolves the ambiguity.",
+      "chosen_heading": "Tashma: Third Party",
+      "current_heading": "Tashma: Third Party",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Rabbi Tarfon View",
+    "candidates": [
+      "Rabbi Tarfon View",
+      "Woman Baking Bread"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Rabbi Tarfon View",
+      "current_heading": "Rabbi Tarfon View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Woman Baking Bread",
+    "candidates": [
+      "Woman Baking Bread",
+      "Grinding vs. Baking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the woman baking case (hahi itteta de'alata lemifa) and Rava's ruling, which is precisely what candidate 0's prose discusses as its central subject.",
+      "chosen_heading": "Woman Baking Bread",
+      "current_heading": "Woman Baking Bread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Grinding vs. Baking",
+    "candidates": [
+      "Grinding vs. Baking",
+      "Animal Digs Holes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the comparison between grinding and baking cases, the role of tzniut in determining who bears responsibility, and the distinction between birishut and shelo birishut \u2014 exactly what the 'Grinding vs. Baking' prose section discusses in detail.",
+      "chosen_heading": "Grinding vs. Baking",
+      "current_heading": "Grinding vs. Baking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Animal Digs Holes",
+    "candidates": [
+      "Animal Digs Holes",
+      "Ravad Explanation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Animal Digs Holes",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 deal with the ox digging pits and the transfer of liability to the courtyard owner, which is exactly what heading 0 ('Animal Digs Holes') and its prose discuss, including the drasha 'ki yichreh ish bor velo shor bor' and the principle of constructive ownership through neglect.",
+      "second_heading": "Ravad Explanation",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce an entirely new Rava ruling about an ox injuring the homeowner or crouching/dropping feces, a distinct case whose content (ravatz, feces as bor, no liability for utensils) is not discussed in heading 0 but transitions to new material; heading 1 ('Ravad Explanation') is the next available section and the passage must fall there as the guaranteed home.",
+      "current_heading": "Animal Digs Holes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Ravad Explanation",
+    "candidates": [
+      "Ravad Explanation",
+      "Animal Defecates",
+      "Rashi: Waste as Bor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Rav/Shmuel dispute about whether bor liability requires hefker, which is explicitly discussed in the Ravad Explanation prose section as the connecting theme between those two opinions.",
+      "chosen_heading": "Ravad Explanation",
+      "current_heading": "Ravad Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Rashi: Waste as Bor",
+    "candidates": [
+      "Animal Defecates",
+      "Rashi: Waste as Bor",
+      "Person Trespass"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the claim that ordinary feces are renounced/hefker by their owner, which corresponds precisely to Rashi's section discussion of 'shetam glalim afkorei mafkar lehu' and why even Rav's hefker requirement is satisfied for animal waste.",
+      "chosen_heading": "Rashi: Waste as Bor",
+      "current_heading": "Rashi: Waste as Bor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Person Trespass",
+    "candidates": [
+      "Person Trespass",
+      "Rav Papa Clarifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement about a trespasser entering without permission, which is precisely what the 'Person Trespass' section prose introduces and discusses as Rava's third case.",
+      "chosen_heading": "Person Trespass",
+      "current_heading": "Person Trespass",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Rav Papa Clarifies",
+    "candidates": [
+      "Rav Papa Clarifies",
+      "Water Spoils"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Pappa's qualification about knowing the trespasser, the note that Rava and Rav Pappa follow their reasoning, and the shneihem b'reshut ruling \u2014 are explicitly discussed together in the 'Rav Papa Clarifies' prose, which covers exactly this sequence of material.",
+      "chosen_heading": "Rav Papa Clarifies",
+      "current_heading": "Rav Papa Clarifies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Water Spoils",
+    "candidates": [
+      "Water Spoils",
+      "Shmuel: All Defects",
+      "Grama: Smell Only",
+      "Ramban Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Water Spoils",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's ruling about the ox falling into the pit and contaminating water at the moment of the fall versus afterward, which is precisely what the 'Water Spoils' prose discusses in detail.",
+      "second_heading": "Shmuel: All Defects",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the Shmuel/Rav dispute about whether the carcass qualifies as a 'bor' without hefker, which is exactly what the 'Shmuel: All Defects' prose addresses.",
+      "current_heading": "Water Spoils",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Ramban Challenge",
+    "candidates": [
+      "Shmuel: All Defects",
+      "Grama: Smell Only",
+      "Ramban Challenge",
+      "Father/Son Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rava ruling about direct contamination vs. smell-based contamination and the gerama principle, which is precisely what the 'Grama: Smell Only' section's prose describes and analyzes.",
+      "chosen_heading": "Grama: Smell Only",
+      "current_heading": "Ramban Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Father/Son Death",
+    "candidates": [
+      "Ramban Challenge",
+      "Father/Son Death",
+      "Rav: Muad Required",
+      "Rav Yosef: Accident"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the mishna's statement about father/son in the pit and the gemara's challenge ('v'amai ha tam hu') plus Rav's answer, which is exactly what the 'Father/Son Death' section's prose describes as its content, and the current placement is correct.",
+      "chosen_heading": "Father/Son Death",
+      "current_heading": "Father/Son Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Rav Yosef: Accident",
+    "candidates": [
+      "Rav: Muad Required",
+      "Rav Yosef: Accident",
+      "Shmuel/Rabbi Yossi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Yosef's explanation that the ox saw grass and fell accidentally, which is precisely what candidate 1's prose describes as Rav Yosef's resolution.",
+      "chosen_heading": "Rav Yosef: Accident",
+      "current_heading": "Rav Yosef: Accident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Shmuel/Rabbi Yossi",
+    "candidates": [
+      "Shmuel/Rabbi Yossi",
+      "Ulla Combines",
+      "Why Father/Son?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Shmuel's statement attributing the mishna to Rabbi Yossi HaGelili's position on chatzi kofer, which is precisely what the 'Shmuel/Rabbi Yossi' section's prose discusses.",
+      "chosen_heading": "Shmuel/Rabbi Yossi",
+      "current_heading": "Shmuel/Rabbi Yossi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Why Father/Son?",
+    "candidates": [
+      "Ulla Combines",
+      "Why Father/Son?",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: Ulla's position (item 1), the gemara's challenge about why father/son is specified (item 2), and Shmuel's answer that it's merely the typical scenario (item 3) \u2014 exactly what candidate 1 'Why Father/Son?' describes in its prose.",
+      "chosen_heading": "Why Father/Son?",
+      "current_heading": "Why Father/Son?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Braita: Watching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Rav vs. Shmuel dispute about whether halacha follows the Tanna Kamma or Rabbi, which is precisely what the 'Rav vs. Shmuel' section prose discusses.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Braita: Watching",
+    "candidates": [
+      "Braita: Watching",
+      "The Contradiction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Braita: Watching",
+      "first_confidence": "high",
+      "first_reason": "Items 1 presents the baraita itself with its two formulations, matching exactly the 'Braita: Watching' prose which describes both the kenos shorecha u-shemoro and kenos shorkha v'ani ashmerenu clauses.",
+      "second_heading": "The Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 analyze the internal contradiction of the baraita (the stam inference and the seifa), matching exactly the 'The Contradiction' prose which discusses the paradox and the d'bistam mekabel alei netiruta reasoning.",
+      "current_heading": "Braita: Watching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "The Contradiction",
+    "candidates": [
+      "The Contradiction",
+      "Rava: Form Matters",
+      "Rav Papa: Rabbi View",
+      "Why Not Land Rights?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the inference from the baraita that in an unspecified (stam) case the property owner does not accept responsibility, and that this reflects Rebbi's position \u2014 which is precisely what Rava's section ('Rava: Form Matters') discusses, contrasting stam vs. explicit acceptance and noting the Rabbanan/Rebbi distinction that emerges from the baraita's clauses.",
+      "chosen_heading": "Rava: Form Matters",
+      "current_heading": "The Contradiction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Why Not Land Rights?",
+    "candidates": [
+      "Rava: Form Matters",
+      "Rav Papa: Rabbi View",
+      "Why Not Land Rights?"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava: Form Matters",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Elazar's, Rava's, and Rav Papa's competing resolutions of the baraita's contradiction, matching candidates 0 and 1's prose about those exact positions.",
+      "second_heading": "Why Not Land Rights?",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 explain why saying 'shemoro' does not transfer land rights (making it chatzer hanizak with nezek shalem) while not saying it does transfer rights (making it chatzer hashutafin with chatzi nezek), which is precisely what candidate 2's prose describes.",
+      "current_heading": "Why Not Land Rights?",
+      "moved": true
+    }
+  }
+]

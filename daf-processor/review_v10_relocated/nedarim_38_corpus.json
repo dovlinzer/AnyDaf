@@ -1,0 +1,424 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Sofrim Traditions",
+    "candidates": [
+      "Torah Teaching Rules",
+      "Women's Torah Study",
+      "Mikra & Pisuk Te'amim",
+      "Sofrim Traditions",
+      "Vowel Shifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yitzchak's teaching about mikra sofrim, itur sofrim, read-but-not-written, and written-but-not-read being halakha l'Moshe miSinai, which is precisely what the 'Sofrim Traditions' prose describes and introduces.",
+      "chosen_heading": "Sofrim Traditions",
+      "current_heading": "Sofrim Traditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Vowel Shifts",
+    "candidates": [
+      "Vowel Shifts",
+      "Embellishment Words"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the vocalization shifts of eretz/shamayim/mitzrayim at pausal positions, which is exactly what the 'Vowel Shifts' section's prose discusses.",
+      "chosen_heading": "Vowel Shifts",
+      "current_heading": "Vowel Shifts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Embellishment Words",
+    "candidates": [
+      "Embellishment Words",
+      "Read Not Written"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the ittur sofrim examples (achar ta'avoru, achar teleich, achar te'asef, etc. and keharerei el), which is precisely what the 'Embellishment Words' section discusses in detail.",
+      "chosen_heading": "Embellishment Words",
+      "current_heading": "Embellishment Words",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Read Not Written",
+    "candidates": [
+      "Read Not Written",
+      "Written Not Read"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists words that are read but not written (keri velo ketiv), which directly matches the prose of candidate 0, and the specific examples (Prat, ish, ba'im, la, et, eilai, alai) align exactly with what candidate 0 describes.",
+      "chosen_heading": "Read Not Written",
+      "current_heading": "Read Not Written",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Written Not Read",
+    "candidates": [
+      "Written Not Read",
+      "Gemara vs. Mesora",
+      "Three-Pasuk Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are examples of 'written but not read' (ketiv velo keri), which is precisely what the prose under heading 0 discusses in detail, listing the same examples (na de-yislach, zot de-hamitzvah, yidroch, chamesh, im de-ki goel).",
+      "chosen_heading": "Written Not Read",
+      "current_heading": "Written Not Read",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Three-Pasuk Division",
+    "candidates": [
+      "Gemara vs. Mesora",
+      "Three-Pasuk Division",
+      "Moshe's Wealth Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rav A\u1e25a bar Adda's statement that in the West (Eretz Yisrael) they divide a specific verse into three pesukim directly matches the 'Three-Pasuk Division' section's prose, which discusses exactly this tradition of dividing that same verse from Exodus 19:9 into three separate units.",
+      "chosen_heading": "Three-Pasuk Division",
+      "current_heading": "Three-Pasuk Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Moshe's Wealth Source",
+    "candidates": [
+      "Moshe's Wealth Source",
+      "Torah Given to Moshe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Moses becoming wealthy from the waste of the Tablets, which is exactly what the prose under 'Moshe's Wealth Source' (index 0) describes in detail.",
+      "chosen_heading": "Moshe's Wealth Source",
+      "current_heading": "Moshe's Wealth Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Torah Given to Moshe",
+    "candidates": [
+      "Torah Given to Moshe",
+      "Teaching Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Torah being given to Moshe and his descendants, his generosity in sharing it with Israel, and the verse 'tov ayin hu yevorach' \u2014 exactly what the 'Torah Given to Moshe' section's prose describes.",
+      "chosen_heading": "Torah Given to Moshe",
+      "current_heading": "Torah Given to Moshe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Teaching Obligation",
+    "candidates": [
+      "Teaching Obligation",
+      "Pilpula & Generosity",
+      "Torah she-bichtav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24isda's objection using the verses about divine command to teach, which is precisely what candidate 0's prose describes \u2014 the challenge based on those specific verses \u2014 before the Gemara's response discussed in candidate 1.",
+      "chosen_heading": "Teaching Obligation",
+      "current_heading": "Teaching Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Torah she-bichtav",
+    "candidates": [
+      "Pilpula & Generosity",
+      "Torah she-bichtav",
+      "Five Attributes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage concludes with 'pilpula be'alma' and directly corresponds to the Gemara's final retreat to that concept, which is precisely what candidate 0 ('Pilpula & Generosity') discusses \u2014 the resolution that what was uniquely Moshe's was not the Torah itself but the capacity for profound analytical engagement.",
+      "chosen_heading": "Pilpula & Generosity",
+      "current_heading": "Torah she-bichtav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Five Attributes",
+    "candidates": [
+      "Torah she-bichtav",
+      "Five Attributes",
+      "Physical Strength"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically begins proving Moshe's gevurah (physical might) with the tent-spreading verse and raises the 'arich v'katin' objection, which is precisely what the 'Physical Strength' section's prose describes.",
+      "chosen_heading": "Physical Strength",
+      "current_heading": "Five Attributes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Physical Strength",
+    "candidates": [
+      "Five Attributes",
+      "Physical Strength",
+      "Wealth Proof",
+      "Wisdom Gates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly provides the proof of Moses's physical strength via the tablets verse and the baraita about their dimensions, which is precisely what the 'Physical Strength' section's prose describes.",
+      "chosen_heading": "Physical Strength",
+      "current_heading": "Physical Strength",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Wisdom Gates",
+    "candidates": [
+      "Wealth Proof",
+      "Wisdom Gates",
+      "Humility Proof",
+      "General Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three proofs (wealth, wisdom, and humility) together as a single Talmudic unit, but its opening focus is the wealth proof ('psal lach \u2014 psoltan shelcha yehei'), and candidate 0 ('Wealth Proof') is the section that introduces this combined passage, while candidates 1 and 2 cover only the individual subsequent proofs separately in the essay's prose.",
+      "chosen_heading": "Wealth Proof",
+      "current_heading": "Wisdom Gates",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "General Principle",
+    "candidates": [
+      "Humility Proof",
+      "General Principle",
+      "Moshe's Refusal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's general statement that all prophets were wealthy, derived from four cases including Moses, Samuel, Amos, and Jonah \u2014 which matches exactly the 'General Principle' prose describing this teaching and its four grounding cases.",
+      "chosen_heading": "General Principle",
+      "current_heading": "General Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Moshe's Refusal",
+    "candidates": [
+      "Moshe's Refusal",
+      "Samuel's Wealth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Moses specifically \u2014 the donkey verse, the theft vs. rental analysis, the poverty objection, and the 'psal lecha' fallback \u2014 exactly matching the prose under 'Moshe's Refusal.'",
+      "chosen_heading": "Moshe's Refusal",
+      "current_heading": "Moshe's Refusal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Samuel's Wealth",
+    "candidates": [
+      "Samuel's Wealth",
+      "Samuel's Refusal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Samuel's wealth through the ox/donkey verse and Rava's interpretation of his traveling household, which exactly matches the 'Samuel's Wealth' section's prose.",
+      "chosen_heading": "Samuel's Wealth",
+      "current_heading": "Samuel's Wealth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Samuel's Refusal",
+    "candidates": [
+      "Samuel's Refusal",
+      "Amos's Possession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's comparison between Moses and Samuel regarding scrupulous avoidance of benefit from their positions, which is precisely what the 'Samuel's Refusal' section's prose describes.",
+      "chosen_heading": "Samuel's Refusal",
+      "current_heading": "Samuel's Refusal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Amos's Possession",
+    "candidates": [
+      "Amos's Possession",
+      "Jonah's Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Amos's wealth through the sycamore grove and flock ownership, which directly matches the 'Amos's Possession' section prose about Rav Yosef's translation confirming Amos as a proprietor.",
+      "chosen_heading": "Amos's Possession",
+      "current_heading": "Amos's Possession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Jonah's Payment",
+    "candidates": [
+      "Jonah's Payment",
+      "Forgetting & Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Jonah paying the full cost of the ship, which exactly matches the prose under 'Jonah's Payment' discussing Rabbi Yochanan's explanation and Rav Romanus's figure of four thousand gold dinari.",
+      "chosen_heading": "Jonah's Payment",
+      "current_heading": "Jonah's Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Forgetting & Gift",
+    "candidates": [
+      "Forgetting & Gift",
+      "Gift Theology",
+      "Feeding Family",
+      "Feeding Animals",
+      "Kosher vs. Non-Kosher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yochanan's teaching about Moshe forgetting Torah until it was given as a gift, which is precisely what the 'Forgetting & Gift' section's prose discusses.",
+      "chosen_heading": "Forgetting & Gift",
+      "current_heading": "Forgetting & Gift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Kosher vs. Non-Kosher",
+    "candidates": [
+      "Gift Theology",
+      "Feeding Family",
+      "Feeding Animals",
+      "Kosher vs. Non-Kosher",
+      "Value vs. Loss",
+      "Ran's Distinction",
+      "Alternative Values"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Mishnah's full opening case \u2014 feeding the wife/children and then the animal dispute \u2014 which corresponds precisely to the 'Feeding Family' section's prose introduction to the mudar hana'ah laws, before the more specific sub-topics of animals, kosher/non-kosher, and the Sages' response are treated separately.",
+      "chosen_heading": "Feeding Family",
+      "current_heading": "Kosher vs. Non-Kosher",
+      "moved": true
+    }
+  }
+]

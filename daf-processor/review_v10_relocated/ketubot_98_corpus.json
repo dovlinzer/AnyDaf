@@ -1,0 +1,403 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rabbi Shimon's View",
+    "candidates": [
+      "Mishnah Overview",
+      "Rabbi Shimon's View",
+      "Chachamim's View",
+      "Gerushah Rules",
+      "Attribution & Baraita",
+      "Partial Payment Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening identification of the mishnah as following Rabbi Shimon, supported by the baraita contrasting Rabbi Meir and Rabbi Shimon's positions \u2014 exactly what the 'Attribution & Baraita' section's prose describes.",
+      "chosen_heading": "Attribution & Baraita",
+      "current_heading": "Rabbi Shimon's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Partial Payment Status",
+    "candidates": [
+      "Chachamim's View",
+      "Gerushah Rules",
+      "Attribution & Baraita",
+      "Partial Payment Status",
+      "Virginity Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly asks the question about whether Rabbi Shimon holds 'part of the money is like the entire money,' which is precisely what the 'Partial Payment Status' section's prose analyzes and explains.",
+      "chosen_heading": "Partial Payment Status",
+      "current_heading": "Partial Payment Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Virginity Analogy",
+    "candidates": [
+      "Virginity Analogy",
+      "Virginity Dispute",
+      "Why Analogy Works",
+      "Clarifying the Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about the kohen gadol and the apparent contradiction in Rabbi Meir/Rabbi Shimon's positions, which is precisely what the 'Virginity Analogy' prose describes \u2014 the introduction of the contradiction and the baraita's content.",
+      "chosen_heading": "Virginity Analogy",
+      "current_heading": "Virginity Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Clarifying the Analogy",
+    "candidates": [
+      "Virginity Dispute",
+      "Why Analogy Works",
+      "Clarifying the Analogy",
+      "The Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items present the gemara's resolution that the besulah dispute is purely textual (bikra palgi), detailing Rabbi Meir's and Rabbi Elazar/Shimon's verse interpretations, which is precisely what the 'Clarifying the Analogy' prose describes.",
+      "chosen_heading": "Clarifying the Analogy",
+      "current_heading": "Clarifying the Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "The Story",
+    "candidates": [
+      "The Story",
+      "Rava's Ruling",
+      "Halakhic Basis",
+      "The Question",
+      "Hachrazah Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage narrates the full story including the woman seizing the silver cup, her demand for sustenance, and Rava's ruling with its halakhic basis \u2014 all three candidate headings (0, 1, 2) are covered by this single Talmudic excerpt, and since it currently sits under 'The Story' which is the opening narrative heading that encompasses the entire vignette, the current placement is correct.",
+      "chosen_heading": "The Story",
+      "current_heading": "The Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Hachrazah Concern",
+    "candidates": [
+      "Rava's Ruling",
+      "Halakhic Basis",
+      "The Question",
+      "Hachrazah Concern",
+      "Cannot Sell to Self",
+      "Self-Assessment Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items constitute the continuous gemara exchange about hachrazah \u2014 whether public announcement is required, Rav Nachman's ruling about self-assessment, and the gemara's analysis of that ruling \u2014 which is precisely what the 'Hachrazah Concern' prose describes in detail.",
+      "chosen_heading": "Hachrazah Concern",
+      "current_heading": "Hachrazah Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Self-Assessment Story",
+    "candidates": [
+      "Cannot Sell to Self",
+      "Self-Assessment Story",
+      "Tosafot's Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the narrative of the man who self-assessed the orphans' coral at 400 zuz and Rabbi Ammi's ruling that the transaction was void, which is precisely the story described in the 'Self-Assessment Story' prose.",
+      "chosen_heading": "Self-Assessment Story",
+      "current_heading": "Self-Assessment Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Tosafot's Analysis",
+    "candidates": [
+      "Tosafot's Analysis",
+      "Undersell Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's halakhic conclusion about the oath and announcement requirement, which is precisely what the Tosafot's Analysis prose discusses as its central subject.",
+      "chosen_heading": "Tosafot's Analysis",
+      "current_heading": "Tosafot's Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Undersell Case",
+    "candidates": [
+      "Undersell Case",
+      "Oversell Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishnah covers both the oversell and undersell cases in a single passage, and the current heading's prose explicitly addresses both scenarios described in this text.",
+      "chosen_heading": "Undersell Case",
+      "current_heading": "Undersell Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Oversell Case",
+    "candidates": [
+      "Oversell Case",
+      "Rabban Shimon's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the oversell scenario \u2014 ketubah worth 100, property sold worth 100+1 dinar for 100, sale void, even with offer to return the dinar \u2014 which matches precisely the prose under 'Oversell Case'.",
+      "chosen_heading": "Oversell Case",
+      "current_heading": "Oversell Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rabban Shimon's View",
+    "candidates": [
+      "Rabban Shimon's View",
+      "Multiple Sales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabban Shimon ben Gamliel's ruling about when a sale is valid based on overage thresholds (nine kav for a field, half-kav for a garden, quarter-kav per Rabbi Akiva), which is exactly what the prose under 'Rabban Shimon's View' discusses.",
+      "chosen_heading": "Rabban Shimon's View",
+      "current_heading": "Rabban Shimon's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Multiple Sales",
+    "candidates": [
+      "Multiple Sales",
+      "At Hifsadet Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes sequential sales of ketubah property to multiple buyers with the last sale being void, which matches exactly the 'Multiple Sales' section prose describing this same scenario.",
+      "chosen_heading": "Multiple Sales",
+      "current_heading": "Multiple Sales",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "At Hifsadet Principle",
+    "candidates": [
+      "At Hifsadet Principle",
+      "Reverse Question",
+      "Hakol Leba'al Hama'ot",
+      "Baraita: Fixed Amounts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's initial question about why selling property worth 200 for 100 discharges the ketubah (the 'at hifsadet' principle) and then raises the reverse question, but the current placement under 'At Hifsadet Principle' is correct since this is the opening gemara question that introduces both sides of the problem, which the prose of heading 0 directly describes.",
+      "chosen_heading": "At Hifsadet Principle",
+      "current_heading": "At Hifsadet Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Baraita: Fixed Amounts",
+    "candidates": [
+      "Reverse Question",
+      "Hakol Leba'al Hama'ot",
+      "Baraita: Fixed Amounts",
+      "Rami's Resolution",
+      "Land Sales Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the 'hakol le-ba'al hama'ot' ruling and its supporting baraita with the contradiction and resolution \u2014 exactly what heading 1's prose describes as Rav Nachman/Rabba bar Avuha's answer with the baraita debate \u2014 while headings 2 and 3 describe only the subsidiary contradiction-resolution portion that is embedded within this larger unit.",
+      "chosen_heading": "Hakol Leba'al Hama'ot",
+      "current_heading": "Baraita: Fixed Amounts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Land Sales Application",
+    "candidates": [
+      "Rami's Resolution",
+      "Land Sales Application",
+      "Agent Excess Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's halakhic ruling (davar she-yesh lo kitzva / ein lo kitzva) which the prose of 'Land Sales Application' explicitly describes and quotes as its conclusion, making it a clear match for that section.",
+      "chosen_heading": "Land Sales Application",
+      "current_heading": "Land Sales Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Agent Excess Q",
+    "candidates": [
+      "Agent Excess Q",
+      "Me'ilah Principle",
+      "Meat Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the dilemma about an agent instructed to sell a half-kor who instead sells a full kor, which is exactly what the prose under 'Agent Excess Q' describes and analyzes.",
+      "chosen_heading": "Agent Excess Q",
+      "current_heading": "Agent Excess Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Meat Story",
+    "candidates": [
+      "Me'ilah Principle",
+      "Meat Story",
+      "Attribution Distinction",
+      "Proof from Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the me'ilah 'meat story' \u2014 the citation of the mishna case, the proof argument about why the host is liable, and the resolution about explicit attribution \u2014 which precisely matches the 'Meat Story' prose describing the homeowner/agent/guests scenario and the kulam ma'alu ruling.",
+      "chosen_heading": "Meat Story",
+      "current_heading": "Meat Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Proof from Mishnah",
+    "candidates": [
+      "Attribution Distinction",
+      "Proof from Mishnah",
+      "Rav Huna's Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute the gemara's attempt to bring proof from the mishnah \u2014 item 1 presents the mishnah case and item 2 interprets it to argue that the entire sale is void even when only the excess was unauthorized \u2014 which matches exactly the 'Proof from Mishnah' prose describing this attempted proof and its reading of 'mai lav de-zavin shaveh maneh ve-dinar be-maneh ve-dinar.'",
+      "chosen_heading": "Proof from Mishnah",
+      "current_heading": "Proof from Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Rav Huna's Correction",
+    "candidates": [
+      "Rav Huna's Correction",
+      "Unresolved Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna's correction that the mishna refers to underselling (bi-d'ozeil), which directly matches the prose of heading 0 describing Rav Huna's rejection of the proof and the underselling interpretation.",
+      "chosen_heading": "Rav Huna's Correction",
+      "current_heading": "Rav Huna's Correction",
+      "moved": false
+    }
+  }
+]

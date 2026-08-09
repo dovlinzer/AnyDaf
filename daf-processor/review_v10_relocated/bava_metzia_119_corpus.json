@@ -1,0 +1,297 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Two Key Questions",
+    "candidates": [
+      "Intro & Topic Shift",
+      "Two Key Questions",
+      "Reshus Harabim Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items deal directly with permitted activity in the reshus harabim and the resulting liability for damage \u2014 the Mishnah on builders leaving stones and the Gemara comparing it to Rabbi Yehuda's manure ruling \u2014 which maps precisely onto the 'Reshus Harabim Liability' prose discussing permitted acts that may still generate liability and the intersection of licensed activity with damage consequences.",
+      "chosen_heading": "Reshus Harabim Liability",
+      "current_heading": "Two Key Questions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Reshus Harabim Liability",
+    "candidates": [
+      "Two Key Questions",
+      "Reshus Harabim Liability",
+      "Three Tannaim Agree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the question of whether Rabbi Yehuda exempts one from liability when acting with court/rabbinic permission \u2014 the exact topic of Abaye's statement about the three Tannaim (including Rabbi Yehuda) in candidate 2, and the passage concludes by establishing that the mishna does not follow Rabbi Yehuda's position, which sets up that discussion.",
+      "chosen_heading": "Three Tannaim Agree",
+      "current_heading": "Reshus Harabim Liability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Three Tannaim Agree",
+    "candidates": [
+      "Three Tannaim Agree",
+      "Rabbi Yehuda",
+      "Rabban Gamliel",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's full statement gathering all three Tannaim under one principle, which is exactly what the 'Three Tannaim Agree' section's prose describes and discusses.",
+      "chosen_heading": "Three Tannaim Agree",
+      "current_heading": "Three Tannaim Agree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Rabban Gamliel",
+      "Rabbi Shimon",
+      "Two Levels Analysis",
+      "Stone Workers Liability",
+      "Joint Final Stage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the exact Bava Batra mishnah about the tanur in the upper story and Rabbi Shimon's dissent regarding the measurements, which is precisely what the prose under 'Rabbi Shimon' (index 2) describes and analyzes.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Rabbi Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Joint Final Stage",
+    "candidates": [
+      "Two Levels Analysis",
+      "Stone Workers Liability",
+      "Joint Final Stage",
+      "Kablanut Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself describing the chain of workers (stonecutter through master builder), which is exactly what the 'Stone Workers Liability' section's prose introduces and explains in detail, before the final-line analysis of joint liability in the 'Joint Final Stage' section.",
+      "chosen_heading": "Stone Workers Liability",
+      "current_heading": "Joint Final Stage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Kablanut Distinction",
+    "candidates": [
+      "Joint Final Stage",
+      "Kablanut Distinction",
+      "Corporate Responsibility",
+      "Strict Liability Parallel",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the contradiction and resolution (acharon chayav v'kulan pturim / lo kashya biskirut bekablanut) that Candidate 1's prose directly discusses.",
+      "chosen_heading": "Kablanut Distinction",
+      "current_heading": "Kablanut Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Corporate Responsibility",
+      "Strict Liability Parallel",
+      "Case Setup",
+      "Rabbi Meir Position",
+      "Rabbi Yehuda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text introducing the two-gardens scenario, which is exactly what the 'Case Setup' prose describes \u2014 setting up the basic facts of the case before the individual positions of Rabbi Meir and Rabbi Yehuda are analyzed.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rabbi Yehuda Position",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Rabbi Yehuda Position",
+      "Rava's Distinction",
+      "Nof After Ikar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Meir's 'from where does the vegetable live' reasoning and Rabbi Shimon's 'reach and take' ruling, which are explicitly quoted and discussed together in the 'Rabbi Yehuda Position' prose section.",
+      "chosen_heading": "Rabbi Yehuda Position",
+      "current_heading": "Rabbi Yehuda Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Nof After Ikar",
+    "candidates": [
+      "Rava's Distinction",
+      "Nof After Ikar",
+      "Yehuda Rejects",
+      "Tree Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rava's distinction between ikar (root) and nof (foliage) and that everyone agrees about the root while the dispute concerns the leaves \u2014 this is precisely what heading 0 'Rava's Distinction' describes in its prose.",
+      "chosen_heading": "Rava's Distinction",
+      "current_heading": "Nof After Ikar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Tree Braita",
+    "candidates": [
+      "Yehuda Rejects",
+      "Tree Braita",
+      "Orlah Parallel",
+      "Both Cases Needed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tree Braita",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the ownership baraita about trunk vs. roots belonging to tree-owner or land-owner, which is precisely what the 'Tree Braita' prose describes in detail.",
+      "second_heading": "Orlah Parallel",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the orlah parallel baraita, which is exactly what the 'Orlah Parallel' prose discusses \u2014 the same Rabbi Meir/Rabbi Yehuda dispute applied to the orlah prohibition.",
+      "current_heading": "Tree Braita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Both Cases Needed",
+    "candidates": [
+      "Orlah Parallel",
+      "Both Cases Needed",
+      "Rabbi Shimon Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why both cases (orlah and ownership) are necessary to state \u2014 tzrichi \u2014 which matches exactly the 'Both Cases Needed' section's prose about the Gemara's reasoning for stating both disputes.",
+      "chosen_heading": "Both Cases Needed",
+      "current_heading": "Both Cases Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Rabbi Shimon Rule",
+    "candidates": [
+      "Rabbi Shimon Rule",
+      "Access Question",
+      "Teiqu",
+      "Halacha Ruling",
+      "Praise of Shimon",
+      "Rashi on Identity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Shimon Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces Rabbi Shimon's rule and the school of Rabbi Yannai's qualification (no forcing), which is exactly what heading 0 'Rabbi Shimon Rule' and its prose describe.",
+      "second_heading": "Access Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the dilemma about reaching foliage vs. roots (magiya l'nofo/ikaro), which is precisely what heading 1 'Access Question' prose discusses, including the teiku outcome.",
+      "current_heading": "Rabbi Shimon Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Rashi on Identity",
+    "candidates": [
+      "Access Question",
+      "Teiqu",
+      "Halacha Ruling",
+      "Praise of Shimon",
+      "Rashi on Identity",
+      "Afiryon Meaning",
+      "Theological Note",
+      "Dine Mamon Status",
+      "Hadran Alach"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Halacha Ruling",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the halakha ruling from Reish Lakish via Efrayim Safra AND the report of King Shapur's praise \u2014 both of which are discussed together under 'Halacha Ruling' (candidate 2), whose prose explicitly covers Efrayim Safra's transmission of the ruling and notes the surprising choice of Rabbi Shimon, fitting the full content of item 1.",
+      "second_heading": "Hadran Alach",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Hadran closing formula for Maseches Bava Metzia, which belongs under candidate 8 'Hadran Alach' whose prose explicitly quotes and discusses this closing formula.",
+      "current_heading": "Rashi on Identity",
+      "moved": true
+    }
+  }
+]

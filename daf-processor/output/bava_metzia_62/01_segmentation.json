@@ -34,7 +34,7 @@
           "timestamp": "05:40"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -174,8 +174,8 @@
           "timestamp": "35:23"
         }
       ],
-      "sefaria_index": 23,
-      "matched": false
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Abaye's Application to the Mishnah: Reinterpreting the Grain-Wine Case as Ha'aramas Ribbis (continued)",
@@ -193,8 +193,8 @@
           "timestamp": "37:27"
         }
       ],
-      "sefaria_index": 24,
-      "matched": true
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Baraita on Ha'aramas Ribbis: Permitted Acts Forbidden Due to Appearance of Ribbis (continued)",
@@ -217,7 +217,7 @@
           "timestamp": "39:03"
         }
       ],
-      "sefaria_index": 23,
+      "sefaria_index": 24,
       "matched": true
     },
     {
@@ -241,8 +241,8 @@
           "timestamp": "43:50"
         }
       ],
-      "sefaria_index": 25,
-      "matched": true
+      "sefaria_index": 24,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -441,5 +441,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "24:12",
+  "amud_b_micro_title": "Refined Principle",
+  "shiur_start_daf": 62,
+  "shiur_start_amud": "a"
 }

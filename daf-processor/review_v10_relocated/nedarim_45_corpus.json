@@ -1,0 +1,184 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Hefker Beit Din",
+    "candidates": [
+      "Hefker as Speech Act",
+      "Two Hefker Models",
+      "Hefker & Nedarim",
+      "Hefker After Death",
+      "Hefker Beit Din",
+      "Goral & Authority",
+      "Bitul Chametz",
+      "Ramban's Critique",
+      "Ran on Chametz",
+      "Hefker Witnesses",
+      "Solo Hefker",
+      "Shulchan Aruch Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehoshua ben Levi's position that by Torah law even one person suffices for hefker and three are required rabbinically so one acquires and two testify \u2014 this is precisely the content described in the 'Hefker Beit Din' section's prose, which explicitly paraphrases this same statement.",
+      "chosen_heading": "Hefker Beit Din",
+      "current_heading": "Hefker Beit Din",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Shulchan Aruch Ruling",
+    "candidates": [
+      "Goral & Authority",
+      "Bitul Chametz",
+      "Ramban's Critique",
+      "Ran on Chametz",
+      "Hefker Witnesses",
+      "Solo Hefker",
+      "Shulchan Aruch Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The 'Hadran' (concluding formula marking end of a tractate chapter) belongs at the end of the discussion, which is exactly where the current placement under 'Shulchan Aruch Ruling' sits as the final section of the essay.",
+      "chosen_heading": "Shulchan Aruch Ruling",
+      "current_heading": "Shulchan Aruch Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Shulchan Aruch Ruling",
+    "candidates": [
+      "Shulchan Aruch Ruling",
+      "Breira Concept",
+      "Terumah Example",
+      "Yesh/Ein Breira",
+      "Eruvin Example",
+      "Mutual Neder Case",
+      "Tanna Kamma Position",
+      "Rabbi Elazar View",
+      "Partnership Models",
+      "Ran Explanations",
+      "Not Real Hana'ah",
+      "Millstones/Ovens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the mishna text about partners who vowed not to derive benefit from one another being prohibited from entering the shared courtyard, which is exactly what the 'Mutual Neder Case' section (index 5) introduces and discusses.",
+      "chosen_heading": "Mutual Neder Case",
+      "current_heading": "Shulchan Aruch Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Millstones/Ovens",
+    "candidates": [
+      "Breira Concept",
+      "Terumah Example",
+      "Yesh/Ein Breira",
+      "Eruvin Example",
+      "Mutual Neder Case",
+      "Tanna Kamma Position",
+      "Rabbi Elazar View",
+      "Partnership Models",
+      "Ran Explanations",
+      "Not Real Hana'ah",
+      "Millstones/Ovens",
+      "Unidirectional Neder",
+      "Ran Explanations",
+      "Forcing Sale",
+      "Outsider Neder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna's prohibition on setting up a mill, oven, or raising chickens in the jointly owned courtyard, which is precisely what the 'Millstones/Ovens' section's prose explicates in detail.",
+      "chosen_heading": "Millstones/Ovens",
+      "current_heading": "Millstones/Ovens",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Outsider Neder",
+    "candidates": [
+      "Unidirectional Neder",
+      "Ran Explanations",
+      "Forcing Sale",
+      "Outsider Neder",
+      "Rented Property"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Unidirectional Neder",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna text about one partner being mudar from the other (unidirectional neder between partners), which is precisely what heading 0 'Unidirectional Neder' and its prose discuss, including Rabbi Eliezer ben Yaakov's response and the forcing of sale.",
+      "second_heading": "Outsider Neder",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the mishna text about an outsider (min hashuk) who is mudar from one of the partners, which exactly matches heading 3 'Outsider Neder' and its prose discussion of that specific case.",
+      "current_heading": "Outsider Neder",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Rented Property",
+    "candidates": [
+      "Rented Property",
+      "Tefisat Yad",
+      "House/Field Neder",
+      "Death/Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself introducing the rented property case, which is exactly what the 'Rented Property' section's prose describes and quotes directly.",
+      "chosen_heading": "Rented Property",
+      "current_heading": "Rented Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Death/Sale",
+    "candidates": [
+      "Tefisat Yad",
+      "House/Field Neder",
+      "Death/Sale",
+      "Corporate Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the mishna's konam formulation distinguishing 'your house/field' from 'this house/field,' which is the content introduced in the 'House/Field Neder' section's prose, not the death/sale consequences discussed in section 2.",
+      "chosen_heading": "House/Field Neder",
+      "current_heading": "Death/Sale",
+      "moved": true
+    }
+  }
+]

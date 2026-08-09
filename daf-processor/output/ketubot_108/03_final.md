@@ -1,20 +1,19 @@
-# Ketubot 108 — Daf Yomi Shiur
-
+[DAF:108a]
 ## Chanan: Provisions
+
+
 
 ### Third-party provisions
 
-> **Hebrew/Aramaic:** מַתְנִי׳ מִי שֶׁהָלַךְ לִמְדִינַת הַיָּם, וְעָמַד אֶחָד וּפִירְנֵס אֶת אִשְׁתּוֹ, חָנָן אוֹמֵר: אִיבֵּד אֶת מְעוֹתָיו.
->
-> **Translation:** MISHNA: In the case of a husband **who went overseas, and someone arose and sustained his wife** in his absence, and upon the husband's return the provider demands from him the money he spent on his wife, **Ḥanan says:** He has **lost his money,** i.e., the husband is not obligated to repay him, as the provider acted of his own free will and was not instructed to do so by the husband.
-
 The second ruling of Chanan — like the first — arises in the context of a husband who has traveled overseas and left no provisions for his wife. In the previous *mishnah*, the discussion centered on whether the wife must take a *shevuah* at the outset of receiving support from her husband's estate or only at the conclusion, with Chanan holding she swears only at the end. The present ruling addresses a related but distinct scenario: while the husband is abroad, a third party — perhaps a storekeeper, or simply a compassionate neighbor — notices the wife's predicament and, out of his own initiative and expense, provides her with food for the entire duration of her husband's absence.
 
-### No reimbursement owed
+> **Hebrew/Aramaic:** מַתְנִי׳ מִי שֶׁהָלַךְ לִמְדִינַת הַיָּם, וְעָמַד אֶחָד וּפִירְנֵס אֶת אִשְׁתּוֹ, חָנָן אוֹמֵר: אִיבֵּד אֶת מְעוֹתָיו.
+> **Translation:** MISHNA: In the case of a husband **who went overseas, and someone arose and sustained his wife** in his absence, and upon the husband’s return the provider demands from him the money he spent on his wife, **Ḥanan says:** He has **lost his money,** i.e., the husband is not obligated to repay him, as the provider acted of his own free will and was not instructed to do so by the husband.
 
-> **Hebrew/Aramaic:** נֶחְלְקוּ עָלָיו בְּנֵי כֹּהֲנִים גְּדוֹלִים וְאָמְרוּ: יִשָּׁבַע כַּמָּה הוֹצִיא וְיִטּוֹל. אָמַר רַבִּי דּוֹסָא בֶּן הַרְכִּינָס כְּדִבְרֵיהֶם. אָמַר רַבִּי יוֹחָנָן בֶּן זַכַּאי: יָפֶה אָמַר חָנָן, הִנִּיחַ מְעוֹתָיו עַל קֶרֶן הַצְּבִי.
->
-> **Translation:** **The sons of High Priests disagreed** with Ḥanan's opinion **and said:** The man **swears how much he spent** on behalf of the woman, **and he takes** that sum from the husband. **Rabbi Dosa ben Harkinas said** that the *halakha* is **in accordance with their statement. Rabbi Yoḥanan ben Zakkai said: Ḥanan spoke well** in this case, as this man is like one who **placed his money on the horn of a deer** in midflight, i.e., he has no reasonable expectation of reimbursement.
+> **Hebrew/Aramaic:** נֶחְלְקוּ עָלָיו בְּנֵי כֹּהֲנִים גְּדוֹלִים וְאָמְרוּ: יִשָּׁבַע כַּמָּה הוֹצִיא וְיִטּוֹל. אָמַר רַבִּי דּוֹסָא בֶּן הַרְכִּינָס כְּדִבְרֵיהֶם. אָמַר רַבִּי יוֹחָנָן בֶּן זַכַּאי: יָפֶה אָמַר חָנָן, הִנִּיחַ מְעוֹתָיו עַל קֶרֶן הַצְּבִי.
+> **Translation:** **The sons of High Priests disagreed** with Ḥanan’s opinion **and said:** The man **swears how much he spent** on behalf of the woman, **and he takes** that sum from the husband. **Rabbi Dosa ben Harkinas said** that the *halakha* is **in accordance with their statement. Rabbi Yoḥanan ben Zakkai said: Ḥanan spoke well** in this case, as this man is like one who **placed his money on the horn of a deer** in midflight, i.e., he has no reasonable expectation of reimbursement.
+
+### No reimbursement owed
 
 When the husband returns, can this benefactor demand reimbursement? Chanan says: *ibad et me'otav* — he wasted his money. No contractual arrangement was ever made, no loan was extended, and therefore the husband owes him nothing. This is a striking ruling, given that the husband's obligation to feed his wife was entirely real, and the third party effectively discharged it. The obvious question is whether the objective reality of the benefit — that the wife was sustained — itself generates a legal debt.
 
@@ -29,6 +28,8 @@ The positions align precisely as they did in the prior dispute. Rabbi Dosa ben H
 ---
 
 ## Tosafot framework
+
+
 
 ### Michael's question
 
@@ -54,6 +55,7 @@ Tosafot's resolution is grounded in public policy. In the case of the lion, we h
 
 ### Tosafot summary
 
+
 Tosafot's conclusion is thus two-pronged. First, no direct benefit passed from the third party to the husband: the money went to the wife (effectively, the husband's creditor), and only indirectly and consequentially did the husband benefit from the removal of her claim. Second, there was no increase in the value of the husband's property. Both factors together — the indirect nature of the benefit (*grama be-alma*) and the absence of any *shevach nechasim* — explain why Chanan says the third party has no claim. The relevant lines from Tosafot make this explicit: *hatam ha-shevach b'ayin hu ve-din hu she-yitol* — in cases of actual property improvement, the enhanced value is tangibly present and reimbursement is appropriate — *aval hacha lo hishbi'ach lo shum shevach nechasim, ella she-hetzilo mi-geviyat ba'al chov, ve-lo midei yahiv lei, ve-havei ke-mavriach ari mi-nichsei chaveiro, ve-af al gav de-mithanno lo mitchayev* — but here no property value was enhanced; the third party merely protected the husband from his creditor's collection, gave him nothing tangible, and is therefore analogous to one who scared off a lion, who despite the benefit conferred creates no legal obligation.
 
 The connection to the public policy point appears explicitly later in Tosafot: *takanat chachamim hatam she-yeshalmu lo kedei she-yashiv aveidato shel chaveiro* — the enactment requiring reimbursement in the lion case and in the case of returning lost objects exists to incentivize socially beneficial behavior. *Aval poreya chovo... lamah lanu la'asot takanah zo* — but for paying off another's debt, or for providing another's wife with food, why institute such a policy? Let the wife exercise her own legal rights. The husband is not a lion's prey.
@@ -62,13 +64,23 @@ The connection to the public policy point appears explicitly later in Tosafot: *
 
 ## Nedarim vow cases
 
+
+
 ### Half-shekel case
 
-> **Hebrew/Aramaic:** גְּמָ׳ תְּנַן הָתָם: הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ — שׁוֹקֵל לוֹ אֶת שִׁקְלוֹ, וּפוֹרֵעַ אֶת חוֹבוֹ, וּמַחֲזִיר לוֹ אֲבֵידָתוֹ. וּבְמָקוֹם שֶׁנּוֹטְלִין שָׂכָר — תִּפּוֹל הֲנָאָה לַהֶקְדֵּשׁ.
->
-> **Translation:** GEMARA: **We learned** in a mishna **there** (*Nedarim* 33a): With regard to **one** who is **prohibited by a vow** from **deriving benefit from another,** the other **may contribute his shekel for him,** i.e., it is permitted for the second individual to donate the half-shekel from his own money to the Temple on behalf of the first one, who is prohibited by the vow from deriving benefit; **and he may repay his debt** for him, i.e., if the one prohibited by the vow owes money to a third party, the one from whom he may not derive benefit may pay off that debt on his behalf. **And he may return to him his lost object, and in a place where one takes a wage** for returning a lost article, **the benefit** paid for the return of the item **goes to** the Temple treasury of **consecrated** property.
-
 The Gemara in *Nedarim* introduces a related set of cases involving *hanaah* — benefit — in a different but illuminating context. The scenario: one person is under a vow (*mudar hanaah*) prohibiting him from deriving benefit from his friend. Yet the friend wishes to assist him. What may the friend do?
+
+> **Hebrew/Aramaic:** גְּמָ׳ תְּנַן הָתָם: הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ —
+> **Translation:** GEMARA: **We learned** in a mishna **there** (*Nedarim* 33a): With regard to **one** who is **prohibited by a vow** from **deriving benefit from another,**
+
+> **Hebrew/Aramaic:** שׁוֹקֵל לוֹ אֶת שִׁקְלוֹ, וּפוֹרֵעַ אֶת חוֹבוֹ, וּמַחֲזִיר לוֹ אֲבֵידָתוֹ. וּבְמָקוֹם שֶׁנּוֹטְלִין שָׂכָר — תִּפּוֹל הֲנָאָה לַהֶקְדֵּשׁ.
+> **Translation:** the other **may contribute his shekel for him,** i.e., it is permitted for the second individual to donate the half-shekel from his own money to the Temple on behalf of the first one, who is prohibited by the vow from deriving benefit; **and he may repay his debt** for him, i.e., if the one prohibited by the vow owes money to a third party, the one from whom he may not derive benefit may pay off that debt on his behalf. **And he may return to him his lost object, and in a place where one takes a wage** for returning a lost article, **the benefit** paid for the return of the item **goes to** the Temple treasury of **consecrated** property.
+
+> **Hebrew/Aramaic:** בִּשְׁלָמָא שׁוֹקֵל לוֹ אֶת שִׁקְלוֹ — מִצְוָה קָעָבֵיד. דִּתְנַן: תּוֹרְמִין עַל הָאָבוּד וְעַל הַגָּבוּי וְעַל הֶעָתִיד לִגָּבוֹת.
+> **Translation:** The Gemara discusses this mishna: **Granted, he may contribute his shekel for him,** as **he** thereby **performs a mitzva.** The one prohibited by the vow from deriving benefit does not derive any direct benefit from this action, as even if he did not pay the half-shekel, all Jews have a share in the communal offerings brought in the Temple, **as we learned** in a *baraita*: **One** performs the **collection** of money from the chamber with the intention that the ceremony apply to money **that is lost, and** money **that has** already **been gathered** but has not yet been brought to the Temple, **and** money **that will be gathered in the future.** This shows that even if one did not give a half-shekel, the communal offerings are nevertheless sacrificed in his name.
+
+> **Hebrew/Aramaic:** וּמַחֲזִיר לוֹ אֲבֵידָתוֹ נָמֵי מִצְוָה קָעָבֵיד. אֶלָּא פּוֹרֵעַ לוֹ אֶת חוֹבוֹ, הָא קָמִשְׁתָּרְשִׁי לֵיהּ!
+> **Translation:** **And** concerning the *halakha* that **he may return to him his lost object, he also performs a mitzva** by means of this action. However, with regard to the statement that **he may repay his debt** for him, this is problematic because it **provides a gain for** the one prohibited by the vow from deriving benefit; if he did not repay the person’s debt, that person would have to pay it from his own pocket. Consequently, it should be considered as though the one prohibited from deriving benefit received money.
 
 ### Three actions
 
@@ -78,25 +90,14 @@ The return of the lost object is perhaps the least surprising of the three. Afte
 
 ### Lost object payment
 
-> **Hebrew/Aramaic:** בִּשְׁלָמָא שׁוֹקֵל לוֹ אֶת שִׁקְלוֹ — מִצְוָה קָעָבֵיד. דִּתְנַן: תּוֹרְמִין עַל הָאָבוּד וְעַל הַגָּבוּי וְעַל הֶעָתִיד לִגָּבוֹת. וּמַחֲזִיר לוֹ אֲבֵידָתוֹ נָמֵי מִצְוָה קָעָבֵיד. אֶלָּא פּוֹרֵעַ לוֹ אֶת חוֹבוֹ, הָא קָמִשְׁתָּרְשִׁי לֵיהּ!
->
-> **Translation:** The Gemara discusses this mishna: **Granted, he may contribute his shekel for him,** as **he** thereby **performs a mitzva.** The one prohibited by the vow from deriving benefit does not derive any direct benefit from this action, as even if he did not pay the half-shekel, all Jews have a share in the communal offerings brought in the Temple, **as we learned** in a *baraita*: **One** performs the **collection** of money from the chamber with the intention that the ceremony apply to money **that is lost, and** money **that has** already **been gathered** but has not yet been brought to the Temple, **and** money **that will be gathered in the future.** This shows that even if one did not give a half-shekel, the communal offerings are nevertheless sacrificed in his name. **And** concerning the *halakha* that **he may return to him his lost object, he also performs a mitzva** by means of this action. However, with regard to the statement that **he may repay his debt** for him, this is problematic because it **provides a gain for** the one prohibited by the vow from deriving benefit; if he did not repay the person's debt, that person would have to pay it from his own pocket. Consequently, it should be considered as though the one prohibited from deriving benefit received money.
-
 However, a complication arises: in places where it is customary to compensate the finder for his efforts in returning a lost object (*sechar batelah*), a new difficulty emerges. If the person under the vow is obligated to pay for the return, but the friend has also taken a vow against receiving benefit from him, then accepting payment would violate the friend's vow. Conversely, if the friend simply waives the payment — says "forget it, keep your money" — he has forgiven a debt the person owes him, which is itself a form of *hanaah* flowing to the person from the friend, in violation of the original vow.
 
 ### Hekdesh solution
-
-> **Hebrew/Aramaic:** אָמַר רַב אוֹשַׁעְיָא: הָא מַנִּי? חָנָן הִיא, דְּאָמַר: אִיבֵּד אֶת מְעוֹתָיו.
->
-> **Translation:** **Rav Oshaya said:** In accordance with **whose** opinion **is this** mishna? **It is** in accordance with the opinion of **Ḥanan, who said** in the mishna: He has **lost his money.** In other words, this is referring to a case in which he repays a debt that the other does not really have to repay at all, and therefore he is doing a favor to the creditor, not to the one who is prohibited from deriving benefit.
 
 The Gemara's solution is elegant: *tatil hanaah le-hekdesh* — the payment is dedicated to *hekdesh*. The person does not keep the money, the friend does not receive it, and neither party benefits from the other in a forbidden way. It is a well-established approach to such entanglements: when neither party may receive the value at stake, the funds are channeled to *hekdesh* as a neutral resolution.
 
 ### Rashi/Tosafot
 
-> **Hebrew/Aramaic:** וְרָבָא אָמַר: אֲפִילּוּ תֵּימָא רַבָּנַן, הָכָא בְּמַאי עָסְקִינַן, שֶׁלָּוָה עַל מְנָת שֶׁלֹּא לִפְרוֹעַ.
->
-> **Translation:** **And Rava said: You** can **even say** that this is in accordance with the opinion of **the Rabbis, and here we are dealing with** a situation where the borrower **borrowed** money **on the condition that he** need **not pay it back** until he chooses to do so. In that case, if the one from whom this borrower may not derive benefit repaid the debt for him, he performed a favor only to the lender, not to the borrower.
 
 Regarding the *shekel* payment, Rashi and Tosafot offer divergent explanations for why paying another's half-*shekel* does not constitute *hanaah*. The *mishnah* in *Shekalim* teaches *tormin al ha-avud, ve-al ha-gavuy, ve-al ha-atid ligbot* — the *terumah* taken from the *shekalim* chamber is brought on behalf even of those whose money was lost in transit, those whose money has been received but not yet brought to the *Beit Hamikdash*, and even those who have not yet paid at all. The *korbanot* purchased from the collected *shekalim* are thus brought on behalf of the entire community, even those who have yet to fulfill their obligation.
 
@@ -104,21 +105,24 @@ Rashi understands this broadly: since the *korbanot* are brought on behalf of ev
 
 Tosafot rejects this. In Tosafot's view, one who does not pay his *shekel* does genuinely forfeit his share in the *korbanot* — the text *al ha-atid ligbot* refers only to those who will eventually pay, not to permanent non-payers. Paying another's *shekel* therefore does discharge a real obligation and constitutes real benefit. To rescue the ruling that the friend may pay it, Tosafot narrows the case: the *mishnah* in *Nedarim* is describing a situation where the person has technically already fulfilled his obligation (for example, his money was sent but lost in transit before reaching Jerusalem, so he is halachically exempt), and the friend is merely paying a second time for his peace of mind. This is admittedly a *dachuk* reading of a case that the *mishnah* presents as standard. As Rashi would understand it, the straightforward reading is simply that the payment of a *shekel* for another person, under any normal circumstances, is permissible — because it only assists in performing a *mitzvah* and does not represent a transfer of substantial monetary benefit.
 
-Ultimately, both Rashi and Tosafot agree that *hanaah* in this context refers to monetary benefit, not emotional satisfaction. They disagree on why the *shekel* case falls outside that category — whether because the obligation was illusory all along (Rashi) or because the particular case involves an already-exempt individual (Tosafot).
+Ultimately, both Rashi and Tosafot agree that *hanaah* in this context refers to monetary benefit, not emotional satisfaction. They disagree on why the *shekel* case falls outside that category — whether because the obligation was illusory all along (Rashi) or because the particular case involves an already-exempt individual (Tosafot). It is worth noting, though, that even on Rashi's reading there remains a residual question: the *shekel* is still a debt of sorts owed to *hekdesh*, and to whatever extent *beit din* could compel its payment or seize property to collect it, some genuine obligation may be lurking. The stronger and more conceptually clarifying case is therefore the one the Gemara turns to next — outright paying off another's debt — since if we can understand why that does not constitute *hanaah*, it will also shed light on why the *shekel* case is permitted.
 
 ---
 
 ## Debt repayment grama
 
+
+
 ### Oshaya attribution
+
+> **Hebrew/Aramaic:** אָמַר רַב אוֹשַׁעְיָא: הָא מַנִּי? חָנָן הִיא, דְּאָמַר: אִיבֵּד אֶת מְעוֹתָיו.
+> **Translation:** **Rav Oshaya said:** In accordance with **whose** opinion **is this** mishna? **It is** in accordance with the opinion of **Ḥanan, who said** in the mishna: He has **lost his money.** In other words, this is referring to a case in which he repays a debt that the other does not really have to repay at all, and therefore he is doing a favor to the creditor, not to the one who is prohibited from deriving benefit.
 
 The Gemara now turns to the most conceptually significant of the three permitted actions: paying off another's debt. The Gemara asks: surely this is *kamesh-taresh lei* — a genuine and deeply rooted benefit? The person's net worth has increased; he is freed from a liability that burdened him. How can this not be *hanaah*?
 
-> **Hebrew/Aramaic:** בִּשְׁלָמָא רָבָא לָא אָמַר כְּרַב אוֹשַׁעְיָא: דְּמוֹקֵים לַהּ כְּרַבָּנַן. אֶלָּא רַב אוֹשַׁעְיָא, מַאי טַעְמָא לָא אָמַר כְּרָבָא? אָמַר לָךְ רַב אוֹשַׁעְיָא: נְהִי דַּהֲנָאָה לֵית לֵיהּ, כִּיסּוּפָא מִי לֵית לֵיהּ? הָתָם נָמֵי אִית לֵיהּ הֲנָאָה בְּהָהִיא הֲנָאָה דְּמִיכְּסִיף מִינֵּיהּ.
->
-> **Translation:** The Gemara analyzes these opinions: **Granted, Rava did not say** his statement in accordance with the explanation **of Rav Oshaya, as he establishes** the mishna in *Nedarim* not only in accordance with the view of Ḥanan, but also **in accordance with** the opinion of **the Rabbis. However, what is the reason** that **Rav Oshaya did not say** that the mishna is referring to a loan that did not have to be repaid, **in accordance with** the explanation of **Rava?** The Gemara answers that **Rav Oshaya** could have **said to you: Although** in this type of loan **there is no benefit to** the borrower, as he need **not repay it within a certain period of time, doesn't he have shame** due to his failure to repay the debt? **There too,** in the case of one prohibited by a vow, **he has benefit;** namely, the **benefit that he is ashamed before him** until the loan is repaid.
-
 Rav Oshaya resolves this: *ha mani Chanan hi* — this ruling reflects Chanan's position. Just as Chanan holds that discharging the husband's obligation to his wife creates no actionable debt in the husband's favor for the one who paid, so too here: paying off another's debt is not considered *hanaah* in the legally cognizable sense. The two rulings share the same conceptual foundation.
+
+The key to understanding why requires thinking carefully about the direction in which benefit flows. When I pay Michael's creditor, the money goes from me to the creditor — not from me to Michael. What Michael experiences is not the receipt of something but the removal of something: a lien is lifted, a demand is silenced, a debt ceases to hang over him. This is the logic of *mavirach ari minichsei chaveiro* — chasing the lion from another's property — which Tosafot had invoked earlier. What was removed was something bad, but nothing good was directly transferred to Michael himself. And critically, because the money went to the creditor rather than to Michael, we can say that Michael received nothing from me directly; whatever benefit accrued to him came only *be-grama*, as an indirect downstream consequence of a transaction between me and his creditor. This is precisely how Chanan conceptualizes the wife's food case: the one who fed her did not directly benefit the husband, and therefore cannot demand repayment from him. The same logic explains why paying off a debt does not constitute *hanaah* cognizable enough to violate a *neder* — direct transfer is what the law tracks, and here there was none. How exactly Rashi and Tosafot articulate that direct/indirect line is taken up in what follows.
 
 ### Direct/indirect
 
@@ -130,9 +134,21 @@ A parallel case reinforces this framework. The Gemara in *Nedarim* elsewhere dis
 
 Tosafot draws the explicit contrast: *de-lo avid ela grama be-alma... ve-dela dami le-oseh lo melachah* — because the friend did not act directly upon Michael, it is unlike performing labor for him directly. Performing labor directly for someone, even if you could not compel payment, still constitutes direct benefit and would be prohibited under the vow.
 
+It is worth pausing on an objection that arises naturally here. In practical, real-world terms, paying off someone's debt may do far more for that person than mowing their lawn — one would surely prefer to have a mortgage paid off than a yard trimmed. And yet the legal analysis does not ask how much the person has benefited in absolute terms, but whether the benefit arrived directly from the acting party or only indirectly. The question is not the magnitude of the benefit but its technical character — whether it is seen as something that passed from you to the other person, or merely as a downstream consequence of a transaction between you and a third party. That distinction may feel counterintuitive, but it is precisely what the framework turns on.
+
 However, Tosafot notes an important nuance in the storekeeper case: unlike the debt-repayment case, Michael actually did receive something of tangible, increased value — food that he now has. The debt case is arguably stronger because there, there is not even an increase in property value, only the removal of a liability. Together, then, the two factors that insulate these actions from the category of *hanaah* are: (1) the indirect, *grama* character of the benefit, and (2) in the debt case specifically, the absence of any actual increase in the person's property.
 
+[DAF:108b]
 ### Rava challenge
+
+> **Hebrew/Aramaic:** וְרָבָא אָמַר: אֲפִילּוּ תֵּימָא רַבָּנַן, הָכָא בְּמַאי עָסְקִינַן, שֶׁלָּוָה עַל מְנָת שֶׁלֹּא לִפְרוֹעַ.
+> **Translation:** **And Rava said: You** can **even say** that this is in accordance with the opinion of **the Rabbis, and here we are dealing with** a situation where the borrower **borrowed** money **on the condition that he** need **not pay it back** until he chooses to do so. In that case, if the one from whom this borrower may not derive benefit repaid the debt for him, he performed a favor only to the lender, not to the borrower.
+
+> **Hebrew/Aramaic:** בִּשְׁלָמָא רָבָא לָא אָמַר כְּרַב אוֹשַׁעְיָא: דְּמוֹקֵים לַהּ כְּרַבָּנַן. אֶלָּא רַב אוֹשַׁעְיָא, מַאי טַעְמָא לָא אָמַר כְּרָבָא? אָמַר לָךְ רַב אוֹשַׁעְיָא: נְהִי דַּהֲנָאָה לֵית לֵיהּ,
+> **Translation:** The Gemara analyzes these opinions: **Granted, Rava did not say** his statement in accordance with the explanation **of Rav Oshaya, as he establishes** the mishna in *Nedarim* not only in accordance with the view of Ḥanan, but also **in accordance with** the opinion of **the Rabbis. However, what is the reason** that **Rav Oshaya did not say** that the mishna is referring to a loan that did not have to be repaid, **in accordance with** the explanation of **Rava?** The Gemara answers that **Rav Oshaya** could have **said to you: Although** in this type of loan **there is no benefit to** the borrower, as he need not repay it within a certain period of time,
+
+> **Hebrew/Aramaic:** כִּיסּוּפָא מִי לֵית לֵיהּ? הָתָם נָמֵי אִית לֵיהּ הֲנָאָה בְּהָהִיא הֲנָאָה דְּמִיכְּסִיף מִינֵּיהּ.
+> **Translation:** **doesn’t he have shame** due to his failure to repay the debt? **There too,** in the case of one prohibited by a vow, **he has benefit;** namely, the **benefit that he is ashamed before him** until the loan is repaid.
 
 Rava raises a challenge to Rav Oshaya's attribution of the debt-repayment rule to Chanan. Rava says: *afilu teima Rabbanan* — one could even reconcile the ruling with the majority position of the *Bnei Kohanim Gedolim*, without invoking Chanan at all. The explanation would be that the debt in question was borrowed *al menat she-lo lifroa* — on condition that it never had to be repaid, meaning the creditor could never bring the debtor to court to collect. Such a debt, though technically outstanding, does not truly burden the debtor's estate in a practical sense — it is a nominal obligation at best. Paying it off, therefore, barely qualifies as meaningful benefit.
 
@@ -144,10 +160,11 @@ This also confirms that Chanan's approach carries significant practical weight, 
 
 ## Admon estate case
 
+
+
 ### Daughters/sons
 
-> **Hebrew/Aramaic:** מַתְנִי׳ אַדְמוֹן אוֹמֵר, שִׁבְעָה: מִי שֶׁמֵּת וְהִנִּיחַ בָּנִים וּבָנוֹת, בִּזְמַן שֶׁהַנְּכָסִים מְרוּבִּין — הַבָּנִים יוֹרְשִׁים, וְהַבָּנוֹת נִזּוֹנוֹת. וּבִנְכָסִים מוּעָטִים — הַבָּנוֹת יִזּוֹנוּ, וְהַבָּנִים — יְחַזְּרוּ עַל הַפְּתָחִים. אַדְמוֹן אוֹמֵר: בִּשְׁבִיל שֶׁאֲנִי זָכָר הִפְסַדְתִּי?! אָמַר רַבָּן גַּמְלִיאֵל: רוֹאֶה אֲנִי אֶת דִּבְרֵי אַדְמוֹן.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ אַדְמוֹן אוֹמֵר, שִׁבְעָה: מִי שֶׁמֵּת וְהִנִּיחַ בָּנִים וּבָנוֹת, בִּזְמַן שֶׁהַנְּכָסִים מְרוּבִּין — הַבָּנִים יוֹרְשִׁים, וְהַבָּנוֹת נִזּוֹנוֹת. וּבִנְכָסִים מוּעָטִים — הַבָּנוֹת יִזּוֹנוּ, וְהַבָּנִים — יְחַזְּרוּ עַל הַפְּתָחִים. אַדְמוֹן אוֹמֵר: בִּשְׁבִיל שֶׁאֲנִי זָכָר הִפְסַדְתִּי?! אָמַר רַבָּן גַּמְלִיאֵל: רוֹאֶה אֲנִי אֶת דִּבְרֵי אַדְמוֹן.
 > **Translation:** MISHNA: **Admon states** a dissenting opinion to that of the Rabbis in **seven** cases. The mishna elaborates: With regard to **one who died and left** behind both **sons and daughters, when the estate is large the sons inherit** the property **and the daughters are provided with sustenance** from it. **And with regard to a small estate,** which is insufficient to provide for both the sons and the daughters, **the daughters are provided with sustenance and the sons** have neither inheritance nor sustenance, and therefore, if they have no other means with which to support themselves, they must **go round** begging **at the doors. Admon says: Because I am a male,** will **I lose out? Rabban Gamliel said: I see** as correct **the statement of Admon.**
 
 The *mishnah* now transitions to the seven rulings of Admon. The first concerns the laws of inheritance in an estate too small to satisfy all claims. The general rule: when a man dies leaving both sons and daughters, in a large estate *ha-banim yirashu ve-ha-banot yizonu* — the sons inherit and the daughters are provided with food and maintenance from the estate. In a small estate, however, where there is not enough to both provide for the daughters' maintenance and leave a remainder for the sons to inherit, *ha-banot yizonu ve-ha-banim yechaizru al ha-pesachim* — the daughters are fed and the sons must go begging.
@@ -158,16 +175,14 @@ Admon objects: *bishvil she-ani zachar hifsadeti*? Just because I am male I lose
 
 ### Abaye misreading
 
-> **Hebrew/Aramaic:** גְּמָ׳ מַאי קָאָמַר? אָמַר אַבָּיֵי, הָכִי קָאָמַר: בִּשְׁבִיל שֶׁאֲנִי זָכָר וְרָאוּי לַעֲסוֹק בַּתּוֹרָה — הִפְסַדְתִּי?
->
-> **Translation:** GEMARA: With regard to Admon's statement: Because I am a male will I lose out, the Gemara asks: **What is he saying?** What is the significance of the fact that one is male? **Abaye said** that **this is what he is saying: Because I am a male and,** unlike women, I **am fit to engage in Torah** study, should **I lose out?**
+> **Hebrew/Aramaic:** גְּמָ׳ מַאי קָאָמַר? אָמַר אַבָּיֵי, הָכִי קָאָמַר: בִּשְׁבִיל שֶׁאֲנִי זָכָר וְרָאוּי לַעֲסוֹק בַּתּוֹרָה — הִפְסַדְתִּי?
+> **Translation:** GEMARA: With regard to Admon’s statement: Because I am a male will I lose out, the Gemara asks: **What is he saying?** What is the significance of the fact that one is male? **Abaye said** that **this is what he is saying: Because I am a male and,** unlike women, I **am fit to engage in Torah** study, should **I lose out?**
 
 The Gemara struggles to identify the precise nature of Admon's complaint. Abaye offers one reading: *bishvil she-ani zachar ve-ra'ui la-asok ba-Torah hifsadeti* — because I am male and therefore the one who engages in Torah study, I have lost out? The suggestion seems to be that those who occupy themselves with the more important religious activity in society ought to be prioritized in financial matters.
 
 ### Rava response
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבָא: מַאן דְּעָסֵיק בַּתּוֹרָה הוּא דְּיָרֵית, מַאן דְּלָא עָסֵיק בַּתּוֹרָה לָא יָרֵית?! אֶלָּא אָמַר רָבָא, הָכִי קָאָמַר: בִּשְׁבִיל שֶׁאֲנִי זָכָר וְרָאוּי לִירַשׁ בִּנְכָסִים מְרוּבִּין — הִפְסַדְתִּי בִּנְכָסִים מוּעָטִין?!
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבָא: מַאן דְּעָסֵיק בַּתּוֹרָה הוּא דְּיָרֵית, מַאן דְּלָא עָסֵיק בַּתּוֹרָה לָא יָרֵית?! אֶלָּא אָמַר רָבָא, הָכִי קָאָמַר: בִּשְׁבִיל שֶׁאֲנִי זָכָר וְרָאוּי לִירַשׁ בִּנְכָסִים מְרוּבִּין — הִפְסַדְתִּי בִּנְכָסִים מוּעָטִין?!
 > **Translation:** **Rava said to him:** Is that to say that it is **one who is engaged in Torah** study **who inherits,** whereas **one** who is **not engaged in Torah** study **does not inherit?** What does the study of Torah have to do with the matter at hand? **Rather, Rava said** that **this is what** Admon **is saying: Because I am a male,** who has a greater right to the property by Torah law, **and** therefore **it is fitting** for me **to inherit when the estate is large,** will **I** now **lose out** entirely **in** a case of **a small estate?**
 
 Rava firmly rejects this: *man de-asik be-Torah hu de-yaris, man de-lo asik be-Torah lo yaris?* Would one who learns Torah inherit while one who does not, does not? Monetary rights and religious significance are entirely separate domains. An argument grounded in religious importance is irrelevant to questions of property entitlement.
@@ -178,17 +193,15 @@ Rabban Gamliel endorses Admon's position: *ro'eh ani et divrei Admon* — I see 
 
 ### Tosafot reinterpret
 
-The Gemara elsewhere rules that whenever Rabban Gamliel says *ro'eh ani et divrei Admon*, we rule accordingly. Yet Tosafot notes that other *sugyot* consistently maintain that in a small estate, the daughters are fed before the sons — a rule reaffirmed by Rav Assi in the name of Rabbi Yochanan with no hint of dissent. Rabbeinu Tam resolves the tension by reinterpreting the nature of the dispute: *Admon lav peligi a-milsa de-chachamim avdu* — Admon is not actually arguing against the established *halacha*. He concedes that the law gives priority to daughters in a small estate. Rather, *ella misma be-alma* — he is simply voicing outrage. His statement is a rhetorical expression of indignation, not a formal halachic challenge. And when Rabban Gamliel says *ro'eh ani et divrei Admon*, he too is not issuing a *psak din* — he is affirming: *mishum she-yesh bo kedei litmo'ah* — yes, I share his sense that this is astonishing. The established rule stands; Admon's statement registers a moral protest, not a legal position.
+The Gemara elsewhere rules that whenever Rabban Gamliel says *ro'eh ani et divrei Admon*, we rule accordingly. Yet Tosafot notes that other *sugyot* consistently maintain that in a small estate, the daughters are fed before the sons — a rule reaffirmed by Rav Assi in the name of Rabbi Yochanan with no hint of dissent. This creates a genuine tension: if the principle *kol makom she-amar Rabban Gamliel ro'eh ani et divrei Admon halacha kemoso* — wherever Rabban Gamliel says he sees the logic of Admon's position, we rule that way — applies here, the daughters' priority in a small estate should be overturned. Yet the weight of the broader Talmudic record points firmly in the other direction. Rabbeinu Tam resolves the tension by reinterpreting the nature of the dispute: *Admon lav peligi a-milsa de-chachamim avdu* — Admon is not actually arguing against the established *halacha*. He concedes that the law gives priority to daughters in a small estate. Rather, *ella misma be-alma* — he is simply voicing outrage. His statement is a rhetorical expression of indignation, not a formal halachic challenge. And when Rabban Gamliel says *ro'eh ani et divrei Admon*, he too is not issuing a *psak din* — he is affirming: *mishum she-yesh bo kedei litmo'ah* — yes, I share his sense that this is astonishing. The established rule stands; Admon's statement registers a moral protest, not a legal position.
 
 ---
 
 ## Jugs of oil case
 
-### Jugs claim
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הַטּוֹעֵן אֶת חֲבֵירוֹ כַּדֵּי שֶׁמֶן וְהוֹדָה בַּקַּנְקַנִּים, אַדְמוֹן אוֹמֵר: הוֹאִיל וְהוֹדָה בְּמִקְצָת הַטְּעָנָה — יִשָּׁבַע. וַחֲכָמִים אוֹמְרִים: אֵין הוֹדָאַת מִקְצָת מִמִּין הַטַּעֲנָה. אָמַר רַבָּן גַּמְלִיאֵל: רוֹאֶה אֲנִי אֶת דִּבְרֵי אַדְמוֹן.
->
-> **Translation:** MISHNA: The mishna cites another case involving a dispute between Admon and the Rabbis. With regard to **one who claims** that **another** owes him **jugs of oil, and** the other **admits to** the claim of **pitchers** but not the oil, **Admon says: Since he made a partial admission to the claim, he takes an oath** swearing that he owes only what he has admitted to and no more. **And the Rabbis say: The partial admission** in this case **is not of the same type as the claim,** as the claim specified oil and the admission referred to pitchers. **Rabban Gamliel said: I see** as correct **the statement of Admon.**
+
+### Jugs claim
 
 Admon's second ruling involves an application of *modeh be-miktzat* — partial admission. The case: Reuven claims that Shimon owes him jugs of oil. Shimon concedes that he owes the jugs but denies owing the oil. Can this constitute the partial admission (*hoda'at miktzat ha-ta'anah*) that triggers an obligation to take a *shevuah*?
 
@@ -202,47 +215,53 @@ The *chakhamim* disagree: *ein hoda'at miktzat mi-min ha-ta'anah* — this is no
 
 ### Two vs. one claim
 
-> **Hebrew/Aramaic:** גְּמָ׳ שְׁמַע מִינַּהּ לְרַבָּנַן: טְעָנוֹ חִטִּין וּשְׂעוֹרִין וְהוֹדָה בִּשְׂעוֹרִין — פָּטוּר.
->
-> **Translation:** GEMARA: One can **conclude from here** that according **to** the opinion of **the Rabbis,** if one **claimed** that another owed him **wheat and barley, and** the other party partially **admitted** that the claim was true only with regard **to the barley,** he is **exempt,** just as he is exempt in this case when the claim was for jugs of oil and the admission referred only to jugs.
-
 The Gemara initially attempts to locate the dispute within the broader question of *ta'ano chitin u-se'orin ve-hodeh be-se'orin* — if one claimed wheat and barley and the defendant conceded only the barley, is that *modeh be-miktzat*? This depends on whether we treat a single claim for two objects as one unified claim (conceding part of it = partial admission) or as two separate claims (conceding one entirely while denying the other = no partial admission at all). The Gemara initially suggests that the *chakhamim* hold that wheat and barley are two separate claims, and therefore there is no *modeh be-miktzat* here — the oil and the jugs likewise constitute two separate claims, and the full concession of jugs with full denial of oil is not a partial admission. This would conflict with the position of Rav Nachman in the name of Shmuel, who holds that claiming two objects in a single demand is treated as one claim, such that conceding one part of it does create a *shevuah* obligation.
 
 ### Measurement language
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר רַב: בְּטוֹעֲנוֹ מִדָּה. אִי הָכִי, מַאי טַעְמָא דְּאַדְמוֹן?
->
+> **Hebrew/Aramaic:** מַתְנִי׳ הַטּוֹעֵן אֶת חֲבֵירוֹ כַּדֵּי שֶׁמֶן וְהוֹדָה בַּקַּנְקַנִּים, אַדְמוֹן אוֹמֵר: הוֹאִיל וְהוֹדָה בְּמִקְצָת הַטְּעָנָה — יִשָּׁבַע. וַחֲכָמִים אוֹמְרִים: אֵין הוֹדָאַת מִקְצָת מִמִּין הַטַּעֲנָה. אָמַר רַבָּן גַּמְלִיאֵל: רוֹאֶה אֲנִי אֶת דִּבְרֵי אַדְמוֹן.
+> **Translation:** MISHNA: The mishna cites another case involving a dispute between Admon and the Rabbis. With regard to **one who claims** that **another** owes him **jugs of oil, and** the other **admits to** the claim of **pitchers** but not the oil, **Admon says: Since he made a partial admission to the claim, he takes an oath** swearing that he owes only what he has admitted to and no more. **And the Rabbis say: The partial admission** in this case **is not of the same type as the claim,** as the claim specified oil and the admission referred to pitchers. **Rabban Gamliel said: I see** as correct **the statement of Admon.**
+
+> **Hebrew/Aramaic:** גְּמָ׳ שְׁמַע מִינַּהּ לְרַבָּנַן: טְעָנוֹ חִטִּין וּשְׂעוֹרִין וְהוֹדָה בִּשְׂעוֹרִין — פָּטוּר.
+> **Translation:** GEMARA: One can **conclude from here** that according **to** the opinion of **the Rabbis,** if one **claimed** that another owed him **wheat and barley, and** the other party partially **admitted** that the claim was true only with regard **to the barley,** he is **exempt,** just as he is exempt in this case when the claim was for jugs of oil and the admission referred only to jugs.
+
+> **Hebrew/Aramaic:** לֵימָא תִּהְוֵי תְּיוּבְתָּא דְּרַב נַחְמָן אָמַר שְׁמוּאֵל, דְּאָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: טְעָנוֹ חִטִּין וּשְׂעוֹרִים וְהוֹדָה לוֹ בְּאֶחָד מֵהֶן — חַיָּיב!
+> **Translation:** The Gemara suggests: **Let us say that it is a conclusive refutation of** the opinion that **Rav Naḥman** said that **Shmuel said. As Rav Naḥman said** that **Shmuel said:** If one **claimed against** another that he owed him **wheat and barley, and** the other **admitted to** owing **one of** the types, **he is obligated** to take an oath, as he partially admitted to the claim.
+
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר רַב: בְּטוֹעֲנוֹ מִדָּה. אִי הָכִי, מַאי טַעְמָא דְּאַדְמוֹן?
 > **Translation:** **Rav Yehuda said** that **Rav said:** The mishna is not referring **to** a case where one claimed that another owed him oil and pitchers. Rather, **he claimed** that another owed him a certain **measure** of oil, i.e., an amount of oil that would fill a certain number of jugs, while he did not claim the jugs at all. Consequently, the admission was not of the same type as the claim at all. The Gemara asks: **If so, what is the rationale** for the ruling **of Admon** that he must take an oath? Clearly, the admission and the claim do not refer to the same objects.
+
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רָבָא: דְּכוּלֵּי עָלְמָא הֵיכָא דַּאֲמַר לֵיהּ ״מְלֹא עֲשָׂרָה כַּדֵּי שֶׁמֶן יֵשׁ לִי בְּבוֹרֶךָ״, שֶׁמֶן קָטָעֵין לֵיהּ, קַנְקַנִּים לָא קָטָעֵין לֵיהּ. ״עֲשָׂרָה כַּדֵּי שֶׁמֶן מְלֵאִים יֵשׁ לִי אֶצְלְךָ״ — שֶׁמֶן וְקַנְקַנִּים קָטָעֵין לֵיהּ.
+> **Translation:** **Rather, Rava said: Everyone agrees that** in a case **where he said to him: I have ten jugfuls of oil in your pit, he is claiming oil from him** and **he is not claiming pitchers from him** at all. In this case, it is clear that admitting to owing pitchers is not a partial admission whatsoever that would lead to an obligation to take an oath. Similarly, if he said to him: **I have ten full jugs of oil with you, he is claiming from him** both **oil and pitchers,** and therefore if the other party concedes to owing pitchers, this is a partial admission to the claim and everyone agrees that he must take an oath.
+
+> **Hebrew/Aramaic:** כִּי פְּלִיגִי הֵיכָא דַּאֲמַר לֵיהּ ״עֲשָׂרָה כַּדֵּי שֶׁמֶן יֵשׁ לִי אֶצְלְךָ״. אַדְמוֹן אוֹמֵר: יֵשׁ בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים, וְרַבָּנַן סָבְרִי: אֵין בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים.
+> **Translation:** **When they disagree** in the mishna is in a case **where he said to him** simply: **I have ten jugs of oil with you. Admon says: This expression includes** a reference to the **pitchers,** while **the Rabbis hold** that **this expression does not include** a reference to the **pitchers.**
+
+> **Hebrew/Aramaic:** אֶלָּא טַעְמָא דְּאֵין בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים, הָא יֵשׁ בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים — חַיָּיב. לֵימָא תֶּיהְוֵי תְּיוּבְתָּא דְּרַבִּי חִיָּיא בַּר אַבָּא. דְּאָמַר רַבִּי חִיָּיא בַּר אַבָּא: טְעָנוֹ חִטִּין וּשְׂעוֹרִים וְהוֹדָה לוֹ בְּאֶחָד מֵהֶם — פָּטוּר!
+> **Translation:** The Gemara infers: **Rather, the reason** for the ruling of the Rabbis **is** specifically **that the expression does not include** a reference to **pitchers,** which indicates that if **the expression includes** a reference to **pitchers,** one is **obligated** to take an oath. If so, **let us say** that **this is a conclusive refutation of** the opinion of **Rabbi Ḥiyya bar Abba. As Rabbi Ḥiyya bar Abba said:** If one **claimed** against another that he owed him **wheat and barley, and** the other **admitted to one of** the types, **he is exempt** from an oath.
+
+> **Hebrew/Aramaic:** אָמַר רַב שִׁימִי בַּר אָשֵׁי: נַעֲשָׂה כְּמִי שֶׁטְּעָנוֹ רִימּוֹן בִּקְלִיפָּתוֹ. מַתְקֵיף לַהּ רָבִינָא: רִימּוֹן בְּלֹא קְלִיפָּתוֹ לָא מִינְּטַר, שֶׁמֶן מִינְּטַר בְּלֹא קַנְקַנִּים!
+> **Translation:** **Rav Shimi bar Ashi said:** The case of the mishna is not similar to that of wheat and barley, as those two types are not connected to one another. Rather, the case of jugs of oil **is** more **like** that of **one who claimed** that **the other** owed him **a pomegranate in its peel,** as the jugs are as necessary for the oil as the peel of a pomegranate protecting its fruit. **Ravina strongly objects to this:** The comparison between these cases does not bear close scrutiny. **A pomegranate without its peel cannot be preserved,** and therefore it is obvious that when one claims a pomegranate, he must be referring to the peel as well. By contrast, **oil can be preserved without** the **pitchers,** as it can be placed in another receptacle.
+
+> **Hebrew/Aramaic:** אֶלָּא, הָכָא בְּמַאי עָסְקִינַן, דַּאֲמַר לֵיהּ: עֲשָׂרָה כַּדֵּי שֶׁמֶן יֵשׁ לִי אֶצְלְךָ, וַאֲמַר לֵיהּ אִידַּךְ: שֶׁמֶן — לֹא הָיוּ דְבָרִים מֵעוֹלָם, קַנְקַנִּים נָמֵי — חַמְשָׁה אִית לָךְ, וְחַמְשָׁה לֵית לָךְ.
+> **Translation:** **Rather, here we are dealing with** a case where one **said to** another: **I have ten jugs of oil with you, and the other said to him:** With regard to the **oil, these matters never occurred;** I never borrowed oil from you. Concerning the **pitchers as well, you do have five** of them with me and these I admit I took from you, **but you do not have** the other **five** you claim.
 
 Rav Yehuda resolves the apparent contradiction by introducing a critical distinction in language. If the claimant said *melo asarah kadei shemen yesh li be-vorch* — the fill of ten jugs of oil I have in your pit — then clearly he is measuring a quantity of oil; the jugs are purely a unit of measurement and are not themselves being claimed. In that formulation, there is obviously no claim for the jugs, and conceding jugs alone is entirely irrelevant. At the other extreme, if he said *asarah kadei shemen mele'in yesh li etzlecha* — ten jugs filled with oil I have with you — then he is explicitly claiming both: the physical jugs and the oil within them. Everyone would agree that in this case, conceding five jugs would constitute *modeh be-miktzat*, because both objects were clearly claimed together as one composite demand — consistent with Rav Nachman amar Shmuel that a combined claim for two objects is treated as unified.
 
-The dispute of Admon and the *chakhamim* thus concerns only the intermediate formulation: *asarah kadei shemen yesh li etzlecha* — simply "ten jugs of oil I have with you." Is this phrasing understood to be a claim for the jugs themselves, or only for the oil?
+The dispute of Admon and the *chakhamim* thus concerns only the intermediate formulation: *asarah kadei shemen yesh li etzlecha* — simply "ten jugs of oil I have with you." Is this phrasing understood to be a claim for the jugs themselves, or only for the oil? *Chanan omer yesh ba-lashon hazeh lashon kankanin* — Admon holds that this language does implicitly include the jugs; *ve-rabbanan savri ein ba-lashon hazeh lashon kankanin* — the *chakhamim* hold that it does not. And if this is indeed the correct reading of the mishnah, the debate is not really about whether two explicitly conjoined claims can constitute *modeh be-miktzat* — on that, everyone agrees they can — but rather about whether the word "jugs" in ordinary speech carries enough independent weight to count as a claim for the jugs at all. This poses an immediate problem: the Gemara has just assumed that when both jugs and oil are explicitly claimed together and one is conceded, all parties agree there is a *shevuah* obligation. But that assumption sits in tension with the view of Rabbi Chiya bar Abba — who holds that *ta'ano chitin u-se'orin ve-hodah be-echad mehen patur*, claiming wheat and barley and conceding one of them is exempt — since on his view even an explicit joint claim amounts to two separate demands with no *modeh be-miktzat* at all. The Gemara therefore needs to explain how the mishnah's unanimous baseline case, where an explicit claim for both jugs and oil yields *chiyuv* upon concession of one, can be maintained in the face of that dissenting opinion. It is Rav Shimi bar Ashi who supplies the answer, and it turns on an analogy to *rimon bi-kelipata* — a pomegranate with its rind — a question the Gemara will resolve, and Ravina will then challenge, shortly.
 
 ### Ravina challenge
 
-> **Hebrew/Aramaic:** אֶלָּא אָמַר רָבָא: דְּכוּלֵּי עָלְמָא הֵיכָא דַּאֲמַר לֵיהּ ״מְלֹא עֲשָׂרָה כַּדֵּי שֶׁמֶן יֵשׁ לִי בְּבוֹרֶךָ״, שֶׁמֶן קָטָעֵין לֵיהּ, קַנְקַנִּים לָא קָטָעֵין לֵיהּ. ״עֲשָׂרָה כַּדֵּי שֶׁמֶן מְלֵאִים יֵשׁ לִי אֶצְלְךָ״ — שֶׁמֶן וְקַנְקַנִּים קָטָעֵין לֵיהּ.
->
-> **Translation:** **Rather, Rava said: Everyone agrees that** in a case **where he said to him: I have ten jugfuls of oil in your pit, he is claiming oil from him** and **he is not claiming pitchers from him** at all. In this case, it is clear that admitting to owing pitchers is not a partial admission whatsoever that would lead to an obligation to take an oath. Similarly, if he said to him: **I have ten full jugs of oil with you, he is claiming from him** both **oil and pitchers,** and therefore if the other party concedes to owing pitchers, this is a partial admission to the claim and everyone agrees that he must take an oath.
-
 Rava had earlier suggested a different resolution, drawing on an analogy to *rimon bi-kelipato* — a pomegranate with its rind. Even those who would ordinarily treat wheat-and-barley as two separate claims would agree that a pomegranate and its rind are one indivisible thing; conceding the rind while denying the pomegranate flesh would therefore constitute *modeh be-miktzat*. Similarly, oil within jugs might be considered one thing, not two.
-
-> **Hebrew/Aramaic:** כִּי פְּלִיגִי הֵיכָא דַּאֲמַר לֵיהּ ״עֲשָׂרָה כַּדֵּי שֶׁמֶן יֵשׁ לִי אֶצְלְךָ״. אַדְמוֹן אוֹמֵר: יֵשׁ בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים, וְרַבָּנַן סָבְרִי: אֵין בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים.
->
-> **Translation:** **When they disagree** in the mishna is in a case **where he said to him** simply: **I have ten jugs of oil with you. Admon says: This expression includes** a reference to the **pitchers,** while **the Rabbis hold** that **this expression does not include** a reference to the **pitchers.**
 
 Ravina challenges this analogy: *rimon belo kelipato lo mintar* — a pomegranate cannot be preserved without its rind; the two are physically inseparable. *Shemen mintar belo kankanin* — oil, however, can be stored and preserved without any particular jug. The oil and the jugs are not intrinsically bound to one another. They are therefore more like wheat and barley — two separate objects — than like a pomegranate and its rind, and the analogy does not hold.
 
 ### Language inclusion
 
-> **Hebrew/Aramaic:** אֶלָּא, הָכָא בְּמַאי עָסְקִינַן, דַּאֲמַר לֵיהּ: עֲשָׂרָה כַּדֵּי שֶׁמֶן יֵשׁ לִי אֶצְלְךָ, וַאֲמַר לֵיהּ אִידַּךְ: שֶׁמֶן — לֹא הָיוּ דְבָרִים מֵעוֹלָם, קַנְקַנִּים נָמֵי — חַמְשָׁה אִית לָךְ, וְחַמְשָׁה לֵית לָךְ.
->
-> **Translation:** **Rather, here we are dealing with** a case where one **said to** another: **I have ten jugs of oil with you, and the other said to him:** With regard to the **oil, these matters never occurred;** I never borrowed oil from you. Concerning the **pitchers as well, you do have five** of them with me and these I admit I took from you, **but you do not have** the other **five** you claim.
+> **Hebrew/Aramaic:** אַדְמוֹן אוֹמֵר: יֵשׁ בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים, וּמִגּוֹ דְּקָמִשְׁתְּבַע אַקַּנְקַנִּים מִשְׁתְּבַע נָמֵי אַשֶּׁמֶן עַל יְדֵי גִּלְגּוּל. וְרַבָּנַן סָבְרִי: אֵין בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים. מַה שֶּׁטְּעָנוֹ לֹא הוֹדָה לוֹ, וּמַה שֶּׁהוֹדָה לוֹ — לֹא טָעֲנוּ.
+> **Translation:** **Admon says: This expression includes** a reference to **pitchers, and since he takes an oath about the pitchers,** as he partially admitted to owing them, **he takes an oath about the oil as well, by means of an extension** of the first oath. **And the Rabbis hold** that **this expression does not include** a reference to the **pitchers,** and therefore **that which** the first person **claimed from him** the second person **did not admit to** at all, **and that which** the second person **admitted to,** the first person **had not claimed from him.** The second individual denied owing any oil, and as for his partial admission with regard to the pitchers, there was no claim about pitchers at all. Consequently, no oath is required whatsoever.
 
 The Gemara ultimately resolves the entire discussion by anchoring the debate exactly where Rav Yehuda had located it: in the question of linguistic meaning. The final formulation: the claimant said *asarah kadei shemen yesh li etzlecha* — "ten jugs of oil I have with you" — and the defendant replied: as for the oil, *lo hayu devarim me-olam* — there was never any such thing; as for the jugs, *chamishah it lach ve-chamishah leit lach* — five I owe you, five I do not.
-
-> **Hebrew/Aramaic:** אַדְמוֹן אוֹמֵר: יֵשׁ בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים, וּמִגּוֹ דְּקָמִשְׁתְּבַע אַקַּנְקַנִּים מִשְׁתְּבַע נָמֵי אַשֶּׁמֶן עַל יְדֵי גִּלְגּוּל. וְרַבָּנַן סָבְרִי: אֵין בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים. מַה שֶּׁטְּעָנוֹ לֹא הוֹדָה לוֹ, וּמַה שֶּׁהוֹדָה לוֹ — לֹא טָעֲנוּ.
->
-> **Translation:** **Admon says: This expression includes** a reference to **pitchers, and since he takes an oath about the pitchers,** as he partially admitted to owing them, **he takes an oath about the oil as well, by means of an extension** of the first oath. **And the Rabbis hold** that **this expression does not include** a reference to the **pitchers,** and therefore **that which** the first person **claimed from him** the second person **did not admit to** at all, **and that which** the second person **admitted to,** the first person **had not claimed from him.** The second individual denied owing any oil, and as for his partial admission with regard to the pitchers, there was no claim about pitchers at all. Consequently, no oath is required whatsoever.
 
 Admon's position — *yesh ba-lashon hazeh lashon kankanim* — is that the phrase "ten jugs of oil" intrinsically includes a claim for the jugs. Since the defendant conceded five jugs out of ten, he has admitted to part of a unified claim, and therefore takes a *shevuah*. Moreover, *u-migo de-kamishtava a-kankanin, mishtava nami a-shemen* — since he must take an oath regarding the jugs by force of partial admission, that oath is extended to the oil through *gilgul shevuah*: once an oath is obligated on one component of a claim, it rolls onto the related component as well.
 

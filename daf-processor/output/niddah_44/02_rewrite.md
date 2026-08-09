@@ -196,7 +196,7 @@ The *Gemara* concludes: *ve-hilkheta ke-khol hanei lishnei be-Mar bar Rav Yosef 
 
 ### Murder Threshold
 
-The *mishna* states *ve-hargo chayav* — only once the child is born does killing him constitute murder. A *pasuk* confirms this: *ve-ish ki yakkeh kol nefesh* — if a man strikes any soul. The phrase *kol nefesh* — any soul — teaches that even an infant is included; the *chiddush* of the *mishna* is not the birth requirement per se but that even a newborn counts as a full life for the purposes of murder. The birth requirement emerges as the other side of the same coin.
+The *mishna* establishes that killing a child constitutes murder only once the child is already born — abortion is a separate matter. Rav Moshe, it should be noted, considers abortion to be
 
 ## Fetal Viability & Death
 

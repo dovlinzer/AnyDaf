@@ -29,8 +29,8 @@
           "timestamp": "05:33"
         }
       ],
-      "sefaria_index": 4,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Dispute Over a Garment's Price and the Question of When a Craftsman Is Believed",
@@ -188,7 +188,7 @@
           "timestamp": "54:50"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 16,
       "matched": true
     }
   ],
@@ -376,5 +376,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "30:00",
+  "amud_b_micro_title": "Proving Possession",
+  "shiur_start_daf": 45,
+  "shiur_start_amud": "b"
 }

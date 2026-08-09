@@ -1,0 +1,311 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Bat Kohen Laws",
+    "candidates": [
+      "Evidence Framework",
+      "Tosafot Nuance",
+      "Ezra Narrative",
+      "Chazaka Concept",
+      "Verse Analysis",
+      "Bat Kohen Laws",
+      "Baraita Chazaka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's answer about what the verse means \u2014 explaining exclusion from things called 'kodesh' (terumah) and things called 'kodashim' (muram min hakodashim) \u2014 which is precisely what the 'Verse Analysis' section's prose describes, including the hachi ka'amar formulation and the bat kohen verse citation.",
+      "chosen_heading": "Verse Analysis",
+      "current_heading": "Bat Kohen Laws",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Baraita Chazaka",
+    "candidates": [
+      "Bat Kohen Laws",
+      "Baraita Chazaka",
+      "Evidence Hierarchy",
+      "Challah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about chazaka l'kehuna through nesi'at kapayim in Babylonia, challah in Syria, and distributing matanot in cities, then raises whether it establishes status for yuchsin or only terumah \u2014 which matches exactly the content described in the 'Baraita Chazaka' section's prose.",
+      "chosen_heading": "Baraita Chazaka",
+      "current_heading": "Baraita Chazaka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Challah Status",
+    "candidates": [
+      "Evidence Hierarchy",
+      "Challah Status",
+      "Babel vs Syria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the argument that challah derabbanan can establish presumptive status for terumah de'oraita, invoking Rav Huna son of Rav Yehoshua's reversal of the rabbis' positions \u2014 which matches precisely the 'Challah Status' prose where it currently sits.",
+      "chosen_heading": "Challah Status",
+      "current_heading": "Challah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Babel vs Syria",
+    "candidates": [
+      "Babel vs Syria",
+      "Shlichei Role",
+      "Alexandria Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the second baraita discussed in 'Babel vs Syria' prose, which describes the distinction between Eretz Yisrael, Surya, and places reached by shlichei Rosh Chodesh regarding nesi'at kapayim and chiluk granos as evidence for chazaka l'kehuna.",
+      "chosen_heading": "Babel vs Syria",
+      "current_heading": "Babel vs Syria",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Alexandria Case",
+    "candidates": [
+      "Shlichei Role",
+      "Alexandria Case",
+      "Challah D'Oraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Babylonia's status like Syria and Rabban Shimon ben Gamliel's ruling about Alexandria having a permanent court \u2014 exactly the content described in the 'Alexandria Case' prose section.",
+      "chosen_heading": "Alexandria Case",
+      "current_heading": "Alexandria Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Challah D'Oraita",
+    "candidates": [
+      "Challah D'Oraita",
+      "Rav Huna's View",
+      "Bvoachem Drasha",
+      "Ezra Return",
+      "Competing Frameworks"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Challah D'Oraita",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the initial argument that challah is de'oraita and terumah is derabbanan, matching heading 0's prose about the rabbis' position that challah was obligatory from entry while terumah required settlement.",
+      "second_heading": "Rav Huna's View",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav Huna's counter-argument using the b'voachem drasha and the Ezra narrative to show challah is actually derabbanan, matching heading 1's prose about Rav Huna reversing the analysis, with items 3-4 being the actual content of his proof.",
+      "current_heading": "Challah D'Oraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Competing Frameworks",
+    "candidates": [
+      "Rav Huna's View",
+      "Bvoachem Drasha",
+      "Ezra Return",
+      "Competing Frameworks",
+      "Rabbi Ami Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses testimony and presumptive status (chazaka) for priesthood established by nesi'at kapayim, which directly connects to the Rabbi Ami story section about establishing a chazaka for kehuna through synagogue practice.",
+      "chosen_heading": "Rabbi Ami Story",
+      "current_heading": "Competing Frameworks",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Rabbi Ami Story",
+    "candidates": [
+      "Competing Frameworks",
+      "Rabbi Ami Story",
+      "Levi Aliyah Rules",
+      "Aliyah Purpose",
+      "Edus Achazaka",
+      "Rabbi Yehoshua Case",
+      "Reish Lakish Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Ami Story",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Rabbi Ami story about establishing priestly status via a first aliya followed by a Levite reading second, which matches exactly the 'Rabbi Ami Story' prose describing this precise scenario.",
+      "second_heading": "Rabbi Yehoshua Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the parallel Rabbi Yehoshua ben Levi case about establishing Levite status via a second aliya preceded by a kohen, which matches exactly the 'Rabbi Yehoshua Case' prose describing this precise parallel scenario.",
+      "current_heading": "Rabbi Ami Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Reish Lakish Debate",
+    "candidates": [
+      "Levi Aliyah Rules",
+      "Aliyah Purpose",
+      "Edus Achazaka",
+      "Rabbi Yehoshua Case",
+      "Reish Lakish Debate",
+      "No Goren Issue",
+      "Reish Lakish Embarrassed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes the exact case before Reish Lakish where someone testifies about a first aliya and Reish Lakish demands threshing-floor evidence, with Rabbi Elazar's rejoinder \u2014 precisely what the prose of 'Reish Lakish Debate' describes.",
+      "chosen_heading": "Reish Lakish Debate",
+      "current_heading": "Reish Lakish Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Reish Lakish Embarrassed",
+    "candidates": [
+      "No Goren Issue",
+      "Reish Lakish Embarrassed",
+      "Father's Testimony"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Reish Lakish Embarrassed",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the exact episode of Reish Lakish's embarrassment before Rabbi Yochanan \u2014 the same scene the prose of heading 1 ('Reish Lakish Embarrassed') narrates in detail, including the bar Nafcha exchange.",
+      "second_heading": "Father's Testimony",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces an entirely new topic \u2014 Rabbi and Rabbi Chiyya accepting family testimony to establish kehuna/leviya \u2014 which is precisely what heading 2 ('Father's Testimony') discusses as a distinct evidentiary framework.",
+      "current_heading": "Reish Lakish Embarrassed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Father's Testimony",
+    "candidates": [
+      "Father's Testimony",
+      "Rabbi Chiyya's View",
+      "Father's Control"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi's position (son believed for teruma but not yuchsin) and Rabbi Chiyya's challenge, which together constitute the content described in the 'Father's Testimony' section's prose, which explicitly summarizes both positions as part of the same baraita discussion.",
+      "chosen_heading": "Father's Testimony",
+      "current_heading": "Father's Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Father's Control",
+    "candidates": [
+      "Rabbi Chiyya's View",
+      "Father's Control",
+      "Brother vs Father"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rabbi Yehuda HaNasi's response articulating the 'beyado' (within his purview) reasoning \u2014 distinguishing teruma from marriage based on the father's control \u2014 which is precisely what the 'Father's Control' section's prose describes.",
+      "chosen_heading": "Father's Control",
+      "current_heading": "Father's Control",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Brother vs Father",
+    "candidates": [
+      "Brother vs Father",
+      "Yochanan Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses the Gemara's question about why Rabbi \u1e24iyya accepts brother testimony but not father testimony, which is precisely what the 'Brother vs Father' section prose discusses.",
+      "chosen_heading": "Brother vs Father",
+      "current_heading": "Brother vs Father",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Yochanan Story",
+    "candidates": [
+      "Yochanan Story",
+      "Innocent Speech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the story of Rav Yehuda/Shmuel about the person speaking offhandedly who remembered being immersed to eat teruma, which is precisely what the 'Yochanan Story' prose describes in detail.",
+      "chosen_heading": "Yochanan Story",
+      "current_heading": "Yochanan Story",
+      "moved": false
+    }
+  }
+]

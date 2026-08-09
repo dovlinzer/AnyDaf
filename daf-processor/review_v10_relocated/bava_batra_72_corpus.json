@@ -1,0 +1,247 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "R. Shimon Position",
+    "candidates": [
+      "Rav Huna's Claim",
+      "Be'ayin Ra'ah vs Yafah",
+      "Hekdesh & Field",
+      "R. Shimon Position",
+      "Rav Huna Limited",
+      "Contradiction Posed",
+      "Baraita on Distribution",
+      "Distribution Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items discuss the resolution that Rav Huna's statement applies only according to the Rabbanan (not Rabbi Akiva), and the practical difference this creates \u2014 which is precisely what candidate 4 ('Rav Huna Limited') describes.",
+      "chosen_heading": "Rav Huna Limited",
+      "current_heading": "R. Shimon Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Distribution Rules",
+    "candidates": [
+      "Rav Huna Limited",
+      "Contradiction Posed",
+      "Baraita on Distribution",
+      "Distribution Rules",
+      "Improper Distribution",
+      "Fixed vs Market"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge to placing Rabbi Shimon with Rabbi Akiva, introducing the baraita about consecrating three trees at ten-per-beit-se'ah density \u2014 exactly what candidate 2 ('Baraita on Distribution') describes as its content.",
+      "chosen_heading": "Baraita on Distribution",
+      "current_heading": "Distribution Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Fixed vs Market",
+    "candidates": [
+      "Improper Distribution",
+      "Fixed vs Market",
+      "Who Is the Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the redemption rules when trees and land are sanctified separately \u2014 trees redeemed at market value and land at the fixed Torah rate \u2014 which is precisely what the 'Fixed vs Market' section's prose discusses, including the specific case of sanctifying trees first then land separately.",
+      "chosen_heading": "Fixed vs Market",
+      "current_heading": "Fixed vs Market",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Who Is the Baraita",
+    "candidates": [
+      "Who Is the Baraita",
+      "Proof R. Shimon",
+      "Contradiction Stated",
+      "R. Shimon Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the continuous Gemara dialectic asking whose opinion the baraita represents, concluding it is Rabbi Shimon, then asking which Rabbanan/Akiva framework Rabbi Shimon follows \u2014 exactly the content described in the 'Who Is the Baraita' prose.",
+      "chosen_heading": "Who Is the Baraita",
+      "current_heading": "Who Is the Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "R. Shimon Resolution",
+    "candidates": [
+      "Proof R. Shimon",
+      "Contradiction Stated",
+      "R. Shimon Resolution",
+      "Two-Stage Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the resolution of the contradiction: item 1 restates the difficulty (the 'yonkim' problem) and item 2 gives the Gemara's answer that Rabbi Shimon was arguing l'divreihem de'Rabbanan, which is precisely what the 'R. Shimon Resolution' prose describes.",
+      "chosen_heading": "R. Shimon Resolution",
+      "current_heading": "R. Shimon Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Two-Stage Problem",
+    "candidates": [
+      "Two-Stage Problem",
+      "Baraita Scenario",
+      "R. Yehuda R. Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge against interpreting the baraita as Rabbi Shimon, citing the last clause about two-stage sanctification producing two separate redemptions \u2014 which is precisely the 'Two-Stage Problem' the prose under heading 0 describes.",
+      "chosen_heading": "Two-Stage Problem",
+      "current_heading": "Two-Stage Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "R. Yehuda R. Shimon",
+    "candidates": [
+      "Baraita Scenario",
+      "R. Yehuda R. Shimon",
+      "Rabbi Meir"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita Scenario",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge/question ('if Rabbi Shimon follows the time of redemption, why not redeem trees with the land?') which sets up the proof from the baraita \u2014 it belongs under 'Baraita Scenario' which introduces that very proof.",
+      "second_heading": "R. Yehuda R. Shimon",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita text itself (from where is it derived that one who purchases from his father...) which is precisely what the 'R. Yehuda R. Shimon' prose section discusses and analyzes in detail.",
+      "current_heading": "R. Yehuda R. Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Rabbi Meir",
+    "candidates": [
+      "Rabbi Meir",
+      "Textual Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Meir's position (item 1) and the contrast with Rabbi Yehuda and Rabbi Shimon regarding when a verse is needed (item 2), which is precisely what the 'Rabbi Meir' prose section describes.",
+      "chosen_heading": "Rabbi Meir",
+      "current_heading": "Rabbi Meir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Textual Reading",
+    "candidates": [
+      "Textual Reading",
+      "General Principle",
+      "Text Compels",
+      "Carob Sycamore"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Textual Reading",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge asking whether Rabbi Yehuda and Rabbi Shimon's reading is driven by a general principle of following pidyon, which matches heading 0's prose about how the exegetical choice is downstream of conceptual commitment and why a verse is needed.",
+      "second_heading": "Text Compels",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman bar Yitzchak's answer that their ruling is locally text-compelled (not a general principle), with the specific argument about the mem in mi-sdeh achuzato, which matches heading 2's prose precisely.",
+      "current_heading": "Textual Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Carob Sycamore",
+    "candidates": [
+      "General Principle",
+      "Text Compels",
+      "Carob Sycamore",
+      "Large Sheaf",
+      "Shikhchah Laws"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rav Huna's ruling about the grafted carob and sycamore trunk having dual status of tree and land, which is precisely what the 'Carob Sycamore' section's prose describes.",
+      "chosen_heading": "Carob Sycamore",
+      "current_heading": "Carob Sycamore",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Shikhchah Laws",
+    "candidates": [
+      "Large Sheaf",
+      "Shikhchah Laws",
+      "Source Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav Huna's ruling about the dual status of a two-se'ah sheaf, which is precisely what the 'Large Sheaf' prose introduces, while the 'Shikhchah Laws' section is the author's own explanatory prose elaborating on the practical implications \u2014 the quoted Talmudic text belongs under the heading that introduces the ruling itself.",
+      "chosen_heading": "Large Sheaf",
+      "current_heading": "Shikhchah Laws",
+      "moved": true
+    }
+  }
+]

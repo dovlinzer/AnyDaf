@@ -1,0 +1,253 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Rava's Vessel Rule",
+    "candidates": [
+      "Rava's Vessel Rule",
+      "Revi'is & Remnant"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Rava's Vessel Rule",
+      "current_heading": "Rava's Vessel Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Revi'is & Remnant",
+    "candidates": [
+      "Revi'is & Remnant",
+      "Rav Sheshes' Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the lo kashya resolution and the baraita about mei revi'is for one and two people, which is precisely what Candidate 0's prose describes and analyzes.",
+      "chosen_heading": "Revi'is & Remnant",
+      "current_heading": "Revi'is & Remnant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Rav Sheshes' Questions",
+    "candidates": [
+      "Rav Sheshes' Questions",
+      "Standard Measures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Sheshet's questions to Ameimar, the alternative version of the exchange, and the Gemara's rejection of the baraita as proof \u2014 are precisely what the prose of candidate 0 ('Rav Sheshes' Questions') describes in detail.",
+      "chosen_heading": "Rav Sheshes' Questions",
+      "current_heading": "Rav Sheshes' Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Standard Measures",
+    "candidates": [
+      "Standard Measures",
+      "Acceptable Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Ya'akov and Rav Ashi establishing standard vessels of a quarter-log capacity, which matches exactly what the 'Standard Measures' prose discusses about communal reference vessels for netilas yadayim.",
+      "chosen_heading": "Standard Measures",
+      "current_heading": "Standard Measures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Acceptable Vessels",
+    "candidates": [
+      "Acceptable Vessels",
+      "Disqualified Items",
+      "Wrapping Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both acceptable vessels (barrel stopper, \u1e25emet, kefisha) and disqualified items (sack and basket) in one continuous Gemara unit, and the current heading 'Acceptable Vessels' with its prose about Rava's teaching on barrel stoppers and flasks is the best match for the whole passage as a unit, since the essay separates the disqualified items into a separate prose section but the Talmudic text presents them together.",
+      "chosen_heading": "Acceptable Vessels",
+      "current_heading": "Acceptable Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Wrapping Question",
+    "candidates": [
+      "Disqualified Items",
+      "Wrapping Question",
+      "Rabbi Tzaddok Case",
+      "Size vs Wrapping",
+      "Kabeitzah Measure",
+      "Kezayit Ruling",
+      "Practical Halacha",
+      "Rav & Shmuel Case",
+      "Rabbi Zeira's Finding",
+      "Wrapping Terumah",
+      "Being Fed",
+      "Rav Hamnuna Case",
+      "Waiter Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the initial dilemma about eating with a mappa (cloth) and whether we are concerned about inadvertent touching, which is precisely what the 'Wrapping Question' section's prose describes as its topic.",
+      "chosen_heading": "Wrapping Question",
+      "current_heading": "Wrapping Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Waiter Rule",
+    "candidates": [
+      "Rabbi Tzaddok Case",
+      "Size vs Wrapping",
+      "Kabeitzah Measure",
+      "Kezayit Ruling",
+      "Practical Halacha",
+      "Rav & Shmuel Case",
+      "Rabbi Zeira's Finding",
+      "Wrapping Terumah",
+      "Being Fed",
+      "Rav Hamnuna Case",
+      "Waiter Rule",
+      "Shmuel's Case",
+      "Halachic Conclusion",
+      "Wrapping Meat/Cheese",
+      "Strangers Rule",
+      "Cold vs Heat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 17,
+      "first_heading": "Waiter Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u201317 form one continuous sugya about netilas yadayim covering the Rabbi Tzadok case, wrapping disputes, being fed vs feeding, and the halachic conclusion \u2014 all discussed under heading 10's prose.",
+      "second_heading": "Wrapping Meat/Cheese",
+      "second_confidence": "high",
+      "second_reason": "Item 18 is the opening Mishnah of an entirely new topic about wrapping meat and cheese together, which matches heading 13's prose about the mishnah on separating meat and milk in a cloth.",
+      "current_heading": "Waiter Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Cold vs Heat",
+    "candidates": [
+      "Shmuel's Case",
+      "Halachic Conclusion",
+      "Wrapping Meat/Cheese",
+      "Strangers Rule",
+      "Cold vs Heat",
+      "Strangers Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about cold-to-cold contact (tzonin be-tzonin) and Abaye's answer about rinsing (hadacha), which is precisely what candidate 4 'Cold vs Heat' describes in its prose.",
+      "chosen_heading": "Cold vs Heat",
+      "current_heading": "Cold vs Heat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Strangers Requirement",
+    "candidates": [
+      "Strangers Requirement",
+      "Tfisa Achat",
+      "No Distinctions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Strangers Requirement",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 (Rav \u1e24anan bar Ami's ruling and the confirming baraita about two strangers) are precisely what the 'Strangers Requirement' prose describes \u2014 Shmuel's qualification that the dispensation applies only to those who don't know each other, confirmed by the baraita of two inn-guests from north and south.",
+      "second_heading": "Tfisa Achat",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the baraita's addition about 'one parcel' and the Gemara's clarification 'as though one parcel') is exactly what the 'Tfisa Achat' prose discusses \u2014 the literal vs. functional reading of tfisa achat as a social/relational criterion.",
+      "current_heading": "Strangers Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "No Distinctions",
+    "candidates": [
+      "Tfisa Achat",
+      "No Distinctions",
+      "Separations",
+      "Table Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the continuous Gemara exchange about feuding brothers (makpidin zeh al zeh), Abaye's lo plug response invoking Baitos, and the challenge from the single-garment laundering case \u2014 exactly the content described in the 'No Distinctions' prose.",
+      "chosen_heading": "No Distinctions",
+      "current_heading": "No Distinctions",
+      "moved": false
+    }
+  }
+]

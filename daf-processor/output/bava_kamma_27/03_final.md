@@ -1,6 +1,7 @@
-# Bava Kamma 27 — Daf Yomi Shiur
-
+[DAF:26b]
 ## Overview & Structure
+
+
 
 ### Five Muadim
 
@@ -18,6 +19,8 @@ We now find ourselves in the middle of that *adam muad l'olam* discussion, which
 
 ## Adam Muad & Arba'ah
 
+
+
 ### Nezek vs. Personal Injury
 
 A foundational point was established earlier in the *sugya*: the principle of *adam muad l'olam*—that a person always pays full damages regardless of negligence or intent—applies specifically to *nezek*, to the payment for damage itself. However, the additional payments that accompany personal injury claims—*shevet*, *ripuy*, *boshet*, and *tza'ar*—do not apply at all times. The precise threshold under which those four payments are triggered was left unspecified by the *Gemara*, and that is the question we now turn to clarify.
@@ -34,25 +37,22 @@ Yesterday's discussion surveyed several scenarios that intuitively seem like sig
 
 ## Arba'ah Devarim Cases
 
+
+
 ### Vessel Throwing
 
-> **Hebrew/Aramaic:** וְאָמַר רַבָּה: זָרַק כְּלִי מֵרֹאשׁ הַגָּג, וּבָא אַחֵר וּשְׁבָרוֹ בְּמַקֵּל – פָּטוּר. מַאי טַעְמָא? מָנָא תְּבִירָא תָּבַר.
->
-> **Translation:** § Since the Gemara cited Rabba's comments about various actions for which the perpetrator is liable with regard to certain matters but exempt with regard to others, the Gemara cites similar rulings: **And Rabba says:** If one **threw a vessel,** such as an earthenware jug, **from a roof and another came** along **and broke it with a stick** during its descent, the latter is **exempt** from liability. **What is the reason?** It is because **he broke a broken vessel,** meaning that once the vessel was thrown from the roof it was clear that it would be broken upon landing, and therefore it is considered as if it were already broken and the one who broke it while it was still in the air is not liable.
+The *Gemara* opens with a series of rulings attributed to *Rava* involving objects thrown from rooftops. If one throws a vessel from a roof that was going to land on a cushion—breaking the fall—and someone removed the cushion, both parties are exempt: the thrower because it was going to land safely, and the remover of the cushion because the act was indirect. Similarly, if a vessel was thrown from a roof and was going to hit the ground, and someone broke it mid-fall, that second person is exempt because the vessel was already effectively destroyed. In each of these scenarios, the analysis of liability turns on precisely who performed the operative act of damage and whether the damage was already in motion before their intervention.
 
-> **Hebrew/Aramaic:** וְאָמַר רַבָּה: זָרַק כְּלִי מֵרֹאשׁ הַגָּג, וְהָיוּ תַּחְתָּיו כָּרִים אוֹ כְסָתוֹת; בָּא אַחֵר וְסִלְּקָן, אוֹ קָדַם [הוּא] וְסִלְּקָן – פָּטוּר. מַאי טַעְמָא? בְּעִידָּנָא דְּשַׁדְיֵיהּ – פַּסּוֹקֵי מְפַסְּקִי גִּירֵיהּ.
->
-> **Translation:** **And Rabba says:** If one **threw a vessel from a roof and there were cushions or blankets below** so that if the vessel would land on them it would not break, and then **another came and removed** the cushions or blankets, **or** if the individual who threw the vessel went quickly **before** it landed and **removed** the cushions or blankets himself, and as a result the vessel shattered, the one who threw the vessel is **exempt** from liability even though the vessel broke as a consequence of his actions. **What is the reason? At the time that he threw** the vessel, **his arrows were stopped,** i.e., what he did at the time he threw the vessel, which is an act comparable to the shooting of an arrow, did not have the capacity to break the vessel. Therefore, he is not viewed as having broken the vessel, and is exempt.
+[DAF:27a]
+### Baby & Ox: Kofer
 
 A more arresting case follows. If someone threw an infant from a rooftop and an ox gored the infant in mid-air, the question becomes whether the ox's owner owes *kofer*—the atonement payment for an ox that kills a person. This is a *plugta* between Rabbi Yishmael the son of Yochanan ben Beroka and the Rabbis, derived from the *pasuk*: *ve-natan pidyon nafsho*, "he shall give the redemption of his soul."
 
-### Baby & Ox: Kofer
-
-> **Hebrew/Aramaic:** בָּא שׁוֹר וְקִבְּלוֹ בְּקַרְנָיו – פְּלוּגְתָּא דְּרַבִּי יִשְׁמָעֵאל בְּנוֹ שֶׁל יוֹחָנָן בֶּן בְּרוֹקָא וְרַבָּנַן, דְּתַנְיָא: ״וְנָתַן פִּדְיֹן נַפְשׁוֹ״ – דְּמֵי נִיזָּק. רַבִּי יִשְׁמָעֵאל בְּנוֹ שֶׁל רַבִּי יוֹחָנָן בֶּן בְּרוֹקָא אוֹמֵר: דְּמֵי מַזִּיק.
->
-> **Translation:** The Gemara discusses a similar scenario: If one threw a child from a roof and a forewarned **ox came** along **and impaled** the child **on its horns** and the child died, the question of whether or not the owner of the ox is liable to pay ransom is dependent upon **the dispute between Rabbi Yishmael, son of** Rabbi **Yoḥanan ben Beroka, and the Rabbis. As it is taught** in a *baraita*: The verse: **"He shall give for the redemption of his life"** (Exodus 21:30), indicates that he must pay **the value of the injured** party, i.e., the one who was killed. **Rabbi Yishmael, son of Rabbi Yoḥanan ben Beroka, says:** He must pay **the value of the one responsible for the damage.** Since the child that was thrown off the roof had no monetary value at the time he was gored by the ox, as it was as if he were already dead, the Rabbis would exempt the owner of the ox from paying ransom. According to Rabbi Yishmael, son of Rabbi Yoḥanan ben Beroka, the owner of the ox must pay his own value to the family of the victim.
+> **Hebrew/Aramaic:** בָּא שׁוֹר וְקִבְּלוֹ בְּקַרְנָיו – פְּלוּגְתָּא דְּרַבִּי יִשְׁמָעֵאל בְּנוֹ שֶׁל יוֹחָנָן בֶּן בְּרוֹקָא וְרַבָּנַן, דְּתַנְיָא: ״וְנָתַן פִּדְיֹן נַפְשׁוֹ״ – דְּמֵי נִיזָּק. רַבִּי יִשְׁמָעֵאל בְּנוֹ שֶׁל רַבִּי יוֹחָנָן בֶּן בְּרוֹקָא אוֹמֵר: דְּמֵי מַזִּיק.
+> **Translation:** The Gemara discusses a similar scenario: If one threw a child from a roof and a forewarned **ox came** along **and impaled** the child **on its horns** and the child died, the question of whether or not the owner of the ox is liable to pay ransom is dependent upon **the dispute between Rabbi Yishmael, son of** Rabbi **Yoḥanan ben Beroka, and the Rabbis. As it is taught** in a *baraita*: The verse: **“He shall give for the redemption of his life”** (Exodus 21:30), indicates that he must pay **the value of the injured** party, i.e., the one who was killed. **Rabbi Yishmael, son of Rabbi Yoḥanan ben Beroka, says:** He must pay **the value of the one responsible for the damage.** Since the child that was thrown off the roof had no monetary value at the time he was gored by the ox, as it was as if he were already dead, the Rabbis would exempt the owner of the ox from paying ransom. According to Rabbi Yishmael, son of Rabbi Yoḥanan ben Beroka, the owner of the ox must pay his own value to the family of the victim.
 
 ### Demei Dispute
+
 
 A *brayta* records the dispute: the Rabbis hold that *kofer* is assessed as *demei nizak*—the market value of the victim, assessed as one would assess a slave's worth. Rabbi Yishmael the son of Yochanan ben Beroka holds it is *demei mazik*—the value of the owner of the ox.
 
@@ -66,15 +66,14 @@ The relevance to our case is direct: an infant who has been thrown from a roofto
 
 ## Falling Person
 
+
+
 ### Erection Case
 
-> **Hebrew/Aramaic:** וְאָמַר רַבָּה: נָפַל מֵרֹאשׁ הַגָּג וְנִתְקַע בְּאִשָּׁה – חַיָּיב בְּאַרְבָּעָה דְּבָרִים. וּבִיבִמְתּוֹ – לֹא קָנָה.
->
+> **Hebrew/Aramaic:** וְאָמַר רַבָּה: נָפַל מֵרֹאשׁ הַגָּג וְנִתְקַע בְּאִשָּׁה – חַיָּיב בְּאַרְבָּעָה דְּבָרִים. וּבִיבִמְתּוֹ – לֹא קָנָה.
 > **Translation:** § **Rabba says** another similar *halakha*: If a man **fell from a roof and** while falling **was inserted into a woman** due to the force of the fall, but he did not have the intention to engage in sexual intercourse, he is **liable to** pay **the four types of indemnity. And if** this woman was **his *yevama*** waiting for him to perform levirate marriage, **he has not acquired** her as his wife through this act of intercourse. This is true even though a levirate marriage is ordinarily effected through sexual intercourse, even if unintentional, i.e., if he thought she was someone else. Nevertheless, since in this case he did not intend to engage in intercourse at all, the levirate marriage is not effected.
 
-> **Hebrew/Aramaic:** חַיָּיב בְּנֶזֶק, בְּצַעַר, בְּרִיפּוּי, בְּשֶׁבֶת. אֲבָל בּשֶׁת – לָא, דִּתְנַן: אֵינוֹ חַיָּיב עַל הַבֹּשֶׁת עַד שֶׁיְּהֵא מִתְכַּוֵּין.
->
-> **Translation:** The Gemara explains: What are the four types of indemnity that he is liable to pay? **He is liable** to pay **for the damage, for the pain, for the medical costs,** and **for the loss of livelihood. But** he is **not** liable to pay compensation for **humiliation, as we learned** in a mishna (86a): **One is not liable** to pay compensation **for humiliation unless he intends** to humiliate the injured party, and that was certainly not the case in this situation.
+*Rava* now raises the case that, in pedagogical settings, is difficult to forget. A person falls from a rooftop and, in the course of the fall, happens to have an erection and winds up penetrating a woman below. *Chayav be-arba'ah devarim*—he is liable for four of the five payments: *nezek*, *tza'ar*, *ripuy*, and *shevet*. But, the *Gemara* adds, *u-ve-viah lo kanah*—the act of penetration does not constitute a halachically valid act of intercourse, and therefore if the woman were his *yevamah*, a brother's widow requiring *yibum*, this incident would not fulfill that obligation.
 
 The *Gemara* thus presents a double result. On the one hand, the man is *chayav* for *arba'ah devarim*. On the other, the act is not legally cognizable as an act of intercourse. The *Gemara* is explicit that *boshet* is not included—*eino chayav al ha-boshet ad she-mitkavein*—because *boshet* requires actual intention, and as we are about to see, even the degree of negligence sufficient for the other four payments does not suffice for *boshet*.
 
@@ -98,17 +97,21 @@ The explanation thus rests entirely on *ruach metzuyah*—the predictability of 
 
 ## Boshet Payments
 
+
+
 ### Boshet Intent
 
-> **Hebrew/Aramaic:** וְאָמַר רַבָּה: נָפַל מֵרֹאשׁ הַגָּג בְּרוּחַ שֶׁאֵינָהּ מְצוּיָה, וְהִזִּיק וּבִיֵּישׁ – חַיָּיב עַל הַנֶּזֶק, וּפָטוּר בְּאַרְבָּעָה דְּבָרִים. בְּרוּחַ מְצוּיָה, וְהִזִּיק וּבִיֵּישׁ – חַיָּיב בְּאַרְבָּעָה דְּבָרִים, וּפָטוּר עַל הַבֹּשֶׁת. וְאִם נִתְהַפֵּךְ – חַיָּיב אַף עַל הַבֹּשֶׁת.
->
-> **Translation:** **And Rabba says** another, similar *halakha*: If one **fell from a roof due to an atypical wind,** such that it could not have been anticipated in advance that he would fall, **and** while falling **he caused damage and humiliated** the injured party, he is **liable for the damage** but **exempt from** paying **the four types of indemnity,** as he did not intend to fall. If he fell **due to a typical wind and caused damage and humiliated** the injured party while falling, he is **liable to** pay **the four types of indemnity,** as his fall was caused by negligence. **But** he is nevertheless **exempt from** paying compensation for **humiliation,** as he did not intend to fall. **But if he tumbled** while falling so he could fall on this person in order to protect himself from the impact with the ground, he is **liable** to pay compensation **for humiliation as well,** because although he did not intend to cause shame he did intend to land on the person.
+> **Hebrew/Aramaic:** חַיָּיב בְּנֶזֶק, בְּצַעַר, בְּרִיפּוּי, בְּשֶׁבֶת. אֲבָל בּשֶׁת – לָא, דִּתְנַן: אֵינוֹ חַיָּיב עַל הַבֹּשֶׁת עַד שֶׁיְּהֵא מִתְכַּוֵּין.
+> **Translation:** The Gemara explains: What are the four types of indemnity that he is liable to pay? **He is liable** to pay **for the damage, for the pain, for the medical costs,** and **for the loss of livelihood. But** he is **not** liable to pay compensation for **humiliation, as we learned** in a mishna (86a): **One is not liable** to pay compensation **for humiliation unless he intends** to humiliate the injured party, and that was certainly not the case in this situation.
 
 Having established the threshold for the four payments of *shevet*, *ripuy*, *tza'ar*, and *nezek*, the *Gemara* now turns to the distinct standard applicable to *boshet*. The *mishna* states explicitly: *eino chayav al ha-boshet ad she-mitkavein*—one is not liable for the embarrassment payment unless one actually intends it. Negligence, even gross negligence, is not sufficient.
 
 ### Unexpected Wind
 
-The case of one who falls from a roof due to an unexpected wind—*ruach she'eina metzuyah*—and in falling damages and embarrasses someone below: he is *chayav* only for *nezek*, by virtue of *adam muad l'olam*, and exempt from the *arba'ah devarim* entirely, because a *ruach she'eina metzuyah* does not rise to *peshia*.
+*Rava* presents a series of cases that map the boundaries precisely. If a person falls from a roof due to an unexpected wind—*ruach she'eina metzuyah*—and in falling damages and embarrasses someone below, he is *chayav* only for *nezek*, by virtue of *adam muad l'olam*, and exempt from the *arba'ah devarim* entirely, because a *ruach she'eina metzuyah* does not rise to *peshia*.
+
+> **Hebrew/Aramaic:** וְאָמַר רַבָּה: נָפַל מֵרֹאשׁ הַגָּג בְּרוּחַ שֶׁאֵינָהּ מְצוּיָה, וְהִזִּיק וּבִיֵּישׁ – חַיָּיב עַל הַנֶּזֶק, וּפָטוּר בְּאַרְבָּעָה דְּבָרִים. בְּרוּחַ מְצוּיָה, וְהִזִּיק וּבִיֵּישׁ – חַיָּיב בְּאַרְבָּעָה דְּבָרִים, וּפָטוּר עַל הַבֹּשֶׁת. וְאִם נִתְהַפֵּךְ – חַיָּיב אַף עַל הַבֹּשֶׁת.
+> **Translation:** **And Rabba says** another, similar *halakha*: If one **fell from a roof due to an atypical wind,** such that it could not have been anticipated in advance that he would fall, **and** while falling **he caused damage and humiliated** the injured party, he is **liable for the damage** but **exempt from** paying **the four types of indemnity,** as he did not intend to fall. If he fell **due to a typical wind and caused damage and humiliated** the injured party while falling, he is **liable to** pay **the four types of indemnity,** as his fall was caused by negligence. **But** he is nevertheless **exempt from** paying compensation for **humiliation,** as he did not intend to fall. **But if he tumbled** while falling so he could fall on this person in order to protect himself from the impact with the ground, he is **liable** to pay compensation **for humiliation as well,** because although he did not intend to cause shame he did intend to land on the person.
 
 ### Expected Wind
 
@@ -116,9 +119,6 @@ If the wind was expected—*ruach metzuyah*—and he damaged and embarrassed som
 
 ### Flipping Midair
 
-> **Hebrew/Aramaic:** דְּתַנְיָא: מִמַּשְׁמָע שֶׁנֶּאֱמַר ״וְשָׁלְחָה יָדָהּ״ – אֵינִי יוֹדֵעַ שֶׁהֶחֱזִיקָה?! מָה תַּלְמוּד לוֹמַר ״וְהֶחֱזִיקָה״? לוֹמַר לְךָ: כֵּיוָן שֶׁנִּתְכַּוֵּין לְהַזִּיק – אַף עַל פִּי שֶׁלֹּא נִתְכַּוֵּין לְבַיֵּישׁ.
->
-> **Translation:** The *halakha* that one is exempt from paying compensation for humiliation unless he intended to strike his victim is **as it is taught** in a *baraita*: **From the fact that it is stated: "And she extended her hand"** (Deuteronomy 25:11), **do I not know that she took** hold of something? Consequently, **what** is the meaning when further on in **the verse** it **states: "And she took** him by his genitals"? It is **to teach you that one who intends to cause damage, even if he does not intend to humiliate** the injured party, is nevertheless liable to pay compensation for humiliation.
 
 The case then grows more interesting: *nithapeich chayav af al ha-boshet*—if the falling person deliberately flipped in midair, he is liable even for *boshet*. Rashi explains that the man turned himself so as to land on the person below rather than on the hard ground, preferring to break his fall at the other person's expense.
 
@@ -126,7 +126,10 @@ This is a remarkable *chiddush* on two levels. First, the man has no ill will to
 
 ### Woman Intervening
 
-The supporting *brayta* derives from the doubled language of the verse—*v'shalcha yada v'hechezika*—the principle that *keivan she-nitkavein le-hazik, af al pi she-lo nitkavein le-vayeish*: once a person intends to cause injury, even without any specific intent to embarrass, liability for *boshet* follows.
+> **Hebrew/Aramaic:** דְּתַנְיָא: מִמַּשְׁמָע שֶׁנֶּאֱמַר ״וְשָׁלְחָה יָדָהּ״ – אֵינִי יוֹדֵעַ שֶׁהֶחֱזִיקָה?! מָה תַּלְמוּד לוֹמַר ״וְהֶחֱזִיקָה״? לוֹמַר לְךָ: כֵּיוָן שֶׁנִּתְכַּוֵּין לְהַזִּיק – אַף עַל פִּי שֶׁלֹּא נִתְכַּוֵּין לְבַיֵּישׁ.
+> **Translation:** The *halakha* that one is exempt from paying compensation for humiliation unless he intended to strike his victim is **as it is taught** in a *baraita*: **From the fact that it is stated: “And she extended her hand”** (Deuteronomy 25:11), **do I not know that she took** hold of something? Consequently, **what** is the meaning when further on in **the verse** it **states: “And she took** him by his genitals”? It is **to teach you that one who intends to cause damage, even if he does not intend to humiliate** the injured party, is nevertheless liable to pay compensation for humiliation.
+
+The *Gemara* cites the *pasuk* concerning a woman who intervenes in a fight between her husband and another man and grabs the other man improperly—for which the Torah prescribes that her hand be cut off, understood by the Rabbis as an obligation to pay *boshet*. The *brayta* derives from the doubled language of the verse—*v'shalcha yada v'hechezika*—the principle that *keivan she-nitkavein le-hazik, af al pi she-lo nitkavein le-vayeish*: once a person intends to cause injury, even without any specific intent to embarrass, liability for *boshet* follows.
 
 The levels can now be stated precisely. *Nezek* applies even in cases of complete *ones*. *Shevet*, *ripuy*, and *tza'ar* require *peshia*—the gross negligence associated with *ruach metzuyah*. *Boshet* requires *kavana le-hazik*—intent to cause harm—but not *kavana le-vayeish*, intent to cause embarrassment specifically. And the *chiddush* of the midair-flipping case is that deliberately performing an act one knows will likely cause injury to another constitutes *kavana le-hazik*, even when the motivation is entirely self-interested and even when one would prefer not to injure the other person at all.
 
@@ -134,21 +137,21 @@ The levels can now be stated precisely. *Nezek* applies even in cases of complet
 
 ## Coal on Heart
 
+
+
 ### Heart vs. Garment
 
-> **Hebrew/Aramaic:** וְאָמַר רַבָּה: הִנִּיחַ לוֹ גַּחֶלֶת עַל לִבּוֹ, וָמֵת – פָּטוּר. עַל בִּגְדּוֹ, וְנִשְׂרַף – חַיָּיב.
->
-> **Translation:** **And Rabba says:** If one **placed** a hot **coal over another's heart and** the latter was burnt and **died,** the one who placed the coal is **exempt** because the victim should have removed the coal from himself, and the one who placed it there did not need to assume that the victim might not remove it. If he placed the coal **on** the other's **garment and** the garment **was burnt,** he is **liable** to pay for the damage, as it is possible that the one whose garment was burnt thought to sue the one who placed the coal on his clothes for the cost of the garment, and that is why he did not bother to remove it.
-
-*Rava* now raises the case that, in pedagogical settings, is difficult to forget. A person falls from a rooftop and, in the course of the fall, happens to have an erection and winds up penetrating a woman below. The *Gemara* thus presents a double result. On the one hand, the man is *chayav* for *arba'ah devarim*. On the other, the act is not legally cognizable as an act of intercourse.
+> **Hebrew/Aramaic:** וְאָמַר רַבָּה: הִנִּיחַ לוֹ גַּחֶלֶת עַל לִבּוֹ, וָמֵת – פָּטוּר. עַל בִּגְדּוֹ, וְנִשְׂרַף – חַיָּיב.
+> **Translation:** **And Rabba says:** If one **placed** a hot **coal over another’s heart and** the latter was burnt and **died,** the one who placed the coal is **exempt** because the victim should have removed the coal from himself, and the one who placed it there did not need to assume that the victim might not remove it. If he placed the coal **on** the other’s **garment and** the garment **was burnt,** he is **liable** to pay for the damage, as it is possible that the one whose garment was burnt thought to sue the one who placed the coal on his clothes for the cost of the garment, and that is why he did not bother to remove it.
 
 *Rava* presents a pair of cases that establish a fundamental distinction. If someone places a burning coal on another person's heart and the person dies, the one who placed it is exempt—from both murder liability and possibly from the *galus* obligation. If someone places a burning coal on another person's garment and the garment burns, the one who placed it is liable.
 
+The *chiddush* of the garment case is worth pausing on. One might have thought that since the victim could have removed the coal themselves, the *mazik* could deflect responsibility—the victim, after all, had the ability to prevent the damage and chose not to act. The *gemara* rejects this reasoning: a person is entitled to stand back, allow the damage to occur, and simply demand reimbursement. The victim's failure to intervene does not sever the causal chain or absolve the one who placed the coal. The logic runs in a precise asymmetry with the heart case: there, the victim's failure to remove a coal from their own body, when they could have, does revert responsibility to them—a point the *gemara* will ground in an established *mishnah* shortly. Here, where the damage is to property rather than to the person's own body, no such assumption of self-preservation is available, and the *mazik* remains fully liable.
+
 ### Self-Rescue
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: תַּרְוַיְיהוּ תְּנַנְהִי. עַל לִבּוֹ – דִּתְנַן: כָּבַשׁ עָלָיו לְתוֹךְ הָאוּר אוֹ לְתוֹךְ הַמַּיִם, וְאֵינוֹ יָכוֹל לַעֲלוֹת מִשָּׁם, וָמֵת – חַיָּיב. דְּחָפוֹ לְתוֹךְ הָאוּר אוֹ לְתוֹךְ הַמַּיִם, וְיָכוֹל לַעֲלוֹת מִשָּׁם, וָמֵת – פָּטוּר.
->
-> **Translation:** **Rava said: We have learned both** of these rulings through intimation in *mishnayot* elsewhere. With regard to the case of the coal placed **over his heart,** the *halakha* is **as we learned** in a mishna (*Sanhedrin* 76b): If one **held another in a fire or in water, and** the victim **is unable to extricate himself from there and he dies** as a result, the one who attacked him is **liable** to receive the death penalty as a murderer. If he **pushed him into fire or into the water, and** the victim **is able to extricate himself from there but he dies** anyway, the one who attacked him is **exempt** from the death penalty. The case of one who places a coal on another's chest is similar to the one where he pushes the victim into the fire or the water in a situation where the victim has the ability to escape.
+> **Hebrew/Aramaic:** אָמַר רָבָא: תַּרְוַיְיהוּ תְּנַנְהִי. עַל לִבּוֹ – דִּתְנַן: כָּבַשׁ עָלָיו לְתוֹךְ הָאוּר אוֹ לְתוֹךְ הַמַּיִם, וְאֵינוֹ יָכוֹל לַעֲלוֹת מִשָּׁם, וָמֵת – חַיָּיב. דְּחָפוֹ לְתוֹךְ הָאוּר אוֹ לְתוֹךְ הַמַּיִם, וְיָכוֹל לַעֲלוֹת מִשָּׁם, וָמֵת – פָּטוּר.
+> **Translation:** **Rava said: We have learned both** of these rulings through intimation in *mishnayot* elsewhere. With regard to the case of the coal placed **over his heart,** the *halakha* is **as we learned** in a mishna (*Sanhedrin* 76b): If one **held another in a fire or in water, and** the victim **is unable to extricate himself from there and he dies** as a result, the one who attacked him is **liable** to receive the death penalty as a murderer. If he **pushed him into fire or into the water, and** the victim **is able to extricate himself from there but he dies** anyway, the one who attacked him is **exempt** from the death penalty. The case of one who places a coal on another’s chest is similar to the one where he pushes the victim into the fire or the water in a situation where the victim has the ability to escape.
 
 The logic of the first case rests on a foundational assumption: a person will always act to save their own life. It follows that if the person on whose heart the coal was placed did nothing to remove it, they effectively brought the death upon themselves. The *mazik* cannot be held responsible for a consequence the victim could and should have prevented.
 
@@ -156,9 +159,9 @@ The logic of the first case rests on a foundational assumption: a person will al
 
 ### Garment Tear Mishna
 
-> **Hebrew/Aramaic:** בִּגְדּוֹ – דִּתְנַן: ״קְרַע אֶת כְּסוּתִי״, ״שַׁבֵּר אֶת כַּדִּי״ – חַיָּיב. ״עַל מְנָת לִפְטוֹר״ – פָּטוּר.
->
+> **Hebrew/Aramaic:** בִּגְדּוֹ – דִּתְנַן: ״קְרַע אֶת כְּסוּתִי״, ״שַׁבֵּר אֶת כַּדִּי״ – חַיָּיב. ״עַל מְנָת לִפְטוֹר״ – פָּטוּר.
 > **Translation:** With regard to the case of one who placed a coal on **the garment** of another, it is **as we learned** in a mishna (92a): If one said to another: **Tear my garment,** or: **Break my jug,** and the other person does so, the latter is **liable** for the damage. But if one said to another: Tear my garment **on the condition that** you will be **exempt** from all liability, he is **exempt.** It is therefore clear that even when one is granted permission by the owner of an item to damage it, that does not grant him an exemption from liability for the damage caused unless that exemption was stated explicitly. Consequently, in a case where the owner did not grant permission, the one who caused the damage is certainly liable.
+
 
 The case of the coal on the garment is established by a different *mishna*: *kera k'suti shaber kadi chayav*—if someone says "tear my garment" or "break my pitcher," and you do so, you must still pay, because permission to destroy does not automatically include permission to destroy without reimbursement. Only if the owner explicitly adds *al menat liftor*—on condition that you be exempt—are you free from payment.
 
@@ -170,9 +173,8 @@ A question worth noting: the *mishna*'s ruling on the coal-on-the-heart case res
 
 ### Slave Coal
 
-> **Hebrew/Aramaic:** בָּעֵי רַבָּה: הִנִּיחַ גַּחֶלֶת עַל לֵב עַבְדּוֹ, מַהוּ? כְּגוּפוֹ דָּמֵי, אוֹ כְּמָמוֹנוֹ דָּמֵי? אִם תִּמְצָא לוֹמַר כְּגוּפוֹ דָּמֵי, שׁוֹרוֹ מַהוּ?
->
-> **Translation:** **Rabba raises a dilemma** in summation of this discussion: If **he placed a coal over the heart of** another's Canaanite **slave** and the slave died as a result, **what is** the *halakha*? Is the body of the slave **comparable to the body** of any other person and therefore the assailant would be exempt from liability, **or** is it **comparable to** other **property** owned by the master and therefore the assailant would be liable? Furthermore, **if you say** that the body of the slave is **comparable to the body** of any ordinary person, as the slave had the ability to remove the coal from himself and therefore the assailant would be exempt, **what is** the *halakha* in a case where he placed the coal on the other's **ox?**
+> **Hebrew/Aramaic:** בָּעֵי רַבָּה: הִנִּיחַ גַּחֶלֶת עַל לֵב עַבְדּוֹ, מַהוּ? כְּגוּפוֹ דָּמֵי, אוֹ כְּמָמוֹנוֹ דָּמֵי? אִם תִּמְצָא לוֹמַר כְּגוּפוֹ דָּמֵי, שׁוֹרוֹ מַהוּ?
+> **Translation:** **Rabba raises a dilemma** in summation of this discussion: If **he placed a coal over the heart of** another’s Canaanite **slave** and the slave died as a result, **what is** the *halakha*? Is the body of the slave **comparable to the body** of any other person and therefore the assailant would be exempt from liability, **or** is it **comparable to** other **property** owned by the master and therefore the assailant would be liable? Furthermore, **if you say** that the body of the slave is **comparable to the body** of any ordinary person, as the slave had the ability to remove the coal from himself and therefore the assailant would be exempt, **what is** the *halakha* in a case where he placed the coal on the other’s **ox?**
 
 *Rava* then poses a more difficult question: *hiniach gachelet al lev avdo mahu?* If someone places a coal on the heart of a bound slave—and Tosafot understands the slave to be bound, since otherwise the question is trivial—what is the rule? Is the slave treated *ke-gufo dami*, like the owner's own body, such that the owner is presumed to remove it and his failure to do so is self-inflicted loss? Or is the slave treated *ke-mamono dami*, like property, such that one might allow the slave to be destroyed with the expectation of reimbursement?
 
@@ -180,8 +182,7 @@ This question probes the deep ambiguity of slavery as a legal category. A slave 
 
 ### Ox Coal
 
-> **Hebrew/Aramaic:** הֲדַר פַּשְׁטַהּ: עַבְדּוֹ כְּגוּפוֹ, שׁוֹרוֹ כְּמָמוֹנוֹ.
->
+> **Hebrew/Aramaic:** הֲדַר פַּשְׁטַהּ: עַבְדּוֹ כְּגוּפוֹ, שׁוֹרוֹ כְּמָמוֹנוֹ.
 > **Translation:** After raising the dilemma Rabba **then resolves it:** The body of **the slave is comparable to the body** of any other person, as the slave possesses an intellect and should have the sense to remove the coal from himself, whereas **the ox is comparable to** other **property.**
 
 The *Gemara* then extends the question: if one places a coal on a bound ox, what is the rule? Even if the slave is treated like the owner's own body—since the slave is a human being—does that reasoning extend to an animal? The owner might more readily accept the destruction of the ox and seek reimbursement.
@@ -192,11 +193,16 @@ The *Gemara* then extends the question: if one places a coal on a bound ox, what
 
 ## Vessel in Street
 
+
+
 ### Public Domain Case
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הַמַּנִּיחַ אֶת הַכַּד בִּרְשׁוּת הָרַבִּים, וּבָא אַחֵר וְנִתְקַל בָּהּ וּשְׁבָרָהּ – פָּטוּר. וְאִם הוּזַּק בָּהּ – בַּעַל הֶחָבִית חַיָּיב בְּנִזְקוֹ.
->
+> **Hebrew/Aramaic:** הֲדַרַן עֲלָךְ כֵּיצַד הָרֶגֶל
+> **Translation:** We learned in the Mishnah:
+
+> **Hebrew/Aramaic:** מַתְנִי׳ הַמַּנִּיחַ אֶת הַכַּד בִּרְשׁוּת הָרַבִּים, וּבָא אַחֵר וְנִתְקַל בָּהּ וּשְׁבָרָהּ – פָּטוּר. וְאִם הוּזַּק בָּהּ – בַּעַל הֶחָבִית חַיָּיב בְּנִזְקוֹ.
 > **Translation:** MISHNA: In the case of **one who places a *kad*,** a type of vessel, **in the public domain and another** person **comes and stumbles on it and breaks it,** the other person is **exempt** from paying for what he broke. **And if** the one who stumbled **incurred damage by** it, **the owner of the *ḥavit*,** a type of vessel, **is liable** to pay restitution **for his damage.**
+
 
 With the conclusion of that discussion, the *Gemara* moves to the next *perek*. The opening *mishna* presents the following scenario: *ha-meniach et ha-kad bi-reshut ha-rabbim*—someone leaves a vessel in the public domain. Another person comes along, trips on it, and breaks it—*patur*, exempt. If, however, the person who tripped suffered injury from the fall, *ba'al ha-chavis chayav be-nizko*—the owner of the vessel must pay for the injury, because by leaving the vessel in *reshut ha-rabbim* the owner created a *bor*.
 
@@ -204,46 +210,42 @@ The structure of the ruling is thus: the one who placed the vessel is liable whe
 
 ### Adam Muad Puzzle
 
-> **Hebrew/Aramaic:** גְּמָ׳ פָּתַח בְּכַד, וְסִיֵּים בְּחָבִית!
->
-> **Translation:** GEMARA: The mishna **began** its presentation of the case **in** reference to **a *kad*,** stating: In the case of one who places a *kad*, **and ended** it **in** reference to **a *ḥavit*,** stating: The owner of the *ḥavit* is liable.
-
 We just established that *adam muad l'olam*. If a person is always liable for the damage they cause, regardless of intent or negligence, why is the person who tripped and broke the vessel exempt? The *Gemara*'s initial response—*ibay lei l'iyunei u-mezal*, he should have watched where he was going—only deepens the puzzle, because it implies that liability turns on whether one was negligent, which is precisely what *adam muad l'olam* was supposed to eliminate. We will return to this.
 
 ---
 
 ## Kad vs. Chavis
 
+
+
 ### Term Interchangeability
 
-> **Hebrew/Aramaic:** וּתְנַן נָמֵי: זֶה בָּא בְּחָבִיתוֹ וְזֶה בָּא בְּקוֹרָתוֹ, נִשְׁבְּרָה כַּדּוֹ שֶׁל זֶה בְּקוֹרָתוֹ שֶׁל זֶה – פָּטוּר. פָּתַח בְּחָבִית, וְסִיֵּים בְּכַד!
->
-> **Translation:** **And we learned** this interchanging of the words *kad* and *ḥavit* in a mishna (31b) **as well:** If two people were walking down the street, **this one coming with his *ḥavit* and that one coming with his** cross **beam,** and **this one's *kad* was broken by that one's** cross **beam,** the one holding the beam is **exempt.** Here too the mishna changed its wording, as it **began** its statement **in** reference to **a *ḥavit* and ended** it **in** reference to **a *kad*.**
+> **Hebrew/Aramaic:** גְּמָ׳ פָּתַח בְּכַד, וְסִיֵּים בְּחָבִית!
+> **Translation:** GEMARA: The mishna **began** its presentation of the case **in** reference to **a *kad*,** stating: In the case of one who places a *kad*, **and ended** it **in** reference to **a *ḥavit*,** stating: The owner of the *ḥavit* is liable.
 
-> **Hebrew/Aramaic:** וּתְנַן נָמֵי: זֶה בָּא בְּחָבִיתוֹ שֶׁל יַיִן, וְזֶה בָּא בְּכַדּוֹ שֶׁל דְּבַשׁ; נִסְדְּקָה חָבִית שֶׁל דְּבַשׁ, וְשָׁפַךְ זֶה יֵינוֹ וְהִצִּיל אֶת הַדְּבַשׁ לְתוֹכוֹ – אֵין לוֹ אֶלָּא שְׂכָרוֹ. פָּתַח בְּכַד, וְסִיֵּים בְּחָבִית!
->
+> **Hebrew/Aramaic:** וּתְנַן נָמֵי: זֶה בָּא בְּחָבִיתוֹ וְזֶה בָּא בְּקוֹרָתוֹ, נִשְׁבְּרָה כַּדּוֹ שֶׁל זֶה בְּקוֹרָתוֹ שֶׁל זֶה – פָּטוּר. פָּתַח בְּחָבִית, וְסִיֵּים בְּכַד!
+> **Translation:** **And we learned** this interchanging of the words *kad* and *ḥavit* in a mishna (31b) **as well:** If two people were walking down the street, **this one coming with his *ḥavit* and that one coming with his** cross **beam,** and **this one’s *kad* was broken by that one’s** cross **beam,** the one holding the beam is **exempt.** Here too the mishna changed its wording, as it **began** its statement **in** reference to **a *ḥavit* and ended** it **in** reference to **a *kad*.**
+
+> **Hebrew/Aramaic:** וּתְנַן נָמֵי: זֶה בָּא בְּחָבִיתוֹ שֶׁל יַיִן, וְזֶה בָּא בְּכַדּוֹ שֶׁל דְּבַשׁ; נִסְדְּקָה חָבִית שֶׁל דְּבַשׁ, וְשָׁפַךְ זֶה יֵינוֹ וְהִצִּיל אֶת הַדְּבַשׁ לְתוֹכוֹ – אֵין לוֹ אֶלָּא שְׂכָרוֹ. פָּתַח בְּכַד, וְסִיֵּים בְּחָבִית!
 > **Translation:** **And we learned** this in another mishna (115a) **as well:** If **this** person **came with his *ḥavit* of wine and that** person **came with his *kad* of honey,** and **the *ḥavit* of honey,** which is more valuable, **cracked, and this** person **poured out his wine and saved the honey** by collecting it **into** his vessel, **he** receives **reimbursement only** for his trouble, and he cannot claim the value of the wine that he poured out since the owner of the honey did not tell him to do so. Here too the mishna changed its wording, as it **began** its statement **in** reference to **a *kad*** of honey **and ended** it **in** reference to **a *ḥavit*** of honey.
 
 Before addressing the substantive puzzle, the *Gemara* pauses to note a terminological inconsistency in the *mishna* itself. The *mishna* opens by describing a *kad*—a pitcher—being placed in *reshut ha-rabbim*, but concludes by referring to the owner as *ba'al ha-chavis*—the owner of the barrel. Similarly, the *Gemara* cites two additional *mishnayot* that oscillate between the two terms. In one *mishna*, two people are walking through *reshut ha-rabbim*, one carrying a barrel and one carrying a beam, and the pitcher of one breaks on the beam of the other; the text shifts from *chavis* to *kad* mid-discussion. In another, one man is carrying a barrel of wine and another a pitcher of honey, and when the barrel of honey cracks and the wine is poured to save the honey, the terms again shift.
 
-Rav Pappa concludes: *hainu kad hainu chavis*—for purposes of the *mishna*'s language, *kad* and *chavis* refer to the same thing. But this raises a practical question: *le-mai nafka minah?* In what context does it matter that these terms are interchangeable?
+Rav Pappa concludes: *hainu kad hainu chavis*—for purposes of the *mishna*'s language, *kad* and *chavis* refer to the same thing. But this raises a practical question: *le-mai nafqa minah?* In what context does it matter that these terms are interchangeable?
 
+[DAF:27b]
 ### Burden of Proof
 
-> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: הַיְינוּ כַּד – הַיְינוּ חָבִית. לְמַאי נָפְקָא מִינַּהּ? לְמִקָּח וּמִמְכָּר.
->
+> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: הַיְינוּ כַּד – הַיְינוּ חָבִית. לְמַאי נָפְקָא מִינַּהּ? לְמִקָּח וּמִמְכָּר.
 > **Translation:** **Rav Pappa said:** These examples show that **a *kad* is** the same as **a *ḥavit*,** and the two words are used interchangeably. **With regard to what** does this make **a difference?** This makes a difference **for buying and selling.** If a customer asks for a *ḥavit*, intending a large vessel, and the seller gives him a *kad*, which is a smaller vessel, the buyer cannot claim that he did not receive the item he asked for.
 
-> **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִילֵּימָא בְּאַתְרָא דְּכַדָּא לָא קָרוּ ״חָבִית״, וְחָבִית לָא קָרוּ ״כַּדָּא״; הָא לָא קָרוּ לַהּ!
->
+> **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִילֵּימָא בְּאַתְרָא דְּכַדָּא לָא קָרוּ ״חָבִית״, וְחָבִית לָא קָרוּ ״כַּדָּא״; הָא לָא קָרוּ לַהּ!
 > **Translation:** The Gemara asks: **What are the circumstances** where this is relevant? **If we say** that it is **with regard to a locale where** people **do not refer to a *kad* as a *ḥavit*, nor do they refer to a *ḥavit* as a *kad*,** and a *ḥavit* is understood to be referring to a larger vessel, clearly one who asks for a *ḥavit* does not wish to buy a *kad*, as people **do not call it** that.
 
-> **Hebrew/Aramaic:** לָא צְרִיכָא, דְּרוּבָּא קָרוּ לַהּ לְכַדָּא ״כַּדָּא״ וּלְחָבִיתָא ״חָבִיתָא״, וְאִיכָּא נָמֵי דְּקָרוּ לְחָבִיתָא ״כַּדָּא״ וּלְכַדָּא ״חָבִיתָא״; מַהוּ דְּתֵימָא: זִיל בָּתַר רוּבָּא,
->
+> **Hebrew/Aramaic:** לָא צְרִיכָא, דְּרוּבָּא קָרוּ לַהּ לְכַדָּא ״כַּדָּא״ וּלְחָבִיתָא ״חָבִיתָא״, וְאִיכָּא נָמֵי דְּקָרוּ לְחָבִיתָא ״כַּדָּא״ וּלְכַדָּא ״חָבִיתָא״; מַהוּ דְּתֵימָא: זִיל בָּתַר רוּבָּא,
 > **Translation:** The Gemara answers: **No,** it is **necessary** to teach that they are equivalent terms with regard to a locale **where most** people **call a *kad* a *kad* and a *ḥavit* a *ḥavit*,** i.e., most people use the term *kad* for the smaller vessel and the term *ḥavit* for the larger one, **and there are also** those **who call a *ḥavit* a *kad* and a *kad* a *ḥavit*,** not distinguishing between the two terms. **Lest you say** that the *halakha* **follows the majority** and the seller and the buyer must accept this distinction,
 
-> **Hebrew/Aramaic:** קָא מַשְׁמַע לַן דְּאֵין הוֹלְכִין בְּמָמוֹן אַחַר הָרוֹב.
->
+> **Hebrew/Aramaic:** קָא מַשְׁמַע לַן דְּאֵין הוֹלְכִין בְּמָמוֹן אַחַר הָרוֹב.
 > **Translation:** the mishna **teaches us that** the court **does not follow the majority with regard to monetary matters,** and in cases of uncertainty the burden of proof rests upon the claimant.
 
 The answer is: *le-mikach u-mimkar*—commercial transactions. If a buyer and seller agree on a transaction using the word *chavis*, and the seller delivers what he calls a *kad*, a dispute may arise over whether they meant the same thing. The *Gemara* defines the operative case: not a place where the terms are clearly distinct, nor a place where everyone uses them interchangeably, but rather a place where most people use each term in its standard sense—a *kad* is a pitcher, a *chavis* is a barrel—yet a minority use them interchangeably. One might think that we follow the majority usage to adjudicate the dispute. The *Gemara* rejects this: *ein holchin be-mamon achar ha-rov*—in monetary matters we do not follow the majority.
@@ -256,14 +258,14 @@ One might ask: could the price paid not serve as evidence? Tosafot addresses thi
 
 ## Three Views Debate
 
+
+
 ### Rav's View
 
-> **Hebrew/Aramaic:** וּבָא אַחֵר וְנִתְקַל בָּהּ וּשְׁבָרָהּ – פָּטוּר. אַמַּאי פָּטוּר? אִיבְּעִי לֵיהּ לְעַיּוֹנֵי וּמֵיזַל!
->
+> **Hebrew/Aramaic:** וּבָא אַחֵר וְנִתְקַל בָּהּ וּשְׁבָרָהּ – פָּטוּר. אַמַּאי פָּטוּר? אִיבְּעִי לֵיהּ לְעַיּוֹנֵי וּמֵיזַל!
 > **Translation:** § The mishna teaches concerning the vessel placed in the public domain: If **another** person **came and stumbled on it and broke it,** he is **exempt.** The Gemara asks: **Why** is he **exempt?** Although this happened in the public domain, **he should examine** the road **and** then continue **walking.**
 
-> **Hebrew/Aramaic:** אָמְרִי דְּבֵי רַב מִשְּׁמֵיהּ דְּרַב: בִּמְמַלֵּא רְשׁוּת הָרַבִּים כּוּלָּהּ חָבִיּוֹת. שְׁמוּאֵל אָמַר: בַּאֲפֵילָה שָׁנוּ. רַבִּי יוֹחָנָן אָמַר: בְּקֶרֶן זָוִית.
->
+> **Hebrew/Aramaic:** אָמְרִי דְּבֵי רַב מִשְּׁמֵיהּ דְּרַב: בִּמְמַלֵּא רְשׁוּת הָרַבִּים כּוּלָּהּ חָבִיּוֹת. שְׁמוּאֵל אָמַר: בַּאֲפֵילָה שָׁנוּ. רַבִּי יוֹחָנָן אָמַר: בְּקֶרֶן זָוִית.
 > **Translation:** The Sages of the **school of Rav said in the name of Rav:** The ruling of the mishna is taught **with regard to** one who placed not just one barrel in the road, but rather **filled the entire public domain with barrels,** blocking the path. Since the public domain belongs to everyone, a pedestrian is entitled to traverse the road even if it necessitates breaking the vessels. **Shmuel says:** The ruling of the mishna is **taught with regard to** a case where he broke it in **the dark.** Therefore, he could not have avoided breaking the barrel by examining the road in front of him. **Rabbi Yoḥanan says:** The ruling of the mishna is **taught with regard to** a case where the barrel was placed at **the corner** of the road, and so the pedestrian could not have seen it, as he rounded the corner, before stumbling on it.
 
 Returning now to the substantive question of why the person who broke the vessel in *reshut ha-rabbim* is exempt, the *Gemara* presents three *amora'im* offering three different limiting constructions of the *mishna*.
@@ -282,15 +284,15 @@ Rabbi Yochanan says: *be-keren zavis*—the vessel was placed around a corner. E
 
 ## Rav Pappa's View
 
+
+
 ### Intent to Break
 
-> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: לָא דַּיְקָא מַתְנִיתִין אֶלָּא אוֹ כִּשְׁמוּאֵל, אוֹ כְּרַבִּי יוֹחָנָן. דְּאִי כְּרַב, מַאי אִרְיָא נִתְקַל? אֲפִילּוּ שָׁבַר נָמֵי!
->
+> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: לָא דַּיְקָא מַתְנִיתִין אֶלָּא אוֹ כִּשְׁמוּאֵל, אוֹ כְּרַבִּי יוֹחָנָן. דְּאִי כְּרַב, מַאי אִרְיָא נִתְקַל? אֲפִילּוּ שָׁבַר נָמֵי!
 > **Translation:** **Rav Pappa said: The mishna is precise only according to either** the explanation of **Shmuel or** that of **Rabbi Yoḥanan,** but not that of Rav. **As, if** the mishna is explained **in accordance with** the explanation of **Rav, what** is the reason it refers **specifically** to a case where one **stumbled** on the barrel? **Even if he broke** the barrel intentionally he should not be liable to pay, as the owner of the barrel had no right to block the public road.
 
-> **Hebrew/Aramaic:** אָמַר רַב זְבִיד מִשְּׁמֵיהּ דְּרָבָא: הוּא הַדִּין דַּאֲפִילּוּ שָׁבַר; וְהַאי דְּקָתָנֵי ״נִתְקַל״ – אַיְּידֵי דְּבָעֵי לְמִתְנֵי סֵיפָא: ״וְאִם הוּזַּק בָּהּ – בַּעַל חָבִית חַיָּיב בְּנִזְקוֹ״, דְּדַוְקָא נִתְקַל, אֲבָל שָׁבַר – לָא, מַאי טַעְמָא? הוּא דְּאַזֵּיק אַנַּפְשֵׁיהּ; קָתָנֵי רֵישָׁא ״נִתְקַל״.
->
-> **Translation:** **Rav Zevid said in the name of Rava** in defense of Rav's explanation: **The same is true even if he broke** the barrel intentionally. **And** as for **this** fact, **that** the *tanna* of the mishna **teaches** a case where **he stumbled,** it is **because he wants to teach** in **the last clause: And if he incurred damage due to** the vessel, **the owner of the *ḥavit* is liable** to pay **for his damage. As** this ruling applies **specifically when he stumbled, but** if **he broke** the barrel intentionally and incurred damage in the process, the owner of the barrel is **not** required to compensate him. **What is the reason** for this? Although the pedestrian had the right to break the barrel, **it is he who damaged himself,** by not being careful while breaking it. Therefore, in **the first clause** the mishna **teaches** a case where **he stumbled.** Accordingly, the mishna's wording is precise according to Rav's explanation as well.
+> **Hebrew/Aramaic:** אָמַר רַב זְבִיד מִשְּׁמֵיהּ דְּרָבָא: הוּא הַדִּין דַּאֲפִילּוּ שָׁבַר; וְהַאי דְּקָתָנֵי ״נִתְקַל״ – אַיְּידֵי דְּבָעֵי לְמִתְנֵי סֵיפָא: ״וְאִם הוּזַּק בָּהּ – בַּעַל חָבִית חַיָּיב בְּנִזְקוֹ״, דְּדַוְקָא נִתְקַל, אֲבָל שָׁבַר – לָא, מַאי טַעְמָא? הוּא דְּאַזֵּיק אַנַּפְשֵׁיהּ; קָתָנֵי רֵישָׁא ״נִתְקַל״.
+> **Translation:** **Rav Zevid said in the name of Rava** in defense of Rav’s explanation: **The same is true even if he broke** the barrel intentionally. **And** as for **this** fact, **that** the *tanna* of the mishna **teaches** a case where **he stumbled,** it is **because he wants to teach** in **the last clause: And if he incurred damage due to** the vessel, **the owner of the *ḥavit* is liable** to pay **for his damage. As** this ruling applies **specifically when he stumbled, but** if **he broke** the barrel intentionally and incurred damage in the process, the owner of the barrel is **not** required to compensate him. **What is the reason** for this? Although the pedestrian had the right to break the barrel, **it is he who damaged himself,** by not being careful while breaking it. Therefore, in **the first clause** the mishna **teaches** a case where **he stumbled.** Accordingly, the mishna’s wording is precise according to Rav’s explanation as well.
 
 Rav Pappa observes that the *mishna* as written cannot be reconciled with Rav's explanation. The *mishna* specifies the case of one who *niskal*—who tripped—and says that person is exempt. But if the barrel-placer has filled the entire street, Rav Pappa argues, then even someone who *intentionally* broke the barrel to get through should be exempt, not merely one who tripped. Why would the *mishna* need to specify the tripping case if the entire street was blocked?
 
@@ -306,31 +308,29 @@ Two significant issues are flagged by this passage. First, the apparent right to
 
 ## E.Y. Teaching
 
+
+
 ### Rav Ulla
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבִּי אַבָּא לְרַב אָשֵׁי, הָכִי אָמְרִי בְּמַעְרְבָא מִשְּׁמֵיהּ דְּרַבִּי עוּלָּא: לְפִי שֶׁאֵין דַּרְכָּן שֶׁל בְּנֵי אָדָם לְהִתְבּוֹנֵן בַּדְּרָכִים.
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבִּי אַבָּא לְרַב אָשֵׁי, הָכִי אָמְרִי בְּמַעְרְבָא מִשְּׁמֵיהּ דְּרַבִּי עוּלָּא: לְפִי שֶׁאֵין דַּרְכָּן שֶׁל בְּנֵי אָדָם לְהִתְבּוֹנֵן בַּדְּרָכִים.
 > **Translation:** **Rabbi Abba said to Rav Ashi** that **this is what they say in the West,** Eretz Yisrael, **in the name of Rabbi Ulla,** in explanation of the mishna: Even if the barrel is clearly visible, one who stumbles on it is exempt from liability **because the** typical **manner of people is not to examine the roads,** as they assume that the road is unobstructed. Therefore, one who breaks an item placed in the road as a result of not watching is not liable to pay restitution.
 
 A tradition from *Eretz Yisrael* in the name of Rav Ulla (some say Rabbi Ilai) advances a more sweeping claim: *lefi she-ein darkan shel bnei adam le-hitbonen bi-drachim*—people simply do not watch where they are going. This is a behavioral generalization: pedestrians are, as a rule, inattentive. Therefore the *mishna* need not invoke special circumstances like darkness or corners; in general, one is exempt for breaking a vessel left in *reshut ha-rabbim* because it is not the normal practice of people to be scanning the ground as they walk.
 
 ### Nahardea Case
 
-> **Hebrew/Aramaic:** הֲוָה עוֹבָדָא בִּנְהַרְדְּעָא, וְחַיֵּיב שְׁמוּאֵל. בְּפוּמְבְּדִיתָא, וְחַיֵּיב רָבָא.
->
-> **Translation:** The Gemara relates: **There was an incident in Neharde'a** where a pedestrian stumbled on a jug in an open area and broke it, **and Shmuel deemed him liable** to pay for the damage. A similar incident took place **in Pumbedita, and Rava deemed** the person **liable** to pay.
-
 A case then arose in Nahardea, where someone broke a barrel in *reshut ha-rabbim* under ordinary daytime conditions—not nighttime, not around a corner. Shmuel ruled the breaker liable. This is consistent with Shmuel's own explanation of the *mishna*: exemption applies only at night, whereas in the daytime, one should watch where one is going.
 
 ### Olive Press Season
 
-> **Hebrew/Aramaic:** בִּשְׁלָמָא שְׁמוּאֵל – כִּשְׁמַעְתֵּיהּ. אֶלָּא רָבָא – לֵימָא כִּשְׁמוּאֵל סְבִירָא לֵיהּ?
->
-> **Translation:** The Gemara asks: **Granted, Shmuel** ruled **in accordance with his halakhic** opinion that the exemption stated in the mishna refers specifically to a case where one stumbles in the dark, as otherwise he is liable for breaking the barrel, since he should have examined the road. **But** with regard to **Rava, shall we say that he holds in accordance with Shmuel's** opinion that one who breaks an item in the public domain is exempt from paying for it only if it was dark?
+> **Hebrew/Aramaic:** הֲוָה עוֹבָדָא בִּנְהַרְדְּעָא, וְחַיֵּיב שְׁמוּאֵל. בְּפוּמְבְּדִיתָא, וְחַיֵּיב רָבָא.
+> **Translation:** The Gemara relates: **There was an incident in Neharde’a** where a pedestrian stumbled on a jug in an open area and broke it, **and Shmuel deemed him liable** to pay for the damage. A similar incident took place **in Pumbedita, and Rava deemed** the person **liable** to pay.
 
-> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: קַרְנָא דְּעַצְרָא הָוֵי, דְּכֵיוָן דְּבִרְשׁוּת קָעָבְדִי – אִיבְּעִי לֵיהּ לְעַיּוֹנֵי וּמֵיזַל.
->
-> **Translation:** **Rav Pappa said:** That inference is not necessary, as this incident **was** at **the corner where** there was an olive **press [*de'atzera*],** where it is known that people put their jugs down while waiting for oil. Consequently, **since they were acting with permission,** a pedestrian **should examine** the road **and** then continue **walking.**
+> **Hebrew/Aramaic:** בִּשְׁלָמָא שְׁמוּאֵל – כִּשְׁמַעְתֵּיהּ. אֶלָּא רָבָא – לֵימָא כִּשְׁמוּאֵל סְבִירָא לֵיהּ?
+> **Translation:** The Gemara asks: **Granted, Shmuel** ruled **in accordance with his halakhic** opinion that the exemption stated in the mishna refers specifically to a case where one stumbles in the dark, as otherwise he is liable for breaking the barrel, since he should have examined the road. **But** with regard to **Rava, shall we say that he holds in accordance with Shmuel’s** opinion that one who breaks an item in the public domain is exempt from paying for it only if it was dark?
+
+> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: קַרְנָא דְּעַצְרָא הָוֵי, דְּכֵיוָן דְּבִרְשׁוּת קָעָבְדִי – אִיבְּעִי לֵיהּ לְעַיּוֹנֵי וּמֵיזַל.
+> **Translation:** **Rav Pappa said:** That inference is not necessary, as this incident **was** at **the corner where** there was an olive **press [*de’atzera*],** where it is known that people put their jugs down while waiting for oil. Consequently, **since they were acting with permission,** a pedestrian **should examine** the road **and** then continue **walking.**
 
 A case in Pumbedita raised a similar question, and Rava ruled the breaker liable. The *Gemara* asks: does this mean Rava agrees with Shmuel that daytime liability is the default? Rav Pappa explains that the Pumbedita case was a particular situation—*karna d'atzra hava*, it was the olive-pressing season and the incident occurred near the olive press. Rashi notes that during the olive-pressing season, it is well known and entirely expected that pitchers and containers will be left in the street in front of the press. *D'keivan d'bireshut ka avdi*—since those engaged in the olive trade have implicit permission to use the street in that way, and since anyone passing through that area at that time of year is on notice of what to expect—*ibay lei l'iyunei u-meizal*, one is obligated to watch where one is going under those circumstances. Rava's ruling does not therefore contradict the Eretz Yisrael principle that people generally need not watch where they are going; it represents a case where a reasonable person would know to be careful.
 
@@ -339,6 +339,8 @@ The upshot is a spectrum of positions. Shmuel holds that in the daytime, one is 
 ---
 
 ## Tosafot vs. Ramban
+
+
 
 ### Tosafot Position
 
@@ -366,10 +368,11 @@ The Ramban's framework thus preserves *adam muad l'olam* in its full force and r
 
 ## Vigilante Justice
 
+
+
 ### Well Partnership
 
-> **Hebrew/Aramaic:** שְׁלַח לֵיהּ רַב חִסְדָּא לְרַב נַחְמָן, הֲרֵי אָמְרוּ: לִרְכוּבָּה – שָׁלֹשׁ, וְלִבְעִיטָה – חָמֵשׁ, וְלִסְנוֹקֶרֶת – שְׁלֹשׁ עֶשְׂרֵה. לְפַנְדָּא דְמָרָא וּלְקוֹפִינָא דְּמָרָא, מַאי?
->
+> **Hebrew/Aramaic:** שְׁלַח לֵיהּ רַב חִסְדָּא לְרַב נַחְמָן, הֲרֵי אָמְרוּ: לִרְכוּבָּה – שָׁלֹשׁ, וְלִבְעִיטָה – חָמֵשׁ, וְלִסְנוֹקֶרֶת – שְׁלֹשׁ עֶשְׂרֵה. לְפַנְדָּא דְמָרָא וּלְקוֹפִינָא דְּמָרָא, מַאי?
 > **Translation:** § **Rav Ḥisda sent** the following question **to Rav Naḥman:** The Sages **said** that when one strikes another, humiliating him, the judges determine liability according to the following formula: **For kneeing [*rekhuva*]** him, he must pay **three** *sela*; **for kicking, five; and for punching [*velisnokeret*]** him, **thirteen.** The Gemara asks: If so **for** hitting him with **the handle of a hoe [*demara*] and for** hitting him with **the top [*ulkofina*] of a hoe, what** amount is one liable to pay him?
 
 The *Gemara*'s final passage for the day introduces a new theme that will be developed further. Rav Chisda wrote to Rav Nachman with the following scenario: two partners share a well, alternating days for drawing water. On his partner's day, one of them came and began drawing from the well. The other person, whose day it was, told him to stop. The partner ignored him. The aggrieved partner then took the handle of a hoe and struck the interloper. Rav Chisda wanted to know the appropriate fine for the assault.
@@ -378,12 +381,10 @@ The backdrop involves the standard *boshet* fines: using one's leg to push someo
 
 ### Irreversible Loss
 
-> **Hebrew/Aramaic:** שְׁלַח לֵיהּ: חִסְדָּא חִסְדָּא, קְנָסָא קָא מַגְבֵּית בְּבָבֶל? אֵימָא לִי גּוּפָא דְעוֹבָדָא הֵיכִי הֲוָה.
->
+> **Hebrew/Aramaic:** שְׁלַח לֵיהּ: חִסְדָּא חִסְדָּא, קְנָסָא קָא מַגְבֵּית בְּבָבֶל? אֵימָא לִי גּוּפָא דְעוֹבָדָא הֵיכִי הֲוָה.
 > **Translation:** Rav Naḥman **sent him** the following response: **Ḥisda, Ḥisda, are you collecting a fine** for humiliation **in Babylonia,** where judges are not authorized to collect fines? **Tell me how the incident itself** transpired.
 
-> **Hebrew/Aramaic:** שְׁלַח לֵיהּ: דְּהָהוּא גַּרְגּוּתָא דְּבֵי תְרֵי, דְּכׇל יוֹמָא הֲוָה דָּלֵי חַד מִנַּיְיהוּ. אֲתָא חַד, קָא דָלֵי בְּיוֹמָא דְּלָא דִּילֵיהּ. אֲמַר לֵיהּ: יוֹמָא דִּידִי הוּא! לָא אַשְׁגַּח בֵּיהּ. שְׁקַל פַּנְדָּא דְּמָרָא, מַחְיֵיהּ.
->
+> **Hebrew/Aramaic:** שְׁלַח לֵיהּ: דְּהָהוּא גַּרְגּוּתָא דְּבֵי תְרֵי, דְּכׇל יוֹמָא הֲוָה דָּלֵי חַד מִנַּיְיהוּ. אֲתָא חַד, קָא דָלֵי בְּיוֹמָא דְּלָא דִּילֵיהּ. אֲמַר לֵיהּ: יוֹמָא דִּידִי הוּא! לָא אַשְׁגַּח בֵּיהּ. שְׁקַל פַּנְדָּא דְּמָרָא, מַחְיֵיהּ.
 > **Translation:** Rav Ḥisda **sent him** in response: There is **a certain cistern belonging to two** people whose arrangement was to alternate its use so **that every day one of them would draw** from it in turn. It happened that **one of them came and was drawing** water **on a day that was not his** turn. His co-owner **said to him: This is my day** to draw, not yours. His colleague **did not pay attention to him.** The person whose turn it was therefore **took the handle of a hoe** and **struck** the person who was stealing his water, who then sued for damages.
 
 Rav Nachman's response is memorable. He wrote back: *Chisda, Chisda—knasa ka-magbit be-Vavel?* Are you collecting *knas* payments in Bavel? *Boshet* partakes of the character of a *knas*, and collecting such fines requires *semicha* that traces back to *Moshe Rabbeinu*, a form of ordination that no longer exists in Babylonia. The question of the fine is therefore moot.
@@ -392,17 +393,11 @@ But Rav Nachman presses further: *eima li gufa d'uvda heichi hava*—tell me pre
 
 ### Bmkom Pseida
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: מְאָה פַּנְדֵי בְּפַנְדָּא לִמְחֲיֵיהּ! אֲפִילּוּ לְמַאן דְּאָמַר: לָא עָבֵיד אִינִישׁ דִּינָא לְנַפְשֵׁיהּ; בִּמְקוֹם פְּסֵידָא – עָבֵיד אִינִישׁ דִּינָא לְנַפְשֵׁיהּ.
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: מְאָה פַּנְדֵי בְּפַנְדָּא לִמְחֲיֵיהּ! אֲפִילּוּ לְמַאן דְּאָמַר: לָא עָבֵיד אִינִישׁ דִּינָא לְנַפְשֵׁיהּ; בִּמְקוֹם פְּסֵידָא – עָבֵיד אִינִישׁ דִּינָא לְנַפְשֵׁיהּ.
 > **Translation:** Rav Naḥman **said to him:** In that case, he was right to do so, and he **should** have **hit him** even **a hundred times with the hoe. Even according to the one who says** that **a person may not take justice into his own** hands but should go to court, in a case **where** there would be **a loss** involved if no immediate action is taken, **a person may take justice into his own** hands.
 
-> **Hebrew/Aramaic:** דְּאִתְּמַר, רַב יְהוּדָה אָמַר: לָא עָבֵיד אִינִישׁ דִּינָא לְנַפְשֵׁיהּ. רַב נַחְמָן אָמַר: עָבֵיד אִינִישׁ דִּינָא לְנַפְשֵׁיהּ.
->
+> **Hebrew/Aramaic:** דְּאִתְּמַר, רַב יְהוּדָה אָמַר: לָא עָבֵיד אִינִישׁ דִּינָא לְנַפְשֵׁיהּ. רַב נַחְמָן אָמַר: עָבֵיד אִינִישׁ דִּינָא לְנַפְשֵׁיהּ.
 > **Translation:** This is **as it was stated,** that **Rav Yehuda says: A person may not take justice into his own** hands, whereas **Rav Naḥman says: A person may take justice into his own** hands.
-
-> **Hebrew/Aramaic:** הֵיכָא דְּאִיכָּא פְּסֵידָא – כּוּלֵּי עָלְמָא לָא פְּלִיגִי, דְּעָבֵיד אִינִישׁ דִּינָא לְנַפְשֵׁיהּ. כִּי פְּלִיגִי – הֵיכָא דְּלֵיכָּא פְּסֵידָא; רַב יְהוּדָה אָמַר: לָא עָבֵיד אִינִישׁ דִּינָא לְנַפְשֵׁיהּ, דְּכֵיוָן דְּלֵיכָּא פְּסֵידָא – לֵיזִיל קַמֵּיהּ דַּיָּינָא. רַב נַחְמָן אָמַר: עָבֵיד אִינִישׁ דִּינָא לְנַפְשֵׁיהּ, דְּכֵיוָן דִּבְדִין עָבֵיד – לָא טָרַח.
->
-> **Translation:** **Where there is** an imminent **loss** that will be suffered if the injured party does not take action, **everyone agrees that a person may take justice into his own** hands. **They disagree** only **when there is no** imminent **loss** that will be suffered. **Rav Yehuda says** that **a person may not take justice into his own** hands, **because since there is no loss, he should go before the judge** to have him enforce the law. **Rav Naḥman says** that **a person may take justice into his own** hands. **Since he is acting lawfully,** as he is clearly in the right, **he need not trouble** himself to go before the judge to have him enforce the law.
 
 The underlying principle, applicable even according to the opinion that generally prohibits self-help, is: *bi-mkom pseida avid inish dina le-nafshei*—in a case of irreversible loss, a person is permitted to take the law into their own hands.
 

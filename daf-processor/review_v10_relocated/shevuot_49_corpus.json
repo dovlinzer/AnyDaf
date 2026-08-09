@@ -1,0 +1,372 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Ta'anat Shema Principle",
+    "candidates": [
+      "Ta'anat Shema Principle",
+      "Partners & Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items (the gemara's question about fools/uncertain claims, the baraita defining 'member of the household,' and the explanation of mishum d'moru bah hateira) are explicitly discussed in the prose of candidate 0, which covers exactly this content about ve'elu nishba'in, ta'anat shema, and the rationalization principle.",
+      "chosen_heading": "Ta'anat Shema Principle",
+      "current_heading": "Ta'anat Shema Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Partners & Threshold",
+    "candidates": [
+      "Partners & Threshold",
+      "Gilgul Shvua",
+      "Partnership & Loan Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address Rav Na\u1e25man's ruling about the two silver ma'a threshold and the Rav/Shmuel dispute over where that threshold applies \u2014 exactly what the 'Partners & Threshold' prose discusses.",
+      "chosen_heading": "Partners & Threshold",
+      "current_heading": "Partners & Threshold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Partnership & Loan Case",
+    "candidates": [
+      "Gilgul Shvua",
+      "Partnership & Loan Case",
+      "Rav Huna vs. Chisda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous gemara discussion of the partnership/loan case with the Sabbatical year scenarios, which is precisely what candidate 1's prose describes in detail, including the ta shema, the reversal of the case, and the conclusion that gilgul applies in a derabbanan context.",
+      "chosen_heading": "Partnership & Loan Case",
+      "current_heading": "Partnership & Loan Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Rav Huna vs. Chisda",
+    "candidates": [
+      "Rav Huna vs. Chisda",
+      "Shmitta Meshemetet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the Rav Huna vs. Rav \u1e24isda dispute about extending oaths for a hired worker, which is exactly what the prose under heading 0 ('Rav Huna vs. Chisda') discusses in detail.",
+      "chosen_heading": "Rav Huna vs. Chisda",
+      "current_heading": "Rav Huna vs. Chisda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Shmitta Meshemetet",
+    "candidates": [
+      "Shmitta Meshemetet",
+      "Four Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Sabbatical Year abrogating oaths (shvua) derived from Deuteronomy 15:2, which is precisely what the 'Shmitta Meshemetet' section's prose describes.",
+      "chosen_heading": "Shmitta Meshemetet",
+      "current_heading": "Shmitta Meshemetet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Four Categories",
+    "candidates": [
+      "Four Categories",
+      "Death Claim (Multiple)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the opening Mishnah of the chapter listing the four bailees and their respective liabilities, which is exactly what the 'Four Categories' prose describes in detail.",
+      "chosen_heading": "Four Categories",
+      "current_heading": "Four Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Death Claim (Multiple)",
+    "candidates": [
+      "Death Claim (Multiple)",
+      "Monetary Outcome Rule",
+      "Ignorance Claim",
+      "False Theft Claim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Death Claim (Multiple)",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the full rhythmic mishna cycle of claim-vs-reality combinations (met/nishbar/nishbah/nignav/avad) that candidate 0's prose explicitly describes in detail.",
+      "second_heading": "Ignorance Claim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the 'I don't know what you're talking about' case that candidate 2's prose describes verbatim as its own distinct scenario.",
+      "current_heading": "Death Claim (Multiple)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "False Theft Claim",
+    "candidates": [
+      "Monetary Outcome Rule",
+      "Ignorance Claim",
+      "False Theft Claim",
+      "Public Accusation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the 'avad' (lost) claim scenario with witnesses testifying the bailee consumed the ox, and the distinction between being exposed by witnesses versus admitting on one's own \u2014 precisely what the 'False Theft Claim' prose discusses.",
+      "chosen_heading": "False Theft Claim",
+      "current_heading": "False Theft Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Public Accusation",
+    "candidates": [
+      "Public Accusation",
+      "Partial Admission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the fourth case discussed in heading 0's prose: the shomer chinam claims the animal was stolen, takes an oath, witnesses testify he stole it (paying kefel), or he confesses voluntarily (paying keren, chomesh, and asham) \u2014 matching the current placement perfectly.",
+      "chosen_heading": "Public Accusation",
+      "current_heading": "Public Accusation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Partial Admission",
+    "candidates": [
+      "Partial Admission",
+      "Death/Loss Claims"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact scenario discussed in candidate 0's prose \u2014 the marketplace confrontation, double/fourfold/fivefold payments, and the partial admission reducing liability to principal only.",
+      "chosen_heading": "Partial Admission",
+      "current_heading": "Partial Admission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Death/Loss Claims",
+    "candidates": [
+      "Death/Loss Claims",
+      "Ignorance Admission",
+      "Liability Categories",
+      "Category Crossing",
+      "Klal Statement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Death/Loss Claims",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe the sho'el's various claims all resulting in patur, exactly matching heading 0's prose about the borrower being exempt in all combinations.",
+      "second_heading": "Ignorance Admission",
+      "second_confidence": "medium",
+      "second_reason": "Item 3 introduces the sho'el's 'I don't know what you're talking about' claim resulting in chayav, which matches heading 1's prose, though items 4-5 continue into nose sachar/socher territory covered by headings 2-3.",
+      "current_heading": "Death/Loss Claims",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Klal Statement",
+    "candidates": [
+      "Ignorance Admission",
+      "Liability Categories",
+      "Category Crossing",
+      "Klal Statement",
+      "Lighten vs. Strengthen",
+      "Rabbi Meir Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains the exact 'zeh haklal' formulation about liability/exemption categories and the oath-to-lighten/strengthen principle, which directly matches the 'Klal Statement' prose that quotes and explains this very rule.",
+      "chosen_heading": "Klal Statement",
+      "current_heading": "Klal Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Rabbi Meir Attribution",
+    "candidates": [
+      "Lighten vs. Strengthen",
+      "Rabbi Meir Attribution",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the Rabbi Meir attribution question, the reversal of his opinion by Rabbah bar Avuha, and the resolution that there are four bailees but three legal rulings \u2014 exactly what the 'Rabbi Meir Attribution' prose describes in detail.",
+      "chosen_heading": "Rabbi Meir Attribution",
+      "current_heading": "Rabbi Meir Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Rav vs. Shmuel",
+      "Past vs. Future Oaths",
+      "Stone/Sea Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the direct Talmudic text of Rav and Shmuel's dispute about exemption from shevuat shomrim and shevuat bitui, which is precisely what the prose under heading 0 ('Rav vs. Shmuel') discusses and introduces.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Stone/Sea Case",
+    "candidates": [
+      "Past vs. Future Oaths",
+      "Stone/Sea Case",
+      "Court vs. Self Oaths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together constitute the gemara's discussion of the stone/sea case precedent and why it was necessary to record the Rav-Shmuel dispute in both contexts, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Stone/Sea Case",
+      "current_heading": "Stone/Sea Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Court vs. Self Oaths",
+    "candidates": [
+      "Court vs. Self Oaths",
+      "Rabbi Elazar Rule",
+      "Theft/Loss Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Ami's ruling about court-administered oaths versus self-initiated oaths and Reish Lakish's four meanings of 'ki', which is precisely what the 'Court vs. Self Oaths' prose section describes.",
+      "chosen_heading": "Court vs. Self Oaths",
+      "current_heading": "Court vs. Self Oaths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Theft/Loss Exception",
+    "candidates": [
+      "Rabbi Elazar Rule",
+      "Theft/Loss Exception",
+      "Completion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Elazar Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Elazar's full ruling including both the general rule and the theft/loss exception, and the prose under 'Rabbi Elazar Rule' (candidate 0) explicitly describes this synthesis covering all four guardians and their exemptions/liabilities \u2014 a better home than the 'Theft/Loss Exception' heading which only covers part of the passage.",
+      "second_heading": "Completion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the hadran formula marking the completion of Masechet Shevuot, which belongs under the 'Completion' heading (candidate 2) whose prose explicitly discusses this closing formula.",
+      "current_heading": "Theft/Loss Exception",
+      "moved": true
+    }
+  }
+]

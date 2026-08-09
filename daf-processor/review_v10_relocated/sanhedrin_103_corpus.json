@@ -1,0 +1,393 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Nabot's Spirit",
+    "candidates": [
+      "Three Evil Kings",
+      "Achav's Merits",
+      "Nabot's Spirit",
+      "Desecrating Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly concern the spirit of Naboth \u2014 Rabbi Yo\u1e25anan's identification of the spirit as Naboth's and the subsequent discussion of 'go out' (Ravina) and Rav Pappa's folk adage \u2014 which is precisely what the 'Nabot's Spirit' section prose describes in detail.",
+      "chosen_heading": "Nabot's Spirit",
+      "current_heading": "Nabot's Spirit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Desecrating Torah",
+    "candidates": [
+      "Desecrating Torah",
+      "Menashe's Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Desecrating Torah",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 concern Ahab and Ahaziah's acts of desecrating/rejecting God, exactly matching the 'Desecrating Torah' prose about Ahab writing on doors of Samaria and scraping God's names from Torah scrolls.",
+      "second_heading": "Menashe's Status",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Manasseh as the third king, deriving his exclusion from the World-to-Come by comparison to Ahab, which matches exactly the 'Menashe's Status' prose discussion.",
+      "current_heading": "Desecrating Torah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Menashe's Status",
+    "candidates": [
+      "Menashe's Status",
+      "No Share in Olam HaBa",
+      "Rabbi Yehuda's View",
+      "Two Interpretations",
+      "Repentance Narrative",
+      "33 Years of Good",
+      "Tunnel to Heaven"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Menashe's Status",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Rabbi Yehuda/Rabbis dispute and Rabbi Yochanan's observation that both derive from the same verse, which is exactly what heading 0 ('Menashe's Status') describes in its prose.",
+      "second_heading": "Rabbi Yehuda's View",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Yochanan's statement that denying Manasseh's share discourages penitents plus the 33-years calculation, which is precisely what heading 2 ('Rabbi Yehuda's View') discusses in its prose about Rabbi Yochanan's concern for ba'alei teshuvah.",
+      "current_heading": "Menashe's Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Tunnel to Heaven",
+    "candidates": [
+      "No Share in Olam HaBa",
+      "Rabbi Yehuda's View",
+      "Two Interpretations",
+      "Repentance Narrative",
+      "33 Years of Good",
+      "Tunnel to Heaven",
+      "Textual Variants",
+      "Resetting Creation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage about God fashioning a tunnel through heaven to accept Manasseh's repentance due to the attribute of justice is precisely what the 'Tunnel to Heaven' section's prose discusses in detail.",
+      "chosen_heading": "Tunnel to Heaven",
+      "current_heading": "Tunnel to Heaven",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Resetting Creation",
+    "candidates": [
+      "Textual Variants",
+      "Resetting Creation",
+      "Silent Enablement",
+      "Tzidkiyahu's Silence",
+      "Gate Degraded"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Resetting Creation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the 'bereshit' formulation for Jehoiakim and Zedekiah, God seeking to restore chaos and void, and Zedekiah's silent enablement \u2014 exactly the content described in candidates 1 ('Resetting Creation'), 2 ('Silent Enablement'), and 3 ('Tzidkiyahu's Silence'), all of which the current placement covers.",
+      "second_heading": "Gate Degraded",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 introduce a completely new teaching from Rabbi Yo\u1e25anan in the name of Rabbi Shimon ben Yo\u1e25ai about Ahaz and Amaziah's idol worship (Proverbs 29:9), which is a self-contained unit unrelated to the bereshit/chaos theme and matches the 'Gate Degraded' section's discussion of a new Rav Pappa folk saying and a different historical illustration.",
+      "current_heading": "Resetting Creation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Gate Degraded",
+    "candidates": [
+      "Silent Enablement",
+      "Tzidkiyahu's Silence",
+      "Gate Degraded",
+      "Lazy Man's Field"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is explicitly about the verse 'sha'ar hattavekh' and the interpretations by Rabbi Yo\u1e25anan and Rav Pappa, which directly matches the 'Gate Degraded' section prose that discusses the same verse and the same rabbinic statements about the place where halachot were decided being desecrated.",
+      "chosen_heading": "Gate Degraded",
+      "current_heading": "Gate Degraded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Lazy Man's Field",
+    "candidates": [
+      "Lazy Man's Field",
+      "Stages of Ruin",
+      "Four Excluded Groups"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mnemonic and the full drasha \u2014 belong together under 'Lazy Man's Field,' which is precisely where they currently sit and whose prose discusses this exact passage interpreting the Proverbs verse through the evil kings of Judea.",
+      "chosen_heading": "Lazy Man's Field",
+      "current_heading": "Lazy Man's Field",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Four Excluded Groups",
+    "candidates": [
+      "Stages of Ruin",
+      "Four Excluded Groups",
+      "Torah Scholar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Four Excluded Groups' explicitly discusses every single item in the passage \u2014 the four groups, the two interpretations of Psalms 91:10, the father/mother/heaven blessings of Psalm 91, and the suspended ayin of resha'im \u2014 matching the passage content precisely and in order.",
+      "chosen_heading": "Four Excluded Groups",
+      "current_heading": "Four Excluded Groups",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Torah Scholar",
+    "candidates": [
+      "Torah Scholar",
+      "Four-Faced Idol"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Torah Scholar",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (the baraita about Manasseh/Ahab/Jeroboam studying Torat Kohanim) directly matches the 'Torah Scholar' prose which explicitly discusses these same three wicked kings and their Torah mastery.",
+      "second_heading": "Four-Faced Idol",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 (Rabbi Meir on Absalom having no share in the World-to-Come, and Rabbi Shimon ben Elazar on kings who 'did evil in the eyes of the Lord') shifts to a new topic about afterlife status of wicked kings, which does not match either candidate's prose well but is structurally distinct from the Torah Scholar discussion; the 'Four-Faced Idol' section dealing with Manasseh's idol is the closest available heading for continuation.",
+      "current_heading": "Torah Scholar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Four-Faced Idol",
+    "candidates": [
+      "Four-Faced Idol",
+      "Narrow Bed Image"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Narrow Bed Image",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses Manasseh killing Isaiah and shedding innocent blood, which fits the 'Narrow Bed Image' section's discussion of Manasseh's escalating desecrations and the broader context of his sins, not the Four-Faced Idol section.",
+      "second_heading": "Four-Faced Idol",
+      "second_confidence": "high",
+      "second_reason": "Item 2 directly addresses the singular/plural idol textual contradiction and Rabbi Yochanan's explanation of the four-faced idol, which is precisely what the 'Four-Faced Idol' prose section discusses.",
+      "current_heading": "Four-Faced Idol",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Narrow Bed Image",
+    "candidates": [
+      "Narrow Bed Image",
+      "Achaz Seals Torah",
+      "Menashe Cuts Names",
+      "Amon's Violations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the escalating placement of idols by Ahaz, Manashe, and Amon culminating in the Holy of Holies, and the interpretation of the 'narrow bed' verse \u2014 exactly what the prose under heading 0 ('Narrow Bed Image') elaborates in detail.",
+      "chosen_heading": "Narrow Bed Image",
+      "current_heading": "Narrow Bed Image",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Amon's Violations",
+    "candidates": [
+      "Achaz Seals Torah",
+      "Menashe Cuts Names",
+      "Amon's Violations",
+      "Amon's Incest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all four kings' violations in sequence (Ahaz sealing Torah, Manasseh cutting names/destroying altar, Amon burning Torah/gecko, then Ahaz/Manasseh's sexual sins), but it begins with Ahaz bitul ha'avodah and sealing Torah, matching the 'Achaz Seals Torah' section heading, and the essay's prose for that section clearly introduces this exact Gemara passage starting with those same words.",
+      "chosen_heading": "Achaz Seals Torah",
+      "current_heading": "Amon's Violations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Amon's Incest",
+    "candidates": [
+      "Amon's Violations",
+      "Amon's Incest",
+      "Yehoyakim Blasphemes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Amon's incest with his mother and his motivation to spite his Creator, which is precisely what the 'Amon's Incest' section's prose discusses in detail.",
+      "chosen_heading": "Amon's Incest",
+      "current_heading": "Amon's Incest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Yehoyakim Blasphemes",
+    "candidates": [
+      "Yehoyakim Blasphemes",
+      "Relationship vs. Sin",
+      "Yehoyakim Unlisted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Jehoiakim's blasphemous declaration about not needing God's light and his gold of Parvayim, which exactly matches the prose of heading 0 ('Yehoyakim Blasphemes').",
+      "chosen_heading": "Yehoyakim Blasphemes",
+      "current_heading": "Yehoyakim Blasphemes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Yehoyakim Unlisted",
+    "candidates": [
+      "Relationship vs. Sin",
+      "Yehoyakim Unlisted",
+      "Michah's Bread",
+      "Gerev & Shiloh"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yehoyakim Unlisted",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Rava/Rabba bar Mari exchange about why Yehoyakim is unlisted, which matches exactly the prose of heading 1 ('Yehoyakim Unlisted') that describes this very question and its two answers.",
+      "second_heading": "Michah's Bread",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the follow-up question about why Michah is unlisted and the answer about his bread being available to passersby, which matches exactly the prose of heading 2 ('Michah's Bread').",
+      "current_heading": "Yehoyakim Unlisted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Gerev & Shiloh",
+    "candidates": [
+      "Michah's Bread",
+      "Gerev & Shiloh",
+      "God's Mercy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yo\u1e25anan's interpretation of the verse about Micah's idol passing through the sea and Rabbi Natan's baraita about the proximity of Gerev to Shiloh, which is precisely what the 'Gerev & Shiloh' section's prose elaborates on.",
+      "chosen_heading": "Gerev & Shiloh",
+      "current_heading": "Gerev & Shiloh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "God's Mercy",
+    "candidates": [
+      "God's Mercy",
+      "Pilegesh B'Giva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both God's mercy toward Michah AND the punishment of the men of Pilegesh b'Giva, but candidate 1's prose explicitly discusses both the angels' dismissal, God's response about Michah's bread, and the punishment due to failure to protest Michah's idol \u2014 making it a clearly better match than candidate 0, which only covers the first half.",
+      "chosen_heading": "Pilegesh B'Giva",
+      "current_heading": "God's Mercy",
+      "moved": true
+    }
+  }
+]

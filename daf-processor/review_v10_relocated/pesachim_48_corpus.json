@@ -1,0 +1,404 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Ein Chiluk Melachot",
+    "candidates": [
+      "Cooking Yom Tov Setup",
+      "Rava's Ho'il Principle",
+      "Rav Chisda's Intent Rule",
+      "Furrow Challenge",
+      "Gid Hanasheh Lashes",
+      "Ein Chiluk Melachot",
+      "Fire Not Separate",
+      "Nazir Wine Example",
+      "Muktza Solution",
+      "Avoda Zara Wood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage explicitly states the principle of 'no division of labors' (ein chiluk melachot) on Yom Tov versus Shabbat, which is precisely what section 5 'Ein Chiluk Melachot' discusses.",
+      "chosen_heading": "Ein Chiluk Melachot",
+      "current_heading": "Ein Chiluk Melachot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Avoda Zara Wood",
+    "candidates": [
+      "Fire Not Separate",
+      "Nazir Wine Example",
+      "Muktza Solution",
+      "Avoda Zara Wood",
+      "Hekdesh Wood Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items deal directly with the asheira wood proposal \u2014 item 1 introduces it with the verse 'velo yidbak beyadecha' and item 2 raises the objection about the additional prohibition of 'velo tavi to'evah el beisecha,' which is precisely what candidate 3's prose describes as the reason this proposal 'overachieves.'",
+      "chosen_heading": "Avoda Zara Wood",
+      "current_heading": "Avoda Zara Wood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Hekdesh Wood Solution",
+    "candidates": [
+      "Hekdesh Wood Solution",
+      "Same Debate Theory",
+      "Eliezer's Ho'il"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses removing *hav'ara* and substituting *atzei hekdesh* with the proof-verse from Deuteronomy 12:3\u20134, which is precisely what the 'Hekdesh Wood Solution' prose describes.",
+      "chosen_heading": "Hekdesh Wood Solution",
+      "current_heading": "Hekdesh Wood Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Eliezer's Ho'il",
+    "candidates": [
+      "Same Debate Theory",
+      "Eliezer's Ho'il",
+      "Yehoshua Rejects Ho'il",
+      "Rav Pappa's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rami bar \u1e24ama's overarching claim that the Rav \u1e24isda/Rabba dispute maps onto the Rabbi Eliezer/Rabbi Yehoshua dispute, which is exactly what the 'Same Debate Theory' section's prose describes, rather than the more detailed analysis of either opinion individually.",
+      "chosen_heading": "Same Debate Theory",
+      "current_heading": "Eliezer's Ho'il",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Rav Pappa's Distinction",
+    "candidates": [
+      "Yehoshua Rejects Ho'il",
+      "Rav Pappa's Distinction",
+      "Sheshet's Challenge",
+      "Yirmiyah Accepts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rav Pappa's and Rav Sheisha's qualifications distinguishing the challah case from the cooking-for-guests case \u2014 exactly the content described in candidate 1's prose about asymmetry between the two debates, with Rav Pappa noting Rabbi Eliezer's ho'il depends on the baker baking for himself, and Rav Sheisha noting Rabbi Yehoshua's rejection depends on one loaf being forbidden to everyone.",
+      "chosen_heading": "Rav Pappa's Distinction",
+      "current_heading": "Rav Pappa's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Yirmiyah Accepts",
+    "candidates": [
+      "Sheshet's Challenge",
+      "Yirmiyah Accepts",
+      "Zeira's Silence Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Yirmiyah accepting Rami bar Chama's equation while Rabbi Zeira does not, which is precisely what the 'Yirmiyah Accepts' section's prose describes.",
+      "chosen_heading": "Yirmiyah Accepts",
+      "current_heading": "Yirmiyah Accepts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Zeira's Silence Proof",
+    "candidates": [
+      "Zeira's Silence Proof",
+      "Yirmiyah's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Zeira's argument from Rabbi Eliezer's silence (v'shatik lei) when confronted by Rabbi Yehoshua, which is precisely what heading 0 ('Zeira's Silence Proof') describes.",
+      "chosen_heading": "Zeira's Silence Proof",
+      "current_heading": "Zeira's Silence Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Yirmiyah's Response",
+    "candidates": [
+      "Yirmiyah's Response",
+      "Halacha Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yirmiyah's counter-argument about Rabbi Yehoshua's silence in the baraita versus his response in the mishna, which is precisely what the prose under 'Yirmiyah's Response' describes.",
+      "chosen_heading": "Yirmiyah's Response",
+      "current_heading": "Yirmiyah's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Halacha Eliezer",
+    "candidates": [
+      "Halacha Eliezer",
+      "Dough Size Question",
+      "Yishmael Measurements",
+      "Natan Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly states Rabbi Yehuda HaNasi's ruling in favor of Rabbi Eliezer and Rabbi Yitz\u1e25ak's ruling in favor of ben Beteira, which is precisely what the 'Halacha Eliezer' section's prose describes.",
+      "chosen_heading": "Halacha Eliezer",
+      "current_heading": "Halacha Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Natan Reversal",
+    "candidates": [
+      "Dough Size Question",
+      "Yishmael Measurements",
+      "Natan Reversal",
+      "Rav's One Kab",
+      "Five Revaim Min"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the dispute between Rabbi Yishmael and Rabbi Natan, the baraita contradiction resolved by inferior/superior grain quality, and Rav Pappa's inference about the degradation ratios \u2014 are precisely the content described in the 'Natan Reversal' prose, which is also the current placement.",
+      "chosen_heading": "Natan Reversal",
+      "current_heading": "Natan Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Five Revaim Min",
+    "candidates": [
+      "Rav's One Kab",
+      "Five Revaim Min",
+      "Combination Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav's ruling about the kav de-Melogna and the Gemara's resolution of the apparent contradiction with the five-reva'im standard \u2014 exactly what heading 0 ('Rav's One Kab') describes, including the note that 'the Gemara notes the apparent contradiction with the mishna's requirement of five reva'im of flour.'",
+      "chosen_heading": "Rav's One Kab",
+      "current_heading": "Five Revaim Min",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Combination Solution",
+    "candidates": [
+      "Five Revaim Min",
+      "Combination Solution",
+      "No-Rim Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain about the kephiza-by-kephiza practice and the Rabbi Eliezer basket-combining solution, which is precisely what the 'Combination Solution' prose describes in detail.",
+      "chosen_heading": "Combination Solution",
+      "current_heading": "Combination Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "No-Rim Question",
+    "candidates": [
+      "No-Rim Question",
+      "Basket vs Oven",
+      "Babylonian Breads"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yirmiyah's dilemma about a board without a rim (tavlah she'ein lah levizbezin), asking whether tokh kli or avir kli is required, ending in teiku \u2014 exactly what the 'No-Rim Question' prose describes.",
+      "chosen_heading": "No-Rim Question",
+      "current_heading": "No-Rim Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Babylonian Breads",
+    "candidates": [
+      "Basket vs Oven",
+      "Babylonian Breads",
+      "Gamliel Lenient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita contains all three opinions (Rabbi Eliezer/basket, Rabbi Yehoshua/oven, and Rabban Shimon ben Gamliel/biting loaves) as a single unit, and the 'Basket vs Oven' heading's prose explicitly describes this foundational baraita dispute as its subject matter, making it the natural home for the entire passage rather than splitting it under 'Babylonian Breads' which covers only one of its three opinions.",
+      "chosen_heading": "Basket vs Oven",
+      "current_heading": "Babylonian Breads",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Gamliel Lenient",
+    "candidates": [
+      "Babylonian Breads",
+      "Gamliel Lenient",
+      "Assembly Line Model",
+      "Station Rotation",
+      "Akiva No Rules",
+      "Inspection Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gamliel Lenient",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing Rabban Gamliel's lenient position about three women kneading simultaneously and baking sequentially, which is precisely what the 'Gamliel Lenient' prose describes.",
+      "second_heading": "Assembly Line Model",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Rabbis' opposing view \u2014 the assembly-line model where three women work simultaneously at different stages \u2014 which is exactly what the 'Assembly Line Model' prose describes.",
+      "current_heading": "Gamliel Lenient",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Inspection Principle",
+    "candidates": [
+      "Assembly Line Model",
+      "Station Rotation",
+      "Akiva No Rules",
+      "Inspection Principle",
+      "Tapach Expanding",
+      "Se'or Blanching"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Station Rotation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rabbi Akiva's ruling) and Item 2 (the baraita describing the assembly-line rotation with the principle kol zman she'oseket) belong under 'Station Rotation', whose prose explicitly describes the assembly-line cycle and the kol zman she'oseket principle.",
+      "second_heading": "Akiva No Rules",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the baraita recording Rabbi Akiva's questions before Rabban Gamliel about diligent women, wet/dry wood, hot/cold oven, and the tapach/tiltosh betzonen principle) belongs under 'Inspection Principle', whose prose describes exactly this baraita exchange and its conclusion.",
+      "current_heading": "Inspection Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Se'or Blanching",
+    "candidates": [
+      "Tapach Expanding",
+      "Se'or Blanching",
+      "Siduq Cracking",
+      "Yehuda-Meir Dispute",
+      "Rava's Explanation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Se'or Blanching",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna presenting the siur/siduq distinction and Rabbi Yehuda vs. Chachamim debate, matching heading 1 ('Se'or Blanching') and heading 2 ('Siduq Cracking') \u2014 but since items 1-2 form the Mishna unit that introduces both stages, heading 1 is the better anchor as it covers the se'or definition and the patur ruling.",
+      "second_heading": "Yehuda-Meir Dispute",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara baraita and its resolution identifying the anonymous Chachamim of the mishna with Rabbi Meir and reconciling the inverted attributions, which is precisely what heading 3 ('Yehuda-Meir Dispute') describes.",
+      "current_heading": "Se'or Blanching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Rava's Explanation",
+    "candidates": [
+      "Siduq Cracking",
+      "Yehuda-Meir Dispute",
+      "Rava's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's explanation of Rabbi Meir's reasoning using the 'crack above/cracks below' principle, which is precisely what the prose of candidate 2 ('Rava's Explanation') discusses.",
+      "chosen_heading": "Rava's Explanation",
+      "current_heading": "Rava's Explanation",
+      "moved": false
+    }
+  }
+]

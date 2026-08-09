@@ -1,0 +1,312 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Rava: Gezeira Carrying",
+    "candidates": [
+      "Hillel vs. Shammai",
+      "Rava: Gezeira Carrying",
+      "Abaye Challenges",
+      "Rava Responds"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava: Gezeira Carrying",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabba's gezeirah decree about carrying in the public domain, which matches heading 1's prose describing exactly that reasoning.",
+      "second_heading": "Abaye Challenges",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's challenge about a pit in one's courtyard, which matches heading 2's prose describing precisely that objection.",
+      "current_heading": "Rava: Gezeira Carrying",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rava Responds",
+    "candidates": [
+      "Abaye Challenges",
+      "Rava Responds",
+      "Merchatza'ot Tangent",
+      "Hashakah Water Q",
+      "Lo Shchiach",
+      "Tosafot Water Q",
+      "Drawing vs. Immersing",
+      "Rashi Category",
+      "Why Not Vessels",
+      "Category Boundaries",
+      "Mikvah as Well",
+      "Tamei Timing Q",
+      "Tumah Lo Shchiach",
+      "Tumah Levels",
+      "Kohanim Careful"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Yom Tov/Shabbat gezeirah exchange (gazru Yom Tov atu Shabbat) which is explicitly described and attributed in the 'Rava Responds' section's prose.",
+      "chosen_heading": "Rava Responds",
+      "current_heading": "Rava Responds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Kohanim Careful",
+    "candidates": [
+      "Merchatza'ot Tangent",
+      "Hashakah Water Q",
+      "Lo Shchiach",
+      "Tosafot Water Q",
+      "Drawing vs. Immersing",
+      "Rashi Category",
+      "Why Not Vessels",
+      "Category Boundaries",
+      "Mikvah as Well",
+      "Tamei Timing Q",
+      "Tumah Lo Shchiach",
+      "Tumah Levels",
+      "Kohanim Careful",
+      "Rav Yosef Squeeze",
+      "Abaye Non-Squeeze"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 8,
+      "first_heading": "Hashakah Water Q",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-8 form the continuous chain of gezeirah l'gezeirah objections beginning with the hashakah water challenge, which matches heading 1's prose about that methodological objection.",
+      "second_heading": "Rav Yosef Squeeze",
+      "second_confidence": "high",
+      "second_reason": "Item 9 introduces Rav Yosef's entirely separate basis for the prohibition (gezeirah mishum sechitah), which exactly matches heading 13's prose about Rav Yosef's squeezing rationale.",
+      "current_heading": "Kohanim Careful",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Abaye Non-Squeeze",
+    "candidates": [
+      "Rav Yosef Squeeze",
+      "Abaye Non-Squeeze",
+      "Rav Bibi Delay",
+      "Braita Tanaic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Abaye's challenge about non-squeezable vessels and Rav Yosef's gezeirah hani atu hani response, followed by the recycled objections \u2014 exactly what the 'Abaye Non-Squeeze' section's prose describes.",
+      "chosen_heading": "Abaye Non-Squeeze",
+      "current_heading": "Abaye Non-Squeeze",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Braita Tanaic",
+    "candidates": [
+      "Rav Bibi Delay",
+      "Braita Tanaic",
+      "Rava Nireh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Beivai's statement and the supporting baraita as a single unit, and candidate 0 ('Rav Bibi Delay') is specifically dedicated to Rav Bibi's gezeirah shema yisheheh explanation, while candidate 1 ('Braita Tanaic') covers only the baraita portion \u2014 the passage belongs under the heading that introduces Rav Bibi's position, which then includes the baraita as corroboration.",
+      "chosen_heading": "Rav Bibi Delay",
+      "current_heading": "Braita Tanaic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rava Nireh",
+    "candidates": [
+      "Braita Tanaic",
+      "Rava Nireh",
+      "Adam Nireh Q",
+      "Cooling Not Fixing",
+      "Winter Dirty Q",
+      "Rav Nachman Heat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement about nireh k'metaken plus the immediate challenge about persons and the cooling answer, all of which are discussed together in candidate 1's prose (which covers Rava's explanation) combined with candidates 2 and 3, but since the passage is a single unit covering both Rava's reason and the person/cooling exchange, and candidate 1's prose already anticipates and discusses this entire exchange including the adam nireh response, the current placement under 'Rava Nireh' is the best single heading for this unified talmudic passage.",
+      "chosen_heading": "Rava Nireh",
+      "current_heading": "Rava Nireh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Rav Nachman Heat",
+    "candidates": [
+      "Adam Nireh Q",
+      "Cooling Not Fixing",
+      "Winter Dirty Q",
+      "Rav Nachman Heat",
+      "Yom Kippur Q",
+      "Ho'il Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's challenge about dirty/bad water and cold/rainy season \u2014 exactly the content described in candidate 2 ('Winter Dirty Q'), which discusses the objection about dirty mikvah water and winter conditions, whereas candidate 3 ('Rav Nachman Heat') describes Rav Nachman's answers which would come after this challenge.",
+      "chosen_heading": "Winter Dirty Q",
+      "current_heading": "Rav Nachman Heat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Ho'il Shabbat",
+    "candidates": [
+      "Yom Kippur Q",
+      "Ho'il Shabbat",
+      "Vinegar Test",
+      "Vinegar Contradiction",
+      "Abaye Timing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yom Kippur Q",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's question about Yom Kippur \u2014 exactly what heading 0 ('Yom Kippur Q') describes as the challenge that immersion on Yom Kippur is obviously for taharah.",
+      "second_heading": "Ho'il Shabbat",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's ho'il response \u2014 exactly what heading 1 ('Ho'il Shabbat') describes as Rava's principle that anything permitted on Shabbat cannot be forbidden on Yom Kippur.",
+      "current_heading": "Ho'il Shabbat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Abaye Timing",
+    "candidates": [
+      "Vinegar Test",
+      "Vinegar Contradiction",
+      "Abaye Timing",
+      "Rava Reverses",
+      "Braita Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the contradiction between the mishnah and baraita regarding vinegar (sipping vs. swallowing) and then give Abaye's and Rava's resolutions to that contradiction \u2014 exactly the content described in candidate 1 ('Vinegar Contradiction'), while the current placement under 'Abaye Timing' (index 2) covers only Rava's timing-based resolution without the initial raising of the contradiction that opens item 1.",
+      "chosen_heading": "Vinegar Contradiction",
+      "current_heading": "Abaye Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Braita Override",
+    "candidates": [
+      "Rava Reverses",
+      "Braita Override",
+      "Tanaic Tisha Yom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Rava retracting his before/after-dipping distinction due to the ho'il principle, which is exactly what heading 0 'Rava Reverses' describes in its prose.",
+      "chosen_heading": "Rava Reverses",
+      "current_heading": "Braita Override",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Tanaic Tisha Yom",
+    "candidates": [
+      "Braita Override",
+      "Tanaic Tisha Yom",
+      "Aveilus Principle",
+      "Yom Kippur Modern",
+      "Practical Need",
+      "Mishna Hashakah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about which position Rava retracted and the decisive baraita answer \u2014 exactly what the 'Braita Override' prose describes, not the interpretive discussion of the baraita's implications found under 'Tanaic Tisha Yom'.",
+      "chosen_heading": "Braita Override",
+      "current_heading": "Tanaic Tisha Yom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Mishna Hashakah",
+    "candidates": [
+      "Aveilus Principle",
+      "Yom Kippur Modern",
+      "Practical Need",
+      "Mishna Hashakah",
+      "Attribution Q",
+      "Braita Positions",
+      "Temporal Reading",
+      "Dispute Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "All five items form a continuous discussion about the mishna's ruling on hashakah versus immersion, the attribution question, and the temporal resolution \u2014 content that spans candidates 3\u20137, but the current placement under 'Mishna Hashakah' (index 3) is the opening of this whole unit and the passage begins with the mishna's ruling, making it the best single home among the candidates, noting that the essay author apparently intended to split this material across multiple headings (3\u20137) rather than place it all under one.",
+      "chosen_heading": "Mishna Hashakah",
+      "current_heading": "Mishna Hashakah",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Abba Shaul & Cheese",
+    "candidates": [
+      "Milk & Whey Dispute",
+      "Lashon Bnei Adam",
+      "Reciprocal Cases",
+      "Abba Shaul & Cheese",
+      "Meat/Gravy Rule",
+      "Rabbi Yose Opinion",
+      "Rabbi Tarfon Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abba Shaul & Cheese",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the full Mishna text covering milk/whey, cheese (Abba Shaul), and the opening of the meat case \u2014 its natural home is under 'Abba Shaul & Cheese' which discusses that Mishna segment, but the Mishna text itself spans multiple rulings including Abba Shaul's cheese ruling which is the focus of heading 3.",
+      "second_heading": "Meat/Gravy Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the concluding clause of the Mishna about meat/gravy and Rabbi Yehuda's prohibition, which is precisely what heading 4 ('Meat/Gravy Rule') discusses.",
+      "current_heading": "Abba Shaul & Cheese",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Rabbi Tarfon Case",
+    "candidates": [
+      "Meat/Gravy Rule",
+      "Rabbi Yose Opinion",
+      "Rabbi Tarfon Case",
+      "Noten Ta'am Scope",
+      "Wine Dishes",
+      "This Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the exact Rabbi Tarfon incident with eggs cooked with meat, and the clarification about 'basar zeh' and noten ta'am \u2014 which is precisely what the 'Rabbi Tarfon Case' section's prose discusses.",
+      "chosen_heading": "Rabbi Tarfon Case",
+      "current_heading": "Rabbi Tarfon Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "This Wine",
+    "candidates": [
+      "Noten Ta'am Scope",
+      "Wine Dishes",
+      "This Wine",
+      "Stam Yeinam",
+      "Nine Days Custom",
+      "Ran's Framework",
+      "Definition",
+      "Rambam Examples",
+      "Rashi Position",
+      "Mordechai View",
+      "Ran Position",
+      "Lentil Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both the general wine vow (permitted in cooked dishes with wine flavor) and the 'zeh' specification case together, and the prose under 'Wine Dishes' (index 1) discusses exactly this contrast between ordinary wine vows and wine-flavored dishes, whereas the current placement under 'This Wine' (index 2) discusses only the zeh case \u2014 the mishna item covers both halves and belongs under the heading that introduces the full wine vow discussion.",
+      "chosen_heading": "Wine Dishes",
+      "current_heading": "This Wine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Lentil Problem",
+    "candidates": [
+      "Stam Yeinam",
+      "Nine Days Custom",
+      "Ran's Framework",
+      "Definition",
+      "Rambam Examples",
+      "Rashi Position",
+      "Mordechai View",
+      "Ran Position",
+      "Lentil Problem",
+      "Mar Ke-Atreih",
+      "Milk Whey Terminology",
+      "Grapes/Olives Rule",
+      "Seven Mashkim",
+      "These Grapes/Olives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All three items form a continuous gemara unit: the contradiction about lentils/ashishim (item 1), its resolution via locale-based vernacular (item 2), and the supporting baraita about milk/whey/cheese/gravy distinctions (item 3) all belong to the 'Lentil Problem' section which explicitly discusses the riminhu against the mishna regarding lentils and ashishim.",
+      "chosen_heading": "Lentil Problem",
+      "current_heading": "Lentil Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "These Grapes/Olives",
+    "candidates": [
+      "Mar Ke-Atreih",
+      "Milk Whey Terminology",
+      "Grapes/Olives Rule",
+      "Seven Mashkim",
+      "These Grapes/Olives",
+      "Rami Bar Chama Q",
+      "Rabbi Yehuda Baraita",
+      "Fish Mishna"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 2,
+      "first_heading": "These Grapes/Olives",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 discusses 'yayin zeh' falling into a cooked dish, which fits the 'These Grapes/Olives' heading's discussion of how specifying 'zeh' or 'eilu' causes prohibition to extend to whatever the item flavors or produces.",
+      "second_heading": "Grapes/Olives Rule",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the mishna about grapes/olives permitting wine/oil, which directly matches the 'Grapes/Olives Rule' heading's prose about one who takes a neder against grapes being permitted to drink wine and against olives being permitted to use oil.",
+      "third_heading": "Rami Bar Chama Q",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 contains Rami bar Chama's dilemma about 'eilu davka o she'eini to'em davka' and the subsequent attempts to resolve it through proof texts, which matches the 'Rami Bar Chama Q' heading and its follow-through discussion.",
+      "current_heading": "These Grapes/Olives",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Fish Mishna",
+    "candidates": [
+      "Rami Bar Chama Q",
+      "Rabbi Yehuda Baraita",
+      "Fish Mishna",
+      "Rava Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yehuda Baraita",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 belong under 'Rabbi Yehuda Baraita' because they present the Rabbi Tarfon/Rabbi Yehuda baraita and the gemara's reinterpretation of Rami bar Chama's dilemma as being about 'she'eini to'em' rather than 'eilu', which is exactly what that section's prose describes.",
+      "second_heading": "Fish Mishna",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the fish mishna (dagim) invoked to resolve Rami bar Chama's question about 'she'eini to'em', which is precisely what the 'Fish Mishna' section's prose describes.",
+      "current_heading": "Fish Mishna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rava Resolution",
+    "candidates": [
+      "Rava Resolution",
+      "She'eini To'em",
+      "Dates/Date Honey"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement that the permitted brine already emerged before the neder, which is precisely what the 'Rava Resolution' section describes \u2014 blocking the inference by pointing to pre-existing brine (kvar yatza mehen).",
+      "chosen_heading": "Rava Resolution",
+      "current_heading": "Rava Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Dates/Date Honey",
+    "candidates": [
+      "She'eini To'em",
+      "Dates/Date Honey",
+      "Winter Grapes",
+      "Edible Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mishna about dates/date honey and winter grapes, and the gemara's opening question about the Rabbis vs. the first tanna \u2014 directly introduce the material discussed under the 'Dates/Date Honey' heading, which is exactly where this mishna (53a) and its gemara open.",
+      "chosen_heading": "Dates/Date Honey",
+      "current_heading": "Dates/Date Honey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Edible Principle",
+    "candidates": [
+      "Winter Grapes",
+      "Edible Principle",
+      "Inedible Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita of Rabbi Shimon ben Elazar's bidirectional principle about items that are customarily eaten and whose extracted liquid is also customarily eaten (dates and date honey), which precisely matches the 'Edible Principle' section's prose.",
+      "chosen_heading": "Edible Principle",
+      "current_heading": "Edible Principle",
+      "moved": false
+    }
+  }
+]

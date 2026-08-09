@@ -1,0 +1,328 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Two vs. Three People",
+    "candidates": [
+      "Two vs. Three People",
+      "Rabbi Yosi's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnah's distinction between two vs. three people and the kitvu/tnu language, including Rabbi Meir's ruling about three people constituting a beis din \u2014 all of which is precisely what the 'Two vs. Three People' prose section discusses.",
+      "chosen_heading": "Two vs. Three People",
+      "current_heading": "Two vs. Three People",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Rabbi Yosi's Rule",
+    "candidates": [
+      "Rabbi Yosi's Rule",
+      "Signing vs. Scribing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi \u1e24anina's tradition about saying 'give a get' to three people, Rabbi Yosi's counter-tradition about the Sanhedrin, and the case of telling ten people to write \u2014 are all discussed explicitly in the 'Rabbi Yosi's Rule' prose, which covers exactly this sequence of the Mishnah.",
+      "chosen_heading": "Rabbi Yosi's Rule",
+      "current_heading": "Rabbi Yosi's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Signing vs. Scribing",
+    "candidates": [
+      "Signing vs. Scribing",
+      "Mili Lo Mimsaran"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening Gemara question sent from Rav's academy to Shmuel about writing vs. signing the get, which is precisely what candidate 0's prose describes as the opening of the sugya.",
+      "chosen_heading": "Signing vs. Scribing",
+      "current_heading": "Signing vs. Scribing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Mili Lo Mimsaran",
+    "candidates": [
+      "Mili Lo Mimsaran",
+      "Omer Imru Basics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items form a continuous chain of question-and-answer about whether Shmuel's uncertainty concerns 'mili lo mimsaran l'shaliach' or the meaning of 'kitvu,' which is precisely what the prose of heading 0 describes in detail.",
+      "chosen_heading": "Mili Lo Mimsaran",
+      "current_heading": "Mili Lo Mimsaran",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Omer Imru Basics",
+    "candidates": [
+      "Omer Imru Basics",
+      "Chasam Sofer Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address whether Rabbi Yosei concedes in the case of 'omer imru' \u2014 item 1 raises the question and cites the chasam sofer mishna as a challenge, and item 2 (Rav \u1e24isda's statement that the mishna follows Rabbi Yosei's position on mili lo mimsaran) is the immediate follow-up \u2014 which matches exactly the 'Omer Imru Basics' prose that asks 'does Rabbi Yosi actually agree that omer imru is permissible' and sets up the chasam sofer implication.",
+      "chosen_heading": "Omer Imru Basics",
+      "current_heading": "Omer Imru Basics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Chasam Sofer Concern",
+    "candidates": [
+      "Chasam Sofer Concern",
+      "Two Separate Issues",
+      "Rabbi Yosi Both Ways",
+      "Shmuel Splits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are precisely the kisufa d'sofer concern and its deflection (kasher v'lo ta'aseh) described in the 'Chasam Sofer Concern' prose, which explicitly narrates both the first and second versions of the scenario along with the Gemara's answer \u2014 exactly matching items 1\u20134.",
+      "chosen_heading": "Chasam Sofer Concern",
+      "current_heading": "Chasam Sofer Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Shmuel Splits",
+    "candidates": [
+      "Two Separate Issues",
+      "Rabbi Yosi Both Ways",
+      "Shmuel Splits",
+      "Nimuko Imo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly express the conclusion that Rabbi Yosi stated two halakhot and that Shmuel agrees with one and disagrees with another \u2014 precisely what heading 1 ('Rabbi Yosi Both Ways') describes, whereas the current placement under 'Shmuel Splits' discusses Shmuel's position as the main focus rather than the resolution about Rabbi Yosi's dual ruling.",
+      "chosen_heading": "Rabbi Yosi Both Ways",
+      "current_heading": "Shmuel Splits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Nimuko Imo",
+    "candidates": [
+      "Shmuel Splits",
+      "Nimuko Imo",
+      "Kasher V'Lo Taaseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 Shmuel's ruling in Rabbi Yehuda HaNasi's name, Rabbi Shimon's challenge, Rebbi's 'nimuko imo' response, and the baraita of Isi ben Yehudah cataloguing the sages \u2014 are precisely what the 'Nimuko Imo' prose section describes, making the current placement correct.",
+      "chosen_heading": "Nimuko Imo",
+      "current_heading": "Nimuko Imo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Kasher V'Lo Taaseh",
+    "candidates": [
+      "Kasher V'Lo Taaseh",
+      "Hired Witnesses Fear",
+      "Dibura Kamari"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together \u2014 Rav Huna's ruling of keshera v'lo ta'aseh and the follow-up question with the shema tiskor edim answer \u2014 are precisely what candidate 0's prose describes as the concrete case with that ruling, making the current placement the best match.",
+      "chosen_heading": "Kasher V'Lo Taaseh",
+      "current_heading": "Kasher V'Lo Taaseh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Dibura Kamari",
+    "candidates": [
+      "Hired Witnesses Fear",
+      "Dibura Kamari",
+      "Rav Chisda Position",
+      "Amoraim Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 questioning whether forgery is a real concern, citing the baraita that witnesses signed on sale documents and gittin were not suspected of forgery, and answering that while they won't commit outright forgery (ma'aseh lo avdi) they will utter false statements (dibura ka'amri) \u2014 directly supports the 'Hired Witnesses Fear' section's argument that the lower threshold of mere speech (not signing) makes bribery a credible concern, whereas the current 'Dibura Kamari' section's prose describes this distinction as already established, suggesting the passage belongs one step earlier.",
+      "chosen_heading": "Hired Witnesses Fear",
+      "current_heading": "Dibura Kamari",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Amoraim Dispute",
+    "candidates": [
+      "Rav Chisda Position",
+      "Amoraim Dispute",
+      "Without Kulchem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Chisda Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav \u1e24isda's ruling on the 'tell the scribe' scenario, which matches candidate 0's prose describing exactly that case and Rav \u1e24isda's keshera v'lo ta'aseh position.",
+      "second_heading": "Amoraim Dispute",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the dispute among multiple Amoraim (Rav Na\u1e25man, Rav Sheshet, Rabba, Rav Yosef) and the reversal of attributions, which matches candidate 1's prose describing exactly those Amoraim and the reversal note.",
+      "current_heading": "Amoraim Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Without Kulchem",
+    "candidates": [
+      "Without Kulchem",
+      "With Kulchem",
+      "Counting Question",
+      "Counting Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the baraita teaching both the 'without kulchem' rule (echad kotev al yedei kulam) and the 'with kulchem' rule (echad kotev bemaamad kulam), but the current heading 'Without Kulchem' has prose that explicitly quotes and discusses this baraita as its primary content, making it the best match \u2014 and the 'With Kulchem' section's prose treats the kulchem rules as already established background rather than introducing the baraita itself.",
+      "chosen_heading": "Without Kulchem",
+      "current_heading": "Without Kulchem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Counting Debate",
+    "candidates": [
+      "With Kulchem",
+      "Counting Question",
+      "Counting Debate",
+      "Rav Papa Resolves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma about enumeration (mana otan mahu) and presents both opinions, which corresponds to the 'Counting Question' heading that introduces this exact question \u2014 the 'Counting Debate' heading's prose describes the resolution/positions as already established facts, but the actual Talmudic text includes both the raising of the dilemma and the two opinions together, making 'Counting Question' the better fit since it introduces the dilemma that the passage contains.",
+      "chosen_heading": "Counting Question",
+      "current_heading": "Counting Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Rav Papa Resolves",
+    "candidates": [
+      "Counting Debate",
+      "Rav Papa Resolves",
+      "Rav Yehuda Takana",
+      "Rava Correction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Papa Resolves",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Papa's resolution of the contradiction between Rav Huna and Rav Yochanan, which matches the 'Rav Papa Resolves' prose exactly.",
+      "second_heading": "Rav Yehuda Takana",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yehuda's practical ordinance (takana) for the kulchem get, which matches the 'Rav Yehuda Takana' prose exactly.",
+      "current_heading": "Rav Papa Resolves",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rava Correction",
+    "candidates": [
+      "Rav Yehuda Takana",
+      "Rava Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's objection to Rav Yehuda's formula, noting the risk of truncation (gazlei diburei) leading to invalidity, which matches the 'Rava Correction' prose exactly.",
+      "chosen_heading": "Rava Correction",
+      "current_heading": "Rava Correction",
+      "moved": false
+    }
+  }
+]

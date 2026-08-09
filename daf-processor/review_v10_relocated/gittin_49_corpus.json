@@ -1,0 +1,307 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Property Equivalence",
+    "candidates": [
+      "Three Categories",
+      "Ishmael vs. Akiva",
+      "Property Equivalence",
+      "Gezerah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's case of the nizak's idit equaling the mazik's ziburit and the Yishmael/Akiva dispute about which party's land is appraised \u2014 precisely what the 'Property Equivalence' section's prose describes and analyzes.",
+      "chosen_heading": "Property Equivalence",
+      "current_heading": "Property Equivalence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Gezerah Shavah",
+    "candidates": [
+      "Gezerah Shavah",
+      "Simple Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly explains Rabbi Yishmael's reasoning via a gezeirah shavah on the word 'sadeh' (field stated above/below), which matches exactly the prose in heading 0 about the gezerah shavah derivation.",
+      "chosen_heading": "Gezerah Shavah",
+      "current_heading": "Gezerah Shavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Simple Reading",
+    "candidates": [
+      "Simple Reading",
+      "Grade Mismatch"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rabbi Akiva's position that 'meitav sadehu yeshalem' refers to the field of the one paying (the mazik), which is precisely what the 'Simple Reading' prose describes as Rabbi Akiva's plain grammatical reading of the verse.",
+      "chosen_heading": "Simple Reading",
+      "current_heading": "Simple Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Grade Mismatch",
+    "candidates": [
+      "Grade Mismatch",
+      "Hekdesh Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yishmael's explanation of how both the gezeirah shavah and the plain sense of the verse (meitav sadehu) each do independent work \u2014 exactly the content described in the 'Grade Mismatch' prose, which explicitly discusses this hani gezeirah shavah ve-hani kra framework and the scenario of the mazik lacking the appropriate grade.",
+      "chosen_heading": "Grade Mismatch",
+      "current_heading": "Grade Mismatch",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Hekdesh Kal Vachomer",
+    "candidates": [
+      "Hekdesh Kal Vachomer",
+      "Hekdesh's Ox",
+      "Shimon's View",
+      "Normal vs. Hekdesh",
+      "Torah vs. Rabbinic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Hekdesh Kal Vachomer",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 cover exactly what heading 0's prose describes: Rabbi Akiva's kal va-chomer about hekdesh, the two possibilities (gored ox vs. pledge), the creditor objection, and the resolution via Rabbi Shimon ben Menasya.",
+      "second_heading": "Normal vs. Hekdesh",
+      "second_confidence": "high",
+      "second_reason": "Items 6-7 raise the question of whether the entire Rabbi Akiva/Rabbi Yishmael dispute is really only about the hekdesh case (Rabbi Shimon ben Menasya vs. Rabbis), which is precisely what heading 3's prose describes as the Gemara's further question about the structure of the dispute.",
+      "current_heading": "Hekdesh Kal Vachomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Torah vs. Rabbinic",
+    "candidates": [
+      "Hekdesh's Ox",
+      "Shimon's View",
+      "Normal vs. Hekdesh",
+      "Torah vs. Rabbinic",
+      "Ta'am HaKra",
+      "Deterrence Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's rejection of the 'hekdesh-only' reading of the dispute \u2014 item 1 is the two objections and item 2 is Rav Ashi's explicit baraita proving Rabbi Yishmael and Rabbi Akiva debate the normal nizak/mazik case \u2014 which is precisely what candidate 2 ('Normal vs. Hekdesh') describes in its prose.",
+      "chosen_heading": "Normal vs. Hekdesh",
+      "current_heading": "Torah vs. Rabbinic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Deterrence Rationale",
+    "candidates": [
+      "Ta'am HaKra",
+      "Deterrence Rationale",
+      "Predatory Lending"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Ravina's explanation that the mishna reflects Rabbi Akiva and Rabbi Shimon's ta'am dikra approach, and the baraita detailing Rabbi Shimon's deterrence rationale (mipnei ha-gazlanim) with the meitav verse \u2014 directly support the 'Deterrence Rationale' section's prose, which explicitly discusses these same elements including the baraita's language and the ve-samchu al formulation.",
+      "chosen_heading": "Deterrence Rationale",
+      "current_heading": "Deterrence Rationale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Predatory Lending",
+    "candidates": [
+      "Predatory Lending",
+      "Lending Incentives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the reason for the grade B rule in terms of preventing predatory lending, which is precisely what candidate 0's prose discusses, making the current placement correct.",
+      "chosen_heading": "Predatory Lending",
+      "current_heading": "Predatory Lending",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Lending Incentives",
+    "candidates": [
+      "Lending Incentives",
+      "Marriage Incentive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'locking the door before borrowers' argument about lending incentives, which is explicitly discussed in the prose under heading 0.",
+      "chosen_heading": "Lending Incentives",
+      "current_heading": "Lending Incentives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Marriage Incentive",
+    "candidates": [
+      "Marriage Incentive",
+      "Divorce Asymmetry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Shimon's rationale about a woman's desire to marry explaining why ketubbah is collected from inferior-quality land, which is precisely what the 'Marriage Incentive' section's prose discusses and analyzes.",
+      "chosen_heading": "Marriage Incentive",
+      "current_heading": "Marriage Incentive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Divorce Asymmetry",
+    "candidates": [
+      "Divorce Asymmetry",
+      "Orphans Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the 'davar acher' rationale about divorce asymmetry and the Gemara's question about why a husband shouldn't receive a ketubbah from his wife, which is precisely what the 'Divorce Asymmetry' prose section describes in detail.",
+      "chosen_heading": "Divorce Asymmetry",
+      "current_heading": "Divorce Asymmetry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Orphans Limitation",
+    "candidates": [
+      "Orphans Limitation",
+      "Grade B Direct"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Mar Zutra statement (item 1) and the Gemara's immediate challenge to it (item 2), which is precisely the content described in heading 0's prose about the orphans limitation and the question of why ketubbah needs to be singled out.",
+      "chosen_heading": "Orphans Limitation",
+      "current_heading": "Orphans Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Grade B Direct",
+    "candidates": [
+      "Grade B Direct",
+      "Guarantor Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous chain of le-olam mi-yatmei / mishum china arguments that the prose of candidate 0 explicitly describes \u2014 item 1 is the first rejection using mishum china, item 2 is Rava's baraita proof, and item 3 is the rejection of that proof using mishum china \u2014 all of which candidate 0's prose directly narrates.",
+      "chosen_heading": "Grade B Direct",
+      "current_heading": "Grade B Direct",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Guarantor Setup",
+    "candidates": [
+      "Guarantor Setup",
+      "Lifetime Collection",
+      "Post-Mortem Collection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's proof from the mishna (nizakin/ba'al chov/ketubbah) and the initial question about whether it refers to orphans \u2014 this is exactly the content that sets up the guarantor resolution discussed in the 'Guarantor Setup' prose.",
+      "chosen_heading": "Guarantor Setup",
+      "current_heading": "Guarantor Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Post-Mortem Collection",
+    "candidates": [
+      "Lifetime Collection",
+      "Post-Mortem Collection",
+      "Areiv vs. Kablan"
+    ],
+    "result": null
+  }
+]

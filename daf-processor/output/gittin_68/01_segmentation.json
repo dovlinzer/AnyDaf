@@ -146,7 +146,7 @@
           "timestamp": "27:40"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -194,7 +194,7 @@
           "timestamp": "34:31"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -477,5 +477,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "33:26",
+  "amud_b_micro_title": "Journey & Kindness",
+  "shiur_start_daf": 68,
+  "shiur_start_amud": "a"
 }

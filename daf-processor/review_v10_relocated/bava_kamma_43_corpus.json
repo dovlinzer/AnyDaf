@@ -1,0 +1,333 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rabbi Akiva's Position",
+    "candidates": [
+      "Pasuk Repetition",
+      "Rabbi Akiva's Position",
+      "Debt After Death",
+      "Miscarriage Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks where Rabbi Akiva would *not* apply his rule \u2014 specifically probing the case of damages (nezek) incurred during a wife's lifetime \u2014 which is exactly what the 'Debt After Death' prose describes as the Gemara's next probe.",
+      "chosen_heading": "Debt After Death",
+      "current_heading": "Rabbi Akiva's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Miscarriage Case",
+    "candidates": [
+      "Debt After Death",
+      "Miscarriage Case",
+      "Divorce Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita about striking a woman causing miscarriage, with payment of nezek/tzaar to the woman and demei veladot to the husband, exactly matching the 'Miscarriage Case' prose which explicitly discusses this baraita and its ruling.",
+      "chosen_heading": "Miscarriage Case",
+      "current_heading": "Miscarriage Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Divorce Solution",
+    "candidates": [
+      "Divorce Solution",
+      "Father vs. Husband"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabba and Rav Na\u1e25man's 'begerusha' answer and the immediate Gemara challenge about why the ex-husband still gets demei veladot \u2014 are precisely the content described in the 'Divorce Solution' prose, which explicitly covers both the resolution and the subsequent challenge.",
+      "chosen_heading": "Divorce Solution",
+      "current_heading": "Divorce Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Father vs. Husband",
+    "candidates": [
+      "Father vs. Husband",
+      "Illicit Conception",
+      "Money vs. Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage from Rav Pappa about the Torah awarding demei veladot to the ba'al even in licentious intercourse is precisely what the 'Father vs. Husband' prose discusses, including the same verse and the same reasoning about ba'al meaning the one who had sexual relations.",
+      "chosen_heading": "Father vs. Husband",
+      "current_heading": "Father vs. Husband",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Money vs. Land",
+    "candidates": [
+      "Illicit Conception",
+      "Money vs. Land",
+      "Rabbi's Position",
+      "Unintentional Killing",
+      "Pasuk Linkage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara exchange about whether Rabba and Rav Na\u1e25man could have explained the baraita via their money-vs-land distinction rather than resorting to the divorc\u00e9e explanation, and the answer that their distinction was stated only according to the Rabbis whereas the baraita follows Rabbi \u2014 exactly the content described in the 'Money vs. Land' section's prose and its follow-on 'Rabbi's Position' section, but since items 3-4 are the resolution of the question raised in items 1-2, the whole unit belongs under the current heading where the money/land debate is introduced.",
+      "chosen_heading": "Money vs. Land",
+      "current_heading": "Money vs. Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Pasuk Linkage",
+    "candidates": [
+      "Rabbi's Position",
+      "Unintentional Killing",
+      "Pasuk Linkage",
+      "Kofer Parallels",
+      "Admission Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Unintentional Killing",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Reish Lakish on the slave's thirty shekalim) belongs under 'Unintentional Killing' whose prose explicitly discusses Reish Lakish's ruling that an ox killing a slave without intent is exempt from thirty shekalim.",
+      "second_heading": "Kofer Parallels",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rabba/Rava on kofer for a freeman killed unintentionally) belongs under 'Kofer Parallels' whose prose explicitly describes Rava applying the same principle to kofer for a free person killed without intent.",
+      "current_heading": "Pasuk Linkage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Admission Challenge",
+    "candidates": [
+      "Kofer Parallels",
+      "Admission Challenge",
+      "Witness Requirement",
+      "Major Chidush",
+      "Kapara vs. Damim",
+      "Tosfos Differences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge to Rava using the mishna about admission of ox-killing and asking whether the payment is kofer, which is exactly what the 'Admission Challenge' section's prose describes.",
+      "chosen_heading": "Admission Challenge",
+      "current_heading": "Admission Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Tosfos Differences",
+    "candidates": [
+      "Witness Requirement",
+      "Major Chidush",
+      "Kapara vs. Damim",
+      "Tosfos Differences",
+      "Slave Compensation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara's answer 'lo, damim' which candidate 0 ('Witness Requirement') explicitly quotes and discusses as part of its prose narrative about the resolution to Abaye's challenge.",
+      "chosen_heading": "Witness Requirement",
+      "current_heading": "Tosfos Differences",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Slave Compensation",
+    "candidates": [
+      "Tosfos Differences",
+      "Slave Compensation",
+      "Admission Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's challenge about why damim should not be paid for the slave's value, which directly corresponds to the 'Slave Compensation' section's prose discussing the Gemara's question of why damim aren't owed when an ox kills a slave and the owner admits it.",
+      "chosen_heading": "Slave Compensation",
+      "current_heading": "Slave Compensation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Admission Distinction",
+    "candidates": [
+      "Admission Distinction",
+      "Tam/Muad Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains both the forced-answer disclaimer ('mihu shinuyei d'chika lo m'shanina lach') and the conclusion that both clauses concern damim, which is precisely what the 'Admission Distinction' prose describes and quotes.",
+      "chosen_heading": "Admission Distinction",
+      "current_heading": "Admission Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Tam/Muad Case",
+    "candidates": [
+      "Tam/Muad Case",
+      "Reciprocal Obligation",
+      "Rava's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present precisely the tam/muad admission scenario for freeman vs. slave that the 'Tam/Muad Case' prose describes in detail \u2014 witnesses establish the killing but don't know tam/muad, owner admits muad, and the passage works through the consequences for kofer/damim by freeman and knas/damim by slave.",
+      "chosen_heading": "Tam/Muad Case",
+      "current_heading": "Tam/Muad Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Rava's Solution",
+    "candidates": [
+      "Reciprocal Obligation",
+      "Rava's Solution",
+      "Fire Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Reciprocal Obligation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the baraita objection and its resolution (Rabba's reinterpretation distinguishing kofer/knas from damim cases), which matches heading 0's prose about the baraita challenge and heading 1's prose about Rava's reinterpretation \u2014 but the baraita and its resolution form the content described under heading 0 ('Reciprocal Obligation') which introduces the braita and asks 'kofer b'eved mi ika', and heading 1 describes the reinterpretation, so items 1-3 span both 0 and 1; however since the resolution in item 3 is what heading 1's prose describes as 'Rava's Solution', items 1-3 best fit under heading 0 where the braita objection and its clarification are introduced.",
+      "second_heading": "Fire Question",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rava's follow-up question about fire (isho shelo b'kavana), which matches exactly the content described in heading 2 ('Fire Question').",
+      "current_heading": "Rava's Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Fire Question",
+    "candidates": [
+      "Rava's Solution",
+      "Fire Question",
+      "Bound Goat Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This passage asks 'from where does Rava know that he does not pay,' which is a direct challenge to Rava's position/derivation \u2014 it belongs under 'Rava's Solution' where Rava's reasoning and its basis are being elaborated, not under 'Fire Question' which discusses a subsequent application of that principle.",
+      "chosen_heading": "Rava's Solution",
+      "current_heading": "Fire Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Bound Goat Case",
+    "candidates": [
+      "Bound Goat Case",
+      "Fire vs. Pit",
+      "Rava's Tone",
+      "Two Possibilities",
+      "Teiku"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the continuous Gemara discussion of the bound goat/slave mishna and the fire-vs-pit baraita as potential sources for Rava's ruling, which is exactly what the 'Bound Goat Case' prose describes \u2014 the mishna, Reish Lakish's resolution, and then the transition to the baraita with the tana v'shayar answer, all of which appear in that section's prose.",
+      "chosen_heading": "Bound Goat Case",
+      "current_heading": "Bound Goat Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Teiku",
+    "candidates": [
+      "Fire vs. Pit",
+      "Rava's Tone",
+      "Two Possibilities",
+      "Teiku"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rava's dilemma being reframed as a genuine question ('Rava himself had a dilemma') about whether unintentional fire pays damim, which matches candidate 1 ('Rava's Tone') perfectly \u2014 the prose there explicitly discusses 'ella Rava gufei iba'i mi'ba'ei lei' and 'Eish shelo b'kavana mi meshalem dami o lo', while the two possibilities elaborated in item 2 belong to candidate 2 ('Two Possibilities') only partially, and the current placement under 'Teiku' (index 3) is clearly wrong as that section discusses only the resolution/aftermath.",
+      "chosen_heading": "Rava's Tone",
+      "current_heading": "Teiku",
+      "moved": true
+    }
+  }
+]

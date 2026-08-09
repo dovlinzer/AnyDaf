@@ -1,0 +1,491 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Property Pointed to Gov",
+    "candidates": [
+      "Property Pointed to Gov",
+      "Rav: Nasav Ve-Natan",
+      "Stolen Field, Gov Seizure",
+      "Silver Cup Case",
+      "Abaye's Challenge",
+      "Wealthy vs. Non-Wealthy",
+      "Tosafot on Shomer",
+      "Pidyon Shvuyim Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete narrative of the informer who pointed out Rav Abba's property \u2014 the initial attempt to impose liability from the judge-malpractice mishna, Rav's qualification that liability requires physical transfer, and the final ruling by Rav Shimon ben Elyakim and Rav Elazar ben Pedat based on the gazlan/field mishna \u2014 which is precisely what the current heading 'Property Pointed to Gov' describes in its prose.",
+      "chosen_heading": "Property Pointed to Gov",
+      "current_heading": "Property Pointed to Gov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Pidyon Shvuyim Case",
+    "candidates": [
+      "Rav: Nasav Ve-Natan",
+      "Stolen Field, Gov Seizure",
+      "Silver Cup Case",
+      "Abaye's Challenge",
+      "Wealthy vs. Non-Wealthy",
+      "Tosafot on Shomer",
+      "Pidyon Shvuyim Case",
+      "Donkey Thrown Overboard",
+      "Rava Exempt, Abaye Obj.",
+      "Rodef Doctrine",
+      "Rodef & Nirdaf Rules",
+      "Good Samaritan Law"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Silver Cup Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (the silver cup case) is the exact case described in candidate 2's prose, which discusses 'hahu gavra dahave mufkad leh kasa dekaspa' and the question of matzil atzmo bemamon chavero \u2014 matching perfectly.",
+      "second_heading": "Pidyon Shvuyim Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (the pidyon shvuyim purse case) is precisely the case described in candidate 6's prose, which discusses 'hahu gavra de-hava mafkid gabei arneka de-pidyon shvuyim' and Rabba's ruling that 'ein lecha pidyon shvuyim gadol mizeh'.",
+      "current_heading": "Pidyon Shvuyim Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Good Samaritan Law",
+    "candidates": [
+      "Donkey Thrown Overboard",
+      "Rava Exempt, Abaye Obj.",
+      "Rodef Doctrine",
+      "Rodef & Nirdaf Rules",
+      "Good Samaritan Law",
+      "Stolen Field Swamped",
+      "R. Elazar vs. Chachamim",
+      "Ribui Miut Ribui"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 4,
+      "split2": 5,
+      "first_heading": "Rodef Doctrine",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 contains the donkey/ferry incident plus Rabba's rodef principle (pursuer who breaks vessels is exempt because mitchayev be-nafsho), which matches heading 2 'Rodef Doctrine' precisely.",
+      "second_heading": "Stolen Field Swamped",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna about a flooded stolen field ('harei shelcha lefanecha'), which matches heading 5 'Stolen Field Swamped'.",
+      "third_heading": "R. Elazar vs. Chachamim",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the Gemara baraita recording the dispute between Rabbi Elazar and the Chachamim about the stolen flooded field, which matches heading 6 'R. Elazar vs. Chachamim'.",
+      "current_heading": "Good Samaritan Law",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Ribui Miut Ribui",
+    "candidates": [
+      "Stolen Field Swamped",
+      "R. Elazar vs. Chachamim",
+      "Ribui Miut Ribui",
+      "Rabanan Kelal U'Prat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Elazar's ribui-miut-ribui hermeneutic applied to the verse in Leviticus, which is precisely what the 'Ribui Miut Ribui' section's prose describes.",
+      "chosen_heading": "Ribui Miut Ribui",
+      "current_heading": "Ribui Miut Ribui",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Rabanan Kelal U'Prat",
+    "candidates": [
+      "Rabanan Kelal U'Prat",
+      "Cow on Stolen Field",
+      "Rav Papa Land Seizure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rabanan Kelal U'Prat",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the Rabbinic kelal u-prat u-chelal hermeneutic and its exclusions (land, slaves, documents), which is exactly what the 'Rabanan Kelal U'Prat' prose describes.",
+      "second_heading": "Cow on Stolen Field",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces the baraita about the stolen cow swept away by a river and the Rabbi Elazar vs. Sages dispute, which is precisely what the 'Cow on Stolen Field' prose describes.",
+      "current_heading": "Rabanan Kelal U'Prat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Rav Papa Land Seizure",
+    "candidates": [
+      "Cow on Stolen Field",
+      "Rav Papa Land Seizure",
+      "Mishna Return Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Pappa's resolution of the cow-on-stolen-field case, which is exactly what the 'Rav Papa Land Seizure' prose describes \u2014 the field robbery scenario, the cow resting on it, and Rabbi Elazar vs. the Rabbis each following their own reasoning about karka ein nigzelet.",
+      "chosen_heading": "Rav Papa Land Seizure",
+      "current_heading": "Rav Papa Land Seizure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Mishna Return Limits",
+    "candidates": [
+      "Mishna Return Limits",
+      "Milve vs. Aveidah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text directly discusses returning stolen/borrowed/deposited items in settled vs. unsettled areas with or without prior stipulation, which is precisely what the 'Mishna Return Limits' prose section addresses.",
+      "chosen_heading": "Mishna Return Limits",
+      "current_heading": "Mishna Return Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Milve vs. Aveidah",
+    "candidates": [
+      "Milve vs. Aveidah",
+      "Implicit Stipulation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's contradiction between loan repayment and lost object/deposit return locations, and Abaye's resolution distinguishing 'claiming' from 'forcing acceptance,' which is exactly what the prose under 'Milve vs. Aveidah' analyzes.",
+      "chosen_heading": "Milve vs. Aveidah",
+      "current_heading": "Milve vs. Aveidah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Implicit Stipulation",
+    "candidates": [
+      "Implicit Stipulation",
+      "Admit but Uncertain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the implicit stipulation case where the owner mentions going to the wilderness and the bailee responds he may also go there, which matches exactly the prose in 'Implicit Stipulation' about the subtle case of no explicit affirmative response but an understood arrangement.",
+      "chosen_heading": "Implicit Stipulation",
+      "current_heading": "Implicit Stipulation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Admit but Uncertain",
+    "candidates": [
+      "Admit but Uncertain",
+      "Bari ve-Shema Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself describing the 'admit but uncertain' cases, which is exactly what heading 0's prose summarizes and analyzes.",
+      "chosen_heading": "Admit but Uncertain",
+      "current_heading": "Admit but Uncertain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Bari ve-Shema Debate",
+    "candidates": [
+      "Bari ve-Shema Debate",
+      "Uncertain Liability",
+      "Tzeat Yedei Shamayim",
+      "Sheep Returned Dies"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Bari ve-Shema Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the bari ve-shema dispute (Rav Huna/Rav Yehuda vs. Rav Nachman/Rabbi Yochanan) and the gemara's attempt to derive proof from the mishna, which is exactly what candidate 0's prose describes.",
+      "second_heading": "Tzeat Yedei Shamayim",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is Rabbi Chiyya bar Abba's statement in Rabbi Yochanan's name that the respondent is chayav latzet yedei shamayim, which candidate 2's prose explicitly discusses and quotes as its concluding proof.",
+      "current_heading": "Bari ve-Shema Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Sheep Returned Dies",
+    "candidates": [
+      "Uncertain Liability",
+      "Tzeat Yedei Shamayim",
+      "Sheep Returned Dies",
+      "Rava: Da'at vs. Minyan",
+      "Shmuel: Always Minyan",
+      "R. Yochanan Position",
+      "R. Chisda Reversed",
+      "Animal Neglect Justifi.",
+      "R. Yishmael Location",
+      "R. Akiva: Inform Owner"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sheep Returned Dies",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna that introduces the case of a stolen lamb returned to the flock, which the prose under 'Sheep Returned Dies' explicitly describes and analyzes.",
+      "second_heading": "Rava: Da'at vs. Minyan",
+      "second_confidence": "high",
+      "second_reason": "Items 2-10 present the four Amoraic readings of that Mishna (Rav, Shmuel, Rabbi Yochanan, Rav Chisda) along with Rava's explanations and challenges, which the prose under 'Rava: Da'at vs. Minyan' introduces as 'four different readings of this mishna, beginning with Rava.'",
+      "current_heading": "Sheep Returned Dies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125
+    ],
+    "current_heading": "R. Akiva: Inform Owner",
+    "candidates": [
+      "Rava: Da'at vs. Minyan",
+      "Shmuel: Always Minyan",
+      "R. Yochanan Position",
+      "R. Chisda Reversed",
+      "Animal Neglect Justifi.",
+      "R. Yishmael Location",
+      "R. Akiva: Inform Owner",
+      "Wallet Case Analysis",
+      "Shomer Took Object"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage introduces the tanna'im dispute between Rabbi Yishmael and Rabbi Akiva about returning a lamb/sela, then analyzes it via Rabbi Yitzchak's principle about the purse \u2014 exactly what heading 5 ('R. Yishmael Location') describes as its content, with the wallet/flock analysis following naturally; heading 6 ('R. Akiva: Inform Owner') already presupposes this baraita was introduced and picks up mid-analysis, so the full passage including the introduction belongs under heading 5.",
+      "chosen_heading": "R. Yishmael Location",
+      "current_heading": "R. Akiva: Inform Owner",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Shomer Took Object",
+    "candidates": [
+      "Wallet Case Analysis",
+      "Shomer Took Object",
+      "Overpaying Repayment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Zevid/Rava's distinction between a shomer who stole from the owner's domain versus from his own domain, and the Rabbi Akiva/Rabbi Yishmael dispute about whether his shmirah was terminated \u2014 exactly what the prose of 'Shomer Took Object' describes.",
+      "chosen_heading": "Shomer Took Object",
+      "current_heading": "Shomer Took Object",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136,
+      137,
+      138
+    ],
+    "current_heading": "Overpaying Repayment",
+    "candidates": [
+      "Overpaying Repayment",
+      "Prohibited Purchases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the dispute between two baraitot about whether embedding stolen money in an overpayment (hivlio be-cheshbon) constitutes valid return, and the gemara's three resolutions involving Rabbi Yitzchak's principle and circumstantial distinctions \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Overpaying Repayment",
+      "current_heading": "Overpaying Repayment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Prohibited Purchases",
+    "candidates": [
+      "Prohibited Purchases",
+      "Permitted from Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the prohibition on purchasing wool, milk, and kids from shepherds and wood/produce from watchmen, which is exactly what the 'Prohibited Purchases' section's prose discusses.",
+      "chosen_heading": "Prohibited Purchases",
+      "current_heading": "Prohibited Purchases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Permitted from Women",
+    "candidates": [
+      "Permitted from Women",
+      "Transformed Goods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses purchasing from women specific regional goods (wool in Judea, linen in Galilee, calves in Sharon) and eggs/chickens everywhere, which directly matches the 'Permitted from Women' section's prose about those exact permitted purchases from women.",
+      "chosen_heading": "Permitted from Women",
+      "current_heading": "Permitted from Women",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Transformed Goods",
+    "candidates": [
+      "Transformed Goods",
+      "Milk & Cheese Rules",
+      "Quantity Thresholds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers both the prohibition on purchasing raw goods from shepherds and the transformed-goods exception, which is exactly what heading 0 discusses, and the milk/cheese rule is a secondary detail that follows naturally in the same passage but the primary focus of this heading's prose matches the content.",
+      "chosen_heading": "Transformed Goods",
+      "current_heading": "Transformed Goods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156
+    ],
+    "current_heading": "Quantity Thresholds",
+    "candidates": [
+      "Milk & Cheese Rules",
+      "Quantity Thresholds",
+      "House vs. Wilderness",
+      "Owner Awareness Rule",
+      "Rav Chisda Numbers"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Quantity Thresholds",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the quantity threshold rule (four/five vs. two sheep/fleeces), which matches the 'Quantity Thresholds' prose exactly.",
+      "second_heading": "House vs. Wilderness",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yehuda's domesticated vs. wilderness animal distinction and the general principle about owner awareness, which maps directly to the 'House vs. Wilderness' section's prose about bayitot vs. bariot and owner perception.",
+      "current_heading": "Quantity Thresholds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      163,
+      164
+    ],
+    "current_heading": "Rav Chisda Numbers",
+    "candidates": [
+      "House vs. Wilderness",
+      "Owner Awareness Rule",
+      "Rav Chisda Numbers",
+      "Healthy vs. Scrawny"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Chisda Numbers",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the content described in the 'Rav Chisda Numbers' prose: the redundancy question and Rav Chisda's two versions of the ruling about four out of five and small vs. large flock.",
+      "second_heading": "Healthy vs. Scrawny",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the internal contradiction between 'four or five' and 'not two' (implying three is permitted), which is exactly the tension that the 'Healthy vs. Scrawny' prose resolves by distinguishing healthy from scrawny animals.",
+      "current_heading": "Rav Chisda Numbers",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,549 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Tikun Gadol",
+    "candidates": [
+      "Overview",
+      "Tikun Gadol",
+      "Gazustra Interpretation",
+      "Separation Progression"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the tikun gadol question and Rabbi Elazar's answer about the gazustra arrangement, which is precisely what the 'Tikun Gadol' section's prose discusses.",
+      "chosen_heading": "Tikun Gadol",
+      "current_heading": "Tikun Gadol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Separation Progression",
+    "candidates": [
+      "Gazustra Interpretation",
+      "Separation Progression",
+      "Authority Question",
+      "Kal Vachomer Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the progression of separation arrangements (women inside/men outside, then reversed, then women above/men below), which is exactly what the 'Separation Progression' section's prose discusses.",
+      "chosen_heading": "Separation Progression",
+      "current_heading": "Separation Progression",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Kal Vachomer Argument",
+    "candidates": [
+      "Authority Question",
+      "Kal Vachomer Argument",
+      "Modern Mechitzah Practice",
+      "Yetzer Hara Development",
+      "Eulogy Identity Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Authority Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (the challenge from 'hakol bichsav') and Item 2 (Rav's answer 'kra ashkechu v'darash') together form the question-and-answer unit that candidate 0 ('Authority Question') explicitly discusses, describing both the challenge verse and noting that 'the gemara proceeds to provide an answer' with Rav's response.",
+      "second_heading": "Kal Vachomer Argument",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the Zechariah verse and the kal vachomer argument about men and women being separate) matches candidate 1 ('Kal Vachomer Argument') precisely, as that section's prose explicates exactly this verse and this kal vachomer reasoning about mourning versus celebration.",
+      "current_heading": "Kal Vachomer Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Eulogy Identity Debate",
+    "candidates": [
+      "Modern Mechitzah Practice",
+      "Yetzer Hara Development",
+      "Eulogy Identity Debate",
+      "Logical Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the debate between Rabbi Dosa and the Rabbis about the identity of the eulogy subject (Mashiach ben Yosef vs. the yetzer hara), which is precisely what the 'Eulogy Identity Debate' section's prose discusses.",
+      "chosen_heading": "Eulogy Identity Debate",
+      "current_heading": "Eulogy Identity Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Logical Problem",
+    "candidates": [
+      "Logical Problem",
+      "Mourning Perspectives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the logical objection described in the 'Logical Problem' prose \u2014 the contrast between the two views and the question of why there would be crying/mourning if the evil inclination was destroyed, which should warrant celebration.",
+      "chosen_heading": "Logical Problem",
+      "current_heading": "Logical Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Mourning Perspectives",
+    "candidates": [
+      "Mourning Perspectives",
+      "Mountain & Hair",
+      "Righteous Tears",
+      "Lost Opportunity",
+      "God's Astonishment",
+      "Rav Assi Teaching",
+      "Accumulation Metaphor",
+      "Yeshayahu Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full Rabbi Yehuda teaching about God slaughtering the evil inclination, the mountain/hair imagery, and the weeping of righteous and wicked, which is precisely what the 'Mourning Perspectives' prose introduces and discusses in detail.",
+      "chosen_heading": "Mourning Perspectives",
+      "current_heading": "Mourning Perspectives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Yeshayahu Source",
+    "candidates": [
+      "Mountain & Hair",
+      "Righteous Tears",
+      "Lost Opportunity",
+      "God's Astonishment",
+      "Rav Assi Teaching",
+      "Accumulation Metaphor",
+      "Yeshayahu Source",
+      "God's Offer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rav Asi's statement about the yetzer hara resembling a spider's web initially, which directly matches the 'Rav Assi Teaching' section's prose discussing exactly this teaching.",
+      "chosen_heading": "Rav Assi Teaching",
+      "current_heading": "Yeshayahu Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "God's Offer",
+    "candidates": [
+      "Yeshayahu Source",
+      "God's Offer",
+      "Mashiach's Request",
+      "God's Reply",
+      "Seven Names Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both God's offer to Mashiach ben David and his request for life upon seeing Mashiach ben Yosef killed, and the current placement under 'God's Offer' has prose that directly introduces and explains this entire baraita including both elements.",
+      "chosen_heading": "God's Offer",
+      "current_heading": "God's Offer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Seven Names Intro",
+    "candidates": [
+      "Mashiach's Request",
+      "God's Reply",
+      "Seven Names Intro",
+      "God's Name: Evil",
+      "Moses: Uncircumcised",
+      "David: Impure",
+      "Solomon: Enemy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces all three names (evil, uncircumcised, impure) together as part of the seven-names teaching, matching the 'Seven Names Intro' section's prose which frames the complete list, rather than belonging under the individual name sections.",
+      "chosen_heading": "Seven Names Intro",
+      "current_heading": "Seven Names Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Solomon: Enemy",
+    "candidates": [
+      "God's Name: Evil",
+      "Moses: Uncircumcised",
+      "David: Impure",
+      "Solomon: Enemy",
+      "Isaiah: Stumbling Block",
+      "Ezekiel: Stone Heart",
+      "Joel: Hidden One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents Solomon's calling the yetzer hara 'enemy' with the Proverbs 25:21-22 prooftext and the al tikrei reading, which precisely matches the 'Solomon: Enemy' section's prose.",
+      "chosen_heading": "Solomon: Enemy",
+      "current_heading": "Solomon: Enemy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Joel: Hidden One",
+    "candidates": [
+      "Isaiah: Stumbling Block",
+      "Ezekiel: Stone Heart",
+      "Joel: Hidden One",
+      "Joel Reinterpretation",
+      "Dispersal Metaphor",
+      "Beit Hamikdash Assault"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both Joel's naming of the evil inclination as 'tzefoni' and the Rabbinic teaching expanding on that verse, and candidate 2 ('Joel: Hidden One') encompasses both elements in its prose, while candidate 3 ('Joel Reinterpretation') only covers the second half \u2014 the current placement under candidate 2 is correct as it discusses the full unit together.",
+      "chosen_heading": "Joel: Hidden One",
+      "current_heading": "Joel: Hidden One",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Beit Hamikdash Assault",
+    "candidates": [
+      "Joel Reinterpretation",
+      "Dispersal Metaphor",
+      "Beit Hamikdash Assault",
+      "Enmity to Scholars",
+      "Abaye's Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all of Joel 2:20's interpretations starting from 'barren and desolate land' through the two Temples and Abaye's statement about scholars \u2014 it begins with the dispersal metaphor (candidate 1's prose), and candidate 1's section is where this full baraita passage begins, making it the correct home for the entire quoted text rather than splitting it across candidates 2 or 3.",
+      "chosen_heading": "Dispersal Metaphor",
+      "current_heading": "Beit Hamikdash Assault",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Abaye's Story",
+    "candidates": [
+      "Enmity to Scholars",
+      "Abaye's Story",
+      "Elder's Consolation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Abaye following the man and woman for three parasangs, which is precisely the story described in the 'Abaye's Story' section's prose.",
+      "chosen_heading": "Abaye's Story",
+      "current_heading": "Abaye's Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Elder's Consolation",
+    "candidates": [
+      "Elder's Consolation",
+      "Daily Growth",
+      "Seeking Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's anguish at the doorpost and the Elder's teaching that greater people have greater evil inclinations, which is precisely what the 'Elder's Consolation' prose section discusses in detail.",
+      "chosen_heading": "Elder's Consolation",
+      "current_heading": "Elder's Consolation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Seeking Death",
+    "candidates": [
+      "Daily Growth",
+      "Seeking Death",
+      "Beit Midrash Refuge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Daily Growth",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yitzchak's statement that the yetzer overcomes a person each day, which matches exactly the 'Daily Growth' prose discussing yitzro shel adam mitgaber alav be-chol yom.",
+      "second_heading": "Seeking Death",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Reish Lakish's statement that the yetzer seeks to kill him and God's help is needed, which matches exactly the 'Seeking Death' prose discussing mitgaber alav be-chol yom u-mevakesh lahamito and God's assistance.",
+      "current_heading": "Seeking Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Beit Midrash Refuge",
+    "candidates": [
+      "Beit Midrash Refuge",
+      "Torah as Antidote",
+      "Dual Role",
+      "Servant Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Tana devei Rabbi Yishmael teaching about dragging the yetzer hara to the beit midrash, with the stone/water and iron/fire imagery, which is precisely what the 'Beit Midrash Refuge' prose elaborates on in detail.",
+      "chosen_heading": "Beit Midrash Refuge",
+      "current_heading": "Beit Midrash Refuge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Servant Parable",
+    "candidates": [
+      "Torah as Antidote",
+      "Dual Role",
+      "Servant Parable",
+      "External vs Internal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the teaching of Rabbi Shmuel bar Na\u1e25mani/Rabbi Yo\u1e25anan about the evil inclination inciting in this world and testifying in the next, which is exactly what the 'Dual Role' prose discusses, while the current 'Servant Parable' section's prose discusses the subsequent verse and the atbach cipher explanation.",
+      "chosen_heading": "Dual Role",
+      "current_heading": "Servant Parable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "External vs Internal",
+    "candidates": [
+      "Servant Parable",
+      "External vs Internal",
+      "Three Stages",
+      "Natan's Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's contradiction between the two verses about the spirit being external ('caused to err') vs. internal ('within them'), which is exactly what the 'External vs Internal' section's prose describes.",
+      "chosen_heading": "External vs Internal",
+      "current_heading": "External vs Internal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Natan's Parable",
+    "candidates": [
+      "Three Stages",
+      "Natan's Parable",
+      "Appetite Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about the three stages (traveler \u2192 guest \u2192 man/master of house), which is explicitly discussed in candidate 0's prose ('Bitchila kara-o holech... U-ve-sof kara-o oreach... U-ve-sof kara-o ish'), while candidate 1 ('Natan's Parable') discusses the parable itself as background context for David's sin, not as the primary vehicle for Rava's teaching about the yetzer hara's progression.",
+      "chosen_heading": "Three Stages",
+      "current_heading": "Natan's Parable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Appetite Paradox",
+    "candidates": [
+      "Natan's Parable",
+      "Appetite Paradox",
+      "Four Entities",
+      "Three Nations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Yo\u1e25anan's teaching on the 'small organ' and the appetite paradox of starving versus satiating desire is precisely what the 'Appetite Paradox' prose section describes and analyzes.",
+      "chosen_heading": "Appetite Paradox",
+      "current_heading": "Appetite Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151
+    ],
+    "current_heading": "Three Nations",
+    "candidates": [
+      "Four Entities",
+      "Three Nations",
+      "Yetzer Creation",
+      "Three Verses Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete passage about the four things God regrets creating (exile, Chaldeans, Ishmaelites, evil inclination), which matches exactly the 'Four Entities' heading's prose description of all four, rather than the current 'Three Nations' heading which only covers three of the four.",
+      "chosen_heading": "Four Entities",
+      "current_heading": "Three Nations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      156,
+      157
+    ],
+    "current_heading": "Three Verses Defense",
+    "candidates": [
+      "Yetzer Creation",
+      "Three Verses Defense",
+      "Four Craftsmen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Yo\u1e25anan's three verses and Rav Pappa's addition of a fourth \u2014 are explicitly discussed in the 'Three Verses Defense' prose, which matches the passage's content precisely.",
+      "chosen_heading": "Three Verses Defense",
+      "current_heading": "Three Verses Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Four Craftsmen",
+    "candidates": [
+      "Four Craftsmen",
+      "Rav Sheshet's Challenge",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the identification of the four craftsmen (heading 0) and Rav Sheshet's challenge (heading 1), but since the item is a single indivisible text that begins with the four craftsmen question and only begins to raise the objection, and the current placement under 'Four Craftsmen' captures the primary content while heading 1's prose separately addresses the challenge, the current placement is correct as the passage initiates the topic of the four craftsmen's identity.",
+      "chosen_heading": "Four Craftsmen",
+      "current_heading": "Four Craftsmen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      167
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Rav Sheshet's Challenge",
+      "Resolution",
+      "Rav Chana's Modesty",
+      "Seven Shepherds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the resolution described in candidate 1's prose \u2014 citing the end of the verse to distinguish the two 'theses' \u2014 plus Rav Sheshet's concession about Rav \u1e24ana's superiority in aggada, which matches candidate 1's current placement (the aggada remark is a coda to the resolution, not a separate section).",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      173
+    ],
+    "current_heading": "Seven Shepherds",
+    "candidates": [
+      "Rav Chana's Modesty",
+      "Seven Shepherds",
+      "Eight Leaders",
+      "Anti-Christian Notes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the seven shepherds and eight princes in a single Gemara excerpt, and the 'Seven Shepherds' section prose explicitly discusses the full verse and the identification of both groups, making it the best match for the complete passage.",
+      "chosen_heading": "Seven Shepherds",
+      "current_heading": "Seven Shepherds",
+      "moved": false
+    }
+  }
+]

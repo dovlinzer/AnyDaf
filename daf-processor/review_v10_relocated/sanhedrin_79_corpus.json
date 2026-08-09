@@ -1,0 +1,295 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Non-Capital Intent",
+    "candidates": [
+      "Intent Framework",
+      "Non-Capital Intent",
+      "Severity & Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The mishna introduces the topic of intention as a requirement for capital liability, which the 'Intent Framework' section explicitly describes as the opening of this mishna and its focus on the dimension of intention, while 'Non-Capital Intent' discusses the specific cases in the mishna's prose \u2014 however, since the mishna text itself is the source for both sections and 'Intent Framework' describes it as the opening, that section is the better home for the mishna itself.",
+      "chosen_heading": "Intent Framework",
+      "current_heading": "Non-Capital Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Severity & Identity",
+    "candidates": [
+      "Severity & Identity",
+      "Specific Person Debate",
+      "Gemara Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the cases discussed in candidate 0's prose \u2014 striking loins vs. heart, adult vs. minor, the exempt and liable scenarios, and Rabbi Shimon's position \u2014 all of which are explicitly narrated in that section's prose.",
+      "chosen_heading": "Severity & Identity",
+      "current_heading": "Severity & Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Gemara Clarification",
+    "candidates": [
+      "Specific Person Debate",
+      "Gemara Clarification",
+      "Abstract Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's textual question about which clause Rabbi Shimon is addressing and its resolution (reisha vs. seifa), which is precisely what the 'Gemara Clarification' prose describes.",
+      "chosen_heading": "Gemara Clarification",
+      "current_heading": "Gemara Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Abstract Statement",
+    "candidates": [
+      "Abstract Statement",
+      "Positive Intent Required",
+      "Roosevelt Assassination",
+      "Ve'arav Lo Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what the prose of candidate 0 describes: the obvious baseline case, the two ambiguous intermediate cases (indifference and mistaken identity), and the 'come and hear' baraita citation \u2014 all of which are explicitly narrated in candidate 0's prose before the resolution is discussed in candidate 1.",
+      "chosen_heading": "Abstract Statement",
+      "current_heading": "Abstract Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Ve'arav Lo Source",
+    "candidates": [
+      "Positive Intent Required",
+      "Roosevelt Assassination",
+      "Ve'arav Lo Source",
+      "Capital Offense Intent",
+      "Kavua & Mixed Crowd"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's derivation from 've'arav lo vekam alav' for Rabbi Shimon's position and the Rabbanan's counter-derivation (zorek even legov), which is precisely what the 'Ve'arav Lo Source' section's prose discusses.",
+      "chosen_heading": "Ve'arav Lo Source",
+      "current_heading": "Ve'arav Lo Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Kavua & Mixed Crowd",
+    "candidates": [
+      "Capital Offense Intent",
+      "Kavua & Mixed Crowd",
+      "Kol Kavua Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about the mixed-group configuration (nine gentiles/one Jew, and half-and-half scenarios), which is precisely what the 'Kavua & Mixed Crowd' section's prose explicates as the setup for the nine Jews/one non-Jew case.",
+      "chosen_heading": "Kavua & Mixed Crowd",
+      "current_heading": "Kavua & Mixed Crowd",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Kol Kavua Principle",
+    "candidates": [
+      "Kol Kavua Principle",
+      "Defarish Principle",
+      "Contemporary Application",
+      "Exodus Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly introduces and explains the kol kavua k'mechtzah al mechtzah principle in the context of nine Jews and one gentile, which is precisely what the 'Kol Kavua Principle' section's prose discusses.",
+      "chosen_heading": "Kol Kavua Principle",
+      "current_heading": "Kol Kavua Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Exodus Case",
+    "candidates": [
+      "Defarish Principle",
+      "Contemporary Application",
+      "Exodus Case",
+      "Sages' Explanation",
+      "Rabbi Shimon's Challenge",
+      "Monetary Payment",
+      "Animal vs. Human",
+      "Rejection of Both Views",
+      "Adam Muad Principle",
+      "Distinctions Irrelevant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items discuss Rabbi Shimon's interpretation of 'nefesh tachat nefesh' as monetary payment (mamon) rather than execution, supported by the gezerah shavah from the word 'nesina,' which is exactly what candidate 5 ('Monetary Payment') describes in its prose.",
+      "chosen_heading": "Monetary Payment",
+      "current_heading": "Exodus Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Distinctions Irrelevant",
+    "candidates": [
+      "Sages' Explanation",
+      "Rabbi Shimon's Challenge",
+      "Monetary Payment",
+      "Animal vs. Human",
+      "Rejection of Both Views",
+      "Adam Muad Principle",
+      "Distinctions Irrelevant",
+      "Kim Leh Distinction",
+      "Mishna Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Items 1-4 present Rava's analysis showing the school of \u1e24izkiyya diverges from both Rabbi Yehuda HaNasi and the Rabbanan \u2014 specifically proving via the 'no intent toward this victim' scenario that the baraita presupposes exemption from capital punishment (contradicting Rabbanan) and exemption from monetary payment (contradicting Rabbi Shimon) \u2014 which is precisely what candidate 7 ('Kim Leh Distinction') describes in its prose about how the baraita contradicts both positions.",
+      "chosen_heading": "Kim Leh Distinction",
+      "current_heading": "Distinctions Irrelevant",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Mishna Statement",
+    "candidates": [
+      "Kim Leh Distinction",
+      "Mishna Statement",
+      "Sages vs. Rabbi Yehudah",
+      "Mixed Execution Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text about a murderer intermingled with others, and the prose under 'Mishna Statement' directly introduces and describes exactly this mishna.",
+      "chosen_heading": "Mishna Statement",
+      "current_heading": "Mishna Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Mixed Execution Types",
+    "candidates": [
+      "Sages vs. Rabbi Yehudah",
+      "Mixed Execution Types",
+      "Meaning of Acharim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mishna about intermingled execution types, the Rabbi Shimon/Chachamim dispute on skila vs. sreifa, and the parallel dispute about hereg vs. chenek \u2014 are precisely the content described in the 'Mixed Execution Types' prose, which explicitly summarizes each of these elements.",
+      "chosen_heading": "Mixed Execution Types",
+      "current_heading": "Mixed Execution Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Meaning of Acharim",
+    "candidates": [
+      "Meaning of Acharim",
+      "Gmar Din Principle",
+      "Reish Lakish's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening question about who 'the others' are and the dismissal of the possibility that they are innocent bystanders, which is precisely what the 'Meaning of Acharim' section's prose describes.",
+      "chosen_heading": "Meaning of Acharim",
+      "current_heading": "Meaning of Acharim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Reish Lakish's Answer",
+    "candidates": [
+      "Gmar Din Principle",
+      "Reish Lakish's Answer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Gmar Din Principle",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present the mnemonic and Rabbi Abbahu/Shmuel's answer about a human murderer intermingled with sentenced murderers, which directly matches candidate 0's prose discussion of the *gmar din* principle applied to humans, the Rabbanan/Rabbi Yehuda dispute, and *kulam peturin*.",
+      "second_heading": "Reish Lakish's Answer",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Reish Lakish's alternative reading that the dispute concerns an ox whose verdict was not finalized, which is precisely what candidate 1's prose describes as Reish Lakish's answer about *shor haniskal* and the *ke-mitas ba'alim kach mitas hashor* principle.",
+      "current_heading": "Reish Lakish's Answer",
+      "moved": true
+    }
+  }
+]

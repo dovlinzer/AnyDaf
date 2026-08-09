@@ -1,0 +1,316 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Ameimar Seats Witnesses",
+    "candidates": [
+      "Ameimar Seats Witnesses",
+      "Witnesses Must Stand",
+      "Kavod Overrides Standing",
+      "Midvar Sheker Tirchak",
+      "Sanegor Defense",
+      "Perverting Truth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full narrative of Ameimar seating all witnesses including Rav Yeimar, Rav Ashi's objection about standing, and Ameimar's resolution \u2014 all of which is introduced and described in the 'Ameimar Seats Witnesses' prose, making the current placement correct.",
+      "chosen_heading": "Ameimar Seats Witnesses",
+      "current_heading": "Ameimar Seats Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Perverting Truth",
+    "candidates": [
+      "Witnesses Must Stand",
+      "Kavod Overrides Standing",
+      "Midvar Sheker Tirchak",
+      "Sanegor Defense",
+      "Perverting Truth",
+      "Talmid Bur Exclusion",
+      "Gazlan Disqualification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mnemonic and the baraita about a judge not engaging in advocacy (*saneigeron*) and not having an ignorant student before him \u2014 are precisely what the 'Midvar Sheker Tirchak' section's prose describes as its content, making that the correct home for this passage.",
+      "chosen_heading": "Midvar Sheker Tirchak",
+      "current_heading": "Perverting Truth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Gazlan Disqualification",
+    "candidates": [
+      "Talmid Bur Exclusion",
+      "Gazlan Disqualification",
+      "Suspect Corruption",
+      "Student Correction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gazlan Disqualification",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss a judge/witness knowing a fellow judge/witness is a gazlan and not joining with him, which matches exactly the 'Gazlan Disqualification' prose.",
+      "second_heading": "Suspect Corruption",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 together form the complete case about a judge who knows a verdict is fraudulent and should not defer to the witnesses' testimony (kolar talui b'tzavar eidim), which matches exactly the 'Suspect Corruption' prose.",
+      "current_heading": "Gazlan Disqualification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Student Correction",
+    "candidates": [
+      "Suspect Corruption",
+      "Student Correction",
+      "No Strategic Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the student sitting before his teacher who sees advantage for the poor and disadvantage for the wealthy and must not remain silent \u2014 exactly the scenario described in the 'Student Correction' prose.",
+      "chosen_heading": "Student Correction",
+      "current_heading": "Student Correction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "No Strategic Silence",
+    "candidates": [
+      "No Strategic Silence",
+      "Coerced Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is explicitly about a student waiting for his teacher to err in judgment so the ruling can be attributed to the student's name, which is precisely what the 'No Strategic Silence' section discusses in detail.",
+      "chosen_heading": "No Strategic Silence",
+      "current_heading": "No Strategic Silence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Coerced Testimony",
+    "candidates": [
+      "Coerced Testimony",
+      "Multiple Creditors",
+      "Litigant Dress",
+      "Removing Fancy Shoes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Coerced Testimony",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the student/teacher silent witness case and the creditor/debtor oath-manipulation gambits, all of which are explicitly discussed in candidate 0's prose.",
+      "second_heading": "Multiple Creditors",
+      "second_confidence": "high",
+      "second_reason": "Item 5 presents the distinct case of three creditors arranging two as false witnesses, which is precisely what candidate 1's prose ('Multiple Creditors') describes.",
+      "current_heading": "Coerced Testimony",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Removing Fancy Shoes",
+    "candidates": [
+      "Multiple Creditors",
+      "Litigant Dress",
+      "Removing Fancy Shoes",
+      "Power of Attorney",
+      "Anchoring Bias",
+      "Persuasive Presentation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the rule about equalizing litigant dress (derivation from 'midvar sheker tirchak') and Rava bar Rav Huna's practice of removing fine shoes \u2014 both of which are discussed together under 'Litigant Dress' (candidate 1), whose prose explicitly addresses the dress-equalization rule and notes the shoe-removal practice, whereas candidate 2 ('Removing Fancy Shoes') treats the shoe incident as a standalone topic separate from the dress rule.",
+      "chosen_heading": "Litigant Dress",
+      "current_heading": "Removing Fancy Shoes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Persuasive Presentation",
+    "candidates": [
+      "Power of Attorney",
+      "Anchoring Bias",
+      "Persuasive Presentation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Anchoring Bias",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the prohibitions against a judge hearing one litigant before the other arrives and a litigant presenting his case before the other arrives \u2014 precisely the content of candidates 1 ('Anchoring Bias') and 2 ('Persuasive Presentation'); item 1 belongs under 'Anchoring Bias' but since items 1-2 are a continuous unit, the best single home for both is candidate 1, though item 2 matches candidate 2 \u2014 however, items 1 and 2 are a single continuous halakhic discussion (same verse, sequential derivations) best placed together under candidate 1 which opens with the exact wording of item 1.",
+      "second_heading": "Power of Attorney",
+      "second_confidence": "high",
+      "second_reason": "Item 3 cites the Ezekiel verse about 'did that which is not good among his people' and gives Rav's and Shmuel's interpretations (power of attorney and purchasing a contested field), which is precisely what candidate 0 ('Power of Attorney') discusses in its prose.",
+      "current_heading": "Persuasive Presentation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Persuasive Presentation",
+    "candidates": [
+      "Persuasive Presentation",
+      "Mina Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage discusses who is excluded from shvuat ha'edut (oath of testimony) \u2014 a king vs. one who plays with dice \u2014 which fits the 'Mina Debate' section's focus on the scope and application of shvuat ha'edut, rather than the 'Persuasive Presentation' section which discusses litigant advocacy and false reports before beit din.",
+      "chosen_heading": "Mina Debate",
+      "current_heading": "Persuasive Presentation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Mina Debate",
+    "candidates": [
+      "Mina Debate",
+      "Rav Papa Explanation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Mina Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20137 cover the core debate between Rabbi Meir and the Rabbanan about don mina u'mina vs. don mina v'oki b'atrah and Rav Pappa's reframing via kal v'chomer, which matches the 'Mina Debate' prose exactly.",
+      "second_heading": "Rav Papa Explanation",
+      "second_confidence": "high",
+      "second_reason": "Items 8\u201310 are the Rabbanan's challenge to Rav Pappa using the parallel mishna on shvuat ha'pikadon and his response, which matches the 'Rav Papa Explanation' prose about the beit midrash pressing Rav Pappa further.",
+      "current_heading": "Mina Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rav Papa Explanation",
+    "candidates": [
+      "Rav Papa Explanation",
+      "Pikadon Mirror",
+      "Mipi Atzmo Outside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage derives liability for intentional oath-taking from the absence of 'and it is hidden' in the oath of testimony verse, which relates to the broader discussion of shvuat ha'edut's distinctive liability rules that underpin the Pikadon Mirror section's comparative analysis, though the fit is not perfect since the Pikadon Mirror prose focuses on the methodological debate rather than this specific derivation.",
+      "chosen_heading": "Pikadon Mirror",
+      "current_heading": "Rav Papa Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Mipi Atzmo Outside",
+    "candidates": [
+      "Pikadon Mirror",
+      "Mipi Atzmo Outside",
+      "Mipi Atzmo Inside Only",
+      "King Afuki",
+      "Dice Player",
+      "Rabbinic Effect",
+      "Meizid Liability",
+      "Shogeg Liability",
+      "Shogeg Definition",
+      "Kahana and Assi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara text defining the actionable shogeg case \u2014 Rav Yehuda in the name of Rav stating 'I know this oath is forbidden, but I do not know whether one incurs a korban obligation for it' \u2014 which is precisely what the 'Shogeg Definition' prose section describes.",
+      "chosen_heading": "Shogeg Definition",
+      "current_heading": "Mipi Atzmo Outside",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Kahana and Assi",
+    "candidates": [
+      "Mipi Atzmo Inside Only",
+      "King Afuki",
+      "Dice Player",
+      "Rabbinic Effect",
+      "Meizid Liability",
+      "Shogeg Liability",
+      "Shogeg Definition",
+      "Kahana and Assi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question of whether the mishnah's exemption of pure shogeg already teaches the ruling of Rav Kahana and Rav Asi, and the response explaining why Rav's ruling was still necessary \u2014 precisely the content described in candidate 7's prose.",
+      "chosen_heading": "Kahana and Assi",
+      "current_heading": "Kahana and Assi",
+      "moved": false
+    }
+  }
+]

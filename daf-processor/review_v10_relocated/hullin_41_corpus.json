@@ -1,0 +1,312 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Shutafut Basho",
+    "candidates": [
+      "Ulla & R. Yochanan",
+      "Shnayim Ochzin",
+      "Shutafut Basho",
+      "Hezek She'eino Nikar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the ta shema challenge from the mishna of shnayim ochzin basakkin AND the gemara's resolution via shutafut, and the prose under 'Shnayim Ochzin' (index 1) explicitly discusses both the challenge and anticipates the resolution, while 'Shutafut Basho' (index 2) discusses only the resolution \u2014 meaning the full passage including the challenge text belongs under index 1 where the mishna itself is introduced.",
+      "chosen_heading": "Shnayim Ochzin",
+      "current_heading": "Shutafut Basho",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Hezek She'eino Nikar",
+    "candidates": [
+      "Shutafut Basho",
+      "Hezek She'eino Nikar",
+      "Nokhri Menasech Yayin",
+      "Ein Adam Oser Davar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Gemara's answer that 'here too it is a case where the one who caused the damage has a partnership share in the produce' directly matches the 'Shutafut Basho' section's prose about the gemara resolving challenges with the shutafut principle, limiting cases to partial ownership rather than genuine third-party interference.",
+      "chosen_heading": "Shutafut Basho",
+      "current_heading": "Hezek She'eino Nikar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Ein Adam Oser Davar",
+    "candidates": [
+      "Nokhri Menasech Yayin",
+      "Ein Adam Oser Davar",
+      "Afilu Man De'amar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about a gentile pouring Jewish wine not in the presence of an idol, presenting both the anonymous opinion that it is forbidden and the two reasons Rabbi Yehuda ben Beteira and Rabbi Yehuda ben Bava permit it \u2014 this entire baraita is introduced under heading 0 ('Nokhri Menasech Yayin'), whose prose describes exactly this case, while heading 1 discusses the analytical implications and mapping to the amoraic dispute.",
+      "chosen_heading": "Nokhri Menasech Yayin",
+      "current_heading": "Ein Adam Oser Davar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Afilu Man De'amar",
+    "candidates": [
+      "Ein Adam Oser Davar",
+      "Afilu Man De'amar",
+      "Mumar Yisrael"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the position of Rav Na\u1e25man, Rav Amram, and Rav Yitz\u1e25ak that even accepting the principle that a person can render forbidden what is not his, this applies to a gentile but not a Jew who intends only to torment \u2014 exactly what the prose under heading 1 ('Afilu Man De'amar') describes.",
+      "chosen_heading": "Afilu Man De'amar",
+      "current_heading": "Afilu Man De'amar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Mumar Yisrael",
+    "candidates": [
+      "Mumar Yisrael",
+      "Hitru Bo V'kibel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question about the mishna of shnayim ochazin basakkin and answers it with 'b'Yisrael mumar,' which is precisely what the prose under 'Mumar Yisrael' describes.",
+      "chosen_heading": "Mumar Yisrael",
+      "current_heading": "Mumar Yisrael",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Hitru Bo V'kibel",
+    "candidates": [
+      "Hitru Bo V'kibel",
+      "Yamim Neharot Kelim",
+      "Ugah Shel Mayim",
+      "Bespina Al Gabei Kelim",
+      "L'gumah Kol Ikkar",
+      "Guma Betoch Beito",
+      "Bashuk Lo Ya'aseh Ken",
+      "Shelo Yechakeh Haminim",
+      "Chikui HaMinim Today"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the apostate Jew (mumar) question \u2014 item 1 raises a challenge from a mishna about rendering another's wine forbidden and resolves it by reference to a mumar, and item 2 is Rav Acha's follow-up question to Rav Ashi about hitru bo v'kibel hatra'ah, both of which are explicitly discussed in the prose under heading 0.",
+      "chosen_heading": "Hitru Bo V'kibel",
+      "current_heading": "Hitru Bo V'kibel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Chikui HaMinim Today",
+    "candidates": [
+      "Yamim Neharot Kelim",
+      "Ugah Shel Mayim",
+      "Bespina Al Gabei Kelim",
+      "L'gumah Kol Ikkar",
+      "Guma Betoch Beito",
+      "Bashuk Lo Ya'aseh Ken",
+      "Shelo Yechakeh Haminim",
+      "Chikui HaMinim Today",
+      "Mai Shna L'toch Yamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full Mishna text covering all the cases (seas, rivers, vessels, puddle, ship, hole, marketplace, minim), which is introduced and discussed under heading 0 ('Yamim Neharot Kelim') as the mishna that begins with 'ein shochtin lo letoch yamim velo letoch neharot velo letoch kelim'.",
+      "chosen_heading": "Yamim Neharot Kelim",
+      "current_heading": "Chikui HaMinim Today",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Mai Shna L'toch Yamim",
+    "candidates": [
+      "Chikui HaMinim Today",
+      "Mai Shna L'toch Yamim",
+      "Rbutz D'Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's analysis of why slaughtering into seas is forbidden (angel of the sea), the puddle/reflection objection, and Rava's resolution about murky water \u2014 precisely the content described in candidate 1's prose.",
+      "chosen_heading": "Mai Shna L'toch Yamim",
+      "current_heading": "Mai Shna L'toch Yamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Rbutz D'Rava",
+    "candidates": [
+      "Rbutz D'Rava",
+      "Shechita L'shem Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items cover the Abaye/Rava dispute about slaughtering into a hole, the permitted method of letting blood trickle into a hole, the marketplace prohibition due to mimicking heretics, and the supporting baraita \u2014 exactly the content described in the 'Rbutz D'Rava' prose.",
+      "chosen_heading": "Rbutz D'Rava",
+      "current_heading": "Rbutz D'Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Shechita L'shem Olah",
+    "candidates": [
+      "Shechita L'shem Olah",
+      "Rebbi Shimon Machshir",
+      "Shnayim Ochzin Sakin",
+      "Chatat Asham Bechor",
+      "Kol Davar Shenidar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna listing the cases of shechita l'shem olah etc. with the ruling of pesulah and Rabbi Shimon's dissent, which is exactly what heading 0's prose introduces and discusses.",
+      "chosen_heading": "Shechita L'shem Olah",
+      "current_heading": "Shechita L'shem Olah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Kol Davar Shenidar",
+    "candidates": [
+      "Rebbi Shimon Machshir",
+      "Shnayim Ochzin Sakin",
+      "Chatat Asham Bechor",
+      "Kol Davar Shenidar",
+      "Asham Talui B'chol Yom",
+      "Pesach: Kol Hashana"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shnayim Ochzin Sakin",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the mishna's case of two people holding the knife together and the concluding principle (kol davar shenidar), which align with headings 'Shnayim Ochzin Sakin' and 'Kol Davar Shenidar' \u2014 but item 1 fits best under 'Shnayim Ochzin Sakin' which discusses shnayim ochazin, while item 2 fits 'Kol Davar Shenidar'; however since items 1-2 are the mishna text that the 'Kol Davar Shenidar' and 'Chatat Asham Bechor' sections discuss, and item 1 is clearly the shnayim ochzin + chatat/asham list that belongs under heading 1 ('Shnayim Ochzin Sakin') which explicitly mentions both cases, items 1-2 belong there.",
+      "second_heading": "Asham Talui B'chol Yom",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara raising the difficulty about asham talui and Rabbi Yochanan's resolution citing Rabbi Elazar, which is precisely what heading 4 ('Asham Talui B'chol Yom') describes in its prose.",
+      "current_heading": "Kol Davar Shenidar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Pesach: Kol Hashana",
+    "candidates": [
+      "Asham Talui B'chol Yom",
+      "Pesach: Kol Hashana",
+      "L'shem Chatosi"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "L'shem Chatosi",
+    "candidates": [
+      "L'shem Chatosi",
+      "L'shem Tmurah Tmirah",
+      "Olas Nazir",
+      "Olas Yoledes Eima Ipulei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the exact content described in candidate 0's prose: Rabbi Yochanan's qualification about l'shem chatas applying only when the person is not obligated in a chatas, the gemara's question about generic vs. specific designation, and Rabbi Abbahu's resolution about saying 'l'shem chatasi' explicitly.",
+      "chosen_heading": "L'shem Chatosi",
+      "current_heading": "L'shem Chatosi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121,
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Olas Yoledes Eima Ipulei",
+    "candidates": [
+      "L'shem Tmurah Tmirah",
+      "Olas Nazir",
+      "Olas Yoledes Eima Ipulei"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "L'shem Tmurah Tmirah",
+      "first_confidence": "high",
+      "first_reason": "Items 1 deals with l'shem tmurah, Rabbi Elazar's qualification about having a consecrated animal in the house, and Rabbi Abbahu's resolution \u2014 exactly matching heading 0's prose about tmurah.",
+      "second_heading": "Olas Yoledes Eima Ipulei",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20136 cover the zeh ha-kelal principle, olas nazir, olas yoledes, Rabbi Elazar's wife qualification, and the ippulei appil answer \u2014 all matching heading 2's prose about olas yoledes and the closing cases of the perek.",
+      "current_heading": "Olas Yoledes Eima Ipulei",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,413 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rav Yehuda Lenient",
+    "candidates": [
+      "Business Prohibition",
+      "Selling Idolatry Items",
+      "Mishnah Items List",
+      "Frankincense & Roosters",
+      "Rav Yehuda Lenient",
+      "Rabbi Meir Stringent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself introducing the list of items prohibited to sell to gentiles, which corresponds to the 'Selling Idolatry Items' section whose prose explicitly discusses the opening of this mishnah ('aylu devarim assurim limkor') and the underlying questions about what prohibition is being enabled \u2014 not the 'Rav Yehuda Lenient' section where it currently sits.",
+      "chosen_heading": "Selling Idolatry Items",
+      "current_heading": "Rav Yehuda Lenient",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rabbi Meir Stringent",
+    "candidates": [
+      "Rav Yehuda Lenient",
+      "Rabbi Meir Stringent",
+      "Achutzrublin ID",
+      "Shemitah Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishnaic text about 'all remaining items' being permitted without specification but forbidden with specification, and Rabbi Meir's additions about the good palm tree, \u1e25atzav, and naklav \u2014 which is precisely what the 'Rabbi Meir Stringent' section's prose describes.",
+      "chosen_heading": "Rabbi Meir Stringent",
+      "current_heading": "Rabbi Meir Stringent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Shemitah Rules",
+    "candidates": [
+      "Achutzrublin ID",
+      "Shemitah Rules",
+      "Bnot Shuach ID",
+      "Stems Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete sugya about identifying itzterubalin and its Shemitah status \u2014 the contradiction from the baraita, the principle about roots, and Rav Safra's resolution identifying it as cedar fruit \u2014 which is precisely what the 'Shemitah Rules' prose describes.",
+      "chosen_heading": "Shemitah Rules",
+      "current_heading": "Shemitah Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Stems Prohibition",
+    "candidates": [
+      "Bnot Shuach ID",
+      "Stems Prohibition",
+      "Worship Act",
+      "Frankincense Pure",
+      "Bulk Sales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the identification of benot shuach as white figs AND the clarification about petotarot/stems, but the prose under 'Bnot Shuach ID' explicitly discusses both Rabbah bar bar Chana's statement about white figs and references the stems teaching, making it the section that encompasses both parts of this Talmudic excerpt, while 'Stems Prohibition' only covers the second half.",
+      "chosen_heading": "Bnot Shuach ID",
+      "current_heading": "Stems Prohibition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Bulk Sales",
+    "candidates": [
+      "Worship Act",
+      "Frankincense Pure",
+      "Bulk Sales",
+      "Lifnei Iver Degrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the pure frankincense identification (item briefly mentioned in candidate 1's prose) and the bulk-sale rule with Rabbi Yehuda ben Beteira's specification, which is precisely what candidate 2's prose discusses in detail \u2014 making 'Bulk Sales' the best single home for this unified Talmudic excerpt, and matching its current placement.",
+      "chosen_heading": "Bulk Sales",
+      "current_heading": "Bulk Sales",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Lifnei Iver Degrees",
+    "candidates": [
+      "Lifnei Iver Degrees",
+      "Generic vs Specific",
+      "Zeh V'zeh Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's principle about lifnei iver applying only one degree of separation, which is precisely what the 'Lifnei Iver Degrees' section's prose discusses and elaborates upon.",
+      "chosen_heading": "Lifnei Iver Degrees",
+      "current_heading": "Lifnei Iver Degrees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Zeh V'zeh Case",
+    "candidates": [
+      "Generic vs Specific",
+      "Zeh V'zeh Case",
+      "Tosafot Reading"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Generic vs Specific",
+      "first_confidence": "high",
+      "first_reason": "Item 1 establishes the generic vs. specific rule (tarnigol le-mi vs. tarnigol lavan le-mi), which is precisely what heading 0 'Generic vs Specific' describes in its prose.",
+      "second_heading": "Zeh V'zeh Case",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the gemara's challenge from Rabbi Yehuda's ruling about selling mixed with other roosters and the inference about the Tanna Kamma, which is exactly what heading 1 'Zeh V'zeh Case' describes in its prose about heichi dami and the implications for the generic/specific framework.",
+      "current_heading": "Zeh V'zeh Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Tosafot Reading",
+    "candidates": [
+      "Tosafot Reading",
+      "Context Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Na\u1e25man bar Yitz\u1e25ak's explanation of 'zeh v'zeh' as pointing to individual roosters, which is precisely the interpretation that Tosafot's section prose describes and analyzes as the middle disputed case.",
+      "chosen_heading": "Tosafot Reading",
+      "current_heading": "Tosafot Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Context Exceptions",
+    "candidates": [
+      "Context Exceptions",
+      "Tavzig Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the baraita content discussed in 'Context Exceptions' prose, which explicitly describes Rabbi Yehuda's ruling about 'this white one' vs 'this and that one' and the feast/sick person exceptions.",
+      "chosen_heading": "Context Exceptions",
+      "current_heading": "Context Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Tavzig Definition",
+    "candidates": [
+      "Tavzig Definition",
+      "Other Items Rule",
+      "Gemara Challenge",
+      "Wheat Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the baraita about a gentile's feast for his son and Rav Yitz\u1e25ak bar Rav Mesharshiyya's resolution that it refers to a tavzig (picnic/informal meal), which is exactly what the 'Tavzig Definition' prose describes.",
+      "chosen_heading": "Tavzig Definition",
+      "current_heading": "Tavzig Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Wheat Inference",
+    "candidates": [
+      "Other Items Rule",
+      "Gemara Challenge",
+      "Wheat Inference",
+      "Rooster Always Forbidden",
+      "Really Explicit",
+      "Obsessed Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the Gemara's challenge and reinterpretation of 'stam' and 'perush' \u2014 items 1-2 present the initial reading and its rejection (exactly what heading 1 'Gemara Challenge' describes), and item 3 is the inference about the rooster and the resolution that still falls within that same dialectical unit, which heading 1's prose explicitly covers through 'lo stam tzricha lemeimar.'",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Wheat Inference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Obsessed Logic",
+    "candidates": [
+      "Rooster Always Forbidden",
+      "Really Explicit",
+      "Obsessed Logic",
+      "Broken Leg Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the psychological explanation that the person is deeply attached/cleaved to idol worship ('mivak hu d'avik'), which matches the 'Really Explicit' section's prose about being 'utterly consumed' and 'passionately cleaved to his idol-worship,' rather than the 'Obsessed Logic' section which covers the subsequent reasoning about projecting that enthusiasm onto others.",
+      "chosen_heading": "Really Explicit",
+      "current_heading": "Obsessed Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Broken Leg Case",
+    "candidates": [
+      "Obsessed Logic",
+      "Broken Leg Case",
+      "Scheming Concern",
+      "Multiple Purchases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi's dilemma about a damaged white rooster request, which matches the 'Broken Leg Case' prose discussing exactly this scenario of a non-Jew requesting a damaged (broken-leg) white rooster and whether one may sell him a whole one.",
+      "chosen_heading": "Broken Leg Case",
+      "current_heading": "Broken Leg Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Multiple Purchases",
+    "candidates": [
+      "Scheming Concern",
+      "Multiple Purchases",
+      "Teiku Unresolved",
+      "Meir's Items",
+      "Hisda Statement",
+      "Ignorance Theme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the multiple-purchase scenario (black rooster taken, red rooster taken, then asking about selling white) with the same teiku conclusion, matching candidate 1's prose perfectly.",
+      "chosen_heading": "Multiple Purchases",
+      "current_heading": "Multiple Purchases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Ignorance Theme",
+    "candidates": [
+      "Teiku Unresolved",
+      "Meir's Items",
+      "Hisda Statement",
+      "Ignorance Theme",
+      "Fruits Not Trees",
+      "Translation Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hisda Statement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the Rav Hisda statement about Abraham's 400-chapter tractate, which is the exact content described in candidate 2 ('Hisda Statement').",
+      "second_heading": "Ignorance Theme",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Avimei's question about the dekel tav difficulty and its resolution, which matches candidate 3 ('Ignorance Theme') that explicitly discusses the dekel tav contradiction and the broader ignorance theme.",
+      "current_heading": "Ignorance Theme",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Translation Problem",
+    "candidates": [
+      "Fruits Not Trees",
+      "Translation Problem",
+      "Niklas Dates Origin",
+      "Frankincense Priests",
+      "Wax Candles",
+      "Damaged Vessels",
+      "Sacred Texts",
+      "Christianity AZ",
+      "Custom Determines"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the translation of unknown Mishnaic terms (chatzav/kashba and naklas/koreyatei), which matches exactly the 'Translation Problem' section's prose about Abaye pressing Rav Dimi on translating one unknown term into another unknown term.",
+      "chosen_heading": "Translation Problem",
+      "current_heading": "Translation Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Custom Determines",
+    "candidates": [
+      "Niklas Dates Origin",
+      "Frankincense Priests",
+      "Wax Candles",
+      "Damaged Vessels",
+      "Sacred Texts",
+      "Christianity AZ",
+      "Custom Determines",
+      "No Issurah",
+      "Bestiality Baraita",
+      "Rava Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna about local custom governing sales of small animals to gentiles and the Gemara's inference that there is no inherent prohibition but only custom \u2014 are precisely what the 'Custom Determines' section prose describes, including the distinction between small and large animals, Rabbi Yehuda, ben Beteira, and the gemara's framing in terms of minhag.",
+      "chosen_heading": "Custom Determines",
+      "current_heading": "Custom Determines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Rava Connection",
+    "candidates": [
+      "No Issurah",
+      "Bestiality Baraita",
+      "Rava Connection",
+      "Eliezer Lenient",
+      "Tosafot LI",
+      "No Distinction",
+      "Chananel Q",
+      "Desire Answer",
+      "Access Logic",
+      "Irony Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita about not keeping animals in gentile inns due to bestiality suspicions and Rav's resolution linking the two prohibitions geographically \u2014 this is precisely what the 'Bestiality Baraita' prose introduces as the contradiction requiring reconciliation, while the current placement under 'Rava Connection' skips ahead to the resolution without the baraita itself.",
+      "chosen_heading": "Bestiality Baraita",
+      "current_heading": "Rava Connection",
+      "moved": true
+    }
+  }
+]

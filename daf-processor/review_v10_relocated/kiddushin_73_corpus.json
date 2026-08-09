@@ -1,0 +1,328 @@
+[
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rov & Extraction",
+    "candidates": [
+      "Safek in Psak",
+      "Rambam on Safek",
+      "Rashba vs Rambam",
+      "Machlokes & Authority",
+      "Chumra vs Kula",
+      "Shtuki Kasher",
+      "Rov & Extraction",
+      "Kavuah Distinction",
+      "Mamzer Safek Allowed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna's definition of shtuki and Rava's ruling that a shtuki is kasher by Torah law with the reason of rov kesherim etzlah, which is precisely what the prose under 'Shtuki Kasher' (index 5) introduces and discusses.",
+      "chosen_heading": "Shtuki Kasher",
+      "current_heading": "Rov & Extraction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Mamzer Safek Allowed",
+    "candidates": [
+      "Kavuah Distinction",
+      "Mamzer Safek Allowed",
+      "Rabbis' Yuchsin Upgrade",
+      "Gezeira Rejection"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kavuah Distinction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the kol d'parish/kavuah distinction \u2014 exactly what the 'Kavuah Distinction' prose describes.",
+      "second_heading": "Mamzer Safek Allowed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the drasha on 'lo yavo mamzer' permitting a safek mamzer to marry, which is precisely what the 'Mamzer Safek Allowed' prose discusses.",
+      "current_heading": "Mamzer Safek Allowed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Gezeira Rejection",
+    "candidates": [
+      "Rabbis' Yuchsin Upgrade",
+      "Gezeira Rejection",
+      "Asufi Kasher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's challenge-and-rejection of the gezeira argument (shema yisa achoto me'aviv), which is precisely what candidate 1 'Gezeira Rejection' describes in its prose \u2014 the extensions to shtukit and bat shtukit, the kol ki hani mezaneu objection, and the lo shechiach resolution.",
+      "chosen_heading": "Gezeira Rejection",
+      "current_heading": "Gezeira Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Asufi Kasher",
+    "candidates": [
+      "Asufi Kasher",
+      "Three-Fold Doubt",
+      "Asufi as Safek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses 'ma'ala asu b'yuchsin' \u2014 the rabbinic enactment establishing a higher standard for lineage \u2014 which is explicitly referenced in the 'Asufi Kasher' prose section as the basis for the shtuki prohibition being rabbinic, making it the natural home for this passage.",
+      "chosen_heading": "Asufi Kasher",
+      "current_heading": "Asufi Kasher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Asufi as Safek",
+    "candidates": [
+      "Three-Fold Doubt",
+      "Asufi as Safek",
+      "Asufi Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rava's ruling on the asufi \u2014 the tola b'ba'alah reasoning, the four scenarios (arusot, husbands overseas, pnuyah, ra'avon) producing palga u'palga, and the Torah's distinction between vadai and safek mamzer \u2014 which is precisely the content described in the 'Three-Fold Doubt' prose, not the summary/wrap-up material in 'Asufi as Safek'.",
+      "chosen_heading": "Three-Fold Doubt",
+      "current_heading": "Asufi as Safek",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Asufi Prohibition",
+    "candidates": [
+      "Asufi as Safek",
+      "Asufi Prohibition",
+      "Circumcision Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Rabbinic prohibition on an asufi marrying into established Jewish lineage \u2014 the incest concern and its rejection as uncommon, followed by the 'ma'ala asu b'yuchsin' conclusion \u2014 which is precisely what the 'Asufi Prohibition' prose describes.",
+      "chosen_heading": "Asufi Prohibition",
+      "current_heading": "Asufi Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Circumcision Evidence",
+    "candidates": [
+      "Circumcision Evidence",
+      "Limb Care Signs",
+      "Anointing & Amulets",
+      "Tree Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rava bar Rav Huna's single ruling covering circumcision, limb adjustment, oil anointing, eye salve, rings, notes, and amulets as signs removing foundling status \u2014 the current heading 'Circumcision Evidence' and its prose explicitly discusses this entire ruling beginning with circumcision, which is exactly how the passage opens.",
+      "chosen_heading": "Circumcision Evidence",
+      "current_heading": "Circumcision Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Tree Placement",
+    "candidates": [
+      "Limb Care Signs",
+      "Anointing & Amulets",
+      "Tree Placement",
+      "Synagogue & Public",
+      "Non-Asufi Assumption",
+      "Pit & River Tests"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the palm tree case and the thicket/synagogue cases, which are precisely what the 'Tree Placement' section's prose describes \u2014 tali b'diklei, sardita, and the synagogue follow-up all covered together there.",
+      "chosen_heading": "Tree Placement",
+      "current_heading": "Tree Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Pit & River Tests",
+    "candidates": [
+      "Synagogue & Public",
+      "Non-Asufi Assumption",
+      "Pit & River Tests",
+      "Street Edges",
+      "Famine Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Ameimar's rulings about the cistern (peira desuflei), river locations, and public domain edges/middle \u2014 exactly the content described in the 'Pit & River Tests' prose, which explicitly references these same cases.",
+      "chosen_heading": "Pit & River Tests",
+      "current_heading": "Pit & River Tests",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Famine Leniency",
+    "candidates": [
+      "Street Edges",
+      "Famine Leniency",
+      "Le'Altar Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about famine years and the Gemara's immediate challenge to it, which is precisely what the 'Famine Leniency' section's prose discusses in detail.",
+      "chosen_heading": "Famine Leniency",
+      "current_heading": "Famine Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Le'Altar Principle",
+    "candidates": [
+      "Le'Altar Principle",
+      "Shem Asufi Timing",
+      "Famine Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is currently placed under 'Le'Altar Principle' and the prose for that section explicitly describes this exact Talmudic text about parents being believed while the child is still in the marketplace versus after being collected, matching the content precisely.",
+      "chosen_heading": "Le'Altar Principle",
+      "current_heading": "Le'Altar Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Famine Exception",
+    "candidates": [
+      "Shem Asufi Timing",
+      "Famine Exception",
+      "Le'Altar Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's ruling about 'shem asufi' and the famine exception together as one unit, and heading 0 ('Shem Asufi Timing') covers the foundational concept that encompasses both rulings, while the current placement under 'Famine Exception' splits what is a single continuous Gemara passage; however, since heading 0's prose explicitly discusses the shem asufi mechanism that is the primary subject of this passage (with the famine case as a secondary addendum to that ruling), and the passage itself begins with the shem asufi question, heading 0 is the better fit.",
+      "chosen_heading": "Shem Asufi Timing",
+      "current_heading": "Famine Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Le'Altar Witnesses",
+    "candidates": [
+      "Famine Exception",
+      "Le'Altar Witnesses",
+      "Midwife & Bechor",
+      "Midwife Conditions",
+      "Rabbi Eliezer Strict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items introduce Rav \u1e24isda's rule of three parties believed le'altar and begin its elaboration with the foundling case, which is precisely what the 'Le'Altar Witnesses' prose describes.",
+      "chosen_heading": "Le'Altar Witnesses",
+      "current_heading": "Le'Altar Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Rabbi Eliezer Strict",
+    "candidates": [
+      "Midwife & Bechor",
+      "Midwife Conditions",
+      "Rabbi Eliezer Strict",
+      "Poteret Chavroseha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire baraita including the midwife's basic credibility, the condition of not leaving and returning, Rabbi Eliezer's stricter standard, and the mai beinaihu \u2014 all together as one unit \u2014 and candidate 0 ('Midwife & Bechor') is the opening section that introduces the full baraita, while candidates 1 and 2 split up what is a single continuous Talmudic passage; however, since the passage contains all three elements (basic rule, condition, Rabbi Eliezer), the best single home is the heading whose prose introduces the midwife testimony topic, which is candidate 0, though candidate 2's prose actually describes the mai beinaihu content most precisely \u2014 but given the passage is one unified baraita, candidate 0 as the introductory heading is the best single placement.",
+      "chosen_heading": "Midwife & Bechor",
+      "current_heading": "Rabbi Eliezer Strict",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Poteret Chavroseha",
+    "candidates": [
+      "Rabbi Eliezer Strict",
+      "Poteret Chavroseha",
+      "Ra'avad's Burden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna about three women sleeping in one bed and Rav \u1e24isda's qualification, which is exactly what the 'Poteret Chavroseha' section's prose describes and introduces.",
+      "chosen_heading": "Poteret Chavroseha",
+      "current_heading": "Poteret Chavroseha",
+      "moved": false
+    }
+  }
+]

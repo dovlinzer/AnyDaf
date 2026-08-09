@@ -204,7 +204,7 @@
           "timestamp": "50:10"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -257,7 +257,7 @@
           "timestamp": "51:54"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 18,
       "matched": true
     }
   ],
@@ -566,5 +566,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "49:27",
+  "amud_b_micro_title": "One Pole Solution",
+  "shiur_start_daf": 14,
+  "shiur_start_amud": "a"
 }

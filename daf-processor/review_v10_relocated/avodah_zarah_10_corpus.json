@@ -1,0 +1,531 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Post-dated Shtar",
+    "candidates": [
+      "Post-dated Shtar",
+      "Greek Rule in Eilam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe the single case of the promissory note with the apparently post-dated six-year discrepancy and Rav Na\u1e25man's resolution, which is precisely what the 'Post-dated Shtar' prose section discusses; the 'Greek Rule in Eilam' section is about the supporting Baraita from Rabbi Yosei, which does not appear in these items.",
+      "chosen_heading": "Post-dated Shtar",
+      "current_heading": "Post-dated Shtar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Greek Rule in Eilam",
+    "candidates": [
+      "Greek Rule in Eilam",
+      "Yetziat Mitzrayim Dating",
+      "Thousands Place Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Yosei's baraita about six years of Greek rule in Elam before their dominion spread worldwide, which is precisely what the prose under 'Greek Rule in Eilam' discusses.",
+      "chosen_heading": "Greek Rule in Eilam",
+      "current_heading": "Greek Rule in Eilam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Thousands Place Debate",
+    "candidates": [
+      "Yetziat Mitzrayim Dating",
+      "Thousands Place Debate",
+      "Rav Nachman's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Acha bar Yaakov's challenge about counting from Yetziat Mitzrayim AND Rav Nachman's ruling, but the core content \u2014 the objection itself questioning whether we count from Yetziat Mitzrayim rather than the Greek kingdom \u2014 is precisely what heading 0 ('Yetziat Mitzrayim Dating') describes, while the thousands-place omission argument (heading 1) and Rav Nachman's standalone ruling (heading 2) are secondary elements; heading 0's prose is the clearest match for this passage's primary content.",
+      "chosen_heading": "Yetziat Mitzrayim Dating",
+      "current_heading": "Thousands Place Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rav Nachman's Ruling",
+    "candidates": [
+      "Thousands Place Debate",
+      "Rav Nachman's Ruling",
+      "Nisan vs Tishrei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Acha bar Yaakov thinking Rav Nachman was deflecting him, then discovering the baraita confirming that in the exile we count only according to Greek kings \u2014 exactly what the prose under 'Rav Nachman's Ruling' describes.",
+      "chosen_heading": "Rav Nachman's Ruling",
+      "current_heading": "Rav Nachman's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Nisan vs Tishrei",
+    "candidates": [
+      "Nisan vs Tishrei",
+      "Jewish Kings Nisan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage shows Ravina citing the mishna and Rav \u1e24isda's ruling that the first of Nisan is the new year for kings with regard to documents (shtarot), which is precisely what candidate 1 ('Jewish Kings Nisan') discusses \u2014 Rav \u1e24isda's interpretation of le-melachim as referring to shtarot and the distinction between Jewish and non-Jewish kings.",
+      "chosen_heading": "Jewish Kings Nisan",
+      "current_heading": "Nisan vs Tishrei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Jewish Kings Nisan",
+    "candidates": [
+      "Nisan vs Tishrei",
+      "Jewish Kings Nisan",
+      "Seleucid Convention",
+      "Dating Convention Shift",
+      "Coronation Day Def."
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Jewish Kings Nisan",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the contradiction between Nisan and Tishrei for shtarot and its resolution (Jewish kings vs. gentile kings), which is precisely what candidate 1 'Jewish Kings Nisan' describes in its prose.",
+      "second_heading": "Seleucid Convention",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Ravina's proof that we count from Tishrei using the Seleucid convention, which matches candidate 2 'Seleucid Convention' exactly \u2014 that prose describes 've-anan hashta mi-Tishrei mininan' and the refutation of the Yetziat Mitzrayim suggestion.",
+      "current_heading": "Jewish Kings Nisan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Coronation Day Def.",
+    "candidates": [
+      "Seleucid Convention",
+      "Dating Convention Shift",
+      "Coronation Day Def.",
+      "Obadiah Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage defines 'yom ginussia' as coronation day and resolves the apparent contradiction with the baraita by distinguishing the king himself from his son, which is precisely what the prose in candidate 2 ('Coronation Day Def.') discusses.",
+      "chosen_heading": "Coronation Day Def.",
+      "current_heading": "Coronation Day Def.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Obadiah Prophecy",
+    "candidates": [
+      "Obadiah Prophecy",
+      "Birthday Interpretation",
+      "Asverus Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the chain of objections and resolutions about whether 'yom ginussia' means birthday or coronation, which the 'Birthday Interpretation' prose explicitly describes in full detail, including the Rav Yosef/Obadiah citation as part of disproving the coronation-of-son reading, the birthday proposal, its refutation, and the return to the coronation reading.",
+      "chosen_heading": "Birthday Interpretation",
+      "current_heading": "Obadiah Prophecy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Asverus Example",
+    "candidates": [
+      "Birthday Interpretation",
+      "Asverus Example",
+      "Antoninus Dilemma",
+      "Dove Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the example of Asveirus bar Antoninus ruling through a special petition, which is precisely what the 'Asverus Example' section's prose discusses.",
+      "chosen_heading": "Asverus Example",
+      "current_heading": "Asverus Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Dove Parable",
+    "candidates": [
+      "Antoninus Dilemma",
+      "Dove Parable",
+      "Secret Speech"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Antoninus Dilemma",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the full Antoninus dilemma AND the dove parable response \u2014 both elements are described together in candidate 0's prose ('Antoninus Dilemma') which covers the political context and the two requests, while candidate 1 ('Dove Parable') is a better fit for the dove episode alone, but since item 1 contains both the dilemma setup AND the dove parable, candidate 0 captures the whole unit; however, the current placement under 'Dove Parable' (index 1) also describes this content accurately \u2014 on reflection, item 1 belongs under index 0 since it opens with the dilemma framing that candidate 0's prose explicitly discusses.",
+      "second_heading": "Secret Speech",
+      "second_confidence": "low",
+      "second_reason": "Item 2 (the radish/garden episode about eliminating troublesome Romans one by one) does not match candidate 2's prose about secret speech and Kohelet, but it is the only remaining candidate and the current placement under index 1 is also a mismatch \u2014 confidence is low as neither remaining candidate's prose directly addresses the radish parable content.",
+      "current_heading": "Dove Parable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Secret Speech",
+    "candidates": [
+      "Secret Speech",
+      "Vegetable Codes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why Rabbi Yehuda HaNasi could not speak explicitly or whisper, and cites the Kohelet verse about birds carrying the voice \u2014 exactly what the 'Secret Speech' prose section discusses.",
+      "chosen_heading": "Secret Speech",
+      "current_heading": "Secret Speech",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Vegetable Codes",
+    "candidates": [
+      "Vegetable Codes",
+      "Secret Gold Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the vegetable-coded exchange between Antoninus and Rabbi about his daughter Gira, which is exactly what the 'Vegetable Codes' section prose discusses.",
+      "chosen_heading": "Vegetable Codes",
+      "current_heading": "Vegetable Codes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Secret Gold Gift",
+    "candidates": [
+      "Secret Gold Gift",
+      "Secret Tunnel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Antoninus sending concealed gold in wheat sacks to Rabbi, which matches exactly the 'Secret Gold Gift' section's prose about gold hidden under wheat.",
+      "chosen_heading": "Secret Gold Gift",
+      "current_heading": "Secret Gold Gift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Secret Tunnel",
+    "candidates": [
+      "Secret Tunnel",
+      "Rabbi Chanina Incident"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the secret tunnel, the killing of two slaves to preserve secrecy, and Antoninus's instruction to have no one present \u2014 all of which match exactly the 'Secret Tunnel' section's prose.",
+      "chosen_heading": "Secret Tunnel",
+      "current_heading": "Secret Tunnel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Rabbi Chanina Incident",
+    "candidates": [
+      "Rabbi Chanina Incident",
+      "Antoninus Service"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the exact incident of Rabbi \u1e24anina bar \u1e24ama being found with Rabbi, the dead servant, and his revival \u2014 which is precisely what the 'Rabbi Chanina Incident' prose describes in detail.",
+      "chosen_heading": "Rabbi Chanina Incident",
+      "current_heading": "Rabbi Chanina Incident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Antoninus Service",
+    "candidates": [
+      "Antoninus Service",
+      "Esau Actions Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Antoninus ministering to Rabbi, feeding him, helping him to bed, and expressing the wish to be his mattress in the World-to-Come, which is precisely what the 'Antoninus Service' prose section discusses.",
+      "chosen_heading": "Antoninus Service",
+      "current_heading": "Antoninus Service",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Esau Actions Doctrine",
+    "candidates": [
+      "Esau Actions Doctrine",
+      "Baraita Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Antoninus asking about olam ha-ba, the baraita confirming the 'deeds of Esau' interpretation, and the Ezekiel challenge with Rabbi's response \u2014 are discussed together in the 'Esau Actions Doctrine' prose, which explicitly covers both the Ovadia and Ezekiel exchanges as well as their resolution.",
+      "chosen_heading": "Esau Actions Doctrine",
+      "current_heading": "Esau Actions Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Baraita Exception",
+    "candidates": [
+      "Baraita Exception",
+      "Kti'a Bar Shalom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself that identifies the exceptions for Antoninus and Ketia bar Shalom, which is exactly what the prose under 'Baraita Exception' describes and introduces.",
+      "chosen_heading": "Baraita Exception",
+      "current_heading": "Baraita Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Kti'a Bar Shalom",
+    "candidates": [
+      "Kti'a Bar Shalom",
+      "Four Winds Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the emperor's question about cutting off a sore to live, which is exactly what the prose under heading 0 ('Kti'a Bar Shalom') discusses \u2014 the setup of the emperor's metaphor \u2014 before heading 1 moves on to Kti'a's counter-arguments.",
+      "chosen_heading": "Kti'a Bar Shalom",
+      "current_heading": "Kti'a Bar Shalom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Four Winds Argument",
+    "candidates": [
+      "Four Winds Argument",
+      "Kti'a Execution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ketia bar Shalom's two arguments (the four winds analogy and the 'severed kingdom' warning), which is precisely what the 'Four Winds Argument' section's prose discusses.",
+      "chosen_heading": "Four Winds Argument",
+      "current_heading": "Four Winds Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Kti'a Execution",
+    "candidates": [
+      "Kti'a Execution",
+      "Kti'a Bequest",
+      "Bat Kol Approval"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the execution announcement and the circumcision act (Kti'a's 'tax payment'), which matches heading 0's prose exactly, and the bequest/Rabbi Akiva drasha at the end is also included in this single continuous Talmudic excerpt that belongs under the current heading.",
+      "chosen_heading": "Kti'a Execution",
+      "current_heading": "Kti'a Execution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Bat Kol Approval",
+    "candidates": [
+      "Kti'a Bequest",
+      "Bat Kol Approval",
+      "Adrachan Service",
+      "Deaths & Eulogies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Bat Kol Approval' section's prose discusses: the heavenly voice declaring Kti'a destined for the World-to-Come and Rabbi's weeping response about acquiring one's world in a moment versus many years.",
+      "chosen_heading": "Bat Kol Approval",
+      "current_heading": "Bat Kol Approval",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Deaths & Eulogies",
+    "candidates": [
+      "Adrachan Service",
+      "Deaths & Eulogies",
+      "Onkelos Conversion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the deaths of Antoninus and Adrachan and the parallel eulogies ('nitpardah chavilah') delivered by Rabbi and Rav, which is precisely what the 'Deaths & Eulogies' prose discusses.",
+      "chosen_heading": "Deaths & Eulogies",
+      "current_heading": "Deaths & Eulogies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Onkelos Conversion",
+    "candidates": [
+      "Onkelos Conversion",
+      "Four Winds Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Onkelos's conversion and the emperor sending troops after him, including the instruction not to speak to him \u2014 all content explicitly covered in the 'Onkelos Conversion' prose section.",
+      "chosen_heading": "Onkelos Conversion",
+      "current_heading": "Onkelos Conversion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Four Winds Defense",
+    "candidates": [
+      "Four Winds Defense",
+      "Torch Bearer Parable",
+      "Mezuza Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the torch-bearer parable and the soldiers' conversion, which matches exactly the 'Torch Bearer Parable' section's prose discussion of this specific argument, not the 'Four Winds Defense' section where it currently sits.",
+      "chosen_heading": "Torch Bearer Parable",
+      "current_heading": "Four Winds Defense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Mezuza Argument",
+    "candidates": [
+      "Torch Bearer Parable",
+      "Mezuza Argument",
+      "Emperor Surrenders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete mezuza episode \u2014 the third troop's silent escort, Onkelos touching the mezuza, and his king-inside/servants-outside argument \u2014 which is precisely what the 'Mezuza Argument' prose section describes in detail.",
+      "chosen_heading": "Mezuza Argument",
+      "current_heading": "Mezuza Argument",
+      "moved": false
+    }
+  }
+]

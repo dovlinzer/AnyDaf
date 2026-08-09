@@ -1,0 +1,325 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "12-month condition",
+    "candidates": [
+      "Shliach empowerment",
+      "Thirty-day delay",
+      "Rava's ruling",
+      "Challenge to Rava",
+      "Empowerment debate",
+      "Piyes concern",
+      "12-month condition",
+      "Ne'emenes alai",
+      "Arusa distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'piyes' (reconciliation) concern and resolves it via the 'ne'emenes alai' principle, which is precisely what the 'Piyes concern' section's prose discusses, while the current placement under '12-month condition' is where this answer comes from in the parallel case \u2014 but the passage itself is the Gemara's answer to the piyes concern raised in section 5.",
+      "chosen_heading": "Piyes concern",
+      "current_heading": "12-month condition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Arusa distinction",
+    "candidates": [
+      "Ne'emenes alai",
+      "Arusa distinction",
+      "Shliach presence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rava's embarrassment (ichsof), the revelation that the woman was an arusa, and Rava's distinction between nesuah and arusa \u2014 precisely what the 'Arusa distinction' section prose discusses.",
+      "chosen_heading": "Arusa distinction",
+      "current_heading": "Arusa distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Shliach presence",
+    "candidates": [
+      "Shliach presence",
+      "Return condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the question of whether beis din must appoint a replacement shliach in the presence of the first shliach, which is precisely what the 'Shliach presence' prose section discusses.",
+      "chosen_heading": "Shliach presence",
+      "current_heading": "Shliach presence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Return condition",
+    "candidates": [
+      "Return condition",
+      "Shmuel's ruling",
+      "Ones doctrine",
+      "Reconciliation debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the incident itself (the man's declaration, the blocked ferry, his calling out), which is precisely what the 'Return condition' prose section narrates, before Shmuel's ruling is discussed separately in the next section.",
+      "chosen_heading": "Return condition",
+      "current_heading": "Return condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Reconciliation debate",
+    "candidates": [
+      "Shmuel's ruling",
+      "Ones doctrine",
+      "Reconciliation debate",
+      "Ones conclusion",
+      "Loan setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items present the reconciliation case and its two versions of Rav Yosef's ruling, which is precisely what candidate 2 ('Reconciliation debate') describes in its prose.",
+      "chosen_heading": "Reconciliation debate",
+      "current_heading": "Reconciliation debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Loan setup",
+    "candidates": [
+      "Ones conclusion",
+      "Loan setup",
+      "Separation mechanism",
+      "Presumption aliyah",
+      "Death of creditor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text about lending money to a kohen, levi, or poor person and separating tithes on the presumption they are still alive, which is precisely what the 'Loan setup' section introduces and explains in detail.",
+      "chosen_heading": "Loan setup",
+      "current_heading": "Loan setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Death of creditor",
+    "candidates": [
+      "Separation mechanism",
+      "Presumption aliyah",
+      "Death of creditor",
+      "Possession problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses what happens when the kohen/levi/ani dies, the need to obtain permission from heirs, and the exception when the loan was made before a beis din \u2014 all of which are explicitly discussed in the 'Death of creditor' prose section.",
+      "chosen_heading": "Death of creditor",
+      "current_heading": "Death of creditor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Possession problem",
+    "candidates": [
+      "Possession problem",
+      "Established families",
+      "Third party",
+      "Asu institution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Gemara text raises the foundational question of whether the priest/Levite/poor person can transfer possession without the produce having come into their hands \u2014 exactly the 'possession problem' that candidate 0's prose directly addresses.",
+      "chosen_heading": "Possession problem",
+      "current_heading": "Possession problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Asu institution",
+    "candidates": [
+      "Established families",
+      "Third party",
+      "Asu institution",
+      "Exchange rate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items cover the three-way dispute between Rav, Shmuel, and Ulla and the Gemara's explanation of why each rejected the others' views, which is precisely what the 'Asu institution' prose describes in its final paragraph.",
+      "chosen_heading": "Asu institution",
+      "current_heading": "Asu institution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Exchange rate",
+    "candidates": [
+      "Exchange rate",
+      "Ribbis exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the baraita about lending to priest/Levite/poor person and its Gemara analysis, with items 1-3 presenting the baraita and item 4 specifically clarifying the 'low market rate' (sha'ar ha-zol) rule \u2014 which is precisely what the 'Exchange rate' prose discusses, including the peshita question and the chidush about implicit rate-fixing even without explicit contract.",
+      "chosen_heading": "Exchange rate",
+      "current_heading": "Exchange rate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Ribbis exemption",
+    "candidates": [
+      "Ribbis exemption",
+      "Shemita exception",
+      "Retraction rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the ribbit exemption via the logic that when the crop fails the borrower owes nothing, which is precisely what the prose under 'Ribbis exemption' discusses.",
+      "chosen_heading": "Ribbis exemption",
+      "current_heading": "Ribbis exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Retraction rules",
+    "candidates": [
+      "Shemita exception",
+      "Retraction rules",
+      "Ye'ush concept"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shemita exception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the shemita/sabbatical year not canceling this loan because 'lo yigos' doesn't apply, which matches exactly the 'Shemita exception' prose.",
+      "second_heading": "Retraction rules",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses retraction rules (Rav Pappa's distinction between homeowner and priest reneging), which matches exactly the 'Retraction rules' prose where it currently sits.",
+      "current_heading": "Retraction rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Ye'ush concept",
+    "candidates": [
+      "Ye'ush concept",
+      "Beis din takana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses ye'ush (despair) of the owner regarding a lost loan and its effect on separating teruma, which directly matches the 'Ye'ush concept' section's prose about the same Gemara clarification regarding grain standing in straw.",
+      "chosen_heading": "Ye'ush concept",
+      "current_heading": "Ye'ush concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Beis din takana",
+    "candidates": [
+      "Beis din takana",
+      "Death vs. wealth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the baraita of Rabbi Eliezer ben Ya'akov and the subsequent Gemara discussion about the difference between his opinion and Rabbi A\u1e25ai's (regarding poor Samaritans), which is precisely what the 'Beis din takana' prose section describes in detail.",
+      "chosen_heading": "Beis din takana",
+      "current_heading": "Beis din takana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Death vs. wealth",
+    "candidates": [
+      "Death vs. wealth",
+      "Heirs and land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the death-vs-wealth distinction \u2014 item 1 gives the baraita ruling about the poor man becoming wealthy, and item 2 gives the Gemara's question and answer (misa shchicha, ashirus lo shchicha) plus Rav Pappa's folk saying \u2014 all of which are explicitly discussed in the 'Death vs. wealth' prose.",
+      "chosen_heading": "Death vs. wealth",
+      "current_heading": "Death vs. wealth",
+      "moved": false
+    }
+  }
+]

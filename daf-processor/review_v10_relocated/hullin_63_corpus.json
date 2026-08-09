@@ -1,0 +1,453 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Shakitna Characteristics",
+    "candidates": [
+      "Simanim Recap",
+      "Swamp Hen & Mesorah",
+      "Tosafot: Birds of Prey",
+      "Shakitna Characteristics",
+      "Mnemonics: Murzma",
+      "Mixed Simanim Birds",
+      "Species Definition",
+      "Nesher ID",
+      "Shalach ID",
+      "Duchifat & Shamir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Yehuda's ruling on the shakitna bird's kosher status based on leg length and color characteristics, which is precisely what the 'Shakitna Characteristics' section prose discusses.",
+      "chosen_heading": "Shakitna Characteristics",
+      "current_heading": "Shakitna Characteristics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Duchifat & Shamir",
+    "candidates": [
+      "Mnemonics: Murzma",
+      "Mixed Simanim Birds",
+      "Species Definition",
+      "Nesher ID",
+      "Shalach ID",
+      "Duchifat & Shamir",
+      "Yochanan's Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage discusses both the shalach (fish-scooping bird) and the duchifat (bent crest, shamir connection), but the duchifat/shamir identification is the primary focus and the current placement under 'Duchifat & Shamir' is the clearly correct home for this combined text.",
+      "chosen_heading": "Duchifat & Shamir",
+      "current_heading": "Duchifat & Shamir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Yochanan's Drasha",
+    "candidates": [
+      "Yochanan's Drasha",
+      "Custom & Peres"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yo\u1e25anan's reactions to seeing a shalakh and an ant, reciting the two halves of Psalms 36:7, which is precisely what the prose under 'Yochanan's Drasha' discusses in detail.",
+      "chosen_heading": "Yochanan's Drasha",
+      "current_heading": "Yochanan's Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Custom & Peres",
+    "candidates": [
+      "Custom & Peres",
+      "Peres ve-Ozniya",
+      "Geography & ID",
+      "Kuai Birds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source text that the 'Custom & Peres' section directly introduces and discusses, covering Ameimar's statement about laknei/batnei being permitted and the custom-based ruling for sakna'ei/batna'ei with the peres/ozniya geographic explanation.",
+      "chosen_heading": "Custom & Peres",
+      "current_heading": "Custom & Peres",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Kuai Birds",
+    "candidates": [
+      "Peres ve-Ozniya",
+      "Geography & ID",
+      "Kuai Birds",
+      "Regional Disputes",
+      "Bird & Sheretz",
+      "Context Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Abaye's statement about kuai, kakuai, and kakuata birds, which is precisely what the 'Kuai Birds' section prose describes.",
+      "chosen_heading": "Kuai Birds",
+      "current_heading": "Kuai Birds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Context Principle",
+    "candidates": [
+      "Regional Disputes",
+      "Bird & Sheretz",
+      "Context Principle",
+      "Tinshemet = Kipuf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items deal with the hermeneutical principle of davar ha-lamed me-inyano applied to the word tinshemet appearing in both bird and sheretz lists, which is precisely what the 'Context Principle' prose describes.",
+      "chosen_heading": "Context Principle",
+      "current_heading": "Context Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Tinshemet = Kipuf",
+    "candidates": [
+      "Tinshemet = Kipuf",
+      "Orev Varieties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the identification and significance of the racham/sherakrak bird, including Rabbi Yochanan's etymology, Rav Beivai's qualification about the Messianic sign, and the challenge about the bird that was crushed \u2014 all of which are explicitly covered in the prose of heading 0 ('Tinshemet = Kipuf').",
+      "chosen_heading": "Tinshemet = Kipuf",
+      "current_heading": "Tinshemet = Kipuf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Orev Varieties",
+    "candidates": [
+      "Orev Varieties",
+      "Hatz & Variants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the orev (crow/raven) varieties \u2014 the black orev, the valley orev, and the pigeon-headed orev \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Orev Varieties",
+      "current_heading": "Orev Varieties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Hatz & Variants",
+    "candidates": [
+      "Hatz & Variants",
+      "Chasida = Daya",
+      "Chasida Meaning",
+      "Anafa Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the netz (hawk) and its variant bar \u1e25ireya/shurineka, which matches exactly what the 'Hatz & Variants' section prose describes.",
+      "chosen_heading": "Hatz & Variants",
+      "current_heading": "Hatz & Variants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Anafa Meaning",
+    "candidates": [
+      "Chasida = Daya",
+      "Chasida Meaning",
+      "Anafa Meaning",
+      "Count Intro",
+      "List Discrepancy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the identification of the chasida as daya levana AND the meaning of anafa, making it a single unified Talmudic statement that belongs under the first heading 'Chasida = Daya' where the identification is introduced, rather than being split across headings.",
+      "chosen_heading": "Chasida = Daya",
+      "current_heading": "Anafa Meaning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "List Discrepancy",
+    "candidates": [
+      "Count Intro",
+      "List Discrepancy",
+      "Da'ah = Ra'ah",
+      "Mishneh Torah Adds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav's statement that there are twenty-four non-kosher birds and then raises the counting problem (twenty vs. twenty-one vs. twenty-two), which matches the 'Count Intro' prose that describes how the gemara turns to the problem of counting to twenty-four and resolving discrepancies \u2014 the 'List Discrepancy' prose, by contrast, describes the full resolution including the father's response about 'leminehu,' which is not yet in this passage.",
+      "chosen_heading": "Count Intro",
+      "current_heading": "List Discrepancy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Mishneh Torah Adds",
+    "candidates": [
+      "Da'ah = Ra'ah",
+      "Mishneh Torah Adds",
+      "Aya = Daya",
+      "Multiple Names"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Da'ah = Ra'ah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the objection that there are twenty-six birds and Abaye's resolution that da'ah and ra'ah are one species, which matches heading 0's prose about that exact argument.",
+      "second_heading": "Aya = Daya",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Abaye's further argument that ayah and dayah are one species using the leminah principle, which matches heading 2's prose exactly.",
+      "current_heading": "Mishneh Torah Adds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Multiple Names",
+    "candidates": [
+      "Aya = Daya",
+      "Multiple Names",
+      "Addition Resolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the Torah writes both 'ayya' and 'dayya' when they are the same species, citing Rabbi Yehuda HaNasi's answer about preventing disputants from drawing distinctions \u2014 exactly what the 'Multiple Names' prose section describes.",
+      "chosen_heading": "Multiple Names",
+      "current_heading": "Multiple Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Addition Resolved",
+    "candidates": [
+      "Addition Resolved",
+      "Ra'ah = Aya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about why the Torah repeated the animal/bird lists, the additive vs. explanatory distinction (le-osufi vs. le-frushei), which is precisely what the 'Addition Resolved' prose describes.",
+      "chosen_heading": "Addition Resolved",
+      "current_heading": "Addition Resolved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Ra'ah = Aya",
+    "candidates": [
+      "Ra'ah = Aya",
+      "Addition Test",
+      "All One Species"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Abbahu's statement that ra'ah is the ayah, the etymological explanation based on exceptional sight, the supporting verse from Job, and the baraita about standing in Babylonia \u2014 all of which are precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Ra'ah = Aya",
+      "current_heading": "Ra'ah = Aya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "All One Species",
+    "candidates": [
+      "Addition Test",
+      "All One Species",
+      "Infinite Varieties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items trace the gemara's logical pressure on Rav Abbahu \u2014 item 1 shows that da'ah/ra'ah/ayah must collapse into one species via the addition principle, and item 2 extends that to dayah via the leminah problem \u2014 which is precisely what the 'Addition Test' prose describes as the gemara examining Rav Abbahu's position against the addition principle, not the 'All One Species' section which summarizes the conclusion rather than the reasoning steps.",
+      "chosen_heading": "Addition Test",
+      "current_heading": "All One Species",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Infinite Varieties",
+    "candidates": [
+      "All One Species",
+      "Infinite Varieties",
+      "Why 24 Works",
+      "Shorter List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita from Isi ben Yehuda and Avimi bar Rav Abbahu about seven hundred fish, eight hundred grasshoppers, and countless birds is precisely what the 'Infinite Varieties' prose describes, making the current placement correct.",
+      "chosen_heading": "Infinite Varieties",
+      "current_heading": "Infinite Varieties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Shorter List",
+    "candidates": [
+      "Why 24 Works",
+      "Shorter List",
+      "Short Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita records Rebbi's explanation for why the Torah lists kosher mammals versus non-kosher birds, which matches exactly the prose of candidate 1 ('Shorter List') describing Galui ve-yadu'a and the principle of enumerating the smaller category.",
+      "chosen_heading": "Shorter List",
+      "current_heading": "Shorter List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Short Teaching",
+    "candidates": [
+      "Short Teaching",
+      "Tradition Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle of teaching students concisely (derekh ktzarah), which is exactly what the 'Short Teaching' section's prose discusses and elaborates upon.",
+      "chosen_heading": "Short Teaching",
+      "current_heading": "Short Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Tradition Works",
+    "candidates": [
+      "Tradition Works",
+      "Hunter Testimony",
+      "Know Birds & Names",
+      "Teacher vs Hunter",
+      "Hunter's Tradition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both Rav Yitzchak's statement about tradition and Rabbi Yochanan's qualification, spanning content described in headings 0, 1, and 2, but the current placement under 'Tradition Works' is reasonable since it introduces the full unit, and the essay's structure breaks these into separate sections with the passage likely serving as the source for all three.",
+      "chosen_heading": "Tradition Works",
+      "current_heading": "Tradition Works",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Hunter's Tradition",
+    "candidates": [
+      "Hunter Testimony",
+      "Know Birds & Names",
+      "Teacher vs Hunter",
+      "Hunter's Tradition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Zeira's dilemma about whether 'his master' means a Torah teacher (chacham) or a master hunter, which is exactly what the 'Teacher vs Hunter' section's prose describes.",
+      "chosen_heading": "Teacher vs Hunter",
+      "current_heading": "Hunter's Tradition",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Chachamim View",
+    "candidates": [
+      "Finding Shtar Chov",
+      "Liens Present/Absent",
+      "Rabbi Meir's View",
+      "Chachamim View",
+      "Bemai Askinan",
+      "Shimeon Admits",
+      "Predated Liens Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Liens Present/Absent",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Mishnah itself (Rabbi Meir's view and the Chachamim's view), which the prose under 'Liens Present/Absent' introduces as the Mishnah's core distinction, making it the best fit for the full Mishnah text before the Gemara begins.",
+      "second_heading": "Bemai Askinan",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the opening Gemara's 'bemai askinan' question with its two scenarios (debtor admits vs. denies), which maps precisely onto the prose under 'Bemai Askinan' describing those exact two possibilities.",
+      "current_heading": "Chachamim View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Predated Liens Problem",
+    "candidates": [
+      "Bemai Askinan",
+      "Shimeon Admits",
+      "Predated Liens Problem",
+      "Challenge to Concern",
+      "Rashi's Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's answer 'le'olam kshechayav modeh' (actually when the liable party admits), which is precisely what the 'Shimeon Admits' section describes as the Gemara's first answer, including the concern for lakochot \u2014 the prose of candidate 1 directly describes this exact Talmudic passage.",
+      "chosen_heading": "Shimeon Admits",
+      "current_heading": "Predated Liens Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Rashi's Rationale",
+    "candidates": [
+      "Challenge to Concern",
+      "Rashi's Rationale",
+      "Lamudic Approach",
+      "Signing Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the challenge ('if so, we should be concerned about all notes') and its answer ('all notes have not been compromised, these have'), which is exactly what candidate 0's prose describes with the phrase 'kol shtarei lo rai hanei rai.'",
+      "chosen_heading": "Challenge to Concern",
+      "current_heading": "Rashi's Rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Signing Timing",
+    "candidates": [
+      "Lamudic Approach",
+      "Signing Timing",
+      "Rav Assi: Kinyan Only",
+      "Shtar Hakna'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises exactly the question about writing a loan document without the lender present and the concern about predated liens harming purchasers, which is precisely what the 'Signing Timing' prose describes.",
+      "chosen_heading": "Signing Timing",
+      "current_heading": "Signing Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Shtar Hakna'ah",
+    "candidates": [
+      "Rav Assi: Kinyan Only",
+      "Shtar Hakna'ah",
+      "Return w/ Kinyan?",
+      "No Kinyan Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Assi's direct statement that the mishna refers to deeds of transfer (shtar hakna'ah) because the debtor obligated himself \u2014 this is precisely the ruling that candidate 0 ('Rav Assi: Kinyan Only') describes as its content, not the elaboration of how shtar hakna'ah works that candidate 1 discusses.",
+      "chosen_heading": "Rav Assi: Kinyan Only",
+      "current_heading": "Shtar Hakna'ah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "No Kinyan Issue",
+    "candidates": [
+      "Return w/ Kinyan?",
+      "No Kinyan Issue",
+      "Protocol Violation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 raises the challenge from the Mishnah (why not return a document with property guarantee when the debtor admits?), and Item 2 answers by distinguishing shtar hakna'ah from non-hakna'ah \u2014 precisely the content described in heading 0's prose about the kinyan distinction, not the 'no kinyan issue' resolution described in heading 1.",
+      "chosen_heading": "Return w/ Kinyan?",
+      "current_heading": "No Kinyan Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Protocol Violation",
+    "candidates": [
+      "No Kinyan Issue",
+      "Protocol Violation",
+      "Edim Bachasiman",
+      "Abaye vs. Kinyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Asi's answer that once a document has been dropped its credibility is compromised and we suspect witnesses may have deviated from protocol (signed without the lender present), which is precisely what the 'Protocol Violation' section's prose describes and analyzes.",
+      "chosen_heading": "Protocol Violation",
+      "current_heading": "Protocol Violation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Abaye vs. Kinyan",
+    "candidates": [
+      "Edim Bachasiman",
+      "Abaye vs. Kinyan",
+      "Gemara Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Abaye's core principle that witnesses' signatures acquire the lien on the lender's behalf, which is exactly what the 'Edim Bachasiman' section's prose describes as Abaye's entry into the discussion with this fundamental principle.",
+      "chosen_heading": "Edim Bachasiman",
+      "current_heading": "Abaye vs. Kinyan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Gemara Challenge",
+    "candidates": [
+      "Abaye vs. Kinyan",
+      "Gemara Challenge",
+      "Delivery Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's challenge to Abaye from the Mishnah about found documents, which is precisely what the 'Gemara Challenge' prose section describes \u2014 the found-document Mishnah, the concern about a change of heart, and the pressing question about why signatures wouldn't have already effected the legal change.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Gemara Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Delivery Requirement",
+    "candidates": [
+      "Delivery Requirement",
+      "vs. Hakna'ah",
+      "Retroactive Liens",
+      "Both Admit Case",
+      "Fraud Concern",
+      "Scheme Details"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Delivery Requirement",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 belong under 'Delivery Requirement': item 1 resolves Abaye's principle by limiting it to cases where the document was delivered, and item 2 then raises the renewed difficulty this creates for the Mishnah's ruling \u2014 both are part of the same delivery-requirement discussion.",
+      "second_heading": "Both Admit Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the opening of the Gemara's challenge to Abaye from the Mishnah (the 'both admit' case), which is precisely what the 'Both Admit Case' prose describes \u2014 why the Mishnah says not to return notes even when the debtor admits the debt.",
+      "current_heading": "Delivery Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Scheme Details",
+    "candidates": [
+      "vs. Hakna'ah",
+      "Retroactive Liens",
+      "Both Admit Case",
+      "Fraud Concern",
+      "Scheme Details",
+      "No Fraud Fear",
+      "Reinterpret Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items discuss Shmuel's position of not suspecting repayment and collusion and how he must explain the Mishnah, which matches the 'No Fraud Fear' section's prose about Shmuel rejecting concerns of pirayon u'knunya \u2014 the passage then leads into the 'Reinterpret Mishnah' section, but both items together are specifically about Shmuel's challenge and his need to reread the Mishnah, fitting best under 'No Fraud Fear.'",
+      "chosen_heading": "No Fraud Fear",
+      "current_heading": "Scheme Details",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Reinterpret Mishnah",
+    "candidates": [
+      "No Fraud Fear",
+      "Reinterpret Mishnah",
+      "Debtor Denies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states 'Shmuel moki l'matnisin k'she'ein chayav modeh' \u2014 Shmuel reinterprets the Mishnah as referring to a case where the liable party does not admit the debt, which is precisely what the 'Reinterpret Mishnah' section's prose describes.",
+      "chosen_heading": "Reinterpret Mishnah",
+      "current_heading": "Reinterpret Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Debtor Denies",
+    "candidates": [
+      "Debtor Denies",
+      "Meir: Worthless",
+      "Bottle Stopper"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks exactly why a document without achrayut should be returned if it can still collect from unsold property (benei chorin), which is precisely the question the 'Meir: Worthless' section sets up \u2014 Rabbi Meir's answer being that such a document cannot collect even from benei chorin, making it worthless.",
+      "chosen_heading": "Meir: Worthless",
+      "current_heading": "Debtor Denies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Bottle Stopper",
+    "candidates": [
+      "Meir: Worthless",
+      "Bottle Stopper",
+      "Elazar Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous chain \u2014 Shmuel's ruling that Rabbi Meir deems a shtar without achrayut worthless, followed by the bottle-stopper question and answer, and the debtor's denial \u2014 exactly matching the 'Bottle Stopper' prose which explicitly discusses all these elements together.",
+      "chosen_heading": "Bottle Stopper",
+      "current_heading": "Bottle Stopper",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Elazar Reading",
+    "candidates": [
+      "Elazar Reading",
+      "Chachamim View",
+      "Yochanan Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Elazar's reading of the Mishnah \u2014 that the dispute applies when the liable party does not admit the debt, with Rabbi Meir holding the note is worthless entirely and the Rabbanan holding it collects from free property \u2014 which matches exactly what the 'Elazar Reading' prose describes.",
+      "chosen_heading": "Elazar Reading",
+      "current_heading": "Elazar Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Yochanan Reading",
+    "candidates": [
+      "Chachamim View",
+      "Yochanan Reading",
+      "Protection Target",
+      "Both Admit Rule",
+      "Purchaser Protection",
+      "Implicit Liens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Yochanan's position \u2014 item 1 states his reading of the machlokes and item 2 confirms it via a baraita \u2014 matching the 'Yochanan Reading' prose which describes exactly this: machlokes keshechayav modeh, Rabbi Meir's view on benei chorin vs. liened property, and the divrei hakol lo yachzir rule when the loveh does not admit.",
+      "chosen_heading": "Yochanan Reading",
+      "current_heading": "Yochanan Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Implicit Liens",
+    "candidates": [
+      "Protection Target",
+      "Both Admit Rule",
+      "Purchaser Protection",
+      "Implicit Liens",
+      "Still Collects",
+      "Meir Refuted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Items 3 and 4 explicitly refute Rabbi Elazar's two claims \u2014 that a shtar without achrayut is legally inert, and that there is no suspicion of collusion \u2014 which is precisely what the 'Still Collects' prose describes, making it the best match for this passage.",
+      "chosen_heading": "Still Collects",
+      "current_heading": "Implicit Liens",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Meir Refuted",
+    "candidates": [
+      "Still Collects",
+      "Meir Refuted",
+      "Schemes Confirmed",
+      "Core Issue",
+      "Purchaser Risk",
+      "Implicit Liens Q",
+      "Never Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage addresses precisely the Gemara's question of why the baraita refutes 'one' element when seemingly two are refuted, and the answer that both elements share one underlying reason (Rabbi Elazar's reading of the machloket as concerning denial) \u2014 which is exactly what the 'Schemes Confirmed' prose discusses: the two positions being intertwined as a unified whole.",
+      "chosen_heading": "Schemes Confirmed",
+      "current_heading": "Meir Refuted",
+      "moved": true
+    }
+  }
+]

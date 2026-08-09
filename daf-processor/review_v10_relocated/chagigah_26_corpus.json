@@ -1,0 +1,397 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Klei Cheres & Kilns",
+    "candidates": [
+      "Judah vs. Jerusalem",
+      "Klei Cheres & Kilns",
+      "Sheat HaRegel Unity",
+      "Chaveirim Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what the 'Klei Cheres & Kilns' prose describes: the baraita about large earthenware vessels for kodesh and the reason that kilns are not built in Jerusalem, which is precisely the content of candidate 1's prose.",
+      "chosen_heading": "Klei Cheres & Kilns",
+      "current_heading": "Klei Cheres & Kilns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Chaveirim Pasuk",
+    "candidates": [
+      "Sheat HaRegel Unity",
+      "Chaveirim Pasuk",
+      "Hapotei'ach Chavito"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly provides the Gemara's derivation (Rabbi Yehoshua ben Levi's verse and the 'ha-kasuv asam kulan chaveirim' interpretation) which is precisely what candidate 1's prose discusses, including the scriptural source question and the play on the word chaveirim.",
+      "chosen_heading": "Chaveirim Pasuk",
+      "current_heading": "Chaveirim Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Hapotei'ach Chavito",
+    "candidates": [
+      "Hapotei'ach Chavito",
+      "Rav Ami's Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna about opening a barrel or starting dough during the regel, which is exactly what the prose under 'Hapotei'ach Chavito' (index 0) discusses.",
+      "chosen_heading": "Hapotei'ach Chavito",
+      "current_heading": "Hapotei'ach Chavito",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rav Ami's Debate",
+    "candidates": [
+      "Rav Ami's Debate",
+      "Rachmana Tihara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the opening question from the debate ('may he leave it for another Festival?'), which is exactly what the prose under 'Rav Ami's Debate' describes and analyzes.",
+      "chosen_heading": "Rav Ami's Debate",
+      "current_heading": "Rav Ami's Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rachmana Tihara",
+    "candidates": [
+      "Rachmana Tihara",
+      "Yanichena Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'Rachmana tahara' concept \u2014 the Merciful One declaring the am ha'aretz's impurity pure during the Festival \u2014 which is precisely what the prose under heading 0 elaborates on.",
+      "chosen_heading": "Rachmana Tihara",
+      "current_heading": "Rachmana Tihara",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Yanichena Debate",
+    "candidates": [
+      "Yanichena Debate",
+      "Mishe'avar Haregel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the tannaic dispute about yanichennah/lo yanichennah and the reversal of attributions between Rabbi Yehuda and the Rabbanan, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Yanichena Debate",
+      "current_heading": "Yanichena Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Mishe'avar Haregel",
+    "candidates": [
+      "Mishe'avar Haregel",
+      "Hizaheru Shelo Tigu",
+      "Lechem Panim Tamid"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 2,
+      "first_heading": "Mishe'avar Haregel",
+      "first_confidence": "high",
+      "first_reason": "The Mishna about 'mishe'avar haregel' and purification after the Festival matches perfectly with heading 0 'Mishe'avar Haregel', which explicitly discusses this exact content.",
+      "second_heading": "Mishe'avar Haregel",
+      "second_confidence": "high",
+      "second_reason": "The Gemara explaining Rabbi Yehuda's reasoning about ashes belongs under heading 0, which explicitly discusses this baraita about the priests being occupied with removing ash accumulation.",
+      "third_heading": "Hizaheru Shelo Tigu",
+      "third_confidence": "high",
+      "third_reason": "The Mishna about how purification is performed ('keitzad ma'avirin') and the warning not to touch the shulchan matches heading 1 'Hizaheru Shelo Tigu', which discusses exactly this process of immersion and the warning about the shulchan.",
+      "current_heading": "Mishe'avar Haregel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Lechem Panim Tamid",
+    "candidates": [
+      "Hizaheru Shelo Tigu",
+      "Lechem Panim Tamid",
+      "Kli Etz Asui Lenachat"
+    ],
+    "result": {
+      "best_index": 1,
+      "action": "single",
+      "chosen_heading": "Lechem Panim Tamid",
+      "current_heading": "Lechem Panim Tamid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Kli Etz Asui Lenachat",
+    "candidates": [
+      "Kli Etz Asui Lenachat",
+      "Reish Lakish's Drash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the principle that a wooden vessel designated to rest cannot become impure and the sack analogy, which is precisely what the prose under 'Kli Etz Asui Lenachat' describes.",
+      "chosen_heading": "Kli Etz Asui Lenachat",
+      "current_heading": "Kli Etz Asui Lenachat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Reish Lakish's Drash",
+    "candidates": [
+      "Reish Lakish's Drash",
+      "Nes Gadol Lechem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Reish Lakish statement about 'the pure table' implying susceptibility to impurity, which is precisely what candidate 0's prose describes and analyzes.",
+      "chosen_heading": "Reish Lakish's Drash",
+      "current_heading": "Reish Lakish's Drash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Nes Gadol Lechem",
+    "candidates": [
+      "Nes Gadol Lechem",
+      "Parochet Aside",
+      "Coating vs. Substance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the miracle of the shewbread (nes gadol na'asa belechem hapanim), the lifting of the table to show pilgrims, and siluko kesiduro, which is precisely what the prose under 'Nes Gadol Lechem' addresses.",
+      "chosen_heading": "Nes Gadol Lechem",
+      "current_heading": "Nes Gadol Lechem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Coating vs. Substance",
+    "candidates": [
+      "Parochet Aside",
+      "Coating vs. Substance",
+      "Reish Lakish & Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question about coating (tzipui) and the cited mishna about a table coated with marble, which is precisely what the 'Coating vs. Substance' section's prose describes and introduces.",
+      "chosen_heading": "Coating vs. Substance",
+      "current_heading": "Coating vs. Substance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Reish Lakish & Yochanan",
+    "candidates": [
+      "Reish Lakish & Yochanan",
+      "Rachmana Kra'ah Etz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the Reish Lakish/Rabbi Yochanan dispute about whether coating nullifies important wood and whether a permanent vs. non-permanent coating matters, which is precisely what heading 0's prose discusses.",
+      "chosen_heading": "Reish Lakish & Yochanan",
+      "current_heading": "Reish Lakish & Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Rachmana Kra'ah Etz",
+    "candidates": [
+      "Rachmana Kra'ah Etz",
+      "Mizbeach to Shulchan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the direct exchange between Reish Lakish and Rabbi Yochanan about coating distinctions and the resolution that the Shulchan is called 'etz' by the Torah \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Rachmana Kra'ah Etz",
+      "current_heading": "Rachmana Kra'ah Etz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Mizbeach to Shulchan",
+    "candidates": [
+      "Mizbeach to Shulchan",
+      "Kol Hakeilim Shniim",
+      "Mizbeach HaNechoshet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the altar-to-table transition cited by Rabbi Yo\u1e25anan and Reish Lakish, which is precisely what the 'Mizbeach to Shulchan' prose section elaborates on.",
+      "chosen_heading": "Mizbeach to Shulchan",
+      "current_heading": "Mizbeach to Shulchan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Mizbeach HaNechoshet",
+    "candidates": [
+      "Kol Hakeilim Shniim",
+      "Mizbeach HaNechoshet",
+      "Mizbeach HaZahav",
+      "Metzupin Disagreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the bronze altar (derived from 'mizbeach adama') and the golden altar (derived via hekesh), which maps to the current placement under 'Mizbeach HaNechoshet' where the prose discusses the karka derivation for the copper altar \u2014 the golden altar content begins in this same Gemara unit before the next heading takes over.",
+      "chosen_heading": "Mizbeach HaNechoshet",
+      "current_heading": "Mizbeach HaNechoshet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Metzupin Disagreement",
+    "candidates": [
+      "Mizbeach HaZahav",
+      "Metzupin Disagreement",
+      "Talmidei Chachamim",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly discuss the Gemara's debate over the chachamim's reasoning about the coated altars (metzupin), the reframing of their position, and the conclusion that the coating is nullified \u2014 exactly matching the 'Metzupin Disagreement' prose.",
+      "chosen_heading": "Metzupin Disagreement",
+      "current_heading": "Metzupin Disagreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Talmidei Chachamim",
+      "Kal Vachomer",
+      "Devarai Kaesh",
+      "Poshei Yisrael Karimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the teaching of Rabbi Abbahu in the name of Rabbi Elazar about talmidei chachamim being immune to Gehenna's fire, which is precisely what heading 0 ('Talmidei Chachamim') describes in its prose, making it the natural home for the full passage including the kal vachomer and proof-text that follow.",
+      "chosen_heading": "Talmidei Chachamim",
+      "current_heading": "Kal Vachomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Poshei Yisrael Karimon",
+    "candidates": [
+      "Devarai Kaesh",
+      "Poshei Yisrael Karimon",
+      "Seder Moed Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Poshei Yisrael Karimon",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Reish Lakish passage about poshei Yisrael and the golden altar/pomegranate, which is precisely what candidate 1 ('Poshei Yisrael Karimon') discusses in detail.",
+      "second_heading": "Seder Moed Conclusion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the hadran/closing formula for Maseches Chagigah, which belongs under candidate 2 ('Seder Moed Conclusion') whose prose explicitly quotes and discusses this closing formula.",
+      "current_heading": "Poshei Yisrael Karimon",
+      "moved": true
+    }
+  }
+]

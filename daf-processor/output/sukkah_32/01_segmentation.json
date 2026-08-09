@@ -190,8 +190,8 @@
           "timestamp": "37:39"
         }
       ],
-      "sefaria_index": 16,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Tzinei Har Habarzel: Shortened Leaves from Special Palm Trees and Gateway to Gehennom",
@@ -248,7 +248,7 @@
           "timestamp": "49:25"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -611,5 +611,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "39:18",
+  "amud_b_micro_title": "Mishna-Braita Harmony",
+  "shiur_start_daf": 32,
+  "shiur_start_amud": "a"
 }

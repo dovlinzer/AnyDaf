@@ -1,0 +1,374 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Parable of House",
+    "candidates": [
+      "Parable of House",
+      "Anatomical ID",
+      "Uterine Blood",
+      "Lul Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishnah presenting the parable of the house (cheder, prozdor, aliyah) and its rulings about blood from each location, which is precisely what the 'Parable of House' section's prose describes.",
+      "chosen_heading": "Parable of House",
+      "current_heading": "Parable of House",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Lul Intro",
+    "candidates": [
+      "Anatomical ID",
+      "Uterine Blood",
+      "Lul Intro",
+      "Galen's Animals",
+      "Initial Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Lul Intro' prose discusses: Rami bar Shmuel and Rav Yitzchak studying in Rav Huna's school, Rabba bar Rav Huna finding them, and their statement about the cheder, prozdor, aliyah, and the lul opening between the aliyah and prozdor.",
+      "chosen_heading": "Lul Intro",
+      "current_heading": "Lul Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Initial Position",
+    "candidates": [
+      "Galen's Animals",
+      "Initial Position",
+      "Rava Corrects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the ruling attributed to the students \u2014 safek tamei inward, safek tahor outward \u2014 which is precisely what the 'Initial Position' prose describes as the students' reported position.",
+      "chosen_heading": "Initial Position",
+      "current_heading": "Initial Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rava Corrects",
+    "candidates": [
+      "Rava Corrects",
+      "Doubt Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rabba coming to his father Rav Huna and challenging whether he said 'doubtfully impure,' citing the mishna's language of definite presumptive status \u2014 this is precisely the challenge and clarification described in the 'Rava Corrects' section's prose.",
+      "chosen_heading": "Rava Corrects",
+      "current_heading": "Rava Corrects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Doubt Model",
+    "candidates": [
+      "Doubt Model",
+      "Normal Behavior",
+      "Rashi's Placement",
+      "Separate Pathways",
+      "Vestibule Model",
+      "Chiya Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Abaye discussion about the Doubt Model versus the presumption model \u2014 Rav Huna's clarification, Abaye's challenge about the vestibule outward ruling, and Abaye's resolution ('if you follow the concern, both are safek; if you follow the presumption, inward is definitely tamei and outward is definitely tahor') \u2014 which is precisely what the 'Doubt Model' prose describes in detail.",
+      "chosen_heading": "Doubt Model",
+      "current_heading": "Doubt Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Chiya Position",
+    "candidates": [
+      "Normal Behavior",
+      "Rashi's Placement",
+      "Separate Pathways",
+      "Vestibule Model",
+      "Chiya Position",
+      "Katina Position",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi \u1e24iyya's teaching that blood in the prozdor creates full chiyuvim (vadai tum'ah) and Rav Katina's disagreement, which is precisely what the 'Chiya Position' prose section introduces and describes.",
+      "chosen_heading": "Chiya Position",
+      "current_heading": "Chiya Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Katina Position",
+      "Reconciliation",
+      "Rami Shmuel",
+      "Floor vs Ceiling",
+      "Yochanan Principle",
+      "Case 1: Makor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items discuss exactly the reconciliation between Rabbi \u1e24iyya and Rav Ketina through Abaye's two models and Rav Huna's distinction, followed by the challenge from Rami bar Shmuel and Rav Yitz\u1e25ak \u2014 precisely what the 'Reconciliation' prose describes.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Case 1: Makor",
+    "candidates": [
+      "Rami Shmuel",
+      "Floor vs Ceiling",
+      "Yochanan Principle",
+      "Case 1: Makor",
+      "Case 2: Shilya",
+      "Shimon Dissent",
+      "Case 3: Chaticha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items address the question of whether Rami bar Shmuel and Rav Yitzchak disagree with Rabbi Chiya's vadai tamei ruling, and the resolution via floor/ceiling distinction \u2014 which is exactly what the 'Rami Shmuel' prose describes as the Gemara's final resolution of that tension, not the 'Floor vs Ceiling' heading which describes the same content but as a resolution already introduced, whereas the passage itself is the challenge-and-answer unit that belongs under the heading that set up the problem.",
+      "chosen_heading": "Rami Shmuel",
+      "current_heading": "Case 1: Makor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Case 3: Chaticha",
+    "candidates": [
+      "Case 2: Shilya",
+      "Shimon Dissent",
+      "Case 3: Chaticha",
+      "Meat Analogy",
+      "Kavua Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present Rabbi Yochanan's teaching about the three cases where Sages follow rov as vadai \u2014 the source, the shilya, and the chaticha \u2014 and this introductory passage belongs under 'Case 2: Shilya' only if we split, but since all three cases are introduced together as one unit by Rabbi Yochanan's statement, and the passage begins with that statement before moving through all three cases, it most naturally belongs under the heading that covers the first case being elaborated (shilya), but actually the entire unit including the opening statement of Rabbi Yochanan best fits under candidate 0 'Case 2: Shilya' since that heading's prose explicitly discusses the shilya case and the reasoning of ein shilya belo velad, which is what items 1 and 2 address, and item 3 is the chaticha which follows immediately as part of the same enumeration.",
+      "chosen_heading": "Case 2: Shilya",
+      "current_heading": "Case 3: Chaticha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Kavua Principle",
+    "candidates": [
+      "Meat Analogy",
+      "Kavua Principle",
+      "Frogs Rodents"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Kavua Principle",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the nine stores passage (kavua principle with kosher/neveilah meat and the nimtza ruling), which is precisely what candidate 1 'Kavua Principle' describes in its prose.",
+      "second_heading": "Meat Analogy",
+      "second_confidence": "high",
+      "second_reason": "Item 4 ('tuma ka'amrinan, issura lo ka'amrinan') is the Gemara's answer distinguishing tumah from issurim, which is exactly the opening point described in candidate 0 'Meat Analogy' prose.",
+      "current_heading": "Kavua Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Frogs Rodents",
+    "candidates": [
+      "Frogs Rodents",
+      "Infant Dough"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All ten items form a continuous Gemara discussion about the frogs/sheretz case and why Rabbi Yochanan's list is limited to specific Mishnaic cases of women's tumah, exactly matching the 'Frogs Rodents' section's prose description of this entire chain of argument.",
+      "chosen_heading": "Frogs Rodents",
+      "current_heading": "Frogs Rodents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Infant Dough",
+    "candidates": [
+      "Infant Dough",
+      "Meir Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion about the infant-dough case: the question of what Rabbi Yo\u1e25anan's ruling excludes, the rejected answer about majority-plus-presumptive-status, and the mishna source about the infant found beside dough \u2014 all directly introduced and discussed under the 'Infant Dough' section's prose.",
+      "chosen_heading": "Infant Dough",
+      "current_heading": "Infant Dough",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Meir Principle",
+    "candidates": [
+      "Meir Principle",
+      "Rabbanan Ignore",
+      "Lakish Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains Rabbi Meir's reasoning for combining the minority with the chazakah to weaken the rov, which is precisely what the 'Meir Principle' prose discusses.",
+      "chosen_heading": "Meir Principle",
+      "current_heading": "Meir Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Lakish Yochanan",
+    "candidates": [
+      "Rabbanan Ignore",
+      "Lakish Yochanan",
+      "Miscarriage Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbanan Ignore",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Rabbanan's ruling that minority is dismissed and majority beats chazakah, which matches exactly the 'Rabbanan Ignore' prose about miuta keman d'leisa dami and ruba adif.",
+      "second_heading": "Lakish Yochanan",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Reish Lakish / Rabbi Yochanan dispute about whether rov overcoming chazakah produces vadai tamei or safek tamei, which matches exactly the 'Lakish Yochanan' prose.",
+      "current_heading": "Lakish Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Miscarriage Status",
+    "candidates": [
+      "Miscarriage Status",
+      "Four Red Colors",
+      "Yehuda Rov",
+      "Rabbanan Reject"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces and quotes the Mishnah about a woman who miscarries an amorphous piece of flesh and Rabbi Yehuda's ruling, which is exactly what the 'Miscarriage Status' section's prose describes as its content.",
+      "chosen_heading": "Miscarriage Status",
+      "current_heading": "Miscarriage Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Rabbanan Reject",
+    "candidates": [
+      "Four Red Colors",
+      "Yehuda Rov",
+      "Rabbanan Reject"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Four Red Colors",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Yehuda/Shmuel's ruling about the four types of blood and Rabbi Yo\u1e25anan's clarification, which matches exactly the 'Four Red Colors' prose discussion of those same rulings.",
+      "second_heading": "Yehuda Rov",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yehuda's rov argument about majority of chunks, which matches exactly the 'Yehuda Rov' prose discussion of going after the majority of amorphous pieces.",
+      "current_heading": "Rabbanan Reject",
+      "moved": true
+    }
+  }
+]

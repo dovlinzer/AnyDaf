@@ -1,0 +1,296 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Pesukim Analysis",
+    "candidates": [
+      "Rav Assi's Rule",
+      "Walls Requirement",
+      "Pesukim Analysis",
+      "Fig Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rabbi Asi/Yochanan's rule about maaser sheni liability beginning from when it enters the wall, which is the core content described in candidate 0's prose about Rav Assi's rule and the chiddush of misheyira pnei hachomah.",
+      "chosen_heading": "Rav Assi's Rule",
+      "current_heading": "Pesukim Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Fig Setup",
+    "candidates": [
+      "Pesukim Analysis",
+      "Fig Setup",
+      "Tosefta Implications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete challenge from Rabbi Yosei's case about the fig of tevel \u2014 the setup and the ruling of one set of lashes \u2014 which is precisely what the 'Fig Setup' prose describes in detail.",
+      "chosen_heading": "Fig Setup",
+      "current_heading": "Fig Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Tosefta Implications",
+    "candidates": [
+      "Tosefta Implications",
+      "Gemara Challenge",
+      "Solution Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong under 'Tosefta Implications': item 1 is the baraita about the non-priest receiving two sets of lashes (directly discussed in that section's prose), and item 2 is the Gemara's inference about outlying areas and the answer about taking produce in and out of Jerusalem (also covered in that section's prose), making the current placement correct.",
+      "chosen_heading": "Tosefta Implications",
+      "current_heading": "Tosefta Implications",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Solution Framework",
+    "candidates": [
+      "Gemara Challenge",
+      "Solution Framework",
+      "Matnot Principle",
+      "Reb Yosi Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the 'ee hachi mai l'meimra' question AND its answer about tevel/matnos shelo hurmu, and the prose under heading 0 ('Gemara Challenge') explicitly describes both the question and anticipates the answer, making it the natural home for this complete Gemara exchange rather than splitting it across headings 0 and 1.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Solution Framework",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Reb Yosi Debate",
+    "candidates": [
+      "Matnot Principle",
+      "Reb Yosi Debate",
+      "Beis Shammai Hillel",
+      "Shammai-Hillel Views",
+      "Rabbah's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's challenge to Rabbi Yosi \u2014 quoting the baraita about produce that did/didn't complete its labor passing through Jerusalem \u2014 which is precisely what the 'Reb Yosi Debate' prose describes, including the exact quote about Beis Shammai and Beis Hillel not disputing produce that hadn't reached gmar melacha and the conclusion that Rabbi Yosi must hold unseparated gifts are NOT treated as separated.",
+      "chosen_heading": "Reb Yosi Debate",
+      "current_heading": "Reb Yosi Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Rabbah's Solution",
+    "candidates": [
+      "Beis Shammai Hillel",
+      "Shammai-Hillel Views",
+      "Rabbah's Solution",
+      "Lashes vs. Redemption",
+      "Stick Connection",
+      "Partial Presence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbah's statement making the foundational distinction between mechitzah l'echol (d'Oraisa) and mechitzah liklot (d'Rabanan), which is precisely what the 'Rabbah's Solution' section prose describes.",
+      "chosen_heading": "Rabbah's Solution",
+      "current_heading": "Rabbah's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Partial Presence",
+    "candidates": [
+      "Lashes vs. Redemption",
+      "Stick Connection",
+      "Partial Presence",
+      "Korach Prohibition",
+      "Peyot Beard Terms",
+      "Sritat Incisions",
+      "Peyot Locations"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Stick Connection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Ravina's resolution about holding produce on a reed (kegon d'nakit lei bekanya), which directly matches the 'Stick Connection' prose describing exactly this scenario.",
+      "second_heading": "Korach Prohibition",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishnah introducing the korach/makif/mashchis/sritat prohibitions, which matches the 'Korach Prohibition' prose that explicitly describes this Mishnah's content.",
+      "current_heading": "Partial Presence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Peyot Locations",
+    "candidates": [
+      "Korach Prohibition",
+      "Peyot Beard Terms",
+      "Sritat Incisions",
+      "Peyot Locations",
+      "Korcha Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Peyot Locations' prose: item 1 enumerates the two head locations and five beard locations with Rabbi Eliezer's ruling on single-act liability, and item 2 presents the razor requirement and Rabbi Eliezer's extension to tweezers/plane \u2014 exactly what the prose describes.",
+      "chosen_heading": "Peyot Locations",
+      "current_heading": "Peyot Locations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Korcha Derivation",
+    "candidates": [
+      "Korcha Derivation",
+      "Biblical Limits",
+      "Unifying Verses",
+      "Hasra'ah Problem",
+      "Nazirite Comparison",
+      "Five Fingers Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Korcha Derivation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 form the Baraita's derivation about korcha \u2014 establishing liability per bald spot, extending to the whole head, and linking priests and non-priests via gezeira shava \u2014 which matches the Korcha Derivation, Biblical Limits, and Unifying Verses sections, but since all three items flow as one continuous baraita, they belong under heading 0 which introduces and frames the entire baraita.",
+      "second_heading": "Hasra'ah Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 4 opens the Gemara's question about the specific scenario of four or five bald spots and the role of hasra'ah, which is precisely what the 'Hasra'ah Problem' prose describes.",
+      "current_heading": "Korcha Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Five Fingers Solution",
+    "candidates": [
+      "Biblical Limits",
+      "Unifying Verses",
+      "Hasra'ah Problem",
+      "Nazirite Comparison",
+      "Five Fingers Solution",
+      "Size Opinions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the five-fingers solution (d'shach chamish etzba'otav nasha) and the nazirite comparison as part of resolving the hasra'ah problem, which is precisely what the 'Five Fingers Solution' section's prose describes.",
+      "chosen_heading": "Five Fingers Solution",
+      "current_heading": "Five Fingers Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Size Opinions",
+    "candidates": [
+      "Size Opinions",
+      "Tzara'at Parallel",
+      "Hair Shiur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the minimum size (shiur) of a bald spot (korcha), with competing opinions of k'gris, kedei sheyeira merosho, and shtei searot, exactly matching the 'Size Opinions' prose description.",
+      "chosen_heading": "Size Opinions",
+      "current_heading": "Size Opinions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Hair Shiur",
+    "candidates": [
+      "Tzara'at Parallel",
+      "Hair Shiur",
+      "White Hair Exception",
+      "Grooming Lo Yilbash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the shiur for hair removal (melo pi hazug = two hairs) and its application to both Shabbat and korcha, which is precisely what the 'Hair Shiur' section's prose describes.",
+      "chosen_heading": "Hair Shiur",
+      "current_heading": "Hair Shiur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Grooming Lo Yilbash",
+    "candidates": [
+      "White Hair Exception",
+      "Grooming Lo Yilbash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers both the scissorsful ruling and the white-hair exception together as one continuous passage, and candidate 0's prose explicitly discusses the concession of the Rabbis to Rabbi Eliezer on white hairs (the dominant content of the baraita), while candidate 1 only covers the lo yilbash addendum which is a secondary element; the full passage belongs under the heading that addresses its primary subject matter, which is the white-hair exception.",
+      "chosen_heading": "White Hair Exception",
+      "current_heading": "Grooming Lo Yilbash",
+      "moved": true
+    }
+  }
+]

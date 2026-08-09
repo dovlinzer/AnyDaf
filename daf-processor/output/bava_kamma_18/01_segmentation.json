@@ -151,8 +151,8 @@
           "timestamp": "26:26"
         }
       ],
-      "sefaria_index": 12,
-      "matched": true
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Rava's Third Question: Does Warning Three Times (Ha'ada'ah) Turn Tzeroros into Full Damages?",
@@ -175,7 +175,7 @@
           "timestamp": "41:04"
         }
       ],
-      "sefaria_index": 29,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -551,5 +551,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "28:50",
+  "amud_b_micro_title": "Ha'ada'ah Question",
+  "shiur_start_daf": 18,
+  "shiur_start_amud": "a"
 }

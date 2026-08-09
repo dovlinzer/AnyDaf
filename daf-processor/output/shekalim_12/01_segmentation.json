@@ -19,8 +19,8 @@
           "timestamp": "01:18"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Shmuel's leniency for leftover public offerings versus Rabbi Yochanan's adherence to normal rules",
@@ -53,8 +53,8 @@
           "timestamp": "14:43"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishnah on sanctifying property containing items fit for public offerings: the ketoret case",
@@ -96,7 +96,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The debate over whether ketoret must be made in a kli shares and its implications for redemption (continued) (continued)",
@@ -109,8 +109,8 @@
           "timestamp": "17:14"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Sanctifying mixed property with animals fit for the altar: Rabbi Eliezer vs. Rabbi Yehoshua",
@@ -139,7 +139,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Case of wine, oil, and birds suitable for altar use but not as animal offerings",
@@ -158,7 +158,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Teaching from Temurah on characteristics unique to kodshei bedek habayit versus kodshei mizbeach",
@@ -186,8 +186,8 @@
           "timestamp": "34:44"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Clarification of the debate through Rav Zeira's distinction between mixed property and pure flocks",
@@ -210,8 +210,8 @@
           "timestamp": "41:07"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Redeeming kodshei bedek habayit that were unblemished and the residual status that remains",
@@ -234,8 +234,8 @@
           "timestamp": "48:50"
         }
       ],
-      "sefaria_index": 4,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -445,5 +445,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 5
+  "amud_b_sefaria_index": 5,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "16:06",
+  "amud_b_micro_title": "Sanctifying Property",
+  "shiur_start_daf": 11,
+  "shiur_start_amud": "b"
 }

@@ -178,7 +178,7 @@
           "timestamp": "29:38"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -197,8 +197,8 @@
           "timestamp": "33:04"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Debate: Meat Becomes Tamei—Do You Perform Zrika of the Blood?",
@@ -269,8 +269,8 @@
           "timestamp": "49:46"
         }
       ],
-      "sefaria_index": 16,
-      "matched": true
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Grapes: Pressing Less Than Kezayit Produces Tahor Juice Even When Source Is Tamei",
@@ -422,5 +422,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "27:50",
+  "amud_b_micro_title": "Bird Offerings Evidence",
+  "shiur_start_daf": 34,
+  "shiur_start_amud": "a"
 }

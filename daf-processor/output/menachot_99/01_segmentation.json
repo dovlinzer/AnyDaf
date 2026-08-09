@@ -24,7 +24,7 @@
           "timestamp": "03:20"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -168,8 +168,8 @@
           "timestamp": "17:25"
         }
       ],
-      "sefaria_index": 28,
-      "matched": true
+      "sefaria_index": 27,
+      "matched": false
     },
     {
       "title": "Gemara Discussion: Rabbi Yose on Continuous Presence of Showbread (continued)",
@@ -183,7 +183,7 @@
         }
       ],
       "sefaria_index": 28,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Rabbi Ami's Derivation: Daily and Nightly Torah Study as Fulfillment of 'Constantly'",
@@ -215,8 +215,8 @@
           "timestamp": "18:17"
         }
       ],
-      "sefaria_index": 30,
-      "matched": true
+      "sefaria_index": 29,
+      "matched": false
     },
     {
       "title": "Ben Dama and Rabbi Yishmael: The Prohibition Against Learning Greek Wisdom",
@@ -306,8 +306,8 @@
           "timestamp": "23:44"
         }
       ],
-      "sefaria_index": 34,
-      "matched": false
+      "sefaria_index": 25,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -576,5 +576,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 0,
+  "amud_b_timestamp": "00:46",
+  "amud_b_micro_title": "Negation as Foundation",
+  "shiur_start_daf": 99,
+  "shiur_start_amud": "a"
 }

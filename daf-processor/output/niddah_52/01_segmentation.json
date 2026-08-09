@@ -44,7 +44,7 @@
           "timestamp": "07:45"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -112,7 +112,7 @@
           "timestamp": "21:00"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -542,5 +542,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 25
+  "amud_b_sefaria_index": 25,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "47:05",
+  "amud_b_micro_title": "Iyov Midrash",
+  "shiur_start_daf": 51,
+  "shiur_start_amud": "b"
 }

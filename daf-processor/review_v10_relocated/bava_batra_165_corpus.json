@@ -1,0 +1,485 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Date Between Folds",
+    "candidates": [
+      "Mekushar before Rabbi",
+      "Date Between Folds",
+      "Yehuda the Tailor",
+      "Lashon Hara Rebuke",
+      "Lashon Hara Definition",
+      "Tehillim & Handwriting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire incident from start to finish \u2014 the tied document before Rabbi, the date hidden in the folds, Rabbi's disapproving look, and the lashon hara rebuke \u2014 matching the 'Mekushar before Rabbi' heading which introduces this whole story, while the later headings each cover only a portion of it.",
+      "chosen_heading": "Mekushar before Rabbi",
+      "current_heading": "Date Between Folds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Tehillim & Handwriting",
+    "candidates": [
+      "Yehuda the Tailor",
+      "Lashon Hara Rebuke",
+      "Lashon Hara Definition",
+      "Tehillim & Handwriting",
+      "Three Daily Sins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Tehillim/handwriting incident and the Rav Dimi teaching explaining why praising someone can be lashon hara \u2014 are explicitly narrated and discussed together in the 'Tehillim & Handwriting' prose, which is precisely where the passage currently sits.",
+      "chosen_heading": "Tehillim & Handwriting",
+      "current_heading": "Tehillim & Handwriting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Three Daily Sins",
+    "candidates": [
+      "Three Daily Sins",
+      "Iyun Tefillah & Kavana",
+      "Rav Yehuda's Distribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Amram's teaching about three daily sins and the Gemara's clarification that it means 'avak lashon hara' \u2014 are explicitly discussed and quoted in the 'Three Daily Sins' prose, which is their current placement and the clearest match.",
+      "chosen_heading": "Three Daily Sins",
+      "current_heading": "Three Daily Sins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rav Yehuda's Distribution",
+    "candidates": [
+      "Iyun Tefillah & Kavana",
+      "Rav Yehuda's Distribution",
+      "Avak Gezel & Commerce",
+      "Rabban Shimon's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rav Yehuda/Rav statement about rov b'gezel, miut b'arayos, v'hacol b'lashon hara, and the avak lashon hara clarification, which is precisely what the prose under heading 1 'Rav Yehuda's Distribution' discusses and quotes.",
+      "chosen_heading": "Rav Yehuda's Distribution",
+      "current_heading": "Rav Yehuda's Distribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rabban Shimon's Rule",
+    "candidates": [
+      "Avak Gezel & Commerce",
+      "Rabban Shimon's Rule",
+      "Tanna Kamma's Position",
+      "Rav Ashi's Construction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabban Shimon ben Gamliel's rule about regional custom and the Gemara's immediate question about whether the first tanna disagrees, which maps directly to heading 1 ('Rabban Shimon's Rule') whose prose explicitly discusses 'hacol k'minhag hamedina' \u2014 noting that the question about the Tanna Kamma is part of the same Gemara unit introduced under that heading, while heading 2 covers the essay author's extended analysis of that question separately.",
+      "chosen_heading": "Rabban Shimon's Rule",
+      "current_heading": "Rabban Shimon's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Rav Ashi's Construction",
+    "candidates": [
+      "Tanna Kamma's Position",
+      "Rav Ashi's Construction",
+      "Kfeida vs. Mar'eh Makom",
+      "Three Sages Agree"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Ashi's Construction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Ashi's construction of the unambiguous cases (place where only pashut or only mekushar is customary), which is precisely what the 'Rav Ashi's Construction' prose describes.",
+      "second_heading": "Kfeida vs. Mar'eh Makom",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the disputed case where both pashut and mekushar are practiced and the kfeida vs. mar'eh makom distinction is introduced, which is exactly what the 'Kfeida vs. Mar'eh Makom' prose discusses.",
+      "current_heading": "Rav Ashi's Construction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Three Sages Agree",
+    "candidates": [
+      "Kfeida vs. Mar'eh Makom",
+      "Three Sages Agree",
+      "Mishna's Necessity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's synthesis identifying three Tannaim (Rabban Shimon ben Gamliel, Rabbi Shimon, Rabbi Elazar) who all hold 'mar'eh makom hu lo,' which is exactly what the 'Three Sages Agree' section's prose describes in detail.",
+      "chosen_heading": "Three Sages Agree",
+      "current_heading": "Three Sages Agree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Mishna's Necessity",
+    "candidates": [
+      "Mishna's Necessity",
+      "Abaye's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about why the Mishnah needed to state the obvious case of a pashut with one witness, which is exactly what the 'Mishna's Necessity' section's prose describes \u2014 the question before Abaye's answer is given.",
+      "chosen_heading": "Mishna's Necessity",
+      "current_heading": "Mishna's Necessity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Abaye's Position",
+    "candidates": [
+      "Abaye's Position",
+      "Rashbam's Interpretation",
+      "Amemar's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye's Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's ruling that one written and one oral witness do not combine, which is precisely what candidate 0's prose discusses under 'Abaye's Position'.",
+      "second_heading": "Amemar's Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ameimar's ruling that one written and one oral witness do combine and Rav Ashi's challenge, which matches candidate 2's prose under 'Amemar's Position' exactly.",
+      "current_heading": "Abaye's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Amemar's Position",
+    "candidates": [
+      "Rashbam's Interpretation",
+      "Amemar's Position",
+      "Yirmiyah Expelled",
+      "First Question",
+      "Tanna Kamma Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage addresses the difficulty from the Mishnah raised against Amemar's position and the Gemara's resolution (that two witnesses on a mekushar = one witness on a pashut, both pasul de-oraita), which is precisely what candidate 1 ('Amemar's Position') describes in its prose.",
+      "chosen_heading": "Amemar's Position",
+      "current_heading": "Amemar's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Tanna Kamma Debate",
+    "candidates": [
+      "Yirmiyah Expelled",
+      "First Question",
+      "Tanna Kamma Debate",
+      "Yirmiyah's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the first question sent to Rabbi Yirmiyah \u2014 the framing of the dilemma (item 1), the specific question about written vs. oral witnesses (item 2), and the clarification of which tanna's view makes the question relevant (item 3) \u2014 which precisely matches the 'First Question' heading's prose about 'ed echad bi-chtav ve-ed echad al peh, mahu she-yitztarfu' and its context.",
+      "chosen_heading": "First Question",
+      "current_heading": "Tanna Kamma Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Yirmiyah's Response",
+    "candidates": [
+      "Tanna Kamma Debate",
+      "Yirmiyah's Response",
+      "Second Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Yirmiyah's humble response ('I am not worthy... your student's opinion leans toward combining'), which is precisely what the 'Yirmiyah's Response' section prose describes and quotes.",
+      "chosen_heading": "Yirmiyah's Response",
+      "current_heading": "Yirmiyah's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Second Question",
+    "candidates": [
+      "Second Question",
+      "Testimony Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's alternative version of the question sent to Rabbi Yirmeya about combining testimonies from two different courts, which is precisely what the 'Second Question' prose describes.",
+      "chosen_heading": "Second Question",
+      "current_heading": "Second Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Testimony Timing",
+    "candidates": [
+      "Testimony Timing",
+      "Courts Combine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Tanna Kamma vs. Rabbi Natan dispute about testimony timing and whether the dilemma applies to one court or two courts, which is precisely what the 'Testimony Timing' prose describes.",
+      "chosen_heading": "Testimony Timing",
+      "current_heading": "Testimony Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Courts Combine",
+    "candidates": [
+      "Courts Combine",
+      "Third Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are part of the same continuous discussion about combining courts/judges \u2014 Mar bar \u1e24iyya's version of the dilemma sent to Rabbi Yirmeya, the Gemara's clarification about Tanna Kamma vs. Rabbi Natan, and Rabbi Yirmeya's response that they should combine \u2014 all matching exactly the 'Courts Combine' prose which discusses these same elements.",
+      "chosen_heading": "Courts Combine",
+      "current_heading": "Courts Combine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Third Question",
+    "candidates": [
+      "Third Question",
+      "Acknowledging Absence",
+      "Yirmiyah Restored"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1 ('Acknowledging Absence') explicitly discusses both the question of whether the diminished beit din must write 've-chad leitei' and quotes Rabbi Yirmeya's response that they must indeed write it \u2014 precisely the content of both items \u2014 while the current placement (candidate 0) only covers the question itself without Rabbi Yirmeya's answer.",
+      "chosen_heading": "Acknowledging Absence",
+      "current_heading": "Third Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Yirmiyah Restored",
+    "candidates": [
+      "Acknowledging Absence",
+      "Yirmiyah Restored",
+      "Tosafot's Limitation",
+      "Minimalist Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yirmiyah being brought back into the study hall, which is exactly what the 'Yirmiyah Restored' section's prose discusses.",
+      "chosen_heading": "Yirmiyah Restored",
+      "current_heading": "Yirmiyah Restored",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Minimalist Principle",
+    "candidates": [
+      "Tosafot's Limitation",
+      "Minimalist Principle",
+      "Erased Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna introducing the 'yad ba'al ha-shtar al ha-tachtona' minimalist principle with exactly the two cases (hundred dinars = twenty sela, hundred dinars = thirty sela) that the 'Minimalist Principle' prose section explicitly discusses.",
+      "chosen_heading": "Minimalist Principle",
+      "current_heading": "Minimalist Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Erased Amount",
+    "candidates": [
+      "Erased Amount",
+      "Bottom Takes Precedence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the rule that when an amount is erased from a shtar, the minimum collectible is two, which is exactly what the 'Erased Amount' section's prose discusses.",
+      "chosen_heading": "Erased Amount",
+      "current_heading": "Erased Amount",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Bottom Takes Precedence",
+    "candidates": [
+      "Bottom Takes Precedence",
+      "Backup Function",
+      "Coin Types & Minimums"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the 'bottom takes precedence' rule and the backup function question in a single Mishnaic unit, but since it leads with the contradiction/bottom-controls rule and the current placement (index 0) captures that primary content, while the backup question is naturally included as part of the same Mishnaic passage, the current placement is acceptable \u2014 though index 1's prose is also a direct match for the second half of the passage.",
+      "chosen_heading": "Bottom Takes Precedence",
+      "current_heading": "Bottom Takes Precedence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Coin Types & Minimums",
+    "candidates": [
+      "Backup Function",
+      "Coin Types & Minimums",
+      "Silver Default",
+      "Silver Dinars Plural",
+      "Silver in Gold Units",
+      "Gold Default",
+      "Minted Coins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three cases (silver alone, silver dinars plural, silver in dinars) in one Tosefta, and candidate 1 is the only heading whose prose summarizes all three rules together as a unit.",
+      "chosen_heading": "Coin Types & Minimums",
+      "current_heading": "Coin Types & Minimums",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156,
+      157,
+      158
+    ],
+    "current_heading": "Minted Coins",
+    "candidates": [
+      "Silver Default",
+      "Silver Dinars Plural",
+      "Silver in Gold Units",
+      "Gold Default",
+      "Minted Coins",
+      "Geographic Variation",
+      "Gold in Silver Units",
+      "No Gold Pennies"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Geographic Variation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concludes the silver analysis chain (minted coin + geographic perutot objections) and belongs under 'Geographic Variation' which discusses Rav Pappa's answer about silver perutot not circulating.",
+      "second_heading": "Gold Default",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 open a new baraita section ('Tanu Rabbanan') on gold obligations and analyze the gold default case, belonging under 'Gold Default' which introduces zahav as the minimum one gold dinar.",
+      "current_heading": "Minted Coins",
+      "moved": true
+    }
+  }
+]

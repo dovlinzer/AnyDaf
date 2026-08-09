@@ -1,0 +1,420 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Rain vs Resurrection",
+    "candidates": [
+      "Rain vs Resurrection",
+      "Rain & Torah",
+      "Mi Natleh B'Mi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous 'statements in praise of rainfall' sequence (rain vs. resurrection, rain vs. Torah), and heading 0's prose explicitly covers both Rabbi Abbahu's comparison to resurrection AND Rav Yehuda/Rava's comparison to Torah, making it the best match for the entire passage.",
+      "chosen_heading": "Rain vs Resurrection",
+      "current_heading": "Rain vs Resurrection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Mi Natleh B'Mi",
+    "candidates": [
+      "Rain & Torah",
+      "Mi Natleh B'Mi",
+      "Sam Chayim/Sam Mavet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rava's contradiction between 'ya'arof kamatar' and 'tizal k'tal' and its resolution based on the worthiness of the Torah scholar is explicitly discussed and analyzed in the prose of candidate 1 ('Mi Natleh B'Mi'), making it the clear correct placement.",
+      "chosen_heading": "Mi Natleh B'Mi",
+      "current_heading": "Mi Natleh B'Mi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Sam Chayim/Sam Mavet",
+    "candidates": [
+      "Sam Chayim/Sam Mavet",
+      "Tosafot's Answer",
+      "Literal vs Spiritual",
+      "Tree Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Bena'ah about Torah lishma as sam chayim and shelo lishma as sam ha-mavet, which is precisely what the prose under heading 0 ('Sam Chayim/Sam Mavet') describes in detail.",
+      "chosen_heading": "Sam Chayim/Sam Mavet",
+      "current_heading": "Sam Chayim/Sam Mavet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Tree Metaphor",
+    "candidates": [
+      "Tosafot's Answer",
+      "Literal vs Spiritual",
+      "Tree Metaphor",
+      "Iron Sharpening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rabbi Yirmeya/Rabbi Zeira exchange transmitting Rabbi Yochanan's interpretation of 'ki ha-adam etz ha-sadeh,' which is precisely what the 'Tree Metaphor' prose section describes in detail.",
+      "chosen_heading": "Tree Metaphor",
+      "current_heading": "Tree Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Iron Sharpening",
+    "candidates": [
+      "Iron Sharpening",
+      "Fire Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi \u1e24ama's interpretation of 'iron sharpens iron' and how Torah scholars sharpen one another in halachah, which matches exactly the prose under 'Iron Sharpening'.",
+      "chosen_heading": "Iron Sharpening",
+      "current_heading": "Iron Sharpening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Fire Metaphor",
+    "candidates": [
+      "Fire Metaphor",
+      "Chavruta Imperative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the fire metaphor and why Torah is compared to fire, which precisely matches the 'Fire Metaphor' section's prose.",
+      "chosen_heading": "Fire Metaphor",
+      "current_heading": "Fire Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Chavruta Imperative",
+    "candidates": [
+      "Chavruta Imperative",
+      "Small Sharpens Large"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rabbi Yosei bar \u1e24anina teaching about learning alone (bad bevad), growing foolish, and sinning \u2014 exactly what the 'Chavruta Imperative' prose describes in detail, including the no'alu/chatanu connection.",
+      "chosen_heading": "Chavruta Imperative",
+      "current_heading": "Chavruta Imperative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Small Sharpens Large",
+    "candidates": [
+      "Small Sharpens Large",
+      "Three Sources",
+      "Water Seeking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage combines both the 'small wood ignites large' teaching and Rabbi Chanina's statement as a single unit, and candidate 0's prose explicitly discusses both together as connected teachings, making it the best match.",
+      "chosen_heading": "Small Sharpens Large",
+      "current_heading": "Small Sharpens Large",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Water Seeking",
+    "candidates": [
+      "Three Sources",
+      "Water Seeking",
+      "Wellsprings",
+      "Humility Vessel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Water Seeking",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi \u1e24anina bar Pappa's contradiction about bringing water to the thirsty vs. the thirsty coming to water, which matches exactly the 'Water Seeking' prose describing that same contradiction and resolution.",
+      "second_heading": "Wellsprings",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi \u1e24anina bar \u1e24ama's contradiction about dispersing wellsprings vs. keeping them to oneself, which matches exactly the 'Wellsprings' prose describing that same passage and its resolution.",
+      "current_heading": "Water Seeking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Humility Vessel",
+    "candidates": [
+      "Wellsprings",
+      "Humility Vessel",
+      "Three Liquids"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi \u1e24anina bar Idi's teaching comparing Torah to water flowing to low places, which is precisely what the 'Humility Vessel' section's prose describes and analyzes.",
+      "chosen_heading": "Humility Vessel",
+      "current_heading": "Humility Vessel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Three Liquids",
+    "candidates": [
+      "Three Liquids",
+      "Caesar's Daughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Oshaya's teaching about Torah being likened to three liquids and preserved in humble vessels, which is exactly what the 'Three Liquids' prose section discusses.",
+      "chosen_heading": "Three Liquids",
+      "current_heading": "Three Liquids",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Caesar's Daughter",
+    "candidates": [
+      "Caesar's Daughter",
+      "Hesech Hadaat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Caesar's daughter anecdote, which is precisely what the prose under heading 0 describes in detail, including the wine turning sour, the emperor's summons, and the empirical objection about handsome scholars.",
+      "chosen_heading": "Caesar's Daughter",
+      "current_heading": "Caesar's Daughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Hesech Hadaat",
+    "candidates": [
+      "Hesech Hadaat",
+      "Rain & Creation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the hesech ha-da'at teaching about Torah being forgotten only through diversion of attention, which exactly matches the prose under heading 0.",
+      "chosen_heading": "Hesech Hadaat",
+      "current_heading": "Hesech Hadaat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rain & Creation",
+    "candidates": [
+      "Rain & Creation",
+      "Salvation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi \u1e24ama bar \u1e24anina's statement comparing the day of rain to the day of creation, which is precisely what the 'Rain & Creation' prose section discusses in detail.",
+      "chosen_heading": "Rain & Creation",
+      "current_heading": "Rain & Creation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Salvation",
+    "candidates": [
+      "Salvation",
+      "Sins Forgiven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Oshaya's statement about salvation and Rabbi Tanchum's statement about forgiveness, but the current placement under 'Salvation' is correct since the passage as a whole begins with Rabbi Oshaya's salvation teaching, and the essay's 'Sins Forgiven' section prose discusses the Tanchum teaching separately with additional material (Ze'iri, Ravina) not present in this quoted passage.",
+      "chosen_heading": "Salvation",
+      "current_heading": "Salvation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Sins Forgiven",
+    "candidates": [
+      "Sins Forgiven",
+      "Withheld Rain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows Ze'iri mi-Dehavat telling Ravina 'we derive it from here' with the verse about forgiveness of sins (I Kings 8:35-36), which matches exactly the prose in 'Sins Forgiven' describing this same exchange about deriving the rain-forgiveness connection.",
+      "chosen_heading": "Sins Forgiven",
+      "current_heading": "Sins Forgiven",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Withheld Rain",
+    "candidates": [
+      "Withheld Rain",
+      "Terumot Maasrot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Tan\u1e25um's statement about rains being withheld when Israel deserves destruction and Ze'iri's alternative derivation, which is exactly what the 'Withheld Rain' prose section describes in detail.",
+      "chosen_heading": "Withheld Rain",
+      "current_heading": "Withheld Rain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Terumot Maasrot",
+    "candidates": [
+      "Terumot Maasrot",
+      "Lashon Hara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses rains being withheld due to neglect of terumot and ma'asrot, which directly matches the prose in candidate 0 that explicitly discusses this same teaching from Rav \u1e24isda with the same verse and derivation.",
+      "chosen_heading": "Terumot Maasrot",
+      "current_heading": "Terumot Maasrot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Lashon Hara",
+    "candidates": [
+      "Lashon Hara",
+      "Brazenness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about rains being withheld due to lashon hara, which is exactly what the 'Lashon Hara' section's prose discusses in detail.",
+      "chosen_heading": "Lashon Hara",
+      "current_heading": "Lashon Hara",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Brazenness",
+    "candidates": [
+      "Brazenness",
+      "Bitul Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are about azut panim (brazenness/impudence) \u2014 withheld rains, stumbling into sin, calling the insolent person wicked, and permitting hatred \u2014 which is precisely what the 'Brazenness' prose section discusses in detail.",
+      "chosen_heading": "Brazenness",
+      "current_heading": "Brazenness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Bitul Torah",
+    "candidates": [
+      "Bitul Torah",
+      "Torah as Light"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Ketina's teaching that rains are withheld due to bitul Torah, which is precisely what the prose under heading 0 elaborates upon in detail.",
+      "chosen_heading": "Bitul Torah",
+      "current_heading": "Bitul Torah",
+      "moved": false
+    }
+  }
+]

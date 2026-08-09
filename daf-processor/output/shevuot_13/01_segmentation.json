@@ -88,7 +88,7 @@
           "timestamp": "21:02"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -151,7 +151,7 @@
           "timestamp": "31:45"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -253,7 +253,7 @@
           "timestamp": "44:15"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -282,7 +282,7 @@
           "timestamp": "49:01"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 14,
       "matched": false
     },
     {
@@ -701,5 +701,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "44:15",
+  "amud_b_micro_title": "Rabbi's Agreement",
+  "shiur_start_daf": 13,
+  "shiur_start_amud": "a"
 }

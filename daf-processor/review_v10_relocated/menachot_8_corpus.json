@@ -1,0 +1,359 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rava: Ground Vessel OK",
+    "candidates": [
+      "Rava: Ground Vessel OK",
+      "Placing Kometz Stage",
+      "Rava's Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rava's 'peshita li' declaration about ground vessels being valid for kometz-removal and mincha-sanctification, which matches precisely what the prose of candidate 0 describes.",
+      "chosen_heading": "Rava: Ground Vessel OK",
+      "current_heading": "Rava: Ground Vessel OK",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rava's Query",
+    "candidates": [
+      "Placing Kometz Stage",
+      "Rava's Query",
+      "Learn from Dam",
+      "Chalako B'Shnei Kelim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's dilemma about sanctification of the kometz and his resolution to learn from dam, which is precisely what the 'Rava's Query' section's prose discusses \u2014 both the question (middam or mincha) and the resolution (middam yalfinan).",
+      "chosen_heading": "Rava's Query",
+      "current_heading": "Rava's Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Chalako B'Shnei Kelim",
+    "candidates": [
+      "Learn from Dam",
+      "Chalako B'Shnei Kelim",
+      "Rava Reverses",
+      "Dam Minimum Amount",
+      "Learn or Not?",
+      "Parah Minimum Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the challenge from the 'chalako b'shnei kelim' dispute and Rava's retraction, which is exactly what candidate 1's prose describes as its content.",
+      "chosen_heading": "Chalako B'Shnei Kelim",
+      "current_heading": "Chalako B'Shnei Kelim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Parah Minimum Teaching",
+    "candidates": [
+      "Rava Reverses",
+      "Dam Minimum Amount",
+      "Learn or Not?",
+      "Parah Minimum Teaching",
+      "Dam Same Law?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the braitah of Rav Ta\u1e25lifa ben Shaul about parah adumah sanctification in two vessels, which is exactly what the 'Parah Minimum Teaching' prose describes as presenting.",
+      "chosen_heading": "Parah Minimum Teaching",
+      "current_heading": "Parah Minimum Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Dam Same Law?",
+    "candidates": [
+      "Dam Same Law?",
+      "V'Taval B'Dam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma about whether the blood collection rule follows the same law as parah adumah, specifically questioning whether it is a halachah l'Moshe miSinai from which we cannot derive other cases \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Dam Same Law?",
+      "current_heading": "Dam Same Law?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "V'Taval B'Dam",
+    "candidates": [
+      "V'Taval B'Dam",
+      "Dam Original Amount",
+      "Fresh Dam Each Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items deal with the dual requirement established by 'v'taval' and 'badam' \u2014 that there must be a genuine dipping (not sponging) and that the minimum amount must be present from the outset \u2014 which is precisely what the prose of heading 0 describes.",
+      "chosen_heading": "V'Taval B'Dam",
+      "current_heading": "V'Taval B'Dam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Fresh Dam Each Time",
+    "candidates": [
+      "Dam Original Amount",
+      "Fresh Dam Each Time",
+      "Splattered Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the exclusion of remnant blood on the finger (shirayim shebe'etzba) and supports Rabbi Elazar's ruling, which is precisely what the 'Fresh Dam Each Time' section's prose describes.",
+      "chosen_heading": "Fresh Dam Each Time",
+      "current_heading": "Fresh Dam Each Time",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Splattered Blood",
+    "candidates": [
+      "Splattered Blood",
+      "Single Sprinkling Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the baraita about splattered blood and the initial reading that it refers to before/after completing the entire sprinkling series, which is precisely what the 'Splattered Blood' prose section discusses.",
+      "chosen_heading": "Splattered Blood",
+      "current_heading": "Splattered Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Single Sprinkling Reading",
+    "candidates": [
+      "Single Sprinkling Reading",
+      "Parah Hand/Finger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Gemara's rejection of a multi-sprinkling reading in favor of a single sprinkling before/after interpretation, which is exactly what the 'Single Sprinkling Reading' prose describes.",
+      "chosen_heading": "Single Sprinkling Reading",
+      "current_heading": "Single Sprinkling Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Parah Hand/Finger",
+    "candidates": [
+      "Parah Hand/Finger",
+      "Yochanan vs. Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of challenge and response about the parah adumah sprinkling procedure \u2014 Abaye's objection, Rava's reply, the Gemara's difficulty with Rava's answer, and Abaye's resolution about wiping on the rim of the vessel \u2014 exactly matching the 'Parah Hand/Finger' prose description.",
+      "chosen_heading": "Parah Hand/Finger",
+      "current_heading": "Parah Hand/Finger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Yochanan vs. Eliezer",
+    "candidates": [
+      "Yochanan vs. Eliezer",
+      "Mincha Min Mincha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Yo\u1e25anan vs. Rabbi Elazar debate about the High Priest's griddle-cake offering and whether it can be sanctified in halves, which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Yochanan vs. Eliezer",
+      "current_heading": "Yochanan vs. Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Mincha Min Mincha",
+    "candidates": [
+      "Mincha Min Mincha",
+      "Bread Breaking Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the Gemara's challenge and resolution about whether Rabbi Elazar learns mincha from dam or only mincha from mincha, which is precisely what the prose of candidate 0 ('Mincha Min Mincha') describes.",
+      "chosen_heading": "Mincha Min Mincha",
+      "current_heading": "Mincha Min Mincha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Bread Breaking Cases",
+    "candidates": [
+      "Bread Breaking Cases",
+      "Higia Zmanah Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question challenging whether Rabbi Elazar derives mincha from mincha, introducing the baraita about lechem hapanim bread-breaking cases, which is exactly what the 'Bread Breaking Cases' prose describes.",
+      "chosen_heading": "Bread Breaking Cases",
+      "current_heading": "Bread Breaking Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Higia Zmanah Logic",
+    "candidates": [
+      "Higia Zmanah Logic",
+      "Machatzitah Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly discuss the *higia zmanah* principle (once the time to detach arrived it is as though detached), the contrast with an ordinary mincha where the kometz is not clearly designated, and the dispute about remainder becoming lacking between removal and burning \u2014 all of which are explicitly described in the 'Higia Zmanah Logic' prose.",
+      "chosen_heading": "Higia Zmanah Logic",
+      "current_heading": "Higia Zmanah Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Machatzitah Pasuk",
+    "candidates": [
+      "Machatzitah Pasuk",
+      "Rav Half Invalid",
+      "Yochanan Half Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the dispute between Rabbi Yo\u1e25anan and Rabbi Elazar about whether the chavitei Kohen Gadol can be sanctified in halves, the verse 'machatzitah' as the basis for Rabbi Yo\u1e25anan's position, and the chok argument \u2014 exactly what the prose under heading 0 ('Machatzitah Pasuk') describes in detail.",
+      "chosen_heading": "Machatzitah Pasuk",
+      "current_heading": "Machatzitah Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Yochanan Half Valid",
+    "candidates": [
+      "Rav Half Invalid",
+      "Yochanan Half Valid",
+      "Yosi Intent Distinction",
+      "Rav Learns Mincha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of question-and-answer centered on Rabbi Yo\u1e25anan's position that a half-isaron with intent to add is sanctified, the challenge from chavittin, the counter-challenge about cross-category inference, and the resolution via Rabbi Yosi's baraita \u2014 exactly what the 'Yochanan Half Valid' prose describes.",
+      "chosen_heading": "Yochanan Half Valid",
+      "current_heading": "Yochanan Half Valid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Rav Learns Mincha",
+    "candidates": [
+      "Yosi Intent Distinction",
+      "Rav Learns Mincha",
+      "Rav Like Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's proof that Rav does derive one mincha context from another (lechem hapanim, minchat nesachim, minchat chotei), which is precisely what candidate 1 'Rav Learns Mincha' describes in its prose.",
+      "chosen_heading": "Rav Learns Mincha",
+      "current_heading": "Rav Learns Mincha",
+      "moved": false
+    }
+  }
+]

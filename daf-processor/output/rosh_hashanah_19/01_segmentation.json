@@ -280,8 +280,8 @@
           "timestamp": "45:19"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "The Length of Adar Rishon in a Leap Year: Varying Opinions on Fixed vs. Variable Months",
@@ -309,7 +309,7 @@
           "timestamp": "53:47"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -759,5 +759,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "31:51",
+  "amud_b_micro_title": "Pre-Churban Dating",
+  "shiur_start_daf": 18,
+  "shiur_start_amud": "b"
 }

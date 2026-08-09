@@ -1,0 +1,257 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "V'Shachatat Derivation",
+    "candidates": [
+      "V'Shachatat Derivation",
+      "Free-Will Chatat Anomaly",
+      "Smichah Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly concern the 'Smichah Derivation' section's topic: the Gemara explains the word 'oto' to exclude seir nachshon from the tzafon requirement, then explains this is necessary because one might have thought that since the seir nachshon was included in smichah it should also be included in tzafon \u2014 exactly the smichah-inclusion derivation that candidate 2's prose describes as the context.",
+      "chosen_heading": "Smichah Derivation",
+      "current_heading": "V'Shachatat Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Smichah Derivation",
+    "candidates": [
+      "Free-Will Chatat Anomaly",
+      "Smichah Derivation",
+      "Rabbi Yehuda vs Shimon",
+      "Exceptional Status Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita deriving smichah for the seir nachshon from the phrase 'al rosh haseir,' which is precisely what the 'Smichah Derivation' section's prose describes, including the dispute between Rabbi Yehuda and Rabbi Shimon that is introduced here.",
+      "chosen_heading": "Smichah Derivation",
+      "current_heading": "Smichah Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Exceptional Status Logic",
+    "candidates": [
+      "Rabbi Yehuda vs Shimon",
+      "Exceptional Status Logic",
+      "Oto: Animal Not Shochet",
+      "Rav Achya's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Ravina objection and Mar Zutra's response that form the core of the 'Exceptional Status Logic' section's prose, which explicitly describes Ravina's challenge and Mar Zutra's 'mai d'israbis' argument.",
+      "chosen_heading": "Exceptional Status Logic",
+      "current_heading": "Exceptional Status Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Rav Achya's Distinction",
+    "candidates": [
+      "Oto: Animal Not Shochet",
+      "Rav Achya's Distinction",
+      "Exception for Shechita",
+      "Rav Papa's Two Lashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The entire passage traces the Gemara's attempts to find an alternative reading of 'oto' (bird chatat, Paschal offering, then returning to the shochet not needing to stand in the north) and resolves the redundancy with Rav Achiya's teaching \u2014 exactly the content described in candidate 1's prose.",
+      "chosen_heading": "Rav Achya's Distinction",
+      "current_heading": "Rav Achya's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rav Papa's Two Lashes",
+    "candidates": [
+      "Exception for Shechita",
+      "Rav Papa's Two Lashes",
+      "Arichah Defined",
+      "Arichah & Afiyah Tension",
+      "Separate Actors Solution",
+      "Afiyah Independent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishnah's ruling on liability for kneading, shaping, and baking, then introduces Rav Pappa's ruling about two sets of lashes, and raises the difficulty about afiyah as an independent act \u2014 exactly what the 'Rav Papa's Two Lashes' section's prose describes.",
+      "chosen_heading": "Rav Papa's Two Lashes",
+      "current_heading": "Rav Papa's Two Lashes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Afiyah Independent",
+    "candidates": [
+      "Arichah Defined",
+      "Arichah & Afiyah Tension",
+      "Separate Actors Solution",
+      "Afiyah Independent",
+      "Universal Consensus",
+      "Matzah Application",
+      "Bloodletting Necessity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage distinguishes between a case where one person both shapes and bakes versus two separate actors, which is precisely what the 'Separate Actors Solution' section describes \u2014 resolving the tension by distinguishing these two scenarios.",
+      "chosen_heading": "Separate Actors Solution",
+      "current_heading": "Afiyah Independent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Bloodletting Necessity",
+    "candidates": [
+      "Universal Consensus",
+      "Matzah Application",
+      "Bloodletting Necessity",
+      "Rebbe Meir's Stringency",
+      "Chachamim's Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita presents Rabbi Meir's specific ruling that bloodletting is permitted only where it does not cause a blemish, which is precisely what the 'Rebbe Meir's Stringency' section describes.",
+      "chosen_heading": "Rebbe Meir's Stringency",
+      "current_heading": "Bloodletting Necessity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Chachamim's Leniency",
+    "candidates": [
+      "Rebbe Meir's Stringency",
+      "Chachamim's Leniency",
+      "Castration Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items continue the same Mishnaic dispute about bloodletting a bechor \u2014 the Rabbis' position (item 1) and then Rabbi Shimon's and Rabbi Yehuda's positions (item 2) \u2014 all of which is precisely what the 'Chachamim's Leniency' prose section discusses in detail.",
+      "chosen_heading": "Chachamim's Leniency",
+      "current_heading": "Chachamim's Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Castration Analogy",
+    "candidates": [
+      "Castration Analogy",
+      "Result vs Action",
+      "Second Blemish Consensus",
+      "Tamim Yihiyeh Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Second Blemish Consensus",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses mechametz achar mechametz (leavening after leavening) as a parallel consensus case, which fits best under 'Second Blemish Consensus' where the Gemara establishes the hakol modin (all agree) position before the main dispute.",
+      "second_heading": "Castration Analogy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the castration analogy (mesares achar mesares) which is precisely what the 'Castration Analogy' section's prose describes in detail, including the same verse enumeration and the notek achar karut ruling.",
+      "current_heading": "Castration Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Tamim Yihiyeh Principle",
+    "candidates": [
+      "Result vs Action",
+      "Second Blemish Consensus",
+      "Tamim Yihiyeh Principle",
+      "Rebbe Meir: After Redemp."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the dispute between Rabbi Meir and the Rabbis over 'kol mum lo yihiyeh bo' versus 'tamim yihiyeh le-ratzon', and the Gemara's question about how Rabbi Meir handles the second verse \u2014 exactly what the 'Tamim Yihiyeh Principle' prose describes.",
+      "chosen_heading": "Tamim Yihiyeh Principle",
+      "current_heading": "Tamim Yihiyeh Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Rebbe Meir: After Redemp.",
+    "candidates": [
+      "Rebbe Meir: After Redemp.",
+      "Indirect Blemishing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the exclusion of blemished-from-the-outset animals (dikla b'alma) and psulei hamukdashim after redemption, which is precisely what the 'Rebbe Meir: After Redemp.' prose discusses, including the explicit mention of dikla b'alma and the psulei hamukdashim exclusion.",
+      "chosen_heading": "Rebbe Meir: After Redemp.",
+      "current_heading": "Rebbe Meir: After Redemp.",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "First Brood Rule",
+    "candidates": [
+      "Mishna Overview",
+      "First Brood Rule",
+      "Beehive Swarms",
+      "Honey Loaves",
+      "Olive Branches",
+      "Brood Discrepancy",
+      "Rav Kahana Resolution",
+      "Multi-Gen Anchoring",
+      "Why Offspring?",
+      "Mother vs. Daughter",
+      "Mustard Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "Both items address the gemara's challenge about why the daughter (B) needs her own offspring (C) to stay rather than being anchored by her mother, which is precisely the content described in heading 8 ('Why Offspring?') \u2014 the question of why B cannot be anchored by A and her mate just as A is anchored by B and her mate.",
+      "chosen_heading": "Why Offspring?",
+      "current_heading": "First Brood Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Mustard Method",
+    "candidates": [
+      "Beehive Swarms",
+      "Honey Loaves",
+      "Olive Branches",
+      "Brood Discrepancy",
+      "Rav Kahana Resolution",
+      "Multi-Gen Anchoring",
+      "Why Offspring?",
+      "Mother vs. Daughter",
+      "Mustard Method",
+      "Honey Consumption",
+      "Alternation Theory",
+      "Three Then Alternate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what 'Mustard Method' covers \u2014 the mechanism of mesares via mustard (Shmuel's view) and the Western sages' explanation that mustard causes bees to eat their honey, matching both the current placement and heading 8's prose precisely.",
+      "chosen_heading": "Mustard Method",
+      "current_heading": "Mustard Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Three Then Alternate",
+    "candidates": [
+      "Honey Consumption",
+      "Alternation Theory",
+      "Three Then Alternate",
+      "Rav Kahana Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yochanan's alternation interpretation and the baraita's consecutive-then-alternate reading, which together form the content described in the 'Alternation Theory' section's prose about Rabbi Yochanan's reading of mesares as serugin/alternation \u2014 the 'Three Then Alternate' section's prose describes the baraita's clarification as a standalone point, but the Talmudic text contains both statements together and Rabbi Yochanan's statement is the primary one, matching 'Alternation Theory' best.",
+      "chosen_heading": "Alternation Theory",
+      "current_heading": "Three Then Alternate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rav Kahana Position",
+    "candidates": [
+      "Three Then Alternate",
+      "Rav Kahana Position",
+      "In Wax vs. Extracted",
+      "Neither Status",
+      "Two Loaves Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Kahana's statement that honey in the beehive never loses its food status and that no intention is required, which is precisely what the 'Rav Kahana Position' prose section discusses.",
+      "chosen_heading": "Rav Kahana Position",
+      "current_heading": "Rav Kahana Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Two Loaves Exception",
+    "candidates": [
+      "In Wax vs. Extracted",
+      "Neither Status",
+      "Two Loaves Exception",
+      "Rabbi Eliezer View",
+      "Ground Attachment",
+      "Pruzbul & Tamei"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Neither Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita objection and Abaye's resolution about the two loaves, which the 'Neither Status' prose introduces as the challenge to Rav Kahana, but actually the full unit of objection+Abaye's answer belongs under 'Two Loaves Exception' \u2014 however, item 1 alone (the baraita challenge plus both Abaye and Rava's responses) is one continuous dispute, so checking the split: item 1 covers the baraita objection plus Abaye's answer plus Rava's opening, which the 'Neither Status' prose describes as the challenge, while items 2-3 are the Rabbi Eliezer mishna cited by Rava, which the 'Ground Attachment'/'Pruzbul & Tamei' prose describes.",
+      "second_heading": "Ground Attachment",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the Rabbi Eliezer mishna about the beehive being treated as land, including the pruzbul and tumah consequences, which matches the 'Ground Attachment' prose's description of that exact mishna and its content.",
+      "current_heading": "Two Loaves Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Pruzbul & Tamei",
+    "candidates": [
+      "Rabbi Eliezer View",
+      "Ground Attachment",
+      "Pruzbul & Tamei",
+      "Shabbat Violation",
+      "Verse Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Rabbis' opposing view on the beehive, specifically mentioning that one cannot write a pruzbul on it and that it is susceptible to ritual impurity (tumah) \u2014 exactly the topics discussed in the 'Pruzbul & Tamei' section's prose.",
+      "chosen_heading": "Pruzbul & Tamei",
+      "current_heading": "Pruzbul & Tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Verse Proof",
+    "candidates": [
+      "Shabbat Violation",
+      "Verse Proof",
+      "Separated Status",
+      "Intent Determines",
+      "Abaye Consistency",
+      "Rava Reading",
+      "Disgusting Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's derivation of Rabbi Eliezer's scriptural reasoning from the word 'ya'arat hadevash,' which is precisely what the 'Verse Proof' section's prose describes and discusses.",
+      "chosen_heading": "Verse Proof",
+      "current_heading": "Verse Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Disgusting Vessel",
+    "candidates": [
+      "Separated Status",
+      "Intent Determines",
+      "Abaye Consistency",
+      "Rava Reading",
+      "Disgusting Vessel",
+      "Rav Kahana Consensus",
+      "Full Reconciliation",
+      "Standard Cutting"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Disgusting Vessel",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the baraita about honey that flowed from the hive and Rav Zevid/Rav Acha bar Yaakov's solutions, which is precisely what candidate 4 'Disgusting Vessel' describes.",
+      "second_heading": "Intent Determines",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 open a fresh baraita about honey in the hive with intent clauses (chishev alav le'achila), matching candidate 1 'Intent Determines' which introduces exactly that baraita and its ruling that intent transforms the honey's status.",
+      "current_heading": "Disgusting Vessel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Standard Cutting",
+    "candidates": [
+      "Rav Kahana Consensus",
+      "Full Reconciliation",
+      "Standard Cutting",
+      "Sycamore Heights",
+      "Other Trees",
+      "Shevi'is Ban",
+      "Yehuda Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the baraita about buying a tree for felling and the various cutting heights, which directly matches the 'Standard Cutting' section's prose describing exactly this baraita and its one-tefach rule, with the sycamore and other tree details flowing naturally into subsequent sections but the passage as a whole is introduced under 'Standard Cutting.'",
+      "chosen_heading": "Standard Cutting",
+      "current_heading": "Standard Cutting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Yehuda Exception",
+    "candidates": [
+      "Sycamore Heights",
+      "Other Trees",
+      "Shevi'is Ban",
+      "Yehuda Exception",
+      "Range Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the Shevi'it baraita challenge \u2014 item 1 raises the contradiction from the mishna that cutting a virgin sycamore is forbidden as 'avodah,' and item 2 quotes Rabbi Yehuda's ruling with its implication about regrowth \u2014 which is precisely what candidate 2 ('Shevi'is Ban') describes in its prose, including the specific baraita quote and the question about why height matters.",
+      "chosen_heading": "Shevi'is Ban",
+      "current_heading": "Yehuda Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Range Theory",
+    "candidates": [
+      "Yehuda Exception",
+      "Range Theory",
+      "Shevi'is vs Sale",
+      "Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's explanation of the three-zone range (three tefachim is beneficial, flush with ground is certainly harmful, between is neither), which is precisely what the 'Range Theory' prose describes and prepares the reader for.",
+      "chosen_heading": "Range Theory",
+      "current_heading": "Range Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Contradiction",
+    "candidates": [
+      "Shevi'is vs Sale",
+      "Contradiction",
+      "Righteous Drash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the baraita about palm and cedar trees plus the Gemara's challenge regarding cedar regrowth, which is precisely what candidate 1's prose describes as the 'Contradiction' section.",
+      "chosen_heading": "Contradiction",
+      "current_heading": "Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Righteous Drash",
+    "candidates": [
+      "Righteous Drash",
+      "Arz Variety",
+      "Ten Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the cedar/palm tree drash about the righteous person, which is exactly what the 'Righteous Drash' prose section discusses in detail.",
+      "chosen_heading": "Righteous Drash",
+      "current_heading": "Righteous Drash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Ten Types",
+    "candidates": [
+      "Arz Variety",
+      "Ten Types",
+      "Additional Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with 'ela hacha bemai askinan \u2014 bishe'ar minei arazim' (the resolution about other cedar species) and then introduces Rabba bar Rav Huna's teaching as its support, making it a unified passage that belongs under heading 0 ('Arz Variety'), which describes exactly this resolution and its basis, rather than heading 1 which discusses only the ten-species teaching in isolation.",
+      "chosen_heading": "Arz Variety",
+      "current_heading": "Ten Types",
+      "moved": true
+    }
+  }
+]

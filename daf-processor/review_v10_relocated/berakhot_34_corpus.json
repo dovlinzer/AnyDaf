@@ -1,0 +1,456 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Amen Distraction",
+    "candidates": [
+      "Modim Dualism",
+      "Yevarchucha Tovim",
+      "Error Replacement",
+      "Restart Point",
+      "Amen Distraction",
+      "Sole Kohen Exception",
+      "Three Asks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly addresses the mishna ruling about the shliach tzibbur not answering amen after the kohanim due to tiruf/confusion, and the case where no other kohen is present \u2014 exactly what the 'Amen Distraction' prose discusses.",
+      "chosen_heading": "Amen Distraction",
+      "current_heading": "Amen Distraction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Three Asks",
+    "candidates": [
+      "Sole Kohen Exception",
+      "Three Asks",
+      "Derech Eretz",
+      "Three Moderations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about refusing the role of shliach tzibbur, the salt metaphor, and the three-step procedure (refuse, vacillate, descend) is precisely what the 'Three Asks' section prose discusses in detail.",
+      "chosen_heading": "Three Asks",
+      "current_heading": "Three Asks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Three Moderations",
+    "candidates": [
+      "Derech Eretz",
+      "Three Moderations",
+      "Rav Huna Units"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about three things harmful in excess but beneficial in moderation (leavening, salt, refusal) is directly discussed in the 'Three Moderations' section prose, which explicitly describes this baraita and its three examples.",
+      "chosen_heading": "Three Moderations",
+      "current_heading": "Three Moderations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Rav Huna Units",
+    "candidates": [
+      "Rav Huna Units",
+      "Rav Assi Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Huna's ruling about returning to the beginning of each unit (first three, middle, final blessings), which is precisely what the prose under 'Rav Huna Units' discusses.",
+      "chosen_heading": "Rav Huna Units",
+      "current_heading": "Rav Huna Units",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rav Assi Order",
+    "candidates": [
+      "Rav Assi Order",
+      "Tosafot Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Asi's statement that the middle blessings have no set order, which is precisely what the 'Rav Assi Order' section's prose discusses.",
+      "chosen_heading": "Rav Assi Order",
+      "current_heading": "Rav Assi Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Tosafot Resolution",
+    "candidates": [
+      "Tosafot Resolution",
+      "Yamim Noraim Adds",
+      "No Personal Requests",
+      "Master Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rav Sheshet objection and Rav Huna's defense (middle blessings are one unit), which the 'Tosafot Resolution' prose explicitly describes as the challenge to both opinions and Rav Huna's strained reply.",
+      "chosen_heading": "Tosafot Resolution",
+      "current_heading": "Tosafot Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Master Parable",
+    "candidates": [
+      "Yamim Noraim Adds",
+      "No Personal Requests",
+      "Master Parable",
+      "Communal Needs",
+      "Long vs. Short"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda's statement prohibiting personal requests in the first/last three brachot and Rabbi Chanina's servant parable explaining the structure \u2014 this is exactly what the 'No Personal Requests' prose introduces, while the current 'Master Parable' section is the prose that elaborates on the parable's content after the quoted text.",
+      "chosen_heading": "No Personal Requests",
+      "current_heading": "Master Parable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Long vs. Short",
+    "candidates": [
+      "Communal Needs",
+      "Long vs. Short",
+      "Smooth Flow Sign",
+      "Bow Locations",
+      "Special Status Bowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Long vs. Short' directly describes all three items: the two contrasting stories before Rabbi Eliezer about prolonging vs. abbreviating prayer, and the subsequent ruling of Rabbi Yaakov/Rav \u1e24isda about not needing to mention the name when praying for another \u2014 exactly matching the passage's content.",
+      "chosen_heading": "Long vs. Short",
+      "current_heading": "Long vs. Short",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Special Status Bowing",
+    "candidates": [
+      "Smooth Flow Sign",
+      "Bow Locations",
+      "Special Status Bowing",
+      "Kida vs. Hishtachavah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bow Locations",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (the baraita enumerating bow locations and the ordinary-person rule) match the 'Bow Locations' prose perfectly, which explicitly discusses the same baraita and the same four bowing points.",
+      "second_heading": "Special Status Bowing",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 (kohen gadol and king bowing rules, including Rabbi Yitzchak bar Nachmani's version with Solomon) match the 'Special Status Bowing' prose exactly, which describes all the same content including the two versions and the Solomon proof-text.",
+      "current_heading": "Special Status Bowing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Kida vs. Hishtachavah",
+    "candidates": [
+      "Kida vs. Hishtachavah",
+      "Stone Floor Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita defining kidda, keri'ah, and hishtachavah is precisely what the prose under 'Kida vs. Hishtachavah' discusses, including all three terms and their biblical derivations.",
+      "chosen_heading": "Kida vs. Hishtachavah",
+      "current_heading": "Kida vs. Hishtachavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Stone Floor Limit",
+    "candidates": [
+      "Stone Floor Limit",
+      "Modim Bowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Abaye and Rava leaning rather than fully prostrating is explicitly discussed in the 'Stone Floor Limit' prose section, which directly addresses this observation in the context of the prohibition against prostrating on stone floors.",
+      "chosen_heading": "Stone Floor Limit",
+      "current_heading": "Stone Floor Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Modim Bowing",
+    "candidates": [
+      "Modim Bowing",
+      "Bad Sign Error",
+      "Representative Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous Talmudic discussion about bowing at Modim/hoda'ah, exactly matching the 'Modim Bowing' section's prose which explicitly discusses each of these baraitot, Rava's practice, and the resolutions involving Hallel and Birkat HaMazon.",
+      "chosen_heading": "Modim Bowing",
+      "current_heading": "Modim Bowing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Representative Principle",
+    "candidates": [
+      "Bad Sign Error",
+      "Representative Principle",
+      "Chanina Prayer Flow",
+      "Kavana Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong under 'Bad Sign Error': Item 1 is the Mishna introducing the bad omen concept and Rabbi Chanina ben Dosa (which the 'Bad Sign Error' prose discusses as a unit leading into the Gemara's question about which blessing), and Item 2 is precisely the Gemara question 'in which blessing' that the 'Bad Sign Error' prose explicitly references, whereas the current placement under 'Representative Principle' focuses only on the agency principle and 'Chanina Prayer Flow' covers only the Rabbi Chanina story in isolation.",
+      "chosen_heading": "Bad Sign Error",
+      "current_heading": "Representative Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Kavana Requirement",
+    "candidates": [
+      "Chanina Prayer Flow",
+      "Kavana Requirement",
+      "Teshuvah Merit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Kavana Requirement",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 discuss kavana for all blessings and the identification of Avot as the one required blessing, matching the Kavana Requirement prose exactly.",
+      "second_heading": "Chanina Prayer Flow",
+      "second_confidence": "high",
+      "second_reason": "Item 4 opens the mishna about Rabbi Chanina ben Dosa and derives the omen of fluent prayer from Isaiah 57:19, which is precisely what the Chanina Prayer Flow prose discusses.",
+      "current_heading": "Kavana Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Teshuvah Merit",
+    "candidates": [
+      "Teshuvah Merit",
+      "Mashiach Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Teshuvah Merit",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses prophetic reward for those who support Torah scholars, exactly matching the 'Teshuvah Merit' prose which quotes and explicates this same passage.",
+      "second_heading": "Mashiach Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses prophetic prophecy being limited to the messianic era versus the World-to-Come, exactly matching the 'Mashiach Debate' prose which quotes and analyzes this same statement and its tension with Shmuel's view.",
+      "current_heading": "Teshuvah Merit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Mashiach Debate",
+    "candidates": [
+      "Mashiach Debate",
+      "Teshuvah Heights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Shmuel's statement about the only difference between this world and messianic times being servitude to kingdoms, which is explicitly discussed in the 'Mashiach Debate' prose section.",
+      "chosen_heading": "Mashiach Debate",
+      "current_heading": "Mashiach Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Teshuvah Heights",
+    "candidates": [
+      "Teshuvah Heights",
+      "Hidden Rewards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Yo\u1e25anan's statement about prophetic consolation for penitents vs. the hidden reward for the righteous, Rabbi Abbahu's counter-claim about the superiority of ba'alei teshuvah, and Rabbi Yo\u1e25anan's reinterpretation of 'rachok/karov' \u2014 are precisely the content described in the 'Teshuvah Heights' prose, which walks through all three points in sequence.",
+      "chosen_heading": "Teshuvah Heights",
+      "current_heading": "Teshuvah Heights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151,
+      152
+    ],
+    "current_heading": "Hidden Rewards",
+    "candidates": [
+      "Hidden Rewards",
+      "Gamliel Son"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the hidden reward of 'no eye has seen it' \u2014 the preserved wine and Eden \u2014 which is precisely what the 'Hidden Rewards' prose section describes in detail.",
+      "chosen_heading": "Hidden Rewards",
+      "current_heading": "Hidden Rewards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      157
+    ],
+    "current_heading": "Gamliel Son",
+    "candidates": [
+      "Gamliel Son",
+      "Zakkai Son",
+      "Servant Officer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident of Rabban Gamliel's son falling ill and Rabbi Chanina ben Dosa praying for him, which matches perfectly with the 'Gamliel Son' section prose.",
+      "chosen_heading": "Gamliel Son",
+      "current_heading": "Gamliel Son",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Servant Officer",
+    "candidates": [
+      "Zakkai Son",
+      "Servant Officer",
+      "Windows Jerusalem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the complete story of Rabbi Chanina ben Dosa praying for Rabbi Yochanan ben Zakkai's son, including both the miracle and the servant/officer analogy, and candidate 0's prose covers the entire narrative arc including the placement of the head between the knees and the boy living, making it the better home for the full quoted text.",
+      "chosen_heading": "Zakkai Son",
+      "current_heading": "Servant Officer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      168
+    ],
+    "current_heading": "Windows Jerusalem",
+    "candidates": [
+      "Servant Officer",
+      "Windows Jerusalem",
+      "Chutzpah Behaviors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi \u1e24iyya bar Abba citing Rabbi Yo\u1e25anan about praying in a house with windows, which is precisely what the 'Windows Jerusalem' section's prose discusses.",
+      "chosen_heading": "Windows Jerusalem",
+      "current_heading": "Windows Jerusalem",
+      "moved": false
+    }
+  }
+]

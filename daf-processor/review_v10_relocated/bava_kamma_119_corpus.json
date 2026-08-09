@@ -1,0 +1,427 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Either Criterion Suffices",
+    "candidates": [
+      "R. Yehuda: Home vs. Wild",
+      "Either Criterion Suffices",
+      "Fruit Watchers Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara discussion of Rabbi Yehuda's dilemma (stringency vs. leniency regarding domesticated vs. desert animals) and its resolution via the baraita's 'in any location' phrase, which is exactly what candidate 1 ('Either Criterion Suffices') describes in its prose.",
+      "chosen_heading": "Either Criterion Suffices",
+      "current_heading": "Either Criterion Suffices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Fruit Watchers Exception",
+    "candidates": [
+      "Fruit Watchers Exception",
+      "Public Sales Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the watchman/sharecropper distinction that the prose in 'Fruit Watchers Exception' explicitly describes, matching the content about Rava purchasing from an arisa and the distinction between a shomer and an arisa.",
+      "chosen_heading": "Fruit Watchers Exception",
+      "current_heading": "Fruit Watchers Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Public Sales Presumption",
+    "candidates": [
+      "Public Sales Presumption",
+      "Rav: Majority of Property",
+      "Shmuel: Minority Suffices",
+      "Why Majority Rule Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about produce watchmen selling openly with baskets and scales before them, and the prohibition when they say 'conceal it,' and purchasing from the front vs. back of a garden, directly matches the prose in 'Public Sales Presumption' which describes exactly these details.",
+      "chosen_heading": "Public Sales Presumption",
+      "current_heading": "Public Sales Presumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Why Majority Rule Works",
+    "candidates": [
+      "Rav: Majority of Property",
+      "Shmuel: Minority Suffices",
+      "Why Majority Rule Works",
+      "Rav Chisda Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the dispute between Rav and Shmuel about purchasing from a gazlan, which is introduced and explained under heading 0 ('Rav: Majority of Property'), and heading 1's prose explicitly says Shmuel's position 'is transmitted as a teaching that Rav Yehuda conveyed to his attendant Ada' \u2014 meaning both items (the dispute statement and the Rav Yehuda/Adda ruling) belong under heading 0 where the full dispute is first introduced, not split across 0 and 1, and certainly not under the current heading 2.",
+      "chosen_heading": "Rav: Majority of Property",
+      "current_heading": "Why Majority Rule Works",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Rav Chisda Story",
+    "candidates": [
+      "Why Majority Rule Works",
+      "Rav Chisda Story",
+      "Theft as Taking Life"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Rav Chisda Story' explicitly describes both the mamon masur dispute between Rav Huna and Rav Yehuda (items 1-2) and the Rav Chisda sharecropper story (item 3), matching all three items perfectly.",
+      "chosen_heading": "Rav Chisda Story",
+      "current_heading": "Rav Chisda Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Theft as Taking Life",
+    "candidates": [
+      "Theft as Taking Life",
+      "Even a Penny Equals Life",
+      "Theft Destroys Livelihood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a single continuous dispute between Rav Huna and Rav \u1e24isda about whose soul is taken by robbery, with the Gemara's challenge-and-response dialectic, exactly matching the prose of heading 0 which describes this precise dispute and its resolution in detail.",
+      "chosen_heading": "Theft as Taking Life",
+      "current_heading": "Theft as Taking Life",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Theft Destroys Livelihood",
+    "candidates": [
+      "Even a Penny Equals Life",
+      "Theft Destroys Livelihood",
+      "Shaul and Givonim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Theft Destroys Livelihood' precisely describes the cascading chain of verses and objections covered in all four items \u2014 the victim's soul, the children's lives, and the case of coercive taking with payment (chamas) \u2014 matching the passage's content exactly.",
+      "chosen_heading": "Theft Destroys Livelihood",
+      "current_heading": "Theft Destroys Livelihood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Shaul and Givonim",
+    "candidates": [
+      "Shaul and Givonim",
+      "Women's Sales Authority",
+      "Pin Money Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Shaul's indirect killing of the Gibeonites (grama) and the verse ascribing him blame, which is exactly what the 'Shaul and Givonim' section's prose discusses.",
+      "chosen_heading": "Shaul and Givonim",
+      "current_heading": "Shaul and Givonim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Pin Money Exception",
+    "candidates": [
+      "Women's Sales Authority",
+      "Pin Money Exception",
+      "Charity Collections"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita about purchasing from women/slaves/children AND Abba Shaul's pin-money ruling, making it a single unit that belongs under heading 0 ('Women's Sales Authority'), which discusses the full range of these rules together, rather than being split at the Abba Shaul portion under heading 1.",
+      "chosen_heading": "Women's Sales Authority",
+      "current_heading": "Pin Money Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Charity Collections",
+    "candidates": [
+      "Pin Money Exception",
+      "Charity Collections",
+      "Large as Small Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the rules for charity collectors (gabbai tzedakah) accepting small vs. large amounts from women, and the olive-presser ruling with Rabban Shimon ben Gamliel's Upper Galilee nuance \u2014 exactly the content described in the 'Charity Collections' prose.",
+      "chosen_heading": "Charity Collections",
+      "current_heading": "Charity Collections",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Large as Small Context",
+    "candidates": [
+      "Large as Small Context",
+      "Launderer's Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Ravina at Bei Me\u1e25oza accepting jewelry and the contextual definition of 'small' donations is precisely what the 'Large as Small Context' prose describes and analyzes.",
+      "chosen_heading": "Large as Small Context",
+      "current_heading": "Large as Small Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Launderer's Rights",
+    "candidates": [
+      "Launderer's Rights",
+      "Launderer Instructions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Mishna covering launderer, tailor, and carpenter rules \u2014 exactly what heading 0's prose summarizes in detail, including the three-thread rule, black-on-white threads, tailor's leftover thread and patch, and carpenter's adze vs. ax distinctions.",
+      "chosen_heading": "Launderer's Rights",
+      "current_heading": "Launderer's Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Launderer Instructions",
+    "candidates": [
+      "Launderer Instructions",
+      "Comber Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items discuss the launderer's entitlements and work instructions (threads, stitches, carding direction, trimming), which precisely match the 'Launderer Instructions' prose, which is where the passage currently sits.",
+      "chosen_heading": "Launderer Instructions",
+      "current_heading": "Launderer Instructions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Comber Prohibition",
+    "candidates": [
+      "Comber Prohibition",
+      "Weaver's Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita discusses purchasing strands from a carder (sorek) and acquisition through shinui, which matches perfectly with the 'Comber Prohibition' section prose about the comber (sorek), local custom, and purchasing filled pillows via shinui.",
+      "chosen_heading": "Comber Prohibition",
+      "current_heading": "Comber Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Weaver's Materials",
+    "candidates": [
+      "Weaver's Materials",
+      "Dyer's Samples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss what may and may not be purchased from a weaver, including the clarification about 'woven' meaning twisted chains \u2014 exactly matching the 'Weaver's Materials' prose.",
+      "chosen_heading": "Weaver's Materials",
+      "current_heading": "Weaver's Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Dyer's Samples",
+    "candidates": [
+      "Dyer's Samples",
+      "Tailor's Thresholds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about what may be purchased from a dyer and the baraita about trimmings from a tanner \u2014 are explicitly discussed together in the 'Dyer's Samples' prose, which covers exactly these two cases (dyer's samples/spun wool/felt and tanner's trimmings/washwater).",
+      "chosen_heading": "Dyer's Samples",
+      "current_heading": "Dyer's Samples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Tailor's Thresholds",
+    "candidates": [
+      "Tailor's Thresholds",
+      "Carpenter's Shavings"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Carpenter's Shavings",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses a launderer (katzra) and the measurement of threads for tzitzit, which does not match the tailor/needle-length discussion in heading 0 or the carpenter discussion in heading 1, but heading 1's carpenter prose is also a poor fit; however, item 1 is a closing remark on a prior topic (launderer/black threads) that forms a structural seam before the tailor discussion begins in item 2.",
+      "second_heading": "Tailor's Thresholds",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20135 form a self-contained unit about the tailor's thread measurement (needle-length question and its resolution via baraita), which matches precisely the prose of heading 0 ('Tailor's Thresholds').",
+      "current_heading": "Tailor's Thresholds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Carpenter's Shavings",
+    "candidates": [
+      "Carpenter's Shavings",
+      "Produce Removers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the contradiction between the mishna and baraita regarding carpenter's adze shavings, and Rava's resolution \u2014 exactly what heading 0's prose describes.",
+      "chosen_heading": "Carpenter's Shavings",
+      "current_heading": "Carpenter's Shavings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Produce Removers",
+    "candidates": [
+      "Produce Removers",
+      "Hops and Grain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses stone chiselers, tree pruners, vine pruners, shrub trimmers, weeders, and vegetable hoe-ers \u2014 exactly the 'Produce Removers' category described in candidate 0's prose, including the makpid/not-makpid rule.",
+      "chosen_heading": "Produce Removers",
+      "current_heading": "Produce Removers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Hops and Grain",
+    "candidates": [
+      "Hops and Grain",
+      "Mata Mechasya"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hops and Grain",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the full ruling about dodder and green grain including the Mata Mechasya application, which the 'Hops and Grain' prose already covers (it describes both Rav Yehuda's ruling and the locale-dependent exception).",
+      "second_heading": "Mata Mechasya",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the closing formula of the tractate (hadran), which the 'Mata Mechasya' prose explicitly describes as the concluding note of Bava Kamma.",
+      "current_heading": "Hops and Grain",
+      "moved": true
+    }
+  }
+]

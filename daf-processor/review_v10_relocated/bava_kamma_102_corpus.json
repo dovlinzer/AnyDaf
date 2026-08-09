@@ -1,0 +1,450 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Benefit & Consumption",
+    "candidates": [
+      "Dyes & Wood",
+      "Benefit & Consumption",
+      "Oily Wood Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states the principle that shmita sanctity applies to items whose benefit and consumption coincide (hana'aso u'viuro shaveh) and excludes wood because its benefit follows its consumption \u2014 the exact content described in the 'Benefit & Consumption' section's prose.",
+      "chosen_heading": "Benefit & Consumption",
+      "current_heading": "Benefit & Consumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Oily Wood Debate",
+    "candidates": [
+      "Oily Wood Debate",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's objection about oily wood whose benefit coincides with its consumption, which is precisely what the 'Oily Wood Debate' prose introduces and discusses.",
+      "chosen_heading": "Oily Wood Debate",
+      "current_heading": "Oily Wood Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava's Resolution",
+      "Wine & Soaking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rava's statement that 'unspecified wood exists for fuel' is precisely the resolution described in candidate 0's prose, which explicitly quotes and explains this principle as Rava's resolution to the difficulty.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Wine & Soaking",
+    "candidates": [
+      "Wine & Soaking",
+      "Common Use Standard"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Wine & Soaking",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 cover exactly the Rav Kahana statement, the Rabbis' le'achla derivation, and the lakhem/dumya d'le'ochla exchange, which the 'Wine & Soaking' prose describes in detail.",
+      "second_heading": "Common Use Standard",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces the le'ochla velo lemlugma baraita and the argument that lakhem already covers laundering leaving le'achla for poultices \u2014 the exact content the 'Common Use Standard' prose discusses as Rabbi Yehuda's third position.",
+      "current_heading": "Wine & Soaking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Common Use Standard",
+    "candidates": [
+      "Common Use Standard",
+      "Excluded Uses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the *shaveh l'chol adam* principle \u2014 why laundering is included and poultices excluded \u2014 which is precisely what Candidate 0's prose discusses as the operative criterion for the 'Common Use Standard.'",
+      "chosen_heading": "Common Use Standard",
+      "current_heading": "Common Use Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Excluded Uses",
+    "candidates": [
+      "Excluded Uses",
+      "Firewood & Tannaim",
+      "Wrong Dye Case",
+      "Shinuy Koneh",
+      "Yehuda's Position",
+      "Huna's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita listing excluded uses of Sabbatical Year produce and identifies it as following Rabbi Yosei's opinion \u2014 exactly what the 'Excluded Uses' prose describes.",
+      "chosen_heading": "Excluded Uses",
+      "current_heading": "Excluded Uses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Huna's Position",
+    "candidates": [
+      "Firewood & Tannaim",
+      "Wrong Dye Case",
+      "Shinuy Koneh",
+      "Yehuda's Position",
+      "Huna's Position",
+      "Yosef Challenges"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yehuda's Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the mishna teaching Rabbi Yehuda's position on the wrong-dye case with his rule about enhancement vs. expenses, which matches the 'Yehuda's Position' prose describing exactly that ruling.",
+      "second_heading": "Huna's Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes Rav Yosef sitting behind Rabbi Abba before Rav Huna and Rav Huna declaring his two rulings, which matches precisely the 'Huna's Position' prose describing that same scene and those same two declarations.",
+      "current_heading": "Huna's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Yosef Challenges",
+    "candidates": [
+      "Yosef Challenges",
+      "Yehoshua ben Korcha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Yosef turning his face away and explaining why the Rabbi Yehoshua ben Korcha ruling is necessary (da'as yachid vs. majority), which is precisely the challenge/reaction described in the 'Yosef Challenges' prose.",
+      "chosen_heading": "Yosef Challenges",
+      "current_heading": "Yosef Challenges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Yehoshua ben Korcha",
+    "candidates": [
+      "Yehoshua ben Korcha",
+      "Stam Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi Yehoshua ben Korcha's ruling distinguishing loans with promissory notes from oral loans, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Yehoshua ben Korcha",
+      "current_heading": "Yehoshua ben Korcha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Stam Rule",
+    "candidates": [
+      "Stam Rule",
+      "Order in Masechet",
+      "Nezikin Unity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the machlokes v'achareiha stam principle \u2014 item 1 raises why the explicit ruling k'Rabbi Yehuda is needed given the stam rule, item 2 identifies the specific machlokes in Bava Kamma and the stam in Bava Metzia, and item 3 addresses why Rav Huna needed to state the ruling and Rav Yosef's objection \u2014 all of which directly match the 'Stam Rule' section's prose.",
+      "chosen_heading": "Stam Rule",
+      "current_heading": "Stam Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Nezikin Unity",
+    "candidates": [
+      "Order in Masechet",
+      "Nezikin Unity",
+      "Categorical Statements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Huna's distinction between one tractate and two tractates, and Rav Yosef's response that all of Nezikin is one tractate \u2014 exactly what the 'Nezikin Unity' prose describes.",
+      "chosen_heading": "Nezikin Unity",
+      "current_heading": "Nezikin Unity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Categorical Statements",
+    "candidates": [
+      "Categorical Statements",
+      "Two Braitot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the alternative justification that the ruling was taught as an established, categorical halakha ('kol hamishaneh... kol hachozer bo'), which matches exactly the 'Categorical Statements' prose about universal formulations carrying particular halachic weight.",
+      "chosen_heading": "Categorical Statements",
+      "current_heading": "Categorical Statements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Two Braitot",
+    "candidates": [
+      "Two Braitot",
+      "First Braitah",
+      "Second Braitah",
+      "Interest Loophole",
+      "Braitot Alignment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the introduction of the new case and the citation of the two contradictory baraitot, which is precisely what the 'Two Braitot' section's prose describes.",
+      "chosen_heading": "Two Braitot",
+      "current_heading": "Two Braitot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Braitot Alignment",
+    "candidates": [
+      "First Braitah",
+      "Second Braitah",
+      "Interest Loophole",
+      "Braitot Alignment",
+      "Meir: Violation",
+      "Yehuda: No Transfer",
+      "Personal Use Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yo\u1e25anan's reconciliation of the two baraitot by attributing them to Rabbi Meir and Rabbi Yehuda respectively, which is exactly what the 'Braitot Alignment' section's prose describes.",
+      "chosen_heading": "Braitot Alignment",
+      "current_heading": "Braitot Alignment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Personal Use Question",
+    "candidates": [
+      "Meir: Violation",
+      "Yehuda: No Transfer",
+      "Personal Use Question",
+      "Rav Elazar's Fix"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yehuda: No Transfer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yochanan's explanation attributing the two baraitot to the Rabbi Meir/Rabbi Yehuda dispute, which maps directly onto the 'Yehuda: No Transfer' prose describing how Rabbi Yehuda's position handles the agent's deviation without transferring ownership.",
+      "second_heading": "Personal Use Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Elazar's objection questioning whether Rabbi Meir's shinuy koneh applies only to personal-use items and not merchandise, which is precisely the content described in the 'Personal Use Question' prose section.",
+      "current_heading": "Personal Use Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rav Elazar's Fix",
+    "candidates": [
+      "Rav Elazar's Fix",
+      "Acquisition Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar's resolution that both baraitot follow Rabbi Meir with the eating/merchandise distinction, which is precisely what the 'Rav Elazar's Fix' section's prose describes and analyzes.",
+      "chosen_heading": "Rav Elazar's Fix",
+      "current_heading": "Rav Elazar's Fix",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Acquisition Problem",
+    "candidates": [
+      "Acquisition Problem",
+      "Knowledge Required",
+      "Zachin Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the challenge from Eretz Yisrael AND Rav Shmuel bar Sasrati's objection that even a compliant agent case would fail \u2014 which matches 'Knowledge Required' prose about Rav Shmuel bar Sasrati raising the preliminary challenge that even in the ordinary compliant case the seller doesn't know the ba'al habayis.",
+      "chosen_heading": "Knowledge Required",
+      "current_heading": "Acquisition Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Zachin Principle",
+    "candidates": [
+      "Knowledge Required",
+      "Zachin Principle",
+      "Abba Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form Rabbi Abbahu's complete argument \u2014 his initial ruling that a compliant agent is like the ba'al habayis's hand, the Mishnah proof from hekdesh/sandals, and the rhetorical conclusion about the dyer \u2014 which is precisely what the 'Zachin Principle' prose describes in full detail.",
+      "chosen_heading": "Zachin Principle",
+      "current_heading": "Zachin Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Abba Objects",
+    "candidates": [
+      "Abba Objects",
+      "Tefillin Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Abba's statement that consecration of property does not include the wife's and children's clothing due to lack of intent, which is exactly what the 'Abba Objects' section describes.",
+      "chosen_heading": "Abba Objects",
+      "current_heading": "Abba Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Tefillin Evidence",
+    "candidates": [
+      "Tefillin Evidence",
+      "Abaye Resists"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Zeira's challenge about tefillin and Abaye's response, and the current heading 'Tefillin Evidence' with its prose covers both parts of this exchange as a unified discussion \u2014 the essay author placed the entire back-and-forth under one heading whose prose describes the complete argument from Rabbi Zeira's objection through Abaye's resolution.",
+      "chosen_heading": "Tefillin Evidence",
+      "current_heading": "Tefillin Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Abaye Resists",
+    "candidates": [
+      "Abaye Resists",
+      "Collateral Evidence",
+      "Exception Doctrine",
+      "Logical Problem",
+      "Seller Knowledge",
+      "Closure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form Rav Oshaya's objection about collateral seizure (arachin/memashkenin) and Rabbi Abba's response that the wife's clothing is treated as pre-transferred \u2014 exactly what the 'Collateral Evidence' and 'Exception Doctrine' prose describes, but items 1-2 are the objection (Collateral Evidence) and item 3 is Rabbi Abba's reframing (Exception Doctrine); however since all three are one continuous exchange and 'Collateral Evidence' prose explicitly describes both the seizure scenario and foreshadows Rabbi Abba's response, and the current placement under 'Abaye Resists' is clearly wrong, the best single heading that covers the core content of items 1-2 (the arachin/collateral objection) is candidate 1 'Collateral Evidence', with item 3 belonging to candidate 2 \u2014 but given FORM 1 instructions to pick one, candidate 1 is the better fit than the current wrong placement.",
+      "chosen_heading": "Collateral Evidence",
+      "current_heading": "Abaye Resists",
+      "moved": true
+    }
+  }
+]

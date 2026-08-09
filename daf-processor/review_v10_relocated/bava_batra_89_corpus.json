@@ -1,0 +1,387 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Mishna Overview",
+    "candidates": [
+      "Mishna Overview",
+      "Large vs Small",
+      "Lifnim Mishurat",
+      "Smooth vs Heap"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Large vs Small",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna text about large vs small measures and level vs heap, which matches the 'Large vs Small' section's prose about switching between measure sizes and the buyer/seller implications.",
+      "second_heading": "Lifnim Mishurat",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the Gemara discussion deriving the obligation of giving additional amounts (geirumin) from the verse 'vetzedek,' which directly matches the 'Lifnim Mishurat' section's prose about the separate obligation to give something extra beyond the precise measure.",
+      "current_heading": "Mishna Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Smooth vs Heap",
+    "candidates": [
+      "Large vs Small",
+      "Lifnim Mishurat",
+      "Smooth vs Heap",
+      "Eifah Shleima"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the dilemma about whether the one-tenth/one-twentieth additions (the 'lifnim mishurat' extras given by sellers of liquids and dry goods) apply per unit of ten/twenty or cumulatively, which directly relates to the Eifah Shleima section's discussion of the substantial differences in measures and the pricing implications of these measurement conventions.",
+      "chosen_heading": "Eifah Shleima",
+      "current_heading": "Smooth vs Heap",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Eifah Shleima",
+    "candidates": [
+      "Smooth vs Heap",
+      "Eifah Shleima",
+      "Even Shleima"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage (Rabbi Levi on false measures vs. forbidden relations, robbing ordinary person vs. Most High, and God's blessings vs. curses) is aggadic material that follows the legal discussion of measures, and the current placement under 'Eifah Shleima' \u2014 which is the section discussing the laws of measures \u2014 is the most plausible home among the candidates, as none of the other candidate prose sections discuss this aggadic content either, making the current placement the best available option.",
+      "chosen_heading": "Eifah Shleima",
+      "current_heading": "Eifah Shleima",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Even Shleima",
+    "candidates": [
+      "Even Shleima",
+      "Rav Yehuda"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Even Shleima",
+      "current_heading": "Even Shleima",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Rav Yehuda",
+    "candidates": [
+      "Rav Yehuda",
+      "Agardomin",
+      "Nasi Disagreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the midrashic reading of Deuteronomy 25:13-14 attributed to Rav Yehuda of Sura, which the prose under heading 0 explicitly describes and analyzes in detail.",
+      "chosen_heading": "Rav Yehuda",
+      "current_heading": "Rav Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Nasi Disagreement",
+    "candidates": [
+      "Agardomin",
+      "Nasi Disagreement",
+      "Rav Yitzchak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the baraita establishing the rule about appointing market inspectors for measures but not prices, plus the Shmuel/Karna instruction \u2014 all of which is the primary content discussed in the 'Agardomin' section's prose, which explicitly quotes and explains these same rulings before the Nasi disagreement narrative.",
+      "chosen_heading": "Agardomin",
+      "current_heading": "Nasi Disagreement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rav Yitzchak",
+    "candidates": [
+      "Nasi Disagreement",
+      "Rav Yitzchak",
+      "Price Gouging",
+      "Standard Units"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Karna teaching the position of the Nasi's house and Shmuel's curse, then asks whose opinion Karna relied on, answering with Rami bar Chama citing Rav Yitzchak \u2014 exactly what the 'Rav Yitzchak' section's prose discusses.",
+      "chosen_heading": "Rav Yitzchak",
+      "current_heading": "Rav Yitzchak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Standard Units",
+    "candidates": [
+      "Price Gouging",
+      "Standard Units",
+      "Three-Quarter Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about weighing a litra, half-litra, and quarter-litra, which is precisely what the 'Standard Units' prose describes and analyzes.",
+      "chosen_heading": "Standard Units",
+      "current_heading": "Standard Units",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Three-Quarter Measure",
+    "candidates": [
+      "Three-Quarter Measure",
+      "Ten Pounds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the three-quarter litra weighing case, which exactly matches the prose under 'Three-Quarter Measure' discussing the same baraita about not making three separate quarter-pound weighings and instead using a litra weight with the quarter-litra weight alongside the meat.",
+      "chosen_heading": "Three-Quarter Measure",
+      "current_heading": "Three-Quarter Measure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Ten Pounds",
+    "candidates": [
+      "Ten Pounds",
+      "Scale Mechanics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rule about weighing ten litra at once versus one by one, which is exactly what the 'Ten Pounds' section prose describes.",
+      "chosen_heading": "Ten Pounds",
+      "current_heading": "Ten Pounds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Scale Mechanics",
+    "candidates": [
+      "Scale Mechanics",
+      "Scale Sizes",
+      "Metal Scales"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Scale Sizes",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain the baraita listing all scale types with their dimensions (wool/glass at 2 handbreadths, storekeeper/homeowner at 1 handbreadth, turtanei at 3 fingerbreadths), which matches the 'Scale Sizes' prose describing exactly these categories and measurements.",
+      "second_heading": "Metal Scales",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's question about what the first (largest) scale is used for, which leads into Rav Pappa's answer about smiths \u2014 exactly the content discussed in the 'Metal Scales' prose section.",
+      "current_heading": "Scale Mechanics",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Metal Scales",
+    "candidates": [
+      "Scale Sizes",
+      "Metal Scales",
+      "Pan Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Pappa identifying the large scale as used by smiths, Rabbi Mani Bar Pattish's ruling connecting scale dimensions to ritual impurity, and the Gemara's question/answer about what that ruling adds \u2014 are explicitly discussed in the 'Metal Scales' prose, which walks through exactly these statements in sequence.",
+      "chosen_heading": "Metal Scales",
+      "current_heading": "Metal Scales",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Pan Materials",
+    "candidates": [
+      "Pan Materials",
+      "Leather Linings",
+      "Cleaning Tools"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about prohibited and permitted materials for weights/pans (tin, lead, gisteron, rock, glass), which is exactly what the 'Pan Materials' section's prose discusses and analyzes in detail.",
+      "chosen_heading": "Pan Materials",
+      "current_heading": "Pan Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Cleaning Tools",
+    "candidates": [
+      "Leather Linings",
+      "Cleaning Tools",
+      "Uniform Cleaning",
+      "Cleaning Technique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about the leveler (machak) not being made from gourd (too light) or metal (too heavy) is precisely what the 'Cleaning Tools' section's prose discusses, making the current placement correct.",
+      "chosen_heading": "Cleaning Tools",
+      "current_heading": "Cleaning Tools",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Cleaning Technique",
+    "candidates": [
+      "Uniform Cleaning",
+      "Cleaning Technique",
+      "Rabban Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the speed of leveling (all at once vs. little by little) and its effect on buyer and seller, which matches exactly the prose in 'Cleaning Technique' that discusses rapid vs. slow cleaning motions and their directional effects on buyer and seller.",
+      "chosen_heading": "Cleaning Technique",
+      "current_heading": "Cleaning Technique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rabban Yochanan",
+    "candidates": [
+      "Rabban Yochanan",
+      "Land Measurement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabban Yochanan ben Zakkai's dilemma and Rav Shmuel bar Rav Yitzchak's resolution, which exactly matches the prose under heading 0.",
+      "chosen_heading": "Rabban Yochanan",
+      "current_heading": "Rabban Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Land Measurement",
+    "candidates": [
+      "Land Measurement",
+      "Weight Storage",
+      "Liquid Measures",
+      "Tosafot Question",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself covering all three cases (land measurement, weights, liquid measures), and it currently sits under 'Land Measurement' which is where the baraita is introduced \u2014 the current placement is correct as the source text for the exposition that follows in subsequent sections.",
+      "chosen_heading": "Land Measurement",
+      "current_heading": "Land Measurement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Weight Storage",
+      "Liquid Measures",
+      "Tosafot Question",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the kal vachomer argument about the mesura being one thirty-sixth of a log and inferring stricter standards for larger measures, which matches precisely the prose in the 'Kal Vachomer' section.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  }
+]

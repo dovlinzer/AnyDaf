@@ -1,0 +1,351 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "30-Day Rule",
+    "candidates": [
+      "Perek Order Debate",
+      "Two Main Themes",
+      "Transition to Wife",
+      "Vow Forbids Benefit",
+      "Why Not Onah",
+      "30-Day Rule",
+      "Neder Duration",
+      "Yehuda: Months"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text itself introducing 'hamadir ishto mileihanos lo' \u2014 the vow forbidding the wife from benefiting from the husband \u2014 which is precisely what heading 3 ('Vow Forbids Benefit') introduces and discusses, before the 30-day rule analysis of heading 5.",
+      "chosen_heading": "Vow Forbids Benefit",
+      "current_heading": "30-Day Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Yehuda: Months",
+    "candidates": [
+      "Neder Duration",
+      "Yehuda: Months",
+      "One Fruit Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehuda's distinction between Israelite (one month) and kohen (two months) thresholds, which is precisely what the 'Yehuda: Months' prose section describes.",
+      "chosen_heading": "Yehuda: Months",
+      "current_heading": "Yehuda: Months",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "One Fruit Vow",
+    "candidates": [
+      "One Fruit Vow",
+      "Yehuda: Fruit Case",
+      "Adornment Vow",
+      "Yosi: Rich/Poor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the general ruling about one fruit vow AND Rabbi Yehuda's distinction, but the current placement under 'One Fruit Vow' captures the primary content, while 'Yehuda: Fruit Case' (index 1) prose describes exactly Rabbi Yehuda's portion \u2014 however, since this is a single mishnah passage combining both rulings, and the current heading's prose explicitly references the mishnah text and its ruling of yotzi v'yiten kesuvah which opens this passage, index 0 is the correct placement for the whole unit.",
+      "chosen_heading": "One Fruit Vow",
+      "current_heading": "One Fruit Vow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Yosi: Rich/Poor",
+    "candidates": [
+      "Yehuda: Fruit Case",
+      "Adornment Vow",
+      "Yosi: Rich/Poor",
+      "Rashi: Onah Property",
+      "Tosafot: Language",
+      "Mezonot Level",
+      "Why in Ketubot",
+      "Yotzi: Force or Words",
+      "Force Used",
+      "Chananel: Words Only",
+      "Final Position",
+      "Modern Dynamics",
+      "Core Question",
+      "Parallel: Maaseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text about vowing against adornment (hamadir ishto shelo tiskasheit), which is directly introduced and explained in the 'Adornment Vow' section's prose, not the 'Yosi: Rich/Poor' section which discusses Rabbi Yosi's distinction as a secondary elaboration.",
+      "chosen_heading": "Adornment Vow",
+      "current_heading": "Yosi: Rich/Poor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Parallel: Maaseh",
+    "candidates": [
+      "Rashi: Onah Property",
+      "Tosafot: Language",
+      "Mezonot Level",
+      "Why in Ketubot",
+      "Yotzi: Force or Words",
+      "Force Used",
+      "Chananel: Words Only",
+      "Final Position",
+      "Modern Dynamics",
+      "Core Question",
+      "Parallel: Maaseh",
+      "Ownership Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage presents exactly the gemara's central question (how can the husband make a neder against mezonot when he is obligated to her) and its parallel from the wife's case (konam she-eini osah le-ficha), which is precisely what the 'Core Question' prose describes \u2014 the gemara posing ve-keivan de-meshubad lah heichi matzi madar lah.",
+      "chosen_heading": "Core Question",
+      "current_heading": "Parallel: Maaseh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Ownership Principle",
+    "candidates": [
+      "Parallel: Maaseh",
+      "Ownership Principle",
+      "Boss Theory",
+      "Woman's Power",
+      "Symmetry Problem",
+      "Potential vs. Actual",
+      "Arrangement Status",
+      "Major vs. Minor",
+      "Minor Expenses",
+      "Accustomed Test",
+      "Luxury to Standard",
+      "Mochel Status",
+      "Vow Breaks Deal",
+      "Timing Paradox",
+      "Obligation Crisis",
+      "Public Knowledge",
+      "Tolerance Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items form the continuous gemara discussion of why a parnas is needed after the arrangement is called off \u2014 item 1 is the retraction to requiring explicit declaration, item 2 is the 'bidelo sapka' / Rav Ashi refinement about major vs. minor expenses, and item 3 is the follow-up question about the minor expenses \u2014 all of which match the 'Major vs. Minor' heading's prose precisely.",
+      "chosen_heading": "Major vs. Minor",
+      "current_heading": "Ownership Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Tolerance Limit",
+    "candidates": [
+      "Boss Theory",
+      "Woman's Power",
+      "Symmetry Problem",
+      "Potential vs. Actual",
+      "Arrangement Status",
+      "Major vs. Minor",
+      "Minor Expenses",
+      "Accustomed Test",
+      "Luxury to Standard",
+      "Mochel Status",
+      "Vow Breaks Deal",
+      "Timing Paradox",
+      "Obligation Crisis",
+      "Public Knowledge",
+      "Tolerance Limit",
+      "Arusa Not Obligated",
+      "Year Passes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 13,
+      "confidence": "high",
+      "reason": "The passage explains why thirty days is the threshold \u2014 people haven't heard about it yet so it's not demeaning \u2014 which matches exactly the prose of candidate 13 ('Public Knowledge'), not candidate 14 where it currently sits.",
+      "chosen_heading": "Public Knowledge",
+      "current_heading": "Tolerance Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Year Passes",
+    "candidates": [
+      "Arusa Not Obligated",
+      "Year Passes",
+      "Rabbanan Question",
+      "Rashi De'oraissa",
+      "Tosafot Ownership",
+      "Marriage Follows",
+      "Acceptance Problem",
+      "New Grievance",
+      "Known Expense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the 'if you wish say' alternative that the neder was taken when she was an arusa, then clarifies the betrothal sustenance question by referencing the mishna about the time arriving \u2014 this is precisely the content described in candidate 0's prose about the arusa explanation, while candidate 1's prose discusses the consequence/mechanism of that ruling rather than the gemara's initial proposal and clarification.",
+      "chosen_heading": "Arusa Not Obligated",
+      "current_heading": "Year Passes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Known Expense",
+    "candidates": [
+      "Rabbanan Question",
+      "Rashi De'oraissa",
+      "Tosafot Ownership",
+      "Marriage Follows",
+      "Acceptance Problem",
+      "New Grievance",
+      "Known Expense",
+      "Shliach Problem",
+      "Announcement Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Announcement Method",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 explains why the agent carries out his agency within thirty days, which belongs with the parnas/shliach mechanism discussion in the Announcement Method section.",
+      "second_heading": "Known Expense",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the betrothal-then-marriage scenario, the 'I thought I could accept' argument, and its rejection for mezonot versus mumim, which is precisely what the 'Known Expense' prose describes.",
+      "current_heading": "Known Expense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Announcement Method",
+    "candidates": [
+      "Shliach Problem",
+      "Announcement Method",
+      "Specific Person"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the *shliach* problem (ufarnas lav shlichusei ka-avid) and Rav Huna's answer together as a unit, and candidate 0's prose ('Shliach Problem') explicitly frames this as the gemara raising the agency objection and introducing the parnas mechanism \u2014 the passage belongs under that heading rather than under 'Announcement Method' which covers the subsequent gemara challenge to Rav Huna's answer.",
+      "chosen_heading": "Shliach Problem",
+      "current_heading": "Announcement Method",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142
+    ],
+    "current_heading": "Specific Person",
+    "candidates": [
+      "Announcement Method",
+      "Specific Person",
+      "Fire Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous challenge-and-refutation sequence about whether the 'kol hazan' formula creates shlichut, which is precisely what candidate 0's prose describes \u2014 the gemara challenges whether this announcement avoids shlichut (item 1, using the pit/get mishna as a comparand) and then resolves it by distinguishing 'yichtov' (directive) from 'kol hazan' (descriptive promise), exactly matching candidate 0's detailed discussion of that verb distinction.",
+      "chosen_heading": "Announcement Method",
+      "current_heading": "Specific Person",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146
+    ],
+    "current_heading": "Fire Exception",
+    "candidates": [
+      "Fire Exception",
+      "World Announcement",
+      "Grocer Scenario",
+      "Grocer Demands",
+      "Generic Distress",
+      "Specific to Grocer",
+      "Whole World OK"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fire Exception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is a Gemara exchange about the fire (deleika) case \u2014 questioning whether Rabbi Ami's ruling excludes a case like this one, then resolving it refers only to other Shabbat prohibitions \u2014 which directly belongs under the 'Fire Exception' heading discussing the deleika permissibility.",
+      "second_heading": "Grocer Scenario",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabba's objection from the Nedarim mishna about the man prohibited by vow from benefiting another, introducing the grocer scenario, which matches the 'Grocer Scenario' heading's prose about the neder case with the chanvani.",
+      "current_heading": "Fire Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Whole World OK",
+    "candidates": [
+      "World Announcement",
+      "Grocer Scenario",
+      "Grocer Demands",
+      "Generic Distress",
+      "Specific to Grocer",
+      "Whole World OK",
+      "Combo Problematic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage explains that 'kol hazan eino mafsid' said to the world at large is obviously permitted, and the chiddush is that even saying it specifically to the regular grocer is also permitted since no explicit command was issued \u2014 which is exactly what the 'Whole World OK' prose describes.",
+      "chosen_heading": "Whole World OK",
+      "current_heading": "Whole World OK",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,567 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Proof of Event",
+    "candidates": [
+      "Mishna Overview",
+      "Proof of Event",
+      "Eidim Mibachutz",
+      "Types of Witnesses",
+      "Location Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'beino l'veinah mi yadeinan' and gives Shmuel's answer about witnesses from outside \u2014 this is precisely the content described in the 'Proof of Event' prose, which poses the same question about how we know the private act occurred and anticipates exactly this answer.",
+      "chosen_heading": "Proof of Event",
+      "current_heading": "Proof of Event",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Location Dispute",
+    "candidates": [
+      "Eidim Mibachutz",
+      "Types of Witnesses",
+      "Location Dispute",
+      "Tosafot Analysis",
+      "Secret Message",
+      "Chalitza Mutat",
+      "Reish Lakish's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the dilemma about whether the chalitza occurred in prison or outside and whether it came before Rabbi Akiva in prison, which is precisely what the 'Location Dispute' section's prose describes.",
+      "chosen_heading": "Location Dispute",
+      "current_heading": "Location Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Reish Lakish's View",
+    "candidates": [
+      "Tosafot Analysis",
+      "Secret Message",
+      "Chalitza Mutat",
+      "Reish Lakish's View",
+      "Rabbi Yochanan",
+      "Money Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita introducing 'chalitza mutat keshera' and Reish Lakish's definition, which matches the 'Chalitza Mutat' section's prose describing exactly this baraita and its question \u2014 the current placement under 'Reish Lakish's View' splits what belongs together under the introductory heading.",
+      "chosen_heading": "Chalitza Mutat",
+      "current_heading": "Reish Lakish's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Money Condition",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Money Condition",
+      "Woman's Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yochanan",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yochanan's objection about mutual intent being required, which is exactly what the 'Rabbi Yochanan' prose describes.",
+      "second_heading": "Money Condition",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the resolution (chalitza on condition of two hundred dinars) and the corroborating baraita, matching the 'Money Condition' prose precisely.",
+      "current_heading": "Money Condition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Woman's Story",
+    "candidates": [
+      "Woman's Story",
+      "Conditions Logic",
+      "Rav Chaim",
+      "Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact incident (woman before an unsuitable yavam, condition of 200 zuz, case validated by Rabbi \u1e24iyya) that the 'Woman's Story' section's prose is discussing, making it the clear home \u2014 though the prose incorrectly attributes the ruling to Rabbi Akiva rather than Rabbi \u1e24iyya.",
+      "chosen_heading": "Woman's Story",
+      "current_heading": "Woman's Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Setup",
+    "candidates": [
+      "Conditions Logic",
+      "Rav Chaim",
+      "Setup",
+      "First Trick",
+      "Invalid Chalitza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage depicts the woman's interaction with Rabbi \u1e24iyya bar Abba where she indicates the yavam is after her money, which matches exactly the 'Setup' prose describing the case introduced by the Gemara involving Rabbi Chiya bar Abba and the woman's mother signaling his monetary motives.",
+      "chosen_heading": "Setup",
+      "current_heading": "Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Invalid Chalitza",
+    "candidates": [
+      "First Trick",
+      "Invalid Chalitza",
+      "Money-Seeker"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Invalid Chalitza' section's prose discusses: the first defective chalitza, Rabbi Chiya's confrontation of the yavam explaining it disqualifies yibum, and his urging of a proper second chalitza (chalitza ma'alyasa).",
+      "chosen_heading": "Invalid Chalitza",
+      "current_heading": "Invalid Chalitza",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Money-Seeker",
+    "candidates": [
+      "Money-Seeker",
+      "Money Trick",
+      "Abaye's Trick",
+      "Rav Papa",
+      "Payment Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly what Candidate 2's prose discusses: Abaye proposing the chalitza-and-marriage deception, and Rav Papa immediately challenging him with Rabbi Yochanan's ruling.",
+      "chosen_heading": "Abaye's Trick",
+      "current_heading": "Money-Seeker",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Payment Dispute",
+    "candidates": [
+      "Money Trick",
+      "Abaye's Trick",
+      "Rav Papa",
+      "Payment Dispute",
+      "River Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 3's prose discusses: after the \u1e25alitza was completed, Abaye told the woman to pay, and Rav Papa responded that she can invoke 'meshata ani bach' \u2014 I was fooling you \u2014 to avoid payment.",
+      "chosen_heading": "Payment Dispute",
+      "current_heading": "Payment Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "River Story",
+    "candidates": [
+      "River Story",
+      "Death Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the prison-escapee baraita and the meshata ni bach conclusion that Rav Papa's 'River Story' prose explicitly describes as its core content.",
+      "chosen_heading": "River Story",
+      "current_heading": "River Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Death Curse",
+    "candidates": [
+      "Death Curse",
+      "Fee Conditions",
+      "Tricked Status",
+      "Conditional Acts",
+      "Forced Acts",
+      "Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye asking about Rav Pappa's parents and then setting his gaze upon them causing their deaths, which directly matches the 'Death Curse' section's prose about this exact incident.",
+      "chosen_heading": "Death Curse",
+      "current_heading": "Death Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Difference",
+    "candidates": [
+      "Fee Conditions",
+      "Tricked Status",
+      "Conditional Acts",
+      "Forced Acts",
+      "Difference",
+      "Korban Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the Gemara's question about the asymmetry between chalitza and get regarding coercion (rotzeh ani) and the baraita's resolution distinguishing always-valid/always-invalid from sometimes-valid cases \u2014 which is precisely what the 'Difference' section's prose describes.",
+      "chosen_heading": "Difference",
+      "current_heading": "Difference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Korban Parallel",
+    "candidates": [
+      "Korban Parallel",
+      "Willingness Principle",
+      "Motivation vs Desire",
+      "Rav's View",
+      "Document Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Korban Parallel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about korban/get coercion that anchors the 'kofin oto' principle, which is exactly what the 'Korban Parallel' prose describes.",
+      "second_heading": "Rav's View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava-Rav Sechora-Rav Huna's ruling about chalitza/mi'un without recognition, which matches the 'Rav's View' prose describing that exact chain and ruling.",
+      "current_heading": "Korban Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Document Rules",
+    "candidates": [
+      "Willingness Principle",
+      "Motivation vs Desire",
+      "Rav's View",
+      "Document Rules",
+      "Future Courts",
+      "Rava's View",
+      "Safe Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rule that witnesses cannot write a document of chalitza or mi'un unless they recognize the parties, due to concern for a mistaken court \u2014 which matches exactly the prose of 'Document Rules' (candidate 3).",
+      "chosen_heading": "Document Rules",
+      "current_heading": "Document Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Safe Documents",
+    "candidates": [
+      "Future Courts",
+      "Rava's View",
+      "Safe Documents",
+      "Initial Advice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's strict rule ('ein choltzin ela im ken makirim') and its documentary consequence, but the current placement under 'Safe Documents' splits the content that properly belongs under 'Rava's View,' which explicitly discusses Rava's own position including the exact phrase ein choltzin ela im ken makirim \u2014 the documentary consequence is presented within Rava's own statement and flows naturally under that heading.",
+      "chosen_heading": "Rava's View",
+      "current_heading": "Safe Documents",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Initial Advice",
+    "candidates": [
+      "Safe Documents",
+      "Initial Advice",
+      "Woman Declares",
+      "Man Declares",
+      "Shoe Removal",
+      "Spitting",
+      "Final Verses",
+      "Horkanus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the full Mishna describing the chalitza ceremony from beginning (beit din gives advice) through the recitations, shoe removal, spitting, and final verse \u2014 all of which the 'Initial Advice' section's prose explicitly introduces as 'the complete chalitza ceremony step by step,' making it the best single home for the entire Mishna passage.",
+      "chosen_heading": "Initial Advice",
+      "current_heading": "Initial Advice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Horkanus",
+    "candidates": [
+      "Woman Declares",
+      "Man Declares",
+      "Shoe Removal",
+      "Spitting",
+      "Final Verses",
+      "Horkanus",
+      "Who Declares",
+      "Woman's Recitation",
+      "Lo Aba Yibmi"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Horkanus",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Rabbi Horkanus completing the full passage and the dispute about who declares 'beit chalutz hana'al' (judges vs. all present), which matches the 'Horkanus' section's prose exactly (including the 'Who Declares' content that flows directly from it).",
+      "second_heading": "Shoe Removal",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the opening Gemara discussing the order of \u1e25alitza acts (recitation, shoe removal, spitting) and whether switching the order invalidates the ceremony, which matches the 'Shoe Removal' section's structural placement discussing the sequence of the ceremony components.",
+      "current_heading": "Horkanus",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Lo Aba Yibmi",
+    "candidates": [
+      "Who Declares",
+      "Woman's Recitation",
+      "Lo Aba Yibmi",
+      "Lo Chafatzti",
+      "Rava Lenient",
+      "Exception",
+      "Care Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together cover Abaye's ruling about not pausing mid-verse (lo/aba yibmi and lo/chafatzti) plus Rava's lenient response \u2014 all of which is introduced by candidate 1's prose about the person conducting chalitza being careful not to have parties recite words with misleading pauses, making it the best single home for the entire passage.",
+      "chosen_heading": "Woman's Recitation",
+      "current_heading": "Lo Aba Yibmi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Care Story",
+    "candidates": [
+      "Lo Chafatzti",
+      "Rava Lenient",
+      "Exception",
+      "Care Story",
+      "Fragment Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi finding Rav Kahana painstakingly prompting the yevama to say 'lo aba yibmi' as one phrase and questioning whether he holds Rava's lenient view, which matches exactly the 'Care Story' prose describing this same scene.",
+      "chosen_heading": "Care Story",
+      "current_heading": "Care Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Fragment Rule",
+    "candidates": [
+      "Fragment Rule",
+      "Sirtuv Issue",
+      "Man's Verse",
+      "Woman's Verses",
+      "Mar Zutra",
+      "Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's ruling on how to write the bill of \u1e25alitza with the specific textual divisions, which is exactly what the 'Fragment Rule' section's prose describes.",
+      "chosen_heading": "Fragment Rule",
+      "current_heading": "Fragment Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155
+    ],
+    "current_heading": "Objection",
+    "candidates": [
+      "Sirtuv Issue",
+      "Man's Verse",
+      "Woman's Verses",
+      "Mar Zutra",
+      "Objection",
+      "Resolution",
+      "Wind Effect",
+      "Presence",
+      "Height Factor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both Mar Zutra's practice of scoring and writing the full parasha AND Mar bar Idi's objection AND the halakhic ruling, all of which together match heading 3 ('Mar Zutra') whose prose explicitly describes Mar Zutra's practice, while headings 4 and 5 split the objection and resolution artificially \u2014 the single Talmudic excerpt belongs under the heading that introduces Mar Zutra's practice.",
+      "chosen_heading": "Mar Zutra",
+      "current_heading": "Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      165
+    ],
+    "current_heading": "Height Factor",
+    "candidates": [
+      "Resolution",
+      "Wind Effect",
+      "Presence",
+      "Height Factor",
+      "Front of Face",
+      "Eating Effect",
+      "Own Accord",
+      "Judge Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Abaye's ruling about wind seizing the spit (the core 'Wind Effect' topic) and then continues into the height factor details \u2014 all of this flows from the single Abaye statement, which is introduced and summarized under heading 1 ('Wind Effect'), making that the natural home for the entire unified Talmudic passage.",
+      "chosen_heading": "Wind Effect",
+      "current_heading": "Height Factor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      174
+    ],
+    "current_heading": "Judge Witness",
+    "candidates": [
+      "Front of Face",
+      "Eating Effect",
+      "Own Accord",
+      "Judge Witness",
+      "Name Change",
+      "Declaration Role",
+      "Tarfon Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage covers both the garlic/clay spitting rule (Eating Effect) and the judges witnessing requirement, but since 'Eating Effect' introduces Rava's statement and the current placement at 'Judge Witness' only covers the second ruling, the passage actually spans both headings 1-3; however, since items 1 and 2 ('Eating Effect' and 'Own Accord') together with 'Judge Witness' all derive from this single Talmudic passage, and the essay has split the content across multiple sections, the passage as a whole is best placed at the start of this sequence under 'Eating Effect' (index 1) where Rava's statement begins.",
+      "chosen_heading": "Eating Effect",
+      "current_heading": "Judge Witness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      182,
+      183
+    ],
+    "current_heading": "Tarfon Story",
+    "candidates": [
+      "Name Change",
+      "Declaration Role",
+      "Tarfon Story",
+      "Perek End"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Declaration Role",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both the mishna ruling about judges vs. students and Rabbi Yehuda's baraita about Rabbi Tarfon, which together form the content discussed under 'Declaration Role' (mitzvah b'dayanim velo b'talmidim plus the Tarfon story as elaboration of that same ruling).",
+      "second_heading": "Perek End",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the hadran closing formula marking the end of the perek, which matches 'Perek End' exactly.",
+      "current_heading": "Tarfon Story",
+      "moved": true
+    }
+  }
+]

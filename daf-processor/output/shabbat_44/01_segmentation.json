@@ -160,7 +160,7 @@
         }
       ],
       "sefaria_index": 3,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Gemara's Debate on Lamp Burning Status and Its Duration (continued)",
@@ -179,7 +179,7 @@
         }
       ],
       "sefaria_index": 3,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Abaye's Analysis: Distinguishing Son from Father",
@@ -690,5 +690,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "44:06",
+  "amud_b_micro_title": "R. Nachman Q",
+  "shiur_start_daf": 44,
+  "shiur_start_amud": "a"
 }

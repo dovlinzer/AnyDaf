@@ -1,0 +1,615 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Three Opinions",
+    "candidates": [
+      "Three Opinions",
+      "Rabbi Akiva's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All 11 items form a continuous Gemara discussion about whether the blood of an asham is presented above or below the red line, directly elaborating on the dispute between Rabbi Eliezer, Rabbi Yehoshua, and the other opinions introduced under 'Three Opinions,' making the current placement the best available match even though the prose there focuses on the initial dispute rather than this extended dialectic.",
+      "chosen_heading": "Three Opinions",
+      "current_heading": "Three Opinions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Rabbi Akiva's Logic",
+    "candidates": [
+      "Rabbi Akiva's Logic",
+      "Rabbis vs. R. Eliezer",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The passage addresses a Gemara answer/resolution (excluding bird offerings from slaughter-based generalizations) and then introduces Rabbi Elazar son of Rabbi Shimon's position distinguishing placement locations for bird burnt offerings vs. animal sin offerings \u2014 this fits best under 'Rava's Answer' as part of the broader resolution sequence, better than Rabbi Akiva's Logic which concerns the double-plural derivation.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rabbi Akiva's Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Rabbis vs. R. Eliezer",
+      "Rava's Answer",
+      "Failed Kal va-Chomer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbis vs. R. Eliezer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnaic citation presenting the dispute between Rabbi Akiva, the Rabbis, and Rabbi Eliezer \u2014 exactly what heading 0 ('Rabbis vs. R. Eliezer') describes as its content.",
+      "second_heading": "Rava's Answer",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20134 present the Gemara's question about the Rabbis' reason and Rava's kal vachomer answer, which is precisely what heading 1 ('Rava's Answer') and heading 2 ('Failed Kal va-Chomer') describe, with the current placement under heading 1 being correct as it introduces Rava's reasoning.",
+      "current_heading": "Rava's Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Failed Kal va-Chomer",
+    "candidates": [
+      "Failed Kal va-Chomer",
+      "Refuting Olah Logic",
+      "Meal Offering Attempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'mah l'olah sheken einah mechaperet' refutation, which is precisely what the 'Refuting Olah Logic' section's prose describes and discusses.",
+      "chosen_heading": "Refuting Olah Logic",
+      "current_heading": "Failed Kal va-Chomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Meal Offering Attempt",
+    "candidates": [
+      "Refuting Olah Logic",
+      "Meal Offering Attempt",
+      "Kal va-Chomer Fails",
+      "Holiness Level"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the Gemara's attempt to use the minchat choteh as a proof, the brief consideration and rejection of the chatat ha'of, and the refutation of the minchat choteh analogy \u2014 exactly what the 'Meal Offering Attempt' prose describes.",
+      "chosen_heading": "Meal Offering Attempt",
+      "current_heading": "Meal Offering Attempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Holiness Level",
+    "candidates": [
+      "Kal va-Chomer Fails",
+      "Holiness Level",
+      "Asham Classification",
+      "Asham's Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly describes the tzad hashaveh argument \u2014 the common element of kodshei kodashim shared by olah and chatat leading to the inference about asham \u2014 which is precisely what the 'Holiness Level' section's prose describes.",
+      "chosen_heading": "Holiness Level",
+      "current_heading": "Holiness Level",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Asham's Minimum",
+    "candidates": [
+      "Asham Classification",
+      "Asham's Minimum",
+      "Damah Pronoun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rava of Barnish's refutation about the asham having a fixed value (kitzvah), which is precisely what the prose under 'Asham's Minimum' describes and analyzes.",
+      "chosen_heading": "Asham's Minimum",
+      "current_heading": "Asham's Minimum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Damah Pronoun",
+    "candidates": [
+      "Damah Pronoun",
+      "R. Eliezer's Read",
+      "Rabbis' Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states the Rabbis' reason as 'damah shel zu v'lo damah shel acher' \u2014 the blood of this offering and not another's \u2014 which is precisely what the 'Damah Pronoun' section's prose describes.",
+      "chosen_heading": "Damah Pronoun",
+      "current_heading": "Damah Pronoun",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Rabbis' Limit",
+    "candidates": [
+      "R. Eliezer's Read",
+      "Rabbis' Limit",
+      "R. Eliezer Differs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Eliezer's Read",
+      "first_confidence": "high",
+      "first_reason": "Item 1 states that Rabbi Eliezer derives from 'damah' that blood (not flesh) is disqualified \u2014 exactly what heading 0 ('R. Eliezer's Read') describes.",
+      "second_heading": "Rabbis' Limit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains how the Rabbis derive both the blood/flesh restriction and the limitation to chatat from 'dam...damah' \u2014 exactly what heading 1 ('Rabbis' Limit') describes.",
+      "current_heading": "Rabbis' Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "R. Eliezer Differs",
+    "candidates": [
+      "R. Eliezer Differs",
+      "Asham Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Rabbi Eliezer not interpreting the 'dam'/'damah' redundancy, which matches perfectly with the prose under 'R. Eliezer Differs' explaining that he treats 'damah' as grammatically necessary rather than as an amplification.",
+      "chosen_heading": "R. Eliezer Differs",
+      "current_heading": "R. Eliezer Differs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Asham Intent",
+    "candidates": [
+      "Asham Intent",
+      "Mincha Dual Nature"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabbis' position on an asham slaughtered shelo lishmo being kasher and how this explains the juxtaposition of minchah with both chatat and asham, which exactly matches the 'Asham Intent' prose.",
+      "chosen_heading": "Asham Intent",
+      "current_heading": "Asham Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Mincha Dual Nature",
+    "candidates": [
+      "Mincha Dual Nature",
+      "Rabbi Shimon Quote",
+      "Two Mincha Types",
+      "Blood Services",
+      "Mincha Parallels",
+      "Kemitza Role",
+      "Kli Sharet Need",
+      "Kodesh Kodashim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items revolve around Rabbi Shimon's derivation from the verse 'kodesh kodashim hi kachatat v'ka'asham' \u2014 item 1 is the baraita stating the verse and its two teachings, item 2 asks what the juxtaposition teaches according to Rabbi Eliezer, and item 3 answers that it teaches Rabbi Shimon's ruling about shelo bichli sharet \u2014 all of which is precisely what candidate 7 ('Kodesh Kodashim') describes.",
+      "chosen_heading": "Kodesh Kodashim",
+      "current_heading": "Mincha Dual Nature",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Kodesh Kodashim",
+    "candidates": [
+      "Rabbi Shimon Quote",
+      "Two Mincha Types",
+      "Blood Services",
+      "Mincha Parallels",
+      "Kemitza Role",
+      "Kli Sharet Need",
+      "Kodesh Kodashim",
+      "Hand Distinction",
+      "Dual Extraction",
+      "Purpose Requirement",
+      "Specificity from 'Hi'"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yehuda son of Rabbi \u1e24iyya's explanation of Rabbi Shimon's reasoning from the verse 'kodesh kodashim hi kachatat v'ka'asham,' which is precisely what the 'Kodesh Kodashim' section's prose describes.",
+      "chosen_heading": "Kodesh Kodashim",
+      "current_heading": "Kodesh Kodashim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Specificity from 'Hi'",
+    "candidates": [
+      "Hand Distinction",
+      "Dual Extraction",
+      "Purpose Requirement",
+      "Specificity from 'Hi'",
+      "Chatat Parallel",
+      "Hekesh Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items address the question of how Rabbi Shimon can derive two different rulings from a single verse, which is precisely the 'Dual Extraction' section's topic \u2014 the Gemara challenges the dual use and then resolves it by explaining that the verse's primary purpose is Rav Yehuda's teaching while the minchat choteh's disqualification derives independently from the word 'hi', exactly what the Dual Extraction prose describes.",
+      "chosen_heading": "Dual Extraction",
+      "current_heading": "Specificity from 'Hi'",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Hekesh Logic",
+    "candidates": [
+      "Chatat Parallel",
+      "Hekesh Logic",
+      "Yosef & R. Eliezer",
+      "Yochanan Expansion",
+      "Raba's Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Rabbis' use of the hekesh between asham and chatat for the purpose of semikhah, which is precisely what the 'Hekesh Logic' prose describes.",
+      "chosen_heading": "Hekesh Logic",
+      "current_heading": "Hekesh Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Raba's Limit",
+    "candidates": [
+      "Yosef & R. Eliezer",
+      "Yochanan Expansion",
+      "Raba's Limit",
+      "Baraita Setup"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yochanan Expansion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yochanan's statement that Yosef ben Choni and Rabbi Eliezer said the same thing, which is exactly what the 'Yochanan Expansion' prose describes.",
+      "second_heading": "Raba's Limit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Raba's qualification that they disagree regarding other offerings slaughtered for the sake of a chatat, which is precisely what the 'Raba's Limit' prose discusses.",
+      "current_heading": "Raba's Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Baraita Setup",
+    "candidates": [
+      "Baraita Setup",
+      "Three Categories",
+      "Yehoshua's Kal",
+      "Eliezer's Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself presenting both cases and the dispute between Rabbi Eliezer and Rabbi Yehoshua, which is exactly what the 'Baraita Setup' prose describes.",
+      "chosen_heading": "Baraita Setup",
+      "current_heading": "Baraita Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Eliezer's Counter",
+    "candidates": [
+      "Three Categories",
+      "Yehoshua's Kal",
+      "Eliezer's Counter",
+      "Yehoshua Responds",
+      "One-Way Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yehoshua's Kal",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 contain Rabbi Yehoshua's kal vachomer and Rabbi Eliezer's counter-kal vachomer (showing the absurd result), which is exactly what heading 1 ('Yehoshua's Kal') and heading 2 ('Eliezer's Counter') together cover \u2014 but items 1\u20132 form the core exchange described under heading 1 and 2, and since they must go under ONE heading, heading 1 introduces Yehoshua's kal and heading 2 covers Eliezer's refutation, so items 1\u20132 best sit under heading 2 ('Eliezer's Counter') which explicitly describes both moves.",
+      "second_heading": "Yehoshua Responds",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20134 are Rabbi Eliezer's structural refutation of Yehoshua's logic and Yehoshua's rejoinder that Eliezer has diminished the pesach, which matches heading 3 ('Yehoshua Responds') precisely.",
+      "current_heading": "Eliezer's Counter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133,
+      134
+    ],
+    "current_heading": "One-Way Logic",
+    "candidates": [
+      "Yehoshua Responds",
+      "One-Way Logic",
+      "Chatat-Olah",
+      "Time-Specific Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "One-Way Logic",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Eliezer's one-way logic argument about pesach/shelamim surplus, which is precisely what the 'One-Way Logic' prose describes.",
+      "second_heading": "Chatat-Olah",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rabbi Yehoshua's counter-argument using the chatat-olah parallel, which is exactly what the 'Chatat-Olah' prose describes.",
+      "current_heading": "One-Way Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Time-Specific Rule",
+    "candidates": [
+      "Chatat-Olah",
+      "Time-Specific Rule",
+      "Hierarchy Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Eliezer's argument distinguishing the chatat (valid all year) from the pesach (valid only at its designated time), which is precisely what the 'Time-Specific Rule' prose describes.",
+      "chosen_heading": "Time-Specific Rule",
+      "current_heading": "Time-Specific Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Hierarchy Rule",
+    "candidates": [
+      "Hierarchy Rule",
+      "Desecration Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna teaching of Shimon brother of Azarya and his hierarchy rule, which directly matches the 'Hierarchy Rule' section's prose about this exact position.",
+      "chosen_heading": "Hierarchy Rule",
+      "current_heading": "Hierarchy Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Desecration Verse",
+    "candidates": [
+      "Desecration Verse",
+      "Shmuel's Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav Ashi/Rav Acha transmission of Shimon achi Azariah's reason derived from the 'desecration verse,' which is precisely what the prose of heading 0 describes, including the explicit mention of both transmitters and the muram/namuch interpretation.",
+      "chosen_heading": "Desecration Verse",
+      "current_heading": "Desecration Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150
+    ],
+    "current_heading": "Shmuel's Use",
+    "candidates": [
+      "Shmuel's Use",
+      "Tense Lesson",
+      "Zeira's Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's challenge-and-resolution about the verb tense (*yarimu* vs. *hurmu*) yielding two teachings \u2014 exactly what 'Tense Lesson' describes with its *shema mina tartei* conclusion, whereas 'Shmuel's Use' covers only the setup (Shmuel's derivation and the question of how one verse can serve both purposes).",
+      "chosen_heading": "Tense Lesson",
+      "current_heading": "Shmuel's Use",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      156,
+      157,
+      158,
+      159
+    ],
+    "current_heading": "Zeira's Query",
+    "candidates": [
+      "Tense Lesson",
+      "Zeira's Query",
+      "Two Positions",
+      "Bechor Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Zeira's Query",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly address Rabbi Zeira's dilemma about whether Shimon holds kasher v'ein mirtzin or kasher u'mirtzin, matching heading 1 'Zeira's Query' which explicitly describes this exact question.",
+      "second_heading": "Bechor Example",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Abaye's ta shema from the bechor/ma'aser case and the Gemara's response, which matches heading 3 'Bechor Example' whose prose explicitly describes Abaye/Rabbi Zrika bringing this proof from the firstborn and tithe animal case.",
+      "current_heading": "Zeira's Query",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      164
+    ],
+    "current_heading": "Bechor Example",
+    "candidates": [
+      "Two Positions",
+      "Bechor Example",
+      "Reverse Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question about redundancy between the two clauses of the mishnah \u2014 specifically asking what the bechor/ma'aser clause adds beyond what the higher/lower sanctity clause already teaches \u2014 which directly corresponds to the 'Reverse Invalid' section's discussion of the Gemara's interrogation of the bechor example and its implications.",
+      "chosen_heading": "Reverse Invalid",
+      "current_heading": "Bechor Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      167
+    ],
+    "current_heading": "Reverse Invalid",
+    "candidates": [
+      "Reverse Invalid",
+      "Hierarchy Only",
+      "Shelamim Priority",
+      "Shelamim Services"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage addresses why the mishnah includes the case of bechor/ma'aser slaughtered for shelamim \u2014 to clarify that the hierarchy rule applies even between two offerings of lesser sanctity \u2014 which directly fits the 'Hierarchy Only' section discussing how the hierarchy rule governs kashrus distinctions.",
+      "chosen_heading": "Hierarchy Only",
+      "current_heading": "Reverse Invalid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      175
+    ],
+    "current_heading": "Shelamim Services",
+    "candidates": [
+      "Hierarchy Only",
+      "Shelamim Priority",
+      "Shelamim Services",
+      "Hierarchy Primary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's objection citing the mishnah that shelamim precede bechor, which matches the 'Shelamim Priority' prose describing exactly this \u2014 the Gemara raising another mishnah teaching that shelamim take precedence over bechor and ma'aser because shelamim require additional services.",
+      "chosen_heading": "Shelamim Priority",
+      "current_heading": "Shelamim Services",
+      "moved": true
+    }
+  }
+]

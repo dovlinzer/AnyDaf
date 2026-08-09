@@ -1,0 +1,304 @@
+[
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Tosafot",
+    "candidates": [
+      "Ben Tema",
+      "Chachamim Dispute",
+      "Kvua Lo Zman",
+      "Ben Dortai",
+      "Three Korbanot",
+      "Olat Re'iyah",
+      "Chagigah Offering",
+      "Shlamei Simcha",
+      "Korban Shutafin",
+      "Ulla/R. Elazar",
+      "Zvicha B'Sha'at Simcha",
+      "Davar Shebechova",
+      "Simcha Exception",
+      "Tosafot",
+      "V'Hayita Ach Samei'ach",
+      "Ach Division",
+      "Last Night Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage quotes Ulla citing Rabbi Elazar that shlamim slaughtered on erev Yom Tov fulfills neither simcha nor chagigah, which is precisely what heading 9 ('Ulla/R. Elazar') describes in its prose.",
+      "chosen_heading": "Ulla/R. Elazar",
+      "current_heading": "Tosafot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Last Night Reason",
+    "candidates": [
+      "V'Hayita Ach Samei'ach",
+      "Ach Division",
+      "Last Night Reason",
+      "Daytime Focus"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "V'Hayita Ach Samei'ach",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita's derivation from 've-hayita ach same'ach' including the last night of the Festival, which is exactly what heading 0 ('V'Hayita Ach Samei'ach') describes \u2014 the verse extending simcha to the night of Shemini Atzeret.",
+      "second_heading": "Last Night Reason",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks why the last night is preferred over the first and answers 'because he has nothing with which to rejoice' on the first night, which is precisely what heading 2 ('Last Night Reason') discusses \u2014 the reasoning that excludes the first night due to lack of available korbanot.",
+      "current_heading": "Last Night Reason",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Daytime Focus",
+    "candidates": [
+      "Daytime Focus",
+      "Rashi/Tosafot",
+      "14th Chagigah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the gemara's rejection of the proposed support and the baraita's own reasoning about including the last night because simcha precedes it, which is precisely what the 'Daytime Focus' prose describes and analyzes.",
+      "chosen_heading": "Daytime Focus",
+      "current_heading": "Daytime Focus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "14th Chagigah",
+    "candidates": [
+      "Rashi/Tosafot",
+      "14th Chagigah",
+      "Zvicha Timing",
+      "Rav Idi Bar Avin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's objection about the fourteenth's chagigah fulfilling simcha but not chagigah, which is exactly what the '14th Chagigah' section's prose describes \u2014 the mativ Rav Yosef challenge and the baraita about the chagigah of the fourteenth.",
+      "chosen_heading": "14th Chagigah",
+      "current_heading": "14th Chagigah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rav Idi Bar Avin",
+    "candidates": [
+      "Zvicha Timing",
+      "Rav Idi Bar Avin",
+      "Rava Objection",
+      "Shabbat Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's corroboration (hachi nami mistabra) of Rav Idi bar Avin's resolution, and the prose of candidate 1 explicitly describes and discusses Rav Ashi's argument about Ben Tema and the baraita referring to slaughter on the fifteenth.",
+      "chosen_heading": "Rav Idi Bar Avin",
+      "current_heading": "Rav Idi Bar Avin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Shabbat Problem",
+    "candidates": [
+      "Rava Objection",
+      "Shabbat Problem",
+      "Se'ir Chatat",
+      "Two Objections"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's objection about hallel and simcha spanning eight days versus only seven when the first day falls on Shabbat, plus Rav Huna's resolution \u2014 this is the core content of the 'Rava Objection' section, not merely the Shabbat sub-problem which is already explained in that section's prose.",
+      "chosen_heading": "Rava Objection",
+      "current_heading": "Shabbat Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Two Objections",
+    "candidates": [
+      "Se'ir Chatat",
+      "Two Objections",
+      "Rav Papa",
+      "Korban Joy",
+      "Modern Practice",
+      "Context Matters",
+      "Rambam One",
+      "Rabin Report",
+      "Eating as Key",
+      "Chagigah Separate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rava's two objections to the se'ir ha-chatat proposal and Rav Papa's alternative conclusion, which is precisely what the 'Two Objections' section's prose describes.",
+      "chosen_heading": "Two Objections",
+      "current_heading": "Two Objections",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Chagigah Separate",
+    "candidates": [
+      "Rav Papa",
+      "Korban Joy",
+      "Modern Practice",
+      "Context Matters",
+      "Rambam One",
+      "Rabin Report",
+      "Eating as Key",
+      "Chagigah Separate",
+      "Rambam Ruling",
+      "Rav Kahana Q",
+      "Lo Yalin",
+      "Boker Rishon",
+      "Yosef Challeng"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the Ravin/Rabbi Elazar tradition itself, and heading 5 ('Rabin Report') is explicitly introduced as the section where 'the gemara now turns to a contrasting tradition: ki ata Rabin amar Rabbi Elazar,' which is exactly what this passage contains.",
+      "chosen_heading": "Rabin Report",
+      "current_heading": "Chagigah Separate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Yosef Challeng",
+    "candidates": [
+      "Rambam Ruling",
+      "Rav Kahana Q",
+      "Lo Yalin",
+      "Boker Rishon",
+      "Yosef Challeng",
+      "Abaye Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rambam Ruling",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the objection raised against Ravin from the baraita about 'and you shall be but joyous' and its resolution, which belongs under the Rambam/Ravin section (candidate 0) discussing simcha obligations.",
+      "second_heading": "Yosef Challeng",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are Rav Kahana's derivation about imurei chagigah being disqualified overnight and Rav Yosef's challenge to it, which is precisely what candidate 4 'Yosef Challeng' describes in its prose.",
+      "current_heading": "Yosef Challeng",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Abaye Response",
+    "candidates": [
+      "Abaye Response",
+      "Repetition",
+      "Two Chagigot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the Abaye-Rava exchange described in candidate 0's prose: Abaye's Pesach/Rabbi Elazar ben Azaryah precedent and Rava's clarification of Rav Yosef's deeper concern about 'reshit' \u2014 exactly what that section's prose discusses.",
+      "chosen_heading": "Abaye Response",
+      "current_heading": "Abaye Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Two Chagigot",
+    "candidates": [
+      "Repetition",
+      "Two Chagigot",
+      "Two-Day Problem",
+      "Neder Solution",
+      "Fourteenth Proof",
+      "Bayom Context",
+      "Default Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous baraita discussion about the Festival peace-offering of the fourteenth being eaten for two days and one night, including the two-chagigot possibility and its refutation \u2014 exactly what heading 1 ('Two Chagigot') describes in its prose.",
+      "chosen_heading": "Two Chagigot",
+      "current_heading": "Two Chagigot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Default Meaning",
+    "candidates": [
+      "Two-Day Problem",
+      "Neder Solution",
+      "Fourteenth Proof",
+      "Bayom Context",
+      "Default Meaning",
+      "Imurim Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly states the rule that 'wherever morning is written unmodified it refers to the first morning, even without the word first,' which matches precisely the 'Default Meaning' section's prose about 'ha kol heicha de-chtiv boker stam, boker rishon' and its implications.",
+      "chosen_heading": "Default Meaning",
+      "current_heading": "Default Meaning",
+      "moved": false
+    }
+  }
+]

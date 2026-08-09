@@ -1,0 +1,277 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Giddul's Regret",
+    "candidates": [
+      "Giddul's Regret",
+      "Abaye: No Gilluy",
+      "Rava: Gilluy Works",
+      "The Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Giddul's Regret",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the narrative of Giddul bar Re'ilai sending the get and saying Baruch Hatov Vehametiv, which is exactly what heading 0 ('Giddul's Regret') describes in its prose.",
+      "second_heading": "Abaye: No Gilluy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Abaye/Rava dispute over whether the get is void, and heading 1 ('Abaye: No Gilluy') is the first section that begins discussing this machloket, with Abaye's position quoted verbatim in its prose.",
+      "current_heading": "Giddul's Regret",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "The Debate",
+    "candidates": [
+      "Abaye: No Gilluy",
+      "Rava: Gilluy Works",
+      "The Debate",
+      "Forced Divorce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly identifies the crux of the Abaye-Rava dispute as whether gilui da'as is legally operative in a get, which is precisely what the 'The Debate' section's prose discusses.",
+      "chosen_heading": "The Debate",
+      "current_heading": "The Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Forced Divorce",
+    "candidates": [
+      "Forced Divorce",
+      "Rava's Inference",
+      "Active Bitul",
+      "Lashes Defense",
+      "Forced Get"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Inference",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's proof from the Rav Sheshet case, which belongs under 'Rava's Inference' where the prose explicitly discusses Rava's argument that the man's statement manifested lack of genuine desire and serves as evidence that gilui da'as is operative.",
+      "second_heading": "Active Bitul",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's reinterpretation of the Rav Sheshet case \u2014 that the man performed actual bitul and invoked Rav Sheshet's name as a cover \u2014 which matches precisely the 'Active Bitul' prose describing Abaye's complete reinterpretation and his reading that the man performed a genuine formal revocation.",
+      "current_heading": "Forced Divorce",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Forced Get",
+    "candidates": [
+      "Rava's Inference",
+      "Active Bitul",
+      "Lashes Defense",
+      "Forced Get",
+      "Formal Act",
+      "Rava's Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case of Rav Yehuda repeatedly forcing the son-in-law to authorize the get while the man kept performing bitul, culminating in the instruction to plug the witnesses' ears \u2014 which is precisely what the 'Forced Get' prose section describes.",
+      "chosen_heading": "Forced Get",
+      "current_heading": "Forced Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rava's Counter",
+    "candidates": [
+      "Formal Act",
+      "Rava's Counter",
+      "Ferry Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct response reinterpreting the running man's shout as urgency to complete the divorce rather than to abort it, which is precisely what the 'Rava's Counter' prose describes.",
+      "chosen_heading": "Rava's Counter",
+      "current_heading": "Rava's Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Ferry Case",
+    "candidates": [
+      "Ferry Case",
+      "Shmuel Ruling",
+      "Nissuin Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the ferry case itself \u2014 the man's conditional get, his arrival at the riverbank, and his call 'chazu de'asai' \u2014 which is exactly what the 'Ferry Case' prose section discusses, before Shmuel's ruling is analyzed in the next section.",
+      "chosen_heading": "Ferry Case",
+      "current_heading": "Ferry Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Nissuin Condition",
+    "candidates": [
+      "Shmuel Ruling",
+      "Nissuin Condition",
+      "Debate Applied"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel Ruling",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's response to the ferry case discussed in the 'Shmuel Ruling' prose, which explicitly quotes and analyzes 'Atu hasam levitulei gitta baei? Hasam lekiyumei tnaia ka baei.'",
+      "second_heading": "Nissuin Condition",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces an entirely new case \u2014 a man who conditioned a get on not marrying within thirty days \u2014 which is precisely the scenario described in the 'Nissuin Condition' prose.",
+      "current_heading": "Nissuin Condition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Debate Applied",
+    "candidates": [
+      "Debate Applied",
+      "Month Confusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage's specific framing \u2014 asking 'l'mai neichush lah' with the same two-part answer (ones/gilui da'as as plugta d'Abaye v'Rava) \u2014 matches the Month Confusion section's prose more precisely, as that section explicitly reproduces this identical gemara formula in context of a disputed-month case, whereas the 'Debate Applied' section discusses it more abstractly as applied analysis.",
+      "chosen_heading": "Month Confusion",
+      "current_heading": "Debate Applied",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Month Confusion",
+    "candidates": [
+      "Month Confusion",
+      "Ruled Like Abaye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact 'month confusion' case (Adar vs. Nisan) and the subsequent legal analysis about ones and gilui da'as that the prose of candidate 0 directly discusses.",
+      "chosen_heading": "Month Confusion",
+      "current_heading": "Month Confusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Ruled Like Abaye",
+    "candidates": [
+      "Ruled Like Abaye",
+      "Nachmani Etymology",
+      "Rabban Gamliel",
+      "Name Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the halakhic conclusions discussed in candidate 0's prose \u2014 ruling like Rav Na\u1e25man on bitul questions and like Na\u1e25mani (Abaye) on gilui da'as begita \u2014 matching the current placement perfectly.",
+      "chosen_heading": "Ruled Like Abaye",
+      "current_heading": "Ruled Like Abaye",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Name Problem",
+    "candidates": [
+      "Nachmani Etymology",
+      "Rabban Gamliel",
+      "Name Problem",
+      "Rav Ashi's Rule",
+      "Two-Region Case",
+      "Both Names Required",
+      "Third Place",
+      "Unknown Names"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabban Gamliel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing Rabban Gamliel's enactment, which candidate 1 ('Rabban Gamliel') explicitly discusses as the transition to the next mishna and its tikkun olam context.",
+      "second_heading": "Name Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara providing the historical backstory of the overseas communities' question to Rabban Gamliel, which is precisely what candidate 2 ('Name Problem') describes in its prose.",
+      "current_heading": "Name Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Unknown Names",
+    "candidates": [
+      "Rav Ashi's Rule",
+      "Two-Region Case",
+      "Both Names Required",
+      "Third Place",
+      "Unknown Names",
+      "Miriam vs Sarah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two-Region Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita presenting the two-region case (two wives, two names, two regions) which the prose under heading 1 ('Two-Region Case') and heading 2 ('Both Names Required') discuss \u2014 but heading 1 introduces the scenario and heading 2 discusses the both-names requirement; however the baraita as a whole unit (including the 'third place' ruling) is introduced under heading 0's prose ('tanya kevathei de-Rav Ashi') and the specific content of both-names-required matches heading 2's prose most closely, yet item 1 contains the full baraita including the third-place ruling which belongs under heading 3 \u2014 but since the prose for heading 1 explicitly says 'This is the case that makes the bedi'eved ruling explicit' and introduces the two-wife scenario, item 1 best fits heading 1.",
+      "second_heading": "Unknown Names",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's inference ('ela shema mina ha de-itchazek ha de-lo itchazek') distinguishing known from unknown names, which exactly matches the prose of heading 4 ('Unknown Names') that quotes and explains this very inference.",
+      "current_heading": "Unknown Names",
+      "moved": true
+    }
+  }
+]

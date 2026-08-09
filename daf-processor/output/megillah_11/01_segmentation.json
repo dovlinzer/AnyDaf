@@ -24,8 +24,8 @@
           "timestamp": "02:19"
         }
       ],
-      "sefaria_index": 12,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rava's Psicha: Righteous Leadership Brings Joy; Wicked Leadership Brings Mourning",
@@ -77,7 +77,7 @@
         }
       ],
       "sefaria_index": 8,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Return to Peshat Analysis: Vayehi Bimei Achashverosh and the First Pasuk Commentary",
@@ -215,8 +215,8 @@
           "timestamp": "11:12"
         }
       ],
-      "sefaria_index": 12,
-      "matched": false
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Rav's Characterization of Achashverosh: Brother of a Ruler, Cut from Same Cloth as Nevuchadnezzar",
@@ -536,8 +536,8 @@
           "timestamp": "12:31"
         }
       ],
-      "sefaria_index": 36,
-      "matched": true
+      "sefaria_index": 31,
+      "matched": false
     },
     {
       "title": "Achashverosh's Erroneous 70-Year Calculation and Preview of His Miscounting",
@@ -560,8 +560,8 @@
           "timestamp": "12:31"
         }
       ],
-      "sefaria_index": 35,
-      "matched": true
+      "sefaria_index": 31,
+      "matched": false
     },
     {
       "title": "Evil Merodach's Release of Yehoyachin: 37 Years After Exile, Confirming Belshatzar's 45-Year Count",
@@ -1170,5 +1170,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 24
+  "amud_b_sefaria_index": 24,
+  "amud_b_segment_index": 18,
+  "amud_b_timestamp": "12:31",
+  "amud_b_micro_title": "Shlomo's End",
+  "shiur_start_daf": 10,
+  "shiur_start_amud": "b"
 }

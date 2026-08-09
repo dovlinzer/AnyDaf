@@ -1,0 +1,355 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Disgusting Spit",
+    "candidates": [
+      "Rabbi Yehuda's Position",
+      "Ee Efshar Principle",
+      "Ran's Distinction",
+      "Bottle Caps Example",
+      "Disgusting Spit",
+      "Ravina's Allowance"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ran's Distinction",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 concerns repairing a bent skewer on Yom Tov \u2014 a prohibition related to fixing/repairing utensils \u2014 which fits better under a discussion of machshirei ochel nefesh and the limits of repair vs. asiyas kli (Ran's Distinction), not the muktzeh/disgust discussion of heading 4.",
+      "second_heading": "Disgusting Spit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the passage described in heading 4's prose: Rav Yehuda/Shmuel's ruling that a used roasting spit becomes muktzeh and Rav Adda bar Ahava's allowance to push it to a corner, matching the 'Disgusting Spit' section exactly.",
+      "current_heading": "Disgusting Spit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Ravina's Allowance",
+    "candidates": [
+      "Ravina's Allowance",
+      "Malkio vs Malkia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav \u1e24iyya bar Ashi/Rav Huna's condition of an olive-bulk of meat and Ravina's analogy to a thorn in the public domain, which is precisely what the 'Ravina's Allowance' prose section describes.",
+      "chosen_heading": "Ravina's Allowance",
+      "current_heading": "Ravina's Allowance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Malkio vs Malkia",
+    "candidates": [
+      "Malkio vs Malkia",
+      "Price Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the distinction between Rav Malkiyu and Rav Malkiya, which is precisely what the 'Malkio vs Malkia' section's prose addresses in detail.",
+      "chosen_heading": "Malkio vs Malkia",
+      "current_heading": "Malkio vs Malkia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Price Prohibition",
+    "candidates": [
+      "Price Prohibition",
+      "Slaughter & Divide"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah text specifically introduces the prohibition against stating a monetary price ('dinar's worth'), which is exactly what the 'Price Prohibition' section's prose discusses, not the slaughter-and-divide practice covered in the next section.",
+      "chosen_heading": "Price Prohibition",
+      "current_heading": "Price Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Slaughter & Divide",
+    "candidates": [
+      "Slaughter & Divide",
+      "Meat Cuts",
+      "Vessel Types",
+      "Rabbi Yehuda Strict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question about how to request a portion of meat without naming a price, and the regional terminology (tarta, chalka, uzya, riva) matches exactly what the 'Slaughter & Divide' prose describes as its central content.",
+      "chosen_heading": "Slaughter & Divide",
+      "current_heading": "Slaughter & Divide",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Rabbi Yehuda Strict",
+    "candidates": [
+      "Meat Cuts",
+      "Vessel Types",
+      "Rabbi Yehuda Strict",
+      "Simchas Yom Tov",
+      "Scales Lenience",
+      "Vessel Strictness",
+      "Case-Specific Approach",
+      "Mention vs. Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the Mishnah about filling vessels and the Gemara discussion of Rav Yehuda/Shmuel's interpretation, Rabbi Yehuda's stringency, and the contradiction with the balance scale ruling plus its resolution \u2014 exactly what the 'Rabbi Yehuda Strict' prose describes in detail.",
+      "chosen_heading": "Rabbi Yehuda Strict",
+      "current_heading": "Rabbi Yehuda Strict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Mention vs. Vessel",
+    "candidates": [
+      "Simchas Yom Tov",
+      "Scales Lenience",
+      "Vessel Strictness",
+      "Case-Specific Approach",
+      "Mention vs. Vessel",
+      "Wine Example",
+      "Pre-Measuring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together present Rava's alternative reading of the Mishnah (item 1), the contradiction between Rabbi Yehuda's positions (item 2), and its resolution (item 3) \u2014 exactly the content described in the 'Mention vs. Vessel' prose, which explicitly covers Rava's interpretation, Rabbi Yehuda's strictness about designated measuring vessels, and the parallel contradiction-and-resolution the Gemara runs through.",
+      "chosen_heading": "Mention vs. Vessel",
+      "current_heading": "Mention vs. Vessel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Pre-Measuring",
+    "candidates": [
+      "Wine Example",
+      "Pre-Measuring",
+      "Leftover Accumulation",
+      "Distribution to Poor"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pre-Measuring",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses Abba Shaul's pre-measuring practice and doing so on Chol HaMoed to avoid bittul Beis HaMedrash, which is exactly what the 'Pre-Measuring' prose describes.",
+      "second_heading": "Leftover Accumulation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the accumulation of hundreds of jugs of wine and oil from measurement residues, which is precisely what the 'Leftover Accumulation' prose discusses.",
+      "current_heading": "Pre-Measuring",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Distribution to Poor",
+    "candidates": [
+      "Leftover Accumulation",
+      "Distribution to Poor",
+      "Animal Feed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly continue the narrative of Abba Shaul's surplus discussion \u2014 item 1 is the exchange where the treasurers say 'you need not do this' and they reply they still don't want it, and item 2 is the treasurers' directive to use it for communal needs with Rav \u1e24isda's specification of cisterns \u2014 exactly what the 'Distribution to Poor' prose describes in detail.",
+      "chosen_heading": "Distribution to Poor",
+      "current_heading": "Distribution to Poor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Animal Feed",
+    "candidates": [
+      "Animal Feed",
+      "Professional Cooks",
+      "Flour & Challah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the animal feed ruling (koder barley) and the baker's spice measurement, and the current 'Animal Feed' prose explicitly discusses this entire Rav \u1e24isda/Rabbana Ukva teaching including both rulings, while 'Professional Cooks' prose treats the nachtom ruling as a continuation/extension rather than the primary content of this quoted passage.",
+      "chosen_heading": "Animal Feed",
+      "current_heading": "Animal Feed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Flour & Challah",
+    "candidates": [
+      "Professional Cooks",
+      "Flour & Challah",
+      "Sifting Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous dispute about measuring flour on Yom Tov for challah separation \u2014 Rav permits, Shmuel prohibits, and Abaye resolves the contradiction with the school of Shmuel's baraita \u2014 which is precisely what the 'Flour & Challah' prose describes.",
+      "chosen_heading": "Flour & Challah",
+      "current_heading": "Flour & Challah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Sifting Dispute",
+    "candidates": [
+      "Sifting Dispute",
+      "Nachman's Rebuttal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about re-sifting flour on Yom Tov with the dispute between tanna kamma and Rabbi Papeyyas/Rabbi Yehuda ben Beteira, which matches exactly the content described in the 'Sifting Dispute' prose.",
+      "chosen_heading": "Sifting Dispute",
+      "current_heading": "Sifting Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Nachman's Rebuttal",
+    "candidates": [
+      "Nachman's Rebuttal",
+      "Shinuyim Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Ravina's ruling about hand-picking vs. re-sifting, and Rava bar Rav Huna's public teaching followed by Rav Nachman's dismissive response \u2014 are explicitly described together in the prose of heading 0 ('Nachman's Rebuttal'), which is their current placement and the clearly correct home.",
+      "chosen_heading": "Nachman's Rebuttal",
+      "current_heading": "Nachman's Rebuttal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Shinuyim Practice",
+    "candidates": [
+      "Shinuyim Practice",
+      "Final Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Yosef's and Rav Ashi's wives performing re-sifting with modifications (shinuyim), which is exactly what the 'Shinuyim Practice' section's prose discusses.",
+      "chosen_heading": "Shinuyim Practice",
+      "current_heading": "Shinuyim Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Final Mishnah",
+    "candidates": [
+      "Final Mishnah",
+      "Gemara Expansion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text about going to a familiar grocer and counting eggs and nuts, which directly corresponds to the 'Final Mishnah' section's prose discussion of that exact Mishnah.",
+      "chosen_heading": "Final Mishnah",
+      "current_heading": "Final Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Gemara Expansion",
+    "candidates": [
+      "Gemara Expansion",
+      "Numbers Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Gemara Expansion",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain the baraita about going to familiar suppliers (shepherd, butcher, baker, grocer) and the closing principle about not mentioning measures, which is exactly what candidate 0 ('Gemara Expansion') discusses in its prose.",
+      "second_heading": "Numbers Principle",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is 'Hadran alach Ein Tzadin,' the closing formula marking the end of the perek, which is explicitly mentioned at the end of candidate 1 ('Numbers Principle') prose: 'With this principle, the third perek concludes. Hadran alach Ein Tzadin.'",
+      "current_heading": "Gemara Expansion",
+      "moved": true
+    }
+  }
+]

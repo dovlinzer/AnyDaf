@@ -1,0 +1,262 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "David's Claim",
+    "candidates": [
+      "Intro: Toein & Migo",
+      "Migo Definition",
+      "David's Claim",
+      "Rava's Migo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together describe the case of competing ancestral claims with chazakah witnesses and then Rabba's migo argument followed by Abaye's rebuttal \u2014 this is precisely the content described in the 'Rava's Migo' prose, which explicitly discusses Dov's chazakah, the migo reasoning of 'mah lo leshaker,' and the counter-argument that migo does not apply in the presence of contradicting witnesses.",
+      "chosen_heading": "Rava's Migo",
+      "current_heading": "David's Claim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rava's Migo",
+    "candidates": [
+      "David's Claim",
+      "Rava's Migo",
+      "Abaye Challenges",
+      "Revised Strategy",
+      "Revision Problem",
+      "Ulla vs Nahardei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage depicts Dov's revised statement \u2014 acknowledging the field belonged to David's ancestors, claiming he purchased it, and reinterpreting his earlier 'ancestral' claim as meaning he felt settled in possession \u2014 which is precisely what the 'Revised Strategy' prose describes.",
+      "chosen_heading": "Revised Strategy",
+      "current_heading": "Rava's Migo",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Ulla vs Nahardei",
+    "candidates": [
+      "Abaye Challenges",
+      "Revised Strategy",
+      "Revision Problem",
+      "Ulla vs Nahardei",
+      "Ulla Concedes",
+      "Revision After Break"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the Talmudic debate between Ulla and the Sages of Nahardea about toein vechozer vetoein, which is exactly what the 'Ulla vs Nahardei' section's prose describes and frames.",
+      "chosen_heading": "Ulla vs Nahardei",
+      "current_heading": "Ulla vs Nahardei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Revision After Break",
+    "candidates": [
+      "Ulla Concedes",
+      "Revision After Break",
+      "Nahardei Concedes",
+      "Tosafos Resolution",
+      "Outside vs Inside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both of Ulla's concessions \u2014 the direct contradiction case ('shel avotai velo shel avotecha') and the coaching/break case \u2014 and the heading 'Ulla Concedes' with its prose explicitly addresses both categories together, making it the natural home for this unified Talmudic passage.",
+      "chosen_heading": "Ulla Concedes",
+      "current_heading": "Revision After Break",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Outside vs Inside",
+    "candidates": [
+      "Nahardei Concedes",
+      "Tosafos Resolution",
+      "Outside vs Inside",
+      "David's View",
+      "Gloria's View",
+      "Pleading Parallel",
+      "Case Setup",
+      "Rav Nachman",
+      "Rava Objects",
+      "Nachman Responds",
+      "Setup Scenario",
+      "Rav Huna Position",
+      "Mixed Pair Rejection",
+      "Rav Chisda Position",
+      "Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the Neharde'a concessions (the 'shel avotai shelakchuha' clarification and the outside-court vs. inside-court distinction) and conclude with Ameimar's ruling and the final halakha \u2014 precisely what the 'Outside vs Inside' section's prose discusses, including the avid inish principle and the halakha following Ameimar.",
+      "chosen_heading": "Outside vs Inside",
+      "current_heading": "Outside vs Inside",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Connection",
+    "candidates": [
+      "David's View",
+      "Gloria's View",
+      "Pleading Parallel",
+      "Case Setup",
+      "Rav Nachman",
+      "Rava Objects",
+      "Nachman Responds",
+      "Setup Scenario",
+      "Rav Huna Position",
+      "Mixed Pair Rejection",
+      "Rav Chisda Position",
+      "Connection",
+      "Initial Award",
+      "Gloria's Evidence",
+      "Reversal Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage covers the Gemara's question of whether Rav Nachman and Rava's dispute maps onto Rav Huna and Rav Chisda's dispute, the statement of that dispute, and the resolution that even according to Rav Huna the witnesses are only accepted for 'another testimony' but not the same testimony \u2014 all of which is precisely what the 'Connection' section's prose discusses in detail.",
+      "chosen_heading": "Connection",
+      "current_heading": "Connection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Reversal Question",
+    "candidates": [
+      "Initial Award",
+      "Gloria's Evidence",
+      "Reversal Question",
+      "Rava's Challenge",
+      "Woman's Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the new witnesses brought to ancestral ownership (*hadar aytei sahadei d'avahateih*) and Rav Nachman's immediate reversal declaration, which corresponds precisely to the 'Gloria's Evidence' section describing the new contradictory witnesses and the resulting collapse of evidence \u2014 the prose of candidate 1 directly introduces these elements before the reversal discussion in candidate 2.",
+      "chosen_heading": "Gloria's Evidence",
+      "current_heading": "Reversal Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Woman's Marriage",
+    "candidates": [
+      "Rava's Challenge",
+      "Woman's Marriage",
+      "Menachem's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's (or Rabbi Zeira's) objection citing contradictory witnesses about a woman's status, which matches heading 0's prose about Rava challenging with a parallel case involving contradictory witnesses regarding personal status \u2014 the current placement under 'Woman's Marriage' describes the ruling's implications rather than the objection itself.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Woman's Marriage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Menachem's Distinction",
+    "candidates": [
+      "Woman's Marriage",
+      "Menachem's Distinction",
+      "Public Concession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Mena\u1e25em bar Rabbi Yosei's exact distinction between witnesses arriving before vs. after marriage, which is precisely what candidate 1 ('Menachem's Distinction') discusses in detail.",
+      "chosen_heading": "Menachem's Distinction",
+      "current_heading": "Menachem's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Public Concession",
+    "candidates": [
+      "Public Concession",
+      "Unexpected Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly depicts Rav Nachman's public concession ('lo avidina ba'uvda') after being challenged by both Rava and Rav Hamnuna, which is exactly what the 'Public Concession' prose describes.",
+      "chosen_heading": "Public Concession",
+      "current_heading": "Public Concession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Unexpected Action",
+    "candidates": [
+      "Unexpected Action",
+      "Teaser"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Nachman's unexpected action of reversing his judgment and the observer's mistaken impression, which directly matches the 'Unexpected Action' section's prose about nafik avad uvda and the taus/ve'lo hi explanation.",
+      "chosen_heading": "Unexpected Action",
+      "current_heading": "Unexpected Action",
+      "moved": false
+    }
+  }
+]

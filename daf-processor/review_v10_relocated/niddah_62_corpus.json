@@ -1,0 +1,296 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Seven Substances",
+    "candidates": [
+      "Opening & Context",
+      "Seven Substances",
+      "Substance Etymology",
+      "Stain Doesn't Remove"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete list of seven substances from the Mishna, which is exactly what the 'Seven Substances' section prose discusses in detail.",
+      "chosen_heading": "Seven Substances",
+      "current_heading": "Seven Substances",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Stain Doesn't Remove",
+    "candidates": [
+      "Substance Etymology",
+      "Stain Doesn't Remove",
+      "Stain Removes/Pales",
+      "Implicit Assumptions",
+      "Application Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario discussed in the 'Stain Doesn't Remove' prose: immersion followed by handling pure items, application of seven substances, and the two outcomes (stain remains = dye, tahorot pure, no re-immersion; stain disappears/fades = blood stain, tahorot impure, must re-immerse), matching the current placement perfectly.",
+      "chosen_heading": "Stain Doesn't Remove",
+      "current_heading": "Stain Doesn't Remove",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Application Method",
+    "candidates": [
+      "Stain Removes/Pales",
+      "Implicit Assumptions",
+      "Application Method",
+      "Tsafon Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items discuss the precise identification and application of the seven cleansing substances (tasteless saliva, bean water, urine, the rubbing procedure, natron, borit/ahla/sulfur, Cimolian earth, eshlag), which is exactly what the 'Application Method' prose describes.",
+      "chosen_heading": "Application Method",
+      "current_heading": "Application Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Tsafon Problem",
+    "candidates": [
+      "Tsafon Problem",
+      "Second Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the tsafon problem \u2014 item 1 introduces the baraita about tsafon removing the stain, and item 2 is the gemara's objection and reframing of that same baraita \u2014 exactly matching the 'Tsafon Problem' prose description.",
+      "chosen_heading": "Tsafon Problem",
+      "current_heading": "Tsafon Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Second Application",
+    "candidates": [
+      "Second Application",
+      "First Laundering",
+      "Second Laundering",
+      "Status Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the content described under heading 0 ('Second Application'): the baraita about a second application removing the stain (item 1) and Rabbi Zeira's qualification about what period remains tahor (item 2), which heading 0's prose explicitly addresses as a unified discussion.",
+      "chosen_heading": "Second Application",
+      "current_heading": "Second Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Status Paradox",
+    "candidates": [
+      "First Laundering",
+      "Second Laundering",
+      "Status Paradox",
+      "Rabbi Chiyya",
+      "Two Issues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Abba's challenge about whether kfida is the operative factor and Rav Ashi's affirmative reply citing Rabbi Chiyya's baraita about vadai niddah blood being nullified by the seven substances \u2014 are precisely the content described in the 'Rabbi Chiyya' prose, which narrates this exact exchange and ruling.",
+      "chosen_heading": "Rabbi Chiyya",
+      "current_heading": "Status Paradox",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Two Issues",
+    "candidates": [
+      "Rabbi Chiyya",
+      "Two Issues",
+      "Pottery Vessel Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's analysis concluding that the matter depends on kfeida (particularity/concern), which is precisely what the 'Rabbi Chiyya' section's prose describes as Rav Ashi's affirmative response citing Rabbi Chiyya's teaching about dam ha-niddah.",
+      "chosen_heading": "Rabbi Chiyya",
+      "current_heading": "Two Issues",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Pottery Vessel Case",
+    "candidates": [
+      "Two Issues",
+      "Pottery Vessel Case",
+      "Reish Lakish Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah from Kelim about pottery used by a zav falling into an oven, which is precisely what the 'Pottery Vessel Case' prose introduces and analyzes.",
+      "chosen_heading": "Pottery Vessel Case",
+      "current_heading": "Pottery Vessel Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Reish Lakish Position",
+    "candidates": [
+      "Reish Lakish Position",
+      "Light vs. Heavy",
+      "Heated Vessel",
+      "Mishna vs. Baraita",
+      "Not Blood Proof",
+      "Not Present Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Reish Lakish's and Rabbi Yochanan's positions together, and the current heading 'Reish Lakish Position' covers the full dispute including Rabbi Yochanan's response, while candidate 1 ('Light vs. Heavy') is dedicated to Rabbi Yochanan's view alone \u2014 placing the combined Gemara text under heading 0 where Reish Lakish's position is introduced is the correct placement since the passage presents the dispute as a whole starting from Reish Lakish.",
+      "chosen_heading": "Reish Lakish Position",
+      "current_heading": "Reish Lakish Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Not Present Argument",
+    "candidates": [
+      "Light vs. Heavy",
+      "Heated Vessel",
+      "Mishna vs. Baraita",
+      "Not Blood Proof",
+      "Not Present Argument",
+      "Blood in House",
+      "Temporal Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous exchange where Rabbi Yochanan challenges Reish Lakish from the mishna about the seven cleansers/stain, Reish Lakish responds with 'hanicha li-ketamim de-rabbanan,' then Rabbi Yochanan raises the baraita of Rabbi \u1e24iyya, and Reish Lakish dismisses it \u2014 exactly the content described in candidate 2 ('Mishna vs. Baraita') which explicitly discusses this very challenge-and-response sequence including the 'hanicha li-ketamim de-rabbanan' answer.",
+      "chosen_heading": "Mishna vs. Baraita",
+      "current_heading": "Not Present Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Temporal Resolution",
+    "candidates": [
+      "Blood in House",
+      "Temporal Resolution",
+      "Blood in Garment",
+      "Easy vs. Difficult"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the objection and the two conflicting rulings about blood absorbed in a house (tamei vs. tahor), which is precisely what heading 0 'Blood in House' describes, while the temporal resolution prose under heading 1 discusses the explanation of those rulings \u2014 the passage itself contains both the objection and its resolution, but the primary content (raising the case of blood absorbed in a house) aligns with heading 0, and the resolution text in the passage is part of the same Talmudic unit that should sit under the heading introducing the case.",
+      "chosen_heading": "Blood in House",
+      "current_heading": "Temporal Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Easy vs. Difficult",
+    "candidates": [
+      "Blood in Garment",
+      "Easy vs. Difficult",
+      "Cannot Emerge",
+      "Can Emerge & Concerned",
+      "Emerge but Not Concerned"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Blood in Garment",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are precisely the blood-absorbed-in-garment case with Rav Kahana's dam tevusah response, which heading 0's prose explicitly describes.",
+      "second_heading": "Cannot Emerge",
+      "second_confidence": "medium",
+      "second_reason": "Items 3-4 present Reish Lakish's objection from Oholot and Rav Pappa's synthesis beginning with the 'cannot emerge' case, which heading 2's prose introduces as Rav Papa's clean three-part formula starting with that first scenario.",
+      "current_heading": "Easy vs. Difficult",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Emerge but Not Concerned",
+    "candidates": [
+      "Cannot Emerge",
+      "Can Emerge & Concerned",
+      "Emerge but Not Concerned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly describes the disagreement between Reish Lakish and Rabbi Yo\u1e25anan in the case where liquid can emerge but the owner is not particular about it, which is exactly the third contested case discussed in candidate 2's prose.",
+      "chosen_heading": "Emerge but Not Concerned",
+      "current_heading": "Emerge but Not Concerned",
+      "moved": false
+    }
+  }
+]

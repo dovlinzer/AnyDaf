@@ -1,0 +1,467 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Temura with Mum",
+    "candidates": [
+      "Mishna Overview",
+      "Repetition & M\u00e9akev",
+      "Chatat from Ola",
+      "Mum Kavua",
+      "Temura with Mum",
+      "Source of Kedusha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Mar Zutra's challenge raising the temura case as a counterexample to the principle that a derived law cannot be stronger than its source \u2014 this is precisely the challenge the 'Chatat from Ola' prose describes at its end: 'The Gemara immediately challenges this reasoning... and it raises the case of temura.'",
+      "chosen_heading": "Chatat from Ola",
+      "current_heading": "Temura with Mum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Source of Kedusha",
+    "candidates": [
+      "Temura with Mum",
+      "Source of Kedusha",
+      "Pesach Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer that temura's kedusha comes from existing kedushat haguf while the consecrated animal's kedusha comes from chulin, which is precisely the 'source of kedusha' distinction the prose in candidate 1 explains.",
+      "chosen_heading": "Source of Kedusha",
+      "current_heading": "Source of Kedusha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Pesach Identity",
+    "candidates": [
+      "Pesach Identity",
+      "HaOla Extra Hei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Paschal offering challenge and its resolution (identity change to shelamim), which is precisely what the 'Pesach Identity' prose describes.",
+      "chosen_heading": "Pesach Identity",
+      "current_heading": "Pesach Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "HaOla Extra Hei",
+    "candidates": [
+      "HaOla Extra Hei",
+      "Asham Derivation",
+      "Asham North"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives that the olah must be slaughtered in its designated place from the word 'ha-olah' (with the extra hei implying emphasis on 'in its place'), which directly matches the prose of heading 0 about the extra hei in ha-olah signaling that north is me'akev.",
+      "chosen_heading": "HaOla Extra Hei",
+      "current_heading": "HaOla Extra Hei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Asham North",
+    "candidates": [
+      "Asham Derivation",
+      "Asham North",
+      "Asham Metzora"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Asham Derivation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 derives that the asham requires slaughter in the north from the verse linking it to the olah, which is precisely what heading 0 ('Asham Derivation') describes.",
+      "second_heading": "Asham North",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 derive that kabbalah and the mekabel must also be in the north from the continuation of the verse, which is exactly what heading 1 ('Asham North') prose discusses.",
+      "current_heading": "Asham North",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Asham Metzora",
+    "candidates": [
+      "Asham Metzora",
+      "Davar Biklal",
+      "Asham Special Uses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's discussion of the 'davar shehayah biklal' principle: item 1 raises the question of how we know north is me'akev and answers with the metzora verse, item 2 challenges that answer by noting the verse is needed for the davar biklal principle, and item 3 elaborates on how that principle works \u2014 exactly matching the 'Davar Biklal' prose which describes this hermeneutic complication and its application to the asham metzora.",
+      "chosen_heading": "Davar Biklal",
+      "current_heading": "Asham Metzora",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Asham Special Uses",
+    "candidates": [
+      "Davar Biklal",
+      "Asham Special Uses",
+      "Kachatas Lemachzir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the question of whether the asham metzora requires standard matan damim and eimurim precisely because it was singled out for unique laws \u2014 this is the core illustration of the 'davar biklal' principle, which candidate 0's prose discusses directly, whereas candidate 1's prose describes this as something 'illustrated' by the beraita (suggesting the beraita belongs in the preceding section that sets up the principle).",
+      "chosen_heading": "Davar Biklal",
+      "current_heading": "Asham Special Uses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Kachatas Lemachzir",
+    "candidates": [
+      "Asham Special Uses",
+      "Kachatas Lemachzir",
+      "Gamir Miklalo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly teaches that 'as the sin offering, so is the guilt offering' returns the asham metzora to standard altar procedures, which is precisely what the 'Kachatas Lemachzir' section describes as the machzir function of that phrase.",
+      "chosen_heading": "Kachatas Lemachzir",
+      "current_heading": "Kachatas Lemachzir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Gamir Miklalo",
+    "candidates": [
+      "Gamir Miklalo",
+      "Repetition Teaches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the exact dialectic described in the 'Gamir Miklalo' prose: whether the general category can learn from the exception (asham metzora) and vice versa, and what happens if neither direction of inference is available \u2014 precisely the two-sided analysis laid out in that section's prose.",
+      "chosen_heading": "Gamir Miklalo",
+      "current_heading": "Gamir Miklalo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Repetition Teaches",
+    "candidates": [
+      "Repetition Teaches",
+      "Both Links",
+      "Chain Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the answer that once the verse returned the asham metzora to the general category it returned it completely, Mar Zutra's objection that the return might only cover rites requiring priesthood, and Ravina's response that the phrase 'kachatat ha-asham' (not just 'kachatat hu') signals full restoration \u2014 precisely match the prose of heading 0, which describes exactly this sequence of argument and resolution.",
+      "chosen_heading": "Repetition Teaches",
+      "current_heading": "Repetition Teaches",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Chain Problem",
+    "candidates": [
+      "Both Links",
+      "Chain Problem",
+      "Ravina's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why both juxtapositions (to chatat and to olah) are needed, which is exactly the question introduced in the 'Both Links' section prose, not the 'Chain Problem' section which already assumes the question and explores its apparent answer.",
+      "chosen_heading": "Both Links",
+      "current_heading": "Chain Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Ravina's Answer",
+    "candidates": [
+      "Chain Problem",
+      "Ravina's Answer",
+      "Hekesh Principle",
+      "Both Teaches Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's direct answer explaining why the double linkage was necessary and invoking the principle of davar halamed behekesh, which is precisely what the 'Ravina's Answer' section describes.",
+      "chosen_heading": "Ravina's Answer",
+      "current_heading": "Ravina's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Both Teaches Principle",
+    "candidates": [
+      "Hekesh Principle",
+      "Both Teaches Principle",
+      "Eimurim Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mar Zutra\u2013Ravina exchange about why the verse juxtaposes the asham to both the chatat and the olah, which is precisely what candidate 1 ('Both Teaches Principle') describes in its prose.",
+      "chosen_heading": "Both Teaches Principle",
+      "current_heading": "Both Teaches Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Eimurim Sources",
+    "candidates": [
+      "Eimurim Sources",
+      "Par Explicit",
+      "Shirei Chain",
+      "Keasher Yuram"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows Rava introducing his source from the verse 'ka-asher yuram mi-shor zevach ha-shelamim' and beginning the analysis of why this verse is needed \u2014 exactly matching the 'Eimurim Sources' prose which describes Rava citing this independent source and the Gemara proceeding to show why the verse is indispensable.",
+      "chosen_heading": "Eimurim Sources",
+      "current_heading": "Eimurim Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Keasher Yuram",
+    "candidates": [
+      "Par Explicit",
+      "Shirei Chain",
+      "Keasher Yuram",
+      "Extra Verse Proof",
+      "Rav Papa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the function of 'ka-asher yuram' \u2014 item 1 explains why the verse was needed (to bridge the inferential chain from par kohen mashiach through par he'elem davar to se'irei avodah zarah) and item 2 explains the mechanism by which it works (treating the derived halakha as if explicitly written, avoiding davar halamed behekesh chozer umelamed behekesh), which is precisely what the 'Keasher Yuram' prose describes.",
+      "chosen_heading": "Keasher Yuram",
+      "current_heading": "Keasher Yuram",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rav Papa",
+    "candidates": [
+      "Extra Verse Proof",
+      "Rav Papa",
+      "Redundancy Teaches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's direct question to Rava about why the Torah didn't simply write the eimurim explicitly in the par he'elem davar passage itself rather than using an indirect juxtaposition, which is exactly what the 'Rav Papa' section's prose describes.",
+      "chosen_heading": "Rav Papa",
+      "current_heading": "Rav Papa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Redundancy Teaches",
+    "candidates": [
+      "Redundancy Teaches",
+      "Tzaraat Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's explanation of why the Torah both wrote the law explicitly and juxtaposed it \u2014 precisely the argument described in the 'Redundancy Teaches' prose about how the double action (writing explicitly plus juxtaposing) demonstrates that a hekesh chain cannot teach via hekesh.",
+      "chosen_heading": "Redundancy Teaches",
+      "current_heading": "Redundancy Teaches",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Tzaraat Proof",
+    "candidates": [
+      "Tzaraat Proof",
+      "Two Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the mnemonic and then asks the precise question about whether a matter derived via hekesh can then teach via gezeira shava \u2014 which is exactly the topic that candidate 1 ('Two Methods') discusses, namely the chain of hekesh followed by gezeira shava, whereas candidate 0 ('Tzaraat Proof') discusses the tzara'at proof that comes after this opening question.",
+      "chosen_heading": "Two Methods",
+      "current_heading": "Tzaraat Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Two Methods",
+    "candidates": [
+      "Tzaraat Proof",
+      "Two Methods",
+      "Kodshim Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Natan ben Avtolemos's proof about garment tzara'at spreading rendering it tahor via gezeira shava from skin tzara'at, which is precisely what the 'Tzaraat Proof' prose describes \u2014 the question of where we derive the rule for garments, the parallel karachto/gavachto language, and the gezeira shava linking garment tzara'at to skin tzara'at.",
+      "chosen_heading": "Tzaraat Proof",
+      "current_heading": "Two Methods",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Kodshim Only",
+    "candidates": [
+      "Kodshim Only",
+      "Hekesh Plus Gezeira",
+      "Forbidden Combo",
+      "If Allowed",
+      "Direct Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rabbi Yochanan's rule that throughout the entire Torah one may derive a hekesh-learned law further, except in kodshim \u2014 which is exactly what the 'Kodshim Only' prose section describes and discusses.",
+      "chosen_heading": "Kodshim Only",
+      "current_heading": "Kodshim Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Direct Link",
+    "candidates": [
+      "Hekesh Plus Gezeira",
+      "Forbidden Combo",
+      "If Allowed",
+      "Direct Link",
+      "Chatat Weakness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items describe Rabbi Yo\u1e25anan's argument that IF hekesh+gezeira shava were permitted, the Torah could have derived the asham's north-slaughter via a gezeira shava on 'kodesh kodashim' from the chatat \u2014 exactly what the 'If Allowed' prose section describes.",
+      "chosen_heading": "If Allowed",
+      "current_heading": "Direct Link",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Chatat Weakness",
+    "candidates": [
+      "Direct Link",
+      "Chatat Weakness",
+      "Kodesh Extra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly raises the objection that the chatat is notable for atoning for those liable to karet \u2014 exactly the 'chatat weakness' objection that the prose under heading 1 describes as a potential challenge to the gezeira shava between chatat and asham.",
+      "chosen_heading": "Chatat Weakness",
+      "current_heading": "Chatat Weakness",
+      "moved": false
+    }
+  }
+]

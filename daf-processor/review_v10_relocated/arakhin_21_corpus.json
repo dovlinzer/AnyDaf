@@ -1,0 +1,371 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Olos & Shlamim",
+    "candidates": [
+      "Beis Din Confiscation",
+      "Erchin vs. Chatas/Asham",
+      "Benefit Principle",
+      "Olos & Shlamim",
+      "Coercion & Consent",
+      "Gittin Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself introducing the entire topic of beis din confiscation for various obligations, which matches heading 0 ('Beis Din Confiscation') whose prose explicitly describes this mishnah as opening the new topic \u2014 the subsequent headings analyze specific distinctions drawn within the mishnah rather than presenting the mishnah text itself.",
+      "chosen_heading": "Beis Din Confiscation",
+      "current_heading": "Olos & Shlamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Gittin Analogy",
+    "candidates": [
+      "Coercion & Consent",
+      "Gittin Analogy",
+      "Rav Pappa Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the coercion-until-consent principle for offerings AND the gittin analogy in one continuous text, but the prose under 'Coercion & Consent' (index 0) explicitly discusses both the *af al pi she'ein miskafer* qualification and the *kofin oto* mechanism, while index 1's prose treats the gittin analogy as a separate parenthetical \u2014 the passage as a single unit is better matched by index 0 which discusses the core principle that the gittin analogy illustrates.",
+      "chosen_heading": "Coercion & Consent",
+      "current_heading": "Gittin Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Rav Pappa Exceptions",
+    "candidates": [
+      "Gittin Analogy",
+      "Rav Pappa Exceptions",
+      "Chatas Nazir",
+      "Chatas Nazir: Offerings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement introducing exceptions to the mishnah's framework, which is exactly what the 'Rav Pappa Exceptions' section's prose describes.",
+      "chosen_heading": "Rav Pappa Exceptions",
+      "current_heading": "Rav Pappa Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Chatas Nazir: Offerings",
+    "candidates": [
+      "Chatas Nazir",
+      "Chatas Nazir: Offerings",
+      "Olat Metzora",
+      "Olat Yoledet Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains precisely why confiscation applies to the chatat nazir \u2014 because once any one of the three offerings' blood is sprinkled the nazir regains his freedoms and may neglect the remaining offerings \u2014 which is exactly what candidate 1's prose discusses.",
+      "chosen_heading": "Chatas Nazir: Offerings",
+      "current_heading": "Chatas Nazir: Offerings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Olat Yoledet Rejected",
+    "candidates": [
+      "Olat Metzora",
+      "Olat Yoledet Rejected",
+      "Braita: Metzora Tahara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the olat yoledet case \u2014 item 1 states the ruling that confiscation does not apply, and item 2 is the gemara's challenge asking whether the sole basis is the verse's reading order, citing Rava \u2014 exactly matching the 'Olat Yoledet Rejected' prose which describes this proposal and its dismissal via Rava's ruling.",
+      "chosen_heading": "Olat Yoledet Rejected",
+      "current_heading": "Olat Yoledet Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Braita: Metzora Tahara",
+    "candidates": [
+      "Braita: Metzora Tahara",
+      "Baraita: Yakriv Oto"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about Rabbi Yishmael son of Rabbi Yehuda ben Beroka teaching that the metzora's olah is indispensable for tahara, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Braita: Metzora Tahara",
+      "current_heading": "Braita: Metzora Tahara",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Baraita: Yakriv Oto",
+    "candidates": [
+      "Baraita: Yakriv Oto",
+      "Lirtzono Limit",
+      "Shmuel: Olah Needs Da'at",
+      "Gemara Questions Shmuel",
+      "Donated Animal Consent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita: Yakriv Oto",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the baraita deriving compulsion from 'yakriv oto' and resolving it with 'lirtzono', which is exactly what candidates 0 and 1 describe \u2014 the baraita text and its lirtzono resolution both belong under candidate 0's heading since that heading covers the full baraita discussion including the kofin resolution.",
+      "second_heading": "Shmuel: Olah Needs Da'at",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Shmuel's statement that an olah requires da'at/consent, which is precisely what candidate 2's prose ('Shmuel: Olah Needs Da'at') describes.",
+      "current_heading": "Baraita: Yakriv Oto",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Donated Animal Consent",
+    "candidates": [
+      "Lirtzono Limit",
+      "Shmuel: Olah Needs Da'at",
+      "Gemara Questions Shmuel",
+      "Donated Animal Consent",
+      "Ula vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the case where another person separates an animal on someone else's behalf and explains why consent is still required even then, which is precisely what the 'Donated Animal Consent' section's prose describes.",
+      "chosen_heading": "Donated Animal Consent",
+      "current_heading": "Donated Animal Consent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Ula vs. Shmuel",
+    "candidates": [
+      "Ula vs. Shmuel",
+      "Baraita Challenge",
+      "Time Distinction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Ula vs. Shmuel",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 cover the baraita distinguishing chatas from olah, Shmuel's resolution, and Ulla's disagreement \u2014 precisely the content described in the 'Ula vs. Shmuel' prose.",
+      "second_heading": "Baraita Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 6 raises the second baraita challenge applying consent uniformly to all four korbanot, which is exactly what the 'Baraita Challenge' prose describes.",
+      "current_heading": "Ula vs. Shmuel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Time Distinction",
+    "candidates": [
+      "Baraita Challenge",
+      "Time Distinction",
+      "Rav Sheshet: Moda'a",
+      "Bittul Moda'ot",
+      "Saying Negates Duress"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items deal with the Shmuel/Ula distinction between time of separation and time of atonement, Rav Pappa's resolution, and the clarification that the amoraim genuinely disagree \u2014 exactly the content described in the 'Time Distinction' prose.",
+      "chosen_heading": "Time Distinction",
+      "current_heading": "Time Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Saying Negates Duress",
+    "candidates": [
+      "Rav Sheshet: Moda'a",
+      "Bittul Moda'ot",
+      "Saying Negates Duress",
+      "Beis Din Procedure",
+      "Overview",
+      "Auction Periods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous sugya about the validity of a moda'a on a get \u2014 item 1 introduces Rav Sheshet's ruling, item 2 resolves the pshita objection with the case of coercion followed by agreement, and item 3 derives the proof from the mishna's wording \u2014 exactly the content described in candidate 0's prose about Rav Sheshet and moda'a on a get.",
+      "chosen_heading": "Rav Sheshet: Moda'a",
+      "current_heading": "Saying Negates Duress",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Auction Periods",
+    "candidates": [
+      "Beis Din Procedure",
+      "Overview",
+      "Auction Periods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The text 'Hadran alach ha-omer mishkali' is the concluding formula marking the end of one perek and transitioning to a new one, which aligns with the 'Overview' section's prose describing the transition to the new perek of shum ha-yetomim.",
+      "chosen_heading": "Overview",
+      "current_heading": "Auction Periods",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Auction Periods",
+    "candidates": [
+      "Auction Periods",
+      "Morning & Evening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text establishes the thirty-day and sixty-day auction periods for orphans' property and consecrated property, which is precisely what the 'Auction Periods' prose discusses, not the 'Morning & Evening' section which addresses the gemara's explanation of why announcements are made at those specific times.",
+      "chosen_heading": "Auction Periods",
+      "current_heading": "Auction Periods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Morning & Evening",
+    "candidates": [
+      "Morning & Evening",
+      "Worker Inspection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains both the morning and evening announcements in terms of worker inspection logistics (dispatching workers to survey the field and then asking them for their report), which matches the 'Worker Inspection' prose precisely, while the current heading's prose only captures the general 'rush hour' rationale without the specific worker-dispatch explanation that constitutes the bulk of this Gemara passage.",
+      "chosen_heading": "Worker Inspection",
+      "current_heading": "Morning & Evening",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Worker Inspection",
+    "candidates": [
+      "Morning & Evening",
+      "Worker Inspection",
+      "Baraita: Announcement",
+      "Kol Harotzeh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita restates the thirty/sixty day periods and morning-and-evening announcement requirement, which is exactly what the 'Worker Inspection' prose describes as its concluding confirmation ('A baraita confirms this explanation and restates the thirty-day and sixty-day periods along with the morning-and-evening announcement requirement').",
+      "chosen_heading": "Worker Inspection",
+      "current_heading": "Worker Inspection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Kol Harotzeh",
+    "candidates": [
+      "Baraita: Announcement",
+      "Kol Harotzeh",
+      "Widow vs. Creditor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full announcement formula including markers, borders, quality, appraisal, and the purpose of the sale \u2014 content that is most comprehensively discussed in the 'Baraita: Announcement' section, which specifically addresses the field's simanim, metzarim, yafah, and shumah as the content of the proclamation.",
+      "chosen_heading": "Baraita: Announcement",
+      "current_heading": "Kol Harotzeh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Widow vs. Creditor",
+    "candidates": [
+      "Kol Harotzeh",
+      "Widow vs. Creditor",
+      "Payment Flexibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the question about why the proclamation specifies widow vs. creditor AND the answer explaining both preferences (creditor lenient with coins, widow accepts installments), matching heading 1's prose which introduces the gemara's question and begins the answer, and the current placement is correct.",
+      "chosen_heading": "Widow vs. Creditor",
+      "current_heading": "Widow vs. Creditor",
+      "moved": false
+    }
+  }
+]

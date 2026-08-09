@@ -1,0 +1,302 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Woman Hides Property",
+    "candidates": [
+      "Rabbi Shimon Overview",
+      "Woman Hides Property",
+      "Shtar Mavrachat Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the case of a woman who transferred property to her daughter before remarrying to protect it from her future husband, which is precisely what the 'Woman Hides Property' section's prose discusses as its central case story.",
+      "chosen_heading": "Woman Hides Property",
+      "current_heading": "Woman Hides Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Shtar Mavrachat Concept",
+    "candidates": [
+      "Shtar Mavrachat Concept",
+      "Shmuel & Rava Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the exact sequence covered in candidate 0's prose: Rav Anan's complaint to Mar Ukva, Mar Ukva's request for the full facts, and Mar Ukva's citation of Shmuel's ruling about tearing a shtar mavrachat \u2014 all of which the candidate 0 prose explicitly narrates word for word.",
+      "chosen_heading": "Shtar Mavrachat Concept",
+      "current_heading": "Shtar Mavrachat Concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Shmuel & Rava Debate",
+    "candidates": [
+      "Shmuel & Rava Debate",
+      "Self-Interest Principle",
+      "Fake Documents Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's challenge about giving to a daughter versus a stranger, and Rav Nachman's response that even with a daughter one's own interests take precedence \u2014 exactly what the 'Self-Interest Principle' prose describes.",
+      "chosen_heading": "Self-Interest Principle",
+      "current_heading": "Shmuel & Rava Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Fake Documents Debate",
+    "candidates": [
+      "Self-Interest Principle",
+      "Fake Documents Debate",
+      "Conditional Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the Tosefta about a woman writing a fictitious document (shtar pasim) to others to distance her property from her husband, which is precisely the content described in the 'Fake Documents Debate' prose section.",
+      "chosen_heading": "Fake Documents Debate",
+      "current_heading": "Fake Documents Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Conditional Language",
+    "candidates": [
+      "Conditional Language",
+      "Fake Transfer Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the Rabbis requiring the specific conditional formulation 'from today and while I wish,' which is precisely the conditional language (*tenai*) discussed in the 'Conditional Language' section's prose.",
+      "chosen_heading": "Conditional Language",
+      "current_heading": "Conditional Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Fake Transfer Problem",
+    "candidates": [
+      "Fake Transfer Problem",
+      "Unknown Property Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the contradiction about document-of-evasion validity and Rabbi Zeira's resolution distinguishing whole vs. partial property transfer \u2014 exactly what candidate 0's prose discusses as part of the 'lo kashya ha b'kula ha b'miktzata' analysis.",
+      "chosen_heading": "Fake Transfer Problem",
+      "current_heading": "Fake Transfer Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Unknown Property Doctrine",
+    "candidates": [
+      "Unknown Property Doctrine",
+      "Rabbeinu Tam Limits",
+      "Mishnah Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's statement about treating the property as unknown to the husband in accordance with Rabbi Shimon, which is exactly what the 'Unknown Property Doctrine' section's prose discusses and analyzes.",
+      "chosen_heading": "Unknown Property Doctrine",
+      "current_heading": "Unknown Property Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Mishnah Intro",
+    "candidates": [
+      "Rabbeinu Tam Limits",
+      "Mishnah Intro",
+      "Rabbi Meir Valuation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text about money/detached produce inherited by a wife being converted to land so the husband eats peirot matches exactly what the 'Mishnah Intro' prose describes (nafal lah kesafim, detached produce liquidated to purchase karka).",
+      "chosen_heading": "Mishnah Intro",
+      "current_heading": "Mishnah Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rabbi Meir Valuation",
+    "candidates": [
+      "Rabbi Meir Valuation",
+      "Fruit Distribution",
+      "Rabbi Shimon Entry/Exit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Meir's valuation method for attached produce alongside the Rabbis' position, which is exactly what the current section's prose discusses in detail.",
+      "chosen_heading": "Rabbi Meir Valuation",
+      "current_heading": "Rabbi Meir Valuation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rabbi Shimon Entry/Exit",
+    "candidates": [
+      "Fruit Distribution",
+      "Rabbi Shimon Entry/Exit",
+      "Field vs. Property",
+      "Asset Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Shimon's symmetric entry/exit formulation about attached and detached produce, which matches exactly the prose of candidate 1 ('Rabbi Shimon Entry/Exit').",
+      "chosen_heading": "Rabbi Shimon Entry/Exit",
+      "current_heading": "Rabbi Shimon Entry/Exit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Asset Hierarchy",
+    "candidates": [
+      "Field vs. Property",
+      "Asset Hierarchy",
+      "Timber & Fish Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the hierarchy of investment alternatives (land/houses, houses/palms, palms/trees, trees/vines) which is exactly what the 'Asset Hierarchy' prose describes.",
+      "chosen_heading": "Asset Hierarchy",
+      "current_heading": "Asset Hierarchy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Timber & Fish Rule",
+    "candidates": [
+      "Timber & Fish Rule",
+      "Animal vs. Slave Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the hawthorn forest and fishpond case, resolving it with the principle 'if the trunk renews itself = produce; if not = principal,' which is exactly the content described in the 'Timber & Fish Rule' prose.",
+      "chosen_heading": "Timber & Fish Rule",
+      "current_heading": "Timber & Fish Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Animal vs. Slave Children",
+    "candidates": [
+      "Animal vs. Slave Children",
+      "Fruit of Fruit Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the ruling about stealing offspring of a milog animal and the Gemara's challenge that it fits neither Rabbanan nor Chananyah, which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Animal vs. Slave Children",
+      "current_heading": "Animal vs. Slave Children",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Fruit of Fruit Doctrine",
+    "candidates": [
+      "Fruit of Fruit Doctrine",
+      "Tosafot Irony",
+      "Principal & Offspring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the peira/peira de-peira principle that candidate 0's prose is specifically discussing, making the current placement correct.",
+      "chosen_heading": "Fruit of Fruit Doctrine",
+      "current_heading": "Fruit of Fruit Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Principal & Offspring",
+    "candidates": [
+      "Tosafot Irony",
+      "Principal & Offspring",
+      "Animal Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'granted, according to \u1e24ananya... we are not concerned about death,' which directly corresponds to the Gemara's debate in 'Principal & Offspring' about whether the Rabbanan are or are not concerned about the death of animals and the implications for who receives offspring.",
+      "chosen_heading": "Principal & Offspring",
+      "current_heading": "Principal & Offspring",
+      "moved": false
+    }
+  }
+]

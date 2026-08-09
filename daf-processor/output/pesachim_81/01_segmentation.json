@@ -53,7 +53,7 @@
           "timestamp": "10:38"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -82,7 +82,7 @@
           "timestamp": "15:07"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -96,7 +96,7 @@
           "timestamp": "22:24"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 1,
       "matched": false
     },
     {
@@ -139,7 +139,7 @@
           "timestamp": "32:40"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -173,8 +173,8 @@
           "timestamp": "32:40"
         }
       ],
-      "sefaria_index": 18,
-      "matched": true
+      "sefaria_index": 21,
+      "matched": false
     },
     {
       "title": "The Detailed Scenarios of Tumat HaTehom: Mishnah's Enumeration of Cases",
@@ -212,7 +212,7 @@
           "timestamp": "32:40"
         }
       ],
-      "sefaria_index": 28,
+      "sefaria_index": 30,
       "matched": true
     }
   ],
@@ -536,5 +536,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "30:23",
+  "amud_b_micro_title": "Rava's Kal VaChomer",
+  "shiur_start_daf": 81,
+  "shiur_start_amud": "a"
 }

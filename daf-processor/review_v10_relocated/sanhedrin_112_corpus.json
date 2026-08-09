@@ -1,0 +1,523 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Yatzu v'lo Sheluchim",
+    "candidates": [
+      "Yatzu v'lo Sheluchim",
+      "Anashim Pacht Mishnayim",
+      "Bne Beliyaal Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both 'yatzu' (not agents) and 'anashim' (at least two, not women, not minors), but its current placement under heading 0 is reasonable since heading 1's prose already paraphrases the anashim content separately, and the passage as a whole opens with the yatzu point that heading 0 specifically addresses.",
+      "chosen_heading": "Yatzu v'lo Sheluchim",
+      "current_heading": "Yatzu v'lo Sheluchim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Bne Beliyaal Definition",
+    "candidates": [
+      "Anashim Pacht Mishnayim",
+      "Bne Beliyaal Definition",
+      "Chutz Lasafar Excluded",
+      "Madichiha Mitochah",
+      "Eidim v'Hasraah",
+      "Yochanan: Cholkin",
+      "Reish Lakish: Lo Cholkin",
+      "Meditichah Meoso Shevet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all four terms \u2014 b'nei veliyya'al, mi-kirbecha, yoshvei iram, and lemor \u2014 in a single continuous Talmudic unit, and while it spans topics addressed in candidates 1\u20134, it is currently placed under 'Bne Beliyaal Definition' which is where the passage begins and where the essay has placed it as a unified block.",
+      "chosen_heading": "Bne Beliyaal Definition",
+      "current_heading": "Bne Beliyaal Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Meditichah Meoso Shevet",
+    "candidates": [
+      "Chutz Lasafar Excluded",
+      "Madichiha Mitochah",
+      "Eidim v'Hasraah",
+      "Yochanan: Cholkin",
+      "Reish Lakish: Lo Cholkin",
+      "Meditichah Meoso Shevet",
+      "Nafla Leh Biy'rushah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents exactly what the 'Meditichah Meoso Shevet' prose describes: Rabbi Yochanan's challenge to Reish Lakish from the mishna's requirement that enticers be from the city and from the same tribe, arguing this implies a city can be divided between two tribes.",
+      "chosen_heading": "Meditichah Meoso Shevet",
+      "current_heading": "Meditichah Meoso Shevet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Nafla Leh Biy'rushah",
+    "candidates": [
+      "Nafla Leh Biy'rushah",
+      "Arim Tesha Mei'et"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Gemara's rejection via inheritance and gift explanations, which is precisely what the 'Nafla Leh Biy'rushah' section's prose discusses.",
+      "chosen_heading": "Nafla Leh Biy'rushah",
+      "current_heading": "Nafla Leh Biy'rushah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Arim Tesha Mei'et",
+    "candidates": [
+      "Arim Tesha Mei'et",
+      "Enticers Required?",
+      "Nashim v'Ktanim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Arim Tesha Mei'et",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the complete discussion of the nine Levitical cities challenge to Reish Lakish, ending with 'kashya', exactly as described in candidate 0's prose.",
+      "second_heading": "Enticers Required?",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces an entirely new dilemma about whether a city that subverted itself (without enticers) qualifies as an ir nidachas, which matches candidate 1's prose about 'shehudchu mei'aleihen mahu'.",
+      "current_heading": "Arim Tesha Mei'et",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Nashim v'Ktanim",
+    "candidates": [
+      "Enticers Required?",
+      "Nashim v'Ktanim",
+      "Batar Nafshaihu Griri",
+      "Ad Sheyudach Rubah",
+      "Danin v'Chovshim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the dilemma of whether enticers are required (shehudchu mei'aleihen \u2014 what if they subverted themselves), which is precisely what candidate 0 'Enticers Required?' discusses, and the gemara text is the attempt to resolve that dilemma via the mishna about women and children.",
+      "chosen_heading": "Enticers Required?",
+      "current_heading": "Nashim v'Ktanim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Danin v'Chovshim",
+    "candidates": [
+      "Batar Nafshaihu Griri",
+      "Ad Sheyudach Rubah",
+      "Danin v'Chovshim",
+      "Ulla's Challenge",
+      "Danim v'Soklim",
+      "Marbin Lahem Batei Dinim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Yehuda's danin v'chovshim approach AND Ulla's objection and danin v'soklim counter-proposal in one continuous Gemara excerpt, and the 'Ad Sheyudach Rubah' section's prose introduces the procedural difficulty that encompasses all of this material, making it the natural home for the entire passage rather than splitting it across the later headings.",
+      "chosen_heading": "Ad Sheyudach Rubah",
+      "current_heading": "Danin v'Chovshim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Marbin Lahem Batei Dinim",
+    "candidates": [
+      "Ulla's Challenge",
+      "Danim v'Soklim",
+      "Marbin Lahem Batei Dinim",
+      "Sanhedrin HaGedolah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the amoraic dispute between Rabbi Yo\u1e25anan (danim v'soklim) and Reish Lakish (marbin lahem batei dinim), and the essay's 'Danim v'Soklim' section is where this dispute is introduced, with Reish Lakish's view being a response to it \u2014 whereas the current heading 'Marbin Lahem Batei Dinim' only covers Reish Lakish's position in isolation after the dispute has already been stated.",
+      "chosen_heading": "Danim v'Soklim",
+      "current_heading": "Marbin Lahem Batei Dinim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Sanhedrin HaGedolah",
+    "candidates": [
+      "Marbin Lahem Batei Dinim",
+      "Sanhedrin HaGedolah",
+      "Me'aynin B'Dineihem",
+      "Shloshim Yom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge from Rabbi Oshaya's ruling and then resolves it by describing the procedure of investigating cases in many courts (me'aynin b'dineihem) and then referring to the Sanhedrin for final verdict, which is precisely what candidate 2 ('Me'aynin B'Dineihem') describes in its prose.",
+      "chosen_heading": "Me'aynin B'Dineihem",
+      "current_heading": "Sanhedrin HaGedolah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Shloshim Yom",
+    "candidates": [
+      "Me'aynin B'Dineihem",
+      "Shloshim Yom",
+      "Yud Bet Chodesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about donkey and camel caravans lodging in the city and the thirty-day threshold for being treated as city residents is precisely what the 'Shloshim Yom' section's prose discusses.",
+      "chosen_heading": "Shloshim Yom",
+      "current_heading": "Shloshim Yom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Yud Bet Chodesh",
+    "candidates": [
+      "Yud Bet Chodesh",
+      "Yoshvei v'Bnei Ha'ir",
+      "Mudar Hana'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage raises the contradiction about twelve months (yud-bet chodesh) which is exactly what heading 0 introduces, and while Rava's resolution is mentioned, the full gemara unit including both the contradiction and its resolution belongs under the heading that sets up the contradiction \u2014 heading 0 \u2014 since heading 1 is reserved for Rava's distinction as a standalone discussion point.",
+      "chosen_heading": "Yud Bet Chodesh",
+      "current_heading": "Yud Bet Chodesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Mudar Hana'ah",
+    "candidates": [
+      "Yoshvei v'Bnei Ha'ir",
+      "Mudar Hana'ah",
+      "Kol Asher Bah",
+      "Kol Shelalah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita distinguishing twelve months for bnei ha-ir versus thirty days for yoshvei ha-ir is exactly what the 'Mudar Hana'ah' section's prose describes as confirming Rava's distinction, and the passage is already correctly placed there.",
+      "chosen_heading": "Mudar Hana'ah",
+      "current_heading": "Mudar Hana'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Kol Shelalah",
+    "candidates": [
+      "Kol Asher Bah",
+      "Kol Shelalah",
+      "U'venikpatzim Betocha",
+      "Migram Lahem Sheyeduru"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers all four derivations \u2014 excluding property of the righteous outside the city, including property of the righteous inside, excluding consecrated property, and including property of the wicked outside \u2014 and the passage as a whole is introduced by 'Destroy it utterly, and all that is in it,' making heading 0 ('Kol Asher Bah') the natural home for the entire baraita, rather than heading 1 which covers only the final clause about the wicked's external property.",
+      "chosen_heading": "Kol Asher Bah",
+      "current_heading": "Kol Shelalah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Migram Lahem Sheyeduru",
+    "candidates": [
+      "U'venikpatzim Betocha",
+      "Migram Lahem Sheyeduru",
+      "Pikdonot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Shimon's explanation of why the righteous lose their property (migram lahem sheyeduru) and Rav Chisda's u'venikpatzim betocha ruling, but since it is a single continuous Talmudic excerpt and the current placement under 'Migram Lahem Sheyeduru' correctly anchors the primary content, and candidate 1's prose explicitly discusses all elements of this passage including the Mar/kol shlalah and Rav Chisda's ruling as part of the same sugya, it belongs under candidate 1.",
+      "chosen_heading": "Migram Lahem Sheyeduru",
+      "current_heading": "Migram Lahem Sheyeduru",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Pikdonot",
+    "candidates": [
+      "Pikdonot",
+      "Behema v'Isah",
+      "Shechita L'Taharah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Pikdonot",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss Rav \u1e24isda's ruling about deposits (pikdonot) and the case of accepted liability, which matches the 'Pikdonot' prose exactly.",
+      "second_heading": "Behema v'Isah",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Rav \u1e24isda's ruling about jointly-owned animals and dough, which matches the 'Behema v'Isah' prose about the animal/dough distinction and the rationale of divisibility.",
+      "current_heading": "Pikdonot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Shechita L'Taharah",
+    "candidates": [
+      "Behema v'Isah",
+      "Shechita L'Taharah",
+      "Lefi Charev Amar"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shechita L'Taharah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav \u1e24isda's dilemma about whether shechitah purifies an animal of ir nidachas from tumas neveilah, which is precisely what the 'Shechita L'Taharah' prose describes.",
+      "second_heading": "Lefi Charev Amar",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yosef's dilemma about the hair of pious women and Rava's resolution using the 'tikbetz v'sar\u0430\u0444ta' verse, which corresponds to the 'Lefi Charev Amar' prose that discusses the verse's implications and the teiku conclusion.",
+      "current_heading": "Shechita L'Taharah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Lefi Charev Amar",
+    "candidates": [
+      "Lefi Charev Amar",
+      "Kodshei Mizbe'ach"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lefi Charev Amar",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the wig (peiah nochrit) dilemma about whether it is destroyed like the property of the righteous or spared like a garment, which continues the teiku left by the lefi charev section.",
+      "second_heading": "Kodshei Mizbe'ach",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens a new topic entirely \u2014 the requirement for a square (rechov) for an ir nidachas, with the dispute between Rabbi Yishmael and Rabbi Akiva \u2014 which matches the 'Kodshei Mizbe'ach' section's discussion of the mishnah's rulings about shlal shamayim and the city's spoil.",
+      "current_heading": "Lefi Charev Amar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Kodshei Mizbe'ach",
+    "candidates": [
+      "Kodshei Mizbe'ach",
+      "Bedek Habayis Yifdu",
+      "Zevach Reshaim To'eva",
+      "Mamon Ba'alim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita's ruling that kodshei mizbe'ach shall die and the immediate Gemara question of why they must die rather than graze until blemished and redeemed \u2014 exactly the content described in candidate 0's prose, which sets up both the baraita and that opening question.",
+      "chosen_heading": "Kodshei Mizbe'ach",
+      "current_heading": "Kodshei Mizbe'ach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Mamon Ba'alim",
+    "candidates": [
+      "Bedek Habayis Yifdu",
+      "Zevach Reshaim To'eva",
+      "Mamon Ba'alim",
+      "Kodshim Kalim vs Kodshei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yochanan's 'zevach resha'im to'evah' and Reish Lakish's 'mamon ba'alim' positions together as a paired dispute, and the section heading 'Zevach Reshaim To'eva' (index 1) has prose that explicitly discusses both positions in tandem, making it the better fit than the 'Mamon Ba'alim' section which covers only Reish Lakish's view.",
+      "chosen_heading": "Zevach Reshaim To'eva",
+      "current_heading": "Mamon Ba'alim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Kodshim Kalim vs Kodshei",
+    "candidates": [
+      "Mamon Ba'alim",
+      "Kodshim Kalim vs Kodshei",
+      "Behemtecha Lo Bechor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly discuss the kodshim kalim vs kodshei kodshim distinction, the chatas she-mesu be'aleha exception, and the Rabbi Yochanan/Reish Lakish debate \u2014 exactly the content described in the 'Kodshim Kalim vs Kodshei' prose section.",
+      "chosen_heading": "Kodshim Kalim vs Kodshei",
+      "current_heading": "Kodshim Kalim vs Kodshei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Behemtecha Lo Bechor",
+    "candidates": [
+      "Behemtecha Lo Bechor",
+      "Mi She'ne'echal Betorat",
+      "Betorat Bechor u'Ma'aser"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the question raised in candidate 0's prose \u2014 Rabbi Shimon's exclusion of bechor and ma'aser via 'behemtecha,' followed by the Gemara's challenge about whether we are dealing with unblemished (shlal shamayim) or blemished animals \u2014 which matches the current placement perfectly.",
+      "chosen_heading": "Behemtecha Lo Bechor",
+      "current_heading": "Behemtecha Lo Bechor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Betorat Bechor u'Ma'aser",
+    "candidates": [
+      "Mi She'ne'echal Betorat",
+      "Betorat Bechor u'Ma'aser",
+      "Terumah B'yad Yisrael",
+      "Terumah B'yad Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Ravina's resolution (betorat behemtah) and Shmuel's contrasting position, which is precisely what heading 0 ('Mi She'ne'echal Betorat') introduces, while heading 1 ('Betorat Bechor u'Ma'aser') is the essay's prose *commentary* on those same statements rather than the home for the Talmudic text itself.",
+      "chosen_heading": "Mi She'ne'echal Betorat",
+      "current_heading": "Betorat Bechor u'Ma'aser",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Terumah B'yad Kohen",
+    "candidates": [
+      "Terumah B'yad Yisrael",
+      "Terumah B'yad Kohen",
+      "Tinasein L'Kohen Acheres"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24isda's distinction between teruma in the hands of an Israelite (left to rot) versus teruma in the hands of a kohen (burned as his property), which is precisely what the 'Terumah B'yad Kohen' section's prose discusses.",
+      "chosen_heading": "Terumah B'yad Kohen",
+      "current_heading": "Terumah B'yad Kohen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Tinasein L'Kohen Acheres",
+    "candidates": [
+      "Tinasein L'Kohen Acheres",
+      "Middle Status Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 Rav Yosef's objection from ma'aser sheni, and the corrected formulation of Rav \u1e24isda distinguishing teruma in the hands of a kohen vs. a Yisrael with the conclusion to give it to a kohen in another city \u2014 directly matches the prose under heading 0.",
+      "chosen_heading": "Tinasein L'Kohen Acheres",
+      "current_heading": "Tinasein L'Kohen Acheres",
+      "moved": false
+    }
+  }
+]

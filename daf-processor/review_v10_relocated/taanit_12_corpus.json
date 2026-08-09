@@ -1,0 +1,338 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Eating Before Fast",
+    "candidates": [
+      "Eating Before Fast",
+      "No Kabbalah, No Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the content of candidate 0, which explicitly discusses the Rav Huna/Rav Zeira statement about an individual who accepted a fast eating all night yet still prays tefillas ta'anit, matching the passage exactly.",
+      "chosen_heading": "Eating Before Fast",
+      "current_heading": "Eating Before Fast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "No Kabbalah, No Prayer",
+    "candidates": [
+      "No Kabbalah, No Prayer",
+      "Kabbalah from Before",
+      "When to Say Aneinu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav Yosef's question about Rav Huna's position and Abaye's answer, which the prose of heading 0 ('No Kabbalah, No Prayer') explicitly describes and discusses in detail, matching the content of both items precisely.",
+      "chosen_heading": "No Kabbalah, No Prayer",
+      "current_heading": "No Kabbalah, No Prayer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "When to Say Aneinu",
+    "candidates": [
+      "Kabbalah from Before",
+      "When to Say Aneinu",
+      "Sunset Requirement",
+      "Mishmar Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Candidate 1's prose explicitly describes the Mar Ukva/Ginzak episode and its three rulings (ta'anit sha'os, pottery jugs, Moshe's white garment) in detail, matching all four items precisely, including Rav Chisda's clarification and Abaye's objection about the 'full-fledged fast' resolved by the 'changed his mind' case.",
+      "chosen_heading": "When to Say Aneinu",
+      "current_heading": "When to Say Aneinu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Mishmar Exception",
+    "candidates": [
+      "Sunset Requirement",
+      "Mishmar Exception",
+      "Holiday Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav \u1e24isda's ruling about sunset (the core topic of 'Sunset Requirement') and the mishmar challenge with its resolution, which together form a single Talmudic unit that belongs under the heading whose prose explicitly discusses Rav \u1e24isda's statement and its implications \u2014 the 'Sunset Requirement' section discusses both the ruling and implicitly the challenge, while 'Mishmar Exception' treats the challenge as if it were a separate standalone passage.",
+      "chosen_heading": "Sunset Requirement",
+      "current_heading": "Mishmar Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Holiday Override",
+    "candidates": [
+      "Mishmar Exception",
+      "Holiday Override",
+      "Partial Day Fast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is specifically about Rabbi Elazar bar Rabbi Tzadok's testimony regarding his family's practice when Tisha B'Av was postponed to coincide with their family holiday, and the gemara's response that it was merely self-affliction \u2014 exactly what candidate 1 ('Holiday Override') discusses in detail.",
+      "chosen_heading": "Holiday Override",
+      "current_heading": "Holiday Override",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Partial Day Fast",
+    "candidates": [
+      "Partial Day Fast",
+      "Mibe'od Yom Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the challenge from Rabbi Yo\u1e25anan's practice of declaring a partial-day fast and the Gemara's rejection that it was merely a social stratagem to avoid dining at the Nasi's house, which matches exactly the prose under 'Partial Day Fast'.",
+      "chosen_heading": "Partial Day Fast",
+      "current_heading": "Partial Day Fast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Mibe'od Yom Rule",
+    "candidates": [
+      "Mibe'od Yom Rule",
+      "Bellows Analogy",
+      "Mincha Acceptance",
+      "Davening Integration",
+      "Ta'anit & Tefillah Link",
+      "Holidays & Vows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Shmuel's 'mibe'od yom' ruling and Rabba bar Sheila's bellows analogy, both of which are introduced and explained in the 'Mibe'od Yom Rule' section's prose, while candidate 1 ('Bellows Analogy') incorrectly attributes the question to Rav Yosef rather than the anonymous Gemara, making the current placement the best match.",
+      "chosen_heading": "Mibe'od Yom Rule",
+      "current_heading": "Mibe'od Yom Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Holidays & Vows",
+    "candidates": [
+      "Bellows Analogy",
+      "Mincha Acceptance",
+      "Davening Integration",
+      "Ta'anit & Tefillah Link",
+      "Holidays & Vows",
+      "Textual Variants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly concern the citation from Megillat Ta'anit used to support Shmuel's position and the interpretation of the word 'yeaser' in that text, which is precisely what the 'Holidays & Vows' section's prose discusses.",
+      "chosen_heading": "Holidays & Vows",
+      "current_heading": "Holidays & Vows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Textual Variants",
+    "candidates": [
+      "Textual Variants",
+      "Monday Thursday Fasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi \u1e24iyya and Rabbi Shimon berebbi disagreeing over the textual reading (yeiser vs. ye'aser) directly matches the 'Textual Variants' prose, which explicitly describes this exact dispute and these exact figures.",
+      "chosen_heading": "Textual Variants",
+      "current_heading": "Textual Variants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Monday Thursday Fasts",
+    "candidates": [
+      "Monday Thursday Fasts",
+      "Making Up Fasts",
+      "Reification",
+      "Eating Until When"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita from Megillat Ta'anit about an individual who accepted Monday-Thursday fasts conflicting with yom tov days, which is precisely what heading 0's prose discusses in detail.",
+      "chosen_heading": "Monday Thursday Fasts",
+      "current_heading": "Monday Thursday Fasts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Eating Until When",
+    "candidates": [
+      "Making Up Fasts",
+      "Reification",
+      "Eating Until When",
+      "Finishing the Meal",
+      "Rising & Sleep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita discusses until when one may eat and drink before a fast (until dawn per Rabbi, until rooster-call per Rabbi Elazar b'Rabbi Shimon), and Abaye's qualification about finishing one's meal \u2014 the 'Eating Until When' section's prose directly introduces and discusses exactly this baraita and these rulings.",
+      "chosen_heading": "Eating Until When",
+      "current_heading": "Eating Until When",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Rising & Sleep",
+    "candidates": [
+      "Finishing the Meal",
+      "Rising & Sleep",
+      "Dozing State"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the finishing-meal objection and the sleep objection with their resolutions, matching precisely the prose of 'Rising & Sleep' which describes both the gamar v'amad challenge and the yashan v'amad challenge along with their respective resolutions.",
+      "chosen_heading": "Rising & Sleep",
+      "current_heading": "Rising & Sleep",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Dozing State",
+    "candidates": [
+      "Dozing State",
+      "Intent & Preparation",
+      "Shoe Precaution",
+      "Fast Types as Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rav Ashi's definition of the dozing state (*misnamnem*), which is precisely what the 'Dozing State' section's prose discusses.",
+      "chosen_heading": "Dozing State",
+      "current_heading": "Dozing State",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Fast Types as Objects",
+    "candidates": [
+      "Intent & Preparation",
+      "Shoe Precaution",
+      "Fast Types as Objects",
+      "Rav Sheshet Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Kahana/Rav's ruling that an individual who accepted a fast is prohibited from wearing shoes due to concern he may have accepted a communal fast, and gives Rabba bar Rav Sheila's remedy formula \u2014 exactly the content described in the 'Shoe Precaution' section's prose.",
+      "chosen_heading": "Shoe Precaution",
+      "current_heading": "Fast Types as Objects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rav Sheshet Challenge",
+    "candidates": [
+      "Fast Types as Objects",
+      "Rav Sheshet Challenge",
+      "Compromise Measures",
+      "Babylonian Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the exchange recounted in the 'Rav Sheshet Challenge' prose: Sages wearing shoes came to bei ta'anita, Rav Sheshet challenged them with the remark about perhaps eating too, which matches the candidate prose precisely.",
+      "chosen_heading": "Rav Sheshet Challenge",
+      "current_heading": "Rav Sheshet Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Babylonian Practice",
+    "candidates": [
+      "Compromise Measures",
+      "Babylonian Practice",
+      "Community Perception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three practices (Abaye/Rava, Mareimar/Mar Zutra, and Rav Ashi's students) together as a unified set of compromise/alternative measures, and candidate 0's prose explicitly introduces this full range of Amoraic practices including the Abaye/Rava and Mar Zutra practices described in the passage, while candidate 1 only addresses the Rav Ashi portion.",
+      "chosen_heading": "Compromise Measures",
+      "current_heading": "Babylonian Practice",
+      "moved": true
+    }
+  }
+]

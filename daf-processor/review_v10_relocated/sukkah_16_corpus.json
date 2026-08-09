@@ -1,0 +1,310 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Cloth Size Measures",
+    "candidates": [
+      "Bed Legs & Tumah",
+      "Worn-Out Vessels",
+      "Cloth Size Measures",
+      "Sedge Mat Rules",
+      "Reed Mat Sizes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states Rabbi Ami bar Tavyomei's ruling that roofing a sukka with worn vessels is invalid and then gives Abaye's definition \u2014 this is exactly the content described in the 'Worn-Out Vessels' prose, which introduces Rav Ami bar Tavyumi's teaching about bivlei kelim and their disqualification from schach due to their history as vessels.",
+      "chosen_heading": "Worn-Out Vessels",
+      "current_heading": "Cloth Size Measures",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Reed Mat Sizes",
+    "candidates": [
+      "Sedge Mat Rules",
+      "Reed Mat Sizes",
+      "Rav Huna's Solution"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rav Huna's Solution",
+    "candidates": [
+      "Rav Huna's Solution",
+      "Mishna/Baraita Conflict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Huna's statement distinguishing the case with and without a pre-existing one-tefach cavity, which is precisely what the 'Rav Huna's Solution' section discusses.",
+      "chosen_heading": "Rav Huna's Solution",
+      "current_heading": "Rav Huna's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Mishna/Baraita Conflict",
+    "candidates": [
+      "Mishna/Baraita Conflict",
+      "Tosafot Analysis",
+      "Schach Before Walls",
+      "Top-Down Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the baraita confirming Rav Huna's resolution of the mishna/baraita contradiction about hollowing out a haystack, which is precisely what the 'Mishna/Baraita Conflict' prose describes.",
+      "chosen_heading": "Mishna/Baraita Conflict",
+      "current_heading": "Mishna/Baraita Conflict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Top-Down Walls",
+    "candidates": [
+      "Tosafot Analysis",
+      "Schach Before Walls",
+      "Top-Down Walls",
+      "Bottom-Up Walls",
+      "Magic Wall Extension",
+      "Rabbi Yose Two Ways"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna passage describes the top-down vs. bottom-up wall construction rules including Rabbi Yose's opinion, and the 'Top-Down Walls' section prose explicitly introduces and explains this exact mishna content about hamshalshel dfanot.",
+      "chosen_heading": "Top-Down Walls",
+      "current_heading": "Top-Down Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rabbi Yose Two Ways",
+    "candidates": [
+      "Bottom-Up Walls",
+      "Magic Wall Extension",
+      "Rabbi Yose Two Ways",
+      "Well Boundary Case",
+      "Water Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage asks 'with regard to what principle do they disagree' and answers with the mechitza teluyah materet/einah materet formulation, which is precisely what the 'Well Boundary Case' prose describes as the gemara's framing of the dispute in Shabbat/Eruvin terminology.",
+      "chosen_heading": "Well Boundary Case",
+      "current_heading": "Rabbi Yose Two Ways",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Water Leniency",
+    "candidates": [
+      "Well Boundary Case",
+      "Water Leniency",
+      "Rav Yehuda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Mishna from Eruvin about the cistern between two courtyards with its partition rules, which candidate 0's prose explicitly describes as the mishna the gemara cites to explore the suspended wall debate \u2014 the current placement under 'Water Leniency' (candidate 1) is too late in the discussion, as that prose covers the analysis and explanation that follows the mishna's citation.",
+      "chosen_heading": "Well Boundary Case",
+      "current_heading": "Water Leniency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Rav Yehuda Position",
+    "candidates": [
+      "Water Leniency",
+      "Rav Yehuda Position",
+      "Cross-Context Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states that Rabba bar bar \u1e24ana in the name of Rabbi Yo\u1e25anan connects Rav Yehuda's position to Rabbi Yose's principle of mechitza teluyah materet across contexts, which is precisely what the 'Cross-Context Debate' prose describes.",
+      "chosen_heading": "Cross-Context Debate",
+      "current_heading": "Rav Yehuda Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Cross-Context Debate",
+    "candidates": [
+      "Rav Yehuda Position",
+      "Cross-Context Debate",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage 'velo hi, lo Rabbi Yehuda savar lah keRabbi Yose, velo Rabbi Yose savar lah keRav Yehuda' is the Gemara's rejection of the equivalence, which is precisely what Rava's Answer prose describes and analyzes in detail.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Cross-Context Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Rava's Answer",
+      "Tzipori Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the passage quoted and paraphrased in the 'Rava's Answer' prose, which explicitly discusses how Rabbi Yehuda would not extend his leniency to sukkah (de-oraita) and Rabbi Yosei would not extend his to Shabbat (de-skila), matching items 1 and 2 exactly.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Tzipori Story",
+    "candidates": [
+      "Tzipori Story",
+      "Permitting Walls",
+      "Privacy vs. Status",
+      "Shul Mechitza Rules",
+      "Mid-Height Mat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items describe the Tzipori incident \u2014 who authorized it, what happened with the Torah scroll, and the clarification about the sheets already being spread \u2014 which is precisely what the 'Tzipori Story' prose section discusses in detail.",
+      "chosen_heading": "Tzipori Story",
+      "current_heading": "Tzipori Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Mid-Height Mat",
+    "candidates": [
+      "Permitting Walls",
+      "Privacy vs. Status",
+      "Shul Mechitza Rules",
+      "Mid-Height Mat",
+      "Double Lavud"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav \u1e24isda/Avimi's ruling about a mat of four handbreadths and a bit serving as a sukkah wall via double lavud, which is precisely what the 'Mid-Height Mat' section's prose discusses.",
+      "chosen_heading": "Mid-Height Mat",
+      "current_heading": "Mid-Height Mat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Double Lavud",
+    "candidates": [
+      "Double Lavud",
+      "Seven-Tefach Mat",
+      "Gud Achis Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's question of whether double lavud is obvious and the answer that one might have thought lavud can only be invoked once, which is exactly what the 'Double Lavud' prose section describes.",
+      "chosen_heading": "Double Lavud",
+      "current_heading": "Double Lavud",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Gud Achis Application",
+    "candidates": [
+      "Seven-Tefach Mat",
+      "Gud Achis Application",
+      "Vertical Plank Wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the objection from the baraita about a seven-handbreadth mat, which is precisely what candidate 0 ('Seven-Tefach Mat') describes \u2014 the citation of the baraita and its implication \u2014 while candidate 1 describes the resolution/answer, which is also contained in this passage but the passage as a whole (objection + answer) is better introduced under the heading that sets up the baraita's challenge.",
+      "chosen_heading": "Seven-Tefach Mat",
+      "current_heading": "Gud Achis Application",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Vertical Plank Wall",
+    "candidates": [
+      "Gud Achis Application",
+      "Vertical Plank Wall",
+      "Seven-Tefach Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Ami's statement about a four-handbreadth board placed within three handbreadths of a wall using lavud, which is precisely what the 'Vertical Plank Wall' prose describes.",
+      "chosen_heading": "Vertical Plank Wall",
+      "current_heading": "Vertical Plank Wall",
+      "moved": false
+    }
+  }
+]

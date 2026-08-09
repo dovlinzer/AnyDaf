@@ -1,0 +1,369 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Braita Evidence",
+    "candidates": [
+      "Abaye's Position",
+      "Rava's Position",
+      "Braita Evidence",
+      "Abaye's Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 Rava's ruling about six-tefach amot with sochakos/atzevos variance, the baraita objection, its resolution in favor of Rava, and Abaye's reinterpretation attempt \u2014 are precisely the content described in candidate 1 ('Rava's Position') and flow directly from it, matching that prose's description of Rava's view and the sochakos/atzevos distinction.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Braita Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Abaye's Defense",
+    "candidates": [
+      "Braita Evidence",
+      "Abaye's Defense",
+      "Rava's Reinterpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's challenge from the latter clause of the baraita (Rabban Shimon ben Gamliel's statement) and Abaye's response aligning himself with Rabban Shimon ben Gamliel, which is precisely what candidate 1 ('Abaye's Defense') describes in its prose.",
+      "chosen_heading": "Abaye's Defense",
+      "current_heading": "Abaye's Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Rava's Reinterpretation",
+    "candidates": [
+      "Rava's Reinterpretation",
+      "Exception Introduced"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of question-answer-objection about whether Rava's position entails a tannaitic dispute, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Rava's Reinterpretation",
+      "current_heading": "Rava's Reinterpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Exception Introduced",
+    "candidates": [
+      "Exception Introduced",
+      "Yechezkel Source",
+      "Yesod & Sovev",
+      "Rashi Explains",
+      "Intro to Traditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly identify the components measured in the five-tefach amah (yesod, sovev, karnos, mizbe'ach hazahav) from the Ezekiel verse, which is precisely what the 'Yesod & Sovev' prose describes.",
+      "chosen_heading": "Yesod & Sovev",
+      "current_heading": "Exception Introduced",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Intro to Traditions",
+    "candidates": [
+      "Yechezkel Source",
+      "Yesod & Sovev",
+      "Rashi Explains",
+      "Intro to Traditions",
+      "Seven Species",
+      "Wheat Bread Standard",
+      "Tzaraas Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes exactly the statement 'shiurin chatzitzin umechitzin halacha leMoshe miSinai' which is precisely what the 'Intro to Traditions' prose section introduces and contextualizes.",
+      "chosen_heading": "Intro to Traditions",
+      "current_heading": "Intro to Traditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Tzaraas Mishnah",
+    "candidates": [
+      "Seven Species",
+      "Wheat Bread Standard",
+      "Tzaraas Mishnah",
+      "Barley Bean Measure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Seven Species",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the general principle that the seven-species verse (Devarim 8:8) serves as the basis for halachic measurements, which is precisely what heading 0 ('Seven Species') describes.",
+      "second_heading": "Wheat Bread Standard",
+      "second_confidence": "high",
+      "second_reason": "Item 2 details the tzaraas mishnah illustrating the wheat/kdei achilas pras shiur, which matches heading 1 ('Wheat Bread Standard') and its prose about wheat bread as the standard for kdei achilas pras, not heading 2 which is the current placement.",
+      "current_heading": "Tzaraas Mishnah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Barley Bean Measure",
+    "candidates": [
+      "Tzaraas Mishnah",
+      "Barley Bean Measure",
+      "Wine, Fig, Pomegranate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the barley-grain sized bone causing tumah through contact and carrying, which directly matches the 'Barley Bean Measure' section's prose about se'orah and bone tumah shiurim.",
+      "chosen_heading": "Barley Bean Measure",
+      "current_heading": "Barley Bean Measure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Wine, Fig, Pomegranate",
+    "candidates": [
+      "Wine, Fig, Pomegranate",
+      "Honey Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items (vine/wine for nazirite, fig for Shabbat carrying, pomegranate for vessel holes, olive oil for majority of measures) are precisely the content discussed in the 'Wine, Fig, Pomegranate' section prose, which covers gefen, te'enah, rimon, and eretz zeis shemen in exactly that order.",
+      "chosen_heading": "Wine, Fig, Pomegranate",
+      "current_heading": "Wine, Fig, Pomegranate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Honey Exception",
+    "candidates": [
+      "Honey Exception",
+      "Gemara's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses honey (dvash) and its measure of a large date-bulk for Yom Kippur, which is precisely what the 'Honey Exception' prose describes.",
+      "chosen_heading": "Honey Exception",
+      "current_heading": "Honey Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Gemara's Question",
+    "candidates": [
+      "Gemara's Question",
+      "Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Resolution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the exact resolution formula 'ella hilchesa ninhu v'asmikhinhu rabanan akrai' that candidate 1's prose explicitly describes.",
+      "second_heading": "Gemara's Question",
+      "second_confidence": "low",
+      "second_reason": "Items 2-4 introduce a new challenge about chatzitzin/ritual bath interpositions following the same dialectical pattern; candidate 0 is the closest available heading though neither candidate's prose directly addresses this sub-topic.",
+      "current_heading": "Gemara's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Resolution",
+      "Chatzitzin Biblical",
+      "Mikvah Requirements",
+      "Yitzchak's Principle",
+      "Rabbinic Extensions",
+      "Gezeirah Question",
+      "Modern Minhag",
+      "Disputed Categories",
+      "Mechitzin Biblical"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Gezeirah Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are the continuous chain about Rabbi Yitzchak's principle, the rabbinic extensions, and the gezeirah l'gezeirah answer \u2014 all explicitly covered in the 'Gezeirah Question' prose.",
+      "second_heading": "Mechitzin Biblical",
+      "second_confidence": "high",
+      "second_reason": "Item 5 begins the entirely new topic of mechitzin/partitions being biblical, which matches the 'Mechitzin Biblical' section's prose exactly.",
+      "current_heading": "Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Mechitzin Biblical",
+    "candidates": [
+      "Chatzitzin Biblical",
+      "Mikvah Requirements",
+      "Yitzchak's Principle",
+      "Rabbinic Extensions",
+      "Gezeirah Question",
+      "Modern Minhag",
+      "Disputed Categories",
+      "Mechitzin Biblical",
+      "Ten Tefachim Standard",
+      "Rabbi Yehudah's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the aron/kapores calculation (aron tisha ve-chaporet tefach = asara) as the biblical source for the ten-tefach mechitzah standard, which is precisely what the 'Mechitzin Biblical' section's prose describes.",
+      "chosen_heading": "Mechitzin Biblical",
+      "current_heading": "Mechitzin Biblical",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Rabbi Yehudah's View",
+    "candidates": [
+      "Ten Tefachim Standard",
+      "Rabbi Yehudah's View",
+      "Rabbi Meir's View",
+      "Mechitza Operations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that the halacha leMoshe miSinai is necessary specifically for Rabbi Yehuda's position because his five-tefach cubit for vessels makes the aron fall short of ten tefachim, which is exactly what the prose under 'Rabbi Yehudah's View' describes.",
+      "chosen_heading": "Rabbi Yehudah's View",
+      "current_heading": "Rabbi Yehudah's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Mechitza Operations",
+    "candidates": [
+      "Rabbi Meir's View",
+      "Mechitza Operations",
+      "Mishnah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are a question-and-answer pair specifically about Rabbi Meir's view \u2014 asking what role halacha leMoshe miSinai plays given his position, then answering that it covers gud, lavud, and dofen akuma \u2014 which matches candidate 0's prose exactly, where it poses this very question about Rabbi Meir's derivation and the role of halacha leMoshe miSinai for mechitzin.",
+      "chosen_heading": "Rabbi Meir's View",
+      "current_heading": "Mechitza Operations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Mishnah Case",
+    "candidates": [
+      "Mechitza Operations",
+      "Mishnah Case",
+      "Lowering Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically asks 'how much must he diminish it?' and gives the answer 'the amount he needs,' which corresponds directly to the 'Lowering Amount' section's prose about the gemara asking kama mema'it and discussing how much one needs to lower it.",
+      "chosen_heading": "Lowering Amount",
+      "current_heading": "Mishnah Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Lowering Amount",
+    "candidates": [
+      "Mishnah Case",
+      "Lowering Amount",
+      "Rav Yosef's View",
+      "Abaye's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the question of how wide the raised area must be (rochvo bekama) and presents both Rav Yosef's and Abaye's answers together, which corresponds to the 'Lowering Amount' section that explicitly discusses the width question (rochvo bekama) as its central topic.",
+      "chosen_heading": "Lowering Amount",
+      "current_heading": "Lowering Amount",
+      "moved": false
+    }
+  }
+]

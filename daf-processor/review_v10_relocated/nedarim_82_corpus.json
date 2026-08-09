@@ -1,0 +1,184 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Rav Nachman's Answer",
+    "candidates": [
+      "Bathing & Makeup",
+      "Rabanan vs. R. Yosi",
+      "Husband's Limited Power",
+      "The Question Posed",
+      "Rav Nachman's Answer",
+      "Rava's Objection",
+      "Attribution to Rabbi Yosi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Nachman's answer to Rava's question \u2014 the citation of the mishnah about 'netulah ani min hayehudim' and the proof that tashmish is classified as beino l'veina \u2014 which is precisely what the prose under heading 4 ('Rav Nachman's Answer') describes.",
+      "chosen_heading": "Rav Nachman's Answer",
+      "current_heading": "Rav Nachman's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Attribution to Rabbi Yosi",
+    "candidates": [
+      "Rava's Objection",
+      "Attribution to Rabbi Yosi",
+      "Nature of Marriage",
+      "Shmuel's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Huna's statement that the entire chapter is Rabbi Yosi's, the textual reasoning from 'divrei Rabbi Yosi,' and the 'mikan v'eilach' inference \u2014 all of which are precisely what the 'Attribution to Rabbi Yosi' prose section describes.",
+      "chosen_heading": "Attribution to Rabbi Yosi",
+      "current_heading": "Attribution to Rabbi Yosi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Shmuel's Ruling",
+    "candidates": [
+      "Nature of Marriage",
+      "Shmuel's Ruling",
+      "One Source Suffices",
+      "Mishnah's Objection",
+      "Mishnah: Fruit Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's ruling transmitted in Levi's name about which vows a husband can and cannot nullify, which is precisely what the 'Shmuel's Ruling' section's prose introduces and discusses.",
+      "chosen_heading": "Shmuel's Ruling",
+      "current_heading": "Shmuel's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Mishnah: Fruit Source",
+    "candidates": [
+      "One Source Suffices",
+      "Mishnah's Objection",
+      "Mishnah: Fruit Source",
+      "Sole Provider Case",
+      "Mishnah's Plain Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the mishnah's objection to Shmuel's position (peirot medinah zo alai / bring from another country), which is exactly what candidate 1 'Mishnah's Objection' describes, while candidate 2 'Mishnah: Fruit Source' is about Rav Yosef's forced reading to salvage Shmuel's position \u2014 which comes after this passage.",
+      "chosen_heading": "Mishnah's Objection",
+      "current_heading": "Mishnah: Fruit Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Mishnah's Plain Reading",
+    "candidates": [
+      "Sole Provider Case",
+      "Mishnah's Plain Reading",
+      "Two Loaves Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-4 form the continuous Gemara sequence that raises the objection from the storekeeper clause, attempts a forced reading, shows it fails because of the sole-provider continuation, retracts, and resolves via Rabbi Yosi \u2014 exactly the content described in candidate 0's prose about the sole-provider case collapsing the forced reading.",
+      "chosen_heading": "Sole Provider Case",
+      "current_heading": "Mishnah's Plain Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Two Loaves Setup",
+    "candidates": [
+      "Mishnah's Plain Reading",
+      "Two Loaves Setup",
+      "Shmuel's Position",
+      "Ran's Explanation",
+      "Beino L'Veina Exception",
+      "Partial Annulment Only",
+      "Nazirite Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the two-loaves case (Shmuel's and Rabbi Yochanan's positions), which is precisely what the 'Two Loaves Setup' prose introduces \u2014 a woman vowing about two loaves where one causes deprivation and one does not \u2014 and the dispute between Shmuel and Rabbi Yochanan is the natural continuation of that setup before the deeper analysis in subsequent sections.",
+      "chosen_heading": "Two Loaves Setup",
+      "current_heading": "Two Loaves Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Nazirite Case",
+    "candidates": [
+      "Shmuel's Position",
+      "Ran's Explanation",
+      "Beino L'Veina Exception",
+      "Partial Annulment Only",
+      "Nazirite Case",
+      "Nazirite is Package Deal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's objection against Rabbi Yochanan from the nazirite mishnah \u2014 exactly the content described in candidate 4's prose about the challenge focusing on whether partial annulment leaves grape skins/pits prohibitions intact.",
+      "chosen_heading": "Nazirite Case",
+      "current_heading": "Nazirite Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Nazirite is Package Deal",
+    "candidates": [
+      "Nazirite is Package Deal",
+      "Abaye's Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Yosef's statement that naziriteship cannot take effect partially, which is precisely what candidate 0 ('Nazirite is Package Deal') discusses in its prose.",
+      "chosen_heading": "Nazirite is Package Deal",
+      "current_heading": "Nazirite is Package Deal",
+      "moved": false
+    }
+  }
+]

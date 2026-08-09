@@ -1,22 +1,22 @@
-# Bava Batra 49 — Daf Yomi Shiur
-
+[DAF:48b]
 ## Talyuhu Vezavin & Moda'ah
 
-### Talyuhu & Moda'ah Intro
 
-> **Hebrew/Aramaic:** אִינִי?! וְהָאָמַר רַב נַחְמָן: הָעֵדִים שֶׁאָמְרוּ ״אֲמָנָה הָיוּ דְּבָרֵינוּ״ – אֵין נֶאֱמָנִים; ״מוֹדָעָא הָיוּ דְּבָרֵינוּ״ – אֵין נֶאֱמָנִין!
->
-> **Translation:** The Gemara asks: **Is that so** that Rabba bar bar Ḥana can, by means of the preemptive declaration, invalidate the bill of sale that he himself signed? **But doesn't Rav Naḥman say:** With regard to **witnesses who said: Our statement** that we signed **was** a document of **trust,** i.e., a false promissory note given by one person to another, trusting that he will not make use of it until there is an actual loan, they **are not deemed credible.** And similarly, witnesses who said: **Our statement** that we signed **was** accompanied by a preemptive **declaration, are not deemed credible.** They cannot negate the testimony of the document that they themselves signed by claiming that there had been a preemptive declaration. Similarly, how could Rabba bar bar Ḥana's signing of the preemptive declaration override his signing the bill of sale?
+
+### Talyuhu & Moda'ah Intro
 
 The daf opens by returning to the closing lines of 48b, where the *sugya* of *talyuhu vezavin zvineih zvini* had just been concluded. That doctrine holds that a coerced sale is nonetheless valid — provided that money actually changes hands and the seller in some meaningful sense commits to the transaction. A dispute between the Rambam and the Ra'avad was noted in passing: whether the seller must verbally declare *rotzeh ani*, as is required in analogous cases of *get* and *korban*, or whether the receipt of funds alone suffices.
 
 The Gemara now poses a challenge — *eini*, is that really true? — in the context of two *shtarot* bearing the same witnesses. One was a *shtar mecher*, a bill of sale; the other was a *shtar moda'ah*, a pre-existing declaration of coercion. A *moda'ah* is testimony given by the seller himself, before witnesses, that he is acting under compulsion. When such a document is signed and dated prior to the *shtar mecher*, it neutralizes the sale — because even though money changed hands, the *moda'ah* establishes that the seller never genuinely consented. The principle of *talyuhu vezavin*, in the absence of a *moda'ah*, would have validated the sale; the *moda'ah* undoes that.
 
-### Rav Nachman: No Retraction Through Oral Testimony
+[DAF:49a]
+### Rav Nachman: No Retract
 
-> **Hebrew/Aramaic:** הָנֵי מִילֵּי עַל פֶּה – דְּלָא אָתֵי עַל פֶּה וּמַרַע לִשְׁטָרָא, אֲבָל בִּשְׁטָרָא – אָתֵי שְׁטָרָא וּמַרַע לִשְׁטָרָא.
->
-> **Translation:** The Gemara answers: **That matter** of witnesses not being deemed credible to nullify a document applies only when the witnesses attempt to nullify the document by means of **an oral** declaration, **as an oral** declaration **cannot come and weaken** a written **document. But** if the witnesses attempt to nullify the bill of sale by means of testimony **in** another **document,** e.g., by signing the preemptive declaration, then this preemptive **document** can **come and weaken** a written **document,** in this case, the bill of sale.
+> **Hebrew/Aramaic:** אִינִי?! וְהָאָמַר רַב נַחְמָן: הָעֵדִים שֶׁאָמְרוּ ״אֲמָנָה הָיוּ דְּבָרֵינוּ״ –
+> **Translation:** The Gemara asks: **Is that so** that Rabba bar bar Ḥana can, by means of the preemptive declaration, invalidate the bill of sale that he himself signed? **But doesn’t Rav Naḥman say:** With regard to **witnesses who said: Our statement** that we signed **was** a document of **trust,** i.e., a false promissory note given by one person to another, trusting that he will not make use of it until there is an actual loan,
+
+> **Hebrew/Aramaic:** אֵין נֶאֱמָנִים; ״מוֹדָעָא הָיוּ דְּבָרֵינוּ״ – אֵין נֶאֱמָנִין!
+> **Translation:** they **are not deemed credible.** And similarly, witnesses who said: **Our statement** that we signed **was** accompanied by a preemptive **declaration, are not deemed credible.** They cannot negate the testimony of the document that they themselves signed by claiming that there had been a preemptive declaration. Similarly, how could Rabba bar bar Ḥana’s signing of the preemptive declaration override his signing the bill of sale?
 
 The challenge the Gemara raises is this: can the same witnesses who signed the *shtar mecher* now come forward and declare verbally that a *moda'ah* had been issued — thereby undermining the very document they authenticated?
 
@@ -28,9 +28,8 @@ The same logic governs the parallel case: *moda'ah hayu devareinu ein ne'emanim*
 
 ### Peh vs. Shtar Doctrine
 
-> **Hebrew/Aramaic:** גּוּפָא – אָמַר רַב נַחְמָן: ״אֲמָנָה הָיוּ דְּבָרֵינוּ״ – אֵין נֶאֱמָנִין, ״מוֹדָעָא הָיוּ דְּבָרֵינוּ״ – אֵין נֶאֱמָנִין. וּמָר בַּר רַב אָשֵׁי אָמַר: ״אֲמָנָה הָיוּ דְּבָרֵינוּ״ – אֵין נֶאֱמָנִין, ״מוֹדָעָא הָיוּ דְּבָרֵינוּ״ – נֶאֱמָנִין. מַאי טַעְמָא? שֶׁזֶּה נִיתַּן לִיכָּתֵב, וְזֶה לֹא נִיתַּן לִיכָּתֵב.
->
-> **Translation:** The Gemara returns to discuss **the** matter **itself: Rav Naḥman says** that witnesses who said: **Our statement** that we signed **was** a document of **trust, are not deemed credible.** And similarly, witnesses who said: **Our statement** that we signed **was** accompanied by a preemptive **declaration, are not deemed credible. And Mar bar Rav Ashi says** that witnesses who said: **Our statement** that we signed **was** a statement of **trust, are not deemed credible;** but witnesses who said: **Our statement** that we signed **was** accompanied by a preemptive **declaration, are deemed credible. What is the reason** for the difference between the cases? The reason is **that this** document that was accompanied by a preemptive declaration **may be written,** as it is merely written under duress, **but that** document of trust **may not be written,** as it is a false document. Testifying that they wrote it is self-incriminating, and the witnesses are not deemed credible to incriminate themselves.
+> **Hebrew/Aramaic:** הָנֵי מִילֵּי עַל פֶּה – דְּלָא אָתֵי עַל פֶּה וּמַרַע לִשְׁטָרָא, אֲבָל בִּשְׁטָרָא – אָתֵי שְׁטָרָא וּמַרַע לִשְׁטָרָא.
+> **Translation:** The Gemara answers: **That matter** of witnesses not being deemed credible to nullify a document applies only when the witnesses attempt to nullify the document by means of **an oral** declaration, **as an oral** declaration **cannot come and weaken** a written **document. But** if the witnesses attempt to nullify the bill of sale by means of testimony **in** another **document,** e.g., by signing the preemptive declaration, then this preemptive **document** can **come and weaken** a written **document,** in this case, the bill of sale.
 
 This leads to a critical distinction. Mar bar Rav Ashi introduces a qualification: *amana hayu devareinu ein ne'emanim* — that remains true. But *moda'ah hayu devareinu ne'emanim* — if they claim it was a *moda'ah*, they *are* believed. How does this square with what was just said?
 
@@ -41,6 +40,12 @@ Two distinct factors combine here. First, the *shtar moda'ah* constitutes sealed
 It should be noted that even if the same witnesses appear on both documents, this does not undermine the analysis. The point is precisely that the *shtar moda'ah*, as a prior authenticated document, stands independently. What the witnesses cannot do is testify verbally against a *shtar* they signed; what they can do — or rather, what the pre-existing *shtar moda'ah* does on its own — is speak document-to-document against the *shtar mecher*.
 
 ### Amana vs. Moda'ah Ethics
+
+> **Hebrew/Aramaic:** גּוּפָא – אָמַר רַב נַחְמָן: ״אֲמָנָה הָיוּ דְּבָרֵינוּ״ – אֵין נֶאֱמָנִין, ״מוֹדָעָא הָיוּ דְּבָרֵינוּ״ – אֵין נֶאֱמָנִין.
+> **Translation:** The Gemara returns to discuss **the** matter **itself: Rav Naḥman says** that witnesses who said: **Our statement** that we signed **was** a document of **trust, are not deemed credible.** And similarly, witnesses who said: **Our statement** that we signed **was** accompanied by a preemptive **declaration, are not deemed credible.**
+
+> **Hebrew/Aramaic:** וּמָר בַּר רַב אָשֵׁי אָמַר: ״אֲמָנָה הָיוּ דְּבָרֵינוּ״ – אֵין נֶאֱמָנִין, ״מוֹדָעָא הָיוּ דְּבָרֵינוּ״ – נֶאֱמָנִין. מַאי טַעְמָא? שֶׁזֶּה נִיתַּן לִיכָּתֵב, וְזֶה לֹא נִיתַּן לִיכָּתֵב.
+> **Translation:** **And Mar bar Rav Ashi says** that witnesses who said: **Our statement** that we signed **was** a statement of **trust, are not deemed credible;** but witnesses who said: **Our statement** that we signed **was** accompanied by a preemptive **declaration, are deemed credible. What is the reason** for the difference between the cases? The reason is **that this** document that was accompanied by a preemptive declaration **may be written,** as it is merely written under duress, **but that** document of trust **may not be written,** as it is a false document. Testifying that they wrote it is self-incriminating, and the witnesses are not deemed credible to incriminate themselves.
 
 Mar bar Rav Ashi's position — that the *amana* claim fails whereas the *moda'ah* claim succeeds — rests not only on evidentiary logic but on an ethical distinction. *Mai ta'ama? Shezeh nitan likhtov vezeh lo nitan likhtov* — one of these documents ought to have been written and one ought not to have been.
 
@@ -54,11 +59,9 @@ A question was raised in the course of this discussion about an analogous scenar
 
 ## Husband No Chazaka
 
-### Nikhsei Tzon Barzel & Milog
 
-> **Hebrew/Aramaic:** וְלֹא לָאִישׁ חֲזָקָה בְּנִכְסֵי אִשְׁתּוֹ וְכוּ׳. פְּשִׁיטָא – כֵּיוָן דְּאִית לֵיהּ לְפֵירָא, פֵּירָא הוּא דְּקָאָכֵיל!
->
-> **Translation:** § The mishna teaches that **a man does not have** the ability to establish the **presumption** of ownership **with regard to his wife's property** and a wife does not have the ability to establish the presumption of ownership with regard to her husband's property. The Gemara asks: Isn't this **obvious? Since he has** the right **to** enjoy **the profits** of her property while they are married, **it is** known **that** he is only **enjoying the profits** and that he has no claim to the field itself. On what grounds, then, would he establish the presumption of ownership?
+
+### Tzon Barzel & Milog
 
 The Mishnah now introduces a new section: *ve-habba'al ein lo chazaka be-nikhsei ishto* — a husband does not acquire *chazaka* in his wife's property. To understand this ruling, it is necessary to recall the two categories of property a wife brings into the marriage.
 
@@ -68,9 +71,8 @@ The second category is *nikhsei milog*. Here, the wife retains title throughout 
 
 ### No Chazaka Despite Peirot
 
-> **Hebrew/Aramaic:** לָא צְרִיכָא, דִּכְתַב לַהּ: ״דִּין וּדְבָרִים אֵין לִי בִּנְכָסַיִיךְ״.
->
-> **Translation:** The Gemara responds: **No,** it is **necessary** to teach this *halakha* in a case **where** the husband **wrote to** his wife: **I do not have any legal** dealings **or involvement with your property,** i.e., he forfeits his right to enjoy the profits of her property, and therefore if he subsequently did enjoy the profits of her field, one might assume that it is because he acquired the land from her. It was therefore necessary for the mishna to teach that this does not indicate that he owns the land, since it is possible that she does not prevent him from enjoying the profits, due to their relationship.
+> **Hebrew/Aramaic:** וְלֹא לָאִישׁ חֲזָקָה בְּנִכְסֵי אִשְׁתּוֹ וְכוּ׳. פְּשִׁיטָא – כֵּיוָן דְּאִית לֵיהּ לְפֵירָא, פֵּירָא הוּא דְּקָאָכֵיל!
+> **Translation:** § The mishna teaches that **a man does not have** the ability to establish the **presumption** of ownership **with regard to his wife’s property** and a wife does not have the ability to establish the presumption of ownership with regard to her husband’s property. The Gemara asks: Isn’t this **obvious? Since he has** the right **to** enjoy **the profits** of her property while they are married, **it is** known **that** he is only **enjoying the profits** and that he has no claim to the field itself. On what grounds, then, would he establish the presumption of ownership?
 
 With these categories in mind, the scope of the Mishnah's ruling becomes clear. *Nikhsei tzon barzel* is already the husband's property outright — the rule that he lacks *chazaka* cannot refer to that. The Mishnah must be speaking of *nikhsei milog*, which is genuinely *nikhsei ishto*, property that belongs to her.
 
@@ -80,19 +82,28 @@ The Gemara answers that the *chiddush* lies in a more nuanced case.
 
 ### Waiver Before Marriage
 
-> **Hebrew/Aramaic:** וְכִי כְּתַב לַהּ – מַאי הָוֵי? וְהָתַנְיָא, הָאוֹמֵר לַחֲבֵירוֹ: ״דִּין וּדְבָרִים אֵין לִי עַל שָׂדֶה זוֹ״, וְ״אֵין לִי עֵסֶק בָּהּ״, וְ״יָדַי מְסוּלָּקוֹת מִמֶּנָּה״ – לֹא אָמַר כְּלוּם! אָמְרִי לַהּ דְּבֵי רַבִּי יַנַּאי: מַתְנִיתִין בְּכוֹתֵב לָהּ וְעוֹדָהּ אֲרוּסָה – וְכִדְרַב כָּהֲנָא, דְּאָמַר רַב כָּהֲנָא: נַחֲלָה הַבָּאָה לוֹ לְאָדָם מִמָּקוֹם אַחֵר, אָדָם מַתְנֶה עָלֶיהָ שֶׁלֹּא יִירָשֶׁנָּה.
->
-> **Translation:** The Gemara asks: **And if** he **wrote** this **to her, what of it? And isn't it taught** in a *baraita*: **One who says to another: I do not have** any **legal** dealings **or involvement concerning this field, or: I have no dealings with it, or: My hands are removed from it, has not said anything.** That is to say, these statements have no legal standing. The scholars **of the school of Rabbi Yannai said** with regard to **this: The mishna** states its ruling **with regard to** one who **writes** this formulation **to her while she is still** only **betrothed,** before he had any rights to her property. Therefore, he is able to prevent his rights from taking effect after the marriage. **And** this is **in accordance with** the statement **of Rav Kahana, as Rav Kahana says:** With regard to **an inheritance that comes to a person from another place,** i.e., an inheritance one will receive in the future, **a person can make a condition about it** from the outset **that he will not inherit it,** since one can waive his future rights to property that is not currently his.
+> **Hebrew/Aramaic:** לָא צְרִיכָא, דִּכְתַב לַהּ: ״דִּין וּדְבָרִים אֵין לִי בִּנְכָסַיִיךְ״.
+> **Translation:** The Gemara responds: **No,** it is **necessary** to teach this *halakha* in a case **where** the husband **wrote to** his wife: **I do not have any legal** dealings **or involvement with your property,** i.e., he forfeits his right to enjoy the profits of her property, and therefore if he subsequently did enjoy the profits of her field, one might assume that it is because he acquired the land from her. It was therefore necessary for the mishna to teach that this does not indicate that he owns the land, since it is possible that she does not prevent him from enjoying the profits, due to their relationship.
 
-The ruling is needed for the case in which the husband wrote to his wife *din u-devarim ein li bi-nechasayich*, formally renouncing any claim against her properties. For such a waiver to be effective regarding *peirot*, it must go further — it must specifically renounce not only the principal property but also the produce, and the produce of the produce, and so on. But suppose he has validly waived all of that. Now during the marriage, he is observed eating the produce of her *nikhsei milog*. Since he has no legal entitlement to the fruit, one might reason that his eating it for three years constitutes *chazaka* — evidence that he purchased the property outright.
+> **Hebrew/Aramaic:** וְכִי כְּתַב לַהּ – מַאי הָוֵי? וְהָתַנְיָא, הָאוֹמֵר לַחֲבֵירוֹ: ״דִּין וּדְבָרִים אֵין לִי עַל שָׂדֶה זוֹ״, וְ״אֵין לִי עֵסֶק בָּהּ״, וְ״יָדַי מְסוּלָּקוֹת מִמֶּנָּה״ – לֹא אָמַר כְּלוּם!
+> **Translation:** The Gemara asks: **And if** he **wrote** this **to her, what of it? And isn’t it taught** in a *baraita*: **One who says to another: I do not have** any **legal** dealings **or involvement concerning this field, or: I have no dealings with it, or: My hands are removed from it, has not said anything.** That is to say, these statements have no legal standing.
+
+*Lo tzricha, de-chasav lah* — the ruling is needed for the case in which the husband wrote to his wife *din u-devarim ein li bi-nechasayich*, formally renouncing any claim against her properties. For such a waiver to be effective regarding *peirot*, it must go further — it must specifically renounce not only the principal property but also the produce, and the produce of the produce, and so on. But suppose he has validly waived all of that. Now during the marriage, he is observed eating the produce of her *nikhsei milog*. Since he has no legal entitlement to the fruit, one might reason that his eating it for three years constitutes *chazaka* — evidence that he purchased the property outright.
 
 The Mishnah tells us this does not follow. Even though he has waived his legal rights, we say that the wife simply tolerates his eating — she allows it without objection, because he is her husband, not because she has sold him the land. The *chiddush* is therefore that even in the case of waiver, no *chazaka* is established.
 
 But this immediately raises a technical problem. If *din u-devarim ein li bi-nechasayich* is the text of the waiver, does such language even work? The Gemara cites a *baraita*: *ha-omer le-chavero din u-devarim ein li al sadeh zo, ve-ein li esek bah, yadi mesuleket heimena, lo amar klum* — such formulations accomplish nothing. One cannot divest oneself of property rights merely by saying one is removing one's hands from the matter; an actual *kinyan* is required to transfer or relinquish rights already possessed.
 
-The answer, attributed to the school of Rabbi Yannai, is *be-chotev lah ve-odah arusah* — the ruling speaks of a case where the husband issued the waiver while she was still an *arusah*, i.e., after *kiddushin* but before *nisu'in*. This is critical. At the time of *kiddushin*, the formal betrothal, the relationship is already legally constituted, so the waiver is contextually meaningful. But the husband's *kinyan peirot* over *nikhsei milog* does not actually take effect until *nisu'in*, the full marriage. If the waiver is declared before *nisu'in*, the husband is renouncing a right he has not yet received — and such a pre-emptive renunciation is valid.
-
+[DAF:49b]
 ### Rav Kahana Nachalah
+
+> **Hebrew/Aramaic:** אָמְרִי לַהּ דְּבֵי רַבִּי יַנַּאי: מַתְנִיתִין בְּכוֹתֵב לָהּ וְעוֹדָהּ אֲרוּסָה – וְכִדְרַב כָּהֲנָא, דְּאָמַר רַב כָּהֲנָא:
+> **Translation:** The scholars **of the school of Rabbi Yannai said** with regard to **this: The mishna** states its ruling **with regard to** one who **writes** this formulation **to her while she is still** only **betrothed,** before he had any rights to her property. Therefore, he is able to prevent his rights from taking effect after the marriage. **And** this is **in accordance with** the statement **of Rav Kahana, as Rav Kahana says:**
+
+> **Hebrew/Aramaic:** נַחֲלָה הַבָּאָה לוֹ לְאָדָם מִמָּקוֹם אַחֵר, אָדָם מַתְנֶה עָלֶיהָ שֶׁלֹּא יִירָשֶׁנָּה. וְכִדְרָבָא – דְּאָמַר רָבָא: כׇּל הָאוֹמֵר ״אִי אֶפְשִׁי בְּתַקָּנַת חֲכָמִים״ כְּגוֹן זֹאת, שׁוֹמְעִין לוֹ.
+> **Translation:** With regard to **an inheritance that comes to a person from another place,** i.e., an inheritance one will receive in the future, **a person can make a condition about it** from the outset **that he will not inherit it,** since one can waive his future rights to property that is not currently his. **And** this ruling is **in accordance with** the opinion **of Rava, as Rava said** that with regard to **anyone who says: I do not want** to avail myself **of an ordinance of the Sages such as this** one that was instituted for my benefit, one **listens to him.**
+
+The answer, attributed to the school of Rabbi Yannai, is *be-chotev lah ve-odah arusah* — the ruling speaks of a case where the husband issued the waiver while she was still an *arusah*, i.e., after *kiddushin* but before *nisu'in*. This is critical. At the time of *kiddushin*, the formal betrothal, the relationship is already legally constituted, so the waiver is contextually meaningful. But the husband's *kinyan peirot* over *nikhsei milog* does not actually take effect until *nisu'in*, the full marriage. If the waiver is declared before *nisu'in*, the husband is renouncing a right he has not yet received — and such a pre-emptive renunciation is valid. Note the asymmetry: if he wrote the waiver after *nisu'in*, he would already possess the right to *peirot* at the moment of writing, and renouncing it then would accomplish nothing. In that case, the absence of *chazaka* would be obvious, since the waiver itself is legally inert. The *chiddush* is specifically that even when the waiver is valid — because it was executed before *nisu'in* — no *chazaka* is established. It is that harder case that the ruling is designed to address.
 
 This follows the principle of Rav Kahana: *nachalah ha-ba'ah lo le-adam mi-makom acher adam matneh aleha she-lo yirashenah* — a person may stipulate, before receiving a benefit that is coming to him from elsewhere, that he does not wish to receive it, and that stipulation is binding. One must be careful with the word *nachalah* here: it does not refer to biblical inheritance (*yerushah*), which devolves automatically and cannot be waived. The principle applies specifically to benefits of rabbinic origin. If the Sages have decreed that a person receives certain rights — such as a husband's entitlement to *achilat peirot* from *nikhsei milog* — that person may, before those rights take effect, declare that he does not wish to avail himself of them. The Rashbam in the first line of his commentary here makes this explicit: *nachalah ha-ba'ah lo... t'hei ke-nachalah d'rabanan* — the "inheritance" coming to him should be understood as rabbinic in nature, and it is in that domain that one may stipulate against receiving it.
 
@@ -100,13 +111,11 @@ This principle also supports the discussion of *matnat shechiv mera*: a deathbed
 
 ---
 
-## Marital Reciprocity & Aikkar Mezonot
+## Marital Obligations Aik
+
+
 
 ### Aikkar Mezonot
-
-> **Hebrew/Aramaic:** וְכִדְרָבָא – דְּאָמַר רָבָא: כׇּל הָאוֹמֵר ״אִי אֶפְשִׁי בְּתַקָּנַת חֲכָמִים״ כְּגוֹן זֹאת, שׁוֹמְעִין לוֹ. מַאי ״כְּגוֹן זֹאת״? כִּדְרַב הוּנָא אָמַר רַב – דְּאָמַר רַב הוּנָא אָמַר רַב: יְכוֹלָה אִשָּׁה שֶׁתֹּאמַר לְבַעְלָהּ: ״אֵינִי נִיזּוֹנֶת וְאֵינִי עוֹשָׂה״.
->
-> **Translation:** **And** this ruling is **in accordance with** the opinion **of Rava, as Rava said** that with regard to **anyone who says: I do not want** to avail myself **of an ordinance of the Sages such as this** one that was instituted for my benefit, one **listens to him. What** is meant by: **Such as this** one? The Gemara explains: Rava is referring to **that** statement **of Rav Huna,** who said that **Rav says** a certain ruling. **As Rav Huna says** that **Rav says: A woman can say to her husband: I will not be sustained** by you and, in turn, **I will not work,** i.e., you will not keep my earnings. The Sages instituted that a husband must provide sustenance for his wife, and in exchange is entitled to her wages. Since this was instituted for the benefit of wives, the wife is able to opt out of this arrangement. Similarly, the husband may waive his rights to the profits from his wife's land. It is in such a circumstance that the mishna rules that even if he relinquished his rights, he does not establish the presumption of ownership by enjoying the profits.
 
 Rava's statement — *kol ha-omer iy efshi be-takanas chachamim ke-gone zo, shomin lo* — whoever says he does not wish to avail himself of a particular rabbinic enactment in a case like this, we listen to him — is now applied. The phrase *ke-gone zo*, "a case like this," requires identification, and the Gemara supplies it by reference to Rav Huna's ruling: *yekholah ishah she-tomer le-ba'alah eini nizonet ve-eini osah* — a woman may say to her husband, "I will not be fed by you, and I will not turn over my earnings to you."
 
@@ -114,7 +123,10 @@ This ruling makes sense only against the background of a central structural ques
 
 The conclusion is that *mezonot* is the *ikar*. The primary concern of the Sages was to ensure that the wife is provided for. Having secured that, they awarded the husband her earnings as a fair counterpart. Because the wife is the designated beneficiary of the core arrangement, she has standing to declare *iy efshi be-takanas chachamim* — I do not want this enactment to apply to me. And if she does so, she keeps her earnings, and the husband is released from his *mezonot* obligation.
 
-### Kolech Rider & Shared Assets
+> **Hebrew/Aramaic:** מַאי ״כְּגוֹן זֹאת״? כִּדְרַב הוּנָא אָמַר רַב – דְּאָמַר רַב הוּנָא אָמַר רַב: יְכוֹלָה אִשָּׁה שֶׁתֹּאמַר לְבַעְלָהּ: ״אֵינִי נִיזּוֹנֶת וְאֵינִי עוֹשָׂה״.
+> **Translation:** The Gemara asks: **What** is meant by: **Such as this** one? The Gemara explains: Rava is referring to **that** statement **of Rav Huna,** who said that **Rav says** a certain ruling. **As Rav Huna says** that **Rav says: A woman can say to her husband: I will not be sustained** by you and, in turn, **I will not work,** i.e., you will not keep my earnings. The Sages instituted that a husband must provide sustenance for his wife, and in exchange is entitled to her wages. Since this was instituted for the benefit of wives, the wife is able to opt out of this arrangement. Similarly, the husband may waive his rights to the profits from his wife’s land. It is in such a circumstance that the mishna rules that even if he relinquished his rights, he does not establish the presumption of ownership by enjoying the profits.
+
+### Kolech Rider & Assets
 
 This ruling has direct contemporary relevance. In Israel, when a marriage dissolves, the case may be adjudicated in a *beit din* rather than a secular civil court (*beit mishpat*). The *beit din* can use the *ketubah* framework as its basis for dividing assets. This creates a potential problem: if the wife was the primary earner throughout the marriage, a *beit din* might rule that all her earnings belong to the husband in exchange for the *mezonot* he provided — even if that *mezonot* was modest relative to her income.
 
@@ -124,11 +136,12 @@ To address this, the organization Kolech developed a rider to the *ketubah*. The
 
 Every one of the *tnai ketubah* — the ongoing obligations embedded in the *ketubah* — exhibits a structure of reciprocity: one party receives a benefit, and in exchange undertakes a corresponding obligation. *Mezonot* is given to the wife; *maaseh yadayim* goes to the husband. The question now is: what does the wife receive in exchange for the husband's entitlement to *achilat peirot* from her *nikhsei milog*?
 
-The answer is *pidyon shvuyim* — the obligation of the husband to redeem his wife if she is taken captive. The asymmetry here is striking. The husband eats *peirot* regularly over the course of the marriage, while the scenario of captivity may never arise — and if it does, the cost of redemption could be enormous. The lecturer offers the analogy of catastrophic insurance: the *peirot* consumed annually function as the premiums paid into an insurance policy, the payout of which is the wife's redemption. The premiums may never be recovered in the form of a claim, but that is the nature of insurance. The husband pays his "premium" — the fruits he enjoys — and in exchange the policy exists: if his wife is ever taken captive, regardless of the cost, he must redeem her.
+The answer is *pidyon shvuyim* — the obligation of the husband to redeem his wife if she is taken captive. The asymmetry here is striking. The husband eats *peirot* regularly over the course of the marriage, while the scenario of captivity may never arise — and if it does, the cost of redemption could be enormous. Consider the analogy of catastrophic insurance: the *peirot* consumed annually function as the premiums paid into an insurance policy, the payout of which is the wife's redemption. The premiums may never be recovered in the form of a claim, but that is the nature of insurance. The husband pays his "premium" — the fruits he enjoys — and in exchange the policy exists: if his wife is ever taken captive, regardless of the cost, he must redeem her.
 
 Captivity was not a far-fetched scenario in the world of the *gemara*. The Mishnah deals extensively with *pidyon shvuyim*, and in many parts of the world the kidnapping of travelers and businesspeople remained a realistic threat into relatively recent times. The obligation reflects not a theoretical concern but a genuine social reality.
 
-### Tosafot Redemption Obligation
+### Tosafot: Redemption
+
 
 The Gemara's framing appears to presuppose that if the husband waives his right to *achilat peirot*, he thereby also frees himself from the obligation to redeem his wife, since the reciprocal exchange that gave rise to that obligation no longer applies. Tosafot, however, seriously challenges this inference.
 
@@ -138,17 +151,18 @@ Tosafot's second argument goes further. Even granting that the husband is in som
 
 Tosafot also raises a distinction regarding timing. The *mezonot*-for-*maaseh yadayim* arrangement is ongoing and bilateral: at any point during the marriage, the wife can elect to switch terms — to keep her earnings and release the husband from *mezonot* — and can potentially reverse that decision later, since the arrangement operates continuously. The *peirot*-for-*pidyon shvuyim* exchange does not work that way. Because the *peirot* are being "paid" continuously as insurance premiums against a future contingency, the husband cannot change the terms mid-marriage by suddenly waiving his *peirot* rights. It would be analogous to an elderly person attempting to take out a catastrophic insurance policy at the same premium rate that applied decades earlier — the terms cannot be renegotiated after the underlying risk profile has changed.
 
-The bottom line of Tosafot's position is that regardless of how one resolves the theoretical question of who is the primary beneficiary, the husband cannot in practice escape the obligation to redeem his wife. If he wishes to waive *achilat peirot*, that waiver may be effective as far as the fruits are concerned, but the redemption obligation persists. Tosafot does not fully work out the textual implications for this *sugya*, but the thrust of the position is clear: *pidyon shvuyim* is non-negotiable.
+The bottom line of Tosafot's position is that regardless of how one resolves the theoretical question of who is the primary beneficiary, the husband cannot in practice escape the obligation to redeem his wife. If he wishes to waive *achilat peirot*, that waiver may be effective as far as the fruits are concerned, but the redemption obligation persists. Tosafot does not fully work out the textual implications for this *sugya*, but the thrust of the position is clear: *pidyon shvuyim* is non-negotiable. It is worth noting, in this connection, that the obligation falls specifically on the husband rather than on the community at large — even though in principle the community also bears some responsibility for *pidyon shvuyim* — because a personal obligation is more reliably discharged, and because there is practical value in ensuring that the resources of the husband, who has been continuously benefiting from the *peirot*, are the ones committed to her redemption.
 
 ---
 
 ## Rayah vs. Chazaka
 
+
+
 ### Nachat Ruach Claim
 
-> **Hebrew/Aramaic:** הָא רְאָיָה – יֵשׁ? תֵּימָא: ״נַחַת רוּחַ עָשִׂיתִי לְבַעְלִי״!
->
-> **Translation:** § The mishna teaches that a husband does not establish the presumption of ownership of his wife's field by enjoying its profits. The Gemara suggests: By inference, the husband **has** the ability to bring **proof** that he purchased the field from his wife or received it as a gift from her and consequently be regarded as the owner of the field. The Gemara asks: Why is this proof decisive? **Let her say: I did** it, i.e., I gave or sold the field to my husband, only to **please my husband,** but I did not mean it.
+> **Hebrew/Aramaic:** הָא רְאָיָה – יֵשׁ? תֵּימָא: ״נַחַת רוּחַ עָשִׂיתִי לְבַעְלִי״!
+> **Translation:** § The mishna teaches that a husband does not establish the presumption of ownership of his wife’s field by enjoying its profits. The Gemara suggests: By inference, the husband **has** the ability to bring **proof** that he purchased the field from his wife or received it as a gift from her and consequently be regarded as the owner of the field. The Gemara asks: Why is this proof decisive? **Let her say: I did** it, i.e., I gave or sold the field to my husband, only to **please my husband,** but I did not mean it.
 
 The Gemara now pivots to the question of *rayah* — evidentiary proof — as distinct from *chazaka*. The discussion establishes that even if the husband lacks *chazaka* in his wife's *nikhsei milog*, one might assume that a written *shtar* — signed testimony that she sold him the property — would suffice. But even this is not straightforward.
 
@@ -156,17 +170,19 @@ The wife may respond with the claim of *nachat ruach asiti le-ba'ali* — "I onl
 
 ### Lien Waiver Invalid
 
-> **Hebrew/Aramaic:** מִי לָא תְּנַן: לָקַח מִן הָאִישׁ, וְחָזַר וְלָקַח מִן הָאִשָּׁה – מִקָּחוֹ בָּטֵל; אַלְמָא אָמְרָה: ״נַחַת רוּחַ עָשִׂיתִי לְבַעְלִי״, הָכָא נָמֵי תֵּימָא: ״נַחַת רוּחַ עָשִׂיתִי לְבַעְלִי״!
->
-> **Translation:** The Gemara quotes a source for this claim: **Didn't we learn** in a mishna (*Gittin* 55b): If one first **purchased** land **from the husband and** afterward **returned and purchased** it **from the wife,** i.e., he purchased her rights to this land for after the death of her husband or in the event of their divorce, as stipulated in her marriage contract, then **his transaction is void. Apparently, she said: I did** it, i.e., signed this bill of sale, only to **please my husband,** but I did not mean it. **Here too let her say: I did** it only to **please my husband** but did not mean to give or sell the field to him.
-
 The Gemara invokes a Mishnah to anchor this principle: *lakach min ha-ish ve-chazar ve-lakach min ha-ishah mekachu batel* — if a buyer purchased from the husband, then went to the wife and purchased from her as well, the entire transaction is void. The scenario is as follows. During the marriage, the husband holds *achilat peirot* over the wife's *nikhsei milog*. A third party purchases the *peirot* rights from the husband and then acquires the title from the wife, expecting to thereby become the complete owner of the property — holding both the usufruct and the title. The Mishnah says this does not work, and the wife's defense is precisely *nachat ruach asiti le-ba'ali*: her husband had already committed to selling the property by transferring the *peirot* rights, and she felt compelled to go along by signing over her title — not because she genuinely wanted to sell, but because refusing would have implied she was anticipating his death or divorce, which would have been deeply insulting to him.
+
+> **Hebrew/Aramaic:** מִי לָא תְּנַן: לָקַח מִן הָאִישׁ, וְחָזַר וְלָקַח מִן הָאִשָּׁה – מִקָּחוֹ בָּטֵל; אַלְמָא אָמְרָה: ״נַחַת רוּחַ עָשִׂיתִי לְבַעְלִי״, הָכָא נָמֵי תֵּימָא: ״נַחַת רוּחַ עָשִׂיתִי לְבַעְלִי״!
+> **Translation:** The Gemara quotes a source for this claim: **Didn’t we learn** in a mishna (*Gittin* 55b): If one first **purchased** land **from the husband and** afterward **returned and purchased** it **from the wife,** i.e., he purchased her rights to this land for after the death of her husband or in the event of their divorce, as stipulated in her marriage contract, then **his transaction is void. Apparently, she said: I did** it, i.e., signed this bill of sale, only to **please my husband,** but I did not mean it. **Here too let her say: I did** it only to **please my husband** but did not mean to give or sell the field to him.
+
+> **Hebrew/Aramaic:** הָא אִיתְּמַר עֲלַהּ, אָמַר רַבָּה בַּר רַב הוּנָא: לֹא נִצְרְכָה אֶלָּא בְּאוֹתָן שָׁלֹשׁ שָׂדוֹת – אַחַת שֶׁכָּתַב לָהּ בִּכְתוּבָּתָהּ,
+> **Translation:** The Gemara answers: **But wasn’t it stated with regard to that** mishna that **Rabba bar Rav Huna says:** The *halakha* that a woman can claim that she acted only in order to please her husband is not stated with regard to all of her property, but **is necessary only with regard to those three** types of **fields** that have special status: **One** field about **which he wrote to her in her marriage contract** that it would serve as payment of her marriage contract;
+
+> **Hebrew/Aramaic:** וְאַחַת שֶׁיִּחֵד לָהּ בִּכְתוּבָּתָהּ, וְאַחַת שֶׁהִכְנִיסָה לוֹ שׁוּם מִשֶּׁלָּהּ.
+> **Translation:** **and one that he specified to her** as payment **for her marriage contract,** even though it was not stipulated explicitly in the contract; **and one** in a case **where she brought into** the marriage **an appraisal** of a field **from her own** property that she owned prior to the marriage, which took on the status of guaranteed property, meaning that she will receive it if her husband dies or divorces her. If a field of one of these three types is sold with her approval, she can claim that she did not truly consent to this sale, but stated her consent only in order to please her husband.
 
 ### Three Fields of Ketubah
 
-> **Hebrew/Aramaic:** הָא אִיתְּמַר עֲלַהּ, אָמַר רַבָּה בַּר רַב הוּנָא: לֹא נִצְרְכָה אֶלָּא בְּאוֹתָן שָׁלֹשׁ שָׂדוֹת – אַחַת שֶׁכָּתַב לָהּ בִּכְתוּבָּתָהּ, וְאַחַת שֶׁיִּחֵד לָהּ בִּכְתוּבָּתָהּ, וְאַחַת שֶׁהִכְנִיסָה לוֹ שׁוּם מִשֶּׁלָּהּ.
->
-> **Translation:** The Gemara answers: **But wasn't it stated with regard to that** mishna that **Rabba bar Rav Huna says:** The *halakha* that a woman can claim that she acted only in order to please her husband is not stated with regard to all of her property, but **is necessary only with regard to those three** types of **fields** that have special status: **One** field about **which he wrote to her in her marriage contract** that it would serve as payment of her marriage contract; **and one that he specified to her** as payment **for her marriage contract,** even though it was not stipulated explicitly in the contract; **and one** in a case **where she brought into** the marriage **an appraisal** of a field **from her own** property that she owned prior to the marriage, which took on the status of guaranteed property, meaning that she will receive it if her husband dies or divorces her. If a field of one of these three types is sold with her approval, she can claim that she did not truly consent to this sale, but stated her consent only in order to please her husband.
 
 Rabbah bar Rav Huna then qualifies the scope of the Mishnah: *lo nitzrecha ela be-otan gimel sadot* — the rule that the wife's "sale" can be voided through *nachat ruach* applies specifically to *otan gimel sadot*, the three special fields.
 
@@ -176,9 +192,8 @@ What the third party in the Mishnah's case was actually doing was not purchasing
 
 ### Selling Milog Valid
 
-> **Hebrew/Aramaic:** לְמַעוֹטֵי מַאי? אִילֵּימָא לְמַעוֹטֵי שְׁאָר נְכָסִים – כׇּל שֶׁכֵּן דְּהָוְיָא לֵיהּ אֵיבָה, דְּאָמַר לַהּ: עֵינַיִךְ נָתַתְּ בְּגֵירוּשִׁין וּבְמִיתָה! אֶלָּא לְמַעוֹטֵי נִכְסֵי מְלוֹג – הָאָמַר אַמֵּימָר: אִישׁ וְאִשָּׁה שֶׁמָּכְרוּ בְּנִכְסֵי מְלוֹג – לֹא עָשׂוּ וְלֹא כְּלוּם!
->
-> **Translation:** The Gemara clarifies: **To exclude what** type of property did Rabba specify these three types of fields? **If we say** that he intends **to exclude** the **rest of** the husband's **property** secured to pay her marriage contract, it is **all the more so** the case **that he will bear** her **enmity** if she does not agree to the sale, **as he will say to her:** You **have placed your eyes on divorce or on** my **death,** i.e., you will not allow me to sell my property because you are expecting and planning for my death or our divorce. Therefore, she should be able to claim that she consented to the sale only in order to please her husband with regard to other property as well. **Rather,** these three types of fields were specified in order **to exclude usufruct property,** i.e., property that belongs to the wife and remains in her possession while the husband has the right to enjoy the profits, in which case if the wife consents to the sale, it is valid. The Gemara asks: But **doesn't Ameimar say** that if there was **a man or a woman,** i.e., a husband or a wife, **who sold** the wife's **usufruct property, they did not accomplish anything,** as the sale does not take effect?
+> **Hebrew/Aramaic:** לְמַעוֹטֵי מַאי? אִילֵּימָא לְמַעוֹטֵי שְׁאָר נְכָסִים – כׇּל שֶׁכֵּן דְּהָוְיָא לֵיהּ אֵיבָה, דְּאָמַר לַהּ: עֵינַיִךְ נָתַתְּ בְּגֵירוּשִׁין וּבְמִיתָה!
+> **Translation:** The Gemara clarifies: **To exclude what** type of property did Rabba specify these three types of fields? **If we say** that he intends **to exclude** the **rest of** the husband’s **property** secured to pay her marriage contract, it is **all the more so** the case **that he will bear** her **enmity** if she does not agree to the sale, **as he will say to her:** You **have placed your eyes on divorce or on** my **death,** i.e., you will not allow me to sell my property because you are expecting and planning for my death or our divorce. Therefore, she should be able to claim that she consented to the sale only in order to please her husband with regard to other property as well.
 
 The Gemara then asks what the limiting function of "these three fields" is: *le-mautei mai* — what is it coming to exclude? The first possibility is that it excludes other, non-designated fields of the husband. But if the wife can invoke *nachat ruach* for the three primary *ketubah* fields, she can certainly do so for secondary ones — indeed, *kol shekein dhava lei eivah*, the husband's complaint would be all the more pointed: "Why are you holding liens on properties that aren't even your primary security? Do you really think the marriage is about to end?" So the exclusion cannot be aimed at other liens.
 

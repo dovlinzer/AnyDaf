@@ -1,0 +1,340 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Mishnah Text",
+    "candidates": [
+      "Greeting",
+      "Tumah to Taharah",
+      "Mishnah Text",
+      "Purification Timeline",
+      "Rabbi Akiva's View",
+      "Rabbi Tarfon's Objection",
+      "Akiva's Response",
+      "Process Comparison",
+      "Mikvah Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text itself describing the shaving of tumah procedure and the dispute between Rabbi Akiva and Rabbi Tarfon, which is exactly what the 'Mishnah Text' section's prose introduces and discusses.",
+      "chosen_heading": "Mishnah Text",
+      "current_heading": "Mishnah Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Mikvah Requirement",
+    "candidates": [
+      "Purification Timeline",
+      "Rabbi Akiva's View",
+      "Rabbi Tarfon's Objection",
+      "Akiva's Response",
+      "Process Comparison",
+      "Mikvah Requirement",
+      "Akiva's Conclusion",
+      "Did Tarfon Concede?",
+      "Hillel's Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Akiva's direct response distinguishing the nazir's purification (dependent on days) from the metzora's purification (dependent on shaving), which is exactly what the 'Akiva's Response' prose section describes.",
+      "chosen_heading": "Akiva's Response",
+      "current_heading": "Mikvah Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Hillel's Baraita",
+    "candidates": [
+      "Akiva's Conclusion",
+      "Did Tarfon Concede?",
+      "Hillel's Baraita",
+      "Rava's Resolution",
+      "Critique of Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question of whether Rabbi Tarfon accepted Rabbi Akiva's claim ('kiblah minei o lo') and introduces Hillel's baraita as evidence, which corresponds precisely to the prose under heading 1 ('Did Tarfon Concede?') rather than heading 2 which discusses the interpretation and implications of the baraita itself.",
+      "chosen_heading": "Did Tarfon Concede?",
+      "current_heading": "Hillel's Baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Critique of Rava",
+    "candidates": [
+      "Rava's Resolution",
+      "Critique of Rava",
+      "Tamei & Korbanos",
+      "Tosafot's Argument",
+      "Abaye's Quote",
+      "Zav's Approach",
+      "Zav Status Inference",
+      "Har Habayit Tours",
+      "Tamei Yotzei Migufo",
+      "Tevul Yom & Har Habayit",
+      "Abaye's Argument",
+      "Tamei Meis Permitted",
+      "Korban Timing Issue",
+      "Mechusar Kapara Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's resolution itself \u2014 distinguishing between immersing on day seven versus day eight \u2014 which is exactly what the prose under 'Rava's Resolution' (index 0) describes, not the critique of that resolution under index 1.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Critique of Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Mechusar Kapara Status",
+    "candidates": [
+      "Tamei & Korbanos",
+      "Tosafot's Argument",
+      "Abaye's Quote",
+      "Zav's Approach",
+      "Zav Status Inference",
+      "Har Habayit Tours",
+      "Tamei Yotzei Migufo",
+      "Tevul Yom & Har Habayit",
+      "Abaye's Argument",
+      "Tamei Meis Permitted",
+      "Korban Timing Issue",
+      "Mechusar Kapara Status",
+      "Tamei Yihyeh Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 7 items constitute Abaye's report of finding the colleagues of Rav Natan bar Hoshaya and the ensuing discussion \u2014 exactly what candidate 2 ('Abaye's Quote') describes as its topic, covering the braisa about the zav, the inference about tevul yom kezav dami, Abaye's challenge from the nazir, the corpse/Levite camp baraita, and Abaye's resolution \u2014 the full unit that candidate 2's prose introduces.",
+      "chosen_heading": "Abaye's Quote",
+      "current_heading": "Mechusar Kapara Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Tamei Yihyeh Source",
+    "candidates": [
+      "Mechusar Kapara Status",
+      "Tamei Yihyeh Source",
+      "Petach Ohel Moed Meaning",
+      "Conclusion on Tevul Yom",
+      "Significance",
+      "Three Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives from the baraita that 'tamei yihyeh' includes tevul yom and 'od tumato vo' includes mechusar kapara, which is precisely what the 'Tamei Yihyeh Source' section discusses.",
+      "chosen_heading": "Tamei Yihyeh Source",
+      "current_heading": "Tamei Yihyeh Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Three Animals",
+    "candidates": [
+      "Petach Ohel Moed Meaning",
+      "Conclusion on Tevul Yom",
+      "Significance",
+      "Three Animals",
+      "Which Korban?",
+      "Shelamim Opinion",
+      "Rabbi Eliezer",
+      "Bedieved Validation",
+      "Rabban Gamliel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna text describing the shaving of purity and the three animals (chatat, olah, shelamim) directly matches the 'Three Animals' section prose which introduces exactly this mishna and its content.",
+      "chosen_heading": "Three Animals",
+      "current_heading": "Three Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Rabban Gamliel",
+    "candidates": [
+      "Which Korban?",
+      "Shelamim Opinion",
+      "Rabbi Eliezer",
+      "Bedieved Validation",
+      "Rabban Gamliel",
+      "Baraita Text",
+      "Literal vs. Metaphoric"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes Rabban Shimon ben Gamliel's ruling about three animals brought without specification, which is precisely what candidate 4 ('Rabban Gamliel') discusses in its prose.",
+      "chosen_heading": "Rabban Gamliel",
+      "current_heading": "Rabban Gamliel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Literal vs. Metaphoric",
+    "candidates": [
+      "Baraita Text",
+      "Literal vs. Metaphoric",
+      "Rabbi Yoshaya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself connecting the nazirite's shaving at 'petach ohel moed' to the shelamim offering, which is precisely what the 'Baraita Text' section's prose describes.",
+      "chosen_heading": "Baraita Text",
+      "current_heading": "Literal vs. Metaphoric",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Rabbi Yoshaya",
+    "candidates": [
+      "Literal vs. Metaphoric",
+      "Rabbi Yoshaya",
+      "Rabbi Yitzchak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items address the literal vs. metaphoric question about 'pesach ohel moed' \u2014 item 1 raises the possibility that it means the literal entrance to the Tent of Meeting and responds with the bizayon argument, while item 2 (Rabbi Yoshaya) reinforces that same bizayon argument via kal v'chomer \u2014 this is precisely what the 'Literal vs. Metaphoric' prose section describes, whereas the 'Rabbi Yoshaya' section's prose already presupposes the bizayon conclusion rather than the initial question-and-answer setup.",
+      "chosen_heading": "Literal vs. Metaphoric",
+      "current_heading": "Rabbi Yoshaya",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Rabbi Yitzchak",
+    "candidates": [
+      "Rabbi Yitzchak",
+      "Abba Chanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss Rabbi Yoshiya's and Rabbi Yitzchak's derivations about where the nazirite shaves relative to the peace-offering, and the current heading's prose explicitly covers both the 'mi she'eino mechusar ela lekicha u'netina' argument and the 'makom shehu mevashel sham hayah megaleach' parallel formulation, matching all three items precisely.",
+      "chosen_heading": "Rabbi Yitzchak",
+      "current_heading": "Rabbi Yitzchak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Abba Chanan",
+    "candidates": [
+      "Abba Chanan",
+      "Shimon Shizuri"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Abba \u1e24anan's teaching in the name of Rabbi Eliezer about the nazirite shaving when the entrance to the Tent of Meeting is open, which is exactly what heading 0 ('Abba Chanan') discusses in its prose.",
+      "chosen_heading": "Abba Chanan",
+      "current_heading": "Abba Chanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Shimon Shizuri",
+    "candidates": [
+      "Shimon Shizuri",
+      "Sotah Objection",
+      "Sotah Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shimon Shizuri",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Shimon Shezuri's initial drashah that a female nazirite does not shave at the Tent of Meeting, which is precisely what heading 0 ('Shimon Shizuri') describes.",
+      "second_heading": "Sotah Objection",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the sotah objection \u2014 that we do not invoke concern of pirchei kehuna for a sota standing before the Lord \u2014 which matches exactly the prose under heading 1 ('Sotah Objection').",
+      "current_heading": "Shimon Shizuri",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Sotah Response",
+    "candidates": [
+      "Sotah Objection",
+      "Sotah Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Shimon Shezuri's response distinguishing the nazirite (who wears cosmetics) from the sota (who does not), which directly matches the 'Sotah Response' prose discussing *zu kocheles u'pokeses* and *zu eina kocheles u'pokeses*.",
+      "chosen_heading": "Sotah Response",
+      "current_heading": "Sotah Response",
+      "moved": false
+    }
+  }
+]

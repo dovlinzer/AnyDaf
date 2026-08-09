@@ -1,0 +1,189 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Yehuda vs. Meir",
+    "candidates": [
+      "Trees & Produce",
+      "Yehuda vs. Meir",
+      "Three Cases Needed",
+      "Animals Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yehuda vs. Meir",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita recording the three-case dispute between Rabbi Yehuda and Rabbi Meir, which is exactly what heading 'Yehuda vs. Meir' describes.",
+      "second_heading": "Three Cases Needed",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 form the utzricha passage explaining why all three cases are necessary, which is precisely what heading 'Three Cases Needed' describes.",
+      "current_heading": "Yehuda vs. Meir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Animals Question",
+    "candidates": [
+      "Three Cases Needed",
+      "Animals Question",
+      "Israel Restrictions",
+      "Fields vs. Homes",
+      "Syria Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single continuous unit \u2014 the dilemma about selling livestock on condition of slaughter and its resolution via a baraita \u2014 which matches precisely the 'Animals Question' prose describing exactly this question and its resolution.",
+      "chosen_heading": "Animals Question",
+      "current_heading": "Animals Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Syria Status",
+    "candidates": [
+      "Israel Restrictions",
+      "Fields vs. Homes",
+      "Syria Status",
+      "Outside Israel",
+      "Neighborhood Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 12 items together form the complete Mishna and Gemara unit about renting/selling houses and fields to gentiles in Eretz Yisrael, Syria, and outside Israel \u2014 this entire passage opens with the Mishna 'One may not rent a house to a gentile in Eretz Yisrael' and belongs under the 'Israel Restrictions' heading which introduces exactly this Mishna and its core prohibition, while the subsequent headings (Fields vs. Homes, Syria Status, Outside Israel) cover only subsections of this same passage that the essay author broke out as separate discussion topics.",
+      "chosen_heading": "Israel Restrictions",
+      "current_heading": "Syria Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Neighborhood Rule",
+    "candidates": [
+      "Outside Israel",
+      "Neighborhood Rule",
+      "Domicile Ban",
+      "Bathhouse Ban",
+      "Two-Issue Framework",
+      "Mezuzah Status",
+      "Tosafot Mezuzah",
+      "Syria Safeguard",
+      "David's Conquest",
+      "Yossi in Israel",
+      "Yossi in Syria",
+      "Tosafot Idols"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Yosef's neighborhood (shechunah) rule and Abaye's response about indirect causation (lifnei dilifnei) \u2014 are precisely the content described in the 'Neighborhood Rule' prose, which explicitly covers the shechunah threshold of three households and Abaye's lifnei dilifnei principle.",
+      "chosen_heading": "Neighborhood Rule",
+      "current_heading": "Neighborhood Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Tosafot Idols",
+    "candidates": [
+      "Domicile Ban",
+      "Bathhouse Ban",
+      "Two-Issue Framework",
+      "Mezuzah Status",
+      "Tosafot Mezuzah",
+      "Syria Safeguard",
+      "David's Conquest",
+      "Yossi in Israel",
+      "Yossi in Syria",
+      "Tosafot Idols",
+      "Rashi/Tosafot",
+      "Shimon ben Gamliel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's inference that there is a place where one may not rent to a non-Jew at all, and its identification of the unattributed mishna as Rabbi Meir (not Rabbi Yossi who permits rental everywhere) \u2014 content that directly sets up and belongs under the discussion of Rabbi Yossi's position permitting rental in Eretz Yisrael itself.",
+      "chosen_heading": "Yossi in Israel",
+      "current_heading": "Tosafot Idols",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Shimon ben Gamliel",
+    "candidates": [
+      "Rashi/Tosafot",
+      "Shimon ben Gamliel",
+      "Sharecropping Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabban Shimon ben Gamliel's ruling about renting a bathhouse to a gentile and the subsequent Gemara discussion about Samaritans and chol ha-mo'ed, which is precisely what the 'Shimon ben Gamliel' prose section describes.",
+      "chosen_heading": "Shimon ben Gamliel",
+      "current_heading": "Shimon ben Gamliel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Sharecropping Logic",
+    "candidates": [
+      "Sharecropping Logic",
+      "No Sharecropping",
+      "Property Ownership",
+      "Contractor Logic",
+      "Rabbeinu Tam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both the sharecropping logic permitting field rental to a gentile and the rebuttal that bathhouse sharecropping is uncommon, which maps directly to the 'Sharecropping Logic' section's prose about arisus arrangements for fields \u2014 the second half (about bathhouses) is the transition into the next topic but the gemara excerpt as a whole belongs under the section that introduces the sharecropping distinction.",
+      "chosen_heading": "Sharecropping Logic",
+      "current_heading": "Sharecropping Logic",
+      "moved": false
+    }
+  }
+]

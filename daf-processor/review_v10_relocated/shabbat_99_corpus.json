@@ -1,0 +1,315 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Carving Technique",
+    "candidates": [
+      "Carving Technique",
+      "Assembly Method",
+      "Hooks as Stars",
+      "Curtain Materials",
+      "Goat Hair Spinning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Assembly Method",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the carved beams and hollow sockets, which matches the 'Assembly Method' prose about carved pegs fitting into hollow sockets.",
+      "second_heading": "Hooks as Stars",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the clasps in loops looking like stars in the sky, which is precisely what the 'Hooks as Stars' prose discusses.",
+      "current_heading": "Carving Technique",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Goat Hair Spinning",
+    "candidates": [
+      "Assembly Method",
+      "Hooks as Stars",
+      "Curtain Materials",
+      "Goat Hair Spinning",
+      "Wagon Positioning",
+      "Wagon Length",
+      "Rashi's Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita that specifies the materials of the two curtain layers and discusses the greater skill required for the goat-hair upper curtains \u2014 content that belongs under 'Curtain Materials' whose prose introduces this exact baraita, while 'Goat Hair Spinning' prose already summarizes and analyzes the baraita's content, suggesting the quoted text should precede that analysis under the introductory heading.",
+      "chosen_heading": "Curtain Materials",
+      "current_heading": "Goat Hair Spinning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rashi's Model",
+    "candidates": [
+      "Wagon Positioning",
+      "Wagon Length",
+      "Rashi's Model",
+      "Base Width"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Rav's teaching about wagons being reshut harabbim (Wagon Positioning) and Abaye's statement about wagon length with the five-amot reasoning (Wagon Length), but the essay splits these into two headings; since the passage as a whole unit begins with Rav's teaching about reshut harabbim positioning, heading 0 is the better anchor, though heading 1 also captures part of the content.",
+      "chosen_heading": "Wagon Positioning",
+      "current_heading": "Rashi's Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Base Width",
+    "candidates": [
+      "Base Width",
+      "Width Derived"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rava's statement about the width of the wagon base being two and a half cubits and why one and a half would not suffice (to prevent beams from teetering), which directly matches the 'Base Width' section's prose.",
+      "chosen_heading": "Base Width",
+      "current_heading": "Base Width",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Width Derived",
+    "candidates": [
+      "Width Derived",
+      "Tosafot's Model",
+      "Dimensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the derivation of the sixteen-cubit width of reshut harabbim from the Mishkan, explaining the extra cubit occupied by the Levi \u2014 exactly what the 'Width Derived' prose describes.",
+      "chosen_heading": "Width Derived",
+      "current_heading": "Width Derived",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Dimensions",
+    "candidates": [
+      "Tosafot's Model",
+      "Dimensions",
+      "Combination Debate",
+      "Application",
+      "Drawing Prohibition",
+      "Wall Requirement",
+      "Drinking Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text about the bank surrounding a pit and boulder with dimensions of ten handbreadths high and four wide, which is precisely what the 'Dimensions' section prose introduces and explains.",
+      "chosen_heading": "Dimensions",
+      "current_heading": "Dimensions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Drinking Rule",
+    "candidates": [
+      "Combination Debate",
+      "Application",
+      "Drawing Prohibition",
+      "Wall Requirement",
+      "Drinking Rule",
+      "Rav Mordechai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's question about why the mishnah mentions the bank, Rabbi Yochanan's ruling that the pit and its bank combine to ten, and the supporting baraita \u2014 all of which the 'Combination Debate' prose explicitly discusses as the core content of that section.",
+      "chosen_heading": "Combination Debate",
+      "current_heading": "Drinking Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Rav Mordechai",
+    "candidates": [
+      "Drinking Rule",
+      "Rav Mordechai",
+      "Mishnah Res."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the dilemma Rav Mordekhai poses to Rava about a column in the public domain and the makom patur airspace issue, which is precisely what the 'Rav Mordechai' section's prose describes.",
+      "chosen_heading": "Rav Mordechai",
+      "current_heading": "Rav Mordechai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Mishnah Res.",
+    "candidates": [
+      "Mishnah Res.",
+      "Tosafot Theory",
+      "Wall Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous exchange where Rav Mordekhai consults multiple Amoraim, they respond 'it is our mishna,' he dismisses them, they challenge him, and he offers the needle/groove resolution \u2014 exactly the content described in the 'Mishnah Res.' prose.",
+      "chosen_heading": "Mishnah Res.",
+      "current_heading": "Mishnah Res.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Wall Question",
+    "candidates": [
+      "Tosafot Theory",
+      "Wall Question",
+      "Ulla's Logic",
+      "Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's dilemma about a wall in reshut harabbim that is ten tefachim high but not four wide, surrounding a karmelit and converting it to reshut hayachid, which is precisely what the 'Wall Question' prose describes.",
+      "chosen_heading": "Wall Question",
+      "current_heading": "Wall Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Precedent",
+    "candidates": [
+      "Ulla's Logic",
+      "Precedent",
+      "Digging Q.",
+      "Simultaneous Acts",
+      "Inverse Q."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Ulla's kal vachomer argument itself, which matches heading 0 ('Ulla's Logic') perfectly \u2014 heading 1 ('Precedent') describes the confirming tradition as something cited after Ulla, but the passage actually contains both Ulla's statement and the corroborating tradition together, and the primary content is Ulla's kal vachomer which belongs under heading 0.",
+      "chosen_heading": "Ulla's Logic",
+      "current_heading": "Precedent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Inverse Q.",
+    "candidates": [
+      "Digging Q.",
+      "Simultaneous Acts",
+      "Inverse Q.",
+      "Dates on Wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yochanan's dilemmas (the nine-tefach pit deepened to ten AND the ten-tefach pit reduced to nine) as a single unit, and the 'Digging Q.' heading's prose introduces the overall question while 'Simultaneous Acts' and 'Inverse Q.' each cover only one half \u2014 the full Talmudic text belongs under the first heading that introduces Rabbi Yochanan's inquiry, with the subsequent headings providing the essay author's elaboration of each sub-question.",
+      "chosen_heading": "Digging Q.",
+      "current_heading": "Inverse Q.",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Dates on Wall",
+    "candidates": [
+      "Inverse Q.",
+      "Dates on Wall",
+      "Architecture Change",
+      "Rava Q."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous gemara unit about the dveila shemena (sticky dates) case \u2014 the mishna citation, Rabbi Yochanan's resolution, the objection about reducing four amot, and the rejection distinguishing dates from dirt in a pit \u2014 which is precisely what candidate 1 ('Dates on Wall') describes in its prose.",
+      "chosen_heading": "Dates on Wall",
+      "current_heading": "Dates on Wall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Rava Q.",
+    "candidates": [
+      "Architecture Change",
+      "Rava Q.",
+      "Simultaneity",
+      "Separation Theory",
+      "Unresolved (Teiku)"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava Q.",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's initial dilemma about throwing a board onto stakes and the gemara's challenge that this seems identical to Rabbi Yochanan's question, which matches exactly the 'Rava Q.' prose describing the pegs-and-plank scenario and the gemara asking 'mai kamibaya lei.'",
+      "second_heading": "Separation Theory",
+      "second_confidence": "high",
+      "second_reason": "Item 2 clarifies that Rava's actual dilemma involves throwing a board with an object atop it and the physical impossibility of perfect simultaneity (ee efshar de-lo midalya purta), which matches exactly the 'Separation Theory' prose describing this precise scenario and the teiku resolution.",
+      "current_heading": "Rava Q.",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,349 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Theft & Locusts",
+    "candidates": [
+      "Women in Childbirth",
+      "Theft & Locusts",
+      "Judicial Sins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous passage about robbery causing locusts and famine, including Rava's comment about the women of Me\u1e25oza and the chain of biblical verses \u2014 all of which is explicitly discussed in the 'Theft & Locusts' prose.",
+      "chosen_heading": "Theft & Locusts",
+      "current_heading": "Theft & Locusts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Judicial Sins",
+    "candidates": [
+      "Judicial Sins",
+      "False Oaths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses delay/distortion/miscarriage of justice and dereliction of Torah study with their consequences, which matches exactly the prose under 'Judicial Sins' that explicates inuy hadin, ivut hadin, kilkul hadin, and bitul Torah.",
+      "chosen_heading": "Judicial Sins",
+      "current_heading": "Judicial Sins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "False Oaths",
+    "candidates": [
+      "False Oaths",
+      "Murder & Beit HaMikdash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses oaths in vain, false oaths, desecration of God's name, and desecration of Shabbat with their consequences, which is precisely what the 'False Oaths' section prose elaborates on in detail.",
+      "chosen_heading": "False Oaths",
+      "current_heading": "False Oaths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Murder & Beit HaMikdash",
+    "candidates": [
+      "Murder & Beit HaMikdash",
+      "Immorality & Idolatry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is explicitly about bloodshed causing the destruction of the Beit HaMikdash and the departure of the Shechina, which is exactly what the 'Murder & Beit HaMikdash' section's prose discusses.",
+      "chosen_heading": "Murder & Beit HaMikdash",
+      "current_heading": "Murder & Beit HaMikdash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Immorality & Idolatry",
+    "candidates": [
+      "Immorality & Idolatry",
+      "Foul Speech Consequences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the causes of exile \u2014 sexual immorality, idolatry, and Sabbatical/Jubilee violations \u2014 with their supporting verses, which is precisely what the 'Immorality & Idolatry' section prose discusses in detail.",
+      "chosen_heading": "Immorality & Idolatry",
+      "current_heading": "Immorality & Idolatry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Foul Speech Consequences",
+    "candidates": [
+      "Foul Speech Consequences",
+      "Rav Chanan on Speech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the consequence of vulgar speech (troubles, harsh decrees, youth dying, orphans and widows unanswered) with its supporting verse from Isaiah, which is exactly what the 'Foul Speech Consequences' prose section discusses in detail.",
+      "chosen_heading": "Foul Speech Consequences",
+      "current_heading": "Foul Speech Consequences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Rav Chanan on Speech",
+    "candidates": [
+      "Rav Chanan on Speech",
+      "Illness as Sign",
+      "Three Types of Hidrokan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are explicitly discussed in the prose of candidate 0 ('Rav Chanan on Speech'), which covers the vulgar speech teachings of Rav \u1e24anan bar Rava, Rabba bar Sheila/Rav \u1e24isda, Rav Na\u1e25man bar Yitz\u1e25ak, and Rav Oshaya's teaching about wounds and hidrokan \u2014 exactly matching both items in this passage.",
+      "chosen_heading": "Rav Chanan on Speech",
+      "current_heading": "Rav Chanan on Speech",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Three Types of Hidrokan",
+    "candidates": [
+      "Illness as Sign",
+      "Three Types of Hidrokan",
+      "Askara Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items \u2014 the three types of hidrokan, the cases of Shmuel HaKatan/Abaye/Rava, the four signs baraita, and the askara/tithes/lashon hara baraita \u2014 are explicitly covered in the prose under 'Three Types of Hidrokan', making that the correct and current placement.",
+      "chosen_heading": "Three Types of Hidrokan",
+      "current_heading": "Three Types of Hidrokan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Askara Question",
+    "candidates": [
+      "Askara Question",
+      "Rabbi Yehuda: Askara",
+      "Three Explanations",
+      "Theodicy Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the entire dilemma question plus all three sages' responses, and the current heading's prose explicitly introduces the dilemma and the Kerem b'Yavne gathering, making it the best match \u2014 the subsequent headings' prose separately analyze the individual responses in detail, but the Talmudic text itself is one continuous unit best placed under heading 0 where the framing question is discussed.",
+      "chosen_heading": "Askara Question",
+      "current_heading": "Askara Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Theodicy Problem",
+    "candidates": [
+      "Rabbi Yehuda: Askara",
+      "Three Explanations",
+      "Theodicy Problem",
+      "Righteous Suffer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the theodicy objections (women, gentiles, children, school children) and Rabbi Shimon's answers that candidate 2's prose explicitly discusses, making the current placement correct.",
+      "chosen_heading": "Theodicy Problem",
+      "current_heading": "Theodicy Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Righteous Suffer",
+    "candidates": [
+      "Righteous Suffer",
+      "Three Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Guryon's teaching about righteous people and school children being seized for the generation's sins, which is precisely what the prose under 'Righteous Suffer' addresses in detail.",
+      "chosen_heading": "Righteous Suffer",
+      "current_heading": "Righteous Suffer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Three Positions",
+    "candidates": [
+      "Three Positions",
+      "Consequences",
+      "Twelve Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the three rabbis' debate about Rome's accomplishments and the consequences that followed, which maps precisely to the 'Three Positions' section's prose discussing Rabbi Yehuda, Rabbi Yose, and Rabbi Shimon's differing views on Roman achievements.",
+      "chosen_heading": "Three Positions",
+      "current_heading": "Three Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Twelve Years",
+    "candidates": [
+      "Consequences",
+      "Twelve Years",
+      "Burning & Repentance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Shimon and his son hiding in the study hall, then the cave, the miracle of the carob tree and spring, their twelve-year stay, and Elijah's announcement \u2014 exactly the content discussed in the 'Twelve Years' section prose.",
+      "chosen_heading": "Twelve Years",
+      "current_heading": "Twelve Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Burning & Repentance",
+    "candidates": [
+      "Burning & Repentance",
+      "Lesson of Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content discussed in the 'Burning & Repentance' prose: emerging from the cave, burning gazes, the bat kol commanding return, the twelve-month second stay, and Rabbi Shimon healing what Rabbi Elazar smote.",
+      "chosen_heading": "Burning & Repentance",
+      "current_heading": "Burning & Repentance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Lesson of Shabbat",
+    "candidates": [
+      "Lesson of Shabbat",
+      "Decision to Help"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are explicitly discussed together in the prose of candidate 0 ('Lesson of Shabbat'), which covers the myrtle bundles episode and immediately follows with the Rabbi Pinchas ben Ya'ir bathhouse scene in the same continuous narrative section.",
+      "chosen_heading": "Lesson of Shabbat",
+      "current_heading": "Lesson of Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Decision to Help",
+    "candidates": [
+      "Decision to Help",
+      "Cemetery Work",
+      "Elder's Death"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Decision to Help",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Rabbi Shimon's decision to help and the Jacob parallel (currency, markets, bathhouses), which matches exactly the 'Decision to Help' prose about vayichan, Rav/Shmuel/Rabbi Yochanan, and the Jacob analogy.",
+      "second_heading": "Cemetery Work",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the elder's testimony about Ben Zakkai and Rabbi Shimon's survey of hard vs. soft ground, which matches exactly the 'Cemetery Work' prose about the safek tumah problem, the elder's reply, and the tahor/marked determination.",
+      "current_heading": "Decision to Help",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Elder's Death",
+    "candidates": [
+      "Cemetery Work",
+      "Elder's Death",
+      "Yehuda's Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the elder's sarcastic remark and death AND Yehuda ben Gerim's death, but the current placement under 'Elder's Death' is correct since that section's prose explicitly covers both events (including Yehuda ben Gerim's death at the end), while the 'Yehuda's Death' section's prose is the essay author's extended commentary/analysis rather than the primary home for the Talmudic text itself.",
+      "chosen_heading": "Elder's Death",
+      "current_heading": "Elder's Death",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Rava on Meaningful",
+    "candidates": [
+      "Temurah vs Mechallel",
+      "Rava on Meaningful",
+      "Rav Ashi Context",
+      "Hand Position",
+      "Abaye Mixed",
+      "Favorable Bias"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava on Meaningful",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's statement about finding desacralization language even in kodshei mizbe'ach when a ba'al mum is present, which matches exactly the 'Rava on Meaningful' prose discussing Rava's principle about interpreting tachat as redemption when the animal has a mum.",
+      "second_heading": "Rav Ashi Context",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Ashi's refinement that even with a ba'al mum both achulei and atfusa readings are possible, which matches exactly the 'Rav Ashi Context' prose describing Rav Ashi's qualification of Rava's principle.",
+      "current_heading": "Rava on Meaningful",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Favorable Bias",
+    "candidates": [
+      "Rav Ashi Context",
+      "Hand Position",
+      "Abaye Mixed",
+      "Favorable Bias",
+      "Rashi Tosafot",
+      "Three Animals",
+      "Four Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 7 items are Abaye's chain of dilemmas about mixed groups of blemished/unblemished kodesh and chullin animals pronounced tachat simultaneously \u2014 exactly the content described in candidate 2 ('Abaye Mixed'), which explicitly describes the two-kodesh/two-chullin scenario (items 1-2), the mixed one-blemished/one-unblemished scenario (items 3-5), and the three-animal scenario (items 6-7).",
+      "chosen_heading": "Abaye Mixed",
+      "current_heading": "Favorable Bias",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Four Animals",
+    "candidates": [
+      "Rashi Tosafot",
+      "Three Animals",
+      "Four Animals",
+      "Teiku Ending",
+      "Effect Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are Rav Ashi's dilemma about four kodesh animals (three temimot and one ba'al mum) and whether a chazakah of issur from three instances sweeps in the fourth, ending in teiku \u2014 exactly what the 'Four Animals' prose describes.",
+      "chosen_heading": "Four Animals",
+      "current_heading": "Four Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Effect Levels",
+    "candidates": [
+      "Teiku Ending",
+      "Effect Levels",
+      "Ona'ah Hekdesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items introduce the dispute between Rabbi Yo\u1e25anan and Reish Lakish about whether the desacralization takes effect de'oraita and whether the appraisal requirement is biblical or rabbinic \u2014 exactly the topic described in the 'Effect Levels' prose.",
+      "chosen_heading": "Effect Levels",
+      "current_heading": "Effect Levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Ona'ah Hekdesh",
+    "candidates": [
+      "Ona'ah Hekdesh",
+      "Shmuel Intent",
+      "Intent Frame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question about whether the dispute concerns ona'ah (one-sixth discrepancy) and the objection that hekdesh is exempt from ona'ah per the Mishnah in Bava Metzia \u2014 exactly what candidate 0's prose describes as the opening move of that analysis.",
+      "chosen_heading": "Ona'ah Hekdesh",
+      "current_heading": "Ona'ah Hekdesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Intent Frame",
+    "candidates": [
+      "Shmuel Intent",
+      "Intent Frame",
+      "Assessment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-10 all deal with the Rabbi Yo\u1e25anan/Reish Lakish dispute over bittul mekach, the reversal of their opinions, and the debate between Rabbi Yirmeya and Rabbi Yona about Shmuel's ruling \u2014 exactly what the 'Shmuel Intent' prose describes, not the 'Intent Frame' prose which discusses the lekatchilah/bedi'avad reframing and Rav Chisda's statement that comes after.",
+      "chosen_heading": "Shmuel Intent",
+      "current_heading": "Intent Frame",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Assessment",
+    "candidates": [
+      "Intent Frame",
+      "Assessment",
+      "Generic Formula"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain about Ulla's ruling on assessments by two versus three people, the Rav Safra challenge about majority opinions, the yad hekdesh objection, and the Gemara's resolution \u2014 exactly the content described in the 'Assessment' prose.",
+      "chosen_heading": "Assessment",
+      "current_heading": "Assessment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Generic Formula",
+    "candidates": [
+      "Generic Formula",
+      "Non-Kosher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the requirement that temurah language must refer to a specific animal rather than a generic category, matching precisely the content described in the 'Generic Formula' prose.",
+      "chosen_heading": "Generic Formula",
+      "current_heading": "Generic Formula",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Non-Kosher",
+    "candidates": [
+      "Non-Kosher",
+      "Rabbi Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnaic ruling about non-kosher and blemished animals being declared 'an olah' versus 'for an olah,' which is precisely what the prose under 'Non-Kosher' discusses.",
+      "chosen_heading": "Non-Kosher",
+      "current_heading": "Non-Kosher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Rabbi Meir",
+    "candidates": [
+      "Rabbi Meir",
+      "Gender Mum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rav Yehuda citing Rav that the Mishnah does not follow Rabbi Meir's principle of 'a person does not utter words in vain,' which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Rabbi Meir",
+      "current_heading": "Rabbi Meir",
+      "moved": false
+    }
+  }
+]

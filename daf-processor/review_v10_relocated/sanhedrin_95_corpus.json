@@ -1,0 +1,456 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Abundance & Neglect",
+    "candidates": [
+      "Chizkiyahu Mashiach",
+      "Universal Torah Knowledge",
+      "Abundance & Neglect",
+      "Spoils Distribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains Isaiah 7:21-23 about the calf/sheep and the thousand vines worth a thousand silver coins being left for briars and thorns due to the people's devotion to Torah study, which is precisely what the 'Abundance & Neglect' section's prose discusses.",
+      "chosen_heading": "Abundance & Neglect",
+      "current_heading": "Abundance & Neglect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Spoils Distribution",
+    "candidates": [
+      "Spoils Distribution",
+      "Locust Metaphor",
+      "Ten Tribes Spoils",
+      "Conquest Nullifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the prophet's instruction to gather spoils and the people's question about pillaging vs. dividing, which is the core topic of the 'Spoils Distribution' section, even though the locust metaphor answer is also included \u2014 the current placement captures the full exchange beginning with the question of distribution.",
+      "chosen_heading": "Spoils Distribution",
+      "current_heading": "Spoils Distribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Conquest Nullifies",
+    "candidates": [
+      "Locust Metaphor",
+      "Ten Tribes Spoils",
+      "Conquest Nullifies",
+      "Yeush & Property",
+      "Ten Stages Listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question about the ten tribes' property being intermingled with Sennacherib's spoils, which matches the 'Ten Tribes Spoils' section prose exactly, even though it also contains the geivim/purification response that appears in 'Conquest Nullifies' \u2014 the question-and-answer unit belongs together under the heading that introduces the question.",
+      "chosen_heading": "Ten Tribes Spoils",
+      "current_heading": "Conquest Nullifies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Ten Stages Listed",
+    "candidates": [
+      "Yeush & Property",
+      "Ten Stages Listed",
+      "Lion's Six Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Huna's teaching about Sennacherib's ten journeys and the prophetic interpolation explaining why 'Cry with a shrill voice, daughter of Gallim' and 'Hearken, Laish' don't count as geographic stages, which is precisely what the 'Ten Stages Listed' prose describes.",
+      "chosen_heading": "Ten Stages Listed",
+      "current_heading": "Ten Stages Listed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Lion's Six Names",
+    "candidates": [
+      "Lion's Six Names",
+      "Nov's Sin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Nov's Sin",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 discuss the meaning of 'aniyya Anathoth' and Jeremiah's prophecy from Anathoth, which relates to Nov's sin and the broader context of Sennacherib's march rather than the lion's six names.",
+      "second_heading": "Lion's Six Names",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is precisely the content described in the 'Lion's Six Names' prose \u2014 the mi dami question about ari vs. layish, Rabbi Yochanan's list of six lion names, and the resolution that averu and mabara count as two separate stages.",
+      "current_heading": "Lion's Six Names",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Nov's Sin",
+    "candidates": [
+      "Nov's Sin",
+      "Astrologers' Prophecy",
+      "Sancheriv at Jerusalem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the sin of Nov explanation AND the astrologers' prophecy and one-day journey, but the current placement under 'Nov's Sin' captures the opening interpretation while the astrologers content bleeds into heading 1; since the passage is a single unit and the current placement matches its primary opening content, it stays where it is, though confidence is medium given the overlap.",
+      "chosen_heading": "Nov's Sin",
+      "current_heading": "Nov's Sin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Sancheriv at Jerusalem",
+    "candidates": [
+      "Astrologers' Prophecy",
+      "Sancheriv at Jerusalem",
+      "Postponement Decision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Sennacherib arriving at Jerusalem, being raised on mats to survey the city, finding it small and contemptible, and shaking his head at the Temple Mount \u2014 exactly what the prose under 'Sancheriv at Jerusalem' discusses.",
+      "chosen_heading": "Sancheriv at Jerusalem",
+      "current_heading": "Sancheriv at Jerusalem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Postponement Decision",
+    "candidates": [
+      "Postponement Decision",
+      "Annihilation Night",
+      "Justice & Sleep",
+      "Yishbi & Causality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the postponement decision and its immediate consequence (the annihilation), but the current placement under 'Postponement Decision' is reasonable since the text flows through the officers' urging, Sennacherib's delay command, the annihilation verse, and Rav Pappa's adage all as one continuous unit \u2014 though it overlaps with headings 1 and 2, the current placement is the best single anchor given the passage begins with the postponement decision.",
+      "chosen_heading": "Postponement Decision",
+      "current_heading": "Postponement Decision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Yishbi & Causality",
+    "candidates": [
+      "Annihilation Night",
+      "Justice & Sleep",
+      "Yishbi & Causality",
+      "David's Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses Ishbibenob/Nov and God's rebuke of David over the Nov massacre, which is exactly what the 'Yishbi & Causality' section's prose is about.",
+      "chosen_heading": "Yishbi & Causality",
+      "current_heading": "Yishbi & Causality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "David's Choice",
+    "candidates": [
+      "David's Choice",
+      "Demon Deer Trap",
+      "Olive Press Miracle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes David's choice between having his descendants wiped out or being handed to an enemy, which is precisely what the 'David's Choice' section's prose describes.",
+      "chosen_heading": "David's Choice",
+      "current_heading": "David's Choice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Olive Press Miracle",
+    "candidates": [
+      "Demon Deer Trap",
+      "Olive Press Miracle",
+      "Avishai's Rescue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the demon deer trap (Satan appearing as a deer, leading David to Philistine territory) AND the olive press incident, but the prose under 'Demon Deer Trap' (index 0) already discusses the deer/arrow/Philistines sequence while the 'Olive Press Miracle' prose (index 1) covers only the Ishbibenob/olive press portion \u2014 however, since the Talmudic passage is a single continuous unit covering both events and index 0's prose explicitly discusses the deer trap narrative that opens this passage, while index 1's prose better matches the second half, the passage as a whole most naturally belongs under index 0 which begins the narrative sequence, but actually the current placement under index 1 is where the olive press miracle content sits \u2014 reconsidering: the passage contains both the deer trap AND the olive press, but index 0 prose covers the deer trap and index 1 prose covers the olive press, suggesting the automated pipeline split the narrative; since the passage is one unit and index 0's prose discusses the deer-trap lead-up while index 1's prose discusses the olive press outcome, and the passage covers both, the better single heading is index 0 since it introduces the sequence that this passage opens with.",
+      "chosen_heading": "Demon Deer Trap",
+      "current_heading": "Olive Press Miracle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Avishai's Rescue",
+    "candidates": [
+      "Olive Press Miracle",
+      "Avishai's Rescue",
+      "Bound Prisoner",
+      "Hovering Between"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe Abishai's rescue mission \u2014 his omen of distress, halachic inquiry about riding the king's mule, miraculous land-contraction, and killing of Orpah \u2014 which is precisely what candidate 1's prose ('Avishai's Rescue') discusses in detail.",
+      "chosen_heading": "Avishai's Rescue",
+      "current_heading": "Avishai's Rescue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Hovering Between",
+    "candidates": [
+      "Bound Prisoner",
+      "Hovering Between",
+      "Reverse Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the moment Ishbibenob throws David and Abishai saves him by invoking a divine name \u2014 exactly what candidate 0 ('Bound Prisoner') covers, including the spear-throwing, David suspended in the air, and the principle that a prisoner cannot free himself, all of which that prose explicitly discusses.",
+      "chosen_heading": "Bound Prisoner",
+      "current_heading": "Hovering Between",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Reverse Prayer",
+    "candidates": [
+      "Hovering Between",
+      "Reverse Prayer",
+      "Taunting Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Reverse Prayer' section's prose, which explicitly discusses Avishai's advice to reverse the prayer, David's response ('ee hachi, sayyatan'), Rav Yehuda/Rav's explanation that Avishai helped through prayer, and Avishai invoking the divine name \u2014 exactly matching items 1 and 2.",
+      "chosen_heading": "Reverse Prayer",
+      "current_heading": "Reverse Prayer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Taunting Strategy",
+    "candidates": [
+      "Taunting Strategy",
+      "Mother's Memory",
+      "Oath of Protection",
+      "Eliezer's Journey",
+      "Avishai's Speed",
+      "Jacob's Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the taunting with Orpah's name and the killing of Ishbibenob, plus the oath verse \u2014 but the specific content about mentioning the mother's name causing his strength to fail matches 'Mother's Memory' prose most precisely, and that section's prose explicitly references all these elements including the killing.",
+      "chosen_heading": "Mother's Memory",
+      "current_heading": "Taunting Strategy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Jacob's Return",
+    "candidates": [
+      "Mother's Memory",
+      "Oath of Protection",
+      "Eliezer's Journey",
+      "Avishai's Speed",
+      "Jacob's Return",
+      "Officer Breakdown",
+      "Total Army Size"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Candidate 4's prose explicitly covers all five items in sequence \u2014 the three land-contracting figures (Eliezer, Jacob, Abishai), Jacob's journey details, the premature sunset and sunrise, and the David/Athaliah/Abiathar discussion \u2014 matching the current placement exactly.",
+      "chosen_heading": "Jacob's Return",
+      "current_heading": "Jacob's Return",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Total Army Size",
+    "candidates": [
+      "Officer Breakdown",
+      "Total Army Size",
+      "Officers Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the composition of Sennacherib's force (sons of kings in golden carriages, consorts, warriors, sword-bearers, cavalry), which matches the 'Officer Breakdown' section's prose that discusses exactly these elements including the shiglonot/zonot detail \u2014 while the current placement under 'Total Army Size' covers the arithmetic and broader context that follows this passage.",
+      "chosen_heading": "Officer Breakdown",
+      "current_heading": "Total Army Size",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Officers Distinction",
+    "candidates": [
+      "Total Army Size",
+      "Officers Distinction",
+      "Annihilation Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about camp size and the 'minus one' question, the river-crossing description, and the question about 185,000 with Rabbi Abbahu's answer about regiment leaders \u2014 are precisely what the 'Officers Distinction' prose describes, including the teyku about 'minus one,' the swimming/neck/dry-land crossing sequence, and the distinction between the 185,000 and the full army size.",
+      "chosen_heading": "Officers Distinction",
+      "current_heading": "Officers Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125,
+      126
+    ],
+    "current_heading": "Annihilation Methods",
+    "candidates": [
+      "Annihilation Methods",
+      "Angels' Song",
+      "Survivor Counts"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Survivor Counts",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (Rav Ashi/Ravina's textual proofs about who was killed, then the dispute about the method of striking) belong under 'Annihilation Methods' where the prose explicitly discusses Rabbi Eliezer, Rabbi Yehoshua, and Rabbi Eliezer ben Rabbi Yossi HaGelili's opinions on how the angel struck.",
+      "second_heading": "Angels' Song",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 (Rabbi Shimon ben Yo\u1e25ai's ripening-fruit opinion through Rabbi Yitz\u1e25ak Nappa\u1e25a's ears/song opinion) culminate in the angels' song killing the troops, which matches the 'Angels' Song' section's prose that explicitly discusses Rabbi Yitz\u1e25ak's opinion and connects it to the shira theme.",
+      "current_heading": "Annihilation Methods",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Survivor Counts",
+    "candidates": [
+      "Angels' Song",
+      "Survivor Counts",
+      "Five Survivors",
+      "Angel Recognition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the dispute between Rav and Shmuel about how many soldiers survived (ten vs. nine), which matches the 'Survivor Counts' section prose discussing these same opinions and their scriptural derivations.",
+      "chosen_heading": "Survivor Counts",
+      "current_heading": "Survivor Counts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Angel Recognition",
+    "candidates": [
+      "Five Survivors",
+      "Angel Recognition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Yehoshua ben Levi's count of fourteen AND Rabbi Yochanan's five survivors with all their proofs, but the section heading 'Five Survivors' and its prose introduce Rabbi Yochanan's position as the main topic, while 'Angel Recognition' only covers the sub-detail about Nebuchadnezzar \u2014 the full passage including the fourteen/five dispute and all three proofs fits better under 'Five Survivors' as an introductory heading.",
+      "chosen_heading": "Five Survivors",
+      "current_heading": "Angel Recognition",
+      "moved": true
+    }
+  }
+]

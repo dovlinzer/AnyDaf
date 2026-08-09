@@ -1,0 +1,345 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Wings Touching Nest",
+    "candidates": [
+      "Rovetzet Definition",
+      "Wings Touching Nest",
+      "Single Chick/Egg",
+      "Fertilized & Dependent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the hovering/wings-touching rule and the single chick/egg case, but the current placement under 'Wings Touching Nest' is correct since that heading's prose explicitly describes this mishna in full, including both components, and the passage is a single mishna unit.",
+      "chosen_heading": "Wings Touching Nest",
+      "current_heading": "Wings Touching Nest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Fertilized & Dependent",
+    "candidates": [
+      "Single Chick/Egg",
+      "Fertilized & Dependent",
+      "Rovetzet vs. Yoshevet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses flying fledglings and unfertilized eggs as exemptions from the shiluach haken obligation, which is precisely what the 'Fertilized & Dependent' section's prose describes.",
+      "chosen_heading": "Fertilized & Dependent",
+      "current_heading": "Fertilized & Dependent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rovetzet vs. Yoshevet",
+    "candidates": [
+      "Rovetzet vs. Yoshevet",
+      "Two Branches Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation of rovetzet vs yoshevet and the hovering-with-wings-touching case, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Rovetzet vs. Yoshevet",
+      "current_heading": "Rovetzet vs. Yoshevet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Two Branches Test",
+    "candidates": [
+      "Two Branches Test",
+      "Between vs. On Top"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yehuda/Rav's ruling about a bird sitting between two branches and the 'would she fall upon them' test, which is precisely what the 'Two Branches Test' prose describes and analyzes.",
+      "chosen_heading": "Two Branches Test",
+      "current_heading": "Two Branches Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Between vs. On Top",
+    "candidates": [
+      "Between vs. On Top",
+      "Hovering Baraita Issue",
+      "Side vs. Top Touch",
+      "Rachamim Concern",
+      "Three Interpretations",
+      "Formalism vs. Values",
+      "Repeated Returns"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Between vs. On Top",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 present the baraita as an objection to Rav's view, work through the beineihen/al gabeihen parallel, and resolve the hovering contradiction via Rabbi Yirmiya \u2014 exactly what heading 0 ('Between vs. On Top') describes.",
+      "second_heading": "Hovering Baraita Issue",
+      "second_confidence": "high",
+      "second_reason": "Items 7-11 present the 'ika d'amri' version where the same baraita is offered as support rather than objection, work through the same parallel in reverse, and conclude with Rav Yehuda's resolution \u2014 matching heading 1 ('Hovering Baraita Issue') which explicitly describes the 'ika d'amri' attempt and the me'ofefet itztricha lei response.",
+      "current_heading": "Between vs. On Top",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Repeated Returns",
+    "candidates": [
+      "Hovering Baraita Issue",
+      "Side vs. Top Touch",
+      "Rachamim Concern",
+      "Three Interpretations",
+      "Formalism vs. Values",
+      "Repeated Returns",
+      "Mother Choice Scenario",
+      "Return After Taking",
+      "Shaleach Tishalach",
+      "Metzora Case"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 2,
+      "split2": 3,
+      "first_heading": "Repeated Returns",
+      "first_confidence": "low",
+      "first_reason": "Segment 1 discusses the Gemara's analysis of whether one egg/fledgling suffices for the obligation, which doesn't cleanly match 'Repeated Returns' \u2014 it actually fits better under a heading about the mishna's ruling on single eggs, but the closest available candidate is 'Repeated Returns' where it currently sits, though no candidate perfectly describes this content about the 'one fledgling or egg' debate.",
+      "second_heading": "Mother Choice Scenario",
+      "second_confidence": "medium",
+      "second_reason": "Segment 2's mishna covers both the 'sent away and returned' case and the 'I will take the mother and send the offspring' scenario, making 'Mother Choice Scenario' a better fit than 'Repeated Returns' since that heading's prose explicitly discusses the declaration about taking the mother versus sending the chicks.",
+      "third_heading": "Shaleach Tishalach",
+      "third_confidence": "high",
+      "third_reason": "Segment 3's Gemara directly addresses the doubled language 'shalle'a\u1e25 teshalla\u1e25' and the student's suggestion that it means only two mandatory sendings, which matches the 'Shaleach Tishalach' heading precisely.",
+      "current_heading": "Repeated Returns",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Metzora Case",
+    "candidates": [
+      "Mother Choice Scenario",
+      "Return After Taking",
+      "Shaleach Tishalach",
+      "Metzora Case",
+      "Rav Abba Reasoning",
+      "Lav HaNitak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's discussion of 'shaleach tishalach' \u2014 item 1 is Rava's explanation that 'shaleach' means even 100 times and 'tishalach' teaches the obligation applies even for a dvar mitzvah, and item 2 is Rabbi Abba's follow-up question about why a verse was needed given the principle that an asei cannot override a lav and asei \u2014 all of which is precisely what candidate 2 ('Shaleach Tishalach') describes in its prose.",
+      "chosen_heading": "Shaleach Tishalach",
+      "current_heading": "Metzora Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Lav HaNitak",
+    "candidates": [
+      "Rav Abba Reasoning",
+      "Lav HaNitak",
+      "General Rule",
+      "Two Versions"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 7,
+      "split2": 8,
+      "first_heading": "Lav HaNitak",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 covers exactly the content described in heading 1 ('Lav HaNitak'): the de-avar ve-shaklah scenario, the kiymo/bitlo distinction, Rabbi Yehuda's position, and Mar bar Rav Ashi's resolution \u2014 all matching the prose of that heading precisely.",
+      "second_heading": "General Rule",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna stating the general rule about lav ha-nitak la-asei and the dispute between Rabbi Yehuda and the Sages, which matches heading 2 ('General Rule') exactly.",
+      "third_heading": "Two Versions",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 opens the Gemara with Rabbi Abba bar Memel's dilemma about Rabbi Yehuda's reasoning regarding lav ha-nitak la-asei, which corresponds to heading 3 ('Two Versions') that discusses the two formulations of when lashes apply under this principle.",
+      "current_heading": "Lav HaNitak",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Two Versions",
+    "candidates": [
+      "General Rule",
+      "Two Versions",
+      "Rabbi Yehuda Position",
+      "Trustworthy Baraitas",
+      "Why Untrustworthy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the second possibility (the 'or perhaps' formulation) about whether Rabbi Yehuda accepts the general principle of lav ha-nitak la-asei but interprets 'shalle'a\u1e25' as applying only at the outset \u2014 which is precisely the question the prose of 'Rabbi Yehuda Position' describes as being posed in the Gemara.",
+      "chosen_heading": "Rabbi Yehuda Position",
+      "current_heading": "Two Versions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Why Untrustworthy",
+    "candidates": [
+      "Rabbi Yehuda Position",
+      "Trustworthy Baraitas",
+      "Why Untrustworthy",
+      "Sheaves Baraita"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yehuda Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about the ganav and gazlan that the 'Rabbi Yehuda Position' prose explicitly describes as being cited to prove Rabbi Yehuda holds lav ha-nitak la-asei incurs lashes.",
+      "second_heading": "Trustworthy Baraitas",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 together form Rabbi Zeira's methodological ruling about corrupted baraitot outside the Chiyya-Oshaya corpus, which is exactly what the 'Trustworthy Baraitas' prose describes.",
+      "current_heading": "Why Untrustworthy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Sheaves Baraita",
+    "candidates": [
+      "Why Untrustworthy",
+      "Sheaves Baraita",
+      "Pesach Remnant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara exchange about the sheaves/pe'a baraita from Rabbi Oshaya and Rabbi \u1e24iyya \u2014 the citation, the attempted proof, and the rejection \u2014 which is precisely what the 'Sheaves Baraita' prose section describes.",
+      "chosen_heading": "Sheaves Baraita",
+      "current_heading": "Sheaves Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Pesach Remnant",
+    "candidates": [
+      "Pesach Remnant",
+      "Mishna Phrasing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the Ravina-Rav Ashi exchange about the Paschal offering baraita and the conclusion about Rabbi Yehuda's reasoning, which is precisely what the 'Pesach Remnant' prose describes in detail.",
+      "chosen_heading": "Pesach Remnant",
+      "current_heading": "Pesach Remnant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Mishna Phrasing",
+    "candidates": [
+      "Mishna Phrasing",
+      "Alternative Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Idi's argument that the mishna's phrasing ('lokeh ve-eino meshalei'ach') supports the conclusion about Rabbi Yehuda's position, which is exactly what the prose under 'Mishna Phrasing' describes.",
+      "chosen_heading": "Mishna Phrasing",
+      "current_heading": "Mishna Phrasing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Alternative Reading",
+    "candidates": [
+      "Alternative Reading",
+      "Rav Yehuda's Limit",
+      "Baraita Objection",
+      "Tannaim Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's alternative reading of the mishna's language ('perhaps this is what Rabbi Yehuda is saying'), which is precisely what the 'Alternative Reading' prose describes as 'ein niftar ad de-malkin leh' \u2014 the reinterpretation that makes the mishna's language compatible with either position.",
+      "chosen_heading": "Alternative Reading",
+      "current_heading": "Alternative Reading",
+      "moved": false
+    }
+  }
+]

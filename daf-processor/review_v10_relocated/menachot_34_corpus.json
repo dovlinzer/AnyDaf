@@ -1,0 +1,314 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Desolate Doors",
+    "candidates": [
+      "Desolate Doors",
+      "Frame vs. Shape",
+      "Achsadra Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Rava's teaching on 'pit\u1e25ei shima'ei' (broken/desolate entrances) and the Rav Ri\u1e25umi/Abba Yosei debate about missing ceiling vs. lintels, which is exactly what the 'Desolate Doors' section prose describes.",
+      "chosen_heading": "Desolate Doors",
+      "current_heading": "Desolate Doors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Achsadra Structure",
+    "candidates": [
+      "Frame vs. Shape",
+      "Achsadra Structure",
+      "Doorway Function",
+      "Rav's Achsadra",
+      "Roman Achsadra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the achsadra's exemption from mezuzah due to lack of functional doorposts, the challenge about columns, and Abaye's report about Rabba's portico \u2014 all of which are precisely what the 'Achsadra Structure' prose describes.",
+      "chosen_heading": "Achsadra Structure",
+      "current_heading": "Achsadra Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Roman Achsadra",
+    "candidates": [
+      "Doorway Function",
+      "Rav's Achsadra",
+      "Roman Achsadra",
+      "Two Mezuzot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the objection about beit shaar/achsadra/mirpeset and the resolution via achsadra debei Rav (inderona) AND the Roman achsadra \u2014 but the prose of candidate 1 ('Rav's Achsadra') explicitly describes this entire sequence including both Gemara moves, while candidate 2 ('Roman Achsadra') covers only the final answer, making candidate 1 the better single home for the complete passage.",
+      "chosen_heading": "Rav's Achsadra",
+      "current_heading": "Roman Achsadra",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Two Mezuzot",
+    "candidates": [
+      "Roman Achsadra",
+      "Two Mezuzot",
+      "Beit Shaar",
+      "Rav vs. Raba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the bei harziki requiring two mezuzot and Rav Pappa's definition, which is precisely what the 'Two Mezuzot' section's prose addresses.",
+      "chosen_heading": "Two Mezuzot",
+      "current_heading": "Two Mezuzot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Rav vs. Raba",
+    "candidates": [
+      "Beit Shaar",
+      "Rav vs. Raba",
+      "Lul to Attic",
+      "Four Doors",
+      "Akarna Corner"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items constitute the continuous Talmudic passage about the gatehouse opening to garden and small room \u2014 the Rav/Shmuel vs. Rabba/Rav Yosef dispute, Abaye/Rava's practice, and the final halakha \u2014 which is precisely what the 'Rav vs. Raba' section prose describes in detail, and the passage is already correctly placed there.",
+      "chosen_heading": "Rav vs. Raba",
+      "current_heading": "Rav vs. Raba",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Akarna Corner",
+    "candidates": [
+      "Lul to Attic",
+      "Four Doors",
+      "Akarna Corner",
+      "Parchment Writing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Four Doors",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the lul/attic passage and Rav Papa's inference about four-doored chambers, which is explicitly described in the 'Four Doors' prose as the content of that section.",
+      "second_heading": "Akarna Corner",
+      "second_confidence": "high",
+      "second_reason": "Items 2-8 cover the corner door ruling, the single-doorpost dispute, placement on the right side, and the Rabbi Meir/Rabbi Akiva derivations \u2014 all of which are detailed in the 'Akarna Corner' prose.",
+      "current_heading": "Akarna Corner",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Parchment Writing",
+    "candidates": [
+      "Parchment Writing",
+      "Gezerah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita's two competing gezerah shavah arguments (from sefer/parchment vs. from stones), which is precisely what candidate 1 'Gezerah Shavah' discusses in its prose, while candidate 0 'Parchment Writing' only sets up the need for a gezerah shavah without describing its content.",
+      "chosen_heading": "Gezerah Shavah",
+      "current_heading": "Parchment Writing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Gezerah Shavah",
+    "candidates": [
+      "Parchment Writing",
+      "Gezerah Shavah",
+      "Four Parshiyot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are a continuous chain \u2014 the baraita's resolution via 'writing practiced for all generations,' Rav Acha's challenge and Rav Ashi's response about ktivah tamma, and the Gemara's follow-up question about why the gezerah shavah is needed \u2014 all of which are explicitly described in the prose of candidate 1 ('Gezerah Shavah').",
+      "chosen_heading": "Gezerah Shavah",
+      "current_heading": "Gezerah Shavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Four Parshiyot",
+    "candidates": [
+      "Four Parshiyot",
+      "Totafot Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the interdependence of the four parshiyot of tefillin and the requirement for kotzo shel yud and mukaf gevil, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Four Parshiyot",
+      "current_heading": "Four Parshiyot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Totafot Etymology",
+    "candidates": [
+      "Totafot Etymology",
+      "Meaning of Terms",
+      "Shel Rosh Structure",
+      "Spaced Parchments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Yishmael's derivation from the three appearances of 'totafot' and Rabbi Akiva's etymological proof from foreign languages \u2014 are precisely what the 'Totafot Etymology' prose describes, making the current placement correct.",
+      "chosen_heading": "Totafot Etymology",
+      "current_heading": "Totafot Etymology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Spaced Parchments",
+    "candidates": [
+      "Meaning of Terms",
+      "Shel Rosh Structure",
+      "Spaced Parchments",
+      "Visible Grooves",
+      "Gluing Parchments"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shel Rosh Structure",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about writing on four hides placed in four compartments of one hide \u2014 exactly what the 'Shel Rosh Structure' prose describes.",
+      "second_heading": "Spaced Parchments",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses writing all four parshiyot on one parchment with spaces between them and the dispute between Rabbi and the Rabbis \u2014 exactly what the 'Spaced Parchments' prose describes.",
+      "current_heading": "Spaced Parchments",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Gluing Parchments",
+    "candidates": [
+      "Visible Grooves",
+      "Gluing Parchments",
+      "Separate Parchments",
+      "Converting Structures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita discusses writing the shel yad on one hide versus four parchments in one compartment and the requirement to glue them (Rabbi Yehuda's position), which is precisely what the 'Gluing Parchments' section's prose describes.",
+      "chosen_heading": "Gluing Parchments",
+      "current_heading": "Gluing Parchments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Converting Structures",
+    "candidates": [
+      "Separate Parchments",
+      "Converting Structures",
+      "Kedushah Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses converting a shel rosh into a shel yad by covering it with leather, Rabbi Yehudah's retraction, and the Gemara's objection resolved by Rava \u2014 all of which is precisely what the 'Converting Structures' prose describes.",
+      "chosen_heading": "Converting Structures",
+      "current_heading": "Converting Structures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Kedushah Hierarchy",
+    "candidates": [
+      "Kedushah Hierarchy",
+      "Designation Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav \u1e24ananya/Rabbi Yo\u1e25anan ruling about not converting shel rosh to shel yad due to the kedushah hierarchy, which is precisely what the 'Kedushah Hierarchy' section's prose discusses.",
+      "chosen_heading": "Kedushah Hierarchy",
+      "current_heading": "Kedushah Hierarchy",
+      "moved": false
+    }
+  }
+]

@@ -136,7 +136,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Editing of Mishnah by Rebbe and the Compilation of Gemara by Rav Ashi and Ravina",
@@ -495,5 +495,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "31:59",
+  "amud_b_micro_title": "Matya Story",
+  "shiur_start_daf": 85,
+  "shiur_start_amud": "b"
 }

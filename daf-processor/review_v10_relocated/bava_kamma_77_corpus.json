@@ -1,0 +1,303 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Reish Lakish Answer",
+    "candidates": [
+      "Core Problem Setup",
+      "Yochanan Answer 1",
+      "Yochanan Answer 2",
+      "Reish Lakish Answer",
+      "Elazar's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items \u2014 Reish Lakish's answer about blemished animals slaughtered outside, and Rabbi Elazar's challenge to both Rabbi Yochanan and Reish Lakish \u2014 are precisely the content described in the 'Elazar's Challenge' prose, which explicitly discusses Reish Lakish's scenario and Rabbi Elazar's dual objection that shechita alone doesn't render the meat permitted in either case.",
+      "chosen_heading": "Elazar's Challenge",
+      "current_heading": "Reish Lakish Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Elazar's Challenge",
+    "candidates": [
+      "Reish Lakish Answer",
+      "Elazar's Challenge",
+      "Kol Ha'omed Principle",
+      "Notar Food Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's direct response to Rabbi Elazar's challenge \u2014 stating that the principle of Rabbi Shimon escaped him \u2014 which is explicitly described and contextualized in the 'Elazar's Challenge' section's prose.",
+      "chosen_heading": "Elazar's Challenge",
+      "current_heading": "Elazar's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Notar Food Status",
+    "candidates": [
+      "Kol Ha'omed Principle",
+      "Notar Food Status",
+      "Notar Before/After Zerika"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the *kol ha'omed lizrok kezarok dami* principle via a baraita of Rabbi Shimon, which is precisely what heading 0 ('Kol Ha'omed Principle') describes \u2014 the Gemara proving Rabbi Shimon holds this principle \u2014 whereas heading 1 discusses the concrete application/distinction of notar that follows from it.",
+      "chosen_heading": "Kol Ha'omed Principle",
+      "current_heading": "Notar Food Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Notar Before/After Zerika",
+    "candidates": [
+      "Notar Food Status",
+      "Notar Before/After Zerika",
+      "Elicit Kol Ha'omed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the before/after zerika distinction for notar's susceptibility to tumas ochlin, including the clarification that 'before zerika' means before the blood became fit for sprinkling and the paradigm case of slaughter just before sunset \u2014 precisely what the 'Notar Before/After Zerika' prose describes.",
+      "chosen_heading": "Notar Before/After Zerika",
+      "current_heading": "Notar Before/After Zerika",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Elicit Kol Ha'omed",
+    "candidates": [
+      "Elicit Kol Ha'omed",
+      "Para Aduma Impurity",
+      "Para Redemption Window",
+      "Fitness for Redemption",
+      "Reish Lakish Vindicated",
+      "Yochanan's Reasoning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Elicit Kol Ha'omed",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 conclude the zerika/sprinkling discussion with 'alma kol ha'omed lizrok kezarok dami' and transition to the redemption principle, matching heading 0's prose about eliciting kol ha'omed and bridging to the baal mum/redemption case.",
+      "second_heading": "Para Aduma Impurity",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the para aduma baraita and Reish Lakish's teaching about redemption on the pyre, exactly matching heading 1's prose discussion of the para aduma's tumas ochlin status and sha'as hakosher through the redemption window.",
+      "current_heading": "Elicit Kol Ha'omed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Yochanan's Reasoning",
+    "candidates": [
+      "Para Aduma Impurity",
+      "Para Redemption Window",
+      "Fitness for Redemption",
+      "Reish Lakish Vindicated",
+      "Yochanan's Reasoning",
+      "Tvicha u-Mechira Princ.",
+      "Sacred: No Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why Rabbi Yochanan did not adopt Reish Lakish's approach (wanting to interpret the mishna as applying even to unblemished animals) and then raises the question of why Reish Lakish did not adopt Rabbi Yochanan's approach \u2014 exactly the content described in the 'Yochanan's Reasoning' section prose.",
+      "chosen_heading": "Yochanan's Reasoning",
+      "current_heading": "Yochanan's Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Sacred: No Sale",
+    "candidates": [
+      "Tvicha u-Mechira Princ.",
+      "Sacred: No Sale",
+      "Both Sages Consistent",
+      "Reish Lakish: Tvisha",
+      "Treifa Baraita"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sacred: No Sale",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 cover the tvicha u-mechira principle applied to kodshim (no valid sale \u2192 no slaughter liability) and the parallel tereifa dispute between Rabbi Yochanan and Reish Lakish, which is exactly what headings 0\u20132 discuss, with item 1 (Sacred: No Sale) being the best fit for the kodshim application and item 2 introducing the tereifa case.",
+      "second_heading": "Reish Lakish: Tvisha",
+      "second_confidence": "high",
+      "second_reason": "Item 3 elaborates Reish Lakish's symmetry principle (leisa bi-tvicha \u2192 leisa bi-mechira) applied to the tereifa sale case, which matches heading 3 ('Reish Lakish: Tvisha') that explicitly discusses this bidirectional interdependence of slaughter and sale liability.",
+      "current_heading": "Sacred: No Sale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Treifa Baraita",
+    "candidates": [
+      "Both Sages Consistent",
+      "Reish Lakish: Tvisha",
+      "Treifa Baraita",
+      "Yochanan's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Yochanan's challenge from the baraita and Reish Lakish's rebuttal that it follows the Rabbis \u2014 are the precise content described in 'Yochanan's Challenge,' which discusses Rabbi Yochanan pressing his point using this very baraita and Reish Lakish's response, whereas the current heading 'Treifa Baraita' only introduces the baraita itself without the challenge-and-response dynamic.",
+      "chosen_heading": "Yochanan's Challenge",
+      "current_heading": "Treifa Baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Yochanan's Challenge",
+    "candidates": [
+      "Treifa Baraita",
+      "Yochanan's Challenge",
+      "Reish Lakish Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage poses the rhetorical question about why the Baraita mentions selling a tereifa but not slaughtering it, which is the initial flagging of the problem introduced in the 'Treifa Baraita' section's prose, not yet the challenge Rabbi Yochanan draws from it.",
+      "chosen_heading": "Treifa Baraita",
+      "current_heading": "Yochanan's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Reish Lakish Response",
+    "candidates": [
+      "Reish Lakish Response",
+      "Gemara Counterargument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's counter-argument against Reish Lakish's answer \u2014 item 1 raises the difficulty that Rabbi Shimon's view would likewise only mention slaughter without sale for kilayim, and item 2 resolves it by showing the baraita uses one scenario per case, ultimately neutralizing the baraita's relevance to the dispute \u2014 exactly what 'Gemara Counterargument' prose describes.",
+      "chosen_heading": "Gemara Counterargument",
+      "current_heading": "Reish Lakish Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Gemara Counterargument",
+    "candidates": [
+      "Reish Lakish Response",
+      "Gemara Counterargument",
+      "Unresolved Status",
+      "Kilayim Included",
+      "Rava's Principle",
+      "Theft Law Analysis",
+      "Kodshim Law Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rabbi Yochanan's counterargument to Reish Lakish's position \u2014 item 1 defends why the Baraisa's structure could work under Rabbi Shimon, and item 2 shows why it fails under the Rabanan \u2014 exactly matching the 'Gemara Counterargument' prose which describes this same challenge and concludes with 'kashya'.",
+      "chosen_heading": "Gemara Counterargument",
+      "current_heading": "Gemara Counterargument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Kodshim Law Analysis",
+    "candidates": [
+      "Unresolved Status",
+      "Kilayim Included",
+      "Rava's Principle",
+      "Theft Law Analysis",
+      "Kodshim Law Analysis",
+      "Why Two Or's"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a single continuous discussion about whether kilayim is included in the fourfold/fivefold payment, analyzing how the word 'or' functions in theft vs. sacrificial contexts \u2014 exactly what heading 1 ('Kilayim Included') describes as its topic.",
+      "chosen_heading": "Kilayim Included",
+      "current_heading": "Kodshim Law Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Why Two Or's",
+    "candidates": [
+      "Kodshim Law Analysis",
+      "Why Two Or's",
+      "Rava's Default Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly argues why two exclusions (o's) are needed rather than two inclusions \u2014 exactly the content described in the 'Why Two Or's' section prose.",
+      "chosen_heading": "Why Two Or's",
+      "current_heading": "Why Two Or's",
+      "moved": false
+    }
+  }
+]

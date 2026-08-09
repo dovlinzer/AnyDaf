@@ -24,8 +24,8 @@
           "timestamp": "01:00"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Beis Hapras and the tumah of outside lands (Eretz Ha'amim)",
@@ -48,7 +48,7 @@
           "timestamp": "03:11"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -72,8 +72,8 @@
           "timestamp": "06:29"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Analysis of the alternative interpretation: tumah based on ground (Gusha) and the role of dead bodies in Eretz Ha'amim",
@@ -96,7 +96,7 @@
           "timestamp": "10:32"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 12,
       "matched": false
     },
     {
@@ -115,7 +115,7 @@
           "timestamp": "12:40"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 12,
       "matched": false
     },
     {
@@ -134,8 +134,8 @@
           "timestamp": "14:04"
         }
       ],
-      "sefaria_index": 15,
-      "matched": false
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Detailed analysis of vessels touching a corpse (Keilim Ha'nogim B'Meis) and the principle of Cherev Ke'Chalal",
@@ -159,7 +159,7 @@
         }
       ],
       "sefaria_index": 15,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Rabbeinu Chaim HaKohen's response: the impossibility of applying Cherev Ke'Chalal strictly to metal vessels",
@@ -495,9 +495,9 @@
     }
   ],
   "amud_b_sefaria_index": 10,
-  "amud_b_segment_index": 2,
-  "amud_b_timestamp": "04:52",
-  "amud_b_micro_title": "Transport Cases",
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "14:04",
+  "amud_b_micro_title": "Conclusion",
   "shiur_start_daf": 54,
   "shiur_start_amud": "a"
 }

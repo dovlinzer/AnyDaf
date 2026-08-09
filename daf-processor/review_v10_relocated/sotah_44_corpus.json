@@ -1,0 +1,381 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Chatzar HaKever",
+    "candidates": [
+      "Opening Statement",
+      "Chatzar HaKever",
+      "Beit Shammai v. Hillel",
+      "Access Orientation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the chatzar hakever ruling including the Beit Shammai/Hillel dispute and the entrance orientation distinction, and the current heading's prose directly discusses all these elements as part of one unified teaching, making the current placement correct.",
+      "chosen_heading": "Chatzar HaKever",
+      "current_heading": "Chatzar HaKever",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Access Orientation",
+    "candidates": [
+      "Beit Shammai v. Hillel",
+      "Access Orientation",
+      "Wall Demarcation",
+      "Who Betroths",
+      "Betrothal Categories",
+      "Multiple Brothers",
+      "Forbidden Marriages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge (klapi layya) and reversal of the side-vs-above entrance distinction, along with the qualification about delineated partitions vs. an ordinary corpse, which is precisely what the 'Access Orientation' prose describes.",
+      "chosen_heading": "Access Orientation",
+      "current_heading": "Access Orientation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Forbidden Marriages",
+    "candidates": [
+      "Wall Demarcation",
+      "Who Betroths",
+      "Betrothal Categories",
+      "Multiple Brothers",
+      "Forbidden Marriages",
+      "Rabba: Transgression"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the expansion of betrothal categories (virgin, widow, yevama) and the exclusion of forbidden marriages in a single baraita, and candidate 2 ('Betrothal Categories') is the section whose prose introduces this exact baraita with the words 'Tanu rabbanan: asher eiras,' making it the natural home for the entire passage including the forbidden-marriages clause.",
+      "chosen_heading": "Betrothal Categories",
+      "current_heading": "Forbidden Marriages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Rabba: Transgression",
+    "candidates": [
+      "Forbidden Marriages",
+      "Rabba: Transgression",
+      "Torah's Derech Eretz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the kushya from Rabbi Yosei HaGelili and Rabba's resolution \u2014 the exact content described in the 'Rabba: Transgression' prose section.",
+      "chosen_heading": "Rabba: Transgression",
+      "current_heading": "Rabba: Transgression",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Torah's Derech Eretz",
+    "candidates": [
+      "Torah's Derech Eretz",
+      "Solomon's Wisdom",
+      "Learning Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Torah's derech eretz teaching (the sequence of building, planting, betrothing) and Solomon's Proverbs verse with its interpretation mapping to house/vineyard/wife \u2014 all of which is described together in candidate 0's prose, while candidates 1 and 2 cover subsequent material (the second derasha and the Torah-study interpretation) not present in this single baraita.",
+      "chosen_heading": "Torah's Derech Eretz",
+      "current_heading": "Torah's Derech Eretz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Learning Stages",
+    "candidates": [
+      "Solomon's Wisdom",
+      "Learning Stages",
+      "Three Stages",
+      "Rabbi Eliezer View",
+      "Gatehouse Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three interpretations (davar acher 1, davar acher 2, and Rabbi Eliezer's view) as a single Talmudic block, and heading 0 ('Solomon's Wisdom') explicitly introduces this verse and says 'the Gemara proceeds to offer two derashot on this verse,' making it the natural home for the entire quoted passage rather than splitting it across multiple headings.",
+      "chosen_heading": "Solomon's Wisdom",
+      "current_heading": "Learning Stages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Gatehouse Exception",
+    "candidates": [
+      "Three Stages",
+      "Rabbi Eliezer View",
+      "Gatehouse Exception",
+      "Full Completion",
+      "New Wife Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the gatehouse exception, the dimos row addition rule, and Rabbi Eliezer's brick house in Sharon ruling \u2014 all of which are explicitly described in the 'Gatehouse Exception' prose.",
+      "chosen_heading": "Gatehouse Exception",
+      "current_heading": "Gatehouse Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "New Wife Definition",
+    "candidates": [
+      "Full Completion",
+      "New Wife Definition",
+      "No Support Services",
+      "Culmination Requirement",
+      "Two Lavin",
+      "Rabbi Akiva Simple",
+      "R. Yose HaGlili Sin-Based",
+      "Divine Cover",
+      "R. Yose Addition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the baraita expanding 'new wife' to include widows and divorc\u00e9es while excluding a man who remarries his own divorc\u00e9e, which is precisely what the 'New Wife Definition' prose discusses.",
+      "chosen_heading": "New Wife Definition",
+      "current_heading": "New Wife Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "R. Yose Addition",
+    "candidates": [
+      "No Support Services",
+      "Culmination Requirement",
+      "Two Lavin",
+      "Rabbi Akiva Simple",
+      "R. Yose HaGlili Sin-Based",
+      "Divine Cover",
+      "R. Yose Addition",
+      "Officer Placement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Lavin",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about 'lo yeitzei batzava' explaining the two lavin, which matches heading 2 ('Two Lavin') precisely.",
+      "second_heading": "R. Yose HaGlili Sin-Based",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the Mishna and Rabbi Yose's addition about 'ha'yarei verach halevav' \u2014 item 2 introduces Rabbi Akiva and Rabbi Yose HaGlili's dispute (heading 4 covers R. Yose HaGlili's sin-based interpretation), and item 3 is Rabbi Yose's specific forbidden-marriage examples which currently sit under heading 6 ('R. Yose Addition'), but since items 2-3 must stay together and item 2 fits heading 4 while item 3 fits heading 6, the structural seam is actually between items 1 and 2 (new Mishna), with items 2-3 best placed under heading 4 where the sin-based fear discussion begins.",
+      "current_heading": "R. Yose Addition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Officer Placement",
+    "candidates": [
+      "R. Yose Addition",
+      "Officer Placement",
+      "Iron Staffs",
+      "Philistine Wars"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes appointing officers at the head and rear of the people with iron rods to prevent retreat, which matches exactly the 'Officer Placement' section's prose about stationing officers (zekifin) in front and behind the troops.",
+      "chosen_heading": "Officer Placement",
+      "current_heading": "Officer Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Philistine Wars",
+    "candidates": [
+      "Iron Staffs",
+      "Philistine Wars",
+      "Discretionary vs Required",
+      "R. Yose HaGlili",
+      "Rabbi Yehuda Obligatory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage provides the scriptural proof for the principle that 'the beginning of falling is flight,' which is the rationale discussed in the 'Iron Staffs' section's prose about *techilat nifila nisa*, not the 'Philistine Wars' section which merely restates what the verses say without being the primary conceptual home for this proof.",
+      "chosen_heading": "Iron Staffs",
+      "current_heading": "Philistine Wars",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Rabbi Yehuda Obligatory",
+    "candidates": [
+      "Discretionary vs Required",
+      "R. Yose HaGlili",
+      "Rabbi Yehuda Obligatory",
+      "Terminology Equivalence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the anonymous mishna's statement (reshut vs. mitzvah) and Rabbi Yehuda's statement (mitzvah vs. chovah), and candidate 0's prose explicitly discusses both positions together \u2014 the bameh devarim amurim dichotomy with the groom/bride example \u2014 whereas candidate 2 only discusses Rabbi Yehuda's portion in isolation.",
+      "chosen_heading": "Discretionary vs Required",
+      "current_heading": "Rabbi Yehuda Obligatory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Terminology Equivalence",
+    "candidates": [
+      "Rabbi Yehuda Obligatory",
+      "Terminology Equivalence",
+      "Three War Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Terminology Equivalence' explicitly discusses the Gemara's question of what distinguishes Rabbi Yose from Rabbi Yosei HaGelili, the answer about aveira de-rabbanan, and the baraita about speaking between phylacteries \u2014 exactly the content of all three items.",
+      "chosen_heading": "Terminology Equivalence",
+      "current_heading": "Terminology Equivalence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Three War Levels",
+    "candidates": [
+      "Three War Levels",
+      "Nifka Mina",
+      "Opening Mishnah",
+      "Three v. Five"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three War Levels",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the mishna's language about fleeing/downfall and Rabbi Yochanan's equation of the Rabbis' and Rabbi Yehuda's war categories, both of which are covered under 'Three War Levels' prose.",
+      "second_heading": "Nifka Mina",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (Rava's tripartite framework and the nafka mina of osek bemitzvah) is precisely what the 'Nifka Mina' prose section describes \u2014 the practical difference between calling a preemptive war a mitzvah versus reshut.",
+      "current_heading": "Three War Levels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Three v. Five",
+    "candidates": [
+      "Nifka Mina",
+      "Opening Mishnah",
+      "Three v. Five"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The text 'Hadran alach meshuch milchama' is the concluding formula marking the end of the chapter on milchama/war, which signals the transition to the new perek on eglah arufah \u2014 exactly what the 'Opening Mishnah' prose describes as the beginning of the final chapter.",
+      "chosen_heading": "Opening Mishnah",
+      "current_heading": "Three v. Five",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Three v. Five",
+    "candidates": [
+      "Three v. Five",
+      "Disqualifying Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Three v. Five dispute about how many judges go out for the eglah arufah ritual, which is precisely what the prose under heading 0 explains.",
+      "chosen_heading": "Three v. Five",
+      "current_heading": "Three v. Five",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Disqualifying Scenarios",
+    "candidates": [
+      "Disqualifying Scenarios",
+      "Proximity & Beit Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the disqualifying scenarios of a corpse found concealed, hanging, or floating, which matches precisely the prose under 'Disqualifying Scenarios.'",
+      "chosen_heading": "Disqualifying Scenarios",
+      "current_heading": "Disqualifying Scenarios",
+      "moved": false
+    }
+  }
+]

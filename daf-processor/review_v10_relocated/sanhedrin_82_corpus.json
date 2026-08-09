@@ -1,0 +1,393 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Rav's Drasha",
+    "candidates": [
+      "Intro & Question",
+      "Rav Kahana's Q",
+      "Dream & Pasuk",
+      "Rav's Drasha",
+      "Intermarriage & G-d"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form a single continuous unit: Rav Kahana's question, Rav forgetting and the dream, and Rav's drasha interpreting the Malachi verse \u2014 exactly what heading 3 ('Rav's Drasha') describes in its prose, including the specific verse interpretation and the Malachi 2:12 continuation about the scholar and the priest.",
+      "chosen_heading": "Rav's Drasha",
+      "current_heading": "Rav's Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Intermarriage & G-d",
+    "candidates": [
+      "Intermarriage & G-d",
+      "Yehoyakim Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is directly about the teaching that relations with a gentile woman is like marrying idol worship, which is exactly what the 'Intermarriage & G-d' section's prose discusses.",
+      "chosen_heading": "Intermarriage & G-d",
+      "current_heading": "Intermarriage & G-d",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Yehoyakim Story",
+    "candidates": [
+      "Yehoyakim Story",
+      "Hasmon. Edict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are about the skull of Jehoiakim and the inscription 'this and yet another,' which is precisely what the 'Yehoyakim Story' prose describes in detail.",
+      "chosen_heading": "Yehoyakim Story",
+      "current_heading": "Yehoyakim Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Hasmon. Edict",
+    "candidates": [
+      "Hasmon. Edict",
+      "No Ruling Given"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Hasmonean court's decree and the dispute between Rav Dimi and Ravin about the acronym (nashka vs. nashgaz), which is precisely what the 'Hasmon. Edict' prose section discusses in detail.",
+      "chosen_heading": "Hasmon. Edict",
+      "current_heading": "Hasmon. Edict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "No Ruling Given",
+    "candidates": [
+      "No Ruling Given",
+      "Zimri & Pinchas",
+      "Rodeph Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the rulings of Rav \u1e24isda and Rabba bar bar \u1e24ana/Rabbi Yo\u1e25anan that one who comes to consult is not instructed to kill, which is precisely what the 'No Ruling Given' section's prose discusses and quotes.",
+      "chosen_heading": "No Ruling Given",
+      "current_heading": "No Ruling Given",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rodeph Status",
+    "candidates": [
+      "Zimri & Pinchas",
+      "Rodeph Status",
+      "Judges Confront",
+      "Zimri's Act"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers BOTH the 'Zimri separated' ruling AND the 'Zimri turned and killed Pinchas' ruling as a single continuous Talmudic unit, and candidate 0 ('Zimri & Pinchas') explicitly discusses both halves of this passage in its prose, whereas candidate 1 ('Rodeph Status') covers only the second half.",
+      "chosen_heading": "Zimri & Pinchas",
+      "current_heading": "Rodeph Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Zimri's Act",
+    "candidates": [
+      "Judges Confront",
+      "Zimri's Act",
+      "Moshe Lost",
+      "Pinchas Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe Zimri's confrontation with Cozbi and then Moses \u2014 exactly the narrative content that candidate 1 ('Zimri's Act') discusses in its prose, covering Zimri gathering his tribe, approaching Cozbi, and challenging Moses, which is the current placement and the correct one.",
+      "chosen_heading": "Zimri's Act",
+      "current_heading": "Zimri's Act",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Pinchas Acts",
+    "candidates": [
+      "Moshe Lost",
+      "Pinchas Acts",
+      "Six Miracles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 Pinchas remembering the halacha, the three opinions on what he saw, his removal of the spearhead, and his ruse entering Shimon's territory \u2014 are explicitly discussed in the 'Pinchas Acts' prose, which is also the current placement.",
+      "chosen_heading": "Pinchas Acts",
+      "current_heading": "Pinchas Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Six Miracles",
+    "candidates": [
+      "Six Miracles",
+      "Divine Praise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists exactly the six miracles performed for Pinchas, which directly matches the 'Six Miracles' section prose that enumerates and explains each of those same six miracles.",
+      "chosen_heading": "Six Miracles",
+      "current_heading": "Six Miracles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Divine Praise",
+    "candidates": [
+      "Divine Praise",
+      "Tribe Contempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Pinchas casting the bodies before God and Rabbi Elazar's interpretation of 'vayefalel,' which are precisely what the 'Divine Praise' prose discusses in detail.",
+      "chosen_heading": "Divine Praise",
+      "current_heading": "Divine Praise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Tribe Contempt",
+    "candidates": [
+      "Tribe Contempt",
+      "Covenant Peace"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the tribes demeaning Pinchas as 'son of Puti' and the verse tracing his lineage to Aaron, which is exactly what the 'Tribe Contempt' section's prose discusses in detail.",
+      "chosen_heading": "Tribe Contempt",
+      "current_heading": "Tribe Contempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Covenant Peace",
+    "candidates": [
+      "Covenant Peace",
+      "Gematria 424"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses God telling Moses to greet Pinchas with peace and the eternal atonement from his covenant, which is precisely what the 'Covenant Peace' section's prose addresses.",
+      "chosen_heading": "Covenant Peace",
+      "current_heading": "Covenant Peace",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Gematria 424",
+    "candidates": [
+      "Gematria 424",
+      "Kozbi Shvilnai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items (the 424 acts from the gematria of zarzir, and the baraita's count of 60 acts with the graphic descriptions of Zimri and Cozbi) are explicitly discussed together in the 'Gematria 424' prose, which is where the passage currently sits.",
+      "chosen_heading": "Gematria 424",
+      "current_heading": "Gematria 424",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Kozbi Shvilnai",
+    "candidates": [
+      "Kozbi Shvilnai",
+      "Zimri's Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Kozbi/Shvilnai's names and the popular sayings about Shvilnai, which is exactly what the prose under heading 0 ('Kozbi Shvilnai') describes in detail.",
+      "chosen_heading": "Kozbi Shvilnai",
+      "current_heading": "Kozbi Shvilnai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Zimri's Names",
+    "candidates": [
+      "Zimri's Names",
+      "Kohen Head"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Zimri's five names and their meanings, which directly matches the 'Zimri's Names' section prose that explicitly covers the same content.",
+      "chosen_heading": "Zimri's Names",
+      "current_heading": "Zimri's Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Kohen Head",
+    "candidates": [
+      "Kohen Head",
+      "Divine Death Q",
+      "Lashing Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present exactly the dilemma Rav Acha bar Huna posed to Rav Sheshet and Rav Sheshet's resolution from the Mishnah itself, which is precisely what 'Divine Death Q' describes in its prose.",
+      "chosen_heading": "Divine Death Q",
+      "current_heading": "Kohen Head",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Lashing Logic",
+    "candidates": [
+      "Divine Death Q",
+      "Lashing Logic",
+      "Stolen Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the kippah case and the Reish Lakish answer about malkot shel karet, which is precisely what the 'Lashing Logic' section's prose describes.",
+      "chosen_heading": "Lashing Logic",
+      "current_heading": "Lashing Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Stolen Vessel",
+    "candidates": [
+      "Stolen Vessel",
+      "Cursing Kosem",
+      "Karet Focus"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Stolen Vessel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about stealing the kasva/service vessel, which matches candidate 0's prose exactly, discussing Rav Yehudah's answer connecting it to the verse about the sacred items.",
+      "second_heading": "Cursing Kosem",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is about cursing the sorcerer/kosem, which matches candidate 1's prose exactly, discussing Rav Yosef's teaching about 'yakeh kosam et kosmo' resembling blasphemy.",
+      "current_heading": "Stolen Vessel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Karet Focus",
+    "candidates": [
+      "Cursing Kosem",
+      "Karet Focus",
+      "Chiyuv Mitah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of boel aramit and Rav Kahana's dream/Rav's remembered tradition, which is precisely what the 'Karet Focus' prose analyzes, including the dream reading and the karet dimension.",
+      "chosen_heading": "Karet Focus",
+      "current_heading": "Karet Focus",
+      "moved": false
+    }
+  }
+]

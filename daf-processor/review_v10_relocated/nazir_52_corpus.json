@@ -1,0 +1,282 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Sheretz & Lentil",
+    "candidates": [
+      "Missing Ant Limb",
+      "Biryah & Quantity",
+      "Sheretz & Lentil",
+      "Tosafot on Full Creature",
+      "Soul & Shiur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose of 'Biryah & Quantity' explicitly sets up Rav Yehuda from Diskharta's 'ta shema' introduction and the sheretz/lentil-bean passage that follows, making it the natural home for both items, whereas 'Sheretz & Lentil' (current placement, index 2) is the prose that discusses the conclusion drawn from this passage rather than the passage itself.",
+      "chosen_heading": "Biryah & Quantity",
+      "current_heading": "Sheretz & Lentil",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Soul & Shiur",
+    "candidates": [
+      "Tosafot on Full Creature",
+      "Soul & Shiur",
+      "Intro Backbone",
+      "Backbone No Ribs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Shemaya's statement about when the lentil-bulk shiur is required (only when a soul has not yet entered the creature), which is precisely what the 'Soul & Shiur' section's prose explains and analyzes.",
+      "chosen_heading": "Soul & Shiur",
+      "current_heading": "Soul & Shiur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Backbone No Ribs",
+    "candidates": [
+      "Intro Backbone",
+      "Backbone No Ribs",
+      "Both or Either?",
+      "Dustai Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the continuous Gemara discussion of the spine-and-skull dilemma \u2014 Rava's proof from the baraita about a spine missing most ribs (item 1) and the Gemara's inference and rejection of that proof (item 2) \u2014 which is precisely what the 'Backbone No Ribs' prose describes.",
+      "chosen_heading": "Backbone No Ribs",
+      "current_heading": "Backbone No Ribs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Dustai Story",
+    "candidates": [
+      "Both or Either?",
+      "Dustai Story",
+      "Single Bone Suffices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident narrated in the 'Dustai Story' section's prose \u2014 Rabbi Yehuda's statement about Rabbi Akiva's six rulings, the boxes of bones at the blacksmiths' synagogue, and Todos the doctor's declaration that there is no spine from one corpse.",
+      "chosen_heading": "Dustai Story",
+      "current_heading": "Dustai Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Single Bone Suffices",
+    "candidates": [
+      "Single Bone Suffices",
+      "Six Cases Setup",
+      "Limbs & Blood",
+      "Split Barley Bone",
+      "Count Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's inference about spine/skull from one corpse and the lo miba'ya ka'amar rebuttal, which is precisely what the 'Single Bone Suffices' prose describes.",
+      "chosen_heading": "Single Bone Suffices",
+      "current_heading": "Single Bone Suffices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Count Clarification",
+    "candidates": [
+      "Six Cases Setup",
+      "Limbs & Blood",
+      "Split Barley Bone",
+      "Count Clarification",
+      "Akiva's Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items address the enumeration problem (why six rather than seven) and the Gemara's several answers to it, which is exactly what the 'Count Clarification' prose section describes.",
+      "chosen_heading": "Count Clarification",
+      "current_heading": "Count Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Akiva's Reversal",
+    "candidates": [
+      "Akiva's Reversal",
+      "Shimon Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda HaNasi telling Bar Kappara not to include reviet dam in the list of Rabbi Akiva's retractions, which is precisely the topic addressed in the 'Akiva's Reversal' section's prose (citing the same Aramaic phrases).",
+      "chosen_heading": "Akiva's Reversal",
+      "current_heading": "Akiva's Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Shimon Testimony",
+    "candidates": [
+      "Shimon Testimony",
+      "Majority Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Shimon's testimony about Rabbi Akiva's position on blood impurity and the baraita about his teeth blackening from fasts, which is precisely what the 'Shimon Testimony' section's prose addresses.",
+      "chosen_heading": "Shimon Testimony",
+      "current_heading": "Shimon Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Majority Debate",
+    "candidates": [
+      "Majority Debate",
+      "Yehoshua's Proof",
+      "Anatomy Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Beit Shammai/Beit Hillel dispute about quarter-kav of bones and Rabbi Yehoshua's opening claim to reconcile them, which is exactly what the 'Majority Debate' prose introduces, before the detailed anatomical reconciliation discussed under later headings.",
+      "chosen_heading": "Majority Debate",
+      "current_heading": "Majority Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Anatomy Proof",
+    "candidates": [
+      "Yehoshua's Proof",
+      "Anatomy Proof",
+      "Single Bone Shammai",
+      "Resolution Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage details the anatomical breakdown of Beit Shammai's 'two or three bones' (shins/thighs), Beit Hillel's rov binyan/rov minyan principle via hand and foot joints, and Shammai's single-bone position \u2014 exactly the content discussed in the 'Anatomy Proof' prose, which explicates these same anatomical distinctions in detail.",
+      "chosen_heading": "Anatomy Proof",
+      "current_heading": "Anatomy Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Resolution Ambiguity",
+    "candidates": [
+      "Single Bone Shammai",
+      "Resolution Ambiguity",
+      "Rambam Rules",
+      "Quarter Kav Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 rejecting the proof from Shammai's stringency and then attempting (and failing) to infer the Rabbinic position from Shammai's extreme leniency \u2014 is precisely what candidate 0 describes as its subject matter, including the key point that because Shammai is 'd'machmir' one cannot work backward to determine the opposing position.",
+      "chosen_heading": "Single Bone Shammai",
+      "current_heading": "Resolution Ambiguity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Quarter Kav Question",
+    "candidates": [
+      "Rambam Rules",
+      "Quarter Kav Question",
+      "Rava's Proof",
+      "Alternative Explanation",
+      "Unresolved Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Quarter Kav Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rami bar \u1e24ama's dilemma about whether a quarter-kav from spine/skull suffices, which matches exactly the 'Quarter Kav Question' prose describing Rami bar Chama's question and its two sides.",
+      "second_heading": "Rava's Proof",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's proof from the mishna's silence on a quarter-kav measure from spine/skull, which matches exactly the 'Rava's Proof' prose describing Rava's ta shema argument.",
+      "current_heading": "Quarter Kav Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Unresolved Status",
+    "candidates": [
+      "Rava's Proof",
+      "Alternative Explanation",
+      "Unresolved Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the internal tension of Rava's earlier statement about backbone/skull without a rova, and his subsequent change of mind after hearing from Rabbi Akiva \u2014 which is precisely what the 'Alternative Explanation' prose describes.",
+      "chosen_heading": "Alternative Explanation",
+      "current_heading": "Unresolved Status",
+      "moved": true
+    }
+  }
+]

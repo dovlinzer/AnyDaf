@@ -1,0 +1,231 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Setup & Oath",
+    "candidates": [
+      "Setup & Oath",
+      "Rabbi Yosei's Objection",
+      "Kinyan at Death"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Setup & Oath",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna presenting the full scenario including Rabbi Yosei's objection, which is precisely what headings 0 and 1 discuss \u2014 the Setup & Oath and Rabbi Yosei's objection \u2014 but since the Mishna as a whole (including Rabbi Yosei's line) is introduced and explained under heading 0's prose, and heading 1 specifically elaborates Rabbi Yosei's position, the Mishna text fits best under heading 0 as the foundational text being discussed.",
+      "second_heading": "Kinyan at Death",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara opening with Rav Idi bar Avin's question to Abaye about what acquires the cow ('bishvuah'), which is exactly the content described in heading 2's prose about Rav Idi bar Avin posing the sharp question and Abaye's response.",
+      "current_heading": "Setup & Oath",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Kinyan at Death",
+    "candidates": [
+      "Rabbi Yosei's Objection",
+      "Kinyan at Death",
+      "Liability Ends",
+      "Alternating Agreements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara dialogue about whether the renter acquires through oath or at death (misheat mitah hu dekani), which is precisely what the 'Kinyan at Death' section's prose discusses.",
+      "chosen_heading": "Kinyan at Death",
+      "current_heading": "Kinyan at Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Alternating Agreements",
+    "candidates": [
+      "Liability Ends",
+      "Alternating Agreements",
+      "One Cow Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Zeira's statement about the owner paying multiple cows to the renter, with the exact alternating rental/borrowing scenario described in the 'Alternating Agreements' prose, making it the clear match for that section.",
+      "chosen_heading": "Alternating Agreements",
+      "current_heading": "Alternating Agreements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "One Cow Problem",
+    "candidates": [
+      "One Cow Problem",
+      "Two Obligations",
+      "Oath Types",
+      "Both Chattat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the 'one cow problem' \u2014 item 1 is Rav A\u1e25a's objection that it is one cow and Ravina's response, and item 2 is Mar bar Rav Ashi's resolution limiting liability to two cows, all of which is explicitly discussed in the 'One Cow Problem' prose.",
+      "chosen_heading": "One Cow Problem",
+      "current_heading": "One Cow Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Both Chattat",
+    "candidates": [
+      "Two Obligations",
+      "Oath Types",
+      "Both Chattat",
+      "Both Asham",
+      "Mixed: Renter Chattat",
+      "Mixed: Renter Asham"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1-4 together constitute Rabbi Yirmiyah's complete statement introducing all four combinations of sin-offering/guilt-offering plus the Gemara's explanation of the organizing principle (kefiras mamon vs. bituiy sefatayim) and the first case (both chatat), which all belong under 'Oath Types' where the essay prose introduces Rabbi Yirmiyah's framework and the four combinations \u2014 the current placement under 'Both Chattat' splits this introductory unit incorrectly.",
+      "chosen_heading": "Oath Types",
+      "current_heading": "Both Chattat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Mixed: Renter Asham",
+    "candidates": [
+      "Both Asham",
+      "Mixed: Renter Chattat",
+      "Mixed: Renter Asham",
+      "Reject Rabbi Ami"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Both Asham",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 match candidates 0 ('Both Asham') and 1 ('Mixed: Renter Chattat') respectively \u2014 item 1 is the both-asham case (stolen cow, both claim died through labor) and item 2 is the renter-chatat/borrower-asham case (died naturally, both claim died through labor), but since all three items form a continuous sequence of cases, the real split question is whether item 1 alone belongs under 'Both Asham' while items 2-3 belong under the mixed headings.",
+      "second_heading": "Mixed: Renter Asham",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 correspond exactly to the 'Mixed: Renter Chattat' and 'Mixed: Renter Asham' cases described in candidates 1 and 2, but item 3 (renter asham, borrower chatat) is currently misplaced and belongs under candidate 2 'Mixed: Renter Asham' whose prose precisely describes its content.",
+      "current_heading": "Mixed: Renter Asham",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Reject Rabbi Ami",
+    "candidates": [
+      "Reject Rabbi Ami",
+      "Rav vs. Yochanan",
+      "Rav's Logic",
+      "Yochanan's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Ami's position and its rejection, matching exactly the prose under 'Reject Rabbi Ami' which describes the same gemara exchange about court-imposed oaths and the verse from Leviticus 5:4.",
+      "chosen_heading": "Reject Rabbi Ami",
+      "current_heading": "Reject Rabbi Ami",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Yochanan's Logic",
+    "candidates": [
+      "Rav vs. Yochanan",
+      "Rav's Logic",
+      "Yochanan's Logic",
+      "Gardeners Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the core Rav/Rabbi Yochanan dispute and Abaye's elaboration of both positions \u2014 exactly what heading 0 ('Rav vs. Yochanan') introduces, whereas the current placement under 'Yochanan's Logic' (index 2) is wrong because the passage opens with the initial statement of the dispute itself, not just Yochanan's side.",
+      "chosen_heading": "Rav vs. Yochanan",
+      "current_heading": "Yochanan's Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Gardeners Case",
+    "candidates": [
+      "Yochanan's Logic",
+      "Gardeners Case",
+      "Money & Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items describe the gardeners case and its immediate follow-up (Rabbi Ami's discussion of the rented cow), which the prose of candidate 1 ('Gardeners Case') explicitly covers \u2014 the gardeners' daily deposit with the old woman, Rav's exemption, the correction that it was implicit consent, and the ongoing debate \u2014 matching the current placement exactly.",
+      "chosen_heading": "Gardeners Case",
+      "current_heading": "Gardeners Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Money & Children",
+    "candidates": [
+      "Money & Children",
+      "Ruling: Liable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous sugya about depositing money with a bailee who transfers it to his children (minor vs. adult) and Rava's resolution that deposits are made with awareness of the bailee's household, which matches precisely the 'Money & Children' prose.",
+      "chosen_heading": "Money & Children",
+      "current_heading": "Money & Children",
+      "moved": false
+    }
+  }
+]

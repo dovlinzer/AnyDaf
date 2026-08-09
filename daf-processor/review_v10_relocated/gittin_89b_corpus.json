@@ -1,0 +1,417 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Kol After Marriage",
+    "candidates": [
+      "Kol Requires Beit Din",
+      "Kol After Marriage",
+      "Rav Chaviva Ruling",
+      "Query Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both of Rav Ashi's rulings (kol not confirmed by beit din, and kol after marriage) plus Rav Chaviva's ruling and the final halakha \u2014 all of which belong together under 'Kol Requires Beit Din' since that heading's prose explicitly introduces Rav Ashi's first principle and sets up the full sequence, whereas the current split across headings 1 and 2 artificially divides a single continuous Talmudic passage.",
+      "chosen_heading": "Kol Requires Beit Din",
+      "current_heading": "Kol After Marriage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Query Setup",
+    "candidates": [
+      "Rav Chaviva Ruling",
+      "Query Setup",
+      "Shmuel's Response",
+      "Rav Huna Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 the query to Shmuel and the Gemara's unpacking of 'clarify the matter' (Nehardea not suppressing a kol, and no get from the second man if the first marriage was valid) \u2014 are precisely the content described in the 'Shmuel's Response' prose, not merely the query setup.",
+      "chosen_heading": "Shmuel's Response",
+      "current_heading": "Query Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Rav Huna Dispute",
+    "candidates": [
+      "Shmuel's Response",
+      "Rav Huna Dispute",
+      "Rav Hamnuna Presence",
+      "Rav Huna Option"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rav Huna Dispute",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 form a continuous chain about the Rav Huna/Rav Hamnuna dispute and the 'in his presence' qualification, which is exactly what candidate 1's prose describes.",
+      "second_heading": "Rav Huna Option",
+      "second_confidence": "high",
+      "second_reason": "Item 4 opens the new scenario where investigation yields no clear resolution, which is precisely what candidate 3 ('Rav Huna Option') addresses.",
+      "current_heading": "Rav Huna Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Rav Huna Option",
+    "candidates": [
+      "Rav Hamnuna Presence",
+      "Rav Huna Option",
+      "Ameimar Resolution",
+      "Rav Papa Initial",
+      "Ameimar Two Rumors",
+      "Two Rumors Ruling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Huna Option",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rav Huna's ruling and Rav Shinnana/Ameimar's qualification about the single-kol case, matching candidates 1 and 2's prose about megaresh rishon/sheni and the ta'ut framing.",
+      "second_heading": "Rav Papa Initial",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the entirely new scenario of two competing kolot (mizeh umizeh) with Rav Pappa's initial position, matching candidate 3's prose about the two-rumors case.",
+      "current_heading": "Rav Huna Option",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Two Rumors Ruling",
+    "candidates": [
+      "Ameimar Resolution",
+      "Rav Papa Initial",
+      "Ameimar Two Rumors",
+      "Two Rumors Ruling",
+      "Beit Shammai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage states the final halakhic ruling that she is permitted to both men, which directly corresponds to the 'Two Rumors Ruling' section's prose about the halakha following Ameimar in the two competing rumors scenario.",
+      "chosen_heading": "Two Rumors Ruling",
+      "current_heading": "Two Rumors Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Beit Shammai",
+    "candidates": [
+      "Beit Shammai",
+      "Beit Hillel Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text of Beit Shammai's position, which is exactly what the prose under heading 0 discusses \u2014 the Beit Shammai ruling about divorce only for 'devar ervah' with its scriptural basis.",
+      "chosen_heading": "Beit Shammai",
+      "current_heading": "Beit Shammai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Beit Hillel Leniency",
+    "candidates": [
+      "Beit Hillel Leniency",
+      "Rabbi Akiva Permissive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Beit Hillel's position about burning his dish with the scriptural basis 'ki matza bah ervat davar,' which is precisely what the 'Beit Hillel Leniency' prose discusses in detail.",
+      "chosen_heading": "Beit Hillel Leniency",
+      "current_heading": "Beit Hillel Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Rabbi Akiva Permissive",
+    "candidates": [
+      "Rabbi Akiva Permissive",
+      "Beit Hillel Exegesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Akiva's position that a man may divorce his wife even if he found another more beautiful woman, which is precisely what the 'Rabbi Akiva Permissive' section's prose discusses in detail.",
+      "chosen_heading": "Rabbi Akiva Permissive",
+      "current_heading": "Rabbi Akiva Permissive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Beit Hillel Exegesis",
+    "candidates": [
+      "Beit Hillel Exegesis",
+      "Beit Shammai Witnesses",
+      "One vs. Two Grounds"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Beit Hillel Exegesis",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain the Beit Hillel/Beit Shammai opening exchange and Beit Hillel's full exegetical argument about why both 'ervat' and 'davar' are needed, which is exactly what heading 0's prose describes.",
+      "second_heading": "Beit Shammai Witnesses",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 cover Beit Shammai's gezerah shavah using 'davar' to require two witnesses, followed by the linguistic back-and-forth about 'ervat davar' vs. 'o ervah o davar', which maps precisely onto headings 1 and 2's prose \u2014 and since items 3-4 align with heading 1 and item 5 with heading 2, the best single heading for items 3-5 is heading 1 where the Beit Shammai witnesses argument begins.",
+      "current_heading": "Beit Hillel Exegesis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "One vs. Two Grounds",
+    "candidates": [
+      "Beit Shammai Witnesses",
+      "One vs. Two Grounds",
+      "Unjustified Divorce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern the linguistic debate about the word *ki* in the divorce verse \u2014 explaining the disagreement between Beit Shammai and Rabbi Akiva over whether *ki* means 'because' (one ground) or 'or if' (multiple grounds) \u2014 which fits directly under 'One vs. Two Grounds' where the prose discusses the dispute over *ervat davar* as one or two independent grounds for divorce.",
+      "chosen_heading": "One vs. Two Grounds",
+      "current_heading": "One vs. Two Grounds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Unjustified Divorce",
+    "candidates": [
+      "Unjustified Divorce",
+      "Get Effective"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's question to Rava about what happens when there is neither ervah nor any other matter \u2014 this is precisely the threshold question described in the 'Unjustified Divorce' prose, before Rava's answer which belongs under 'Get Effective'.",
+      "chosen_heading": "Unjustified Divorce",
+      "current_heading": "Unjustified Divorce",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Get Effective",
+    "candidates": [
+      "Get Effective",
+      "Secret Divorce Plan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's response about the rapist law and the principle that 'what he did, he did,' which is precisely what the 'Get Effective' prose describes.",
+      "chosen_heading": "Get Effective",
+      "current_heading": "Get Effective",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Secret Divorce Plan",
+    "candidates": [
+      "Secret Divorce Plan",
+      "Analogy Framework",
+      "Fastidious Type"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Mesharshiya's question to Rava about a man secretly planning divorce while his wife serves him, and Rava's scriptural response \u2014 exactly what the 'Secret Divorce Plan' prose discusses.",
+      "chosen_heading": "Secret Divorce Plan",
+      "current_heading": "Secret Divorce Plan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Fastidious Type",
+    "candidates": [
+      "Analogy Framework",
+      "Fastidious Type",
+      "Normal & Permissive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the full baraita with Rabbi Meir's analogy framework, matching the 'Analogy Framework' section's prose which describes exactly this opening statement and its framing \u2014 the 'Fastidious Type' section covers only the interpretation/commentary on Pappos ben Yehuda, not the baraita's introduction.",
+      "chosen_heading": "Analogy Framework",
+      "current_heading": "Fastidious Type",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Normal & Permissive",
+    "candidates": [
+      "Fastidious Type",
+      "Normal & Permissive",
+      "Improper Behaviors",
+      "Mitzva to Divorce",
+      "Second Husband Fate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items describe the second and third fly-cup analogies (normal man and bad man) with the Gemara's clarification about bathing, which is precisely what the 'Normal & Permissive' section's prose describes in detail.",
+      "chosen_heading": "Normal & Permissive",
+      "current_heading": "Normal & Permissive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Second Husband Fate",
+    "candidates": [
+      "Improper Behaviors",
+      "Mitzva to Divorce",
+      "Second Husband Fate",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items deal with the fate of the second husband who marries the wicked woman, which is precisely what candidate 2 ('Second Husband Fate') describes in its prose \u2014 the midrashic reading of 'acher,' the first husband expelling the wicked woman, the second bringing her in, and the second husband's fate of either divorcing her or dying.",
+      "chosen_heading": "Second Husband Fate",
+      "current_heading": "Second Husband Fate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Rabbi Yehuda",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Rabbi Yochanan",
+      "God's Hate Standard",
+      "Marriage Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yehuda's and Rabbi Yochanan's readings of the Malachi verse together as a single unit, and the current heading 'Rabbi Yehuda' is where it sits \u2014 however, since the passage contains both opinions jointly and heading 0's prose explicitly introduces both readings in sequence leading into heading 1, the current placement under heading 0 is the correct home for the full quoted passage as it begins with Rabbi Yehuda's opinion.",
+      "chosen_heading": "Rabbi Yehuda",
+      "current_heading": "Rabbi Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Marriage Distinction",
+    "candidates": [
+      "Rabbi Yochanan",
+      "God's Hate Standard",
+      "Marriage Distinction",
+      "Altar's Tears",
+      "Malachi Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the Gemara's resolution that the tannaim do not disagree because one statement refers to a first marriage and the other to a second \u2014 is precisely what the 'Marriage Distinction' section's prose describes.",
+      "chosen_heading": "Marriage Distinction",
+      "current_heading": "Marriage Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Malachi Midrash",
+    "candidates": [
+      "Altar's Tears",
+      "Malachi Midrash",
+      "Covenant Rupture",
+      "Modern Balance",
+      "Partnership Ideal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Elazar's statement that the altar sheds tears over one who divorces his first wife, which matches heading 0 'Altar's Tears' exactly \u2014 the current placement under 'Malachi Midrash' (heading 1) focuses on the scriptural verse itself, while heading 0's prose directly introduces and discusses this same Rabbi Elazar teaching.",
+      "chosen_heading": "Altar's Tears",
+      "current_heading": "Malachi Midrash",
+      "moved": true
+    }
+  }
+]

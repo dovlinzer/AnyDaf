@@ -30,7 +30,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Gemara Discussion on Rabbi Elazar b'Rabbi Shimon's Position Regarding Head and Body Connection",
@@ -58,8 +58,8 @@
           "timestamp": "03:21"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Tanna Kamma's Argument: How the Word Ve-hikrivo Frees the Olat Ha-of from Comparison to Chatat Ha-of",
@@ -92,8 +92,8 @@
           "timestamp": "07:51"
         }
       ],
-      "sefaria_index": 5,
-      "matched": false
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Learning Laws of Bird Olat Ha-of from Animal Chatat: Source and Scope of Comparisons",
@@ -251,8 +251,8 @@
           "timestamp": "24:47"
         }
       ],
-      "sefaria_index": 17,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Limiting the Kal Vachomer Through Parallel Derivation: Both Categories Are Exclusive",
@@ -270,7 +270,7 @@
           "timestamp": "24:47"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 12,
       "matched": false
     },
     {
@@ -559,7 +559,9 @@
     }
   ],
   "amud_b_segment_index": 7,
-  "amud_b_timestamp": "24:38",
-  "amud_b_micro_title": "Response to Kal",
-  "amud_b_sefaria_index": 15
+  "amud_b_timestamp": "22:46",
+  "amud_b_micro_title": "Age Requirement",
+  "amud_b_sefaria_index": 15,
+  "shiur_start_daf": 21,
+  "shiur_start_amud": "b"
 }

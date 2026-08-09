@@ -1,0 +1,434 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Magein Avraham",
+    "candidates": [
+      "Non-Jew Ownership",
+      "Rav Nachman on Psak",
+      "Drunk & Liability",
+      "Magein Avraham",
+      "Afik Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rabbi \u1e24anina's statement about passing a shield (magein) at a time of arrogance (ga'ava) with the Job verse, which is precisely what the 'Magein Avraham' section's prose describes and analyzes.",
+      "chosen_heading": "Magein Avraham",
+      "current_heading": "Magein Avraham",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Afik Etymology",
+    "candidates": [
+      "Afik Etymology",
+      "Rav Sheshet Sleep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's linguistic proof that 'afik' means passing/traveling, citing Job 6:15, which is precisely what the 'Afik Etymology' section's prose discusses.",
+      "chosen_heading": "Afik Etymology",
+      "current_heading": "Afik Etymology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Rav Sheshet Sleep",
+    "candidates": [
+      "Rav Sheshet Sleep",
+      "Chananel & Yetzer",
+      "Unsettled Mind"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Chananel & Yetzer",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 discuss Rabbi Yo\u1e25anan's alternative reading involving 'mapik' (revealing/drawing out) and the proof from Psalms 18:16, which matches the 'Chananel & Yetzer' prose about the 'reveal vs. suppress' approach and the mapik/galuy language.",
+      "second_heading": "Rav Sheshet Sleep",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the practical-difference question resolved by Rav Sheshet's practice of handing his sleep to his attendant, which is precisely what the 'Rav Sheshet Sleep' prose discusses.",
+      "current_heading": "Rav Sheshet Sleep",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Unsettled Mind",
+    "candidates": [
+      "Chananel & Yetzer",
+      "Unsettled Mind",
+      "Clarity for Rulings",
+      "Distractibility Tales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address da'as meyushevet and the requirement of a settled/clear mind for prayer and paskening, which is precisely what the 'Unsettled Mind' section's prose discusses \u2014 including Rav Chanina's anger, Mar Ukva's shusah, and Rav Nachman bar Yitzchak's hilchasa ba'ya tzilusa, all of which appear verbatim in that section's prose.",
+      "chosen_heading": "Unsettled Mind",
+      "current_heading": "Unsettled Mind",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Distractibility Tales",
+    "candidates": [
+      "Clarity for Rulings",
+      "Distractibility Tales",
+      "Night Learning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rava being distracted by a louse bite and Mar son of Ravina's mother preparing seven garments is explicitly discussed in the 'Distractibility Tales' prose, which is its current placement and clearly the correct home.",
+      "chosen_heading": "Distractibility Tales",
+      "current_heading": "Distractibility Tales",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Night Learning",
+    "candidates": [
+      "Night Learning",
+      "Learning Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda's statement about night being created for sleep and Reish Lakish's statement about the moon being created for study, which are the core content discussed in the 'Night Learning' prose, while the Rabbi Zeira portion is also mentioned there; the current placement is correct.",
+      "chosen_heading": "Night Learning",
+      "current_heading": "Night Learning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Learning Examples",
+    "candidates": [
+      "Learning Examples",
+      "Day Workers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rav \u1e24isda's daughter asking him about sleep is explicitly discussed in the 'Learning Examples' section prose, which quotes and explains this exact exchange.",
+      "chosen_heading": "Learning Examples",
+      "current_heading": "Learning Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Day Workers",
+    "candidates": [
+      "Day Workers",
+      "Travel Recovery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Nachman bar Yitzchak's declaration about being day workers and Rav Acha bar Yaakov's practice of borrowing and repaying study time, which matches exactly the prose under 'Day Workers'.",
+      "chosen_heading": "Day Workers",
+      "current_heading": "Day Workers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Travel Recovery",
+    "candidates": [
+      "Travel Recovery",
+      "Environmental Avoidance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar's ruling about not praying for three days after a journey, which is precisely what the 'Travel Recovery' prose section discusses, including the same Ezra proof text and the same ruling.",
+      "chosen_heading": "Travel Recovery",
+      "current_heading": "Travel Recovery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Environmental Avoidance",
+    "candidates": [
+      "Environmental Avoidance",
+      "Wine & Appeasement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Shmuel's father avoiding prayer after travel, Shmuel avoiding prayer near alcohol, and Rav Pappa avoiding prayer near pungent fish \u2014 all examples of environmental conditions affecting prayer, which precisely matches the 'Environmental Avoidance' section's prose discussion of these same examples.",
+      "chosen_heading": "Environmental Avoidance",
+      "current_heading": "Environmental Avoidance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Wine & Appeasement",
+    "candidates": [
+      "Wine & Appeasement",
+      "Modern Thresholds",
+      "Wine & Wisdom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi \u1e24anina's teaching about being appeased by wine as reflecting the divine quality, which is exactly what the 'Wine & Appeasement' section's prose discusses in detail.",
+      "chosen_heading": "Wine & Appeasement",
+      "current_heading": "Wine & Appeasement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Wine & Wisdom",
+    "candidates": [
+      "Modern Thresholds",
+      "Wine & Wisdom",
+      "Wine Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi \u1e24iyya's teaching about wine, the gematria of yayin and sod both equaling seventy, and the aphorism 'nichnas yayin yatza sod,' which is precisely what the 'Wine & Wisdom' section's prose describes.",
+      "chosen_heading": "Wine & Wisdom",
+      "current_heading": "Wine & Wisdom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Wine Purpose",
+    "candidates": [
+      "Wine Purpose",
+      "Wine Abundance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi \u1e24anin's teaching about wine's purpose (comforting mourners and rewarding the wicked), which matches exactly the prose under 'Wine Purpose' heading.",
+      "chosen_heading": "Wine Purpose",
+      "current_heading": "Wine Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Wine Abundance",
+    "candidates": [
+      "Wine Abundance",
+      "Character Revelation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rabbi \u1e24anin bar Pappa teaching about wine flowing like water as a sign of blessing, which is precisely what the 'Wine Abundance' prose describes in detail.",
+      "chosen_heading": "Wine Abundance",
+      "current_heading": "Wine Abundance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Character Revelation",
+    "candidates": [
+      "Character Revelation",
+      "Configuration Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Ilai's teaching about three ways character is revealed, which is exactly what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Character Revelation",
+      "current_heading": "Character Revelation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Configuration Setup",
+    "candidates": [
+      "Configuration Setup",
+      "Rav's Position",
+      "Rabbi Eliezer & Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the basic configuration (Jew and gentile in inner courtyard, Jew in outer) and the rulings of Rabbi Yehuda HaNasi and Rabbi \u1e24iyya, which is exactly what the 'Configuration Setup' prose discusses.",
+      "chosen_heading": "Configuration Setup",
+      "current_heading": "Configuration Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Rabbi Eliezer & Akiva",
+    "candidates": [
+      "Rav's Position",
+      "Rabbi Eliezer & Akiva",
+      "Akiva's Rule",
+      "Reversed Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The entire passage (items 1\u20137) covers exactly what candidate 1's prose describes: the discussion at Rav Sheshet's shiur where Rabba nods, Rav Yosef objects to the Rabbi Meir attribution, the 'case as it happened' defense is raised and refuted by Rav's own ruling on the inner courtyard, the Rabbi Eliezer ben Yaakov and Rabbi Akiva attributions are tested and found wanting individually, and finally Rav Huna son of Rav Yehoshua resolves it by combining both positions \u2014 all of which is precisely what candidate 1's prose narrates.",
+      "chosen_heading": "Rabbi Eliezer & Akiva",
+      "current_heading": "Rabbi Eliezer & Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Reversed Setup",
+    "candidates": [
+      "Akiva's Rule",
+      "Reversed Setup",
+      "Inn Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the complete Gemara discussion of the reversed setup (Jew and non-Jew in the outer courtyard, Jew in the inner), including the dilemma, the two sides of the argument, and Rav's concluding response \u2014 exactly what the 'Reversed Setup' prose describes.",
+      "chosen_heading": "Reversed Setup",
+      "current_heading": "Reversed Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Inn Scenario",
+    "candidates": [
+      "Inn Scenario",
+      "Landlord Authority",
+      "Eviction Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Reish Lakish and Rabbi \u1e24anina's students arriving at the inn and the basic scenario (absent tenant, present landlord), which directly matches the 'Inn Scenario' prose about their arrival and the need to make an eruv when the non-Jewish tenant was absent.",
+      "chosen_heading": "Inn Scenario",
+      "current_heading": "Inn Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Eviction Power",
+    "candidates": [
+      "Landlord Authority",
+      "Eviction Power",
+      "Practical Decision",
+      "Rav Afes Approval"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the Gemara's structured dilemma about whether the landlord's power to remove the tenant (even when not exercised) translates into actionable rental rights, which is precisely what the 'Eviction Power' prose describes.",
+      "chosen_heading": "Eviction Power",
+      "current_heading": "Eviction Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Rav Afes Approval",
+    "candidates": [
+      "Practical Decision",
+      "Rav Afes Approval"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Reish Lakish's decision to rent and the consultation with Rav Afes, but the prose under 'Practical Decision' (index 0) explicitly discusses both the rental decision AND the plan to ask the southern masters AND Rashi's reasoning, making it the better match \u2014 while the current placement under 'Rav Afes Approval' only covers the confirmation, yet the quoted text includes the full sequence including Reish Lakish's initial decision.",
+      "chosen_heading": "Practical Decision",
+      "current_heading": "Rav Afes Approval",
+      "moved": true
+    }
+  }
+]

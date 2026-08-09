@@ -1,0 +1,349 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Megillah Reading",
+    "candidates": [
+      "Hakol Overview",
+      "Megillah Reading",
+      "Pirsumei Nisa",
+      "Zimun Obligation",
+      "Kohanim Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the obligation of kohanim, levi'im, and yisraelim to cancel their Temple service for megilla reading, which is precisely what the 'Megillah Reading' section's prose describes in detail.",
+      "chosen_heading": "Megillah Reading",
+      "current_heading": "Megillah Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Kohanim Eating",
+    "candidates": [
+      "Pirsumei Nisa",
+      "Zimun Obligation",
+      "Kohanim Eating",
+      "Tziruf Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the baraita 'hakol chayavin b'zimmun \u2014 kohanim levi'im v'yisraelim' with the peshita/lo tzricha structure, which the prose under heading 1 ('Zimun Obligation') explicitly introduces and frames, while heading 2 ('Kohanim Eating') picks up only the salka da'atakh reasoning that follows \u2014 meaning the passage as a whole belongs under heading 1 where the baraita is first introduced.",
+      "chosen_heading": "Zimun Obligation",
+      "current_heading": "Kohanim Eating",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Tziruf Principle",
+    "candidates": [
+      "Kohanim Eating",
+      "Tziruf Principle",
+      "Return to Mishnah",
+      "Ben Buchri Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita about kohanim, levi'im, and yisraelim joining for zimmun when eating different foods (teruma vs. chullin), which is precisely what the 'Tziruf Principle' prose describes in detail.",
+      "chosen_heading": "Tziruf Principle",
+      "current_heading": "Tziruf Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Ben Buchri Opinion",
+    "candidates": [
+      "Return to Mishnah",
+      "Ben Buchri Opinion",
+      "Yochanan ben Zakkai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the 'peshita' challenge and Rava's answer about Ben Buchri, which is precisely what heading 0 ('Return to Mishnah') describes in its prose, whereas heading 1 ('Ben Buchri Opinion') covers only the content of Ben Buchri's actual testimony recorded in Shekalim.",
+      "chosen_heading": "Return to Mishnah",
+      "current_heading": "Ben Buchri Opinion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Yochanan ben Zakkai",
+    "candidates": [
+      "Ben Buchri Opinion",
+      "Yochanan ben Zakkai",
+      "Tzibbur Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of Rabban Yochanan ben Zakkai's response to Ben Bukhri \u2014 the sharp rebuttal and the priests' self-interested reasoning about the omer/two loaves/shewbread \u2014 which is precisely what the 'Yochanan ben Zakkai' section's prose discusses in detail.",
+      "chosen_heading": "Yochanan ben Zakkai",
+      "current_heading": "Yochanan ben Zakkai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Tzibbur Concept",
+    "candidates": [
+      "Tzibbur Concept",
+      "Excluding Kohanim",
+      "Abaye Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why a kohen who voluntarily contributes according to Ben Bukhri is not a sinner \u2014 answered by the principle that he transfers the half-shekel to the tzibbur (communal ownership) \u2014 which is precisely what the 'Tzibbur Concept' prose discusses in its final sentences.",
+      "chosen_heading": "Tzibbur Concept",
+      "current_heading": "Tzibbur Concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Abaye Response",
+    "candidates": [
+      "Excluding Kohanim",
+      "Abaye Response",
+      "Rava's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous exchange \u2014 the initial hava amina linking shkalim to erchin (item 1), Abaye's rebuttal that the verse addresses minimum sela payment (item 2), and Abaye's alternative hava amina linking pidyon haben to erchin (item 3) \u2014 which is precisely what candidate 1 ('Abaye Response') describes in its prose.",
+      "chosen_heading": "Abaye Response",
+      "current_heading": "Abaye Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Rava's Logic",
+    "candidates": [
+      "Rava's Logic",
+      "Braita Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely described in the 'Rava's Logic' prose: Item 1 is Rava's reductio ad absurdum about the ayil asham, and Item 2 is Rava/Rav Ashi's correct hava amina about vehe'emido lifnei hakohen \u2014 both are explicitly covered in that section's prose.",
+      "chosen_heading": "Rava's Logic",
+      "current_heading": "Rava's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Braita Intro",
+    "candidates": [
+      "Braita Intro",
+      "Erech Stum",
+      "Complete Person",
+      "Nefashot",
+      "Living Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the introduction to the baraita \u2014 item 1 raises the question about the source for including a repulsive person, and item 2 begins the baraita's answer with its first two clauses (erech satum and erech of whole person), exactly matching the 'Braita Intro' prose which describes this precise sequence.",
+      "chosen_heading": "Braita Intro",
+      "current_heading": "Braita Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Living Only",
+    "candidates": [
+      "Erech Stum",
+      "Complete Person",
+      "Nefashot",
+      "Living Only",
+      "Multiple Persons",
+      "Women Obligors",
+      "Menuval Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the exclusion of the dead and the moribund (goses) from valuation \u2014 exactly what the 'Living Only' section's prose describes, including the nefashot velo hamet derivation and the ve'he'emid ve'he'erich principle.",
+      "chosen_heading": "Living Only",
+      "current_heading": "Living Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Menuval Case",
+    "candidates": [
+      "Multiple Persons",
+      "Women Obligors",
+      "Menuval Case",
+      "Erech Satum",
+      "Three Shekels Min",
+      "Grab Principle",
+      "Hasagat Yad"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Menuval Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 all deal with multiple 'davar acher' interpretations of 'nefashot' culminating in the menuval/mukat shechin case and its necessity, which is exactly what the 'Menuval Case' prose describes.",
+      "second_heading": "Erech Satum",
+      "second_confidence": "low",
+      "second_reason": "Items 5-6 shift to an entirely new verse ('vehaya erkhecha'/'hazachar') and the distinct topic of tumtum and androginos in valuations vs. assessments, representing a structural break from the nefashot derivations; candidate 3 is the next available heading though its prose doesn't perfectly match.",
+      "current_heading": "Menuval Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Hasagat Yad",
+    "candidates": [
+      "Erech Satum",
+      "Three Shekels Min",
+      "Grab Principle",
+      "Hasagat Yad",
+      "Gender Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All six items form one continuous discussion about erech satum \u2014 defining it, establishing three shekels as the minimum, explaining why not fifty or one shekel, and then the Rav Na\u1e25man/Rabba bar Avuh dispute about whether hasagat yad applies \u2014 which is precisely what heading 3 ('Hasagat Yad') describes in its prose.",
+      "chosen_heading": "Hasagat Yad",
+      "current_heading": "Hasagat Yad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Gender Requirement",
+    "candidates": [
+      "Gender Requirement",
+      "Market Value OK",
+      "Nidon Bichvodo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses deriving that one gives the valuation of the entire self (not just a limb) from 'be'erkecha,' which directly corresponds to the 'Nidon Bichvodo' section's discussion of vital organs representing the whole person and how market valuations treat a part as representing the whole.",
+      "chosen_heading": "Nidon Bichvodo",
+      "current_heading": "Gender Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Nidon Bichvodo",
+    "candidates": [
+      "Market Value OK",
+      "Nidon Bichvodo",
+      "Abaye Challenge",
+      "Body Part Values"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous baraita/Gemara discussion deriving halakhot from 'nefashot' \u2014 specifically about vital organs representing the whole person, exclusion of the dead/moribund, and the repulsive man \u2014 which is exactly the material the 'Nidon Bichvodo' prose describes as the source context for the nefashot derivation in erchin law.",
+      "chosen_heading": "Nidon Bichvodo",
+      "current_heading": "Nidon Bichvodo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Body Part Values",
+    "candidates": [
+      "Abaye Challenge",
+      "Body Part Values"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form one continuous discussion: the baraita's inclusion of tumtum/hermaphrodite in assessments, Rava's explanation about nidon bichvodo, and Abaye's challenge with the slave/donkey/cow cases \u2014 all of which are described in candidate 0's prose about Abaye's challenge to Rava's position, and candidate 1's prose about the animal body-part cases that are part of that same challenge.",
+      "chosen_heading": "Abaye Challenge",
+      "current_heading": "Body Part Values",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,383 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Machshirin Override",
+    "candidates": [
+      "Machshirin Override",
+      "Rabbis Disagree",
+      "Milah Consensus",
+      "Halacha L'Moshe",
+      "Kal Vachomer Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks 'from where do we derive' that milah overrides Shabbat and provides Ulla's and Rabbi Yitzchak's answer of halacha l'Moshe miSinai, which matches the 'Milah Consensus' section's prose about the question minalan and its answer, rather than the current 'Machshirin Override' section.",
+      "chosen_heading": "Milah Consensus",
+      "current_heading": "Machshirin Override",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Kal Vachomer Issue",
+    "candidates": [
+      "Rabbis Disagree",
+      "Milah Consensus",
+      "Halacha L'Moshe",
+      "Kal Vachomer Issue",
+      "Bone & Blood Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The prose of 'Halacha L'Moshe' explicitly describes the Gemara raising a challenge (meisivei) by pointing to this exact braita about pikuach nefesh using milah as a kal vachomer premise, which is precisely what this passage contains \u2014 making it the section that introduces the objection, not 'Kal Vachomer Issue' which discusses the implications after the braita is already introduced.",
+      "chosen_heading": "Halacha L'Moshe",
+      "current_heading": "Kal Vachomer Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Bone & Blood Case",
+    "candidates": [
+      "Kal Vachomer Issue",
+      "Bone & Blood Case",
+      "No Kal Vachomer",
+      "Os Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's challenge about whether a kal vachomer can be derived from a halacha l'Moshe miSinai, illustrated by the Rabbi Elazar ben Azarya/Rabbi Akiva exchange \u2014 which is precisely what the 'Kal Vachomer Issue' prose describes, not the 'Bone & Blood Case' section where it currently sits.",
+      "chosen_heading": "Kal Vachomer Issue",
+      "current_heading": "Bone & Blood Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Os Connection",
+    "candidates": [
+      "No Kal Vachomer",
+      "Os Connection",
+      "Tefillin Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar's gezeirah shavah from the word 'os' (sign), which is precisely what the 'Os Connection' section's prose describes.",
+      "chosen_heading": "Os Connection",
+      "current_heading": "Os Connection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Tefillin Objection",
+    "candidates": [
+      "Tefillin Objection",
+      "Three Terms Test",
+      "Bayom Teaching",
+      "Korban Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Tefillin Objection",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 form the continuous chain of objections and resolutions using os/bris/doros, which heading 0's prose explicitly describes in full detail.",
+      "second_heading": "Bayom Teaching",
+      "second_confidence": "high",
+      "second_reason": "Item 7 is Rabbi Yochanan's independent bayom derivation, which is precisely what heading 2 ('Bayom Teaching') describes.",
+      "current_heading": "Tefillin Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Korban Challenge",
+    "candidates": [
+      "Three Terms Test",
+      "Bayom Teaching",
+      "Korban Challenge",
+      "Bayom Daytime"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the exchange between Reish Lakish and Rabbi Yochanan about mechusrei kapparah and the bayom challenge, which is precisely what the 'Korban Challenge' prose describes.",
+      "chosen_heading": "Korban Challenge",
+      "current_heading": "Korban Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Bayom Daytime",
+    "candidates": [
+      "Bayom Daytime",
+      "Shmini Alternative",
+      "Bayom Preferred",
+      "Braita Milah",
+      "Braita Resolution",
+      "Rava's Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Bayom Daytime",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 discuss the bayom/daytime requirement for milah and mechusrei kapparah including Ravina's objection, exactly matching candidate 0's prose.",
+      "second_heading": "Shmini Alternative",
+      "second_confidence": "medium",
+      "second_reason": "Items 5-8 introduce Rav Acha bar Yaakov's shmini alternative, its rejection, and the supporting baraita for Rabbi Yochanan, matching candidate 1's prose about the shmini approach.",
+      "current_heading": "Bayom Daytime",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rava's Question",
+    "candidates": [
+      "Shmini Alternative",
+      "Bayom Preferred",
+      "Braita Milah",
+      "Braita Resolution",
+      "Rava's Question",
+      "Kal Vachomer Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rava's question about what the tanna found acceptable initially and difficult ultimately, which is precisely what the 'Rava's Question' section's prose describes \u2014 Rava asking what the underlying logical tension in the braita is.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Rava's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Kal Vachomer Argument",
+    "candidates": [
+      "Kal Vachomer Argument",
+      "Tzara'at Rebuttal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the kal vachomer argument (tzara'at overrides avodah, avodah overrides Shabbat, therefore milah overrides Shabbat), which is precisely what the 'Kal Vachomer Argument' prose section describes and reconstructs.",
+      "chosen_heading": "Kal Vachomer Argument",
+      "current_heading": "Kal Vachomer Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Tzara'at Rebuttal",
+    "candidates": [
+      "Tzara'at Rebuttal",
+      "Milah Overrides Tzara'at",
+      "Besar Derivation",
+      "Braita Logic",
+      "Rava Analyzes",
+      "Kal Vachomer Tzara'at",
+      "Tzara'at Counterarg",
+      "Aseh Principle",
+      "Objection to Aseh",
+      "Braita Resolves",
+      "Besar in Cases"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tzara'at Rebuttal",
+      "first_confidence": "high",
+      "first_reason": "Item 1 continues the rebuttal about whether tzara'at or Shabbat is more stringent and concludes with the bayom derivation, matching the 'Tzara'at Rebuttal' prose exactly.",
+      "second_heading": "Milah Overrides Tzara'at",
+      "second_confidence": "high",
+      "second_reason": "Items 2-8 form a new structural unit beginning with 'Tanu Rabbanan' introducing a fresh baraita about milah overriding tzara'at, matching the 'Milah Overrides Tzara'at' heading which introduces that exact baraita.",
+      "current_heading": "Tzara'at Rebuttal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Besar in Cases",
+    "candidates": [
+      "Milah Overrides Tzara'at",
+      "Besar Derivation",
+      "Braita Logic",
+      "Rava Analyzes",
+      "Kal Vachomer Tzara'at",
+      "Tzara'at Counterarg",
+      "Aseh Principle",
+      "Objection to Aseh",
+      "Braita Resolves",
+      "Besar in Cases",
+      "Abaye's Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the difficulty that the word 'besar' appears for the infant and the adult but not for the intermediate case (beinoni), which is precisely what the prose of candidate 9 describes.",
+      "chosen_heading": "Besar in Cases",
+      "current_heading": "Besar in Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Abaye's Method",
+    "candidates": [
+      "Abaye's Method",
+      "Chain Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Abaye's tzad hashaveh argument and Rava's kal vachomer clarification \u2014 are explicitly discussed together in the prose of heading 0, which describes exactly these two consecutive moves before noting that Rav Safra then challenges the kal vachomer.",
+      "chosen_heading": "Abaye's Method",
+      "current_heading": "Abaye's Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Chain Objection",
+    "candidates": [
+      "Chain Objection",
+      "Impurity Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Safra's challenge (the chain objection about tzara'at overriding avodah which overrides Shabbat) and Rava's complete response including the mechusar tevillah answer, but the current heading 'Chain Objection' and its prose explicitly covers both the question and anticipates the answer, while heading 1 'Impurity Reason' covers only the answer portion \u2014 since the passage is a unified exchange and the current placement already encompasses the full dialogue, it should remain under heading 0.",
+      "chosen_heading": "Chain Objection",
+      "current_heading": "Chain Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Impurity Reason",
+    "candidates": [
+      "Impurity Reason",
+      "Direct Confrontation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks specifically about pure (tahor) leprosy symptoms where immersion is not required, which is precisely the challenge described in the 'Direct Confrontation' section's prose, not the 'Impurity Reason' section which deals with the immersion/tumah argument.",
+      "chosen_heading": "Direct Confrontation",
+      "current_heading": "Impurity Reason",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Direct Confrontation",
+    "candidates": [
+      "Impurity Reason",
+      "Direct Confrontation",
+      "No Simultaneous Act",
+      "No Weightier Status",
+      "Rabbi Yoshiya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Rav Ashi's statement directly explains the principle of asei docheh lo ta'aseh requiring simultaneous confrontation, which is precisely what the 'Direct Confrontation' prose section describes as his contribution to the discussion.",
+      "chosen_heading": "Direct Confrontation",
+      "current_heading": "Direct Confrontation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Rabbi Yoshiya",
+    "candidates": [
+      "No Simultaneous Act",
+      "No Weightier Status",
+      "Rabbi Yoshiya",
+      "Rabbi Yonatan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's conclusion that the Rava-Rav Safra dispute reflects a Tannaitic disagreement, with the baraita citing Rabbi Yoshiya's derivation from 'besar' \u2014 exactly what the 'Rabbi Yoshiya' prose section describes.",
+      "chosen_heading": "Rabbi Yoshiya",
+      "current_heading": "Rabbi Yoshiya",
+      "moved": false
+    }
+  }
+]

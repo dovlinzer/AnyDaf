@@ -1,0 +1,194 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rav Pappa's Report",
+    "candidates": [
+      "Debate Setup",
+      "Rav Pappa's Report",
+      "Lechem HaPanim Proof",
+      "Two Braitot on Chaser"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts exactly what Candidate 1 describes: Rav Pappa sitting and recounting the dispute, and Rav Yosef bar Shemaya challenging him with the question of whether the debate concerns the minchat ha'omer as a korban tzibur.",
+      "chosen_heading": "Rav Pappa's Report",
+      "current_heading": "Rav Pappa's Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Two Braitot on Chaser",
+    "candidates": [
+      "Lechem HaPanim Proof",
+      "Two Braitot on Chaser",
+      "Pesuk Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the complete passage where Rav Malkiyu introduces the two baraitot on chaser, asks why two verses are needed, proposes the two-scenario division, and concludes with the double refutation of Rabbi Yochanan \u2014 exactly what the 'Two Braitot on Chaser' prose describes, and the current placement is correct.",
+      "chosen_heading": "Two Braitot on Chaser",
+      "current_heading": "Two Braitot on Chaser",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Pesuk Division",
+    "candidates": [
+      "Pesuk Division",
+      "Eating Shirayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the question of whether the remaining shirayim may be eaten when they went lacking between kemitza and haktara \u2014 the dilemma raised in item 2 is explicitly the content that the 'Eating Shirayim' prose section discusses, and item 1 is the Gemara's resolution that sets up that very dilemma.",
+      "chosen_heading": "Eating Shirayim",
+      "current_heading": "Pesuk Division",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Eating Shirayim",
+    "candidates": [
+      "Pesuk Division",
+      "Eating Shirayim",
+      "Mishnah: Left Invalid",
+      "Kaf Derivation",
+      "Left Hand Redundancy",
+      "Yirmiya's Challenge",
+      "Yirmiya's Challenge",
+      "Rava's Yad Solution",
+      "Finger & Kehuna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Ze'eiri's and Rabbi Yannai's derivations about whether remaining shirayim may be eaten, which is precisely what the 'Eating Shirayim' section's prose discusses in detail.",
+      "chosen_heading": "Eating Shirayim",
+      "current_heading": "Eating Shirayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Finger & Kehuna",
+    "candidates": [
+      "Mishnah: Left Invalid",
+      "Kaf Derivation",
+      "Left Hand Redundancy",
+      "Yirmiya's Challenge",
+      "Yirmiya's Challenge",
+      "Rava's Yad Solution",
+      "Finger & Kehuna",
+      "Limbs Challenge",
+      "Essential Avoda",
+      "Kabbalat Hadam",
+      "Rabbi Shimon Etzba"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 15,
+      "first_heading": "Kaf Derivation",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u201315 trace the derivation of the right-hand requirement for kemitza from Rabbi Zeira's kaf inference through Rava's gezeira shava using yad/regel/ozen from the metzora passages, exactly matching the 'Kaf Derivation' and subsequent headings about left-hand redundancy and Rava's yad solution.",
+      "second_heading": "Finger & Kehuna",
+      "second_confidence": "high",
+      "second_reason": "Items 16\u201323 introduce Rabbah bar bar Chana's distinct principle about etzba and kehuna, Rava's reformulation to 'either etzba or kehuna,' and the subsequent challenges and responses, which precisely matches the 'Finger & Kehuna' section's prose.",
+      "current_heading": "Finger & Kehuna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Rabbi Shimon Etzba",
+    "candidates": [
+      "Limbs Challenge",
+      "Essential Avoda",
+      "Kabbalat Hadam",
+      "Rabbi Shimon Etzba",
+      "Zrika Dispute",
+      "Two Derivations"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Shimon Etzba",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's answer that the mention of 'kohen' serves to require priestly vestments (bi'kehuno), which is explicitly discussed in the 'Rabbi Shimon Etzba' prose as the conclusion of that section.",
+      "second_heading": "Zrika Dispute",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge from zrika and Abaye's report of the baraita where Rabbi Shimon validates both kabbalat hadam and zrika with the left hand, which is precisely what the 'Zrika Dispute' prose describes.",
+      "current_heading": "Rabbi Shimon Etzba",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Two Derivations",
+    "candidates": [
+      "Zrika Dispute",
+      "Two Derivations",
+      "Minchat Chot\u00e9"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the continuous Gemara discussion about Rava's 'yad yad' derivation \u2014 the question of why it is needed, the answer that one derivation covers kemitza and one covers kidush kometz, and the follow-up challenge about Rabbi Shimon's position \u2014 which is precisely what the 'Two Derivations' prose describes.",
+      "chosen_heading": "Two Derivations",
+      "current_heading": "Two Derivations",
+      "moved": false
+    }
+  }
+]

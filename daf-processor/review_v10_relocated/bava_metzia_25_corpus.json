@@ -1,0 +1,427 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Mishna Examples",
+    "candidates": [
+      "Parallel to Elu Metziot",
+      "Simanim and Ownership",
+      "Mishna Examples",
+      "Reasoning Question",
+      "First Braita Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the full text of the mishna enumerating objects requiring proclamation, which is exactly what the 'Mishna Examples' prose section discusses in detail, walking through each case listed in these two mishna items.",
+      "chosen_heading": "Mishna Examples",
+      "current_heading": "Mishna Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "First Braita Case",
+    "candidates": [
+      "Reasoning Question",
+      "First Braita Case",
+      "Second Braita: Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the inferential question (diyuk) from the mishna AND the baraita that confirms it, but the 'Reasoning Question' prose section explicitly discusses the ta'ama/diyuk inference AND anticipates the baraita's content, while 'First Braita Case' prose already captures the baraita discussion \u2014 however, since the gemara text itself begins with the inferential question before moving to the baraita, and candidate 0's prose most closely frames the opening inferential logic that drives the entire passage, candidate 0 is a slightly better fit, though confidence is medium given the baraita content overlaps with candidate 1.",
+      "chosen_heading": "Reasoning Question",
+      "current_heading": "First Braita Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Second Braita: Vessel",
+    "candidates": [
+      "Second Braita: Vessel",
+      "Rav Zevid's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the second baraita as a contradiction (urminhu), which is precisely what the 'Second Braita: Vessel' section's prose describes and analyzes.",
+      "chosen_heading": "Second Braita: Vessel",
+      "current_heading": "Second Braita: Vessel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Rav Zevid's Resolution",
+    "candidates": [
+      "Rav Zevid's Resolution",
+      "Rav Pappa Alternatives",
+      "Container Design & Lips",
+      "Number vs. Location"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Zevid's Resolution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Zevid's resolution (container+flax vs. basket+produce), which is precisely what candidate 0's prose discusses.",
+      "second_heading": "Rav Pappa Alternatives",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are Rav Pappa's two alternative resolutions (remaining produce, mouth orientation, rim/lip), which match exactly what candidate 1's prose describes.",
+      "current_heading": "Rav Zevid's Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Number vs. Location",
+    "candidates": [
+      "Rav Pappa Alternatives",
+      "Container Design & Lips",
+      "Number vs. Location",
+      "Migdala's Definition",
+      "Tower vs. Scattered"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's analysis of whether 'tziburei peirot' indicates number or location as a siman, which is precisely what the 'Number vs. Location' section's prose describes.",
+      "chosen_heading": "Number vs. Location",
+      "current_heading": "Number vs. Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Tower vs. Scattered",
+    "candidates": [
+      "Migdala's Definition",
+      "Tower vs. Scattered",
+      "Tanna's Clarification",
+      "Rabbi Chanina: Tower"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Migdala's Definition",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the mishna's three-coins rule, Rabbi Yitzchak Migdala's tower definition, and the baraita's parallel support \u2014 exactly what heading 0 ('Migdala's Definition') and its prose describe.",
+      "second_heading": "Tanna's Clarification",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the gemara's internal contradiction in the baraita regarding partially-overlapping coins and the tanna's binary resolution, which is precisely what heading 2 ('Tanna's Clarification') discusses.",
+      "current_heading": "Tower vs. Scattered",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rabbi Chanina: Tower",
+    "candidates": [
+      "Tanna's Clarification",
+      "Rabbi Chanina: Tower",
+      "Chanina Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Chanina's distinction between three-king and one-king coins and the Gemara's immediate challenge to that distinction, which is precisely what the 'Rabbi Chanina: Tower' prose describes.",
+      "chosen_heading": "Rabbi Chanina: Tower",
+      "current_heading": "Rabbi Chanina: Tower",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Chanina Explanation",
+    "candidates": [
+      "Chanina Explanation",
+      "Rabbi Yochanan's Dispute",
+      "Ravina's Quantity Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the reinterpretation of Rabbi Chanina's ruling about coins of one king arranged like three kings, the definition of migdalim as a graded pyramidal stack, and the distinction between identical coins falling by chance \u2014 all of which are precisely what the 'Chanina Explanation' prose section discusses.",
+      "chosen_heading": "Chanina Explanation",
+      "current_heading": "Chanina Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Ravina's Quantity Limit",
+    "candidates": [
+      "Rabbi Yochanan's Dispute",
+      "Ravina's Quantity Limit",
+      "Rav Yirmiyah's Shapes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Yochanan's ruling, the question about what is proclaimed, the counter-question about why three coins rather than two, and Ravina's answer about the plural 'coins' \u2014 all of which are directly introduced by heading 0's prose about Rabbi Yochanan's dispute and the 'why specifically three / even two' counter-question, making it the clearly correct home for this unified sugya.",
+      "chosen_heading": "Rabbi Yochanan's Dispute",
+      "current_heading": "Ravina's Quantity Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rav Yirmiyah's Shapes",
+    "candidates": [
+      "Ravina's Quantity Limit",
+      "Rav Yirmiyah's Shapes",
+      "Rav Nachman Criterion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Yirmiyah's dilemmas about coin configurations (bracelet, line, triangle, ladder), which matches exactly the prose of candidate 1 'Rav Yirmiyah's Shapes.'",
+      "chosen_heading": "Rav Yirmiyah's Shapes",
+      "current_heading": "Rav Yirmiyah's Shapes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Rav Nachman Criterion",
+    "candidates": [
+      "Rav Nachman Criterion",
+      "Rav Ashi Imagery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rav Nachman/Rabbah bar Avuha criterion about inserting a wood chip to lift coins together, which is exactly what heading 0's prose describes and analyzes.",
+      "chosen_heading": "Rav Nachman Criterion",
+      "current_heading": "Rav Nachman Criterion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Rav Ashi Imagery",
+    "candidates": [
+      "Rav Ashi Imagery",
+      "Beis Kulus Configuration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's dilemma about the 'beis Kulus' configuration, which is precisely the topic discussed in candidate 1's prose about the braita defining the ke-avnei beis Kulus arrangement \u2014 the dilemma and its configuration belong there, not under candidate 0 which discusses background about Markulis worship and Tosafot's question about naming the idol.",
+      "chosen_heading": "Beis Kulus Configuration",
+      "current_heading": "Rav Ashi Imagery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Beis Kulus Configuration",
+    "candidates": [
+      "Rav Ashi Imagery",
+      "Beis Kulus Configuration",
+      "Coin Claims Not Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita defining the beis Kulus configuration (scattered coins vs. arranged coins requiring proclamation), which is exactly what the 'Beis Kulus Configuration' prose describes and quotes.",
+      "chosen_heading": "Beis Kulus Configuration",
+      "current_heading": "Beis Kulus Configuration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Coin Claims Not Valid",
+    "candidates": [
+      "Coin Claims Not Valid",
+      "Fungibility Reason",
+      "Spent Coin Presumption",
+      "Tied Birds Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full baraita including both the invalid coin claims and the 'his name written on it' point, which matches heading 0's prose about what kinds of claims are not valid simanim for coins; the current placement is correct.",
+      "chosen_heading": "Coin Claims Not Valid",
+      "current_heading": "Coin Claims Not Valid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Tied Birds Rule",
+    "candidates": [
+      "Fungibility Reason",
+      "Spent Coin Presumption",
+      "Tied Birds Rule",
+      "Location Siman Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishna text about tied fledglings found behind a fence and vessels in a garbage dump, which is precisely what the 'Tied Birds Rule' section introduces and discusses.",
+      "chosen_heading": "Tied Birds Rule",
+      "current_heading": "Tied Birds Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Location Siman Reasoning",
+    "candidates": [
+      "Location Siman Reasoning",
+      "Knot Challenge",
+      "Rav's Explanations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the reason one may not take the fledglings by stating the owner has no distinguishing mark on the birds themselves and the location serves as the siman \u2014 exactly what the prose in candidate 0 discusses.",
+      "chosen_heading": "Location Siman Reasoning",
+      "current_heading": "Location Siman Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Rav's Explanations",
+    "candidates": [
+      "Knot Challenge",
+      "Rav's Explanations",
+      "Safek Hinuach Ruling",
+      "Vessel in Trash Rule",
+      "Braita: Vessel in Trash",
+      "Zevid Vessel Distinction",
+      "Trash Pile: Cleaned vs.",
+      "Yeush Mida'at"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain (knot challenge \u2192 location challenge \u2192 safek hinuach ruling) that matches exactly what heading 1 'Rav's Explanations' describes in its prose, covering both Rav Abba bar Zavda's answer about wing-binding, Rav Ukva bar \u1e24ama's answer about hopping birds, and the resulting safek hinuach principle \u2014 all discussed together under that heading's prose.",
+      "chosen_heading": "Rav's Explanations",
+      "current_heading": "Rav's Explanations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Yeush Mida'at",
+    "candidates": [
+      "Safek Hinuach Ruling",
+      "Vessel in Trash Rule",
+      "Braita: Vessel in Trash",
+      "Zevid Vessel Distinction",
+      "Trash Pile: Cleaned vs.",
+      "Yeush Mida'at",
+      "Wall Ownership Rule",
+      "Midpoint Division"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 5,
+      "split2": 6,
+      "first_heading": "Yeush Mida'at",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 contains the full discussion of the contradiction between mishna and baraita, Rav Zevid's size-based distinction, Rav Pappa's cleared/not-cleared distinction, the aveida mida'at objection, and the final question about 'sheken derech ashpah lifnot' \u2014 all of which are precisely the content described in heading 5 ('Yeush Mida'at').",
+      "second_heading": "Wall Ownership Rule",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the mishna about items found in a heap of rubble or old/new wall, which matches heading 6 ('Wall Ownership Rule') describing matza be-gal and kotel yashan/chadash.",
+      "third_heading": "Midpoint Division",
+      "third_confidence": "medium",
+      "third_reason": "Segment 3 is the Gemara explaining why items in an old wall belong to the finder (Amorites, extreme rust), which elaborates on the old wall rule and transitions into the midpoint discussion, fitting best under heading 7 ('Midpoint Division') as the gemara discussion that follows the mishna about the wall rules, though heading 6 is also plausible since it elaborates on the old wall case specifically.",
+      "current_heading": "Yeush Mida'at",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Midpoint Division",
+    "candidates": [
+      "Wall Ownership Rule",
+      "Midpoint Division",
+      "Rental Exception",
+      "Canaanite Attribution",
+      "Deep Burial Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the midpoint rule from the mishna \u2014 'from its midpoint and outward, to him; from its midpoint and inward, to the homeowner' \u2014 which is precisely what the 'Midpoint Division' prose explains.",
+      "chosen_heading": "Midpoint Division",
+      "current_heading": "Midpoint Division",
+      "moved": false
+    }
+  }
+]

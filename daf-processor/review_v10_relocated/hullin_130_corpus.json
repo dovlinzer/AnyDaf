@@ -1,0 +1,210 @@
+[
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Treasury property effects",
+    "candidates": [
+      "Priestly gifts intro",
+      "Three gifts explained",
+      "Kohanim sustenance",
+      "Application scope",
+      "Exclusion from korbanot",
+      "Kal vachomer setup",
+      "Verse excludes korbanot",
+      "Permanent blemish ruling",
+      "Treasury property effects",
+      "Bechor & maaser exception",
+      "Sanctified then blemished",
+      "Post-redemption limits",
+      "Why restrictions apply",
+      "Rav Chisda ruling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Post-redemption limits",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing ruling of the Mishnah describing post-redemption restrictions on an animal that had kedushat korban \u2014 offspring and milk forbidden, slaughter outside incurs liability, temura applies, and if they died they must be buried \u2014 matching exactly the content described in heading 11 ('Post-redemption limits').",
+      "second_heading": "Verse excludes korbanot",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20138 form a continuous Gemara unit discussing why the verse 'otam' is needed to exclude sacrificial animals from the priestly gifts, with a chain of a fortiori arguments and refutations, which matches heading 6 ('Verse excludes korbanot') precisely.",
+      "current_heading": "Treasury property effects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Rav Chisda ruling",
+    "candidates": [
+      "Bechor & maaser exception",
+      "Sanctified then blemished",
+      "Post-redemption limits",
+      "Why restrictions apply",
+      "Rav Chisda ruling",
+      "Two explanations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what the prose of 'Rav Chisda ruling' describes: the a fortiori argument about chazeh veshok for non-sacred animals, its rejection via the word 'ze,' the impossibility of waving outside/inside the Temple, and the conclusion that 'ze' serves to support Rav Chisda's ruling that one who damages or eats priestly gifts is exempt from payment.",
+      "chosen_heading": "Rav Chisda ruling",
+      "current_heading": "Rav Chisda ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Two explanations",
+    "candidates": [
+      "Two explanations",
+      "'Ze' means present",
+      "Court enforcement query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both explanations (ze and mamon she'ein lo tovin) together, which matches heading 0's prose that explicitly discusses and contrasts both frameworks.",
+      "chosen_heading": "Two explanations",
+      "current_heading": "Two explanations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Court enforcement query",
+    "candidates": [
+      "'Ze' means present",
+      "Court enforcement query",
+      "Worthy kohanim rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's objection and query about whether 'mishpat' means court enforcement, which matches the 'Court enforcement query' section's prose exactly.",
+      "chosen_heading": "Court enforcement query",
+      "current_heading": "Court enforcement query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Worthy kohanim rule",
+    "candidates": [
+      "Worthy kohanim rule",
+      "Baraita ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rav Shmuel bar Na\u1e25mani's teaching that priestly gifts should not be given to an am ha'aretz kohen is explicitly discussed in the prose of heading 0 ('Worthy kohanim rule'), which directly quotes and analyzes this exact teaching and its source verse from Divrei Hayamim.",
+      "chosen_heading": "Worthy kohanim rule",
+      "current_heading": "Worthy kohanim rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Baraita ruling",
+    "candidates": [
+      "Baraita ruling",
+      "Possession requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Yehuda ben Beteira discussing mishpat/ze, which is precisely what candidate 0's prose describes as 'a second baraita in which Rabbi Yehuda ben Beteira says.'",
+      "chosen_heading": "Baraita ruling",
+      "current_heading": "Baraita ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Possession requirement",
+    "candidates": [
+      "Possession requirement",
+      "Traveler Takes Poor Gifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's analysis of whether the baraita contradicts Rav Chisda, resolving it through the case where gifts came into the kohen's possession while untithed \u2014 precisely the content described in the 'Possession requirement' prose.",
+      "chosen_heading": "Possession requirement",
+      "current_heading": "Possession requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Traveler Takes Poor Gifts",
+    "candidates": [
+      "Traveler Takes Poor Gifts",
+      "Repayment dispute",
+      "Poverty timing test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the mishna about a homeowner taking poor gifts while traveling and Rabbi Eliezer's ruling that he must repay upon return, which is precisely what heading 0's prose describes as introducing the baraita/mishna to test Rav Chisda's ruling.",
+      "chosen_heading": "Traveler Takes Poor Gifts",
+      "current_heading": "Traveler Takes Poor Gifts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Poverty timing test",
+    "candidates": [
+      "Repayment dispute",
+      "Poverty timing test",
+      "Final conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous dispute \u2014 Rav \u1e24isda's midat chasidut interpretation, Rava's objection to it, the reframing to the seifa (ani haya be'oto sha'ah), and Rav \u1e24isda's final midat chasidut answer \u2014 which matches exactly the 'Poverty timing test' prose describing Rava's objection and the ha'ashir meshalem challenge resolved by midat chasidut.",
+      "chosen_heading": "Poverty timing test",
+      "current_heading": "Poverty timing test",
+      "moved": false
+    }
+  }
+]

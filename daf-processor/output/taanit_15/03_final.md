@@ -1,6 +1,7 @@
-# Taanit 15 — Daf Yomi Shiur
-
+[DAF:15a]
 ## Perek Seder Ta'aniyot
+
+
 
 ### Ch. Overview
 
@@ -8,15 +9,13 @@ With the opening of the new *perek*, the focus of the tractate shifts markedly. 
 
 ### Mishna Structure
 
-> **Hebrew/Aramaic:** סֵדֶר תַּעֲנִיּוֹת כֵּיצַד? מוֹצִיאִין אֶת הַתֵּיבָה, לִרְחוֹבָהּ שֶׁל עִיר, וְנוֹתְנִין אֵפֶר מִקְלֶה עַל גַּבֵּי הַתֵּיבָה, וּבְרֹאשׁ הַנָּשִׂיא, וּבְרֹאשׁ אַב בֵּית דִּין, וְכׇל אֶחָד וְאֶחָד נוֹתֵן בְּרֹאשׁוֹ.
->
-> **Translation:** MISHNA: **What is** the customary **order of fast days?** Normally the sacred ark in the synagogue, which was mobile, was kept in a locked room. However, on fast days **they remove the ark to the** main **city square and place burnt ashes upon the ark,** as a sign of mourning. **And** they also place ashes **on the head of the *Nasi*, and on the head of the deputy *Nasi*, and each and every** member of the community likewise **places** ashes **upon his head.**
-
 The printers of the Talmud made the unusual decision to gather all the *mishnayot* of this *perek* into a single extended first *mishna*. What follows, then, is less a single discrete teaching than a compendium — essentially all six or seven *mishnayot* of the chapter stitched together. The *mishna* opens with the question *Seder Ta'aniyot keitzad* — "What is the order of the fast days?" — a formulation that recalls the *Pesach Seder*: not what we do, but in what sequence, according to what agenda, do we do it.
 
 ---
 
 ## Ark & Ashes
+
+
 
 ### Teiva & Eifer
 
@@ -48,17 +47,19 @@ But there is yet another dimension worth considering. There is a tradition that 
 
 ## Hazaken's Drasha
 
-### Words of Kibushan
 
-> **Hebrew/Aramaic:** הַזָּקֵן שֶׁבָּהֶן אוֹמֵר לִפְנֵיהֶם דִּבְרֵי כִבּוּשִׁין: אַחֵינוּ! לֹא נֶאֱמַר בְּאַנְשֵׁי נִינְוֵה ״וַיַּרְא אֱלֹהִים אֶת שַׂקָּם וְאֶת תַּעֲנִיתָם״, אֶלָּא: ״וַיַּרְא הָאֱלֹהִים אֶת מַעֲשֵׂיהֶם כִּי שָׁבוּ מִדַּרְכָּם הָרָעָה״, וּבַקַּבָּלָה הוּא אוֹמֵר: ״וְקִרְעוּ לְבַבְכֶם וְאַל בִּגְדֵיכֶם״.
->
-> **Translation:** **The eldest** member **of the** community **says to** the congregation **statements of reproof,** for example: **Our brothers, it is not stated with regard to the people of Nineveh: And God saw their sackcloth and their fasting. Rather,** the verse says: **"And God saw their deeds, that they had turned from their evil way"** (Jonah 3:10). **And in the Prophets it says: "And rend your hearts and not your garments,** and return to the Lord your God" (Joel 2:13). This teaches that prayer and fasting are insufficient, as one must also repent and amend his ways in practice.
+
+### Words of Kibushan
 
 *Hazakein shebahem* — the elder among them, who need not be the *nasi* or the *av beit din* but may simply be the appropriate figure for this role, perhaps a skilled *darshan* — stands before the assembled community and delivers *divrei kivushin*. *Rashi* traces the word to the pressing of olives: words that press, that humble, that stir people toward honest self-reflection.
 
 The substance of the *drasha* turns on a pointed reading of the *Yonah* narrative. *Lo ne'emar beanshei Ninveh vayar elohim et sakam ve'et ta'anitam* — it does not say that God saw the sackcloth and fasting of the Ninevites. *Ella vayar elohim et ma'aseihem ki shavu midarkam hara'ah* — it says God saw their deeds, that they had turned from their evil way. The lesson is explicit: the external practices are not the point. God responds to what people actually do, to the change in behavior, not to the performance of ritual acts.
 
+> **Hebrew/Aramaic:** הַזָּקֵן שֶׁבָּהֶן אוֹמֵר לִפְנֵיהֶן דִּבְרֵי כִבּוּשִׁין: אַחֵינוּ! לֹא נֶאֱמַר בְּאַנְשֵׁי נִינְוֵה ״וַיַּרְא אֱלֹהִים אֶת שַׂקָּם וְאֶת תַּעֲנִיתָם״, אֶלָּא: ״וַיַּרְא הָאֱלֹהִים אֶת מַעֲשֵׂיהֶם כִּי שָׁבוּ מִדַּרְכָּם הָרָעָה״, וּבַקַּבָּלָה הוּא אוֹמֵר: ״וְקִרְעוּ לְבַבְכֶם וְאַל בִּגְדֵיכֶם״.
+> **Translation:** **The eldest** member **of the** community **says to** the congregation **statements of reproof,** for example: **Our brothers, it is not stated with regard to the people of Nineveh: And God saw their sackcloth and their fasting. Rather,** the verse says: **“And God saw their deeds, that they had turned from their evil way”** (Jonah 3:10). **And in the Prophets it says: “And rend your hearts and not your garments,** and return to the Lord your God” (Joel 2:13). This teaches that prayer and fasting are insufficient, as one must also repent and amend his ways in practice.
+
 ### Rend Your Heart
+
 
 The *drasha* continues with a verse from the prophets: *vekiru levavchem ve'al bigdeichem* — rend your hearts, not your garments. Whatever is being done outwardly must ultimately express a real interior rupture, a genuine *teshuvah*.
 
@@ -76,17 +77,19 @@ It is worth pausing to note that this *drasha* of the *hazakein* represents esse
 
 ## Prayer Leader
 
-### Zakein Veragil
 
-> **Hebrew/Aramaic:** עָמְדוּ בִּתְפִלָּה — מוֹרִידִין לִפְנֵי הַתֵּיבָה זָקֵן וְרָגִיל וְיֵשׁ לוֹ בָּנִים, וּבֵיתוֹ רֵיקָם, כְּדֵי שֶׁיְּהֵא לִבּוֹ שָׁלֵם בִּתְפִלָּה.
->
-> **Translation:** **They stood for prayer.** The congregation appoints **an elder,** who is **experienced** in leading prayer, **to descend before the ark** as communal prayer leader. **And** this prayer leader must **have children and** must have **an empty house,** i.e., he must be poor, **so that his heart will be fully** concentrated **on the prayer** for the needs of his community.
+
+### Zakein Veragil
 
 With the *drasha* concluded, the community rises for *tefillah* — *amdu bitfilah*. Whether this is *shacharit* or *mincha* is not entirely clear from the *mishna*. It is worth recalling that the earlier *Gemara* described the first half of the fast day as devoted to *milei demata* — communal assessment — with the latter half devoted to *tefillah*, which might suggest *mincha*. On the other hand, in the *Gemara*'s conception of *shacharit*, the service consisted essentially of *birchos krias shema* and *shemoneh esrei*, without *pesukei dezimrah* or *birchos hashachar* as part of the synagogue liturgy. It is therefore not impossible that the *drasha* immediately preceded *shemoneh esrei* of *shacharit*. The question remains open.
 
 For this *tefillah*, the community appoints a *shliach tzibbur* who is *moridim lifnei hateivah zakein veragil* — elderly and accustomed to leading prayer, someone who knows how to *daven* without error and who can bring genuine feeling to the role. The elderly prayer leader carries natural authority and the perspective that comes with years and experience.
 
+> **Hebrew/Aramaic:** עָמְדוּ בִּתְפִלָּה — מוֹרִידִין לִפְנֵי הַתֵּיבָה זָקֵן וְרָגִיל וְיֵשׁ לוֹ בָּנִים, וּבֵיתוֹ רֵיקָם, כְּדֵי שֶׁיְּהֵא לִבּוֹ שָׁלֵם בִּתְפִלָּה.
+> **Translation:** **They stood for prayer.** The congregation appoints **an elder,** who is **experienced** in leading prayer, **to descend before the ark** as communal prayer leader. **And** this prayer leader must **have children and** must have **an empty house,** i.e., he must be poor, **so that his heart will be fully** concentrated **on the prayer** for the needs of his community.
+
 ### Qualifications
+
 
 The *mishna* specifies two additional qualities. First, *vayeish lo banim* — he should have children. The significance here is the development of a capacity for genuine compassion: someone who knows what it means to care deeply for others and to feel responsibility for their wellbeing is better positioned to represent the *tzibbur* in its moment of need and to intercede on their behalf.
 
@@ -102,15 +105,17 @@ The tension may be productive rather than contradictory. One reads the rent hear
 
 ## 24 Brachot
 
-### Six Additions
 
-> **Hebrew/Aramaic:** וְאוֹמֵר לִפְנֵיהֶם עֶשְׂרִים וְאַרְבַּע בְּרָכוֹת: שְׁמוֹנֶה עֶשְׂרֵה שֶׁבְּכָל יוֹם, וּמוֹסִיף עֲלֵיהֶן עוֹד שֵׁשׁ, וְאֵלּוּ הֵן: זִכְרוֹנוֹת וְשׁוֹפָרוֹת, ״אֶל ה׳ בַּצָּרָתָה לִּי קָרָאתִי וַיַּעֲנֵנִי״, ״אֶשָּׂא עֵינַי אֶל הֶהָרִים וְגוֹ׳״, ״מִמַּעֲמַקִּים קְרָאתִיךָ ה׳״, ״תְּפִלָּה לְעָנִי כִי יַעֲטֹף״.
->
-> **Translation:** **And he recites twenty-four blessings before the** congregation: The **eighteen** blessings **of** the **everyday** *Amida* prayer, **to which he adds another six** blessings, **and they are** as follows: The special series of blessings recited on Rosh HaShana, the **Remembrances and *Shofarot*;** and the sections of Psalms that begin with the verses: **"In my distress I called to the Lord and He answered me"** (Psalms 120:1), **"I will lift up my eyes to the mountains;** from where will my help come" (Psalms 121:1), **"Out of the depths I have called You, O Lord"** (Psalms 130:1), and **"A prayer of the afflicted, when he faints"** (Psalms 102:1).
+
+### Six Additions
 
 The *shliach tzibbur* leads the *chazarat hashatz* — the repetition of *shemoneh esrei* — not in the usual form of eighteen (or nineteen) *brachot* but with six additional ones: *u'mosif aleihem od sheish*. The eighteen standard *brachot* serve as the base; these six are added in the repetition only. They are inserted in the same place that *Anenu* is inserted on ordinary fast days — between *goel* and *rofei*. If *Anenu* represents the brief fast-day supplement, these six *brachot* represent the full elaboration for when the situation has reached its most serious stage.
 
+> **Hebrew/Aramaic:** וְאוֹמֵר לִפְנֵיהֶן עֶשְׂרִים וְאַרְבַּע בְּרָכוֹת: שְׁמוֹנֶה עֶשְׂרֵה שֶׁבְּכָל יוֹם, וּמוֹסִיף עֲלֵיהֶן עוֹד שֵׁשׁ, וְאֵלּוּ הֵן: זִכְרוֹנוֹת וְשׁוֹפָרוֹת, ״אֶל ה׳ בַּצָּרָתָה לִּי קָרָאתִי וַיַּעֲנֵנִי״, ״אֶשָּׂא עֵינַי אֶל הֶהָרִים וְגוֹ׳״, ״מִמַּעֲמַקִּים קְרָאתִיךָ ה׳״, ״תְּפִלָּה לְעָנִי כִי יַעֲטֹף״.
+> **Translation:** **And he recites twenty-four blessings before the** congregation: The **eighteen** blessings **of** the **everyday** *Amida* prayer, **to which he adds another six** blessings, **and they are** as follows: The special series of blessings recited on Rosh HaShana, the **Remembrances and *Shofarot*;** and the sections of Psalms that begin with the verses: **“In my distress I called to the Lord and He answered me”** (Psalms 120:1), **“I will lift up my eyes to the mountains;** from where will my help come” (Psalms 121:1), **“Out of the depths I have called You, O Lord”** (Psalms 130:1), and **“A prayer of the afflicted, when he faints”** (Psalms 102:1).
+
 ### Zichronot/Shofrot
+
 
 The first two of the six additions are *zichronot* and *shofrot* — immediately evoking *Rosh Hashanah* and the *musaf* liturgy of that day. The connection is not coincidental. The *Gemara* earlier in the tractate had already noted that *ta'aniyot* and *Rosh Hashanah* share structural parallels in their *brachot*, and the *mishna* in *Rosh Hashanah* had discussed the *shofar* and *chatzotzrot* in juxtaposition with these very themes.
 
@@ -122,13 +127,13 @@ The thematic unity of these four *prakim* is unmistakable: in each, a person in 
 
 ### Rabbi Yehuda
 
-> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: לֹא הָיָה צָרִיךְ לוֹמַר זִכְרוֹנוֹת וְשׁוֹפָרוֹת, אֶלָּא אוֹמֵר תַּחְתֵּיהֶן ״רָעָב כִּי יִהְיֶה בָאָרֶץ דֶּבֶר כִּי יִהְיֶה״, ״אֲשֶׁר הָיָה דְבַר ה׳ אֶל יִרְמְיָהוּ עַל דִּבְרֵי הַבַּצָּרוֹת״.
->
-> **Translation:** **Rabbi Yehuda says:** The prayer leader **did not need to recite** the **Remembrances and *Shofarot*** passages. **Rather, he recites instead of them** the passage beginning with: **"If there be famine in the land, if there be pestilence"** (I Kings 8:37), followed by the verse **"The word of the Lord that came to Jeremiah concerning the droughts"** (Jeremiah 14:1).
-
 *Rabbi Yehuda omer lo haya tzarich lomar zichronot v'shofrot* — Rabbi Yehuda holds that *zichronot* and *shofrot* should not be recited. He may have felt that these *brachot* were too evocative of *Rosh Hashanah* and inappropriate in this different liturgical context. In their place, Rabbi Yehuda substitutes different texts.
 
+> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: לֹא הָיָה צָרִיךְ לוֹמַר זִכְרוֹנוֹת וְשׁוֹפָרוֹת, אֶלָּא אוֹמֵר תַּחְתֵּיהֶן ״רָעָב כִּי יִהְיֶה בָאָרֶץ דֶּבֶר כִּי יִהְיֶה״, ״אֲשֶׁר הָיָה דְבַר ה׳ אֶל יִרְמְיָהוּ עַל דִּבְרֵי הַבַּצָּרוֹת״.
+> **Translation:** **Rabbi Yehuda says:** The prayer leader **did not need to recite** the **Remembrances and *Shofarot*** passages. **Rather, he recites instead of them** the passage beginning with: **“If there be famine in the land, if there be pestilence”** (I Kings 8:37), followed by the verse **“The word of the Lord that came to Jeremiah concerning the droughts”** (Jeremiah 14:1).
+
 ### Psalmic Texts
+
 
 The substitutions Rabbi Yehuda proposes are: *ra'av ki yihyeh ba'aretz* from *Melachim* — the passage in *Shlomo*'s dedication prayer for the *Beit HaMikdash* — and the passage beginning *asher hayah devar Hashem el Yirmiyahu al divrei habatzarot*, the word of God to *Yirmiyahu* concerning the drought.
 
@@ -148,11 +153,18 @@ It seems likely, then, that two distinct concerns animate Rabbi Yehuda's positio
 
 ## Mi She'ana Formulas
 
+
+
 ### Abraham Formula
 
-> **Hebrew/Aramaic:** וְאוֹמֵר חוֹתְמֵיהֶן. עַל הָרִאשׁוֹנָה הוּא אוֹמֵר: ״מִי שֶׁעָנָה אֶת אַבְרָהָם בְּהַר הַמּוֹרִיָּה הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה. בָּרוּךְ אַתָּה ה׳ גּוֹאֵל יִשְׂרָאֵל״. עַל הַשְּׁנִיָּה הוּא אוֹמֵר: ״מִי שֶׁעָנָה אֶת אֲבוֹתֵינוּ עַל יַם סוּף הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע קוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה׳ זוֹכֵר הַנִּשְׁכָּחוֹת״.
->
+> **Hebrew/Aramaic:** וְאוֹמֵר חוֹתְמֵיהֶן. עַל הָרִאשׁוֹנָה הוּא אוֹמֵר: ״מִי שֶׁעָנָה אֶת אַבְרָהָם בְּהַר הַמּוֹרִיָּה הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה. בָּרוּךְ אַתָּה ה׳ גּוֹאֵל יִשְׂרָאֵל״. עַל הַשְּׁנִיָּה הוּא אוֹמֵר: ״מִי שֶׁעָנָה אֶת אֲבוֹתֵינוּ עַל יַם סוּף הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע קוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה׳ זוֹכֵר הַנִּשְׁכָּחוֹת״.
 > **Translation:** **And he recites** at the end of all of these six blessing **their** unique **conclusions. For** the conclusion of **the first** blessing: Redeemer of Israel, **he recites: He Who answered Abraham on Mount Moriah** (see Genesis 22:11–18), **He will answer you and hear the sound of your cry on this day. Blessed are You, Lord, Redeemer of Israel. For the second** blessing, to which he adds the verses of Remembrances, **he recites: He Who answered our forefathers at the Red Sea** (see Exodus 14:15–31), **He will answer you and hear the sound of your cry on this day. Blessed are You, Lord, Who remembers the forgotten.**
+
+> **Hebrew/Aramaic:** עַל הַשְּׁלִישִׁית הוּא אוֹמֵר: ״מִי שֶׁעָנָה אֶת יְהוֹשֻׁעַ בַּגִּלְגָּל הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה׳ שׁוֹמֵעַ תְּרוּעָה״. עַל הָרְבִיעִית הוּא אוֹמֵר: ״מִי שֶׁעָנָה אֶת שְׁמוּאֵל בַּמִּצְפָּה הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה׳ שׁוֹמֵעַ צְעָקָה״. עַל הַחֲמִישִׁית הוּא אוֹמֵר: ״מִי שֶׁעָנָה אֶת אֵלִיָּהוּ בְּהַר הַכַּרְמֶל הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה׳ שׁוֹמֵעַ תְּפִלָּה״.
+> **Translation:** **For the third** blessing, which includes the verses of *Shofarot*, **he recites: He Who answered Joshua at Gilgal,** when they sounded the *shofar* in Jericho (see Joshua 5:6), **He will answer you and hear the sound of your cry on this day. Blessed are You, Lord, Who hears the *terua*. For the fourth** blessing, **he recites: He Who answered Samuel in Mizpah** (see I Samuel, chapter 7), **He will answer you and hear the sound of your cry on this day. Blessed are You, Lord, Who hears cries. For the fifth he recites: He Who answered Elijah on Mount Carmel** (see I Kings, chapter 18), **He will answer you and hear the sound of your cry on this day. Blessed are You, Lord, Who hears prayer.**
+
+> **Hebrew/Aramaic:** עַל הַשִּׁשִּׁית הוּא אוֹמֵר: ״מִי שֶׁעָנָה אֶת יוֹנָה מִמְּעֵי הַדָּגָה, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה׳ הָעוֹנֶה בְּעֵת צָרָה״. עַל הַשְּׁבִיעִית הוּא אוֹמֵר: ״מִי שֶׁעָנָה אֶת דָּוִד וְאֶת שְׁלֹמֹה בְּנוֹ בִּירוּשָׁלַיִם, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה׳ הַמְרַחֵם עַל הָאָרֶץ״.
+> **Translation:** **For the sixth** blessing **he recites: He Who answered Jonah from within the innards of the fish** (see Jonah 2:2–11), **He will answer you and hear the sound of your cry on this day. Blessed are You, Lord, Who answers in a time of trouble. For** the conclusion of **the seventh** blessing, which is actually the sixth additional blessing, as the first blessing listed here is an expanded version of a regular weekday blessing, **he recites: He Who answered David and Solomon his son in Jerusalem** (see I Kings 8:12–53), **He will answer you and hear the sound of your cry on this day. Blessed are You, Lord, Who has mercy on the Land.**
 
 After the six *brachot* are recited, each concludes with a *chatima* — a closing formula of the blessing. *V'omer chotmeihen*: and he says their closing lines. The first does not belong to the six new additions but to the standard *goel Yisrael* that precedes them. *Al harishona hu omer: mi she'ana et Avraham Avinu behar haMoriah hu ya'aneh etchem veyishma bekol tza'akatchem hayom hazeh. Baruch atah Hashem goel Yisrael.*
 
@@ -164,25 +176,17 @@ The *chatima* of *goel Yisrael* here is the standard one. Both the *tanna kamma*
 
 ### Sea Formula
 
-> **Hebrew/Aramaic:** עַל הַשְּׁלִישִׁית הוּא אוֹמֵר: ״מִי שֶׁעָנָה אֶת יְהוֹשֻׁעַ בַּגִּלְגָּל הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה׳ שׁוֹמֵעַ תְּרוּעָה״. עַל הָרְבִיעִית הוּא אוֹמֵר: ״מִי שֶׁעָנָה אֶת שְׁמוּאֵל בַּמִּצְפָּה הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה׳ שׁוֹמֵעַ צְעָקָה״. עַל הַחֲמִישִׁית הוּא אוֹמֵר: ״מִי שֶׁעָנָה אֶת אֵלִיָּהוּ בְּהַר הַכַּרְמֶל הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה׳ שׁוֹמֵעַ תְּפִלָּה״.
->
-> **Translation:** **For the third** blessing, which includes the verses of *Shofarot*, **he recites: He Who answered Joshua at Gilgal,** when they sounded the *shofar* in Jericho (see Joshua 5:6), **He will answer you and hear the sound of your cry on this day. Blessed are You, Lord, Who hears the *terua*. For the fourth** blessing, **he recites: He Who answered Samuel in Mizpah** (see I Samuel, chapter 7), **He will answer you and hear the sound of your cry on this day. Blessed are You, Lord, Who hears cries. For the fifth he recites: He Who answered Elijah on Mount Carmel** (see I Kings, chapter 18), **He will answer you and hear the sound of your cry on this day. Blessed are You, Lord, Who hears prayer.**
-
 *Al hashniyah hu omer: mi she'ana l'avoteinu al yam suf hu ya'aneh etchem veyishma kol tza'akatchem hayom hazeh. Baruch atah Hashem zocher hanishkachot.* The one who answered the ancestors at the *Yam Suf* should answer you. The *chatima* is *zocher hanishkachot* — who remembers what has been forgotten.
 
 *Rashi* explains the thematic connection: Israel was in Egypt for many years, seemingly forgotten for generations, to the point that they despaired of redemption — *nitya'ashu min hage'ulah*. Then God remembered them. The *bracha* of *zichronot* and its *chatima* of *zocher hanishkachot* tie precisely into the moment of the *Yam Suf*: what seemed like total abandonment became the moment of the most dramatic remembrance. This is a particularly tight and elegant thematic connection.
 
 ### Gilgal Formula
 
-The one who answered *Yehoshua* at *Gilgal* — which *Rashi* confirms refers to the battle of *Yericho* — should answer you. The *chatima* is *shome'a teruah*.
+*Al hashlishit hu omer: mi she'ana l'Yehoshua b'Gilgal hu ya'aneh etchem veyishma bekol tza'akatchem hayom hazeh. Baruch atah Hashem shome'a teruah.* The one who answered *Yehoshua* at *Gilgal* — which *Rashi* confirms refers to the battle of *Yericho* — should answer you. The *chatima* is *shome'a teruah*.
 
 Here everything aligns cleanly. *Yehoshua* was answered at *Yericho* through the *shofarot* — the walls fell to the blast of the *shofar*. The *bracha* is *shofrot*, the theme is *shofar*, the *mi she'ana* is the paradigmatic instance of *shofar*-led military deliverance, and the *chatima* of *shome'a teruah* seals it all together. This is the most internally consistent of all the formulas.
 
 ### Samuel Formula
-
-> **Hebrew/Aramaic:** עַל הַשִּׁשִּׁית הוּא אוֹמֵר: ״מִי שֶׁעָנָה אֶת יוֹנָה מִמְּעֵי הַדָּגָה, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה׳ הָעוֹנֶה בְּעֵת צָרָה״. עַל הַשְּׁבִיעִית הוּא אוֹמֵר: ״מִי שֶׁעָנָה אֶת דָּוִד וְאֶת שְׁלֹמֹה בְּנוֹ בִּירוּשָׁלַיִם, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה, בָּרוּךְ אַתָּה ה׳ הַמְרַחֵם עַל הָאָרֶץ״.
->
-> **Translation:** **For the sixth** blessing **he recites: He Who answered Jonah from within the innards of the fish** (see Jonah 2:2–11), **He will answer you and hear the sound of your cry on this day. Blessed are You, Lord, Who answers in a time of trouble. For** the conclusion of **the seventh** blessing, which is actually the sixth additional blessing, as the first blessing listed here is an expanded version of a regular weekday blessing, **he recites: He Who answered David and Solomon his son in Jerusalem** (see I Kings 8:12–53), **He will answer you and hear the sound of your cry on this day. Blessed are You, Lord, Who has mercy on the Land.**
 
 *Al harevi'it hu omer: mi she'ana li'Shmuel baMitzpah hu ya'aneh etchem veyishma bekol tza'akatchem hayom hazeh. Baruch atah Hashem shome'a tze'akah.* The one who answered *Shmuel* at *Mitzpah* should answer you. The *chatima* is *shome'a tze'akah*.
 
@@ -196,7 +200,7 @@ The corresponding *perek* is *essa einai el heharim* — I lift my eyes to the m
 
 ### Jonah Formula
 
-The one who answered *Yonah* from the belly of the fish should answer you. The *chatima* is *ha'oneh b'eit tzarah*.
+*Al hashishit hu omer: mi she'ana et Yonah mib'ei hadagah hu ya'aneh etchem veyishma bekol tza'akatchem hayom hazeh. Baruch atah Hashem ha'oneh b'eit tzarah.* The one who answered *Yonah* from the belly of the fish should answer you. The *chatima* is *ha'oneh b'eit tzarah*.
 
 The corresponding *perek* is *mima'amakim keraticha Hashem* — from the depths I have called to You. The tie between *mib'ei hadagah* and *mima'amakim* is vivid and direct: the belly of the fish is the paradigmatic depth. *Rashi* links the *chatima* of *ha'oneh b'eit tzarah* to the language in *Yonah* of *karasi mitzara li* — I called from my distress — confirming the thematic resonance. *Yonah* was preeminently in an *eit tzarah*, and the *chatima* makes that explicit.
 
@@ -210,17 +214,24 @@ The corresponding *perek* is *tefillah l'ani ki ya'atof* — a prayer of the poo
 
 *Rashi* explains the *chatima* of *merachem al ha'aretz* as follows: *she'hein hitpalelu al Eretz Yisrael u'tefillah l'ani ki ya'atof lahania dochak geshamim* — because *David* and *Shlomo* prayed for the land of Israel, and the *perek* of *tefillah l'ani* speaks of *be'atzar geshamim*, the withholding of rain. This makes the final *bracha* the most explicitly connected to the actual crisis motivating the fast: the fear of famine, the lack of rain, the land under threat. *Rashi*'s broader comment — *v'chen kulam l'fi inyan hamizmorim* — indicates that the thematic connections between each *mi she'ana* figure, the *perek* assigned to that *bracha*, and the *chatima* are generally intended to cohere, even if some instances are more tightly woven than others.
 
+Not every instance achieves the same degree of precision. The *Shmuel* and *Eliyahu* connections, for instance, are somewhat more generic — the relevant *pesukim* invoke *tza'akah* and *tzarah* in ways that could plausibly apply to several of the formulas. *Rashi* notes that by *Shmuel* the language is *vayitz'ak el Hashem*, which ties to *shome'a tza'akah*, and by *Yona* the language of *karasi mitzara li* connects to *oneh b'eis tzara*. These linkages hold, but they are less uniquely diagnostic than, say, the connection of *Eliyahu* to *Har HaCarmel* and *asiri harim*, or the final *bracha*'s direct invocation of *be'atzar geshamim*. The point is not that every tie-in is equally tight, but that across the seven formulas one can see a genuine and largely consistent effort at thematic coherence, with the final *bracha* serving as the most specific and most directly relevant to the immediate crisis.
+
 Stepping back, a pattern emerges across all seven formulas. The *chatimot* move from the generic to the specific. The earlier ones — *goel Yisrael*, *zocher hanishkachot*, *shome'a teruah* — are broad invocations. The later ones become more particular, and the final *chatima* of *merachem al ha'aretz* arrives at the precise, concrete concern: the land, the rain, the famine. This structure reinforces the observation made throughout this *perek*: the dominant theme of these prayers is God's responsiveness to those who call out to Him in distress. The concern about sin and *teshuvah*, however theologically important, is proportionally a smaller thread. The overwhelming weight of the liturgy here is: we call, God answers.
 
 ---
 
 ## Maaseh Account
 
+
+
+[DAF:15b]
 ### Shofar Blowing
 
-> **Hebrew/Aramaic:** מַעֲשֶׂה בִּימֵי רַבִּי חֲלַפְתָּא וְרַבִּי חֲנַנְיָא בֶּן תְּרַדְיוֹן שֶׁעָבַר אֶחָד לִפְנֵי הַתֵּיבָה וְגָמַר אֶת הַבְּרָכָה כּוּלָּהּ, וְלֹא עָנוּ אַחֲרָיו אָמֵן. תִּקְעוּ הַכֹּהֲנִים תִּקְעוּ! מִי שֶׁעָנָה אֶת אַבְרָהָם אָבִינוּ בְּהַר הַמּוֹרִיָּה, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה. הָרִיעוּ בְּנֵי אַהֲרֹן הָרִיעוּ! מִי שֶׁעָנָה אֶת אֲבוֹתֵינוּ עַל יַם סוּף, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה.
->
-> **Translation:** The mishna relates: **An incident** occurred **in the days of Rabbi Ḥalafta and Rabbi Ḥananya ben Teradyon, that someone passed before the ark** as prayer leader **and finished the entire blessing** of the fast day, **but** the congregation **did not answer amen after him.** Instead, the attendant of the synagogue said: **Sound** the *shofar* with a long, unwavering sound, **priests, blow** the *shofar*. The prayer leader continued: **He Who answered Abraham on Mount Moriah, He will answer you and hear the sound of your cry on this day.** Once again, the attendant announced: **Blast** the *shofar*, with a wavering sound, **sons of Aaron, blast.** The prayer leader resumed: **He Who answered our forefathers by the Red Sea, He will answer you and hear the sound of your cry on this day,** and continued in this way.
+> **Hebrew/Aramaic:** מַעֲשֶׂה
+> **Translation:** The mishna relates: **An incident** occurred
+
+> **Hebrew/Aramaic:** בִּימֵי רַבִּי חֲלַפְתָּא וְרַבִּי חֲנַנְיָא בֶּן תְּרַדְיוֹן שֶׁעָבַר אֶחָד לִפְנֵי הַתֵּיבָה וְגָמַר אֶת הַבְּרָכָה כּוּלָּהּ, וְלֹא עָנוּ אַחֲרָיו אָמֵן. תִּקְעוּ הַכֹּהֲנִים תִּקְעוּ! מִי שֶׁעָנָה אֶת אַבְרָהָם אָבִינוּ בְּהַר הַמּוֹרִיָּה, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה. הָרִיעוּ בְּנֵי אַהֲרֹן הָרִיעוּ! מִי שֶׁעָנָה אֶת אֲבוֹתֵינוּ עַל יַם סוּף, הוּא יַעֲנֶה אֶתְכֶם וְיִשְׁמַע בְּקוֹל צַעֲקַתְכֶם הַיּוֹם הַזֶּה.
+> **Translation:** **in the days of Rabbi Ḥalafta and Rabbi Ḥananya ben Teradyon, that someone passed before the ark** as prayer leader **and finished the entire blessing** of the fast day, **but** the congregation **did not answer amen after him.** Instead, the attendant of the synagogue said: **Sound** the *shofar* with a long, unwavering sound, **priests, blow** the *shofar*. The prayer leader continued: **He Who answered Abraham on Mount Moriah, He will answer you and hear the sound of your cry on this day.** Once again, the attendant announced: **Blast** the *shofar*, with a wavering sound, **sons of Aaron, blast.** The prayer leader resumed: **He Who answered our forefathers by the Red Sea, He will answer you and hear the sound of your cry on this day,** and continued in this way.
 
 The *mishna* now records a historical incident. *Maaseh bi'yemei Rebbi Chalafta ve'Rebbi Chananya ben Teradyon she'avar echad lifnei hateivah* — it happened in the days of *Rebbi Chalafta* and *Rebbi Chananya ben Teradyon* that someone came before the ark to lead the service. After he concluded the full text of the first *bracha* — *ve'gamar et haberachah kula* — the community did not respond *amen*. Instead, an announcer called out *tik'u kohanim*, and the *kohanim* blew. Then the *mi she'ana* formula was recited — *mi she'ana et Avraham Avinu behar haMoriah, hu ya'aneh etchem veyishma bekol tza'akatchem hayom hazeh* — and then, separately, came the call *hari'u bnei Aharon hari'u*, and they sounded a *teruah*.
 
@@ -228,8 +239,7 @@ What was deviant about this practice? Several elements: the community did not sa
 
 ### Rabbinic Limit
 
-> **Hebrew/Aramaic:** וּכְשֶׁבָּא דָּבָר אֵצֶל חֲכָמִים, אָמְרוּ: לֹא הָיִינוּ נוֹהֲגִין כֵּן, אֶלָּא בְּשַׁעַר מִזְרָח וּבְהַר הַבַּיִת.
->
+> **Hebrew/Aramaic:** וּכְשֶׁבָּא דָּבָר אֵצֶל חֲכָמִים, אָמְרוּ: לֹא הָיִינוּ נוֹהֲגִין כֵּן, אֶלָּא בְּשַׁעַר מִזְרָח וּבְהַר הַבַּיִת.
 > **Translation:** **And when** this **matter came before** the **Sages,** and they heard the custom of Rabbi Ḥalafta and Rabbi Ḥananya ben Teradyon, **they said: They would act** in accordance with **this custom only at the Eastern Gate** of the Temple **and on the Temple Mount.** However, this ceremony is never performed outside the Temple.
 
 *Uksheba hadavar eitzel chachamim amru: lo hayu nohagim ken ela besha'ar mizrach uvehar habayit* — when the matter came before the sages, they ruled that this practice was done only at the eastern gate or on the Temple Mount, not outside the precincts of the *Beit HaMikdash*.
@@ -240,11 +250,11 @@ What precisely was being censured? The *Gemara* will clarify that the *teki'ot* 
 
 ## Fasting Levels
 
+
+
 ### First 3 Fasts
 
-> **Hebrew/Aramaic:** שָׁלֹשׁ תַּעֲנִיּוֹת הָרִאשׁוֹנוֹת — אַנְשֵׁי מִשְׁמָר מִתְעַנִּין וְלֹא מַשְׁלִימִין, וְאַנְשֵׁי בֵּית אָב לֹא הָיוּ מִתְעַנִּין כְּלָל. שָׁלֹשׁ שְׁנִיּוֹת — אַנְשֵׁי מִשְׁמָר מִתְעַנִּין וּמַשְׁלִימִין, וְאַנְשֵׁי בֵּית אָב מִתְעַנִּין וְלֹא מַשְׁלִימִין. שֶׁבַע אַחֲרוֹנוֹת — אֵלּוּ וָאֵלּוּ מִתְעַנִּין וּמַשְׁלִימִין, דִּבְרֵי רַבִּי יְהוֹשֻׁעַ.
->
-> **Translation:** § On **the first three fasts, the members of the priestly watch,** who are in charge of the Temple service that week, **fast but do not complete** their fast. **And the members of the patrilineal family,** who perform the Temple service on that particular day, **did not fast at all.** On **the second** set of **three** fast days, **the members of the priestly watch fast and complete** the fast, **and the members of the patrilineal family fast but do not complete** their fasts. On **the final seven** fasts, **both** groups **fast and complete** the fasts. This is **the statement of Rabbi Yehoshua.**
+The *mishna* now turns to how the priests in the *Beit HaMikdash* would participate in the communal fasts. The connection to what precedes is not accidental: the *mishna* has just concluded with a reference to *beit hamikdash*, and the previous *bracha* centered on *Shlomo b'Yerushalayim*. The entire *perek* has maintained a thread of connection to the *mikdash*, and now that connection is made explicit in terms of who fasts and to what degree.
 
 According to *Rabbi Yehoshua*: during the first three fasts, *anshei mishmar* — the division of priests on call for that week — would fast but not complete the fast. *Anshei beit av* — those assigned to the service on that specific day — would not fast at all. The logic is clear: their *avodah* took priority, and those actively engaged in the Temple service could not be expected to weaken themselves unnecessarily.
 
@@ -254,13 +264,15 @@ During the middle three fasts, the obligations escalate by one degree. *Anshei m
 
 ### Last 7 Fasts
 
-> **Hebrew/Aramaic:** וַחֲכָמִים אוֹמְרִים: שָׁלֹשׁ תַּעֲנִיּוֹת הָרִאשׁוֹנוֹת — אֵלּוּ וָאֵלּוּ לֹא הָיוּ מִתְעַנִּין כְּלָל. שָׁלֹשׁ שְׁנִיּוֹת — אַנְשֵׁי מִשְׁמָר מִתְעַנִּין וְלֹא מַשְׁלִימִין, וְאַנְשֵׁי בֵּית אָב לֹא הָיוּ מִתְעַנִּין כְּלָל, שֶׁבַע אַחֲרוֹנוֹת — אַנְשֵׁי מִשְׁמָר מִתְעַנִּין וּמַשְׁלִימִין, וְאַנְשֵׁי בֵּית אָב מִתְעַנִּין וְלֹא מַשְׁלִימִין.
->
-> **Translation:** **And the Rabbis say:** On **the first three fasts,** the members of **both** groups **do not fast at all.** On **the second three** fast days, **the members of the priestly watch fast and do not complete** their fast, **and the members of the patrilineal family do not fast at all.** On **the final seven, the members of the priestly watch fast and complete** the fast, **and the members of the patrilineal family fast but do not complete** their fast.
-
 During the last seven fasts, *elu v'elu mit'anim umashlimim* — both groups would fast completely through the day. This represents the maximal level of communal participation, in which even those performing active Temple service are included in the full fast. This corresponds to the moment when the *teiva* is brought out, the ashes are placed, and the full twenty-four *brachot* are recited. Everything escalates together. Even inside the *mikdash*, where the *kohanim* are engaged in the service that is itself an expression of closeness to God, the community-wide fast is total.
 
 ### Rabbi Yehoshua
+
+> **Hebrew/Aramaic:** שָׁלֹשׁ תַּעֲנִיּוֹת הָרִאשׁוֹנוֹת — אַנְשֵׁי מִשְׁמָר מִתְעַנִּין וְלֹא מַשְׁלִימִין, וְאַנְשֵׁי בֵּית אָב לֹא הָיוּ מִתְעַנִּין כְּלָל. שָׁלֹשׁ שְׁנִיּוֹת — אַנְשֵׁי מִשְׁמָר מִתְעַנִּין וּמַשְׁלִימִין, וְאַנְשֵׁי בֵּית אָב מִתְעַנִּין וְלֹא מַשְׁלִימִין. שֶׁבַע אַחֲרוֹנוֹת — אֵלּוּ וָאֵלּוּ מִתְעַנִּין וּמַשְׁלִימִין, דִּבְרֵי רַבִּי יְהוֹשֻׁעַ.
+> **Translation:** § On **the first three fasts, the members of the priestly watch,** who are in charge of the Temple service that week, **fast but do not complete** their fast. **And the members of the patrilineal family,** who perform the Temple service on that particular day, **did not fast at all.** On **the second** set of **three** fast days, **the members of the priestly watch fast and complete** the fast, **and the members of the patrilineal family fast but do not complete** their fasts. On **the final seven** fasts, **both** groups **fast and complete** the fasts. This is **the statement of Rabbi Yehoshua.**
+
+> **Hebrew/Aramaic:** וַחֲכָמִים אוֹמְרִים: שָׁלֹשׁ תַּעֲנִיּוֹת הָרִאשׁוֹנוֹת — אֵלּוּ וָאֵלּוּ לֹא הָיוּ מִתְעַנִּין כְּלָל. שָׁלֹשׁ שְׁנִיּוֹת — אַנְשֵׁי מִשְׁמָר מִתְעַנִּין וְלֹא מַשְׁלִימִין, וְאַנְשֵׁי בֵּית אָב לֹא הָיוּ מִתְעַנִּין כְּלָל, שֶׁבַע אַחֲרוֹנוֹת — אַנְשֵׁי מִשְׁמָר מִתְעַנִּין וּמַשְׁלִימִין, וְאַנְשֵׁי בֵּית אָב מִתְעַנִּין וְלֹא מַשְׁלִימִין.
+> **Translation:** **And the Rabbis say:** On **the first three fasts,** the members of **both** groups **do not fast at all.** On **the second three** fast days, **the members of the priestly watch fast and do not complete** their fast, **and the members of the patrilineal family do not fast at all.** On **the final seven, the members of the priestly watch fast and complete** the fast, **and the members of the patrilineal family fast but do not complete** their fast.
 
 The scheme above reflects the position of *Rabbi Yehoshua*. *Vachachamim omrim* — the sages hold a somewhat less severe position, in which each tier is reduced by one level of stringency. According to the sages: during the first three fasts, *elu v'elu lo hayu mit'anim klal* — neither group would fast at all in the *Beit HaMikdash*. During the middle three fasts, *anshei mishmar* would fast but not complete it, while *anshei beit av* would not fast at all. During the last seven fasts, *anshei mishmar* would fast and complete the fast, but *anshei beit av mit'anim v'lo mashlimim* — those actively working in the *mikdash* would fast but not complete it, even at the most severe stage.
 

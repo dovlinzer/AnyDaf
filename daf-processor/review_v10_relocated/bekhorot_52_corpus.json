@@ -1,0 +1,289 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Inheritance Sequence",
+    "candidates": [
+      "Ritual vs. Debt",
+      "Payment Parameters",
+      "Matana Al Menat",
+      "Father vs. Son",
+      "Mishnah Statement",
+      "Rashi vs. Rashash",
+      "Inheritance Sequence",
+      "Math of Division",
+      "Shevach Exclusion",
+      "Ra'uy Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself stating the double portion rules, and candidate 4 ('Mishnah Statement') is explicitly the prose that introduces and discusses this exact mishnah text.",
+      "chosen_heading": "Mishnah Statement",
+      "current_heading": "Inheritance Sequence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Ra'uy Exclusion",
+    "candidates": [
+      "Math of Division",
+      "Shevach Exclusion",
+      "Ra'uy Exclusion",
+      "Tosafot on Loans",
+      "Ketubah Limitations"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ketubah Limitations",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is the closing summary clause of a mishnah listing the woman's ketubah, daughters, and yavam alongside the general shevach/ra'uy rule, which directly introduces the ketubah limitations discussion in candidate 4.",
+      "second_heading": "Shevach Exclusion",
+      "second_confidence": "medium",
+      "second_reason": "Items 2-3 are the Gemara specifically addressing why the bechor takes no double portion of shevach and ra'uy (citing 'of all that he has'), matching the 'Shevach Exclusion' section which opens with exactly this mishnaic teaching.",
+      "current_heading": "Ra'uy Exclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Ketubah Limitations",
+    "candidates": [
+      "Tosafot on Loans",
+      "Ketubah Limitations",
+      "Dowry Categories",
+      "Why Different",
+      "Daughters' Support",
+      "Yabam's Portion",
+      "Yabam Improvements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the mishna's ruling that a woman cannot collect enhancement via her ketubah and Shmuel's apparent contradiction, which is precisely what the 'Ketubah Limitations' section's prose discusses.",
+      "chosen_heading": "Ketubah Limitations",
+      "current_heading": "Ketubah Limitations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Yabam Improvements",
+    "candidates": [
+      "Dowry Categories",
+      "Why Different",
+      "Daughters' Support",
+      "Yabam's Portion",
+      "Yabam Improvements",
+      "Father Not Mother",
+      "Shevach Source",
+      "Ketubah Creditor",
+      "Daughters Obligation",
+      "Yabam as Bechor",
+      "Abaye Position",
+      "Rava Position",
+      "Representing vs. Bonus",
+      "Mishnah List",
+      "Ben Beroka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "low",
+      "reason": "The passage covers daughters' sustenance (item 1), the yavam dispute between Abaye and Rava (items 2-3), and the general 'all of them' clause on shevach (items 4-6) \u2014 the yavam material dominates and fits the current heading, though items 1 and 4-6 are better matched elsewhere; no single alternative heading covers all items more cleanly.",
+      "chosen_heading": "Yabam Improvements",
+      "current_heading": "Yabam Improvements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Ben Beroka",
+    "candidates": [
+      "Father Not Mother",
+      "Shevach Source",
+      "Ketubah Creditor",
+      "Daughters Obligation",
+      "Yabam as Bechor",
+      "Abaye Position",
+      "Rava Position",
+      "Representing vs. Bonus",
+      "Mishnah List",
+      "Ben Beroka",
+      "Rabbi Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah that enumerates cases not reverting in Yovel (bechor, husband inheriting wife, yavam) plus the gift dispute (Rabbi Meir, Rabbis, Rabbi Elazar, Rabbi Yochanan ben Beroka), which is precisely what the 'Mishnah List' prose describes \u2014 it explicitly mentions all these elements including hamatana as Rabbi Meir's position and the Sages' response.",
+      "chosen_heading": "Mishnah List",
+      "current_heading": "Ben Beroka",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Rabbi Meir",
+    "candidates": [
+      "Ben Beroka",
+      "Rabbi Meir",
+      "Rabbis Disagree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi Meir's reasoning\u2014that only sales revert at yovel, not gifts or inheritances\u2014and specifically addresses the bechor's portion being called a 'gift' by the Torah, which matches exactly the prose under 'Rabbi Meir.'",
+      "chosen_heading": "Rabbi Meir",
+      "current_heading": "Rabbi Meir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Rabbis Disagree",
+    "candidates": [
+      "Rabbis Disagree",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together present the complete tripartite dispute (Rabbi Meir's position implied, Rabbis' position in items 2-4, Rabbi Elazar's position in item 5) about whether inheritance cases revert in Jubilee, matching exactly the 'Rabbis Disagree' prose which describes how the Sages reclassify each case as yerusha and how Rabbi Elazar holds them all to be gifts \u2014 the current placement is correct.",
+      "chosen_heading": "Rabbis Disagree",
+      "current_heading": "Rabbis Disagree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Yochanan Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar's rulings on the husband's inheritance being rabbinic and the yavam being called 'bechor,' which are explicitly covered in the 'Rabbi Eliezer' section's prose about yerushat haba'al derabbanan and the yavam's bechor classification.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Rabbi Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Yochanan Position",
+    "candidates": [
+      "Yochanan Position",
+      "Elazar Response",
+      "Sheshet Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yochanan's position (brothers who divided are purchasers and must return at Jubilee) and Rav Hoshaya's objection about primogeniture, which is precisely what the 'Yochanan Position' prose describes and analyzes.",
+      "chosen_heading": "Yochanan Position",
+      "current_heading": "Yochanan Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Sheshet Objection",
+    "candidates": [
+      "Elazar Response",
+      "Sheshet Objection",
+      "Burial Plots"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong to the Rav Sheshet objection sequence: item 1 is Rav Sheshet's objection to Rabbi Elazar's interpretation, and item 2 is Rav \u1e24ama's pointed response quoting Rabbi Yo\u1e25anan's ruling that 'they return for naught'\u2014exactly what the 'Sheshet Objection' prose describes in full detail.",
+      "chosen_heading": "Sheshet Objection",
+      "current_heading": "Sheshet Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Burial Plots",
+    "candidates": [
+      "Burial Plots",
+      "Baraita Sale",
+      "Burial Deduction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rabbi Yo\u1e25anan ben Beroka's ruling about inheriting a wife's property and the Gemara's resolution that it concerns a family graveyard (beit hakvarot) due to pgam mishpacha \u2014 exactly what the 'Burial Plots' prose describes.",
+      "chosen_heading": "Burial Plots",
+      "current_heading": "Burial Plots",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Burial Deduction",
+    "candidates": [
+      "Baraita Sale",
+      "Burial Deduction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about selling one's grave and the family's right to bury against the buyer's wishes due to 'pgam mishpacha,' which is precisely what the 'Baraita Sale' prose describes, while the 'Burial Deduction' prose covers the explanation of the deduction clause (d'mei kever ishto) which is only a secondary element appended to the baraita.",
+      "chosen_heading": "Baraita Sale",
+      "current_heading": "Burial Deduction",
+      "moved": true
+    }
+  }
+]

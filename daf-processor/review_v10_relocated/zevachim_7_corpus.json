@@ -1,0 +1,355 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Designation at Shechitah",
+    "candidates": [
+      "Why Two Se'irim?",
+      "Designation at Shechitah",
+      "Beit Din Matneh/Challenge",
+      "Temidin/Leftover Sheep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement introducing the principle that communal offerings are designated at the moment of slaughter (the knife designates them), which is precisely what the 'Designation at Shechitah' section's prose describes.",
+      "chosen_heading": "Designation at Shechitah",
+      "current_heading": "Designation at Shechitah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Temidin/Leftover Sheep",
+    "candidates": [
+      "Beit Din Matneh/Challenge",
+      "Temidin/Leftover Sheep",
+      "Gap Period/Averot",
+      "Question About 2nd Se'ir",
+      "Simultaneous Shechita",
+      "Gap in Zerikat Hadam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the challenge from Rav Yosef son of Rav Shmuel to Rav Pappa \u2014 questioning whether Rabbi Shimon accepts 'lev Beit Din matneh aleihem' \u2014 which is precisely what candidate 0 ('Beit Din Matneh/Challenge') describes in its prose, including the long chain of authorities and the conclusion about Rabbi Shimon's position.",
+      "chosen_heading": "Beit Din Matneh/Challenge",
+      "current_heading": "Temidin/Leftover Sheep",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Gap in Zerikat Hadam",
+    "candidates": [
+      "Gap Period/Averot",
+      "Question About 2nd Se'ir",
+      "Simultaneous Shechita",
+      "Gap in Zerikat Hadam",
+      "Unresolved Case",
+      "Time Points/Kapparah",
+      "Todah Intro/Short Window",
+      "Todah/Todah Interchange",
+      "Shinui Kodesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong under 'Question About 2nd Se'ir' \u2014 item 1 is the actual gemara text of Rabbi Yirmeya's question to Rabbi Zeira about the two goats on Shavuot, and item 2 is the immediate inference drawn from that question, both of which are precisely what that section's prose describes.",
+      "chosen_heading": "Question About 2nd Se'ir",
+      "current_heading": "Gap in Zerikat Hadam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Shinui Kodesh",
+    "candidates": [
+      "Unresolved Case",
+      "Time Points/Kapparah",
+      "Todah Intro/Short Window",
+      "Todah/Todah Interchange",
+      "Shinui Kodesh",
+      "Rabba/Rav Chisda",
+      "Todah/Shelamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection using 'im timtzi lomar' \u2014 explaining that Rabbi Yirmeya's dilemma may have been unresolved at both stages \u2014 which directly corresponds to the 'Unresolved Case' section's prose about 'dilma im timtzi lomar ka'amar' leaving the sugya open.",
+      "chosen_heading": "Unresolved Case",
+      "current_heading": "Shinui Kodesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Todah/Shelamim",
+    "candidates": [
+      "Rabba/Rav Chisda",
+      "Todah/Shelamim",
+      "Rava's Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items present the core amoraic dispute between Rabba and Rav \u1e24isda about a todah slaughtered for another's todah, including their reasoning and Rabba's Tannaitic proof \u2014 which is precisely what candidate 0 ('Rabba/Rav Chisda') describes in its prose, while candidate 1 ('Todah/Shelamim') discusses the baraita in isolation as background to the dispute rather than as part of the dispute itself.",
+      "chosen_heading": "Rabba/Rav Chisda",
+      "current_heading": "Todah/Shelamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Rava's Inference",
+    "candidates": [
+      "Todah/Shelamim",
+      "Rava's Inference",
+      "Rav Chisda Response",
+      "Chatat/Chatat vs. Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's internal discussion responding to Rav Chisda's position \u2014 specifically the question of whether the baraita needed to address 'todah leshem todah' of another person, and the answer that the baraita was necessary to negate the assumption that todah and shelamim are fully interchangeable \u2014 which is precisely what the prose of candidate 2 ('Rav Chisda Response') describes as Rav Chisda's final defense.",
+      "chosen_heading": "Rav Chisda Response",
+      "current_heading": "Rava's Inference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Chatat/Chatat vs. Olah",
+    "candidates": [
+      "Rav Chisda Response",
+      "Chatat/Chatat vs. Olah",
+      "Shinui Ba'alim Rules",
+      "Aino Mechuyav Klum",
+      "Chatat/Aseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items are Rava's sequential teachings about chatat slaughtered for a different type of offering or for another person's obligation, which candidate 1 ('Chatat/Chatat vs. Olah') explicitly discusses as a unified series including both the shinui kavanah and shinui ba'alim rulings and their scriptural derivations.",
+      "chosen_heading": "Chatat/Chatat vs. Olah",
+      "current_heading": "Chatat/Chatat vs. Olah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Chatat/Aseh",
+    "candidates": [
+      "Shinui Ba'alim Rules",
+      "Aino Mechuyav Klum",
+      "Chatat/Aseh",
+      "Shelo Lishmah Rule",
+      "Two Justifications",
+      "Olah/After Death",
+      "Owner/After Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: Rava's kal vachomer that a chatat atones for mitzvat aseh violations, the Gemara's objection from Rava's own ruling about shinui ba'alim, and the resolution (mikupya mechapper), which is precisely what the 'Chatat/Aseh' prose describes.",
+      "chosen_heading": "Chatat/Aseh",
+      "current_heading": "Chatat/Aseh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Owner/After Death",
+    "candidates": [
+      "Shelo Lishmah Rule",
+      "Two Justifications",
+      "Olah/After Death",
+      "Owner/After Death",
+      "Olah as Doron"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shelo Lishmah Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the rule that an olah slaughtered shelo lishmah may not have its blood sprinkled shelo lishmah, along with the two justifications (kra and svara), which matches exactly the prose of headings 0 and 1 \u2014 and since items 1 and 2 are a single unit (ruling + justification), they belong under heading 0 'Shelo Lishmah Rule' which covers both the rule and references the justifications, or heading 1 which covers the justifications; heading 1's prose explicitly discusses both justifications together with the rule, making it the best single home for items 1-2, but heading 0 introduces the rule and heading 1 elaborates it \u2014 since they form one continuous unit, heading 0 is the entry point and heading 1 follows; items 1-2 most naturally sit under heading 0 as the rule-statement plus its justification form one discussion.",
+      "second_heading": "Olah/After Death",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 discuss Rava's ruling about an olah brought after the owner's death and the dispute with Rav Pinchas about yesh/ein ba'alim le'achar mitah, which matches heading 2 'Olah/After Death' for item 3 and heading 3 'Owner/After Death' for items 4-5; however since items 3-5 are a continuous dispute chain, they should stay together, and the current placement under heading 3 covers items 4-5 well while heading 2 covers item 3 \u2014 a further split at item 3 would be cleaner, but since items 3-5 form one continuous topic (Rava's ruling followed immediately by the dissent and clarification of that same ruling), they belong under heading 2 which introduces the after-death scenario that items 4-5 then dispute.",
+      "current_heading": "Owner/After Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Olah as Doron",
+    "candidates": [
+      "Owner/After Death",
+      "Olah as Doron",
+      "Chatat Before Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present Rava's teaching that the olah is a doron and the mnemonic for this series, which is precisely what the 'Olah as Doron' prose section describes.",
+      "chosen_heading": "Olah as Doron",
+      "current_heading": "Olah as Doron",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Chatat Before Olah",
+    "candidates": [
+      "Chatat Before Olah",
+      "Pesach Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita of Rabbi Shimon explaining why chatat precedes olah using the paraklit/advocate analogy is precisely what the 'Chatat Before Olah' prose section discusses.",
+      "chosen_heading": "Chatat Before Olah",
+      "current_heading": "Chatat Before Olah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Pesach Exception",
+    "candidates": [
+      "Pesach Exception",
+      "Pesach Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically asks 'from where do we derive' the Paschal offering requirement, which matches the 'Pesach Source' section's prose about the Gemara asking 'pesach minalan' and the derivation from a pasuk.",
+      "chosen_heading": "Pesach Source",
+      "current_heading": "Pesach Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Pesach Source",
+    "candidates": [
+      "Pesach Exception",
+      "Pesach Source",
+      "Shinuy Kodesh",
+      "Shinuy Ba'alim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pesach Source",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's answer about the source for shinuy kodesh from 've'asisa Pesach', which matches the 'Pesach Source' prose exactly.",
+      "second_heading": "Shinuy Kodesh",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the new question 'we found shinuy kodesh, from where do we derive shinuy ba'alim?' which matches the 'Shinuy Kodesh' section's prose that transitions from the pesach source to the shinuy ba'alim question.",
+      "current_heading": "Pesach Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Shinuy Ba'alim",
+    "candidates": [
+      "Shinuy Kodesh",
+      "Shinuy Ba'alim",
+      "Rav Safra Challenge",
+      "Sources/Responses",
+      "Pesach/Shelamim",
+      "Word Hu/Me'akeiv"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Word Hu/Me'akeiv",
+    "candidates": [
+      "Rav Safra Challenge",
+      "Sources/Responses",
+      "Pesach/Shelamim",
+      "Word Hu/Me'akeiv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita directly explains how the word 'hu' functions as me'akeiv for the korban pesach at shechitah while noting its absence in the korban asham context, which is precisely what the prose of heading 3 ('Word Hu/Me'akeiv') discusses.",
+      "chosen_heading": "Word Hu/Me'akeiv",
+      "current_heading": "Word Hu/Me'akeiv",
+      "moved": false
+    }
+  }
+]

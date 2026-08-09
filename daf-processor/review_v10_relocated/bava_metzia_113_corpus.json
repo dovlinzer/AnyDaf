@@ -1,0 +1,272 @@
+[
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Mishnah Rules",
+    "candidates": [
+      "Topic Introduction",
+      "Torah Sources",
+      "Rambam's Framework",
+      "Rambam/Ra'avad Debate",
+      "Power Dynamic",
+      "Elon Framework",
+      "Additional Prohibitions",
+      "Mishnah Rules",
+      "Poor Person's Clothes",
+      "RSbG Limit",
+      "Death Exception",
+      "Timing & Beit Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The Mishnah passage about taking collateral only through beit din and not entering the debtor's house is precisely what the 'Mishnah Rules' section prose describes and introduces.",
+      "chosen_heading": "Mishnah Rules",
+      "current_heading": "Mishnah Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Timing & Beit Din",
+    "candidates": [
+      "Poor Person's Clothes",
+      "RSbG Limit",
+      "Death Exception",
+      "Timing & Beit Din",
+      "Return Benefits",
+      "Shmuel's Position",
+      "Mishnah Clarity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the daily return of pillow/plow and the RSbG thirty-day rule and the death exception, but the prose of heading 0 ('Poor Person's Clothes') explicitly quotes and discusses 'umachazir et hakar balaila v'et hamachresha bayom' \u2014 the exact opening of this Mishnaic passage \u2014 making it the natural home for the entire excerpt, which flows as one continuous Mishnaic unit beginning with the return obligation.",
+      "chosen_heading": "Poor Person's Clothes",
+      "current_heading": "Timing & Beit Din",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Mishnah Clarity",
+    "candidates": [
+      "Return Benefits",
+      "Shmuel's Position",
+      "Mishnah Clarity",
+      "Rav Yosef's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of challenge-and-response about how to read the Mishnah in light of Shmuel's position \u2014 precisely the content described in candidate 2's prose about the Gemara challenging Shmuel from the Mishnah, Shmuel's reinterpretation, the second-clause argument, and the Gemara's deflection.",
+      "chosen_heading": "Mishnah Clarity",
+      "current_heading": "Mishnah Clarity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rav Yosef's Proof",
+    "candidates": [
+      "Rav Yosef's Proof",
+      "Rav Papa Reply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's objection/proof from the baraita about millstones and widow's garment, which is exactly what heading 0 'Rav Yosef's Proof' describes in its prose.",
+      "chosen_heading": "Rav Yosef's Proof",
+      "current_heading": "Rav Yosef's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rav Papa Reply",
+    "candidates": [
+      "Rav Papa Reply",
+      "Bachutz Ta'amod",
+      "Ve'ha'ish Derasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Pappa's interpretation that the baraita refers to a creditor and the purpose is to make him violate two prohibitions, which is exactly the content described in the 'Rav Papa Reply' section's prose.",
+      "chosen_heading": "Rav Papa Reply",
+      "current_heading": "Rav Papa Reply",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Ve'ha'ish Derasha",
+    "candidates": [
+      "Bachutz Ta'amod",
+      "Ve'ha'ish Derasha",
+      "Baraita Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the superfluous word 'veha'ish' and the debate about whether the shliach beit din is like the borrower (may enter) or like the creditor (must wait outside), which is precisely what the 'Ve'ha'ish Derasha' prose describes.",
+      "chosen_heading": "Ve'ha'ish Derasha",
+      "current_heading": "Ve'ha'ish Derasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Baraita Dispute",
+    "candidates": [
+      "Baraita Dispute",
+      "Shliach Beit Din Seizure",
+      "Baraita 2: Entry Barred"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly establishes that the verse speaks of the shliach beit din (besheliach beit din hakasuv medaber), which is precisely what the 'Shliach Beit Din Seizure' section's prose describes \u2014 the baraita that resolves the question by identifying the shliach beit din as the one who seized collateral.",
+      "chosen_heading": "Shliach Beit Din Seizure",
+      "current_heading": "Baraita Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Baraita 2: Entry Barred",
+    "candidates": [
+      "Shliach Beit Din Seizure",
+      "Baraita 2: Entry Barred",
+      "Millstone Rule",
+      "Bedding Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both baraitot together constitute the tannaitic dispute about whether the shliach beit din may enter the home \u2014 the first prohibiting entry (matching the section's prose about standing outside) and the second permitting it \u2014 which is precisely what heading 1's prose describes as the two opposing positions and the Gemara's conclusion of a dispute among tannaim.",
+      "chosen_heading": "Baraita 2: Entry Barred",
+      "current_heading": "Baraita 2: Entry Barred",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Bedding Rules",
+    "candidates": [
+      "Millstone Rule",
+      "Bedding Rules",
+      "Two Beds Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the bedding rules and the mesadrin principle, exactly as described in the 'Bedding Rules' prose, which covers the two-bed rule, the wealthy/poor distinction, the exclusion of family members, and the erchin analogy with the Gemara's correction of the direction of derivation.",
+      "chosen_heading": "Bedding Rules",
+      "current_heading": "Bedding Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Two Beds Purpose",
+    "candidates": [
+      "Two Beds Purpose",
+      "Mesadrin Principle",
+      "Erchin Analogy",
+      "Apparent Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address why two beds are provided \u2014 item 1 establishes that both beds are for the debtor himself, and item 2 explains their dual purpose via Shmuel's medical teaching \u2014 which is precisely what the 'Two Beds Purpose' prose describes.",
+      "chosen_heading": "Two Beds Purpose",
+      "current_heading": "Two Beds Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Apparent Contradiction",
+    "candidates": [
+      "Mesadrin Principle",
+      "Erchin Analogy",
+      "Apparent Contradiction",
+      "Luxury vs Necessities",
+      "Bnei Melachim Problem",
+      "Bnei Melachim Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items deal with the tension in Rabban Shimon ben Gamliel's position \u2014 whether selling collateral is compatible with leaving the debtor his basic needs \u2014 which is precisely what the 'Apparent Contradiction' prose describes.",
+      "chosen_heading": "Apparent Contradiction",
+      "current_heading": "Apparent Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Bnei Melachim Doctrine",
+    "candidates": [
+      "Luxury vs Necessities",
+      "Bnei Melachim Problem",
+      "Bnei Melachim Doctrine",
+      "Royal Standard",
+      "Unresolved Tension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together constitute the Gemara's proof for the 'bnei melachim' doctrine \u2014 item 1 states the principle, items 2 and 3 cite the supporting cases from Rabban Shimon ben Gamliel and Rabbi Shimon \u2014 which is precisely what the 'Bnei Melachim Doctrine' prose describes.",
+      "chosen_heading": "Bnei Melachim Doctrine",
+      "current_heading": "Bnei Melachim Doctrine",
+      "moved": false
+    }
+  }
+]

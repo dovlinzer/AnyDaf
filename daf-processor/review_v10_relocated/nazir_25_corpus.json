@@ -1,0 +1,263 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Reish Lakish's Pasuk",
+    "candidates": [
+      "Nazir Death/Annulment",
+      "Halacha le-Moshe mi-Sinai",
+      "Reish Lakish's Pasuk",
+      "Rava's Objection",
+      "Rak Kodashecha Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge to Reish Lakish's derivation from the pasuk, asking why the halacha should be limited to undesignated funds if the source is a verse \u2014 which is precisely what the prose of candidate 2 describes.",
+      "chosen_heading": "Reish Lakish's Pasuk",
+      "current_heading": "Reish Lakish's Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Rak Kodashecha Pasuk",
+    "candidates": [
+      "Rava's Objection",
+      "Rak Kodashecha Pasuk",
+      "Bringing Derivatives"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Objection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's objection citing the tanna of Rabbi Yishmael's ruling about vlad kodashim and tmura, which matches Candidate 0's prose about Rava responding that designated funds cannot be repurposed, grounded in the braita of Rabbi Yishmael.",
+      "second_heading": "Bringing Derivatives",
+      "second_confidence": "high",
+      "second_reason": "Item 2 unpacks the remedy for derivative sanctities \u2014 bringing them to the Temple and actually sacrificing them rather than withholding food and water \u2014 which matches Candidate 2's prose precisely, including the yimna mehem mayim u-mazon language and the ve-asita olotecha conclusion.",
+      "current_heading": "Rak Kodashecha Pasuk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Bringing Derivatives",
+    "candidates": [
+      "Rak Kodashecha Pasuk",
+      "Bringing Derivatives",
+      "Rabbi Akiva Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bringing Derivatives",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yishmael's derivation from 'rak' regarding derivatives of olah/shelamim versus chatat/asham, which is precisely what the 'Bringing Derivatives' prose discusses in detail including the ke-derech she-ata noheg principle and the yachol af vlad chatat u-tmurat asham question.",
+      "second_heading": "Rabbi Akiva Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Akiva's position that 'asham hu' / 'ba-havayato yehei' makes the 'rak' derivation unnecessary, which is exactly what the 'Rabbi Akiva Position' prose discusses as its opening point.",
+      "current_heading": "Bringing Derivatives",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Rabbi Akiva Position",
+    "candidates": [
+      "Rabbi Akiva Position",
+      "Why Learn from Pasuk?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage analyzes why a pasuk is needed to exclude offspring of peace-offerings from dying (rather than being sacrificed), which directly matches the 'Why Learn from Pasuk?' section's discussion of why pesukim are needed when halacha le-Moshe mi-Sinai already establishes the rules \u2014 not the Rabbi Akiva section's discussion of asham hu and fixed kedusha designations.",
+      "chosen_heading": "Why Learn from Pasuk?",
+      "current_heading": "Rabbi Akiva Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Why Learn from Pasuk?",
+    "candidates": [
+      "Why Learn from Pasuk?",
+      "Hava Amina Explained",
+      "Bring as Sacrifices",
+      "Chatat Must Die"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita's teaching that one might have thought vlad chatat and tmurat asham should also be offered as sacrifices (hava amina of extending the dispensation), with 'rak' limiting this \u2014 which is precisely what candidate 2 'Bring as Sacrifices' describes in its prose.",
+      "chosen_heading": "Bring as Sacrifices",
+      "current_heading": "Why Learn from Pasuk?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Chatat Must Die",
+    "candidates": [
+      "Hava Amina Explained",
+      "Bring as Sacrifices",
+      "Chatat Must Die",
+      "Asham Given to Pasture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly concern the *tmurat asham* ruling \u2014 item 1 raises the objection that *halacha le-Moshe mi-Sinai* already teaches that a guilt-offering substitute grazes, and item 2 resolves it by explaining that the verse adds an *issur aseh* for one who sacrifices it anyway \u2014 exactly the content described in the 'Chatat Must Die' prose about Rabbi Yishmael's re-understanding of the pasuk's purpose as establishing an additional *issur aseh*.",
+      "chosen_heading": "Chatat Must Die",
+      "current_heading": "Chatat Must Die",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Asham Given to Pasture",
+    "candidates": [
+      "Asham Given to Pasture",
+      "Transformation Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present exactly the content discussed in heading 0's prose: Rabbi Akiva's use of 'asham hu,' the halacha le-Moshe mi-Sinai about grazing, and Rav Huna/Rav's ruling that an asham consigned to grazing and then slaughtered le-shem olah is valid \u2014 all of which are the central focus of the 'Asham Given to Pasture' section.",
+      "chosen_heading": "Asham Given to Pasture",
+      "current_heading": "Asham Given to Pasture",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Transformation Conditions",
+    "candidates": [
+      "Transformation Conditions",
+      "Multiple Korbanos",
+      "Yoledes Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rule that an asham must be consigned to grazing (nitak) before transformation, deriving from 'hu' that it retains its status until that process is initiated \u2014 precisely the content discussed in the 'Transformation Conditions' prose.",
+      "chosen_heading": "Transformation Conditions",
+      "current_heading": "Transformation Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Yoledes Case",
+    "candidates": [
+      "Multiple Korbanos",
+      "Yoledes Case",
+      "Two Independent Chatat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items constitute the Gemara's challenge to Rabbi Yochanan's nazirite-specific formulation \u2014 asking whether the halacha is truly unique to nazir and citing the baraita about chayvei kinim \u2014 which is precisely what candidate 0 ('Multiple Korbanos') describes as the Gemara questioning whether this halacha is limited to nazir and answering that it extends to analogous cases.",
+      "chosen_heading": "Multiple Korbanos",
+      "current_heading": "Yoledes Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Two Independent Chatat",
+    "candidates": [
+      "Yoledes Case",
+      "Two Independent Chatat",
+      "Rav Ashi's Requirement",
+      "Naming Korbanos",
+      "Obligation vs. Korbanos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the baraita about a person with two independent obligations (chatat and olah) who sets aside unallocated funds, which cannot be used for either animal offering and must be cast into the Dead Sea \u2014 exactly the 'Two Independent Chatat' contrast case described in candidate 1's prose.",
+      "chosen_heading": "Two Independent Chatat",
+      "current_heading": "Two Independent Chatat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Obligation vs. Korbanos",
+    "candidates": [
+      "Rav Ashi's Requirement",
+      "Naming Korbanos",
+      "Obligation vs. Korbanos",
+      "Pile Becomes Concrete"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Naming Korbanos",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Ashi's first version \u2014 that even saying 'these are for my sin-offering and burnt-offering and peace-offering' together counts as meforashim \u2014 which is exactly what candidate 1 ('Naming Korbanos') describes in its prose.",
+      "second_heading": "Obligation vs. Korbanos",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the second formulation of Rav Ashi \u2014 that even saying 'these are for my obligation' counts as meforashim \u2014 which is precisely what candidate 2 ('Obligation vs. Korbanos') describes in its prose, including the Tosafot discussion about what remains genuinely stumim.",
+      "current_heading": "Obligation vs. Korbanos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Pile Becomes Concrete",
+    "candidates": [
+      "Pile Becomes Concrete",
+      "Remaining Olah/Shelamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rava's ruling that separating chatat funds makes the remainder 'as allocated/meforashim,' which is precisely the 'concretization' principle that heading 0's prose explicates in detail.",
+      "chosen_heading": "Pile Becomes Concrete",
+      "current_heading": "Pile Becomes Concrete",
+      "moved": false
+    }
+  }
+]

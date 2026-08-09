@@ -1,0 +1,344 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Wheat & Barley",
+    "candidates": [
+      "Shmuel's Cases",
+      "Wheat & Barley",
+      "Intent & Scheming",
+      "Two Vessels",
+      "Rav Pappa's Case",
+      "Rav vs. Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the wheat/barley case where the defendant pre-empts the claimant, which is the specific scenario discussed in the 'Wheat & Barley' section's prose, including the im kimarim/b'miskaven distinction that follows naturally from it.",
+      "chosen_heading": "Wheat & Barley",
+      "current_heading": "Wheat & Barley",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Intent & Scheming",
+      "Two Vessels",
+      "Rav Pappa's Case",
+      "Rav vs. Shmuel",
+      "Rav Nachman's Oath"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Rav Nachman's Oath",
+    "candidates": [
+      "Rav Nachman's Oath",
+      "Presumption",
+      "Stalling vs. Lying"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces both the Mishnah's ruling on total denial and Rav Na\u1e25man's imposition of the oath of heisset, which is exactly what heading 0's prose describes as its content.",
+      "chosen_heading": "Rav Nachman's Oath",
+      "current_heading": "Rav Nachman's Oath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Stalling vs. Lying",
+    "candidates": [
+      "Presumption",
+      "Stalling vs. Lying",
+      "Loan vs. Deposit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the chazakah ein adam me'iz panav objection and the ishtamutei stalling response, which is precisely what the 'Stalling vs. Lying' section's prose describes.",
+      "chosen_heading": "Stalling vs. Lying",
+      "current_heading": "Stalling vs. Lying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Loan vs. Deposit",
+    "candidates": [
+      "Loan vs. Deposit",
+      "Both Cases"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Loan vs. Deposit",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Rav Idi bar Avin/Rav \u1e24isda ruling about loan vs. deposit disqualification, which is precisely what candidate 0's prose discusses in detail.",
+      "second_heading": "Both Cases",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav \u1e24aviva's teaching about the latter clause of the Mishnah (prior admission then claim of repayment), which matches candidate 1's prose exactly.",
+      "current_heading": "Loan vs. Deposit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Both Cases",
+    "candidates": [
+      "Both Cases",
+      "Connection Req'd",
+      "Tosafot Ruling",
+      "Shepherd Case",
+      "Mehapaich Shvua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items explain the two versions of Rav Nachman's statement and the concept of *drora d'mamona* as a requirement for the *shvuat hesset*, which is precisely what the 'Connection Req'd' prose discusses.",
+      "chosen_heading": "Connection Req'd",
+      "current_heading": "Both Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Mehapaich Shvua",
+    "candidates": [
+      "Connection Req'd",
+      "Tosafot Ruling",
+      "Shepherd Case",
+      "Mehapaich Shvua",
+      "Mar bar Rav Ashi",
+      "Seizure Question",
+      "Rav Yosef View",
+      "Chashud"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mehapaich Shvua",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the mehapaich shvua distinction between d'Oraita and d'Rabbanan oaths, which is precisely what heading 3 ('Mehapaich Shvua') describes.",
+      "second_heading": "Mar bar Rav Ashi",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Mar bar Rav Ashi's position that even a d'Oraita oath can be reversed, and asks what then distinguishes d'Oraita from d'Rabbanan, which is exactly what heading 4 ('Mar bar Rav Ashi') discusses.",
+      "current_heading": "Mehapaich Shvua",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Chashud",
+    "candidates": [
+      "Mar bar Rav Ashi",
+      "Seizure Question",
+      "Rav Yosef View",
+      "Chashud",
+      "Cherem Imposed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Yosef View",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address the question of what distinguishes d'Oraita from d'Rabbanan according to Rabbi Yosei, using the cheresh/shoteh/katan case to ask whether court seizure applies to rabbinic obligations \u2014 exactly the content described in the 'Rav Yosef View' prose.",
+      "second_heading": "Chashud",
+      "second_confidence": "high",
+      "second_reason": "Item 3 answers that the distinction lies in the chashud al hashvua case \u2014 transferring the oath for d'Oraita but not for d'Rabbanan (takanta letakanta lo avdinan) \u2014 which is precisely the content described in the 'Chashud' prose.",
+      "current_heading": "Chashud",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Cherem Imposed",
+    "candidates": [
+      "Cherem Imposed",
+      "Crude Force",
+      "30-Day Cherem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks what is done when someone refuses to take the shvuat hesset and answers with excommunication (meshamtinan lei), which is precisely what the 'Cherem Imposed' section's prose describes.",
+      "chosen_heading": "Cherem Imposed",
+      "current_heading": "Cherem Imposed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "30-Day Cherem",
+    "candidates": [
+      "Crude Force",
+      "30-Day Cherem",
+      "Debt Document",
+      "Debtor Reversal",
+      "Pogem Shtaro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Ravina's challenge about coercive force (grabbing by the anatomy) which is precisely what heading 0 'Crude Force' describes in its prose, not the 30-day cherem structure described in heading 1.",
+      "chosen_heading": "Crude Force",
+      "current_heading": "30-Day Cherem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Pogem Shtaro",
+    "candidates": [
+      "Debt Document",
+      "Debtor Reversal",
+      "Pogem Shtaro",
+      "Tzurva Exception",
+      "Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous discussion: Rav Pappa's ruling about producing a shtar (item 1), Rav A\u1e25a's question comparing it to pogem shtaro (item 2), and Rav Ashi's resolution distinguishing court-initiated vs. defendant-initiated oaths plus the tzurva exception (item 3) \u2014 this entire chain belongs under the 'Debt Document' heading which introduces the shtar case, with the pogem/tzurva material being part of that same ruling's elaboration, not separate topics.",
+      "chosen_heading": "Debt Document",
+      "current_heading": "Pogem Shtaro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Objection",
+    "candidates": [
+      "Tzurva Exception",
+      "Objection",
+      "Case Delayed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yeimar's objection to Rav Ashi about a Torah scholar 'uncloaking people' and the resolution that his case is not attended to, which matches the 'Objection' heading's prose describing exactly this exchange \u2014 and the current placement is correct.",
+      "chosen_heading": "Objection",
+      "current_heading": "Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Case Delayed",
+    "candidates": [
+      "Case Delayed",
+      "Rav Yehuda",
+      "Shmuel Position",
+      "Mishnah Conflict",
+      "Rav Assi",
+      "Rav Assi",
+      "Baraita Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "medium",
+      "reason": "All four items form a continuous chain about witnessed repayment requirements \u2014 items 1-2 conclude the challenge to Rav Asi's stricter position and his deflection, while items 3-4 introduce Rav Yosef's variant (lenient) version of Rav Asi's ruling and the Mishnah challenge to Shmuel, which best matches candidate 5's prose about Rav Yosef's teaching of the lenient formulation.",
+      "chosen_heading": "Rav Assi",
+      "current_heading": "Case Delayed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Baraita Debate",
+    "candidates": [
+      "Rav Yehuda",
+      "Shmuel Position",
+      "Mishnah Conflict",
+      "Rav Assi",
+      "Rav Assi",
+      "Baraita Debate",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's response that it is a tanna'im dispute and quotes the baraita with Rabbi Yehuda ben Beteira's position, which is exactly what the 'Baraita Debate' prose section describes.",
+      "chosen_heading": "Baraita Debate",
+      "current_heading": "Baraita Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Rabbi Yehuda",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Rav Pappa Ruling",
+      "Unresolved"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yehuda",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Acha's challenge about whether the baraita refers to the time of the loan or the time of the claim, which is explicitly discussed in the 'Rabbi Yehuda' section's prose describing Rav Acha's query and its implications.",
+      "second_heading": "Rav Pappa Ruling",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the formal halakhic ruling of Rav Pappi/Rav Pappa in the name of Rava about witness requirements for repayment, which corresponds directly to the 'Rav Pappa Ruling' section's prose.",
+      "current_heading": "Rabbi Yehuda",
+      "moved": true
+    }
+  }
+]

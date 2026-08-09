@@ -1,0 +1,477 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Cases of Agreement",
+    "candidates": [
+      "Shetita Definition",
+      "Rav vs. Levi & Avuha",
+      "Cases of Agreement",
+      "Gezeira L'Gezeira",
+      "Rav's Position",
+      "Barzilai & David"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the core dispute between Rav (permits) and Levi/Avuha d'Shmuel (prohibit) along with the Gemara's attempt to define the exact point of disagreement \u2014 this is precisely what heading 1 'Rav vs. Levi & Avuha' describes, whereas the current placement under 'Cases of Agreement' only partially captures the content and heading 2's prose already summarizes what these items say.",
+      "chosen_heading": "Rav vs. Levi & Avuha",
+      "current_heading": "Cases of Agreement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Barzilai & David",
+    "candidates": [
+      "Gezeira L'Gezeira",
+      "Rav's Position",
+      "Barzilai & David",
+      "Pickles Rule",
+      "Muryas vs. Pickles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav's statement about Barzillai sending two kinds of shetita to David and the subsequent marketplace practice in Nehardea, which is precisely what the 'Barzilai & David' section's prose discusses.",
+      "chosen_heading": "Barzilai & David",
+      "current_heading": "Barzilai & David",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Muryas vs. Pickles",
+    "candidates": [
+      "Pickles Rule",
+      "Muryas vs. Pickles",
+      "R. Yochanan",
+      "Taste vs. Mamash"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pickles Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Chizkiyah's ruling on known-wine pickles and the muryas distinction (le-avurei zuhama vs. le-matukei ta'ama), which is precisely what headings 0 and 1 discuss together as a single unit \u2014 but since heading 0's prose already introduces Chizkiyah and heading 1's prose covers the muryas comparison, the full content of item 1 best matches the combined topic anchored at heading 1 (Muryas vs. Pickles), which is its current placement.",
+      "second_heading": "R. Yochanan",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yochanan's dissenting lenient position and the question of how it differs from muryas according to Rabbi Meir, which is exactly what heading 2 ('R. Yochanan') describes in its prose.",
+      "current_heading": "Muryas vs. Pickles",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Taste vs. Mamash",
+    "candidates": [
+      "R. Yochanan",
+      "Taste vs. Mamash",
+      "Fins & Scales",
+      "Scales Sufficient",
+      "Fish Mixture Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly distinguishes between recognizable substance (mamash) in muryas versus non-recognizable substance in pickles, which is precisely the mamash vs. ta'am distinction that the 'Taste vs. Mamash' section's prose discusses.",
+      "chosen_heading": "Taste vs. Mamash",
+      "current_heading": "Taste vs. Mamash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Fish Mixture Risk",
+    "candidates": [
+      "Fins & Scales",
+      "Scales Sufficient",
+      "Fish Mixture Risk",
+      "Scale Development"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses \u1e25ilak/sultanit and the concern of mixed fish (arvona olah imah), which directly matches the 'Fish Mixture Risk' section's prose about Rav Na\u1e25man bar Abba citing Rav identifying the sultanit and the problem of non-kosher fish rising with it in the catch.",
+      "chosen_heading": "Fish Mixture Risk",
+      "current_heading": "Fish Mixture Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Scale Development",
+    "candidates": [
+      "Scale Development",
+      "Modern Fish Species",
+      "R. Abbahu Rule",
+      "Roe Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses fish that lack scales but will grow them, and fish that have scales but shed them upon leaving water \u2014 exactly what the 'Scale Development' section's prose describes.",
+      "chosen_heading": "Scale Development",
+      "current_heading": "Scale Development",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Roe Presumption",
+    "candidates": [
+      "Modern Fish Species",
+      "R. Abbahu Rule",
+      "Roe Presumption",
+      "Bab River"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Abbahu's announcement directly, which is the specific content described in the 'R. Abbahu Rule' section's prose about fish organs and roe being purchasable from any vendor.",
+      "chosen_heading": "R. Abbahu Rule",
+      "current_heading": "Roe Presumption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Bab River",
+    "candidates": [
+      "Roe Presumption",
+      "Bab River",
+      "Ravina's Correction",
+      "Named Fish Species"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of the three reasons for Abaye's ruling about the Bav River fish and Ravina's qualification \u2014 exactly the content described in the 'Bab River' section's prose, which explicitly covers all three suggested reasons and the objections to each, matching items 1 and 2 precisely (Ravina's correction is embedded within the same continuous passage here, even though a separate heading exists for it).",
+      "chosen_heading": "Bab River",
+      "current_heading": "Bab River",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Named Fish Species",
+    "candidates": [
+      "Ravina's Correction",
+      "Named Fish Species",
+      "R. Akiva Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Amoraic rulings naming specific sea creatures with kosher status and mnemonics, exactly matching the 'Named Fish Species' section's prose description of Abaye's sea donkey/ox ruling and Rav Ashi's shapharnuna/kadesh nuna ruling.",
+      "chosen_heading": "Named Fish Species",
+      "current_heading": "Named Fish Species",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "R. Akiva Case",
+    "candidates": [
+      "R. Akiva Case",
+      "Rav Ashi Case",
+      "Rabbah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rabbi Akiva incident and the Rav Ashi incident as a single Gemara unit, and it currently sits under 'R. Akiva Case' which introduces the sequence \u2014 moving it would split what is presented as one continuous text.",
+      "chosen_heading": "R. Akiva Case",
+      "current_heading": "R. Akiva Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Rabbah Case",
+    "candidates": [
+      "Rav Ashi Case",
+      "Rabbah Case",
+      "Chiltit Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Ashi Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1's first half describes Rav Ashi examining a fish resembling a non-kosher species using a white vessel to detect scales, which matches the 'Rav Ashi Case' heading about visual inspection to confirm kosher signs, even though the vessel method differs slightly from the prose's description.",
+      "second_heading": "Rabbah Case",
+      "second_confidence": "high",
+      "second_reason": "Items 1 (second half) and 2 together describe the complete Rabbah bar bar Chana / tza\u1e25anta / batei story, which matches perfectly with the 'Rabbah Case' prose including the non-kosher name, overnight caution, morning inspection, and the Mishlei verse.",
+      "current_heading": "Rabbah Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Chiltit Rule",
+    "candidates": [
+      "Chiltit Rule",
+      "Slave of Chaver"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the chiltit sliver case and the noten ta'am lifgam/lishvach principle, which is precisely what the 'Chiltit Rule' section's prose describes.",
+      "chosen_heading": "Chiltit Rule",
+      "current_heading": "Chiltit Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Slave of Chaver",
+    "candidates": [
+      "Slave of Chaver",
+      "Presumption After Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Levi's slave selling \u1e25iltit, Rav Huna purchasing techelet from Rav Amram's household, and \u1e24anan the tailor's incident leading to Shmuel's ruling about eishet chaver \u2014 are precisely the content described in the 'Slave of Chaver' section's prose.",
+      "chosen_heading": "Slave of Chaver",
+      "current_heading": "Slave of Chaver",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Presumption After Death",
+    "candidates": [
+      "Presumption After Death",
+      "Wife Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the presumptive status of a chaver's wife, household, and techelet stall after death or transition, which precisely matches the 'Presumption After Death' section's prose summary of those same baraita elements.",
+      "chosen_heading": "Presumption After Death",
+      "current_heading": "Presumption After Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Wife Status",
+    "candidates": [
+      "Wife Status",
+      "Wife Follows Husband"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita describing Rabbi Meir's ruling about formal acceptance of chaveirut status upon transitioning between households, which is precisely what the prose under 'Wife Status' (candidate 0) discusses and quotes.",
+      "chosen_heading": "Wife Status",
+      "current_heading": "Wife Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Wife Follows Husband",
+    "candidates": [
+      "Wife Follows Husband",
+      "Chavit Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehuda's statement about wives accepting \u1e25aver status and Rabbi Shimon ben Elazar's illustrative story about the woman tying tefillin/tax-seals, which is exactly what the 'Wife Follows Husband' prose describes.",
+      "chosen_heading": "Wife Follows Husband",
+      "current_heading": "Wife Follows Husband",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Chavit Items",
+    "candidates": [
+      "Chavit Items",
+      "Champag Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces both mnemonics together (chavit and champag) but the prose of section 0 specifically discusses Rav's statement introducing these mnemonics and the chavit items, which matches the Gemara text that presents both acronyms as a single teaching unit, and the current placement under 'Chavit Items' is the natural home for the opening statement that introduces both mnemonics.",
+      "chosen_heading": "Chavit Items",
+      "current_heading": "Chavit Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Champag Items",
+    "candidates": [
+      "Champag Items",
+      "Bread Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists exactly the four champag items (chiltit, muryas, pat, gevina) and states they are permitted with one seal, which is precisely what the 'Champag Items' prose describes as a category \u2014 before the individual items are analyzed in subsequent sections.",
+      "chosen_heading": "Champag Items",
+      "current_heading": "Champag Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Bread Exception",
+    "candidates": [
+      "Bread Exception",
+      "Milk vs. Cheese"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the bread exception (*pat*) and why a single seal suffices, matching exactly the prose in candidate 0 about *pat lemai neichush lah*, freshness detection, and the lack of profit motive to forge seals.",
+      "chosen_heading": "Bread Exception",
+      "current_heading": "Bread Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Milk vs. Cheese",
+    "candidates": [
+      "Milk vs. Cheese",
+      "Shmuel Mnemonic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address Rav's position on milk vs. cheese and the Rav Kahana revision substituting 'piece of fish with no sign' for milk, which is precisely what the 'Milk vs. Cheese' prose section discusses.",
+      "chosen_heading": "Milk vs. Cheese",
+      "current_heading": "Milk vs. Cheese",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Shmuel Mnemonic",
+    "candidates": [
+      "Shmuel Mnemonic",
+      "Six Products"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's mnemonics (beit-yod-tav and mem-\u1e25et-gimmel), the explanation of basar/yayin/tekhelet and morayes/\u1e25iltit/gevina, and the comment about trei gavnei basar lo amrinan \u2014 all of which are precisely what the 'Shmuel Mnemonic' prose section discusses.",
+      "chosen_heading": "Shmuel Mnemonic",
+      "current_heading": "Shmuel Mnemonic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Six Products",
+    "candidates": [
+      "Six Products",
+      "Guest Exception",
+      "R. Y. ben Levi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita listing the six products (wine, fish stew, milk, salt, chiltit, cheese) and the mumche requirement, which is precisely what the 'Six Products' section prose discusses, including the mnemonic yamach/machag.",
+      "chosen_heading": "Six Products",
+      "current_heading": "Six Products",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "R. Y. ben Levi",
+    "candidates": [
+      "Guest Exception",
+      "R. Y. ben Levi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text that directly states and explains Rabbi Yehoshua ben Levi's principle, which is precisely what the 'R. Y. ben Levi' section's prose is elaborating upon.",
+      "chosen_heading": "R. Y. ben Levi",
+      "current_heading": "R. Y. ben Levi",
+      "moved": false
+    }
+  }
+]

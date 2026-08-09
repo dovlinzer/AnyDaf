@@ -1,0 +1,248 @@
+[
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Sin Animals",
+    "candidates": [
+      "Perek Overview",
+      "Ta'arovet Concept",
+      "Vitamna Mnemonic",
+      "Five Categories",
+      "One in 10,000 Rule",
+      "Ba'alei Chaim",
+      "Issurei Hana'ah",
+      "Permissible for Benefit",
+      "Sin Animals",
+      "Bestiality Animals",
+      "Idolatry Animals",
+      "Other Forbidden",
+      "Cesarean Section",
+      "Yir'u Ad Yista'avu",
+      "Money Transfer",
+      "Dmei Hayafeh",
+      "Treifa Solution",
+      "Chullin Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sin Animals",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the ox-that-killed, bestiality, idolatry, esnan/mechir animals \u2014 exactly what heading 8 ('Sin Animals') and its prose describe as the paradigm cases of shor she'ne'evda bo aveira.",
+      "second_heading": "Yir'u Ad Yista'avu",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces kilayim, tereifa, and yotze dofen with the remedy of grazing until a mum develops and selling \u2014 this is precisely the content described under heading 13 ('Yir'u Ad Yista'avu'), which prescribes that exact remedy for animals permissible for layperson benefit.",
+      "current_heading": "Sin Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Chullin Solution",
+    "candidates": [
+      "Bestiality Animals",
+      "Idolatry Animals",
+      "Other Forbidden",
+      "Cesarean Section",
+      "Yir'u Ad Yista'avu",
+      "Money Transfer",
+      "Dmei Hayafeh",
+      "Treifa Solution",
+      "Chullin Solution",
+      "Same Type Mix"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chullin Solution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the chullin-mixed-with-unblemished-kodshim case where non-sacred animals are sold to buyers needing the same type of korban, which is precisely what heading 8 ('Chullin Solution') discusses.",
+      "second_heading": "Same Type Mix",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 cover kodshim mixed with kodshim \u2014 same-type and different-type \u2014 which corresponds exactly to heading 9 ('Same Type Mix') and its discussion of min bemino and min be'she'eino mino cases.",
+      "current_heading": "Chullin Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Same Type Mix",
+    "candidates": [
+      "Same Type Mix",
+      "Different Type Mix",
+      "Two Piles Method",
+      "Bechor Problem",
+      "Eating as Bechor",
+      "Bechor Restrictions",
+      "Chatat-Asham Rule",
+      "Mai Afilu"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bechor Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the case of sacrificial animals intermingled with a bechor or ma'aser, which is precisely what candidate 3 ('Bechor Problem') discusses.",
+      "second_heading": "Chatat-Asham Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 states the general principle that all offerings can become intermingled except chatat and asham, which is exactly what candidate 6 ('Chatat-Asham Rule') discusses.",
+      "current_heading": "Same Type Mix",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Mai Afilu",
+    "candidates": [
+      "Different Type Mix",
+      "Two Piles Method",
+      "Bechor Problem",
+      "Eating as Bechor",
+      "Bechor Restrictions",
+      "Chatat-Asham Rule",
+      "Mai Afilu",
+      "Temurah Reference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Mai Afilu' section: item 1 is the Gemara's question about the word 'even' (mai afilu) and item 2 is the Gemara's resolution (hachi ka'amar) explaining that one forbidden animal mixed into ten thousand valid korbanot renders them all forbidden \u2014 exactly what the prose of candidate 6 describes.",
+      "chosen_heading": "Mai Afilu",
+      "current_heading": "Mai Afilu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Temurah Reference",
+    "candidates": [
+      "Temurah Reference",
+      "Rav Ashi Query",
+      "Kodshim Strictness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the Temurah mishna about animals prohibited for the altar rendering mixtures forbidden, which is precisely what the 'Temurah Reference' section prose describes.",
+      "chosen_heading": "Temurah Reference",
+      "current_heading": "Temurah Reference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Kodshim Strictness",
+    "candidates": [
+      "Rav Ashi Query",
+      "Kodshim Strictness",
+      "C-Section Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form Rav Ashi's full elaboration of why both mishnayot are necessary \u2014 Item 1 explains what the Temurah mishna alone would miss (the hedyot/issur hana'ah dimension), and Item 2 explains what our mishna alone would miss (the lighter pesul cases) \u2014 which is precisely what Candidate 1 ('Kodshim Strictness') describes in its prose, covering both directions of the tzrichi argument including the shor haniskal's issur hana'ah infecting the mixture versus the Temurah case's lighter pesul.",
+      "chosen_heading": "Kodshim Strictness",
+      "current_heading": "Kodshim Strictness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "C-Section Cases",
+    "candidates": [
+      "C-Section Cases",
+      "Takanata Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses why the Temurah mishna is not superfluous given our mishna \u2014 specifically addressing the novelty of 'kol shehu' (any amount) taught in Temurah, which is the exact question raised in the 'Takanata Solution' section about why both mishnayot are needed, whereas the C-Section Cases prose discusses a different question (why Temurah is needed for non-issurei hana'ah cases).",
+      "chosen_heading": "Takanata Solution",
+      "current_heading": "C-Section Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Takanata Solution",
+    "candidates": [
+      "C-Section Cases",
+      "Takanata Solution",
+      "Ve'eilo Asurin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's challenge of why the mishna is taught twice and answers that the takana (remedy) is what requires it, which is precisely what the 'Takanata Solution' prose describes.",
+      "chosen_heading": "Takanata Solution",
+      "current_heading": "Takanata Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Ve'eilo Asurin",
+    "candidates": [
+      "Ve'eilo Asurin",
+      "Preventing Bitul",
+      "Final Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna 've'eilu asurin ve'osrin bechol shehu' with yein nesech and avoda zara, which is precisely what heading 0's prose describes as the gemara pointing to that mishna to establish the principle that issurei hana'ah are not battel.",
+      "chosen_heading": "Ve'eilo Asurin",
+      "current_heading": "Ve'eilo Asurin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Final Principle",
+    "candidates": [
+      "Preventing Bitul",
+      "Final Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the exact 'tzrichi' reasoning (both mishnayot are necessary) that heading 0 'Preventing Bitul' explicitly describes, while heading 1 'Final Principle' merely summarizes and elaborates on this same content in its prose \u2014 the passage belongs under heading 0 where the gemara's actual tzrichi argument is introduced and discussed.",
+      "chosen_heading": "Preventing Bitul",
+      "current_heading": "Final Principle",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,636 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Color Disputes",
+    "candidates": [
+      "Definition & Etymology",
+      "Color Disputes",
+      "Fish Preparation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the definition of salkondarit salt (Rav Yehuda/Shmuel's explanation) and the color dispute baraita, and heading 0's prose explicitly discusses both the 'mai melach salkondarit' question and cites Rav Yehuda/Shmuel, while heading 1's prose covers only the color dispute \u2014 however, since the passage contains both elements and heading 0 already discusses the Shmuel statement that opens this passage, placing the whole passage under 'Definition & Etymology' keeps the Shmuel statement with its contextual prose, and the color dispute baraita naturally follows as part of the same unit.",
+      "chosen_heading": "Definition & Etymology",
+      "current_heading": "Color Disputes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Fish Preparation",
+    "candidates": [
+      "Fish Preparation",
+      "Pig Fat Anecdote",
+      "Prohibition & Benefit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fish Preparation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 explains the reasoning behind each position regarding white and black non-kosher fish innards mixed into salkondarit, which is exactly what the 'Fish Preparation' prose describes.",
+      "second_heading": "Pig Fat Anecdote",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains both the conclusion of the fish innards discussion AND the pig fat anecdote \u2014 the pig fat anecdote is specifically what the 'Pig Fat Anecdote' prose discusses as a separate additional ground for prohibition.",
+      "current_heading": "Fish Preparation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Prohibition & Benefit",
+    "candidates": [
+      "Pig Fat Anecdote",
+      "Prohibition & Benefit",
+      "Milk Supervision",
+      "Honey & Grapes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses what the mishna's closing prohibition phrase serves to exclude, matching exactly the 'Prohibition & Benefit' prose about Chizkiyah's and Rabbi Yochanan's interpretations of that exclusion.",
+      "chosen_heading": "Prohibition & Benefit",
+      "current_heading": "Prohibition & Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Honey & Grapes",
+    "candidates": [
+      "Milk Supervision",
+      "Honey & Grapes",
+      "Pickled Foods",
+      "Tarith Fish",
+      "Tzir & Kilbis",
+      "Chiltis & Olives",
+      "Shalchin & Locust"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers all the items listed (milk, honey, grapes, pickled foods, tarit, brine, chiltit, olives) as a single unit, and the 'Milk Supervision' heading is the correct home since it opens with the start of this mishna and its prose explicitly introduces this list of permitted items beginning with milk milked by a non-Jew.",
+      "chosen_heading": "Milk Supervision",
+      "current_heading": "Honey & Grapes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Shalchin & Locust",
+    "candidates": [
+      "Pickled Foods",
+      "Tarith Fish",
+      "Tzir & Kilbis",
+      "Chiltis & Olives",
+      "Shalchin & Locust",
+      "Sitting vs. Standing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yosei's rulings on shalchin olives and locusts from the basket versus storeroom, which is exactly what the 'Shalchin & Locust' section's prose describes.",
+      "chosen_heading": "Shalchin & Locust",
+      "current_heading": "Shalchin & Locust",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Sitting vs. Standing",
+    "candidates": [
+      "Sitting vs. Standing",
+      "Ashkenazi-Sephardi",
+      "Rav Moshe Solution",
+      "Honey Concerns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the sitting/standing scenario and the mirsas resolution, which is exactly what the 'Sitting vs. Standing' prose describes.",
+      "chosen_heading": "Sitting vs. Standing",
+      "current_heading": "Sitting vs. Standing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Honey Concerns",
+    "candidates": [
+      "Ashkenazi-Sephardi",
+      "Rav Moshe Solution",
+      "Honey Concerns",
+      "Non-Kosher Pots",
+      "Shammai vs. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the three concerns (adulteration with wine, bishul akum, gi'ulei akum) regarding honey from non-Jews and why each is dismissed, which is precisely what the 'Honey Concerns' section prose describes.",
+      "chosen_heading": "Honey Concerns",
+      "current_heading": "Honey Concerns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Shammai vs. Hillel",
+    "candidates": [
+      "Non-Kosher Pots",
+      "Shammai vs. Hillel",
+      "Intention Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction from the Shammai-Hillel dispute about harvesting grapes for the press, which is precisely what the 'Shammai vs. Hillel' section's prose describes as the challenge raised by the mishna's ruling on dripping grape clusters.",
+      "chosen_heading": "Shammai vs. Hillel",
+      "current_heading": "Shammai vs. Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Intention Principle",
+    "candidates": [
+      "Intention Principle",
+      "Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the intention principle (wanting vs. not wanting the juice as a beverage), which matches exactly what the 'Intention Principle' section's prose describes.",
+      "chosen_heading": "Intention Principle",
+      "current_heading": "Intention Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Definition",
+    "candidates": [
+      "Definition",
+      "Huna vs. Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal directly with the baraita defining 'tarit that is not minced' and 'brine that has fish in it,' which is precisely what the 'Definition' prose discusses, including the head-and-spine recognition criterion cited by Rashi.",
+      "chosen_heading": "Definition",
+      "current_heading": "Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Huna vs. Nachman",
+    "candidates": [
+      "Huna vs. Nachman",
+      "Ukva Challenge",
+      "Abaye Resolution",
+      "Body vs. Brine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three elements \u2014 the Rav Huna/Rav Nachman dispute, Rav Ukva's objection, and Abaye's resolution \u2014 as a single continuous Talmudic unit, and the current heading 'Huna vs. Nachman' is where it sits, which is appropriate since the essay author has split the commentary across separate prose sections but the Gemara text itself is one unified passage best placed under the opening dispute heading.",
+      "chosen_heading": "Huna vs. Nachman",
+      "current_heading": "Huna vs. Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Body vs. Brine",
+    "candidates": [
+      "Ukva Challenge",
+      "Abaye Resolution",
+      "Body vs. Brine",
+      "Zeira Stringency",
+      "Rav Papa Ruling",
+      "Baraita Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rav Yehuda's teaching in the name of Ulla about the distinction between brine and body, which is precisely what the 'Body vs. Brine' section's prose describes, and Rabbi Zeira's reaction is included in this same passage which the 'Body vs. Brine' prose also covers.",
+      "chosen_heading": "Body vs. Brine",
+      "current_heading": "Body vs. Brine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Baraita Teaching",
+    "candidates": [
+      "Zeira Stringency",
+      "Rav Papa Ruling",
+      "Baraita Teaching",
+      "Gamliel Story",
+      "Equal Pieces"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Papa's ruling AND the baraita challenge to it, forming a single unit that belongs under 'Rav Papa Ruling' since the baraita is introduced as an objection to Rav Papa's statement, not as a standalone teaching.",
+      "chosen_heading": "Rav Papa Ruling",
+      "current_heading": "Baraita Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Equal Pieces",
+    "candidates": [
+      "Gamliel Story",
+      "Equal Pieces",
+      "Huna Position",
+      "Rava Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Pappa's interpretation about equal/fitting pieces and the Gemara's question about why this needs to be stated, which matches exactly the 'Equal Pieces' section prose.",
+      "chosen_heading": "Equal Pieces",
+      "current_heading": "Equal Pieces",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Rava Objection",
+    "candidates": [
+      "Huna Position",
+      "Rava Objection",
+      "Ashi Report"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the complete incident \u2014 Rav Huna's permitting, Rava's objection, and both announcements \u2014 which belongs under the 'Huna Position' heading that introduces the boat/Sichra story, rather than being split at Rava's objection since the Gemara text covers the entire episode in one unit.",
+      "chosen_heading": "Huna Position",
+      "current_heading": "Rava Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Ashi Report",
+    "candidates": [
+      "Rava Objection",
+      "Ashi Report",
+      "Four Barrels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Rav Yirmiyah/Rav Ashi dispute over Rav Huna bar Chinana's ruling and Rav Ashi's conclusion about tzir vs. bodies, which is precisely what the 'Ashi Report' prose describes.",
+      "chosen_heading": "Ashi Report",
+      "current_heading": "Ashi Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Four Barrels",
+    "candidates": [
+      "Four Barrels",
+      "Open vs. Closed",
+      "Three Authorities",
+      "Expert Requirement",
+      "Ulla Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial scenario of the boat full of barrels and the kilbit finding, which is exactly what the 'Four Barrels' section prose introduces \u2014 the open/closed distinction and three authorities are elaborations that follow, but the Talmudic text as a whole unit introduces the case, gives the ruling, and mentions the source, all of which aligns with the 'Four Barrels' heading that sets up this scenario.",
+      "chosen_heading": "Four Barrels",
+      "current_heading": "Four Barrels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Ulla Challenge",
+    "candidates": [
+      "Open vs. Closed",
+      "Three Authorities",
+      "Expert Requirement",
+      "Ulla Challenge",
+      "Fish Reproduction",
+      "Zeira Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 3 ('Ulla Challenge') describes: Rav Beruna/Rav's ruling about experts, Ulla's contradiction to Rabbi Dostai, and the baraita distinguishing non-kosher fish (viviparous) from kosher fish (egg-laying), which is precisely the content of this Gemara excerpt.",
+      "chosen_heading": "Ulla Challenge",
+      "current_heading": "Ulla Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Zeira Correction",
+    "candidates": [
+      "Fish Reproduction",
+      "Zeira Correction",
+      "Roe Characteristics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Zeira's objection to deletion and the internal/external propagation distinction, which is precisely what the 'Zeira Correction' prose discusses in detail.",
+      "chosen_heading": "Zeira Correction",
+      "current_heading": "Zeira Correction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Roe Characteristics",
+    "candidates": [
+      "Roe Characteristics",
+      "Expert Still Needed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Roe Characteristics",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Gemara's question about why an expert is needed when one can check signs, the baraita about simanei beitzim/dagim, and the correction to uvrei dagim \u2014 all of which are explicitly discussed in the 'Roe Characteristics' prose.",
+      "second_heading": "Expert Still Needed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 details the actual signs of bird eggs and ends with Rava's answer (keshenimochu) explaining why an expert is still needed even when signs exist \u2014 which is precisely what the 'Expert Still Needed' prose discusses.",
+      "current_heading": "Roe Characteristics",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Expert Still Needed",
+    "candidates": [
+      "Expert Still Needed",
+      "Processor Claim",
+      "Show Fish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Dostai of Biri's position on deleting 'ubaran,' the reinterpretation of the baraita to reference fish innards rather than roe, and the swim bladder example \u2014 all of which are explicitly described in the 'Expert Still Needed' prose section.",
+      "chosen_heading": "Expert Still Needed",
+      "current_heading": "Expert Still Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Show Fish",
+    "candidates": [
+      "Processor Claim",
+      "Show Fish",
+      "Chiltis Leaf",
+      "Olive Cakes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Processor Claim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers both Rav Yehuda's and Rav Na\u1e25man's rulings on what suffices when no expert is present, which maps to candidate 0 ('Processor Claim') since that section's prose introduces the no-mumche scenario and Rav Yehuda's leniency, while candidate 1 ('Show Fish') also discusses this material \u2014 but the combined content of both rulings plus Rav Yehuda's instruction to Ada fits best under candidate 0 as the starting point of this dispute, with candidate 1's prose actually describing the same passage; however, since candidate 0's prose explicitly introduces the no-mumche context and Rav Yehuda's ruling first, and candidate 1 merely elaborates Rav Na\u1e25man's stringency and Ada's instruction, item 1 belongs under candidate 0.",
+      "second_heading": "Chiltis Leaf",
+      "second_confidence": "high",
+      "second_reason": "Item 2 begins a new Mishnah topic (the leaf of \u1e25iltit) that is entirely unrelated to fish roe expertise, matching candidate 2 ('Chiltis Leaf') whose prose directly discusses the aleh chiltit ruling and the ishtaruki explanation.",
+      "current_heading": "Show Fish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Olive Cakes",
+    "candidates": [
+      "Chiltis Leaf",
+      "Olive Cakes",
+      "Marketplace Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses rolled olive cakes (zeitei gluskaot hamigulgalim) and their softness due to oil rather than wine, which is precisely what the 'Olive Cakes' section prose describes.",
+      "chosen_heading": "Olive Cakes",
+      "current_heading": "Olive Cakes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Marketplace Wine",
+    "candidates": [
+      "Marketplace Wine",
+      "Produce Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses overripe olives and their definition, which fits under 'Produce Rules' where the prose covers rules governing various produce items, rather than under 'Marketplace Wine' which specifically discusses locusts and wine sprinkled in the marketplace.",
+      "chosen_heading": "Produce Rules",
+      "current_heading": "Marketplace Wine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Produce Rules",
+    "candidates": [
+      "Marketplace Wine",
+      "Produce Rules",
+      "Rabbi Illness",
+      "Yishmael Account"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a baraita detailing rules for locusts, caper buds, leeks, and apple wine based on their source (storehouse/storeroom/ship vs. marketplace), which directly matches the 'Produce Rules' section prose describing exactly this baraita and its content.",
+      "chosen_heading": "Produce Rules",
+      "current_heading": "Produce Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Yishmael Account",
+    "candidates": [
+      "Rabbi Illness",
+      "Yishmael Account",
+      "Cider Search"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the entire narrative including Rabbi's stomach ailment, his question about apple wine, Rabbi Yishmael's response, and Rabbi's rebuke \u2014 all of which begins with Rabbi's illness, making heading 0 ('Rabbi Illness') the best match as it introduces this complete episode, while the current placement under 'Yishmael Account' only captures part of the story.",
+      "chosen_heading": "Rabbi Illness",
+      "current_heading": "Yishmael Account",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Cider Search",
+    "candidates": [
+      "Yishmael Account",
+      "Cider Search",
+      "Praise",
+      "Suspect Kohen",
+      "Storage Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi's recovery and his declaration of praise ('Baruch HaMakom shemasar olamo leshomrim'), which matches the 'Praise' section's prose about Rabbi declaring gratitude upon his recovery.",
+      "chosen_heading": "Praise",
+      "current_heading": "Cider Search",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      170,
+      171
+    ],
+    "current_heading": "Storage Leniency",
+    "candidates": [
+      "Praise",
+      "Suspect Kohen",
+      "Storage Leniency",
+      "Rabbi Meir",
+      "Rabbis",
+      "Rabban Shimon",
+      "Meir Minority"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Suspect Kohen",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the suspect kohen and the teruma leniency for goods from storehouse/storeroom/basket, which matches the 'Suspect Kohen' prose describing Rav Sheshet's interpretation of vechen litruma \u2014 the current placement under 'Storage Leniency' splits what is really one continuous ruling across two headings, but candidate 1 is the better single home since it introduces the whole topic including the storehouse leniency.",
+      "second_heading": "Storage Leniency",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the hadran closing formula marking the end of the second perek, which the 'Storage Leniency' prose explicitly notes concludes the second chapter \u2014 this formulaic chapter-closing line belongs with that section's concluding remarks.",
+      "current_heading": "Storage Leniency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      183,
+      184
+    ],
+    "current_heading": "Meir Minority",
+    "candidates": [
+      "Rabbi Meir",
+      "Rabbis",
+      "Rabban Shimon",
+      "Meir Minority",
+      "Rabbis Indifference"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Meir",
+      "first_confidence": "high",
+      "first_reason": "The Mishna presents the full three-way dispute (Rabbi Meir, Rabbis, Rabban Shimon ben Gamliel) which begins under the 'Rabbi Meir' heading that introduces this Mishna's opening ruling.",
+      "second_heading": "Meir Minority",
+      "second_confidence": "high",
+      "second_reason": "The Gemara passage explains why Rabbi Meir and the Rabbis disagree \u2014 specifically the minority-locale argument \u2014 which matches exactly the 'Meir Minority' prose about Rabbi Meir being chaish l'miuta and extending the prohibition from his locale to all places.",
+      "current_heading": "Meir Minority",
+      "moved": true
+    }
+  }
+]

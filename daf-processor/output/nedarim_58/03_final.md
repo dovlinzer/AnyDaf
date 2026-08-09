@@ -1,12 +1,9 @@
-# Nedarim 58 — Daf Yomi Shiur
-
+[DAF:58a]
 ## Core Negation Question
 
-### Forbidden Growth Setup
 
-> **Hebrew/Aramaic:** גְּמָ׳ הָאוֹמֵר לְאִשְׁתּוֹ ״קֻוֽנָּם מַעֲשֵׂה יָדַיִךְ עָלַי״, ״קֻוֽנָּם הֵן עַל פִּי״, ״קֻוֽנָּם הֵן לְפִי וְכוּ׳״, יִשְׁמָעֵאל אִישׁ כְּפַר יַמָּא, וְאָמְרִי לַהּ אִישׁ כְּפַר דְּיַמָּא, הֶעֱלָה בְּיָדוֹ בָּצָל שֶׁעֲקָרוֹ בַּשְּׁבִיעִית, וּנְטָעוֹ בַּשְּׁמִינִית, וְרַבּוּ גִּידּוּלָיו עַל עִיקָּרוֹ. וְהָכִי קָא מִיבַּעְיָא לֵיהּ: גִּידּוּלָיו הֶיתֵּר וְעִיקָּרוֹ אָסוּר, כֵּיוָן דְּרָבוּ גִּידּוּלָיו מֵעִיקָּרוֹ — אוֹתָן גִּידּוּלֵי הֶיתֵּר מַעֲלִין אֶת הָאִיסּוּר, אוֹ לָא?
->
-> **Translation:** GEMARA: We learned in the mishna: For **one who says to his wife: Your handicraft is *konam* upon me,** or **it is *konam* upon my mouth,** or **it is *konam* to my mouth,** it is prohibited to benefit from her handicraft. **Yishmael, a man of Kefar Yamma, and some say, a man of Kefar Dima, raised** a dilemma with regard to **an onion that one uprooted during** the **Sabbatical Year,** which was therefore sanctified with the sanctity of the Sabbatical Year, **and** he then **planted it during the eighth** year, **and its growths** that developed in the eighth year **exceeded its principal** original Sabbatical-Year onion. **And this is the dilemma that he raised: Its** eighth-year **growth is permitted, and its** Sabbatical-Year **principal** is **prohibited. Since its growth exceeded its principal,** do **those permitted growths neutralize the prohibition** of the onion, **or** do they **not?**
+
+### Forbidden Growth Setup
 
 Today's *daf* is 58, and we pick up at the bottom of 57b, in the middle of a discussion that will carry through to the end of the tractate. The question the *gemara* is grappling with is this: if something is forbidden and continues to grow — a plant or produce that carries a certain *halachic* status — can the new growth negate the forbidden core?
 
@@ -22,21 +19,21 @@ The *gemara*, however, seems to be asking a *bittul* question: can the new growt
 
 ### Amoraic Positions
 
-> **Hebrew/Aramaic:** אֲתָא לְקַמֵּיהּ דְּרַבִּי יִצְחָק נַפָּחָא, פְּשַׁט לֵיהּ מִן הָדָא דְּאָמַר רַבִּי חֲנִינָא תְּרִיתָאָה אָמַר רַבִּי יַנַּאי: בָּצָל שֶׁל תְּרוּמָה שֶׁנְּטָעוֹ, וְרַבּוּ גִּידּוּלָיו עַל עִיקָּרוֹ — מוּתָּר. אֲמַר לֵיהּ רַבִּי יִרְמְיָה וְאִיתֵּימָא רַבִּי זְרִיקָא: שָׁבֵיק מָר תְּרֵין וְעָבֵיד כְּחַד?! מַאן נִינְהוּ תְּרֵין? דְּאָמַר רַבִּי אֲבָהוּ אָמַר רַבִּי יוֹחָנָן: יַלְדָּה שֶׁסִּיבְּכָהּ בִּזְקֵינָהּ, וּבָהּ פֵּירוֹת, אַף עַל פִּי שֶׁהוֹסִיפָה מָאתַיִם — אָסוּר. וְאָמַר רַבִּי שְׁמוּאֵל בַּר רַבִּי נַחְמָנִי אָמַר רַבִּי יוֹנָתָן: בָּצָל שֶׁנְּטָעוֹ בַּכֶּרֶם, וְנֶעֱקַר הַכֶּרֶם — אָסוּר.
->
-> **Translation:** Yishmael **came** and raised the dilemma **before Rabbi Yitzḥak Nappaḥa,** who **resolved** it **for him from** that **which Rabbi Ḥanina Terita'a said** that **Rabbi Yannai said:** With regard to **an onion of *teruma* that one planted,** if **its growths exceeded its principal,** it **is permitted.** Here too, the eighth-year growth should neutralize the prohibition of the Sabbatical-Year onion. **Rabbi Yirmeya said, and some say** it was **Rabbi Zerika** who said to Rabbi Yitzḥak Nappaḥa: **Did the Master abandon** the opinion of **two** Sages **and conduct** himself **in accordance with** the opinion of **one** Sage? The Gemara asks: **Who are they,** the **two** Sages who disagree with his opinion? The Gemara answers: It is **as Rabbi Abbahu said** that **Rabbi Yoḥanan said:** With regard to **a young** vine within three years of its planting, whose fruits are *orla* and forbidden, **that one grafted onto an old,** permitted vine, **and there were fruits on** the younger vine, **even though** the younger vine **added two hundred** times the number of fruits that were there when it was grafted, and those additional fruits are permitted because they draw their nourishment from the older vine, the fruit that was on the younger vine before it was grafted is **forbidden.** Although, in principle, when the permitted part of the mixture is two hundred times the forbidden *orla*, the prohibition is neutralized, in this case, the prohibition is not neutralized, as the forbidden fruit was there from the outset. **And Rabbi Shmuel bar Rabbi Naḥmani said** that **Rabbi Yonatan said:** With regard to **an onion that one planted in a vineyard,** creating a forbidden mixture of food crops in a vineyard, **and** then **the vineyard was uprooted,** and most of the onion grew in a permitted manner, it is **forbidden.** Apparently, both Rabbi Yoḥanan and Rabbi Yonatan disagree with the opinion of Rabbi Yannai, and therefore, there is no clear resolution to the dilemma.
-
 The *gemara* has already established that this is an *amoraic* dispute. *Rabbi Yitzchak* held that the new growth can negate the core — that the permissible growth can apply *bittul* and render the mixture permitted. *Rabbi Yochanan* and *Rabbi Yonasan*, by contrast, held that it cannot — the core remains forbidden regardless of how much grows around it.
 
 ---
 
 ## Davar Sheyesh Matirin
 
+
+
 ### Baraita Examples
 
-> **Hebrew/Aramaic:** אֶלָּא, מִן הָדָא דְּתַנְיָא, רַבִּי שִׁמְעוֹן אוֹמֵר: כׇּל דָּבָר שֶׁיֵּשׁ לוֹ מַתִּירִין, כְּגוֹן טֶבֶל וּמַעֲשֵׂר שֵׁנִי וְהֶקְדֵּשׁ וְחָדָשׁ — לֹא נָתְנוּ בָּהֶן חֲכָמִים שִׁיעוּר. וְכׇל דָּבָר שֶׁאֵין לוֹ מַתִּירִין, כְּגוֹן תְּרוּמָה וּתְרוּמַת מַעֲשֵׂר וְחַלָּה וְעׇרְלָה וְכִלְאֵי הַכֶּרֶם — נָתְנוּ בָּהֶם חֲכָמִים שִׁיעוּר.
->
-> **Translation:** **Rather,** proof may be cited from **this** source; **as it is taught** in a *baraita* that **Rabbi Shimon says: For any item that can become permitted,** i.e., a forbidden object whose prohibition can or will lapse, **for example, untithed produce** that can be permitted through tithing, **and second tithe** that is permitted through redemption or bringing it to Jerusalem (Deuteronomy 14:24–26), **and consecrated items** that are also permitted through redemption, **and** produce of the **new** crop that is permitted after the sacrifice of the *omer* offering (Leviticus 23:14), **the Sages did not determine a measure for their** neutralization, and no mixture with any quantity of permitted items neutralizes their prohibition. **And** for **any item that cannot become permitted, for example, *teruma*, and *teruma* of the tithe, and *ḥalla*** (Numbers 15:20–21); **fruit of a tree during the first three years after its planting [*orla*]; and forbidden food crops in a vineyard** (Deuteronomy 22:9), **the Sages determined a measure for their** neutralization.
+> **Hebrew/Aramaic:** אֶלָּא, מִן הָדָא דְּתַנְיָא, רַבִּי שִׁמְעוֹן אוֹמֵר:
+> **Translation:** **Rather,** proof may be cited from **this** source; **as it is taught** in a *baraita* that **Rabbi Shimon says:**
+
+> **Hebrew/Aramaic:** כׇּל דָּבָר שֶׁיֵּשׁ לוֹ מַתִּירִין, כְּגוֹן טֶבֶל וּמַעֲשֵׂר שֵׁנִי וְהֶקְדֵּשׁ וְחָדָשׁ — לֹא נָתְנוּ בָּהֶן חֲכָמִים שִׁיעוּר. וְכׇל דָּבָר שֶׁאֵין לוֹ מַתִּירִין, כְּגוֹן תְּרוּמָה וּתְרוּמַת מַעֲשֵׂר וְחַלָּה וְעׇרְלָה וְכִלְאֵי הַכֶּרֶם — נָתְנוּ בָּהֶם חֲכָמִים שִׁיעוּר.
+> **Translation:** For **any item that can become permitted,** i.e., a forbidden object whose prohibition can or will lapse, **for example, untithed produce** that can be permitted through tithing, **and second tithe** that is permitted through redemption or bringing it to Jerusalem (Deuteronomy 14:24–26), **and consecrated items** that are also permitted through redemption, **and** produce of the **new** crop that is permitted after the sacrifice of the *omer* offering (Leviticus 23:14), **the Sages did not determine a measure for their** neutralization, and no mixture with any quantity of permitted items neutralizes their prohibition. **And** for **any item that cannot become permitted, for example, *teruma*, and *teruma* of the tithe, and *ḥalla*** (Numbers 15:20–21); **fruit of a tree during the first three years after its planting [*orla*]; and forbidden food crops in a vineyard** (Deuteronomy 22:9), **the Sages determined a measure for their** neutralization.
 
 We now pick up at the bottom of 57b, where the *gemara* introduces a *baraita* that will anchor the discussion. *Rabbi Shimon* states: *kol davar sheyesh lo matirin* — anything that has a path to permissibility — is never subject to *bittul*, regardless of the quantities involved. What does he mean by a path to permissibility?
 
@@ -54,15 +51,13 @@ One might observe something philosophically striking about this principle. An it
 
 ### No Path to Permissibility
 
-### Shevi'it Challenge
-
-> **Hebrew/Aramaic:** אָמְרוּ לוֹ: וַהֲלֹא שְׁבִיעִית אֵין לָהּ מַתִּירִין, וְלֹא נָתְנוּ בָּהּ חֲכָמִים שִׁיעוּר. דִּתְנַן: הַשְּׁבִיעִית אוֹסֶרֶת כׇּל שֶׁהוּא בְּמִינָהּ! אָמַר לָהֶן: אַף אֲנִי לֹא אָמַרְתִּי אֶלָּא לְבִיעוּר. אֲבָל לַאֲכִילָה בְּנוֹתֵן טַעַם.
->
-> **Translation:** The Rabbis **said to** Rabbi Shimon: **But isn't Sabbatical-Year** produce **an item that cannot become permitted, and** nevertheless, **the Sages did not determine a measure for its** neutralization, **as we learned** in a mishna (*Shevi'it* 7:7): **The Sabbatical-Year** produce **prohibits** permitted produce **of its** own **species** with which it is mixed **in any amount.** Rabbi Shimon **said to them: I too said** that Sabbatical-Year produce prohibits permitted produce in a mixture and permitted growths that develop from it **only** with regard **to** the **removal** of the produce. Sabbatical-Year produce may be eaten only as long as produce of that species remains in the field, after which it must be removed from one's possession. Since it is permitted to eat the produce before that time, its legal status during this period is that of an item that can become permitted. **However,** with regard **to** the permissibility of **eating** Sabbatical-Year produce after the time of removal has passed, when eating that produce is prohibited, **the Sages determined a measure for their neutralization. The mixture is forbidden only if the measure of that produce is enough **to impart flavor** to the mixture.**
-
 *Rabbi Shimon* continues: *v'chol davar she'ein lo matirin* — anything that has no path to permissibility. Here he lists *terumah*, *trumas maaser*, *challah*, *orlah*, and *kilay hakerem*. None of these has any mechanism by which it ceases to be what it is. *Terumah* will always be *terumah*; *orlah* will always be *orlah* from those trees; *kilayim* will always retain its status. In these cases, the rabbis *did* establish a quantity threshold — and it is worth noting that for agricultural forbidden items, the threshold is higher than the standard sixty-to-one ratio. For *terumah* the ratio is one hundred to one; for *orlah* and *kilayim* it is two hundred to one. Nevertheless, once the mixture crosses that threshold, the forbidden item is *batel*.
 
+This stands in pointed contrast to the *davar sheyesh lo matirin* cases discussed above. There, even one part in a thousand cannot be nullified; here, a finite — if elevated — ratio suffices. The difference in threshold is itself worth pausing on: sixty, one hundred, two hundred are all meaningfully distinct stopping points, yet they share the same underlying logic that at some sufficient dilution, the forbidden presence dissolves. That the ratios climb higher for these agricultural categories reflects the seriousness of their status, but the principle of *bittul* still applies to them in a way it simply does not for items that retain a path to becoming permitted.
+
 A brief technical footnote: all of the above applies when the mixture is *min b'mino* — the same species mixed with the same species, apples with apples, grain with grain. If the forbidden item falls into something of a different species — *eino mino* — then even a *davar sheyesh lo matirin* would be *batel* at the standard sixty-to-one ratio. But all of *Rabbi Shimon*'s analysis pertains to the case of like mixed with like.
+
+### Shevi'it Challenge
 
 The rabbis respond to *Rabbi Shimon*: *v'halo shevi'it ein la matirin* — *shevi'it* has no path to permissibility. Once produce carries the status of the seventh year, that status never goes away. You must eat it in accordance with its sanctity; you cannot treat it casually or dispose of it; and once the time of *bi'ur* arrives — when that species of produce is no longer available in the fields for animals to eat — you must actually destroy it. There is no mechanism by which *shevi'it* produce simply loses its status. And yet, says the *gemara*, *velo nasnu bah chachamim shiur* — even *shevi'it* is not subject to *bittul*. The *mishnah* in *shevi'it* states: *hashevi'it oseret kol shehu beminah* — produce with *shevi'it* status, when mixed with its own kind, renders the entire mixture forbidden even in the most minute quantity.
 
@@ -76,7 +71,14 @@ This requires explanation. *Shevi'it* produce carries two distinct *halachic* di
 
 The difficulty is that neither of these statuses seems to constitute *yesh lo matirin* in any obvious sense. Neither one provides a mechanism by which the *shevi'it* status simply dissolves.
 
+> **Hebrew/Aramaic:** אָמְרוּ לוֹ: וַהֲלֹא שְׁבִיעִית אֵין לָהּ מַתִּירִין, וְלֹא נָתְנוּ בָּהּ חֲכָמִים שִׁיעוּר. דִּתְנַן: הַשְּׁבִיעִית אוֹסֶרֶת כׇּל שֶׁהוּא בְּמִינָהּ! אָמַר לָהֶן: אַף אֲנִי לֹא אָמַרְתִּי אֶלָּא לְבִיעוּר.
+> **Translation:** The Rabbis **said to** Rabbi Shimon: **But isn’t Sabbatical-Year** produce **an item that cannot become permitted, and** nevertheless, **the Sages did not determine a measure for its** neutralization, **as we learned** in a mishna (*Shevi’it* 7:7): **The Sabbatical-Year** produce **prohibits** permitted produce **of its** own **species** with which it is mixed **in any amount.** Rabbi Shimon **said to them: I too said** that Sabbatical-Year produce prohibits permitted produce in a mixture and permitted growths that develop from it **only** with regard **to** the **removal** of the produce. Sabbatical-Year produce may be eaten only as long as produce of that species remains in the field, after which it must be removed from one’s possession. Since it is permitted to eat the produce before that time, its legal status during this period is that of an item that can become permitted.
+
+> **Hebrew/Aramaic:** אֲבָל לַאֲכִילָה בְּנוֹתֵן טַעַם. וְדִלְמָא הָא נָמֵי לְחוּמְרָא שָׁאנֵי!
+> **Translation:** **However,** with regard **to** the permissibility of **eating** Sabbatical-Year produce after the time of removal has passed, when eating that produce is prohibited, the Sages determined a measure for their neutralization. The mixture is forbidden only if the measure of that produce is enough **to impart flavor** to the mixture. Apparently, permitted growths can neutralize the prohibition of the original item. The Gemara rejects the proof: **And perhaps here too,** it **is different** when the ruling **is a stringency.** In this case, the stringency is that the original item is sacred with the sanctity of the Sabbatical Year. However, here too, there is no proof that the same would be true in cases where the result is a leniency.
+
 ### Rishonim Reframe
+
 
 This is where the *rishonim* significantly reinterpret what *Rabbi Shimon* is saying. The *Ran* reads the passage as follows. *Rabbi Shimon*'s answer is that the rabbis who challenged him were only correct with respect to *bi'ur* — that is, regarding the *halacha* of eating the produce before *bi'ur* arrives. During that period, even though the produce has *shevi'it* status and you cannot simply flush it away, you *can* eat it. It is, in a sense, workable — you can operate within its parameters. And that, says the *Ran*, constitutes a kind of *yesh lo matirin*: not that the status will disappear, but that there is a permissible way to engage with the item. That is why, during the eating period, *bittul* does not apply — since just as with classic *yesh lo matirin*, you should simply eat it in the proper manner rather than dissolve it into a mixture.
 
@@ -88,7 +90,7 @@ Returning to the text: *amru lo: velo shevi'it ein lo matirin, detnan: hashevi'i
 
 The *Ran* makes explicit what the words seem to invert: *af heim lo amru she'hashevi'it oseret b'chol shehu b'minah ella l'inyan she'tzarich le'echol hata'aroves kodem habi'ur* — they only said that *shevi'it* is not *batel* regarding the requirement to eat the mixture before *bi'ur*. *V'keivan she'efshar le'ochla, havei lei k'davar sheyesh lo matirin* — since one can eat it, it functions like *yesh lo matirin*, and therefore *bittul* does not apply.
 
-To sharpen the logic: *bittul* functions by declaring the forbidden component nonexistent, effectively eliminating the need to comply with its *halachic* demands. But if the item can simply be eaten — if compliance is easy and available — then *bittul* does not dissolve the status; instead, the mixture must be treated with *kedushat shevi'it*, handled properly, and eaten before *bi'ur*. It cannot be discarded as if the *shevi'it* component were not there.
+To sharpen the logic: *bittul* functions by declaring the forbidden component nonexistent, effectively eliminating the need to comply with its *halachic* demands. But if the item can simply be eaten — if compliance is easy and available — then *bittul* does not dissolve the status; instead, the mixture must be treated with *kedushat shevi'it*, handled properly, and eaten before *bi'ur*. It cannot be discarded as if the *shevi'it* component were not there. It is worth noting, though, that the *shevi'it* status does still carry real restrictions — one cannot sell the produce or use it for commerce — so the claim is not that the status is toothless, only that it is not so severe as to constitute a genuine prohibition on engaging with the item, which is precisely what tips it into the category of *yesh lo matirin*.
 
 With this, the *gemara*'s engagement with *Rabbi Shimon*'s principle is complete, and we turn to the central question of whether new growth can negate a forbidden core.
 
@@ -96,11 +98,13 @@ With this, the *gemara*'s engagement with *Rabbi Shimon*'s principle is complete
 
 ## Onion Growth Case
 
+
+
 ### Onion Color Test
 
-> **Hebrew/Aramaic:** אֶלָּא מִן הָדָא פַּשְׁטַהּ, דִּתְנַן: בְּצָלִים שֶׁיָּרְדוּ עֲלֵיהֶם גְּשָׁמִים וְצָמְחוּ, אִם הָיוּ עָלִין שֶׁלָּהֶן שְׁחוֹרִין — אֲסוּרִין. הוֹרִיקוּ — מוּתָּרִין. רַבִּי חֲנַנְיָא בֶּן אַנְטִיגְנוֹס אוֹמֵר: אִם יְכוֹלִין לִיתָּלֵשׁ בֶּעָלִין שֶׁלָּהֶן — אֲסוּרִין. וּכְנֶגְדָּן, לְמוֹצָאֵי שְׁבִיעִית — מוּתָּרִין. לְמֵימְרָא דְּגִידּוּלֵי הֶיתֵּר מַעֲלִין אֶת הָאִיסּוּר. וְדִלְמָא בִּמְדוּכָּנִין.
->
-> **Translation:** **Rather,** Yishmael of Kefar Yamma **resolved** his dilemma **from this** source, **as we learned** in a mishna (*Shevi'it* 6:3): With regard to sixth-year **onions upon which rain fell** during the Sabbatical Year, **and they sprouted, if their leaves were black [*sheḥorin*],** i.e., dark green, an indication of fresh, recent growth, the onions are **forbidden** as Sabbatical-Year growth. If their leaves **turned green [*horiku*],** i.e., lighter and yellower, and appeared withered, the onions are **permitted,** as they are considered a product of the sixth year. **Rabbi Ḥanina ben Antigonus says:** There is a different indicator; **if** the plants **can be uprooted by their leaves,** clearly the leaves are fresh and recent, and they are **forbidden. And** in the **parallel** situation, if that indicator was discovered in a Sabbatical-Year onion that sprouted **at the conclusion of the Sabbatical Year,** i.e., during the eighth year, the onions are **permitted.** The Gemara asks: **Is this to say** that one may conclude from here that **permitted growth neutralizes the prohibition** of the original plant? The Gemara rejects this conclusion: **And perhaps** the *halakha* is **with regard to crushed [*medukhanin*],** pounded onions, and the reason that the prohibition of the original plant is neutralized is not that the permitted growth neutralizes the prohibition, but that it is no longer fit for consumption.
+> **Hebrew/Aramaic:** אֶלָּא מִן הָדָא פַּשְׁטַהּ, דִּתְנַן: בְּצָלִים שֶׁיָּרְדוּ עֲלֵיהֶם גְּשָׁמִים וְצָמְחוּ, אִם הָיוּ עָלִין שֶׁלָּהֶן שְׁחוֹרִין — אֲסוּרִין. הוֹרִיקוּ — מוּתָּרִין.
+> **Translation:** **Rather,** Yishmael of Kefar Yamma **resolved** his dilemma **from this** source, **as we learned** in a mishna (*Shevi’it* 6:3): With regard to sixth-year **onions upon which rain fell** during the Sabbatical Year, **and they sprouted, if their leaves were black [*sheḥorin*],** i.e., dark green, an indication of fresh, recent growth, the onions are **forbidden** as Sabbatical-Year growth. If their leaves **turned green [*horiku*],** i.e., lighter and yellower, and appeared withered, the onions are **permitted,** as they are considered a product of the sixth year.
+
 
 The *gemara* now turns to a *mishnah* to test the principle. *Betzalim sheyardu aleihem geshamim* — onions upon which rain fell. The scenario is as follows: onions that were growing in the sixth year continue into the seventh year. The question is whether any significant growth occurred during *shemittah* or whether the onion essentially completed its growth in the sixth year. *Im hayu alim shelahem shchorim, assurim* — if the leaves were dark or black-colored, the onion is forbidden, indicating that enough growth occurred during *shemittah* to give it *shevi'it* status. *Horiku, mutarim* — if they turned bright green, the onion is permitted, indicating that the growth had essentially concluded in the sixth year, or that any additional growth was driven by rainfall rather than by the *shemittah* ground.
 
@@ -108,13 +112,12 @@ The precise mechanism by which leaf color indicates the nature of growth is not 
 
 ### Leaf Strength Test
 
+> **Hebrew/Aramaic:** רַבִּי חֲנַנְיָא בֶּן אַנְטִיגְנוֹס אוֹמֵר: אִם יְכוֹלִין לִיתָּלֵשׁ בֶּעָלִין שֶׁלָּהֶן — אֲסוּרִין. וּכְנֶגְדָּן, לְמוֹצָאֵי שְׁבִיעִית — מוּתָּרִין. לְמֵימְרָא דְּגִידּוּלֵי הֶיתֵּר מַעֲלִין אֶת הָאִיסּוּר. וְדִלְמָא בִּמְדוּכָּנִין.
+> **Translation:** **Rabbi Ḥanina ben Antigonus says:** There is a different indicator; **if** the plants **can be uprooted by their leaves,** clearly the leaves are fresh and recent, and they are **forbidden. And** in the **parallel** situation, if that indicator was discovered in a Sabbatical-Year onion that sprouted **at the conclusion of the Sabbatical Year,** i.e., during the eighth year, the onions are **permitted.** The Gemara asks: **Is this to say that** one may conclude from here that **permitted growth neutralizes the prohibition** of the original plant? The Gemara rejects this conclusion: **And perhaps** the *halakha* is **with regard to crushed [*medukhanin*],** pounded onions, and the reason that the prohibition of the original plant is neutralized is not that the permitted growth neutralizes the prohibition, but that it is no longer fit for consumption.
+
 *Rabbi Chanina ben Antignos* offers an alternative diagnostic criterion: *im yecholim lehitaresh ba'alim shelahem, assurim* — if the leaves are strong enough that one could pull the onion up by them, the onion is forbidden, as this demonstrates that significant growth occurred during *shemittah* and that the leaves are robustly connected in a way that reflects continued growth during the seventh year.
 
 ### Growth Negates Core
-
-> **Hebrew/Aramaic:** לְמֵימְרָא דְּגִידּוּלֵי הֶיתֵּר מַעֲלִין אֶת הָאִיסּוּר. וְדִלְמָא בִּמְדוּכָּנִין.
->
-> **Translation:** The Gemara asks: **Is this to say** that one may conclude from here that **permitted growth neutralizes the prohibition** of the original plant? The Gemara rejects this conclusion: **And perhaps** the *halakha* is **with regard to crushed [*medukhanin*],** pounded onions, and the reason that the prohibition of the original plant is neutralized is not that the permitted growth neutralizes the prohibition, but that it is no longer fit for consumption.
 
 The *gemara* draws an inference from the *mishnah*. In the case of an onion growing from the seventh year into the eighth: if the color of the leaves or their strength indicates that growth continued into the eighth year, the onion becomes *permitted*. But wait — the core of the onion grew during *shemittah*. How is it permitted? Does this not show that *gidulei heter ma'alin et ha'issur* — permissible new growth negates the forbidden core? This would appear to vindicate *Rabbi Yitzchak*'s lenient position and contradict *Rabbi Yochanan* and *Rabbi Yonasan*.
 
@@ -126,23 +129,30 @@ The *gemara* deflects: *vedilma bimduchanim* — perhaps the case of the *mishna
 
 ## Samaritan Weeding
 
+
+
+[DAF:58b]
 ### Field Worker Scenario
 
-> **Hebrew/Aramaic:** הַמְנַכֵּשׁ עִם הַכּוּתִי בַּחֲסִיּוֹת — אוֹכֵל מֵהֶן אֲכִילַת עֲרַאי, וּמְעַשְּׂרָן וַדַּאי. רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: אִם יִשְׂרָאֵל חָשׁוּד עַל הַשְּׁבִיעִית, לְמוֹצָאֵי שְׁבִיעִית — מוּתָּר.
->
-> **Translation:** **One who weeds *ḥasayot* with a Samaritan may eat a casual meal from them** without tithing, as any untithed produce may be eaten in the framework of a casual meal. **And** when he completes the labor on the *ḥasayot*, places them into a pile, and they require tithing, **he tithes them** as produce that is **definitely** obligated in tithing, not as doubtfully tithed produce, as the assumption is that the Samaritan did not tithe the *ḥasayot*. **Rabbi Shimon ben Elazar says: If** the *ḥasayot* belong to **a Jew** who is **suspect** about observance of **the Sabbatical Year, at the conclusion of the Sabbatical Year** it **is permitted** to weed with him, as there is no concern that there might be Sabbatical-Year sanctity.
-
 The *gemara* tries again from a *baraita*: *hamnakeish im hakuti bechasyos* — someone who is weeding together with a Samaritan among leafy vegetables. The underlying assumption is that the Samaritan does not observe the laws of *terumos u'maasros*, and therefore the produce he planted likely did not have those separations taken from it. Nevertheless, workers are permitted under certain conditions to snack on the produce they are working with — *achilat arai*. The ruling is that one may eat in that manner, but if one receives a portion of the vegetables as wages, those must be treated as definite *tevel* and separated accordingly, since we have no reason to assume the Samaritan separated.
+
+> **Hebrew/Aramaic:** אֶלָּא מִן הָדָא, דְּתַנְיָא:
+> **Translation:** **Rather,** the dilemma can be resolved **from this** source; **as it is taught** in a *baraita*:
+
+> **Hebrew/Aramaic:** הַמְנַכֵּשׁ עִם הַכּוּתִי בַּחֲסִיּוֹת — אוֹכֵל מֵהֶן אֲכִילַת עֲרַאי, וּמְעַשְּׂרָן וַדַּאי.
+> **Translation:** **One who weeds *ḥasayot* with a Samaritan may eat a casual meal from them** without tithing, as any untithed produce may be eaten in the framework of a casual meal. **And** when he completes the labor on the *ḥasayot*, places them into a pile, and they require tithing, **he tithes them** as produce that is **definitely** obligated in tithing, not as doubtfully tithed produce, as the assumption is that the Samaritan did not tithe the *ḥasayot*.
+
+> **Hebrew/Aramaic:** רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: אִם יִשְׂרָאֵל חָשׁוּד עַל הַשְּׁבִיעִית, לְמוֹצָאֵי שְׁבִיעִית — מוּתָּר. לְמֵימְרָא דְּגִידּוּלֵי הֶיתֵּר מַעֲלִין אֶת הָאִיסּוּר, וְדִלְמָא בְּדָבָר שֶׁזַּרְעוֹ כָּלֶה? הָא תַּנְיָא: אֵלּוּ הֵן חֲסִיּוֹת — כְּגוֹן הַלּוּף הַשּׁוּם וְהַבְּצָלִים.
+> **Translation:** **Rabbi Shimon ben Elazar says: If** the *ḥasayot* belong to **a Jew** who is **suspect** about observance of **the Sabbatical Year, at the conclusion of the Sabbatical Year** it **is permitted** to weed with him, as there is no concern that there might be Sabbatical-Year sanctity. The Gemara asks: **Is this to say** that **the permitted growths** of the eighth year **neutralize the prohibition,** and that is why there is no concern about Sabbatical-Year sanctity? The Gemara rejects that inference: **And perhaps** the *tanna* is speaking **with regard to an item whose seeds cease** after it is sown, whose growths neutralize the original prohibition? The Gemara rejects that possibility: **Isn’t it taught** in a *baraita*: **These are *ḥasayot*, for example, arum, garlic, and onions,** whose seeds do not cease?
+
+> **Hebrew/Aramaic:** וְדִלְמָא בִּמְדוּכָּנִין? ״חָשׁוּד עַל הַשְּׁבִיעִית״ קָתָנֵי. וְדִלְמָא בְּתַעֲרוֹבֶת? הַמְנַכֵּשׁ קָתָנֵי.
+> **Translation:** The Gemara asks: **And perhaps** the *tanna* is speaking **with regard to** plants that were **crushed** before they sprouted growths? The Gemara answers: It is the case of one who is **suspect about** observance of **the Sabbatical Year,** that **is taught** in the *baraita*, and one who is suspect would not bother to eliminate the prohibition by crushing it. The Gemara asks: **And perhaps** the *tanna* is speaking **with regard to a mixture** of forbidden *ḥasayot* and permitted ones, and the reason that it is permitted is that the prohibition was neutralized by the majority of permitted *ḥasayot*? The Gemara answers: **One who weeds, is taught** in the *baraita*, indicating that he is eating the leaves as he weeds them, leaving no opportunity for the *ḥasayot* to be mixed with others.
 
 ### Shimon ben Elazar
 
 *Rabbi Shimon ben Elazar* introduces the case directly relevant to our question. *Im Yisrael chashud al hashevi'it* — if instead of a Samaritan, one is working with a Jew who is suspect of not observing *shemittah* properly, such that the seeds or bulbs he planted may have been *shemittah* produce — *lemotzei shevi'it mutar* — once *shemittah* is over and it is the eighth year, one may still eat freely from the vegetables growing in his field.
 
 ### Permits Mixture
-
-> **Hebrew/Aramaic:** לְמֵימְרָא דְּגִידּוּלֵי הֶיתֵּר מַעֲלִין אֶת הָאִיסּוּר. וְדִלְמָא בְּדָבָר שֶׁזַּרְעוֹ כָּלֶה?
->
-> **Translation:** The Gemara asks: **Is this to say** that **the permitted new growth negates the prohibition** of the original plant? The Gemara rejects that inference: **And perhaps** the *tanna* is speaking **with regard to an item whose seeds cease** after it is sown, whose growths neutralize the original prohibition?
 
 The *gemara* draws the inference: *lemimra degidulei heter ma'alin et ha'issur* — this seems to demonstrate conclusively that permissible new growth negates the forbidden core. Here you are, eating from onions in the eighth year, knowing that the core of those onions may have been *shemittah* produce. And yet it is permitted. The new growth in the eighth year appears to negate the original *shemittah* core.
 
@@ -152,19 +162,16 @@ The *gemara* attempts a first deflection: *vedilma bedavar shezaro kalah* — pe
 
 ### Vegetables Confirmation
 
-> **Hebrew/Aramaic:** הָא תַּנְיָא: אֵלּוּ הֵן חֲסִיּוֹת — כְּגוֹן הַלּוּף הַשּׁוּם וְהַבְּצָלִים.
->
-> **Translation:** The Gemara rejects that possibility: **Isn't it taught** in a *baraita*: **These are *ḥasayot*, for example, arum, garlic, and onions,** whose seeds do not cease?
-
 The *gemara* rejects this evasion: *ha tanya — elu hein chasayos: kegon haluf vehashum vehabetzalim* — the *baraita* itself defines what *chasayos* are: the *luf* (some type of onion-family vegetable, possibly a leek), garlic, and onions. These are all vegetables that do not dissolve when planted; the original bulb remains and continues to grow. So we are definitively in the category of *ayin zaro kalah* — the seed does not disintegrate — and the original core is present. The *baraita*'s permissive ruling cannot be explained away by appealing to the disintegration of the original.
 
 ### Ground Again
 
-> **Hebrew/Aramaic:** וְדִלְמָא בִּמְדוּכָּנִין? ״חָשׁוּד עַל הַשְּׁבִיעִית״ קָתָנֵי. וְדִלְמָא בְּתַעֲרוֹבֶת? הַמְנַכֵּשׁ קָתָנֵי.
->
-> **Translation:** The Gemara asks: **And perhaps** the *tanna* is speaking **with regard to** plants that were **crushed** before they sprouted growths? The Gemara answers: It is the case of one who is **suspect about** observance of **the Sabbatical Year,** that **is taught** in the *baraita*, and one who is suspect would not bother to eliminate the prohibition by crushing it. The Gemara asks: **And perhaps** the *tanna* is speaking **with regard to a mixture** of forbidden *ḥasayot* and permitted ones, and the reason that it is permitted is that the prohibition was neutralized by the majority of permitted *ḥasayot*? The Gemara answers: **One who weeds, is taught** in the *baraita*, indicating that he is eating the leaves as he weeds them, leaving no opportunity for the *ḥasayot* to be mixed with others.
 
 The *gemara* tries the earlier deflection: *vedilma bimduchanim* — perhaps the scenario involves ground-up, processed vegetables rather than whole ones, and that is why *bittul* applies.
+
+The *gemara* counters: *chashud al hashevi'is katani* — the *baraita* describes someone who is suspect with regard to *shemittah*. The *rishonim* explain the logic here: the only reason we would read a scenario of ground-up vegetables into the *baraita* is if the person involved were sensitive to the *halachos* and was deliberately trying to find a permissible workaround — grinding up the produce to achieve *bittul*, even though doing so would itself be problematic, a violation of the principle of *ein mevatlin issur l'chatchilah* — one may not nullify a prohibition intentionally in advance. But that motivation only makes sense for someone who knows about the issues and is concerned about them. Someone who is suspect for *shemittah* — meaning he is not scrupulous about these laws — cannot be assumed to have taken such deliberate technical steps. We cannot read into his case a sophisticated maneuver to dissolve the problem through grinding. He is simply there, working in the field, eating from the vegetables. There is no basis to assume the produce was ground up.
+
+The *gemara* therefore tries a different evasion: *vedilma beta'aroves* — perhaps the scenario is not one of eating straight from whole vegetables growing in the ground, but rather one where those vegetables became mixed with other vegetables, and it is that mixture which produces the *bittul*, not the new growth overriding the original core. This sidesteps the problem without conceding the principle at stake.
 
 ### Direct Weeding
 
@@ -174,10 +181,11 @@ The *gemara* refutes this as well: *hamnakeish katani* — the *baraita* explici
 
 ## Shemittah Unique
 
+
+
 ### Shanya Shemittah
 
-> **Hebrew/Aramaic:** לֵימָא תֶּיהְוֵי תְּיוּבְתֵּיהּ דְּרַבִּי יוֹחָנָן וּדְרַבִּי יוֹנָתָן! אָמַר רַבִּי יִצְחָק: שַׁנְיָא שְׁבִיעִית, הוֹאִיל וְאִיסּוּרָהּ עַל יְדֵי קַרְקַע — בְּטִילָתָהּ נָמֵי עַל יְדֵי קַרְקַע.
->
+> **Hebrew/Aramaic:** לֵימָא תֶּיהְוֵי תְּיוּבְתֵּיהּ דְּרַבִּי יוֹחָנָן וּדְרַבִּי יוֹנָתָן! אָמַר רַבִּי יִצְחָק: שַׁנְיָא שְׁבִיעִית, הוֹאִיל וְאִיסּוּרָהּ עַל יְדֵי קַרְקַע — בְּטִילָתָהּ נָמֵי עַל יְדֵי קַרְקַע.
 > **Translation:** The Gemara suggests: **Let us say that this is a conclusive refutation** of the opinions **of Rabbi Yoḥanan and Rabbi Yonatan,** who stated regarding *orla* and food crops in a vineyard that their permitted growth does not neutralize the prohibition of the original fruit or food crops respectively. **Rabbi Yitzḥak said:** The **Sabbatical-Year** produce **is different. Since its prohibition** is engendered **by means of the ground, its nullification is** effected **by means of the ground as well.** The prohibition can be neutralized by means of the growth that results from replanting the forbidden plant in a permitted manner.
 
 Having apparently established a clear proof that *gidulei heter ma'alin et ha'issur*, the *gemara* turns to *Rabbi Yitzchak* for the resolution: *shanya shevi'it ho'il v'issurah al yedei karka bitulah nami al yedei karka* — *shemittah* is different. Since its prohibition operates by virtue of the land, its nullification likewise operates by virtue of the land. This is the *gemara*'s decisive answer. What grows from *shemittah* produce in the eighth year can negate the *shemittah* core — but only because *shemittah* is a unique category. This does not establish a general principle that new growth negates a forbidden core in other domains.
@@ -202,13 +210,14 @@ This reading is not the straightforward *pshat* of the *gemara*, which grounds t
 
 ## Maaser Countercase
 
+
+
 ### Maaser Parallel
 
-> **Hebrew/Aramaic:** הֲרֵי מַעֲשֵׂר, דְּאִיסּוּרוֹ עַל יְדֵי קַרְקַע, וְאֵין בְּטִילָתוֹ עַל יְדֵי קַרְקַע. דְּתַנְיָא: לִיטְרָא מַעֲשֵׂר טֶבֶל שֶׁזְּרָעָהּ בַּקַּרְקַע וְהִשְׁבִּיחָה, וַהֲרֵי הִיא כְּעֶשֶׂר לִיטְרִין — חַיֶּיבֶת בְּמַעֲשֵׂר וּבִשְׁבִיעִית. וְאוֹתָהּ לִיטְרָא, מְעַשְּׂרִין עָלֶיהָ מִמָּקוֹם אַחֵר לְפִי חֶשְׁבּוֹן! אָמְרִי: מַעֲשֵׂר, דִּיגּוּן הוּא דְּקָא גָרֵים לֵיהּ.
->
-> **Translation:** The Gemara asks: Isn't there the case of **tithe, whose prohibition is** engendered **by means of the ground, but its nullification is not** effected **by means of the ground? As it is taught** in a *baraita*: With regard to **a *litra* of untithed** first **tithe** from which the *teruma* of the tithe was not taken, **which one sowed in the ground, and it grew and it is** now **approximately ten *litra*,** that additional growth **is obligated** to have **tithe** taken **and** is subject to the *halakhot* **of Sabbatical-Year** produce. **And** with regard to **that** original ***litra*** of untithed first tithe that he sowed, one **tithes for it from** produce in **a different place,** and not from the *litra* itself, **based on a calculation** of how much *teruma* of the tithe needed to be taken from that litra. Apparently, the growth that results from sowing the first tithe in the ground does not neutralize its prohibition. The Sages of the Gemara **say:** With regard to **tithe,** the ground does not engender the obligation; **placement** of the produce **in a pile engenders** the obligation, as it is only at that point that one is obligated to tithe his produce. Therefore neutralization of the prohibition is not effected by planting it in the ground.
-
 Having established that *shemittah* is exceptional because its prohibition focuses on the land, the *gemara* immediately raises a challenge: *harei maaser de'issura al yedei karka* — *maaser* is also a prohibition that arises from the land. Grain that grows from the land becomes obligated in *maaser* by virtue of having grown from that land. If the land-focus of *shemittah* is what allows the new growth to negate the core, then by the same logic, new growth of *maaser* grain should negate the original untithed core. But the *gemara* is about to show that it does not.
+
+> **Hebrew/Aramaic:** הֲרֵי מַעֲשֵׂר, דְּאִיסּוּרוֹ עַל יְדֵי קַרְקַע, וְאֵין בְּטִילָתוֹ עַל יְדֵי קַרְקַע. דְּתַנְיָא: לִיטְרָא מַעֲשֵׂר טֶבֶל שֶׁזְּרָעָהּ בַּקַּרְקַע וְהִשְׁבִּיחָה, וַהֲרֵי הִיא כְּעֶשֶׂר לִיטְרִין — חַיֶּיבֶת בְּמַעֲשֵׂר וּבִשְׁבִיעִית. וְאוֹתָהּ לִיטְרָא, מְעַשֵּׂר עָלֶיהָ מִמָּקוֹם אַחֵר לְפִי חֶשְׁבּוֹן!
+> **Translation:** The Gemara asks: Isn’t there the case of **tithe, whose prohibition is** engendered **by means of the ground, but its nullification is not** effected **by means of the ground? As it is taught** in a *baraita*: With regard to **a *litra* of untithed** first **tithe** from which the *teruma* of the tithe was not taken, **which one sowed in the ground, and it grew and it is** now **approximately ten *litra*,** that additional growth **is obligated** to have **tithe** taken **and** is subject to the *halakhot* **of Sabbatical-Year** produce. **And** with regard to **that** original ***litra*** of untithed first tithe that he sowed, one **tithes for it from** produce in **a different place,** and not from the *litra* itself, **based on a calculation** of how much *teruma* of the tithe needed to be taken from that litra. Apparently, the growth that results from sowing the first tithe in the ground does not neutralize its prohibition.
 
 ### Grain Growth Case
 
@@ -216,17 +225,23 @@ A *baraita* is cited: *litra maaser tevel* — a measure of *maaser* grain that 
 
 ### Original Remains
 
+
 The ruling of the *baraita* is: *chayaves bemaaser uvishvi'it* — the new produce is fully obligated in *maaser*, and if the year is a *shemittah* year it carries *shevi'it* status, just like any produce that grows that year. So far this is unremarkable. But then: *ve'osah litra* — what of the original single unit that was *tevel*? It has not been negated. One must go and separate *trumas maaser* for that original portion from other, unambiguous *maaser* grain elsewhere. One cannot take the *trumas maaser* from the mixture itself — everything is commingled and indistinguishable — so one separates from a separate known source on behalf of that original unit. The original unit retains its status and requires independent rectification.
 
 This is striking in light of what was just demonstrated about *shemittah*. There we said the new growth negates the core. Here we are saying it does not. And *maaser* grain also grows from the land.
 
 ### Maaser Digun
 
+> **Hebrew/Aramaic:** אָמְרִי: מַעֲשֵׂר, דִּיגּוּן הוּא דְּקָא גָרֵים לֵיהּ.
+> **Translation:** The Sages of the Gemara **say:** With regard to **tithe,** the ground does not engender the obligation; **placement** of the produce **in a pile engenders** the obligation, as it is only at that point that one is obligated to tithe his produce. Therefore neutralization of the prohibition is not effected by planting it in the ground.
+
 The *gemara* resolves this: *maaser digun hu dekagrim lah* — the defining moment of *maaser* obligation is not the land itself but the *digun*, the processing. Grain becomes fully obligated in *terumos u'maasros* only after it has been threshed, winnowed, piled, and the pile smoothed over. That final act of processing is the trigger. Therefore, even though *maaser* grain grows from the land, the essential focus of *maaser* is not "which land did this come from" or "which year did this grow from" — it is "has this grain been processed in the manner that triggers the obligation?" Because the obligation is ultimately keyed to human processing rather than to the identity of the land or the year, the analysis of the *maaser* grain focuses on the grain as an object with its own processing history. And when the analysis focuses on the object rather than on the land-year question, the result is the same as with *terumah* or *orlah*: there is an original component with a problematic status, and new growth around it does not negate that original core.
 
 ---
 
 ## General Rule
+
+
 
 ### Synthesis
 

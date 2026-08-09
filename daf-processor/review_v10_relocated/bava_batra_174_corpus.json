@@ -1,0 +1,238 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Mishna & Limitation",
+    "candidates": [
+      "Opening & Overview",
+      "Kinyan & Asmachta Issues",
+      "Guarantorship: Trust",
+      "Guarantor vs Debtor",
+      "Mishna & Limitation",
+      "Five Gradations (Tosafot)",
+      "Level 1: Basic Areiv",
+      "Level 2: Retained Right",
+      "Level 3: Guarantor Arevim",
+      "Level 4: Kablan Status",
+      "Level 5: Direct Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items discuss the Mishna's condition of collecting from whomever the creditor wishes, Rabbi Yochanan's limitation based on debtor's property, the Gemara's objection from Rabban Shimon ben Gamliel, the chisorei mechasra resolution, and the kablan/Rabban Shimon ben Gamliel dispute \u2014 precisely the content described in the 'Mishna & Limitation' prose.",
+      "chosen_heading": "Mishna & Limitation",
+      "current_heading": "Mishna & Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Level 5: Direct Transfer",
+    "candidates": [
+      "Five Gradations (Tosafot)",
+      "Level 1: Basic Areiv",
+      "Level 2: Retained Right",
+      "Level 3: Guarantor Arevim",
+      "Level 4: Kablan Status",
+      "Level 5: Direct Transfer",
+      "Rav Huna: Language Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yo\u1e25anan's rule that the halakha follows Rabban Shimon ben Gamliel except in three cases, one of which is 'areiv' (guarantor) \u2014 this is the Talmudic source directly relevant to the practical language-test discussion of areiv versus kablan that the 'Rav Huna: Language Test' section introduces, making it the natural lead-in citation for that section rather than belonging under 'Level 5: Direct Transfer'.",
+      "chosen_heading": "Rav Huna: Language Test",
+      "current_heading": "Level 5: Direct Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Rav Huna: Language Test",
+    "candidates": [
+      "Level 5: Direct Transfer",
+      "Rav Huna: Language Test",
+      "Amoraim Debate: Labels"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Huna: Language Test",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rav Huna's ruling on the language of standard vs. unconditional guarantees, which is exactly what candidate 1 ('Rav Huna: Language Test') discusses.",
+      "second_heading": "Amoraim Debate: Labels",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the dilemma of mixed formulations and Rabbi Yitz\u1e25ak's resolution, which is exactly what candidate 2 ('Amoraim Debate: Labels') discusses as the harder cases where verb and label pull in opposite directions.",
+      "current_heading": "Rav Huna: Language Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Amoraim Debate: Labels",
+    "candidates": [
+      "Amoraim Debate: Labels",
+      "Direct Money: Arev Ten Lo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rav \u1e24isda's and Rava's rulings about which expressions default to kablanut vs. arevut, which is precisely the debate described in the 'Amoraim Debate: Labels' prose section.",
+      "chosen_heading": "Amoraim Debate: Labels",
+      "current_heading": "Amoraim Debate: Labels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Direct Money: Arev Ten Lo",
+    "candidates": [
+      "Direct Money: Arev Ten Lo",
+      "Seized Property Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the 'ten lo va-ani noten' formulation and the Gemara's rejection of the claim that the borrower is fully exempted, which is precisely what the prose of candidate 0 describes.",
+      "chosen_heading": "Direct Money: Arev Ten Lo",
+      "current_heading": "Direct Money: Arev Ten Lo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Seized Property Case",
+    "candidates": [
+      "Seized Property Case",
+      "Nichsei K'Areiv Concept",
+      "Attempt Direct First",
+      "Orphans Case: Rav Pappa",
+      "Rav Pappa: Two Readings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the specific case of a judge who permitted a creditor to seize property before lodging a claim against the debtor, and Rav \u1e24anin's reversal \u2014 exactly what the 'Seized Property Case' prose discusses.",
+      "chosen_heading": "Seized Property Case",
+      "current_heading": "Seized Property Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rav Pappa: Two Readings",
+    "candidates": [
+      "Nichsei K'Areiv Concept",
+      "Attempt Direct First",
+      "Orphans Case: Rav Pappa",
+      "Rav Pappa: Two Readings",
+      "Rav Huna: Tzrari Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement articulating the nichsei k'areiv concept and citing the mishna about not collecting from a guarantor first \u2014 exactly what the prose in candidate 0 unpacks in detail.",
+      "chosen_heading": "Nichsei K'Areiv Concept",
+      "current_heading": "Rav Pappa: Two Readings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Rav Huna: Tzrari Issue",
+    "candidates": [
+      "Rav Pappa: Two Readings",
+      "Rav Huna: Tzrari Issue",
+      "When Can Collect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together introduce the case of the guarantor for orphans and present the dispute between Rav Pappa and Rav Huna brei de-Rav Yehoshua \u2014 this is precisely the content that candidate 0 ('Rav Pappa: Two Readings') introduces and analyzes, whereas candidate 1 ('Rav Huna: Tzrari Issue') discusses the tzrari rationale in isolation, presupposing the reader already knows the full dispute setup.",
+      "chosen_heading": "Rav Pappa: Two Readings",
+      "current_heading": "Rav Huna: Tzrari Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "When Can Collect",
+    "candidates": [
+      "When Can Collect",
+      "When Cannot Collect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the cases of chayav modeh and shamta, and the ruling sent from Eretz Yisrael (hilchasa ke-Rav Huna brei de-Rav Yehoshua), which are precisely what the 'When Can Collect' prose discusses.",
+      "chosen_heading": "When Can Collect",
+      "current_heading": "When Can Collect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "When Cannot Collect",
+    "candidates": [
+      "When Cannot Collect",
+      "Non-Jew Creditor Case",
+      "Rav Mordechai: No Tzrari",
+      "Objection: Tzrari Concern"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "When Cannot Collect",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the baraita objection and its resolution regarding the guarantor with a promissory note and the hikbalti clause, which precisely matches the 'When Cannot Collect' prose discussion.",
+      "second_heading": "Non-Jew Creditor Case",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 introduce a new factual scenario involving a gentile creditor and the tzrarei debate, which matches the 'Non-Jew Creditor Case' / 'Rav Mordechai' / 'Objection: Tzrari Concern' sections \u2014 specifically items 4 and 5 together span the Rav Mordechai and Rav Ashi exchange that the Non-Jew Creditor Case heading introduces.",
+      "current_heading": "When Cannot Collect",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,367 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Soneh Matanos Connection",
+    "candidates": [
+      "Honest Ruling Definition",
+      "Intellectual vs. Honesty",
+      "Tosafot's Solution",
+      "Soneh Matanos Connection",
+      "Three Learning Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the two Rav \u1e24isda statements \u2014 the talmid chacham definition and the soneh matanos connection \u2014 which the prose of candidate 3 directly discusses, making the current placement correct.",
+      "chosen_heading": "Soneh Matanos Connection",
+      "current_heading": "Soneh Matanos Connection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Three Learning Stages",
+    "candidates": [
+      "Three Learning Stages",
+      "Reward Pesukim",
+      "Ascetic Examples",
+      "Social Compromise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mar Zutra/Rav \u1e24isda teaching about the three-part formula (reads, studies, serves Torah scholars) and the associated verse, which is precisely what the 'Three Learning Stages' prose discusses in detail.",
+      "chosen_heading": "Three Learning Stages",
+      "current_heading": "Three Learning Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Social Compromise",
+    "candidates": [
+      "Reward Pesukim",
+      "Ascetic Examples",
+      "Social Compromise",
+      "Two Treifah Types",
+      "Combining Small Holes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ascetic Examples",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Rabbi Elazar refusing gifts AND invitations from the Nasi's household, which is the content described under 'Ascetic Examples' \u2014 Rabbi Elazar's total financial independence from communal patronage.",
+      "second_heading": "Social Compromise",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Zeira's explanation ('they are honored by my presence') which is precisely the content described under 'Social Compromise' \u2014 the ityakura reasoning that accepting invitations does not compromise soneh matanos yichyeh.",
+      "current_heading": "Social Compromise",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Combining Small Holes",
+    "candidates": [
+      "Two Treifah Types",
+      "Combining Small Holes",
+      "Skull Analogy",
+      "Yirmiya's Challenge",
+      "Chisaron Answer",
+      "Repetitive Question",
+      "Coin Measurement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Combining Small Holes",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the initial ruling (Rav Yehuda/Rav), Rav Yirmeya's objection from the skull case, and the resolution via the chisaron/non-chisaron distinction \u2014 exactly what heading 1 ('Combining Small Holes') and its chain through 'Skull Analogy'/'Yirmiya's Challenge'/'Chisaron Answer' describe, but since all four candidates 1-4 form one continuous dispute, the current placement under 'Combining Small Holes' is the best single home for items 1-3.",
+      "second_heading": "Repetitive Question",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the exchange where Rabbi Yitzchak bar Nachmani asks the already-answered question and receives the 'harei amru' response, which matches heading 5 ('Repetitive Question') precisely.",
+      "current_heading": "Combining Small Holes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Coin Measurement",
+    "candidates": [
+      "Skull Analogy",
+      "Yirmiya's Challenge",
+      "Chisaron Answer",
+      "Repetitive Question",
+      "Coin Measurement",
+      "Hole Coverage Test",
+      "Tracheal Cracks",
+      "Minimal Intact Ends"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly address the measurement standard for a bird's trachea \u2014 item 1 raises the question and item 2 gives Rabbi Yitzchak bar Nachmani's answer about folding the tissue over the windpipe opening, exactly matching the 'Coin Measurement' prose which describes this precise procedure and the nafya mnemonic.",
+      "chosen_heading": "Coin Measurement",
+      "current_heading": "Coin Measurement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Minimal Intact Ends",
+    "candidates": [
+      "Hole Coverage Test",
+      "Tracheal Cracks",
+      "Minimal Intact Ends",
+      "Shechitah Range"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hole Coverage Test",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers both the door-like hole (niftachah ke-deles, Rav Nachman's ruling) and the cracked trachea (nisdeka, Rav's ruling about one segment at each end), matching Hole Coverage Test's prose about different physical configurations and their thresholds.",
+      "second_heading": "Minimal Intact Ends",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are Rabbi Yochanan's rejection of Rav's 'chulya' requirement in favor of a mere mashu, and his admiring reaction to Rabbi Yonatan's identical ruling \u2014 exactly what the 'Minimal Intact Ends' prose describes in detail.",
+      "current_heading": "Minimal Intact Ends",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Shechitah Range",
+    "candidates": [
+      "Shechitah Range",
+      "Anatomical Orientation",
+      "Stretched Neck Issue",
+      "Grazing Stretch Test",
+      "Teiku on Self-Stretch"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Chiyya bar Yosef's teaching about the valid range for shechitah AND Rava's clarification about the grazing-stretch test ('kol she-posheitet tzavarah ve-ro'ah, u-vilvad she-lo te'anes'), which is precisely what the 'Grazing Stretch Test' prose section describes.",
+      "chosen_heading": "Grazing Stretch Test",
+      "current_heading": "Shechitah Range",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Teiku on Self-Stretch",
+    "candidates": [
+      "Anatomical Orientation",
+      "Stretched Neck Issue",
+      "Grazing Stretch Test",
+      "Teiku on Self-Stretch",
+      "Below-Chest Rule",
+      "Priestly Portions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in 'Teiku on Self-Stretch' \u2014 Rav Chanina's unresolved dilemma about self-stretching \u2014 followed by the Rabbi Yochanan/Reish Lakish ruling about forced stretching and the below-chest trachea rule, which together span sections 3 and 4, but since the teiku question opens the passage and the current placement is section 3, and section 4's prose explicitly covers the below-chest rule as a separate point, the passage actually spans both 3 and 4; however, given the passage is a single unit and its opening content matches section 3's prose most precisely, the current placement is correct.",
+      "chosen_heading": "Teiku on Self-Stretch",
+      "current_heading": "Teiku on Self-Stretch",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Priestly Portions",
+    "candidates": [
+      "Below-Chest Rule",
+      "Priestly Portions",
+      "Two Membranes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita defines the boundaries of the chazeh given to the kohanim, which is exactly what the 'Priestly Portions' section's prose describes.",
+      "chosen_heading": "Priestly Portions",
+      "current_heading": "Priestly Portions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Two Membranes",
+    "candidates": [
+      "Two Membranes",
+      "Brain Sac Siman",
+      "Testicle Analogy",
+      "Skull-Cord Boundary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the dispute between Rav and Shmuel about the outer vs. inner membrane perforation AND the mnemonic from Rabbi Shmuel bar Na\u1e25mani, and the current heading's prose explicitly addresses both the Rav/Shmuel dispute and the two-membrane anatomy, making it the best fit for the entire passage.",
+      "chosen_heading": "Two Membranes",
+      "current_heading": "Two Membranes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Skull-Cord Boundary",
+    "candidates": [
+      "Brain Sac Siman",
+      "Testicle Analogy",
+      "Skull-Cord Boundary",
+      "Polin Markers",
+      "Polin Classification",
+      "Bird Brain Verification"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Testicle Analogy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both the testicle analogy (kenegdo be-veitzim nikar) and the brain/spinal cord boundary teaching, spanning candidates 1 and 2, but the testicle analogy opens the passage and the skull-cord boundary discussion is already covered under candidate 2 (current placement); however, the opening line about testicles clearly belongs under candidate 1 ('Testicle Analogy') while the rest of item 1 flows into the skull-cord boundary \u2014 yet since items cannot be split mid-item, and item 1 as a whole begins with the testicle analogy that matches candidate 1's prose, it belongs there.",
+      "second_heading": "Polin Markers",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the polin markers (beans at the skull opening, inward vs outward classification) which precisely matches candidate 3 ('Polin Markers') prose about min ha-polin u-lifnim and min ha-polin ve-lachutz, not candidate 2.",
+      "current_heading": "Skull-Cord Boundary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Bird Brain Verification",
+    "candidates": [
+      "Polin Markers",
+      "Polin Classification",
+      "Bird Brain Verification",
+      "Heart Chamber Hole",
+      "Chamber Size Dispute",
+      "Lung-Heart Comparison",
+      "Language Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yirmiya examining a bird and finding the two polin structures, which is precisely what the 'Bird Brain Verification' section's prose discusses.",
+      "chosen_heading": "Bird Brain Verification",
+      "current_heading": "Bird Brain Verification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Language Distinction",
+    "candidates": [
+      "Heart Chamber Hole",
+      "Chamber Size Dispute",
+      "Lung-Heart Comparison",
+      "Language Distinction",
+      "Aorta Hole Standard"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lung-Heart Comparison",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Abaye's challenge using the lung-bronchi analogy to answer Rav Zeira's question, which is precisely what candidate 2 ('Lung-Heart Comparison') describes.",
+      "second_heading": "Language Distinction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's rebuttal distinguishing the lung formulation from the heart formulation, explaining why mah li chalal gadol mah li chalal katan \u2014 exactly what candidate 3 ('Language Distinction') describes.",
+      "current_heading": "Language Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Aorta Hole Standard",
+    "candidates": [
+      "Aorta Hole Standard",
+      "Aorta Location",
+      "Three Tracheal Pipes",
+      "Pipe Standards",
+      "Reversed Standards",
+      "Rav's Credibility"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Aorta Location",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the dispute between Rav and Shmuel on the aorta perforation standard and the identification of the aorta's location, matching headings 0 and 1 \u2014 but since item 1 is the Rav/Shmuel dispute and item 2 is the location question, and the current placement is 'Aorta Hole Standard', items 1-2 belong together under heading 0 only if location is grouped there; however the prose for heading 1 explicitly covers item 2's content, so splitting after item 2 is correct with items 1-2 under heading 0 and items 3-4 under headings 2-4.",
+      "second_heading": "Three Tracheal Pipes",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 describe the three pipes and their reversed standards, matching headings 2/3/4 \u2014 but since all four items must go under one heading in FORM 2's second group, items 3-4 together best fit heading 2 ('Three Tracheal Pipes') which covers both the three-pipe anatomy and the halakhic standards including Mar bar \u1e24iyya's reversal as part of the same continuous sugya.",
+      "current_heading": "Aorta Hole Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Rav's Credibility",
+    "candidates": [
+      "Aorta Location",
+      "Three Tracheal Pipes",
+      "Pipe Standards",
+      "Reversed Standards",
+      "Rav's Credibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi \u1e24iyya bar Yosef reporting Rav's position to Shmuel and Shmuel's dismissive response, which is precisely what the 'Rav's Credibility' section prose describes and analyzes.",
+      "chosen_heading": "Rav's Credibility",
+      "current_heading": "Rav's Credibility",
+      "moved": false
+    }
+  }
+]

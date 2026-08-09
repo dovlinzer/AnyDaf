@@ -1,0 +1,347 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Neder vs. Erech",
+    "candidates": [
+      "Biblical Source",
+      "Vow of Evaluation",
+      "Arachin & Temurah",
+      "Kodashim Classification",
+      "General Principle",
+      "Neder vs. Erech",
+      "Included Categories",
+      "Tumtum & Androgynos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah opening 'hakol maarichin vene'erachin... nodrin venidrin' which the prose under 'General Principle' directly introduces and explains, covering exactly this text.",
+      "chosen_heading": "General Principle",
+      "current_heading": "Neder vs. Erech",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Tumtum & Androgynos",
+    "candidates": [
+      "Included Categories",
+      "Tumtum & Androgynos",
+      "Cheresh, Shoteh, Katan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses tumtum and androgynos vowing/being vowed and taking valuations but not being valuated, which is precisely what the 'Tumtum & Androgynos' section prose describes.",
+      "chosen_heading": "Tumtum & Androgynos",
+      "current_heading": "Tumtum & Androgynos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Cheresh, Shoteh, Katan",
+    "candidates": [
+      "Cheresh, Shoteh, Katan",
+      "Eved Kanaani",
+      "Hakol Categories",
+      "Concept of Haflaa",
+      "Mufla Samuch L'Ish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Mishnaic rule about cheresh, shoteh, and katan being objects of vows but unable to make vows due to lacking da'at, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Cheresh, Shoteh, Katan",
+      "current_heading": "Cheresh, Shoteh, Katan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Mufla Samuch L'Ish",
+    "candidates": [
+      "Eved Kanaani",
+      "Hakol Categories",
+      "Concept of Haflaa",
+      "Mufla Samuch L'Ish",
+      "Minor's Legal Capacity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Gemara passage asks what 'hakol' adds and answers 'mufla samuch l'ish,' which is precisely the analysis described in the 'Hakol Categories' prose \u2014 the Gemara working through what each 'hakol' in the Mishnah comes to include \u2014 rather than the 'Mufla Samuch L'Ish' section which discusses the concept's details after the Gemara text has already been introduced.",
+      "chosen_heading": "Hakol Categories",
+      "current_heading": "Mufla Samuch L'Ish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Minor's Legal Capacity",
+    "candidates": [
+      "Mufla Samuch L'Ish",
+      "Minor's Legal Capacity",
+      "Hakol Somchin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Minor's Legal Capacity' (index 1) explicitly discusses all six items: the menuval u'mukei shachin inclusion for ne'erachin, the neder/erech juxtaposition argument and nefashot rebuttal, the nodrin having nothing novel, and the nidrin category concluding with pachot miben chodesh \u2014 exactly matching items 1\u20136 of this passage.",
+      "chosen_heading": "Minor's Legal Capacity",
+      "current_heading": "Minor's Legal Capacity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Hakol Somchin",
+    "candidates": [
+      "Hakol Somchin",
+      "Heir Debate",
+      "Hakol Memirin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses 'hakol somchin' and the heir debate together, and heading 0's prose explicitly covers both the general expression 'hakol somchin' and the heir question, making it the best match for this single Gemara item.",
+      "chosen_heading": "Hakol Somchin",
+      "current_heading": "Hakol Somchin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Hakol Memirin",
+    "candidates": [
+      "Heir Debate",
+      "Hakol Memirin",
+      "Ownership Concepts",
+      "R. Yehuda's Drasha",
+      "Rabbanan's Position",
+      "Joint Offerings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about 'hakol memirin' (everyone substitutes) and its inclusion of the heir in temurah contrary to Rabbi Yehuda, which is precisely what the 'Hakol Memirin' section's prose discusses.",
+      "chosen_heading": "Hakol Memirin",
+      "current_heading": "Hakol Memirin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Joint Offerings",
+    "candidates": [
+      "Ownership Concepts",
+      "R. Yehuda's Drasha",
+      "Rabbanan's Position",
+      "Joint Offerings",
+      "Hakol B'Sukkah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Joint Offerings' prose: the baraita debate between Rabbanan and Rabbi Yehuda on heir/semichah/temurah, the derivations from 'korbano' for excluding gentiles and friends, the inclusion of joint-offering partners, Rabbi Yehuda's alternative consolidation freeing up a spare 'korbano', and the redirection of 'hamir yamir' to include women \u2014 all of which the candidate 3 prose explicitly discusses in detail.",
+      "chosen_heading": "Joint Offerings",
+      "current_heading": "Joint Offerings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Hakol B'Sukkah",
+    "candidates": [
+      "Hakol B'Sukkah",
+      "Hakol B'Lulav",
+      "Chinuch Education",
+      "Hakol B'Tzitzit",
+      "Hakol B'Tefillin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses 'hakol chayavin basukkah' and the inclusion of a minor who does not need his mother, which is exactly what the prose under heading 0 ('Hakol B'Sukkah') describes.",
+      "chosen_heading": "Hakol B'Sukkah",
+      "current_heading": "Hakol B'Sukkah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Hakol B'Tefillin",
+    "candidates": [
+      "Hakol B'Lulav",
+      "Chinuch Education",
+      "Hakol B'Tzitzit",
+      "Hakol B'Tefillin",
+      "Nature of Mitzvot",
+      "Tzitzit Wrapping",
+      "Tefillin Awareness",
+      "Re'iyah Obligation",
+      "Half-Slave Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items follow the same pattern \u2014 asking what 'hakol' adds for lulav, tzitzit, and tefillin respectively \u2014 and belong together under the 'Hakol B'Lulav' heading which introduces this series, since candidate 0's prose explicitly covers the lulav case (item 1) and the series continues through tzitzit and tefillin as one continuous Gemara unit.",
+      "chosen_heading": "Hakol B'Lulav",
+      "current_heading": "Hakol B'Tefillin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Half-Slave Status",
+    "candidates": [
+      "Nature of Mitzvot",
+      "Tzitzit Wrapping",
+      "Tefillin Awareness",
+      "Re'iyah Obligation",
+      "Half-Slave Status",
+      "Lame Person"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage poses the Gemara's question about what 'hakol' adds in the re'iyah obligation, which is the exact question introduced in the 'Re'iyah Obligation' prose, while the answer about the half-slave belongs as the content that section leads into \u2014 but the question itself is clearly the opening of that section's discussion, not yet the answer treated under 'Half-Slave Status'.",
+      "chosen_heading": "Re'iyah Obligation",
+      "current_heading": "Half-Slave Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Lame Person",
+    "candidates": [
+      "Half-Slave Status",
+      "Lame Person",
+      "Blind in One Eye",
+      "Vision Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the case of a lame person (chiger) healed on day two and the tashlumin debate that follows, which is precisely what the 'Lame Person' prose section discusses.",
+      "chosen_heading": "Lame Person",
+      "current_heading": "Lame Person",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Vision Requirement",
+    "candidates": [
+      "Blind in One Eye",
+      "Vision Requirement",
+      "Tikkun Olam Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together cover exactly what candidate 1's prose describes: the blind-in-one-eye inclusion, the Rabbi Yehuda baraita with the yireh/yeira'eh drasha, and the alternative explanation regarding the half-slave case with the mishnah rishonah/acharonah resolution \u2014 all of which are explicitly narrated in candidate 1's prose.",
+      "chosen_heading": "Vision Requirement",
+      "current_heading": "Vision Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Tikkun Olam Case",
+    "candidates": [
+      "Tikkun Olam Case",
+      "Shofar Obligation",
+      "Chinuch for Shofar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the mishna about the half-slave half-free person \u2014 Beit Hillel's original position, Beit Shammai's objection about procreation, and the final ruling compelling emancipation \u2014 which is precisely what the 'Tikkun Olam Case' prose describes in detail.",
+      "chosen_heading": "Tikkun Olam Case",
+      "current_heading": "Tikkun Olam Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Chinuch for Shofar",
+    "candidates": [
+      "Shofar Obligation",
+      "Chinuch for Shofar",
+      "Mitzvah Chinuch Age"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita's 'everyone is obligated' statement and answers that it adds a minor who reached chinuch \u2014 this is precisely what heading 0 ('Shofar Obligation') describes, while headings 1 and 2 discuss the deeper analysis of chinuch criteria that follows.",
+      "chosen_heading": "Shofar Obligation",
+      "current_heading": "Chinuch for Shofar",
+      "moved": true
+    }
+  }
+]

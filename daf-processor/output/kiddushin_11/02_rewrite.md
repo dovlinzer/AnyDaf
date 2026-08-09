@@ -60,13 +60,6 @@ Tosafot's discussion of the word *kubyustos* is worth pausing on. Rashi explains
 
 ---
 
-## Kiddushei Bia Nature
-
-### Bia: Statement or Intent
-
-A question arises about the formal requirements of *kiddushei bia*. Does the man need to make a formal declaration — *harei at mekudeshet li b'bia zu* — or is it sufficient that the act be performed in a context of intent toward *kiddushin*, without a specific verbal formula? And does *kiddushei bia* require witnesses in the same way as *kesef* or *shtar*?
-
----
 
 ## Difference: Kibeil/Masar
 

@@ -1,0 +1,294 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Rationale & Policy",
+    "candidates": [
+      "Ulla: Liens from Torah",
+      "Rabba: Rabbinic Liens",
+      "Rationale & Policy",
+      "Liens as Ownership",
+      "Rav & Shmuel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All seven items constitute the continuous Ulla-Rabba dispute about shibuda de-oraita, the policy rationale for each position, the bechor challenge, the attempt to reverse the attributions, and the resolution \u2014 exactly what the 'Rationale & Policy' prose describes in detail.",
+      "chosen_heading": "Rationale & Policy",
+      "current_heading": "Rationale & Policy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Rav & Shmuel Position",
+    "candidates": [
+      "Liens as Ownership",
+      "Rav & Shmuel Position",
+      "R. Yochanan & Resh Lakish",
+      "Well-Digger Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Rav & Shmuel / Rabbi Yochanan & Resh Lakish dispute about oral loans and collection from heirs/purchasers, which is precisely what the prose under 'Rav & Shmuel Position' (index 1) introduces and explains \u2014 it discusses both sides of the dispute, with index 2 serving only as elaboration prose for the same gemara passage.",
+      "chosen_heading": "Rav & Shmuel Position",
+      "current_heading": "Rav & Shmuel Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Well-Digger Case",
+    "candidates": [
+      "R. Yochanan & Resh Lakish",
+      "Well-Digger Case",
+      "Rav Papa's Halakha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are the continuous well-digger baraita challenge and its successive resolutions (Rav Ila/Rav, Rav Adda bar Ahava, Rav Nachman), which is precisely what the 'Well-Digger Case' prose describes in detail.",
+      "chosen_heading": "Well-Digger Case",
+      "current_heading": "Well-Digger Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rav Papa's Halakha",
+    "candidates": [
+      "Rav Papa's Halakha",
+      "Document + Witnesses",
+      "Hand-Written IOU",
+      "Beit Din Validation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's definitive halakhic ruling on oral loans, heirs, and purchasers \u2014 exactly what the prose of heading 0 ('Rav Papa's Halakha') discusses in detail.",
+      "chosen_heading": "Rav Papa's Halakha",
+      "current_heading": "Rav Papa's Halakha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Beit Din Validation",
+    "candidates": [
+      "Document + Witnesses",
+      "Hand-Written IOU",
+      "Beit Din Validation",
+      "R. Elazar: Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage discusses the rule that a hand-written IOU (ktav yado) collects only from bnei chorin even after court ratification, which is the specific topic of the 'Hand-Written IOU' section, though the current placement under 'Beit Din Validation' also captures the she'ela content well \u2014 however, the she'ela and its answer are really elaborating on the hand-written IOU rule rather than standing as a separate topic, and candidate 1's prose explicitly anticipates this exact ruling about ktav yado and bnei chorin without shibud.",
+      "chosen_heading": "Hand-Written IOU",
+      "current_heading": "Beit Din Validation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "R. Elazar: Witnesses",
+    "candidates": [
+      "R. Elazar: Witnesses",
+      "Document Effectiveness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together \u2014 the baraita about three invalid gittin and Rabbi Elazar's ruling about eidei mesira \u2014 are precisely what heading 0's prose describes, making the current placement correct.",
+      "chosen_heading": "R. Elazar: Witnesses",
+      "current_heading": "R. Elazar: Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Document Effectiveness",
+    "candidates": [
+      "Document Effectiveness",
+      "Guarantor: Before/After",
+      "Rav's Two Positions",
+      "Vav Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the shibud in Rabbi Elazar's case takes effect from the moment of writing \u2014 precisely the temporal priority principle ('mishas kesiva hu de-shiabad nafshia') discussed in the 'Document Effectiveness' prose, contrasting it with the hand-written IOU case where no witnesses were present at the formative moment.",
+      "chosen_heading": "Document Effectiveness",
+      "current_heading": "Document Effectiveness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Vav Distinction",
+    "candidates": [
+      "Guarantor: Before/After",
+      "Rav's Two Positions",
+      "Vav Distinction",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together cover the full arc from the mishna's ruling, through Rav's two positions, and through Rabbi Yo\u1e25anan's ruling \u2014 this is the content described in candidate 0's prose about Rav's ruling on before/after the signing, which is the natural home for the entire passage before the 'vav distinction' resolution that follows separately.",
+      "chosen_heading": "Guarantor: Before/After",
+      "current_heading": "Vav Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Vav Distinction",
+      "Rava's Challenge",
+      "Unity of Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's objection from the get/greeting baraita, which is precisely what the 'Rava's Challenge' section's prose describes \u2014 witnesses signing on a she'eilat shalom rendering a get pasul.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Unity of Statement",
+    "candidates": [
+      "Unity of Statement",
+      "Case of R. Ishmael"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Abbahu's transmission of Rabbi Yo\u1e25anan's ruling on she'ilu vs. u'she'ilu, the parallel application to 'ploni arev', and the resolution that Rabbi Yo\u1e25anan agrees with Rav \u2014 are precisely the content described in the 'Unity of Statement' prose, which culminates with 'eima ve-chein amar Rabbi Yochanan'.",
+      "chosen_heading": "Unity of Statement",
+      "current_heading": "Unity of Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Case of R. Ishmael",
+    "candidates": [
+      "Case of R. Ishmael",
+      "Ben Nanas Position",
+      "R. Ishmael's Praise",
+      "Actual Choking Case",
+      "Kinyan Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states that Rabbi Yishmael praised Ben Nannas but that the halakha follows Rabbi Yishmael, which is precisely what section 2 ('R. Ishmael's Praise') discusses \u2014 the praise given to Ben Nanas followed by the ruling that the halakha nonetheless follows Rabbi Yishmael.",
+      "chosen_heading": "R. Ishmael's Praise",
+      "current_heading": "Case of R. Ishmael",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Kinyan Requirement",
+    "candidates": [
+      "Ben Nanas Position",
+      "R. Ishmael's Praise",
+      "Actual Choking Case",
+      "Kinyan Requirement",
+      "Court-Appointed Guarantor",
+      "Final Halakha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Actual Choking Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 address whether Rabbi Yishmael disagrees with Ben Nanas even in a literal choking case and whether the halakha follows him there, which is precisely what the 'Actual Choking Case' prose discusses.",
+      "second_heading": "Kinyan Requirement",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20134 introduce Rav Yehuda/Shmuel's ruling that a strangled guarantor requires a kinyan and Rav Nachman's qualification about court-appointed guarantors, which is exactly what the 'Kinyan Requirement' prose covers.",
+      "current_heading": "Kinyan Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Final Halakha",
+    "candidates": [
+      "Court-Appointed Guarantor",
+      "Final Halakha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the final halakhic ruling on guarantors (ve-hilchesa) and the closing formula of the masechet (hadran alach), both of which are explicitly quoted and discussed in the 'Final Halakha' section's prose.",
+      "chosen_heading": "Final Halakha",
+      "current_heading": "Final Halakha",
+      "moved": false
+    }
+  }
+]

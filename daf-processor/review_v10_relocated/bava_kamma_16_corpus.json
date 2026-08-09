@@ -1,0 +1,489 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Knas Status Established",
+    "candidates": [
+      "Knas Status Established",
+      "Meshuneh Animal Acts",
+      "Shen vs. Keren Question",
+      "Reshut Harabim Status",
+      "Rishonim: Unusual=Keren",
+      "Knas & Bavel Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly address the halakhic conclusion that chatzi nezek keren is a knas \u2014 stating the ruling, questioning the apparent contradiction with the earlier refutation, and resolving it \u2014 which is precisely what the 'Knas Status Established' section's prose describes.",
+      "chosen_heading": "Knas Status Established",
+      "current_heading": "Knas Status Established",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Knas & Bavel Restriction",
+    "candidates": [
+      "Meshuneh Animal Acts",
+      "Shen vs. Keren Question",
+      "Reshut Harabim Status",
+      "Rishonim: Unusual=Keren",
+      "Knas & Bavel Restriction",
+      "Dangerous Animal Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items directly address the consequences of classifying meshuneh animal acts as keren/knas in Babylonian courts \u2014 including the large/small animal distinction, seizure of property, and the option to travel to Eretz Yisrael \u2014 which is precisely what candidate 4 ('Knas & Bavel Restriction') discusses in its prose.",
+      "chosen_heading": "Knas & Bavel Restriction",
+      "current_heading": "Knas & Bavel Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Dangerous Animal Removal",
+    "candidates": [
+      "Dangerous Animal Removal",
+      "Tosafot: Tafas Limits",
+      "Tafas & Gezela Debate",
+      "Five Tam Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the excommunication of a dangerous animal owner and the Rabbi Natan baraita about not keeping a vicious dog, which is precisely what the 'Dangerous Animal Removal' prose discusses.",
+      "chosen_heading": "Dangerous Animal Removal",
+      "current_heading": "Dangerous Animal Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Five Tam Types",
+    "candidates": [
+      "Tosafot: Tafas Limits",
+      "Tafas & Gezela Debate",
+      "Five Tam Types",
+      "Shen Muad (Natural)",
+      "Regel Muad",
+      "Shor Muad & Keren"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishnah introducing the five tam categories (ligach, ligof, lishoch, lirvots, livot), which is precisely what the 'Five Tam Types' prose section discusses.",
+      "chosen_heading": "Five Tam Types",
+      "current_heading": "Five Tam Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Shor Muad & Keren",
+    "candidates": [
+      "Shen Muad (Natural)",
+      "Regel Muad",
+      "Shor Muad & Keren",
+      "Wild Animals Muad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all five muad categories (shen, regel, shor hamuad, ox in victim's domain, and person) as a single mishnaic unit, and since it begins with shen, it belongs under the 'Shen Muad (Natural)' heading which introduces the list of five muad categories \u2014 the current placement under 'Shor Muad & Keren' is too late in the sequence.",
+      "chosen_heading": "Shen Muad (Natural)",
+      "current_heading": "Shor Muad & Keren",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Wild Animals Muad",
+    "candidates": [
+      "Shor Muad & Keren",
+      "Wild Animals Muad",
+      "Domestication Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna text about wild animals being muad and Rabbi Elazar's domestication exception, which is exactly what the 'Wild Animals Muad' section's prose discusses.",
+      "chosen_heading": "Wild Animals Muad",
+      "current_heading": "Wild Animals Muad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Domestication Doctrine",
+    "candidates": [
+      "Domestication Doctrine",
+      "Rabbanan vs. Tarfon",
+      "Rashi's Reshut Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items together form the gemara's structural analysis of whether the mishnah's first clause follows the Rabbis and the latter clause follows Rabbi Tarfon, culminating in Shmuel's famous resolution to Rav Yehuda \u2014 precisely the content described in candidate 1 ('Rabbanan vs. Tarfon'), not candidate 0 whose prose already summarizes this passage as background to the next discussion.",
+      "chosen_heading": "Rabbanan vs. Tarfon",
+      "current_heading": "Domestication Doctrine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Rashi's Reshut Solution",
+    "candidates": [
+      "Rabbanan vs. Tarfon",
+      "Rashi's Reshut Solution",
+      "Kahana-Zebid Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Elazar's statement in the name of Rav that the entire mishna follows Rabbi Tarfon via the divided-domain solution (chatzer meyuhedet le-peirot/shorim), which is precisely what Candidate 1 ('Rashi's Reshut Solution') describes \u2014 the current placement is correct.",
+      "chosen_heading": "Rashi's Reshut Solution",
+      "current_heading": "Rashi's Reshut Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Kahana-Zebid Challenge",
+    "candidates": [
+      "Kahana-Zebid Challenge",
+      "Later Mishnah Evidence",
+      "Ravina's Rewrite"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the Rav Kahana\u2013Rav Zevid exchange: item 1 is Rav Zevid's challenge (the mishnah implies non-fitting food yields only half-damages) and item 2 is the logical completion of that challenge (but Rabbi Tarfon would require full damages for keren in the victim's domain), which is precisely what the 'Kahana-Zebid Challenge' prose describes.",
+      "chosen_heading": "Kahana-Zebid Challenge",
+      "current_heading": "Kahana-Zebid Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Ravina's Rewrite",
+    "candidates": [
+      "Later Mishnah Evidence",
+      "Ravina's Rewrite",
+      "Baraita Support & Auth.",
+      "Five / More Muad Problem",
+      "Large vs. Small Vessels"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Later Mishnah Evidence",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rav Kahana's reading and Ravina's objection from the later mishnah (shor ha-mazik bi-reshut ha-nizak keitzad), which matches candidate 0 'Later Mishnah Evidence' exactly.",
+      "second_heading": "Ravina's Rewrite",
+      "second_confidence": "high",
+      "second_reason": "Items 4-8 present Ravina's full rewrite (chasurei mechasra), the baraita support, and the five/more muad problem with its resolution \u2014 all matching candidates 1, 2, and 3 in sequence, with the current placement under 'Ravina's Rewrite' being the correct home for item 4 onward.",
+      "current_heading": "Ravina's Rewrite",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Large vs. Small Vessels",
+    "candidates": [
+      "Baraita Support & Auth.",
+      "Five / More Muad Problem",
+      "Large vs. Small Vessels",
+      "Walking Crush (Darko)"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Large vs. Small Vessels",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly discuss Rabbi Elazar's ruling about large vs. small vessels and the baraita cited to support it, matching the 'Large vs. Small Vessels' prose exactly.",
+      "second_heading": "Walking Crush (Darko)",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 correspond to the 'Walking Crush (Darko)' section: item 3 is the gemara's rejection ('perhaps from the side') of the baraita as support for Rabbi Elazar, and item 4 is the alternate version of Rabbi Elazar's ruling that follows in that same discussion thread about the baraita and crushing vessels.",
+      "current_heading": "Large vs. Small Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Walking Crush (Darko)",
+    "candidates": [
+      "Walking Crush (Darko)",
+      "Side Impact Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita objection about crushing a person, animal, or vessels, which the prose under 'Walking Crush (Darko)' directly describes as the gemara citing this baraita and treating it as relevant before reconsidering, whereas candidate 1 discusses the gemara's resolution (min ha-tzad) rather than the initial objection.",
+      "chosen_heading": "Walking Crush (Darko)",
+      "current_heading": "Walking Crush (Darko)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Side Impact Theory",
+    "candidates": [
+      "Side Impact Theory",
+      "Bordelis Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the 'min ha-tzad' (side impact) resolution, which is precisely what the prose under heading 0 discusses \u2014 item 1 introduces Rabbi Elazar's 'min ha-tzad' answer and item 2 presents an alternative formulation of the same Rabbi Elazar resolving the same tension, fitting squarely within the Side Impact Theory section.",
+      "chosen_heading": "Side Impact Theory",
+      "current_heading": "Side Impact Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Bordelis Identity",
+    "candidates": [
+      "Bordelis Identity",
+      "Tzavoa Addition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the identity of the bardelas/nafreza/appa, which is exactly what the 'Bordelis Identity' section's prose covers.",
+      "chosen_heading": "Bordelis Identity",
+      "current_heading": "Bordelis Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Tzavoa Addition",
+    "candidates": [
+      "Tzavoa Addition",
+      "Transformation Sequence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Meir's addition of the tzavoa and Rav Yosef's identification of it as an appa, which is exactly what the 'Tzavoa Addition' prose describes.",
+      "chosen_heading": "Tzavoa Addition",
+      "current_heading": "Tzavoa Addition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Transformation Sequence",
+    "candidates": [
+      "Transformation Sequence",
+      "Snake Eternal Muad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's resolution of the hyena contradiction and the baraita about the transformation sequence, which is precisely what the 'Transformation Sequence' prose discusses in detail.",
+      "chosen_heading": "Transformation Sequence",
+      "current_heading": "Transformation Sequence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Snake Eternal Muad",
+    "candidates": [
+      "Snake Eternal Muad",
+      "Dras = Shen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita's inclusion of the snake as always forewarned (muad), the apparent contradiction with Rabbi Elazar's mishna position, and the resolution that the baraita means only the snake \u2014 exactly what the 'Snake Eternal Muad' prose describes.",
+      "chosen_heading": "Snake Eternal Muad",
+      "current_heading": "Snake Eternal Muad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Dras = Shen",
+    "candidates": [
+      "Dras = Shen",
+      "Taraf = Keren",
+      "Psalms Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Shmuel's ruling and its elucidation \u2014 the dras/ate exemption classified as Shen and the taraf/ate liability classified as Keren \u2014 which is exactly what the 'Dras = Shen' section's prose describes, and the current placement is correct.",
+      "chosen_heading": "Dras = Shen",
+      "current_heading": "Dras = Shen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Psalms Evidence",
+    "candidates": [
+      "Taraf = Keren",
+      "Psalms Evidence",
+      "Baraita: Full Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the Psalms/Nahum scriptural challenge and its answer about the lion hunting for its dependents, which is precisely what the 'Psalms Evidence' section's prose describes.",
+      "chosen_heading": "Psalms Evidence",
+      "current_heading": "Psalms Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Baraita: Full Payment",
+    "candidates": [
+      "Baraita: Full Payment",
+      "Changed Mind Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Both items together present the baraita's challenge (item 1) and the gemara's initial resolution via the 'tore to leave it / changed mind' explanation (item 2), which spans both candidate headings, but the baraita itself and the immediate Q&A are most naturally housed under heading 0 ('Baraita: Full Payment'), which is where the passage currently sits and whose prose explicitly discusses the baraita's contradiction and the 'tore and ate' scenario; heading 1's prose goes further to the 'umi yadeinan' challenge not present in this passage.",
+      "chosen_heading": "Baraita: Full Payment",
+      "current_heading": "Baraita: Full Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Changed Mind Scenario",
+    "candidates": [
+      "Changed Mind Scenario",
+      "Domesticated Lion Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's challenge about knowing the lion's intentions and the implication for Shmuel's ruling, which is precisely what the 'Changed Mind Scenario' prose describes.",
+      "chosen_heading": "Changed Mind Scenario",
+      "current_heading": "Changed Mind Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141,
+      142,
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Domesticated Lion Theory",
+    "candidates": [
+      "Domesticated Lion Theory",
+      "Rambam: Muad Keren",
+      "Shen vs. Keren Unresolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain of dispute and resolution about the domesticated lion theory (Ravina's explanation, the gemara's challenges, and the final kashya), which is precisely what the 'Domesticated Lion Theory' prose describes in detail.",
+      "chosen_heading": "Domesticated Lion Theory",
+      "current_heading": "Domesticated Lion Theory",
+      "moved": false
+    }
+  }
+]

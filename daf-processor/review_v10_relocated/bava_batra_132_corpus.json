@@ -1,0 +1,267 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Wife as Apotropos",
+    "candidates": [
+      "Wife as Apotropos",
+      "Eldest Son Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the Rav Yehuda/Shmuel ruling about writing all property to one's wife making her an apotropos, which is exactly what the 'Wife as Apotropos' section discusses.",
+      "chosen_heading": "Wife as Apotropos",
+      "current_heading": "Wife as Apotropos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Eldest Son Rule",
+    "candidates": [
+      "Eldest Son Rule",
+      "Stranger vs. Family",
+      "Infant Son Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage poses the question about the minor/infant son ('beno hakatan mah'), which is precisely the topic discussed in the 'Infant Son Case' prose section.",
+      "chosen_heading": "Infant Son Case",
+      "current_heading": "Eldest Son Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Infant Son Case",
+    "candidates": [
+      "Stranger vs. Family",
+      "Infant Son Case",
+      "Disputed Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rav \u1e24anilai bar Idi's ruling regarding a minor son lying in a crib is precisely what the 'Infant Son Case' prose describes and analyzes.",
+      "chosen_heading": "Infant Son Case",
+      "current_heading": "Infant Son Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Disputed Cases",
+    "candidates": [
+      "Disputed Cases",
+      "Ravina's Resolution",
+      "Rav Avira Disagrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the obvious cases (son/wife with another as gift vs. apotropos), the obvious cases of betrothed/divorced wife as gift, and the dilemma raised about daughter among sons/wife among brothers/wife among husband's sons \u2014 are precisely the 'disputed cases' and preliminary obvious rulings that the 'Disputed Cases' prose section describes in detail.",
+      "chosen_heading": "Disputed Cases",
+      "current_heading": "Disputed Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rav Avira Disagrees",
+    "candidates": [
+      "Ravina's Resolution",
+      "Rav Avira Disagrees",
+      "Rava's Question",
+      "Deathbed Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Ravina's and Rav Avira's opinions in a single Talmudic excerpt, and heading 0 ('Ravina's Resolution') is where the passage should begin, with heading 1 covering Rav Avira's view \u2014 but since the text is a single indivisible item containing both opinions, it belongs under heading 0 where Ravina's statement (which comes first in the Gemara) is introduced.",
+      "chosen_heading": "Ravina's Resolution",
+      "current_heading": "Rav Avira Disagrees",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Deathbed Context",
+    "candidates": [
+      "Rava's Question",
+      "Deathbed Context",
+      "Rashbam's Cases",
+      "Authority Now?",
+      "Produce/Part Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's dilemma itself \u2014 asking whether the apotropos rule applies to a healthy person \u2014 which matches heading 0's prose exactly, not the 'Deathbed Context' heading where it currently sits.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Deathbed Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Produce/Part Gift",
+    "candidates": [
+      "Rashbam's Cases",
+      "Authority Now?",
+      "Produce/Part Gift",
+      "No Waiver on Part",
+      "All Property Case",
+      "Eliezer vs. Sages",
+      "Niece Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the cases of a husband granting his wife the produce/usufruct of his fields and fractional shares of property, and whether she retains her ketubah lien \u2014 which is precisely what the 'Produce/Part Gift' section's prose describes.",
+      "chosen_heading": "Produce/Part Gift",
+      "current_heading": "Produce/Part Gift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Niece Case",
+    "candidates": [
+      "No Waiver on Part",
+      "All Property Case",
+      "Eliezer vs. Sages",
+      "Niece Case",
+      "Rav Nachman Rule",
+      "Nachman's Approach",
+      "Dead Son Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All six items form a continuous discussion of the 'all property' case: the baraita dispute (Rabbi Eliezer vs. Sages), Rabbi Yehuda the baker's incident (the niece case), the Gemara's inference about healthy vs. deathbed, Rav Avira/Ravina's interpretations, Rav Nachman's ruling, and the question about umdana \u2014 all of which are explicitly described in the 'Niece Case' prose section, which covers all of this material in sequence.",
+      "chosen_heading": "Niece Case",
+      "current_heading": "Niece Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Dead Son Case",
+    "candidates": [
+      "Rav Nachman Rule",
+      "Nachman's Approach",
+      "Dead Son Case",
+      "Shimon ben Menasya",
+      "Nachman Follows Shimon",
+      "Wife's Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about the son presumed dead and both opinions (first opinion that the gift stands, plus Rabbi Shimon ben Menasya's dissent and Rav Nachman's ruling), which spans headings 2-4, but the current placement under 'Dead Son Case' is where the baraita is introduced, and since all items must go under one heading, heading 2 is where the baraita text begins and is the best single home for this combined passage.",
+      "chosen_heading": "Dead Son Case",
+      "current_heading": "Dead Son Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Wife's Intent",
+    "candidates": [
+      "Shimon ben Menasya",
+      "Nachman Follows Shimon",
+      "Wife's Intent",
+      "Gift vs. Sale",
+      "Distribution Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer about why the wife's case differs \u2014 that it is beneficial to her that the gift be publicized \u2014 which is precisely the content described in the 'Wife's Intent' section's prose.",
+      "chosen_heading": "Wife's Intent",
+      "current_heading": "Wife's Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Distribution Case",
+    "candidates": [
+      "Gift vs. Sale",
+      "Distribution Case",
+      "Rav: Active Role",
+      "Shmuel: Silence OK",
+      "Yossi: Oral Offer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Mishnah about a man distributing property to his sons and giving his wife a small piece of land, then questions why that small grant causes her to lose her ketubah \u2014 which is precisely what the 'Distribution Case' prose describes and introduces.",
+      "chosen_heading": "Distribution Case",
+      "current_heading": "Distribution Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Yossi: Oral Offer",
+    "candidates": [
+      "Rav: Active Role",
+      "Shmuel: Silence OK",
+      "Yossi: Oral Offer",
+      "Ketubah Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three opinions (Rav, Shmuel, and Rabbi Yosei) together as a single Talmudic unit, and it most naturally belongs under the first heading 'Rav: Active Role' which introduces this sugya, since the essay then breaks down each opinion separately in subsequent sections.",
+      "chosen_heading": "Rav: Active Role",
+      "current_heading": "Yossi: Oral Offer",
+      "moved": true
+    }
+  }
+]

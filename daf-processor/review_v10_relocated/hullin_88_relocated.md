@@ -4,6 +4,10 @@ Today's *daf* is 88. We begin at the bottom of 87b, continuing the discussion of
 
 ### Rabbi Assi: Clear Serum
 
+> **Hebrew/Aramaic:** רַבִּי אַסִּי מִנְּהַרְבִּיל אוֹמֵר: בִּצְלַלְתָּא דִּדְמָא. רַבִּי יִרְמְיָה מִדִּפְתִּי אָמַר: עָנוּשׁ כָּרֵת, וְהוּא דְּאִיכָּא כְּזַיִת. בְּמַתְנִיתָא תָּנָא: מְטַמְּאִים בְּאֹהֶל, וְהוּא דְּאִיכָּא רְבִיעִית.
+>
+> **Translation:** **Rabbi Asi of Neharbil says:** The statement of Rav Yehuda is referring **to blood plasma,** i.e., if the plasma has a reddish hue due to the blood, it has the status of blood and can render food susceptible to contracting ritual impurity. **Rabbi Yirmeya of Difti said:** Consumption of this plasma is **punishable by *karet*,** as is the *halakha* with regard to one who consumes blood (see Leviticus 17:14), **provided that there is** at least one **olive-bulk** of actual blood. **It was taught in a *baraita*:** Blood plasma that issues from a corpse that has a reddish hue **imparts ritual impurity in a tent, provided that there is** at least **a quarter-***log* of actual blood, which is the amount of a corpse's blood that imparts ritual impurity.
+
 The *daf* opens with a statement by Rabbi Assi from Naharville. Eight lines from the bottom, the passage begins: *Rabbi Assi mi-Naharville omer: b'tzilusah d'dama* — Rabbi Assi from Naharville says this ruling applies to the clear serum of blood. The earlier statement had held that as long as a blood mixture still appears red, it qualifies as *machshir zera'im*. The *Gemara* had objected: what is the novelty? If blood is mixed with water, the water itself renders food susceptible. The answer, as we saw, was that the case involves blood mixed with rainwater. Now Rabbi Assi addresses a different question entirely — not a mixture of blood with some external liquid, but the clear, watery component that is a natural part of blood itself.
 
 As *Rashi* explains, if blood is allowed to settle, the denser matter collects toward the center while the clearer, more watery portion pools at the edges. Rabbi Assi's ruling is that even this clear, separated serum — even though it no longer appears deeply red — nonetheless retains sufficient connection to blood to qualify as *machshir zera'im*.
@@ -25,6 +29,10 @@ A *baraita* is then cited: *b'masnisa tana: mitamin b'ohel* — we taught in a *
 The text at this point is introduced as *tnan hatam* — we taught "over there." The marginal references in the printed *Gemara* indicate this passage comes from the *Tosefta*, not from a *Mishnah*. The commentary of Rabbi Shimshon, one of the *Ba'alei haTosafot* who wrote a commentary on the *Mishnayot*, notes that all manuscripts read *tnan* — "we taught in a *Mishnah*" — yet the passage appears in no *Mishnah*. *Tosafot* acknowledges that the *Gemara* sometimes uses such language imprecisely or in error.
 
 ### Corpse Liquids & Blood
+
+> **Hebrew/Aramaic:** תְּנַן הָתָם: כׇּל מַשְׁקֵה הַמֵּת טְהוֹרִין, חוּץ מִדָּמוֹ, וְכׇל מַרְאֵה אַדְּמוּמִית שֶׁבּוֹ מְטַמְּאִין בְּאֹהֶל. וּמַשְׁקֵה הַמֵּת טְהוֹרִין? וּרְמִינְהוּ: מַשְׁקֶה טְבוּל יוֹם, מַשְׁקִין הַיּוֹצְאִין מִמֶּנּוּ כְּמַשְׁקִין שֶׁנּוֹגֵעַ בָּהֶן,
+>
+> **Translation:** **We learned** in a *baraita* **elsewhere** (*Tosefta*, *Oholot* 4:5): **All liquids** that issue **from a corpse,** e.g., teardrops or breastmilk, **are ritually pure, except for its blood. And all** liquids that issue **from** a corpse that contain **a reddish hue** of blood **impart ritual impurity in a tent.** The Gemara asks: **But are liquids** that issue from **a corpse ritually pure? And raise a contradiction** from a mishna (*Tevul Yom* 2:1): With regard to **liquids** that issue **from one who immersed that day, liquids that issue from him** have the same status **as liquids that he touches.**
 
 The *baraita* or passage now cited reads: *kol mashkeh meit tehorim chutz midamo* — all liquids of a corpse are *tahor*, they do not share the corpse's impurity-status, except for the blood. As we have seen, the blood of a corpse conveys impurity and indeed conveys *tumas ohel*. Then: *v'chol marei admumit shebo metam'in b'ohel* — and all reddish appearances in it cause *tumah* in the tent. This echoes the earlier point: anything with even a somewhat reddish appearance — perhaps a less intensely red, more liquidy part of the blood — is still treated as blood. And then: *umashkei hameit tehorin* — but all other liquids of the corpse are pure.
 
@@ -197,18 +205,17 @@ In principle, one might have applied the alternative hermeneutical framework of 
 
 The conclusion of the derivation is: things that share the qualities of dust — granular form, and the capacity to nurture plant life — are included; things that lack those qualities are excluded. This accounts for the inclusion of ground stone, sawdust, and thin flax, and the exclusion of flour, metal, and thick or solid materials.
 
-> **Hebrew/Aramaic:** דָּרַשׁ רַב נַחְמָן בַּר רַב חִסְדָּא: אֵין מְכַסִּים אֶלָּא בְּדָבָר שֶׁזּוֹרְעִין בּוֹ וּמַצְמִיחַ. אָמַר רָבָא: הַאי בּוּרְכָא!
-> **Translation:** § **Rav Naḥman bar Rav Ḥisda taught: One may not cover** the blood of an undomesticated animal or a bird **except with a substance in which** seed is **sown and sprouts. Rava said: This** is **an absurdity [*burkha*],** as the mishna and *baraita* both teach that one may use substances in which seeds do not sprout.
-
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב נַחְמָן בַּר יִצְחָק לְרָבָא: מַאי בּוּרְכָתֵיהּ? אֲנָא אַמְרִיתַהּ נִיהֲלֵיהּ, וּמֵהָא מַתְנִיתָא אַמְרִיתַהּ נִיהֲלֵיהּ: הָיָה מְהַלֵּךְ בַּמִּדְבָּר, וְאֵין לוֹ אֵפֶר לְכַסּוֹת – שׁוֹחֵק דִּינַר זָהָב וּמְכַסֶּה. הָיָה מְהַלֵּךְ בִּסְפִינָה, וְאֵין לוֹ עָפָר לְכַסּוֹת – שׂוֹרֵף טַלִּיתוֹ וּמְכַסֶּה.
-> **Translation:** **Rav Naḥman bar Yitzḥak said to Rava: What is the absurdity** of **his** statement? **I said this** statement to Rav Naḥman bar Rav Ḥisda **and I said it to him from this *baraita*:** If one **is traveling in the desert,** where the earth is not arable, and wishes to slaughter an undomesticated animal or a bird, **but he does not have dirt** with which **to cover** the blood, **he may grind a gold dinar** into powder **and cover** the blood with it. If one **is traveling on a ship** and wants to slaughter an undomesticated animal or a bird **but he does not have earth** with which **to cover** the blood, **he may burn his garment and cover** the blood with the ashes. It is evident from the first clause of the *baraita* that desert sand, which does not allow for the sprouting of seeds, may not be used to cover the blood of an undomesticated animal or a bird.
-
 ## Desert & Sea Cases
 
 
 
 ### Gold Coin Case
 
+> **Hebrew/Aramaic:** דָּרַשׁ רַב נַחְמָן בַּר רַב חִסְדָּא: אֵין מְכַסִּים אֶלָּא בְּדָבָר שֶׁזּוֹרְעִין בּוֹ וּמַצְמִיחַ. אָמַר רָבָא: הַאי בּוּרְכָא!
+> **Translation:** § **Rav Naḥman bar Rav Ḥisda taught: One may not cover** the blood of an undomesticated animal or a bird **except with a substance in which** seed is **sown and sprouts. Rava said: This** is **an absurdity [*burkha*],** as the mishna and *baraita* both teach that one may use substances in which seeds do not sprout.
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב נַחְמָן בַּר יִצְחָק לְרָבָא: מַאי בּוּרְכָתֵיהּ? אֲנָא אַמְרִיתַהּ נִיהֲלֵיהּ, וּמֵהָא מַתְנִיתָא אַמְרִיתַהּ נִיהֲלֵיהּ: הָיָה מְהַלֵּךְ בַּמִּדְבָּר, וְאֵין לוֹ אֵפֶר לְכַסּוֹת – שׁוֹחֵק דִּינַר זָהָב וּמְכַסֶּה. הָיָה מְהַלֵּךְ בִּסְפִינָה, וְאֵין לוֹ עָפָר לְכַסּוֹת – שׂוֹרֵף טַלִּיתוֹ וּמְכַסֶּה.
+> **Translation:** **Rav Naḥman bar Yitzḥak said to Rava: What is the absurdity** of **his** statement? **I said this** statement to Rav Naḥman bar Rav Ḥisda **and I said it to him from this *baraita*:** If one **is traveling in the desert,** where the earth is not arable, and wishes to slaughter an undomesticated animal or a bird, **but he does not have dirt** with which **to cover** the blood, **he may grind a gold dinar** into powder **and cover** the blood with it. If one **is traveling on a ship** and wants to slaughter an undomesticated animal or a bird **but he does not have earth** with which **to cover** the blood, **he may burn his garment and cover** the blood with the ashes. It is evident from the first clause of the *baraita* that desert sand, which does not allow for the sprouting of seeds, may not be used to cover the blood of an undomesticated animal or a bird.
 
 A series of extreme cases is now introduced, illustrating how one fulfills the obligation of *kissuy hadam* when conventional materials are unavailable.
 
@@ -263,8 +270,6 @@ The *Mishnah* or *baraita* then adds: *hosifu aleiha: hashachor vehakachol venik
 > **Hebrew/Aramaic:** וְלִיחְשׁוֹב נָמֵי עֲפַר כִּסּוּי הַדָּם? הָתָם הֶכְשֵׁר מִצְוָה אִיכָּא, הֲנָאָה לֵיכָּא.
 > **Translation:** The Gemara challenges: **But let** Rava **also consider the earth** used in the mitzva of **covering the blood.** The Gemara responds: **There,** the earth **does** serve as an **accessory to the mitzva** of covering the blood, but **there is no benefit** imparted by it. It occurs after the animal has been slaughtered and does not itself render the meat fit for consumption. By contrast, the ashes of the red heifer and the dust of the *sota* provide benefit, as the former purifies one who became ritually impure and the latter leads to peace between husband and wife when drinking the water proves that she did not commit adultery.
 
-> **Hebrew/Aramaic:** וְאָמַר רָבָא: בִּשְׂכַר שֶׁאָמַר אַבְרָהָם אָבִינוּ
-> **Translation:** **And Rava says: As reward** for that **which our Patriarch Abraham said** to the king of Sodom:
 
 The *perek* concludes with an *aggadic* passage that ties the discussion of dust and ashes to a broader theological reflection. *Amar Rava: bischar she'amar Avraham Avinu ve'anochi afar va'eifer* — Rava said: as a reward for *Avraham Avinu* having said "and I am dust and ashes" in his supplication before God over *Sodom and Amorah*, his descendants merited two *mitzvot*: *eifer parah* — the ashes of the red heifer, which purify those who are impure; *ve'afar sotah* — the earth of the *sotah* ritual, which is used in the water given to the woman suspected of infidelity.
 
@@ -279,3 +284,6 @@ By contrast, *kissuy hadam* — while certainly a *mitzvah* — provides no such
 There is something beautifully paradoxical in this *Gemara*: one accumulates *mitzvah*-credit for performing *kissuy hadam*, but that very *mitzvah* is not listed among the rewards granted to *Avraham*'s descendants — precisely because it confers no benefit beyond the act itself. The rewards from *Avraham*'s humility are expressed through *mitzvot* that accomplish something concrete in the world. *Kissuy hadam*, though of the same linguistic fabric (*afar*, *eifer*), belongs to a different register of obligation.
 
 With this, the *Gemara* concludes the *perek*. Tomorrow's *daf* opens the *aggadic* material that closes the *masechta*.
+> **Hebrew/Aramaic:** וְאָמַר רָבָא: בִּשְׂכַר שֶׁאָמַר אַבְרָהָם אָבִינוּ
+> **Translation:** **And Rava says: As reward** for that **which our Patriarch Abraham said** to the king of Sodom:
+

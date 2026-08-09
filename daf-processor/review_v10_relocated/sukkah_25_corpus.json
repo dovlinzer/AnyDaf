@@ -1,0 +1,242 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Enumeration of Exemptions",
+    "candidates": [
+      "Overview & Transition",
+      "Why Start w/ Exemptions",
+      "Enumeration of Exemptions",
+      "Basukot Teshvu",
+      "Source: Shema & Berakhot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself enumerating the three exemptions (shlichei mitzvah, cholim, and casual eating/drinking outside the sukkah), which is precisely what the 'Enumeration of Exemptions' section's prose describes and analyzes.",
+      "chosen_heading": "Enumeration of Exemptions",
+      "current_heading": "Enumeration of Exemptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Source: Shema & Berakhot",
+    "candidates": [
+      "Basukot Teshvu",
+      "Source: Shema & Berakhot",
+      "Derech: Discretionary Act"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita deriving exemptions from Shema for one engaged in a mitzvah and for a groom, along with the ruling about a virgin vs. widow \u2014 exactly what the prose of 'Source: Shema & Berakhot' describes and introduces.",
+      "chosen_heading": "Source: Shema & Berakhot",
+      "current_heading": "Source: Shema & Berakhot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Derech: Discretionary Act",
+    "candidates": [
+      "Derech: Discretionary Act",
+      "Two Rishonic Approaches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's 'k'derech reshut' derivation, which is precisely what the prose under 'Derech: Discretionary Act' explains and expands upon.",
+      "chosen_heading": "Derech: Discretionary Act",
+      "current_heading": "Derech: Discretionary Act",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Two Rishonic Approaches",
+    "candidates": [
+      "Two Rishonic Approaches",
+      "Chatan & Distraction",
+      "Rashi: Preoccupation",
+      "Virgin vs. Widow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives from the gemara the principle that 'belechtecha' (your walking) obligates you in Shema only during discretionary walking, exempting one engaged in a mitzva \u2014 this is precisely the source text for the 'Two Rishonic Approaches' section's discussion of the pasuk 'beshivtecha uvlechtecha' as the basis for osek b'mitzvah patur min hamitzvah.",
+      "chosen_heading": "Two Rishonic Approaches",
+      "current_heading": "Two Rishonic Approaches",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Virgin vs. Widow",
+    "candidates": [
+      "Chatan & Distraction",
+      "Rashi: Preoccupation",
+      "Virgin vs. Widow",
+      "Avel Counterexample"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's question about whether one who marries a widow should also be exempt, and the answer distinguishing betulah (preoccupied/tarid) from almanah (not preoccupied), which is precisely what the 'Virgin vs. Widow' section's prose describes.",
+      "chosen_heading": "Virgin vs. Widow",
+      "current_heading": "Virgin vs. Widow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Avel Counterexample",
+    "candidates": [
+      "Avel Counterexample",
+      "Tirda Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's challenge about whether preoccupation in general exempts (ship sinking) and the refutation via Rav Abba bar Zavda's ruling about a mourner being obligated in all mitzvot except tefillin \u2014 exactly what the 'Avel Counterexample' prose describes.",
+      "chosen_heading": "Avel Counterexample",
+      "current_heading": "Avel Counterexample",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Tirda Categories",
+    "candidates": [
+      "Tirda Categories",
+      "Joseph's Coffin Braita",
+      "Identity Debates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the tirda d'mitzvah vs tirda d'reshut distinction that the 'Tirda Categories' section's prose explicitly discusses and quotes.",
+      "chosen_heading": "Tirda Categories",
+      "current_heading": "Tirda Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Identity Debates",
+    "candidates": [
+      "Joseph's Coffin Braita",
+      "Identity Debates",
+      "Tamei on Erev Pesach",
+      "Pesach vs. Shema",
+      "Both Sources Needed",
+      "Translation to Sukkah",
+      "Tosafot Compromise Model",
+      "Non-compromise Approach",
+      "Trivial Activity Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete baraita about the identity of the men who were tamei on Pesach \u2014 starting with the question 'from where is osek b'mitzvah derived?', citing the baraita, presenting Rabbi Yosei HaGelili's, Rabbi Akiva's, and Rabbi Yitzchak's views, and concluding with the met mitzvah resolution \u2014 which is precisely what heading 0 ('Joseph's Coffin Braita') describes as its content, including the initial challenge and the baraita citation.",
+      "chosen_heading": "Joseph's Coffin Braita",
+      "current_heading": "Identity Debates",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Trivial Activity Limits",
+    "candidates": [
+      "Tamei on Erev Pesach",
+      "Pesach vs. Shema",
+      "Both Sources Needed",
+      "Translation to Sukkah",
+      "Tosafot Compromise Model",
+      "Non-compromise Approach",
+      "Trivial Activity Limits",
+      "Avel & Tefillin Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains why both the Pesach and Shema sources are necessary \u2014 exactly what section 2 'Both Sources Needed' discusses, covering the karet argument and tzricha conclusion.",
+      "chosen_heading": "Both Sources Needed",
+      "current_heading": "Trivial Activity Limits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Avel & Tefillin Exemption",
+    "candidates": [
+      "Trivial Activity Limits",
+      "Avel & Tefillin Exemption",
+      "Avel Obligated in Sukkah",
+      "Self-Inflicted Tzaar",
+      "Rashi: Source of Tzaar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the avel's exemption from tefillin and its limitation to the first day \u2014 precisely what the 'Avel & Tefillin Exemption' section's prose discusses in detail.",
+      "chosen_heading": "Avel & Tefillin Exemption",
+      "current_heading": "Avel & Tefillin Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rashi: Source of Tzaar",
+    "candidates": [
+      "Avel Obligated in Sukkah",
+      "Self-Inflicted Tzaar",
+      "Rashi: Source of Tzaar",
+      "Denying Credence to Tzaar",
+      "Mitzta'er Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the initial ruling that a mourner is obligated in sukkah and the mitzta'er exemption distinction, which corresponds exactly to the 'Avel Obligated in Sukkah' section's prose, while the current placement under 'Rashi: Source of Tzaar' is a later interpretive discussion of this passage rather than the passage itself.",
+      "chosen_heading": "Avel Obligated in Sukkah",
+      "current_heading": "Rashi: Source of Tzaar",
+      "moved": true
+    }
+  }
+]

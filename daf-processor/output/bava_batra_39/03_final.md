@@ -1,12 +1,9 @@
-# Bava Batra 39 — Daf Yomi Shiur
-
+[DAF:39a]
 ## Mechah Shelo Befanav
 
-### Mechah & Chazakah
 
-> **Hebrew/Aramaic:** אָמַר רָבָא אָמַר רַב נַחְמָן: מֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה.
->
-> **Translation:** **Rava says** that **Rav Naḥman says: A protest that** is lodged **not in** the **presence** of the possessor **is** a valid **protest.**
+
+### Mechah & Chazakah
 
 The central concern of the *gemara* on this *daf* is *mechah* — the formal protest an owner must lodge to prevent an adverse possessor from establishing *chazakah* — and in particular the principle of *mechah shelo befanav*: whether a protest made not in the occupant's direct presence constitutes a valid *mechah*. The two institutions are intertwined. If the owner cannot make an effective *mechah* from a distance, the entire system governing *chazakah* shifts accordingly.
 
@@ -34,13 +31,14 @@ This raises an important question: what of someone who squats on land for three 
 
 ## Restrictions on Mechah
 
+
+
 ### Lo Temru Leh
 
-> **Hebrew/Aramaic:** אָמַר ״לָא תֵּימְרוּ לֵיהּ״, מַאי? אָמַר רַב זְבִיד: הָא קָאָמַר ״לָא תֵּימְרוּ לֵיהּ״! רַב פָּפָּא אָמַר: לְדִידֵיהּ לָא תֵּימְרוּ לֵיהּ, לְאַחֲרִינֵי אֵימַרוּ לְהוּ – חַבְרָךְ חַבְרָא אִית לֵיהּ, חַבְרָא דְחַבְרָךְ חַבְרָא אִית לֵיהּ.
->
-> **Translation:** If the one lodging a protest also **said: Do not tell** the possessor of the protest, **what** is the *halakha*? **Rav Zevid said:** It is not a valid protest, because **isn't he saying: Do not tell him?** Therefore, word of the protest will not reach the possessor and it is meaningless. **Rav Pappa** disagreed and **said** that the owner merely meant: **Do not tell him personally,** but they, i.e. the witnesses, should **tell others.** In that case, word of the protest will reach the possessor, since **your friend has a friend** whom he tells about the protest, **and your friend's friend has a friend** whom he tells about the protest; therefore, it is a valid protest.
-
 The *gemara* now introduces a series of cases in which the protesting owner attempts, in various ways, to restrict the spread of information about his *mechah*. At the top of 39a, the *gemara* presents a case in which the owner says to the witnesses: *lo temru leh* — do not tell him. He issues his *mechah* before witnesses, declaring the occupant a *gazlan* who is unlawfully on his land and whom he intends to sue, but instructs the witnesses to keep the matter to themselves. This is, at minimum, suspicious. Perhaps the owner is acting in bad faith, hoping to prevent the occupant from holding onto his *shtar* so that he can reclaim the land more easily. Alternatively, perhaps the owner simply does not want the *gazlan* to begin shoring up a defense. In any case, the question is whether this instruction — *lo temru leh* — is enough to invalidate the *mechah* entirely. If the witnesses obey, after all, the message will certainly not reach the occupant; it begins to resemble the situation of a different country, where communication is presumed impossible.
+
+> **Hebrew/Aramaic:** אָמַר ״לָא תֵּימְרוּ לֵיהּ״, מַאי? אָמַר רַב זְבִיד: הָא קָאָמַר ״לָא תֵּימְרוּ לֵיהּ״! רַב פָּפָּא אָמַר: לְדִידֵיהּ לָא תֵּימְרוּ לֵיהּ, לְאַחֲרִינֵי אֵימַרוּ לְהוּ – חַבְרָךְ חַבְרָא אִית לֵיהּ, חַבְרָא דְחַבְרָךְ חַבְרָא אִית לֵיהּ.
+> **Translation:** If the one lodging a protest also **said: Do not tell** the possessor of the protest, **what** is the *halakha*? **Rav Zevid said:** It is not a valid protest, because **isn’t he saying: Do not tell him?** Therefore, word of the protest will not reach the possessor and it is meaningless. **Rav Pappa** disagreed and **said** that the owner merely meant: **Do not tell him personally,** but they, i.e. the witnesses, should **tell others.** In that case, word of the protest will reach the possessor, since **your friend has a friend** whom he tells about the protest, **and your friend’s friend has a friend** whom he tells about the protest; therefore, it is a valid protest.
 
 ### Rav Zvid Strict
 
@@ -48,13 +46,12 @@ Rav Zvid's position is consistent and strict: once you have said *lo temru leh*,
 
 ### Rav Pappa Lenient
 
+
 Rav Pappa disagrees. He reads the instruction narrowly: *ledidi lo temru leh* — don't tell him directly — but *leachrinei emru* — you may tell others. And once you tell others, the principle of *chavrach chavrah it leh vechavrach dechavrah chavrah it leh* — your friend has a friend, and your friend's friend has a friend — applies. The witnesses have no obligation in a normal *mechah* to pick up the telephone and notify the occupant directly; they are simply witnesses to a protest that will circulate through ordinary social channels. Saying *lo temru leh* only restricts direct communication, and since direct communication was never the mechanism to begin with, the *mechah* remains valid.
 
-### Lo Tipku Shuta
+The same logic applies in a further case: what if the witnesses themselves, without being asked, volunteer the assurance *amru leh lo amrinan leh* — we will not tell him? One might think this is even more damaging to the *mechah*, since the promise is unprompted and therefore perhaps more expansive in its intent. Indeed, the Rashbam suggests that when the witnesses offer this on their own, they may mean it more broadly — precisely because they are not merely parsing a narrow instruction given to them and looking for loopholes within it, but are making an independent commitment. If someone tells you "don't say," you might respond "fine, I won't say to him" while understanding that you are free to tell others; but if you volunteer the assurance yourself, perhaps you genuinely mean you will keep it entirely under wraps. Rav Zvid, consistent as ever, rules that the *mechah* is void either way. Rav Pappa, however, holds that even here the witnesses are only committing to what they were already restricted from doing — telling him directly — and the rumor mill remains free to operate. The *mechah* therefore still stands.
 
-> **Hebrew/Aramaic:** אֲמַר לְהוּ: ״לָא תִּיפּוֹק לְכוּ שׁוּתָא״ – אָמַר רַב זְבִיד: הָא קָאָמַר ״לָא תִּיפּוֹק לְכוּ שׁוּתָא״! אֲמַרוּ לֵיהּ: ״לָא מַפְּקִינַן שׁוּתָא״ – אָמַר רַב פָּפָּא: הָא קָאָמְרִי לֵיהּ ״לָא מַפְּקִינַן שׁוּתָא״! רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ אָמַר: כֹּל מִילְּתָא דְלָא רַמְיָא עֲלֵיהּ דְּאִינִישׁ, אָמַר לַהּ וְלָאו אַדַּעְתֵּיהּ.
->
-> **Translation:** If the one lodging the protest also **said to them: A word [*shuta*] should not emerge from you** about this, what is the *halakha*? **Rav Zevid said:** It is not a valid protest, as **isn't he saying** to them: **A word should not emerge** from you? Similarly, if the people before whom he protested **said to him: We will not** have **a word emerge** from us, **Rav Pappa said:** It is not a valid protest, as **aren't they saying to him: We will not** have **a word emerge** from us? **Rav Huna, the son of Rav Yehoshua,** disagreed and **said:** It is a valid protest, because with regard to **any matter that** is **not** actually **incumbent on a person** to keep secret, it is likely that he will **say it** to others **unawares,** and therefore the presumption is that word will reach the possessor.
+### Lo Tipku Shuta
 
 What if the owner goes further? What if he says *lo tipku shuta* — do not let the word get out at all? This is broader than merely telling the witnesses not to speak to the occupant directly; it is an instruction to suppress the matter entirely. Here, Rav Zvid again rules that the *mechah* is nullified — this is entirely consistent with his position. And notably, Rav Pappa is silent. His silence is taken as implicit agreement: when the instruction is *lo tipku shuta*, even Rav Pappa concedes that the *mechah* fails, because the channels through which the message would have naturally traveled have been explicitly sealed off.
 
@@ -64,9 +61,16 @@ The *gemara* now introduces a further variation: what if the witnesses themselve
 
 Rav Zvid is again consistent: if they have offered that they will not tell the occupant, the *mechah* is invalid. Rav Pappa, however, maintains that even here the *mechah* stands — because their offer, just as the owner's instruction, means only that they will not tell the occupant directly, not that the rumor mill will be stopped.
 
+> **Hebrew/Aramaic:** אֲמַרוּ לֵיהּ: ״לָא אָמְרִינַן לֵיהּ״ – אָמַר רַב זְבִיד: הָא קָא אֲמַרוּ לֵיהּ ״לָא אָמְרִינַן לֵיהּ״! רַב פָּפָּא אָמַר: לְדִידֵיהּ לָא אָמְרִינַן לֵיהּ, לְאַחֲרִינֵי אָמְרִי לְהוּ – חַבְרָךְ חַבְרָא אִית לֵיהּ, וְחַבְרָא דְחַבְרָךְ חַבְרָא אִית לֵיהּ.
+> **Translation:** If the witnesses before whom the owner lodged the protest **said to him: We** are **not** going to **tell** the possessor about your protest, what is the *halakha*? **Rav Zevid said:** It is not a valid protest, and he has to lodge a protest before other witnesses, as are **they** not **saying to him: We are not** going to **tell him** about your protest? **Rav Pappa** disagreed and **said** that they merely meant: **We** are **not** going to **tell him personally,** but **we are** going to **tell others.** In that case, word of the protest will reach the possessor, since **your friend has a friend** whom he tells about the protest, **and your friend’s friend has a friend** whom he tells about the protest; therefore, it is a valid protest.
+
 ### Voluntary Offers
 
 Now the *gemara* presents the broadest formulation: the witnesses offer, on their own, *lo mapkinan shuta* — we will not let the word get out. This is the equivalent of *lo tipku shuta*, but it comes as a voluntary offer rather than an instruction from the owner. One might suppose this is the same as the case where the owner issued the instruction, and therefore Rav Pappa would again concede the invalidity. And indeed, Rav Pappa does say that when the witnesses have volunteered *lo mapkinan shuta*, the *mechah* is not valid — because once the scope of the undertaking has been expanded from "we won't tell him" to "we won't let the word get out," even Rav Pappa agrees the *mechah* cannot stand.
+
+The *gemara*'s reasoning here turns on a principle: *kol milta d'la ramya alei d'inish amar lah v'lav ada'atei* — anything that is not formally placed upon a person as an obligation, they will say it and not keep their mind on it. When the original owner charged the witnesses with keeping silence, there was a weight to that — an obligation imposed from outside. But when the witnesses simply volunteer the offer themselves, they feel no such weight. They will tell their wife, mention it to a friend; they are not *makpid*, not scrupulous, about how carefully they guard the commitment, precisely because no one demanded it of them. The result, as the *gemara* puts it, is *amar lah v'lav ada'atei* — they spoke carelessly, without attending to the agreement they made. And once it starts slipping out in small ways, the word will spread.
+
+What is striking, and the *gemara* seems aware of this, is that even granting all of this analysis — that voluntary undertakings are observed less carefully, that the word is more likely to leak — one might still have thought that at some threshold, with enough layers of restriction stacked on top of one another, the probability that the occupant hears the protest becomes vanishingly small. Rav Zvid's position reflects exactly that intuition. Yet the *halacha*, as a student in the passage presses and as the Rashba confirms, goes like Rav Pappa throughout — the broadest definition of *mechah* is applied consistently. The practical implication is significant: an original owner who combines all these circumstances — protesting at a distance, instructing silence, relying on witnesses who offer to suppress the word entirely — can still prevail in court. There is, in other words, a considerable structural bias in favor of the original owner built into these rulings, and it is worth pausing to register how striking that is when the cases are viewed together.
 
 ### Voluntary Offers
 
@@ -78,15 +82,20 @@ This last ruling strikes as somewhat counterintuitive. As the cases multiply —
 
 ## Rava vs Rav Nachman
 
+
+
 ### Rav Nachman
+
+
+> **Hebrew/Aramaic:** אֲמַר לְהוּ: ״לָא תִּיפּוֹק לְכוּ שׁוּתָא״ – אָמַר רַב זְבִיד: הָא קָאָמַר ״לָא תִּיפּוֹק לְכוּ שׁוּתָא״! אֲמַרוּ לֵיהּ: ״לָא מַפְּקִינַן שׁוּתָא״ – אָמַר רַב פָּפָּא: הָא קָאָמְרִי לֵיהּ ״לָא מַפְּקִינַן שׁוּתָא״! רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ אָמַר: כֹּל מִילְּתָא דְלָא רַמְיָא עֲלֵיהּ דְּאִינִישׁ, אָמַר לַהּ וְלָאו אַדַּעְתֵּיהּ.
+> **Translation:** If the one lodging the protest also **said to them: A word [*shuta*] should not emerge from you** about this, what is the *halakha*? **Rav Zevid said:** It is not a valid protest, as **isn’t he saying** to them: **A word should not emerge** from you? Similarly, if the people before whom he protested **said to him: We will not** have **a word emerge** from us, **Rav Pappa said:** It is not a valid protest, as **aren’t they saying to him: We will not** have **a word emerge** from us? **Rav Huna, the son of Rav Yehoshua,** disagreed and **said:** It is a valid protest, because with regard to **any matter that** is **not** actually **incumbent on a person** to keep secret, it is likely that he will **say it** to others **unawares,** and therefore the presumption is that word will reach the possessor.
 
 Rava quotes Rav Nachman as stating: *mechah shelo befanav havya mecha* — a protest not in the occupant's presence constitutes a valid *mechah*. This, of course, is the position around which the entire discussion of *chavrach chavrah it leh* and the various restrictions has revolved. The alternative — that *mechah shelo befanav* does *not* work, that *lo havya mecha* — would mean the owner must appear before the occupant directly, serving him with notice personally or through an agent. The Rashbam adds that if one did hold such a position, *o hu o shlucho* — either he himself or his agent — would suffice, since the essential point is that the occupant receives the message unambiguously. But Rav Nachman's ruling dispenses with that requirement entirely.
 
 ### Rava's Question
 
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ רָבָא לְרַב נַחְמָן – אָמַר רַבִּי יְהוּדָה: לֹא אָמְרוּ שָׁלֹשׁ שָׁנִים, אֶלָּא כְּדֵי שֶׁיְּהֵא בְּאַסְפַּמְיָא וְיַחְזִיק שָׁנָה, וְיֵלְכוּ וְיוֹדִיעוּהוּ שָׁנָה, וְיָבֹא לְשָׁנָה אַחֶרֶת. וְאִי סָלְקָא דַעְתָּךְ מֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה, לְמָה לִי לְמֵיתֵי? לִיתֵּיב הָתָם אַדּוּכְתֵּיהּ, וְלִימַחֵי! הָתָם עֵצָה טוֹבָה קָא מַשְׁמַע לַן, דְּנֵיתֵי וְנִשְׁקוֹל אַרְעָא וּפֵירֵי.
->
-> **Translation:** **Rava raised an objection to** what **Rav Naḥman** said from the mishna: **Rabbi Yehuda says:** The Sages **said** that establishing the presumption of ownership requires **three years only in order that** if the owner **will be in Spain and** another **possesses** his field for **a year,** people **will go and inform** the owner by the end of the next **year, and** the owner will **come** back **in** the **following year** and take the possessor to court. **And if** it **enters your mind** that **a protest that** is lodged **not in his presence is** a valid **protest, why do I** need the owner **to come? Let him remain there in his place and protest.** The Gemara answers: **There,** Rabbi Yehuda wishes to **teach us good advice, that he** should **come and collect the land and** its **produce.**
+> **Hebrew/Aramaic:** אָמַר רָבָא אָמַר רַב נַחְמָן: מֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה. אֵיתִיבֵיהּ רָבָא לְרַב נַחְמָן – אָמַר רַבִּי יְהוּדָה: לֹא אָמְרוּ שָׁלֹשׁ שָׁנִים, אֶלָּא כְּדֵי שֶׁיְּהֵא בְּאַסְפַּמְיָא וְיַחְזִיק שָׁנָה, וְיֵלְכוּ וְיוֹדִיעוּהוּ שָׁנָה, וְיָבֹא לְשָׁנָה אַחֶרֶת. וְאִי סָלְקָא דַעְתָּךְ מֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה, לְמָה לִי לְמֵיתֵי? לִיתֵּיב הָתָם אַדּוּכְתֵּיהּ, וְלִימַחֵי! הָתָם עֵצָה טוֹבָה קָא מַשְׁמַע לַן, דְּנֵיתֵי וְנִשְׁקוֹל אַרְעָא וּפֵירֵי.
+> **Translation:** § **Rava says** that **Rav Naḥman says: A protest that** is lodged **not in** the **presence** of the possessor **is** a valid **protest. Rava raised an objection to** what **Rav Naḥman** said from the mishna: **Rabbi Yehuda says:** The Sages **said** that establishing the presumption of ownership requires **three years only in order that** if the owner **will be in Spain and** another **possesses** his field for **a year,** people **will go and inform** the owner by the end of the next **year, and** the owner will **come** back **in** the **following year** and take the possessor to court. **And if** it **enters your mind** that **a protest that** is lodged **not in his presence is** a valid **protest, why do I** need the owner **to come? Let him remain there in his place and protest.** The Gemara answers: **There,** Rabbi Yehuda wishes to **teach us good advice, that he** should **come and collect the land and** its **produce.**
 
 Rava, however, challenges Rav Nachman from the position of Rabbi Yehuda in the *mishna*. Rabbi Yehuda explains the purpose of the three-year period as follows: *lo amru shalosh shanim ella kidei sheyehei be'Aspamia* — the three years were instituted to allow time for someone in Aspamia (a distant province) to be reached by news that someone is occupying his land, and to return and respond. The breakdown of the three years, as Rabbi Yehuda describes it, is: the occupant takes possession for one year, news travels to the owner for the second year, and the owner returns and protests in the third year — *veyavo leshana achereta*. The word *veyavo*, "he returns," implies that Rabbi Yehuda requires the owner to physically come back and issue the *mechah* directly. If *mechah shelo befanav* were sufficient, why would he need to return? Let him sit in Aspamia and protest from there — *leysev hatam be'duchtei velimchei*.
 
@@ -94,7 +103,9 @@ Tosafot notes a wrinkle in this question: we have already established that when 
 
 ### Good Advice
 
-The *gemara* resolves Rava's challenge: *hasam eitzah tovah ka mashma lan* — there, Rabbi Yehuda is not stating a legal requirement; he is offering good advice. The *mishna* is counseling the owner: now that you have learned someone is on your land, go protect your interests. Return and sue the person; reclaim what is yours. It does not mean that you are legally obligated to do so, or that *mechah shelo befanav* is insufficient. Rabbi Yehuda's language describes the practically wise course of action, not a binding legal demand.
+The *gemara* resolves Rava's challenge: *hasam eitzah tovah ka mashma lan* — there, Rabbi Yehuda is not stating a legal requirement; he is offering good advice. The *mishna* is counseling the owner: now that you have learned someone is on your land, go protect your interests. Return and sue the person — *d'neisi v'nishkol ara peiri* — come back and reclaim the land and its produce. It does not mean that you are legally obligated to do so, or that *mechah shelo befanav* is insufficient. Rabbi Yehuda's language describes the practically wise course of action, not a binding legal demand.
+
+A related question arises from this discussion: if we were to say that *mechah befanav* is legally required, must the owner personally appear before the *machzik*? The Rashbam addresses this directly, noting *o hu o shlucho* — either the owner himself or his agent. If *mechah befanav* were the standard, it would be unreasonable to demand that the owner physically travel to every dispute. The essential requirement, as the Rashbam understands it, is that the *machzik* receives an unambiguous, direct protest — that there is no question the message reached him. Appointing an agent to carry out that protest on the owner's behalf satisfies this concern just as well. In any event, the *gemara*'s conclusion here is that this stricter standard does not apply — Rabbi Yehuda does not require it, and *mechah shelo befanav* remains valid in principle, subject to the separate concern about cross-country communication raised earlier.
 
 ### Peiros Issue
 
@@ -102,9 +113,8 @@ The Rashbam makes an additional point that deepens the force of this advice, whi
 
 ### Rava Accepts
 
-> **Hebrew/Aramaic:** מִדְּקָא מוֹתֵיב לֵיהּ רָבָא לְרַב נַחְמָן – מִכְּלָל דְּלָא סְבִירָא לֵיהּ דְּמֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה; וְהָאָמַר רָבָא: מֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה! בָּתַר דְּשַׁמְעַהּ מֵרַב נַחְמָן, סַבְרַהּ.
->
-> **Translation:** The Gemara asks: **From the fact** that **Rava raised an objection to Rav Naḥman, it may be inferred that** he does **not hold that a protest that** is lodged **not in his presence is** a valid **protest. But doesn't Rava say: A protest that** is lodged **not in his presence is** a valid **protest?** The Gemara answers: He **held that** conclusion only **after** he **heard this** *halakha* **from Rav Naḥman.**
+> **Hebrew/Aramaic:** מִדְּקָא מוֹתֵיב לֵיהּ רָבָא לְרַב נַחְמָן – מִכְּלָל דְּלָא סְבִירָא לֵיהּ דְּמֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה; וְהָאָמַר רָבָא: מֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה! בָּתַר דְּשַׁמְעַהּ מֵרַב נַחְמָן, סַבְרַהּ.
+> **Translation:** The Gemara asks: **From the fact** that **Rava raised an objection to Rav Naḥman, it may be inferred that** he does **not hold that a protest that** is lodged **not in his presence is** a valid **protest. But doesn’t Rava say: A protest that** is lodged **not in his presence is** a valid **protest?** The Gemara answers: He **held that** conclusion only **after** he **heard this** *halakha* **from Rav Naḥman.**
 
 The *gemara* then observes that since Rava himself had challenged Rav Nachman's position, it would appear that Rava did not initially accept that *mechah shelo befanav* is valid — yet we know from all the preceding discussion that Rava was a leading proponent of exactly that principle. The *gemara* resolves this: *basar d'shamei m'Rav Nachman savrah* — after he heard the ruling from Rav Nachman, challenged it, received a satisfying answer, and was persuaded, Rava accepted and adopted the position as his own. It was not his position from the outset; he came to it through this very exchange.
 
@@ -112,11 +122,12 @@ The *gemara* then observes that since Rava himself had challenged Rav Nachman's 
 
 ## Two vs Three Witness (II)
 
+
+
 ### Witness Number
 
-> **Hebrew/Aramaic:** אַשְׁכְּחִינְהוּ רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא לְתַלְמִידָיו דְּרַבִּי יוֹחָנָן, אֲמַר לְהוּ: מִי אָמַר רַבִּי יוֹחָנָן מֶחָאָה – בְּכַמָּה? רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: מֶחָאָה בִּפְנֵי שְׁנַיִם. רַבִּי אֲבָהוּ אָמַר רַבִּי יוֹחָנָן: מֶחָאָה בִּפְנֵי שְׁלֹשָׁה.
->
-> **Translation:** The Gemara relates: **Rabbi Yosei, son of Rabbi Ḥanina, encountered** the **students of Rabbi Yoḥanan** and **said to them: Did Rabbi Yoḥanan say in** the presence of **how many** people **a protest** must be lodged? **Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan** says: **A protest** must be lodged **in the presence of two** people. **Rabbi Abbahu said** that **Rabbi Yoḥanan** said: **A protest** must be lodged **in the presence of three** people.
+> **Hebrew/Aramaic:** אַשְׁכְּחִינְהוּ רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא לְתַלְמִידָיו דְּרַבִּי יוֹחָנָן, אֲמַר לְהוּ: מִי אָמַר רַבִּי יוֹחָנָן מֶחָאָה – בְּכַמָּה? רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: מֶחָאָה בִּפְנֵי שְׁנַיִם. רַבִּי אֲבָהוּ אָמַר רַבִּי יוֹחָנָן: מֶחָאָה בִּפְנֵי שְׁלֹשָׁה.
+> **Translation:** § The Gemara relates: **Rabbi Yosei, son of Rabbi Ḥanina, encountered** the **students of Rabbi Yoḥanan** and **said to them: Did Rabbi Yoḥanan say in** the presence of **how many** people **a protest** must be lodged? **Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan** says: **A protest** must be lodged **in the presence of two** people. **Rabbi Abbahu said** that **Rabbi Yoḥanan** said: **A protest** must be lodged **in the presence of three** people.
 
 The *gemara* now raises a different question about *mechah*: how many people must be present when the *mechah* is issued? We have assumed throughout that witnesses are required, and the cases above all describe the protest as made before multiple people — *lo temru leh* is in the plural. The question is whether the required number is two or three.
 
@@ -128,17 +139,22 @@ Rabbi Abba bar Rabbi Chiya transmits a ruling in the name of Rabbi Yochanan: *me
 
 A different tradition records Rabbi Yochanan as ruling: *mechah bifnei shalosh* — three people are required.
 
+[DAF:39b]
 ### Lashon Hara Link
 
-> **Hebrew/Aramaic:** לֵימָא בִּדְרַבָּה בַּר רַב הוּנָא קָא מִיפַּלְגִי – דְּאָמַר רַבָּה בַּר רַב הוּנָא: כֹּל מִילְּתָא דְּמִתְאַמְרָא בְּאַפֵּי תְּלָתָא, לֵית בָּהּ מִשּׁוּם לִישָּׁנָא בִּישָׁא;
->
-> **Translation:** The Gemara suggests: **Shall we say that they disagree with regard to** the *halakha* **of Rabba bar Rav Huna? As Rabba bar Rav Huna says: Any matter that is said in the presence of three** people **is not subject to** the prohibition of **malicious speech,** as it is already public knowledge.
+> **Hebrew/Aramaic:** לֵימָא בִּדְרַבָּה בַּר רַב הוּנָא קָא מִיפַּלְגִי – דְּאָמַר רַבָּה בַּר רַב הוּנָא: כֹּל מִילְּתָא דְּמִתְאַמְרָא בְּאַפֵּי תְּלָתָא,
+> **Translation:** The Gemara suggests: **Shall we say that they disagree with regard to** the *halakha* **of Rabba bar Rav Huna? As Rabba bar Rav Huna says: Any matter that is said in the presence of three** people
+
+> **Hebrew/Aramaic:** לֵית בָּהּ מִשּׁוּם לִישָּׁנָא בִּישָׁא; מַאן דְּאָמַר בִּפְנֵי שְׁנַיִם – לֵית לֵיהּ דְּרַבָּה בַּר רַב הוּנָא, וּמַאן דְּאָמַר בִּפְנֵי שְׁלֹשָׁה – אִית לֵיהּ דְּרַבָּה בַּר רַב הוּנָא?
+> **Translation:** **is not subject to** the prohibition of **malicious speech,** as it is already public knowledge. The Gemara elaborates on the suggestion that the dispute hinges upon this point: **The one who says** that a protest can be lodged **in the presence of two** people **is not of** the opinion that the ruling is in accordance with the opinion **of Rabba bar Rav Huna** and holds that even if only two people hear of a matter it will become a matter of public knowledge. Therefore, it is sufficient to protest in the presence of two witnesses. **And the one who says** that a protest must be lodged **in the presence of three** people **is of** the opinion that the ruling is in accordance with the opinion **of Rabba bar Rav Huna.**
 
 The *gemara* suggests that perhaps the dispute between these two versions tracks a teaching of Rabbah bar Rav Huna in Arachin: *kol milta demis'amra be'appei tlata leit bei mishum lishna bisha* — anything said in the presence of three people is not subject to the prohibition of *lashon hara*. The implication is that once something is said before three, it will become public knowledge; the assumption that it will spread is so strong that repeating it no longer carries the character of private gossip. This principle will require careful unpacking, and the *gemara* will return to it — but the initial suggestion is that the debate between two and three witnesses in *mechah* may reflect a debate about how many people are needed before a matter can be presumed to enter public circulation.
 
 ---
 
 ## Lashon Hara Issues
+
+
 
 ### Three & Lashon Hara
 
@@ -148,29 +164,21 @@ The teaching of Rabbah bar Rav Huna — that a matter said before three people i
 
 ## Two vs Three Witness (II)
 
+
+
 ### Testimony vs Public
 
-> **Hebrew/Aramaic:** מַאן דְּאָמַר בִּפְנֵי שְׁנַיִם – לֵית לֵיהּ דְּרַבָּה בַּר רַב הוּנָא, וּמַאן דְּאָמַר בִּפְנֵי שְׁלֹשָׁה – אִית לֵיהּ דְּרַבָּה בַּר רַב הוּנָא?
->
-> **Translation:** **The one who says** that a protest can be lodged **in the presence of two** people **is not of** the opinion that the ruling is in accordance with the opinion **of Rabba bar Rav Huna** and holds that even if only two people hear of a matter it will become a matter of public knowledge. Therefore, it is sufficient to protest in the presence of two witnesses. **And the one who says** that a protest must be lodged **in the presence of three** people **is of** the opinion that the ruling is in accordance with the opinion **of Rabba bar Rav Huna.**
+> **Hebrew/Aramaic:** לָא, דְּכוּלֵּי עָלְמָא אִית לְהוּ דְּרַבָּה בַּר רַב הוּנָא; וְהָכָא בְּהָא קָא מִיפַּלְגִי – מַאן דְּאָמַר בִּפְנֵי שְׁנַיִם, קָסָבַר: מֶחָאָה שֶׁלֹּא בְּפָנָיו לָא הָוְיָא מֶחָאָה. וּמַאן דְּאָמַר בִּפְנֵי שְׁלֹשָׁה, קָסָבַר: מֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה.
+> **Translation:** The Gemara rejects this suggestion: **No, everyone is of** the opinion that the ruling is in accordance with the opinion **of Rabba bar Rav Huna, and here they disagree with regard to this: The one who says** that a protest can be lodged **in the presence of two** people **holds** that **a protest that** is lodged **not in his presence is not** a valid **protest.** Therefore, two witnesses suffice, as they are needed to attest only to the fact that the owner protested. **And the one who says** that a protest must be lodged **in the presence of three** people **holds** that **a protest that** is lodged **not in his presence is** a valid **protest.** Since the protest can be lodged not in the possessor’s presence, three people are needed to ensure that word of the protest will reach him.
+
+> **Hebrew/Aramaic:** אִי בָּעֵית אֵימָא: דְּכוּלֵּי עָלְמָא – מֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה; וְהָכָא בְּהָא קָמִיפַּלְגִי – מַאן דְּאָמַר בִּפְנֵי שְׁנַיִם, סָבַר: סָהֲדוּתָא בָּעֵינַן. וּמַאן דְּאָמַר בִּפְנֵי שְׁלֹשָׁה, קָסָבַר: גַּלּוֹיֵי מִילְּתָא בָּעֵינַן.
+> **Translation:** **If you wish, say** instead **that everyone** holds that **a protest that** is lodged **not in his presence is** a valid **protest, and here they disagree with regard to this: The one who says** that a protest can be lodged **in the presence of** only **two** people **holds** that **we require testimony,** and two are sufficient for testimony. **And the one who says** that a protest must be lodged **in the presence of three** people **holds** that **we require** that **the matter** of the protest be **revealed,** and for that purpose three people are needed.
 
 The *gemara* proposes two ways of understanding the dispute between two and three witnesses for *mechah*. The first possibility: perhaps everyone agrees with Rabbah bar Rav Huna that three are needed to make something public, and the debate concerns a prior question. The one who says two holds *mechah shelo befanav lo havya mecha* — you cannot protest from a distance; you must deliver the *mechah* directly to the occupant. In that case, the witnesses need only testify that the protest was directly delivered — two witnesses suffice for testimony, just as in any other legal context. The one who says three holds *mechah shelo befanav havya mecha* — you do protest from a distance, the word must travel and reach the occupant, and for that you need three people to ensure the matter becomes public.
 
-### Alternative Framework
-
-> **Hebrew/Aramaic:** לָא, דְּכוּלֵּי עָלְמָא אִית לְהוּ דְּרַבָּה בַּר רַב הוּנָא; וְהָכָא בְּהָא קָא מִיפַּלְגִי – מַאן דְּאָמַר בִּפְנֵי שְׁנַיִם, קָסָבַר: מֶחָאָה שֶׁלֹּא בְּפָנָיו לָא הָוְיָא מֶחָאָה. וּמַאן דְּאָמַר בִּפְנֵי שְׁלֹשָׁה, קָסָבַר: מֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה.
->
-> **Translation:** The Gemara rejects this suggestion: **No, everyone is of** the opinion that the ruling is in accordance with the opinion **of Rabba bar Rav Huna, and here they disagree with regard to this: The one who says** that a protest can be lodged **in the presence of two** people **holds** that **a protest that** is lodged **not in his presence is not** a valid **protest.** Therefore, two witnesses suffice, as they are needed to attest only to the fact that the owner protested. **And the one who says** that a protest must be lodged **in the presence of three** people **holds** that **a protest that** is lodged **not in his presence is** a valid **protest.** Since the protest can be lodged not in the possessor's presence, three people are needed to ensure that word of the protest will reach him.
-
 The second possibility is that everyone agrees *mechah shelo befanav* works, and the debate is about what mechanism makes it effective. The one who says two holds *sahadusa ba'inan* — we need testimony, formal witnesses to the act of protest. The one who says three holds *gillui milta ba'inan* — we need the matter to become public. This is a conceptually richer distinction that warrants further exploration.
 
-### Further Alternative
-
-> **Hebrew/Aramaic:** אִי בָּעֵית אֵימָא: דְּכוּלֵּי עָלְמָא – מֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה; וְהָכָא בְּהָא קָמִיפַּלְגִי – מַאן דְּאָמַר בִּפְנֵי שְׁנַיִם, סָבַר: סָהֲדוּתָא בָּעֵינַן. וּמַאן דְּאָמַר בִּפְנֵי שְׁלֹשָׁה, קָסָבַר: גַּלּוֹיֵי מִילְּתָא בָּעֵינַן.
->
-> **Translation:** **If you wish, say** instead **that everyone** holds that **a protest that** is lodged **not in his presence is** a valid **protest, and here they disagree with regard to this: The one who says** that a protest can be lodged **in the presence of** only **two** people **holds** that **we require testimony,** and two are sufficient for testimony. **And the one who says** that a protest must be lodged **in the presence of three** people **holds** that **we require** that **the matter** of the protest be **revealed,** and for that purpose three people are needed.
-
-### Tosafot's View
+### Tosafot's View (II)
 
 Tosafot reads the *sahadusa* position differently. Of course, Tosafot says, the message ultimately has to reach the occupant — that is the whole purpose of *mechah*. And in principle, rumors spread even from a single person: *ve'i lav mishum sahadusa hava sagi bechad dechad vechad ve'islei* — if not for the need for testimony, even one person would be enough, since word travels from person to person. But two are required for testimony to the fact that the *mechah* was made. The rumor itself will spread from those two, even without them being formally obligated to carry it. So what, then, is the difference between two and three if the rumor spreads from either number?
 
@@ -186,9 +194,13 @@ This points toward a deeper question about what *chazakah* is doing and what *me
 
 These two frameworks — the *mechah* as breaking evidentiary inference versus the *mechah* as reshaping public perception — are both operative in the *gemara* and help explain why *gillui milta* might demand more than *sahadusa* alone.
 
+With that, we can now summarize the structural possibilities the *gemara* has laid out. The position requiring three witnesses might be saying that three is the threshold at which something becomes genuinely public — two people talking does not constitute a public matter, whereas three does. The position accepting two might mean one of several things: either that two suffices to make something public (a disagreement about the threshold), or that two operates not as a publicity mechanism at all but as *edus* — formal testimony — meaning the *mechah* is legally valid even if it never circulates and never reaches the occupant's ears. Or, following what *Tosafos* suggests, two may be enough because two people talking creates a realistic likelihood that word will travel to the occupant even without the matter becoming broadly public — a middle position in which the *mechah* need not be a public event but must at least have a reasonable path to the occupant's knowledge.
+
 ---
 
 ## Lashon Hara Issues (II)
+
+
 
 ### Rashbam's View
 
@@ -214,7 +226,7 @@ This reading is, however, not without difficulty. The reason we presume somethin
 
 The Rambam addresses this by qualifying his ruling carefully. One may treat something as public knowledge and discuss it conversationally, without attempting to make it more widely known. What remains prohibited is *targeting* the spread of negative information — going to people who might not know about it in order to make David look bad. The Chafetz Chaim adds a further qualification: one may assume something is common knowledge and treat it as such, but one may not repeat it with the intention of causing harm to the subject.
 
-This still does not fully dissolve the circularity, since the only path from "said before three" to "common knowledge" runs through acts of repetition by those three. But the Rambam's practical reading is that once the threshold of three has been crossed, the social reality of information diffusion takes over and the legal status shifts accordingly.
+This still does not fully dissolve the circularity, since the only path from "said before three" to "common knowledge" runs through acts of repetition by those three. But the Rambam's practical reading is that once the threshold of three has been crossed, the social reality of information diffusion takes over and the legal status shifts accordingly. It is worth noting what distinguishes the Rambam's position from Rashbam's in this regard. The Rashbam is concerned with a specific case: when someone says something negative about another person before witnesses, those witnesses may go and tell the subject what was said — not because of the public-matter rule, but because it is the *subject* who is the aggrieved party, and repeating the *lashon hara* to the person it concerns, or reporting it from the speaker's conduct as a matter of their own wrongdoing, does not carry the same prohibition. The Rambam, by contrast, is addressing the case where even third parties — neither the speaker nor the subject — may repeat the information to others, solely on the grounds that it has crossed into public knowledge. That is the broader and more contested claim, and the circularity problem bites hardest there.
 
 ### Rashbam Objects
 
@@ -230,11 +242,12 @@ Nonetheless, the underlying point of tension is real. When witnesses and their f
 
 ## Renewing Mechah
 
+
+
 ### Gidol's Case
 
-> **Hebrew/Aramaic:** גִּידֵּל בַּר מִנְיוֹמֵי הֲוָה לֵיהּ מַחוּיָאתָה לְמַחוֹיֵי. אַשְׁכְּחִינְהוּ לְרַב הוּנָא וּלְחִיָּיא בַּר רַב וּלְרַב חִלְקִיָּה בַּר טוֹבִי דַּהֲווֹ יָתְבִי, וּמַחָה קַמַּיְיהוּ. לְשָׁנָה – הֲדַר אֲתָא לְמַחוֹיֵי, אֲמַרוּ לֵיהּ: לָא צְרִיכַתְּ, הָכִי אָמַר רַב: כֵּיוָן שֶׁמִּיחָה שָׁנָה רִאשׁוֹנָה, שׁוּב אֵינוֹ צָרִיךְ לְמַחוֹת.
->
-> **Translation:** The Gemara relates: **Giddel bar Minyumi had a protest to lodge** with regard to his property. He **found Rav Huna and Ḥiyya bar Rav and Rav Ḥilkiya bar Tuvi, who were sitting, and** he **protested before them. After a year,** he **came** to them **again to protest. They said to him: You do not need** to do so; **this is what Rav says: Once** the owner **protested** in the **first year, he no longer needs to protest.**
+> **Hebrew/Aramaic:** גִּידֵּל בַּר מִנְיוֹמֵי הֲוָה לֵיהּ מַחוּיָאתָה לְמַחוֹיֵי. אַשְׁכְּחִינְהוּ לְרַב הוּנָא וּלְחִיָּיא בַּר רַב וּלְרַב חִלְקִיָּה בַּר טוֹבִי דַּהֲווֹ יָתְבִי, וּמַחָה קַמַּיְיהוּ. לְשָׁנָה – הֲדַר אֲתָא לְמַחוֹיֵי, אֲמַרוּ לֵיהּ: לָא צְרִיכַתְּ, הָכִי אָמַר רַב: כֵּיוָן שֶׁמִּיחָה שָׁנָה רִאשׁוֹנָה, שׁוּב אֵינוֹ צָרִיךְ לְמַחוֹת. וְאִיכָּא דְאָמְרִי, אֲמַר לֵיהּ חִיָּיא בַּר רַב: כֵּיוָן שֶׁמִּיחָה שָׁנָה רִאשׁוֹנָה, שׁוּב אֵין צָרִיךְ לְמַחוֹת.
+> **Translation:** § The Gemara relates: **Giddel bar Minyumi had a protest to lodge** with regard to his property. He **found Rav Huna and Ḥiyya bar Rav and Rav Ḥilkiya bar Tuvi, who were sitting, and** he **protested before them. After a year,** he **came** to them **again to protest. They said to him: You do not need** to do so; **this is what Rav says: Once** the owner **protested** in the **first year, he no longer needs to protest. And there are** those **who say** that **Ḥiyya bar Rav said to him,** not in the name of Rav: **Once** the owner **protested** in the **first year,** he **no longer needs to protest.**
 
 The *gemara* now presents the case of Gidol bar Minyumi, who needed to issue a *mechah*. He found Rav Huna, Chiya bar Rav, and Rav Hilkiya bar Tuvi — three prominent *rabbanim* who were sitting together — and issued his protest before them. Notably, he chose three, even though the presumed halacha follows the position of two witnesses. The following year, he returned, apparently believing that he was required to renew his *mechah* annually. They told him he was not: *lo tzerichat*.
 
@@ -242,19 +255,14 @@ The *gemara* now presents the case of Gidol bar Minyumi, who needed to issue a *
 
 Rav's ruling, as transmitted here, is: *keivan she'micha shanah rishonah shuv eino tzarich limchos* — once he made the *mechah* in the first year, he need never make it again. A single *mechah*, properly executed, is sufficient for the entire duration.
 
-### Reish Lakish: Every 3 Years
+### Reish Lakish: Mechah 3Yrs
 
-> **Hebrew/Aramaic:** אָמַר רֵישׁ לָקִישׁ מִשּׁוּם בַּר קַפָּרָא: וְצָרִיךְ לְמַחוֹת בְּסוֹף כׇּל שָׁלֹשׁ וְשָׁלֹשׁ.
->
-> **Translation:** **Reish Lakish says in the name of bar Kappara: And** he **needs to protest at the end of each and every** period of **three** years, so that the possessor will not hold his property for three consecutive years uncontested.
+> **Hebrew/Aramaic:** אָמַר רֵישׁ לָקִישׁ מִשּׁוּם בַּר קַפָּרָא: וְצָרִיךְ לְמַחוֹת בְּסוֹף כׇּל שָׁלֹשׁ וְשָׁלֹשׁ. תָּהֵי בַּהּ רַבִּי יוֹחָנָן: וְכִי גַּזְלָן יֵשׁ לוֹ חֲזָקָה?! ״גַּזְלָן״ סָלְקָא דַּעְתָּךְ?! אֶלָּא ״כְּגַזְלָן״ יֵשׁ לוֹ חֲזָקָה.
+> **Translation:** **Reish Lakish says in the name of bar Kappara: And** he **needs to protest at the end of each and every** period of **three** years, so that the possessor will not hold his property for three consecutive years uncontested. **Rabbi Yoḥanan expressed surprise at this** ruling of Reish Lakish and said: **But does a robber have** the ability to establish the **presumption** of ownership? Once the owner lodged one protest, he demonstrated that the possessor occupied his land unlawfully. Therefore, the possessor should never be able to establish the presumption of ownership. The Gemara clarifies: Does it **enter your mind** that the possessor is actually **a robber?** There is no evidence that he robbed, there is only a protest by the prior owner. **Rather,** emend his question as follows: Does one who is **akin to a robber have** the ability to establish the **presumption** of ownership?
 
 Reish Lakish, citing Bar Kappara, disagrees: *v'tzarich limchos b'sof kol gimmel v'gimmel* — one is obligated to renew the *mechah* at the end of every three-year period. The reasoning is that after a *mechah*, the *machzik* is put on notice; he understands that his claim is contested and he must be careful with his *shtar*. But after three years of renewed silence — three years during which no further protest has been lodged — he may reasonably conclude that the earlier protest has been abandoned, and once again let down his guard. Therefore, the owner must renew the *mechah* within every three-year cycle.
 
 ### Rabbi Yochanan
-
-> **Hebrew/Aramaic:** תָּהֵי בַּהּ רַבִּי יוֹחָנָן: וְכִי גַּזְלָן יֵשׁ לוֹ חֲזָקָה?! ״גַּזְלָן״ סָלְקָא דַּעְתָּךְ?! אֶלָּא ״כְּגַזְלָן״ יֵשׁ לוֹ חֲזָקָה.
->
-> **Translation:** **Rabbi Yoḥanan expressed surprise at this** ruling of Reish Lakish and said: **But does a robber have** the ability to establish the **presumption** of ownership? Once the owner lodged one protest, he demonstrated that the possessor occupied his land unlawfully. Therefore, the possessor should never be able to establish the presumption of ownership. The Gemara clarifies: Does it **enter your mind** that the possessor is actually **a robber?** There is no evidence that he robbed, there is only a protest by the prior owner. **Rather,** emend his question as follows: Does one who is **akin to a robber have** the ability to establish the **presumption** of ownership?
 
 Rabbi Yochanan found this troubling: *ki gazlan yesh lo chazakah* — does a *gazlan* have *chazakah*? If we have publicly declared this person a *gazlan*, how can he acquire any legal standing through continued possession?
 
@@ -264,16 +272,12 @@ The *gemara* clarifies Rabbi Yochanan's concern and resolves it: the occupant is
 
 ### Rava Rules
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: הִלְכְתָא – צָרִיךְ לְמַחוֹת בְּסוֹף כׇּל שָׁלֹשׁ וְשָׁלֹשׁ.
->
-> **Translation:** **Rava says** that **the *halakha*** is: The owner **needs to protest at the end of each and every** period of **three** years.
-
 Rava rules as a matter of halacha: *tzarich limchos b'sof kol gimmel v'gimmel* — the *mechah* must be renewed at the end of every three years. Despite the force of Rabbi Yochanan's argument — that once someone has been put on notice as a putative *gazlan* the *chazakah* clock should never run again — the halacha tips back toward the *machzik* on this point. If the owner allows three years to pass without renewing his protest, the *machzik* has effectively re-established his *chazakah*.
+
+> **Hebrew/Aramaic:** אָמַר רָבָא: הִלְכְתָא – צָרִיךְ לְמַחוֹת בְּסוֹף כׇּל שָׁלֹשׁ וְשָׁלֹשׁ. תָּנֵי בַּר קַפָּרָא: עִרְעֵר, חָזַר וְעִרְעֵר, חָזַר וְעִרְעֵר – אִם מֵחֲמַת טַעֲנָה רִאשׁוֹנָה עִרְעֵר, אֵין לוֹ חֲזָקָה. וְאִם לָאו – יֵשׁ לוֹ חֲזָקָה.
+> **Translation:** **Rava says** that **the *halakha*** is: The owner **needs to protest at the end of each and every** period of **three** years. **Bar Kappara teaches:** If the owner **protested, returned and protested,** and then **returned and protested, if,** when he **protested** the later times, his protest was **based on** the same claim as the **initial claim,** the possessor **has no presumptive ownership. But if** the later protests were **not** based on the same claim as the initial protest, the possessor **has presumptive ownership** since each time the owner advanced a new claim, he thereby nullified his earlier claims.
 
 ### Bar Kappara's Rule
 
-> **Hebrew/Aramaic:** תָּנֵי בַּר קַפָּרָא: עִרְעֵר, חָזַר וְעִרְעֵר, חָזַר וְעִרְעֵר – אִם מֵחֲמַת טַעֲנָה רִאשׁוֹנָה עִרְעֵר, אֵין לוֹ חֲזָקָה. וְאִם לָאו – יֵשׁ לוֹ חֲזָקָה.
->
-> **Translation:** **Bar Kappara teaches:** If the owner **protested, returned and protested,** and then **returned and protested, if,** when he **protested** the later times, his protest was **based on** the same claim as the **initial claim,** the possessor **has no presumptive ownership. But if** the later protests were **not** based on the same claim as the initial protest, the possessor **has presumptive ownership** since each time the owner advanced a new claim, he thereby nullified his earlier claims.
 
 Bar Kappara adds a further ruling about the quality of *mechah* renewal: *ir'er chozer v'ir'er chozer v'ir'er* — he challenges, returns, challenges again, and challenges again. *Im machamat ta'ana rishonah ir'er ein lo chazakah* — if each renewed protest is grounded in the same claim as the first, the series of *mechah* protests is valid and the occupant cannot establish *chazakah*. But *v'im lav yesh lo chazakah* — if the subsequent protests are based on different claims, the occupant does acquire *chazakah*. The reasoning is this: if I first protest that the occupant is a *gazlan*, three years later claim he is merely a sharecropper, and three years after that claim the arrangement was a *mashkon*, the constantly shifting story undermines all three protests. Each new claim is theoretically possible, and transitions between legal arrangements do occur. But an owner who cannot keep his story straight — whose claim shifts fundamentally from one *mechah* to the next — cannot sustain a coherent challenge, and his inconsistency gives the occupant the benefit of a consolidated *chazakah*.

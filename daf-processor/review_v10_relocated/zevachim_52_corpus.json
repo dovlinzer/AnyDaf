@@ -1,0 +1,303 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rav Papa's Point",
+    "candidates": [
+      "Yesterday's Recap",
+      "Rav Papa's Point",
+      "Inner vs. Outer",
+      "Extra Word 'Par'"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's exact statement about everyone agreeing that shirayim are not me'akev and that the debate concerns mitzuy chatat ha-of, which is precisely what the 'Rav Papa's Point' prose describes.",
+      "chosen_heading": "Rav Papa's Point",
+      "current_heading": "Rav Papa's Point",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Extra Word 'Par'",
+    "candidates": [
+      "Inner vs. Outer",
+      "Extra Word 'Par'",
+      "Kal Vachomer Args"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita supporting Rav Pappa's position that explains the extra word 'ha-par' as teaching about the Yom Kippur bull's requirement for blood placement at the base, which is precisely what the 'Extra Word Par' section's prose describes.",
+      "chosen_heading": "Extra Word 'Par'",
+      "current_heading": "Extra Word 'Par'",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Kal Vachomer Args",
+    "candidates": [
+      "Kal Vachomer Args",
+      "Doubling as Meakev?",
+      "Vichilah Mechapeir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the kal vachomer arguments of Rabbi Yishmael and Rabbi Akiva respectively, which is precisely what the 'Kal Vachomer Args' prose section describes in detail.",
+      "chosen_heading": "Kal Vachomer Args",
+      "current_heading": "Kal Vachomer Args",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Vichilah Mechapeir",
+    "candidates": [
+      "Doubling as Meakev?",
+      "Vichilah Mechapeir",
+      "Par Kohen Mashiach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the 'yachol y'akevenu' question \u2014 the possibility that the verse renders the base-spilling me'akev \u2014 which is precisely what candidate 0 ('Doubling as Meakev?') describes, while candidate 1 covers the baraita's rejection of that possibility via 'v'chilah mikapeir,' which is the next step.",
+      "chosen_heading": "Doubling as Meakev?",
+      "current_heading": "Vichilah Mechapeir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Par Kohen Mashiach",
+    "candidates": [
+      "Vichilah Mechapeir",
+      "Par Kohen Mashiach",
+      "Rashi's Grammar",
+      "Rabbi Yishmael's Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous baraita argument about the par kohen mashiach \u2014 the kal vachomer from the goat of the king, the possibility that the verse makes spilling me'akev, and the resolution that the verse's phrasing makes it a non-essential mitzva \u2014 which is exactly what the 'Par Kohen Mashiach' prose describes.",
+      "chosen_heading": "Par Kohen Mashiach",
+      "current_heading": "Par Kohen Mashiach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Rabbi Yishmael's Braita",
+    "candidates": [
+      "Rashi's Grammar",
+      "Rabbi Yishmael's Braita",
+      "Two Tanaiim",
+      "Osah Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the challenge-and-resolution about whether Rabbi Yishmael holds mitzuy chatat ha-of is me'akev, which is precisely what candidate 1's prose describes \u2014 the baraita from Rabbi Yishmael's school and the trei tanaim resolution are both part of that single continuous discussion.",
+      "chosen_heading": "Rabbi Yishmael's Braita",
+      "current_heading": "Rabbi Yishmael's Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Osah Dispute",
+    "candidates": [
+      "Two Tanaiim",
+      "Osah Dispute",
+      "Hava Amina Refuted"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two Tanaiim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rami bar \u1e24ama's opening statement identifying the tanna who holds shirayim me'akev, which the 'Two Tannaim' prose explicitly says the Gemara moves to demonstrate through Rami bar Chama's words.",
+      "second_heading": "Osah Dispute",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20137 are the full baraita deriving from 'osah' that blood placed below the red line disqualifies the chatat, which is precisely what the 'Osah Dispute' prose describes as the content of that section.",
+      "current_heading": "Osah Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Hava Amina Refuted",
+    "candidates": [
+      "Hava Amina Refuted",
+      "Rava's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows Rami bar \u1e24ama proving that the baraita's phrase 'the inner altar does not complete atonement' refers to the shirayim being me'akev, which is precisely the argument described in the 'Hava Amina Refuted' prose section.",
+      "chosen_heading": "Hava Amina Refuted",
+      "current_heading": "Hava Amina Refuted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Rava's Reading",
+    "candidates": [
+      "Rava's Reading",
+      "Akiva's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are Rava's argument \u2014 the kal vachomer challenge and its implication, followed by Rava's alternative reading that the inner altar requires the parochet \u2014 which matches precisely the prose under 'Rava's Reading.'",
+      "chosen_heading": "Rava's Reading",
+      "current_heading": "Rava's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Akiva's Position",
+    "candidates": [
+      "Akiva's Position",
+      "Yehuda's Position",
+      "Amoraim's Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Akiva's and Rabbi Yehuda's positions together in a single baraita, and the current heading 'Akiva's Position' with its prose explicitly introduces this baraita as the subject of dispute between the two, making it the correct placement.",
+      "chosen_heading": "Akiva's Position",
+      "current_heading": "Akiva's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Amoraim's Debate",
+    "candidates": [
+      "Yehuda's Position",
+      "Amoraim's Debate",
+      "Final Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Amoraic dispute between Rabbi Yochanan and Rabbi Yehoshua ben Levi over whether the difference between Rabbi Akiva and Rabbi Yehuda is hermeneutical or practical (shirayim me'akvin), and the conclusion identifying Rabbi Yehoshua ben Levi's position \u2014 exactly what the 'Amoraim's Debate' prose describes.",
+      "chosen_heading": "Amoraim's Debate",
+      "current_heading": "Amoraim's Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Final Conclusion",
+    "candidates": [
+      "Final Conclusion",
+      "Communal Chattaot",
+      "Slaughter North",
+      "Four Corners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's resolution of the Rabbi Yo\u1e25anan/Rabbi Yehoshua ben Levi dispute about which tanna holds shirayim are me'akev, which is precisely what the 'Final Conclusion' prose describes.",
+      "chosen_heading": "Final Conclusion",
+      "current_heading": "Final Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Four Corners",
+    "candidates": [
+      "Communal Chattaot",
+      "Slaughter North",
+      "Four Corners",
+      "Ramp & Circle",
+      "South Base & Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage introduces the topic of communal and individual sin offerings and identifies the communal ones as the goats of Rosh Chodesh and festivals, which matches candidate 0's prose about transitioning to outer chataot and defining communal sin offerings \u2014 not the four corners discussion of candidate 2 where it currently sits.",
+      "chosen_heading": "Communal Chattaot",
+      "current_heading": "Four Corners",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "South Base & Eating",
+    "candidates": [
+      "Ramp & Circle",
+      "South Base & Eating",
+      "Eating Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire procedure from ascending the ramp through the four corner sprinklings, the pouring of remnant blood, and eating rules \u2014 all content that begins with the ramp/circle procedure described in candidate 0's prose, and the current placement splits the passage mid-content; however, since the passage is a single Mishnaic unit covering all these elements and candidate 0 is where the passage naturally starts, it belongs under heading 0.",
+      "chosen_heading": "Ramp & Circle",
+      "current_heading": "South Base & Eating",
+      "moved": true
+    }
+  }
+]

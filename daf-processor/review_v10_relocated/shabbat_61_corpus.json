@@ -1,0 +1,273 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Single Shoe Debate",
+    "candidates": [
+      "Single Shoe Debate",
+      "R. Yochanan's Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous dispute about wearing a single sandal \u2014 the Mishnah's ruling (item 1) and the Rav Huna/\u1e24iyya bar Rav debate about which foot wears it (items 2\u20133) \u2014 which is precisely what the 'Single Shoe Debate' prose describes.",
+      "chosen_heading": "Single Shoe Debate",
+      "current_heading": "Single Shoe Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "R. Yochanan's Order",
+    "candidates": [
+      "R. Yochanan's Order",
+      "Putting On Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the incident with Rabbi Yo\u1e25anan and Rav Shemen bar Abba and whether it proves Rabbi Yo\u1e25anan holds like Rav Huna, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "R. Yochanan's Order",
+      "current_heading": "R. Yochanan's Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Putting On Order",
+    "candidates": [
+      "Putting On Order",
+      "Mar bar Ravina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 Rabbi Yo\u1e25anan's tefillin analogy, the baraita objection, Rav Yosef's pluralistic resolution, and Abaye's challenge to that resolution \u2014 are precisely the content described in the 'Putting On Order' prose section.",
+      "chosen_heading": "Putting On Order",
+      "current_heading": "Putting On Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Mar bar Ravina",
+    "candidates": [
+      "Mar bar Ravina",
+      "Daily Order & Mind"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to what candidate 0's prose discusses: item 1 is the Rav Nachman bar Yitzchak/Mar bar Ravina resolution and Rav Kahana coda, and item 2 is the baraita about putting on and removing shoes right-then-left/left-then-right \u2014 all explicitly described in candidate 0's prose.",
+      "chosen_heading": "Mar bar Ravina",
+      "current_heading": "Mar bar Ravina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Daily Order & Mind",
+    "candidates": [
+      "Daily Order & Mind",
+      "Tefillin Outdoors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about washing and anointing right before left, and anointing the head first as king of limbs, is explicitly discussed in the 'Daily Order & Mind' section's prose.",
+      "chosen_heading": "Daily Order & Mind",
+      "current_heading": "Daily Order & Mind",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Tefillin Outdoors",
+    "candidates": [
+      "Tefillin Outdoors",
+      "Malbush Category",
+      "Three-Fold Test"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tefillin Outdoors",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Safra's statement on the first clause of the mishna \u2014 why one may not go out with tefillin even according to the opinion that Shabbat is a time for tefillin \u2014 which is exactly what the 'Tefillin Outdoors' prose describes.",
+      "second_heading": "Malbush Category",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Safra's statement on the latter clause \u2014 why one who went out with tefillin is not liable for a chatat, because of derech malbush \u2014 which is precisely the subject of the 'Malbush Category' prose.",
+      "current_heading": "Tefillin Outdoors",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Three-Fold Test",
+    "candidates": [
+      "Malbush Category",
+      "Three-Fold Test",
+      "Writer vs. Amulet"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Writer vs. Amulet",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are Rav Papa's ruling and linguistic proof about writer vs. amulet expertise, which is precisely what candidate 2 ('Writer vs. Amulet') discusses.",
+      "second_heading": "Three-Fold Test",
+      "second_confidence": "high",
+      "second_reason": "Items 3-8 cover the Tosefta's three-fold healing criterion, the epilepsy and tying rules, and the resolution distinguishing writer-proof from formula-proof, all of which match candidate 1 ('Three-Fold Test') prose.",
+      "current_heading": "Three-Fold Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Writer vs. Amulet",
+    "candidates": [
+      "Writer vs. Amulet",
+      "Three Ailments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's systematic matrix of cases (three amulets for three people three times, three amulets for three people once each, one amulet for three people), which is precisely what the prose under 'Writer vs. Amulet' describes and analyzes in detail.",
+      "chosen_heading": "Writer vs. Amulet",
+      "current_heading": "Writer vs. Amulet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Three Ailments",
+    "candidates": [
+      "Three Ailments",
+      "Rambam's Rationalism",
+      "Radvaz & Rashba",
+      "Gra's Response",
+      "Modern Applications",
+      "God's Name Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly concerns Rav Pappa's dilemma about three amulets written for one person, which is precisely what the 'Three Ailments' section's prose describes and analyzes.",
+      "chosen_heading": "Three Ailments",
+      "current_heading": "Three Ailments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "God's Name Status",
+    "candidates": [
+      "Rambam's Rationalism",
+      "Radvaz & Rashba",
+      "Gra's Response",
+      "Modern Applications",
+      "God's Name Status",
+      "Written vs. Herb",
+      "Leather Covering"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "God's Name Status",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 address the kedushah question with respect to rescuing from fire and genizah, which is precisely what the 'God's Name Status' prose describes.",
+      "second_heading": "Written vs. Herb",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 address whether one may enter a bathroom with an amulet and the written-vs-herb distinction, which is exactly what the 'Written vs. Herb' prose describes.",
+      "current_heading": "God's Name Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Leather Covering",
+    "candidates": [
+      "Written vs. Herb",
+      "Leather Covering",
+      "Tefillin Contrast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the gemara's suggestion that a healing amulet held in the hand is permitted, and Rabbi Oshaya's baraita rejecting that \u2014 are explicitly described in the 'Leather Covering' prose as part of the chain of attempted resolutions leading to the final bi-mechupa or answer.",
+      "chosen_heading": "Leather Covering",
+      "current_heading": "Leather Covering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Tefillin Contrast",
+    "candidates": [
+      "Tefillin Contrast",
+      "Three Armor Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of objection-and-resolution about why leather covering suffices for an amulet but not for tefillin, which is precisely what the 'Tefillin Contrast' prose describes, including the shin/dalet/yud halakhot le-Moshe mi-Sinai.",
+      "chosen_heading": "Tefillin Contrast",
+      "current_heading": "Tefillin Contrast",
+      "moved": false
+    }
+  }
+]

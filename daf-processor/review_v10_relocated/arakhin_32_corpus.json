@@ -1,0 +1,458 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Money Deposit & Entry",
+    "candidates": [
+      "Opening",
+      "Hekdesh to Yovel",
+      "Mishnah: Buyer Hiding",
+      "Money Deposit & Entry",
+      "Yovel Applicability",
+      "Tosafot Position",
+      "Ramban Critique",
+      "Charlie's Question",
+      "Get Analogy",
+      "Rava: Forced Counts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The Mishnah passage describes both the original practice of buyers hiding on the final day AND Hillel's takana \u2014 exactly matching the 'Mishnah: Buyer Hiding' section prose which summarizes both elements, while the current placement under 'Money Deposit & Entry' duplicates coverage of Hillel's takana that the essay author discusses in their own prose there.",
+      "chosen_heading": "Mishnah: Buyer Hiding",
+      "current_heading": "Money Deposit & Entry",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Rava: Forced Counts",
+    "candidates": [
+      "Yovel Applicability",
+      "Tosafot Position",
+      "Ramban Critique",
+      "Charlie's Question",
+      "Get Analogy",
+      "Rava: Forced Counts",
+      "Rav Pappa Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items directly present Rava's inference from Hillel's takana that netina b'al korcho lo havei netina in general, and the application to the conditional get \u2014 precisely what the 'Rava: Forced Counts' prose describes.",
+      "chosen_heading": "Rava: Forced Counts",
+      "current_heading": "Rava: Forced Counts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Rav Pappa Challenge",
+    "candidates": [
+      "Rav Pappa Challenge",
+      "Refuse Property",
+      "Duty-Based Exceptions",
+      "House Redemption",
+      "Get Conditions",
+      "Legal Duty vs. Gift",
+      "Basic Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Rav Pappa/Rav Ashi/Rav Shimi bar Ashi objections to Rava's reading of Hillel's takana \u2014 exactly the content described in the 'Rav Pappa Challenge' prose, which explicitly mentions both versions of the exchange and all three named challengers.",
+      "chosen_heading": "Rav Pappa Challenge",
+      "current_heading": "Rav Pappa Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Basic Definition",
+    "candidates": [
+      "Refuse Property",
+      "Duty-Based Exceptions",
+      "House Redemption",
+      "Get Conditions",
+      "Legal Duty vs. Gift",
+      "Basic Definition",
+      "Baraita Examples",
+      "Fields Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The Mishnah passage discusses exactly what the 'Basic Definition' prose covers: what qualifies as batei arei chomah, the exclusion of fields, and the dispute about a house built into the city wall (Rabbi Yehuda vs. Rabbi Shimon), all of which are explicitly addressed in that section's prose.",
+      "chosen_heading": "Basic Definition",
+      "current_heading": "Basic Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Fields Debate",
+    "candidates": [
+      "Baraita Examples",
+      "Fields Debate",
+      "Swamps & Rocky Ground"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Rabbi Yehudah / Rabbi Meir dispute about whether fields are included under 'asher ba'ir,' which is precisely what the 'Fields Debate' prose describes.",
+      "chosen_heading": "Fields Debate",
+      "current_heading": "Fields Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Swamps & Rocky Ground",
+    "candidates": [
+      "Swamps & Rocky Ground",
+      "Mishnah Position",
+      "Views Compared",
+      "Rachav's Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about the Rav \u1e24isda/Rav Ketina clarification that the dispute between Rabbi Meir and Rabbi Yehuda concerns chulasit umetzulah (quarry and sand bed), which is exactly what heading 0 'Swamps & Rocky Ground' describes in its prose.",
+      "chosen_heading": "Swamps & Rocky Ground",
+      "current_heading": "Swamps & Rocky Ground",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rachav's Story",
+    "candidates": [
+      "Mishnah Position",
+      "Views Compared",
+      "Rachav's Story",
+      "Wall Independence",
+      "Joshua Timeline",
+      "Population Minimum",
+      "City Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yochanan's statement that both Rabbi Yehudah and Rabbi Shimon derive their opinions from the verse about Rachav, which is exactly what the 'Rachav's Story' prose section describes.",
+      "chosen_heading": "Rachav's Story",
+      "current_heading": "Rachav's Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "City Examples",
+    "candidates": [
+      "Wall Independence",
+      "Joshua Timeline",
+      "Population Minimum",
+      "City Examples",
+      "Wall vs. Roof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The Mishnah covers all three topics \u2014 wall independence, Joshua timeline, population minimum, and city examples \u2014 but since it is a single unified passage presenting the full Mishnah, it should be placed at the first section it introduces, which is 'Wall Independence' (the opening clause about rooftop-walls), with the subsequent sections then citing the Gemara's elaboration on each point; however, 'City Examples' is its current placement and the Mishnah does culminate in those examples, making this a close call \u2014 yet the Mishnah as a whole is better introduced under the first thematic heading it addresses.",
+      "chosen_heading": "Wall Independence",
+      "current_heading": "City Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Wall vs. Roof",
+    "candidates": [
+      "Wall vs. Roof",
+      "Historical Status",
+      "Torah Text Variants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both the 'wall vs. roof wall' exclusion and Tiberias's exclusion due to the sea serving as its wall, which is precisely what the 'Wall vs. Roof' section's prose covers.",
+      "chosen_heading": "Wall vs. Roof",
+      "current_heading": "Wall vs. Roof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Torah Text Variants",
+    "candidates": [
+      "Historical Status",
+      "Torah Text Variants",
+      "Geographic Specificity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rabbi Eliezer bar Yosei's ruling that a city retains walled status even without a current wall if it had one previously, which matches precisely the 'Historical Status' section's prose about preserved status based on prior walls, not the 'Torah Text Variants' section which discusses the ketiv/kri phenomenon.",
+      "chosen_heading": "Historical Status",
+      "current_heading": "Torah Text Variants",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Geographic Specificity",
+    "candidates": [
+      "Torah Text Variants",
+      "Geographic Specificity",
+      "Jerusalem Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita's geographic specifications of Gamla, Gedod, \u1e24adid, Ono, and Jerusalem, with Abaye's and Rava's explanations of why those locations are named \u2014 exactly what the 'Geographic Specificity' prose describes.",
+      "chosen_heading": "Geographic Specificity",
+      "current_heading": "Geographic Specificity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Jerusalem Question",
+    "candidates": [
+      "Jerusalem Question",
+      "Ten Things",
+      "National Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks whether Jerusalem falls under batei arei chomah laws and cites the baraita about ten things stated regarding Jerusalem \u2014 exactly what the 'Jerusalem Question' prose describes.",
+      "chosen_heading": "Jerusalem Question",
+      "current_heading": "Jerusalem Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "National Property",
+    "candidates": [
+      "Ten Things",
+      "National Property",
+      "Example vs. Application",
+      "Two Jerusalems",
+      "Limited List Question",
+      "Second Kedusha View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yochanan's 'ki Yerushalayim' resolution and Rav Ashi's 'two Jerusalems' answer, both of which are directly described in candidate 2's prose ('Example vs. Application'), which quotes the exact Aramaic phrases and explains Rabbi Yochanan's interpretive move \u2014 the 'Two Jerusalems' section (candidate 3) covers Rav Yosef's version but candidate 2 encompasses both answers as they appear together in the Gemara.",
+      "chosen_heading": "Example vs. Application",
+      "current_heading": "National Property",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Second Kedusha View",
+    "candidates": [
+      "Example vs. Application",
+      "Two Jerusalems",
+      "Limited List Question",
+      "Second Kedusha View",
+      "Kedusha Lost Theory",
+      "First Kedusha View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yishmael son of Rabbi Yosei's position that only the cities found and resanctified by the returning exiles qualify, and explicitly states the theological underpinning (kedushah rishonah kidshah l'sha'atah v'lo kidshah l'asid lavo) \u2014 but the current placement under 'Second Kedusha View' covers exactly this content (the baraita's first position about the returning exiles finding and sanctifying these cities), while 'Kedusha Lost Theory' (index 4) covers the theological implication separately; however, since the passage contains BOTH the narrative and the theological conclusion together as one unit, and index 3's prose explicitly describes this combined content ('they found these cities and sanctified them... the sanctification of the land by Yehoshua had lapsed'), the current placement is the best match.",
+      "chosen_heading": "Second Kedusha View",
+      "current_heading": "Second Kedusha View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "First Kedusha View",
+    "candidates": [
+      "Kedusha Lost Theory",
+      "First Kedusha View",
+      "Resolution Attempt",
+      "Rabbi Elazar Proof",
+      "View Attribution",
+      "Conceptual Link",
+      "Keilim Parallel",
+      "Place-Based Status",
+      "Sukkot Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the contradiction from Rabbi Yishmael's baraita about the sixty cities of Argov, the baraita's conclusion that kedushah rishonah is permanent, and the Gemara's resolution via two tanna'im or Rabbi Elazar bar Yosei \u2014 are precisely what the 'First Kedusha View' prose describes in detail, matching the content of the current placement.",
+      "chosen_heading": "First Kedusha View",
+      "current_heading": "First Kedusha View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Sukkot Verse",
+    "candidates": [
+      "Resolution Attempt",
+      "Rabbi Elazar Proof",
+      "View Attribution",
+      "Conceptual Link",
+      "Keilim Parallel",
+      "Place-Based Status",
+      "Sukkot Verse",
+      "Gemara Response",
+      "Returns Compared"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's initial challenge about the Sukkot verse (the question 'is it possible that David came and they did not make sukkot until Ezra?'), which is precisely what heading 6 'Sukkot Verse' introduces \u2014 the prooftext from Nechemiah offered by those who hold kedushah rishonah kidshah l'sha'atah.",
+      "chosen_heading": "Sukkot Verse",
+      "current_heading": "Sukkot Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Returns Compared",
+    "candidates": [
+      "Gemara Response",
+      "Returns Compared",
+      "Inheritance Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the gezeirah shavah comparing arrival in Ezra's time to Joshua's time regarding shmitah, yovel, and walled cities \u2014 exactly what the 'Returns Compared' section's prose describes.",
+      "chosen_heading": "Returns Compared",
+      "current_heading": "Returns Compared",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Inheritance Verse",
+    "candidates": [
+      "Inheritance Verse",
+      "Joshua Comparison",
+      "Yetzer Hara Removed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and analyzes the Deuteronomy 30:5 verse comparing your possession to your fathers' possession with renewal of all these matters, which is precisely what the 'Inheritance Verse' section's prose describes.",
+      "chosen_heading": "Inheritance Verse",
+      "current_heading": "Inheritance Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155
+    ],
+    "current_heading": "Yetzer Hara Removed",
+    "candidates": [
+      "Joshua Comparison",
+      "Yetzer Hara Removed",
+      "Joshua Critique",
+      "Spelling Criticism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Ezra's generation praying for mercy to nullify the yetzer hara of idol worship and their merit protecting them like a sukka, which is precisely what the 'Yetzer Hara Removed' section's prose discusses.",
+      "chosen_heading": "Yetzer Hara Removed",
+      "current_heading": "Yetzer Hara Removed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Spelling Criticism",
+    "candidates": [
+      "Joshua Critique",
+      "Spelling Criticism",
+      "List Interpretation",
+      "Scope Implications",
+      "Debate Unresolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the orthographic anomaly of 'Yeshua' vs 'Yehoshua' as a criticism embedded in the text, and explains why Joshua (not Moses) is singled out \u2014 matching precisely the 'Spelling Criticism' section's prose about the abbreviated spelling as rebuke and the bishlama/amai lo ba rachamei reasoning.",
+      "chosen_heading": "Spelling Criticism",
+      "current_heading": "Spelling Criticism",
+      "moved": false
+    }
+  }
+]

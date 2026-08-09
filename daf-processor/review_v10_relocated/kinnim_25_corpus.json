@@ -1,0 +1,39 @@
+[
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Elders & Wisdom",
+    "candidates": [
+      "Woman's Forgotten Vow",
+      "'Together' Requirement",
+      "Single Species: Five",
+      "Chatas Determines Olah",
+      "Two Olos per Species",
+      "All Above Scenario",
+      "Four + Two + One",
+      "New Chatas Needed",
+      "First Determines Second",
+      "Olos & Chatasim",
+      "One to Seven",
+      "Seven Instruments",
+      "Elders & Wisdom"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "All Above Scenario",
+      "first_confidence": "low",
+      "first_reason": "Items 1-3 are mishnaic rules about mixed bird offerings (hatat/olah with unassigned/obligatory pairs) that belong to an earlier section of Kinnim, with index 5 being the nearest candidate before the woman's vow material.",
+      "second_heading": "Elders & Wisdom",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 contain the closing mishna about the woman's vow with the sevenfold aphorism and Rabbi Shimon ben Akashiah's aggadata about elders, which is exactly what the 'Elders & Wisdom' prose describes.",
+      "current_heading": "Elders & Wisdom",
+      "moved": true
+    }
+  }
+]

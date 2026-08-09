@@ -1,0 +1,251 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Mishnah: No Distinction",
+    "candidates": [
+      "Hadar & Aesthetics",
+      "Mishnah: No Distinction",
+      "Hadar vs. Ownership",
+      "Central vs. Tangential",
+      "Sefarad vs. Ashkenaz",
+      "Ramban's Resolution",
+      "Lame Animal Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah: No Distinction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's opening observation that the Mishnah states its rule categorically with no distinction between first day and second day, which is precisely what heading 1 ('Mishnah: No Distinction') discusses.",
+      "second_heading": "Hadar vs. Ownership",
+      "second_confidence": "high",
+      "second_reason": "Item 2 poses the pointed question 'bishlama yavesh... aval gazul' \u2014 granted a dry lulav is invalid for lack of hadar, but why is a stolen lulav invalid on the second day when lachem is not in force \u2014 which is exactly the question described in heading 2 ('Hadar vs. Ownership').",
+      "current_heading": "Mishnah: No Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Lame Animal Analogy",
+    "candidates": [
+      "Hadar vs. Ownership",
+      "Central vs. Tangential",
+      "Sefarad vs. Ashkenaz",
+      "Ramban's Resolution",
+      "Lame Animal Analogy",
+      "Ye'ush & Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yochanan citing Rabbi Shimon ben Yochai on the principle of mitzvah haba'ah b'aveirah and the lame animal analogy from Malachi, which is precisely what the 'Lame Animal Analogy' section's prose describes.",
+      "chosen_heading": "Lame Animal Analogy",
+      "current_heading": "Lame Animal Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Ye'ush & Ownership",
+    "candidates": [
+      "Ye'ush & Ownership",
+      "King's Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses ye'ush (despair of owner), the 'mikem' requirement for korbanos, and why a stolen animal remains invalid even after ye'ush due to mitzvah haba'ah b'aveirah \u2014 precisely the content elaborated in the 'Ye'ush & Ownership' prose section.",
+      "chosen_heading": "Ye'ush & Ownership",
+      "current_heading": "Ye'ush & Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "King's Parable",
+    "candidates": [
+      "King's Parable",
+      "Object vs. Action Focus",
+      "Scope & Application",
+      "Rabbi Ami's Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the king's parable itself (Rabbi Yochanan/Rabbi Shimon ben Yochai on 'I hate robbery in a burnt-offering'), which is exactly what the 'King's Parable' section's prose discusses and contextualizes.",
+      "chosen_heading": "King's Parable",
+      "current_heading": "King's Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rabbi Ami's Statement",
+    "candidates": [
+      "Object vs. Action Focus",
+      "Scope & Application",
+      "Rabbi Ami's Statement",
+      "Shmuel's Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Ami's statement distinguishing the two grounds for invalidity (hadar and mitzvah haba'ah b'aveirah), which is precisely what the prose under 'Rabbi Ami's Statement' describes and analyzes.",
+      "chosen_heading": "Rabbi Ami's Statement",
+      "current_heading": "Rabbi Ami's Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Shmuel's Limitation",
+    "candidates": [
+      "Shmuel's Limitation",
+      "Rav Nachman's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Shmuel's ruling limiting the invalidity of a stolen lulav to the first day of Yom Tov, which is precisely what heading 0 ('Shmuel's Limitation') discusses in its prose.",
+      "chosen_heading": "Shmuel's Limitation",
+      "current_heading": "Shmuel's Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Rav Nachman's Objection",
+    "candidates": [
+      "Rav Nachman's Objection",
+      "Rava's Defense",
+      "Ye'ush in Robbery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Nachman bar Yitzchak's objection from the Mishnah about the stolen/borrowed lulav, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Rav Nachman's Objection",
+      "current_heading": "Rav Nachman's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Ye'ush in Robbery",
+    "candidates": [
+      "Rava's Defense",
+      "Ye'ush in Robbery",
+      "The Problem",
+      "Rav Huna's Solution",
+      "Karka Eina Nigzelet",
+      "Ye'ush & Shinui",
+      "Merchants' Interest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct statement defending Shmuel's position using the lo mibaiya argument, which is exactly what 'Rava's Defense' prose describes, not the subsequent analytical implications discussed under 'Ye'ush in Robbery'.",
+      "chosen_heading": "Rava's Defense",
+      "current_heading": "Ye'ush in Robbery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Merchants' Interest",
+    "candidates": [
+      "The Problem",
+      "Rav Huna's Solution",
+      "Karka Eina Nigzelet",
+      "Ye'ush & Shinui",
+      "Merchants' Interest",
+      "Binding as Shinui",
+      "Change Reverts",
+      "Shinui Hachozer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content of heading 3 ('Ye'ush & Shinui'): Rav Huna's instruction about letting gentiles cut the hadasim so that ye'ush takes effect in their hands and shinui reshut occurs upon transfer to the merchants, plus the Gemara's question about why merchants can't cut themselves, answered by the concern for the merchants' own hoshana \u2014 all of which maps precisely onto the ye'ush/shinui reshut mechanics discussed in that section's prose.",
+      "chosen_heading": "Ye'ush & Shinui",
+      "current_heading": "Merchants' Interest",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Shinui Hachozer",
+    "candidates": [
+      "Binding as Shinui",
+      "Change Reverts",
+      "Shinui Hachozer",
+      "Shinui HaShem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete question-and-answer sequence about whether binding the lulav constitutes a shinui ma'aseh, which is precisely what heading 0 ('Binding as Shinui') introduces \u2014 the question of acquiring hadasim through shinui ma'aseh by binding them into a lulav bundle \u2014 while headings 1 and 2 describe these same two answers only in their prose summaries, indicating the passage belongs under the heading that frames the question being answered.",
+      "chosen_heading": "Binding as Shinui",
+      "current_heading": "Shinui Hachozer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Shinui HaShem",
+    "candidates": [
+      "Shinui Hachozer",
+      "Shinui HaShem",
+      "Name Existed Before"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shinui HaShem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's question about whether shinui hashem (change of name from asa to hoshana) could effect acquisition, which is precisely what the 'Shinui HaShem' prose describes.",
+      "second_heading": "Name Existed Before",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's rejection \u2014 that the name hoshana was already used before the branch was cut \u2014 which is exactly what the 'Name Existed Before' prose describes.",
+      "current_heading": "Shinui HaShem",
+      "moved": true
+    }
+  }
+]

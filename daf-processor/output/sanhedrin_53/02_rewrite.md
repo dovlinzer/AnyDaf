@@ -60,9 +60,7 @@ A second question: perhaps the cutting should be done not at the neck but along 
 
 ### Ve-Ahavta
 
-Rav Nachman said in the name of Rabbah bar Avuha: the verse *ve-ahavta le-reiacha kamocha* — love your fellow as yourself — mandates *berur lo misa yafa*, that we select for the condemned person the most dignified death available. This principle is striking in its application: even in the act of execution, we are obligated to consider the dignity and experience of the condemned. Cutting at the neck is both more immediate and less disfiguring than cutting the body lengthwise; *ve-ahavta le-reiacha kamocha* therefore dictates the neck.
-
----
+Rav Nachman cited in the name of Rabbah bar Avuha: the verse *ve-ahavta le-reiacha kamocha* — love your fellow as yourself — applies even here, mandating *berur lo misa yafa*, selecting the most dignified death possible for the condemned.
 
 ## Hereg Sources (II)
 
@@ -122,9 +120,7 @@ Rabbi Yoshiyah's approach is thus: *chenek* is the default unspecified execution
 
 ### Logical Corollary
 
-The logical corollary is immediate: if we may not impose a heavier execution than what the Torah specifies, and the Torah's silence is read as requiring the lightest option, then the generic cases — all those where the Torah prescribes death without further detail — must be assigned to whichever mode is least severe. This reasoning presupposes that there is a defined set of executions and a clear hierarchy among them. Without knowing what options exist and how they rank, the principle cannot be applied. This sets up the question of how we identify *chenek* as an option at all.
-
----
+The principle, as Rabbi Yoshiyah frames it, is that wherever the Torah prescribes death without specifying the mode — *misah baTorah stam* — one is not entitled to impose a heavier form of execution; one must read the sentence in its most lenient sense. Rabbi Yonasan, however, offers a different account, beginning: *lo mipnei* —
 
 ## Chenek (II)
 

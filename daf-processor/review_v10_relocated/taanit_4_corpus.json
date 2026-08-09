@@ -1,0 +1,309 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Tzurba Merabbanan",
+    "candidates": [
+      "Tzurba Merabbanan",
+      "Hard as Iron"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes both the meaning of 'urpila' (drizzle) and Rava's saying about a Torah scholar being like a seed under a clod, which is exactly the agricultural metaphor discussed in the 'Tzurba Merabbanan' prose.",
+      "chosen_heading": "Tzurba Merabbanan",
+      "current_heading": "Tzurba Merabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Hard as Iron",
+    "candidates": [
+      "Hard as Iron",
+      "Builders/Boneha",
+      "Pleasant Interaction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's statement about Torah-driven anger and Rav Ashi's 'hard as iron' statement, and the 'Hard as Iron' section's prose explicitly discusses both of these statements together, making it the correct placement.",
+      "chosen_heading": "Hard as Iron",
+      "current_heading": "Hard as Iron",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Pleasant Interaction",
+    "candidates": [
+      "Builders/Boneha",
+      "Pleasant Interaction",
+      "Eliezer & Rivka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Abba's boneha derashah AND Ravina's gentle conduct addendum as a unified text, and candidate 0's prose explicitly covers both the boneha interpretation and notes Ravina's counterweight, while candidate 1 covers only Ravina's statement in isolation.",
+      "chosen_heading": "Builders/Boneha",
+      "current_heading": "Pleasant Interaction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Eliezer & Rivka",
+    "candidates": [
+      "Pleasant Interaction",
+      "Eliezer & Rivka",
+      "Saul & David"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together introduce and elaborate the Eliezer case from the 'three who entreated unreasonably' passage, which is exactly what the 'Eliezer & Rivka' section's prose describes.",
+      "chosen_heading": "Eliezer & Rivka",
+      "current_heading": "Eliezer & Rivka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Saul & David",
+    "candidates": [
+      "Saul & David",
+      "Yiftach's Daughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is explicitly about Saul ben Kish and the Goliath challenge, matching exactly the prose in candidate 0 which discusses the same episode, the same concern about a slave or mamzer, and David's emergence as the fitting response.",
+      "chosen_heading": "Saul & David",
+      "current_heading": "Saul & David",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Yiftach's Daughter",
+    "candidates": [
+      "Yiftach's Daughter",
+      "Child Sacrifice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly describe the Jephthah episode \u2014 his reckless vow, the daughter emerging, and the Jeremiah verse about 'no balm in Gilead' \u2014 which is precisely what the 'Yiftach's Daughter' prose section discusses in detail.",
+      "chosen_heading": "Yiftach's Daughter",
+      "current_heading": "Yiftach's Daughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Child Sacrifice",
+    "candidates": [
+      "Child Sacrifice",
+      "Dew Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Jeremiah 19:5 verse and its Gemara interpretation (Mesha/Jephthah/Isaac), which is precisely what the 'Child Sacrifice' prose section discusses in detail.",
+      "chosen_heading": "Child Sacrifice",
+      "current_heading": "Child Sacrifice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Dew Response",
+    "candidates": [
+      "Dew Response",
+      "Seal on Heart"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Knesset Yisrael/rain-vs-dew exchange that candidate 0's prose describes in precise detail, matching the Hebrew phrases and the theological movement from rain to dew.",
+      "chosen_heading": "Dew Response",
+      "current_heading": "Dew Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Seal on Heart",
+    "candidates": [
+      "Seal on Heart",
+      "Same Act?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Israel asking God to 'set me as a seal upon Your heart/arm' and God responding with the engraving on His palms, which is precisely the content the 'Seal on Heart' section prose discusses in detail.",
+      "chosen_heading": "Seal on Heart",
+      "current_heading": "Seal on Heart",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Same Act?",
+    "candidates": [
+      "Same Act?",
+      "Abiyi's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the same Gemara discussion about whether she'eilah and hazkarah are the same act, the identity of the tanna (Rabbi Yehoshua vs. Rabbi Eliezer), and the distinction she'eilah le-chud ve-hazkarah le-chud \u2014 precisely what the 'Same Act?' prose describes in detail.",
+      "chosen_heading": "Same Act?",
+      "current_heading": "Same Act?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Abiyi's Objection",
+    "candidates": [
+      "Abiyi's Objection",
+      "Ulla's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text about Rabbi Yehuda's ruling on the sheliach tzibur transition, which is the very Mishnah that Heading 0 ('Abiyi's Objection') introduces as the starting point of the Gemara's discussion contrasting the two Mishnayot.",
+      "chosen_heading": "Abiyi's Objection",
+      "current_heading": "Abiyi's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Ulla's Solution",
+    "candidates": [
+      "Ulla's Solution",
+      "Raba's Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous Talmudic discussion about the contradiction between the mishnah and baraita regarding Rabbi Yehuda's opinion, including Rav \u1e24isda's resolution, Ulla's rejection and alternative (trei tanna'ei), Rav Yosef's creative reading, Abaye's objection, and the final conclusion returning to Ulla \u2014 exactly matching the content described in candidate 0's prose.",
+      "chosen_heading": "Ulla's Solution",
+      "current_heading": "Ulla's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Raba's Pesach",
+    "candidates": [
+      "Raba's Pesach",
+      "Yochanan's Position",
+      "Rav Assi Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabba's interpretation of 'until Passover has passed' and Abaye's challenge to it, concluding with the return to Ulla's position \u2014 are explicitly discussed in the 'Raba's Pesach' prose, which covers exactly this exchange in detail.",
+      "chosen_heading": "Raba's Pesach",
+      "current_heading": "Raba's Pesach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Rav Assi Challenge",
+    "candidates": [
+      "Yochanan's Position",
+      "Rav Assi Challenge",
+      "Land Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous chain of challenge and attempted resolution that candidate 1's prose describes in detail: Rav Zeira's challenge about Rabbi Elazar's ruling, Rav Assi's 'gabra a-gabra' deflection and the kan lish'ol/kan le-hazkir distinction, and the Gemara's rejection via Rabbi Yochanan's own bidirectional statement \u2014 all of which candidate 1 explicitly discusses step by step.",
+      "chosen_heading": "Rav Assi Challenge",
+      "current_heading": "Rav Assi Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Land Distinction",
+    "candidates": [
+      "Land Distinction",
+      "Two Days Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core of the Bavel/Eretz Yisrael distinction and the Beit HaMikdash/post-Beit HaMikdash resolution, which is precisely what the 'Land Distinction' prose describes in detail.",
+      "chosen_heading": "Land Distinction",
+      "current_heading": "Land Distinction",
+      "moved": false
+    }
+  }
+]

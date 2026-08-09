@@ -1,0 +1,335 @@
+[
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rav vs. Shmuel Logic",
+    "candidates": [
+      "One Cup vs. Two",
+      "Chavilos Principle",
+      "Cup Identity",
+      "Similar Functions",
+      "Shulchan Aruch Ruling",
+      "Minhag vs. Halacha",
+      "Both Required",
+      "Rava: Yaknah",
+      "Shmuel: Yanhak",
+      "Rav vs. Shmuel Logic",
+      "Raba: Yanhak",
+      "Levi: Kanya",
+      "Rabbis: Kinah",
+      "Mar Breh: Kiah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents Rav's ruling of yakneh (yayin, kiddush, ner, havdalah) as a challenge/proof, which directly supports and belongs under the 'Rava: Yaknah' section discussing Rav's position of kiddush before havdalah on a single cup \u2014 not under the 'Rav vs. Shmuel Logic' section which discusses the reasoning behind the positions.",
+      "chosen_heading": "Rava: Yaknah",
+      "current_heading": "Rav vs. Shmuel Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Mar Breh: Kiah",
+    "candidates": [
+      "Raba: Yanhak",
+      "Levi: Kanya",
+      "Rabbis: Kinah",
+      "Mar Breh: Kiah",
+      "Tannaim: Nihak"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Mar Breh: Kiah",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-3 continue a prior discussion about why shehe\u1e25iyanu wasn't mentioned and the distinction between havdala/kiddush vs. Grace after Meals/kiddush, fitting the Mar breh section's elaboration on related combinatory concerns.",
+      "second_heading": "Raba: Yanhak",
+      "second_confidence": "high",
+      "second_reason": "Item 4 begins with 'gufah' and introduces the foundational Rav/Shmuel dispute (yakn\"h vs. yanhak) that generates all subsequent opinions including Rava's yanhak discussed under candidate 0.",
+      "current_heading": "Mar Breh: Kiah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Tannaim: Nihak",
+    "candidates": [
+      "Tannaim: Nihak",
+      "King/Governor Parable"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Tannaim: Nihak",
+      "current_heading": "Tannaim: Nihak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "King/Governor Parable",
+    "candidates": [
+      "King/Governor Parable",
+      "Abaye: Yakznah",
+      "Rava: Yaknaz",
+      "Zman Placement",
+      "Rava Accepted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the King/Governor parable attributed to Rabbi Yehoshua ben \u1e24ananya, which is exactly what heading 0's prose describes and analyzes.",
+      "chosen_heading": "King/Governor Parable",
+      "current_heading": "King/Governor Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rava Accepted",
+    "candidates": [
+      "Abaye: Yakznah",
+      "Rava: Yaknaz",
+      "Zman Placement",
+      "Rava Accepted",
+      "Rava's Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Abaye's and Rava's opinions together with the halakhic conclusion, and candidate 0 ('Abaye: Yakznah') is the section that introduces the full dispute about the order including zman \u2014 the passage naturally belongs at the start of this discussion rather than split across later headings.",
+      "chosen_heading": "Abaye: Yakznah",
+      "current_heading": "Rava Accepted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Rava's Practice",
+    "candidates": [
+      "Rava Accepted",
+      "Rava's Practice",
+      "Shammai/Hillel Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the continuous narrative of Rav Huna bar Yehuda's challenge to Rava's practice, with item 2 being the immediate citation of the Mishnah that Rav Huna bar Yehuda invokes to support his challenge \u2014 exactly what the 'Rava's Practice' section prose describes.",
+      "chosen_heading": "Rava's Practice",
+      "current_heading": "Rava's Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Shammai/Hillel Debate",
+    "candidates": [
+      "Shammai/Hillel Debate",
+      "Rabbi Yehuda's View",
+      "Beit Hillel Ruling",
+      "Fire Significance",
+      "Besamim Purpose",
+      "Hashevach Not Hanehnin",
+      "Two Boruchs?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yehuda's interpretation \u2014 that Beit Shammai and Beit Hillel only disagreed about ner and besamim, not mazon \u2014 which is precisely what heading 1 ('Rabbi Yehuda's View') describes in its prose.",
+      "chosen_heading": "Rabbi Yehuda's View",
+      "current_heading": "Shammai/Hillel Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Two Boruchs?",
+    "candidates": [
+      "Rabbi Yehuda's View",
+      "Beit Hillel Ruling",
+      "Fire Significance",
+      "Besamim Purpose",
+      "Hashevach Not Hanehnin",
+      "Two Boruchs?",
+      "Different Contexts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident discussed in heading 5's prose: Rav Yaakov bar Abba visiting Rava and observing him recite borei pri hagafen twice, then questioning why a second blessing was necessary.",
+      "chosen_heading": "Two Boruchs?",
+      "current_heading": "Two Boruchs?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Different Contexts",
+    "candidates": [
+      "Different Contexts",
+      "Hifsek Hadaat",
+      "Rav's Teaching",
+      "Post-Benching Wine",
+      "Borei at End",
+      "Amemar: Every Cup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 0's prose describes: the challenge about the house of the Exilarch vs. the present situation, Rava's response citing Rav's students, and the story of Rav Bruna, Rav Chananel, and Rav Yeiva Saba \u2014 all of which candidate 0 narrates in detail, making it the clearest match.",
+      "chosen_heading": "Different Contexts",
+      "current_heading": "Different Contexts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Amemar: Every Cup",
+    "candidates": [
+      "Hifsek Hadaat",
+      "Rav's Teaching",
+      "Post-Benching Wine",
+      "Borei at End",
+      "Amemar: Every Cup",
+      "Mar Zutra: Two Cups",
+      "Rav Ashi: One Blessing",
+      "Which Method?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes the three Amoraim at the meal and their respective blessing practices, which is exactly what the 'Ameimar: Every Cup' section's prose introduces.",
+      "chosen_heading": "Amemar: Every Cup",
+      "current_heading": "Amemar: Every Cup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Which Method?",
+    "candidates": [
+      "Mar Zutra: Two Cups",
+      "Rav Ashi: One Blessing",
+      "Which Method?",
+      "Tosafot Wine Discussion",
+      "Torch Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Acha bar Rava's question, the responses of Ameimar and Mar Zutra, Rav Ashi's challenge from yaknah, and the gemara's rejection \u2014 form one continuous dispute about which method to follow, which is precisely what the 'Which Method?' section's prose describes in detail.",
+      "chosen_heading": "Which Method?",
+      "current_heading": "Which Method?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Torch Practice",
+    "candidates": [
+      "Tosafot Wine Discussion",
+      "Torch Practice",
+      "Multiple Wicks",
+      "Fire vs. Light",
+      "Rava's Four Parts",
+      "R. Yehuda View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scene at Rava's house where the shamash lit a torch and Rav Yaakov bar Abba challenged this action, which is precisely what the 'Torch Practice' heading's prose describes.",
+      "chosen_heading": "Torch Practice",
+      "current_heading": "Torch Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "R. Yehuda View",
+    "candidates": [
+      "Multiple Wicks",
+      "Fire vs. Light",
+      "Rava's Four Parts",
+      "R. Yehuda View",
+      "Min/Max Separations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage depicts Rava reciting the four-clause havdala formula, which is precisely what the 'Rava's Four Parts' prose section describes \u2014 the challenge from Rav Ya'akov bar Abba citing Rav Yehuda/Rav belongs as the continuation of that same scene, not as a standalone section.",
+      "chosen_heading": "Rava's Four Parts",
+      "current_heading": "R. Yehuda View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Min/Max Separations",
+    "candidates": [
+      "R. Yehuda View",
+      "Min/Max Separations",
+      "Me'ein Chasimah",
+      "Tosafot Question",
+      "Sephardic Practice",
+      "Ashkenazi/Sephardic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together cover exactly what candidate 2 ('Me'ein Chasimah') describes: item 1 introduces the min/max rule (three to seven havdalot) which sets up the objection, and item 2 is the objection that Rava said four plus his resolution that the fourth clause functions as a me'ein chasimah \u2014 the precise content the prose of candidate 2 discusses.",
+      "chosen_heading": "Me'ein Chasimah",
+      "current_heading": "Min/Max Separations",
+      "moved": true
+    }
+  }
+]

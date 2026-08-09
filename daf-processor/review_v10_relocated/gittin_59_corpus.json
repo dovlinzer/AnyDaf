@@ -1,0 +1,547 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Prepayment Problem",
+    "candidates": [
+      "Land Tax Arrangement",
+      "Prepayment Problem",
+      "Rav Pappa's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the initial land tax arrangement between Giddel bar Re'ilai and the valley residents, including the prepayment and the owners' return \u2014 all of which is narrated in candidate 0's prose as the setup of the case, before the 'difficulty' is analyzed in candidate 1.",
+      "chosen_heading": "Land Tax Arrangement",
+      "current_heading": "Prepayment Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rav Pappa's Solution",
+    "candidates": [
+      "Prepayment Problem",
+      "Rav Pappa's Solution",
+      "Rav Huna Rejects",
+      "Sikrikon Analogy",
+      "Heniah Maotav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa considering writing a turfa and Rav Huna's objection about sikrikon plus his ruling about 'horn of a deer,' which spans the proposal through its rejection \u2014 but the current placement under 'Rav Pappa's Solution' is the best single heading since the passage begins with Rav Pappa's proposed solution and the entire exchange flows from it, and the prose there explicitly describes Rav Pappa considering writing the turfa, matching the passage's opening content.",
+      "chosen_heading": "Rav Pappa's Solution",
+      "current_heading": "Rav Pappa's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Heniah Maotav",
+    "candidates": [
+      "Rav Huna Rejects",
+      "Sikrikon Analogy",
+      "Heniah Maotav",
+      "First Takana",
+      "Second Takana",
+      "Rav vs. Shmuel",
+      "Quarter Calculations",
+      "Rav Ashi Resolves",
+      "Rav Voted First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items present the Rav/Shmuel dispute over how the revi'a is calculated \u2014 the mishna's ruling, the Rav/Shmuel disagreement, and the baraita challenge \u2014 which belongs under 'Rav vs. Shmuel' whose prose explicitly introduces this dispute, rather than 'Quarter Calculations' which discusses the resolution and the baraita's support for Rav's position.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Heniah Maotav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Rav Voted First",
+    "candidates": [
+      "First Takana",
+      "Second Takana",
+      "Rav vs. Shmuel",
+      "Quarter Calculations",
+      "Rav Ashi Resolves",
+      "Rav Voted First",
+      "Voting Order Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehuda HaNasi's court voting that after twelve months anyone may purchase from the sikrikon but must pay the original owner one-fourth \u2014 this is precisely the Second Takana content described in candidate 1's prose.",
+      "chosen_heading": "Second Takana",
+      "current_heading": "Rav Voted First",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Voting Order Rules",
+    "candidates": [
+      "Rav Voted First",
+      "Voting Order Rules",
+      "Rebbi's Humility"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Voted First",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rav Ashi's clarification of the baraita) is a wrap-up of the prior monetary discussion, while Item 2 is Rav's personal testimony about voting first in Rebbi's court, which is the opening of the 'Rav Voted First' topic.",
+      "second_heading": "Voting Order Rules",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 \u2014 Rav's testimony that he voted first and the Gemara's challenge from the mishna about voting order \u2014 are precisely the content described in the 'Voting Order Rules' prose, which addresses the procedural irregularity raised by Rav's account.",
+      "current_heading": "Voting Order Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rebbi's Humility",
+    "candidates": [
+      "Rebbi's Humility",
+      "Rebbi Unique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that Rebbi's court began counting from the side (junior members), which the current section's prose explicitly discusses and attributes to Rebbi's humility (anavah), making it a clear match for heading 0.",
+      "chosen_heading": "Rebbi's Humility",
+      "current_heading": "Rebbi's Humility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Rebbi Unique",
+    "candidates": [
+      "Rebbi Unique",
+      "Early Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the claim about Torah and greatness combined in one person from Moses to Rabbi Yehuda HaNasi, which is precisely what the 'Rebbi Unique' section's prose discusses and introduces before the historical counterexamples.",
+      "chosen_heading": "Rebbi Unique",
+      "current_heading": "Rebbi Unique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Early Examples",
+    "candidates": [
+      "Early Examples",
+      "Royal & Sage"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Early Examples",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Joshua, Elazar, Pinehas, and the Elders \u2014 exactly what candidate 0's prose discusses as the 'early examples' series.",
+      "second_heading": "Royal & Sage",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers Saul/Samuel, the 'all the years' qualification, and David/Ira the Jairite \u2014 precisely what candidate 1's prose discusses under the monarchic period section.",
+      "current_heading": "Early Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Royal & Sage",
+    "candidates": [
+      "Royal & Sage",
+      "Later Period"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items continue the same chain of objections and responses about historical figures (Solomon/Shimi ben Gera, Hezekiah/Shebnah, Ezra/Nehemiah) that candidate 0's prose explicitly describes as part of the monarchic-period challenges to the claim about Rebbi.",
+      "chosen_heading": "Royal & Sage",
+      "current_heading": "Royal & Sage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Later Period",
+    "candidates": [
+      "Later Period",
+      "Definition Context",
+      "Gesture Transactions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rav A\u1e25a's statement regarding Torah and greatness not being combined from Rebbi until Rav Ashi, and the challenge/response about Huna bar Natan \u2014 exactly what the 'Later Period' prose describes.",
+      "chosen_heading": "Later Period",
+      "current_heading": "Later Period",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Gesture Transactions",
+    "candidates": [
+      "Definition Context",
+      "Gesture Transactions",
+      "Ben Beteira",
+      "Moveable Only",
+      "Get Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The mishnah introduces all the elements discussed across headings 1-3 (cheresh gestures, ben Beteira's view, and moveable property restriction), so it most naturally belongs under the introductory 'Definition Context' heading that sets up the entire discussion, rather than under any of the sub-topic headings that address only portions of the mishnah's content.",
+      "chosen_heading": "Definition Context",
+      "current_heading": "Gesture Transactions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Get Standards",
+    "candidates": [
+      "Ben Beteira",
+      "Moveable Only",
+      "Get Standards",
+      "Age Range"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss Rav Na\u1e25man's ruling about whether the dispute between Ben Beteira and the chachamim extends to gittin or is limited to mitaltelin, which is precisely what the 'Get Standards' prose section addresses, including both versions of Rav Na\u1e25man's statement (the first version and the ika d'amri alternative).",
+      "chosen_heading": "Get Standards",
+      "current_heading": "Get Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Age Range",
+    "candidates": [
+      "Age Range",
+      "Rationale"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Age Range",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the age range dispute (Rav Yehuda, Rav Kahana, baraita) and the resolution that it depends on the child's sharpness, which is exactly what the 'Age Range' prose discusses.",
+      "second_heading": "Rationale",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the rationale 'mishum k'dei chayyav' attributed to Rabbi Abba bar Yaakov in the name of Rabbi Yochanan, which is precisely what the 'Rationale' prose section discusses.",
+      "current_heading": "Age Range",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Rationale",
+    "candidates": [
+      "Rationale",
+      "Overpayment Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the content described in the 'Rationale' section's prose \u2014 the meltacha/malmala etymology and the Bonyam ben Nunyam fabric story, cited together because of the shared baal memra Rav Abba bar Yaakov in the name of Rabbi Yochanan.",
+      "chosen_heading": "Rationale",
+      "current_heading": "Rationale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Overpayment Limits",
+    "candidates": [
+      "Overpayment Limits",
+      "Gift Validity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the ona'ah (overcharge/underpayment) limit of one-sixth for a pe'utat's transactions, which directly matches the 'Overpayment Limits' section's prose about ad shtus k'gadol and the application of standard ona'ah law to children.",
+      "chosen_heading": "Overpayment Limits",
+      "current_heading": "Overpayment Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Gift Validity",
+    "candidates": [
+      "Gift Validity",
+      "Aliyot Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the validity of a young child's gift (matnaso mah), which is precisely what the 'Gift Validity' prose section discusses, including the reversal of attributions and Rav Mordechai's correction referencing the incident with Rav Ashi on the steps.",
+      "chosen_heading": "Gift Validity",
+      "current_heading": "Gift Validity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Aliyot Order",
+    "candidates": [
+      "Aliyot Order",
+      "Torah Equalizer",
+      "Eiruv & Wells"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mishnah's darchei shalom section with exactly the two examples discussed in section 0's prose: the kohen-levi-Yisrael aliyot order and the eiruv in an old house, which are the opening examples the 'Aliyot Order' prose directly addresses.",
+      "chosen_heading": "Aliyot Order",
+      "current_heading": "Aliyot Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Eiruv & Wells",
+    "candidates": [
+      "Torah Equalizer",
+      "Eiruv & Wells",
+      "Traps Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the pit nearest to the irrigation channel being filled first on account of darchei shalom, which directly matches the 'Eiruv & Wells' section prose that describes exactly this case of bor she'haya karov l'ama.",
+      "chosen_heading": "Eiruv & Wells",
+      "current_heading": "Eiruv & Wells",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Traps Ownership",
+    "candidates": [
+      "Traps Ownership",
+      "Lost Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about traps for wild animals, birds, and fish, which matches the 'Traps Ownership' section prose exactly, including the Rabbi Yose gezel gamur ruling in that context.",
+      "chosen_heading": "Traps Ownership",
+      "current_heading": "Traps Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Lost Property",
+    "candidates": [
+      "Lost Property",
+      "Olive Knocker"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses lost items found by a deaf-mute, imbecile, or minor and their status regarding robbery mipnei darchei shalom, which is exactly what the 'Lost Property' section's prose addresses.",
+      "chosen_heading": "Lost Property",
+      "current_heading": "Lost Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Olive Knocker",
+    "candidates": [
+      "Olive Knocker",
+      "Non-Jewish Poor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes a poor person gleaning olives at the top of an olive tree and the status of olives beneath him, which is precisely the 'Olive Knocker' scenario discussed in candidate 0's prose.",
+      "chosen_heading": "Olive Knocker",
+      "current_heading": "Olive Knocker",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Non-Jewish Poor",
+    "candidates": [
+      "Non-Jewish Poor",
+      "Biblical Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses non-Jewish poor collecting leket, shichcha, and pe'ah for the sake of darchei shalom, which is exactly what the prose under 'Non-Jewish Poor' describes and analyzes.",
+      "chosen_heading": "Non-Jewish Poor",
+      "current_heading": "Non-Jewish Poor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134,
+      135
+    ],
+    "current_heading": "Biblical Sources",
+    "candidates": [
+      "Biblical Sources",
+      "Honor Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the biblical sources (from Rav Mattana, Rabbi Yitzchak Nappa\u1e25a, and Rav Ashi) for the precedence of kohanim in Torah reading, which is precisely what the 'Biblical Sources' prose section describes.",
+      "chosen_heading": "Biblical Sources",
+      "current_heading": "Biblical Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Honor Rights",
+    "candidates": [
+      "Honor Rights",
+      "De'oraisa Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains Rabbi \u1e24iyya bar Abba's derivation from 've'kidashto' and the three specific honor rights (opening first, leading birkat hamazon, choosing first portion), which is precisely what the 'Honor Rights' prose section describes.",
+      "chosen_heading": "Honor Rights",
+      "current_heading": "Honor Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143,
+      144,
+      145
+    ],
+    "current_heading": "De'oraisa Status",
+    "candidates": [
+      "De'oraisa Status",
+      "No Waiving",
+      "Day Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous dialectical chain \u2014 Abaye's challenge to Rav Yosef about d'Oraita vs. darchei shalom, Abaye's counter-objection that all Torah is darchei shalom, and Abaye's resolution via Rabbah's baraita about meals vs. synagogue \u2014 which is precisely what heading 0's prose describes in detail.",
+      "chosen_heading": "De'oraisa Status",
+      "current_heading": "De'oraisa Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Day Distinction",
+    "candidates": [
+      "No Waiving",
+      "Day Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Mattana's statement about the Shabbat/Yom Tov vs. Monday/Thursday distinction, which is precisely what the 'Day Distinction' prose section describes.",
+      "chosen_heading": "Day Distinction",
+      "current_heading": "Day Distinction",
+      "moved": false
+    }
+  }
+]

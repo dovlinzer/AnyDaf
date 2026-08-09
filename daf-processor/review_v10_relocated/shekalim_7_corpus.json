@@ -1,0 +1,88 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Asirit HaEifah",
+    "candidates": [
+      "Shekel Leftovers",
+      "Asirit HaEifah",
+      "Chatat & Asham Rule",
+      "Voluntary Offerings",
+      "Pesach to Shelamim",
+      "Nazirite Leftovers",
+      "Rav Yehuda's Query",
+      "Ta'us Doctrine",
+      "Yam HaMelach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This mishnah covers the full range of leftover fund rulings starting with 'mosar shekalim chullin' through nazirite leftovers \u2014 it is the complete mishnah that the 'Shekel Leftovers' section introduces as opening the discussion of leftover funds for various korbanos, making heading 0 the correct home for the entire passage rather than the mid-mishnah heading 1.",
+      "chosen_heading": "Shekel Leftovers",
+      "current_heading": "Asirit HaEifah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Yam HaMelach",
+    "candidates": [
+      "Chatat & Asham Rule",
+      "Voluntary Offerings",
+      "Pesach to Shelamim",
+      "Nazirite Leftovers",
+      "Rav Yehuda's Query",
+      "Ta'us Doctrine",
+      "Yam HaMelach",
+      "Mishnah Contradiction",
+      "Minchat Choteh",
+      "Bavli Derasha",
+      "Olah Challenge",
+      "Min Hatzon Parse",
+      "Logical Reasons",
+      "Shelamim Intent",
+      "Any Non-Pesach",
+      "Any Korban Intent",
+      "She'lo Lishmo Rule",
+      "Neutralization",
+      "Dual Intent",
+      "Neutralized vs Separated",
+      "Silence Question",
+      "Order Rule",
+      "Chatat Identity",
+      "Maos Setumim",
+      "Meila Principle",
+      "Bread Rots",
+      "Unique Offering",
+      "Wine Rots Too",
+      "Wine to Nedavah",
+      "Three Positions",
+      "Ransom Rules",
+      "Poor Funds",
+      "Burial Funds",
+      "Mistaken Collection",
+      "Heirs vs Mistake",
+      "Tombstone Use",
+      "Righteous Memorial",
+      "Hiding Encounter",
+      "Yochanan's Complaint",
+      "Babylonian Custom",
+      "Scripture Basis",
+      "Idol Analogy",
+      "Respect Shown"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described under 'Rav Yehuda's Query' \u2014 Rabbi Yosi's report of hearing Rav Yehuda ask Shmuel about someone who set aside his shekel and died, Shmuel's answer that it falls to nedavah, plus the dispute between Rabbi Yochanan (Yam HaMelach) and Rabbi Eliezer (nedavah) regarding the asirit ha'eifah, and the mishnah contradiction with Rabbi Yochanan's resolution \u2014 all of which begins with that vivid Babylonian scene.",
+      "chosen_heading": "Rav Yehuda's Query",
+      "current_heading": "Yam HaMelach",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,397 @@
+[
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Michti Question",
+    "candidates": [
+      "Intro & Mishnah Summary",
+      "Impurity & Atonement",
+      "Yom Kippur & Scapegoat",
+      "Why Temple Impurity?",
+      "Sanhedrin & Makkot",
+      "Oath-Impurity Analogy",
+      "Oaths & God's Presence",
+      "Q&A: Yom Kippur & Sins",
+      "Michti Question",
+      "Tractate Ordering",
+      "Full List in Shevuot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara's opening 'michti' question \u2014 why does Shevuot follow Makkot \u2014 and its answer via the 'one prohibition liable for two punishments' link, which is exactly what the 'Michti Question' section prose describes.",
+      "chosen_heading": "Michti Question",
+      "current_heading": "Michti Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Full List in Shevuot",
+    "candidates": [
+      "Tractate Ordering",
+      "Full List in Shevuot",
+      "Torah's Juxtaposition",
+      "Same Parsha Teaching",
+      "Reasoning for Collection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks exactly the question described in the 'Full List in Shevuot' prose \u2014 why does Shevuot teach all of the two-which-is-four sets while Shabbat and Negaim present only their relevant portion \u2014 making the current placement correct.",
+      "chosen_heading": "Full List in Shevuot",
+      "current_heading": "Full List in Shevuot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Reasoning for Collection",
+    "candidates": [
+      "Torah's Juxtaposition",
+      "Same Parsha Teaching",
+      "Reasoning for Collection",
+      "Rabbi's Compilation",
+      "Short Material First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains that oaths and tumah awareness are written together in the Torah and are similar in sharing a sliding-scale offering \u2014 this matches heading 0's prose about Torah juxtaposition, while the final clause 've-aydi de-tani tarti tani kulhu' is a secondary addendum that follows naturally from that explanation.",
+      "chosen_heading": "Torah's Juxtaposition",
+      "current_heading": "Reasoning for Collection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Short Material First",
+    "candidates": [
+      "Rabbi's Compilation",
+      "Short Material First",
+      "Cut & Untie Metaphor",
+      "Then Focus on Oaths",
+      "Sidelocks & Razors",
+      "Beard vs. Sidelocks",
+      "Rambam's View",
+      "Modern Shavers Prohibited",
+      "Giver & Receiver",
+      "Non-Jewish Barber",
+      "Carrying on Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why Shevuot opens with oaths but first covers the shorter tumat mikdash material before returning to oaths, which is precisely what the 'Short Material First' section's prose describes.",
+      "chosen_heading": "Short Material First",
+      "current_heading": "Short Material First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Carrying on Shabbat",
+    "candidates": [
+      "Cut & Untie Metaphor",
+      "Then Focus on Oaths",
+      "Sidelocks & Razors",
+      "Beard vs. Sidelocks",
+      "Rambam's View",
+      "Modern Shavers Prohibited",
+      "Giver & Receiver",
+      "Non-Jewish Barber",
+      "Carrying on Shabbat",
+      "Four Carrying Ways",
+      "Leprosy Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "medium",
+      "reason": "All three items are consecutive mishna entries in the 'two which are four' list, and heading 8's prose explicitly introduces 'the full list of two-which-is-four cases,' making it the best fit for the entire passage including the oaths and tumah items that precede the Shabbat carrying discussion.",
+      "chosen_heading": "Carrying on Shabbat",
+      "current_heading": "Carrying on Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Leprosy Types",
+    "candidates": [
+      "Four Carrying Ways",
+      "Leprosy Types",
+      "Authorship Question",
+      "Ishmael on Future Oaths",
+      "Akiva's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses mara'ot nega'im (shades of leprous marks), se'et and baheret and their toldot, which matches exactly the 'Leprosy Types' section prose where the current placement already sits.",
+      "chosen_heading": "Leprosy Types",
+      "current_heading": "Leprosy Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Akiva's Position",
+    "candidates": [
+      "Authorship Question",
+      "Ishmael on Future Oaths",
+      "Akiva's Position",
+      "Neither Holds Both",
+      "Partial Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question about who authored the mishna and the two-part refutation of both Rabbi Yishmael and Rabbi Akiva, which directly corresponds to the 'Authorship Question' section's prose about asking 'mani masnisin' and answering 'neither Rabbi Yishmael nor Rabbi Akiva'.",
+      "chosen_heading": "Authorship Question",
+      "current_heading": "Akiva's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Partial Application",
+    "candidates": [
+      "Neither Holds Both",
+      "Partial Application",
+      "Lashes Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the gemara's suggestion that the mishnah can fit Rabbi Yishmael or Rabbi Akiva via 'mehem le-chiyuv u-mehem le-patur,' and the immediate challenge to that reading \u2014 are precisely the content described in the 'Partial Application' prose, which explicitly discusses this approach and its rejection.",
+      "chosen_heading": "Partial Application",
+      "current_heading": "Partial Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Lashes Interpretation",
+    "candidates": [
+      "Lashes Interpretation",
+      "Past Oaths & Lashes",
+      "Rava's Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same dialectical exchange about whether the mishnah's 'two-which-is-four' refers to korban liability or lashes, which is precisely what the 'Lashes Interpretation' prose describes \u2014 item 1 is an objection (the leprous marks comparison implies korban liability) and item 2 is the resolution (Rabbi Yishmael's view applies to korban, but lashes still apply for past oaths).",
+      "chosen_heading": "Lashes Interpretation",
+      "current_heading": "Lashes Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rava's Comparison",
+    "candidates": [
+      "Past Oaths & Lashes",
+      "Rava's Comparison",
+      "Utterance & Violation",
+      "False Past Positive",
+      "False Past Negative",
+      "Future: Will Eat",
+      "Future: Won't Eat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement itself, which the 'Past Oaths & Lashes' section explicitly anticipates ('the gemara will elaborate this through Rava's comparison'), while the current heading 'Rava's Comparison' contains the essay author's extended prose explanation of what Rava means \u2014 the actual Talmudic quote belongs under the introductory heading that sets it up, not under the heading that analyzes it.",
+      "chosen_heading": "Past Oaths & Lashes",
+      "current_heading": "Rava's Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Future: Won't Eat",
+    "candidates": [
+      "Utterance & Violation",
+      "False Past Positive",
+      "False Past Negative",
+      "Future: Will Eat",
+      "Future: Won't Eat",
+      "Passive Transgression",
+      "Yochanan Follows Stam",
+      "Opening Mishnah Suggests",
+      "Eggs Case: No Lashes",
+      "Two Reasons for No",
+      "No Lashes for Notar",
+      "Passive = No Lashes",
+      "Yehuda's Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain addressing the problem of lashes for a passive transgression (lav she-ein bo ma'aseh): the Gemara raises the difficulty, resolves it via Rabbi Yishmael's view, then challenges Rabbi Yo\u1e25anan's consistency, cites his ruling of no-lashes for the 'will eat' case, and resolves the contradiction \u2014 exactly what candidate 5 ('Passive Transgression') describes as its topic.",
+      "chosen_heading": "Passive Transgression",
+      "current_heading": "Future: Won't Eat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133,
+      134
+    ],
+    "current_heading": "Yehuda's Reason",
+    "candidates": [
+      "Passive Transgression",
+      "Yochanan Follows Stam",
+      "Opening Mishnah Suggests",
+      "Eggs Case: No Lashes",
+      "Two Reasons for No",
+      "No Lashes for Notar",
+      "Passive = No Lashes",
+      "Yehuda's Reason",
+      "Yaakov's Principle",
+      "Unclear Reasoning",
+      "Two Oaths Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All four items together form the gemara's challenge to using the notar mishna as support for Rabbi Yochanan \u2014 first identifying the candidate mishna, then explaining why it might support him, then questioning whether it follows Rabbi Yaakov or Rabbi Yehuda, then citing the baraita with both opinions \u2014 which precisely matches heading 7's prose about Rabbi Yehuda's reason and the lav ha-nitak le-asei challenge.",
+      "chosen_heading": "Yehuda's Reason",
+      "current_heading": "Yehuda's Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143
+    ],
+    "current_heading": "Two Oaths Mishnah",
+    "candidates": [
+      "Yaakov's Principle",
+      "Unclear Reasoning",
+      "Two Oaths Mishnah",
+      "Active Violation Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the exact mishnah about two oaths on the same loaf resulting in only one liability, which is precisely what candidate 2 ('Two Oaths Mishnah') describes in its prose.",
+      "chosen_heading": "Two Oaths Mishnah",
+      "current_heading": "Two Oaths Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Active Violation Only",
+    "candidates": [
+      "Active Violation Only",
+      "Rabbi's Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's inference from 'zo hi' that passive non-performance (said I will eat but did not) does not generate lashes, which is exactly what the prose under 'Active Violation Only' describes.",
+      "chosen_heading": "Active Violation Only",
+      "current_heading": "Active Violation Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151
+    ],
+    "current_heading": "Rabbi's Contradiction",
+    "candidates": [
+      "Rabbi's Contradiction",
+      "Initial Teaching",
+      "Later Change",
+      "Cannot Revoke",
+      "Later Clarification",
+      "Summary & Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's challenge about how Rabbi Yehuda HaNasi could have compiled two contradictory unattributed mishnayot, which is precisely what heading 0 ('Rabbi's Contradiction') discusses.",
+      "chosen_heading": "Rabbi's Contradiction",
+      "current_heading": "Rabbi's Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Summary & Resolution",
+    "candidates": [
+      "Initial Teaching",
+      "Later Change",
+      "Cannot Revoke",
+      "Later Clarification",
+      "Summary & Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "medium",
+      "reason": "The passage summarizes the entire resolution \u2014 initial ruling, retraction, and the principle that a mishna does not move \u2014 which is best captured by the 'Summary & Resolution' section that synthesizes all these elements together, even though individual components appear in earlier sections.",
+      "chosen_heading": "Summary & Resolution",
+      "current_heading": "Summary & Resolution",
+      "moved": false
+    }
+  }
+]

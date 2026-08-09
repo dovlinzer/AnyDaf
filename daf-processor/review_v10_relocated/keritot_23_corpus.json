@@ -1,0 +1,311 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Certainty Before Melikah",
+    "candidates": [
+      "Mishnah Setup",
+      "Safek Chatas Ha'of",
+      "Certainty Before Melikah",
+      "Chalal & Kodesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case where certainty arrives before melikah (nimlok), which is precisely what candidate 2 'Certainty Before Melikah' discusses, including the same Hebrew phrase and reasoning about bringing the same type of offering for doubt as for certainty.",
+      "chosen_heading": "Certainty Before Melikah",
+      "current_heading": "Certainty Before Melikah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Chalal & Kodesh",
+    "candidates": [
+      "Chalal & Kodesh",
+      "Eating the Second",
+      "Reuven & Shimon",
+      "R. Akiva: Two Asham",
+      "R. Shimon: Joint",
+      "R. Yosi: No Joint"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in heading 0 \u2014 a piece of chulin and a piece of kodesh, eating one without knowing which, with Rabbi Akiva requiring an asham taluy \u2014 matching that section's prose precisely, while the mention of eating the second piece leading to an asham vadai is a secondary clause that belongs with the primary case rather than under heading 1 which discusses that point in isolation.",
+      "chosen_heading": "Chalal & Kodesh",
+      "current_heading": "Chalal & Kodesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "R. Yosi: No Joint",
+    "candidates": [
+      "Eating the Second",
+      "Reuven & Shimon",
+      "R. Akiva: Two Asham",
+      "R. Shimon: Joint",
+      "R. Yosi: No Joint",
+      "Chelev & Chulin",
+      "Chelev & Nosar",
+      "Chelev & Kodesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the dispute between Rabbi Shimon (joint asham) and Rabbi Yosi (no joint asham), which is precisely what candidate 3 ('R. Shimon: Joint') and candidate 4 ('R. Yosi: No Joint') discuss \u2014 but since item 1 opens with Rabbi Akiva's ruling and then introduces Rabbi Shimon's position, and item 2 is Rabbi Yosi's single-line rejection, the natural home is candidate 3 whose prose covers Rabbi Shimon's joint-offering proposal, with Rabbi Yosi's line being the direct counter that belongs in the same continuous unit, making candidate 3 the better single heading for both items together.",
+      "chosen_heading": "R. Shimon: Joint",
+      "current_heading": "R. Yosi: No Joint",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Chelev & Kodesh",
+    "candidates": [
+      "Chelev & Chulin",
+      "Chelev & Nosar",
+      "Chelev & Kodesh",
+      "Chelev Kodesh Mix"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chelev & Chulin",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the chelev vs. chulin case with no me'ila component, matching exactly the prose of candidate 0 which describes this standard asham taluy scenario with the Rabbi Akiva/Shimon/Yosi dispute.",
+      "second_heading": "Chelev & Kodesh",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the chelev vs. kodesh case where eating the second piece triggers a chatas plus asham vadai for me'ila, matching exactly the prose of candidate 2 which discusses this specific combination of korbanot.",
+      "current_heading": "Chelev & Kodesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Chelev Kodesh Mix",
+    "candidates": [
+      "Chelev Kodesh Mix",
+      "Nosar's Value"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Chelev Kodesh Mix",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna cases about cheilev vs. cheilev kodesh (sacrificial fat), which fits the 'Chelev Kodesh Mix' heading discussing me'ila and kodesh-related prohibitions.",
+      "second_heading": "Nosar's Value",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 are the Mishna cases about cheilev vs. notar and the subsequent Gemara (Rava-Rav Nachman exchange), which perfectly matches the 'Nosar's Value' prose that explicitly discusses this Gemara discussion and the notar scenarios.",
+      "current_heading": "Chelev Kodesh Mix",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Nosar's Value",
+    "candidates": [
+      "Nosar's Value",
+      "R. Shimon's View",
+      "Fat & Me'ilah",
+      "Simultaneous Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of question-and-answer between Rava and Rav Na\u1e25man about whether nosar meets the shaveh perutah threshold for me'ila liability, which is precisely what candidate 0 ('Nosar's Value') describes in its prose.",
+      "chosen_heading": "Nosar's Value",
+      "current_heading": "Nosar's Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Simultaneous Effect",
+    "candidates": [
+      "R. Shimon's View",
+      "Fat & Me'ilah",
+      "Simultaneous Effect",
+      "Didn't Sin Case",
+      "Before Shechita",
+      "After Shechita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 15 items constitute the continuous Gemara discussion about whether issur chal al issur applies in kodashim \u2014 the Torah's special revelation (ella b'kodashim gali rachmana), the baraita about imurim and tumah, Rebbi's view on issur chamur vs. kal, the baraita about kol chelev l'Hashem, the objection from ein piggul/notar b'olim, the conclusion of tanna'im dispute, and the resolution about yaldei kodashim \u2014 all of which are explicitly described in candidate 2's prose.",
+      "chosen_heading": "Simultaneous Effect",
+      "current_heading": "Simultaneous Effect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "After Shechita",
+    "candidates": [
+      "Didn't Sin Case",
+      "Before Shechita",
+      "After Shechita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The Hadran formula marks the end of a chapter/tractate section, and it belongs at the conclusion of the 'After Shechita' section which is the final substantive discussion of this perek.",
+      "chosen_heading": "After Shechita",
+      "current_heading": "After Shechita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "After Shechita",
+    "candidates": [
+      "After Shechita",
+      "Blood Sprinkled",
+      "R. Yosi: Blood OK",
+      "Asham Vadai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This Mishna covers the full asham taluy case \u2014 before shechita, after shechita (blood poured/meat burned), after blood sprinkled, and Rabbi Yosi's extension \u2014 and the 'After Shechita' section's prose explicitly discusses all these sub-cases including the post-shechita ruling, the chachamim/Rabbi Meir dispute on hakdasha, and Rabbi Elazar's position, making it the best home for the entire Mishna passage.",
+      "chosen_heading": "After Shechita",
+      "current_heading": "After Shechita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Asham Vadai",
+    "candidates": [
+      "Blood Sprinkled",
+      "R. Yosi: Blood OK",
+      "Asham Vadai",
+      "Shor Haniskal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the asham vadai's three-stage halakha (before slaughter/after slaughter/after blood sprinkling), which directly matches the 'Asham Vadai' section's prose discussing exactly these three stages with the same rulings.",
+      "chosen_heading": "Asham Vadai",
+      "current_heading": "Asham Vadai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Shor Haniskal",
+    "candidates": [
+      "Shor Haniskal",
+      "Egla Arufa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ox sentenced to be stoned (shor haniskal), matching exactly the prose under heading 0 which explains the same halakhic rules about pre- and post-stoning discovery of false testimony.",
+      "chosen_heading": "Shor Haniskal",
+      "current_heading": "Shor Haniskal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Egla Arufa",
+    "candidates": [
+      "Egla Arufa",
+      "R. Meir: Knowledge",
+      "Sages: Intent",
+      "When Sin Confirmed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the egla arufa's pre- and post-breaking halakha, explaining that it comes for safek and atones for that safek once the neck is broken \u2014 precisely the content described in the 'Egla Arufa' section's prose.",
+      "chosen_heading": "Egla Arufa",
+      "current_heading": "Egla Arufa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131
+    ],
+    "current_heading": "When Sin Confirmed",
+    "candidates": [
+      "R. Meir: Knowledge",
+      "Sages: Intent",
+      "When Sin Confirmed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together cover exactly what candidate 2's prose describes: the gemara's articulation of the Rabbi Meir/Rabbanan dispute plus the baraita extending it to both directions (sin confirmed and sin denied), which is the precise content of the 'When Sin Confirmed' section's prose.",
+      "chosen_heading": "When Sin Confirmed",
+      "current_heading": "When Sin Confirmed",
+      "moved": false
+    }
+  }
+]

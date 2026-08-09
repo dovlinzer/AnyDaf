@@ -46,7 +46,7 @@ This historical episode is then connected to the verse in Eichah: *kara alai mo'
 
 ### R. Yochanan Concedes
 
-With all the *musaf* goats now properly linked, Rabbi Yochanan makes an important concession: *modeh Rabbi Meir be-sa'ir ha-na'aseh bifnim* — even Rabbi Meir agrees that the inner goat of Yom Kippur stands apart. The inner goat — the one brought inside and whose blood is sprinkled in the Holy of Holies as part of the central *avodah* described in *Acharei Mot* — neither does what the *musaf* goats do, nor do they do what it does. This exclusive and reciprocal separation is grounded in the word *achas*: *kapara achas mechaper ve'eino mechaper shtei kaparot* — it performs one act of atonement and does not perform two. Correspondingly, *kappara zo lo tehe ela achas bashana* — this atonement is performed only once in the year; nothing else performs it.
+Rabbi Yochanan adds that Rabbi Meir himself concedes one important point: the inner goat of Yom Kippur — *sa'ir ha-na'aseh bifnim* — stands in a category of its own. It does not atone for what the *musaf* goats atone for, and they do not atone for what it does.
 
 ## Rabbi Meir - Goats (II)
 

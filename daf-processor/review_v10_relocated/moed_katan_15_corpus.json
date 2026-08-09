@@ -1,0 +1,518 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Abaye vs. Rava",
+    "candidates": [
+      "Mishna Exceptions",
+      "Melacha & Tircha",
+      "Three Categories",
+      "Regel vs. Aveilus",
+      "Abaye vs. Rava",
+      "Tosafos Question",
+      "Ostracism Framework",
+      "Question Posed",
+      "Abaye's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items are the Abaye/Rava dispute about whether the mishna's 'sheheetiru lo chachamim' means automatic Festival-release or a specific individual case, which is precisely what the 'Abaye vs. Rava' section's prose describes.",
+      "chosen_heading": "Abaye vs. Rava",
+      "current_heading": "Abaye vs. Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Abaye's Proof",
+    "candidates": [
+      "Tosafos Question",
+      "Ostracism Framework",
+      "Question Posed",
+      "Abaye's Proof",
+      "Postponement Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's proof from the baraita about the nazirite and leper transitioning from impurity to purity, which is precisely what the prose under 'Abaye's Proof' describes.",
+      "chosen_heading": "Abaye's Proof",
+      "current_heading": "Abaye's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Postponement Risk",
+    "candidates": [
+      "Postponement Risk",
+      "Rava's Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the gemara's rejection using the 'lo mibaiya' (needless to say) structure and the concern about delaying offerings (shema yishahei korbanosav), which matches exactly the 'Postponement Risk' section's prose about this very argument.",
+      "chosen_heading": "Postponement Risk",
+      "current_heading": "Postponement Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rava's Counter",
+    "candidates": [
+      "Rava's Counter",
+      "Avel: Hair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's proof from 'ha-tzarua' to include the Kohen Gadol and the conclusion that a metzora observes his practices during the regel, which is exactly what the prose under 'Rava's Counter' discusses in detail.",
+      "chosen_heading": "Rava's Counter",
+      "current_heading": "Rava's Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Avel: Hair",
+    "candidates": [
+      "Avel: Hair",
+      "Menudeh & Metzora: Hair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the source for the avel's haircut prohibition derived from the verse about Aaron's sons, which is precisely what the 'Avel: Hair' section prose describes.",
+      "chosen_heading": "Avel: Hair",
+      "current_heading": "Avel: Hair",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Menudeh & Metzora: Hair",
+    "candidates": [
+      "Menudeh & Metzora: Hair",
+      "Avel: Head Wrap",
+      "Menudeh & Metzora: Head"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the haircut/laundry prohibition for menudeh and metzora and the stoning of the coffin of one who dies in niddui, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Menudeh & Metzora: Hair",
+      "current_heading": "Menudeh & Metzora: Hair",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Menudeh & Metzora: Head",
+    "candidates": [
+      "Avel: Head Wrap",
+      "Menudeh & Metzora: Head",
+      "Avel: No Tefillin"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Avel: Head Wrap",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the mourner's obligation to wrap the head derived from Ezekiel, which matches the 'Avel: Head Wrap' prose exactly.",
+      "second_heading": "Menudeh & Metzora: Head",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 address the menudeh and metzora cases regarding head-wrapping, which matches the 'Menudeh & Metzora: Head' prose exactly.",
+      "current_heading": "Menudeh & Metzora: Head",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Avel: No Tefillin",
+    "candidates": [
+      "Avel: No Tefillin",
+      "M&M: Tefillin Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the prohibition on a mourner donning tefillin derived from Ezekiel 24:17, which exactly matches the prose under 'Avel: No Tefillin' (candidate 0).",
+      "chosen_heading": "Avel: No Tefillin",
+      "current_heading": "Avel: No Tefillin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "M&M: Tefillin Permitted",
+    "candidates": [
+      "M&M: Tefillin Permitted",
+      "Why Tefillin Allowed",
+      "Avel: Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items (the menudeh/metzora tefillin questions, Rabbi Akiva's gezeirah shavah, and Rav Pappa's rejection) are explicitly discussed in candidate 0's prose, which covers exactly this sequence of the gemara about menudeh, metzora, Rabbi Eliezer, Rabbi Akiva, and Rav Pappa's kumta/sudara response.",
+      "chosen_heading": "M&M: Tefillin Permitted",
+      "current_heading": "M&M: Tefillin Permitted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Avel: Silence",
+    "candidates": [
+      "Why Tefillin Allowed",
+      "Avel: Silence",
+      "Menudeh: No Greetings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibition on a mourner's greeting (she'elat shalom) derived from 'he'anek dom' in Ezekiel, which is precisely what the 'Avel: Silence' section's prose describes.",
+      "chosen_heading": "Avel: Silence",
+      "current_heading": "Avel: Silence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Menudeh: No Greetings",
+    "candidates": [
+      "Menudeh: No Greetings",
+      "Metzora: No Greetings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the question of whether a menudeh is forbidden in she'elat shalom, with Rav Yosef's proof from Taanit and Abaye's objection about menudeh l'shamayim \u2014 exactly matching the 'Menudeh: No Greetings' prose.",
+      "chosen_heading": "Menudeh: No Greetings",
+      "current_heading": "Menudeh: No Greetings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Metzora: No Greetings",
+    "candidates": [
+      "Metzora: No Greetings",
+      "Common Societal Practice",
+      "Avel: No Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the metzora's prohibition on greeting and the failed attempt to derive a ruling about the menudeh from the same baraita \u2014 exactly what the prose under 'Metzora: No Greetings' describes.",
+      "chosen_heading": "Metzora: No Greetings",
+      "current_heading": "Metzora: No Greetings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Avel: No Torah",
+    "candidates": [
+      "Common Societal Practice",
+      "Avel: No Torah",
+      "Menudeh: Torah Allowed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the prohibition on Torah study for a mourner (avel) derived from Ezekiel's 'dom,' which is precisely what the 'Avel: No Torah' section's prose describes.",
+      "chosen_heading": "Avel: No Torah",
+      "current_heading": "Avel: No Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Menudeh: Torah Allowed",
+    "candidates": [
+      "Menudeh: Torah Allowed",
+      "Metzora: Torah Allowed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous baraita and Rav's comment about the menudeh/muchram and Torah study, which is precisely what the 'Menudeh: Torah Allowed' prose discusses in detail.",
+      "chosen_heading": "Menudeh: Torah Allowed",
+      "current_heading": "Menudeh: Torah Allowed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Metzora: Torah Allowed",
+    "candidates": [
+      "Metzora: Torah Allowed",
+      "Torah & Emotion",
+      "Avel: Laundry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the question of whether a metzora may study Torah, which is precisely what the 'Metzora: Torah Allowed' section's prose discusses, concluding with 'shema mina' that a metzora is permitted.",
+      "chosen_heading": "Metzora: Torah Allowed",
+      "current_heading": "Metzora: Torah Allowed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Avel: Laundry",
+    "candidates": [
+      "Torah & Emotion",
+      "Avel: Laundry",
+      "M&M: Laundry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the prohibition on laundering for a mourner with the verse from II Samuel 14:2, which is precisely what the 'Avel: Laundry' prose section describes as its source.",
+      "chosen_heading": "Avel: Laundry",
+      "current_heading": "Avel: Laundry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "M&M: Laundry",
+    "candidates": [
+      "M&M: Laundry",
+      "Avel: Must Rend"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibition of laundering for those who are ostracized or lepers, which is exactly what the 'M&M: Laundry' section's prose addresses.",
+      "chosen_heading": "M&M: Laundry",
+      "current_heading": "M&M: Laundry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Avel: Must Rend",
+    "candidates": [
+      "Avel: Must Rend",
+      "M&M: No Rending"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly establishes the mourner's obligation to rend garments from the inference about Aaron's sons, which is precisely what the 'Avel: Must Rend' section prose describes.",
+      "chosen_heading": "Avel: Must Rend",
+      "current_heading": "Avel: Must Rend",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "M&M: No Rending",
+    "candidates": [
+      "M&M: No Rending",
+      "Kfiyat HaMittah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the halakha of rending garments (kriyah) for a menudeh and a metzora, which is precisely what the prose under 'M&M: No Rending' discusses in detail.",
+      "chosen_heading": "M&M: No Rending",
+      "current_heading": "M&M: No Rending",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Kfiyat HaMittah",
+    "candidates": [
+      "Kfiyat HaMittah",
+      "Avel: No Melacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss kfiyat ha-mittah (overturning the bed), including the bar Kappara baraita about the divine image and the question about menudeh u-metzora, which is exactly what the prose under 'Kfiyat HaMittah' addresses.",
+      "chosen_heading": "Kfiyat HaMittah",
+      "current_heading": "Kfiyat HaMittah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Avel: No Melacha",
+    "candidates": [
+      "Avel: No Melacha",
+      "Menudeh: Work Allowed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the prohibition on an avel performing melacha with the Amos verse and the chag analogy, which is exactly what the 'Avel: No Melacha' section's prose describes.",
+      "chosen_heading": "Avel: No Melacha",
+      "current_heading": "Avel: No Melacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Menudeh: Work Allowed",
+    "candidates": [
+      "Menudeh: Work Allowed",
+      "Metzora: Melacha Status",
+      "Melacha Analysis",
+      "Avel: No Bathing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Menudeh: Work Allowed",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening question about menudeh and melacha with Rav Yosef's inconclusive proof, exactly matching the 'Menudeh: Work Allowed' prose which describes this same Rav Yosef citation and the gemara's deflection.",
+      "second_heading": "Metzora: Melacha Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains both the conclusive beraita proof for menudeh (shema mina) and the new question about metzora's melacha status ending in teiku, which matches the 'Metzora: Melacha Status' prose exactly.",
+      "current_heading": "Menudeh: Work Allowed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Avel: No Bathing",
+    "candidates": [
+      "Metzora: Melacha Status",
+      "Melacha Analysis",
+      "Avel: No Bathing",
+      "Menudeh: Bathing Unclear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the prohibition of bathing for a mourner sourced from the anointing verse, which matches exactly the prose of 'Avel: No Bathing' describing rechitza and the verse ve-al tasuchi shemen.",
+      "chosen_heading": "Avel: No Bathing",
+      "current_heading": "Avel: No Bathing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Menudeh: Bathing Unclear",
+    "candidates": [
+      "Menudeh: Bathing Unclear",
+      "Bathing Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's inquiry about menudeh and bathing, the baraita citation, and the unresolved question about the metzora\u2014all of which are precisely what the current heading's prose describes.",
+      "chosen_heading": "Menudeh: Bathing Unclear",
+      "current_heading": "Menudeh: Bathing Unclear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Bathing Framework",
+    "candidates": [
+      "Bathing Framework",
+      "Metzora: Bathing Unclear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage introduces the prohibition on wearing shoes for a mourner (derived from Ezekiel), which marks the transition away from bathing to a new topic, fitting better as an introduction under the 'Metzora: Bathing Unclear' section that concludes the bathing discussion and moves on, though neither heading is a perfect match for shoe-wearing content.",
+      "chosen_heading": "Metzora: Bathing Unclear",
+      "current_heading": "Bathing Framework",
+      "moved": true
+    }
+  }
+]

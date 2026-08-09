@@ -83,7 +83,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Reconciling Rabbi Yehuda: Sukkah Four Kinds Requirement with Planks (Kesarim) in Practice",
@@ -140,7 +140,7 @@
           "timestamp": "18:27"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -198,8 +198,8 @@
           "timestamp": "30:45"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Rabba's Warnings on Lulav Assembly: Leaves Falling and Cutting the Bottom",
@@ -280,8 +280,8 @@
           "timestamp": "41:08"
         }
       ],
-      "sefaria_index": 13,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Hand Dominance: Lulav in Right Hand, Etrog in Left; Three vs. One Minim",
@@ -334,7 +334,7 @@
         }
       ],
       "sefaria_index": 14,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Shaking the Lulav: Location (Hallel) and Specific Verses (Hodu L'Hashem)",
@@ -382,7 +382,7 @@
         }
       ],
       "sefaria_index": 15,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Tosafot's Explanation of Current Custom: Responsive Hodu and Shaking at Each Repetition",
@@ -410,8 +410,8 @@
           "timestamp": "55:09"
         }
       ],
-      "sefaria_index": 15,
-      "matched": false
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -757,5 +757,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "19:36",
+  "amud_b_micro_title": "Indirect Taking",
+  "shiur_start_daf": 37,
+  "shiur_start_amud": "a"
 }

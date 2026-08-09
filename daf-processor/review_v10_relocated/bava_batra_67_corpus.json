@@ -1,0 +1,232 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Press Sale Basics",
+    "candidates": [
+      "Press Sale Basics",
+      "Press Components",
+      "Yam, Mamal, Betulot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah text introducing the beit ha-bad sale, listing what is and isn't included by default, and Rabbi Eliezer's dispute belongs under 'Press Sale Basics' which frames exactly this opening Mishnah and its governing principles.",
+      "chosen_heading": "Press Sale Basics",
+      "current_heading": "Press Sale Basics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Yam, Mamal, Betulot",
+    "candidates": [
+      "Press Components",
+      "Yam, Mamal, Betulot",
+      "Avirim, Galgal, Kora",
+      "Kol Ma Shebetocho",
+      "Mamal & Mafrachta",
+      "Betulot Poles",
+      "Avirim & Galgal",
+      "Baraita: Equipment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains all six terms from the Mishnah (yam, memel/mamal, betulot, avirim, galgal, kora) and the current heading 'Yam, Mamal, Betulot' with its prose directly discusses these Gemara identifications of press components terminology, making it the best match for this definitional Gemara passage.",
+      "chosen_heading": "Yam, Mamal, Betulot",
+      "current_heading": "Yam, Mamal, Betulot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Baraita: Equipment",
+    "candidates": [
+      "Avirim, Galgal, Kora",
+      "Kol Ma Shebetocho",
+      "Mamal & Mafrachta",
+      "Betulot Poles",
+      "Avirim & Galgal",
+      "Baraita: Equipment",
+      "Planks Debate",
+      "Bathhouse Basics",
+      "Bathhouse Non-Sales",
+      "Bathhouse Inclusivity",
+      "Supplies Excluded",
+      "Storage Rooms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items are the baraita that lists what is sold with an olive press (nisarim, yekavim, mafrakhot, lower millstone) and Rabbi Eliezer's position on the kora, which is precisely what the 'Baraita: Equipment' section's prose discusses in detail.",
+      "chosen_heading": "Baraita: Equipment",
+      "current_heading": "Baraita: Equipment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Storage Rooms",
+    "candidates": [
+      "Planks Debate",
+      "Bathhouse Basics",
+      "Bathhouse Non-Sales",
+      "Bathhouse Inclusivity",
+      "Supplies Excluded",
+      "Storage Rooms",
+      "Rooms vs. Contents",
+      "Tashmishim Language",
+      "Store & Sesame"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bathhouse Basics",
+      "first_confidence": "high",
+      "first_reason": "Items 1 (Mishnah on bathhouse sales) and 2 (opening of the baraita elaborating on what is sold) together cover the Mishna's core rules plus the baraita's list of storage rooms sold by default, matching the 'Bathhouse Basics'/'Bathhouse Non-Sales'/'Bathhouse Inclusivity'/'Supplies Excluded' cluster \u2014 but the Mishnah itself with its basic rules (nesarim, sfalim, balaniyot not sold; formula 'it and everything in it'; tanks and wood sheds excluded) best fits under 'Bathhouse Non-Sales' (index 2), which discusses exactly those items and the reasoning, or under 'Bathhouse Basics' as the opening Mishnah; the closest prose match for the Mishnah text plus the opening of the baraita is index 1 ('Bathhouse Basics') since that section introduces the Mishnah unit, but the specific content of items 1-2 spans indices 1-4; given the split, items 1-2 (Mishnah + baraita opening listing storage rooms sold) belong under index 1 'Bathhouse Basics' as the foundational Mishnah passage.",
+      "second_heading": "Storage Rooms",
+      "second_confidence": "medium",
+      "second_reason": "Item 3 (the continuation of the baraita: pools and wood sheds excluded, and the 'all its accompaniments' formula) best fits under the current placement 'Storage Rooms' (index 5) or 'Rooms vs. Contents' (index 6), as those sections discuss the baraita's distinctions between what is and is not sold and the broader formula.",
+      "current_heading": "Storage Rooms",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Store & Sesame",
+    "candidates": [
+      "Rooms vs. Contents",
+      "Tashmishim Language",
+      "Store & Sesame",
+      "Tashmishim Scope",
+      "Abaye Limits",
+      "Boundaries Rule",
+      "Town Structures",
+      "Movables & Exception",
+      "Animals & Slaves",
+      "Santar Included",
+      "Santar Definition",
+      "Slave Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete case of the olive press sale \u2014 item 1 presents the facts and item 2 presents the dispute resolution (Rav Yosef, Abaye, Rav Ashi) \u2014 which is exactly what the 'Store & Sesame' prose describes, and the current placement is correct.",
+      "chosen_heading": "Store & Sesame",
+      "current_heading": "Store & Sesame",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Slave Status",
+    "candidates": [
+      "Tashmishim Scope",
+      "Abaye Limits",
+      "Boundaries Rule",
+      "Town Structures",
+      "Movables & Exception",
+      "Animals & Slaves",
+      "Santar Included",
+      "Santar Definition",
+      "Slave Status",
+      "Movement Logic",
+      "Santar Scribe",
+      "Santar Guard",
+      "Santar Field",
+      "Field vs. Person"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Town Structures",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah introducing the sale of a town and all its included structures, which matches heading 3 'Town Structures' whose prose discusses exactly this Mishnah \u2014 the ir, its batim, borot, merchatza'ot, etc.",
+      "second_heading": "Movement Logic",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the Gemara's argument about whether slaves transfer automatically with land and the resolution involving 'land that moves vs. land that does not move,' which matches heading 9 'Movement Logic' whose prose describes precisely this Rav Acha/Rav Ashi exchange and the nayyadi/lo nayyadi distinction.",
+      "current_heading": "Slave Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Field vs. Person",
+    "candidates": [
+      "Movement Logic",
+      "Santar Scribe",
+      "Santar Guard",
+      "Santar Field",
+      "Field vs. Person",
+      "Yehuda's Terms",
+      "Both Persons",
+      "Non-Included Items",
+      "Distant Fields",
+      "Partial Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items form one continuous Gemara discussion about the two interpretations of 'santar' (bar machvanita vs. bagi) and how each reading interacts with the mishna's term 'beit hashlachin' \u2014 exactly what the 'Field vs. Person' prose describes, including the two versions of the debate and the hierarchy of chiddush logic.",
+      "chosen_heading": "Field vs. Person",
+      "current_heading": "Field vs. Person",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Partial Agreement",
+    "candidates": [
+      "Yehuda's Terms",
+      "Both Persons",
+      "Non-Included Items",
+      "Distant Fields",
+      "Partial Agreement",
+      "Final Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain covering the reversal of Rabbi Yehuda's formulation, the inference about fields from the baraita's latter clause, and the resolution that Rabbi Yehuda agrees with Rabban Shimon on one point (fields) but disagrees on another (daughter towns) \u2014 exactly what the 'Partial Agreement' prose describes.",
+      "chosen_heading": "Partial Agreement",
+      "current_heading": "Partial Agreement",
+      "moved": false
+    }
+  }
+]

@@ -48,8 +48,8 @@
           "timestamp": "03:29"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Understanding 'Lav De-Oraisa': Biblical vs. Rabbinic Prohibition and Object Status",
@@ -72,7 +72,7 @@
           "timestamp": "08:40"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -96,7 +96,7 @@
           "timestamp": "10:40"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -120,7 +120,7 @@
           "timestamp": "15:42"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -139,8 +139,8 @@
           "timestamp": "16:34"
         }
       ],
-      "sefaria_index": 4,
-      "matched": false
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Transition: From Forbidden Objects to Benefit Transfers via Money and Exceptions",
@@ -187,7 +187,7 @@
           "timestamp": "23:50"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -235,8 +235,8 @@
           "timestamp": "31:16"
         }
       ],
-      "sefaria_index": 13,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Rav Abba's Challenge: How Can Tovas Hana'ah Allow Marriage if It's Not Money?",
@@ -259,7 +259,7 @@
           "timestamp": "34:54"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -284,7 +284,7 @@
         }
       ],
       "sefaria_index": 14,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Rav Chiyya bar Avin's Question to Rav Huna on Tovas Hana'ah as Monetary Value",
@@ -384,7 +384,7 @@
           "timestamp": "45:11"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -598,5 +598,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 12,
+  "amud_b_timestamp": "40:34",
+  "amud_b_micro_title": "Rav's Deflection",
+  "shiur_start_daf": 58,
+  "shiur_start_amud": "a"
 }

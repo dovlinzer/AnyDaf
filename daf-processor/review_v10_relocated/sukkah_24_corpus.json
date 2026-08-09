@@ -1,0 +1,316 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Reconciling Views",
+    "candidates": [
+      "Recap & Framework",
+      "Grain & Breira",
+      "Reconciling Views",
+      "Wine Flask Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the 'eippoch' (reverse) resolution \u2014 stating that Rabbi Meir is concerned about death and Rabbi Yehuda is not, citing the animal wall baraita \u2014 which is precisely what the 'Reconciling Views' prose describes as the gemara's resolution to the apparent contradiction.",
+      "chosen_heading": "Reconciling Views",
+      "current_heading": "Reconciling Views",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Wine Flask Problem",
+    "candidates": [
+      "Wine Flask Problem",
+      "Status Quo Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the contradiction between Rabbi Meir's positions and resolves it by explaining that death is common while flask-bursting is not, and that a guard can protect the flask \u2014 precisely the content discussed in the 'Wine Flask Problem' prose.",
+      "chosen_heading": "Wine Flask Problem",
+      "current_heading": "Wine Flask Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Status Quo Analysis",
+    "candidates": [
+      "Status Quo Analysis",
+      "Tnai vs. Breira",
+      "Shift in Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain about the contradiction between Rabbi Yehuda's positions resolved via the principle of breira (retroactive clarification), which is precisely what the 'Tnai vs. Breira' section's prose discusses \u2014 not the death/status-quo analysis of heading 0 or the gezeirah framework of heading 2.",
+      "chosen_heading": "Tnai vs. Breira",
+      "current_heading": "Status Quo Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Shift in Framework",
+    "candidates": [
+      "Tnai vs. Breira",
+      "Shift in Framework",
+      "Mechitza by Spirit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes exactly the Gemara text that the 'Shift in Framework' prose explicitly discusses \u2014 the conclusion that the animal wall is a valid Torah-level mechitza with only a rabbinic decree against it, followed by the challenge from the mishnah about Rabbi Meir declaring the animal tahor regarding golel impurity, which is precisely what that section's prose analyzes.",
+      "chosen_heading": "Shift in Framework",
+      "current_heading": "Shift in Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Mechitza by Spirit",
+    "candidates": [
+      "Mechitza by Spirit",
+      "Two Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rav Acha bar Yaakov's formulation about mechitza standing by ruach and the 'some say' alternative version, both of which are introduced and explained in the 'Mechitza by Spirit' section's prose, while the 'Two Interpretations' section discusses the practical difference (mai beinaihu) between the two versions, which is not part of this quoted passage.",
+      "chosen_heading": "Mechitza by Spirit",
+      "current_heading": "Mechitza by Spirit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Two Interpretations",
+    "candidates": [
+      "Two Interpretations",
+      "Physical Substance",
+      "Golel & Tumah",
+      "Not Alive, Not Food"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the practical difference (mai beinaihu) between the two versions of Rav Acha bar Yaakov's statement regarding the inflated wineskin case, which is precisely what the 'Two Interpretations' prose describes.",
+      "chosen_heading": "Two Interpretations",
+      "current_heading": "Two Interpretations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Not Alive, Not Food",
+    "candidates": [
+      "Physical Substance",
+      "Golel & Tumah",
+      "Not Alive, Not Food",
+      "Tosafot Analysis",
+      "Sefer Krisus Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the baraita deriving Rabbi Yose HaGlili's position from the word 'sefer' \u2014 that a get must be written on something neither alive nor food \u2014 which is precisely what the 'Not Alive, Not Food' section's prose describes.",
+      "chosen_heading": "Not Alive, Not Food",
+      "current_heading": "Not Alive, Not Food",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Sefer Krisus Debate",
+    "candidates": [
+      "Tosafot Analysis",
+      "Sefer Krisus Debate",
+      "Severance Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Rabbis' interpretation of 'sefer' as 'sefirat devarim' and their derivation from 've-kasav' that divorce requires writing not money \u2014 exactly what the 'Sefer Krisus Debate' prose describes.",
+      "chosen_heading": "Sefer Krisus Debate",
+      "current_heading": "Sefer Krisus Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Severance Rules",
+    "candidates": [
+      "Severance Rules",
+      "Tree Walls Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the derivation of severance requirements from 'sefer keritut' and the dispute between Rabbi Yosei HaGelili and the Rabbis, which is precisely what the 'Severance Rules' prose describes.",
+      "chosen_heading": "Severance Rules",
+      "current_heading": "Severance Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Tree Walls Mishnah",
+    "candidates": [
+      "Tree Walls Mishnah",
+      "Swaying Problem",
+      "Binding Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself \u2014 one who makes his sukkah between trees with trees as walls \u2014 which directly matches the 'Tree Walls Mishnah' section prose that introduces and paraphrases this exact mishnah.",
+      "chosen_heading": "Tree Walls Mishnah",
+      "current_heading": "Tree Walls Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Binding Solution",
+    "candidates": [
+      "Swaying Problem",
+      "Binding Solution",
+      "Non-Usage Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the 'swaying problem' discussion: item 1 is Rav Acha bar Yaakov's principle about partitions that can't withstand ordinary wind, and item 2 is the challenge from the mishna about swaying trees and the initial answer (hard/old trees), which is precisely what the 'Swaying Problem' prose describes, before the 'Binding Solution' section takes over with the foliage-tying resolution.",
+      "chosen_heading": "Swaying Problem",
+      "current_heading": "Binding Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Non-Usage Concern",
+    "candidates": [
+      "Binding Solution",
+      "Non-Usage Concern",
+      "Well Corners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of why the mishna needs to state this halakha at all, answering that it comes to teach we do not issue a gezeira against using trees as sukka walls lest one come to use the tree \u2014 precisely the content described in the 'Non-Usage Concern' prose.",
+      "chosen_heading": "Non-Usage Concern",
+      "current_heading": "Non-Usage Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Well Corners",
+    "candidates": [
+      "Well Corners",
+      "Willow Branches",
+      "Tying vs. Natural"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the well-corner construct (diyomadin) and the use of reeds as a corner partition, with the refutation that it is tied with palm and laurel leaves \u2014 exactly what the 'Well Corners' prose describes.",
+      "chosen_heading": "Well Corners",
+      "current_heading": "Well Corners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Tying vs. Natural",
+    "candidates": [
+      "Willow Branches",
+      "Tying vs. Natural",
+      "Beit Satayim Limit",
+      "For the Air"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single continuous sugya about the tree-canopy case: item 1 raises the swaying objection and answers with tying, item 2 raises the metaltel bekulah challenge, and item 3 completes that challenge \u2014 exactly the content described in candidate 1's prose about ha ka'azil ve'atei, the tying answer, and the resulting beit satayim question.",
+      "chosen_heading": "Tying vs. Natural",
+      "current_heading": "Tying vs. Natural",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "For the Air",
+    "candidates": [
+      "Beit Satayim Limit",
+      "For the Air",
+      "Mound & Crevice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the concept of 'dira detashmisheih la'avir' and the beit satayim limit that follows from it, which is precisely what the 'For the Air' section's prose discusses.",
+      "chosen_heading": "For the Air",
+      "current_heading": "For the Air",
+      "moved": false
+    }
+  }
+]

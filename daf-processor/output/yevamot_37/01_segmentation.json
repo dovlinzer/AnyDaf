@@ -120,7 +120,7 @@
           "timestamp": "21:24"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -144,7 +144,7 @@
           "timestamp": "26:09"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": false
     },
     {
@@ -605,5 +605,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "33:03",
+  "amud_b_micro_title": "World Filled Mamzerim",
+  "shiur_start_daf": 37,
+  "shiur_start_amud": "a"
 }

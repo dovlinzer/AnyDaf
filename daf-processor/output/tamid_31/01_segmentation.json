@@ -48,8 +48,8 @@
           "timestamp": "05:44"
         }
       ],
-      "sefaria_index": 20,
-      "matched": true
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Location of Shechita and Blood Sprinkling on the Altar",
@@ -83,7 +83,7 @@
         }
       ],
       "sefaria_index": 20,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Flaying and Initial Dismemberment of the Animal",
@@ -257,8 +257,8 @@
           "timestamp": "49:22"
         }
       ],
-      "sefaria_index": 12,
-      "matched": true
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Gemara on Binding Methods and Tables in the Temple",
@@ -301,7 +301,7 @@
           "timestamp": "57:18"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 12,
       "matched": true
     }
   ],
@@ -459,5 +459,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "40:19",
+  "amud_b_micro_title": "First Kohen - Head & Leg",
+  "shiur_start_daf": 30,
+  "shiur_start_amud": "b"
 }

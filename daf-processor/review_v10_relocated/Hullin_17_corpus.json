@@ -1,0 +1,505 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Baraita & Basar Nechira",
+    "candidates": [
+      "Opening",
+      "Reinterpretation",
+      "Challenge to Yishmael",
+      "Rav Yosef Intro",
+      "Baraita & Basar Nechira",
+      "Nechira Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage cites the baraita with Rabbi Yishmael's statement that the verse comes only to permit 'meat of desire,' which is precisely what the 'Reinterpretation' section describes as the Gemara's first interpretive move connecting the Mishnah's phrase to Rabbi Yishmael's position.",
+      "chosen_heading": "Reinterpretation",
+      "current_heading": "Baraita & Basar Nechira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Nechira Explained",
+    "candidates": [
+      "Baraita & Basar Nechira",
+      "Nechira Explained",
+      "Akiva Logic",
+      "Contemporary Context",
+      "B'mai Miphligi",
+      "Yishmael: Meat Permitted",
+      "Akiva: Shechita Required",
+      "Yishmael Verse",
+      "Akiva Response",
+      "Terminology Resolution",
+      "Verse Structure Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full Baraita with Rabba's and Rav Yosef's interpretations contrasting basar ta'ava (items 1-4) with Rabbi Akiva's basar nechira reading (items 5-6), which is precisely what candidate 0 ('Baraita & Basar Nechira') describes \u2014 the Baraita citing both Rabbi Yishmael's basar ta'ava reading and Rabbi Akiva's nechira prohibition reading of the same verse.",
+      "chosen_heading": "Baraita & Basar Nechira",
+      "current_heading": "Nechira Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Verse Structure Support",
+    "candidates": [
+      "Akiva Logic",
+      "Contemporary Context",
+      "B'mai Miphligi",
+      "Yishmael: Meat Permitted",
+      "Akiva: Shechita Required",
+      "Yishmael Verse",
+      "Akiva Response",
+      "Terminology Resolution",
+      "Verse Structure Support",
+      "Mishna on Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's b'mai miphligi analysis \u2014 item 1 states the core dispute, items 2-3 test each position against verses \u2014 which matches heading 2 ('B'mai Miphligi') whose prose explicitly introduces this step: 'what exactly are Rabbi Akiva and Rabbi Yishmael arguing about?'",
+      "chosen_heading": "B'mai Miphligi",
+      "current_heading": "Verse Structure Support",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Mishna on Blood",
+    "candidates": [
+      "Verse Structure Support",
+      "Mishna on Blood",
+      "Yishmael Consistency",
+      "Akiva Challenge",
+      "Retroactive Revision",
+      "Redemption Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's citation of the Mishnah about kisui ha-dam exemption for improper slaughter, which is exactly what the 'Mishna on Blood' section's prose introduces and discusses.",
+      "chosen_heading": "Mishna on Blood",
+      "current_heading": "Mishna on Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Redemption Verse",
+    "candidates": [
+      "Yishmael Consistency",
+      "Akiva Challenge",
+      "Retroactive Revision",
+      "Redemption Verse",
+      "Chaya Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage 'since it was forbidden, it was forbidden' is the Gemara's answer to why kisui ha-dam no longer applies to non-shechita killing after entry into the land, which is precisely what the 'Retroactive Revision' section discusses.",
+      "chosen_heading": "Retroactive Revision",
+      "current_heading": "Redemption Verse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Chaya Question",
+    "candidates": [
+      "Redemption Verse",
+      "Chaya Question",
+      "Basar Ta'ava Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises and addresses the question of why gazelle and deer are invoked as examples of permitted meat according to Rabbi Yishmael, which is precisely what the 'Chaya Question' prose section discusses \u2014 the restriction applied only to animals fit for korbanot, not to chayot like deer.",
+      "chosen_heading": "Chaya Question",
+      "current_heading": "Chaya Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Basar Ta'ava Reading",
+    "candidates": [
+      "Basar Ta'ava Reading",
+      "Yirmiya Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains that the prohibition on basar ta'ava applies only to domesticated animals fit for sacrifice, not wild animals \u2014 this directly supports the 'Basar Ta'ava Reading' section's discussion of the basar ta'ava framework and its connection to korbanot.",
+      "chosen_heading": "Basar Ta'ava Reading",
+      "current_heading": "Basar Ta'ava Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Yirmiya Question",
+    "candidates": [
+      "Yirmiya Question",
+      "Seven Years Conquest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yirmiya's dilemma about limbs of meat from nechira brought into Eretz Yisrael, which is precisely what the 'Yirmiya Question' prose describes.",
+      "chosen_heading": "Yirmiya Question",
+      "current_heading": "Yirmiya Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Seven Years Conquest",
+    "candidates": [
+      "Seven Years Conquest",
+      "Booty Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the question of when Rabbi Yirmeya's dilemma applies and addresses the seven years of conquest period with the pig meat example, which is exactly what the 'Seven Years Conquest' prose describes.",
+      "chosen_heading": "Seven Years Conquest",
+      "current_heading": "Seven Years Conquest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Booty Exception",
+    "candidates": [
+      "Booty Exception",
+      "Teiku",
+      "Problem with Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the booty exception (shalal shel goyim vs. their own food) and ends with teiku, matching the current section's prose about the distinction between permitted booty food and their own food during conquest.",
+      "chosen_heading": "Booty Exception",
+      "current_heading": "Booty Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Problem with Explanation",
+    "candidates": [
+      "Teiku",
+      "Problem with Explanation",
+      "Rava Simple Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabba/Rava's challenge that if the first two phrases are read as referring to objects slaughtered rather than the act of slaughtering, the third phrase 'bechol shochtin' would also have to refer to objects slaughtered \u2014 which makes no sense \u2014 exactly matching the 'Problem with Explanation' prose describing Rava's critique of the forced earlier readings.",
+      "chosen_heading": "Problem with Explanation",
+      "current_heading": "Problem with Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Rava Simple Reading",
+    "candidates": [
+      "Rava Simple Reading",
+      "Repetition Purpose",
+      "Serrated Edges",
+      "Shmuel Father Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's straightforward reading of the three Mishnaic phrases (hakol shochtin, le-olam shochtin, bechol shochtin) with their practical meanings, which matches exactly the prose of 'Rava Simple Reading' that describes this natural interpretation.",
+      "chosen_heading": "Rava Simple Reading",
+      "current_heading": "Rava Simple Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Shmuel Father Test",
+    "candidates": [
+      "Repetition Purpose",
+      "Serrated Edges",
+      "Shmuel Father Test",
+      "Saw Response",
+      "V vs One-Directional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly describes Shmuel's father notching knives and sending them for guidance, and receiving the 'like a saw' response \u2014 exactly what the 'Shmuel Father Test' prose describes.",
+      "chosen_heading": "Shmuel Father Test",
+      "current_heading": "Shmuel Father Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "V vs One-Directional",
+    "candidates": [
+      "Saw Response",
+      "V vs One-Directional",
+      "Multiple Bumps",
+      "Ogeres Type"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present the baraita about catching vs. entangling notches and the Gemara's challenge-and-resolution about one-sided vs. two-sided edges, which is precisely what candidate 1 ('V vs One-Directional') discusses in its prose \u2014 including the specific phrases mursha kamma/basra, churpa d'sakkina, d'kayim a-reisha d'sakkina, and kigone she-holich velo heivi.",
+      "chosen_heading": "V vs One-Directional",
+      "current_heading": "V vs One-Directional",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Ogeres Type",
+    "candidates": [
+      "Multiple Bumps",
+      "Ogeres Type",
+      "Mesuchsachet Type",
+      "Mesuchsachet Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's formal classification of all three knife types together, and the 'Ogeres Type' section's prose explicitly introduces this as 'Rava now presents a formal classification of three types,' making it the correct home for this tripartite statement.",
+      "chosen_heading": "Ogeres Type",
+      "current_heading": "Ogeres Type",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Mesuchsachet Questions",
+    "candidates": [
+      "Mesuchsachet Type",
+      "Mesuchsachet Questions",
+      "Oleh V'Yored",
+      "Sasa'a Knife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the clarificatory exchange between Rav Huna son of Rav Nechemia and Rav Ashi about the apparent contradiction in Rava's rulings on mesuchsachet, resolved by the holich ve-heivi distinction \u2014 exactly what the 'Mesuchsachet Questions' prose describes.",
+      "chosen_heading": "Mesuchsachet Questions",
+      "current_heading": "Mesuchsachet Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Sasa'a Knife",
+    "candidates": [
+      "Oleh V'Yored",
+      "Sasa'a Knife",
+      "Torah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the sasa'a knife question posed by Rav Acha to Rav Ashi and Rav Ashi's enthusiastic approval response, which is exactly what the 'Sasa'a Knife' section's prose describes.",
+      "chosen_heading": "Sasa'a Knife",
+      "current_heading": "Sasa'a Knife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Torah Source",
+    "candidates": [
+      "Torah Source",
+      "Objection Resolution",
+      "Rabbinic Authority",
+      "Regional Methods"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Torah Source",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav \u1e24isda's derivation of the Torah source for knife examination, which matches the 'Torah Source' heading's prose exactly.",
+      "second_heading": "Objection Resolution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the pshita objection and its resolution (showing to a chacham), then Rabbi Yo\u1e25anan's statement and the asmachta conclusion, which maps directly onto the 'Objection Resolution' heading's prose (and the 'Rabbinic Authority' content is embedded in item 2 as well, but 'Objection Resolution' is the better single match since it covers both the objection and the rabbinic-law conclusion).",
+      "current_heading": "Torah Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Regional Methods",
+    "candidates": [
+      "Objection Resolution",
+      "Rabbinic Authority",
+      "Regional Methods",
+      "Sura Approach",
+      "Rav Pappa Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the regional methods for checking the knife (sunlight in Eretz Yisrael, water in Nehardea, tongue by Rav Sheshet, hair strand by Rav Acha bar Yaakov), which directly matches the 'Regional Methods' section's prose.",
+      "chosen_heading": "Regional Methods",
+      "current_heading": "Regional Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Rav Pappa Rule",
+    "candidates": [
+      "Sura Approach",
+      "Rav Pappa Rule",
+      "Sides Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with the Sura saying ('bisra achla bisra livdika') and then adds Rav Pappa's rule, and candidate 0's prose covers both the Sura approach and mentions the fingertip test, making it the section where this combined passage belongs \u2014 candidate 1's prose covers only Rav Pappa's rule without the Sura introduction.",
+      "chosen_heading": "Sura Approach",
+      "current_heading": "Rav Pappa Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Sides Clarification",
+    "candidates": [
+      "Rav Pappa Rule",
+      "Sides Clarification",
+      "Rav Ashi Approval"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the exact clarificatory exchange between Ravina and Rav Ashi about what Rav Ashi said regarding flesh, nail, and three sides, which is precisely what the 'Sides Clarification' prose describes.",
+      "chosen_heading": "Sides Clarification",
+      "current_heading": "Sides Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Rav Ashi Approval",
+    "candidates": [
+      "Rav Ashi Approval",
+      "Rav Yemar Dissent",
+      "Hot Knife Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi approving Rav Acha's three-part knife examination, which matches exactly the prose under 'Rav Ashi Approval.'",
+      "chosen_heading": "Rav Ashi Approval",
+      "current_heading": "Rav Ashi Approval",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Hot Knife Proof",
+    "candidates": [
+      "Rav Yemar Dissent",
+      "Hot Knife Proof",
+      "Nail Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yeimar's dissent and the hot knife proof together as a single unit of argument, and the current heading's prose explicitly covers both elements \u2014 Rav Yeimar's position and its derivation from the white-hot knife ruling including the 'beit ha-shechitah mirvach ravach' answer \u2014 making heading 1 the clear best match.",
+      "chosen_heading": "Hot Knife Proof",
+      "current_heading": "Hot Knife Proof",
+      "moved": false
+    }
+  }
+]

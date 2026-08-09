@@ -1,0 +1,297 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Day 15 to Day 20 Case",
+    "candidates": [
+      "Veset Haguf & Hayamim",
+      "Day 15 to Day 20 Case",
+      "Three Times Rule",
+      "15, 16, 17 Pattern",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Veset HaChodesh",
+      "Three Types of Vestot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Times Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah text stating the three-times rule for establishing and uprooting a veset, which is precisely what the 'Three Times Rule' section's prose discusses.",
+      "second_heading": "15, 16, 17 Pattern",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara introducing the 15/16/17 skipping pattern dispute between Rav and Shmuel, which is exactly what the '15, 16, 17 Pattern' section's prose describes.",
+      "current_heading": "Day 15 to Day 20 Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Three Types of Vestot",
+    "candidates": [
+      "Three Times Rule",
+      "15, 16, 17 Pattern",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Veset HaChodesh",
+      "Three Types of Vestot",
+      "Baraita Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's suggestion and rejection that Rav and Shmuel are reprising the Rabbi/Rabban Shimon ben Gamliel machloket \u2014 exactly what the 'Three Types of Vestot' prose describes, including the baraita citation and the conclusion that all agree with Rabban Shimon ben Gamliel and the debate is specifically about whether day 15 counts among the three instances.",
+      "chosen_heading": "Three Types of Vestot",
+      "current_heading": "Three Types of Vestot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Baraita Text",
+    "candidates": [
+      "Baraita Text",
+      "Kashya to Rav",
+      "Limuda Shani",
+      "Uprooting vs. Replacement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the full baraita text and its immediate resolution (kashya l'Rav + limuda shani), which is precisely what the 'Baraita Text' section's prose describes \u2014 the baraita challenge and its outcome \u2014 making the current placement the best match.",
+      "chosen_heading": "Baraita Text",
+      "current_heading": "Baraita Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Uprooting vs. Replacement",
+    "candidates": [
+      "Kashya to Rav",
+      "Limuda Shani",
+      "Uprooting vs. Replacement",
+      "One Time Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items continue the Gemara's discussion of Shmuel's position regarding an established prior pattern (limuda) \u2014 item 1 explains why the baraita used the limuda case, items 2-3 raise and resolve a refutation of Shmuel using a baraita about sequential days \u2014 exactly the content described in the 'Limuda Shani' prose, which discusses how an established veset interacts with a new pattern and Shmuel's requirement of three instances.",
+      "chosen_heading": "Limuda Shani",
+      "current_heading": "Uprooting vs. Replacement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "One Time Concern",
+    "candidates": [
+      "Uprooting vs. Replacement",
+      "One Time Concern",
+      "Zavah Period Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Pappa's ruling that a single occurrence suffices for concern (le-michash), and the gemara's challenge from the mishnah about day 15/20 \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "One Time Concern",
+      "current_heading": "One Time Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Zavah Period Concern",
+    "candidates": [
+      "Zavah Period Concern",
+      "Unestablished Uprooting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the distinction between a sighting during the niddah period versus the zavah period, which is precisely what the 'Zavah Period Concern' prose section discusses.",
+      "chosen_heading": "Zavah Period Concern",
+      "current_heading": "Zavah Period Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Unestablished Uprooting",
+    "candidates": [
+      "Unestablished Uprooting",
+      "20 to 30 Switch",
+      "Four Month Cycle",
+      "Reassertion Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Unestablished Uprooting",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are Rav Pappa's ruling and the gemara's challenge/resolution about uprooting a veset established fewer than three times \u2014 exactly what heading 0 ('Unestablished Uprooting') describes.",
+      "second_heading": "20 to 30 Switch",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita about a woman who switches from day 20 to day 30, which is precisely the scenario heading 1 ('20 to 30 Switch') introduces.",
+      "current_heading": "Unestablished Uprooting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Reassertion Principle",
+    "candidates": [
+      "20 to 30 Switch",
+      "Four Month Cycle",
+      "Reassertion Principle",
+      "Remaining Questions",
+      "Women as Vines"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the four-month sequence of day-30 and day-20 sightings and non-sightings, which is precisely what the 'Four Month Cycle' prose describes \u2014 the baraita tracing four successive months \u2014 not the ruling/conclusion discussed under 'Reassertion Principle' where it currently sits.",
+      "chosen_heading": "Four Month Cycle",
+      "current_heading": "Reassertion Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Women as Vines",
+    "candidates": [
+      "Remaining Questions",
+      "Women as Vines",
+      "Shmuel's Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishnah comparing women to vines and the Gemara explaining 'dorkati' as 'dor katua' and Rabbi Meir's teaching about plentiful blood \u2014 are precisely what the 'Women as Vines' prose describes, making the current placement correct.",
+      "chosen_heading": "Women as Vines",
+      "current_heading": "Women as Vines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Shmuel's Test",
+    "candidates": [
+      "Shmuel's Test",
+      "Rav's Stricter Test"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rav's Stricter Test",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Mishnah itself (opening cases about young girls, puberty timing, and prior menstrual experience), which belongs before the Gemara discussion and is a self-contained unit that precedes the Shmuel/Rav dispute sections entirely.",
+      "second_heading": "Shmuel's Test",
+      "second_confidence": "medium",
+      "second_reason": "Items 4-5 are the Gemara's opening analysis of the Mishnah (Rav Na\u1e25man bar Yitz\u1e25ak's inference and the supporting baraita), which contextually precede the Shmuel/Rav tests but sit closest to the 'Shmuel's Test' section in the essay's flow.",
+      "current_heading": "Shmuel's Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Rav's Stricter Test",
+    "candidates": [
+      "Rav's Stricter Test",
+      "Consistency Test",
+      "Rabbi Yehuda",
+      "Rav vs. Levi",
+      "Shabbat Permissibility"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav's Stricter Test",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav's criterion of 'nocheret' and Shmuel's alternative formulation, which is exactly what heading 0 ('Rav's Stricter Test') describes \u2014 Shmuel's uncertainty about 'nocheret' and the saliva euphemism.",
+      "second_heading": "Consistency Test",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains what 'nocheret' means via positional bleeding variation (standing vs. sitting, ground vs. cushions), including the consistent-bleeding conclusion that the wound has healed \u2014 which is precisely what heading 1 ('Consistency Test') discusses.",
+      "current_heading": "Rav's Stricter Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Shabbat Permissibility",
+    "candidates": [
+      "Consistency Test",
+      "Rabbi Yehuda",
+      "Rav vs. Levi",
+      "Shabbat Permissibility",
+      "Blood & Fertility",
+      "Four Nights/Healed",
+      "Age Over History",
+      "Beit Shammai Rule",
+      "Beit Hillel Rule",
+      "One vs. Four Nights"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rav vs. Levi",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 directly discuss the Rav vs. Levi dispute about whether daytime intercourse loses nighttime allocations, the meaning of 'four nights' vs. 'four onot', and the Shabbat permissibility question \u2014 all of which are precisely what candidate 2 ('Rav vs. Levi') describes, and candidate 3 ('Shabbat Permissibility') also covers items 3-4, but the entire unit belongs under the broader Rav/Levi heading since the Shabbat discussion is a sub-point of that same dispute.",
+      "second_heading": "Shabbat Permissibility",
+      "second_confidence": "medium",
+      "second_reason": "Item 5 introduces a new dispute between Rabbi \u1e24anina and Rabbi Asi about a case where no blood was found on first intercourse but blood appeared on second intercourse \u2014 this is a structurally new case/scenario, and candidate 3 ('Shabbat Permissibility') is the current placement but doesn't match well; however none of the candidates perfectly matches item 5's content about finding/not finding blood on successive acts, making this a difficult placement.",
+      "current_heading": "Shabbat Permissibility",
+      "moved": true
+    }
+  }
+]

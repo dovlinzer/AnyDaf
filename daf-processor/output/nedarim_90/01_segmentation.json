@@ -34,8 +34,8 @@
           "timestamp": "02:45"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Supporting Rav Pappi: The Braita of Konam She'eini Neheneh and the Dual Annulment Problem",
@@ -140,8 +140,8 @@
           "timestamp": "19:40"
         }
       ],
-      "sefaria_index": 12,
-      "matched": true
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "The Mishnah on Women's Grounds for Divorce: Introduction and Historical Context",
@@ -175,7 +175,7 @@
         }
       ],
       "sefaria_index": 12,
-      "matched": false
+      "matched": true
     },
     {
       "title": "The Reversal: Why Belief Changed and Its Consequences for Agunah",
@@ -208,8 +208,8 @@
           "timestamp": "37:34"
         }
       ],
-      "sefaria_index": 12,
-      "matched": false
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Halakhic Reality Problem: Shavya Nafsha and the Non-Belief Framework",
@@ -237,8 +237,8 @@
           "timestamp": "51:27"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 13,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -427,5 +427,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 8
+  "amud_b_sefaria_index": 8,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "10:51",
+  "amud_b_micro_title": "Mareimar Report",
+  "shiur_start_daf": 89,
+  "shiur_start_amud": "b"
 }

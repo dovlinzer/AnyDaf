@@ -1,0 +1,464 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Timeline Calculation",
+    "candidates": [
+      "New Topics Begin",
+      "Tzmachim She-shanu",
+      "Arbaim Yom & Batzoret",
+      "Batzoret vs Ra'av",
+      "Timeline Calculation",
+      "Ir Shelo Yardu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text covers both 'tzmachim she-shanu' (vegetation that changed) and the forty-day gap, which are introduced together in the mishna's opening statement \u2014 the passage belongs under 'Tzmachim She-shanu' (index 1) which introduces the full mishna, rather than under 'Timeline Calculation' (index 4) which discusses a mathematical elaboration unrelated to this mishna's direct content.",
+      "chosen_heading": "Tzmachim She-shanu",
+      "current_heading": "Timeline Calculation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Ir Shelo Yardu",
+    "candidates": [
+      "Timeline Calculation",
+      "Ir Shelo Yardu",
+      "Tanna Kamma Position",
+      "Rabbi Akiva Omer",
+      "Akiva's Logic",
+      "Dever O Mapolet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishnah text about insufficient rain for vegetation/trees/cisterns and the city that received no rain, which is precisely what the 'Ir Shelo Yardu' section's prose introduces and discusses.",
+      "chosen_heading": "Ir Shelo Yardu",
+      "current_heading": "Ir Shelo Yardu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Dever O Mapolet",
+    "candidates": [
+      "Tanna Kamma Position",
+      "Rabbi Akiva Omer",
+      "Akiva's Logic",
+      "Dever O Mapolet",
+      "Pestilence Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the tanna kamma ruling (surrounding cities fast but don't cry out) and Rabbi Akiva's position together as one mishna unit, but the tanna kamma section's prose specifically discusses this exact text about the affected city fasting and crying out while surrounding areas only fast \u2014 and the passage begins with that ruling before moving to Rabbi Akiva and then the dever/mapolet extension, making the 'Tanna Kamma Position' heading the natural home for this full mishna passage that introduces all these rulings together.",
+      "chosen_heading": "Tanna Kamma Position",
+      "current_heading": "Dever O Mapolet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Pestilence Definition",
+    "candidates": [
+      "Dever O Mapolet",
+      "Pestilence Definition",
+      "Crop Diseases",
+      "Human Threats",
+      "Mahalachet Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines pestilence by the mortality threshold relative to population, which is precisely what the 'Pestilence Definition' section discusses.",
+      "chosen_heading": "Pestilence Definition",
+      "current_heading": "Pestilence Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Mahalachet Concept",
+    "candidates": [
+      "Crop Diseases",
+      "Human Threats",
+      "Mahalachet Concept",
+      "Ashkelon Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists all the calamities requiring universal response (blight, mildew, locusts, caterpillars, dangerous beasts, and sword) as a complete unit, and the 'Crop Diseases' section's prose explicitly introduces this exact mishnah text with 'al elu matri'in b'chol makom' and discusses the agricultural threats listed first, making it the natural home for the full passage rather than splitting it across multiple headings.",
+      "chosen_heading": "Crop Diseases",
+      "current_heading": "Mahalachet Concept",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Ashkelon Story",
+    "candidates": [
+      "Mahalachet Concept",
+      "Ashkelon Story",
+      "Wolves Story",
+      "Bechol Makom Limits",
+      "Emergencies Listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Ashkelon blight story and the wolves story as a combined unit, but since both stories appear together in one Talmudic quote and the current placement under 'Ashkelon Story' covers the first incident while 'Wolves Story' covers the second, the current placement is correct as the passage begins with the Ashkelon incident which is what heading 1 discusses.",
+      "chosen_heading": "Ashkelon Story",
+      "current_heading": "Ashkelon Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Emergencies Listed",
+    "candidates": [
+      "Wolves Story",
+      "Bechol Makom Limits",
+      "Emergencies Listed",
+      "Rabbi Yossi Omer",
+      "Tanna Kamma View",
+      "Shimon HaTimni",
+      "All Afflictions Rule",
+      "Excessive Rain Logic",
+      "Ovens Request"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage lists the three emergencies for which matri'in is performed on Shabbat (besieged city, flooding river, storm-tossed ship), along with Rabbi Yosei's and Shimon HaTimni's opinions, and the 'Emergencies Listed' prose directly introduces and discusses exactly these three cases and the remarkable permission to perform matri'in on Shabbat.",
+      "chosen_heading": "Emergencies Listed",
+      "current_heading": "Emergencies Listed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Ovens Request",
+    "candidates": [
+      "Rabbi Yossi Omer",
+      "Tanna Kamma View",
+      "Shimon HaTimni",
+      "All Afflictions Rule",
+      "Excessive Rain Logic",
+      "Ovens Request",
+      "Circle & Demand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains the mishna's general rule about crying out for any communal trouble ('al kol tzara shelo tavo al hatzibur matri'in aleihem') combined with the opening of the Choni story, and candidate 3's prose ('All Afflictions Rule') directly discusses this exact general statement including the 'shelo tavo' phrasing, while candidate 5 ('Ovens Request') discusses only the Choni narrative context \u2014 the passage actually opens with the general rule that belongs under heading 3.",
+      "chosen_heading": "All Afflictions Rule",
+      "current_heading": "Ovens Request",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Circle & Demand",
+    "candidates": [
+      "Ovens Request",
+      "Circle & Demand",
+      "Rain Escalation",
+      "Flood & Stone Check"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the rain escalation sequence (drizzle \u2192 furious rain \u2192 request for benevolent rain) that the 'Rain Escalation' section's prose explicitly discusses, whereas the 'Circle & Demand' section covers only the oath and the circle-drawing prior to any rain falling.",
+      "chosen_heading": "Rain Escalation",
+      "current_heading": "Circle & Demand",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Flood & Stone Check",
+    "candidates": [
+      "Rain Escalation",
+      "Flood & Stone Check",
+      "Shetach Rebuke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the rain falling in its standard manner, the people fleeing to the Temple Mount due to flooding, and Choni's response about the Claimants' Stone \u2014 all of which is precisely what the 'Flood & Stone Check' section prose discusses.",
+      "chosen_heading": "Flood & Stone Check",
+      "current_heading": "Flood & Stone Check",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Shetach Rebuke",
+    "candidates": [
+      "Shetach Rebuke",
+      "Choni Critique",
+      "Before Sunrise Rule",
+      "After Sunrise Rule",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct quote of Shimon ben Shetach's message to Choni, which is exactly what the 'Shetach Rebuke' section's prose discusses and analyzes.",
+      "chosen_heading": "Shetach Rebuke",
+      "current_heading": "Shetach Rebuke",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Choni Critique",
+      "Before Sunrise Rule",
+      "After Sunrise Rule",
+      "Rabbi Eliezer",
+      "Lod Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the before/after sunrise rule and Rabbi Eliezer's position as a single mishna text, and candidate 1 ('Before Sunrise Rule') is where this unified mishna naturally begins \u2014 the current placement under 'Rabbi Eliezer' only covers the final clause, while the full text belongs under the heading that introduces the mishna's opening rule.",
+      "chosen_heading": "Before Sunrise Rule",
+      "current_heading": "Rabbi Eliezer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Lod Story",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Lod Story",
+      "Institutional Nature",
+      "Prayer vs Fasting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Lod incident where rain fell before midday, Rabbi Tarfon told the people to eat and drink and celebrate, and they recited Hallel HaGadol in the afternoon \u2014 precisely what the 'Lod Story' prose discusses.",
+      "chosen_heading": "Lod Story",
+      "current_heading": "Lod Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Prayer vs Fasting",
+    "candidates": [
+      "Institutional Nature",
+      "Prayer vs Fasting",
+      "Nishtanu Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form exactly the contradiction and Rav Yehuda's resolution that the 'Prayer vs Fasting' prose describes \u2014 the apparent conflict between the mishna and the baraita about when fasting begins versus when only prayer is required, resolved by Rav Yehuda's distinction between all three revi'ah dates passing versus rain falling at the first date but crops failing.",
+      "chosen_heading": "Prayer vs Fasting",
+      "current_heading": "Prayer vs Fasting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Nishtanu Debate",
+    "candidates": [
+      "Nishtanu Debate",
+      "Batzoret Definition",
+      "Price vs Availability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Na\u1e25man's qualification about 'nishtanu' vs 'yavshu' and the gemara's objection and answer about crops that dried out but produced stalks, which matches exactly what the 'Nishtanu Debate' prose describes.",
+      "chosen_heading": "Nishtanu Debate",
+      "current_heading": "Nishtanu Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Price vs Availability",
+    "candidates": [
+      "Batzoret Definition",
+      "Price vs Availability",
+      "Money Scarcity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's definition of 'makat batzoret' \u2014 Rav Yehuda/Rav's explanation, Rav Nachman's river/province distinction, and Rabbi Chanina's price/availability distinction \u2014 all of which are explicitly discussed in the 'Batzoret Definition' prose, which covers Rav Nachman's nahara-anahara and medinta-amedinta definitions as well as Rabbi Chanina's se'ah-besela formulation.",
+      "chosen_heading": "Batzoret Definition",
+      "current_heading": "Price vs Availability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Money Scarcity",
+    "candidates": [
+      "Price vs Availability",
+      "Money Scarcity",
+      "Rain Type Effects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yochanan's qualification about money scarcity vs. produce scarcity, matching precisely the prose in 'Money Scarcity' which paraphrases this exact text including the Tiberias memory.",
+      "chosen_heading": "Money Scarcity",
+      "current_heading": "Money Scarcity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Rain Type Effects",
+    "candidates": [
+      "Rain Type Effects",
+      "Torrential Rain",
+      "Trees Half Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's analysis of how different rain types (gentle vs. heavy vs. abundant) affect vegetation, trees, and cisterns differently \u2014 exactly what the 'Rain Type Effects' prose describes, including the baraita about cisterns filled by torrential rain which the prose of heading 0 also covers in its final sentence.",
+      "chosen_heading": "Rain Type Effects",
+      "current_heading": "Rain Type Effects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Trees Half Pesach",
+    "candidates": [
+      "Torrential Rain",
+      "Trees Half Pesach",
+      "Wells Tishrei",
+      "Drinking Water",
+      "Askara Disease",
+      "Locusts Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Trees Half Pesach",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the baraita about trees (fros haPesach), cisterns (fros haChag), and drinking water (miyad), which maps directly onto the 'Trees Half Pesach' section's prose about matri'in al ha'ilanot b'fros haPesach.",
+      "second_heading": "Drinking Water",
+      "second_confidence": "high",
+      "second_reason": "Item 2 defines what 'immediately' (miyad) means in practice \u2014 sheni v'chamishi v'sheni \u2014 which matches precisely the 'Drinking Water' prose that states 'the gemara specifies what miyad means here in practice: sheni v'chamishi v'sheni.'",
+      "current_heading": "Trees Half Pesach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Locusts Response",
+    "candidates": [
+      "Wells Tishrei",
+      "Drinking Water",
+      "Askara Disease",
+      "Locusts Response",
+      "Shmitta Trees",
+      "Sifichin Shmitta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses both askara (diphtheria) and locusts/grasshoppers together, and candidate 2 ('Askara Disease') covers askara while candidate 3 ('Locusts Response') covers the locust portion \u2014 but since the passage begins with askara and flows into locusts as a single mishna unit, and candidate 2's prose explicitly anticipates the locusts discussion as a continuation, while candidate 3's prose already describes the locust content independently, the passage as a whole is better placed under 'Askara Disease' where the askara content begins, matching how the essay author structured the prose to lead into locusts from askara.",
+      "chosen_heading": "Askara Disease",
+      "current_heading": "Locusts Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Sifichin Shmitta",
+    "candidates": [
+      "Shmitta Trees",
+      "Sifichin Shmitta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both baraitot discuss the core rule about sounding the alarm over trees during the shmitta cycle, which is precisely what heading 0 ('Shmitta Trees') addresses, while the current heading 1 ('Sifichin Shmitta') covers the downstream discussion of Rabban Shimon Gamliel's extension to sifichin \u2014 the passage belongs under the heading that introduces the tree/shmitta rule itself.",
+      "chosen_heading": "Shmitta Trees",
+      "current_heading": "Sifichin Shmitta",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Opening",
+      "Mixed Animals",
+      "Invalid Categories",
+      "Mishnah",
+      "Reish Lakish",
+      "Gideon Source",
+      "Gideon Details",
+      "Challenge",
+      "Rav Acha",
+      "Rava",
+      "8 Exceptions",
+      "Abba Bar Kahana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself ('Which is the animal that is set-aside? It is an animal set aside for idol worship') plus Reish Lakish's opening statement, but the prose under heading 3 ('Mishnah') explicitly describes how the mishnah raises muktzah l'avodat kochavim without defining it and leaves the definition to the gemara \u2014 which is exactly what this passage does \u2014 whereas heading 4 ('Reish Lakish') is meant to discuss Reish Lakish's position after the mishnah has already been presented separately.",
+      "chosen_heading": "Mishnah",
+      "current_heading": "Reish Lakish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Abba Bar Kahana",
+    "candidates": [
+      "Gideon Source",
+      "Gideon Details",
+      "Challenge",
+      "Rav Acha",
+      "Rava",
+      "8 Exceptions",
+      "Abba Bar Kahana",
+      "R. Yoshiyah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gideon Source",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gideon verse cited as the source for the seven-year requirement, matching heading 0 ('Gideon Source') whose prose explicitly describes Reish Lakish deriving the seven-year requirement from that same pasuk.",
+      "second_heading": "Challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the gemara's challenge that the bullock was also worshipped (ne'evad), then Rav Acha's and Rava's responses plus Rabbi Abba bar Kahana's list of eight exceptions \u2014 exactly what heading 2 ('Challenge') describes, and the eight exceptions listed in item 3 belong to that same continuous dispute chain.",
+      "current_heading": "Abba Bar Kahana",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "R. Yoshiyah",
+    "candidates": [
+      "Abba Bar Kahana",
+      "R. Yoshiyah",
+      "Abaye Challenge",
+      "Clarification",
+      "Designation Def'n",
+      "Work Requirement",
+      "Rambam v. Ra'avad",
+      "Ulla on Priests"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Yoshiyah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yoshiya's derivation of muktzah from the verse 'tishmeru l'hakriv li b'moado,' which is precisely what the 'R. Yoshiyah' prose describes.",
+      "second_heading": "Abaye Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's challenge about the weak lamb receiving no shimur, which is exactly what the 'Abaye Challenge' prose describes.",
+      "current_heading": "R. Yoshiyah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Ulla on Priests",
+    "candidates": [
+      "Abaye Challenge",
+      "Clarification",
+      "Designation Def'n",
+      "Work Requirement",
+      "Rambam v. Ra'avad",
+      "Ulla on Priests",
+      "Beiha Reconciles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the Rava bar Rav Adda/Rav Yitz\u1e25ak and Ulla/Rabbi Yo\u1e25anan positions on what constitutes sufficient designation for muktzah status, which directly corresponds to the 'Work Requirement' section's prose discussing exactly these two opinions and their implications.",
+      "chosen_heading": "Work Requirement",
+      "current_heading": "Ulla on Priests",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Beiha Reconciles",
+    "candidates": [
+      "Ulla on Priests",
+      "Beiha Reconciles",
+      "Beiha Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Beiha's citation of Rabbi Yochanan about feeding vetches of idolatry and the exchange with Rabbi Abba about reconciling with Ulla, which is precisely what the 'Beiha Reconciles' prose section discusses.",
+      "chosen_heading": "Beiha Reconciles",
+      "current_heading": "Beiha Reconciles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Beiha Merit",
+    "candidates": [
+      "Beiha Merit",
+      "Acts of Muktzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Baha/Beiha's ability to explain a halakha and whether his wisdom came from Eretz Yisrael or from studying in both places, which matches exactly the prose under 'Beiha Merit'.",
+      "chosen_heading": "Beiha Merit",
+      "current_heading": "Beiha Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Acts of Muktzah",
+    "candidates": [
+      "Acts of Muktzah",
+      "Ne'evad",
+      "Edible Status",
+      "Rav Papa",
+      "Inference Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the teaching of Rabbi \u1e24ananya Terita about muktzah requiring an action to establish prohibition, which is precisely what the 'Acts of Muktzah' section prose describes.",
+      "chosen_heading": "Acts of Muktzah",
+      "current_heading": "Acts of Muktzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Inference Logic",
+    "candidates": [
+      "Ne'evad",
+      "Edible Status",
+      "Rav Papa",
+      "Inference Logic",
+      "Treifah Exception",
+      "3 Stages"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Edible Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's question 'From where are these matters derived?' which directly matches the 'Edible Status' prose that describes the mishnah's ruling and notes 'the gemara asks: how do we know this?'",
+      "second_heading": "Rav Papa",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Papa's answer citing the verse 'mimashkeh Yisrael', which exactly matches the 'Rav Papa' section prose describing that very verse and its derivation.",
+      "current_heading": "Inference Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "3 Stages",
+    "candidates": [
+      "Treifah Exception",
+      "3 Stages",
+      "General Rule",
+      "Mishnah",
+      "Servant Case",
+      "Dispute",
+      "Multiple Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form the continuous gemara discussion about why a verse is needed to exclude tereifah from korbanot \u2014 the challenge, the baraita, and the chain of answers about different stages \u2014 which matches exactly the 'Treifah Exception' prose, not the '3 Stages' prose which describes the content of items 3-5 but not items 1-2.",
+      "chosen_heading": "Treifah Exception",
+      "current_heading": "3 Stages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Multiple Animals",
+    "candidates": [
+      "General Rule",
+      "Mishnah",
+      "Servant Case",
+      "Dispute",
+      "Multiple Animals",
+      "Clarification",
+      "Timing Correction",
+      "Permitted Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mishna's statement that even one hundred animals are forbidden, the gemara's question about the obviousness of that ruling, and the gemara's answer about the case where only one animal was the agreed fee but one hundred were given \u2014 directly correspond to the 'Multiple Animals' section's prose, which explicitly discusses afilu hen me'ah and the lo tzricha answer.",
+      "chosen_heading": "Multiple Animals",
+      "current_heading": "Multiple Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Permitted Cases",
+    "candidates": [
+      "Clarification",
+      "Timing Correction",
+      "Permitted Cases",
+      "R. Elazar",
+      "Ownership Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items cover the baraita's clarification of the esnan cases (gave but no intercourse, intercourse but no payment, then the timing correction and Rabbi Elazar's ruling about prior sacrifice), which exactly matches the 'Clarification' section's prose description of the gemara working through the baraita's meaning \u2014 the current placement under 'Permitted Cases' skips over 'Clarification' and 'Timing Correction' which cover items 1\u20132, but since all five items form one continuous chain beginning with the baraita's initial statement, they all belong under the heading that opens that discussion, which is 'Clarification' (index 0).",
+      "chosen_heading": "Clarification",
+      "current_heading": "Permitted Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Ownership Question",
+    "candidates": [
+      "R. Elazar",
+      "Ownership Question",
+      "Ownership Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0's prose directly describes Rav Oshaya's dilemma about sanctification vs. sacrifice, which is exactly what all three items discuss, and the passage ends with teiku matching candidate 1/2 only as a tail \u2014 the primary content of the dilemma being raised belongs under candidate 0 ('R. Elazar').",
+      "chosen_heading": "R. Elazar",
+      "current_heading": "Ownership Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Ownership Resolution",
+    "candidates": [
+      "Ownership Question",
+      "Ownership Resolution",
+      "All Arayot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Ownership Resolution' prose: the baraita contradiction about post-bi'ah payment, Rav \u1e24anan bar Rav \u1e24isda's resolution distinguishing 'this lamb' from an unspecified lamb, the meshicha objection for gentile vs. Jewish prostitutes, and the apoteki stipulation \u2014 all of which are explicitly discussed in candidate 1's prose.",
+      "chosen_heading": "Ownership Resolution",
+      "current_heading": "Ownership Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "All Arayot",
+    "candidates": [
+      "All Arayot",
+      "Wife Exception",
+      "Levi Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "All Arayot",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav's ruling that esnan of any arayos is forbidden, which matches candidate 0's prose about Rav's teaching that echad esnan zachar v'echad esnan kol arayos assur.",
+      "second_heading": "Wife Exception",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the reason for the wife/niddah exception (zona kesiv v'ha lav zona hee), which matches candidate 1's prose exactly: 'Mai ta'ama? Zona kesiv v'ha lav zona hee \u2014 the verse says zonah, and a man's wife cannot be called a zonah.'",
+      "current_heading": "All Arayot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Levi Dispute",
+    "candidates": [
+      "Wife Exception",
+      "Levi Dispute",
+      "Gender Distinction",
+      "Rebbi",
+      "Payment Type",
+      "Woman Pays"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Levi's opinion that payment for intercourse with one's menstruating wife is prohibited as esnan because the verse uses the word 'abomination,' which matches exactly what the 'Levi Dispute' prose describes.",
+      "chosen_heading": "Levi Dispute",
+      "current_heading": "Levi Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150
+    ],
+    "current_heading": "Woman Pays",
+    "candidates": [
+      "Gender Distinction",
+      "Rebbi",
+      "Payment Type",
+      "Woman Pays",
+      "Rava Post-Factum"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gender Distinction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the gender distinction question \u2014 zonah v'lo zoneh \u2014 which is exactly what candidate 0 ('Gender Distinction') discusses.",
+      "second_heading": "Rebbi",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita of Rebbi Yehuda HaNasi stating the principle that only payment for a transgression is forbidden, which is exactly what candidate 1 ('Rebbi') discusses.",
+      "current_heading": "Woman Pays",
+      "moved": true
+    }
+  }
+]

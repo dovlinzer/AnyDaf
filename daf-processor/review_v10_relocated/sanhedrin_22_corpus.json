@@ -1,0 +1,677 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Extraneous Horses",
+    "candidates": [
+      "Intro: Horses & Money",
+      "Extraneous Horses",
+      "'Lo' Teaches Limit",
+      "Silver & Gold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the plural 'horses' is needed once a single idle horse is already prohibited, and answers that each horse constitutes a separate transgression \u2014 exactly the content described in the 'Extraneous Horses' prose where it currently sits.",
+      "chosen_heading": "Extraneous Horses",
+      "current_heading": "Extraneous Horses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Silver & Gold",
+    "candidates": [
+      "'Lo' Teaches Limit",
+      "Silver & Gold",
+      "Conflicting Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items cover the silver-and-gold prohibition and the word 'lo' in that context (items 1-3), plus the derivation from 'lo' in the wives-verse (item 4), which exactly matches the 'Silver & Gold' prose description including 'lo tzricha le-harchavah' and 'lemiut hedyotot'.",
+      "chosen_heading": "Silver & Gold",
+      "current_heading": "Silver & Gold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Conflicting Verses",
+    "candidates": [
+      "Conflicting Verses",
+      "Silver Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the contradiction between two verses about Solomon's stables (forty thousand vs. four thousand), which is exactly what the 'Conflicting Verses' prose describes.",
+      "chosen_heading": "Conflicting Verses",
+      "current_heading": "Conflicting Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Silver Contradiction",
+    "candidates": [
+      "Silver Contradiction",
+      "Pre/Post Marriage",
+      "Rome Foundation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction about silver's value in Solomon's time, which is exactly what section 0 ('Silver Contradiction') is about, and the resolution mentioning Pharaoh's daughter is part of the same Talmudic exchange rather than a separate section.",
+      "chosen_heading": "Silver Contradiction",
+      "current_heading": "Silver Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Rome Foundation",
+    "candidates": [
+      "Pre/Post Marriage",
+      "Rome Foundation",
+      "Hidden Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yitzchak's teaching about Gabriel implanting a pole in the sea and Rome being built on the resulting sandbar, which is exactly what the 'Rome Foundation' section's prose describes.",
+      "chosen_heading": "Rome Foundation",
+      "current_heading": "Rome Foundation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Hidden Reasons",
+    "candidates": [
+      "Hidden Reasons",
+      "Own Sefer Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yitzchak's teaching about why Torah reasons are not revealed \u2014 the wives and horses examples \u2014 which is precisely what the 'Hidden Reasons' prose describes in detail.",
+      "chosen_heading": "Hidden Reasons",
+      "current_heading": "Hidden Reasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Own Sefer Torah",
+    "candidates": [
+      "Own Sefer Torah",
+      "Braita: Others' Torahs",
+      "Two Torahs",
+      "Torah as Amulet"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Braita: Others' Torahs",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the baraita ruling that a king must not beautify himself with another's Torah and Rava/Abaye's dispute about whether an ordinary person must also write his own scroll, matching candidate 1's prose exactly.",
+      "second_heading": "Two Torahs",
+      "second_confidence": "high",
+      "second_reason": "Item 3 resolves Abaye's objection by explaining the king needs two Torah scrolls \u2014 one traveling with him and one in his treasury \u2014 which matches candidate 2's prose precisely.",
+      "current_heading": "Own Sefer Torah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Torah as Amulet",
+    "candidates": [
+      "Braita: Others' Torahs",
+      "Two Torahs",
+      "Torah as Amulet",
+      "Inner/Outer Torah",
+      "Original Script",
+      "Ezra's Change"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the portable Torah being made like an amulet worn on the arm and the restriction against taking it into bathhouses/bathrooms, which matches exactly the prose of candidate 2 'Torah as Amulet'.",
+      "chosen_heading": "Torah as Amulet",
+      "current_heading": "Torah as Amulet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Ezra's Change",
+    "candidates": [
+      "Inner/Outer Torah",
+      "Original Script",
+      "Ezra's Change",
+      "Ktav Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full statement of Mar Zutra/Mar Ukva including both the original giving in Ivrit script and the Ezra-era reissue, but heading 1 ('Original Script') explicitly quotes the opening of this exact statement and is clearly designed to introduce the entire passage, whereas heading 2 ('Ezra's Change') is better suited to commentary/analysis following the citation rather than the citation itself.",
+      "chosen_heading": "Original Script",
+      "current_heading": "Ezra's Change",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Ktav Names",
+    "candidates": [
+      "Ezra's Change",
+      "Ktav Names",
+      "Ezra & Moses",
+      "Moses Parallels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage identifies the *hedyotot* as Samaritans (Kuta'ei) and defines *ktav Ivri* as *ktav libona'a* \u2014 both pieces of content are explicitly discussed in heading 0's prose, which covers exactly who the hedyotot are and what distinguishes the scripts, making it the clear home for this Gemara excerpt.",
+      "chosen_heading": "Ezra's Change",
+      "current_heading": "Ktav Names",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Moses Parallels",
+    "candidates": [
+      "Ezra & Moses",
+      "Moses Parallels",
+      "Sin/Repentance",
+      "Ashurit Name"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita about Ezra's worthiness to receive the Torah (Rabbi Yosei's statement) and the Moses-Ezra parallels, which belongs under 'Ezra & Moses' whose prose explicitly introduces this baraita and Rabbi Yosei's statement \u2014 the current placement under 'Moses Parallels' splits what is a single continuous baraita across two headings.",
+      "chosen_heading": "Ezra & Moses",
+      "current_heading": "Moses Parallels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Ashurit Name",
+    "candidates": [
+      "Sin/Repentance",
+      "Ashurit Name",
+      "No Change View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sin/Repentance",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (why called Ashurit - came from Ashur) and Item 2 (Rabbi Yehuda HaNasi on Torah given initially in Ashurit, sin/repentance cycle) belong together under 'Sin/Repentance' since that prose explicitly discusses Rabbi's view that the Torah was given in this script from the beginning and the sin/restoration cycle.",
+      "second_heading": "Ashurit Name",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the second etymology of Ashurit - 'meusheret' meaning beautiful) belongs under 'Ashurit Name' whose prose explicitly discusses both etymologies including 'she-me'usheret bi-chtav'.",
+      "current_heading": "Ashurit Name",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "No Change View",
+    "candidates": [
+      "No Change View",
+      "Gimatriya Code"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly match the 'No Change View' prose: item 1 is Rabbi Shimon ben Elazar's proof that the script never changed, item 2 is the reinterpretation of 'mishneh ha-Torah' as two Torah scrolls with the amulet-scroll, and item 3 is the Rav \u1e24ana bar Bizna teaching about prayer \u2014 all explicitly described in that section's prose.",
+      "chosen_heading": "No Change View",
+      "current_heading": "No Change View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Gimatriya Code",
+    "candidates": [
+      "Gimatriya Code",
+      "Horse & Seat",
+      "Visibility Rules",
+      "Eimah Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly address the cipher-reading problem at Belshazzar's feast \u2014 Rav's gimatriya solution, Daniel's explanation of mene mene tekel ufarsin, and Shmuel/Rabbi Yo\u1e25anan/Rav Ashi's alternative decoding schemes \u2014 exactly matching the 'Gimatriya Code' prose.",
+      "chosen_heading": "Gimatriya Code",
+      "current_heading": "Gimatriya Code",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Eimah Principle",
+    "candidates": [
+      "Horse & Seat",
+      "Visibility Rules",
+      "Eimah Principle",
+      "Avishag & Kings",
+      "Caregiver Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers all three topics (horse/throne/scepter, visibility rules, and the eimah verse) as a single unit, but its opening content about riding the horse, sitting on the throne, and using the scepter aligns best with the 'Horse & Seat' heading which introduces the full mishna's prohibitions \u2014 and placing the whole mishna there rather than splitting it across multiple sections is more natural, though candidate 2 also discusses the verse; however candidate 0's prose explicitly introduces this as 'the mishnah continues' suggesting it is the primary home for the full mishna text.",
+      "chosen_heading": "Horse & Seat",
+      "current_heading": "Eimah Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Caregiver Role",
+    "candidates": [
+      "Avishag & Kings",
+      "Caregiver Role",
+      "Bathsheva Act"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the ruling about Abishag being permitted to Solomon but forbidden to Adonijah and the background story of Abishag, which is precisely what heading 0 ('Avishag & Kings') discusses, while the current placement under 'Caregiver Role' only partially matches item 2 and not item 1.",
+      "chosen_heading": "Avishag & Kings",
+      "current_heading": "Caregiver Role",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Bathsheva Act",
+    "candidates": [
+      "Caregiver Role",
+      "Bathsheva Act",
+      "Divorce Hard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Abishag's accusation and Bathsheba's arrival with the thirteen cloths, matching exactly the 'Bathsheva Act' section's prose which describes both elements together.",
+      "chosen_heading": "Bathsheva Act",
+      "current_heading": "Bathsheva Act",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Divorce Hard",
+    "candidates": [
+      "Divorce Hard",
+      "First Wife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Shemen bar Abba's statement about the severity of divorce and the David/Abishag episode, which is precisely what the 'Divorce Hard' section's prose discusses.",
+      "chosen_heading": "Divorce Hard",
+      "current_heading": "Divorce Hard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "First Wife",
+    "candidates": [
+      "First Wife",
+      "Wife Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Eliezer's statement about divorcing one's first wife causing the altar to shed tears, which directly matches the 'First Wife' section prose discussing this exact teaching and its Malachi prooftexts.",
+      "chosen_heading": "First Wife",
+      "current_heading": "First Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Wife Death",
+    "candidates": [
+      "Wife Death",
+      "Darkness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are about the death of a man's wife \u2014 the first linking it to unpaid debts, the second comparing it to the destruction of the Temple \u2014 and the prose under 'Wife Death' explicitly discusses both of these exact teachings from Rabbi Yo\u1e25anan.",
+      "chosen_heading": "Wife Death",
+      "current_heading": "Wife Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Darkness",
+    "candidates": [
+      "Darkness",
+      "Shidduchim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the effects of a wife's death (darkness, shortened steps, failed counsel), which directly matches the 'Darkness' section's prose that paraphrases exactly these same three rabbinic statements.",
+      "chosen_heading": "Darkness",
+      "current_heading": "Darkness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Shidduchim",
+    "candidates": [
+      "Shidduchim",
+      "Eshet Neurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact discussion described in the 'Shidduchim' prose: the difficulty of matchmaking compared to splitting the sea, followed by the challenge from Rav Yehuda's bat kol teaching, and the resolution distinguishing zivug rishon from zivug sheni.",
+      "chosen_heading": "Shidduchim",
+      "current_heading": "Shidduchim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Eshet Neurim",
+    "candidates": [
+      "Eshet Neurim",
+      "Haircut Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the wife of one's youth (eshet neurim), the irreplaceability of the first wife, and related teachings about the spousal bond, which is precisely what the 'Eshet Neurim' section prose describes.",
+      "chosen_heading": "Eshet Neurim",
+      "current_heading": "Eshet Neurim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Haircut Times",
+    "candidates": [
+      "Haircut Times",
+      "Mishmar Rotation",
+      "30-Day Cycle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita listing haircut frequencies for king, High Priest, and ordinary priest, along with the reason for the king's daily haircut and the High Priest's weekly haircut \u2014 exactly the content described in the 'Haircut Times' prose, which explicitly covers all three levels and their schedules.",
+      "chosen_heading": "Haircut Times",
+      "current_heading": "Haircut Times",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137
+    ],
+    "current_heading": "30-Day Cycle",
+    "candidates": [
+      "Mishmar Rotation",
+      "30-Day Cycle",
+      "Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the 30-day cycle for ordinary priests derived via gezeirah shavah from 'pera' and the gematriya basis for stam nezirut being thirty days, which is precisely what the '30-Day Cycle' prose describes.",
+      "chosen_heading": "30-Day Cycle",
+      "current_heading": "30-Day Cycle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Challenge",
+    "candidates": [
+      "Challenge",
+      "Service Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows Rav Pappa challenging whether priests should grow no hair at all, and Abaye's response about the word 'u'fara' allowing some growth but not letting it grow long \u2014 this directly matches the 'Challenge' section's prose about Rav Pappa raising a challenge regarding prohibiting any pera growth at all.",
+      "chosen_heading": "Challenge",
+      "current_heading": "Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Service Time",
+    "candidates": [
+      "Service Time",
+      "Wine Permitted",
+      "Yehuda View",
+      "Future Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Gemara's question and response that Abaye's analogy to wine restricts parua rosh to the time of entering the Mikdash, which is precisely what 'Service Time' prose describes.",
+      "chosen_heading": "Service Time",
+      "current_heading": "Service Time",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152
+    ],
+    "current_heading": "Future Ban",
+    "candidates": [
+      "Wine Permitted",
+      "Yehuda View",
+      "Future Ban",
+      "Drunkenness Cure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous exchange about whether wine is permitted outside the time of Temple entry \u2014 item 1 raises the challenge from Rabbi Yehuda's baraita and item 2 gives the Gemara's resolution \u2014 matching heading 0 ('Wine Permitted') which asks exactly this question, whereas the current placement under 'Future Ban' covers the downstream discussion about Abaye's identification of the rabbinic view and the hair-cutting parallel that follows.",
+      "chosen_heading": "Wine Permitted",
+      "current_heading": "Future Ban",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      155
+    ],
+    "current_heading": "Drunkenness Cure",
+    "candidates": [
+      "Future Ban",
+      "Drunkenness Cure",
+      "Death Penalties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav A\u1e25a's teaching about walking a mil or sleeping dispelling wine's effects, and Rav Na\u1e25man/Rabbah bar Avuha's qualification about the revi'it threshold, which is precisely what the 'Drunkenness Cure' prose describes.",
+      "chosen_heading": "Drunkenness Cure",
+      "current_heading": "Drunkenness Cure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159,
+      160,
+      161,
+      162,
+      163
+    ],
+    "current_heading": "Death Penalties",
+    "candidates": [
+      "Death Penalties",
+      "Profaning Avodah",
+      "Before Yechezkel",
+      "Mesorah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a single continuous dispute about Rav Ashi's distinction between wine and long hair, culminating in the objection that the juxtaposition implies both desecrate the service \u2014 exactly what candidate 0's prose describes (the heikesh between intoxication and parua rosh, and the death penalty derivation).",
+      "chosen_heading": "Death Penalties",
+      "current_heading": "Death Penalties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      170
+    ],
+    "current_heading": "Mesorah",
+    "candidates": [
+      "Profaning Avodah",
+      "Before Yechezkel",
+      "Mesorah",
+      "Lulianit Style",
+      "Ben Alasha",
+      "Display Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Ravina's question to Rav Ashi about who said the halakha before Ezekiel came, which directly matches the 'Before Yechezkel' section's prose about this recurring concern, while the current 'Mesorah' heading's prose describes the answer/resolution rather than the question itself.",
+      "chosen_heading": "Before Yechezkel",
+      "current_heading": "Mesorah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      178,
+      179,
+      180
+    ],
+    "current_heading": "Display Purpose",
+    "candidates": [
+      "Lulianit Style",
+      "Ben Alasha",
+      "Display Purpose"
+    ],
+    "result": null
+  }
+]

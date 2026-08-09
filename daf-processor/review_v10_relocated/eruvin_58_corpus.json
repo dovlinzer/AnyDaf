@@ -1,0 +1,341 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishkan Source",
+    "candidates": [
+      "Mishkan Source",
+      "Two Principles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's derivation of the fifty-cubit rope from the mishkan courtyard verse, which is precisely what the 'Mishkan Source' prose describes.",
+      "chosen_heading": "Mishkan Source",
+      "current_heading": "Mishkan Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Two Principles",
+    "candidates": [
+      "Two Principles",
+      "Rope Length Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the derivation from 'chamishim b'chamishim' \u2014 the squaring principle (litol chamishim v'lisaveiv chamishim) and the shema mina tarti conclusion \u2014 which is precisely what the 'Two Principles' prose elaborates.",
+      "chosen_heading": "Two Principles",
+      "current_heading": "Two Principles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rope Length Limits",
+    "candidates": [
+      "Rope Length Limits",
+      "Rope Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rule of not less and not more than fifty cubits for rope measurement, with the functional justifications about stretching and sagging, which is exactly what the 'Rope Length Limits' prose section addresses.",
+      "chosen_heading": "Rope Length Limits",
+      "current_heading": "Rope Length Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rope Materials",
+    "candidates": [
+      "Rope Materials",
+      "Iron vs. Rope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the material to use for measuring ropes (afsakima/nargila/dikla de-chad navra), which is exactly what the 'Rope Materials' section prose addresses in detail.",
+      "chosen_heading": "Rope Materials",
+      "current_heading": "Rope Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Iron vs. Rope",
+    "candidates": [
+      "Iron vs. Rope",
+      "Three Rope Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the iron chains vs. rope debate and the reed question, which is precisely what the 'Iron vs. Rope' prose discusses in detail, including the Zechariah rope verse and the Ezekiel reed verse with the gates answer.",
+      "chosen_heading": "Iron vs. Rope",
+      "current_heading": "Iron vs. Rope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Three Rope Types",
+    "candidates": [
+      "Three Rope Types",
+      "Absorbing Valleys"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Yosef's teaching about the three types of rope and their uses, which is precisely what the 'Three Rope Types' prose section describes in detail.",
+      "chosen_heading": "Three Rope Types",
+      "current_heading": "Three Rope Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Absorbing Valleys",
+    "candidates": [
+      "Absorbing Valleys",
+      "Parallel Measurement",
+      "Bent Valleys",
+      "Four-Amah Rope Method",
+      "Walls and Estimation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the procedure for measuring when a valley is encountered \u2014 inferring from 'resumes his measurement' and the baraita about spanning with a fifty-amah rope \u2014 which is precisely what the 'Absorbing Valleys' prose describes.",
+      "chosen_heading": "Absorbing Valleys",
+      "current_heading": "Absorbing Valleys",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Walls and Estimation",
+    "candidates": [
+      "Parallel Measurement",
+      "Bent Valleys",
+      "Four-Amah Rope Method",
+      "Walls and Estimation",
+      "Plumb Line Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items deal with the wall case \u2014 item 1 presents the baraita ruling that one estimates a wall's width, and item 2 is the Gemara's question-and-answer explaining why estimation suffices for walls (lo nicha tashmishtei) versus the valley case \u2014 exactly the content described in the 'Walls and Estimation' prose.",
+      "chosen_heading": "Walls and Estimation",
+      "current_heading": "Walls and Estimation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Plumb Line Test",
+    "candidates": [
+      "Plumb Line Test",
+      "Hundred-Amah Limit",
+      "Two-Thousand-Amah Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the plumb line qualification by Rav Yehuda/Shmuel that candidate 0's prose describes in detail \u2014 the distinction between a sloped valley wall (no direct plumb line) requiring successive measurements and a vertical drop (plumb line falls straight down) requiring direct measurement.",
+      "chosen_heading": "Plumb Line Test",
+      "current_heading": "Plumb Line Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Two-Thousand-Amah Limit",
+    "candidates": [
+      "Hundred-Amah Limit",
+      "Two-Thousand-Amah Limit",
+      "Plumb Line Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present Rav Yosef's ruling about the two-thousand-amah depth limit, Abaye's objection from the baraita about one hundred amot, the resolution via Acherim's view, and the alternate version where Rav Yosef permits even beyond two thousand \u2014 exactly the content described in the 'Two-Thousand-Amah Limit' prose.",
+      "chosen_heading": "Two-Thousand-Amah Limit",
+      "current_heading": "Two-Thousand-Amah Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Plumb Line Standards",
+    "candidates": [
+      "Plumb Line Standards",
+      "Four-Amah Deviation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the plumb-line distinction (does not drop straight down vs. drops straight down) that reconciles the conflicting depth standards, which is exactly what the 'Plumb Line Standards' prose discusses.",
+      "chosen_heading": "Plumb Line Standards",
+      "current_heading": "Plumb Line Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Four-Amah Deviation",
+    "candidates": [
+      "Four-Amah Deviation",
+      "Ten-in-Four Slope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the four-amot deviation threshold for plumb-line drop in valley measurement, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Four-Amah Deviation",
+      "current_heading": "Four-Amah Deviation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Ten-in-Four Slope",
+    "candidates": [
+      "Ten-in-Four Slope",
+      "Rava's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's qualification about the ten-in-four slope threshold, which is precisely what candidate 0's prose discusses as the central definition of a wall-like slope, while candidate 1's prose describes an alternative lenient formulation and the five-amot version as the main focus.",
+      "chosen_heading": "Ten-in-Four Slope",
+      "current_heading": "Ten-in-Four Slope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Rava's Distinction",
+    "candidates": [
+      "Rava's Distinction",
+      "Techum Boundary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Huna son of Rav Natan's lenient formulation and Rava's distinction between a hill rising ten within five versus ten within four, which is precisely what the prose in 'Rava's Distinction' discusses.",
+      "chosen_heading": "Rava's Distinction",
+      "current_heading": "Rava's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Techum Boundary",
+    "candidates": [
+      "Techum Boundary",
+      "Expert Measurers",
+      "Conflicting Measures",
+      "Slave Testimony",
+      "Leniency Principle"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 3,
+      "split2": 5,
+      "first_heading": "Techum Boundary",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 covers the techum boundary decree (Rav Kahana), the piercing technique with a four-amah rope (Abaye), and the exclusion of egla arufa and arei miklat from piercing (Rav Nachman) \u2014 all of which are explicitly discussed in the 'Techum Boundary' prose.",
+      "second_heading": "Expert Measurers",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 contains the mishna about measuring only from an expert (mumche) and the slave/maidservant testimony, matching the 'Expert Measurers' heading which opens with 'ein modedin ela min hamumche', though the slave testimony item also fits heading 3; the mishna unit belongs under 'Expert Measurers' as its natural home.",
+      "third_heading": "Conflicting Measures",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the Gemara analyzing the mishna's two formulations about extended vs. reduced measurements and Abaye's qualification about the diagonal, which precisely matches the 'Conflicting Measures' prose discussing riva/mi'et and the gemara's clarification of the two formulations.",
+      "current_heading": "Techum Boundary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Leniency Principle",
+    "candidates": [
+      "Expert Measurers",
+      "Conflicting Measures",
+      "Slave Testimony",
+      "Leniency Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna's leniency principle and the gemara's challenge from a baraita stating the opposite, which is precisely what the 'Leniency Principle' section's prose discusses.",
+      "chosen_heading": "Leniency Principle",
+      "current_heading": "Leniency Principle",
+      "moved": false
+    }
+  }
+]

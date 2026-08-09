@@ -63,8 +63,8 @@
           "timestamp": "11:17"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Husband Does Not Inherit Property ('Ra'uy') That His Wife Was In Line to Receive Before Her Death",
@@ -82,8 +82,8 @@
           "timestamp": "17:26"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Proof from the Cases of Ya'ir and Pinchas: Son Inherits Ra'uy When Mother Dies Before the Grandfather",
@@ -202,8 +202,8 @@
           "timestamp": "50:13"
         }
       ],
-      "sefaria_index": 13,
-      "matched": true
+      "sefaria_index": 11,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -404,5 +404,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "35:37",
+  "amud_b_micro_title": "Bnei Achot Rule",
+  "shiur_start_daf": 112,
+  "shiur_start_amud": "b"
 }

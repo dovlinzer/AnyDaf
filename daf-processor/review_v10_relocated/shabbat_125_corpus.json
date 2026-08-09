@@ -1,0 +1,540 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "R. Yehuda's Nolad",
+    "candidates": [
+      "Three Baraitot",
+      "R. Yehuda's Nolad",
+      "R. Shimon Lenient",
+      "R. Nechemia Restrictive",
+      "Bricks Movable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form one continuous unit: Rav Zutrai's objection from a baraita, the gemara's clarification of when vessels broke, Shmuel's resolution of the earlier dispute, and then the three conflicting baraitot with their resolution \u2014 exactly the content described in heading 0 ('Three Baraitot'), which explicitly sets up 'three conflicting baraitot' as its topic, whereas the current heading 1 only discusses the content of those baraitot after the fact.",
+      "chosen_heading": "Three Baraitot",
+      "current_heading": "R. Yehuda's Nolad",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Bricks Movable",
+    "candidates": [
+      "R. Shimon Lenient",
+      "R. Nechemia Restrictive",
+      "Bricks Movable",
+      "Stacked Becomes Muktzah",
+      "Shards: Chatzer vs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is about leftover construction bricks being permitted to move because they are fit to sit on, which is precisely what the 'Bricks Movable' section discusses.",
+      "chosen_heading": "Bricks Movable",
+      "current_heading": "Bricks Movable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Shards: Chatzer vs",
+    "candidates": [
+      "Stacked Becomes Muktzah",
+      "Shards: Chatzer vs",
+      "R. Nachman: All Contexts",
+      "Rava: Common Use Standard",
+      "Rava's Shoe Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three opinions (Shmuel via Rav Nachman, Rav Nachman himself, and Rava) in a single Talmudic excerpt, and candidate 1's prose explicitly introduces and discusses all three positions together as a unit, making it the best single home for this passage.",
+      "chosen_heading": "Shards: Chatzer vs",
+      "current_heading": "Shards: Chatzer vs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rava's Shoe Story",
+    "candidates": [
+      "R. Nachman: All Contexts",
+      "Rava: Common Use Standard",
+      "Rava's Shoe Story",
+      "Barrel Cover Permitted",
+      "Don't Modify Shards",
+      "Pre-Shabbat Disposal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the anecdote of Rava wiping mud from his shoes with a shard in Me\u1e25oza's public thoroughfare, which is precisely what the 'Rava's Shoe Story' section's prose describes and analyzes.",
+      "chosen_heading": "Rava's Shoe Story",
+      "current_heading": "Rava's Shoe Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Pre-Shabbat Disposal",
+    "candidates": [
+      "Barrel Cover Permitted",
+      "Don't Modify Shards",
+      "Pre-Shabbat Disposal",
+      "Rav Pappa's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full arc from Rav Yehuda/Shmuel's ruling through the baraita including the shards-moving permission, the prohibition on breaking off additional pieces, and the garbage disposal rule \u2014 all of which is introduced and framed under heading 0 'Barrel Cover Permitted,' which explicitly quotes and discusses all these elements together, while the current placement under 'Pre-Shabbat Disposal' only addresses the last clause.",
+      "chosen_heading": "Barrel Cover Permitted",
+      "current_heading": "Pre-Shabbat Disposal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Rav Pappa's Challenge",
+    "candidates": [
+      "Pre-Shabbat Disposal",
+      "Rav Pappa's Challenge",
+      "Mat Strands Permitted"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Pappa's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Rav Pappa's objection about the cloak is explicitly discussed in candidate 1's prose ('if you threw out your coat, does that too become muktzah?'), making that the clear home for item 1.",
+      "second_heading": "Pre-Shabbat Disposal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 \u2014 'if one threw it into the garbage dump while still day, it is prohibited' \u2014 is precisely the ruling described in candidate 0's prose ('if one threw the broken barrel into the garbage, it becomes asur'), which focuses on the pre-Shabbat disposal rule as its own conceptual point.",
+      "current_heading": "Rav Pappa's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Mat Strands Permitted",
+    "candidates": [
+      "Mat Strands Permitted",
+      "Scraps Too Small"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses mat strands (kromei d'machatzeles) being permitted on Shabbat and the reasoning about covering dirt/filth, which is precisely what the 'Mat Strands Permitted' prose section describes.",
+      "chosen_heading": "Mat Strands Permitted",
+      "current_heading": "Mat Strands Permitted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Scraps Too Small",
+    "candidates": [
+      "Scraps Too Small",
+      "Oven Debate Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses remnants of cloaks too small for use by poor or wealthy, which matches exactly the 'Scraps Too Small' section's prose about shirei pruzmos and cloth fragments below three by three that are muktzah.",
+      "chosen_heading": "Scraps Too Small",
+      "current_heading": "Scraps Too Small",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Oven Debate Setup",
+    "candidates": [
+      "Oven Debate Setup",
+      "Abaye's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself (Rabbi Meir, Rabbi Yehuda, Rabbi Yosei's testimony), which is exactly what the 'Oven Debate Setup' prose describes and introduces before moving on to Abaye's explanation.",
+      "chosen_heading": "Oven Debate Setup",
+      "current_heading": "Oven Debate Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Abaye's Explanation",
+    "candidates": [
+      "Abaye's Explanation",
+      "Rava's Challenge",
+      "Oven Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's explanation of the dispute (b'osin me'ein melacha), which is exactly what the 'Abaye's Explanation' section prose describes.",
+      "chosen_heading": "Abaye's Explanation",
+      "current_heading": "Abaye's Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Oven Setup",
+    "candidates": [
+      "Rava's Challenge",
+      "Oven Setup",
+      "R. Yehuda: Oven Tamei",
+      "Rabbis: Oven Tamei Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute Rava's challenge and its resolution: item 1 is Rava's objection (why argue specifically about oven shards?), items 2-3 are Rava's answer citing the specific oven-in-pit mishna and the verse dispute \u2014 this entire unit belongs under 'Rava's Challenge' whose prose explicitly describes this sequence, not under 'Oven Setup' where it currently sits.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Oven Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Rabbis: Oven Tamei Status",
+    "candidates": [
+      "R. Yehuda: Oven Tamei",
+      "Rabbis: Oven Tamei Status",
+      "First vs Second Firing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbis: Oven Tamei Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the Rabbis' interpretation of 'yutatz' \u2014 that it removes a potential exemption for ground-connected ovens \u2014 which is precisely what candidate 1's prose describes under 'Rabbis: Oven Tamei Status.'",
+      "second_heading": "First vs Second Firing",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces Rav Yehuda citing Shmuel on the first vs. second firing distinction, which is the exact topic of candidate 2's prose under 'First vs Second Firing.'",
+      "current_heading": "Rabbis: Oven Tamei Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "First vs Second Firing",
+    "candidates": [
+      "First vs Second Firing",
+      "Rava's Theory",
+      "Rav Ashi Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Ulla's statement about the first firing and the camel's neck, which is precisely what the 'First vs Second Firing' section's prose describes and attributes to Ulla.",
+      "chosen_heading": "First vs Second Firing",
+      "current_heading": "First vs Second Firing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Rav Ashi Rejects",
+    "candidates": [
+      "Rava's Theory",
+      "Rav Ashi Rejects",
+      "Stovetop Function",
+      "R. Meir's Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's objection to Rava's reasoning, matching exactly the prose in candidate 1 which describes his sharp objection and its content.",
+      "chosen_heading": "Rav Ashi Rejects",
+      "current_heading": "Rav Ashi Rejects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "R. Meir's Argument",
+    "candidates": [
+      "Stovetop Function",
+      "R. Meir's Argument",
+      "R. Yehuda's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Ashi's resolution ('as we said initially') with the tafka explanation, which matches heading 0's prose about Rav Ashi proposing the debate is about broken oven pieces used as a stovetop/grill, and then Rabbi Meir's internal argument to Rabbi Yehuda is included in the same textual unit \u2014 but the primary content matches heading 0 since heading 1's prose describes only Rabbi Meir's argument without the Rav Ashi setup, while heading 0's prose explicitly covers both Rav Ashi's framing and the tafka function that this passage introduces before Rabbi Meir's dialectic.",
+      "chosen_heading": "Stovetop Function",
+      "current_heading": "R. Meir's Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "R. Yehuda's Response",
+    "candidates": [
+      "R. Meir's Argument",
+      "R. Yehuda's Response",
+      "Oven Cover Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehuda's rebuttal explaining the two differences (firing from within/without and standing/not standing), which matches exactly the prose under 'R. Yehuda's Response.'",
+      "chosen_heading": "R. Yehuda's Response",
+      "current_heading": "R. Yehuda's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Oven Cover Permitted",
+    "candidates": [
+      "Oven Cover Permitted",
+      "Tight Fit Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is directly about Rabbi Eliezer ben Yaakov's testimony on handle-less oven covers and Ravina's practical invocation of that ruling, which is precisely what the 'Oven Cover Permitted' prose discusses.",
+      "chosen_heading": "Oven Cover Permitted",
+      "current_heading": "Oven Cover Permitted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Tight Fit Required",
+    "candidates": [
+      "Tight Fit Required",
+      "R. Eliezer: Tied Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the stone in the gourd and the vine branch tied to a pitcher \u2014 are precisely the cases discussed in candidate 0's prose about stones fitting tightly/being tied and zemora tied to a bucket, making the current placement correct.",
+      "chosen_heading": "Tight Fit Required",
+      "current_heading": "Tight Fit Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "R. Eliezer: Tied Required",
+    "candidates": [
+      "R. Eliezer: Tied Required",
+      "Sages: Always Permitted",
+      "Forgotten Stone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishnah about the window shutter (pkak hachalon) including both Rabbi Eliezer's ruling and the Rabbis' response, and the current placement under 'R. Eliezer: Tied Required' is correct as its prose directly introduces and explains this exact mishnah text.",
+      "chosen_heading": "R. Eliezer: Tied Required",
+      "current_heading": "R. Eliezer: Tied Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Forgotten Stone",
+    "candidates": [
+      "Sages: Always Permitted",
+      "Forgotten Stone",
+      "Intentional Cover",
+      "Action vs Function"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the forgotten-stone ruling and the intentional-placement ruling (both Rabba's and Rav Yosef's versions), and the 'Forgotten Stone' section's prose explicitly summarizes the entire passage including both opinions, making it the correct home for the complete gemara excerpt.",
+      "chosen_heading": "Forgotten Stone",
+      "current_heading": "Forgotten Stone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Action vs Function",
+    "candidates": [
+      "Intentional Cover",
+      "Action vs Function",
+      "Rav Ami vs Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the Rabba/Rav Yosef challenges from the kiruyah mishna and their resolutions (velo hi), which is precisely what candidate 2 ('Rav Ami vs Rav Yosef') describes in its prose \u2014 the gourd-stone objections and their answers articulating the ma'aseh vs. functionality dispute.",
+      "chosen_heading": "Rav Ami vs Rav Yosef",
+      "current_heading": "Action vs Function",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Rav Ami vs Rav Yosef",
+    "candidates": [
+      "Action vs Function",
+      "Rav Ami vs Rav Yosef",
+      "Rabbi's Designation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the core dispute \u2014 'one holds we require an action, one holds we do not require an action' \u2014 which is exactly what the Rav Ami vs Rav Yosef section's prose summarizes as its concluding formulation ('mar savar ba'inan ma'aseh umar savar lo ba'inan ma'aseh').",
+      "chosen_heading": "Rav Ami vs Rav Yosef",
+      "current_heading": "Rav Ami vs Rav Yosef",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Rabbi's Designation",
+    "candidates": [
+      "Rabbi's Designation",
+      "R. Yochanan Disputes",
+      "Rav Ami's Version",
+      "Rav Assi's Version",
+      "Alternative Objects"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi's Designation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 reports Rabbi Chanina's tradition that Rabbi did not require a physical act, which is exactly what candidate 0's prose discusses.",
+      "second_heading": "R. Yochanan Disputes",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yochanan's dispute that Rabbi did require an action, which is precisely what candidate 1's prose covers.",
+      "current_heading": "Rabbi's Designation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Alternative Objects",
+    "candidates": [
+      "R. Yochanan Disputes",
+      "Rav Ami's Version",
+      "Rav Assi's Version",
+      "Alternative Objects",
+      "Vine Tying Required",
+      "Repurposing Palm",
+      "Designation Debate",
+      "Attached vs Detached"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Rabbi Yosei ben Shaul and Rabbi Yochanan ben Shaul about whether the object was a stack of beams or a ship's sounding pole, which is precisely what candidate 3 ('Alternative Objects') describes in its prose.",
+      "chosen_heading": "Alternative Objects",
+      "current_heading": "Alternative Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154,
+      155,
+      156
+    ],
+    "current_heading": "Attached vs Detached",
+    "candidates": [
+      "Vine Tying Required",
+      "Repurposing Palm",
+      "Designation Debate",
+      "Attached vs Detached"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous Talmudic discussion about the vine-tying mishna's relationship to Rabban Shimon ben Gamliel's position, resolved through the attached/detached distinction \u2014 exactly the content described in the 'Attached vs Detached' prose.",
+      "chosen_heading": "Attached vs Detached",
+      "current_heading": "Attached vs Detached",
+      "moved": false
+    }
+  }
+]

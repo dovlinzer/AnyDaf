@@ -24,8 +24,8 @@
           "timestamp": "01:00"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Baraita on Deriving Piggul's Scope from Pesukim",
@@ -68,7 +68,7 @@
           "timestamp": "08:44"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -222,7 +222,7 @@
           "timestamp": "43:41"
         }
       ],
-      "sefaria_index": 37,
+      "sefaria_index": 36,
       "matched": true
     },
     {
@@ -251,7 +251,7 @@
           "timestamp": "45:41"
         }
       ],
-      "sefaria_index": 38,
+      "sefaria_index": 37,
       "matched": true
     }
   ],
@@ -734,5 +734,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 22
+  "amud_b_sefaria_index": 22,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "21:18",
+  "amud_b_micro_title": "R. Yirmiah Object",
+  "shiur_start_daf": 43,
+  "shiur_start_amud": "b"
 }

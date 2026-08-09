@@ -1,0 +1,521 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Remember Torah",
+    "candidates": [
+      "Daughter's Request",
+      "No Remnant Verse",
+      "Remember Torah",
+      "Torah Praise & Honor",
+      "Angel Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire scene from the daughter's arrival through Rabbi's weeping, spanning all four candidate topics, but the essay has broken it into subsections \u2014 however, since the question asks where this single quoted passage belongs, it covers the complete narrative arc beginning with the daughter's request, so heading 0 'Daughter's Request' is the opening of the scene; yet the passage includes all elements through the fire and Rabbi's weeping, making the current placement under 'Remember Torah' (index 2) too narrow \u2014 the best single heading that encompasses the whole passage is index 0 which introduces the full scene, but actually the passage content most specifically matches where the fire and Rabbi's reaction occur, which is index 2-3; given the passage is one unified text covering all sub-elements, index 0 is the broadest container, but the current placement at index 2 is where the unique theological content (fire, weeping) is discussed, making it a reasonable home \u2014 I'll go with index 0 as the passage starts there and the prose explicitly describes the daughter coming before Rabbi.",
+      "chosen_heading": "Daughter's Request",
+      "current_heading": "Remember Torah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Angel Standard",
+    "candidates": [
+      "Torah Praise & Honor",
+      "Angel Standard",
+      "Intent Not Theirs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the question of how Rabbi Meir could learn from A\u1e25er and the angel-of-God standard from Malachi 2:7, which is precisely what the 'Angel Standard' prose describes.",
+      "chosen_heading": "Angel Standard",
+      "current_heading": "Angel Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Intent Not Theirs",
+    "candidates": [
+      "Intent Not Theirs",
+      "Forget Deeds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Reish Lakish's interpretation of the verse about applying one's heart to 'My knowledge' (l'da'ati not l'da'atam), which is precisely what the 'Intent Not Theirs' section's prose describes.",
+      "chosen_heading": "Intent Not Theirs",
+      "current_heading": "Intent Not Theirs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Forget Deeds",
+    "candidates": [
+      "Forget Deeds",
+      "Adult Discernment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24anina's verse from Psalms 45:11 about forgetting one's people and father's house, which directly corresponds to the 'Forget Deeds' section's prose discussing this exact verse and Rashi's explanation of forgetting extraneous elements while retaining Torah teachings.",
+      "chosen_heading": "Forget Deeds",
+      "current_heading": "Forget Deeds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Adult Discernment",
+    "candidates": [
+      "Adult Discernment",
+      "Selective Eating",
+      "Nut Parable",
+      "Torah Preserved",
+      "Chananel Objection",
+      "Heaven Rejects",
+      "God Teaching",
+      "Why Teach Meir?",
+      "Pomegranate Defense",
+      "Shared Suffering",
+      "Weeping Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Adult Discernment",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the adult/child contradiction resolution and the date/pit metaphor about Rabbi Meir, which are explicitly discussed under 'Adult Discernment' and 'Selective Eating' \u2014 and since the essay prose for heading 0 already incorporates the Rav Dimi/date passage, items 1-2 belong under heading 0.",
+      "second_heading": "Nut Parable",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the nut parable (Rava's exposition of Song of Songs 6:11 comparing Torah scholars to nuts), which matches exactly the 'Nut Parable' heading's prose about egoz and filth.",
+      "current_heading": "Adult Discernment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Weeping Question",
+    "candidates": [
+      "Selective Eating",
+      "Nut Parable",
+      "Torah Preserved",
+      "Chananel Objection",
+      "Heaven Rejects",
+      "God Teaching",
+      "Why Teach Meir?",
+      "Pomegranate Defense",
+      "Shared Suffering",
+      "Weeping Question",
+      "Doeg & Achitofel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage depicts Samuel finding Rav Yehuda weeping and asking why, with Rav Yehuda citing the Isaiah verse about lost scholarly greatness \u2014 exactly what the 'Weeping Question' prose describes.",
+      "chosen_heading": "Weeping Question",
+      "current_heading": "Weeping Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Doeg & Achitofel",
+    "candidates": [
+      "Doeg & Achitofel",
+      "Our Hope?",
+      "Heart Corruption",
+      "Greek Song"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what the current section's prose describes: Doeg and Ahithophel raising 300 questions about the migdal haporei'ach ba'avir, and the mishna listing them among those with no portion in the World-to-Come, along with the rhetorical cry 'what will become of us' and the answer about mud in their hearts \u2014 all of which the current heading's prose explicitly discusses.",
+      "chosen_heading": "Doeg & Achitofel",
+      "current_heading": "Doeg & Achitofel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Greek Song",
+    "candidates": [
+      "Our Hope?",
+      "Heart Corruption",
+      "Greek Song",
+      "Minim Books",
+      "Dye Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses A\u1e25er's Greek singing and the heretical books falling from his lap, which is precisely what the 'Greek Song' section's prose discusses as the gemara's explanation of A\u1e25er's 'tina.'",
+      "chosen_heading": "Greek Song",
+      "current_heading": "Greek Song",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Dye Question",
+    "candidates": [
+      "Minim Books",
+      "Dye Question",
+      "Clean Wool",
+      "Raw Material",
+      "Up & Down Peace"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the question asked by Nimos HaGardi to Rabbi Meir about wool entering the cauldron, which matches the 'Dye Question' heading's prose describing this very question.",
+      "chosen_heading": "Dye Question",
+      "current_heading": "Dye Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Up & Down Peace",
+    "candidates": [
+      "Clean Wool",
+      "Raw Material",
+      "Up & Down Peace",
+      "Angels' Objection",
+      "Gaze Divine",
+      "The Sign"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the angels seeking to push Rabbi Akiva away and God intervening to protect him, which matches exactly the 'Angels' Objection' section prose about 'bikshu malachei hashareis lidoffo' and God's response 'hanichu lazaken zeh.'",
+      "chosen_heading": "Angels' Objection",
+      "current_heading": "Up & Down Peace",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "The Sign",
+    "candidates": [
+      "Angels' Objection",
+      "Gaze Divine",
+      "The Sign",
+      "God as Example",
+      "Master of Hosts"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "The Sign",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rabbah bar bar \u1e24ana/Rabbi Yo\u1e25anan on 've-ata meirevivot kodesh' \u2014 God is distinguishable as an 'ot' among his myriads) matches exactly the prose of 'The Sign' section.",
+      "second_heading": "God as Example",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rabbi Abbahu on 'dagul meirevavah' \u2014 God is the 'dugma' among his myriad) matches exactly the prose of 'God as Example' section.",
+      "current_heading": "The Sign",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Master of Hosts",
+    "candidates": [
+      "God as Example",
+      "Master of Hosts",
+      "Beyond Elements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Reish Lakish's interpretation of 'Hashem Tzeva'ot' as God being master of his hosts, which is exactly what the 'Master of Hosts' section prose describes.",
+      "chosen_heading": "Master of Hosts",
+      "current_heading": "Master of Hosts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Beyond Elements",
+    "candidates": [
+      "Beyond Elements",
+      "Acher in Verse",
+      "Shedim Angelic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Elijah theophany verses and connects them to Rabbi Akiva's recognition of God's presence, which is precisely what the 'Beyond Elements' section prose discusses.",
+      "chosen_heading": "Beyond Elements",
+      "current_heading": "Beyond Elements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Shedim Angelic",
+    "candidates": [
+      "Acher in Verse",
+      "Shedim Angelic",
+      "Shedim Human"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the angelic characteristics of shedim \u2014 their wings, flight, and knowledge of the future (with the qualification about hearing from behind the curtain) \u2014 which is precisely what the 'Shedim Angelic' prose section describes.",
+      "chosen_heading": "Shedim Angelic",
+      "current_heading": "Shedim Angelic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Shedim Human",
+    "candidates": [
+      "Shedim Human",
+      "Humans Angelic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the three ways shedim resemble humans (eating, drinking, reproducing, dying), which matches exactly the prose under 'Shedim Human' that discusses these same three characteristics.",
+      "chosen_heading": "Shedim Human",
+      "current_heading": "Shedim Human",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Humans Angelic",
+    "candidates": [
+      "Humans Angelic",
+      "Humans Animal",
+      "Human Paradox",
+      "Four Unknowns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the angelic and animal characteristics of humans in a single unit, but its current placement under 'Humans Angelic' is appropriate since the heading 0 prose explicitly discusses all six traits (introducing both sets), while heading 1 only covers the animal side \u2014 the full baraita introducing all six statements best fits under the heading that opens the discussion.",
+      "chosen_heading": "Humans Angelic",
+      "current_heading": "Humans Angelic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Four Unknowns",
+    "candidates": [
+      "Humans Animal",
+      "Human Paradox",
+      "Four Unknowns",
+      "Why Past OK?",
+      "Dung Heap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents precisely the Gemara's question about why inquiry into the primordial past is prohibited ('what has happened has happened'), which matches the 'Why Past OK?' section's prose describing this exact puzzlement about 'lefanim' and 'mah dehava hava'.",
+      "chosen_heading": "Why Past OK?",
+      "current_heading": "Four Unknowns",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Dung Heap",
+    "candidates": [
+      "Why Past OK?",
+      "Dung Heap",
+      "Tohu v'Vohu",
+      "Rainbow Glory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the parable about the king and the garbage dump, which is exactly what the 'Dung Heap' section's prose describes and discusses.",
+      "chosen_heading": "Dung Heap",
+      "current_heading": "Dung Heap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Rainbow Glory",
+    "candidates": [
+      "Tohu v'Vohu",
+      "Rainbow Glory",
+      "King's Glory",
+      "Kohanim's Presence",
+      "Not Really Glory",
+      "Mystical Rainbow",
+      "Push Away God"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces the mishna's statement about honoring one's Maker, then presents Rabbi Abba's ruling about looking at a rainbow with the Ezekiel verse about the rainbow as the likeness of God's glory \u2014 exactly what the 'Rainbow Glory' prose section describes.",
+      "chosen_heading": "Rainbow Glory",
+      "current_heading": "Rainbow Glory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Push Away God",
+    "candidates": [
+      "King's Glory",
+      "Kohanim's Presence",
+      "Not Really Glory",
+      "Mystical Rainbow",
+      "Push Away God",
+      "God Sees All",
+      "Illai's Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yosef's statement about transgressing in private and the Isaiah verse about God's footstool, which is precisely what the 'Push Away God' prose section describes.",
+      "chosen_heading": "Push Away God",
+      "current_heading": "Push Away God",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Illai's Leniency",
+    "candidates": [
+      "God Sees All",
+      "Illai's Leniency",
+      "Control Desire",
+      "Sin Hierarchy",
+      "Rishonim Reject",
+      "Believe Not"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Illai's teaching about going to an unknown place and sinning privately, plus the gemara's reconciliation \u2014 both of which are precisely what heading 1 ('Illai's Leniency') discusses in its prose.",
+      "chosen_heading": "Illai's Leniency",
+      "current_heading": "Illai's Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Believe Not",
+    "candidates": [
+      "Control Desire",
+      "Sin Hierarchy",
+      "Rishonim Reject",
+      "Believe Not",
+      "Forgive Argument",
+      "Trust God",
+      "Bricks Testify",
+      "Multiple Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Yehuda b'Rebbe Nachmani discussing three things that dim the eyes (rainbow, Nasi, priests) is a separate derasha that fits under 'Bricks Testify' as part of the sequence of witnesses/testimony material, but more precisely it follows the 'Bricks Testify' section \u2014 however, looking carefully, this passage is actually the derashah introducing the 'Believe Not' section's content about yetzer hara warnings, yet the specific content (rainbow, Nasi, priests causing dim eyes) doesn't match 'Believe Not' prose either; the 'Bricks Testify' section's prose about witnesses and testimony is the closest sequential neighbor where this transitional material would naturally land before the multiple witnesses section.",
+      "chosen_heading": "Bricks Testify",
+      "current_heading": "Believe Not",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      160,
+      161,
+      162
+    ],
+    "current_heading": "Multiple Witnesses",
+    "candidates": [
+      "Forgive Argument",
+      "Trust God",
+      "Bricks Testify",
+      "Multiple Witnesses",
+      "Real Consequences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete derasha of Rabbi Yehuda bar Na\u1e25mani \u2014 starting with the 'do not trust the evil inclination' warning (item 1), through the 'do not trust God will forgive' point (item 2), and then the various witnesses who testify (item 3) \u2014 and the prose under heading 0 ('Forgive Argument') is where this entire derasha begins and is introduced, making it the natural home for the whole passage.",
+      "chosen_heading": "Forgive Argument",
+      "current_heading": "Multiple Witnesses",
+      "moved": true
+    }
+  }
+]

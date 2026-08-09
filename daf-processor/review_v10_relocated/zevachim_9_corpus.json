@@ -1,0 +1,307 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Bechor Challenge",
+    "candidates": [
+      "Mishna Review",
+      "Sugya Outline",
+      "Ma'aser Classification",
+      "Bechor Challenge",
+      "Ma'aser Challenge",
+      "Temurah Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the gemara's challenge proposing that a pesach slaughtered l'shem bechor should revert to a bechor (with the practical consequences of no nesachim and given to kohanim), followed by the gezeira shava rejection linking bechor to ma'aser \u2014 exactly the content described in the 'Bechor Challenge' prose.",
+      "chosen_heading": "Bechor Challenge",
+      "current_heading": "Bechor Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Temurah Challenge",
+    "candidates": [
+      "Ma'aser Challenge",
+      "Temurah Challenge",
+      "Toda Challenge",
+      "Toda Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the temurah challenge \u2014 item 1 raises the objection about slaughtering for the sake of temurah with its practical consequences (flogging, lo yimacher), and item 2 gives Mar Zutra's resolution from the pasuk 'v'haya hu utmurato,' exactly as described in the 'Temurah Challenge' prose.",
+      "chosen_heading": "Temurah Challenge",
+      "current_heading": "Temurah Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Toda Rejection",
+    "candidates": [
+      "Toda Challenge",
+      "Toda Rejection",
+      "Asham Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the toda challenge and its rejection \u2014 items 1\u20132 raise and dismiss the toda/lechem suggestion, item 3 raises the parallel nesachim objection, and item 4 resolves it \u2014 exactly matching the 'Toda Rejection' prose which describes all of these moves in sequence.",
+      "chosen_heading": "Toda Rejection",
+      "current_heading": "Toda Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Asham Challenge",
+    "candidates": [
+      "Asham Challenge",
+      "Rava's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Yeimar's challenge about whether the verse refers to motar pesach or motar asham, which is precisely what the 'Asham Challenge' section prose describes.",
+      "chosen_heading": "Asham Challenge",
+      "current_heading": "Asham Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rava's Response",
+    "candidates": [
+      "Rava's Response",
+      "Min as Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's derivation from the verse that a peace offering must apply equally to all flock species, which matches exactly the prose in 'Rava's Response' describing his reading of the pasuk as davar ha-shaveh be-chol ha'tzon.",
+      "chosen_heading": "Rava's Response",
+      "current_heading": "Rava's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Min as Inclusion",
+    "candidates": [
+      "Min as Inclusion",
+      "Min Excludes Age",
+      "Rav Chana Challenge",
+      "Sheep/Goat Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Avin bar \u1e24iyya/Kahana's objection that 'min' is being used to include rather than exclude, which is precisely what the 'Min as Inclusion' section's prose describes.",
+      "chosen_heading": "Min as Inclusion",
+      "current_heading": "Min as Inclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Sheep/Goat Rules",
+    "candidates": [
+      "Min Excludes Age",
+      "Rav Chana Challenge",
+      "Sheep/Goat Rules",
+      "Three Cases",
+      "Case Breakdown"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain discussing the derivation of rules about leftover Paschal offerings becoming shelamim \u2014 including Rabbi Mani's min exclusion, Rav \u1e24ana's objection, the baraita about kesev/ez/alyah, and the statements of Shmuel's father and Rav Na\u1e25man/Rabba bar Avuh \u2014 all of which are explicitly described in the 'Sheep/Goat Rules' prose section.",
+      "chosen_heading": "Sheep/Goat Rules",
+      "current_heading": "Sheep/Goat Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Case Breakdown",
+    "candidates": [
+      "Three Cases",
+      "Case Breakdown",
+      "Nesi'im Problems"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the three-verse derivation and the tzrichi argument explaining why each verse is necessary \u2014 exactly the content described in candidate 0's prose about three distinct pesukim addressing different scenarios, whereas candidate 1's prose already summarizes this material as background context rather than being the primary home for this Gemara text.",
+      "chosen_heading": "Three Cases",
+      "current_heading": "Case Breakdown",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Nesi'im Problems",
+    "candidates": [
+      "Case Breakdown",
+      "Nesi'im Problems",
+      "Rav's First Teaching",
+      "Menachot Parallel",
+      "Menachot Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav's teaching in the name of Mavog about a chatat slaughtered leshem chatat Nachshon being fit, citing 'zot torat ha-chatat,' which is precisely what the 'Rav's First Teaching' section's prose describes and analyzes.",
+      "chosen_heading": "Rav's First Teaching",
+      "current_heading": "Nesi'im Problems",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Menachot Distinction",
+    "candidates": [
+      "Rav's First Teaching",
+      "Menachot Parallel",
+      "Menachot Distinction",
+      "Wrong Owner"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form Rav Mesharshiyya's challenge to Rava \u2014 citing Rabbi Shimon's ruling on menachot, explaining the meal-offering distinction, and concluding that the 'zot torat ha-mincha' parallel undermines Mavog's derivation \u2014 which is precisely what candidate 1 ('Menachot Parallel') describes in its prose.",
+      "chosen_heading": "Menachot Parallel",
+      "current_heading": "Menachot Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Wrong Owner",
+    "candidates": [
+      "Menachot Distinction",
+      "Wrong Owner",
+      "Obligated Person",
+      "Wrong Sin Type",
+      "Chatat Categories"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Wrong Owner",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the second version of Mavog's teaching about slaughtering for Nahshon's atonement (ein kapara la-metim) and the implication for chatat Nazir/Metzora, matching the 'Wrong Owner' prose exactly.",
+      "second_heading": "Obligated Person",
+      "second_confidence": "medium",
+      "second_reason": "Items 4-7 introduce the objection that chatat Nazir/Metzora are like olot, then present the third version (mechuyav chatat keNachshon \u2192 kesheira) and the fourth version (ika de'amri, leshem chatat Nachshon \u2192 pesulah), which span both 'Obligated Person' and 'Wrong Sin Type' headings, but 'Obligated Person' is the next heading and captures the bulk of this material.",
+      "current_heading": "Wrong Owner",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Chatat Categories",
+    "candidates": [
+      "Obligated Person",
+      "Wrong Sin Type",
+      "Chatat Categories",
+      "Nazir/Metzora",
+      "Rava's Question",
+      "Shinuy Be'alim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "All five items form one continuous sugya about chatat cheilev slaughtered with wrong intent, beginning with Rav's ruling that is specifically described in candidate 2's prose, which is the natural home for the opening of this discussion.",
+      "chosen_heading": "Chatat Categories",
+      "current_heading": "Chatat Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Shinuy Be'alim",
+    "candidates": [
+      "Nazir/Metzora",
+      "Rava's Question",
+      "Shinuy Be'alim",
+      "Karait Equivalence",
+      "Teiku"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the exchange between Rav Ashi and Rav A\u1e25a about how Rava's dilemma is transmitted \u2014 specifically that it concerns shinui be'alim rather than shinui kodesh \u2014 which is precisely what the 'Shinuy Be'alim' section's prose describes.",
+      "chosen_heading": "Shinuy Be'alim",
+      "current_heading": "Shinuy Be'alim",
+      "moved": false
+    }
+  }
+]

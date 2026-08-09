@@ -364,8 +364,8 @@
           "timestamp": "53:02"
         }
       ],
-      "sefaria_index": 25,
-      "matched": true
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Rambam's Rejection of Health Reasons and Shulchan Aruch's Ruling on Fish and Meat",
@@ -388,7 +388,7 @@
           "timestamp": "54:04"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 22,
       "matched": false
     },
     {
@@ -422,7 +422,7 @@
           "timestamp": "55:25"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 22,
       "matched": false
     }
   ],
@@ -644,5 +644,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "38:48",
+  "amud_b_micro_title": "Rav: Reicha Transfers",
+  "shiur_start_daf": 76,
+  "shiur_start_amud": "a"
 }

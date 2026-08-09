@@ -1,0 +1,374 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rabbi Akiva's Rule",
+    "candidates": [
+      "Preparation Steps",
+      "Work Location",
+      "Rabbi Akiva's Rule",
+      "Vessel Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers the entire topic \u2014 kneading/shaping/baking inside and overriding Shabbat, grinding/sifting not overriding Shabbat, and Rabbi Akiva's principle \u2014 which is all introduced and contextualized under 'Preparation Steps,' making that the natural home for the full mishna text.",
+      "chosen_heading": "Preparation Steps",
+      "current_heading": "Rabbi Akiva's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Vessel Requirement",
+    "candidates": [
+      "Rabbi Akiva's Rule",
+      "Vessel Requirement",
+      "Dimensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states exactly the rule about kli sharet being required inside (ma'aseh kli bifnim) and not outside, which is precisely what the 'Vessel Requirement' section's prose discusses and derives from a pasuk in Yechezkel.",
+      "chosen_heading": "Vessel Requirement",
+      "current_heading": "Vessel Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Dimensions",
+    "candidates": [
+      "Dimensions",
+      "Ben Zoma",
+      "Table Dimensions",
+      "Rabbi Yehuda",
+      "Rabbi Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the dimensions of the two loaves and the shewbread (with mnemonics and Ben Zoma's remark about 'panim' being part of the same mishna passage on dimensions), which is exactly what the 'Dimensions' section prose discusses.",
+      "chosen_heading": "Dimensions",
+      "current_heading": "Dimensions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Rabbi Meir",
+    "candidates": [
+      "Ben Zoma",
+      "Table Dimensions",
+      "Rabbi Yehuda",
+      "Rabbi Meir",
+      "Abba Shaul",
+      "Frankincense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together present the machloket between Rabbi Yehuda and Rabbi Meir about the table and bread dimensions and the resulting folding arrangements \u2014 exactly what the 'Table Dimensions' prose introduces as the dispute over whether an amah is five or six tefachim and how that determines the folding geometry.",
+      "chosen_heading": "Table Dimensions",
+      "current_heading": "Rabbi Meir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Frankincense",
+    "candidates": [
+      "Abba Shaul",
+      "Frankincense",
+      "Golden Panels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abba Shaul's statement about placing the frankincense bowls between the stacks AND his response to the objection, both of which belong under the 'Abba Shaul' heading whose prose explicitly covers his view about the levona placement and the exchange, whereas the 'Frankincense' heading's prose discusses the objection and response separately \u2014 but the Talmudic text as a single unit (statement + objection + response) is better matched to the 'Abba Shaul' section that introduces his position.",
+      "chosen_heading": "Abba Shaul",
+      "current_heading": "Frankincense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Golden Panels",
+    "candidates": [
+      "Frankincense",
+      "Golden Panels",
+      "Reeds and Rods",
+      "Erev Shabbat Work"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the four golden panels (snifim) and the twenty-eight half-hollow rods, which is precisely what the 'Golden Panels' section prose discusses.",
+      "chosen_heading": "Golden Panels",
+      "current_heading": "Golden Panels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Erev Shabbat Work",
+    "candidates": [
+      "Reeds and Rods",
+      "Erev Shabbat Work",
+      "Vessel Orientation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita about neither arranging nor removing rods overriding Shabbat and the erev Shabbat procedure, which is precisely what the 'Erev Shabbat Work' section's prose discusses.",
+      "chosen_heading": "Erev Shabbat Work",
+      "current_heading": "Erev Shabbat Work",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Vessel Orientation",
+    "candidates": [
+      "Vessel Orientation",
+      "Yehuda Height"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yehuda Height",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing mishna line about vessel orientation, which belongs under 'Vessel Orientation' where the prose explicitly discusses this principle as a transition point.",
+      "second_heading": "Vessel Orientation",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 open the Gemara on meal offerings requiring a service vessel, which the 'Vessel Orientation' prose explicitly covers in detail (kol hamenachos, the Ezekiel verse, and the mincha/asham/chattas comparison).",
+      "current_heading": "Vessel Orientation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Yehuda Height",
+    "candidates": [
+      "Yehuda Height",
+      "Meir Height",
+      "Rod Embedding"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Meir Height",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 introduces the Table's dimensions (length ten handbreadths) which is the setup for the folding/height dispute, and fits under 'Meir Height' as the last dimensional context before the height calculations begin \u2014 but more precisely it is introductory material; however the current placement under 'Yehuda Height' is also plausible since it precedes Rabbi Yochanan's statement.",
+      "second_heading": "Yehuda Height",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yochanan's statement calculating both fifteen tefachim (Yehuda) and twelve tefachim (Meir) above the table, which is exactly what 'Yehuda Height' prose discusses in detail.",
+      "current_heading": "Yehuda Height",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Rod Embedding",
+    "candidates": [
+      "Meir Height",
+      "Rod Embedding",
+      "Corner Height",
+      "Curved Corners",
+      "Biblical Source",
+      "Frame Position",
+      "Angled Bread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items deal with the rod-embedding question and its sub-questions (rods adding height, mold prevention, negligible gaps), which is precisely what the 'Rod Embedding' prose section describes in detail.",
+      "chosen_heading": "Rod Embedding",
+      "current_heading": "Rod Embedding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Angled Bread",
+    "candidates": [
+      "Corner Height",
+      "Curved Corners",
+      "Biblical Source",
+      "Frame Position",
+      "Angled Bread",
+      "Rabbi Yosei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items continue the Gemara's resolution of how the misgeret (frame) does not add height to the arrangements \u2014 exactly what 'Angled Bread' prose discusses, including the key phrase about the misgeret being sloped and the bread resting within the table's surface area.",
+      "chosen_heading": "Angled Bread",
+      "current_heading": "Angled Bread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Rabbi Yosei",
+    "candidates": [
+      "Rabbi Yosei",
+      "Transportable Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yosei's baraita view that there were no snifim and that the misgeret supported the bread, along with the rejoinder that the misgeret was below \u2014 exactly the content described in the 'Rabbi Yosei' section prose.",
+      "chosen_heading": "Rabbi Yosei",
+      "current_heading": "Rabbi Yosei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Transportable Status",
+    "candidates": [
+      "Transportable Status",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a single continuous chain discussing the Table's susceptibility to ritual impurity \u2014 Rabbi Yo\u1e25anan's inference, the challenge about wooden vessels designated to rest, the sack analogy, and the resolution \u2014 all of which are explicitly described in candidate 0's prose about transportable status and tumah.",
+      "chosen_heading": "Transportable Status",
+      "current_heading": "Transportable Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Reish Lakish",
+      "Miracle of Bread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the specific Talmudic source ('ella melamed shemaggbihin...') that the Reish Lakish section's prose directly quotes and discusses as evidence that the shulchan was transported to show pilgrims the shewbread.",
+      "chosen_heading": "Reish Lakish",
+      "current_heading": "Reish Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Miracle of Bread",
+    "candidates": [
+      "Miracle of Bread",
+      "Gold Plating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehoshua ben Levi's statement about the miracle of the shewbread remaining hot, which is exactly what the 'Miracle of Bread' section's prose discusses.",
+      "chosen_heading": "Miracle of Bread",
+      "current_heading": "Miracle of Bread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Gold Plating",
+    "candidates": [
+      "Gold Plating",
+      "Torah's Term"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the tzipui (gold covering) question \u2014 whether the shulchan's status is determined by its gold plating \u2014 which is precisely what the 'Gold Plating' section prose describes, including the mishna about marble-covered tables, the Reish Lakish/Rabbi Yochanan exchange about permanent vs. non-permanent covering, and the acacia wood (masmas/akhsalgos) exception.",
+      "chosen_heading": "Gold Plating",
+      "current_heading": "Gold Plating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Torah's Term",
+    "candidates": [
+      "Torah's Term",
+      "Altar Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the shulchan is different because the Torah calls it 'wood,' which is precisely what the 'Torah's Term' section prose discusses \u2014 the Gemara's answer that the Torah itself characterizes the shulchan as eitz.",
+      "chosen_heading": "Torah's Term",
+      "current_heading": "Torah's Term",
+      "moved": false
+    }
+  }
+]

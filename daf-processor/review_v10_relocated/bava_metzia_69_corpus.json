@@ -1,0 +1,306 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Dung as Fee",
+    "candidates": [
+      "Machatzit Sachar Intro",
+      "Sachar Katef & Babies",
+      "Dung as Fee",
+      "Rav Nachman's Ruling",
+      "Half/Half Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Sachar Katef & Babies",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the baraita about sachar katef, Rabban Shimon ben Gamliel's position, and the dung discussion \u2014 all material explicitly described under 'Sachar Katef & Babies' and 'Dung as Fee', but items 1-3 form one continuous unit that belongs under 'Sachar Katef & Babies' (heading 1) which introduces this entire baraita discussion including Rabban Shimon ben Gamliel's ruling and the dung question that follows from it, while the current placement under 'Dung as Fee' (heading 2) also covers this material \u2014 however since heading 1's prose explicitly introduces the baraita (tanu rabbanan) and Rabban Shimon ben Gamliel's position that appears in item 2, and heading 2's prose explicitly discusses the dung question in items 1 and 3, and item 2 (the baraita) is the structural anchor, the best single home for items 1-3 is heading 1 where the baraita is introduced.",
+      "second_heading": "Rav Nachman's Ruling",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rav Nachman's ruling summarizing the halakha, which is explicitly described under heading 3 'Rav Nachman's Ruling'.",
+      "current_heading": "Dung as Fee",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Half/Half Problem",
+    "candidates": [
+      "Rav Nachman's Ruling",
+      "Half/Half Problem",
+      "Disproportionate Splits",
+      "Rebbe Ilish Defense"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Half/Half Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the case of Rav Ilish's document and Rava's initial response that he would not arrange something forbidden, which is precisely what the 'Half/Half Problem' prose describes.",
+      "second_heading": "Disproportionate Splits",
+      "second_confidence": "high",
+      "second_reason": "Item 2 spells out the two disproportionate arrangements (half profit/two-thirds loss, or half loss/two-thirds profit) that legitimize the document, which is exactly what the 'Disproportionate Splits' prose analyzes.",
+      "current_heading": "Half/Half Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Rebbe Ilish Defense",
+    "candidates": [
+      "Disproportionate Splits",
+      "Rebbe Ilish Defense",
+      "Nominal Amounts Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in candidate 2's prose: Rav Kahana reporting Rav Zevid's suggestion, followed by the rebuttal 'lav hilkheta itmar ela shita itmar,' which is the central point of the 'Nominal Amounts Rejected' section.",
+      "chosen_heading": "Nominal Amounts Rejected",
+      "current_heading": "Rebbe Ilish Defense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Nominal Amounts Rejected",
+    "candidates": [
+      "Rebbe Ilish Defense",
+      "Nominal Amounts Rejected",
+      "Rav: Profit-Based Fee",
+      "Shmuel: Fixed Fee",
+      "Calf Head Case",
+      "Contingent Fee Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly provides the Gemara's reasoning (hakhi nami mistavra) that Rav Nachman would have simply said 'halacha k'Rebbe Yehuda' if he meant to rule leniently, which is precisely the argument discussed in the 'Nominal Amounts Rejected' prose section.",
+      "chosen_heading": "Nominal Amounts Rejected",
+      "current_heading": "Nominal Amounts Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Contingent Fee Rules",
+    "candidates": [
+      "Rav: Profit-Based Fee",
+      "Shmuel: Fixed Fee",
+      "Calf Head Case",
+      "Contingent Fee Rules",
+      "Original Terms",
+      "Wife's Advice",
+      "Partnership Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous dispute between Rav and Shmuel about the profit-based fee (motar shelish), followed by a challenge from Rav's own calf-head ruling and its resolution \u2014 this entire unit belongs under 'Rav: Profit-Based Fee' which introduces exactly this dispute, while the current heading 'Contingent Fee Rules' covers only the final qualification (kegon d'is lei behemah l'didei) that appears at the end of item 3.",
+      "chosen_heading": "Rav: Profit-Based Fee",
+      "current_heading": "Contingent Fee Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Partnership Problem",
+    "candidates": [
+      "Original Terms",
+      "Wife's Advice",
+      "Partnership Problem",
+      "Labor & Ribbit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the original arrangement \u2014 Rav Elazar purchasing the animal, giving it to his sharecropper to fatten, paying the head as wages and splitting profits equally \u2014 which matches exactly what the 'Original Terms' prose section describes.",
+      "chosen_heading": "Original Terms",
+      "current_heading": "Partnership Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Labor & Ribbit",
+    "candidates": [
+      "Partnership Problem",
+      "Labor & Ribbit",
+      "Mishna Duration",
+      "Animal Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Rav Elazar's explanation about ribbit concerns, partnership status, and the sharecropper's labor obligation \u2014 all of which are precisely the content described in the 'Labor & Ribbit' prose section.",
+      "chosen_heading": "Labor & Ribbit",
+      "current_heading": "Labor & Ribbit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Animal Types",
+    "candidates": [
+      "Mishna Duration",
+      "Animal Types",
+      "Rabbi Yosi View",
+      "New Arrangement",
+      "Unilateral Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the baraita about how long one must care for an entrusted animal (and its offspring), which is precisely what heading 0 'Mishna Duration' introduces \u2014 the framework question of obligatory care periods \u2014 whereas heading 1 'Animal Types' covers Sumchos's specific time periods and the asymmetry of effort across years, content that is already embedded in item 1 but whose prose also covers items 2 and 3, making heading 0 the better structural home for the opening baraita and its full discussion.",
+      "chosen_heading": "Mishna Duration",
+      "current_heading": "Animal Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Unilateral Division",
+    "candidates": [
+      "Rabbi Yosi View",
+      "New Arrangement",
+      "Unilateral Division",
+      "Money vs. Goods",
+      "Samaritan Case 1"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Menashya bar Gadda's unilateral division of offspring and Abaye's rejection of it with 'man palig lach' \u2014 exactly the content described in the 'Unilateral Division' prose section.",
+      "chosen_heading": "Unilateral Division",
+      "current_heading": "Unilateral Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Samaritan Case 1",
+    "candidates": [
+      "Money vs. Goods",
+      "Samaritan Case 1",
+      "Wine Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the exact case of two Samaritans dividing cash unilaterally before Rav Pappa, which matches precisely the prose of 'Samaritan Case 1' where Rav Papa ruled in favor of the unilateral split of cash.",
+      "chosen_heading": "Samaritan Case 1",
+      "current_heading": "Samaritan Case 1",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Wine Division",
+    "candidates": [
+      "Wine Division",
+      "Coin Grades",
+      "Rav Chama Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Wine Division",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 describe the wine division case and Rav Pappa's explanation of the distinction between money and wine, which matches the 'Wine Division' prose exactly.",
+      "second_heading": "Coin Grades",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces Rav Na\u1e25man's ruling about money being considered already divided, with the qualification about tavi/tikuli distinctions, which matches the 'Coin Grades' prose exactly.",
+      "current_heading": "Wine Division",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rav Chama Case",
+    "candidates": [
+      "Coin Grades",
+      "Rav Chama Case",
+      "Tool vs. Money",
+      "True Rental",
+      "Persuasion Fee"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's reasoning about why renting money differs from renting a hoe (mara), which is precisely what the 'Tool vs. Money' section's prose discusses \u2014 the *mai shena mimara* argument and the two-part response about coins not returning as the same object and not depreciating.",
+      "chosen_heading": "Tool vs. Money",
+      "current_heading": "Rav Chama Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Persuasion Fee",
+    "candidates": [
+      "Tool vs. Money",
+      "True Rental",
+      "Persuasion Fee",
+      "Abba Mar Case",
+      "Interest Flow"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Persuasion Fee",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both of Rava's rulings about third-party intermediaries \u2014 paying someone to lend to another, and paying someone to persuade a lender \u2014 which is precisely what the 'Persuasion Fee' prose describes in detail.",
+      "second_heading": "Abba Mar Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Abba Mar incident, which the 'Abba Mar Case' prose explicitly introduces as the illustrative story of Rav Papa's son receiving wax from borrowers.",
+      "current_heading": "Persuasion Fee",
+      "moved": true
+    }
+  }
+]

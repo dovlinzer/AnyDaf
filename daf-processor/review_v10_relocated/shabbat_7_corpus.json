@@ -1,0 +1,232 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Karmelit Examples",
+    "candidates": [
+      "Reshut HaYachid",
+      "Reshut HaRabim",
+      "Eiruv & Definition",
+      "Beit Satayim",
+      "Karmelit Examples",
+      "Keren Zavit",
+      "Usage Criterion",
+      "Between Pillars",
+      "Booth Area"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about why 'karmelit' appears as an item in the Tosefta's list of karmelit examples, and Rabbi Yochanan's answer via Rav Dimi about the corner adjacent to reshut harabim \u2014 exactly what the 'Karmelit Examples' section's prose describes.",
+      "chosen_heading": "Karmelit Examples",
+      "current_heading": "Karmelit Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Booth Area",
+    "candidates": [
+      "Keren Zavit",
+      "Usage Criterion",
+      "Between Pillars",
+      "Booth Area",
+      "Standing vs. Walking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Yochanan's ruling (via Rav Dimi) about the space between the pillars being a karmelit and Rav Zeira/Rav Yehuda's ruling about the bench before the pillars \u2014 which matches the 'Between Pillars' section prose that explicitly discusses both the bein ha'amudim ruling and the itztava she'lifnei ha'amudim ruling together.",
+      "chosen_heading": "Between Pillars",
+      "current_heading": "Booth Area",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Standing vs. Walking",
+    "candidates": [
+      "Booth Area",
+      "Standing vs. Walking",
+      "Levaina Zekufa",
+      "Three-Tefach Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the two-way logical analysis (kol shekein for one opinion, and the counter for the other) plus the lishna achrina about the space between pillars potentially being reshut harabim \u2014 content that the 'Booth Area' prose explicitly describes and analyzes, whereas the 'Standing vs. Walking' prose describes only the lishna achrina portion as if it were a separate discussion.",
+      "chosen_heading": "Booth Area",
+      "current_heading": "Standing vs. Walking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Three-Tefach Rule",
+    "candidates": [
+      "Levaina Zekufa",
+      "Three-Tefach Rule",
+      "Obstruction Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact statement of Rabba bar Sheila/Rav \u1e24isda about the upright brick (levaina zekufa) \u2014 the face liable, the top exempt \u2014 which is precisely what heading 0 'Levaina Zekufa' introduces and discusses, while heading 1 discusses the subsequent three-tefach rule (Abaye and Rava's elaboration).",
+      "chosen_heading": "Levaina Zekufa",
+      "current_heading": "Three-Tefach Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Obstruction Debate",
+    "candidates": [
+      "Three-Tefach Rule",
+      "Obstruction Debate",
+      "Four-by-Four Min.",
+      "Ten-Tefach Limit",
+      "Doghouse Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Abaye/Rava ruling about the three-tefach threshold and the subsequent debate about thorns, shrubs, and feces \u2014 which is the specific content discussed in the 'Three-Tefach Rule' prose, not the 'Obstruction Debate' prose which treats this material as background to a different analytical point.",
+      "chosen_heading": "Three-Tefach Rule",
+      "current_heading": "Obstruction Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Doghouse Example",
+    "candidates": [
+      "Four-by-Four Min.",
+      "Ten-Tefach Limit",
+      "Doghouse Example",
+      "Karmelit Hybrid",
+      "Pit Expansion",
+      "Holes in Private"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Ten-Tefach Limit",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 form a continuous discussion about the karmelit's height limit (ve'tofeset ad asarah), working through the meaning of Rav Sheshet's statement, Shmuel's teaching to Rav Yehuda, and concluding that the karmelit's airspace extends only up to ten tefachim \u2014 all of which is explicitly discussed under the 'Ten-Tefach Limit'/'Doghouse Example' prose, but items 1-4 best fit under candidate 1 ('Ten-Tefach Limit') as the starting discussion, with the doghouse case serving as part of that argument rather than its own section.",
+      "second_heading": "Karmelit Hybrid",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is the 'gufa' return to Rav Giddel's doghouse ruling on its own terms, which the 'Karmelit Hybrid' section's prose discusses as following the summary of karmelit parameters \u2014 but actually item 5 fits better under 'Doghouse Example' (candidate 2) as the standalone re-examination of that ruling, except the overall flow of items 1-4 resolving into the karmelit hybrid summary makes candidate 2 the natural home for item 5 as setup for the pit expansion.",
+      "current_heading": "Doghouse Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Holes in Private",
+    "candidates": [
+      "Karmelit Hybrid",
+      "Pit Expansion",
+      "Holes in Private",
+      "Holes in Public",
+      "Convenience Compare"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Pit Expansion' prose discusses: Abaye's ruling that digging a four-by-four pit to reach ten tefachim permits carrying throughout the entire house, with the reasoning about chorei reshut hayachid \u2014 this is the content of candidate 1, not candidate 2 which discusses the principle in more abstract/analytical terms.",
+      "chosen_heading": "Pit Expansion",
+      "current_heading": "Holes in Private",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Convenience Compare",
+    "candidates": [
+      "Holes in Public",
+      "Convenience Compare",
+      "Sticky Fig Case",
+      "Why Not Holes",
+      "Carving Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's challenge to Abaye about the keren zavit and Abaye's response distinguishing convenience of use, which is precisely the content described in the 'Holes in Public' section's prose \u2014 that section explicitly describes this exact exchange including Rava's challenge and asks 'What is Abaye's response?', making it the natural home for this passage rather than 'Convenience Compare' which discusses the distinction as already established.",
+      "chosen_heading": "Holes in Public",
+      "current_heading": "Convenience Compare",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Carving Rule",
+    "candidates": [
+      "Sticky Fig Case",
+      "Why Not Holes",
+      "Carving Rule",
+      "No-Hole Assumption",
+      "Pole Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous chain: item 1 raises the difficulty from the mishna (wall/four cubits), item 2 presents Rabbi Yo\u1e25anan's sticky-fig answer and Abaye's challenge about holes, items 3-4 give Abaye's two responses (bounce-back and no-hole wall) with the carving-out dispute as support \u2014 this entire sequence matches candidate 1 ('Why Not Holes'), which explicitly covers Rabbi Yo\u1e25anan's sticky-fig scenario, the bounce-back answer, the structural no-hole answer, and the upper-zone hole complication involving Rabbi Meir's carving rule.",
+      "chosen_heading": "Why Not Holes",
+      "current_heading": "Carving Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Pole Extension",
+    "candidates": [
+      "No-Hole Assumption",
+      "Pole Extension",
+      "Rebbi vs. Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Chisda's ruling about a pole stuck in a reshut hayachid extending to the sky, which is precisely what the 'Pole Extension' section's prose describes, and the current placement is correct.",
+      "chosen_heading": "Pole Extension",
+      "current_heading": "Pole Extension",
+      "moved": false
+    }
+  }
+]

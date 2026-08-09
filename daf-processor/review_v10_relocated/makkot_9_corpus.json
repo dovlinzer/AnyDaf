@@ -1,0 +1,330 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Mishnah Overview",
+    "candidates": [
+      "Mishnah Overview",
+      "Why Father & Son?",
+      "Father Striking Son",
+      "Teaching Torah & Craft"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishnah opening the chapter, the Gemara's challenge about the father striking his son, and the resolution involving the carpenter's apprentice \u2014 are precisely the content described in candidate 2 ('Father Striking Son'), which discusses the reconciliation of the father's exile with the earlier exclusion for a father who strikes his son.",
+      "chosen_heading": "Father Striking Son",
+      "current_heading": "Mishnah Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Teaching Torah & Craft",
+    "candidates": [
+      "Why Father & Son?",
+      "Father Striking Son",
+      "Teaching Torah & Craft",
+      "Son Killing Father"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the continuous Rav Kahana resolution to the contradiction about the son exiled for killing his father, which is explicitly described in the 'Teaching Torah & Craft' prose as the Gemara's remini and Rav Kahana's lo kashya answer involving Rabbi Shimon vs. the Rabbis on the severity of chenek vs. sayaf.",
+      "chosen_heading": "Teaching Torah & Craft",
+      "current_heading": "Teaching Torah & Craft",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Son Killing Father",
+    "candidates": [
+      "Son Killing Father",
+      "Hakol Golin",
+      "Servants & Samaritans"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rava's statement directly addresses the case of a son who inflicts a wound on his father unwittingly and why exile does not apply, which matches the 'Son Killing Father' section's prose discussing Rava's alternative explanation about the son's act and its relationship to exile.",
+      "chosen_heading": "Son Killing Father",
+      "current_heading": "Son Killing Father",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Servants & Samaritans",
+    "candidates": [
+      "Hakol Golin",
+      "Servants & Samaritans",
+      "Cursing Non-Jews"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Gemara's question about what 'hakol' adds (le'ituyei eved ve'Kuti) and the baraita elaborating on it \u2014 this is precisely what heading 0 describes, whereas heading 1's prose discusses the baraita as a separate elaboration but the passage actually presents it as a unified discussion starting from the mishna's 'hakol' phrase.",
+      "chosen_heading": "Hakol Golin",
+      "current_heading": "Servants & Samaritans",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Cursing Non-Jews",
+    "candidates": [
+      "Servants & Samaritans",
+      "Cursing Non-Jews",
+      "False Testimony Case",
+      "Insignificant Blow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically analyzes why a Jew would be flogged for cursing a Samaritan and challenges this using the verse 'venasi be'amcha lo ta'or' with the interpretation of 'oseh ma'aseh amcha,' which is precisely what the 'Cursing Non-Jews' section's prose discusses.",
+      "chosen_heading": "Cursing Non-Jews",
+      "current_heading": "Cursing Non-Jews",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Insignificant Blow",
+    "candidates": [
+      "False Testimony Case",
+      "Insignificant Blow",
+      "Ger Toshav Intro"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "False Testimony Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rav A\u1e25a bar Ya'akov's hazama (false testimony) proposal and its refutation regarding the slave's ineligibility to testify, which matches the 'False Testimony Case' prose exactly.",
+      "second_heading": "Insignificant Blow",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav A\u1e25a son of Rav Ika's resolution involving a blow worth less than a prutah and Rabbi Yo\u1e25anan's ruling, which is precisely what the 'Insignificant Blow' prose describes.",
+      "current_heading": "Insignificant Blow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Ger Toshav Intro",
+    "candidates": [
+      "Ger Toshav Intro",
+      "Two Pesukim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question of whether a ger toshav is categorically a gentile (alma ger toshav goy hu) and Rav Kahana's resolution, which matches exactly what the 'Ger Toshav Intro' prose describes.",
+      "chosen_heading": "Ger Toshav Intro",
+      "current_heading": "Ger Toshav Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Two Pesukim",
+    "candidates": [
+      "Two Pesukim",
+      "Rav Kahana's Answer",
+      "Baraita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction between the two verses (Numbers 35:15 and 35:12) and Rav Kahana's resolution together as one unit, and the current heading 'Two Pesukim' with its prose directly describes exactly this contradiction, making it the best match for the full passage including Rav Kahana's answer embedded within it.",
+      "chosen_heading": "Two Pesukim",
+      "current_heading": "Two Pesukim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Baraita Contradiction",
+    "candidates": [
+      "Rav Kahana's Answer",
+      "Baraita Contradiction",
+      "Downward vs Upward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita contradiction itself \u2014 arguing that a ger toshav is executed regardless of whom he killed \u2014 which is precisely what the 'Baraita Contradiction' section's prose describes, and it appears before Rav Chisda's resolution in candidate 2.",
+      "chosen_heading": "Baraita Contradiction",
+      "current_heading": "Baraita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Downward vs Upward",
+    "candidates": [
+      "Downward vs Upward",
+      "Rava's Challenge",
+      "Permitted Killing Case",
+      "Mutar Anuss Category",
+      "Mistaken Identity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Downward vs Upward",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Chisda's resolution distinguishing downward vs upward motion, which matches exactly the prose under 'Downward vs Upward'.",
+      "second_heading": "Rava's Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's kal vachomer challenge to Rav Chisda's framework, which matches exactly the prose under 'Rava's Challenge'.",
+      "current_heading": "Downward vs Upward",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Mistaken Identity",
+    "candidates": [
+      "Rava's Challenge",
+      "Permitted Killing Case",
+      "Mutar Anuss Category",
+      "Mistaken Identity",
+      "Avimelech & Sarah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the Rava-Abaye dispute about whether 'omer mutar' is anuss or karov lemezid, which is precisely what candidate 2 ('Mutar Anuss Category') describes in its prose, while the current placement under 'Mistaken Identity' covers the *ve'azdu letameihu* elaboration that follows these items.",
+      "chosen_heading": "Mutar Anuss Category",
+      "current_heading": "Mistaken Identity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Avimelech & Sarah",
+    "candidates": [
+      "Mistaken Identity",
+      "Avimelech & Sarah",
+      "Return of Sarah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous dialectical unit about Abimelech and Sarah \u2014 Rava's objection, the rejection via 'bidei shamayim', and the Joseph parallel \u2014 which precisely matches the prose of heading 1 ('Avimelech & Sarah'), where the essay author describes exactly this sequence including the mehato li verse and the dino masur le'adam conclusion.",
+      "chosen_heading": "Avimelech & Sarah",
+      "current_heading": "Avimelech & Sarah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Return of Sarah",
+    "candidates": [
+      "Return of Sarah",
+      "Ben Noach Lesson"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Abaye's objection about Abimelech's 'righteous nation' plea, the immediate rejection of the prophet-only reading, and Rabbi Shmuel bar Na\u1e25mani's resolution \u2014 which is precisely what the 'Return of Sarah' prose describes in detail, including the mikol makom ruling and the akhsenai teaching about Avimelech's suspicious questioning.",
+      "chosen_heading": "Return of Sarah",
+      "current_heading": "Return of Sarah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Ben Noach Lesson",
+    "candidates": [
+      "Ben Noach Lesson",
+      "Blind Person",
+      "The Hater",
+      "Hater Executed",
+      "Shimon's Distinction",
+      "Belo Re'ot Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives that a ben Noach is executed for failing to learn, which is explicitly discussed in candidate 0's prose as 'mikan sheben Noach neherag shehaya lo lilmod velo lamad.'",
+      "chosen_heading": "Ben Noach Lesson",
+      "current_heading": "Ben Noach Lesson",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Belo Re'ot Exclusion",
+    "candidates": [
+      "Blind Person",
+      "The Hater",
+      "Hater Executed",
+      "Shimon's Distinction",
+      "Belo Re'ot Exclusion",
+      "Mi'ut Principles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah text covers all the cases (blind person, hater, Rabbi Yehuda/Meir/Yosi/Shimon) as a single unit, and the 'Blind Person' heading introduces this exact Mishnah with its opening line about the blind person not going into exile.",
+      "chosen_heading": "Blind Person",
+      "current_heading": "Belo Re'ot Exclusion",
+      "moved": true
+    }
+  }
+]

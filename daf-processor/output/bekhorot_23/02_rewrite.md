@@ -94,13 +94,7 @@ This principle has broad analogues. In *kashrus*, the question of whether *chame
 
 ### One Drop Question
 
-The *Gemara* now cites the *mishnah* in *Machshirin* where *Rabbi Elazar ben Yaakov* rules: *tzir tahor shenaflo letocho mayim kolshehen, tamei* — if pure fish brine had a small amount of water fall into it, it becomes *tamei*. The mechanism is *chozer v'ne'or*: the water in the brine, which had been rendered *tahor* through *bittul b'rov* (the majority being brine, the minority water being suppressed), reawakens when more water is added.
-
-The backstory: the fish brine came from an *am ha'aretz* and the water mixed into it was presumed *tamei*. The brine had been purified — *tzir tahor* — by immersion in a *mikvah*, but that immersion was only effective because the majority was brine, rendering the *tamei* water the minority. The *tamei* water was thus suppressed, present and active but inaccessible, and the *mikvah* did not address it because the minority lacks independent standing. When additional water falls in, the water-component tips back toward majority, the suppressed *tumah* reawakens, and the mixture becomes *tamei* again.
-
-*Rav Nachman* in the name of *Rabbah bar Avuha* draws a practical conclusion from this ruling: *nechshedu amei ha'aretz al eiruv mechtza mayim batzir* — the *amei ha'aretz* were suspected of watering down their fish brine up to fifty percent water. This is the only way to explain how a single drop of water would reawaken the *tumah*: if the water was already just under fifty percent, one additional drop tips the balance and makes water the majority, precipitating reawakening. Were the water only, say, thirty percent, a single drop would not make the decisive difference.
-
-The *Gemara* immediately asks: why fifty percent specifically? Even at forty-nine-point-nine percent water, one drop suffices to bring it to exactly fifty-fifty — and at fifty-fifty, neither side wins, the water is not *batel*, and the *tumah* would already be present. *Eima ad mechtza* — the *Gemara* resolves that the concern is that they water it down *up to* (but not quite) half. The extra drop then tips the mixture from just-under-half to just-over-half, making the water the majority and triggering reawakening.
+The *Gemara* raises an immediate question: why fifty percent specifically? Even at forty-nine-point-nine percent water, one extra drop would bring the mixture to exactly fifty-fifty — and at fifty-fifty, neither side wins, meaning the water is not *batel*. The *Gemara* resolves this with *eima ad mechtza*: the concern extends up to half, not exactly half, so one extra drop can tip the mixture past that threshold. The *Gemara* then offers an alternative answer: *ei ba'it eima, tumat am ha'aretz derabbanan* — the entire *tumah* of an *am ha'aretz* is only rabbinic in force.
 
 ## Fitness Standards (II)
 

@@ -1,0 +1,338 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Three Cases",
+    "candidates": [
+      "Prev. Perek Review",
+      "Pigul & Status",
+      "Three Cases",
+      "Avra Shnata",
+      "Unconditional vs Cond.",
+      "Tmurah & Meilah Remain",
+      "Kodshei Hashem Removal",
+      "Gemara: Reisha vs. Seifa",
+      "Meilah & Tmura Purposes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah listing the five sin offerings left to die \u2014 items 1 and 2 together constitute the complete Mishnah text, and candidate 2 ('Three Cases') describes exactly this Mishnah at the bottom of 10b presenting the classic cases of chatat shemetah, which matches perfectly.",
+      "chosen_heading": "Three Cases",
+      "current_heading": "Three Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Meilah & Tmura Purposes",
+    "candidates": [
+      "Avra Shnata",
+      "Unconditional vs Cond.",
+      "Tmurah & Meilah Remain",
+      "Kodshei Hashem Removal",
+      "Gemara: Reisha vs. Seifa",
+      "Meilah & Tmura Purposes",
+      "Undetermined Money",
+      "Shelamim Default Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the case where owners have not yet achieved atonement (ad shelo kipperu haba'alim), prescribing that the animal graze until blemished and be sold, and that it retains tmurah capacity and me'ilah \u2014 exactly what the 'Tmurah & Meilah Remain' prose describes.",
+      "chosen_heading": "Tmurah & Meilah Remain",
+      "current_heading": "Meilah & Tmura Purposes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Shelamim Default Reason",
+    "candidates": [
+      "Undetermined Money",
+      "Shelamim Default Reason",
+      "Death Becomes Olah",
+      "Explicit Money Allocation",
+      "Chatat Money Status",
+      "Olah Money Meilah",
+      "Shelamim Post-Death"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Shelamim Default Reason",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are Gemara discussing why the previous Mishnah's clauses are structured differently and why it's repeated from Temura \u2014 this wraps up the Shelamim Default Reason discussion.",
+      "second_heading": "Undetermined Money",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 open a new Mishnah about a nazirite designating unspecified money for his offerings, matching exactly the 'Undetermined Money' prose about hamafrish ma'ot lineziruto and the lo nehenin velo mo'alin ruling.",
+      "current_heading": "Shelamim Default Reason",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Shelamim Post-Death",
+    "candidates": [
+      "Death Becomes Olah",
+      "Explicit Money Allocation",
+      "Chatat Money Status",
+      "Olah Money Meilah",
+      "Shelamim Post-Death",
+      "Reish Lakish Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses the shelamim money ruling \u2014 bringing a shelamim eaten for one day without the accompanying loaves \u2014 which is precisely what the 'Shelamim Post-Death' section's prose describes.",
+      "chosen_heading": "Shelamim Post-Death",
+      "current_heading": "Shelamim Post-Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Reish Lakish Challenge",
+    "candidates": [
+      "Reish Lakish Challenge",
+      "Tosafot: Young Bird Use",
+      "Rava's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly Reish Lakish's objection \u2014 item 1 is the challenge itself and item 2 is his elaboration of the exemption argument \u2014 which is precisely what the 'Reish Lakish Challenge' prose describes.",
+      "chosen_heading": "Reish Lakish Challenge",
+      "current_heading": "Reish Lakish Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rava's Response",
+    "candidates": [
+      "Tosafot: Young Bird Use",
+      "Rava's Response",
+      "Tor vs. Benei Yonah",
+      "No Pidyon for Birds",
+      "Dam Initially No Meilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct response explaining why undesignated nazir money and designated bird money are not comparable, which exactly matches the 'Rava's Response' section prose describing Rava's argument about immediate fitness and proper use.",
+      "chosen_heading": "Rava's Response",
+      "current_heading": "Rava's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Dam Initially No Meilah",
+    "candidates": [
+      "Tor vs. Benei Yonah",
+      "No Pidyon for Birds",
+      "Dam Initially No Meilah",
+      "Dam Flow & Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text of Rabbi Shimon's statement about blood being lenient at the outset and stringent at its conclusion, and libations being stringent at the outset and lenient at their conclusion \u2014 which is precisely the text that heading 'Dam Initially No Meilah' introduces and explains.",
+      "chosen_heading": "Dam Initially No Meilah",
+      "current_heading": "Dam Initially No Meilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Dam Flow & Sale",
+    "candidates": [
+      "Dam Flow & Sale",
+      "Dam Derabbanan Meilah",
+      "Rabbi Meir vs. Chachamim",
+      "Ula: Service to Owner",
+      "R. Yishmael: Blood Atone."
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dam Flow & Sale",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah presenting the dam/nesachim contrast (blood at outset vs. Kidron, libations at outset vs. shitin), which matches heading 0's prose about the paradoxical ruling that blood in the Kidron carries me'ilah.",
+      "second_heading": "Rabbi Meir vs. Chachamim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita recording the dispute between Rabbi Meir/Rabbi Shimon and the Chachamim over me'ilah in blood, which matches exactly the prose of heading 2 ('Rabbi Meir vs. Chachamim').",
+      "current_heading": "Dam Flow & Sale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "R. Yishmael: Blood Atone.",
+    "candidates": [
+      "Dam Derabbanan Meilah",
+      "Rabbi Meir vs. Chachamim",
+      "Ula: Service to Owner",
+      "R. Yishmael: Blood Atone.",
+      "R. Yochanan: Blood Soul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Ulla's derivation and the school of Rabbi Yishmael's derivation together as answers to the single question 'what is the reason of the one who says ein mo'alin,' which corresponds to heading 1 ('Rabbi Meir vs. Chachamim') that explicitly states 'the Gemara then presents three distinct explanations for the position of those who exempt blood from me'ilah' \u2014 this passage contains the first two of those three explanations and belongs under that umbrella heading rather than being split between headings 2 and 3.",
+      "chosen_heading": "Rabbi Meir vs. Chachamim",
+      "current_heading": "R. Yishmael: Blood Atone.",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "R. Yochanan: Blood Soul",
+    "candidates": [
+      "R. Yishmael: Blood Atone.",
+      "R. Yochanan: Blood Soul",
+      "Exceptions to Na'aseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Yochanan's derivation from 'ki hadam hu banefesh yichaper' and the Gemara's immediate challenge about reversing the analogy, which is precisely what heading 1's prose describes.",
+      "chosen_heading": "R. Yochanan: Blood Soul",
+      "current_heading": "R. Yochanan: Blood Soul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Exceptions to Na'aseh",
+    "candidates": [
+      "Exceptions to Na'aseh",
+      "Two Exceptions Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the rhetorical challenge 'is there anything whose mitzva has been performed that still has me'ilah?' and the response citing trumat hadeshen as a counterexample \u2014 are precisely what heading 0 ('Exceptions to Na'aseh') describes, introducing the first exception to the na'aseit mitzvato principle.",
+      "chosen_heading": "Exceptions to Na'aseh",
+      "current_heading": "Exceptions to Na'aseh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Two Exceptions Principle",
+    "candidates": [
+      "Two Exceptions Principle",
+      "Wine: Start & End",
+      "Lul & Wine Residue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 9 items form a continuous chain of objection-and-response about the 'two verses that come as one' principle (shnei ketuvim), cycling through se'ir hamishtalach, bigdei kehuna, and egla arufa as successive second exceptions, which is precisely what the 'Two Exceptions Principle' prose describes.",
+      "chosen_heading": "Two Exceptions Principle",
+      "current_heading": "Two Exceptions Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Lul & Wine Residue",
+    "candidates": [
+      "Wine: Start & End",
+      "Lul & Wine Residue",
+      "Burning Congealed Wine",
+      "Gemara Initial Assumption",
+      "Tosafot: Before Floor",
+      "Burning Derabbanan Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a single continuous Gemara discussion about whether the mishna accords with Rabbi Elazar bar Rabbi Tzadok's view on the lul and congealed wine, which is precisely what heading 1 ('Lul & Wine Residue') describes in its prose.",
+      "chosen_heading": "Lul & Wine Residue",
+      "current_heading": "Lul & Wine Residue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Burning Derabbanan Only",
+    "candidates": [
+      "Burning Congealed Wine",
+      "Gemara Initial Assumption",
+      "Tosafot: Before Floor",
+      "Burning Derabbanan Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's resolution that Rabbi Elazar bar Rabbi Tzadok's ruling to burn the wine applies only by rabbinic law (mi-d'rabbanan) and that the cited verse is merely an asmakhta, which is precisely what the 'Burning Derabbanan Only' section's prose describes.",
+      "chosen_heading": "Burning Derabbanan Only",
+      "current_heading": "Burning Derabbanan Only",
+      "moved": false
+    }
+  }
+]

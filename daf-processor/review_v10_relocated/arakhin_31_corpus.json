@@ -1,0 +1,416 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Rabbinic Conditions",
+    "candidates": [
+      "Daf Location",
+      "Lo Yimkor Berachok",
+      "Sources",
+      "Rabbinic Conditions",
+      "Matza Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the baraita answering the Gemara's question 'mena hanei milei' (from where are these derived?), which is precisely what heading 2 'Sources' describes \u2014 the Gemara opening with that question and deriving the limitations from the verse.",
+      "chosen_heading": "Sources",
+      "current_heading": "Rabbinic Conditions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Matza Debate",
+    "candidates": [
+      "Rabbinic Conditions",
+      "Matza Debate",
+      "Stone Case",
+      "Rava's Resolution",
+      "Hekdesh Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the challenge-and-resolution unit about the double meaning of 'matza,' which is exactly what the 'Matza Debate' section's prose describes \u2014 the hermeneutic contradiction between the redemption and accidental-killer usages \u2014 even though Rava's resolution in item 2 is also described under heading 3; the passage as a whole belongs under the heading that introduces and frames the debate, which is heading 1, and Rava's answer is the natural continuation of that same debate rather than a separate structural unit.",
+      "chosen_heading": "Matza Debate",
+      "current_heading": "Matza Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Hekdesh Rights",
+    "candidates": [
+      "Stone Case",
+      "Rava's Resolution",
+      "Hekdesh Rights",
+      "Rabbi Shimon Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage derives from the verse 've'im gaol yigal' that one may borrow and partially redeem a consecrated field, which is precisely what the 'Hekdesh Rights' prose describes as the topic of this section.",
+      "chosen_heading": "Hekdesh Rights",
+      "current_heading": "Hekdesh Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Rabbi Shimon Logic",
+    "candidates": [
+      "Rabbi Shimon Logic",
+      "Tannaitic Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Shimon's full mah ta'am explanation \u2014 the contrast between sold fields (enhanced power leads to restrictions) and consecrated fields (diminished power leads to leniency) \u2014 which is precisely what the 'Rabbi Shimon Logic' prose describes in detail.",
+      "chosen_heading": "Rabbi Shimon Logic",
+      "current_heading": "Rabbi Shimon Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Tannaitic Debate",
+    "candidates": [
+      "Tannaitic Debate",
+      "Tosafot Analysis",
+      "House Sale Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the two conflicting baraitot and the Gemara's resolution (lo kashya, ha rabanan ha Rabbi Shimon), which is exactly what the 'Tannaitic Debate' section's prose describes.",
+      "chosen_heading": "Tannaitic Debate",
+      "current_heading": "Tannaitic Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "House Sale Rules",
+    "candidates": [
+      "Tosafot Analysis",
+      "House Sale Rules",
+      "Interest Question",
+      "Succession Rights",
+      "Year Measurement",
+      "Rebbi's Opinion",
+      "Mishna Position",
+      "Two-Day Wait",
+      "Exact Moment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text introduces the basic rule of redeeming a house in a walled city within twelve months, which is exactly what the 'House Sale Rules' section's prose discusses \u2014 hamocher bayit bevatei arei chomah, goel miyad, and the twelve-month buyback option.",
+      "chosen_heading": "House Sale Rules",
+      "current_heading": "House Sale Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Exact Moment",
+    "candidates": [
+      "Interest Question",
+      "Succession Rights",
+      "Year Measurement",
+      "Rebbi's Opinion",
+      "Mishna Position",
+      "Two-Day Wait",
+      "Exact Moment",
+      "Bar Mitzvah App.",
+      "Ribbit Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Succession Rights",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah text covering succession rights (son redeeming, buyer's son) and year measurement (intercalated month, Rabbi's solar year, perpetuity rule), which matches the 'Succession Rights' and 'Year Measurement' prose \u2014 but since they form the Mishnah unit that precedes the Gemara, and item 1 matches 'Succession Rights' while item 2 matches 'Year Measurement', the closest single heading for the Mishnah portion covering the year-calculation rules is 'Year Measurement' (index 2).",
+      "second_heading": "Mishna Position",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 are the Gemara discussion opening with 'matnitin d'lo k'Rabbi' and proceeding through the dispute about yamim, miyom l'yom, me'et l'et, and the exchange of drashot between Rabbi and the Rabbis \u2014 exactly the content described under 'Mishna Position' (index 4) and the subsequent headings, with item 3 being the opening Gemara statement that belongs under 'Mishna Position'.",
+      "current_heading": "Exact Moment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Ribbit Debate",
+    "candidates": [
+      "Bar Mitzvah App.",
+      "Ribbit Debate",
+      "Rivka Case",
+      "Rav Papa View",
+      "Rashi Framing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Ribbit Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rabbi Yochanan's resolution and the baraita dispute about mocher/lokeach eating fruits including the Baitos ben Zunin story, which exactly matches the 'Ribbit Debate' prose.",
+      "second_heading": "Rivka Case",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 cover the mai beinaihu analysis (tzad echad beribbit and ribit al menat lehachazir), which matches the 'Rivka Case' prose about tzad echad beribbit as the point of dispute.",
+      "current_heading": "Ribbit Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Rashi Framing",
+    "candidates": [
+      "Rivka Case",
+      "Rav Papa View",
+      "Rashi Framing",
+      "Year from First",
+      "Title Succession",
+      "Rights Transfer",
+      "Adar Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "medium",
+      "reason": "These passages deal with inheritance of redemption rights (seller's son, buyer's son) in walled-city house sales \u2014 a topic about who holds title and redemption rights that fits most naturally after the 'Adar Case' section on the mechanics of the year and title, and none of the other candidate prose sections discuss this specific content; the current placement under 'Rashi Framing' (ribit/interest concerns) is clearly wrong for passages about filial succession of redemption rights.",
+      "chosen_heading": "Adar Case",
+      "current_heading": "Rashi Framing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Adar Case",
+    "candidates": [
+      "Year from First",
+      "Title Succession",
+      "Rights Transfer",
+      "Adar Case",
+      "Ravina Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Year from First",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the baraita deriving that the year is measured from the first sale, and the dispute between Rabbi Elazar and Rabbi Yochanan about to whom permanent title passes (with Rabbi Abba bar Memel's kol zchus principle), which maps directly onto headings 'Year from First,' 'Title Succession,' and 'Rights Transfer' \u2014 all of which flow as one continuous topic resolved by candidate 2's prose.",
+      "second_heading": "Adar Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Abba bar Memel's leap-year case of two houses sold in Adar Rishon and Adar Sheni, which is a self-contained new scenario matching exactly the 'Adar Case' prose under candidate 3.",
+      "current_heading": "Adar Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Ravina Challenge",
+    "candidates": [
+      "Ravina Challenge",
+      "Lambs Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Ravina's challenge about kindling fire first and the Gemara's response about the intercalated month, which is precisely what the 'Ravina Challenge' section prose describes.",
+      "chosen_heading": "Ravina Challenge",
+      "current_heading": "Ravina Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Lambs Case",
+    "candidates": [
+      "Lambs Case",
+      "Gezeira Shava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rabbi Abba bar Memel lambs case and Ravina's objection with the Gemara's response, which are explicitly discussed together in the 'Lambs Case' prose section.",
+      "chosen_heading": "Lambs Case",
+      "current_heading": "Lambs Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Gezeira Shava",
+    "candidates": [
+      "Gezeira Shava",
+      "Solar vs. Lunar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gezeira shava of 'shana shana' between houses and lambs, which is exactly what the 'Gezeira Shava' section's prose describes.",
+      "chosen_heading": "Gezeira Shava",
+      "current_heading": "Gezeira Shava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Solar vs. Lunar",
+    "candidates": [
+      "Solar vs. Lunar",
+      "Twelve Month Rule",
+      "Perpetuity Clause",
+      "Gift Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda HaNasi's position of counting 365 solar days versus the Rabbis' position of counting twelve lunar months day to day, which is precisely what the 'Solar vs. Lunar' section's prose addresses.",
+      "chosen_heading": "Solar vs. Lunar",
+      "current_heading": "Solar vs. Lunar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Gift Inclusion",
+    "candidates": [
+      "Twelve Month Rule",
+      "Perpetuity Clause",
+      "Gift Inclusion",
+      "Rabbi Meir View",
+      "Rav Pappa"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gift Inclusion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita deriving gift inclusion from 'latzemitut', which is precisely what the 'Gift Inclusion' prose discusses.",
+      "second_heading": "Rabbi Meir View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Sages' challenge before Rav Pappa about Rabbi Meir's view, which matches the 'Rabbi Meir View' prose exactly.",
+      "current_heading": "Gift Inclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Rav Pappa",
+    "candidates": [
+      "Rabbi Meir View",
+      "Rav Pappa",
+      "Consecration Rules",
+      "Third Party Buy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts the rabbis pressing Rav Pappa with the Jubilee parallel and forcing his concession that the baraita cannot follow Rabbi Meir \u2014 exactly the content described in the 'Rav Pappa' prose section.",
+      "chosen_heading": "Rav Pappa",
+      "current_heading": "Rav Pappa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Third Party Buy",
+    "candidates": [
+      "Consecration Rules",
+      "Third Party Buy",
+      "L'Dorosav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The baraita covers both the owner's perpetual right to redeem from hekdesh AND the third-party scenario, but its opening clause \u2014 that one who consecrates may always redeem \u2014 maps most directly to the 'Consecration Rules' prose, while the third-party detail is also covered there as a secondary point; however the current placement under 'Third Party Buy' is also defensible since the baraita is the source text for that section's discussion.",
+      "chosen_heading": "Consecration Rules",
+      "current_heading": "Third Party Buy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "L'Dorosav",
+    "candidates": [
+      "L'Dorosav",
+      "Yovel Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's derivation from 'l'dorosav' explaining why hekdesh cannot acquire permanent title, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "L'Dorosav",
+      "current_heading": "L'Dorosav",
+      "moved": false
+    }
+  }
+]

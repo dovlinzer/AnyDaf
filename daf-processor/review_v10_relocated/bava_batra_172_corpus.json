@@ -1,0 +1,232 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Known vs. Unknown Date",
+    "candidates": [
+      "Known vs. Unknown Date",
+      "Land Sales & Liens",
+      "Loans: No Post-dating",
+      "Place of Writing & Event"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava bar Rav Sheila's direct instruction about writing the known vs. unknown date on deeds of acquisition, which is precisely what heading 0 ('Known vs. Unknown Date') addresses in its prose.",
+      "chosen_heading": "Known vs. Unknown Date",
+      "current_heading": "Known vs. Unknown Date",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Place of Writing & Event",
+    "candidates": [
+      "Land Sales & Liens",
+      "Loans: No Post-dating",
+      "Place of Writing & Event",
+      "No Conversion: 100 to 50"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav and Rav Huna instructing their scribes to write the place where they are situated when drafting, even if the transaction occurred elsewhere \u2014 exactly the content discussed in the 'Place of Writing & Event' section prose.",
+      "chosen_heading": "Place of Writing & Event",
+      "current_heading": "Place of Writing & Event",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "No Conversion: 100 to 50",
+    "candidates": [
+      "No Conversion: 100 to 50",
+      "No Conversion: 50+50",
+      "Fraud Prevention"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "No Conversion: 100 to 50",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover exactly the two Rava rulings discussed in candidates 0 and 1 (100\u21922\u00d750 and 2\u00d750\u2192100), which the prose for those headings explicitly describes.",
+      "second_heading": "Fraud Prevention",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is Rav Ashi's distinct ruling about converting a 100-dinar note to a single 50-dinar note to prevent fraud, which is precisely the scenario described in candidate 2's prose.",
+      "current_heading": "No Conversion: 100 to 50",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Fraud Prevention",
+    "candidates": [
+      "No Conversion: 50+50",
+      "Fraud Prevention",
+      "Mutual Inability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the fraud scenario discussed in the 'Fraud Prevention' prose \u2014 a debtor repays his full debt, receives a receipt instead of his note, and the creditor then exploits a new/converted shtar to claim it is a separate loan (hai achrina hu), which is precisely what that section's prose explains.",
+      "chosen_heading": "Fraud Prevention",
+      "current_heading": "Fraud Prevention",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Mutual Inability",
+    "candidates": [
+      "Mutual Inability",
+      "3 Names, Simanim, Kohanim"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Mutual Inability",
+      "current_heading": "Mutual Inability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "3 Names, Simanim, Kohanim",
+    "candidates": [
+      "3 Names, Simanim, Kohanim",
+      "Rav Huna's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the three-step hierarchy (triple names, simanim, kohen) which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "3 Names, Simanim, Kohanim",
+      "current_heading": "3 Names, Simanim, Kohanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Rav Huna's Challenge",
+    "candidates": [
+      "Rav Huna's Challenge",
+      "Get Without Date"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the opening case and Rav Huna's immediate response about 'mimcha' \u2014 exactly what candidate 0's prose describes as the striking case brought before Rav Huna's beit din and his skeptical question about the Exilarch and Persian king.",
+      "chosen_heading": "Rav Huna's Challenge",
+      "current_heading": "Rav Huna's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Get Without Date",
+    "candidates": [
+      "Get Without Date",
+      "Tosafot: Bearer Bond Gett"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav \u1e24isda's instruction to Rabba and the baraita about Abba Shaul's ruling on a dateless get with 'today' \u2014 are explicitly discussed in the 'Get Without Date' prose, which walks through exactly this discovery sequence and the kasher ruling.",
+      "chosen_heading": "Get Without Date",
+      "current_heading": "Get Without Date",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Tosafot: Bearer Bond Gett",
+    "candidates": [
+      "Tosafot: Bearer Bond Gett",
+      "No Fear of Droppage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabba's conclusion that 'today' means the day the get emerges before the court, and therefore 'from you' means the man from whose possession the shtar emerges \u2014 this is directly the conclusion of the Rava/Rabba argument discussed in the 'No Fear of Droppage' section, not the Tosafot discussion of bearer bonds.",
+      "chosen_heading": "No Fear of Droppage",
+      "current_heading": "Tosafot: Bearer Bond Gett",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "No Fear of Droppage",
+    "candidates": [
+      "Tosafot: Bearer Bond Gett",
+      "No Fear of Droppage",
+      "Single vs. Multiple",
+      "Same Name Blocks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain about linfilah \u2014 Abaye's concern about droppage, Rava's refutation from the Yosef ben Shimon Mishnah, and Abaye's counter-distinction \u2014 exactly matching the 'No Fear of Droppage' section's prose description.",
+      "chosen_heading": "No Fear of Droppage",
+      "current_heading": "No Fear of Droppage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Same Name Blocks",
+    "candidates": [
+      "Single vs. Multiple",
+      "Same Name Blocks",
+      "Acquisition by Delivery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question about the baraita that prohibits collecting against third parties contradicting the Mishnah, which is precisely what the 'Same Name Blocks' prose describes.",
+      "chosen_heading": "Same Name Blocks",
+      "current_heading": "Same Name Blocks",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,355 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Meamatai Opening",
+    "candidates": [
+      "Masechet Overview",
+      "Rain & Tragedy",
+      "Religious Engagement",
+      "Q: Why Fasting?",
+      "Sin & Forgiveness",
+      "Meamatai Opening",
+      "R. Eliezer v. R. Yehoshua",
+      "Rain as Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the opening Mishna asking 'from when do we mention gevurot geshamim' with the Eliezer/Yehoshua dispute, which matches the 'Meamatai Opening' section's prose describing exactly this first mishna and its question about when to insert mashiv haruach umorid hageshem.",
+      "chosen_heading": "Meamatai Opening",
+      "current_heading": "Meamatai Opening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rain as Curse",
+    "candidates": [
+      "R. Eliezer v. R. Yehoshua",
+      "Rain as Curse",
+      "Hazkarah v. Sheolah",
+      "Ein Shoalin",
+      "R. Yehuda Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Yehoshua's objection that rain is a curse during Sukkot AND Rabbi Eliezer's hazkarah/she'ela distinction AND the follow-up challenge, but the current heading 'Rain as Curse' with its prose explicitly describes this exact exchange \u2014 Rabbi Yehoshua's kelala objection, the sukkah mishna source, and why one would mention mashiv haruach during Sukkot \u2014 making it the best match for the full passage.",
+      "chosen_heading": "Rain as Curse",
+      "current_heading": "Rain as Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "R. Yehuda Ruling",
+    "candidates": [
+      "Hazkarah v. Sheolah",
+      "Ein Shoalin",
+      "R. Yehuda Ruling",
+      "Textual Grounding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage opens with 'ein sho'alin et hageshamim ela samuch lagashamim' and then continues with Rabbi Yehuda's ruling \u2014 but the essay's 'Ein Shoalin' section (index 1) explicitly states that the mishna's Rabbi Yehuda ruling is included in this same passage, and its prose describes both the general principle and Rabbi Yehuda's ruling as part of the same clarificatory unit, making index 1 the better fit than the separate 'R. Yehuda Ruling' section which treats only Rabbi Yehuda's portion in isolation.",
+      "chosen_heading": "Ein Shoalin",
+      "current_heading": "R. Yehuda Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Textual Grounding",
+    "candidates": [
+      "R. Yehuda Ruling",
+      "Textual Grounding",
+      "Pessukim Chain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara discussion about where the Tanna is 'standing' \u2014 the question of textual grounding for the mishna's 'from when' \u2014 which is precisely what the 'Textual Grounding' section's prose describes.",
+      "chosen_heading": "Textual Grounding",
+      "current_heading": "Textual Grounding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Pessukim Chain",
+    "candidates": [
+      "Pessukim Chain",
+      "Gevurot & Creation",
+      "Tosafot: Why Gevurot",
+      "Avodah Shebalev"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous chain of pessukim derivation (Rabbi Yo\u1e25anan's answer about gevurah, Rabba bar Sheila's gezerah shavah on 'cheker', and the elaboration linking rain to creation and gevurah) that the 'Pessukim Chain' prose section explicitly describes.",
+      "chosen_heading": "Pessukim Chain",
+      "current_heading": "Pessukim Chain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Avodah Shebalev",
+    "candidates": [
+      "Gevurot & Creation",
+      "Tosafot: Why Gevurot",
+      "Avodah Shebalev",
+      "Mitzvot & Agriculture",
+      "R. Yochanan: 3 Keys"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita establishing prayer as 'avodah shebalev' and connecting it to rain via juxtaposed verses, which is precisely what the 'Avodah Shebalev' section's prose describes.",
+      "chosen_heading": "Avodah Shebalev",
+      "current_heading": "Avodah Shebalev",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "R. Yochanan: 3 Keys",
+    "candidates": [
+      "Mitzvot & Agriculture",
+      "R. Yochanan: 3 Keys",
+      "Key of Rain",
+      "Key of Childbirth",
+      "Key of Resurrection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yochanan's statement about the three keys held by God, which is precisely what the 'R. Yochanan: 3 Keys' section's prose describes and discusses.",
+      "chosen_heading": "R. Yochanan: 3 Keys",
+      "current_heading": "R. Yochanan: 3 Keys",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Key of Resurrection",
+    "candidates": [
+      "Key of Rain",
+      "Key of Childbirth",
+      "Key of Resurrection",
+      "Direct Control",
+      "Parnassah & Geshamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present all three keys (rain, childbirth, resurrection) as a continuous unit of prooftexts, and the passage begins mid-sentence with the key of rain leading into childbirth and resurrection \u2014 the entire block starts under 'Key of Rain' prose but the bulk of new content (childbirth verse and resurrection verse) most naturally belongs under 'Key of Childbirth' where the gemara's chain of derivations is being assembled; however, since item 1 opens with the rain key verse and item 2 completes childbirth and resurrection, and the current placement is 'Key of Resurrection' (index 2), the passage actually spans from rain through resurrection and the best single home is 'Key of Childbirth' (index 1) where the middle of this three-key chain sits, making it the most representative heading for the full quoted block.",
+      "chosen_heading": "Key of Childbirth",
+      "current_heading": "Key of Resurrection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Parnassah & Geshamim",
+    "candidates": [
+      "Direct Control",
+      "Parnassah & Geshamim",
+      "Life & Resurrection",
+      "Kimelman: Rain Metaphor",
+      "Source of Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Western tradition's addition of a fourth key (parnassah), Rabbi Yochanan's omission of it, and the explanation that rain equals parnassah \u2014 exactly what the prose of candidate 1 discusses.",
+      "chosen_heading": "Parnassah & Geshamim",
+      "current_heading": "Parnassah & Geshamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Source of Timing",
+    "candidates": [
+      "Life & Resurrection",
+      "Kimelman: Rain Metaphor",
+      "Source of Timing",
+      "Beraita Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous Talmudic unit discussing Rabbi Eliezer's source for beginning hazkarah on the first day of Sukkot \u2014 whether derived from lulav or nisuch hamayim \u2014 which is precisely what the 'Source of Timing' section's prose describes.",
+      "chosen_heading": "Source of Timing",
+      "current_heading": "Source of Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Beraita Sources",
+    "candidates": [
+      "Beraita Sources",
+      "Lulav Symbolism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself presenting the dispute between Rabbi Eliezer and Rabbi Yehoshua about when to begin mentioning rain, which exactly matches the 'Beraita Sources' prose describing this same baraita and its two opinions.",
+      "chosen_heading": "Beraita Sources",
+      "current_heading": "Beraita Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Lulav Symbolism",
+    "candidates": [
+      "Lulav Symbolism",
+      "Yehoshua Counter",
+      "Eliezer Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Eliezer's explanation of lulav symbolism as appeasement for water, which is precisely what the 'Lulav Symbolism' section prose describes.",
+      "chosen_heading": "Lulav Symbolism",
+      "current_heading": "Lulav Symbolism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Eliezer Response",
+    "candidates": [
+      "Yehoshua Counter",
+      "Eliezer Response",
+      "Rainy Season Obligation",
+      "Rabbi Yehuda Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehoshua's objection about rain being a curse sign AND Rabbi Eliezer's response with the techiyat hameitim analogy AND Rabbi Yehuda HaNasi's position, but the current heading 'Eliezer Response' and its prose directly discusses all the key content of this passage (the hazkarah vs she'ela distinction and the resurrection analogy), making it the best match.",
+      "chosen_heading": "Eliezer Response",
+      "current_heading": "Eliezer Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rabbi Yehuda Link",
+    "candidates": [
+      "Rainy Season Obligation",
+      "Rabbi Yehuda Link",
+      "Shevach v. Bakasha",
+      "Techiyat Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the opinions of Rabbi Yehuda ben Beteira, Rabbi Akiva, and Rabbi Yehuda in the name of Rabbi Yehoshua about when hazkarah begins/ends, which is exactly what the 'Rabbi Yehuda Link' prose section discusses and contextualizes.",
+      "chosen_heading": "Rabbi Yehuda Link",
+      "current_heading": "Rabbi Yehuda Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Techiyat Analogy",
+    "candidates": [
+      "Shevach v. Bakasha",
+      "Techiyat Analogy",
+      "Rain Timing Problem",
+      "Yatzah Nisan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the Gemara's assessment that 'Rabbi Eliezer spoke well to Rabbi Yehoshua' and the beginning of Rabbi Yehoshua's response about techiyat hameitim being mentionable any day, which is precisely what the 'Techiyat Analogy' section's prose describes.",
+      "chosen_heading": "Techiyat Analogy",
+      "current_heading": "Techiyat Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Yatzah Nisan",
+    "candidates": [
+      "Rain Timing Problem",
+      "Yatzah Nisan",
+      "Non-Holiday Period",
+      "Human Activity Period",
+      "Chagim Structure",
+      "Waiting & Dependency",
+      "Passive Reliance",
+      "Seasonal Religiosity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about Nisan rain being a sign of curse, which is precisely what the 'Yatzah Nisan' section's prose discusses \u2014 marshaling this mishna to show rain outside its season is harmful, not merely untimely.",
+      "chosen_heading": "Yatzah Nisan",
+      "current_heading": "Yatzah Nisan",
+      "moved": false
+    }
+  }
+]

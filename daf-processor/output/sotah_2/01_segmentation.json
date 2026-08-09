@@ -43,7 +43,7 @@
           "timestamp": "07:50"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -57,7 +57,7 @@
           "timestamp": "18:30"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -71,8 +71,8 @@
           "timestamp": "18:30"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Negative Framing of Kaniyat Eisho in the Gemara: Asur Lekanot and Its Theological Basis",
@@ -95,7 +95,7 @@
           "timestamp": "29:20"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -172,7 +172,7 @@
           "timestamp": "51:34"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     }
   ],
@@ -326,5 +326,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "43:05",
+  "amud_b_micro_title": "Linguistic Derivation",
+  "shiur_start_daf": 2,
+  "shiur_start_amud": "a"
 }

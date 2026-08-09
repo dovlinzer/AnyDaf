@@ -208,8 +208,8 @@
           "timestamp": "17:28"
         }
       ],
-      "sefaria_index": 16,
-      "matched": true
+      "sefaria_index": 15,
+      "matched": false
     },
     {
       "title": "Abaye-Rava Debate and Its Relation to Rav-Shmuel on Shabbat",
@@ -257,8 +257,8 @@
           "timestamp": "17:28"
         }
       ],
-      "sefaria_index": 18,
-      "matched": true
+      "sefaria_index": 15,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -399,5 +399,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "17:19",
+  "amud_b_micro_title": "Portico case",
+  "shiur_start_daf": 18,
+  "shiur_start_amud": "a"
 }

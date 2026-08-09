@@ -1,0 +1,369 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Gemara Analysis",
+    "candidates": [
+      "Mesulakat Damim",
+      "First 90 Days",
+      "Second 90 Days & Rebleed",
+      "Three 90-Day Pattern",
+      "Exact vs. Inexact",
+      "Gemara Analysis",
+      "Rabbi Eliezer Ruling",
+      "Heitalu Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara analysis of the baraita's phrasing about exact vs. inexact intervals, including the challenge (adarabba), the proposed emendation (tani), and the alternative reading attributing the baraita to Rabbi Dosa \u2014 exactly what the 'Gemara Analysis' prose section describes.",
+      "chosen_heading": "Gemara Analysis",
+      "current_heading": "Gemara Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Heitalu Story",
+    "candidates": [
+      "Rabbi Eliezer Ruling",
+      "Heitalu Story",
+      "Rabbis' Response",
+      "Famine & Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Eliezer citing the Heitalu incident as proof for his position, which is precisely what the 'Heitalu Story' section's prose discusses.",
+      "chosen_heading": "Heitalu Story",
+      "current_heading": "Heitalu Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Famine & Loss",
+    "candidates": [
+      "Rabbis' Response",
+      "Famine & Loss",
+      "Rabbi Reconsiders",
+      "Formal vs. Practical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the sages' statement that 'exigent circumstances are no proof' AND the gemara's explanation of what those circumstances were \u2014 this unified passage belongs under 'Rabbis' Response' which discusses exactly this counter-response and the ein sha'at ha-dechak re'ayah principle, while the current placement under 'Famine & Loss' only captures half the passage's content.",
+      "chosen_heading": "Rabbis' Response",
+      "current_heading": "Famine & Loss",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Formal vs. Practical",
+    "candidates": [
+      "Rabbi Reconsiders",
+      "Formal vs. Practical",
+      "She'at Ha-Dechak",
+      "Tosafot Explanation",
+      "First Two Sightings",
+      "Third Sighting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita recording Rabbi's incident with Rabbi Eliezer's ruling and the Gemara's analysis of 'le-achar she-nizkar,' which is precisely what heading 0 ('Rabbi Reconsiders') describes \u2014 the episode of Rabbi acting like Rabbi Eliezer and then reconsidering \u2014 whereas the current placement under 'Formal vs. Practical' covers the conclusions drawn from that episode rather than the episode and its Talmudic analysis itself.",
+      "chosen_heading": "Rabbi Reconsiders",
+      "current_heading": "Formal vs. Practical",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Third Sighting",
+    "candidates": [
+      "She'at Ha-Dechak",
+      "Tosafot Explanation",
+      "First Two Sightings",
+      "Third Sighting",
+      "Pattern Recovery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita's content \u2014 introducing the young girl case and discussing the first, second, and third sightings \u2014 maps precisely to candidate 2's prose about 'First Two Sightings,' which explicitly introduces the tinoket shelo higia zemanah lirot case and discusses all three stages of bleeding, while candidate 3 ('Third Sighting') focuses only on the third occurrence and its implications, making candidate 2 the better home for the full baraita that covers all three sightings together.",
+      "chosen_heading": "First Two Sightings",
+      "current_heading": "Third Sighting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Pattern Recovery",
+    "candidates": [
+      "Third Sighting",
+      "Pattern Recovery",
+      "Reboot Question",
+      "Complete Reboot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Pattern Recovery",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 describe the ninety-day gap reset cycles and the eventual return to ke-chol ha-nashim status, plus the concluding baraita about a girl reaching puberty age \u2014 all of which matches the 'Pattern Recovery' prose about three ninety-day gaps proving a pattern and the parallel to the post-menopausal woman.",
+      "second_heading": "Reboot Question",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the gemara picking up 'Amar Mar' to interrogate the precise status after the reboot \u2014 exactly the question posed in the 'Reboot Question' prose about what happens when the girl bleeds again after the ninety-day gap.",
+      "current_heading": "Pattern Recovery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Complete Reboot",
+    "candidates": [
+      "Reboot Question",
+      "Complete Reboot",
+      "Full vs. Partial",
+      "Limited Reboot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Complete Reboot",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Giddel's answer (pa'am rishonah u-sheniyah dayah sha'atah, shelishit metamei) \u2014 the ruling that the reboot is complete \u2014 which is precisely what heading 1 'Complete Reboot' discusses.",
+      "second_heading": "Reboot Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita's further case of a second ninety-day gap followed by the gemara's new question about what happens when she then sees blood at regular intervals \u2014 which is the 'Reboot Question' scenario posed in heading 0 before Rav Giddel's ruling is introduced.",
+      "current_heading": "Complete Reboot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Limited Reboot",
+    "candidates": [
+      "Full vs. Partial",
+      "Limited Reboot",
+      "Rabbi Two Sightings",
+      "Attribution Mix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states Rav Kahana/Rav Giddel/Rav's ruling that the first bleeding after the second reboot is dayah sha'atah but the second already triggers the twenty-four-hour concern \u2014 precisely the 'limited reboot' content described in candidate 1's prose.",
+      "chosen_heading": "Limited Reboot",
+      "current_heading": "Limited Reboot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Attribution Mix",
+    "candidates": [
+      "Rabbi Two Sightings",
+      "Attribution Mix",
+      "Dual Attribution",
+      "Stain 1-2",
+      "Stain 2-3 Debate",
+      "Chizkiyah Impure",
+      "Rabbi Yochanan Pure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single chain of attribution analysis \u2014 asking who authored the baraita, raising the contradiction between Rabbi's view and Rabbi Eliezer's view, and resolving it \u2014 which precisely matches the 'Attribution Mix' prose describing the difficulty of a single baraita reflecting both positions.",
+      "chosen_heading": "Attribution Mix",
+      "current_heading": "Attribution Mix",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Rabbi Yochanan Pure",
+    "candidates": [
+      "Dual Attribution",
+      "Stain 1-2",
+      "Stain 2-3 Debate",
+      "Chizkiyah Impure",
+      "Rabbi Yochanan Pure",
+      "Virgin Distinction",
+      "Marketplace Stain"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Stain 2-3 Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the full Chizkiyah/Rabbi Yochanan debate about the stain between second and third bleeding, which is exactly what heading 2 ('Stain 2-3 Debate') describes as its topic.",
+      "second_heading": "Virgin Distinction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rabbi Ilai objection and Rav Zeira's answer distinguishing the virgin case via 'tzirpa metzuyah', which is precisely what heading 5 ('Virgin Distinction') describes in its prose.",
+      "current_heading": "Rabbi Yochanan Pure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Marketplace Stain",
+    "candidates": [
+      "Virgin Distinction",
+      "Marketplace Stain",
+      "Rabin's Report"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Ulla/Rabbi Yo\u1e25anan/Rabbi Shimon ben Yehotzadak ruling about the pre-pubescent girl's saliva, midras, and kesem in the marketplace, and the attribution question \u2014 exactly what the 'Marketplace Stain' prose describes.",
+      "chosen_heading": "Marketplace Stain",
+      "current_heading": "Marketplace Stain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Rabin's Report",
+    "candidates": [
+      "Rabin's Report",
+      "Continuous Seven Days",
+      "Continuous Challenge",
+      "Interrupted Multiple"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly reports Ravin's transmission of the ruling attributed to Rabbi Shimon ben Yehotzadak, which is precisely what the 'Rabin's Report' section's prose describes.",
+      "chosen_heading": "Rabin's Report",
+      "current_heading": "Rabin's Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Interrupted Multiple",
+    "candidates": [
+      "Continuous Seven Days",
+      "Continuous Challenge",
+      "Interrupted Multiple",
+      "Dripping Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav \u1e24ilkiya's statement about continuous discharge counting as one sighting AND the Gemara's immediate challenge about the continuous vs. interrupted distinction \u2014 both parts are a single textual unit that belongs under heading 0, whose prose introduces the statement, while headings 1 and 2 artificially split the challenge and counter-point into separate sections.",
+      "chosen_heading": "Continuous Seven Days",
+      "current_heading": "Interrupted Multiple",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Dripping Definition",
+    "candidates": [
+      "Interrupted Multiple",
+      "Dripping Definition",
+      "Pre-Pub Presumed Pure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the definition of shofas vs. poseskes vs. medalefet (continuous flow vs. dripping vs. interrupted bleeding) \u2014 precisely the topic of the 'Dripping Definition' prose, which explicitly discusses Rav Shimi bar \u1e24iyya's ruling and the ke-nahar objection that appears in item 3.",
+      "chosen_heading": "Dripping Definition",
+      "current_heading": "Dripping Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Pre-Pub Presumed Pure",
+    "candidates": [
+      "Pre-Pub Presumed Pure",
+      "Post-Pub Risk Status",
+      "No Manual Check"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers both the pre-puberty presumption of purity and the post-puberty presumption of impurity as a single continuous passage, and the current heading's prose explicitly introduces and summarizes this baraita, making it the best home for the full text.",
+      "chosen_heading": "Pre-Pub Presumed Pure",
+      "current_heading": "Pre-Pub Presumed Pure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "No Manual Check",
+    "candidates": [
+      "Post-Pub Risk Status",
+      "No Manual Check",
+      "Oil Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehuda's prohibition of manual examination and his recommended oil method, but the current placement under 'No Manual Check' is the better fit since the passage opens with and centers on the prohibition, and the essay has split the content across two headings \u2014 however, since the passage contains both elements, and the current heading's prose explicitly addresses the manual check prohibition which is where the passage currently sits, it belongs under index 1.",
+      "chosen_heading": "No Manual Check",
+      "current_heading": "No Manual Check",
+      "moved": false
+    }
+  }
+]

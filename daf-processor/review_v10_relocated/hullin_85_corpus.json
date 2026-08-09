@@ -1,0 +1,274 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rav Eina Teaching",
+    "candidates": [
+      "Rav Eina Teaching",
+      "Three Concerns",
+      "Koy vs. Chaya",
+      "Rabbah's Objection",
+      "Kal V'Chomer Milah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Eina's teaching and Rabbah's immediate objection with the baraita of Rabbi Yosei, which is precisely what heading 0 'Rav Eina Teaching' introduces, and the current placement matches the content of the passage directly.",
+      "chosen_heading": "Rav Eina Teaching",
+      "current_heading": "Rav Eina Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Kal V'Chomer Milah",
+    "candidates": [
+      "Three Concerns",
+      "Koy vs. Chaya",
+      "Rabbah's Objection",
+      "Kal V'Chomer Milah",
+      "Shofar Refutation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Kal V'Chomer Milah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are the kal v'chomer from milah, the shofar refutation, and Rabbi Elazar HaKappar's counter-refutation \u2014 exactly what heading 3 'Kal V'Chomer Milah' describes.",
+      "second_heading": "Rabbah's Objection",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 are Rabbah's use of the baraita phrase 'kissui she'ein vad'o docha Shabbos' to refute Rav Eina, which is precisely what heading 2 'Rabbah's Objection' describes.",
+      "current_heading": "Kal V'Chomer Milah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Shofar Refutation",
+    "candidates": [
+      "Shofar Refutation",
+      "Elazar HaKappar"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Shofar Refutation",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20136 all belong to the 'Shofar Refutation' section, covering the rabbis' counter-argument about shofar, the gemara's analysis of what 'uncertain' means (sfek ish sfek isha), Rabbi Yosei's position on women sounding shofar, and Ravina's further refutation \u2014 all of which the 'Shofar Refutation' prose explicitly discusses.",
+      "second_heading": "Elazar HaKappar",
+      "second_confidence": "high",
+      "second_reason": "Item 7 is Rabbi Elazar HaKappar's response about milah not being in effect on Festival nights, which is the exact content described in the 'Elazar HaKappar' section's prose.",
+      "current_heading": "Shofar Refutation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Elazar HaKappar",
+    "candidates": [
+      "Elazar HaKappar",
+      "Baraita on Shabbat",
+      "Invalid Shechita Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the refutation of Rabbi Yose's kal v'chomer via the night/day distinction for milah vs. kissui, and Rabbi Abba's report that Rabbi Chiyya had no response while Rabbi Elazar HaKappar did \u2014 exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Elazar HaKappar",
+      "current_heading": "Elazar HaKappar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Invalid Shechita Cases",
+    "candidates": [
+      "Baraita on Shabbat",
+      "Invalid Shechita Cases",
+      "Rabbi Meir vs. Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishnah passage lists the cases of invalid shechita (treifa, avodah zarah, chulin bifnim, kodashim bachutz, animal sentenced to stoning) and presents Rabbi Meir's obligation vs. the Rabbis' exemption, which is precisely what the 'Invalid Shechita Cases' prose introduces and describes.",
+      "chosen_heading": "Invalid Shechita Cases",
+      "current_heading": "Invalid Shechita Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rabbi Meir vs. Sages",
+    "candidates": [
+      "Rabbi Meir vs. Sages",
+      "Rabbi's Split Vote",
+      "Rabbi Meir Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the final clause of the Mishnah where everyone agrees that botched slaughter, stabbing, or tearing out the simanim exempts from kissui hadam \u2014 exactly what the 'Rabbi Meir vs. Sages' prose describes as the point of consensus at the end of that Mishnah.",
+      "chosen_heading": "Rabbi Meir vs. Sages",
+      "current_heading": "Rabbi Meir vs. Sages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Rabbi Meir Reasoning",
+    "candidates": [
+      "Rabbi's Split Vote",
+      "Rabbi Meir Reasoning",
+      "Shimon Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 opens with Rabbi \u1e24iyya bar Abba/Rabbi Yo\u1e25anan's statement about Rabbi's split vote, and items 2\u20139 unfold the reasoning behind each position (Rabbi Meir's gezerah shavah from shechutei chutz, Rabbi Shimon's derivation from tevo'a\u1e25, and the back-and-forth challenges), all culminating in item 9 which loops back explicitly to Rabbi \u1e24iyya's statement \u2014 the entire passage is the Gemara's elaboration of why Rabbi made his split ruling, which is precisely what heading 0 ('Rabbi's Split Vote') describes.",
+      "chosen_heading": "Rabbi's Split Vote",
+      "current_heading": "Rabbi Meir Reasoning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Shimon Counter",
+    "candidates": [
+      "Rabbi Meir Reasoning",
+      "Shimon Counter",
+      "Fetus in Womb"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items continue the discussion of Rabbi Meir's and Rabbi Shimon's reasoning specifically for kissui hadam \u2014 the gezerah shavah of shfichah (item 1), the asher ye'achel debate (item 2), and Rabbi \u1e24iyya's conclusion that Rabbi accepted Rabbi Shimon's view for kissui hadam (item 3) \u2014 which matches the 'Rabbi Meir Reasoning' prose's explicit discussion of Reish Lakish's shfichah-shfichah gezerah shavah and kissui hadam, rather than the 'Shimon Counter' section where these items currently sit.",
+      "chosen_heading": "Rabbi Meir Reasoning",
+      "current_heading": "Shimon Counter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Fetus in Womb",
+    "candidates": [
+      "Fetus in Womb",
+      "Heter Through Mother"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous Talmudic discussion about Rabbi Abba's qualification of Rabbi Meir's rule regarding shechita she'eina re'uya, centered on the case of a tereifa mother and a live fetus \u2014 exactly what the 'Fetus in Womb' prose describes in detail.",
+      "chosen_heading": "Fetus in Womb",
+      "current_heading": "Fetus in Womb",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Heter Through Mother",
+    "candidates": [
+      "Heter Through Mother",
+      "Neveilah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses how the slaughter of the mother renders the fetus kosher and whether that heter flows through to the fetus of a tereifa mother, which directly matches the 'Heter Through Mother' prose about the mechanism of heter flowing through the mother's shechita.",
+      "chosen_heading": "Heter Through Mother",
+      "current_heading": "Heter Through Mother",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Neveilah Status",
+    "candidates": [
+      "Neveilah Status",
+      "Treifa in Azarah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Shimon's concession that a non-fitting shechita removes neveilah status, directly matching the 'Neveilah Status' section's prose about modeh Rabbi Shimon shemetaharto midei neveilah and the teaching from Rav about treifa that was slaughtered.",
+      "chosen_heading": "Neveilah Status",
+      "current_heading": "Neveilah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Treifa in Azarah",
+    "candidates": [
+      "Treifa in Azarah",
+      "Vote Splitting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of slaughtering a treifa that is chulin ba'azarah and the baraita dispute between Rabbi Shimon and the Rabbis, which is exactly what the 'Treifa in Azarah' prose describes.",
+      "chosen_heading": "Treifa in Azarah",
+      "current_heading": "Treifa in Azarah",
+      "moved": false
+    }
+  }
+]

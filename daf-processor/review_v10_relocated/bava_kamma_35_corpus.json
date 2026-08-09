@@ -1,0 +1,386 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Appreciation Dispute",
+    "candidates": [
+      "Mishnah Setup",
+      "Rabbi Meir's View",
+      "Rabbi Yehuda's View",
+      "Equal Value Requirement",
+      "Mazik Ownership Scope",
+      "Yochanan's Principle",
+      "Depreciation Agreement",
+      "Appreciation Dispute",
+      "Compassion Question",
+      "Unequal Case Setup",
+      "Profit Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's statement introducing 'shvach neveila' as the crux of the dispute, which is precisely what the 'Yochanan's Principle' section describes.",
+      "chosen_heading": "Yochanan's Principle",
+      "current_heading": "Appreciation Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Profit Problem",
+    "candidates": [
+      "Compassion Question",
+      "Unequal Case Setup",
+      "Profit Problem",
+      "Absurdity Stated",
+      "Exclusionary Verse",
+      "Loss Prohibition",
+      "Mutual Gain Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehuda's challenge itself \u2014 'now that you say the Torah has mercy on the mazik' \u2014 which is precisely what heading 0 ('Compassion Question') describes as its content, introducing the logical challenge that flows from the compassion principle.",
+      "chosen_heading": "Compassion Question",
+      "current_heading": "Profit Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Mutual Gain Case",
+    "candidates": [
+      "Absurdity Stated",
+      "Exclusionary Verse",
+      "Loss Prohibition",
+      "Mutual Gain Case",
+      "Offset Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states both the absurdity argument ('where do we find a mazik who gains?') and the exclusionary verse ('shalem yeshalem'), which map perfectly to headings 0 and 1 combined, but since the passage leads with the 'heichan matzinu mazik niskar' argument that is the core of heading 0 ('Absurdity Stated'), and heading 1's prose separately covers the verse \u2014 however, since all items must go under ONE heading and the passage contains both elements, heading 0 is the better fit as it introduces the primary argument, with the verse serving as supporting proof within the same unit of reasoning.",
+      "chosen_heading": "Absurdity Stated",
+      "current_heading": "Mutual Gain Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Offset Principle",
+    "candidates": [
+      "Mutual Gain Case",
+      "Offset Principle",
+      "Fundamental Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the 'mutual gain case' \u2014 the scenario where the carcass appreciates so the nizak suffers no loss \u2014 which is precisely what candidate 0's prose describes, before the verse's resolution (candidate 1) is introduced.",
+      "chosen_heading": "Mutual Gain Case",
+      "current_heading": "Offset Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Fundamental Agreement",
+    "candidates": [
+      "Fundamental Agreement",
+      "Mishnah Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with Rav A\u1e25a bar Ta\u1e25alifa's challenge to Rava about Rabbi Yehuda's position and its resolution via the word 've-gam,' which is precisely what the 'Fundamental Agreement' prose describes in detail.",
+      "chosen_heading": "Fundamental Agreement",
+      "current_heading": "Fundamental Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Mishnah Cases",
+    "candidates": [
+      "Mishnah Cases",
+      "Embarrassment Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself introducing the divergent liability cases, which matches the 'Mishnah Cases' prose that explicitly describes this new mishnah presenting cases where ox-owner liability and human liability diverge.",
+      "chosen_heading": "Mishnah Cases",
+      "current_heading": "Mishnah Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Embarrassment Case",
+    "candidates": [
+      "Embarrassment Case",
+      "Eye/Tooth Case",
+      "Parent Injury Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the embarrassment case and the eye/tooth case together in one Talmudic text, but since it begins with the embarrassment (boshes) example and the current placement is under 'Embarrassment Case' which discusses that first example, while candidate 1 covers the second example \u2014 the passage spans both headings, and the current placement where it introduces both cases is acceptable, though candidate 1 is also a strong match for the second half.",
+      "chosen_heading": "Embarrassment Case",
+      "current_heading": "Embarrassment Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Parent Injury Case",
+    "candidates": [
+      "Eye/Tooth Case",
+      "Parent Injury Case",
+      "Shabbat Fire Case",
+      "Abbahu's Teaching",
+      "Yochanan's Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the parent injury case and the Shabbat fire case together in one mishnaic unit, and the current placement under 'Parent Injury Case' is the heading that introduces this combined text, with the Shabbat fire portion naturally following as part of the same quoted passage.",
+      "chosen_heading": "Parent Injury Case",
+      "current_heading": "Parent Injury Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Yochanan's Rejection",
+    "candidates": [
+      "Shabbat Fire Case",
+      "Abbahu's Teaching",
+      "Yochanan's Rejection",
+      "Intent Debate",
+      "Clever Ox Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Abbahu's teaching and Rabbi Yochanan's rejection in a single Talmudic excerpt, but candidate 1 ('Abbahu's Teaching') explicitly describes the full content of this passage including both the braita and Rabbi Yochanan's response, while candidate 2 ('Yochanan's Rejection') is a better match for only the second half \u2014 however, since the passage is a single unit and candidate 1's prose covers the entire passage including Rabbi Yochanan's rejoinder, it is the better home.",
+      "chosen_heading": "Abbahu's Teaching",
+      "current_heading": "Yochanan's Rejection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Clever Ox Example",
+    "candidates": [
+      "Intent Debate",
+      "Clever Ox Example",
+      "Rava's Resolution",
+      "Chizkiya Teaching",
+      "Kimlei with Capital Crime"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous chain covering the clever ox scenario, Rav Pappa's ox anecdote, and the humiliation/boshet challenge with its resolution \u2014 exactly the content described in the 'Clever Ox Example' prose.",
+      "chosen_heading": "Clever Ox Example",
+      "current_heading": "Clever Ox Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Kimlei with Capital Crime",
+    "candidates": [
+      "Rava's Resolution",
+      "Chizkiya Teaching",
+      "Kimlei with Capital Crime",
+      "Rashi/Tosafot Debate",
+      "Ambiguity Cases",
+      "Single Pursuing Ox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of Rava's resolution \u2014 he proposes the mishna deals with shogeg (item 1), supports it via Bei Chizkiyahu (items 2-3), faces the objection about 'nidan be-nafsho' implying meizid (item 4), and answers it (item 5) \u2014 all belonging under 'Rava's Resolution' rather than the current 'Kimlei with Capital Crime' heading which discusses the conceptual implications already established.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Kimlei with Capital Crime",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Single Pursuing Ox",
+    "candidates": [
+      "Rashi/Tosafot Debate",
+      "Ambiguity Cases",
+      "Single Pursuing Ox",
+      "Two Pursuing Oxes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishna about a single ox pursuing another ox, which matches exactly the 'Single Pursuing Ox' section's prose describing the same case.",
+      "chosen_heading": "Single Pursuing Ox",
+      "current_heading": "Single Pursuing Ox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Two Pursuing Oxes",
+    "candidates": [
+      "Two Pursuing Oxes",
+      "Single Owner Both Oxes",
+      "Large and Small Oxes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the exact case of two oxen from different owners pursuing one ox, with each owner blaming the other, and the ruling that both are exempt \u2014 which is precisely what heading 0 ('Two Pursuing Oxes') describes in its prose.",
+      "chosen_heading": "Two Pursuing Oxes",
+      "current_heading": "Two Pursuing Oxes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Large and Small Oxes",
+    "candidates": [
+      "Single Owner Both Oxes",
+      "Large and Small Oxes",
+      "Tam and Muad",
+      "Multiple Damages/Damagers",
+      "Anti-Sumchos Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Large and Small Oxes",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the single-owner dispute about which ox (large/small or tam/muad) caused the damage, matching the 'Large and Small Oxes' and 'Tam and Muad' prose \u2014 but since it combines both sub-cases in one Mishnaic passage and the current placement under 'Large and Small Oxes' is the opening of that combined unit, it fits best there.",
+      "second_heading": "Multiple Damages/Damagers",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces an entirely new scenario with two injured oxen and two goring oxen, which is exactly what the 'Multiple Damages/Damagers' prose describes.",
+      "current_heading": "Large and Small Oxes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Anti-Sumchos Position",
+    "candidates": [
+      "Tam and Muad",
+      "Multiple Damages/Damagers",
+      "Anti-Sumchos Position",
+      "Sumchos Splits Even Bari"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi \u1e24iyya bar Abba's statement that the mishnah refutes Sumchos's splitting principle, which is precisely what the 'Anti-Sumchos Position' section's prose describes.",
+      "chosen_heading": "Anti-Sumchos Position",
+      "current_heading": "Anti-Sumchos Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136
+    ],
+    "current_heading": "Sumchos Splits Even Bari",
+    "candidates": [
+      "Sumchos Splits Even Bari",
+      "Challenge to Recovery",
+      "Lesser Claim Recovery",
+      "Wheat/Barley Analogy"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Wheat/Barley Analogy",
+    "candidates": [
+      "Challenge to Recovery",
+      "Lesser Claim Recovery",
+      "Wheat/Barley Analogy",
+      "Bari v'Bari Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage asks who is making the bari vs. shema claim in the mishnah, and raises that if the nizak is bari and mazik is shema it should still refute Rabba bar Natan \u2014 this directly fits the 'Bari v'Bari Question' section's discussion of whether the mishnah deals with bari ve-bari or bari ve-shema.",
+      "chosen_heading": "Bari v'Bari Question",
+      "current_heading": "Wheat/Barley Analogy",
+      "moved": true
+    }
+  }
+]

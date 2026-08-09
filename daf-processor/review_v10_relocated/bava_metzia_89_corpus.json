@@ -1,0 +1,447 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Ravina's Position",
+    "candidates": [
+      "Opening",
+      "Torah Sources",
+      "Ravina's Position",
+      "Shor from Shabbat",
+      "Why 'Ox'?",
+      "Logical Equation",
+      "Growth from Ground"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form Ravina's complete argument: his initial claim that no extra verses are needed, the question of why 'shor' was written if the gezeirah shavah already expands the law to all animals, and the answer that 'shor' creates the bilateral equation between muzzler and muzzled \u2014 exactly what candidate 2 ('Ravina's Position') describes in its prose.",
+      "chosen_heading": "Ravina's Position",
+      "current_heading": "Ravina's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Growth from Ground",
+    "candidates": [
+      "Shor from Shabbat",
+      "Why 'Ox'?",
+      "Logical Equation",
+      "Growth from Ground",
+      "Exclusions",
+      "Challenge",
+      "Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita deriving the ground-growth requirement from the dayish paradigm and excluding milking/cheese-making, which is precisely what the 'Growth from Ground' section's prose describes.",
+      "chosen_heading": "Growth from Ground",
+      "current_heading": "Growth from Ground",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Response",
+    "candidates": [
+      "Exclusions",
+      "Challenge",
+      "Response",
+      "Dayish Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's response (tzericha) explaining why the repetition is necessary \u2014 exactly matching the 'Response' section's prose about the broad reading of kama potentially including non-ground-grown items and the need to forestall that interpretation.",
+      "chosen_heading": "Response",
+      "current_heading": "Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Dayish Timing",
+    "candidates": [
+      "Dayish Timing",
+      "Weeding Excluded",
+      "Challenge 2",
+      "Small Onions Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the baraita deriving from dayish that a laborer eats at the time of gmar melacha, and excluding one who weeds garlic and onions \u2014 is precisely what the 'Dayish Timing' prose discusses, including both the dayish/gmar melacha principle and the exclusion of weeding, which the prose treats as part of the same baraita unit.",
+      "chosen_heading": "Dayish Timing",
+      "current_heading": "Dayish Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Small Onions Case",
+    "candidates": [
+      "Weeding Excluded",
+      "Challenge 2",
+      "Small Onions Case",
+      "Pre-Ma'aser Stage",
+      "Pressed Dates/Figs",
+      "Unripe Dates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's challenge 'Why do I need this? It derives from el kelyecha lo titein' and the answer about small onions \u2014 this is precisely the Challenge 2 exchange described in candidate 1's prose, which anticipates both the question and the answer about removing small onions from among large ones.",
+      "chosen_heading": "Challenge 2",
+      "current_heading": "Small Onions Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Unripe Dates",
+    "candidates": [
+      "Pre-Ma'aser Stage",
+      "Pressed Dates/Figs",
+      "Unripe Dates",
+      "Pre-Challa Stage"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pressed Dates/Figs",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita that excludes the date/fig separator because gmar melacha has already occurred, which is precisely what candidate 1 ('Pressed Dates/Figs') discusses.",
+      "second_heading": "Unripe Dates",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the contradictory baraita and Rav Pappa's resolution involving tuchlanei (unripe dates), which is exactly what candidate 2 ('Unripe Dates') discusses.",
+      "current_heading": "Unripe Dates",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Pre-Challa Stage",
+    "candidates": [
+      "Pre-Challa Stage",
+      "Kneading Onward",
+      "Contradiction",
+      "Abaye: Chutz L'aretz",
+      "Objection",
+      "Seven Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the fourth baraita establishing that a worker may eat while melacha for challa is incomplete, then raises the contradiction about ma'aser completion \u2014 exactly what heading 0 ('Pre-Challa Stage') describes, before the subsequent headings address the exclusion and the contradiction separately.",
+      "chosen_heading": "Pre-Challa Stage",
+      "current_heading": "Pre-Challa Stage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Seven Years",
+    "candidates": [
+      "Kneading Onward",
+      "Contradiction",
+      "Abaye: Chutz L'aretz",
+      "Objection",
+      "Seven Years",
+      "Ravina Synthesis",
+      "Interpretations"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Objection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both the chutz la'aretz objection (challa also doesn't apply there) AND the seven-years resolution \u2014 matching candidates 3 and 4 \u2014 but the challa objection prose in candidate 3 ('ei hachi challa nami lika') is precisely what item 1 opens with before pivoting to the seven-years answer, making candidate 3 the better single home; however since item 1 covers both the objection and the resolution, the split is cleaner: item 1 belongs under 'Seven Years' (candidate 4) which explicitly covers both the chutz la'aretz rejection and the sheva shekavshu answer as one unit.",
+      "second_heading": "Seven Years",
+      "second_confidence": "high",
+      "second_reason": "Item 2 ('midi maaser ka garim, gemar melacha ka garim') is the decisive reframing explicitly quoted and discussed in candidate 4's prose under 'Seven Years'.",
+      "current_heading": "Seven Years",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Interpretations",
+    "candidates": [
+      "Ravina Synthesis",
+      "Interpretations",
+      "Charring Issue",
+      "Wine & Brine",
+      "Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's synthesis combining the two baraitot, which is precisely what the 'Ravina Synthesis' section's prose describes, not the 'Interpretations' section where it currently sits.",
+      "chosen_heading": "Ravina Synthesis",
+      "current_heading": "Interpretations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Distinction",
+    "candidates": [
+      "Charring Issue",
+      "Wine & Brine",
+      "Distinction",
+      "No Charring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the baraita about the homeowner giving wine and workers dipping bread in brine, which is precisely what the 'Wine & Brine' section's prose describes and analyzes.",
+      "chosen_heading": "Wine & Brine",
+      "current_heading": "Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "No Charring",
+    "candidates": [
+      "Distinction",
+      "No Charring",
+      "Bitur Melacha",
+      "Wife & Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly raises the distinction between fitness of the man versus fitness of the produce (*lachshurei gavra* vs. *lachshurei peira*), which is precisely what candidate 0 ('Distinction') is about, and only incidentally introduces the baraita as a follow-up proof attempt.",
+      "chosen_heading": "Distinction",
+      "current_heading": "No Charring",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Wife & Children",
+    "candidates": [
+      "Bitur Melacha",
+      "Wife & Children",
+      "Methods Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection explaining that the prohibition is due to bitul melacha (neglect of labor), which is precisely what candidate 0's prose discusses, even though it ends by introducing the wife-and-children refinement.",
+      "chosen_heading": "Bitur Melacha",
+      "current_heading": "Wife & Children",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Methods Forbidden",
+    "candidates": [
+      "Wife & Children",
+      "Methods Forbidden",
+      "Hand Crushing OK",
+      "Question",
+      "Rock Argument",
+      "Harvesting Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the baraita about forbidden methods (fire, earth, rock) and the explanation that the prohibitions are due to neglect of labor, which is precisely what 'Methods Forbidden' prose describes.",
+      "chosen_heading": "Methods Forbidden",
+      "current_heading": "Methods Forbidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Harvesting Rights",
+    "candidates": [
+      "Hand Crushing OK",
+      "Question",
+      "Rock Argument",
+      "Harvesting Rights",
+      "Bread Prohibition",
+      "Salt Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the introductory baraita about laborers harvesting figs, dates, grapes, and olives who may eat and are exempt from tithes, which matches exactly what the 'Harvesting Rights' prose describes as a comprehensive baraita summarizing worker's rights across the four major agricultural products.",
+      "chosen_heading": "Harvesting Rights",
+      "current_heading": "Harvesting Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Salt Prohibition",
+    "candidates": [
+      "Bread Prohibition",
+      "Salt Prohibition",
+      "Non-Harvest",
+      "Harvest Work"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly confirms that salt is treated as a form of davar acher, which is precisely what the 'Salt Prohibition' section's prose discusses.",
+      "chosen_heading": "Salt Prohibition",
+      "current_heading": "Salt Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Harvest Work",
+    "candidates": [
+      "Non-Harvest",
+      "Harvest Work",
+      "Paid Deal",
+      "Salt with Deal",
+      "Paid Deal Unrestricted",
+      "Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This passage covers the entire baraita \u2014 non-harvest workers who may not eat, harvest workers who may eat, the katzatz arrangement (one-by-one vs. two-by-two), and the salt permission \u2014 and the 'Non-Harvest' heading is where this full baraita is first introduced as a contradiction to the earlier ruling, making it the natural home for the complete quoted text.",
+      "chosen_heading": "Non-Harvest",
+      "current_heading": "Harvest Work",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Contradiction",
+    "candidates": [
+      "Paid Deal",
+      "Salt with Deal",
+      "Paid Deal Unrestricted",
+      "Contradiction",
+      "Abaye's Tfisah",
+      "Rava's Objection",
+      "Quantity Factor",
+      "Purchase Factor",
+      "Two Scenarios",
+      "Normal Worker",
+      "Worker + Salt",
+      "Even with Permission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks 'to which section does this refer?' and argues that if it refers to the latter clause (the paid deal/katzatz case) it is superfluous since the worker may eat however he wishes \u2014 which is precisely the content described in candidate 2 ('Paid Deal Unrestricted'), not the contradiction conclusion in candidate 3.",
+      "chosen_heading": "Paid Deal Unrestricted",
+      "current_heading": "Contradiction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149
+    ],
+    "current_heading": "Even with Permission",
+    "candidates": [
+      "Abaye's Tfisah",
+      "Rava's Objection",
+      "Quantity Factor",
+      "Purchase Factor",
+      "Two Scenarios",
+      "Normal Worker",
+      "Worker + Salt",
+      "Even with Permission",
+      "Sheaf Verse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Objection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Abaye's geographic distinction AND Rava's objection to it, matching candidate 1 ('Rava's Objection') whose prose explicitly discusses Rava rejecting Abaye's distinction with the same reasoning.",
+      "second_heading": "Quantity Factor",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rava's own resolution introducing the quantity factor (one vs. two fruits) and the salt/dipping combination creating tfisah, which matches candidate 2 ('Quantity Factor') whose prose describes exactly this universal resolution about single vs. two fruits establishing gmar melacha.",
+      "current_heading": "Even with Permission",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      155
+    ],
+    "current_heading": "Sheaf Verse",
+    "candidates": [
+      "Even with Permission",
+      "Sheaf Verse",
+      "Goren Stage",
+      "Two-Item Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Mattana's citation of the verse 'ki kivtzam ka-amir gorna' as the textual source for the two-at-a-time dipping rule, which is precisely what the 'Sheaf Verse' section's prose describes.",
+      "chosen_heading": "Sheaf Verse",
+      "current_heading": "Sheaf Verse",
+      "moved": false
+    }
+  }
+]

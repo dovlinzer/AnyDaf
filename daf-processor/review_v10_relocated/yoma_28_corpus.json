@@ -1,0 +1,306 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Interim Avodah Question",
+    "candidates": [
+      "Prior Analysis Review",
+      "Rav Assi Statement",
+      "Final vs Interim Avodot",
+      "Rav Zeira Challenge",
+      "New Wood Placement",
+      "Alternative Challenge",
+      "Interim Avodah Question",
+      "Rashi Copyover Theory",
+      "Night vs Day Redux"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents the 'ika d'amri' alternative version of Rav Zeira's challenge, which is precisely what the 'Alternative Challenge' section (index 5) introduces \u2014 the prose there explicitly sets up this alternative framing at the bottom of 27b.",
+      "chosen_heading": "Alternative Challenge",
+      "current_heading": "Interim Avodah Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Night vs Day Redux",
+    "candidates": [
+      "Rashi Copyover Theory",
+      "Night vs Day Redux",
+      "Two Logs Final Work",
+      "Rava's Lottery Q"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Night vs Day Redux",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains exactly the eivarim/fedarim and terumas ha-deshen questions with their answers and the ela kashya conclusion, which is precisely what the 'Night vs Day Redux' prose walks through in detail.",
+      "second_heading": "Two Logs Final Work",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Ashi's restatement of Rabbi Yochanan's ruling about the two logs as an avodah tamah, which is exactly what the 'Two Logs Final Work' prose describes and analyzes.",
+      "current_heading": "Night vs Day Redux",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Rava's Lottery Q",
+    "candidates": [
+      "Two Logs Final Work",
+      "Rava's Lottery Q",
+      "Braita Lottery Link",
+      "Final Avodot Lottery",
+      "Lottery Context Q's",
+      "Final Lottery Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Lottery Q",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's objection that placing the two logs should require a lottery, which matches heading 1 ('Rava's Lottery Q') whose prose describes exactly this challenge.",
+      "second_heading": "Braita Lottery Link",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the gemara's clarification of what Rava actually meant (a separate lottery by itself) and the answer citing the beraita linking the two-logs lottery to terumas ha-deshen, which matches heading 2 ('Braita Lottery Link') whose prose describes the beraita response and the subsuming of the two-logs placement within the terumas ha-deshen lottery.",
+      "current_heading": "Rava's Lottery Q",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Final Lottery Rule",
+    "candidates": [
+      "Braita Lottery Link",
+      "Final Avodot Lottery",
+      "Lottery Context Q's",
+      "Final Lottery Rule",
+      "Daybreak Check"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Lottery Context Q's",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 test Rava's principle about avodah tamah and lottery requirements through challenges about shechitah, limbs/fats, and ash removal \u2014 matching candidate 2's prose about the principle being tested via the shechitah objection and candidate 3's prose about the avodah tamah/avodah she-achar distinction, but items 1-2 specifically correspond to the question-and-answer challenges described in candidate 2's 'Lottery Context Q's' prose.",
+      "second_heading": "Final Lottery Rule",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 discuss Mar Zutra/Rav Ashi's proof from the Mishnah's silence about announcing the log-arrangement time, followed by the Gemara's rejection of that proof \u2014 which matches precisely the extended discussion in candidate 3 ('Final Lottery Rule') about the Mar Zutra/Rav Ashi statement and the Mishnah's silence regarding zman sidur gizrei eitzim.",
+      "current_heading": "Final Lottery Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Daybreak Check",
+    "candidates": [
+      "Daybreak Check",
+      "Moonlight Story",
+      "KG Mikvah",
+      "Purity Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the appointed priest's daybreak check procedure including the barkai call and the moonlight incident, which matches the 'Daybreak Check' prose that discusses exactly these elements (memuneh, barkai, Matya ben Shmuel, and the moonlight error story).",
+      "chosen_heading": "Daybreak Check",
+      "current_heading": "Daybreak Check",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Purity Rules",
+    "candidates": [
+      "Moonlight Story",
+      "KG Mikvah",
+      "Purity Rules",
+      "Braita Formulas",
+      "Geographic Tests",
+      "Workers/Foremen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage states the general Temple purity principle about immersion after defecation and handwashing after urination, which is exactly what the 'Purity Rules' section prose discusses in detail.",
+      "chosen_heading": "Purity Rules",
+      "current_heading": "Purity Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Workers/Foremen",
+    "candidates": [
+      "Braita Formulas",
+      "Geographic Tests",
+      "Workers/Foremen",
+      "Avraham Prayer",
+      "Mincha Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together \u2014 the baraita listing the disputed formulas including Rabbi Yehuda ben Beteira's 'workers' version, and the Gemara's objection/resolution about labor contractors \u2014 form the continuous unit that candidate 2 ('Workers/Foremen') explicitly discusses, including the 'lishkor po'alim' clarification.",
+      "chosen_heading": "Workers/Foremen",
+      "current_heading": "Workers/Foremen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Mincha Timing",
+    "candidates": [
+      "Avraham Prayer",
+      "Mincha Timing",
+      "Prayer Etymology",
+      "Zealousness Q",
+      "Aruch View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Safra's statement about the prayer of Avraham beginning when walls blacken, which is precisely what the 'Avraham Prayer' section's prose discusses as its main topic, introducing tzluta de-Avraham and mi-de-mashchari koslei.",
+      "chosen_heading": "Avraham Prayer",
+      "current_heading": "Mincha Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Aruch View",
+    "candidates": [
+      "Prayer Etymology",
+      "Zealousness Q",
+      "Aruch View",
+      "Rava Counter",
+      "Pesach Shabbat Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yosef's objection and Rava's counter-response citing the baraita about circumcision and Abraham rising early, which matches exactly the prose of candidate 3 ('Rava Counter') rather than candidate 2 where it currently sits.",
+      "chosen_heading": "Rava Counter",
+      "current_heading": "Aruch View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Pesach Shabbat Times",
+    "candidates": [
+      "Rava Counter",
+      "Pesach Shabbat Times",
+      "Noon vs 12:30",
+      "Wall Angle Answer",
+      "Astrologer Answer",
+      "Avot in Yeshiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's challenge to Rav Yosef using the mishna about Passover eve falling on Shabbat eve, which is precisely what the 'Pesach Shabbat Times' section's prose describes \u2014 the mishnah showing that even at maximum urgency, shechitah did not begin before 12:30.",
+      "chosen_heading": "Pesach Shabbat Times",
+      "current_heading": "Pesach Shabbat Times",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Avot in Yeshiva",
+    "candidates": [
+      "Noon vs 12:30",
+      "Wall Angle Answer",
+      "Astrologer Answer",
+      "Avot in Yeshiva",
+      "Kiyam Statement",
+      "Ekev Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form the continuous gemara passage about Avraham sitting in yeshiva \u2014 item 1 introduces the 'zaken ve-yosheiv be-yeshiva' answer and Rabbi Chama's statement, items 2-3 provide the supporting chain of evidence about the Avot and Eliezer \u2014 which is precisely what candidate 3's prose describes in detail.",
+      "chosen_heading": "Avot in Yeshiva",
+      "current_heading": "Avot in Yeshiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Ekev Source",
+    "candidates": [
+      "Kiyam Statement",
+      "Ekev Source",
+      "Eruvi Tavshilin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage details the exact textual debate about the verse 'ekev asher shama Avraham,' the Noahide mitzvot objection, the circumcision counter, and the 'mitzvotai ve-torotai lama li' resolution \u2014 all of which are precisely what the 'Ekev Source' prose describes.",
+      "chosen_heading": "Ekev Source",
+      "current_heading": "Ekev Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Eruvi Tavshilin",
+    "candidates": [
+      "Eruvi Tavshilin",
+      "Challenges & Ramban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that Abraham fulfilled even eiruv tavshilin and derives this from the plural 'torotai,' which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Eruvi Tavshilin",
+      "current_heading": "Eruvi Tavshilin",
+      "moved": false
+    }
+  }
+]

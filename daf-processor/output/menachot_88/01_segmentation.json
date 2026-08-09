@@ -34,8 +34,8 @@
           "timestamp": "03:50"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara Analysis: The Dispute Between Rabbi Meir and Rabbi Yehudah",
@@ -503,5 +503,7 @@
   "amud_b_segment_index": 4,
   "amud_b_timestamp": "34:44",
   "amud_b_micro_title": "Revi'it Sanctity",
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "shiur_start_daf": 88,
+  "shiur_start_amud": "a"
 }

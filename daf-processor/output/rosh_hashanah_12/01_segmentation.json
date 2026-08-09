@@ -24,8 +24,8 @@
           "timestamp": "01:53"
         }
       ],
-      "sefaria_index": 4,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Role of Vegetables in Ma'aser Determination: Prohibition of Cross-Year Tithes",
@@ -43,7 +43,7 @@
           "timestamp": "02:57"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -87,7 +87,7 @@
           "timestamp": "10:37"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -543,5 +543,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "17:00",
+  "amud_b_micro_title": "Picking Moment Decisive",
+  "shiur_start_daf": 11,
+  "shiur_start_amud": "b"
 }

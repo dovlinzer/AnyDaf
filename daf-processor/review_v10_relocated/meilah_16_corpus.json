@@ -1,0 +1,150 @@
+[
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Opening with Achilah",
+    "candidates": [
+      "Me'ilah Combination",
+      "Kodshei/Bedek Combine",
+      "Hana'ah vs. Gezilah",
+      "Rebbi Yanai Position",
+      "Mishnah: Combination",
+      "Neveilah Status",
+      "Sheratzim Tumah",
+      "Rav: Kezayit Amount",
+      "Beyah Question",
+      "Braita Linking",
+      "Parshas Shemini",
+      "Opening with Achilah",
+      "Tumah/Achilah Parallel",
+      "Size Distinction",
+      "Braita Approval",
+      "Alive/Dead Distinction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav: Kezayit Amount",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yehuda/Rav's ruling that eating sheratzim incurs lashes for a kezayit, which is precisely what candidate 7 ('Rav: Kezayit Amount') discusses.",
+      "second_heading": "Braita Linking",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita taught by Rabbi Yosei bar Rabbi \u1e24anina before Rabbi Yochanan about the verse opening with achilah and closing with tumah, which is exactly what candidate 9 ('Braita Linking') describes.",
+      "current_heading": "Opening with Achilah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Alive/Dead Distinction",
+    "candidates": [
+      "Tumah/Achilah Parallel",
+      "Size Distinction",
+      "Braita Approval",
+      "Alive/Dead Distinction",
+      "Abaye's Challenge",
+      "Rav Yosef Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together cover the baraita's lentil-bulk ruling, Rabbi Yochanan's praise, and the resulting difficulty for Rav \u2014 exactly what the 'Braita Approval' prose discusses \u2014 while the resolution (alive/dead) belongs to the next heading ('Alive/Dead Distinction') and is not part of these two items.",
+      "chosen_heading": "Braita Approval",
+      "current_heading": "Alive/Dead Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rav Yosef Response",
+    "candidates": [
+      "Abaye's Challenge",
+      "Rav Yosef Response",
+      "Dead Sheratzim Conclusion",
+      "Limbs No Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's challenge (connecting Rav's statement to the mishnah's 'kol ha-sheratzim') and Rav Yosef's response, but the content begins with Abaye's argument and the prose under heading 0 ('Abaye's Challenge') explicitly describes exactly this exchange \u2014 Abaye arguing that Rav's statement is a commentary on the mishnah covering both alive and dead sheratzim \u2014 making heading 0 the better fit for the complete passage.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Rav Yosef Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Limbs No Minimum",
+    "candidates": [
+      "Dead Sheratzim Conclusion",
+      "Limbs No Minimum",
+      "Lashes/Kezayit",
+      "Muvdalim/Sheratzim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the meitivei about limbs having no minimum measure for tumah and Rabbi Yochanan's ruling that lashes require a kezayit, which is precisely what the 'Limbs No Minimum' prose describes and sets up the contradiction addressed in the next section.",
+      "chosen_heading": "Limbs No Minimum",
+      "current_heading": "Limbs No Minimum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Muvdalim/Sheratzim",
+    "candidates": [
+      "Lashes/Kezayit",
+      "Muvdalim/Sheratzim",
+      "Adda's Objection",
+      "Hivdalti Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Muvdalim/Sheratzim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's resolution about muvdalim, which is exactly what candidate 1 ('Muvdalim/Sheratzim') discusses in detail.",
+      "second_heading": "Adda's Objection",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Adda bar Ahava's challenge about behemah, which is precisely what candidate 2 ('Adda's Objection') is about.",
+      "current_heading": "Muvdalim/Sheratzim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Hivdalti Response",
+    "candidates": [
+      "Adda's Objection",
+      "Hivdalti Response",
+      "Final Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct response distinguishing the juxtaposition for 'bal teshaktzu' from the shiurim, which is precisely what the 'Hivdalti Response' prose describes.",
+      "chosen_heading": "Hivdalti Response",
+      "current_heading": "Hivdalti Response",
+      "moved": false
+    }
+  }
+]

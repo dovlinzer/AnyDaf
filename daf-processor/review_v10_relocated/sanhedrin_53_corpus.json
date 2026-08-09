@@ -1,0 +1,515 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Hereg Mishna",
+    "candidates": [
+      "Hereg Mishna",
+      "Roman Execution",
+      "Secular Mimicry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself describing the method of decapitation and the debate between Rabbi Yehuda and the Chachamim, which is precisely what the 'Hereg Mishna' prose section discusses.",
+      "chosen_heading": "Hereg Mishna",
+      "current_heading": "Hereg Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Secular Mimicry",
+    "candidates": [
+      "Roman Execution",
+      "Secular Mimicry",
+      "Torah-Derived Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita explicitly quotes Rabbi Yehuda's statement that despite the degrading nature of the death, he must oppose the sword because of 'uvchukoseihem lo telechu' \u2014 exactly what the 'Secular Mimicry' prose discusses as his halakhic concern about mimicking Roman execution practice.",
+      "chosen_heading": "Secular Mimicry",
+      "current_heading": "Secular Mimicry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Torah-Derived Practice",
+    "candidates": [
+      "Torah-Derived Practice",
+      "Bechukoteihem Parameters",
+      "Hereg Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the Rabbis' response that sword-execution is Torah-derived and therefore not learned from gentiles, supported by the funeral-pyre parallel \u2014 precisely the content described in the 'Torah-Derived Practice' prose.",
+      "chosen_heading": "Torah-Derived Practice",
+      "current_heading": "Torah-Derived Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Hereg Categories",
+    "candidates": [
+      "Bechukoteihem Parameters",
+      "Hereg Categories",
+      "Nekem Yinakeim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishna listing those who receive hereg (the murderer and ir ha'nidachat), notes that ir ha'nidachat has explicit scriptural basis (lefi charev), and raises the question of the murderer's source \u2014 exactly what the 'Hereg Categories' prose describes.",
+      "chosen_heading": "Hereg Categories",
+      "current_heading": "Hereg Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Nekem Yinakeim",
+    "candidates": [
+      "Nekem Yinakeim",
+      "Nekima Sword",
+      "Ve-Ahavta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the baraita deriving 'nekima' as sword-death from the juxtaposition of Exodus 21:20 and Leviticus 26:25, plus the follow-up question about stabbing vs. cutting, which is precisely what heading 0's prose describes as the content of that section.",
+      "chosen_heading": "Nekem Yinakeim",
+      "current_heading": "Nekem Yinakeim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Ve-Ahavta",
+    "candidates": [
+      "Nekima Sword",
+      "Ve-Ahavta",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose of 'Nekima Sword' explicitly states 'A second question: perhaps the cutting should be done not at the neck but along the length of the body? This leads directly to the first invocation of ve-ahavta le-reiacha kamocha,' indicating this passage belongs as the culmination of that section, not as a standalone section under 'Ve-Ahavta.'",
+      "chosen_heading": "Nekima Sword",
+      "current_heading": "Ve-Ahavta",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Ve-Ahavta",
+      "Kal Vachomer",
+      "Severity Debate",
+      "Hukshu Paradigm"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kal Vachomer",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present the question about the source for executing a freeman and the kal vachomer answer, which is precisely what the 'Kal Vachomer' section's prose describes.",
+      "second_heading": "Severity Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the objection about the severity debate (chenek kal vs. chenek chamur), which is exactly what the 'Severity Debate' section's prose addresses.",
+      "current_heading": "Kal Vachomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Hukshu Paradigm",
+    "candidates": [
+      "Severity Debate",
+      "Hukshu Paradigm",
+      "Egla Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives the sword-at-neck method from the egla arufa verse by comparing all murderers to that paradigm, which is precisely what the 'Hukshu Paradigm' prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Hukshu Paradigm",
+      "current_heading": "Hukshu Paradigm",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Egla Method",
+    "candidates": [
+      "Egla Method",
+      "Chenek Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the egla arufa paradigm, the question of whether execution should use a cleaver at the nape of the neck, and Rav Nachman's answer invoking 've-ahavta le-reiacha kamocha' to select a more compassionate method \u2014 all of which directly matches the prose in candidate 0 ('Egla Method').",
+      "chosen_heading": "Egla Method",
+      "current_heading": "Egla Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Chenek Method",
+    "candidates": [
+      "Chenek Method",
+      "Mot Yumat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna describing the method of chenek (strangulation), which directly corresponds to the 'Chenek Method' section's prose that paraphrases exactly this Mishna text.",
+      "chosen_heading": "Chenek Method",
+      "current_heading": "Chenek Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Mot Yumat",
+    "candidates": [
+      "Mot Yumat",
+      "Lightest Default",
+      "Logical Corollary",
+      "Natural Death",
+      "Divine Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under heading 0 ('Mot Yumat') explicitly covers all three items: the baraita parsing 'ish/eishet ish/eishet rei'eihu' (items 1), the argument for chenek as default via leniency (item 2, Rabbi Yoshiya), and the current placement already contains this full discussion, making it the clearest match.",
+      "chosen_heading": "Mot Yumat",
+      "current_heading": "Mot Yumat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Divine Death",
+    "candidates": [
+      "Lightest Default",
+      "Logical Corollary",
+      "Natural Death",
+      "Divine Death",
+      "Rava's Tradition",
+      "Unspecified Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items directly correspond to the content described in the 'Divine Death' prose: items 1-2 cover Rabbi Yehuda HaNasi's derivation from 'misah bidei shamayim' leaving no mark and the rejection of sreifah via the bat kohen inference, while item 3 raises the challenge about Rabbi Yoshiyah's basis for chenek's existence \u2014 all of which are explicitly described in that section's prose.",
+      "chosen_heading": "Divine Death",
+      "current_heading": "Divine Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Unspecified Cases",
+    "candidates": [
+      "Rava's Tradition",
+      "Unspecified Cases",
+      "Which Phrase?",
+      "Ov Yidoni"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Tradition",
+      "first_confidence": "high",
+      "first_reason": "Rava's statement that the four death penalties are learned as a tradition is precisely the content described in the 'Rava's Tradition' prose, which explicitly paraphrases 'arba misos gemara gemiri lehu' as resolving the question of how we know there are exactly four modes.",
+      "second_heading": "Unspecified Cases",
+      "second_confidence": "high",
+      "second_reason": "The question about what Rabbi Yonatan means by 'not because it is lenient' and its connection to the dispute between Rabbi Shimon and the Rabbis is the closing content described in the 'Unspecified Cases' prose, which ends by noting this disagreement maps onto the Rabbi Shimon/Rabbis dispute.",
+      "current_heading": "Unspecified Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Ov Yidoni",
+    "candidates": [
+      "Which Phrase?",
+      "Ov Yidoni",
+      "Demihem Bam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the question-and-answer exchange between Rabbi Zeira and Abaye about which phrase ('mot yumasu' or 'demeihem bam') serves as the basis for deriving stoning, which is precisely what candidate 0 ('Which Phrase?') describes \u2014 the posing of that question and its significance \u2014 rather than candidate 1 ('Ov Yidoni') which discusses the anchor verse itself, or candidate 2 ('Demihem Bam') which discusses Abaye's answer and its elaboration in the braita.",
+      "chosen_heading": "Which Phrase?",
+      "current_heading": "Ov Yidoni",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Demihem Bam",
+    "candidates": [
+      "Ov Yidoni",
+      "Demihem Bam",
+      "Mot Yumasu License",
+      "Mot Yumasu Disqualified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about 'mot yumat hamakeh' and executing by any available means is precisely what the prose in 'Demihem Bam' describes as the function of mot yumat \u2014 establishing the license to execute by other means \u2014 which is the specific content of this passage.",
+      "chosen_heading": "Demihem Bam",
+      "current_heading": "Demihem Bam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Mot Yumasu Disqualified",
+    "candidates": [
+      "Mot Yumasu License",
+      "Mot Yumasu Disqualified",
+      "Full List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rav A\u1e25a of Difti/Ravina dialogue working through the adultery and parent-wounding cases to identify why *mot yumasu* cannot be the *sekilah* indicator, which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Mot Yumasu Disqualified",
+      "current_heading": "Mot Yumasu Disqualified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Full List",
+    "candidates": [
+      "Full List",
+      "Cursing Parents",
+      "Mother Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna listing all those who are stoned, which directly corresponds to the 'Full List' section prose that analyzes the complete enumeration of stoning offenses.",
+      "chosen_heading": "Full List",
+      "current_heading": "Full List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Mother Case",
+    "candidates": [
+      "Cursing Parents",
+      "Mother Case",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mother Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers the mother case with Rabbi Yehuda's dissent, which is precisely what headings 1 and 2 discuss, with heading 1 being the broader home for this mishna unit.",
+      "second_heading": "Rabbi Yehuda",
+      "second_confidence": "low",
+      "second_reason": "Items 2-3 introduce new mishna cases (father's wife standalone, daughter-in-law) that are not explicitly covered in any candidate prose, but heading 2 is the closest available option after the structural seam.",
+      "current_heading": "Mother Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Rabbi Yehuda",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Braita Version",
+      "Not Fit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita presenting Rabbi Yehuda's conditional position ('if his mother was not suitable for his father'), which precisely matches the 'Braita Version' prose describing this more restricted form of Rabbi Yehuda's view with the exact phrase 'im lo hayesa imo reuia le-aviv.'",
+      "chosen_heading": "Braita Version",
+      "current_heading": "Rabbi Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Not Fit",
+    "candidates": [
+      "Braita Version",
+      "Not Fit",
+      "Rabbi Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question 'what does not fit mean?' and the first possibility being chayavei karisos/misos beis din \u2014 exactly the content described in the 'Not Fit' section's prose.",
+      "chosen_heading": "Not Fit",
+      "current_heading": "Not Fit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Rabbi Akiva",
+    "candidates": [
+      "Rabbi Akiva",
+      "Rav Oshaia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly establishes that Rabbi Yehuda holds like Rabbi Akiva that kiddushin does not take effect with chayavei lavin, which is precisely what the 'Rabbi Akiva' section's prose discusses.",
+      "chosen_heading": "Rabbi Akiva",
+      "current_heading": "Rabbi Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149,
+      150,
+      151,
+      152
+    ],
+    "current_heading": "Rav Oshaia",
+    "candidates": [
+      "Rav Oshaia",
+      "Terminology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items constitute the continuous objection raised by Rav Oshaya \u2014 the mishna's text, its two category definitions, Rabbi Yehuda's terminological switch, and the Gemara's inference that Rabbi Yehuda cannot hold like Rabbi Akiva \u2014 which is precisely what the 'Rav Oshaia' prose section describes.",
+      "chosen_heading": "Rav Oshaia",
+      "current_heading": "Rav Oshaia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155
+    ],
+    "current_heading": "Terminology",
+    "candidates": [
+      "Terminology",
+      "Rav Yitzchak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's resolution that Rabbi Yehuda spoke according to the first tanna's framework without holding that view himself, which is precisely what the 'Terminology' section's prose discusses.",
+      "chosen_heading": "Terminology",
+      "current_heading": "Terminology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Rav Yitzchak",
+    "candidates": [
+      "Rav Yitzchak",
+      "Imcha Hi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the statement of Rav Yitzchak bringing the baraita matching the mishna's formulation of Rabbi Yehuda's position, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rav Yitzchak",
+      "current_heading": "Rav Yitzchak",
+      "moved": false
+    }
+  }
+]

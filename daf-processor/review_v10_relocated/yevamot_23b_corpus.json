@@ -1,0 +1,356 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rashi's Explanation",
+    "candidates": [
+      "Opening & Context",
+      "Two Sisters Scenario",
+      "Binding Nature Question",
+      "Rashi's Explanation",
+      "Arayos vs. Lo Ta'aseh",
+      "Tosafot's Distinction",
+      "Gemara's Resolution",
+      "Language Analysis",
+      "Seifa's Role",
+      "One Brother Case",
+      "Two Brothers Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes the Gemara's resolution that the mishnah deals with a case where identities were originally known and later mixed up (hukru u'vasof nit'arvu), which is exactly what the 'Gemara's Resolution' section prose describes.",
+      "chosen_heading": "Gemara's Resolution",
+      "current_heading": "Rashi's Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Two Brothers Case",
+    "candidates": [
+      "Arayos vs. Lo Ta'aseh",
+      "Tosafot's Distinction",
+      "Gemara's Resolution",
+      "Language Analysis",
+      "Seifa's Role",
+      "One Brother Case",
+      "Two Brothers Case",
+      "Scenario Setup",
+      "One Brother Dies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the gemara asking 'what is the mishna teaching us' and answering that the seifa (last clause) is the chiddush \u2014 precisely what the 'Seifa's Role' prose describes as 'seifa itztricha lei.'",
+      "chosen_heading": "Seifa's Role",
+      "current_heading": "Two Brothers Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "One Brother Dies",
+    "candidates": [
+      "Scenario Setup",
+      "One Brother Dies",
+      "Both Men Die"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the validity of betrothals that cannot lead to consummation, derived from the mishna case of two men who betrothed two sisters \u2014 this is the introductory scenario setup, not the later rulings about what happens when one or both brothers die.",
+      "chosen_heading": "Scenario Setup",
+      "current_heading": "One Brother Dies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Both Men Die",
+    "candidates": [
+      "One Brother Dies",
+      "Both Men Die",
+      "Why No Yibum First",
+      "Complex Setup",
+      "Solution Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the 'both men die' scenario where one husband left one brother and the other left two brothers, asking about the novelty of the ruling and answering that it prevents a possible decree \u2014 exactly matching the prose of candidate 1.",
+      "chosen_heading": "Both Men Die",
+      "current_heading": "Both Men Die",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Solution Strategy",
+    "candidates": [
+      "Why No Yibum First",
+      "Complex Setup",
+      "Solution Strategy",
+      "Removing the Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly explains why chalitzah must come before yibum (to avoid the prohibition of yevamah lashuk), which directly matches the 'Removing the Problem' section's prose about the mandatory ordered sequence and why the mishnah teaches it explicitly.",
+      "chosen_heading": "Removing the Problem",
+      "current_heading": "Solution Strategy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Removing the Problem",
+    "candidates": [
+      "Solution Strategy",
+      "Removing the Problem",
+      "Certain Marriage Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Removing the Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is exactly the Gemara question-and-answer about why the 'two brothers each' clause was necessary, which the prose of 'Removing the Problem' explicitly describes.",
+      "second_heading": "Certain Marriage Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the comparison to the four-brothers mishna (umai shena), which is the precise question the prose of 'Certain Marriage Case' says the gemara asks and then elaborates upon.",
+      "current_heading": "Removing the Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Certain Marriage Case",
+    "candidates": [
+      "Certain Marriage Case",
+      "Why Both Chalitzah",
+      "Rashi's Explanation (II)",
+      "Bitul Mitzvas Yevamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's rejection of a comparison and then explains the distinction between the certain case and the uncertain case using the yesh zikah / bitul mitzvas yevamim framework \u2014 exactly the content that candidate 3 ('Bitul Mitzvas Yevamim') discusses in its prose.",
+      "chosen_heading": "Bitul Mitzvas Yevamim",
+      "current_heading": "Certain Marriage Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Bitul Mitzvas Yevamim",
+    "candidates": [
+      "Why Both Chalitzah",
+      "Rashi's Explanation (II)",
+      "Bitul Mitzvas Yevamim",
+      "Uncertain Case Tolerated",
+      "Yibum Allowed",
+      "Kohanim Question",
+      "Chalutza Status",
+      "Safek Chalutza Leniency",
+      "Chalutza Source Debate",
+      "Gadol Preference",
+      "Younger Brother Valid",
+      "Verse Reading",
+      "Fertile Woman Requirement",
+      "Inheritance Aspect",
+      "Name Continuation",
+      "No Peshat Value",
+      "Gezeirah Shavah Effect"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 2,
+      "split2": 3,
+      "first_heading": "Chalutza Status",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 discusses the ruling that kohanim who married before consulting the court need not divorce, and introduces the baraita about chalutza being d'rabanan \u2014 matching heading 6 ('Chalutza Status') which explains the chalutza concern when both brothers are kohanim.",
+      "second_heading": "Younger Brother Valid",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the mishna stating 'mitzvah be-gadol le-yabbem' \u2014 the mitzva falls on the eldest brother \u2014 which directly matches heading 10 ('Younger Brother Valid') whose prose opens with exactly this mishna statement.",
+      "third_heading": "Inheritance Aspect",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 contains the gemara deriving from 've-haya ha-bechor' that the eldest performs yibum, and from 'asher teleid' that an aylonit is excluded, and from 'yakum al shem achiv' that the brother inherits \u2014 matching heading 13 ('Inheritance Aspect') and its preceding derivations about the aylonit exclusion and inheritance reading.",
+      "current_heading": "Bitul Mitzvas Yevamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Gezeirah Shavah Effect",
+    "candidates": [
+      "Uncertain Case Tolerated",
+      "Yibum Allowed",
+      "Kohanim Question",
+      "Chalutza Status",
+      "Safek Chalutza Leniency",
+      "Chalutza Source Debate",
+      "Gadol Preference",
+      "Younger Brother Valid",
+      "Verse Reading",
+      "Fertile Woman Requirement",
+      "Inheritance Aspect",
+      "Name Continuation",
+      "No Peshat Value",
+      "Gezeirah Shavah Effect",
+      "Peshat Eradication",
+      "Direct Address Issue",
+      "General Address",
+      "Brother vs. Father",
+      "Beit Din Address",
+      "All About Brother"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "Both items directly concern the 'vel-o yimache shemo' phrase and the exclusion of a saris, followed by Rava's observation about the gezeirah shavah removing the verse from its peshat \u2014 exactly what candidate 12 ('No Peshat Value') describes, not candidate 13 which discusses Rava's broader principle without the saris derivation that item 1 contains.",
+      "chosen_heading": "No Peshat Value",
+      "current_heading": "Gezeirah Shavah Effect",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "All About Brother",
+    "candidates": [
+      "Peshat Eradication",
+      "Direct Address Issue",
+      "General Address",
+      "Brother vs. Father",
+      "Beit Din Address",
+      "All About Brother",
+      "Bechor Exclusivity Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses who the Torah is speaking to in the verse \u2014 the *yavam* or the court \u2014 which matches the 'General Address' section's prose about probing whom the verse addresses, with the second-person vs. third-person argument about *yavam* being addressed.",
+      "chosen_heading": "General Address",
+      "current_heading": "All About Brother",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Bechor Exclusivity Theory",
+    "candidates": [
+      "All About Brother",
+      "Bechor Exclusivity Theory",
+      "Proof from Shelo Haya",
+      "Ki Yeshvu Achim",
+      "Younger Brother Valid",
+      "Bechor Presence Theory",
+      "Two Brothers Scenario",
+      "Abbaye's Teaching",
+      "Cascade to Younger",
+      "Preference Question",
+      "Bechor Block Theory",
+      "Gadol Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 2-4 directly address the 'Bechor Exclusivity Theory' challenge \u2014 that only a firstborn may perform yibum \u2014 and its refutation via the 'shelo haya be-olamo' exclusion and the inheritance-from-father principle, which is precisely what heading 2 ('Proof from Shelo Haya') describes; item 1 wraps up the verbal analogy point that sets up this discussion, and all four items form one continuous chain under that heading.",
+      "chosen_heading": "Proof from Shelo Haya",
+      "current_heading": "Bechor Exclusivity Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164
+    ],
+    "current_heading": "Gadol Language",
+    "candidates": [
+      "Proof from Shelo Haya",
+      "Ki Yeshvu Achim",
+      "Younger Brother Valid",
+      "Bechor Presence Theory",
+      "Two Brothers Scenario",
+      "Abbaye's Teaching",
+      "Cascade to Younger",
+      "Preference Question",
+      "Bechor Block Theory",
+      "Gadol Language",
+      "Gadol Default",
+      "Ke-Bechor Derash",
+      "Inheritance Exclusivity",
+      "Universal Application",
+      "Terminology Question",
+      "Privilege Limitation",
+      "Bechor: Not Prospect",
+      "Yavam's Inheritance",
+      "Property Scenario",
+      "Actual Possession",
+      "Prospective Property",
+      "Gra's Girsa",
+      "Debt Collection",
+      "No Double Portion",
+      "Rau'i Status",
+      "Land Collection",
+      "Machloket on Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "low",
+      "reason": "The passage forms one continuous chain of challenges and answers about bechor/yibum laws; items 1-2 directly match candidate 3's prose about 'u-meit echad mehem' and 'shelo haya be-olamo' establishing that bechor presence is not a precondition, though later items span beyond that heading's scope.",
+      "chosen_heading": "Bechor Presence Theory",
+      "current_heading": "Gadol Language",
+      "moved": true
+    }
+  }
+]

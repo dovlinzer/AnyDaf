@@ -1,0 +1,296 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Sons with Fathers",
+    "candidates": [
+      "Nasi Standing",
+      "Av Beit Din Pathway",
+      "Chacham Wave",
+      "Sons/Students Rules",
+      "Returning Seats",
+      "Sons with Fathers",
+      "Weddings Extension",
+      "Urine vs Defecation",
+      "Planning Ahead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage describes exactly the rules for sons of talmidei chachamim whose fathers are community leaders sitting before their fathers facing forward or backward depending on their capacity to learn, which is precisely what the 'Sons with Fathers' section's prose discusses.",
+      "chosen_heading": "Sons with Fathers",
+      "current_heading": "Sons with Fathers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Planning Ahead",
+    "candidates": [
+      "Weddings Extension",
+      "Urine vs Defecation",
+      "Planning Ahead",
+      "Rava's Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full discussion including Rav Pappa's distinction between minor and major bodily functions, the 'examine himself beforehand' principle, Rav Yehuda/Rav's teaching on planning ahead, and Rava's leniency \u2014 all of which are introduced and contextualized under the 'Urine vs Defecation' heading's prose, which explicitly references all these elements as part of one continuous unit.",
+      "chosen_heading": "Urine vs Defecation",
+      "current_heading": "Planning Ahead",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rava's Leniency",
+    "candidates": [
+      "Planning Ahead",
+      "Rava's Leniency",
+      "Equal Standing",
+      "Honor Reform"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Elazar bar Rabbi Tzadok and Rava's clarification regarding children of Torah scholars as 'attachments' (snifin) at wedding parties is explicitly discussed and explained in the prose of candidate 1, 'Rava's Leniency.'",
+      "chosen_heading": "Rava's Leniency",
+      "current_heading": "Rava's Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Honor Reform",
+    "candidates": [
+      "Equal Standing",
+      "Honor Reform",
+      "Conspiracy Plan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the historical context of who held which role and how everyone rose equally for all three leaders \u2014 content that precisely matches the 'Equal Standing' section's prose, which covers the period before the reform when no distinction was made.",
+      "chosen_heading": "Equal Standing",
+      "current_heading": "Honor Reform",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Conspiracy Plan",
+    "candidates": [
+      "Honor Reform",
+      "Conspiracy Plan",
+      "Warning Signal",
+      "Uktzin Study",
+      "Challenge Fails"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Conspiracy Plan",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the discovery of the honor reform and the conspiracy plan (Rabbi Meir and Rabbi Natan plotting to remove Rabban Gamliel), which matches the 'Conspiracy Plan' prose exactly.",
+      "second_heading": "Warning Signal",
+      "second_confidence": "high",
+      "second_reason": "Item 3 describes Rabbi Yaakov ben Korshai overhearing the plot and studying Uktzin aloud to warn Rabban Gamliel, which matches the 'Warning Signal' prose exactly.",
+      "current_heading": "Conspiracy Plan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Challenge Fails",
+    "candidates": [
+      "Warning Signal",
+      "Uktzin Study",
+      "Challenge Fails",
+      "Expulsion Notes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the challenge attempt by Rabbi Meir and Rabbi Natan, Rabban Gamliel's successful response teaching Uktzin, and his revelation that he knew their intent \u2014 precisely what 'Challenge Fails' prose describes.",
+      "chosen_heading": "Challenge Fails",
+      "current_heading": "Challenge Fails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Expulsion Notes",
+    "candidates": [
+      "Expulsion Notes",
+      "Reinstatement Punishment",
+      "Anonymous Attribution",
+      "Dream Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the expulsion, the note-passing system, and Rabbi Yosei's observation \u2014 all of which are explicitly covered by the 'Expulsion Notes' prose, which is the current placement.",
+      "chosen_heading": "Expulsion Notes",
+      "current_heading": "Expulsion Notes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Dream Reconciliation",
+    "candidates": [
+      "Reinstatement Punishment",
+      "Anonymous Attribution",
+      "Dream Reconciliation",
+      "Father Honor",
+      "Rebbi Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all elements from reinstatement and punishment through anonymous attribution and the dream/reconciliation episode in one continuous text, and the earliest section heading ('Reinstatement Punishment') is where this unified passage should sit, as it encompasses the full sequence beginning with Rabban Shimon ben Gamliel's decision to readmit them with a penalty.",
+      "chosen_heading": "Reinstatement Punishment",
+      "current_heading": "Dream Reconciliation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Rebbi Teaching",
+    "candidates": [
+      "Father Honor",
+      "Rebbi Teaching",
+      "Swords Remain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form exactly the passage described in the 'Rebbi Teaching' prose \u2014 Rabbi Yehuda HaNasi teaching his son the acherim ruling and the son asking why their names are suppressed, with Rebbi's reply about protecting the honor of his father's house.",
+      "chosen_heading": "Rebbi Teaching",
+      "current_heading": "Rebbi Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Swords Remain",
+    "candidates": [
+      "Swords Remain",
+      "Question Posed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly covers the dialogue between Rabbi Shimon and his father about the verses on love/hatred perishing and enemies' desolation, Rabbi Shimon's argument that their actions failed, and the shift to 'amru mishum Rabbi Meir' with Rava's observation \u2014 all precisely matching the prose under 'Swords Remain'.",
+      "chosen_heading": "Swords Remain",
+      "current_heading": "Swords Remain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Question Posed",
+    "candidates": [
+      "Question Posed",
+      "Yosef vs Rabbah",
+      "Sinai Preferred",
+      "Office Succession",
+      "Rav Yosef Deference",
+      "Teaching Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Question Posed",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the dispute between Rabban Shimon ben Gamliel and the Rabbis about Sinai vs. oker harim, which is exactly what heading 0 'Question Posed' discusses.",
+      "second_heading": "Yosef vs Rabbah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the practical case of Rav Yosef vs. Rabbah, the sending to Eretz Yisrael, the ruling that Sinai is preferable, and the succession \u2014 which spans headings 1-4, but heading 1 'Yosef vs Rabbah' is the opening of that narrative block and is the best single anchor for where this item begins.",
+      "current_heading": "Question Posed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Teaching Challenge",
+    "candidates": [
+      "Yosef vs Rabbah",
+      "Sinai Preferred",
+      "Office Succession",
+      "Rav Yosef Deference",
+      "Teaching Challenge",
+      "Abaye Prevails",
+      "Zeira vs Masna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes the scene where Abaye, Rava, Rabbi Zeira, and Rabbah bar Matna sit together and need a head for their group, agreeing that whoever says something unrefuted will lead \u2014 which is exactly what the 'Teaching Challenge' prose describes.",
+      "chosen_heading": "Teaching Challenge",
+      "current_heading": "Teaching Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Zeira vs Masna",
+    "candidates": [
+      "Abaye Prevails",
+      "Zeira vs Masna",
+      "Teyku Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Zeira vs Masna",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Zeira vs Rabba bar Rav Mattana dilemma, which is precisely what the 'Zeira vs Masna' section's prose discusses.",
+      "second_heading": "Teyku Conclusion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the hadran/closing formula (Teyku + Hadran alach), which matches the 'Teyku Conclusion' section's prose that explicitly mentions both the unresolved teiku and the Hadran alach Masechet Horayot.",
+      "current_heading": "Zeira vs Masna",
+      "moved": true
+    }
+  }
+]

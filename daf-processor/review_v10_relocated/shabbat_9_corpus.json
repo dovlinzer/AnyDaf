@@ -1,0 +1,242 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Nach vs. Lo Nach",
+    "candidates": [
+      "Ledge Definition",
+      "Three Party Exemption",
+      "Rava's Kashya",
+      "Rashi on Derech",
+      "Tosafot Interpretation",
+      "Nach vs. Lo Nach",
+      "Iskofah Case",
+      "Door Open Status",
+      "Door Closed Status",
+      "Physical Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's challenge to Rava (leima tehavi tiyuvta de-Rava) and its resolution (hatam lo nach, hacha nach), which is precisely what candidate 2 'Rava's Kashya' describes \u2014 the question of whether the Tosefta's ruling refutes Rava's position about transferring through a makom patur.",
+      "chosen_heading": "Rava's Kashya",
+      "current_heading": "Nach vs. Lo Nach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Physical Setup",
+    "candidates": [
+      "Iskofah Case",
+      "Door Open Status",
+      "Door Closed Status",
+      "Physical Setup",
+      "Rav Yehuda Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items present the A\u1e25erim ruling from the Tosefta and the Gemara's challenge from Rav \u1e24ama bar Gurya (including the four-by-four variant), which is precisely the content described in the 'Physical Setup' prose \u2014 the standing question about why the open door changes anything given the threshold still lacks a lechi.",
+      "chosen_heading": "Physical Setup",
+      "current_heading": "Physical Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rav Yehuda Answer",
+    "candidates": [
+      "Rav Yehuda Answer",
+      "Beam Efficacy Condition",
+      "Four-by-Four Rule",
+      "Rav Ashi Lavud",
+      "Door Separates Lavud"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda's answer in the name of Rav about the threshold of an alleyway with a partially covered threshold, which is precisely what the 'Rav Yehuda Answer' section's prose describes and analyzes.",
+      "chosen_heading": "Rav Yehuda Answer",
+      "current_heading": "Rav Yehuda Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Door Separates Lavud",
+    "candidates": [
+      "Beam Efficacy Condition",
+      "Four-by-Four Rule",
+      "Rav Ashi Lavud",
+      "Door Separates Lavud",
+      "Four-by-Ten Rule",
+      "Rabbi Meir Two Domains",
+      "Filing Cabinet Gezerah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement introducing the two-beam/lavud construction, which is exactly what the 'Rav Ashi Lavud' section's prose describes and explains.",
+      "chosen_heading": "Rav Ashi Lavud",
+      "current_heading": "Door Separates Lavud",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Filing Cabinet Gezerah",
+    "candidates": [
+      "Four-by-Ten Rule",
+      "Rabbi Meir Two Domains",
+      "Filing Cabinet Gezerah",
+      "Tosafot Limitation",
+      "Prohibited Activities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the threshold ruling supporting Rav Yitzchak bar Avdimi and Rabbi Meir's principle about two domains that are halakhically one, which matches the 'Rabbi Meir Two Domains' prose exactly, not the 'Filing Cabinet Gezerah' section which discusses the reasoning behind the decree.",
+      "chosen_heading": "Rabbi Meir Two Domains",
+      "current_heading": "Filing Cabinet Gezerah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Prohibited Activities",
+    "candidates": [
+      "Tosafot Limitation",
+      "Prohibited Activities",
+      "No Interruption Rule",
+      "Mincha Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text (MISHNA) listing prohibited activities before mincha \u2014 sitting before a barber, entering a bathhouse, tannery, eating, or judging \u2014 which is precisely what the 'Prohibited Activities' section's prose describes and contextualizes.",
+      "chosen_heading": "Prohibited Activities",
+      "current_heading": "Prohibited Activities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Mincha Times",
+    "candidates": [
+      "No Interruption Rule",
+      "Mincha Times",
+      "Rav Yehoshua's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question of which mincha time is meant, rejecting mincha gedola because there is too much time remaining and concluding it must mean mincha ketana \u2014 exactly what the 'Mincha Times' section's prose discusses.",
+      "chosen_heading": "Mincha Times",
+      "current_heading": "Mincha Times",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Rav Yehoshua's Position",
+    "candidates": [
+      "Rav Yehoshua's Position",
+      "Haircut Risk",
+      "Bathhouse Risk",
+      "Tanning Risk",
+      "Eating Risk",
+      "Court Case Risk",
+      "Haircut Begin Point"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous Gemara discussion about reconciling the Mishnah with Rabbi Yehoshua ben Levi's position and then explaining why mincha gedola triggers the restriction \u2014 exactly what candidate 0's prose describes, including the ben Elasha haircut, large tannery, big meal, beginning of trial, and Rav Acha bar Yaakov's alternative explanations (which are summarized within candidate 0's prose as part of the same reconciliation discussion).",
+      "chosen_heading": "Rav Yehoshua's Position",
+      "current_heading": "Rav Yehoshua's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Haircut Begin Point",
+    "candidates": [
+      "Haircut Risk",
+      "Bathhouse Risk",
+      "Tanning Risk",
+      "Eating Risk",
+      "Court Case Risk",
+      "Haircut Begin Point",
+      "Bathhouse Begin Point",
+      "Tanning Begin Point",
+      "Eating Begin Point",
+      "Geographic Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage covers the beginning points of haircut, bath, tannery, and eating \u2014 exactly what headings 5-8 discuss, and it is currently placed under 'Haircut Begin Point' which introduces the topic of when activities are considered begun, matching the passage's content perfectly as a unified Gemara text covering all four beginning-point rulings.",
+      "chosen_heading": "Haircut Begin Point",
+      "current_heading": "Haircut Begin Point",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Geographic Difference",
+    "candidates": [
+      "Bathhouse Begin Point",
+      "Tanning Begin Point",
+      "Eating Begin Point",
+      "Geographic Difference",
+      "Maariv Reshut Rule",
+      "Mincha vs. Maariv",
+      "Drunkenness Factor",
+      "Time Window Difference",
+      "Tosafot Reshut Clarify"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly resolves the dispute between Rav and Rabbi \u1e24anina by explaining it as a geographic difference in customs (Babylonia vs. Eretz Yisrael), which is precisely what the 'Geographic Difference' section's prose describes.",
+      "chosen_heading": "Geographic Difference",
+      "current_heading": "Geographic Difference",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,405 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Intro to Blasphemy",
+    "candidates": [
+      "Intro to Blasphemy",
+      "Kinuy in Examination",
+      "Witness Procedure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Intro to Blasphemy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna introducing the blasphemy liability rule, which matches the 'Intro to Blasphemy' prose that describes exactly this Mishna and its core question.",
+      "second_heading": "Kinuy in Examination",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yehoshua ben Korcha's teaching about using the kinuy 'Yose smite Yose' during witness examination, which matches precisely the 'Kinuy in Examination' prose discussing this very teaching and its rationale.",
+      "current_heading": "Intro to Blasphemy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Witness Procedure",
+    "candidates": [
+      "Kinuy in Examination",
+      "Witness Procedure",
+      "Nokev Shem Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the post-verdict procedure \u2014 clearing the room, the senior witness stating the curse explicitly, judges tearing garments, and subsequent witnesses saying 'af ani kamohu' \u2014 which is precisely what the 'Witness Procedure' prose discusses.",
+      "chosen_heading": "Witness Procedure",
+      "current_heading": "Witness Procedure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Nokev Shem Source",
+    "candidates": [
+      "Nokev Shem Source",
+      "Pierce vs. Curse",
+      "Shem B'Shem Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain deriving the 'shem beshem' requirement from the verse's repetition of 'nokev shem,' identifying nokev as cursing via Balaam, and rejecting the 'piercing' alternative \u2014 exactly what the 'Nokev Shem Source' prose describes.",
+      "chosen_heading": "Nokev Shem Source",
+      "current_heading": "Nokev Shem Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Shem B'Shem Logic",
+    "candidates": [
+      "Pierce vs. Curse",
+      "Shem B'Shem Logic",
+      "Articulation Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both the 'two names stacked and pierced' scenario and the 'name etched on knife' scenario, but the first scenario is already described in candidate 0's prose, and candidate 0's prose explicitly mentions both objections together \u2014 the current placement in candidate 1 is wrong because candidate 1's prose is meant to cover only the knife scenario as a follow-on, but the passage contains both scenarios together, and candidate 0's prose actually describes both the stacking/piercing rejection and sets up the knife scenario, making it the better unified home for this combined Gemara passage.",
+      "chosen_heading": "Pierce vs. Curse",
+      "current_heading": "Shem B'Shem Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Articulation Issue",
+    "candidates": [
+      "Shem B'Shem Logic",
+      "Articulation Issue",
+      "Nokev = Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's proposal that nokev means articulating God's name and its two-part rejection (shem beshem impossibility and azharat asei), which is exactly what the 'Articulation Issue' prose describes in detail.",
+      "chosen_heading": "Articulation Issue",
+      "current_heading": "Articulation Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Nokev = Curse",
+    "candidates": [
+      "Nokev = Curse",
+      "Two Clauses",
+      "Rabbi Meir View",
+      "Sages View",
+      "Ish Ish Non-Jews",
+      "Kigar Ka'Ezrach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's proof that nokev means to curse (from the juxtaposition of vayyikkov and vayikallel) and the refutation of the 'perhaps both acts are required' objection \u2014 exactly what the 'Nokev = Curse' prose describes.",
+      "chosen_heading": "Nokev = Curse",
+      "current_heading": "Nokev = Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Kigar Ka'Ezrach",
+    "candidates": [
+      "Two Clauses",
+      "Rabbi Meir View",
+      "Sages View",
+      "Ish Ish Non-Jews",
+      "Kigar Ka'Ezrach",
+      "Napcha Non-Jew View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita derives from 'ish ish' that non-Jews are included in the prohibition against blaspheming God and are executed by the sword, which directly matches the 'Ish Ish Non-Jews' section prose discussing this exact derivation and its implications.",
+      "chosen_heading": "Ish Ish Non-Jews",
+      "current_heading": "Kigar Ka'Ezrach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Napcha Non-Jew View",
+    "candidates": [
+      "Kigar Ka'Ezrach",
+      "Napcha Non-Jew View",
+      "Seven List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All nine items form a continuous Talmudic discussion about blasphemy liability for non-Jews regarding appellations vs. the ineffable name, the debate between Rav Yitzchak Nappa\u1e25a, Rav Meyasha, Rabbi Meir, and the Rabbis, and the derivations from 'kager ka'ezrach' and 'ish ish' \u2014 exactly the content described in the 'Napcha Non-Jew View' prose.",
+      "chosen_heading": "Napcha Non-Jew View",
+      "current_heading": "Napcha Non-Jew View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Seven List",
+    "candidates": [
+      "Seven List",
+      "Additional Opinions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the seven Noahide commandments, which is exactly what the 'Seven List' section's prose describes and introduces.",
+      "chosen_heading": "Seven List",
+      "current_heading": "Seven List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Additional Opinions",
+    "candidates": [
+      "Additional Opinions",
+      "Vayitzav Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the additional opinions (Rabbi \u1e24ananya ben Gamla, Rabbi \u1e24ideka, Rabbi Shimon, Rabbi Yosei, Rabbi Elazar) expanding the Noahide laws beyond the standard seven, which is precisely what the 'Additional Opinions' prose section discusses in detail.",
+      "chosen_heading": "Additional Opinions",
+      "current_heading": "Additional Opinions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Vayitzav Source",
+    "candidates": [
+      "Vayitzav Source",
+      "Dinim Courts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question 'from where are these matters derived' and Rabbi Yochanan's answer citing the Genesis verse, which is precisely what the 'Vayitzav Source' prose describes as its opening move.",
+      "chosen_heading": "Vayitzav Source",
+      "current_heading": "Vayitzav Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Dinim Courts",
+    "candidates": [
+      "Dinim Courts",
+      "Birkat Hashem",
+      "Avodah Zarah",
+      "Shfichut Damim",
+      "Giluy Arayot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dinim Courts",
+      "first_confidence": "high",
+      "first_reason": "Item 1 interprets 'vayitzav' as dinim/courts, matching exactly the 'Dinim Courts' prose which discusses the same verse and interpretation.",
+      "second_heading": "Birkat Hashem",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers three separate terms \u2014 'the Lord' (birkat Hashem), 'God' (avodah zarah), and 'the man' (shefichut damim) \u2014 but the first term discussed is 'the Lord'/birkat Hashem, and the passage as a whole begins a new structural unit interpreting successive words of the verse under headings starting with 'Birkat Hashem'.",
+      "current_heading": "Dinim Courts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Giluy Arayot",
+    "candidates": [
+      "Birkat Hashem",
+      "Avodah Zarah",
+      "Shfichut Damim",
+      "Giluy Arayot",
+      "Ever Min Hachai",
+      "Gezel Theft",
+      "Yitzchak Reversed",
+      "Making vs. Worship",
+      "Chisda Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage derives 'lemor' as giluy arayot, 'mikol etz ha-gan' as gezel, and 'achol tochel' as eiver min ha-chai \u2014 but the current placement under 'Giluy Arayot' is correct because the passage begins with the lemor/giluy arayot derivation, and the prose of heading 3 explicitly discusses this exact textual derivation and its supporting verse from Jeremiah 3:1, matching the passage's opening content precisely.",
+      "chosen_heading": "Giluy Arayot",
+      "current_heading": "Giluy Arayot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Chisda Dispute",
+    "candidates": [
+      "Ever Min Hachai",
+      "Gezel Theft",
+      "Yitzchak Reversed",
+      "Making vs. Worship",
+      "Chisda Dispute",
+      "Marah Ten Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All seven items form a continuous chain about Rav Yitzchak's reversed attribution, the source for vayitzav/avodah zarah, the Rav Chisda/Rav Yitzchak bar Avdimi dispute, the practical difference regarding making-without-bowing, Rava's challenge from the baraita, and Rav Pappa's response about gipuf ve-nishuk \u2014 exactly the content described in the 'Chisda Dispute' prose.",
+      "chosen_heading": "Chisda Dispute",
+      "current_heading": "Chisda Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Marah Ten Mitzvot",
+    "candidates": [
+      "Marah Ten Mitzvot",
+      "Nachman Court Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita about the ten mitzvot at Marah and the sources for dinim, Shabbat, and kibud av va'em there, which is precisely what the 'Marah Ten Mitzvot' prose describes.",
+      "chosen_heading": "Marah Ten Mitzvot",
+      "current_heading": "Marah Ten Mitzvot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Nachman Court Rules",
+    "candidates": [
+      "Nachman Court Rules",
+      "Kenasot Fines"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Na\u1e25man/Rabba bar Avuh's statement about edah, witnesses, and forewarning, which is precisely what the prose of 'Nachman Court Rules' describes and analyzes.",
+      "chosen_heading": "Nachman Court Rules",
+      "current_heading": "Nachman Court Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Kenasot Fines",
+    "candidates": [
+      "Kenasot Fines",
+      "Courts Districts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's challenge to and Rava's answer about kenasot fines, which is precisely what the 'Kenasot Fines' prose section describes \u2014 Rava's proposal that what was added was authority over fines, followed by the objection about the baraita's language.",
+      "chosen_heading": "Kenasot Fines",
+      "current_heading": "Kenasot Fines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Courts Districts",
+    "candidates": [
+      "Courts Districts",
+      "Menashe List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav A\u1e25a bar Ya'akov's proposal about establishing courts in every district and city and the baraita challenging it \u2014 exactly what the 'Courts Districts' prose describes and analyzes.",
+      "chosen_heading": "Courts Districts",
+      "current_heading": "Courts Districts",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,325 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Yotzer Or & Borei",
+    "candidates": [
+      "Humility & Angels",
+      "Zman Shema",
+      "Brachos Around Shema",
+      "Yotzer Or & Borei",
+      "Ahava Rabbah",
+      "Double Duty Brachos",
+      "Practical Shema Issues",
+      "Learning Before Shema"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Yotzer Or blessing, why 'choshech' (darkness) is retained, the euphemism for 'ra' replaced by 'hakol', and Rava/Abaye's explanation about mentioning day at night and night during the day \u2014 all of which precisely matches the prose of 'Yotzer Or & Borei'.",
+      "chosen_heading": "Yotzer Or & Borei",
+      "current_heading": "Yotzer Or & Borei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Learning Before Shema",
+    "candidates": [
+      "Ahava Rabbah",
+      "Double Duty Brachos",
+      "Practical Shema Issues",
+      "Learning Before Shema",
+      "Mikra vs Midrash"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ahava Rabbah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the dispute between ahava rabba and ahavat olam as the formula for the blessing before Shema, which matches the 'Ahava Rabbah' section prose about the debate between the two formulations.",
+      "second_heading": "Learning Before Shema",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 discuss Birkat HaTorah and the ruling that Ahava Rabbah exempts one from reciting it, plus Rav Huna's distinction between Mikra and Midrash, which matches the 'Learning Before Shema' and flows into 'Mikra vs Midrash' \u2014 but all four items together span a structural seam between the ahava rabba dispute and the Birkat HaTorah discussion.",
+      "current_heading": "Learning Before Shema",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Mikra vs Midrash",
+    "candidates": [
+      "Mikra vs Midrash",
+      "Mishna & Talmud Disputes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Elazar's ruling about Mikra/Midrash requiring a blessing but not Mishna, which is exactly what candidate 1's prose describes ('Rabbi Elazar extends the requirement: le-Mikra u-le-Midrash tzarich l'varech... u-le-Mishna eino tzarich l'varech').",
+      "chosen_heading": "Mishna & Talmud Disputes",
+      "current_heading": "Mikra vs Midrash",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Mishna & Talmud Disputes",
+    "candidates": [
+      "Mikra vs Midrash",
+      "Mishna & Talmud Disputes",
+      "Primary Object Debate",
+      "Rav Chiya's Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yo\u1e25anan's ruling about Mishna and Talmud blessings, which is exactly what the 'Mishna & Talmud Disputes' prose describes when it says 'Rabbi Yochanan goes further: af le-Mishna nami tzarich l'varech \u2014 even for Mishna one must make a bracha \u2014 aval le-Talmud eino tzarich l'varech \u2014 but not for learning Gemara.'",
+      "chosen_heading": "Mishna & Talmud Disputes",
+      "current_heading": "Mishna & Talmud Disputes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Rav Chiya's Practice",
+    "candidates": [
+      "Primary Object Debate",
+      "Rav Chiya's Practice",
+      "Nusach Birkat Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern Rava's ruling that one must bless before Talmud study and Rav \u1e24iyya bar Ashi's corroborating practice before Rav's Sifra/Talmud teaching, which is precisely what heading 1 ('Rav Chiya's Practice') discusses.",
+      "chosen_heading": "Rav Chiya's Practice",
+      "current_heading": "Rav Chiya's Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Nusach Birkat Torah",
+    "candidates": [
+      "Nusach Birkat Torah",
+      "Ha'arev Na Request"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes exactly the formula 'asher kideshanu be-mitzvotav ve-tzivanu la'asok be-divrei Torah' attributed to Rav Yehuda citing Shmuel, which is precisely what the 'Nusach Birkat Torah' section prose discusses.",
+      "chosen_heading": "Nusach Birkat Torah",
+      "current_heading": "Nusach Birkat Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Ha'arev Na Request",
+    "candidates": [
+      "Ha'arev Na Request",
+      "Three Blessing Forms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yochanan's Ha'arev Na addition, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Ha'arev Na Request",
+      "current_heading": "Ha'arev Na Request",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Three Blessing Forms",
+    "candidates": [
+      "Three Blessing Forms",
+      "Synthesis & Integration",
+      "Memuneh's Command",
+      "Aseres Hadibros",
+      "Emes Veyatziv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Hamnuna's blessing formula and the Gemara's conclusion to recite all the formulas \u2014 are explicitly discussed in the 'Three Blessing Forms' prose, which covers exactly this content including the declaration that this is the finest blessing and the conclusion 'hilkach nemrinhu le-chulhu.'",
+      "chosen_heading": "Three Blessing Forms",
+      "current_heading": "Three Blessing Forms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Emes Veyatziv",
+    "candidates": [
+      "Synthesis & Integration",
+      "Memuneh's Command",
+      "Aseres Hadibros",
+      "Emes Veyatziv",
+      "One Blessing Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah from Tamid being cited ('tnan hatam'), describing the memuneh's command to recite a single blessing \u2014 which is precisely what candidate 1's prose introduces and discusses.",
+      "chosen_heading": "Memuneh's Command",
+      "current_heading": "Emes Veyatziv",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "One Blessing Debate",
+    "candidates": [
+      "Emes Veyatziv",
+      "One Blessing Debate",
+      "Brachos Not Mkablos",
+      "Inference Issues",
+      "Yotzer Or Timing",
+      "Shabbat Addition",
+      "Ten Commandments Ban"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "One Blessing Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly address the debate over which single blessing (Ahava Rabbah vs. Yotzer Or) was recited, matching the 'One Blessing Debate' prose perfectly, while item 2's note about Rav Yitzchak bar Yosef's correction also fits under 'Brachos Not Mkablos' (candidate 2) as a transition \u2014 but the core content of items 1-2 is the identity debate covered in candidate 1.",
+      "second_heading": "Inference Issues",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 discuss the logical inference problem \u2014 why Yotzer Or must be the blessing for the brachos-ein-me'akvos principle to work, and the Gemara's challenge that if Ahava Rabbah was said the inference fails \u2014 which matches candidate 3 ('Inference Issues') precisely.",
+      "current_heading": "One Blessing Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Ten Commandments Ban",
+    "candidates": [
+      "Brachos Not Mkablos",
+      "Inference Issues",
+      "Yotzer Or Timing",
+      "Shabbat Addition",
+      "Ten Commandments Ban",
+      "Wine & Mead Case",
+      "Switched Intentions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Ten Commandments Ban",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 deal with the Ten Commandments in Temple and outlying-area liturgy and the ban on reinstituting them due to heretics, matching the 'Ten Commandments Ban' prose exactly.",
+      "second_heading": "Shabbat Addition",
+      "second_confidence": "high",
+      "second_reason": "Item 6 describes the Shabbat blessing exchanged between outgoing and incoming priestly watches, matching the 'Shabbat Addition' prose exactly, while item 7 begins the wine/mead bracha discussion belonging under 'Wine & Mead Case'.",
+      "current_heading": "Ten Commandments Ban",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Switched Intentions",
+    "candidates": [
+      "Wine & Mead Case",
+      "Switched Intentions",
+      "Chatima Rule",
+      "Long Brachos Exception",
+      "Day & Night Coverage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the beer-vs-wine dilemma where one begins with the wrong bracha intention and ends with the correct one, which is precisely the 'Switched Intentions' case described in that section's prose, including the batar ikkar/batar chatima question.",
+      "chosen_heading": "Switched Intentions",
+      "current_heading": "Switched Intentions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Day & Night Coverage",
+    "candidates": [
+      "Chatima Rule",
+      "Long Brachos Exception",
+      "Day & Night Coverage",
+      "Bread & Dates Case",
+      "Rambam's Toch K'dei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 10 items form one continuous chain establishing and refining the 'chatima rule' \u2014 the baraita about morning/evening blessings (items 1-3), the rejection of that proof (item 4), the Rav/Rabbi Yochanan objection (item 5), the Rabba bar Ulla resolution (item 6), and the bread-and-dates elaboration (items 7-10) \u2014 all of which directly establish and prove the principle 'hakol holech achar hachatima' that candidate 0 ('Chatima Rule') describes, making it the best match over the current placement under 'Day & Night Coverage'.",
+      "chosen_heading": "Chatima Rule",
+      "current_heading": "Day & Night Coverage",
+      "moved": true
+    }
+  }
+]

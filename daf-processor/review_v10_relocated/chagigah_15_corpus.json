@@ -1,0 +1,345 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Four Generations",
+    "candidates": [
+      "Yochanan & Elazar",
+      "Four Generations",
+      "Elazar Absent",
+      "Chananya Counted",
+      "Four Names",
+      "Marble Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about three hartza'ot (Rabbi Yehoshua before Rabban Yochanan, Rabbi Akiva before Rabbi Yehoshua, Chananya ben Chachinai before Rabbi Akiva), which is precisely what the 'Four Generations' prose describes, and the passage covers both the chain itself and the question about Chananya \u2014 though the Chananya resolution is also discussed in 'Chananya Counted,' the full passage including the initial baraita citation belongs under 'Four Generations' where the chain is first introduced.",
+      "chosen_heading": "Four Generations",
+      "current_heading": "Four Generations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Marble Stones",
+    "candidates": [
+      "Elazar Absent",
+      "Chananya Counted",
+      "Four Names",
+      "Marble Stones",
+      "Acher Destroyed",
+      "Akiva Success",
+      "Chananel Vision",
+      "Heichalot Practice",
+      "Ben Azzai Dies",
+      "Rambam Theory",
+      "Ben Zoma Injured",
+      "Castrated Dog",
+      "Virgin Pregnant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the baraita introducing the four who entered the pardes and Rabbi Akiva's warning about marble stones \u2014 exactly the content described in candidate 2 ('Four Names'), which introduces the pardes narrative with these four figures, whereas candidate 3 ('Marble Stones') discusses the warning and individual fates in its prose, making it a better fit for the prose commentary but the Talmudic text itself belongs under the heading that introduces the pardes entry and names the four participants.",
+      "chosen_heading": "Four Names",
+      "current_heading": "Marble Stones",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Virgin Pregnant",
+    "candidates": [
+      "Acher Destroyed",
+      "Akiva Success",
+      "Chananel Vision",
+      "Heichalot Practice",
+      "Ben Azzai Dies",
+      "Rambam Theory",
+      "Ben Zoma Injured",
+      "Castrated Dog",
+      "Virgin Pregnant",
+      "Christian Context",
+      "Yehoshua Meeting",
+      "Three Fingerbreadths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All three items form one continuous discussion about the virgin who became pregnant and her status for the High Priest, including Shmuel's ruling about intact hymen and conception in a bathhouse, which is precisely what heading 8 'Virgin Pregnant' describes in its prose.",
+      "chosen_heading": "Virgin Pregnant",
+      "current_heading": "Virgin Pregnant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Three Fingerbreadths",
+    "candidates": [
+      "Christian Context",
+      "Yehoshua Meeting",
+      "Three Fingerbreadths",
+      "Still Outside",
+      "Water Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full encounter between Ben Zoma and Rabbi Yehoshua on the Temple Mount including Ben Zoma's failure to rise, Rabbi Yehoshua's question, Ben Zoma's answer about the waters, and Rabbi Yehoshua's verdict \u2014 all of which the 'Yehoshua Meeting' prose introduces as a unified scene, whereas the current placement under 'Three Fingerbreadths' only covers part of the passage.",
+      "chosen_heading": "Yehoshua Meeting",
+      "current_heading": "Three Fingerbreadths",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Water Separation",
+    "candidates": [
+      "Still Outside",
+      "Water Separation",
+      "Metatron Sitting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the timing discrepancy between day one and day two of creation regarding the separation of waters, and the various amoraic opinions on the actual distance between them \u2014 exactly what the 'Water Separation' prose section describes.",
+      "chosen_heading": "Water Separation",
+      "current_heading": "Water Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Metatron Sitting",
+    "candidates": [
+      "Metatron Sitting",
+      "Two Powers",
+      "Merits Erased"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Acher seeing Metatron sitting and writing merits, which matches the 'Metatron Sitting' section's prose about this specific vision and its content, before the conclusion about two powers which is covered in the next section.",
+      "chosen_heading": "Metatron Sitting",
+      "current_heading": "Metatron Sitting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Merits Erased",
+    "candidates": [
+      "Two Powers",
+      "Merits Erased",
+      "Except Acher",
+      "Hedonistic Fall",
+      "Prostitute Turnip"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Metatron being smote with sixty rods of fire, the question put to him, the erasure of Acher's merits, and the bat kol excluding Acher \u2014 all of which are discussed together in the 'Merits Erased' prose, which covers this entire sequence including the bat kol detail at its end.",
+      "chosen_heading": "Merits Erased",
+      "current_heading": "Merits Erased",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Prostitute Turnip",
+    "candidates": [
+      "Except Acher",
+      "Hedonistic Fall",
+      "Prostitute Turnip",
+      "Opposites"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Acher's reasoning and his going astray (the hedonistic fall logic), which matches the 'Hedonistic Fall' prose precisely, while the current 'Prostitute Turnip' section's prose describes only the prostitute scene \u2014 but the Talmudic text actually contains both the initial reasoning AND the prostitute scene, making heading 1 the better fit since it introduces the entire sequence including the prostitute encounter.",
+      "chosen_heading": "Hedonistic Fall",
+      "current_heading": "Prostitute Turnip",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Opposites",
+    "candidates": [
+      "Prostitute Turnip",
+      "Opposites",
+      "Akiva Version",
+      "Double Portions",
+      "Double Consequence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Acher asking Rabbi Meir about 'gam et zeh lumat zeh' and Rabbi Meir's response about mountains/hills and seas/rivers, which is precisely what the 'Opposites' section prose describes.",
+      "chosen_heading": "Opposites",
+      "current_heading": "Opposites",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Double Consequence",
+    "candidates": [
+      "Akiva Version",
+      "Double Portions",
+      "Double Consequence",
+      "Gold Glass Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 Akiva's teaching about the two portions and righteous/wicked taking each other's shares, plus Rav Mesharshiyya's prooftexts \u2014 are precisely what the 'Double Consequence' prose describes, making the current placement correct.",
+      "chosen_heading": "Double Consequence",
+      "current_heading": "Double Consequence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Gold Glass Vessels",
+    "candidates": [
+      "Gold Glass Vessels",
+      "Vessels Fixable",
+      "Teshuvah Appeal",
+      "Shabbat Horseride"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Meir's answer about gold/glass (heading 0), Rabbi Akiva's alternative interpretation about vessels being fixable (heading 1), and the teshuvah appeal (heading 2), but since all three elements appear in a single unified Talmudic passage, and the passage begins with the gold/glass question which is heading 0's topic, and heading 0's prose explicitly introduces this exchange, the current placement is correct as the whole passage naturally opens under that heading.",
+      "chosen_heading": "Gold Glass Vessels",
+      "current_heading": "Gold Glass Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Shabbat Horseride",
+    "candidates": [
+      "Vessels Fixable",
+      "Teshuvah Appeal",
+      "Shabbat Horseride",
+      "Boundary Warning",
+      "Thirteen Synagogues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the incident of Acher riding on horseback on Shabbat with Rabbi Meir walking behind him to learn Torah, which directly matches the 'Shabbat Horseride' section's prose about this surreal image \u2014 the boundary warning and teshuvah exchange are discussed in subsequent sections.",
+      "chosen_heading": "Shabbat Horseride",
+      "current_heading": "Shabbat Horseride",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Thirteen Synagogues",
+    "candidates": [
+      "Boundary Warning",
+      "Thirteen Synagogues",
+      "Condemning Verses",
+      "Violent Response",
+      "Dismemberment",
+      "Dilemma",
+      "Meir Plea"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All three items together narrate the full sequence of Rabbi Meir dragging Acher through synagogues asking children to recite verses \u2014 the content of items 1-2 matches heading 1's prose description of the pesok li pesukach practice, while items 2-3 extend into the thirteen synagogues and the final child, but the current placement under heading 1 ('Thirteen Synagogues') covers the entire episode including its conclusion, and the split between headings 1/2/3/4 in the essay suggests the passage is currently placed slightly early \u2014 however, since heading 1's prose explicitly describes this exact scene (takfei, beis knesses, pesok li pesukach, the condemning verses), it remains the best single match for the passage as a whole.",
+      "chosen_heading": "Thirteen Synagogues",
+      "current_heading": "Thirteen Synagogues",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Meir Plea",
+    "candidates": [
+      "Condemning Verses",
+      "Violent Response",
+      "Dismemberment",
+      "Dilemma",
+      "Meir Plea",
+      "Grave Smoke",
+      "Yochanan Object",
+      "Yochanan Promise",
+      "Guardian Overcome"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both the heavenly dilemma upon Acher's death (no judgment/no World-to-Come) AND Rabbi Meir's resolution and the smoke rising from the grave \u2014 but the prose under 'Dilemma' (index 3) discusses the heavenly impasse while 'Meir Plea' (index 4) and 'Grave Smoke' (index 5) cover the subsequent events; however, the single Talmudic passage encompasses all of this content together, and since the passage begins with 'ki nach nafshieh d'Acher' and the dilemma, the best single heading that introduces this entire unit is index 3, 'Dilemma', as the passage's opening content aligns with that prose and the subsequent details flow from it.",
+      "chosen_heading": "Dilemma",
+      "current_heading": "Meir Plea",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Guardian Overcome",
+    "candidates": [
+      "Grave Smoke",
+      "Yochanan Object",
+      "Yochanan Promise",
+      "Guardian Overcome",
+      "Heretic Redeemed"
+    ],
+    "result": null
+  }
+]

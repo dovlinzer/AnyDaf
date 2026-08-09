@@ -1,0 +1,390 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Rav Chisda & Hamnuna",
+    "candidates": [
+      "Non-Jewish House Debate",
+      "Tosafot's Qualifications",
+      "Perception & Kavod",
+      "Tosafot Examples",
+      "Rav Chisda & Hamnuna",
+      "Ravina's Knife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes exactly the two cases the prose of 'Rav Chisda & Hamnuna' summarizes: Rav \u1e24isda ruling in Kafri during Rav Huna's lifetime and Rav Hamnuna ruling in \u1e24arta De'argez during Rav \u1e24isda's lifetime, which is the current placement and a perfect match.",
+      "chosen_heading": "Rav Chisda & Hamnuna",
+      "current_heading": "Rav Chisda & Hamnuna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Ravina's Knife",
+    "candidates": [
+      "Ravina's Knife",
+      "Rav-Talmid Chaver"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Ravina knife-inspection episode and Rav Ashi's challenge, which is precisely what heading 0's prose describes; heading 1 covers the subsequent talmid-chaver resolution, which these items do not yet reach.",
+      "chosen_heading": "Ravina's Knife",
+      "current_heading": "Ravina's Knife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rav-Talmid Chaver",
+    "candidates": [
+      "Rav-Talmid Chaver",
+      "Authority Gesture",
+      "Shulchan Aruch",
+      "Semicha",
+      "Disagreement",
+      "Ravina Declines"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Ravina's argument that he is a talmid chaver of Rav Ashi, reconciling the two traditions about Rav Hamnuna, which is precisely what the prose under 'Rav-Talmid Chaver' describes.",
+      "chosen_heading": "Rav-Talmid Chaver",
+      "current_heading": "Rav-Talmid Chaver",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Ravina Declines",
+    "candidates": [
+      "Authority Gesture",
+      "Shulchan Aruch",
+      "Semicha",
+      "Disagreement",
+      "Ravina Declines",
+      "Pre-Purchase Issue",
+      "Respect for Elder"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ravina Declines",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's ruling and Ravina's act of declining to inspect the knife himself, sending the host to Rava \u2014 exactly what candidate 4's prose describes.",
+      "second_heading": "Pre-Purchase Issue",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the host's challenge citing Rava's ruling and Ravina's precise response about purchasing the meat after the fact \u2014 exactly what candidate 5's prose describes as the 'pre-purchase issue.'",
+      "current_heading": "Ravina Declines",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Respect for Elder",
+    "candidates": [
+      "Pre-Purchase Issue",
+      "Respect for Elder",
+      "Eliezer's Citation",
+      "Punishment & Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mnemonic and the narrative of the visiting rabbis arriving at Rav Acha's home with the knife \u2014 are the opening setup of the 'Respect for Elder' episode, which the prose under heading 1 explicitly describes.",
+      "chosen_heading": "Respect for Elder",
+      "current_heading": "Respect for Elder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Punishment & Resolution",
+    "candidates": [
+      "Eliezer's Citation",
+      "Punishment & Resolution",
+      "Rav Acha Muflag",
+      "Rava's Teaching",
+      "Ravina's Niddui"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Punishment & Resolution",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the punishment of Rabbi Elazar from Hagronya and the Gemara's challenge/resolution (shani hasam d'atchilu bichvoda), which is precisely what candidate 1 'Punishment & Resolution' discusses.",
+      "second_heading": "Rav Acha Muflag",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the alternative explanation that Rav Acha bar Ya'akov was muflag (exceptionally distinguished), which is exactly what candidate 2 'Rav Acha Muflag' addresses.",
+      "current_heading": "Punishment & Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Ravina's Niddui",
+    "candidates": [
+      "Rav Acha Muflag",
+      "Rava's Teaching",
+      "Ravina's Niddui",
+      "God's Honor Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's ruling about 'afroshe mei'issura' and the Ravina/Rav Ashi incident, which the essay splits across two headings, but the Gemara text combines them as one continuous unit; however, since the essay's section 1 ('Rava's Teaching') explicitly discusses the l'afroshe mei'issura principle and notes it was 'already anticipated' and now gets a 'formal, named principle,' while section 2 ('Ravina's Niddui') discusses the dramatic case separately, and this passage contains BOTH Rava's statement AND Ravina's action as a single Gemara excerpt, the best fit is section 1 which introduces the Rava principle that the entire passage illustrates \u2014 though the current placement at index 2 also has merit, index 1's prose better matches the opening content of the passage.",
+      "chosen_heading": "Rava's Teaching",
+      "current_heading": "Ravina's Niddui",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "God's Honor Override",
+    "candidates": [
+      "Ravina's Niddui",
+      "God's Honor Override",
+      "Rava's Statement",
+      "Bnei Aharon"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "God's Honor Override",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the conclusion of the Ravina/Rav Ashi exchange about chillul Hashem overriding kavod ha-rav, which is precisely what the 'God's Honor Override' prose discusses.",
+      "second_heading": "Rava's Statement",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's graded ruling about befanav vs. shelo befanav liability, which matches exactly the 'Rava's Statement' prose describing that same distinction.",
+      "current_heading": "God's Honor Override",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Bnei Aharon",
+    "candidates": [
+      "Rava's Statement",
+      "Bnei Aharon",
+      "Eliezer's Student"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about Bnei Aharon ruling in Moshe's presence and their drasha from the pasuk, which is precisely what the 'Bnei Aharon' section prose describes.",
+      "chosen_heading": "Bnei Aharon",
+      "current_heading": "Bnei Aharon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Eliezer's Student",
+    "candidates": [
+      "Eliezer's Student",
+      "Three Parsaos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the story of Rabbi Eliezer's student who ruled halacha in his presence and died, along with Rabbi Eliezer's explanation about the tradition \u2014 precisely the content discussed in candidate 0's prose.",
+      "chosen_heading": "Eliezer's Student",
+      "current_heading": "Eliezer's Student",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Three Parsaos",
+    "candidates": [
+      "Three Parsaos",
+      "Snake Bite",
+      "Biblical Verses",
+      "David & Ira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Yehuda ben Gurya being three parasangs from Rabbi Eliezer and the resolution that the ruling was actually in his presence \u2014 exactly what the 'Three Parsaos' prose describes.",
+      "chosen_heading": "Three Parsaos",
+      "current_heading": "Three Parsaos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "David & Ira",
+    "candidates": [
+      "Snake Bite",
+      "Biblical Verses",
+      "David & Ira",
+      "Responding Lose Children",
+      "Numbers Verse",
+      "Jericho Siege"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "David & Ira",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 all discuss the prohibition of ruling halacha in one's teacher's presence (snake bite, sinner, David/Ira, famine digression, Elazar's demotion), which is precisely what candidate 2 'David & Ira' covers in its prose.",
+      "second_heading": "Responding Lose Children",
+      "second_confidence": "high",
+      "second_reason": "Items 7-8 introduce Rabbi Levi's teaching that responding before one's teacher leads to childlessness, illustrated by Joshua, which matches candidate 3 'Responding Lose Children' exactly.",
+      "current_heading": "David & Ira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Jericho Siege",
+    "candidates": [
+      "Responding Lose Children",
+      "Numbers Verse",
+      "Jericho Siege",
+      "Wrong Ark"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items deal with the Jericho episode \u2014 the angel's rebuke of Joshua for neglecting the tamid and Torah study, and Joshua's immediate corrective immersion in halacha \u2014 which is precisely what candidate 2 ('Jericho Siege') describes in its prose.",
+      "chosen_heading": "Jericho Siege",
+      "current_heading": "Jericho Siege",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Wrong Ark",
+    "candidates": [
+      "Wrong Ark",
+      "Talmud Torah Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the tradition about the Ark and Divine Presence not being in their proper place prohibiting marital relations, which is precisely what the 'Wrong Ark' section's prose discusses as the basis for Yehoshua's childlessness.",
+      "chosen_heading": "Wrong Ark",
+      "current_heading": "Wrong Ark",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Talmud Torah Priority",
+    "candidates": [
+      "Talmud Torah Priority",
+      "Rav Huna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that Torah study is greater than daily sacrifices, which is precisely what the 'Talmud Torah Priority' section's prose discusses.",
+      "chosen_heading": "Talmud Torah Priority",
+      "current_heading": "Talmud Torah Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Rav Huna",
+    "candidates": [
+      "Rav Huna",
+      "Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Beruna citing Rav (not Rav Huna, but the prose under heading 0 describes this exact ruling about sleeping in a chamber with a husband and wife, matching the content precisely), and the current placement under 'Rav Huna' already contains the correct prose description of this passage.",
+      "chosen_heading": "Rav Huna",
+      "current_heading": "Rav Huna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Rav Yosef",
+    "candidates": [
+      "Rav Yosef",
+      "Rava Disagrees",
+      "Written Rulings",
+      "Consulting Books"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the continuous dispute about sleeping in a room with a couple when the wife is a niddah \u2014 Rav Yosef's ruling (item 1) and Rava's counter-position with its immediate rejection (item 2) \u2014 which is precisely what candidate 0's prose describes, covering both Rav Yosef's extension to niddah and Rava's suggestion followed by its deflation.",
+      "chosen_heading": "Rav Yosef",
+      "current_heading": "Rav Yosef",
+      "moved": false
+    }
+  }
+]

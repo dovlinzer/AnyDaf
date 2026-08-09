@@ -241,8 +241,8 @@
           "timestamp": "45:00"
         }
       ],
-      "sefaria_index": 12,
-      "matched": false
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Overpayment Remedy: Money Repayment or Land Return Options Based on Usability",
@@ -275,8 +275,8 @@
           "timestamp": "49:55"
         }
       ],
-      "sefaria_index": 12,
-      "matched": false
+      "sefaria_index": 15,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -502,5 +502,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "36:07",
+  "amud_b_micro_title": "Shape Scenarios",
+  "shiur_start_daf": 103,
+  "shiur_start_amud": "a"
 }

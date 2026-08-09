@@ -1,0 +1,267 @@
+[
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Mishna Word Choice",
+    "candidates": [
+      "Constellations & Creation",
+      "Nisan vs. Tishrei Tension",
+      "Vegetables & Ma'aser Year",
+      "Year Boundary Rules",
+      "Calendar Date vs. Event",
+      "Three Categories Listed",
+      "Rabbinic vs Biblical",
+      "Fruit Tithes Debate",
+      "Ordering Rationale",
+      "Mishna Word Choice",
+      "Two Vegetable Types",
+      "Bundled vs. Unbundled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita's listing of yerakot, ma'asrot, and the question of why both are mentioned \u2014 which is precisely what candidate 5 ('Three Categories Listed') describes: the braita citing u'leyerakot u'lema'asrot u'lenedarim and the Gemara immediately asking why yerakot and ma'asrot are listed separately.",
+      "chosen_heading": "Three Categories Listed",
+      "current_heading": "Mishna Word Choice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Bundled vs. Unbundled",
+    "candidates": [
+      "Two Vegetable Types",
+      "Bundled vs. Unbundled",
+      "Picking Erev & After",
+      "Yom Tov & Obligation",
+      "Picking Moment Decisive",
+      "Year Cycle Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the question of why 'yerakot' (plural) is used rather than 'yerek' (singular) and answers that it alludes to two categories of vegetables \u2014 which is precisely what candidate 0 ('Two Vegetable Types') discusses, whereas candidate 1 ('Bundled vs. Unbundled') discusses the downstream explanation of those two categories in more detail.",
+      "chosen_heading": "Two Vegetable Types",
+      "current_heading": "Bundled vs. Unbundled",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Year Cycle Application",
+    "candidates": [
+      "Picking Erev & After",
+      "Yom Tov & Obligation",
+      "Picking Moment Decisive",
+      "Year Cycle Application",
+      "Ma'aser Ani Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the *baraita* establishing that pre-sunset and post-sunset pickings belong to different years and cannot be tithed against one another (*ein tormin u'ma'asrin mi'zeh al zeh*), which is precisely what heading 2 'Picking Moment Decisive' describes \u2014 the year-cycle application in item 2 is simply the illustration of that rule, not a separate conceptual point warranting its own heading.",
+      "chosen_heading": "Picking Moment Decisive",
+      "current_heading": "Year Cycle Application",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Ma'aser Ani Source",
+    "candidates": [
+      "Year Cycle Application",
+      "Ma'aser Ani Source",
+      "Only One Other Tithe",
+      "Ma'aser Rishon Continuity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives the biblical source for ma'aser ani in the third year from Deuteronomy 26:12, which is precisely what the 'Ma'aser Ani Source' prose describes, including Rabbi Yehoshua ben Levi's derivation and the conclusion that ma'aser sheni is nullified.",
+      "chosen_heading": "Ma'aser Ani Source",
+      "current_heading": "Ma'aser Ani Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Ma'aser Rishon Continuity",
+    "candidates": [
+      "Only One Other Tithe",
+      "Ma'aser Rishon Continuity",
+      "Second Braita: Ma'aser"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the objection that ma'aser rishon might also be nullified and resolves it via the verse linking ma'aser rishon to inheritance, which is precisely what the 'Ma'aser Rishon Continuity' section's prose describes.",
+      "chosen_heading": "Ma'aser Rishon Continuity",
+      "current_heading": "Ma'aser Rishon Continuity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Second Braita: Ma'aser",
+    "candidates": [
+      "Second Braita: Ma'aser",
+      "R. Eliezer ben Yaakov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the second baraita attributed to Rabbi Yehuda that discusses ma'aser rishon and ma'aser ani remaining while ma'aser sheni is canceled, resolved via 'u'va ha'Levi,' which is precisely what the prose of heading 0 describes.",
+      "chosen_heading": "Second Braita: Ma'aser",
+      "current_heading": "Second Braita: Ma'aser",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "R. Eliezer ben Yaakov",
+    "candidates": [
+      "R. Eliezer ben Yaakov",
+      "Vow Duration & Expiry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Eliezer ben Yaakov's statement about deriving the continuity of ma'aser rishon from the analogy to nachala, which exactly matches the prose under heading 0.",
+      "chosen_heading": "R. Eliezer ben Yaakov",
+      "current_heading": "R. Eliezer ben Yaakov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Vow Duration & Expiry",
+    "candidates": [
+      "Vow Duration & Expiry",
+      "One-Day Vow Suffices",
+      "Self-Affliction Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the twelve-month day-to-day rule and the 'this year' expiry rule, which is precisely what the 'Vow Duration & Expiry' prose describes, and the current placement is correct.",
+      "chosen_heading": "Vow Duration & Expiry",
+      "current_heading": "Vow Duration & Expiry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Self-Affliction Exception",
+    "candidates": [
+      "One-Day Vow Suffices",
+      "Self-Affliction Exception",
+      "Mishnah Stage Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the self-affliction exception to the one-day-in-a-year rule and the follow-ordinary-language principle for vows, which is precisely what the 'Self-Affliction Exception' prose discusses.",
+      "chosen_heading": "Self-Affliction Exception",
+      "current_heading": "Self-Affliction Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Mishnah Stage Rules",
+    "candidates": [
+      "Mishnah Stage Rules",
+      "Shelish from Shmita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah citation from Ma'asrot about fenugreek sprouting and grain/olives reaching a third, plus the Gemara's immediate clarification of 'from when it sprouts' \u2014 exactly what Candidate 0's prose describes as the mishnah introducing different stage-rules by crop type.",
+      "chosen_heading": "Mishnah Stage Rules",
+      "current_heading": "Mishnah Stage Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Shelish from Shmita",
+    "candidates": [
+      "Shelish from Shmita",
+      "Shelish Measure Challenge",
+      "Precision of Law Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form the continuous Gemara discussion of the shelish derivation from the shmita/Sukkot verse \u2014 the question, the answer, Rabbi Zeira's challenge, and its resolution \u2014 exactly as described in candidate 0's prose.",
+      "chosen_heading": "Shelish from Shmita",
+      "current_heading": "Shelish from Shmita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Precision of Law Required",
+    "candidates": [
+      "Shelish Measure Challenge",
+      "Precision of Law Required",
+      "Shelish Applications",
+      "Taltan & Seed Planting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the classic 'kol midat chachamim ken hi' exchange \u2014 Rabbi Yirmiyah's challenge about whether rabbis can distinguish precisely at the shelish threshold, Rabbi Zeira's response invoking the principle of rabbinic precision, and the supporting examples (mikvah, egg-bulk, cloth dimensions) \u2014 which is exactly what the 'Precision of Law Required' prose section describes.",
+      "chosen_heading": "Precision of Law Required",
+      "current_heading": "Precision of Law Required",
+      "moved": false
+    }
+  }
+]

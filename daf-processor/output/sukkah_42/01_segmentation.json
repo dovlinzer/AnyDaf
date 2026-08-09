@@ -20,7 +20,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Mishnah on Women Taking Lulav and Water Maintenance on Different Days",
@@ -165,8 +165,8 @@
           "timestamp": "32:23"
         }
       ],
-      "sefaria_index": 9,
-      "matched": false
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Mishnah: Lulav and Arava for Six or Seven Days; Hallel, Simcha, Sukkah, Water Pouring, and Chalil",
@@ -1085,5 +1085,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "23:57",
+  "amud_b_micro_title": "Shechita Skill",
+  "shiur_start_daf": 41,
+  "shiur_start_amud": "b"
 }

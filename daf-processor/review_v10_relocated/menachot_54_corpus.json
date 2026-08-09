@@ -1,0 +1,398 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Opening Dialogue",
+    "candidates": [
+      "Opening Dialogue",
+      "Abraham's Arguments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes God finding Abraham in the Temple and the initial exchange 'What is my beloved doing in my house?' \u2014 precisely the opening dialogue described in candidate 0's prose, before Abraham's subsequent arguments begin.",
+      "chosen_heading": "Opening Dialogue",
+      "current_heading": "Opening Dialogue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Abraham's Arguments",
+    "candidates": [
+      "Abraham's Arguments",
+      "Heavenly Voice & Olive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern Abraham's sequential arguments to God about why Israel should be spared \u2014 the intentionality argument, the majority argument, the brit milah argument, and the repentance argument \u2014 all of which are explicitly discussed in the prose of heading 0 ('Abraham's Arguments').",
+      "chosen_heading": "Abraham's Arguments",
+      "current_heading": "Abraham's Arguments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Heavenly Voice & Olive",
+    "candidates": [
+      "Heavenly Voice & Olive",
+      "Spies & Merglim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abraham placing his hands on his head, crying out about whether there is any remedy, and receiving the Divine Voice's response about the olive tree \u2014 all of which is explicitly discussed in the 'Heavenly Voice & Olive' section prose.",
+      "chosen_heading": "Heavenly Voice & Olive",
+      "current_heading": "Heavenly Voice & Olive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Spies & Merglim",
+    "candidates": [
+      "Spies & Merglim",
+      "Four Kingdoms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi \u1e24innana bar Pappa's interpretation connecting the spies' words to the broken branches of Israel, which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Spies & Merglim",
+      "current_heading": "Spies & Merglim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Four Kingdoms",
+    "candidates": [
+      "Four Kingdoms",
+      "Eternal Survival"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the divine concession to Abraham regarding subjugation by four kingdoms \u2014 the exact content described in the 'Four Kingdoms' prose, including the two versions (each kingdom receiving only its allotted portion vs. simultaneous rather than sequential subjugation).",
+      "chosen_heading": "Four Kingdoms",
+      "current_heading": "Four Kingdoms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Eternal Survival",
+    "candidates": [
+      "Eternal Survival",
+      "Suffering & Teshuvah",
+      "R. Meir vs. R. Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehoshua ben Levi's statement (about eternal survival) and Rabbi Yochanan's statement (about suffering), and heading 0 'Eternal Survival' currently contains this full passage while heading 1 'Suffering & Teshuvah' references Rabbi Yochanan's teaching in its prose as already having been quoted \u2014 the current placement is correct as the passage belongs under heading 0 which introduces both sayings together.",
+      "chosen_heading": "Eternal Survival",
+      "current_heading": "Eternal Survival",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "R. Meir vs. R. Yehuda",
+    "candidates": [
+      "Suffering & Teshuvah",
+      "R. Meir vs. R. Yehuda",
+      "Density & Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Meir's opinion on using leaven from within the flour and the Rabbis' challenge about the measure being lacking or greater, which directly corresponds to the 'R. Meir vs. R. Yehuda' section's prose describing exactly this dispute.",
+      "chosen_heading": "R. Meir vs. R. Yehuda",
+      "current_heading": "R. Meir vs. R. Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Density & Measure",
+    "candidates": [
+      "Density & Measure",
+      "Original vs. Current"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rav \u1e24isda's statement directly addresses how the density (stiff vs. soft) of leavening dough affects the accuracy of the issaron measurement, which is precisely what the 'Density & Measure' prose section discusses.",
+      "chosen_heading": "Density & Measure",
+      "current_heading": "Density & Measure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Original vs. Current",
+    "candidates": [
+      "Original vs. Current",
+      "Gezeira & Appearance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the question of measuring by original flour quantity vs. current dough volume, which is precisely what the 'Original vs. Current' section prose discusses \u2014 Rabba and Rav Yosef's ruling about measuring according to what it was originally.",
+      "chosen_heading": "Original vs. Current",
+      "current_heading": "Original vs. Current",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Gezeira & Appearance",
+    "candidates": [
+      "Gezeira & Appearance",
+      "Mei Peirot Principle",
+      "R. Chanina vs. Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the gezeira (decree) against bringing leavening from outside due to the misleading appearance concern, which is precisely what the 'Gezeira & Appearance' section's prose describes.",
+      "chosen_heading": "Gezeira & Appearance",
+      "current_heading": "Gezeira & Appearance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "R. Chanina vs. Rabbanan",
+    "candidates": [
+      "Mei Peirot Principle",
+      "R. Chanina vs. Rabbanan",
+      "Trumos Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about not leavening with apple juice and Rabbi Chanina ben Gamliel's dissenting view, which is precisely what the 'R. Chanina vs. Rabbanan' section's prose discusses, including the Rav Kahana attribution detail.",
+      "chosen_heading": "R. Chanina vs. Rabbanan",
+      "current_heading": "R. Chanina vs. Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Trumos Evidence",
+    "candidates": [
+      "Trumos Evidence",
+      "Tosafot Analysis",
+      "Mishnah & Rambam",
+      "Kemitzah Problem",
+      "Adding Water Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's analysis of the Mishnah from Tractate Trumos regarding apple juice and leavening, which is precisely what the 'Trumos Evidence' section's prose describes \u2014 the attempt to determine which opinion (Rabbi Chanina or the Rabbanan) is supported by that Mishnah, and the resolution involving chametz nuksha.",
+      "chosen_heading": "Trumos Evidence",
+      "current_heading": "Trumos Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Adding Water Solution",
+    "candidates": [
+      "Tosafot Analysis",
+      "Mishnah & Rambam",
+      "Kemitzah Problem",
+      "Adding Water Solution",
+      "Chareivah Definition",
+      "Uktzin Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together form the complete unit: Rabbi Ila's difficulty with kemitzah, Rav Yitzchak bar Avdimi's water solution, the proposed theoretical dispute, and the actual resolution about what 'chareivah' means \u2014 the final item (Item 3) is precisely the 'chareivah' definition debate that the 'Chareivah Definition' prose section describes, making that the best single home for all three items.",
+      "chosen_heading": "Chareivah Definition",
+      "current_heading": "Adding Water Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Uktzin Mishnah",
+    "candidates": [
+      "Chareivah Definition",
+      "Uktzin Mishnah",
+      "Amoraim Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Uktzin mishna itself (Okatzin 2:8) about measuring calf meat and old animal meat, which is precisely what the 'Uktzin Mishnah' section prose introduces and discusses as the launching point for the broader measurement question.",
+      "chosen_heading": "Uktzin Mishnah",
+      "current_heading": "Uktzin Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Amoraim Dispute",
+    "candidates": [
+      "Amoraim Dispute",
+      "Calf Meat Braitah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Amoraic dispute between Rav/Rabbi \u1e24iyya/Rabbi Yo\u1e25anan versus Shmuel/Rabbi Shimon bar Rabbi/Reish Lakish over whether measurement is taken as items are now or as they were originally, which is precisely what the 'Amoraim Dispute' prose discusses.",
+      "chosen_heading": "Amoraim Dispute",
+      "current_heading": "Amoraim Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Calf Meat Braitah",
+    "candidates": [
+      "Calf Meat Braitah",
+      "Old Meat Shrinkage",
+      "Three Scenarios",
+      "The Real Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a single continuous chain of objection-and-resolution about the calf meat baraita \u2014 the objection from the baraita, the 'mi'derabbanan' answer, the piggul/notar challenge, the reinterpretation of piggul/notar as referring to their tumah-imparting capacity, and the final explanation \u2014 exactly matching the prose under 'Calf Meat Braitah'.",
+      "chosen_heading": "Calf Meat Braitah",
+      "current_heading": "Calf Meat Braitah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "The Real Dispute",
+    "candidates": [
+      "Old Meat Shrinkage",
+      "Three Scenarios",
+      "The Real Dispute",
+      "Dichuiy Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is the baraita about old meat that shriveled below the requisite measure (exactly what heading 0 'Old Meat Shrinkage' describes), and Item 2 is Rabba's explanation of that baraita establishing the principle about originally-had/now-lacks versus originally-lacked/now-has \u2014 both belong under heading 0, which explicitly discusses this baraita and its ruling, not under heading 2 'The Real Dispute' where they currently sit.",
+      "chosen_heading": "Old Meat Shrinkage",
+      "current_heading": "The Real Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Dichuiy Debate",
+    "candidates": [
+      "The Real Dispute",
+      "Dichuiy Debate",
+      "Eggs in Sun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the dichuiy dispute \u2014 yesh dichuiy b'issura vs. ein dichuiy b'issura \u2014 which is precisely what the 'Dichuiy Debate' section's prose describes, and the current placement is correct.",
+      "chosen_heading": "Dichuiy Debate",
+      "current_heading": "Dichuiy Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Eggs in Sun",
+    "candidates": [
+      "Eggs in Sun",
+      "Pigul & Notar",
+      "Re-expansion Logic",
+      "Status Restoration"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eggs in Sun",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the mishna's cases of shrinkage and their ruling of purity/non-liability, which matches exactly the 'Eggs in Sun' prose describing those same cases.",
+      "second_heading": "Pigul & Notar",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the re-expansion clause and the tiyuvta conclusion, which matches the 'Pigul & Notar' prose describing precisely that rain-expansion ruling and chiyuv result.",
+      "current_heading": "Eggs in Sun",
+      "moved": true
+    }
+  }
+]

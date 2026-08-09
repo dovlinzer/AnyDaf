@@ -1,0 +1,299 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Tashlumin Link",
+    "candidates": [
+      "Kohen Gadol & Parah Prep",
+      "Gezerah Shavah: Tzivah",
+      "Excluding Regalim",
+      "Shemini Atzeret Six Ways",
+      "Tashlumin Link",
+      "Shemini Atzeret Ruled Out",
+      "Shavuot Candidate",
+      "Rava's Distinction",
+      "Par & Ayil Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Mishnah about making up the chagigah throughout the festival including the last day (tashlumin), which is exactly what the prose of heading 4 'Tashlumin Link' describes.",
+      "chosen_heading": "Tashlumin Link",
+      "current_heading": "Tashlumin Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Par & Ayil Comparison",
+    "candidates": [
+      "Shemini Atzeret Ruled Out",
+      "Shavuot Candidate",
+      "Rava's Distinction",
+      "Par & Ayil Comparison",
+      "Miluim Offerings",
+      "Yom Kippur Offerings",
+      "Shavuot Differences",
+      "One or Two Rams",
+      "Rabbi's View: Same Ram",
+      "Yom Kippur Musaf",
+      "Rabbi Eliezer: Two Rams",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge about Shavuot as a candidate (deparisha shiva leyoma chad) and Rabbi Abba's response excluding it via the par/ayil comparison, which is precisely what the 'Shavuot Candidate' section's prose describes.",
+      "chosen_heading": "Shavuot Candidate",
+      "current_heading": "Par & Ayil Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Miluim Offerings",
+      "Yom Kippur Offerings",
+      "Shavuot Differences",
+      "One or Two Rams",
+      "Rabbi's View: Same Ram",
+      "Yom Kippur Musaf",
+      "Rabbi Eliezer: Two Rams",
+      "Reconciliation",
+      "Rosh Hashanah Question",
+      "Rav Abbahu: Tzibur",
+      "Private vs. Communal",
+      "Kach Lecha Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items concern the resolution of the one-ram vs. two-rams dispute as it affects the Yom Kippur/Miluim comparison, which is precisely what the 'Reconciliation' section's prose describes \u2014 even according to Rabbi Eliezer beRabbi Shimon, one ram is chovas hayom and one is Musaf, so the parallel holds.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Kach Lecha Debate",
+    "candidates": [
+      "Rosh Hashanah Question",
+      "Rav Abbahu: Tzibur",
+      "Private vs. Communal",
+      "Kach Lecha Debate",
+      "Rabbi Yonatan View",
+      "Midrashic Explanation",
+      "Ark Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion of the 'kach lecha' debate \u2014 the challenge to Rav Abbahu's distinction, the two positions on private vs. communal funding, and the baraita recording Rabbi Yoshiyah and Rabbi Yonatan's dispute \u2014 which is precisely what heading 3 ('Kach Lecha Debate') describes in its prose.",
+      "chosen_heading": "Kach Lecha Debate",
+      "current_heading": "Kach Lecha Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Ark Metaphor",
+    "candidates": [
+      "Rabbi Yonatan View",
+      "Midrashic Explanation",
+      "Ark Metaphor",
+      "Aharon's Offering: Miluim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage about Abba \u1e24anan/Rabbi Elazar resolving the contradiction between the two ark verses (singular vs. plural formulation) is precisely what the 'Ark Metaphor' section's prose describes and analyzes.",
+      "chosen_heading": "Ark Metaphor",
+      "current_heading": "Ark Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Aharon's Offering: Miluim",
+    "candidates": [
+      "Aharon's Offering: Miluim",
+      "Rav Ashi: Par & Ayil",
+      "Ravina: Kohen Gadol"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Aharon's Offering: Miluim",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the explicit derivations from Miluim and Yom Kippur that 'kach lecha' and 'asher lo' mean from one's own property \u2014 precisely the content described in heading 0's prose.",
+      "second_heading": "Rav Ashi: Par & Ayil",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Rav Ashi's structural argument about par lechatat ve'ayil le'olah excluding Rosh Hashanah and Shavuot, which is exactly what heading 1's prose describes.",
+      "current_heading": "Aharon's Offering: Miluim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Ravina: Kohen Gadol",
+    "candidates": [
+      "Rav Ashi: Par & Ayil",
+      "Ravina: Kohen Gadol",
+      "Ravina Alt: Place",
+      "Avodah Techila Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's statement about deriving service by the High Priest from service by the High Priest, which matches exactly the prose under 'Ravina: Kohen Gadol' where the current placement already sits.",
+      "chosen_heading": "Ravina: Kohen Gadol",
+      "current_heading": "Ravina: Kohen Gadol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Avodah Techila Explained",
+    "candidates": [
+      "Ravina Alt: Place",
+      "Avodah Techila Explained",
+      "Preparation Philosophy",
+      "Parah Differences",
+      "R. Yochanan: YK Only",
+      "R. Yehoshua: Both",
+      "Maala B'alma",
+      "Tzaddukim Context",
+      "Yochanan Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the alternate version of Ravina's statement about 'avoda techila bemakom me'avoda techila bemakom' (initial service in the place from initial service in the place), which is precisely what heading 0 'Ravina Alt: Place' describes, rather than heading 1 which discusses the Gemara's internal analysis of what 'techila' means after that statement is introduced.",
+      "chosen_heading": "Ravina Alt: Place",
+      "current_heading": "Avodah Techila Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Yochanan Contradiction",
+    "candidates": [
+      "Preparation Philosophy",
+      "Parah Differences",
+      "R. Yochanan: YK Only",
+      "R. Yehoshua: Both",
+      "Maala B'alma",
+      "Tzaddukim Context",
+      "Yochanan Contradiction",
+      "Me'akev Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All three items together form the complete discussion of the apparent contradiction in Rabbi Yochanan's position \u2014 item 1 presents Rav Dimi's report of Rabbi Yochanan teaching only one case, item 2 raises the challenge from the Mishnah about Parah Adumah (resolved with ma'ala b'alma), and item 3 raises the further contradiction from the chain of Amoraim quoting Rabbi Yochanan as deriving both, resolved by 'hahi deRabbay' \u2014 exactly what heading 6 ('Yochanan Contradiction') describes.",
+      "chosen_heading": "Yochanan Contradiction",
+      "current_heading": "Yochanan Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Me'akev Question",
+    "candidates": [
+      "Me'akev Question",
+      "Backup Kohen"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Me'akev Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Reish Lakish's challenge about whether the Miluim-derived preparation is me'akev, which is exactly what the 'Me'akev Question' prose describes.",
+      "second_heading": "Backup Kohen",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the Mishnah's use of 'matkinin' for the backup kohen as distinct from 'mafrishin,' which is precisely what the 'Backup Kohen' prose discusses.",
+      "current_heading": "Me'akev Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Backup Kohen",
+    "candidates": [
+      "Backup Kohen",
+      "Not Biblical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage shows Rabbi Yochanan asking Reish Lakish where he derives the halakha from, and Reish Lakish answering with the Sinai source \u2014 this directly follows the conclusion that the derivation cannot come from Miluim and that Rabbi Yochanan must look elsewhere, perfectly matching the 'Not Biblical' section's prose about Reish Lakish concluding the seven-day preparation cannot be learned from Miluim.",
+      "chosen_heading": "Not Biblical",
+      "current_heading": "Backup Kohen",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Not Biblical",
+    "candidates": [
+      "Not Biblical",
+      "Yochanan Response",
+      "Sinai Verse",
+      "Machane Shechina",
+      "Machane Technical",
+      "Seventh Day Rabbinic",
+      "Philosophy Shift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the Mishnah says seven days rather than six, citing Rabbi Yehuda ben Beteira's concern \u2014 which is precisely what the 'Seventh Day Rabbinic' section's prose discusses.",
+      "chosen_heading": "Seventh Day Rabbinic",
+      "current_heading": "Not Biblical",
+      "moved": true
+    }
+  }
+]

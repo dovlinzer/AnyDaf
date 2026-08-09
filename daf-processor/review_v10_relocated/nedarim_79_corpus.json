@@ -1,0 +1,246 @@
+[
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Hatarat Nedarim Overview",
+      "Defining Mumcheh",
+      "Shulchan Aruch Mumcheh",
+      "Beit Din Members",
+      "Savir Standard",
+      "Silence Indicates Intent",
+      "Spite Silence",
+      "Heifer After 10 Days",
+      "Rava's Challenge",
+      "24 Hour Silence",
+      "Shatak Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Chanina's statement about spite-silence followed directly by Rava's objection from the Baraita about when the father regains authority \u2014 exactly what the 'Rava's Challenge' section describes.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Shatak Purpose",
+    "candidates": [
+      "24 Hour Silence",
+      "Shatak Purpose",
+      "Ran's Two Scenarios",
+      "Chomer in Each",
+      "Hakeimah Non-Verbal",
+      "Heifer Verbal Only",
+      "Kiyum In Heart",
+      "Mutual Exclusion",
+      "Undoing Hakeimah",
+      "Tyufa 1: Spite"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shatak Purpose",
+      "first_confidence": "high",
+      "first_reason": "Item 1 resolves the Shatak Purpose discussion by concluding that 'silence without specific intent' is the case, matching the prose of index 1 exactly.",
+      "second_heading": "Chomer in Each",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 introduce Rav \u1e24isda's new Baraita about stringencies in ratification vs. nullification, which is precisely what the 'Chomer in Each' prose (index 3) describes.",
+      "current_heading": "Shatak Purpose",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Tyufa 1: Spite",
+    "candidates": [
+      "Ran's Two Scenarios",
+      "Chomer in Each",
+      "Hakeimah Non-Verbal",
+      "Heifer Verbal Only",
+      "Kiyum In Heart",
+      "Mutual Exclusion",
+      "Undoing Hakeimah",
+      "Tyufa 1: Spite",
+      "Three Silences",
+      "Tyufa 2: Shabbat",
+      "Shabbat Inference",
+      "Tyufa 3: Ignorance",
+      "Hearing Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Undoing Hakeimah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yochanan's answer that one can request dissolution of hakamah but not hafarah, which is precisely what heading 6 ('Undoing Hakeimah') describes.",
+      "second_heading": "Tyufa 1: Spite",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 form Rav Kahana's challenge from the baraita about spite-motivated silence and its conclusive refutation of Rabbi Chanina, which is exactly what heading 7 ('Tyufa 1: Spite') describes.",
+      "current_heading": "Tyufa 1: Spite",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Hearing Debate",
+    "candidates": [
+      "Three Silences",
+      "Tyufa 2: Shabbat",
+      "Shabbat Inference",
+      "Tyufa 3: Ignorance",
+      "Hearing Debate",
+      "Ran On Silence",
+      "Intent Evidence",
+      "Active Desire",
+      "Akiva Eiger Problem",
+      "Evidence Requirement",
+      "Observable Evidence",
+      "Nedarim To Meifer",
+      "Inuy Nefesh",
+      "Inuy Examples",
+      "Bein Ish Leishah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Silences",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's resolution via superfluous verses about silence, which matches heading 0 ('Three Silences') describing how the threefold use of 'he was silent' extends the law to all types of silence.",
+      "second_heading": "Tyufa 3: Ignorance",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 present Rava's and Rav Ashi's objections (tyuftot) against Rabbi \u1e24anina, with items 3-4 specifically matching heading 3 ('Tyufa 3: Ignorance') and its prose about Rav Ashi's challenge regarding a husband who didn't know he could perform hafarah.",
+      "current_heading": "Hearing Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Bein Ish Leishah",
+    "candidates": [
+      "Ran On Silence",
+      "Intent Evidence",
+      "Active Desire",
+      "Akiva Eiger Problem",
+      "Evidence Requirement",
+      "Observable Evidence",
+      "Nedarim To Meifer",
+      "Inuy Nefesh",
+      "Inuy Examples",
+      "Bein Ish Leishah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage 'Hadran alach Na'arah hame'orasah' is the concluding formula for the chapter on the betrothed maiden, which marks the end of that tractate section and naturally belongs at the conclusion of the discussion, fitting under the current placement at 'Bein Ish Leishah' as the final element of this chapter's content.",
+      "chosen_heading": "Bein Ish Leishah",
+      "current_heading": "Bein Ish Leishah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Bein Ish Leishah",
+    "candidates": [
+      "Bein Ish Leishah",
+      "R. Yosi Position",
+      "Non-Inuy Examples",
+      "Sole Supplier"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Sole Supplier",
+    "candidates": [
+      "R. Yosi Position",
+      "Non-Inuy Examples",
+      "Sole Supplier",
+      "Only Inuy Mufar",
+      "Baraita Citation",
+      "Why Distinguish",
+      "Suggested Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yosi's complete statement \u2014 both his rejection of the Mishnah's examples as inuy nefesh AND his own paradigm cases \u2014 which corresponds to the 'R. Yosi Position' section that introduces his dispute and his own proposed examples, rather than the 'Sole Supplier' section where it currently sits.",
+      "chosen_heading": "R. Yosi Position",
+      "current_heading": "Sole Supplier",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Suggested Theory",
+    "candidates": [
+      "Only Inuy Mufar",
+      "Baraita Citation",
+      "Why Distinguish",
+      "Suggested Theory",
+      "R. Yochanan Nuri"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita Citation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Baraita challenge that both categories are subject to hafarah, which is precisely what candidate 1 ('Baraita Citation') describes.",
+      "second_heading": "Suggested Theory",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Gemara's theory distinguishing permanent versus conditional nullification between the two categories, which is exactly what candidate 3 ('Suggested Theory') discusses.",
+      "current_heading": "Suggested Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "R. Yochanan Nuri",
+    "candidates": [
+      "R. Yochanan Nuri",
+      "Theory Rejected",
+      "Refined Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge from Rabbi Yochanan ben Nuri's ruling \u2014 asking whether bein ish leishah vows truly take effect upon divorce, citing the mishna \u2014 which directly corresponds to the prose in heading 0 that discusses this very ruling and its implications for hafarah's lasting effect.",
+      "chosen_heading": "R. Yochanan Nuri",
+      "current_heading": "R. Yochanan Nuri",
+      "moved": false
+    }
+  }
+]

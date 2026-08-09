@@ -1,0 +1,371 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Lots vs. Declaration",
+    "candidates": [
+      "Intro: Two Rituals",
+      "Chok Principle",
+      "Yom Kippur Case",
+      "Lots vs. Declaration",
+      "Parah Cannot Use Arifah",
+      "Ha-Arufah Excludes Parah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion about Yom Kippur where chok is written yet a kal vachomer is attempted, which matches heading 2 ('Yom Kippur Case') \u2014 the current placement under heading 3 ('Lots vs. Declaration') splits what is a single unified proof, but the prose of heading 2 explicitly describes the braita about goral vs. verbal declaration and the veasahu chattat verse, making it the better home for this entire passage.",
+      "chosen_heading": "Yom Kippur Case",
+      "current_heading": "Lots vs. Declaration",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Ha-Arufah Excludes Parah",
+    "candidates": [
+      "Parah Cannot Use Arifah",
+      "Ha-Arufah Excludes Parah",
+      "Eglah & Shechita",
+      "Limiting Arifah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains that the Merciful One restricts arifah through minimizing language (mi'eit rachmana), which is precisely what candidate 0's prose describes \u2014 the Torah minimizing applicability of arifah \u2014 whereas candidate 1's prose focuses on the definite article 'heh' and the exclusion of Parah Adumah, which is a different textual mechanism.",
+      "chosen_heading": "Parah Cannot Use Arifah",
+      "current_heading": "Ha-Arufah Excludes Parah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Limiting Arifah",
+    "candidates": [
+      "Eglah & Shechita",
+      "Limiting Arifah",
+      "Initial Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the kal vachomer argument that the eglah should be valid through shechitah AND the verse-based rejection, and the prose under 'Eglah & Shechita' (index 0) describes exactly this kal vachomer attempt, while 'Limiting Arifah' (index 1) describes only the rejection half \u2014 but since all items must go under one heading and the passage covers the full argument including the rejection, index 0's prose more naturally introduces and frames the entire passage, whereas index 1's prose discusses only the rebuttal portion and additional commentary beyond the quoted text.",
+      "chosen_heading": "Eglah & Shechita",
+      "current_heading": "Limiting Arifah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Initial Statement",
+    "candidates": [
+      "Limiting Arifah",
+      "Initial Statement",
+      "Leviyim Age Derived"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Initial Statement",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 (the Mishna and the baraita stating the inverse rules for Kohanim/Leviyim) match candidate 1's prose, which discusses the initial statement that blemishes disqualify Kohanim while age disqualifies Leviyim.",
+      "second_heading": "Leviyim Age Derived",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (the baraita deriving from 'zot asher la-Levi'im' and 'umiben hamishim shanah yashuv' that years disqualify Leviyim) matches candidate 2's prose exactly, which discusses mena hani milei and the same verses from Behaalotecha.",
+      "current_heading": "Initial Statement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Leviyim Age Derived",
+    "candidates": [
+      "Leviyim Age Derived",
+      "Rejecting Kal for Leviyim",
+      "Age & Kohanim",
+      "Reject Reverse Kal",
+      "Ohel Moed Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly raises the question of whether Kohanim are disqualified by age via a kal vachomer from Leviyim, which matches exactly the prose description under 'Age & Kohanim' (candidate 2), not the current placement under 'Leviyim Age Derived' (candidate 0).",
+      "chosen_heading": "Age & Kohanim",
+      "current_heading": "Leviyim Age Derived",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Ohel Moed Only",
+    "candidates": [
+      "Rejecting Kal for Leviyim",
+      "Age & Kohanim",
+      "Reject Reverse Kal",
+      "Ohel Moed Only",
+      "Carrying Requirement",
+      "25 vs. 30 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether the age restriction applies in Shilo and the permanent Temple, and derives from 'avodat avodah va-avodat masa' that it only applies when service involves carrying on shoulders \u2014 precisely what the 'Ohel Moed Only' section's prose describes.",
+      "chosen_heading": "Ohel Moed Only",
+      "current_heading": "Ohel Moed Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "25 vs. 30 Years",
+    "candidates": [
+      "Carrying Requirement",
+      "25 vs. 30 Years",
+      "Five-Year Mastery",
+      "Three vs. Five Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita directly resolves the contradiction between the ages of 25 and 30 for Levitical service \u2014 exactly the topic of the '25 vs. 30 Years' section.",
+      "chosen_heading": "25 vs. 30 Years",
+      "current_heading": "25 vs. 30 Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Three vs. Five Years",
+    "candidates": [
+      "Five-Year Mastery",
+      "Three vs. Five Years",
+      "Kohen as Kli Kodesh",
+      "Levi as Servant",
+      "Soloveitchik",
+      "Kohanim Age Range"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the three-vs-five year debate \u2014 item 1 presents the dispute between the anonymous tanna (five years) and Rabbi Yosei (three years), and item 2 gives the Gemara's reconciliation (Chaldean language is easy; Temple service laws are difficult), which is precisely what the 'Three vs. Five Years' prose section describes.",
+      "chosen_heading": "Three vs. Five Years",
+      "current_heading": "Three vs. Five Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Kohanim Age Range",
+    "candidates": [
+      "Kohen as Kli Kodesh",
+      "Levi as Servant",
+      "Soloveitchik",
+      "Kohanim Age Range",
+      "Leviyim Age 30\u201350",
+      "Leviyim Voice Only",
+      "Voice Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita covers both the Kohen's age range (shtei searot to old age, blemishes disqualify) and the Levi's age range (30-50, years disqualify) and the voice exception, but the current placement under 'Kohanim Age Range' is where the full baraita naturally begins, and the essay's subsequent headings (4, 5, 6) each pick up the individual clauses of this same baraita for commentary \u2014 making heading 3 the correct landing spot for the quoted source text as a whole.",
+      "chosen_heading": "Kohanim Age Range",
+      "current_heading": "Kohanim Age Range",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Voice Requirement",
+    "candidates": [
+      "Leviyim Age 30\u201350",
+      "Leviyim Voice Only",
+      "Voice Requirement",
+      "Trembling Criterion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the II Chronicles 5:13 verse about trumpeters and singers making one sound, which is precisely the verse the prose in 'Voice Requirement' (index 2) explicitly discusses as Rav Yossi's proof-text for elderly Leviyim remaining fit for service.",
+      "chosen_heading": "Voice Requirement",
+      "current_heading": "Voice Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Trembling Criterion",
+    "candidates": [
+      "Trembling Criterion",
+      "Kohen Ritual Roles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the trembling criterion for an aging Kohen, the mishna about baal keri distinguishing elderly/sick from young/healthy, and the definition of 'yeled' via the one-foot balance test with Rabbi Chanina's personal example \u2014 are explicitly discussed together in the 'Trembling Criterion' prose, which traces exactly this chain of Gemara content.",
+      "chosen_heading": "Trembling Criterion",
+      "current_heading": "Trembling Criterion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Kohen Ritual Roles",
+    "candidates": [
+      "Kohen Ritual Roles",
+      "Rebbi's 20-Year Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full braita about beard maturity qualifying one for shaliach tzibbur, leading davening, and Nesi'at Kapayim, plus the threshold of two hairs and Rebbi's 20-year opinion \u2014 matching exactly the prose of candidate 0 which discusses this braita in detail, while candidate 1's prose focuses on the Gemara's analysis of Rebbi's source and the Kohen/Levi equation.",
+      "chosen_heading": "Kohen Ritual Roles",
+      "current_heading": "Kohen Ritual Roles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Rebbi's 20-Year Rule",
+    "candidates": [
+      "Rebbi's 20-Year Rule",
+      "Respect vs. Invalidity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address Rav \u1e24isda's explanation of Rebbi's 20-year rule and the resolution via Rabbi Yehoshua ben Levi's principle that Kohanim are called Levi'im \u2014 exactly what Candidate 0's prose describes in detail.",
+      "chosen_heading": "Rebbi's 20-Year Rule",
+      "current_heading": "Rebbi's 20-Year Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Respect vs. Invalidity",
+    "candidates": [
+      "Respect vs. Invalidity",
+      "Initial Rule Reversal",
+      "Space vs. Contact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the age threshold for Temple service (minor/puberty/twenty years), the distinction between rabbinic invalidity and mere social convention, and the two views (ika de-amri) \u2014 exactly what the 'Respect vs. Invalidity' prose section describes in detail.",
+      "chosen_heading": "Respect vs. Invalidity",
+      "current_heading": "Respect vs. Invalidity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Space vs. Contact",
+    "candidates": [
+      "Initial Rule Reversal",
+      "Space vs. Contact",
+      "Kol Asher Betocho"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna and its baraita explanation directly state the inverse rule (tahor bikli cheres tamei bechol ha-keilim and vice versa), which is precisely what heading 0 'Initial Rule Reversal' describes, while heading 1 'Space vs. Contact' covers the deeper mechanical explanation (avir vs. gab) that follows from this passage.",
+      "chosen_heading": "Initial Rule Reversal",
+      "current_heading": "Space vs. Contact",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Kol Asher Betocho",
+    "candidates": [
+      "Space vs. Contact",
+      "Kol Asher Betocho",
+      "Two Verses Proof",
+      "Mustard Seed Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question 'from where are these matters derived' and the baraita citing 'tokho...even if it did not touch,' which is precisely what the 'Kol Asher Betocho' prose describes as the scriptural basis question and the braita's answer.",
+      "chosen_heading": "Kol Asher Betocho",
+      "current_heading": "Kol Asher Betocho",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Mustard Seed Example",
+    "candidates": [
+      "Two Verses Proof",
+      "Mustard Seed Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yonatan ben Avtolemos's two-verse tocho comparison and the follow-up question about its source, which is precisely what the 'Two Verses Proof' prose describes, not the mustard seed illustration discussed under 'Mustard Seed Example'.",
+      "chosen_heading": "Two Verses Proof",
+      "current_heading": "Mustard Seed Example",
+      "moved": true
+    }
+  }
+]

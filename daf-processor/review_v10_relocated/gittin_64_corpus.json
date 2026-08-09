@@ -1,0 +1,365 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Shaliach Role Switch",
+    "candidates": [
+      "Wife's Shaliach Reception",
+      "Shaliach Role Switch",
+      "Chazar Shlichus Principle",
+      "Rava: Agent Both Parties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the narrative case of the woman kneading dough who tells the shaliach to hold the get, which is exactly what the 'Shaliach Role Switch' section's prose describes and discusses.",
+      "chosen_heading": "Shaliach Role Switch",
+      "current_heading": "Shaliach Role Switch",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rava: Agent Both Parties",
+    "candidates": [
+      "Chazar Shlichus Principle",
+      "Rava: Agent Both Parties",
+      "Rabbi Ami's Opinion",
+      "Safek Megureshes Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's objection invoking the 'lo chazar shlichus eitzel ha'ba'al' principle to invalidate the arrangement, which is precisely what the prose under 'Rava: Agent Both Parties' describes.",
+      "chosen_heading": "Rava: Agent Both Parties",
+      "current_heading": "Rava: Agent Both Parties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Safek Megureshes Status",
+    "candidates": [
+      "Rabbi Ami's Opinion",
+      "Safek Megureshes Status",
+      "Nafsha & Get: Witnesses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Ami's Opinion",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Ami's ruling and Rabbi \u1e24iyya bar Abba's response of uncertainty, which matches candidate 0's prose about Rabbi Ami's opinion and the back-and-forth sending of questions.",
+      "second_heading": "Safek Megureshes Status",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the concluding ruling that this is a 'davar she'be'erva' requiring \u1e25alitza, which is the core content of candidate 1's prose about the safek megureshes status and the practical \u1e25alitza requirement.",
+      "current_heading": "Safek Megureshes Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Nafsha & Get: Witnesses",
+    "candidates": [
+      "Nafsha & Get: Witnesses",
+      "Rewriting Defective Get"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rewriting Defective Get",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses Rav Yitzchak bar Shmuel bar Marta requiring a bill of divorce or chalitza depending on whether the husband is alive or dead, which does not match either candidate's prose well but is more loosely connected to the 'Rewriting Defective Get' section's theme of remedying defective get situations.",
+      "second_heading": "Nafsha & Get: Witnesses",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the case of a woman named Nefata whose witnesses wrote Tefata and Rav Yitzchak bar Shmuel bar Marta ruled that the witnesses have completed their agency \u2014 matching exactly the prose of candidate 0 about 'Nafsha & Get: Witnesses.'",
+      "current_heading": "Nafsha & Get: Witnesses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Rewriting Defective Get",
+    "candidates": [
+      "Rewriting Defective Get",
+      "Writing & Delivery Unite",
+      "Tosafot: Bad vs. Lost Get",
+      "Get to Shaliach Lost"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the exact exchange described in candidate 1's prose: Rabba's position that writing a valid get completes the witnesses' agency, followed by Rav Nachman's objection that writing and delivery are one indivisible mandate, concluding that witnesses may rewrite even one hundred times \u2014 precisely what 'Writing & Delivery Unite' discusses.",
+      "chosen_heading": "Writing & Delivery Unite",
+      "current_heading": "Rewriting Defective Get",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Get to Shaliach Lost",
+    "candidates": [
+      "Writing & Delivery Unite",
+      "Tosafot: Bad vs. Lost Get",
+      "Get to Shaliach Lost",
+      "Ravina's Refinement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's dilemma to Rav Na\u1e25man about 'write and give to an agent,' asking whether the witnesses are dismissed (siluki) or remain empowered, which matches exactly the prose of candidate 2 ('Get to Shaliach Lost').",
+      "chosen_heading": "Get to Shaliach Lost",
+      "current_heading": "Get to Shaliach Lost",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Ravina's Refinement",
+    "candidates": [
+      "Ravina's Refinement",
+      "Kabbalah Language Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly concerns Ravina's question to Rav Ashi about the phrase 've-yolich lah' (and he will deliver it to her), which is exactly what Candidate 0's prose describes as Ravina's refinement regarding the ve-yolich formulation, left as teiku.",
+      "chosen_heading": "Ravina's Refinement",
+      "current_heading": "Ravina's Refinement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Kabbalah Language Baraita",
+    "candidates": [
+      "Kabbalah Language Baraita",
+      "Two Sets of Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabban Shimon ben Gamliel's ruling and the Baraita listing expressions of receipt (toli, sali, yehei b'yadcha), which is precisely what Candidate 0's prose describes under 'Kabbalah Language Baraita.'",
+      "chosen_heading": "Kabbalah Language Baraita",
+      "current_heading": "Kabbalah Language Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Two Sets of Witnesses",
+    "candidates": [
+      "Two Sets of Witnesses",
+      "Tosafot's Challenge",
+      "Same or Different Witness",
+      "Shaliach's Credibility",
+      "Rav Huna vs. Rav Chisda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the opening Mishnah text about a woman requiring two sets of witnesses for her get, which is precisely what the 'Two Sets of Witnesses' prose introduces and discusses in detail.",
+      "chosen_heading": "Two Sets of Witnesses",
+      "current_heading": "Two Sets of Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rav Huna vs. Rav Chisda",
+    "candidates": [
+      "Tosafot's Challenge",
+      "Same or Different Witness",
+      "Shaliach's Credibility",
+      "Rav Huna vs. Rav Chisda",
+      "Same Town Qualifier",
+      "Hemnei Principle",
+      "Money vs. Get Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the exact amoraic dispute between Rav Huna and Rav \u1e24isda about whether the husband or the shalish is believed, which is precisely what the 'Rav Huna vs. Rav Chisda' section's prose describes.",
+      "chosen_heading": "Rav Huna vs. Rav Chisda",
+      "current_heading": "Rav Huna vs. Rav Chisda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Money vs. Get Distinction",
+    "candidates": [
+      "Same Town Qualifier",
+      "Hemnei Principle",
+      "Money vs. Get Distinction",
+      "Whole Get Held",
+      "Eidei Mesira Kartei",
+      "Torn Get, No Holdings"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Money vs. Get Distinction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 are entirely about the Rav Huna/Rav \u1e24isda dispute and the baraita about monetary deposits with the shani mamon distinction, which is exactly what candidate 2's prose describes.",
+      "second_heading": "Whole Get Held",
+      "second_confidence": "medium",
+      "second_reason": "Items 6-11 open with 'We learned in the mishna' introducing the witness requirements for a shaliach holding a get, which candidate 3's prose discusses as the question of why witnesses are needed when the shaliach holds a whole get.",
+      "current_heading": "Money vs. Get Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Torn Get, No Holdings",
+    "candidates": [
+      "Whole Get Held",
+      "Eidei Mesira Kartei",
+      "Torn Get, No Holdings",
+      "Chazaka Shaliach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario discussed in 'Torn Get, No Holdings' prose: husband says he gave the get to the shaliach, shaliach says he delivered it, wife says she received it but it was lost, then the Gemara asks why not believe the shaliach (rejected because the get is not in his hands) and why not believe the husband (accepted only partially), matching the current placement's detailed description of this precise case.",
+      "chosen_heading": "Torn Get, No Holdings",
+      "current_heading": "Torn Get, No Holdings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Chazaka Shaliach",
+    "candidates": [
+      "Chazaka Shaliach",
+      "Woman's Chazaka",
+      "Witness Synthesis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Chazaka Shaliach",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the chazaka shaliach challenge and its resolution (hani mili l'chumra/aval l'kula la), which is exactly what candidate 0's prose describes.",
+      "second_heading": "Woman's Chazaka",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Rav Hamnuna's ruling about a woman's credibility based on 'ein isha me'izah,' which is precisely what candidate 1's prose discusses.",
+      "current_heading": "Chazaka Shaliach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Witness Synthesis",
+    "candidates": [
+      "Woman's Chazaka",
+      "Witness Synthesis",
+      "Naara Me'urasa Status",
+      "Get Reception Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that the chazaka does not apply when there is a supporting factor, which is precisely the content described in candidate 1's prose about when Rav Hamnuna's chazaka applies versus does not apply.",
+      "chosen_heading": "Witness Synthesis",
+      "current_heading": "Witness Synthesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Get Reception Authority",
+    "candidates": [
+      "Naara Me'urasa Status",
+      "Get Reception Authority",
+      "Rashi vs. Tosafot: Child",
+      "Torah's Extra Hand Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah text introduces the topic of the naara me'urasa and her get reception, which is precisely what heading 0 ('Naara Me'urasa Status') sets up as the subject being introduced, while heading 1's prose already discusses the Mishnah's content in detail as if the text has already been presented.",
+      "chosen_heading": "Naara Me'urasa Status",
+      "current_heading": "Get Reception Authority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Torah's Extra Hand Debate",
+    "candidates": [
+      "Rashi vs. Tosafot: Child",
+      "Torah's Extra Hand Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabbanan vs. Rabbi Yehuda dispute about the 'extra hand' granted by the Torah, which is precisely what the 'Torah's Extra Hand Debate' section prose elaborates on.",
+      "chosen_heading": "Torah's Extra Hand Debate",
+      "current_heading": "Torah's Extra Hand Debate",
+      "moved": false
+    }
+  }
+]

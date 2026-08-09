@@ -1,0 +1,566 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Rabbi Yosi Disagrees",
+    "candidates": [
+      "Clear or Unclear",
+      "Rabbi Yosi Disagrees",
+      "Rabban Gamliel Policy",
+      "Psalms Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Clear or Unclear",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna presenting the dispute between the anonymous first opinion and Rabbi Yosi, which candidate 0 ('Clear or Unclear') explicitly discusses as its opening principle.",
+      "second_heading": "Rabbi Yosi Disagrees",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the incident of Rabbi Akiva detaining witnesses in Lod, which candidate 1 ('Rabbi Yosi Disagrees') explicitly discusses in its prose as the illustrative incident following Rabbi Yosi's ruling.",
+      "current_heading": "Rabbi Yosi Disagrees",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Psalms Source",
+    "candidates": [
+      "Rabban Gamliel Policy",
+      "Psalms Source",
+      "Fifty Gates Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text asking about the linguistic meaning of 'alil' and citing Psalms 12:7, which is exactly what the 'Psalms Source' section prose discusses.",
+      "chosen_heading": "Psalms Source",
+      "current_heading": "Psalms Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Fifty Gates Debate",
+    "candidates": [
+      "Fifty Gates Debate",
+      "Kohelet's Ambition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rav and Shmuel debate about fifty gates of understanding given to Moses, which is exactly what the 'Fifty Gates Debate' section prose describes.",
+      "chosen_heading": "Fifty Gates Debate",
+      "current_heading": "Fifty Gates Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Kohelet's Ambition",
+    "candidates": [
+      "Kohelet's Ambition",
+      "Forty Pairs",
+      "Shazpar's Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Kohelet's aspirations (to be like Moses, to judge by intuition) and the Divine Voice's responses, which is precisely what the prose under 'Kohelet's Ambition' (index 0) discusses in detail.",
+      "chosen_heading": "Kohelet's Ambition",
+      "current_heading": "Kohelet's Ambition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Shazpar's Role",
+    "candidates": [
+      "Forty Pairs",
+      "Shazpar's Role",
+      "Day 30 Question",
+      "Father and Son"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehuda's baraita correcting the attribution from Rabbi Akiva to Shazpar/Zefer of Gader and Rabban Gamliel's removal of him from office, which is precisely what the prose under 'Shazpar's Role' discusses.",
+      "chosen_heading": "Shazpar's Role",
+      "current_heading": "Shazpar's Role",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Father and Son",
+    "candidates": [
+      "Day 30 Question",
+      "Father and Son",
+      "Rabbi Shimon Relatives",
+      "Tuvyah Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text about a father and son seeing the new moon and the clarification that they don't combine but serve as backup witnesses matches exactly the prose under 'Father and Son,' which describes this same mishna and its reasoning.",
+      "chosen_heading": "Father and Son",
+      "current_heading": "Father and Son",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Tuvyah Story",
+    "candidates": [
+      "Rabbi Shimon Relatives",
+      "Tuvyah Story",
+      "Beit Din Reversal",
+      "Priestly vs. Rabbinic",
+      "Verse Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Tuvyah incident including both the priests' and the court's decisions, and the current heading 'Tuvyah Story' with its prose directly introduces this exact episode.",
+      "chosen_heading": "Tuvyah Story",
+      "current_heading": "Tuvyah Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Verse Interpretation",
+    "candidates": [
+      "Beit Din Reversal",
+      "Priestly vs. Rabbinic",
+      "Verse Interpretation",
+      "Rabbanan Response",
+      "Type of Testimony",
+      "Lichtenstein View",
+      "Conflicting Rulings",
+      "Rav Silence",
+      "Reversed Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Levi's derivation of Rabbi Shimon's position from the verse and the Rabbanan's counter-interpretation of that same verse, which is precisely what the 'Verse Interpretation' section's prose describes.",
+      "chosen_heading": "Verse Interpretation",
+      "current_heading": "Verse Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Reversed Positions",
+    "candidates": [
+      "Rabbanan Response",
+      "Type of Testimony",
+      "Lichtenstein View",
+      "Conflicting Rulings",
+      "Rav Silence",
+      "Reversed Positions",
+      "Shmuel's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the 'Conflicting Rulings' section, which describes exactly this exchange: Rav Chana bar Abba ruling hilcheta ke-Rabbi Shimon and Rav Huna challenging him with Rabbi Yosi's story of Tuvyah.",
+      "chosen_heading": "Conflicting Rulings",
+      "current_heading": "Reversed Positions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Shmuel's Ruling",
+    "candidates": [
+      "Reversed Positions",
+      "Shmuel's Ruling",
+      "Disqualified List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the exchange about reversed attributions (Rav Huna's question and Rav \u1e24anan's admission) AND Shmuel's ruling, but the 'Reversed Positions' prose explicitly describes this entire dialogue including the reversal revelation, while the 'Shmuel's Ruling' section prose discusses only the Tavi/Mar Ukva/Shmuel chain \u2014 the full passage logically belongs under 'Reversed Positions' which covers the complete exchange that leads into the Shmuel ruling.",
+      "chosen_heading": "Reversed Positions",
+      "current_heading": "Shmuel's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Disqualified List",
+    "candidates": [
+      "Disqualified List",
+      "General Rule",
+      "Woman's Testimony",
+      "Gazlan Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself enumerating the disqualified categories and the general principle, and the 'Disqualified List' prose directly describes exactly this content \u2014 the enumeration of the invalid witness categories from Sanhedrin.",
+      "chosen_heading": "Disqualified List",
+      "current_heading": "Disqualified List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Gazlan Categories",
+    "candidates": [
+      "General Rule",
+      "Woman's Testimony",
+      "Gazlan Categories",
+      "Severity Question",
+      "Tosafot & Rashi",
+      "Transport Help",
+      "Defense & Supply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The Gemara passage directly states Rav Ashi's conclusion that a rabbinic-level gazlan is valid for edut ishah, which is precisely the content discussed in the 'Gazlan Categories' prose section.",
+      "chosen_heading": "Gazlan Categories",
+      "current_heading": "Gazlan Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Defense & Supply",
+    "candidates": [
+      "Severity Question",
+      "Tosafot & Rashi",
+      "Transport Help",
+      "Defense & Supply",
+      "Time Constraint",
+      "Verse Justification",
+      "Vouching System"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Transport Help",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna covering transport of a witness who cannot walk (donkey/bed) and carrying weapons, which matches the 'Transport Help' prose about witnesses being transported on Shabbat.",
+      "second_heading": "Defense & Supply",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers carrying provisions on a long journey and the Shabbat desecration justification, which matches 'Defense & Supply' prose about carrying weapons and food provisions despite Shabbat.",
+      "current_heading": "Defense & Supply",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Vouching System",
+    "candidates": [
+      "Time Constraint",
+      "Verse Justification",
+      "Vouching System"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "low",
+      "reason": "The Hadaran formula marks the end of a chapter/tractate section and doesn't clearly match any candidate's prose content; the current placement under 'Vouching System' is as plausible as any other, so the current placement is retained.",
+      "chosen_heading": "Vouching System",
+      "current_heading": "Vouching System",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Vouching System",
+    "candidates": [
+      "Vouching System",
+      "One vs. Pair",
+      "One Sufficient",
+      "Pappa's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the exact mishna text about unrecognized witnesses and the Boethusians corrupting the process, which is precisely what the 'Vouching System' prose discusses and analyzes in detail.",
+      "chosen_heading": "Vouching System",
+      "current_heading": "Vouching System",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Pappa's Solution",
+    "candidates": [
+      "One vs. Pair",
+      "One Sufficient",
+      "Pappa's Solution",
+      "Rabbi Nehorai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous gemara discussion about whether 'another' in the mishna means one individual or a pair, which is precisely what heading 0 ('One vs. Pair') describes \u2014 the question is raised, the baraita challenge is introduced, Rav Pappa resolves it with 'zug acher,' and the gemara confirms with the 'oso' argument, all as one unbroken unit.",
+      "chosen_heading": "One vs. Pair",
+      "current_heading": "Pappa's Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Rabbi Nehorai",
+    "candidates": [
+      "Pappa's Solution",
+      "Rabbi Nehorai",
+      "Two Witnesses Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge 'v'chad lo meheman' \u2014 questioning whether one witness is really not believed \u2014 which Pappa's Solution prose explicitly describes as the question the Gemara poses immediately after committing to the two-witness reading, before introducing the Rabbi Nehorai story.",
+      "chosen_heading": "Pappa's Solution",
+      "current_heading": "Rabbi Nehorai",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Two Witnesses Needed",
+    "candidates": [
+      "Two Witnesses Needed",
+      "Ulla's Report",
+      "Revelation Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue the discussion about two witnesses being required and the Rabbi Nehorai incident, matching precisely the prose of candidate 0 which describes both Rav Ashi's variant explanation and the chiddush about not hesitating to violate Shabbat even in a case of uncertainty.",
+      "chosen_heading": "Two Witnesses Needed",
+      "current_heading": "Two Witnesses Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Revelation Principle",
+    "candidates": [
+      "Ulla's Report",
+      "Revelation Principle",
+      "End-of-World Report",
+      "Identity vs. Revelation",
+      "Original Openness",
+      "False Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Ulla's arrival report and the revelation principle together, but candidate 0 ('Ulla's Report') introduces the full scene including Rav Kahana's observation, while candidates 1 and 2 split the content artificially \u2014 however, since the passage is a single continuous unit covering Ulla's report, Rav Kahana's principle, and the baraita confirmation, and candidate 0's prose best frames the opening context that encompasses the whole, it is the better home; that said, the current placement at candidate 1 also covers much of the same content, making this a close call.",
+      "chosen_heading": "Ulla's Report",
+      "current_heading": "Revelation Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "False Testimony",
+    "candidates": [
+      "End-of-World Report",
+      "Identity vs. Revelation",
+      "Original Openness",
+      "False Testimony",
+      "Undercover Agent",
+      "Ridiculous Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna's opening 'barishonah hayu mekabelin edut ha-chodesh mikol adam' and then begins the baraita about the Boethusians, which maps precisely onto heading 2 ('Original Openness') whose prose quotes that exact phrase and describes the original unrestricted acceptance \u2014 the Boethusian corruption detail is the transition, but the passage starts with and centers on that original openness theme that heading 2 explicitly addresses.",
+      "chosen_heading": "Original Openness",
+      "current_heading": "False Testimony",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Ridiculous Details",
+    "candidates": [
+      "Undercover Agent",
+      "Ridiculous Details",
+      "Confession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the witness's absurd testimony about seeing the moon with animal features and revealing the 200 zuz payment, which is precisely what the 'Ridiculous Details' section's prose discusses.",
+      "chosen_heading": "Ridiculous Details",
+      "current_heading": "Ridiculous Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Confession",
+    "candidates": [
+      "Confession",
+      "Response & Reform"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the witness's confession of his motivation\u2014explaining he heard the Boethusians were plotting and acted to expose them\u2014which matches exactly what the 'Confession' section's prose describes.",
+      "chosen_heading": "Confession",
+      "current_heading": "Confession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Response & Reform",
+    "candidates": [
+      "Response & Reform",
+      "Beacon Method",
+      "Sabotage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the beit din's response (gift of 200 zuz, flogging the hirer, and the new institution of accepting testimony only from recognized witnesses), which matches exactly what the 'Response & Reform' prose discusses.",
+      "chosen_heading": "Response & Reform",
+      "current_heading": "Response & Reform",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Sabotage",
+    "candidates": [
+      "Beacon Method",
+      "Sabotage",
+      "Technical Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna introduces both the beacon system and its sabotage as a unified narrative, but its primary subject is the original beacon/torch system ('barishonah hayu masi'in masu'ot'), which matches the 'Beacon Method' section's prose about the original mountaintop bonfire communication system.",
+      "chosen_heading": "Beacon Method",
+      "current_heading": "Sabotage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Technical Details",
+    "candidates": [
+      "Sabotage",
+      "Technical Details",
+      "Mountain Chain",
+      "Full Coverage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the physical construction and waving technique of the beacon torches, which matches exactly the 'Technical Details' section's prose about cedar poles, flax fiber, and the waving motion.",
+      "chosen_heading": "Technical Details",
+      "current_heading": "Technical Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "Full Coverage",
+    "candidates": [
+      "Mountain Chain",
+      "Full Coverage",
+      "Messenger Switch"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the entire chain of beacon stations from Mount of Olives through Beit Baltin, which matches the 'Mountain Chain' section's prose describing exactly that route, whereas the current placement under 'Full Coverage' only addresses the final waving action at Beit Baltin.",
+      "chosen_heading": "Mountain Chain",
+      "current_heading": "Full Coverage",
+      "moved": true
+    }
+  }
+]

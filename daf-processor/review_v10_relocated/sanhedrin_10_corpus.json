@@ -1,0 +1,333 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishkav Zachar Victim",
+    "candidates": [
+      "Rav Yosef Intro",
+      "Mishkav Zachar Victim",
+      "Willing Participant",
+      "Rava's Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Yosef's ruling about the rape victim combining testimony to execute the perpetrator, which is precisely what the 'Mishkav Zachar Victim' section's prose discusses.",
+      "chosen_heading": "Mishkav Zachar Victim",
+      "current_heading": "Mishkav Zachar Victim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rava's Doctrine",
+    "candidates": [
+      "Willing Participant",
+      "Rava's Doctrine",
+      "Adultery Case",
+      "Doctrine Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the 'willing consent' disqualification reasoning (rasha/al tashes rasha) AND Rava's principle (adam karov eitzel atzmo), but the prose under heading 0 ('Willing Participant') explicitly discusses both aspects together \u2014 the rasha disqualification and introduces the contrast \u2014 while heading 1 ('Rava's Doctrine') discusses only Rava's principle in isolation; the Gemara text presents both rulings as a unified exchange that belongs under the 'Willing Participant' section where the full context is introduced.",
+      "chosen_heading": "Willing Participant",
+      "current_heading": "Rava's Doctrine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Doctrine Debate",
+    "candidates": [
+      "Adultery Case",
+      "Doctrine Debate",
+      "Bestiality Case",
+      "Property Question",
+      "Resolution",
+      "Three Judges Source",
+      "Shoftim Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Adultery Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rava's ruling about a husband testifying that someone slept with his wife and the subsequent question about whether palginan dibura applies to one's wife, which is exactly what the 'Adultery Case' prose discusses.",
+      "second_heading": "Doctrine Debate",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 cover Rava's rulings about the betrothed young woman and the bestiality case with the ox, along with Rava's dilemma about property, which is what 'Doctrine Debate' prose discusses in its latter portion (na'ara me'orasa and the ox cases).",
+      "current_heading": "Doctrine Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Shoftim Source",
+    "candidates": [
+      "Bestiality Case",
+      "Property Question",
+      "Resolution",
+      "Three Judges Source",
+      "Shoftim Source",
+      "Ulla's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the content described in heading 3 ('Three Judges Source'): Item 1 is Rav Huna's derivation of three judges for lashes from 'ushfatam,' and Item 2 is the challenge about 'vehitzdiku/vehirshiu' implying seven judges \u2014 precisely what the prose of heading 3 describes, ending with 'They are needed for something else entirely \u2014 for what Ulla teaches,' which then transitions to heading 4 ('Ulla's Teaching').",
+      "chosen_heading": "Three Judges Source",
+      "current_heading": "Shoftim Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Ulla's Teaching",
+    "candidates": [
+      "Shoftim Source",
+      "Ulla's Teaching",
+      "Lav She'Ein Bo",
+      "Rabbi Ishmael View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Ulla's derivation of lashes for conspiring witnesses from 'vehitzdiku/vehirshiu,' the Gemara's explanation of that derivation, and the question/answer about deriving from 'lo ta'aneh' \u2014 are precisely the content described in the 'Ulla's Teaching' prose, which explicitly covers all these points in sequence.",
+      "chosen_heading": "Ulla's Teaching",
+      "current_heading": "Ulla's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rabbi Ishmael View",
+    "candidates": [
+      "Lav She'Ein Bo",
+      "Rabbi Ishmael View",
+      "Rava's View",
+      "Challenge to Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yishmael's view that lashes require 23 judges and Abaye's gezeira shava derivation from 'rasha'/'rasha', which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Rabbi Ishmael View",
+      "current_heading": "Rabbi Ishmael View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Challenge to Rava",
+    "candidates": [
+      "Rava's View",
+      "Challenge to Rava",
+      "Nikla Achicha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's statement and Rav Acha's challenge, and the current placement under 'Challenge to Rava' is correct since the prose there explicitly discusses both elements together, matching the full content of the quoted text.",
+      "chosen_heading": "Challenge to Rava",
+      "current_heading": "Challenge to Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Nikla Achicha",
+    "candidates": [
+      "Nikla Achicha",
+      "Calendar Intro",
+      "Ibur vs Kiddush",
+      "Abaye's Fix",
+      "Rava's Day 30"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the verse 'veniklah achicha le'einecha' and its requirement that the lashed person remain alive ('your brother') throughout and after the flogging, which is precisely what the 'Nikla Achicha' section's prose describes.",
+      "chosen_heading": "Nikla Achicha",
+      "current_heading": "Nikla Achicha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Rava's Day 30",
+    "candidates": [
+      "Calendar Intro",
+      "Ibur vs Kiddush",
+      "Abaye's Fix",
+      "Rava's Day 30",
+      "Rabbi Elazar View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ibur vs Kiddush",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Gemara's terminological puzzle about why the Mishnah uses 'ibur' rather than 'chishuv' or 'kiddush', and asks why judges are needed if intercalation happens passively \u2014 exactly the content described in the 'Ibur vs Kiddush' prose.",
+      "second_heading": "Abaye's Fix",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Abaye's emendation proposal (tani kiddush hachodesh) supported by the Tosefta, followed by Rava's objection and counter-reading \u2014 exactly the content described in 'Abaye's Fix' prose, with Rava's portion belonging to 'Rava's Day 30'.",
+      "current_heading": "Rava's Day 30",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Rabbi Elazar View",
+    "candidates": [
+      "Rava's Day 30",
+      "Rabbi Elazar View",
+      "Rav Nachman View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Elazar ben Tzadok's teaching about the new moon not seen at its time and heaven's sanctification, which is precisely what the 'Rabbi Elazar View' prose section discusses.",
+      "chosen_heading": "Rabbi Elazar View",
+      "current_heading": "Rabbi Elazar View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rav Nachman View",
+    "candidates": [
+      "Rav Nachman View",
+      "Rav Ashi Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Na\u1e25man's opposing view and the Pleimo baraita, which is precisely what the 'Rav Nachman View' prose section describes and analyzes.",
+      "chosen_heading": "Rav Nachman View",
+      "current_heading": "Rav Nachman View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Rav Ashi Resolution",
+    "candidates": [
+      "Rav Ashi Resolution",
+      "Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the content described in the 'Rav Ashi Resolution' prose: item 1 is Rav Ashi's resolution restoring the meaning of ibur as chishuv, and item 2 is the Gemara's follow-up noting that this aligns with Rabbi Eliezer's view that kiddush hachodesh requires no formal sanctification \u2014 both explicitly discussed in that section's prose.",
+      "chosen_heading": "Rav Ashi Resolution",
+      "current_heading": "Rav Ashi Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Framework",
+    "candidates": [
+      "Framework",
+      "Stage One: Three",
+      "Stage Two: Five"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Stage One mechanics \u2014 three judges convening, one saying to sit and two saying not to, and the single opinion being negated \u2014 which matches the 'Stage One: Three' prose precisely, not the general framework prose.",
+      "chosen_heading": "Stage One: Three",
+      "current_heading": "Framework",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Stage Two: Five",
+    "candidates": [
+      "Stage One: Three",
+      "Stage Two: Five",
+      "Stage Three: Seven",
+      "Sources Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Stage Two process: two judges added to make five, debate of the matter, and the vote outcomes at that stage, including the threshold for moving to seven \u2014 which is precisely what the Stage Two prose describes.",
+      "chosen_heading": "Stage Two: Five",
+      "current_heading": "Stage Two: Five",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Sources Debate",
+    "candidates": [
+      "Stage Three: Seven",
+      "Sources Debate",
+      "Rav Yosef & Abaye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's debate between Rabbi Yitzchak bar Nachmani and Rabbi Shimon ben Pazi about the basis for the numbers three, five, and seven, which is precisely what the 'Sources Debate' section's prose discusses in detail.",
+      "chosen_heading": "Sources Debate",
+      "current_heading": "Sources Debate",
+      "moved": false
+    }
+  }
+]

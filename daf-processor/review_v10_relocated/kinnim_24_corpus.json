@@ -1,0 +1,59 @@
+[
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Olah Symmetry",
+    "candidates": [
+      "Perek 3 Introduction",
+      "Permission Framework",
+      "Paradox Setup",
+      "Equal Groups Rule",
+      "Three Scenarios",
+      "Worst-Case Analysis",
+      "Permission: Smallest Size",
+      "No Permission: Kosher",
+      "Hameruba Kasher",
+      "116 vs 100 Example",
+      "General Rule",
+      "All Die Rule",
+      "Without Permission",
+      "Half and Half Result",
+      "Three-Type Mix",
+      "Only Stuma Good",
+      "Raavad's View",
+      "Permission Rule",
+      "Chovah 2x Chatat",
+      "Chatat 2x Chovah",
+      "Olah Symmetry",
+      "Correct Procedure",
+      "Priest's Mistake",
+      "Woman's Makeup",
+      "Type Unknown",
+      "Two Types Solution",
+      "Forgot But Single Type",
+      "Three Bird Makeup",
+      "Four Bird Solution",
+      "Togetherness Requirement",
+      "Five Birds Single Type",
+      "Six Birds Two Types"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Permission Framework",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-4 cover the no-permission kohen cases with equal/unequal groups and designated bird mixtures, matching the Permission Framework and related sections.",
+      "second_heading": "Permission Rule",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 are identical text describing chatat/olah mixed with chovah obligatory offerings, which exactly matches the 'Permission Rule' prose discussing chatos shenisarvu bechovah and the rules for what is valid.",
+      "current_heading": "Olah Symmetry",
+      "moved": true
+    }
+  }
+]

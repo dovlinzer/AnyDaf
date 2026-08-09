@@ -1,0 +1,341 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Opening & Context",
+    "candidates": [
+      "Opening & Context",
+      "Shoel Liability Review"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute the baraita and gemara discussion about Rabbi Yoshiya vs. Rabbi Yonatan's dispute over deriving independent liability from a verse listing two criteria, which is precisely what the 'Opening & Context' prose describes as the methodological background machloket underlying the passage.",
+      "chosen_heading": "Opening & Context",
+      "current_heading": "Opening & Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Shoel Liability Review",
+    "candidates": [
+      "Shoel Liability Review",
+      "Shoel vs. Shomer Sachar",
+      "Gezerah Shava Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a single continuous unit about deriving a borrower's liability for theft or loss via kal vachomer from the paid bailee, addressing the potential refutation about kefel and the alternative resolution regarding armed bandits \u2014 exactly the content described in the 'Shoel Liability Review' prose.",
+      "chosen_heading": "Shoel Liability Review",
+      "current_heading": "Shoel Liability Review",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Gezerah Shava Derivation",
+    "candidates": [
+      "Shoel vs. Shomer Sachar",
+      "Gezerah Shava Derivation",
+      "Principle of Dayo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage traces exactly the chain of reasoning described in heading 0's prose: deriving the shoel's exemption from shomer sachar, the cross-derivation, the vav/conjunction argument, and the dayo principle \u2014 all of which are explicitly narrated in heading 0, whereas heading 1 ('Gezerah Shava Derivation') where it currently sits discusses material that comes after this derivational chain.",
+      "chosen_heading": "Shoel vs. Shomer Sachar",
+      "current_heading": "Gezerah Shava Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Principle of Dayo",
+    "candidates": [
+      "Gezerah Shava Derivation",
+      "Principle of Dayo",
+      "Vav Conjunctions",
+      "Rav Acha vs. Ravina"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Principle of Dayo",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's question about how those who reject dayo derive the shoel's exemption, which belongs under 'Principle of Dayo' where that concern is explicitly discussed.",
+      "second_heading": "Vav Conjunctions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the vav-based derivation for those who reject dayo, which is precisely what the 'Vav Conjunctions' section's prose describes.",
+      "current_heading": "Principle of Dayo",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rav Acha vs. Ravina",
+    "candidates": [
+      "Vav Conjunctions",
+      "Rav Acha vs. Ravina",
+      "Peshiah Not Exempted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the amoraic dispute between Rav A\u1e25a and Ravina regarding peshiah b'baalim, which is precisely what the 'Rav Acha vs. Ravina' section's prose introduces and discusses.",
+      "chosen_heading": "Rav Acha vs. Ravina",
+      "current_heading": "Rav Acha vs. Ravina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Peshiah Not Exempted",
+    "candidates": [
+      "Peshiah Not Exempted",
+      "Peshiah Exempted"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Peshiah Not Exempted",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the 'chayav' opinion's reasoning (mikra nidrash l'fanav v'lo l'fne fanav, peshiah comes via kal vachomer from shomer chinam, ba'alav imo only exempts explicitly written liabilities), which matches exactly the 'Peshiah Not Exempted' prose.",
+      "second_heading": "Peshiah Exempted",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 present the 'patur' opinion (mikra nidrash l'fanav u'l'fne fanav, ba'alav imo reaches shomer chinam) and the Mishnaic proof for it, matching the 'Peshiah Exempted' prose discussion of the opposing position.",
+      "current_heading": "Peshiah Not Exempted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Peshiah Exempted",
+    "candidates": [
+      "Peshiah Exempted",
+      "Four Mishnah Cases",
+      "Explicit vs. Derived"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is a Gemara rejection arguing that shomer sachar is not explicitly taught in the mishnah, which directly matches the 'Explicit vs. Derived' section's discussion of why shomer sachar and shomer chinam are omitted from the mishnah because their exemptions come from drashot rather than explicit Torah text.",
+      "chosen_heading": "Explicit vs. Derived",
+      "current_heading": "Peshiah Exempted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Explicit vs. Derived",
+    "candidates": [
+      "Four Mishnah Cases",
+      "Explicit vs. Derived",
+      "Socher Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's conclusion that the tanna only teaches explicitly written cases and not those derived through interpretation, which is precisely what the 'Explicit vs. Derived' section's prose describes.",
+      "chosen_heading": "Explicit vs. Derived",
+      "current_heading": "Explicit vs. Derived",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Socher Liability",
+    "candidates": [
+      "Socher Liability",
+      "Rav Hamnuna's Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the baraita about borrowing/renting with the owner, then the debate over whether it follows Rabbi Yehuda or Rabbi Meir regarding socher liability \u2014 exactly what the 'Socher Liability' prose describes, including the machloket and Rabba bar Avuha's reversal.",
+      "chosen_heading": "Socher Liability",
+      "current_heading": "Socher Liability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rav Hamnuna's Conditions",
+    "candidates": [
+      "Rav Hamnuna's Conditions",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Hamnuna's statement with his specific conditions for the ba'alav imo exemption, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rav Hamnuna's Conditions",
+      "current_heading": "Rav Hamnuna's Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Rava's Challenge",
+      "Reisha & Seifa Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's challenge and its immediate resolution (the 'same work/different place' explanation), which is precisely what heading 0 'Rava's Challenge' describes in its prose.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Reisha & Seifa Analysis",
+    "candidates": [
+      "Reisha & Seifa Analysis",
+      "Three Explanations",
+      "Employment Model",
+      "Quasi-Ownership",
+      "Second Braitah",
+      "Rava's Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the continuous gemara debate about whether the reisha and seifa of the baraita concern the same or different types of labor, which is precisely what the 'Reisha & Seifa Analysis' prose describes.",
+      "chosen_heading": "Reisha & Seifa Analysis",
+      "current_heading": "Reisha & Seifa Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Rava's Conclusion",
+    "candidates": [
+      "Three Explanations",
+      "Employment Model",
+      "Quasi-Ownership",
+      "Second Braitah",
+      "Rava's Conclusion",
+      "Abaye's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the two baraitot that refute Rav Hamnuna's second condition \u2014 precisely what candidate 3 ('Second Braitah') describes in its prose \u2014 whereas candidate 4 ('Rava's Conclusion') discusses the outcome and implications after the refutation, not the baraitot themselves.",
+      "chosen_heading": "Second Braitah",
+      "current_heading": "Rava's Conclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Abaye's Position",
+    "candidates": [
+      "Rava's Conclusion",
+      "Abaye's Position",
+      "Rava's Position",
+      "Abaye's Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states that Abaye holds like Rabbi Yoshiya and Rava holds like Rabbi Yonatan, which is precisely what the prose under 'Abaye's Position' (index 1) summarizes, making the current placement correct.",
+      "chosen_heading": "Abaye's Position",
+      "current_heading": "Abaye's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Abaye's Criteria",
+    "candidates": [
+      "Rava's Position",
+      "Abaye's Criteria",
+      "Rava's Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present Abaye's derivation from the two verses following Rabbi Yoshiya's method \u2014 the objection from the second verse and its resolution \u2014 which is precisely what the 'Abaye's Criteria' prose describes in detail.",
+      "chosen_heading": "Abaye's Criteria",
+      "current_heading": "Abaye's Criteria",
+      "moved": false
+    }
+  }
+]

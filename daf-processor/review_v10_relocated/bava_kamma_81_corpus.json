@@ -1,0 +1,280 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Grazing & Gathering",
+    "candidates": [
+      "Ten Takkanot Overview",
+      "Grazing & Gathering",
+      "Water & Fishing Rights",
+      "Paths & Privacy Rights",
+      "Lost Vineyard & Burial",
+      "Small Animals: Forest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the complete baraita listing all ten of Joshua's conditions, which corresponds precisely to the 'Ten Takkanot Overview' section whose prose describes the opening baraita of asarah tenayim as a whole unit, rather than the 'Grazing & Gathering' section which discusses only the first few stipulations in detail.",
+      "chosen_heading": "Ten Takkanot Overview",
+      "current_heading": "Grazing & Gathering",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Small Animals: Forest",
+    "candidates": [
+      "Water & Fishing Rights",
+      "Paths & Privacy Rights",
+      "Lost Vineyard & Burial",
+      "Small Animals: Forest",
+      "Gathering Sticks Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Pappa's qualification about small vs. large animals grazing in forests, which directly matches the 'Small Animals: Forest' section's prose about exactly this content.",
+      "chosen_heading": "Small Animals: Forest",
+      "current_heading": "Small Animals: Forest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Gathering Sticks Rules",
+    "candidates": [
+      "Gathering Sticks Rules",
+      "Fenugreek & Grasses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the layered qualifications on gathering thorns/shrubs (thornbushes only, attached only, moist only, no uprooting), which is precisely what the 'Gathering Sticks Rules' prose describes in detail.",
+      "chosen_heading": "Gathering Sticks Rules",
+      "current_heading": "Gathering Sticks Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Fenugreek & Grasses",
+    "candidates": [
+      "Fenugreek & Grasses",
+      "Olive Tree Branches",
+      "Other Tree Branches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the fenugreek/grasses tension and its resolutions (Rav Yirmeya's seed vs. stalk distinction and Rav Pappa's human vs. animal distinction), which is precisely what the 'Fenugreek & Grasses' prose describes in detail.",
+      "chosen_heading": "Fenugreek & Grasses",
+      "current_heading": "Fenugreek & Grasses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Other Tree Branches",
+    "candidates": [
+      "Olive Tree Branches",
+      "Other Tree Branches",
+      "Wellspring Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together cover the rules for taking shoots from reeds/grapevines, other trees (thick vs. thin part), new vs. old branches, and sun-exposed vs. shaded locations \u2014 exactly the content described in the 'Other Tree Branches' prose, including the verse u-mi-meged tevu'ot shamesh.",
+      "chosen_heading": "Other Tree Branches",
+      "current_heading": "Other Tree Branches",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Wellspring Rights",
+    "candidates": [
+      "Wellspring Rights",
+      "Fishing Methods",
+      "Kinneret Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about a new spring emerging on private land, the townspeople's right to draw water, Rabba bar Rav Huna's payment requirement, and the Gemara's rejection of his ruling is precisely what the 'Wellspring Rights' section discusses.",
+      "chosen_heading": "Wellspring Rights",
+      "current_heading": "Wellspring Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Kinneret Ownership",
+    "candidates": [
+      "Fishing Methods",
+      "Kinneret Ownership",
+      "Relieving Oneself"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the fishing stipulation, the Kinneret's ownership by Naphtali, Rabbi Shimon ben Elazar's ruling on detached vs. attached items, and the distribution of landscape types among tribes \u2014 are explicitly discussed in the 'Kinneret Ownership' prose, making that the correct placement.",
+      "chosen_heading": "Kinneret Ownership",
+      "current_heading": "Kinneret Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Relieving Oneself",
+    "candidates": [
+      "Relieving Oneself",
+      "Kavod Habriyot on Shabbat",
+      "Paths of Reshut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the basic ruling about relieving oneself behind a fence (Rav Acha bar Yaakov's interpretation) and the Shabbat extension (Rav Chisda, Mar Zutra), and while heading 1 covers the Shabbat aspect, heading 0's prose explicitly discusses all elements of this passage including the stone-taking chiddush and the saffron field, making it the better single home for the entire passage.",
+      "chosen_heading": "Relieving Oneself",
+      "current_heading": "Relieving Oneself",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Paths of Reshut",
+    "candidates": [
+      "Kavod Habriyot on Shabbat",
+      "Paths of Reshut",
+      "Hardened Mud Paths",
+      "Shmuel & Rav Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses walking through permitted paths until the second rainfall and Rav Pappa's qualification about dew in Babylonian fields, which matches exactly the prose under 'Paths of Reshut' about the agricultural calendar stipulation and the second rainfall condition.",
+      "chosen_heading": "Paths of Reshut",
+      "current_heading": "Paths of Reshut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Shmuel & Rav Yehuda",
+    "candidates": [
+      "Hardened Mud Paths",
+      "Shmuel & Rav Yehuda",
+      "Yehoshua's Rules Outside",
+      "Rebbi vs. Ben Kenusa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Shmuel veering off the road and Rav Yehuda's challenge about Babylonia, which is exactly what the 'Shmuel & Rav Yehuda' section's prose introduces, before the response/debate continues under the next heading.",
+      "chosen_heading": "Shmuel & Rav Yehuda",
+      "current_heading": "Shmuel & Rav Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Rebbi vs. Ben Kenusa",
+    "candidates": [
+      "Yehoshua's Rules Outside",
+      "Rebbi vs. Ben Kenusa",
+      "Self-Rescue in Vineyard",
+      "Rescuing the Lost"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete episode of Rebbi and Rabbi \u1e24iyya encountering Rabbi Yehuda ben Kenusa on the road, which is precisely what the prose under heading 1 ('Rebbi vs. Ben Kenusa') describes in detail.",
+      "chosen_heading": "Rebbi vs. Ben Kenusa",
+      "current_heading": "Rebbi vs. Ben Kenusa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Rescuing the Lost",
+    "candidates": [
+      "Self-Rescue in Vineyard",
+      "Rescuing the Lost",
+      "Deoraisa vs. Drabanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about the lost person and bystander cutting through vineyards, and the Gemara's question about 've-chen' \u2014 are precisely the content described in the 'Rescuing the Lost' prose, which explicitly discusses both scenarios and the Gemara's reasoning about why the lost person's case needed to be stated separately.",
+      "chosen_heading": "Rescuing the Lost",
+      "current_heading": "Rescuing the Lost",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Deoraisa vs. Drabanan",
+    "candidates": [
+      "Deoraisa vs. Drabanan",
+      "Yehoshua's Tikkun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of why Joshua's stipulation is necessary given the existing Torah-law obligation to return a lost person, which is precisely what heading 0 ('Deoraisa vs. Drabanan') discusses in its prose.",
+      "chosen_heading": "Deoraisa vs. Drabanan",
+      "current_heading": "Deoraisa vs. Drabanan",
+      "moved": false
+    }
+  }
+]

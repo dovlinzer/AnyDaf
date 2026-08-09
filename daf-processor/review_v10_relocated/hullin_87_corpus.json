@@ -1,0 +1,364 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Linguistic Analysis",
+    "candidates": [
+      "Multiple Animals",
+      "Linguistic Analysis",
+      "Scriptural Source",
+      "Rabbi Yehuda's Or"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishna ruling on multiple animals, the baraita's linguistic derivation, and Rabbi Yehuda's dissent \u2014 together form the opening unit discussed under 'Multiple Animals,' whose prose explicitly describes both the general ruling (one covering suffices) and Rabbi Yehuda's dispute about chaya and oph requiring separate treatment, matching the content of all three items precisely.",
+      "chosen_heading": "Multiple Animals",
+      "current_heading": "Linguistic Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Rabbi Yehuda's Or",
+    "candidates": [
+      "Scriptural Source",
+      "Rabbi Yehuda's Or",
+      "Rabbi Chanina",
+      "Ravina's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items continue the back-and-forth between Rabbi Yehuda and the Rabbis over the use of 'o' and 'damo', which is precisely the content described in the 'Rabbi Yehuda's Or' prose section.",
+      "chosen_heading": "Rabbi Yehuda's Or",
+      "current_heading": "Rabbi Yehuda's Or",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Ravina's Question",
+    "candidates": [
+      "Rabbi Chanina",
+      "Ravina's Question",
+      "Hefsek Concern",
+      "Bentching Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Chanina's statement about Rabbi Yehuda conceding only one blessing AND Ravina's opening question \u2014 both of which are introduced and discussed under heading 0 ('Rabbi Chanina'), whose prose explicitly covers both the Rabbi Chanina teaching and the subsequent question 'mai shna me-hamidei de-Rav,' making heading 0 the clear best match for this single combined passage.",
+      "chosen_heading": "Rabbi Chanina",
+      "current_heading": "Ravina's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Bentching Story",
+    "candidates": [
+      "Hefsek Concern",
+      "Bentching Story",
+      "Simultaneity Argument",
+      "Ambidextrous Act",
+      "Tosafos Signals End",
+      "What Is Hefsek",
+      "One Slaughters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Rav Beruna/Rav Chananel story and its rejection as an analogy \u2014 exactly what heading 0 ('Hefsek Concern') describes in its prose, while heading 1 ('Bentching Story') discusses the implication of that story for the covering case and Tosafos's analysis, which comes after this passage.",
+      "chosen_heading": "Hefsek Concern",
+      "current_heading": "Bentching Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "One Slaughters",
+    "candidates": [
+      "Simultaneity Argument",
+      "Ambidextrous Act",
+      "Tosafos Signals End",
+      "What Is Hefsek",
+      "One Slaughters",
+      "Spiller Must Cover"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The Mishna discusses who is obligated to cover blood when the shochet did not \u2014 exactly what the prose under 'One Slaughters' addresses, including the structural shift of obligation to another person who sees the uncovered blood.",
+      "chosen_heading": "One Slaughters",
+      "current_heading": "One Slaughters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Spiller Must Cover",
+    "candidates": [
+      "Spiller Must Cover",
+      "Respectful Covering",
+      "Jumped Ahead Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about 'veshafach vechisa' establishing that the spiller must cover, and the derivation from 'va'omar livnei yisrael' for the communal obligation \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Spiller Must Cover",
+      "current_heading": "Spiller Must Cover",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Jumped Ahead Story",
+    "candidates": [
+      "Respectful Covering",
+      "Jumped Ahead Story",
+      "Fine Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both baraitot \u2014 the one about not covering with one's foot (respectful covering) and the one about who must cover plus the Rabban Gamliel incident \u2014 and candidate 0's prose explicitly covers both the foot-covering baraita and introduces the third baraita, while candidate 1's prose covers only the Rabban Gamliel story, meaning the full passage belongs under heading 0 which encompasses all of it.",
+      "chosen_heading": "Respectful Covering",
+      "current_heading": "Jumped Ahead Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Fine Question",
+    "candidates": [
+      "Jumped Ahead Story",
+      "Fine Question",
+      "Mountains & Wind"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dilemma of whether the ten gold coin payment is for stealing the mitzva or the beracha, with the practical difference illustrated by Grace after Meals/birchas hamazon, which is precisely what the 'Fine Question' section's prose describes.",
+      "chosen_heading": "Fine Question",
+      "current_heading": "Fine Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Mountains & Wind",
+    "candidates": [
+      "Mountains & Wind",
+      "One Creator",
+      "Three Days Fast",
+      "Good News",
+      "Cup of Bracha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same continuous narrative \u2014 the heretic's challenge about mountains and wind and the immediate aftermath \u2014 which belongs under 'Mountains & Wind' where the essay prose introduces this exact aggadic passage.",
+      "chosen_heading": "Mountains & Wind",
+      "current_heading": "Mountains & Wind",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Cup of Bracha",
+    "candidates": [
+      "One Creator",
+      "Three Days Fast",
+      "Good News",
+      "Cup of Bracha",
+      "Heavenly Voice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the heretic bringing good news about the enemy's death and the invitation to dine, which corresponds directly to the 'Good News' section's prose about the bearer of good tidings and Rebbi's invitation \u2014 the cup of blessing choice and forty gold coins are covered in that section's narrative continuation, but the passage as a whole is the 'good news' scene.",
+      "chosen_heading": "Good News",
+      "current_heading": "Cup of Bracha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Heavenly Voice",
+    "candidates": [
+      "Cup of Bracha",
+      "Heavenly Voice",
+      "Covered Then Exposed",
+      "Lost Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Yitz\u1e25ak's statement that the family of bar Luyyanus still exists among prominent Roman families is explicitly referenced in the 'Heavenly Voice' section's prose, which directly mentions this detail as part of the bat kol narrative.",
+      "chosen_heading": "Heavenly Voice",
+      "current_heading": "Heavenly Voice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Lost Objects",
+    "candidates": [
+      "Covered Then Exposed",
+      "Lost Objects",
+      "Wind Coverage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a single question-and-answer exchange about why covered-then-exposed blood differs from returning a lost object, which is precisely what candidate 1 ('Lost Objects') discusses in its prose.",
+      "chosen_heading": "Lost Objects",
+      "current_heading": "Lost Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Wind Coverage",
+    "candidates": [
+      "Wind Coverage",
+      "Ein Dichuy",
+      "Blood & Water",
+      "Blood & Wine",
+      "Blood Mixtures",
+      "Dam Lo Mevatel",
+      "Splattered Blood",
+      "Zevachim Mishnah"
+    ],
+    "result": {
+      "best_index": 1,
+      "action": "single",
+      "chosen_heading": "Ein Dichuy",
+      "current_heading": "Wind Coverage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Zevachim Mishnah",
+    "candidates": [
+      "Ein Dichuy",
+      "Blood & Water",
+      "Blood & Wine",
+      "Blood Mixtures",
+      "Dam Lo Mevatel",
+      "Splattered Blood",
+      "Zevachim Mishnah",
+      "Water Into Blood",
+      "Blood Into Water"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Splattered Blood",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-3 are the Chullin Mishnah covering blood mixed with water/wine/animal blood and splattered blood, which belong under the Mishnah sections (Blood & Water through Splattered Blood), with item 3 specifically matching heading 5 (Splattered Blood).",
+      "second_heading": "Zevachim Mishnah",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 begin with 'GEMARA:' citing the Zevachim parallel Mishnah and Rabbi Yochanan's ruling, which precisely match the prose of heading 6 (Zevachim Mishnah) and heading 7 (Water Into Blood).",
+      "current_heading": "Zevachim Mishnah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Blood Into Water",
+    "candidates": [
+      "Water Into Blood",
+      "Blood Into Water",
+      "Dichuy Distinction",
+      "Red Appearance",
+      "Rainwater Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Pappa's ruling about kisuy (covering) and ein dichuy etzel mitzvot, which is precisely what the 'Dichuy Distinction' section's prose discusses and explains.",
+      "chosen_heading": "Dichuy Distinction",
+      "current_heading": "Blood Into Water",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Rainwater Question",
+    "candidates": [
+      "Dichuy Distinction",
+      "Red Appearance",
+      "Rainwater Question",
+      "Natural vs. Intentional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's discussion of Rav Yehuda/Shmuel's rule about reddish-hued mixtures \u2014 item 1 states the ruling and asks what is novel, item 2 resolves that the novelty is the rainwater case \u2014 and candidate 1 ('Red Appearance') is the section whose prose introduces exactly this Rav Yehuda/Shmuel statement, while the current placement under 'Rainwater Question' splits this unified sugya across two headings.",
+      "chosen_heading": "Red Appearance",
+      "current_heading": "Rainwater Question",
+      "moved": true
+    }
+  }
+]

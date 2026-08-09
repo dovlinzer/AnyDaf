@@ -1,0 +1,467 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Kohanic Status",
+    "candidates": [
+      "Context & Overview",
+      "Mishna Text",
+      "Kohanic Status",
+      "Witness Exception",
+      "Contradiction Raised"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text itself, and candidate 1 'Mishna Text' explicitly discusses this opening mishna phrase and its content, making it the natural home for the quoted mishna.",
+      "chosen_heading": "Mishna Text",
+      "current_heading": "Kohanic Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Contradiction Raised",
+    "candidates": [
+      "Witness Exception",
+      "Contradiction Raised",
+      "Priority Answer",
+      "Country Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction (rominhu) about the military unit and wine barrels in wartime vs. peacetime, which is exactly what the 'Contradiction Raised' section's prose describes.",
+      "chosen_heading": "Contradiction Raised",
+      "current_heading": "Contradiction Raised",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Country Distinction",
+    "candidates": [
+      "Priority Answer",
+      "Country Distinction",
+      "Tosafot Reading",
+      "All Women Raped?",
+      "Guards Prevent Escape",
+      "Guards Must Sleep",
+      "Alarm System",
+      "Tannaim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH Rav Mari's answer (priority answer) AND Rabbi Yitzchak bar Elazar's answer (country distinction), and since the essay's 'Priority Answer' section prose explicitly introduces Rav Mari's resolution as the first answer while the passage begins with Rav Mari's statement, the entire quoted text \u2014 including Rabbi Yitzchak bar Elazar's follow-up \u2014 belongs under heading 0, with heading 1 reserved for the essay's own prose explanation of the country distinction.",
+      "chosen_heading": "Priority Answer",
+      "current_heading": "Country Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Tannaim Debate",
+    "candidates": [
+      "Tosafot Reading",
+      "All Women Raped?",
+      "Guards Prevent Escape",
+      "Guards Must Sleep",
+      "Alarm System",
+      "Tannaim Debate",
+      "One Tunnel Permits"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Guards Prevent Escape",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the Shmuel/Rabbi Levi exchange about sentries seeing each other and the chains/dogs/geese alarm system, which corresponds to the 'Guards Prevent Escape' and subsequent sections \u2014 but its core content about the alarm system answer belongs under 'Guards Must Sleep' or 'Alarm System'; however, looking at the prose, item 1 covers both the Shmuel answer (sentries see each other) and the Rabbi Levi answer (chains/dogs/geese), and the 'Guards Prevent Escape' prose explicitly mentions Rav Yehuda/Shmuel's answer, making heading 2 the best single fit for item 1's opening, but item 1 actually spans headings 2-4 \u2014 the closest single heading covering the Shmuel answer that starts item 1 is heading 2.",
+      "second_heading": "Tannaim Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Abba bar Zavda's report of the dispute between Rabbi Yehuda Nesi'ah and the Rabbis, which is precisely what the 'Tannaim Debate' prose describes in detail, including the ve'lo kashya lei ve'lo midi resolution and the chains/dogs/geese answer.",
+      "current_heading": "Tannaim Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "One Tunnel Permits",
+    "candidates": [
+      "One Tunnel Permits",
+      "One Hiding Place"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the ruling that one hiding place saves all the kohanot, which directly matches the 'One Tunnel Permits' section's prose describing this exact statement by Rav Idi bar Avin, before the follow-up question about capacity posed in 'One Hiding Place'.",
+      "chosen_heading": "One Tunnel Permits",
+      "current_heading": "One Tunnel Permits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "One Hiding Place",
+    "candidates": [
+      "One Hiding Place",
+      "Two Paths Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yirmiya's dilemma about a hiding place that holds only one woman, which is exactly what the 'One Hiding Place' section's prose describes.",
+      "chosen_heading": "One Hiding Place",
+      "current_heading": "One Hiding Place",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Two Paths Analogy",
+    "candidates": [
+      "Two Paths Analogy",
+      "Rava's Resolution",
+      "Suspicion vs. Certainty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the two-paths mishna and Rava/Rabbi Yochanan's clarification of the Rabbi Yehuda/Rabbi Yossi dispute, which is precisely what heading 0 ('Two Paths Analogy') describes in its prose.",
+      "chosen_heading": "Two Paths Analogy",
+      "current_heading": "Two Paths Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Suspicion vs. Certainty",
+    "candidates": [
+      "Rava's Resolution",
+      "Suspicion vs. Certainty",
+      "Rav Ashi's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's rejection of the analogy \u2014 'hatam vadai ika tumah, hacha mi yeimar de'itmei' \u2014 which is precisely what the 'Suspicion vs. Certainty' prose section describes and analyzes.",
+      "chosen_heading": "Suspicion vs. Certainty",
+      "current_heading": "Suspicion vs. Certainty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Rav Ashi's Question",
+    "candidates": [
+      "Rav Ashi's Question",
+      "Donkey Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Ashi's dilemma about a woman who says she neither hid nor was violated, which is precisely what heading 0 ('Rav Ashi's Question') describes, including the migo question about the weaker vs. stronger claim.",
+      "chosen_heading": "Rav Ashi's Question",
+      "current_heading": "Rav Ashi's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Donkey Case",
+    "candidates": [
+      "Donkey Case",
+      "Abaye's Limit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Donkey Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the donkey case question and the facts of the incident, matching the 'Donkey Case' prose which describes Rava's application of mah li leshaker to that scenario.",
+      "second_heading": "Abaye's Limit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Abaye's limitation (mah li leshaker be'makom eidim lo amrinan), which is precisely what the 'Abaye's Limit' prose discusses.",
+      "current_heading": "Donkey Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Abaye's Limit",
+    "candidates": [
+      "Abaye's Limit",
+      "Migo Applies",
+      "Slaves Believed",
+      "Contradiction",
+      "Get Seclusion Rule",
+      "Witness Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's distinction between the donkey case (vadai ika eidim de'ika maya) and the women's case (chashasha), concluding that migo applies where there is only suspicion \u2014 which is precisely what the prose of candidate 1 ('Migo Applies') describes and quotes.",
+      "chosen_heading": "Migo Applies",
+      "current_heading": "Abaye's Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Witness Requirement",
+    "candidates": [
+      "Migo Applies",
+      "Slaves Believed",
+      "Contradiction",
+      "Get Seclusion Rule",
+      "Witness Requirement",
+      "Her Own Slave Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described under 'Contradiction': the mishna's statement that slaves/slave women are believed, the gemara's question about her own slave woman, and the raising of a contradiction (u'rominhu) from another source \u2014 all of which the 'Contradiction' prose directly describes.",
+      "chosen_heading": "Contradiction",
+      "current_heading": "Witness Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Her Own Slave Excluded",
+    "candidates": [
+      "Witness Requirement",
+      "Her Own Slave Excluded",
+      "Whose Slave?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the exception for her own maidservant (liba gas) and Rav Pappi's leniency for captive women, which exactly matches the 'Her Own Slave Excluded' section's prose about the shifchasa exception and the reasoning being applied to captivity cases.",
+      "chosen_heading": "Her Own Slave Excluded",
+      "current_heading": "Her Own Slave Excluded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Whose Slave?",
+    "candidates": [
+      "Whose Slave?",
+      "No Active Lies",
+      "Silence vs. Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Whose Slave?' prose, which describes exactly Rav Pappa's distinction between her maidservant vs. his maidservant, and the subsequent challenge from the baraita about *ein adam meid al atzmo* followed by the answer that *shifchasa ke'atzma dami*.",
+      "chosen_heading": "Whose Slave?",
+      "current_heading": "Whose Slave?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Silence vs. Testimony",
+    "candidates": [
+      "No Active Lies",
+      "Silence vs. Testimony",
+      "Brother Inheritance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Ashi's resolution (the silence/active-lie distinction) and the Gemara's follow-up challenge with its 'tartei lo avda' answer, which is precisely what candidate 1 'Silence vs. Testimony' describes in its prose.",
+      "chosen_heading": "Silence vs. Testimony",
+      "current_heading": "Silence vs. Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Brother Inheritance",
+    "candidates": [
+      "Brother Inheritance",
+      "Fear Shifts Burden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the initial exchange between Mari bar Isak and his claimed brother, Rav Chisda's ruling based on the Joseph verse, and the beard explanation \u2014 all of which are precisely what the 'Brother Inheritance' prose discusses.",
+      "chosen_heading": "Brother Inheritance",
+      "current_heading": "Brother Inheritance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Fear Shifts Burden",
+    "candidates": [
+      "Fear Shifts Burden",
+      "Fear & False Testimony",
+      "All Can Testify",
+      "Own Children Excluded",
+      "Except Self & Husband",
+      "Tannaim Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the prose of 'Fear Shifts Burden' narrates: Rav Chisda telling the claimant to bring witnesses, the witnesses being afraid of Mari, Rav Chisda reversing the burden of proof, and the tartei lo avdi principle \u2014 all of which is covered under heading 0, while heading 1 only addresses the follow-up question about false testimony which is the very last line of this passage.",
+      "chosen_heading": "Fear Shifts Burden",
+      "current_heading": "Fear Shifts Burden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Tannaim Views",
+    "candidates": [
+      "Fear & False Testimony",
+      "All Can Testify",
+      "Own Children Excluded",
+      "Except Self & Husband",
+      "Tannaim Views",
+      "Masiach Definition",
+      "Mother Captivity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together form the gemara's analysis of whether the Amoraic dispute (Rav Pappa vs Rav Pappi/Rav Ashi) maps onto the tannaitic dispute between the two baraitot, and candidate 4 ('Tannaim Views') is precisely about this \u2014 the Amoraim's positions being anchored in the tannaitic disagreement, with item 3's resolution about masiach lefi tumo being the concluding move of that same discussion.",
+      "chosen_heading": "Tannaim Views",
+      "current_heading": "Tannaim Views",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Mother Captivity",
+    "candidates": [
+      "Masiach Definition",
+      "Mother Captivity",
+      "Mother Permitted",
+      "Leniency Summary",
+      "Practical Rarity",
+      "Rabbi Zechariah",
+      "Self-Testimony Banned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the captivity account and the man's constant attention to his mother, which matches exactly the 'Mother Captivity' section's prose about the man relating his experience of captivity and watching over his mother.",
+      "chosen_heading": "Mother Captivity",
+      "current_heading": "Mother Captivity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Self-Testimony Banned",
+    "candidates": [
+      "Mother Permitted",
+      "Leniency Summary",
+      "Practical Rarity",
+      "Rabbi Zechariah",
+      "Self-Testimony Banned",
+      "Husband Can't Permit",
+      "Separate Housing",
+      "Seclusion Prevention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing Rabbi Zechariah ben HaKatzav's oath and declaration, which belongs under the 'Rabbi Zechariah' heading that introduces this historical account, not under 'Self-Testimony Banned' which discusses only the Sages' response.",
+      "chosen_heading": "Rabbi Zechariah",
+      "current_heading": "Self-Testimony Banned",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Seclusion Prevention",
+    "candidates": [
+      "Husband Can't Permit",
+      "Separate Housing",
+      "Seclusion Prevention",
+      "Marriage Maintained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the specific arrangement of separate housing and the children-based choreography together as one unified baraita, which the prose under 'Separate Housing' introduces as describing the practical arrangement Rabbi Zechariah ben HaKatzav put in place \u2014 encompassing both the house designation and the seclusion-prevention movements.",
+      "chosen_heading": "Separate Housing",
+      "current_heading": "Seclusion Prevention",
+      "moved": true
+    }
+  }
+]

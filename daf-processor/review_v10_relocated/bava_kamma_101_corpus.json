@@ -1,0 +1,272 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Inferior Dye",
+    "candidates": [
+      "Intro & Setup",
+      "Destroyed Wool",
+      "Inferior Dye",
+      "Pshat Expenses",
+      "Profit Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Destroyed Wool",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening mishna covering both the destroyed-wool case and the inferior-dye case, but the 'Destroyed Wool' prose (index 1) explicitly introduces this mishna and its first scenario of the wool burned in the cauldron, making it the natural home for item 1.",
+      "second_heading": "Inferior Dye",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the mishna's case of dyeing the wrong color (red vs. black), which is a structurally new scenario within the mishna \u2014 a different factual case with its own dispute between Rabbi Meir and Rabbi Yehuda \u2014 and the 'Inferior Dye' prose (index 2) is not actually discussing this wrong-color dispute, yet it is the closest candidate; however, looking more carefully, index 4 'Profit Analysis' mentions 'the next section of the mishna' referring to 'radical variation' (wrong color), making index 2 the current placement but index 4 a possible home \u2014 still, the wrong-color case most naturally belongs under a heading that introduces it, and 'Inferior Dye' at index 2 is where it currently sits and is the best available match given the candidates provided.",
+      "current_heading": "Inferior Dye",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Profit Analysis",
+    "candidates": [
+      "Pshat Expenses",
+      "Profit Analysis",
+      "Contract Reinterpretation",
+      "Tosafot's Reading",
+      "Wrong Color Debate",
+      "Yehuda's Position",
+      "Bench vs Chair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is a Gemara clarifying the term 'unattractively' (kelabus = sediments of dye in cauldrons), which directly concerns the inferior-dye/wrong-color case introduced in the 'Wrong Color Debate' section, not the profit analysis discussion where it currently sits.",
+      "chosen_heading": "Wrong Color Debate",
+      "current_heading": "Profit Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Bench vs Chair",
+    "candidates": [
+      "Contract Reinterpretation",
+      "Tosafot's Reading",
+      "Wrong Color Debate",
+      "Yehuda's Position",
+      "Bench vs Chair",
+      "Meir's Concession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The baraita about giving wood to a carpenter to make a chair vs. bench is exactly what the 'Bench vs Chair' section's prose describes and introduces.",
+      "chosen_heading": "Bench vs Chair",
+      "current_heading": "Bench vs Chair",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Meir's Concession",
+    "candidates": [
+      "Meir's Concession",
+      "Color Presence",
+      "Stolen Dye Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Meir's concession about inferior-quality work of the same type, which is precisely what the 'Meir's Concession' section prose discusses.",
+      "chosen_heading": "Meir's Concession",
+      "current_heading": "Meir's Concession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Stolen Dye Return",
+    "candidates": [
+      "Color Presence",
+      "Stolen Dye Return",
+      "Market Value Drop",
+      "Monkey Mixing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous Talmudic discussion working through scenarios to isolate the nafka mina of yesh/ein shevach samanim, which is precisely what the 'Stolen Dye Return' prose describes in detail, including the ground pigments case, the soaked dye case, the wool-and-dye-from-same-person case, and the market depreciation refinement.",
+      "chosen_heading": "Stolen Dye Return",
+      "current_heading": "Stolen Dye Return",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Monkey Mixing",
+    "candidates": [
+      "Market Value Drop",
+      "Monkey Mixing",
+      "Orlah Must Burn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's monkey scenario (kof/tzavya) which is precisely what the 'Monkey Mixing' section's prose describes and analyzes in detail.",
+      "chosen_heading": "Monkey Mixing",
+      "current_heading": "Monkey Mixing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Orlah Must Burn",
+    "candidates": [
+      "Orlah Must Burn",
+      "Special Orlah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the ta shema proof from the orlah garment case and concludes 'alma chazuta milta hi,' which is precisely what candidate 0's prose discusses \u2014 the attempt to resolve the yesh/ein shevach samanim question via this mishna \u2014 before Rava's rebuttal appears in candidate 1.",
+      "chosen_heading": "Orlah Must Burn",
+      "current_heading": "Orlah Must Burn",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Special Orlah Rule",
+    "candidates": [
+      "Special Orlah Rule",
+      "Blood Contradiction",
+      "Blood Resolution",
+      "Extractable Test",
+      "Dam Tvuza"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Special Orlah Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rava's response about the special orlah rule (hana'ah ha-nir'eh la'einayim), the baraita derivation, and the shemittah parallel with its verse-based deflection \u2014 all discussed in the 'Special Orlah Rule' prose.",
+      "second_heading": "Blood Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rava's contradiction between the orlah mishna (chazuta milta hi) and the blood-absorption mishna with its resolution about vessels before/after absorption \u2014 exactly what the 'Blood Contradiction' prose describes.",
+      "current_heading": "Special Orlah Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Dam Tvuza",
+    "candidates": [
+      "Blood Contradiction",
+      "Blood Resolution",
+      "Extractable Test",
+      "Dam Tvuza",
+      "Woad Safflower"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the extractability test for blood absorbed in a garment \u2014 item 1 presents the mishna about washing a garment to extract a revi'is of blood, and item 2 (Rav Kahana) resolves the apparent contradiction by limiting that leniency to dam tvuza de-rabbanan \u2014 which precisely matches the 'Extractable Test' prose describing the garment-blood baraita and the extractability principle, not the 'Dam Tvuza' heading where it currently sits.",
+      "chosen_heading": "Extractable Test",
+      "current_heading": "Dam Tvuza",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Woad Safflower",
+    "candidates": [
+      "Dam Tvuza",
+      "Woad Safflower",
+      "Grape Leaves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishna about dye plants (woad and safflower) carrying shemittah sanctity, which is exactly what the 'Woad Safflower' section's prose describes.",
+      "chosen_heading": "Woad Safflower",
+      "current_heading": "Woad Safflower",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Grape Leaves",
+    "candidates": [
+      "Grape Leaves",
+      "Lesorah Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita contradiction about reed and grape leaves gathered for eating vs. wood, which is exactly what the 'Grape Leaves' section prose describes.",
+      "chosen_heading": "Grape Leaves",
+      "current_heading": "Grape Leaves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Lesorah Verse",
+    "candidates": [
+      "Lesorah Verse",
+      "Benefit Timing",
+      "Rashi Tosafot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that 'le-ochlah' limits shemittah to items whose benefit and consumption coincide (be-hana'ato u-vi'uro shavim), and that wood fails this test because its benefit follows its destruction \u2014 which is precisely what the 'Benefit Timing' section's prose discusses in detail.",
+      "chosen_heading": "Benefit Timing",
+      "current_heading": "Lesorah Verse",
+      "moved": true
+    }
+  }
+]

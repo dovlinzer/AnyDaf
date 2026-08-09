@@ -1,0 +1,320 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Fixed Price, Ribit",
+    "candidates": [
+      "Mishkeno Definition",
+      "Baitus ben Zonin",
+      "Fixed Price, Ribit",
+      "Tzad Echad Beribit",
+      "Likshe'Tirtze Condition",
+      "Seller Repurchase Clause"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses who is the tanna that holds 'both are prohibited' and identifies it as not Rabbi Yehuda because Rabbi Yehuda permits tzad echad beribit \u2014 exactly the content described in the 'Fixed Price, Ribit' prose, which explicitly mentions this Rav Huna bar Yehuda/Rav Yehoshua answer and the de-lo ke-Rabbi Yehuda reasoning.",
+      "chosen_heading": "Fixed Price, Ribit",
+      "current_heading": "Fixed Price, Ribit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Seller Repurchase Clause",
+    "candidates": [
+      "Tzad Echad Beribit",
+      "Likshe'Tirtze Condition",
+      "Seller Repurchase Clause",
+      "Buyer Repurchase Offer",
+      "Peirot Problem",
+      "Distinction Analysis",
+      "Leda'atei Voluntary",
+      "Achrayut Assumption",
+      "Seller's Promise"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Likshe'Tirtze Condition",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the pledge-with-forced-sale-condition baraita and the tzad echad beribit identification, which is precisely what the 'Likshe'Tirtze Condition' prose describes.",
+      "second_heading": "Seller Repurchase Clause",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce the entirely new case of sale with repurchase stipulation and Rava's distinction between seller-imposed vs. buyer-volunteered conditions, matching the 'Seller Repurchase Clause' prose perfectly.",
+      "current_heading": "Seller Repurchase Clause",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Seller's Promise",
+    "candidates": [
+      "Buyer Repurchase Offer",
+      "Peirot Problem",
+      "Distinction Analysis",
+      "Leda'atei Voluntary",
+      "Achrayut Assumption",
+      "Seller's Promise",
+      "Pitumei Mili"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes the setup of the achrayut case \u2014 a man selling land explicitly without warranty and the buyer's distress \u2014 which matches the 'Achrayut Assumption' section's prose introducing the background principle of achrayut and the requirement for explicit stipulation, before the seller's promise is analyzed in the following section.",
+      "chosen_heading": "Achrayut Assumption",
+      "current_heading": "Seller's Promise",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Pitumei Mili",
+    "candidates": [
+      "Seller's Promise",
+      "Pitumei Mili",
+      "Wrong Side Stipulation",
+      "Seller's Incentive",
+      "Promise as Leda'atei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Ameimar's ruling that the promise is 'pitumei mili' followed immediately by Rav Ashi's challenge asking for the reason \u2014 this is precisely the content described in candidate 1's prose, which covers both Ameimar's ruling and the deeper question Rav Ashi will press.",
+      "chosen_heading": "Pitumei Mili",
+      "current_heading": "Pitumei Mili",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Promise as Leda'atei",
+    "candidates": [
+      "Wrong Side Stipulation",
+      "Seller's Incentive",
+      "Promise as Leda'atei",
+      "Deathbed Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items continue the same analytical thread about which party (buyer vs. seller) should be making the stipulation, directly addressing the baraita challenge and Rava/Ameimar's resolution \u2014 which matches candidate 1's prose about the seller being the 'wrong party' making stipulations and the pitumei mili inference, not candidate 2's prose about leda'atei and post-sale promises.",
+      "chosen_heading": "Seller's Incentive",
+      "current_heading": "Promise as Leda'atei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Deathbed Get",
+    "candidates": [
+      "Promise as Leda'atei",
+      "Deathbed Get",
+      "Wife's Statement: Pitumei",
+      "Wife Cannot Condition Get",
+      "His Da'at Governs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the deathbed get scenario with the husband's sighing and the wife's comforting offer, which is precisely what the 'Deathbed Get' section's prose introduces, and Rav Zevid's ruling of 'pitumei mili' is merely the concluding legal verdict on that narrative, making this the correct placement.",
+      "chosen_heading": "Deathbed Get",
+      "current_heading": "Deathbed Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "His Da'at Governs",
+    "candidates": [
+      "Wife's Statement: Pitumei",
+      "Wife Cannot Condition Get",
+      "His Da'at Governs",
+      "Loan Terms",
+      "Timing Distinction",
+      "At Loan Time",
+      "After Loan Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav A\u1e25a of Difti's challenge about whether she has the power to condition the get, plus the gemara's answer about his da'at \u2014 but the challenge and answer together are one unit, and the prose of candidate 1 explicitly describes both Rav A\u1e25a's question and the answer about his da'at being contingent, making it the better match than candidate 2 which covers only the answer portion.",
+      "chosen_heading": "Wife Cannot Condition Get",
+      "current_heading": "His Da'at Governs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "After Loan Time",
+    "candidates": [
+      "Loan Terms",
+      "Timing Distinction",
+      "At Loan Time",
+      "After Loan Time",
+      "Document Torn, Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's timing distinction (be-sha'at mattan ma'ot vs. achar mattan ma'ot) AND Rav Nachman's ruling, making it the complete source text that introduces the timing distinction framework \u2014 best placed under 'Timing Distinction' which introduces Rav Huna's critical distinction, rather than under 'After Loan Time' which covers only half the content.",
+      "chosen_heading": "Timing Distinction",
+      "current_heading": "After Loan Time",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Document Torn, Reversal",
+    "candidates": [
+      "After Loan Time",
+      "Document Torn, Reversal",
+      "Rav Nachman Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the exact episode of Rav Nachman acting on his ruling, Rav Yehuda tearing the document, and the two versions of the exchange with Reish Galuta \u2014 which is precisely what candidate 1 ('Document Torn, Reversal') is about.",
+      "chosen_heading": "Document Torn, Reversal",
+      "current_heading": "Document Torn, Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Rav Nachman Reversal",
+    "candidates": [
+      "Rav Nachman Reversal",
+      "Asmachta Lo Kanya",
+      "Mishnah Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Nachman Reversal",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Nachman's reversal and Rava's objection from the mishnah, which matches the 'Rav Nachman Reversal' prose describing the hadar and the asmachta logic.",
+      "second_heading": "Mishnah Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman's response that he used to hold asmachta kanya but Minyumi convinced him otherwise, which matches the 'Mishnah Position' prose that quotes exactly 'ani amar asmachta kanya, u-Minyumi amar asmachta lo kanya' as Rav Nachman's answer to the mishnah objection.",
+      "current_heading": "Rav Nachman Reversal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Mishnah Position",
+    "candidates": [
+      "Asmachta Lo Kanya",
+      "Mishnah Position",
+      "Me'achshav Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the difficulty the mishna poses for Minyumi's position and offers the Rabbi Yose answer, which is precisely what the 'Mishnah Position' section's prose describes.",
+      "chosen_heading": "Mishnah Position",
+      "current_heading": "Mishnah Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Me'achshav Timing",
+    "candidates": [
+      "Me'achshav Timing",
+      "Neharde'i Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the 'kani me'achshav' (acquire from now) answer, which is precisely what the 'Me'achshav Timing' section's prose is about.",
+      "chosen_heading": "Me'achshav Timing",
+      "current_heading": "Me'achshav Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Neharde'i Rule",
+    "candidates": [
+      "Neharde'i Rule",
+      "Seriousness Analysis",
+      "Borrower Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the Nehardea rule exchange \u2014 Mar Yanuka and Mar Kashisha citing Rav Nachman's ruling, Rav Ashi's initial misunderstanding, and his reinterpretation about within-time vs. after-time declarations out of shame \u2014 which is precisely what the 'Neharde'i Rule' prose describes.",
+      "chosen_heading": "Neharde'i Rule",
+      "current_heading": "Neharde'i Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Borrower Intent",
+    "candidates": [
+      "Seriousness Analysis",
+      "Borrower Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's rejection (ve-lo hi) of the within-loan-period acquisition and the borrower's motivation of avoiding being pestered, which is precisely what the 'Borrower Intent' section's prose describes.",
+      "chosen_heading": "Borrower Intent",
+      "current_heading": "Borrower Intent",
+      "moved": false
+    }
+  }
+]

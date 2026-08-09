@@ -1,0 +1,301 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Two Explanations",
+    "candidates": [
+      "Two Explanations",
+      "Mishna Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Mar son of Rav Yosef's explanation in the name of Rava \u2014 the 'peter rechem' argument \u2014 which is explicitly described in the 'Two Explanations' prose as the second explanation, the one ruled by, cited in the name of Rava.",
+      "chosen_heading": "Two Explanations",
+      "current_heading": "Two Explanations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Mishna Case",
+    "candidates": [
+      "Mishna Case",
+      "Linguistic Proof",
+      "Rav Pappa's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Mishna text itself \u2014 listing the scenarios of converted/freed pregnant women and the mixed-up cases with kohenet/leviyah \u2014 which is precisely what the 'Mishna Case' prose describes and analyzes.",
+      "chosen_heading": "Mishna Case",
+      "current_heading": "Mishna Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Rav Pappa's Question",
+    "candidates": [
+      "Linguistic Proof",
+      "Rav Pappa's Question",
+      "Bat Levi vs Bat Kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the continuous Gemara chain asking 'from whom did she become pregnant?' \u2014 the linguistic inference from the Mishna's choice of kohenet/leviyah followed immediately by the challenge about a non-Jewish father and Rav Pappa's citation of Rav Adda bar Ahava \u2014 which is precisely what the 'Linguistic Proof' prose describes as a single unit, including the setup of Rav Pappa's challenge that flows from it.",
+      "chosen_heading": "Linguistic Proof",
+      "current_heading": "Rav Pappa's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Bat Levi vs Bat Kohen",
+    "candidates": [
+      "Rav Pappa's Question",
+      "Bat Levi vs Bat Kohen",
+      "Non-Jew Father Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita about the leviyah retaining her sanctity and the contrast with the kohenet losing her status \u2014 precisely the content described in candidate 1's prose about 'bishlama leviyah bikdushata kaima' and 'keivan d'niv'ala havya zara', which is the current placement and clearly the best match.",
+      "chosen_heading": "Bat Levi vs Bat Kohen",
+      "current_heading": "Bat Levi vs Bat Kohen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Non-Jew Father Fails",
+    "candidates": [
+      "Non-Jew Father Fails",
+      "Rava's Position",
+      "Reinterpreting Terms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contrasts Mar son of Rav Yosef/Rava's position (which works) against Rav Pappa's position (which poses a problem), and candidate 1 'Rava's Position' directly discusses this exact contrast \u2014 that according to Rava's ruling the exemption applies even with an Israelite father, matching the passage's content precisely.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Non-Jew Father Fails",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Reinterpreting Terms",
+    "candidates": [
+      "Rava's Position",
+      "Reinterpreting Terms",
+      "Logical Consistency",
+      "Kohen Case Setup",
+      "Rav Chisda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the 'Reinterpreting Terms' section's prose, which explicitly discusses the Gemara's answer that the kohenet in the Mishna is an Israelite woman who became pregnant from a kohen, and why she is called kohenet because her son is a kohen.",
+      "chosen_heading": "Reinterpreting Terms",
+      "current_heading": "Reinterpreting Terms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rav Chisda Position",
+    "candidates": [
+      "Logical Consistency",
+      "Kohen Case Setup",
+      "Rav Chisda Position",
+      "Rabbah Bar Huna Position",
+      "Conversion Case",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the Rav Chisda/Rabbah bar Rav Huna dispute and establishes the undisputed case (father died after thirty days), which is precisely what the 'Rav Chisda Position' prose describes as the setup for Rav Chisda's ruling.",
+      "chosen_heading": "Rav Chisda Position",
+      "current_heading": "Rav Chisda Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Rabbah Bar Huna Position",
+      "Conversion Case",
+      "Resolution",
+      "Uncertain Births"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav \u1e24isda vs. Rabbah bar Rav Huna's dispute, the conversion-case challenge, and Rabbi Shimon ben Lakish's ruling \u2014 are the Gemara content that the 'Rabbah Bar Huna Position' prose directly describes and analyzes, covering exactly the 'atina mikoach gavra' argument, the pregnant convert objection, and the kohen challal conclusion.",
+      "chosen_heading": "Rabbah Bar Huna Position",
+      "current_heading": "Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Uncertain Births",
+    "candidates": [
+      "Resolution",
+      "Uncertain Births",
+      "Rabbi Yannai's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the case of a woman who did not wait three months, the son's uncertain inheritance status, and the harsha'ah solution \u2014 exactly the content described in the 'Uncertain Births' prose section.",
+      "chosen_heading": "Uncertain Births",
+      "current_heading": "Uncertain Births",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Rabbi Yannai's Rule",
+    "candidates": [
+      "Rabbi Yannai's Rule",
+      "No Yakir, No Solution",
+      "Non-Viable Births"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly quote and explain Rabbi Yannai's rule about hukru/lo hukru, which is precisely what the prose under heading 0 ('Rabbi Yannai's Rule') discusses in detail.",
+      "chosen_heading": "Rabbi Yannai's Rule",
+      "current_heading": "Rabbi Yannai's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Non-Viable Births",
+    "candidates": [
+      "No Yakir, No Solution",
+      "Non-Viable Births",
+      "Day 40 Threshold",
+      "Chachamim View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishnah passage directly lists the cases of non-viable expulsions (sacs filled with water/blood/flesh, fish-like forms, day-forty expulsions) that result in the subsequent child being a bechor, which is precisely what the 'Non-Viable Births' prose section describes.",
+      "chosen_heading": "Non-Viable Births",
+      "current_heading": "Non-Viable Births",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Chachamim View",
+    "candidates": [
+      "Day 40 Threshold",
+      "Chachamim View",
+      "Yalda Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishnah presenting the Chachamim/Rabbi Shimon dispute about yotzei dofen and the Gemara's derivation explaining why neither child qualifies \u2014 are precisely what the 'Chachamim View' prose describes as the content of that section, including the surprising exclusion from nachala, Rabbi Shimon's dissent, and the gemara's derivation that follows.",
+      "chosen_heading": "Chachamim View",
+      "current_heading": "Chachamim View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Yalda Definition",
+    "candidates": [
+      "Yalda Definition",
+      "Second Child Status",
+      "Unified Bechor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Shimon's view that 'teled' includes caesarean birth for inheritance purposes, which aligns with the 'Yalda Definition' section's focus on how the word yalda/leidah defines birth for firstborn inheritance eligibility.",
+      "chosen_heading": "Yalda Definition",
+      "current_heading": "Yalda Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Unified Bechor",
+    "candidates": [
+      "Second Child Status",
+      "Unified Bechor",
+      "Rabbi Shimon Disagrees",
+      "Rabbi Shimon on Second",
+      "Ruling: Follow Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly states Rabbi Shimon's ruling that the second child owes five sela for pidyon haben because 'a firstborn for one matter is considered a firstborn,' which directly matches the prose of 'Rabbi Shimon on Second' describing his position that bechor le-davar echad havei bechor applies to the vaginally-born second child.",
+      "chosen_heading": "Rabbi Shimon on Second",
+      "current_heading": "Unified Bechor",
+      "moved": true
+    }
+  }
+]

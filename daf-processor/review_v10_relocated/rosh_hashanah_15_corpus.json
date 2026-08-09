@@ -1,0 +1,385 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Etrog Hybridity",
+    "candidates": [
+      "First Mishna Scope",
+      "Produce Categories",
+      "Etrog Hybridity",
+      "Rabba's Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All nine items deal continuously with the Rabbi Akiva etrog story \u2014 the dual tithes, the Beit Shammai/Beit Hillel and Rabban Gamliel/Rabbi Eliezer disputes over the etrog's tithe year, and the various resolutions \u2014 which is precisely the hybrid etrog material described in the 'Etrog Hybridity' prose.",
+      "chosen_heading": "Etrog Hybridity",
+      "current_heading": "Etrog Hybridity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rabba's Statement",
+    "candidates": [
+      "Rabba's Statement",
+      "Braitta Evidence",
+      "Tu B'Shevat Impact",
+      "Etrog Diagram"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabba bar Rav Huna's initial statement that since Rabban Gamliel rules the etrog follows picking like a vegetable, its new year is Tishrei \u2014 exactly what the prose under 'Rabba's Statement' describes as his initial formulation before the gemara's challenge.",
+      "chosen_heading": "Rabba's Statement",
+      "current_heading": "Rabba's Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Etrog Diagram",
+    "candidates": [
+      "Braitta Evidence",
+      "Tu B'Shevat Impact",
+      "Etrog Diagram",
+      "Calendar Date Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of objection-and-resolution centered on the baraita of Rabbi Shimon ben Elazar and Rabba bar Rav Huna's revised statement, which is precisely what candidate 0 ('Braitta Evidence') describes in its prose, including the hybrid etrog ruling and the incidental teaching about etrog damage during shemitah.",
+      "chosen_heading": "Braitta Evidence",
+      "current_heading": "Etrog Diagram",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Calendar Date Question",
+    "candidates": [
+      "Etrog Diagram",
+      "Calendar Date Question",
+      "Calendar Month Resolution",
+      "Leap Year Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage records Rabbi Yochanan's inquiry to Rabbi Yannai about when the etrog's new year is and whether 'Shevat' means the lunar month or the solar season, which is precisely what the 'Calendar Date Question' prose describes.",
+      "chosen_heading": "Calendar Date Question",
+      "current_heading": "Calendar Date Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Leap Year Question",
+    "candidates": [
+      "Calendar Month Resolution",
+      "Leap Year Question",
+      "Sixth\u2192Seventh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly records the leap year question and the 'follow the majority of years' response, which is precisely what the 'Leap Year Question' prose section discusses.",
+      "chosen_heading": "Leap Year Question",
+      "current_heading": "Leap Year Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Sixth\u2192Seventh",
+    "candidates": [
+      "Sixth\u2192Seventh",
+      "Seventh\u2192Eighth",
+      "Scenarios Diagram",
+      "Abbaye's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabba's cases (sixth\u2192seventh and seventh\u2192eighth) as a single statement, and the current heading 'Sixth\u2192Seventh' with its prose explicitly addresses this full Rabba quote, covering both rulings before the subsequent headings break them apart for analysis.",
+      "chosen_heading": "Sixth\u2192Seventh",
+      "current_heading": "Sixth\u2192Seventh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Abbaye's Logic",
+    "candidates": [
+      "Seventh\u2192Eighth",
+      "Scenarios Diagram",
+      "Abbaye's Logic",
+      "Rava's Response",
+      "Rashi's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abbaye's challenge to Rava's ruling \u2014 questioning why the first clause exempts from biur yet doesn't obligate in ma'aser \u2014 which is precisely what the 'Abbaye's Logic' section's prose describes and analyzes.",
+      "chosen_heading": "Abbaye's Logic",
+      "current_heading": "Abbaye's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rashi's Reading",
+    "candidates": [
+      "Rava's Response",
+      "Rashi's Reading",
+      "Hamnuna Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabba's/Rava's direct statement about everyone's hands touching the fruit making tithes inapplicable, which is precisely what candidate 0 ('Rava's Response') discusses in its prose.",
+      "chosen_heading": "Rava's Response",
+      "current_heading": "Rashi's Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Hamnuna Position",
+    "candidates": [
+      "Rashi's Reading",
+      "Hamnuna Position",
+      "Braitta Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Hamnuna's direct statement about sixth-year and seventh-year etrog status, which is exactly what the 'Hamnuna Position' prose section discusses and introduces.",
+      "chosen_heading": "Hamnuna Position",
+      "current_heading": "Hamnuna Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Braitta Challenge",
+    "candidates": [
+      "Braitta Challenge",
+      "Gemara Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Shimon ben Yehuda cited as an objection against Rav Hamnuna, which is precisely what the 'Braitta Challenge' section's prose describes and analyzes.",
+      "chosen_heading": "Braitta Challenge",
+      "current_heading": "Braitta Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Gemara Resolution",
+    "candidates": [
+      "Gemara Resolution",
+      "Usha Vote"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the contradictions posed by the baraita to Rav Hamnuna and to both Rabba and Rav Hamnuna, which is precisely what the 'Gemara Resolution' prose section describes and quotes.",
+      "chosen_heading": "Gemara Resolution",
+      "current_heading": "Gemara Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Usha Vote",
+    "candidates": [
+      "Usha Vote",
+      "Always Sixth Status",
+      "Tiny Fruit Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita about Avtolemos's testimony and the Usha vote, with the gemara's question about shemitah and the 'incomplete baraita' answer \u2014 exactly the content described in the 'Usha Vote' prose section.",
+      "chosen_heading": "Usha Vote",
+      "current_heading": "Usha Vote",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Tiny Fruit Rule",
+    "candidates": [
+      "Always Sixth Status",
+      "Tiny Fruit Rule",
+      "Nechemia Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rabbi Yochanan/Reish Lakish statement about sixth-year etrog always retaining sixth-year status AND Ravin's report of Rabbi Yochanan's olive-to-loaf ruling \u2014 these are a single continuous Talmudic unit (ittmar), and the 'Always Sixth Status' heading's prose explicitly covers both the general rule and the chanatah-locking principle, while 'Tiny Fruit Rule' only covers the Ravin portion, making heading 0 the better unified home for the complete passage.",
+      "chosen_heading": "Always Sixth Status",
+      "current_heading": "Tiny Fruit Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Nechemia Position",
+    "candidates": [
+      "Tiny Fruit Rule",
+      "Nechemia Position",
+      "Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita and immediate Gemara clarification that the 'Nechemia Position' prose explicitly describes \u2014 the two-breichot rule and the correction of the term to 'k'ein shtei breichot' \u2014 making candidate 1 the clear and correct home.",
+      "chosen_heading": "Nechemia Position",
+      "current_heading": "Nechemia Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Reasoning",
+    "candidates": [
+      "Reasoning",
+      "Carob Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about single-brood trees (palms, olives, carobs) being tithed according to the coming year is the Talmudic source that the 'Reasoning' section's prose is directly explaining and analyzing, discussing why single-brood trees use g'mar peri rather than chanatah.",
+      "chosen_heading": "Reasoning",
+      "current_heading": "Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Carob Practice",
+    "candidates": [
+      "Carob Practice",
+      "White Figs Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly reports Rabbi Yo\u1e25anan's statement about the people's custom regarding carobs following Rabbi Ne\u1e25emya's opinion, which is exactly what the 'Carob Practice' section's prose discusses.",
+      "chosen_heading": "Carob Practice",
+      "current_heading": "Carob Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "White Figs Timing",
+    "candidates": [
+      "White Figs Timing",
+      "Problem",
+      "Rabbinic vs. Biblical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's challenge to Rabbi Yo\u1e25anan using the white fig mishna, which is precisely what the 'White Figs Timing' section's prose describes \u2014 the objection itself, not the subsequent discussion of why Yo\u1e25anan was silent or the rabbinic vs. biblical distinction.",
+      "chosen_heading": "White Figs Timing",
+      "current_heading": "White Figs Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Rabbinic vs. Biblical",
+    "candidates": [
+      "Problem",
+      "Rabbinic vs. Biblical",
+      "Trees Recap",
+      "Rabbinic Flexibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the dialogue described in candidate 1's prose \u2014 Rabbi Abba Ha-Kohen questioning why Rav Yochanan was silent, the exchanges about Rabbi Nechemia vs. Rabbanan, the nahagu/issura distinction, and the ma'aser derabbanan vs. shvi'is de-oraisa resolution \u2014 matching the current placement precisely.",
+      "chosen_heading": "Rabbinic vs. Biblical",
+      "current_heading": "Rabbinic vs. Biblical",
+      "moved": false
+    }
+  }
+]

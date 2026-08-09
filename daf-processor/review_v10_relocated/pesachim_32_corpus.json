@@ -1,0 +1,337 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Buried Chametz Status",
+    "candidates": [
+      "Buried Chametz Status",
+      "Bitul Despite Burial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna discusses chametz buried under rubble and Rabban Shimon ben Gamliel's dog-based criterion, which exactly matches the prose of 'Buried Chametz Status' describing the mishnah ruling on harei hu kimevuar and the dog-cannot-search standard.",
+      "chosen_heading": "Buried Chametz Status",
+      "current_heading": "Buried Chametz Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Bitul Despite Burial",
+    "candidates": [
+      "Bitul Despite Burial",
+      "Three Tefach Standard",
+      "Chametz & Money Storage",
+      "Smell vs. Visibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav \u1e24isda's statement about the requirement to nullify chametz in one's heart AND the Tosefta teaching about three handbreadths, and the current heading 'Bitul Despite Burial' with its prose about Rav Chisda's qualification directly matches the first part, while the three-handbreadth teaching is introduced here as a single unit \u2014 but looking more carefully, the passage combines both the bitul requirement (heading 0) and the three-tefach standard (heading 1), and since these are presented as one Gemara unit, the current placement under heading 0 is reasonable, though heading 1's prose more specifically addresses the three-handbreadths teaching; however, since the passage opens with the bitul requirement and the current placement already covers it, and the instruction says to prefer current placement when confidence is mixed, the current placement under 'Bitul Despite Burial' is the best single home as it introduces both elements together.",
+      "chosen_heading": "Bitul Despite Burial",
+      "current_heading": "Bitul Despite Burial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Smell vs. Visibility",
+    "candidates": [
+      "Three Tefach Standard",
+      "Chametz & Money Storage",
+      "Smell vs. Visibility",
+      "Terumah Status",
+      "Payment & Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source for the question Rav Acha poses to Rav Ashi about whether money must be buried three handbreadths deep, which is precisely what the 'Chametz & Money Storage' prose introduces and describes.",
+      "chosen_heading": "Chametz & Money Storage",
+      "current_heading": "Smell vs. Visibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Payment & Intent",
+    "candidates": [
+      "Terumah Status",
+      "Payment & Intent",
+      "Rashi's Rationale",
+      "Atonement Principle",
+      "Core Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Payment & Intent",
+      "first_confidence": "high",
+      "first_reason": "The Mishnah (item 1) presents the core ruling about shogeg/mezid payment for terumah chametz on Pesach, which is precisely what heading 'Payment & Intent' (index 1) discusses \u2014 the surprising preservation of the standard terumah framework penalizing shogeg and exempting mezid.",
+      "second_heading": "Core Question",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the Gemara citing the Terumot mishna about paying keren ve-chomesh for eating, drinking, or anointing with terumah \u2014 which introduces the general mechanics of terumah restitution, directly matching heading 'Core Question' (index 4) whose prose asks whether repayment is by quantity or monetary value, building on this very cited mishna.",
+      "current_heading": "Payment & Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Core Question",
+    "candidates": [
+      "Rashi's Rationale",
+      "Atonement Principle",
+      "Core Question",
+      "Hekdesh Principle",
+      "Figs & Dates Example"
+    ],
+    "result": {
+      "best_index": 3,
+      "action": "single",
+      "chosen_heading": "Hekdesh Principle",
+      "current_heading": "Core Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Figs & Dates Example",
+    "candidates": [
+      "Hekdesh Principle",
+      "Figs & Dates Example",
+      "Abaye's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the Rav Yosef proof from dried figs and dates (achal grogerot) that the prose of heading 1 'Figs & Dates Example' describes in detail, matching both the content and the analysis.",
+      "chosen_heading": "Figs & Dates Example",
+      "current_heading": "Figs & Dates Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Abaye's Resolution",
+    "candidates": [
+      "Abaye's Resolution",
+      "Worthlessness Problem",
+      "Rabbi Yosi Position",
+      "Akiva-Yochanan Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement explaining why a blessing rests upon the restorer despite paying by monetary value, which directly matches the 'Abaye's Resolution' section prose discussing exactly this point about selling ease of dates versus dried figs.",
+      "chosen_heading": "Abaye's Resolution",
+      "current_heading": "Abaye's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Akiva-Yochanan Dispute",
+    "candidates": [
+      "Worthlessness Problem",
+      "Rabbi Yosi Position",
+      "Akiva-Yochanan Dispute",
+      "Harkonus Equation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Worthlessness Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the 'worthlessness problem' \u2014 the mishna's obligation of keren ve-chomesh collapses if chametz has no monetary value \u2014 which matches exactly the prose of heading 0.",
+      "second_heading": "Rabbi Yosi Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 challenges the Rabbi Yose HaGelili resolution by pointing to the latter clause (mezid exempt from payment and d'mei etzim), which is precisely what heading 1's prose describes as the gemara's follow-up to that resolution.",
+      "current_heading": "Akiva-Yochanan Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Harkonus Equation",
+    "candidates": [
+      "Akiva-Yochanan Dispute",
+      "Harkonus Equation",
+      "Kedushah of Chametz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rabbi Ne\u1e25unya ben HaKana's equation of Yom Kippur with Shabbat for payment exemption (kim lei b'drabbah minei), which is precisely the principle the 'Harkonus Equation' prose section discusses and attributes to Harkonus ben Hakanas (an alternate name for the same figure).",
+      "chosen_heading": "Harkonus Equation",
+      "current_heading": "Harkonus Equation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Kedushah of Chametz",
+    "candidates": [
+      "Kedushah of Chametz",
+      "Joint Chamutz View",
+      "Abaye's Clarification"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Kedushah of Chametz",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 are the tannaitic baraitot (Tosefta and second baraita) about teruma chametz disputes, which candidate 0's prose explicitly describes including the Rabbi Akiva/Yochanan ben Nuri and Rabbi Eliezer ben Yaakov/Rabbi Elazar \u1e24isma exchanges and the separation-timing distinction.",
+      "second_heading": "Abaye's Clarification",
+      "second_confidence": "high",
+      "second_reason": "Items 6-7 are Abaye's amoraic clarification that all tanna'im agree chametz is forbidden in benefit and dispute only lefi damim vs. lefi midah, which is precisely what candidate 2's prose describes including the ruling out of the Rabbi Yose HaGelili interpretation.",
+      "current_heading": "Kedushah of Chametz",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Abaye's Clarification",
+    "candidates": [
+      "Joint Chamutz View",
+      "Abaye's Clarification",
+      "Kezayit vs. Perutah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's rejection of the possibility that Rabbi Yochanan ben Nuri agrees with Rabbi Yose HaGelili, which is precisely what Abaye's clarification (candidate 1) establishes \u2014 that all these authorities hold chametz on Pesach is forbidden from benefit, and their dispute is purely about midah versus damim.",
+      "chosen_heading": "Abaye's Clarification",
+      "current_heading": "Abaye's Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Kezayit vs. Perutah",
+    "candidates": [
+      "Kezayit vs. Perutah",
+      "Tanna Kamma Source",
+      "Abba Saul Source",
+      "Tanna Kamma Response",
+      "Abba Saul Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita presenting both the Tanna Kamma's kezayit requirement and Abba Saul's perutah condition, along with the Gemara's initial explanation of the Tanna Kamma's source \u2014 exactly what the 'Kezayit vs. Perutah' section's prose describes as its content.",
+      "chosen_heading": "Kezayit vs. Perutah",
+      "current_heading": "Kezayit vs. Perutah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Abba Saul Response",
+    "candidates": [
+      "Tanna Kamma Source",
+      "Abba Saul Source",
+      "Tanna Kamma Response",
+      "Abba Saul Response",
+      "Sub-Kezayit Rule",
+      "Value & Size"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abba Saul Response",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Abba Saul's derivation from 've-natan' and his reading of 'yochal' as prat le-mazik, which is precisely what candidate 3 ('Abba Saul Response') describes.",
+      "second_heading": "Tanna Kamma Response",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Tanna Kamma's response explaining that 've-natan' teaches davar ha-ra'uy lihyot kodesh (excluding chametz on Pesach), which is exactly what candidate 2 ('Tanna Kamma Response') describes.",
+      "current_heading": "Abba Saul Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Value & Size",
+    "candidates": [
+      "Sub-Kezayit Rule",
+      "Value & Size",
+      "Dual Requirement?",
+      "Rav Papa Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita text and its Gemara discussion (the question about perutah vs. kezayit and the resolution) all belong under the 'Sub-Kezayit Rule' heading, which introduces this exact baraita, while the current placement under 'Value & Size' only covers the Gemara's analysis portion \u2014 the full passage is a single unit that should sit under the heading that introduces it.",
+      "chosen_heading": "Sub-Kezayit Rule",
+      "current_heading": "Value & Size",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rav Papa Position",
+    "candidates": [
+      "Dual Requirement?",
+      "Rav Papa Position",
+      "Refutation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Sages' challenge to Rav Pappa \u2014 arguing this ruling cannot follow Abba Shaul because he requires only a perutah \u2014 and Rav Pappa's response that Abba Shaul actually requires both conditions, which is precisely the 'Dual Requirement?' question posed in that section's prose.",
+      "chosen_heading": "Dual Requirement?",
+      "current_heading": "Rav Papa Position",
+      "moved": true
+    }
+  }
+]

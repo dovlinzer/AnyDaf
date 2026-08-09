@@ -1,0 +1,214 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Melacha Problem",
+    "candidates": [
+      "Beit Shammai/Hillel",
+      "Muktzeh & Shovel",
+      "Melacha Problem",
+      "Rashi & Tosafot",
+      "Muchan Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items deal with the melacha problems of tichsha (grinding) and making a hole when digging to cover blood on Yom Tov, resolved via loose earth and Rabbi Abba's principle \u2014 exactly what the 'Melacha Problem' prose describes.",
+      "chosen_heading": "Melacha Problem",
+      "current_heading": "Melacha Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Muchan Status",
+    "candidates": [
+      "Rashi & Tosafot",
+      "Muchan Status",
+      "Oven Ashes",
+      "New Ashes Exception",
+      "Daitey Ilavey",
+      "House Dirt",
+      "Rav Yehuda Dirt",
+      "Koy Status",
+      "Gemara Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's puzzlement over the sudden mention of oven ashes (eifer kera) and Rabbah's clarification that they are considered muchan, which matches exactly the prose of the 'Muchan Status' section describing this same exchange.",
+      "chosen_heading": "Muchan Status",
+      "current_heading": "Muchan Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Gemara Challenge",
+    "candidates": [
+      "Oven Ashes",
+      "New Ashes Exception",
+      "Daitey Ilavey",
+      "House Dirt",
+      "Rav Yehuda Dirt",
+      "Koy Status",
+      "Gemara Challenge",
+      "Rava's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All 9 items form a continuous chain covering the koy challenge to Rav Yehuda's basket-of-dirt ruling, the eifer kira counter, the 'deis lei' resolution, the 'mai irya safek' follow-up, and the lo mibaya answer \u2014 exactly the content described in the 'Gemara Challenge' prose.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Gemara Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Rava's Response",
+    "candidates": [
+      "Rava's Response",
+      "Dirt Purpose Compare"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabba's ruling that stove ashes are muchan for vadai but not safek, and the Gemara's follow-up question about hole-making resolved via Rabbi Abba \u2014 are explicitly discussed in the 'Rava's Response' prose, which walks through exactly these points in sequence.",
+      "chosen_heading": "Rava's Response",
+      "current_heading": "Rava's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Dirt Purpose Compare",
+    "candidates": [
+      "Dirt Purpose Compare",
+      "Koy-Tzo'ah Dispute",
+      "Rav Yeiva Girsa"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Dirt Purpose Compare",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20134 discuss the asei doche lo ta'aseh argument and its rejection (the Festival's combined positive+negative prohibition), which is explicitly analyzed in candidate 0's prose about 'asei doche lo ta'asei' and Yom Tov being both a lo ta'aseh and an aseh.",
+      "second_heading": "Koy-Tzo'ah Dispute",
+      "second_confidence": "high",
+      "second_reason": "Items 5\u20139 cover Rava's da'at/muchan explanation, the dirt-for-excrement vs. dirt-for-bird-blood ruling, the Nahardelai position, and the koy-tzoa'h dispute with its resolution \u2014 all of which are the explicit subject matter of candidate 1's prose.",
+      "current_heading": "Dirt Purpose Compare",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Rav Yeiva Girsa",
+    "candidates": [
+      "Koy-Tzo'ah Dispute",
+      "Rav Yeiva Girsa",
+      "Weekday/YomTov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rami son of Rav Yeiva's gezeirah mishum hataras chelbo explanation for why one may not cover koy blood on Yom Tov, which is precisely what the 'Rav Yeiva Girsa' prose section discusses.",
+      "chosen_heading": "Rav Yeiva Girsa",
+      "current_heading": "Rav Yeiva Girsa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Weekday/YomTov",
+    "candidates": [
+      "Weekday/YomTov",
+      "Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the weekday/Yom Tov distinction \u2014 why the concern about misinterpretation doesn't apply on a weekday because observers assume yard-cleaning \u2014 which is precisely what heading 0's prose discusses.",
+      "chosen_heading": "Weekday/YomTov",
+      "current_heading": "Weekday/YomTov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Exceptions",
+    "candidates": [
+      "Exceptions",
+      "Mixed Blood Tircha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Exceptions' prose, which describes the dunghill/consulting scenarios (item 1) and the weekday-vs-Yom Tov distinction about safek behavior (item 2).",
+      "chosen_heading": "Exceptions",
+      "current_heading": "Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Mixed Blood Tircha",
+    "candidates": [
+      "Mixed Blood Tircha",
+      "One Shovel Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Zeira's baraita regarding mixed bloods is directly discussed and cited in the 'Mixed Blood Tircha' prose section, which explicitly references this teaching as confirmation of the tircha concern.",
+      "chosen_heading": "Mixed Blood Tircha",
+      "current_heading": "Mixed Blood Tircha",
+      "moved": false
+    }
+  }
+]

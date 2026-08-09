@@ -1,0 +1,244 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Graveyard Case",
+    "candidates": [
+      "Awareness of Witnesses",
+      "Canopy Bed Case",
+      "Graveyard Case",
+      "Formal Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the graveyard case with hidden witnesses, the 'living and dead' formulation, and the ruling that the 'no' response means no valid atem edai \u2014 all of which matches the Graveyard Case prose precisely.",
+      "chosen_heading": "Graveyard Case",
+      "current_heading": "Graveyard Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Formal Requirements",
+    "candidates": [
+      "Formal Requirements",
+      "Silence as Consent",
+      "Kav Rashu Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the inference that silence (rather than an explicit 'no') would constitute acceptance of witnesses, which is precisely what candidate 1's prose addresses under 'Silence as Consent.'",
+      "chosen_heading": "Silence as Consent",
+      "current_heading": "Formal Requirements",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Kav Rashu Case",
+    "candidates": [
+      "Silence as Consent",
+      "Kav Rashu Case",
+      "Miser on Gold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the kav rashu case and Rav Nachman's ruling on it, which is precisely what the 'Kav Rashu Case' prose describes.",
+      "chosen_heading": "Kav Rashu Case",
+      "current_heading": "Kav Rashu Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Miser on Gold",
+    "candidates": [
+      "Miser on Gold",
+      "Deathbed Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the introduction of the miser character and the deathbed declaration, which matches exactly what the 'Miser on Gold' prose section describes as its content.",
+      "chosen_heading": "Miser on Gold",
+      "current_heading": "Miser on Gold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Deathbed Dispute",
+    "candidates": [
+      "Deathbed Dispute",
+      "Living vs. Deathbed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yishmael son of Rabbi Yosei ruling that 'adam asui she-lo le-hasbiya' applies only to the living and not on one's deathbed, which matches the 'Living vs. Deathbed' section's prose discussing this exact distinction and the subsequent dispute \u2014 not the 'Deathbed Dispute' section which describes Rabbi Shmuel bar Rabbi Yosi's ruling in favor of creditors.",
+      "chosen_heading": "Living vs. Deathbed",
+      "current_heading": "Deathbed Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Living vs. Deathbed",
+    "candidates": [
+      "Deathbed Dispute",
+      "Living vs. Deathbed",
+      "Two Witnesses Kinyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the heirs paying half, the creditors suing for the other half before Rabbi \u1e24iyya, his ruling about not making one's sons appear sated, and his statement 'kvar hora zaken' \u2014 all of which match precisely the prose of heading 1 ('Living vs. Deathbed').",
+      "chosen_heading": "Living vs. Deathbed",
+      "current_heading": "Living vs. Deathbed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Two Witnesses Kinyan",
+    "candidates": [
+      "Two Witnesses Kinyan",
+      "Three Without Kinyan",
+      "Rav Ami vs Rav Assi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the two-witnesses-plus-kinyan rule that heading 0's prose explicitly discusses, making the current placement correct.",
+      "chosen_heading": "Two Witnesses Kinyan",
+      "current_heading": "Two Witnesses Kinyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Rav Ami vs Rav Assi",
+    "candidates": [
+      "Three Without Kinyan",
+      "Rav Ami vs Rav Assi",
+      "Rava's Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Rav Ami/Rav Asi dispute with Rav's practical ruling, and Rav Adda bar Ahava's nuanced distinction \u2014 are explicitly described and analyzed in the 'Rav Ami vs Rav Assi' prose, making the current placement correct.",
+      "chosen_heading": "Rav Ami vs Rav Assi",
+      "current_heading": "Rav Ami vs Rav Assi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rava's Requirement",
+    "candidates": [
+      "Rava's Requirement",
+      "Mar Bar Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rava's ruling that convening alone is insufficient without the explicit verbal designation 'be my judges,' which matches exactly what the prose under 'Rava's Requirement' describes.",
+      "chosen_heading": "Rava's Requirement",
+      "current_heading": "Rava's Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Mar Bar Rav Ashi",
+    "candidates": [
+      "Mar Bar Rav Ashi",
+      "Chattels Kinyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Mar bar Rav Ashi's ruling that even explicit designation as judges is insufficient without establishing a formal court location and summoning procedure, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Mar Bar Rav Ashi",
+      "current_heading": "Mar Bar Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Chattels Kinyan",
+    "candidates": [
+      "Chattels Kinyan",
+      "Land No Kinyan",
+      "Amemar vs Zutra",
+      "Concrete Chattels",
+      "Rav Ashi Disagrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Ameimar/Mar Zutra dispute and the ruling (hilchasa kosevin) that candidate 2's prose explicitly describes, making it a clearly better match than candidate 0 which only discusses movables with kinyan.",
+      "chosen_heading": "Amemar vs Zutra",
+      "current_heading": "Chattels Kinyan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Rav Ashi Disagrees",
+    "candidates": [
+      "Land No Kinyan",
+      "Amemar vs Zutra",
+      "Concrete Chattels",
+      "Rav Ashi Disagrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the full exchange \u2014 Rav Dimi's question about extant movables, Ravina's answer that they are like land, and Rav Ashi's dissent \u2014 which corresponds exactly to the 'Concrete Chattels' section's prose that frames both Ravina's ruling and the subsequent disagreement, rather than splitting the single Talmudic passage across two headings.",
+      "chosen_heading": "Concrete Chattels",
+      "current_heading": "Rav Ashi Disagrees",
+      "moved": true
+    }
+  }
+]

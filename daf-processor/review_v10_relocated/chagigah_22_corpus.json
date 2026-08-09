@@ -1,0 +1,368 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Pottery Vessels",
+    "candidates": [
+      "Standards Gap",
+      "Borrowing Vessels",
+      "Pottery Vessels",
+      "Shammai's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishna from Eiduyot about the pottery vessel (kli cheres) protecting items from tumah, with Beit Hillel and Beit Shammai's positions \u2014 exactly what the 'Pottery Vessels' section's prose describes as the Gemara's citation to resolve the borrowing-vessels question.",
+      "chosen_heading": "Pottery Vessels",
+      "current_heading": "Pottery Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Shammai's Logic",
+    "candidates": [
+      "Shammai's Logic",
+      "Hillel's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Beit Hillel\u2013Beit Shammai exchange about why the food and drink are declared pure only for the am ha'aretz himself, which is precisely what candidate 0 ('Shammai's Logic') discusses with its ke-she-tiharnu ochlin u-mashkin she-betokho le-atzmo tiharnu analysis.",
+      "chosen_heading": "Shammai's Logic",
+      "current_heading": "Shammai's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Hillel's Logic",
+    "candidates": [
+      "Hillel's Logic",
+      "Logical Absurdity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why metal vessels must be reported as tamei to the am ha'aretz \u2014 because a chaver might borrow them \u2014 which directly corresponds to the prose in 'Hillel's Logic' that discusses vessel-borrowing interactions and the specific concern about metal vessels that 'the next section addresses directly.'",
+      "chosen_heading": "Hillel's Logic",
+      "current_heading": "Hillel's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Logical Absurdity",
+    "candidates": [
+      "Logical Absurdity",
+      "Shammai's Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehoshua's declaration of embarrassment at Beit Shammai's illogical distinctions \u2014 the woman kneading dough and the pitcher of liquid examples \u2014 which exactly matches the 'Logical Absurdity' prose description.",
+      "chosen_heading": "Logical Absurdity",
+      "current_heading": "Logical Absurdity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Shammai's Defense",
+    "candidates": [
+      "Shammai's Defense",
+      "Social Cost",
+      "Prostration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Beit Shammai student's reasoning to Rabbi Yehoshua \u2014 the logical sequence about impure vessels and the am ha'aretz \u2014 which matches exactly the prose of heading 0 ('Shammai's Defense'), where the essay describes this very exchange step by step.",
+      "chosen_heading": "Shammai's Defense",
+      "current_heading": "Shammai's Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Prostration",
+    "candidates": [
+      "Social Cost",
+      "Prostration",
+      "Dunking Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehoshua's prostration at Beit Shammai's graves and his fasting as atonement, which is precisely what the 'Prostration' section's prose discusses in detail.",
+      "chosen_heading": "Prostration",
+      "current_heading": "Prostration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Dunking Vessels",
+    "candidates": [
+      "Dunking Vessels",
+      "Immersion Trust",
+      "Body vs. Vessels",
+      "Rava's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous chain about borrowing vessels from amei ha'aretz and immersing them, which is precisely what heading 0 ('Dunking Vessels') discusses in its prose, including the katani mihat point, the borrow-and-immerse practice, the tumat meit complication requiring third and seventh day sprinkling, and the question about trusting amei ha'aretz on immersion \u2014 all covered in heading 0's prose before heading 1 picks up the Abaye/Rava resolution.",
+      "chosen_heading": "Dunking Vessels",
+      "current_heading": "Dunking Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rava's View",
+    "candidates": [
+      "Immersion Trust",
+      "Body vs. Vessels",
+      "Rava's View",
+      "Fruit Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's answer (body vs. vessels distinction) and Rava's answer, and the prose under 'Body vs. Vessels' (index 1) explicitly introduces Abaye's distinction while the current placement under 'Rava's View' (index 2) already covers Rava's content in its prose \u2014 the full Gemara passage belongs under index 1 where both answers are introduced together, as the essay's prose for index 2 paraphrases Rava's view without needing the Aramaic text to sit there separately from Abaye's.",
+      "chosen_heading": "Body vs. Vessels",
+      "current_heading": "Rava's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Fruit Example",
+    "candidates": [
+      "Rava's View",
+      "Fruit Example",
+      "Parah Adumah Trust"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about produce susceptibility to impurity, which is precisely what the 'Fruit Example' section's prose discusses and analyzes.",
+      "chosen_heading": "Fruit Example",
+      "current_heading": "Fruit Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Parah Adumah Trust",
+    "candidates": [
+      "Parah Adumah Trust",
+      "Vessel Sections"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the baraita challenge and Abaye's resolution discussed in the 'Parah Adumah Trust' prose, which explicitly describes this exchange about sprinkling the parah adumah ashes and Abaye's mitoch chomer answer.",
+      "chosen_heading": "Parah Adumah Trust",
+      "current_heading": "Parah Adumah Trust",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Vessel Sections",
+    "candidates": [
+      "Vessel Sections",
+      "Handles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the achorayim/toch distinction \u2014 the back vs. inside of a vessel and how tumah from liquid affects each part differently \u2014 which is precisely what the 'Vessel Sections' prose elaborates on in detail.",
+      "chosen_heading": "Vessel Sections",
+      "current_heading": "Vessel Sections",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Handles",
+    "candidates": [
+      "Handles",
+      "Terumah Apply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the meaning of 'beit hatzevita' (place for gripping/handles), matching exactly the prose under 'Handles' which explains the same Gemara discussion with Rav Yehuda/Shmuel and Rabbi Asi/Rabbi Yochanan interpretations.",
+      "chosen_heading": "Handles",
+      "current_heading": "Handles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Terumah Apply",
+    "candidates": [
+      "Terumah Apply",
+      "Kodesh Differ"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the baraita of Rav Beivai before Rav Na\u1e25man and Rav Na\u1e25man's challenge about kodshei gvul/terumah contradicting the mishna, which is precisely what the prose under 'Terumah Apply' discusses, while candidate 1 discusses the Gemara's resolution of that difficulty.",
+      "chosen_heading": "Terumah Apply",
+      "current_heading": "Terumah Apply",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Kodesh Differ",
+    "candidates": [
+      "Kodesh Differ",
+      "Incident"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the interpretation of kodshei gvul as chullin she-na'asu al taharat ha-kodesh and the corroborating teaching of Rabba bar Avuha about the eleven stringencies \u2014 exactly what the 'Kodesh Differ' prose discusses in detail.",
+      "chosen_heading": "Kodesh Differ",
+      "current_heading": "Kodesh Differ",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Incident",
+    "candidates": [
+      "Incident",
+      "Ruling",
+      "Jordan River Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the incident (ma'aseh she-hayah) of the barrel of sacrificial wine and the broken sandal strap, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Incident",
+      "current_heading": "Incident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Jordan River Story",
+    "candidates": [
+      "Ruling",
+      "Jordan River Story",
+      "Abstraction Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the question about teruma, Rabbi Chananya ben Akavia's limiting principle, and the baraita about Parah Adumah transport \u2014 exactly what the 'Jordan River Story' prose describes as its content.",
+      "chosen_heading": "Jordan River Story",
+      "current_heading": "Jordan River Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Abstraction Debate",
+    "candidates": [
+      "Abstraction Debate",
+      "Disputed Cases"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abstraction Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the original Jordan/boat incident and the abstraction debate around it, which is precisely what candidate 0 ('Abstraction Debate') discusses in its prose.",
+      "second_heading": "Disputed Cases",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the unresolved dilemmas (pure sandal, sealed barrel, transgressor) that candidate 1 ('Disputed Cases') explicitly addresses in its prose.",
+      "current_heading": "Abstraction Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Disputed Cases",
+    "candidates": [
+      "Disputed Cases",
+      "Ila vs. Zeira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Rabbi Ila vs. Rabbi Zeira dispute about bedi'avad status, which is precisely what the 'Ila vs. Zeira' section's prose discusses.",
+      "chosen_heading": "Ila vs. Zeira",
+      "current_heading": "Disputed Cases",
+      "moved": true
+    }
+  }
+]

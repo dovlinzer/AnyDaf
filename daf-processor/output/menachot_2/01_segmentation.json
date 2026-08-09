@@ -115,7 +115,7 @@
           "timestamp": "12:26"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -187,8 +187,8 @@
           "timestamp": "24:42"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Rabbah's answer: distinguishing wrong owner from wrong offering type",
@@ -206,7 +206,7 @@
           "timestamp": "25:45"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -249,7 +249,7 @@
           "timestamp": "31:00"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -283,7 +283,7 @@
           "timestamp": "38:41"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 24,
       "matched": true
     },
     {
@@ -307,7 +307,7 @@
           "timestamp": "41:00"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 24,
       "matched": false
     }
   ],
@@ -772,5 +772,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "12:26",
+  "amud_b_micro_title": "Nedava Status",
+  "shiur_start_daf": 2,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,344 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Kneading & Baking Org.",
+    "candidates": [
+      "Kneading & Baking Org.",
+      "Peg in Oven Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Pappa's question about why the tanna omitted bishul simmanim and included baking, answered by 'siddura de-pas nakat,' which is precisely what the prose of heading 0 describes.",
+      "chosen_heading": "Kneading & Baking Org.",
+      "current_heading": "Kneading & Baking Org.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Peg in Oven Example",
+    "candidates": [
+      "Peg in Oven Example",
+      "Pitch Liquefying",
+      "Cooking Non-Food Items",
+      "Barrel & Oven",
+      "Rashi's Barrel List",
+      "Makeh BeFatish",
+      "Boneh & Vessels",
+      "Basket: 11 & 13",
+      "Rashi Basket Breakdown"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the peg-in-oven case (Rav A\u1e25a bar Rav Avira) and the pitch-boiling case (Rabba bar Rav Huna), and candidate 0's prose explicitly discusses both examples together, making it the correct home for this combined passage.",
+      "chosen_heading": "Peg in Oven Example",
+      "current_heading": "Peg in Oven Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rashi Basket Breakdown",
+    "candidates": [
+      "Pitch Liquefying",
+      "Cooking Non-Food Items",
+      "Barrel & Oven",
+      "Rashi's Barrel List",
+      "Makeh BeFatish",
+      "Boneh & Vessels",
+      "Basket: 11 & 13",
+      "Rashi Basket Breakdown",
+      "Three Offerings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both Rava's barrel/oven case and Abaye's basket case together, matching the 'Barrel & Oven' section's prose which introduces the multi-melacha puzzle framework and mentions both Rava's and the subsequent cases, rather than the more specific breakdown sections.",
+      "chosen_heading": "Barrel & Oven",
+      "current_heading": "Rashi Basket Breakdown",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Three Offerings",
+    "candidates": [
+      "Rashi Basket Breakdown",
+      "Three Offerings",
+      "Rav Kahana: No Derech",
+      "Wise Women's Practice",
+      "Wisdom Exception",
+      "Three-Part Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full discussion from the mishna quote through Rabba bar bar Chana's ruling (three sin-offerings), Rav Kahana's dissent, the baraita challenge from Rabbi Nechemia, and the 'extraordinary wisdom' resolution \u2014 all of which together belong under 'Three Offerings' where the current placement is, but the content actually spans headings 1-4; however, since all items must go under ONE heading and the passage opens with the shearing/whitening mishna and the three-offerings ruling that defines the section's topic, the current placement under 'Three Offerings' is the best single heading, as that is where this combined passage logically begins and is currently placed.",
+      "chosen_heading": "Three Offerings",
+      "current_heading": "Three Offerings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Three-Part Process",
+    "candidates": [
+      "Rav Kahana: No Derech",
+      "Wise Women's Practice",
+      "Wisdom Exception",
+      "Three-Part Process",
+      "Reish Lakish",
+      "Memachek Parameters",
+      "Modern Applications",
+      "Tent Stakes",
+      "Temporary Knot Problem",
+      "Broken String Knots"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself (three sin-offerings for plucking, snipping, and stripping a feather) plus Reish Lakish's identification of the three categories, which matches heading 3 ('Three-Part Process') whose prose explicitly describes this baraita and notes Rashi's clarification about kanaf \u2014 the Reish Lakish analysis belongs in heading 4, but since all items must go under one heading and the baraita text is the primary content, heading 3 is the current and correct placement; however, re-examining, the passage includes BOTH the baraita AND Reish Lakish's ruling, and heading 4's prose discusses exactly Reish Lakish's three identifications in detail, while heading 3's prose describes the baraita introduction \u2014 the single passage spans both, but the current placement under heading 3 is reasonable since it introduces the full unit.",
+      "chosen_heading": "Three-Part Process",
+      "current_heading": "Three-Part Process",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Broken String Knots",
+    "candidates": [
+      "Reish Lakish",
+      "Memachek Parameters",
+      "Modern Applications",
+      "Tent Stakes",
+      "Temporary Knot Problem",
+      "Broken String Knots",
+      "Snail Traps",
+      "Knot for Permanence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in 'Broken String Knots' \u2014 Abaye's proposal about weavers knotting broken threads, Rava's challenge about untying, the rejection of the adjacent-knots solution on aesthetic grounds before the King of Kings, and the final answer about chilazon trappers \u2014 all of which is narrated in that section's prose.",
+      "chosen_heading": "Broken String Knots",
+      "current_heading": "Broken String Knots",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Knot for Permanence",
+    "candidates": [
+      "Snail Traps",
+      "Knot for Permanence",
+      "Moth Hole Repair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's ruling on sewing two stitches (tofer) and Rabbi Yochanan's answer that one must tie the stitches to render them permanent, which is precisely what the 'Knot for Permanence' prose section discusses.",
+      "chosen_heading": "Knot for Permanence",
+      "current_heading": "Knot for Permanence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Moth Hole Repair",
+    "candidates": [
+      "Moth Hole Repair",
+      "Tightening Threads"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's question about tearing in the Mishkan and the answer about moth-damaged curtains, which is precisely what the 'Moth Hole Repair' section's prose describes.",
+      "chosen_heading": "Moth Hole Repair",
+      "current_heading": "Moth Hole Repair",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Tightening Threads",
+    "candidates": [
+      "Tightening Threads",
+      "Trapping & Squeezing",
+      "Disha Limited",
+      "Mefarek Question",
+      "Live Squeezing Preferred",
+      "Live Squeezing Preferred",
+      "Psik Reisha Parameters",
+      "Rava vs. Shmuel",
+      "Staining for Commerce"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Tightening Threads",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the continuous Gemara passage about tightening stitches, the magosh prohibition, and calculating tekufot u'mazalot \u2014 all cited by Rav Zutra bar Toviya \u2014 which the 'Tightening Threads' prose explicitly discusses as a unit.",
+      "second_heading": "Trapping & Squeezing",
+      "second_confidence": "high",
+      "second_reason": "Item 4 opens with 'HaTzad tzvi' \u2014 the Mishnah on trapping \u2014 which is an entirely new case with new facts, perfectly matching the 'Trapping & Squeezing' prose about the chilazon baraita.",
+      "current_heading": "Tightening Threads",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Staining for Commerce",
+    "candidates": [
+      "Trapping & Squeezing",
+      "Disha Limited",
+      "Mefarek Question",
+      "Live Squeezing Preferred",
+      "Live Squeezing Preferred",
+      "Psik Reisha Parameters",
+      "Rava vs. Shmuel",
+      "Staining for Commerce",
+      "Rabbeinu Tam",
+      "Salting & Working",
+      "Sartat Added",
+      "Salting Meat",
+      "Transformative Salting"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Live Squeezing Preferred",
+      "first_confidence": "high",
+      "first_reason": "Item 1 resolves the psik reisha d'lo nicha lei question about the chilazon snail staying alive for better dye quality, which is precisely what heading 4 ('Live Squeezing Preferred') describes.",
+      "second_heading": "Rava vs. Shmuel",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 open an entirely new case about shechita \u2014 a new Mishnah topic \u2014 asking mishum mai chayav and presenting Rav's tzovei'a vs. Shmuel's netilat neshama dispute, which is exactly what heading 6 ('Rava vs. Shmuel') discusses.",
+      "current_heading": "Staining for Commerce",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Transformative Salting",
+    "candidates": [
+      "Rabbeinu Tam",
+      "Salting & Working",
+      "Sartat Added",
+      "Salting Meat",
+      "Transformative Salting",
+      "Pillar Smoothing",
+      "Three Finishing Acts",
+      "Salve Smoothing",
+      "Stone Finishing",
+      "Thread Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both the salting-vs-tanning redundancy question AND the debate about salting meat (Rabba bar Rav Huna, Rava, Rav Ashi), which maps precisely to the 'Salting Meat' section's prose that discusses all three positions together, while the current placement ('Transformative Salting') only covers Rav Ashi's qualification.",
+      "chosen_heading": "Salting Meat",
+      "current_heading": "Transformative Salting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Thread Removal",
+    "candidates": [
+      "Pillar Smoothing",
+      "Three Finishing Acts",
+      "Salve Smoothing",
+      "Stone Finishing",
+      "Thread Removal",
+      "Writing & Erasing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all the topics from pillars/smoothing through three rulings through stone-finishing through thread removal in one continuous Gemara unit, and heading 0 ('Pillar Smoothing') is where the passage begins, matching the essay structure where subsequent headings (1-4) break out individual rulings that are all contained within this single quoted passage.",
+      "chosen_heading": "Pillar Smoothing",
+      "current_heading": "Thread Removal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Writing & Erasing",
+    "candidates": [
+      "Thread Removal",
+      "Writing & Erasing",
+      "Avot Melachot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the asymmetry between writing and erasing one large letter, the exemption for writing versus liability for erasing, and Rabbi Menachem's statement about erasing being more stringent \u2014 exactly what the 'Writing & Erasing' prose describes.",
+      "chosen_heading": "Writing & Erasing",
+      "current_heading": "Writing & Erasing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Avot Melachot",
+    "candidates": [
+      "Avot Melachot",
+      "Rabbi Yehuda Adds 2",
+      "Refutation"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Avot Melachot",
+      "current_heading": "Avot Melachot",
+      "moved": false
+    }
+  }
+]

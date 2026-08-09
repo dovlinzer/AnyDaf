@@ -1,0 +1,316 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Daytime Use",
+    "candidates": [
+      "Rashi Commentary",
+      "Chazaka Continuity",
+      "Rashbam Daily",
+      "Daytime Use",
+      "Unit Analysis",
+      "Slave Purchase"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Rav Huna's concession regarding the stores of Me\u1e25oza being used only during the day, which is precisely what the 'Daytime Use' section's prose describes.",
+      "chosen_heading": "Daytime Use",
+      "current_heading": "Daytime Use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Slave Purchase",
+    "candidates": [
+      "Unit Analysis",
+      "Slave Purchase",
+      "Alternation Effect",
+      "Partnership Doc"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Slave Purchase",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the case of Rami bar Chama and Rav Ukva bar Chama purchasing the maidservant and alternating use, which matches the 'Slave Purchase' heading's prose exactly.",
+      "second_heading": "Alternation Effect",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's ruling about why the alternating use fails to establish chazaka against either party, which matches the 'Alternation Effect' heading's prose exactly.",
+      "current_heading": "Slave Purchase",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Partnership Doc",
+    "candidates": [
+      "Alternation Effect",
+      "Partnership Doc",
+      "Beit Rova"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the rule about writing an 'itra' (partnership document) generating publicity ('kala it lei'), which is precisely what the 'Partnership Doc' section's prose discusses.",
+      "chosen_heading": "Partnership Doc",
+      "current_heading": "Partnership Doc",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Beit Rova",
+    "candidates": [
+      "Beit Rova",
+      "Unsuitable Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's ruling about acquiring a field except for an unused beit rova, which is precisely what the 'Beit Rova' section's prose discusses.",
+      "chosen_heading": "Beit Rova",
+      "current_heading": "Beit Rova",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Unsuitable Land",
+    "candidates": [
+      "Unsuitable Land",
+      "Alternative Uses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna's qualification that the ruling applies only to plantable land but unsuitable land is acquired together with the rest of the field, which is precisely what the 'Unsuitable Land' section's prose discusses.",
+      "chosen_heading": "Unsuitable Land",
+      "current_heading": "Unsuitable Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Alternative Uses",
+    "candidates": [
+      "Alternative Uses",
+      "Inner Chamber"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Beivai bar Abaye's objection about rocky land and alternative uses (animals/produce), which is precisely what the 'Alternative Uses' section prose discusses in detail.",
+      "chosen_heading": "Alternative Uses",
+      "current_heading": "Alternative Uses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Inner Chamber",
+    "candidates": [
+      "Inner Chamber",
+      "Exclusive Use",
+      "Burden Shift",
+      "Name vs Ownership"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Inner Chamber",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the initial case where the claimant says he was in the inner chamber, which is precisely what heading 0 ('Inner Chamber') discusses in detail.",
+      "second_heading": "Exclusive Use",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Nachman's ruling to prove exclusive use and Rava's burden-of-proof challenge, which maps directly to heading 1 ('Exclusive Use') for the Rav Nachman ruling and heading 2 ('Burden Shift') for Rava's challenge \u2014 but since item 2 contains both, and heading 1's prose explicitly covers Rav Nachman's zil baror ruling while heading 2 covers Rava's challenge, the combined item best fits heading 1 as the starting point of that sub-discussion.",
+      "current_heading": "Inner Chamber",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Name vs Ownership",
+    "candidates": [
+      "Exclusive Use",
+      "Burden Shift",
+      "Name vs Ownership",
+      "Buyer Possession",
+      "Seller Muchzak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together introduce the Bar Sisin case \u2014 the contradiction between Rava and Rav Nachman, the facts of the sale dispute, and Rava's initial challenge \u2014 which is precisely what heading 2 ('Name vs Ownership') describes in its prose.",
+      "chosen_heading": "Name vs Ownership",
+      "current_heading": "Name vs Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Seller Muchzak",
+    "candidates": [
+      "Buyer Possession",
+      "Seller Muchzak",
+      "Resolution",
+      "Evidence Primacy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states the contradiction between Rava and Rava and between Rav Na\u1e25man and Rav Na\u1e25man, which is precisely what the 'Resolution' section's prose addresses as the starting point before resolving both contradictions.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Seller Muchzak",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Evidence Primacy",
+    "candidates": [
+      "Resolution",
+      "Evidence Primacy",
+      "Distance Claim",
+      "Annual Return",
+      "Preoccupation",
+      "Reasonableness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's resolution of the Rava-Rava and Rav Nachman-Rav Nachman contradictions, which is precisely what the 'Resolution' section's prose describes and analyzes in detail, whereas the current placement under 'Evidence Primacy' discusses the implications of Rav Nachman's reasoning after the resolution has already been stated.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Evidence Primacy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Reasonableness",
+    "candidates": [
+      "Distance Claim",
+      "Annual Return",
+      "Preoccupation",
+      "Reasonableness",
+      "Third-Party Sale",
+      "Concession",
+      "Implicit Admission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rava's ruling that a person can plausibly be occupied with marketplace business for thirty days, which is exactly what the 'Reasonableness' section's prose discusses.",
+      "chosen_heading": "Reasonableness",
+      "current_heading": "Reasonableness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Implicit Admission",
+    "candidates": [
+      "Third-Party Sale",
+      "Concession",
+      "Implicit Admission",
+      "Claim Support",
+      "Thief Sale",
+      "Advice Given",
+      "Easier Target"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Implicit Admission",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 form the complete third-party sale case ending with Rava's ruling (*dina ka'amar lei*), which the 'Implicit Admission' prose directly analyzes.",
+      "second_heading": "Thief Sale",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens an entirely new case with distinct facts (chazaka + gazlan allegation), which the 'Thief Sale' prose describes precisely.",
+      "current_heading": "Implicit Admission",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Easier Target",
+    "candidates": [
+      "Claim Support",
+      "Thief Sale",
+      "Advice Given",
+      "Easier Target",
+      "Words vs Deed",
+      "Admon Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains Rava's ruling 'dina ka'amar lei' that the claimant's explanation is legally sound, which matches the 'Words vs Deed' section's prose describing exactly this ruling.",
+      "chosen_heading": "Words vs Deed",
+      "current_heading": "Easier Target",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Admon Analogy",
+    "candidates": [
+      "Words vs Deed",
+      "Admon Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Admon analogy and its resolution \u2014 item 1 raises the Admon comparison and item 2 resolves it \u2014 exactly matching the 'Admon Analogy' prose which covers both the question and the afilu teima rabanan answer.",
+      "chosen_heading": "Admon Analogy",
+      "current_heading": "Admon Analogy",
+      "moved": false
+    }
+  }
+]

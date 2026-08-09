@@ -241,7 +241,7 @@
           "timestamp": "43:20"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -255,7 +255,7 @@
           "timestamp": "43:46"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 17,
       "matched": false
     },
     {
@@ -274,8 +274,8 @@
           "timestamp": "48:15"
         }
       ],
-      "sefaria_index": 24,
-      "matched": false
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Shevuat Bituy: Characteristics and Scope of Future-Oriented Binding Oath (continued)",
@@ -288,7 +288,7 @@
           "timestamp": "48:25"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 21,
       "matched": false
     },
     {
@@ -312,8 +312,8 @@
           "timestamp": "48:42"
         }
       ],
-      "sefaria_index": 24,
-      "matched": false
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Oath Imposed by Others vs. Self-Imposed: When Does Saying Amen Count as Self-Imposed",
@@ -341,7 +341,7 @@
           "timestamp": "51:07"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 23,
       "matched": true
     },
     {
@@ -634,5 +634,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "35:38",
+  "amud_b_micro_title": "Prevents Nullification",
+  "shiur_start_daf": 29,
+  "shiur_start_amud": "a"
 }

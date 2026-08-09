@@ -1,0 +1,551 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "King's Seal Parable",
+    "candidates": [
+      "White String Punishment",
+      "King's Seal Parable",
+      "Identity & Belonging",
+      "Hundred Blessings Daily"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Meir's statement about white string punishment AND the parable illustrating it \u2014 they are one continuous unit that belongs under the 'White String Punishment' heading, which introduces and discusses this exact teaching including the reasoning behind it.",
+      "chosen_heading": "White String Punishment",
+      "current_heading": "King's Seal Parable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Hundred Blessings Daily",
+    "candidates": [
+      "Identity & Belonging",
+      "Hundred Blessings Daily",
+      "Me'ah Reinterpretation",
+      "Maharsha's Teaching",
+      "Blessings on Yom Tov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita of Rabbi Meir obligating one hundred blessings daily, which is exactly what the 'Hundred Blessings Daily' section's prose introduces as its topic.",
+      "chosen_heading": "Hundred Blessings Daily",
+      "current_heading": "Hundred Blessings Daily",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Blessings on Yom Tov",
+    "candidates": [
+      "Me'ah Reinterpretation",
+      "Maharsha's Teaching",
+      "Blessings on Yom Tov",
+      "Identity Blessings List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav \u1e24iyya's practice of supplementing blessings with spices and sweet fruit on Shabbat and Festivals, which is exactly what the prose under 'Blessings on Yom Tov' discusses \u2014 the challenge of reaching 100 blessings on Shabbos/Yom Tov and this specific solution.",
+      "chosen_heading": "Blessings on Yom Tov",
+      "current_heading": "Blessings on Yom Tov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Identity Blessings List",
+    "candidates": [
+      "Identity Blessings List",
+      "Censorship & Phrasing",
+      "Women & Mitzvot",
+      "Modern Interpretations",
+      "Ignoramus Blessing Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita introducing Rabbi Meir's three identity blessings, which is exactly what the 'Identity Blessings List' section's prose describes as introducing and enumerating.",
+      "chosen_heading": "Identity Blessings List",
+      "current_heading": "Identity Blessings List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Ignoramus Blessing Debate",
+    "candidates": [
+      "Censorship & Phrasing",
+      "Women & Mitzvot",
+      "Modern Interpretations",
+      "Ignoramus Blessing Debate",
+      "Slave Blessing",
+      "Chilazon Properties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's exchange about *shelo asani bor* being replaced by *shelo asani eved* and the resolution that a slave's status is lower (*zil tefei*) than a woman's, which is precisely what candidate 4 ('Slave Blessing') describes in its prose.",
+      "chosen_heading": "Slave Blessing",
+      "current_heading": "Ignoramus Blessing Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Chilazon Properties",
+    "candidates": [
+      "Slave Blessing",
+      "Chilazon Properties",
+      "Techelet Expense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the characteristics of the chilazon (body resembles the sea, form resembles a fish, emerges once in seventy years, blood used for dyeing), which matches the 'Chilazon Properties' section's prose discussion of these exact same characteristics.",
+      "chosen_heading": "Chilazon Properties",
+      "current_heading": "Chilazon Properties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Techelet Expense",
+    "candidates": [
+      "Techelet Expense",
+      "Rabbi Natan's Principle",
+      "Tzitzit Story Intro",
+      "Seven Beds Scene"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Natan's Principle",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Natan's principle about reward for mitzvot, which matches exactly the prose of candidate 1 ('Rabbi Natan's Principle') discussing *ein lecha kol mitzvah kalah* and the formulation of olam hazeh/olam haba reward.",
+      "second_heading": "Tzitzit Story Intro",
+      "second_confidence": "high",
+      "second_reason": "Item 2 begins the tzitzit story proper \u2014 *ma'aseh be'adam echad shehayah zahir bemitzvas tzitzit* \u2014 which matches candidate 2 ('Tzitzit Story Intro') whose prose explicitly describes this same opening scene of the man scrupulous in tzitzit who heard of the prostitute charging four hundred gold coins.",
+      "current_heading": "Techelet Expense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Seven Beds Scene",
+    "candidates": [
+      "Rabbi Natan's Principle",
+      "Tzitzit Story Intro",
+      "Seven Beds Scene",
+      "Tzitziot Slap Him",
+      "Man Explains Tzitzit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the maidservant announcing the man's arrival, the prostitute inviting him in, and the arrangement of seven beds with silver and gold ladders \u2014 exactly the content described in the 'Seven Beds Scene' prose.",
+      "chosen_heading": "Seven Beds Scene",
+      "current_heading": "Seven Beds Scene",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Man Explains Tzitzit",
+    "candidates": [
+      "Tzitziot Slap Him",
+      "Man Explains Tzitzit",
+      "Woman Converts"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tzitziot Slap Him",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the tzitzit slapping him and both sitting on the ground, which is precisely what heading 0 ('Tzitziot Slap Him') discusses in its prose.",
+      "second_heading": "Man Explains Tzitzit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the man's explanation of tzitzit and the four witnesses, which is exactly what heading 1 ('Man Explains Tzitzit') discusses in its prose.",
+      "current_heading": "Man Explains Tzitzit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Woman Converts",
+    "candidates": [
+      "Woman Converts",
+      "Bedspreads Redeemed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the woman demanding the student's identifying information before letting him go, which directly matches the prose under 'Woman Converts' that paraphrases this exact exchange.",
+      "chosen_heading": "Woman Converts",
+      "current_heading": "Woman Converts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Bedspreads Redeemed",
+    "candidates": [
+      "Bedspreads Redeemed",
+      "Bedspreads Redeemed",
+      "Reward Fulfillment",
+      "Borrowed Tallit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the division of property, the conversion request to Rabbi \u1e24iyya, and the reuse of the bedspreads with the reward statement \u2014 are the continuous narrative conclusion of the story, and candidate 0's prose covers exactly this sequence including all three elements (property division, Rabbi \u1e24iyya conversion scene, and the bedspreads/reward), making it the best match over candidate 1 (which covers only the bedspreads transformation) or candidate 2 (which covers only the reward line).",
+      "chosen_heading": "Bedspreads Redeemed",
+      "current_heading": "Bedspreads Redeemed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Borrowed Tallit",
+    "candidates": [
+      "Bedspreads Redeemed",
+      "Reward Fulfillment",
+      "Borrowed Tallit",
+      "Rented House Mezuzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is directly about Rav Yehuda's ruling on a borrowed tallit and tzitzit obligation, which is exactly what the 'Borrowed Tallit' section's prose discusses.",
+      "chosen_heading": "Borrowed Tallit",
+      "current_heading": "Borrowed Tallit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Rented House Mezuzah",
+    "candidates": [
+      "Rented House Mezuzah",
+      "Eretz Yisrael Exception",
+      "Hand & Head Tefillin",
+      "Chisda's Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The baraita covers both the thirty-day exemption rule (discussed in candidate 0) and the Eretz Yisrael exception (discussed in candidate 1), but since the passage as a whole introduces the baraita that underlies the entire rented-house mezuzah discussion and the current placement already covers this content, and candidate 1's prose treats the Eretz Yisrael clause as a follow-on elaboration, the current placement under 'Rented House Mezuzah' is an acceptable home for the full baraita.",
+      "chosen_heading": "Rented House Mezuzah",
+      "current_heading": "Rented House Mezuzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Chisda's Restriction",
+    "candidates": [
+      "Eretz Yisrael Exception",
+      "Hand & Head Tefillin",
+      "Chisda's Restriction",
+      "Chisda Reverses",
+      "Gezerah Incentive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav \u1e24isda's qualification (lo shanu ela she-yesh lo / aval ein lo me'akevet), which is precisely what the 'Chisda's Restriction' section prose describes.",
+      "chosen_heading": "Chisda's Restriction",
+      "current_heading": "Chisda's Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Gezerah Incentive",
+    "candidates": [
+      "Chisda Reverses",
+      "Gezerah Incentive",
+      "Eight Tefillin Violations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Chisda's reversal ('lo, ela man d'leit lei') and the Gemara's follow-up question about his original reasoning ('ume'ikara mai savar / gezeirah shema yifsha'), all of which are discussed together under the 'Chisda Reverses' heading's prose, while the current 'Gezerah Incentive' heading only covers the second half.",
+      "chosen_heading": "Chisda Reverses",
+      "current_heading": "Gezerah Incentive",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Eight Tefillin Violations",
+    "candidates": [
+      "Gezerah Incentive",
+      "Eight Tefillin Violations",
+      "Five Tzitzit Violations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Sheshet's statement about violating eight positive commandments by not donning tefillin, which matches exactly the prose under 'Eight Tefillin Violations'.",
+      "chosen_heading": "Eight Tefillin Violations",
+      "current_heading": "Eight Tefillin Violations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Five Tzitzit Violations",
+    "candidates": [
+      "Five Tzitzit Violations",
+      "Two Mezuzah Violations",
+      "Priestly Blessing Violat\u2026"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the five positive commandments violated by failing to attach tzitzit, which is precisely what the 'Five Tzitzit Violations' section prose describes.",
+      "chosen_heading": "Five Tzitzit Violations",
+      "current_heading": "Five Tzitzit Violations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Priestly Blessing Violat\u2026",
+    "candidates": [
+      "Two Mezuzah Violations",
+      "Priestly Blessing Violat\u2026",
+      "Extended Days Promise",
+      "Head & Heart Verse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Priestly Blessing Violat\u2026",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concerns the priest who fails to ascend the duchan violating three positive commandments, which matches exactly the 'Priestly Blessing Violat\u2026' section's prose about a kohen transgressing three asei.",
+      "second_heading": "Two Mezuzah Violations",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concerns one who lacks a mezuzah violating two positive commandments (u'chtavtam twice), which matches exactly the 'Two Mezuzah Violations' section's prose about transgressing two positive commandments from the two parshiyot.",
+      "current_heading": "Priestly Blessing Violat\u2026",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Head & Heart Verse",
+    "candidates": [
+      "Extended Days Promise",
+      "Head & Heart Verse",
+      "Mincha First Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Reish Lakish's teaching that donning tefillin extends one's days, which is precisely what candidate 0 ('Extended Days Promise') describes, while candidate 1's prose discusses the verse's interpretation regarding head and heart tefillin as a separate elaboration.",
+      "chosen_heading": "Extended Days Promise",
+      "current_heading": "Head & Heart Verse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Mincha First Order",
+    "candidates": [
+      "Head & Heart Verse",
+      "Mincha First Order",
+      "Rebbi's Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text about solet, shemen, and wine not preventing each other is directly introduced and discussed in the 'Mincha First Order' section's prose.",
+      "chosen_heading": "Mincha First Order",
+      "current_heading": "Mincha First Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Rebbi's Order",
+    "candidates": [
+      "Rebbi's Order",
+      "Verse Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita dispute between the Rabbanan (mincha then libations) and Rebbi (animal offering then libations), which is exactly what the 'Rebbi's Order' section discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Rebbi's Order",
+      "current_heading": "Rebbi's Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Verse Attribution",
+    "candidates": [
+      "Verse Attribution",
+      "Zeira's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses what Rebbi does with the verse u'minchasam v'niskeihem, explaining it teaches separability (night/next day), which is precisely what the 'Verse Attribution' prose describes.",
+      "chosen_heading": "Verse Attribution",
+      "current_heading": "Verse Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Zeira's Principle",
+    "candidates": [
+      "Zeira's Principle",
+      "Separate Order Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous Gemara discussion about why neither 'zevach u'nisachim' nor 'u'minchasam v'niskeihem' can serve as the basis of the dispute (because both are needed for other drashos, including Ze'eiri's principle), which is precisely what the 'Zeira's Principle' prose section describes.",
+      "chosen_heading": "Zeira's Principle",
+      "current_heading": "Zeira's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Separate Order Logic",
+    "candidates": [
+      "Separate Order Logic",
+      "Wine & Levite Song"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly establishes the agreement/dispute framework for libations accompanying vs. brought separately from animal offerings, and the Rabbanan's reasoning \u2014 exactly what the 'Separate Order Logic' prose describes.",
+      "chosen_heading": "Separate Order Logic",
+      "current_heading": "Separate Order Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Wine & Levite Song",
+    "candidates": [
+      "Wine & Levite Song",
+      "Single Placement Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda HaNasi's reasoning about meal offerings vs. libations, the 'eating' logic, and the priority of nesachim due to Levitical song \u2014 exactly what the 'Wine & Levite Song' prose section discusses.",
+      "chosen_heading": "Wine & Levite Song",
+      "current_heading": "Wine & Levite Song",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Single Placement Works",
+    "candidates": [
+      "Single Placement Works",
+      "Scriptural Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the mishna's ruling that placements on the outer altar do not prevent one another, which matches the 'Single Placement Works' section's prose about this exact mishna ruling, not the scriptural derivation discussed in section 1.",
+      "chosen_heading": "Single Placement Works",
+      "current_heading": "Single Placement Works",
+      "moved": false
+    }
+  }
+]

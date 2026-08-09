@@ -1,0 +1,316 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Shelo Lishman Principle",
+    "candidates": [
+      "Greeting & Masechet Intro",
+      "Menachot Contents",
+      "Shelo Lishman Principle",
+      "Exceptions: Chat & Sotah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the opening Mishna of Menachot \u2014 item 1 states the general rule (shelo lishman is valid but doesn't fulfill the obligation) and item 2 states the exceptions (minchat chotei and minchat kenaot are disqualified), which is precisely the content the 'Shelo Lishman Principle' prose section describes.",
+      "chosen_heading": "Shelo Lishman Principle",
+      "current_heading": "Shelo Lishman Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Exceptions: Chat & Sotah",
+    "candidates": [
+      "Exceptions: Chat & Sotah",
+      "Stamah & Explicit Intent",
+      "Parallel Services",
+      "Double Intent Cases",
+      "Oven/Fried Example",
+      "Use of Ela"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly illustrates double-intent cases (lishman ve-shelo lishman and shelo lishman ve-lishman) using minchat chotei and minchat nedava, which is precisely what the 'Double Intent Cases' prose describes.",
+      "chosen_heading": "Double Intent Cases",
+      "current_heading": "Exceptions: Chat & Sotah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Use of Ela",
+    "candidates": [
+      "Stamah & Explicit Intent",
+      "Parallel Services",
+      "Double Intent Cases",
+      "Oven/Fried Example",
+      "Use of Ela",
+      "No Multiple Invalidations",
+      "Rava's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question about why the mishna uses 'ella' rather than 've-lo', which is precisely what the 'Use of Ela' section's prose discusses.",
+      "chosen_heading": "Use of Ela",
+      "current_heading": "Use of Ela",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Rava's Proof",
+    "candidates": [
+      "No Multiple Invalidations",
+      "Rava's Proof",
+      "Neder Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present Rava's ruling about not deviating further after one shelo lishmo act, and the logical argument (sevara) supporting it \u2014 exactly what the 'Rava's Proof' prose section describes, including the specific Aramaic phrase mishum d'shani bah.",
+      "chosen_heading": "Rava's Proof",
+      "current_heading": "Rava's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Neder Definition",
+    "candidates": [
+      "Neder Definition",
+      "Vow Fulfillment",
+      "Nedava Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's resolution that if performed as vowed (lishma) it counts as a neder, and if not it becomes a nedava \u2014 which matches the 'Vow Fulfillment' prose's discussion of 'im ke-moshe nadarta asita' and yehei neder vs. nedava, rather than the 'Neder Definition' section which focuses on the categorical distinction between neder and nedava.",
+      "chosen_heading": "Vow Fulfillment",
+      "current_heading": "Neder Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Nedava Status",
+    "candidates": [
+      "Vow Fulfillment",
+      "Nedava Status",
+      "Rabbi Shimon's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks rhetorically whether one may deviate from proper protocol for a nedava (gift/free-will offering), directly supporting the prose argument in 'Nedava Status' that even a nedava must be performed with proper intent and the kohen is never licensed to use wrong intent merely because the owner's obligation is not at stake.",
+      "chosen_heading": "Nedava Status",
+      "current_heading": "Nedava Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Rabbi Shimon's View",
+    "candidates": [
+      "Rabbi Shimon's View",
+      "Shimon: Grain Proof",
+      "Examples of Self-Evidence"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Shimon's View",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Shimon's ruling that meal offerings taken shelo lishman fulfill the owner's obligation, which matches heading 0's prose about the mishna potentially not following Rabbi Shimon and his position that wrong intent is inoperative for menachot.",
+      "second_heading": "Shimon: Grain Proof",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives Rabbi Shimon's reason \u2014 meal offerings are not like slaughtered offerings because the physical act proves the offering's identity \u2014 which matches heading 1's prose about 'she-ein ha-menachot domot le-zevachim' and the physical reality rendering wrong intent absurd.",
+      "current_heading": "Rabbi Shimon's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Examples of Self-Evidence",
+    "candidates": [
+      "Shimon: Grain Proof",
+      "Examples of Self-Evidence",
+      "Intent Interpretation",
+      "Physical Reality Priority",
+      "Stamah Principle",
+      "Vessel vs. Category",
+      "Form vs. Halakha",
+      "Reconciliation Attempt",
+      "Owner vs. Offering Type",
+      "Mishna Fit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains why animal sacrifices differ from meal offerings \u2014 one slaughter, one sprinkling, one collection for all types \u2014 which is precisely the content the 'Examples of Self-Evidence' prose discusses when it quotes 'aval bi-zevachim eino kein' and explains that the physical act of slaughter looks the same regardless of sacrifice type.",
+      "chosen_heading": "Examples of Self-Evidence",
+      "current_heading": "Examples of Self-Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Mishna Fit",
+    "candidates": [
+      "Intent Interpretation",
+      "Physical Reality Priority",
+      "Stamah Principle",
+      "Vessel vs. Category",
+      "Form vs. Halakha",
+      "Reconciliation Attempt",
+      "Owner vs. Offering Type",
+      "Mishna Fit",
+      "First Position: No Inval",
+      "Intent & Korban Type"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All six items form a continuous Gemara discussion about whether the mishna can be reconciled with Rabbi Shimon according to Rav Ashi, Rabbah, and Rava, concluding with 'matnisin d'lo k'Rabbi Shimon' \u2014 exactly what the 'Mishna Fit' prose describes.",
+      "chosen_heading": "Mishna Fit",
+      "current_heading": "Mishna Fit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Intent & Korban Type",
+    "candidates": [
+      "First Position: No Inval",
+      "Intent & Korban Type",
+      "Reconciliation Needed",
+      "Broad Comparison Issue",
+      "Sevara Limits Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items together present the baraita contrasting minchat chotei (like chatat) with minchat nedava (like asham), then Rabba's resolution distinguishing shinui kodesh from shinui ba'alim, then Abaye's challenge \u2014 which is exactly the content described in candidate 1's prose about Rabbi Shimon's two baraitot and their tension, matching the current placement.",
+      "chosen_heading": "Intent & Korban Type",
+      "current_heading": "Intent & Korban Type",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Sevara Limits Scope",
+    "candidates": [
+      "Reconciliation Needed",
+      "Broad Comparison Issue",
+      "Sevara Limits Scope",
+      "Location-Based Intent",
+      "Flexibility of Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are Rabbah's direct response explaining that Rabbi Shimon's sevara limits the verse's scope \u2014 item 1 states the sevara principle and item 2 articulates its specific application (machshava de-lo minkara/machshava de-minkara) \u2014 which is precisely what the 'Sevara Limits Scope' prose describes.",
+      "chosen_heading": "Sevara Limits Scope",
+      "current_heading": "Sevara Limits Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Flexibility of Acts",
+    "candidates": [
+      "Location-Based Intent",
+      "Flexibility of Acts",
+      "Bird vs. Grain",
+      "Reverse Case",
+      "Tosafot's Cases",
+      "Wrong Owner Matters",
+      "Offering Type Variable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage as a whole \u2014 the mnemonic, the melika above for sake of chatat, the mitzui above for sake of chatat, and the reverse case of chatat's blood squirted below for sake of olah \u2014 all constitute the Gemara's probing of Rabbi Shimon's principle via bird sacrifices based on location, which is precisely what heading 0 ('Location-Based Intent') describes, whereas the current heading 1 ('Flexibility of Acts') describes only the Gemara's responses/resolutions rather than the full sequence of questions and answers that forms this passage.",
+      "chosen_heading": "Location-Based Intent",
+      "current_heading": "Flexibility of Acts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Offering Type Variable",
+    "candidates": [
+      "Bird vs. Grain",
+      "Reverse Case",
+      "Tosafot's Cases",
+      "Wrong Owner Matters",
+      "Offering Type Variable",
+      "To Be Continued"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains that Rabbi Shimon's statement about meal offerings not being similar to 'slaughtered offerings' means specifically animal slaughtered offerings but not bird offerings \u2014 directly supporting the 'Bird vs. Grain' section's discussion of why bird sacrifices are treated differently from menachot in terms of how kavanah operates.",
+      "chosen_heading": "Bird vs. Grain",
+      "current_heading": "Offering Type Variable",
+      "moved": true
+    }
+  }
+]

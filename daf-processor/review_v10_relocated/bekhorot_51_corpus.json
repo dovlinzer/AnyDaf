@@ -1,0 +1,269 @@
+[
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Kessef kessef",
+    "candidates": [
+      "Opening context",
+      "Shekel definitions",
+      "Sela medina",
+      "Ketubah value",
+      "Ones and motzi shem ra",
+      "Kessef kessef",
+      "Three exclusions",
+      "Shkalim requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly explains why the cases of ones and motzi shem ra needed to be stated (since shekel is not written with them, one might think lesser coins are meant), which matches exactly the prose under 'Ones and motzi shem ra' rather than the 'Kessef kessef' section where it currently sits.",
+      "chosen_heading": "Ones and motzi shem ra",
+      "current_heading": "Kessef kessef",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Shkalim requirement",
+    "candidates": [
+      "Three exclusions",
+      "Shkalim requirement",
+      "Drachma exchange",
+      "Maaser coins",
+      "Devaluation concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce the three exceptions (shkalim, ma'aser, ra'ayon) from the mishna and a baraita, which is precisely what the 'Three exclusions' prose describes \u2014 the 'Shkalim requirement' section is about the subsequent gemara elaboration on shkalim specifically, but item 2 (the Shekalim mishna about exchanging for darics) is actually cited there; however, item 1 establishes all three exclusions, making 'Three exclusions' the best fit for the passage as a whole unit that introduces the topic before the gemara drills into each case.",
+      "chosen_heading": "Three exclusions",
+      "current_heading": "Shkalim requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Devaluation concern",
+    "candidates": [
+      "Drachma exchange",
+      "Maaser coins",
+      "Devaluation concern",
+      "Ra'ayon purity",
+      "Mishnah exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly derives the coin requirement for ma'aser sheni from 'vetzarta hakesef beyadecha' and explains the ra'ayon rule via Rav Yosef's teaching, which matches the 'Maaser coins' section's prose discussing exactly these two derivations together, rather than the 'Devaluation concern' section where it currently sits.",
+      "chosen_heading": "Maaser coins",
+      "current_heading": "Devaluation concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Mishnah exclusions",
+    "candidates": [
+      "Ra'ayon purity",
+      "Mishnah exclusions",
+      "IOU rejection",
+      "Debt after IOU",
+      "Gift remedy",
+      "Money to kohen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text covers exactly what candidate 1's prose discusses: the four excluded categories for pidyon haben (slaves, notes, land, consecrated items) plus the IOU scenario and the kohen's gift option, and the current placement under 'Mishnah exclusions' matches the full mishna text being introduced.",
+      "chosen_heading": "Mishnah exclusions",
+      "current_heading": "Mishnah exclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Money to kohen",
+    "candidates": [
+      "IOU rejection",
+      "Debt after IOU",
+      "Gift remedy",
+      "Money to kohen",
+      "Rabbi ribui approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is about a father who designates pidyon haben money that is lost before reaching the kohen, and the father's continued liability \u2014 exactly what candidate 3's prose discusses.",
+      "chosen_heading": "Money to kohen",
+      "current_heading": "Money to kohen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Rabbi ribui approach",
+    "candidates": [
+      "Rabbi ribui approach",
+      "Rabbanan klal prat",
+      "Land exclusions",
+      "Intrinsic value",
+      "Cash question",
+      "Martzea case",
+      "Metal restriction",
+      "Fish example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 11 items form one continuous Gemara discussion about Rabbi's ribui miyut u-ribui method for pidyon haben redemption, including the challenge from the martzea case and its resolution via Rabbi Yishmael's school \u2014 exactly what heading 0 ('Rabbi ribui approach') describes in its prose.",
+      "chosen_heading": "Rabbi ribui approach",
+      "current_heading": "Rabbi ribui approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Fish example",
+    "candidates": [
+      "Rabbanan klal prat",
+      "Land exclusions",
+      "Intrinsic value",
+      "Cash question",
+      "Martzea case",
+      "Metal restriction",
+      "Fish example",
+      "Distribution method",
+      "Rabbi Tarfon",
+      "Gmirat da'at",
+      "Intent requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage discusses redeeming a firstborn with consecrated items and vice versa \u2014 a practical scenario about what may or may not be used for pidyon haben \u2014 which fits squarely under the 'Distribution method' section that takes up several practical scenarios about pidyon haben, rather than the 'Fish example' section which deals with hermeneutical methodology.",
+      "chosen_heading": "Distribution method",
+      "current_heading": "Fish example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Intent requirement",
+    "candidates": [
+      "Distribution method",
+      "Rabbi Tarfon",
+      "Gmirat da'at",
+      "Intent requirement",
+      "Matanah tension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the case where the father writes a promissory note to the kohen (a form of payment other than actual money), and whether the son is redeemed \u2014 this fits squarely under the 'Distribution method' section which discusses practical payment scenarios and the debt/formal-act tension, rather than the 'Intent requirement' section which is about gmirat da'at and the Rabbi Chanina case.",
+      "chosen_heading": "Distribution method",
+      "current_heading": "Intent requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Matanah tension",
+    "candidates": [
+      "Intent requirement",
+      "Matanah tension",
+      "Lost money",
+      "Erchin derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the mechanics of giving and returning pidyon haben money \u2014 culminating in Rabbi Chanina's ruling that a father who expected the money back never had gmirat da'at and his son is not redeemed \u2014 which is precisely what the 'Intent requirement' prose discusses.",
+      "chosen_heading": "Intent requirement",
+      "current_heading": "Matanah tension",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Erchin derivation",
+    "candidates": [
+      "Lost money",
+      "Erchin derivation",
+      "Inheritance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present the two derivations (Reish Lakish's erech-erech and Rav Dimi/Rabbi Yonatan's reikam-reikam) plus Rav Pappa's objection and resolution, which is precisely what the 'Erchin derivation' prose section describes.",
+      "chosen_heading": "Erchin derivation",
+      "current_heading": "Erchin derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Inheritance",
+    "candidates": [
+      "Inheritance",
+      "Debt essence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the source for the obligation to pay pidyon haben even after death \u2014 item 1 via the erech-erech verbal analogy and item 2 via the gezeira shava with olat re'iyah \u2014 exactly matching the 'Inheritance' section's prose about Reish Lakish's erech-erech derivation and the heirs' obligation when both father and son die.",
+      "chosen_heading": "Inheritance",
+      "current_heading": "Inheritance",
+      "moved": false
+    }
+  }
+]

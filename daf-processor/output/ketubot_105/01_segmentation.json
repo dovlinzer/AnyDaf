@@ -204,7 +204,7 @@
           "timestamp": "27:58"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -223,7 +223,7 @@
           "timestamp": "30:12"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 11,
       "matched": false
     },
     {
@@ -349,7 +349,7 @@
         }
       ],
       "sefaria_index": 20,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Abaye and Rava on Community Perception of Rabbis: Teaching vs. Pandering",
@@ -660,5 +660,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "34:30",
+  "amud_b_micro_title": "Righteous Corrupted",
+  "shiur_start_daf": 104,
+  "shiur_start_amud": "b"
 }

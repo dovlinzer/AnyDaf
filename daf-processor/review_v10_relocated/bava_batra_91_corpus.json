@@ -1,0 +1,474 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Personal Storage",
+    "candidates": [
+      "Personal Storage",
+      "Necessities vs. Luxuries",
+      "Shmitta Storage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav's ruling and the parallel baraita about personal storage versus market hoarding, which is precisely what the 'Personal Storage' section's prose discusses in detail.",
+      "chosen_heading": "Personal Storage",
+      "current_heading": "Personal Storage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Shmitta Storage",
+    "candidates": [
+      "Necessities vs. Luxuries",
+      "Shmitta Storage",
+      "Carobs in Famine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita about storing produce for the three shemitta-cycle years, which is precisely what the 'Shmitta Storage' section's prose discusses and analyzes.",
+      "chosen_heading": "Shmitta Storage",
+      "current_heading": "Shmitta Storage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Carobs in Famine",
+    "candidates": [
+      "Carobs in Famine",
+      "Three-Year Storage",
+      "No Export Staples",
+      "Wine Exception",
+      "Inter-Province Trade"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the famine/carob hoarding prohibition AND Rabbi Yosei bar Rabbi Chanina's instruction to Fuga to store produce for three years, and candidate 1 ('Three-Year Storage') explicitly discusses this anecdote about Rav Yosef bar Rav Chanina instructing Fuga to store for erev shevi'it, shevi'it, and motzei shevi'it \u2014 a clearly better match for the full content of this passage than candidate 0 which only covers the famine portion.",
+      "chosen_heading": "Three-Year Storage",
+      "current_heading": "Carobs in Famine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Inter-Province Trade",
+    "candidates": [
+      "Three-Year Storage",
+      "No Export Staples",
+      "Wine Exception",
+      "Inter-Province Trade",
+      "No Markup on Staples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the full baraita about not exporting staples from Eretz Yisrael (including the Syria extension and Rabbi's inter-province leniency), which is precisely what heading 1 'No Export Staples' introduces \u2014 the prose there explicitly cites 'ein motzi'in peirot me-Eretz Yisrael' and the enumeration of wine, oil, and flour, matching both items perfectly, whereas headings 2 and 3 cover only sub-components of this same baraita.",
+      "chosen_heading": "No Export Staples",
+      "current_heading": "Inter-Province Trade",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "No Markup on Staples",
+    "candidates": [
+      "Inter-Province Trade",
+      "No Markup on Staples",
+      "Middlemen Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the prohibition on earning profit from staple goods in Eretz Yisrael and the exception for Rabbi Elazar ben Azaryah, which is precisely what the 'No Markup on Staples' prose describes.",
+      "chosen_heading": "No Markup on Staples",
+      "current_heading": "No Markup on Staples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Middlemen Limits",
+    "candidates": [
+      "Middlemen Limits",
+      "Price Drop Alarm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about double profits from eggs and the Rav/Shmuel dispute over its meaning, which is exactly what the 'Middlemen Limits' prose section describes.",
+      "chosen_heading": "Middlemen Limits",
+      "current_heading": "Middlemen Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Price Drop Alarm",
+    "candidates": [
+      "Price Drop Alarm",
+      "Critical Commodities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses sounding the alarm for merchandise price drops even on Shabbat, which matches exactly what the 'Price Drop Alarm' section's prose describes.",
+      "chosen_heading": "Price Drop Alarm",
+      "current_heading": "Price Drop Alarm",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Critical Commodities",
+    "candidates": [
+      "Critical Commodities",
+      "Price Thresholds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yo\u1e25anan's identification of critical commodities (linen in Babylonia, wine and oil in Eretz Yisrael) and Rav Yosef's price threshold, but the current heading 'Critical Commodities' and its prose directly address this content about which commodities trigger communal prayer, making it the clearly better match over 'Price Thresholds' which discusses emigration from Eretz Yisrael during inflation.",
+      "chosen_heading": "Critical Commodities",
+      "current_heading": "Critical Commodities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Price Thresholds",
+    "candidates": [
+      "Price Thresholds",
+      "Availability Priority",
+      "Tosafot Challenge",
+      "Leadership Departure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita's price threshold rule AND Rabbi Shimon's qualification about availability \u2014 the current heading 'Price Thresholds' has prose that explicitly discusses both parts of this passage (including Rabbi Shimon's qualification), while 'Availability Priority' heading's prose describes only the Rabbi Shimon portion, suggesting the full baraita+Rabbi Shimon unit belongs together under the current heading.",
+      "chosen_heading": "Price Thresholds",
+      "current_heading": "Price Thresholds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Leadership Departure",
+    "candidates": [
+      "Availability Priority",
+      "Tosafot Challenge",
+      "Leadership Departure",
+      "Naomi's Return",
+      "Wordplay Critique",
+      "Ruth & Boaz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Shimon ben Yo\u1e25ai's teaching about Elimelech, Machlon, and Chilion being leaders who were punished for leaving Eretz Yisrael, and includes Rabbi Yitz\u1e25ak's interpretation of 'Is this Naomi?' \u2014 all of which matches the 'Leadership Departure' section's prose exactly.",
+      "chosen_heading": "Leadership Departure",
+      "current_heading": "Leadership Departure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Ruth & Boaz",
+    "candidates": [
+      "Naomi's Return",
+      "Wordplay Critique",
+      "Ruth & Boaz",
+      "Boaz = Avtzan",
+      "120 Feasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states that on the day Ruth came to Eretz Yisrael, Boaz's wife died, which matches exactly the prose of the 'Ruth & Boaz' section discussing this same teaching and folk saying.",
+      "chosen_heading": "Ruth & Boaz",
+      "current_heading": "Ruth & Boaz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "120 Feasts",
+    "candidates": [
+      "Boaz = Avtzan",
+      "120 Feasts",
+      "Manoach Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the identification of Ibzan as Boaz AND the 120 feasts as the reason for that identification, but it begins with the Ibzan=Boaz equation and the 'what does this teach us?' question, making candidate 0 ('Boaz = Avtzan') the natural home since its prose explicitly addresses the identification and the connecting question, while the 120 feasts detail is the answer embedded within that same unit.",
+      "chosen_heading": "Boaz = Avtzan",
+      "current_heading": "120 Feasts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Manoach Excluded",
+    "candidates": [
+      "120 Feasts",
+      "Manoach Excluded",
+      "One > Sixty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Boaz making two feasts per child and excluding Manoach with the 'sterile mule' reasoning, which is precisely what the 'Manoach Excluded' section's prose discusses.",
+      "chosen_heading": "Manoach Excluded",
+      "current_heading": "Manoach Excluded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "One > Sixty",
+    "candidates": [
+      "One > Sixty",
+      "Nachshon Lineage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the death of Boaz's 60 children and the folk saying about one child outshining sixty, which is precisely what the 'One > Sixty' section prose discusses.",
+      "chosen_heading": "One > Sixty",
+      "current_heading": "One > Sixty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Nachshon Lineage",
+    "candidates": [
+      "Nachshon Lineage",
+      "Mothers' Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Elimelech and others as descendants of Nahshon ben Amminadav and the lesson about ancestral merit not protecting one who leaves Eretz Yisrael, which is precisely what the 'Nachshon Lineage' prose section discusses.",
+      "chosen_heading": "Nachshon Lineage",
+      "current_heading": "Nachshon Lineage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Mothers' Names",
+    "candidates": [
+      "Mothers' Names",
+      "Anti-Heretic Purpose",
+      "Three to Bar Mitzvah",
+      "Geography Variants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete list of mothers' names (Abraham, Haman, David, Samson) with the mnemonic and the leteshuvat haminim conclusion, which is exactly what the 'Mothers' Names' prose section describes.",
+      "chosen_heading": "Mothers' Names",
+      "current_heading": "Mothers' Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Geography Variants",
+    "candidates": [
+      "Anti-Heretic Purpose",
+      "Three to Bar Mitzvah",
+      "Geography Variants",
+      "Nations Mourn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the geographic division of Abraham's imprisonment between Khuta and Karddu, Rav Dimi's reversal of those locations, and Rav \u1e24isda's identification of Khuta with Ur of the Chaldeans \u2014 exactly what the 'Geography Variants' prose describes.",
+      "chosen_heading": "Geography Variants",
+      "current_heading": "Geography Variants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Nations Mourn",
+    "candidates": [
+      "Nations Mourn",
+      "Leader & Captain",
+      "Local Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source text (Rav \u1e24anan bar Rava citing Rav) about the nations mourning Abraham's death with the leader/captain imagery, which is exactly what heading 0 'Nations Mourn' introduces and discusses in its prose.",
+      "chosen_heading": "Nations Mourn",
+      "current_heading": "Nations Mourn",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Local Authority",
+    "candidates": [
+      "Leader & Captain",
+      "Local Authority",
+      "Prayer Duty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rav \u1e24anan bar Rava's statement that even an irrigation appointee is placed by Heaven directly matches the prose under 'Local Authority,' which explicitly discusses 'resh gargasusa' and divine appointment of modest officials.",
+      "chosen_heading": "Local Authority",
+      "current_heading": "Local Authority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Prayer Duty",
+    "candidates": [
+      "Prayer Duty",
+      "Economic Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehoshua ben Korcha's view that Elimelech was punished for failing to pray for his generation, which matches exactly the 'Prayer Duty' section's prose about this dissenting voice and the obligation to intercede for one's community.",
+      "chosen_heading": "Prayer Duty",
+      "current_heading": "Prayer Duty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Economic Conditions",
+    "candidates": [
+      "Economic Conditions",
+      "Depression Worse",
+      "Tiberias Famine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states both conditions (money cheap/produce expensive AND money expensive/produce cheap), making it the introductory statement that belongs under 'Economic Conditions' where the full dichotomy is first presented, before the essay splits into separate sections discussing each half.",
+      "chosen_heading": "Economic Conditions",
+      "current_heading": "Economic Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Tiberias Famine",
+    "candidates": [
+      "Depression Worse",
+      "Tiberias Famine",
+      "Abundant Carobs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the mnemonic and both recollections together, and the prose under 'Depression Worse' explicitly introduces the four se'ah/sela memory as evidence that monetary scarcity is worse than inflation \u2014 which is the framing context for this passage, whereas 'Tiberias Famine' only covers part of it and 'Abundant Carobs' covers the next topic.",
+      "chosen_heading": "Depression Worse",
+      "current_heading": "Tiberias Famine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Abundant Carobs",
+    "candidates": [
+      "Tiberias Famine",
+      "Abundant Carobs",
+      "Righteous Youth",
+      "Concession Falls",
+      "Reliance Loses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all four memories together \u2014 abundant carobs, fat-dripping meat, righteous youth, and the beit midrash warnings \u2014 and the 'Abundant Carobs' section is where all these memories begin and are discussed as a unified set of recollections about a blessed era.",
+      "chosen_heading": "Abundant Carobs",
+      "current_heading": "Abundant Carobs",
+      "moved": false
+    }
+  }
+]

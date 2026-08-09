@@ -1,0 +1,542 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Perek Chelek Intro",
+    "candidates": [
+      "Perek Chelek Intro",
+      "Epikoros Etymology",
+      "Three-Tier Definition",
+      "Mevazeh Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav/Rabbi Yo\u1e25anan/Levi on Torah study's cosmic significance, Reish Lakish/Rabbi Elazar/Rava on teaching Torah, and Rabbi Abbahu on causing others to perform mitzvot \u2014 are explicitly summarized in the 'Perek Chelek Intro' prose, which describes all of these teachings as the prologue before the gemara turns to the epikoros.",
+      "chosen_heading": "Perek Chelek Intro",
+      "current_heading": "Perek Chelek Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Mevazeh Dispute",
+    "candidates": [
+      "Epikoros Etymology",
+      "Three-Tier Definition",
+      "Mevazeh Dispute",
+      "Rabbis' Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items cover exactly the dispute between Rav/Rabbi \u1e24anina and Rabbi Yo\u1e25anan/Rabbi Yehoshua ben Levi over the definitions of epikoros and megaleh panim baTorah, including the Menashe ben Chizkiyah example and the reversed teaching \u2014 precisely what the 'Mevazeh Dispute' prose describes.",
+      "chosen_heading": "Mevazeh Dispute",
+      "current_heading": "Mevazeh Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rabbis' Benefit",
+    "candidates": [
+      "Rabbis' Benefit",
+      "Abaye Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's question about who qualifies as an epikoros and Rav Yosef's answer identifying those who say 'what benefit have the Sages brought us,' which is precisely what the 'Rabbis' Benefit' section prose describes as its content.",
+      "chosen_heading": "Rabbis' Benefit",
+      "current_heading": "Rabbis' Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Abaye Response",
+    "candidates": [
+      "Abaye Response",
+      "Divine Merit",
+      "Talmidei Chachamim",
+      "Attribution Error"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's response (with the Jeremiah proof text) and Rav Nachman bar Yitzchak's supporting verse, and the current heading's prose explicitly discusses both elements together, making it the best match despite heading 1 covering only the Rav Nachman portion.",
+      "chosen_heading": "Abaye Response",
+      "current_heading": "Abaye Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Attribution Error",
+    "candidates": [
+      "Divine Merit",
+      "Talmidei Chachamim",
+      "Attribution Error",
+      "Binyamin's House"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes both the student who says 'we say there' instead of attributing to his teacher AND Rava's example of Binyamin's house, which together span the Attribution Error section's prose and the beginning of the Binyamin's House section \u2014 but the current placement under 'Attribution Error' is where this combined quote sits, and the prose of section 2 explicitly discusses both elements described in this passage.",
+      "chosen_heading": "Attribution Error",
+      "current_heading": "Attribution Error",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Binyamin's House",
+    "candidates": [
+      "Binyamin's House",
+      "Rava's Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the direct quote of the complaint from the house of Binyamin \u2014 'they have never permitted us a raven nor forbidden us a dove' \u2014 which is exactly what the prose of heading 0 describes and introduces.",
+      "chosen_heading": "Binyamin's House",
+      "current_heading": "Binyamin's House",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rava's Test",
+    "candidates": [
+      "Rava's Test",
+      "Rav Pappa Case",
+      "Rav Pappa Repents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rava's behavior when examining tereifah cases from the house of Binyamin, which is exactly what the prose under 'Rava's Test' discusses.",
+      "chosen_heading": "Rava's Test",
+      "current_heading": "Rava's Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rav Pappa Repents",
+    "candidates": [
+      "Rav Pappa Case",
+      "Rav Pappa Repents",
+      "Scroll Wrapping"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Pappa's teaching about 'those Sages' and his own lapse followed by fasting, which together match heading 1 'Rav Pappa Repents' whose prose explicitly discusses both the expression and Rav Pappa forgetting and fasting.",
+      "chosen_heading": "Rav Pappa Repents",
+      "current_heading": "Rav Pappa Repents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Scroll Wrapping",
+    "candidates": [
+      "Scroll Wrapping",
+      "Esther No Scarf",
+      "Rav Yehuda Rebuke",
+      "Rabbi by Name",
+      "Geichazi Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the act of mending/wrapping scroll mantles, which is precisely what the 'Scroll Wrapping' section's prose introduces, making it the correct home for this passage.",
+      "chosen_heading": "Scroll Wrapping",
+      "current_heading": "Scroll Wrapping",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Geichazi Case",
+    "candidates": [
+      "Esther No Scarf",
+      "Rav Yehuda Rebuke",
+      "Rabbi by Name",
+      "Geichazi Case",
+      "Eldad Meidad",
+      "Future Stream",
+      "Yechezkel Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav Nachman's statement about calling one's rabbi by name as the definition of an epikoros, which directly matches the 'Rabbi by Name' section prose, while the current placement under 'Geichazi Case' covers the explanatory elaboration that follows.",
+      "chosen_heading": "Rabbi by Name",
+      "current_heading": "Geichazi Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Yechezkel Pasuk",
+    "candidates": [
+      "Eldad Meidad",
+      "Future Stream",
+      "Yechezkel Pasuk",
+      "Old Man's Mark",
+      "Zeira Defense",
+      "Yochanan Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Yirmeya's statement about the future stream from the Holy of Holies, the Ezekiel verse, and the old man's 'yashar' comment plus Rabbi Yirmeya's question about irreverence \u2014 all of which together naturally belong under the 'Future Stream' heading where Rabbi Yirmiyah and Rabbi Zeira are sitting and teaching about the stream, rather than being split across multiple headings.",
+      "chosen_heading": "Future Stream",
+      "current_heading": "Yechezkel Pasuk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Yochanan Stones",
+    "candidates": [
+      "Old Man's Mark",
+      "Zeira Defense",
+      "Yochanan Stones",
+      "Student Mockery",
+      "Angelic Vision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Zeira's reassurance to Rabbi Yirmiyah ('siyu'a ka mesaye'ach lach') and the introduction of the Rabbi Yochanan story as the true example of apikoruta, which precisely matches the 'Zeira Defense' prose that describes Zeira reassuring him and then introducing the Rabbi Yochanan case.",
+      "chosen_heading": "Zeira Defense",
+      "current_heading": "Yochanan Stones",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Angelic Vision",
+    "candidates": [
+      "Student Mockery",
+      "Angelic Vision",
+      "Yochanan Rebuke",
+      "Bones Punishment",
+      "Window Measurements",
+      "Komemiyut Height",
+      "Height Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the angelic vision and the rebuke by Rabbi Yochanan, but its core content \u2014 the student reporting what he saw and Rabbi Yochanan's withering response calling him a 'good-for-nothing' and accusing him of mocking the sages \u2014 matches the 'Yochanan Rebuke' section's prose most precisely, including the pile of bones punishment which is mentioned at the end of that prose section.",
+      "chosen_heading": "Yochanan Rebuke",
+      "current_heading": "Angelic Vision",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Height Dispute",
+    "candidates": [
+      "Yochanan Rebuke",
+      "Bones Punishment",
+      "Window Measurements",
+      "Komemiyut Height",
+      "Height Dispute",
+      "Medicinal Leaves",
+      "Trufa Wordplay"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items form a single objection-and-answer unit about the height of people in the messianic era (komemiyut), which is precisely what candidate 3 'Komemiyut Height' introduces \u2014 the verse va'olech etchem komemiyut and its interpretation \u2014 while the current placement (candidate 4) covers the substance of the dispute itself, making candidate 3 the correct home for the opening objection and its resolution together.",
+      "chosen_heading": "Komemiyut Height",
+      "current_heading": "Height Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Trufa Wordplay",
+    "candidates": [
+      "Medicinal Leaves",
+      "Trufa Wordplay",
+      "Litrufa Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks 'what is the meaning of ve'aleihu literufa' which is precisely the question posed in the 'Medicinal Leaves' prose section, while the current 'Trufa Wordplay' section already describes the content of this passage in its own prose, suggesting the passage should sit under the heading that poses the question it answers.",
+      "chosen_heading": "Medicinal Leaves",
+      "current_heading": "Trufa Wordplay",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Litrufa Meaning",
+    "candidates": [
+      "Trufa Wordplay",
+      "Litrufa Meaning",
+      "Blackening Face"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Chizkiyah's and Bar Kappara's interpretations of 'lehatir peh' (mutes and barren women) as well as Rabbi Yochanan's and Rabbi Shmuel bar Na\u1e25mani's views, all of which are explicitly described in the 'Trufa Wordplay' section's prose, making that the clearly better match.",
+      "chosen_heading": "Trufa Wordplay",
+      "current_heading": "Litrufa Meaning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Blackening Face",
+    "candidates": [
+      "Blackening Face",
+      "Starvation Satiation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about blackening one's face over Torah study and receiving radiance in the World-to-Come, which matches exactly the 'Blackening Face' section's prose discussion.",
+      "chosen_heading": "Blackening Face",
+      "current_heading": "Blackening Face",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Starvation Satiation",
+    "candidates": [
+      "Starvation Satiation",
+      "Full Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about starving oneself for Torah and being satiated in the World-to-Come, which directly matches the 'Starvation Satiation' section's prose discussing Rav Tanchum bar Rav Chanilai's teaching on this exact topic.",
+      "chosen_heading": "Starvation Satiation",
+      "current_heading": "Starvation Satiation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Full Measure",
+    "candidates": [
+      "Full Measure",
+      "Abaye Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rav Dimi's initial teaching about 'melo omso' (His handful) and Abaye's challenge from Isaiah 40:12, which matches the 'Abaye Challenge' prose exactly.",
+      "second_heading": "Full Measure",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rav Dimi's response about 310 worlds via gematria of 'yesh' from Proverbs 8:21, which is precisely what the 'Full Measure' prose describes.",
+      "current_heading": "Full Measure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Abaye Challenge",
+    "candidates": [
+      "Abaye Challenge",
+      "Yehoshua Counter",
+      "Two Measures",
+      "Doors Chimneys"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita of Rabbi Meir introducing bemida she'adam moded modedin lo, which the 'Abaye Challenge' prose explicitly describes as the concluding Tanya it introduces.",
+      "second_heading": "Yehoshua Counter",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yehoshua's challenge to Rabbi Meir about the asymmetry between human giving and divine reward, which is precisely what the 'Yehoshua Counter' prose describes.",
+      "current_heading": "Abaye Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Doors Chimneys",
+    "candidates": [
+      "Yehoshua Counter",
+      "Two Measures",
+      "Doors Chimneys",
+      "Fire Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly provides the textual proof (doors vs. windows/arubbot) for the asymmetry between midat tovah and midat pur'anut, which is precisely what the 'Doors Chimneys' section's prose describes.",
+      "chosen_heading": "Doors Chimneys",
+      "current_heading": "Doors Chimneys",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Fire Comparison",
+    "candidates": [
+      "Fire Comparison",
+      "Strength Resolution",
+      "Rabbi Akiva Ruling",
+      "Book Categories",
+      "Immersion Meaning",
+      "Boundary Protection",
+      "Fish Skinning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the fire/punishment verse from Isaiah and the resolution about God granting strength, which together span candidates 0 and 1, but since the current placement (0) covers the fire comparison problem and the resolution is integral to the same quoted text, the passage as a whole fits best where it currently sits \u2014 though candidate 1's prose describes the resolution half, the full quoted unit including the problem and answer together aligns with the current heading which frames the entire dialectic.",
+      "chosen_heading": "Fire Comparison",
+      "current_heading": "Fire Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143
+    ],
+    "current_heading": "Fish Skinning",
+    "candidates": [
+      "Strength Resolution",
+      "Rabbi Akiva Ruling",
+      "Book Categories",
+      "Immersion Meaning",
+      "Boundary Protection",
+      "Fish Skinning",
+      "Daughters Treasure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the fish-skinning passage from Ben Sira and its Talmudic analysis (literal meaning vs. allegorical meaning), which is precisely what the 'Fish Skinning' section's prose describes.",
+      "chosen_heading": "Fish Skinning",
+      "current_heading": "Fish Skinning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Daughters Treasure",
+    "candidates": [
+      "Daughters Treasure",
+      "Pain Heart"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the Ben Sira verse on daughters as false treasure and the Rabbinic parallel, which is exactly what the 'Daughters Treasure' section prose describes.",
+      "chosen_heading": "Daughters Treasure",
+      "current_heading": "Daughters Treasure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Pain Heart",
+    "candidates": [
+      "Pain Heart",
+      "Worry Handling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Ben Sira quote about anxiety/pain and the Rabbi Ami/Rabbi Asi interpretation of 'yashchena,' all of which are discussed together in the 'Pain Heart' section's prose, while 'Worry Handling' covers only the Rav Ammi/Rav Assi interpretations separately \u2014 but since the Talmudic passage is a single continuous unit containing both elements, it belongs under the heading that introduces the full context, which is 'Pain Heart.'",
+      "chosen_heading": "Pain Heart",
+      "current_heading": "Pain Heart",
+      "moved": false
+    }
+  }
+]

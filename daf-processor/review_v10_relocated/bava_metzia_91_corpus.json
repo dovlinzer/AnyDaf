@@ -1,0 +1,467 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Tanu Rabanan Muzzling",
+    "candidates": [
+      "Tanu Rabanan Muzzling",
+      "Act vs. Preparation",
+      "Kilayim Principle",
+      "Muzzle Outside Issue",
+      "Yelling & Commands"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the baraita about muzzling and kilayim with the ruling that only the one who threshes/leads is liable, which matches exactly the prose of heading 0.",
+      "chosen_heading": "Tanu Rabanan Muzzling",
+      "current_heading": "Tanu Rabanan Muzzling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Yelling & Commands",
+    "candidates": [
+      "Act vs. Preparation",
+      "Kilayim Principle",
+      "Muzzle Outside Issue",
+      "Yelling & Commands",
+      "Rabbi Yochanan Position",
+      "Reish Lakish Position",
+      "Temurah Challenge",
+      "Temurah Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the dispute about muzzling/leading with voice (chasmah bekolo vehinhigah bekolo) and the two positions, which is precisely what the 'Yelling & Commands' section's prose introduces and discusses.",
+      "chosen_heading": "Yelling & Commands",
+      "current_heading": "Yelling & Commands",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Temurah Resolution",
+    "candidates": [
+      "Rabbi Yochanan Position",
+      "Reish Lakish Position",
+      "Temurah Challenge",
+      "Temurah Resolution",
+      "Tosafot Framework",
+      "Physics vs. Meaning",
+      "Lashes & Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items constitute the Temurah challenge and its resolution: Rabbi Yochanan raises the objection from temurah (items 1-2), the gemara pushes back on attributing the mishna to Rabbi Yehuda due to the yoresh issue (item 3), and the gemara resolves it with the principle that a tanna can agree with Rabbi Yehuda on one point and disagree on another (item 4) \u2014 exactly what the 'Temurah Resolution' prose describes.",
+      "chosen_heading": "Temurah Resolution",
+      "current_heading": "Temurah Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Lashes & Payment",
+    "candidates": [
+      "Tosafot Framework",
+      "Physics vs. Meaning",
+      "Lashes & Payment",
+      "Double Liability Issue",
+      "Abaye Answer",
+      "Rava Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the baraisa about muzzling a cow and the resulting lashes plus payment obligation, which is exactly what the 'Lashes & Payment' section's prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Lashes & Payment",
+      "current_heading": "Lashes & Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Rava Answer",
+    "candidates": [
+      "Double Liability Issue",
+      "Abaye Answer",
+      "Rava Answer",
+      "Kam Leh Principle",
+      "Contractual vs. Tort",
+      "Rav Papa Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about the esnan prohibition applying even to incest, which is precisely what the 'Rava Answer' section's prose discusses.",
+      "chosen_heading": "Rava Answer",
+      "current_heading": "Rava Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Rav Papa Answer",
+    "candidates": [
+      "Kam Leh Principle",
+      "Contractual vs. Tort",
+      "Rav Papa Answer",
+      "Two Inquiries"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's temporal separation argument (meshicha creates food obligation, muzzling creates lashes liability), which is precisely what the 'Rav Papa Answer' section's prose describes.",
+      "chosen_heading": "Rav Papa Answer",
+      "current_heading": "Rav Papa Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Two Inquiries",
+    "candidates": [
+      "Two Inquiries",
+      "Dairy Bread",
+      "Milk Bread Prohibited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's introductory statement about the two inquiries and his rulings, which is exactly what heading 0 'Two Inquiries' describes in its prose.",
+      "chosen_heading": "Two Inquiries",
+      "current_heading": "Two Inquiries",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Milk Bread Prohibited",
+    "candidates": [
+      "Dairy Bread",
+      "Milk Bread Prohibited",
+      "Kilayim Enclosure",
+      "Breeding Stringency",
+      "Shmuel Standards",
+      "Menafim Imagery",
+      "Kilayim Insertion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about kneading dough with milk and smearing the oven with fat, which is exactly what candidate 1 ('Milk Bread Prohibited') discusses in its prose.",
+      "chosen_heading": "Milk Bread Prohibited",
+      "current_heading": "Milk Bread Prohibited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Kilayim Insertion",
+    "candidates": [
+      "Kilayim Enclosure",
+      "Breeding Stringency",
+      "Shmuel Standards",
+      "Menafim Imagery",
+      "Kilayim Insertion",
+      "Achiza Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Item 1 describes Rav Papa's ruling that enclosing different species together is forbidden but acknowledges it is not the strict halakha, and Item 2 provides Shmuel's ruling as the basis for why \u2014 both together are precisely what the 'Breeding Stringency' prose describes: Rav Papa's stringency versus the actual halakha per Shmuel requiring direct physical involvement.",
+      "chosen_heading": "Breeding Stringency",
+      "current_heading": "Kilayim Insertion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Achiza Challenge",
+    "candidates": [
+      "Kilayim Insertion",
+      "Achiza Challenge",
+      "Achiza Response",
+      "Min BeMinoRuling",
+      "Min BeMino Holding",
+      "Euphemism Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Achiza Response",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita challenge about kilayim and the gemara's response that 'achiza' is a euphemism for insertion, matching 'Achiza Response' prose precisely.",
+      "second_heading": "Min BeMinoRuling",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce Rav Yehuda's new ruling about same-species (min bemino) mating and the reapplication of the baraita to that context, matching 'Min BeMinoRuling' prose precisely.",
+      "current_heading": "Achiza Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Euphemism Response",
+    "candidates": [
+      "Achiza Response",
+      "Min BeMinoRuling",
+      "Min BeMino Holding",
+      "Euphemism Response",
+      "Two & One",
+      "Animal Preference",
+      "Ashi Stringency",
+      "Pritzuta Concern",
+      "Body Parts Work"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Euphemism Response",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's euphemism response to the min bemino holding inference, which is exactly what candidate 3 ('Euphemism Response') describes.",
+      "second_heading": "Two & One",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Ashi's report of the question from Rav Nechemiah's household about bringing two species plus same-species into one pen, which is exactly what candidate 4 ('Two & One') describes.",
+      "current_heading": "Euphemism Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Body Parts Work",
+    "candidates": [
+      "Two & One",
+      "Animal Preference",
+      "Ashi Stringency",
+      "Pritzuta Concern",
+      "Body Parts Work",
+      "Both Hands & Feet",
+      "Ox Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the mishna that establishes a worker may eat when working with only hands, feet, or shoulder \u2014 exactly what the 'Body Parts Work' section prose describes.",
+      "chosen_heading": "Body Parts Work",
+      "current_heading": "Body Parts Work",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Ox Parallel",
+    "candidates": [
+      "Both Hands & Feet",
+      "Ox Parallel",
+      "Duck Threshing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ox Parallel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the reasoning of the tanna kamma from the verse 'ki tavo b'kerem rei'echa,' which is explicitly discussed in the 'Ox Parallel' prose as the derivation for the majority view.",
+      "second_heading": "Both Hands & Feet",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yose beRabbi Yehuda's requirement of both hands and feet, which is the specific ruling described in the 'Both Hands & Feet' prose section.",
+      "current_heading": "Ox Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Duck Threshing",
+    "candidates": [
+      "Duck Threshing",
+      "Teiku Hands",
+      "Stompers Eating",
+      "Wine Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabba bar Rav Huna's dilemma about threshing with geese and chickens, which is exactly what the 'Duck Threshing' section's prose describes, including the two sides of the question about full bodily force versus literal hands and feet.",
+      "chosen_heading": "Duck Threshing",
+      "current_heading": "Duck Threshing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Wine Stages",
+    "candidates": [
+      "Teiku Hands",
+      "Stompers Eating",
+      "Wine Stages",
+      "Sheti Va'erev",
+      "Figs vs. Grapes",
+      "Time Limitation",
+      "Travel Exception",
+      "Vine Identity",
+      "Extended Vine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Rav Na\u1e25man/Rabba bar Avuha statement itself, which candidate 1 ('Stompers Eating') explicitly introduces and frames, while candidates 2 and 3 describe the specific details (sheti va'erev stages) that follow from it \u2014 the passage as a whole belongs under the heading that introduces the ruling, not the headings that analyze its subdivisions.",
+      "chosen_heading": "Stompers Eating",
+      "current_heading": "Wine Stages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Extended Vine",
+    "candidates": [
+      "Sheti Va'erev",
+      "Figs vs. Grapes",
+      "Time Limitation",
+      "Travel Exception",
+      "Vine Identity",
+      "Extended Vine",
+      "Rashi Handling",
+      "Dov Question",
+      "Harvest Rights",
+      "Walking is Work"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "medium",
+      "reason": "The entire passage \u2014 the Mishna establishing the figs/grapes rule and the Gemara's extended discussion of whether eating rights are tied to the specific vine or merely the species \u2014 belongs under 'Vine Identity,' which directly introduces the oseh begefen zeh / gefen acher dilemma that drives all seven items.",
+      "chosen_heading": "Vine Identity",
+      "current_heading": "Extended Vine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152
+    ],
+    "current_heading": "Walking is Work",
+    "candidates": [
+      "Rashi Handling",
+      "Dov Question",
+      "Harvest Rights",
+      "Walking is Work",
+      "Walking Not Work"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the gemara's back-and-forth over whether mehalek ke'oseh ma'aseh dami and what that implies about oseh begefen zeh eino ochel begefen acher \u2014 exactly the content the 'Walking is Work' prose describes as the first interpretive approach and its implication for the vine restriction.",
+      "chosen_heading": "Walking is Work",
+      "current_heading": "Walking is Work",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156,
+      157
+    ],
+    "current_heading": "Walking Not Work",
+    "candidates": [
+      "Walking Not Work",
+      "Vine Ambiguity",
+      "Donkey Eating",
+      "Eating Source",
+      "Load Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous dialectical unit about whether 'walking is not like performing work' \u2014 the alternative version, its inference about vine-to-vine eating, and the gemara's rejection \u2014 which is precisely what the 'Walking Not Work' prose describes.",
+      "chosen_heading": "Walking Not Work",
+      "current_heading": "Walking Not Work",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      167
+    ],
+    "current_heading": "Load Eating",
+    "candidates": [
+      "Vine Ambiguity",
+      "Donkey Eating",
+      "Eating Source",
+      "Load Eating",
+      "Visibility Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage begins with the mishna's statement about a donkey being unloaded and then raises the gemara's question about where it eats, covering both the question and the baraita's answer \u2014 this entire unit starts with the donkey eating topic introduced in candidate 1, and the current placement under 'Load Eating' (index 3) splits content that belongs together starting from candidate 1's prose about 'u'vakhamor keshe'hi porekes.'",
+      "chosen_heading": "Donkey Eating",
+      "current_heading": "Load Eating",
+      "moved": true
+    }
+  }
+]

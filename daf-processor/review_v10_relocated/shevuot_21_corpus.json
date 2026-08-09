@@ -1,0 +1,464 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rav Pappa's Analysis",
+    "candidates": [
+      "Nedarim vs Shvuot",
+      "Past vs Future Oaths",
+      "First Opinion",
+      "Second Opinion",
+      "Rambam's View",
+      "Rav Pappa's Analysis",
+      "Lavin Without Action",
+      "Lashav Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement that Rabbi Abahu's opinion was inferred (mikhlala itmar) rather than explicitly stated, transmitted through the chain Rav Idi bar Avin \u2192 Rav Amram \u2192 Rav Yitzchak \u2192 Rabbi Yochanan \u2192 Rabbi Yehuda in the name of Rabbi Yose HaGlili, which is precisely what the 'Rav Pappa's Analysis' section describes.",
+      "chosen_heading": "Rav Pappa's Analysis",
+      "current_heading": "Rav Pappa's Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Lashav Derivation",
+    "candidates": [
+      "Lavin Without Action",
+      "Lashav Derivation",
+      "Pappa-Abaye Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's derivation from the verse 'lo tisa shem Hashem lashav' regarding the heavenly vs. earthly court distinction, which is precisely what the 'Lashav Derivation' section's prose describes.",
+      "chosen_heading": "Lashav Derivation",
+      "current_heading": "Lashav Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Pappa-Abaye Debate",
+    "candidates": [
+      "Pappa-Abaye Debate",
+      "Double Lashav Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly depicts the Rav Pappa\u2013Abaye exchange about the precise wording 'ki lo yenakeh Hashem' implying earthly courts can absolve through lashes, which is exactly what the 'Pappa-Abaye Debate' prose describes.",
+      "chosen_heading": "Pappa-Abaye Debate",
+      "current_heading": "Pappa-Abaye Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Double Lashav Extension",
+    "candidates": [
+      "Double Lashav Extension",
+      "Abahu's Question",
+      "Future Active Eliminated",
+      "Future Passive Eliminated",
+      "Eating Case Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's derivation using the doubled 'lashav' to extend lashes from shvuat shav to shvuat sheker, which is exactly what the 'Double Lashav Extension' prose describes.",
+      "chosen_heading": "Double Lashav Extension",
+      "current_heading": "Double Lashav Extension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Eating Case Analysis",
+    "candidates": [
+      "Abahu's Question",
+      "Future Active Eliminated",
+      "Future Passive Eliminated",
+      "Eating Case Analysis",
+      "Yochanan's Rationale",
+      "Resh Lakish's Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Abbahu's full question including the elimination of both candidates and the citation of the Rabbi Yochanan/Resh Lakish ruling, which all belongs under 'Future Passive Eliminated' since that section's prose describes exactly this reasoning \u2014 the second candidate is eliminated by reference to the explicit ruling that one is not flogged in that case.",
+      "chosen_heading": "Future Passive Eliminated",
+      "current_heading": "Eating Case Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Resh Lakish's Rationale",
+    "candidates": [
+      "Yochanan's Rationale",
+      "Resh Lakish's Rationale",
+      "Past Oath Conclusion",
+      "Torah's Doubling",
+      "Conceptual Parallel",
+      "Immediate Violation",
+      "Multiple Oaths Rule",
+      "Shvuat Bituy Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH Rabbi Yochanan's rationale (lav she'ein bo ma'aseh) AND Resh Lakish's rationale (hatra'at safek), so it belongs under the heading that introduces the first of the two positions \u2014 'Yochanan's Rationale' \u2014 since the full Talmudic text presenting both opinions together is best anchored under the heading whose prose directly matches the opening position stated in the passage.",
+      "chosen_heading": "Yochanan's Rationale",
+      "current_heading": "Resh Lakish's Rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Shvuat Bituy Definition",
+    "candidates": [
+      "Past Oath Conclusion",
+      "Torah's Doubling",
+      "Conceptual Parallel",
+      "Immediate Violation",
+      "Multiple Oaths Rule",
+      "Shvuat Bituy Definition",
+      "Shvuat Shav Contrast",
+      "Exclusion Question",
+      "First Clause: No Offering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain covering exactly what candidate 5's prose describes: Rabbi Abbahu's conclusion about achalti velo achalti, the challenge from the mishnah about shvuat bituy with zo hi, the question of what zo hi excludes, the answer that it excludes only the korban (per Rabbi Yishmael), and then the parallel question about shvuat shav's zo hi clause \u2014 all of which is elaborately described in candidate 5's prose.",
+      "chosen_heading": "Shvuat Bituy Definition",
+      "current_heading": "Shvuat Bituy Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "First Clause: No Offering",
+    "candidates": [
+      "Shvuat Shav Contrast",
+      "Exclusion Question",
+      "First Clause: No Offering",
+      "Second Clause Tension",
+      "Both Akiva View",
+      "Correct Exclusions",
+      "Future Oaths Focus",
+      "Tiny Amount Dispute",
+      "Akiva: Words Violation",
+      "Rabbis: Kezayit Standard",
+      "Oath Concepts",
+      "General Tiny Bit Query",
+      "Shimon's Position",
+      "Logical Extension",
+      "Oath Uniqueness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items address the Gemara's resolution that the entire mishna follows Rabbi Akiva (kula Rabbi Akiva), which is precisely what candidate 4 ('Both Akiva View') describes \u2014 the question of whether the two clauses can both reflect Rabbi Akiva's position and the proposal that they can.",
+      "chosen_heading": "Both Akiva View",
+      "current_heading": "First Clause: No Offering",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Oath Uniqueness",
+    "candidates": [
+      "Second Clause Tension",
+      "Both Akiva View",
+      "Correct Exclusions",
+      "Future Oaths Focus",
+      "Tiny Amount Dispute",
+      "Akiva: Words Violation",
+      "Rabbis: Kezayit Standard",
+      "Oath Concepts",
+      "General Tiny Bit Query",
+      "Shimon's Position",
+      "Logical Extension",
+      "Oath Uniqueness",
+      "Nazirite Case",
+      "Kezayit Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All five items are about the Gemara's dilemma regarding whether Rabbi Akiva holds like Rabbi Shimon throughout the Torah (that any amount suffices for eating prohibitions), which is precisely what heading 8 'General Tiny Bit Query' describes.",
+      "chosen_heading": "General Tiny Bit Query",
+      "current_heading": "Oath Uniqueness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Kezayit Inference",
+    "candidates": [
+      "Nazirite Case",
+      "Kezayit Inference",
+      "Unique Oath Position",
+      "Issur on Issur Rule",
+      "Case Description",
+      "Mishna Ruling",
+      "Shimon Exemption",
+      "Inclusive Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Rabbi Akiva nazirite ruling itself, which is what candidate 0 ('Nazirite Case') describes \u2014 the proof text and its content \u2014 while candidate 1 ('Kezayit Inference') describes the logical inference drawn from that ruling, which would follow after the quoted text.",
+      "chosen_heading": "Nazirite Case",
+      "current_heading": "Kezayit Inference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Inclusive Scope",
+    "candidates": [
+      "Unique Oath Position",
+      "Issur on Issur Rule",
+      "Case Description",
+      "Mishna Ruling",
+      "Shimon Exemption",
+      "Inclusive Scope",
+      "Resh Lakish's Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents exactly the content described in 'Inclusive Scope' \u2014 the Talmud's question of why liability applies despite ein issur chal al issur, answered by Rav, Shmuel, and Rabbi Yochanan with the principle of becholel devarim hamutarim im devarim ha'asurim, which is precisely what that section's prose describes.",
+      "chosen_heading": "Inclusive Scope",
+      "current_heading": "Inclusive Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Resh Lakish's Approach",
+    "candidates": [
+      "Resh Lakish's Approach",
+      "Akiva's Effect",
+      "Proof of Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Reish Lakish's statement about when an oath takes effect on forbidden foods \u2014 matching precisely the prose of 'Resh Lakish's Approach' which summarizes this exact content.",
+      "chosen_heading": "Resh Lakish's Approach",
+      "current_heading": "Resh Lakish's Approach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Proof of Akiva",
+    "candidates": [
+      "Akiva's Effect",
+      "Proof of Akiva",
+      "Word vs Act",
+      "Qualitative Significance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly proves that Rabbi Akiva holds like the Rabbis in general (not like Rabbi Shimon), which is precisely what the 'Proof of Akiva' section's prose discusses \u2014 the demonstration that Akiva's kol shehu position is limited to shvuot and not a general rule about forbidden foods.",
+      "chosen_heading": "Proof of Akiva",
+      "current_heading": "Proof of Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Qualitative Significance",
+    "candidates": [
+      "Word vs Act",
+      "Qualitative Significance",
+      "Word Falsification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the biryah (ant) as an example of a whole entity with qualitative significance independent of quantity, which is precisely what the 'Qualitative Significance' section's prose is about.",
+      "chosen_heading": "Qualitative Significance",
+      "current_heading": "Qualitative Significance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Word Falsification",
+    "candidates": [
+      "Word Falsification",
+      "Konamos Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses consecrated food (hekdesh) requiring a peruta's worth rather than a kezayit, which directly parallels the konamos discussion about object-status violations rather than act-of-eating violations \u2014 fitting the 'Konamos Parallel' prose's analysis of how transgression relates to an object's status.",
+      "chosen_heading": "Konamos Parallel",
+      "current_heading": "Word Falsification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145,
+      146,
+      147
+    ],
+    "current_heading": "Konamos Parallel",
+    "candidates": [
+      "Word Falsification",
+      "Konamos Parallel",
+      "Speech Act Offering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of Gemara objections and answers about cases where less than a kezayit suffices (specifying any amount, dirt, konamot), which the 'Konamos Parallel' section directly addresses with its discussion of konam-vows being violated by any amount.",
+      "chosen_heading": "Konamos Parallel",
+      "current_heading": "Konamos Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152,
+      153,
+      154
+    ],
+    "current_heading": "Speech Act Offering",
+    "candidates": [
+      "Speech Act Offering",
+      "Counterexamples",
+      "Narrowed Definition",
+      "Hekdesh Analogy",
+      "Vow Liability",
+      "Vow No Me'ila",
+      "Explicit Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All four items form a continuous chain of challenges and refutations (megadef, nazir, hekdesh, konamot) that collectively constitute the 'Counterexamples' section, which explicitly discusses these challenges to Rabbi Akiva's speech-act offering claim, making it a better fit than the introductory 'Speech Act Offering' heading where the passage currently sits.",
+      "chosen_heading": "Counterexamples",
+      "current_heading": "Speech Act Offering",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      168,
+      169
+    ],
+    "current_heading": "Explicit Statement",
+    "candidates": [
+      "Counterexamples",
+      "Narrowed Definition",
+      "Hekdesh Analogy",
+      "Vow Liability",
+      "Vow No Me'ila",
+      "Explicit Statement",
+      "Biryah Comparison",
+      "Tasting Case",
+      "Debate Scope",
+      "Vow Consensus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items are Rava's rulings clarifying the scope of the Rabbi Akiva / Chachamim dispute \u2014 item 1 about explicit specification (discussed in heading 5 and 6's prose) and item 2 about 'tasting' language (heading 7) \u2014 but heading 5 is the current placement and its prose explicitly introduces Rava's distinction about specifying a measure, which is the direct subject of item 1, and item 2 is a continuation of the same Rava-statement block; the current placement under 'Explicit Statement' is correct as the anchor heading for this continuous Rava passage.",
+      "chosen_heading": "Explicit Statement",
+      "current_heading": "Explicit Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      179
+    ],
+    "current_heading": "Vow Consensus",
+    "candidates": [
+      "Biryah Comparison",
+      "Tasting Case",
+      "Debate Scope",
+      "Vow Consensus",
+      "Vow Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's statement that the dispute applies specifically to oaths (shvuot) while konamot are unanimously subject to any-amount liability, which matches exactly the 'Debate Scope' section's prose about Rav Pappa clarifying that the Rabbi Akiva/*Chachamim* dispute applies only to shvuot and not to konamot.",
+      "chosen_heading": "Debate Scope",
+      "current_heading": "Vow Consensus",
+      "moved": true
+    }
+  }
+]

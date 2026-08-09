@@ -25,7 +25,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Mishnah: Single vs. Multiple Brothers-in-Law and the Dispute of Rabbi Eliezer, Rabbi Yehoshua, and Rabbi Akiva",
@@ -116,8 +116,8 @@
           "timestamp": "20:42"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "The Requirement of Mezonot: Making the Yavam's Status Equivalent to a Ba'al",
@@ -232,8 +232,8 @@
           "timestamp": "40:12"
         }
       ],
-      "sefaria_index": 17,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -458,5 +458,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "27:25",
+  "amud_b_micro_title": "Kal Vachomer Context",
+  "shiur_start_daf": 74,
+  "shiur_start_amud": "a"
 }

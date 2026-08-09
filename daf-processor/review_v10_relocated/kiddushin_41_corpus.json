@@ -1,0 +1,375 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Question in Lud",
+    "candidates": [
+      "Intro & Prior Mishnah",
+      "Learning & Character",
+      "Question in Lud",
+      "Tarfon vs. Akiva",
+      "Consensus Reached",
+      "Tosafot's Question",
+      "Personal vs. Teaching",
+      "Pedagogy Approach",
+      "Talmud Gadol",
+      "Talmud Torah Keneged",
+      "Kodashim Question",
+      "Two Readings",
+      "Timeline of Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the incident of Rabbi Tarfon and the Elders in the loft in Lod being asked the question of talmud vs. ma'aseh, which is precisely what the 'Question in Lud' section's prose introduces.",
+      "chosen_heading": "Question in Lud",
+      "current_heading": "Question in Lud",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Timeline of Mitzvot",
+    "candidates": [
+      "Tarfon vs. Akiva",
+      "Consensus Reached",
+      "Tosafot's Question",
+      "Personal vs. Teaching",
+      "Pedagogy Approach",
+      "Talmud Gadol",
+      "Talmud Torah Keneged",
+      "Kodashim Question",
+      "Two Readings",
+      "Timeline of Mitzvot",
+      "Learning Precedence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Yosei's baraita about learning preceding \u1e25alla/terumot/shemitah/yovel by specific numbers of years, and the Gemara's question and resolution about 103 vs. 104 years \u2014 exactly the content described in the 'Timeline of Mitzvot' prose.",
+      "chosen_heading": "Timeline of Mitzvot",
+      "current_heading": "Timeline of Mitzvot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Learning Precedence",
+    "candidates": [
+      "Learning Precedence",
+      "Unfit Witness",
+      "Marketplace Eater"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the precedence of Torah study judgment and reward over action-mitzvot, which is precisely what the 'Learning Precedence' prose elaborates, including the specific Rav Hamnuna teaching and the Psalms verse cited in item 2.",
+      "chosen_heading": "Learning Precedence",
+      "current_heading": "Learning Precedence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Marketplace Eater",
+    "candidates": [
+      "Unfit Witness",
+      "Marketplace Eater",
+      "Character & Fruit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Rabbi Yochanan's disqualification ruling and the marketplace-eater baraita as a continuous unit, and candidate 0 ('Unfit Witness') introduces all of this material together, while candidate 1 ('Marketplace Eater') only covers part of it \u2014 however, the current placement under candidate 1 captures the baraita and Rabbi Idi bar Avin's ruling, which are the latter portion; since the full passage begins with the mishna teaching about mikra/mishnah and Rabbi Yochanan's ruling that is introduced in candidate 0's prose, candidate 0 is the better single home for the entire passage.",
+      "chosen_heading": "Unfit Witness",
+      "current_heading": "Marketplace Eater",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Character & Fruit",
+    "candidates": [
+      "Character & Fruit",
+      "Complete Avoidance",
+      "Mishnah Recitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers bar Kappara's teaching about the angry person gaining only anger, the good person tasting the fruit of his actions, and the avoidance of one who lacks Torah/Mishna/derech eretz \u2014 all of which are explicitly discussed in candidate 0's prose as a unified block about character and what it produces, matching the current placement perfectly.",
+      "chosen_heading": "Character & Fruit",
+      "current_heading": "Character & Fruit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Mishnah Recitation",
+    "candidates": [
+      "Complete Avoidance",
+      "Mishnah Recitation",
+      "Father's Right",
+      "Why Mention Both"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah Recitation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Hadran closing formula for the first chapter, which candidate 1's prose explicitly describes as concluding the first chapter.",
+      "second_heading": "Father's Right",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishnah of the new chapter covering a man betrothing his daughter when she is a na'arah, which candidate 2's prose explicitly discusses as a significant chiddush about the father's authority to delegate.",
+      "current_heading": "Mishnah Recitation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Why Mention Both",
+    "candidates": [
+      "Father's Right",
+      "Why Mention Both",
+      "Body Engagement",
+      "Man's Prohibition",
+      "Rav's Statement",
+      "Lest Repulsion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the Gemara's question about why the mishna mentions both personal and agent-based betrothal, and Rav Yosef's answer that mitzvah bo yoter mibishlucho, with the examples of Rav Safra and Rava \u2014 precisely what the 'Why Mention Both' section's prose describes.",
+      "chosen_heading": "Why Mention Both",
+      "current_heading": "Why Mention Both",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Lest Repulsion",
+    "candidates": [
+      "Body Engagement",
+      "Man's Prohibition",
+      "Rav's Statement",
+      "Lest Repulsion",
+      "Marriage Context",
+      "Women Allowed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the 'ika de-amri' position that betrothal involves an actual issur, citing Rav Yehudah's ruling \u2014 which is precisely what the 'Man's Prohibition' section's prose describes as its content.",
+      "chosen_heading": "Man's Prohibition",
+      "current_heading": "Lest Repulsion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Women Allowed",
+    "candidates": [
+      "Marriage Context",
+      "Women Allowed",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's clarification that Rav Yosef's statement about 'mitzvah bo yoter mi-bishlucho' was said regarding the seifa about the woman's betrothal, which is precisely what the 'Women Allowed' prose describes.",
+      "chosen_heading": "Women Allowed",
+      "current_heading": "Women Allowed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Reish Lakish",
+      "Language Question",
+      "Rishonim Dispute",
+      "Rambam's View",
+      "Two Stages",
+      "Minor Prohibition",
+      "Consent Required",
+      "Adult vs. Minor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Reish Lakish's principle 'tav lemeitav tan du mi-lemeitav armelu' and explains why there is no prohibition for a woman appointing an agent, which is exactly what the current heading's prose discusses.",
+      "chosen_heading": "Reish Lakish",
+      "current_heading": "Reish Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Adult vs. Minor",
+    "candidates": [
+      "Language Question",
+      "Rishonim Dispute",
+      "Rambam's View",
+      "Two Stages",
+      "Minor Prohibition",
+      "Consent Required",
+      "Adult vs. Minor",
+      "Tosafot Modern",
+      "Divorce Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Mishnah's implication that a father may betroth his daughter as a na'arah but not as a ketanah, and supports Rav's ruling that it is forbidden to betroth a minor daughter \u2014 exactly what the 'Minor Prohibition' section's prose describes.",
+      "chosen_heading": "Minor Prohibition",
+      "current_heading": "Adult vs. Minor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Divorce Source",
+    "candidates": [
+      "Tosafot Modern",
+      "Divorce Source",
+      "Grammar Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives shlichut from the divorce verse (ve-shilach), which exactly matches the 'Divorce Source' prose that explicitly discusses shlichut minalan and the baraita deriving agency from ve-shalach in the context of girushin.",
+      "chosen_heading": "Divorce Source",
+      "current_heading": "Divorce Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Grammar Rules",
+    "candidates": [
+      "Grammar Rules",
+      "Terumah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Grammar Rules' section's prose, which explicitly discusses the same derivations: the woman appointing an agent (ve-shalcha) and an agent appointing a sub-agent (ve-shalach ve-shalcha).",
+      "chosen_heading": "Grammar Rules",
+      "current_heading": "Grammar Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Terumah Source",
+    "candidates": [
+      "Terumah Source",
+      "Why Different",
+      "Pesach Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the derivation of agency for kiddushin from the verse 've-yatz'ah ve-hayta' and the rejection of a simple inference from girushin due to 'be-al korchah,' which is precisely what the 'Terumah Source' prose describes in detail.",
+      "chosen_heading": "Terumah Source",
+      "current_heading": "Terumah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125,
+      126,
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Pesach Scenario",
+    "candidates": [
+      "Why Different",
+      "Pesach Scenario",
+      "Kodashim Logic",
+      "Kodashim Traits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The 'Pesach Scenario' prose explicitly covers the full arc from teruma agency through the Pesach mishna to Rabbi Yehoshua ben Korcha's derivation, matching all six items, though items 1-3 on teruma could plausibly fit under 'Why Different.'",
+      "chosen_heading": "Pesach Scenario",
+      "current_heading": "Pesach Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138,
+      139,
+      140
+    ],
+    "current_heading": "Kodashim Traits",
+    "candidates": [
+      "Kodashim Logic",
+      "Kodashim Traits",
+      "Terumah Traits",
+      "Girushin Traits",
+      "Universal Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage works through the combinatorial logic of why shlichut cannot be derived from any single domain or pair of domains sharing common traits, concluding that terumah can indeed be derived from girushin and kodashim together \u2014 which is precisely what the 'Universal Application' prose describes with its set-theory analysis.",
+      "chosen_heading": "Universal Application",
+      "current_heading": "Kodashim Traits",
+      "moved": true
+    }
+  }
+]

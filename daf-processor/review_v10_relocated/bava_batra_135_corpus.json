@@ -1,0 +1,288 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Divorce Claim",
+    "candidates": [
+      "Paternity Claims",
+      "Yibum Credibility",
+      "Divorce Claim",
+      "Yitzchak's Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items deal with the principle of ho'il biyado l'garsha extended to a husband's claim that he divorced his wife \u2014 exactly the content described in the 'Divorce Claim' prose.",
+      "chosen_heading": "Divorce Claim",
+      "current_heading": "Divorce Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Yitzchak's Rejection",
+    "candidates": [
+      "Yitzchak's Rejection",
+      "Limited Application",
+      "Lemafrea Lehaba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yitzchak bar Yosef's report of Rabbi Yochanan's ruling and Rav Sheshet's dismissive reaction, which is precisely what the prose under heading 0 ('Yitzchak's Rejection') describes.",
+      "chosen_heading": "Yitzchak's Rejection",
+      "current_heading": "Yitzchak's Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Lemafrea Lehaba",
+    "candidates": [
+      "Limited Application",
+      "Lemafrea Lehaba",
+      "Last Week Claim",
+      "Split Application",
+      "Adultery Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge to Rabbi Yochanan's ruling (that a husband is not believed) by citing a contradictory tradition in his name (that a husband IS believed), which is precisely the tension that the 'Lemafrea Lehaba' section resolves with the l'mafre'a/l'haba distinction.",
+      "chosen_heading": "Lemafrea Lehaba",
+      "current_heading": "Lemafrea Lehaba",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Adultery Parallel",
+    "candidates": [
+      "Last Week Claim",
+      "Split Application",
+      "Adultery Parallel",
+      "Wife Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1-6 constitute the continuous discussion of 'mi palginan dibura' \u2014 the retroactive/prospective distinction, the Rav Mari/Rav Zevid dispute, Rava's adultery challenge, and the bitrei gufai resolution \u2014 which is precisely what candidate 1 ('Split Application') describes in its prose, while candidate 2 ('Adultery Parallel') covers only the final resolution that wraps up this passage.",
+      "chosen_heading": "Split Application",
+      "current_heading": "Adultery Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Wife Status",
+    "candidates": [
+      "Adultery Parallel",
+      "Wife Status",
+      "Vague Statement",
+      "Abbaye Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the dying man's statement that his wife is fit to marry a High Priest, which is exactly what the 'Wife Status' prose section discusses.",
+      "chosen_heading": "Wife Status",
+      "current_heading": "Wife Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Abbaye Challenge",
+    "candidates": [
+      "Vague Statement",
+      "Abbaye Challenge",
+      "Dying Claim",
+      "Distant Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the exact Rava-Abaye-Rava exchange about conflicting Rabbi Yochanan traditions and whether a resolution can be relied upon for practical ruling, which is precisely what candidate 1 ('Abbaye Challenge') describes in detail.",
+      "chosen_heading": "Abbaye Challenge",
+      "current_heading": "Abbaye Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Distant Witnesses",
+    "candidates": [
+      "Dying Claim",
+      "Distant Witnesses",
+      "No Rumors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yosef's statement about the double grounds for permitting the wife (the presumption and the dying declaration) and Abaye's interjection about distant witnesses \u2014 the full exchange is the subject of the 'Dying Claim' section's prose, which describes exactly this scenario including Abaye's objection as part of the same narrative unit.",
+      "chosen_heading": "Dying Claim",
+      "current_heading": "Distant Witnesses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "No Rumors",
+    "candidates": [
+      "Distant Witnesses",
+      "No Rumors",
+      "Concrete Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yosef's response that witnesses are not present before us and Rabbi \u1e24anina's ruling about distant witnesses, which is precisely what the 'No Rumors' section's prose describes and analyzes.",
+      "chosen_heading": "No Rumors",
+      "current_heading": "No Rumors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Concrete Concern",
+    "candidates": [
+      "Concrete Concern",
+      "Levi Claim",
+      "Inheritance Split",
+      "Eini Yodeia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Abaye/Rava exchange (hikalnu bishvuyah / chush lah) that candidate 0's prose directly discusses and contextualizes.",
+      "chosen_heading": "Concrete Concern",
+      "current_heading": "Concrete Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Eini Yodeia",
+    "candidates": [
+      "Levi Claim",
+      "Inheritance Split",
+      "Eini Yodeia",
+      "Bari Veshema"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the continuous gemara discussion about Shimon's position \u2014 asking what the other brothers say, challenging with the inheritance clause, and resolving with 'we do not know' (eini yodeia) \u2014 which is precisely what candidate 2 'Eini Yodeia' describes in its prose.",
+      "chosen_heading": "Eini Yodeia",
+      "current_heading": "Eini Yodeia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Bari Veshema",
+    "candidates": [
+      "Bari Veshema",
+      "Return Property",
+      "Shevach Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rava-Abbaye dispute about 'mane li beyadcha eini yodeia' and the 'maneh le'acher beyadcha' distinction, which is precisely what the 'Bari Veshema' prose section describes in detail.",
+      "chosen_heading": "Bari Veshema",
+      "current_heading": "Bari Veshema",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Shevach Value",
+    "candidates": [
+      "Return Property",
+      "Shevach Value",
+      "Diatiki Defined",
+      "No Effect",
+      "Handed Over",
+      "Execution Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rava's dilemma about natural appreciation (shevach me'aleihem) of property that returns to Reuven, the clarification about shevach hamagi'a liktefayim, and the teiku conclusion \u2014 all of which are precisely what the 'Shevach Value' prose describes.",
+      "chosen_heading": "Shevach Value",
+      "current_heading": "Shevach Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Execution Required",
+    "candidates": [
+      "Diatiki Defined",
+      "No Effect",
+      "Handed Over",
+      "Execution Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text describes the case of a diatiki found bound to one's thigh being legally void, which directly matches the 'No Effect' section's prose about that exact scenario, including the phrase 'harei zeh einah klum.'",
+      "chosen_heading": "No Effect",
+      "current_heading": "Execution Required",
+      "moved": true
+    }
+  }
+]

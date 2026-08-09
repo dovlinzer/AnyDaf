@@ -1,0 +1,423 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Friday Rain Curse",
+    "candidates": [
+      "Friday Rain Curse",
+      "Rain Complaint",
+      "Shabbat Sun Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Yitzchak's statement about Friday rain as a siman klala, Rabba bar Sheila's comparison to a judgment day, and Ameimar's wish to annul rain \u2014 all of which are discussed in the 'Friday Rain Curse' prose, which explicitly addresses all three of these statements.",
+      "chosen_heading": "Friday Rain Curse",
+      "current_heading": "Friday Rain Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Shabbat Sun Blessing",
+    "candidates": [
+      "Rain Complaint",
+      "Shabbat Sun Blessing",
+      "Hidden Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the sun-on-Shabbat teaching and the rain-blessing teaching by Rabbi Yitzchak, and the current heading's prose explicitly discusses both of these statements together, making it the correct placement.",
+      "chosen_heading": "Shabbat Sun Blessing",
+      "current_heading": "Shabbat Sun Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Hidden Blessing",
+    "candidates": [
+      "Hidden Blessing",
+      "Day of Rain",
+      "Measuring Grain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Yitzchak's teaching that blessing is found only in something hidden from the eye and the Tana devei Rabbi Yishmael's parallel statement, which is precisely what the 'Hidden Blessing' section's prose discusses and explicates.",
+      "chosen_heading": "Hidden Blessing",
+      "current_heading": "Hidden Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Measuring Grain",
+    "candidates": [
+      "Day of Rain",
+      "Measuring Grain",
+      "Kibbutz Galuyot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about measuring grain in a granary and the principle that blessing resides in things hidden from the eye, which matches exactly the 'Measuring Grain' section's prose discussion of bracha samui and tefillat shav.",
+      "chosen_heading": "Measuring Grain",
+      "current_heading": "Measuring Grain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Kibbutz Galuyot",
+    "candidates": [
+      "Kibbutz Galuyot",
+      "Armies Rest",
+      "Poskei Tzedaka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yo\u1e25anan's statement comparing the day of rains to the ingathering of the exiles (kibbutz galuyot) with the verse about afikim baNegev, which exactly matches the content described in candidate 0's prose.",
+      "chosen_heading": "Kibbutz Galuyot",
+      "current_heading": "Kibbutz Galuyot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Poskei Tzedaka",
+    "candidates": [
+      "Armies Rest",
+      "Poskei Tzedaka",
+      "Tithes Wealth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the armies/rain statement AND the poskei tzedakah statement as a single unit, and candidate 0 ('Armies Rest') covers the first teaching while also being the natural home for the combined passage \u2014 but more importantly, the current placement under 'Poskei Tzedaka' only covers the second half, whereas candidate 0's prose explicitly discusses both the armies teaching and references the full context, making it the better fit for the complete passage that begins with the armies statement.",
+      "chosen_heading": "Armies Rest",
+      "current_heading": "Poskei Tzedaka",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Tithes Wealth",
+    "candidates": [
+      "Poskei Tzedaka",
+      "Tithes Wealth",
+      "Test God"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rabbi Yo\u1e25anan teaching on 'aser te'aser' \u2014 tithe in order to become wealthy \u2014 which is precisely what the 'Tithes Wealth' section's prose describes and analyzes.",
+      "chosen_heading": "Tithes Wealth",
+      "current_heading": "Tithes Wealth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Test God",
+    "candidates": [
+      "Test God",
+      "Mishlei Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous exchange about tithing, testing God, and the Malachi verse, which is precisely what the 'Test God' section's prose discusses in detail.",
+      "chosen_heading": "Test God",
+      "current_heading": "Test God",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Mishlei Pasuk",
+    "candidates": [
+      "Mishlei Pasuk",
+      "Reish Lakish Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together depict the exact scene described in the 'Mishlei Pasuk' prose: Rav Yochanan finding Reish Lakish's son reciting the Proverbs verse and then wondering aloud whether it is hinted in the Torah, with the child supplying the Genesis verse about Joseph's brothers \u2014 precisely what that section's prose discusses.",
+      "chosen_heading": "Mishlei Pasuk",
+      "current_heading": "Mishlei Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Reish Lakish Death",
+    "candidates": [
+      "Reish Lakish Death",
+      "Individual Rain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yo\u1e25anan raising his eyes at the boy and the mother taking the child away fearing the same fate as Reish Lakish, which directly matches the 'Reish Lakish Death' section's prose about this exact episode.",
+      "chosen_heading": "Reish Lakish Death",
+      "current_heading": "Reish Lakish Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Individual Rain",
+    "candidates": [
+      "Individual Rain",
+      "Three Providers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yo\u1e25anan's statement about rain for an individual versus sustenance for many, which is precisely what the 'Individual Rain' section's prose discusses in detail.",
+      "chosen_heading": "Individual Rain",
+      "current_heading": "Individual Rain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Three Providers",
+    "candidates": [
+      "Three Providers",
+      "Moshe Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute the baraita of Rabbi Yosei b'Rabbi Yehuda about the three sustainers and three gifts, which is precisely what the 'Three Providers' section prose discusses in detail.",
+      "chosen_heading": "Three Providers",
+      "current_heading": "Three Providers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Moshe Exception",
+    "candidates": [
+      "Moshe Exception",
+      "Three Shepherds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about sustenance coming for an individual (Moses) and the answer that Moses is considered like the many, which is precisely what the 'Moshe Exception' section's prose describes.",
+      "chosen_heading": "Moshe Exception",
+      "current_heading": "Moshe Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Three Shepherds",
+    "candidates": [
+      "Three Shepherds",
+      "Shimi Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the episode of Rav Huna bar Manoach and colleagues before Rav Pappa, culminating in the dream verse about 'three shepherds' \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Three Shepherds",
+      "current_heading": "Three Shepherds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Shimi Silence",
+    "candidates": [
+      "Shimi Silence",
+      "One Blade Grass"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Rav Shimi bar Ashi and Rav Pappa incident, which exactly matches the prose under 'Shimi Silence' discussing this same episode.",
+      "chosen_heading": "Shimi Silence",
+      "current_heading": "Shimi Silence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "One Blade Grass",
+    "candidates": [
+      "One Blade Grass",
+      "Garden Precision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Reish Lakish's derivation that rain falls for an individual and the baraita refining it down to a single blade of grass, which is precisely what the 'One Blade Grass' prose describes.",
+      "chosen_heading": "One Blade Grass",
+      "current_heading": "One Blade Grass",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Garden Precision",
+    "candidates": [
+      "Garden Precision",
+      "Chazizim",
+      "Porchot Drizzle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Daniel bar Katina's garden inspection story, which is exactly what the prose under 'Garden Precision' discusses in detail.",
+      "chosen_heading": "Garden Precision",
+      "current_heading": "Garden Precision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Porchot Drizzle",
+    "candidates": [
+      "Chazizim",
+      "Porchot Drizzle",
+      "Ulla Bavel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong under 'Porchot Drizzle': item 1 discusses the meaning of chazizim as porchos (thin clouds under thick clouds) and item 2 discusses nehila (drizzle) as a sign of rain coming or stopping \u2014 exactly the content described in that section's prose.",
+      "chosen_heading": "Porchot Drizzle",
+      "current_heading": "Porchot Drizzle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Ulla Bavel",
+    "candidates": [
+      "Ulla Bavel",
+      "Dates Honey"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ulla's prediction of rain in Babylonia that failed to materialize and his quip about Babylonian liars, which is precisely what the 'Ulla Bavel' prose section discusses.",
+      "chosen_heading": "Ulla Bavel",
+      "current_heading": "Ulla Bavel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Dates Honey",
+    "candidates": [
+      "Dates Honey",
+      "Ocean Source",
+      "Heavenly Waters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the episode recounted in the 'Dates Honey' section's prose \u2014 Ulla in Babylonia seeing cheap dates, praising the abundance, suffering digestive distress, and revising his view about Babylonian Torah study.",
+      "chosen_heading": "Dates Honey",
+      "current_heading": "Dates Honey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Heavenly Waters",
+    "candidates": [
+      "Ocean Source",
+      "Heavenly Waters",
+      "Sieve Clouds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita presenting Rabbi Eliezer's and Rabbi Yehoshua's positions on the source of rain, which is precisely what the 'Ocean Source' prose introduces and describes, including the salt objection and Rabbi Yehoshua's upper-waters cosmology; the current placement under 'Heavenly Waters' is a mismatch since that prose actually summarizes this same baraita content rather than introducing a new passage.",
+      "chosen_heading": "Ocean Source",
+      "current_heading": "Heavenly Waters",
+      "moved": true
+    }
+  }
+]

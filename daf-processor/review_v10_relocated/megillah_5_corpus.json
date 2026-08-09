@@ -1,0 +1,311 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Month vs. Day-of-Week",
+    "candidates": [
+      "Month vs. Day-of-Week",
+      "Friday Scenario Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question about why the Mishnah shifts from day-of-month ordering to day-of-week ordering, which is precisely what the 'Month vs. Day-of-Week' prose describes.",
+      "chosen_heading": "Month vs. Day-of-Week",
+      "current_heading": "Month vs. Day-of-Week",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Friday Scenario Dispute",
+    "candidates": [
+      "Friday Scenario Dispute",
+      "Three Positions",
+      "Competing Principles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Friday scenario dispute \u2014 asking whose opinion the Mishnah reflects and presenting the baraita with the Tanna Kamma and Rabbi's positions \u2014 which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Friday Scenario Dispute",
+      "current_heading": "Friday Scenario Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Competing Principles",
+    "candidates": [
+      "Three Positions",
+      "Competing Principles",
+      "Multiple Purim Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 11 items work through the competing b'chol shana v'shana inferences and shani hacha d'lo efshar responses for the Tanna Kamma, Rabbi, and Rabbi Yosi, plus the clarification about Rabbi's position when the fourteenth falls on Shabbat \u2014 precisely what the 'Competing Principles' prose describes in detail.",
+      "chosen_heading": "Competing Principles",
+      "current_heading": "Competing Principles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Multiple Purim Days",
+    "candidates": [
+      "Multiple Purim Days",
+      "Rava's Carrying Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Huna's ruling that when Purim falls on Shabbat all deferred readings go to the day of assembly, and concludes this follows Rabbi Yehuda HaNasi's opinion \u2014 matching the 'Multiple Purim Days' prose which explicitly discusses Rabbi's approach to collapsing displaced populations onto a single Thursday when Purim falls on Shabbat.",
+      "chosen_heading": "Multiple Purim Days",
+      "current_heading": "Multiple Purim Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rava's Carrying Concern",
+    "candidates": [
+      "Rava's Carrying Concern",
+      "Shofar, Lulav, & Carrying"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabba's (Rava's) explicit statement about why the Megilla is not read on Shabbat \u2014 the carrying concern \u2014 which is exactly what Candidate 0's prose describes, while Candidate 1 discusses the subsequent Talmudic extension of that rationale to shofar and lulav.",
+      "chosen_heading": "Rava's Carrying Concern",
+      "current_heading": "Rava's Carrying Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Shofar, Lulav, & Carrying",
+    "candidates": [
+      "Shofar, Lulav, & Carrying",
+      "Rav Yosef's Reason",
+      "Gifts & Early Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes 'v'hainu ta'ama d'shofar v'hainu ta'ama d'lulav,' which is precisely the text discussed in the 'Shofar, Lulav, & Carrying' section's prose about the stam extending Rava's rationale to shofar and lulav.",
+      "chosen_heading": "Shofar, Lulav, & Carrying",
+      "current_heading": "Shofar, Lulav, & Carrying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Gifts & Early Reading",
+    "candidates": [
+      "Rav Yosef's Reason",
+      "Gifts & Early Reading",
+      "Seudah & Mishloach Manot",
+      "Rav's Position",
+      "Rav Assi Stricter",
+      "Rav & Rav Assi Reconciled",
+      "Purim on Shabbat Case",
+      "Rav Consistent Assi"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Gifts & Early Reading",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the baraita about collecting and distributing matanot l'evyonim on the day of the village reading, which is precisely what the 'Gifts & Early Reading' prose describes.",
+      "second_heading": "Seudah & Mishloach Manot",
+      "second_confidence": "high",
+      "second_reason": "Item 3 \u2014 'simcha einah noheges ela bizmanah' \u2014 is the closing line about the Purim feast remaining at its proper time, which is exactly what the 'Seudah & Mishloach Manot' prose discusses.",
+      "current_heading": "Gifts & Early Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Rav Consistent Assi",
+    "candidates": [
+      "Seudah & Mishloach Manot",
+      "Rav's Position",
+      "Rav Assi Stricter",
+      "Rav & Rav Assi Reconciled",
+      "Purim on Shabbat Case",
+      "Rav Consistent Assi",
+      "Ten Batlanim Definition",
+      "Early Not Late"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rav Consistent Assi",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 form a continuous Talmudic discussion about whether reading requires ten people (bizmanah vs. shelo bizmanah), the incident with Rav deferring to Rav Assi, and the Purim-on-Shabbat case resolved as le-afokei mi-de-Rabbi \u2014 exactly the content described in candidate 5's prose.",
+      "second_heading": "Ten Batlanim Definition",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is a new Mishna (marked 'MISHNA:') defining ir gedolah by ten batlanim, which is precisely what candidate 6's prose discusses.",
+      "current_heading": "Rav Consistent Assi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Early Not Late",
+    "candidates": [
+      "Ten Batlanim Definition",
+      "Early Not Late",
+      "Rabbi Yehuda's Caveat",
+      "Other Times Not Moveable",
+      "Tisha B'Av Recoil",
+      "Obligation & Timing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Yehuda's Caveat",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 are Mishna text about advancing/not postponing Megilla reading and Rabbi Yehuda's caveat, matching the 'Rabbi Yehuda's Caveat' section, while item 3 onward begins the Gemara analysis of the ten batlanim definition \u2014 a structurally separate unit.",
+      "second_heading": "Early Not Late",
+      "second_confidence": "medium",
+      "second_reason": "Items 3-6 cover the baraita on ten idlers and then the Gemara on 'advance but don't postpone' with Rabbi Abba/Shmuel's statements, which best matches the 'Early Not Late' section's prose about v'lo ya'avor and the calendar-counting rules.",
+      "current_heading": "Early Not Late",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Obligation & Timing",
+    "candidates": [
+      "Rabbi Yehuda's Caveat",
+      "Other Times Not Moveable",
+      "Tisha B'Av Recoil",
+      "Obligation & Timing",
+      "Rava on Chagiga"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three cases (Tisha B'Av, Chagiga, Hakhel) in a single Gemara excerpt, and candidate 1 ('Other Times Not Moveable') is the section that introduces all these observances together as a contrasting group that may be postponed but not advanced, making it the natural home for the full passage rather than splitting it under the later single-topic headings.",
+      "chosen_heading": "Other Times Not Moveable",
+      "current_heading": "Obligation & Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Rava on Chagiga",
+    "candidates": [
+      "Obligation & Timing",
+      "Rava on Chagiga",
+      "Rabbi's Actions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items discuss the baraita about postponing the Chagiga and its 'entire period,' covering Rav Oshaya's reading (items 1-4), Rava's reading (item 5), and Rav Ashi's reading (item 6) \u2014 exactly the content described in the 'Rava on Chagiga' prose.",
+      "chosen_heading": "Rava on Chagiga",
+      "current_heading": "Rava on Chagiga",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Rabbi's Actions",
+    "candidates": [
+      "Rabbi's Actions",
+      "Uproot Tisha B'Av",
+      "Correction: Shabbat Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe Rabbi's actions \u2014 planting on Purim, bathing publicly on the 17th of Tammuz, and seeking to abolish Tisha B'Av \u2014 which is precisely what candidate 0's prose discusses as a unified tradition reported by Rabbi Elazar in the name of Rabbi Chanina.",
+      "chosen_heading": "Rabbi's Actions",
+      "current_heading": "Rabbi's Actions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Correction: Shabbat Case",
+    "candidates": [
+      "Uproot Tisha B'Av",
+      "Correction: Shabbat Case",
+      "Two Witnesses Better"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Abba bar Zavda's correction of the record about the Shabbat case and Rabbi's deferred-fast reasoning, which is exactly what candidate 1's prose discusses.",
+      "chosen_heading": "Correction: Shabbat Case",
+      "current_heading": "Correction: Shabbat Case",
+      "moved": false
+    }
+  }
+]

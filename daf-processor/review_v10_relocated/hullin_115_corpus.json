@@ -1,0 +1,268 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Opening Remarks",
+    "candidates": [
+      "Opening Remarks",
+      "Problem Statement",
+      "Product of Aveirah",
+      "Abbahu's Principle",
+      "Neveilah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Ashi's teaching about deriving the prohibition of eating basar bechalav from 'lo tochal kol to'evah', which is precisely what the 'Product of Aveirah' section's prose describes and discusses.",
+      "chosen_heading": "Product of Aveirah",
+      "current_heading": "Opening Remarks",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Neveilah Exception",
+    "candidates": [
+      "Problem Statement",
+      "Product of Aveirah",
+      "Abbahu's Principle",
+      "Neveilah Exception",
+      "Meir vs. Yehudah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items deal with the neveilah verse \u2014 Rabbi Abbahu's principle applied to neveilah, the baraita elaborating the giving/selling permissions, and the conclusion about ger vs. nochri \u2014 which is precisely what the 'Neveilah Exception' prose describes.",
+      "chosen_heading": "Neveilah Exception",
+      "current_heading": "Neveilah Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Meir vs. Yehudah",
+    "candidates": [
+      "Meir vs. Yehudah",
+      "Tosafot: Trivial Benefit",
+      "Rashi's Defense",
+      "Kilayim Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's exchange about Rabbi Yehuda's reasoning versus Rabbi Meir's reading of 'or,' which is precisely what the 'Meir vs. Yehudah' prose describes in detail, including the sevara about sustaining the ger toshav.",
+      "chosen_heading": "Meir vs. Yehudah",
+      "current_heading": "Meir vs. Yehudah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Kilayim Exception",
+    "candidates": [
+      "Tosafot: Trivial Benefit",
+      "Rashi's Defense",
+      "Kilayim Exception",
+      "Mixed Animals",
+      "Mother & Child"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The entire passage \u2014 the mnemonic followed by the chain of challenges (Shabbat, plowing/threshing, diverse seeds) and their resolutions \u2014 is the Gemara's series of objections to Rav Ashi's principle that the product of a forbidden act is itself forbidden, which is precisely what candidate 1 ('Rashi's Defense') describes as the Gemara immediately raising challenges to that principle after establishing it.",
+      "chosen_heading": "Rashi's Defense",
+      "current_heading": "Kilayim Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Mother & Child",
+    "candidates": [
+      "Mixed Animals",
+      "Mother & Child",
+      "Shiluach Ha-Ken"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the oto ve'et beno case and the mechusar zeman answer, which is precisely what the 'Mother & Child' section's prose discusses.",
+      "chosen_heading": "Mother & Child",
+      "current_heading": "Mother & Child",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Shiluach Ha-Ken",
+    "candidates": [
+      "Shiluach Ha-Ken",
+      "Double Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses shiluach ha-ken and the Gemara's response 'lo amrah Torah shalach letakalah,' which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Shiluach Ha-Ken",
+      "current_heading": "Shiluach Ha-Ken",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Double Language",
+    "candidates": [
+      "Double Language",
+      "Yochanan Challenge",
+      "Rabbi: Psulei Mukdashin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's derasha from the double language of bishul (uvashel mevushal) in the Korban Pesach verse, which is precisely what the 'Double Language' section's prose describes.",
+      "chosen_heading": "Double Language",
+      "current_heading": "Double Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Rabbi: Psulei Mukdashin",
+    "candidates": [
+      "Yochanan Challenge",
+      "Rabbi: Psulei Mukdashin",
+      "Eliezer: Neveilah",
+      "Yishmael: Three-fold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous discussion: Rabbi Yochanan's challenge to Reish Lakish (items 1-2), the derasha from pesulei hamukdashin with its context-based reasoning (item 3), Reish Lakish's response about issur hana'ah (item 4), Rabbi Yehuda HaNasi's source for issur hana'ah via gezeirah shavah from kadesh (item 5), and the school of Rabbi Eliezer's neveilah-based derivation (item 6) \u2014 all of which are explicitly described and synthesized in the 'Rabbi: Psulei Mukdashin' prose section.",
+      "chosen_heading": "Rabbi: Psulei Mukdashin",
+      "current_heading": "Rabbi: Psulei Mukdashin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Yishmael: Three-fold",
+    "candidates": [
+      "Eliezer: Neveilah",
+      "Yishmael: Three-fold",
+      "Issi: Am Kadosh",
+      "Setup",
+      "Objection",
+      "Chometz B'Pesach"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yishmael: Three-fold",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the school of Rabbi Yishmael's three-fold derivation, which matches heading 1 ('Yishmael: Three-fold') perfectly, and its current placement there is correct.",
+      "second_heading": "Issi: Am Kadosh",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are Isi ben Yehuda's derasha from 'am kadosh' (item 2) followed by the kal vachomer extending to issur hana'ah (item 3), which match headings 2 ('Issi: Am Kadosh') and 3 ('Setup') respectively \u2014 but since items 2-3 form a continuous chain (the derasha then its extension), they belong together under heading 2, as heading 3's prose explicitly describes item 3 as a follow-on to Issi's derasha.",
+      "current_heading": "Yishmael: Three-fold",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Chometz B'Pesach",
+    "candidates": [
+      "Issi: Am Kadosh",
+      "Setup",
+      "Objection",
+      "Chometz B'Pesach",
+      "Three-Case Rule",
+      "Two vs. Three Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the orlah/chometz bePesach argument \u2014 item 1 is the rejection of the orlah comparison due to 'no time when it was fit,' and item 2 is the chometz bePesach counterexample and its rebuttal regarding karet \u2014 which is precisely what the 'Chometz B'Pesach' prose section describes.",
+      "chosen_heading": "Chometz B'Pesach",
+      "current_heading": "Chometz B'Pesach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Two vs. Three Cases",
+    "candidates": [
+      "Three-Case Rule",
+      "Two vs. Three Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 13 items form a continuous chain of question-and-answer about why three cases (orla, chometz, kilay hakerem) are needed and the logical rules for refuting mah hatzad arguments, which is precisely what the 'Two vs. Three Cases' prose describes in detail, including Rav Ashi's neveilah objection and Reish Lakish's principles transmitted by Rav Mordekhai.",
+      "chosen_heading": "Two vs. Three Cases",
+      "current_heading": "Two vs. Three Cases",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Baraita Proof",
+    "candidates": [
+      "Multiple Scrolls Setup",
+      "Rav Yitzchak's View",
+      "Rav Dimi's View",
+      "Tadir Principle",
+      "Rav Yosef vs Rava",
+      "Shekalim Before Ki Tissa",
+      "Abaye's Solution",
+      "Supporting Tanya",
+      "Shekalim on Ki Tissa",
+      "Rosh Chodesh Mid-Week",
+      "Rav vs Shmuel",
+      "Baraita Interpretation",
+      "R. Shimon on Erev Shabbat",
+      "Rav Advances",
+      "Shmuel Postpones",
+      "Order of Remembrance",
+      "Mukafin Argument",
+      "Baraita Proof",
+      "Purim on Shabbat",
+      "Third Shabbat Definition",
+      "Before Rosh Chodesh",
+      "Reconciliation",
+      "Complete Baraita",
+      "Rashi's Mnemonic",
+      "Three Scenarios",
+      "Divine Name Note",
+      "Return to Order",
+      "Rav Ami vs Yirmiyah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 22,
+      "confidence": "high",
+      "reason": "The passage defines the fourth special Shabbat as the week in which Rosh Chodesh Nisan falls, even on Erev Shabbat \u2014 which is precisely the fourth definition given in the 'Complete Baraita' section (candidate 22) that enumerates all four special Shabbatot including this exact formulation for Hachodesh.",
+      "chosen_heading": "Complete Baraita",
+      "current_heading": "Baraita Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Rav Ami vs Yirmiyah",
+    "candidates": [
+      "Purim on Shabbat",
+      "Third Shabbat Definition",
+      "Before Rosh Chodesh",
+      "Reconciliation",
+      "Complete Baraita",
+      "Rashi's Mnemonic",
+      "Three Scenarios",
+      "Divine Name Note",
+      "Return to Order",
+      "Rav Ami vs Yirmiyah",
+      "Weekday vs Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage directly presents the dispute between Rabbi Ami and Rabbi Yirmeya about whether the fifth Shabbat resumes the order of Torah portions or haftarot, which is exactly what the prose under heading 9 ('Rav Ami vs Yirmiyah') discusses.",
+      "chosen_heading": "Rav Ami vs Yirmiyah",
+      "current_heading": "Rav Ami vs Yirmiyah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Weekday vs Shabbat",
+    "candidates": [
+      "Weekday vs Shabbat",
+      "Festival Parshiyot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items \u2014 Abaye's proof from the mishna, Rabbi Yirmeya's counter, the fast-day interruption question, Rav Huna's statement about morning gatherings, Abaye's quarter-day schedule, and the Ezra proof-text \u2014 are precisely the content described in the 'Weekday vs Shabbat' prose, which explicitly covers each of these points in sequence.",
+      "chosen_heading": "Weekday vs Shabbat",
+      "current_heading": "Weekday vs Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Festival Parshiyot",
+    "candidates": [
+      "Festival Parshiyot",
+      "Other Special Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage lists Torah readings for Pesach, Shavuot, Rosh Hashanah, Yom Kippur, and Sukkot \u2014 exactly the content described in the 'Festival Parshiyot' prose section, which explicitly discusses each of these same readings in the same order.",
+      "chosen_heading": "Festival Parshiyot",
+      "current_heading": "Festival Parshiyot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Other Special Days",
+    "candidates": [
+      "Other Special Days",
+      "Klalot Rule",
+      "Weekday Readings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together cover the special-day Torah readings (Hanukkah, Purim, Rosh Chodesh, ma'amadot, fast days) and the klalot rule, all of which are explicitly discussed in the 'Other Special Days' prose, making that the clearly correct home for the entire passage.",
+      "chosen_heading": "Other Special Days",
+      "current_heading": "Other Special Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Weekday Readings",
+    "candidates": [
+      "Klalot Rule",
+      "Weekday Readings",
+      "Source Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Monday, Thursday, and Shabbat Mincha readings following sequential order without counting toward the Shabbat reckoning, which is precisely what the 'Weekday Readings' prose describes.",
+      "chosen_heading": "Weekday Readings",
+      "current_heading": "Weekday Readings",
+      "moved": false
+    }
+  }
+]

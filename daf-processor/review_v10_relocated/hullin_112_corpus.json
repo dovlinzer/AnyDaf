@@ -1,0 +1,262 @@
+[
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Salt Dish Placement",
+    "candidates": [
+      "Nat Bar Nat Principles",
+      "Parve in Fleishig/Milchig",
+      "Ashkenazi vs Sefardi",
+      "Ben Yomo Status",
+      "OU Gezeira Critique",
+      "Radish & Knife Absorption",
+      "Clean vs Dirty Knives",
+      "Stringent Davar Charif",
+      "Combined Stringent Views",
+      "Davar Charif Examples",
+      "Salt Dish Placement",
+      "Forbidden Salt, Vinegar",
+      "Retention & Dissolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage describes exactly what heading 10's prose introduces: Rav Dimi's question to Rav Nachman about placing a salt dish next to kutach, and the follow-up about vinegar, which is precisely what 'Salt Dish Placement' covers.",
+      "chosen_heading": "Salt Dish Placement",
+      "current_heading": "Salt Dish Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Retention & Dissolution",
+    "candidates": [
+      "Forbidden Salt, Vinegar",
+      "Retention & Dissolution",
+      "Rav Chinana Permits",
+      "Maliach K'Roteach Princ"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Dimi's question about the difference between salt and vinegar and Rav Nachman's idiomatic response about eating a kor of salt, followed by the Gemara's clarification of the reason \u2014 this is precisely what heading 0 describes, including the playful salt phrase and the distinction between the two cases, while heading 1's prose already summarizes the principle in the essay's own words without needing the Talmudic text placed there again.",
+      "chosen_heading": "Forbidden Salt, Vinegar",
+      "current_heading": "Retention & Dissolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Maliach K'Roteach Princ",
+    "candidates": [
+      "Rav Chinana Permits",
+      "Maliach K'Roteach Princ",
+      "Rashi vs Tosafot: Maliach",
+      "Ashkenazi Stringency",
+      "Bahag Salt-Heat Equation",
+      "Roasted vs Raw Meat",
+      "Absorbency Without Heat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the case of the bird falling into kuta\u1e25 and Rav \u1e24innana's permission with Rava's admiration, which is precisely what heading 0 ('Rav Chinana Permits') discusses, while heading 1 covers the theoretical explanation/qualification of Shmuel's principle that follows.",
+      "chosen_heading": "Rav Chinana Permits",
+      "current_heading": "Maliach K'Roteach Princ",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Absorbency Without Heat",
+    "candidates": [
+      "Rashi vs Tosafot: Maliach",
+      "Ashkenazi Stringency",
+      "Bahag Salt-Heat Equation",
+      "Roasted vs Raw Meat",
+      "Absorbency Without Heat",
+      "Red Juices Status",
+      "Shmuel Forbids Red"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Roasted vs Raw Meat",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses roasted meat requiring peeling (klipa), cracks, and spices \u2014 exactly the content described under 'Roasted vs Raw Meat' and 'Absorbency Without Heat', but the prose of heading 3 ('Roasted vs Raw Meat') directly quotes and discusses 've-hani mili chai', 'aval tzli, bei klipa', and 've-ei is bei pili' \u2014 making it the clearest match for Item 1.",
+      "second_heading": "Red Juices Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Na\u1e25man citing Shmuel's ruling about bread upon which meat was cut being forbidden, with conditions about redness, penetration, and viscosity \u2014 this is precisely what heading 5 ('Red Juices Status') discusses as its central topic.",
+      "current_heading": "Absorbency Without Heat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Shmuel Forbids Red",
+    "candidates": [
+      "Red Juices Status",
+      "Shmuel Forbids Red",
+      "Rava Permits Red",
+      "Vessel Under Roasting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Shmuel throwing the bread to his dog, Rav Huna giving it to his attendant with the mima nafshach objection and the istenis resolution, and Rava eating it and calling it 'meat wine' \u2014 all of which are explicitly summarized in the 'Shmuel Forbids Red' prose, which narrates the full sequence including Rava's position as a closing note, matching the passage exactly.",
+      "chosen_heading": "Shmuel Forbids Red",
+      "current_heading": "Shmuel Forbids Red",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Vessel Under Roasting",
+    "candidates": [
+      "Rava Permits Red",
+      "Vessel Under Roasting",
+      "Smoke as Indicator",
+      "Rav Ashi's Objection",
+      "Two Mounds Salt Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the rule about not placing a vessel under meat until redness dissipates AND the smoke indicator answer from Mar Zutra/Rav Pappa, which maps precisely to heading 2 ('Smoke as Indicator') whose prose explicitly discusses both the 'mena yadeinan' question and Mar Zutra's 'mishe-ya'aleh timrato' answer \u2014 heading 1 only covers the first half while heading 2 covers the complete passage including the smoke criterion.",
+      "chosen_heading": "Smoke as Indicator",
+      "current_heading": "Vessel Under Roasting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Two Mounds Salt Solution",
+    "candidates": [
+      "Smoke as Indicator",
+      "Rav Ashi's Objection",
+      "Two Mounds Salt Solution",
+      "Tosafot: Salt Measure",
+      "Shmuel's Contradictions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Ashi's Objection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rav Ashi's objection to the smoke indicator (the bottom may be roasted but not the top) and his 'no remedy except two lumps of salt' ruling \u2014 exactly what candidate 1 'Rav Ashi's Objection' describes.",
+      "second_heading": "Two Mounds Salt Solution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 ('tilt it') is the concluding detail of the two-salt-mounds method, which belongs under candidate 2 'Two Mounds Salt Solution' where the prose discusses how the blood is drawn to the salt and the surrounding juice becomes permissible.",
+      "current_heading": "Two Mounds Salt Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Shmuel's Contradictions",
+    "candidates": [
+      "Tosafot: Salt Measure",
+      "Shmuel's Contradictions",
+      "Fish-Bird Salting Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Shmuel's apparent contradiction between his ruling on roasting drippings and his ruling about cutting meat on bread, and the Gemara's resolution via knife pressure \u2014 exactly what the 'Shmuel's Contradictions' prose describes.",
+      "chosen_heading": "Shmuel's Contradictions",
+      "current_heading": "Shmuel's Contradictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Fish-Bird Salting Ban",
+    "candidates": [
+      "Fish-Bird Salting Ban",
+      "Tosafot Explanations",
+      "Vessel Must Have Holes",
+      "Fish Absorbency Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly asks about the vessel conditions (perforated vs. unperforated) and establishes that even birds-with-birds are forbidden in an unperforated vessel, which is precisely what candidate 2 ('Vessel Must Have Holes') discusses.",
+      "chosen_heading": "Vessel Must Have Holes",
+      "current_heading": "Fish-Bird Salting Ban",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Fish Absorbency Timing",
+    "candidates": [
+      "Tosafot Explanations",
+      "Vessel Must Have Holes",
+      "Fish Absorbency Timing",
+      "Trefa-Kosher Mix",
+      "Non-Kosher Meat Juices"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fish Absorbency Timing",
+      "first_confidence": "high",
+      "first_reason": "Item 1 explains exactly why fish absorb blood from birds after the fish finish expelling \u2014 the soft skin and timing difference \u2014 which is precisely what the 'Fish Absorbency Timing' prose describes.",
+      "second_heading": "Trefa-Kosher Mix",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the entirely new case of Rav Mari bar Rachel salting kosher meat together with trefa meat, which is the self-contained scenario introduced under the 'Trefa-Kosher Mix' heading.",
+      "current_heading": "Fish Absorbency Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Non-Kosher Meat Juices",
+    "candidates": [
+      "Trefa-Kosher Mix",
+      "Non-Kosher Meat Juices",
+      "Blood vs Juice Transfer",
+      "Taste vs Thing Itself"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rava's statement citing 'ha-teme'im' to prohibit juices, gravy, and spices of non-kosher meat, which is precisely what the 'Non-Kosher Meat Juices' section's prose describes and analyzes.",
+      "chosen_heading": "Non-Kosher Meat Juices",
+      "current_heading": "Non-Kosher Meat Juices",
+      "moved": false
+    }
+  }
+]

@@ -34,7 +34,7 @@
           "timestamp": "19:27"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -78,7 +78,7 @@
           "timestamp": "36:13"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 36,
       "matched": true
     },
     {
@@ -107,7 +107,7 @@
           "timestamp": "47:03"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 51,
       "matched": true
     },
     {
@@ -146,8 +146,8 @@
           "timestamp": "58:02"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 51,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -401,5 +401,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 23
+  "amud_b_sefaria_index": 23,
+  "amud_b_segment_index": 0,
+  "amud_b_timestamp": "00:27",
+  "amud_b_micro_title": "Ne'ilat Hasandal",
+  "shiur_start_daf": 16,
+  "shiur_start_amud": "a"
 }

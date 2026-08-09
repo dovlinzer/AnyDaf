@@ -1,0 +1,354 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Medaber/Shome'a Dispute",
+    "candidates": [
+      "Tosafot: Korban vs Mitzva",
+      "Yerushalmi: Regel",
+      "Drasha: Two Eyes",
+      "Pshat: Yira'eh et Pnei",
+      "Medaber/Shome'a Dispute",
+      "Cheresh Definition",
+      "Baraita: Exemptions",
+      "Partial Cheresh in Simcha",
+      "Full Exemption Group",
+      "Mai Shena Exemption",
+      "Gezerah Shavah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Medaber/Shome'a Dispute",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 contain the contradiction between the Tosefta and baraita and Ravina/Rava's resolution via chisura mechsara, which is precisely what the 'Medaber/Shome'a Dispute' prose describes.",
+      "second_heading": "Mai Shena Exemption",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20134 contain the supporting baraita and the closing question 'mai shena le'inyan re'iyah deptiri umai shena le'inyan simcha demichayvi', which is exactly the question the 'Mai Shena Exemption' prose says the gemara now asks.",
+      "current_heading": "Medaber/Shome'a Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Gezerah Shavah",
+    "candidates": [
+      "Cheresh Definition",
+      "Baraita: Exemptions",
+      "Partial Cheresh in Simcha",
+      "Full Exemption Group",
+      "Mai Shena Exemption",
+      "Gezerah Shavah",
+      "Hearing Exclusion",
+      "Teaching Exclusion",
+      "Two Mute Scholars"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items directly explain the gezerah shavah from hakhel for the re'iyah exemption and then derive hakhel's own exemption from 'lema'an yishme'u ulema'an yilmedu,' which is precisely what the 'Gezerah Shavah' section's prose describes.",
+      "chosen_heading": "Gezerah Shavah",
+      "current_heading": "Gezerah Shavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Two Mute Scholars",
+    "candidates": [
+      "Hearing Exclusion",
+      "Teaching Exclusion",
+      "Two Mute Scholars",
+      "Rav Ashi Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together comprise exactly the gemara's challenge and empirical refutation about the two mute scholars who turned out to have mastered all of Torah she-be'al peh, which is precisely what candidate 2 ('Two Mute Scholars') describes in its prose.",
+      "chosen_heading": "Two Mute Scholars",
+      "current_heading": "Two Mute Scholars",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Rav Ashi Resolution",
+    "candidates": [
+      "Rav Ashi Resolution",
+      "Deaf One Ear",
+      "Ba'ozneihem Both Ears"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Ashi Resolution",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain the Mar Zutra/Rav Ashi dispute about reading 'yelamdu' vs 'yilmedu', which is precisely what candidate 0's prose describes in detail.",
+      "second_heading": "Deaf One Ear",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Rabbi Tan\u1e25um's ruling about one deaf in one ear, which is the new topic that candidate 1's prose directly addresses.",
+      "current_heading": "Rav Ashi Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Ba'ozneihem Both Ears",
+    "candidates": [
+      "Deaf One Ear",
+      "Ba'ozneihem Both Ears",
+      "Lame One Leg",
+      "Regalim Etymology",
+      "Prosthetics & Limping"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's back-and-forth about why 'b'ozneihem' is not needed for other purposes and is therefore available to teach the two-ears requirement, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Ba'ozneihem Both Ears",
+      "current_heading": "Ba'ozneihem Both Ears",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Prosthetics & Limping",
+    "candidates": [
+      "Lame One Leg",
+      "Regalim Etymology",
+      "Prosthetics & Limping",
+      "Beauty of Pilgrimage",
+      "Bat Nadiv Drasha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lame One Leg",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Tan\u1e25um's ruling about one lame in one leg being exempt, which matches the 'Lame One Leg' prose exactly.",
+      "second_heading": "Prosthetics & Limping",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the challenge about *regalim* excluding prosthetic wearers (*ba'alei kabin*) and the derivation from *pe'amim*, which is precisely what the 'Prosthetics & Limping' prose describes in detail.",
+      "current_heading": "Prosthetics & Limping",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Bat Nadiv Drasha",
+    "candidates": [
+      "Beauty of Pilgrimage",
+      "Bat Nadiv Drasha",
+      "Pki'in Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bat Nadiv Drasha",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rava's drasha on 'bat nadiv') is explicitly discussed in both headings 0 and 1, but heading 1's prose covers the full content of item 1 including the 'Elohei Avraham' question and the convert explanation, making it the clear best match.",
+      "second_heading": "Pki'in Story",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (the pit with snakes and scorpions drasha about Joseph) is a completely new aggadic topic unrelated to the pilgrimage/nadiv discussion, and heading 2's prose about the Pki'in story and what was taught in the beit hamidrash provides the structural context into which this Joseph drasha would have been introduced as a chiddush.",
+      "current_heading": "Bat Nadiv Drasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Pki'in Story",
+    "candidates": [
+      "Pki'in Story",
+      "Hakhel Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the opening of the Pki'in story \u2014 Rabbi Yehoshua asking about the study hall, the students' demurral, and his pressing them about whose week it was and what was taught \u2014 all of which is explicitly narrated in the 'Pki'in Story' prose under heading 0.",
+      "chosen_heading": "Pki'in Story",
+      "current_heading": "Pki'in Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Hakhel Teaching",
+    "candidates": [
+      "Hakhel Teaching",
+      "Reciprocal Choosing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the hakhel verse about men, women, and children attending assembly, which is precisely what the 'Hakhel Teaching' section's prose elaborates on in detail.",
+      "chosen_heading": "Hakhel Teaching",
+      "current_heading": "Hakhel Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Reciprocal Choosing",
+    "candidates": [
+      "Reciprocal Choosing",
+      "Goads & Nails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the drasha on 'You have affirmed God / God has affirmed you' and the explanation about mutual uniqueness (Shema / umi k'amcha), which the 'Reciprocal Choosing' prose explicitly discusses in detail.",
+      "chosen_heading": "Reciprocal Choosing",
+      "current_heading": "Reciprocal Choosing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Goads & Nails",
+    "candidates": [
+      "Goads & Nails",
+      "Parah V'Rabah",
+      "Conflicting Opinions",
+      "One Shepherd Unity",
+      "Discerning Heart"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete drasha on Ecclesiastes 12:11 \u2014 goads, nails, plantings, ba'alei asufot, and the 'one shepherd' conclusion \u2014 which is exactly what heading 0 ('Goads & Nails') discusses in its prose, covering the full arc from the goad analogy through the competing opinions to the unity of one shepherd.",
+      "chosen_heading": "Goads & Nails",
+      "current_heading": "Goads & Nails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Discerning Heart",
+    "candidates": [
+      "Parah V'Rabah",
+      "Conflicting Opinions",
+      "One Shepherd Unity",
+      "Discerning Heart",
+      "Teaching Acknowledgment",
+      "Durmaski's Error"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes the 'make your ears like a funnel' instruction and Rabbi Yehoshua's praise of Rabbi Elazar ben Azarya, which is precisely what the 'Discerning Heart' section's prose explicates and discusses.",
+      "chosen_heading": "Discerning Heart",
+      "current_heading": "Discerning Heart",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Durmaski's Error",
+    "candidates": [
+      "Teaching Acknowledgment",
+      "Durmaski's Error",
+      "Eyes Fall Out"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the question of why they didn't speak directly and begins the answer ('due to an incident that occurred'), which is precisely what the 'Teaching Acknowledgment' prose describes \u2014 the current placement under 'Durmaski's Error' is premature, as that section covers what happened after Rabbi Yose answered, not the framing question and its opening answer.",
+      "chosen_heading": "Teaching Acknowledgment",
+      "current_heading": "Durmaski's Error",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Eyes Fall Out",
+    "candidates": [
+      "Durmaski's Error",
+      "Eyes Fall Out",
+      "Ammon & Moav"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ammon & Moav",
+      "first_confidence": "high",
+      "first_reason": "Item 1 reports the vote concluding that Ammon and Moav give ma'aser ani in shevi'it, which is precisely what candidate 2's prose discusses.",
+      "second_heading": "Eyes Fall Out",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes Rabbi Elazar's explosive physical reaction and weeping over the verse, which is exactly what candidate 1's prose ('Eyes Fall Out') describes.",
+      "current_heading": "Eyes Fall Out",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Ammon & Moav",
+    "candidates": [
+      "Ammon & Moav",
+      "Secret Knowledge",
+      "Eliezer vs. Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Eliezer's message to the beit midrash about Ammon and Moav tithing the poor man's tithe in the Sabbatical Year and the halacha le-Moshe mi-Sinai tradition, which is precisely what the 'Ammon & Moav' section's prose discusses in detail.",
+      "chosen_heading": "Ammon & Moav",
+      "current_heading": "Ammon & Moav",
+      "moved": false
+    }
+  }
+]

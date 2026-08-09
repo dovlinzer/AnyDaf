@@ -1,0 +1,418 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Blemished Bechor Status",
+    "candidates": [
+      "Intro & Overview",
+      "Obligation vs. Validity",
+      "Shlamim vs. Todah",
+      "Blemished Bechor Status",
+      "Two Days & Night",
+      "Mishna's Ambiguity",
+      "Two Readings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items continue the same back-and-forth debate about whether 'yiheyeh lach' teaches the two-day eating period (shlamim vs. todah) or the giving of a blemished bechor to the kohen, and about what 'u-vesaram' teaches \u2014 exactly the content described in the 'Shlamim vs. Todah' prose, which explicitly covers both the duration question and the blemished-bechor/yiheyeh-lach and u-vesaram arguments.",
+      "chosen_heading": "Shlamim vs. Todah",
+      "current_heading": "Blemished Bechor Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Two Readings",
+    "candidates": [
+      "Two Days & Night",
+      "Mishna's Ambiguity",
+      "Two Readings",
+      "Modern Practice",
+      "Waiting for Blemish",
+      "Hashavas Aveida",
+      "Rashi vs. Tosafot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's ambiguity about the mishna's two possible readings (blemish within the year vs. after the year), and the baraita introduced to explore those readings \u2014 exactly what candidate 2 ('Two Readings') describes in its prose.",
+      "chosen_heading": "Two Readings",
+      "current_heading": "Two Readings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rashi vs. Tosafot",
+    "candidates": [
+      "Modern Practice",
+      "Waiting for Blemish",
+      "Hashavas Aveida",
+      "Rashi vs. Tosafot",
+      "15-Day Proof",
+      "Rabbi Eliezer",
+      "Alt. Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly describes the baraita's ruling that after the year one has no permission to maintain the animal even a day, but due to hashavas aveida thirty days are granted \u2014 which is precisely what the 'Hashavas Aveida' section's prose discusses.",
+      "chosen_heading": "Hashavas Aveida",
+      "current_heading": "Rashi vs. Tosafot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Alt. Rabbi Eliezer",
+    "candidates": [
+      "15-Day Proof",
+      "Rabbi Eliezer",
+      "Alt. Rabbi Eliezer",
+      "Before vs. After",
+      "Non-Expert Ruling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "15-Day Proof",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the dilemma about timing of the thirty days and the baraita proof supporting Rabbi Elazar's view that thirty days run from when the blemish developed, matching the '15-Day Proof' and 'Rabbi Eliezer' sections (index 0 is the better fit as it covers both the proof case and the shma mina conclusion).",
+      "second_heading": "Alt. Rabbi Eliezer",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the alternative tradition (ikka d'amri) of Rabbi Elazar deriving a full year plus thirty days from 'shanah b'shanah,' followed by the baraita refutation and teyuvta, which precisely matches the 'Alt. Rabbi Eliezer' prose at index 2.",
+      "current_heading": "Alt. Rabbi Eliezer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Non-Expert Ruling",
+    "candidates": [
+      "Before vs. After",
+      "Non-Expert Ruling",
+      "Eye vs. Body Blemish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers both the before-vs-after inspection debate (Rabbi Yehuda vs. Rabbi Meir) and the non-expert ruling case in a single passage, but the prose under heading 0 ('Before vs. After') explicitly introduces this mishna as a whole and describes both Rabbi Yehuda's and Rabbi Meir's positions, making it the natural home for the complete mishna text.",
+      "chosen_heading": "Before vs. After",
+      "current_heading": "Non-Expert Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Eye vs. Body Blemish",
+    "candidates": [
+      "Non-Expert Ruling",
+      "Eye vs. Body Blemish",
+      "Rabbi Meir's Gezeirah",
+      "Rabbi Yehuda View",
+      "Slippery Slope",
+      "Knas Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabba bar bar Chana's clarification distinguishing eye-blemishes (dukin she'ba'ayin) from body-blemishes (mumim she'beguf), which is exactly what the 'Eye vs. Body Blemish' section's prose describes.",
+      "chosen_heading": "Eye vs. Body Blemish",
+      "current_heading": "Eye vs. Body Blemish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Knas Analysis",
+    "candidates": [
+      "Rabbi Meir's Gezeirah",
+      "Rabbi Yehuda View",
+      "Slippery Slope",
+      "Knas Analysis",
+      "Variability Question",
+      "Witness Testimony",
+      "Some Change, Some Don't",
+      "Rabbi Yoshiya Demo"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Knas Analysis",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 form a complete unit about the baraita dispute between Rabbi Yehuda and Rabbi Meir, Rav Na\u1e25man bar Yitz\u1e25ak's observation, and the mishna's language pointing to a knas \u2014 all of which the 'Knas Analysis' prose explicitly discusses.",
+      "second_heading": "Variability Question",
+      "second_confidence": "high",
+      "second_reason": "Items 4\u20135 introduce an entirely new dilemma about whether all dokin she'ba'ayin change or only some, and the practical implication for witness testimony \u2014 which is precisely what the 'Variability Question' prose addresses.",
+      "current_heading": "Knas Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Rabbi Yoshiya Demo",
+    "candidates": [
+      "Variability Question",
+      "Witness Testimony",
+      "Some Change, Some Don't",
+      "Rabbi Yoshiya Demo",
+      "Civil Errors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabba bar bar \u1e24ana's report of Rabbi Yoshiya of Usha's invitation to observe changing corneas, and the Gemara's inference that some change and some do not \u2014 precisely what the 'Rabbi Yoshiya Demo' section's prose describes and analyzes.",
+      "chosen_heading": "Rabbi Yoshiya Demo",
+      "current_heading": "Rabbi Yoshiya Demo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Civil Errors",
+    "candidates": [
+      "Civil Errors",
+      "Quarter vs. Half"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses a non-expert who ruled on a firstborn animal (bechor) and must pay compensation from his own property, directly matching the 'Civil Errors' section's theme of judicial/expert malpractice and the principle of paying from one's own assets (ve-yeshalem mibeito).",
+      "chosen_heading": "Civil Errors",
+      "current_heading": "Civil Errors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Quarter vs. Half",
+    "candidates": [
+      "Quarter vs. Half",
+      "Not Full Loss",
+      "Value Difference",
+      "Grazing Discouragement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the baraita stating quarter vs. half rates AND Rav Pappa's explanation (zeh hefsed merubeh ve-zeh hefsed mu'at), which matches candidate 2's prose that introduces Rav Papa's explanation and immediately notes the Gemara challenges it \u2014 candidate 0's prose only covers the baraita itself without Rav Pappa's reasoning.",
+      "chosen_heading": "Value Difference",
+      "current_heading": "Quarter vs. Half",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Grazing Discouragement",
+    "candidates": [
+      "Not Full Loss",
+      "Value Difference",
+      "Grazing Discouragement",
+      "Rashi Alt. View",
+      "Garmi Definition",
+      "Purity Rulings",
+      "What's Done Done",
+      "Mumche Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Huna bar Manoach's answer about the gezeirat megadlei behema daka, which is precisely what the 'Grazing Discouragement' section's prose describes and analyzes.",
+      "chosen_heading": "Grazing Discouragement",
+      "current_heading": "Grazing Discouragement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Mumche Exemption",
+    "candidates": [
+      "Rashi Alt. View",
+      "Garmi Definition",
+      "Purity Rulings",
+      "What's Done Done",
+      "Mumche Exemption",
+      "Taking & Handing",
+      "Collateral Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna text covers all four error types including the purity rulings, but the 'Purity Rulings' section prose specifically introduces the mishna's tima/tiher cases as a return to the mishna itself, making it the natural home for the mishna text that precedes the Gemara's analysis \u2014 while the current placement under 'Mumche Exemption' skips ahead to only the final clause.",
+      "chosen_heading": "Purity Rulings",
+      "current_heading": "Mumche Exemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Collateral Example",
+    "candidates": [
+      "Taking & Handing",
+      "Collateral Example",
+      "Mixing Grain",
+      "Mixing Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the continuous Gemara discussion about 'taking and giving with the hand' \u2014 item 1 introduces the principle of direct physical action (nasa ve-natan be-yad) and item 2 extends it to the collateral scenario \u2014 and heading 0 ('Taking & Handing') explicitly describes this entire discussion including the nasa ve-natan be-yad explanation, while heading 1 ('Collateral Example') describes only Ravina's collateral scenario in isolation, which is just the tail end of this unified passage.",
+      "chosen_heading": "Taking & Handing",
+      "current_heading": "Collateral Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Mixing Proof",
+    "candidates": [
+      "Mixing Grain",
+      "Mixing Proof",
+      "Ruling Binding?",
+      "Rabbi Tarfon Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers BOTH cases (tima et ha-tahor and tiher et ha-tamei) together, but the current placement under 'Mixing Proof' only addresses the second case, while 'Mixing Grain' introduces the first case and leads into both \u2014 however, since the passage contains both halves and candidate 0's prose explicitly covers the first case (sheretz) while candidate 1's prose covers the second (mixing), and the passage is a single unified Talmudic unit covering both, candidate 0 is where the full passage first begins to be discussed, making it the better home; yet the current placement at index 1 is also defensible since the passage concludes with the mixing scenario.",
+      "chosen_heading": "Mixing Grain",
+      "current_heading": "Mixing Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Rabbi Tarfon Story",
+    "candidates": [
+      "Ruling Binding?",
+      "Rabbi Tarfon Story",
+      "Todos Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna introducing the Rabbi Tarfon cow/womb incident, which exactly matches the 'Rabbi Tarfon Story' prose describing that very case.",
+      "chosen_heading": "Rabbi Tarfon Story",
+      "current_heading": "Rabbi Tarfon Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Todos Evidence",
+    "candidates": [
+      "Todos Evidence",
+      "Akiva Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Todos the doctor testimony itself, which is exactly what the 'Todos Evidence' section prose discusses \u2014 the surgical removal of uteruses in Alexandria proving hysterectomy is not a fatal defect.",
+      "chosen_heading": "Todos Evidence",
+      "current_heading": "Todos Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Akiva Response",
+    "candidates": [
+      "Akiva Response",
+      "Black-Letter Error"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Tarfon's self-reproach and Rabbi Akiva's response about mumche exemption, which is precisely what the 'Akiva Response' section's prose discusses.",
+      "chosen_heading": "Akiva Response",
+      "current_heading": "Akiva Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "Black-Letter Error",
+    "candidates": [
+      "Black-Letter Error",
+      "Judgment Error",
+      "Void & Exempt",
+      "Obvious Error",
+      "Both Extremes",
+      "Indirect Causation",
+      "Canonization"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question and answer about why Rabbi Akiva invoked toeh b'dvar mishna, which is precisely what the 'Black-Letter Error' section's prose describes \u2014 the principle that Rabbi Tarfon's error was an explicit mishna-level mistake, with the Gemara adding the mumche exemption as a second reason.",
+      "chosen_heading": "Black-Letter Error",
+      "current_heading": "Black-Letter Error",
+      "moved": false
+    }
+  }
+]

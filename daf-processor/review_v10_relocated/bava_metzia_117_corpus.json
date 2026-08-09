@@ -1,0 +1,429 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Tenant Alone or Shared",
+    "candidates": [
+      "Tenant Alone or Shared",
+      "Roof vs. Front Door Entry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Abba bar Memel's dilemma about whether the relocated tenant resides alone or together with the owner, which is precisely the question described in the 'Tenant Alone or Shared' prose.",
+      "chosen_heading": "Tenant Alone or Shared",
+      "current_heading": "Tenant Alone or Shared",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Roof vs. Front Door Entry",
+    "candidates": [
+      "Roof vs. Front Door Entry",
+      "Multiple Stories Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the question of whether the tenant enters by way of the doors or rooftops and the 'aliya ve-yerida' argument, which is precisely what the 'Roof vs. Front Door Entry' section's prose describes.",
+      "chosen_heading": "Roof vs. Front Door Entry",
+      "current_heading": "Roof vs. Front Door Entry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Multiple Stories Scenario",
+    "candidates": [
+      "Multiple Stories Scenario",
+      "Rabbi Yosi Position",
+      "Roof Materials Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the two-upper-stories scenario (shtei aliyot zo al gab zo) and conclude with teiku, which is precisely what the 'Multiple Stories Scenario' prose describes.",
+      "chosen_heading": "Multiple Stories Scenario",
+      "current_heading": "Multiple Stories Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Roof Materials Definition",
+    "candidates": [
+      "Rabbi Yosi Position",
+      "Roof Materials Definition",
+      "Two Owners Water Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question 'what is tikrah' and the dispute between Rabbi Yosi bar \u1e24anina and Reish Lakish about regional building materials, which is precisely what the 'Roof Materials Definition' section's prose describes.",
+      "chosen_heading": "Roof Materials Definition",
+      "current_heading": "Roof Materials Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Two Owners Water Case",
+    "candidates": [
+      "Two Owners Water Case",
+      "Rashi: Two Owners, Not LL",
+      "Bava Batra: Yosi & Rabbis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the incident of the two residents with cracked plaster and the dispute between Rabbi \u1e24iyya bar Abba and Rabbi Elai, which is exactly what the 'Two Owners Water Case' prose describes in detail.",
+      "chosen_heading": "Two Owners Water Case",
+      "current_heading": "Two Owners Water Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Bava Batra: Yosi & Rabbis",
+    "candidates": [
+      "Rashi: Two Owners, Not LL",
+      "Bava Batra: Yosi & Rabbis",
+      "Tree and Well Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly proposes and explains the parallel between Rabbi \u1e24iyya bar Abba/Rabbi Ila'i and Rabbi Yosei/Rabbis, mapping the al ha-mazik vs. al ha-nizak framework, which is precisely what the prose under 'Bava Batra: Yosi & Rabbis' describes.",
+      "chosen_heading": "Bava Batra: Yosi & Rabbis",
+      "current_heading": "Bava Batra: Yosi & Rabbis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Tree and Well Case",
+    "candidates": [
+      "Tree and Well Case",
+      "Rabbi Yosi: Own Domain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Bava Batra mishna about distancing a tree from a pit and Rabbi Yosei's ruling there, which is precisely what candidate 0's prose describes in detail as the sharp objection raised by the gemara.",
+      "chosen_heading": "Tree and Well Case",
+      "current_heading": "Tree and Well Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Rabbi Yosi: Own Domain",
+    "candidates": [
+      "Rabbi Yosi: Own Domain",
+      "Water Damage: Bava Batra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the question of what the mishna's debate (Rabbi Yosei vs. the Rabbis here) is actually about \u2014 namely the function of plaster (strengthening vs. leveling) \u2014 which is precisely what the 'Rabbi Yosi: Own Domain' prose concludes: that the amora'im's dispute parallels Bava Batra but the mishna's debate concerns something else entirely (the strength/function of the ceiling plaster).",
+      "chosen_heading": "Rabbi Yosi: Own Domain",
+      "current_heading": "Rabbi Yosi: Own Domain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Water Damage: Bava Batra",
+    "candidates": [
+      "Water Damage: Bava Batra",
+      "Plaster: Roof Strength",
+      "Rabbi Yosi: Plaster",
+      "Gemara: Smoothness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge using the 'girei dilei' principle \u2014 Rabbi Yosi's concession in cases of direct damage like arrows \u2014 which is precisely what the prose under 'Water Damage: Bava Batra' discusses as a complication to the water damage framework.",
+      "chosen_heading": "Water Damage: Bava Batra",
+      "current_heading": "Water Damage: Bava Batra",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Gemara: Smoothness",
+    "candidates": [
+      "Plaster: Roof Strength",
+      "Rabbi Yosi: Plaster",
+      "Gemara: Smoothness",
+      "Slow Water Absorption",
+      "Tanna Kamma Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explains exactly the 'de-psiki maya ve-hadar naflei' mechanism \u2014 that water stops and then falls \u2014 which is precisely what the 'Slow Water Absorption' section's prose discusses as the gemara's resolution enabling the Bava Batra framework to apply.",
+      "chosen_heading": "Slow Water Absorption",
+      "current_heading": "Gemara: Smoothness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Tanna Kamma Position",
+    "candidates": [
+      "Slow Water Absorption",
+      "Tanna Kamma Position",
+      "Rabbi Yehuda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna presenting the tanna kamma's ruling about the upper-floor owner building and residing in the ground floor until reimbursed, which is precisely what candidate 1's prose describes and analyzes.",
+      "chosen_heading": "Tanna Kamma Position",
+      "current_heading": "Tanna Kamma Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rabbi Yehuda Position",
+    "candidates": [
+      "Rabbi Yehuda Position",
+      "House Building Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehuda's direct ruling about paying rent and his alternative solution (building both stories and sitting in the house until reimbursed), which is precisely what the 'Rabbi Yehuda Position' prose discusses in detail.",
+      "chosen_heading": "Rabbi Yehuda Position",
+      "current_heading": "Rabbi Yehuda Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "House Building Benefit",
+    "candidates": [
+      "House Building Benefit",
+      "Dyer and Wool Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's introduction to the three places Rabbi Yehuda teaches the principle, with the first case being the mishna itself \u2014 exactly what the 'House Building Benefit' prose discusses.",
+      "chosen_heading": "House Building Benefit",
+      "current_heading": "House Building Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Dyer and Wool Case",
+    "candidates": [
+      "Dyer and Wool Case",
+      "Debt and Promissory Note"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna from Bava Kamma about giving wool to a dyer to dye red but he dyed black (or vice versa), with Rabbi Meir and Rabbi Yehuda's rulings \u2014 which is precisely the content discussed in the 'Dyer and Wool Case' prose.",
+      "chosen_heading": "Dyer and Wool Case",
+      "current_heading": "Dyer and Wool Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Debt and Promissory Note",
+    "candidates": [
+      "Debt and Promissory Note",
+      "Benefit-Damage Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact mishna about a debtor who repaid part of his debt and deposited the promissory note with a third party, which is precisely what the 'Debt and Promissory Note' section's prose discusses in detail.",
+      "chosen_heading": "Debt and Promissory Note",
+      "current_heading": "Debt and Promissory Note",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Benefit-Damage Principle",
+    "candidates": [
+      "Benefit-Damage Principle",
+      "Changer Has Lower Hand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yehuda's ruling in the house case being based on the blackening of walls (a concrete benefit-damage element), which directly matches the 'Benefit-Damage Principle' section's prose about shachrurita and zeh neheneh ve-zeh chaser.",
+      "chosen_heading": "Benefit-Damage Principle",
+      "current_heading": "Benefit-Damage Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Changer Has Lower Hand",
+    "candidates": [
+      "Changer Has Lower Hand",
+      "Asmachta Not Binding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the 'whoever changes is at a disadvantage' principle (kol ha-meshaneh yado al ha-tachtonah) in the context of the dyer case, which is exactly what the 'Changer Has Lower Hand' section's prose addresses.",
+      "chosen_heading": "Changer Has Lower Hand",
+      "current_heading": "Changer Has Lower Hand",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Asmachta Not Binding",
+    "candidates": [
+      "Asmachta Not Binding",
+      "Ground Floor Changes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the asmakhta doctrine and Rabbi Yehuda's ruling that it does not effect acquisition, which is precisely what the 'Asmachta Not Binding' section's prose addresses.",
+      "chosen_heading": "Asmachta Not Binding",
+      "current_heading": "Asmachta Not Binding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Ground Floor Changes",
+    "candidates": [
+      "Ground Floor Changes",
+      "Second Floor Changes",
+      "Structural Change Rules",
+      "Rabbi Noson Ratio"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Ground Floor Changes",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 detail the ground-floor owner's permitted and forbidden structural changes, matching exactly the 'Ground Floor Changes' prose discussion of tachton ba li-shanot.",
+      "second_heading": "Second Floor Changes",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 detail the upper-floor owner's modifications running in the opposite direction, matching exactly the 'Second Floor Changes' prose discussion of elyon's permitted and forbidden changes.",
+      "current_heading": "Ground Floor Changes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Rabbi Noson Ratio",
+    "candidates": [
+      "Second Floor Changes",
+      "Structural Change Rules",
+      "Rabbi Noson Ratio",
+      "Rabbis Ratio",
+      "Rava's Conclusion",
+      "Impact on Property Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage addresses the case where neither party has money to rebuild and the resulting land rights \u2014 exactly what the 'Rabbi Noson Ratio' prose introduces as the setup before presenting the baraita dispute.",
+      "chosen_heading": "Rabbi Noson Ratio",
+      "current_heading": "Rabbi Noson Ratio",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Impact on Property Rights",
+    "candidates": [
+      "Rabbis Ratio",
+      "Rava's Conclusion",
+      "Impact on Property Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Natan's opinion (two shares/one-third) and the Rabbis' opinion (three shares/one-quarter) plus Rabba's endorsement of Rabbi Natan, and candidate 0 ('Rabbis Ratio') is the section that discusses both competing opinions together, while candidate 1 discusses only Rava's conclusion and candidate 2 discusses Rashi/Tosafot's later analysis \u2014 the full baraita including Rabba's ruling fits best under the section presenting both opinions.",
+      "chosen_heading": "Rabbis Ratio",
+      "current_heading": "Impact on Property Rights",
+      "moved": true
+    }
+  }
+]

@@ -30,7 +30,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Unpacking the Braitah: Seven Applications vs. Four Applications",
@@ -63,7 +63,7 @@
           "timestamp": "06:06"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -173,7 +173,7 @@
           "timestamp": "35:00"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -226,7 +226,7 @@
           "timestamp": "50:28"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 19,
       "matched": true
     }
   ],
@@ -658,5 +658,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "25:47",
+  "amud_b_micro_title": "Rav Nachman Answer",
+  "shiur_start_daf": 40,
+  "shiur_start_amud": "a"
 }

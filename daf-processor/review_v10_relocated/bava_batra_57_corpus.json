@@ -1,0 +1,293 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Signature Testimony",
+    "candidates": [
+      "Three Witness Groups",
+      "Signature Testimony",
+      "Ravina's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the specific case of a document with two signatories where one died and the brother of the surviving witness came with another person to testify to the deceased's signature \u2014 exactly the scenario that Heading 1 ('Signature Testimony') introduces and explains in its prose.",
+      "chosen_heading": "Signature Testimony",
+      "current_heading": "Signature Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Ravina's Position",
+    "candidates": [
+      "Ravina's Position",
+      "Rav Ashi Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ravina's initial position comparing this case to the mishna of three brothers with a fourth joining, which matches exactly the content described in candidate 0's prose about Ravina's reasoning.",
+      "chosen_heading": "Ravina's Position",
+      "current_heading": "Ravina's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rav Ashi Rejects",
+    "candidates": [
+      "Rav Ashi Rejects",
+      "Tosafot's Solution",
+      "Rashbam's Reading",
+      "Temporary Uses",
+      "Permanent Changes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's objection comparing the two cases based on how much of the property/testimony is removed on the basis of brothers, which is precisely what the 'Rav Ashi Rejects' section's prose describes.",
+      "chosen_heading": "Rav Ashi Rejects",
+      "current_heading": "Rav Ashi Rejects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Permanent Changes",
+    "candidates": [
+      "Tosafot's Solution",
+      "Rashbam's Reading",
+      "Temporary Uses",
+      "Permanent Changes",
+      "Ula's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself ('elu devarim she-yesh lahem chazakah...') which the Rashbam's Reading section explicitly introduces and frames, saying 'We now turn to the next mishna: elu devarim she-yesh lahem chazakah ve-elu devarim she-ein lahem chazakah' \u2014 making it the natural home for the full mishna text before it is broken down in subsequent sections.",
+      "chosen_heading": "Rashbam's Reading",
+      "current_heading": "Permanent Changes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Ula's Position",
+    "candidates": [
+      "Permanent Changes",
+      "Ula's Position",
+      "Rav Sheshes Refutes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form Ulla's answer to the gemara's question about the difference between the two clauses of the mishna, which is precisely what the prose under 'Ula's Position' describes.",
+      "chosen_heading": "Ula's Position",
+      "current_heading": "Ula's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rav Sheshes Refutes",
+    "candidates": [
+      "Rav Sheshes Refutes",
+      "Chatzer Shutafim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Sheshet's objection with his two counterexamples (plowing and consuming produce), which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Rav Sheshes Refutes",
+      "current_heading": "Rav Sheshes Refutes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Chatzer Shutafim",
+    "candidates": [
+      "Chatzer Shutafim",
+      "Mekpid Principle",
+      "Neder Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Na\u1e25man's statement in the name of Rabba bar Avuha about the chatzer ha-shutfim, which is precisely what heading 0 ('Chatzer Shutafim') describes in its prose.",
+      "chosen_heading": "Chatzer Shutafim",
+      "current_heading": "Chatzer Shutafim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Neder Proof",
+    "candidates": [
+      "Mekpid Principle",
+      "Neder Proof",
+      "Leniency Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the challenge from the Nedarim mishna and its resolution (Rav Na\u1e25man's reframing as a back-courtyard), which is precisely the content described in the 'Neder Proof' prose section.",
+      "chosen_heading": "Neder Proof",
+      "current_heading": "Neder Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Leniency Argument",
+    "candidates": [
+      "Leniency Argument",
+      "Ravina Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Pappa's resolution distinguishing monetary leniency from issur stringency in a chatzer shutafim context, which is precisely what the 'Leniency Argument' prose section discusses in detail.",
+      "chosen_heading": "Leniency Argument",
+      "current_heading": "Leniency Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Ravina Alternative",
+    "candidates": [
+      "Ravina Alternative",
+      "Rav Yochanan",
+      "Tzniut Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's statement about partners not being particular and attributing the neder ruling to Rabbi Eliezer, which is precisely what the 'Ravina Alternative' section's prose discusses in detail.",
+      "chosen_heading": "Ravina Alternative",
+      "current_heading": "Ravina Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Tzniut Reason",
+    "candidates": [
+      "Rav Yochanan",
+      "Tzniut Reason",
+      "Averting Eyes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the rule that partners may prevent each other from courtyard use except for laundry, which is the core content discussed in the 'Rav Yochanan' section's prose, not the tzniut reasoning section which discusses the explanation/reason behind the exception.",
+      "chosen_heading": "Rav Yochanan",
+      "current_heading": "Tzniut Reason",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Averting Eyes",
+    "candidates": [
+      "Tzniut Reason",
+      "Averting Eyes",
+      "Dress Standards",
+      "Tunic & Talit",
+      "Scholar's Table"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the praiseworthy act of averting one's eyes from women doing laundry, which is precisely what the 'Averting Eyes' section prose describes in detail, including the exact same Gemara questions and resolutions about alternative routes and compelling oneself.",
+      "chosen_heading": "Averting Eyes",
+      "current_heading": "Averting Eyes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Scholar's Table",
+    "candidates": [
+      "Dress Standards",
+      "Tunic & Talit",
+      "Scholar's Table",
+      "Ignorant Person's Table"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items discuss the scholar's table arrangement and the ring placement contradiction/resolution, which is precisely what the 'Scholar's Table' section prose describes in detail.",
+      "chosen_heading": "Scholar's Table",
+      "current_heading": "Scholar's Table",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Ignorant Person's Table",
+    "candidates": [
+      "Ignorant Person's Table",
+      "Beds & Storage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the table of an am ha-aretz resembling a bonfire with pots surrounding it, which is precisely what the 'Ignorant Person's Table' prose discusses.",
+      "chosen_heading": "Ignorant Person's Table",
+      "current_heading": "Ignorant Person's Table",
+      "moved": false
+    }
+  }
+]

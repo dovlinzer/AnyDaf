@@ -135,7 +135,7 @@
           "timestamp": "30:10"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -198,7 +198,7 @@
           "timestamp": "45:01"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 24,
       "matched": true
     },
     {
@@ -222,7 +222,7 @@
           "timestamp": "51:03"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 26,
       "matched": true
     },
     {
@@ -1151,5 +1151,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "34:27",
+  "amud_b_micro_title": "Walls Visible",
+  "shiur_start_daf": 89,
+  "shiur_start_amud": "a"
 }

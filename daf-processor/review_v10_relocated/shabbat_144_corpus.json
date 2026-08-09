@@ -1,0 +1,347 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Yehuda Concedes",
+    "candidates": [
+      "Barrel Breaking",
+      "Fruit Squeezing",
+      "Three Categories",
+      "Frequency vs Status",
+      "Oil & Wine Status",
+      "Yehuda Concedes",
+      "Baraita Permission",
+      "Pomegranate Status",
+      "D'Oraisa vs Rabbanan",
+      "Rational Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the Gemara passage described in 'Yehuda Concedes' \u2014 the question of how we know the Rabbis concede to Rabbi Yehuda for other fruits, followed by the baraita answer about plums/quinces/crabapples and the pomegranate exception \u2014 which is precisely what that section's prose describes.",
+      "chosen_heading": "Yehuda Concedes",
+      "current_heading": "Yehuda Concedes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Rational Proof",
+    "candidates": [
+      "Baraita Permission",
+      "Pomegranate Status",
+      "D'Oraisa vs Rabbanan",
+      "Rational Proof",
+      "Rav Nachman Ruling",
+      "Rava's Challenge",
+      "Braita Author",
+      "One Person Rule",
+      "Thornbush Precedent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rational Proof",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's logical proof that the baraita reflects the Rabbis' opinion, matching heading 3 ('Rational Proof') which explicitly discusses the Rabbi Yehuda challenge and the keivan d'lav b'nei sechita reasoning.",
+      "second_heading": "Rav Nachman Ruling",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 concern Rav Nachman's ruling about the house of Menashya bar Mena\u1e25em and Rava's immediate challenge to it, matching heading 4 ('Rav Nachman Ruling') which introduces exactly that ruling as its topic.",
+      "current_heading": "Rational Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Thornbush Precedent",
+    "candidates": [
+      "Rav Nachman Ruling",
+      "Rava's Challenge",
+      "Braita Author",
+      "One Person Rule",
+      "Thornbush Precedent",
+      "Arabia Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the thornbush/vineyard mishna and Rabbi Chanina's explanation of Rabbi Eliezer's reasoning based on Arabian practice, which is exactly what the 'Thornbush Precedent' section's prose describes.",
+      "chosen_heading": "Thornbush Precedent",
+      "current_heading": "Thornbush Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Arabia Example",
+    "candidates": [
+      "Arabia Example",
+      "Region Significance",
+      "Importing Fruit",
+      "Most Fruits D'Rabbanan",
+      "Lemon Squeezing",
+      "Libun & Sechita",
+      "Wine vs Others",
+      "Spill Wiping",
+      "Beet Juice Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection comparing Arabia (a place/region) to an individual's practice, which is exactly what the 'Arabia Example' section's prose describes \u2014 the midi irya objection that Arabia is an entire land versus one individual.",
+      "chosen_heading": "Arabia Example",
+      "current_heading": "Arabia Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Beet Juice Case",
+    "candidates": [
+      "Region Significance",
+      "Importing Fruit",
+      "Most Fruits D'Rabbanan",
+      "Lemon Squeezing",
+      "Libun & Sechita",
+      "Wine vs Others",
+      "Spill Wiping",
+      "Beet Juice Case",
+      "Beet Status",
+      "Significance Theory",
+      "Rav Papa Answer",
+      "Mikvah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24isda's statement about beet juice invalidating a mikvah, which is precisely what the 'Beet Juice Case' section's prose introduces and discusses.",
+      "chosen_heading": "Beet Juice Case",
+      "current_heading": "Beet Juice Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Mikvah Rule",
+    "candidates": [
+      "Beet Status",
+      "Significance Theory",
+      "Rav Papa Answer",
+      "Mikvah Rule",
+      "Wine & Vinegar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's statement rejecting the mashkeh requirement, which is precisely what the 'Rav Papa Answer' prose describes \u2014 his rejection of the premise that formal mashkeh status is needed to invalidate a mikvah.",
+      "chosen_heading": "Rav Papa Answer",
+      "current_heading": "Mikvah Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Wine & Vinegar",
+    "candidates": [
+      "Mikvah Rule",
+      "Wine & Vinegar",
+      "Mochal Question",
+      "Abaye Position",
+      "Initial Juice",
+      "Shimon Disagrees",
+      "Three Stages",
+      "Middle Stage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about wine, vinegar, and mochal falling into a mikvah and changing its appearance, then asks who holds mochal has mashkeh status \u2014 exactly what the 'Wine & Vinegar' section prose describes.",
+      "chosen_heading": "Wine & Vinegar",
+      "current_heading": "Wine & Vinegar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Middle Stage",
+    "candidates": [
+      "Mochal Question",
+      "Abaye Position",
+      "Initial Juice",
+      "Shimon Disagrees",
+      "Three Stages",
+      "Middle Stage",
+      "Mochal Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Shimon stating that mochal is not like a liquid (mochal eino k'mashkeh), which directly matches the 'Shimon Disagrees' section prose describing exactly this position, rather than the 'Middle Stage' section which discusses the three-stage framework.",
+      "chosen_heading": "Shimon Disagrees",
+      "current_heading": "Middle Stage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Mochal Debate",
+    "candidates": [
+      "Middle Stage",
+      "Mochal Debate",
+      "Pot vs Bowl",
+      "Liquid to Food",
+      "Absorption Cases",
+      "Intent Cases",
+      "Empty Pot",
+      "Goat Milking",
+      "Tosafot Limit",
+      "Edible Source",
+      "Unripe Fruit",
+      "Liquid to Food",
+      "Zav Milking",
+      "Milk Paradox"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mochal Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 completes the Mochal Debate section: it gives the practical difference between Rabbi Yaakov and Rabbi Shimon (the middle/post-pressing stage) and Rava's alternative reason for mikvah invalidation \u2014 exactly what the 'Mochal Debate' prose describes.",
+      "second_heading": "Pot vs Bowl",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces Rav Yehuda/Shmuel's ruling about squeezing grapes into a pot vs. bowl, which is the opening case discussed in the 'Pot vs Bowl' prose section.",
+      "current_heading": "Mochal Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Milk Paradox",
+    "candidates": [
+      "Pot vs Bowl",
+      "Liquid to Food",
+      "Absorption Cases",
+      "Intent Cases",
+      "Empty Pot",
+      "Goat Milking",
+      "Tosafot Limit",
+      "Edible Source",
+      "Unripe Fruit",
+      "Liquid to Food",
+      "Zav Milking",
+      "Milk Paradox",
+      "Initial Drop"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage presents Rami bar \u1e24ama's objection about a zav milking a goat and the question of how the milk became susceptible to tumah, which is precisely what the 'Zav Milking' section's prose describes as the tension Rami Bar Chama raises against the mashkeh haba le'ochel principle.",
+      "chosen_heading": "Zav Milking",
+      "current_heading": "Milk Paradox",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Initial Drop",
+    "candidates": [
+      "Milk Paradox",
+      "Initial Drop",
+      "Impure Squeezing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yo\u1e25anan's teaching about the drop smeared on the top of the teat, which is precisely what the 'Initial Drop' section's prose describes and explains.",
+      "chosen_heading": "Initial Drop",
+      "current_heading": "Initial Drop",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Impure Squeezing",
+    "candidates": [
+      "Impure Squeezing",
+      "Juice Tumah",
+      "Bowl Squeezing",
+      "Grape Gloss",
+      "Not Susceptible",
+      "Yehuda Susceptible",
+      "Destroyed Liquid",
+      "Evaporation Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Ravina's objection and self-resolution about the tamei met squeezing olives/grapes, which is precisely what heading 0 ('Impure Squeezing') describes, and the current placement is correct.",
+      "chosen_heading": "Impure Squeezing",
+      "current_heading": "Impure Squeezing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146,
+      147
+    ],
+    "current_heading": "Evaporation Status",
+    "candidates": [
+      "Juice Tumah",
+      "Bowl Squeezing",
+      "Grape Gloss",
+      "Not Susceptible",
+      "Yehuda Susceptible",
+      "Destroyed Liquid",
+      "Evaporation Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All three items together form the continuous Gemara unit beginning with Rabbi Yirmiyah's tannaitic parallel (grape smoothing dispute) and Rav Papa's reframing of it as a dispute about liquid being destroyed/evaporated, with the supporting baraita about olives \u2014 exactly the content described under 'Evaporation Status' where Rav Papa clarifies the dispute is about mashkeh al ibud.",
+      "chosen_heading": "Evaporation Status",
+      "current_heading": "Evaporation Status",
+      "moved": false
+    }
+  }
+]

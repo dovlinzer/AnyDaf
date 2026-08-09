@@ -1,0 +1,247 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Why Four Brothers?",
+    "candidates": [
+      "Mishnah Setup",
+      "Why Four Brothers?",
+      "Zika Strength vs Mitzvah",
+      "One Death Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly invokes 'lo mibaya ka'mar' to explain why the three-brother case is obvious and the four-brother case is the chidush regarding death concern, which matches exactly the prose of 'Zika Strength vs Mitzvah' rather than 'Why Four Brothers?' which only poses the question.",
+      "chosen_heading": "Zika Strength vs Mitzvah",
+      "current_heading": "Why Four Brothers?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "One Death Fear",
+    "candidates": [
+      "Zika Strength vs Mitzvah",
+      "One Death Fear",
+      "Three Sisters Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the five-brother challenge and the 'lemisa detrei lo chashinan' answer that candidate 1's prose explicitly describes as its content.",
+      "chosen_heading": "One Death Fear",
+      "current_heading": "One Death Fear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Three Sisters Setup",
+    "candidates": [
+      "Three Sisters Setup",
+      "Distribution Pattern",
+      "Sequential Deaths",
+      "Chalitzah Pesulah",
+      "Defining Pesulah",
+      "Tosafos Refinement",
+      "Examples of Weakening",
+      "Multiple Chalitzos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present Rav's ruling about the distribution of chalitzah among three sisters and two brothers (the 'middle one needs chalitzah from both'), followed by Rabba's challenge invoking chalitzah pesulah and the Gemara's counter-question \u2014 this is precisely the content described in candidate 1 ('Distribution Pattern'), which discusses the ruling that one brother performs chalitzah with the first sister, the other with the second, and the middle one requires chalitzah from both brothers.",
+      "chosen_heading": "Distribution Pattern",
+      "current_heading": "Three Sisters Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Multiple Chalitzos",
+    "candidates": [
+      "Distribution Pattern",
+      "Sequential Deaths",
+      "Chalitzah Pesulah",
+      "Defining Pesulah",
+      "Tosafos Refinement",
+      "Examples of Weakening",
+      "Multiple Chalitzos",
+      "Rav Position",
+      "Shmuel Position",
+      "Achos vs Tzaros"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1-3 describe the sequential (*zu achar zu*) scenario where one sister falls at a time and each brother performs *chalitzah* in turn, which precisely matches the 'Sequential Deaths' prose discussing *denafelu zu achar zu* and Reuven/Shimon (Yissachar/Zevulun) performing *chalitzah* sequentially; item 4 addresses Rav's *ein zika* position which that same prose section anticipates, making candidate 1 the best fit for the whole passage.",
+      "chosen_heading": "Sequential Deaths",
+      "current_heading": "Multiple Chalitzos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Achos vs Tzaros",
+    "candidates": [
+      "Rav Position",
+      "Shmuel Position",
+      "Achos vs Tzaros",
+      "Shmuel's Logic",
+      "Co-wives Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit responding to the objection that Shmuel \u2014 who holds chalitzah ma'alya ba'inan \u2014 should not permit a weaker chalitzah when a stronger one (from Shimon) is available, which is precisely what candidate 3 ('Shmuel's Logic') describes as the Gemara's objection and resolution.",
+      "chosen_heading": "Shmuel's Logic",
+      "current_heading": "Achos vs Tzaros",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Co-wives Setup",
+    "candidates": [
+      "Shmuel's Logic",
+      "Co-wives Setup",
+      "Pesulah Doesn't Free",
+      "First-Rate Required",
+      "Strength Weakens",
+      "Challenge to Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's ruling that chalitzah with the sisters (weaker) does not free the co-wives, while chalitzah with the co-wives (stronger) frees the sisters, and similarly for the bill-of-divorce case \u2014 establishing precisely the principle that a second-rate chalitzah cannot free a co-wife, which is what 'Pesulah Doesn't Free' discusses.",
+      "chosen_heading": "Pesulah Doesn't Free",
+      "current_heading": "Co-wives Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Challenge to Order",
+    "candidates": [
+      "Pesulah Doesn't Free",
+      "First-Rate Required",
+      "Strength Weakens",
+      "Challenge to Order",
+      "Beginning vs Ending",
+      "Begin Sisters",
+      "Begin Co-wives",
+      "Rav Ashi",
+      "Zika Insufficient"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Strength Weakens",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 describes the ma'amar case which fits the 'Strength Weakens' discussion of how strengthening the zika via ma'amar produces a chalitzah pesulah.",
+      "second_heading": "Challenge to Order",
+      "second_confidence": "high",
+      "second_reason": "Items 2-7 form the continuous challenge-response chain about Shmuel's ein zika position and the hitchil/lo hitchil resolution, which is exactly what 'Challenge to Order' describes.",
+      "current_heading": "Challenge to Order",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Zika Insufficient",
+    "candidates": [
+      "Beginning vs Ending",
+      "Begin Sisters",
+      "Begin Co-wives",
+      "Rav Ashi",
+      "Zika Insufficient",
+      "Co-wife Better",
+      "Mishna Alignment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement itself, which belongs under the 'Rav Ashi' heading that introduces his intervention, rather than under 'Zika Insufficient' which describes the elaborated consequences of his principle.",
+      "chosen_heading": "Rav Ashi",
+      "current_heading": "Zika Insufficient",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Mishna Alignment",
+    "candidates": [
+      "Co-wife Better",
+      "Mishna Alignment",
+      "Beis Shammai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita confirming Rav Ashi's position, and the 'Mishna Alignment' prose explicitly describes this exact baraita and its content about chalitzah with sisters vs. co-wives and the yesh zika reasoning.",
+      "chosen_heading": "Mishna Alignment",
+      "current_heading": "Mishna Alignment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Beis Shammai",
+    "candidates": [
+      "Beis Shammai",
+      "Objection",
+      "Compromise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Abba bar Memel's proposal that the baraita follows Beit Shammai and the immediate objection within the same Talmudic exchange, but the prose under heading 0 ('Beis Shammai') describes exactly this content \u2014 Rabbi Abba bar Mamul's alternative account attributing Shmuel's ruling to Beis Shammai \u2014 while the objection portion is only the tail end of this single Gemara unit, and the current placement matches the primary content of the passage.",
+      "chosen_heading": "Beis Shammai",
+      "current_heading": "Beis Shammai",
+      "moved": false
+    }
+  }
+]

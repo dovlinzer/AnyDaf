@@ -1,0 +1,325 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Private Maris Ayin",
+    "candidates": [
+      "Courtyard Permission",
+      "Pragmatic Leniency",
+      "Contextual Maris Ayin",
+      "Takana Permanence",
+      "Private Maris Ayin",
+      "Bell Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda's statement about maris ayin prohibitions applying even in private chambers, which is precisely what the 'Private Maris Ayin' section's prose introduces and discusses.",
+      "chosen_heading": "Private Maris Ayin",
+      "current_heading": "Private Maris Ayin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Bell Contradiction",
+    "candidates": [
+      "Bell Contradiction",
+      "Tannaim Debate",
+      "Wet Laundry Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the bell contradiction (mishna prohibiting a bell even when plugged, vs. baraita permitting it in the courtyard), which is exactly what the 'Bell Contradiction' section's prose describes.",
+      "chosen_heading": "Bell Contradiction",
+      "current_heading": "Bell Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Wet Laundry Case",
+    "candidates": [
+      "Tannaim Debate",
+      "Wet Laundry Case",
+      "Unresolved Status",
+      "D'oraisa vs D'rabbanan",
+      "Sensibility Concern",
+      "Coffee Rich Example",
+      "Ear Pad",
+      "Heel Pad",
+      "Menstrual Pad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's answer that the question is a tannaitic dispute, followed by the baraita about wet laundry \u2014 which is precisely what heading 0 ('Tannaim Debate') describes, while heading 1 ('Wet Laundry Case') discusses the implications of that baraita rather than its introduction.",
+      "chosen_heading": "Tannaim Debate",
+      "current_heading": "Wet Laundry Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Menstrual Pad",
+    "candidates": [
+      "Unresolved Status",
+      "D'oraisa vs D'rabbanan",
+      "Sensibility Concern",
+      "Coffee Rich Example",
+      "Ear Pad",
+      "Heel Pad",
+      "Menstrual Pad",
+      "Rabbi Yochanan Case",
+      "Rabbi Yannai Case",
+      "Rava's Leniency",
+      "Pad with Handle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ear Pad",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 concern the ear pad and sandal pad cases with Rami bar Yechezkel's requirement that each be tied, matching exactly the prose of headings 4 ('Ear Pad') and 5 ('Heel Pad') \u2014 but since they must go under one heading and heading 4 covers both the ear case and heading 5 the sandal case, the structural seam between items 1-2 and item 3 is real: items 1-2 are the ear/sandal cases while item 3 is the distinct menstrual pad case with a different disputant (Rami bar \u1e24ama vs. Rava) and a different rationale.",
+      "second_heading": "Menstrual Pad",
+      "second_confidence": "high",
+      "second_reason": "Item 3 concerns the menstrual pad, Rami bar \u1e24ama's proposed requirement to tie it between the thighs, and Rava's rebuttal based on the pad being repulsive \u2014 exactly what heading 6 ('Menstrual Pad') and heading 9 ('Rava's Leniency') describe, with heading 6 being the current placement and the natural home for this opening of the menstrual-pad discussion.",
+      "current_heading": "Menstrual Pad",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Pad with Handle",
+    "candidates": [
+      "Rabbi Yochanan Case",
+      "Rabbi Yannai Case",
+      "Rava's Leniency",
+      "Pad with Handle",
+      "Pepper & Salt"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pad with Handle",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the handgrip/handle question posed to Rabbi Abba and confirmed by Rav Nachman bar Oshaya in Rabbi Yochanan's name, which is precisely what the 'Pad with Handle' prose describes.",
+      "second_heading": "Rabbi Yochanan Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes Rabbi Yochanan going out with an ear wad to the study hall and the disagreement of his colleagues, along with the Rami bar Yechezkel baraita and the tight/loose distinction, which is exactly what the 'Rabbi Yochanan Case' prose covers.",
+      "current_heading": "Pad with Handle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Pepper & Salt",
+    "candidates": [
+      "Pepper & Salt",
+      "Spices",
+      "Gold Tooth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses pepper for breath odor and salt for toothache, which matches exactly the 'Pepper & Salt' section's prose, and the ginger/cinnamon mention at the end is just the tail of that same Gemara discussion that the section already covers.",
+      "chosen_heading": "Pepper & Salt",
+      "current_heading": "Pepper & Salt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Gold Tooth",
+    "candidates": [
+      "Spices",
+      "Gold Tooth",
+      "Silver vs Gold",
+      "Embarrassment Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the Mishna's dispute about a gold tooth and Rabbi Zeira's clarification that a silver tooth is unanimously permitted, which matches the 'Gold Tooth' section's prose about the false tooth dispute and the silver/gold distinction.",
+      "chosen_heading": "Gold Tooth",
+      "current_heading": "Gold Tooth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Embarrassment Principle",
+    "candidates": [
+      "Silver vs Gold",
+      "Embarrassment Principle",
+      "Coin Wound"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present Abaye's synthesis of the shared principle (kol midi d'miganya bah) and the supporting opinions of Rabbi Eliezer and Rabbi Shimon ben Elazar, which is precisely what the 'Embarrassment Principle' prose describes.",
+      "chosen_heading": "Embarrassment Principle",
+      "current_heading": "Embarrassment Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Coin Wound",
+    "candidates": [
+      "Coin Wound",
+      "Ear Strings",
+      "Wearing vs Carrying",
+      "Cultural Dress",
+      "Universal Norm",
+      "Stone/Nut Fastener",
+      "Colorful Strings Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mishna about the sela on the tzinit wound, the Gemara identifying tzinit as a wound on the sole of the foot, and Abaye's analysis of why specifically a coin is used \u2014 are precisely the content described in the 'Coin Wound' prose section.",
+      "chosen_heading": "Coin Wound",
+      "current_heading": "Coin Wound",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Colorful Strings Risk",
+    "candidates": [
+      "Ear Strings",
+      "Wearing vs Carrying",
+      "Cultural Dress",
+      "Universal Norm",
+      "Stone/Nut Fastener",
+      "Colorful Strings Risk",
+      "Sleeping Separation",
+      "Arousal Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items directly concern Shmuel's father's prohibition on his daughters going out with strings and the Gemara's explanation that their strings were colorful (tzivonin), which is precisely what the 'Colorful Strings Risk' prose section discusses.",
+      "chosen_heading": "Colorful Strings Risk",
+      "current_heading": "Colorful Strings Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Arousal Concern",
+    "candidates": [
+      "Sleeping Separation",
+      "Arousal Concern",
+      "Spring Mikvah",
+      "Rainwater Majority",
+      "Underground Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous unit: the Gemara's suggestion that Shmuel's father's sleeping-separation practice supports Rav Huna's ruling (items 1\u20132), followed by the rejection of that inference (item 3) \u2014 exactly what candidate 0's prose describes as the Gemara 'initially considering whether this reflects support for the position of Rav Huna,' before the discussion moves to the formal analysis of Rav Huna's ruling itself in candidate 1.",
+      "chosen_heading": "Sleeping Separation",
+      "current_heading": "Arousal Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Underground Water",
+    "candidates": [
+      "Spring Mikvah",
+      "Rainwater Majority",
+      "Underground Water",
+      "Mayim Chayim",
+      "Autumn Mats",
+      "Coin Muktzah",
+      "Nut Trick",
+      "No Emergency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the spring mikvah concern \u2014 Rav's statement about Euphrates rising due to rain, Shmuel's father's concern about rainwater majority making the flowing river invalid, and Shmuel's disagreement plus self-contradiction \u2014 all of which are elaborations on the rainwater majority problem that heading 1 ('Rainwater Majority') specifically addresses, rather than the underground water principle that heading 2 ('Underground Water') focuses on.",
+      "chosen_heading": "Rainwater Majority",
+      "current_heading": "Underground Water",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "current_heading": "No Emergency",
+    "candidates": [
+      "Mayim Chayim",
+      "Autumn Mats",
+      "Coin Muktzah",
+      "Nut Trick",
+      "No Emergency"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Coin Muktzah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about Abaye explaining the seifa of the mishnah regarding the coin (muktzah), which matches the 'Coin Muktzah' prose exactly.",
+      "second_heading": "Nut Trick",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 present Abaye's dilemma about the nut ruse and the fire-emergency analysis, which matches the 'Nut Trick' and 'No Emergency' sections \u2014 and since all five items of the nut-ruse discussion (items 2-5) form one continuous unit, they belong under 'Nut Trick' as the opening heading of that discussion.",
+      "current_heading": "No Emergency",
+      "moved": true
+    }
+  }
+]

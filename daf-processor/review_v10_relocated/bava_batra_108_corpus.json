@@ -1,0 +1,199 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Animal Prevention",
+    "candidates": [
+      "Boundary Ditches",
+      "Measurements",
+      "Animal Prevention",
+      "Seller Obligation",
+      "Irrigation Use",
+      "Inheritance Model",
+      "Nachala Etymology",
+      "Mitzvot Count",
+      "Modern Wills",
+      "Four Categories",
+      "Father-Son Case",
+      "Mother Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita about the charitz and ben charitz \u2014 their placement relative to the fence and the rationale for needing both ditches \u2014 which is precisely what the 'Boundary Ditches' prose describes, including the tana statement about charitz mibachutz u-ven charitz mibifnim and their positioning behind the geder.",
+      "chosen_heading": "Boundary Ditches",
+      "current_heading": "Animal Prevention",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Mother Cases",
+    "candidates": [
+      "Seller Obligation",
+      "Irrigation Use",
+      "Inheritance Model",
+      "Nachala Etymology",
+      "Mitzvot Count",
+      "Modern Wills",
+      "Four Categories",
+      "Father-Son Case",
+      "Mother Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage '\u05d4\u05d3\u05e8\u05df \u05e2\u05dc\u05da \u05d1\u05d9\u05ea \u05db\u05d5\u05e8' is the formal conclusion formula for tractate/chapter Beit Kor, and the prose under 'Inheritance Model' explicitly states 'we can say hadran alach Beit Kor and turn to Perek Yesh Nochlin,' making it the clear home for this closing formula.",
+      "chosen_heading": "Inheritance Model",
+      "current_heading": "Mother Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Mother Cases",
+    "candidates": [
+      "Mother Cases",
+      "Maternal Brothers",
+      "Why Order",
+      "Tragic First?",
+      "Derasha vs Tragic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Why Order",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is the opening Mishna of Masechet Bava Batra's inheritance chapter, introducing the four-way framework of inherit/bequeath \u2014 a self-contained structural unit that precedes the gemara's analysis; candidate 2 ('Why Order') begins the gemara's engagement with this mishna's structure, making it the best available home for the mishna itself as a lead-in.",
+      "second_heading": "Mother Cases",
+      "second_confidence": "high",
+      "second_reason": "Item 2 lists all four categories with their specific examples (father/sons, man/mother, woman/sons, maternal brothers), and candidate 0 ('Mother Cases') prose explicitly discusses these same category listings \u2014 ha-ishah et baneha, ha-ish et imo, bnei achayot \u2014 in detail, making it the clearly correct home for this elaborating mishna text.",
+      "current_heading": "Mother Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Derasha vs Tragic",
+    "candidates": [
+      "Maternal Brothers",
+      "Why Order",
+      "Tragic First?",
+      "Derasha vs Tragic",
+      "Father Priority",
+      "Closest First",
+      "Script Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together form the gemara's discussion of why the mishnah lists father-before-sons: item 1 raises the question and gives the 'poreanuta' answer, item 2 adds the 've-od' argument from the pasuk, and item 3 resolves the tension between the drasha-derived case and the poreanuta principle \u2014 exactly what heading 3 ('Derasha vs Tragic') describes.",
+      "chosen_heading": "Derasha vs Tragic",
+      "current_heading": "Derasha vs Tragic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Script Sources",
+    "candidates": [
+      "Father Priority",
+      "Closest First",
+      "Script Sources",
+      "Relative Distance",
+      "Role Filling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the father-precedes-brothers teaching (she'ero \u2014 zeh ha-av) and the closer-relative principle (hakorov \u2014 korov korov kodem), but candidate 0 ('Father Priority') explicitly discusses this exact baraita \u2014 de-tanya: she'ero \u2014 zeh ha-av \u2014 and the teaching that the father precedes brothers, making it the primary home for this passage; candidate 1 covers only the derivative principle, while the current placement (candidate 2) is clearly wrong.",
+      "chosen_heading": "Father Priority",
+      "current_heading": "Script Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Role Filling",
+    "candidates": [
+      "Relative Distance",
+      "Role Filling",
+      "Brother Yibum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the gemara's answer about the son standing in his father's place for ye'udah and sdei achuza, which is precisely what the 'Role Filling' section's prose discusses.",
+      "chosen_heading": "Role Filling",
+      "current_heading": "Role Filling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Brother Yibum",
+    "candidates": [
+      "Brother Yibum",
+      "Yibum Limitation",
+      "Two Against One"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Brother Yibum",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the brother/yibbum argument and its immediate qualification (the pircha that yibbum only applies where there is no son), which matches the prose of 'Brother Yibum' and 'Yibum Limitation' \u2014 but since items 1-2 form a continuous challenge-and-refutation, they belong together under 'Yibum Limitation' (index 1), whose prose explicitly discusses both the yibbum claim and the pircha.",
+      "second_heading": "Two Against One",
+      "second_confidence": "high",
+      "second_reason": "Item 3 ('tartei vs. chada') is the two-against-one conclusion, which exactly matches the prose of 'Two Against One' (index 2).",
+      "current_heading": "Brother Yibum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Two Against One",
+    "candidates": [
+      "Yibum Limitation",
+      "Two Against One",
+      "Downhill Flow",
+      "Daughter Case",
+      "Revert to Father"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the limitation that yibbum only applies where there is no son, which is precisely what the 'Yibum Limitation' section's prose describes, not the 'Two Against One' tallying argument where it currently sits.",
+      "chosen_heading": "Yibum Limitation",
+      "current_heading": "Two Against One",
+      "moved": true
+    }
+  }
+]

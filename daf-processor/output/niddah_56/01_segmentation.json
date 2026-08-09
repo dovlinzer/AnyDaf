@@ -200,8 +200,8 @@
           "timestamp": "36:23"
         }
       ],
-      "sefaria_index": 18,
-      "matched": false
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Testing Stain Age: Laundering and Physical Appearance Analysis",
@@ -214,8 +214,8 @@
           "timestamp": "37:14"
         }
       ],
-      "sefaria_index": 18,
-      "matched": false
+      "sefaria_index": 29,
+      "matched": true
     },
     {
       "title": "Testing Stain Age: Laundering and Physical Appearance Analysis (continued)",
@@ -233,8 +233,8 @@
           "timestamp": "37:50"
         }
       ],
-      "sefaria_index": 18,
-      "matched": false
+      "sefaria_index": 30,
+      "matched": true
     },
     {
       "title": "Stains by Origin: Non-Jewish, Jewish, Samaritan Sources and Attributions",
@@ -277,8 +277,8 @@
           "timestamp": "39:41"
         }
       ],
-      "sefaria_index": 18,
-      "matched": false
+      "sefaria_index": 33,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -525,5 +525,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 23
+  "amud_b_sefaria_index": 23,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "34:02",
+  "amud_b_micro_title": "Hole Scenario",
+  "shiur_start_daf": 56,
+  "shiur_start_amud": "a"
 }

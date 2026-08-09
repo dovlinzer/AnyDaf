@@ -1,0 +1,274 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Animals/Behema",
+    "candidates": [
+      "Daf 151 Intro",
+      "Animals/Behema",
+      "Birds/Ofos",
+      "Tefillin",
+      "Sefer Torah Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both animals (behema) and birds (ofos) being called nechasim with the same mishnah citation, and the current placement under 'Animals/Behema' (index 1) is where the gemara begins this discussion, with birds being a continuation of the same unit of text that starts with behema \u2014 the prose of index 1 already discusses the full mishnah including birds.",
+      "chosen_heading": "Animals/Behema",
+      "current_heading": "Animals/Behema",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Sefer Torah Question",
+    "candidates": [
+      "Birds/Ofos",
+      "Tefillin",
+      "Sefer Torah Question",
+      "Rashbam Mitzvah Objects",
+      "Rav Zutra's Mother"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is entirely about the Sefer Torah dilemma \u2014 whether it is classified as nechasim given restrictions on selling it versus the exceptions for Torah study or marriage \u2014 concluding with teiku, which matches exactly the 'Sefer Torah Question' section's prose.",
+      "chosen_heading": "Sefer Torah Question",
+      "current_heading": "Sefer Torah Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Rav Zutra's Mother",
+    "candidates": [
+      "Rashbam Mitzvah Objects",
+      "Rav Zutra's Mother",
+      "Rav Bibi's Ruling",
+      "Rav Huna Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items introduce the mnemonic and then the case of Rav Zutra's mother writing her property to her son before remarrying, which is precisely what the 'Rav Zutra's Mother' section's prose describes.",
+      "chosen_heading": "Rav Zutra's Mother",
+      "current_heading": "Rav Zutra's Mother",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rav Huna Correction",
+    "candidates": [
+      "Rav Bibi's Ruling",
+      "Rav Huna Correction",
+      "Tosafot Analysis",
+      "Two Sons Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna brei d'Rav Yehoshua's sharp rebuke of Rav Beivai and his distinction between cases where intent is revealed versus concealed, which is precisely what the 'Rav Huna Correction' section prose describes.",
+      "chosen_heading": "Rav Huna Correction",
+      "current_heading": "Rav Huna Correction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Two Sons Case",
+    "candidates": [
+      "Tosafot Analysis",
+      "Two Sons Case",
+      "Rav Sheshet/Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Two Sons Case' prose introduces: the mother of Rami bar Chama writing her property first to Rami in the evening and then to Rav Ukva in the morning, which is the narrative this section explicitly sets up.",
+      "chosen_heading": "Two Sons Case",
+      "current_heading": "Two Sons Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rav Sheshet/Nachman",
+    "candidates": [
+      "Rav Sheshet/Nachman",
+      "Chozer B'Matanto"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rav Sheshet's challenge to Rav Nachman and Rav Nachman's initial response citing Shmuel's rule, which corresponds exactly to the 'Rav Sheshet/Nachman' section's prose describing this exchange, before the deeper elaboration of 'Chozer B'Matanto' begins.",
+      "chosen_heading": "Rav Sheshet/Nachman",
+      "current_heading": "Rav Sheshet/Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Chozer B'Matanto",
+    "candidates": [
+      "Chozer B'Matanto",
+      "Later Will Voids",
+      "Rav Amram Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the exchange between Rav Sheshet and Rav Nachman about whether Shmuel's ruling applies l'atzmo or also l'acher, which is explicitly discussed and quoted in the 'Chozer B'Matanto' prose section.",
+      "chosen_heading": "Chozer B'Matanto",
+      "current_heading": "Chozer B'Matanto",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Rav Amram Case",
+    "candidates": [
+      "Later Will Voids",
+      "Rav Amram Case",
+      "Rav Nachman Ruling",
+      "Rashbam Interpretation",
+      "Orchard Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Rav Amram case itself \u2014 his mother's deathbed declaration of the satchel of documents and the brothers' argument that no kinyan was performed \u2014 which is exactly what section 1 ('Rav Amram Case') introduces and contextualizes.",
+      "chosen_heading": "Rav Amram Case",
+      "current_heading": "Rav Amram Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Orchard Case",
+    "candidates": [
+      "Rav Nachman Ruling",
+      "Rashbam Interpretation",
+      "Orchard Case",
+      "Rav Dimi Refusal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Candidate 2's prose explicitly describes both the sister of Rav Tovi bar Rav Mattana case (item 1) and the orchard cycle of the sister of Rav Dimi bar Yosef (items 2-3), matching all three items precisely.",
+      "chosen_heading": "Orchard Case",
+      "current_heading": "Orchard Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Rav Dimi Refusal",
+    "candidates": [
+      "Rav Dimi Refusal",
+      "Alas Oy Oy Oy",
+      "Rav Nachman Ruling",
+      "Abiyi Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Rav Dimi Refusal' prose covers: Rav Nachman summoning Rav Dimi, his refusal to appear, his reasoning about the kinyan, and Rav Nachman's threat of excommunication.",
+      "chosen_heading": "Rav Dimi Refusal",
+      "current_heading": "Rav Dimi Refusal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Abiyi Clarification",
+    "candidates": [
+      "Alas Oy Oy Oy",
+      "Rav Nachman Ruling",
+      "Abiyi Clarification",
+      "Hybrid Category"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Nachman questioning witnesses about what the woman said and their report of her 'woe, that woman is dying' statement, which matches the 'Alas Oy Oy Oy' section's prose about exactly this exchange \u2014 the witnesses' report of her words and the establishment of metzaveh machmas misa \u2014 before Rav Nachman's ruling is discussed in the next section.",
+      "chosen_heading": "Alas Oy Oy Oy",
+      "current_heading": "Abiyi Clarification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Hybrid Category",
+    "candidates": [
+      "Abiyi Clarification",
+      "Hybrid Category",
+      "Rava Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the hybrid teaching attributed to Rav Nachman (harei kematnat bari/harei kematnat shchiv mera) that the 'Hybrid Category' prose describes and analyzes.",
+      "chosen_heading": "Hybrid Category",
+      "current_heading": "Hybrid Category",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Rava Correction",
+    "candidates": [
+      "Rava Correction",
+      "Summary Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct correction of a misattribution to Rav Nachman, precisely matching the 'Rava Correction' section's prose which quotes and explains this exact statement.",
+      "chosen_heading": "Rava Correction",
+      "current_heading": "Rava Correction",
+      "moved": false
+    }
+  }
+]

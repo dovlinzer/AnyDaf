@@ -145,8 +145,8 @@
           "timestamp": "61:30"
         }
       ],
-      "sefaria_index": 31,
-      "matched": true
+      "sefaria_index": 19,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -437,5 +437,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "37:12",
+  "amud_b_micro_title": "Av Toldah",
+  "shiur_start_daf": 97,
+  "shiur_start_amud": "a"
 }

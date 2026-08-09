@@ -44,7 +44,7 @@
           "timestamp": "07:44"
         }
       ],
-      "sefaria_index": 32,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -135,8 +135,8 @@
           "timestamp": "28:02"
         }
       ],
-      "sefaria_index": 9,
-      "matched": false
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Lashon Hara and the Serpent: Power of Speech in Causing Harm",
@@ -155,7 +155,7 @@
         }
       ],
       "sefaria_index": 10,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Sincerity in Prayer: Individual Versus Communal Standards",
@@ -662,5 +662,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 9,
+  "amud_b_timestamp": "43:27",
+  "amud_b_micro_title": "Atzrat HaShamayim",
+  "shiur_start_daf": 8,
+  "shiur_start_amud": "a"
 }

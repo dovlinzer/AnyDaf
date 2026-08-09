@@ -29,8 +29,8 @@
           "timestamp": "01:58"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Shechitah of Nedavah: Moving Beyond Carrying to a General Principle",
@@ -53,8 +53,8 @@
           "timestamp": "04:44"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbah's Challenge: Is the Mitoch Debate Limited to Carrying or General to All Melachos?",
@@ -149,8 +149,8 @@
           "timestamp": "20:18"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Tosafot's Nuanced Reading: Mitoch Requires Justification but Applies Broadly to Food-Related Acts",
@@ -178,7 +178,7 @@
           "timestamp": "27:21"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -202,7 +202,7 @@
           "timestamp": "34:20"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -226,7 +226,7 @@
           "timestamp": "38:34"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": false
     },
     {
@@ -303,8 +303,8 @@
           "timestamp": "52:11"
         }
       ],
-      "sefaria_index": 21,
-      "matched": true
+      "sefaria_index": 17,
+      "matched": false
     },
     {
       "title": "Halacha Ruling: Following Rabbi Yosi—Gifts Are Permitted on Yom Tov, Only Terumah Debated",
@@ -606,5 +606,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "31:01",
+  "amud_b_micro_title": "Gid Baraita",
+  "shiur_start_daf": 11,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,300 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Pashut vs. Mekushar",
+    "candidates": [
+      "Context & Connection",
+      "Pashut vs. Mekushar",
+      "Bar Kokhba & History",
+      "Mishnah: Placement Rules",
+      "R. Chanina Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the opening Mishnah of the perek distinguishing pashut (witnesses inside) from mekushar (witnesses on back), which is precisely what the 'Pashut vs. Mekushar' section's prose describes and introduces.",
+      "chosen_heading": "Pashut vs. Mekushar",
+      "current_heading": "Pashut vs. Mekushar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "R. Chanina Leniency",
+    "candidates": [
+      "Bar Kokhba & History",
+      "Mishnah: Placement Rules",
+      "R. Chanina Leniency",
+      "Rashbam: Blank Lines",
+      "Rashbam Problem",
+      "Tosafot: No Blanks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the invalidity of mismatched witness placement (pashut with witnesses on back, mekushar with witnesses inside) AND Rabbi Chanina ben Gamliel's leniency AND Rabban Shimon ben Gamliel's ruling about regional custom \u2014 all of which are explicitly discussed together in the 'Mishnah: Placement Rules' prose section, which is the better fit since it covers the full Mishnah text including all three opinions.",
+      "chosen_heading": "Mishnah: Placement Rules",
+      "current_heading": "R. Chanina Leniency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Tosafot: No Blanks",
+    "candidates": [
+      "Rashbam: Blank Lines",
+      "Rashbam Problem",
+      "Tosafot: No Blanks",
+      "First Proof: Deut.",
+      "Two Types Derived"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage about a pashut requiring two witnesses and a mekushar requiring three, and both being invalid if they fall short, is explicitly quoted and discussed in the Tosafot: No Blanks section's prose, which references exactly this Mishnah ruling.",
+      "chosen_heading": "Tosafot: No Blanks",
+      "current_heading": "Tosafot: No Blanks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Two Types Derived",
+    "candidates": [
+      "First Proof: Deut.",
+      "Two Types Derived",
+      "Second Proof: Jeremiah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's derivation of both document types and witness counts from the Jeremiah verse, plus the challenge and resolution about reversing the assignment \u2014 exactly what candidate 1 ('Two Types Derived') describes in its prose.",
+      "chosen_heading": "Two Types Derived",
+      "current_heading": "Two Types Derived",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Second Proof: Jeremiah",
+    "candidates": [
+      "Second Proof: Jeremiah",
+      "Pashut Shebim."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rafram's derivation from Jeremiah identifying the three document types, which is precisely what the 'Second Proof: Jeremiah' section's prose describes, not the extended analysis of pashut she-bi-mekushar and the distinctions covered in candidate 1.",
+      "chosen_heading": "Second Proof: Jeremiah",
+      "current_heading": "Second Proof: Jeremiah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Pashut Shebim.",
+    "candidates": [
+      "Pashut Shebim.",
+      "Third Proof: Edim",
+      "Rejection of Proofs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Pashut Shebim.",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the distinction between pashut and mekushar (two vs. three witnesses, signed inside vs. on back) and the reversal challenge with its answer \u2014 exactly what heading 0's prose describes as the content of 'keitzad' and the next proof.",
+      "second_heading": "Third Proof: Edim",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rami bar Yechezkel's independent derivation from Deuteronomy 19:15, which is precisely what heading 1 ('Third Proof: Edim') describes in its prose.",
+      "current_heading": "Pashut Shebim.",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Rejection of Proofs",
+    "candidates": [
+      "Third Proof: Edim",
+      "Rejection of Proofs",
+      "Kohanim Takana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the reversal challenge and answer about ties/witnesses, the rejection of all three proofs as serving other purposes, and the conclusion that mekushar is rabbinic with verses as mere asmachta \u2014 are precisely what the 'Rejection of Proofs' prose describes in detail, matching the current placement.",
+      "chosen_heading": "Rejection of Proofs",
+      "current_heading": "Rejection of Proofs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Kohanim Takana",
+    "candidates": [
+      "Kohanim Takana",
+      "Extension to All"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the reason for instituting the tied get (mekushar) due to quick-tempered kohanim, which is precisely what the 'Kohanim Takana' section's prose describes.",
+      "chosen_heading": "Kohanim Takana",
+      "current_heading": "Kohanim Takana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Extension to All",
+    "candidates": [
+      "Extension to All",
+      "Rav Huna: Folds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the extension of the procedure from gittin to all documents, which is exactly what the 'Extension to All' section's prose addresses.",
+      "chosen_heading": "Extension to All",
+      "current_heading": "Extension to All",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rav Huna: Folds",
+    "candidates": [
+      "Rav Huna: Folds",
+      "R. Yirmeya: Back",
+      "R. Chama & Rabbi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rav Huna's and Rav Yirmeya's positions together as a single Talmudic unit (a dispute), and candidate 0 ('Rav Huna: Folds') is where it currently sits and introduces this exact question and Rav Huna's answer, making it the natural home for the combined passage before the separate elaboration of each position in subsequent sections.",
+      "chosen_heading": "Rav Huna: Folds",
+      "current_heading": "Rav Huna: Folds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "R. Chama & Rabbi",
+    "candidates": [
+      "R. Yirmeya: Back",
+      "R. Chama & Rabbi",
+      "Blank Space Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the challenge-and-resolution about Rav Huna's position (inside vs. outside the folds), precisely matching the prose under 'R. Chama & Rabbi' which describes Rami bar Chama's question, the story of Rebbi, and the Gemara's clarification that bein kesher le-kesher means mi-barai (outside).",
+      "chosen_heading": "R. Chama & Rabbi",
+      "current_heading": "R. Chama & Rabbi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Blank Space Risk",
+    "candidates": [
+      "Blank Space Risk",
+      "Sharir V'kayam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the forgery concern about blank space in the mekushar document, which is exactly what the 'Blank Space Risk' section's prose describes, even quoting the same Aramaic phrase.",
+      "chosen_heading": "Blank Space Risk",
+      "current_heading": "Blank Space Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Sharir V'kayam",
+    "candidates": [
+      "Sharir V'kayam",
+      "Two Sharir Problem",
+      "Erasure Risk",
+      "Erasure Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the sharir ve-kayam formula as a termination marker \u2014 item 1 introduces it and item 2 raises and resolves the 'two sharir ve-kayam' objection \u2014 but the essay splits these into headings 0 and 1; however, since item 2's content (the two sharir ve-kayam problem and its resolution) is actually the subject of heading 1's prose, yet item 1 (introducing sharir ve-kayam) belongs under heading 0, and the items form one continuous Q&A chain, the current placement under heading 0 is the better single home since the passage as a whole introduces and defends the sharir ve-kayam solution before the Gemara moves to the erasure challenge.",
+      "chosen_heading": "Sharir V'kayam",
+      "current_heading": "Sharir V'kayam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Erasure Rules",
+    "candidates": [
+      "Two Sharir Problem",
+      "Erasure Risk",
+      "Erasure Rules",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara exchange about the erasure risk \u2014 the challenge about erasing sharir ve-kayam, Rabbi Yo\u1e25anan's ruling that taluy/mekuyam is valid but machak is invalid, and the qualification limiting that rule to erasures in the sharir ve-kayam zone \u2014 which matches exactly the prose of heading 1 ('Erasure Risk'), not heading 2 ('Erasure Rules') where it currently sits.",
+      "chosen_heading": "Erasure Risk",
+      "current_heading": "Erasure Rules",
+      "moved": true
+    }
+  }
+]

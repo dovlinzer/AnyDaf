@@ -1,0 +1,335 @@
+[
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Lechem She'onim Debate",
+    "candidates": [
+      "Kiddush, Urchatz, Karpas",
+      "Karpas Details",
+      "Removing the Seder Plate",
+      "Lechem Oni Definition",
+      "Lechem She'onim Debate",
+      "Two vs. Three Matzot",
+      "Tosafot on Three Matzot",
+      "Charoset Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's statement and the baraita defining 'lechem oni' as bread over which many things are said, plus the poor-man's piece and quick-baking interpretations \u2014 exactly the content described in the 'Lechem Oni Definition' prose, which explicitly quotes 'lechem she-onim alav devarim harbeh' and discusses these same interpretations.",
+      "chosen_heading": "Lechem Oni Definition",
+      "current_heading": "Lechem She'onim Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Charoset Obligation",
+    "candidates": [
+      "Two vs. Three Matzot",
+      "Tosafot on Three Matzot",
+      "Charoset Obligation",
+      "Charoset Symbolism",
+      "Charoset Preparation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about why charoset is brought if it is not a mitzvah, Rabbi Ami's answer about kapa (poison), and the incantation \u2014 exactly the content described in the 'Charoset Obligation' section prose.",
+      "chosen_heading": "Charoset Obligation",
+      "current_heading": "Charoset Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Charoset Preparation",
+    "candidates": [
+      "Charoset Symbolism",
+      "Charoset Preparation",
+      "Four Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the symbolism of charoset (zecher la-tapuach, zecher la-tit, tavlin zecher la-teven) which is exactly what the 'Charoset Symbolism' prose covers, including Abaye's ruling and the baraita consistent with Rabbi Yochanan \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Charoset Symbolism",
+      "current_heading": "Charoset Preparation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Four Questions",
+    "candidates": [
+      "Charoset Preparation",
+      "Four Questions",
+      "Response Structure",
+      "Dorsh Me'Arami Oved Avi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna about pouring the second cup and the son asking, and the four questions (Mah Nishtanah) \u2014 are precisely the content discussed in the 'Four Questions' section prose, which explicitly references mazgu lo kos sheni, v'kan haben sho'el, and enumerates the four distinctions including matzah, maror, tzali, and dipping.",
+      "chosen_heading": "Four Questions",
+      "current_heading": "Four Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Dorsh Me'Arami Oved Avi",
+    "candidates": [
+      "Response Structure",
+      "Dorsh Me'Arami Oved Avi",
+      "Questioning Framework",
+      "Child Asks Before Seeing",
+      "Chacham Beno Shoalo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three elements together \u2014 teaching according to the child's capacity, beginning with disgrace and ending with glory, and expounding from Arami oved avi \u2014 which is precisely the 'Response Structure' section's topic of the foundational structural principle of the haggadah narrative arc, while the current heading 'Dorsh Me'Arami Oved Avi' only covers the last clause.",
+      "chosen_heading": "Response Structure",
+      "current_heading": "Dorsh Me'Arami Oved Avi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Chacham Beno Shoalo",
+    "candidates": [
+      "Questioning Framework",
+      "Child Asks Before Seeing",
+      "Chacham Beno Shoalo",
+      "Talmidei Chachamim Asking",
+      "Dipping Once vs. Twice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara text about chacham beno shoalo through the wife and self-questioning, which is precisely what the prose of candidate 2 discusses.",
+      "chosen_heading": "Chacham Beno Shoalo",
+      "current_heading": "Chacham Beno Shoalo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Dipping Once vs. Twice",
+    "candidates": [
+      "Talmidei Chachamim Asking",
+      "Dipping Once vs. Twice",
+      "Rav's Approach",
+      "Shmuel's Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's debate over how to correctly formulate the dipping question in the mah nishtanah, which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Dipping Once vs. Twice",
+      "current_heading": "Dipping Once vs. Twice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Shmuel's Approach",
+    "candidates": [
+      "Rav's Approach",
+      "Shmuel's Approach",
+      "Rav Nachman Anecdote"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rav's and Shmuel's opinions together as a single Talmudic unit introducing the dispute, and since it opens with Rav's statement first, it belongs under 'Rav's Approach' which is the first of the two positions discussed \u2014 the essay then separately elaborates each view under its respective heading.",
+      "chosen_heading": "Rav's Approach",
+      "current_heading": "Shmuel's Approach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rav Nachman Anecdote",
+    "candidates": [
+      "Shmuel's Approach",
+      "Rav Nachman Anecdote",
+      "Three Things Obligation",
+      "Pesach Explanation",
+      "Matzah & Maror",
+      "Integration of Symbols"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Rav Nachman/Daru anecdote itself, and candidate 1 ('Rav Nachman Anecdote') is the section whose prose directly discusses and analyzes this exact exchange.",
+      "chosen_heading": "Rav Nachman Anecdote",
+      "current_heading": "Rav Nachman Anecdote",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Integration of Symbols",
+    "candidates": [
+      "Three Things Obligation",
+      "Pesach Explanation",
+      "Matzah & Maror",
+      "Integration of Symbols",
+      "Personal Redemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna of Rabban Gamliel stating that whoever did not say these three things (pesach, matzah, maror) has not fulfilled his obligation \u2014 which is precisely what candidate 0 ('Three Things Obligation') discusses, including the literal reading of the chiyuv and the explanation of each symbol's significance.",
+      "chosen_heading": "Three Things Obligation",
+      "current_heading": "Integration of Symbols",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Personal Redemption",
+    "candidates": [
+      "Integration of Symbols",
+      "Personal Redemption",
+      "Hagada L'Bincha",
+      "Lefikhakh to Hallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic text of 'bekhol dor vador chayav adam lirot et atzmo,' which is precisely what the 'Personal Redemption' section's prose discusses and quotes.",
+      "chosen_heading": "Personal Redemption",
+      "current_heading": "Personal Redemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Lefikhakh to Hallel",
+    "candidates": [
+      "Hagada L'Bincha",
+      "Lefikhakh to Hallel",
+      "Hallel Extent",
+      "Beit Shammai vs. Hillel",
+      "Immediacy vs. Narrative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the exact 'lefikhakh anachnu chayavim' text and the transition into hallel with 'halleluyah,' which the prose of heading 1 explicitly discusses and quotes in detail.",
+      "chosen_heading": "Lefikhakh to Hallel",
+      "current_heading": "Lefikhakh to Hallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Immediacy vs. Narrative",
+    "candidates": [
+      "Hallel Extent",
+      "Beit Shammai vs. Hillel",
+      "Immediacy vs. Narrative",
+      "Tarfon's Version",
+      "Akiva's Version"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the mishna's question of how far one recites hallel, Beit Shammai's and Beit Hillel's positions, the geulah conclusion, and Rabbi Tarfon's version \u2014 all of which together constitute the full mishnaic unit that begins with 'Ad heikhan hu omer,' matching heading 0 ('Hallel Extent') as the natural home, with the subsequent headings (1, 3) breaking out sub-topics that the essay prose discusses separately.",
+      "chosen_heading": "Hallel Extent",
+      "current_heading": "Immediacy vs. Narrative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Akiva's Version",
+    "candidates": [
+      "Tarfon's Version",
+      "Akiva's Version",
+      "Rishonim on Chatimah",
+      "Rambam's Girsa",
+      "Lifting Matzah & Maror",
+      "Not Lifting Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Akiva's version of the geulah blessing, which is precisely what the 'Akiva's Version' section's prose discusses in detail.",
+      "chosen_heading": "Akiva's Version",
+      "current_heading": "Akiva's Version",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Not Lifting Meat",
+    "candidates": [
+      "Rishonim on Chatimah",
+      "Rambam's Girsa",
+      "Lifting Matzah & Maror",
+      "Not Lifting Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the lifting of matzah and maror AND the prohibition on lifting meat in one continuous Gemara unit, making the 'Lifting Matzah & Maror' heading (index 2) the better home since it introduces all three rulings together, whereas the current placement under 'Not Lifting Meat' captures only part of the passage's content.",
+      "chosen_heading": "Lifting Matzah & Maror",
+      "current_heading": "Not Lifting Meat",
+      "moved": true
+    }
+  }
+]

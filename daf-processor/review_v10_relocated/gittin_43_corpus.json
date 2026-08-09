@@ -1,0 +1,286 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Me'ukav Get Shichrur",
+    "candidates": [
+      "Half-Slave Intro",
+      "Permanent vs. Temporary",
+      "Me'ukav Get Shichrur",
+      "Can He Eat Terumah?",
+      "Mixed Babies Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly poses the dilemma of whether a me'ukav get shichrur may eat teruma, framing it around the verse 'kinyan kaspo' \u2014 exactly the content described in the 'Can He Eat Terumah?' prose section (candidate 3), which is a clearly better match than the current placement under candidate 2.",
+      "chosen_heading": "Can He Eat Terumah?",
+      "current_heading": "Me'ukav Get Shichrur",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Mixed Babies Case",
+    "candidates": [
+      "Can He Eat Terumah?",
+      "Mixed Babies Case",
+      "Babies Grow & Free",
+      "Status Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the mixed babies ruling of Rav Mesharshiya including eating terumah and dividing one portion at the threshing floor, which matches the 'Mixed Babies Case' prose exactly, not the 'Babies Grow & Free' section which focuses on the manumission aspect.",
+      "chosen_heading": "Mixed Babies Case",
+      "current_heading": "Mixed Babies Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Status Comparison",
+    "candidates": [
+      "Babies Grow & Free",
+      "Status Comparison",
+      "Can Sell for Knas?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's rejection using the exact phrases 'hachi hashta', 'kinyan kaspo karinan bei', and 'lav kinyan kaspo hu kelal' that the Status Comparison prose explicitly discusses.",
+      "chosen_heading": "Status Comparison",
+      "current_heading": "Status Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Can Sell for Knas?",
+    "candidates": [
+      "Can Sell for Knas?",
+      "Rabbi Meir Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening dilemma ('iba'ya lehu') asking whether a master can sell a slave with regard to the penalty, which directly matches candidate 0's prose about this fresh dilemma being posed.",
+      "chosen_heading": "Can Sell for Knas?",
+      "current_heading": "Can Sell for Knas?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Rabbi Meir Position",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Rabbanan Position",
+      "Zero Value Evidence"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Meir Position",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the Rabbi Meir side of the dilemma \u2014 the double speculation about whether the goring will occur and whether payment will be made (modeh umiptar) \u2014 which is precisely what candidate 0's prose describes.",
+      "second_heading": "Rabbanan Position",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the Rabbanan side of the dilemma \u2014 that since the ox and slave are both present this may differ from the date-palm case \u2014 which is exactly what candidate 1's prose discusses.",
+      "current_heading": "Rabbi Meir Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Zero Value Evidence",
+    "candidates": [
+      "Rabbanan Position",
+      "Zero Value Evidence",
+      "Zero Value Objection"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Zero Value Evidence",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the baraita about yelid bayis and kinyan kesef eating teruma regardless of monetary value, which is precisely what the 'Zero Value Evidence' prose describes.",
+      "second_heading": "Zero Value Objection",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 present Rabbi Abba's actual proof and the Gemara's challenge/answer about whether a slave could ever have zero value if sold for knas, which matches exactly the 'Zero Value Objection' prose.",
+      "current_heading": "Zero Value Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Zero Value Objection",
+    "candidates": [
+      "Zero Value Objection",
+      "Unfit Slave Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "Neither candidate's prose discusses the half-slave betrothal dilemma; the passage appears misplaced relative to both, but candidate 1 is slightly closer as it deals with edge cases involving partial status, though confidence is low since neither prose section addresses betrothal at all \u2014 the current placement is also unrelated, so a move to 1 is marginally preferable.",
+      "chosen_heading": "Unfit Slave Exception",
+      "current_heading": "Zero Value Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Unfit Slave Exception",
+    "candidates": [
+      "Unfit Slave Exception",
+      "Half-Slave Man Marriage",
+      "Half Woman Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of a man who betroths half a woman (*shiyyer b'kinyano*) and contrasts it with the half-slave case (*lo shiyyer b'kinyano*), which is precisely the content described in the 'Half Woman Marriage' prose section's *im timtzei lomar* paragraph.",
+      "chosen_heading": "Half Woman Marriage",
+      "current_heading": "Unfit Slave Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Half Woman Marriage",
+    "candidates": [
+      "Half-Slave Man Marriage",
+      "Half Woman Marriage",
+      "Full vs. Half Act",
+      "Half-Woman Evidence",
+      "Half-Woman Evidence",
+      "Rabbi Yishmael View",
+      "Heirs Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about an ox killing a half-slave half-freeman and the question 'from where does he have heirs?' (yorshin mena lei?) \u2014 which is precisely what heading 6 'Heirs Contradiction' discusses in its prose.",
+      "chosen_heading": "Heirs Contradiction",
+      "current_heading": "Half Woman Marriage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Heirs Contradiction",
+    "candidates": [
+      "Full vs. Half Act",
+      "Half-Woman Evidence",
+      "Half-Woman Evidence",
+      "Rabbi Yishmael View",
+      "Heirs Contradiction",
+      "Scenario Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly address the 'heirs' problem raised by the baraita about the ox \u2014 Rav Adda's treifah solution and Rava's two refutations plus his 'ra'uy liten v'ein lo' answer \u2014 which is precisely what the prose of candidate 4 ('Heirs Contradiction') describes.",
+      "chosen_heading": "Heirs Contradiction",
+      "current_heading": "Heirs Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Scenario Setup",
+    "candidates": [
+      "Scenario Setup",
+      "Nullify or Complete?",
+      "Kiddushin Bursts",
+      "Kiddushin Completes",
+      "Shifcha Charufa Text"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Scenario Setup",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-7 cover the validity of kiddushin for a half-slave woman and Rav \u1e24isda's yibum scenario, which fits the Scenario Setup discussion.",
+      "second_heading": "Kiddushin Bursts",
+      "second_confidence": "high",
+      "second_reason": "Item 8 is a new formally-stated ittmar dispute about whether the first kiddushin bursts or completes upon emancipation, matching the 'Kiddushin Bursts' section prose exactly.",
+      "current_heading": "Scenario Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Shifcha Charufa Text",
+    "candidates": [
+      "Nullify or Complete?",
+      "Kiddushin Bursts",
+      "Kiddushin Completes",
+      "Shifcha Charufa Text",
+      "Abaye Challenge",
+      "Forced Freedom",
+      "Childbearing Motive"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Childbearing Motive",
+    "candidates": [
+      "Abaye Challenge",
+      "Forced Freedom",
+      "Childbearing Motive",
+      "Protection Motive"
+    ],
+    "result": null
+  }
+]

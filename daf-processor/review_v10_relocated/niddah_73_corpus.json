@@ -1,0 +1,307 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna Setup",
+    "candidates": [
+      "Mishna Setup",
+      "Universal Agreement?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly frames the mishna citation as 'another difficulty with regard to Rav Huna's opinion' and asks whether the ruling represents universal agreement, matching the 'Universal Agreement?' section's prose about whether the tarbut ra'ah ruling reflects all opinions or only Beit Hillel.",
+      "chosen_heading": "Universal Agreement?",
+      "current_heading": "Mishna Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Universal Agreement?",
+    "candidates": [
+      "Mishna Setup",
+      "Universal Agreement?",
+      "Beit Shammai Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks 'What, is it not correct to say that all agree with this clause' \u2014 exactly the question of universal agreement versus Beit Hillel alone that the 'Universal Agreement?' section's prose describes.",
+      "chosen_heading": "Universal Agreement?",
+      "current_heading": "Universal Agreement?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Beit Shammai Critique",
+    "candidates": [
+      "Beit Shammai Critique",
+      "Intent Discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Gemara's answer attributing the clause to Beit Hillel and the immediate question 'niddah salka da'atakh?', which is precisely what the 'Intent Discussion' prose describes and analyzes.",
+      "chosen_heading": "Intent Discussion",
+      "current_heading": "Beit Shammai Critique",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Intent Discussion",
+    "candidates": [
+      "Beit Shammai Critique",
+      "Intent Discussion",
+      "Transgression Status",
+      "Day Ten Question",
+      "Rabbi Yochanan View",
+      "Resh Lakish View",
+      "Position Analysis",
+      "Tradition Teaching",
+      "Examples Listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly continues the Gemara's correction of terminology from 'niddah' to 'zavah' to 'shomeret yom keneged yom', which is precisely what the 'Intent Discussion' prose describes.",
+      "chosen_heading": "Intent Discussion",
+      "current_heading": "Intent Discussion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Examples Listed",
+    "candidates": [
+      "Transgression Status",
+      "Day Ten Question",
+      "Rabbi Yochanan View",
+      "Resh Lakish View",
+      "Position Analysis",
+      "Tradition Teaching",
+      "Examples Listed",
+      "Tradition vs. Derivation",
+      "Three Days Passage"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Day Ten Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Rabbi Yochanan vs. Reish Lakish dispute about day ten's status, which matches heading 1 ('Day Ten Question') and its associated sub-headings 2-3, but the prose of heading 1 explicitly introduces this exact dispute about day ten.",
+      "second_heading": "Examples Listed",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 present Rabbi Elazar ben Azaryah's statement about halakha le-Moshe mi-Sinai, the mai halakha question, and the baraita challenge, which precisely matches the 'Examples Listed' heading (index 6) whose prose discusses exactly this sequence of the eleven-day tradition, the mai halakha dispute, and the transition to the baraita objection.",
+      "current_heading": "Examples Listed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Three Days Passage",
+    "candidates": [
+      "Tradition vs. Derivation",
+      "Three Days Passage",
+      "Eleven Days Upper Bound",
+      "Day Twelve Exclusion",
+      "Expanding to Fewer Days"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Three Days Passage",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 establish the fundamental timing distinction between niddah and zavah bleeding using 'belo et niddatah', matching the Three Days Passage prose which discusses exactly this derivation.",
+      "second_heading": "Eleven Days Upper Bound",
+      "second_confidence": "medium",
+      "second_reason": "Items 3-7 work through extending the zavah window from one separated day through ten and eleven days, using the 'fit for counting' analogy, matching the Eleven Days Upper Bound prose which describes precisely this derivation chain.",
+      "current_heading": "Three Days Passage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Expanding to Fewer Days",
+    "candidates": [
+      "Eleven Days Upper Bound",
+      "Day Twelve Exclusion",
+      "Expanding to Fewer Days",
+      "One Clean Day",
+      "Equal Tumah Status",
+      "Asymmetry Noted",
+      "Textual Basis",
+      "Pesukim Conclusion",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses deriving two-day and one-day zavah status from the word 'yemei' and 'kol yemei,' which is precisely what the 'Expanding to Fewer Days' prose section discusses.",
+      "chosen_heading": "Expanding to Fewer Days",
+      "current_heading": "Expanding to Fewer Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "One Clean Day",
+      "Equal Tumah Status",
+      "Asymmetry Noted",
+      "Textual Basis",
+      "Pesukim Conclusion",
+      "Kal Vachomer",
+      "Gender Analysis",
+      "Explicit Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together form the kal va-chomer argument and its resolution via the word 'hi' \u2014 item 1 states the asymmetry and item 2 presents the kal va-chomer challenge that the 'Kal Vachomer' section's prose explicitly describes, making the current placement correct.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Explicit Case",
+    "candidates": [
+      "Gender Analysis",
+      "Explicit Case",
+      "Two Schools"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items derive how a zavah transmits tumah to mishkav u-moshav for one, two, and three days, and item 3 continues with the counting of clean days \u2014 all of which is precisely what the 'Explicit Case' prose describes as the gemara's discussion of mishkav u-moshav tumah for the zavah.",
+      "chosen_heading": "Explicit Case",
+      "current_heading": "Explicit Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Two Schools",
+    "candidates": [
+      "Two Schools",
+      "Two Days Derivation",
+      "One Day Derivation",
+      "Rambam Defense",
+      "Rambam Theory",
+      "Modern Critiques",
+      "Legitimacy Criteria",
+      "Post-Talmud Process",
+      "Text Shift",
+      "Innovation Balance",
+      "Day/Night Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contrasts Rabbi Akiva's verse-based derivations with Rabbi Elazar ben Azaryah's halakha le-Moshe mi-Sinai position, which is precisely what the 'Two Schools' section's prose discusses.",
+      "chosen_heading": "Two Schools",
+      "current_heading": "Two Schools",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Day/Night Distinction",
+    "candidates": [
+      "Two Days Derivation",
+      "One Day Derivation",
+      "Rambam Defense",
+      "Rambam Theory",
+      "Modern Critiques",
+      "Legitimacy Criteria",
+      "Post-Talmud Process",
+      "Text Shift",
+      "Innovation Balance",
+      "Day/Night Distinction",
+      "Night Seven Answer",
+      "Halakha Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Shemaya's question about whether daytime bleeding makes one a zavah and nighttime bleeding makes one a niddah, which is precisely what the 'Day/Night Distinction' section's prose describes.",
+      "chosen_heading": "Day/Night Distinction",
+      "current_heading": "Day/Night Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Halakha Teaching",
+    "candidates": [
+      "Night Seven Answer",
+      "Halakha Teaching",
+      "Final Dialectic",
+      "Completion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Halakha Teaching",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the school of Elijah teaching about studying halakhot daily, which is explicitly discussed in the 'Halakha Teaching' section's prose.",
+      "second_heading": "Completion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Hadran \u2014 the formal closing formula of the tractate \u2014 which corresponds precisely to the 'Completion' section's prose about concluding Masechet Niddah.",
+      "current_heading": "Halakha Teaching",
+      "moved": true
+    }
+  }
+]

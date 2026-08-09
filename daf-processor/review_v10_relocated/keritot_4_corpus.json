@@ -1,0 +1,408 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Tinok Shenishba",
+    "candidates": [
+      "Correction: Karet",
+      "Tinok Shenishba",
+      "Omer Mutar",
+      "Fundamental vs. Detail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement about the tinok shenishba paradigm case, which is precisely what the 'Tinok Shenishba' section's prose discusses.",
+      "chosen_heading": "Tinok Shenishba",
+      "current_heading": "Tinok Shenishba",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Fundamental vs. Detail",
+    "candidates": [
+      "Omer Mutar",
+      "Fundamental vs. Detail",
+      "Rav Pappa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario the 'Fundamental vs. Detail' prose discusses: an adult Jew who misreads the verse about gold and silver idols and concludes that worshipping idols of other materials is permitted, constituting a fundamental mistake about the prohibition.",
+      "chosen_heading": "Fundamental vs. Detail",
+      "current_heading": "Fundamental vs. Detail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rav Pappa",
+    "candidates": [
+      "Rav Pappa",
+      "Shabbat, Avodah Zarah",
+      "Arayot Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage attributes the statement to Rav A\u1e25a son of Rav Ika in the name of Rav Beivai (not Rav Pappa), but the prose under heading 0 directly discusses this exact teaching \u2014 that the tanna lists categories of Shabbat and avodah zarah \u2014 and the current placement matches the content of the passage most closely among the candidates.",
+      "chosen_heading": "Rav Pappa",
+      "current_heading": "Rav Pappa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Arayot Exception",
+    "candidates": [
+      "Shabbat, Avodah Zarah",
+      "Arayot Exception",
+      "Shechita, Ha'ala"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's discussion of why the mishna consolidates arayot into categories (shem isha u-vita) rather than listing every individual prohibition, and conclude with the parallel application to Shabbat and avodah zarah \u2014 precisely what the 'Arayot Exception' prose describes.",
+      "chosen_heading": "Arayot Exception",
+      "current_heading": "Arayot Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Shechita, Ha'ala",
+    "candidates": [
+      "Shechita, Ha'ala",
+      "Location Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange of Rav A\u1e25a raising a contradiction in Rav Beivai bar Abaye's position regarding the two forms of ha'ala'ah and the mishna's count of 36 kareitot, which is precisely what the prose under heading 0 ('Shechita, Ha'ala') describes.",
+      "chosen_heading": "Shechita, Ha'ala",
+      "current_heading": "Shechita, Ha'ala",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Location Principle",
+    "candidates": [
+      "Location Principle",
+      "Ein Onshin",
+      "Gezeirah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'location principle' \u2014 that Shabbat and idol worship can be consolidated because their details are taught elsewhere, whereas shechutei chutz has no other dedicated place \u2014 which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Location Principle",
+      "current_heading": "Location Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Gezeirah Shavah",
+    "candidates": [
+      "Ein Onshin",
+      "Gezeirah Shavah",
+      "Hekkesh",
+      "One Lav, Separate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yirmeya's dilemma about two kareisin and one lav, which matches candidate 0's prose description of that exact question (two kareisin, one lav), while candidates 1 and 2 discuss the gezeirah shavah and hekkesh derivations that appear as Rabbi Zeira's response within this same passage \u2014 meaning the passage as a whole belongs under the heading that introduces the dilemma, not the headings that describe the resolution.",
+      "chosen_heading": "Ein Onshin",
+      "current_heading": "Gezeirah Shavah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "One Lav, Separate",
+    "candidates": [
+      "Hekkesh",
+      "One Lav, Separate",
+      "Rabbi Yochanan",
+      "Reish Lakish",
+      "Yidoni Excluded",
+      "Akiva Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All six items together present the full dispute between Rabbi Yochanan and Reish Lakish regarding ov and yidoni under one lav with two death penalties, which is precisely what candidate 1 ('One Lav, Separate') describes as setting up that machlokes \u2014 candidates 2\u20135 each cover only one sub-point of this unified passage, while candidate 1 explicitly frames the entire debate including the Sanhedrin asymmetry and the attribution to Rabbi Yochanan and Reish Lakish that the passage introduces.",
+      "chosen_heading": "One Lav, Separate",
+      "current_heading": "One Lav, Separate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Akiva Positions",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Reish Lakish",
+      "Yidoni Excluded",
+      "Akiva Positions",
+      "Minimal Action",
+      "Ba'al Ov",
+      "Hishtachava'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items discuss what constitutes a ma'aseh for ba'al ov (striking arms) and megadef (twisting lips), and then raise the hishtachavah challenge \u2014 exactly the content described in the 'Ba'al Ov' prose section, which covers hakashat zero'otav and akimat sefatav as actions.",
+      "chosen_heading": "Ba'al Ov",
+      "current_heading": "Akiva Positions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Hishtachava'ah",
+    "candidates": [
+      "Minimal Action",
+      "Ba'al Ov",
+      "Hishtachava'ah",
+      "Ulla Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items continue the exact discussion described in the 'Hishtachava'ah' prose: Reish Lakish's inference that bending one's height is only Rabbi Akiva's standard, the conclusion that arm-flapping also falls below the Rabbanan's threshold, and the Gemara's answer that 'chada mi-tartei katani' \u2014 the Rabbanan only specified one objection (megadef) but their reasoning covers ba'al ov too, which is precisely what items 3 and 4 resolve.",
+      "chosen_heading": "Hishtachava'ah",
+      "current_heading": "Hishtachava'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Ulla Position",
+    "candidates": [
+      "Ulla Position",
+      "Rava Response",
+      "Chover Chaver"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both Ulla's statement and Rava's objection/response, but since it opens with Ulla's position and the current placement is under 'Ulla Position,' and the content spans both candidates 0 and 1, the current placement is acceptable \u2014 though candidate 1 'Rava Response' prose also matches the latter half, the passage as a whole unit fits under the current heading where it sits.",
+      "chosen_heading": "Ulla Position",
+      "current_heading": "Ulla Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Chover Chaver",
+    "candidates": [
+      "Rava Response",
+      "Chover Chaver",
+      "Megadef",
+      "Eidim Zomemim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the chover chaver prohibition \u2014 Abaye's challenge about whether invoking spirits constitutes chover chaver, Rava's response about the baraita covering large and small beasts including snakes and scorpions, and Abaye's practical ruling about self-defense \u2014 exactly matching the 'Chover Chaver' prose.",
+      "chosen_heading": "Chover Chaver",
+      "current_heading": "Chover Chaver",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Eidim Zomemim",
+    "candidates": [
+      "Megadef",
+      "Eidim Zomemim",
+      "Multiple Lashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: items 1-2 are the megadef objection and Rava's answer (explicitly discussed in candidate 0's prose), and item 3 is the eidim zomemim objection with Rava's parallel answer \u2014 but the prose of candidate 0 flows directly into this and candidate 1's prose describes eidim zomemim as a follow-on to the megadef discussion, meaning the passage as a whole (items 1-3) begins with the megadef challenge, making candidate 0 the better home since items 1-2 open the passage and candidate 0's prose explicitly covers the Rabbi Yochanan/megadef/Rava exchange that starts this block.",
+      "chosen_heading": "Megadef",
+      "current_heading": "Eidim Zomemim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Multiple Lashes",
+    "candidates": [
+      "Eidim Zomemim",
+      "Multiple Lashes",
+      "Yishmael Argument",
+      "Sages Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items introduce the baraita about chelev shor/chesev/ez and the Rabbi Yishmael vs. Rabbis dispute over multiple liabilities, which is precisely what the 'Multiple Lashes' prose describes as its opening content.",
+      "chosen_heading": "Multiple Lashes",
+      "current_heading": "Multiple Lashes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "current_heading": "Sages Argument",
+    "candidates": [
+      "Yishmael Argument",
+      "Sages Argument",
+      "Animal Specialties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The entire passage continues the dispute between Rabbi Yishmael and the Rabbis about whether the listing of ox, sheep, and goat creates separate prohibitions, including the animal-specialty arguments (items 7-14) and the resolution about context of sacrificial animals (items 15-22), with items 23-31 being consequences of the same dispute about sin offerings.",
+      "chosen_heading": "Sages Argument",
+      "current_heading": "Sages Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152,
+      153,
+      154,
+      155,
+      156
+    ],
+    "current_heading": "Animal Specialties",
+    "candidates": [
+      "Animal Specialties",
+      "Context Mention",
+      "Yishmael Learns",
+      "Sages Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the dispute between Rabbi Yehuda and the Rabbis over how many lashes one receives for eating forbidden fat of sacrificial animals, and the core of the argument turns on whether the 'fat of ox' verse is written in the context of sacrificial animals or non-sacred animals \u2014 exactly the contextual/proximity question that Candidate 1 ('Context Mention') addresses, with its prose describing how the lav verse appears near the karet verse and whether the animals listed in the lav are already implied by that context.",
+      "chosen_heading": "Context Mention",
+      "current_heading": "Animal Specialties",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      167
+    ],
+    "current_heading": "Sages Restriction",
+    "candidates": [
+      "Context Mention",
+      "Yishmael Learns",
+      "Sages Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage questions whether the Rabbis reject the principle of 'davar ha-lamed me-inyano,' which directly follows from the Sages' position explained in the 'Sages Restriction' prose \u2014 the Gemara is raising a difficulty against the implication of the Sages' ruling.",
+      "chosen_heading": "Sages Restriction",
+      "current_heading": "Sages Restriction",
+      "moved": false
+    }
+  }
+]

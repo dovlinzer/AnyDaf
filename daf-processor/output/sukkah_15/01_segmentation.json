@@ -68,8 +68,8 @@
           "timestamp": "07:48"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Distinguishing the Current Mishnah from Yesterday's Debate: Why Repeat?",
@@ -97,7 +97,7 @@
           "timestamp": "13:01"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -126,8 +126,8 @@
           "timestamp": "20:23"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "The Second Mishnah: Alternating Invalid and Valid Schach (Bars and Bed Legs)",
@@ -426,5 +426,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "30:34",
+  "amud_b_micro_title": "Solutions",
+  "shiur_start_daf": 15,
+  "shiur_start_amud": "a"
 }

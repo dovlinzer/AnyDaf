@@ -1,0 +1,368 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Lottery Requirement",
+    "candidates": [
+      "Opening Remarks",
+      "Lottery Requirement",
+      "Chananya HaMitzri"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the objection the 'Lottery Requirement' prose describes \u2014 the gemara raises the principle that the lottery is valid only if both animals are fit, questioning why the verse 'la-Hashem' is needed \u2014 which is precisely the content that section's prose addresses.",
+      "chosen_heading": "Lottery Requirement",
+      "current_heading": "Lottery Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Chananya HaMitzri",
+    "candidates": [
+      "Chananya HaMitzri",
+      "Rava's Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain about \u1e24anan HaMitzri's position and its challenge, followed by Rav Yosef's revised answer citing Rabbi Shimon \u2014 exactly the content described in the 'Chananya HaMitzri' prose section.",
+      "chosen_heading": "Chananya HaMitzri",
+      "current_heading": "Chananya HaMitzri",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Rava's Scenario",
+    "candidates": [
+      "Rava's Scenario",
+      "Sanctity Transfer",
+      "Rabbi Yose Position",
+      "Rhetorical Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of Rava's scenario: item 1 presents Rava's case of the goat becoming blemished on the day and being desacralized onto another, and item 2 gives the reasoning why the verse's teaching is necessary in that case \u2014 exactly what the 'Rava's Scenario' prose describes.",
+      "chosen_heading": "Rava's Scenario",
+      "current_heading": "Rava's Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Rhetorical Verse",
+    "candidates": [
+      "Sanctity Transfer",
+      "Rabbi Yose Position",
+      "Rhetorical Verse",
+      "Non-Jew Source",
+      "Non-Jew Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the reasoning behind Rabbi Yosei bar Rabbi Yehuda's position on kabbalat hadam and the first tanna's counter-use of the same verses \u2014 exactly the content described in the 'Rabbi Yose Position' prose, which introduces kabbalat hadam and the dispute over its prohibition, whereas the current placement ('Rhetorical Verse') only covers part of what items 1-3 collectively address and the 'Rabbi Yose Position' section is the natural home for the whole unit.",
+      "chosen_heading": "Rabbi Yose Position",
+      "current_heading": "Rhetorical Verse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Non-Jew Standards",
+    "candidates": [
+      "Non-Jew Source",
+      "Non-Jew Standards",
+      "Alternative Version"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the tanna kamma's use of 'lo takrivu' to address the hava amina about differential standards for non-Jews on their altar versus the Temple altar, which is precisely what the 'Non-Jew Standards' prose section describes.",
+      "chosen_heading": "Non-Jew Standards",
+      "current_heading": "Non-Jew Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Alternative Version",
+    "candidates": [
+      "Alternative Version",
+      "Private Altar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the alternative version (lishana achrina) of Rabbi Yosei bar Rabbi Yehuda's position on kabbalat hadam and his derivation from the verses, which directly matches the 'Alternative Version' section's prose description.",
+      "chosen_heading": "Alternative Version",
+      "current_heading": "Alternative Version",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Private Altar",
+    "candidates": [
+      "Private Altar",
+      "Birth vs. Later"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the derivation of prohibitions related to private altars (bamat yachid), collection of blood from non-Jews' offerings, and the Noahide sacrificial standard \u2014 exactly the content described in the 'Private Altar' prose.",
+      "chosen_heading": "Private Altar",
+      "current_heading": "Private Altar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Birth vs. Later",
+    "candidates": [
+      "Birth vs. Later",
+      "Rashi's View",
+      "Tosafot's View",
+      "Birth Defects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's foundational challenge about whether the prohibition applies only to animals that became blemished after birth versus those blemished from birth, which is precisely what the 'Birth vs. Later' section's prose describes and discusses.",
+      "chosen_heading": "Birth vs. Later",
+      "current_heading": "Birth vs. Later",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Birth Defects",
+    "candidates": [
+      "Rashi's View",
+      "Tosafot's View",
+      "Birth Defects",
+      "Temurah Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24iyya bar Yosef's challenge citing sarua and kalut as congenital blemishes appearing in the parasha, which is precisely what the 'Birth Defects' section's prose describes.",
+      "chosen_heading": "Birth Defects",
+      "current_heading": "Birth Defects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Temurah Limitation",
+    "candidates": [
+      "Temurah Limitation",
+      "Rabbi Yannai Vote",
+      "Offensive Nature"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Reish Lakish's proposal that the prohibition applies only in the context of temurah, citing the mishna about greater stringency of temurah, which is precisely what the 'Temurah Limitation' prose section discusses.",
+      "chosen_heading": "Temurah Limitation",
+      "current_heading": "Temurah Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Offensive Nature",
+    "candidates": [
+      "Rabbi Yannai Vote",
+      "Offensive Nature",
+      "Rava's Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the Rabbi Yochanan/Reish Lakish exchange about why consecrating a congenitally blemished animal is offensive (zila milta) compared to consecrating a date palm, which is precisely what the 'Offensive Nature' prose section describes in detail, including both versions (lishna achrina).",
+      "chosen_heading": "Offensive Nature",
+      "current_heading": "Offensive Nature",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Rava's Extension",
+    "candidates": [
+      "Rava's Extension",
+      "Nedava Verse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Extension",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (Rava's ruling and the opening note that a baraita supports it) belong under 'Rava's Extension', which is precisely what that section's prose discusses.",
+      "second_heading": "Nedava Verse",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita's content about 'nedava ta'aseh oto' and the derivation of both nedava and neder for bedek ha-bayit, which is exactly what the 'Nedava Verse' section's prose unpacks in detail.",
+      "current_heading": "Rava's Extension",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Nedava Verse",
+    "candidates": [
+      "Nedava Verse",
+      "Tanna Kamma vs. Rabbi",
+      "Unblemished for Treasury",
+      "Positive & Negative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the dispute between tanna kamma and Rabbi Yehuda HaNasi over whether 'lo yiratzeh' extends to consecration for proceeds (libations) or only to the animal's body itself, which is exactly what the 'Tanna Kamma vs. Rabbi' prose describes.",
+      "chosen_heading": "Tanna Kamma vs. Rabbi",
+      "current_heading": "Nedava Verse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Positive & Negative",
+    "candidates": [
+      "Tanna Kamma vs. Rabbi",
+      "Unblemished for Treasury",
+      "Positive & Negative",
+      "Burning Parts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita deriving a positive violation from 'oto,' Rabbi Yehuda's derivation of a negative prohibition from 'lemor,' and Rebbi's exchange with bar Kappara about the word's implication \u2014 are precisely what the 'Positive & Negative' prose describes, covering both the aseh and lav derived from consecrating unblemished animals for the treasury.",
+      "chosen_heading": "Positive & Negative",
+      "current_heading": "Positive & Negative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Burning Parts",
+    "candidates": [
+      "Burning Parts",
+      "Abaye's Principle",
+      "Five or Four"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava and Abaye's dispute about whether burning limbs of a blemished animal produces one or two sets of lashes, which is precisely the question the 'Burning Parts' prose introduces \u2014 the current placement is correct.",
+      "chosen_heading": "Burning Parts",
+      "current_heading": "Burning Parts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Five or Four",
+    "candidates": [
+      "Abaye's Principle",
+      "Five or Four",
+      "Mishna Introduction",
+      "Chatat & Asham",
+      "Bechor Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items deal with the gemara's attempts to reconcile Abaye's principle with the baraita's count of five prohibitions, culminating in the conclusive refutation of Abaye \u2014 exactly what the 'Five or Four' prose describes.",
+      "chosen_heading": "Five or Four",
+      "current_heading": "Five or Four",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Bechor Principle",
+    "candidates": [
+      "Mishna Introduction",
+      "Chatat & Asham",
+      "Bechor Principle",
+      "Akiva's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full mishna text covering all its content (kohanim/Yisrael substitution, chatat/asham, bechor, and the Yochanan ben Nuri/Akiva exchange), and candidate 0's prose explicitly introduces this opening mishna as a whole unit with its qualifications.",
+      "chosen_heading": "Mishna Introduction",
+      "current_heading": "Bechor Principle",
+      "moved": true
+    }
+  }
+]

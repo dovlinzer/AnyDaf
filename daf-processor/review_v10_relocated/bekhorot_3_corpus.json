@@ -1,0 +1,339 @@
+[
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Raising Animals Case",
+    "candidates": [
+      "Partnership Prohibition",
+      "Oath Problem",
+      "Tosafot's Solution",
+      "Misinterpretation Issue",
+      "Historical Impact",
+      "Student Questions",
+      "Raising Animals Case",
+      "Fine Amounts",
+      "Reish Lakish Position",
+      "Literal vs Exaggeration",
+      "Slave vs Animal Fines",
+      "Rarity Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All four items form a continuous Talmudic discussion about the baraita of Rabbi Yehuda regarding receiving/giving an animal to a non-Jew under kablanut, the Rabbis' exemption ruling, and the Gemara's attempt and failure to derive from this baraita that selling a mother animal for future offspring is prohibited \u2014 exactly the content described in the 'Raising Animals Case' prose.",
+      "chosen_heading": "Raising Animals Case",
+      "current_heading": "Raising Animals Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Rarity Principle",
+    "candidates": [
+      "Fine Amounts",
+      "Reish Lakish Position",
+      "Literal vs Exaggeration",
+      "Slave vs Animal Fines",
+      "Rarity Principle",
+      "Scriptural Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All six items together form the continuous Gemara discussion about the comparison between fines for selling an animal vs. a slave \u2014 covering both versions of Reish Lakish's ruling, the davka/lo davka question, and the rarity principle \u2014 which is precisely what the 'Slave vs Animal Fines' prose describes, including the 'shani eved delo hadar lei' and the jump-from-ten-to-one-hundred puzzle that the prose explicitly discusses.",
+      "chosen_heading": "Slave vs Animal Fines",
+      "current_heading": "Rarity Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Scriptural Basis",
+    "candidates": [
+      "Rarity Principle",
+      "Scriptural Basis",
+      "Yehuda vs Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces the dispute between the Rabbis and Rabbi Yehuda and Rabbi Yehoshua's observation that both derive from the same verse (kol bechor), which is precisely what the 'Scriptural Basis' section's prose discusses.",
+      "chosen_heading": "Scriptural Basis",
+      "current_heading": "Scriptural Basis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Yehuda vs Sages",
+    "candidates": [
+      "Yehuda vs Sages",
+      "Rav Huna: Ear Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly explain the Rabbis vs. Rabbi Yehuda dispute over the word 'kol' and 'bechor,' which is precisely what the 'Yehuda vs Sages' prose section describes, including the alternative formulation about majority ownership that matches item 2.",
+      "chosen_heading": "Yehuda vs Sages",
+      "current_heading": "Yehuda vs Sages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rav Huna: Ear Test",
+    "candidates": [
+      "Rav Huna: Ear Test",
+      "Nachman Objection",
+      "Chisda: Neveila",
+      "Rava: Tereifa",
+      "Tereifa Viability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's 'ear' position and Rav Nachman's objection in a single Gemara excerpt, and the current heading 'Rav Huna: Ear Test' is where it sits \u2014 but since the passage includes both positions, it fits best where it currently is, as heading 0's prose explicitly covers both Rav Huna's statement and sets up the ear threshold discussion that leads into Nachman's objection.",
+      "chosen_heading": "Rav Huna: Ear Test",
+      "current_heading": "Rav Huna: Ear Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Tereifa Viability",
+    "candidates": [
+      "Nachman Objection",
+      "Chisda: Neveila",
+      "Rava: Tereifa",
+      "Tereifa Viability",
+      "Reconciliation Attempt",
+      "Pappa Refutation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage records the dispute between Rav Chisda (neveila standard) and Rava (tereifa standard), which is exactly what heading 1 'Chisda: Neveila' introduces \u2014 the two positions together are announced in this single Aramaic statement, and heading 1's prose explicitly describes recording 'two alternative positions' including both Rav Chisda and Rava.",
+      "chosen_heading": "Chisda: Neveila",
+      "current_heading": "Tereifa Viability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Pappa Refutation",
+    "candidates": [
+      "Reconciliation Attempt",
+      "Pappa Refutation",
+      "Slight Blemish Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items \u2014 the tereifa-can-live dispute, the attempted reconciliation, Rav Pappa's refutation, Mar bar Rav Ashi's challenge, and the gemara's response \u2014 are precisely the content described in the 'Pappa Refutation' prose, which explicitly covers all of these points in sequence.",
+      "chosen_heading": "Pappa Refutation",
+      "current_heading": "Pappa Refutation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Slight Blemish Rule",
+    "candidates": [
+      "Slight Blemish Rule",
+      "Hybrid Offspring",
+      "Abnormality Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the continuous Gemara passage about Rabbi Elazar asking Rabbi Asi what was taught, receiving Rabbi Yochanan's 'slight blemish' ruling, and the Gemara affirming its necessity \u2014 precisely what the 'Slight Blemish Rule' prose describes.",
+      "chosen_heading": "Slight Blemish Rule",
+      "current_heading": "Slight Blemish Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Abnormality Definition",
+    "candidates": [
+      "Hybrid Offspring",
+      "Abnormality Definition",
+      "Animal vs Human Blemishes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the Gemara's challenge to Rabbi Yochanan's novelty about 'permanent blemish' \u2014 item 1 raises the pig-mouth objection and item 2 raises and partially answers the distinction about bechor-eligible species \u2014 which is precisely what candidate 1 ('Abnormality Definition') describes in its prose.",
+      "chosen_heading": "Abnormality Definition",
+      "current_heading": "Abnormality Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Animal vs Human Blemishes",
+    "candidates": [
+      "Animal vs Human Blemishes",
+      "Abnormality Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of reasoning about why different-sized eyes (one large as a calf, one small as a goose) constitute a mum \u2014 questioning whether it is due to general abnormality or the specific named mum of sarua \u2014 which matches precisely the prose of heading 0 ('Animal vs Human Blemishes').",
+      "chosen_heading": "Animal vs Human Blemishes",
+      "current_heading": "Animal vs Human Blemishes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Abnormality Principle",
+    "candidates": [
+      "Abnormality Principle",
+      "Mari's Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why both-eyes-big or both-eyes-small is not a blemish for animals (attributable to natural health/weakness variation), which is precisely the content discussed in the 'Abnormality Principle' prose section.",
+      "chosen_heading": "Abnormality Principle",
+      "current_heading": "Abnormality Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Mari's Strategy",
+    "candidates": [
+      "Mari's Strategy",
+      "Protective Motive"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Protective Motive",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 concerns the convert's case before Rava about Rabbi Yehuda's ruling on gentile partnership \u2014 a distinct incident that precedes the Rav Mari bar Ra\u1e25el narrative and fits better under a heading discussing the practical ruling about Rabbi Yehuda's opinion, but among the candidates the closest available is 'Mari's Strategy' as a transitional placement; however, Item 1 is really a separate prior incident.",
+      "second_heading": "Mari's Strategy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes exactly the strategy of Rav Mari bar Ra\u1e25el \u2014 selling ears to a gentile, treating animals as bechoros, and the animals dying \u2014 which is precisely what 'Mari's Strategy' prose discusses.",
+      "current_heading": "Mari's Strategy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Protective Motive",
+    "candidates": [
+      "Protective Motive",
+      "Divine Punishment",
+      "Blemish vs Kedushah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the question about why Rav Mari sold the ear (answered by the protective motive of fearing mishap) and the follow-up question about why he was punished (answered by abrogating sanctity), and heading 0's prose explicitly addresses both the protective rationale and sets up the punishment question, making it the best single home for this unified Gemara exchange \u2014 the current placement is correct.",
+      "chosen_heading": "Protective Motive",
+      "current_heading": "Protective Motive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Blemish vs Kedushah",
+    "candidates": [
+      "Divine Punishment",
+      "Blemish vs Kedushah",
+      "Misinterpretation Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rav Yehuda ruling about inflicting a blemish in utero and the Gemara's distinction between abrogating sanctity of the altar versus sanctity of the priest, which is exactly what candidate 1 ('Blemish vs Kedushah') describes in its prose.",
+      "chosen_heading": "Blemish vs Kedushah",
+      "current_heading": "Blemish vs Kedushah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Misinterpretation Effect",
+    "candidates": [
+      "Misinterpretation Effect",
+      "Shulchan Aruch Rule",
+      "Modern Rationale",
+      "Transaction Mechanics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the 'misinterpretation effect' \u2014 others saw Rav Mari's valid transaction and imitated it improperly, leading to transgression \u2014 which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Misinterpretation Effect",
+      "current_heading": "Misinterpretation Effect",
+      "moved": false
+    }
+  }
+]

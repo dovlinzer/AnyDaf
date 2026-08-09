@@ -1,0 +1,660 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Titus's Punishment",
+    "candidates": [
+      "Churban Intro",
+      "Titus & Gnat",
+      "Onkelos Raises Titus",
+      "Titus's Punishment",
+      "Balaam Summoned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are part of the Onkelos-raises-Titus narrative: item 1 is the conversation about Israel's importance and Titus's advice, and item 2 is Titus's answer about his own punishment \u2014 all of which is described in detail in the 'Onkelos Raises Titus' prose, whereas 'Titus's Punishment' prose already covers Titus's punishment answer (dinei de-hahu gavra), meaning the current placement splits what belongs together under heading 2.",
+      "chosen_heading": "Onkelos Raises Titus",
+      "current_heading": "Titus's Punishment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Balaam Summoned",
+    "candidates": [
+      "Titus's Punishment",
+      "Balaam Summoned",
+      "Balaam's Hatred",
+      "Balaam's Torment",
+      "Yeshu Summoned",
+      "Yeshu's Advice",
+      "Yeshu's Torment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Balaam's Torment",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Balaam's punishment (boiling semen) which matches heading 3 'Balaam's Torment' exactly, not the summoning section.",
+      "second_heading": "Yeshu Summoned",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the raising/summoning of Jesus (Yeshu ha-Notzri) through necromancy and his answer about Israel, which matches heading 4 'Yeshu Summoned' exactly.",
+      "current_heading": "Balaam Summoned",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Yeshu's Torment",
+    "candidates": [
+      "Balaam's Hatred",
+      "Balaam's Torment",
+      "Yeshu Summoned",
+      "Yeshu's Advice",
+      "Yeshu's Torment",
+      "Heretic Contrast",
+      "Shame's Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Onkelos asking Jesus about his punishment, receiving the answer of boiling excrement for mocking the sages, and then the Gemara's concluding contrast between sinners of Israel and prophets of the nations \u2014 exactly what heading 4 ('Yeshu's Torment') and its prose describe.",
+      "chosen_heading": "Yeshu's Torment",
+      "current_heading": "Yeshu's Torment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Shame's Power",
+    "candidates": [
+      "Heretic Contrast",
+      "Shame's Power",
+      "Kamtza Story",
+      "Causes of Destruction",
+      "Wedding Tree Custom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about Rabbi Elazar and the power of shame, which is exactly what the 'Shame's Power' section's prose describes as its content.",
+      "chosen_heading": "Shame's Power",
+      "current_heading": "Shame's Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Wedding Tree Custom",
+    "candidates": [
+      "Kamtza Story",
+      "Causes of Destruction",
+      "Wedding Tree Custom",
+      "Caesar's Carriage",
+      "Jews Fight Back",
+      "Bar Droma Hero",
+      "Caesar Prays"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the rooster-and-hen wedding custom at Tur Malka, which is precisely what the 'Wedding Tree Custom' section's prose discusses.",
+      "chosen_heading": "Wedding Tree Custom",
+      "current_heading": "Wedding Tree Custom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Caesar Prays",
+    "candidates": [
+      "Caesar's Carriage",
+      "Jews Fight Back",
+      "Bar Droma Hero",
+      "Caesar Prays",
+      "Bathroom Death",
+      "Caesar Returns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items belong under 'Caesar Prays': item 1 contains Caesar's prayer after placing his crown on the ground, and item 2 contains bar Deroma's fatal utterance and the Gemara's discussion of it \u2014 all of which are explicitly described in candidate 3's prose.",
+      "chosen_heading": "Caesar Prays",
+      "current_heading": "Caesar Prays",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Caesar Returns",
+    "candidates": [
+      "Bathroom Death",
+      "Caesar Returns",
+      "Tur Malka Slaughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both bar Deroma's bathroom death AND Caesar's subsequent departure and return, but the 'Bathroom Death' heading's prose explicitly covers the snake/death scene while 'Caesar Returns' also covers the celebration material \u2014 however, since this is a single continuous passage that begins with the bathroom death and the 'Bathroom Death' section prose directly addresses this exact scene, it arguably belongs there, though the current placement under 'Caesar Returns' also covers much of the same content, making this a low-confidence call that the current placement may actually be better.",
+      "chosen_heading": "Bathroom Death",
+      "current_heading": "Caesar Returns",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Tur Malka Slaughter",
+    "candidates": [
+      "Tur Malka Slaughter",
+      "City Divided",
+      "Jacob's Beauty",
+      "600K Villages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the complete Rav Asi quote including both the slaughter and the festivities detail, and the current heading 'Tur Malka Slaughter' with its prose directly quotes and introduces this exact passage.",
+      "chosen_heading": "Tur Malka Slaughter",
+      "current_heading": "Tur Malka Slaughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "600K Villages",
+    "candidates": [
+      "City Divided",
+      "Jacob's Beauty",
+      "600K Villages",
+      "Three Villages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage begins with the verse 'bala Hashem ve-lo chamal et kol ne'ot Yaakov' and then introduces the 600K cities teaching, which matches the 'Jacob's Beauty' section prose that explicitly frames this verse from Eicha as introducing what follows, whereas the current placement (index 2) covers only the arithmetic elaboration that comes after the verse citation.",
+      "chosen_heading": "Jacob's Beauty",
+      "current_heading": "600K Villages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Three Villages",
+    "candidates": [
+      "600K Villages",
+      "Three Villages",
+      "Ulla Challenges",
+      "Land Expands"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the three villages (Kefar Bish, Kefar Shi\u1e25alayim, Kefar Dikhrayya) with their name explanations, which directly matches the 'Three Villages' section prose.",
+      "chosen_heading": "Three Villages",
+      "current_heading": "Three Villages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Land Expands",
+    "candidates": [
+      "Ulla Challenges",
+      "Land Expands",
+      "Three Rabbis Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Ulla's challenge AND Rabbi \u1e24anina's deer-skin response as one continuous unit, and candidate 0 ('Ulla Challenges') explicitly discusses both elements together \u2014 Ulla's observation and the heretic's challenge to Rabbi \u1e24anina \u2014 making it the better fit than splitting them across two headings.",
+      "chosen_heading": "Ulla Challenges",
+      "current_heading": "Land Expands",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Three Rabbis Query",
+    "candidates": [
+      "Land Expands",
+      "Three Rabbis Query",
+      "Betrothed Couple"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the three rabbis sitting together and asking about Kefar Sekhanya of Egypt, which is precisely what the 'Three Rabbis Query' section's prose discusses.",
+      "chosen_heading": "Three Rabbis Query",
+      "current_heading": "Three Rabbis Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Betrothed Couple",
+    "candidates": [
+      "Betrothed Couple",
+      "Grain Price Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the betrothed couple story \u2014 the man's restraint and the woman's eulogy comparing him to Joseph \u2014 which is precisely what the 'Betrothed Couple' prose discusses in detail.",
+      "chosen_heading": "Betrothed Couple",
+      "current_heading": "Betrothed Couple",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Grain Price Story",
+    "candidates": [
+      "Grain Price Story",
+      "False Accusation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the grain price story with the father and son who sinned on Yom Kippur, which is exactly what the 'Grain Price Story' prose section discusses in detail.",
+      "chosen_heading": "Grain Price Story",
+      "current_heading": "Grain Price Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "False Accusation",
+    "candidates": [
+      "False Accusation",
+      "Abaye Questions",
+      "No Mourning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'False Accusation' directly and exhaustively discusses both items \u2014 the man's scheme with egg white and Bava ben Buta's tradition from Shammai that exposed the fraud \u2014 making the current placement clearly correct.",
+      "chosen_heading": "False Accusation",
+      "current_heading": "False Accusation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "No Mourning",
+    "candidates": [
+      "Abaye Questions",
+      "No Mourning",
+      "Tree Planting",
+      "Trees for Chuppah",
+      "Caesar's Axle Breaks",
+      "Jews Defend Tree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's question and Rav Yosef's answer about mourning for Jerusalem, and the 'No Mourning' section's prose explicitly discusses both parts together, making it the best match for the complete exchange.",
+      "chosen_heading": "No Mourning",
+      "current_heading": "No Mourning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Jews Defend Tree",
+    "candidates": [
+      "Tree Planting",
+      "Trees for Chuppah",
+      "Caesar's Axle Breaks",
+      "Jews Defend Tree",
+      "Beitar Destroyed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers the entire sequence from the axle breaking to the beating and the report to Caesar, but the specific initiating event \u2014 the emperor's daughter passing by and the shaft breaking \u2014 is what Caesar's Axle Breaks section describes, and that section's prose explicitly covers 'itbar ashaka de-rispak' and the cutting of the cedar, making it the best single home for this complete passage.",
+      "chosen_heading": "Caesar's Axle Breaks",
+      "current_heading": "Jews Defend Tree",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Beitar Destroyed",
+    "candidates": [
+      "Jews Defend Tree",
+      "Beitar Destroyed",
+      "Blood Flows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Beitar Destroyed' prose \u2014 the verse about cutting off the horn of Israel, the eighty thousand battle trumpets, the slaughter of men, women, and children, and the note that the sea was a mil away \u2014 all of which is paraphrased in that section's prose.",
+      "chosen_heading": "Beitar Destroyed",
+      "current_heading": "Beitar Destroyed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Blood Flows",
+    "candidates": [
+      "Blood Flows",
+      "Elder's Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about two rivers in Bikat Yadayim running two-thirds water and one-third blood, and vineyards fertilized by blood for seven years, is explicitly discussed and quoted in the 'Blood Flows' section prose.",
+      "chosen_heading": "Blood Flows",
+      "current_heading": "Blood Flows",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Elder's Testimony",
+    "candidates": [
+      "Elder's Testimony",
+      "Blood Bubbles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the elder's testimony to Rabbi Yehoshua ben Kor\u1e25a about the mass killings by Nebuzaradan and the blood of Zechariah, which is precisely what the 'Elder's Testimony' section prose discusses.",
+      "chosen_heading": "Elder's Testimony",
+      "current_heading": "Elder's Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Blood Bubbles",
+    "candidates": [
+      "Blood Bubbles",
+      "Zechariah Confession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes finding Zechariah's bubbling blood, questioning what it is, and the failed comparison with animal blood \u2014 exactly what the 'Blood Bubbles' section prose discusses.",
+      "chosen_heading": "Blood Bubbles",
+      "current_heading": "Blood Bubbles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Zechariah Confession",
+    "candidates": [
+      "Zechariah Confession",
+      "Sanhedrin Slaughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the confession to Nebuzaradan about killing the prophet, which is exactly what the 'Zechariah Confession' section's prose discusses.",
+      "chosen_heading": "Zechariah Confession",
+      "current_heading": "Zechariah Confession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Sanhedrin Slaughter",
+    "candidates": [
+      "Sanhedrin Slaughter",
+      "Blood Settles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage includes both the slaughter sequence AND the final settling of the blood when Nebuzaradan speaks to Zechariah, and candidate 1's prose explicitly covers all these elements including the settling moment ('nach') and Nebuzaradan's subsequent reflection, making it the better match for the complete passage.",
+      "chosen_heading": "Blood Settles",
+      "current_heading": "Sanhedrin Slaughter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Blood Settles",
+    "candidates": [
+      "Sanhedrin Slaughter",
+      "Blood Settles",
+      "Nevuzaradan Converts",
+      "Naaman & Nev.",
+      "Haman's Line",
+      "Sisra's Line",
+      "Sancheriv's Line"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Nevuzaradan's moment of contemplating repentance after the blood ceased, which matches exactly the prose in 'Blood Settles' that quotes 'u-ve-hahu sha'ata hirher teshuvah be-da'atei' and his reasoning about punishment for killing many souls \u2014 the current placement is correct.",
+      "chosen_heading": "Blood Settles",
+      "current_heading": "Blood Settles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149
+    ],
+    "current_heading": "Sancheriv's Line",
+    "candidates": [
+      "Nevuzaradan Converts",
+      "Naaman & Nev.",
+      "Haman's Line",
+      "Sisra's Line",
+      "Sancheriv's Line",
+      "Zechariah Verse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Naaman & Nev.",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about Naaman as ger toshav and Nebuzaradan as ger tzedek, which matches exactly the prose of candidate 1 ('Naaman & Nev.').",
+      "second_heading": "Haman's Line",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers Haman's, Sisera's, and Sennacherib's descendants (including Shemaya and Avtalyon) as a single continuous passage, and candidate 2 ('Haman's Line') is the first heading whose prose begins discussing this exact content, making it the correct starting point for this multi-part unit.",
+      "current_heading": "Sancheriv's Line",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Zechariah Verse",
+    "candidates": [
+      "Sancheriv's Line",
+      "Zechariah Verse",
+      "Hadrian & Vespa."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes and references the Ezekiel 24:8 verse about blood on bare rock that cannot be covered, which is exactly what the 'Zechariah Verse' section's prose discusses \u2014 the blood of Zechariah lying exposed on the floor of the Beis ha-Mikdash.",
+      "chosen_heading": "Zechariah Verse",
+      "current_heading": "Zechariah Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "Hadrian & Vespa.",
+    "candidates": [
+      "Hadrian & Vespa.",
+      "Prayer & War"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Hadrian and Vespasian's destructions and Rome's exile of Israel, which is precisely what the prose under heading 0 elaborates on in detail.",
+      "chosen_heading": "Hadrian & Vespa.",
+      "current_heading": "Hadrian & Vespa.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Prayer & War",
+    "candidates": [
+      "Prayer & War",
+      "Two Destructions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'voice of Jacob' as prayer and 'hands of Esau' as war, which exactly matches the 'Prayer & War' section's prose that quotes and explains these same concepts.",
+      "chosen_heading": "Prayer & War",
+      "current_heading": "Prayer & War",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Two Destructions",
+    "candidates": [
+      "Two Destructions",
+      "Children Captive",
+      "Eldest Interprets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what the prose under 'Two Destructions' describes: Rav Yehuda/Rav's teaching that Psalm 137 showed David both destructions, with the First Temple linked to 'By the rivers of Babylon' and the Second to 'children of Edom' (Rome), matching the current placement perfectly.",
+      "chosen_heading": "Two Destructions",
+      "current_heading": "Two Destructions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      169
+    ],
+    "current_heading": "Eldest Interprets",
+    "candidates": [
+      "Children Captive",
+      "Eldest Interprets",
+      "Children Jump"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire story from the captivity setup through the eldest's interpretation, matching heading 0's prose which introduces the incident and the children sensing their fate, while heading 1 splits out only the interpretation portion \u2014 the full passage belongs under 'Children Captive' which encompasses the complete narrative unit.",
+      "chosen_heading": "Children Captive",
+      "current_heading": "Eldest Interprets",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      172
+    ],
+    "current_heading": "Children Jump",
+    "candidates": [
+      "Eldest Interprets",
+      "Children Jump",
+      "Sheep Verse",
+      "Halakhic Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes both the girls leaping into the sea and the boys' kal va-chomer reasoning followed by their leap, which matches exactly the 'Children Jump' section's prose content.",
+      "chosen_heading": "Children Jump",
+      "current_heading": "Children Jump",
+      "moved": false
+    }
+  }
+]

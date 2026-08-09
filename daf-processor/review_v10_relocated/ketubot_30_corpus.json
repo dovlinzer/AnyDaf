@@ -1,0 +1,257 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Niddah Status",
+    "candidates": [
+      "Knas Prohibited Women",
+      "Niddah Exception",
+      "Niddah Status",
+      "R. Nechunya Position",
+      "Haystack Yom Kippur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Chisda's statement that everyone agrees a man who has relations with a niddah pays the fine, which is precisely what the 'Niddah Exception' prose introduces and discusses.",
+      "chosen_heading": "Niddah Exception",
+      "current_heading": "Niddah Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Haystack Yom Kippur",
+    "candidates": [
+      "R. Nechunya Position",
+      "Haystack Yom Kippur",
+      "Abaye Ason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about Rabbi Ne\u1e25unya ben HaKana as the content being excluded by the mishna's ruling, which directly corresponds to heading 0 ('R. Nechunya Position') whose prose explicitly introduces this baraita as the position being excluded, whereas heading 1 ('Haystack Yom Kippur') discusses the haystack analogy and the broader implications of the position rather than the initial introduction of it.",
+      "chosen_heading": "R. Nechunya Position",
+      "current_heading": "Haystack Yom Kippur",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Abaye Ason",
+    "candidates": [
+      "Haystack Yom Kippur",
+      "Abaye Ason",
+      "Challenge Yaakov",
+      "All Tragedies",
+      "Heat Cold Divine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's derivation from the word 'ason' (gezerah shavah between ason bid'ei adam and ason bid'ei shamayim), which is precisely what the 'Abaye Ason' section's prose describes and analyzes.",
+      "chosen_heading": "Abaye Ason",
+      "current_heading": "Abaye Ason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Heat Cold Divine",
+    "candidates": [
+      "Challenge Yaakov",
+      "All Tragedies",
+      "Heat Cold Divine",
+      "Four Executions",
+      "Korban Molech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the challenge about tzinin/pachim vs. arya/ganavei, the baraita about hakol bid'ei shamayim, the arba misos teaching, and the final reversal \u2014 which is precisely what heading 2 ('Heat Cold Divine') describes in its prose.",
+      "chosen_heading": "Heat Cold Divine",
+      "current_heading": "Heat Cold Divine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Korban Molech",
+    "candidates": [
+      "Four Executions",
+      "Korban Molech",
+      "Rava vs Abaye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's derivation from the Molech verse equating karet with court execution, which is precisely what the 'Korban Molech' section's prose describes and analyzes.",
+      "chosen_heading": "Korban Molech",
+      "current_heading": "Korban Molech",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Rava vs Abaye",
+    "candidates": [
+      "Rava vs Abaye",
+      "Terumah Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the practical difference between Rava and Abaye regarding a non-priest who ate teruma, which is exactly what the 'Rava vs Abaye' section's prose describes.",
+      "chosen_heading": "Rava vs Abaye",
+      "current_heading": "Rava vs Abaye",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Terumah Eating",
+    "candidates": [
+      "Terumah Eating",
+      "Theft Separate",
+      "Forced Food",
+      "Spitting Out"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the content described in candidate 0's prose: Rav \u1e24isda's statement about Rabbi Ne\u1e25unya ben HaKana conceding liability for stolen chelev, the reasoning about temporal separation between theft and eating, and the Gemara's answer about another inserting food into his mouth \u2014 all of which the candidate 0 prose explicitly discusses, with the 'forced food' answer being just the concluding line that transitions to candidate 2.",
+      "chosen_heading": "Terumah Eating",
+      "current_heading": "Terumah Eating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Spitting Out",
+    "candidates": [
+      "Theft Separate",
+      "Forced Food",
+      "Spitting Out",
+      "Stomach Benefit",
+      "Liquids Terumah",
+      "Simultaneous Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the scenario of inserting food into the pharynx (beit habli'ah), the challenge about whether one can retrieve it, and the resolution about retrieving it only under duress \u2014 all of which is the specific content described in the 'Spitting Out' section's prose.",
+      "chosen_heading": "Spitting Out",
+      "current_heading": "Spitting Out",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Simultaneous Acts",
+    "candidates": [
+      "Stomach Benefit",
+      "Liquids Terumah",
+      "Simultaneous Acts",
+      "Timeline Separate",
+      "Arrow Four Amos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rav Pappa's case (liquids of terumah thrust into his mouth) and Rav Ashi's case (non-priest eating his own terumah while tearing silk), and candidate 1 'Liquids Terumah' explicitly discusses Rav Pappa's liquids-of-terumah framework as its primary content, making it the better home for this passage than candidate 2 which focuses on Rav Ashi's case in isolation.",
+      "chosen_heading": "Liquids Terumah",
+      "current_heading": "Simultaneous Acts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Arrow Four Amos",
+    "candidates": [
+      "Timeline Separate",
+      "Arrow Four Amos",
+      "Akira Hanachah",
+      "Eating No Pickup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24isda's ruling that Rabbi Ne\u1e25unya concedes liability when theft and eating are temporally separate acts generating independent obligations, which matches the 'Timeline Separate' prose, while also raising the Rabbi Avin arrow objection \u2014 but the full Gemara unit (including the arrow challenge) introduces Rav \u1e24isda's principle, which is the topic of heading 0, and the current placement under 'Arrow Four Amos' splits the Gemara unit artificially when the passage actually begins with and centers on Rav \u1e24isda's foundational ruling about separate timeline liability.",
+      "chosen_heading": "Timeline Separate",
+      "current_heading": "Arrow Four Amos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Eating No Pickup",
+    "candidates": [
+      "Akira Hanachah",
+      "Eating No Pickup",
+      "Interrupt Criterion",
+      "Knife Reshus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both the 'eating without lifting' distinction (gachin v'achil) and the 'can replace it' distinction, which together correspond exactly to what candidate 1 ('Eating No Pickup') discusses \u2014 the Gemara's rejection of the analogy between arrow-carrying and food-lifting based on the physical possibility of eating without hagbahah, plus the alternative answer about reversibility.",
+      "chosen_heading": "Eating No Pickup",
+      "current_heading": "Eating No Pickup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Knife Reshus",
+    "candidates": [
+      "Interrupt Criterion",
+      "Knife Reshus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the practical difference (knife in reshut harabim tearing silk) between the two formulations, which is exactly what the 'Knife Reshus' section's prose describes and analyzes.",
+      "chosen_heading": "Knife Reshus",
+      "current_heading": "Knife Reshus",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,429 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rav Yehuda's Position",
+    "candidates": [
+      "Brothers: Eating vs Sleep",
+      "Rav Yehuda's Position",
+      "Rava vs. Shmuel",
+      "Shepherds' Domicile",
+      "Eating Preference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Ben Nappa\u1e25a incident in Usha where Sages ruled only a house of residence renders carrying prohibited, which is precisely what the 'Rav Yehuda's Position' section discusses as its central illustrative precedent.",
+      "chosen_heading": "Rav Yehuda's Position",
+      "current_heading": "Rav Yehuda's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Eating Preference",
+    "candidates": [
+      "Rava vs. Shmuel",
+      "Shepherds' Domicile",
+      "Eating Preference",
+      "Five Wives & Servants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous unit: the correction of 'beis dira' to 'mekom dira,' the Rav/Shmuel dispute about what constitutes mekom dira, the baraita challenge from shepherds sleeping in the field, and the gemara's deflection \u2014 exactly the content described under the 'Shepherds' Domicile' heading, which discusses the baraita challenge and its apparent support for Shmuel's sleeping-based criterion.",
+      "chosen_heading": "Shepherds' Domicile",
+      "current_heading": "Eating Preference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Five Wives & Servants",
+    "candidates": [
+      "Eating Preference",
+      "Five Wives & Servants",
+      "Ben Beseira's View",
+      "Ben Baba's View",
+      "Rav's Reasoning"
+    ],
+    "result": {
+      "best_index": 1,
+      "action": "single",
+      "chosen_heading": "Five Wives & Servants",
+      "current_heading": "Five Wives & Servants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rav's Reasoning",
+    "candidates": [
+      "Ben Beseira's View",
+      "Ben Baba's View",
+      "Rav's Reasoning",
+      "Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav's rationale for Rabbi Yehuda ben Baba's position using the Daniel verse, which is precisely what heading 2 'Rav's Reasoning' describes in its prose.",
+      "chosen_heading": "Rav's Reasoning",
+      "current_heading": "Rav's Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Distinctions",
+    "candidates": [
+      "Distinctions",
+      "Students at Yeshiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage summarizes the established cases (son with father, wife with husband, slave with master) and then poses the question about a student \u2014 this summary and transition is exactly what the 'Distinctions' prose describes, while the 'Students at Yeshiva' prose covers what comes after this question is raised.",
+      "chosen_heading": "Distinctions",
+      "current_heading": "Distinctions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Students at Yeshiva",
+    "candidates": [
+      "Students at Yeshiva",
+      "Five Contributors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav and Rabbi \u1e24iyya declaring students need not make an eruv because they rely on their Rebbe's table, which is exactly what the 'Students at Yeshiva' prose discusses.",
+      "chosen_heading": "Students at Yeshiva",
+      "current_heading": "Students at Yeshiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Five Contributors",
+    "candidates": [
+      "Five Contributors",
+      "Brothers' Role",
+      "Strangers' Effect",
+      "Receiving vs Contrib"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Both items together form the continuous exchange initiated by Abaye's dilemma about five people who collected their eruv, including the challenge from brothers and its resolution \u2014 all of which is summarized under heading 0's prose about the question posed to Rava and his answer, while headings 1 and 2 describe the same content but the current placement at heading 0 already covers the full exchange, and the challenge/resolution items are part of the same unbroken dialogue that heading 0 introduces.",
+      "chosen_heading": "Five Contributors",
+      "current_heading": "Five Contributors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Receiving vs Contrib",
+    "candidates": [
+      "Brothers' Role",
+      "Strangers' Effect",
+      "Receiving vs Contrib",
+      "Students' Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's 'shma mina' conclusion \u2014 that the halakha depends on whether strangers are present in the courtyard \u2014 directly supports the prose in 'Receiving vs Contrib' which explicitly discusses this confirmatory reasoning and the role of strangers in disaggregating units.",
+      "chosen_heading": "Receiving vs Contrib",
+      "current_heading": "Receiving vs Contrib",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Students' Location",
+    "candidates": [
+      "Students' Location",
+      "Bread Location Priority",
+      "Contextual Preference",
+      "Rami's Question",
+      "Unit Classification",
+      "Mavoi Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-objection-answer chain about measuring the Shabbat limit for yeshiva students, exactly matching the prose of heading 0 (and the resolution in item 3 matches heading 2's prose, but all items belong together and heading 0 introduces the entire unit including the subsequent challenge and answer).",
+      "chosen_heading": "Students' Location",
+      "current_heading": "Students' Location",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Mavoi Requirements",
+    "candidates": [
+      "Bread Location Priority",
+      "Contextual Preference",
+      "Rami's Question",
+      "Unit Classification",
+      "Mavoi Requirements",
+      "No Strangers Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rami bar Chama's question to Rav Chisda about whether a father and son or a master and student are considered as many or as individuals, which is precisely what the prose under 'Rami's Question' describes.",
+      "chosen_heading": "Rami's Question",
+      "current_heading": "Mavoi Requirements",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "No Strangers Rule",
+    "candidates": [
+      "Mavoi Requirements",
+      "No Strangers Rule",
+      "Lechi & Kora Leniency",
+      "Five Courtyards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's citation of the baraita about father/son and Rav/student being like individuals when no strangers are present, which is precisely what the 'No Strangers Rule' prose describes and analyzes.",
+      "chosen_heading": "No Strangers Rule",
+      "current_heading": "No Strangers Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Five Courtyards",
+    "candidates": [
+      "Lechi & Kora Leniency",
+      "Five Courtyards",
+      "Eruv Alone",
+      "Shituf Alone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing the case of five courtyards opening into an alleyway, which directly matches the 'Five Courtyards' section prose that describes this new mishna and its exploration of the interplay between eruv chatzeros and shituf meva'ot.",
+      "chosen_heading": "Five Courtyards",
+      "current_heading": "Five Courtyards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Shituf Alone",
+    "candidates": [
+      "Eruv Alone",
+      "Shituf Alone",
+      "Asymmetry",
+      "Gemara's Objection",
+      "Need Both",
+      "One Forgot Eruv",
+      "One Forgot Shituf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the case where shituf alone permits carrying both in the courtyards and the mavoi, which is exactly what the 'Shituf Alone' section's prose discusses.",
+      "chosen_heading": "Shituf Alone",
+      "current_heading": "Shituf Alone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "One Forgot Shituf",
+    "candidates": [
+      "Asymmetry",
+      "Gemara's Objection",
+      "Need Both",
+      "One Forgot Eruv",
+      "One Forgot Shituf",
+      "Shituf Backup Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items constitute the gemara's internal challenge to the mishna's asymmetry \u2014 testing Rabbi Meir vs. rabanan attribution, raising the bitul reshut problem, and concluding with the contradiction that the first and last clauses belong to Rabbi Meir while the middle belongs to the rabanan \u2014 which is precisely what the 'Gemara's Objection' prose describes.",
+      "chosen_heading": "Gemara's Objection",
+      "current_heading": "One Forgot Shituf",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Shituf Backup Logic",
+    "candidates": [
+      "One Forgot Shituf",
+      "Shituf Backup Logic",
+      "Text Variant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains Rabbi Meir's reasoning about why shituf can substitute for eruv when most participated \u2014 exactly the 'shelo lishakeach' principle discussed in the 'Shituf Backup Logic' prose, which is where it currently sits.",
+      "chosen_heading": "Shituf Backup Logic",
+      "current_heading": "Shituf Backup Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Text Variant",
+    "candidates": [
+      "Text Variant",
+      "Why Eruv Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly reports Rav Yehuda's and Rav Kahana's statements about Rav's textual version of the mishna not including 'open into one another,' which is precisely what the 'Text Variant' prose describes.",
+      "chosen_heading": "Text Variant",
+      "current_heading": "Text Variant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Why Eruv Fails",
+    "candidates": [
+      "Why Eruv Fails",
+      "Entry & Exit",
+      "Direct Passage Problem",
+      "Not a True Shituf",
+      "Business Partner Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rav Kahana's requirement that shituf be brought in and taken out through the mavoi's entrances (machniso u-motzio derech ptachim ba-mavoi), which is precisely what the 'Entry & Exit' prose section describes.",
+      "chosen_heading": "Entry & Exit",
+      "current_heading": "Why Eruv Fails",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Business Partner Case",
+    "candidates": [
+      "Entry & Exit",
+      "Direct Passage Problem",
+      "Not a True Shituf",
+      "Business Partner Case",
+      "Shared Meal Bread",
+      "Location Matters",
+      "One Courtyard Result",
+      "Lechi Ineligibility",
+      "Transformation Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the gemara's objection from the mishna about a wine-partnership homeowner and the response that they did physically take the wine in and out (d'afkei ve'ayeilei), which is precisely what the 'Business Partner Case' prose describes.",
+      "chosen_heading": "Business Partner Case",
+      "current_heading": "Business Partner Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141,
+      142
+    ],
+    "current_heading": "Transformation Problem",
+    "candidates": [
+      "Shared Meal Bread",
+      "Location Matters",
+      "One Courtyard Result",
+      "Lechi Ineligibility",
+      "Transformation Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "medium",
+      "reason": "The passage's culminating item (item 4) states Rav's actual reason \u2014 that a mavoi requires houses and courtyards opening into it \u2014 which directly corresponds to candidate 4's prose about Rav's structural concern, and the earlier items are the objections that led the gemara to abandon the traversal explanation and arrive at this conclusion.",
+      "chosen_heading": "Transformation Problem",
+      "current_heading": "Transformation Problem",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Log De'Oraita",
+    "candidates": [
+      "Log De'Oraita",
+      "Log & Honey",
+      "Shminis Measure",
+      "Why 'Ancient'?",
+      "Kos Dimensions",
+      "Dried Wine",
+      "Rabbi Natan"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Log De'Oraita",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the three baskets (kupot) used for terumat halishka, their measure of 3 seah each totaling 9 seah (27 seah total), and the aleph-bet-gimel labeling \u2014 matching the essay's opening prose about the digression prompted by the baskets used for terumat halishka.",
+      "second_heading": "Kos Dimensions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is a parallel inquiry (same formula: Rabbi Ze'ira asks Rabbi Joshiah, 'what is the measure?', answered by inferring hidden from explicit) but concerns the shiur of a kos/cup for the Four Cups, which matches the 'Kos Dimensions' section's prose about the shiur of a kos.",
+      "current_heading": "Log De'Oraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rabbi Natan",
+    "candidates": [
+      "Log & Honey",
+      "Shminis Measure",
+      "Why 'Ancient'?",
+      "Kos Dimensions",
+      "Dried Wine",
+      "Rabbi Natan",
+      "Mule Story",
+      "Blood Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the measure of a mixed cup (kos) and its shiur, which directly matches the 'Kos Dimensions' section's prose about the shiur of a kos and its measurements.",
+      "chosen_heading": "Kos Dimensions",
+      "current_heading": "Rabbi Natan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Blood Amount",
+    "candidates": [
+      "Mule Story",
+      "Blood Amount",
+      "Bibi's Version",
+      "Paltar Bread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "None of the candidate headings discuss the Four Cups of wine at the Passover seder; the passage appears misplaced in this section of the essay, but since the true home must be among these candidates, the current placement is retained with low confidence.",
+      "chosen_heading": "Blood Amount",
+      "current_heading": "Blood Amount",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Paltar Bread",
+    "candidates": [
+      "Bibi's Version",
+      "Paltar Bread",
+      "Halakha Decision",
+      "BenPesora",
+      "Sheretz Blood",
+      "Amoraim Split",
+      "Advuma's Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items are about a person's face being shiny/luminous (\u05d0\u05e4\u05d5\u05d9 \u05e0\u05d4\u05d9\u05e8\u05d9\u05df/\u05e0\u05d4\u05d5\u05e8\u05d9\u05df) being attributed to Torah wisdom and the verse 'a man's wisdom illuminates his face' \u2014 this matches the Advuma's Proof section's prose which explicitly discusses how Rabbi Yehuda was the posek for Rebbi's household and raises the question of Rebbi's time for learning, making the digression about wisdom illuminating the face of a Torah scholar a natural fit there, and it clearly does not belong under the current 'Paltar Bread' heading which discusses anxiety about food supply.",
+      "chosen_heading": "Advuma's Proof",
+      "current_heading": "Paltar Bread",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Advuma's Proof",
+    "candidates": [
+      "Halakha Decision",
+      "BenPesora",
+      "Sheretz Blood",
+      "Amoraim Split",
+      "Advuma's Proof",
+      "Appearance Issue",
+      "Body Search",
+      "Bracha Issue",
+      "Clean Twice",
+      "Three Sources",
+      "Cleanest Pasuk",
+      "Gamliel Timing",
+      "Take Terumah?",
+      "Tarping System",
+      "Three Regions",
+      "Grain Analogy",
+      "Barayta Pronouncements",
+      "Tarp Slip",
+      "Gold Coins"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Gold Coins",
+    "candidates": [
+      "Appearance Issue",
+      "Body Search",
+      "Bracha Issue",
+      "Clean Twice",
+      "Three Sources",
+      "Cleanest Pasuk",
+      "Gamliel Timing",
+      "Take Terumah?",
+      "Tarping System",
+      "Three Regions",
+      "Grain Analogy",
+      "Barayta Pronouncements",
+      "Tarp Slip",
+      "Gold Coins",
+      "Basket Cycle",
+      "Exhausted Baskets",
+      "Meir: Use Shirayim",
+      "Sanctified?",
+      "Pinchas Chain",
+      "Pinchas Proofs",
+      "Fixed in Israel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Gold Coins",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the Gamliel shekel practice, three regional removals, tarp covering, gold coins in the third collection, and the Pinchas ben Yair chain \u2014 all matching the 'Gold Coins' section's prose about the third collection being richest and the formal regional designations.",
+      "second_heading": "Three Sources",
+      "second_confidence": "medium",
+      "second_reason": "Items 3 onward begin an entirely new Mishnah ('For what was the disbursement used?') about Temple expenditures from the terumah funds, which is a self-contained unit distinct from the preceding removal procedure discussion, best fitting under 'Three Sources' as the next available section after the current placement.",
+      "current_heading": "Gold Coins",
+      "moved": true
+    }
+  }
+]

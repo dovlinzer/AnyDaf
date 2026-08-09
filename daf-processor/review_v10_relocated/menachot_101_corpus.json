@@ -1,0 +1,530 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Kedushat Damim vs. Haguf",
+    "candidates": [
+      "Sanctity Levels",
+      "Kedushat Damim vs. Haguf",
+      "Animals vs. Mum"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Animals vs. Mum",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah about birds/wood/frankincense/vessels having no redemption, which is the closing clause of the Animals vs. Mum section explaining why non-animal items with kedushat haguf cannot be redeemed.",
+      "second_heading": "Kedushat Damim vs. Haguf",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are Shmuel's ruling that even pure menachot/nesachim may be redeemed before kli sharet, plus the gemara's challenge about the mishna's tumah language and its resolution \u2014 exactly the kedushat damim vs. haguf distinction described in candidate 1's prose.",
+      "current_heading": "Kedushat Damim vs. Haguf",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Animals vs. Mum",
+    "candidates": [
+      "Animals vs. Mum",
+      "Middle List Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the analogy between tumah and mum \u2014 explaining why impure items cannot be redeemed despite seeming analogous to blemished animals \u2014 which is precisely what the 'Animals vs. Mum' prose describes as the framework Shmuel erects.",
+      "chosen_heading": "Animals vs. Mum",
+      "current_heading": "Animals vs. Mum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Middle List Problem",
+    "candidates": [
+      "Middle List Problem",
+      "The Specific Items",
+      "No Redemption When Tamei",
+      "Birds Analysis",
+      "Wood & Frankincense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All four items form one continuous Talmudic passage establishing the scriptural basis for calling blemished animals 'tamei' (items 1-3) before Rav Huna bar Manoach raises his objection from the mishna's list (item 4), and heading 0's prose about that objection and the list is the best match for the passage as a whole.",
+      "chosen_heading": "Middle List Problem",
+      "current_heading": "Middle List Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Wood & Frankincense",
+    "candidates": [
+      "The Specific Items",
+      "No Redemption When Tamei",
+      "Birds Analysis",
+      "Wood & Frankincense",
+      "Kli Sharet Purification",
+      "Fundamentally Tahor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together form the gemara's argument about wood, frankincense, and service vessels not being redeemable because they are effectively still tahor, which is precisely what heading 3 ('Wood & Frankincense') describes in its prose.",
+      "chosen_heading": "Wood & Frankincense",
+      "current_heading": "Wood & Frankincense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Fundamentally Tahor",
+    "candidates": [
+      "Kli Sharet Purification",
+      "Fundamentally Tahor",
+      "Shmuel Rejects Theory",
+      "General Redemption Rule",
+      "Rarity Exception",
+      "Wood Rarity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection ('No, actually...') of the prior theory, stating that tahor items are generally redeemable and the middle list is an exception due to rarity \u2014 which is precisely what the 'Shmuel Rejects Theory' prose describes.",
+      "chosen_heading": "Shmuel Rejects Theory",
+      "current_heading": "Fundamentally Tahor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Wood Rarity",
+    "candidates": [
+      "Shmuel Rejects Theory",
+      "General Redemption Rule",
+      "Rarity Exception",
+      "Wood Rarity",
+      "Mizbe'ach Principle",
+      "Animal Redemption",
+      "Parallel Logic",
+      "Shmuel Consistent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the challenge about wood being common and the answer about worms disqualifying wood, which corresponds precisely to candidate 2's prose ('Rarity Exception') that describes both the gemara raising the difficulty about wood being common and then asking why the same restriction applies \u2014 the answer (worm disqualification) is the natural completion of that section's discussion, not a separate section.",
+      "chosen_heading": "Rarity Exception",
+      "current_heading": "Wood Rarity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Shmuel Consistent",
+    "candidates": [
+      "Mizbe'ach Principle",
+      "Animal Redemption",
+      "Parallel Logic",
+      "Shmuel Consistent",
+      "Rav Kahana Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together form the complete Rav Pappa challenge-and-resolution unit: the baraita challenge (item 1), Shmuel's non-retraction (item 2), and the parallel logic about blemishes being common (item 3), which is precisely what the 'Shmuel Consistent' prose describes in full detail.",
+      "chosen_heading": "Shmuel Consistent",
+      "current_heading": "Shmuel Consistent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rav Kahana Position",
+    "candidates": [
+      "Rav Kahana Position",
+      "Rabi Oshaya Agrees",
+      "Alt: Tahor Redeemable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three elements \u2014 Rav Kahana's position, Rabbi Oshaya's agreement, and the alternative version of Rabbi Oshaya \u2014 and the current placement under 'Rav Kahana Position' is where the passage begins, making it the natural home for the entire unified excerpt.",
+      "chosen_heading": "Rav Kahana Position",
+      "current_heading": "Rav Kahana Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Alt: Tahor Redeemable",
+    "candidates": [
+      "Rabi Oshaya Agrees",
+      "Alt: Tahor Redeemable",
+      "Minchat Chatai Exception",
+      "Oleh V'Yored System",
+      "Movement Between Levels",
+      "Minchat Chatai Redemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Elazar's ruling that all meal offerings are redeemed only when impure except for the minchat chotei, which matches exactly the prose in 'Minchat Chatai Exception' describing this position.",
+      "chosen_heading": "Minchat Chatai Exception",
+      "current_heading": "Alt: Tahor Redeemable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Minchat Chatai Redemption",
+    "candidates": [
+      "Minchat Chatai Exception",
+      "Oleh V'Yored System",
+      "Movement Between Levels",
+      "Minchat Chatai Redemption",
+      "Piggul in Mincha",
+      "Assur Behenaa Rule",
+      "Tanna Kamma View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the Torah's use of 'me\u1e25attato' versus 'al \u1e25attato' to teach that financial status determines the level of offering, which is precisely what the 'Movement Between Levels' section's prose discusses.",
+      "chosen_heading": "Movement Between Levels",
+      "current_heading": "Minchat Chatai Redemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Tanna Kamma View",
+    "candidates": [
+      "Piggul in Mincha",
+      "Assur Behenaa Rule",
+      "Tanna Kamma View",
+      "Rabbi Shimon Exception",
+      "Basar Bechalav Case",
+      "Pesuk Interpretation",
+      "Food Definition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Piggul in Mincha",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces Rabbi Oshaya's statement about piggul in a mincha, which matches heading 0 ('Piggul in Mincha') perfectly, and the baraita citation beginning with orlah/kilai hakerem serves as the evidentiary basis for that claim.",
+      "second_heading": "Tanna Kamma View",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 present the Tanna Kamma's view that forbidden-benefit items are still susceptible to tumat ochlin and Rabbi Shimon's dissent, which matches heading 2 ('Tanna Kamma View') whose prose explicitly describes this mishna listing orla, shor haniskal, egla arufa, etc. and the Tanna Kamma's position.",
+      "current_heading": "Tanna Kamma View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Food Definition",
+    "candidates": [
+      "Rabbi Shimon Exception",
+      "Basar Bechalav Case",
+      "Pesuk Interpretation",
+      "Food Definition",
+      "Assur Behenaa Not Food",
+      "Basar Bechalav OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yochanan's derivation of Rabbi Shimon's reason from the verse 'mi-kol ha-ochel asher ye'achel,' which is precisely what the 'Pesuk Interpretation' section is about, not the 'Food Definition' section which discusses the positive threshold of feeding others.",
+      "chosen_heading": "Pesuk Interpretation",
+      "current_heading": "Food Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Basar Bechalav OK",
+    "candidates": [
+      "Assur Behenaa Not Food",
+      "Basar Bechalav OK",
+      "Two Reasons",
+      "Notar Before/After",
+      "Notar Before Zerika",
+      "Notar After Zerika",
+      "Sha'at Hakoasher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous unit: the gemara raises the question about basar bechalav (item 1), cites the baraita with Rabbi Shimon's ruling that it is muttar be-hana'ah (item 2), and resolves why two reasons were given (item 3) \u2014 matching exactly the prose of candidate 1 ('Basar Bechalav OK'), which describes this precise sequence including the baraita, the gezeirah shavah, and Rabbi Shimon's position, while candidate 2 ('Two Reasons') only describes the chada ve-od answer but the passage as a whole is anchored in the basar bechalav discussion under heading 1.",
+      "chosen_heading": "Basar Bechalav OK",
+      "current_heading": "Basar Bechalav OK",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Sha'at Hakoasher",
+    "candidates": [
+      "Two Reasons",
+      "Notar Before/After",
+      "Notar Before Zerika",
+      "Notar After Zerika",
+      "Sha'at Hakoasher",
+      "Growing Sanctification",
+      "No Sha'at Hakoasher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items form a continuous unit \u2014 the baraita's challenge regarding notar before/after zerika and piggul in animal vs. meal offerings, followed by the lo kashya resolution about sha'at ha-kosher \u2014 which is precisely what heading 4 ('Sha'at Hakoasher') describes in its prose, including the tension with Rabbi Oshaya and the lo kashya resolution.",
+      "chosen_heading": "Sha'at Hakoasher",
+      "current_heading": "Sha'at Hakoasher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "No Sha'at Hakoasher",
+    "candidates": [
+      "Growing Sanctification",
+      "No Sha'at Hakoasher",
+      "Theoretical Redemption",
+      "Redemption Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 asking what circumstances create 'no sha'at hakoasher' and answering that he consecrated the wheat while still attached to the ground \u2014 is precisely the scenario described in candidate 0's prose ('de-hikdishanu bi-mchubar'), which introduces and explains this very mechanism, making it a clearly better fit than candidate 1 which discusses the consequences of that scenario rather than its definition.",
+      "chosen_heading": "Growing Sanctification",
+      "current_heading": "No Sha'at Hakoasher",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Redemption Logic",
+    "candidates": [
+      "Theoretical Redemption",
+      "Redemption Logic",
+      "Could/Is Principle",
+      "Para Aduma Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly enacts the gemara's engagement with both versions of Rabbi Oshaya's ruling (tamei/tahor redeemed) and the ve-lifrikinhu challenge with the ha-shta lo parik answer, which is precisely what the 'Redemption Logic' prose describes in detail.",
+      "chosen_heading": "Redemption Logic",
+      "current_heading": "Redemption Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150
+    ],
+    "current_heading": "Para Aduma Case",
+    "candidates": [
+      "Could/Is Principle",
+      "Para Aduma Case",
+      "Para Always Redeemable",
+      "Better Para Search"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce and source Rabbi Shimon's principle that 'anything standing to be redeemed is considered as if redeemed' \u2014 exactly what candidate 0's prose describes as the gemara's immediate pushback citing that principle, before the para aduma distinction in candidates 2-3.",
+      "chosen_heading": "Could/Is Principle",
+      "current_heading": "Para Aduma Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      157
+    ],
+    "current_heading": "Better Para Search",
+    "candidates": [
+      "Para Always Redeemable",
+      "Better Para Search",
+      "No Menachot Search",
+      "Meat Unsprinkled",
+      "Missing Earlier Case",
+      "Opportunity vs Need"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the 'parah stands to be redeemed' point and the 'but is there a mitzvah to redeem menachot?' contrast in a single Gemara exchange, but the opening distinction ('how can these be compared \u2014 granted, parah stands to be redeemed') is the primary content, matching heading 0's prose about parah being genuinely and continuously in a state of potential redemption; headings 0, 1, and 2 together form one continuous Gemara argument that should be read as a unit, and heading 0 is where it starts.",
+      "chosen_heading": "Para Always Redeemable",
+      "current_heading": "Better Para Search",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173
+    ],
+    "current_heading": "Opportunity vs Need",
+    "candidates": [
+      "No Menachot Search",
+      "Meat Unsprinkled",
+      "Missing Earlier Case",
+      "Opportunity vs Need",
+      "Piggul at Zerika",
+      "Baraita Contrast"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Meat Unsprinkled",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-5 form a continuous challenge-and-resolution chain about whether meat left overnight before sprinkling counts as food, which the 'Meat Unsprinkled' section introduces as the central question.",
+      "second_heading": "Piggul at Zerika",
+      "second_confidence": "high",
+      "second_reason": "Items 6-7 open an entirely new piggul challenge with new facts about piggul in animal sacrifice, matching precisely the 'Piggul at Zerika' prose.",
+      "current_heading": "Opportunity vs Need",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      179,
+      180
+    ],
+    "current_heading": "Baraita Contrast",
+    "candidates": [
+      "Piggul at Zerika",
+      "Baraita Contrast",
+      "Shechita-Kmitza"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are asking about the case of piggul at zerika and whether it renders the meat susceptible to impurity of food, which matches the 'Piggul at Zerika' section's prose exactly \u2014 the gemara's question (item 1) and challenge (item 2) both belong to that discussion, before the baraita contrast is introduced in candidate 1.",
+      "chosen_heading": "Piggul at Zerika",
+      "current_heading": "Baraita Contrast",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      184
+    ],
+    "current_heading": "Shechita-Kmitza",
+    "candidates": [
+      "Baraita Contrast",
+      "Shechita-Kmitza",
+      "Redeem vs. Sprinkle",
+      "Verbal vs. Act",
+      "Here and Now",
+      "Without Performance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the baraita specifically needed the mincha case \u2014 because kmitza is analogous to shechita yet the mincha is still susceptible to food impurity due to its prior sha'at ha-kosher \u2014 which is precisely what the 'Baraita Contrast' prose describes as the gemara's answer to why the baraita contrasted piggul in animal sacrifice with piggul in a mincha.",
+      "chosen_heading": "Baraita Contrast",
+      "current_heading": "Shechita-Kmitza",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      194,
+      195
+    ],
+    "current_heading": "Without Performance",
+    "candidates": [
+      "Redeem vs. Sprinkle",
+      "Verbal vs. Act",
+      "Here and Now",
+      "Without Performance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Ashi's report to Rav Nachman stating the redeem-vs-sprinkle distinction, which is precisely what heading 0 ('Redeem vs. Sprinkle') describes in its prose, whereas the current placement (heading 3) discusses the implications of that distinction rather than the statement of it itself.",
+      "chosen_heading": "Redeem vs. Sprinkle",
+      "current_heading": "Without Performance",
+      "moved": true
+    }
+  }
+]

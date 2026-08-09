@@ -83,7 +83,7 @@
           "timestamp": "11:29"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -160,8 +160,8 @@
           "timestamp": "31:48"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "The Acheirim Opinion: Fixed Calendar with No Variation Between Years",
@@ -189,7 +189,7 @@
           "timestamp": "44:32"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -222,8 +222,8 @@
           "timestamp": "49:02"
         }
       ],
-      "sefaria_index": 17,
-      "matched": true
+      "sefaria_index": 16,
+      "matched": false
     },
     {
       "title": "Shmuel's Standard Lunar Year Length: 352–356 Days with Two-Day Variation",
@@ -246,7 +246,7 @@
           "timestamp": "49:02"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -480,5 +480,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 6
+  "amud_b_sefaria_index": 6,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "26:10",
+  "amud_b_micro_title": "30-Day Leap",
+  "shiur_start_daf": 8,
+  "shiur_start_amud": "b"
 }

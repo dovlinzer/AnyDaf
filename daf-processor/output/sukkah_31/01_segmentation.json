@@ -63,8 +63,8 @@
           "timestamp": "11:34"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "The Case of the Elderly Woman and Rav Nachman's Response",
@@ -92,8 +92,8 @@
           "timestamp": "17:12"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "The Takkanat Marish: Stolen Beam and the Concept of Ownership Transfer",
@@ -121,7 +121,7 @@
           "timestamp": "22:08"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -140,8 +140,8 @@
           "timestamp": "23:46"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "The Debate on Aesthetic Requirements: Hadar as a Criterion",
@@ -165,7 +165,7 @@
         }
       ],
       "sefaria_index": 11,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Challenging Rava: Does Rabbi Yehuda Really Reject Hadar Completely?",
@@ -227,7 +227,7 @@
           "timestamp": "38:48"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -544,5 +544,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "35:01",
+  "amud_b_micro_title": "City Dwellers",
+  "shiur_start_daf": 30,
+  "shiur_start_amud": "b"
 }

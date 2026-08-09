@@ -1,0 +1,247 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Listed Properties",
+    "candidates": [
+      "Perek Overview",
+      "Chazakah Definition",
+      "Kol Chazakah Principle",
+      "Listed Properties",
+      "Continuous Benefit Rule",
+      "Rashi: Irrigated Fields",
+      "Tosafot: Seasonality",
+      "Sedeh HaBaal Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the opening Mishna listing the categories of property subject to chazakah (houses, pits, ditches, caves, dovecotes, bathhouses, olive presses, irrigated fields, slaves), which is precisely what the 'Listed Properties' section's prose discusses.",
+      "chosen_heading": "Listed Properties",
+      "current_heading": "Listed Properties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Sedeh HaBaal Definition",
+    "candidates": [
+      "Continuous Benefit Rule",
+      "Rashi: Irrigated Fields",
+      "Tosafot: Seasonality",
+      "Sedeh HaBaal Definition",
+      "R. Ishmael: 18-Mo Formula",
+      "Beginning & End Periods",
+      "Rashi & Tosafot: Harvest",
+      "Middle 12 Months Logic",
+      "Wheat vs. Orchards",
+      "R. Akiva's 14-Month Model",
+      "Three Harvests, 3 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage defines sedeh haba'al as a rain-fed field with chazakah of three years not measured day to day, which exactly matches the 'Sedeh HaBaal Definition' section's prose discussing this very category and its seasonal nature.",
+      "chosen_heading": "Sedeh HaBaal Definition",
+      "current_heading": "Sedeh HaBaal Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Three Harvests, 3 Years",
+    "candidates": [
+      "R. Ishmael: 18-Mo Formula",
+      "Beginning & End Periods",
+      "Rashi & Tosafot: Harvest",
+      "Middle 12 Months Logic",
+      "Wheat vs. Orchards",
+      "R. Akiva's 14-Month Model",
+      "Three Harvests, 3 Years",
+      "Shor HaMuad Analogy",
+      "Status Change Parallel"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Status Change Parallel",
+    "candidates": [
+      "Shor HaMuad Analogy",
+      "Status Change Parallel",
+      "Gemara's Question",
+      "Mishna Citation",
+      "Metaltelim vs. Karka",
+      "Chazakah Supports Claims",
+      "Forms of Ta'anah",
+      "Gemara's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the Usha tradition deriving three-year chazakah from shor hamu'ad, the challenge about the fourth goring, its dismissal, and the follow-up challenge about chazakah without ta'anah \u2014 are explicitly discussed and resolved within the 'Status Change Parallel' prose, which covers exactly this continuous chain of analogy, objection, and counter-objection.",
+      "chosen_heading": "Status Change Parallel",
+      "current_heading": "Status Change Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Gemara's Answer",
+    "candidates": [
+      "Gemara's Question",
+      "Mishna Citation",
+      "Metaltelim vs. Karka",
+      "Chazakah Supports Claims",
+      "Forms of Ta'anah",
+      "Gemara's Answer",
+      "Rav Avira's Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer to why chazakah without ta'anah fails \u2014 'if he does not claim it himself, we will not claim it for him' \u2014 which is precisely what the 'Gemara's Answer' section's prose discusses.",
+      "chosen_heading": "Gemara's Answer",
+      "current_heading": "Gemara's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rav Avira's Argument",
+    "candidates": [
+      "Rav Avira's Argument",
+      "Word-of-Mouth Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Avira's objection itself, which matches exactly what candidate 0's prose describes \u2014 his challenge that the shor hamu'ad analogy would require a protest to be made in the possessor's presence.",
+      "chosen_heading": "Rav Avira's Argument",
+      "current_heading": "Rav Avira's Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Word-of-Mouth Defense",
+    "candidates": [
+      "Word-of-Mouth Defense",
+      "Tosafot: Chazakah Owner",
+      "R. Meir: Kal VaChomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's distinction between the biblical warning requirement for shor hamu'ad ('vehu'ad biva'alav') and the social network logic of mecha'ah ('chavrach chavrah is lei'), which is exactly what the 'Word-of-Mouth Defense' section's prose discusses.",
+      "chosen_heading": "Word-of-Mouth Defense",
+      "current_heading": "Word-of-Mouth Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "R. Meir: Kal VaChomer",
+    "candidates": [
+      "Tosafot: Chazakah Owner",
+      "R. Meir: Kal VaChomer",
+      "Three Figs One Day"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is specifically about Rabbi Meir's kal vachomer argument regarding richek/kirev negichosav and its application to chazakah, which is precisely what the 'R. Meir: Kal VaChomer' section discusses.",
+      "chosen_heading": "R. Meir: Kal VaChomer",
+      "current_heading": "R. Meir: Kal VaChomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Three Figs One Day",
+    "candidates": [
+      "Three Figs One Day",
+      "Progressive Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the forewarned ox comparison used to reject the three-figs-in-one-day case, which is precisely what the 'Three Figs One Day' section's prose describes.",
+      "chosen_heading": "Three Figs One Day",
+      "current_heading": "Three Figs One Day",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Progressive Examples",
+    "candidates": [
+      "Progressive Examples",
+      "Resolution: R. Ishmael"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the caper-bush and alfalfa challenges that the prose of 'Progressive Examples' explicitly describes in detail, matching the content of items 1 and 2 precisely.",
+      "chosen_heading": "Progressive Examples",
+      "current_heading": "Progressive Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Resolution: R. Ishmael",
+    "candidates": [
+      "Resolution: R. Ishmael",
+      "Formalistic Model",
+      "Logical Model Preview",
+      "Mecha'ah & Ta'anah Claims"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the R. Yishmael resolution \u2014 the Gemara's identification of the Usha sages as R. Yishmael and the proof from the mishna that R. Yishmael counts three harvests (not three calendar years) as sufficient for chazakah \u2014 which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Resolution: R. Ishmael",
+      "current_heading": "Resolution: R. Ishmael",
+      "moved": false
+    }
+  }
+]

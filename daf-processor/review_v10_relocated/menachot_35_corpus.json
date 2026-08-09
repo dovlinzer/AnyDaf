@@ -1,0 +1,292 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Gavayeta & Briyata",
+    "candidates": [
+      "Kesidran Dispute",
+      "Rabbeinu Tam's Logic",
+      "Shel Yad Writing",
+      "Tosafot & Pasken",
+      "Hichlif Parshiyot",
+      "Gavayeta & Briyata",
+      "Rava's Objection",
+      "Directional Exposure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes Rav \u1e24ananel/Rav's ruling that exchanging parshiyot renders tefillin invalid, followed by Abaye's qualification \u2014 this is precisely the content described in candidate 4 ('Hichlif Parshiyot'), which introduces the same Gemara statement about reversing parshiyot order being me'akev, while candidate 5 ('Gavayeta & Briyata') describes Abaye's refinement as though it were already established, suggesting the passage belongs one heading earlier.",
+      "chosen_heading": "Hichlif Parshiyot",
+      "current_heading": "Gavayeta & Briyata",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Directional Exposure",
+    "candidates": [
+      "Rava's Objection",
+      "Directional Exposure",
+      "Historical Variations",
+      "Structure Basics",
+      "Notching Requirement",
+      "One Piece Debate",
+      "Halacha L'Moshe Mi'Sinai",
+      "Furrow to Base"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's challenge to Abaye's position and his argument about inner/outer and left/right air exposure, which matches exactly the prose of 'Rava's Objection' (candidate 0), not the 'Directional Exposure' section where it currently sits.",
+      "chosen_heading": "Rava's Objection",
+      "current_heading": "Directional Exposure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Furrow to Base",
+    "candidates": [
+      "Historical Variations",
+      "Structure Basics",
+      "Notching Requirement",
+      "One Piece Debate",
+      "Halacha L'Moshe Mi'Sinai",
+      "Furrow to Base",
+      "Visual Separation",
+      "Pre-writing Check"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Halacha L'Moshe Mi'Sinai",
+      "first_confidence": "high",
+      "first_reason": "Item 1 lists the halacha l'Moshe mi'Sinai designations for titura, ma'abarta, and shin \u2014 exactly what heading 4 ('Halacha L'Moshe Mi'Sinai') discusses in its prose.",
+      "second_heading": "Furrow to Base",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the furrow-reaching-the-base requirement and Rav Dimi's disagreement, which is precisely what heading 5 ('Furrow to Base') and heading 6 ('Visual Separation') discuss \u2014 and it currently sits under heading 5 which is its correct home.",
+      "current_heading": "Furrow to Base",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Pre-writing Check",
+    "candidates": [
+      "Visual Separation",
+      "Pre-writing Check",
+      "Quill Detection",
+      "Black = HLM",
+      "Color Permissibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Abaye's requirement to pre-check the klaf and Rav Dimi's quill-based alternative, which is precisely what the 'Pre-writing Check' section's prose discusses in detail (including the kesidran implications), making the current placement correct.",
+      "chosen_heading": "Pre-writing Check",
+      "current_heading": "Pre-writing Check",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Color Permissibility",
+    "candidates": [
+      "Quill Detection",
+      "Black = HLM",
+      "Color Permissibility",
+      "Blue Strings Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yitz\u1e25ak's statement that black straps are a halacha l'Moshe mi'Sinai AND the immediate baraita challenge about color permissibility \u2014 both of which are introduced and described together in candidate 1's prose ('Black = HLM'), while candidate 2 ('Color Permissibility') only discusses the baraita's content in isolation.",
+      "chosen_heading": "Black = HLM",
+      "current_heading": "Color Permissibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Blue Strings Story",
+    "candidates": [
+      "Color Permissibility",
+      "Blue Strings Story",
+      "Red Strings Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the incident of Rabbi Akiva's student tying tefillin with blue (techeiles) strips, which is precisely what the 'Blue Strings Story' prose section discusses in detail.",
+      "chosen_heading": "Blue Strings Story",
+      "current_heading": "Blue Strings Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Red Strings Story",
+    "candidates": [
+      "Red Strings Story",
+      "Inner/Outer Color"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Hyrcanus/purple-wool tefillin story that the 'Red Strings Story' prose explicitly discusses and analyzes in detail.",
+      "chosen_heading": "Red Strings Story",
+      "current_heading": "Red Strings Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Inner/Outer Color",
+    "candidates": [
+      "Inner/Outer Color",
+      "Black Box Mitzva",
+      "White Boxes",
+      "Square HLM",
+      "Diagonal Measurement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the inner/outer surface distinction for strap colors and the reason red is prohibited even on the inside (straps becoming reversed), which is precisely what the 'Inner/Outer Color' prose describes.",
+      "chosen_heading": "Inner/Outer Color",
+      "current_heading": "Inner/Outer Color",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Diagonal Measurement",
+    "candidates": [
+      "Black Box Mitzva",
+      "White Boxes",
+      "Square HLM",
+      "Diagonal Measurement",
+      "Math of Diagonal",
+      "Circular Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage cites the baraita that tefillin must be square as a halacha l'Moshe mi'Sinai and Rav Pappa's clarification about seams and diagonals, which matches heading 2 ('Square HLM') whose prose explicitly quotes this same baraita and introduces Rav Papa's refinement \u2014 heading 3 ('Diagonal Measurement') discusses Rav Papa's statement in its prose but as a continuation, while the baraita itself is the primary content of heading 2.",
+      "chosen_heading": "Square HLM",
+      "current_heading": "Diagonal Measurement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Circular Danger",
+    "candidates": [
+      "Math of Diagonal",
+      "Circular Danger",
+      "Papa's Objection",
+      "Outer Face Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Gemara's attempt to use circular/round tefillin as proof, including the danger and lack of mitzvah, which is exactly what the 'Circular Danger' section's prose discusses \u2014 Rav Pappa's objection belongs in the following section but this single item covers both the proof attempt and Rav Pappa's response, and the current placement under 'Circular Danger' is the better fit since it introduces the sugya.",
+      "chosen_heading": "Circular Danger",
+      "current_heading": "Circular Danger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Outer Face Test",
+    "candidates": [
+      "Papa's Objection",
+      "Outer Face Test",
+      "Three Walls Rule",
+      "Opposite Holes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's outer-face rule and Rav Chisda's two/three wall rule, and the current heading 'Outer Face Test' (index 1) introduces both rulings together in its prose, making it the best match for this combined passage.",
+      "chosen_heading": "Outer Face Test",
+      "current_heading": "Outer Face Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Opposite Holes",
+    "candidates": [
+      "Three Walls Rule",
+      "Opposite Holes",
+      "New vs. Old",
+      "Elasticity Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the 'opposite holes' ruling and the new vs. old qualification in a single Rava statement, but the primary content \u2014 including the zeh keneged zeh distinction \u2014 matches heading 1 ('Opposite Holes'), which is exactly where it currently sits and whose prose directly discusses this Rava ruling.",
+      "chosen_heading": "Opposite Holes",
+      "current_heading": "Opposite Holes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Elasticity Test",
+    "candidates": [
+      "New vs. Old",
+      "Elasticity Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's question to Rav Yosef about defining new vs. old tefillin and Rav Yosef's elasticity-based answer, which is precisely what the 'Elasticity Test' prose section discusses.",
+      "chosen_heading": "Elasticity Test",
+      "current_heading": "Elasticity Test",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,447 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "'Al Ha'aretz Analysis",
+    "candidates": [
+      "Opening & Prior Context",
+      "Eight Sheratzim",
+      "Reptile Eggs & Generation",
+      "Tanu Rabbanan Sea Rat",
+      "Chulda Analogies",
+      "'Al Ha'aretz Analysis",
+      "Spontaneous Generation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form the baraita about the sea mouse (achbar shebayam), presenting the initial derivation and the weasel/mouse analogy \u2014 exactly what candidate 3 ('Tanu Rabbanan Sea Rat') describes, not the 'al ha'aretz' resolution discussed in candidate 5.",
+      "chosen_heading": "Tanu Rabbanan Sea Rat",
+      "current_heading": "'Al Ha'aretz Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Spontaneous Generation",
+    "candidates": [
+      "'Al Ha'aretz Analysis",
+      "Spontaneous Generation",
+      "Analogy Reversal Question",
+      "Rava's Location Argument"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Spontaneous Generation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the baraita's internal discussion about whether 'hashoretz' means 'breeds' and the weasel/mouse name-based analogy, which is precisely what the 'Spontaneous Generation' prose discusses.",
+      "second_heading": "Analogy Reversal Question",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the rabbinic student's challenge to Rava about reversing the allocation of basheretz and al ha'aretz, which is exactly what the 'Analogy Reversal Question' prose describes.",
+      "current_heading": "Spontaneous Generation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rava's Location Argument",
+    "candidates": [
+      "Analogy Reversal Question",
+      "Rava's Location Argument",
+      "Floating Doubt Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct logical response arguing that once the sea is made a place of tumah by including sea rats, there is no basis to exclude land rats found there \u2014 which is precisely what the prose under heading 1 describes.",
+      "chosen_heading": "Rava's Location Argument",
+      "current_heading": "Rava's Location Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Floating Doubt Leniency",
+    "candidates": [
+      "Floating Doubt Leniency",
+      "Tumah Domains & Ocean",
+      "Reptile Species List",
+      "Rabbi Akiva's Praise",
+      "Environmental Adaptation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Floating Doubt Leniency",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 form a complete question-and-answer unit about the phrase 'upon the earth' being written twice to serve two purposes (floating doubt leniency and sea mouse impurity), which matches exactly the prose of candidate 0.",
+      "second_heading": "Reptile Species List",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is a new baraita (Tanu Rabbanan) introducing the species included under 'the great lizard after its kinds,' which matches exactly the prose of candidate 2 discussing hatzav leminehu and the arod, nefilim, and salamander.",
+      "current_heading": "Floating Doubt Leniency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Environmental Adaptation",
+    "candidates": [
+      "Tumah Domains & Ocean",
+      "Reptile Species List",
+      "Rabbi Akiva's Praise",
+      "Environmental Adaptation",
+      "Salamander & Fire",
+      "Land-Sea Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the content of Rabbi Akiva's exclamation 'How great are Your works, O Lord' \u2014 the sea/land contrast and the fire/air contrast \u2014 which is precisely what candidate 2 ('Rabbi Akiva's Praise') describes as his reflection on the diversity of creation and each creature's fitness for its environment, whereas candidate 3 ('Environmental Adaptation') is the prose elaboration of that same content and is where it currently sits but candidate 2 is the heading that introduces and owns this passage.",
+      "chosen_heading": "Rabbi Akiva's Praise",
+      "current_heading": "Environmental Adaptation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Land-Sea Parallel",
+    "candidates": [
+      "Salamander & Fire",
+      "Land-Sea Parallel",
+      "Narsh & Cherem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about land-sea animal parallels and the weasel exception, which is exactly what the 'Land-Sea Parallel' section prose describes.",
+      "chosen_heading": "Land-Sea Parallel",
+      "current_heading": "Land-Sea Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Narsh & Cherem",
+    "candidates": [
+      "Narsh & Cherem",
+      "Geographic Warnings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses beavers of Neresh living in water rather than on dry land (a legal/geographic point about creatures and settlement), which matches the 'Narsh & Cherem' section's discussion of bivrei deNarsh and Rashi's interpretation of these as sea creatures, not the 'Geographic Warnings' section which focuses on practical warnings about dishonest people from various towns.",
+      "chosen_heading": "Narsh & Cherem",
+      "current_heading": "Narsh & Cherem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Geographic Warnings",
+    "candidates": [
+      "Geographic Warnings",
+      "Snake-Lizard Mating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are warnings about the wicked inhabitants of Neresh and other towns, which is precisely what the 'Geographic Warnings' prose describes.",
+      "chosen_heading": "Geographic Warnings",
+      "current_heading": "Geographic Warnings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Snake-Lizard Mating",
+    "candidates": [
+      "Snake-Lizard Mating",
+      "Divine Response Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the firsthand account of snake-lizard mating and the arvad emerging, which matches exactly what the 'Snake-Lizard Mating' section prose discusses.",
+      "chosen_heading": "Snake-Lizard Mating",
+      "current_heading": "Snake-Lizard Mating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Divine Response Theory",
+    "candidates": [
+      "Divine Response Theory",
+      "Cross-Breeding Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Shimon HaChasid's theological explanation that God's punishment mirrors the unnatural creature humanity created \u2014 precisely the 'Divine Response Theory' the prose at index 0 describes.",
+      "chosen_heading": "Divine Response Theory",
+      "current_heading": "Divine Response Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Cross-Breeding Objection",
+    "candidates": [
+      "Cross-Breeding Objection",
+      "Rav nes b'toch nes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the cross-breeding objection principle about gestation periods, which is exactly what the 'Cross-Breeding Objection' section discusses.",
+      "chosen_heading": "Cross-Breeding Objection",
+      "current_heading": "Cross-Breeding Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Rav nes b'toch nes",
+    "candidates": [
+      "Rav nes b'toch nes",
+      "Torah Prohibitions",
+      "Implicit Values Analysis",
+      "Innovation & Species",
+      "Biomedical Applications",
+      "Mule Precedent",
+      "Shita Mekubetzet Reading",
+      "Human Responsibility",
+      "Dangling Limb Tuma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Rav's 'nes b'toch nes' statement and the Gemara's question about whether it is a calamity, which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Rav nes b'toch nes",
+      "current_heading": "Rav nes b'toch nes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Dangling Limb Tuma",
+    "candidates": [
+      "Torah Prohibitions",
+      "Implicit Values Analysis",
+      "Innovation & Species",
+      "Biomedical Applications",
+      "Mule Precedent",
+      "Shita Mekubetzet Reading",
+      "Human Responsibility",
+      "Dangling Limb Tuma",
+      "Shechita as Hechshier",
+      "Meir vs. Shimon",
+      "Death of Animal Case",
+      "Meir: Eiver Min Hachai",
+      "Shimon: Entirely Tahor",
+      "Tumat Ochlin Only",
+      "Healing Capacity Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All four items constitute the opening mishna and initial gemara inference about the dangling limb/flesh (eiver hamedulal), covering its tumat ochlin status and hechshier requirement \u2014 exactly what heading 7 ('Dangling Limb Tuma') describes in its prose.",
+      "chosen_heading": "Dangling Limb Tuma",
+      "current_heading": "Dangling Limb Tuma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Healing Capacity Test",
+    "candidates": [
+      "Shechita as Hechshier",
+      "Meir vs. Shimon",
+      "Death of Animal Case",
+      "Meir: Eiver Min Hachai",
+      "Shimon: Entirely Tahor",
+      "Tumat Ochlin Only",
+      "Healing Capacity Test",
+      "Full Detachment Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly poses the 'heichi dami' question about whether the limb can heal or not, which is precisely what the 'Healing Capacity Test' section's prose describes.",
+      "chosen_heading": "Healing Capacity Test",
+      "current_heading": "Healing Capacity Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Full Detachment Principle",
+    "candidates": [
+      "Full Detachment Principle",
+      "Hair Strand Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'le'olam de'ein malina arucha' answer and the 'ki yipol \u2014 ad sheyipol' principle, which is precisely what the 'Full Detachment Principle' prose elaborates on.",
+      "chosen_heading": "Full Detachment Principle",
+      "current_heading": "Full Detachment Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Hair Strand Connection",
+    "candidates": [
+      "Hair Strand Connection",
+      "Quasi-Food Status",
+      "Rabbi Chiya Dried Figs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the hair-strand connection preventing full detachment and the verse 'yipol \u2014 ad sheyipol,' which is precisely what heading 0 ('Hair Strand Connection') describes in its prose.",
+      "chosen_heading": "Hair Strand Connection",
+      "current_heading": "Hair Strand Connection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Rabbi Chiya Dried Figs",
+    "candidates": [
+      "Quasi-Food Status",
+      "Rabbi Chiya Dried Figs",
+      "Parallel Middle Statuses",
+      "Inedible When Dried",
+      "Intent to Dry Exception",
+      "Other Fruits remain Food"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces and presents the teaching of Rav \u1e24iyya bar Ashi cited by Shmuel about dried figs, which is precisely what candidate 1 ('Rabbi Chiya Dried Figs') discusses in its prose.",
+      "chosen_heading": "Rabbi Chiya Dried Figs",
+      "current_heading": "Rabbi Chiya Dried Figs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "current_heading": "Other Fruits remain Food",
+    "candidates": [
+      "Parallel Middle Statuses",
+      "Inedible When Dried",
+      "Intent to Dry Exception",
+      "Other Fruits remain Food",
+      "Twig Connection Rule",
+      "Mishna's Main Point",
+      "Fruit on Cut Branch"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Other Fruits remain Food",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-5 all discuss the same baraita about cabbage and gourd dried on the vine, testing Shmuel's view, and heading 3 ('Other Fruits remain Food') covers the central inference drawn from that baraita, making it the best single home for this continuous discussion.",
+      "second_heading": "Fruit on Cut Branch",
+      "second_confidence": "high",
+      "second_reason": "Item 6 introduces a completely new baraita ('Come and hear') about a broken branch with fruit, which is the precise topic described in the 'Fruit on Cut Branch' section prose.",
+      "current_heading": "Other Fruits remain Food",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Fruit on Cut Branch",
+    "candidates": [
+      "Twig Connection Rule",
+      "Mishna's Main Point",
+      "Fruit on Cut Branch",
+      "Dried Fruit on Branch",
+      "Categories Analysis",
+      "Middle Status Principle",
+      "Tumat ochlin: eiver min"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage 'midi irya \u2014 ha kide'ita veha kide'ita' is the Gemara's rejection that the two cases contradict each other, which is precisely what candidate 4 'Categories Analysis' describes in its prose.",
+      "chosen_heading": "Categories Analysis",
+      "current_heading": "Fruit on Cut Branch",
+      "moved": true
+    }
+  }
+]

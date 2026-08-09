@@ -116,7 +116,7 @@
           "timestamp": "43:16"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -135,7 +135,7 @@
           "timestamp": "47:44"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": false
     },
     {
@@ -154,7 +154,7 @@
           "timestamp": "52:27"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -455,5 +455,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "50:56",
+  "amud_b_micro_title": "Watching Arrangement",
+  "shiur_start_daf": 42,
+  "shiur_start_amud": "b"
 }

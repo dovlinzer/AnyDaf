@@ -1,0 +1,386 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Challenge to Akiva",
+    "candidates": [
+      "Eating Defined",
+      "Rabbi Shimon",
+      "Rashi's Word-Breaking",
+      "Tosafot on Karet",
+      "Challenge to Akiva",
+      "Nazir Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items are precisely the Gemara challenge to Rabbi Akiva about why he didn't invoke Rabbi Shimon, followed by the ledivreihem resolution \u2014 exactly what the 'Challenge to Akiva' prose describes.",
+      "chosen_heading": "Challenge to Akiva",
+      "current_heading": "Challenge to Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Nazir Proof",
+    "candidates": [
+      "Nazir Proof",
+      "Non-Kosher Foods",
+      "Three Answers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Nazir Proof' section's prose, which explicitly discusses Rabbi Akiva's ruling about a nazirite soaking bread in wine requiring combination to a kezayit as proof that Rabbi Akiva does not generally follow Rabbi Shimon's kol shehu standard.",
+      "chosen_heading": "Nazir Proof",
+      "current_heading": "Nazir Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Three Answers",
+    "candidates": [
+      "Non-Kosher Foods",
+      "Three Answers",
+      "Akiva Implicit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together \u2014 Rav/Shmuel/Rabbi Yochanan's 'bekolel' answer and Reish Lakish's two-part alternative \u2014 constitute the 'Three Answers' section's content, which the prose explicitly describes as covering both the majority ruling and Reish Lakish's disagreement.",
+      "chosen_heading": "Three Answers",
+      "current_heading": "Three Answers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Akiva Implicit",
+    "candidates": [
+      "Akiva Implicit",
+      "Explicit vs. Implicit",
+      "Briah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly demonstrates that Rabbi Akiva holds like the Rabbis in general (requiring a kezayit normally) and only applies kol shehu in the domain of oaths, which is precisely what the prose of heading 0 describes.",
+      "chosen_heading": "Akiva Implicit",
+      "current_heading": "Akiva Implicit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Briah Exception",
+    "candidates": [
+      "Explicit vs. Implicit",
+      "Briah Exception",
+      "Hekdesh Measure",
+      "Explicit Tiny Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of objections and responses to the Rabbanan's claim that there is no precedent for liability below a kezayit \u2014 covering the briah (ant), hekdesh, explicit specification, and Rava's dirt question \u2014 which is precisely what the 'Briah Exception' section's prose describes.",
+      "chosen_heading": "Briah Exception",
+      "current_heading": "Briah Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Explicit Tiny Amount",
+    "candidates": [
+      "Hekdesh Measure",
+      "Explicit Tiny Amount",
+      "Dirt Question",
+      "Konamot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses konamot and the Gemara's answer that konamot are treated as equivalent to an explicit specification (k'mefaresh dami), which is precisely what the 'Konamot' section's prose describes.",
+      "chosen_heading": "Konamot",
+      "current_heading": "Explicit Tiny Amount",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Konamot",
+    "candidates": [
+      "Dirt Question",
+      "Konamot",
+      "Konam Meilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage discusses Rabbi Akiva's argument about speech generating a prohibition and bringing a korban, which fits the 'Konamot' section's discussion of speech-based prohibitions and their relationship to korban language, better than the dirt-question or meilah sections.",
+      "chosen_heading": "Konamot",
+      "current_heading": "Konamot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Konam Meilah",
+    "candidates": [
+      "Konam Meilah",
+      "Baraita Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address whether meilah applies to konamot \u2014 item 1 raises hekdesh as a counterexample and item 2 resolves the konam-meilah question \u2014 which is precisely what the 'Konam Meilah' prose discusses.",
+      "chosen_heading": "Konam Meilah",
+      "current_heading": "Konam Meilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Baraita Rule",
+    "candidates": [
+      "Baraita Rule",
+      "Rabbi Meir",
+      "When Konamot Combine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are Rava's rulings about what constitutes 'any amount' for shevuot (specifying vs. unspecified, 'eat' vs. 'taste'), which directly address the minimum-amount question that the 'When Konamot Combine' section is exploring \u2014 specifically the kezayit requirement and when amounts count \u2014 rather than belonging under the Baraita Rule heading about combining half-kezayit amounts from two separate oaths.",
+      "chosen_heading": "When Konamot Combine",
+      "current_heading": "Baraita Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "When Konamot Combine",
+    "candidates": [
+      "Rabbi Meir",
+      "When Konamot Combine",
+      "Oath Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together cover exactly what the 'When Konamot Combine' prose describes: Rav Pappa's ruling about konamot, the baraita's combining rule, the question about why combining is needed if any amount suffices, and the resolution distinguishing the case where 'achila' is specified versus the single unified vow formulation.",
+      "chosen_heading": "When Konamot Combine",
+      "current_heading": "When Konamot Combine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Oath Separation",
+    "candidates": [
+      "Oath Separation",
+      "Rav Pinchas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rav Pinchas's explanation of why shevuot don't combine due to chaluka lekorbanos, which is exactly what heading 0 ('Oath Separation') discusses as its core topic.",
+      "chosen_heading": "Oath Separation",
+      "current_heading": "Oath Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rav Pinchas",
+    "candidates": [
+      "Rav Pinchas",
+      "Ravina's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Meir's position relative to Rav Pinchas's rule and the reversal of the baraita's language, which is precisely what the 'Rav Pinchas' section's prose elaborates on.",
+      "chosen_heading": "Rav Pinchas",
+      "current_heading": "Rav Pinchas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Ravina's Answer",
+    "candidates": [
+      "Ravina's Answer",
+      "Ravina Challenged",
+      "Konam vs. Hekdesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Ravina's answer distinguishing Rav Pappa's ruling (malkus) from the baraita's ruling (korban/shaveh prutah), which is precisely what the 'Ravina's Answer' prose describes.",
+      "chosen_heading": "Ravina's Answer",
+      "current_heading": "Ravina's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Konam vs. Hekdesh",
+    "candidates": [
+      "Ravina Challenged",
+      "Konam vs. Hekdesh",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita that the Gemara examines in response to the question of whether Rabbanan hold there is meilah by konamot \u2014 exactly what heading 0 ('Ravina Challenged') describes as the next step after its prose sets up the need to examine this baraita, while heading 1 ('Konam vs. Hekdesh') discusses the analysis/implications of the baraita's distinctions, which belongs after the baraita is introduced.",
+      "chosen_heading": "Ravina Challenged",
+      "current_heading": "Konam vs. Hekdesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Konam vs. Hekdesh",
+      "Resolution",
+      "Dirt Measure",
+      "Grape Seeds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items deal with the resolution of the contradiction via reversing attributions in the meilah baraita, Rabbi Meir's ledivreihem argument, and the Rabbanan's response \u2014 exactly what the 'Resolution' prose describes.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Grape Seeds",
+    "candidates": [
+      "Dirt Measure",
+      "Grape Seeds",
+      "Rav Ashi"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dirt Measure",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains both Rava's ruling about eating dirt (exempt) and his dilemma about the measure for an oath not to eat dirt, which matches the 'Dirt Measure' prose exactly.",
+      "second_heading": "Grape Seeds",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's dilemma about grape seeds (chartzan), which matches the 'Grape Seeds' prose exactly.",
+      "current_heading": "Grape Seeds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rav Ashi",
+    "candidates": [
+      "Rav Ashi",
+      "Non-Redundancy",
+      "Neveilah Biology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Ashi's dilemma about a nazirite's oath not to eat grape seeds, which matches exactly the prose under heading 0 describing Rav Ashi's question about a nazir who takes a shevua not to eat grape seeds.",
+      "chosen_heading": "Rav Ashi",
+      "current_heading": "Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Neveilah Biology",
+    "candidates": [
+      "Non-Redundancy",
+      "Neveilah Biology",
+      "Dirt Not Edible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose of 'Neveilah Biology' explicitly describes this exact passage \u2014 the tashma from the Mishnah about neveilot/treifot, Reish Lakish's position about chatzi shiur or Rabbi Akiva, and the key point that Reish Lakish does not interpret the oath charitably to give it effect without explicit specification.",
+      "chosen_heading": "Neveilah Biology",
+      "current_heading": "Neveilah Biology",
+      "moved": false
+    }
+  }
+]

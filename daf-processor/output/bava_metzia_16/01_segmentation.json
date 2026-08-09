@@ -179,8 +179,8 @@
           "timestamp": "15:12"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "If original owner gives field to seller as gift, does this validate sale to Michael?",
@@ -203,7 +203,7 @@
           "timestamp": "16:33"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -227,8 +227,8 @@
           "timestamp": "38:56"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "How does Michael acquire field if sale to him was originally void? (Gemara's mechanism question)",
@@ -493,9 +493,9 @@
     }
   ],
   "amud_b_sefaria_index": 20,
-  "amud_b_segment_index": 11,
+  "amud_b_segment_index": 10,
   "amud_b_timestamp": "42:53",
-  "amud_b_micro_title": "Unspecified field",
+  "amud_b_micro_title": "Urgency exception",
   "shiur_start_daf": 16,
   "shiur_start_amud": "a"
 }

@@ -62,6 +62,20 @@ _NORMALIZE = {
     "Eruvin": "Eiruvin",
     "Megilah": "Megillah",
     "Megila": "Megillah",
+    "Chullin": "Hullin",
+}
+
+# The reverse problem from _NORMALIZE: here the segmentation JSON's `masechta` field already
+# has the canonical spelling, but the SRT FILENAME on disk uses a different transliteration --
+# found 2026-08-08 chasing 36 dafim (19 Taanit, 17 Megillah) that v10 assembly silently skipped
+# as "no matching SRT" even though their SRTs exist. Taanit's files use a RIGHT SINGLE
+# QUOTATION MARK (U+2019, "Ta’anit"), not a plain apostrophe -- a smart-quote variant, same
+# general class as the Hebrew-text/curly-quote normalization drift documented elsewhere in this
+# file. Megillah's files are spelled with one L ("Megilah"). Keyed by the canonical (post-
+# _NORMALIZE) name; find_srt tries each alias after the canonical form fails.
+_FILENAME_ALIASES = {
+    "Taanit": ["Ta’anit", "Ta'anit"],
+    "Megillah": ["Megilah"],
 }
 
 MARKERS = [
@@ -170,14 +184,15 @@ def find_srt(masechta: str, daf: int, amud: str | None) -> Path | None:
     fall back to the bare "{masechta} {daf}.srt" form.
     """
     masechta = _NORMALIZE.get(masechta, masechta)
-    for suffix in (amud or "", ""):
-        candidate = SRT_DIR / f"{masechta} {daf}{suffix}.srt"
-        if candidate.exists():
-            return candidate
-        target = f"{masechta.lower()} {daf}{suffix}.srt"
-        for f in SRT_DIR.glob("*.srt"):
-            if f.name.lower() == target:
-                return f
+    for name in [masechta] + _FILENAME_ALIASES.get(masechta, []):
+        for suffix in (amud or "", ""):
+            candidate = SRT_DIR / f"{name} {daf}{suffix}.srt"
+            if candidate.exists():
+                return candidate
+            target = f"{name.lower()} {daf}{suffix}.srt"
+            for f in SRT_DIR.glob("*.srt"):
+                if f.name.lower() == target:
+                    return f
     return None
 
 

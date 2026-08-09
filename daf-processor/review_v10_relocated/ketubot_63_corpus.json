@@ -1,0 +1,291 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Mishna Penalties",
+    "candidates": [
+      "Onah to Moredet",
+      "Mishna Penalties",
+      "Mored Reciprocal",
+      "Rav Huna: Sex",
+      "R. Yose: Moredet Work",
+      "Tosafot Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishnah text covers exactly the content described in candidate 1's prose: the weekly reduction of the ketubah for a moredet, the specific rates (seven dinarim vs. seven tarpeikin), the debate between the anonymous view (reduce until zero) and Rabbi Yosei (continue into negative territory), and the reciprocal case of the mored \u2014 all of which are precisely what candidate 1's prose discusses.",
+      "chosen_heading": "Mishna Penalties",
+      "current_heading": "Mishna Penalties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Tosafot Analysis",
+    "candidates": [
+      "Mored Reciprocal",
+      "Rav Huna: Sex",
+      "R. Yose: Moredet Work",
+      "Tosafot Analysis",
+      "If Sex: Parallel Sex",
+      "Moredet Labor & Support",
+      "Rav: Immediate Divorce",
+      "Gemara Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's opening question 'moredet mimah' and presents both Rav Huna's answer (marital relations) and Rabbi Yose bar Chanina's answer (tasks/melacha), along with the initial challenge from the reciprocal husband case, which corresponds precisely to the prose under 'Rav Huna: Sex' that introduces this exact debate.",
+      "chosen_heading": "Rav Huna: Sex",
+      "current_heading": "Tosafot Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Gemara Resolution",
+    "candidates": [
+      "If Sex: Parallel Sex",
+      "Moredet Labor & Support",
+      "Rav: Immediate Divorce",
+      "Gemara Resolution",
+      "Four-Week Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rav's ruling that a husband who refuses to sustain his wife must immediately divorce her and pay the ketubah, which is precisely what the 'Rav: Immediate Divorce' section's prose describes, not the resolution/answer to that question which belongs under 'Gemara Resolution'.",
+      "chosen_heading": "Rav: Immediate Divorce",
+      "current_heading": "Gemara Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Four-Week Process",
+    "candidates": [
+      "Gemara Resolution",
+      "Four-Week Process",
+      "When to Engage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous Talmudic discussion about the baraita listing who qualifies as a moredet (betrothed, married, niddah, ill, shomeret yavam), debating whether rebellion refers to tashmish or melacha \u2014 precisely the content described in the 'Four-Week Process' prose section, which explicitly discusses the niddah case, the 'bread in his basket' principle, and the baraita's application to various categories of women.",
+      "chosen_heading": "Four-Week Process",
+      "current_heading": "Four-Week Process",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "When to Engage",
+    "candidates": [
+      "When to Engage",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items establish the foundational baraita about the moredet and its immediate elaborations (location of announcements, two court notifications before and after), which directly corresponds to candidate 0's prose about the two-notification framework introduced by Rami bar \u1e24ama.",
+      "chosen_heading": "When to Engage",
+      "current_heading": "When to Engage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Rava's Position",
+      "Ameimark Distinction",
+      "Rav Sheshet vs. Mar Zutra",
+      "Mar Zutra Case",
+      "Agunah Implications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rava's position and the Rav Sheshet dispute over whether we consult with the moredet (nimlachim bah / ein nimlachim bah), which is precisely what the 'Rava's Position' prose discusses in detail.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Agunah Implications",
+    "candidates": [
+      "Ameimark Distinction",
+      "Rav Sheshet vs. Mar Zutra",
+      "Mar Zutra Case",
+      "Agunah Implications",
+      "Clothes & Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Ameimar/Mar Zutra dispute about *ma'is alai* plus the anecdote about Mar Zutra's ruling and the Gemara's rejection of it as precedent \u2014 exactly what candidate 1 ('Rav Sheshet vs. Mar Zutra') describes in its prose, including the distinction, Mar Zutra's position, and the story of Rabbi Chanina from Sura which candidate 1 explicitly mentions as part of its discussion.",
+      "chosen_heading": "Rav Sheshet vs. Mar Zutra",
+      "current_heading": "Agunah Implications",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Clothes & Property",
+    "candidates": [
+      "Agunah Implications",
+      "Clothes & Property",
+      "Alternative Timelines",
+      "Post-Talmud Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the incident of Rav Zevid's daughter-in-law, Rav Gamda's challenge to the panel's ruling about worn clothes (belosei ha-kayamim), and the practical conclusion of tafsa/lo tafsa \u2014 exactly the content described in the 'Clothes & Property' prose.",
+      "chosen_heading": "Clothes & Property",
+      "current_heading": "Clothes & Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Post-Talmud Practice",
+    "candidates": [
+      "Alternative Timelines",
+      "Post-Talmud Practice",
+      "Arusah vs. Yavam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the twelve-month delay with no sustenance, which is precisely what candidate 0's prose discusses (*umashinan lah tresar yarchei shata agita* and *leis lah mezoni miba'al*), not the post-Talmudic Geonic enactment described in candidate 1.",
+      "chosen_heading": "Alternative Timelines",
+      "current_heading": "Post-Talmud Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Arusah vs. Yavam",
+    "candidates": [
+      "Post-Talmud Practice",
+      "Arusah vs. Yavam",
+      "Braitah Challenge",
+      "Who Demands?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the ruling by Rav Tuvi bar Kisna citing Shmuel about writing a letter of rebellion against an arusah but not a shomeret yavam, plus the baraita objection \u2014 matching the prose of 'Arusah vs. Yavam' which describes this exact ruling, with the baraita challenge fitting naturally as the continuation before the next heading 'Braitah Challenge' addresses the resolution.",
+      "chosen_heading": "Arusah vs. Yavam",
+      "current_heading": "Arusah vs. Yavam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Who Demands?",
+    "candidates": [
+      "Braitah Challenge",
+      "Who Demands?",
+      "No Yibum Compulsion",
+      "Chalitzah Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the resolution of the contradiction via 'who demands' (tava hu vs. tav'ah hi) and the textual adjustment of Shmuel's formulation, which is precisely what the 'Who Demands?' prose describes.",
+      "chosen_heading": "Who Demands?",
+      "current_heading": "Who Demands?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Chalitzah Claim",
+    "candidates": [
+      "No Yibum Compulsion",
+      "Chalitzah Claim",
+      "Yibum vs Chalitzah Shift",
+      "Enforcement Measures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'chutra leyada u-mara likvura' claim that a woman makes to demand resolution of her situation, which is precisely what the 'Chalitzah Claim' section's prose discusses.",
+      "chosen_heading": "Chalitzah Claim",
+      "current_heading": "Chalitzah Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Enforcement Measures",
+    "candidates": [
+      "Yibum vs Chalitzah Shift",
+      "Enforcement Measures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together form the continuous Gemara discussion about the distinction between chalitzah and yibum (Rabbi Pedat/Rabbi Yochanan's ruling), the 'kivan de-agida bi' argument, and the resolution via the first vs. ultimate mishna \u2014 exactly what candidate 0 ('Yibum vs Chalitzah Shift') describes in its prose.",
+      "chosen_heading": "Yibum vs Chalitzah Shift",
+      "current_heading": "Enforcement Measures",
+      "moved": true
+    }
+  }
+]

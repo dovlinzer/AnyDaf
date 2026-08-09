@@ -30,7 +30,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Things That Resemble a Nolad Event but Are Not: Rabbi Meir vs. the Sages",
@@ -63,8 +63,8 @@
           "timestamp": "34:38"
         }
       ],
-      "sefaria_index": 4,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Opening for Vows When Knowledge of Prohibited Actions or Personal Hardship Is Absent",
@@ -92,7 +92,7 @@
           "timestamp": "44:49"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -363,5 +363,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 6
+  "amud_b_sefaria_index": 6,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "43:37",
+  "amud_b_micro_title": "Gabbayim Objection",
+  "shiur_start_daf": 65,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,285 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Mishna: Donkey",
+    "candidates": [
+      "Intro & Chapter 5",
+      "Mishna: Worker",
+      "Mishna: Donkey",
+      "Mai Ta'ama",
+      "Issur Hana'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the single Mishna covering both the worker and donkey cases together, and candidate 1 ('Mishna: Worker') discusses both the worker and donkey halves of the Mishna as a unified text, making it the better home than the split placement under 'Mishna: Donkey'.",
+      "chosen_heading": "Mishna: Worker",
+      "current_heading": "Mishna: Donkey",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Issur Hana'ah",
+    "candidates": [
+      "Mai Ta'ama",
+      "Issur Hana'ah",
+      "Money Laundering",
+      "Le'ochla Lo Sechora",
+      "Shemittah Worker"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the content described in 'Issur Hana'ah' prose: the Gemara proposes that wages are forbidden because yayin nesech is forbidden to derive benefit from, then challenges this with the orlah/kil'ei hakerem cases where kiddushin with proceeds is valid (mekudeshet).",
+      "chosen_heading": "Issur Hana'ah",
+      "current_heading": "Issur Hana'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Shemittah Worker",
+    "candidates": [
+      "Money Laundering",
+      "Le'ochla Lo Sechora",
+      "Shemittah Worker",
+      "Rambam vs Ramban",
+      "Exports & Terumah",
+      "Yochanan: Kenas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the 'tofes damav' rationale and then challenges it with the shemittah worker case, which is precisely what heading 0 ('Money Laundering') describes \u2014 the principle that yayin nesech transfers its prohibited status onto the money, followed by the shemittah comparison as a challenge to that principle.",
+      "chosen_heading": "Money Laundering",
+      "current_heading": "Shemittah Worker",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Yochanan: Kenas",
+    "candidates": [
+      "Rambam vs Ramban",
+      "Exports & Terumah",
+      "Yochanan: Kenas",
+      "Abaye: B'tzad Heter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together present Rabbi Yochanan's kenas explanation and the Gemara's two-pronged challenge to what 'secharan shevi'it' means, which is precisely what the 'Yochanan: Kenas' section prose describes in detail.",
+      "chosen_heading": "Yochanan: Kenas",
+      "current_heading": "Yochanan: Kenas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Abaye: B'tzad Heter",
+    "candidates": [
+      "Abaye: B'tzad Heter",
+      "Rava: Skilled Labor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Abaye's statement and the supporting mishna about ma'aser sheni gifts, which is exactly what candidate 0's prose describes as Abaye's 'b'tzad heter' argument with the parallel from ma'aser sheni laws.",
+      "chosen_heading": "Abaye: B'tzad Heter",
+      "current_heading": "Abaye: B'tzad Heter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rava: Skilled Labor",
+    "candidates": [
+      "Rava: Skilled Labor",
+      "Yayin Nesech Chamura",
+      "Ibaia Lehu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's full statement distinguishing between poalim and chamarim with the kedushat shevi'it kenas, which is precisely what the 'Rava: Skilled Labor' section's prose discusses, and the yayin nesech coda is already explained there as well.",
+      "chosen_heading": "Rava: Skilled Labor",
+      "current_heading": "Rava: Skilled Labor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Ibaia Lehu",
+    "candidates": [
+      "Yayin Nesech Chamura",
+      "Ibaia Lehu",
+      "Tumah Comparison",
+      "Rav Chisda's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the dilemma about wages for stam yeinam work, which is precisely what the 'Ibaia Lehu' section's prose describes as its content.",
+      "chosen_heading": "Ibaia Lehu",
+      "current_heading": "Ibaia Lehu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rav Chisda's Case",
+    "candidates": [
+      "Tumah Comparison",
+      "Rav Chisda's Case",
+      "Burn & Bury",
+      "Temurah Rules",
+      "Why Both Steps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the man coming before Rav Chisda with his question about the wheat, which matches the 'Rav Chisda's Case' prose precisely, before the ruling itself is given in the 'Burn & Bury' section.",
+      "chosen_heading": "Rav Chisda's Case",
+      "current_heading": "Rav Chisda's Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Why Both Steps",
+    "candidates": [
+      "Burn & Bury",
+      "Temurah Rules",
+      "Why Both Steps",
+      "Execution Tools"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses why scattering and burning-then-scattering are insufficient disposal methods, which is precisely what the 'Why Both Steps' section's prose addresses.",
+      "chosen_heading": "Why Both Steps",
+      "current_heading": "Why Both Steps",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Execution Tools",
+    "candidates": [
+      "Execution Tools",
+      "Loan Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous challenge-and-response sequence about burying execution implements versus burying wheat, which is precisely what the 'Execution Tools' prose discusses in detail.",
+      "chosen_heading": "Execution Tools",
+      "current_heading": "Execution Tools",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Loan Structure",
+    "candidates": [
+      "Loan Structure",
+      "Yochanan Approves",
+      "Delayed Payment",
+      "Intro to Etnan",
+      "Braita Case",
+      "Braita Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yochanan being told about Rabbi Yannai's students' practice and approving it ('yaot hem avdin'), which directly matches the 'Yochanan Approves' section's prose about his ruling and endorsement of the practice.",
+      "chosen_heading": "Yochanan Approves",
+      "current_heading": "Loan Structure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Braita Logic",
+    "candidates": [
+      "Yochanan Approves",
+      "Delayed Payment",
+      "Intro to Etnan",
+      "Braita Case",
+      "Braita Logic",
+      "Elazar's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form the continuous baraita discussion: item 1 cites the baraita, item 2 raises the obvious objections to its plain reading, and item 3 resolves those objections \u2014 exactly matching the 'Braita Case' prose which describes the baraita citation, the peshita challenge, and notes the Gemara addresses seemingly impossible/self-evident scenarios, before the reinterpretation belongs under 'Braita Logic'.",
+      "chosen_heading": "Braita Case",
+      "current_heading": "Braita Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Elazar's Answer",
+    "candidates": [
+      "Braita Logic",
+      "Elazar's Answer",
+      "Conditional Acquisition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form exactly the question-and-answer pair that heading 1 ('Elazar's Answer') describes: the retroactive prohibition question (*le-chi ba'ala le-chulei issur etnan le-mafre'a*) and Rabbi Eliezer/Elazar's resolution (*ke-she-kadmah ve-hikravto*), which is precisely what the prose of that section narrates.",
+      "chosen_heading": "Elazar's Answer",
+      "current_heading": "Elazar's Answer",
+      "moved": false
+    }
+  }
+]

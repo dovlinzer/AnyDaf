@@ -1,0 +1,378 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Rabbi Eliezer & Overlap",
+    "candidates": [
+      "Intro: Chutz L'Techum",
+      "Rabba vs. Rav Shimi",
+      "Rabbi Eliezer & Overlap",
+      "Rabba bar bar Chana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present the Rabbi Eliezer mishna challenge and the Gemara's explanation that his four cubits are subsumed (havlaat techumin), which is precisely what candidate 2's prose describes.",
+      "chosen_heading": "Rabbi Eliezer & Overlap",
+      "current_heading": "Rabbi Eliezer & Overlap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Rabba bar bar Chana",
+    "candidates": [
+      "Rabba bar bar Chana",
+      "Practical Halacha",
+      "Contradiction",
+      "Rav Yehuda Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the exchange between Rabba bar bar \u1e24ana and Abaye about Rabbi Eliezer and the Rabbis' dispute being limited to devar reshut vs. devar mitzvah, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Rabba bar bar Chana",
+      "current_heading": "Rabba bar bar Chana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Rav Yehuda Answer",
+    "candidates": [
+      "Practical Halacha",
+      "Contradiction",
+      "Rav Yehuda Answer",
+      "Rosh Hashanah Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's contradiction between the mishna's blanket return-home permission and the earlier two-thousand-amot limit, which is exactly what heading 1 ('Contradiction') describes \u2014 the question precedes Rav Yehuda's answer, which belongs under heading 2.",
+      "chosen_heading": "Contradiction",
+      "current_heading": "Rav Yehuda Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Rosh Hashanah Mishna",
+    "candidates": [
+      "Rav Yehuda Answer",
+      "Rosh Hashanah Mishna",
+      "Weapons Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the exact sequence described in the 'Rosh Hashanah Mishna' prose: the Gemara raises the Rosh Hashanah mishna difficulty (item 1), cites Rabban Gamliel's takana and the midwife/rescue cases (item 2), poses the contradiction about unlimited return (item 3), and gives Rav Yehuda's answer about weapons (item 4) \u2014 matching the candidate 1 prose precisely, which describes this entire chain including Rav Yehuda's answer as the resolution of the Rosh Hashanah mishna contradiction.",
+      "chosen_heading": "Rosh Hashanah Mishna",
+      "current_heading": "Rosh Hashanah Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Weapons Braita",
+    "candidates": [
+      "Weapons Braita",
+      "Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the historical incident of soldiers being recognized by enemies, the ensuing chaos when retrieving weapons, and the resulting enactment \u2014 exactly what the 'Weapons Braita' prose section discusses in detail.",
+      "chosen_heading": "Weapons Braita",
+      "current_heading": "Weapons Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rav Nachman",
+    "candidates": [
+      "Rav Nachman",
+      "Siege Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Na\u1e25man bar Yitz\u1e25ak's resolution distinguishing between Jews defeating nations versus nations defeating Jews, which is precisely what the 'Rav Nachman' section prose describes.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rav Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Siege Categories",
+    "candidates": [
+      "Siege Categories",
+      "Border Cities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Yehuda/Rav's ruling on besieged towns and the baraita distinguishing monetary from life-threatening sieges \u2014 are explicitly discussed and paraphrased in the 'Siege Categories' prose, which is their clear and correct home.",
+      "chosen_heading": "Siege Categories",
+      "current_heading": "Siege Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Border Cities",
+    "candidates": [
+      "Border Cities",
+      "David & Keilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the rule about border cities and Rav Nachman's application to Babylonia/Nehardea, which is precisely what the 'Border Cities' prose section discusses.",
+      "chosen_heading": "Border Cities",
+      "current_heading": "Border Cities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "David & Keilah",
+    "candidates": [
+      "David & Keilah",
+      "Mishna Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the Keilah episode \u2014 Rabbi Dostai's exposition, the baraita about the border city, and the Gemara's analysis of what David was asking God \u2014 which matches precisely the prose under 'David & Keilah'.",
+      "chosen_heading": "David & Keilah",
+      "current_heading": "David & Keilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Mishna Setup",
+    "candidates": [
+      "Mishna Setup",
+      "Rabbi Meir & Yehuda",
+      "Rabbi Tarfon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself, quoting Rabbi Meir's ruling about a person sitting on the road who unintentionally ends up near a city, which matches the 'Mishna Setup' prose that paraphrases exactly this scenario and ruling.",
+      "chosen_heading": "Mishna Setup",
+      "current_heading": "Mishna Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Rabbi Tarfon",
+    "candidates": [
+      "Rabbi Meir & Yehuda",
+      "Rabbi Tarfon",
+      "Sleep Onset"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the Rabbi Tarfon narrative: the Mishnaic ruling, the baraita elaborating the story, and the Rabbis' rebuttal \u2014 exactly what the 'Rabbi Tarfon' prose section describes in detail.",
+      "chosen_heading": "Rabbi Tarfon",
+      "current_heading": "Rabbi Tarfon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Sleep Onset",
+    "candidates": [
+      "Sleep Onset",
+      "Two People"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Mishnah about one who slept on the road without knowing Shabbat began, presenting Rabbi Yochanan ben Nuri, the Rabbis, Rabbi Eliezer, and Rabbi Yehuda \u2014 exactly the content described in the 'Sleep Onset' prose.",
+      "chosen_heading": "Sleep Onset",
+      "current_heading": "Sleep Onset",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Two People",
+    "candidates": [
+      "Two People",
+      "Three People",
+      "Three Courtyards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the case of two people whose four cubits partially overlap and the rule about eating in the middle but not carrying into each other's exclusive zone \u2014 exactly what the 'Two People' prose discusses.",
+      "chosen_heading": "Two People",
+      "current_heading": "Two People",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Three Courtyards",
+    "candidates": [
+      "Three People",
+      "Three Courtyards",
+      "Cheftzei Hefker"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the three-person overlapping techum case and Rabbi Shimon's courtyard analogy illustrating it \u2014 they belong together under 'Three People' (index 0), not under 'Three Courtyards' (index 1), since the courtyard analogy is introduced as an illustration of the three-person scenario, and the 'Three People' prose already references the middle person being 'swallowed between them' which is the exact content of item 1, while item 2 is Rabbi Shimon's analogy for that same case.",
+      "chosen_heading": "Three People",
+      "current_heading": "Three Courtyards",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Cheftzei Hefker",
+    "candidates": [
+      "Three Courtyards",
+      "Cheftzei Hefker",
+      "Rain Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are Rava's dilemma about Rabbi Yo\u1e25anan ben Nuri's position \u2014 whether ownerless objects acquire shevita or not \u2014 which is precisely what the 'Cheftzei Hefker' prose describes in detail.",
+      "chosen_heading": "Cheftzei Hefker",
+      "current_heading": "Cheftzei Hefker",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Rain Case",
+    "candidates": [
+      "Rain Case",
+      "Wells Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 Rav Yosef's rain baraita, the analysis of whose opinion it reflects regarding hefker acquiring residence, and Rav Safra's challenge about rain near a city \u2014 are precisely the content described in the 'Rain Case' prose.",
+      "chosen_heading": "Rain Case",
+      "current_heading": "Rain Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Wells Case",
+    "candidates": [
+      "Wells Case",
+      "Mapping Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about cisterns (bor shel yachid, shel ota ha'ir, shel olei Bavel) which is precisely the content described in the 'Wells Case' prose section.",
+      "chosen_heading": "Wells Case",
+      "current_heading": "Wells Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Mapping Debate",
+    "candidates": [
+      "Mapping Debate",
+      "Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the contradiction between the two braitot and its resolution (ha Rabbi Yochanan ben Nuri, ha Rabbanan), which is precisely what the 'Mapping Debate' prose describes as its central content.",
+      "chosen_heading": "Mapping Debate",
+      "current_heading": "Mapping Debate",
+      "moved": false
+    }
+  }
+]

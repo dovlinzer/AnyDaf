@@ -1,0 +1,532 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Avyasar Divine Alignment",
+    "candidates": [
+      "Bifnei Nichtav Basics",
+      "Ramban's Question",
+      "Bavel's Special Status",
+      "Rabbi Avyasar Authority",
+      "Avyasar Divine Alignment",
+      "Fly vs. Hair Debate",
+      "Negligence Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together form the complete story of Rabbi Avyasar's divine alignment \u2014 the fly/hair dispute, his encounter with Elijah, and the eilu v'eilu resolution \u2014 which is precisely what candidate 4 ('Avyasar Divine Alignment') describes in its prose.",
+      "chosen_heading": "Avyasar Divine Alignment",
+      "current_heading": "Avyasar Divine Alignment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Negligence Theory",
+    "candidates": [
+      "Fly vs. Hair Debate",
+      "Negligence Theory",
+      "Undue Fear Lesson"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yehuda's teaching about the fly in the dish versus the hair, including both the 'disgust vs. danger' and 'unavoidable vs. negligence' interpretations, which is precisely what the 'Negligence Theory' section's prose describes and analyzes.",
+      "chosen_heading": "Negligence Theory",
+      "current_heading": "Negligence Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Undue Fear Lesson",
+    "candidates": [
+      "Undue Fear Lesson",
+      "Pre-Shabbat Statements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss imposing excessive fear upon one's household \u2014 Rav \u1e24isda's teaching about the concubine of Gibeah and Rav Yehuda/Rav's teaching about three sins \u2014 which is precisely what the 'Undue Fear Lesson' prose elaborates upon in detail.",
+      "chosen_heading": "Undue Fear Lesson",
+      "current_heading": "Undue Fear Lesson",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Pre-Shabbat Statements",
+    "candidates": [
+      "Pre-Shabbat Statements",
+      "Abaye's Derivation",
+      "Rabbi Chanina's Fear"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pre-Shabbat Statements",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabba bar bar \u1e24ana's teaching about the three pre-Shabbat statements said with calmness, which matches the 'Pre-Shabbat Statements' prose perfectly.",
+      "second_heading": "Abaye's Derivation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Ashi's statement that he arrived at the same conclusion independently through reasoning, which matches exactly the 'Abaye's Derivation' prose (noting the prose mistakenly attributes it to Abaye rather than Rav Ashi, but the content is clearly about independently arriving at the same conclusion).",
+      "current_heading": "Pre-Shabbat Statements",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Rabbi Chanina's Fear",
+    "candidates": [
+      "Abaye's Derivation",
+      "Rabbi Chanina's Fear",
+      "Mar Ukva's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit about Rabbi Abbahu's teaching on excessive fear in the household, the identification of Rabbi \u1e24anina ben Gamliel, and the resolution that they only 'sought' to feed him eiver min hachai \u2014 exactly what the prose under 'Rabbi Chanina's Fear' describes.",
+      "chosen_heading": "Rabbi Chanina's Fear",
+      "current_heading": "Rabbi Chanina's Fear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Mar Ukva's Question",
+    "candidates": [
+      "Mar Ukva's Question",
+      "Guard Your Mouth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Mar Ukva's question about handing people over to the government, which directly matches the prose under 'Mar Ukva's Question' (candidate 0), not Rabbi Elazar's response about guarding one's mouth (candidate 1).",
+      "chosen_heading": "Mar Ukva's Question",
+      "current_heading": "Mar Ukva's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Guard Your Mouth",
+    "candidates": [
+      "Guard Your Mouth",
+      "Anguish Concern",
+      "Divine Silence Path"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly contains the verse about guarding one's mouth even while the wicked stands against them, which matches exactly the prose in candidate 0 describing Rabbi Elazar scoring parchment and writing that same verse with that same interpretation.",
+      "chosen_heading": "Guard Your Mouth",
+      "current_heading": "Guard Your Mouth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Divine Silence Path",
+    "candidates": [
+      "Anguish Concern",
+      "Divine Silence Path",
+      "Gneiva's Punishment",
+      "Music Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Elazar's response ('dom l'Hashem' advice and study hall counsel) and the immediate punishment of Geneiva, which maps precisely to the current placement under 'Divine Silence Path' whose prose discusses exactly this combined content (the advice and its result), making it the best single heading for the whole passage.",
+      "chosen_heading": "Divine Silence Path",
+      "current_heading": "Divine Silence Path",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Music Source",
+    "candidates": [
+      "Gneiva's Punishment",
+      "Music Source",
+      "Voice vs. Instrument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Mar Ukva being asked about the source for the prohibition on song and his response with the Hosea verse, which is exactly what the 'Music Source' section's prose discusses.",
+      "chosen_heading": "Music Source",
+      "current_heading": "Music Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Voice vs. Instrument",
+    "candidates": [
+      "Voice vs. Instrument",
+      "Drinking Houses Context",
+      "Rabbinic Origin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about why the Isaiah 24:9 verse wasn't cited and the answer distinguishing instrumental from vocal music, which is precisely what the 'Voice vs. Instrument' section's prose describes.",
+      "chosen_heading": "Voice vs. Instrument",
+      "current_heading": "Voice vs. Instrument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Rabbinic Origin",
+    "candidates": [
+      "Drinking Houses Context",
+      "Rabbinic Origin",
+      "Crown Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Rabbinic Origin' explicitly describes this exact exchange between Rav Huna bar Rav Natan and Rav Ashi about the cities Kinah/Dimonah/Ad'adah and Tziklag/Madmannah/Sansannah, matching all three items precisely.",
+      "chosen_heading": "Rabbinic Origin",
+      "current_heading": "Rabbinic Origin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Crown Source",
+    "candidates": [
+      "Crown Source",
+      "Mitre Crown Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Exilarch's question to Rav Huna about the source for prohibiting a groom's garland and Rav Huna's answer citing the Sotah mishna about Vespasian's decrees, which is exactly what the 'Crown Source' prose describes.",
+      "chosen_heading": "Crown Source",
+      "current_heading": "Crown Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Mitre Crown Link",
+    "candidates": [
+      "Mitre Crown Link",
+      "Huna's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav \u1e24isda's citation of the Ezekiel verse and the explanation of the mitre-garland connection \u2014 are precisely what Candidate 0 ('Mitre Crown Link') discusses in its prose, matching the content exactly.",
+      "chosen_heading": "Mitre Crown Link",
+      "current_heading": "Mitre Crown Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Huna's Objection",
+    "candidates": [
+      "Huna's Objection",
+      "Braiding Wreath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Huna's return, his oath declaring the prohibition is rabbinic, and his compliment to Rav \u1e24isda \u2014 exactly what the 'Huna's Objection' prose describes.",
+      "chosen_heading": "Huna's Objection",
+      "current_heading": "Huna's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Braiding Wreath",
+    "candidates": [
+      "Braiding Wreath",
+      "Gender Distinction",
+      "Angels' Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Ravina finding Mar bar Rav Ashi braiding a garland and challenging him with the verse, which is exactly what heading 0 'Braiding Wreath' describes \u2014 the gender distinction reply in heading 1 belongs to the follow-up, but this single passage covers both the finding and the reply together and best fits under its current heading.",
+      "chosen_heading": "Braiding Wreath",
+      "current_heading": "Braiding Wreath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Angels' Argument",
+    "candidates": [
+      "Gender Distinction",
+      "Angels' Argument",
+      "Sinai Connection",
+      "Crowns Removal Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Avira's exposition on 'zos lo zos' and the angels' argument about Israel's merit of na'aseh v'nishma, which is exactly what the 'Angels' Argument' section prose describes.",
+      "chosen_heading": "Angels' Argument",
+      "current_heading": "Angels' Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Crowns Removal Reason",
+    "candidates": [
+      "Sinai Connection",
+      "Crowns Removal Reason",
+      "Limited Livelihood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is God's response explaining why the crowns must be removed \u2014 exactly what the 'Crowns Removal Reason' section's prose discusses in detail.",
+      "chosen_heading": "Crowns Removal Reason",
+      "current_heading": "Crowns Removal Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Limited Livelihood",
+    "candidates": [
+      "Limited Livelihood",
+      "Charity Derasha",
+      "Shearing Property",
+      "Sheep Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about giving charity even when one's livelihood is limited, which matches exactly the prose of heading 0 ('Limited Livelihood'), which discusses the same verse, the same Sages, and the same interpretation about mtzumtzamin (limited) resources.",
+      "chosen_heading": "Limited Livelihood",
+      "current_heading": "Limited Livelihood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Sheep Parable",
+    "candidates": [
+      "Charity Derasha",
+      "Shearing Property",
+      "Sheep Parable",
+      "Poor Giving Charity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0 ('Charity Derasha') explicitly discusses both the derasha on 'nagozzu/v'avar' and the tzedakah teaching together, matching the full content of the passage including the wordplay on 'gozez' and 'v'avar,' while the parable is part of the same Gemara unit illustrating that teaching.",
+      "chosen_heading": "Charity Derasha",
+      "current_heading": "Sheep Parable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Poor Giving Charity",
+    "candidates": [
+      "Sheep Parable",
+      "Poor Giving Charity",
+      "Poverty Elimination",
+      "Yehuda's Boundaries",
+      "Tithes Boundaries",
+      "Akko vs. Kziv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Mar Zutra's teaching about poor people giving charity AND Rav Yosef's teaching about no longer showing signs of poverty, and candidate 1's prose covers Mar Zutra's teaching while candidate 2's prose covers Rav Yosef's \u2014 but since the item is a single unified Talmudic passage and candidate 1 is the current placement and begins the relevant discussion, it belongs under 'Poor Giving Charity' which introduces the topic.",
+      "chosen_heading": "Poor Giving Charity",
+      "current_heading": "Poor Giving Charity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Akko vs. Kziv",
+    "candidates": [
+      "Poverty Elimination",
+      "Yehuda's Boundaries",
+      "Tithes Boundaries",
+      "Akko vs. Kziv",
+      "Strip Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's challenge to Rabbi Yehuda's placement of Akko as the northern boundary \u2014 precisely the contradiction from the baraita about traveling from Akko to Keziv \u2014 which is exactly what candidate 3 ('Akko vs. Kziv') describes in its prose.",
+      "chosen_heading": "Akko vs. Kziv",
+      "current_heading": "Akko vs. Kziv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Strip Explanation",
+    "candidates": [
+      "Strip Explanation",
+      "Boat Equivalence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Abaye's 'strip extends' answer and Rav Pappa's interpretation of the verse about the road to Shiloh as a geographic marker, which directly matches the 'Strip Explanation' prose describing retzu'ah nafka and the Shoftim verse about li'msila ha'olah.",
+      "chosen_heading": "Strip Explanation",
+      "current_heading": "Strip Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Boat Equivalence",
+    "candidates": [
+      "Boat Equivalence",
+      "Foreign Soil Dispute",
+      "Rashi's Interpretation",
+      "Scraping Bottom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the contradiction between the two baraitot about bringing a get on a boat, which is precisely what the 'Boat Equivalence' section's prose describes.",
+      "chosen_heading": "Boat Equivalence",
+      "current_heading": "Boat Equivalence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Scraping Bottom",
+    "candidates": [
+      "Foreign Soil Dispute",
+      "Rashi's Interpretation",
+      "Scraping Bottom",
+      "Perforated Pot",
+      "Boat Movement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Scraping Bottom",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 (Rabbi Yirmiah, Rabbi Yehuda's gosheshes condition, and Abaye) all resolve the contradiction between the two beraitot using the Rabbi Yehuda/Rabbanan dispute and the scraping-bottom criterion, which is precisely what candidate 2 ('Scraping Bottom') describes in its prose.",
+      "second_heading": "Perforated Pot",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces Rabbi Zeira's comparison to the perforated pot (atzitz nakuv) suspended on pegs, which is the exact subject of candidate 3 ('Perforated Pot') and its prose about the parallel between the boat case and the atzitz nakuv dispute.",
+      "current_heading": "Scraping Bottom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152,
+      153,
+      154
+    ],
+    "current_heading": "Boat Movement",
+    "candidates": [
+      "Perforated Pot",
+      "Boat Movement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute Rava's distinction between the boat case and the flowerpot case \u2014 the mobility argument (items 1-2) and the airspace/water argument (item 3) \u2014 which is precisely what the 'Boat Movement' prose describes in detail, including both the livroach distinction and the demaya de'ar'a semichta point.",
+      "chosen_heading": "Boat Movement",
+      "current_heading": "Boat Movement",
+      "moved": false
+    }
+  }
+]

@@ -140,9 +140,7 @@ With that premise in hand, the full *kal va-chomer* holds: *meit mitzvah* is gre
 
 ### Exec vs Avodah
 
-Rabbi Yochanan responds with a counter-proof: *ritzicha tochiah* — execution itself demonstrates the limit of the *kal va-chomer*. Execution overrides *avodah* — a *kohen* is taken from the altar to be executed, even if he is the only available *kohen* and the *avodah* will thereby cease — and yet execution does not override Shabbat. Here is a case of something that is weightier than *avodah* and yet does not override Shabbat. Therefore, being weightier than *avodah* does not automatically confer the power to override Shabbat. The same logic applies to *meit mitzvah*: it may override *avodah* and still not override Shabbat.
-
----
+The Gemara notes that there are things which override *avodah* yet do not override Shabbat — *ritzicha* (execution) is one such case, and *meit mitzvah* is another: both push aside *avodah* but neither pushes aside Shabbat. With this observation in place, Reish Lakish responds.
 
 ## QVH: Execute on Shab (II)
 

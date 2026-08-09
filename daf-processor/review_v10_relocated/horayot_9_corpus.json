@@ -1,0 +1,323 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Midcha Dachi Query",
+    "candidates": [
+      "Review: Chatat Keduma",
+      "Nasi & Kohen Gadol",
+      "Midcha Dachi Query",
+      "Rashi: Wealth Exempts",
+      "Ha-Rosh Challenge",
+      "Rava on Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely the Ravina/Rav Nachman bar Yitzchak exchange about a king afflicted with tzara'at and the midcha dachi o miptar patir dilemma, which is exactly what the 'Midcha Dachi Query' section's prose describes.",
+      "chosen_heading": "Midcha Dachi Query",
+      "current_heading": "Midcha Dachi Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rava on Akiva",
+    "candidates": [
+      "Rashi: Wealth Exempts",
+      "Ha-Rosh Challenge",
+      "Rava on Akiva",
+      "Me'achot Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains the baraita of Rabbi Akiva exempting the kohen gadol from all oleh v'yored offerings and Rava's explanation using the verse about Aaron's offering, which is precisely what the 'Rava on Akiva' section prose describes.",
+      "chosen_heading": "Rava on Akiva",
+      "current_heading": "Rava on Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Me'achot Placement",
+    "candidates": [
+      "Me'achot Placement",
+      "Me'achot vs L'achot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically addresses the argument that the kohen gadol is excluded only from the mincha (dallei dalus/asiris ha'eifa) and the Gemara's response using the 'miskaper b'achas' principle from Leviticus 5:13, which is precisely what the prose under 'Me'achot Placement' describes.",
+      "chosen_heading": "Me'achot Placement",
+      "current_heading": "Me'achot Placement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Me'achot vs L'achot",
+    "candidates": [
+      "Me'achot vs L'achot",
+      "Standard Chatat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous Gemara discussion about mei-achas vs l'achas and the placement of the term adjacent to the asiris ha'eifa, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Me'achot vs L'achot",
+      "current_heading": "Me'achot vs L'achot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Standard Chatat",
+    "candidates": [
+      "Standard Chatat",
+      "Avoda Zara Rule",
+      "Asham Talui",
+      "Asham Vadai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers both the standard chatat rule and the avoda zara rule in one passage, but its opening clause \u2014 summarizing all Torah mitzvot with karet/chatat liability and the offerings for yachid, nasi, and kohen gadol/Beit Din \u2014 directly matches the 'Standard Chatat' section prose, which is the primary topic of this mishna and where it currently sits.",
+      "chosen_heading": "Standard Chatat",
+      "current_heading": "Standard Chatat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Asham Vadai",
+    "candidates": [
+      "Avoda Zara Rule",
+      "Asham Talui",
+      "Asham Vadai",
+      "Oleh V'Yored Sins",
+      "Contradiction Setup",
+      "Nasi Brings She-Goat",
+      "Yochanan Limits Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both asham talui and asham vadai rules in a single baraita, and the 'Asham Talui' section's prose explicitly discusses both offerings and their liability rules, making it the better home; the current placement under 'Asham Vadai' only captures the second half of the passage.",
+      "chosen_heading": "Asham Talui",
+      "current_heading": "Asham Vadai",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Yochanan Limits Rule",
+    "candidates": [
+      "Oleh V'Yored Sins",
+      "Contradiction Setup",
+      "Nasi Brings She-Goat",
+      "Yochanan Limits Rule",
+      "Rav Huna Resolves",
+      "Rav Shimon's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Candidate 3's prose explicitly describes all four items: the Mishnah establishing baseline liability with Rabbi Shimon's exceptions, Rabbi Eliezer's ruling that the nasi brings a goat, Rabbi Shimon's baraita with its general principles, and the Gemara flagging the internal contradiction (*hagufa kashya*) between the partial and categorical exemptions of the kohen gadol from oleh v'yored.",
+      "chosen_heading": "Yochanan Limits Rule",
+      "current_heading": "Yochanan Limits Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Rav Shimon's View",
+    "candidates": [
+      "Rav Huna Resolves",
+      "Rav Shimon's View",
+      "Mitoch HaKahal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the contradiction-and-resolution unit (kashyan ahadadi + Rav Huna's distinction between dalus and dalei dalus), which is precisely what candidate 0 'Rav Huna Resolves' describes in its prose, including the Rabbi Shimon/Rabbi Akiva comparison that Rav Huna's resolution entails.",
+      "chosen_heading": "Rav Huna Resolves",
+      "current_heading": "Rav Shimon's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Mitoch HaKahal",
+    "candidates": [
+      "Rav Shimon's View",
+      "Mitoch HaKahal",
+      "Challenge to Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Chizkiyah's derivation from 'mitoch ha-kahal' explaining why the kohen gadol is excluded from tum'at mikdash v'kodashav, which is precisely what the 'Mitoch HaKahal' section's prose describes.",
+      "chosen_heading": "Mitoch HaKahal",
+      "current_heading": "Mitoch HaKahal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Challenge to Logic",
+    "candidates": [
+      "Challenge to Logic",
+      "Rav Papa's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items continue the exact chain of challenges and answers about who is included/excluded based on equality with the congregation \u2014 the same logical sequence described in the 'Challenge to Logic' prose, culminating in Rava's reformulation of the criterion.",
+      "chosen_heading": "Challenge to Logic",
+      "current_heading": "Challenge to Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Rav Papa's Question",
+    "candidates": [
+      "Rav Papa's Question",
+      "Why No Kohen Gadol",
+      "Asham Talui Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion of why Rabbi Eliezer's ruling is limited to tum'at mikdash v'kodashav \u2014 proven by the absence of a parallel ruling for the kohen gadol \u2014 which is precisely what candidate 1 ('Why No Kohen Gadol') describes, including the diyuk from silence and the debate between Rav Pappa and Rav Huna b'rei d'Rav Natan about this inference.",
+      "chosen_heading": "Why No Kohen Gadol",
+      "current_heading": "Rav Papa's Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Asham Talui Braita",
+    "candidates": [
+      "Why No Kohen Gadol",
+      "Asham Talui Braita",
+      "Rava's Reframe",
+      "Sin While in Office",
+      "Sinned After Deposed",
+      "Stylistic Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the asham talui braita recited before Rav Sheshet and Rabbi Yochanan's statement that Rabbi Eliezer concedes no asham talui is brought, which is precisely what candidate 1 ('Asham Talui Braita') describes in its prose.",
+      "chosen_heading": "Asham Talui Braita",
+      "current_heading": "Asham Talui Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Stylistic Defense",
+    "candidates": [
+      "Rava's Reframe",
+      "Sin While in Office",
+      "Sinned After Deposed",
+      "Stylistic Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage 'Hadaran alakh Hora Kohen Mashiach' is a closing Hadaran formula marking the end of the tractate/chapter dealing with the kohen mashiach material, and it naturally falls at the conclusion of the final substantive section, which is 'Stylistic Defense' \u2014 its current placement.",
+      "chosen_heading": "Stylistic Defense",
+      "current_heading": "Stylistic Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Stylistic Defense",
+    "candidates": [
+      "Stylistic Defense",
+      "Ve'Hikriv Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna text presents both cases (sinned while in office then deposed, and deposed then sinned) in a parallel two-part structure for both kohen gadol and nasi, which is exactly what the 'Stylistic Defense' prose discusses \u2014 the Gemara's explanation that the first clause is included for parallel stylistic clarity alongside the nasi's meaningful contrast.",
+      "chosen_heading": "Stylistic Defense",
+      "current_heading": "Stylistic Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Ve'Hikriv Source",
+    "candidates": [
+      "Ve'Hikriv Source",
+      "Kal V'Chomer Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses why the Mishnah needs to state the case of a kohen gadol who sinned and then left his anointment (contrasting with a nasi who loses status upon deposition), which directly parallels the 'Kal V'Chomer Logic' prose about the nasi's lower threshold versus the kohen gadol's higher threshold and what happens when each is deposed \u2014 not the 'Ve'Hikriv Source' prose about the past-tense verse.",
+      "chosen_heading": "Kal V'Chomer Logic",
+      "current_heading": "Ve'Hikriv Source",
+      "moved": true
+    }
+  }
+]

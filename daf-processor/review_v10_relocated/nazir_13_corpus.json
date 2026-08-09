@@ -1,0 +1,221 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Son/Daughter Status",
+    "candidates": [
+      "Opening Review",
+      "Son/Daughter Status",
+      "Miscarriage Case",
+      "Tanna Kamma vs R. Shimon",
+      "Safek to Vadai",
+      "Second Child Born"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text covers exactly the ben/vlad distinction (son vs. child, with tumtum and androginos cases) that the 'Son/Daughter Status' prose describes, and current placement is correct.",
+      "chosen_heading": "Son/Daughter Status",
+      "current_heading": "Son/Daughter Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Second Child Born",
+    "candidates": [
+      "Miscarriage Case",
+      "Tanna Kamma vs R. Shimon",
+      "Safek to Vadai",
+      "Second Child Born",
+      "Initial Question",
+      "Ben vs Child",
+      "Tumtum Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Safek to Vadai",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the miscarriage case and Rabbi Shimon's resolution (safek to vadai via conditional declaration), which is precisely what candidate 2 'Safek to Vadai' discusses.",
+      "second_heading": "Second Child Born",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the subsequent birth scenario and Rabbi Shimon's parallel resolution, which is exactly what candidate 3 'Second Child Born' describes in its prose.",
+      "current_heading": "Second Child Born",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Tumtum Problem",
+    "candidates": [
+      "Initial Question",
+      "Ben vs Child",
+      "Tumtum Problem",
+      "Retroactive Viability",
+      "Animal Sanctification"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Initial Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's question 'what is the point of stating this' and the answer about the latter clause \u2014 exactly what candidate 0 ('Initial Question') describes as the hai mai l'memra opening and the chiddush lying in the subsequent clause.",
+      "second_heading": "Ben vs Child",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the vlad case \u2014 why stating that any child (daughter, tumtum, hermaphrodite) qualifies is not obvious \u2014 which is precisely what candidate 1 ('Ben vs Child') discusses, including the vlad d'michshav beinei inshi reasoning.",
+      "current_heading": "Tumtum Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Animal Sanctification",
+    "candidates": [
+      "Retroactive Viability",
+      "Animal Sanctification",
+      "Twin Viability",
+      "And Me Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a single continuous Gemara unit \u2014 Rabbi Abba's question to Rav Huna about whether a separated offering is consecrated when the wife later gives birth, the clarification that the question follows Rabbi Yehuda's leniency, and the teiku conclusion \u2014 which matches precisely the prose under 'Animal Sanctification' (heading 1).",
+      "chosen_heading": "Animal Sanctification",
+      "current_heading": "Animal Sanctification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "And Me Question",
+    "candidates": [
+      "Twin Viability",
+      "And Me Question",
+      "Alai vs Ani"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Ben Rechumi inquiry to Abaye about the 've'alai' formulation, which is precisely what the 'And Me Question' section's prose discusses.",
+      "chosen_heading": "And Me Question",
+      "current_heading": "And Me Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Alai vs Ani",
+    "candidates": [
+      "Alai vs Ani",
+      "Ksifa Interpretation",
+      "Third Party Case",
+      "Loyalty Motivation",
+      "Two Nezirut Setup",
+      "Order Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ksifa Interpretation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the va'ani dilemma in the presence of the original speaker, which is exactly what the 'Alai vs Ani' and 'Ksifa Interpretation' sections discuss \u2014 the embarrassment factor (ksifa) is introduced at the end of Item 1 as the pivot, matching the 'Ksifa Interpretation' prose's focus on social pressure when vowing in another's presence.",
+      "second_heading": "Third Party Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the third-party case (l'ploni ven \u2014 'when so-and-so has a son') where the subject is absent, which is precisely the scenario described in the 'Third Party Case' prose.",
+      "current_heading": "Alai vs Ani",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Order Problem",
+    "candidates": [
+      "Ksifa Interpretation",
+      "Third Party Case",
+      "Loyalty Motivation",
+      "Two Nezirut Setup",
+      "Order Problem",
+      "No Shaving",
+      "Hundred Days",
+      "Three Scenarios",
+      "Rava Case Setup",
+      "Hair Growth Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna text describes the double declaration case ('I am hereby a nazirite and a nazirite when I have a son') and its ordering implications, which directly corresponds to the 'Two Nezirut Setup' prose that introduces and explains this exact mishnah and its motivation.",
+      "chosen_heading": "Two Nezirut Setup",
+      "current_heading": "Order Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Hair Growth Logic",
+    "candidates": [
+      "No Shaving",
+      "Hundred Days",
+      "Three Scenarios",
+      "Rava Case Setup",
+      "Hair Growth Logic",
+      "Small vs Large",
+      "Sufficient Remainder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rava's question itself \u2014 the setup of the case with 'hareini nazir l'achar esrim yom u'me'akhshav me'ah yom' \u2014 which matches the 'Rava Case Setup' prose that describes exactly this question being posed, rather than 'Hair Growth Logic' which discusses the gemara's internal reasoning framework after the question is introduced.",
+      "chosen_heading": "Rava Case Setup",
+      "current_heading": "Hair Growth Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Sufficient Remainder",
+    "candidates": [
+      "Small vs Large",
+      "Sufficient Remainder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the gemara's answer that one dilemma is built upon the other (chada migu chada), which is precisely what the 'Small vs Large' prose describes \u2014 the nested structure of the two questions \u2014 whereas the 'Sufficient Remainder' prose describes the content of the dilemma itself (the eighty-day remainder logic), which is already covered by item 2 but only makes sense after the framing in item 1 is placed under heading 0.",
+      "chosen_heading": "Small vs Large",
+      "current_heading": "Sufficient Remainder",
+      "moved": true
+    }
+  }
+]

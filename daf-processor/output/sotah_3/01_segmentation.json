@@ -24,7 +24,7 @@
           "timestamp": "01:02"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -43,7 +43,7 @@
           "timestamp": "02:35"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 12,
       "matched": false
     },
     {
@@ -102,7 +102,7 @@
           "timestamp": "13:02"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -131,7 +131,7 @@
           "timestamp": "20:29"
         }
       ],
-      "sefaria_index": 29,
+      "sefaria_index": 27,
       "matched": true
     },
     {
@@ -529,5 +529,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 24
+  "amud_b_sefaria_index": 24,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "10:17",
+  "amud_b_micro_title": "R. Yishmael: Body & Limbs",
+  "shiur_start_daf": 3,
+  "shiur_start_amud": "a"
 }

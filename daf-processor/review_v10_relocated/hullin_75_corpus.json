@@ -1,0 +1,280 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Tumah: Rishon or Sheini",
+    "candidates": [
+      "Recap: Mother's Shechita",
+      "Tumah: Rishon or Sheini",
+      "RY vs. RL Dispute",
+      "Nut Analogy & Shomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the dilemma of counting rishon and sheini for a ben pekua inside its slaughtered mother, which is precisely what the 'Tumah: Rishon or Sheini' section's prose describes and discusses.",
+      "chosen_heading": "Tumah: Rishon or Sheini",
+      "current_heading": "Tumah: Rishon or Sheini",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Nut Analogy & Shomer",
+    "candidates": [
+      "RY vs. RL Dispute",
+      "Nut Analogy & Shomer",
+      "Pregnant Cow Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the direct dispute between Rabbi Yo\u1e25anan and Reish Lakish about counting first and second degree impurity, which is exactly what candidate 0 ('RY vs. RL Dispute') describes, while the nut analogy is quoted as part of Reish Lakish's position in the same statement \u2014 the primary content is the dispute itself, not the extended analysis of the nut/shomer principle that candidate 1's prose elaborates upon separately.",
+      "chosen_heading": "RY vs. RL Dispute",
+      "current_heading": "Nut Analogy & Shomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Pregnant Cow Challenge",
+    "candidates": [
+      "Nut Analogy & Shomer",
+      "Pregnant Cow Challenge",
+      "Living Fetus Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous chain of objections and counter-objections between Rabbi Yo\u1e25anan and Reish Lakish about whether mother and fetus are one or two bodies for hechsher/tumah purposes \u2014 exactly the content described in the 'Pregnant Cow Challenge' prose.",
+      "chosen_heading": "Pregnant Cow Challenge",
+      "current_heading": "Pregnant Cow Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Living Fetus Tumah",
+    "candidates": [
+      "Living Fetus Tumah",
+      "Miscarriage Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items directly correspond to the content described in the 'Living Fetus Tumah' prose: Rabbi Yochanan identifying Rabbi Yose HaGlili, the fish tumah dispute in Uktzin, the dag mikarteia question, and Rav Hisda's dilemma about tereifa fish \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Living Fetus Tumah",
+      "current_heading": "Living Fetus Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Miscarriage Case",
+    "candidates": [
+      "Miscarriage Case",
+      "In-Womb Fat Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the miscarriage (hetila nefel) dispute between Rabbi Yochanan and Reish Lakish \u2014 item 1 states their positions and item 2 gives their reasoning (avira garam vs. chadashim garmu) \u2014 which is precisely what the 'Miscarriage Case' prose discusses.",
+      "chosen_heading": "Miscarriage Case",
+      "current_heading": "Miscarriage Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "In-Womb Fat Case",
+    "candidates": [
+      "In-Womb Fat Case",
+      "Asham Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the 'ika d'amri' version of the dispute about fat extracted from a fully gestated fetus still in the womb, which is precisely what the 'In-Womb Fat Case' prose discusses in detail.",
+      "chosen_heading": "In-Womb Fat Case",
+      "current_heading": "In-Womb Fat Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Asham Proof",
+    "candidates": [
+      "Asham Proof",
+      "Rav Chisda Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous exchange about the asham baraita \u2014 Rabbi Yochanan's objection, Reish Lakish's response, the reverse version, and the mechusar zman answer \u2014 which is precisely what the 'Asham Proof' prose describes in detail.",
+      "chosen_heading": "Asham Proof",
+      "current_heading": "Asham Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Rav Chisda Case",
+    "candidates": [
+      "Rav Chisda Case",
+      "Rava: Arba Simanim",
+      "Baraita Contradiction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Chisda Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Ami's reversal argument and Rava's arba simanim response, which is precisely what headings 0 ('Rav Chisda Case') and 1 ('Rava: Arba Simanim') discuss \u2014 but items 1-2 belong under heading 0 since the prose there explicitly covers both Rabbi Ami's formulation and Rava's arba simanim rebuttal as setup for Rav Chisda.",
+      "second_heading": "Rava: Arba Simanim",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 cover Rav Chisda's ruling (te'un shechita, priestly gifts, purity from carrying) and Rava's challenge that it mixes Rabbi Meir and the Rabbis, followed by Rav Chisda's baraita of Rabbi Chiyya response \u2014 exactly matching heading 1 ('Rava: Arba Simanim') and heading 2 ('Baraita Contradiction'), with items 3-5 under heading 1 and item 6 under heading 2, but since the split can only be at one point, the structural seam between items 2 and 3 (shift from the arba simanim dispute to Rav Chisda's independent ruling) is the clearest break.",
+      "current_heading": "Rav Chisda Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Baraita Contradiction",
+    "candidates": [
+      "Rava: Arba Simanim",
+      "Baraita Contradiction",
+      "Zeira-Assi Exchange"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rava's response that Rabbi Chiya's baraita was speaking of a fetus already found dead, resolving the baraita's internal consistency, while noting the problem remains with Rav Chisda's formulation \u2014 exactly what the 'Baraita Contradiction' section's prose describes as the questioner's response.",
+      "chosen_heading": "Baraita Contradiction",
+      "current_heading": "Baraita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Zeira-Assi Exchange",
+    "candidates": [
+      "Zeira-Assi Exchange",
+      "Shimon Shezuri Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav \u1e24isda's resolution about four simanim, Rabbi Zeira's report of Rabbi Yo\u1e25anan's agreement, and the ambiguity about Reish Lakish's silence \u2014 are precisely the content described in the 'Zeira-Assi Exchange' prose, which explicitly covers arba simanim, Rabbi Yochanan's position, and Reish Lakish's silent response.",
+      "chosen_heading": "Zeira-Assi Exchange",
+      "current_heading": "Zeira-Assi Exchange",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Shimon Shezuri Debate",
+    "candidates": [
+      "Shimon Shezuri Debate",
+      "Hybrid Ben Pekua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rav Kahana statement distinguishing Rabbi Shimon Shezuri from the first tanna based on whether the animal stood on the ground, which is precisely what the 'Shimon Shezuri Debate' prose section discusses.",
+      "chosen_heading": "Shimon Shezuri Debate",
+      "current_heading": "Shimon Shezuri Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Hybrid Ben Pekua",
+    "candidates": [
+      "Hybrid Ben Pekua",
+      "Abaye Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Mesharshiyya's ruling about a ben pekua mating with a full-fledged animal producing offspring with no rectification, which is exactly what the 'Hybrid Ben Pekua' section's prose describes.",
+      "chosen_heading": "Hybrid Ben Pekua",
+      "current_heading": "Hybrid Ben Pekua",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Abaye Exception",
+    "candidates": [
+      "Abaye Exception",
+      "Final Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's ruling about kalut ben pakua and the two versions of his reasoning (single vs. double bizarre matter), which is precisely what the 'Abaye Exception' prose discusses in detail.",
+      "chosen_heading": "Abaye Exception",
+      "current_heading": "Abaye Exception",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Tanna Kamma vs Eliezer",
+    "candidates": [
+      "Tanna Kamma vs Eliezer",
+      "Yom Tov Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together constitute the opening mishna and the gemara's first answer (brick cupboard, Yom Tov limitation), which is exactly what the 'Tanna Kamma vs Eliezer' prose describes as the ground covered before moving to the braisa discussion in 'Yom Tov Exception'.",
+      "chosen_heading": "Tanna Kamma vs Eliezer",
+      "current_heading": "Tanna Kamma vs Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Yom Tov Exception",
+    "candidates": [
+      "Yom Tov Exception",
+      "Key Location Logic",
+      "Three Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a single question-and-answer sequence about whether the mishna refers to Yom Tov or Shabbat, resolving the contradiction with Rabbi Eliezer's Tosefta via the 'incomplete mishna' answer \u2014 exactly the content described in the 'Yom Tov Exception' prose.",
+      "chosen_heading": "Yom Tov Exception",
+      "current_heading": "Yom Tov Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Three Positions",
+    "candidates": [
+      "Key Location Logic",
+      "Three Positions",
+      "Ohel Status",
+      "Destruction of Vessels",
+      "Tum'ah Connection"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Key Location Logic",
+      "first_confidence": "high",
+      "first_reason": "Item 1 explains the city/field distinction in terms of Rabbi Shimon's unified domain principle versus the Rabbis' position, which is precisely what the 'Key Location Logic' and 'Three Positions' prose discusses \u2014 but 'Key Location Logic' is the closer match since it directly addresses the city/field finding logic, though 'Three Positions' also covers this material; given the prose of 'Three Positions' explicitly articulates the Rabbi Shimon / Rabbanan split regarding city vs. field and unified reshuyos, it is the better home for Item 1.",
+      "second_heading": "Ohel Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces Rabba and Rav Yosef's wooden cupboard (migdal shel etz) approach \u2014 kli vs. ohel \u2014 which is exactly what the 'Ohel Status' section's prose describes as Rabbah and Rav Yosef's alternative reading of the mishna.",
+      "current_heading": "Three Positions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Tum'ah Connection",
+    "candidates": [
+      "Ohel Status",
+      "Destruction of Vessels",
+      "Tum'ah Connection",
+      "Tremor Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna in Maseches Zavim about a zav striking a shida, teiva, or migdal, which is precisely the tannaitic parallel the prose in 'Tum'ah Connection' (index 2) introduces and discusses as mapping onto the kli-versus-ohel dispute between Rabbah and Rav Yosef.",
+      "chosen_heading": "Tum'ah Connection",
+      "current_heading": "Tum'ah Connection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Tremor Debate",
+    "candidates": [
+      "Tremor Debate",
+      "String Binding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: the Gemara proposes a kli-vs-ohel reading of the dispute, Abaye refutes it with a baraita showing movement is the key factor, and Abaye then reframes the dispute as being about whether vibration-in-place counts as hesset \u2014 exactly what the 'Tremor Debate' prose describes.",
+      "chosen_heading": "Tremor Debate",
+      "current_heading": "Tremor Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "String Binding",
+    "candidates": [
+      "String Binding",
+      "Rabbi Yosei Lenient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye and Rava's answer about a lock tied with a leather strap requiring a knife to cut it, which is precisely what the 'String Binding' section's prose discusses \u2014 their joint resolution involving a wardrobe bound with a string/strap and the need for a knife.",
+      "chosen_heading": "String Binding",
+      "current_heading": "String Binding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Rabbi Yosei Lenient",
+    "candidates": [
+      "Rabbi Yosei Lenient",
+      "Rabbi Nechemiah Strict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states the *tanna kamma* holds like Rabbi Yosei who permits moving all vessels except large saw and plow blade, which is precisely what the 'Rabbi Yosei Lenient' section's prose discusses.",
+      "chosen_heading": "Rabbi Yosei Lenient",
+      "current_heading": "Rabbi Yosei Lenient",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Rabbi Nechemiah Strict",
+    "candidates": [
+      "Rabbi Nechemiah Strict",
+      "Rolling Away"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains Rabbi Ne\u1e25emya's ruling on handling vessels (cloak/spoon only for their intended use), which is precisely what the 'Rabbi Nechemiah Strict' section's prose discusses in detail.",
+      "chosen_heading": "Rabbi Nechemiah Strict",
+      "current_heading": "Rabbi Nechemiah Strict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Rolling Away",
+    "candidates": [
+      "Rolling Away",
+      "Building Falls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items (the mishna about eiruv rolling beyond the techum/pile/burning/teruma, the safek dispute between Rabbi Meir/Yehuda and Rabbi Yosei/Shimon, and Rava's qualification about four amot) are explicitly discussed together in the 'Rolling Away' prose, which covers all these cases in detail.",
+      "chosen_heading": "Rolling Away",
+      "current_heading": "Rolling Away",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Building Falls",
+    "candidates": [
+      "Building Falls",
+      "Burned & Impure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the nafal alav gal case \u2014 the muktzah/Rabbi Yehuda HaNasi issue, the hoe-and-spade resolution, and the necessity of both rulings \u2014 which exactly matches the 'Building Falls' prose.",
+      "chosen_heading": "Building Falls",
+      "current_heading": "Building Falls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Burned & Impure",
+    "candidates": [
+      "Burned & Impure",
+      "Chammar Gamal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss exactly why the mishna teaches the cases of burning and impure teruma \u2014 to convey Rabbi Yosei's leniency and Rabbi Meir's stringency respectively \u2014 which is precisely what the 'Burned & Impure' prose section addresses.",
+      "chosen_heading": "Burned & Impure",
+      "current_heading": "Burned & Impure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Chammar Gamal",
+    "candidates": [
+      "Chammar Gamal",
+      "Meir & Yehudah",
+      "Yosei & Shimon",
+      "Tum'ah Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the mishna about tamei/immersion doubts and the distinction between severe (biblical) and lenient (rabbinic) tumah that candidate 3 ('Tum'ah Comparison') describes in its prose as the gemara's challenge against Rabbi Meir's stringency on safek eiruv.",
+      "chosen_heading": "Tum'ah Comparison",
+      "current_heading": "Chammar Gamal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Tum'ah Comparison",
+    "candidates": [
+      "Meir & Yehudah",
+      "Yosei & Shimon",
+      "Tum'ah Comparison",
+      "Bird Flies Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the direct continuation of the tum'ah comparison: item 1 is Rabbi Yosei's dissenting opinion within that mishna, and item 2 is the Gemara's answer explaining why Rabbi Meir is nonetheless strict \u2014 because he holds techumin are biblical \u2014 which is precisely the challenge-and-resolution structure described in the 'Tum'ah Comparison' prose.",
+      "chosen_heading": "Tum'ah Comparison",
+      "current_heading": "Tum'ah Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Bird Flies Measure",
+    "candidates": [
+      "Bird Flies Measure",
+      "Techumin D'Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the gemara's challenge to Rabbi Meir holding techumin d'oraita \u2014 item 1 raises the mekadrin ruling and item 2 brings Rav Nachman's proof that piercing mountains is only used for rabbinic measurements \u2014 which is precisely what candidate 0's prose describes as the content of this section.",
+      "chosen_heading": "Bird Flies Measure",
+      "current_heading": "Bird Flies Measure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Techumin D'Rabbanan",
+    "candidates": [
+      "Techumin D'Rabbanan",
+      "Started Bad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly resolves the contradiction between Rabbi Meir's two rulings by explaining that the lenient ruling is his teacher's view (ha didei ha de-rabbeih), and confirms this via the precise language 'shamati' \u2014 exactly what the prose under 'Techumin D'Rabbanan' describes.",
+      "chosen_heading": "Techumin D'Rabbanan",
+      "current_heading": "Techumin D'Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Started Bad",
+    "candidates": [
+      "Started Bad",
+      "Two Chazakos",
+      "Witnesses Weaken"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the d'oraisa vs d'oraisa contradiction against Rabbi Meir \u2014 item 1 introduces the contradiction and item 2 cites the mishna about touching someone at night \u2014 which is precisely what the 'Started Bad' prose describes as 'a second challenge against Rabbi Meir: a d'oraisa versus d'oraisa inconsistency.'",
+      "chosen_heading": "Started Bad",
+      "current_heading": "Started Bad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Witnesses Weaken",
+    "candidates": [
+      "Two Chazakos",
+      "Witnesses Weaken",
+      "Two Chazakos Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the Rabba/Rav Yosef answer about two sets of contradictory witnesses undermining the chazakah of the eiruv, which is precisely what the 'Witnesses Weaken' prose describes.",
+      "chosen_heading": "Witnesses Weaken",
+      "current_heading": "Witnesses Weaken",
+      "moved": false
+    }
+  }
+]

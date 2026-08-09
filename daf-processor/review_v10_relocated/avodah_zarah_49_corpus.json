@@ -1,0 +1,380 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Intro: Tree Fertilizer",
+    "candidates": [
+      "Intro: Tree Fertilizer",
+      "Offset Benefit Theory",
+      "Contradiction in R. Yosef",
+      "Dual Braita Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage questions whether Rabbi Yosei holds zeh ve-zeh gorem is forbidden, then cites the orla nut/grafting case where Rabbi Yosei concedes it is permitted \u2014 this is precisely the contradiction in Rabbi Yosef's position that candidate 2 describes.",
+      "chosen_heading": "Contradiction in R. Yosef",
+      "current_heading": "Intro: Tree Fertilizer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Dual Braita Cases",
+    "candidates": [
+      "Offset Benefit Theory",
+      "Contradiction in R. Yosef",
+      "Dual Braita Cases",
+      "R. Yosef vs Chakhamim",
+      "R. Eliezer Alternative"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Contradiction in R. Yosef",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita confirming Rabbi Yosei's concession that planting/sinking/grafting orla yields permitted results, which directly supports the 'Contradiction in R. Yosef' section's discussion of Rabbi Yosei's position on zeh ve-zeh gorem in orlah cases.",
+      "second_heading": "R. Yosef vs Chakhamim",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the gemara's proposal that the field/cow baraita debate is between Rabbi Yosei and the Rabbanan, followed by the rejection ('lo') and reassignment to Rabbi Eliezer and the Rabbanan, which is precisely what the 'R. Yosef vs Chakhamim' prose describes.",
+      "current_heading": "Dual Braita Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "R. Eliezer Alternative",
+    "candidates": [
+      "R. Yosef vs Chakhamim",
+      "R. Eliezer Alternative",
+      "Sourdough Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks which Rabbi Eliezer/Rabbanan dispute is meant, directly continuing the prose of heading 1 ('R. Eliezer Alternative') which describes the gemara turning to identify precisely where that debate appears.",
+      "chosen_heading": "R. Eliezer Alternative",
+      "current_heading": "R. Eliezer Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Sourdough Mishnah",
+    "candidates": [
+      "Sourdough Mishnah",
+      "R. Eliezer: Last One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself (Orla 2:11) describing the sourdough scenario, which the prose under 'Sourdough Mishnah' explicitly introduces and analyzes as the textbook zeh ve-zeh gorem case.",
+      "chosen_heading": "Sourdough Mishnah",
+      "current_heading": "Sourdough Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "R. Eliezer: Last One",
+    "candidates": [
+      "R. Eliezer: Last One",
+      "Chakhamim: Joint Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Eliezer's view AND the Rabbis' view together, but the Chakhamim section's prose explicitly discusses both positions in full (including 'bein shenafal issur l'chatchilah bein shenafal issur l'vasof') and treats the Rabbis' ruling as the culminating point, making it the better match \u2014 the R. Eliezer section only discusses his position in isolation, while this mishnaic excerpt presents both opinions as a unit that the Chakhamim section is designed to explain.",
+      "chosen_heading": "Chakhamim: Joint Action",
+      "current_heading": "R. Eliezer: Last One",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Chakhamim: Joint Action",
+    "candidates": [
+      "R. Eliezer: Last One",
+      "Chakhamim: Joint Action",
+      "Abaye's Reading",
+      "Counter-Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement clarifying Rabbi Eliezer's position\u2014that the leniency applies only when the issur was first removed\u2014which is precisely what the prose under 'Abaye's Reading' describes.",
+      "chosen_heading": "Abaye's Reading",
+      "current_heading": "Chakhamim: Joint Action",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Counter-Interpretation",
+    "candidates": [
+      "Abaye's Reading",
+      "Counter-Interpretation",
+      "Limitation to Terumah",
+      "Oven Firing Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly challenges Abaye's reading of Rabbi Eliezer by proposing an alternative interpretation where Rabbi Eliezer follows 'the final element' regardless of removal, which matches exactly the 'Counter-Interpretation' section's prose about the gemara rejecting Abaye's reading as definitive.",
+      "chosen_heading": "Counter-Interpretation",
+      "current_heading": "Counter-Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Oven Firing Scenario",
+    "candidates": [
+      "Limitation to Terumah",
+      "Oven Firing Scenario",
+      "New vs. Old Oven",
+      "Bread Prohibition",
+      "Mixed Bread Rule",
+      "R. Eliezer's Leniency",
+      "Chakhamim Reject"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Limitation to Terumah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is a concluding resolution that wraps up the previous discussion (dismissing the terumah case and pivoting to Rabbi Eliezer and the Rabbis regarding wood), which matches the 'Limitation to Terumah' section's prose about setting aside the se'or case and turning to a more apposite source.",
+      "second_heading": "Oven Firing Scenario",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the actual Mishnah text about taking wood from an asherah and firing an oven, which is precisely what the 'Oven Firing Scenario' prose describes and analyzes in detail.",
+      "current_heading": "Oven Firing Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Chakhamim Reject",
+    "candidates": [
+      "New vs. Old Oven",
+      "Bread Prohibition",
+      "Mixed Bread Rule",
+      "R. Eliezer's Leniency",
+      "Chakhamim Reject",
+      "R. Yosef Critique",
+      "Rabbi Yosef Lenient",
+      "Halacha: R. Yosef",
+      "Fertilized Field"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mixed Bread Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers the mixed bread rule and Rabbi Eliezer's remedy plus the Rabbis' rejection, matching 'Mixed Bread Rule' prose about nitarvah ba'acherim and kullan asurot.",
+      "second_heading": "Chakhamim Reject",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are the Gemara's inquiry into who the dissenting Rabbis are (rejecting both the wood-Rabbis and the leaven-Rabbis as candidates), which matches the 'Chakhamim Reject' section's prose about the gemara turning to address the source of the lenient position.",
+      "current_heading": "Chakhamim Reject",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Fertilized Field",
+    "candidates": [
+      "R. Yosef Critique",
+      "Rabbi Yosef Lenient",
+      "Halacha: R. Yosef",
+      "Fertilized Field",
+      "Pick Mishnah",
+      "Garment Prohibition",
+      "Achar Ba'Achar",
+      "R. Eliezer Leniency",
+      "Why Both Cases",
+      "Bread vs. Wine"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rabbi Yosef Lenient",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 resolve the theoretical dispute by explaining Rabbi Yosei's rhetorical *ad hominem* argument and the Rabbis' reply via Rav Mari, matching heading 1's prose about this exact framework.",
+      "second_heading": "Halacha: R. Yosef",
+      "second_confidence": "high",
+      "second_reason": "Item 5 delivers the definitive halakhic ruling (*halacha k'Rabbi Yosei*) and the garden fertilized with idol-worship dung, matching heading 2's prose about the decisive ruling and its striking leniency.",
+      "current_heading": "Fertilized Field",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Bread vs. Wine",
+    "candidates": [
+      "Pick Mishnah",
+      "Garment Prohibition",
+      "Achar Ba'Achar",
+      "R. Eliezer Leniency",
+      "Why Both Cases",
+      "Bread vs. Wine",
+      "Halacha: R. Eliezer",
+      "Wine Barrel Case"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Wine Barrel Case",
+    "candidates": [
+      "Halacha: R. Eliezer",
+      "Wine Barrel Case",
+      "Rashi on Benefit",
+      "Discount Sale Method",
+      "Personal Use Bittul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case narrated in the 'Wine Barrel Case' prose \u2014 a man with intermingled yayin nesech coming before Rav \u1e24isda and being told to cast four zuz into the river.",
+      "chosen_heading": "Wine Barrel Case",
+      "current_heading": "Wine Barrel Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Personal Use Bittul",
+    "candidates": [
+      "Rashi on Benefit",
+      "Discount Sale Method",
+      "Personal Use Bittul",
+      "Shaving Debate",
+      "Baraita Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna passage directly describes the mechanics of bittul of an asherah tree \u2014 trimming, removing sticks/leaves, and the distinction between shaving for its own sake versus not \u2014 which is precisely what the 'Personal Use Bittul' prose section discusses.",
+      "chosen_heading": "Personal Use Bittul",
+      "current_heading": "Personal Use Bittul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Baraita Resolution",
+    "candidates": [
+      "Shaving Debate",
+      "Baraita Resolution",
+      "Jew Cannot Nullify",
+      "Rav: Each Splinter",
+      "Shmuel: Natural State"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the shaving debate \u2014 item 1 is the Rav Huna/Rabbi \u1e24iyya bar Rav dispute and item 2 is the baraita that resolves it in favor of the lenient view \u2014 which is exactly what candidate 0's prose describes as a unified unit, whereas candidates 1 and 2 describe the baraita's rulings in isolation without the framing dispute.",
+      "chosen_heading": "Shaving Debate",
+      "current_heading": "Baraita Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137,
+      138
+    ],
+    "current_heading": "Shmuel: Natural State",
+    "candidates": [
+      "Jew Cannot Nullify",
+      "Rav: Each Splinter",
+      "Shmuel: Natural State",
+      "Worship Potential",
+      "Splinters Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the complete dispute between Rav and Shmuel about a broken idol \u2014 Rav's position (item 1), the reinterpretation of Shmuel's position (item 2), and the gemara's suggestion about the underlying empirical question (item 3) \u2014 which matches heading 1 ('Rav: Each Splinter') whose prose explicitly introduces the broken-idol case and both Rav's and Shmuel's positions as a unified discussion, whereas the current heading 2 ('Shmuel: Natural State') covers only part of this material.",
+      "chosen_heading": "Rav: Each Splinter",
+      "current_heading": "Shmuel: Natural State",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146
+    ],
+    "current_heading": "Splinters Debate",
+    "candidates": [
+      "Worship Potential",
+      "Splinters Debate",
+      "Natural State Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the two alternative resolutions of the shivrei shevarim debate \u2014 fragments of fragments vs. reassemblable segmented idols \u2014 which are precisely what the 'Splinters Debate' prose describes and analyzes.",
+      "chosen_heading": "Splinters Debate",
+      "current_heading": "Splinters Debate",
+      "moved": false
+    }
+  }
+]

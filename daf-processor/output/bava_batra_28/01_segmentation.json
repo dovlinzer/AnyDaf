@@ -25,7 +25,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Mishna Kaf Chet: Categories of Property and Duration Requirements for Chazakah",
@@ -111,7 +111,7 @@
           "timestamp": "15:46"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -149,8 +149,8 @@
           "timestamp": "28:23"
         }
       ],
-      "sefaria_index": 6,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "The Role of Ta'anah: Distinguishing Chazakah from Mere Squatter's Rights and the Presumption of Karka vs. Metaltelim",
@@ -173,8 +173,8 @@
           "timestamp": "34:13"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "The Gemara's First Challenge: If Chazakah Changes Status Formistically, Why Require a Ta'anah? (continued)",
@@ -187,7 +187,7 @@
           "timestamp": "35:33"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -425,5 +425,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "21:39",
+  "amud_b_micro_title": "Status Change Parallel",
+  "shiur_start_daf": 28,
+  "shiur_start_amud": "a"
 }

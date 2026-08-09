@@ -1,7 +1,7 @@
-# Nazir 42b — Daf Yomi Shiur
 [DAF:42a]
-
 ## Intro & Opening
+
+
 
 ### Opening remarks
 
@@ -9,8 +9,7 @@ Today's daf deals centrally with the transition to the third prohibition of the 
 
 ### Mishnah cases
 
-> **Hebrew/Aramaic:** מַתְנִי׳ נָזִיר שֶׁהָיָה שׁוֹתֶה יַיִן כׇּל הַיּוֹם — אֵינוֹ חַיָּיב אֶלָּא אַחַת. אָמְרוּ לוֹ: ״אַל תִּשְׁתֶּה״ ״אַל תִּשְׁתֶּה״, וְהוּא שׁוֹתֶה — חַיָּיב עַל כׇּל אַחַת וְאַחַת. הָיָה מְגַלֵּחַ כׇּל הַיּוֹם — אֵינוֹ חַיָּיב אֶלָּא אַחַת. אָמְרוּ לוֹ: ״אַל תְּגַלֵּחַ״ ״אַל תְּגַלֵּחַ״, וְהוּא מְגַלֵּחַ — חַיָּיב עַל כׇּל אַחַת וְאַחַת. הָיָה מִטַּמֵּא לְמֵתִים כׇּל הַיּוֹם — אֵינוֹ חַיָּיב אֶלָּא אַחַת. אָמְרוּ לוֹ: ״אַל תִּטַּמֵּא״ ״אַל תִּטַּמֵּא״, וְהוּא מִטַּמֵּא — חַיָּיב עַל כׇּל אַחַת וְאַחַת.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ נָזִיר שֶׁהָיָה שׁוֹתֶה יַיִן כׇּל הַיּוֹם — אֵינוֹ חַיָּיב אֶלָּא אַחַת. אָמְרוּ לוֹ: ״אַל תִּשְׁתֶּה״ ״אַל תִּשְׁתֶּה״, וְהוּא שׁוֹתֶה — חַיָּיב עַל כׇּל אַחַת וְאַחַת. הָיָה מְגַלֵּחַ כׇּל הַיּוֹם — אֵינוֹ חַיָּיב אֶלָּא אַחַת. אָמְרוּ לוֹ: ״אַל תְּגַלֵּחַ״ ״אַל תְּגַלֵּחַ״, וְהוּא מְגַלֵּחַ — חַיָּיב עַל כׇּל אַחַת וְאַחַת. הָיָה מִטַּמֵּא לְמֵתִים כׇּל הַיּוֹם — אֵינוֹ חַיָּיב אֶלָּא אַחַת. אָמְרוּ לוֹ: ״אַל תִּטַּמֵּא״ ״אַל תִּטַּמֵּא״, וְהוּא מִטַּמֵּא — חַיָּיב עַל כׇּל אַחַת וְאַחַת.
 > **Translation:** MISHNA: **A nazirite who was drinking wine all day is liable** to receive **only one** set of lashes. If people **said to him** during the course of the day: **Do not drink, do not drink, and** nevertheless **he** continues to **drink, he is liable for each and every** time he was warned. If a nazirite **kept shaving all day, he is liable** to receive **only one** set of lashes. If **they said to him: Do not shave, do not shave, and he shaves, he is liable for each and every** time he was warned. If he **became ritually impure from a corpse** many times **all day, he is liable** to receive **only one** set of lashes. If **they said to him: Do not become impure, do not become impure, and he** continues to **become impure, he is liable for each and every** time he was warned.
 
 The *Mishnah* presents three parallel cases. First: if a *nazir* was drinking wine the whole day, he receives only one set of lashes. This formulation is striking. Some *rishonim*—it may be the Rosh—hold that he is *chayav l'shamayim* for each separate act of drinking, each one constituting a distinct violation, yet receives only one set of lashes in practice if there was only a single *hatra'ah*. The question of whether to view this as multiple discrete acts or as one extended process is left open by the Mishnah itself.
@@ -31,17 +30,19 @@ The *Gemara*, however, largely sets aside the *Mishnah*'s primary teaching about
 
 ## Tumah v'Tumah debate
 
+
+
 ### Conceptual framework
 
 Before turning to the *Gemara*'s debate, it is worth noting the conceptual asymmetry among the three prohibitions. Drinking wine and getting a haircut can be understood as processes that unfold over time; there is at least a conceptual basis for viewing multiple acts of drinking or cutting as a single extended process. *Tumah*, by contrast, is not a process in the same sense. Each act of coming into contact with a *meit* is, almost by definition, discrete. On that basis, one might expect multiple acts of *tumah* to be treated as clearly separate violations.
 
 Yet the *Gemara* identifies a countervailing consideration: the prohibition of *tumah* may be oriented not toward the act of touching but toward the state of being *tamei*. The Torah states *lo yitama*—do not become *tamei*—which might be read as targeting the resulting condition rather than the physical contact. If so, once a *nazir* or *kohen* is already *tamei*, one can ask whether touching another corpse constitutes a new violation at all, since no new state of *tumah* is being acquired. This is the question the *Gemara* presses.
 
+[DAF:42b]
 ### Rava's position
 
-> **Hebrew/Aramaic:** גְּמָ׳ אִיתְּמַר, אָמַר רַבָּה אָמַר רַב הוּנָא: מִקְרָא מָלֵא דִּבֵּר הַכָּתוּב: ״לֹא יִטַּמָּא״. כְּשֶׁהוּא אוֹמֵר ״לֹא יָבֹא״ — לְהַזְהִירוֹ עַל הַטּוּמְאָה, לְהַזְהִירוֹ עַל הַבִּיאָה. אֲבָל טוּמְאָה וְטוּמְאָה — לֹא.
->
-> **Translation:** GEMARA: A dispute among *amora'im* **was stated. Rabba said** that **Rav Huna said: The Torah stated** a *halakha* involving a nazirite in **a categorical verse: "He shall not become impure** for his father, or for his mother, for his brother, or for his sister, when they die" (Numbers 6:7). This includes all manners of contracting impurity imparted by a corpse, whether ritual impurity imparted by contact, by carrying, or in a tent, i.e., a corpse under the same roof. **When** the Torah **states: "He shall not come** near to a dead body" (Numbers 6:6), it serves **to warn him with regard to** contracting **impurity** from a corpse in any manner, as above, and **to warn him with regard to entering** an enclosure with a corpse, which is a unique prohibition applicable to a nazirite that is added by the phrase "He shall not come near to a dead body," and he is liable separately for each. **However,** with regard to one contracting **impurity** from a corpse **and** again contracting **impurity** from a corpse, the verse does **not** warn him, and he is liable to receive only one set of lashes.
+> **Hebrew/Aramaic:** גְּמָ׳ אִיתְּמַר, אָמַר רַבָּה אָמַר רַב הוּנָא: מִקְרָא מָלֵא דִּבֵּר הַכָּתוּב: ״לֹא יִטַּמָּא״. כְּשֶׁהוּא אוֹמֵר ״לֹא יָבֹא״ — לְהַזְהִירוֹ עַל הַטּוּמְאָה, לְהַזְהִירוֹ עַל הַבִּיאָה. אֲבָל טוּמְאָה וְטוּמְאָה — לֹא.
+> **Translation:** GEMARA: A dispute among *amora’im* **was stated. Rabba said** that **Rav Huna said: The Torah stated** a *halakha* involving a nazirite in **a categorical verse: “He shall not become impure** for his father, or for his mother, for his brother, or for his sister, when they die” (Numbers 6:7). This includes all manners of contracting impurity imparted by a corpse, whether ritual impurity imparted by contact, by carrying, or in a tent, i.e., a corpse under the same roof. **When** the Torah **states: “He shall not come** near to a dead body” (Numbers 6:6), it serves **to warn him with regard to** contracting **impurity** from a corpse in any manner, as above, and **to warn him with regard to entering** an enclosure with a corpse, which is a unique prohibition applicable to a nazirite that is added by the phrase “He shall not come near to a dead body,” and he is liable separately for each. **However,** with regard to one contracting **impurity** from a corpse **and** again contracting **impurity** from a corpse, the verse does **not** warn him, and he is liable to receive only one set of lashes.
 
 The *Gemara* opens the dispute with a statement attributed to Rabbah in the name of Rav Huna. The Torah's fullness of expression—*mikra malei diber kasuv*—accounts for two distinct prohibitions. The verse *al kol nefesh meis lo yavo* addresses the act of entering under the same roof as a corpse (*bi'ah*), while *lo yitama* addresses the state of becoming *tamei*. These are conceptually separate *lavin*, and consequently, a *nazir* who enters a house containing a corpse violates both simultaneously and, with appropriate warnings, receives two sets of lashes.
 
@@ -49,12 +50,16 @@ Rava, however, draws a firm line: *aval tumah v'tumah lo*. If a *nazir* or *kohe
 
 One might push back: is not touching a second corpse analogous to taking an additional sip of wine, where additional prohibited substance enters the body? The distinction is precisely that additional wine constitutes an additional quantity of the prohibited substance, whereas additional contact with a corpse does not change the person's *status* of *tumah*—which is what the prohibition targets. Indeed, touching a corpse on a later day does have a practical consequence, namely resetting the count toward the sprinkling of *parah adumah* ashes, but touching again on the same day when already *tamei* may have no such effect on the person's status at all.
 
-[DAF:42b]
 ### Rav Yosef's position
 
-> **Hebrew/Aramaic:** וְרַב יוֹסֵף אָמַר: הָאֱלֹהִים! אָמַר רַב הוּנָא: אֲפִילּוּ טוּמְאָה וְטוּמְאָה. דְּאָמַר רַב הוּנָא: נָזִיר שֶׁהָיָה עוֹמֵד בְּבֵית הַקְּבָרוֹת, וְהוֹשִׁיטוּ לוֹ מֵתוֹ וּמֵת אַחֵר וְנָגַע בּוֹ — חַיָּיב. אַמַּאי? הָא מִיטַּמֵּא וְקָאֵים! אֶלָּא לָאו שְׁמַע מִינַּהּ, אָמַר רַב הוּנָא: אֲפִילּוּ טוּמְאָה וְטוּמְאָה.
->
-> **Translation:** **And Rav Yosef says** in the form of an oath: **By God! Rav Huna** actually **says** that he is separately liable **even** for contracting **impurity** from a corpse **and** again contracting **impurity** from a corpse, not only if he entered an enclosure with a corpse. **As Rav Huna says:** With regard to **a nazirite who was standing in a cemetery,** who is already ritually impure, **and they extended his corpse,** i.e., the corpse of his relative, **to him, and** similarly if they extended **a different corpse** to him **and he touched it,** he is **liable.** But **why** is he liable; he **has already become impure and is standing** in his state of impurity? **Rather, isn't it** correct to **conclude from** this that **Rav Huna said** he is separately liable **even** for contracting **impurity** from a corpse **and** again contracting **impurity** from a corpse?
+> **Hebrew/Aramaic:** וְרַב יוֹסֵף אָמַר: הָאֱלֹהִים! אָמַר רַב הוּנָא: אֲפִילּוּ טוּמְאָה וְטוּמְאָה. דְּאָמַר רַב הוּנָא: נָזִיר שֶׁהָיָה עוֹמֵד בְּבֵית הַקְּבָרוֹת, וְהוֹשִׁיטוּ לוֹ מֵתוֹ וּמֵת אַחֵר וְנָגַע בּוֹ — חַיָּיב. אַמַּאי? הָא מִיטַּמֵּא וְקָאֵים! אֶלָּא לָאו שְׁמַע מִינַּהּ, אָמַר רַב הוּנָא: אֲפִילּוּ טוּמְאָה וְטוּמְאָה.
+> **Translation:** **And Rav Yosef says** in the form of an oath: **By God! Rav Huna** actually **says** that he is separately liable **even** for contracting **impurity** from a corpse **and** again contracting **impurity** from a corpse, not only if he entered an enclosure with a corpse. **As Rav Huna says:** With regard to **a nazirite who was standing in a cemetery,** who is already ritually impure, **and they extended his corpse,** i.e., the corpse of his relative, **to him, and** similarly if they extended **a different corpse** to him **and he touched it,** he is **liable.** But **why** is he liable; he **has already become impure and is standing** in his state of impurity? **Rather, isn’t it** correct to **conclude from** this that **Rav Huna said** he is separately liable **even** for contracting **impurity** from a corpse **and** again contracting **impurity** from a corpse?
+
+> **Hebrew/Aramaic:** אֵיתִיבֵיהּ אַבָּיֵי: כֹּהֵן שֶׁהָיָה לוֹ מֵת מוּנָּח עַל כְּתֵיפוֹ, וְהוֹשִׁיטוּ לוֹ מֵתוֹ וּמֵת אַחֵר וְנָגַע בּוֹ, יָכוֹל יְהֵא חַיָּיב — תַּלְמוּד לוֹמַר: ״וְלֹא יְחַלֵּל״, בְּמִי שֶׁאֵינוֹ מְחוּלָּל, יָצָא זֶה שֶׁהוּא מְחוּלָּל וְעוֹמֵד.
+> **Translation:** **Abaye raised an objection to** Rav Yosef from a *baraita*: With regard to **a priest who had a corpse placed on his shoulder, and they extended his corpse,** i.e., the corpse of his relative, **to him, and** similarly if they extended **a different corpse** to him **and he touched it,** one **might** have thought that **he should be liable** even for this contact. Therefore, **the verse states,** with regard to the prohibition against a High Priest becoming impure: **“And he shall not profane** the Sanctuary of his God” (Leviticus 21:12). This teaches that the prohibition of impurity applies **to one who is not** yet **profaned, excluding this one who is** already **profaned and standing** in that state of ritual impurity.
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: וְתִיקְשֵׁי לָךְ מַתְנִיתִין, דִּתְנַן: הָיָה מִיטַּמֵּא לְמֵתִים כׇּל הַיּוֹם — אֵינוֹ חַיָּיב אֶלָּא אַחַת. אָמְרוּ לוֹ ״אַל תִּטַּמֵּא״ ״אַל תִּטַּמֵּא״ — חַיָּיב עַל כׇּל אַחַת וְאַחַת. וְאַמַּאי? הָא מִיטַּמֵּא וְקָאֵים!
+> **Translation:** Rav Yosef **said to him: But** if, as you claim, one is not liable for contracting one impurity after another, **the mishna should pose a difficulty for you. As we learned** in the mishna: If a nazirite **became ritually impure from corpses** many times **all day, he is liable** to receive **only one** set of lashes. **If they said to him: Do not become impure, do not become impure,** and he continues to become impure, **he is liable for each and every** time he was warned. **But why** should this be so? **He has already become impure and is standing** in his state of impurity.
 
 Rav Yosef responds sharply: *hai elokim*, by God's name! He insists, citing Rav Huna, that even *tumah v'tumah* generates a separate set of lashes—*afilu tumah v'tumah*. The principle he articulates is illustrated by the case of a *nazir* standing in a cemetery who has been handed his deceased relative and then has contact with another corpse. Even while still actively *tamei* and still in proximity to the first body, he is *chayav* for the second contact.
 
@@ -64,19 +69,11 @@ This position is more intuitive when one focuses on the act rather than the stat
 
 ### Braita: kohen case
 
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ אַבָּיֵי: כֹּהֵן שֶׁהָיָה לוֹ מֵת מוּנָּח עַל כְּתֵיפוֹ, וְהוֹשִׁיטוּ לוֹ מֵתוֹ וּמֵת אַחֵר וְנָגַע בּוֹ, יָכוֹל יְהֵא חַיָּיב — תַּלְמוּד לוֹמַר: ״וְלֹא יְחַלֵּל״, בְּמִי שֶׁאֵינוֹ מְחוּלָּל, יָצָא זֶה שֶׁהוּא מְחוּלָּל וְעוֹמֵד.
->
-> **Translation:** **Abaye raised an objection to** Rav Yosef from a *baraita*: With regard to **a priest who had a corpse placed on his shoulder, and they extended his corpse,** i.e., the corpse of his relative, **to him, and** similarly if they extended **a different corpse** to him **and he touched it,** one **might** have thought that **he should be liable** even for this contact. Therefore, **the verse states,** with regard to the prohibition against a High Priest becoming impure: **"And he shall not profane** the Sanctuary of his God" (Leviticus 21:12). This teaches that the prohibition of impurity applies **to one who is not** yet **profaned, excluding this one who is** already **profaned and standing** in that state of ritual impurity.
-
 Abaye challenges Rav Yosef from a *braita*. The case: a *kohen* had a corpse resting on his shoulder—already *tamei*—and then touched or was handed another corpse. The *braita* derives from the phrase *v'lo yichalel* that this prohibition applies only *b'mi she'eino mechulal*, to one whose sacred status has not yet been violated. It explicitly excludes *zeh she'mechulal v'omed*—one whose status is already violated. This appears to be a direct proof that *tumah v'tumah* does not generate additional liability, at least in the case of a *kohen*.
 
-The *Gemara* acknowledges the potential to distinguish between a *kohen* and a *nazir*—the *braita* uses the language of *chillul*, desecration of sacred status, which is specific to the *kohen*—but the *Gemara*'s framing proceeds on the assumption that the principles are shared, and does not develop this distinction.
+The *Gemara* acknowledges the potential to distinguish between a *kohen* and a *nazir*—the *braita* uses the language of *chillul*, desecration of sacred status, which is specific to the *kohen*—but the *Gemara*'s framing proceeds on the assumption that the principles are shared, and does not develop this distinction. It is worth noting why Rav Yosef's position is the one that requires defense: Rava's view, that one who is already *tamei* cannot incur additional lashes because nothing has changed in his status, has a certain intuitive pull. The focus of *tumah* is on the person's state, and if that state is already compromised, a second act of contact seems to add nothing. Rav Yosef's counter-position—that each discrete act of touching, paired with its own *hatra'ah*, generates independent liability regardless of prior status—is the more surprising claim, and so it is Rav Yosef who faces the burden of the proofs.
 
 ### Rav Yosef defends
-
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: וְתִיקְשֵׁי לָךְ מַתְנִיתִין, דִּתְנַן: הָיָה מִיטַּמֵּא לְמֵתִים כׇּל הַיּוֹם — אֵינוֹ חַיָּיב אֶלָּא אַחַת. אָמְרוּ לוֹ ״אַל תִּטַּמֵּא״ ״אַל תִּטַּמֵּא״ — חַיָּיב עַל כׇּל אַחַת וְאַחַת. וְאַמַּאי? הָא מִיטַּמֵּא וְקָאֵים!
->
-> **Translation:** Rav Yosef **said to him: But** if, as you claim, one is not liable for contracting one impurity after another, **the mishna should pose a difficulty for you. As we learned** in the mishna: If a nazirite **became ritually impure from corpses** many times **all day, he is liable** to receive **only one** set of lashes. **If they said to him: Do not become impure, do not become impure,** and he continues to become impure, **he is liable for each and every** time he was warned. **But why** should this be so? **He has already become impure and is standing** in his state of impurity.
 
 Rav Yosef's response is striking in its directness: *v'tivshu lach masnitin*—you have a *braita* supporting you, but I have a *Mishnah* supporting me. The *Mishnah* explicitly holds a *nazir* liable for becoming *tamei* multiple times on the same day with separate warnings. The *Gemara* notes the rhetorical force of this: *v'amai hamitamei v'kai*—why should he be liable if he is already *tamei*? Yet the *Mishnah* says he is. This constitutes, in Rav Yosef's reading, a decisive counter to the *braita*.
 
@@ -84,10 +81,11 @@ The *Gemara* then notes the apparent contradiction between the two sources: *ell
 
 ## Chiburim resolution
 
+
+
 ### Chiburim distinction
 
-> **Hebrew/Aramaic:** אֶלָּא קַשְׁיָא אַהֲדָדֵי! לָא קַשְׁיָא: כָּאן — בְּחִיבּוּרִין. כָּאן — שֶׁלֹּא בְּחִיבּוּרִין.
->
+> **Hebrew/Aramaic:** אֶלָּא קַשְׁיָא אַהֲדָדֵי! לָא קַשְׁיָא: כָּאן — בְּחִיבּוּרִין. כָּאן — שֶׁלֹּא בְּחִיבּוּרִין.
 > **Translation:** **Rather,** the mishna and *baraita* pose **a difficulty for each other.** The Gemara answers: This is **not difficult,** as **here** the *baraita* is referring **to a concurrent** contact with impurity, i.e., when he touched the second corpse he was still in contact with the first, so he is not liable for the second impurity. Conversely, **there** the mishna is referring **to** impurity that was **not a concurrent** contact. He touched the second corpse only after he had separated himself from the first, and therefore he is liable for each impurity.
 
 The *Gemara* resolves the contradiction: *lo kashya kan b'chiburin kan shelo b'chiburin*—there is no difficulty; one source speaks of the case where the person is still in active physical contact (*b'chiburin*), and the other where he has separated (*shelo b'chiburin*).
@@ -106,23 +104,27 @@ Thus, while a *nazir* or *kohen* is actively touching a corpse, his *tumah* is a
 
 ### Derabbanan limits
 
-> **Hebrew/Aramaic:** וְטוּמְאָה בְּחִיבּוּרִין דְּאוֹרָיְיתָא? הָא אָמַר רַב יִצְחָק בַּר יוֹסֵף אָמַר רַבִּי יַנַּאי: לֹא אָמְרוּ טוּמְאָה בְּחִיבּוּרִין אֶלָּא לִתְרוּמָה וְקָדָשִׁים, אֲבָל לְנָזִיר וְעוֹשֵׂה פֶסַח — לָא. וְאִי אָמְרַתְּ דְּאוֹרָיְיתָא, מַאי שְׁנָא?
->
-> **Translation:** The Gemara asks: **And** this *halakha*, that a nazirite is exempt from being flogged for a second contact with a corpse in a case of **concurrent impurity,** does it apply **by Torah law? Didn't Rav Yitzḥak bar Yosef say** that **Rabbi Yannai said: They stated** the principle of **concurrent impurity only with regard to** partaking of ***teruma* and consecrated** foods, i.e., that one who touches a person who is in contact with a corpse is ritually impure with impurity imparted by a corpse for seven days. **However, with regard to a nazirite,** i.e., the question of whether a nazirite is considered ritually impure and has to bring offerings due to this contact, **and** with regard to **one who performs** the ritual of **the Paschal offering,** this *halakha* does **not** apply. **And if you say** that this *halakha* applies **by Torah law, what is different** between the case of *teruma* and the case of a nazirite?
-
 This raises a pointed question: is *tumah b'chiburin*—the principle that transmitted *tumah* is elevated during active daisy-chain contact—a *d'oraita* rule, or is it rabbinic? The *Gemara* cites Rav Yitzchak bar Yosef in the name of Rav Yanai: *lo amru tumah b'chiburin ela l'trumah ul'kodashim aval l'nazir v'oseh pesach lo*. The elevated status in the daisy-chain scenario applies, as a matter of stringency, to *terumah* and *kodashim*, but not to a *nazir* or one who needs to bring a *korban pesach*.
 
 The case: Shimon touched Reuven while Reuven was touching the *meit* on Sunday. Were this a seven-day *tumah d'oraita*, Shimon would be prohibited from eating his *korban pesach* on the night following the third day. But the *Gemara* indicates that if Shimon comes and says he needs to eat his *korban pesach*, or that his *nezirut* is at stake, we tell him: in your situation, you are only a one-day *tamei*—immerse in the *mikveh* and proceed. The willingness to set aside the seven-day status in these high-stakes situations is evidence that the elevated status derived from *chiburin* is only *derabbanan*. Were it *d'oraita*, we could not simply waive it for *pesach* or *nezirut*.
 
+> **Hebrew/Aramaic:** וְטוּמְאָה בְּחִיבּוּרִין דְּאוֹרָיְיתָא? הָא אָמַר רַב יִצְחָק בַּר יוֹסֵף אָמַר רַבִּי יַנַּאי: לֹא אָמְרוּ טוּמְאָה בְּחִיבּוּרִין אֶלָּא לִתְרוּמָה וְקָדָשִׁים, אֲבָל לְנָזִיר וְעוֹשֵׂה פֶסַח — לָא. וְאִי אָמְרַתְּ דְּאוֹרָיְיתָא, מַאי שְׁנָא?
+> **Translation:** The Gemara asks: **And** this *halakha*, that a nazirite is exempt from being flogged for a second contact with a corpse in a case of **concurrent impurity,** does it apply **by Torah law? Didn’t Rav Yitzḥak bar Yosef say** that **Rabbi Yannai said: They stated** the principle of **concurrent impurity only with regard to** partaking of ***teruma* and consecrated** foods, i.e., that one who touches a person who is in contact with a corpse is ritually impure with impurity imparted by a corpse for seven days. **However, with regard to a nazirite,** i.e., the question of whether a nazirite is considered ritually impure and has to bring offerings due to this contact, **and** with regard to **one who performs** the ritual of **the Paschal offering,** this *halakha* does **not** apply. **And if you say** that this *halakha* applies **by Torah law, what is different** between the case of *teruma* and the case of a nazirite?
+
+> **Hebrew/Aramaic:** כָּאן, בְּחִיבּוּרֵי אָדָם בְּאָדָם. כָּאן, בְּחִיבּוּרֵי אָדָם בְּמֵת.
+> **Translation:** The Gemara explains that there are two different types of concurrent impurity. **Here,** where there is a difference between *teruma* and a nazirite, it is referring to **concurrent** contact of one **person with** another **person.** If one touched another while the other was in contact with a corpse, the impurity of the first is by rabbinic law. By contrast, **there** it is referring **to concurrent** contact of **a person with a corpse.** One who is touching a corpse is considered linked to impurity by Torah law with regard to his second contact with a corpse.
+
+> **Hebrew/Aramaic:** אֲבָל טוּמְאָה וְטוּמְאָה לָא, דְּהָא מִיטַּמֵּא וְקָאֵים.
+> **Translation:** The Gemara summarizes: The fact that one who is touching a corpse is not liable for contact with a second corpse leads to Rabba’s aforementioned ruling: **However,** with regard to contracting **impurity** from a corpse **and** again contracting **impurity** from a corpse, i.e., if a person contracted impurity imparted by a corpse and then touched another corpse while still in contact with the first corpse, he is **not** liable for the second impurity, **as he has already become impure and is standing** in his state of ritual impurity.
+
 ### Gemara resolution
 
-> **Hebrew/Aramaic:** כָּאן, בְּחִיבּוּרֵי אָדָם בְּאָדָם. כָּאן, בְּחִיבּוּרֵי אָדָם בְּמֵת.
->
-> **Translation:** The Gemara explains that there are two different types of concurrent impurity. **Here,** where there is a difference between *teruma* and a nazirite, it is referring to **concurrent** contact of one **person with** another **person.** If one touched another while the other was in contact with a corpse, the impurity of the first is by rabbinic law. By contrast, **there** it is referring **to concurrent** contact of **a person with a corpse.** One who is touching a corpse is considered linked to impurity by Torah law with regard to his second contact with a corpse.
 
 The *Gemara* refines this analysis with a critical distinction: *kan b'chiburei adam b'adam, kan b'chiburei adam b'meis*—one case involves the chain between a person and the *meit* directly (*adam b'meis*), and the other involves a person connected to another person who is connected to the *meit* (*adam b'adam*).
 
-According to *Tosafot*'s reading, the *Gemara*'s conclusion is: the elevated *tumah* of person B who directly touches person A while A is touching the *meit*—this is *d'oraita*, and applies even for *pesach* and *nazir*. It is the third link—person C touching person B while B touches A while A touches the *meit*—that is *derabbanan*, and it is this third-link status that we are willing to set aside when *pesach* or *nezirut* are at stake. Thus leniency for *nazir v'oseh pesach* applies only from the third link outward. The second link, *chiburei adam b'meis*, remains a full *d'oraita* seven-day *tumah* under all circumstances.
+According to *Tosafot*'s reading, the *Gemara*'s conclusion is: the elevated *tumah* of person B who directly touches person A while A is touching the *meit*—this is *d'oraita*, and applies even for *pesach* and *nazir*. It is the third link—person C touching person B while B touches A while A touches the *meit*—that is *derabbanan*, and it is this third-link status that we are willing to set aside when *pesach* or *nezirut* are at stake. Thus leniency for *nazir v'oseh pesach* applies only from the third link outward. The second link, *chiburei adam b'meis*, remains a full *d'oraita* seven-day *tumah* under all circumstances. It is worth pausing to note the practical weight of this conclusion: for Levi, who is simultaneously a *kohen*, a *nazir*, and finds himself in this position on *erev pesach*, there is no relief at all—his seven-day *tumah* stands, and every obligation converges on him at once.
+
+It is also worth flagging a subtlety in the proof the *Gemara* had been using. The citation of *lo amru tumah b'chiburin* from an earlier discussion comes from an entirely different *sugia*, one embedded in a broader set of *sugias* concerning *tumah b'chiburin* and the principle of *yikrav v'lo yikrav*. Invoking it here, in isolation, risks applying a rule out of the context of the larger body of *Torah* that governs how that principle operates. The *Gemara*'s own resolution implicitly acknowledges this: the leniency of that phrase belongs specifically to the third link, not to the second, and reading it otherwise would flatten a distinction the underlying *sugias* are careful to maintain.
 
 The *Rambam* reads the *Gemara*'s conclusion differently—he understands the *maskana* to be that even the second-link *chiburin* is *derabbanan*, such that even Shimon's elevated status would be waived for *pesach* and *nezirut*. This yields a broader leniency but is difficult to reconcile with the plain reading of the *Gemara* that the *Rambam* himself cites.
 
@@ -130,27 +132,34 @@ In any case, the structural resolution of the original contradiction stands: whi
 
 ## Bia v'tumah
 
-### State vs. act
 
-> **Hebrew/Aramaic:** אֲבָל טוּמְאָה וְטוּמְאָה לָא, דְּהָא מִיטַּמֵּא וְקָאֵים.
->
-> **Translation:** The Gemara summarizes: The fact that one who is touching a corpse is not liable for contact with a second corpse leads to Rabba's aforementioned ruling: **However,** with regard to contracting **impurity** from a corpse **and** again contracting **impurity** from a corpse, i.e., if a person contracted impurity imparted by a corpse and then touched another corpse while still in contact with the first corpse, he is **not** liable for the second impurity, **as he has already become impure and is standing** in his state of ritual impurity.
+
+### State vs. act
 
 With the *tumah v'tumah* question resolved, the *Gemara* turns to the interaction between the prohibition of *tumah* and the separate prohibition of *bi'ah*—entering a space under the same roof as a corpse. As Rav Huna established, these are two conceptually distinct *lavin*: *lo yitama* targets the state of becoming *tamei*, while *lo yavo* targets the act of entering. A *nazir* who walks into a house containing a corpse violates both simultaneously.
 
 ### Gemara question
 
-> **Hebrew/Aramaic:** טוּמְאָה וּבִיאָה נָמֵי, הָא מִיטַּמֵּא וְקָאֵי! אָמַר רַבִּי יוֹחָנָן: כָּאן בְּבַיִת,
->
-> **Translation:** The Gemara asks: If so, with regard to **impurity and entering** one should say **likewise,** that when he enters an enclosure containing a corpse when he is in contact with a corpse, **he has already become impure and is standing** in his impurity. Why should he be flogged again for entering the enclosure? **Rabbi Yoḥanan said:** In the case of impurity and entering one must again distinguish between two instances: **Here,** where Rav Huna said that one will be liable for both contractions of impurity, it is referring to one who was pure and who went **into a house** that contained a corpse, rendering him liable twice. The entering the house and the ritual impurity imparted by a corpse in a tent, i.e., to that which is under the same roof, occurred simultaneously, and therefore he is liable twice, once for contracting ritual impurity and once for violating the particular prohibition against a nazirite entering an enclosure with a corpse in it.
-
 The *Gemara* now asks a sharp question: *tumah u'vi'ah nami hamitamei v'ka'ei*—is this not the same problem we just resolved with *tumah v'tumah*? If we say that a person who is actively *tamei* and then touches another body does not incur a second violation because he is already at full *tumah* status, why should he incur a second violation for *bi'ah* when he is walking in while already in contact with a body? He is already *tamei* to the fullest degree; entering under the roof changes nothing.
+
+The concrete scenario *Tosafot* identifies as the *Gemara*'s target is this: a *nazir* is carrying a corpse on his shoulder and then walks into a house. This is precisely analogous to the *tumah v'tumah* case of touching one body and then touching another — in both situations, the person arrives at the second prohibited act already at maximum *tumah* status. The *Gemara*'s question is therefore what the conceptual difference could possibly be. One might want to say that *lo yitama* is focused on status change, so touching a second body adds nothing since the status hasn't changed, while *lo yavo*, whose verb is *lo yavo* — do not *enter* — is an act-based prohibition and therefore operates independently. But that is precisely what the *Gemara* is pressing: if the person is already *tamei* while touching, and we exempt him from lashes when he touches again, why does the act of entering generate liability when his *tumah* state is equally unchanged? That question is what *Rabbi Yochanan*'s reply — *kan babayis, kan basadeh* — is designed to answer, and *Tosafot*'s reading of that answer is taken up in the next section.
 
 ### Tosafot reading
 
-> **Hebrew/Aramaic:** כָּאן בְּשָׂדֶה.
->
+> **Hebrew/Aramaic:** טוּמְאָה וּבִיאָה נָמֵי, הָא מִיטַּמֵּא וְקָאֵי! אָמַר רַבִּי יוֹחָנָן: כָּאן בְּבַיִת,
+> **Translation:** The Gemara asks: If so, with regard to **impurity and entering** one should say **likewise,** that when he enters an enclosure containing a corpse when he is in contact with a corpse, **he has already become impure and is standing** in his impurity. Why should he be flogged again for entering the enclosure? **Rabbi Yoḥanan said:** In the case of impurity and entering one must again distinguish between two instances: **Here,** where Rav Huna said that one will be liable for both contractions of impurity, it is referring to one who was pure and who went **into a house** that contained a corpse, rendering him liable twice. The entering the house and the ritual impurity imparted by a corpse in a tent, i.e., to that which is under the same roof, occurred simultaneously, and therefore he is liable twice, once for contracting ritual impurity and once for violating the particular prohibition against a nazirite entering an enclosure with a corpse in it.
+
+> **Hebrew/Aramaic:** כָּאן בְּשָׂדֶה.
 > **Translation:** Whereas **there,** where he is liable only once, it is referring to one who was **in a field.** In other words, if a nazirite touched a corpse in a field and subsequently entered an enclosure with a corpse in it while he was still in contact with the first corpse, he is not liable separately for that entering, as he was already ritually impure.
+
+> **Hebrew/Aramaic:** בְּבַיִת נָמֵי, כֵּיוָן דְּאַעֵיל יְדֵיהּ — אִיסְתָּאַב, כִּי עָיֵיל כּוּלֵּי, הַאי טָמֵא הוּא!
+> **Translation:** The Gemara asks: With regard to one who enters **into a house too,** why should he be liable twice? Since one typically enters a place with his hands before his body, **once he inserts his hand he** immediately **becomes ritually impure.** This means that **when all** the rest **of him enters, this** person **is** already **impure.**
+
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רַבִּי אֶלְעָזָר: צֵירַף יָדוֹ, מִשּׁוּם טוּמְאָה — אִיכָּא, מִשּׁוּם בִּיאָה — לֵיכָּא. וְצֵירַף גּוּפוֹ — טוּמְאָה וּבִיאָה בַּהֲדֵי הֲדָדֵי קָאָתוּ. הָא אִי אֶפְשָׁר דְּלָא עָיֵיל חוֹטְמוֹ בְּרֵישָׁא, וְנָחֵית לֵיהּ טוּמְאָה!
+> **Translation:** **Rather, Rabbi Elazar said:** If **he inserted his hand** into the house first, **there is** liability **due to** contracting **ritual impurity;** however, **there is no** liability **due to entering** the enclosure. **But** if **he joined his body** and his hands, i.e., all of him entered at once, contraction of **impurity and entering** the enclosure **occur simultaneously,** and in that case he is liable twice. The Gemara objects: **It is impossible** that **his nose would not enter first, and** once it does, **impurity would descend to it** and thereby to this person immediately, before the rest of his body entered the house.
+
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רָבָא: הִכְנִיס יָדוֹ, מִשּׁוּם טוּמְאָה — אִיכָּא, מִשּׁוּם בִּיאָה — לֵיכָּא. הִכְנִיס גּוּפוֹ — טוּמְאָה וּבִיאָה בַּהֲדֵי הֲדָדֵי קָא אָתְיָין. וְהָא אִי אֶפְשָׁר דְּלָא עָיֵיל אֶצְבְּעָתָא דְכַרְעֵיהּ בְּרֵישָׁא וְנָחֵת לְהוּ טוּמְאָה!
+> **Translation:** **Rather, Rava said:** If **he entered** with only **his hand there is** liability **due to** contracting **ritual impurity,** but **there is no** liability **due to entering** an enclosure with a corpse, as he cannot be considered inside the house. If **he entered** with **his body** by standing upright so that his head would not enter first, contraction of **impurity and entering** the enclosure **occur simultaneously.** The Gemara asks: **But** even so, **it is impossible** that **his toes would not enter first, and** once they do, **impurity would** thereby **descend to them,** causing him to become impure before his entire body enters the house.
 
 *Tosafot* provides a careful reading of this question and its resolution. The scenario being analyzed: when we said that *tumah v'bi'ah* produces two sets of lashes, we meant a case where the person was not yet *tamei*—he walked into a house containing a corpse and thereby incurred both prohibitions simultaneously through a single act. The parallel case in the field would be touching two corpses at once: also one act, but only one set of lashes, since there is only one relevant *lav* in play outdoors (*lo yitama* without a *bi'ah* dimension). The point is *kan babayis, kan basadeh*—the *bi'ah* prohibition is architecturally distinct and adds a second violation only in the house context.
 
@@ -158,11 +167,13 @@ The follow-on question is whether carrying a corpse into a house—actively touc
 
 *Tosafot* reads the *Gemara*'s reply—*kan babayis, kan basadeh*—to mean precisely this: if you are carrying a corpse and walk into a house, you do *not* receive two sets of lashes. The two-set liability applies only when you were not already touching anything and you entered the house. The parallel to the field (two corpses at once, not *b'chiburin*) also yields only one set of lashes.
 
+The *Gemara* then raises a further difficulty specific to the house case itself. Even when a person enters a house with a corpse inside while not yet *tamei*, the act of entering cannot be perfectly instantaneous: as soon as any part of the body—a hand, a foot, a nose—crosses the threshold and comes under the *ohel*, that person becomes *tamei* at that very moment. Yet *lo yavo* is only violated once the majority of the body has entered. This means that by the time the act of *bi'ah* is complete, the person has already been actively *tamei* for a fraction of a moment, caught in the same *chiburin* problem all over again. It is a surprising result: the very structure of entering a building seems to guarantee that *tumah* always arrives a half-step before *bi'ah* is consummated, so it is difficult to see how the two violations can ever truly be simultaneous in this context—a problem the *Gemara* will work hard to resolve.
+
 ### Rav Papa's box case
 
-> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב פָּפָּא: כְּגוֹן שֶׁנִּכְנַס בְּשִׁידָּה תֵּיבָה וּמִגְדָּל, וּבָא חֲבֵירוֹ וּפָרַע עָלָיו אֶת הַמַּעֲזִיבָה, דְּטוּמְאָה וּבִיאָה בַּהֲדֵי הֲדָדֵי קָאָתְיָין.
->
-> **Translation:** **Rather, Rav Pappa said:** We are dealing with a case **where one entered** into a house **in a chest, a box, or a cabinet,** which are not susceptible to ritual impurity and which protect their contents from impurity when they can hold more than forty *se'a*, **and another came and opened the cover** of the vessel **from over him.** In **that** case contracting **impurity and entering** the enclosure **occur simultaneously.**
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב פָּפָּא: כְּגוֹן שֶׁנִּכְנַס בְּשִׁידָּה תֵּיבָה וּמִגְדָּל, וּבָא חֲבֵירוֹ וּפָרַע עָלָיו אֶת הַמַּעֲזִיבָה, דְּטוּמְאָה וּבִיאָה בַּהֲדֵי הֲדָדֵי קָאָתְיָין. מָר בַּר רַב אָשֵׁי אָמַר: כְּגוֹן דְּעָיֵיל כְּשֶׁהוּא גּוֹסֵס, וּנְפַק נִשְׁמְתֵיהּ אַדְּיָתֵיב. דְּטוּמְאָה וּבִיאָה בַּהֲדֵי הֲדָדֵי קָאָתְיָין.
+> **Translation:** **Rather, Rav Pappa said:** We are dealing with a case **where one entered** into a house **in a chest, a box, or a cabinet,** which are not susceptible to ritual impurity and which protect their contents from impurity when they can hold more than forty *se’a*, **and another came and opened the cover** of the vessel **from over him.** In **that** case contracting **impurity and entering** the enclosure **occur simultaneously. Mar bar Rav Ashi said:** It is referring to a case **where one entered** the house **when** someone there **was dying, and** the latter’s **soul departed when** he **was sitting** there. In **that** case too, contracting **impurity and entering** the enclosure with a corpse **occur simultaneously.** Since there was no corpse in the enclosure when he entered, he is considered to have entered an enclosure with a corpse at the moment the person died.
+
 
 The *Gemara* then presses toward a case where *tumah* and *bi'ah* occur with perfect simultaneity. The difficulty is that under normal circumstances, entering a building is not truly instantaneous: some part of the body—a hand, a nose, a toe—enters before the rest, and at that moment the person becomes *tamei* while not yet having completed the act of *bi'ah*. By the time he has fully entered, he is already *tamei* and the additional violation of *lo yavo* arrives fractionally later, when he is already actively *tamei*—again raising the *chiburin* concern.
 
@@ -174,29 +185,25 @@ Rav Papa's resolution: the case is one where the person entered inside a *shida*
 
 ### Goses case
 
-> **Hebrew/Aramaic:** מָר בַּר רַב אָשֵׁי אָמַר: כְּגוֹן דְּעָיֵיל כְּשֶׁהוּא גּוֹסֵס, וּנְפַק נִשְׁמְתֵיהּ אַדְּיָתֵיב. דְּטוּמְאָה וּבִיאָה בַּהֲדֵי הֲדָדֵי קָאָתְיָין.
->
-> **Translation:** Mar bar Rav Ashi said: It is referring to a case **where one entered** the house **when** someone there **was dying, and** the latter's **soul departed when** he **was sitting** there. In **that** case too, contracting **impurity and entering** the enclosure with a corpse **occur simultaneously.** Since there was no corpse in the enclosure when he entered, he is considered to have entered an enclosure with a corpse at the moment the person died.
-
 Mar bar Rav Ashi offers a further case: *k'gon d'ayal k'shehu goses*—a person entered a room while its occupant was in the final death throes (*goses*). Since a *goses* is presumed to be *rov gosesim l'misa*—the majority of those in this state die—and the person was warned and chose to remain, at the moment the *goses* dies, the person simultaneously commits *bi'ah* (remaining present under the same roof) and incurs *tumah*: *tumah u'vi'ah bahada hadadi ka'atyan*.
 
-This case raises a question not addressed earlier: since the person was already in the room before death, there was no act of entering (*bo*). The *Gemara* may be reading *lo yavo* as including willful remaining present at the moment the house acquires a *meit*, but this requires further examination, which leads naturally to the next major discussion.
+This case raises a question not addressed earlier: since the person was already in the room before death, there was no act of entering (*bo*). The word *bo* in *lo yavo* ordinarily denotes entry, yet here the person never entered into a space containing a *meit*—he was already present when death arrived. The *Gemara* would have to read *lo yavo* as encompassing willful presence at the moment the house acquires a *meit*, a reading that is at least surprising given the plain sense of the term. One might speculate that the case is constructed with *goses* precisely because the act of entering the room while the *goses* is still alive could somehow be read as a retroactive entry into a space about to become *tamei*—but that framing would undermine the very simultaneity (*bahada hadadi*) the case is meant to demonstrate. The tension is a genuine one, and it leads naturally to the next major discussion.
 
 ## Goses violation
 
+
+
 ### Kohen vs. nazir
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: ״לְהֵחַלּוֹ״, עַד שָׁעָה שֶׁיָּמוּת. רַבִּי אוֹמֵר: ״בְּמוֹתָם יִטַּמָּא״, עַד שֶׁיָּמוּת.
->
-> **Translation:** § With regard to the ritual impurity of a corpse, **the Sages taught:** The Torah states concerning a priest's exposure to ritual impurity imparted by a corpse: "He shall not become impure, a chief among his people, **to profane himself"** (Leviticus 21:4), from which it is derived that the prohibition does not apply **until the time that** the person with whom he comes into contact **dies.** A priest does not become impure or profane his priesthood at any earlier stage. **Rabbi** Yehuda HaNasi **says** that the verse stated with regard to a nazirite: "He shall not become impure for his father, or for his mother, for his brother, or for his sister, when they die" (Numbers 6:7), from which one can infer that **when they die,** one **contracts ritual impurity** from them, i.e., not **until** the other person actually **dies.**
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: ״לְהֵחַלּוֹ״, עַד שָׁעָה שֶׁיָּמוּת. רַבִּי אוֹמֵר: ״בְּמוֹתָם יִטַּמָּא״, עַד שֶׁיָּמוּת.
+> **Translation:** § With regard to the ritual impurity of a corpse, **the Sages taught:** The Torah states concerning a priest’s exposure to ritual impurity imparted by a corpse: “He shall not become impure, a chief among his people, **to profane himself”** (Leviticus 21:4), from which it is derived that the prohibition does not apply **until the time that** the person with whom he comes into contact **dies.** A priest does not become impure or profane his priesthood at any earlier stage. **Rabbi** Yehuda HaNasi **says** that the verse stated with regard to a nazirite: “He shall not become impure for his father, or for his mother, for his brother, or for his sister, when they die” (Numbers 6:7), from which one can infer that **when they die,** one **contracts ritual impurity** from them, i.e., not **until** the other person actually **dies.**
 
 A *braita* addresses directly whether a *kohen* or *nazir* violates by being present with a *goses*. The *braita* brings two formulations. One position—derived from the phrase *l'hechalo*, referring to desecration of status—holds that a *kohen* does not violate until the person has actually died (*ad she'yamus*), meaning a *goses* does not yet generate a violation. Another position—attributed to Rabbi, derived from *b'mosam*, "in their death"—similarly requires actual death.
 
 ### Interpretation debate
 
-> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אָמַר רַבִּי יוֹחָנָן: מַשְׁמָעוּת דּוֹרְשִׁין אִיכָּא בֵּינַיְיהוּ. רֵישׁ לָקִישׁ אָמַר: גּוֹסֵס אִיכָּא בֵּינַיְיהוּ. לְמַאן דְּאָמַר מִ״לְּהֵחַלּוֹ״ — אֲפִילּוּ גּוֹסֵס, לְמַאן דְּאָמַר ״בְּמוֹתָם״ — עַד שֶׁיָּמוּת אִין, גּוֹסֵס לָא.
->
-> **Translation:** The Gemara asks: **What is** the difference **between** these two derivations? They apparently state the same *halakha* from different verses. **Rabbi Yoḥanan says: The interpretation of the meaning** of the verse **is** the difference **between them.** There is no practical difference between them; rather, they derive the *halakha* from different verses. **Reish Lakish said:** The difference **between them** is with regard to **a dying person: According to the one who says** that one derives the *halakha* from "He shall not become impure, a chief among his people, **to profane himself," even a dying person** is included in the prohibition of impurity. **According to the one who says** that it is derived from **"when they die," once he dies, yes** there is impurity, whereas **a dying person, no,** he does not impart impurity.
+> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אָמַר רַבִּי יוֹחָנָן: מַשְׁמָעוּת דּוֹרְשִׁין אִיכָּא בֵּינַיְיהוּ. רֵישׁ לָקִישׁ אָמַר: גּוֹסֵס אִיכָּא בֵּינַיְיהוּ. לְמַאן דְּאָמַר מִ״לְּהֵחַלּוֹ״ — אֲפִילּוּ גּוֹסֵס, לְמַאן דְּאָמַר ״בְּמוֹתָם״ — עַד שֶׁיָּמוּת אִין, גּוֹסֵס לָא.
+> **Translation:** The Gemara asks: **What is** the difference **between** these two derivations? They apparently state the same *halakha* from different verses. **Rabbi Yoḥanan says: The interpretation of the meaning** of the verse **is** the difference **between them.** There is no practical difference between them; rather, they derive the *halakha* from different verses. **Reish Lakish said:** The difference **between them** is with regard to **a dying person: According to the one who says** that one derives the *halakha* from “He shall not become impure, a chief among his people, **to profane himself,” even a dying person** is included in the prohibition of impurity. **According to the one who says** that it is derived from **“when they die,” once he dies, yes** there is impurity, whereas **a dying person, no,** he does not impart impurity.
 
 The *Gemara* asks what distinguishes the two derivations. Rabbi Yochanan holds that there is no practical difference; both formulations simply establish that violation requires death. Reish Lakish identifies the *goses* as the point of contention: the view derived from *l'hechalo* would include even a *goses*, while the view derived from *b'mosam* explicitly excludes it.
 
@@ -204,35 +211,44 @@ The reasoning for including a *goses* under *l'hechalo* is that the word can be 
 
 ### Goses inclusion
 
-> **Hebrew/Aramaic:** וּלְמַאן דְּאָמַר מִ״לְּהֵחַלּוֹ״, הָכְתִיב ״בְּמוֹתָם״! מִיבְּעֵי לֵיהּ לְכִדְרַבִּי. דְּתַנְיָא, רַבִּי אוֹמֵר: בְּמוֹתָם אֵינוֹ מִטַּמֵּא, אֲבָל מִטַּמֵּא בְּנִגְעָתָם וּבְזִיבָתָם.
->
-> **Translation:** The Gemara asks with regard to Reish Lakish's opinion: **And according to the one who says** that it is derived from **"to profane himself," isn't it written: "When they die"?** What does he derive from that verse? The Gemara answers: **He requires** that verse **for that which** was taught **by Rabbi** Yehuda HaNasi. **As it is taught** in a *baraita* that **Rabbi** Yehuda HaNasi **says** that the verse stresses "when they die," to teach: In a case **when they die he may not become impure; however, he may become impure from their leprosy or from their gonorrhea-like discharge.** A nazirite is prohibited from contracting ritual impurity only if it is from a corpse.
-
 The *Gemara* traces the implications of each position through the textual surplus. The word *b'mosam* ("in their death") rather than simply *b'mot* carries a possessive, which allows the *Gemara* to derive two teachings simultaneously: (1) the prohibition applies only to *tumah* of corpses, not to other forms of *tumah* such as *tzara'at* or *zivah*—a *nazir* who touches a *zav* does not violate the prohibition of *tumah l'meitim*; and (2) the violation requires actual death (*ad she'yamus*). The word *lehachelo* similarly yields two teachings: (1) the violation applies only *b'mi she'eino mechulal*—to one whose status has not yet been violated—and (2) a *goses* may be included.
 
-### Soul departure
+> **Hebrew/Aramaic:** וּלְמַאן דְּאָמַר מִ״לְּהֵחַלּוֹ״, הָכְתִיב ״בְּמוֹתָם״! מִיבְּעֵי לֵיהּ לְכִדְרַבִּי. דְּתַנְיָא, רַבִּי אוֹמֵר: בְּמוֹתָם אֵינוֹ מִטַּמֵּא, אֲבָל מִטַּמֵּא בְּנִגְעָתָם וּבְזִיבָתָם.
+> **Translation:** The Gemara asks with regard to Reish Lakish’s opinion: **And according to the one who says** that it is derived from **“to profane himself,” isn’t it written: “When they die”?** What does he derive from that verse? The Gemara answers: **He requires** that verse **for that which** was taught **by Rabbi** Yehuda HaNasi. **As it is taught** in a *baraita* that **Rabbi** Yehuda HaNasi **says** that the verse stresses “when they die,” to teach: In a case **when they die he may not become impure; however, he may become impure from their leprosy or from their gonorrhea-like discharge.** A nazirite is prohibited from contracting ritual impurity only if it is from a corpse.
 
-> **Hebrew/Aramaic:** מֵיתִיבִי: אָדָם אֵינוֹ מְטַמֵּא (אֶלָּא) עַד שֶׁתֵּצֵא נַפְשׁוֹ. וַאֲפִילּוּ מְגוּיָּיד וַאֲפִילּוּ גּוֹסֵס.
->
-> **Translation:** The Gemara **raises an objection** from a mishna (*Oholot* 1:6): **A person renders** others **impure only when his soul departs** from **him, even if he has severe lacerations [*meguyyad*], and even if** he **is dying.**
+> **Hebrew/Aramaic:** וּלְמַאן דְּאָמַר ״בְּמוֹתָם״, הָא מִיבְּעֵי לֵיהּ לְהַאי סְבָרָא! אִם כֵּן, לֵימָא קְרָא ״בְּמוֹת״, מַאי ״בְּמוֹתָם״ — שָׁמְעַתְּ מִינַּהּ תַּרְתֵּי.
+> **Translation:** The Gemara asks: **And according to the one who says** that the earliest time the prohibition takes effect is derived from the phrase **“when they die,” he** also **requires that** verse **for this reason;** how does he derive two *halakhot* from the same verse? The Gemara answers: **If so, let the verse state: When he dies; what is** the reason for the emphasis of **“when they die”? You can learn from** this verse **two** *halakhot*, that one does not impart impurity until he is actually dead, and that a nazirite is prohibited from contracting only the impurity of a corpse.
+
+> **Hebrew/Aramaic:** וּלְמַאן דְּאָמַר ״בְּמוֹתָם״, הָכְתִיב ״לְהֵחַלּוֹ״! ״לְהֵחַלּוֹ״ לְהָכִי הוּא דַּאֲתָא, בְּמִי שֶׁאֵינוֹ מְחוּלָּל, יָצָא זֶה שֶׁמְּחוּלָּל וְעוֹמֵד.
+> **Translation:** The Gemara asks the reverse question: **And according to the one who says** that the source for the earliest time of the impurity of a corpse is the verse **“when they die,” isn’t it written: “To profane himself”?** What does he derive from that verse? The Gemara answers: **“To profane himself” comes for this** purpose, that the prohibition against becoming impure apply only **to one who is not profaned, excluding one who is** already **profaned.** There is no prohibition against a ritually impure priest becoming impure from a corpse.
+
+> **Hebrew/Aramaic:** וּלְמַאן דְּאָמַר מִ״לְּהֵחַלּוֹ״, הָא מִיבְּעֵי לֵיהּ לְהַאי סְבָרָא! אִם כֵּן לֵימָא קְרָא ״לְהֵחֵל״, מַאי ״לְהֵחַלּוֹ״ — שָׁמְעַתְּ מִינַּהּ תַּרְתֵּי.
+> **Translation:** The Gemara asks: **And according to the one who says** that the source for the commencement of impurity imparted by a corpse is **“to profane himself,” he** also **requires that** verse **for this reason;** how does he derive two *halakhot* from the same verse? The Gemara answers: **If so, let the verse state: To profane; what is** the reason for the emphasis of **“to profane himself”? You can learn from** this verse **two** *halakhot*, that a nazirite is prohibited from becoming impure even through contact with a dying person, and that there is no prohibition against contracting impurity a second time for one who is already impure.
+
+### Soul departure
 
 A *braita* is then cited that appears to challenge the inclusion of a *goses*: *adam eino mitamei ela ad she'teitzei nafsho*—a person does not transmit *tumah* until the soul actually departs. Even someone who has been grievously wounded, even a *goses*, does not yet transmit *tumah*. This appears to directly contradict the position that includes a *goses* in the prohibition.
 
 ### Status vs. desecration
 
-> **Hebrew/Aramaic:** וּלְמַאן דְּאָמַר מִ״לְּהֵחַלּוֹ״ הָא קָתָנֵי דְּאֵינוֹ מְטַמֵּא! לְעִנְיַן טַמּוֹיֵי — עַד דְּנָפְקָא נַפְשֵׁיהּ, לְעִנְיַן אִתַּחוֹלֵי — הָא אִיתַּחִיל.
->
-> **Translation:** The Gemara asks: **And according to the one who says** that the commencement of the impurity of a corpse is derived **from "to profane himself,"** this *baraita* is difficult, as it **teaches** that a dying person **does not impart impurity.** The Gemara answers: **With regard to imparting impurity,** he does not impart impurity **until his soul departs, but with regard to profaning** the sanctity of the priesthood, a priest **is profaned** by a dying person.
 
 The *Gemara* resolves this tension with a distinction of categories. The *braita* is correct that a *goses* does not cause *tumah* in the halakhic sense—that requires death. However, for purposes of *chillul*—violation or desecration of status—one transgresses by entering the presence of a *goses*: *l'inyan achluyei ha ichluyei*. The violation is not that one has become *tamei* through the *goses*, but that one has placed oneself in a situation that constitutes a form of desecration of one's sacred status as *kohen* or *nazir*.
 
+This distinction raises two immediate practical questions. The first is which version of the derivation we rule by—the *lehachelo* reading that includes a *goses*, or the *bemotam* reading—since the answer directly determines whether a *kohen* is forbidden from entering the room of someone who is a *goses* but not a close relative. The second, and perhaps more surprising, question is what level of prohibition is actually at stake. The *Gemara* derives the rule from a verse, which would suggest a *d'oraita* violation, yet it is somewhat difficult to accept that entering the room of a *goses*—where no *tumah* is transmitted at all—constitutes the same biblical offense as entering where a corpse lies. Intuitively, it sounds more like a *derabbanan* concern. These two questions—how we rule, and what the true level of the prohibition is—are precisely what *Tosafot* and the *Shulchan Aruch* address, as taken up in the next section.
+
+> **Hebrew/Aramaic:** מֵיתִיבִי: אָדָם אֵינוֹ מְטַמֵּא (אֶלָּא) עַד שֶׁתֵּצֵא נַפְשׁוֹ. וַאֲפִילּוּ מְגוּיָּיד וַאֲפִילּוּ גּוֹסֵס. וּלְמַאן דְּאָמַר מִ״לְּהֵחַלּוֹ״ הָא קָתָנֵי דְּאֵינוֹ מְטַמֵּא! לְעִנְיַן טַמּוֹיֵי — עַד דְּנָפְקָא נַפְשֵׁיהּ, לְעִנְיַן אִתַּחוֹלֵי — הָא אִיתַּחִיל.
+> **Translation:** The Gemara **raises an objection** from a mishna (*Oholot* 1:6): **A person renders** others **impure only when his soul departs** from **him, even if he has severe lacerations [*meguyyad*], and even if** he **is dying. But according to the one who says** that the commencement of the impurity of a corpse is derived **from “to profane himself,”** this *baraita* is difficult, as it **teaches** that a dying person **does not impart impurity.** The Gemara answers: **With regard to imparting impurity,** he does not impart impurity **until his soul departs, but with regard to profaning** the sanctity of the priesthood, a priest **is profaned** by a dying person.
+
 ### Shulchan Aruch ruling
+
 
 *Tosafot* at the end of the page notes that we rule like Rabbi Yochanan—and depending on the reading of the text, if the positions are reassigned to Abaye and Rava respectively, we rule like Rava. The practical question is whether a *kohen* is prohibited from entering the room of a *goses* who is not an immediate relative.
 
 The *Shulchan Aruch*'s ruling is notably ambiguous. It states that a *goses* does not transmit *tumah* until the soul departs, even if the person is *meguyad* (gravely mutilated) or in extremis. However, it then adds: *umikol makom assur lehikanes l'bayis sheyesh bo goses*—it is nonetheless forbidden to enter a house where a *goses* lies. The *Rema* adds that it is good to be stringent. The language of *assur* without further qualification leaves unclear whether this is a *d'oraita* violation, a *derabbanan* enactment, or a stringency—precisely the ambiguity that *Tosafot* flagged.
 
 ## Practical consequences
+
+
 
 ### Tosafot kohen rule
 
@@ -251,6 +267,8 @@ The *kohen* must essentially run out of the cemetery trying to avoid being *ma'a
 *Tosafot* provides a historical and practical resolution, citing it in the name of great authorities: the practice was to bury the *meit* at the very edge of the cemetery, so that the *kohen* could complete the burial and exit immediately without traversing the rest of the cemetery grounds. This minimizes—though cannot entirely eliminate—the risk of subsequent *tumah* encounters. Additionally, the practice of not planting trees in cemeteries is connected to this concern: without trees providing a shared *ohel* over multiple graves, the risk of inadvertent *tumah* transmission through *ohel* is reduced.
 
 ## Ra'avad reinterpretation
+
+
 
 ### Ra'avad's reading
 

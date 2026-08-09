@@ -1,0 +1,329 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Rabbi Chiyya's Net",
+    "candidates": [
+      "2000 Amah Debate",
+      "Non-Jewish Property",
+      "Melacha by Non-Jew",
+      "Walled vs. Open Cities",
+      "Rabbi Chiyya's Net",
+      "R. Yose Laughs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly Rabbi \u1e24iyya's baraita about the water-filled ditch (\u1e25erem) at the Shabbat boundary requiring an iron partition, followed by Rabbi Yosei's laughter \u2014 which is precisely what candidate 4 ('Rabbi Chiyya's Net') describes in its prose.",
+      "chosen_heading": "Rabbi Chiyya's Net",
+      "current_heading": "Rabbi Chiyya's Net",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "R. Yose Laughs",
+    "candidates": [
+      "R. Yose Laughs",
+      "Water Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the question about why Rabbi Yose laughed, the baraita about flowing rivers, and the rejection about collected water \u2014 are explicitly discussed in the 'R. Yose Laughs' prose, which covers both the stringent/lenient rejection and the neharot/mechunas argument in sequence.",
+      "chosen_heading": "R. Yose Laughs",
+      "current_heading": "R. Yose Laughs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Water Leniency",
+    "candidates": [
+      "Water Leniency",
+      "Netting Problem",
+      "Boat Water Example",
+      "Mishnah Positions",
+      "Box Dimensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain discussing why Rabbi Yosei laughed at the iron partition requirement, culminating in the principle that the Sages were lenient regarding water (mechitza teluyah bemayim), which is precisely what candidate 0 'Water Leniency' discusses, including the Rabbi Tavla/Rav exchange explicitly mentioned in its prose.",
+      "chosen_heading": "Water Leniency",
+      "current_heading": "Water Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Box Dimensions",
+    "candidates": [
+      "Netting Problem",
+      "Boat Water Example",
+      "Mishnah Positions",
+      "Box Dimensions",
+      "Biblical Source",
+      "Body Measurement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items discuss the apparent redundancy between Rabbi Yehuda and the tanna kamma, Rava's resolution via the eight-by-eight box, the baraita corroboration, and Rava's qualification about carrying \u2014 precisely the content described in the 'Box Dimensions' prose.",
+      "chosen_heading": "Box Dimensions",
+      "current_heading": "Box Dimensions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Body Measurement",
+    "candidates": [
+      "Biblical Source",
+      "Body Measurement",
+      "Amah Size",
+      "Tosafot Height",
+      "Rav Mesharsheya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the baraita content and the mai beinaihu dispute that candidate 1's prose explicitly discusses \u2014 the body measurement of three amot plus one, Rabbi Meir vs. Rabbi Yehuda's formulations, and the practical difference of arba amot metzumtzamot.",
+      "chosen_heading": "Body Measurement",
+      "current_heading": "Body Measurement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rav Mesharsheya",
+    "candidates": [
+      "Amah Size",
+      "Tosafot Height",
+      "Rav Mesharsheya",
+      "Og Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Mesharsheya's question to his son about whether the four ammot are measured by the individual's own amah or the standard sacred cubit, which is precisely what the prose under 'Rav Mesharsheya' describes.",
+      "chosen_heading": "Rav Mesharsheya",
+      "current_heading": "Rav Mesharsheya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Og Problem",
+    "candidates": [
+      "Og Problem",
+      "Kelim Mishnah",
+      "Rav Papa Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Og argument and the Kelim mishnah argument in a single Talmudic unit, and it currently sits under 'Og Problem' which is where it belongs \u2014 the automated pipeline correctly placed this combined passage here, as both arguments are presented together in the Gemara as one continuous rhetorical unit.",
+      "chosen_heading": "Og Problem",
+      "current_heading": "Og Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Rav Papa Response",
+    "candidates": [
+      "Kelim Mishnah",
+      "Rav Papa Response",
+      "Rav Papa Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Pappa's dismissive response about being too precise in learning, which is exactly what the 'Rav Papa Response' prose section discusses \u2014 his initial reaction that excessive diyuk would prevent learning.",
+      "chosen_heading": "Rav Papa Response",
+      "current_heading": "Rav Papa Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rav Papa Rules",
+    "candidates": [
+      "Rav Papa Rules",
+      "Two People Overlap",
+      "Three Courtyards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Papa's ruling that we measure by one's own amah and explains why the rule was omitted from the categorical list due to the case of a person with disproportionately small limbs \u2014 exactly what the 'Rav Papa Rules' prose section describes.",
+      "chosen_heading": "Rav Papa Rules",
+      "current_heading": "Rav Papa Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Three Courtyards",
+    "candidates": [
+      "Two People Overlap",
+      "Three Courtyards",
+      "Confusion Concern",
+      "Rashi Explanation",
+      "Unification Problem",
+      "Rav Yehuda Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form Rabbi Shimon's challenge to the Rabbis and their response about 'avshu dayarin' (numerous residents), which is precisely what the 'Confusion Concern' prose describes \u2014 the Rabbis accepting the three-person case but rejecting the courtyard analogy due to the many inhabitants concern.",
+      "chosen_heading": "Confusion Concern",
+      "current_heading": "Three Courtyards",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Rav Yehuda Answer",
+    "candidates": [
+      "Confusion Concern",
+      "Rashi Explanation",
+      "Unification Problem",
+      "Rav Yehuda Answer",
+      "Rav Sheshes Answer",
+      "Two Houses Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together present the gemara's question about why the outer courtyards cannot unify through the middle one, followed by Rav Yehuda's and Rav Sheshet's answers \u2014 but the opening question (item 1) belongs under 'Unification Problem,' whose prose explicitly describes the gemara examining why the three courtyards cannot simply unify into one, making that heading the best single home for the entire passage rather than splitting it or leaving it under 'Rav Yehuda Answer.'",
+      "chosen_heading": "Unification Problem",
+      "current_heading": "Rav Yehuda Answer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Two Houses Rule",
+    "candidates": [
+      "Rav Sheshes Answer",
+      "Two Houses Rule",
+      "Shlichus Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present the Beit Shammai/Beit Hillel baraita about two vessels and the Gemara's clarification that even Beit Hillel only validates two vessels in one house \u2014 exactly the content described in the 'Two Houses Rule' prose.",
+      "chosen_heading": "Two Houses Rule",
+      "current_heading": "Two Houses Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Shlichus Challenge",
+    "candidates": [
+      "Shlichus Challenge",
+      "Non-Participation",
+      "Leniency Not Stringency",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the two-pronged challenge by Rav A\u1e25a brei d'Rav Avya \u2014 the shlichus problem with Rav Yehuda and the non-participation/invalidation problem with Rav Sheshet \u2014 which is precisely what the 'Shlichus Challenge' prose describes.",
+      "chosen_heading": "Shlichus Challenge",
+      "current_heading": "Shlichus Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Non-Participation",
+      "Leniency Not Stringency",
+      "Rabbi Shimon",
+      "Sages Objection",
+      "Rashi Conceptual",
+      "Tosafot Practical"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Leniency Not Stringency",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are Rav Ashi's resolution of the two difficulties (against Rav Yehuda and Rav Sheshet), matching exactly the prose of headings 0 ('Non-Participation') and 1 ('Leniency Not Stringency') \u2014 but since they must go under one heading, heading 1 covers both resolutions as a unit.",
+      "second_heading": "Rabbi Shimon",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 introduce Rav Yehuda citing Rav on Rabbi Shimon's position, Shmuel's stricter version, and the baraita confirming it \u2014 all of which match the 'Rabbi Shimon' heading's prose about identifying Rabbi Shimon as the underlying framework.",
+      "current_heading": "Rabbi Shimon",
+      "moved": true
+    }
+  }
+]

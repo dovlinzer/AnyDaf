@@ -1,0 +1,383 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Vayikra 3:1 Proof",
+    "candidates": [
+      "Mishnah Overview",
+      "Dimensions of Intent",
+      "Four Services",
+      "Vayikra 3:1 Proof",
+      "Redundancy Analysis",
+      "Zevach as Name",
+      "Not the Name",
+      "Shechitah Conclusion",
+      "Learn from Shechitah?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form the continuous question-challenge-answer chain deriving from Vayikra 3:1 that the slaughter must be performed lishma, which is precisely what the 'Vayikra 3:1 Proof' section describes.",
+      "chosen_heading": "Vayikra 3:1 Proof",
+      "current_heading": "Vayikra 3:1 Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Learn from Shechitah?",
+    "candidates": [
+      "Redundancy Analysis",
+      "Zevach as Name",
+      "Not the Name",
+      "Shechitah Conclusion",
+      "Learn from Shechitah?",
+      "Pesach Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage asks 'we found a source for shechitah, from where do we derive the other services?' \u2014 this is the natural question that follows immediately after establishing the shechitah conclusion, before the discussion of deriving from shechitah begins, making it the opening question answered in section 4, but it belongs as a transition out of section 3 'Shechitah Conclusion' which is where this question logically arises.",
+      "chosen_heading": "Shechitah Conclusion",
+      "current_heading": "Learn from Shechitah?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Pesach Limitation",
+    "candidates": [
+      "Learn from Shechitah?",
+      "Pesach Limitation",
+      "Vayikra 7:33 Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the argument 'let us derive from shechitah' and then immediately refutes it with the Pesach stringency \u2014 this is the content described in candidate 0's prose about the Gemara's question of deriving other services from shechitah, whereas candidate 1 describes only the conclusion/explanation of the refutation without the initial question that frames the passage.",
+      "chosen_heading": "Learn from Shechitah?",
+      "current_heading": "Pesach Limitation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Vayikra 7:33 Proof",
+    "candidates": [
+      "Vayikra 7:33 Proof",
+      "Distinction Analysis",
+      "Kohen Requirement",
+      "Learn from Others?"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Distinction Analysis",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the derivation for kabbalah from Vayikra 7:33 and the challenge/response about why shechitah cannot be derived from kabbalah (the zar/ishah stringency), which matches exactly the 'Distinction Analysis' prose about velichtov rachmana bakkabbalah and the refutation based on pesulah bezar ve'ishah.",
+      "second_heading": "Learn from Others?",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 cover the question of from where zrikah is derived, the failed attempt to learn from shechitah/kabbalah (due to tzafon and inner sin offerings), and the resolution via the verse 'who sprinkles the blood of the peace offering,' which matches exactly the 'Learn from Others?' prose about zrikah menalan and deriving sprinkling lishma.",
+      "current_heading": "Vayikra 7:33 Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Learn from Others?",
+    "candidates": [
+      "Distinction Analysis",
+      "Kohen Requirement",
+      "Learn from Others?",
+      "Location Distinction",
+      "Vayikra 7:14 Proof",
+      "Death Penalty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks why the Torah didn't write the rule only for zrikah (sprinkling) and let us derive from it, which directly matches the 'Learn from Others?' section's prose about deriving zrikah's lishma requirement and whether it can be inferred from already-established services.",
+      "chosen_heading": "Learn from Others?",
+      "current_heading": "Learn from Others?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Death Penalty",
+    "candidates": [
+      "Location Distinction",
+      "Vayikra 7:14 Proof",
+      "Death Penalty",
+      "Learn from Others?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states that a derivation from zrikah can be refuted because a non-priest is liable to death for performing it \u2014 exactly the stringency of zrikah discussed in the 'Death Penalty' section's prose.",
+      "chosen_heading": "Death Penalty",
+      "current_heading": "Death Penalty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Learn from Others?",
+    "candidates": [
+      "Learn from Others?",
+      "Dispensability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks where we derive the source for holachah, which matches exactly the prose of heading 0 that describes this same question ('we have found sources for all the others, where do we derive holachah?'), while heading 1 discusses the Gemara's response/preemption of the attempted derivation.",
+      "chosen_heading": "Learn from Others?",
+      "current_heading": "Learn from Others?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Dispensability",
+    "candidates": [
+      "Dispensability",
+      "Vayikra 1 Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the argument that holachah is dispensable and therefore cannot be derived from the other indispensable rites, which is precisely what the 'Dispensability' section's prose describes.",
+      "chosen_heading": "Dispensability",
+      "current_heading": "Dispensability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Vayikra 1 Proof",
+    "candidates": [
+      "Vayikra 1 Proof",
+      "Holachah & Kabbalah",
+      "Owner Intent Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses both the parallel usage of vehikriv/vehikrivu for holachah and kabbalah, and the derivation that holachah should not be excluded from the category of kabbalah \u2014 which is precisely what the 'Holachah & Kabbalah' prose describes.",
+      "chosen_heading": "Holachah & Kabbalah",
+      "current_heading": "Vayikra 1 Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Owner Intent Source",
+    "candidates": [
+      "Holachah & Kabbalah",
+      "Owner Intent Source",
+      "Todah Meat Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks exactly 'from where do we derive the halakha concerning deviation with regard to the owner,' which is precisely what the 'Owner Intent Source' section's prose describes as its topic.",
+      "chosen_heading": "Owner Intent Source",
+      "current_heading": "Owner Intent Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Todah Meat Law",
+    "candidates": [
+      "Todah Meat Law",
+      "Todah vs Shelamim",
+      "Zevach Teaches Both",
+      "Learn All from Shechitah?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form one continuous chain of question-and-answer about deriving shinui ba'alim from the word 'zevach' in the todah verse, exactly matching the prose under 'Todah Meat Law' and 'Zevach Teaches Both' \u2014 but since items 1-5 together cover the full arc from the initial derivation through the im eino inyan, the Abba Chanin baraita objection, and the tarti resolution, and the current placement (index 0) already encompasses this entire discussion as described in its prose, it is the correct home.",
+      "chosen_heading": "Todah Meat Law",
+      "current_heading": "Todah Meat Law",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Learn All from Shechitah?",
+    "candidates": [
+      "Todah vs Shelamim",
+      "Zevach Teaches Both",
+      "Learn All from Shechitah?",
+      "Pesach Limitation",
+      "Four Differences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks 'we found a source for shechitah, from where do we derive the other rites?' which is precisely the question of deriving all four services from shechitah \u2014 exactly what the 'Learn All from Shechitah?' section's prose describes.",
+      "chosen_heading": "Learn All from Shechitah?",
+      "current_heading": "Learn All from Shechitah?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Four Differences",
+    "candidates": [
+      "Pesach Limitation",
+      "Four Differences",
+      "Communal vs Individual",
+      "Animal vs Thought",
+      "Zrikah Primacy",
+      "After Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items form a continuous Talmudic argument about deriving shinui ba'alim rules from shinui kodesh via a gezeirah shavah on 'slaughter,' including the four distinctions and their refinements, which is precisely what the 'Four Differences' section prose describes.",
+      "chosen_heading": "Four Differences",
+      "current_heading": "Four Differences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "After Death",
+    "candidates": [
+      "Communal vs Individual",
+      "Animal vs Thought",
+      "Zrikah Primacy",
+      "After Death",
+      "Kabbalah Owner Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage deals precisely with the verse 'venirtza lo lekhaper alav,' Rav Ashi's derivation of velo al chavero, Rabbi Shimon's baraita about responsibility for an offering, and Rav Yitzchak bar Avdimi's explanation \u2014 all of which are explicitly described in the 'After Death' section's prose.",
+      "chosen_heading": "After Death",
+      "current_heading": "After Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Kabbalah Owner Source",
+    "candidates": [
+      "Kabbalah Owner Source",
+      "Nazir Offering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Kabbalah Owner Source' prose, which describes exactly this Gemara sequence: the question of deriving kabbalah from shechitah/zerikah, and the refutation that shechitah and zerikah are unique in carrying karet for performance outside the Temple.",
+      "chosen_heading": "Kabbalah Owner Source",
+      "current_heading": "Kabbalah Owner Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Nazir Offering",
+    "candidates": [
+      "Nazir Offering",
+      "Klal U'Prat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's derivation from the nazirite's ram using the im eino inyan principle to teach shinui ba'alim, which matches exactly the prose under 'Nazir Offering' and precedes the klal u'prat challenge described under heading 1.",
+      "chosen_heading": "Nazir Offering",
+      "current_heading": "Nazir Offering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Klal U'Prat",
+    "candidates": [
+      "Klal U'Prat",
+      "Incomplete Generalization"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav A\u1e25a bar Abba's klal u'prat objection to Rava, which is precisely what the prose under heading 0 describes \u2014 the current placement is correct.",
+      "chosen_heading": "Klal U'Prat",
+      "current_heading": "Klal U'Prat",
+      "moved": false
+    }
+  }
+]

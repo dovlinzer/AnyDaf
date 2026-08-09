@@ -24,8 +24,8 @@
           "timestamp": "01:03"
         }
       ],
-      "sefaria_index": 16,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Shmuel's Position: Ketanah Requires Both Get and Mi'un",
@@ -54,7 +54,7 @@
         }
       ],
       "sefaria_index": 16,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Rav Acha's Explanation: The Dual-Purpose Requirement of Get and Mi'un",
@@ -254,8 +254,8 @@
           "timestamp": "55:00"
         }
       ],
-      "sefaria_index": 12,
-      "matched": true
+      "sefaria_index": 9,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -470,5 +470,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 6
+  "amud_b_sefaria_index": 6,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "40:20",
+  "amud_b_micro_title": "Father & Son",
+  "shiur_start_daf": 45,
+  "shiur_start_amud": "a"
 }

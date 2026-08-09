@@ -1,0 +1,238 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Three Stages",
+    "candidates": [
+      "Mishna Overview",
+      "Three Stages",
+      "Lo Mibaya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage identifies the ruling as Rabbi Yosei's opinion that verbal directives cannot be delegated to an agent, which is precisely the principle ('mili lo mimseran leshaliach') that the 'Mishna Overview' prose explicitly discusses in connection with the mishna at 72a and Rabbi Yosi's view.",
+      "chosen_heading": "Mishna Overview",
+      "current_heading": "Three Stages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Lo Mibaya",
+    "candidates": [
+      "Three Stages",
+      "Lo Mibaya",
+      "Yishme'u Kolo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly address the gemara's resolution of the mishna's attribution \u2014 the pitfall argument against Rabbi Yosei conceding on 'omer imru,' the 'ella machvarta' conclusion attributing reisha to Rabbi Meir and seifa to Rabbi Yosei, and Rav Ashi's 'lo mibaya' reading of the entire mishna as Rabbi Yosei \u2014 all of which are explicitly discussed in the 'Lo Mibaya' section's prose.",
+      "chosen_heading": "Lo Mibaya",
+      "current_heading": "Lo Mibaya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Yishme'u Kolo",
+    "candidates": [
+      "Yishme'u Kolo",
+      "Non-Verbal Comm",
+      "Four Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the baraita supporting Rav Ashi's position and the gemara's inference from 'yishme'u kolo' to exclude Rav Kahana's view, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Yishme'u Kolo",
+      "current_heading": "Yishme'u Kolo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Four Cases",
+    "candidates": [
+      "Non-Verbal Comm",
+      "Four Cases",
+      "Im/When"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the mishna presenting the four cases of deathbed get formulations, which is precisely what the 'Four Cases' prose describes \u2014 the valid vs. invalid formulations including 'mehayom im mati', 'get ve'eino get', and the assessment of whether death came from the first illness.",
+      "chosen_heading": "Four Cases",
+      "current_heading": "Four Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Im/When",
+    "candidates": [
+      "Im/When",
+      "Mecholi Zeh",
+      "Abaye's Answer",
+      "Rav Huna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items present Abaye's resolution of the contradiction between the two clauses of the mishna regarding 'im mati' \u2014 exactly the content described in candidate 2's prose about Abaye answering why im mati carries two meanings and how mehayom disambiguates it.",
+      "chosen_heading": "Abaye's Answer",
+      "current_heading": "Im/When",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rav Huna",
+    "candidates": [
+      "Mecholi Zeh",
+      "Abaye's Answer",
+      "Rav Huna",
+      "Contradiction",
+      "Zmano Shel Shtar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna's 'im mati' case and Rav Huna's ruling that chalitza is required, which is precisely what the 'Rav Huna' section's prose discusses.",
+      "chosen_heading": "Rav Huna",
+      "current_heading": "Rav Huna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Zmano Shel Shtar",
+    "candidates": [
+      "Contradiction",
+      "Zmano Shel Shtar",
+      "Written vs. Verbal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Zmano Shel Shtar",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20136 discuss the mishna's interpretation, Rav Huna's reliance on Rabbi Yosi's principle of zmano shel shtar, and the Rabbah bar Avuha episode \u2014 all content explicitly described in the 'Zmano Shel Shtar' prose.",
+      "second_heading": "Written vs. Verbal",
+      "second_confidence": "high",
+      "second_reason": "Items 7\u20139 address precisely the uncertainty about whether Rabbi Yosi's principle applies when the condition is verbal rather than written \u2014 the exact question described in the 'Written vs. Verbal' prose.",
+      "current_heading": "Zmano Shel Shtar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Written vs. Verbal",
+    "candidates": [
+      "Written vs. Verbal",
+      "Halacha K'RY"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states that Rav Huna is uncertain whether the halakha follows Rabbi Yosei when the condition is verbal, which is precisely the conclusion the 'Halacha K'RY' prose section builds toward \u2014 that Rava's matter is clear while Rav Huna's question about verbal condition versus written date remains genuinely open.",
+      "chosen_heading": "Halacha K'RY",
+      "current_heading": "Written vs. Verbal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Halacha K'RY",
+    "candidates": [
+      "Halacha K'RY",
+      "Rava's Phrases",
+      "Contradiction",
+      "Two Kulot",
+      "Rabbi's Position",
+      "Kisvu Vetenu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain \u2014 Rava's ruling on 'im mati' vs 'kishe'amut', the gemara's question about whether Rava's case implies ruling like Rabbi Yosi, and the resolution distinguishing Rava's clarity from Rav Huna's uncertainty \u2014 which precisely matches the 'Halacha K'RY' prose describing this exact dialectic.",
+      "chosen_heading": "Halacha K'RY",
+      "current_heading": "Halacha K'RY",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Kisvu Vetenu",
+    "candidates": [
+      "Rava's Phrases",
+      "Contradiction",
+      "Two Kulot",
+      "Rabbi's Position",
+      "Kisvu Vetenu"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rava's Phrases",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 concern the alternative version of Rav Huna's statement applied to the seifa (le'achar mita) and the question of whether Rabbi Yosei and Rabbi hold the same view, which matches heading 0's description of the alternative version of Rav Huna's position and the tension between Rabbi Yosi and Rabbi.",
+      "second_heading": "Rabbi's Position",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 cite the baraita and mishna demonstrating the independent positions of Rabbi Yehuda HaNasi (mehayom ule'achar mita) and Rabbi Yosei (kisvu vetenu), matching headings 3 and 4's prose about Rabbi's position and the kisvu vetenu case respectively \u2014 and since item 4 begins the explicit citation of these two independent kulot, it belongs under heading 3 ('Rabbi's Position') which introduces the baraita, with items 5-6 continuing through heading 4.",
+      "current_heading": "Kisvu Vetenu",
+      "moved": true
+    }
+  }
+]

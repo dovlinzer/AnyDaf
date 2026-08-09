@@ -1,0 +1,688 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Sicricon Existence",
+    "candidates": [
+      "Sicricon Existence",
+      "Rav Assi's Edicts",
+      "Sale Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's initial challenge about Sicarii existence during vs. after the war, which is precisely what the 'Sicricon Existence' prose describes and quotes directly.",
+      "chosen_heading": "Sicricon Existence",
+      "current_heading": "Sicricon Existence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Sale Doctrine",
+    "candidates": [
+      "Rav Assi's Edicts",
+      "Sale Doctrine",
+      "Third Edict Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 Rav Yehuda's statement and Rabbi Asi's three decrees \u2014 is exactly what heading 0 ('Rav Assi's Edicts') describes in its prose, while the current placement under 'Sale Doctrine' covers the halachic consequences derived from those decrees, not the decrees themselves.",
+      "chosen_heading": "Rav Assi's Edicts",
+      "current_heading": "Sale Doctrine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Third Edict Rights",
+    "candidates": [
+      "Sale Doctrine",
+      "Third Edict Rights",
+      "Narrative Setup",
+      "Rabbi Yochanan's Verse",
+      "Causes of Destruction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the owner's reasoning during the last/third decree \u2014 'now let him take it, tomorrow I will claim it in court' \u2014 which is precisely what the 'Third Edict Rights' prose discusses, including the same Aramaic phrase and the legal consequence that the owner never fully consented to the transfer.",
+      "chosen_heading": "Third Edict Rights",
+      "current_heading": "Third Edict Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Causes of Destruction",
+    "candidates": [
+      "Narrative Setup",
+      "Rabbi Yochanan's Verse",
+      "Causes of Destruction",
+      "Feast & Mistake"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yochanan's verse and the three causes of destruction as a single unit, and candidate 1 ('Rabbi Yochanan's Verse') is the section whose prose explicitly introduces and discusses this verse as the thematic opening, while candidate 2 treats the three destructions as a separate follow-on \u2014 but since the Gemara presents the verse and the three destructions together in one continuous statement, the passage fits best under the heading that introduces Rabbi Yochanan's verse, which is where the passage actually begins.",
+      "chosen_heading": "Rabbi Yochanan's Verse",
+      "current_heading": "Causes of Destruction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Feast & Mistake",
+    "candidates": [
+      "Causes of Destruction",
+      "Feast & Mistake",
+      "Bar Kamtza Pleas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the destruction of Jerusalem through Kamtza and Bar Kamtza as one of three named causes, which matches the 'Causes of Destruction' section's prose that explicitly introduces this same framing, whereas the 'Feast & Mistake' section's prose paraphrases the exact same Aramaic text, suggesting the quoted passage should sit under the heading that introduces it rather than under a heading that merely restates it.",
+      "chosen_heading": "Causes of Destruction",
+      "current_heading": "Feast & Mistake",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Bar Kamtza Pleas",
+    "candidates": [
+      "Bar Kamtza Pleas",
+      "Public Expulsion",
+      "Caesar & Sacrifice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items depict the escalating pleas of bar Kamtza and his ultimate expulsion, which is precisely what the 'Bar Kamtza Pleas' prose section describes in detail, including the three offers of payment and the final physical removal.",
+      "chosen_heading": "Bar Kamtza Pleas",
+      "current_heading": "Bar Kamtza Pleas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Caesar & Sacrifice",
+    "candidates": [
+      "Public Expulsion",
+      "Caesar & Sacrifice",
+      "Peace Consideration",
+      "Zechariah's Refusal",
+      "Kill Bar Kamtza Plan",
+      "Yochanan Blames Zechariah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Caesar & Sacrifice",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover bar Kamtza going to Caesar, proposing the sacrifice test, and introducing the blemish \u2014 exactly what the 'Caesar & Sacrifice' prose describes.",
+      "second_heading": "Peace Consideration",
+      "second_confidence": "high",
+      "second_reason": "Item 3 covers the rabbis' deliberation about offering the blemished animal for peace with the government, which is precisely what the 'Peace Consideration' prose addresses.",
+      "current_heading": "Caesar & Sacrifice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Yochanan Blames Zechariah",
+    "candidates": [
+      "Peace Consideration",
+      "Zechariah's Refusal",
+      "Kill Bar Kamtza Plan",
+      "Yochanan Blames Zechariah",
+      "Arrow Divination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's direct statement blaming Zechariah's humility for the Temple's destruction, which is precisely what the 'Yochanan Blames Zechariah' section's prose discusses and quotes.",
+      "chosen_heading": "Yochanan Blames Zechariah",
+      "current_heading": "Yochanan Blames Zechariah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Arrow Divination",
+    "candidates": [
+      "Arrow Divination",
+      "Child's Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Nero shooting arrows in all four directions and each falling in Jerusalem, which is precisely what the 'Arrow Divination' section's prose discusses.",
+      "chosen_heading": "Arrow Divination",
+      "current_heading": "Arrow Divination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Child's Verse",
+    "candidates": [
+      "Child's Verse",
+      "Nero Converts",
+      "Rabbi Meir Lineage",
+      "Vespasian & Siege",
+      "Three Wealthy Men"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the child's verse through Nero's conversion and Rabbi Meir's lineage as one continuous narrative unit, and the current heading 'Child's Verse' with its prose about the child reciting the pasuk is where this full sequence begins \u2014 however, since all items must go under ONE heading and the passage spans multiple sub-topics, the current placement at index 0 is the best single match as it introduces the scene that triggers everything else.",
+      "chosen_heading": "Child's Verse",
+      "current_heading": "Child's Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Three Wealthy Men",
+    "candidates": [
+      "Nero Converts",
+      "Rabbi Meir Lineage",
+      "Vespasian & Siege",
+      "Three Wealthy Men",
+      "Support Offerings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes both the siege by Vespasian and the three wealthy men, but its content spans the transition into the three wealthy men section, and the current placement under 'Three Wealthy Men' is correct since the Vespasian/siege content is already covered by candidate 2's prose while this passage's unique content (the names and explanations of the three wealthy men) matches candidate 3's prose exactly.",
+      "chosen_heading": "Three Wealthy Men",
+      "current_heading": "Three Wealthy Men",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Support Offerings",
+    "candidates": [
+      "Support Offerings",
+      "Zealots Burn Food"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the three wealthy men's offerings and the praise for the firewood donor, which is exactly what the 'Support Offerings' prose discusses, including the Rav \u1e24isda teaching and the twenty-one year supply \u2014 all before the zealots' burning in the next section.",
+      "chosen_heading": "Support Offerings",
+      "current_heading": "Support Offerings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Zealots Burn Food",
+    "candidates": [
+      "Zealots Burn Food",
+      "Martha's Flour Quest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the zealots burning the wheat and barley storehouses, which matches exactly the prose under 'Zealots Burn Food' discussing the biryoni blocking peace, rejecting the rabbis' counsel, and burning the ambarei.",
+      "chosen_heading": "Zealots Burn Food",
+      "current_heading": "Zealots Burn Food",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Martha's Flour Quest",
+    "candidates": [
+      "Martha's Flour Quest",
+      "Martha's Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Martha's repeated attempts to obtain flour through her agent, which matches exactly the prose under 'Martha's Flour Quest' and not the 'Martha's Death' section which covers her going out herself and dying.",
+      "chosen_heading": "Martha's Flour Quest",
+      "current_heading": "Martha's Flour Quest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Martha's Death",
+    "candidates": [
+      "Martha's Death",
+      "Martha's Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Martha removing her shoes, going out to find food, stepping in dung, and dying \u2014 exactly what the 'Martha's Death' prose section discusses.",
+      "chosen_heading": "Martha's Death",
+      "current_heading": "Martha's Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Martha's Verse",
+    "candidates": [
+      "Martha's Verse",
+      "Rabbi Tzadok Fast",
+      "Martha's Wealth Cast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabban Yochanan ben Zakkai's verse about Martha and the alternative tradition about Rabbi Tzadok's fig, which is exactly what the 'Martha's Verse' section prose describes, and the current placement is correct.",
+      "chosen_heading": "Martha's Verse",
+      "current_heading": "Martha's Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Martha's Wealth Cast",
+    "candidates": [
+      "Rabbi Tzadok Fast",
+      "Martha's Wealth Cast",
+      "Family Connection",
+      "Confrontation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Martha throwing her gold and silver into the marketplace as she was dying, which matches exactly the prose of heading 1 ('Martha's Wealth Cast') that discusses this same act and the same verse from Ezekiel.",
+      "chosen_heading": "Martha's Wealth Cast",
+      "current_heading": "Martha's Wealth Cast",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Confrontation",
+    "candidates": [
+      "Family Connection",
+      "Confrontation",
+      "Sikara's Dilemma",
+      "Fake Death Plan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three elements \u2014 Abba Sikkara's identity as leader of the zealots, his family connection to Rabban Yochanan, the secret meeting, the confrontation about starvation, his dilemma, and the request for an escape plan \u2014 but the essay has split these into separate headings, while the Talmudic text itself is one continuous unit that most naturally anchors under 'Family Connection' where the introduction of Abba Sikkara begins, since that heading's prose matches the opening of this passage and the subsequent headings' prose already describes the content of this single quoted block.",
+      "chosen_heading": "Family Connection",
+      "current_heading": "Confrontation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Fake Death Plan",
+    "candidates": [
+      "Sikara's Dilemma",
+      "Fake Death Plan",
+      "Gate Escape"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the specific details of the fake death plan (feigning illness, placing putrid matter, having only students carry the coffin), which directly matches the prose under 'Fake Death Plan' that discusses exactly these elements including the 'denach nafshach' and 'dekalil at' references.",
+      "chosen_heading": "Fake Death Plan",
+      "current_heading": "Fake Death Plan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Gate Escape",
+    "candidates": [
+      "Gate Escape",
+      "Vespasian Meeting",
+      "Identity Challenge",
+      "Scripture Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Gate Escape' prose discusses: Rabbi Eliezer and Rabbi Yehoshua carrying the coffin, the zealot guards wanting to pierce and push it, Abba Sikara's deflections, and the gate opening.",
+      "chosen_heading": "Gate Escape",
+      "current_heading": "Gate Escape",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Scripture Proof",
+    "candidates": [
+      "Vespasian Meeting",
+      "Identity Challenge",
+      "Scripture Proof",
+      "Parable",
+      "Response Failure"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Response Failure",
+    "candidates": [
+      "Parable",
+      "Response Failure",
+      "Vespasian Crowned"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Vespasian Crowned",
+    "candidates": [
+      "Vespasian Crowned",
+      "Swollen Feet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the arrival of the messenger AND the shoe problem in one continuous scene, and candidate 1 ('Swollen Feet') explicitly discusses both elements together (the shoe not fitting and Rabban Yochanan's explanation), making it the clearly better match for this combined content.",
+      "chosen_heading": "Swollen Feet",
+      "current_heading": "Vespasian Crowned",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Swollen Feet",
+    "candidates": [
+      "Vespasian Crowned",
+      "Swollen Feet",
+      "Pride Deflation",
+      "Why Not Sooner",
+      "Zealot Barrier",
+      "Three Grants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both the good tidings/swollen feet exchange AND the 'why didn't you come sooner' dialogue, but the 'Why Not Sooner' section (index 3) is the culminating exchange of this passage, and the swollen feet content is already covered by the 'Swollen Feet' and 'Pride Deflation' prose \u2014 however, looking more carefully, the passage contains all three elements (good tidings, remedy, why not sooner), and index 3's prose specifically discusses the 'why not sooner' question which is the final and distinctive element of this passage, making it the best single match, though medium confidence since the passage spans multiple sections.",
+      "chosen_heading": "Why Not Sooner",
+      "current_heading": "Swollen Feet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Three Grants",
+    "candidates": [
+      "Pride Deflation",
+      "Why Not Sooner",
+      "Zealot Barrier",
+      "Three Grants",
+      "Doctors Request",
+      "Wisdom Diminished",
+      "Better Answer",
+      "Yochanan's Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers Vespasian's offer and Rabban Yochanan's three requests (Yavne, dynasty of Rabban Gamliel, doctors for Rabbi Tzadok) plus the verse critique, all of which are discussed together under 'Three Grants' prose.",
+      "chosen_heading": "Three Grants",
+      "current_heading": "Three Grants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Yochanan's Fear",
+    "candidates": [
+      "Doctors Request",
+      "Wisdom Diminished",
+      "Better Answer",
+      "Yochanan's Fear",
+      "Gradual Nutrition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states Rabban Yochanan's fear that Vespasian might not grant even a modest request, which is precisely what the 'Yochanan's Fear' section prose discusses.",
+      "chosen_heading": "Yochanan's Fear",
+      "current_heading": "Yochanan's Fear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Gradual Nutrition",
+    "candidates": [
+      "Gradual Nutrition",
+      "Stomach Expansion",
+      "Holy of Holies Act"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the specific remedies given to Rabbi Tzadok (bran water, bran-flour water, flour water) which is exactly what the 'Gradual Nutrition' prose discusses in clinical detail, while 'Stomach Expansion' prose focuses only on the concluding phrase about the stomach broadening.",
+      "chosen_heading": "Gradual Nutrition",
+      "current_heading": "Gradual Nutrition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160,
+      161
+    ],
+    "current_heading": "Holy of Holies Act",
+    "candidates": [
+      "Stomach Expansion",
+      "Holy of Holies Act",
+      "Parochet Pierce",
+      "God's Silence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together describe Titus's entry into the Holy of Holies and his acts of desecration there, which is precisely what the 'Holy of Holies Act' prose discusses \u2014 the verse identifying Titus, his taking a prostitute into the Holy of Holies, and his desecration of the Torah scroll.",
+      "chosen_heading": "Holy of Holies Act",
+      "current_heading": "Holy of Holies Act",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      167
+    ],
+    "current_heading": "God's Silence",
+    "candidates": [
+      "Parochet Pierce",
+      "God's Silence",
+      "Vessel Plunder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Abba \u1e24anan and school of Rabbi Yishmael teachings about God's silence in the face of Titus's blasphemy, which is precisely what the 'God's Silence' section prose discusses.",
+      "chosen_heading": "God's Silence",
+      "current_heading": "God's Silence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      172,
+      173
+    ],
+    "current_heading": "Vessel Plunder",
+    "candidates": [
+      "Vessel Plunder",
+      "Wave Challenge",
+      "Gnat Plague"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Titus gathering the Temple vessels and the Kohelet verse reinterpretation, which is precisely what the 'Vessel Plunder' prose describes in detail.",
+      "chosen_heading": "Vessel Plunder",
+      "current_heading": "Vessel Plunder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      179,
+      180
+    ],
+    "current_heading": "Gnat Plague",
+    "candidates": [
+      "Wave Challenge",
+      "Gnat Plague",
+      "Gnat Entry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Titus's wave challenge/theological boast and the Divine Voice's response introducing the gnat \u2014 form a continuous narrative that the 'Wave Challenge' prose explicitly describes, including the bat kol's declaration about the lowly creature, whereas the current 'Gnat Plague' heading's prose already covers this same content redundantly, suggesting the passage was misplaced one heading too late.",
+      "chosen_heading": "Wave Challenge",
+      "current_heading": "Gnat Plague",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      184
+    ],
+    "current_heading": "Gnat Entry",
+    "candidates": [
+      "Gnat Plague",
+      "Gnat Entry",
+      "Blacksmith Relief",
+      "Daily Visits",
+      "Immunity Develops",
+      "Gnat Growth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The passage spans multiple sections (gnat entry, blacksmith relief, daily visits, and immunity develops), but its current placement under 'Gnat Entry' is as reasonable as any single heading since the passage covers all these events together; however, the content most centrally encompasses the blacksmith and immunity narrative rather than just the entry, making this a low-confidence placement that could reasonably sit under multiple headings.",
+      "chosen_heading": "Gnat Entry",
+      "current_heading": "Gnat Entry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      194,
+      195
+    ],
+    "current_heading": "Gnat Growth",
+    "candidates": [
+      "Blacksmith Relief",
+      "Daily Visits",
+      "Immunity Develops",
+      "Gnat Growth",
+      "Cremation Order",
+      "Afterlife Fear"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gnat Growth",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the size of the gnat found in Titus's skull after death, which is exactly what the 'Gnat Growth' prose discusses.",
+      "second_heading": "Cremation Order",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Titus's deathbed command to cremate and scatter his ashes, which is precisely what the 'Cremation Order' prose describes.",
+      "current_heading": "Gnat Growth",
+      "moved": true
+    }
+  }
+]

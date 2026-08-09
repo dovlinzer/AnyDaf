@@ -1,0 +1,354 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "City Wall Obligations",
+    "candidates": [
+      "Guard's Gate Obligation",
+      "Shimon ben Gamliel",
+      "City Wall Obligations",
+      "Residency Duration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full mishna covering both the gatehouse/courtyard obligation and the city wall obligation, and its content \u2014 including Rabban Shimon ben Gamliel's dissent \u2014 is introduced and framed under the 'Guard's Gate Obligation' heading (candidate 0), which describes the mishna opening with kofin oso livnos beis sha'ar u'deles le'chatzer and the broader communal responsibility framework.",
+      "chosen_heading": "Guard's Gate Obligation",
+      "current_heading": "City Wall Obligations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Residency Duration",
+    "candidates": [
+      "City Wall Obligations",
+      "Residency Duration",
+      "Pious Sage Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the twelve-month residency requirement and immediate status upon purchasing a home, which is precisely what the 'Residency Duration' section's prose addresses.",
+      "chosen_heading": "Residency Duration",
+      "current_heading": "Residency Duration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Pious Sage Story",
+    "candidates": [
+      "Pious Sage Story",
+      "Multiple Resolutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's challenge about the pious man and Elijah plus the series of resolutions distinguishing gatehouse configurations, which is exactly what candidate 1 ('Multiple Resolutions') describes in its prose, while candidate 0 ('Pious Sage Story') covers only the narrative background without the resolutions.",
+      "chosen_heading": "Multiple Resolutions",
+      "current_heading": "Pious Sage Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Multiple Resolutions",
+    "candidates": [
+      "Pious Sage Story",
+      "Multiple Resolutions",
+      "Per Person vs. Wealth",
+      "Proximity vs. Income",
+      "Tosafot Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita of Rabban Shimon ben Gamliel distinguishing courtyards adjacent to the public domain from those that are not, which is explicitly discussed and contextualized in the 'Multiple Resolutions' prose section.",
+      "chosen_heading": "Multiple Resolutions",
+      "current_heading": "Multiple Resolutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Tosafot Analysis",
+    "candidates": [
+      "Per Person vs. Wealth",
+      "Proximity vs. Income",
+      "Tosafot Analysis",
+      "Nesi'ah & Resh Lakish"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Per Person vs. Wealth",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about compelling residents to build a wall (doors/crossbar, border cities), which is introductory material that precedes the tax-distribution question; but it naturally leads into and sits under 'Per Person vs. Wealth' since that section opens with the communal obligation framework and immediately addresses the collection question that items 2-3 discuss \u2014 however, item 1 actually belongs under a heading discussing the compulsion to build, which is heading 0's opening context.",
+      "second_heading": "Proximity vs. Income",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are precisely the per-capita vs. wealth question and the proximity vs. wealth question discussed in headings 0 and 1 respectively, but since both versions of the Rabbi Elazar/Rabbi Yochanan exchange are a continuous pair, they belong together; the current placement under 'Tosafot Analysis' is wrong \u2014 item 2 belongs under 'Per Person vs. Wealth' (index 0) and item 3 under 'Proximity vs. Income' (index 1), but as a single passage they are better placed at index 0 where the discussion begins.",
+      "current_heading": "Tosafot Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Nesi'ah & Resh Lakish",
+    "candidates": [
+      "Tosafot Analysis",
+      "Nesi'ah & Resh Lakish",
+      "Poll Tax Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous narrative about Rabbi Yehuda Nesia imposing the wall tax on Sages, Resh Lakish's objection with the Psalms proof, the kal va-chomer about deeds protecting like sand, Rabbi Yochanan's alternative verse from Shir HaShirim, and Resh Lakish's explanation via Rava's interpretation \u2014 exactly the content described in the 'Nesi'ah & Resh Lakish' prose.",
+      "chosen_heading": "Nesi'ah & Resh Lakish",
+      "current_heading": "Nesi'ah & Resh Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Poll Tax Dispute",
+    "candidates": [
+      "Poll Tax Dispute",
+      "Biblical Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the poll tax dispute between Rav Nachman bar Rav Chisda and Rav Nachman bar Yitzchak, which is precisely what the 'Poll Tax Dispute' section prose summarizes.",
+      "chosen_heading": "Poll Tax Dispute",
+      "current_heading": "Poll Tax Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Biblical Proofs",
+    "candidates": [
+      "Biblical Proofs",
+      "Tax Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the biblical proofs for Torah scholars' tax exemption (from Torah, Prophets, and Writings respectively), which is precisely what the 'Biblical Proofs' prose section discusses in detail.",
+      "chosen_heading": "Biblical Proofs",
+      "current_heading": "Biblical Proofs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Tax Categories",
+    "candidates": [
+      "Tax Categories",
+      "Yonatan's Deception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address tax obligations for orphans and rabbis regarding cisterns and city gates, which is precisely the content discussed in the 'Tax Categories' prose section.",
+      "chosen_heading": "Tax Categories",
+      "current_heading": "Tax Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Yonatan's Deception",
+    "candidates": [
+      "Yonatan's Deception",
+      "Yonatan Revealed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scene discussed in candidate 0's prose \u2014 Rabbi opening storehouses, restricting entry, Yonatan entering and requesting food, and Rabbi feeding him \u2014 which is the content of 'Yonatan's Deception,' not the subsequent revelation discussed in candidate 1.",
+      "chosen_heading": "Yonatan's Deception",
+      "current_heading": "Yonatan's Deception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Yonatan Revealed",
+    "candidates": [
+      "Yonatan Revealed",
+      "Illiteracy & Calamity",
+      "King's Crown Tax"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the events covered in 'Yonatan Revealed' prose: Rabbi's distress after Yonatan left, Shimon bar Rabbi's suggestion, the investigation, and Rabbi's decision to let everyone enter.",
+      "chosen_heading": "Yonatan Revealed",
+      "current_heading": "Yonatan Revealed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "King's Crown Tax",
+    "candidates": [
+      "Illiteracy & Calamity",
+      "King's Crown Tax",
+      "Caravan Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Tiberias crown-tax story that illustrates Rabbi's principle that suffering comes only due to ignoramuses, and candidate 0 ('Illiteracy & Calamity') is specifically about that principle and story, while candidate 1 ('King's Crown Tax') contains unrelated material about Shmuel bar Shilat, the Rashash, and caravan cases that belong elsewhere.",
+      "chosen_heading": "Illiteracy & Calamity",
+      "current_heading": "King's Crown Tax",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Caravan Case",
+    "candidates": [
+      "King's Crown Tax",
+      "Caravan Case",
+      "Graduated Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita about the caravan (chameret/gamelet) and its thirty-day threshold, which is precisely the content described in the 'Caravan Case' prose \u2014 the contradiction raised against the mishna's twelve-month rule and the baraita's ruling about stoning vs. sword based on duration of stay.",
+      "chosen_heading": "Caravan Case",
+      "current_heading": "Caravan Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Graduated Timeline",
+    "candidates": [
+      "Graduated Timeline",
+      "All Contribute to Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Graduated Timeline' section's prose, which explicitly discusses Rava's resolution distinguishing livnei masta from yishuvei masta and the graduated baraita timeline (tamchui, kuppa, clothing, burial, passei ha-ir), exactly matching the content of items 1 and 2.",
+      "chosen_heading": "Graduated Timeline",
+      "current_heading": "Graduated Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "All Contribute to Walls",
+    "candidates": [
+      "All Contribute to Walls",
+      "Orphan Charity Tax"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses contributions to city walls, horsemen, and armory guards \u2014 exactly the content described in the 'All Contribute to Walls' prose, which explicitly references Rav Assi, Rabbi Yochanan, Rav Pappa, and the same governing principle.",
+      "chosen_heading": "All Contribute to Walls",
+      "current_heading": "All Contribute to Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Orphan Charity Tax",
+    "candidates": [
+      "Orphan Charity Tax",
+      "Status in Society",
+      "Ifra's Donation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabba's imposition of tzedakah on orphans and Abaye's objection citing the baraita about not imposing tzedakah on orphans even for pidyon shvuyim, which is precisely what the 'Orphan Charity Tax' section's prose describes.",
+      "chosen_heading": "Orphan Charity Tax",
+      "current_heading": "Orphan Charity Tax",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Ifra's Donation",
+    "candidates": [
+      "Status in Society",
+      "Ifra's Donation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Ifra Hormiz story \u2014 her donation, Rav Yosef's deliberation, and Abaye's inference that pidyon shvuyim is the great mitzvah \u2014 which is precisely what the 'Ifra's Donation' prose describes.",
+      "chosen_heading": "Ifra's Donation",
+      "current_heading": "Ifra's Donation",
+      "moved": false
+    }
+  }
+]

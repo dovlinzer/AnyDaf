@@ -1,0 +1,278 @@
+[
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Placement Objection",
+    "candidates": [
+      "Perek Focus",
+      "Torah Interpretation",
+      "Tragic Opening",
+      "Chiddush Element",
+      "Father's Position",
+      "Bnot Tzelofchad",
+      "Inheritance Order",
+      "Ve'avarta Language",
+      "Tribe Transfer",
+      "Father's Slot",
+      "Father Before Brother",
+      "Mishmash Mechanism",
+      "Pattern Principle",
+      "She'ero=Father",
+      "Son Primacy",
+      "Father vs. Daughter",
+      "Daughter Continuation",
+      "Family Structure",
+      "Placement Objection",
+      "Logical Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 19,
+      "confidence": "high",
+      "reason": "The passage is a baraita and Gemara discussion deriving the father's position in the inheritance order relative to brothers, sons, daughters, and uncles \u2014 precisely what candidate 19 ('Logical Derivation') discusses, culminating in the point that no special pasuk is needed to establish father before his own brothers, which is the direct resolution the prose describes.",
+      "chosen_heading": "Logical Derivation",
+      "current_heading": "Placement Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Logical Derivation",
+    "candidates": [
+      "Placement Objection",
+      "Logical Derivation",
+      "No Indicator Needed",
+      "Textual Indicator"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's logical derivation that no verse is needed for father-before-uncles because the father's brothers inherit only by virtue of the father, matching exactly the 'Logical Derivation' section's prose about achei ha-av lo tzrichi kra and mikoach av.",
+      "chosen_heading": "Logical Derivation",
+      "current_heading": "Logical Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Textual Indicator",
+    "candidates": [
+      "No Indicator Needed",
+      "Textual Indicator",
+      "Ve'avarta Drasha"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Ve'avarta Drasha",
+    "candidates": [
+      "Ve'avarta Drasha",
+      "Away From Father",
+      "Daughters From Brother",
+      "Father Before Daughter",
+      "Ve'avarta Necessity",
+      "Patriarchy Disruption",
+      "Husband Inherits Wife",
+      "Closest Flesh",
+      "Onah & Flesh",
+      "Ramban Sustenance",
+      "One Flesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: item 1 presents Rabbi Yishmael berabi Yosei's drasha using ve'ha'avartem, item 2 raises the challenge that perhaps it means passing from brothers, and item 3 raises and rejects the alternative that the father precedes even daughters \u2014 this entire sequence belongs under the 'Ve'avarta Drasha' heading which introduces this exact derivation.",
+      "chosen_heading": "Ve'avarta Drasha",
+      "current_heading": "Ve'avarta Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "One Flesh",
+    "candidates": [
+      "Away From Father",
+      "Daughters From Brother",
+      "Father Before Daughter",
+      "Ve'avarta Necessity",
+      "Patriarchy Disruption",
+      "Husband Inherits Wife",
+      "Closest Flesh",
+      "Onah & Flesh",
+      "Ramban Sustenance",
+      "One Flesh",
+      "Transfer Vs. Give",
+      "Tribe Transfer Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the alternative use of 'she'ero' to derive that a husband inherits from his wife, which is precisely what the 'Husband Inherits Wife' section's prose addresses.",
+      "chosen_heading": "Husband Inherits Wife",
+      "current_heading": "One Flesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Tribe Transfer Reason",
+    "candidates": [
+      "Transfer Vs. Give",
+      "Tribe Transfer Reason",
+      "Husband Inheritance",
+      "Dual Meaning",
+      "Levitical Reference",
+      "Different Sources",
+      "Father Insertion",
+      "Wife Reference",
+      "Mother vs. Daughter",
+      "Father's Family Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yehuda HaNasi's drasha on ve'ha'avartem contrasting the language of 'giving' used for all other heirs with 'passing/transferring' used for daughters, which is precisely what the 'Transfer Vs. Give' heading's prose describes.",
+      "chosen_heading": "Transfer Vs. Give",
+      "current_heading": "Tribe Transfer Reason",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Father's Family Only",
+    "candidates": [
+      "Husband Inheritance",
+      "Dual Meaning",
+      "Levitical Reference",
+      "Different Sources",
+      "Father Insertion",
+      "Wife Reference",
+      "Mother vs. Daughter",
+      "Father's Family Only",
+      "Father-Defined Family"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is asking how we know 'she'ero' refers to the father via the verse 'she'er avicha hi,' and then raising the counter-possibility that it refers to the mother via 'she'er imcha hi' \u2014 exactly the content described in the 'Levitical Reference' prose about she'er appearing in the Torah in the context of marital/familial connections with the verse she'er avicha hi.",
+      "chosen_heading": "Levitical Reference",
+      "current_heading": "Father's Family Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Father-Defined Family",
+    "candidates": [
+      "Father's Family Only",
+      "Father-Defined Family",
+      "Household Evidence",
+      "Apparent Contradiction",
+      "Paternal Tribe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's statement establishing the principle that the father's family is called 'mishpacha' while the mother's family is not, which directly matches heading 0's prose about this foundational principle \u2014 heading 1 discusses the implications for inheritance and notes the gemara 'will turn shortly to the textual basis,' indicating the actual proof text belongs under the preceding heading 0.",
+      "chosen_heading": "Father's Family Only",
+      "current_heading": "Father-Defined Family",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Paternal Tribe",
+    "candidates": [
+      "Household Evidence",
+      "Apparent Contradiction",
+      "Paternal Tribe",
+      "True Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the textual challenge from Judges 17:7 (the apparent contradiction of 'family of Judah' vs. 'he was a Levite') and the Gemara's resolution attempt via Rava bar Rav \u1e24anan (that 'Levi' was merely his name), which is precisely what the 'Apparent Contradiction' prose describes \u2014 the internal difficulty of the verse and the competing explanations \u2014 rather than the 'Paternal Tribe' section which already summarizes and moves past this material.",
+      "chosen_heading": "Apparent Contradiction",
+      "current_heading": "Paternal Tribe",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "True Identity",
+    "candidates": [
+      "Paternal Tribe",
+      "True Identity",
+      "Menashe Association"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly challenges the 'his name was Levi' reading by revealing his true name was Yehonatan ben Gershom ben Menashe, and questioning whether he was truly son of Menashe or son of Moshe \u2014 exactly what the 'True Identity' prose section describes.",
+      "chosen_heading": "True Identity",
+      "current_heading": "True Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Menashe Association",
+    "candidates": [
+      "Menashe Association",
+      "Idolater Association",
+      "Daughters Only",
+      "Daughter vs. Mother",
+      "Exclusive Patrilineality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that 'mi-mishpachat Yehuda' refers to behaving like Manasseh who came from Judah, not literal genealogy \u2014 which is precisely what the 'Idolater Association' prose section discusses as the Gemara's resolution rescuing the principle that mishpachat em einah keruyah mishpacha.",
+      "chosen_heading": "Idolater Association",
+      "current_heading": "Menashe Association",
+      "moved": true
+    }
+  }
+]

@@ -121,7 +121,7 @@
           "timestamp": "21:18"
         }
       ],
-      "sefaria_index": 38,
+      "sefaria_index": 37,
       "matched": true
     },
     {
@@ -308,8 +308,8 @@
           "timestamp": "34:07"
         }
       ],
-      "sefaria_index": 41,
-      "matched": false
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Androgynous as Possible Separate Gender: Scriptural Exclusion Analysis",
@@ -338,7 +338,7 @@
         }
       ],
       "sefaria_index": 4,
-      "matched": true
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -578,5 +578,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 24
+  "amud_b_sefaria_index": 24,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "06:47",
+  "amud_b_micro_title": "Goat vs. Sheep",
+  "shiur_start_daf": 40,
+  "shiur_start_amud": "a"
 }

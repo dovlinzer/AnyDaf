@@ -1,0 +1,357 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rav Shizvi: Brit Milah",
+    "candidates": [
+      "Rav Ami: Tumtum",
+      "Rav Shizvi: Brit Milah",
+      "Rav Sharvia: Tumat Leida"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Sheizevi's ruling that a tumtum is not circumcised on the eighth day in a manner that overrides Shabbat, deriving from 'veyalda zachar... uvayom hashmini yimol' that the child must be male from birth \u2014 exactly what Rav Shizvi: Brit Milah's prose describes.",
+      "chosen_heading": "Rav Shizvi: Brit Milah",
+      "current_heading": "Rav Shizvi: Brit Milah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rav Sharvia: Tumat Leida",
+    "candidates": [
+      "Rav Sharvia: Tumat Leida",
+      "Meseivei Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Sherevya's statement about tumat leida, which is precisely what the prose under heading 0 ('Rav Sharvia: Tumat Leida') discusses.",
+      "chosen_heading": "Rav Sharvia: Tumat Leida",
+      "current_heading": "Rav Sharvia: Tumat Leida",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Meseivei Challenge",
+    "candidates": [
+      "Meseivei Challenge",
+      "Seven & Forty Days",
+      "Both Stringencies"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Meseivei Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the meseivei challenge and its conclusive refutation of Rav Sherevya, which is precisely what heading 0 ('Meseivei Challenge') describes in its prose.",
+      "second_heading": "Both Stringencies",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the question of whether the same baraita also refutes Rav Sheizevi, which is exactly what heading 2 ('Both Stringencies') discusses in its prose.",
+      "current_heading": "Meseivei Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Both Stringencies",
+    "candidates": [
+      "Seven & Forty Days",
+      "Both Stringencies",
+      "Ei Hachi Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's answer that the tanna was uncertain and ruled stringently, which is precisely the content described in the 'Both Stringencies' prose section discussing *tanna sapokei mesapka leih* and how uncertainty resolves in both directions.",
+      "chosen_heading": "Both Stringencies",
+      "current_heading": "Both Stringencies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Ei Hachi Analysis",
+    "candidates": [
+      "Ei Hachi Analysis",
+      "Reconciliation",
+      "Sex & Gender",
+      "Baraita: Ben & Safek",
+      "Two Boys Cave",
+      "Harsha'a Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the *ei hachi* challenge and the *kashya* conclusion about *teshvei lezachar ulenekeivah uleniddah*, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Ei Hachi Analysis",
+      "current_heading": "Ei Hachi Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Harsha'a Solution",
+    "candidates": [
+      "Reconciliation",
+      "Sex & Gender",
+      "Baraita: Ben & Safek",
+      "Two Boys Cave",
+      "Harsha'a Solution",
+      "Rava Retraction",
+      "Yannai Distinction",
+      "Akra Query"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Baraita: Ben & Safek",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the baraita supporting Rabbi Ami with the phrases 'ben velo tumtum' and 'bechor velo safek', which is exactly what candidate 2's prose describes.",
+      "second_heading": "Two Boys Cave",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 cover Rava's two-wives-in-hiding ruling, Rav Pappa's challenge via Ravin's letter, and Rava's retraction adopting Rabbi Yannai's distinction \u2014 precisely the content described in candidate 3's prose about the cave case and the harsha'a solution.",
+      "current_heading": "Harsha'a Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Akra Query",
+    "candidates": [
+      "Rava Retraction",
+      "Yannai Distinction",
+      "Akra Query",
+      "Yehuda vs. Rabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic source text for the Akra De'Agma inquiry to Shmuel, which the 'Akra Query' prose section explicitly describes and analyzes.",
+      "chosen_heading": "Akra Query",
+      "current_heading": "Akra Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Yehuda vs. Rabbanan",
+    "candidates": [
+      "Yehuda vs. Rabbanan",
+      "Yehuda: Believed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the gemara's objection that Shmuel should have ruled like one of the two positions, and the resolution that he was uncertain which to follow \u2014 are precisely what the prose of candidate 0 ('Yehuda vs. Rabbanan') describes, including the exact phrases mah nafshach and mistapka lei.",
+      "chosen_heading": "Yehuda vs. Rabbanan",
+      "current_heading": "Yehuda vs. Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Yehuda: Believed",
+    "candidates": [
+      "Yehuda: Believed",
+      "Yakkir Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita that forms the substance of the Rabbi Yehuda vs. Rabbis dispute about the father's credibility regarding firstborn status and priestly disqualification, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Yehuda: Believed",
+      "current_heading": "Yehuda: Believed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Yakkir Question",
+    "candidates": [
+      "Yakkir Question",
+      "Migu Basis",
+      "Future Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rav Na\u1e25man bar Yitz\u1e25ak challenge and its immediate answer (betzarich hikkira), which the 'Yakkir Question' prose explicitly quotes and discusses in full.",
+      "chosen_heading": "Yakkir Question",
+      "current_heading": "Yakkir Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Future Property",
+    "candidates": [
+      "Migu Basis",
+      "Future Property",
+      "Tosafot Logic",
+      "One Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain about why the verse's grant of credibility is necessary \u2014 the migo argument, future property, Rabbi Meir's position, and the goses case \u2014 which exactly matches the 'Future Property' section's prose discussion of these very same points in sequence.",
+      "chosen_heading": "Future Property",
+      "current_heading": "Future Property",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "One Presumption",
+    "candidates": [
+      "Tosafot Logic",
+      "One Presumption",
+      "Negative Presumption",
+      "Baraita Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita text covering both clauses, and the 'One Presumption' section's prose explicitly introduces and discusses this baraita with the same text ('Tanu Rabbanan'), making it the natural home for the complete quoted source before subsequent headings analyze each clause separately.",
+      "chosen_heading": "One Presumption",
+      "current_heading": "One Presumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Baraita Split",
+    "candidates": [
+      "Negative Presumption",
+      "Baraita Split",
+      "Son to Slave",
+      "Slave to Son",
+      "Tax Collector"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the gemara's resolution that the baraita's first clause is Rabbi Yehuda's view and the latter clause is the Rabbanan's view, which is precisely what the 'Baraita Split' section's prose describes.",
+      "chosen_heading": "Baraita Split",
+      "current_heading": "Baraita Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Tax Collector",
+    "candidates": [
+      "Son to Slave",
+      "Slave to Son",
+      "Tax Collector",
+      "Service Language",
+      "Dollar Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the continuous sugya about son/slave declarations \u2014 item 1 is Rabbi Yo\u1e25anan's ruling (son\u2192slave not believed, slave\u2192son believed), item 2 is the tax house reversal, and item 3 is the baraita objection \u2014 and the 'Tax Collector' section prose explicitly covers all three of these sub-topics (the core ruling, the tax house qualification, and the baraita challenge), making it the best match for this entire passage.",
+      "chosen_heading": "Tax Collector",
+      "current_heading": "Tax Collector",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Dollar Value",
+    "candidates": [
+      "Service Language",
+      "Dollar Value",
+      "Theft Counterclaim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Na\u1e25man bar Yitz\u1e25ak's explanation that the slave declaration was accompanied by a monetary valuation of one hundred dinars, which is precisely what the 'Dollar Value' section's prose describes.",
+      "chosen_heading": "Dollar Value",
+      "current_heading": "Dollar Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Theft Counterclaim",
+    "candidates": [
+      "Theft Counterclaim",
+      "Slave Chazaka",
+      "Oath Solution",
+      "Precedent Question",
+      "Chachamim Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the case of the theft counterclaim (sold/gifted slave) and the oath-and-take resolution, which is exactly what the 'Theft Counterclaim' prose describes, making the current placement correct.",
+      "chosen_heading": "Theft Counterclaim",
+      "current_heading": "Theft Counterclaim",
+      "moved": false
+    }
+  }
+]

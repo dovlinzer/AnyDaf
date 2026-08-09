@@ -1,0 +1,577 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Locusts",
+    "candidates": [
+      "Theme Shift",
+      "Midah KeNeged Midah",
+      "Locusts",
+      "Plague Species"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage about Rav Yehuda declaring a fast upon hearing locusts have arrived, and his response about provisions, is precisely what the 'Locusts' section prose describes.",
+      "chosen_heading": "Locusts",
+      "current_heading": "Locusts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Plague Species",
+    "candidates": [
+      "Plague Species",
+      "Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident about pestilence among pigs and Rav Yehuda's fast, which is precisely what the 'Plague Species' section's prose discusses in detail.",
+      "chosen_heading": "Plague Species",
+      "current_heading": "Plague Species",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Shmuel",
+    "candidates": [
+      "Shmuel",
+      "Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Shmuel decreeing a fast for pestilence in Bei \u1e24ozai due to no barrier stopping its spread, which is exactly what the prose under heading 0 ('Shmuel') discusses.",
+      "chosen_heading": "Shmuel",
+      "current_heading": "Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rav Nachman",
+    "candidates": [
+      "Rav Nachman",
+      "Caravan Spread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Nachman's decree and his gvira-shefacha reasoning, which is precisely what the 'Rav Nachman' section prose describes.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rav Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Caravan Spread",
+    "candidates": [
+      "Caravan Spread",
+      "Heavenly Greetings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gvira/shifcha inference and the caravan resolution for Shmuel's fast in Bei \u1e24ozai, which is precisely what the 'Caravan Spread' prose describes.",
+      "chosen_heading": "Caravan Spread",
+      "current_heading": "Caravan Spread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Heavenly Greetings",
+    "candidates": [
+      "Heavenly Greetings",
+      "Deeds Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the heavenly greetings received by Abba the Bloodletter, Abaye, and Rava, and Abaye's distress \u2014 exactly what the 'Heavenly Greetings' prose discusses, stopping before the explanation of Abba's specific deeds which belongs under 'Deeds Explained'.",
+      "chosen_heading": "Heavenly Greetings",
+      "current_heading": "Heavenly Greetings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Deeds Explained",
+    "candidates": [
+      "Deeds Explained",
+      "Torah Students"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the specific deeds of Abba Umna \u2014 separating men and women, the special garment with a slit, and the hidden payment box \u2014 which is precisely what the 'Deeds Explained' section's prose discusses in detail.",
+      "chosen_heading": "Deeds Explained",
+      "current_heading": "Deeds Explained",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Torah Students",
+    "candidates": [
+      "Torah Students",
+      "Bedding Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abba Umna not charging Torah scholars and giving them money to recover, plus Abaye sending the pair of sages \u2014 all of which is the content discussed under the 'Torah Students' heading, which covers both the fee-waiving behavior and the sending of the investigators as setup for the bedding test.",
+      "chosen_heading": "Torah Students",
+      "current_heading": "Torah Students",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Bedding Test",
+    "candidates": [
+      "Bedding Test",
+      "Pidyon Shvuyim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the morning scene where the students took the rugs and asked Abba Umna to appraise them, which is explicitly covered in the 'Bedding Test' prose \u2014 the reveal that 'they are yours' belongs to heading 1, but this specific Aramaic text ends at the point where they say 'didach ninhu ve-shaklinu minach,' which is actually the transition point; however, the current placement under 'Bedding Test' covers this exact narrative moment in its prose description.",
+      "chosen_heading": "Bedding Test",
+      "current_heading": "Bedding Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Pidyon Shvuyim",
+    "candidates": [
+      "Pidyon Shvuyim",
+      "City Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the exchange about pidyon shvuyim, the suspicion question, and the mental dedication to charity \u2014 all of which are explicitly discussed in the 'Pidyon Shvuyim' section's prose.",
+      "chosen_heading": "Pidyon Shvuyim",
+      "current_heading": "Pidyon Shvuyim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "City Protection",
+    "candidates": [
+      "City Protection",
+      "Olam Haba Query",
+      "Unlikely Candidate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rava's distress about Abaye's more frequent heavenly greetings and the consolation that his merit protects the entire city, which is precisely what the 'City Protection' section's prose discusses.",
+      "chosen_heading": "City Protection",
+      "current_heading": "City Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Unlikely Candidate",
+    "candidates": [
+      "Olam Haba Query",
+      "Unlikely Candidate",
+      "Prisoner Separation",
+      "Woman Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Beroka asking Elijah whether anyone in the market is worthy of the World-to-Come and Elijah's initial 'no' answer followed by pointing out the man in black shoes \u2014 exactly what the 'Olam Haba Query' prose section describes, not the 'Unlikely Candidate' section which covers the subsequent conversation with the man.",
+      "chosen_heading": "Olam Haba Query",
+      "current_heading": "Unlikely Candidate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Woman Protection",
+    "candidates": [
+      "Prisoner Separation",
+      "Woman Protection",
+      "Decree Warning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the prisoner separation role and the woman protection story in a single continuous narrative, but the prose under 'Prisoner Separation' (index 0) explicitly discusses all the elements including the bed placement and leads directly into what the essay separates as 'Woman Protection,' while the current placement under index 1 captures only the latter portion \u2014 however, since the passage begins with 'What is your occupation?' and the full answer including both separation and woman-saving, and the essay's index 0 prose already describes the separation details while index 1 prose describes the woman-saving details, the passage as a whole actually spans both sections, yet the opening exchange ('Go away now, come tomorrow') and the occupation answer belong most naturally with index 0 which sets up the full context.",
+      "chosen_heading": "Prisoner Separation",
+      "current_heading": "Woman Protection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Decree Warning",
+    "candidates": [
+      "Decree Warning",
+      "Joy & Peace"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the man's explanation of his non-Jewish disguise and his role in warning Rabbis of decrees, which is exactly what the 'Decree Warning' section's prose discusses in detail.",
+      "chosen_heading": "Decree Warning",
+      "current_heading": "Decree Warning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Joy & Peace",
+    "candidates": [
+      "Joy & Peace",
+      "Four Categories",
+      "Rabbi Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about the two jesters who cheer up the depressed and make peace between quarreling parties is directly discussed in the 'Joy & Peace' section's prose, which explicitly references these same characters and their actions.",
+      "chosen_heading": "Joy & Peace",
+      "current_heading": "Joy & Peace",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rabbi Akiva",
+    "candidates": [
+      "Four Categories",
+      "Rabbi Akiva",
+      "Location Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Tanna Kamma's list (blight, mildew, locusts, caterpillars, dangerous beasts) AND Rabbi Akiva's view, but the prose under 'Four Categories' (index 0) explicitly discusses the full baraita including all these elements, while the 'Rabbi Akiva' section prose assumes the baraita has already been cited and only discusses Rabbi Akiva's position \u2014 meaning the full quoted passage, which includes both the Tanna Kamma and Rabbi Akiva, belongs under the 'Four Categories' heading where the baraita is introduced.",
+      "chosen_heading": "Four Categories",
+      "current_heading": "Rabbi Akiva",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Location Time",
+    "candidates": [
+      "Rabbi Akiva",
+      "Location Time",
+      "Behavior Indicators"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the location (city vs. field) and time (day vs. night) criteria for determining whether a dangerous beast is 'meshulachat,' which matches precisely the prose under 'Location Time.'",
+      "chosen_heading": "Location Time",
+      "current_heading": "Location Time",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Behavior Indicators",
+    "candidates": [
+      "Behavior Indicators",
+      "Contextual Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 behavioral indicators like chasing two people, hiding, eating one vs. both, and climbing to take a baby \u2014 is precisely what the 'Behavior Indicators' section prose discusses, matching item by item.",
+      "chosen_heading": "Behavior Indicators",
+      "current_heading": "Behavior Indicators",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Contextual Analysis",
+    "candidates": [
+      "Contextual Analysis",
+      "Infant Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of internal contradictions and their resolutions within the baraita about meshulachat criteria \u2014 exactly what the 'Contextual Analysis' prose describes, including the city/day-night distinction, the chasing/hiding/standing contradiction, and the marsh-field distinction resolved by Rav Pappa.",
+      "chosen_heading": "Contextual Analysis",
+      "current_heading": "Contextual Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Infant Case",
+    "candidates": [
+      "Infant Case",
+      "Peaceful Sword",
+      "Paroh Necho"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the case of a wild animal taking an infant from a cradle (alta la-gag ve-natla tinok me-arisa) and Rav Pappa's explanation about a hunter's hideout, which directly matches the 'Infant Case' prose.",
+      "chosen_heading": "Infant Case",
+      "current_heading": "Infant Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Paroh Necho",
+    "candidates": [
+      "Peaceful Sword",
+      "Paroh Necho",
+      "Yoshiyahu Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items introduce and illustrate the concept of 'cherev shel shalom' (peaceful sword) \u2014 the general ruling and its proof-text \u2014 which is exactly what candidate 0 'Peaceful Sword' discusses, while candidate 1 'Paroh Necho' covers the subsequent Gemara discussion of what Pharaoh Neco meant by 'God who is with me' and Yoshiyahu's punishment.",
+      "chosen_heading": "Peaceful Sword",
+      "current_heading": "Paroh Necho",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Yoshiyahu Punishment",
+    "candidates": [
+      "Paroh Necho",
+      "Yoshiyahu Punishment",
+      "Yoshiyahu Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the idolatry interpretation of 'God who is with me' and the sieve-body description \u2014 are explicitly quoted and discussed in the 'Yoshiyahu Punishment' prose, making that section the clear and correct home for this passage.",
+      "chosen_heading": "Yoshiyahu Punishment",
+      "current_heading": "Yoshiyahu Punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Yoshiyahu Reasoning",
+    "candidates": [
+      "Yoshiyahu Reasoning",
+      "Generation Unworthiness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Josiah's reasoning from the verse 'no sword shall pass through your land' and his interpretation that even a peaceful sword must not transit \u2014 precisely what heading 0 ('Yoshiyahu Reasoning') is about, while heading 1 addresses the consequence (generation unworthiness) which the Gemara only briefly alludes to at the end of item 2.",
+      "chosen_heading": "Yoshiyahu Reasoning",
+      "current_heading": "Yoshiyahu Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Generation Unworthiness",
+    "candidates": [
+      "Generation Unworthiness",
+      "Grain Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Josiah's deathbed scene with Jeremiah observing his lips moving and hearing him justify God's judgment, which is precisely what the 'Generation Unworthiness' prose discusses in detail.",
+      "chosen_heading": "Generation Unworthiness",
+      "current_heading": "Generation Unworthiness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Grain Amount",
+    "candidates": [
+      "Grain Amount",
+      "Teiku"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma about whether 'kemalei tannur' means grain to fill an oven or bread to fill an oven, which is exactly what the 'Grain Amount' prose section discusses.",
+      "chosen_heading": "Grain Amount",
+      "current_heading": "Grain Amount",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Teiku",
+    "candidates": [
+      "Teiku",
+      "Tumah Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the unresolved Talmudic dilemma about the measure of bread relative to the oven's mouth, culminating in 'teiku,' which matches precisely the prose under the 'Teiku' heading.",
+      "chosen_heading": "Teiku",
+      "current_heading": "Teiku",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Tumah Analysis",
+    "candidates": [
+      "Tumah Analysis",
+      "Discourse Shift",
+      "Four Situations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the exact ruling about wolves swallowing children and the tumah/taharah status of the flesh and bones, which is precisely what the 'Tumah Analysis' section's prose addresses.",
+      "chosen_heading": "Tumah Analysis",
+      "current_heading": "Tumah Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Four Situations",
+    "candidates": [
+      "Discourse Shift",
+      "Four Situations",
+      "Individual Fast",
+      "Rabbi Yosi",
+      "Soul Alive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnah's list of four emergency situations requiring alarm on Shabbat and the individual fasting provision, which is exactly what the 'Four Situations' prose section discusses.",
+      "chosen_heading": "Four Situations",
+      "current_heading": "Four Situations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Soul Alive",
+    "candidates": [
+      "Individual Fast",
+      "Rabbi Yosi",
+      "Soul Alive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yosei's statement and Rav Yehuda/Rav's explanation of its reasoning via the 'nefesh chaya' verse, which is precisely what the 'Soul Alive' section's prose discusses.",
+      "chosen_heading": "Soul Alive",
+      "current_heading": "Soul Alive",
+      "moved": false
+    }
+  }
+]

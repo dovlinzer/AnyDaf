@@ -1,0 +1,523 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Mishna: Fish Swallowing",
+    "candidates": [
+      "Honey: Gezerat Hakatuv",
+      "Royal Jelly",
+      "Beeswax Permitted",
+      "Shellac & Lac",
+      "Summary",
+      "Mishna: Fish Swallowing",
+      "Seen Swallowing?",
+      "Baraita: Spawning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna: Fish Swallowing",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna presenting the fish-swallowing case (kosher/non-kosher fish), which matches heading 5 ('Mishna: Fish Swallowing') whose prose explicitly describes this exact Mishna and its she'eino gidulo principle.",
+      "second_heading": "Seen Swallowing?",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's inference about needing to have witnessed the swallowing (taama dechazina debala), which matches heading 6 ('Seen Swallowing?') whose prose directly describes this exact Gemara inference and its implications.",
+      "current_heading": "Mishna: Fish Swallowing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Baraita: Spawning",
+    "candidates": [
+      "Seen Swallowing?",
+      "Baraita: Spawning",
+      "Spawned Inside?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with 'From where do we derive' \u2014 the Gemara seeking the textual basis for the distinction raised in the seen-swallowing discussion \u2014 which corresponds precisely to candidate 0's prose describing the Gemara asking for the scriptural/textual basis for this distinction, while candidate 1's prose already summarizes the baraita's content and its implication as if it were background rather than the immediate question being answered.",
+      "chosen_heading": "Seen Swallowing?",
+      "current_heading": "Baraita: Spawning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Spawned Inside?",
+    "candidates": [
+      "Baraita: Spawning",
+      "Spawned Inside?",
+      "Amoraim Answers",
+      "Rav Ashi: Own Kind"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the three Amoraim's answers (Rav Sheshet, Rav Papa, Rav Nachman) about digestive tract location and wholeness, which is precisely what the 'Spawned Inside?' section's prose describes.",
+      "chosen_heading": "Spawned Inside?",
+      "current_heading": "Spawned Inside?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rav Ashi: Own Kind",
+    "candidates": [
+      "Amoraim Answers",
+      "Rav Ashi: Own Kind",
+      "Fish: Internal vs Extern",
+      "Birth vs. Eggs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement about the majority of fish spawning their own kind, which is precisely what the 'Rav Ashi: Own Kind' section describes and analyzes.",
+      "chosen_heading": "Rav Ashi: Own Kind",
+      "current_heading": "Rav Ashi: Own Kind",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Birth vs. Eggs",
+    "candidates": [
+      "Fish: Internal vs Extern",
+      "Birth vs. Eggs",
+      "Bat Exception",
+      "Dolphins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire baraita \u2014 fish spawning/egg-laying, birth/nursing vs. egg-gathering, AND the bat exception \u2014 making the 'Fish: Internal vs Extern' section (which introduces the full baraita discussion) a better fit than splitting it across multiple headings, but since the passage contains all three topics together, the section that introduces the baraita as a whole unit is the best single home; however, given the passage includes all content from fish distinction through bat exception, it most naturally belongs under the heading whose prose explicitly introduces 'the baraita repeats the distinction' and frames the full baraita \u2014 index 0.",
+      "chosen_heading": "Fish: Internal vs Extern",
+      "current_heading": "Birth vs. Eggs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Dolphins",
+    "candidates": [
+      "Bat Exception",
+      "Dolphins",
+      "Male Organ Location",
+      "Geese & Ducks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines 'dulfanin' as 'sons of the sea,' which directly corresponds to the Dolphins section's discussion of Rav Yehuda's answer to 'mai dolfinin \u2014 what exactly is meant by dolphins? Rav Yehuda answers: bnei yama \u2014 children of the sea.'",
+      "chosen_heading": "Dolphins",
+      "current_heading": "Dolphins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Geese & Ducks",
+    "candidates": [
+      "Male Organ Location",
+      "Geese & Ducks",
+      "Day Birth",
+      "Night Birth",
+      "Any Time Birth",
+      "Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous unit \u2014 the baraita's anatomical principle about testicles, the Gemara's challenge from the goose case, and the resolution about the male organ \u2014 which precisely matches the prose of candidate 0 ('Male Organ Location'), not candidate 1 ('Geese & Ducks') where it currently sits.",
+      "chosen_heading": "Male Organ Location",
+      "current_heading": "Geese & Ducks",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Examples",
+    "candidates": [
+      "Day Birth",
+      "Night Birth",
+      "Any Time Birth",
+      "Examples",
+      "Egg Case Setup",
+      "Hens Day-Only",
+      "Objection",
+      "Re-absorption Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita's general rule (item 1) and the Gemara's elaboration with specific examples (item 2), forming one continuous unit that begins with the day-birth generalization \u2014 matching heading 0's prose about 'kol shetashmisho bayom yoled bayom' \u2014 while the subsequent headings 1, 2, and 3 each address only one sub-part of what is here presented as a unified passage.",
+      "chosen_heading": "Day Birth",
+      "current_heading": "Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Re-absorption Theory",
+    "candidates": [
+      "Egg Case Setup",
+      "Hens Day-Only",
+      "Objection",
+      "Re-absorption Theory",
+      "Tosafot Ruling",
+      "Hens 21 Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full Rav Mari ruling and its immediate challenge/resolution, which is precisely what 'Egg Case Setup' prose describes \u2014 the question of what difference it makes that hens lay only by day, answered by Rav Mari's case of finding an egg after checking the nest on eve of Yom Tov.",
+      "chosen_heading": "Egg Case Setup",
+      "current_heading": "Re-absorption Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Hens 21 Days",
+    "candidates": [
+      "Tosafot Ruling",
+      "Hens 21 Days",
+      "Dogs 50 Days",
+      "Cats 52 Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses which species can interbreed (based on matching intercourse/gestation) and specifically names fish, humans, and snakes as face-to-face intercourse species \u2014 this content about the snake lacking a parallel plant is directly tied to the 'Dogs 50 Days' section's prose, which explicitly notes the serpent is 'the one creature for which no parallel exists,' making this passage the lead-in to that discussion rather than belonging under 'Hens 21 Days.'",
+      "chosen_heading": "Dogs 50 Days",
+      "current_heading": "Hens 21 Days",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Cats 52 Days",
+    "candidates": [
+      "Dogs 50 Days",
+      "Cats 52 Days",
+      "Pigs 60 Days",
+      "Foxes 6 Months"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dogs 50 Days",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses why the snake (and two other creatures) were special due to the Divine Presence speaking with them, which connects to candidate 0's mention of the serpent being the creature for which no parallel exists.",
+      "second_heading": "Cats 52 Days",
+      "second_confidence": "low",
+      "second_reason": "Item 2 about camel mating posture has no clear match among the candidates, so the current placement is retained by default.",
+      "current_heading": "Cats 52 Days",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Foxes 6 Months",
+    "candidates": [
+      "Pigs 60 Days",
+      "Foxes 6 Months",
+      "Sheep/Goat 5 Months",
+      "Donkey 12 Months",
+      "Cow 9 Months",
+      "Predators 3 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers all animals from chicken through fox/sheratzim, and its content begins with the chicken (21 days) and culminates with the pig (60 days) entry that heading 0 discusses \u2014 the passage belongs under 'Pigs 60 Days' as an introductory baraita citation that leads into that discussion, but more precisely, since the baraita encompasses the full list starting from chicken through pig and fox, and the current placement under 'Foxes 6 Months' only captures the last item, the passage should sit under the earliest relevant heading where the baraita is first introduced, which corresponds to the chicken/dog/cat/pig sequence \u2014 heading 0 'Pigs 60 Days' is the last animal before foxes, making it the best anchor for this full baraita citation that the essay author likely intended to introduce before discussing each animal separately.",
+      "chosen_heading": "Pigs 60 Days",
+      "current_heading": "Foxes 6 Months",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Predators 3 Years",
+    "candidates": [
+      "Sheep/Goat 5 Months",
+      "Donkey 12 Months",
+      "Cow 9 Months",
+      "Predators 3 Years",
+      "Adder 70 Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all four categories (small kosher, large non-kosher, large kosher, and predators) as a single continuous baraita, and belongs under the first heading where it begins \u2014 'Sheep/Goat 5 Months' \u2014 since the entire text should be placed under one heading rather than split across multiple sections.",
+      "chosen_heading": "Sheep/Goat 5 Months",
+      "current_heading": "Predators 3 Years",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Adder 70 Years",
+    "candidates": [
+      "Predators 3 Years",
+      "Adder 70 Years",
+      "Snake 7 Years",
+      "Source Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the adder (ef'eh) taking seventy years, the carob tree parallel, and then transitions to the snake \u2014 exactly matching the 'Adder 70 Years' prose which describes this precise content including the carob parallel and the three-year gestation detail.",
+      "chosen_heading": "Adder 70 Years",
+      "current_heading": "Adder 70 Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Source Curse",
+    "candidates": [
+      "Snake 7 Years",
+      "Source Curse",
+      "Ratio Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly asks 'from where is this matter derived' and answers with the verse about the snake's curse \u2014 precisely what the 'Source Curse' prose describes, including the specific derivation from Rav Yehuda/Rav/Rabbi Yehoshua ben Chananya and the verse from Bereshit.",
+      "chosen_heading": "Source Curse",
+      "current_heading": "Source Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Ratio Logic",
+    "candidates": [
+      "Ratio Logic",
+      "1:3 vs 1:7"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the donkey-to-cat ratio as the basis for deriving the snake's seven-year gestation curse, which is precisely what the 'Ratio Logic' section's prose describes.",
+      "chosen_heading": "Ratio Logic",
+      "current_heading": "Ratio Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "1:3 vs 1:7",
+    "candidates": [
+      "1:3 vs 1:7",
+      "Curse Discussion",
+      "Caesar's Question",
+      "Athens Experiment",
+      "Already Pregnant",
+      "Like Humans"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of challenge-and-response about the ratio used to derive the snake's gestation period (3:1 vs 7:1), which is precisely what the '1:3 vs 1:7' section prose describes.",
+      "chosen_heading": "1:3 vs 1:7",
+      "current_heading": "1:3 vs 1:7",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Like Humans",
+    "candidates": [
+      "Curse Discussion",
+      "Caesar's Question",
+      "Athens Experiment",
+      "Already Pregnant",
+      "Like Humans",
+      "Caesar Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the entire exchange \u2014 Caesar's question, Rabbi Yehoshua's seven-year answer, the Athenian experiment objection, the 'already pregnant' rebuttal, and the copulation question \u2014 making it a single unified text that begins with Caesar's question to Rabbi Yehoshua, which is the heading under candidate 1 ('Caesar's Question'), and the passage should be placed there rather than split across multiple headings or placed only under the final sub-topic.",
+      "chosen_heading": "Caesar's Question",
+      "current_heading": "Like Humans",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Caesar Challenge",
+    "candidates": [
+      "Like Humans",
+      "Caesar Challenge",
+      "Boat Request",
+      "Butcher Trick"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Caesar challenging Rabbi Yehoshua to defeat the Athenian sages and bring them back, with the exchange about how many sages there are (sixty men), which directly matches the 'Caesar Challenge' section's prose about Caesar challenging Rabbi Yehoshua to defeat the elders of Athens.",
+      "chosen_heading": "Caesar Challenge",
+      "current_heading": "Caesar Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Butcher Trick",
+    "candidates": [
+      "Boat Request",
+      "Butcher Trick",
+      "Hidden Entrance",
+      "Guards System"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      144,
+      145,
+      146
+    ],
+    "current_heading": "Guards System",
+    "candidates": [
+      "Hidden Entrance",
+      "Guards System",
+      "Backwards Shoes",
+      "Young Above, Old Below",
+      "Greeting Dilemma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the butcher revealing the entrance via the reed bundle trick, the guard system with sand footprints, and Rabbi Yehoshua reversing his sandals \u2014 are all described together in the 'Guards System' prose, which explicitly covers the butcher's method of marking the entrance, the inner/outer guard accountability system, and the sandal maneuver to eliminate the guards.",
+      "chosen_heading": "Guards System",
+      "current_heading": "Guards System",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Greeting Dilemma",
+    "candidates": [
+      "Backwards Shoes",
+      "Young Above, Old Below",
+      "Greeting Dilemma",
+      "Equal Greeting",
+      "Contest Terms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehoshua's internal dilemma about whom to greet first and the elders' reasoning that they are superior, which directly matches the 'Greeting Dilemma' section's prose.",
+      "chosen_heading": "Greeting Dilemma",
+      "current_heading": "Greeting Dilemma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Contest Terms",
+    "candidates": [
+      "Equal Greeting",
+      "Contest Terms",
+      "Marriage Question"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      164
+    ],
+    "current_heading": "Marriage Question",
+    "candidates": [
+      "Marriage Question",
+      "Why Higher Status",
+      "Peg Metaphor",
+      "Olam HaBa Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both the question and Rabbi Yehoshua's peg answer, spanning headings 0-2, but since the question initiates the exchange and the current placement under 'Marriage Question' captures the full unit, and the automated pipeline may have placed it here because the question text opens the passage, keeping it at index 0 is reasonable \u2014 though index 2 'Peg Metaphor' whose prose describes exactly the peg demonstration is also a strong candidate; given ambiguity, current placement is retained.",
+      "chosen_heading": "Marriage Question",
+      "current_heading": "Marriage Question",
+      "moved": false
+    }
+  }
+]

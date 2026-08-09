@@ -77,8 +77,8 @@
           "timestamp": "08:30"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Klal u'Prat u'Klal Debate: Is Kal a Ribuy or a Standard Klal",
@@ -154,7 +154,7 @@
           "timestamp": "22:13"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -202,8 +202,8 @@
           "timestamp": "26:41"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Two Bratot Explaining the Two Pesukim: True Ganav vs. Toenei Ta'anat Ganav Interpretations",
@@ -226,8 +226,8 @@
           "timestamp": "29:39"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Rabbinic Interpretation of 'Im Lo Yimatze Haganav' as False Oath Scenario",
@@ -250,8 +250,8 @@
           "timestamp": "31:13"
         }
       ],
-      "sefaria_index": 19,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "First Braita's Position: Why Two Pesukim for Same Case of Toenei Ta'anat Ganav",
@@ -264,8 +264,8 @@
           "timestamp": "32:33"
         }
       ],
-      "sefaria_index": 21,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Second Braita's Derivation: How True Ganav Pays Kefel Without Oath",
@@ -283,8 +283,8 @@
           "timestamp": "33:01"
         }
       ],
-      "sefaria_index": 22,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "First Braita's Position: Why Two Pesukim for Same Case of Toenei Ta'anat Ganav (continued)",
@@ -297,8 +297,8 @@
           "timestamp": "33:06"
         }
       ],
-      "sefaria_index": 22,
-      "matched": false
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Second Braita's Derivation: How True Ganav Pays Kefel Without Oath (continued)",
@@ -311,7 +311,7 @@
           "timestamp": "36:43"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 14,
       "matched": false
     },
     {
@@ -364,8 +364,8 @@
           "timestamp": "40:35"
         }
       ],
-      "sefaria_index": 30,
-      "matched": false
+      "sefaria_index": 31,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -635,5 +635,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "21:37",
+  "amud_b_micro_title": "Chiya Aveidah Kefel",
+  "shiur_start_daf": 63,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,524 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Three Doubts",
+    "candidates": [
+      "Shmuel's Hargasha",
+      "Three Doubts",
+      "Tosafot on Maga'ot",
+      "Majority Principle",
+      "Sensation Unaware",
+      "Subjectivity Turn",
+      "Women's Reality",
+      "Bridging Reality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita enumerating the three categories of doubt (on her flesh, on her garment, touching/moving), which is precisely what the 'Three Doubts' section's prose describes and analyzes.",
+      "chosen_heading": "Three Doubts",
+      "current_heading": "Three Doubts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Bridging Reality",
+    "candidates": [
+      "Tosafot on Maga'ot",
+      "Majority Principle",
+      "Sensation Unaware",
+      "Subjectivity Turn",
+      "Women's Reality",
+      "Bridging Reality",
+      "Braita Rules",
+      "Mishna Conflict",
+      "Belt Division",
+      "Marketplace Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Majority Principle",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Gemara's challenge and resolution regarding 'follow the majority' and whether it implies tumah without hargasha, which matches the 'Majority Principle' prose exactly.",
+      "second_heading": "Braita Rules",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 analyze the baraita's distinction between stains on the body vs. garment and the apparent conflict with the mishna's belt-based distinctions, which matches the 'Braita Rules' section's prose about al besarah vs. al chalukah.",
+      "current_heading": "Bridging Reality",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Marketplace Case",
+    "candidates": [
+      "Braita Rules",
+      "Mishna Conflict",
+      "Belt Division",
+      "Marketplace Case",
+      "Direct Contact Logic",
+      "Calisthenics Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes exactly the marketplace of butchers scenario (below the belt) with the body/garment distinction logic, which is precisely what the 'Marketplace Case' prose section discusses.",
+      "chosen_heading": "Marketplace Case",
+      "current_heading": "Marketplace Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Calisthenics Case",
+    "candidates": [
+      "Direct Contact Logic",
+      "Calisthenics Case",
+      "Multi-Factor Analysis",
+      "Stains Rabbinic",
+      "Rav Yirmiah",
+      "Biblical vs. Rabbinic",
+      "Rav Ashi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the case of blood found above the belt where she jumped (*izdekarah*), reasoning through skin vs. garment stain logic in that context \u2014 exactly what the 'Calisthenics Case' prose describes (physical movement causing upward blood travel, with the same skin/garment asymmetry argument).",
+      "chosen_heading": "Calisthenics Case",
+      "current_heading": "Calisthenics Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Rav Ashi",
+    "candidates": [
+      "Multi-Factor Analysis",
+      "Stains Rabbinic",
+      "Rav Yirmiah",
+      "Biblical vs. Rabbinic",
+      "Rav Ashi",
+      "Mekabel Tumah",
+      "Rif's Position",
+      "Possible Origin",
+      "Acharonim Debate",
+      "Heel & Toe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items form one continuous discussion: the objection from the baraita/mishna to Shmuel, Rav Yirmiyah's resolution (rabbinic impurity), Rav Ashi's alternative reading via Rabbi Nechemiah, and the Gemara's question about why Shmuel chose 'ground' with its 'lo miba'ya' resolution \u2014 all of which are explicitly described in the 'Rav Ashi' section's prose.",
+      "chosen_heading": "Rav Ashi",
+      "current_heading": "Rav Ashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Heel & Toe",
+    "candidates": [
+      "Mekabel Tumah",
+      "Rif's Position",
+      "Possible Origin",
+      "Acharonim Debate",
+      "Heel & Toe",
+      "No Indirect Leniency",
+      "Neck Wound Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's discussion of stains on the heel and toe, which is precisely what the 'Heel & Toe' section's prose describes.",
+      "chosen_heading": "Heel & Toe",
+      "current_heading": "Heel & Toe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Neck Wound Case",
+    "candidates": [
+      "No Indirect Leniency",
+      "Neck Wound Case",
+      "Shoulder Wound"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes a woman with a wound on her neck that she can attribute blood to, which directly matches the 'Neck Wound Case' section's prose about haita lah maka b'tzavarah and the principle of toelet/attribution.",
+      "chosen_heading": "Neck Wound Case",
+      "current_heading": "Neck Wound Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Shoulder Wound",
+    "candidates": [
+      "Shoulder Wound",
+      "Toe Exception",
+      "Hand Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly explains why the tip of the large toe is an exception (direct proximity during walking), which is precisely what the 'Toe Exception' section's prose discusses.",
+      "chosen_heading": "Toe Exception",
+      "current_heading": "Shoulder Wound",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Hand Exception",
+    "candidates": [
+      "Toe Exception",
+      "Hand Exception",
+      "Symmetry Principle",
+      "Calf & Instep",
+      "Hamstring Boundary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita about blood found on the knuckles/finger joints and the Gemara's resolution that hands are different because the entire hand can directly touch the relevant area \u2014 precisely the content described in the 'Hand Exception' prose.",
+      "chosen_heading": "Hand Exception",
+      "current_heading": "Hand Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Hamstring Boundary",
+    "candidates": [
+      "Symmetry Principle",
+      "Calf & Instep",
+      "Hamstring Boundary",
+      "Pattern Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern the question of 'mi'bifnim ad heicha' \u2014 how far inward the zone extends and whether the chavak itself counts as inner \u2014 which is precisely what candidate 1 ('Calf & Instep') introduces, while candidate 2 ('Hamstring Boundary') already summarizes the answer in its prose, making it a better fit for the question-and-answer passage that establishes that ruling.",
+      "chosen_heading": "Calf & Instep",
+      "current_heading": "Hamstring Boundary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Pattern Questions",
+    "candidates": [
+      "Hamstring Boundary",
+      "Pattern Questions",
+      "Configuration Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yirmeyah's dilemmas about stain shapes (bracelet, line, drops, width), which is exactly what the 'Pattern Questions' section prose describes.",
+      "chosen_heading": "Pattern Questions",
+      "current_heading": "Pattern Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Configuration Effect",
+    "candidates": [
+      "Configuration Effect",
+      "Loom Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about 'al besarah' (on her flesh) and the Gemara's rejection via the 'kiretsuah' (strip-shaped stain) answer, which is exactly what the prose under 'Configuration Effect' describes.",
+      "chosen_heading": "Configuration Effect",
+      "current_heading": "Configuration Effect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Loom Case",
+    "candidates": [
+      "Loom Case",
+      "Movement Test",
+      "Redo Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the woman finding blood on the loom and coming before Rabbi Yannai, which matches exactly the 'Loom Case' prose about a woman finding blood on loom threads and coming before Rabbi Yannai \u2014 the current placement is correct.",
+      "chosen_heading": "Loom Case",
+      "current_heading": "Loom Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Redo Rules",
+    "candidates": [
+      "Movement Test",
+      "Redo Rules",
+      "Three Layers",
+      "Blanket Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about not repeating actions in taharot cases and the leniency/stringency distinction, which is precisely what the 'Redo Rules' section prose describes.",
+      "chosen_heading": "Redo Rules",
+      "current_heading": "Redo Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Blanket Use",
+    "candidates": [
+      "Three Layers",
+      "Blanket Use",
+      "Height Mismatch"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses a robe used as a blanket at night and Rabbi Eliezer b'Rabbi Yosei's ruling in Rome confirmed by southern sages, which exactly matches the 'Blanket Use' section's prose about haista pushtata and the braita recording Rabbi Elazar b'Rabbi Yossi's Roman ruling confirmed with 'yafeh horeita.'",
+      "chosen_heading": "Blanket Use",
+      "current_heading": "Blanket Use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Height Mismatch",
+    "candidates": [
+      "Height Mismatch",
+      "Borrowed Garment",
+      "Owner Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact tall/short woman garment mismatch scenario and its rulings, which directly matches the 'Height Mismatch' section's prose about arucha and ktzara exchanging garments.",
+      "chosen_heading": "Height Mismatch",
+      "current_heading": "Height Mismatch",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Owner Testimony",
+    "candidates": [
+      "Borrowed Garment",
+      "Owner Testimony",
+      "Two Women Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita about the borrowed garment AND Rav Sheshet's clarification \u2014 it is a single unit that belongs under heading 0 ('Borrowed Garment'), whose prose introduces the baraita, while heading 1 ('Owner Testimony') discusses only Rav Sheshet's intervention separately; the full passage should sit under the heading that introduces the baraita it contains.",
+      "chosen_heading": "Borrowed Garment",
+      "current_heading": "Owner Testimony",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Two Women Case",
+    "candidates": [
+      "Owner Testimony",
+      "Two Women Case",
+      "Extra Stain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about two women and one bird (the question) and the Gemara's answer about the extra sela, which together constitute the full exchange that heading 'Two Women Case' introduces \u2014 heading 2 covers only the resolution in prose, while heading 1 covers both the question and the answer as a unit, matching the passage's complete content.",
+      "chosen_heading": "Two Women Case",
+      "current_heading": "Two Women Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Extra Stain",
+    "candidates": [
+      "Extra Stain",
+      "Toelet Framework",
+      "Slaughter Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita elaborating on the toelet framework \u2014 attributing a stain to an external cause \u2014 which is exactly what the 'Toelet Framework' prose introduces as the general principle of attribution for leniency.",
+      "chosen_heading": "Toelet Framework",
+      "current_heading": "Extra Stain",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Slaughter Context",
+    "candidates": [
+      "Toelet Framework",
+      "Slaughter Context",
+      "Louse Attribution",
+      "Louse Principle",
+      "Gris Measure",
+      "Family Attribution",
+      "Healed Wound"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna text introduces the entire general framework of toelet attribution, covering all the cases (slaughter, stain removal, louse killing) as a unified statement \u2014 it belongs under the 'Toelet Framework' heading which describes exactly this general principle, not under the narrower 'Slaughter Context' heading.",
+      "chosen_heading": "Toelet Framework",
+      "current_heading": "Slaughter Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Healed Wound",
+    "candidates": [
+      "Louse Attribution",
+      "Louse Principle",
+      "Gris Measure",
+      "Family Attribution",
+      "Healed Wound",
+      "Students React"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all the content from 'how large a stain may she attribute to a louse' through the gris measurement, louse attribution without killing, family wound attribution, and personal wound attribution \u2014 this is the full answer to the question posed in the 'Louse Attribution' section's prose ('The Mishna then asks: ad kama tola'), making heading 0 the natural home for the entire passage.",
+      "chosen_heading": "Louse Attribution",
+      "current_heading": "Healed Wound",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144
+    ],
+    "current_heading": "Students React",
+    "candidates": [
+      "Healed Wound",
+      "Students React",
+      "Akiva Drasha",
+      "Three Approaches",
+      "Rashi's Use",
+      "Why Rabbinic",
+      "Circular Stain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete story of Rabbi Akiva's ruling on the healed wound and his explanation to his students, which is precisely what the 'Students React' prose section describes in full.",
+      "chosen_heading": "Students React",
+      "current_heading": "Students React",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      157
+    ],
+    "current_heading": "Circular Stain",
+    "candidates": [
+      "Akiva Drasha",
+      "Three Approaches",
+      "Rashi's Use",
+      "Why Rabbinic",
+      "Circular Stain",
+      "Elongated Stain",
+      "Elazar Bar Tzadok"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses the examination cloth placed under the pillow with a round stain being pure, which is exactly what the 'Circular Stain' section's prose describes.",
+      "chosen_heading": "Circular Stain",
+      "current_heading": "Circular Stain",
+      "moved": false
+    }
+  }
+]

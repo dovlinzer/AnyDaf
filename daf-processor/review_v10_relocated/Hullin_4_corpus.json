@@ -1,0 +1,326 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Samaritan Slaughter Rules",
+    "candidates": [
+      "Hakol Shochtin Overview",
+      "Samaritan Slaughter Rules",
+      "Testing Samaritan Trust",
+      "Excluded Middle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Samaritan Slaughter Rules",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the baraita's two cases (supervised slaughter and the eating-test for both meat and birds), which match headings 1 and 2's prose; items 1-2 fit heading 1 (the baraita's opening rule and meat test) and item 3 fits heading 2 (the bird case extension), but since the split must be between items, splitting after item 3 captures the baraita's content (items 1-3) under heading 1/2 and the Abaye-Rava dispute (items 4-5) under heading 3.",
+      "second_heading": "Excluded Middle",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 are precisely the Abaye-Rava dispute about the excluded middle case of yotzei venichnas, which is exactly what heading 3 ('Excluded Middle') describes in its prose.",
+      "current_heading": "Samaritan Slaughter Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Excluded Middle",
+    "candidates": [
+      "Testing Samaritan Trust",
+      "Excluded Middle",
+      "Abaye: Direct Only",
+      "Rava: Periodic OK",
+      "Abaye Explains Seifa",
+      "Rava Explains Reisha",
+      "Birds Example",
+      "One Head Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers both Abaye's response to the seifa challenge and Rava's response to the reisha challenge together, which maps precisely to headings 4 and 5, but since the passage is a single unified Gemara excerpt addressing both objections in sequence, and heading 4 ('Abaye Explains Seifa') introduces the first challenge (ul'abaye kasha seifa) while heading 5 covers Rava's response, the passage actually spans both \u2014 however, since it begins with Abaye's seifa difficulty and then moves to Rava's reisha difficulty, and heading 4's prose explicitly describes both the challenge to Abaye and his response (matching the first half), while the current placement ('Excluded Middle') is clearly wrong, heading 4 is the better single home as it initiates the dialectic this passage contains.",
+      "chosen_heading": "Abaye Explains Seifa",
+      "current_heading": "Excluded Middle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "One Head Problem",
+    "candidates": [
+      "Abaye: Direct Only",
+      "Rava: Periodic OK",
+      "Abaye Explains Seifa",
+      "Rava Explains Reisha",
+      "Birds Example",
+      "One Head Problem",
+      "Rav Menasha Hiding",
+      "Mark Problem",
+      "Mashing Solution",
+      "Written vs. Oral",
+      "Five Defects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of question-and-answer about the bird-head test: item 1 raises the 'maybe this bird was the properly slaughtered one' problem, item 2 answers with hiding under the cloak, item 3 raises the mark objection and answers with mashing, and item 4 raises the 'perhaps Samaritans don't require bird slaughter' challenge \u2014 this entire sequence fits under heading 5 ('One Head Problem') which describes exactly this concern, and the subsequent headings 6\u20138 describe the same sub-answers, suggesting the passage is correctly placed at the start of this discussion.",
+      "chosen_heading": "One Head Problem",
+      "current_heading": "One Head Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Five Defects",
+    "candidates": [
+      "Rav Menasha Hiding",
+      "Mark Problem",
+      "Mashing Solution",
+      "Written vs. Oral",
+      "Five Defects",
+      "All Unwritten",
+      "Embrace Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rhetorical rebuttal listing the five defects (shehiyah, drasah, chaladah, hagramah, ikkur) and asking 'are they written?' \u2014 which is precisely what section 5 'All Unwritten' describes, not section 4 which merely catalogs the defects without the rebuttal argument.",
+      "chosen_heading": "All Unwritten",
+      "current_heading": "Five Defects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Embrace Principle",
+    "candidates": [
+      "All Unwritten",
+      "Embrace Principle",
+      "Matza Permitted",
+      "Rabbi Eliezer Strict"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Embrace Principle",
+      "first_confidence": "high",
+      "first_reason": "Item 1 articulates the 'embrace principle' \u2014 once a community has embraced a practice, that embrace grounds trust \u2014 which is precisely what the 'Embrace Principle' prose describes.",
+      "second_heading": "Matza Permitted",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the tannaic dispute via the baraita about Samaritan matza being permitted, which matches the 'Matza Permitted' prose exactly.",
+      "current_heading": "Embrace Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Rabbi Eliezer Strict",
+    "candidates": [
+      "Matza Permitted",
+      "Rabbi Eliezer Strict",
+      "Rabban Shimon Lenient",
+      "Core Debate",
+      "Tanna Kamma Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Eliezer Strict",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the baraita itself presenting Rabbi Elazar's prohibition and Rabban Shimon ben Gamliel's lenient counter-position, matching headings 'Rabbi Eliezer Strict' and 'Rabban Shimon Lenient' \u2014 but since they must go under ONE heading for the split's first half, the baraita's Rabbi Elazar position (item 1) belongs under heading 1 'Rabbi Eliezer Strict' which discusses exactly this prohibition and its reasoning, while item 2 belongs under heading 2 'Rabban Shimon Lenient'.",
+      "second_heading": "Matza Permitted",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's analysis of the baraita beginning with 'The Master said: matza of a Samaritan is permitted,' which matches heading 0 'Matza Permitted' whose prose explicitly discusses this same Gemara analysis of the braisa and the shimur question.",
+      "current_heading": "Rabbi Eliezer Strict",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Tanna Kamma Position",
+    "candidates": [
+      "Rabban Shimon Lenient",
+      "Core Debate",
+      "Tanna Kamma Position",
+      "Why Clear Rules",
+      "Rava: Check Knife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's analysis of what distinguishes the tanna kamma from Rabban Shimon ben Gamliel \u2014 the core debate \u2014 which is precisely what candidate 1 ('Core Debate') describes in its prose.",
+      "chosen_heading": "Core Debate",
+      "current_heading": "Tanna Kamma Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rava: Check Knife",
+    "candidates": [
+      "Why Clear Rules",
+      "Rava: Check Knife",
+      "Heter vs. Issur Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rava's ruling about a Jewish transgressor who eats carcasses for appetite, checking the knife and permitting his slaughter \u2014 exactly what the 'Rava: Check Knife' section prose describes.",
+      "chosen_heading": "Rava: Check Knife",
+      "current_heading": "Rava: Check Knife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Heter vs. Issur Logic",
+    "candidates": [
+      "Heter vs. Issur Logic",
+      "Effort Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states and explains the 'lo shavek heiteira ve'achil issura' principle, which is precisely what Heading 0 ('Heter vs. Issur Logic') discusses.",
+      "chosen_heading": "Heter vs. Issur Logic",
+      "current_heading": "Heter vs. Issur Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Effort Threshold",
+    "candidates": [
+      "Effort Threshold",
+      "Chametz Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge about why examination is needed and the answer that the transgressor will not exert himself (mitrach lo tarach), which is precisely what the 'Effort Threshold' prose describes.",
+      "chosen_heading": "Effort Threshold",
+      "current_heading": "Effort Threshold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Chametz Permitted",
+    "candidates": [
+      "Chametz Permitted",
+      "The Swap Logic",
+      "Gemara Precision"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Chametz Permitted",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita itself (the leavened bread of transgressors is permitted after Passover because they exchange it), which is precisely what candidate 0 'Chametz Permitted' describes \u2014 introducing the baraita and its surprising ruling.",
+      "second_heading": "Gemara Precision",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's assumption that the baraita follows Rabbi Yehuda and the derivation of the lo shavek heiteira principle, which exactly matches candidate 2 'Gemara Precision' describing the Gemara's analysis of whose view the baraita follows and the reasoning therefrom.",
+      "current_heading": "Chametz Permitted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Gemara Precision",
+    "candidates": [
+      "The Swap Logic",
+      "Gemara Precision",
+      "Knowledge vs. Presumption",
+      "Tosefta List",
+      "Arel Case",
+      "One Area Principle",
+      "Mumar L'Kashrut"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Gemara Precision",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Gemara's challenge and resolution regarding whether the baraita follows Rabbi Shimon (rabbinic) or Rabbi Yehuda (biblical), culminating in the a fortiori argument \u2014 precisely what candidate 1 ('Gemara Precision') describes.",
+      "second_heading": "Tosefta List",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces an entirely new citation (a Tosefta about hakol shochtin listing Samaritans, uncircumcised men, and Jewish transgressors) that candidate 3 ('Tosefta List') describes as a direct commentary on the Mishna's hakol shochtin.",
+      "current_heading": "Gemara Precision",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Mumar L'Kashrut",
+    "candidates": [
+      "Knowledge vs. Presumption",
+      "Tosefta List",
+      "Arel Case",
+      "One Area Principle",
+      "Mumar L'Kashrut",
+      "Repeat Sin",
+      "Two Sins Erase",
+      "Salanter Coda",
+      "Cannot Trust Mumar",
+      "Idolater Trusted",
+      "Separate Areas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about what the 'yisrael mumar' in the tosefta refers to, concluding it must be a mumar l'oso davar (transgressor regarding kashrut itself), and connecting this to Rava's position \u2014 exactly what the 'Mumar L'Kashrut' section's prose describes.",
+      "chosen_heading": "Mumar L'Kashrut",
+      "current_heading": "Mumar L'Kashrut",
+      "moved": false
+    }
+  }
+]

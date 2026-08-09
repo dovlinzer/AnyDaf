@@ -1,0 +1,429 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "World Created For",
+    "candidates": [
+      "World Created For",
+      "Names of Mashiach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the three-way debate between Rav, Shmuel, and Rabbi Yo\u1e25anan about the purpose of creation (for David, Moses, or Messiah), which is exactly what the 'World Created For' section's prose discusses in detail.",
+      "chosen_heading": "World Created For",
+      "current_heading": "World Created For",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Names of Mashiach",
+    "candidates": [
+      "Names of Mashiach",
+      "Mashiach Leadership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the names of Mashiach as debated by various schools, which is precisely what the 'Names of Mashiach' section's prose addresses in detail.",
+      "chosen_heading": "Names of Mashiach",
+      "current_heading": "Names of Mashiach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Mashiach Leadership",
+    "candidates": [
+      "Mashiach Leadership",
+      "David vs. Mashiach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Nachman and Rav's statements about who the Messiah resembles among the living and dead, which is precisely what the 'Mashiach Leadership' prose discusses in detail.",
+      "chosen_heading": "Mashiach Leadership",
+      "current_heading": "Mashiach Leadership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "David vs. Mashiach",
+    "candidates": [
+      "David vs. Mashiach",
+      "Length Calculations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rav Yehuda/Rav's teaching on a future David, the akim/heikim distinction, and the Keisar upalgi Keisar analogy is precisely what the 'David vs. Mashiach' section prose describes and analyzes.",
+      "chosen_heading": "David vs. Mashiach",
+      "current_heading": "David vs. Mashiach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Length Calculations",
+    "candidates": [
+      "Length Calculations",
+      "History Duration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 Rabbi Simlai's rooster/bat parable, Rabbi Abbahu's exchange with the heretic, and the baraita on the duration of the messianic era (40/70/3 generations, Rabbi Hillel's denial, Rav Yosef's refutation) \u2014 are explicitly discussed together in the 'Length Calculations' prose, which covers exactly this sequence from the Amos verse through Zechariah 9:9.",
+      "chosen_heading": "Length Calculations",
+      "current_heading": "Length Calculations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "History Duration",
+    "candidates": [
+      "History Duration",
+      "Prophetic Visions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items discuss the duration of the messianic era (yemot ha-Mashiach) with various opinions from Rabbi Eliezer, Rabbi Dosa, Rabbi Yehuda HaNasi, Avimi, Rav Yehuda/Shmuel, and Rav Na\u1e25man bar Yitz\u1e25ak, which exactly matches the 'History Duration' section prose that covers all these same opinions in the same order.",
+      "chosen_heading": "History Duration",
+      "current_heading": "History Duration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Prophetic Visions",
+    "candidates": [
+      "Prophetic Visions",
+      "Shmuel's View",
+      "Reward Levels",
+      "Baalei Teshuvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yo\u1e25anan's statement about prophets prophesying only about the messianic era and the contrast with Shmuel's view, and the current heading's prose explicitly covers both elements together, making it the best match.",
+      "chosen_heading": "Prophetic Visions",
+      "current_heading": "Prophetic Visions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Baalei Teshuvah",
+    "candidates": [
+      "Shmuel's View",
+      "Reward Levels",
+      "Baalei Teshuvah",
+      "Eden Reward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the dispute between Rabbi Abbahu/Rav and Rabbi Yochanan over whether ba'alei teshuvah or tzaddikim gemurim occupy a higher place, with the verse 'shalom shalom l'rachok v'lakarov' as the proof-text \u2014 exactly what the 'Baalei Teshuvah' prose describes.",
+      "chosen_heading": "Baalei Teshuvah",
+      "current_heading": "Baalei Teshuvah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Eden Reward",
+    "candidates": [
+      "Eden Reward",
+      "Prooftext"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the reward of Torah scholars introduced by Rabbi \u1e24iyya bar Abba/Rabbi Yo\u1e25anan ('no eye has seen') and the subsequent Gemara inquiry into what that unseen reward is (wine preserved since creation, Eden), which is precisely what the 'Eden Reward' prose section discusses.",
+      "chosen_heading": "Eden Reward",
+      "current_heading": "Eden Reward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Prooftext",
+    "candidates": [
+      "Prooftext",
+      "Apikoros Definition",
+      "Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita on 'ki devar Hashem bazah' applied to one who denies Torah from Heaven and mentions the epikoros, which is precisely what the 'Prooftext' section's prose discusses as its primary content.",
+      "chosen_heading": "Prooftext",
+      "current_heading": "Prooftext",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Interpretations",
+    "candidates": [
+      "Apikoros Definition",
+      "Interpretations",
+      "Learn and Teach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the Rabbi Elazar HaModa'i statement (mikan amar Rabbi Eliezer HaModai) about the five who have no share in the World-to-Come, which is explicitly discussed in the 'Interpretations' section prose that references this exact passage and its derivation from the verse.",
+      "chosen_heading": "Interpretations",
+      "current_heading": "Interpretations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Learn and Teach",
+    "candidates": [
+      "Learn and Teach",
+      "Chazarah",
+      "Forgetting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items (the baraita about Torah from Heaven, Rabbi Meir/Natan/Nehorai on learning and teaching, and Rabbi Yishmael on idol worship) are explicitly discussed in the 'Learn and Teach' prose, which covers exactly this sequence of baraitot interpreting 'ki devar Hashem bazah.'",
+      "chosen_heading": "Learn and Teach",
+      "current_heading": "Learn and Teach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Forgetting",
+    "candidates": [
+      "Chazarah",
+      "Forgetting",
+      "Torah Labor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the ben Korcha quote (sowing/reaping) AND the Yehoshua quote (birth/burial), and candidate 0 ('Chazarah') explicitly discusses the ben Korcha quote as its primary content, while candidate 1 ('Forgetting') discusses only the Yehoshua quote \u2014 placing both quotes under 'Chazarah' keeps them together as a unit, which matches how candidate 0's prose already references the ben Korcha statement and then leads into the concept of failing to follow through.",
+      "chosen_heading": "Chazarah",
+      "current_heading": "Forgetting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Torah Labor",
+    "candidates": [
+      "Forgetting",
+      "Torah Labor",
+      "Lishmah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Akiva's 'sing every day,' Rav Yitz\u1e25ak bar Avudimi's verse, and Rabbi Elazar's chain culminating in Rava's receptacle statement \u2014 are precisely the content discussed in the 'Torah Labor' prose, which quotes and explains each of these passages in sequence.",
+      "chosen_heading": "Torah Labor",
+      "current_heading": "Torah Labor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Lishmah",
+    "candidates": [
+      "Lishmah",
+      "Menashe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Lishmah' explicitly discusses and quotes this exact passage about Reish Lakish's interpretation of the adulterer verse as referring to one who learns Torah intermittently, making it the clear home for this item.",
+      "chosen_heading": "Lishmah",
+      "current_heading": "Lishmah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Menashe",
+    "candidates": [
+      "Menashe",
+      "Divine Rebuke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces Manasseh ben Hezekiah teaching flawed narratives, which is precisely what the 'Menashe' section's prose discusses and expounds upon.",
+      "chosen_heading": "Menashe",
+      "current_heading": "Menashe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Divine Rebuke",
+    "candidates": [
+      "Divine Rebuke",
+      "Timna Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are about Manasseh's dismissal of Torah verses and the Divine rebuke plus Rabbi Asi's teaching about the evil inclination growing like a cart rope \u2014 exactly what the 'Divine Rebuke' prose discusses in detail.",
+      "chosen_heading": "Divine Rebuke",
+      "current_heading": "Divine Rebuke",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Timna Story",
+    "candidates": [
+      "Timna Story",
+      "Mandrakes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the continuous Timna narrative (her royal lineage, her attempt to convert, rejection by the Patriarchs, becoming Eliphaz's concubine, and the emergence of Amalek), which is precisely what the 'Timna Story' prose discusses.",
+      "chosen_heading": "Timna Story",
+      "current_heading": "Timna Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Mandrakes",
+    "candidates": [
+      "Mandrakes",
+      "Peace and Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Reuben finding dudaim during wheat harvest and the righteous not stealing, which directly matches the prose under 'Mandrakes' that covers exactly these topics including the same Rav/Levi/Rabbi Yonatan identifications.",
+      "chosen_heading": "Mandrakes",
+      "current_heading": "Mandrakes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Peace and Protection",
+    "candidates": [
+      "Peace and Protection",
+      "Teaching Creation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the benefits of Torah study for its own sake (peace above and below, building palaces, protecting the world, advancing redemption), which matches exactly the 'Peace and Protection' prose that cites all these same statements in the same order.",
+      "chosen_heading": "Peace and Protection",
+      "current_heading": "Peace and Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Teaching Creation",
+    "candidates": [
+      "Teaching Creation",
+      "Encouraging Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Reish Lakish, Rabbi Elazar, and Rava's statements about teaching Torah creating spiritual life, which is exactly what the 'Teaching Creation' prose describes.",
+      "chosen_heading": "Teaching Creation",
+      "current_heading": "Teaching Creation",
+      "moved": false
+    }
+  }
+]

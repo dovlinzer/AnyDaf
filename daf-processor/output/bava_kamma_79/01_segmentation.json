@@ -58,7 +58,7 @@
           "timestamp": "34:06"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -102,7 +102,7 @@
           "timestamp": "55:02"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 16,
       "matched": true
     }
   ],
@@ -503,5 +503,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "34:06",
+  "amud_b_micro_title": "Ganav Gives to Third",
+  "shiur_start_daf": 79,
+  "shiur_start_amud": "a"
 }

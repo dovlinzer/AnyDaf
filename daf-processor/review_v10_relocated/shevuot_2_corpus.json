@@ -1,0 +1,206 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Shevuas Bitui",
+    "candidates": [
+      "Masechet Structure",
+      "Oaths in Court",
+      "Nedarim vs. Shevuot",
+      "Shevuas Bitui",
+      "Shevuat HaEdut",
+      "Mishnah's Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna text 'shevuot shtayim she-hein arba' is directly discussed in the 'Shevuas Bitui' section's prose, which explicitly opens with this exact phrase and explains the two-that-are-four structure of shevuat bitui.",
+      "chosen_heading": "Shevuas Bitui",
+      "current_heading": "Shevuas Bitui",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Mishnah's Cases",
+    "candidates": [
+      "Shevuat HaEdut",
+      "Mishnah's Cases",
+      "Three Awareness Points",
+      "Oleh V'Yored",
+      "Yom Kippur Inner"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the three 'two which are four' structures (yedi'ot ha-tum'ah, yitzi'ot ha-Shabbat, mar'ot nega'im) that candidate 1's prose explicitly discusses and describes in the same order and detail.",
+      "chosen_heading": "Mishnah's Cases",
+      "current_heading": "Mishnah's Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Yom Kippur Inner",
+    "candidates": [
+      "Three Awareness Points",
+      "Oleh V'Yored",
+      "Yom Kippur Inner",
+      "Musaf Goat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Oleh V'Yored",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the complete case of yediah at beginning, he'elam in between, and yediah at the end \u2014 the paradigmatic oleh ve-yored case \u2014 which is precisely what heading 1 'Oleh V'Yored' discusses.",
+      "second_heading": "Yom Kippur Inner",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the case of yediah at the beginning but no yediah at the end, where the inner goat and Yom Kippur 'toleh' (suspend), which is exactly what heading 2 'Yom Kippur Inner' discusses in detail.",
+      "current_heading": "Yom Kippur Inner",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Musaf Goat",
+    "candidates": [
+      "Musaf Goat",
+      "No Awareness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the case of no awareness at the beginning but awareness at the end, the outer goat (se'ir ha-na'aseh ba-chutz) and Yom Kippur atoning, and the gezeirah shavah from 'milvad chatat ha-kippurim' \u2014 all of which precisely matches the 'Musaf Goat' prose description.",
+      "chosen_heading": "Musaf Goat",
+      "current_heading": "Musaf Goat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "No Awareness",
+    "candidates": [
+      "No Awareness",
+      "Rabbi Yehuda",
+      "Rabbi Shimon Tahor",
+      "Rabbi Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage ends with 'divrei Rabbi Yehuda' and poses the question about what goats of New Moons atone for, which is precisely what the Rabbi Yehuda section's prose discusses \u2014 attributing the schema to Rabbi Yehuda and noting the dispute formula that signals others disagree, making this the natural home for the mishnah text that presents Rabbi Yehuda's view and introduces Rabbi Shimon's counter-position.",
+      "chosen_heading": "Rabbi Yehuda",
+      "current_heading": "No Awareness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Rabbi Meir",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Rabbi Shimon Tahor",
+      "Rabbi Meir",
+      "Interchangeable Offerings",
+      "R. Shimon b. Yehuda"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Shimon Tahor",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Shimon's view on tahor she-achal et ha-tamei and Rabbi Meir's view that all goats have equivalent atonement, which matches the 'Rabbi Shimon Tahor' and 'Rabbi Meir' prose discussion of exactly these two positions.",
+      "second_heading": "Interchangeable Offerings",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 cover the dispute about interchangeability of goats and Rabbi Shimon ben Yehuda's cumulative schema, which matches precisely the 'Interchangeable Offerings' and 'R. Shimon b. Yehuda' sections' prose content.",
+      "current_heading": "Rabbi Meir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "R. Shimon b. Yehuda",
+    "candidates": [
+      "Interchangeable Offerings",
+      "R. Shimon b. Yehuda",
+      "Se'ir Mishtale'ach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts the Rabbis questioning Rabbi Shimon about interchangeability when atonement capacities differ (rosh chodesh goat on Yom Kippur), which matches the R. Shimon b. Yehuda prose describing the cumulative atonement model and the challenge of using a limited-capacity rosh chodesh goat on Yom Kippur, culminating in the same 'kulam ba'im le-chapper' reply.",
+      "chosen_heading": "R. Shimon b. Yehuda",
+      "current_heading": "R. Shimon b. Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Se'ir Mishtale'ach",
+    "candidates": [
+      "Se'ir Mishtale'ach",
+      "Kohanim vs. Yisrael"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kohanim vs. Yisrael",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the inner goat and Yom Kippur atoning for intentional defilement of the Temple, which matches the 'Kohanim vs. Yisrael' prose discussing the parallel tracks of inner service (goat/bull) specifically for tumat mikdash ve-kodashav.",
+      "second_heading": "Se'ir Mishtale'ach",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the mishnah passage about the se'ir ha-mishtale'ach atoning for all other Torah transgressions, which is the exact content the 'Se'ir Mishtale'ach' prose discusses in detail.",
+      "current_heading": "Se'ir Mishtale'ach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Kohanim vs. Yisrael",
+    "candidates": [
+      "Kohanim vs. Yisrael",
+      "R. Shimon on Kohanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that the scapegoat atones equally for Israelites, priests, and the anointed priest, and that the difference is only that the bull atones for the kohanim regarding tumat mikdash ve-kodashav \u2014 exactly what the prose of 'Kohanim vs. Yisrael' discusses.",
+      "chosen_heading": "Kohanim vs. Yisrael",
+      "current_heading": "Kohanim vs. Yisrael",
+      "moved": false
+    }
+  }
+]

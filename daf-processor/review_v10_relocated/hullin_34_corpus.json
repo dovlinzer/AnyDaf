@@ -1,0 +1,278 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Hands as Rishon",
+    "candidates": [
+      "Opening Question",
+      "Hands as Rishon",
+      "Rabbi Akiva & Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's objection that hands could be second-degree (sheni) and the mishna could follow Rabbi Akiva who holds sheni makes shlishi in chulin, which is exactly what the 'Hands as Rishon' prose describes as the Gemara's next question after establishing the rishon answer.",
+      "chosen_heading": "Hands as Rishon",
+      "current_heading": "Hands as Rishon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rabbi Akiva & Vessels",
+    "candidates": [
+      "Rabbi Akiva & Vessels",
+      "Biblical vs. Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Akiva's drasha on the earthenware vessel verse and the sheni-to-shlishi teaching, which is precisely what the 'Rabbi Akiva & Vessels' prose section describes.",
+      "chosen_heading": "Rabbi Akiva & Vessels",
+      "current_heading": "Rabbi Akiva & Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Biblical vs. Rabbinic",
+    "candidates": [
+      "Biblical vs. Rabbinic",
+      "Chulin & Kodesh",
+      "Rabbi Yehoshua's Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the distinction between Torah-law impurity and rabbinic-law impurity, which is precisely what the 'Biblical vs. Rabbinic' section's prose describes as the Gemara's qualification/distinction.",
+      "chosen_heading": "Biblical vs. Rabbinic",
+      "current_heading": "Biblical vs. Rabbinic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Rabbi Yehoshua's Limit",
+    "candidates": [
+      "Chulin & Kodesh",
+      "Rabbi Yehoshua's Limit",
+      "Eliezer vs. Yehoshua",
+      "Meat vs. Produce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together present Rabbi Elazar/Rabbi Hoshaya's explanation that the mishnah deals with chulin treated like kodesh, contrasted with Rabbi Yehoshua's position \u2014 exactly what Candidate 0 ('Chulin & Kodesh') describes, while the current placement (Candidate 1) covers the inferences and conclusions drawn afterward.",
+      "chosen_heading": "Chulin & Kodesh",
+      "current_heading": "Rabbi Yehoshua's Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Meat vs. Produce",
+    "candidates": [
+      "Eliezer vs. Yehoshua",
+      "Meat vs. Produce",
+      "Ulla's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the exact content described in candidate 0's prose \u2014 the gemara's suggestion to interpret the mishna with chulin treated like terumah, and the rejection because the mishna discusses meat (basar biterumah meika), which perfectly matches 'Eliezer vs. Yehoshua' section, while candidate 1 ('Meat vs. Produce') describes only item 3's content about basar b'basar michallef vs. basar b'peiri.",
+      "chosen_heading": "Eliezer vs. Yehoshua",
+      "current_heading": "Meat vs. Produce",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Ulla's Position",
+    "candidates": [
+      "Meat vs. Produce",
+      "Ulla's Position",
+      "Channah's Report"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly Ulla's statement \u2014 his colleagues' view and his own counter-reading using the lo mibaiya formulation \u2014 which is precisely what candidate 1 ('Ulla's Position') describes in its prose.",
+      "chosen_heading": "Ulla's Position",
+      "current_heading": "Ulla's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Channah's Report",
+    "candidates": [
+      "Channah's Report",
+      "You Are What Eaten"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage identifies 'the colleagues' as Rabbah bar bar Channah transmitting Rabbi Yochanan's report of the exchange between Rabbi Eliezer and Rabbi Yehoshua, which is precisely what the prose in heading 0 ('Channah's Report') describes.",
+      "chosen_heading": "Channah's Report",
+      "current_heading": "Channah's Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "You Are What Eaten",
+    "candidates": [
+      "You Are What Eaten",
+      "Food is Stricter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Eliezer's opening argument to Rabbi Yehoshua using the nivlat of tahor case to establish that the eater can be stricter than the food, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "You Are What Eaten",
+      "current_heading": "You Are What Eaten",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Food is Stricter",
+    "candidates": [
+      "Food is Stricter",
+      "Liquids & Sheni"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same exchange between Rabbi Yehoshua and Rabbi Eliezer about whether food's stringency relative to the eater proves anything about tumah levels, which is precisely what the 'Food is Stricter' prose section describes.",
+      "chosen_heading": "Food is Stricter",
+      "current_heading": "Food is Stricter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Liquids & Sheni",
+    "candidates": [
+      "Liquids & Sheni",
+      "Shlishi to Sheni",
+      "Kodesh Perspective",
+      "Zeira's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact exchange between Rabbi Yehoshua and Rabbi Eliezer about a sheni producing a sheni via liquids (mashkin) and the mishnah proof about kol haposel biterumah, which is precisely what the 'Liquids & Sheni' prose section describes in detail.",
+      "chosen_heading": "Liquids & Sheni",
+      "current_heading": "Liquids & Sheni",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Zeira's Challenge",
+    "candidates": [
+      "Shlishi to Sheni",
+      "Kodesh Perspective",
+      "Zeira's Challenge",
+      "Ulla on Shlishi"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Shlishi to Sheni",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rabbi Eliezer's challenge about shlishi becoming sheni and Rabbi Yehoshua's answer invoking the teruma/kodesh principle, matching headings 0 and 1's prose about that exact exchange.",
+      "second_heading": "Zeira's Challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 cover Rabbi Zeira's chain of tradition, his objection to Rabbi Asi, the lo mibaya response, and the amoraim dispute about Rabbi Yochanan's view \u2014 exactly what heading 2 ('Zeira's Challenge') describes in detail.",
+      "current_heading": "Zeira's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Ulla on Shlishi",
+    "candidates": [
+      "Ulla on Shlishi",
+      "Hamnuna's Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present Ulla's ruling that eating a shlishi of chulin treated as terumah disqualifies one's body from eating terumah, followed by the gemara's challenge that this is already implied by the mishna, and Ulla's response \u2014 exactly the content described in heading 0's prose.",
+      "chosen_heading": "Ulla on Shlishi",
+      "current_heading": "Ulla on Shlishi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Hamnuna's Problem",
+    "candidates": [
+      "Hamnuna's Problem",
+      "Solution & Proportions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Hamnuna's objection to Ulla from the mishna in Teharot, which is exactly what heading 0 'Hamnuna's Problem' describes \u2014 the posing of the objection and the text of the mishna itself.",
+      "chosen_heading": "Hamnuna's Problem",
+      "current_heading": "Hamnuna's Problem",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rav Assi Case",
+    "candidates": [
+      "Intro & Rabbi Shimon",
+      "Rav Assi Case",
+      "Lamp vs. Menorah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge to Rav Yosef about Rabbi Yochanan holding like Rabbi Yehuda, using the incident of the candelabrum falling on Rabbi Asi's cloak \u2014 exactly what the 'Rav Assi Case' prose describes.",
+      "chosen_heading": "Rav Assi Case",
+      "current_heading": "Rav Assi Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Lamp vs. Menorah",
+    "candidates": [
+      "Lamp vs. Menorah",
+      "Canopy Bed",
+      "Chulyot & Assembly",
+      "Gezeirah Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items cover the Reish Lakish/Rabbi Yochanan dispute about moving a candelabrum with one vs. two hands, the 'kove'a makom' rationale offered by Rabba and Rav Yosef, and Abaye's challenge from the groom's canopy \u2014 exactly the content described in the 'Lamp vs. Menorah' prose, which is where the passage currently sits.",
+      "chosen_heading": "Lamp vs. Menorah",
+      "current_heading": "Lamp vs. Menorah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Gezeirah Scope",
+    "candidates": [
+      "Canopy Bed",
+      "Chulyot & Assembly",
+      "Gezeirah Scope",
+      "Stam Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's gradation of cases (actual chulyot vs. grooved menorahs, large vs. small, the scope of the gezeirah, and the dispute between the two opinions), which is precisely what the 'Gezeirah Scope' section's prose describes.",
+      "chosen_heading": "Gezeirah Scope",
+      "current_heading": "Gezeirah Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Stam Mishna",
+    "candidates": [
+      "Stam Mishna",
+      "Rav Zeira's Answer",
+      "Rabbi's Ruling",
+      "Criticized Practices",
+      "Rabbi Abahu's Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge to Rabbi Yochanan's consistency \u2014 questioning how he can hold like Rabbi Yehuda when his own principle is 'halacha follows stam mishna,' and citing the mukhni mishna as the stam that implies Rabbi Shimon's view \u2014 which is precisely what the 'Stam Mishna' section's prose describes.",
+      "chosen_heading": "Stam Mishna",
+      "current_heading": "Stam Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Rabbi Abahu's Practice",
+    "candidates": [
+      "Rav Zeira's Answer",
+      "Rabbi's Ruling",
+      "Criticized Practices",
+      "Rabbi Abahu's Practice",
+      "Oil vs. Naphtha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Zeira's Answer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Zeira's resolution of the contradiction with Rabbi Yochanan, which is precisely what heading 0 ('Rav Zeira's Answer') discusses, including the phrase 'shelo lishbor devarav shel Rabbi Yochanan'.",
+      "second_heading": "Rabbi's Ruling",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 cover Rabbi Yehoshua ben Levi's report of Rabbi's ruling in Diospora and Rabbi Abahu's differential practice, which correspond exactly to headings 1 ('Rabbi's Ruling') and 2/3 \u2014 but both items 2 and 3 together belong under heading 1 and 2 respectively; however since FORM 2 only allows one split, items 2-3 covering Rabbi's ambiguous ruling and Rabbi Abahu's deference to Rabbi Yochanan best fit heading 1 ('Rabbi's Ruling') which introduces the Diospora incident that leads into the Abahu discussion.",
+      "current_heading": "Rabbi Abahu's Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Oil vs. Naphtha",
+    "candidates": [
+      "Rabbi Abahu's Practice",
+      "Oil vs. Naphtha",
+      "Rav Avya Anecdote",
+      "Vessel Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Yehuda's ruling on oil vs. naphtha lamps and Rabba/Rav Yosef's counter-ruling, which is precisely what the 'Oil vs. Naphtha' section's prose describes and analyzes.",
+      "chosen_heading": "Oil vs. Naphtha",
+      "current_heading": "Oil vs. Naphtha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Vessel Doctrine",
+    "candidates": [
+      "Rav Avya Anecdote",
+      "Vessel Doctrine",
+      "Vow Case",
+      "Firstborn Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rav Avya anecdote including the baraita about bracelets/nose-rings and Rav Nachman's closing remark, and the 'Vessel Doctrine' prose (index 1) explicitly covers all of this content \u2014 the torat keli principle, the baraita about jewelry, Ulla's explanation, and Rav Nachman bar Yitzchak's concluding blessing \u2014 making it the clear and correct home for this passage.",
+      "chosen_heading": "Vessel Doctrine",
+      "current_heading": "Vessel Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Firstborn Problem",
+    "candidates": [
+      "Vow Case",
+      "Firstborn Problem",
+      "Annulment Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present Abaye's contradiction between Rabbi Shimon's lamp ruling and bechor ruling, followed by Rabba's resolution distinguishing the lamp (anticipated) from the bechor (triple contingency) \u2014 precisely the content described in the 'Firstborn Problem' prose.",
+      "chosen_heading": "Firstborn Problem",
+      "current_heading": "Firstborn Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Annulment Types",
+    "candidates": [
+      "Annulment Types",
+      "Challenge to Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of objection-and-answer about vow nullification (husband's annulment and sage's dissolution) versus the bechor case, which is precisely what the 'Annulment Types' prose describes in detail, including the Rav Pinchas/Rava principle and the three-laypeople answer.",
+      "chosen_heading": "Annulment Types",
+      "current_heading": "Annulment Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Challenge to Rabbi Shimon",
+    "candidates": [
+      "Challenge to Rabbi Shimon",
+      "Biblical vs. Rabbinical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the challenge and reasoning described in the 'Challenge to Rabbi Shimon' prose \u2014 Abaye's contradiction about the burning lamp, the inference about extinguished vs. burning, the principle of davar she'eino mitkavein, and the bench-dragging baraita \u2014 all of which are explicitly discussed in candidate 0's prose.",
+      "chosen_heading": "Challenge to Rabbi Shimon",
+      "current_heading": "Challenge to Rabbi Shimon",
+      "moved": false
+    }
+  }
+]

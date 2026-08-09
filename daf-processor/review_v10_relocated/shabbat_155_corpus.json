@@ -1,0 +1,311 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Vetch & Carobs",
+    "candidates": [
+      "Intro: Pikei & Kiffin",
+      "Why Spread Straw",
+      "Zirin Prohibition",
+      "Vetch & Carobs",
+      "Pikei=Kiffin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage introduces all the terms (pikei, kiffin, zirin, shachat, charuvin) and belongs under the 'Intro: Pikei & Kiffin' heading, which is specifically described as introducing this Mishnah and its terminology, rather than under 'Vetch & Carobs' which discusses only the latter portion of the Mishnah's content.",
+      "chosen_heading": "Intro: Pikei & Kiffin",
+      "current_heading": "Vetch & Carobs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Pikei=Kiffin",
+    "candidates": [
+      "Vetch & Carobs",
+      "Pikei=Kiffin",
+      "Non-Food Creation",
+      "Chisda's Formula",
+      "R. Yehuda's Terms",
+      "Don't Scatter Food",
+      "Twigs Need Work",
+      "Rava's Formula",
+      "Vetch Test",
+      "Huna Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers Rav Huna's identification of peki'in/kifin/zirin and Rav Chisda's explanation of the rationale, which maps directly to the 'Pikei=Kiffin' section's prose about Rav Huna's reading, with the Non-Food Creation/Chisda's Formula sections handling the rationale separately \u2014 but the Gemara text as a single unit is best placed under 'Pikei=Kiffin' where Rav Huna's position is introduced.",
+      "chosen_heading": "Pikei=Kiffin",
+      "current_heading": "Pikei=Kiffin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Huna Counter",
+    "candidates": [
+      "Non-Food Creation",
+      "Chisda's Formula",
+      "R. Yehuda's Terms",
+      "Don't Scatter Food",
+      "Twigs Need Work",
+      "Rava's Formula",
+      "Vetch Test",
+      "Huna Counter",
+      "Gourds Test",
+      "Huna Counter II",
+      "Chanan Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All six items \u2014 Rav Yehuda's reading of the Mishnah terms, the vetch/carob challenge to Rav Huna, Rav Huna's counter-reading, the Rabbi Yehuda exception for small animals, the reinterpretation of 'daka,' and the final 'kasha' \u2014 are precisely the content described in the 'Huna Counter' prose, which explicitly covers all these points in sequence.",
+      "chosen_heading": "Huna Counter",
+      "current_heading": "Huna Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Chanan Test",
+    "candidates": [
+      "Gourds Test",
+      "Huna Counter II",
+      "Chanan Test",
+      "Preserving Huna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the 'Gourds Test' \u2014 item 1 introduces the proof from the mishna about chopping pumpkins/gourds, and item 2 contains the full challenge and Rav Yehuda's response about soft vs. hard carcasses (elephant flesh / puppies), all of which is described in candidate 0's prose and candidate 1's prose together, but the passage as a whole (challenge + resolution) matches heading 0 ('Gourds Test') which covers the entire gourd/carcass sugya including the analogy debate and the tarchinan be'ochla conclusion.",
+      "chosen_heading": "Gourds Test",
+      "current_heading": "Chanan Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Preserving Huna",
+    "candidates": [
+      "Chanan Test",
+      "Preserving Huna",
+      "Camel Feeding",
+      "Calf Feeding",
+      "Water & Bran"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the proof from Rav \u1e24anan of Neharde'a about crumbling straw and alfalfa AND the Gemara's rejection (rotten straw / young donkeys), which together constitute the full 'Chanan Test' argument described in candidate 0's prose, while candidate 1 ('Preserving Huna') only discusses the rejection/deflection portion without the initial proof.",
+      "chosen_heading": "Chanan Test",
+      "current_heading": "Preserving Huna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Water & Bran",
+    "candidates": [
+      "Camel Feeding",
+      "Calf Feeding",
+      "Water & Bran",
+      "Water for Birds",
+      "Ovsin=Fullness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna passage covers all topics from camel feeding through water for birds in one continuous text, but the first heading 'Camel Feeding' (index 0) is where this Mishna should be introduced, as it begins with the camel feeding laws and the subsequent headings (1-3) each address subsections of this same Mishna passage.",
+      "chosen_heading": "Camel Feeding",
+      "current_heading": "Water & Bran",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Ovsin=Fullness",
+    "candidates": [
+      "Water for Birds",
+      "Ovsin=Fullness",
+      "Hamra vs. Malatin",
+      "Chisda: Kli Issue",
+      "Yosef Challenge",
+      "Yehuda Defense",
+      "Chisda Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines 'ovsin' as force-feeding to create a trough in the stomach and confirms this is possible via Rav Yirmeyah of Difti's testimony about an Arab feeding a camel a kor \u2014 exactly what the 'Ovsin=Fullness' section prose describes.",
+      "chosen_heading": "Ovsin=Fullness",
+      "current_heading": "Ovsin=Fullness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Chisda Defense",
+    "candidates": [
+      "Hamra vs. Malatin",
+      "Chisda: Kli Issue",
+      "Yosef Challenge",
+      "Yehuda Defense",
+      "Chisda Defense",
+      "Dog & Pig"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items form a continuous dialectical unit: item 1 defines hamra'a vs. halata (Rav Yehuda and Rav Chisda), items 2-3 are Rav Yosef's challenge and its resolution pointing to a refutation of Rav Yehuda, and item 4 is Rav Yehuda's defense via the mezonotan alecha principle \u2014 exactly the content described in candidate 4's prose, which covers all of this including the dog/pig baraita foreshadowed at the end.",
+      "chosen_heading": "Chisda Defense",
+      "current_heading": "Chisda Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Dog & Pig",
+    "candidates": [
+      "Dog & Pig",
+      "Water Case",
+      "Responsibility Test",
+      "Water Specificity",
+      "Necessity Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's direct proof from the Mishnah's water case (bees/coop doves vs. geese/chickens/Herodian doves) to establish the mezonotan alecha principle, which is exactly what the 'Water Case' prose describes.",
+      "chosen_heading": "Water Case",
+      "current_heading": "Dog & Pig",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Necessity Standard",
+    "candidates": [
+      "Water Case",
+      "Responsibility Test",
+      "Water Specificity",
+      "Necessity Standard",
+      "Derasha: Dog",
+      "Digestion Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage poses exactly the question discussed in 'Water Specificity' \u2014 why does the Mishnah single out water rather than forbidding all food \u2014 and then provides the answer (water is found in the lake), which flows naturally into that section's prose rather than belonging under 'Necessity Standard' which elaborates on the implications of that answer.",
+      "chosen_heading": "Water Specificity",
+      "current_heading": "Necessity Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Digestion Law",
+    "candidates": [
+      "Derasha: Dog",
+      "Digestion Law",
+      "Proper Conduct"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full derasha of Rabbi Yona including both the verse interpretation and the Mishnaic proof, which together form the complete unit that begins under heading 0 ('Derasha: Dog'), while heading 1 ('Digestion Law') only covers the consequence and halachic implication as separate prose \u2014 the passage should be under heading 0 where the derasha is introduced.",
+      "chosen_heading": "Derasha: Dog",
+      "current_heading": "Digestion Law",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Proper Conduct",
+    "candidates": [
+      "Digestion Law",
+      "Proper Conduct",
+      "Mari's Rule",
+      "Field vs. City",
+      "Pappa's Saying",
+      "Hamra Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all four topics sequentially (proper conduct to feed a dog, measure of food, field vs. city rule, and Pappa's aphorism), but since the essay has broken these into separate headings 1-4 each matching a sub-portion, the current placement under 'Proper Conduct' (index 1) is where the passage begins and is already correctly placed \u2014 however, the entire Gemara passage spanning Rav Hamnuna through Rav Pappa best fits under heading 1 as the starting section that introduces all these teachings, matching the current placement.",
+      "chosen_heading": "Proper Conduct",
+      "current_heading": "Proper Conduct",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Hamra Method",
+    "candidates": [
+      "Mari's Rule",
+      "Field vs. City",
+      "Pappa's Saying",
+      "Hamra Method",
+      "Halata Method",
+      "Proof Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is a baraita defining both hamra'a and halata methods together, and the current placement under 'Hamra Method' is where the essay author has positioned it, with the halata definition covered by the prose in section 4 and the proof structure in section 5 \u2014 the baraita as a whole unit introducing both definitions belongs under the heading that opens this baraita discussion, which is section 3.",
+      "chosen_heading": "Hamra Method",
+      "current_heading": "Hamra Method",
+      "moved": false
+    }
+  }
+]

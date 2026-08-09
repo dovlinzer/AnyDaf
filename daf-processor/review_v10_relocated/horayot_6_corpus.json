@@ -1,0 +1,354 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Par Sheni Exegesis",
+    "candidates": [
+      "Par Sheni Exegesis",
+      "Ezra Account Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rabbi Shimon's complete baraita about 'par sheni' \u2014 the second bull being like the olah in that it is not eaten \u2014 which is precisely what the 'Par Sheni Exegesis' prose describes.",
+      "chosen_heading": "Par Sheni Exegesis",
+      "current_heading": "Par Sheni Exegesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Ezra Account Details",
+    "candidates": [
+      "Ezra Account Details",
+      "Twelve Korbanot Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Ezra 8:35 verse, the hakol olah/ke'olah distinction, and Rabbi Yehuda/Shmuel's explanation about atonement for avoda zara in Zedekiah's days \u2014 all of which are precisely what the 'Ezra Account Details' prose section describes.",
+      "chosen_heading": "Ezra Account Details",
+      "current_heading": "Ezra Account Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Twelve Korbanot Problem",
+    "candidates": [
+      "Twelve Korbanot Problem",
+      "Rabbi Meir's Count",
+      "Dead Sinners Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three opinions (Rabbi Yehuda, Rabbi Shimon, and Rabbi Meir) in one continuous Gemara unit, and the current heading's prose already summarizes all three, making it the best single home for the entire passage.",
+      "chosen_heading": "Twelve Korbanot Problem",
+      "current_heading": "Twelve Korbanot Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Dead Sinners Problem",
+    "candidates": [
+      "Rabbi Meir's Count",
+      "Dead Sinners Problem",
+      "Ein Tzibur Meis",
+      "Chatas Shemetu",
+      "Se'ir Rosh Chodesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks exactly the question 'but those who sinned have already died' which is the precise content the 'Dead Sinners Problem' section prose describes as its central challenge.",
+      "chosen_heading": "Dead Sinners Problem",
+      "current_heading": "Dead Sinners Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Se'ir Rosh Chodesh",
+    "candidates": [
+      "Ein Tzibur Meis",
+      "Chatas Shemetu",
+      "Se'ir Rosh Chodesh",
+      "Eglah Arufah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's inquiry into Rav Papa's source \u2014 item 1 raises and rejects the pasuk about generational continuity, and item 2 provides the actual derivation from se'ir Rosh Chodesh \u2014 which is precisely what candidate 1 ('Chatas Shemetu') describes in its prose.",
+      "chosen_heading": "Chatas Shemetu",
+      "current_heading": "Se'ir Rosh Chodesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Eglah Arufah",
+    "candidates": [
+      "Se'ir Rosh Chodesh",
+      "Eglah Arufah",
+      "Returning Generation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the 'mi dami' objection to the se'ir Rosh Chodesh comparison ('aval hacha vadai meisu') and then pivots to the eglah arufah source \u2014 both of which are described in candidate 0's prose as the conclusion of the Rosh Chodesh section, making it the correct home rather than the eglah arufah section.",
+      "chosen_heading": "Se'ir Rosh Chodesh",
+      "current_heading": "Eglah Arufah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Returning Generation",
+    "candidates": [
+      "Returning Generation",
+      "Hora'at Sha'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address whether the returning generation included enough survivors from the era of Zedekiah \u2014 the Ezra 3:12 proof and the Ezra 3:13 counter-answer \u2014 which is precisely what candidate 0's prose describes as the Gemara's resolution grounding Rav Papa's principle in the historical fact that most returnees belonged to the earlier generation.",
+      "chosen_heading": "Returning Generation",
+      "current_heading": "Returning Generation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Hora'at Sha'ah",
+    "candidates": [
+      "Hora'at Sha'ah",
+      "Meis Tzibur/Beis Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the intentional idol worship of Zedekiah's generation and the conclusion that it was a hora'at sha'ah, along with the ninety-six rams and seventy-seven lambs \u2014 exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Hora'at Sha'ah",
+      "current_heading": "Hora'at Sha'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Meis Tzibur/Beis Din",
+    "candidates": [
+      "Meis Tzibur/Beis Din",
+      "Rav Yosef Challenge",
+      "Abaye: Chatas Tzibur"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Meis Tzibur/Beis Din",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita and Rabbi Meir's identification, which is precisely what heading 0 ('Meis Tzibur/Beis Din') discusses in its prose.",
+      "second_heading": "Rav Yosef Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yosef's challenge proposing Rabbi Shimon as the tanna, which is exactly what heading 1 ('Rav Yosef Challenge') discusses in its prose.",
+      "current_heading": "Meis Tzibur/Beis Din",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Abaye: Chatas Tzibur",
+    "candidates": [
+      "Rav Yosef Challenge",
+      "Abaye: Chatas Tzibur",
+      "Kohanim as Kahal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement introducing the baraita about Rabbi Shimon holding that a communal sin-offering does not die, which is precisely what the 'Abaye: Chatas Tzibur' section discusses.",
+      "chosen_heading": "Abaye: Chatas Tzibur",
+      "current_heading": "Abaye: Chatas Tzibur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Kohanim as Kahal",
+    "candidates": [
+      "Kohanim as Kahal",
+      "Achuza Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's statement that Kohanim are different because they are called a kahal, which is precisely what the 'Kohanim as Kahal' section's prose describes.",
+      "chosen_heading": "Kohanim as Kahal",
+      "current_heading": "Kohanim as Kahal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Achuza Principle",
+    "candidates": [
+      "Achuza Principle",
+      "Twelve Tribes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the challenge about Kohanim bringing a par he'elem davar and Rav Acha's resolution from the achuza principle \u2014 are explicitly discussed in the 'Achuza Principle' prose, which covers exactly this sequence of objection and answer.",
+      "chosen_heading": "Achuza Principle",
+      "current_heading": "Achuza Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Twelve Tribes",
+    "candidates": [
+      "Twelve Tribes",
+      "Five Chata'ot Metot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Twelve Tribes",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are a continuous chain about whether Ephraim and Manasseh count as two tribes (the twelve tribes discussion), perfectly matching candidate 0's prose about degalim, nesi'im, and the Shlomo/Moshe chanukah proof.",
+      "second_heading": "Five Chata'ot Metot",
+      "second_confidence": "high",
+      "second_reason": "Item 4 ('What conclusion was reached?') is a wrap-up question about Rabbi Shimon's opinion on chataot, which belongs with the 'Five Chataot Metot' section discussing Rabbi Shimon's categories of chataot that must die.",
+      "current_heading": "Twelve Tribes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Five Chata'ot Metot",
+    "candidates": [
+      "Five Chata'ot Metot",
+      "Indivisible Unit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Five Chata'ot Metot",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Shimon's enumeration of the five chataot metot and begins the analysis of which cannot apply to a tzibur \u2014 exactly what heading 0's prose describes.",
+      "second_heading": "Indivisible Unit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the derivation that since three of the five categories cannot apply to a tzibur, the entire group is inapplicable (deriving the vague from the explicit), which is precisely what heading 1's prose discusses as the 'indivisible unit' principle.",
+      "current_heading": "Five Chata'ot Metot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Indivisible Unit",
+    "candidates": [
+      "Indivisible Unit",
+      "Kohen Gadol Chiyuv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Shimon's principle of learning all five categories of chataot metot as a single indivisible unit (bechad makom gmar), which is precisely what the prose under 'Indivisible Unit' discusses.",
+      "chosen_heading": "Indivisible Unit",
+      "current_heading": "Indivisible Unit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Kohen Gadol Chiyuv",
+    "candidates": [
+      "Kohen Gadol Chiyuv",
+      "Psak and Action",
+      "Forgotten Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna text presents the foundational case of the Kohen Gadol ruling unwittingly and acting unwittingly to bring a par, which is precisely what the 'Kohen Gadol Chiyuv' prose describes as the paradigm case where both components coincide.",
+      "chosen_heading": "Kohen Gadol Chiyuv",
+      "current_heading": "Kohen Gadol Chiyuv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Forgotten Reason",
+    "candidates": [
+      "Psak and Action",
+      "Forgotten Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question-and-answer about the 'shogeig ve'asah shogeig' case \u2014 the obvious question and Abaye's resolution about the forgotten-reason scenario \u2014 which is precisely what the 'Forgotten Reason' section's prose describes.",
+      "chosen_heading": "Forgotten Reason",
+      "current_heading": "Forgotten Reason",
+      "moved": false
+    }
+  }
+]

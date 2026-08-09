@@ -124,8 +124,8 @@
           "timestamp": "26:29"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Rabbi Yishmael vs. Rabbi Akiva: The Meaning of Moshavoteichem",
@@ -148,8 +148,8 @@
           "timestamp": "29:36"
         }
       ],
-      "sefaria_index": 12,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Practical Halakha on Chadash: The Rishonim's Handling of a Forbidden Grain in Diaspora",
@@ -177,7 +177,7 @@
           "timestamp": "39:31"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 6,
       "matched": false
     },
     {
@@ -206,8 +206,8 @@
           "timestamp": "44:45"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Nesachim Debate: The Underlying Dispute Between Rabbi Yishmael and Rabbi Akiva",
@@ -235,8 +235,8 @@
           "timestamp": "51:55"
         }
       ],
-      "sefaria_index": 18,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -427,5 +427,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "25:52",
+  "amud_b_micro_title": "R. Eliezer Position",
+  "shiur_start_daf": 37,
+  "shiur_start_amud": "a"
 }

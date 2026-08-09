@@ -1,0 +1,324 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Pigul/Nosar Overview",
+    "candidates": [
+      "Pigul/Nosar Overview",
+      "Tumas Yadayim Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself about pigul/nosar not combining and sheretz/neveilah/meis not combining for tumah, which is precisely what candidate 0's prose describes and analyzes in detail.",
+      "chosen_heading": "Pigul/Nosar Overview",
+      "current_heading": "Pigul/Nosar Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Tumas Yadayim Rabbinic",
+    "candidates": [
+      "Tumas Yadayim Rabbinic",
+      "Achilah Prohibition",
+      "Av vs. Velad HTumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the tumas yadayim distinction (rabbinic) and the achilah combination rule in one continuous Gemara statement, and the current heading's prose explicitly discusses Shmuel's statement about tumas yadayim being rabbinic \u2014 the achilah portion is covered under the next heading's prose but the passage as a whole is already correctly placed under its current heading since the Gemara unit begins with the tumas yadayim teaching.",
+      "chosen_heading": "Tumas Yadayim Rabbinic",
+      "current_heading": "Tumas Yadayim Rabbinic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Av vs. Velad HTumah",
+    "candidates": [
+      "Achilah Prohibition",
+      "Av vs. Velad HTumah",
+      "Derivative Tumah Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah text that introduces the av vs. velad ha-tumah combination rule, which is precisely what the 'Av vs. Velad HTumah' section's prose describes.",
+      "chosen_heading": "Av vs. Velad HTumah",
+      "current_heading": "Av vs. Velad HTumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Derivative Tumah Logic",
+    "candidates": [
+      "Derivative Tumah Logic",
+      "Food Shiurim Combos",
+      "Liquids Shiurim Combos",
+      "Rishon/Sheni Combine",
+      "Orlah & Kilayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of Rabbi Shimon's reasoning for why rishon and sheni combine, including Rava's and Rav Ashi's reformulations \u2014 exactly what the 'Derivative Tumah Logic' prose describes in detail.",
+      "chosen_heading": "Derivative Tumah Logic",
+      "current_heading": "Derivative Tumah Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Orlah & Kilayim",
+    "candidates": [
+      "Food Shiurim Combos",
+      "Liquids Shiurim Combos",
+      "Rishon/Sheni Combine",
+      "Orlah & Kilayim",
+      "Fabric Types Combine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the Mishna and Gemara about orlah and kilay ha-kerem combining, which is precisely what the 'Orlah & Kilayim' section's prose discusses, including Rabbi Shimon's position and the reinterpretation of 'ein mitztarfin' to 'ein tzrichin l'tzaref'.",
+      "chosen_heading": "Orlah & Kilayim",
+      "current_heading": "Orlah & Kilayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Fabric Types Combine",
+    "candidates": [
+      "Fabric Types Combine",
+      "Intent in Shiur"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Fabric Types Combine",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Mishna and Rabbi Shimon's explanation of why different fabric types combine, which is exactly what the 'Fabric Types Combine' prose discusses.",
+      "second_heading": "Intent in Shiur",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara baraita about cutting pieces from all materials and how intent (le-mishkav, le-moshav, la-achizah) determines the minimum shiur, which is precisely what the 'Intent in Shiur' prose elaborates on.",
+      "current_heading": "Fabric Types Combine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Intent in Shiur",
+    "candidates": [
+      "Intent in Shiur",
+      "Peruta Hana'ah Standard",
+      "R. Akiva vs. Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the meaning of 'la-achizah' (holding/grasping) and the fig-cutter usage, which is explicitly discussed in the 'Intent in Shiur' section's prose about Reish Lakish, Rabbi Yannai, and the baraita regarding finger protection for loom workers and fig harvesters.",
+      "chosen_heading": "Intent in Shiur",
+      "current_heading": "Intent in Shiur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "R. Akiva vs. Chachamim",
+    "candidates": [
+      "Peruta Hana'ah Standard",
+      "R. Akiva vs. Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The Hadran formula marks the conclusion of a tractate/chapter, which fits better under the heading introducing a new major topic (the me'ilah act itself with the perutah standard) as a transitional marker, though neither heading is an obvious perfect match for a Hadran.",
+      "chosen_heading": "Peruta Hana'ah Standard",
+      "current_heading": "R. Akiva vs. Chachamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "R. Akiva vs. Chachamim",
+    "candidates": [
+      "R. Akiva vs. Chachamim",
+      "Me'ilah Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah presenting Rabbi Akiva's position versus the Chachamim's position, which is precisely what the 'R. Akiva vs. Chachamim' section's prose discusses and translates.",
+      "chosen_heading": "R. Akiva vs. Chachamim",
+      "current_heading": "R. Akiva vs. Chachamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Me'ilah Examples",
+    "candidates": [
+      "Me'ilah Examples",
+      "Dead Sacrifices Me'ilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly illustrates the me'ilah examples with gold chain, ring, cup (immediate me'ilah upon hana'ah) and robe, garment, ax (requiring pegam), which is precisely what the 'Me'ilah Examples' prose section discusses.",
+      "chosen_heading": "Me'ilah Examples",
+      "current_heading": "Me'ilah Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Dead Sacrifices Me'ilah",
+    "candidates": [
+      "Dead Sacrifices Me'ilah",
+      "Sotah & AZ Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly address the mishnah about benefit from a chattat while alive vs. dead and the pegam requirement, which is precisely what the 'Dead Sacrifices Me'ilah' prose discusses in detail, including the conceptual question about why no pegam is required when the animal is dead, and the subsequent Gemara discussion about Rabbi Akiva vs. Rabbis regarding middle garments and malmala fabric is a natural continuation of the pegam threshold analysis introduced in that section.",
+      "chosen_heading": "Dead Sacrifices Me'ilah",
+      "current_heading": "Dead Sacrifices Me'ilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Sotah & AZ Examples",
+    "candidates": [
+      "Sotah & AZ Examples",
+      "Two Me'ilah Models",
+      "Pegam vs. Hana'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the baraita that derives 'nefesh' applies equally to individual/king/anointed priest, then defines ma'al as shinui with the sotah and avodah zarah proof-texts \u2014 exactly what candidate 0's prose describes as its content.",
+      "chosen_heading": "Sotah & AZ Examples",
+      "current_heading": "Sotah & AZ Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Pegam vs. Hana'ah",
+    "candidates": [
+      "Two Me'ilah Models",
+      "Pegam vs. Hana'ah",
+      "Terumah Paradigm",
+      "Same Person/Object/Time",
+      "Tolash & Shlichus",
+      "Different People Combine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All five items form a single continuous baraita that the prose of heading 1 explicitly frames and describes in full, including the gezeirah shavah resolution and all the conditions derived from it.",
+      "chosen_heading": "Pegam vs. Hana'ah",
+      "current_heading": "Pegam vs. Hana'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Different People Combine",
+    "candidates": [
+      "Terumah Paradigm",
+      "Same Person/Object/Time",
+      "Tolash & Shlichus",
+      "Different People Combine",
+      "Time Doesn't Break Tziruf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks how we derive liability for benefit from items that cannot be damaged, which directly addresses the foundational 'Terumah Paradigm' question of whether me'ilah requires pegam alongside hana'ah \u2014 this is the opening challenge to that paradigm, not a question about combination across persons or time.",
+      "chosen_heading": "Terumah Paradigm",
+      "current_heading": "Different People Combine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Time Doesn't Break Tziruf",
+    "candidates": [
+      "Different People Combine",
+      "Time Doesn't Break Tziruf",
+      "Taking from Hekdesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss combination of consumption/benefit across different persons (his eating and another's eating, his benefit and another's benefit, etc.) and the derivation from 'ki sim'ol ma'al mikol makom,' which matches exactly the 'Different People Combine' heading's prose about combining partial me'ilah across persons, rather than the current heading which focuses on temporal combination across days.",
+      "chosen_heading": "Different People Combine",
+      "current_heading": "Time Doesn't Break Tziruf",
+      "moved": true
+    }
+  }
+]

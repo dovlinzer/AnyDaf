@@ -1,0 +1,380 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Rav vs. Shmuel",
+    "candidates": [
+      "Tanur Rabanan",
+      "Rav vs. Shmuel",
+      "Baraita kVetat Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous Rav/Shmuel dispute about the age threshold for the nishkav, which is precisely what heading 1 ('Rav vs. Shmuel') describes in its prose.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Rav vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Baraita kVetat Rav",
+    "candidates": [
+      "Baraita kVetat Rav",
+      "Baraita Behema",
+      "Rav Nachman",
+      "Rav Pappa"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Baraita kVetat Rav",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita supporting Rav's position on the nine-year threshold for mishkav zachar, which is exactly what candidate 0's prose describes.",
+      "second_heading": "Baraita Behema",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the baraita's laws of bestiality (behemah), which is precisely what candidate 1's prose discusses \u2014 liability for intercourse with an animal in both typical and atypical manners.",
+      "current_heading": "Baraita kVetat Rav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Rav Pappa",
+    "candidates": [
+      "Baraita Behema",
+      "Rav Nachman",
+      "Rav Pappa",
+      "Tanya - No Chiyuv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Na\u1e25man bar Rav \u1e24isda's ruling about two mishkavot for a woman vs. one for an animal, and Rav Pappa's objection to that ruling \u2014 belong together under the 'Rav Nachman' heading, which is precisely the section whose prose describes this dispute about mishkavot distinctions; the current placement under 'Rav Pappa' splits what is a single continuous exchange.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rav Pappa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Tanya - No Chiyuv",
+    "candidates": [
+      "Rav Pappa",
+      "Tanya - No Chiyuv",
+      "Me'arah Bevirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita passage directly matches the prose description in candidate 1, which explicitly describes this baraita's content about liability for bestiality in both typical and atypical manners for both men and women.",
+      "chosen_heading": "Tanya - No Chiyuv",
+      "current_heading": "Tanya - No Chiyuv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Me'arah Bevirah",
+    "candidates": [
+      "Me'arah Bevirah",
+      "Mishkevei Ishah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's question to Rava about me'arah be-zachar, which is precisely what heading 0 discusses as its central topic.",
+      "chosen_heading": "Me'arah Bevirah",
+      "current_heading": "Me'arah Bevirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Mishkevei Ishah",
+    "candidates": [
+      "Mishkevei Ishah",
+      "Me'arah Behema"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage addresses the question about me'arah with a male (dismissed via mishkevei ishah) and then poses the question about bestiality, which matches the prose of heading 0 that explains how mishkevei ishah resolves the male case and sets up the bestiality question \u2014 the actual answer about bestiality belongs under heading 1, but this transitional Gemara text that closes the mishkav zachar discussion and opens the behema question sits correctly under heading 0.",
+      "chosen_heading": "Mishkevei Ishah",
+      "current_heading": "Mishkevei Ishah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Me'arah Behema",
+    "candidates": [
+      "Me'arah Behema",
+      "Why Aunt"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Me'arah Behema",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's im eino inyan derivation applying me'arah to bestiality, which is precisely what heading 0's prose describes.",
+      "second_heading": "Why Aunt",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the question of why the aunt verse (chayvei keritot) was used to derive bestiality rather than a chayvei mitot beit din verse, which is exactly what heading 1's prose addresses.",
+      "current_heading": "Me'arah Behema",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Why Aunt",
+    "candidates": [
+      "Why Aunt",
+      "Ha-Me'arah Be-Atzmo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer about why the verse on aunt is used for exposition (ho'il ve'chulei kra le-drasha), which matches exactly the 'Why Aunt' section's prose discussion of this answer.",
+      "chosen_heading": "Why Aunt",
+      "current_heading": "Why Aunt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Ha-Me'arah Be-Atzmo",
+    "candidates": [
+      "Ha-Me'arah Be-Atzmo",
+      "Meshamesh Meit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the question from Rav A\u1e25adevoi bar Ami and Rav Sheshet's dismissive response 'kabastan,' which is precisely what heading 0's prose describes, before Rav Ashi's analytical follow-up discussed under heading 1.",
+      "chosen_heading": "Ha-Me'arah Be-Atzmo",
+      "current_heading": "Ha-Me'arah Be-Atzmo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Meshamesh Meit",
+    "candidates": [
+      "Meshamesh Meit",
+      "Takala v. Kalon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's analysis of the meshamesh meit scenario and double liability, which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Meshamesh Meit",
+      "current_heading": "Meshamesh Meit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Takala v. Kalon",
+    "candidates": [
+      "Takala v. Kalon",
+      "Rav Sheshet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the question posed to Rav Sheshet about whether takalah alone suffices or both takalah and kalon are required, which is precisely what the prose under heading 0 ('Takala v. Kalon') describes and sets up.",
+      "chosen_heading": "Takala v. Kalon",
+      "current_heading": "Takala v. Kalon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rav Sheshet",
+    "candidates": [
+      "Rav Sheshet",
+      "Ela Me'ata"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Sheshet's statement about the baraita concerning asherot trees, which directly matches the prose under heading 0 describing Rav Sheshet's response and the takalah logic.",
+      "chosen_heading": "Rav Sheshet",
+      "current_heading": "Rav Sheshet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Ela Me'ata",
+    "candidates": [
+      "Ela Me'ata",
+      "Abaye - Shame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'ela me'ata' challenge about a gentile bowing to his animal and the response that nothing can be forbidden to a gentile but not to a Jew, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Ela Me'ata",
+      "current_heading": "Ela Me'ata",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Abaye - Shame",
+    "candidates": [
+      "Abaye - Shame",
+      "Rava - Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Abaye's shame-based distinction between bestiality and avodah zarah, and the objection from trees with Abaye's response about living animals \u2014 exactly what the 'Abaye - Shame' prose describes.",
+      "chosen_heading": "Abaye - Shame",
+      "current_heading": "Abaye - Shame",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Rava - Benefit",
+    "candidates": [
+      "Rava - Benefit",
+      "Seifa - Public",
+      "Reisha - Takala"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rava's reasoning about animal benefit (nehenis me'aveirah) and the tree objection with the living-creatures answer, which is precisely what the 'Rava - Benefit' prose section describes.",
+      "chosen_heading": "Rava - Benefit",
+      "current_heading": "Rava - Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Reisha - Takala",
+    "candidates": [
+      "Seifa - Public",
+      "Reisha - Takala",
+      "Ketana Mezida"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara discussion of the ta shema from the mishna's second clause (seifa), the rejection of the initial inference, and Rav Hamnuna's dilemma \u2014 exactly the content described in the 'Reisha - Takala' prose, which explicitly traces this entire chain of reasoning including the mai lav, the lo rejection, and Rav Hamnuna's question about a Jew who commits bestiality be-shogeg.",
+      "chosen_heading": "Reisha - Takala",
+      "current_heading": "Reisha - Takala",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Ketana Mezida",
+    "candidates": [
+      "Ketana Mezida",
+      "Keivan Dezid",
+      "Ben Tesha Shanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the Mishnah from Niddah (and Gemara's inference about the animal) introduced by Rav Yosef, which the prose of heading 0 ('Ketana Mezida') explicitly walks through in detail, covering every element: betrothal, yibum, eshet ish, tumah, terumah, psulim, arayot execution, and the animal/kalon inference.",
+      "chosen_heading": "Ketana Mezida",
+      "current_heading": "Ketana Mezida",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Ben Tesha Shanim",
+    "candidates": [
+      "Keivan Dezid",
+      "Ben Tesha Shanim",
+      "Final Distinction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Keivan Dezid",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's rejection of the three-year-old girl proof ('keivan de-mezidah... a-behemah lo chas'), which is exactly what the 'Keivan Dezid' prose describes.",
+      "second_heading": "Ben Tesha Shanim",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are Rava's new proof attempt from the nine-year-and-one-day-old boy mishna, including the 'kalon ika takalah leika' inference, which is precisely what the 'Ben Tesha Shanim' prose describes.",
+      "current_heading": "Ben Tesha Shanim",
+      "moved": true
+    }
+  }
+]

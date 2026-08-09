@@ -25,7 +25,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Concern of Simpon (Defect) and Its Relationship to the Timing of Terumah Consumption",
@@ -68,7 +68,7 @@
           "timestamp": "11:01"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -82,7 +82,7 @@
           "timestamp": "16:54"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -106,7 +106,7 @@
           "timestamp": "18:15"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -130,7 +130,7 @@
           "timestamp": "21:34"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 3,
       "matched": false
     },
     {
@@ -221,7 +221,7 @@
           "timestamp": "47:15"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -1026,5 +1026,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "44:54",
+  "amud_b_micro_title": "Rav Assi's Chiddush",
+  "shiur_start_daf": 10,
+  "shiur_start_amud": "b"
 }

@@ -1,23 +1,15 @@
-# Arakhin 7 — Daf Yomi Shiur
-[DAF:7a]
-
+[DAF:6b]
 ## Execution & Obligations
 
-### Rabbi Yosei's Position
 
-> **Hebrew/Aramaic:** רַבִּי יוֹסֵי אוֹמֵר: נוֹדֵר וּמַעֲרִיךְ וּמַקְדִּישׁ, וְאִם הִזִּיק — חַיָּיב.
->
-> **Translation:** **Rabbi Yosei says:** One with that status **vows** to donate the assessment of another person to the Temple treasury, **and takes** vows of **valuation, and consecrates** his property; **and if he damages** the property of others, he is **liable** to pay compensation.
+
+### Rabbi Yosei's Position
 
 The seventh daf of *Arakhin* opens its discussion on 7b, picking up from the *mishnah* dealing with special cases of *erech* — specifically, the status of a person who has been condemned to execution. The *mishnah* had raised the question from two directions: can such a person be the object of an *erech* vow, and can he be the subject — that is, can he himself incur obligations? It is the latter question that concerns us here.
 
 *Rabbi Yosei omer nodeh u'ma'arich* — Rabbi Yosei holds that even a person condemned to execution can take a vow, can be the subject of an *erech*, and if he causes damage, he is liable. The *mishnah* thus appears to present a four-part list of legal acts: *neder* (vow), *erech*, *hekdesh* (sanctification), and *mazik* (causing damage).
 
 ### Debate on Damages
-
-> **Hebrew/Aramaic:** אֶלָּא, בְּנוֹדֵר וּמַעֲרִיךְ וּמִקַּדִּישׁ — כּוּלֵּי עָלְמָא לָא פְּלִיגִי, כִּי פְלִיגִי — בְּאִם הִזִּיק. תַּנָּא קַמָּא סָבַר: אִם הִזִּיק — אֵינוֹ חַיָּיב בְּתַשְׁלוּמִין, וְרַבִּי יוֹסֵי סָבַר: אִם הִזִּיק — חַיָּיב בְּתַשְׁלוּמִין.
->
-> **Translation:** **Rather, with regard to** whether or not one who is taken to be executed can **vow** to donate the assessment of another person to the Temple treasury, **and take** vows of **valuation, and consecrate** his property, **everyone,** including the first *tanna*, **agrees** that he can. **When they disagree,** it is **in** a case **where** he **causes damage. The first *tanna* holds** that **if** he **causes damage** he is **not liable for payment, and Rabbi Yosei holds** that **if** he **causes damage** he is **liable to pay** compensation.
 
 The *Gemara* presses immediately: the *tanna kamma* — *mi amar de'lo*? Who said he could not do these things? In fact, the *Gemara* clarifies, *ella be'nodeh u'ma'arich u'makdish kulei alma lo pligi* — regarding vows, *erech*, and sanctification, there is no real dispute. *Ki pligi be'im hizik* — the debate concerns only the case of damage: if this person who is about to be executed goes and damages someone's property, must he pay?
 
@@ -29,11 +21,9 @@ The positions are now set out clearly. *Tanna kamma savar im hizik ein chayav be
 
 ## Debt & Heirs Debate
 
-### Rav Yosef's Reframe
 
-> **Hebrew/Aramaic:** בְּמַאי קָמִיפַּלְגִי? אָמַר רַב יוֹסֵף: בְּמִלְוָה עַל פֶּה גּוֹבֶה מִן הַיּוֹרְשִׁין קָמִיפַּלְגִי, תַּנָּא קַמָּא סָבַר: מִלְוָה עַל פֶּה אֵינוֹ גּוֹבֶה מִן הַיּוֹרְשִׁין, וְרַבִּי יוֹסֵי סָבַר: מִלְוָה עַל פֶּה גּוֹבֶה מִן הַיּוֹרְשִׁין.
->
-> **Translation:** The Gemara asks: **With regard to what** principle **do** these *tanna'im* **disagree,** as it is an accepted principle that one who causes damage must pay? **Rav Yosef said:** They **disagree** as to whether the payment can be collected from his estate. This depends on the question of whether or not one who is owed money from **a loan by oral** agreement, i.e., a loan given without a document that places a lien on the land, can **collect from the heirs. The first *tanna* holds** that one who is owed money from **a loan by oral** agreement **cannot collect from the heirs, and Rabbi Yosei holds** that one who is owed money from **a loan by oral** agreement can **collect from the heirs.**
+
+### Rav Yosef's Reframe
 
 *Amar Rav Yosef bemilveh al peh vegoveh min hayorshim kamifligi* — Rav Yosef reframes the entire debate. The question is not whether the condemned person is a legal entity capable of incurring an obligation. Rather, it concerns whether a debt without a *shtar* — an oral debt, or in this case, a debt that arose from damage but for which no document was ever written — can be collected from the heirs.
 
@@ -41,43 +31,65 @@ The general principle is that when a loan is recorded in a *shtar*, the document
 
 ### Oral Loan Collection
 
-The positions are reversed from what one might initially expect. *Tanna kamma savar milveh al peh eino goveh min hayorshim* — the first *tanna* holds that an oral debt, meaning any debt without an accompanying writ, cannot be collected from the heirs. *Rabbi Yosei savar milveh al peh goveh min hayorshim* — Rabbi Yosei holds that although one may not be able to collect from purchasers, the heirs are a continuation of the father, and the debt may be collected from them.
+*Tanna kamma savar milveh al peh eino goveh min hayorshim* — the first *tanna* holds that an oral debt, meaning any debt without an accompanying writ, cannot be collected from the heirs. *Rabbi Yosei savar milveh al peh goveh min hayorshim* — Rabbi Yosei holds that although one may not be able to collect from purchasers, the heirs are a continuation of the father, and the debt may be collected from them.
 
 This reframing has an important corollary. One might ask why the same question does not apply to the cases of *neder*, *erech*, and *hekdesh*, which were said to be undisputed. The clearest case is *hekdesh*: if the condemned person sanctified his property, ownership has already passed to the *Beit HaMikdash* at the moment of the declaration. There is no mere debt — the property already belongs to the *Beit HaMikdash*, and no question of collection from heirs arises. *Tosafot* argues that the same logic must extend, at least under certain conditions, to *neder* and *erech* as well: when property has been set aside for the fulfillment of the vow, it is already designated in a way that preempts the inheritance question. But when it is simply a debt without ownership having transferred — as in the case of damages — the question arises sharply.
 
 ### Torah-Inscribed Debt
 
-> **Hebrew/Aramaic:** רָבָא אָמַר: דְּכוּלֵּי עָלְמָא מִלְוָה עַל פֶּה אֵינוֹ גּוֹבֶה מִן הַיּוֹרְשִׁין, וְהָכָא בְּמִלְוָה הַכְּתוּבָה בַּתּוֹרָה כִּכְתוּבָה בִּשְׁטָר קָמִיפַּלְגִי, תַּנָּא קַמָּא סָבַר: מִלְוָה כְּתוּבָה בַּתּוֹרָה לָאו כִּכְתוּבָה בִּשְׁטָר דָּמְיָא, וְרַבִּי יוֹסֵי סָבַר: כִּכְתוּבָה בִּשְׁטָר דָּמְיָא.
->
-> **Translation:** **Rava said:** In fact, **everyone** agrees that one who is owed money from **a loan by oral** agreement **cannot collect from the heirs; and here** the *tanna'im* **disagree with regard to** the status of **a loan that is written in the Torah,** i.e., a financial obligation decreed by Torah law, such as paying damages. **The first *tanna* holds** that **a loan that is written in the Torah is not** considered **as though it is written in a document,** and may not be collected from the heirs. **Rabbi Yosei holds** that such a loan **is** considered **as though it is written in a document,** and therefore it may be collected from the heirs.
-
 *Rava amar dekulei alma milveh al peh eino goveh min hayorshim* — Rava offers a different framing. Everyone would agree, he says, that a plain oral debt cannot be collected from heirs. *Ve'hacha bemilveh haktuvah batorah kamifligi* — the dispute here concerns something categorically different: the obligation to pay for damage is not merely an informal oral commitment, but a debt explicitly mandated by the *Torah* itself. The question is whether this gives the obligation added legal weight — analogous perhaps to a *shtar* — entitling the creditor to collect from heirs even without a written instrument.
+
+The *Gemara* does not fully spell out the mechanism by which a *Torah*-inscribed obligation would achieve this, but the underlying logic may be that because the *Torah* is so explicit about the debt, liens are assumed to attach to it automatically. This is admittedly imperfect: the *Torah* may be public record in a general sense, but no one necessarily knows that a particular individual caused a particular damage. Nevertheless, that general explicitness is perhaps assumed to carry sufficient legal weight to create liens — and with liens comes the ability to collect from heirs. It is also worth noting that this concern is not merely one of fairness in the abstract. Even setting aside damage payments, one could ask why heirs should escape liability for an ordinary loan: if someone borrowed a large sum and then died, it would seem unjust for the heirs to inherit the estate free of that obligation. The *Torah*-inscription argument, then, is not invoked simply because damage feels more morally charged than a loan — it is invoked precisely because without some such mechanism, the baseline rule already produces results that strain intuition even in the loan case.
 
 *Tanna kamma savar milveh haktuvah batorah lav ke'shtar dami* — the first *tanna* holds that being written in the *Torah* does not elevate the debt to the status of a *shtar*, and therefore it remains an uncollectable oral debt as far as heirs are concerned. *Rabbi Yosei savar k'katuv b'shtar dami* — Rabbi Yosei holds that it does carry that weight.
 
 ## Personal Injury Case
 
+
+
 ### Tosefta on Injury
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הַיּוֹצֵא לֵיהָרֵג — מַזִּין עָלָיו מִדַּם חַטָּאתוֹ וּמִדַּם אֲשָׁמוֹ, חָטָא בְּאוֹתָהּ שָׁעָה — אֵין נִזְקָקִין לוֹ.
->
-> **Translation:** **The Sages taught** another *baraita* on the same topic: With regard to **one taken to be executed, they sprinkle for his** sake on the altar **from the blood of his sin offering and from the blood of his guilt offering,** which he brought earlier. But if he **sinned at that time,** obligating him to bring a sin offering or a guilt offering, the court **does not attend to his** obligation, and his execution is not delayed so that he can sacrifice the offering.
-
-The *Gemara* now introduces a parallel passage — not a *mishnah* but a *Tosefta* in *Bava Kamma* — that presents the same scenario with a different type of harm. The ruling is that if someone condemned to execution had previously sinned and was obligated to bring a sacrifice, the sacrifice may be brought for him. However, if he sins at that moment, as he is being led to execution, no sacrifice is brought for him.
+The *Gemara* now introduces a parallel passage — not a *mishnah* but a *Tosefta* in *Bava Kamma* — that presents the same scenario with a different type of harm. *Hayotzei l'hareg*, someone going out to be executed, *v'chaval b'acherim*, if he injures others — *chayav*, he is liable. *V'acherim shechavlu bo pturim* — if others injure him, they are exempt.
 
 ### Cannot Stand Trial
 
-> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף: מִפְּנֵי שֶׁאֵין מְעַנִּין אֶת דִּינוֹ.
->
-> **Translation:** **Rav Yosef said:** It is **because** the court **may not afflict** him by forcing him to wait for **his judgment,** his execution, until the offering is sacrificed.
-
 *Rabbi Shimon ben Elazar omer af hu shechaved b'acherim patur* — Rabbi Shimon ben Elazar disagrees and holds that even if the condemned person injures others, he too is exempt — *shelo nitan l'chazarat amidah b'din*, because he cannot be brought to stand in judgment. The logic is that once a person has been condemned to execution under Jewish law, there is a prohibition against delaying the execution — *einui hadin*. Unlike some legal systems where condemned persons may wait many years, *halacha* regards the prolonged deferral of an executed sentence as its own form of torment. Therefore, it is impermissible to delay the execution in order to bring the condemned person to a separate civil trial. Since he cannot stand trial, the debt — which remains at the oral level — cannot be elevated to a written one by court judgment, and therefore, Rabbi Shimon ben Elazar holds, it cannot be collected from the heirs.
 
+[DAF:7a]
 ### Reframe to Heirs
 
-> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף: בְּמִלְוָה עַל פֶּה גּוֹבֶה מִן הַיּוֹרְשִׁין קָמִיפַּלְגִי, תַּנָּא קַמָּא סָבַר: מִלְוָה עַל פֶּה גּוֹבֶה מִן הַיּוֹרְשִׁין, וְרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר סָבַר: אֵינוֹ גּוֹבֶה מִן הַיּוֹרְשִׁין.
->
+> **Hebrew/Aramaic:** רַבִּי יוֹסֵי אוֹמֵר: נוֹדֵר וּמַעֲרִיךְ כּוּ׳. וְתַנָּא קַמָּא מִי קָאָמַר דְּלָא?
+> **Translation:** § The mishna teaches, with regard to one who is taken to be executed, that **Rabbi Yosei says:** Such a person **vows** to donate the assessment of another person to the Temple treasury, **and takes** vows of **valuation,** and consecrates his property; and if he damages the property of others, he is liable to pay compensation. The Gemara asks: **And does the first *tanna* say** that such a person does **not** vow to donate the assessment of another person to the Temple treasury and take vows of valuation, such that Rabbi Yosei could be understood as disputing his opinion? The first *tanna* merely said that such an individual is not subject to vows and valuations. What is the difference between their opinions?
+
+> **Hebrew/Aramaic:** אֶלָּא, בְּנוֹדֵר וּמַעֲרִיךְ וּמִקַּדִּישׁ — כּוּלֵּי עָלְמָא לָא פְּלִיגִי, כִּי פְלִיגִי — בְּאִם הִזִּיק. תַּנָּא קַמָּא סָבַר: אִם הִזִּיק — אֵינוֹ חַיָּיב בְּתַשְׁלוּמִין, וְרַבִּי יוֹסֵי סָבַר: אִם הִזִּיק — חַיָּיב בְּתַשְׁלוּמִין.
+> **Translation:** **Rather, with regard to** whether or not one who is taken to be executed can **vow** to donate the assessment of another person to the Temple treasury, **and take** vows of **valuation, and consecrate** his property, **everyone,** including the first *tanna*, **agrees** that he can. **When they disagree,** it is **in** a case **where** he **causes damage. The first *tanna* holds** that **if** he **causes damage** he is **not liable for payment, and Rabbi Yosei holds** that **if** he **causes damage** he is **liable to pay** compensation.
+
+> **Hebrew/Aramaic:** בְּמַאי קָמִיפַּלְגִי? אָמַר רַב יוֹסֵף: בְּמִלְוָה עַל פֶּה גּוֹבֶה מִן הַיּוֹרְשִׁין קָמִיפַּלְגִי, תַּנָּא קַמָּא סָבַר: מִלְוָה עַל פֶּה אֵינוֹ גּוֹבֶה מִן הַיּוֹרְשִׁין, וְרַבִּי יוֹסֵי סָבַר: מִלְוָה עַל פֶּה גּוֹבֶה מִן הַיּוֹרְשִׁין.
+> **Translation:** The Gemara asks: **With regard to what** principle **do** these *tanna’im* **disagree,** as it is an accepted principle that one who causes damage must pay? **Rav Yosef said:** They **disagree** as to whether the payment can be collected from his estate. This depends on the question of whether or not one who is owed money from **a loan by oral** agreement, i.e., a loan given without a document that places a lien on the land, can **collect from the heirs. The first *tanna* holds** that one who is owed money from **a loan by oral** agreement **cannot collect from the heirs, and Rabbi Yosei holds** that one who is owed money from **a loan by oral** agreement can **collect from the heirs.**
+
+> **Hebrew/Aramaic:** רָבָא אָמַר: דְּכוּלֵּי עָלְמָא מִלְוָה עַל פֶּה אֵינוֹ גּוֹבֶה מִן הַיּוֹרְשִׁין, וְהָכָא בְּמִלְוָה כְּתוּבָה בַּתּוֹרָה קָמִיפַּלְגִי, תַּנָּא קַמָּא סָבַר: מִלְוָה כְּתוּבָה בַּתּוֹרָה לָאו כִּכְתוּבָה בִּשְׁטָר דָּמְיָא, וְרַבִּי יוֹסֵי סָבַר: כִּכְתוּבָה בִּשְׁטָר דָּמְיָא.
+> **Translation:** **Rava says:** In fact, **everyone** agrees that one who is owed money from **a loan by oral** agreement **cannot collect from the heirs; and here** the *tanna’im* **disagree with regard to** the status of **a loan that is written in the Torah,** i.e., a financial obligation decreed by Torah law, such as paying damages. **The first *tanna* holds** that **a loan that is written in the Torah is not** considered **as though it is written in a document,** and may not be collected from the heirs. **Rabbi Yosei holds** that such a loan **is** considered **as though it is written in a document,** and therefore it may be collected from the heirs.
+
+> **Hebrew/Aramaic:** וְאִיכָּא דְּמַתְנֵי לַהּ אַהָא: הַיּוֹצֵא לֵיהָרֵג, הוּא שֶׁחָבַל בַּאֲחֵרִים — חַיָּיב, אֲחֵרִים שֶׁחָבְלוּ בּוֹ — פְּטוּרִין. רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: אַף הוּא אִם חָבַל בַּאֲחֵרִים — פָּטוּר, שֶׁלֹּא נִיתַּן לַחֲזָרַת עֲמִידַת בֵּית דִּין.
+> **Translation:** **And there are those who teach** the dispute between Rava and Rav Yosef **with regard to this** *baraita*: In the case of **one who is taken to be executed** after being sentenced by the court, if **he injured another** he is **liable** for payment. But if **others injured him** they are **exempt,** as they would be if they injured a dead person. **Rabbi Shimon ben Elazar says: Even if** it was **he** who **injured others,** he is **exempt, as** he **cannot be brought back to stand** before **the court** for judgment, since he must be executed without delay.
+
+> **Hebrew/Aramaic:** מִכְּלָל דְּתַנָּא קַמָּא סָבַר: נִיתַּן לַחֲזָרַת עֲמִידַת בֵּית דִּין?!
+> **Translation:** The Gemara asks: If so, can one conclude **by inference that the first *tanna* holds** that one who is being taken to be executed **can be brought back to stand** before **the court** for judgment? This is clearly erroneous, as the court is not permitted to delay his execution.
+
+> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף: בְּמִלְוָה עַל פֶּה גּוֹבֶה מִן הַיּוֹרְשִׁין קָמִיפַּלְגִי, תַּנָּא קַמָּא סָבַר: מִלְוָה עַל פֶּה גּוֹבֶה מִן הַיּוֹרְשִׁין, וְרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר סָבַר: אֵינוֹ גּוֹבֶה מִן הַיּוֹרְשִׁין.
 > **Translation:** **Rav Yosef says:** Everyone agrees that his execution may not be delayed. Rather, they **disagree as** to whether or not one who is owed money from **a loan by oral** agreement can **collect from the heirs. The first *tanna* holds** that one who is owed money from **a loan by oral** agreement can **collect from the heirs,** and therefore the injured party can collect from the heirs after the execution. **But Rabbi Shimon ben Elazar holds** that one who is owed money from a loan by oral agreement **cannot collect from the heirs,** and therefore the heirs are exempt from payment for the injury.
+
+> **Hebrew/Aramaic:** רַבָּה אָמַר: דְּכוּלֵּי עָלְמָא מִלְוָה עַל פֶּה אֵינוֹ גּוֹבֶה מִן הַיּוֹרְשִׁין, וְהָכָא בְּמִלְוָה הַכְּתוּבָה בַּתּוֹרָה כִּכְתוּבָה בִּשְׁטָר קָמִיפַּלְגִי, תַּנָּא קַמָּא סָבַר: כִּכְתוּבָה בִּשְׁטָר דָּמְיָא, וְרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר סָבַר: לָאו כִּכְתוּבָה בִּשְׁטָר דָּמְיָא.
+> **Translation:** **Rabba said:** Actually, **everyone** agrees that one who is owed money from **a loan by oral** agreement **cannot collect from the heirs; and here** the *tanna’im* **disagree with regard to** whether **a loan that is written in the Torah,** e.g., one’s obligation to pay if he causes damage, is considered **as though it is written in a document. The first *tanna* holds** that a loan that is written in the Torah is considered **as though it is written in a document,** and may be collected from the heirs. **And Rabbi Shimon ben Elazar holds** that it **is not considered as though it is written in a document,** and therefore it may not be collected.
+
+> **Hebrew/Aramaic:** מֵיתִיבִי: הַחוֹפֵר בּוֹר בִּרְשׁוּת הָרַבִּים, וְנָפַל עָלָיו שׁוֹר וַהֲרָגוֹ — פָּטוּר, וְלֹא עוֹד, אֶלָּא שֶׁאִם מֵת הַשּׁוֹר — יוֹרְשֵׁי בַּעַל הַבּוֹר חַיָּיבִין לְשַׁלֵּם דְּמֵי שׁוֹר לִבְעָלָיו!
+> **Translation:** The Gemara **raises an objection** against the opinion that one cannot collect a loan that is written in the Torah from the heirs, from a *baraita* (*Tosefta*, *Bava Kamma* 6:2): If **one was digging a pit in the public thoroughfare, and an ox fell on** the digger of the pit **and killed him,** the owner of the ox is **exempt** from paying damages, as the digger of the pit should not have dug the pit. **Moreover, if the ox died** as a result of the fall, **the heirs of the owner of the pit are liable to pay the value of** the **ox to its owner.** This shows that an obligation that is written in the Torah, such as compensation for damage, is collected from heirs.
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אִילָא אָמַר רַב: כְּשֶׁעָמַד בַּדִּין, וְהָא ״הֲרָגוֹ״ קָתָנֵי! אָמַר רַב אַדָּא בַּר אַהֲבָה: כְּשֶׁעֲשָׂאוֹ טְרֵיפָה.
+> **Translation:** **Rabbi Ila said** that **Rav said:** The *baraita* is dealing with a case **where** the digger of the pit **stood trial** for the damage before he died, and once judgment is rendered by a court the resulting financial obligation is comparable to a written loan, not one that is written in the Torah. The Gemara raises an objection: **But it is taught** in the *baraita* that the ox **killed him. Rav Adda bar Ahava said:** The *baraita* does not mean that the ox literally killed him, rather, **that it rendered him as one who has a wound that will cause him to die within twelve months [*tereifa*],** and there was enough time before his death to sentence him to pay damages.
+
+> **Hebrew/Aramaic:** וְהָאָמַר רַב נַחְמָן, תָּנֵי חַגָּא: מֵת וּקְבָרוֹ! וְהִילְכְתָא דְּיָיתְבִי דַּיָּינֵי אַפּוּמָּא דְבֵירָא.
+> **Translation:** The Gemara raises an objection: **But doesn’t Rav Naḥman say** that **Ḥagga teaches** a slightly different version of the *baraita*, that if the digger of the pit **died** from the impact of the ox, **and** the ox effectively **buried him** in the ground at the bottom of the pit, his heirs have to pay damages to the owner of the ox? In this scenario, how could it be possible for the digger to stand trial? The Gemara answers: The ***halakha*** in the *baraita*, that the owner of the ox collects from the heirs of the digger, is dealing with a case **where judges sat at the opening of the pit** and rendered the digger liable to pay damages before he died.
 
 *Michlal de'tanna kamma savar nitan l'chazarat amidah b'din?* — Does this imply that the *tanna kamma* of this *Tosefta* holds that the condemned person *can* be brought to a new trial? *Amar Rav Yosef bemilveh al peh goveh min hayorshim kamifligi* — Rav Yosef reapplies his earlier framework. No, everyone agrees the condemned cannot be taken to court. The significance of that agreement is this: if a court case could be held while he is alive, the court's ruling would transform the debt from an oral one into an official written record, and the question of heirs would be resolved. Since that is impossible, everyone accepts that the debt remains at the oral level. The dispute is therefore once again whether an oral debt — or, by Rava's reading, a debt whose source is in the *Torah* — can be collected from heirs at all.
 
@@ -85,15 +97,13 @@ The *Gemara* now introduces a parallel passage — not a *mishnah* but a *Toseft
 
 Rava once again offers the alternative framing: everyone might agree that a plain oral debt cannot be collected from heirs, and the debate is whether the *Torah*-inscribed obligation changes that. *Tanna kamma savar k'katuv b'shtar dami* — it does. *V'Rabbi Shimon ben Elazar savar lav k'katuv b'shtar dami* — it does not.
 
+One may ask why the *mishnah* and *Tosefta* focus specifically on the case of the *mazik* — the one who causes damage. Should the same question not arise in cases of *noder*, one who takes a vow, or *ma'arich*, one who pledges a valuation? If a person vows to donate money to the *Beit HaMikdash* and is then executed, that too is an oral debt, and the same question should apply regarding the heirs. *Tosafot* addresses this directly. The clearest case to set aside is *hekdesh* — sanctified property. If he dedicated a physical object, his cow or his house, then the *Beit HaMikdash* already owns it; the execution changes nothing, and of course the heirs cannot reclaim it. But *Tosafot* argues that even for *noder* and *ma'arich*, we must be assuming the scenario where actual property was set aside toward the fulfillment of that vow, in which case it too becomes sanctified and already owned. Where property has been designated, the *Beit HaMikdash*'s claim is already established. Where it has not — where it remains a bare, unacted-upon obligation — the question of whether that debt survives to the heirs is precisely the one under debate. The *mazik* case is therefore the clearest instance in which no property has changed hands, nothing has been designated, and the obligation sits in its most vulnerable form.
+
 It is worth pausing on the broader point the *Gemara* is making. The surface reading of both the *mishnah* and the *Tosefta* suggests a debate about the condemned person's ongoing legal personhood — to what degree does a person who has had judgment passed against him retain the status of a legal actor? The *Gemara* firmly rejects that framing. It insists that the condemned person is entirely a legal entity, fully capable of incurring obligations. The only open question is the technical one of whether debts incurred by a person who subsequently dies — without having had time to produce a written instrument or undergo court proceedings — can be pursued against his heirs.
 
 This is confirmed by the *Gemara*'s treatment of the converse question: why is it that if others injure the condemned person, they are exempt? Here, unlike the question of his obligations to others, *Rashi* does invoke the condemned person's specific legal status. *Rashi* offers two explanations. First, *de'ein lo damim* — he has no monetary value, in a sense, because he is about to be killed; the market-based component of damage assessment breaks down when the injured party is destined for imminent death. The second and more compelling explanation is *ve'omed hu lachavel* — he stands in a position of being killed, meaning there is a *halachic* mandate in place. The court is, as it were, already in the process of injuring him. Someone who injures him in the interim cannot be said to have acted against a person who has full protection of the court. It is specifically because the execution is by a Jewish court that this changes his legal status with respect to receiving compensation. But the *Gemara* confines this reasoning to the question of others' obligations to him — it does not allow this logic to diminish his obligations to others.
 
 The *Gemara* then introduces a *braita* involving a case where someone digs an illegal well in a public domain, an ox falls in and dies, and the digger himself is killed. *Yorshei ba'al habor chayav leshalem dmei shor laba'alim* — the heirs of the well-digger must pay the owner of the ox. This appears to be a case where a debt for damage passes to heirs, which would conflict with the reading of the *mishnah* that denies such collection.
-
-> **Hebrew/Aramaic:** אָמַר רַבִּי אִילָא אָמַר רַב: כְּשֶׁעָמַד בַּדִּין, וְהָא ״הֲרָגוֹ״ קָתָנֵי! אָמַר רַב אַדָּא בַּר אַהֲבָה: כְּשֶׁעֲשָׂאוֹ טְרֵיפָה.
->
-> **Translation:** **Rabbi Ila said** that **Rav said:** The *baraita* is dealing with a case **where** the digger of the pit **stood trial** for the damage before he died, and once judgment is rendered by a court the resulting financial obligation is comparable to a written loan, not one that is written in the Torah. The Gemara raises an objection: **But it is taught** in the *baraita* that the ox **killed him. Rav Adda bar Ahava said:** The *baraita* does not mean that the ox literally killed him, rather, **that it rendered him as one who has a wound that will cause him to die within twelve months [*tereifa*],** and there was enough time before his death to sentence him to pay damages.
 
 *Amar Rav Ila amar Rav, keshe'amad b'din* — Rav resolves the conflict: we are dealing with a case where the well-digger had already stood in court. Once a court ruling has been entered, the debt is no longer merely oral; it carries the weight of an official record and can be collected from heirs without question.
 
@@ -103,25 +113,19 @@ The *Gemara* presses further: *ve'ha'amar Rav Nachman*, a *tanna* taught that wh
 
 ## Sacrifice & Execution
 
-### Einui HaDin Principle
 
-> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף: מִפְּנֵי שֶׁאֵין מְעַנִּין אֶת דִּינוֹ.
->
-> **Translation:** **Rav Yosef said:** It is **because** the court **may not afflict** him by forcing him to wait for **his judgment,** his execution, until the offering is sacrificed.
+
+### Einui HaDin Principle
 
 The *Gemara* now turns to a *braita* that addresses a related but distinct aspect of the condemned person's legal status: his capacity to receive *kapparah* — atonement — and whether the obligation to bring sacrifices for him can or must be fulfilled. The concern throughout is *einui hadin*, the prohibition against delaying the execution once judgment has been passed.
 
 ### Sin Before Death
 
-If he had previously sinned *beshogeg* and was obligated to bring a *chatat* or *asham*, the *braita* rules that the sacrifice may be brought for him even while he is condemned. The *chatat* would otherwise become a *chatat shemetu ba'aleha* — a *chatat* whose owner has died — and would have to be put to death. The *asham* would have to wait to develop a *mum*. To avoid this, one brings the sacrifice on his behalf even as he walks to execution. This is consistent with the *Gemara*'s position that he remains a full legal entity.
+*Hayotzei l'hareg* — someone going out to be executed. If he had previously sinned *beshogeg* and was obligated to bring a *chatat* or *asham*, the *braita* rules that the sacrifice may be brought for him even while he is condemned. The *chatat* would otherwise become a *chatat shemetu ba'aleha* — a *chatat* whose owner has died — and would have to be put to death. The *asham* would have to wait to develop a *mum*. To avoid this, one brings the sacrifice on his behalf even as he walks to execution. This is consistent with the *Gemara*'s position that he remains a full legal entity.
 
 However, *chata be'otah sha'ah ein nizkakin lo* — if he sins at that very moment, as he is being led to execution — say he impulsively eats *chelev* and thereby incurs a new obligation of *karet* — the *Gemara* rules that no one bothers to bring a sacrifice for that sin.
 
 ### Abaye's Challenge
-
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: אִי הָכִי, אֲפִילּוּ רֵישָׁא נָמֵי! כְּגוֹן שֶׁהָיָה זִבְחוֹ זָבוּחַ בְּאוֹתָהּ שָׁעָה.
->
-> **Translation:** **Abaye said to** Rav Yosef: **If so,** if the offering is not sacrificed in order to avoid afflicting the sentenced by delaying his execution, then this should apply **even** in the **first clause as well,** where he had already brought the offering. Why does the court delay his execution until the blood is sprinkled? Rav Yosef answered: The first clause is referring to a case **where his offering** was already **slaughtered at that time,** and all that remained to be done was the sprinkling of the blood. Delaying the execution for such a short time is not a problem.
 
 *Amar Rav Yosef mipnei she'ein me'anin es dino* — the reason is that bringing a sacrifice would require a delay, and we do not delay the execution even for the sake of *kapparah*.
 
@@ -129,19 +133,31 @@ However, *chata be'otah sha'ah ein nizkakin lo* — if he sins at that very mome
 
 ### Slaughtered Sacrifice
 
-> **Hebrew/Aramaic:* בַּמֶּה דְּבָרִים אֲמוּרִים — שֶׁהָיָה זֶבַח זָבוּחַ בְּאוֹתָהּ שָׁעָה, אֲבָל אֵין זֶבַח זָבוּחַ — נַעֲשָׂה כְּמִי שֶׁחָטָא בְּאוֹתָהּ שָׁעָה, וְאֵין נִזְקָקִין לוֹ.
->
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הַיּוֹצֵא לֵיהָרֵג — מַזִּין עָלָיו מִדַּם חַטָּאתוֹ וּמִדַּם אֲשָׁמוֹ, חָטָא בְּאוֹתָהּ שָׁעָה — אֵין נִזְקָקִין לוֹ. מַאי טַעְמָא? אָמַר רַב יוֹסֵף: מִפְּנֵי שֶׁאֵין מְעַנִּין אֶת דִּינוֹ.
+> **Translation:** § **The Sages taught** another *baraita* on the same topic: With regard to **one taken to be executed, they sprinkle for his** sake on the altar **from the blood of his sin offering and from the blood of his guilt offering,** which he brought earlier. But if he **sinned at that time,** obligating him to bring a sin offering or a guilt offering, the court **does not attend to his** obligation, and his execution is not delayed so that he can sacrifice the offering. The Gemara asks: **What is the reason** for this? **Rav Yosef said:** It is **because** the court **may not afflict** him by forcing him to wait for **his judgment,** his execution, until the offering is sacrificed.
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: אִי הָכִי, אֲפִילּוּ רֵישָׁא נָמֵי! כְּגוֹן שֶׁהָיָה זִבְחוֹ זָבוּחַ בְּאוֹתָהּ שָׁעָה.
+> **Translation:** **Abaye said to** Rav Yosef: **If so,** if the offering is not sacrificed in order to avoid afflicting the sentenced by delaying his execution, then this should apply **even** in the **first clause as well,** where he had already brought the offering. Why does the court delay his execution until the blood is sprinkled? Rav Yosef answered: The first clause is referring to a case **where his offering** was already **slaughtered at that time,** and all that remained to be done was the sprinkling of the blood. Delaying the execution for such a short time is not a problem.
+
+> **Hebrew/Aramaic:** אֲבָל אֵין זִבְחוֹ זָבוּחַ, מַאי? לָא? אַדְּתָנֵי ״חָטָא בְּאוֹתָהּ שָׁעָה אֵין נִזְקָקִין לוֹ״, לִיפְלוֹג וְלִיתְנֵי בְּדִידַהּ: בַּמֶּה דְּבָרִים אֲמוּרִים — שֶׁהָיָה זֶבַח זָבוּחַ בְּאוֹתָהּ שָׁעָה, אֲבָל אֵין זֶבַח זָבוּחַ — לֹא!
+> **Translation:** The Gemara asks: But then in a case where he set aside **his offering** but it was **not** yet **slaughtered, what** is the *halakha*? Is it true that they do **not** delay his execution in order to sacrifice the offering? If so, **instead of teaching** a new case and stating: But if he **sinned at that time** and thereby became obligated to sacrifice a sin offering or a guilt offering, the court **does not attend to his** obligation, **let** the *baraita* **distinguish and teach** a distinction **within the** case of where he already brought the offering **itself: In what** case **is this statement,** that the blood is sprinkled, **said? When** his **offering was** already **slaughtered at that time. But if** his **offering was not** yet **slaughtered,** his execution is **not** delayed.
+
+> **Hebrew/Aramaic:** הָכִי נָמֵי קָאָמַר: בַּמֶּה דְּבָרִים אֲמוּרִים — שֶׁהָיָה זֶבַח זָבוּחַ בְּאוֹתָהּ שָׁעָה, אֲבָל אֵין זֶבַח זָבוּחַ — נַעֲשָׂה כְּמִי שֶׁחָטָא בְּאוֹתָהּ שָׁעָה, וְאֵין נִזְקָקִין לוֹ.
 > **Translation:** The Gemara answers: **That is indeed what he is saying: In what** case **is this statement said? When** his **offering was** already **slaughtered at that time. But if** his **offering was not** yet **slaughtered, it is** considered **as though** he **sinned at that time, and** therefore the court **does not attend to his** obligation.
 
-The *Gemara* resolves: the first case, *reisha*, refers specifically to *kegon shehayah zivcho zavuach be'otah sha'ah* — the sacrifice had already been slaughtered at the moment the report came that the man was being led to execution. The *kohanim*, with the slaughtered animal before them, asked whether to proceed with the sprinkling of the blood, and the answer is yes. There is no postponement whatsoever — the sacrifice is already in progress. But *aval ein zivcho zavuach* — if it had not yet been slaughtered — even for a sin of the past, one does not wait for it to be brought. Such a case becomes equivalent to having sinned at that very moment, and the sacrifice is not brought. The rule, therefore, is that any delay in execution for the sake of *kapparah* is forbidden; only when the sacrifice is already slaughtered is the completion of the process permitted.
+
+The *Gemara* resolves: the first case, *reisha*, refers specifically to *kegon shehayah zivcho zavuach be'otah sha'ah* — the sacrifice had already been slaughtered at the moment the report came that the man was being led to execution. The *kohanim*, with the slaughtered animal before them, asked whether to proceed with the sprinkling of the blood, and the answer is yes. There is no postponement whatsoever — the sacrifice is already in progress. But *aval ein zivcho zavuach* — if it had not yet been slaughtered — even for a sin of the past, one does not wait for it to be brought. Such a case becomes equivalent to having sinned at that very moment, *na'aseh kemi shechata be'otah sha'ah*, and the sacrifice is not brought. The rule, therefore, is that any delay in execution for the sake of *kapparah* is forbidden; only when the sacrifice is already slaughtered is the completion of the process permitted.
+
+It is worth pausing to note that the *Gemara*'s framing of these cases is more restrictive than the plain reading of the *mishnah* and *baraita* might suggest. A straightforward reading of those sources raises a broader question: to what degree are the condemned man's actions still legally meaningful at this stage? If he is, in some sense, already outside the normal legal framework — not liable for damages, for instance — then perhaps a sin committed now carries a different significance than one committed earlier, when he was fully a legal person in every respect. On that reading, the sources would be probing the extent to which he remains a legal entity at all. The *Gemara*, however, rejects this line of thinking entirely. It assumes he is completely a legal entity whose actions remain fully meaningful, and it reframes every question accordingly: the only issues are whether a debt passes to heirs or whether something would cause a postponement of execution. That is a notably narrower set of concerns than what the plain sense of the sources seems to invite.
 
 ## Pregnant Woman Execution
 
+
+
 ### No Delay for Birth
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הָאִשָּׁה שֶׁיָּצְאָה לֵיהָרֵג, אֵין מַמְתִּינִין לָהּ עַד שֶׁתֵּלֵד. הָאִשָּׁה שֶׁיָּשְׁבָה עַל הַמַּשְׁבֵּר, מַמְתִּינִין לָהּ עַד שֶׁתֵּלֵד.
->
-> **Translation:** MISHNA: In the case of a pregnant **woman who is taken** by the court **to be executed,** the court **does not wait to** execute **her until she gives birth.** Rather, she is killed immediately. But with regard to **a woman** taken to be executed **who sat on the travailing chair [*hamashber*]** in the throes of labor, the court **waits to** execute **her until she gives birth.**
+> **Hebrew/Aramaic:** מַתְנִי׳ הָאִשָּׁה שֶׁיָּצְאָה לֵיהָרֵג, אֵין מַמְתִּינִין לָהּ עַד שֶׁתֵּלֵד. הָאִשָּׁה שֶׁיָּשְׁבָה עַל הַמַּשְׁבֵּר, מַמְתִּינִין לָהּ עַד שֶׁתֵּלֵד. הָאִשָּׁה שֶׁנֶּהֶרְגָה, נֶהֱנִין בִּשְׂעָרָהּ. בְּהֵמָה שֶׁנֶּהֶרְגָה, אֲסוּרָה בַּהֲנָאָה.
+> **Translation:** MISHNA: In the case of a pregnant **woman who is taken** by the court **to be executed,** the court **does not wait to** execute **her until she gives birth.** Rather, she is killed immediately. But with regard to **a woman** taken to be executed **who sat on the travailing chair [*hamashber*]** in the throes of labor, the court **waits to** execute **her until she gives birth.** In the case of **a woman who was killed** through court-imposed capital punishment, **one may derive benefit from her hair.** But in the case of **an animal that was killed** through court-imposed execution, e.g., for goring a person, **deriving benefit** from the animal **is prohibited.**
 
 The *mishnah* now shifts to the case of a pregnant woman condemned to execution. *Ha'isha sheyatza l'hareg, ein mamtinin lah ad sheteled* — a pregnant woman who has been condemned is not held back until she gives birth. The principle of *einui hadin* governs here as well, and the fetus, being part of her body, does not create grounds for postponement.
 
@@ -157,11 +173,10 @@ One might alternatively explain the exception on entirely different grounds — 
 
 ## Abortion & Fetus Status
 
+
+
 ### Pshita Gufa Hi
 
-> **Hebrew/Aramaic:** גְּמָ׳ פְּשִׁיטָא, גּוּפַהּ הִיא! אִיצְטְרִיךְ, סָלְקָא דַּעְתָּךְ אָמֵינָא: הוֹאִיל וּכְתִיב ״כַּאֲשֶׁר יָשִׁית עָלָיו בַּעַל הָאִשָּׁה״, מָמוֹנָא דְבַעַל הוּא, וְלָא לַיפְסְדֵיהּ מִינֵּיהּ, קָא מַשְׁמַע לַן.
->
-> **Translation:** GEMARA: Isn't it **obvious** that the court executes the pregnant woman rather than waiting? After all, **it is** part of **her body.** The Gemara answers: It **was necessary** for the mishna to teach this, as it might **enter your mind to say** that **since it is written:** "And if men strive together, and hurt a woman with child, so that her offspring depart…he shall be fined, **as the woman's husband shall place upon him"** (Exodus 21:22), the fetus **is** considered to be the **property of the husband.** If so, the court should wait until she gives birth before executing her, **and not** cause **him to lose** the fetus. Consequently, the mishna **teaches us** that the court does not take this factor into account.
 
 The *Gemara* now opens what is perhaps the most consequential discussion on the entire daf, generating its significance in just three words: *pshita gufa hi* — of course, it is her body.
 
@@ -175,27 +190,30 @@ The weight of *pshita* — the *Gemara*'s frame of presenting the permissibility
 
 ### Father's Interest
 
-> **Hebrew/Aramaic:** וְאֵימָא הָכִי נָמֵי! אָמַר רַבִּי אֲבָהוּ אָמַר רַבִּי יוֹחָנָן: אָמַר קְרָא ״וּמֵתוּ גַּם שְׁנֵיהֶם״ — לְרַבּוֹת אֶת הַוָּולָד.
->
-> **Translation:** The Gemara asks: **But** why not **say** that **indeed** the court should delay her execution until she gives birth? **Rabbi Abbahu says** that **Rabbi Yoḥanan says:** The **verse states:** "If a man be found lying with a woman married to a husband, then **they shall also both of them die,** the man that lay with the woman, and the woman" (Deuteronomy 22:22). The amplifying term "both of them" serves **to add** her **fetus,** teaching that it dies together with her.
+> **Hebrew/Aramaic:** גְּמָ׳ פְּשִׁיטָא, גּוּפַהּ הִיא! אִיצְטְרִיךְ, סָלְקָא דַּעְתָּךְ אָמֵינָא: הוֹאִיל וּכְתִיב ״כַּאֲשֶׁר יָשִׁית עָלָיו בַּעַל הָאִשָּׁה״, מָמוֹנָא דְבַעַל הוּא, וְלָא לַיפְסְדֵיהּ מִינֵּיהּ, קָא מַשְׁמַע לַן.
+> **Translation:** GEMARA: Isn’t it **obvious** that the court executes the pregnant woman rather than waiting? After all, **it is** part of **her body.** The Gemara answers: It **was necessary** for the mishna to teach this, as it might **enter your mind to say** that **since it is written:** “And if men strive together, and hurt a woman with child, so that her offspring depart…he shall be fined, **as the woman’s husband shall place upon him”** (Exodus 21:22), the fetus **is** considered to be the **property of the husband.** If so, the court should wait until she gives birth before executing her, **and not** cause **him to lose** the fetus. Consequently, the mishna **teaches us** that the court does not take this factor into account.
 
 *Itztarich* — nevertheless, the *Gemara* says the ruling is needed. *Salka daitach amina*, I might have thought otherwise: *ka'asher yashit alav ba'al ha'isha* — the *Torah* states that if a fetus is accidentally killed in the course of an altercation, the responsible party must pay a fine to the father. *Mamona de'ba'al hu* — the fetus, in some sense, represents the father's financial interest, perhaps even his property. *V'lo lifsadei minei* — one might therefore argue that the father has a right to object to the execution of the fetus, demanding that the court wait until the child is born. The ruling of the *mishnah* is therefore needed to reject that claim.
 
+### Both Shall Die
+
+> **Hebrew/Aramaic:** וְאֵימָא הָכִי נָמֵי! אָמַר רַבִּי אֲבָהוּ אָמַר רַבִּי יוֹחָנָן: אָמַר קְרָא ״וּמֵתוּ גַּם שְׁנֵיהֶם״ — לְרַבּוֹת אֶת הַוָּולָד.
+> **Translation:** The Gemara asks: **But** why not **say** that **indeed** the court should delay her execution until she gives birth? **Rabbi Abbahu says** that **Rabbi Yoḥanan says:** The **verse states:** “If a man be found lying with a woman married to a husband, then **they shall also both of them die,** the man that lay with the woman, and the woman” (Deuteronomy 22:22). The amplifying term “both of them” serves **to add** her **fetus,** teaching that it dies together with her.
+
+> **Hebrew/Aramaic:** וְהַאי מִיבְּעֵי לֵיהּ, עַד שֶׁיְּהוּ שְׁנֵיהֶן שָׁוִין, דִּבְרֵי רַבִּי יֹאשִׁיָּה! כִּי קָאָמְרִינַן מִ״גַּם״.
+> **Translation:** The Gemara asks: **But this** phrase is **required for** the following *halakha*: Neither of the two adulterers mentioned in the verse is punished **until both of them are equal,** i.e., they have both reached majority. This is **the statement of Rabbi Yoshiya.** The Gemara answers: **When you say** that the child also dies, it is derived from the word **“also,”** whereas the *halakha* that they must be equal is learned from the term “both of them.”
+
 *Amar Rabbi Abbahu amar Rabbi Yochanan amar kra, u'metu gam shneihem* — they shall both die. This verse, in the context of adultery, is expounded: *l'rabot et havalad* — the word *gam* ("also") includes the child. Even the unborn child of an adulteress is included in the execution, thereby overriding any property claim the father might raise. The *Gemara* resolves a technical objection about the word *shneihem* ("both of them") by locating the derivation specifically in *gam*, attributed to Rabbi Yoshiya's interpretive tradition.
+
+One might ask whether this case is truly in tension with the father's property rights at all: if the woman is being executed for adultery, the fetus may not be the father's child to begin with. The *Gemara*, however, need not rely on that. We can construct a scenario — a woman pregnant with her husband's child who subsequently commits adultery — where the fetus is unambiguously the father's, and yet the execution, and with it the death of the fetus, proceeds. The father's property claim is simply set aside.
 
 The significance of the *Gemara*'s framing here should not be understated. The *Gemara*'s maximum concern, in raising the possibility that the ruling needed to be stated, is the father's monetary interest in the fetus. It does not raise the fetus's own life as a competing claim. This too carries weight in the abortion discussion: the frame within which the *Gemara* articulates any possible objection is property rights, not the taking of a life.
 
 ## Labor & Abortion
 
+
+
 ### Fetal Abortion Practice
-
-> **Hebrew/Aramaic:** יָשְׁבָה עַל הַמַּשְׁבֵּר וְכוּ׳. מַאי טַעְמָא? כֵּיוָן דְּעָקַר, גּוּפָא אַחֲרִינָא הוּא.
->
-> **Translation:** § The mishna teaches: With regard to a woman taken to be executed who **sat on the travailing chair** in the throes of labor, the court waits to execute her until she gives birth. The Gemara asks: **What is the reason** for delaying the execution in this case? The Gemara answers: **Once** the fetus **uproots** from its place and begins to leave the woman's body, **it is** considered **an independent body** and may not be killed together with the mother.
-
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הָאִשָּׁה הַיּוֹצְאָה לֵיהָרֵג, מַכִּין אוֹתָהּ כְּנֶגֶד בֵּית הֵרָיוֹן, כְּדֵי שֶׁיָּמוּת הַוָּולָד תְּחִילָּה, כְּדֵי שֶׁלֹּא תָּבֹא לִידֵי נִיוּוּל.
->
-> **Translation:** **Rav Yehuda says** that **Shmuel says:** In the case of a pregnant **woman who is taken** by the court **to be executed, one strikes her opposite the womb,** i.e., on the abdomen, **so that the fetus dies first** and **so that she not suffer disgrace** as a result of publicly bleeding from labor.
 
 The *Gemara* continues: *yashva al hamashber* — when she is in active labor, execution is postponed. *Mai ta'ama* — why? *Keivan de'akar gufa achrina hu* — once the birth process has begun, the fetus has been "uprooted" and is already a separate entity. This confirms *Rashi*'s earlier explanation: not yet a full person, but no longer simply one with the mother.
 
@@ -203,31 +221,33 @@ The *Gemara* now introduces a ruling attributed to Rav Yehuda in the name of Shm
 
 ### Nivul Ha-Meis
 
+> **Hebrew/Aramaic:** יָשְׁבָה עַל הַמַּשְׁבֵּר וְכוּ׳. מַאי טַעְמָא? כֵּיוָן דְּעָקַר, גּוּפָא אַחֲרִינָא הוּא.
+> **Translation:** § The mishna teaches: With regard to a woman taken to be executed who **sat on the travailing chair** in the throes of labor, the court waits to execute her until she gives birth. The Gemara asks: **What is the reason** for delaying the execution in this case? The Gemara answers: **Once** the fetus **uproots** from its place and begins to leave the woman’s body, **it is** considered **an independent body** and may not be killed together with the mother.
+
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הָאִשָּׁה הַיּוֹצְאָה לֵיהָרֵג, מַכִּין אוֹתָהּ כְּנֶגֶד בֵּית הֵרָיוֹן, כְּדֵי שֶׁיָּמוּת הַוָּולָד תְּחִילָּה, כְּדֵי שֶׁלֹּא תָּבֹא לִידֵי נִיוּוּל. לְמֵימְרָא דְּהִיא קָדְמָה וּמֵתָה בְּרֵישָׁא? וְהָא קַיְימָא לַן דְּוָולָד מָיֵית בְּרֵישָׁא!
+> **Translation:** **Rav Yehuda says** that **Shmuel says:** In the case of a pregnant **woman who is taken** by the court **to be executed, one strikes her opposite the womb,** i.e., on the abdomen, **so that the fetus dies first** and **so that she not suffer disgrace** as a result of publicly bleeding from labor. The Gemara asks: Is this **to say that** according to Shmuel if a pregnant woman dies, **she dies first, before** the fetus? It is clear that this is Shmuel’s assumption, as he mandates killing the fetus before the mother, lest the live fetus bring about the onset of labor as a reaction to the woman’s death. Were the fetus to perish first, before the woman, there would be no need for this. **But** this is difficult, as **we maintain that** the **fetus dies first.**
+
 The reason given is *kedei shelo tavo lidei nivul* — to prevent *nivul hameis*, degradation of the corpse. The concern is that if the woman is executed while the fetus is alive, the fetus will continue to move and eventually die inside the corpse, which would be degrading to her body.
 
 This ruling is remarkable on several levels. It is not merely permitting the incidental death of the fetus as a consequence of executing the mother. It mandates the direct abortion of the fetus for the sake of the mother's posthumous dignity. One might ask why, if the fetus is viable and near term, a cesarean could not be performed first. The *Gemara*'s implicit answer returns to *me'annin dino* — postponing execution is prohibited. Even a brief delay to save a viable life cannot be countenanced once the execution has been decreed. The father's claim has already been dismissed from the verse. The *Gemara* presents all of this as operating within the framework of *einui hadin*, however difficult that framework may be to accept.
 
+What makes this particularly pointed is the question raised by the *Rishonim* — the *Shita Mekubetzes* and the *Ramban* among them — that presses on the same difficulty from a different angle. We know that one is *mechallel Shabbos* to save a fetus that is at risk. If the potential life of a fetus is significant enough to override Shabbat, how can we be entirely indifferent to that same potential life here, where we need delay no more than an hour, perhaps less, to allow a viable, near-term fetus to be born? The issue is not even one of a pregnancy far from term; the *Mishnah*'s line is drawn at the moment of birth itself, so we are presumably speaking of a woman who could deliver at any moment. The *Rishonim* raise this question squarely, and it must be acknowledged: they do not offer a fully satisfying answer.
+
 ### Order of Death
 
-> **Hebrew/Aramaic:** לְמֵימְרָא דְּהִיא קָדְמָה וּמֵתָה בְּרֵישָׁא? וְהָא קַיְימָא לַן דְּוָולָד מָיֵית בְּרֵישָׁא!
->
-> **Translation:** The Gemara asks: Is this **to say that** according to Shmuel if a pregnant woman dies, **she dies first, before** the fetus? It is clear that this is Shmuel's assumption, as he mandates killing the fetus before the mother, lest the live fetus bring about the onset of labor as a reaction to the woman's death. Were the fetus to perish first, before the woman, there would be no need for this. **But** this is difficult, as **we maintain that** the **fetus dies first.**
+> **Hebrew/Aramaic:** דִּתְנַן: תִּינוֹק בֶּן יוֹמוֹ נוֹחֵל וּמַנְחִיל, וְאָמַר רַב שֵׁשֶׁת: נוֹחֵל בְּנִכְסֵי הָאֵם לְהַנְחִיל לָאַחִין מִן הָאָב.
+> **Translation:** **As we learned** in a mishna (*Nidda* 43b–44a): **A baby boy, one day old, inherits** the estate of his relatives who died on the day of his birth, **and** if he dies, **he bequeaths** that inheritance to his relatives. **And Rav Sheshet says:** This mishna is teaching that a day-old child **inherits his mother’s property** when she died after he was born, **to bequeath** it **to** his heirs who are not the mother’s heirs, e.g., **to** his **paternal brothers.**
 
-> **Hebrew/Aramaic:** דִּתְנַן: תִּינוֹק בֶּן יוֹמוֹ נוֹחֵל וּמַנְחִיל, וְאָמַר רַב שֵׁשֶׁת: נוֹחֵל בְּנִכְסֵי הָאֵם לְהַנְחִיל לָאַחִין מִן הָאָב.
->
-> **Translation:** **As we learned** in a mishna (*Nidda* 43b–44a): **A baby boy, one day old, inherits** the estate of his relatives who died on the day of his birth, **and** if he dies, **he bequeaths** that inheritance to his relatives. **And Rav Sheshet says:** This mishna is teaching that a day-old child **inherits his mother's property** when she died after he was born, **to bequeath** it **to** his heirs who are not the mother's heirs, e.g., **to** his **paternal brothers.**
-
-> **Hebrew/Aramaic:** דַּוְוקָא בֶּן יוֹם אֶחָד, אֲבָל עוּבָּר — לָא, דְּהוּא מָיֵית בְּרֵישָׁא, וְאֵין הַבֵּן יוֹרֵשׁ אֶת אִמּוֹ בְּקֶבֶר לְהַנְחִיל לָאַחִין מִן הָאָב!
->
+> **Hebrew/Aramaic:** דַּוְוקָא בֶּן יוֹם אֶחָד, אֲבָל עוּבָּר — לָא, דְּהוּא מָיֵית בְּרֵישָׁא, וְאֵין הַבֵּן יוֹרֵשׁ אֶת אִמּוֹ בְּקֶבֶר לְהַנְחִיל לָאַחִין מִן הָאָב!
 > **Translation:** The Gemara explains the difficulty: It is **specifically** in a case where the boy is **one day old** that he inherits and bequeaths, **but a fetus** who died while still in the womb does **not** inherit and bequeath. The reason is **that** we presume that the fetus **died first,** before its mother, **and a son does not inherit through his mother** while **in the grave, in order to bequeath** her property **to** his **paternal brothers.**
 
-> **Hebrew/Aramaic:** הָנֵי מִילֵּי לְגַבֵּי מִיתָה, אַיְּידֵי דְּוָולָד זוּטְרָא חַיּוּתֵיהּ, עָיְלָא טִיפָּה דְּמַלְאַךְ הַמָּוֶת וּמְחַתֵּךְ לְהוּ לְסִימָנִין, אֲבָל נֶהֶרְגָה — הִיא מֵתָה בְּרֵישָׁא.
->
-> **Translation:** The Gemara answers: **This matter,** i.e., the presumption that the fetus dies first, applies only **in** a case of natural **death.** In such a situation, **since** the **fetus's vitality is minimal, the Angel of Death's drop** of poison **enters** his body and **cuts the two organs that must be severed in ritual slaughter,** i.e., the windpipe and the gullet [*simanim*], thereby killing him before his mother. **But** in a case where the mother **was killed,** e.g., if she was executed, **she dies first.**
+> **Hebrew/Aramaic:** הָנֵי מִילֵּי לְגַבֵּי מִיתָה, אַיְּידֵי דְּוָולָד זוּטְרָא חַיּוּתֵיהּ, עָיְילָא טִיפָּה דְּמַלְאַךְ הַמָּוֶת וּמְחַתֵּךְ לְהוּ לְסִימָנִין, אֲבָל נֶהֶרְגָה — הִיא מֵתָה בְּרֵישָׁא.
+> **Translation:** The Gemara answers: **This matter,** i.e., the presumption that the fetus dies first, applies only **in** a case of natural **death.** In such a situation, **since** the **fetus’s vitality is minimal, the Angel of Death’s drop** of poison **enters** his body and **cuts the two organs that must be severed in ritual slaughter,** i.e., the windpipe and the gullet [*simanim*], thereby killing him before his mother. **But** in a case where the mother **was killed,** e.g., if she was executed, **she dies first.**
 
-> **Hebrew/Aramaic:** וְהָא הֲוָה עוֹבָדָא, וּפַרְכֵּיס עַד תְּלָת פִּרְכּוּסֵי! מִידֵּי דְּהָוֵי אַזְּנַב הַלְּטָאָה דִּמְפַרְכֶּסֶת.
->
+> **Hebrew/Aramaic:** וְהָא הֲוָה עוֹבָדָא, וּפַרְכֵּיס עַד תְּלָת פִּרְכּוּסֵי! מִידֵּי דְּהָוֵי אַזְּנַב הַלְּטָאָה דִּמְפַרְכֶּסֶת.
 > **Translation:** The Gemara asks: Is it true that the fetus always dies first when the mother dies naturally? **But there was an incident** where the mother died naturally **and** the fetus **made three spasmodic motions** afterward. The Gemara answers: That is **just as it is with the tail of the lizard, which jerks** after being severed from the lizard; it is just a spasmodic motion, which does not indicate that it is still alive.
+
+*Lememra de-hi kadma misa* — the entire concern presupposes that the mother dies first and the fetus survives her momentarily. But *ve-ha kaima lan de-vlad mayis breisha* — is there not a principle that the fetus dies before the mother?
 
 The *Gemara* derives this from a *mishnah* about inheritance: *tinok ben yomo nochel u'manchil* — a child even one day old can inherit and bequeath. *Rav Sheshes* explains that this allows an infant born as his mother dies to inherit her estate and then bequeath it to his paternal half-brothers. But the *Gemara* notes that *davka ben yom echad* — this applies only to a born infant. *Aval ubar lo* — not a fetus. And the reason is not that a fetus lacks legal personhood, but rather that the fetus would always die first — *de-hu mayis breisha* — making it impossible for the inheritance sequence to operate. A son cannot inherit from his mother *ba'kever* — in the grave — if he is already dead.
 
@@ -237,27 +257,25 @@ The *Gemara* then notes an apparent contradiction: *v'havai uvda u'parkhas tlas 
 
 ## Cesarean on Shabbat
 
+
+
 ### Cutting Permitted
 
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: הָאִשָּׁה שֶׁיָּשְׁבָה עַל הַמַּשְׁבֵּר וּמֵתָה בְּשַׁבָּת, מְבִיאִין סַכִּין וּמְקָרְעִים אֶת כְּרֵיסָהּ, וּמוֹצִיאִין אֶת הַוָּולָד.
->
-> **Translation:** § **Rav Naḥman says** that **Shmuel says:** In the case of **a woman who sat on the travailing chair** in the throes of labor, **and died on Shabbat, one brings a knife, and tears** open **her abdomen, and removes the fetus,** as it might still be alive, and it could be possible to save its life.
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: הָאִשָּׁה שֶׁיָּשְׁבָה עַל הַמַּשְׁבֵּר וּמֵתָה בְּשַׁבָּת, מְבִיאִין סַכִּין וּמְקָרְעִים אֶת כְּרֵיסָהּ, וּמוֹצִיאִין אֶת הַוָּולָד. פְּשִׁיטָא, מַאי עָבֵיד?
+> **Translation:** § **Rav Naḥman says** that **Shmuel says:** In the case of **a woman who sat on the travailing chair** in the throes of labor, **and died on Shabbat, one brings a knife, and tears** open **her abdomen, and removes the fetus,** as it might still be alive, and it could be possible to save its life. The Gemara asks: But isn’t it **obvious** that this is permitted? After all, **what is** the person who cuts her abdomen **doing?**
+
 
 *Amar Rav Yehuda amar Shmuel: ha'isha sheyashva al hamashber u'meita b'Shabbat* — a woman in labor who dies on Shabbat. *Mevi'in sakin u'mekar'in et kreisah u'motzi'in et havlad* — one brings a knife, performs a cesarean section, and removes the fetus.
 
+[DAF:7b]
 ### No Melachah
 
-> **Hebrew/Aramaic:** פְּשִׁיטָא, מַאי עָבֵיד? מְחַתֵּךְ בְּבָשָׂר הוּא! אָמַר רַבָּה: לֹא נִצְרְכָה לְהָבִיא סַכִּין דֶּרֶךְ רְשׁוּת הָרַבִּים.
->
-> **Translation:** The Gemara asks: But isn't it **obvious** that this is permitted? After all, **it is** merely **cutting flesh,** and there is no reason why it should be prohibited. **Rabba said: No,** the *halakha* concerning cutting open her abdomen is **necessary** only to teach that it is permitted **to bring a knife by way of the public thoroughfare** for that purpose, despite the fact that this constitutes a prohibited labor by Torah law.
+> **Hebrew/Aramaic:** מְחַתֵּךְ בְּבָשָׂר הוּא! אָמַר רַבָּה: לֹא נִצְרְכָה לְהָבִיא סַכִּין דֶּרֶךְ רְשׁוּת הָרַבִּים.
+> **Translation:** **It is** merely **cutting flesh,** and there is no reason why it should be prohibited. **Rabba said: No,** the *halakha* concerning cutting open her abdomen is **necessary** only to teach that it is permitted **to bring a knife by way of the public thoroughfare** for that purpose, despite the fact that this constitutes a prohibited labor by Torah law.
 
 The *Gemara* immediately questions why this needs to be stated: *mai avid, chatikhat basar hu* — what *melachah* is one performing? Cutting into a dead body is not *chavalah*, not a prohibited act of injury. It is simply cutting into flesh. There is no *chillul Shabbat* involved at all, and thus seemingly no novel ruling.
 
 ### Violate Shabbat
-
-> **Hebrew/Aramaic:** וּמַאי קָמַשְׁמַע לַן, דְּמִסְּפֵיקָא מְחַלְּלִינַן שַׁבְּתָא? תְּנֵינָא: מִי שֶׁנָּפְלָה עָלָיו מַפּוֹלֶת, סָפֵק הוּא שָׁם, סָפֵק אֵינוֹ שָׁם, סָפֵק חַי, סָפֵק מֵת, סָפֵק נׇכְרִי, סָפֵק יִשְׂרָאֵל — מְפַקְּחִין עָלָיו אֶת הַגַּל!
->
-> **Translation:** The Gemara asks: **And what** does **this teach us?** Does it teach **that** even in a case **of uncertainty we desecrate Shabbat** for the chance of saving a life? But **we** already **learned** this in a mishna (*Yoma* 83a): With regard to **one upon whom a rockslide fell,** and there is **uncertainty** as to whether **he is there** under the debris or whether **he is not there,** and there is also **uncertainty** as to whether he is still **alive** or whether he is **dead,** and finally there is **uncertainty** as to whether the person under the debris is **a gentile** or **a Jew, one clears the pile** from **atop him** on Shabbat.
 
 *Amar Rava lo nitzrecha ela l'havi sakin derech reshut harabim* — Rava explains: the ruling is needed for the case where one must carry the knife through a *reshut harabim*, thereby genuinely violating Shabbat. The ruling teaches that one may violate Shabbat to save the fetus.
 
@@ -265,9 +283,11 @@ The *Gemara* immediately questions why this needs to be stated: *mai avid, chati
 
 ### Building Collapse
 
-> **Hebrew/Aramaic:** מַהוּ דְּתֵימָא: הָתָם הוּא דַּהֲוָה לֵיהּ חֲזָקָה דְּחַיּוּתָא, אֲבָל הָכָא דְּלָא הֲוָה לֵיהּ חֲזָקָה דְּחַיּוּתָא מֵעִיקָּרָא — אֵימָא לָא, קָא מַשְׁמַע לַן.
->
-> **Translation:** The Gemara answers: It is necessary to teach that one may bring a knife in the case of a woman, **lest you say** that it is **specifically there** that one may desecrate Shabbat, **as** the person who was buried under the rockslide **had a presumptive status of being alive** and therefore he is assumed to still be alive. **But here, where** the child **had no prior presumptive status of being alive,** as he was not yet born, you might **say** that one may **not** desecrate Shabbat in order to save his life. Therefore, it is necessary for Shmuel to **teach us** that even here one may desecrate Shabbat for the possibility of saving the fetus's life.
+> **Hebrew/Aramaic:** וּמַאי קָמַשְׁמַע לַן, דְּמִסְּפֵיקָא מְחַלְּלִינַן שַׁבְּתָא? תְּנֵינָא: מִי שֶׁנָּפְלָה עָלָיו מַפּוֹלֶת, סָפֵק הוּא שָׁם, סָפֵק אֵינוֹ שָׁם, סָפֵק חַי, סָפֵק מֵת, סָפֵק נׇכְרִי, סָפֵק יִשְׂרָאֵל — מְפַקְּחִין עָלָיו אֶת הַגַּל!
+> **Translation:** The Gemara asks: **And what** does **this teach us?** Does it teach **that** even in a case **of uncertainty we desecrate Shabbat** for the chance of saving a life? But **we** already **learned** this in a mishna (*Yoma* 83a): With regard to **one upon whom a rockslide fell,** and there is **uncertainty** as to whether **he is there** under the debris or whether **he is not there,** and there is also **uncertainty** as to whether he is still **alive** or whether he is **dead,** and finally there is **uncertainty** as to whether the person under the debris is **a gentile** or **a Jew, one clears the pile** from **atop him** on Shabbat.
+
+> **Hebrew/Aramaic:** מַהוּ דְּתֵימָא: הָתָם הוּא דַּהֲוָה לֵיהּ חֲזָקָה דְּחַיּוּתָא, אֲבָל הָכָא דְּלָא הֲוָה לֵיהּ חֲזָקָה דְּחַיּוּתָא מֵעִיקָּרָא — אֵימָא לָא, קָא מַשְׁמַע לַן.
+> **Translation:** The Gemara answers: It is necessary to teach that one may bring a knife in the case of a woman, **lest you say** that it is **specifically there** that one may desecrate Shabbat, **as** the person who was buried under the rockslide **had a presumptive status of being alive** and therefore he is assumed to still be alive. **But here, where** the child **had no prior presumptive status of being alive,** as he was not yet born, you might **say** that one may **not** desecrate Shabbat in order to save his life. Therefore, it is necessary for Shmuel to **teach us** that even here one may desecrate Shabbat for the possibility of saving the fetus’s life.
 
 This, however, already seems obvious from a different *mishnah*: *mi shenafela alav mapolet* — if a building collapses on someone, *safek hu sham safek eino sham, safek chai safek meis* — we don't know if the person was inside, and don't know if he is alive — *mefakchin alav et hagal*, one clears the rubble even on Shabbat, despite all the accumulated uncertainty.
 
@@ -277,52 +297,60 @@ This formulation opens an important question. The phrase *chazakah d'chiyuta* ca
 
 ## Hair of Executed Woman
 
-### Hair Permitted
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הָאִשָּׁה שֶׁנֶּהֶרְגָה, נֶהֱנִין בִּשְׂעָרָהּ. בְּהֵמָה שֶׁנֶּהֶרְגָה, אֲסוּרָה בַּהֲנָאָה.
->
-> **Translation:** MISHNA: In the case of **a woman who was killed** through court-imposed capital punishment, one may derive benefit from her hair. But in the case of **an animal that was killed** through court-imposed execution, e.g., for goring a person, **deriving benefit** from the animal **is prohibited.**
+
+
+### Hair Permitted
 
 The *mishnah* concludes with a brief ruling: *ha'isha sheneherga, nehenin bise'arah* — the hair of an executed woman is not subject to *issur hana'ah*. One may derive benefit from it. This stands in contrast to the immediately following ruling: *behema sheneherga, asurah behana'ah* — an animal that has been executed by a court is entirely forbidden for benefit.
 
 ### Woven Hair Only
 
-> **Hebrew/Aramaic:** אָמַר רַב: בְּאוֹמֶרֶת ״תְּנוּ שְׂעָרִי לְבִתִּי״. אִילּוּ אָמְרָה ״תְּנוּ יָדִי לְבִתִּי״, מִי יָהֲבִינַן לַהּ?!
->
-> **Translation:** The Gemara asks: **But why** is it permitted? After all, a corpse and its hair **are items from which deriving benefit is prohibited. Rav said** that this is referring to a case **where she says** before she dies: **Give my hair to my daughter.** The Gemara asks: Is the prohibition contingent on the deceased's wishes? **Were she to say: Give my hand to my daughter, would we give** the hand **to her?**
 
-> **Hebrew/Aramaic:** אָמַר רַב: בְּפֵאָה נׇכְרִית, טַעְמָא דְּאָמְרָה ״תְּנוּ״, הָא לֹא אָמְרָה ״תְּנוּ״ — גּוּפַהּ הוּא וּמִיתְּסַר.
->
-> **Translation:** Rather, **Rav said:** This is not referring to the actual hair of the deceased, but **to a wig [*pe'a nokhrit*],** which is not part of the deceased's body. The Gemara infers from Rav's statement that the **reason** it is permitted is **that** she **said** to **give** her wig to her daughter, thereby indicating that she did not consider it part of her body. **But** if she **did not say** to **give** her wig to her daughter, **it is** considered part of **her body, and** it **is forbidden** to derive benefit from it.
+> **Hebrew/Aramaic:** הָאִשָּׁה שֶׁנֶּהֶרְגָה וְכוּ׳. וְאַמַּאי? אִיסּוּרֵי הֲנָאָה נִינְהוּ! אָמַר רַב: בְּאוֹמֶרֶת ״תְּנוּ שְׂעָרִי לְבִתִּי״. אִילּוּ אָמְרָה ״תְּנוּ יָדִי לְבִתִּי״, מִי יָהֲבִינַן לַהּ?!
+> **Translation:** § The mishna taught: In the case of **a woman who was killed** through court-imposed capital punishment, one may derive benefit from her hair. The Gemara asks: **But why** is it permitted? After all, a corpse and its hair **are items from which deriving benefit is prohibited. Rav said** that this is referring to a case **where she says** before she dies: **Give my hair to my daughter.** The Gemara asks: Is the prohibition contingent on the deceased’s wishes? **Were she to say: Give my hand to my daughter, would we give** the hand **to her?**
+
+> **Hebrew/Aramaic:** אָמַר רַב: בְּפֵאָה נׇכְרִית, טַעְמָא דְּאָמְרָה ״תְּנוּ״, הָא לֹא אָמְרָה ״תְּנוּ״ — גּוּפַהּ הוּא וּמִיתְּסַר.
+> **Translation:** Rather, **Rav said:** This is not referring to the actual hair of the deceased, but **to a wig [*pe’a nokhrit*],** which is not part of the deceased’s body. The Gemara infers from Rav’s statement that the **reason** it is permitted is **that** she **said** to **give** her wig to her daughter, thereby indicating that she did not consider it part of her body. **But** if she **did not say** to **give** her wig to her daughter, **it is** considered part of **her body, and** it **is forbidden** to derive benefit from it.
+
+> **Hebrew/Aramaic:** וְהָא מִיבַּעְיָא לֵיהּ לְרַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא, דְּבָעֵי רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא: שְׂעַר נָשִׁים צִדְקָנִיּוֹת מַהוּ?
+> **Translation:** The Gemara explains why this implication is problematic: **But didn’t Rabbi Yosei, son of Rabbi Ḥanina, raise this** as **a dilemma? As Rabbi Yosei, son of Rabbi Ḥanina raised a dilemma:** With regard to the **hair of righteous women** in a city whose residents were incited to idolatry and, therefore, all of their property must be burned, **what is** the *halakha*? Is it considered their property and burned, or part of their body and not burned?
+
+> **Hebrew/Aramaic:** וְאָמַר רָבָא: בְּפֵאָה נׇכְרִית לָא קָמִיבַּעְיָא לֵיהּ, כִּי קָמִיבַּעְיָא לֵיהּ לְרַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא דִּתְלֵי בְּסִיכְּתָא.
+> **Translation:** **And Rava said:** Rabbi Yosei, son of Rabbi Ḥanina, was not referring to actual hair, but rather **he raised** his **dilemma with regard to a wig.** This is difficult according to the opinion of Rav, as his ruling indicates that a wig should be considered part of a woman’s body unless she stipulated otherwise. The Gemara answers: **When Rabbi Yosei, son of Rabbi Ḥanina, raised** his **dilemma** as to whether a wig is considered part of the body, he was referring specifically to a case **where** the wig was **hanging on a peg.** The dilemma is whether it is considered part of her clothing, which, like her body, is not burned, or whether it is considered like any other property of hers, since she was not wearing it at the time.
 
 The *Gemara* initially assumes this is about natural hair and raises an obvious question: is not the hair part of her body, which is a *meis* and therefore forbidden? *Amar Rav, be'oma'eret tenu se'ari leviti* — Rav explains that we are dealing with a case where the woman herself declared that her hair should be given to her daughter, thereby indicating it is not part of her body. The *Gemara* objects: *ilu amar tenu yadi leviti, mi yahavinan lah?* If she said give my hand to her daughter, we would not comply — that is clearly part of her body. One cannot simply declare that a limb is not one's body. So Rav clarifies: *be'pe'ah nochrit* — we are speaking of a wig, or more precisely, hair that has been woven into her own hair. Since it is not her natural hair, she has the ability to indicate that it is a separate article, like personal property.
 
 ### Apostate City Hair
 
-> **Hebrew/Aramaic:** וְהָא מִיבַּעְיָא לֵיהּ לְרַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא, דְּבָעֵי רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא: שְׂעַר נָשִׁים צִדְקָנִיּוֹת מַהוּ?
->
-> **Translation:** The Gemara explains why this implication is problematic: **But didn't Rabbi Yosei, son of Rabbi Ḥanina, raise this** as **a dilemma? As Rabbi Yosei, son of Rabbi Ḥanina raised a dilemma:** With regard to the **hair of righteous women** in a city whose residents were incited to idolatry and, therefore, all of their property must be burned, **what is** the *halakha*? Is it considered their property and burned, or part of their body and not burned?
-
 This raises a parallel question: *ba'ei Rabbi Yossi b'Rabbi Chanina, se'ar nashim tzidkaniyot, mahu?* — Rabbi Yossi b'Rabbi Chanina raised the question of the hair of righteous women in an *ir hanidachas*, an apostate city. Those who did not sin must leave and abandon all their property, which is destroyed along with the city. The question is whether this woven-in hair is considered her body — in which case she takes it with her — or her property — in which case it must be left behind.
 
-[DAF:7b]
 ### Hanging by Peg
 
-> **Hebrew/Aramaic:** וְאָמַר רָבָא: בְּפֵאָה נׇכְרִית לָא קָמִיבַּעְיָא לֵיהּ, כִּי קָמִיבַּעְיָא לֵיהּ לְרַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא דִּתְלֵי בְּסִיכְּתָא.
->
-> **Translation:** **And Rava said:** Rabbi Yosei, son of Rabbi Ḥanina, was not referring to actual hair, but rather **he raised** his **dilemma with regard to a wig.** This is difficult according to the opinion of Rav, as his ruling indicates that a wig should be considered part of a woman's body unless she stipulated otherwise. The Gemara answers: **When Rabbi Yosei, son of Rabbi Ḥanina, raised** his **dilemma** as to whether a wig is considered part of the body, he was referring specifically to a case **where** the wig was **hanging on a peg.** The dilemma is whether it is considered part of her clothing, which, like her body, is not burned, or whether it is considered like any other property of hers, since she was not wearing it at the time.
+> **Hebrew/Aramaic:** הָכָא דִּמְחַבַּר בַּהּ, טַעְמָא דְּאָמְרָה ״תְּנוּ״, הָא לֹא אָמְרָה ״תְּנוּ״ — גּוּפַהּ הוּא וּמִיתְּסַר.
+> **Translation:** On the other hand, **here** Rav is referring to a wig **that is** actually **attached to her.** In such a case, one may correctly infer that the **reason** that it is permitted is **that** the deceased **said** to **give** her wig to her daughter, thereby indicating that she did not consider it part of her body. **But** if she **did not say** to **give** her wig to her daughter, **it is** considered to be part of **her body and is prohibited.**
 
 *Ve'amar Rava be'pe'ah nochrit kamiba'ya lei* — Rava clarifies that Rabbi Yossi b'Rabbi Chanina's question too is about the wig, not natural hair. *Ki ka miba'ya lei, detali besichas* — and specifically, his uncertainty concerned hair that was merely hanging by a peg, that is, a loosely attached wig, not hair tightly woven in. Where the hair is fully woven in, the *Gemara* treats it as part of the body by default; only if she explicitly says to give it elsewhere does it become categorized as property. The wig that simply rests on the head, attached loosely, occupies an intermediate status — that was Rabbi Yossi b'Rabbi Chanina's genuine doubt.
 
 ### Hair Doesn't Die
 
-> **Hebrew/Aramaic:** קַשְׁיָא לֵיהּ לְרַב נַחְמָן בַּר יִצְחָק, וְהָא דּוּמְיָא דִּבְהֵמָה קָתָנֵי, מָה הָתָם גּוּפַיהּ — אַף הָכָא נָמֵי גּוּפַיהּ!
->
-> **Translation:** This claim, that the mishna is dealing with a wig rather than natural hair, is **difficult for Rav Naḥman bar Yitzḥak.** He explains the difficulty: The mishna **teaches** the issue of the prohibition of the woman's hair as being **similar** to the other prohibition it mentions, that **of** the **animal. Just as there,** in the case of the animal, it is referring to deriving benefit from **its body, so too here,** it must be referring to benefit from **her body** itself, not from a wig.
+> **Hebrew/Aramaic:** קַשְׁיָא לֵיהּ לְרַב נַחְמָן בַּר יִצְחָק, וְהָא דּוּמְיָא דִּבְהֵמָה קָתָנֵי, מָה הָתָם גּוּפַיהּ — אַף הָכָא נָמֵי גּוּפַיהּ!
+> **Translation:** This claim, that the mishna is dealing with a wig rather than natural hair, is **difficult for Rav Naḥman bar Yitzḥak.** He explains the difficulty: The mishna **teaches** the issue of the prohibition of the woman’s hair as being **similar** to the other prohibition it mentions, that **of** the **animal. Just as there,** in the case of the animal, it is referring to deriving benefit from **its body, so too here,** it must be referring to benefit from **her body** itself, not from a wig.
 
-> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב נַחְמָן: זוֹ מִיתָתָהּ אוֹסַרְתָּהּ, וְזוֹ גְּמַר דִּינָה אוֹסַרְתָּהּ.
->
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב נַחְמָן: זוֹ מִיתָתָהּ אוֹסַרְתָּהּ, וְזוֹ גְּמַר דִּינָה אוֹסַרְתָּהּ.
 > **Translation:** **Rather, Rav Naḥman** bar Yitzḥak **says:** The mishna is referring to natural hair, and there is a distinction between the hair of an animal and that of a woman. In the case of **this** woman, it is **her death** that **causes her to be forbidden.** Therefore, the hair, which does not undergo any change when she dies, remains permitted. **But** in the case of **that** animal, the **verdict causes it to be forbidden,** even before it is killed. It is prohibited to derive benefit from the animal as soon as the verdict is issued. Therefore, the hair that is attached to the animal is forbidden as well.
+
+> **Hebrew/Aramaic:** תָּנֵי לֵוִי כְּוָותֵיהּ דְּרַב, תָּנֵי לֵוִי כְּוָותֵיהּ דְּרַב נַחְמָן בַּר יִצְחָק. תָּנֵי לֵוִי כְּוָותֵיהּ דְּרַב: הָאִשָּׁה שֶׁיּוֹצְאָה לֵיהָרֵג וְאָמְרָה: ״תְּנוּ שְׂעָרִי לְבִתִּי״ — נוֹתְנִין, מֵתָה — אֵין נוֹתְנִין, מִפְּנֵי שֶׁהַמֵּת אָסוּר בַּהֲנָאָה.
+> **Translation:** **Levi teaches** a *baraita* **in accordance with** the opinion **of Rav,** and **Levi** also **teaches** a *baraita* **in accordance with** the opinion **of Rav Naḥman bar Yitzḥak.** The Gemara elaborates: **Levi teaches** a *baraita* **in accordance with** the opinion **of Rav:** In the case of **a woman who was being taken to be killed and** who **said: Give my hair to my daughter, one gives** it to the daughter. If she **died** without instructing that it be given to her daughter, **one does not give** it to the daughter, **because** it **is forbidden to** derive **benefit** from **a corpse.**
+
+> **Hebrew/Aramaic:** פְּשִׁיטָא! אֶלָּא שֶׁנּוֹיֵי הַמֵּת אָסוּר בַּהֲנָאָה.
+> **Translation:** The Gemara asks: Isn’t it **obvious** that this is the reason her hair is prohibited? The Gemara explains that this is referring not to the hair itself, but **rather** to a wig, and the *baraita* is teaching that it is **forbidden to** derive **benefit** even from the **adornments** of **the deceased,** such as a wig.
+
+> **Hebrew/Aramaic:** תַּנְיָא כְּוָותֵיהּ דְּרַב נַחְמָן בַּר יִצְחָק: הָאִשָּׁה שֶׁמֵּתָה — נֶהֱנִין בִּשְׂעָרָהּ, בְּהֵמָה שֶׁנֶּהֶרְגָה — אֲסוּרָה בַּהֲנָאָה; וּמָה הֶפְרֵשׁ בֵּין זֶה לָזֶה? זוֹ — מִיתָתָהּ אוֹסַרְתָּהּ, וְזוֹ — גָּמַר דִּינָה אוֹסַרְתָּהּ.
+> **Translation:** The Gemara further explains: **It is taught** in a *baraita* **in accordance with** the opinion of **Rav Naḥman bar Yitzḥak,** as follows: Whereas in the case of **a woman who died, one may derive benefit from her hair,** with regard to **an animal that was put to death, it is forbidden to** derive **benefit** from it. **And what is the difference between this** case **and that** one? In **this** case it is **her death** that **causes her to be forbidden, but** in **that** case the **verdict causes** the animal **to be forbidden.**
+
+> **Hebrew/Aramaic:** הֲדַרַן עֲלָךְ הַכֹּל מַעֲרִיכִין.
+> **Translation:** 
 
 *Kashya lei leRav Nachman bar Yitzchak* — this entire discussion troubled Rav Nachman bar Yitzchak, and he resolved it from a different direction. The *mishnah* juxtaposes the woman's hair with the case of an executed animal. *Dedumya debehema katani* — it is structured as a comparison: just as by the animal it is the body itself we speak of, so too by the woman we must be speaking of her body — her natural hair, not a wig.
 

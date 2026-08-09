@@ -1,0 +1,237 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Chachamim Dispute",
+    "candidates": [
+      "Rav/Shmuel vs. Yochanan",
+      "Rav Huna Position",
+      "Leaving & Returning",
+      "Hesach Hadaat",
+      "Chachamim Dispute",
+      "Seuda Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehuda's qualification that the exemption from a new bracha applies only when some companions were left behind, which is precisely what the 'Chachamim Dispute' section's prose describes as Rabbi Yehuda's position contrasted with the Chachamim's majority view.",
+      "chosen_heading": "Chachamim Dispute",
+      "current_heading": "Chachamim Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Seuda Exception",
+    "candidates": [
+      "Seuda Exception",
+      "Yochanan Response",
+      "Rav Chisda Final"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the inference from the baraita about foods requiring a blessing in their place vs. not, the challenge to Rabbi Yochanan, and the response \u2014 exactly the content described in the 'Seuda Exception' prose, which explicitly covers all these points in sequence.",
+      "chosen_heading": "Seuda Exception",
+      "current_heading": "Seuda Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Rav Chisda Final",
+    "candidates": [
+      "Yochanan Response",
+      "Rav Chisda Final",
+      "Friends at Meal",
+      "Shabbat Arrives",
+      "Yehuda Strict View",
+      "Foods & Bracha",
+      "Yehuda Interrupts",
+      "Yossi Lenient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a baraita supporting Rav \u1e24isda's position about friends drinking wine who left and returned needing no new blessing, which exactly matches the 'Rav Chisda Final' section's prose discussing this very baraita (tanya kevasi d'Rav Chisda) and its implications.",
+      "chosen_heading": "Rav Chisda Final",
+      "current_heading": "Rav Chisda Final",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Yossi Lenient",
+    "candidates": [
+      "Friends at Meal",
+      "Shabbat Arrives",
+      "Yehuda Strict View",
+      "Foods & Bracha",
+      "Yehuda Interrupts",
+      "Yossi Lenient",
+      "Purim Friday Case",
+      "No Interruption",
+      "Why Two Cups"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about members of a group whose meal is interrupted by Shabbat arriving, which matches exactly the 'Shabbat Arrives' heading's prose describing this precise scenario.",
+      "chosen_heading": "Shabbat Arrives",
+      "current_heading": "Yossi Lenient",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Why Two Cups",
+    "candidates": [
+      "Purim Friday Case",
+      "No Interruption",
+      "Why Two Cups",
+      "Bundling Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about why Rabbi Yossi requires two cups rather than combining birkat hamazon and kiddush on one cup, which is precisely what the 'Why Two Cups' section prose discusses.",
+      "chosen_heading": "Why Two Cups",
+      "current_heading": "Why Two Cups",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Bundling Rule",
+    "candidates": [
+      "Bundling Rule",
+      "Havdalah One Cup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the principle of ein osin mitzvot chavilot chavilot and its reasoning, which is precisely what the 'Bundling Rule' section's prose discusses and elaborates upon.",
+      "chosen_heading": "Bundling Rule",
+      "current_heading": "Bundling Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Havdalah One Cup",
+    "candidates": [
+      "Havdalah One Cup",
+      "One Cup Exception",
+      "Tosafot Exception",
+      "Scenario Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about one entering his home on motzei Shabbat and the case of a single cup, which is exactly what heading 0's prose describes as the Gemara's objection to the principle, before the resolution ('ein lo shani') is discussed under heading 1.",
+      "chosen_heading": "Havdalah One Cup",
+      "current_heading": "Havdalah One Cup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Scenario Setup",
+    "candidates": [
+      "One Cup Exception",
+      "Tosafot Exception",
+      "Scenario Setup",
+      "Havdalah Kiddush One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of Gemara reasoning about Yom Tov after Shabbat \u2014 Rav's ruling (item 1), the inference about Shevi'i shel Pesach (item 2), and the challenge from Yom Tov Rishon with Abaye and Rava (item 3) \u2014 which exactly matches the 'Scenario Setup' prose that walks through Rav's Yakneh ruling, the Shevi'i shel Pesach inference, and the Abaye/Rava dispute about Yakzneh/Yaknehaz.",
+      "chosen_heading": "Scenario Setup",
+      "current_heading": "Scenario Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Havdalah Kiddush One",
+    "candidates": [
+      "Havdalah Kiddush One",
+      "Separate Brachot",
+      "Two Cups Custom",
+      "Cup Mixing",
+      "Meshullam Dissent",
+      "Different Times",
+      "Ketubah Break",
+      "Modern Custom",
+      "Rav's Order",
+      "Shmuel's Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that havdalah and kiddush are one matter while birkat hamazon and kiddush are two matters, which is precisely the content discussed in the 'Havdalah Kiddush One' section's prose.",
+      "chosen_heading": "Havdalah Kiddush One",
+      "current_heading": "Havdalah Kiddush One",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Shmuel's Order",
+    "candidates": [
+      "Separate Brachot",
+      "Two Cups Custom",
+      "Cup Mixing",
+      "Meshullam Dissent",
+      "Different Times",
+      "Ketubah Break",
+      "Modern Custom",
+      "Rav's Order",
+      "Shmuel's Order",
+      "No Spices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara text introducing the dispute between Rav (Yakneh) and Shmuel (Yanhak) about the order of blessings when Yom Tov follows Shabbat, which is precisely what section 7 ('Rav's Order') discusses as its opening context, before the essay elaborates on Rav's reasoning.",
+      "chosen_heading": "Rav's Order",
+      "current_heading": "Shmuel's Order",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,361 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Finger Techniques",
+    "candidates": [
+      "Melila Overview",
+      "Finger Techniques",
+      "Winnowing Technique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the three opinions on finger technique for melila (chada achada, chada atartei, Rava's ruling), which is precisely what the 'Finger Techniques' section prose describes.",
+      "chosen_heading": "Finger Techniques",
+      "current_heading": "Finger Techniques",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Winnowing Technique",
+    "candidates": [
+      "Winnowing Technique",
+      "Beit Shammai Rules",
+      "Beit Hillel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the permitted technique for blowing/winnowing grain on Shabbat \u2014 Rav Adda bar Ahava's ruling, the Western objection, and Rav Elazar's final ruling \u2014 which is precisely what the 'Winnowing Technique' prose describes.",
+      "chosen_heading": "Winnowing Technique",
+      "current_heading": "Winnowing Technique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Beit Hillel Position",
+    "candidates": [
+      "Beit Shammai Rules",
+      "Beit Hillel Position",
+      "Salt vs. Spices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself, containing both Beit Shammai's and Beit Hillel's rulings in full, and the prose under heading 0 ('Beit Shammai Rules') explicitly describes this Mishnah's content \u2014 the transition into grinding spices on Yom Tov and Beit Shammai's specific rulings about wooden pestle for spices and pottery/wooden spoon for salt \u2014 making it the clear home for the full Mishnah text rather than splitting it under Beit Hillel's section.",
+      "chosen_heading": "Beit Shammai Rules",
+      "current_heading": "Beit Hillel Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Salt vs. Spices",
+    "candidates": [
+      "Beit Hillel Position",
+      "Salt vs. Spices",
+      "Shmuel's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's debate between Rav Huna and Rav Chisda over why salt requires a shinuy, and the practical differences between their two rationales \u2014 exactly what the 'Salt vs. Spices' prose describes in detail.",
+      "chosen_heading": "Salt vs. Spices",
+      "current_heading": "Salt vs. Spices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Shmuel's Position",
+    "candidates": [
+      "Shmuel's Position",
+      "Practical Method",
+      "Rav Sheshet Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Shmuel's ruling and the baraita of Rabbi Meir about Beit Shammai and Beit Hillel's dispute over grinding salt, which is precisely what the prose of 'Shmuel's Position' (index 0) discusses in detail, including the emendation of 'bechol davar' to 'l'chol davar'.",
+      "chosen_heading": "Shmuel's Position",
+      "current_heading": "Shmuel's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Rav Sheshet Test",
+    "candidates": [
+      "Practical Method",
+      "Rav Sheshet Test",
+      "Tosafot Rules",
+      "Halacha L'Maaseh",
+      "Tisni Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Rav Sheshet narrative \u2014 his hearing a pestle sound, declaring it's not from his house, and the Gemara's challenges about tilting and spices \u2014 which is precisely what the 'Rav Sheshet Test' prose describes in full detail.",
+      "chosen_heading": "Rav Sheshet Test",
+      "current_heading": "Rav Sheshet Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Tisni Prohibition",
+    "candidates": [
+      "Tosafot Rules",
+      "Halacha L'Maaseh",
+      "Tisni Prohibition",
+      "Grinding Wheat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the baraita prohibiting Tisni preparation and the internal contradiction resolved by explaining that Tisni cannot be made because grinding with a mortar is prohibited \u2014 exactly what the 'Tisni Prohibition' section's prose describes.",
+      "chosen_heading": "Tisni Prohibition",
+      "current_heading": "Tisni Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Grinding Wheat",
+    "candidates": [
+      "Grinding Wheat",
+      "Small Grinders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the braita mentions the specific dish rather than just prohibiting the mortar generically, and concludes that this signals even a small mortar is covered \u2014 which matches the 'Grinding Wheat' prose's discussion of this exact Gemara exchange about why the concrete example is needed to cover small grinders.",
+      "chosen_heading": "Grinding Wheat",
+      "current_heading": "Grinding Wheat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Small Grinders",
+    "candidates": [
+      "Small Grinders",
+      "Oatmeal Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Abaye's resolution and Rava's geographic distinction \u2014 are explicitly discussed in the 'Small Grinders' prose, making that section the clear and correct home for this passage.",
+      "chosen_heading": "Small Grinders",
+      "current_heading": "Small Grinders",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Oatmeal Story",
+    "candidates": [
+      "Oatmeal Story",
+      "Shammai Strict",
+      "Hillel Lenient"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Rav Pappi/Mar Shmuel porridge narrative, which the 'Oatmeal Story' prose section describes in detail, including the exact points about the small grinder, the freshly ground appearance, and the lax servants \u2014 all of which match the current placement precisely.",
+      "chosen_heading": "Oatmeal Story",
+      "current_heading": "Oatmeal Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Hillel Lenient",
+    "candidates": [
+      "Shammai Strict",
+      "Hillel Lenient",
+      "Minority Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage introduces the entire borer debate including both Beit Shammai's and Beit Hillel's positions as well as Rabban Gamliel's view, and belongs under the first heading ('Shammai Strict') which opens the discussion of this Mishnah \u2014 the subsequent headings address Gemara analysis and elaboration of each opinion separately, not the Mishnah text itself.",
+      "chosen_heading": "Shammai Strict",
+      "current_heading": "Hillel Lenient",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Minority Rule",
+    "candidates": [
+      "Hillel Lenient",
+      "Minority Rule",
+      "Water Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the Rabban Gamliel baraita and the Gemara's follow-up question and answer about psolet merubeh al ha-ochel, which is the precise content described in the 'Minority Rule' prose section.",
+      "chosen_heading": "Minority Rule",
+      "current_heading": "Minority Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Water Method",
+    "candidates": [
+      "Water Method",
+      "Food Gifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabban Gamliel's water-and-skimming method and the resolution of the apparent contradiction between two baraitot about which component rises and which sinks \u2014 exactly what the 'Water Method' prose describes.",
+      "chosen_heading": "Water Method",
+      "current_heading": "Water Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Food Gifts",
+    "candidates": [
+      "Food Gifts",
+      "Livestock Gifts",
+      "Rabbi Shimon",
+      "Procession Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah that introduces the full debate between Beit Shammai and Beit Hillel on sending gifts on Yom Tov, including Rabbi Shimon's view on grain, and the 'Food Gifts' prose section (index 0) is clearly written to introduce and summarize this exact Mishnah in its entirety.",
+      "chosen_heading": "Food Gifts",
+      "current_heading": "Food Gifts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Procession Rule",
+    "candidates": [
+      "Livestock Gifts",
+      "Rabbi Shimon",
+      "Procession Rule",
+      "General Rule",
+      "Shatnez Garments",
+      "Excluded Items"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Procession Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara discussing the procession/shurah rule and Rav Ashi's dilemma, which is precisely what the 'Procession Rule' prose describes.",
+      "second_heading": "Rabbi Shimon",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita elaborating on Rabbi Shimon's permission to send grain, which matches exactly the 'Rabbi Shimon' section's prose about grain sending.",
+      "current_heading": "Procession Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Excluded Items",
+    "candidates": [
+      "General Rule",
+      "Shatnez Garments",
+      "Excluded Items",
+      "Shatnez Cushion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The Mishnah covers all elements: the general rule about sending clothes (heading 0), the shatnez exception (heading 1), and the excluded items with Rabbi Yehuda's addition (heading 2), but since it is a single unified Mishnah passage, it most naturally belongs under the 'General Rule' heading which introduces the overall framework, though the current placement under 'Excluded Items' also captures part of its content.",
+      "chosen_heading": "General Rule",
+      "current_heading": "Excluded Items",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Shatnez Cushion",
+    "candidates": [
+      "Shatnez Cushion",
+      "Jerusalem Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question about what use shatnez garments could serve, with item 1 raising the question and item 2 rejecting the suggestion of using shatnez as a mat/cushion due to the rabbinic decree about threads contacting flesh \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Shatnez Cushion",
+      "current_heading": "Shatnez Cushion",
+      "moved": false
+    }
+  }
+]

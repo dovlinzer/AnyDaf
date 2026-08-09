@@ -1,0 +1,563 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishnah Clarification",
+    "candidates": [
+      "Mishnah Clarification",
+      "Oldest Brother Priority",
+      "One Exempts All",
+      "Elders' Advice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's corrective emendation of the mishnah's 'four brothers' formulation to 'four of brothers,' which is precisely what the 'Mishnah Clarification' prose describes.",
+      "chosen_heading": "Mishnah Clarification",
+      "current_heading": "Mishnah Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Elders' Advice",
+    "candidates": [
+      "Oldest Brother Priority",
+      "One Exempts All",
+      "Elders' Advice",
+      "Age Matching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes the baraita about the elders calling him personally and offering appropriate advice, which is precisely what the 'Elders' Advice' section's prose describes.",
+      "chosen_heading": "Elders' Advice",
+      "current_heading": "Elders' Advice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Age Matching",
+    "candidates": [
+      "Age Matching",
+      "Math of Conjugal Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses age-matching advice (young/elderly mismatches) and the warning against household strife from mismatched ages, which is exactly what the 'Age Matching' section's prose describes.",
+      "chosen_heading": "Age Matching",
+      "current_heading": "Age Matching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Math of Conjugal Rights",
+    "candidates": [
+      "Math of Conjugal Rights",
+      "Senegal Digression",
+      "Bayis Echad Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mathematical reasoning for limiting yibum to four wives based on conjugal rights (onah), which is exactly what the 'Math of Conjugal Rights' section's prose describes.",
+      "chosen_heading": "Math of Conjugal Rights",
+      "current_heading": "Math of Conjugal Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Bayis Echad Proofs",
+    "candidates": [
+      "Senegal Digression",
+      "Bayis Echad Proofs",
+      "Chalitzah Exclusivity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly establishes the scriptural basis that a yavam builds one house not two, which is exactly what the 'Bayis Echad Proofs' section discusses.",
+      "chosen_heading": "Bayis Echad Proofs",
+      "current_heading": "Bayis Echad Proofs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Chalitzah Exclusivity",
+    "candidates": [
+      "Chalitzah Exclusivity",
+      "Mixed Option Question",
+      "Either/Or Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Mar Zutra bar Toviya's derivation that chalitzah applies to only one house, which is precisely what the 'Chalitzah Exclusivity' prose describes.",
+      "chosen_heading": "Chalitzah Exclusivity",
+      "current_heading": "Chalitzah Exclusivity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Either/Or Resolution",
+    "candidates": [
+      "Mixed Option Question",
+      "Either/Or Resolution",
+      "Tzarat Ervah Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Either/Or Resolution' prose: item 1 is the kol ha-oleh principle derived from 'im lo yachpotz', and item 2 is the rabbinic rationale about 'bayis miktzaso banuy' with its practical concern about chalitzah followed by yibum \u2014 exactly what that section's prose describes.",
+      "chosen_heading": "Either/Or Resolution",
+      "current_heading": "Either/Or Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Tzarat Ervah Issue",
+    "candidates": [
+      "Tzarat Ervah Issue",
+      "Multiple Wives Apply",
+      "Valid vs. Invalid Wife",
+      "Don't Waste Wells"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Tzarat Ervah Issue",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the hava amina that yibum doesn't apply with two wives and the tzarat ervah counterargument/objection, which exactly matches the 'Tzarat Ervah Issue' prose.",
+      "second_heading": "Multiple Wives Apply",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces the ribuy from 'yevimto yevimto' that resolves how yibum applies with multiple wives, which exactly matches the 'Multiple Wives Apply' prose.",
+      "current_heading": "Tzarat Ervah Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Don't Waste Wells",
+    "candidates": [
+      "Multiple Wives Apply",
+      "Valid vs. Invalid Wife",
+      "Don't Waste Wells",
+      "Three Cases Intro",
+      "Machzir Gerushah",
+      "Chalutzah Marriage",
+      "Relative of Chalutzah",
+      "Rabbi Akiva Strict",
+      "Sages' Standard",
+      "Divorc\u00e9e Relatives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Yosef's teaching about not spilling well water, which is exactly what candidate 2's prose describes as the rationale for performing chalitzah with the pesulah.",
+      "chosen_heading": "Don't Waste Wells",
+      "current_heading": "Don't Waste Wells",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Divorc\u00e9e Relatives",
+    "candidates": [
+      "Three Cases Intro",
+      "Machzir Gerushah",
+      "Chalutzah Marriage",
+      "Relative of Chalutzah",
+      "Rabbi Akiva Strict",
+      "Sages' Standard",
+      "Divorc\u00e9e Relatives",
+      "Chalutzah Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Akiva Strict",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah presenting Rabbi Akiva's strict position and the Sages' disagreement, which matches heading 4 ('Rabbi Akiva Strict') and 5 ('Sages' Standard') \u2014 but since they form one Mishnah unit, heading 4 ('Rabbi Akiva Strict') covers the full mishnaic dispute including the Sages' response as the foil.",
+      "second_heading": "Chalutzah Problem",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara's challenge that Rabbi Akiva cannot have meant 'relative of his chalutzah' since that is only a rabbinic prohibition, with the resolution to emend the text \u2014 precisely the content described in heading 7 ('Chalutzah Problem').",
+      "current_heading": "Divorc\u00e9e Relatives",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Chalutzah Problem",
+    "candidates": [
+      "Divorc\u00e9e Relatives",
+      "Chalutzah Problem",
+      "RSBL's Solution",
+      "Text Amendment",
+      "Akiva's Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses why the Sages framed their concession around the specific case of the grushah's relative rather than stating the kares principle abstractly, which is precisely what the 'Akiva's Intent' prose is about \u2014 marshaling the argument that the Sages' specific concession implies Rabbi Akiva himself raised that case, and noting that the later mishna already teaches the kares principle, making it unnecessary to convey it here.",
+      "chosen_heading": "Akiva's Intent",
+      "current_heading": "Chalutzah Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Akiva's Intent",
+    "candidates": [
+      "RSBL's Solution",
+      "Text Amendment",
+      "Akiva's Intent",
+      "Counter Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage addresses the counter-argument that the tanna may have taught anonymously according to Rabbi Shimon HaTimni, and then refutes it by asking why the mishnah specifically mentions the relative of the divorc\u00e9e \u2014 this is the gemara's response to the 'perhaps Rabbi Akiva never discussed this case' line of reasoning, which matches the 'Counter Argument' prose describing ve-dilma and the plain reading of the mishnah.",
+      "chosen_heading": "Counter Argument",
+      "current_heading": "Akiva's Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Counter Argument",
+    "candidates": [
+      "Counter Argument",
+      "Beit Chalutz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's counter-argument that Rabbi Akiva may not have discussed the relative of a divorc\u00e9e at all, and the mishna only included it because Rabbi Akiva mentioned the relative of a chalutzah \u2014 this is precisely the 've-dilma le-olam lo airy bah' conclusion described in the 'Counter Argument' prose.",
+      "chosen_heading": "Counter Argument",
+      "current_heading": "Counter Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Beit Chalutz",
+    "candidates": [
+      "Beit Chalutz",
+      "Biblical Equivalence",
+      "Machzir Consensus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Akiva's reasoning derived from 'beit chalutz ha-na'al' and the verse calling it 'his house,' which is precisely what the 'Beit Chalutz' section's prose describes and analyzes.",
+      "chosen_heading": "Beit Chalutz",
+      "current_heading": "Beit Chalutz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Machzir Consensus",
+    "candidates": [
+      "Biblical Equivalence",
+      "Machzir Consensus",
+      "Almana Counterpoint",
+      "Almana Unique",
+      "Woman's Status Proof",
+      "To'evah Proof",
+      "Three Cases Baraita",
+      "Akiva vs. Sages",
+      "Grammatical Parsing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present the ruling that everyone agrees the offspring of machzir grushaso is pagum li-kehunah, along with the kal v'chomer from almana that supports it \u2014 exactly what the 'Machzir Consensus' prose describes, including the clarification about Shimon HaTimni and the a fortiori argument from the widow case.",
+      "chosen_heading": "Machzir Consensus",
+      "current_heading": "Machzir Consensus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Grammatical Parsing",
+    "candidates": [
+      "Almana Counterpoint",
+      "Almana Unique",
+      "Woman's Status Proof",
+      "To'evah Proof",
+      "Three Cases Baraita",
+      "Akiva vs. Sages",
+      "Grammatical Parsing",
+      "No Almana Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Almana Unique",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the refutation of the kal v'chomer from almana (she herself becomes disqualified) and the to'evah verse proof \u2014 both addressed in candidates 1 ('Almana Unique') and 3 ('To'evah Proof'), but candidate 1 is the better single home since item 1 is the core refutation and item 2 is an additional proof in the same discussion of why the almana inference fails.",
+      "second_heading": "Grammatical Parsing",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 present the baraita about machzir grushaso/nosei chalutzaso, then parse 'hi pesulah/vlada pasul' vs 'hi kesheirah/vlada kasher' and the midi irya conclusion \u2014 exactly the content described in candidate 6 ('Grammatical Parsing').",
+      "current_heading": "Grammatical Parsing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "No Almana Proof",
+    "candidates": [
+      "No Almana Proof",
+      "Kares Pagum",
+      "Teimani Concession",
+      "Kal V'Chomer",
+      "Zonah Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items belong to the resolution of the baraita objection and the 'almanah kashya' conclusion \u2014 items 1-2 resolve earlier objections, and item 3 is the explicit 'almanah kashya' conclusion that the No Almana Proof prose directly discusses.",
+      "chosen_heading": "No Almana Proof",
+      "current_heading": "No Almana Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Zonah Transfer",
+    "candidates": [
+      "Kares Pagum",
+      "Teimani Concession",
+      "Kal V'Chomer",
+      "Zonah Transfer",
+      "Consensus Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous argument: Item 1 states that everyone (including Rabbi Yehoshua) agrees the offspring of kares unions is pagum, Item 2 derives this via kal v'chomer from almana, and Item 3 answers the potential refutation \u2014 this entire sequence belongs under 'Teimani Concession' which describes exactly Rabbi Yehoshua's concession and the kal v'chomer derivation, matching candidates 1 and 2 which together cover this content, with candidate 1 being the primary heading since it introduces the Rabbi Yehoshua identification that anchors all three items.",
+      "chosen_heading": "Teimani Concession",
+      "current_heading": "Zonah Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Consensus Claim",
+    "candidates": [
+      "Zonah Transfer",
+      "Consensus Claim",
+      "Lav But No Kiddushin",
+      "Kiddushin Theory",
+      "Niddah Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the direct quotation of Rabbah bar bar \u1e24ana's statement that all agree a slave or gentile who has relations with a Jewish woman produces a mamzer, which is precisely what the 'Consensus Claim' prose introduces and discusses.",
+      "chosen_heading": "Consensus Claim",
+      "current_heading": "Consensus Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149
+    ],
+    "current_heading": "Niddah Comparison",
+    "candidates": [
+      "Lav But No Kiddushin",
+      "Kiddushin Theory",
+      "Niddah Comparison",
+      "RSBY Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains exactly the point described in candidate 0's prose: that Shimon HaTimni's rule (no mamzer from issur lav) applies only where kiddushin can take effect, and since a gentile/slave's kiddushin cannot take effect, it is treated like issur kares \u2014 which is precisely what candidate 0 discusses under 'Lav But No Kiddushin'.",
+      "chosen_heading": "Lav But No Kiddushin",
+      "current_heading": "Niddah Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "RSBY Baraita",
+    "candidates": [
+      "Niddah Comparison",
+      "RSBY Baraita",
+      "Rabbi Exception: Non-Jew"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita featuring Rabbi Shimon ben Yehuda's position that mamzer requires issur ervah punishable by karet, which is exactly what the 'RSBY Baraita' section's prose describes.",
+      "chosen_heading": "RSBY Baraita",
+      "current_heading": "RSBY Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "Rabbi Exception: Non-Jew",
+    "candidates": [
+      "Rabbi Exception: Non-Jew",
+      "Ami's Consultation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yosef's answer identifying 'all agree' as Rabbi Yehuda HaNasi and his concession regarding a gentile or slave, which matches exactly the prose under 'Rabbi Exception: Non-Jew'.",
+      "chosen_heading": "Rabbi Exception: Non-Jew",
+      "current_heading": "Rabbi Exception: Non-Jew",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Ami's Consultation",
+    "candidates": [
+      "Ami's Consultation",
+      "Three Say Mamzer",
+      "Four Say Kasher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the narrative of the captive women brought before Rabbi Ami AND his report of the three opinions, which maps perfectly to the current heading 'Ami's Consultation' whose prose describes exactly this combined scene \u2014 the narrative setup and the question brought to Rabbi Ami including his response.",
+      "chosen_heading": "Ami's Consultation",
+      "current_heading": "Ami's Consultation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165
+    ],
+    "current_heading": "Four Say Kasher",
+    "candidates": [
+      "Three Say Mamzer",
+      "Four Say Kasher",
+      "Rabbi's Mamzer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's counter-list of four authorities (Rav, Shmuel, Rabbi Yehoshua ben Levi, Bar Kappara/ziknei darom) who hold the child is kasher, which exactly matches the 'Four Say Kasher' section prose.",
+      "chosen_heading": "Four Say Kasher",
+      "current_heading": "Four Say Kasher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      168
+    ],
+    "current_heading": "Rabbi's Mamzer",
+    "candidates": [
+      "Rabbi's Mamzer",
+      "Kehunah Status TBD"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yosef's declaration that the operative ruling is Rabbi Yehuda HaNasi's position that the offspring is a mamzer, which is precisely what the prose under 'Rabbi's Mamzer' describes.",
+      "chosen_heading": "Rabbi's Mamzer",
+      "current_heading": "Rabbi's Mamzer",
+      "moved": false
+    }
+  }
+]

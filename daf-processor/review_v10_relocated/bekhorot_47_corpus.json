@@ -1,0 +1,213 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Mixed-Up Children",
+    "candidates": [
+      "Exemption Overview",
+      "Two Explanations",
+      "Rava's View",
+      "Mixed-Up Children",
+      "Kohenet/Leviya Terms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are from the mishna presenting scenarios where a child is a bekhor l'kohen but not bekhor l'nakhalah \u2014 including the kohenet/leviya mix-up case and the woman who remarried within three months \u2014 exactly as described in the 'Mixed-Up Children' prose.",
+      "chosen_heading": "Mixed-Up Children",
+      "current_heading": "Mixed-Up Children",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Kohenet/Leviya Terms",
+    "candidates": [
+      "Kohenet/Leviya Terms",
+      "Rav Pappa's Quiz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about from whom the kohenet/leviya became pregnant and why the mishna specifies those terms rather than bat yisrael, which is precisely what the prose under 'Kohenet/Leviya Terms' describes.",
+      "chosen_heading": "Kohenet/Leviya Terms",
+      "current_heading": "Kohenet/Leviya Terms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Rav Pappa's Quiz",
+    "candidates": [
+      "Rav Pappa's Quiz",
+      "Bat Levi vs. Bat Kohen",
+      "Why Status Compromised",
+      "Gender Asymmetry",
+      "Impact on Daughters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly reports Rav Pappa's account of Rabba testing his students about a bat kohen who became pregnant from a gentile, and Rav Pappa's response invoking Rav Adda bar Ahava's ruling about a bat levi \u2014 exactly what the 'Rav Pappa's Quiz' section describes.",
+      "chosen_heading": "Rav Pappa's Quiz",
+      "current_heading": "Rav Pappa's Quiz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Impact on Daughters",
+    "candidates": [
+      "Bat Levi vs. Bat Kohen",
+      "Why Status Compromised",
+      "Gender Asymmetry",
+      "Impact on Daughters",
+      "Son Redeems Self",
+      "Rav Chisda Dispute",
+      "Rav Chisda's View",
+      "Rabbah's View",
+      "Final Consensus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items directly address the debate between Mar son of Rav Yosef/Rava and Rav Pappa about how to interpret the mishna's exemption for bat kohen/bat levi, culminating in Rav Pappa's resolution that 'kohenet' means the wife of a kohen rather than a bat kohen \u2014 precisely the content described in the 'Impact on Daughters' prose section.",
+      "chosen_heading": "Impact on Daughters",
+      "current_heading": "Impact on Daughters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Final Consensus",
+    "candidates": [
+      "Son Redeems Self",
+      "Rav Chisda Dispute",
+      "Rav Chisda's View",
+      "Rabbah's View",
+      "Final Consensus",
+      "Power of Attorney",
+      "Yakir Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items together form the complete Gemara discussion of the \u1e25alal son's obligation to redeem himself \u2014 the Rav \u1e24isda/Rabbah dispute, the challenge from the convert mishna, and the resolution via Rabbi Shimon ben Lakish \u2014 which is exactly what the 'Final Consensus' prose describes in its entirety.",
+      "chosen_heading": "Final Consensus",
+      "current_heading": "Final Consensus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Yakir Rule",
+    "candidates": [
+      "Power of Attorney",
+      "Yakir Rule",
+      "No Yakir Moment",
+      "Miscarriage Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous Gemara discussion about the mishna's case of a woman who remarried within three months \u2014 analyzing why the uncertain son cannot inherit, Rabbi Yirmeya's reinterpretation, the harsha'a proposal, and Rabbi Yannai's rule about recognized vs. unrecognized children \u2014 which matches exactly the 'Power of Attorney' section's prose description of this precise sugya.",
+      "chosen_heading": "Power of Attorney",
+      "current_heading": "Yakir Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Miscarriage Cases",
+    "candidates": [
+      "No Yakir Moment",
+      "Miscarriage Cases",
+      "Chachamim: No C-Section",
+      "Rabbi Shimon: C-Section"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text directly presents the miscarriage cases (gestational sac, non-human forms, pre-forty-day miscarriage) that establish bekhor status, which is precisely what the 'Miscarriage Cases' prose section describes.",
+      "chosen_heading": "Miscarriage Cases",
+      "current_heading": "Miscarriage Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Rabbi Shimon: C-Section",
+    "candidates": [
+      "Chachamim: No C-Section",
+      "Rabbi Shimon: C-Section",
+      "Chachamim Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chachamim: No C-Section",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna text presenting both the Chachamim's ruling and Rabbi Shimon's opinion together, but the Chachamim's position ('shneihem einam bekhor') is the primary ruling being introduced, matching heading 0 which introduces the C-section Mishna and the Chachamim's position.",
+      "second_heading": "Chachamim Analysis",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara explaining the Chachamim's reasoning using 'veyaldu lo' and 'petar rechem,' which directly matches heading 2's prose about the two-stage Chachamim analysis of why the C-section child fails for inheritance and why the second child fails for pidyon.",
+      "current_heading": "Rabbi Shimon: C-Section",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Chachamim Analysis",
+    "candidates": [
+      "Rabbi Shimon: C-Section",
+      "Chachamim Analysis",
+      "Rabbi Shimon Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why the second child is not bekhor l'nakhalah (lacking 'reishit ono') and not bekhor for pidyon (bekhor ledavar echad lo havei bekhor), which is precisely the two-stage reasoning of the chachamim discussed in the Chachamim Analysis prose.",
+      "chosen_heading": "Chachamim Analysis",
+      "current_heading": "Chachamim Analysis",
+      "moved": false
+    }
+  }
+]

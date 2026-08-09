@@ -1,0 +1,277 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Rav Papa's Position",
+    "candidates": [
+      "Intro: Shelo L'Ochlav",
+      "Arelim v. Mulim",
+      "Mixed Thought Analysis",
+      "Yeshna L'Shechita",
+      "Process vs. Moment",
+      "Timeline Model",
+      "Rav Papa's Position",
+      "Tchilas Devarav",
+      "Mulim First Case",
+      "Arelim First Case",
+      "Piv v'Libo Shavin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute the gemara's analysis of why the order of mulim/arelim matters \u2014 items 1-2 pose the question (why should order matter if both orderings produce a mixed group?) and item 3 states the conclusion \u2014 which precisely matches heading 2's prose description of 'mai shna mulim l'arelim de-kasher' and the gemara turning to resolve why order matters.",
+      "chosen_heading": "Mixed Thought Analysis",
+      "current_heading": "Rav Papa's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Piv v'Libo Shavin",
+    "candidates": [
+      "Tchilas Devarav",
+      "Mulim First Case",
+      "Arelim First Case",
+      "Piv v'Libo Shavin",
+      "Articulated Thought",
+      "Two Siman Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the *piv v'libo shavin* dispute \u2014 Item 1 presents Rabbah's explanation that Rabbi Meir and the Rabbis disagree about whether mouth and heart must align, and Item 2 raises the contradiction from the Terumot mishna challenging whether Rabbi Meir really holds that position \u2014 which is precisely what the prose of heading 3 ('Piv v'Libo Shavin') describes.",
+      "chosen_heading": "Piv v'Libo Shavin",
+      "current_heading": "Piv v'Libo Shavin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Two Siman Model",
+    "candidates": [
+      "Articulated Thought",
+      "Two Siman Model",
+      "Mefalgin Bachatzi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's explanation of the two-siman model, directly matching the prose in candidate 1 which describes exactly this resolution \u2014 the first siman/second siman designations and their mixed or unmixed character.",
+      "chosen_heading": "Two Siman Model",
+      "current_heading": "Two Siman Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Mefalgin Bachatzi",
+    "candidates": [
+      "Mefalgin Bachatzi",
+      "Chametz Prohibition Scope",
+      "Mishna & R. Yehuda",
+      "R. Shimon Principle",
+      "Pesach Still Kosher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the mefalgin be-chatzi matir debate between Rabbi Meir and the Rabbis, which is precisely what the prose under heading 0 ('Mefalgin Bachatzi') describes in detail.",
+      "chosen_heading": "Mefalgin Bachatzi",
+      "current_heading": "Mefalgin Bachatzi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Pesach Still Kosher",
+    "candidates": [
+      "Chametz Prohibition Scope",
+      "Mishna & R. Yehuda",
+      "R. Shimon Principle",
+      "Pesach Still Kosher",
+      "Chattat Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text covers exactly what section 1 ('Mishna & R. Yehuda') describes: the opening ruling about shechting the Pesach with chametz, Rabbi Yehuda's extension to the tamid, and Rabbi Shimon's lishmo/shelo lishmo distinctions \u2014 all of which the prose of section 1 explicitly introduces and discusses.",
+      "chosen_heading": "Mishna & R. Yehuda",
+      "current_heading": "Pesach Still Kosher",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Chattat Exception",
+    "candidates": [
+      "Pesach Still Kosher",
+      "Chattat Exception",
+      "Invalid Shechita Logic",
+      "Ownership Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Shimon's taxonomy for the festival period (mo'ed), covering lishmo/shelo lishmo cases for Pesach and other korbanot, and the chattat exception \u2014 exactly what the 'Chattat Exception' prose describes.",
+      "chosen_heading": "Chattat Exception",
+      "current_heading": "Chattat Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Ownership Requirement",
+    "candidates": [
+      "Invalid Shechita Logic",
+      "Ownership Requirement",
+      "Al Samuch Debate",
+      "Toda Bread Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Reish Lakish's ownership and proximity requirements (chametz belonging to shochet/zorek/chaburah member, and being in the azarah) and Rabbi Yochanan's disagreement, which is precisely what the 'Ownership Requirement' prose describes before transitioning to the al samuch debate \u2014 the passage has not yet reached the prior toda dispute that candidate 2 and 3 discuss.",
+      "chosen_heading": "Ownership Requirement",
+      "current_heading": "Ownership Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Toda Bread Case",
+    "candidates": [
+      "Al Samuch Debate",
+      "Toda Bread Case",
+      "Issura v. Kedushat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Toda Bread Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the toda bread case and the Rabbi Yochanan/Reish Lakish dispute about al besamuch in that context, which matches exactly the 'Toda Bread Case' prose description.",
+      "second_heading": "Al Samuch Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the hatra'at safeik alternative explanation and notes they already disputed this before, which matches the 'Al Samuch Debate' prose that explicitly discusses hatra'at safeik as an independent reason for exemption separate from al besamuch.",
+      "current_heading": "Toda Bread Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Issura v. Kedushat",
+    "candidates": [
+      "Issura v. Kedushat",
+      "Ownership Scenario"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Ownership Scenario",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the dispute between Rabbi Yochanan and Reish Lakish about lav she'ein bo ma'aseh and uncertain warnings (in the context of an oath about eating a loaf), which is a completely different topic unrelated to chametz/issura/kedushat and does not match any of the candidate prose sections \u2014 but is least misplaced under 'Ownership Scenario' as a prior digression; however, since the current placement 'Issura v. Kedushat' has no prose about oaths, and items 3-5 are precisely the u-tzricha argument about chametz vs. sanctification of bread that the 'Issura v. Kedushat' prose explicitly describes, items 3-5 clearly belong under index 0.",
+      "second_heading": "Issura v. Kedushat",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 are the u-tzricha / necessity argument explaining why both the chametz case and the bread-sanctification case must be stated, which is exactly what the 'Issura v. Kedushat' prose discusses in detail.",
+      "current_heading": "Issura v. Kedushat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Ownership Scenario",
+    "candidates": [
+      "Ownership Scenario",
+      "Lo Yalin Connection",
+      "Rav Papa Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Oshaya's question about the shochet lacking chametz while a chaburah member has it, which matches exactly the 'Ownership Scenario' prose describing this precise question, while Rabbi Ami's response about the textual reading belongs under 'Lo Yalin Connection' \u2014 but since all items must go under one heading and the question itself is the primary content of this single item, the current placement under 'Ownership Scenario' is the best fit as it captures the scenario being posed.",
+      "chosen_heading": "Ownership Scenario",
+      "current_heading": "Ownership Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Rav Papa Extension",
+    "candidates": [
+      "Lo Yalin Connection",
+      "Rav Papa Extension",
+      "Braita: Who Transgresses",
+      "Melikat Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the lo yalin derivation: item 1 is the Rav Oshaya/Rav Ashi exchange establishing that 'lo tishchat' applies only to those subject to 'lo yalin,' and item 2 is Rav Papa's immediate inference from that same principle \u2014 both belong under 'Lo Yalin Connection' which explicitly discusses this derivation, not under 'Rav Papa Extension' which describes Rav Papa's ruling as already established context.",
+      "chosen_heading": "Lo Yalin Connection",
+      "current_heading": "Rav Papa Extension",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Melikat Exception",
+    "candidates": [
+      "Braita: Who Transgresses",
+      "Melikat Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous baraita passage (plus a contradicting baraita and its continuation) that the prose under 'Braita: Who Transgresses' explicitly discusses \u2014 covering the slaughterer/sprinkler/group-member rule, the end-of-the-world exception, and the liability of shechita/zerika/haktara \u2014 while the current heading 'Melikat Exception' only addresses the narrow bird-pinching sub-point of item 1, not the full passage.",
+      "chosen_heading": "Braita: Who Transgresses",
+      "current_heading": "Melikat Exception",
+      "moved": true
+    }
+  }
+]

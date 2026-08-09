@@ -34,7 +34,7 @@
           "timestamp": "06:15"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -48,8 +48,8 @@
           "timestamp": "07:01"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Special Cases: Slave Women and Converted Women; Payment When No Husband Exists",
@@ -96,7 +96,7 @@
           "timestamp": "25:07"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -638,5 +638,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "35:21",
+  "amud_b_micro_title": "Tannaitic Debate",
+  "shiur_start_daf": 49,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,320 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Pelvic Anatomy",
+    "candidates": [
+      "Rav Huna & Rabba",
+      "Mundane vs. Essential",
+      "Pelvic Anatomy",
+      "Pikuach Nefesh",
+      "Options Presented",
+      "Rav Huna's View",
+      "Rav Chisda's View",
+      "Baraita & Handles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the entire exchange between Rav Huna and Rabba \u2014 Rav Huna's question, Rabba's objection about mundane matters, the specific bathroom advice, and Rav Huna's rebuttal \u2014 all of which is introduced and described in candidate 0's prose about the opening exchange on 82a.",
+      "chosen_heading": "Rav Huna & Rabba",
+      "current_heading": "Pelvic Anatomy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Baraita & Handles",
+    "candidates": [
+      "Pikuach Nefesh",
+      "Options Presented",
+      "Rav Huna's View",
+      "Rav Chisda's View",
+      "Baraita & Handles",
+      "Two Choices",
+      "Attached Grass",
+      "Rav Chisda vs. Hamnuna",
+      "Flammable Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in 'Baraita & Handles': the debate between Rav Huna and Rav Chisda, the baraita refutation, and Rafram bar Pappa's resolution via ugnei keilim \u2014 which is precisely what that section's prose discusses.",
+      "chosen_heading": "Baraita & Handles",
+      "current_heading": "Baraita & Handles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Flammable Items",
+    "candidates": [
+      "Two Choices",
+      "Attached Grass",
+      "Rav Chisda vs. Hamnuna",
+      "Flammable Items",
+      "Moist vs. Dry",
+      "Constipation Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the debate between Rav \u1e24isda and Rav Hamnuna about stone vs. grass, then raises the flammability objection and resolves it with the moist/dry distinction \u2014 all of this content is introduced by the 'Rav Chisda vs. Hamnuna' heading, which describes exactly this dispute and its surrounding reasoning, making it the best single home for the entire passage.",
+      "chosen_heading": "Rav Chisda vs. Hamnuna",
+      "current_heading": "Flammable Items",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Constipation Issue",
+    "candidates": [
+      "Moist vs. Dry",
+      "Constipation Issue",
+      "Stand-Sit Method",
+      "Location Change",
+      "Stimulation Method",
+      "Distraction Method",
+      "Mental Focus",
+      "Practical Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Rav \u1e24isda and Ravina about the consequences of not relieving oneself and the supporting baraita, which is precisely what the 'Constipation Issue' prose describes.",
+      "chosen_heading": "Constipation Issue",
+      "current_heading": "Constipation Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Practical Example",
+    "candidates": [
+      "Stand-Sit Method",
+      "Location Change",
+      "Stimulation Method",
+      "Distraction Method",
+      "Mental Focus",
+      "Practical Example",
+      "Pre-Meal Protocol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers all five methods (stand-sit, location change, stone stimulation, distraction, mental focus) plus Rav Yirmiyah's empirical validation, but since it begins with and is anchored by Rav Chisda's stand-sit method and the passage as a whole belongs under one heading, the 'Stand-Sit Method' heading is the best fit as the opening topic that frames the entire discussion.",
+      "chosen_heading": "Stand-Sit Method",
+      "current_heading": "Practical Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Pre-Meal Protocol",
+    "candidates": [
+      "Pre-Meal Protocol",
+      "Rabbi Yehuda",
+      "Rabbi Meir",
+      "Rabbi Yossi",
+      "Biblical Proof",
+      "Counter-Proof",
+      "Comparative Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about walking before a formal meal to prepare for relieving oneself matches exactly the 'Pre-Meal Protocol' prose, which describes precisely this content.",
+      "chosen_heading": "Pre-Meal Protocol",
+      "current_heading": "Pre-Meal Protocol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Comparative Analysis",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Rabbi Meir",
+      "Rabbi Yossi",
+      "Biblical Proof",
+      "Counter-Proof",
+      "Comparative Analysis",
+      "Primary & Secondary",
+      "Interlude Purpose",
+      "Derivation Method",
+      "Akiva's Question",
+      "Isaiah Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishna presenting the dispute, the Gemara's comparative analysis of which measure is larger with Abaye's resolution, and Rabbi Meir's 'lo mibeya' response \u2014 together form the content discussed under 'Comparative Analysis' (candidate 5), which explicitly addresses the Gemara's question about whose measure is larger and Abaye's answer about a large conflagration.",
+      "chosen_heading": "Comparative Analysis",
+      "current_heading": "Comparative Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Isaiah Comparison",
+    "candidates": [
+      "Primary & Secondary",
+      "Interlude Purpose",
+      "Derivation Method",
+      "Akiva's Question",
+      "Isaiah Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The 'Hadran alach ha-motzi yayin' is the formal conclusion marker for the perek, and the prose under 'Primary & Secondary' explicitly mentions this conclusion phrase, making it the natural home for this passage.",
+      "chosen_heading": "Primary & Secondary",
+      "current_heading": "Isaiah Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Isaiah Comparison",
+    "candidates": [
+      "Isaiah Comparison",
+      "Logical Inference",
+      "Niddah Taboos",
+      "Shared Wall Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The Mishna itself presents both the proof text (Isaiah 30:22) and the logical inference together, but the current placement under 'Isaiah Comparison' captures the verse citation that anchors the passage, and the prose there directly discusses the same Yeshayahu 30:22 verse that the Mishna quotes \u2014 though 'Logical Inference' (index 1) also closely matches the gezerah shavah reasoning; given the Mishna introduces both elements simultaneously, the current placement is acceptable.",
+      "chosen_heading": "Isaiah Comparison",
+      "current_heading": "Isaiah Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Shared Wall Case",
+    "candidates": [
+      "Logical Inference",
+      "Niddah Taboos",
+      "Shared Wall Case",
+      "Impurity Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Mishnah from Avodah Zarah about a house adjacent to idolatry whose shared wall fell and the solution of moving four amot inward, which is precisely what the 'Shared Wall Case' prose discusses.",
+      "chosen_heading": "Shared Wall Case",
+      "current_heading": "Shared Wall Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Impurity Status",
+    "candidates": [
+      "Impurity Status",
+      "Sheretz vs. Niddah",
+      "Rava's Reading",
+      "Rashi's View",
+      "Tosafot's View",
+      "Moshav vs. Masama",
+      "Niddah Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Mishnah's debate between the Rabbanan (sheretz comparison) and Rabbi Akiva (niddah comparison) along with Rabba's clarification of where they agree and disagree \u2014 precisely the content described in the 'Sheretz vs. Niddah' prose section, not the 'Impurity Status' section which covers only the basic sheretz tumah and its source verse.",
+      "chosen_heading": "Sheretz vs. Niddah",
+      "current_heading": "Impurity Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Niddah Comparison",
+    "candidates": [
+      "Sheretz vs. Niddah",
+      "Rava's Reading",
+      "Rashi's View",
+      "Tosafot's View",
+      "Moshav vs. Masama",
+      "Niddah Comparison",
+      "Wholeness Principle",
+      "Disassembly Rule",
+      "Chama's Question",
+      "Two Opinions",
+      "Eliezer's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the Torah compares idolatry to niddah rather than neveilah for the purpose of massa, which is exactly what the 'Niddah Comparison' section's prose discusses.",
+      "chosen_heading": "Niddah Comparison",
+      "current_heading": "Niddah Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Eliezer's View",
+    "candidates": [
+      "Wholeness Principle",
+      "Disassembly Rule",
+      "Chama's Question",
+      "Two Opinions",
+      "Eliezer's View",
+      "Appurtenances Rule",
+      "Wholeness from Niddah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar's alternative structural reading where even masama is agreed upon by all and the dispute concerns massa, which is precisely what heading 4 ('Eliezer's View') describes in its prose.",
+      "chosen_heading": "Eliezer's View",
+      "current_heading": "Eliezer's View",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Heavenly Purposes",
+    "candidates": [
+      "Tumat Ohalim Intro",
+      "Heavenly Purposes",
+      "Tefillin & Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question of 'le-mai hilchata' for Rav Yosef's teaching and the first answer (tefillin) being rejected because of the explicit pasuk 'min hamutar beficha' \u2014 precisely what the 'Heavenly Purposes' prose describes.",
+      "chosen_heading": "Heavenly Purposes",
+      "current_heading": "Heavenly Purposes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Tefillin & Torah",
+    "candidates": [
+      "Tefillin & Torah",
+      "Hair & Sinews"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's clarification that Rav Yosef's teaching refers to the leather of the tefillin boxes, followed by Abaye's statement about the shin being a halacha le-moshe mi-sinai, which is precisely what the prose under 'Tefillin & Torah' describes.",
+      "chosen_heading": "Tefillin & Torah",
+      "current_heading": "Tefillin & Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Hair & Sinews",
+    "candidates": [
+      "Hair & Sinews",
+      "Tefillin Straps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses binding parchments with hair and sewing with sinews, and the baraita confirming these as halacha le-moshe mi-sinai, which matches exactly the 'Hair & Sinews' section's prose.",
+      "chosen_heading": "Hair & Sinews",
+      "current_heading": "Hair & Sinews",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Tefillin Straps",
+    "candidates": [
+      "Tefillin Straps",
+      "Unique Creature"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the straps (retzuot) of tefillin, the black color requirement as halacha le-Moshe mi-Sinai, and the question of kosher leather \u2014 precisely what the 'Tefillin Straps' section prose describes.",
+      "chosen_heading": "Tefillin Straps",
+      "current_heading": "Tefillin Straps",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Unique Creature",
+    "candidates": [
+      "Unique Creature",
+      "Physical Features",
+      "Tachash ID Theories",
+      "Kosher Status Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full quote from Rabbi Meir via Rabbi Shimon ben Lakish covering both the creature's unclassifiable nature AND its single horn and disappearance, and the current heading's prose explicitly addresses this entire passage including the 'birya bi-fnei atzmah' statement and the Sages' inability to classify it, making it the best match.",
+      "chosen_heading": "Unique Creature",
+      "current_heading": "Unique Creature",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Kosher Status Debate",
+    "candidates": [
+      "Physical Features",
+      "Tachash ID Theories",
+      "Kosher Status Debate",
+      "Mishna Debate",
+      "R. Eliezer View",
+      "R. Akiva View",
+      "Yom Tov Connection",
+      "Broken Vessel Issue",
+      "Wick from Start",
+      "Exact Measurement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's attempt to derive the tachash's kosher status from its single horn, citing Rav Yehuda's teaching about Adam's ox, the textual analysis of 'makrin'/'mikeren', and the failed attempt to resolve the behema/chaya question via the keresh \u2014 all of which precisely matches the 'Kosher Status Debate' prose.",
+      "chosen_heading": "Kosher Status Debate",
+      "current_heading": "Kosher Status Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Exact Measurement",
+    "candidates": [
+      "Mishna Debate",
+      "R. Eliezer View",
+      "R. Akiva View",
+      "Yom Tov Connection",
+      "Broken Vessel Issue",
+      "Wick from Start",
+      "Exact Measurement",
+      "Singed Wicks Need",
+      "Keilim Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All 12 items collectively cover the full arc described in candidate 6's prose: Rav Yosef's puzzlement over 'exactly three by three,' Rava's alternative explanation, the inference about Rav Adda bar Ahava's personal ruling, the Rabbi Yehudah/Rabbi Shimon debate on vessels/pits/shells, Rav's conduct with date pits, and Rav Shmuel bar bar Chana's practical question \u2014 all of which are explicitly narrated in candidate 6's section prose.",
+      "chosen_heading": "Exact Measurement",
+      "current_heading": "Exact Measurement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Keilim Mishna",
+    "candidates": [
+      "Singed Wicks Need",
+      "Keilim Mishna",
+      "R. Eliezer Impure",
+      "R. Yehoshua Pure",
+      "R. Akiva Split",
+      "Ambiguous States"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Rav Hamnuna's statement that the mishna deals with cloth smaller than three by three and concerns 'kulei matlaniyot' (insignificant small cloths) is precisely what the Keilim Mishna section's prose describes as Rav Hamnuna's interpretation.",
+      "chosen_heading": "Keilim Mishna",
+      "current_heading": "Keilim Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Ambiguous States",
+    "candidates": [
+      "R. Eliezer Impure",
+      "R. Yehoshua Pure",
+      "R. Akiva Split",
+      "Ambiguous States",
+      "Designation Changes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present the Ulla/Rabba bar bar Chana statement about the agreed extremes (garbage=tahor, box=tamei) and the resolution of the intermediate ambiguous cases (hung on dryer, placed behind door), which is precisely what the 'Ambiguous States' prose section describes in detail.",
+      "chosen_heading": "Ambiguous States",
+      "current_heading": "Ambiguous States",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Designation Changes",
+    "candidates": [
+      "Designation Changes",
+      "Suspended Container",
+      "Single Vessel",
+      "Separate Bowl"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's proof from the term *petilat habeged* that Rabbi Akiva retracted his opinion in favor of Rabbi Yehoshua, which is precisely what the 'Designation Changes' section's prose discusses.",
+      "chosen_heading": "Designation Changes",
+      "current_heading": "Designation Changes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Separate Bowl",
+    "candidates": [
+      "Suspended Container",
+      "Single Vessel",
+      "Separate Bowl",
+      "Both Cases Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers all the content from the eggshell prohibition through Rabbi Yehudah's opinion and the single-vessel exception, and then the bowl case \u2014 it is one complete mishna unit that begins with the suspended container topic, which is where the passage's opening content (the eggshell) belongs, and the subsequent prose sections break out sub-topics of this same mishna.",
+      "chosen_heading": "Suspended Container",
+      "current_heading": "Separate Bowl",
+      "moved": true
+    }
+  }
+]

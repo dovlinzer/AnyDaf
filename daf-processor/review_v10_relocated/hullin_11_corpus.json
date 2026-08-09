@@ -1,0 +1,409 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Mina Ha-Milta",
+    "candidates": [
+      "Chazakah Review",
+      "Mina Ha-Milta",
+      "Acharei Rabim Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the derivation of the principle of chazakah (establishing status quo) from the laws of tzara'at/leprosy, which matches the 'Chazakah Review' prose that explicitly states 'The Gemara derived the principle of chazakah from the laws of tzara'at, where one assumes the size of a spot has remained constant' \u2014 not the 'Mina Ha-Milta' section which is about deriving rov from 'acharei rabim lehatot'.",
+      "chosen_heading": "Chazakah Review",
+      "current_heading": "Mina Ha-Milta",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Acharei Rabim Limit",
+    "candidates": [
+      "Mina Ha-Milta",
+      "Acharei Rabim Limit",
+      "Nine Stores Example",
+      "Leisa Kaman & Yibbum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The passage deals with a dispute about whether a priest seeing a leprous mark as he exits a house supports the principle of leaving things in their presumptive status \u2014 this is not directly discussed in any of the candidate prose sections, which focus on rov and majority principles, but the current placement under 'Acharei Rabim Limit' is no better or worse than the others, so the current placement is retained.",
+      "chosen_heading": "Acharei Rabim Limit",
+      "current_heading": "Acharei Rabim Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Leisa Kaman & Yibbum",
+    "candidates": [
+      "Nine Stores Example",
+      "Leisa Kaman & Yibbum",
+      "Formal vs. Probability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The passage describes Rav A\u1e25a bar Ya'akov's interpretation involving a relay of standing men transmitting a report about a leprous mark's status, which relates to chazakah/status-quo transmission rather than the yibbum/ruba de-leisa kaman discussion in the current placement, and fits better under the 'Formal vs. Probability' section's broader discussion of formal rules and status assumptions.",
+      "chosen_heading": "Formal vs. Probability",
+      "current_heading": "Leisa Kaman & Yibbum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Formal vs. Probability",
+    "candidates": [
+      "Formal vs. Probability",
+      "Sanhedrin & Birur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the biblical source for 'follow the majority' (acharei rabim lehatot), which is the very verse the 'Sanhedrin & Birur' section's prose directly discusses in the context of Sanhedrin voting and court decisions \u2014 making that section the natural home for this Gemara excerpt.",
+      "chosen_heading": "Sanhedrin & Birur",
+      "current_heading": "Formal vs. Probability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Sanhedrin & Birur",
+    "candidates": [
+      "Formal vs. Probability",
+      "Sanhedrin & Birur",
+      "Birur vs. Hanhaga",
+      "Olah Brain Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together define the distinction between ruba de-ita kaman (majority before us, e.g., nine shops, Sanhedrin) and ruba de-leisa kaman (majority not before us, e.g., minors), which is precisely the formal vs. probability distinction that candidate 0's prose discusses \u2014 the harder case of abstract percentages versus the traceable formal majority.",
+      "chosen_heading": "Formal vs. Probability",
+      "current_heading": "Sanhedrin & Birur",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Olah Brain Proof",
+    "candidates": [
+      "Birur vs. Hanhaga",
+      "Olah Brain Proof",
+      "Olah Refuted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the content described under 'Olah Brain Proof' \u2014 the mnemonic for the Sages and Rabbi Elazar's derivation from the head of the burnt offering to prove ruba de-leisa kaman.",
+      "chosen_heading": "Olah Brain Proof",
+      "current_heading": "Olah Brain Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Olah Refuted",
+    "candidates": [
+      "Olah Refuted",
+      "Pesach Bone Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge to the olah proof \u2014 asking 'from where' the conclusion is drawn, raising the possibility of splitting the head while keeping sides joined \u2014 which is precisely what the 'Olah Refuted' prose describes.",
+      "chosen_heading": "Olah Refuted",
+      "current_heading": "Olah Refuted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Pesach Bone Proof",
+    "candidates": [
+      "Pesach Bone Proof",
+      "Coal Refutation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Mar breih d'Ravina's proof from the Paschal offering bone-breaking prohibition, which is exactly what the 'Pesach Bone Proof' section's prose describes.",
+      "chosen_heading": "Pesach Bone Proof",
+      "current_heading": "Pesach Bone Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Coal Refutation",
+    "candidates": [
+      "Coal Refutation",
+      "Alyah Spine Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the coal-burning refutation and the baraita about cutting sinews/burning bones, which is precisely what the 'Coal Refutation' section's prose discusses.",
+      "chosen_heading": "Coal Refutation",
+      "current_heading": "Coal Refutation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Alyah Spine Proof",
+    "candidates": [
+      "Alyah Spine Proof",
+      "Alyah Refuted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav Na\u1e25man bar Yitz\u1e25ak's proof from the alyah and the immediate inline rebuttal about cutting below the spine \u2014 this is the affirmative proof stage before the full refutation in heading 1, and the prose of heading 0 explicitly describes this exact argument including the le-umat ha-atzeh point, matching both items perfectly.",
+      "chosen_heading": "Alyah Spine Proof",
+      "current_heading": "Alyah Spine Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Alyah Refuted",
+    "candidates": [
+      "Alyah Refuted",
+      "Eglah Arufah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and expresses the 'dilma de-fatach lei u-vadak lei' rebuttal and the 'temimah' discussion, which is explicitly described in the 'Alyah Refuted' prose section.",
+      "chosen_heading": "Alyah Refuted",
+      "current_heading": "Alyah Refuted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Eglah Arufah Proof",
+    "candidates": [
+      "Eglah Arufah Proof",
+      "Parah Adumah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the eglah arufah proof \u2014 item 1 derives rov from the heifer and item 2 addresses the rebuttal about why treifah status matters for it \u2014 exactly matching the 'Eglah Arufah Proof' prose which discusses both the sheleimah requirement and the kaparah/kodashim point from the school of Rabbi Yannai.",
+      "chosen_heading": "Eglah Arufah Proof",
+      "current_heading": "Eglah Arufah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Parah Adumah Proof",
+    "candidates": [
+      "Parah Adumah Proof",
+      "Paternity & Rov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the red heifer (parah adumah) proof for following rov, including the chatat objection and its answer, which is precisely what the 'Parah Adumah Proof' prose describes.",
+      "chosen_heading": "Parah Adumah Proof",
+      "current_heading": "Parah Adumah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Paternity & Rov",
+    "candidates": [
+      "Paternity & Rov",
+      "Rov vs. Chazakah Nature",
+      "Murder Victim Treifah"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Paternity & Rov",
+      "current_heading": "Paternity & Rov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Murder Victim Treifah",
+    "candidates": [
+      "Rov vs. Chazakah Nature",
+      "Murder Victim Treifah",
+      "Autopsy & Kevod Hamet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Kahana's proof from the case of executing a murderer where the victim might have been a treifah, which is precisely what the 'Murder Victim Treifah' section's prose describes.",
+      "chosen_heading": "Murder Victim Treifah",
+      "current_heading": "Murder Victim Treifah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Autopsy & Kevod Hamet",
+    "candidates": [
+      "Autopsy & Kevod Hamet",
+      "Edim Zomemim Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses examining the corpse (autopsy), the concern for nivul/mutilation (kevod ha-met), and the unresolvable uncertainty due to a pre-existing perforation at the sword's location \u2014 all of which are precisely what candidate 0's prose addresses.",
+      "chosen_heading": "Autopsy & Kevod Hamet",
+      "current_heading": "Autopsy & Kevod Hamet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Edim Zomemim Proof",
+    "candidates": [
+      "Edim Zomemim Proof",
+      "Shechitah Rov Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Ravina's proof from conspiring witnesses and the immediate objection/response about examining the victim, which is exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Edim Zomemim Proof",
+      "current_heading": "Edim Zomemim Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Shechitah Rov Proof",
+    "candidates": [
+      "Shechitah Rov Proof",
+      "Shimi's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's proof from shechitah itself (atya mi-shechitah atzmah), which is exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Shechitah Rov Proof",
+      "current_heading": "Shechitah Rov Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Shimi's Challenge",
+    "candidates": [
+      "Shimi's Challenge",
+      "Rabbi Meir & Miut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's report of transmitting the halakha to Rav Kahana/Rav Shimi and Rav Shimi's challenge (efshar/lo efshar), which is precisely what the 'Shimi's Challenge' section prose describes.",
+      "chosen_heading": "Shimi's Challenge",
+      "current_heading": "Shimi's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Rabbi Meir & Miut",
+    "candidates": [
+      "Rabbi Meir & Miut",
+      "Rashi Halacha Misinai",
+      "Lungs Matzui Rule",
+      "Matzui vs. Eino Matzui"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the reductio ad absurdum about Rabbi Meir and meat-eating, culminating in the 'heicha d-efshar efshar' principle, which is precisely what the 'Rabbi Meir & Miut' prose section describes in detail.",
+      "chosen_heading": "Rabbi Meir & Miut",
+      "current_heading": "Rabbi Meir & Miut",
+      "moved": false
+    }
+  }
+]

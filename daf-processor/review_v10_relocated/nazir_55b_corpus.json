@@ -1,0 +1,123 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Rav Chisda's Theory",
+    "candidates": [
+      "Metzora Stages",
+      "Mishna Rule",
+      "Rav Chisda's Theory",
+      "Rav Mesharsheya",
+      "Fifty-Day Case",
+      "Double Safek Setup",
+      "Sixty to 120 Days",
+      "Conditional Korbanos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present Rav \u1e24isda's distinction between short and lengthy naziriteship and Rav Sherevya's opening objection to it, which is precisely the content described in the 'Rav Chisda's Theory' prose section.",
+      "chosen_heading": "Rav Chisda's Theory",
+      "current_heading": "Rav Chisda's Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Conditional Korbanos",
+    "candidates": [
+      "Rav Mesharsheya",
+      "Fifty-Day Case",
+      "Double Safek Setup",
+      "Sixty to 120 Days",
+      "Conditional Korbanos",
+      "Rav Ashi's Query"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fifty-Day Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Sherevya's resolution of the fifty-day naziriteship case, which matches candidate 1's prose about Rav Chisda's fifty-day scenario.",
+      "second_heading": "Double Safek Setup",
+      "second_confidence": "high",
+      "second_reason": "Items 2-7 introduce Rami bar \u1e24ama's entirely new case about a nazir with double safek (uncertain impurity and uncertain confirmed leprosy), matching candidate 2's prose about the double safek setup and its consequences.",
+      "current_heading": "Conditional Korbanos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Rav Ashi's Query",
+    "candidates": [
+      "Conditional Korbanos",
+      "Rav Ashi's Query",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's objection from the Midrash Halacha (Sifrei) asking what is the source that yemei chaluto don't count, which is precisely what the prose under 'Rav Ashi's Query' describes.",
+      "chosen_heading": "Rav Ashi's Query",
+      "current_heading": "Rav Ashi's Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Kal Vachomer",
+      "Braita Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the kal vachomer argument and its challenge \u2014 item 1 is the rejection of the initial proof (days of impurity negate previous days but confirmed leprosy does not), and item 2 is the reformulated kal vachomer based on hair fitness, exactly as described in the 'Kal Vachomer' prose section.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Braita Categories",
+    "candidates": [
+      "Braita Categories",
+      "Fundamental Non-Counting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items constitute the baraita's systematic analysis \u2014 deriving that yemei sifro don't count, considering whether yemei hasgiro should also not count, rejecting that analogy because hasgiro lacks giluach and korban, and concluding with the rule that yemei sifro and yemei gamro don't count while zav/zava/musgar days do \u2014 which is precisely what the 'Braita Categories' prose describes in detail.",
+      "chosen_heading": "Braita Categories",
+      "current_heading": "Braita Categories",
+      "moved": false
+    }
+  }
+]

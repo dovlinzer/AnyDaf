@@ -1,0 +1,362 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Chatzi Matir",
+    "candidates": [
+      "Chatzi Matir",
+      "Passul D'Rabbanan",
+      "Minchat Chotei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's conclusion about whether there exists a parallel case of 'chatzi matir and chatzi achila' that would justify a gezeira, which directly addresses the chatzi matir discussion and the groundwork for the passul d'rabbanan principle \u2014 exactly what the current section's prose describes.",
+      "chosen_heading": "Chatzi Matir",
+      "current_heading": "Chatzi Matir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Minchat Chotei",
+    "candidates": [
+      "Passul D'Rabbanan",
+      "Minchat Chotei",
+      "Nitoshah Mishnah",
+      "Yehuda Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the proof the essay describes under 'Minchat Chotei': item 1 cites the mishnah's concession regarding minchas chotei/kenaos, and item 2 asks why it needed to be stated and answers that it teaches the reason the Rabbis say passul in the chatzi matir scenario \u2014 precisely the content the prose of candidate 1 describes in detail.",
+      "chosen_heading": "Minchat Chotei",
+      "current_heading": "Minchat Chotei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Yehuda Debate",
+    "candidates": [
+      "Nitoshah Mishnah",
+      "Yehuda Debate",
+      "Lifnei Zrikah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself, which candidate 0 ('Nitoshah Mishnah') explicitly introduces and paraphrases, while candidate 1 discusses Rabbi Yehuda's ruling and the Rabbis' response as a commentary/analysis section that follows the mishna.",
+      "chosen_heading": "Nitoshah Mishnah",
+      "current_heading": "Yehuda Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Lifnei Zrikah",
+    "candidates": [
+      "Yehuda Debate",
+      "Lifnei Zrikah",
+      "Tzitz & Eating",
+      "Tzitz Achilos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Elazar's statement establishing that the dispute applies only before zrikah (machlokes lifnei zrikah), which is exactly what the 'Lifnei Zrikah' section's prose discusses.",
+      "chosen_heading": "Lifnei Zrikah",
+      "current_heading": "Lifnei Zrikah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Tzitz Achilos",
+    "candidates": [
+      "Tzitz & Eating",
+      "Tzitz Achilos",
+      "Tzitz Philosophy",
+      "Tumah Hutra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav Pappa's answer that the dispute turns on whether the tzitz effects acceptance for consumed items (achilos), with the Rabbis holding it does and Rabbi Yehuda holding it does not \u2014 this is precisely the introductory explanation of the tzitz/achilos principle described in candidate 0's prose, not the application to the specific mincha case described in candidate 1.",
+      "chosen_heading": "Tzitz & Eating",
+      "current_heading": "Tzitz Achilos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Tumah Hutra",
+    "candidates": [
+      "Tzitz Philosophy",
+      "Tumah Hutra",
+      "Bazichin Tamei",
+      "Ein Krban Chaluk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are the chain of challenges (by Rav Huna son of Rav Natan, Rav Ashi, and Ravina) proving that the Rabbi Yehuda/Rabbis dispute cannot be about the tzitz \u2014 the bazichin baraita, the shevet mishna, and the loaves mishna \u2014 which is precisely what the 'Tumah Hutra' prose describes in detail.",
+      "chosen_heading": "Tumah Hutra",
+      "current_heading": "Tumah Hutra",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Ein Krban Chaluk",
+    "candidates": [
+      "Bazichin Tamei",
+      "Ein Krban Chaluk",
+      "Toda Mefagelet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the objection ('should have said the frontplate does not effect acceptance for consumed items') and Rabbi Yochanan's resolution ('settled tradition... ein korban tzibbur chaluk'), which corresponds precisely to the 'Bazichin Tamei' prose describing Ravina's argument from the mishnah and the conclusion that the tzitz explanation is not Rabbi Yehuda's reasoning.",
+      "chosen_heading": "Bazichin Tamei",
+      "current_heading": "Ein Krban Chaluk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Toda Mefagelet",
+    "candidates": [
+      "Ein Krban Chaluk",
+      "Toda Mefagelet",
+      "Lachmei Toda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah text that heading 1 ('Toda Mefagelet') directly quotes and paraphrases in its prose, covering the toda rendering loaves piggul and the lambs rendering loaves piggul cases.",
+      "chosen_heading": "Toda Mefagelet",
+      "current_heading": "Toda Mefagelet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Lachmei Toda",
+    "candidates": [
+      "Lachmei Toda",
+      "Glal Todah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Kahana's derivation that the loaves of a thanks offering are called 'todah,' which is precisely what heading 0 ('Lachmei Toda') addresses in its prose.",
+      "chosen_heading": "Lachmei Toda",
+      "current_heading": "Lachmei Toda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Glal Todah",
+    "candidates": [
+      "Glal Todah",
+      "Tenufah Union"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's rejection of Rav Kahana's derivation and establishment of the 'glal' (dependency) principle, which is precisely what the prose of heading 0 ('Glal Todah') describes in detail.",
+      "chosen_heading": "Glal Todah",
+      "current_heading": "Glal Todah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Tenufah Union",
+    "candidates": [
+      "Tenufah Union",
+      "Rav's Answer",
+      "Kal VaChomer",
+      "Kilayim Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why both the toda and Shavuos lambs cases needed to be stated, specifically discussing the tenufah connection between the lambs and loaves \u2014 which is precisely what the 'Tenufah Union' section's prose addresses.",
+      "chosen_heading": "Tenufah Union",
+      "current_heading": "Tenufah Union",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Kilayim Case",
+    "candidates": [
+      "Rav's Answer",
+      "Kal VaChomer",
+      "Kilayim Case",
+      "Kanbus Luf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "The passage begins with the toda dilemma and Rav's answer (matching candidate 0's prose), but spans through kal vachomer and kilayim material; no single candidate perfectly covers all 10 items, so the opening content of items 1-3 best matches candidate 0, though confidence is low given the breadth of the passage.",
+      "chosen_heading": "Rav's Answer",
+      "current_heading": "Kilayim Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Kanbus Luf",
+    "candidates": [
+      "Kanbus Luf",
+      "Kvashim Parallel",
+      "Chaveiro Term",
+      "Ayin Matir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara's rejection comparing hemp/arum (kanbus v'luf) Torah prohibitions versus rabbinic ones, explaining why a kal vachomer cannot be derived from a kenas \u2014 exactly what the 'Kanbus Luf' section's prose describes.",
+      "chosen_heading": "Kanbus Luf",
+      "current_heading": "Kanbus Luf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Ayin Matir",
+    "candidates": [
+      "Kvashim Parallel",
+      "Chaveiro Term",
+      "Ayin Matir",
+      "Zevach Mefagel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kvashim Parallel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses why both versions (toda and kvashim) needed to be transmitted \u2014 the waving bond argument \u2014 which is exactly the closing content of candidate 0's 'Kvashim Parallel' prose and also the final paragraph of candidate 2's prose, but since candidate 0 explicitly describes this toda/kvashim parallel transmission discussion, item 1 belongs there; however candidate 2's prose already contains this content, making the current placement defensible \u2014 yet the clearest structural match for item 1 alone is candidate 0.",
+      "second_heading": "Chaveiro Term",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 present Rabbi Abba Zuti's formulation of Rabbi Elazar's dilemma about the meaning of 'chaveiro' and Rav's response pointing to the mishna, which is precisely what candidates 1 ('Chaveiro Term') and 2 ('Ayin Matir') describe, with item 2 matching candidate 1 and item 3 matching candidate 2's opening \u2014 but since all three items form one continuous question-and-answer chain, they belong together under candidate 1.",
+      "current_heading": "Ayin Matir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Zevach Mefagel",
+    "candidates": [
+      "Ayin Matir",
+      "Zevach Mefagel",
+      "Rabbi Meir",
+      "Unified Unit",
+      "Separate Days",
+      "Rava's View",
+      "Log Shemen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text for the 'Zevach Mefagel' section, whose prose explicitly summarizes and introduces exactly this Mishna content about the zevach rendering nesachim piggul but not the reverse.",
+      "chosen_heading": "Zevach Mefagel",
+      "current_heading": "Zevach Mefagel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Log Shemen",
+    "candidates": [
+      "Rabbi Meir",
+      "Unified Unit",
+      "Separate Days",
+      "Rava's View",
+      "Log Shemen"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rava's View",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the libations of an animal offering dispute between Rabbi Meir and the Rabbis, resolved by Rava's statement about fixation at slaughter, which is precisely what candidate 3 ('Rava's View') discusses.",
+      "second_heading": "Log Shemen",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 introduce the parallel case of the metzora's log of oil \u2014 a new scenario with its own facts \u2014 which is exactly what candidate 4 ('Log Shemen') discusses in its prose.",
+      "current_heading": "Log Shemen",
+      "moved": true
+    }
+  }
+]

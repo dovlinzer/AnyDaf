@@ -1,0 +1,445 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Prohibited Liquids",
+    "candidates": [
+      "Masechet Framework",
+      "Ketivat Haget Focus",
+      "Dating Requirements",
+      "Permitted Inks",
+      "Permanence Definition",
+      "Prohibited Liquids",
+      "Permitted Surfaces"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna text enumerates permitted writing materials (deyo, sam, sikra, komos, kankantom) and the principle of permanence, which matches the 'Permitted Inks' section's prose that explicitly discusses bekhol kotvin and the enumerated substances \u2014 not the 'Prohibited Liquids' section which covers only the second half of the mishna.",
+      "chosen_heading": "Permitted Inks",
+      "current_heading": "Prohibited Liquids",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Permitted Surfaces",
+    "candidates": [
+      "Prohibited Liquids",
+      "Permitted Surfaces",
+      "Rabbi Yose HaGalili",
+      "Dyo & Sam",
+      "Sikra & Kankantom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both 'al hakol kotevin' (permitted surfaces like olive leaf, cow horn, slave's hand) and Rabbi Yosei HaGelili's dissent, matching the 'Permitted Surfaces' section's prose which explicitly discusses all these examples including the slave and cow, and notes the gemara will clarify the reasoning.",
+      "chosen_heading": "Permitted Surfaces",
+      "current_heading": "Permitted Surfaces",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Sikra & Kankantom",
+    "candidates": [
+      "Rabbi Yose HaGalili",
+      "Dyo & Sam",
+      "Sikra & Kankantom",
+      "Kumos",
+      "Permanent Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The Gemara passage covers all five terms (dyo, sam, sikra, komos, kankantom) as a single explanatory unit, and while it spans both 'Dyo & Sam' and 'Sikra & Kankantom' sections, the passage begins with dyo/sam and the 'Dyo & Sam' heading is the natural starting point for this unified terminological explanation \u2014 though confidence is medium since the content genuinely spans both sections 1 and 2.",
+      "chosen_heading": "Dyo & Sam",
+      "current_heading": "Sikra & Kankantom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Permanent Materials",
+    "candidates": [
+      "Kumos",
+      "Permanent Materials",
+      "Dyeing on Sikra",
+      "Kotev vs Mochek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the phrase 'bekhol davar shehu mitkayem' and the teachings of Rabbi \u1e24anina and Rabbi \u1e24iyya about mei teriya, gallnuts, lead, coals, and black paint \u2014 exactly what the 'Permanent Materials' section's prose describes.",
+      "chosen_heading": "Permanent Materials",
+      "current_heading": "Permanent Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Kotev vs Mochek",
+    "candidates": [
+      "Dyeing on Sikra",
+      "Kotev vs Mochek",
+      "Red on Black",
+      "Ink on Ink"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the full statement about dyo/sikra combinations including the double liability ruling, which is the foundational text that heading 0 ('Dyeing on Sikra') introduces with its prose about ha-madyo al gabei sikra and chayav shtayim.",
+      "chosen_heading": "Dyeing on Sikra",
+      "current_heading": "Kotev vs Mochek",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Ink on Ink",
+    "candidates": [
+      "Red on Black",
+      "Ink on Ink",
+      "Pre-inked Signatures",
+      "Witnesses Cannot Sign"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the dispute 'amrei lah chayav \u2014 mochek hu, amrei lah patur \u2014 mekalkel hu' about red applied over black (sikra al gabei deyo), which is precisely what section 0 'Red on Black' is discussing.",
+      "chosen_heading": "Red on Black",
+      "current_heading": "Ink on Ink",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Witnesses Cannot Sign",
+    "candidates": [
+      "Pre-inked Signatures",
+      "Witnesses Cannot Sign",
+      "Is Upper Writing New",
+      "Shabbat Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the question and the answer (Reish Lakish's dilemma and Rabbi Yochanan's ruling), making it best placed under heading 0 'Pre-inked Signatures' which frames the entire exchange as a single unit, rather than splitting the question and answer across headings 1 and 2.",
+      "chosen_heading": "Pre-inked Signatures",
+      "current_heading": "Witnesses Cannot Sign",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Shabbat Precedent",
+    "candidates": [
+      "Is Upper Writing New",
+      "Shabbat Precedent",
+      "Analogy Limitation",
+      "Different Halakhic Areas",
+      "Stencil Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the exchange described in the 'Shabbat Precedent' prose \u2014 Reish Lakish citing Rabbi Yochanan's teaching that upper writing counts as writing for Shabbat, followed by Rabbi Yochanan's rhetorical pushback about acting on the analogy, which bridges into 'Analogy Limitation' but the passage itself is the setup described under heading 1.",
+      "chosen_heading": "Shabbat Precedent",
+      "current_heading": "Shabbat Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Stencil Method",
+    "candidates": [
+      "Analogy Limitation",
+      "Different Halakhic Areas",
+      "Stencil Method",
+      "Lead Underwriting",
+      "Lead Writing Status",
+      "Avar vs Mei Avara",
+      "Gallnut Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Stencil Method' prose discusses: Rav's stencil approach (tearing blank paper and filling with ink) and Shmuel's lead method, which is precisely what candidate 2's prose covers.",
+      "chosen_heading": "Stencil Method",
+      "current_heading": "Stencil Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Gallnut Solution",
+    "candidates": [
+      "Lead Underwriting",
+      "Lead Writing Status",
+      "Avar vs Mei Avara",
+      "Gallnut Solution",
+      "Gallnut Worked Klaf"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lead Writing Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the challenge from Rabbi \u1e24iyya's baraita about lead writing and the gemara's resolution distinguishing avara from maya de-avara, which matches exactly the prose of 'Lead Writing Status' (the challenge) and 'Avar vs Mei Avara' (the resolution) \u2014 but since the challenge and resolution form one continuous unit, 'Avar vs Mei Avara' (index 2) is the better single home as it covers the full exchange including the distinction.",
+      "second_heading": "Gallnut Solution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Abbahu's proposal of mei milin and the immediate challenge from Rabbi \u1e24anina's baraita about gallnut water, which matches precisely the prose of 'Gallnut Solution' (index 3) where this exact exchange is described.",
+      "current_heading": "Gallnut Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Gallnut Worked Klaf",
+    "candidates": [
+      "Gallnut Worked Klaf",
+      "Saliva Method",
+      "Gets Only",
+      "Agunah vs Fraud"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly resolves the contradiction about gallnut water writing by distinguishing between parchment processed with gallnuts and parchment not so processed, which is precisely what the 'Gallnut Worked Klaf' section's prose discusses.",
+      "chosen_heading": "Gallnut Worked Klaf",
+      "current_heading": "Gallnut Worked Klaf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Agunah vs Fraud",
+    "candidates": [
+      "Saliva Method",
+      "Gets Only",
+      "Agunah vs Fraud",
+      "Rav Kahana's Lashes",
+      "Tanna Kamma"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Saliva Method",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces Rav Pappa's saliva method and the qualification that it applies only to gitten \u2014 content squarely matching the 'Saliva Method' prose which explicitly describes this technique and Pappa the ox-driver, plus the gitten-only limitation mentioned in 'Gets Only'.",
+      "second_heading": "Rav Kahana's Lashes",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the specific episode of Rav Kahana administering lashes to someone who used the method for non-get documents, which is precisely what the 'Rav Kahana's Lashes' prose describes.",
+      "current_heading": "Agunah vs Fraud",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Tanna Kamma",
+    "candidates": [
+      "Rav Kahana's Lashes",
+      "Tanna Kamma",
+      "Rabban Shimon Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tanna Kamma",
+      "first_confidence": "high",
+      "first_reason": "Items 1 is the baraita supporting Rav's position and its reconstruction (chasurei mechasra), which the prose under 'Tanna Kamma' explicitly describes as covering witnesses who cannot read or sign with no stated limitation.",
+      "second_heading": "Rabban Shimon Position",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Rabban Shimon ben Gamliel's limiting position restricting these leniencies to gittei nashim, which matches exactly the 'Rabban Shimon Position' prose describing his disagreement and restriction to bills of divorce.",
+      "current_heading": "Tanna Kamma",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rabban Shimon Position",
+    "candidates": [
+      "Rabban Shimon Position",
+      "Agunah Reason",
+      "Accepted Ruling",
+      "Rav Gamda Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly gives Rabbi Elazar's explanation of Rabban Shimon ben Gamliel's reasoning \u2014 the agunah concern \u2014 which matches exactly the 'Agunah Reason' section's prose about Rav Elazar explaining shelo yehu bnot yisrael agunot.",
+      "chosen_heading": "Agunah Reason",
+      "current_heading": "Rabban Shimon Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Rav Gamda Rejected",
+    "candidates": [
+      "Agunah Reason",
+      "Accepted Ruling",
+      "Rav Gamda Rejected",
+      "Reading Allowed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's ruling and Rav Gamda's contradictory report, which is exactly what heading 2 ('Rav Gamda Rejected') discusses \u2014 the contradiction between the two positions attributed to Rava and its resolution via Rav Kahana's episode.",
+      "chosen_heading": "Rav Gamda Rejected",
+      "current_heading": "Rav Gamda Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Reading Allowed",
+    "candidates": [
+      "Reading Allowed",
+      "Trusted Readers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's resolution 'targema akria' \u2014 that Rav Gamda's leniency applied only to reading aloud, not to stenciled signatures \u2014 which is precisely what the 'Reading Allowed' section's prose discusses and explains.",
+      "chosen_heading": "Reading Allowed",
+      "current_heading": "Reading Allowed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Trusted Readers",
+    "candidates": [
+      "Trusted Readers",
+      "Trusted Scribes",
+      "Deception Concern",
+      "Persian Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yehuda's struggle to read documents himself and Ulla's response citing Rav Elazar and Rav Nachman as precedents for having others read aloud before signing, along with the qualification about trusted court scribes \u2014 all of which matches exactly the content described in the 'Trusted Readers' prose, which explicitly narrates these same stories and figures before noting the gemara pulls back to qualify the conditions, leaving the detailed qualification discussion to the next section.",
+      "chosen_heading": "Trusted Readers",
+      "current_heading": "Trusted Readers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Persian Documents",
+    "candidates": [
+      "Trusted Scribes",
+      "Deception Concern",
+      "Persian Documents",
+      "Double Translation",
+      "Liens Recognized",
+      "Jewish Persian Get"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa receiving Persian documents from gentile courts and his method for verifying them, which directly matches the 'Persian Documents' section's prose about Rav Pappa receiving Persian shtarot produced in non-Jewish courts and needing to know what was written.",
+      "chosen_heading": "Persian Documents",
+      "current_heading": "Persian Documents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Jewish Persian Get",
+    "candidates": [
+      "Double Translation",
+      "Liens Recognized",
+      "Jewish Persian Get",
+      "Forgery Prevention",
+      "Gallnut Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Ameimar's ruling about a Persian shtar with Jewish witnesses supporting collection from liened property, which is exactly what the 'Jewish Persian Get' section's prose discusses \u2014 a Persian shtar written by Jews with Jewish witnesses that is kasher and supports collection from meshabedi.",
+      "chosen_heading": "Jewish Persian Get",
+      "current_heading": "Jewish Persian Get",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Gallnut Protection",
+    "candidates": [
+      "Forgery Prevention",
+      "Gallnut Protection",
+      "Any Language Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers all three objections (literacy, forgery prevention, and final-line recap) in sequence, and the forgery prevention objection with the gallnut answer is the central technical discussion, but since the passage begins with the literacy question and encompasses the full chain of objections, it most naturally sits under 'Forgery Prevention' which introduces the objection sequence \u2014 however, the current placement under 'Gallnut Protection' is also defensible since that prose explicitly covers all three elements including the final-line requirement.",
+      "chosen_heading": "Forgery Prevention",
+      "current_heading": "Gallnut Protection",
+      "moved": true
+    }
+  }
+]

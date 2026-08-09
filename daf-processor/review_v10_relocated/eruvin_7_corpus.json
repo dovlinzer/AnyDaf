@@ -1,0 +1,400 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Tzurat Hapetach vs Door",
+    "candidates": [
+      "Eruv Challenge",
+      "Tzurat Hapetach vs Door",
+      "Mavoi Akum Case",
+      "Rav's Position",
+      "Both Stringencies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the specific case of the bent alleyway in Neharde'a and introduces Rav's stringency (torato ke-mefulash), which is precisely what the 'Mavoi Akum Case' prose section describes.",
+      "chosen_heading": "Mavoi Akum Case",
+      "current_heading": "Tzurat Hapetach vs Door",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Both Stringencies",
+    "candidates": [
+      "Mavoi Akum Case",
+      "Rav's Position",
+      "Both Stringencies",
+      "Two Chumrot?",
+      "Beit Hillel Rule",
+      "Cherry-Picking Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly explains why both Rav's and Shmuel's stringencies were combined to require a door \u2014 precisely the content of the 'Both Stringencies' section's prose.",
+      "chosen_heading": "Both Stringencies",
+      "current_heading": "Both Stringencies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Cherry-Picking Issue",
+    "candidates": [
+      "Two Chumrot?",
+      "Beit Hillel Rule",
+      "Cherry-Picking Issue",
+      "Inconsistent Chumrot",
+      "Consistent Choice",
+      "Internal Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita text including all its components (Beit Hillel rule, leniency-picking condemnation, stringency-piling condemnation, and the consistency requirement), and candidate 1 'Beit Hillel Rule' is explicitly described as the section where the gemara cites this brayta to address the question of consistency \u2014 making it the natural home for the entire quoted passage before it gets broken down analytically in subsequent sections.",
+      "chosen_heading": "Beit Hillel Rule",
+      "current_heading": "Cherry-Picking Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Internal Contradiction",
+    "candidates": [
+      "Inconsistent Chumrot",
+      "Consistent Choice",
+      "Internal Contradiction",
+      "Before/After Bat Kol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Gemara raising the internal contradiction within the baraita ('ha-gufa kashya'), which matches precisely the 'Internal Contradiction' section's prose about recognizing this inconsistency.",
+      "chosen_heading": "Internal Contradiction",
+      "current_heading": "Internal Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Before/After Bat Kol",
+    "candidates": [
+      "Before/After Bat Kol",
+      "Rabbi Yehoshua's Stand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the before/after bat kol distinction that heading 0's prose explicitly discusses.",
+      "chosen_heading": "Before/After Bat Kol",
+      "current_heading": "Before/After Bat Kol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Rabbi Yehoshua's Stand",
+    "candidates": [
+      "Rabbi Yehoshua's Stand",
+      "Tosafot's Logic",
+      "Analogous Debates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the 've-i ba'it eima' resolution attributing the post-bat kol leniency toward Beit Shammai to Rabbi Yehoshua's rejection of the bat kol, which is precisely what heading 0 ('Rabbi Yehoshua's Stand') discusses in its prose.",
+      "chosen_heading": "Rabbi Yehoshua's Stand",
+      "current_heading": "Rabbi Yehoshua's Stand",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Analogous Debates",
+    "candidates": [
+      "Tosafot's Logic",
+      "Analogous Debates",
+      "Rav Yehuda's Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong under 'Analogous Debates': Item 1 is the third reading (ve-i ba'it eima) about two tanna'im/amora'im debating analogously to Beit Shammai and Beit Hillel, and Item 2 is the wrap-up 'in any case it is difficult' \u2014 both of which the prose of candidate 1 explicitly discusses as the conclusion of that third reading and the digression.",
+      "chosen_heading": "Analogous Debates",
+      "current_heading": "Analogous Debates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Rav Yehuda's Practice",
+    "candidates": [
+      "Rav Yehuda's Practice",
+      "Mutually Contradictory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Rav Huna/Rav statement about 'halacha ve-ein morin kein' and Rav Adda bar Ahava's contrary report, which is precisely what the prose under 'Rav Yehuda's Practice' describes.",
+      "chosen_heading": "Rav Yehuda's Practice",
+      "current_heading": "Rav Yehuda's Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Mutually Contradictory",
+    "candidates": [
+      "Mutually Contradictory",
+      "Spine/Skull Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Sheizvi's principle about when we do not follow the stringencies of two authorities (only when they contradict each other), which is precisely what the 'Mutually Contradictory' section's prose describes.",
+      "chosen_heading": "Mutually Contradictory",
+      "current_heading": "Mutually Contradictory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Spine/Skull Example",
+    "candidates": [
+      "Spine/Skull Example",
+      "Contradiction Illustrated",
+      "Mavoi Akum Revisited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the mishna about spine/skull deficiency thresholds and Shmuel's statement applying the same dispute to tereifa \u2014 are exactly what the 'Spine/Skull Example' prose describes, making the current placement correct.",
+      "chosen_heading": "Spine/Skull Example",
+      "current_heading": "Spine/Skull Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Mavoi Akum Revisited",
+    "candidates": [
+      "Contradiction Illustrated",
+      "Mavoi Akum Revisited",
+      "Rabbi Akiva's Etrog"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states that when two stringencies do not contradict one another they may be combined, and uses the Neharde'a alleyway case as the example \u2014 precisely the content discussed in the 'Mavoi Akum Revisited' prose.",
+      "chosen_heading": "Mavoi Akum Revisited",
+      "current_heading": "Mavoi Akum Revisited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Rabbi Akiva's Etrog",
+    "candidates": [
+      "Rabbi Akiva's Etrog",
+      "Summary",
+      "Rav's Key Point"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the challenge from Rabbi Akiva's double tithing of the citron and the Gemara's resolution that he acted out of genuine uncertainty about Beit Hillel's tradition \u2014 are precisely the content described in the 'Rabbi Akiva's Etrog' prose section.",
+      "chosen_heading": "Rabbi Akiva's Etrog",
+      "current_heading": "Rabbi Akiva's Etrog",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Rav's Key Point",
+    "candidates": [
+      "Summary",
+      "Rav's Key Point",
+      "Mixed Openings",
+      "Valley Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly records Rav Yehuda's statement in Rav's name about the dispute applying to seratya/seratya and pelatya/pelatya cases, which is precisely what the 'Rav's Key Point' prose describes.",
+      "chosen_heading": "Rav's Key Point",
+      "current_heading": "Rav's Key Point",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Valley Case",
+    "candidates": [
+      "Mixed Openings",
+      "Valley Case",
+      "Courtyard Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the ruling for 'sratya mi-kan u-vikah mi-kan' (main street on one side, valley on the other) and the gemara's question and answer clarifying that this case is treated like 'vikah mi-kan u-vikah mi-kan' \u2014 which is precisely the content described in the 'Mixed Openings' prose, not the 'Valley Case' prose which discusses only the pure valley-valley scenario.",
+      "chosen_heading": "Mixed Openings",
+      "current_heading": "Valley Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Courtyard Case",
+    "candidates": [
+      "Valley Case",
+      "Courtyard Case",
+      "Attribution Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and presents Rav Yehuda's ruling about an alleyway terminating in a backyard (rachavah) requiring nothing, which is precisely what the 'Courtyard Case' prose describes and discusses.",
+      "chosen_heading": "Courtyard Case",
+      "current_heading": "Courtyard Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Attribution Correction",
+    "candidates": [
+      "Attribution Correction",
+      "Rav's Parallel Case",
+      "Rav's Case Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's direct statement correcting the attribution of Rav Yehuda's ruling to Shmuel rather than Rav, which is exactly what Candidate 0 'Attribution Correction' describes in its prose.",
+      "chosen_heading": "Attribution Correction",
+      "current_heading": "Attribution Correction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Rav's Case Explained",
+    "candidates": [
+      "Rav's Parallel Case",
+      "Rav's Case Explained",
+      "Perspective Difference",
+      "Precedent Cited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces and quotes Rav Yirmeya bar Abba's report of Rav's ruling about the mavoi breached into a chatzer, which is precisely what 'Rav's Parallel Case' describes \u2014 the contradicting statement of Rav preserved in Rav Yirmiyah bar Abba's name \u2014 rather than 'Rav's Case Explained,' which discusses the implications and resolution of that contradiction.",
+      "chosen_heading": "Rav's Parallel Case",
+      "current_heading": "Rav's Case Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Precedent Cited",
+    "candidates": [
+      "Perspective Difference",
+      "Precedent Cited",
+      "Rav Sheshet's Resolution",
+      "Walls vs Eruv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's candid admission of ignorance followed by citation of the practical precedent from Dura di-Re'uta and the attribution to Shmuel \u2014 exactly what the 'Precedent Cited' prose describes.",
+      "chosen_heading": "Precedent Cited",
+      "current_heading": "Precedent Cited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Walls vs Eruv",
+    "candidates": [
+      "Rav Sheshet's Resolution",
+      "Walls vs Eruv",
+      "Three-Wall Case",
+      "Rav vs Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of Rav Sheshet's resolution distinguishing eiruv from no-eiruv cases, which is precisely what candidate 0 ('Rav Sheshet's Resolution') describes, while candidate 1 ('Walls vs Eruv') describes the concluded synthesis rather than Rav Sheshet's explanatory statement itself.",
+      "chosen_heading": "Rav Sheshet's Resolution",
+      "current_heading": "Walls vs Eruv",
+      "moved": true
+    }
+  }
+]

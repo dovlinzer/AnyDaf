@@ -1,0 +1,250 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rabbi Yehuda's Principle",
+    "candidates": [
+      "Mishna Intro & Reish",
+      "Rabbi Yehuda's Principle",
+      "Watching & Protecting Get",
+      "Reish Lakish Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna topic (a man betrothing his daughter) and then cites the Gittin mishna about the betrothed na'arah receiving her get \u2014 this is the introductory material discussed in candidate 0's prose, which explicitly describes both of these elements, rather than focusing on Rabbi Yehuda's dissent alone as candidate 1 does.",
+      "chosen_heading": "Mishna Intro & Reish",
+      "current_heading": "Rabbi Yehuda's Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Reish Lakish Parallel",
+    "candidates": [
+      "Watching & Protecting Get",
+      "Reish Lakish Parallel",
+      "Rabbi Yochanan's View",
+      "Consent Distinction",
+      "Gittin to Daughter",
+      "Kiddushin Leaves Father",
+      "Ma'amar Counterexample",
+      "Ketanah vs. Na'arah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the dispute between Reish Lakish and Rabbi Yochanan regarding whether the machlokes extends to kiddushin, which is precisely what the 'Reish Lakish Parallel' prose describes as its content.",
+      "chosen_heading": "Reish Lakish Parallel",
+      "current_heading": "Reish Lakish Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Ketanah vs. Na'arah",
+    "candidates": [
+      "Rabbi Yochanan's View",
+      "Consent Distinction",
+      "Gittin to Daughter",
+      "Kiddushin Leaves Father",
+      "Ma'amar Counterexample",
+      "Ketanah vs. Na'arah",
+      "Ba'al Korcha Resolution",
+      "Rabbi vs. Rabbanan"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gittin to Daughter",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 belong under 'Gittin to Daughter' / 'Kiddushin Leaves Father' \u2014 but item 1 specifically articulates the gerushin/kiddushin distinction (re-entering vs. leaving father's domain) which is the content of heading 2 ('Gittin to Daughter'), while item 2 raises the ma'amar counterexample that heading 4 ('Ma'amar Counterexample') is explicitly about.",
+      "second_heading": "Ma'amar Counterexample",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 together constitute the ma'amar challenge: item 2 raises the question and item 3 provides the baraita evidence, which is precisely what heading 4 ('Ma'amar Counterexample') describes in its prose.",
+      "current_heading": "Ketanah vs. Na'arah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Rabbi vs. Rabbanan",
+    "candidates": [
+      "Ba'al Korcha Resolution",
+      "Rabbi vs. Rabbanan",
+      "Mishna Conclusion",
+      "Zekuka V'Omedet",
+      "Rabbi Yochanan Confirmed",
+      "Tanna Identification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the gemara's discussion of Rabbi vs. Rabbanan on ma'amar performed against her will (be'al korchah), including the baraita about Rabbi Yehuda HaNasi's position and the derivation debate \u2014 precisely the content described in candidate 1's prose about 'Rabbi vs. Rabbanan.'",
+      "chosen_heading": "Rabbi vs. Rabbanan",
+      "current_heading": "Rabbi vs. Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Tanna Identification",
+    "candidates": [
+      "Mishna Conclusion",
+      "Zekuka V'Omedet",
+      "Rabbi Yochanan Confirmed",
+      "Tanna Identification",
+      "Father Alone Principle",
+      "Reish Lakish Defense",
+      "Rav Avin's Report",
+      "Screaming Crane"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Mishna Conclusion",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the 'ma she-ein ken be-kiddushin' phrase, the Rabbi Yehuda attribution, gerushin question, and zekuka ve-omedet resolution that confirms Rabbi Yochanan \u2014 exactly what heading 0 ('Mishna Conclusion') describes.",
+      "second_heading": "Father Alone Principle",
+      "second_confidence": "high",
+      "second_reason": "Items 4-9 begin a new challenge from 'ha-ish mekadesh et bito,' Reish Lakish's defense, the 'hitkadshi hitkadshi' attribution problem, the oath baraita, and the final 'kula Rabbi Shimon' resolution \u2014 exactly what heading 4 ('Father Alone Principle') and the subsequent headings describe.",
+      "current_heading": "Tanna Identification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Screaming Crane",
+    "candidates": [
+      "Father Alone Principle",
+      "Reish Lakish Defense",
+      "Rav Avin's Report",
+      "Screaming Crane",
+      "Rav Avin Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Asi asking Rabbi Zeira what was said in the study hall, Rabbi Zeira reporting he also didn't attend but Rabbi Avin said the entire coterie sided with Rabbi Yochanan, and the reliability check of Rabbi Avin's report \u2014 all of which matches the 'Rav Avin's Report' section's prose exactly, not the 'Screaming Crane' section where it currently sits.",
+      "chosen_heading": "Rav Avin's Report",
+      "current_heading": "Screaming Crane",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rav Avin Identity",
+    "candidates": [
+      "Screaming Crane",
+      "Rav Avin Identity",
+      "Hand vs. Courtyard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about Rav Nachman bar Yitzchak's clarification that he quotes 'Rabbi Avin' without specification, and the gemara's question about why the identity matters (for raising contradictions) \u2014 this is precisely what the 'Rav Avin Identity' section's prose discusses.",
+      "chosen_heading": "Rav Avin Identity",
+      "current_heading": "Rav Avin Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Hand vs. Courtyard",
+    "candidates": [
+      "Hand vs. Courtyard",
+      "Until Reaches Hand",
+      "Slave Watchman Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rava's question to Rav Na\u1e25man about whether a na'arah can appoint an agent, framed through the hand-vs-courtyard dichotomy, which is precisely what heading 0 ('Hand vs. Courtyard') discusses in its prose.",
+      "chosen_heading": "Hand vs. Courtyard",
+      "current_heading": "Hand vs. Courtyard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Slave Watchman Cases",
+    "candidates": [
+      "Until Reaches Hand",
+      "Slave Watchman Cases",
+      "Hand Resolution",
+      "Baraita Challenge",
+      "Final Shaliach Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Slave Watchman Cases",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the sleeping-slave case and its implication that she cannot be her father's chatzer, which is precisely what the 'Slave Watchman Cases' prose discusses.",
+      "second_heading": "Hand Resolution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 resolves the question by concluding she is like her father's hand (not chatzer) and that she cannot appoint a shaliach, matching exactly the 'Hand Resolution' prose.",
+      "current_heading": "Slave Watchman Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Final Shaliach Rule",
+    "candidates": [
+      "Hand Resolution",
+      "Baraita Challenge",
+      "Final Shaliach Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the challenge from the baraita (ketanah/na'arah distinction) and the initial gemara response (ein lah av), which is exactly what the 'Baraita Challenge' prose describes, whereas the current placement under 'Final Shaliach Rule' covers the chisorei mechasra reconstruction that comes after these items.",
+      "chosen_heading": "Baraita Challenge",
+      "current_heading": "Final Shaliach Rule",
+      "moved": true
+    }
+  }
+]

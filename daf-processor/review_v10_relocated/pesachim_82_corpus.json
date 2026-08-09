@@ -1,0 +1,415 @@
+[
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Hatzikanim Category",
+    "candidates": [
+      "Pesach Tumah Overview",
+      "Post-Zrika Status",
+      "Entire/Majority Tamei",
+      "Kodshim Burning Rules",
+      "Minority Tamei/Notar",
+      "Location & Firewood",
+      "Temple Wood Leniency",
+      "Reciprocal Balance",
+      "Public Burning Purpose",
+      "Hatzikanim Category",
+      "Negligence Assumption",
+      "Response: Presumption",
+      "Gemara Answer: Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage introduces all the cases (whole/majority tamei, minority tamei/notar, and the miserly), making it the opening text that belongs under the overview heading 'Pesach Tumah Overview' which explicitly states 'the mishnah now turns to the practical question of what is done with the meat once parts of the korban pesach have in fact become tamei.'",
+      "chosen_heading": "Pesach Tumah Overview",
+      "current_heading": "Hatzikanim Category",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Gemara Answer: Purpose",
+    "candidates": [
+      "Negligence Assumption",
+      "Response: Presumption",
+      "Gemara Answer: Purpose",
+      "Departure from Jerusalem",
+      "Tzofim Boundary",
+      "Beyond Tzofim",
+      "Within Tzofim Zone",
+      "Problem Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer \u2014 'kedei le-vayshan' (in order to embarrass them) \u2014 which is precisely what the prose under 'Gemara Answer: Purpose' discusses as its central topic.",
+      "chosen_heading": "Gemara Answer: Purpose",
+      "current_heading": "Gemara Answer: Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Problem Statement",
+    "candidates": [
+      "Departure from Jerusalem",
+      "Tzofim Boundary",
+      "Beyond Tzofim",
+      "Within Tzofim Zone",
+      "Problem Statement",
+      "Guest vs. Homeowner"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's contradiction/question: item 1 raises the contradiction from the other mishna and item 2 completes the problematic ruling (burn before the Temple with Temple wood), which is precisely the sharp question the 'Problem Statement' prose describes \u2014 why the traveler may use Temple wood while the Jerusalem resident may not.",
+      "chosen_heading": "Problem Statement",
+      "current_heading": "Problem Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Guest vs. Homeowner",
+    "candidates": [
+      "Guest vs. Homeowner",
+      "Two Guest Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav \u1e24ama bar Ukva's distinction between a visitor (achsanya) and a homeowner (ba'al habayit), which is exactly what heading 0 'Guest vs. Homeowner' discusses in its prose.",
+      "chosen_heading": "Guest vs. Homeowner",
+      "current_heading": "Guest vs. Homeowner",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Two Guest Categories",
+    "candidates": [
+      "Two Guest Categories",
+      "Rav Zvid: All Guests",
+      "Rashi: Return Demand",
+      "Unresolved: Why Return?",
+      "Two Possible Answers",
+      "Private + Temple Wood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the Rav Pappa / Rav Zevid dispute about distinguishing visitor categories \u2014 exactly what heading 0 ('Two Guest Categories') describes \u2014 with Item 1 being Rav Pappa's distinction based on journey status and Item 2 being Rav Zevid's counter-position, both discussed under that same heading's prose.",
+      "chosen_heading": "Two Guest Categories",
+      "current_heading": "Two Guest Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Private + Temple Wood",
+    "candidates": [
+      "Rav Zvid: All Guests",
+      "Rashi: Return Demand",
+      "Unresolved: Why Return?",
+      "Two Possible Answers",
+      "Private + Temple Wood",
+      "Public + Personal Wood",
+      "Rav Yosef: Dignity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about forbidden combinations (private courtyard + Temple wood, and before the Temple + personal wood), which is precisely what the 'Private + Temple Wood' section's prose introduces, and the question in item 2 sets up the explanation given in the next section ('Rav Yosef: Dignity').",
+      "chosen_heading": "Private + Temple Wood",
+      "current_heading": "Private + Temple Wood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rav Yosef: Dignity",
+    "candidates": [
+      "Public + Personal Wood",
+      "Rav Yosef: Dignity",
+      "Leftover Wood Concern",
+      "Non-Temple Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yosef's reason (not embarrassing the poor) and Rava's reason (suspicion), which directly matches the 'Rav Yosef: Dignity' section's prose discussing both Rav Yosef's dignity-based explanation and the suspicion-based alternative (noting the essay uses 'Rav Pappa' for the suspicion reason while the Gemara text uses 'Rava', but the content alignment is clearest here).",
+      "chosen_heading": "Rav Yosef: Dignity",
+      "current_heading": "Rav Yosef: Dignity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Non-Temple Materials",
+    "candidates": [
+      "Leftover Wood Concern",
+      "Non-Temple Materials",
+      "Tamid Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the practical difference between the two opinions involving reeds and palm branches not fit for the altar arrangement, which is precisely what the 'Non-Temple Materials' section's prose describes.",
+      "chosen_heading": "Non-Temple Materials",
+      "current_heading": "Non-Temple Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Tamid Parallel",
+    "candidates": [
+      "Tamid Parallel",
+      "Yosef vs. Papa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Tamid mishna and the Rav Yosef/Rava debate about stationing impure priests at the eastern gate, which is precisely what the 'Tamid Parallel' section's prose discusses.",
+      "chosen_heading": "Tamid Parallel",
+      "current_heading": "Tamid Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Yosef vs. Papa",
+    "candidates": [
+      "Yosef vs. Papa",
+      "Immediate Burning",
+      "Delayed Burning",
+      "R. Yochanan Dissent",
+      "Principle Stated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the practical difference between two opinions using the cases of pampered people and rope-twisters, which matches exactly the prose under 'Yosef vs. Papa' discussing mefanki and lowly-paid occupations in the context of the chashad vs. embarrassment rationales.",
+      "chosen_heading": "Yosef vs. Papa",
+      "current_heading": "Yosef vs. Papa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Principle Stated",
+    "candidates": [
+      "Immediate Burning",
+      "Delayed Burning",
+      "R. Yochanan Dissent",
+      "Principle Stated",
+      "Tumah & Yatzah Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna itself, which introduces all three rules (immediate burning for yatzah/tamei, delayed burning for owners tamei/dead, and Rabbi Yochanan's dissent), and its opening clause about immediate burning for yatzah/tamei aligns with the 'Immediate Burning' section prose that quotes and introduces exactly this Mishna.",
+      "chosen_heading": "Immediate Burning",
+      "current_heading": "Principle Stated",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Tumah & Yatzah Sources",
+    "candidates": [
+      "Principle Stated",
+      "Tumah & Yatzah Sources",
+      "Moshe-Aharon Dialogue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks exactly the question that candidate 1's prose describes \u2014 bishlama tamei ksiv, but what is the source for yatzah \u2014 making it a perfect match for the 'Tumah & Yatzah Sources' section where it currently sits.",
+      "chosen_heading": "Tumah & Yatzah Sources",
+      "current_heading": "Tumah & Yatzah Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Moshe-Aharon Dialogue",
+    "candidates": [
+      "Moshe-Aharon Dialogue",
+      "Inference: Yatzah",
+      "Question: Shelamim",
+      "Different Zones",
+      "Blood Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Moshe-Aharon dialogue itself \u2014 the question about blood entering inside, the question about yatzah, and the final inference \u2014 which is precisely what heading 0's prose describes in detail.",
+      "chosen_heading": "Moshe-Aharon Dialogue",
+      "current_heading": "Moshe-Aharon Dialogue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Blood Cases",
+    "candidates": [
+      "Inference: Yatzah",
+      "Question: Shelamim",
+      "Different Zones",
+      "Blood Cases",
+      "Source Question",
+      "Rabbi Shimon Pesuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together introduce the blood cases (lan dama, nishpach dama, yatzah dama chutz le-klaim) and ask 'from where do we derive' their burning requirement \u2014 exactly what the 'Blood Cases' prose describes.",
+      "chosen_heading": "Blood Cases",
+      "current_heading": "Blood Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134
+    ],
+    "current_heading": "Rabbi Shimon Pesuk",
+    "candidates": [
+      "Source Question",
+      "Rabbi Shimon Pesuk",
+      "No Pesuk: Tradition",
+      "Pesuk Indicates Place",
+      "'Bakodesh' Zone",
+      "Tumah Pesuk Purpose",
+      "Why Aharon Story?",
+      "Horaas Sha'ah",
+      "Rabbi Nechemia: Onen",
+      "Tumah Common"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "Items 1-3 clearly match candidate 1's prose about Rabbi Shimon's baraita, but items 4-8 cover subsequent Gemara discussions (piggul, horaas sha'ah, pesuk purpose) that better match later headings, so current placement captures only the beginning of this multi-topic passage.",
+      "chosen_heading": "Rabbi Shimon Pesuk",
+      "current_heading": "Rabbi Shimon Pesuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "Tumah Common",
+    "candidates": [
+      "No Pesuk: Tradition",
+      "Pesuk Indicates Place",
+      "'Bakodesh' Zone",
+      "Tumah Pesuk Purpose",
+      "Why Aharon Story?",
+      "Horaas Sha'ah",
+      "Rabbi Nechemia: Onen",
+      "Tumah Common",
+      "Resolution: Still Burns",
+      "Before Zrika",
+      "After Zrika",
+      "External Logic",
+      "General Rule",
+      "Specific Cases",
+      "Logical Link",
+      "His Reasoning",
+      "Rabbi Nechemia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the list of distinctly sacrificial invalidities (lan dama, nishpach dama, yatzah dama, nishchetah balaylah) that have no parallel in chulin, which is precisely what heading 7 ('Tumah Common') describes as the content it introduces.",
+      "chosen_heading": "Tumah Common",
+      "current_heading": "Tumah Common",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      178
+    ],
+    "current_heading": "Rabbi Nechemia",
+    "candidates": [
+      "Resolution: Still Burns",
+      "Before Zrika",
+      "After Zrika",
+      "External Logic",
+      "General Rule",
+      "Specific Cases",
+      "Logical Link",
+      "His Reasoning",
+      "Rabbi Nechemia",
+      "Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses the argument that tumah-disqualified korban meat might only require burial rather than burning, and that the verse teaches burning is still required \u2014 which matches precisely the 'Resolution: Still Burns' section's prose about tumah being commonplace and the pasuk teaching that burning is nonetheless obligatory.",
+      "chosen_heading": "Resolution: Still Burns",
+      "current_heading": "Rabbi Nechemia",
+      "moved": true
+    }
+  }
+]

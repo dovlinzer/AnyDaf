@@ -1,0 +1,53 @@
+[
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "3D Temple Structure",
+    "candidates": [
+      "Gates of Har HaBayit",
+      "Corners of Har HaBayit",
+      "Gates of Azarah",
+      "Corners of Azarah",
+      "Seven Chamber Posts",
+      "Overseer's Rounds",
+      "Punishment Protocol",
+      "R. Eliezer ben Yaakov",
+      "Shaarei Chulda South",
+      "West & North Gates",
+      "Eastern Gate & Parah",
+      "3D Temple Structure",
+      "Geographic Context",
+      "Chulda Steps Design",
+      "Chulda Etymology"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Overseer's Rounds",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe the three priestly guard posts and the Ish Har HaBayit's rounds with torches checking each watch, which exactly matches heading 5 'Overseer's Rounds' discussing the Ish Har HaBayit circulating to check every mishmar.",
+      "second_heading": "Shaarei Chulda South",
+      "second_confidence": "high",
+      "second_reason": "Items 3 onward begin a new mishnah about the five gates of Har HaBayit starting with the two Chulda gates from the south, which exactly matches heading 8 'Shaarei Chulda South' discussing the five gates and the two Chulda gates as main thoroughfares.",
+      "current_heading": "3D Temple Structure",
+      "moved": true
+    }
+  }
+]

@@ -26,9 +26,7 @@ The *gemara* resolves the tension: *le'olam kasavar shiura milta hi* — Rav's a
 
 ### Tzitz Scope
 
-The *gemara*'s discussion of the *tzitz* bears clarification. When it asks whether the *tzitz* works *al ha'ochlin*, it does not mean that *tum'ah* is lifted such that the *tamei* meat could be eaten. The *tzitz* operates exclusively in the domain of making the *korban* valid — it does not override prohibitions of eating in a state of *tum'ah*. The question is purely functional: can the *tzitz*'s power of *ritzui* stand in, *vis-à-vis* the validity of the *korban*, for edible portions that have become *tamei*? If yes, Rabbi Yehoshua could agree that the *korban* is valid even when the only remaining *shirayim* are *tamei*, because the *tzitz* treats those portions as though they are halachically present.
-
-A related question, noted but not yet fully resolved in the tractate, is whether the *ritzui* of the *tzitz* requires the *Kohen Gadol* to actually be wearing it at the moment, or whether the mere existence of the *tzitz* — so long as it has not been broken or lost — is sufficient. That debate remains open.
+The *gemara*'s discussion of whether the *tzitz* works *al ha'ochlin* requires clarification. It does not mean that the *tzitz* permits eating *tamei* meat — the *tzitz* operates exclusively to make a *korban* valid, not to override prohibitions against eating in a state of *tum'ah*. The question is rather a functional one: can the *tzitz*'s power of *ritzui* address problems arising from the edible portions of the *korban* having become *tamei*, so far as the *korban*'s validity is concerned? The clearest application is according to Rabbi Yehoshua, who holds that for a *korban* to be valid there must be something left over. If the only remaining *shirayim* are *tamei*, and the *tzitz* is *mratzeh al ha'ochlin*, then even Rabbi Yehoshua would allow the *korban* to proceed — the *tzitz* renders those portions halachically present, and the *korban* is valid.
 
 ## Remnants & Kometz (II)
 

@@ -1,0 +1,151 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Opponent Preference: Levi",
+    "candidates": [
+      "Baraita: Testimony Ban",
+      "Theft\u2192Sale\u2192Claim Scenario",
+      "Why Block Testimony?",
+      "Shimon's Self-Interest",
+      "Opponent Preference: Levi",
+      "Abaye's Objections",
+      "Rabin: Seller No Warranty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All 11 items form a continuous Gemara discussion of Rav Sheshet's reading of the baraita \u2014 covering the theft-sale-claim scenario, Shimon's preference for litigating against Levi over Yehuda, the witnesses deadlock scenario, the question about why the baraita needs a sale rather than just the robber, the ye'ush/shinui reshut analysis, the gazlan's death, the yoresh question, and Abaye's linguistic objection \u2014 all of which are explicitly summarized and discussed in the prose of candidate 4 ('Opponent Preference: Levi').",
+      "chosen_heading": "Opponent Preference: Levi",
+      "current_heading": "Opponent Preference: Levi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Rabin: Seller No Warranty",
+    "candidates": [
+      "Abaye's Objections",
+      "Rabin: Seller No Warranty",
+      "Creditor Liens on Land",
+      "Land vs. Chattel Liens"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabin: Seller No Warranty",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Ravin bar Shmuel's ruling about a seller without warranty not being able to testify, which is exactly what heading 1 ('Rabin: Seller No Warranty') discusses in its prose.",
+      "second_heading": "Land vs. Chattel Liens",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 discuss the distinction between land (subject to creditor liens) and chattel (not subject to liens), including the apoteiki case, which matches heading 3 ('Land vs. Chattel Liens') that discusses precisely this movable vs. immovable property lien distinction.",
+      "current_heading": "Rabin: Seller No Warranty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Land vs. Chattel Liens",
+    "candidates": [
+      "Creditor Liens on Land",
+      "Land vs. Chattel Liens",
+      "Non-Designated Chattel",
+      "Slave as Collateral",
+      "Bundling via Shtar",
+      "Ketubah & Future Property",
+      "Future Property Liens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses the concern that chattel might be transferred as a lien via the agav karka mechanism, citing Rabba's ruling and Rav \u1e24isda's condition about the 'not like asmakhta' language \u2014 precisely the content described in the 'Bundling via Shtar' prose section.",
+      "chosen_heading": "Bundling via Shtar",
+      "current_heading": "Land vs. Chattel Liens",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Future Property Liens",
+    "candidates": [
+      "Non-Designated Chattel",
+      "Slave as Collateral",
+      "Bundling via Shtar",
+      "Ketubah & Future Property",
+      "Future Property Liens",
+      "Mekach Taut Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items directly address the de-ikni (future property lien) question \u2014 the Gemara answers that the debtor purchased and immediately sold, raises the de-ikni concern, and then resolves it by noting witnesses testify he never owned land \u2014 precisely the analysis described in the 'Future Property Liens' prose.",
+      "chosen_heading": "Future Property Liens",
+      "current_heading": "Future Property Liens",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Mekach Taut Issue",
+    "candidates": [
+      "Mekach Taut Issue",
+      "Buyer's Admission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Papa's ruling about mekach taut (field not belonging to seller), which is precisely the content described in the 'Mekach Taut Issue' prose section.",
+      "chosen_heading": "Mekach Taut Issue",
+      "current_heading": "Mekach Taut Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Buyer's Admission",
+    "candidates": [
+      "Buyer's Admission",
+      "Rav Zvid: Buyer Beware"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the case where the buyer recognizes/admits the animal is the seller's offspring, which is precisely what heading 0 ('Buyer's Admission') discusses in its prose.",
+      "chosen_heading": "Buyer's Admission",
+      "current_heading": "Buyer's Admission",
+      "moved": false
+    }
+  }
+]

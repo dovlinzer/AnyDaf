@@ -1,0 +1,185 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Baraita Examples",
+    "candidates": [
+      "Forbidden Growth Setup",
+      "Ran's Framework",
+      "Amoraic Positions",
+      "Baraita Examples",
+      "Why No Bittul",
+      "No Path to Permissibility",
+      "Shevi'it Challenge",
+      "Shimon's Response",
+      "Rishonim Reframe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Shimon's baraita distinguishing items with a path to permissibility (tevel, maaser sheni, hekdesh, chadash) from those without (teruma, challah, orla, kilayim), which is precisely the baraita that heading 3 ('Baraita Examples') introduces and its prose describes in detail.",
+      "chosen_heading": "Baraita Examples",
+      "current_heading": "Baraita Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Rishonim Reframe",
+    "candidates": [
+      "Why No Bittul",
+      "No Path to Permissibility",
+      "Shevi'it Challenge",
+      "Shimon's Response",
+      "Rishonim Reframe",
+      "Onion Color Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are Rabbi Shimon's response distinguishing bi'ur from eating (af ani lo amarti ela levi'ur / aval l'achilah b'nosein ta'am), which is precisely what candidate 3 'Shimon's Response' describes, not the Rishonim's reinterpretation discussed in candidate 4.",
+      "chosen_heading": "Shimon's Response",
+      "current_heading": "Rishonim Reframe",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Onion Color Test",
+    "candidates": [
+      "Rishonim Reframe",
+      "Onion Color Test",
+      "Leaf Strength Test",
+      "Growth Negates Core",
+      "Ground-Up Objection",
+      "Field Worker Scenario",
+      "Shimon ben Elazar",
+      "Permits Mixture",
+      "Wheat Objection",
+      "Vegetables Confirmation",
+      "Ground Again"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Onion Color Test",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the onion color test from the Mishna (Shevi'it 6:3), which matches exactly the 'Onion Color Test' section's prose about dark/black leaves meaning forbidden and bright green (horiku) meaning permitted.",
+      "second_heading": "Leaf Strength Test",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Chanina ben Antigonus's alternative leaf-strength diagnostic criterion and the Gemara's inference about permitted growth negating the prohibition, which matches the 'Leaf Strength Test' section's prose about pulling onions up by their leaves as the criterion for forbidding them.",
+      "current_heading": "Onion Color Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Ground Again",
+    "candidates": [
+      "Leaf Strength Test",
+      "Growth Negates Core",
+      "Ground-Up Objection",
+      "Field Worker Scenario",
+      "Shimon ben Elazar",
+      "Permits Mixture",
+      "Wheat Objection",
+      "Vegetables Confirmation",
+      "Ground Again",
+      "Direct Weeding",
+      "Shanya Shemittah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items together constitute the baraita about weeding with a Samaritan (hamnakeish im hakuti bechasyot) and the subsequent Gemara analysis including Rabbi Shimon ben Elazar's ruling and the deflections about crushed vegetables and mixtures \u2014 exactly what heading 3 'Field Worker Scenario' describes.",
+      "chosen_heading": "Field Worker Scenario",
+      "current_heading": "Ground Again",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Shanya Shemittah",
+    "candidates": [
+      "Direct Weeding",
+      "Shanya Shemittah",
+      "Year-Based Logic",
+      "Tosafos Active/Passive",
+      "Maaser Parallel",
+      "Grain Growth Case",
+      "Original Remains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yitzchak's resolution that shemittah is different because its prohibition operates through the land \u2014 exactly what the 'Shanya Shemittah' section's prose describes.",
+      "chosen_heading": "Shanya Shemittah",
+      "current_heading": "Shanya Shemittah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Original Remains",
+    "candidates": [
+      "Year-Based Logic",
+      "Tosafos Active/Passive",
+      "Maaser Parallel",
+      "Grain Growth Case",
+      "Original Remains",
+      "Maaser Digun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the challenge from maaser as a counterexample to the shemittah land-based logic, which is precisely what the 'Maaser Parallel' prose section describes \u2014 the gemara raising that maaser is also a land-based prohibition, setting up the challenge before the baraita details are explored.",
+      "chosen_heading": "Maaser Parallel",
+      "current_heading": "Original Remains",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Maaser Digun",
+    "candidates": [
+      "Original Remains",
+      "Maaser Digun",
+      "Synthesis",
+      "Why Shemittah Works",
+      "Why Others Fail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states that digun (processing/piling) engenders the maaser obligation rather than the land, which is precisely what the 'Maaser Digun' section's prose discusses as the gemara's resolution.",
+      "chosen_heading": "Maaser Digun",
+      "current_heading": "Maaser Digun",
+      "moved": false
+    }
+  }
+]

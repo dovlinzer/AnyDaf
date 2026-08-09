@@ -1,0 +1,346 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Alternating Questions",
+    "candidates": [
+      "False Nodding Problem",
+      "Alternating Questions",
+      "Fruit Test Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the b'sirugin (alternating questions) method and the concern about alternating involuntary movements \u2014 exactly the content described in the 'Alternating Questions' prose, including the specific chad lav u'trei hen solution.",
+      "chosen_heading": "Alternating Questions",
+      "current_heading": "Alternating Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Fruit Test Questions",
+    "candidates": [
+      "Fruit Test Questions",
+      "Writing = Speech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about asking summer/winter questions, the gemara's challenge about coats/sheets, and the resolution involving produce \u2014 are precisely the content described in candidate 0's prose about the fruit test questions.",
+      "chosen_heading": "Fruit Test Questions",
+      "current_heading": "Fruit Test Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Writing = Speech",
+    "candidates": [
+      "Writing = Speech",
+      "Rav Yosef Challenge",
+      "Ilem vs. Cheresh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in the 'Rav Yosef Challenge' prose \u2014 Rav Yosef questioning the novelty of Rav Kahana's ruling by citing the mishna/braita about the man who became mute, nodded, and was tested three times.",
+      "chosen_heading": "Rav Yosef Challenge",
+      "current_heading": "Writing = Speech",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Ilem vs. Cheresh",
+    "candidates": [
+      "Rav Yosef Challenge",
+      "Ilem vs. Cheresh",
+      "Writing Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the baraita defining cheresh vs. ilem and the scriptural/folk-etymology support for those definitions, which is precisely what the 'Ilem vs. Cheresh' prose section describes.",
+      "chosen_heading": "Ilem vs. Cheresh",
+      "current_heading": "Ilem vs. Cheresh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Writing Testimony",
+    "candidates": [
+      "Writing Testimony",
+      "Braita Rule",
+      "Tannaitic Dispute",
+      "Rabban Shimon Caveat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain about whether written testimony is valid \u2014 Rabbi Zeira's challenge from the mute's exemption, Abaye's resolution via 'mipihem,' the baraita about investigating a mute for testimonies, Rav Sheshet's limitation to eidus isha, and Rabbi Abbahu's resolution of yerushos \u2014 all of which are explicitly discussed in candidate 0's prose.",
+      "chosen_heading": "Writing Testimony",
+      "current_heading": "Writing Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Rabban Shimon Caveat",
+    "candidates": [
+      "Braita Rule",
+      "Tannaitic Dispute",
+      "Rabban Shimon Caveat",
+      "Rabbinic Marriage",
+      "Yibum Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: item 1 wraps up the mute/business objection, items 2-4 introduce the baraita challenging Rav Kahana on gittin, resolve it via a tannaitic dispute, and end with the 'just as he married by intimation' principle \u2014 exactly the content described in candidate 0's prose about the baraita contradicting Rav Kahana and the keshem shekones bi'remiza principle.",
+      "chosen_heading": "Braita Rule",
+      "current_heading": "Rabban Shimon Caveat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Yibum Obligation",
+    "candidates": [
+      "Rabbinic Marriage",
+      "Yibum Obligation",
+      "Wife vs. Sister",
+      "Two Deaf Siblings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage answers a question about his wife vs. yevama by clarifying that if it were his wife (d'rabbanan marriage) signaling would work, but the case concerns his yevama \u2014 this is the gemara's initial answer about why rabbinic marriage allows signaling, which belongs under the 'Rabbinic Marriage' section that discusses exactly this distinction.",
+      "chosen_heading": "Rabbinic Marriage",
+      "current_heading": "Yibum Obligation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Two Deaf Siblings",
+    "candidates": [
+      "Wife vs. Sister",
+      "Two Deaf Siblings",
+      "Rejection Clarified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in candidate 0's prose: the gemara's question about whether the brother was a cheresh (item 1), the gzeira answer (item 2), the ishto nami challenge and yevamto b'yevamto response (item 3), then the mishna about two deaf brothers/sisters and the umi gazrinan challenge (items 4-6), and the conclusion michvarta kideshanin me'ikara (item 7) \u2014 all of which candidate 0's prose explicitly discusses, while candidate 1's prose describes these same items as belonging to its section, but candidate 0's prose is the primary discussion of the gzeira reasoning and the wife/yevama distinction that opens this passage.",
+      "chosen_heading": "Wife vs. Sister",
+      "current_heading": "Two Deaf Siblings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rejection Clarified",
+    "candidates": [
+      "Two Deaf Siblings",
+      "Rejection Clarified",
+      "Can Never Divorce",
+      "Forever = Writing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yo\u1e25anan's declaration that the colleagues disagree with Rabban Shimon ben Gamliel, which is precisely what the 'Rejection Clarified' prose describes.",
+      "chosen_heading": "Rejection Clarified",
+      "current_heading": "Rejection Clarified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Forever = Writing",
+    "candidates": [
+      "Can Never Divorce",
+      "Forever = Writing",
+      "Shotah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of Abaye's and Rav Pappa's discussion of what 'olamit' (never/forever) means in the mishna \u2014 Abaye raises the word to prove writing is insufficient, and Rav Pappa explains what he would have said without Rav Yochanan's clarification \u2014 all of which directly matches the 'Can Never Divorce' heading's prose about the word *olamit* doing important work, not the 'Forever = Writing' heading which describes the final resolved reading.",
+      "chosen_heading": "Can Never Divorce",
+      "current_heading": "Forever = Writing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Shotah Status",
+    "candidates": [
+      "Forever = Writing",
+      "Shotah Status",
+      "Logical Problem",
+      "Tech Solutions",
+      "Poskim Redefine",
+      "Direct Instruction Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Yitzchak's ruling that a shotah may be divorced by Torah law and the rabbinic prohibition to protect her from being treated as ownerless property, which is precisely what the 'Shotah Status' prose describes.",
+      "chosen_heading": "Shotah Status",
+      "current_heading": "Shotah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Direct Instruction Rule",
+    "candidates": [
+      "Logical Problem",
+      "Tech Solutions",
+      "Poskim Redefine",
+      "Direct Instruction Rule",
+      "Invalidity Reason",
+      "Rabbi Meir Latitude"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna passage describes exactly the case of a husband saying 'write it' without directly instructing the scribe and witnesses, which is precisely what the 'Direct Instruction Rule' prose section describes.",
+      "chosen_heading": "Direct Instruction Rule",
+      "current_heading": "Direct Instruction Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Rabbi Meir Latitude",
+    "candidates": [
+      "Invalidity Reason",
+      "Rabbi Meir Latitude",
+      "Rabbi Yosi Strict",
+      "Rabbi Meir Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous gemara discussion about whose opinion the mishna reflects \u2014 inferring Rabbi Meir from the reisha, noting Rabbi Yosi in the seifa, resolving the apparent contradiction, and then Abaye's alternative reading \u2014 all of which is precisely what the 'Rabbi Meir Latitude' prose describes as the gemara's exploration of the reisha's implication and the Rabbi Meir/Rabbi Yosi tension.",
+      "chosen_heading": "Rabbi Meir Latitude",
+      "current_heading": "Rabbi Meir Latitude",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Rabbi Meir Position",
+    "candidates": [
+      "Rabbi Yosi Strict",
+      "Rabbi Meir Position",
+      "Rabbi Yosi Position",
+      "Reconciliation Problem",
+      "Signature Evidence",
+      "Yosi No Fear",
+      "Embarrassment Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "This passage is the Gemara's objection to reading the mishna as Rabbi Meir in a two-person context \u2014 'if so, the mishna should have said: unless he says his instructions to three people' \u2014 which corresponds precisely to the Reconciliation Problem prose describing the gemara's attempts and objections to reconciling the mishna with Rabbi Meir including the two-person scenario objection.",
+      "chosen_heading": "Reconciliation Problem",
+      "current_heading": "Rabbi Meir Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129,
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Embarrassment Risk",
+    "candidates": [
+      "Rabbi Yosi Position",
+      "Reconciliation Problem",
+      "Signature Evidence",
+      "Yosi No Fear",
+      "Embarrassment Risk",
+      "Unresolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "medium",
+      "reason": "All five items form a continuous chain leading to the kissufa argument that proves Rabbi Yosi recognizes no 'omer imru' exception, which is precisely what candidate 4's prose describes, making the current placement the best match despite items 1-2 touching on reconciliation themes.",
+      "chosen_heading": "Embarrassment Risk",
+      "current_heading": "Embarrassment Risk",
+      "moved": false
+    }
+  }
+]

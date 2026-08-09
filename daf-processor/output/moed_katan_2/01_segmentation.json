@@ -87,8 +87,8 @@
           "timestamp": "28:20"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Rabbinic Positions on Field Irrigation: Rabbi Meir, Rabbi Yehuda, and Rabbi Elazar ben Azariah",
@@ -455,5 +455,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "41:08",
+  "amud_b_micro_title": "Attribution",
+  "shiur_start_daf": 2,
+  "shiur_start_amud": "a"
 }

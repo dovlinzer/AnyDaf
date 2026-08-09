@@ -1,0 +1,373 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Mar Zutra Split",
+    "candidates": [
+      "Shichiv Meyra Intro",
+      "Rav Huna Testimony",
+      "Mar Zutra Split",
+      "Rav Ashi Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's statement about testimony being valid AND Mar Zutra's qualification about movable vs. land property, and the prose under 'Rav Huna Testimony' (index 1) describes both of these points together as a unit, while the current placement under 'Mar Zutra Split' (index 2) describes only the second half.",
+      "chosen_heading": "Rav Huna Testimony",
+      "current_heading": "Mar Zutra Split",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rav Ashi Challenge",
+    "candidates": [
+      "Mar Zutra Split",
+      "Rav Ashi Challenge",
+      "Two Criteria",
+      "Tosafot Value",
+      "Ameimar Position",
+      "Rav Ashi Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Ashi challenging Mar Zutra by using the pi'utot/young children example to show that transactional validity cannot automatically confer testimonial validity, and Mar Zutra's response invoking 've'amdu shenei ha'anashim' \u2014 exactly what the 'Rav Ashi Challenge' prose describes.",
+      "chosen_heading": "Rav Ashi Challenge",
+      "current_heading": "Rav Ashi Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Rav Ashi Logic",
+    "candidates": [
+      "Two Criteria",
+      "Tosafot Value",
+      "Ameimar Position",
+      "Rav Ashi Logic",
+      "Money Seduction",
+      "Gift Logic",
+      "Chachamim Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the exchange between Ameimar and Rav Ashi \u2014 Rav Ashi's a fortiori challenge against gifts and Ameimar's counter-case about selling worth-five-for-six \u2014 which is precisely what the 'Rav Ashi Logic' prose describes and analyzes.",
+      "chosen_heading": "Rav Ashi Logic",
+      "current_heading": "Rav Ashi Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Chachamim Rationale",
+    "candidates": [
+      "Money Seduction",
+      "Gift Logic",
+      "Chachamim Rationale",
+      "Verification Need",
+      "Four Areas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both the money-seduction rationale (yanuka mekarva da'ateh gabbei zuzei, mekarkeshi) and the gift logic in one continuous Talmudic excerpt, but the opening and dominant theme \u2014 the Sages' rule about children being attracted to money and the jingling-coins fear \u2014 aligns with the 'Money Seduction' heading, which quotes and analyzes precisely this text, while the gift portion flows naturally as its contrast within that same passage.",
+      "chosen_heading": "Money Seduction",
+      "current_heading": "Chachamim Rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Four Areas",
+    "candidates": [
+      "Verification Need",
+      "Four Areas",
+      "Yibum Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Na\u1e25man/Shmuel's formal statement listing the four areas requiring verification (kiddushin, geirushin, chalitzah, miun) and the twenty-year rule for selling inherited property, which is precisely what the 'Four Areas' prose section introduces and discusses.",
+      "chosen_heading": "Four Areas",
+      "current_heading": "Four Areas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Yibum Issue",
+    "candidates": [
+      "Yibum Issue",
+      "Chalitzah Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why a separate examination for geirushin is needed beyond kiddushin, answered by the yibum case from the mishna \u2014 exactly matching the Yibum Issue prose which explains this scenario of a nine-year-old acquiring his yevama through intercourse but needing to reach adulthood to issue a get.",
+      "chosen_heading": "Yibum Issue",
+      "current_heading": "Yibum Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Chalitzah Debate",
+    "candidates": [
+      "Chalitzah Debate",
+      "Meiun Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the chalitzah ruling rejecting Rabbi Yosei's position by equating the woman to the man, which directly matches the prose of the 'Chalitzah Debate' section.",
+      "chosen_heading": "Chalitzah Debate",
+      "current_heading": "Chalitzah Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Meiun Standard",
+    "candidates": [
+      "Meiun Standard",
+      "Age Twenty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the miun standard and Rabbi Yehuda's heightened threshold, which is exactly what the 'Meiun Standard' prose describes.",
+      "chosen_heading": "Meiun Standard",
+      "current_heading": "Meiun Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Age Twenty",
+    "candidates": [
+      "Age Twenty",
+      "Twentieth Year"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states that selling inherited property requires the seller to be twenty years old, rejecting the eighteen-year opinion \u2014 which is precisely what the 'Age Twenty' prose section describes and summarizes.",
+      "chosen_heading": "Age Twenty",
+      "current_heading": "Age Twenty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Twentieth Year",
+    "candidates": [
+      "Twentieth Year",
+      "Savvy Exception",
+      "Testimony Split",
+      "Gift Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both halakhic rulings \u2014 'toch zman kilfnei zman' and 'kegiddel bar menashe' \u2014 and the current heading's prose explicitly addresses both, presenting them as a concentrated series of final rulings together, making it the correct single home for this combined text.",
+      "chosen_heading": "Twentieth Year",
+      "current_heading": "Twentieth Year",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Gift Valid",
+    "candidates": [
+      "Savvy Exception",
+      "Testimony Split",
+      "Gift Valid",
+      "Verification All",
+      "Rabbi Elazar Rejects",
+      "Property Types"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Property Types",
+    "candidates": [
+      "Verification All",
+      "Rabbi Elazar Rejects",
+      "Property Types",
+      "Meroni Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishnah text introduces Rabbi Elazar's position that both healthy and dangerously ill persons follow the same kinyan rules, which is precisely what the 'Rabbi Elazar Rejects' prose section introduces and contextualizes, making it the natural home for this passage rather than 'Property Types' which discusses the downstream details of that ruling.",
+      "chosen_heading": "Rabbi Elazar Rejects",
+      "current_heading": "Property Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Meroni Case",
+    "candidates": [
+      "Property Types",
+      "Meroni Case",
+      "Bnei Rochel Case",
+      "Eliezer Version",
+      "Kinyan Agav",
+      "Chachamim Response",
+      "Thorns Kilayim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bnei Rochel Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Bnei Rochel challenge and Rabbi Elazar's dismissive response, which is precisely what candidate 2 ('Bnei Rochel Case') describes in its prose.",
+      "second_heading": "Meroni Case",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 present the Meroni case \u2014 Rabbi Eliezer's baraita about the man from Meron who used kinyan agav and the Sages' response that he was healthy \u2014 which is exactly what candidate 1 ('Meroni Case') describes in its prose.",
+      "current_heading": "Meroni Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Thorns Kilayim",
+    "candidates": [
+      "Bnei Rochel Case",
+      "Eliezer Version",
+      "Kinyan Agav",
+      "Chachamim Response",
+      "Thorns Kilayim",
+      "Arab Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly discusses why Rabbi Eliezer cursed the bnei rochel (they maintained thorns in the vineyard) and cites the Mishnah debate between Rabbi Eliezer and the Sages about kilayim with thorn bushes \u2014 exactly what the 'Thorns Kilayim' prose section describes.",
+      "chosen_heading": "Thorns Kilayim",
+      "current_heading": "Thorns Kilayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Arab Practice",
+    "candidates": [
+      "Arab Practice",
+      "Sons Unworthy",
+      "Rav Levi Kinyan",
+      "Shabbat Kinyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks what thorns are useful for and answers with the Arabian practice of maintaining thorns for camels, which is precisely what the 'Arab Practice' section's prose discusses.",
+      "chosen_heading": "Arab Practice",
+      "current_heading": "Arab Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Shabbat Kinyan",
+    "candidates": [
+      "Sons Unworthy",
+      "Rav Levi Kinyan",
+      "Shabbat Kinyan",
+      "Tiruf Daas",
+      "Medical Ethics",
+      "Eliezer Shabbat",
+      "Yehoshua Kal",
+      "Zakhin Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses performing a kinyan for a shichiv meyra on Shabbat, which is precisely what the 'Shabbat Kinyan' section's prose addresses, including the permission to perform kinyan even on Shabbat and the reasoning behind it.",
+      "chosen_heading": "Shabbat Kinyan",
+      "current_heading": "Shabbat Kinyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Zakhin Parallel",
+    "candidates": [
+      "Tiruf Daas",
+      "Medical Ethics",
+      "Eliezer Shabbat",
+      "Yehoshua Kal",
+      "Zakhin Parallel",
+      "Eliezer Elazar",
+      "Yerushalmi Version"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "medium",
+      "reason": "The Mishna (items 1-2) directly presents the Shabbat/weekday and minor/adult parallel disputes that heading 4 'Zakhin Parallel' explicitly discusses, and the Gemara portion (items 3-6) follows as direct analysis of that same Mishna, making the current placement the best single home for the unified passage.",
+      "chosen_heading": "Zakhin Parallel",
+      "current_heading": "Zakhin Parallel",
+      "moved": false
+    }
+  }
+]

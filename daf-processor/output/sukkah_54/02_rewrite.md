@@ -168,9 +168,7 @@ The *Mishnah* now concludes by specifying what was *not* subject to equal divisi
 
 ### Yom Tov-Shabbat Adjacency
 
-The *Mishnah* turns to a special calendrical scenario: *Yom Tov ha-samuch le-Shabbat bein milfaneha bein me-achareha* — when *Yom Tov* falls immediately adjacent to *Shabbat*, whether immediately before or immediately after. This cannot occur under the fixed calendar in use today, but in the era of the *Beit Hamikdash* it was a real possibility. If, for example, *Sukkot* began on Sunday, *Kohanim* would have had to arrive a day early — on Friday — since they could not travel on *Shabbat*. Alternatively, if the last day of *Yom Tov* fell on Friday, *Kohanim* could not depart immediately afterward and would be stuck for an extra *Shabbat*. In either case, *Kohanim* were obligated to be present for an additional day that was not technically the *regel* itself.
-
----
+The *Mishnah* introduces the case of *Yom Tov ha-samuch le-Shabbat bein milfaneha bein me-achareha* — when *Yom Tov* falls immediately adjacent to *Shabbat*, either before or after. If *Sukkot* fell on Sunday, *Kohanim* had to arrive on Friday; if it ended on Friday, they had to remain through the following *Shabbat*. In either case, all *Kohanim* found themselves present for an extra day beyond the *regel* itself — and the question the *Mishnah* will now examine is how the *avodah* of the *Mikdash* was divided on that additional day.
 
 ## Communal Sacrifices (II)
 

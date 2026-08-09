@@ -139,7 +139,7 @@
           "timestamp": "15:54"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -187,8 +187,8 @@
           "timestamp": "24:18"
         }
       ],
-      "sefaria_index": 4,
-      "matched": false
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Restrictions Regarding Shemita and Constraints on Consecutive Years",
@@ -518,5 +518,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 9,
+  "amud_b_timestamp": "30:44",
+  "amud_b_micro_title": "Chizkiyahu Story",
+  "shiur_start_daf": 11,
+  "shiur_start_amud": "b"
 }

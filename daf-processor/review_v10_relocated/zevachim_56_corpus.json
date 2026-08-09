@@ -1,0 +1,326 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Intro: 187 x 135",
+    "candidates": [
+      "Intro: 187 x 135",
+      "Azarah for Offerings",
+      "Rav Nachman's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rav Yehuda's statement in the name of Shmuel about liability for tum'ah within the 187x135 cubit azarah, which is precisely what the 'Intro: 187 x 135' prose describes as the daf's opening teaching.",
+      "chosen_heading": "Intro: 187 x 135",
+      "current_heading": "Intro: 187 x 135",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rav Nachman's Teaching",
+    "candidates": [
+      "Azarah for Offerings",
+      "Rav Nachman's Teaching",
+      "Wall Features"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita taught before Rav Nachman giving the 187\u00d7135 dimensions and his father's teaching about priests eating kodshei kodashim, slaughtering kodashim kalim, and liability for tum'ah \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Rav Nachman's Teaching",
+      "current_heading": "Rav Nachman's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Wall Features",
+    "candidates": [
+      "Wall Features",
+      "Chambers Built"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses whether the 187\u00d7135 dimensions exclude wall features (windows, doors, thickness) and the immediate rejection via the beraita that these are treated as inside \u2014 exactly what the 'Wall Features' prose describes.",
+      "chosen_heading": "Wall Features",
+      "current_heading": "Wall Features",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Chambers Built",
+    "candidates": [
+      "Chambers Built",
+      "Eating in Chambers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses chambers built in non-sacred ground but open to the sacred area and the Gemara's answer that their sanctity is only miderabbanan, which precisely matches the prose in candidate 0 ('Chambers Built').",
+      "chosen_heading": "Chambers Built",
+      "current_heading": "Chambers Built",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Eating in Chambers",
+    "candidates": [
+      "Eating in Chambers",
+      "Rava: Le'achila Shani"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about chambers built in non-sacred areas opening to the sacred area, with the drasha from 'bechatzer ohel moed yochluha' generating the principle that the Torah amplified many courtyards \u2014 this is precisely what the 'Eating in Chambers' section's prose describes and analyzes.",
+      "chosen_heading": "Eating in Chambers",
+      "current_heading": "Eating in Chambers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Rava: Le'achila Shani",
+    "candidates": [
+      "Rava: Le'achila Shani",
+      "Eating & Petach",
+      "Ravina: Achila"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain about Rava's 'le'achila shani' ruling, the baraita challenge about tum'ah liability in chambers built in non-sacred areas, and the Gemara's resolution by emending the baraita \u2014 exactly the content described in the 'Rava: Le'achila Shani' prose section.",
+      "chosen_heading": "Rava: Le'achila Shani",
+      "current_heading": "Rava: Le'achila Shani",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Ravina: Achila",
+    "candidates": [
+      "Eating & Petach",
+      "Ravina: Achila",
+      "Blood Notar Query",
+      "Shuchteta Makriv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the challenge from Rabbi Yossi b'Rabbi Yehuda's baraita about the pishpashim (resolved by Ravina's 'sami mikan achila') and the subsequent challenge from the miluim verse (resolved by 'kodshei sha'ah shani') \u2014 are explicitly discussed in the 'Ravina: Achila' prose, which covers exactly this sequence of question, Ravina's answer, and the miluim counterexample with its resolution.",
+      "chosen_heading": "Ravina: Achila",
+      "current_heading": "Ravina: Achila",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Shuchteta Makriv",
+    "candidates": [
+      "Blood Notar Query",
+      "Shuchteta Makriv",
+      "Counting from Blood",
+      "Machshevet Night 2"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of question-and-answer deriving that blood becomes disqualified at sunset, which is precisely what candidate 0 ('Blood Notar Query') introduces \u2014 the question of where we derive that shelamim blood must be applied on the day of slaughter \u2014 rather than candidate 1 which discusses the answer and its immediate challenge, or candidate 2 which discusses the alternative reading about counting the eating window from blood application.",
+      "chosen_heading": "Blood Notar Query",
+      "current_heading": "Shuchteta Makriv",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Machshevet Night 2",
+    "candidates": [
+      "Counting from Blood",
+      "Machshevet Night 2",
+      "Chizkiyah vs R. Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage records the exact Chizkiyah/Rabbi Yochanan dispute (kasher vs. pasul, d'lo mta l'sreifah vs. idchei me'achilah) that candidate 2's prose directly describes, making it a clearly better fit than the current placement under candidate 1.",
+      "chosen_heading": "Chizkiyah vs R. Yochanan",
+      "current_heading": "Machshevet Night 2",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Chizkiyah vs R. Yochanan",
+    "candidates": [
+      "Machshevet Night 2",
+      "Chizkiyah vs R. Yochanan",
+      "Braita: Sunset Day 2"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Chizkiyah/Rabbi Yochanan dispute about eating on the evening of the third day, which is precisely what the 'Chizkiyah vs R. Yochanan' section's prose describes and analyzes.",
+      "chosen_heading": "Chizkiyah vs R. Yochanan",
+      "current_heading": "Chizkiyah vs R. Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Braita: Sunset Day 2",
+    "candidates": [
+      "Braita: Sunset Day 2",
+      "Third Night Query",
+      "Kal Vachomer",
+      "Pasuk Exclusion",
+      "Burning Timeline"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Braita: Sunset Day 2",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita confirming Rabbi Yochanan's position about piggul thoughts for blood, imurim, and meat of one-day vs. two-day offerings \u2014 exactly what heading 0 'Braita: Sunset Day 2' describes.",
+      "second_heading": "Third Night Query",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens a new baraita raising the question of whether shelamim may be eaten on the evening before the third day, which is precisely what heading 1 'Third Night Query' describes as its subject matter.",
+      "current_heading": "Braita: Sunset Day 2",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Burning Timeline",
+    "candidates": [
+      "Third Night Query",
+      "Kal Vachomer",
+      "Pasuk Exclusion",
+      "Burning Timeline",
+      "Bechor Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita's discussion of when burning begins \u2014 the kal vachomer proposing immediate burning after the eating period ends and the pasuk refutation establishing that burning is only during the third day's daytime \u2014 which matches exactly the 'Burning Timeline' prose.",
+      "chosen_heading": "Burning Timeline",
+      "current_heading": "Burning Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Bechor Rules",
+    "candidates": [
+      "Bechor Rules",
+      "Ma'aser Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the rules for bechor, ma'aser, and pesach as a unified category (kodashim kalim) with shared slaughter and blood placement rules, which is precisely what the 'Bechor Rules' prose discusses, while the 'Ma'aser Rules' prose focuses on the eating distinctions between bechor and ma'aser.",
+      "chosen_heading": "Bechor Rules",
+      "current_heading": "Bechor Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Ma'aser Rules",
+    "candidates": [
+      "Ma'aser Rules",
+      "Pesach Rules",
+      "Yose HaGalili"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the bechor/ma'aser eating rules AND the Pesach eating rules together as a single mishna unit, but since it begins with the bechor/ma'aser rules and the current placement (Ma'aser Rules) captures the opening content, and the Pesach Rules section prose more specifically addresses the Pesach-specific restrictions that form the latter half, the passage actually bridges both sections \u2014 however, the full mishna text as a unit discussing all three offerings' consumption rules fits slightly better under Ma'aser Rules where the comparison begins, keeping current placement.",
+      "chosen_heading": "Ma'aser Rules",
+      "current_heading": "Ma'aser Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Yose HaGalili",
+    "candidates": [
+      "Pesach Rules",
+      "Yose HaGalili",
+      "Yesod Requirement",
+      "Abiay: One Matanah",
+      "Hermeneutics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous Gemara discussion beginning with 'who is the tanna' (items 1-2 on Rabbi Yose HaGalili and yesod derivation), through the challenge about two-placements-that-are-four (items 3-4), Abaye's resolution via shenei ketuvim (item 5), and the response for those who hold shenei ketuvim do teach (item 6) \u2014 and candidate 1 ('Yose HaGalili') is the current placement whose prose explicitly covers all these elements including the gezerah shavah, the yesod question, and the two-matanot challenge, making it the correct home for the entire passage.",
+      "chosen_heading": "Yose HaGalili",
+      "current_heading": "Yose HaGalili",
+      "moved": false
+    }
+  }
+]

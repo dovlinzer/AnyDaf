@@ -1,0 +1,325 @@
+[
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Fear Before Them",
+    "candidates": [
+      "Pesukim Review",
+      "Three Stone Sets",
+      "Deuteronomy 27 Analysis",
+      "Tosafot: Malon vs.",
+      "Two Separate Events",
+      "Geographic Timeline",
+      "Malbim's Theory",
+      "Rava on Rabbi Shimon",
+      "Rabbi Yehudah's View",
+      "Yefat Toar & Canaanites",
+      "Tosafot on Rachav",
+      "Yefat Toar Override?",
+      "Sixty Mil Journey",
+      "Bracketing Battles",
+      "Fear Before Them",
+      "Stones Round Trip"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 14,
+      "confidence": "high",
+      "reason": "The passage directly states that the Jewish people were worthy of miracles during the second arrival (bi'ah sheniyah) just as in the first, but sin caused otherwise \u2014 this is precisely the content described in the 'Fear Before Them' section's prose about the derasha on bi'ah rishonah and bi'ah sheniyah and the role of sin in altering the nature of the second entry.",
+      "chosen_heading": "Fear Before Them",
+      "current_heading": "Fear Before Them",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Stones Round Trip",
+    "candidates": [
+      "Stones Round Trip",
+      "Synthesis & Resolution",
+      "Tzira Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items describe the sequence of events after crossing the Jordan \u2014 building the altar, writing the Torah, sacrificing offerings, taking the stones back to Gilgal \u2014 which is precisely what the 'Stones Round Trip' prose discusses in detail, including the specific phrases and verses found in items 1-3.",
+      "chosen_heading": "Stones Round Trip",
+      "current_heading": "Stones Round Trip",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Tzira Debate",
+    "candidates": [
+      "Synthesis & Resolution",
+      "Tzira Debate",
+      "Two Tzira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the opening baraita and Reish Lakish's resolution about the tzira standing at the Jordan bank \u2014 exactly the content described in the 'Tzira Debate' prose.",
+      "chosen_heading": "Tzira Debate",
+      "current_heading": "Tzira Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Two Tzira",
+    "candidates": [
+      "Two Tzira",
+      "Six on Each",
+      "Ephod Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa's resolution of two distinct hornets (one of Moses, one of Joshua), which directly matches the 'Two Tzira' section's prose discussing exactly this teaching.",
+      "chosen_heading": "Two Tzira",
+      "current_heading": "Two Tzira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Ephod Stones",
+    "candidates": [
+      "Six on Each",
+      "Ephod Stones",
+      "Ephod Letter Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the question about 'and the half of them' AND Rav Kahana's answer about the ephod stones, matching candidate 0's prose which poses the question and introduces Rav Kahana's answer, while candidate 1's prose begins after the answer is already given and moves on to the gemara's challenge.",
+      "chosen_heading": "Six on Each",
+      "current_heading": "Ephod Stones",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Ephod Letter Count",
+    "candidates": [
+      "Ephod Stones",
+      "Ephod Letter Count",
+      "Rabbi Chanina View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the baraita that the Gemara raises as an objection (meitivei) to Rav Kahana's answer, which is precisely what candidate 0 ('Ephod Stones') describes \u2014 the gemara challenges his answer with a baraita about the two precious stones \u2014 whereas candidate 1's prose already treats these items as already-introduced content it is summarizing/elaborating upon.",
+      "chosen_heading": "Ephod Stones",
+      "current_heading": "Ephod Letter Count",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Rabbi Chanina View",
+    "candidates": [
+      "Rabbi Chanina View",
+      "Ve'hachetzyo Problem",
+      "Levi Below Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 Rabbi \u1e24anina ben Gamliel's opinion about the Shemot order, the explanation of how the names were arranged, the resolution of 'ke-toldotam,' and the refutation of Rav Kahana \u2014 are precisely the content described in the 'Rabbi Chanina View' prose.",
+      "chosen_heading": "Rabbi Chanina View",
+      "current_heading": "Rabbi Chanina View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Levi Below Solution",
+    "candidates": [
+      "Ve'hachetzyo Problem",
+      "Levi Below Solution",
+      "Yosef's Population"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks what 've-ha-chetzyo' means and answers that the half facing Har Gerizim was larger because Levi was below \u2014 this is precisely the content described in heading 0's prose about the ve-ha-chetzyo problem and the baraita's answer, not the separate elaboration in heading 1 about the objection/clarification or heading 2 about Yosef's population.",
+      "chosen_heading": "Ve'hachetzyo Problem",
+      "current_heading": "Levi Below Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Yosef's Population",
+    "candidates": [
+      "Levi Below Solution",
+      "Yosef's Population",
+      "Census Math",
+      "Fifty Letters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss Benei Yosef's large population compensating for Levi's absence, Joshua's exchange about the forest, and the evil eye not affecting Joseph's descendants \u2014 exactly the content described in the 'Yosef's Population' prose.",
+      "chosen_heading": "Yosef's Population",
+      "current_heading": "Yosef's Population",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Fifty Letters",
+    "candidates": [
+      "Census Math",
+      "Fifty Letters",
+      "Yehosef Solution",
+      "Binyamin Shalem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the arithmetical problem that the tribal names total forty-nine not fifty letters, which is precisely what the 'Fifty Letters' section's prose describes, before Rabbi Yitzchak's solution is introduced in the next section.",
+      "chosen_heading": "Fifty Letters",
+      "current_heading": "Fifty Letters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Binyamin Shalem",
+    "candidates": [
+      "Yehosef Solution",
+      "Binyamin Shalem",
+      "Yosef Sanctifies Name"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Na\u1e25man bar Yitz\u1e25ak's objection about 'ke-toldotam' and his alternative solution involving Benjamin's full spelling at birth, which is precisely what the 'Binyamin Shalem' section's prose describes.",
+      "chosen_heading": "Binyamin Shalem",
+      "current_heading": "Binyamin Shalem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Yosef Sanctifies Name",
+    "candidates": [
+      "Yosef Sanctifies Name",
+      "Yehudah Sanctified God",
+      "Temptation Scene"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both Joseph's private sanctification and Judah's public sanctification as a single teaching from Rav \u1e24ana bar Bizna/Rabbi Shimon \u1e24asida, and the current section's prose explicitly introduces this complete teaching, making it the correct placement.",
+      "chosen_heading": "Yosef Sanctifies Name",
+      "current_heading": "Yosef Sanctifies Name",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Temptation Scene",
+    "candidates": [
+      "Yehudah Sanctified God",
+      "Temptation Scene",
+      "Yaakov's Image"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the temptation scene with Potiphar's wife \u2014 the debate about Joseph's intentions and the explanation of why the house was empty \u2014 which is precisely what the prose under 'Temptation Scene' discusses in detail, matching the content almost word for word.",
+      "chosen_heading": "Temptation Scene",
+      "current_heading": "Temptation Scene",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Yaakov's Image",
+    "candidates": [
+      "Yaakov's Image",
+      "Physical Resistance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Yaakov's image appearing to Joseph and warning him about erasure from the ephod stones, which is precisely what the prose under heading 0 ('Yaakov's Image') discusses in detail.",
+      "chosen_heading": "Yaakov's Image",
+      "current_heading": "Yaakov's Image",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Physical Resistance",
+    "candidates": [
+      "Physical Resistance",
+      "Shepherd Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Joseph's physical resistance to ejaculation, his bow returning to strength, and semen emitting through his fingernails \u2014 exactly the content discussed in the 'Physical Resistance' prose section.",
+      "chosen_heading": "Physical Resistance",
+      "current_heading": "Physical Resistance",
+      "moved": false
+    }
+  }
+]

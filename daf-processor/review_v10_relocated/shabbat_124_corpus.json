@@ -1,0 +1,539 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Gezeirat Keilim Overview",
+    "candidates": [
+      "Gezeirat Keilim Overview",
+      "Kanim - Lechem Hapanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's overarching statement about all four mishnayot (rods, poles, gelostera, mortar) being taught before permission to move utensils was adopted \u2014 this is precisely the sweeping historical framework introduced in the 'Gezeirat Keilim Overview' section, not the specific discussion of the first mishnah about reeds/lechem hapanim.",
+      "chosen_heading": "Gezeirat Keilim Overview",
+      "current_heading": "Gezeirat Keilim Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Kanim - Lechem Hapanim",
+    "candidates": [
+      "Kanim - Lechem Hapanim",
+      "Maklot - Pesach Sacrifice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes golden rods (kanim) used to support showbread (lechem hapanim) and quotes the mishna about arranging/moving them not overriding Shabbat, which directly matches the prose in candidate 0 about the reeds used in the lechem hapanim.",
+      "chosen_heading": "Kanim - Lechem Hapanim",
+      "current_heading": "Kanim - Lechem Hapanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Maklot - Pesach Sacrifice",
+    "candidates": [
+      "Maklot - Pesach Sacrifice",
+      "Glustra - Door Bolt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete passage about poles (maklot) used for flaying the Korban Pesach and Rabbi Elazar's ruling about when Erev Pesach falls on Shabbat, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Maklot - Pesach Sacrifice",
+      "current_heading": "Maklot - Pesach Sacrifice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Glustra - Door Bolt",
+    "candidates": [
+      "Glustra - Door Bolt",
+      "Meducha - Mortar",
+      "Rava: Post-Gezeirah Items",
+      "Need Threshold for Reeds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna about a bolt (nagar) with a glustra/thick end, discussing Rabbi Yehoshua and Rabbi Tarfon's positions, which is precisely what the 'Glustra - Door Bolt' prose section analyzes.",
+      "chosen_heading": "Glustra - Door Bolt",
+      "current_heading": "Glustra - Door Bolt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Need Threshold for Reeds",
+    "candidates": [
+      "Meducha - Mortar",
+      "Rava: Post-Gezeirah Items",
+      "Need Threshold for Reeds",
+      "Glustra - Domain Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabba's/Rava's rejection of Rabbi Elazar's framework ('mi-mai, dilma le-olam achar hatarat keilim nishnu') and his alternative explanations for the reeds and poles, which directly matches the prose of candidate 1 ('Rava rejects Rabbi Elazar's historical framework... perhaps all four were taught after vessels were already permitted').",
+      "chosen_heading": "Rava: Post-Gezeirah Items",
+      "current_heading": "Need Threshold for Reeds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Glustra - Domain Analysis",
+    "candidates": [
+      "Need Threshold for Reeds",
+      "Glustra - Domain Analysis",
+      "Mishna: Vessels & Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the glustra/bolt case with Rabbi Yanai's explanation about the uneruvd courtyard and the dispute between Rabbi Yehoshua and Rabbi Tarfon about whether the doorway is considered interior or exterior domain, which is precisely what the 'Glustra - Domain Analysis' section's prose elaborates on.",
+      "chosen_heading": "Glustra - Domain Analysis",
+      "current_heading": "Glustra - Domain Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Mishna: Vessels & Purpose",
+    "candidates": [
+      "Mishna: Vessels & Purpose",
+      "Rava: Purpose vs Place"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava: Purpose vs Place",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is a closing ruling ('With regard to a mortar, the halakha is in accordance with Rabbi Ne\u1e25emya') that wraps up the preceding Rava/Abaye discussion about vessel movement purposes.",
+      "second_heading": "Mishna: Vessels & Purpose",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening of a new Mishna ('MISHNA: All vessels may be moved...') introducing the next self-contained unit, whose prose in candidate 0 directly discusses this exact Mishna and Rabbi Ne\u1e25emya's position within it.",
+      "current_heading": "Mishna: Vessels & Purpose",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Rava: Purpose vs Place",
+    "candidates": [
+      "Rava: Purpose vs Place",
+      "Rabbi Nechemia: Restrict",
+      "Melacha L'Heter vs. Issur",
+      "Clearing Dishes Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion about the meaning of 'l'tzorech' vs 'shelo l'tzorech,' presenting Rabba's initial definition, Rava's objection and reformulation, and Rabbi Nechemia's position \u2014 exactly the content described in heading 0's prose about Rava's explanation of purpose vs. place distinctions.",
+      "chosen_heading": "Rava: Purpose vs Place",
+      "current_heading": "Rava: Purpose vs Place",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Clearing Dishes Problem",
+    "candidates": [
+      "Rabbi Nechemia: Restrict",
+      "Melacha L'Heter vs. Issur",
+      "Clearing Dishes Problem",
+      "Chamber Pot Exception",
+      "Mortar Pestle Cases",
+      "Pessal - Cutting Board"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items deal with the same question \u2014 how to move empty dishes according to Rabba's reading of Rabbi Nechemia \u2014 and the 'Clearing Dishes Problem' prose explicitly describes both the collegial discussion (Item 1) and Abaye's direct question to Rabba (Item 2), making the current placement correct.",
+      "chosen_heading": "Clearing Dishes Problem",
+      "current_heading": "Clearing Dishes Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Pessal - Cutting Board",
+    "candidates": [
+      "Chamber Pot Exception",
+      "Mortar Pestle Cases",
+      "Pessal - Cutting Board",
+      "Log of Wood - Yom Tov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the mortar/garlic challenge and the cutting board challenge together, with both answered by 'mechama l'tzel,' and the prose under 'Mortar Pestle Cases' explicitly describes both objections and that unified answer, making it the better home than the 'Pessal' heading which covers only the second challenge.",
+      "chosen_heading": "Mortar Pestle Cases",
+      "current_heading": "Pessal - Cutting Board",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Log of Wood - Yom Tov",
+    "candidates": [
+      "Pessal - Cutting Board",
+      "Log of Wood - Yom Tov",
+      "Firewood Not a Kli"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Mishnaic ruling about propping a pot with a log of wood on Yom Tov and the Gemara's answer that it is a rabbinic decree (gezeirah Yom Tov atu Shabbat), which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Log of Wood - Yom Tov",
+      "current_heading": "Log of Wood - Yom Tov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Firewood Not a Kli",
+    "candidates": [
+      "Firewood Not a Kli",
+      "Shabbat Status on Yom Tov",
+      "Fruit Skylight Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle that the rules permitting movement of prohibited-use objects apply only where 'the status of a vessel applies,' which is precisely what the 'Firewood Not a Kli' section discusses \u2014 that firewood lacks vessel status and is therefore outright muktzah.",
+      "chosen_heading": "Firewood Not a Kli",
+      "current_heading": "Firewood Not a Kli",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Fruit Skylight Example",
+    "candidates": [
+      "Shabbat Status on Yom Tov",
+      "Fruit Skylight Example",
+      "Well Animal Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's dialectical challenge ('do we decree?') and counter-challenge ('do we not decree?') that interrogate whether Yom Tov is equated to Shabbat \u2014 exactly the content described in heading 0's prose about 'u'mi gazrinan', while heading 1's prose already summarizes both the skylight mishna and the 'ein bein' response as a completed unit, indicating the passage belongs one level up under heading 0.",
+      "chosen_heading": "Shabbat Status on Yom Tov",
+      "current_heading": "Fruit Skylight Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Well Animal Debate",
+    "candidates": [
+      "Fruit Skylight Example",
+      "Well Animal Debate",
+      "Beit Shammai Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the baraita and Gemara discussion about the animal-and-offspring-in-the-pit case (Rabbi Eliezer vs. Rabbi Yehoshua) and the subsequent qualifications, which the prose of 'Well Animal Debate' explicitly describes in detail, including the ha'aramah, the mapping caveats, and the possibility that neither position can be exported automatically \u2014 matching the current placement exactly.",
+      "chosen_heading": "Well Animal Debate",
+      "current_heading": "Well Animal Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Beit Shammai Restrictions",
+    "candidates": [
+      "Beit Shammai Restrictions",
+      "Carrying-Muktzah Link",
+      "Tiltul-Hotza'ah: Yediah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Pappa's resolution citing the Beit Shammai/Beit Hillel distinction about carrying a child, lulav, or Torah scroll on Yom Tov, which is precisely what the 'Beit Shammai Restrictions' prose describes.",
+      "chosen_heading": "Beit Shammai Restrictions",
+      "current_heading": "Beit Shammai Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Tiltul-Hotza'ah: Yediah",
+    "candidates": [
+      "Carrying-Muktzah Link",
+      "Tiltul-Hotza'ah: Yediah",
+      "Rav - Mar (Hoe) Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge asking whether Beit Shammai's strictness about hotza'ah necessarily implies strictness about tiltul, which is precisely what candidate 0 describes \u2014 the pushback on why a d'oraita carrying concern would generate a muktzah/tiltul restriction \u2014 whereas candidate 1's prose discusses the answer/resolution (that tiltul is indeed connected to hotza'ah as a fence), not the question itself.",
+      "chosen_heading": "Carrying-Muktzah Link",
+      "current_heading": "Tiltul-Hotza'ah: Yediah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Rav - Mar (Hoe) Case",
+    "candidates": [
+      "Tiltul-Hotza'ah: Yediah",
+      "Rav - Mar (Hoe) Case",
+      "Shutza Net Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav's ruling about the hoe (mar) and the inference that moving for its own use or to clear its place is permitted, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Rav - Mar (Hoe) Case",
+      "current_heading": "Rav - Mar (Hoe) Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Shutza Net Story",
+    "candidates": [
+      "Shutza Net Story",
+      "Net Protection Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Rav Kahana net story as a challenge/question, which matches heading 0's prose that frames it as 'additional evidence' and a question about the phrasing's implication, before heading 1's prose provides the resolution.",
+      "chosen_heading": "Shutza Net Story",
+      "current_heading": "Shutza Net Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Net Protection Context",
+    "candidates": [
+      "Net Protection Context",
+      "Rav Mari - Sun Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the two resolutions to the net story (removing it from before Kahana / moving from sun to shade), which is precisely what the 'Net Protection Context' prose describes.",
+      "chosen_heading": "Net Protection Context",
+      "current_heading": "Net Protection Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Rav Mari - Sun Question",
+    "candidates": [
+      "Rav Mari - Sun Question",
+      "Rava's Leniency",
+      "Gilui Da'at - Strict View",
+      "Broom Types Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire exchange from start to finish, but heading 0's prose introduces the initial question and Rava's permission, heading 1 covers the middle qualifications, and heading 2 covers the final gilui da'at conclusion \u2014 since the passage is one continuous story and must sit under a single heading, the current placement at heading 0 is the starting point of the narrative, but actually the full passage best matches heading 0 where the story begins, as the current placement already contains this item.",
+      "chosen_heading": "Rav Mari - Sun Question",
+      "current_heading": "Rav Mari - Sun Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Broom Types Distinction",
+    "candidates": [
+      "Rava's Leniency",
+      "Gilui Da'at - Strict View",
+      "Broom Types Distinction",
+      "Frond Broom Prohibition",
+      "Protection - Not Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the broom-types distinction (wool vs. date-palm fronds) that the prose of candidate 2 explicitly discusses, making it the clear home for this item.",
+      "chosen_heading": "Broom Types Distinction",
+      "current_heading": "Broom Types Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Protection - Not Purpose",
+    "candidates": [
+      "Frond Broom Prohibition",
+      "Protection - Not Purpose",
+      "Rabbi Eliezer Agreement",
+      "Mishna - Broken Parts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 asking what context Rav prohibits the frond broom and working through the possibilities \u2014 directly matches the prose of 'Frond Broom Prohibition,' which describes exactly that Gemara question about why Rav would restrict the frond broom given his general position aligning with Rava.",
+      "chosen_heading": "Frond Broom Prohibition",
+      "current_heading": "Protection - Not Purpose",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137
+    ],
+    "current_heading": "Mishna - Broken Parts",
+    "candidates": [
+      "Rabbi Eliezer Agreement",
+      "Mishna - Broken Parts",
+      "Rabbi Yehuda - Broken Pts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mishna text introducing the rule that vessel shards may be moved if they retain some utility, with the exact examples (kneading trough shards for barrel, glass shards for cruse) that candidate 1's prose explicitly describes.",
+      "chosen_heading": "Mishna - Broken Parts",
+      "current_heading": "Mishna - Broken Parts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Rabbi Yehuda - Broken Pts",
+    "candidates": [
+      "Rabbi Yehuda - Broken Pts",
+      "Breaking Time Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehuda's requirement that broken pieces must be suited for a function similar to their original use, which exactly matches the prose of heading 0 describing Rabbi Yehuda's stricter standard of functional continuity.",
+      "chosen_heading": "Rabbi Yehuda - Broken Pts",
+      "current_heading": "Rabbi Yehuda - Broken Pts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144
+    ],
+    "current_heading": "Breaking Time Debate",
+    "candidates": [
+      "Breaking Time Debate",
+      "Broken Vessels Fuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form exactly the content described in 'Breaking Time Debate' prose: the Shmuel/Rav Yehuda distinction between vessels breaking on Erev Shabbat vs. on Shabbat itself, and the ho'il u'muchanim agav avihen reasoning \u2014 all of which is explicitly summarized in that section's prose.",
+      "chosen_heading": "Breaking Time Debate",
+      "current_heading": "Breaking Time Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147,
+      148
+    ],
+    "current_heading": "Broken Vessels Fuel",
+    "candidates": [
+      "Broken Vessels Fuel",
+      "Nolad - New Creation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav Zutra's objection and its clarifying analysis about vessels broken on Yom Tov, which is precisely what the 'Broken Vessels Fuel' section's prose describes.",
+      "chosen_heading": "Broken Vessels Fuel",
+      "current_heading": "Broken Vessels Fuel",
+      "moved": false
+    }
+  }
+]

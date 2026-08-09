@@ -1,0 +1,269 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Half-Slave Case",
+    "candidates": [
+      "Kidnapping Definition",
+      "Yosef/Slave Trade",
+      "Tikkun Olam Limit",
+      "Reshut Requirement",
+      "Rabbi Yehuda Use",
+      "Own Son Debate",
+      "Half-Slave Case",
+      "Eimur Value Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This Mishnah passage introduces all three kidnapping rules (reshut requirement, own son, half-slave) and belongs under the 'Kidnapping Definition' heading that explicitly introduces this Mishnah on 85b and its transition to the kidnapping offense.",
+      "chosen_heading": "Kidnapping Definition",
+      "current_heading": "Half-Slave Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Eimur Value Debate",
+    "candidates": [
+      "Half-Slave Case",
+      "Eimur Value Debate",
+      "Eimur Logic",
+      "Pregnant Woman Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about whether the tanna kamma requires eimur and Rabbi Acha bar Rava's answer that the debate concerns exploitation worth less than a peruta, which is exactly what the 'Eimur Value Debate' prose section describes.",
+      "chosen_heading": "Eimur Value Debate",
+      "current_heading": "Eimur Value Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Pregnant Woman Case",
+    "candidates": [
+      "Eimur Logic",
+      "Pregnant Woman Case",
+      "Women/Gentile"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern Rabbi Yirmeya's dilemmas about the sleeping person and pregnant woman cases, which are precisely what the 'Pregnant Woman Case' prose discusses in detail, including the teiku resolution.",
+      "chosen_heading": "Pregnant Woman Case",
+      "current_heading": "Pregnant Woman Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Women/Gentile",
+    "candidates": [
+      "Women/Gentile",
+      "Slave Excluded",
+      "Sell to Family"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita deriving that women kidnappers and female victims are included in the kidnapping prohibition, which is precisely what the 'Women/Gentile' section prose describes in detail.",
+      "chosen_heading": "Women/Gentile",
+      "current_heading": "Women/Gentile",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Sell to Family",
+    "candidates": [
+      "Slave Excluded",
+      "Sell to Family",
+      "Boshet/Brotherhood",
+      "Half-Slave Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 9 items form a continuous discussion covering: selling to relatives (items 1-4), the dispute about abducting one's own son and the 'ki yimatzei/venimtza beyado' derivations (items 5-8), and Rava's practical ruling about teachers (item 9) \u2014 all of which are explicitly described in the 'Sell to Family' prose under heading 1.",
+      "chosen_heading": "Sell to Family",
+      "current_heading": "Sell to Family",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Half-Slave Liability",
+    "candidates": [
+      "Boshet/Brotherhood",
+      "Half-Slave Liability",
+      "Two Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items discuss the boshet/brotherhood debate (Rabbi Yehuda vs. Rabbanan on 'achva') and how it feeds into the kidnapping hermeneutics \u2014 exactly the content described in the 'Boshet/Brotherhood' prose, which covers both the boshet exclusion and the mi'ut achar mi'ut reasoning for kidnapping.",
+      "chosen_heading": "Boshet/Brotherhood",
+      "current_heading": "Half-Slave Liability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Two Sources",
+    "candidates": [
+      "Half-Slave Liability",
+      "Two Sources",
+      "Lo Tignov Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of where the prohibition against kidnapping is derived, citing Rabbi Yoshiya and Rabbi Yo\u1e25anan, and resolving that they identify two separate prohibitions \u2014 exactly what the 'Two Sources' prose discusses.",
+      "chosen_heading": "Two Sources",
+      "current_heading": "Two Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Lo Tignov Context",
+    "candidates": [
+      "Lo Tignov Context",
+      "Lo Tignovu Context",
+      "Chizkiyah/Yochanan",
+      "Ben Sorer Moreh",
+      "Lashes Acceptance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both baraitot together establish the contextual distinction between 'lo tignov' (kidnapping, Ten Commandments) and 'lo tignovu' (property theft, Leviticus), which is precisely what the 'Lo Tignov Context' prose describes, and item 2 belongs there too since it is the complementary second baraita that completes the same hermeneutical argument (the 'Lo Tignovu Context' heading's prose describes it as 'a second baraita' that is the 'complementary point', but the current placement under heading 0 covers both baraitot as a unit).",
+      "chosen_heading": "Lo Tignov Context",
+      "current_heading": "Lo Tignov Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Lashes Acceptance",
+    "candidates": [
+      "Lo Tignovu Context",
+      "Chizkiyah/Yochanan",
+      "Ben Sorer Moreh",
+      "Lashes Acceptance",
+      "Separate Acts",
+      "Unified Crime",
+      "Abaye Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 9 items constitute the continuous Chizkiyah/Rabbi Yochanan dispute about eidei gneivah ve'eidei mechira who are rendered zomemim, including the objections, resolutions, and ben sorer u'moreh comparisons \u2014 exactly the content described in candidate 1's prose about these two opinions and their underlying reasoning.",
+      "chosen_heading": "Chizkiyah/Yochanan",
+      "current_heading": "Lashes Acceptance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Abaye Summary",
+    "candidates": [
+      "Separate Acts",
+      "Unified Crime",
+      "Abaye Summary",
+      "Rav Assi Position",
+      "After-Fact Combine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abaye's summary statement about agreements and disputes in the ben sorer u'moreh case, which is precisely what the 'Abaye Summary' section prose describes and analyzes.",
+      "chosen_heading": "Abaye Summary",
+      "current_heading": "Abaye Summary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "current_heading": "After-Fact Combine",
+    "candidates": [
+      "Rav Assi Position",
+      "After-Fact Combine",
+      "Remiza/Signals"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rav Assi Position",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-3 discuss the ben sorer u'moreh concessions (initial/final witnesses and the disputed two-pair case), which serve as the contextual setup discussed under the Rav Assi Position section.",
+      "second_heading": "After-Fact Combine",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 present Rav Asi's ruling followed by Rav Yosef/Abaye's debate and the resolution about subsequently-arriving theft witnesses, which is precisely what the 'After-Fact Combine' prose describes.",
+      "current_heading": "After-Fact Combine",
+      "moved": true
+    }
+  }
+]

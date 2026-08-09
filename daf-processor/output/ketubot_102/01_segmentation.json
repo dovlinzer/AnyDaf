@@ -49,8 +49,8 @@
           "timestamp": "10:08"
         }
       ],
-      "sefaria_index": 19,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara on Oral Admissions, Written Documents, and the Power of Verbal Obligations",
@@ -306,5 +306,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "39:50",
+  "amud_b_micro_title": "Yochanan vs Resh Lakish",
+  "shiur_start_daf": 102,
+  "shiur_start_amud": "a"
 }

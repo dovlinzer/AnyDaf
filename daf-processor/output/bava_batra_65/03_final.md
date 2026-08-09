@@ -1,12 +1,9 @@
-# Bava Batra 65 — Daf Yomi Shiur
-
+[DAF:65a]
 ## House Sale Rules
 
-### Furnished Question
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הַמּוֹכֵר אֶת הַבַּיִת – מָכַר אֶת הַדֶּלֶת, אֲבָל לֹא אֶת הַמַּפְתֵּחַ; מָכַר אֶת הַמַּכְתֶּשֶׁת קְבוּעָה, אֲבָל לֹא אֶת הַמִּיטַּלְטֶלֶת; מָכַר אֶת הָאִיצְטְרוֹבֵיל, אֲבָל לֹא אֶת הַקֶּלֶת; וְלֹא אֶת הַתַּנּוּר וְלֹא אֶת הַכִּירַיִם.
->
-> **Translation:** MISHNA: One **who sells a house has,** as part of the sale, **sold** also **the door, but not the key. He has sold the mortar that is fixed** in the ground, **but not the portable** one. **He has sold the** immovable **lower millstone [*ha'itzterobil*], but not the** portable **upper stone [*hakelet*],** the funnel into which one pours the grain to be ground. **And** he has sold **neither the oven nor the double stove,** as they are deemed movable.
+
+### Furnished Question
 
 The daf opens with a question that will strike any modern reader as immediately familiar: when one sells a house, what exactly is included in the sale? Is the house sold furnished or unfurnished? In our own day, this question arises more commonly in the context of rental, but it applies equally to a sale. If I sell you my house, may I announce that I am taking the refrigerator and the stove with me? The *mishna* on 65a takes up precisely this issue.
 
@@ -28,10 +25,6 @@ The *mishna* concludes this sequence: *velo et hatanur velo et hakirayim* — no
 
 ### All Contents Rule
 
-> **Hebrew/Aramaic:** בִּזְמַן שֶׁאָמַר לוֹ: "הוּא וְכׇל מַה שֶׁבְּתוֹכוֹ" – הֲרֵי כּוּלָּן מְכוּרִין.
->
-> **Translation:** **When** the seller **says to** the buyer: I am selling you **it, and everything that is in it, all these** components **are sold** as part of the sale of the house.
-
 The *mishna* then introduces a qualification: *bizman she'amar lo hi v'khol mah shebetocha*, if the deed of sale stated "it and all that is within it," *harei kulan mekhirin*, they are all sold. One might assume this phrase simply means everything in the house, but that reading is too broad and too narrow at once. It does not mean that a wallet accidentally left in the bedroom is thereby sold; the phrase "all its contents" carries a specific halachic meaning limited to what might be called standard furnishings — the types of items that are characteristically associated with the functioning of a house.
 
 The *Rashbam* defines the category precisely. He writes: *kol hanach tashmishin hamitaltelin* — all those usages that are movable but are considered the standard usages of the home. *Aval she'ar minei tashmishtei lo mizdabnei* — other types of furnishings are not sold. Even if the seller explicitly says "everything within it," *shelo ribah bilshon ze ela tashmishin hameyuchadim labayit ze* — he has enlarged the sale only to include things whose usage is particular to this house. The *Rashbam*'s test for identifying these items is striking: *she'einan regilim lehash'ilam mipnei kveidan* — things that one would not ordinarily lend out, because they are too heavy or otherwise kept permanently in the house. These are the items that are considered as going with the house when the inclusive phrase is used.
@@ -42,17 +35,15 @@ To summarize the *mishna*'s framework: when no inclusive phrase is used, only at
 
 ### Rabbi Meir Dispute
 
-> **Hebrew/Aramaic:** גְּמָ׳ לֵימָא מַתְנִיתִין דְּלָא כְּרַבִּי מֵאִיר – דְּאִי רַבִּי מֵאִיר, הָא אָמַר: מָכַר אֶת הַכֶּרֶם – מָכַר תַּשְׁמִישֵׁי כֶרֶם!
->
-> **Translation:** GEMARA: The Gemara suggests: **Let us say that the mishna** that distinguishes between different types of household items **is not in accordance with** the opinion of **Rabbi Meir. As if** it is in accordance with the opinion of **Rabbi Meir, doesn't he say** in a *baraita* (78b): If **one sold a vineyard, he has sold** all of **the utensils of the vineyard,** including the movable ones? The same should be true for the sale of a house.
+> **Hebrew/Aramaic:** גְּמָ׳ לֵימָא מַתְנִיתִין דְּלָא כְּרַבִּי מֵאִיר – דְּאִי רַבִּי מֵאִיר, הָא אָמַר: מָכַר אֶת הַכֶּרֶם – מָכַר תַּשְׁמִישֵׁי כֶרֶם!
+> **Translation:** GEMARA: The Gemara suggests: **Let us say that the mishna** that distinguishes between different types of household items **is not in accordance with** the opinion of **Rabbi Meir. As if** it is in accordance with the opinion of **Rabbi Meir, doesn’t he say** in a *baraita* (78b): If **one sold a vineyard, he has sold** all of **the utensils of the vineyard,** including the movable ones? The same should be true for the sale of a house.
+
+> **Hebrew/Aramaic:** אֲפִילּוּ תֵּימָא רַבִּי מֵאִיר – הָתָם קְבִיעַ, הָכָא לָא קְבִיעַ. וְהָא מַפְתֵּחַ דּוּמְיָא דְּדֶלֶת קָתָנֵי – מָה דֶּלֶת דִּקְבִיעָא, אַף מַפְתֵּחַ דִּקְבִיעַ! אֶלָּא מְחַוַּורְתָּא, מַתְנִיתִין דְּלָא כְּרַבִּי מֵאִיר.
+> **Translation:** The Gemara answers: **You** may **even say** that the mishna was taught in accordance with the opinion of **Rabbi Meir,** as a distinction can be made between the two cases. **There,** in the case of a vineyard, the reference is to utensils that are **fixed** in the vineyard and never removed from it, and therefore they are included in the sale, while **here,** in the case of a house, the mishna is referring to utensils that are **not fixed** in the house, and therefore they are not part of the sale. The Gemara objects: **But doesn’t** the mishna **teach** the *halakha* governing **a key in similar fashion to** the *halakha* governing **the door,** indicating that **just as a door** is **fixed** in the house, **so too, a key** is **fixed** in the house? **Rather, it is clear** that **the mishna is not in accordance with** the opinion of **Rabbi Meir.**
 
 The *gemara* opens a new line of inquiry: *leima matnitin d'lo k'Rabbi Meir* — let us say that our *mishna*, which draws the line at physical attachment rather than at standard functional association, does not follow the opinion of Rabbi Meir.
 
 The argument runs as follows. Rabbi Meir holds that *machar et hakarem machar tashmishei karem* — one who sells a vineyard has sold the implements of the vineyard, including the frames and stakes that support the vines, even if they are not physically attached to the ground. The rationale is that these items are so standardly associated with the vineyard that they are considered part of what one buys when one buys the vineyard. If so, should not the same apply to a house? The standard implements of a house, even if not physically attached, ought to go with the house. Our *mishna*, however, appears to say no — if it is not physically attached, it is not sold.
-
-> **Hebrew/Aramaic:** אֲפִילּוּ תֵּימָא רַבִּי מֵאִיר – הָתָם קְבִיעַ, הָכָא לָא קְבִיעַ. וְהָא מַפְתֵּחַ דּוּמְיָא דְּדֶלֶת קָתָנֵי – מָה דֶּלֶת דִּקְבִיעָא, אַף מַפְתֵּחַ דִּקְבִיעַ! אֶלָּא מְחַוַּורְתָּא, מַתְנִיתִין דְּלָא כְּרַבִּי מֵאִיר.
->
-> **Translation:** The Gemara answers: **You** may **even say** that the mishna was taught in accordance with the opinion of **Rabbi Meir,** as a distinction can be made between the two cases. **There,** in the case of a vineyard, the reference is to utensils that are **fixed** in the vineyard and never removed from it, and therefore they are included in the sale, while **here,** in the case of a house, the mishna is referring to utensils that are **not fixed** in the house, and therefore they are not part of the sale. The Gemara objects: **But doesn't** the mishna **teach** the *halakha* governing **a key in similar fashion to** the *halakha* governing **the door,** indicating that **just as a door** is **fixed** in the house, **so too, a key** is **fixed** in the house? **Rather, it is clear** that **the mishna is not in accordance with** the opinion of **Rabbi Meir.**
 
 The *gemara* attempts to defend Rabbi Meir: *afilu teima Rabbi Meir* — one might still say our *mishna* accords with Rabbi Meir. *Hatam kvia, hacha lo kvia* — there, by the vineyard, even the unattached items are in a sense permanently fixed; as the *Rashbam* explains, the frames and stakes are never removed from the vineyard and relocated elsewhere, so they are considered as if permanently associated with the structure. Whereas in our *mishna*, the mortar that is unattached, the *kelet*, the oven — these are things that, even if conceptually associated with the house, are sometimes moved. So Rabbi Meir might still agree that they would not be sold.
 
@@ -60,11 +51,14 @@ The *gemara* then challenges this defense by pointing to the *mafteach*. *V'hama
 
 *Ela makhvarta — matnisin d'lo k'Rebbe Meir* — so the conclusion stands: our *mishna* does not accord with Rabbi Meir. In our *mishna*, the sole criterion is physical attachment, regardless of how functionally fixed an item's association with the house may be. This is actually a cleaner rule: it avoids the conceptual difficulty of determining whether something has a sufficiently fixed association — a determination that generates all the debates about kitchen tables and sofas — and replaces it with a simple binary: is it nailed down or not?
 
+[DAF:65b]
 ### Rabbanan Items
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הַמּוֹכֵר אֶת הַבַּיִת – מָכַר אֶת הַדֶּלֶת וְאֶת הַנֶּגֶר וְאֶת הַמַּנְעוּל, אֲבָל לֹא אֶת הַמַּפְתֵּחַ; מָכַר אֶת הַמַּכְתֶּשֶׁת הַחֲקוּקָה, אֲבָל לֹא אֶת הַקְּבוּעָה; מָכַר הָאִיצְטְרוֹבֵיל, אֲבָל לֹא אֶת הַקֶּלֶת, לֹא אֶת הַתַּנּוּר, וְלֹא אֶת הַכִּירַיִם, וְלֹא אֶת הָרֵיחַיִם. רַבִּי אֱלִיעֶזֶר אוֹמֵר: כׇּל הַמְחוּבָּר לַקַּרְקַע – הֲרֵי הוּא כַּקַּרְקַע.
->
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הַמּוֹכֵר אֶת הַבַּיִת – מָכַר אֶת הַדֶּלֶת וְאֶת הַנֶּגֶר וְאֶת הַמַּנְעוּל, אֲבָל לֹא אֶת הַמַּפְתֵּחַ; מָכַר אֶת הַמַּכְתֶּשֶׁת הַחֲקוּקָה, אֲבָל לֹא אֶת הַקְּבוּעָה; מָכַר הָאִיצְטְרוֹבֵיל, אֲבָל לֹא אֶת הַקֶּלֶת, לֹא אֶת הַתַּנּוּר, וְלֹא אֶת הַכִּירַיִם, וְלֹא אֶת הָרֵיחַיִם. רַבִּי אֱלִיעֶזֶר אוֹמֵר: כׇּל הַמְחוּבָּר לַקַּרְקַע – הֲרֵי הוּא כַּקַּרְקַע.
 > **Translation:** **The Sages taught** in a *baraita* (*Tosefta* 3:1): One **who sells a house has sold the door and the door bolt and the lock, but** he has **not** sold **the key. He has sold the mortar that was hollowed out** of the ground **but not** the mortar **that was fixed** to the ground after its construction. **He has sold the** immovable **lower millstone but not the** portable **upper stone.** And he has sold **neither the oven, nor the double stove, nor the hand mill. Rabbi Eliezer says:** The principle is that **any** item **attached to the ground is** considered **like the ground** and included in the sale.
+
+> **Hebrew/Aramaic:** בִּזְמַן שֶׁאָמַר לוֹ: ״הוּא וְכׇל מַה שֶּׁבְּתוֹכוֹ״ – הֲרֵי כּוּלָּן מְכוּרִין. בֵּין כָּךְ וּבֵין כָּךְ – לֹא מָכַר לֹא אֶת הַבּוֹר, וְלֹא אֶת הַדּוּת, וְלֹא אֶת הַיָּצִיעַ.
+> **Translation:** **When** the seller **says to** the buyer: I am selling you **it and everything that is in it, all these** components **are sold** along with the house. **Both** in **this** case **and** in **that** case **he did not sell the pit or the cistern or the gallery,** as they are considered separate entities that are not at all part of the house.
 
 A *baraita* is then cited that refines the details. *Tanu rabanan: hamocher et habayit mocher et hadeles v'et hanagar v'et hamanu'l* — one who sells a house has sold the door, the *nagar*, and the *manu'l*. The *Rashbam* explains that the *nagar* is a large bolt that runs across the entire width of the door, fixed into the wall itself, rather than the small gap between door and frame. The *manu'l* is the actual lock. Both of these are attached to the structure and therefore go with the house. *Aval lo et hamafteach* — but not the key or bolt that is removable.
 
@@ -76,11 +70,9 @@ This distinction between *chakuka* and *kevua* leads directly into the conceptua
 
 ## Attached Vessels
 
-### Pipe Order Q
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: צִינּוֹר שֶׁחֲקָקוֹ וּלְבַסּוֹף קְבָעוֹ – פּוֹסֵל אֶת הַמִּקְוֶה. קְבָעוֹ וּלְבַסּוֹף חֲקָקוֹ – אֵינוֹ פּוֹסֵל אֶת הַמִּקְוֶה.
->
-> **Translation:** **The Sages taught** in a *baraita*: **A duct that one hollowed out and afterward attached** to the ground or to a building **invalidates a ritual bath** through the water it channels to the bath. The water in a ritual bath must be gathered directly from rain or a stream, not drawn with vessels. If one hollowed out a log and used it to channel water into the bath, this is considered drawn water, as he used a vessel. By contrast, if **one attached it** first **and afterward hollowed it out, it does not invalidate the ritual bath.** Before the log was hollowed out, it was already attached to and considered part of the ground, and therefore the act of hollowing it out does not turn it into a vessel.
+
+### Pipe Order Q
 
 The conceptual question raised at the close of the previous section — how to classify a vessel that was later affixed to the ground — now takes center stage, and the context shifts from the law of sales to the laws of *mikvah*. A *baraita* addresses the case of a *tzinor*, a pipe: *tzinor shechakako u'v'sof kava'o* — a pipe that was first carved out and then fixed into the ground, used to channel rainwater into a *mikvah*. The question is whether such a pipe invalidates the *mikvah*.
 
@@ -94,11 +86,11 @@ The problematic case is a pipe carved to include what we would today call a trap
 
 ### Carved Then Fixed
 
-The *baraita* teaches: *tzinor shechakako u'v'sof kava'o* — a pipe that was first carved into a vessel-form (including the trap that gives it *beit kibul* status) and then fixed into the ground: *posel et hamikvah* — this invalidates the *mikvah*. Even though the pipe is now physically attached to the ground, because it was already a *kli* at the time of attachment, it retains that status and the water passing through it is considered drawn water.
+*Tzinor shechakako u'v'sof kava'o* — a pipe that was first carved into a vessel-form (including the trap that gives it *beit kibul* status) and then fixed into the ground: *posel et hamikvah* — this invalidates the *mikvah*. Even though the pipe is now physically attached to the ground, because it was already a *kli* at the time of attachment, it retains that status and the water passing through it is considered drawn water.
 
 ### Fixed Then Carved
 
-The *baraita* continues: *kava'o u'v'sof chakako* — a pipe that was first fixed into the ground and only then carved out into vessel-form: *eino posel et hamikvah* — this does not invalidate the *mikvah*. Here, the piece of wood or other material was attached to the ground before it possessed the feature that would make it a *kli*. Since what is *mechubbar lekarka*, attached to the ground, cannot halachically become a vessel — attachment to the ground and vessel-status are mutually exclusive categories — the carving of the trap after attachment does not create a *kli*. The trap was made while the pipe was already part of the ground, and so it never crossed the threshold into *kli* status.
+*Kava'o u'v'sof chakako* — a pipe that was first fixed into the ground and only then carved out into vessel-form: *eino posel et hamikvah* — this does not invalidate the *mikvah*. Here, the piece of wood or other material was attached to the ground before it possessed the feature that would make it a *kli*. Since what is *mechubbar lekarka*, attached to the ground, cannot halachically become a vessel — attachment to the ground and vessel-status are mutually exclusive categories — the carving of the trap after attachment does not create a *kli*. The trap was made while the pipe was already part of the ground, and so it never crossed the threshold into *kli* status.
 
 It should be noted that everything constructed by human beings begins as separate material before being assembled. Building materials — stones mortared together to form walls — are not considered to have previously existed as *keilim* simply because they were once discrete objects; they are raw material, and no question of *kli* status ever arises. The question only becomes acute when something genuinely functioned as a vessel in its unattached state and was subsequently affixed.
 
@@ -106,21 +98,15 @@ The relevance of this principle extends well beyond *mikvah* law. One significan
 
 ### Beehive Case
 
-> **Hebrew/Aramaic:** מַנִּי? לָא רַבִּי אֱלִיעֶזֶר וְלָא רַבָּנַן.
->
-> **Translation:** The Gemara asks: **Whose** opinion is this? It appears to be **neither** the opinion of **Rabbi Eliezer, nor** that of **the Rabbis.**
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: צִינּוֹר שֶׁחֲקָקוֹ וּלְבַסּוֹף קְבָעוֹ – פּוֹסֵל אֶת הַמִּקְוֶה. קְבָעוֹ וּלְבַסּוֹף חֲקָקוֹ – אֵינוֹ פּוֹסֵל אֶת הַמִּקְוֶה. מַנִּי? לָא רַבִּי אֱלִיעֶזֶר וְלָא רַבָּנַן.
+> **Translation:** § **The Sages taught** in a *baraita*: **A duct that one hollowed out and afterward attached** to the ground or to a building **invalidates a ritual bath** through the water it channels to the bath. The water in a ritual bath must be gathered directly from rain or a stream, not drawn with vessels. If one hollowed out a log and used it to channel water into the bath, this is considered drawn water, as he used a vessel. By contrast, if **one attached it** first **and afterward hollowed it out, it does not invalidate the ritual bath.** Before the log was hollowed out, it was already attached to and considered part of the ground, and therefore the act of hollowing it out does not turn it into a vessel. The Gemara asks: **Whose** opinion is this? It appears to be **neither** the opinion of **Rabbi Eliezer, nor** that of **the Rabbis.**
 
-> **Hebrew/Aramaic:** הֵי רַבִּי אֱלִיעֶזֶר? אִילֵימָא רַבִּי אֱלִיעֶזֶר דְּבַיִת – דִּלְמָ הַיְינוּ טַעְמָא, דְּרַבִּי אֱלִיעֶזֶר סָבַר: מוֹכֵר בְּעַיִן יָפָה מוֹכֵר, וְרַבָּנַן סָבְרִי: מוֹכֵר בְּעַיִן רָעָה מוֹכֵר!
->
+> **Hebrew/Aramaic:** הֵי רַבִּי אֱלִיעֶזֶר? אִילֵימָא רַבִּי אֱלִיעֶזֶר דְּבַיִת – דִּלְמָא הַיְינוּ טַעְמָא, דְּרַבִּי אֱלִיעֶזֶר סָבַר: מוֹכֵר בְּעַיִן יָפָה מוֹכֵר, וְרַבָּנַן סָבְרִי: מוֹכֵר בְּעַיִן רָעָה מוֹכֵר!
 > **Translation:** The Gemara clarifies the question: To **which** opinion of **Rabbi Eliezer** is this referring? **If we say** it is referring to the opinion of **Rabbi Eliezer** in the aforementioned *baraita* **with regard to** the sale of **a house,** that any item attached to the ground is considered part of the house and is sold along with it, there is a difficulty. As **perhaps this is the reasoning** employed in the dispute with regard to the sale of a house, **that Rabbi Eliezer holds** that **one who sells, sells generously** anything that is attached to the ground, **while the Rabbis hold** that **one who sells, sells sparingly,** selling only utensils that serve an intrinsic function in the house and nothing else, even if they are attached to the ground. But this teaches us nothing about the opinions of Rabbi Eliezer and the Rabbis with respect to a ritual bath.
 
 The *gemara* asks: who is the author of this *baraita* that distinguishes between *chakako v'achar kach kava'o* and *kava'o v'achar kach chakako*? The anonymous voice of the *gemara* states that it is neither Rabbi Eliezer nor the *rabbanan* — and proceeds to identify the relevant opinions by working through candidate sources.
 
 The first candidate is Rabbi Eliezer as encountered in the preceding *baraita* about the sale of a house, where Rabbi Eliezer rules that once the mortar has been affixed to the ground, it is considered part of the house. If Rabbi Eliezer holds that attachment transforms a previously independent vessel into part of the ground, he might seem to support the *baraita*'s ruling that *chakako v'achar kach kava'o* retains *kli* status — for he would say that affixing it removes that status. But the *gemara* objects: *dilma hainu ta'ama d'Rabbi Eliezer savar mocher b'ayin yafa mocher* — perhaps Rabbi Eliezer's ruling in the context of sales reflects only a principle about how we assess a seller's generosity of intent, the question of *ayin yafa* versus *ayin ra'a*, not any objective halachic determination about the nature of attached objects. What is included in a sale is a question of presumed intent, not necessarily a window into the categorical status of the object for other halachic purposes. Consequently, one cannot draw general conclusions from his ruling in the sales context.
-
-> **Hebrew/Aramaic:** וְאֶלָּא רַבִּי אֱלִיעֶזֶר דְּכַוֶּורֶת דְּבוֹרִים? דִּתְנַן: כַּוֶּורֶת דְּבוֹרִים – רַבִּי אֱלִיעֶזֶר אוֹמֵר: הֲרֵי הִיא כַּקַּרְקַע – וְכוֹתְבִין עָלֶיהָ פְּרוֹזְבּוּל,
->
-> **Translation:** **But rather,** the reference must be to the opinion of **Rabbi Eliezer concerning a beehive. As we learned** in a mishna (*Shevi'it* 10:7): With regard to **a beehive** attached to the ground by clay, **Rabbi Eliezer says: It is like land, and** therefore **one may write a document that prevents the Sabbatical Year from canceling an outstanding debt [*prosbol*]** based **upon it.** Such a document cannot be written unless the borrower owns some land, and a beehive is considered like land for this purpose.
 
 The *gemara* therefore turns to a second, more directly relevant source: *Rabbi Eliezer d'keveret* — Rabbi Eliezer's ruling about the beehive.
 
@@ -128,15 +114,23 @@ The *gemara* therefore turns to a second, more directly relevant source: *Rabbi 
 
 The *mishna* in the relevant tractate addresses the case of a *keveret devorim*, a beehive, which — as the *Rashbam* and *Tosafot* explain — was originally a separate vessel that was subsequently cemented and affixed to the ground. Rabbi Eliezer rules: *harei hu k'karka* — it is considered like the ground itself.
 
-### Beehive Tests
+> **Hebrew/Aramaic:** וְאֶלָּא רַבִּי אֱלִיעֶזֶר דְּכַוֶּורֶת דְּבוֹרִים? דִּתְנַן: כַּוֶּורֶת דְּבוֹרִים – רַבִּי אֱלִיעֶזֶר אוֹמֵר: הֲרֵי הִיא כַּקַּרְקַע – וְכוֹתְבִין עָלֶיהָ פְּרוֹזְבּוּל,
+> **Translation:** **But rather,** the reference must be to the opinion of **Rabbi Eliezer concerning a beehive. As we learned** in a mishna (*Shevi’it* 10:7): With regard to **a beehive** attached to the ground by clay, **Rabbi Eliezer says: It is like land, and** therefore **one may write a document that prevents the Sabbatical Year from canceling an outstanding debt [*prosbol*]** based **upon it.** Such a document cannot be written unless the borrower owns some land, and a beehive is considered like land for this purpose.
 
-> **Hebrew/Aramaic:** וְאֵינָהּ מְקַבֶּלֶת טוּמְאָה בִּמְקוֹמָהּ, וְהָרוֹדֶה מִמֶּנָּה בְּשַׁבָּת – חַיָּיב חַטָּאת.
->
+> **Hebrew/Aramaic:** וְאֵינָהּ מְקַבֶּלֶת טוּמְאָה בִּמְקוֹמָהּ, וְהָרוֹדֶה מִמֶּנָּה בְּשַׁבָּת – חַיָּיב חַטָּאת.
 > **Translation:** **And** such a beehive **is not susceptible to ritual impurity** as long as it is fixed **in its place. And one who removes** honey **from it on Shabbat** is **liable** to bring **a sin-offering,** as he is likened to one who harvests produce attached to the ground.
 
-> **Hebrew/Aramaic:** וַחֲכָמִים אוֹמְרִים: אֵינָהּ כַּקַּרְקַע – וְאֵין כּוֹתְבִין עָלֶיהָ פְּרוֹזְבּוּל, וּמְקַבֶּלֶת טוּמְאָה בִּמְקוֹמָהּ, וְהָרוֹדֶה מִמֶּנָּה בְּשַׁבָּת – פָּטוּר.
->
+> **Hebrew/Aramaic:** וַחֲכָמִים אוֹמְרִים: אֵינָהּ כַּקַּרְקַע – וְאֵין כּוֹתְבִין עָלֶיהָ פְּרוֹזְבּוּל, וּמְקַבֶּלֶת טוּמְאָה בִּמְקוֹמָהּ, וְהָרוֹדֶה מִמֶּנָּה בְּשַׁבָּת – פָּטוּר.
 > **Translation:** **But the Rabbis say:** Such a beehive **is not like land, and** therefore **one may not write a *prosbol*** based **upon it, and it is susceptible to ritual impurity** even when it is fixed **in its place, and one who removes** honey **from it on Shabbat** is **exempt** from bringing a sin-offering. This mishna suggests that Rabbi Eliezer holds that a vessel that was affixed to the ground is considered like land for all purposes. This contradicts the *baraita* that states that if one hollowed out a pipe and then affixed it to the ground, it is still considered a vessel, and water flowing through it is considered drawn water that invalidates a ritual bath. This indicates that the *baraita* was not taught in accordance with the opinion of Rabbi Eliezer.
+
+> **Hebrew/Aramaic:** הָתָם – כִּדְאָמַר רַבִּי אֶלְעָזָר טַעְמָא, דְּאָמַר רַבִּי אֶלְעָזָר: מַאי טַעְמָא דְּרַבִּי אֱלִיעֶזֶר? דִּכְתִיב: ״וַיִּטְבֹּל אוֹתָהּ בְּיַעְרַת הַדְּבָשׁ״;
+> **Translation:** The Gemara rejects this opinion, stating that **there,** in the mishna, Rabbi Eliezer treats the beehive like land for **the reason that Rabbi Elazar stated,** and not because he holds that all vessels that are affixed to the ground are considered like land. **As Rabbi Elazar stated: What is the reasoning for** the statement **of Rabbi Eliezer** with regard to one who removes honey from a beehive? His rationale is **as it is written:** “And he put forth the end of the rod that was in his hand **and dipped it in the honeycomb [*ya’arat hadevash*]”** (I Samuel 14:27).
+
+> **Hebrew/Aramaic:** מָה יַעַר – הַתּוֹלֵשׁ מִמֶּנּוּ בְּשַׁבָּת חַיָּיב חַטָּאת, אַף דְּבַשׁ – הָרוֹדֶה מִמֶּנּוּ בְּשַׁבָּת חַיָּיב חַטָּאת!
+> **Translation:** Rabbi Eliezer understands that since the Hebrew words used here for honeycomb can also mean honey forest, the verse comes to teach that **just as** with regard to **a forest, one who picks** anything from a tree **on Shabbat** is **liable** to bring **a sin-offering, so too,** with regard to a beehive containing **honey, one who removes** honey **from it on Shabbat** is **liable** to bring **a sin-offering,** as the beehive is treated like land. Consequently, Rabbi Eliezer relies here on a special derivation, which does not necessarily apply to other vessels. Therefore, nothing can be learned from this about Rabbi Eliezer’s opinion with regard to the pipe in the *baraita*.
+
+### Beehive Tests
+
 
 This ruling has consequences across multiple halachic categories, and the *mishna* traces them all, which is part of what makes this a conceptually important source — the breadth of application signals that we are dealing with a fundamental categorical determination, not a narrow ruling.
 
@@ -148,25 +142,19 @@ Third, and most strikingly, in the domain of *Shabbat*: *v'harodeh mimenah b'Sha
 
 ### Chachamim View
 
-The *Chachamim* disagree across all these categories. The beehive, in their view, is *eino k'karka* — not considered like ground. Accordingly: one may not write a *pruzbul* on its basis; it is susceptible to *tumah* and is considered a vessel; and one who removes honey from it on *Shabbat* is *patur* — exempt from the *chatas* liability.
+*V'chachamim omrim* — the *Chachamim* disagree across all these categories. The beehive, in their view, is *eino k'karka* — not considered like ground. Accordingly: one may not write a *pruzbul* on its basis; it is susceptible to *tumah* and is considered a vessel; and one who removes honey from it on *Shabbat* is *patur* — exempt from the *chatas* liability.
 
-The fact that the dispute cuts across sales law, *pruzbul*, *tumah*, and *Shabbat* confirms that Rabbi Eliezer and the *Chachamim* are not disagreeing about a narrow technical point but about the fundamental categorical question: does an object that was a *kli* and was subsequently attached to the ground retain its *kli* status, or does attachment transform it into ground?
+The fact that the dispute cuts across sales law, *pruzbul*, *tumah*, and *Shabbat* confirms that Rabbi Eliezer and the *Chachamim* are not disagreeing about a narrow technical point but about the fundamental categorical question: does an object that was a *kli* and was subsequently attached to the ground retain its *kli* status, or does attachment transform it into ground? To take one concrete illustration of what hangs on this: if you wished to sell the honey stored within a hive ruled to be *karka*, the question would arise whether the buyer must perform a *hagbahah* — a formal act of lifting — to acquire it, or whether the transaction could instead be completed through *kesef* or *shtar*, as befits the acquisition of real property. The categorical determination is not merely theoretical; it restructures the transactional mechanics around the honey itself. That the *gemara* will nonetheless resist treating the beehive case as a general proof is a question taken up in what follows.
 
 ### Shelf Dispute
 
-> **Hebrew/Aramaic:** הָתָם – כִּדְאָמַר רַבִּי אֶלְעָזָר טַעְמָא, דְּאָמַר רַבִּי אֶלְעָזָר: מַאי טַעְמָא דְּרַבִּי אֱלִיעֶזֶר? דִּכְתִיב: "וַיִּטְבֹּל אוֹתָהּ בְּיַעְרַת הַדְּבָשׁ";
->
-> **Translation:** The Gemara rejects this opinion, stating that **there,** in the mishna, Rabbi Eliezer treats the beehive like land for **the reason that Rabbi Elazar stated,** and not because he holds that all vessels that are affixed to the ground are considered like land. **As Rabbi Elazar stated: What is the reasoning for** the statement **of Rabbi Eliezer** with regard to one who removes honey from a beehive? His rationale is **as it is written:** "And he put forth the end of the rod that was in his hand **and dipped it in the honeycomb [*ya'arat hadevash*]"** (I Samuel 14:27).
+> **Hebrew/Aramaic:** אֶלָּא רַבִּי אֱלִיעֶזֶר דְּדַף. דִּתְנַן: דַּף שֶׁל נַחְתּוֹמִין שֶׁקְּבָעוֹ בַּכּוֹתֶל – רַבִּי אֱלִיעֶזֶר מְטַהֵר, וַחֲכָמִים מְטַמְּאִין.
+> **Translation:** **Rather,** the reference with regard to the hollowed-out duct must be to the opinion of **Rabbi Eliezer concerning** a baker’s **board** on which he kneads the dough, **as we learned** in a mishna (*Kelim* 15:2): With regard to **a baker’s board [*daf shel naḥtomin*] that was affixed to the wall, Rabbi Eliezer renders** it **not susceptible to ritual impurity, while the Rabbis render** it **susceptible to ritual impurity.** This seems to indicate that, according to Rabbi Eliezer, anything that is affixed to the ground or to something else that is affixed to the ground is treated like land, and therefore it cannot become ritually impure.
 
-> **Hebrew/Aramaic:** מָה יַעַר – הַתּוֹלֵשׁ מִמֶּנּוּ בְּשַׁבָּת חַיָּיב חַטָּאת, אַף דְּבַשׁ – הָרוֹדֶה מִמֶּנּוּ בְּשַׁבָּת חַיָּיב חַטָּאת!
->
-> **Translation:** Rabbi Eliezer understands that since the Hebrew words used here for honeycomb can also mean honey forest, the verse comes to teach that **just as** with regard to **a forest, one who picks** anything from a tree **on Shabbat** is **liable** to bring **a sin-offering, so too,** with regard to a beehive containing **honey, one who removes** honey **from it on Shabbat** is **liable** to bring **a sin-offering,** as the beehive is treated like land. Consequently, Rabbi Eliezer relies here on a special derivation, which does not necessarily apply to other vessels. Therefore, nothing can be learned from this about Rabbi Eliezer's opinion with regard to the pipe in the *baraita*.
+> **Hebrew/Aramaic:** מַנִּי? אִי רַבִּי אֱלִיעֶזֶר – אֲפִילּוּ חֲקָקוֹ וּלְבַסּוֹף קְבָעוֹ! אִי רַבָּנַן – אֲפִילּוּ קְבָעוֹ וּלְבַסּוֹף חֲקָקוֹ נָמֵי!
+> **Translation:** Having concluded that this is the dispute between Rabbi Eliezer and the Rabbis that was referred to previously, the Gemara repeats the question raised earlier about the ruling in the *baraita* with regard to a duct: **Whose** opinion is it? It appears to be neither that of Rabbi Eliezer nor that of the Rabbis. As **if** it is the opinion of **Rabbi Eliezer,** then **even if one hollowed out** a duct **and afterward he fixed it** to the ground, water flowing through it should not be considered drawn water that invalidates a ritual bath, as according to Rabbi Eliezer, a baker’s board that was first a vessel, but then became fixed in a wall, is treated like land. And **if** it is the opinion of **the Rabbis,** then **even if he** first **fixed** the duct to the ground **and** only **afterward he hollowed it out,** the duct should **also** be treated like a vessel, and the water flowing through it should be considered drawn water, as the Rabbis do not differentiate with regard to the stage at which the baker’s board was affixed to the wall.
 
 The *gemara* now suggests that the pipe *baraita* might be attributed to Rabbi Eliezer as understood from the beehive case. But the *gemara* objects: perhaps that too is not generalizable beyond the beehive, because of a special *pasuk* involving Yehonatan. The verse in *Shmuel* describes Yehonatan dipping his staff into *ya'arat hadvash*, which — while contextually meaning a hive of honey — uses the word for forest (*ya'ar*), lending the honey something of the quality of forest produce, i.e., something attached to the ground. The *Chachamim*'s counterposition would then be specifically about the honey in the naturally formed hive, with the debate centering on whether honey stored in a hive on a tree is considered as attached to the tree as a fruit is attached to a branch. This is a narrower dispute than it might appear, and *Tosafot* notes that at this stage we may be shifting from a cemented beehive to a naturally formed one — a different case, not directly applicable to the pipe question.
-
-> **Hebrew/Aramaic:** אֶלָּא רַבִּי אֱלִיעֶזֶר דְּדַף. דִּתְנַן: דַּף שֶׁל נַחְתּוֹמִין שֶׁקְּבָעוֹ בַּכּוֹתֶל – רַבִּי אֱלִיעֶזֶר מְטַהֵר, וַחֲכָמִים מְטַמְּאִין.
->
-> **Translation:** **Rather,** the reference with regard to the hollowed-out duct must be to the opinion of **Rabbi Eliezer concerning** a baker's **board** on which he kneads the dough, **as we learned** in a mishna (*Kelim* 15:2): With regard to **a baker's board [*daf shel naḥtomin*] that was affixed to the wall, Rabbi Eliezer renders** it **not susceptible to ritual impurity, while the Rabbis render** it **susceptible to ritual impurity.** This seems to indicate that, according to Rabbi Eliezer, anything that is affixed to the ground or to something else that is affixed to the ground is treated like land, and therefore it cannot become ritually impure.
 
 The *gemara* therefore looks to a third source: *Rabbi Eliezer d'daf* — Rabbi Eliezer's ruling about the *daf shel nachtomin*, the baker's shelf. A plank, presumably of wood or metal, was fashioned into a shelf and attached to the wall — either a kneading shelf or, as the *Rashbam* suggests, an external display shelf. The *daf* exists as a usable plank, a potential *kli*, before being affixed. *Daf shel nachtomin shekava'o b'kotel* — a baker's shelf that was fixed into the wall: *Rabbi Eliezer metaher* — Rabbi Eliezer rules it is no longer susceptible to *tumah*, because once affixed it becomes part of the structure. *Va'chachamim metam'in* — and the *Chachamim* say it is *tamei*, still a vessel.
 
@@ -174,17 +162,21 @@ Critically, neither Rabbi Eliezer nor the *Chachamim* in this case draw any dist
 
 ### Precedent Gap
 
-> **Hebrew/Aramaic:** מַנִּי? אִי רַבִּי אֱלִיעֶזֶר – אֲפִילּוּ חֲקָקוֹ וּלְבַסּוֹף קְבָעוֹ! אִי רַבָּנַן – אֲפִילּוּ קְבָעוֹ וּלְבַסּוֹף חֲקָקוֹ נָמֵי!
->
-> **Translation:** Having concluded that this is the dispute between Rabbi Eliezer and the Rabbis that was referred to previously, the Gemara repeats the question raised earlier about the ruling in the *baraita* with regard to a duct: **Whose** opinion is it? It appears to be neither that of Rabbi Eliezer nor that of the Rabbis. As **if** it is the opinion of **Rabbi Eliezer,** then **even if one hollowed out** a duct **and afterward he fixed it** to the ground, water flowing through it should not be considered drawn water that invalidates a ritual bath, as according to Rabbi Eliezer, a baker's board that was first a vessel, but then became fixed in a wall, is treated like land. And **if** it is the opinion of **the Rabbis,** then **even if he** first **fixed** the duct to the ground **and** only **afterward he hollowed it out,** the duct should **also** be treated like a vessel, and the water flowing through it should be considered drawn water, as the Rabbis do not differentiate with regard to the stage at which the baker's board was affixed to the wall.
-
 This is precisely the problem. Our *baraita* about the pipe draws a distinction based on sequence — *chakako v'achar kach kava'o* versus *kava'o v'achar kach chakako* — yet neither Rabbi Eliezer nor the *Chachamim* in the shelf case makes any such distinction. If the pipe *baraita* follows Rabbi Eliezer, then even *chakako v'achar kach kava'o* — making the pipe a vessel first and then attaching it — should present no problem, because Rabbi Eliezer says attachment always removes *kli* status. If the pipe *baraita* follows the *Chachamim*, then even *kava'o v'achar kach chakako* — attaching first and then carving — should be problematic, because the *Chachamim* say it is always a vessel. Yet the *baraita* says *kava'o v'achar kach chakako* is fine. Hence: *mani* — who holds this position? *Lo Rabbi Eliezer v'lo Rabbanan* — it seems to fit neither.
 
 ### Rabbinic/Biblical
 
-> **Hebrew/Aramaic:** לְעוֹלָם רַבִּי אֱלִיעֶזֶר הִיא, וְשָׁאנֵי פְּשׁוּטֵי כְלֵי עֵץ – דְּטוּמְאָה דְּרַבָּנַן.
->
-> **Translation:** The Gemara responds: **Actually,** one can explain that the *baraita* **is** in accordance with the opinion of **Rabbi Eliezer, but** the *halakha* governing **flat wooden vessels** without a receptacle, such as a baker's board, **is different, as** they are vessels susceptible to **ritual impurity** only **by rabbinic law,** but by Torah law they are not vessels susceptible to ritual impurity. Therefore, Rabbi Eliezer agrees that when the baker's board is affixed to the wall, it is no longer subject to the rabbinic decree. A hollowed-out duct, however, is a vessel susceptible to ritual impurity by Torah law, and it remains so even if afterward it was affixed to the ground. Therefore, the water flowing through it invalidates a ritual bath.
+> **Hebrew/Aramaic:** לְעוֹלָם רַבִּי אֱלִיעֶזֶר הִיא, וְשָׁאנֵי פְּשׁוּטֵי כְלֵי עֵץ – דְּטוּמְאָה דְּרַבָּנַן.
+> **Translation:** The Gemara responds: **Actually,** one can explain that the *baraita* **is** in accordance with the opinion of **Rabbi Eliezer, but** the *halakha* governing **flat wooden vessels** without a receptacle, such as a baker’s board, **is different, as** they are vessels susceptible to **ritual impurity** only **by rabbinic law,** but by Torah law they are not vessels susceptible to ritual impurity. Therefore, Rabbi Eliezer agrees that when the baker’s board is affixed to the wall, it is no longer subject to the rabbinic decree. A hollowed-out duct, however, is a vessel susceptible to ritual impurity by Torah law, and it remains so even if afterward it was affixed to the ground. Therefore, the water flowing through it invalidates a ritual bath.
+
+> **Hebrew/Aramaic:** מִכְּלָל דִּשְׁאִיבָה דְּאוֹרָיְיתָא?!
+> **Translation:** The Gemara asks: **By inference,** from the fact that Rabbi Eliezer is more stringent in the case of the duct and distinguishes between a duct that was first hollowed out and only afterward affixed to the ground, and one that was first affixed to the ground and only afterward hollowed out, does it not follow **that** the *halakha* governing **drawn** water, i.e., that drawn water added to a ritual bath that does not already contain the necessary quantity of water invalidates it, applies **by Torah law?**
+
+> **Hebrew/Aramaic:** וְהָא קַיְימָא לַן: דְּרַבָּנַן! וְעוֹד, הָאָמַר רַבִּי יוֹסֵי בֶּן רַבִּי חֲנִינָא: בְּדַף שֶׁל מַתֶּכֶת מַחְלוֹקֶת!
+> **Translation:** **But** this is difficult, as **we maintain** that the *halakha* that drawn water invalidates a ritual bath applies only by **rabbinic** decree. **And furthermore, doesn’t Rabbi Yosei ben Rabbi Ḥanina say** that the **dispute** between Rabbi Eliezer and the Rabbis is **with regard to a board of metal,** and a metal vessel, even if it is flat and lacks a receptacle, is susceptible to ritual impurity by Torah law? This means that, according to Rabbi Eliezer, even a vessel that is susceptible to ritual impurity by Torah law loses its status as a vessel when it is affixed to the ground. Consequently, the question returns: Whose opinion is cited in the *baraita* that states that if one first hollowed out a duct and afterward fixed it to the ground, it is still considered a vessel and water flowing through it invalidates a ritual bath, but if he first fixed it to the ground and afterward hollowed it out, the water flowing through it does not invalidate a ritual bath?
+
+> **Hebrew/Aramaic:** לְעוֹלָם רַבָּנַן הִיא, וְשָׁאנֵי שְׁאִיבָה דְּרַבָּנַן.
+> **Translation:** The Gemara answers: **Actually,** one can explain that the *baraita* **is** in accordance with the opinion of **the Rabbis,** who deem the baker’s metal board susceptible to ritual impurity even when it is fixed to a wall, **but** the *halakha* governing **drawn** water added to a deficient ritual bath **is different,** because drawn water invalidates a deficient ritual bath only **by rabbinic law,** and therefore the Rabbis were lenient.
 
 The *gemara* now offers its resolution: *l'olam Rabbi Eliezer hi* — in fact, the pipe *baraita* does follow Rabbi Eliezer. But why does the shelf case not distinguish between sequences, while the pipe case does?
 
@@ -192,15 +184,12 @@ The answer lies in distinguishing between biblical and rabbinic categories of *t
 
 Because the shelf's susceptibility is only rabbinic, Rabbi Eliezer is lenient across the board in that case — no need to distinguish sequences, because when the underlying category is rabbinic, he simply rules that attachment resolves the question in the direction of leniency. But the pipe with its trap is different: the trap creates a genuine *beit kibul*, genuine receptacle-status, which carries biblical *tumah* susceptibility. In that domain, even Rabbi Eliezer draws a distinction based on sequence.
 
-> **Hebrew/Aramaic:** מִכְּלָל דִּשְׁאִיבָה דְּאוֹרָיְיתָא?!
->
-> **Translation:** The Gemara asks: **By inference,** from the fact that Rabbi Eliezer is more stringent in the case of the duct and distinguishes between a duct that was first hollowed out and only afterward affixed to the ground, and one that was first affixed to the ground and only afterward hollowed out, does it not follow **that** the *halakha* governing **drawn** water, i.e., that drawn water added to a ritual bath that does not already contain the necessary quantity of water invalidates it, applies **by Torah law?**
-
 The *gemara* then raises a counterpoint: *michlal d'she'uvah d'oraita* — does this mean that drawn water (*mayim she'uvim*) that invalidates a *mikvah* is a biblical prohibition? After all, if Rabbi Eliezer is strict about the pipe only because its *tumah* is biblical, and we are applying that to the *mikvah* question, this implies the drawn-water prohibition is biblical. But further, Rabbi Yosei bar Rabbi Chanina observes: in the case of the baker's shelf, we are not necessarily speaking of a wooden shelf at all — *b'dichtaya d'matachet machloket* — the dispute may concern a metal shelf. Metal vessels are susceptible to *tumah* biblically even without a *beit kibul*; any metal vessel at all is biblically susceptible. If so, the shelf case involves a biblical *tumah* issue as well, and we cannot explain Rabbi Eliezer's uniformity there on the grounds that it is merely rabbinic.
 
-> **Hebrew/Aramaic:** לְעוֹלָם רַבָּנַן הִיא, וְשָׁאנֵי הָתַם – דְּטוּמְאַת שְׁאִיבָה דְּרַבָּנַן.
->
-> **Translation:** [Following from Bava Batra 66a] The *gemara* responds: [The *baraita* follows the Rabbis, because it applies the principle differently to rabbinic versus biblical categories.]
+### Drawn Water Law
+
+> **Hebrew/Aramaic:** אִי הָכִי, אֲפִילּוּ חֲקָקוֹ וּלְבַסּוֹף קְבָעוֹ נָמֵי! שָׁאנֵי הָתָם, דְּאִיכָּא תּוֹרַת כְּלִי עָלָיו בְּתָלוּשׁ.
+> **Translation:** The Gemara asks: **If so,** then **even** if one first **hollowed out** the duct **and** only **afterward fixed it** to the ground, water flowing through it should not invalidate the ritual bath **as well.** The Gemara answers: **It is different there,** where the duct was hollowed out before being affixed to the ground, **as** the duct **had the status of a vessel when** it was still **detached** from the ground, and therefore the Rabbis were not willing to be lenient to such an extent and rule that water flowing through the duct does not invalidate a ritual bath.
 
 The *gemara* therefore reverses course: *l'olam Rabbanan hi* — in fact, the pipe *baraita* follows the *Chachamim*, not Rabbi Eliezer. The *Chachamim*, by the metal shelf, rule that it is always a *kli* regardless of sequence — because that is a biblical matter, and they apply the rule strictly in both directions. But in the case of the pipe for the *mikvah*, since the entire category of drawn water (*mayim she'uvim*) is a *rabbinic* enactment, the *Chachamim* are more lenient: if the pipe was first attached and then carved — *kava'o v'achar kach chakako* — they will not extend the rabbinic prohibition to cover that case. If, however, the pipe was first made into a *kli* and then attached — *chakako v'achar kach kava'o* — the object already bore the *torat kli*, the legal status of a vessel, before attachment, and that status is retained even after attachment, even in a rabbinic domain. *Shani hatam d'ika torat kli alav b'talush* — it is different there because it already had the status of a vessel while it was unattached.
 

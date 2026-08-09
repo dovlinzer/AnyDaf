@@ -1,0 +1,291 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rav Avin's Kal Vachomer",
+    "candidates": [
+      "Shechita Outside Mikdash",
+      "Rav Avin's Kal Vachomer",
+      "Ravina's Chelev Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Avin's kal vachomer argument deriving the prohibition of shechita outside the Temple, which is precisely what the prose under 'Rav Avin's Kal Vachomer' describes in detail.",
+      "chosen_heading": "Rav Avin's Kal Vachomer",
+      "current_heading": "Rav Avin's Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Ravina's Chelev Challenge",
+    "candidates": [
+      "Ravina's Chelev Challenge",
+      "Rava's Chelev Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous exchange: Item 1 is Ravina's kal vachomer challenge to Rav Ashi (questioning why chelev needs an explicit prohibition if it could be derived from neveilah), and Item 2 is Rav Ashi going before Rava who explains why the neveilah kal vachomer fails due to tumah \u2014 this is the direct continuation of Ravina's chelev challenge, fitting perfectly under heading 0 which explicitly describes this exact exchange, while heading 1 covers the broader subsequent analysis Rava conducts.",
+      "chosen_heading": "Ravina's Chelev Challenge",
+      "current_heading": "Ravina's Chelev Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Rava's Chelev Analysis",
+    "candidates": [
+      "Rava's Chelev Analysis",
+      "Ein Mazhirin Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All eight items correspond precisely to the content described in 'Rava's Chelev Analysis' prose: the series of failed kal vachomer attempts for chelev (items 1-5), Rava's concern about Pesach and milah (item 6), the kal vachomer from motir (item 7), and Rav Kahana's refutation via the 'no remedy' distinction (item 8).",
+      "chosen_heading": "Rava's Chelev Analysis",
+      "current_heading": "Rava's Chelev Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Ein Mazhirin Principle",
+    "candidates": [
+      "Ein Mazhirin Principle",
+      "Gezerah Shavah Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the 'ein mazhirin min ha-din' principle, which is precisely what the prose under heading 0 discusses and explicates.",
+      "chosen_heading": "Ein Mazhirin Principle",
+      "current_heading": "Ein Mazhirin Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Gezerah Shavah Solution",
+    "candidates": [
+      "Gezerah Shavah Solution",
+      "Muktarei Pnim/Chutz",
+      "V'Aleihem Tomar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the gezerah shavah solutions (Rabbi Yochanan's havayah-havayah and Rava/Rabbi Yona's sham-sham) for deriving the prohibition of shechita outside, which is exactly what the 'Gezerah Shavah Solution' prose describes in detail.",
+      "chosen_heading": "Gezerah Shavah Solution",
+      "current_heading": "Gezerah Shavah Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "V'Aleihem Tomar",
+    "candidates": [
+      "Muktarei Pnim/Chutz",
+      "V'Aleihem Tomar",
+      "37th Kareis Question",
+      "One Prohibition Unity",
+      "Zerika\u2014New Category",
+      "Rabbi Yishmael\u2014Dam",
+      "Rabbi Akiva\u2014Or",
+      "Zerika Grouping"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the question (muktarei chutz she-he'elah ba-chutz, minayin?) and Rav Kahana's answer, which is precisely what candidate 0 ('Muktarei Pnim/Chutz') describes as its topic \u2014 the Gemara asking from where we derive liability for burning outside something slaughtered outside \u2014 whereas candidate 1 ('V'Aleihem Tomar') is the prose elaborating on Rav Kahana's answer after the question is already posed.",
+      "chosen_heading": "Muktarei Pnim/Chutz",
+      "current_heading": "V'Aleihem Tomar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Zerika Grouping",
+    "candidates": [
+      "37th Kareis Question",
+      "One Prohibition Unity",
+      "Zerika\u2014New Category",
+      "Rabbi Yishmael\u2014Dam",
+      "Rabbi Akiva\u2014Or",
+      "Zerika Grouping",
+      "Shalem\u2014Wholeness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rava's challenge to Rav Kahana's reading, Rabbi Yo\u1e25anan's gezerah shavah derivation, and Rav Beivai's 37th kareit objection \u2014 are explicitly described together in candidate 0's prose, which covers exactly this sequence of Rava's objection, the school of Rabbi Yishmael pivot, Rabbi Yo\u1e25anan's bringing-bringing analogy, and Rav Bibi's count challenge.",
+      "chosen_heading": "37th Kareis Question",
+      "current_heading": "Zerika Grouping",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Shalem\u2014Wholeness",
+    "candidates": [
+      "Zerika Grouping",
+      "Shalem\u2014Wholeness",
+      "Shachat Vezarak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 11 items deal with the interplay between Rabbi Yishmael and Rabbi Akiva on the sources for zerika, shechitat ha-of, melika, and the wholeness requirement \u2014 exactly the material the 'Shalem\u2014Wholeness' prose describes in detail, including the dam yechashev/o zevach dispute, lo yavi'enu, la'asot oto, and zeh ha-davar derivations.",
+      "chosen_heading": "Shalem\u2014Wholeness",
+      "current_heading": "Shalem\u2014Wholeness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Shachat Vezarak",
+    "candidates": [
+      "Shachat Vezarak",
+      "Abaye's Unification",
+      "Zarak Veha'ela"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the gemara's derivation of why kometz and kabalat ha-dam outside the Temple are exempt, using the binyan av argument from shechita and zerika/ha'alah, and concludes that 'lehachi kesav kra delo asi mibeinaya' \u2014 all of which is explicitly discussed in candidate 0's prose under 'Shachat Vezarak'.",
+      "chosen_heading": "Shachat Vezarak",
+      "current_heading": "Shachat Vezarak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Zarak Veha'ela",
+    "candidates": [
+      "Abaye's Unification",
+      "Zarak Veha'ela",
+      "All Three Violations",
+      "Three Camps Question",
+      "Shechita Ba'Darom"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Abaye's Unification",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the shachat-and-zarak case with Rabbi Abbahu's ruling and Abaye's dissent, matching candidate 0 ('Abaye's Unification') which discusses exactly that scenario \u2014 shechita plus zerika combined under one korban per Abaye.",
+      "second_heading": "Zarak Veha'ela",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 cover the zarak-veha'ela case and the all-three case, matching candidate 1 ('Zarak Veha'ela') and candidate 2 ('All Three Violations'), with the current placement at index 1 being correct for items 3-4, and item 5 naturally closing under index 1 or flowing into index 2.",
+      "current_heading": "Zarak Veha'ela",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Shechita Ba'Darom",
+    "candidates": [
+      "All Three Violations",
+      "Three Camps Question",
+      "Shechita Ba'Darom",
+      "Roof of Heichal",
+      "Petach Ohel Moed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a single continuous baraita about the 'three camps' geographic question \u2014 deriving from the interplay of 'ba-machaneh' and 'mi-chutz la-machaneh' both the inclusion of inner camps and the exclusion of the southern courtyard \u2014 which perfectly matches the 'Three Camps Question' prose description of exactly this baraita and its conclusions.",
+      "chosen_heading": "Three Camps Question",
+      "current_heading": "Shechita Ba'Darom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Petach Ohel Moed",
+    "candidates": [
+      "Roof of Heichal",
+      "Petach Ohel Moed",
+      "Animal in/out Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Ulla's ruling about slaughtering on the roof of the Heichal and Rava's objection together, and candidate 0 ('Roof of Heichal') is the section whose prose covers both Ulla's position and introduces Rava's challenge, making it the natural home for this complete exchange \u2014 while candidate 1 ('Petach Ohel Moed') only covers Rava's challenge in isolation.",
+      "chosen_heading": "Roof of Heichal",
+      "current_heading": "Petach Ohel Moed",
+      "moved": true
+    }
+  }
+]

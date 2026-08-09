@@ -106,8 +106,8 @@
           "timestamp": "32:40"
         }
       ],
-      "sefaria_index": 1,
-      "matched": false
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Nachum HaMedai Permits Nezirim Based on Future Destruction; Chachamim Overturn",
@@ -120,7 +120,7 @@
           "timestamp": "33:56"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 6,
       "matched": false
     },
     {
@@ -358,5 +358,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "36:04",
+  "amud_b_micro_title": "Nachum HaMedai Case",
+  "shiur_start_daf": 31,
+  "shiur_start_amud": "b"
 }

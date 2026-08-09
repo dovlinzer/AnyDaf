@@ -1,0 +1,434 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Mishnah & Positions",
+    "candidates": [
+      "From Accessories to Idols",
+      "Mishnah & Positions",
+      "Vessels Agreement",
+      "From Vessels to Idols",
+      "Verbal Inference",
+      "No Vessel Connection",
+      "Jew Immediate (Logical)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items together constitute exactly the content described in candidate 1's prose: the Gemara asks whose view the Mishna represents, cites the baraita with Rabbi Yishmael and Rabbi Akiva's mirror-image positions, explains why the verse cannot apply to places (mountains), redirects it to vessels, and then shows how Rabbi Akiva rejects the hekesh via the word 'et' \u2014 all of which is precisely what candidate 1 ('Mishnah & Positions') describes.",
+      "chosen_heading": "Mishnah & Positions",
+      "current_heading": "Mishnah & Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Jew Immediate (Logical)",
+    "candidates": [
+      "Vessels Agreement",
+      "From Vessels to Idols",
+      "Verbal Inference",
+      "No Vessel Connection",
+      "Jew Immediate (Logical)",
+      "Psilei Eloheihem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items deal precisely with the chain of reasoning Rabbi Yishmael uses to derive that a Jew's idol is forbidden immediately \u2014 from the initial logical inference through the golden-calf verse, the 'arur' verse, 'to'avas Hashem', and Rabbi Akiva's counter-reading \u2014 which is exactly what the 'Jew Immediate (Logical)' prose describes.",
+      "chosen_heading": "Jew Immediate (Logical)",
+      "current_heading": "Jew Immediate (Logical)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Psilei Eloheihem",
+    "candidates": [
+      "Psilei Eloheihem",
+      "Bitul Concept",
+      "Vesam Basater"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together cover exactly what candidate 1 ('Bitul Concept') describes: Rabbi Akiva's source from Ulla (item 1), Rabbi Yishmael's use of the same verse for bittul via Rav Yosef (item 2), and Rabbi Akiva's derivation of bittul from Shmuel's reconciliation (item 3) \u2014 the current placement under 'Psilei Eloheihem' only covers item 1, while candidate 1's prose explicitly summarizes all three items in sequence.",
+      "chosen_heading": "Bitul Concept",
+      "current_heading": "Psilei Eloheihem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Vesam Basater",
+    "candidates": [
+      "Bitul Concept",
+      "Vesam Basater",
+      "Genizah Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Akiva's derivation from 'vesam basater' for the rule that a Jew's idol is forbidden only once worshipped, which is precisely what candidate 1 ('Vesam Basater') describes in its prose.",
+      "chosen_heading": "Vesam Basater",
+      "current_heading": "Vesam Basater",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Genizah Definition",
+    "candidates": [
+      "Genizah Definition",
+      "Mizbeach Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the two Gemara questions-and-answers about which verse each tanna uses to derive that a Jew's idol requires genizah \u2014 exactly the content described in the 'Genizah Definition' prose, which explicitly mentions both Rabbi Yishmael's derivation from 'vesam basater' and Rav Chisda/Rav's derivation from the asherah-altar verse.",
+      "chosen_heading": "Genizah Definition",
+      "current_heading": "Genizah Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Mizbeach Parallel",
+    "candidates": [
+      "Mizbeach Parallel",
+      "Tosfos Reading",
+      "Conceptual Problem",
+      "Tumah Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items (Reish Lakish's teaching about appointing unfit judges and Rav Ashi's elaboration about Torah scholars) are explicitly discussed in the prose of candidate 0, which covers these exact derivations from the juxtaposition of 'judges and officers' with 'you shall not plant an ashera' and Rav Ashi's etzel mizbeiach point.",
+      "chosen_heading": "Mizbeach Parallel",
+      "current_heading": "Mizbeach Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Tumah Question",
+    "candidates": [
+      "Tosfos Reading",
+      "Conceptual Problem",
+      "Tumah Question",
+      "Reshaping Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items form one continuous Gemara unit \u2014 Rav Hamnuna's dilemma about welding a vessel for idol worship \u2014 moving through the narrowing of the question, the rejection of the tashmish-status explanation, and the resolution that the real question is about tumah yeshana, which is precisely what the 'Tumah Question' prose describes.",
+      "chosen_heading": "Tumah Question",
+      "current_heading": "Tumah Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Reshaping Principle",
+    "candidates": [
+      "Reshaping Principle",
+      "Unresolved Issues",
+      "Tikrovet Food Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly presents the two nested dilemmas about tumah d'rabbanan and the stringency of avoda zara tumah, concluding with teiku \u2014 matching exactly the 'Unresolved Issues' prose description.",
+      "chosen_heading": "Unresolved Issues",
+      "current_heading": "Reshaping Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Tikrovet Food Tumah",
+    "candidates": [
+      "Unresolved Issues",
+      "Tikrovet Food Tumah",
+      "Why Food"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yochanan's dilemma to Rabbi Yannai about whether bittul removes the tumah of food offered as tikrovet, which is precisely what the 'Tikrovet Food Tumah' section's prose describes.",
+      "chosen_heading": "Tikrovet Food Tumah",
+      "current_heading": "Tikrovet Food Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Why Food",
+    "candidates": [
+      "Why Food",
+      "Two Sides",
+      "Question Posed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together explain why Rabbi Yo\u1e25anan's dilemma is posed specifically about food offerings (tikrovet) rather than vessels or the idol itself \u2014 exactly what the 'Why Food' prose describes in detail.",
+      "chosen_heading": "Why Food",
+      "current_heading": "Why Food",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Question Posed",
+    "candidates": [
+      "Two Sides",
+      "Question Posed",
+      "Mishnah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the question posed by Rabbi Yosei ben Shaul to Rabbi Yehuda HaNasi about vessels used in Beit Chonyo, which matches exactly the prose under 'Question Posed' describing this very question and its background.",
+      "chosen_heading": "Question Posed",
+      "current_heading": "Question Posed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Mishnah Rule",
+    "candidates": [
+      "Mishnah Rule",
+      "Punishment Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Mishna rule about priests who served in the temple of Onias being disqualified from Jerusalem Temple service, which is precisely what the 'Mishnah Rule' section's prose discusses \u2014 the disqualification consequence and the needless-to-say distinction establishing it is not avoda zara.",
+      "chosen_heading": "Mishnah Rule",
+      "current_heading": "Mishnah Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Punishment Logic",
+    "candidates": [
+      "Punishment Logic",
+      "Rebbi Forbidden",
+      "Achaz Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses the dilemma about whether the rabbinic penalty applies only to priests (as beings of awareness/free will) but not to vessels, which is precisely what the 'Punishment Logic' section's prose discusses.",
+      "chosen_heading": "Punishment Logic",
+      "current_heading": "Punishment Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Achaz Vessels",
+    "candidates": [
+      "Rebbi Forbidden",
+      "Achaz Vessels",
+      "Hichanu Hikdashnu",
+      "Rebbi Counter",
+      "Northeast Chamber"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rebbi Forbidden",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rebbi's admission that the vessels are forbidden and that he forgot the verse \u2014 exactly what heading 'Rebbi Forbidden' describes.",
+      "second_heading": "Hichanu Hikdashnu",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 form the Achaz-vessels objection and Rebbi's counter-reading of hichanu/hikdashnu, which matches heading 'Hichanu Hikdashnu' (the specific interpretation of that phrase) better than 'Achaz Vessels' (which only covers the setup of the challenge, not the resolution).",
+      "current_heading": "Achaz Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Northeast Chamber",
+    "candidates": [
+      "Hichanu Hikdashnu",
+      "Rebbi Counter",
+      "Northeast Chamber",
+      "Pritzim Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the Gemara's attempt to support Rebbi's position using the Mishna about the northeastern chamber where the Hasmoneans stored defiled altar stones, which is precisely what the 'Northeast Chamber' section's prose discusses.",
+      "chosen_heading": "Northeast Chamber",
+      "current_heading": "Northeast Chamber",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Pritzim Principle",
+    "candidates": [
+      "Pritzim Principle",
+      "Non-Sanctified Reuse",
+      "Temple Metals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the 'Pritzim Principle' \u2014 Item 1 is Rav Pappa's citation of the pritzim verse explaining why the altar stones lost sanctity, and Item 2 is the immediate practical consequence (why the Hasmoneans couldn't break or saw the stones), which is exactly what the prose of heading 0 describes as the 'immediate practical implication' raised after the pritzim principle.",
+      "chosen_heading": "Pritzim Principle",
+      "current_heading": "Pritzim Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Temple Metals",
+    "candidates": [
+      "Non-Sanctified Reuse",
+      "Temple Metals",
+      "Coin Allowance",
+      "Vessel vs. Coin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of Rav Oshaya's statement about sequestering silver and gold of Jerusalem and Abaye's clarification about worn Hadrianic/Trajanic coins \u2014 exactly the content described in the 'Temple Metals' prose.",
+      "chosen_heading": "Temple Metals",
+      "current_heading": "Temple Metals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Vessel vs. Coin",
+    "candidates": [
+      "Coin Allowance",
+      "Vessel vs. Coin",
+      "Non-Jew Nullifies",
+      "Idol vs. Vessels",
+      "Jew Cannot Nullify",
+      "Shimon Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer distinguishing between the Temple treasury coins (not directly used in divine service) and the altar stones (directly used in divine service), which is precisely the content the 'Vessel vs. Coin' section prose describes and analyzes.",
+      "chosen_heading": "Vessel vs. Coin",
+      "current_heading": "Vessel vs. Coin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144,
+      145,
+      146
+    ],
+    "current_heading": "Shimon Question",
+    "candidates": [
+      "Non-Jew Nullifies",
+      "Idol vs. Vessels",
+      "Jew Cannot Nullify",
+      "Shimon Question",
+      "Gemara Response",
+      "Joint Ownership",
+      "Young Rebbi",
+      "Old Rebbi"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Idol vs. Vessels",
+      "first_confidence": "high",
+      "first_reason": "Items 1 (Mishna) covers the rules about who can perform bittul and the idol vs. accessories asymmetry, matching the 'Non-Jew Nullifies' and 'Idol vs. Vessels' prose, but the Mishna as a whole unit (including the accessories clause and the Jew-cannot-nullify clause) is best placed under 'Non-Jew Nullifies' as the opening Mishna of that entire discussion.",
+      "second_heading": "Shimon Question",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are the Gemara exchange between Rebbi and Rabbi Shimon about the two versions of the Mishna (shelo v'shel chaveiro vs. shelo v'shel Yisrael), plus the Gemara's astonishment and Rabbi Hillel's resolution regarding joint ownership, which maps directly onto the 'Shimon Question' prose describing exactly this exchange.",
+      "current_heading": "Shimon Question",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,356 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Total vs. Partial Peeling",
+    "candidates": [
+      "Total vs. Partial Peeling",
+      "Rashi v. Tosafot",
+      "Through-holes & Chaser"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rava's ruling on peeling and the Gemara's resolution (lo kashya: total vs. partial peeling), which is precisely what the 'Total vs. Partial Peeling' section's prose describes.",
+      "chosen_heading": "Total vs. Partial Peeling",
+      "current_heading": "Total vs. Partial Peeling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Through-holes & Chaser",
+    "candidates": [
+      "Rashi v. Tosafot",
+      "Through-holes & Chaser",
+      "Limiting the Mishna",
+      "Three Treifa Parallels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Ulla bar \u1e24anina's ruling on through-holes versus non-through-holes directly matches the 'Through-holes & Chaser' section prose, which explicitly discusses this very distinction between *nekev mefulash* and non-through holes with the *issar* threshold.",
+      "chosen_heading": "Through-holes & Chaser",
+      "current_heading": "Through-holes & Chaser",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Three Treifa Parallels",
+    "candidates": [
+      "Limiting the Mishna",
+      "Three Treifa Parallels",
+      "Tosafot's Strict Reading",
+      "Liquefied Insides"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara text where Rava raises his dilemma about treifa signs in an etrog and the Gemara questions what he is asking since peeling, splitting, and piercing are already covered in the mishna \u2014 this is precisely what the 'Three Treifa Parallels' prose section describes.",
+      "chosen_heading": "Three Treifa Parallels",
+      "current_heading": "Three Treifa Parallels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Liquefied Insides",
+    "candidates": [
+      "Tosafot's Strict Reading",
+      "Liquefied Insides",
+      "Tapuach Saruach Proof",
+      "Mishna's Full List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the case of the liquefied lung analogy (Ulla/Rabbi Yo\u1e25anan and Rava's ruling about bronchia) and its application to the etrog whose interior has liquefied, which is precisely what the 'Liquefied Insides' section's prose describes.",
+      "chosen_heading": "Liquefied Insides",
+      "current_heading": "Liquefied Insides",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Mishna's Full List",
+    "candidates": [
+      "Tapuach Saruach Proof",
+      "Mishna's Full List",
+      "Kushi: Ethiopian or Black",
+      "Regional Familiarity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the proof-attempt and its rejection described in the 'Tapuach Saruach Proof' prose: item 1 is the baraita listing tapuach saruach etc., and item 2 is the Gemara's attempt to read tapuach as external and saruach as internal, followed by the rejection that both are external \u2014 precisely what that section's prose narrates.",
+      "chosen_heading": "Tapuach Saruach Proof",
+      "current_heading": "Mishna's Full List",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Regional Familiarity",
+    "candidates": [
+      "Kushi: Ethiopian or Black",
+      "Regional Familiarity",
+      "Subjectivity of Hadar",
+      "Bilas - Counterfeit",
+      "Akiva v. Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the contradiction between the two baraitot and both Abaye's and Rava's resolutions, which corresponds to heading 0 ('Kushi: Ethiopian or Black') whose prose explicitly covers the mishna's ruling, the baraita contradiction, and both Abaye's and Rava's responses \u2014 whereas heading 1 ('Regional Familiarity') covers only the elaboration of Rava's resolution, not the Gemara text itself.",
+      "chosen_heading": "Kushi: Ethiopian or Black",
+      "current_heading": "Regional Familiarity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Akiva v. Sages",
+    "candidates": [
+      "Subjectivity of Hadar",
+      "Bilas - Counterfeit",
+      "Akiva v. Sages",
+      "Hadar v. Ripeness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly records the mishna dispute between Rabbi Akiva and the Sages over the unripe etrog (boser), and Rabba's identification of the parallel with Rabbi Shimon, which is precisely what the 'Akiva v. Sages' section prose describes.",
+      "chosen_heading": "Akiva v. Sages",
+      "current_heading": "Akiva v. Sages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Hadar v. Ripeness",
+    "candidates": [
+      "Hadar v. Ripeness",
+      "Molded Etrog (Dfus)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are Abaye's challenge showing that Rabbi Akiva's and Rabbi Shimon's positions on the unripe etrog operate on different axes (hadar vs. ma'aser ripeness), exactly what the 'Hadar v. Ripeness' prose describes, culminating in the concluding 'nothing more to discuss' that matches 'batlu midi \u2014 enough.'",
+      "chosen_heading": "Hadar v. Ripeness",
+      "current_heading": "Hadar v. Ripeness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Molded Etrog (Dfus)",
+    "candidates": [
+      "Molded Etrog (Dfus)",
+      "Rat Bites & Hadar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the molded etrog (dfus) case, Rava's clarification about different species vs. same species, and the dapei dapei intermediate case \u2014 all of which are precisely what the 'Molded Etrog (Dfus)' prose section discusses.",
+      "chosen_heading": "Molded Etrog (Dfus)",
+      "current_heading": "Molded Etrog (Dfus)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Rat Bites & Hadar",
+    "candidates": [
+      "Rat Bites & Hadar",
+      "Rashi: Two Problems"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Gemara's initial dispute about rat-bitten etrog and Rav's ruling plus the challenge from Rabbi Chanina's practice, which is precisely what the 'Rat Bites & Hadar' prose describes \u2014 the resolution and Rashi's analysis belong under the next heading.",
+      "chosen_heading": "Rat Bites & Hadar",
+      "current_heading": "Rat Bites & Hadar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rashi: Two Problems",
+    "candidates": [
+      "Rashi: Two Problems",
+      "Alternative Girsa",
+      "Ashkenazi v. Sephardi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Gemara text that Rashi's section discusses: the resolution that the mishna addresses Yom Tov rishon while Rabbi Chanina used his etrog on the second day, followed by the problem this poses for Rav, answered by the distinction that rat bites are meisin (repulsive), which is precisely the content Rashi's prose elaborates upon.",
+      "chosen_heading": "Rashi: Two Problems",
+      "current_heading": "Rashi: Two Problems",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Ashkenazi v. Sephardi",
+    "candidates": [
+      "Alternative Girsa",
+      "Ashkenazi v. Sephardi",
+      "Egoz v. Beitzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the 'some say' alternative version (girsa) where Rabbi Chanina's practice is used to show that aesthetic deficiencies don't disqualify beyond the first day, which directly matches the 'Alternative Girsa' section's prose describing exactly this reading where the conclusion is that hadar deficiency only disqualifies on the first day.",
+      "chosen_heading": "Alternative Girsa",
+      "current_heading": "Ashkenazi v. Sephardi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Egoz v. Beitzah",
+    "candidates": [
+      "Ashkenazi v. Sephardi",
+      "Egoz v. Beitzah",
+      "Huge Etrog Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about the etrog size dispute and its parallel with rounded stones (avanim mekurzalos), which is precisely what the 'Egoz v. Beitzah' section's prose discusses in detail.",
+      "chosen_heading": "Egoz v. Beitzah",
+      "current_heading": "Egoz v. Beitzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Huge Etrog Story",
+    "candidates": [
+      "Huge Etrog Story",
+      "Yehuda v. Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the large etrog size debate and the Rabbi Akiva story, which is precisely what the 'Huge Etrog Story' prose describes.",
+      "chosen_heading": "Huge Etrog Story",
+      "current_heading": "Huge Etrog Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Yehuda v. Meir",
+    "candidates": [
+      "Yehuda v. Meir",
+      "Jerusalem Practice",
+      "Rava's Reasoning",
+      "Palm-tree Components"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text introduces the dispute between Rabbi Yehuda and Rabbi Meir about binding the lulav, which is precisely what heading 0 ('Yehuda v. Meir') describes in its prose.",
+      "chosen_heading": "Yehuda v. Meir",
+      "current_heading": "Yehuda v. Meir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Palm-tree Components",
+    "candidates": [
+      "Jerusalem Practice",
+      "Rava's Reasoning",
+      "Palm-tree Components",
+      "Meir v. Yehuda",
+      "Kal V'Chomer Rejected"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Reasoning",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rava's two statements \u2014 that one may bind with palm fibers/trunk, and his explanation of Rabbi Yehuda's reasoning (lulav requires binding, adding another species creates five) \u2014 which match candidate 1's prose about Rava explaining Rabbi Yehuda's rationale for lulav tzarich egged.",
+      "second_heading": "Meir v. Yehuda",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita about sukkah construction \u2014 Rabbi Meir's 'sukkah of any material' versus Rabbi Yehuda's 'only the four species' with the kal v'chomer \u2014 which matches candidate 3's prose describing exactly this Meir v. Yehuda dispute over s'chach materials.",
+      "current_heading": "Palm-tree Components",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Kal V'Chomer Rejected",
+    "candidates": [
+      "Meir v. Yehuda",
+      "Kal V'Chomer Rejected",
+      "Torah's Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Rabbis' rejection of Rabbi Yehuda's kal v'chomer using the exact counter-principle (kol din she-atah dan techilato le-hachmir ve-sofo le-hakel eino din) that the 'Kal V'Chomer Rejected' section's prose explicitly describes and explains.",
+      "chosen_heading": "Kal V'Chomer Rejected",
+      "current_heading": "Kal V'Chomer Rejected",
+      "moved": false
+    }
+  }
+]

@@ -53,8 +53,8 @@
           "timestamp": "04:46"
         }
       ],
-      "sefaria_index": 0,
-      "matched": true
+      "sefaria_index": 17,
+      "matched": false
     },
     {
       "title": "Case of Get (Divorce Document): Religious Obligation Makes Coercion Valid",
@@ -77,8 +77,8 @@
           "timestamp": "10:26"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 17,
+      "matched": false
     },
     {
       "title": "Rambam on Forced Get: Conceptual Framework of Yetzer Hara and Internal Will",
@@ -101,8 +101,8 @@
           "timestamp": "16:17"
         }
       ],
-      "sefaria_index": 1,
-      "matched": false
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Direct Evidence from Sikrikon Case: Forced Sale Without Prior Obligation",
@@ -551,5 +551,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "27:49",
+  "amud_b_micro_title": "Field Choice",
+  "shiur_start_daf": 48,
+  "shiur_start_amud": "a"
 }

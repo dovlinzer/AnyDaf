@@ -1,0 +1,197 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "High Priest Retinue",
+    "candidates": [
+      "High Priest Retinue",
+      "Prostration Sequence",
+      "Blessing Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the High Priest's retinue of three priests holding him during prostration and the memunneh lifting the curtain as the High Priest exits, which is precisely what the 'High Priest Retinue' prose discusses.",
+      "chosen_heading": "High Priest Retinue",
+      "current_heading": "High Priest Retinue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Blessing Positions",
+    "candidates": [
+      "Prostration Sequence",
+      "Blessing Positions",
+      "Single Blessing Format"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the priests emerging and standing on the steps of the ulam with five vessels in their hands \u2014 exactly what the 'Blessing Positions' prose discusses in detail, including the same five kelim and the same positioning on the steps.",
+      "chosen_heading": "Blessing Positions",
+      "current_heading": "Blessing Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Single Blessing Format",
+    "candidates": [
+      "Single Blessing Format",
+      "Divine Name & Hands"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both the single blessing format in the Temple versus three blessings in the country AND the pronunciation of the divine name, but the current placement under 'Single Blessing Format' is actually correct since the passage's primary content about bracha achat and the three-versus-one distinction matches that section's prose, while the divine name detail is also present but secondary \u2014 however, the passage equally covers the divine name topic discussed in candidate 1, making candidate 0 the better fit only because the passage begins with and centers on the bracha achat distinction that candidate 0's prose explicitly addresses.",
+      "chosen_heading": "Single Blessing Format",
+      "current_heading": "Single Blessing Format",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Divine Name & Hands",
+    "candidates": [
+      "Divine Name & Hands",
+      "Ascending Ramp"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the height of hands during Priestly Benediction in the country vs. Temple, and the exception for the High Priest regarding the tzitz, which is precisely what the 'Divine Name & Hands' section's prose addresses.",
+      "chosen_heading": "Divine Name & Hands",
+      "current_heading": "Divine Name & Hands",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Ascending Ramp",
+    "candidates": [
+      "Ascending Ramp",
+      "Limb Presentation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the High Priest ascending the ramp with the deputy holding his right hand at the midpoint, which directly matches the 'Ascending Ramp' section's prose about the kevesh ascent and the sgan's assistance.",
+      "chosen_heading": "Ascending Ramp",
+      "current_heading": "Ascending Ramp",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Limb Presentation",
+    "candidates": [
+      "Limb Presentation",
+      "Throwing Limbs",
+      "Altar Circuit & Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the sequential handing of limbs from the second kohen to the first to the kohen gadol, the semikhah, the throwing, the second kohen's departure, the repetition with remaining limbs, and the option for others to throw \u2014 all of which matches the 'Throwing Limbs' prose precisely, not the 'Limb Presentation' prose which focuses only on the first handoff and the symbolic nature of semikhah.",
+      "chosen_heading": "Throwing Limbs",
+      "current_heading": "Limb Presentation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Altar Circuit & Wine",
+    "candidates": [
+      "Throwing Limbs",
+      "Altar Circuit & Wine",
+      "Flag Signals",
+      "Trumpets & Alert",
+      "Song with Wine",
+      "Psalm Divisions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the High Priest circling the altar from the southeastern corner through to the southwestern corner and receiving wine to pour, which directly matches the 'Altar Circuit & Wine' section's prose about the counterclockwise circuit and nisuch hayayin.",
+      "chosen_heading": "Altar Circuit & Wine",
+      "current_heading": "Altar Circuit & Wine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Psalm Divisions",
+    "candidates": [
+      "Flag Signals",
+      "Trumpets & Alert",
+      "Song with Wine",
+      "Psalm Divisions",
+      "Closing Statement",
+      "Day One Song",
+      "Day Two Song",
+      "Days 3-7 Songs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Flag Signals",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the Deputy with cloths, the two priests at the fat table with trumpets sounding tekiah-teruah-tekiah, which is precisely what heading 'Flag Signals' describes \u2014 the sgan at the corner with sudarim, two kohanim at the shulchan hachalavim with trumpets sounding tekiah teruah tekiah before proceeding to stand beside Ben Arza.",
+      "second_heading": "Psalm Divisions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the moment of pouring, the waving of flags, Ben Arza striking the cymbal, the Levites singing, and the three-part psalm divisions with tekiah and prostration at each break, which matches heading 'Psalm Divisions' and its current placement, though it also touches 'Trumpets & Alert'; the psalm-division content and the closing prayer make 'Psalm Divisions' the best single home for the whole of item 2.",
+      "current_heading": "Psalm Divisions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Days 3-7 Songs",
+    "candidates": [
+      "Closing Statement",
+      "Day One Song",
+      "Day Two Song",
+      "Days 3-7 Songs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Days 3-7 Songs",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the full mishna listing all seven daily psalms, which the 'Days 3-7 Songs' prose section discusses in detail including the Shabbat psalm and its eschatological gloss.",
+      "second_heading": "Closing Statement",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the 'hadran' closing formula marking the end of the tractate, which belongs under 'Closing Statement' whose prose explicitly discusses the tractate's closing line and mentions the hadran.",
+      "current_heading": "Days 3-7 Songs",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Three Solutions Debate",
+      "Rava's Position",
+      "Rav & Rav Sheshet Agree",
+      "Twenty-One Days Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rava's statement and Rav Sheshet's concurring statement ('kivan she'hitchil shuv ein posek'), which is precisely what the 'Rava's Position' prose describes as the ruling at the top of 5a, and the current placement is correct.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Twenty-One Days Count",
+    "candidates": [
+      "Rav & Rav Sheshet Agree",
+      "Twenty-One Days Count",
+      "Rashi's Explanation",
+      "Yom Tov vs. Season",
+      "Until When Ask Rain",
+      "Rabbi Yehuda: Until Pesah",
+      "Rabbi Meir: Until Nisan",
+      "Yoel's Verse Cited",
+      "Early Rain in Nisan?",
+      "Braita on Seasons",
+      "Rabbi Yochanan's Answer",
+      "Drought Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly conveys Rav's retraction via Rav Chananel's statement about counting twenty-one days and the final halakhic ruling, which is precisely what the 'Twenty-One Days Count' section's prose describes.",
+      "chosen_heading": "Twenty-One Days Count",
+      "current_heading": "Twenty-One Days Count",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Drought Context",
+    "candidates": [
+      "Rashi's Explanation",
+      "Yom Tov vs. Season",
+      "Until When Ask Rain",
+      "Rabbi Yehuda: Until Pesah",
+      "Rabbi Meir: Until Nisan",
+      "Yoel's Verse Cited",
+      "Early Rain in Nisan?",
+      "Braita on Seasons",
+      "Rabbi Yochanan's Answer",
+      "Drought Context",
+      "Eat or Plant Choice",
+      "Yoel's Command",
+      "Grain Discovery"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Until When Ask Rain",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna opening the question of until when one requests rain, which matches heading 2 ('Until When Ask Rain') whose prose explicitly introduces this Mishna and its reversed order.",
+      "second_heading": "Early Rain in Nisan?",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman's Gemara challenge about yoreh falling in Nisan, which matches heading 6 ('Early Rain in Nisan?') whose prose describes exactly this challenge posed by Rav Nachman to Rav Yitzchak.",
+      "current_heading": "Drought Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Grain Discovery",
+    "candidates": [
+      "Eat or Plant Choice",
+      "Yoel's Command",
+      "Grain Discovery",
+      "Eleven-Day Growth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire episode from the prophet's command through the people's dilemma to the miracle, but its primary content \u2014 the people's question about eating vs. planting \u2014 matches heading 0 ('Eat or Plant Choice'), which quotes and discusses exactly this dilemma; the passage should be moved there rather than sitting under 'Grain Discovery' which covers only the miracle's aftermath and the Rashi/Rabbeinu Chananel dispute.",
+      "chosen_heading": "Eat or Plant Choice",
+      "current_heading": "Grain Discovery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Eleven-Day Growth",
+    "candidates": [
+      "Grain Discovery",
+      "Eleven-Day Growth",
+      "Sowing in Tears"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the eleven-day grain growth miracle with the Omer brought on the sixteenth of Nisan, which is precisely what the 'Eleven-Day Growth' section's prose discusses.",
+      "chosen_heading": "Eleven-Day Growth",
+      "current_heading": "Eleven-Day Growth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Sowing in Tears",
+    "candidates": [
+      "Sowing in Tears",
+      "Famine Food Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the verse from Psalms 126:5-6 ('sowing in tears, reaping in joy'), with Rabbi Yehuda's interpretation of the ox weeping while plowing and Rav \u1e24isda's explanation of the oversized grain ears \u2014 exactly the content the 'Sowing in Tears' prose section describes in detail.",
+      "chosen_heading": "Sowing in Tears",
+      "current_heading": "Sowing in Tears",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Famine Food Sources",
+    "candidates": [
+      "Famine Food Sources",
+      "Seven-Year Famine",
+      "Consumption Progression"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Na\u1e25man's question about what people ate during the seven-year famine, which matches exactly the prose in heading 0 ('Famine Food Sources') that paraphrases this same question.",
+      "chosen_heading": "Famine Food Sources",
+      "current_heading": "Famine Food Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Consumption Progression",
+    "candidates": [
+      "Seven-Year Famine",
+      "Consumption Progression",
+      "Jerusalem Above & Below"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the seven-year consumption progression (houses \u2192 fields \u2192 kosher animals \u2192 non-kosher animals \u2192 insects \u2192 children \u2192 own arms), which exactly matches the 'Consumption Progression' prose discussion.",
+      "chosen_heading": "Consumption Progression",
+      "current_heading": "Consumption Progression",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Jerusalem Above & Below",
+    "candidates": [
+      "Jerusalem Above & Below",
+      "Twin Jerusalems"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the verse from Hosea and Rabbi Yochanan's interpretation about God not entering the heavenly Jerusalem until entering the earthly one, which is precisely what the prose under 'Jerusalem Above & Below' describes.",
+      "chosen_heading": "Jerusalem Above & Below",
+      "current_heading": "Jerusalem Above & Below",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Twin Jerusalems",
+    "candidates": [
+      "Twin Jerusalems",
+      "One Sin, Two Evils"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the concept of a heavenly Jerusalem and the verse proving its existence, which is exactly what the 'Twin Jerusalems' prose section addresses.",
+      "chosen_heading": "Twin Jerusalems",
+      "current_heading": "Twin Jerusalems",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "One Sin, Two Evils",
+    "candidates": [
+      "One Sin, Two Evils",
+      "Shtayim Raot Asah Ami"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the verse about one sin that burns the wicked in Gehenna being idol worship, which matches exactly the prose in candidate 0 ('One Sin, Two Evils').",
+      "chosen_heading": "One Sin, Two Evils",
+      "current_heading": "One Sin, Two Evils",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Shtayim Raot Asah Ami",
+    "candidates": [
+      "Shtayim Raot Asah Ami",
+      "Loyalty vs. Truth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange about 'two evils' (ki shtayim ra'ot asah ami), explaining that one sin (idol worship) equals two, which is precisely what heading 0's prose discusses.",
+      "chosen_heading": "Shtayim Raot Asah Ami",
+      "current_heading": "Shtayim Raot Asah Ami",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Loyalty vs. Truth",
+    "candidates": [
+      "Loyalty vs. Truth",
+      "No Talk at Meals"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Loyalty vs. Truth",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about Kittites worshiping fire and Kedarites worshiping water, which is explicitly discussed in the 'Loyalty vs. Truth' prose about the double indictment against Israel.",
+      "second_heading": "No Talk at Meals",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 form a continuous Talmudic discussion between Rav Nachman and Rabbi Yitzchak about Samuel's age and the theological problem of David's reign, which belongs under the 'No Talk at Meals' section where this dialogue pair is introduced after finishing their meal.",
+      "current_heading": "Loyalty vs. Truth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "No Talk at Meals",
+    "candidates": [
+      "No Talk at Meals",
+      "Yaakov Never Died",
+      "Linked to Descendants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Nachman and Rabbi Yitzchak at a meal and Rabbi Yochanan's ruling against speaking during meals due to the trachea/esophagus danger, which is precisely what the 'No Talk at Meals' section prose discusses in detail.",
+      "chosen_heading": "No Talk at Meals",
+      "current_heading": "No Talk at Meals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Linked to Descendants",
+    "candidates": [
+      "Yaakov Never Died",
+      "Linked to Descendants",
+      "Rachav's Name Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Yochanan's teaching that Yaakov never died ('Yaakov Avinu lo meis'), which is the core claim of heading 0, while heading 1's prose already covers Rav Nachman's objection and the verse-based derivation \u2014 meaning the passage belongs under the heading that announces the teaching itself, not the one that elaborates on the proof.",
+      "chosen_heading": "Yaakov Never Died",
+      "current_heading": "Linked to Descendants",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Rachav's Name Danger",
+    "candidates": [
+      "Linked to Descendants",
+      "Rachav's Name Danger",
+      "Tree Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yitzchak's teaching about saying 'Rachav Rachav' and Rav Nachman's objection, which is precisely what the 'Rachav's Name Danger' section prose describes.",
+      "chosen_heading": "Rachav's Name Danger",
+      "current_heading": "Rachav's Name Danger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Tree Parable",
+    "candidates": [
+      "Tree Parable",
+      "Bless Future Generations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers only the beginning of the parable (finding the tree, eating, drinking, resting) which corresponds exactly to what the 'Tree Parable' section prose discusses, and does not yet reach the blessing/departure portion covered under 'Bless Future Generations'.",
+      "chosen_heading": "Tree Parable",
+      "current_heading": "Tree Parable",
+      "moved": false
+    }
+  }
+]

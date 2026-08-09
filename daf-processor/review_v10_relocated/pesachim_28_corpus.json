@@ -1,0 +1,326 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Kal Vachomer Argument",
+    "candidates": [
+      "Debate Overview",
+      "Kal Vachomer Argument",
+      "Chachamim Rebuttal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the kal vachomer argument (nosar vs. chametz / bal yeira'eh) that the 'Kal Vachomer Argument' section's prose explicitly describes and analyzes.",
+      "chosen_heading": "Kal Vachomer Argument",
+      "current_heading": "Kal Vachomer Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Chachamim Rebuttal",
+    "candidates": [
+      "Chachamim Rebuttal",
+      "Heikesh from Nosar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Chachamim's rebuttal argument about the kal vachomer beginning stringent but ending lenient, and the wood-burning example, which matches precisely the prose under 'Chachamim Rebuttal'.",
+      "chosen_heading": "Chachamim Rebuttal",
+      "current_heading": "Chachamim Rebuttal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Heikesh from Nosar",
+    "candidates": [
+      "Heikesh from Nosar",
+      "Nosar Distinctions",
+      "Bal Totireu Parallel",
+      "Asham Talui Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Nosar Distinctions",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the heikesh from nosar (achilah \u2192 hana'ah \u2192 karet chain with neveila, shor haniskal, and chelbo counterexamples), matching heading 1 'Nosar Distinctions' prose perfectly, while the current heading 0 covers only the initial achilah/neveila exchange.",
+      "second_heading": "Bal Totireu Parallel",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces Rabbi Yehuda's third derivation based on bal totireu, which is exactly what heading 2 'Bal Totireu Parallel' describes.",
+      "current_heading": "Heikesh from Nosar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Asham Talui Challenge",
+    "candidates": [
+      "Nosar Distinctions",
+      "Bal Totireu Parallel",
+      "Asham Talui Challenge",
+      "Multiple Options",
+      "Parsing Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items \u2014 the chachamim's counterargument using asham talui and chatat ha-of, Rabbi Yehuda's silence, and the three folk sayings from Rav Yosef, Abaye, and Rava \u2014 are explicitly discussed in the 'Asham Talui Challenge' prose, which is the current placement and clearly the correct one.",
+      "chosen_heading": "Asham Talui Challenge",
+      "current_heading": "Asham Talui Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Parsing Ambiguity",
+    "candidates": [
+      "Multiple Options",
+      "Parsing Ambiguity",
+      "Rabbah's Distinction",
+      "Rav Yosef Response",
+      "Conflicting Braitot",
+      "Resolution via Geography"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the ibaya (dilemma) about whether pirur is required for both methods of disposal or only scattering to the wind, and introduces the parallel avodah zarah mishna with the same ambiguity \u2014 precisely what the 'Parsing Ambiguity' section's prose describes.",
+      "chosen_heading": "Parsing Ambiguity",
+      "current_heading": "Parsing Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Resolution via Geography",
+    "candidates": [
+      "Rabbah's Distinction",
+      "Rav Yosef Response",
+      "Conflicting Braitot",
+      "Resolution via Geography",
+      "Conceptual Framework",
+      "Mishnah Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete Rabbah/Rav Yosef dispute plus its baraita support and resolution \u2014 content that begins with Rabbah's initial distinction, which is exactly what heading 0 ('Rabbah's Distinction') describes, and the subsequent items (Rav Yosef's response, the conflicting baraitot, and the resolution) all flow continuously from that same dispute rather than being separate standalone units.",
+      "chosen_heading": "Rabbah's Distinction",
+      "current_heading": "Resolution via Geography",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Mishnah Ruling",
+    "candidates": [
+      "Conceptual Framework",
+      "Mishnah Ruling",
+      "Rabbi Yehuda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna stating that chametz of a gentile over which Passover elapsed is permitted while chametz of a Jew is forbidden, which is exactly what the 'Mishnah Ruling' prose describes and discusses.",
+      "chosen_heading": "Mishnah Ruling",
+      "current_heading": "Mishnah Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rabbi Yehuda Position",
+    "candidates": [
+      "Rabbi Yehuda Position",
+      "Rabbi Shimon Position",
+      "Rabbi Yossi Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what the 'Rabbi Yehuda Position' prose describes: the Gemara's opening question about whose opinion the mishna reflects, and Rabbi Yehuda's position from the baraita distinguishing before/after time (lav only) from during Pesach (lav and karet).",
+      "chosen_heading": "Rabbi Yehuda Position",
+      "current_heading": "Rabbi Yehuda Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Rabbi Yossi Position",
+    "candidates": [
+      "Rabbi Shimon Position",
+      "Rabbi Yossi Position",
+      "Shimon Rebuttal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Shimon's position on chametz before/during/after its time, with the Gemara's comment about returning to the first tanna, and ends with Rabbi Yossi HaGelili's opening statement \u2014 all of which is introduced and explained in the 'Rabbi Shimon Position' prose, which explicitly covers Rabbi Shimon's lav/karet framework and notes that issur hana'ah from midday is Rabbi Yehuda's position, exactly as the passage demonstrates.",
+      "chosen_heading": "Rabbi Shimon Position",
+      "current_heading": "Rabbi Yossi Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Shimon Rebuttal",
+    "candidates": [
+      "Rabbi Yossi Position",
+      "Shimon Rebuttal",
+      "Three Pesukim Derivation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yossi Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yehuda's derivation of the lav from midday of Erev Pesach, which is precisely what the 'Rabbi Yossi Position' prose describes as Rabbi Yehuda's position grounding the biblical negative prohibition in the korban Pesach timeframe.",
+      "second_heading": "Shimon Rebuttal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Shimon's rebuttal to Rabbi Yehuda's derashah, matching exactly the 'Shimon Rebuttal' prose which describes ve-chi efshar lomar kein and the be-sha'ah she-yeshno be-kum echol matzah formulation.",
+      "current_heading": "Shimon Rebuttal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Three Pesukim Derivation",
+    "candidates": [
+      "Three Pesukim Derivation",
+      "Kol Machmetzes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi Yehuda's reasoning from three verses establishing three temporal periods (before, during, and after Passover), which is precisely what the 'Three Pesukim Derivation' section's prose discusses.",
+      "chosen_heading": "Three Pesukim Derivation",
+      "current_heading": "Three Pesukim Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Kol Machmetzes",
+    "candidates": [
+      "Kol Machmetzes",
+      "Pesach Mitzrayim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kol Machmetzes",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 3 both deal with Rabbi Shimon's and Rabbi Yehuda's use of 'kol machmetzes' to derive the law of externally-fermented chametz, which is precisely what the 'Kol Machmetzes' section prose discusses.",
+      "second_heading": "Pesach Mitzrayim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yosei HaGelili's baraita deriving that the chametz prohibition at Pesach Mitzrayim lasted only one day via 'lo ye'achel chametz' juxtaposed with 'hayom atem yotzim', which is exactly what the 'Pesach Mitzrayim' section prose discusses.",
+      "current_heading": "Kol Machmetzes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Pesach Mitzrayim",
+    "candidates": [
+      "Pesach Mitzrayim",
+      "Rabbi Yehuda on Matzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yosei HaGelili's derivation about Pesach Mitzrayim and Rabbi Yehuda's dispute over smuchin, which is precisely what the 'Pesach Mitzrayim' section prose describes.",
+      "chosen_heading": "Pesach Mitzrayim",
+      "current_heading": "Pesach Mitzrayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Rabbi Yehuda on Matzah",
+    "candidates": [
+      "Rabbi Yehuda on Matzah",
+      "Rabbi Shimon on Matzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern Rabbi Yehuda's use of the linking pasuk \u2014 item 1 presents the dispute between Rabbi Yehuda and Rabbi Shimon, and item 2 resolves it by explaining that Rabbi Yehuda reads the pasuk as establishing matzah's obligation post-Mikdash \u2014 exactly what the 'Rabbi Yehuda on Matzah' prose discusses.",
+      "chosen_heading": "Rabbi Yehuda on Matzah",
+      "current_heading": "Rabbi Yehuda on Matzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Rabbi Shimon on Matzah",
+    "candidates": [
+      "Rabbi Shimon on Matzah",
+      "Arel and Ben Nochri"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Shimon's derivation of the matzah obligation from 'ba-erev tochelu' and Rabbi Yehuda's use of that verse for tamei/be-derech rechokah, which is precisely what the prose under 'Rabbi Shimon on Matzah' discusses.",
+      "chosen_heading": "Rabbi Shimon on Matzah",
+      "current_heading": "Rabbi Shimon on Matzah",
+      "moved": false
+    }
+  }
+]

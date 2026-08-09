@@ -1,21 +1,25 @@
-# Bava Batra 40 — Daf Yomi Shiur
 [DAF:40a]
-
 ## Machaa & Modaa
+
+
 
 ### Machaa Definition
 
-> **Hebrew/Aramaic:** אָמַר רָבָא אָמַר רַב נַחְמָן: מֶחָאָה – בִּפְנֵי שְׁנַיִם,
->
-> **Translation:** § **Rava says** that **Rav Naḥman says: A protest** can be lodged **in the presence of two** witnesses,
-
 The daf opens at the very end of 39b with Rava citing Rav Nachman: *machaa bifnei shnayim* — an objection to a *chazaka* must be registered before two witnesses. The context is the rule that the *mar-kamma* of a piece of real estate must lodge a formal protest against someone who has been occupying and thereby establishing a *chazaka* over his land within the three-year window. Two witnesses are required to verify that the protest occurred. Notably, however, this does not require a *beit din* of three — it is not a court proceeding but merely the registration of a fact. Nor must the protest be made in the presence of the *ba'al davar*: the original owner need not go before the occupying party to lodge his complaint; he simply establishes it before witnesses.
 
-### Machaa Sans Auth.
+> **Hebrew/Aramaic:** אָמַר רָבָא אָמַר רַב נַחְמָן: מֶחָאָה – בִּפְנֵי שְׁנַיִם,
+> **Translation:** § **Rava says** that **Rav Naḥman says: A protest** can be lodged **in the presence of two** witnesses,
 
-> **Hebrew/Aramaic:** וְאֵין צָרִיךְ לוֹמַר ״כְּתוֹבוּ״; מוֹדָעָא – בִּפְנֵי שְׁנַיִם, וְאֵין צָרִיךְ לוֹמַר ״כְּתוֹבוּ״;
->
+> **Hebrew/Aramaic:** וְאֵין צָרִיךְ לוֹמַר ״כְּתוֹבוּ״; מוֹדָעָא – בִּפְנֵי שְׁנַיִם, וְאֵין צָרִיךְ לוֹמַר ״כְּתוֹבוּ״;
 > **Translation:** **and** the prior owner **does not need to say** to the witnesses: **Write** a document detailing the protest; they can write one even absent a directive. Similarly, one who desires to state **a declaration,** preemptively invalidating a bill of sale by notifying the court that it was executed under duress, needs to state the declaration **in the presence of two** witnesses, **and** he **does not need to say** to them: **Write** a document detailing the declaration; they can write one even absent a directive.
+
+> **Hebrew/Aramaic:** הוֹדָאָה – בִּפְנֵי שְׁנַיִם, וְצָרִיךְ לוֹמַר ״כְּתוֹבוּ״; קִנְיָן – בִּפְנֵי שְׁנַיִם, וְאֵינוֹ צָרִיךְ לוֹמַר ״כְּתוֹבוּ״; וְקִיּוּם שְׁטָרוֹת בִּשְׁלֹשָׁה;
+> **Translation:** The Gemara continues with the statement of Rava: **An admission** of a monetary obligation needs to be stated **in the presence of two** witnesses, **and** in this case, the one stating the admission **needs to say** to the witnesses: **Write** a document detailing the admission, as this document is to his detriment; they may not write one absent a directive. **Acquisition** by means of a symbolic act utilizing a cloth needs to be done **in the presence of two** witnesses, **and** the parties do **not need to say** to the witnesses: **Write** a document detailing the acquisition; they can write one even absent a directive. **And ratification of** legal **documents** needs to be done **by** means of **three** people.
+
+> **Hebrew/Aramaic:** סִימָן – ממה״ק.
+> **Translation:** The Gemara presents **a mnemonic** for the cases discussed above: ***Mem*,** protest [*meḥa’a*]; ***mem*,** declaration [*moda’a*]; ***heh*,** admission [*hoda’a*]; ***kuf*,** acquisition [*kinyan*].
+
+### Machaa Sans Auth.
 
 Rava then adds: *machaa bifnei shnayim ve'ein tzarich lomar kisvu* — the original owner does not need to instruct the witnesses to go and write a *shtar* documenting the protest. The witnesses are empowered to produce such a document on their own authority. The *shtar* is not strictly required for the *machaa* to be legally valid, but possessing a written record is obviously of great practical value: without it, the original owner would later need to locate the very witnesses before whom he made his protest in order to prove his case in court. The witnesses, understanding the benefit this documentation brings, may therefore write it without being explicitly told to do so.
 
@@ -29,11 +33,12 @@ The Rambam's approach, found in *hilchot edut*, takes a different path entirely:
 
 ### Rabbeinu Tam
 
-A strikingly different resolution appears in Tosafot on 49a, where the *ri* — the nephew of Rabbeinu Tam — reports that Rabbeinu Tam maintained the practice in his *beit din* of accepting testimony submitted in letters, treating it as valid *edut*. Rabbeinu Tam understood *mipihem v'lo mipi kisavam* as excluding only a witness who is physically incapable of speech from testifying at all — not as prohibiting capable witnesses from submitting written testimony in lieu of appearing orally. He based this on the principle of *kol haraui l'bila ein bila me'akevet bo*, drawn originally from the laws of *korban mincha*: where a quantity of flour is small enough to be mixed with oil, the requirement of mixing is not absolute — what matters is the potential, not the act. If the flour exceeds forty *se'ah*, it cannot be physically mixed, and only then is the *korban mincha* invalid at that large size. Applied to testimony, the reasoning runs: the requirement of oral testimony defines who may testify — one who is capable of speaking. But a capable witness who submits written testimony has not thereby violated any prohibition, since the oral capacity is the qualifying criterion, not the mandatory mode.
+A strikingly different resolution appears in Tosafot on 49a, where the *ri* — the nephew of Rabbeinu Tam — reports that Rabbeinu Tam maintained the practice in his *beit din* of accepting testimony submitted in letters, treating it as valid *edut*. Rabbeinu Tam understood *mipihem v'lo mipi kisavam* as excluding only a witness who is physically incapable of speech from testifying at all — not as prohibiting capable witnesses from submitting written testimony in lieu of appearing orally. He based this on the principle of *kol haraui l'vila ein bila me'akevet bo*, drawn originally from the laws of *korban mincha*: where a quantity of flour is small enough to be mixed with oil, the requirement of mixing is not absolute — what matters is the potential, not the act. If the flour exceeds forty *se'ah*, it cannot be physically mixed, and only then is the *korban mincha* invalid at that large size. Applied to testimony, the reasoning runs: the requirement of oral testimony defines who may testify — one who is capable of speaking. But a capable witness who submits written testimony has not thereby violated any prohibition, since the oral capacity is the qualifying criterion, not the mandatory mode.
 
 This position has practical breadth: witnesses living at a great distance from the *beit din* could submit testimony in writing, making it workable for a court with a wide jurisdiction. It would not, however, apply to contexts such as *kiddush hachodesh*, where the modality of testimony is itself constitutive of the act.
 
 ### Modaa Definition
+
 
 Rava continues with the second category: *moda'ah bifnei shnayim* — a declaration of coercion must also be made before two witnesses. Many are familiar with a *modaa* from the *hatarat nedarim* procedure, at the end of which there is a *minhag* to submit a *modaa* to the *beit din* proactively annulling future vows, a practice that may also underlie *kol nidre*. In the present context, a *modaa* is a formal preemptive protest registered before witnesses to the effect that a transaction one is about to enter is not truly voluntary. The Rashbam's example is *mi she'ansuhu limkor u'leiten shelo be-al korcho*: someone who is being coerced into selling property. Before completing the sale, he appears before two witnesses and states for the record that the transaction is being made under duress. The witnesses may then write a *shtar* documenting his *modaa*. Just as with *machaa*, a *modaa bifnei shnayim ve'ein tzarich lomar ketovu* — the owner need not explicitly instruct the witnesses to write it.
 
@@ -45,10 +50,6 @@ One might ask whether this creates a mechanism for abuse — whether someone cou
 
 ### Hodaah & Auth.
 
-> **Hebrew/Aramaic:** הוֹדָאָה – בִּפְנֵי שְׁנַיִם, וְצָרִיךְ לוֹמַר ״כְּתוֹבוּ״;
->
-> **Translation:** **An admission** of a monetary obligation needs to be stated **in the presence of two** witnesses, **and** in this case, the one stating the admission **needs to say** to the witnesses: **Write** a document detailing the admission, as this document is to his detriment; they may not write one absent a directive.
-
 The third category is *hodaah bifnei shnayim* — an admission before two witnesses, such as acknowledging a debt or that a piece of land belongs to another. Here the rule is different: *tzarich lomar ketovu* — the witnesses do require explicit authorization from the admitting party before they may write a *shtar* recording the admission. The asymmetry with *machaa* and *modaa* is significant. Writing down a *hodaah* as a *shtar* increases the obligor's liability: a debt recorded in a *shtar* creates a lien on properties sold after the document's date, whereas an unrecorded oral obligation does not. Giving the witnesses permission to write that *shtar* without consent would thus be *chavin le'adam she'lo befanav* — imposing a liability on someone without his presence or approval. *Zachin le'adam she'lo befanav* cannot be invoked, because it functions only for benefits, not for burdens.
 
 The underlying distinction, properly stated, is not merely that a *machaa* and *modaa* are equally valid whether oral or written — it is precisely that writing them as a *shtar* confers no additional legal power. In the case of *machaa* and *modaa*, the written *shtar* is simply a more convenient record of what already has full validity as an oral act: it makes it easier to produce proof later without needing to locate the witnesses. By contrast, writing a *hodaah* as a *shtar* elevates its legal potency in a material way, which is why it requires the admitting party's explicit consent.
@@ -57,11 +58,9 @@ The underlying distinction, properly stated, is not merely that a *machaa* and *
 
 ## Kinyan Chalupin
 
-### Kinyan Intro
 
-> **Hebrew/Aramaic:** קִנְיָן – בִּפְנֵי שְׁנַיִם, וְאֵינוֹ צָרִיךְ לוֹמַר ״כְּתוֹבוּ״;
->
-> **Translation:** **Acquisition** by means of a symbolic act utilizing a cloth needs to be done **in the presence of two** witnesses, **and** the parties do **not need to say** to the witnesses: **Write** a document detailing the acquisition; they can write one even absent a directive.
+
+### Kinyan Intro
 
 The fourth and most analytically rich case in this passage is *kinyan bifnei shnayim* — a *kinyan* must be performed before two witnesses. When the *Gemara* uses the unqualified term *kinyan*, it refers to *kinyan chalupin*, the exchange-based acquisition, and specifically to what is called *kinyan sudar*: a symbolic exchange in which one party hands over a cloth or garment — not as the subject of the transaction but as the instrument through which the transfer of something else is effected. A person might sell a field worth half a million dollars by receiving the buyer's watch and handing over the field; the watch-transfer is the *kinyan* that effects the transaction. This contrasts with modes of *kinyan* that involve a direct physical relationship with the object being transferred, such as *meshikha* — pulling an animal on a leash — or *chazaka* — performing an act of ownership on land, like building a fence or digging a hole.
 
@@ -69,17 +68,15 @@ The requirement that *kinyan* be done before two witnesses is itself striking. N
 
 ### Rava's Question
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: אִי קַשְׁיָא לִי, הָא קַשְׁיָא לִי – הַאי קִנְיָן, הֵיכִי דָמֵי? אִי כְּמַעֲשֵׂה בֵּית דִּין דָּמֵי, לִיבְעֵי תְּלָתָא! אִי לָא כְּמַעֲשֵׂה בֵּית דִּין דָּמֵי, אַמַּאי אֵינוֹ צָרִיךְ לוֹמַר ״כְּתוֹבוּ״?
->
-> **Translation:** Rava now discusses the statement of Rav Naḥman that he quoted. **Rava said: If** any part of this statement is **difficult to me, this** is what is **difficult to me. This acquisition, what is it like? If** it is **like an act of the court, it should require three** witnesses for it to take effect, as a court must consist of at least three men. **If** it is **not like an act of the court, why does he not have to say** to the witnesses that they should **write** the document detailing the acquisition? Isn't transferring an item to another tantamount to admitting a monetary obligation?
+> **Hebrew/Aramaic:** אָמַר רָבָא: אִי קַשְׁיָא לִי, הָא קַשְׁיָא לִי – הַאי קִנְיָן, הֵיכִי דָמֵי? אִי כְּמַעֲשֵׂה בֵּית דִּין דָּמֵי, לִיבְעֵי תְּלָתָא! אִי לָא כְּמַעֲשֵׂה בֵּית דִּין דָּמֵי, אַמַּאי אֵינוֹ צָרִיךְ לוֹמַר ״כְּתוֹבוּ״?
+> **Translation:** Rava now discusses the statement of Rav Naḥman that he quoted. **Rava said: If** any part of this statement is **difficult to me, this** is what is **difficult to me. This acquisition, what is it like? If** it is **like an act of the court, it should require three** witnesses for it to take effect, as a court must consist of at least three men. **If** it is **not like an act of the court, why does he not have to say** to the witnesses that they should **write** the document detailing the acquisition? Isn’t transferring an item to another tantamount to admitting a monetary obligation?
 
 Rava formulates a sharp question about this ruling — framing it with characteristic humility before his teacher: *i kashya li ha kashya li*, "if there is a difficulty that troubles me, this is the one." He asks: *hai kinyan heichi dami* — what kind of *kinyan* are we dealing with? *Ei kema'aseh beit din dami* — if *kinyan* functions like a court proceeding, then *libei tlata*, you should need three, not two. And *ve'ei lo kema'aseh beit din dami* — if it is not like a court proceeding, then *amai eino tzarich lomar kitvu*? Why is it that the seller need not authorize the writing of the *shtar*? If the *kinyan* has no court-like status, then writing a *shtar* documenting it gives the buyer a stronger legal position — it places a lien on properties sold by the seller after the date of the document — and the seller thereby loses something without having consented. That would seem to be *chavin lo le'adam she'lo befanav*, imposing a loss on someone without his permission.
 
 ### Rava's Answer
 
-> **Hebrew/Aramaic:** בָּתַר דְּבָעֵי, הֲדַר פַּשְׁטַאּ: לְעוֹלָם לָאו כְּמַעֲשֵׂה בֵּית דִּין דָּמֵי; וְהָכָא, טַעְמָא מַאי דְּאֵינוֹ צָרִיךְ לוֹמַר ״כְּתוֹבוּ״ – מִשּׁוּם דִּסְתַם קִנְיָן לִכְתִיבָה עוֹמֵד.
->
-> **Translation:** **After** Rava **raised the dilemma,** he **then resolves it. Actually,** it is **not considered like an act of the court. And here, what is the reason that he does not have to say** to the witnesses that they should **write?** It is **due to** the fact **that** a record of **an unspecified acquisition** is **ready to** be **written.** A symbolic act of acquisition indicates one's intention to do everything possible to finalize the transaction as soon as possible without waiting for the actual transfer of the item. Therefore, it is assumed that the parties would desire that a document be written, and no explicit authorization is necessary.
+> **Hebrew/Aramaic:** בָּתַר דְּבָעֵי, הֲדַר פַּשְׁטַאּ: לְעוֹלָם לָאו כְּמַעֲשֵׂה בֵּית דִּין דָּמֵי; וְהָכָא, טַעְמָא מַאי דְּאֵינוֹ צָרִיךְ לוֹמַר ״כְּתוֹבוּ״ – מִשּׁוּם דִּסְתַם קִנְיָן לִכְתִיבָה עוֹמֵד.
+> **Translation:** **After** Rava **raised the dilemma,** he **then resolves it. Actually,** it is **not considered like an act of the court. And here, what is the reason that he does not have to say** to the witnesses that they should **write?** It is **due to** the fact **that** a record of **an unspecified acquisition** is **ready to** be **written.** A symbolic act of acquisition indicates one’s intention to do everything possible to finalize the transaction as soon as possible without waiting for the actual transfer of the item. Therefore, it is assumed that the parties would desire that a document be written, and no explicit authorization is necessary.
 
 *Batar de'bayye hadar pashtei* — after posing the question, Rava resolved it himself. *Le'olam lav kema'aseh beit din dami* — kinyan is definitively not like a court proceeding. The answer to the second horn of the dilemma is: *demai de'eino tzarich lomar koshvu mishum distam kinyan lechtiva omeid* — the seller's explicit authorization is unnecessary because any unqualified *kinyan* implicitly carries authorization for the witnesses to write a *shtar*. When a seller performs a *kinyan chalupin*, he has by that very act implicitly consented to the witnesses producing a *shtar*. This is what is meant by the phrase *stam kinyan lechtiva omeid* — a plain *kinyan* stands for writing.
 
@@ -109,66 +106,61 @@ This connects directly to *shtar*: *she'hakinyan b'shtar*, because *kinyan* tran
 
 ## Modaa Limits
 
-### Rabba & R.Y.
 
-> **Hebrew/Aramaic:** רַבָּה וְרַב יוֹסֵף דְּאָמְרִי תַּרְוַיְיהוּ: לָא כָּתְבִינַן מוֹדָעָא, אֶלָּא אַמַּאן דְּלָא צָיֵית דִּינָא.
->
-> **Translation:** § The Gemara discusses the *halakhot* of a preemptive declaration. **Rabba and Rav Yosef both say: We write** a preemptive **declaration only concerning one who does not** generally **listen to** and implement **the judgment** of the court. In such a case, there is no recourse other than to write a preemptive declaration on behalf of the seller nullifying the transaction. If the buyer would be willing to listen to the court, the seller is expected to deal with the matter in court, rather than participating in the sale and writing a preemptive declaration.
+
+### Rabba & R.Y.
 
 The *Gemara* now introduces limitations on when and how a *modaa* may be written. Rabba and Rav Yosef both rule: *lo katbinan moda'ah ela aman d'lo tzai dina* — we do not write a *modaa* except against someone who refuses to submit to court jurisdiction. The Rashbam explains: *sarvan bedin*, a recalcitrant litigant. If the person accused of coercing the sale *does* submit to court, the Rabbis ask why a *modaa* is necessary at all — the victim can simply bring his complaint before the *beit din* directly. The *modaa* mechanism is therefore reserved for cases where the coercing party has made himself unavailable to judicial process.
 
+> **Hebrew/Aramaic:** רַבָּה וְרַב יוֹסֵף דְּאָמְרִי תַּרְוַיְיהוּ: לָא כָּתְבִינַן מוֹדָעָא, אֶלָּא אַמַּאן דְּלָא צָיֵית דִּינָא. אַבָּיֵי וְרָבָא דְּאָמְרִי תַּרְוַיְיהוּ: אֲפִילּוּ עָלַי וְעָלֶיךָ. אָמְרִי נְהַרְדָּעֵי: כֹּל מוֹדָעָא
+> **Translation:** § The Gemara discusses the *halakhot* of a preemptive declaration. **Rabba and Rav Yosef both say: We write** a preemptive **declaration only concerning one who does not** generally **listen to** and implement **the judgment** of the court. In such a case, there is no recourse other than to write a preemptive declaration on behalf of the seller nullifying the transaction. If the buyer would be willing to listen to the court, the seller is expected to deal with the matter in court, rather than participating in the sale and writing a preemptive declaration. **Abaye and Rava both say:** A preemptive declaration may be written **even** concerning someone who is law abiding, such as **for me and for you,** as not every issue can be settled through the courts. The Sages **of Neharde’a say: Any** preemptive **declaration**
+
 ### Abaye & Rava
 
-> **Hebrew/Aramaic:** אַבָּיֵי וְרָבָא דְּאָמְרִי תַּרְוַיְיהוּ: אֲפִילּוּ עָלַי וְעָלֶיךָ. אָמְרִי נְהַרְדָּעֵי: כֹּל מוֹדָעָא
->
-> **Translation:** **Abaye and Rava both say:** A preemptive declaration may be written **even** concerning someone who is law abiding, such as **for me and for you,** as not every issue can be settled through the courts. The Sages **of Neharde'a say: Any** preemptive **declaration**
+
 
 Against this, Abaye and Rava both rule in the opposite direction: *afilu alai ve'alach*, even in a case where both parties would normally submit to court authority, it is still appropriate to write a *modaa de'zimnin de'ein beit din mezuman miyad* — because there are times when the court is not immediately available. If access to the *beit din* is practically difficult — whether due to delay, inconvenience, or any other circumstance — the *modaa* may be written whenever needed. Rabba and Rav Yosef thus restrict the *modaa*; Abaye and Rava restore its scope.
 
+[DAF:40b]
 ### Nehardai
 
-> **Hebrew/Aramaic:** דְּלָא כְּתִיב בָּהּ: ״אֲנַן יָדְעִינַן בֵּיהּ בְּאוּנְסָא דִפְלָנְיָא״ – לָאו מוֹדָעָא הִיא.
->
-> **Translation:** **that** does **not** have **written in it** the formulation: **We are aware of so-and-so's duress,** i.e., we are aware of the nature of the coercion that forced him to enter this arrangement against his will, **is not** a valid preemptive **declaration.**
+> **Hebrew/Aramaic:** דְּלָא כְּתִיב בָּהּ: ״אֲנַן יָדְעִינַן בֵּיהּ בְּאוּנְסָא דִפְלָנְיָא״ – לָאו מוֹדָעָא הִיא.
+> **Translation:** **that** does **not** have **written in it** the formulation: **We are aware of so-and-so’s duress,** i.e., we are aware of the nature of the coercion that forced him to enter this arrangement against his will, **is not** a valid preemptive **declaration.**
 
 The scholars of Nehardai add a further requirement from a different direction: *kol moda'ah delo ketiv bah anan yadinan beh be'onsa de'planya lav moda'ah hi* — any *modaa* that does not contain the words "we know that so-and-so is being coerced" is not a valid *modaa*. This is a striking limitation. If the *modaa* merely records that the seller told the witnesses he was being coerced, that is insufficient — it is merely his hearsay claim, and a *shtar* that records someone's assertion about himself carries little independent weight. For the *modaa* to be valid, the witnesses must themselves have independent knowledge of the coercion: they must have witnessed a threat, observed pressure being applied, or at minimum have sufficient awareness of the circumstances that they can attest *anan yadinan* — *we* know — rather than merely relaying what the seller told them.
 
-[DAF:40b]
 ### Modaa Subject
 
-> **Hebrew/Aramaic:** מוֹדָעָא דְמַאי? אִי דְּגִיטָּא וּדְמַתַּנְתָּא – גַּלּוֹיֵי מִילְּתָא בְּעָלְמָא הִיא! וְאִי דִּזְבִינֵי, וְהָאָמַר רָבָא: לָא כָּתְבִינַן מוֹדָעָא אַזְּבִינֵי!
->
-> **Translation:** **For what** type of transaction is the preemptive **declaration** being stated? **If** one were to say that it is a preemptive declaration **for a bill of divorce or for a gift,** the preemptive declaration **is merely revealing the matter.** Since these actions can't take place unless he desires it, it is sufficient that he stated that he does not desire them, and he need not specify a particular reason for nullifying them. **And if** it is **for a sale, but doesn't Rava say: We do not write** a preemptive **declaration for a sale?**
+> **Hebrew/Aramaic:** מוֹדָעָא דְמַאי? אִי דְּגִיטָּא וּדְמַתַּנְתָּא – גַּלּוֹיֵי מִילְּתָא בְּעָלְמָא הִיא! וְאִי דִּזְבִינֵי, וְהָאָמַר רָבָא: לָא כָּתְבִינַן מוֹדָעָא אַזְּבִינֵי!
+> **Translation:** **For what** type of transaction is the preemptive **declaration** being stated? **If** one were to say that it is a preemptive declaration **for a bill of divorce or for a gift,** the preemptive declaration **is merely revealing the matter.** Since these actions can’t take place unless he desires it, it is sufficient that he stated that he does not desire them, and he need not specify a particular reason for nullifying them. **And if** it is **for a sale, but doesn’t Rava say: We do not write** a preemptive **declaration for a sale?**
 
 The *Gemara* then clarifies what subject matter a *modaa* actually addresses. One might think a *modaa* could apply to a *get* or to a *matana*, a gift. But a *modaa* on a *get* or *matana* is simply *gilyui milta be'alma* — a disclosure of one's state of mind. When a husband, for example, states before witnesses that he does not truly wish to give the *get*, he has undercut the consent that gives the *get* its legal meaning; no formal *modaa* proceeding is required, because the *get* is entirely dependent on his unilateral will, and a statement withdrawing consent is self-effectuating. Similarly for a *matana*: the recipient is passive, and the giver's withdrawal of intent is itself dispositive.
 
-### Pardisa Case
-
-> **Hebrew/Aramaic:** לְעוֹלָם דִּזְבִינֵי; מוֹדֵי רָבָא הֵיכָא דַּאֲנִיס – וּכְמַעֲשֶׂה דְּפַרְדֵּיסָא; דְּהָהוּא גַּבְרָא דְּמַשְׁכֵּין פַּרְדֵּיסָא לְחַבְרֵיהּ לִתְלָת שְׁנִין. בָּתַר דְּאַכְלַהּ תְּלָת שְׁנֵי חֲזָקָה, אֲמַר: אִי מְזַבְּנַתְּ לִי – מוּטָב, וְאִי לָא – כָּבֵישְׁנָא לִשְׁטַר מַשְׁכַּנְתָּא, וְאָמֵינָא: ״לְקוּחָה הִיא בְּיָדִי״. כְּהַאי גַּוְונָא כָּתְבִינַן מוֹדָעָא.
->
-> **Translation:** The Gemara answers: **Actually,** it is referring to a preemptive declaration **for a sale,** as **Rava concedes** in a case **where one was compelled to act** due to a threat of monetary loss, **as with the incident of the orchard, as** there was **a certain man who mortgaged** his **orchard to another for three years. After he** worked and **profited** from **it** for the **three years** necessary **for** establishing the **presumption** of ownership, **he said: If you sell** the orchard **to me,** it is **well. And if not,** then **I will hide** the **mortgage document and I will say** that this land **is purchased** and that is why it is **in my possession,** and you will receive no payment for the orchard. **In a case like this, we write** a preemptive **declaration.** The declaration states that he does not actually desire to sell his property but was forced to do so.
-
 If, however, the *modaa* concerns a sale, a different problem presents itself: Rava himself stated *lo katvinan moda'ah azvini* — we do not write a *modaa* against a sale, because Rava's broader position (developed further on 48) is that a forced sale can sometimes be legally effective. The *Gemara* resolves this apparent contradiction: *modei Rava heichta de'anis* — Rava concedes that in a certain category of coerced sale, a *modaa* may indeed be written. This is where the case of the *pardisa* becomes the operative model.
 
+### Pardisa Case
+
+> **Hebrew/Aramaic:** לְעוֹלָם דִּזְבִינֵי; מוֹדֵי רָבָא הֵיכָא דַּאֲנִיס – וּכְמַעֲשֶׂה דְּפַרְדֵּיסָא; דְּהָהוּא גַּבְרָא דְּמַשְׁכֵּין פַּרְדֵּיסָא לְחַבְרֵיהּ לִתְלָת שְׁנִין. בָּתַר דְּאַכְלַהּ תְּלָת שְׁנֵי חֲזָקָה, אֲמַר: אִי מְזַבְּנַתְּ לִי – מוּטָב, וְאִי לָא – כָּבֵישְׁנָא לִשְׁטַר מַשְׁכַּנְתָּא, וְאָמֵינָא: ״לְקוּחָה הִיא בְּיָדִי״. כְּהַאי גַּוְונָא כָּתְבִינַן מוֹדָעָא.
+> **Translation:** The Gemara answers: **Actually,** it is referring to a preemptive declaration **for a sale,** as **Rava concedes** in a case **where one was compelled to act** due to a threat of monetary loss, **as with the incident of the orchard, as** there was **a certain man who mortgaged** his **orchard to another for three years. After he** worked and **profited** from **it** for the **three years** necessary **for** establishing the **presumption** of ownership, **he said: If you sell** the orchard **to me,** it is **well. And if not,** then **I will hide** the **mortgage document and I will say** that this land **is purchased** and that is why it is **in my possession,** and you will receive no payment for the orchard. **In a case like this, we write** a preemptive **declaration.** The declaration states that he does not actually desire to sell his property but was forced to do so.
+
 The *Gemara* presents the orchard case as the paradigm for when a *modaa* is permissible even regarding a sale. A man had given his orchard as *mashkon* — collateral — on a loan to his fellow, for three years, during which time the creditor was entitled to consume the produce. After three years of eating the fruit — the period sufficient to establish *shanei chazaka*, the presumption of ownership — the creditor said to the original owner: "If you sell it to me, fine. And if not, let me hide the *shtar mashkanta*, the document proving it was only collateral, and claim I simply purchased it outright." This threat is concrete: the creditor is explicitly threatening to suppress documentary evidence and assert a fraudulent title. In such a case, Rava would agree that the original owner may register a *modaa*, because this is a situation of genuine documented coercion aimed at forcing a sale. *Ke'hai gavna katvinan moda'ah* — in a case of this type, we do write a *modaa*.
+
+It is worth noting that this *mashkanta* arrangement differs from the *mashkanta desura* — the Syrian-style mortgage — encountered elsewhere, where the principal of the loan is gradually deducted against the value of the collateral over time, so that at the end of the term the creditor simply retains the collateral outright. Here, by contrast, the creditor has the right to eat the fruit as *ochel peirot* during the term, but has no claim to ownership at its conclusion. The three-year period creates a hazard because it coincidentally matches the duration required for *chazaka*, allowing the creditor to exploit the ambiguity — but the underlying arrangement is purely one of collateral, not a deducting mortgage. It is the exploitation of that ambiguity, by threatening to conceal the *shtar*, that generates the coercion justifying a *modaa* here.
 
 ---
 
 ## Secret Gift
 
-### Rav Yehuda
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה: הַאי מַתַּנְתָּא טְמִירְתָּא – לָא מַגְבֵּינַן בַּהּ.
->
-> **Translation:** § **Rav Yehuda says:** With regard to **this** document detailing **a concealed gift, we do not collect with it.**
+
+### Rav Yehuda
 
 Rav Yehuda rules: *hai matna temirta lo magbinan bah* — a hidden gift cannot be collected from. The scenario is one of suspected collusion: the donor secretly conveys property to one person while intending to then transfer or sell the same property to a second person publicly. The first recipient, holding the hidden document, would then emerge to claim the property from the second party who paid for it — while the donor has already taken the money and is beyond reach. Because the institution of the secret gift is designed to facilitate this kind of manipulation, it is disqualified, and no collection may be made on the basis of such a document.
 
 ### R.Y. Versions
 
-> **Hebrew/Aramaic:** הֵיכִי דָּמֵי מַתַּנְתָּא טְמִירְתָּא? אָמַר רַב יוֹסֵף, דְּאָמַר לְהוּ לְסָהֲדִי: ״זִילוּ אִטַּמּוּרוּ וְכִתְבוּ לֵיהּ״. וְאִיכָּא דְּאָמְרִי: אָמַר רַב יוֹסֵף, דְּלָא אָמַר לְהוּ: ״תִּיתְּבוּ בְּשׁוּקָא וּבְבָרָיָתָא וְתִכְתְּבוּ לֵיהּ״. מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ סְתָמָא.
->
-> **Translation:** The Gemara clarifies: **What are the circumstances** of **a concealed gift? Rav Yosef said:** It is referring to a case in **which** the giver **said to witnesses: Go** and **hide and write** a document **for** the recipient of this gift. **And there are** those **who say** that **Rav Yosef said:** It is referring to a case in **which** the giver **did not say to** witnesses: **Sit outdoors in the marketplace and write** it **for him.** The Gemara asks: **What is** the difference **between** the two versions of Rav Yosef's statement? The Gemara answers: The difference **between** the two versions is in a case where his instructions were **without specification,** i.e., he did not tell them to write the document in private or in public.
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה: הַאי מַתַּנְתָּא טְמִירְתָּא – לָא מַגְבֵּינַן בַּהּ. הֵיכִי דָּמֵי מַתַּנְתָּא טְמִירְתָּא? אָמַר רַב יוֹסֵף, דְּאָמַר לְהוּ לְסָהֲדִי: ״זִילוּ אִטַּמּוּרוּ וְכִתְבוּ לֵיהּ״. וְאִיכָּא דְּאָמְרִי: אָמַר רַב יוֹסֵף, דְּלָא אָמַר לְהוּ: ״תִּיתְּבוּ בְּשׁוּקָא וּבְבָרָיָתָא וְתִכְתְּבוּ לֵיהּ״. מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ סְתָמָא.
+> **Translation:** § **Rav Yehuda says:** With regard to **this** document detailing **a concealed gift, we do not collect with it.** The Gemara clarifies: **What are the circumstances** of **a concealed gift? Rav Yosef said:** It is referring to a case in **which** the giver **said to witnesses: Go** and **hide and write** a document **for** the recipient of this gift. **And there are** those **who say** that **Rav Yosef said:** It is referring to a case in **which** the giver **did not say to** witnesses: **Sit outdoors in the marketplace and write** it **for him.** The Gemara asks: **What is** the difference **between** the two versions of Rav Yosef’s statement? The Gemara answers: The difference **between** the two versions is in a case where his instructions were **without specification,** i.e., he did not tell them to write the document in private or in public.
 
 Rav Yosef defines what constitutes a *matana temirta*. In the first version: he told the witnesses *zilu atmuru vekitvu leih* — go and hide, and write the *shtar*. The explicit instruction to conceal the documentation is what marks the gift as hidden and therefore corrupt. In the second version, the formulation is inverted: he did *not* tell them *tivu beshuka u'vraita vekitvu leih* — sit in the marketplace, sit outside, and write the *shtar*. Here the absence of an explicit instruction to write publicly is itself what raises the concern.
 
@@ -176,25 +168,22 @@ The practical difference between the two versions crystallizes around *stama* �
 
 ### Rava Secret
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: וְהָוְיָא מוֹדָעָא לַחֲבֶרְתַּהּ.
->
-> **Translation:** **Rava said: But** a concealed gift **is** effective as a preemptive **declaration for another** gift. In other words, if he first gave an item as a concealed gift to one person, and then he gave this item as a gift to someone else, the second gift is null and void.
-
 Rava introduces a further dimension: *havya moda'ah le'chaverta* — a secret gift functions as a *modaa* against a subsequent transaction. Even though Rav Yehuda ruled that one cannot collect on a *matana temirta*, Rava holds that the very attempt to create a secret gift demonstrates the donor's true intent not to sell the property to whoever later receives it through the ostensibly public transfer. The secret gift is therefore evidence of the donor's unwillingness — a *modaa* — that invalidates the later transaction.
 
 ### Pappa Clarif.
 
-> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: הָא דְּרָבָא – לָאו בְּפֵירוּשׁ אִיתְּמַר, אֶלָּא מִכְּלָלָא אִיתְּמַר.
->
-> **Translation:** **Rav Pappa said: This** ruling **of Rava was not stated explicitly; rather, it was stated by inference,** and he did not, in fact, hold accordingly.
-
 Rav Pappa, however, cautions that Rava never stated this ruling explicitly. *Ha de'Rava la be'feirush itmar — ella miklal itmar* — it was inferred from his ruling, not directly stated. The basis for the inference is the case that actually came before Rava.
 
-### Fiancée Case
+> **Hebrew/Aramaic:** אָמַר רָבָא: וְהָוְיָא מוֹדָעָא לַחֲבֶרְתַּהּ. אָמַר רַב פָּפָּא: הָא דְּרָבָא – לָאו בְּפֵירוּשׁ אִיתְּמַר, אֶלָּא מִכְּלָלָא אִיתְּמַר.
+> **Translation:** **Rava said: But** a concealed gift **is** effective as a preemptive **declaration for another** gift. In other words, if he first gave an item as a concealed gift to one person, and then he gave this item as a gift to someone else, the second gift is null and void. **Rav Pappa said: This** ruling **of Rava was not stated explicitly; rather, it was stated by inference,** and he did not, in fact, hold accordingly.
 
-> **Hebrew/Aramaic:** דְּהָהוּא גַּבְרָא דַּאֲזַל לְקַדּוֹשֵׁי אִתְּתָא, אֲמַרָה לֵיהּ: ״אִי כָּתְבַתְּ לִי כּוּלְּהוּ נִכְסָיךְ – הָוֵינָא לָךְ, וְאִי לָא – לָא הָוֵינָא לָךְ״. אֲזַל כַּתְבֵיהּ לַהּ לְכוּלְּהוּ נִכְסֵי. אֲתָא בְּרֵיהּ קַשִּׁישָׁא, אֲמַר לֵיהּ: ״וְהָהוּא גַּבְרָא – מָה תִּהְוֵי עֲלֵיהּ?״ אֲמַר לְהוּ לְסָהֲדֵי: ״זִילוּ אִטַּמּוּרוּ בַּעֲבַר יַמִּינָא, וְכִתְבוּ לֵיהּ״. אֲתוֹ לְקַמֵּיהּ דְּרָבָא, אֲמַר לְהוּ: לָא מָר קְנָה, וְלָא מָר קְנָה.
->
-> **Translation:** Rav Pappa explains the inference: **As** there was **a certain man who went to betroth a woman. She said to him: If you write** a document signing over **all of your property to me,** then **I will be your** wife, **and if not, I will not be your** wife. **He went** and **wrote** a document signing over **all of his property to her. His eldest son came** and **said to him: And that man,** i.e., me, **what will become of him** if you give all of your property to this woman? The father **said to** two **witnesses: Go hide in Avar Yemina and write** a document **for** the son, giving him the father's property as a gift. Later, the witnesses **came before Rava.** He **said to them:** This **Master,** i.e., the son, **did not acquire** the property **and** that **Master,** i.e., the wife, **did not acquire** it either. The son did not acquire the property because it was a concealed gift.
+> **Hebrew/Aramaic:** דְּהָהוּא גַּבְרָא דַּאֲזַל לְקַדּוֹשֵׁי אִתְּתָא, אֲמַרָה לֵיהּ: ״אִי כָּתְבַתְּ לִי כּוּלְּהוּ נִכְסָיךְ – הָוֵינָא לָךְ, וְאִי לָא – לָא הָוֵינָא לָךְ״. אֲזַל כַּתְבֵיהּ לַהּ לְכוּלְּהוּ נִכְסֵי. אֲתָא בְּרֵיהּ קַשִּׁישָׁא, אֲמַר לֵיהּ: ״וְהָהוּא גַּבְרָא – מָה תִּהְוֵי עֲלֵיהּ?״ אֲמַר לְהוּ לְסָהֲדֵי: ״זִילוּ אִטַּמּוּרוּ בַּעֲבַר יַמִּינָא, וְכִתְבוּ לֵיהּ״. אֲתוֹ לְקַמֵּיהּ דְּרָבָא, אֲמַר לְהוּ: לָא מָר קְנָה, וְלָא מָר קְנָה.
+> **Translation:** Rav Pappa explains the inference: **As** there was **a certain man who went to betroth a woman. She said to him: If you write** a document signing over **all of your property to me,** then **I will be your** wife, **and if not, I will not be your** wife. **He went** and **wrote** a document signing over **all of his property to her. His eldest son came** and **said to him: And that man,** i.e., me, **what will become of him** if you give all of your property to this woman? The father **said to** two **witnesses: Go hide in Avar Yemina and write** a document **for** the son, giving him the father’s property as a gift. Later, the witnesses **came before Rava.** He **said to them:** This **Master,** i.e., the son, **did not acquire** the property **and** that **Master,** i.e., the wife, **did not acquire** it either. The son did not acquire the property because it was a concealed gift.
+
+> **Hebrew/Aramaic:** מַאן דַּחֲזָא, סָבַר – מִשּׁוּם דְּהָוְיָא מוֹדָעָא לַחֲבֶרְתַּהּ. וְלָא הִיא; הָתָם – מוֹכְחָא מִילְּתָא דְּמֵחֲמַת אוּנְסָא הוּא דִּכְתַב לַהּ; אֲבָל הָכָא – מָר נִיחָא לֵיהּ דְּלִיקְנֵי, וּמָר לָא נִיחָא לֵיהּ דְּלִיקְנֵי.
+> **Translation:** The Gemara explains why the wife does not acquire it as well. **One who observed** this incident **assumed** that Rava invalidated the wife’s acquisition **because** the concealed gift to his son **was** a preemptive **declaration to the other** gift, **but** that **is not so. There,** in the case of the woman and the son, **the matter** is self-**evident that he wrote** a document signing over his property **to her because of duress,** as she had told him that she would not marry him otherwise; **but here,** in a typical case of giving one person a concealed gift and then giving a public gift to another, that is not the case. It is possible that it is simply **amenable to him that** this **Master,** i.e., the one to whom he gave it publicly, **should acquire** the gift, **and** it is **not amenable to him that** this **Master,** i.e., the one to whom he gave it privately, **should acquire** the gift. Consequently, an incorrect inference was drawn concerning Rava’s opinion.
+
+### Fiancée Case
 
 A man was negotiating to marry a woman who set her terms clearly: *i katavt li kuleihu nikhseikh de'havina lakh* — if you write over all your property to me, I will marry you; *ve'i lo lo havina lakh* — if not, I will not. He agreed and signed over all his properties to her. His older son then came to him in distress — speaking about himself in the third person, *ve'hahu gavra mah tehevei alei* — "what will become of me?" meaning, "what inheritance will I have?" The father then turned to witnesses and said: *zilu itmuru be'eivar yemina vekitvu lei* — go to some other place and write a *shtar* conveying the property to my son instead.
 
@@ -202,13 +191,10 @@ The case thus involves a father pulled in two directions: he had freely agreed t
 
 ### Neither Acquires
 
-> **Hebrew/Aramaic:** מַאן דַּחֲזָא, סָבַר – מִשּׁוּם דְּהָוְיָא מוֹדָעָא לַחֲבֶרְתַּהּ. וְלָא הִיא; הָתָם – מוֹכְחָא מִילְּתָא דְּמֵחֲמַת אוּנְסָא הוּא דִּכְתַב לַהּ; אֲבָל הָכָא – מָר נִיחָא לֵיהּ דְּלִיקְנֵי, וּמָר לָא נִיחָא לֵיהּ דְּלִיקְנֵי.
->
-> **Translation:** The Gemara explains why the wife does not acquire it as well. **One who observed** this incident **assumed** that Rava invalidated the wife's acquisition **because** the concealed gift to his son **was** a preemptive **declaration to the other** gift, **but** that **is not so. There,** in the case of the woman and the son, **the matter** is self-**evident that he wrote** a document signing over his property **to her because of duress,** as she had told him that she would not marry him otherwise; **but here,** in a typical case of giving one person a concealed gift and then giving a public gift to another, that is not the case. It is possible that it is simply **amenable to him that** this **Master,** i.e., the one to whom he gave it publicly, **should acquire** the gift, **and** it is **not amenable to him that** this **Master,** i.e., the one to whom he gave it privately, **should acquire** the gift. Consequently, an incorrect inference was drawn concerning Rava's opinion.
 
 Rava ruled: *lo mar kana ve'lo mar kana* — neither party acquired the property. The woman did not acquire it because the father's attempt to create the hidden gift to his son functions as a *modaa* against the transfer to her. And the son did not acquire it because the hidden gift itself is a *matana temirta* from which one cannot collect, per Rav Yehuda's rule.
 
-Those who observed this ruling inferred — *savar mishum de'havia moda'ah le'chaverta* — that Rava must hold that a *matana temirta* qualifies as a *modaa* against a subsequent transfer. But Rav Pappa clarifies: Rava never said so in explicit terms.
+Those who observed this ruling inferred — *savar mishum de'havia moda'ah le'chaverta* — that Rava must hold that a *matana temirta* qualifies as a *modaa* against a subsequent transfer. But Rav Pappa clarifies: Rava never said so in explicit terms. All Rava actually said was *lo mar kana ve'lo mar kana* — neither of them acquired. The *matana temirta* in this case was the father's secret instruction to witnesses — *zilu itmuru be'eivar yemina ve'khitvu lei* — to go off to some other place and write the property over to his son instead, done covertly and in anticipation of the transfer to the woman. The ruling's outcome is entirely consistent with Rava holding that a *matana temirta* functions as a *modaa*, but he never stated that principle directly; observers simply drew that inference from the result. It is precisely this gap between what Rava's ruling implies and what he actually held that Rav Pappa is stepping in to address, a question whose full resolution turns on the nature of the owner's own intent, as the gemara will clarify shortly.
 
 ### Owner's Intent
 
@@ -220,38 +206,33 @@ But in the standard case of a *matana temirta*, the situation is different: *mar
 
 ## Stama Dispute
 
-### Stama Question
 
-> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: סְתָמָא מַאי?
->
-> **Translation:** **A dilemma was raised before** the Sages: **What** is the status of a document detailing a gift that is **without specification** as to whether the giver desired that it be publicized?
+
+### Stama Question
 
 The unresolved question is *stama mai* — what is the law in the plain case, where no explicit instruction was given either to hide the documentation or to write it publicly? This question turns entirely on which version of Rav Yosef's formulation one adopts, since the two versions precisely define the *stama* as the contested middle ground.
 
+> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ:
+> **Translation:** **A dilemma was raised before** the Sages:
+
+> **Hebrew/Aramaic:** סְתָמָא מַאי? רָבִינָא אָמַר: לָא חָיְישִׁינַן, רַב אָשֵׁי אָמַר: חָיְישִׁינַן. וְהִלְכְתָא: חָיְישִׁינַן:
+> **Translation:** **What** is the status of a document detailing a gift that is **without specification** as to whether the giver desired that it be publicized? **Ravina says: We are not concerned** that it may be a concealed gift, and **Rav Ashi says: We are concerned. And** the ***halakha*** is that **we are concerned.**
+
 ### Ravina Position
 
-> **Hebrew/Aramaic:** רָבִינָא אָמַר: לָא חָיְישִׁינַן,
->
-> **Translation:** **Ravina says: We are not concerned** that it may be a concealed gift,
 
 Ravina rules *lo chaishinan* — we do not worry about the plain case. Where the donor simply instructed witnesses to write a *shtar matana* without specifying where they should do so, this is treated as a normal, valid gift. The absence of an instruction to write publicly does not, in Ravina's view, taint the document with the suspicion of a hidden gift.
 
 ### Rav Ashi
 
-> **Hebrew/Aramaic:** רַב אָשֵׁי אָמַר: חָיְישִׁינַן.
->
-> **Translation:** **and Rav Ashi says: We are concerned.**
-
 Rav Ashi rules *chaishinan* — we do worry. Without an explicit instruction that the documentation be written in a public place, even a *stama* raises sufficient concern to be treated as a *matana temirta*.
 
 ### Halachic Conclusion
-
-> **Hebrew/Aramaic:** וְהִלְכְתָא: חָיְישִׁינַן:
->
-> **Translation:** **And** the ***halakha*** is that **we are concerned.**
 
 *Ve'hilchata chaishinan* — the *Gemara* concludes that the *halacha* follows Rav Ashi over Ravina, an outcome itself worthy of note. The plain, unspecified case is therefore treated as presumptively disqualified.
 
 ### Rashbam Pract.
 
 The Rashbam draws the practical consequence: *ve'hilkach tzarich lichtov be'toch ha'shtar ve'kach amar lanu ktuvuha be'shuka ve'chitmuha be'vara* — it is therefore required that the *shtar* itself contain an explicit statement that the donor instructed the witnesses to write it in the *shuka*, the marketplace, and to sign it *be'vara*, outside, in a public place. Mere silence on this point, even in the absence of any instruction to hide, renders the document invalid under Rav Ashi's ruling. The *shtar* must affirmatively reflect its own public character. Anything short of that written specification — including a *stama* — is disqualified according to the *halacha*.
+
+One might ask: if a *stama* is itself a *psul*, why does the *mishnah* bother teaching the case of an explicit change at all? A *kal v'chomer* would seem sufficient — if the unspecified case is already invalid, the case of outright contradiction is certainly invalid, and the *mishnah* need not state it. The answer is that the *mishnah* is written according to the first version of Rav Yosef, under which a *stama* is in fact *kasher*; it is only an explicit change that constitutes a *psul*, leaving no room for a *kal v'chomer*. Rav Ashi introduced the second version precisely because he found a difficulty in the way the *braita* was formulated, and it is under that second version that the *stama* becomes disqualified — and, as the questioner correctly noted, the *kal v'chomer* would indeed hold. The *mishnah*'s own internal logic, however, presupposes the first version, in which the two cases are not on a continuum of severity but represent categorically distinct failures, each requiring independent mention.

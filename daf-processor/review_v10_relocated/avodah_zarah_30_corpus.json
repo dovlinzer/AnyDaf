@@ -1,0 +1,512 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Yayin Nisech Source",
+    "candidates": [
+      "Section Overview",
+      "Benefit Restrictions",
+      "Wine Introduction",
+      "Yayin Nisech Source",
+      "Tosafot's Question",
+      "Tosafot Resolution",
+      "Two Categories Matter",
+      "Vinegar Persistence",
+      "Single Seal Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form a single chain of derivations \u2014 yayin nesech from zevach, zevach from meis, meis from eglah arufah, eglah arufah from kodashim \u2014 which is precisely what the 'Yayin Nisech Source' prose describes in detail.",
+      "chosen_heading": "Yayin Nisech Source",
+      "current_heading": "Yayin Nisech Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Single Seal Rule",
+    "candidates": [
+      "Tosafot's Question",
+      "Tosafot Resolution",
+      "Two Categories Matter",
+      "Vinegar Persistence",
+      "Single Seal Rule",
+      "Cooked Wine Forbidden",
+      "Status Immutability",
+      "Cooked from Start",
+      "Cooked Wine Sealing",
+      "Wine Mixtures",
+      "Alontit Definition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Single Seal Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and the first part of Item 2 both discuss the single-seal rule for vinegar/cooked wine in non-Jewish hands, which is precisely what heading 4 ('Single Seal Rule') discusses.",
+      "second_heading": "Cooked Wine Sealing",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 (the continuation about cooked wine's single-seal rule) belong under heading 8 ('Cooked Wine Sealing'), which explicitly discusses the single-seal rule for cooked wine with the same two concerns (nisuchi and chilufei).",
+      "current_heading": "Single Seal Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Alontit Definition",
+    "candidates": [
+      "Cooked Wine Forbidden",
+      "Status Immutability",
+      "Cooked from Start",
+      "Cooked Wine Sealing",
+      "Wine Mixtures",
+      "Alontit Definition",
+      "Giluy Introduction",
+      "Mixed & Cooked"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage teaches the baraita about cooked wine and alontit being forbidden, then defines alontit \u2014 content that matches heading 4 ('Wine Mixtures') whose prose explicitly discusses yayin mevushal ve'alontit shel ovdei kochavim assurim and the alontit kevriyata rule, whereas heading 5 ('Alontit Definition') covers only the definitional baraita which is just the latter portion of this passage.",
+      "chosen_heading": "Wine Mixtures",
+      "current_heading": "Alontit Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Mixed & Cooked",
+    "candidates": [
+      "Giluy Introduction",
+      "Mixed & Cooked",
+      "Cooked No Giluy",
+      "Yannai Illness Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the parallel rules about diluted and cooked wine (yayin mazug/yayin mevushal) and the dilemma about cooked wine and giluy, which is exactly what the 'Mixed & Cooked' prose describes, including the cross-category question resolved by Rabbi Ya'akov bar Idi's testimony (which belongs here as the resolution of the dilemma raised in this same passage, not as a separate section).",
+      "chosen_heading": "Mixed & Cooked",
+      "current_heading": "Mixed & Cooked",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Yannai Illness Story",
+    "candidates": [
+      "Cooked No Giluy",
+      "Yannai Illness Story",
+      "Shmuel & Avlat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the story of Rabbi Yannai bar Yishmael's illness visit, the question about cooked wine and giluy, and the 'alai ve-al tzavari' gesture, which matches the 'Yannai Illness Story' prose precisely.",
+      "chosen_heading": "Yannai Illness Story",
+      "current_heading": "Yannai Illness Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Shmuel & Avlat",
+    "candidates": [
+      "Shmuel & Avlat",
+      "Chiya Maidservant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Shmuel and Ablet/Avlat with cooked wine and the yayin nesech ruling, which exactly matches the prose in candidate 0.",
+      "chosen_heading": "Shmuel & Avlat",
+      "current_heading": "Shmuel & Avlat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Chiya Maidservant",
+    "candidates": [
+      "Chiya Maidservant",
+      "Well-Mixed Requirement",
+      "Snake in Boat Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi \u1e24iyya's maidservant incident and Rav Adda bar Ahava's attendant incident, and the current heading's prose explicitly discusses both cases (Rabbi \u1e24iyya's ruling on cooked wine and the attendant's diluted wine), making it the correct placement.",
+      "chosen_heading": "Chiya Maidservant",
+      "current_heading": "Chiya Maidservant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Snake in Boat Story",
+    "candidates": [
+      "Well-Mixed Requirement",
+      "Snake in Boat Story",
+      "Snake Risk Assessment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Pappa's qualification about well-diluted wine AND the boat story challenge, which together form the content described in heading 0's prose, while heading 1's prose describes only the challenge/story portion and heading 2's prose describes the resolution \u2014 the full passage fits best under heading 0 which describes Rav Papa's qualification followed by the ensuing discussion.",
+      "chosen_heading": "Well-Mixed Requirement",
+      "current_heading": "Snake in Boat Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Snake Risk Assessment",
+    "candidates": [
+      "Snake in Boat Story",
+      "Snake Risk Assessment",
+      "Snake Dilution Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that snakes risk their lives for undiluted wine but not for diluted wine, which is precisely the resolution described in the 'Snake Risk Assessment' prose section.",
+      "chosen_heading": "Snake Risk Assessment",
+      "current_heading": "Snake Risk Assessment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Snake Dilution Story",
+    "candidates": [
+      "Snake Dilution Story",
+      "Rava's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact story of Rabbi Yannai/Bar Hadaya watching a snake drink diluted wine by pouring water into a covered cask, which matches perfectly with the 'Snake Dilution Story' prose description.",
+      "chosen_heading": "Snake Dilution Story",
+      "current_heading": "Snake Dilution Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Rava's Ruling",
+    "candidates": [
+      "Rava's Ruling",
+      "Sleeping Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core content of Rava's ruling section: item 1 is the snake-dilution distinction that Rav Ashi dismisses, and item 2 is Rava's definitive halakhic ruling \u2014 exactly what the prose of candidate 0 describes.",
+      "chosen_heading": "Rava's Ruling",
+      "current_heading": "Rava's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Sleeping Protection",
+    "candidates": [
+      "Sleeping Protection",
+      "Rav's Stringency",
+      "Widow Exception",
+      "Shmuel's Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the attendant of Rav \u1e24ilkiya bar Tovi, sleeping near exposed water, and the rejection of the day/night distinction in sleeping protection \u2014 exactly what the 'Sleeping Protection' prose describes.",
+      "chosen_heading": "Sleeping Protection",
+      "current_heading": "Sleeping Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Shmuel's Stringency",
+    "candidates": [
+      "Rav's Stringency",
+      "Widow Exception",
+      "Shmuel's Stringency",
+      "Version Variants",
+      "Three Wine Types",
+      "Wine Definitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the full Rav/Shmuel dispute about drinking water from an Aramean's house vs. a widow's house, which begins with Rav's stringency about the Aramean's house \u2014 the starting point of the entire passage \u2014 and candidate 0 ('Rav's Stringency') is the correct home for the opening of this discussion, with the widow exception, Shmuel's position, and the alternate version all flowing as elaborations of that same topic rather than separate structural units.",
+      "chosen_heading": "Rav's Stringency",
+      "current_heading": "Shmuel's Stringency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Wine Definitions",
+    "candidates": [
+      "Version Variants",
+      "Three Wine Types",
+      "Wine Definitions",
+      "Sweet Wine Asia",
+      "Local Wine Problem",
+      "Sour Wine Timeline",
+      "Nehardean Dissent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly defines the three wine types (sharp, bitter, sweet) with specific identifications and Rav Chama's alternative formulations, which is precisely what the 'Wine Definitions' section's prose describes.",
+      "chosen_heading": "Wine Definitions",
+      "current_heading": "Wine Definitions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Nehardean Dissent",
+    "candidates": [
+      "Sweet Wine Asia",
+      "Local Wine Problem",
+      "Sour Wine Timeline",
+      "Nehardean Dissent",
+      "Toses Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together cover Rava's ruling on sour wine (the three-day timeline for giluy and yayin nesech) and the Nehardean dissent on giluy after three days \u2014 all of which is discussed under the 'Sour Wine Timeline' prose, which explicitly addresses both Rava's rule and the mi-kan va'eilach conclusion, making it the best fit; the current placement under 'Nehardean Dissent' splits a single continuous ruling.",
+      "chosen_heading": "Sour Wine Timeline",
+      "current_heading": "Nehardean Dissent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Toses Status",
+    "candidates": [
+      "Nehardean Dissent",
+      "Toses Status",
+      "Three-Day Window",
+      "Cress & Vinegar",
+      "Babylonian Dip",
+      "Puncture Mark Test",
+      "Dripping Sound"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers fermenting wine (*yayin toses*), its three-day window, and cress with/without vinegar \u2014 all three topics are introduced together in this single Baraita, and the current 'Toses Status' section is the primary heading under which this Baraita sits, with subsequent headings (Three-Day Window, Cress & Vinegar) elaborating on its sub-points in the essay prose.",
+      "chosen_heading": "Toses Status",
+      "current_heading": "Toses Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Dripping Sound",
+    "candidates": [
+      "Three-Day Window",
+      "Cress & Vinegar",
+      "Babylonian Dip",
+      "Puncture Mark Test",
+      "Dripping Sound",
+      "Fig Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers all three topics in sequence \u2014 Babylonian kuta\u1e25 (heading 2), the puncture-mark concern (heading 3), and dripping water (heading 4) \u2014 but since it is a single continuous Talmudic passage and the essay has split it across separate headings, the opening topic (kuta\u1e25 ha-bavli and venei golah) best anchors the whole passage under heading 2, 'Babylonian Dip', which matches the passage's starting subject and the venei golah language it shares with that prose.",
+      "chosen_heading": "Babylonian Dip",
+      "current_heading": "Dripping Sound",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Fig Rule",
+    "candidates": [
+      "Dripping Sound",
+      "Fig Rule",
+      "Poison Stratification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the fig rule (pi te'einah ein bo mishum giluy) and Rabbi Eliezer's ruling about eating figs at night, which is precisely what the 'Fig Rule' section's prose describes.",
+      "chosen_heading": "Fig Rule",
+      "current_heading": "Fig Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Poison Stratification",
+    "candidates": [
+      "Poison Stratification",
+      "Age Paradox",
+      "Nine & Tenth Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the three types of venom (sinking/suspended/floating) and the apparent paradox with the baraita about snakes growing stronger with age, but the current heading 'Poison Stratification' and its prose already encompasses both the venom types and the resolution, matching the full content of this passage.",
+      "chosen_heading": "Poison Stratification",
+      "current_heading": "Poison Stratification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Nine & Tenth Story",
+    "candidates": [
+      "Age Paradox",
+      "Nine & Tenth Story",
+      "Melon Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the practical halakhic relevance of young snake venom sinking, the baraita about the barrel with nine survivors and a tenth who died, and Rabbi Yirmiya's identification of sinking venom \u2014 all of which precisely matches the 'Nine & Tenth Story' section's prose.",
+      "chosen_heading": "Nine & Tenth Story",
+      "current_heading": "Nine & Tenth Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Melon Case",
+    "candidates": [
+      "Melon Case",
+      "Poison Distribution",
+      "Water Disposal",
+      "Personal Use Ban",
+      "Crevice Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the melon case \u2014 nine ate and survived, the tenth died \u2014 which is precisely what the 'Melon Case' prose section discusses.",
+      "chosen_heading": "Melon Case",
+      "current_heading": "Melon Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      158,
+      159
+    ],
+    "current_heading": "Crevice Debate",
+    "candidates": [
+      "Poison Distribution",
+      "Water Disposal",
+      "Personal Use Ban",
+      "Crevice Debate",
+      "Animal Drinking",
+      "Cat Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly present the 'Acherim omrim' crevice debate and the Gemara's analysis of the practical difference between the first tanna and Acherim regarding the back of the hand, back of the foot, and upper cheek \u2014 exactly what the 'Crevice Debate' prose describes.",
+      "chosen_heading": "Crevice Debate",
+      "current_heading": "Crevice Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      164
+    ],
+    "current_heading": "Cat Exception",
+    "candidates": [
+      "Animal Drinking",
+      "Cat Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers the full arc from the initial prohibition challenge through the cat exception and the friend's cat distinction, matching heading 0's prose which introduces the baraita challenge and the cat resolution, while heading 1's prose covers only the latter portion; however, since heading 1's prose is actually a more detailed continuation of the same passage, the passage could sit under either, but heading 0 introduces the topic more completely and the current placement under 1 splits what is a single unified discussion.",
+      "chosen_heading": "Animal Drinking",
+      "current_heading": "Cat Exception",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,364 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Appearing Threshing Floor",
+    "candidates": [
+      "Intro: Ribbis in Sales",
+      "Raba & Rav Yosef",
+      "Sha'ar Charifa vs Yatza",
+      "Appearing Threshing Floor",
+      "Commitment: Mult. Farmers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly interrogates the purpose of physically appearing at the threshing floor \u2014 asking whether it is for kinyan or for mi she-para \u2014 which is precisely what the 'Appearing Threshing Floor' section's prose describes.",
+      "chosen_heading": "Appearing Threshing Floor",
+      "current_heading": "Appearing Threshing Floor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Commitment: Mult. Farmers",
+    "candidates": [
+      "Commitment: Mult. Farmers",
+      "Rav Ashi: Explicit Commit",
+      "Rav Nachman: Agranut",
+      "Classic vs Rabbinic",
+      "Wax: Payment & Delivery"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Wax: Payment & Delivery",
+    "candidates": [
+      "Rav Ashi: Explicit Commit",
+      "Rav Nachman: Agranut",
+      "Classic vs Rabbinic",
+      "Wax: Payment & Delivery",
+      "Has Product: Permitted",
+      "No Product: Forbidden",
+      "Ownership vs Possession",
+      "Ashrai (Merchant Credit)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Nachman's general principle ('kol agar natar lei asur') and the wax case, and candidate 1 ('Rav Nachman: Agranut') explicitly discusses both elements together \u2014 the foundational formulation and its application to sales with advance payment \u2014 making it the best home for the entire quoted passage.",
+      "chosen_heading": "Rav Nachman: Agranut",
+      "current_heading": "Wax: Payment & Delivery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Ashrai (Merchant Credit)",
+    "candidates": [
+      "Has Product: Permitted",
+      "No Product: Forbidden",
+      "Ownership vs Possession",
+      "Ashrai (Merchant Credit)",
+      "Extra Money: Gift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the case where a seller has 'ashrai' (merchant credit/accounts receivable) in the town, and the Gemara's ruling that uncollected receivables are treated as not having the product \u2014 exactly what candidate 3's prose describes.",
+      "chosen_heading": "Ashrai (Merchant Credit)",
+      "current_heading": "Ashrai (Merchant Credit)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Extra Money: Gift",
+    "candidates": [
+      "Extra Money: Gift",
+      "Coin Types & Intent",
+      "Tosafot: Modern Context",
+      "Theft Repayment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav Nachman's ruling about extra money found after borrowing plus the clarification of what counts as a plausible mistake, which is precisely what the 'Extra Money: Gift' prose discusses \u2014 the distinction between plausible miscounting and deliberate gift \u2014 and the current placement is correct.",
+      "chosen_heading": "Extra Money: Gift",
+      "current_heading": "Extra Money: Gift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Theft Repayment",
+    "candidates": [
+      "Coin Types & Intent",
+      "Tosafot: Modern Context",
+      "Theft Repayment",
+      "Third-Party Returns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 2's prose discusses: the challenge of a harsh/ungenerous person who wouldn't give gifts, and the Gemara's response that he may be concealing repayment of stolen goods within the transaction, including the supporting baraita about fulfilling restitution obligations.",
+      "chosen_heading": "Theft Repayment",
+      "current_heading": "Theft Repayment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Third-Party Returns",
+    "candidates": [
+      "Third-Party Returns",
+      "Rav Kahana's Anecdote"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the third-party robbery scenario (dilma inish achreina gazlei) that the prose of 'Third-Party Returns' explicitly discusses.",
+      "chosen_heading": "Third-Party Returns",
+      "current_heading": "Third-Party Returns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rav Kahana's Anecdote",
+    "candidates": [
+      "Rav Kahana's Anecdote",
+      "Rav: Gourd Prices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Kahana sitting at the end of Rav's lesson and hearing only 'gourds, gourds' without context, then asking students what was said \u2014 exactly what heading 0's prose describes.",
+      "chosen_heading": "Rav Kahana's Anecdote",
+      "current_heading": "Rav Kahana's Anecdote",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rav: Gourd Prices",
+    "candidates": [
+      "Rav: Gourd Prices",
+      "Seller Has Full Gourds",
+      "No Full-Length: Forbidden",
+      "Natural Growth Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case of giving money to a gardener for gourds with the span/cubit distinction and the possession condition, which is precisely what heading 0 ('Rav: Gourd Prices') introduces in its prose.",
+      "chosen_heading": "Rav: Gourd Prices",
+      "current_heading": "Rav: Gourd Prices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Natural Growth Question",
+    "candidates": [
+      "Seller Has Full Gourds",
+      "No Full-Length: Forbidden",
+      "Natural Growth Question",
+      "Milk, Wool, Honey"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses the 'obvious?' objection and the 'since they grow on their own' reasoning (kivan de-mimmela karbu), which is precisely what the 'Natural Growth Question' prose discusses.",
+      "chosen_heading": "Natural Growth Question",
+      "current_heading": "Natural Growth Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Milk, Wool, Honey",
+    "candidates": [
+      "Milk, Wool, Honey",
+      "New vs. Growing Product"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita about milking goats, shearing sheep, and extracting honey \u2014 the permitted unspecified-quantity case and the forbidden specified-quantity case \u2014 which is precisely what candidate 0's prose ('Milk, Wool, Honey') describes in detail.",
+      "chosen_heading": "Milk, Wool, Honey",
+      "current_heading": "Milk, Wool, Honey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "New vs. Growing Product",
+    "candidates": [
+      "New vs. Growing Product",
+      "Item Growth vs Generation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's second view (ve-ika de-amri) that growth-by-itself is permitted, directly corresponding to the 'second view' described in the 'New vs. Growing Product' prose section.",
+      "chosen_heading": "New vs. Growing Product",
+      "current_heading": "New vs. Growing Product",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Item Growth vs Generation",
+    "candidates": [
+      "Item Growth vs Generation",
+      "Abaye: Wine & Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the distinction between items that grow in themselves (gourds) versus those that generate new product (milk/wool), which is precisely what the prose under 'Item Growth vs Generation' discusses.",
+      "chosen_heading": "Item Growth vs Generation",
+      "current_heading": "Item Growth vs Generation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Abaye: Wine & Risk",
+    "candidates": [
+      "Abaye: Wine & Risk",
+      "Rav Sharvya Challenge",
+      "Qariv & Rachok",
+      "Risk Justifies Lopsided",
+      "Risk vs Uncertainty",
+      "Connection to Fruit Cases",
+      "Tosafot: Kinyun Structure",
+      "Mishnah Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the full exchange between Abaye and Rav Sherevya about the wine barrel arrangement, which is precisely what heading 0 ('Abaye: Wine & Risk') describes in its prose.",
+      "chosen_heading": "Abaye: Wine & Risk",
+      "current_heading": "Abaye: Wine & Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Mishnah Restrictions",
+    "candidates": [
+      "Rav Sharvya Challenge",
+      "Qariv & Rachok",
+      "Risk Justifies Lopsided",
+      "Risk vs Uncertainty",
+      "Connection to Fruit Cases",
+      "Tosafot: Kinyun Structure",
+      "Mishnah Restrictions",
+      "Living Without Permission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna forbidding a lender from residing in the borrower's courtyard free of charge, and the Gemara's discussion of Rav Nachman's ruling about rent obligations \u2014 are precisely what the prose of heading 6 ('Mishnah Restrictions') describes, including the ribbis me'ucheres framework and the subsequent Gemara elaboration.",
+      "chosen_heading": "Mishnah Restrictions",
+      "current_heading": "Mishnah Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Living Without Permission",
+    "candidates": [
+      "Living Without Permission",
+      "Non-Collectible Benefits",
+      "Halvahu vs Halvenu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the two versions of Rav Nachman's ruling (*halvahu* vs *halveni*) that candidate 2's prose explicitly discusses \u2014 item 1 explains why the baraita/mishna alone was insufficient (necessitating Rav Nachman's ruling), and item 2 is the 'there are those who say' alternate formulation (*halveni*), precisely the contrast that candidate 2's prose analyzes.",
+      "chosen_heading": "Halvahu vs Halvenu",
+      "current_heading": "Living Without Permission",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Halvahu vs Halvenu",
+    "candidates": [
+      "Non-Collectible Benefits",
+      "Halvahu vs Halvenu",
+      "Tosafot: Post-Loan Favors",
+      "Public Appearance",
+      "Demanded vs Voluntary",
+      "Normal Favors Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly analyzes the difference between the 'halvahu' and 'halveni' formulations of Rav Nachman's ruling, which is precisely what the 'Halvahu vs Halvenu' section's prose discusses.",
+      "chosen_heading": "Halvahu vs Halvenu",
+      "current_heading": "Halvahu vs Halvenu",
+      "moved": false
+    }
+  }
+]

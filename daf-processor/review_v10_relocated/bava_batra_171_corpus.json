@@ -1,0 +1,343 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Positions Explained",
+    "candidates": [
+      "Mishna Debate",
+      "Positions Explained",
+      "Rav's Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav's Resolution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing exchange resolving the 'verify' dispute discussed under Rav's Resolution section, wrapping up that Amoraic back-and-forth.",
+      "second_heading": "Mishna Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishna of a new self-contained unit about partial debt repayment, which the 'Mishna Debate' prose describes precisely.",
+      "current_heading": "Positions Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rav's Resolution",
+    "candidates": [
+      "Positions Explained",
+      "Rav's Resolution",
+      "Braita Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Huna's transmission of Rav's ruling that the halakha follows neither Rabbi Yehuda nor Rabbi Yosi and that beis din tears up the old shetar and writes a new one from the original date, which is precisely what the 'Rav's Resolution' section prose describes.",
+      "chosen_heading": "Rav's Resolution",
+      "current_heading": "Rav's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Braita Clarification",
+    "candidates": [
+      "Braita Clarification",
+      "Beis Din vs. Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the challenge about whether Rav heard the baraita and Rav Huna's response that he had but did not retract \u2014 are precisely what the 'Braita Clarification' prose describes, making the current placement the correct one.",
+      "chosen_heading": "Braita Clarification",
+      "current_heading": "Braita Clarification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Beis Din vs. Witnesses",
+    "candidates": [
+      "Beis Din vs. Witnesses",
+      "Tosfot's Policy",
+      "Ten Deeds Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly articulates the Gemara's distinction between beis din's authority to confiscate money and witnesses' inability to re-perform their agency, which is precisely what heading 0's prose discusses.",
+      "chosen_heading": "Beis Din vs. Witnesses",
+      "current_heading": "Beis Din vs. Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Ten Deeds Ruling",
+    "candidates": [
+      "Tosfot's Policy",
+      "Ten Deeds Ruling",
+      "No Liens Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge to Rav's ruling by citing Rav Yehuda's statement about witnesses writing ten deeds for one field, which is precisely what the 'Ten Deeds Ruling' prose describes as the Gemara pressing on its own conclusion with this very contradiction.",
+      "chosen_heading": "Ten Deeds Ruling",
+      "current_heading": "Ten Deeds Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "No Liens Exception",
+    "candidates": [
+      "No Liens Exception",
+      "Tosfot Caveat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly address the 'No Liens Exception' topic: items 1-2 present Rav Yosef and Rabba's answers about gift deeds and deeds without achrayus, and items 3-4 present the full baraita about Rabbi Yehuda and Rabbi Yosei regarding partial repayment \u2014 all of which the candidate 0 prose explicitly discusses as the resolution through the absence of achrayus.",
+      "chosen_heading": "No Liens Exception",
+      "current_heading": "No Liens Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Tosfot Caveat",
+    "candidates": [
+      "Tosfot Caveat",
+      "Lost Shetar Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Yosei's response to Rabbi Yehuda regarding whether a receipt (shovar) should be written versus a new promissory note, which directly corresponds to the 'Lost Shetar Story' section's prose about the shovar debate between Rabbi Yehuda and Rabbi Yosei's positions on partial vs. full debt repayment.",
+      "chosen_heading": "Lost Shetar Story",
+      "current_heading": "Tosfot Caveat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Lost Shetar Story",
+    "candidates": [
+      "Tosfot Caveat",
+      "Lost Shetar Story",
+      "Bavel vs. EY"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is a baraita and Gemara discussion about postdated promissory notes (shetar me'uchar) and whether one writes a shovar (receipt), explicitly resolving around Rabbi Yehuda's position that one does not write a shovar and Rabbi Yosei's position that one does \u2014 exactly the machlokes about kotvin/ein kotvin shovar that the 'Bavel vs. EY' prose section discusses.",
+      "chosen_heading": "Bavel vs. EY",
+      "current_heading": "Lost Shetar Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Bavel vs. EY",
+    "candidates": [
+      "Bavel vs. EY",
+      "Malveh's Loss",
+      "Loveh's Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 Rav Huna's distinction between partial and full repayment, its rejection, and the story of Rav Yitzchak/Rabbi Abba with the competing opinions of Babylonian vs. Eretz Yisrael Amoraim \u2014 are explicitly discussed in the 'Bavel vs. EY' prose, which covers exactly this content including the shovar for the full amount, the Rav-and-Shmuel vs. Rabbi Yochanan-and-Reish-Lakish dispute, and Ravin's transmission of Rabbi Ilai's ruling.",
+      "chosen_heading": "Bavel vs. EY",
+      "current_heading": "Bavel vs. EY",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Loveh's Loss",
+    "candidates": [
+      "Malveh's Loss",
+      "Loveh's Loss",
+      "Loveh's Burden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage argues that we must write a shovar because otherwise a lost shetar would let the loveh profit unjustly \u2014 this is precisely the argument about the malveh's loss described in candidate 0's prose, not the counter-argument about the loveh's loss in candidate 1.",
+      "chosen_heading": "Malveh's Loss",
+      "current_heading": "Loveh's Loss",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Loveh's Burden",
+    "candidates": [
+      "Loveh's Loss",
+      "Loveh's Burden",
+      "Predated Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's counter-argument about the lost receipt (shovar) and Rava's response with 'eved loveh l'ish malveh,' which is precisely what candidate 0 ('Loveh's Loss') discusses \u2014 Abaye's mirror-argument about the loveh losing his shovar and Rava's resolution \u2014 whereas candidate 1 discusses only Rava's ruling and its practical upshot as a settled matter.",
+      "chosen_heading": "Loveh's Loss",
+      "current_heading": "Loveh's Burden",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Predated Invalid",
+    "candidates": [
+      "Predated Invalid",
+      "Loan vs. Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states exactly the mishna from Shevi'it about predated notes being invalid and postdated ones being valid, which is precisely what heading 0's prose introduces and explains.",
+      "chosen_heading": "Predated Invalid",
+      "current_heading": "Predated Invalid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Loan vs. Sale",
+    "candidates": [
+      "Loan vs. Sale",
+      "Double Collection Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Hamnuna's distinction between loan documents and sale documents with the Nisan/Tishrei fraud scenario, which is precisely what the 'Loan vs. Sale' prose section describes.",
+      "chosen_heading": "Loan vs. Sale",
+      "current_heading": "Loan vs. Sale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Double Collection Risk",
+    "candidates": [
+      "Double Collection Risk",
+      "Rav Abba Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the challenge about postdated promissory notes enabling double collection via a lost-shetar/shovar scheme, and the resolution that Rav Hamnuna holds we do not write a shovar \u2014 are precisely the content described in the 'Double Collection Risk' prose section.",
+      "chosen_heading": "Double Collection Risk",
+      "current_heading": "Double Collection Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Rav Abba Solution",
+    "candidates": [
+      "Rav Abba Solution",
+      "Current Problem",
+      "Rav Safra Rule",
+      "Undated Receipt Risk",
+      "Modern Practice"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Abba Solution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Yeimar/Rav Yirmiyah's question and Rav Abba's solution of annotating the shetar, which is exactly what the 'Rav Abba Solution' prose describes.",
+      "second_heading": "Current Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Ashi's question about current practice not following Rav Abba's instructions and Rav Safra's alternative approach, which corresponds to the 'Current Problem' heading (with the Rav Safra content spilling into that section as the answer to that problem).",
+      "current_heading": "Rav Abba Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Modern Practice",
+    "candidates": [
+      "Current Problem",
+      "Rav Safra Rule",
+      "Undated Receipt Risk",
+      "Modern Practice",
+      "Rabbis' Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Item 1 introduces the question about current practice (matching 'Modern Practice' prose about Ravina/Rav Ashi raising the problem of current practice lacking protections), and Item 2 is Rav Ashi's closing response \u2014 but that response is the direct answer to the question posed in Item 1, making both items a single continuous exchange; however, the 'Modern Practice' heading's prose describes exactly this exchange (the question posed), while 'Rabbis' Framework' describes only the answer, and since both items together form one Q&A unit, the current placement under 'Modern Practice' captures the initiating question while the answer naturally follows \u2014 yet re-reading shows the current placement (index 3) already contains both items, so it remains correct.",
+      "chosen_heading": "Modern Practice",
+      "current_heading": "Modern Practice",
+      "moved": false
+    }
+  }
+]

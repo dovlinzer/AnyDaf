@@ -1,0 +1,330 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Widow/Mature Prohibition",
+    "candidates": [
+      "Kiddushin/Nissu'in Review",
+      "Kohen Gadol Restrictions",
+      "Widow/Mature Prohibition",
+      "Three Maturity Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna's content \u2014 the kohen gadol's prohibition against marrying a widow (distinguishing erusin from nissu'in), the bogeret prohibition with the dispute of Rabbi Elazar and Rabbi Shimon, and the mukat etz clause \u2014 is precisely what the prose of candidate 2 ('Widow/Mature Prohibition') discusses and contextualizes.",
+      "chosen_heading": "Widow/Mature Prohibition",
+      "current_heading": "Widow/Mature Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Three Maturity Stages",
+    "candidates": [
+      "Three Maturity Stages",
+      "Rabbi Meir Hymen View",
+      "Eliezer/Shimon Sex View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the almanah prohibition \u2014 whether it applies to widows from betrothal or only from marriage, resolved by analogy to gerushah \u2014 which is precisely what the 'Three Maturity Stages' prose describes in its opening paragraph before moving on to bogeret.",
+      "chosen_heading": "Three Maturity Stages",
+      "current_heading": "Three Maturity Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Eliezer/Shimon Sex View",
+    "candidates": [
+      "Rabbi Meir Hymen View",
+      "Eliezer/Shimon Sex View",
+      "Rav Yehudah Anal Sex",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita and gemara analysis of the dispute between Rabbi Meir and Rabbi Eliezer/Shimon over the bogeret and the interpretation of 'bi-vstuleha,' which is precisely what the 'Rabbi Meir Hymen View' prose discusses \u2014 including the kedarkah/shelo kedarkah distinction and the competing readings of besulah/betuleha/bi-vstuleha \u2014 before moving on to Rav Yehudah's ruling in the next section.",
+      "chosen_heading": "Rabbi Meir Hymen View",
+      "current_heading": "Eliezer/Shimon Sex View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Rav Yehudah Anal Sex",
+      "Rava's Challenge",
+      "Bestiality Non-Sex",
+      "Abaye Objection",
+      "Mukat Etz Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain \u2014 Rav's ruling, Rava's challenge from the baraita, the resolution that the baraita follows Rabbi Meir while Rav follows Rabbi Eliezer, and then the further question about zona vs. be'ulah resolved by Rav Yosef's bestiality case \u2014 all of which are explicitly narrated in candidate 1's prose.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Mukat Etz Response",
+    "candidates": [
+      "Bestiality Non-Sex",
+      "Abaye Objection",
+      "Mukat Etz Response",
+      "Rabbi Zeira Solution",
+      "Retroactive Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's 'mimman nafshach' objection, which the essay's 'Abaye Objection' prose section explicitly describes and analyzes, whereas the current placement under 'Mukat Etz Response' is the section that follows Abaye's objection.",
+      "chosen_heading": "Abaye Objection",
+      "current_heading": "Mukat Etz Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Retroactive Marriage",
+    "candidates": [
+      "Rabbi Zeira Solution",
+      "Retroactive Marriage",
+      "Agunah Application",
+      "Bestiality Permitted",
+      "Tannaitic Non-Human"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's direct statement introducing the mi'un solution, which is precisely what candidate 0's prose describes and analyzes, whereas candidate 1 discusses Rav Chaim's subsequent conceptual analysis of that solution.",
+      "chosen_heading": "Rabbi Zeira Solution",
+      "current_heading": "Retroactive Marriage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Tannaitic Non-Human",
+    "candidates": [
+      "Agunah Application",
+      "Bestiality Permitted",
+      "Tannaitic Non-Human",
+      "Heitlu Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Shimi bar \u1e24iyya's statement and the baraita together, and candidate 1 ('Bestiality Permitted') explicitly discusses Rav Shimi bar \u1e24iyya's ruling as its primary content, while candidate 2 ('Tannaitic Non-Human') discusses only the baraita portion \u2014 the full passage (both items together) better fits under the heading that introduces Rav Shimi bar \u1e24iyya's statement first.",
+      "chosen_heading": "Bestiality Permitted",
+      "current_heading": "Tannaitic Non-Human",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Heitlu Story",
+    "candidates": [
+      "Tannaitic Non-Human",
+      "Heitlu Story",
+      "Esnan Zonah Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the Heitlu incident with Rav Dimi, Rabbi Yehuda HaNasi's ruling, and Shmuel's comment about fitness for a High Priest, which is precisely what the 'Heitlu Story' prose section discusses.",
+      "chosen_heading": "Heitlu Story",
+      "current_heading": "Heitlu Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Esnan Zonah Derivation",
+    "candidates": [
+      "Esnan Zonah Derivation",
+      "Rape/Seduction Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the derivation that bestiality is not categorized as zenut, using the verse about esnan zonah and the mishna about esnan kelev u-mechir zonah \u2014 exactly what the prose of heading 0 discusses.",
+      "chosen_heading": "Esnan Zonah Derivation",
+      "current_heading": "Esnan Zonah Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Rape/Seduction Debate",
+    "candidates": [
+      "Rape/Seduction Debate",
+      "Marriage Divorce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about anusas atzmo/chaveiro and the chalal debate, which is precisely what the prose under 'Rape/Seduction Debate' (heading 0) describes and analyzes.",
+      "chosen_heading": "Rape/Seduction Debate",
+      "current_heading": "Rape/Seduction Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Marriage Divorce",
+    "candidates": [
+      "Marriage Divorce",
+      "Toleration Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rav Huna citing Rav's ruling that he must divorce with a get, and Rav Acha bar Yaakov's explanation that 'im nasa nasa' teaches the exemption from the fine \u2014 exactly the content described in candidate 0's prose about 'Marriage Divorce'.",
+      "chosen_heading": "Marriage Divorce",
+      "current_heading": "Marriage Divorce",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Toleration Problem",
+    "candidates": [
+      "Toleration Problem",
+      "Chalal from Aseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rav Geviha/Rav Ashi exchange about bogeret and mukat etz and the sofa lihyot reasoning, which is precisely what the 'Toleration Problem' prose describes \u2014 the im nasa nasa principle, the sofa lihyot bogeret/mukat etz tachtav argument, and the concluding difficulty for Rav Huna.",
+      "chosen_heading": "Toleration Problem",
+      "current_heading": "Toleration Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Chalal from Aseh",
+    "candidates": [
+      "Chalal from Aseh",
+      "Rav Ashi Chalal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita dispute about anusas chaveiro/mefutas chaveiro and Rav's ruling following Rabbi Eliezer ben Yaakov, which is precisely what the 'Chalal from Aseh' section's prose describes and introduces.",
+      "chosen_heading": "Chalal from Aseh",
+      "current_heading": "Chalal from Aseh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Rav Ashi Chalal",
+    "candidates": [
+      "Rav Ashi Chalal",
+      "Betrothed Sister Debate",
+      "Sex Excludes Tumah",
+      "Mukat Etz Tumah",
+      "Bogeret Tumah",
+      "Standard Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items directly address the dispute about chalal status from chayvei aseh versus chayvei lav, the 'kav ve-naki' objection to the zona explanation, Rav Ashi's alternative explanation, and the textual derivation from 'eleh' \u2014 exactly the content described in the 'Rav Ashi Chalal' prose.",
+      "chosen_heading": "Rav Ashi Chalal",
+      "current_heading": "Rav Ashi Chalal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Standard Reconciliation",
+    "candidates": [
+      "Betrothed Sister Debate",
+      "Sex Excludes Tumah",
+      "Mukat Etz Tumah",
+      "Bogeret Tumah",
+      "Standard Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items together form the continuous Gemara analysis of the baraita \u2014 covering the dispute, the derivations for mukat etz, arusah, bogeret, and the gezera shava question \u2014 which is precisely what the 'Standard Reconciliation' prose describes in detail.",
+      "chosen_heading": "Standard Reconciliation",
+      "current_heading": "Standard Reconciliation",
+      "moved": false
+    }
+  }
+]

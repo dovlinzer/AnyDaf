@@ -1,0 +1,425 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Injury Examples",
+    "candidates": [
+      "Opening & Context",
+      "Injury Examples",
+      "Successive Injuries"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rava's concrete injury examples (severed hand, broken leg, blinded eye, deafened) illustrating how shevet is calculated \u2014 exactly the content described in the 'Injury Examples' prose, which is also the current placement.",
+      "chosen_heading": "Injury Examples",
+      "current_heading": "Injury Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Successive Injuries",
+    "candidates": [
+      "Successive Injuries",
+      "Tzaar & Boshet",
+      "Assessment Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's dilemma about successive unevaluated injuries and its nafka mina regarding tzaar and boshet, which is precisely what the 'Successive Injuries' prose describes, including the single vs. separate assessment question and the practical difference to be explored further.",
+      "chosen_heading": "Successive Injuries",
+      "current_heading": "Successive Injuries",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Assessment Method",
+    "candidates": [
+      "Tzaar & Boshet",
+      "Assessment Method",
+      "Teiku Resolution",
+      "Rishonim Disagreement",
+      "Temporary Injury Shevet",
+      "Hand Bruise Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the second layer of Rava's question \u2014 where assessment occurred but payment had not yet been made \u2014 which is precisely what the 'Assessment Method' prose describes as its second layer of inquiry.",
+      "chosen_heading": "Assessment Method",
+      "current_heading": "Assessment Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Hand Bruise Case",
+    "candidates": [
+      "Teiku Resolution",
+      "Rishonim Disagreement",
+      "Temporary Injury Shevet",
+      "Hand Bruise Case",
+      "Parent Injury Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's dilemma about shevet for a temporary injury (hand struck and weakened but will heal), which matches exactly the prose of candidate 2 ('Temporary Injury Shevet') describing 'ba'ei Rava: shevet hapocheto bidamim mahu' and the question of whether shevet covers temporary lost wages.",
+      "chosen_heading": "Temporary Injury Shevet",
+      "current_heading": "Hand Bruise Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Parent Injury Braita",
+    "candidates": [
+      "Hand Bruise Case",
+      "Parent Injury Braita",
+      "Baldness & Job Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a continuous chain of challenge-and-response regarding whether the mishna's case of 'no bruise' resolves Rabba's dilemma about temporary injuries, covering the parent-striking case, the deafening objection, and the shaving proposal \u2014 all of which are explicitly described and analyzed in the 'Parent Injury Braita' prose.",
+      "chosen_heading": "Parent Injury Braita",
+      "current_heading": "Parent Injury Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Baldness & Job Loss",
+    "candidates": [
+      "Baldness & Job Loss",
+      "Abaye's Two Shevet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Baldness & Job Loss' prose, which explicitly discusses the depilatory (nasha) case and then walks through all five categories including tzaar with fissures, ripui for healing, shevet for the tavern dancer/jester, and boshet \u2014 precisely the content of items 1 and 2.",
+      "chosen_heading": "Baldness & Job Loss",
+      "current_heading": "Baldness & Job Loss",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Abaye's Two Shevet",
+    "candidates": [
+      "Abaye's Two Shevet",
+      "Rava's Daily Shevet",
+      "Eved Ivri Case",
+      "Eved Ivri Payments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Abaye/Rava dispute about shevet gedola and shevet ketana for a temporarily injured hand, which is exactly what the prose under heading 0 ('Abaye's Two Shevet') discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Abaye's Two Shevet",
+      "current_heading": "Abaye's Two Shevet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Eved Ivri Payments",
+    "candidates": [
+      "Rava's Daily Shevet",
+      "Eved Ivri Case",
+      "Eved Ivri Payments",
+      "Assessment Standard",
+      "Tanna Identity",
+      "Rabbi Meir Standard",
+      "Rabbi Yehuda Standard",
+      "Rabbi Shimon Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly concern the Abaye-Rava dispute about compensation when a Hebrew slave's hand is severed, which is precisely what candidate 2 ('Eved Ivri Payments') discusses in its prose, including the shevet gedola/ketana split, Rava's land-purchase solution, and the clarifying question about injuries that only affect the slave's personal value versus his productive capacity for the master.",
+      "chosen_heading": "Eved Ivri Payments",
+      "current_heading": "Eved Ivri Payments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Rabbi Shimon Standard",
+    "candidates": [
+      "Assessment Standard",
+      "Tanna Identity",
+      "Rabbi Meir Standard",
+      "Rabbi Yehuda Standard",
+      "Rabbi Shimon Standard",
+      "Sleeping Person",
+      "Wrong Target Case",
+      "Murder Comparison",
+      "Struggle Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a single continuous Gemara discussion about whose Tannaitic opinion the mishnah represents (mani matnitin) \u2014 presenting the baraita with the three Tannaim's positions, eliminating Rabbi Meir and Rabbi Yehuda, and concluding it is Rabbi Shimon \u2014 which matches precisely the 'Tanna Identity' heading's prose description.",
+      "chosen_heading": "Tanna Identity",
+      "current_heading": "Rabbi Shimon Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Struggle Source",
+    "candidates": [
+      "Sleeping Person",
+      "Wrong Target Case",
+      "Murder Comparison",
+      "Struggle Source",
+      "Liable Cases",
+      "Sleeping Exemption",
+      "Roof Fall Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items form one continuous Gemara discussion about the 'wrong target' baraita \u2014 who authored it (not Meir/Yehuda/Shimon), the murder comparison explaining Shimon's view, and the resolutions attributing it to Yehuda or Meir \u2014 which perfectly matches candidate 1 ('Wrong Target Case') rather than candidate 3 ('Struggle Source') where it currently sits.",
+      "chosen_heading": "Wrong Target Case",
+      "current_heading": "Struggle Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Roof Fall Rule",
+    "candidates": [
+      "Liable Cases",
+      "Sleeping Exemption",
+      "Roof Fall Rule",
+      "Naked Less Serious",
+      "Location Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers all three topics (liable cases, sleeping exemption, and roof fall rule) as a single unit, and the prose under 'Liable Cases' (heading 0) introduces this exact mishna text including hamevayesh et ha'arum, hasuma, and hayashen, making it the best home for the complete passage.",
+      "chosen_heading": "Liable Cases",
+      "current_heading": "Roof Fall Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Location Difference",
+    "candidates": [
+      "Naked Less Serious",
+      "Location Difference",
+      "Wind Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the naked/clothed distinction AND the bathhouse/marketplace distinction in a single baraita, and candidate 0 ('Naked Less Serious') is the heading that introduces this baraita at its start, making it the natural home for the full quoted text rather than candidate 1 which covers only the second half.",
+      "chosen_heading": "Naked Less Serious",
+      "current_heading": "Location Difference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Wind Case",
+    "candidates": [
+      "Location Difference",
+      "Wind Case",
+      "Bathhouse Clarification",
+      "Death Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wind Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concerns the wind-lifting-garments case explained by Rav Pappa, which matches exactly the 'Wind Case' prose about the wind blowing up the garment and someone compounding it.",
+      "second_heading": "Bathhouse Clarification",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concerns the bathhouse/riverbank clarification by Rav Pappa, which matches exactly the 'Bathhouse Clarification' prose about embarrassing someone on the riverbank rather than inside a private bathhouse.",
+      "current_heading": "Wind Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Death Question",
+    "candidates": [
+      "Bathhouse Clarification",
+      "Death Question",
+      "Two Frameworks",
+      "Dead Person Analysis",
+      "Rights Assignment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Abba bar Memel's dilemma about humiliating someone asleep who then died, and Rav Zevid's framing of the two possible rationales \u2014 exactly what 'Death Question' describes, before the deeper analysis of each rationale which belongs under 'Two Frameworks' and 'Dead Person Analysis'.",
+      "chosen_heading": "Death Question",
+      "current_heading": "Death Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Rights Assignment",
+    "candidates": [
+      "Two Frameworks",
+      "Dead Person Analysis",
+      "Rights Assignment",
+      "Ziluta Test",
+      "Maximum Embarrassment",
+      "Rav Pappa Kisufa"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rights Assignment",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the baraita about the deaf-mute, minor, and imbecile and tests the kisufa vs. ziluta frameworks against it \u2014 precisely what the 'Rights Assignment' prose describes.",
+      "second_heading": "Maximum Embarrassment",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the gemara's response that 'you can have no greater humiliation than being a shoteh,' which is exactly what the 'Maximum Embarrassment' prose discusses.",
+      "current_heading": "Rights Assignment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Rav Pappa Kisufa",
+    "candidates": [
+      "Ziluta Test",
+      "Maximum Embarrassment",
+      "Rav Pappa Kisufa",
+      "Kisufa vs Family"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's attempt to resolve from the baraita that boshet is due to ziluta (disgrace/societal standing), followed by a rejection via Rav Pappa's point about children who actually feel embarrassment \u2014 this is precisely the ziluta-test argument described in candidate 0's prose, not the standalone explanation of Rav Pappa's kisufa standard described in candidate 2.",
+      "chosen_heading": "Ziluta Test",
+      "current_heading": "Rav Pappa Kisufa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144
+    ],
+    "current_heading": "Kisufa vs Family",
+    "candidates": [
+      "Rav Pappa Kisufa",
+      "Kisufa vs Family",
+      "Child Test"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kisufa vs Family",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Pappa's formulation of the kisufa-vs-family dilemma, which matches exactly the 'Kisufa vs Family' prose describing his open question about mishum kisufa didei vs mishum boshet mishpacha.",
+      "second_heading": "Child Test",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the gemara's test of the family-embarrassment thesis using the katan case, which matches exactly the 'Child Test' prose describing how the gemara tests the family-embarrassment thesis against the case of katan.",
+      "current_heading": "Kisufa vs Family",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      147,
+      148
+    ],
+    "current_heading": "Child Test",
+    "candidates": [
+      "Child Test",
+      "Fool Test",
+      "Rav Pappa Reconsidered"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fool Test",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the shoteh objection to the family-embarrassment thesis and the response that a shoteh's family already suffers maximum humiliation, matching the 'Fool Test' prose exactly.",
+      "second_heading": "Rav Pappa Reconsidered",
+      "second_confidence": "high",
+      "second_reason": "Item 2 returns to Rav Pappa's position that a minor can personally feel embarrassment (demachlimu lei umichlam), matching the 'Rav Pappa Reconsidered' prose exactly.",
+      "current_heading": "Child Test",
+      "moved": true
+    }
+  }
+]

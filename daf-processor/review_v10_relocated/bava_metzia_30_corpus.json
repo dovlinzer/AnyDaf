@@ -1,0 +1,411 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Found Scrolls",
+    "candidates": [
+      "Found Scrolls",
+      "Found Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna about found scrolls, which is precisely what the 'Found Scrolls' section prose discusses in detail.",
+      "chosen_heading": "Found Scrolls",
+      "current_heading": "Found Scrolls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Found Garments",
+    "candidates": [
+      "Found Garments",
+      "Silver & Copper",
+      "Gold & Glass"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about found garments, and candidate 0's prose directly discusses shaking out a garment every thirty days, spreading it for its own needs, and the prohibition against using it for personal prestige \u2014 an exact match.",
+      "chosen_heading": "Found Garments",
+      "current_heading": "Found Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Gold & Glass",
+    "candidates": [
+      "Silver & Copper",
+      "Gold & Glass",
+      "Dignity Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the silver/copper and gold/glass rulings in one mishnah text, but the prose under 'Silver & Copper' (index 0) directly quotes and discusses the full mishnah including both clauses, making it the better home; however, the passage actually covers both rulings together, and since the current placement under 'Gold & Glass' only covers half the content while index 0's prose explicitly quotes the entire mishnah text ('klei kesef u'klei nechoshet... klei zahav u'klei zechuchit'), index 0 is the clearly better match as it discusses the full mishnah.",
+      "chosen_heading": "Silver & Copper",
+      "current_heading": "Gold & Glass",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Dignity Principle",
+    "candidates": [
+      "Gold & Glass",
+      "Dignity Principle",
+      "Shmuel's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the sack/basket ruling about dignity, which is exactly what the 'Dignity Principle' section's prose discusses and elaborates on.",
+      "chosen_heading": "Dignity Principle",
+      "current_heading": "Dignity Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Shmuel's Ruling",
+    "candidates": [
+      "Shmuel's Ruling",
+      "Ravina's Challenge",
+      "Availability Factor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's ruling itself, and the prose under heading 0 directly introduces and explains this exact statement by Shmuel about finding tefillin in the marketplace.",
+      "chosen_heading": "Shmuel's Ruling",
+      "current_heading": "Shmuel's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Availability Factor",
+    "candidates": [
+      "Ravina's Challenge",
+      "Availability Factor",
+      "No Re-lending"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Ravina's objection from the mishna about found scrolls and Abaye's response explaining the availability distinction \u2014 the objection itself (Ravina raising the challenge) is the primary content, and candidate 0's prose explicitly describes this exact exchange as Ravina's challenge, while candidate 1's prose discusses only Abaye's availability reasoning as a standalone topic.",
+      "chosen_heading": "Ravina's Challenge",
+      "current_heading": "Availability Factor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "No Re-lending",
+    "candidates": [
+      "Availability Factor",
+      "No Re-lending",
+      "Reading Restrictions",
+      "Entrusted Care"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together constitute the baraita about borrowing a sefer Torah and the gemara's analysis of why the no-re-lending rule needed to be stated specifically for a Torah scroll \u2014 exactly what the 'No Re-lending' prose describes, including the Reish Lakish general rule and the nicha lei mitzvah resolution.",
+      "chosen_heading": "No Re-lending",
+      "current_heading": "No Re-lending",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Entrusted Care",
+    "candidates": [
+      "Reading Restrictions",
+      "Entrusted Care",
+      "Airing Frequency"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Reading Restrictions",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the borrower's permission to open and read a sefer Torah and the restriction against learning new material \u2014 exactly the content described in the 'Reading Restrictions' prose.",
+      "second_heading": "Entrusted Care",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the case of a deposited sefer Torah (pikadon), the shomer's rolling obligation, and the distinction between incidental reading during maintenance versus opening for personal purposes \u2014 exactly the content described in the 'Entrusted Care' prose.",
+      "current_heading": "Entrusted Care",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Airing Frequency",
+    "candidates": [
+      "Airing Frequency",
+      "Page Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses airing frequency for new vs. old Torah scrolls (thirty days vs. twelve months), which is precisely what the 'Airing Frequency' section's prose addresses in detail.",
+      "chosen_heading": "Airing Frequency",
+      "current_heading": "Airing Frequency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Page Limits",
+    "candidates": [
+      "Page Limits",
+      "Over-Shaking Harm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the contradiction between the mishna and baraita about multiple readers sharing one scroll, and Abaye's resolution \u2014 exactly the content described in the 'Page Limits' prose.",
+      "chosen_heading": "Page Limits",
+      "current_heading": "Page Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Over-Shaking Harm",
+    "candidates": [
+      "Over-Shaking Harm",
+      "Method of Shaking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses whether shaking is beneficial and resolves the tension between daily shaking (harmful) and monthly shaking (beneficial), which is exactly what the 'Over-Shaking Harm' prose describes.",
+      "chosen_heading": "Over-Shaking Harm",
+      "current_heading": "Over-Shaking Harm",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Method of Shaking",
+    "candidates": [
+      "Method of Shaking",
+      "Fabric Types"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Method of Shaking",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 (one vs. two people shaking; by hand vs. with a stick) are explicitly discussed in the 'Method of Shaking' prose, which paraphrases both distinctions.",
+      "second_heading": "Fabric Types",
+      "second_confidence": "high",
+      "second_reason": "Item 3 (wool vs. linen fabric types) belongs under 'Fabric Types,' whose prose explicitly paraphrases the wool/linen distinction and continues with related material.",
+      "current_heading": "Method of Shaking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Fabric Types",
+    "candidates": [
+      "Fabric Types",
+      "Dual Purpose Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Fabric Types' explicitly discusses all three items: Rabbi Yochanan's cup of lukewarm water statement, the linen garments/glass vessels advice for losing money, and the ox-drivers detail \u2014 exactly matching the content of items 1-3.",
+      "chosen_heading": "Fabric Types",
+      "current_heading": "Fabric Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Dual Purpose Use",
+    "candidates": [
+      "Dual Purpose Use",
+      "Tosafot Analysis",
+      "Guests Arriving"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the dilemma 'l'tzarchah ul'tzarcho mai?' which is what Candidate 0's prose directly introduces and discusses as its central question.",
+      "chosen_heading": "Dual Purpose Use",
+      "current_heading": "Dual Purpose Use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Guests Arriving",
+    "candidates": [
+      "Tosafot Analysis",
+      "Guests Arriving",
+      "Parah Adumah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Guests Arriving",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the attempts to resolve the question from the mishnah and the baraita about guests, with the rejection based on the danger of the evil eye/thieves \u2014 exactly what the 'Guests Arriving' prose describes.",
+      "second_heading": "Parah Adumah",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 introduce the egla arufa/parah adumah analogy and its rejection via the verse 'asher lo uvad bah' \u2014 exactly what the 'Parah Adumah' prose describes.",
+      "current_heading": "Guests Arriving",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Parah Adumah",
+    "candidates": [
+      "Parah Adumah",
+      "Wooden Vessels",
+      "Copper Vessels",
+      "Silver Vessels",
+      "Tools"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the Rav Pappa principle about the word 'avad'/'uvad' and the bird/male-mounting mishna from Parah, which is precisely what the prose under 'Parah Adumah' (candidate 0) explains in detail.",
+      "chosen_heading": "Parah Adumah",
+      "current_heading": "Parah Adumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Tools",
+    "candidates": [
+      "Wooden Vessels",
+      "Copper Vessels",
+      "Silver Vessels",
+      "Tools",
+      "Three Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers all vessel types (wooden, copper, silver, tools, gold/glass) plus the pikadon extension, and the 'Tools' section prose explicitly discusses all of these including the gold/glass vessels and the pikadon/overseas owner ruling \u2014 making it the clear home for this complete baraita.",
+      "chosen_heading": "Tools",
+      "current_heading": "Tools",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Three Exceptions",
+    "candidates": [
+      "Three Exceptions",
+      "Cost Consideration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the mishnaic ruling about sack/basket, the baraita's derivation from 'vehitalamta,' and the three exceptions (kohen/graveyard, elderly/dignity, lost wages) \u2014 exactly the content described in the 'Three Exceptions' prose.",
+      "chosen_heading": "Three Exceptions",
+      "current_heading": "Three Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Cost Consideration",
+    "candidates": [
+      "Cost Consideration",
+      "Kohen Exemption",
+      "Kevod Habriyot",
+      "Dignity & Ritual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a single continuous Gemara passage asking 'for what case was the verse needed?' \u2014 covering the kohen case (item 1), the loss-of-income case (items 2-3), and concluding with the dignity case (item 4) \u2014 which is exactly what the 'Cost Consideration' prose describes as the Gemara's analysis of lemai itztrich kra through all three cases.",
+      "chosen_heading": "Cost Consideration",
+      "current_heading": "Cost Consideration",
+      "moved": false
+    }
+  }
+]

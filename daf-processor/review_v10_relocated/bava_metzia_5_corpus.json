@@ -1,0 +1,340 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Keilim/Karka Mishnah",
+    "candidates": [
+      "Keilim/Karka Mishnah",
+      "Why Karka Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself (the objection raised by Mar Zutra) that Candidate 0's prose directly describes as its central subject, walking through the four permutations of keilim/karka claims.",
+      "chosen_heading": "Keilim/Karka Mishnah",
+      "current_heading": "Keilim/Karka Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Why Karka Example",
+    "candidates": [
+      "Why Karka Example",
+      "Gilgul Shevua",
+      "Shevuos Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the exact question-and-answer sequence (keilim ve-keilim chayav? / no, patur, and the mishnah chose karka to teach gilgul) that the 'Why Karka Example' prose explicitly describes as the Gemara's challenge and deflection.",
+      "chosen_heading": "Why Karka Example",
+      "current_heading": "Why Karka Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Shevuos Teaching",
+    "candidates": [
+      "Gilgul Shevua",
+      "Shevuos Teaching",
+      "Damaged Karka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question of why zokekin is taught in Shevuos when it already appears in Kiddushin, and the answer that Shevuos is the primary location (hacha ikkar) while Kiddushin cites it incidentally (agav grara nasba) \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Shevuos Teaching",
+      "current_heading": "Shevuos Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Damaged Karka",
+    "candidates": [
+      "Damaged Karka",
+      "Shomrim Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous question-and-answer sequence about why a verse is needed to exclude karka from shevua given the heilech exemption, which is precisely what the 'Damaged Karka' prose describes.",
+      "chosen_heading": "Damaged Karka",
+      "current_heading": "Damaged Karka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Shomrim Obligation",
+    "candidates": [
+      "Shomrim Obligation",
+      "Three Cows Case",
+      "Pikadon vs Loan",
+      "Dead Cows Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rami bar \u1e24ama's baraita about the four bailees requiring partial denial and partial admission, which is precisely what the 'Shomrim Obligation' prose describes as its central content.",
+      "chosen_heading": "Shomrim Obligation",
+      "current_heading": "Shomrim Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Dead Cows Scenario",
+    "candidates": [
+      "Three Cows Case",
+      "Pikadon vs Loan",
+      "Dead Cows Scenario",
+      "Edim Testimony"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Cows Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 asks 'what are the circumstances' and proposes the heilech reading \u2014 matching heading 0's prose about the Gemara's initial heilech question regarding the three-cows scenario.",
+      "second_heading": "Dead Cows Scenario",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's rejection ('No') presenting the dead-cows/lav-heilech scenario, which matches exactly the prose of heading 2 describing lo, the peshia/ones/lo-hayu breakdown, and the conclusion lav heilech hu.",
+      "current_heading": "Dead Cows Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Edim Testimony",
+    "candidates": [
+      "Edim Testimony",
+      "Edim vs Admission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita of Aviha de-Rabbi Aptoriki \u2014 the case where witnesses testify to fifty and the question of whether a shevua applies to the remainder \u2014 which is precisely what heading 0 ('Edim Testimony') describes in its prose.",
+      "chosen_heading": "Edim Testimony",
+      "current_heading": "Edim Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Edim vs Admission",
+    "candidates": [
+      "Edim vs Admission",
+      "Chitim/Serim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the Rabbi \u1e24iyya/edim dispute \u2014 the tanna authority point, the pasuk objection, and Aviha de-Rabbi Aptoriki's reading of 'hu' and 'zeh' to exclude edim \u2014 which is precisely what the 'Edim vs Admission' prose discusses.",
+      "chosen_heading": "Edim vs Admission",
+      "current_heading": "Edim vs Admission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Chitim/Serim",
+    "candidates": [
+      "Chitim/Serim",
+      "Theft Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi \u1e24iyya's interpretation of the double qualification regarding modeh miktzas ha-tana'ah and the chitim/se'orim case (Rabban Gamliel's ruling), which is precisely what the 'Chitim/Serim' section's prose addresses.",
+      "chosen_heading": "Chitim/Serim",
+      "current_heading": "Chitim/Serim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Theft Evidence",
+    "candidates": [
+      "Theft Evidence",
+      "Shevua Question",
+      "Gazel Invalid",
+      "Shekenegdo Nishba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the shepherd case narrative \u2014 the daily witnessed handoffs, the one day without witnesses, the denial, and witnesses testifying he ate two animals \u2014 which matches exactly the prose under 'Theft Evidence' that sets up the case facts before Rabbi Zeira's question.",
+      "chosen_heading": "Theft Evidence",
+      "current_heading": "Theft Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Shekenegdo Nishba",
+    "candidates": [
+      "Shevua Question",
+      "Gazel Invalid",
+      "Shekenegdo Nishba",
+      "Takanta vs Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's objection that the shepherd is a gazlan (matching candidate 1's prose about 'Gazlan Invalid') and Rabbi Zeira's clarification about shekenegdo (matching candidate 2), but since this is a single Talmudic exchange covering both the objection and the response together, and candidate 1's prose describes Abaye's gazlan objection while candidate 2's prose describes Rabbi Zeira's clarification, the passage actually spans both \u2014 however, the passage begins with Abaye's gazlan challenge which is the primary content of candidate 1, and the shekenegdo response is the resolution; given the current placement is candidate 2 but the passage starts with the gazlan objection that candidate 1 is specifically about, candidate 1 is the better home as it introduces the exchange.",
+      "chosen_heading": "Gazel Invalid",
+      "current_heading": "Shekenegdo Nishba",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Takanta vs Torah",
+    "candidates": [
+      "Shekenegdo Nishba",
+      "Takanta vs Torah",
+      "Ro'eh Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form the continuous Gemara discussion about whether Rav Nachman's shevuat heiset could substitute for the Torah-level oath obligation, and the rejection that takanta le-takanta lo avdinan \u2014 precisely the content described in the 'Takanta vs Torah' prose section.",
+      "chosen_heading": "Takanta vs Torah",
+      "current_heading": "Takanta vs Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Ro'eh Status",
+    "candidates": [
+      "Ro'eh Status",
+      "No Less Half",
+      "Has Something"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the stam ro'eh pasul principle and its resolution via ha d'didi/ha d'alma and chazaka ein adam chotei ve-lo lo, which is precisely what the 'Ro'eh Status' prose discusses in detail.",
+      "chosen_heading": "Ro'eh Status",
+      "current_heading": "Ro'eh Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Has Something",
+    "candidates": [
+      "No Less Half",
+      "Has Something",
+      "Beit Din Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about whether the oath concerns what one has or does not have, and Rav Huna's resolution \u2014 exactly the content described in the 'Has Something' prose.",
+      "chosen_heading": "Has Something",
+      "current_heading": "Has Something",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Beit Din Logic",
+    "candidates": [
+      "Beit Din Logic",
+      "Own Claim",
+      "Limited Shevua"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beit Din Logic",
+      "first_confidence": "high",
+      "first_reason": "Item 1 asks why not swear 'all of it is mine' and answers that the court won't award all of it \u2014 exactly what heading 0 ('Beit Din Logic') discusses.",
+      "second_heading": "Own Claim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks why not swear 'half of it is mine' and answers that it contradicts his own claim \u2014 exactly what heading 1 ('Own Claim') discusses.",
+      "current_heading": "Beit Din Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Limited Shevua",
+    "candidates": [
+      "Own Claim",
+      "Limited Shevua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge ('now too he compromises his statement') and its resolution via the 'kullah sheli / u-le-divreichem' formulation, which is precisely what the 'Limited Shevua' prose explicates.",
+      "chosen_heading": "Limited Shevua",
+      "current_heading": "Limited Shevua",
+      "moved": false
+    }
+  }
+]

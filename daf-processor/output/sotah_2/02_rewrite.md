@@ -54,17 +54,6 @@ It bears noting that the *kinuy* need not be about private seclusion specificall
 
 ---
 
-## R. Eliezer vs R. Yehoshua
-
-### Seclusion Standard
-
-The *mishna* presents the dispute between *Rabbi Eliezer* and *Rabbi Yehoshua* regarding the evidentiary requirements. On the question of *kinuy* — the warning — both agree: it must be delivered in the presence of two witnesses. The dispute is about *stirah*, the testimony of seclusion.
-
-*Rabbi Eliezer* holds that *mekane lah al pi shenayim u'mashkah al pi ed echad o al pi atzmo* — the warning requires two witnesses, but to establish the seclusion and thereby compel her to drink, even one witness suffices, or even the husband's own testimony. This is a striking position: the husband himself — who cannot ordinarily serve as a witness in matters concerning his wife, let alone in a case where he is manifestly interested — is believed to testify to the *stirah*. He is not merely expressing suspicion; he is making a positive claim that he directly observed it. But it remains his testimony, which in ordinary jurisprudence would carry no weight whatsoever.
-
-*Rabbi Yehoshua*, by contrast, maximizes objectivity: *mekane lah al pi shenayim u'mashkah al pi shenayim* — both the warning and the seclusion must be established by two witnesses, and the husband cannot be counted among them.
-
----
 
 ## Asur LeKanot
 

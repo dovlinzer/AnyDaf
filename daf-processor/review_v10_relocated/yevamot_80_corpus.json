@@ -1,0 +1,494 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Issur Kinship Types",
+    "candidates": [
+      "R. Akiva: Saris Adam",
+      "Issur Lav & Mamzer",
+      "Rav Yosef: School Source",
+      "Issur Kinship Types",
+      "No Children Possible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's statement identifying the tanna of the mishna with the school of Rabbi Akiva, which is precisely what the prose of candidate 2 ('Rav Yosef: School Source') describes as being introduced at the bottom of 79b.",
+      "chosen_heading": "Rav Yosef: School Source",
+      "current_heading": "Issur Kinship Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "No Children Possible",
+    "candidates": [
+      "Issur Kinship Types",
+      "No Children Possible",
+      "Death Moment Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks exactly the question described in the 'No Children Possible' prose \u2014 ikri kan le-hakim l'achiv shem v'ha lav bar hachi hu \u2014 which is precisely what that section's prose paraphrases and discusses.",
+      "chosen_heading": "No Children Possible",
+      "current_heading": "No Children Possible",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Death Moment Proof",
+    "candidates": [
+      "Death Moment Proof",
+      "R. Eliezer vs Rava",
+      "Temporary vs Permanent",
+      "Never Fertile Once",
+      "Urination Arc Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: Rava's 'deathbed eunuch' proof (item 1), the observation that this proof is actually a refutation for Rabbi Eliezer (item 2), and the resolution distinguishing weakness-before-death from true defect (item 3) \u2014 exactly the content described in headings 0, 1, and 2 respectively, but the current placement under 'Death Moment Proof' (index 0) already contains prose that encompasses all three items as one continuous argument, and the passage fits there as a unit better than being split.",
+      "chosen_heading": "Death Moment Proof",
+      "current_heading": "Death Moment Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Urination Arc Test",
+    "candidates": [
+      "R. Eliezer vs Rava",
+      "Temporary vs Permanent",
+      "Never Fertile Once",
+      "Urination Arc Test",
+      "Birth Defect Causes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together define what 'saris chama' means \u2014 someone who never had a moment of fertility \u2014 which matches the 'Never Fertile Once' section's prose about Rabbi Yochanan's definition of 'kol shelo ra'ah sha'ah achat be-chashruto', not the 'Urination Arc Test' section which is only about the diagnostic method Abaye offers to identify such a person.",
+      "chosen_heading": "Never Fertile Once",
+      "current_heading": "Urination Arc Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Birth Defect Causes",
+    "candidates": [
+      "Urination Arc Test",
+      "Birth Defect Causes",
+      "Smitten from Womb",
+      "No Recovery Presumed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both the maternal causes of the birth defect (baking at noon, drinking strong beer) and Rav Yosef's identification of Rav Ami's teaching, which together span headings 1 and 2, but the current placement under 'Birth Defect Causes' is the best single match since that prose explicitly describes both elements of the passage including the maternal factors and the Rav Yosef/Rav Ami connection.",
+      "chosen_heading": "Birth Defect Causes",
+      "current_heading": "Birth Defect Causes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "No Recovery Presumed",
+    "candidates": [
+      "Smitten from Womb",
+      "No Recovery Presumed",
+      "Bechor Limb Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the concern about intermediate recovery and the resolution that beginning and end being impaired means we are not concerned \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "No Recovery Presumed",
+      "current_heading": "No Recovery Presumed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Bechor Limb Distinction",
+    "candidates": [
+      "Bechor Limb Distinction",
+      "Age 20 Indicator",
+      "No Chalitzah/Yibum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a single objection-and-resolution unit (Rav Mari's challenge from Bekhorot about examining a blemished animal three times, and the Gemara's answer distinguishing a single-limb defect from a whole-body condition) which is precisely what the 'Bechor Limb Distinction' prose describes.",
+      "chosen_heading": "Bechor Limb Distinction",
+      "current_heading": "Bechor Limb Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "No Chalitzah/Yibum",
+    "candidates": [
+      "Age 20 Indicator",
+      "No Chalitzah/Yibum",
+      "R. Eliezer Contradiction",
+      "Retraction Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the mishna from Nidda about the age-20 threshold for identifying a saris/ailonit and the dispute between Beit Hillel, Beit Shammai, and Rabbi Eliezer \u2014 which is precisely the content described in the 'Age 20 Indicator' prose, not the 'No Chalitzah/Yibum' section where it currently sits.",
+      "chosen_heading": "Age 20 Indicator",
+      "current_heading": "No Chalitzah/Yibum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Retraction Debate",
+    "candidates": [
+      "R. Eliezer Contradiction",
+      "Retraction Debate",
+      "Not About Chalitzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rami bar Dikulei/Shmuel's report of Rabbi Eliezer's retraction and the baraita citing Alexandria as evidence of which position he retained, which is precisely what the 'Retraction Debate' prose describes.",
+      "chosen_heading": "Retraction Debate",
+      "current_heading": "Retraction Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Not About Chalitzah",
+    "candidates": [
+      "Not About Chalitzah",
+      "Forbidden Fat Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Elazar's position that Rabbi Eliezer never retracted and that the braita was about punishments (onshin), which is precisely what the 'Not About Chalitzah' prose section discusses.",
+      "chosen_heading": "Not About Chalitzah",
+      "current_heading": "Not About Chalitzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Forbidden Fat Case",
+    "candidates": [
+      "Forbidden Fat Case",
+      "Rav: Retroactive",
+      "Shmuel: Forward",
+      "Later Hair Appears",
+      "Ailonit Knas Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full case setup (eating chelev between twelve and eighteen, developing saris signs, then growing two hairs) along with both Rav's and Shmuel's positions, which matches the 'Forbidden Fat Case' heading that introduces the entire scenario and its disputants, rather than the individual headings that analyze each opinion separately.",
+      "chosen_heading": "Forbidden Fat Case",
+      "current_heading": "Forbidden Fat Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Ailonit Knas Proof",
+    "candidates": [
+      "Rav: Retroactive",
+      "Shmuel: Forward",
+      "Later Hair Appears",
+      "Ailonit Knas Proof",
+      "No Na'arus Period"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's objection that an ailonit should be entitled to knas according to Rav, which is precisely what the 'Ailonit Knas Proof' section's prose describes.",
+      "chosen_heading": "Ailonit Knas Proof",
+      "current_heading": "Ailonit Knas Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "No Na'arus Period",
+    "candidates": [
+      "No Na'arus Period",
+      "Waiting Until 20",
+      "Eighth Month Baby",
+      "Held-Over Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the ailonit going from minority to full adulthood without a na'arus stage, and the supporting baraita about saris and ailonit \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "No Na'arus Period",
+      "current_heading": "No Na'arus Period",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Held-Over Theory",
+    "candidates": [
+      "Waiting Until 20",
+      "Eighth Month Baby",
+      "Held-Over Theory",
+      "Twelve Month Birth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete unit: Rabbi Abbahu's ruling about waiting until twenty (item 1), the challenge about eighth-month survival (item 2), and the resolution via the 'held-over' theory (item 3) \u2014 this entire sugya is introduced by and explains Rabbi Abbahu's statement, which is precisely what heading 0 ('Waiting Until 20') is about, and the 'Held-Over Theory' prose at index 2 describes only the resolution portion, not the full passage including the initial ruling.",
+      "chosen_heading": "Waiting Until 20",
+      "current_heading": "Held-Over Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Twelve Month Birth",
+    "candidates": [
+      "Held-Over Theory",
+      "Twelve Month Birth",
+      "30 Day Survival"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rava Tosfa'a's ruling about a woman whose husband went overseas and the baby was delayed twelve months, asking according to whose opinion he ruled \u2014 precisely the content discussed in the 'Twelve Month Birth' section's prose.",
+      "chosen_heading": "Twelve Month Birth",
+      "current_heading": "Twelve Month Birth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "30 Day Survival",
+    "candidates": [
+      "30 Day Survival",
+      "No Beard/Hair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabban Shimon ben Gamliel's thirty-day survival ruling and its relationship to Rava Tosfaah's ruling, which is exactly what the '30 Day Survival' section prose describes.",
+      "chosen_heading": "30 Day Survival",
+      "current_heading": "30 Day Survival",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "No Beard/Hair",
+    "candidates": [
+      "No Beard/Hair",
+      "Smooth Skin",
+      "Urination & Heat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full baraisa defining saris chama \u2014 the twenty-year threshold, the finality of classification, the beard/hair/skin signs, and the urine-foam criterion \u2014 and the current heading's prose explicitly introduces and discusses this entire baraisa as a unit, making it the best match.",
+      "chosen_heading": "No Beard/Hair",
+      "current_heading": "No Beard/Hair",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Urination & Heat",
+    "candidates": [
+      "Smooth Skin",
+      "Urination & Heat",
+      "Voice Quality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers multiple signs including urination arc, semen dissipation, urine fermentation, bathing steam, and voice \u2014 all of which are discussed together in the 'Urination & Heat' section's prose, which explicitly enumerates these same indicators as a combined list pointing to absence of bodily heat and male development.",
+      "chosen_heading": "Urination & Heat",
+      "current_heading": "Urination & Heat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Voice Quality",
+    "candidates": [
+      "Voice Quality",
+      "Rav Huna: All",
+      "R. Yochanan: One",
+      "Hair Present: All"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines the *aylonit* and lists her signs including the voice criterion discussed by Rabbi Shimon ben Elazar, which is exactly what the 'Voice Quality' section's prose discusses as the parallel sign for an *ailonit*.",
+      "chosen_heading": "Voice Quality",
+      "current_heading": "Voice Quality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Hair Present: All",
+    "candidates": [
+      "Rav Huna: All",
+      "R. Yochanan: One",
+      "Hair Present: All",
+      "Rav Nachman Case",
+      "Hair Likely Present"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three elements \u2014 Rav Huna's position (all signs required), Rabbi Yochanan's position (one sign suffices), and the clarification about when hair is present \u2014 making it a single unified Talmudic unit that introduces the whole dispute, best placed under the first heading 'Rav Huna: All' where the dispute begins.",
+      "chosen_heading": "Rav Huna: All",
+      "current_heading": "Hair Present: All",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Hair Likely Present",
+    "candidates": [
+      "Rav Nachman Case",
+      "Hair Likely Present",
+      "Mishnah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's initial challenge about the Rav Nachman incident (questioning whose opinion Rabba bar Avuh followed), which belongs under the 'Rav Nachman Case' heading that introduces this incident, not under 'Hair Likely Present' which discusses the resolution \u2014 however, since the passage includes both the challenge AND the answer (that Rav Nachman had wisps of beard), it actually fits best under 'Rav Nachman Case' as the full Gemara exchange about that incident, with the hair detail being the resolution to that case.",
+      "chosen_heading": "Rav Nachman Case",
+      "current_heading": "Hair Likely Present",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Mishnah Rule",
+    "candidates": [
+      "Hair Likely Present",
+      "Mishnah Rule",
+      "Saris Chama Only",
+      "R. Akiva Rule",
+      "Yibum Invalidates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the inference that the mishnah's saris must be bidei Shamayim (saris chama) because it is grouped with ailonit, which is exactly what candidate 2 ('Saris Chama Only') describes, while the R. Akiva conclusion belongs under candidate 3.",
+      "chosen_heading": "Saris Chama Only",
+      "current_heading": "Mishnah Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Yibum Invalidates",
+    "candidates": [
+      "Saris Chama Only",
+      "R. Akiva Rule",
+      "Yibum Invalidates",
+      "Ailonit Rule",
+      "Ailonit Permitted"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yibum Invalidates",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the saris yavam's intercourse invalidating the yevamah and the challenge/resolution regarding Rav Hamnuna's ruling about a shomeret yavam who commits licentious relations, which matches candidate 2's prose about yibum invalidation and the literary reason the mishnah frames it in terms of the saris himself.",
+      "second_heading": "Ailonit Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens a new mishnah case about the ailonit and the inference that only intercourse (not mere status) causes invalidation, which matches candidate 3's prose about the ailonit rule.",
+      "current_heading": "Yibum Invalidates",
+      "moved": true
+    }
+  }
+]

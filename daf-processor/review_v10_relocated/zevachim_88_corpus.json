@@ -1,0 +1,361 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Bird Sacrifice Proof",
+    "candidates": [
+      "Kli Sharet Review",
+      "Meila & Kli Sharet FX",
+      "Tosafot Alternative",
+      "Bird Sacrifice Proof",
+      "Blood Airspace Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are part of Rav Shimi bar Ashi's proof that the airspace of the mizbeach counts as the mizbeach itself, using the case of the disqualified bird sin offering and other pesulim \u2014 exactly what candidate 3 ('Bird Sacrifice Proof') describes.",
+      "chosen_heading": "Bird Sacrifice Proof",
+      "current_heading": "Bird Sacrifice Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Blood Airspace Problem",
+    "candidates": [
+      "Blood Airspace Problem",
+      "Rav Ashi Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the rejection of the 'demagley lehu' suggestion (pressing blood against the altar wall) and the conclusion that such an act is not valid sprinkling/zerikah, which is precisely what the 'Blood Airspace Problem' prose describes in detail, including the mitzuy/zerikah distinction and the derech haza'ah/zerikah argument.",
+      "chosen_heading": "Blood Airspace Problem",
+      "current_heading": "Blood Airspace Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rav Ashi Distinction",
+    "candidates": [
+      "Rav Ashi Distinction",
+      "Liquid vs. Dry Vessels",
+      "Rashi vs. Tosafot",
+      "Liquid Measure Difficulty",
+      "Broken Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Ashi's distinction between holding items while standing on the altar versus suspending them with a pole from outside, which is precisely what the 'Rav Ashi Distinction' section's prose describes.",
+      "chosen_heading": "Rav Ashi Distinction",
+      "current_heading": "Rav Ashi Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Broken Vessels",
+    "candidates": [
+      "Liquid vs. Dry Vessels",
+      "Rashi vs. Tosafot",
+      "Liquid Measure Difficulty",
+      "Broken Vessels",
+      "Shmuel's 4 Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains the Mishna on liquid vs. dry vessels and perforated vessels, followed by Shmuel's ruling on mizrakot and the Rav Acha/Ravina exchange about whether mincha counts as dry \u2014 all of which are explicitly covered in the 'Broken Vessels' prose section under candidate 3.",
+      "chosen_heading": "Broken Vessels",
+      "current_heading": "Broken Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Shmuel's 4 Conditions",
+    "candidates": [
+      "Shmuel's 4 Conditions",
+      "Sanctify for Pasul",
+      "Forbidden Grain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly correspond to the content described in 'Shmuel's 4 Conditions' prose: Shmuel's conditions for sanctification, the two versions and their practical difference (beirurei middot), Rabbi Yo\u1e25anan/Rabbi Asi's ruling about intent to add, and Rabbi Yosei's parallel baraita \u2014 all explicitly discussed in that section's prose.",
+      "chosen_heading": "Shmuel's 4 Conditions",
+      "current_heading": "Shmuel's 4 Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Forbidden Grain",
+    "candidates": [
+      "Sanctify for Pasul",
+      "Forbidden Grain",
+      "No Vessel Repair",
+      "Knife Care"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sanctify for Pasul",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concerns the mishna's rule about liquid vessels not sanctifying dry items, which is precisely what candidate 0 ('Sanctify for Pasul') discusses \u2014 Rav/Rav Asi's distinction between sanctifying for sacrifice vs. sanctifying for disqualification in the context of wrong vessel categories.",
+      "second_heading": "Forbidden Grain",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concerns the alternative teaching of Rav/Rav Asi applied to forbidden grain (meduma, orla, kilayim) brought as offerings, which is exactly what candidate 1 ('Forbidden Grain') discusses in detail.",
+      "current_heading": "Forbidden Grain",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Knife Care",
+    "candidates": [
+      "No Vessel Repair",
+      "Knife Care",
+      "Priestly Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The baraita covers both vessel repair (holes, chips) and knife issues (nicking, blade separation, Abba Shaul's incident) as a single continuous passage, but the prose under heading 0 introduces the full baraita while heading 1 covers only the knife-specific portions \u2014 however, since the passage is a single unified baraita that begins with vessel perforation rules, it more naturally sits under the heading that introduces the whole baraita ('No Vessel Repair'), with the knife content being a continuation of the same source text.",
+      "chosen_heading": "No Vessel Repair",
+      "current_heading": "Knife Care",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Priestly Garments",
+    "candidates": [
+      "Priestly Garments",
+      "Garment Soiling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the woven-work requirement and the laundering prohibition in one baraita, and it currently sits under 'Priestly Garments' whose prose explicitly discusses both the weaving requirement and introduces the soiling topic, making it the correct placement.",
+      "chosen_heading": "Priestly Garments",
+      "current_heading": "Priestly Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Garment Soiling",
+    "candidates": [
+      "Garment Soiling",
+      "Meail Design"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of Abaye's reframing of the baraita about laundering priestly garments, which is precisely what the 'Garment Soiling' prose discusses in detail.",
+      "chosen_heading": "Garment Soiling",
+      "current_heading": "Garment Soiling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Meail Design",
+    "candidates": [
+      "Meail Design",
+      "Bells Pomegranates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the construction of the me'il (robe) entirely of techeiles and the fashioning of pomegranates on its hem, which matches exactly the prose under 'Meail Design' discussing the me'il's sky-blue construction and pomegranate forms.",
+      "chosen_heading": "Meail Design",
+      "current_heading": "Meail Design",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Bells Pomegranates",
+    "candidates": [
+      "Bells Pomegranates",
+      "Sacrifices & Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the dispute about the number of bells/pomegranates on the High Priest's robe and the parallel dispute about shades of leprous marks, which is precisely what the 'Bells Pomegranates' prose section describes.",
+      "chosen_heading": "Bells Pomegranates",
+      "current_heading": "Bells Pomegranates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Sacrifices & Garments",
+    "candidates": [
+      "Sacrifices & Garments",
+      "Kesones Bloodshed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the juxtaposition of the offerings and priestly vestments sections, which is exactly what the 'Sacrifices & Garments' prose elaborates on.",
+      "chosen_heading": "Sacrifices & Garments",
+      "current_heading": "Sacrifices & Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Kesones Bloodshed",
+    "candidates": [
+      "Kesones Bloodshed",
+      "Breeches Miter Belt",
+      "High Priest Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the tunic (kesones), trousers (michnasayim), and mitre (mitznefet), which aligns with the current heading 'Kesones Bloodshed' whose prose discusses all three of these items in sequence, matching the gemara text exactly.",
+      "chosen_heading": "Kesones Bloodshed",
+      "current_heading": "Kesones Bloodshed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "High Priest Garments",
+    "candidates": [
+      "Breeches Miter Belt",
+      "High Priest Garments",
+      "Atone Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the atoning functions of the High Priest's additional garments (choshen, ephod, me'il, tzitz), which is precisely what the 'High Priest Garments' section's prose addresses in detail.",
+      "chosen_heading": "High Priest Garments",
+      "current_heading": "High Priest Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Atone Challenge",
+    "candidates": [
+      "Atone Challenge",
+      "Murderer Known/Unknown"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous objection-from-Rabbi-Yehoshua-ben-Levi sequence (the challenge, the two sources of atonement for bloodshed and lashon hara, and the resulting contradiction) that candidate 0's prose explicitly describes and analyzes.",
+      "chosen_heading": "Atone Challenge",
+      "current_heading": "Atone Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Murderer Known/Unknown",
+    "candidates": [
+      "Murderer Known/Unknown",
+      "Speech Privacy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the known/unknown murderer distinction and the mezid without hatra'ah case, which is exactly what candidate 0's prose elaborates on.",
+      "chosen_heading": "Murderer Known/Unknown",
+      "current_heading": "Murderer Known/Unknown",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Speech Privacy",
+    "candidates": [
+      "Speech Privacy",
+      "Communal Responsibility"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Speech Privacy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Talmudic text about malicious speech in private vs. public, which exactly matches the 'Speech Privacy' section's prose discussion of ketoret atoning for private lashon hara and me'il atoning for public lashon hara.",
+      "second_heading": "Communal Responsibility",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the 'Hadran' closing formula that concludes the tractate, which belongs under 'Communal Responsibility' \u2014 the closing section whose prose explicitly ends with '*Hadran lach mizbeach mekadesh*', making it the structural home for this tractate-ending declaration.",
+      "current_heading": "Speech Privacy",
+      "moved": true
+    }
+  }
+]

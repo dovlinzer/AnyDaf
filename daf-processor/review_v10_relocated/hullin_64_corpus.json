@@ -1,0 +1,270 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Basic Permissibility",
+    "candidates": [
+      "Basic Permissibility",
+      "Merchant's Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about buying eggs from gentiles without concern for neveilah or tereifah, which is precisely what the 'Basic Permissibility' section's prose describes.",
+      "chosen_heading": "Basic Permissibility",
+      "current_heading": "Basic Permissibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Merchant's Claim",
+    "candidates": [
+      "Merchant's Claim",
+      "Testability Standard",
+      "Avida Legluya",
+      "Fish Egg Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the objection about non-kosher birds and Avuha deShmuel's answer requiring naming a specific species, which is precisely what the 'Merchant's Claim' prose describes.",
+      "chosen_heading": "Merchant's Claim",
+      "current_heading": "Merchant's Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Fish Egg Parallel",
+    "candidates": [
+      "Testability Standard",
+      "Avida Legluya",
+      "Fish Egg Parallel",
+      "Shape Indicators",
+      "White/Yolk Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about fish egg signs (ke'simanei beitzim kach simanei dagim) and the clarification that it refers to fish embryos/ovrei dagim, which is precisely what the 'Fish Egg Parallel' prose describes.",
+      "chosen_heading": "Fish Egg Parallel",
+      "current_heading": "Fish Egg Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "White/Yolk Test",
+    "candidates": [
+      "Shape Indicators",
+      "White/Yolk Test",
+      "Non-Kosher Indicators",
+      "Scrambled Egg Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items deal with the Gemara's challenge of why one needs to rely on the merchant if the signs suffice, resolved through the cases of cut eggs (dechatuchot) and eggs scrambled in a bowl (betrufot beke'arah), which is precisely what Candidate 3 ('Scrambled Egg Ban') discusses.",
+      "chosen_heading": "Scrambled Egg Ban",
+      "current_heading": "White/Yolk Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Scrambled Egg Ban",
+    "candidates": [
+      "Non-Kosher Indicators",
+      "Scrambled Egg Ban",
+      "Lav De'oraita",
+      "Eight Birds Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about not selling tereifah eggs to a gentile unless scrambled, and the consequent prohibition on buying scrambled eggs from gentiles \u2014 exactly what the 'Scrambled Egg Ban' prose section describes.",
+      "chosen_heading": "Scrambled Egg Ban",
+      "current_heading": "Scrambled Egg Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Eight Birds Problem",
+    "candidates": [
+      "Lav De'oraita",
+      "Eight Birds Problem",
+      "Negative vs Positive",
+      "Raven-Dove Problem",
+      "Combined Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's statement that 'simanim lav de'oraita' \u2014 which is precisely what heading 0 ('Lav De'oraita') is about \u2014 and the eight birds proof is cited within it as supporting evidence for that principle, while heading 1's prose describes the eight birds as an illustration after the principle is established, suggesting the passage itself belongs under the heading that introduces the principle.",
+      "chosen_heading": "Lav De'oraita",
+      "current_heading": "Eight Birds Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Combined Evidence",
+    "candidates": [
+      "Negative vs Positive",
+      "Raven-Dove Problem",
+      "Combined Evidence",
+      "Majority Principle",
+      "Mixed Products",
+      "Contextual Leniency",
+      "Tumah Distinction",
+      "Embryo & Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly articulates the distinction between negative indicators (certainly non-kosher) and positive indicators requiring merchant specification, which is precisely what the 'Negative vs Positive' section's prose describes, including the bistama/no-specification rule and the raven-dove problem as its conclusion.",
+      "chosen_heading": "Negative vs Positive",
+      "current_heading": "Combined Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Embryo & Tumah",
+    "candidates": [
+      "Majority Principle",
+      "Mixed Products",
+      "Contextual Leniency",
+      "Tumah Distinction",
+      "Embryo & Tumah",
+      "Ravina Challenge",
+      "Rava Solution",
+      "Embryo Significance",
+      "Kosher Embryos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question 'lema'i hilcheta' about the intermingled white/yolk ruling and Rav Ukva bar Chama's answer that it matters for tumah, which is precisely what the 'Tumah Distinction' section's prose describes.",
+      "chosen_heading": "Tumah Distinction",
+      "current_heading": "Embryo & Tumah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Kosher Embryos",
+    "candidates": [
+      "Ravina Challenge",
+      "Rava Solution",
+      "Embryo Significance",
+      "Kosher Embryos",
+      "Unfertilized Spots"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: Ravina's snake-egg objection leads to Rava's reframing around the sheretz prohibition, which then raises the question of why only reptile eggs and not kosher bird embryos, answered by the miderabbanan distinction \u2014 exactly the content described in the 'Kosher Embryos' prose.",
+      "chosen_heading": "Kosher Embryos",
+      "current_heading": "Kosher Embryos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Unfertilized Spots",
+    "candidates": [
+      "Unfertilized Spots",
+      "Kesher Location",
+      "White vs Yolk Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers exactly the three rulings discussed in heading 0's prose: eggs boiled with non-kosher eggs, brooded unfertilized eggs, and discarding a blood spot \u2014 all introduced and explained there before headings 1 and 2 take up subsequent qualifications.",
+      "chosen_heading": "Unfertilized Spots",
+      "current_heading": "Unfertilized Spots",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "White vs Yolk Rule",
+    "candidates": [
+      "Kesher Location",
+      "White vs Yolk Rule",
+      "Spot Prohibition Source",
+      "Abaye Reversal",
+      "Etymology Proof",
+      "Name vs Reference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains all three elements discussed in the White vs Yolk Rule section: Rabbi Yirmeyah's kesher qualification, Dostai's white/yolk distinction with the 'spread throughout' reasoning, and Rav Geviha's report about Abaye's correction \u2014 and the current placement under 'White vs Yolk Rule' matches the prose description of these combined elements.",
+      "chosen_heading": "White vs Yolk Rule",
+      "current_heading": "White vs Yolk Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Name vs Reference",
+    "candidates": [
+      "Spot Prohibition Source",
+      "Abaye Reversal",
+      "Etymology Proof",
+      "Name vs Reference",
+      "Scriptural Parallels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both Chizkiyah's derivation and the immediate challenge about the name, which corresponds exactly to the 'Etymology Proof' section's prose describing Chizkiyah's reasoning, while the 'Name vs Reference' section discusses only the challenge/response \u2014 the full passage including both the derivation and the name-challenge belongs under 'Etymology Proof'.",
+      "chosen_heading": "Etymology Proof",
+      "current_heading": "Name vs Reference",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Tannaim Debate",
+    "candidates": [
+      "Intro & Core Dispute",
+      "Implicit vs Explicit",
+      "Tannaim Debate",
+      "R. Eliezer Position",
+      "Breira Defined",
+      "Yesh Breira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the tannaitic dispute (ke-tanai) where the first tanna holds that usage alone by the second party exempts the first, which is precisely what the 'Tannaim Debate' prose describes.",
+      "chosen_heading": "Tannaim Debate",
+      "current_heading": "Tannaim Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Yesh Breira",
+    "candidates": [
+      "R. Eliezer Position",
+      "Breira Defined",
+      "Yesh Breira",
+      "Ein Breira",
+      "Field Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the gemara's clarification of what the dispute is about (b'mai kamipalgi) and explain both sides of the breira concept, which matches 'Breira Defined' prose perfectly \u2014 that section explicitly describes the gemara asking b'mai kamipalgi and explaining the concept of breira in jointly held property.",
+      "chosen_heading": "Breira Defined",
+      "current_heading": "Yesh Breira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Field Prohibition",
+    "candidates": [
+      "Ein Breira",
+      "Field Prohibition",
+      "Ravina Summary",
+      "Selling Well",
+      "Authorization Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the partners-who-vowed-not-to-benefit dispute about entering a jointly held courtyard/field and its underlying yesh/ein breira logic, which is precisely what the 'Field Prohibition' prose describes.",
+      "chosen_heading": "Field Prohibition",
+      "current_heading": "Field Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Authorization Model",
+    "candidates": [
+      "Ravina Summary",
+      "Selling Well",
+      "Authorization Model",
+      "House Keys"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Elazar's ruling about selling a cistern and the gemara's question/answer about how handing over the bucket effects acquisition \u2014 exactly what the 'Selling Well' prose describes, including the initial puzzle and the resolution that it serves as authorization for chazakah, before the parallel 'House Keys' case.",
+      "chosen_heading": "Selling Well",
+      "current_heading": "Authorization Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "House Keys",
+    "candidates": [
+      "Authorization Model",
+      "House Keys",
+      "Flock & Goat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yehoshua ben Levi's ruling about selling a house via key transfer, followed by the exact gemara challenge and 'le'olam b'chazakah' resolution, which matches perfectly the 'House Keys' section's prose description of that same ruling and its reinterpretation.",
+      "chosen_heading": "House Keys",
+      "current_heading": "House Keys",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Flock & Goat",
+    "candidates": [
+      "Flock & Goat",
+      "Mashchuchis ID",
+      "Locks & Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present exactly the ruling about selling a flock via the mashkukhit and the gemara's objection/resolution that handing it over equals 'lech meshoch u-knei' \u2014 precisely what candidate 0's prose describes.",
+      "chosen_heading": "Flock & Goat",
+      "current_heading": "Flock & Goat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Locks & Punishment",
+    "candidates": [
+      "Mashchuchis ID",
+      "Locks & Punishment",
+      "Mishnah Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the identification of the mashkukhit (bell vs. lead goat) and the Galilean's teaching about blinding the lead goat, which together form the content described in the 'Mashchuchis ID' prose, not the 'Locks & Punishment' section which treats the Galilean teaching as merely a side note to other material.",
+      "chosen_heading": "Mashchuchis ID",
+      "current_heading": "Locks & Punishment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Mishnah Setup",
+    "candidates": [
+      "Locks & Punishment",
+      "Mishnah Setup",
+      "Liability Rekindles",
+      "Three Duration Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are the Mishnah's halakhot about pit liability (covering, appropriate covering, falling forward/backward, ox with implements, deaf ox, children/slaves), and the 'Mishnah Setup' prose explicitly discusses every one of these sub-cases in the same order.",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Mishnah Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Three Duration Views",
+    "candidates": [
+      "Liability Rekindles",
+      "Three Duration Views",
+      "Proper Cover"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Proper Cover",
+    "candidates": [
+      "Proper Cover",
+      "Rotting Exception",
+      "Camel Weakening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the exemption for proper covering and the gemara's question of how anything fell in, which is exactly what the 'Proper Cover' prose discusses \u2014 the answer from Rabbi Yitzchak bar bar \u1e24ana is the punchline to that question and belongs with it, not as a separate section.",
+      "chosen_heading": "Proper Cover",
+      "current_heading": "Proper Cover",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Camel Weakening",
+    "candidates": [
+      "Rotting Exception",
+      "Camel Weakening",
+      "Common Animal Test",
+      "Unresolved Vigilance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage poses the camel-weakening dilemma and gives the gemara's initial two-case resolution (common vs. uncommon camels), which matches exactly the prose of 'Camel Weakening' where the question is introduced and the gemara asks 'what are the circumstances?'",
+      "chosen_heading": "Camel Weakening",
+      "current_heading": "Camel Weakening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Unresolved Vigilance",
+    "candidates": [
+      "Common Animal Test",
+      "Unresolved Vigilance",
+      "Fit Oxen/Unfit Camels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the 'occasionally' (l'prakim) case as the necessary focus, which directly matches candidate 0's prose that sets up the three-tiered framework and identifies the occasional camel as the case the gemara is actually pursuing, before candidate 1's prose then elaborates the unresolved question in detail.",
+      "chosen_heading": "Common Animal Test",
+      "current_heading": "Unresolved Vigilance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Fit Oxen/Unfit Camels",
+    "candidates": [
+      "Unresolved Vigilance",
+      "Fit Oxen/Unfit Camels",
+      "Proof from First Part",
+      "Rebuttal: Rotting",
+      "Improper Setup",
+      "Case Reading",
+      "Migo Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's attempt to derive from the mishnah that occasional camels render the owner an ones (not a poshea), which is precisely what section 2 'Proof from First Part' describes: the gemara reads the mishnah as a case of d'atu l'prakim camels weakening the cover, concluding the owner is exempt and apparently an ones.",
+      "chosen_heading": "Proof from First Part",
+      "current_heading": "Fit Oxen/Unfit Camels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Migo Question",
+    "candidates": [
+      "Proof from First Part",
+      "Rebuttal: Rotting",
+      "Improper Setup",
+      "Case Reading",
+      "Migo Question",
+      "Vulnerable Animals",
+      "Smart Ox Exempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All 12 items form the sustained gemara analysis attempting to resolve the migo question through multiple readings of both mishna clauses, which is exactly what candidate 4's prose describes.",
+      "chosen_heading": "Migo Question",
+      "current_heading": "Migo Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Smart Ox Exempt",
+    "candidates": [
+      "Vulnerable Animals",
+      "Smart Ox Exempt",
+      "Migo Argument",
+      "Migo Rejected",
+      "Tosafot Critique",
+      "Negligence-Specific",
+      "Strict Liability View",
+      "Causation Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita and migo argument in one unit \u2014 the gemara introduces the proof about vulnerable animals, draws the exemption for the standard ox, raises the migo challenge, and rejects it \u2014 and candidate 0's prose explicitly describes 'what the gemara presents as a stronger proof' returning to the mishnah clause about deaf/blind/nighttime oxen, which is the opening of this entire passage.",
+      "chosen_heading": "Vulnerable Animals",
+      "current_heading": "Smart Ox Exempt",
+      "moved": true
+    }
+  }
+]

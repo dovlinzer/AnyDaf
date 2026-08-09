@@ -1,0 +1,340 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Mishna Setup",
+      "Rav's Position",
+      "Rav Sheshet Challenge",
+      "R. Akiva",
+      "Timing Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav's qualification of the mishna regarding ye'ush and the first ganav's acquisition, which is precisely what the 'Rav's Position' prose describes.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Timing Question",
+    "candidates": [
+      "Rav Sheshet Challenge",
+      "R. Akiva",
+      "Timing Question",
+      "Rava's Reinterpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rav Sheshet challenge based on Rabbi Akiva's baraita \u2014 the timing question (before or after ye'ush) and the logical inference that ye'ush alone cannot transfer ownership \u2014 which is precisely what heading 2 ('Timing Question') describes in its prose.",
+      "chosen_heading": "Timing Question",
+      "current_heading": "Timing Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rava's Reinterpretation",
+    "candidates": [
+      "Rava's Reinterpretation",
+      "Slaughter/Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly quotes the Sages invoking Rava's explanation of 'shana b'cheit' (repeated the sin), which is precisely what the prose under 'Rava's Reinterpretation' discusses.",
+      "chosen_heading": "Rava's Reinterpretation",
+      "current_heading": "Rava's Reinterpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Slaughter/Sale",
+    "candidates": [
+      "Slaughter/Sale",
+      "Rav Nachman's Intent",
+      "Simple Theft Chain"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Slaughter/Sale",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita proof and its analysis (the slaughter/sale irreversibility argument about ye'ush), which is exactly what candidate 0's prose describes.",
+      "second_heading": "Rav Nachman's Intent",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav Na\u1e25man's rebuttal that 'she'eina chozeres' refers to excluding a thirty-day sale, which is precisely what candidate 1's prose discusses as the deflection of the proof.",
+      "current_heading": "Slaughter/Sale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Simple Theft Chain",
+    "candidates": [
+      "Rav Nachman's Intent",
+      "Simple Theft Chain",
+      "Theft-Sale-Theft",
+      "Middle Case Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Simple Theft Chain",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the first case of the baraita (simple theft chain: ganav uva acher ugnavo) which matches exactly the 'Simple Theft Chain' prose describing Reuven stealing and Shimon stealing from Reuven with only keren liability.",
+      "second_heading": "Theft-Sale-Theft",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the sale and slaughter cases (ganav u'machar and ganav v'tavach) plus the Gemara's focus on the middle clause, which matches exactly the 'Theft-Sale-Theft' and 'Middle Case Proof' prose \u2014 but since items 2 and 3 together span both headings 2 and 3, the split_after 1 captures the structural seam between the simple theft case and the compound scenarios.",
+      "current_heading": "Simple Theft Chain",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Middle Case Proof",
+    "candidates": [
+      "Theft-Sale-Theft",
+      "Middle Case Proof",
+      "Theft-Slaughter-Theft",
+      "Textual Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's bracketing argument about the middle case (sale scenario) \u2014 asking whether the sale was before or after ye'ush and deriving that ye'ush alone cannot confer ownership \u2014 which is precisely what the 'Middle Case Proof' prose describes.",
+      "chosen_heading": "Middle Case Proof",
+      "current_heading": "Middle Case Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Textual Solutions",
+    "candidates": [
+      "Theft-Slaughter-Theft",
+      "Textual Solutions",
+      "Yeush Timing",
+      "Both Obligations",
+      "Yeush Alone Koneh",
+      "Rav Nachman",
+      "Rav Sheshet",
+      "Missing Position",
+      "Proof Structure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Theft-Slaughter-Theft",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the initial challenge from the baraita's first clause \u2014 that the second thief pays only keren, which challenges Rav's position that ye'ush is koneh \u2014 matching heading 0's prose about the difficulty raised by the baraita cases.",
+      "second_heading": "Textual Solutions",
+      "second_confidence": "high",
+      "second_reason": "Items 3-10 present Rava's observation that the baraita is internally inconsistent, followed by the textual solutions (reversing clauses, Rav Pappa's Beit Shammai answer, Rav Zevid's ye'ush-timing solution, and the 'both obligations' explanation), which exactly matches the 'Textual Solutions' heading's prose about v'eipoich, Beit Shammai, and the scenario design.",
+      "current_heading": "Textual Solutions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Proof Structure",
+    "candidates": [
+      "Yeush Timing",
+      "Both Obligations",
+      "Yeush Alone Koneh",
+      "Rav Nachman",
+      "Rav Sheshet",
+      "Missing Position",
+      "Proof Structure",
+      "Counter Question",
+      "Slaughter Comparison",
+      "Yeush Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 6 ('Proof Structure') describes: Rav Sheshet's derivation from Rabbi Akiva's baraita, Rava's counter, the 'she'einah chozeret' baraita and Rav Nachman's interpretation, Rabbi Elazar's position on stam gneiva ye'ush, and Rabbi Yochanan's challenge from kidnapping \u2014 all of which are explicitly narrated in that section's prose.",
+      "chosen_heading": "Proof Structure",
+      "current_heading": "Proof Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Yeush Assumption",
+    "candidates": [
+      "Counter Question",
+      "Slaughter Comparison",
+      "Yeush Assumption",
+      "No Yeush Case",
+      "Torah Obligation",
+      "Yochanan-Reish Lakish",
+      "Sanctification Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items directly present the Rabbi Yo\u1e25anan/Reish Lakish dispute about liability after ye'ush, which is precisely what candidate 5 ('Yochanan-Reish Lakish') describes in its prose.",
+      "chosen_heading": "Yochanan-Reish Lakish",
+      "current_heading": "Yeush Assumption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Sanctification Case",
+    "candidates": [
+      "No Yeush Case",
+      "Torah Obligation",
+      "Yochanan-Reish Lakish",
+      "Sanctification Case",
+      "Cannot Sanctify"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about stealing, consecrating, and slaughtering an animal with payment of kefel but not four and five \u2014 exactly the content described in the 'Sanctification Case' prose.",
+      "chosen_heading": "Sanctification Case",
+      "current_heading": "Sanctification Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Cannot Sanctify",
+    "candidates": [
+      "Cannot Sanctify",
+      "Owners Sanctify"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's analysis of when the baraita's sanctification occurred \u2014 ruling out before ye'ush and concluding it must be after, then drawing the inference against ye'ush koneh \u2014 which is precisely what the 'Cannot Sanctify' prose describes.",
+      "chosen_heading": "Cannot Sanctify",
+      "current_heading": "Cannot Sanctify",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Owners Sanctify",
+    "candidates": [
+      "Owners Sanctify",
+      "Pidyon Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Reish Lakish's statement that the owners consecrated the animal while in the thief's possession, which is precisely what the 'Owners Sanctify' section's prose describes and analyzes.",
+      "chosen_heading": "Owners Sanctify",
+      "current_heading": "Owners Sanctify",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Pidyon Analogy",
+    "candidates": [
+      "Pidyon Analogy",
+      "Beit Din Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Pidyon Analogy' prose, which explicitly discusses the Gemara's challenge about whether owners can sanctify stolen property (Rabbi Yo\u1e25anan's ruling) and Reish Lakish's response pointing to the tznuin mishna about setting aside coins for neta revai fruit \u2014 exactly the content of items 1 and 2.",
+      "chosen_heading": "Pidyon Analogy",
+      "current_heading": "Pidyon Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Beit Din Case",
+    "candidates": [
+      "Beit Din Case",
+      "Obligation vs. Command"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the challenge that the principal has returned to the owner and the answer that the thief had already stood in judgment \u2014 are precisely the content described in candidate 0's prose about chazra keren l'be'alim and k'amad b'din.",
+      "chosen_heading": "Beit Din Case",
+      "current_heading": "Beit Din Case",
+      "moved": false
+    }
+  }
+]

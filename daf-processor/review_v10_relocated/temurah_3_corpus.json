@@ -1,0 +1,258 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Rav Abahu",
+    "candidates": [
+      "Masechet Overview",
+      "Why Do It?",
+      "Sin & Lashes",
+      "Torah's Reason",
+      "Sin vs Effect",
+      "Minor's Temurah",
+      "Non-Jew Case",
+      "Rav Abahu",
+      "Hybrid Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's discussion of Rami bar \u1e24ama's dilemma about a gentile who sanctifies for a Jew's atonement and the citation of Rabbi Abbahu/Rabbi Yo\u1e25anan's principle to resolve it \u2014 exactly the content described in the 'Rav Abahu' section's prose.",
+      "chosen_heading": "Rav Abahu",
+      "current_heading": "Rav Abahu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Hybrid Case",
+    "candidates": [
+      "Hybrid Case",
+      "Mukdashei Akum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the gemara's response distinguishing Rav Abahu's case from the hybrid case and concluding with teiku, which is precisely what the 'Hybrid Case' prose describes and analyzes in detail.",
+      "chosen_heading": "Hybrid Case",
+      "current_heading": "Hybrid Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Mukdashei Akum",
+    "candidates": [
+      "Mukdashei Akum",
+      "Gezeirah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the distinction between rabbinic and Torah-law dimensions of the baraita's ruling on mukdashei goyim (lo nehenin/lo mo'alin), which is precisely what the prose in section 0 introduces and analyzes before moving to the gezeirah shavah derivation in section 1.",
+      "chosen_heading": "Mukdashei Akum",
+      "current_heading": "Mukdashei Akum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Gezeirah Shavah",
+    "candidates": [
+      "Gezeirah Shavah",
+      "Temurah Exclusion",
+      "Two Drashot",
+      "Nesachim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Gezeirah Shavah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 derive the exemptions from me'ilah, piggul, notar, and tumah for gentiles' offerings via gezeirah shavah and verbal analogies, which matches the 'Gezeirah Shavah' prose exactly.",
+      "second_heading": "Temurah Exclusion",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 are the two derivations for the temurah exclusion, matching the 'Temurah Exclusion' prose (item 5) and 'Two Drashot' prose (item 6) \u2014 but since item 5 belongs under 'Temurah Exclusion' and item 6 under 'Two Drashot', the split is after item 5; however since the form only allows one split, placing items 5-6 under 'Temurah Exclusion' (index 1) is the better single choice as item 5 is the primary temurah derivation.",
+      "current_heading": "Gezeirah Shavah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Nesachim",
+    "candidates": [
+      "Temurah Exclusion",
+      "Two Drashot",
+      "Nesachim",
+      "Rabbi Yosi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the requirement of nesachim for gentile offerings and the baraita deriving from 'ezrach' and 'kacha,' which is precisely what the 'Nesachim' section's prose describes.",
+      "chosen_heading": "Nesachim",
+      "current_heading": "Nesachim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rabbi Yosi",
+    "candidates": [
+      "Rabbi Yosi",
+      "Types of Kedusha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yosei's stringent position and his reasoning from the 'lashem' verse, which is exactly what the prose under 'Rabbi Yosi' describes.",
+      "chosen_heading": "Rabbi Yosi",
+      "current_heading": "Rabbi Yosi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Types of Kedusha",
+    "candidates": [
+      "Types of Kedusha",
+      "General Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the distinction between kodshei mizbe'ach and kodshei bedek habayit in terms of kedushat haguf vs. kedushat damim, which is precisely what the 'Types of Kedusha' prose discusses.",
+      "chosen_heading": "Types of Kedusha",
+      "current_heading": "Types of Kedusha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "General Principle",
+    "candidates": [
+      "General Principle",
+      "Temurah Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All nine items form a continuous discussion beginning with Rav's general principle about lav she'ein bo ma'aseh, challenged by the temurah exception, resolved by attributing the mishna to Rabbi Yehuda, further refined, and then extended with Rabbi Yosei HaGelili's list of exceptions including the oath/substitution/cursing cases with their scriptural derivations \u2014 the entire passage belongs under 'General Principle' which is where it currently sits and whose prose explicitly introduces this very sugya.",
+      "chosen_heading": "General Principle",
+      "current_heading": "General Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Temurah Exception",
+    "candidates": [
+      "Temurah Exception",
+      "Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous sugya about whether a false oath (shevuat sheker) incurs lashes \u2014 Rabbi Yo\u1e25anan's derivation, Rabbi Abbahu's objection, Rava's resolution, and the challenges from mishnayot \u2014 which directly parallels the 'Attribution' section's discussion of Rabbi Yehuda's position that lav she'ein bo ma'aseh can still carry lashes, and explicitly involves Rabbi Yo\u1e25anan's same reasoning about lashes without a physical act.",
+      "chosen_heading": "Attribution",
+      "current_heading": "Temurah Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Attribution",
+    "candidates": [
+      "Temurah Exception",
+      "Attribution",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items deal with reconciling the first and latter clauses of the mishnah under a single authorial opinion (Rabbi Akiva), which matches the 'Resolution' prose about resolving how different parts of the mishnah can coexist \u2014 not with the 'Attribution' prose about Rabbi Yehuda and lav she'ein bo ma'aseh.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Attribution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Resolution",
+      "Three Exceptions",
+      "Shvuat Shav",
+      "Shvua Derivation",
+      "Courts & Kaparah",
+      "Shvuat Sheker",
+      "Shvuat Sheker",
+      "Future Oaths",
+      "Reconciliation",
+      "Speech as Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses why 'one who effects substitution' (temurah) is removed from the list of those who transgress without an act \u2014 because temurah is performed by speech, which itself constitutes an action \u2014 which is precisely the 'speech as action' principle discussed in candidate 9's prose.",
+      "chosen_heading": "Speech as Action",
+      "current_heading": "Resolution",
+      "moved": true
+    }
+  }
+]

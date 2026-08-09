@@ -1,0 +1,240 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Rava's Objection",
+    "candidates": [
+      "Kol Nidrei Recap",
+      "Nidrei Zeruzin",
+      "Stipulation Mechanism",
+      "Hatarat Nedarim",
+      "Kol Nidrei Meaning",
+      "Rav Huna's View",
+      "Rava's Objection",
+      "Sin vs Sloppiness",
+      "Opening Question",
+      "Gift Acceptance Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage describes Rav Huna bar \u1e24innana's intention to teach the stipulation mechanism publicly at the Festival lecture and Rava's objection, which corresponds directly to the prose under heading 5 ('Rav Huna's View') that introduces exactly this scenario, rather than heading 6 which describes Rava's objection in prose (the Gemara text itself covers both the intention and the objection together, and heading 5 is where this narrative begins).",
+      "chosen_heading": "Rav Huna's View",
+      "current_heading": "Rava's Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Gift Acceptance Case",
+    "candidates": [
+      "Sin vs Sloppiness",
+      "Opening Question",
+      "Gift Acceptance Case",
+      "Honor Satisfaction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's attempt to resolve the dilemma about whether Rabbanan disagree with Rabbi Eliezer ben Yaakov, which is precisely what the 'Opening Question' prose discusses \u2014 the question of whether Rabbanan accepted his category and how we rule, with the mishnah about the gift vow being adduced as the proof-text for that question.",
+      "chosen_heading": "Opening Question",
+      "current_heading": "Gift Acceptance Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Honor Satisfaction",
+    "candidates": [
+      "Gift Acceptance Case",
+      "Honor Satisfaction",
+      "Case Classification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage draws the inference that if 'zehu kevodi' was not said it would be a real vow, then asks whose opinion this follows, concluding the Rabbis disagree with Rabbi Eliezer ben Yaakov \u2014 which matches exactly the 'Case Classification' prose discussing this same inference and conclusion about nidrei zeruzin vs. a real neder.",
+      "chosen_heading": "Case Classification",
+      "current_heading": "Honor Satisfaction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Case Classification",
+    "candidates": [
+      "Honor Satisfaction",
+      "Case Classification",
+      "Giver's Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the gemara's resolution 'le'olam Rabbi Eliezer ben Yaakov hu' and the concession about the 'lo kalba ana' case, which is precisely what the 'Case Classification' prose describes.",
+      "chosen_heading": "Case Classification",
+      "current_heading": "Case Classification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Giver's Vow",
+    "candidates": [
+      "Giver's Vow",
+      "Reciprocity Argument",
+      "Ran's Analysis",
+      "Initiated Vows & Ones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and presents the mishnah case of one who says 'konam if you don't give my son wheat and wine,' which is precisely what the 'Giver's Vow' section prose describes and analyzes.",
+      "chosen_heading": "Giver's Vow",
+      "current_heading": "Giver's Vow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Initiated Vows & Ones",
+    "candidates": [
+      "Reciprocity Argument",
+      "Ran's Analysis",
+      "Initiated Vows & Ones",
+      "R. Eliezer Extended"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of attempted proofs and rebuttals about whether the rabbanan dispute Rabbi Eliezer ben Yaakov \u2014 items 1-2 address the 'ke'ilu hitkabalti' case and items 3-4 address the nidrei onsin case \u2014 which precisely matches the prose of candidate 2 ('Initiated Vows & Ones') describing Mar Kashisha's proof from nidrei onsin and the gemara's deflection via who initiated the vow.",
+      "chosen_heading": "Initiated Vows & Ones",
+      "current_heading": "Initiated Vows & Ones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "R. Eliezer Extended",
+    "candidates": [
+      "R. Eliezer Extended",
+      "Halakha Decision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern Rabbi Eliezer ben Yaakov's extended case and the Rabbis' disagreement with him, which is precisely what the prose under 'R. Eliezer Extended' discusses, including the gemara's question about whether the rabbanan reject even the original case and the conclusion that they do.",
+      "chosen_heading": "R. Eliezer Extended",
+      "current_heading": "R. Eliezer Extended",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Halakha Decision",
+    "candidates": [
+      "Halakha Decision",
+      "Nidrei Havai Intro",
+      "Exaggeration vs Falsehood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the halakhic conclusion about Rabbi Eliezer ben Yaakov, matching exactly the 'Halakha Decision' section's prose discussion of Rav Huna's and Rav Adda bar Ahava's rulings.",
+      "chosen_heading": "Halakha Decision",
+      "current_heading": "Halakha Decision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Exaggeration vs Falsehood",
+    "candidates": [
+      "Nidrei Havai Intro",
+      "Exaggeration vs Falsehood",
+      "Purpose Principle",
+      "Shevuot Shav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing nidrei havai with its two examples, which matches the 'Nidrei Havai Intro' prose that directly quotes and introduces these same two examples.",
+      "chosen_heading": "Nidrei Havai Intro",
+      "current_heading": "Exaggeration vs Falsehood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Shevuot Shav",
+    "candidates": [
+      "Purpose Principle",
+      "Shevuot Shav",
+      "Neder vs Shevua",
+      "Permitted vs Forbidden",
+      "Shevuat Havai Refined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the braita that directly states 'nidrei havai mutarim, shevuot havai asurim,' which is precisely what the prose of candidate 1 ('Shevuot Shav') introduces and discusses \u2014 the contrast between vows and oaths of exaggeration \u2014 matching both content and current placement.",
+      "chosen_heading": "Shevuot Shav",
+      "current_heading": "Shevuot Shav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Shevuat Havai Refined",
+    "candidates": [
+      "Neder vs Shevua",
+      "Permitted vs Forbidden",
+      "Shevuat Havai Refined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are precisely the gemara exchange that candidate 2's prose describes in detail \u2014 the initial question about shevuat havai formulation, Abaye's answer, Rava's objection about dumiya d'neder, and Rava's reformulation \u2014 making the current placement the correct one.",
+      "chosen_heading": "Shevuat Havai Refined",
+      "current_heading": "Shevuat Havai Refined",
+      "moved": false
+    }
+  }
+]

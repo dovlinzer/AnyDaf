@@ -1,20 +1,17 @@
-# Menachot 39 — Daf Yomi Shiur
-
+[DAF:38b]
 ## Techelet vs. Lavan
+
+
 
 ### Both Colors Required?
 
-> **Hebrew/Aramaic:** תִּינַח לָבָן דְּאֵינוֹ מְעַכֵּב אֶת הַתְּכֵלֶת, תְּכֵלֶת דְּאֵינָהּ מְעַכֶּבֶת אֶת הַלָּבָן – מַאי הִיא?
->
-> **Translation:** This **works out well** with regard to the mishna's statement **that** absence of the **white** strings **does not prevent** fulfillment of the mitzva **with the sky-blue** strings. But **what is** the meaning of the mishna's statement **that** the absence of **sky-blue** strings **does not prevent** fulfillment of the mitzva **with the white** strings?
 
 The *daf* opens by returning to a question left unresolved at the end of 38b: who is the *tanna* whose position underlies the *mishnah*'s ruling that *techelet* and *lavan* do not impede one another? The *mishnah* states that if one lacks the blue string, one may fulfill the *mitzvah* with white alone, and vice versa. The *gemara* had attempted to read the *mishnah* in accordance with Rabbi's stricter position — that one is not *yotzei* without both — by interpreting the case as one in which the strings snapped after the fact or were applied in the wrong order. But the plain sense of the *mishnah* resists that reading. The *gemara* now identifies the view that supports the *mishnah* at face value.
 
 ### R. Yochanan ben Nuri
 
 > **Hebrew/Aramaic:** וּמַאן תַּנָּא דִּפְלִיג עֲלֵיהּ דְּרַבִּי? הַאי תַּנָּא הוּא, דְּתַנְיָא: רַבִּי יִצְחָק אוֹמֵר מִשּׁוּם רַבִּי נָתָן, שֶׁאָמַר מִשּׁוּם רַבִּי יוֹסֵי הַגְּלִילִי, שֶׁאָמַר מִשּׁוּם רַבִּי יוֹחָנָן בֶּן נוּרִי: אֵין לוֹ תְּכֵלֶת – מֵטִיל לָבָן.
->
-> **Translation:** **Who is the *tanna* who disagrees with Rabbi** Yehuda HaNasi **and holds that the sky-blue strings and the white strings are not interdependent?** The Gemara **answers: It is this** following ***tanna*, as it is taught** in a *baraita*: **Rabbi Yitzḥak says in the name of Rabbi Natan, who said in the name of Rabbi Yosei HaGelili, who said in the name of Rabbi Yoḥanan ben Nuri:** **If one does not have sky-blue strings, he nevertheless affixes white** strings.
+> **Translation:** The Gemara cited the opinion of Rabbi Yehuda HaNasi, who holds that one cannot fulfill the mitzva of ritual fringes without both white and sky-blue strings, and the Gemara explained that the mishna can be interpreted in accordance with his opinion. The Gemara now asks: **Who is the *tanna* who disagrees with Rabbi** Yehuda HaNasi and holds that the sky-blue strings and the white strings are not interdependent? The Gemara answers: **It is this** following ***tanna*, as it is taught** in a *baraita*: **Rabbi Yitzḥak says in the name of Rabbi Natan, who said in the name of Rabbi Yosei HaGelili, who said in the name of Rabbi Yoḥanan ben Nuri:** If **one does not have sky-blue** strings, he nevertheless **affixes white** strings.
 
 The *tanna* in question is Rabbi Yochanan ben Nuri, as transmitted through a *braita*: Rabbi Yitzchak said in the name of Rabbi Natan, transmitted in the name of Rabbi Yose HaGlili, transmitted in the name of Rabbi Yochanan ben Nuri — *ein lo techelet matil lavan*: if one lacks *techelet*, one may attach white strings and fulfill the obligation. This establishes the lineage of the position that *techelet* and *lavan* are not mutually indispensable, tracing it back to Rabbi Yochanan ben Nuri himself.
 
@@ -26,23 +23,26 @@ A major *Tosafot* at the beginning of this *perek* explores a structural questio
 
 ## Knots & Wrappings
 
+
+
 ### Multiple Wrappings
 
 > **Hebrew/Aramaic:** אָמַר רָבָא: שְׁמַע מִינַּהּ, צָרִיךְ לִקְשׁוֹר עַל כׇּל חוּלְיָא וְחוּלְיָא, דְּאִי סָלְקָא דַעְתָּךְ לֹא צָרִיךְ – הָא דְּאָמְרִי בְּנֵי רַבִּי חִיָּיא: גַּרְדּוּמֵּי תְכֵלֶת כְּשֵׁרִין וְגַרְדּוּמֵּי אֵזוֹב כְּשֵׁרִין, כֵּיוָן דְּאִישְׁתְּרִי לֵיהּ עִילַּאי אִישְׁתְּרִי לֵיהּ כּוּלֵּהּ.
->
-> **Translation:** **Rava said: Learn from it** that one is **required to tie** a knot **after each and every set** of windings. **As, if** it **enters your mind** to say that one is **not required** to tie a knot after each set of windings, then **that which the sons of Rabbi Ḥiyya say: Severed** white or **sky-blue** strings **are fit, and** similarly, **severed hyssop** branches **are fit,** is difficult: **Once the uppermost** knot **is undone, all** of the windings on **the entire** corner will **come undone,** as there are no other knots holding the windings in place.
+> **Translation:** **Rava said: Learn from** the sons of Rabbi Ḥiyya that one is **required to tie** a knot **after each and every set** of windings, and one cannot suffice with only one knot at the end of all the windings. **As, if** it **enters your mind** to say that one is **not required** to tie a knot after each set of windings, then **that which the sons of Rabbi Ḥiyya say: Severed** white or **sky-blue** strings **are fit, and** similarly, **severed hyssop** branches **are fit,** is difficult: **Once the uppermost** knot **is undone,** all of the windings on **the entire** corner will **come undone,** as there are no other knots holding the windings in place, and in that case the garment will not have valid ritual fringes.
 
 The *gemara* now shifts, somewhat abruptly, back to the position of the sons of Rabbi Chiya, which had been cited at the close of the previous discussion: if a *tzitzit* string snaps, as long as a *gardum* — a small remnant — remains, the *tzitzit* is still *kasher*. The remnant, it was established, must be sufficient to form a small knot on its own.
 
 Rava draws an inference from this ruling. He says: *shema mina tzarich likshor al kol chulya v'chulya* — we may deduce that one is obligated to tie a knot after each wrapping section, not merely a single knot at the outset. The reasoning is as follows: if all one had were a single top knot with strings hanging freely below, and one of those strings snapped right at the point where it meets the knot, the knot itself would come undone. With so little string remaining on the loose side to hold the tension, the knot unravels. In such a scenario, one cannot even claim to have a valid knot — because a knot that will not hold is arguably not a knot at all. The only way the doctrine of *gardumim* makes sense, Rava argues, is if there are additional knots below the top knot: then even if a string snaps close to one of the lower knots, the structure above it remains intact, and the *gardum* doctrine applies.
 
+[DAF:39a]
 ### Knot Undoing
 
 > **Hebrew/Aramaic:** דִּלְמָא דְּאִיקְּטַר.
->
-> **Translation:** **Perhaps** one **tied knots** between the sets of windings even though there is no obligation to do so.
+> **Translation:** The Gemara rejects this proof: **Perhaps** the sons of Rabbi Ḥiyya were referring to a case **where** one **tied knots** between the sets of windings even though there is no obligation to do so.
 
 The *gemara* pushes back: *dilma de-iktar* — perhaps one simply happened to have made multiple knots, but this does not prove such knots are *required*. The ruling about *gardumim* being valid could be describing a case where extra knots were made by chance, without establishing any *halachic* necessity for them. So while the discussion introduces the concepts of strings, knots, and *chulyot* (wrapping sections), the inference that multiple knots are obligatory remains unproven at this stage.
+
+Underlying this exchange, though, is a principle worth pausing on. The *gemara* here appears willing to say that a knot which will not hold — one that will undo itself because there is insufficient loose string to maintain tension — does not count as a knot at all, even right now, before it has actually come undone. This is somewhat surprising. We do find in other contexts the principle of *koach omed likatzer k'katzer dami* — the potential to be cut is treated as already cut — and similarly *v'chol hara'uy l'bilah* applies readiness to a future state. But it is not always clear precisely when the *gemara* decides to collapse a future outcome into a present legal status in this way. What gives the move some traction here is that a knot, conceptually, is defined by its permanence — its function is to hold things firmly in place. A knot that structurally cannot stay tied arguably fails to be a knot on its own terms, not merely because of what will happen to it later. This is the principle Tosafot will extend to an even more striking conclusion, as we will see shortly.
 
 ### Tosafot Extreme
 
@@ -52,19 +52,21 @@ Tosafot, commenting on this passage at the bottom of 38b, takes the analysis a s
 
 ## Top Knot Biblical
 
+
+
 ### Kilayim Proof
 
-> **Hebrew/Aramaic:** וְאָמַר רַבָּה: שְׁמַע מִינַּהּ, קֶשֶׁר עֶלְיוֹן דְּאוֹרָיְיתָא, דְּאִי סָלְקָא דַעְתָּךְ דְּרַבָּנַן, מַאי אִיצְטְרִיךְ לְמִישְׁרֵי סָדִין בְּצִיצִית? פְּשִׁיטָא! הַתּוֹכֵף תְּכִיפָה אַחַת אֵינוֹ חִיבּוּר, אֶלָּא שְׁמַע מִינַּהּ דְּאוֹרָיְיתָא.
->
-> **Translation:** **And Rabba says: Learn from it** that **the uppermost knot** in the ritual fringes is required **by Torah** law. **As, if** it **enters your mind** to say that it is **by rabbinic** law, whereas by Torah law it is sufficient to merely insert the strings into the hole without tying any knots, for **what** reason **was** it **necessary** for the Torah **to permit** placing wool **ritual fringes** on a linen **cloak?** It is **obvious** that it is permitted, since if **one attaches** a swatch of wool and a swatch of linen **with a single connection, it is not** considered **a connection** with regard to the prohibition against wearing a garment that includes both wool and linen. **Rather, learn from** it that the uppermost knot is required **by Torah law.**
-
 Rava makes a second inference, this one regarding the *kesher elyon* — the top knot. He states: *shema mina kesher elyon de-oraita* — we may deduce that the top knot is a biblical requirement. The proof runs as follows: if the top knot were only rabbinic, then the knot binding the *tzitzit* strings to the garment would impose no biblical obligation. In that case, *mai itztrich lemishrei sadin be-tzitzit* — why would the Torah need to permit the use of *kilayim* in *tzitzit*? The juxtaposition in the Torah that allows *kilayim* in the context of *tzitzit* would have been entirely unnecessary.
+
+> **Hebrew/Aramaic:** וְאָמַר רַבָּה: שְׁמַע מִינַּהּ, קֶשֶׁר עֶלְיוֹן דְּאוֹרָיְיתָא, דְּאִי סָלְקָא דַעְתָּךְ דְּרַבָּנַן, מַאי אִיצְטְרִיךְ לְמִישְׁרֵי סָדִין בְּצִיצִית? פְּשִׁיטָא! הַתּוֹכֵף תְּכִיפָה אַחַת אֵינוֹ חִיבּוּר, אֶלָּא שְׁמַע מִינַּהּ דְּאוֹרָיְיתָא.
+> **Translation:** **And Rabba says: Learn from it** that **the uppermost knot** in the ritual fringes is required **by Torah** law. **As, if** it **enters your mind** to say that it is **by rabbinic** law, whereas by Torah law it is sufficient to merely insert the strings into the hole without tying any knots, for **what** reason **was** it **necessary** for the Torah **to permit** placing wool **ritual fringes** on a linen **cloak?** It is **obvious** that it is permitted, since if **one attaches** a swatch of wool and a swatch of linen **with a single connection, it is not** considered **a connection** with regard to the prohibition against wearing a garment that includes both wool and linen. **Rather, learn from** it that the uppermost knot is required **by Torah law.**
 
 ### Shatnez Juxtaposition
 
 The *gemara* understands the juxtaposition of two adjacent verses as the source for this permission: *lo tilbash shatnez tzemer u-fishtim yachdav* — do not wear *shatnez*, wool and linen together — followed immediately by *gedilim ta'aseh lach* — make for yourself *gedilim* (knots, braids, *tzitzit* effectively) *al arba kanfot kesutcha asher techaseh bah* — on the four corners of the garment with which you cover yourself. The Talmudic tradition reads this adjacency as the Torah's authorization for *tzitzit* to override the prohibition of *kilayim*. The classic case is the *techelet* string: the blue dye must be applied to a wool string, so if one's garment is linen, attaching a wool *techelet* string creates *shatnez* — and the juxtaposition tells us this is permitted. It is worth noting, as the *gemara* anticipates, that we will discuss later whether the Torah is granting permission only where *kilayim* is unavoidable, or whether *tzitzit* is entirely exempt from *kilayim* restrictions even when they could be avoided.
 
 ### Binding Requirement
+
 
 Rava's argument is that the permission for *kilayim* in *tzitzit* would only have been necessary if the strings were actually bound to the garment in a halachically significant way. *Kilayim*, after all, requires that wool and linen be genuinely joined — merely passing a string through a hole and letting it dangle is not considered *chibur*, a proper connection. The *gemara* states explicitly: *tokef tifa achas eino chibur* — simply threading through a single hole is not considered a joining. Therefore, the Torah's need to permit *kilayim* in *tzitzit* presupposes that the strings are knotted. And if knotting is what triggers the *kilayim* concern, then knotting must be a Torah-level requirement — *shema mina de-oraita*. Rava is working backwards from the established tradition that the juxtaposition of the *shatnez* verse and the *gedilim* verse was intended to permit *kilayim* in *tzitzit*, treating that as a fixed datum and deriving from it the biblical status of the top knot.
 
@@ -74,37 +76,36 @@ It is worth pausing here to appreciate what Rava is doing across both inferences
 
 ## Snapped Strings
 
+
+
 ### Complete Severance
 
-> **Hebrew/Aramaic:** אָמַר רַבָּה בַּר רַב אַדָּא אָמַר רַב אַדָּא אָמַר רַב: אִם נִפְסַק הַחוּט מֵעִיקָּרוֹ – פְּסוּלָה.
->
-> **Translation:** **Rabba bar Rav Adda says** that **Rav Adda says** that **Rav says: If a string was severed at its base,** i.e., where it is connected to the garment, the ritual fringes are **unfit.**
 
 A new ruling is cited: Rava bar Rav Adda said in the name of Rav — *im nifsaka ha-chut me-ikaro pesula* — if an entire string is cut off at its root, the *tzitzit* is invalid. This is to be distinguished from the *gardum* case: if a string snaps partway down, leaving a small remnant, the *tzitzit* remains *kasher*. But if a string is severed at the very base — at the point where it loops through the hole in the garment, leaving nothing attached — the *tzitzit* is disqualified. This holds even though the other three strings (or in the doubled configuration, the other portions) remain intact. One completely missing string invalidates the whole.
 
 ### Initial vs. Final
 
-> **Hebrew/Aramaic:** יָתֵיב רַב נַחְמָן וְקָא אָמַר לְהָא שְׁמַעְתָּא, אֵיתִיבֵיהּ רָבָא לְרַב נַחְמָן: בַּמֶּה דְּבָרִים אֲמוּרִים – בִּתְחִילָּתוֹ, אֲבָל סוֹפוֹ – שְׁיָרָיו וְגַרְדּוּמָּיו כׇּל שֶׁהוּא.
->
-> **Translation:** **Rav Naḥman sat** in the study hall **and stated this *halakha*. Rava raised an objection to Rav Naḥman** from a *baraita*: **In what** case **is this statement said,** i.e., that there is a minimum length required for the strings? That is only when the strings are **initially** affixed to the garment. **But** in the **end,** i.e., after the strings are affixed in an acceptable manner, **its remainder and its severed** strings are fit at **any** length.
+> **Hebrew/Aramaic:** אָמַר רַבָּה בַּר רַב אַדָּא אָמַר רַב אַדָּא אָמַר רַב: אִם נִפְסַק הַחוּט מֵעִיקָּרוֹ – פְּסוּלָה. יָתֵיב רַב נַחְמָן וְקָא אָמַר לְהָא שְׁמַעְתָּא, אֵיתִיבֵיהּ רָבָא לְרַב נַחְמָן: בַּמֶּה דְּבָרִים אֲמוּרִים – בִּתְחִילָּתוֹ, אֲבָל סוֹפוֹ – שְׁיָרָיו וְגַרְדּוּמָּיו כׇּל שֶׁהוּא.
+> **Translation:** § **Rabba bar Rav Adda says** that **Rav Adda says** that **Rav says: If a string was severed at its base,** i.e., where it is connected to the garment, the ritual fringes are **unfit. Rav Naḥman sat** in the study hall **and stated this *halakha*. Rava raised an objection to Rav Naḥman** from a *baraita*: **In what** case **is this statement said,** i.e., that there is a minimum length required for the strings? That is only when the strings are **initially** affixed to the garment. **But** in the **end,** i.e., after the strings are affixed in an acceptable manner, **its remainder and its severed** strings are fit at **any** length.
+
+> **Hebrew/Aramaic:** מַאי שְׁיָרָיו וּמַאי גַּרְדּוּמָּיו? מַאי לָאו ״שְׁיָרָיו״ – דְּאִיפְּסִיק מִינַּיְיהוּ וְאִישְׁתַּיַּיר מִינַּיְיהוּ, ״גַּרְדּוּמָּיו״ – דְּאִיגַּרְדּוּם אִיגַּרְדּוֹמֵי.
+> **Translation:** The Gemara clarifies: **What** is **its remainder and what** are **its severed** strings? **What, is it not** that when the *baraita* mentions **its remainder** it is referring to a case **where** parts **of the** strings **were severed and** parts **of them remain, and** when the *baraita* mentions **its severed** strings it is referring to a case **where** the strings **were completely severed,** and nevertheless the strings are fit for the mitzva?
 
 Rav Nachman was sitting and transmitting this ruling when Rava challenged him from a *braita*: *bameh devarim amurim be-techilato* — when does the requirement for a minimum length apply? Only at the outset, when the *tzitzit* is first attached. But *aval sofo* — at the end, when something has happened to the *tzitzit* after it was properly made — *shiyerav ve-gardumav kol shehu*, even the smallest remnant of the string suffices. Rava reads this *braita* as potentially encompassing even the case of complete severance (*nifsaka me-ikaro*): perhaps *shiyerav* refers to strings that were entirely cut away, while the remaining strings constitute the *shirayim* — what survives. If so, the *braita* would permit the *tzitzit* even when a full string has been severed.
 
 ### Remnants Defined
 
-> **Hebrew/Aramaic:** מַאי שְׁיָרָיו וּמַאי גַּרְדּוּמָּיו? מַאי לָאו ״שְׁיָרָיו״ – דְּאִיפְּסִיק מִינַּיְיהוּ וְאִישְׁתַּיַּיר מִינַּיְיהוּ, ״גַּרְדּוּמָּיו״ – דְּאִיגַּרְדּוּם אִיגַּרְדּוֹמֵי. לָא, חֲדָא קָתָנֵי, שַׁיּוֹרֵי גַּרְדּוּמָּיו כׇּל שֶׁהוּא. וְלֵימָא: ״גַּרְדּוּמָּיו״, ״שְׁיָרָיו״ לְמָה לִי? הָא קָא מַשְׁמַע לַן, דְּבָעֵינַן שִׁיּוּרָא לְגַרְדּוּמָּיו כְּדֵי לְעׇנְבָן.
->
-> **Translation:** The Gemara clarifies: **What** is **its remainder and what** are **its severed** strings? **What, is it not** that when the *baraita* mentions **its remainder** it is referring to a case **where** parts **of the** strings **were severed and** parts **of them remain, and** when the *baraita* mentions **its severed** strings it is referring to a case **where** the strings **were completely severed,** and nevertheless the strings are fit for the mitzva? The Gemara responds to Rava's objection: **No,** the *tanna* of the *baraita* **is teaching one** *halakha*, and the *baraita* should be understood as follows: **The remainder of its severed** strings are fit at **any length.** The Gemara asks: If so, **let** the *baraita* simply **say: Its severed** strings are fit at any length; **why do I** need the mention of **its remainder? This teaches us that we require a remainder of its severed** strings long **enough to** wrap them around the other strings and **tie them in a slipknot.**
-
 The *gemara* presses on the precise meaning of *shiyerav ve-gardumav*. *Mai shiyerav u-mai gardumav* — what does each term mean? One reading: *shiyerav* refers to strings that were cut entirely (*de-ifsak mineihu*) while others remained — i.e., some strings were completely severed while some survived. *Gardumav* refers to strings that were partially snapped and partially remained. Under this reading, *shiyerav ve-gardumav kol shehu* means: even if some strings are entirely gone and others have only a tiny remnant, the *tzitzit* is *kasher*. The *gemara* pushes back: if that were the meaning, why use both terms? The word *gardumav* alone communicates that part of the string broke and part remained. The word *shiyurei* is added to teach something additional: *dibe'inan shiyura le-gardumav* — even the remnant that remains must itself have a meaningful amount. That is, the *gardum* is not valid with an arbitrarily microscopic fragment; there must be a sufficient remnant.
+
+> **Hebrew/Aramaic:** לָא, חֲדָא קָתָנֵי, שַׁיּוֹרֵי גַּרְדּוּמָּיו כׇּל שֶׁהוּא. וְלֵימָא: ״גַּרְדּוּמָּיו״, ״שְׁיָרָיו״ לְמָה לִי? הָא קָא מַשְׁמַע לַן, דְּבָעֵינַן שִׁיּוּרָא לְגַרְדּוּמָּיו כְּדֵי לְעׇנְבָן.
+> **Translation:** The Gemara responds to Rava’s objection: **No,** the *tanna* of the *baraita* **is teaching one** *halakha*, and the *baraita* should be understood as follows: **The remainder of its severed** strings are fit at **any length.** The Gemara asks: If so, **let** the *baraita* simply **say: Its severed** strings are fit at any length; **why do I** need the mention of **its remainder? This teaches us that we require a remainder of its severed** strings long **enough to** wrap them around the other strings and **tie them in a slipknot.**
 
 ### Minimum Knot Amount
 
-> **Hebrew/Aramaic:** כְּדֵי לְעׇנְבָן.
->
-> **Translation:** long **enough to** wrap them around the other strings and **tie them in a slipknot.**
 
 How much must remain? *Kedei le-onvam* — enough to tie a knot. This standard was introduced earlier: the string that broke near the knot must still have enough length protruding beyond the knot to allow it to be tied around the other strings or itself to form a small loop. This is the *shiur* for *gardumim* to be valid.
+
+A clarification on what precisely *gardum* means in physical terms: *nifseku chutav me'ikaro* — strings cut at the very root — means the string is no longer attached to the garment at all, severed entirely. *Gardumim*, by contrast, refers to a string cut not at the root but further along, past the knot — leaving the knot itself intact but the hanging length snapped short near it. The concern is that the knot might begin to unravel; the ruling is that as long as *kedei le-onvam* remains — enough to make a small tie around the other strings — the *tzitzit* is still valid. There is also a dispute between Rashi and Tosafot about whether the measurement of *kedei le-onvam* is counted only from the portion of the string that extends beyond the knots and wrapping, or whether the length tucked beneath the wrapping can be included in the count as well.
 
 A practical note: when making *tzitzit*, one ensures that the two halves of each folded string fall on opposite sides of the initial knot. This way, even if one side of the string is cut entirely at the root, the other half remains as a *gardum* from the other side — and the two cannot be confused as a single string lost entirely. The *gemara* itself rarely makes explicit the standard practice of folding four strings through the hole to produce eight, and Tosafot notes that Rabbeinu Tam had a distinct approach: he simply passed four strings straight through without folding, and tied a knot at the top. That version of *tzitzit* looks much more like a simple tassel than the elaborate knotted structure we know, which is itself a point worth noting when considering how highly ritualized these technical requirements have become.
 
@@ -112,19 +113,17 @@ A practical note: when making *tzitzit*, one ensures that the two halves of each
 
 ## Wrapping String Count
 
-### String Counts
 
-> **Hebrew/Aramaic:** יָתֵיב רַבָּה וְקָאָמַר מִשְּׁמֵיהּ דְּרַב: חוּט שֶׁל כֶּרֶךְ עוֹלֶה מִן הַמִּנְיָן.
->
-> **Translation:** **Rabba sat** in the study hall **and said in the name of Rav:** The **string** used **for winding** around the other strings **is counted in the quota** of ritual fringes, i.e., it is one of the eight strings on each corner, and there is no need to have an additional string for winding.
+
+### String Counts
 
 The next ruling: Rava sat and said in the name of Rav — *chut shel kerach oleh min ha-minyan* — the wrapping string counts as one of the four required strings. This might seem obvious, but there is conceptual space to question it. If one imagines the four strings hanging freely and a fifth string used exclusively for the wrapping and knotting, the wrapping string might seem like a separate functional element rather than one of the four constitutive *tzitzit* strings. Rava rules that this is not the case: the string used for wrapping is itself counted as one of the four. There is no need for a separate fifth string.
 
+> **Hebrew/Aramaic:** יָתֵיב רַבָּה וְקָאָמַר מִשְּׁמֵיהּ דְּרַב: חוּט שֶׁל כֶּרֶךְ עוֹלֶה מִן הַמִּנְיָן. אֲמַר לֵיהּ רַב יוֹסֵף: שְׁמוּאֵל אַמְרַהּ וְלָא רַב. אִיתְּמַר נָמֵי: אָמַר רַבָּה בַּר בַּר חָנָה, סָח לִי רַבִּי יֹאשִׁיָּה דְּמִן אוּשָׁא: חוּט שֶׁל כֶּרֶךְ עוֹלָה לָהּ מִן הַמִּנְיָן.
+> **Translation:** § **Rabba sat** in the study hall **and said in the name of Rav:** The **string** used **for winding** around the other strings **is counted in the quota** of ritual fringes, i.e., it is one of the eight strings on each corner, and there is no need to have an additional string for winding. **Rav Yosef said to** Rabba: **Shmuel said it, and not Rav.** This **was also stated** by another *amora*: **Rabba bar bar Ḥana says: Rabbi Yoshiya of Usha told me** that the **string** used **for winding** around the other strings **is counted in the quota** of ritual fringes.
+
 ### Attribution Correction
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב יוֹסֵף: שְׁמוּאֵל אַמְרַהּ וְלָא רַב. אִיתְּמַר נָמֵי: אָמַר רַבָּה בַּר בַּר חָנָה, סָח לִי רַבִּי יֹאשִׁיָּה דְּמִן אוּשָׁא: חוּט שֶׁל כֶּרֶךְ עוֹלָה לָהּ מִן הַמִּנְיָן.
->
-> **Translation:** **Rav Yosef said to** Rabba: **Shmuel said it, and not Rav.** This **was also stated** by another *amora*: **Rabba bar bar Ḥana says: Rabbi Yoshiya of Usha told me** that the **string** used **for winding** around the other strings **is counted in the quota** of ritual fringes.
 
 Rav Yosef immediately corrects the attribution: *Shmuel amrah ve-lo Rav* — it was Shmuel who said this, not Rav. This is corroborated by an independent tradition: Rabbah bar bar Chana reported that Rabbi Yoshiya of Usha told him — *chut shel kerach oleh lo min ha-minyan* — the wrapping string counts toward the four. The ruling is thus confirmed, with its attribution properly placed with Shmuel.
 
@@ -132,20 +131,23 @@ Rav Yosef immediately corrects the attribution: *Shmuel amrah ve-lo Rav* — it 
 
 ## Kerach & Pil Ratios
 
+
+
 ### Majority Wrapped OK
 
 > **Hebrew/Aramaic:** יָתֵיב רָבָא וְקָא אָמַר מִשְּׁמֵיהּ דִּשְׁמוּאֵל: תְּכֵלֶת שֶׁכָּרַךְ רוּבָּהּ – כְּשֵׁרָה. אֲמַר לֵיהּ רַב יוֹסֵף: רַב אַמְרַהּ, וְלָא שְׁמוּאֵל. אִיתְּמַר נָמֵי, אָמַר רַב הוּנָא בַּר יְהוּדָה אָמַר רַב שֵׁשֶׁת אָמַר רַב יִרְמְיָה בַּר אַבָּא אָמַר רַב: תְּכֵלֶת שֶׁכָּרַךְ רוּבָּהּ – כְּשֵׁרָה.
->
-> **Translation:** **Rava sat** in the study hall **and said in the name of Shmuel:** If one **wound the majority of** the white and the **sky-blue** strings instead of leaving the larger portion of the strings hanging loose beyond the windings, the ritual fringes are nevertheless **fit. Rav Yosef said to** Rava: **Rav said it, and not Shmuel.** The Gemara supports Rav Yosef's version from that which **was also stated: Rav Huna bar Yehuda says** that **Rav Sheshet says** that **Rav Yirmeya bar Abba says** that **Rav says:** If one **wound the majority of** the white and the **sky-blue** strings, the ritual fringes are nevertheless **fit.**
+> **Translation:** **Rava sat** in the study hall **and said in the name of Shmuel:** If one **wound the majority of** the white and the **sky-blue** strings instead of leaving the larger portion of the strings hanging loose beyond the windings, the ritual fringes are nevertheless **fit. Rav Yosef said to** Rava: **Rav said it, and not Shmuel.** The Gemara supports Rav Yosef’s version from that which **was also stated: Rav Huna bar Yehuda says** that **Rav Sheshet says** that **Rav Yirmeya bar Abba says** that **Rav says:** If one **wound the majority of** the white and the **sky-blue** strings, the ritual fringes are nevertheless **fit.**
+
 
 The *gemara* now turns to the proportional requirements — how much of the *tzitzit* should consist of knots and wrappings versus free-flowing strings. Rava sat and said in the name of Shmuel: *techelet she-karach rubah kesherah* — even if the majority of the *tzitzit* was knotted and wrapped, it remains *kasher*. A note on terminology: the word *techelet* here functions as a general term for the *tzitzit* as a whole, not specifically the blue string — an irony given that *techelet* is not in use today.
 
-Rav Yosef again corrects an attribution, this time in the opposite direction: *Rav amrah ve-lo Shmuel* — it was Rav who said this, not Shmuel. This is then confirmed by a full chain of transmission: Rav Huna bar Yehuda said in the name of Rav Sheshet, who said in the name of Rav Yirmiyah bar Abba, who said in the name of Rav — *techelet she-karach rubah kesherah* — even if the majority was knotted and wrapped rather than left as free strands, the *tzitzit* is *kasher*. This is a *bedi'avad* ruling: if one deviated from the ideal proportion, the *tzitzit* is not disqualified.
+Rav Yosef again corrects an attribution, this time in the opposite direction: *Rav amrah ve-lo Shmuel* — it was Rav who said this, not Shmuel. This is then confirmed by a full chain of transmission: Rav Huna bar Yehuda said in the name of Rav Sheshet, who said in the name of Rav Yirmiyah bar Abba, who said in the name of Rav — *techelet she-karach rubah kesherah* — even if the majority was knotted and wrapped rather than left as free strands, the *tzitzit* is *kasher*. This is a *bedi'avad* ruling: if one deviated from the ideal proportion, the *tzitzit* is not disqualified. The normal *lechatchilah* expectation, in other words, is the familiar one-third knots and wrapping to two-thirds free-flowing strings; the ruling here addresses only the case where one has gone beyond that and knotted more than half. An extreme case — where one has knotted everything and left no free-flowing strings at all — is a separate problem, because such a *tzitzit* would satisfy *gedil* but lack *petil* entirely, and the gemara does not extend *kasher* status that far.
 
 ### Single Wrapping OK
 
+
+
 > **Hebrew/Aramaic:** רַב חִיָּיא בְּרֵיהּ דְּרַב נָתָן מַתְנֵי הָכִי: אָמַר רַב הוּנָא, אָמַר רַב שֵׁשֶׁת, אָמַר רַב יִרְמְיָה בַּר אַבָּא, אָמַר רַב: תְּכֵלֶת שֶׁכָּרַךְ רוּבָּהּ – כְּשֵׁרָה, וַאֲפִילּוּ לֹא כָּרַךְ בָּהּ אֶלָּא חוּלְיָא אַחַת – כְּשֵׁרָה, וְנוֹיֵי תְכֵלֶת – שְׁלִישׁ גְּדִיל וּשְׁנֵי שְׁלִישֵׁי עָנָף.
->
 > **Translation:** **Rav Ḥiyya, son of Rav Natan, teaches** this discussion **like this: Rav Huna says** that **Rav Sheshet says** that **Rav Yirmeya bar Abba says** that **Rav says:** If one **wound the majority of** the white and the **sky-blue** strings, the ritual fringes are nevertheless **fit. And even** if **he wound only one set of** windings, the ritual fringes are **fit. But** the **finest** way to affix the white and **sky-blue** strings is to ensure that **one-third** of the length of the strings is **windings and two-thirds** are **loose** hanging strings.
 
 The *gemara* extends this in the opposite direction as well. A variant formulation adds: *ve-afilu lo karach bah ela chulya achat kesherah* — even if one performed only a single wrapping section (*chulya*) and no more, the *tzitzit* is *kasher*. This is striking given that earlier the *gemara* assumed *al kol chulya ve-chulya* — that there are multiple wrapping sections. The reconciliation is that while multiple *chulyot* are the standard expectation, a single *chulya* with a knot is sufficient *bedi'avad*. The standard practice — as reported by the Rosh and Tosafot — involves three *chulyot*, while our own practice consists of four sections with wrappings of seven, eight, eleven, and thirteen winds, bounded by five knots.
@@ -160,18 +162,18 @@ The ideal proportion is then stated: *noi techelet* — the beauty of *tzitzit*,
 
 ## 7-13 Wrappings
 
+
+
 ### Range 7-13
 
 > **Hebrew/Aramaic:** וְכַמָּה שִׁיעוּר חוּלְיָא? תַּנְיָא, רַבִּי אוֹמֵר: כְּדֵי שֶׁיִּכְרוֹךְ וְיִשְׁנֶה וִישַׁלֵּשׁ. תָּאנָא: הַפּוֹחֵת לֹא יִפְחוֹת מִשֶּׁבַע, וְהַמּוֹסִיף לֹא יוֹסִיף עַל שְׁלֹשׁ עֶשְׂרֵה.
->
 > **Translation:** The Gemara asks: **And what** is the **measure** of **a set** of windings? It **is taught** in a *baraita* that **Rabbi** Yehuda HaNasi **says:** It is **such that one winds** once **and** winds **a second and third** time, i.e., each set must contain at least three windings. It was **taught: One who minimizes** the sets of windings **may not** have **fewer than seven** sets, **and one who adds** to this number of sets **may not** have **more than thirteen** sets of windings.
 
-A *braita* is cited defining the limits of each wrapping section: *ha-pochet lo yifchos mi-sheva ve-ha-mosif lo yosif al shalosh esrei* — one who makes fewer should not make fewer than seven wraps per section, and one who adds more should not exceed thirteen. This establishes the range within which each *chulya* must fall. Rabbi's independent ruling — that a minimum of three wraps is required (*kedei she-yichRoch ve-yishneh ve-yishalesh*, wrap, repeat, triple) — appears to set a lower technical floor, distinct from the symbolic range.
+A *braita* is cited defining the limits of each wrapping section: *ha-pochet lo yifchos mi-sheva ve-ha-mosif lo yosif al shalosh esrei* — one who makes fewer should not make fewer than seven wraps per section, and one who adds more should not exceed thirteen. This establishes the range within which each *chulya* must fall. Rabbi's independent ruling — that a minimum of three wraps is required (*kedei she-yichroch ve-yishneh ve-yishalesh*, wrap, repeat, triple) — appears to set a lower technical floor, distinct from the symbolic range.
 
 ### Heavens Symbolism
 
 > **Hebrew/Aramaic:** הַפּוֹחֵת לֹא יִפְחוֹת מִשֶּׁבַע, כְּנֶגֶד שִׁבְעָה רְקִיעִים, וְהַמּוֹסִיף לֹא יוֹסִיף עַל שְׁלֹשׁ עֶשְׂרֵה, כְּנֶגֶד שִׁבְעָה רְקִיעִין וְשִׁשָּׁה אֲוִירִין שֶׁבֵּינֵיהֶם.
->
 > **Translation:** The Gemara provides explanations for these guidelines: **One who minimizes** the sets of windings **may not** wind **fewer than seven** sets, **corresponding to** the **seven firmaments. And one who adds** to this number of sets **may not** wind **more than thirteen** sets of windings, **corresponding to** the **seven firmaments and** the **six air** spaces **between them.**
 
 The numbers seven and thirteen are grounded in cosmological symbolism. The minimum of seven corresponds to the *shiva rekiyim* — the seven heavens — reflecting the connection between *techelet* and the sky. The maximum of thirteen corresponds to *shiva rekiyim ve-shisha avirim she-beineihem* — the seven heavens and the six air spaces between them — totaling thirteen. The entire range, in other words, is mapped onto a picture of the heavens, reinforcing the thematic resonance of *techelet* as a reminder of the divine realm.
@@ -188,11 +190,12 @@ The *gemara* also records a well-known *gematria*: the numerical value of the wo
 
 ## Wrap Order
 
+
+
 ### White First Last
 
 > **Hebrew/Aramaic:** תָּנָא: כְּשֶׁהוּא מַתְחִיל – מַתְחִיל בַּלָּבָן: ״הַכָּנָף״ – מִין כָּנָף, וּכְשֶׁהוּא מְסַיֵּים – מְסַיֵּים בַּלָּבָן, מַעֲלִין בַּקּוֹדֶשׁ וְלֹא מוֹרִידִין.
->
-> **Translation:** It was **taught: When one begins** to form the windings, he **begins** winding **with a white** string. This is because the verse indicates that one first inserts "the fringe of **the corner"** (Numbers 15:38), i.e., the white strings, which are of the same **type** as the **corner** of the garment. **And when he concludes** the windings, **he concludes with a white** string, in accordance with the principle: **One elevates** to a higher level **in** matters of **sanctity and does not downgrade.**
+> **Translation:** It was **taught: When one begins** to form the windings, he **begins** winding **with a white** string. This is because the verse indicates that one first inserts “the fringe of **the corner”** (Numbers 15:38), i.e., the white strings, which are of the same **type** as the **corner** of the garment. **And when he concludes** the windings, **he concludes with a white** string, in accordance with the principle: **One elevates** to a higher level **in** matters of **sanctity and does not downgrade.**
 
 A *tanna* taught: *keshe-hu maschil hu maschil be-lavan* — when one begins the wrapping, one begins with the white. The rationale offered is *ha-kanaf min kanaf* — the corner should match the corner, meaning the wrapping that is closest to the garment should reflect the primary material. Since most garments are white, and since the white string is understood as the primary constituent of *tzitzit* (as we will see, one is *yotzei* even without *techelet*), the wrapping begins with white so that white is adjacent to the garment.
 
@@ -208,29 +211,37 @@ The question of what people who actually have *techelet* today do with these wra
 
 ## All Knotted Debate
 
+
+
+[DAF:39b]
 ### Full Knot Garment
 
-> **Hebrew/Aramaic:** רַב וְרַבָּה בַּר בַּר חָנָה הֲווֹ יָתְבִי, הֲוָה קָא חָלֵיף וְאָזֵיל הָהוּא גַּבְרָא דְּמִיכַּסֵּי גְּלִימָא דְּכוּלֵּהּ תְּכֵלְתָּא, וּרְמֵי לֵיהּ תְּכֵלְתָּא וּגְדִילָא מִיגְּדִיל. אָמַר רַב: יָאֵי גְּלִימָא וְלָא יָאֵי תְּכֵלְתָּא, רַבָּה בַּר בַּר חָנָה אָמַר: יָאֵי גְּלִימָא וְיָאֵי תְּכֵלְתָּא.
->
-> **Translation:** The Gemara relates: **Rav and Rabba bar bar Ḥana were sitting** together. **A certain man was passing by wearing a cloak that** was made **entirely of sky-blue** wool, **on which he had affixed** white and **sky-blue** strings, **and** the ritual fringes were composed **entirely** of **windings,** without any portion of the strings hanging loose. **Rav said: The cloak is beautiful, but the** white and **sky-blue** strings are **not beautiful. Rabba bar bar Ḥana said: The cloak is beautiful, and the** white and **sky-blue** strings are also **beautiful.**
+> **Hebrew/Aramaic:** רַב וְרַבָּה בַּר בַּר חָנָה הֲווֹ יָתְבִי, הֲוָה קָא חָלֵיף וְאָזֵיל הָהוּא גַּבְרָא דְּמִיכַּסֵּי גְּלִימָא דְּכוּלֵּהּ תְּכֵלְתָּא, וּרְמֵי לֵיהּ תְּכֵלְתָּא
+> **Translation:** § The Gemara relates: **Rav and Rabba bar bar Ḥana were sitting** together. **A certain man was passing by wearing a cloak that** was made **entirely of sky-blue** wool, **on which he had affixed** white and **sky-blue** strings,
+
+> **Hebrew/Aramaic:** וּגְדִילָא מִיגְּדִיל. אָמַר רַב: יָאֵי גְּלִימָא וְלָא יָאֵי תְּכֵלְתָּא, רַבָּה בַּר בַּר חָנָה אָמַר: יָאֵי גְּלִימָא וְיָאֵי תְּכֵלְתָּא.
+> **Translation:** **and** the ritual fringes were composed **entirely** of **windings,** without any portion of the strings hanging loose. **Rav said: The cloak is beautiful, but the** white and **sky-blue** strings are **not beautiful. Rabba bar bar Ḥana said: The cloak is beautiful, and the** white and **sky-blue** strings are also **beautiful.**
 
 The *gemara* presents an illustrative case. Rava and Rabbah bar bar Chana were sitting when a man passed by wearing a garment — *michsei glima* — that was entirely blue, and whose *tzitzit* was entirely knotted — *gidelei migdal* — with no free-flowing strand at all. The entire length of the *tzitzit* had been wound into knots with nothing hanging loose.
 
 ### Rabbah: Or Requirement
 
-> **Hebrew/Aramaic:** בְּמַאי קָא מִיפַּלְגִי? רַבָּה בַּר בַּר חַנָּה סָבַר: כְּתִיב ״גְּדִיל״ וּכְתִיב ״פְּתִיל״, אוֹ גְדִיל אוֹ פְתִיל.
->
-> **Translation:** The Gemara asks: **With regard to what** principle **do they disagree?** The Gemara answers: **Rabba bar bar Ḥana holds** that since **it is written** in one verse: "You shall prepare yourself **twisted cords"** (Deuteronomy 22:12), **and** in another **it is written:** "And they shall put on the fringe of the corner a sky-blue **thread"** (Numbers 15:38), it teaches that the ritual fringes may be composed entirely of **either twisted cords,** i.e., the windings, **or** loose threads or **strings.**
-
 Rabbah bar bar Chana assessed the situation positively: *ya'ei glima ve-ya'ei tzitzis* — a beautiful garment and beautiful *tzitzit*. He holds the man is *yotzei*. His reasoning: the Torah uses two distinct terms — *gedilim*, which the *gemara* reads as indicating knots or braids, and *petil*, a strand of *techelet*. Rabbah bar bar Chana reads these as alternatives: *o gedil o p'til* — either knots or free strands suffice. *Tzitzit* may be constituted by either element alone; there is no requirement for both simultaneously. A garment that is entirely knotted, with no free strand, would be *kasher* on this view.
+
+> **Hebrew/Aramaic:** בְּמַאי קָא מִיפַּלְגִי? רַבָּה בַּר בַּר חַנָּה סָבַר: כְּתִיב ״גְּדִיל״ וּכְתִיב ״פְּתִיל״, אוֹ גְדִיל אוֹ פְתִיל.
+> **Translation:** The Gemara asks: **With regard to what** principle **do they disagree?** The Gemara answers: **Rabba bar bar Ḥana holds** that since **it is written** in one verse: “You shall prepare yourself **twisted cords”** (Deuteronomy 22:12), **and** in another **it is written:** “And they shall put on the fringe of the corner a sky-blue **thread”** (Numbers 15:38), it teaches that the ritual fringes may be composed entirely of **either twisted cords,** i.e., the windings, **or** loose threads or **strings.**
 
 ### Rav: Both Needed
 
-> **Hebrew/Aramaic:** וְרַב סָבַר: לְעוֹלָם פְּתִיל בָּעֵינַן, וְהָהוּא ״גְּדִילִים״ לְמִנְיָינָא הוּא דַּאֲתָא – גְּדִיל שְׁנַיִם, גְּדִילִים אַרְבָּעָה, עֲשֵׂה גְּדִיל וּפוֹתְלֵיהוּ מִתּוֹכוֹ.
->
-> **Translation:** **And Rav holds** that **actually, we** also **require** loose **strings** in addition to the windings, **and** when **that** term **"twisted cords"** appears in the verse, **it comes for** the purpose of teaching the **number** of strings that are required. If the verse would have employed the singular term **twisted cord,** it would still indicate that **two** strings are required, as twisted means that two strings are wound around each other. Once the verse uses the plural term **"twisted cords,"** it thereby indicates that **four** strings are required. By using the terms "twisted cords" and "thread," the verses indicates: **Form twisted cords** with the four strings that one attaches to each corner, **and let** the strings **hang loose from them.**
 
 Rav, however, disagreed: *ya'ei glima ve-lo ya'ei techeilta* — a beautiful garment, but not beautiful *tzitzit*. He holds that the man is not *yotzei*. Rav requires *l'olam psil ba'inan* — one always needs free-flowing strands in addition to the knots. The word *gedilim* in the Torah is not teaching that knots alone suffice; rather, it serves a different purpose.
+
+It is worth pausing here to register how much Rabbah bar bar Chana's position loosens what we might have assumed were rigid technical demands. We tend to think of *tzitzit* as a highly ritualized object, defined by precise requirements — the doubling over, the wrapping, the carefully counted windings. Yet if either knots or free strands independently satisfy the obligation, the object becomes something far less exactly specified, something closer to an ordinary fringe. The accessibility implicit in that reading is not incidental: *tzitzit* is after all a commandment meant for everyone, not only those who purchase a dedicated *beged tzitzit* but anyone wearing a four-cornered garment. A more loosely defined requirement fits that universality. One practical concern Tosafot raises is that without any knotting structure, free strands (*petil*) alone might simply fall off — which suggests that even on Rabbah bar bar Chana's view some minimal securing may be necessary in practice, even if it does not rise to the level of a full formal requirement. But the core point stands: on his reading, *o gedil o petil* — either element, taken alone, is sufficient for the obligation.
+
+### Four Strings & Emergence
+
+> **Hebrew/Aramaic:** וְרַב סָבַר: לְעוֹלָם פְּתִיל בָּעֵינַן, וְהָהוּא ״גְּדִילִים״ לְמִנְיָינָא הוּא דַּאֲתָא – גְּדִיל שְׁנַיִם, גְּדִילִים אַרְבָּעָה, עֲשֵׂה גְּדִיל וּפוֹתְלֵיהוּ מִתּוֹכוֹ.
+> **Translation:** **And Rav holds** that **actually, we** also **require** loose **strings** in addition to the windings, **and** when **that** term **“twisted cords”** appears in the verse, **it comes for** the purpose of teaching the **number** of strings that are required. If the verse would have employed the singular term **twisted cord,** it would still indicate that **two** strings are required, as twisted means that two strings are wound around each other. Once the verse uses the plural term **“twisted cords,”** it thereby indicates that **four** strings are required. By using the terms “twisted cords” and “thread,” the verses indicates: **Form twisted cords** with the four strings that one attaches to each corner, **and let** the strings **hang loose from them.**
 
 What then is the role of the word *gedilim* according to Rav? *Le-minyano hu de'ata* — it comes to teach the number. *Gedil* implies two (like a braid of two), *gedilim* implies four. This is the source for the requirement of four strings (which, once doubled over, become eight). The word *gedilim* establishes that there must be four strings, while the requirement for free-flowing strands (*petil*) remains independently in force. Both are required.
 
@@ -240,21 +251,26 @@ The *gemara* then adds: *aseh gedil u-ftulehu mi-tocha* — make the knot and le
 
 ## String Materials
 
+
+
 ### Wool & Linen Mix
 
 > **Hebrew/Aramaic:** אָמַר שְׁמוּאֵל מִשְּׁמֵיהּ דְּלֵוִי: חוּטֵי צֶמֶר פּוֹטְרִין בְּשֶׁל פִּשְׁתָּן.
->
-> **Translation:** **Shmuel says in the name of Levi: Wool strings exempt** a garment made **of linen,** i.e., one fulfills the mitzva by affixing wool strings to a linen garment.
+> **Translation:** § **Shmuel says in the name of Levi: Wool strings exempt** a garment made **of linen,** i.e., one fulfills the mitzva by affixing wool strings to a linen garment.
+
+> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: שֶׁל פִּשְׁתָּן מַהוּ שֶׁיִּפְטְרוּ בְּשֶׁל צֶמֶר? צֶמֶר בְּשֶׁל פִּשְׁתִּים הוּא דְּפָטַר, דְּכֵיוָן דִּתְכֵלֶת פָּטְרָה לָבָן נָמֵי פָּטַר, אֲבָל פִּשְׁתִּים בְּצֶמֶר לָא.
+> **Translation:** **A dilemma was raised before** the Sages: **What is** the *halakha* with regard to whether strings made **of linen exempt** a garment made **of wool?** One can say that **it is** only **wool** strings **that exempt** a garment **of linen, as since the sky-blue** string, which must be wool, **exempts** a linen garment, **white** strings of wool **also exempt** the garment. **But** if one affixes **linen** strings **to a wool** garment, he does **not** fulfill his obligation.
+
+> **Hebrew/Aramaic:** אוֹ דִלְמָא, כֵּיוָן דִּכְתִיב: ״לֹא תִלְבַּשׁ שַׁעַטְנֵז צֶמֶר וּפִשְׁתִּים יַחְדָּו. גְּדִלִים תַּעֲשֶׂה לָךְ״, לָא שְׁנָא צֶמֶר בְּפִשְׁתִּים וְלָא שְׁנָא פִּשְׁתִּים בְּצֶמֶר?
+> **Translation:** **Or perhaps, since it is written: “You shall not wear diverse kinds, wool and linen together. You shall prepare yourself twisted cords** upon the four corners of your covering” (Deuteronomy 22:11–12), which indicates that one may wear wool and linen together in order to fulfill the mitzva of ritual fringes, there **is no difference** whether one affixes **wool** strings **to** a garment of **linen, and** there **is no difference** whether one affixes **linen** strings **to** a garment of **wool.**
 
 Shmuel said in the name of Levi: *chutei tzemer potrin be-shel pishtan* — wool strings fulfill the obligation when attached to a linen garment. This opening statement establishes the baseline: wool strings are universally acceptable regardless of the garment material. The question that immediately follows is the more challenging one.
 
 It is useful to first orient the broader discussion. The *gemara* has already established that *techelet* must be a wool string, since the blue dye adheres properly only to wool. This means that for any non-wool garment — linen, silk, or otherwise — attaching a *techelet* string automatically creates *kilayim* (wool in a non-wool garment). The Torah's juxtaposition of the *shatnez* prohibition and the *gedilim* command permits this. But the question now is whether the same tolerance extends beyond the unavoidable case.
 
-### Linen on Wool?
+What emerges from the *gemara* is a broader principle: wool and linen are always the acceptable materials for *tzitzit* strings, regardless of the garment type. One may use wool strings on a linen garment, linen strings on a wool garment, or wool and linen strings together on a silk garment. The *mitzvah* of *tzitzit* is not simply exempt from the prohibition of *kilayim* in a narrow technical sense — it overrides it as a general matter, much as the priestly vestments, *bigdei kehuna*, were expressly made of wool and linen combined. It is worth noting, though, that this permission is confined to the *tzitzit* strings themselves; one should not conclude from it that attaching *tzitzit* to any four-cornered garment grants the garment as a whole a free pass from *shatnez*. The exemption operates through the *tzitzit*, not despite them.
 
-> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: שֶׁל פִּשְׁתָּן מַהוּ שֶׁיִּפְטְרוּ בְּשֶׁל צֶמֶר? צֶמֶר בְּשֶׁל פִּשְׁתִּים הוּא דְּפָטַר, דְּכֵיוָן דִּתְכֵלֶת פָּטְרָה לָבָן נָמֵי פָּטַר, אֲבָל פִּשְׁתִּים בְּצֶמֶר לָא. אוֹ דִלְמָא, כֵּיוָן דִּכְתִיב: ״לֹא תִלְבַּשׁ שַׁעַטְנֵז צֶמֶר וּפִשְׁתִּים יַחְדָּו. גְּדִלִים תַּעֲשֶׂה לָךְ״, לָא שְׁנָא צֶמֶר בְּפִשְׁתִּים וְלָא שְׁנָא פִּשְׁתִּים בְּצֶמֶר?
->
-> **Translation:** **A dilemma was raised before** the Sages: **What is** the *halakha* with regard to whether strings made **of linen exempt** a garment made **of wool?** One can say that **it is** only **wool** strings **that exempt** a garment **of linen, as since the sky-blue** string, which must be wool, **exempts** a linen garment, **white** strings of wool **also exempt** the garment. **But** if one affixes **linen** strings **to a wool** garment, he does **not** fulfill his obligation. **Or perhaps, since it is written: "You shall not wear diverse kinds, wool and linen together. You shall prepare yourself twisted cords** upon the four corners of your covering" (Deuteronomy 22:11–12), which indicates that one may wear wool and linen together in order to fulfill the mitzva of ritual fringes, there **is no difference** whether one affixes **wool** strings **to** a garment of **linen, and** there **is no difference** whether one affixes **linen** strings **to** a garment of **wool.**
+### Linen on Wool?
 
 *Shel pishtan mahu she-yiftru be-shel tzemer* — what about linen strings on a wool garment? Here the logic divides. For a linen garment, wool strings are understandable: since the *techelet* must be wool anyway, introducing additional wool strings creates no further problem. But for a wool garment, there is no inherent necessity to introduce linen. One could fulfill the entire *mitzvah* with wool strings alone. So does introducing linen strings — thereby creating *shatnez* — remain permitted even when avoidable?
 
@@ -264,21 +280,21 @@ The *gemara* raises the possibility that the juxtaposition — *lo tilbash shatn
 
 ### Universal Exemption
 
-> **Hebrew/Aramaic:** תָּא שְׁמַע, דְּאָמַר רַחֲבָה אָמַר רַב יְהוּדָה: חוּטֵי צֶמֶר פּוֹטְרִין בְּשֶׁל פִּשְׁתָּן, וְשֶׁל פִּשְׁתָּן פּוֹטְרִין בְּשֶׁל צֶמֶר, חוּטֵי צֶמֶר וּפִשְׁתִּים פּוֹטְרִין בְּכׇל מָקוֹם, וַאֲפִילּוּ בְּשִׁירָאִין.
->
-> **Translation:** The Gemara suggests: **Come** and **hear** a resolution to this dilemma, **as Raḥava says** that **Rav Yehuda says: Wool strings exempt** a garment made **of linen,** strings **of linen exempt** a garment made **of wool,** and **strings of wool and linen exempt** a garment **in any case,** i.e., all garments, **and even** garments made **from silks [*beshira'in*].**
-
 This is then confirmed by a *braita* cited by Rechava in the name of Rav Yehuda: *chutei tzemer potrin be-shel pishtan, ve-shel pishtan potrin be-shel tzemer* — wool strings fulfill in a linen garment and linen strings fulfill in a wool garment. And then the cumulative statement: *chutei tzemer u-fishtim potrin be-chol makom* — wool and linen strings fulfill the obligation everywhere. This can be read as saying that either wool or linen strings work for any garment, or that a combination of both wool and linen strings together works universally. The explicit conclusion for our purposes is that linen strings on a wool garment are *kasher* — the creation of *kilayim* in the *tzitzit* is permitted even when it was entirely avoidable. *Tzitzit* is not merely an override where *kilayim* is forced upon you; it is an outright exemption from the *kilayim* prohibition within the context of *tzitzit* strings.
 
 ---
 
 ## Silk & Other Materials
 
+
+
 ### Rav Nachman Exempt
 
-> **Hebrew/Aramaic:** וּפְלִיגָא דְּרַב נַחְמָן, דְּאָמַר רַב נַחְמָן: הַשִּׁירָאִין פְּטוּרִין מִן הַצִּיצִית.
->
-> **Translation:** The Gemara notes: **And** this last point **disagrees** with a ruling **of Rav Naḥman, as Rav Naḥman says: *Shira'in* are** entirely **exempt from** the obligation of **ritual fringes.**
+> **Hebrew/Aramaic:** תָּא שְׁמַע, דְּאָמַר רַחֲבָה אָמַר רַב יְהוּדָה: חוּטֵי צֶמֶר פּוֹטְרִין בְּשֶׁל פִּשְׁתָּן, וְשֶׁל פִּשְׁתָּן פּוֹטְרִין בְּשֶׁל צֶמֶר, חוּטֵי צֶמֶר וּפִשְׁתִּים פּוֹטְרִין בְּכׇל מָקוֹם, וַאֲפִילּוּ בְּשִׁירָאִין.
+> **Translation:** The Gemara suggests: **Come** and **hear** a resolution to this dilemma, **as Raḥava says** that **Rav Yehuda says: Wool strings exempt** a garment made **of linen,** strings **of linen exempt** a garment made **of wool,** and **strings of wool and linen exempt** a garment **in any case,** i.e., all garments, **and even** garments made **from silks [*beshira’in*].**
+
+> **Hebrew/Aramaic:** וּפְלִיגָא דְּרַב נַחְמָן, דְּאָמַר רַב נַחְמָן: הַשִּׁירָאִין פְּטוּרִין מִן הַצִּיצִית. אֵיתִיבֵיהּ רָבָא לְרַב נַחְמָן: הַשִּׁירָאִין וְהַכָּלָךְ וְהַסְּרִיקִין כּוּלָּן חַיָּיבִין בְּצִיצִית – מִדְּרַבָּנַן.
+> **Translation:** The Gemara notes: **And** this last point **disagrees** with a ruling **of Rav Naḥman, as Rav Naḥman says: *Shira’in* are** entirely **exempt from** the obligation of **ritual fringes. Rava raised an objection to** the opinion of **Rav Naḥman** from the following *baraita*: Garments made from types of silks known as ***shira’in*, *kalakh*, and *serikin* all require ritual fringes.** The Gemara answers: The *baraita* means that there is an obligation **by rabbinic law,** whereas Rav Naḥman meant they are exempt by Torah law.
 
 The *braita* just cited adds: *ve-afilu bi-shirayim* — wool and linen strings work even on silk garments. But this immediately conflicts with the position of Rav Nachman, who states: *ha-shirayim peturim min ha-tzitzit* — silk garments are exempt from the obligation of *tzitzit* entirely. Rav Nachman's position reflects a more restrictive definition of what counts as a *beged* — a garment — for purposes of the biblical *mitzvah*. On his view, the Torah's obligation applies only to wool and linen garments; other materials do not qualify.
 
@@ -286,17 +302,15 @@ This reflects a broader question about what counts as a *beged* for purposes of 
 
 ### Braita Obligates
 
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ רָבָא לְרַב נַחְמָן: הַשִּׁירָאִין וְהַכָּלָךְ וְהַסְּרִיקִין כּוּלָּן חַיָּיבִין בְּצִיצִית – מִדְּרַבָּנַן.
->
-> **Translation:** **Rava raised an objection to** the opinion of **Rav Naḥman** from the following *baraita*: Garments made from types of silks known as ***shira'in*, *kalakh*, and *serikin* all require ritual fringes.** The Gemara answers: The *baraita* means that there is an obligation **by rabbinic law,** whereas Rav Naḥman meant they are exempt by Torah law.
-
 Rava challenged Rav Nachman from a *braita*: *ha-shirayim ve-ha-kalach ve-ha-serikin kulan chayavin be-tzitzit* — all three types of silk are obligated in *tzitzit*. Rav Nachman responds: the obligation referenced by the *braita* is rabbinic, not biblical. The importance of this distinction: even a rabbinic obligation means the person must attach *tzitzit* and may recite the *bracha*.
 
 ### Level Determines Rules
 
 > **Hebrew/Aramaic:** אִי הָכִי, אֵימָא סֵיפָא: וְכוּלָּן צֶמֶר וּפִשְׁתִּים פּוֹטְרִין בָּהֶן. אִי אָמְרַתְּ בִּשְׁלָמָא דְּאוֹרָיְיתָא – הַיְינוּ דְּמִישְׁתְּרוּ בְּהוּ כִּלְאַיִם, אֶלָּא אִי אָמְרַתְּ דְּרַבָּנַן – הֵיכִי מִישְׁתְּרֵי בְּהוּ כִּלְאַיִם? אֵימָא: אוֹ צֶמֶר אוֹ פִּשְׁתִּים.
->
 > **Translation:** The Gemara challenges this suggestion: **If that is so,** then **say the latter clause** of the *baraita*: **And** with regard to **all of these** garments, strings of **wool and linen exempt them.** This indicates that one may affix wool sky-blue strings and white linen strings. **Granted, if you say** that the obligation of ritual fringes for silk garments is **by Torah law, that is** why **diverse kinds are permitted for them. But if you say** that the obligation is **by rabbinic law, how could diverse kinds be permitted for them?** The Gemara answers: **Say** instead: **Either wool or linen** strings exempt silk garments, but one may not affix both wool and linen strings to the same silk garment.
+
+> **Hebrew/Aramaic:** הָכִי נָמֵי מִסְתַּבְּרָא, דְּקָתָנֵי סֵיפָא: הֵן בְּמִינָן פּוֹטְרִין, שֶׁלֹּא בְּמִינָן אֵין פּוֹטְרִין. אִי אָמְרַתְּ בִּשְׁלָמָא דְּרַבָּנַן – הַיְינוּ דְּמִיפַּטְרוּ בְּמִינָן, אֶלָּא אִי אָמְרַתְּ דְּאוֹרָיְיתָא – צֶמֶר וּפִשְׁתִּים הוּא דְּפָטַר.
+> **Translation:** The Gemara comments: **So too, it is reasonable** to assume that this is the correct interpretation of the *baraita*, **as** the *baraita* **teaches** in **the latter clause:** Strings made from **these** silk fabrics **exempt** a garment **of their type** but **do not exempt** a garment **that is not of their type. Granted, if you say** that the obligation to attach ritual fringes to these garments is **by rabbinic law, that is** why **they are exempted** if one affixes strings **of their type. But if you say** that the obligation is **by Torah law,** then **it** should be only **wool or linen that exempt** these garments.
 
 The *gemara* presses: *ei hachi eima seifa* — if the *braita* means only rabbinic obligation, consider its concluding clause: *ve-kulan be-tzemer u-fishtim potrin ba-hen* — all these garments are fulfilled with wool and linen strings. If this means wool *and* linen strings combined, then for a silk garment (which has only a rabbinic obligation) one would be introducing *kilayim* into a garment without any biblical need to do so. The earlier discussion established that *kilayim* in *tzitzit* is permitted for biblically obligated garments because the Torah's own juxtaposition authorizes it. But if the silk garment carries only a rabbinic obligation, that Torah-level authorization cannot apply, and creating *kilayim* would remain prohibited.
 
@@ -304,17 +318,15 @@ The *gemara* resolves this: *o tzemer o fishtim* — read the *braita* as "eithe
 
 ### Kanaf Min Kanaf
 
-> **Hebrew/Aramaic:** הָכִי נָמֵי מִסְתַּבְּרָא, דְּקָתָנֵי סֵיפָא: הֵן בְּמִינָן פּוֹטְרִין, שֶׁלֹּא בְּמִינָן אֵין פּוֹטְרִין. אִי אָמְרַתְּ בִּשְׁלָמָא דְּרַבָּנַן – הַיְינוּ דְּמִיפַּטְרוּ בְּמִינָן, אֶלָּא אִי אָמְרַתְּ דְּאוֹרָיְיתָא – צֶמֶר וּפִשְׁתִּים הוּא דְּפָטַר.
->
-> **Translation:** The Gemara comments: **So too, it is reasonable** to assume that this is the correct interpretation of the *baraita*, **as** the *baraita* **teaches** in **the latter clause:** Strings made from **these** silk fabrics **exempt** a garment **of their type** but **do not exempt** a garment **that is not of their type. Granted, if you say** that the obligation to attach ritual fringes to these garments is **by rabbinic law, that is** why **they are exempted** if one affixes strings **of their type. But if you say** that the obligation is **by Torah law,** then **it** should be only **wool or linen that exempt** these garments.
-
 This resolution is supported by the *sifa* of the *braita* itself: *hen be-minam potrin, u-she-lo be-minam ein potrin* — these garments (silk and other non-wool-or-linen materials) are fulfilled by strings of their own kind, but strings of a foreign material (other than wool or linen) do not fulfill the obligation. This clause is derived from the verse *ha-kanaf min kanaf* — the corner (*kanaf*) from the same type as the corner. Just as the garment defines what is "the corner," the strings should be *min kanaf* — from the same type as the garment. A silk garment can thus be fitted with silk strings; a cotton garment with cotton strings. But these same-material strings only work for their own kind of garment, unlike wool and linen, which are universal.
 
 ### Two Pesukim Resolved
 
-> **Hebrew/Aramaic:** אִי מִשּׁוּם הָא לָא אִירְיָא, כִּדְרָבָא, דְּרָבָא רָמֵי: כְּתִיב ״הַכָּנָף״ – מִין כָּנָף, וּכְתִיב ״צֶמֶר וּפִשְׁתִּים״. הָא כֵּיצַד? צֶמֶר וּפִשְׁתִּים פּוֹטְרִין בֵּין בְּמִינָן בֵּין שֶׁלֹּא בְּמִינָן, שְׁאָר מִינִין – בְּמִינָן פּוֹטְרִין, שֶׁלֹּא בְּמִינָן אֵין פּוֹטְרִין.
->
-> **Translation:** The Gemara rejects this: **If** it is **due to that** reason, **there is no** conclusive **argument,** because one can maintain that other fabrics also fulfill the obligation of ritual fringes by Torah law, **in accordance with** the opinion **of Rava. As Rava raises a contradiction: It is written** in one verse: "And they shall put on the fringe of the corner a sky-blue thread" (Numbers 15:38). The term **"the corner"** indicates that the fringe must be from the same **type** of fabric as the **corner. And** yet **it is written: "Wool and linen"** (Deuteronomy 22:11), immediately before the verse states: "You shall prepare yourself twisted cords upon the four corners of your covering" (Deuteronomy 22:12), indicating that ritual fringes must be from either wool or linen. **How so?** Strings made of **wool or linen exempt** any garment, **whether** the garment is made **of their type** of fabric, or **whether** it is **not of their type** of fabric. Strings made of all **other types** of fabric **exempt** garments made **of their type** of fabric, e.g., silk strings exempt a silk garment, but **they do not exempt** a garment made from a fabric **that is not their type,** i.e., a garment made from a different fabric.
+> **Hebrew/Aramaic:** אִי מִשּׁוּם הָא לָא אִירְיָא, כִּדְרָבָא, דְּרָבָא רָמֵי: כְּתִיב ״הַכָּנָף״ – מִין כָּנָף, וּכְתִיב ״צֶמֶר וּפִשְׁתִּים״.
+> **Translation:** The Gemara rejects this: **If** it is **due to that** reason, **there is no** conclusive **argument,** because one can maintain that other fabrics also fulfill the obligation of ritual fringes by Torah law, **in accordance with** the opinion **of Rava. As Rava raises a contradiction: It is written** in one verse: “And they shall put on the fringe of the corner a sky-blue thread” (Numbers 15:38). The term **“the corner”** indicates that the fringe must be from the same **type** of fabric as the **corner. And** yet **it is written: “Wool and linen”** (Deuteronomy 22:11), immediately before the verse states: “You shall prepare yourself twisted cords upon the four corners of your covering” (Deuteronomy 22:12), indicating that ritual fringes must be from either wool or linen.
+
+> **Hebrew/Aramaic:** הָא כֵּיצַד? צֶמֶר וּפִשְׁתִּים פּוֹטְרִין בֵּין בְּמִינָן בֵּין שֶׁלֹּא בְּמִינָן, שְׁאָר מִינִין – בְּמִינָן פּוֹטְרִין, שֶׁלֹּא בְּמִינָן אֵין פּוֹטְרִין.
+> **Translation:** **How so?** Strings made of **wool or linen exempt** any garment, **whether** the garment is made **of their type** of fabric, or **whether** it is **not of their type** of fabric. Strings made of all **other types** of fabric **exempt** garments made **of their type** of fabric, e.g., silk strings exempt a silk garment, but **they do not exempt** a garment made from a fabric **that is not their type,** i.e., a garment made from a different fabric.
 
 This leads to the resolution offered by Rava of an apparent conflict between two *pesukim*. One verse implies *ha-kanaf* — from the same material as the garment. Another verse implies *tzemer u-fishtim* — the material is specifically wool or linen (derived from the juxtaposition of the *shatnez* verse and the *gedilim* command). How are these reconciled?
 

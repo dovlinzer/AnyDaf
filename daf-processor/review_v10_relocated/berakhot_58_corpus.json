@@ -1,0 +1,421 @@
+[
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Miracles of Old",
+    "candidates": [
+      "Uprooted Idolatry",
+      "Markulis Blessing",
+      "Universal vs. Local",
+      "R. Shimon ben Elazar",
+      "Tosafot's Resolution",
+      "Five Blessings",
+      "Nebuchadnezzar",
+      "Miracles of Old",
+      "Dust of Babylon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage covers all five blessings taught by Rav Hamnuna upon seeing Babylon, and the 'Five Blessings' section (index 5) is where this teaching is introduced, making it the natural home for the entire passage rather than splitting it across multiple sub-headings.",
+      "chosen_heading": "Five Blessings",
+      "current_heading": "Miracles of Old",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Dust of Babylon",
+    "candidates": [
+      "Miracles of Old",
+      "Dust of Babylon",
+      "Rav Ashi's Version",
+      "Curse Paradox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rava's donkey slapping, Mar son of Ravina's dust-throwing, and Rav Ashi's independent formulation \u2014 all of which are explicitly discussed in the 'Dust of Babylon' section's prose, making the current placement correct.",
+      "chosen_heading": "Dust of Babylon",
+      "current_heading": "Dust of Babylon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Curse Paradox",
+    "candidates": [
+      "Rav Ashi's Version",
+      "Curse Paradox",
+      "Masses of Israel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Yirmiyahu ben Elazar's observation on Babylonia/Samaria curses and their neighbors is precisely what candidate 1's prose discusses in detail.",
+      "chosen_heading": "Curse Paradox",
+      "current_heading": "Curse Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Masses of Israel",
+    "candidates": [
+      "Masses of Israel",
+      "Ben Zoma Vision",
+      "Adam's Labor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are about the bracha upon seeing multitudes of Israel (chacham harazim) and the contrast with seeing gentile multitudes, which is exactly what candidate 0's prose discusses, including the baraita about faces and minds being unlike each other \u2014 the Ben Zoma anecdote in item 2 is also addressed within candidate 0's prose before candidate 1 takes it further.",
+      "chosen_heading": "Masses of Israel",
+      "current_heading": "Masses of Israel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Adam's Labor",
+    "candidates": [
+      "Ben Zoma Vision",
+      "Adam's Labor",
+      "Guest Teachings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Ben Zoma's enumeration of Adam HaRishon's labor for bread and clothing, which is precisely what the 'Adam's Labor' section prose describes and analyzes in detail.",
+      "chosen_heading": "Adam's Labor",
+      "current_heading": "Adam's Labor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Guest Teachings",
+    "candidates": [
+      "Guest Teachings",
+      "Yishai & Masses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Ben Zoma teaching about good vs. bad guests (with the concluding Job verses), which is precisely what the 'Guest Teachings' prose discusses in detail.",
+      "chosen_heading": "Guest Teachings",
+      "current_heading": "Guest Teachings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Yishai & Masses",
+    "candidates": [
+      "Yishai & Masses",
+      "600,000 Threshold",
+      "Jewish Wisdom",
+      "Non-Jewish Masses",
+      "Gentile Wisdom",
+      "Jewish Kings",
+      "Gentile Kings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Yishai/Jesse going out with multitudes and the definition of uchlosa, which matches exactly the prose in heading 0 about Yishai and uchlosa, and the current placement is correct.",
+      "chosen_heading": "Yishai & Masses",
+      "current_heading": "Yishai & Masses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Gentile Kings",
+    "candidates": [
+      "600,000 Threshold",
+      "Jewish Wisdom",
+      "Non-Jewish Masses",
+      "Gentile Wisdom",
+      "Jewish Kings",
+      "Gentile Kings",
+      "Greet All Kings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a single baraita covering all four blessings (Jewish sages, non-Jewish sages, Jewish kings, non-Jewish kings), and its content begins with the blessing over Jewish sages \u2014 matching the 'Jewish Wisdom' section heading \u2014 while the subsequent headings each take up individual portions of this baraita in the essay's prose.",
+      "chosen_heading": "Jewish Wisdom",
+      "current_heading": "Gentile Kings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Greet All Kings",
+    "candidates": [
+      "Gentile Kings",
+      "Greet All Kings",
+      "Rav Sheshet Blind",
+      "Heretic's Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yo\u1e25anan's teaching about running to greet both Jewish and non-Jewish kings to later distinguish between them, which matches exactly the prose of 'Greet All Kings' where this teaching is described and explained.",
+      "chosen_heading": "Greet All Kings",
+      "current_heading": "Greet All Kings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Heretic's Test",
+    "candidates": [
+      "Rav Sheshet Blind",
+      "Heretic's Test",
+      "Kingship Echo",
+      "Rav Shila Trial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the complete Rav Sheshet story \u2014 the blind sage at the royal procession, his demonstration of knowing when the king arrives via the Elijah proof, and the fate of the mocking heretic \u2014 which is precisely what the 'Heretic's Test' section prose describes in full detail.",
+      "chosen_heading": "Heretic's Test",
+      "current_heading": "Heretic's Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rav Shila Trial",
+    "candidates": [
+      "Kingship Echo",
+      "Rav Shila Trial",
+      "Elijah's Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly narrates the Rabbi Sheila/Shila story \u2014 his flogging of the man, the accusation before the king, the donkey defense, Elijah's testimony, and the disclaimer about capital jurisdiction \u2014 which is exactly what the 'Rav Shila Trial' prose section describes.",
+      "chosen_heading": "Rav Shila Trial",
+      "current_heading": "Rav Shila Trial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Elijah's Testimony",
+    "candidates": [
+      "Elijah's Testimony",
+      "Justice via Rod"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Sheila praising God with the verse and receiving the rod of judicial authority, which is precisely what the 'Elijah's Testimony' section's prose discusses in detail.",
+      "chosen_heading": "Elijah's Testimony",
+      "current_heading": "Elijah's Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Justice via Rod",
+    "candidates": [
+      "Justice via Rod",
+      "Greatness Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the events discussed in the 'Justice via Rod' prose: the man's accusation of lying, Rabbi Sheila's donkey retort, the pursuer declaration, and the killing with the staff.",
+      "chosen_heading": "Justice via Rod",
+      "current_heading": "Justice via Rod",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Greatness Midrash",
+    "candidates": [
+      "Greatness Midrash",
+      "Authority Source",
+      "Jewish Homes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the homiletical exposition of 'lecha Hashem hagedulah' \u2014 first by Rav Sheila and then by Rabbi Akiva \u2014 which is precisely what the 'Greatness Midrash' prose describes, including explicit mention of both teachings.",
+      "chosen_heading": "Greatness Midrash",
+      "current_heading": "Greatness Midrash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Jewish Homes",
+    "candidates": [
+      "Authority Source",
+      "Jewish Homes",
+      "Non-Jewish Homes",
+      "Rav Chisda Mourns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita discusses blessings over Jewish houses inhabited or in ruins, which is precisely what the 'Jewish Homes' section prose describes.",
+      "chosen_heading": "Jewish Homes",
+      "current_heading": "Jewish Homes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Rav Chisda Mourns",
+    "candidates": [
+      "Non-Jewish Homes",
+      "Rav Chisda Mourns",
+      "Consolation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the continuous narrative of Ulla and Rav \u1e24isda passing Rav \u1e24ana bar \u1e24anilai's ruined house \u2014 the sigh, the challenge about sighing's harm, and Rav \u1e24isda's explanation of the house's former greatness \u2014 which is precisely what the 'Rav Chisda Mourns' prose describes.",
+      "chosen_heading": "Rav Chisda Mourns",
+      "current_heading": "Rav Chisda Mourns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Consolation",
+    "candidates": [
+      "Consolation",
+      "Jewish Graves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Ulla's consolation to Rav \u1e24isda about the destruction of the houses of the righteous and their future restoration, which is precisely what the 'Consolation' section's prose describes in detail.",
+      "chosen_heading": "Consolation",
+      "current_heading": "Consolation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Jewish Graves",
+    "candidates": [
+      "Jewish Graves",
+      "Non-Jewish Graves",
+      "Friend After Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Jewish graves blessing and the gentile graves verse, and the current heading's prose discusses both in sequence, making it the correct placement.",
+      "chosen_heading": "Jewish Graves",
+      "current_heading": "Jewish Graves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Friend After Time",
+    "candidates": [
+      "Non-Jewish Graves",
+      "Friend After Time",
+      "Greeting Blessings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehoshua ben Levi's ruling about blessings upon seeing a friend after thirty days or twelve months, and Rav's statement about forgetting the dead after twelve months \u2014 all of which is precisely what the 'Friend After Time' prose discusses.",
+      "chosen_heading": "Friend After Time",
+      "current_heading": "Friend After Time",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Greeting Blessings",
+    "candidates": [
+      "Greeting Blessings",
+      "Response & Eye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the complete exchange including Bar Chanina's response about the three blessings, the 'are you so clever' retort, and his death from the evil eye \u2014 all of which are discussed in candidate 1's prose, not candidate 0's prose which only covers the initial greeting portion.",
+      "chosen_heading": "Response & Eye",
+      "current_heading": "Greeting Blessings",
+      "moved": true
+    }
+  }
+]

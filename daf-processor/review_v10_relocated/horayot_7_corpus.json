@@ -1,0 +1,393 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Yachid Comparison",
+    "candidates": [
+      "New Perek Overview",
+      "Mezid & Shogeg",
+      "Source Question",
+      "Tzibur Par Category",
+      "Yachid Comparison",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items form one continuous baraita discussing the derivation from 'le'ashmat ha'am' \u2014 presenting the tzibur analogy, the nasi counter-analogy, and the further comparisons (par/asham talui vs. seirah/asham vadai) \u2014 which corresponds precisely to heading 4 ('Yachid Comparison') whose prose describes both the nasi counter-argument and the additional tzibur/nasi similarities introduced in this exact passage.",
+      "chosen_heading": "Yachid Comparison",
+      "current_heading": "Yachid Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Resolution",
+      "Own Sin Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the resolution via 'le'ashmat ha'am' equating the kohen mashiach with the tzibur, which is precisely what the 'Resolution' section's prose describes.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Own Sin Only",
+    "candidates": [
+      "Own Sin Only",
+      "Asham Talui Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the derivation that the anointed priest brings an offering only for his own sin (not for others who acted on his ruling), which is precisely what the 'Own Sin Only' prose describes.",
+      "chosen_heading": "Own Sin Only",
+      "current_heading": "Own Sin Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Asham Talui Q",
+    "candidates": [
+      "Asham Talui Q",
+      "Circularity Identified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks the foundational question 'from where do we derive that the anointed priest does not bring a provisional guilt-offering?' which is precisely what candidate 0's prose describes as the Gemara's opening question before the derivation is given.",
+      "chosen_heading": "Asham Talui Q",
+      "current_heading": "Asham Talui Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Circularity Identified",
+    "candidates": [
+      "Circularity Identified",
+      "Asham Side Point",
+      "Separate Case",
+      "With Tzibur",
+      "Source Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Circularity Identified",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 form a continuous Gemara unit: item 1 derives from a verse that the anointed priest doesn't bring asham talui, and item 2 identifies the circularity/logical problem with using that verse \u2014 exactly matching the 'Circularity Identified' and 'Asham Side Point' prose, but since both items 1 and 2 together cover the circularity argument and its resolution ('ela asham kedei nesavah'), they belong under heading 0 (Circularity Identified) which encompasses the whole discussion, with heading 1 (Asham Side Point) being the resolution that item 2 specifically matches \u2014 however the split is between items 1-2 and item 3.",
+      "second_heading": "Separate Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is a new Mishnah ('MISHNA:') introducing an entirely new self-contained unit about the anointed priest ruling bifnei atzmo vs. im hatzibur, matching the 'Separate Case' heading's prose exactly.",
+      "current_heading": "Circularity Identified",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Source Question",
+    "candidates": [
+      "Asham Side Point",
+      "Separate Case",
+      "With Tzibur",
+      "Source Question",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's source question (mana hanei milei) and the baraita beginning 'horah im hatzibur ve'asah im hatzibur, yachol yavi par le'atzmo,' which is precisely what the 'Source Question' prose describes.",
+      "chosen_heading": "Source Question",
+      "current_heading": "Source Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Kal Vachomer",
+      "Yom Kippur Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the logical inference (kal vachomer) comparing the nasi and the anointed priest regarding individual vs. communal sin-offerings, which is precisely what the 'Kal Vachomer' section's prose describes.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Yom Kippur Concern",
+    "candidates": [
+      "Yom Kippur Concern",
+      "Al Chatasoy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly argues that the nasi achieves atonement with the public on Yom Kippur while the anointed priest does not, which is precisely the distinction the prose under 'Yom Kippur Concern' discusses.",
+      "chosen_heading": "Yom Kippur Concern",
+      "current_heading": "Yom Kippur Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Al Chatasoy",
+    "candidates": [
+      "Al Chatasoy",
+      "Both Mufla'im"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong under 'Al Chatasoy': item 1 is the baraita deriving from the pasuk when the kohen gadol brings bifnei atzmo vs. im hatzibur, and item 2 is the Gemara's immediately following analysis of what circumstances define those scenarios \u2014 exactly the content described in the 'Al Chatasoy' prose.",
+      "chosen_heading": "Al Chatasoy",
+      "current_heading": "Al Chatasoy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Both Mufla'im",
+    "candidates": [
+      "Both Mufla'im",
+      "Two Issues",
+      "Rava's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Pappa's ruling that both parties are 'mufla'im' (distinguished scholars), which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Both Mufla'im",
+      "current_heading": "Both Mufla'im",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rava's View",
+    "candidates": [
+      "Two Issues",
+      "Rava's View",
+      "Obvious Separation",
+      "Nuanced Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's geographical hypothesis AND Rava's rejection of it; the prose under candidate 0 ('Two Issues') describes Abaye's supposition about geography being the critical factor, which is where the passage begins, and the full exchange naturally belongs there rather than being split \u2014 however, candidate 1's prose covers Rava's view which is the latter half, making candidate 0 the better fit since it introduces the debate that Rava then resolves within the same textual unit.",
+      "chosen_heading": "Two Issues",
+      "current_heading": "Rava's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Nuanced Case",
+    "candidates": [
+      "Obvious Separation",
+      "Nuanced Case",
+      "Chalev Unity Q",
+      "Radical Teiku",
+      "Previous Perek"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Obvious Separation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the 'obvious cases' (chelev vs. avoda zara) and the first nuanced dilemma (chelev hamichaseh vs. chelev al hadakin), matching candidates 0 and 1 respectively \u2014 but since item 1 is the obvious case and item 2 is the nuanced case, the split should place item 1 under 'Obvious Separation' and items 2-3 together.",
+      "second_heading": "Nuanced Case",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 form the nuanced dilemma chain (two types of chelev, then chelev vs. dam ending in teiku), matching the 'Nuanced Case' prose which discusses the chelev subcategory question and leads into the unresolved cases.",
+      "current_heading": "Nuanced Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Previous Perek",
+    "candidates": [
+      "Chalev Unity Q",
+      "Radical Teiku",
+      "Previous Perek",
+      "Kohen Gadol Apply",
+      "Avoda Zara Partial",
+      "Omission Note"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly analyzes the mishna's requirement that a beit din rule to nullify part and sustain part of a mitzva, deriving it from 'venelam davar' in the previous perek \u2014 exactly what the 'Previous Perek' prose describes.",
+      "chosen_heading": "Previous Perek",
+      "current_heading": "Previous Perek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Omission Note",
+    "candidates": [
+      "Kohen Gadol Apply",
+      "Avoda Zara Partial",
+      "Omission Note",
+      "Tzibur Source",
+      "Kohen Gadol Eq",
+      "Avoda Zara Source",
+      "Rabbi View",
+      "Chachamim View"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Chachamim View",
+    "candidates": [
+      "Tzibur Source",
+      "Kohen Gadol Eq",
+      "Avoda Zara Source",
+      "Rabbi View",
+      "Chachamim View",
+      "Agreement Point",
+      "No Asham",
+      "Vekhiper Pesuk",
+      "Chet Bishgaga",
+      "Pesuk Emphasis",
+      "Exclusion",
+      "Asham Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items together form the Gemara's discussion of why the mishnah omits the anointed priest from the avoda zara clause \u2014 concluding it follows Rabbi's view (masnisin mani Rabbi hi), citing the baraita with Rabbi's and Rabbis' positions, then challenging and resolving whether the omission proves the mishnah follows Rabbi \u2014 which is precisely what the 'Rabbi View' prose describes.",
+      "chosen_heading": "Rabbi View",
+      "current_heading": "Chachamim View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Asham Source",
+    "candidates": [
+      "Agreement Point",
+      "No Asham",
+      "Vekhiper Pesuk",
+      "Chet Bishgaga",
+      "Pesuk Emphasis",
+      "Exclusion",
+      "Asham Source",
+      "Rabbi Exclusion",
+      "Asher Shagag Q",
+      "Entire Sin",
+      "Chachamim: Never"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly presents Rabbi's reasoning from the verse 've-chiper ha-kohen al ha-nefesh ha-shogeges,' deriving that 'ha-nefesh' refers to the kohen gadol/mashiach and 'ha-shogeges' to the nasi, which is precisely what the 'Vekhiper Pesuk' section's prose describes.",
+      "chosen_heading": "Vekhiper Pesuk",
+      "current_heading": "Asham Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138,
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Chachamim: Never",
+    "candidates": [
+      "Rabbi Exclusion",
+      "Asher Shagag Q",
+      "Entire Sin",
+      "Chachamim: Never"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "The entire passage is a continuous discussion of the baraita's agreements about the anointed priest's liability, culminating in the Rabbis' position on asham talui, which candidate 3 describes as the concluding framework \u2014 though items 1-2 about the se'irah fit less precisely, the whole passage flows as one unit and candidate 3's prose explicitly notes 'both agree that asham talui is entirely inapplicable' while also mentioning the se'irah for avoda zara.",
+      "chosen_heading": "Chachamim: Never",
+      "current_heading": "Chachamim: Never",
+      "moved": false
+    }
+  }
+]

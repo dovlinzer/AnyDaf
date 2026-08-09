@@ -1,0 +1,221 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Mishna Overview",
+    "candidates": [
+      "Mishna Overview",
+      "Why Chametz Missing?",
+      "Two Criteria Rule",
+      "Orlah Already Taught"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Mishna Overview",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Mishna text listing the forbidden items discussed under 'Mishna Overview', whose prose explicitly enumerates all these same items.",
+      "second_heading": "Why Chametz Missing?",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the Gemara's opening question about the organizing principle of the mishna's list, which is precisely what 'Why Chametz Missing?' discusses \u2014 the challenge that neither davar shebeminyan nor issurei hana'ah alone explains the list.",
+      "current_heading": "Mishna Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Orlah Already Taught",
+    "candidates": [
+      "Why Chametz Missing?",
+      "Two Criteria Rule",
+      "Orlah Already Taught",
+      "Chametz B'Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's challenge about perekh nuts and Badan pomegranates and the response that they are already taught in tractate Orlah, which is precisely what the 'Orlah Already Taught' section's prose describes.",
+      "chosen_heading": "Orlah Already Taught",
+      "current_heading": "Orlah Already Taught",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Chametz B'Pesach",
+    "candidates": [
+      "Chametz B'Pesach",
+      "What Gets Excluded",
+      "Actual Rules Differ",
+      "Mishna Case",
+      "Rabban Gamliel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses kikarot shel ba'al habayit in the context of chametz bePesach and Rabbi Akiva's position, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Chametz B'Pesach",
+      "current_heading": "Chametz B'Pesach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Rabban Gamliel",
+    "candidates": [
+      "What Gets Excluded",
+      "Actual Rules Differ",
+      "Mishna Case",
+      "Rabban Gamliel",
+      "Rav's Limitation",
+      "Lenient Views",
+      "Practical Halakha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "What Gets Excluded",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's question and answer about what 'harei elu' excludes, which directly matches the 'What Gets Excluded' section's prose about l'me'utei davar shebeminyan and l'me'utei issurei hana'ah.",
+      "second_heading": "Mishna Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishna of an entirely new case \u2014 yayin nesech falling into a cistern \u2014 which matches the 'Mishna Case' section's prose about yayin nesech she-nafal l'bor rendering the entire contents forbidden.",
+      "current_heading": "Rabban Gamliel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Practical Halakha",
+    "candidates": [
+      "Rav's Limitation",
+      "Lenient Views",
+      "Practical Halakha",
+      "Rashi's Method",
+      "Mishna Cases"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lenient Views",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the dispute between Rav (barrel-only leniency) and the multiple Amoraim who extend the leniency even to wine-in-wine, which matches perfectly the 'Lenient Views' prose describing exactly those opinions.",
+      "second_heading": "Practical Halakha",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman's practical halakhic ruling distinguishing yayin nesech from stam yeinam, which matches exactly the 'Practical Halakha' prose describing that operative distinction.",
+      "current_heading": "Practical Halakha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Mishna Cases",
+    "candidates": [
+      "Rashi's Method",
+      "Mishna Cases",
+      "Rava's Clarification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text presenting the graduated cases of stone/wood/earthenware wine presses lined with pitch by a gentile, which is precisely what the 'Mishna Cases' prose describes and analyzes.",
+      "chosen_heading": "Mishna Cases",
+      "current_heading": "Mishna Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Rava's Clarification",
+    "candidates": [
+      "Rava's Clarification",
+      "Rav's Story",
+      "Baraita Details",
+      "Storage vs. Temporary",
+      "Reconciling Views"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rava's Clarification",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rava's clarification about pitched vs. unpitched presses and the narrative of Rav inspecting the winepress, which correspond exactly to headings 0 ('Rava's Clarification') and 1 ('Rav's Story') \u2014 but since items 1-2 are Rava's ruling and item 3 is the Rav story, the split should be after item 2 to place items 1-2 under 'Rava's Clarification' and items 3-5 elsewhere; however the question only allows one split, so items 1-3 (Rava's ruling plus the Rav story) fit under heading 1 'Rav's Story' which explicitly discusses both the three-way distinction and the narrative, while items 4-5 (the baraita about gat/machat/mishpach and the reconciliation with the mishna) belong under heading 2 'Baraita Details'.",
+      "second_heading": "Baraita Details",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 present the baraita about the winepress ladle and funnel and then reconcile it with the mishna about stone presses, matching exactly the 'Baraita Details' section prose.",
+      "current_heading": "Rava's Clarification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Reconciling Views",
+    "candidates": [
+      "Rav's Story",
+      "Baraita Details",
+      "Storage vs. Temporary",
+      "Reconciling Views",
+      "Boiling Water",
+      "Tosafot Discussion",
+      "Rava Shipping"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the contradiction between the baraita (Rebbi permitting scouring for pottery wine-press equipment) and the mishna (pottery being forbidden even after peeling pitch), then gives Rava's resolution that the mishna's stringent clause follows the Rabbis \u2014 exactly what the 'Reconciling Views' prose describes.",
+      "chosen_heading": "Reconciling Views",
+      "current_heading": "Reconciling Views",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Rava Shipping",
+    "candidates": [
+      "Boiling Water",
+      "Tosafot Discussion",
+      "Rava Shipping",
+      "Scouring Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rava sending kegs to Harpanya with double-sealing precautions and his reasoning about long-term storage vessels, which is precisely what the 'Rava Shipping' section's prose discusses.",
+      "chosen_heading": "Rava Shipping",
+      "current_heading": "Rava Shipping",
+      "moved": false
+    }
+  }
+]

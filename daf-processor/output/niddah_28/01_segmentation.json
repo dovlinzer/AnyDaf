@@ -29,8 +29,8 @@
           "timestamp": "01:17"
         }
       ],
-      "sefaria_index": 12,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Burnt Corpse Case: Testing Whether Form is Required for Corpse Status",
@@ -502,5 +502,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "27:56",
+  "amud_b_micro_title": "Language Usage",
+  "shiur_start_daf": 28,
+  "shiur_start_amud": "a"
 }

@@ -159,7 +159,7 @@
           "timestamp": "32:23"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -183,8 +183,8 @@
           "timestamp": "32:23"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Rav's Position According to Rabbi Meir: Roof to Courtyard and Physical Distinctions",
@@ -459,5 +459,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "30:48",
+  "amud_b_micro_title": "Rava on Boats",
+  "shiur_start_daf": 90,
+  "shiur_start_amud": "a"
 }

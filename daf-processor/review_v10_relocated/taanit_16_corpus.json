@@ -1,0 +1,453 @@
+[
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Grooming Restrictions",
+    "candidates": [
+      "Rashi/Tosafot Issues",
+      "Daf 16 Overview",
+      "Fasting Impacts Mikdash",
+      "Three Phases of Fasts",
+      "Wine & Service",
+      "Grooming Restrictions",
+      "Connection to Community",
+      "Eulogies Forbidden",
+      "Before/After Yom Tov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage covers both the wine/drinking rules for mishmar and beit av AND the grooming restrictions, but since item 1 contains both topics together and the 'Wine & Service' prose (index 4) explicitly introduces this as a discussion of mishmar and beit av drinking rules that transitions into the grooming topic, while index 5 ('Grooming Restrictions') covers only the second half, the full mishna text including the wine laws fits better as a single unit beginning under index 4 \u2014 however, since the passage is currently under index 5 and contains both the wine rules AND the grooming rules, and index 5's prose explicitly quotes and discusses the full mishna including grooming restrictions for mishmar and ma'amad, the current placement under 'Grooming Restrictions' is actually the better fit as index 4's prose discusses the wine topic separately and index 5 handles the combined passage.",
+      "chosen_heading": "Wine & Service",
+      "current_heading": "Grooming Restrictions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Before/After Yom Tov",
+    "candidates": [
+      "Connection to Community",
+      "Eulogies Forbidden",
+      "Before/After Yom Tov",
+      "Lesser Holidays",
+      "Thursday Rule",
+      "Fast Sequences",
+      "Yosei: Intermittency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern the Megillat Ta'anit rules about eulogies and fasting prohibitions on days before/after listed dates, which is precisely what candidate 1 ('Eulogies Forbidden') describes, while the current placement under 'Before/After Yom Tov' (index 2) actually contains the prose discussing Rabbi Yosei's dissenting opinion \u2014 meaning the mishna text belongs under index 1 and Rabbi Yosei's elaboration is discussed in index 2's prose.",
+      "chosen_heading": "Eulogies Forbidden",
+      "current_heading": "Before/After Yom Tov",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Yosei: Intermittency",
+    "candidates": [
+      "Lesser Holidays",
+      "Thursday Rule",
+      "Fast Sequences",
+      "Yosei: Intermittency",
+      "Exempt Days",
+      "Gamliel vs. Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the Thursday rule (ein gozrin bechamishi, shelo leafkia shearim) and the sequence of fasts including Rabbi Yosei's position, but its opening and primary focus is the Thursday restriction, which matches heading 1 'Thursday Rule' \u2014 the subsequent sequence details and Rabbi Yosei's view are part of the same mishna passage that belongs together under that heading rather than split across headings 2 and 3.",
+      "chosen_heading": "Thursday Rule",
+      "current_heading": "Yosei: Intermittency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Gamliel vs. Meir",
+    "candidates": [
+      "Exempt Days",
+      "Gamliel vs. Meir",
+      "Special Practices: When?",
+      "Ark/Ashes: Last Seven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the Gamliel/Meir dispute about interrupting vs. completing fasts on exempt days, plus the Tisha B'Av/Friday parallel \u2014 all of which is precisely what the 'Gamliel vs. Meir' prose describes.",
+      "chosen_heading": "Gamliel vs. Meir",
+      "current_heading": "Gamliel vs. Meir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Ark/Ashes: Last Seven",
+    "candidates": [
+      "Special Practices: When?",
+      "Ark/Ashes: Last Seven",
+      "Escalation Logic",
+      "Honor vs. Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's question ('even on the first fasts?') and its resolution via baraita plus Rav Pappa \u2014 the exact content described in candidate 0's prose about whether the full seder applies from the first set of fasts, not the last-seven detail emphasized in candidate 1.",
+      "chosen_heading": "Special Practices: When?",
+      "current_heading": "Ark/Ashes: Last Seven",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Honor vs. Curse",
+    "candidates": [
+      "Escalation Logic",
+      "Honor vs. Curse",
+      "Leaders' Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the principle and prooftexts for bigdulah/klalah ordering, which is exactly what the 'Honor vs. Curse' section's prose describes in detail.",
+      "chosen_heading": "Honor vs. Curse",
+      "current_heading": "Honor vs. Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Leaders' Role",
+    "candidates": [
+      "Leaders' Role",
+      "Self vs. External Shame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why leaders are honored by being first for the ashes \u2014 matching exactly the prose of 'Leaders' Role' which discusses *hai chashivuta lidiidhu* and the same Aramaic phrase.",
+      "chosen_heading": "Leaders' Role",
+      "current_heading": "Leaders' Role",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Self vs. External Shame",
+    "candidates": [
+      "Self vs. External Shame",
+      "Ashes at Tefillin Place",
+      "Public Square: No Reply"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Self vs. External Shame",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the question of why someone else places ashes on the nasi's head, answered by Rabbi Abba's distinction between self-shame and shame from others \u2014 exactly what candidate 0's prose discusses.",
+      "second_heading": "Ashes at Tefillin Place",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses where the ashes are placed (at the tefillin spot) with the Isaiah proof-text, which is precisely what candidate 1's prose discusses.",
+      "current_heading": "Self vs. External Shame",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Public Square: No Reply",
+    "candidates": [
+      "Ashes at Tefillin Place",
+      "Public Square: No Reply",
+      "Resh Lakish: Exile"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mnemonic introduction followed by the question about going to the square and Rabbi \u1e24iyya bar Abba's answer about public disgrace, which directly matches the 'Public Square: No Reply' section's prose discussion of why the community moves to the public square and the declaration of crying out in private without being answered.",
+      "chosen_heading": "Public Square: No Reply",
+      "current_heading": "Public Square: No Reply",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Resh Lakish: Exile",
+    "candidates": [
+      "Resh Lakish: Exile",
+      "Ark Degraded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Reish Lakish's explanation that exile atones and the practical difference between his view and Rabbi Hiyya bar Abba's regarding moving from synagogue to synagogue, which is precisely what the 'Resh Lakish: Exile' prose section addresses.",
+      "chosen_heading": "Resh Lakish: Exile",
+      "current_heading": "Resh Lakish: Exile",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Ark Degraded",
+    "candidates": [
+      "Ark Degraded",
+      "Sackcloth Symbolism",
+      "Divine Empathy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the ark is brought to the public square and Rabbi Yehoshua ben Levi's answer about the ark being a hidden vessel now exposed due to sin \u2014 exactly what the 'Ark Degraded' prose section discusses in detail.",
+      "chosen_heading": "Ark Degraded",
+      "current_heading": "Ark Degraded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Divine Empathy",
+    "candidates": [
+      "Sackcloth Symbolism",
+      "Divine Empathy",
+      "Zeira's Reaction",
+      "Dust vs. Akedah"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Dust vs. Akedah",
+    "candidates": [
+      "Zeira's Reaction",
+      "Dust vs. Akedah",
+      "Akedah Complexity",
+      "Dirt vs. Ashes",
+      "Like the Dead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly why ashes are placed on each person's head, presenting the two opinions of Rabbi Levi bar \u1e24ama and Rabbi \u1e24anina, which matches perfectly with the 'Dust vs. Akedah' section's prose describing these same two opinions and their reasoning.",
+      "chosen_heading": "Dust vs. Akedah",
+      "current_heading": "Dust vs. Akedah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Like the Dead",
+    "candidates": [
+      "Akedah Complexity",
+      "Dirt vs. Ashes",
+      "Like the Dead",
+      "Jewish Cemetery Only",
+      "Who Preaches"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Jewish Cemetery Only",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the dispute about going to the cemetery and its practical difference regarding gentile graves, which matches precisely the prose of 'Jewish Cemetery Only' about kivrei akum.",
+      "second_heading": "Who Preaches",
+      "second_confidence": "low",
+      "second_reason": "Item 2 is a new, self-contained dispute about the etymology of Har HaMoriah that is tangential to the fast-day practices discussed in the essay; 'Who Preaches' is the nearest subsequent heading, though the match is weak \u2014 the passage is likely a transitional digression in the source text.",
+      "current_heading": "Like the Dead",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Who Preaches",
+    "candidates": [
+      "Jewish Cemetery Only",
+      "Who Preaches",
+      "Not Ritual, Action",
+      "Nineveh Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses who delivers the admonition during the fast (elder, sage, or person of imposing appearance) and Abaye's clarification, which is precisely what the 'Who Preaches' section's prose describes.",
+      "chosen_heading": "Who Preaches",
+      "current_heading": "Who Preaches",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Nineveh Evidence",
+    "candidates": [
+      "Not Ritual, Action",
+      "Nineveh Evidence",
+      "Nineveh Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the central thesis (not sackcloth/fasting but repentance and good deeds) AND the Nineveh proof, and candidate 0's prose explicitly discusses both elements together as the drasha's central thesis with the Nineveh example as its support, making it the better home than candidate 1 which only covers the Nineveh proof portion.",
+      "chosen_heading": "Not Ritual, Action",
+      "current_heading": "Nineveh Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Nineveh Model",
+    "candidates": [
+      "Nineveh Evidence",
+      "Nineveh Model",
+      "Mothers & Calves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the separation of animals from their young and the declaration before God, which is precisely what the 'Nineveh Model' prose discusses \u2014 the gemara's reinterpretation of the sackcloth verse through the lens of separating mother animals from their young.",
+      "chosen_heading": "Nineveh Model",
+      "current_heading": "Nineveh Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Mothers & Calves",
+    "candidates": [
+      "Mothers & Calves",
+      "Dead Rodent Parable",
+      "Cast Away Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the people of Nineveh's repentance from Jonah 3:8 \u2014 their cry to God and their return of stolen property \u2014 which is precisely what the 'Mothers & Calves' prose section explicitly discusses, including the Shmuel teaching about tearing down a building to return a stolen beam.",
+      "chosen_heading": "Mothers & Calves",
+      "current_heading": "Mothers & Calves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Cast Away Sin",
+    "candidates": [
+      "Dead Rodent Parable",
+      "Cast Away Sin",
+      "Modern Application",
+      "Interpersonal Wrongs",
+      "Prayer Leader Rules",
+      "Full Qualifications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Dead Rodent Parable \u2014 the sheretz/immersion analogy and its supporting verses \u2014 which the 'Dead Rodent Parable' heading (index 0) explicitly discusses, while the current placement 'Cast Away Sin' (index 1) covers the resolution and aftermath, not the parable's opening statement that Rav Adda bar Ahava is making here.",
+      "chosen_heading": "Dead Rodent Parable",
+      "current_heading": "Cast Away Sin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Full Qualifications",
+    "candidates": [
+      "Modern Application",
+      "Interpersonal Wrongs",
+      "Prayer Leader Rules",
+      "Full Qualifications",
+      "Yitzchak bar Ami",
+      "Clarifications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the baraita on who leads prayer (amdu bitfilla) and the qualifications of the ragil prayer leader, which precisely matches the 'Prayer Leader Rules' section prose describing amdu bitfilla and the definition of ragil \u2014 the current placement under 'Full Qualifications' splits what belongs together under the heading that introduces the entire baraita and its context.",
+      "chosen_heading": "Prayer Leader Rules",
+      "current_heading": "Full Qualifications",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Clarifications",
+    "candidates": [
+      "Yitzchak bar Ami",
+      "Clarifications",
+      "Lion Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the clarifications of 'beito reikam' by Rav \u1e24isda and 'pirko na'eh' by Abaye, which is exactly what the 'Clarifications' section prose describes.",
+      "chosen_heading": "Clarifications",
+      "current_heading": "Clarifications",
+      "moved": false
+    }
+  }
+]

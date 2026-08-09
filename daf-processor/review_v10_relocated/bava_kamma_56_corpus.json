@@ -1,0 +1,359 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Fence Case",
+    "candidates": [
+      "Opening Framework",
+      "Fence Case",
+      "Hiring Witnesses",
+      "Tosafot: Hire vs. Ask",
+      "Grama & Responsibility",
+      "Chayav Shamayim",
+      "Not Testifying",
+      "Pasuk Analysis",
+      "Tosafot Limits",
+      "Rambam View",
+      "One vs. Two",
+      "Fence Case",
+      "Fire Obstacle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Hiring Witnesses",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 analyze the hasocher edei sheker case and the case of one who knows testimony but doesn't testify, both of which are explicitly discussed in the 'Hiring Witnesses' prose (index 2).",
+      "second_heading": "Fence Case",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 are the gemara's 'v'ika' enumeration of additional patur b'dinei adam v'chayav b'dinei shamayim cases (mei chatat, poison, fire with incompetent agent, frightening), all explicitly listed in the 'Fence Case' prose (index 1).",
+      "current_heading": "Fence Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Fire Obstacle",
+    "candidates": [
+      "Hiring Witnesses",
+      "Tosafot: Hire vs. Ask",
+      "Grama & Responsibility",
+      "Chayav Shamayim",
+      "Not Testifying",
+      "Pasuk Analysis",
+      "Tosafot Limits",
+      "Rambam View",
+      "One vs. Two",
+      "Fence Case",
+      "Fire Obstacle",
+      "Tamun/Blanket",
+      "Good Samaritan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage covers exactly what the 'Fire Obstacle' prose describes: the gemara raising additional cases (broken jug, fallen camel) that seem to belong on the baraita's list, followed by the gemara's answer that these cases were specifically enumerated because each required a distinct chiddush \u2014 that even dinei shamayim liability applies \u2014 and then the explanations for each listed case (fence, bent grain, tamun, false witnesses, not testifying).",
+      "chosen_heading": "Fire Obstacle",
+      "current_heading": "Fire Obstacle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Good Samaritan",
+    "candidates": [
+      "Tamun/Blanket",
+      "Good Samaritan",
+      "False Witnesses Redux",
+      "No Testimony Redux",
+      "Parah Adumah",
+      "Poison Case",
+      "Fire via Intermediary",
+      "Scaring",
+      "Pitcher & Camel",
+      "Why Chiddush?",
+      "Weak Fence",
+      "Fire/Wind",
+      "Coverage Intent",
+      "Witnesses Redux",
+      "Passive Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 14,
+      "confidence": "high",
+      "reason": "The passage discusses Rabba's ruling about a pen breached at night (where the animal tunneled under the wall), which directly corresponds to the 'Passive Liability' section's closing discussion about the shift to the *chiyuv shmira* framework and whether the owner discharged their obligation to guard \u2014 the mishna about a breached pen is the textual basis for that analysis.",
+      "chosen_heading": "Passive Liability",
+      "current_heading": "Good Samaritan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Passive Liability",
+    "candidates": [
+      "False Witnesses Redux",
+      "No Testimony Redux",
+      "Parah Adumah",
+      "Poison Case",
+      "Fire via Intermediary",
+      "Scaring",
+      "Pitcher & Camel",
+      "Why Chiddush?",
+      "Weak Fence",
+      "Fire/Wind",
+      "Coverage Intent",
+      "Witnesses Redux",
+      "Passive Liability",
+      "Night/Bandit",
+      "Rava/Tunnel",
+      "Techilato/Sofo",
+      "Wall Strength",
+      "Negligence Scope",
+      "Sun Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 15,
+      "confidence": "high",
+      "reason": "Both items directly discuss the doctrine of *techilato b'peshiya sofo b'ones* \u2014 questioning what happens when the animal did not tunnel (with a stable vs. unstable wall) and then explicitly raising the dispute between those who hold this doctrine exempts versus those who hold it obligates \u2014 which is precisely what the 'Techilato/Sofo' prose section describes.",
+      "chosen_heading": "Techilato/Sofo",
+      "current_heading": "Passive Liability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Sun Case",
+    "candidates": [
+      "Night/Bandit",
+      "Rava/Tunnel",
+      "Techilato/Sofo",
+      "Wall Strength",
+      "Negligence Scope",
+      "Sun Case",
+      "Thieves Liable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items concern Rabba's ruling about the sun case \u2014 clarifying that his statement applies to the latter clause of the mishna (leaving animal in sun), and explaining why even tunneling counts as peshiya because the owner should have known the animal would use any means to escape \u2014 which is precisely what the 'Sun Case' prose discusses.",
+      "chosen_heading": "Sun Case",
+      "current_heading": "Sun Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Thieves Liable",
+    "candidates": [
+      "Thieves Liable",
+      "Cow/Grain Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match heading 0's prose, which explicitly discusses the 'hotziuha listim' ruling and the 'peshita' question about obviousness, exactly the content of items 1 and 2.",
+      "chosen_heading": "Thieves Liable",
+      "current_heading": "Thieves Liable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Cow/Grain Case",
+    "candidates": [
+      "Cow/Grain Case",
+      "Abaye Kinyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabba/Rav Mattana/Rav ruling about standing an animal near grain and the concept of 'dekama lei b'appa' (standing before the animal), which is precisely what the 'Cow/Grain Case' prose describes.",
+      "chosen_heading": "Cow/Grain Case",
+      "current_heading": "Cow/Grain Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Abaye Kinyan",
+    "candidates": [
+      "Abaye Kinyan",
+      "Rav Control",
+      "Tosafot Ownership",
+      "Mishna Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows Abaye telling Rav Yosef that both the original ruling and the mishna's case of bandits involve hitting the animal with a stick, which directly matches the 'Abaye Kinyan' prose describing Abaye's clarification that driving an animal with a stick constitutes a sufficient act of meshicha for liability purposes.",
+      "chosen_heading": "Abaye Kinyan",
+      "current_heading": "Abaye Kinyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Mishna Interpretation",
+    "candidates": [
+      "Rav Control",
+      "Tosafot Ownership",
+      "Mishna Interpretation",
+      "First Guardian"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly examines the mishna's phrase 'masra lero'eh, nichnas haro'eh tachtav' and asks 'tachtav d'man,' which is precisely what the 'Mishna Interpretation' prose describes.",
+      "chosen_heading": "Mishna Interpretation",
+      "current_heading": "Mishna Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "First Guardian",
+    "candidates": [
+      "First Guardian",
+      "Rava Liability",
+      "Apprentice Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks whether the first shomer is completely exempt and whether this refutes Rava, which matches the prose of heading 0 that describes this exact reading and notes it may be in tension with Rava's ruling.",
+      "chosen_heading": "First Guardian",
+      "current_heading": "First Guardian",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Apprentice Exception",
+    "candidates": [
+      "Rava Liability",
+      "Apprentice Exception",
+      "Two Explanations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's response that 'masra lero'eh' means handing to the shepherd's assistant (varzilei), which is precisely what the 'Apprentice Exception' section's prose describes.",
+      "chosen_heading": "Apprentice Exception",
+      "current_heading": "Apprentice Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Two Explanations",
+    "candidates": [
+      "Two Explanations",
+      "Lost Item Intro",
+      "Rabba Chinam",
+      "Rav Yosef Sachar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue the 'ika d'amri' reasoning about the mishna's use of 'shepherd' versus 'another,' followed by the Gemara's attempt to derive support for Rava's opinion and its rejection \u2014 all of which is explicitly described in the 'Two Explanations' prose.",
+      "chosen_heading": "Two Explanations",
+      "current_heading": "Two Explanations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Rav Yosef Sachar",
+    "candidates": [
+      "Lost Item Intro",
+      "Rabba Chinam",
+      "Rav Yosef Sachar",
+      "Osek Mitzvah",
+      "Tosafot Limit",
+      "Closing Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the core dispute between Rabba and Rav Yosef \u2014 the statement of the disagreement and the reasoning for each position \u2014 which is precisely what the 'Lost Item Intro' prose sets up as the question to be resolved, making it the natural home for the full unit before the individual positions are elaborated separately in headings 1 and 2.",
+      "chosen_heading": "Lost Item Intro",
+      "current_heading": "Rav Yosef Sachar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Closing Reasons",
+    "candidates": [
+      "Osek Mitzvah",
+      "Tosafot Limit",
+      "Closing Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the alternate formulation of Rav Yosef's reasoning \u2014 that since the Torah obligates him against his will he is like a paid bailee \u2014 which is precisely what the 'Closing Reasons' prose discusses and explains.",
+      "chosen_heading": "Closing Reasons",
+      "current_heading": "Closing Reasons",
+      "moved": false
+    }
+  }
+]

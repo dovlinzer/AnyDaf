@@ -1,0 +1,315 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Mishna: Keepers",
+    "candidates": [
+      "Perek Structure",
+      "Mishna: Keepers",
+      "R. Meir vs. R. Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the opening Mishna of the perek listing found objects one may keep, which is precisely what the 'Mishna: Keepers' prose discusses in detail \u2014 the scattered produce, coins, baker's loaves, wool fleeces, etc. and Rabbi Meir's ruling.",
+      "chosen_heading": "Mishna: Keepers",
+      "current_heading": "Mishna: Keepers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "R. Meir vs. R. Yehuda",
+    "candidates": [
+      "R. Meir vs. R. Yehuda",
+      "R. Shimon: Anporya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehuda's teaching about items with distinguishing alterations (shinui), with the exact examples of igul/cheres and kikkar/ma'ot, which is precisely what the prose of heading 0 discusses.",
+      "chosen_heading": "R. Meir vs. R. Yehuda",
+      "current_heading": "R. Meir vs. R. Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "R. Shimon: Anporya",
+    "candidates": [
+      "R. Shimon: Anporya",
+      "Quantity: Kav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Shimon ben Elazar's statement about anporya vessels not requiring proclamation, which matches exactly the prose under heading 0 discussing klei anporya and the announcement requirement.",
+      "chosen_heading": "R. Shimon: Anporya",
+      "current_heading": "R. Shimon: Anporya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Quantity: Kav",
+    "candidates": [
+      "Quantity: Kav",
+      "Quantity vs. Quality",
+      "Rav Ukva's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains only Rabbi Yitzchak's statement establishing the kav/four cubits measure, which is precisely what section 0 discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Quantity: Kav",
+      "current_heading": "Quantity: Kav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Rav Ukva's Explanation",
+    "candidates": [
+      "Quantity vs. Quality",
+      "Rav Ukva's Explanation",
+      "Variations & Effort"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Quantity vs. Quality",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge (heichi dami / derech nefila vs. derech hinuach) which is exactly what candidate 0's prose describes as the quantitative ratio being undermined by qualitative visual assessment.",
+      "second_heading": "Rav Ukva's Explanation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Ukva bar Chama's resolution identifying the threshing-floor scenario, which is precisely what candidate 1's prose discusses in detail.",
+      "current_heading": "Rav Ukva's Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Variations & Effort",
+    "candidates": [
+      "Variations & Effort",
+      "Definition",
+      "Abaye: Conscious",
+      "Rava: Inevitable",
+      "Agreement Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are Rabbi Yirmeyah's series of dilemmas probing whether effort (tarchia) or value (chashivut) drives owner renunciation, which is exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Variations & Effort",
+      "current_heading": "Variations & Effort",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Agreement Cases",
+    "candidates": [
+      "Definition",
+      "Abaye: Conscious",
+      "Rava: Inevitable",
+      "Agreement Cases",
+      "Dispute: No Siman",
+      "Scattered Fruit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together constitute the complete statement of the Abaye-Rava dispute and its scope (items 1-2), the agreed cases (items 3-4), and the isolated dispute case (item 5) \u2014 exactly what heading 0 'Definition' describes as the Gemara's introduction of the central conceptual debate of yeiush shelo mida'at, covering all its parameters before the detailed analysis under the subsequent headings.",
+      "chosen_heading": "Definition",
+      "current_heading": "Agreement Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Scattered Fruit",
+    "candidates": [
+      "Dispute: No Siman",
+      "Scattered Fruit",
+      "Scattered Money"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dispute: No Siman",
+      "first_confidence": "high",
+      "first_reason": "The mnemonic (item 1) introduces the series of proofs for and against Abaye and Rava's dispute, belonging under 'Dispute: No Siman' which describes that very debate.",
+      "second_heading": "Scattered Fruit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the scattered-fruit proof attempt and its deflection via Rav Ukva bar \u1e24ama, which is precisely what the 'Scattered Fruit' prose describes.",
+      "current_heading": "Scattered Fruit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Scattered Money",
+    "candidates": [
+      "Scattered Money",
+      "Weighty Items",
+      "Valuable Strips",
+      "Money in Shul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses scattered coins (maos mefuzarim) and the application of Rabbi Yitzchak's principle to that case, which is precisely what the 'Scattered Money' section's prose describes.",
+      "chosen_heading": "Scattered Money",
+      "current_heading": "Scattered Money",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Money in Shul",
+    "candidates": [
+      "Weighty Items",
+      "Valuable Strips",
+      "Money in Shul",
+      "Leket Permission"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Weighty Items",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 match candidates 0 and 1 respectively \u2014 item 1 is the heavy-items (igulei dveilah/kikarot) case discussed under 'Weighty Items', and item 2 is the purple strips (leshonot shel argaman) case discussed under 'Valuable Strips', but since they must go together under one heading and the essay has split them into separate sections, items 1-2 together fit best under candidate 0 ('Weighty Items') as the starting point of this chain.",
+      "second_heading": "Money in Shul",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita about coins found in synagogues and study halls, which is precisely what candidate 2 ('Money in Shul') discusses, including Rabbi Yitzchak's statement about checking one's money pouch.",
+      "current_heading": "Money in Shul",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Leket Permission",
+    "candidates": [
+      "Leket Permission",
+      "Multi-Town Problem",
+      "Preemptive Yeiush",
+      "Braita Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Leket Permission",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the leket/nemushot proof and the dispute between Rabbi Yochanan and Reish Lakish, which matches exactly the 'Leket Permission' prose.",
+      "second_heading": "Multi-Town Problem",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the multi-town objection about non-local poor who haven't despaired, which matches the 'Multi-Town Problem' prose discussing why unawareness of poor in other towns might prevent the field from becoming permissible.",
+      "current_heading": "Leket Permission",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Braita Rule",
+    "candidates": [
+      "Multi-Town Problem",
+      "Preemptive Yeiush",
+      "Braita Rule",
+      "Abaye: Known Fall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the braita about dried figs on the road and the fig tree overhanging the path, which is precisely what the 'Braita Rule' prose section introduces and discusses.",
+      "chosen_heading": "Braita Rule",
+      "current_heading": "Braita Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Abaye: Known Fall",
+    "candidates": [
+      "Abaye: Known Fall",
+      "Rava's Difficulty",
+      "R. Abahu: Identifiable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses how the first clause of the mishna is not difficult for Abaye because figs are significant (so owners feel for them) and fig trees are known to drop fruit (conscious despair), which directly matches the 'Abaye: Known Fall' section's prose about yeiush mida'at for figs.",
+      "chosen_heading": "Abaye: Known Fall",
+      "current_heading": "Abaye: Known Fall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "R. Abahu: Identifiable",
+    "candidates": [
+      "Rava's Difficulty",
+      "R. Abahu: Identifiable",
+      "R. Papa: Disgust"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the statement of Rava's difficulty with the seifa (olives/carobs) and Rabbi Abahu's resolution that olives are different because their appearance identifies their origin, which matches exactly the content described in candidate 1's prose.",
+      "chosen_heading": "R. Abahu: Identifiable",
+      "current_heading": "R. Abahu: Identifiable",
+      "moved": false
+    }
+  }
+]

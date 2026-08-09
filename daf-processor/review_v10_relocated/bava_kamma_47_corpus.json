@@ -1,0 +1,307 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Abaye's Half Damages",
+    "candidates": [
+      "Safek Pregnancy Intro",
+      "Abaye's Half Damages",
+      "Rava's Challenge",
+      "Same Owner Sequential",
+      "Fetus Presence Doubt",
+      "Full Fetus Payment",
+      "Fetus Body Unity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's challenge to Abaye \u2014 pointing out that the mishnah says 'half and quarter,' not 'quarter and eighth' \u2014 which is precisely what candidate 2 ('Rava's Challenge') describes in its prose.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Abaye's Half Damages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Fetus Body Unity",
+    "candidates": [
+      "Rava's Challenge",
+      "Same Owner Sequential",
+      "Fetus Presence Doubt",
+      "Full Fetus Payment",
+      "Fetus Body Unity",
+      "Chicken Egg Contrast",
+      "Valuation Method"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Fetus Presence Doubt",
+      "first_confidence": "high",
+      "first_reason": "Item 1 explains the reason for the quarter-payment as uncertainty about fetal presence during goring, and concludes that if presence were certain, full half-damages could be collected from the offspring \u2014 exactly what candidate 2 ('Fetus Presence Doubt') describes.",
+      "second_heading": "Full Fetus Payment",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rava's general principle that a cow's offspring can serve as the collection source for damages caused while it was a fetus (gufah hi logic), which matches candidate 3 ('Full Fetus Payment') that ties this ruling back to Rava's own stated principle about collecting from offspring.",
+      "current_heading": "Fetus Body Unity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Valuation Method",
+    "candidates": [
+      "Chicken Egg Contrast",
+      "Valuation Method",
+      "Parallel Damage Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rava's ruling about assessing the offspring together with the cow rather than separately, which is precisely what the 'Valuation Method' prose discusses in detail.",
+      "chosen_heading": "Valuation Method",
+      "current_heading": "Valuation Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Parallel Damage Cases",
+    "candidates": [
+      "Parallel Damage Cases",
+      "Unified Object Principle",
+      "Valuing Cow and Fetus"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Parallel Damage Cases",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the parallel damage cases (slave's hand, damaged field) and the challenge of why the mazik should be weakened, which matches the 'Parallel Damage Cases' prose about assessing whole objects rather than components.",
+      "second_heading": "Unified Object Principle",
+      "second_confidence": "high",
+      "second_reason": "Item 3 gives Rav Ashi's answer \u2014 'I damaged a pregnant cow, assess a pregnant cow' \u2014 which is precisely the content described in the 'Unified Object Principle' prose quoting that exact Aramaic phrase and explaining its meaning.",
+      "current_heading": "Parallel Damage Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Valuing Cow and Fetus",
+    "candidates": [
+      "Unified Object Principle",
+      "Valuing Cow and Fetus",
+      "Fatness Analysis",
+      "Bulk Appearance",
+      "Bulk to Cow",
+      "Split Bulk Value",
+      "Halacha Split",
+      "Pots Without Permission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage discusses the dispute between Rav Pappa and Rav Acha brei deRav Ika over nafcha (bulk) and concludes with 'vehilchata cholkin,' which matches exactly the 'Halacha Split' section's prose about the final ruling that bulk-value is split.",
+      "chosen_heading": "Halacha Split",
+      "current_heading": "Valuing Cow and Fetus",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Pots Without Permission",
+    "candidates": [
+      "Fatness Analysis",
+      "Bulk Appearance",
+      "Bulk to Cow",
+      "Split Bulk Value",
+      "Halacha Split",
+      "Pots Without Permission",
+      "Animal Injury Liability",
+      "Liability Presumption",
+      "Host Liability Puzzle",
+      "Fruit Without Permission",
+      "Host Liable Shen",
+      "Ox Without Permission",
+      "Well Contamination",
+      "Kofer Question",
+      "Host Liable Keren",
+      "Rabbi Disagrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All four items together constitute the full Mishnah of 'the potter who brought his pots into the homeowner's courtyard,' which is precisely what heading 5 ('Pots Without Permission') introduces and discusses.",
+      "chosen_heading": "Pots Without Permission",
+      "current_heading": "Pots Without Permission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rabbi Disagrees",
+    "candidates": [
+      "Animal Injury Liability",
+      "Liability Presumption",
+      "Host Liability Puzzle",
+      "Fruit Without Permission",
+      "Host Liable Shen",
+      "Ox Without Permission",
+      "Well Contamination",
+      "Kofer Question",
+      "Host Liable Keren",
+      "Rabbi Disagrees",
+      "Permission Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi's statement that the homeowner is not liable unless he explicitly accepts responsibility to safeguard, which is precisely what the 'Rabbi Disagrees' section's prose discusses.",
+      "chosen_heading": "Rabbi Disagrees",
+      "current_heading": "Rabbi Disagrees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Permission Reversal",
+    "candidates": [
+      "Permission Reversal",
+      "Host-Guest Asymmetry",
+      "Accident vs. Eating",
+      "Active Participation",
+      "Sheshet Challenge",
+      "Self-Inflicted Damage",
+      "No Permission Entry",
+      "Injury Liability Same"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the gemara's analysis of the mishna's permission/no-permission structure, Rabbi vs. Rabbanan's positions on implicit acceptance of responsibility, and Rava's resolution \u2014 exactly what the 'Permission Reversal' prose describes in detail.",
+      "chosen_heading": "Permission Reversal",
+      "current_heading": "Permission Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Injury Liability Same",
+    "candidates": [
+      "Host-Guest Asymmetry",
+      "Accident vs. Eating",
+      "Active Participation",
+      "Sheshet Challenge",
+      "Self-Inflicted Damage",
+      "No Permission Entry",
+      "Injury Liability Same",
+      "Rava Clarifies",
+      "General Responsibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 10 items form a continuous Talmudic discussion about Rav's distinction between an animal slipping on produce (liable) versus eating it (exempt), including Rav Sheshet's challenge, the baraita about poison, the woman grinding wheat case, and the ox-in-courtyard case \u2014 all of which directly elaborate the 'accident vs. eating' distinction that heading 1 describes.",
+      "chosen_heading": "Accident vs. Eating",
+      "current_heading": "Injury Liability Same",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "General Responsibility",
+    "candidates": [
+      "Rava Clarifies",
+      "General Responsibility",
+      "Third-Party Question",
+      "Third-Party Ox Case",
+      "Borrowed Domain"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Third-Party Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the dilemma about whether the homeowner's acceptance of responsibility extends to third-party damage, which is precisely what 'Third-Party Question' (candidate 2) describes.",
+      "second_heading": "Third-Party Ox Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the concrete baraita of Rav Yehuda bar Simon about fruit brought with/without permission eaten by an ox from elsewhere, which matches 'Third-Party Ox Case' (candidate 3) and 'Borrowed Domain' (candidate 4) \u2014 candidate 3 introduces the concrete scenario and candidate 4 explicitly describes this baraita, making candidate 4 the better match for item 2.",
+      "current_heading": "General Responsibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "current_heading": "Borrowed Domain",
+    "candidates": [
+      "Third-Party Question",
+      "Third-Party Ox Case",
+      "Borrowed Domain",
+      "Third Party Liable",
+      "No Permission Exempt",
+      "Host Reimbursement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "All six items form one continuous dialectical chain debating the same baraita(s) about permission and liability for third-party damage, with the fruit/shen scenario in items 1-4 and the goring scenario in items 5-6 both being part of the same ongoing attempt to resolve who bears liability \u2014 matching the 'Borrowed Domain' prose which describes exactly this structure of patur/chayav debate between homeowner and ox owner.",
+      "chosen_heading": "Borrowed Domain",
+      "current_heading": "Borrowed Domain",
+      "moved": false
+    }
+  }
+]

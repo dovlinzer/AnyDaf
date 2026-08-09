@@ -1,0 +1,281 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Mishnah: Two Cases",
+    "candidates": [
+      "Welcome & Overview",
+      "Scope & Framework",
+      "Mishnah: Two Cases",
+      "Lemafrea vs. Mikan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishna presenting the two cases of gentile-lends-to-Jew and Jew-lends-to-gentile with chametz collateral, which is precisely what the 'Mishnah: Two Cases' section's prose describes and analyzes.",
+      "chosen_heading": "Mishnah: Two Cases",
+      "current_heading": "Mishnah: Two Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Lemafrea vs. Mikan",
+    "candidates": [
+      "Lemafrea vs. Mikan",
+      "Scope of Dispute",
+      "Svara: Both Sides"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together define the scope of the Abaye-Rava dispute \u2014 where everyone agrees (borrower sold/consecrated) vs. where they disagree (lender sold/consecrated) \u2014 which is precisely what the 'Scope of Dispute' prose describes.",
+      "chosen_heading": "Scope of Dispute",
+      "current_heading": "Lemafrea vs. Mikan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Svara: Both Sides",
+    "candidates": [
+      "Scope of Dispute",
+      "Svara: Both Sides",
+      "The Sale Setup",
+      "Creditor Arrives",
+      "Rava's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the exact svara (internal reasoning) of Abaye and Rava regarding retroactive vs. prospective acquisition, which is precisely what the 'Svara: Both Sides' section's prose describes and analyzes.",
+      "chosen_heading": "Svara: Both Sides",
+      "current_heading": "Svara: Both Sides",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Rava's Solution",
+    "candidates": [
+      "The Sale Setup",
+      "Creditor Arrives",
+      "Rava's Solution",
+      "Challenge to Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the full Rami bar \u1e24ama case \u2014 the sale setup, the creditor seizing the field, and Rava's clever solution \u2014 which is precisely what heading 0 ('The Sale Setup') introduces as 'a challenge from a case cited by Rami bar Chama,' making it the correct home for the entire passage rather than heading 2 which discusses Rava's solution in isolation.",
+      "chosen_heading": "The Sale Setup",
+      "current_heading": "Rava's Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Challenge to Rava",
+    "candidates": [
+      "Rava's Solution",
+      "Challenge to Rava",
+      "Stipulation resolves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge to Rava contrasting 'lemafrea' vs 'mikan ulehaba' acquisition and why the heirs' receipt of land would be like orphans purchasing property \u2014 exactly what the 'Challenge to Rava' prose describes.",
+      "chosen_heading": "Challenge to Rava",
+      "current_heading": "Challenge to Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Stipulation resolves",
+    "candidates": [
+      "Stipulation resolves",
+      "Problem for Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's resolution using the 'shani hatam' formula and Rabbi Natan's baraita, which is precisely what the prose under 'Stipulation resolves' describes in detail.",
+      "chosen_heading": "Stipulation resolves",
+      "current_heading": "Stipulation resolves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Problem for Rava",
+    "candidates": [
+      "Problem for Rava",
+      "Okimta: Deposit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the mishna's ruling and begins the Gemara's analysis with 'ei amart bishlama lemafrea hu goveh' \u2014 exactly the challenge to Rava that the 'Problem for Rava' prose describes, before the okimta resolution discussed under 'Okimta: Deposit'.",
+      "chosen_heading": "Problem for Rava",
+      "current_heading": "Problem for Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Okimta: Deposit",
+    "candidates": [
+      "Okimta: Deposit",
+      "Braita: Jew\u2192Nokhri",
+      "Explain via A/R?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge to the 'mikan ulehaba' position and resolves it with the okimta of deposit (hirhin), which is precisely what the prose under 'Okimta: Deposit' discusses.",
+      "chosen_heading": "Okimta: Deposit",
+      "current_heading": "Okimta: Deposit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Explain via A/R?",
+    "candidates": [
+      "Braita: Jew\u2192Nokhri",
+      "Explain via A/R?",
+      "Braita: Nokhri\u2192Jew"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the actual citation of the braita about a Jew lending to a nochri with chametz as collateral and the tannaitic dispute, which is precisely what heading 0 ('Braita: Jew\u2192Nokhri') describes in its prose, while the current placement (heading 1) discusses the interpretive question of mapping this braita onto Abaye/Rava \u2014 a step that comes after the braita is introduced.",
+      "chosen_heading": "Braita: Jew\u2192Nokhri",
+      "current_heading": "Explain via A/R?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Braita: Nokhri\u2192Jew",
+    "candidates": [
+      "Explain via A/R?",
+      "Braita: Nokhri\u2192Jew",
+      "Biblical Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection ('vetisbra? eima seifa') of the proposed Abaye/Rava mapping, which belongs under the 'Explain via A/R?' heading that explicitly introduces this challenge, rather than under 'Braita: Nokhri\u2192Jew' which discusses the resolution after the problem is raised.",
+      "chosen_heading": "Explain via A/R?",
+      "current_heading": "Braita: Nokhri\u2192Jew",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Biblical Derivation",
+    "candidates": [
+      "Biblical Derivation",
+      "T.K.: Jew-Jew only",
+      "R. Meir: Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yitz\u1e25ak's derivation that a creditor acquires collateral from the 'tzedakah' verse in Deuteronomy, which is precisely what the 'Biblical Derivation' section's prose discusses.",
+      "chosen_heading": "Biblical Derivation",
+      "current_heading": "Biblical Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "R. Meir: Kal Vachomer",
+    "candidates": [
+      "T.K.: Jew-Jew only",
+      "R. Meir: Kal Vachomer",
+      "Nokhri never acquires",
+      "Okimta: Stipulation",
+      "Braita: Deposit",
+      "Inference: Words matter",
+      "Jewish store",
+      "Non-Jewish store"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "T.K.: Jew-Jew only",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Tanna Kamma's limitation and Rabbi Meir's kal vachomer disagreement \u2014 both discussing who acquires collateral in Jew-nochri loans \u2014 which maps directly to headings 0 and 1, but since item 1 opens with the Tanna Kamma's view and item 2 with Rabbi Meir's, they form the T.K./R.Meir dispute pair best placed starting at heading 0.",
+      "second_heading": "Okimta: Stipulation",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the okimta resolving the mishna (me'achshav stipulation) and the supporting baraita about deposit, which precisely match heading 3 ('Okimta: Stipulation') and heading 4 ('Braita: Deposit').",
+      "current_heading": "R. Meir: Kal Vachomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Non-Jewish store",
+    "candidates": [
+      "Nokhri never acquires",
+      "Okimta: Stipulation",
+      "Braita: Deposit",
+      "Inference: Words matter",
+      "Jewish store",
+      "Non-Jewish store"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains both the Jewish-store clause and the gentile-store clause as a single Tosefta/baraita, and the prose under heading 4 ('Jewish store') explicitly introduces this braita covering both cases, making it the correct home for the entire quoted text rather than splitting it under the 'Non-Jewish store' heading.",
+      "chosen_heading": "Jewish store",
+      "current_heading": "Non-Jewish store",
+      "moved": true
+    }
+  }
+]

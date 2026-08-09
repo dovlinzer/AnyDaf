@@ -1,0 +1,242 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Kohen Gadol & Nasi",
+    "candidates": [
+      "Overview",
+      "Mishna: Par Criteria",
+      "Kohen Gadol & Nasi",
+      "Avodah Zarah Karet",
+      "Arayot Deriv.",
+      "Nasi Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "medium",
+      "reason": "The passage covers the full chain of Gemara derivations \u2014 from Rabbi's gezeirah shavah through the mashiach, nasi, and yachid proofs \u2014 which is precisely what candidate 5's prose describes, including the reciprocal connection that closes the circle with the yachid's chatas.",
+      "chosen_heading": "Nasi Mitzvot",
+      "current_heading": "Kohen Gadol & Nasi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Nasi Mitzvot",
+    "candidates": [
+      "Avodah Zarah Karet",
+      "Arayot Deriv.",
+      "Nasi Mitzvot",
+      "Yachid Chatas",
+      "AZ Yachid Se'ir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items present the me'einei\u2013me'einei gezeirah shavah linking the avodah zarah parsha (Numbers 15) to the Beit Din HaGadol's standard korban (Leviticus 4), establishing that the tzibbur's avodah zarah korban applies only to karet-level sins \u2014 exactly what candidate 4 ('AZ Yachid Se'ir') describes in its prose.",
+      "chosen_heading": "AZ Yachid Se'ir",
+      "current_heading": "Nasi Mitzvot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "AZ Yachid Se'ir",
+    "candidates": [
+      "Yachid Chatas",
+      "AZ Yachid Se'ir",
+      "Torah Achas",
+      "Rav Hilkiya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the nefesh achas grouping, the Rabbanan's challenge about aleha, Rabbi Yehoshua ben Levi's torah achas answer, and the tzibur learning from the lower verse \u2014 are explicitly described in the 'AZ Yachid Se'ir' prose, which is the current placement.",
+      "chosen_heading": "AZ Yachid Se'ir",
+      "current_heading": "AZ Yachid Se'ir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Rav Hilkiya",
+    "candidates": [
+      "Torah Achas",
+      "Rav Hilkiya",
+      "AZ Korbanot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: item 1 introduces the baraita about torah achas distinguishing individuals from multitudes in avodah zarah korbanot, items 2-3 are Rav Hilkiya's objection and the exhaustion of possible distinct korbanot, and item 4 is the resolution \u2014 exactly the content described in the 'Rav Hilkiya' prose section.",
+      "chosen_heading": "Rav Hilkiya",
+      "current_heading": "Rav Hilkiya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "AZ Korbanot",
+    "candidates": [
+      "AZ Korbanot",
+      "Mikdash Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the three independent derivations proving that the verses are written in the context of avodah zarah, which is precisely what the 'AZ Korbanot' prose describes in detail.",
+      "chosen_heading": "AZ Korbanot",
+      "current_heading": "AZ Korbanot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Mikdash Rules",
+    "candidates": [
+      "Mikdash Rules",
+      "No AT Mikdash",
+      "Niddah Example",
+      "Ve'Ashem Link",
+      "OV Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Niddah Example",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna covering both the Mikdash exclusion and the Niddah contrast, which the 'Niddah Example' prose explicitly discusses as a unit (including the positive/negative commandments and asham taluy for niddah).",
+      "second_heading": "Ve'Ashem Link",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the opening Gemara question ('from where are these matters derived') that launches the v'ashem gezerah shavah derivation, which is precisely what the 'Ve'Ashem Link' prose describes.",
+      "current_heading": "Mikdash Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "OV Challenge",
+    "candidates": [
+      "No AT Mikdash",
+      "Niddah Example",
+      "Ve'Ashem Link",
+      "OV Challenge",
+      "Double Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items present Rav Yitz\u1e25ak bar Avdimi's gezerah shavah on v'ashem/v'ashemu linking individual chatas, asham taluy, and tzibbur korban to chatas kevuah \u2014 exactly the content described in the 'Ve'Ashem Link' prose \u2014 while the current placement under 'OV Challenge' covers the subsequent Gemara objection about oleh v'yored using the same term.",
+      "chosen_heading": "Ve'Ashem Link",
+      "current_heading": "OV Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Double Link",
+    "candidates": [
+      "OV Challenge",
+      "Double Link",
+      "Nasi Excluded",
+      "R. Akiva Pos.",
+      "Court Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly continue the 'Double Link' discussion: Item 1 is Rav Pappa's double-link proposal and Rav Shimi bar Ashi's challenge to it, and Item 2 is Rav Na\u1e25man bar Yitz\u1e25ak's refinement/resolution \u2014 all part of the same continuous chain described in the 'Double Link' prose.",
+      "chosen_heading": "Double Link",
+      "current_heading": "Double Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Court Testimony",
+    "candidates": [
+      "Nasi Excluded",
+      "R. Akiva Pos.",
+      "Court Testimony",
+      "Wealth Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishna about the nasi's exemptions, Ulla's derivation from 'one of these,' and the Gemara's challenge to that derivation \u2014 are precisely what candidate 2's prose describes, making the current placement correct.",
+      "chosen_heading": "Court Testimony",
+      "current_heading": "Court Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Wealth Criteria",
+    "candidates": [
+      "Wealth Criteria",
+      "Always Wealthy",
+      "Nasi Elohav",
+      "KG Gadol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the baraita establishing Rabbi Yirmeya's reasoning for Rabbi Yosei HaGelili's position \u2014 that oleh v'yored applies only to one who can experience both poverty and wealth \u2014 which matches candidate 0's prose about establishing the tanna's actual reasoning via the im lo tasig yado framework and mi sheba lidei aniyut v'ashirut.",
+      "chosen_heading": "Wealth Criteria",
+      "current_heading": "Wealth Criteria",
+      "moved": false
+    }
+  }
+]

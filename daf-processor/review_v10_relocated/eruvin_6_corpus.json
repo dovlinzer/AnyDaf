@@ -1,0 +1,276 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Eser Amot Break",
+    "candidates": [
+      "Kora Function",
+      "Lechi Width",
+      "Maboi Size",
+      "Eser Amot Break",
+      "Front Break Arba",
+      "Corner Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24anin bar Rava's ruling about a breached maboi \u2014 ten cubits on the side, four handbreadths at the front \u2014 which is precisely what the 'Eser Amot Break' section's prose discusses and explains.",
+      "chosen_heading": "Eser Amot Break",
+      "current_heading": "Eser Amot Break",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Corner Issue",
+    "candidates": [
+      "Front Break Arba",
+      "Corner Issue",
+      "Rav Huna Four"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains precisely the question 'mai shna mitzido be-eser' and Rav Huna b'reih d'Rav Yehoshua's answer about a corner breach, which is exactly what the 'Corner Issue' prose describes in detail.",
+      "chosen_heading": "Corner Issue",
+      "current_heading": "Corner Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rav Huna Four",
+    "candidates": [
+      "Rav Huna Four",
+      "Rav-Shmuel Bent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Huna's position that both front and side tolerate only four handbreadths, his confrontation with Rav \u1e24anan bar Rava, and the 'bika matza ve-gadar' response \u2014 all of which are explicitly described in the 'Rav Huna Four' prose section.",
+      "chosen_heading": "Rav Huna Four",
+      "current_heading": "Rav Huna Four",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rav-Shmuel Bent",
+    "candidates": [
+      "Rav-Shmuel Bent",
+      "Bent Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the Rav-Shmuel dispute about a crooked alleyway (mavoy akum) and their respective positions, which is precisely what the 'Rav-Shmuel Bent' prose section describes and contextualizes.",
+      "chosen_heading": "Rav-Shmuel Bent",
+      "current_heading": "Rav-Shmuel Bent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Bent Resolution",
+    "candidates": [
+      "Bent Resolution",
+      "Gedudim Foundation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's clarification of the bent maboi case \u2014 asking whether the dispute operates above or below ten cubits \u2014 which is precisely what the 'Bent Resolution' prose describes as 'bemai askinan' and the subsequent analysis of Rav's position.",
+      "chosen_heading": "Bent Resolution",
+      "current_heading": "Bent Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Gedudim Foundation",
+    "candidates": [
+      "Gedudim Foundation",
+      "Four Domains",
+      "Tzurat Hapetach",
+      "600,000 Criterion",
+      "Eruv Possibility",
+      "Beit Shammai-Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the chain of reasoning about gedudim (wall remnants) \u2014 Rav \u1e24anan bar Rava's distinction about 'many people crossing,' the inference about Rav Huna's position, and the resolution distinguishing cases with and without gedudim \u2014 which is precisely what the 'Gedudim Foundation' prose describes.",
+      "chosen_heading": "Gedudim Foundation",
+      "current_heading": "Gedudim Foundation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Beit Shammai-Hillel",
+    "candidates": [
+      "Four Domains",
+      "Tzurat Hapetach",
+      "600,000 Criterion",
+      "Eruv Possibility",
+      "Beit Shammai-Hillel",
+      "Gate Closure Need"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita asking 'how does one render a public thoroughfare fit by means of an eruv' with the tzurat ha-petach/lechi/kora answer, which is precisely what the 'Tzurat Hapetach' section's prose describes and analyzes, including the Chananya/Beit Shammai-Beit Hillel dispute embedded within it.",
+      "chosen_heading": "Tzurat Hapetach",
+      "current_heading": "Beit Shammai-Hillel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Gate Closure Need",
+    "candidates": [
+      "Beit Shammai-Hillel",
+      "Gate Closure Need",
+      "Locked Gates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara challenge about whether a reshut ha-rabim can be made fit for eruv \u2014 the baraita of Rabbi Yehuda (items 1-2) and the rejoinder about Jerusalem's locked gates (item 3) \u2014 which exactly matches the 'Gate Closure Need' prose description of this same sugya.",
+      "chosen_heading": "Gate Closure Need",
+      "current_heading": "Gate Closure Need",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Locked Gates",
+    "candidates": [
+      "Locked Gates",
+      "Baraita Reread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ulla's statement about the gates of Me\u1e25oza and the condition that locked doors prevent reshut ha-rabim liability, which is precisely what the 'Locked Gates' prose section discusses.",
+      "chosen_heading": "Locked Gates",
+      "current_heading": "Locked Gates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Baraita Reread",
+    "candidates": [
+      "Baraita Reread",
+      "Rav-Shmuel Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda's reinterpretation/rereading of the baraita's language, which is precisely what the 'Baraita Reread' section's prose describes.",
+      "chosen_heading": "Baraita Reread",
+      "current_heading": "Baraita Reread",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rav-Shmuel Ruling",
+    "candidates": [
+      "Rav-Shmuel Ruling",
+      "Door vs. Frame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage records the Rav-Shmuel dispute (Rav ruling like the first tanna, Shmuel ruling like \u1e24ananya), which is precisely what the 'Rav-Shmuel Ruling' prose describes.",
+      "chosen_heading": "Rav-Shmuel Ruling",
+      "current_heading": "Rav-Shmuel Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Door vs. Frame",
+    "candidates": [
+      "Door vs. Frame",
+      "Neharde'a Gates",
+      "Ability Close",
+      "Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether the door must be locked according to Chananya/Beit Hillel, with Shmuel's rulings transmitted by Rav Yehuda and Rav Mattana all concluding 'ein tzarich lin'ol,' which is precisely what the 'Door vs. Frame' prose describes.",
+      "chosen_heading": "Door vs. Frame",
+      "current_heading": "Door vs. Frame",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Hierarchy",
+    "candidates": [
+      "Neharde'a Gates",
+      "Ability Close",
+      "Hierarchy",
+      "UWS Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Anan's testimony about the Neharde'a gates, Rav Kahana's objection about them being partially blocked, and Rav Na\u1e25man's instruction to clear the earth \u2014 are explicitly discussed together in the 'Neharde'a Gates' prose, which covers exactly this chain of argument about the gates of Neharde'a and the question of whether actual closure is required.",
+      "chosen_heading": "Neharde'a Gates",
+      "current_heading": "Hierarchy",
+      "moved": true
+    }
+  }
+]

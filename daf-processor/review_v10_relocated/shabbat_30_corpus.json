@@ -1,0 +1,236 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Yotzer vs. Ke'ein Yotzer",
+    "candidates": [
+      "Dripping Oil Setup",
+      "Connection Requirement",
+      "Yotzer vs. Ke'ein Yotzer",
+      "Beit Nitza Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's introduction of the baraita permitting plaster/clay attachment, the objection about the term 'yotzer,' and the resolution 'ke'ein yotzer,' which is precisely what the prose of candidate 2 ('Yotzer vs. Ke'ein Yotzer') describes.",
+      "chosen_heading": "Yotzer vs. Ke'ein Yotzer",
+      "current_heading": "Yotzer vs. Ke'ein Yotzer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Beit Nitza Precedent",
+    "candidates": [
+      "Beit Nitza Precedent",
+      "Lo Pelug Principle",
+      "Avin's Bench Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly narrates the Beit Nitza incident with Rabbi Yehuda's testimony and the Sages' response about the household being zerizin, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Beit Nitza Precedent",
+      "current_heading": "Beit Nitza Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Avin's Bench Example",
+    "candidates": [
+      "Lo Pelug Principle",
+      "Avin's Bench Example",
+      "Silence Misinterpreted",
+      "Kenishta Bench Query",
+      "Big vs. Small Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Avin of Tzipori dragging a bench on a marble-floored upper story before Rabbi Yitzchak ben Elazar, which is exactly the content described in the 'Avin's Bench Example' section prose.",
+      "chosen_heading": "Avin's Bench Example",
+      "current_heading": "Avin's Bench Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Big vs. Small Objects",
+    "candidates": [
+      "Silence Misinterpreted",
+      "Kenishta Bench Query",
+      "Big vs. Small Objects",
+      "Rav Yosef's Kashya",
+      "Two Resolution Paths",
+      "Shatnez Parallel Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous Gemara discussion initiated by the Kenishta bench episode \u2014 the dragging of the bench, Rav Yosef's objection, and the two resolutions \u2014 and candidate 1 ('Kenishta Bench Query') is the opening of this exact narrative, while candidates 3 and 4 cover only sub-parts of it, making 1 the best unified home for the whole passage.",
+      "chosen_heading": "Kenishta Bench Query",
+      "current_heading": "Big vs. Small Objects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Shatnez Parallel Case",
+    "candidates": [
+      "Rav Yosef's Kashya",
+      "Two Resolution Paths",
+      "Shatnez Parallel Case",
+      "Rabbi Shimon's Scope",
+      "Exemption Categories",
+      "Liability Cases",
+      "Rabbi Yosi Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rabba's objection using the shatnez/clothing merchants case to refute Rabbi Yirmiya Rabba's position, which is precisely what the 'Shatnez Parallel Case' section's prose describes.",
+      "chosen_heading": "Shatnez Parallel Case",
+      "current_heading": "Shatnez Parallel Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Rabbi Yosi Exception",
+    "candidates": [
+      "Rabbi Shimon's Scope",
+      "Exemption Categories",
+      "Liability Cases",
+      "Rabbi Yosi Exception",
+      "Patur vs. Chayav",
+      "Rabbi Yoshiya's Braita"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Exemption Categories",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the extinguishing cases (exemption, liability, Rabbi Yosi's exception), which matches candidate 1's prose that introduces and discusses exactly this Mishna and its categories.",
+      "second_heading": "Patur vs. Chayav",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge about what 'patur' means in the reisha given the seifa implies Rabbi Yehuda \u2014 precisely the dilemma and resolution described in candidate 4's prose ('Patur vs. Chayav').",
+      "current_heading": "Rabbi Yosi Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rabbi Yoshiya's Braita",
+    "candidates": [
+      "Patur vs. Chayav",
+      "Rabbi Yoshiya's Braita",
+      "Patur: Life-Threat Cases",
+      "Soul-Saving Question",
+      "Challenge to Solomon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's resolution that the reisha refers to a critically ill person and patur really means mutar, plus the Rabbi Oshaya/Yoshiya braita challenge and its resolution \u2014 all of which is the core content described in candidate 0's prose about the patur vs. chayav tension and the Mishna's stylistic uniformity explanation.",
+      "chosen_heading": "Patur vs. Chayav",
+      "current_heading": "Rabbi Yoshiya's Braita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Challenge to Solomon",
+    "candidates": [
+      "Patur: Life-Threat Cases",
+      "Soul-Saving Question",
+      "Challenge to Solomon",
+      "Dead vs. Living Theme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the question about extinguishing the lamp and Rabbi Tanchum's opening challenge to Solomon, which matches the 'Soul-Saving Question' prose that describes exactly this: the question being posed and Rabbi Tanchum beginning with a dramatic challenge to Solomon rather than an immediate answer.",
+      "chosen_heading": "Soul-Saving Question",
+      "current_heading": "Challenge to Solomon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Dead vs. Living Theme",
+    "candidates": [
+      "Challenge to Solomon",
+      "Dead vs. Living Theme",
+      "Past Generations",
+      "David's Forgiveness",
+      "David's Shabbat Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form the continuous Talmudic resolution of the contradictions between David's and Solomon's statements about the dead versus the living, which is precisely what the 'Dead vs. Living Theme' section's prose discusses \u2014 the lo kashya resolution, the multiple davar acher explanations of 've'shabeach ani et hameitim,' and the explanation of 'ki la'kelev chai hu tov' via Rav Yehuda citing Rav.",
+      "chosen_heading": "Dead vs. Living Theme",
+      "current_heading": "Dead vs. Living Theme",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "David's Shabbat Death",
+    "candidates": [
+      "Past Generations",
+      "David's Forgiveness",
+      "David's Shabbat Death",
+      "Solomon's Queries",
+      "Candle Metaphor",
+      "Hiding Ecclesiastes",
+      "Torah Framing",
+      "Nevuah vs. Chochma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes David studying Torah every Shabbat to protect himself from the Angel of Death, and the Angel of Death's stratagem of shaking the trees in the garden to distract him \u2014 exactly the content described in the 'David's Shabbat Death' section prose.",
+      "chosen_heading": "David's Shabbat Death",
+      "current_heading": "David's Shabbat Death",
+      "moved": false
+    }
+  }
+]

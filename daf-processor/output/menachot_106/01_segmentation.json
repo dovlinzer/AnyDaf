@@ -34,7 +34,7 @@
           "timestamp": "04:54"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -63,7 +63,7 @@
           "timestamp": "07:27"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -97,7 +97,7 @@
           "timestamp": "15:07"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -218,8 +218,8 @@
           "timestamp": "27:59"
         }
       ],
-      "sefaria_index": 31,
-      "matched": false
+      "sefaria_index": 35,
+      "matched": true
     },
     {
       "title": "Tanu Rabbanan on Mandatory Altar Offering: Why Frankincense is the Default When Unspecified",
@@ -237,8 +237,8 @@
           "timestamp": "31:51"
         }
       ],
-      "sefaria_index": 31,
-      "matched": false
+      "sefaria_index": 39,
+      "matched": true
     },
     {
       "title": "Mishnah on Voluntary Offerings of Wood, Frankincense, and Metals (continued)",
@@ -251,8 +251,8 @@
           "timestamp": "33:18"
         }
       ],
-      "sefaria_index": 31,
-      "matched": false
+      "sefaria_index": 42,
+      "matched": true
     },
     {
       "title": "Tanu Rabbanan on Mandatory Altar Offering: Why Frankincense is the Default When Unspecified (continued)",
@@ -275,8 +275,8 @@
           "timestamp": "34:59"
         }
       ],
-      "sefaria_index": 31,
-      "matched": false
+      "sefaria_index": 43,
+      "matched": true
     },
     {
       "title": "Precision in Metal Vows: Coins vs. Ingots, and the Spike-and-Fork Examples",
@@ -309,8 +309,8 @@
           "timestamp": "39:02"
         }
       ],
-      "sefaria_index": 31,
-      "matched": false
+      "sefaria_index": 38,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -716,5 +716,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 23
+  "amud_b_sefaria_index": 23,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "11:18",
+  "amud_b_micro_title": "No Nedava Problem",
+  "shiur_start_daf": 106,
+  "shiur_start_amud": "a"
 }

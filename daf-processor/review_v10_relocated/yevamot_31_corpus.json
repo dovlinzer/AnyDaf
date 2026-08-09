@@ -1,0 +1,290 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Get thrown case",
+    "candidates": [
+      "Case overview",
+      "Safek vs. Psul",
+      "Chazaka principle",
+      "Get thrown case",
+      "Safeka D'Oraisa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present the Gittin mishna's case of a get thrown in the public domain and its practical halakhic implications, which is precisely what the 'Get thrown case' prose section describes as the gemara's challenge invoking the parallel case from Gittin.",
+      "chosen_heading": "Get thrown case",
+      "current_heading": "Get thrown case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Safeka D'Oraisa",
+    "candidates": [
+      "Safeka D'Oraisa",
+      "Witnesses cancel",
+      "Bar Shatya case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Safeka D'Oraisa",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the distinction between two sets of witnesses (sefika d'oraisa) vs. one set (sefika d'rabbanan) and how we know the mishna deals with one set \u2014 exactly what the 'Safeka D'Oraisa' prose describes.",
+      "second_heading": "Witnesses cancel",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the principle that even two contradictory pairs of witnesses yield only a rabbinic safek because 'okei terei bahadei terei' cancels the testimony and restores the chazaka \u2014 precisely what the 'Witnesses cancel' prose discusses.",
+      "current_heading": "Safeka D'Oraisa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Bar Shatya case",
+    "candidates": [
+      "Witnesses cancel",
+      "Bar Shatya case",
+      "Abaye parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Bar Shatya case \u2014 the contradictory witnesses and Rav Ashi's ruling to cancel them and restore the chazaka \u2014 which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Bar Shatya case",
+      "current_heading": "Bar Shatya case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Abaye parallel",
+    "candidates": [
+      "Abaye parallel",
+      "Rava distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement invoking 'yagid alav rei'o' and the principle that cases taught in kiddushin apply to geirushin and vice versa, which is precisely what the 'Abaye parallel' section's prose describes.",
+      "chosen_heading": "Abaye parallel",
+      "current_heading": "Abaye parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rava distinction",
+    "candidates": [
+      "Rava distinction",
+      "Zeman issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's challenge about the meaning of 'zehu' in the mishna, which is precisely what the 'Rava distinction' prose discusses \u2014 his pushback using 'mai zehu d'katani' to argue that the word implies exclusion.",
+      "chosen_heading": "Rava distinction",
+      "current_heading": "Rava distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Zeman issue",
+    "candidates": [
+      "Zeman issue",
+      "Zeman reasons",
+      "Arusah no Peirot",
+      "Kesef majority",
+      "Slaves parallel",
+      "Document loss",
+      "Witness testimony",
+      "Scenario setup"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Zeman issue",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rava's resolution that 'zehu' by kiddushin excludes the zman requirement, and the opening question of why the Rabbis didn't institute zman in kiddushin with the peirot answer \u2014 matching heading 0 ('Zeman issue') and transitioning into heading 1 ('Zeman reasons').",
+      "second_heading": "Zeman reasons",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 directly address the gemara's sustained discussion of why zman was not required in shtar kiddushin, covering the bas achoso objection, the kesef majority answer, the slave parallel, and the document-holding problem \u2014 all of which are described precisely in heading 1's prose ('Zeman reasons').",
+      "current_heading": "Zeman issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Scenario setup",
+    "candidates": [
+      "Zeman reasons",
+      "Arusah no Peirot",
+      "Kesef majority",
+      "Slaves parallel",
+      "Document loss",
+      "Witness testimony",
+      "Scenario setup",
+      "Double connection",
+      "Chalitzah rule",
+      "Rebbi Shimon",
+      "Doraita exclusion",
+      "Gezeira Shema"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Witness testimony",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing exchange of the 'witness testimony' discussion \u2014 the gemara's question about divorce and the answer about her incentive to preserve vs. erase the document \u2014 which matches exactly the prose of heading 5 ('Witness testimony') that explicitly describes this exchange.",
+      "second_heading": "Scenario setup",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the Mishna and its scriptural grounding introducing the three-brothers scenario, which matches exactly the prose of heading 6 ('Scenario setup') and subsequent headings about the mishna's new case.",
+      "current_heading": "Scenario setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Gezeira Shema",
+    "candidates": [
+      "Double connection",
+      "Chalitzah rule",
+      "Rebbi Shimon",
+      "Doraita exclusion",
+      "Gezeira Shema",
+      "Wrong order fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The Gemara passage directly argues that if the double levirate connection were d'oraisa, chalitza would not be required, concluding 'ela miderabbanan' \u2014 which is precisely what the 'Doraita exclusion' section's prose discusses, not the 'Gezeira Shema' section which covers the subsequent reasoning about why chalitza is demanded.",
+      "chosen_heading": "Doraita exclusion",
+      "current_heading": "Gezeira Shema",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Wrong order fear",
+    "candidates": [
+      "Gezeira Shema",
+      "Wrong order fear",
+      "Rava position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of question-and-answer explaining the 'wrong order' gezeira \u2014 why performing chalitza before yibum is fatal \u2014 which is precisely what the 'Wrong order fear' prose describes.",
+      "chosen_heading": "Wrong order fear",
+      "current_heading": "Wrong order fear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Rava position",
+    "candidates": [
+      "Rava position",
+      "Confusion risk",
+      "Alternative view",
+      "Practical issue",
+      "Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's ruling about giving a get le-maamar \u2014 the first formulation and the alternative formulation \u2014 which together constitute Rava's position, exactly as described in candidate 0's prose.",
+      "chosen_heading": "Rava position",
+      "current_heading": "Rava position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Scenario",
+    "candidates": [
+      "Confusion risk",
+      "Alternative view",
+      "Practical issue",
+      "Scenario",
+      "Permanent status",
+      "Obvious case",
+      "Teaching order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The prose under 'Scenario' directly introduces this exact mishna \u2014 two brothers married to two sisters, one dies, then the second brother's wife dies \u2014 matching the passage's content precisely.",
+      "chosen_heading": "Scenario",
+      "current_heading": "Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Teaching order",
+    "candidates": [
+      "Permanent status",
+      "Obvious case",
+      "Teaching order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Gemara passage covers both the 'pshita' (obvious) objection and the tanna's explanation, but the prose under 'Obvious case' (index 1) explicitly addresses the pshita question and the kal vachomer argument about being completely excluded from the household, which is the primary content of this Gemara, while index 2's prose covers the same material but the passage as a whole is better matched to index 1 which sets up the question the passage is answering.",
+      "chosen_heading": "Obvious case",
+      "current_heading": "Teaching order",
+      "moved": true
+    }
+  }
+]

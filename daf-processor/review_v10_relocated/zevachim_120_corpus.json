@@ -1,0 +1,249 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Olah Transfer Question",
+    "candidates": [
+      "Olah Transfer Question",
+      "Rashi on Chazeh Shok",
+      "Tosafot Alternative Case",
+      "Rabba vs Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the dilemma Rabbi Zeira raises \u2014 the case of an olas bamas yachid brought inside and taken back out \u2014 which is precisely what the prose of heading 0 describes.",
+      "chosen_heading": "Olah Transfer Question",
+      "current_heading": "Olah Transfer Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Rabba vs Rav Yosef",
+    "candidates": [
+      "Rashi on Chazeh Shok",
+      "Tosafot Alternative Case",
+      "Rabba vs Rav Yosef",
+      "Mechitza Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the Rabba\u2013Rav Yosef dispute from Me'ila about kodshei kodashim slaughtered in the south, which is precisely what the prose of candidate 2 ('Rabba vs Rav Yosef') describes.",
+      "chosen_heading": "Rabba vs Rav Yosef",
+      "current_heading": "Rabba vs Rav Yosef",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Mechitza Analysis",
+    "candidates": [
+      "Mechitza Analysis",
+      "Limbs Removed Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items continue the same Gemara passage about whether the dilemma can be raised according to Rabba or Rav Yosef, specifically discussing the mechitza distinction and the one-place vs. two-places distinction, which is precisely what the 'Mechitza Analysis' prose describes.",
+      "chosen_heading": "Mechitza Analysis",
+      "current_heading": "Mechitza Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Limbs Removed Question",
+    "candidates": [
+      "Limbs Removed Question",
+      "Fire Seizure Condition",
+      "Teiku Resolution",
+      "Elazar's Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Yannai's dilemma about limbs of an olah from a bamas yachid that ascended and descended, the fire-seizure condition, and the teiku conclusion \u2014 but the current placement under 'Limbs Removed Question' is the best match because that section's prose directly describes Rabbi Yannai's question and the analogy involved, while the fire condition and teiku are subordinate refinements within the same passage that the current heading's prose also addresses.",
+      "chosen_heading": "Limbs Removed Question",
+      "current_heading": "Limbs Removed Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Elazar's Contradiction",
+    "candidates": [
+      "Fire Seizure Condition",
+      "Teiku Resolution",
+      "Elazar's Contradiction",
+      "Chullin vs Kodshim",
+      "Central vs Private Alt",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together form the complete unit about the Rav/Shmuel dispute over nighttime slaughter at a private altar, anchored by Rabbi Elazar's contradiction between the two verses in Samuel \u2014 exactly what heading 2 ('Elazar's Contradiction') describes in its prose.",
+      "chosen_heading": "Elazar's Contradiction",
+      "current_heading": "Elazar's Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Chullin vs Kodshim",
+      "Central vs Private Alt",
+      "Rav's Position",
+      "Rabbi Yochanan Position",
+      "Yose HaGlili Source",
+      "Vayikra Application",
+      "Baraita Support",
+      "Central Altar Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yose HaGelili's baraita and then the two Amoraim's interpretations of it, which is precisely what heading 4 ('Yose HaGlili Source') discusses \u2014 the baraita's content and how Rav and Rabbi Yochanan derive their positions from it.",
+      "chosen_heading": "Yose HaGlili Source",
+      "current_heading": "Rav's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Central Altar Only",
+    "candidates": [
+      "Rabbi Yochanan Position",
+      "Yose HaGlili Source",
+      "Vayikra Application",
+      "Baraita Support",
+      "Central Altar Only",
+      "Chazeh Ve-Shok",
+      "Shared Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita passage explicitly supports Rabbi Yochanan's position and lists the differences between bamah gedolah and bamah ketanah, which matches the 'Baraita Support' section's prose describing exactly this baraisa as proof for Rabbi Yochanan, while the current placement under 'Central Altar Only' is also related but the 'Baraita Support' section is the clearest match for this passage's role in the sugya.",
+      "chosen_heading": "Baraita Support",
+      "current_heading": "Central Altar Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Shared Requirements",
+    "candidates": [
+      "Chazeh Ve-Shok",
+      "Shared Requirements",
+      "Initial Question",
+      "Space-Time Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage enumerates the shared requirements between bamah gedolah and bamah ketanah \u2014 shechita, hafsheit ve-nituach, dam matir/mifagel, mumim, and zman \u2014 which is exactly what the 'Shared Requirements' prose describes and analyzes.",
+      "chosen_heading": "Shared Requirements",
+      "current_heading": "Shared Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Space-Time Logic",
+    "candidates": [
+      "Initial Question",
+      "Space-Time Logic",
+      "Bird Kal Vachomer"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Initial Question",
+      "current_heading": "Space-Time Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Bird Kal Vachomer",
+    "candidates": [
+      "Bird Kal Vachomer",
+      "Objection to Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the kal vachomer from bird offerings \u2014 item 1 raises the question and item 2 states the inference \u2014 which matches exactly the 'Bird Kal Vachomer' prose describing how birds without blemish-disqualification still have time restrictions, making it a fortiori that bamas yachid offerings (where blemishes do disqualify) should also be subject to time restrictions.",
+      "chosen_heading": "Bird Kal Vachomer",
+      "current_heading": "Bird Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Objection to Comparison",
+    "candidates": [
+      "Objection to Comparison",
+      "Inclusive 'Torah'",
+      "Masechet Conclusion",
+      "Shabbat Supremacy",
+      "Universal Accessibility"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Objection to Comparison",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the objection to the bird-offering comparison and its resolution via 'zos toras zevach hashelamim', which is precisely what candidate 0 ('Objection to Comparison') discusses in its prose.",
+      "second_heading": "Masechet Conclusion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the 'Hadran' closing formula marking the end of Masechet Zevachim, which is exactly what candidate 2 ('Masechet Conclusion') describes in its prose.",
+      "current_heading": "Objection to Comparison",
+      "moved": true
+    }
+  }
+]

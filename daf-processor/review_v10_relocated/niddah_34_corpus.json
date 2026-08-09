@@ -1,0 +1,248 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rav Pappa Arrives",
+    "candidates": [
+      "Shiva Nekiyim Standard",
+      "Kutim Status",
+      "Rav Pappa Arrives",
+      "Rav Shmuel's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa arriving at Tavakh and being told about Rav Shmuel by an elderly woman, which matches exactly the prose of candidate 2 ('Rav Pappa Arrives').",
+      "chosen_heading": "Rav Pappa Arrives",
+      "current_heading": "Rav Pappa Arrives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Rav Shmuel's Question",
+    "candidates": [
+      "Rav Shmuel's Question",
+      "Departure & Rav Shimi",
+      "Kuti After Tevilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are the core exchange described in 'Rav Shmuel's Question': Rav Pappa's arrival, the ox, the contradiction between the two mishnayot, Rav Pappa's 'Kuti chaver' resolution, and Rav Shmuel's sharp rejection \u2014 exactly what that section's prose describes in detail.",
+      "chosen_heading": "Rav Shmuel's Question",
+      "current_heading": "Rav Shmuel's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Kuti After Tevilah",
+    "candidates": [
+      "Departure & Rav Shimi",
+      "Kuti After Tevilah",
+      "Mishna Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the Kuti-who-immersed scenario: Rav Shimi bar Ashi's explanation (items 1-3) and the naked Samaritan resolution (item 4) are precisely the content described in the 'Kuti After Tevilah' prose, which explicitly covers the safek sefeika reasoning and the 'bekusi arum' answer.",
+      "chosen_heading": "Kuti After Tevilah",
+      "current_heading": "Kuti After Tevilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Mishna Rules",
+    "candidates": [
+      "Mishna Rules",
+      "Default Status",
+      "Kohen Gadol Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna Rules",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and the Mishna portion of item 2 match heading 0 ('Mishna Rules'), whose prose explicitly discusses the Mishnah's content about Sadducee daughters, the Tanna Kamma, and Rabbi Yosei's position.",
+      "second_heading": "Default Status",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 (the Gemara's dilemma about the unstated default and the resolution via Rabbi Yosei's position) match heading 1 ('Default Status') exactly, whose prose describes precisely this Gemara discussion about stama, the failed inference from risha/seifa, and the final conclusion shema mina.",
+      "current_heading": "Mishna Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Kohen Gadol Story",
+    "candidates": [
+      "Default Status",
+      "Kohen Gadol Story",
+      "Women's Reverence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the Kohen Gadol story \u2014 the Tzadduki's spittle landing on the Kohen Gadol's garments and the wife's response \u2014 which is precisely what the 'Kohen Gadol Story' prose section introduces and analyzes.",
+      "chosen_heading": "Kohen Gadol Story",
+      "current_heading": "Kohen Gadol Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Women's Reverence",
+    "candidates": [
+      "Women's Reverence",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yosei's statement about Sadducee wives showing their blood to the Sages, which is precisely what the 'Women's Reverence' section's prose discusses and analyzes in detail.",
+      "chosen_heading": "Women's Reverence",
+      "current_heading": "Women's Reverence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Rava's Answer",
+      "Blood Status Intro",
+      "Mishna Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Gemara exchange about the am ha'aretz spittle objection \u2014 Abaye's chaver answer, Rava's rejection, and Rava's regel solution \u2014 which is precisely what candidate 0 ('Rava's Answer') discusses in its prose.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Mishna Rules",
+    "candidates": [
+      "Blood Status Intro",
+      "Mishna Rules",
+      "Zavah Status Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the Mishnah text itself \u2014 the three cases (blood of a gentile woman/metzora'at, yoledes who did not immerse, and yoledes be-zov) \u2014 which the 'Mishna Rules' prose explicitly describes and analyzes in its entirety.",
+      "chosen_heading": "Mishna Rules",
+      "current_heading": "Mishna Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Zavah Status Debate",
+    "candidates": [
+      "Zavah Status Debate",
+      "Blood vs. Mayanot",
+      "Non-Jewish Man"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara discussion about why Beit Shammai holds that a gentile woman's blood is tahor \u2014 the challenge from the rabbinic decree treating gentiles as zavin, Beit Shammai's response about the moist/dry dilemma, and the follow-up questions about saliva/urine vs. blood \u2014 which exactly matches the 'Zavah Status Debate' prose description.",
+      "chosen_heading": "Zavah Status Debate",
+      "current_heading": "Zavah Status Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Non-Jewish Man",
+    "candidates": [
+      "Blood vs. Mayanot",
+      "Non-Jewish Man",
+      "Semen Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Non-Jewish Man",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are Rava's ruling about the non-Jewish man's ziva and semen with its elaboration and objection-resolution, which precisely matches the 'Non-Jewish Man' prose.",
+      "second_heading": "Semen Status",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is the Gemara citing the Mishnah from Mikvaot to support Rava's ruling about semen status, which precisely matches the 'Semen Status' prose discussion of that same Mishnah.",
+      "current_heading": "Non-Jewish Man",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Semen Status",
+    "candidates": [
+      "Semen Status",
+      "Rav Pappa's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the baraita and its Gemara resolution about the purity status of Jewish vs. gentile semen, which is precisely what candidate 0's prose describes \u2014 including the urine exception and the conclusion that gentile semen is pure even rabbinically.",
+      "chosen_heading": "Semen Status",
+      "current_heading": "Semen Status",
+      "moved": false
+    }
+  }
+]

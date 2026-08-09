@@ -15,7 +15,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Type of Spit Used for Roasting: Pomegranate Wood vs. Metal and Other Woods",
@@ -38,7 +38,7 @@
           "timestamp": "10:41"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -154,8 +154,8 @@
           "timestamp": "45:24"
         }
       ],
-      "sefaria_index": 17,
-      "matched": true
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Pickling in Vinegar: Blood Concerns and Reuse of Vinegar",
@@ -183,8 +183,8 @@
           "timestamp": "50:16"
         }
       ],
-      "sefaria_index": 21,
-      "matched": true
+      "sefaria_index": 8,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -480,5 +480,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "25:18",
+  "amud_b_micro_title": "Pesach Proof",
+  "shiur_start_daf": 74,
+  "shiur_start_amud": "a"
 }

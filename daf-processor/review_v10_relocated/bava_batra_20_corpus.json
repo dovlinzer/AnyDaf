@@ -1,0 +1,236 @@
+[
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Grass, Rags, Animals",
+    "candidates": [
+      "Shmuel's Wafer Principle",
+      "Tosefta Objects List",
+      "Why They Don't Minimize",
+      "Grass, Rags, Animals",
+      "Salt to Sefer Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 9 items cover the Gemara's case-by-case interrogation of the Tosefta list items \u2014 grass, rags, animals, bird, and gentile/prisoner \u2014 which is precisely what the 'Grass, Rags, Animals' prose section describes in detail.",
+      "chosen_heading": "Grass, Rags, Animals",
+      "current_heading": "Grass, Rags, Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Salt to Sefer Torah",
+    "candidates": [
+      "Salt to Sefer Torah",
+      "Rav's Mechitza Rule",
+      "Shmuel vs. Salt Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items cover the Gemara's successive challenges and resolutions for salt, earthenware vessel, and Torah scroll reducing a window's dimensions \u2014 exactly the content described in the 'Salt to Sefer Torah' section's prose.",
+      "chosen_heading": "Salt to Sefer Torah",
+      "current_heading": "Salt to Sefer Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Shmuel vs. Salt Types",
+    "candidates": [
+      "Rav's Mechitza Rule",
+      "Shmuel vs. Salt Types",
+      "Salt Mounds & Beam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly Shmuel's position on salt and Rav Pappa's resolution distinguishing Sodomite salt from Isterokanit salt, which is precisely what the 'Shmuel vs. Salt Types' prose section describes.",
+      "chosen_heading": "Shmuel vs. Salt Types",
+      "current_heading": "Shmuel vs. Salt Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Salt Mounds & Beam",
+    "candidates": [
+      "Salt Mounds & Beam",
+      "Normal & Donkey Mills",
+      "Vibrations vs. Sound"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabba's ruling about two mounds of salt supporting a beam and the reconciliation between Rav and Shmuel's positions, which is precisely what the 'Salt Mounds & Beam' section's prose describes.",
+      "chosen_heading": "Salt Mounds & Beam",
+      "current_heading": "Salt Mounds & Beam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Vibrations vs. Sound",
+    "candidates": [
+      "Normal & Donkey Mills",
+      "Vibrations vs. Sound",
+      "Tannur & Kirah",
+      "Abaye's Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about the reason for distancing mills (vibrations vs. noise), which is precisely what the 'Vibrations vs. Sound' section's prose describes, and the current placement is correct.",
+      "chosen_heading": "Vibrations vs. Sound",
+      "current_heading": "Vibrations vs. Sound",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Abaye's Inference",
+    "candidates": [
+      "Tannur & Kirah",
+      "Abaye's Inference",
+      "First Story Oven",
+      "Second Story Oven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly what Abaye's Inference section describes: the measurement arithmetic yielding a one-tefach protrusion and the nafka mina for commercial transactions, matching the current placement perfectly.",
+      "chosen_heading": "Abaye's Inference",
+      "current_heading": "Abaye's Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Second Story Oven",
+    "candidates": [
+      "First Story Oven",
+      "Second Story Oven",
+      "Kirah Requirement",
+      "Liability Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers all three rules (four amot above, three tefachim plaster on upper story, one tefach for kirah) as a single unified text, and candidate 0 'First Story Oven' is the opening section whose prose introduces this entire mishna \u2014 the passage should sit under the first heading that opens the mishna discussion, not split across subsequent headings.",
+      "chosen_heading": "First Story Oven",
+      "current_heading": "Second Story Oven",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Liability Debate",
+    "candidates": [
+      "Kirah Requirement",
+      "Liability Debate",
+      "Bakery & Dye Shop Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the liability debate between the Tanna Kamma and Rabbi Shimon regarding whether compliance with prescribed measurements exempts one from paying damages, which is precisely what the 'Liability Debate' section's prose addresses.",
+      "chosen_heading": "Liability Debate",
+      "current_heading": "Liability Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Bakery & Dye Shop Ban",
+    "candidates": [
+      "Bakery & Dye Shop Ban",
+      "Cowshed Prohibition",
+      "Wine Exception"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Wine Exception",
+    "candidates": [
+      "Cowshed Prohibition",
+      "Wine Exception",
+      "Priority Baraita",
+      "Abaye's Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about Abaye resolving the tension between the mishna and baraita on plaster thickness for ovens/stoves is explicitly discussed in the 'Wine Exception' section's prose, which describes this exact gemara and Abaye's explanation about baker's ovens.",
+      "chosen_heading": "Wine Exception",
+      "current_heading": "Wine Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Abaye's Questions",
+    "candidates": [
+      "Priority Baraita",
+      "Abaye's Questions",
+      "Yosef & Sheshes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Priority Baraita",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the baraita about the cowshed preceding the storeroom and introduces Abaye's first dilemma about sweeping/sprinkling, which matches the 'Priority Baraita' prose that discusses the baraita and its priority rule (Abaye's opening question flows directly from that baraita).",
+      "second_heading": "Abaye's Questions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the full series of Abaye's unresolved questions (windows, veranda, upper room, teiku) and Rav Huna's dates/pomegranates dilemma, which exactly matches the 'Abaye's Questions' prose description of those same questions and their teiku resolutions.",
+      "current_heading": "Abaye's Questions",
+      "moved": true
+    }
+  }
+]

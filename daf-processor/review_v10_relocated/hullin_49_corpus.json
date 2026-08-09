@@ -1,0 +1,414 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Dispute on Needle",
+    "candidates": [
+      "Needles in Liver",
+      "Dispute on Needle",
+      "Ravina's Ruling",
+      "Stone in Gallbladder",
+      "Squeezing Through",
+      "Date vs. Olive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Ravina's ruling ('shekilu glima de-trofai') which is the exact content discussed in candidate 2's prose about Ravina's response and his directive to seize the cloak of those who declared it treif.",
+      "chosen_heading": "Ravina's Ruling",
+      "current_heading": "Dispute on Needle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Date vs. Olive",
+    "candidates": [
+      "Ravina's Ruling",
+      "Stone in Gallbladder",
+      "Squeezing Through",
+      "Date vs. Olive",
+      "Rashi/Tosafot",
+      "Lung Etymology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage covers the full case including the stone found in the gallbladder, the simpon route explanation, the slipping-through reasoning, and the date vs. olive distinction \u2014 all together in one Talmudic unit \u2014 but the essay splits these into separate sections (1, 2, 3); since the passage as a whole most naturally introduces under 'Stone in Gallbladder' where the case begins, though given it includes all three sections' content, heading 1 is the best single home, but current placement under 'Date vs. Olive' is also defensible as the final qualifying statement.",
+      "chosen_heading": "Stone in Gallbladder",
+      "current_heading": "Date vs. Olive",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Lung Etymology",
+    "candidates": [
+      "Rashi/Tosafot",
+      "Lung Etymology",
+      "Lung Benefits",
+      "Price Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the etymology of 'reyah' (lung) and raises the dilemma about eating versus medicinal preparation, which matches exactly the 'Lung Etymology' section's prose about Rabbi Yochanan's etymological digression and the benefit to eyesight.",
+      "chosen_heading": "Lung Etymology",
+      "current_heading": "Lung Etymology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Price Evidence",
+    "candidates": [
+      "Lung Benefits",
+      "Price Evidence",
+      "Attribution Question",
+      "Rav Adda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly reports Rav Huna bar Yehuda's market observation about the goose and lung prices and the reasoning that the lung requires special preparation, which is precisely what candidate 1 'Price Evidence' describes in its prose.",
+      "chosen_heading": "Price Evidence",
+      "current_heading": "Price Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Rav Adda Position",
+    "candidates": [
+      "Attribution Question",
+      "Rav Adda Position",
+      "Wolf Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the she'eilah and its initial ruling (talinan vs. lo talinan plus the corroborating tradition from Rav Shmuel's father), which is precisely what candidate 0 ('Attribution Question') introduces \u2014 the question of whether to attribute the hole to the shochet's handling \u2014 whereas candidate 1 already presupposes the ruling and moves on to analysis and the wolf analogy.",
+      "chosen_heading": "Attribution Question",
+      "current_heading": "Rav Adda Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Wolf Analogy",
+    "candidates": [
+      "Rav Adda Position",
+      "Wolf Analogy",
+      "Worm Holes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Mesharshiyya supporting Rav Adda bar Natan's position, which is precisely what the 'Rav Adda Position' prose describes as its final sentence \u2014 this statement belongs with the ruling about attributing holes to the shochet, not as a standalone section about the wolf analogy.",
+      "chosen_heading": "Rav Adda Position",
+      "current_heading": "Wolf Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Worm Holes",
+    "candidates": [
+      "Worm Holes",
+      "Shimon's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the murana (worm) dispute between Rav Yosef bar Dosai and the Rabbanan and the halakhic ruling, which is precisely what the 'Worm Holes' section prose describes.",
+      "chosen_heading": "Worm Holes",
+      "current_heading": "Worm Holes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Shimon's Rule",
+    "candidates": [
+      "Shimon's Rule",
+      "Meloch Tradition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Shimon's opinion and Rabba bar Ta\u1e25lifa's clarification about the large bronchus, which is precisely what heading 0 ('Shimon's Rule') discusses in its prose.",
+      "chosen_heading": "Shimon's Rule",
+      "current_heading": "Shimon's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Meloch Tradition",
+    "candidates": [
+      "Meloch Tradition",
+      "Huna Correction",
+      "Zeira's Journey"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Acha bar Abba reporting the Meloch tradition to Rav Huna, which is precisely what heading 0's prose describes, before Rav Huna's correction (heading 1) and Zeira's journey (heading 2).",
+      "chosen_heading": "Meloch Tradition",
+      "current_heading": "Meloch Tradition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Zeira's Journey",
+    "candidates": [
+      "Huna Correction",
+      "Zeira's Journey",
+      "Final Ruling",
+      "Halacha Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Zeira's Journey' prose discusses: Rabbi Zeira finding Rav Bibi transmitting the tradition, his oath about visiting Rabbi Meloch directly, Meloch's denial, and the alternative transmission through Rabbi Yitzchak bar Ami \u2014 all matching the current placement precisely.",
+      "chosen_heading": "Zeira's Journey",
+      "current_heading": "Zeira's Journey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Halacha Process",
+    "candidates": [
+      "Final Ruling",
+      "Halacha Process",
+      "Fat on Stomach",
+      "Yishmael Position",
+      "Yishmael Helps Kohanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the terse final ruling 'the halakha is not in accordance with Rabbi Shimon,' which matches perfectly with the 'Final Ruling' section's prose about this exact ruling and Rashi's explanation of it as the gemara's own final determination.",
+      "chosen_heading": "Final Ruling",
+      "current_heading": "Halacha Process",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Yishmael Helps Kohanim",
+    "candidates": [
+      "Fat on Stomach",
+      "Yishmael Position",
+      "Yishmael Helps Kohanim",
+      "Chelev Characteristics",
+      "Reversal Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items together form the continuous discussion of the mnemonic 'Yishmael the priest helps the priests,' including the priestly benediction baraita (Rabbi Yishmael vs. Rabbi Akiva on va'ani avarachem) and Rav Nachman bar Yitzchak's answer about Rabbi Akiva's source for the priests' blessing \u2014 exactly the content described in the 'Yishmael Helps Kohanim' prose.",
+      "chosen_heading": "Yishmael Helps Kohanim",
+      "current_heading": "Yishmael Helps Kohanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Reversal Resolution",
+    "candidates": [
+      "Chelev Characteristics",
+      "Reversal Resolution",
+      "Yishmael Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items \u2014 the Rabbi Yishmael/Rabbi Akiva dispute over which fat the verse includes, the contradiction from the second baraita, Ravin's resolution to reverse the first baraita, and the Gemara's justification for preferring that reversal \u2014 are precisely the content described in the 'Reversal Resolution' prose, which is also the current placement.",
+      "chosen_heading": "Reversal Resolution",
+      "current_heading": "Reversal Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Yishmael Contradiction",
+    "candidates": [
+      "Yishmael Contradiction",
+      "Rav's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the contradiction between Rabbi Yishmael and Rabbi Akiva and Rav Nachman bar Yitzchak's resolution \u2014 exactly what the 'Yishmael Contradiction' prose section describes.",
+      "chosen_heading": "Yishmael Contradiction",
+      "current_heading": "Yishmael Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Rav's Rule",
+    "candidates": [
+      "Rav's Rule",
+      "Sheshet Lenient",
+      "Deer Fat Q",
+      "Stickiness Matters",
+      "Hole/Forbidden",
+      "Rava Lenient",
+      "Pappa Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav's Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers Rav's ruling and Rav Sheshet's dispute about whether kosher vs. non-kosher fat seals a perforation, matching headings 0 and 1 \u2014 but since both items 1 and the Rav Sheshet dispute are a single continuous exchange, they best fit under heading 0 ('Rav's Rule') which introduces the whole dispute, with Rav Sheshet's position handled in the same section.",
+      "second_heading": "Deer Fat Q",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are Rabbi Zeira's dilemma about deer fat and Abaye's dismissal of it, which precisely matches the prose of heading 2 ('Deer Fat Q') and heading 3 ('Stickiness Matters').",
+      "current_heading": "Rav's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Pappa Challenge",
+    "candidates": [
+      "Sheshet Lenient",
+      "Deer Fat Q",
+      "Stickiness Matters",
+      "Hole/Forbidden",
+      "Rava Lenient",
+      "Pappa Challenge",
+      "Honey Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's lenient ruling citing Rav Sheshet and the Torah's financial concern principle, AND Rav Pappa's challenge \u2014 the prose under 'Rava Lenient' (index 4) describes exactly this full exchange, while 'Pappa Challenge' (index 5) covers only Pappa's response, making index 4 the better unified home for the complete passage.",
+      "chosen_heading": "Rava Lenient",
+      "current_heading": "Pappa Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Honey Case",
+    "candidates": [
+      "Pappa Challenge",
+      "Honey Case",
+      "Nachman Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Manyumin the jug maker bringing his uncovered honey before Rava, who offers two leniency arguments, which matches exactly the 'Honey Case' section's prose description of this episode.",
+      "chosen_heading": "Honey Case",
+      "current_heading": "Honey Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Nachman Counter",
+    "candidates": [
+      "Nachman Counter",
+      "Stupid Snake",
+      "Honey Strict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage details exactly what Rabbi Shimon's opinion is (the baraita listing five liquids and his ruling that even they are subject to giluy) and his personal testimony about the snake in Tzidon, which is the content described in the 'Nachman Counter' prose section.",
+      "chosen_heading": "Nachman Counter",
+      "current_heading": "Nachman Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Honey Strict",
+    "candidates": [
+      "Stupid Snake",
+      "Honey Strict",
+      "Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's argument about fish brine and Rav Na\u1e25man bar Yitz\u1e25ak's counter-argument about honey via Rabbi Shimon ben Elazar, which is precisely what the 'Honey Strict' prose describes.",
+      "chosen_heading": "Honey Strict",
+      "current_heading": "Honey Strict",
+      "moved": false
+    }
+  }
+]

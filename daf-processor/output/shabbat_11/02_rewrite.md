@@ -26,13 +26,6 @@ A qualification is offered: *vehani mili bebatim* — this concern applies only 
 
 Rav Ashi states: *ana avdi lemata Mechasya delo charva* — I have ensured that Mata Mechasya will not be destroyed, having taken care that the *beit haknesset* stands taller than the other buildings. The Gemara immediately objects: *veha charva* — but Mata Mechasya was in fact destroyed! This must be a later editorial comment, since it would have been rather pointed for Rav Ashi to have said this after the destruction had already occurred. The Gemara resolves it: *me'oto avon lo charva* — it was not destroyed on account of that particular sin. One might observe that this resolution, while technically satisfying, renders the principle somewhat unfalsifiable: a city may be destroyed, but it can always be said that the cause was some other transgression.
 
-## Governance
-
-### Gov't Complexity
-
-Another statement in the same tradition: *im yiheyu kol hayamim deyo va'agamim kumsim veshamayim yeri'ot vechol benei adam lavlarin, ein maspikin lichtov chalalah shel rashut* — if all the seas were ink and all the swamps were reeds, and the heavens were parchment and all people were scribes, it would still not suffice to write out the full depth of what is required to govern well.
-
-The proof-text is cited by Rav Mesharshiya from Proverbs: *shamayim larom ve'eretz la'omek velev melachim ein cheker* — the heavens above, the earth below, and the hearts of kings — no one can fully fathom them. Rashi unpacks what this means practically: the ruler must hold in mind the affairs of many provinces, the conduct of wars, and the administration of judgments across countless departments. The sheer volume of information required — the data, the decisions, the management of military and civil affairs simultaneously — defies complete description. This is a remarkable statement; while the Talmud elsewhere speaks of gratitude for government and the need to pray for its welfare, a passage so attentive to the genuine difficulty and intellectual demands of ruling well is rare.
 
 ## Political Authority
 

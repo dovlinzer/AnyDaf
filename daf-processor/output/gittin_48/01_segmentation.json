@@ -29,8 +29,8 @@
           "timestamp": "02:58"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Extension to Yovel: Kinyan Peirot When Land Will Revert",
@@ -58,7 +58,7 @@
           "timestamp": "09:13"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -217,7 +217,7 @@
           "timestamp": "37:14"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 20,
       "matched": true
     },
     {
@@ -1021,5 +1021,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "30:27",
+  "amud_b_micro_title": "Yovel Pasuk",
+  "shiur_start_daf": 48,
+  "shiur_start_amud": "a"
 }

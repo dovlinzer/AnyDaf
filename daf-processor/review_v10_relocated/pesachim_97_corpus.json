@@ -1,0 +1,304 @@
+[
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Im Kesev Question",
+    "candidates": [
+      "Nidcheh Status",
+      "Lost Before/After",
+      "Temurah Status",
+      "Found After Shechita",
+      "Inherited Kedusha",
+      "Timeline Diagram",
+      "Im Kesev Question",
+      "Pasuk Teaching",
+      "Non-Obvious Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is Abaye's objection to Rava based on the baraita interpreting 'im kesev,' which is precisely what the 'Im Kesev Question' section's prose describes.",
+      "chosen_heading": "Im Kesev Question",
+      "current_heading": "Im Kesev Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Non-Obvious Case",
+    "candidates": [
+      "Pasuk Teaching",
+      "Non-Obvious Case",
+      "Asmachta Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Abaye's heichi dami question, the peshita objection, and the lama li kra argument leading to the non-obvious scenario \u2014 precisely what the 'Non-Obvious Case' prose describes.",
+      "chosen_heading": "Non-Obvious Case",
+      "current_heading": "Non-Obvious Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Asmachta Resolution",
+    "candidates": [
+      "Asmachta Resolution",
+      "Conversion to Shelamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's 'no, actually' response explaining the case as post-slaughter substitution and identifying the verse as a mere asmachta, which is exactly what heading 0's prose describes.",
+      "chosen_heading": "Asmachta Resolution",
+      "current_heading": "Asmachta Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Conversion to Shelamim",
+    "candidates": [
+      "Conversion to Shelamim",
+      "Fat Tail Law",
+      "Shelamim Laws"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states that the word 'lamb' (kesev) comes to include the Paschal lamb in the fat tail (alyah) requirement, which is precisely what the 'Fat Tail Law' section's prose discusses.",
+      "chosen_heading": "Fat Tail Law",
+      "current_heading": "Conversion to Shelamim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Shelamim Laws",
+    "candidates": [
+      "Fat Tail Law",
+      "Shelamim Laws",
+      "Goat Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly teaches that a Paschal lamb whose year has passed and peace-offerings from a Paschal lamb require smicha, nesachim, and waving of breast and thigh \u2014 exactly the shelamim laws discussed in candidate 1's prose.",
+      "chosen_heading": "Shelamim Laws",
+      "current_heading": "Shelamim Laws",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Goat Exclusion",
+    "candidates": [
+      "Goat Exclusion",
+      "Temurah Timing",
+      "Shechita Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses how 've-im ez' interrupts the matter to teach that a she-goat does not require the fat tail, which is exactly what the 'Goat Exclusion' prose section addresses.",
+      "chosen_heading": "Goat Exclusion",
+      "current_heading": "Goat Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Shechita Effect",
+    "candidates": [
+      "Temurah Timing",
+      "Shechita Effect",
+      "Pesach Hu Teaching",
+      "Non-Obvious Teaching",
+      "Found Before, After",
+      "Refutation Accepted",
+      "Chatas Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 introduces the 'some teach this dispute with regard to the first clause' version, and items 2-5 present Rava's ruling in that version, Abaye's objection, and the refutation \u2014 all of which the prose under 'Temurah Timing' (index 0) explicitly describes as the reversed formulation where Rava's statement applies when the original was found before shechita and the temurah act was also before shechita, matching the content of all five items.",
+      "chosen_heading": "Temurah Timing",
+      "current_heading": "Shechita Effect",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Chatas Parallel",
+    "candidates": [
+      "Pesach Hu Teaching",
+      "Non-Obvious Teaching",
+      "Found Before, After",
+      "Refutation Accepted",
+      "Chatas Parallel",
+      "Chatas Meitot Cases",
+      "Pesach-Relevant Cases",
+      "Reish Lakish View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains exactly Shmuel's principle comparing chatas to pesach and Rabbi Yochanan's qualification about finding the animal after shechita, which is precisely what the 'Chatas Parallel' section's prose introduces and discusses.",
+      "chosen_heading": "Chatas Parallel",
+      "current_heading": "Chatas Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Reish Lakish View",
+    "candidates": [
+      "Chatas Meitot Cases",
+      "Pesach-Relevant Cases",
+      "Reish Lakish View",
+      "Pesach Avar Shnaso",
+      "Principle Fails",
+      "Limited Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Yosef's challenge to Shmuel: Item 1 is Rav Yosef invoking Reish Lakish's ruling about chatas she-avar shnaso going to graze, and Item 2 is the baraita showing that a pesach she-avra shnaso is brought as a shelamim \u2014 together forming the complete objection that the 'Reish Lakish View' prose describes.",
+      "chosen_heading": "Reish Lakish View",
+      "current_heading": "Reish Lakish View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Limited Scope",
+    "candidates": [
+      "Pesach Avar Shnaso",
+      "Principle Fails",
+      "Limited Scope",
+      "Rabbi's View",
+      "Chakhamim's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states Shmuel's principle applies only to 'avudim' (lost animals) and not 'dchuyim' (deferred/pushed aside), which is precisely what the 'Limited Scope' section's prose describes as the Gemara's answer narrowing Shmuel's principle to lost animal cases only.",
+      "chosen_heading": "Limited Scope",
+      "current_heading": "Limited Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Chakhamim's View",
+    "candidates": [
+      "Rabbi's View",
+      "Chakhamim's View",
+      "Chatas Scenarios",
+      "Pesach Translation",
+      "Perfect Match",
+      "Says Same Thing",
+      "Chatzot Alternative",
+      "Chatzot Disagreement",
+      "No Roeh",
+      "Always Shelamim",
+      "Time, Not Shechita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the full mishna/braitta presenting both Rabbi's and the Rabbis' views as a single unit, and it is introduced as the Gemara's challenge regarding 'lost' sacrifices \u2014 this is the foundational text that the 'Rabbi's View' section explicitly describes as examining, making it the natural home for the complete quoted source before the essay separates out the two positions.",
+      "chosen_heading": "Rabbi's View",
+      "current_heading": "Chakhamim's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Time, Not Shechita",
+    "candidates": [
+      "Chatas Scenarios",
+      "Pesach Translation",
+      "Perfect Match",
+      "Says Same Thing",
+      "Chatzot Alternative",
+      "Chatzot Disagreement",
+      "No Roeh",
+      "Always Shelamim",
+      "Time, Not Shechita",
+      "Night Analogy",
+      "Rava's Principle",
+      "Pesach Analogy",
+      "After Chatzot Rule",
+      "Chatzot Determines",
+      "Shechita Determines",
+      "Avud Framework",
+      "Perfect Parallel",
+      "Before/After Shechita",
+      "Redundancy Again",
+      "Rejected Interpretation",
+      "Rabbi Position Final",
+      "Before Chatzot Excluded",
+      "Chatzot Determines Status",
+      "Time-Based Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 13,
+      "confidence": "medium",
+      "reason": "The entire passage builds toward and explicitly establishes that chatzot (not shechita) is the determinative moment for Shmuel \u2014 items 7, 9, and 10 all explicitly conclude 'chatzot kava' \u2014 which is precisely what the 'Chatzot Determines' section prose describes as the Gemara's core articulation.",
+      "chosen_heading": "Chatzot Determines",
+      "current_heading": "Time, Not Shechita",
+      "moved": true
+    }
+  }
+]

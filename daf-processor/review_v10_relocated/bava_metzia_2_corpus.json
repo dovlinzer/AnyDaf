@@ -1,0 +1,270 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Two Holding Tallis",
+    "candidates": [
+      "Masechet Overview",
+      "Two Holding Tallis",
+      "Oath Formulation",
+      "Oath Function",
+      "Chashud Amamona",
+      "Rationalization",
+      "One All, One Half"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the opening mishna of Bava Metzia describing two people holding a garment, each claiming to have found it, and the ruling that they divide it after swearing \u2014 exactly what the 'Two Holding Tallis' section's prose introduces and discusses.",
+      "chosen_heading": "Two Holding Tallis",
+      "current_heading": "Two Holding Tallis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "One All, One Half",
+    "candidates": [
+      "Oath Formulation",
+      "Oath Function",
+      "Chashud Amamona",
+      "Rationalization",
+      "One All, One Half",
+      "Migo Question",
+      "Muchzak Doctrine",
+      "Animal Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishnah's variant case where one claims all and the other claims half, with the resulting three-quarter/one-quarter split and corresponding oaths \u2014 exactly what the 'One All, One Half' section's prose describes.",
+      "chosen_heading": "One All, One Half",
+      "current_heading": "One All, One Half",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Animal Case",
+    "candidates": [
+      "Migo Question",
+      "Muchzak Doctrine",
+      "Animal Case",
+      "Agreement & Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text about two people riding or leading an animal, which is precisely what the 'Animal Case' prose introduces and discusses.",
+      "chosen_heading": "Animal Case",
+      "current_heading": "Animal Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Agreement & Witnesses",
+    "candidates": [
+      "Agreement & Witnesses",
+      "Double Phrasing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses dividing without an oath when parties admit or have witnesses, which is precisely what candidate 0's prose addresses as the mishnah's concluding provision.",
+      "chosen_heading": "Agreement & Witnesses",
+      "current_heading": "Agreement & Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Double Phrasing",
+    "candidates": [
+      "Double Phrasing",
+      "Finding = Possession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the gemara's structural question about why the mishnah states two separate formulations and the answer that they constitute one compound claim \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Double Phrasing",
+      "current_heading": "Double Phrasing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Finding = Possession",
+    "candidates": [
+      "Finding = Possession",
+      "Metzia vs. Purchase"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the gemara's analysis of why the mishnah uses both 'I found it' and 'all of it is mine,' specifically addressing whether sight alone constitutes acquisition (re'iya lo kani), which is precisely what the 'Finding = Possession' prose section describes in detail.",
+      "chosen_heading": "Finding = Possession",
+      "current_heading": "Finding = Possession",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Metzia vs. Purchase",
+    "candidates": [
+      "Metzia vs. Purchase",
+      "Metzia Rationalization",
+      "Purchase Rationalization"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's statement distinguishing the first clause (metziah) from the second clause (mekach u-memkar), which is precisely what the 'Metzia vs. Purchase' section's prose discusses as the authoritative answer.",
+      "chosen_heading": "Metzia vs. Purchase",
+      "current_heading": "Metzia vs. Purchase",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Purchase Rationalization",
+    "candidates": [
+      "Metzia Rationalization",
+      "Purchase Rationalization",
+      "Merchant Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the tzricha argument explaining why both metziah and mekach u-memkar must be taught \u2014 items 2 and 3 give the metziah rationalization and the purchase rationalization respectively, but the full tzricha unit (including item 1's introduction) belongs under the 'Metzia Rationalization' heading, which is the section that opens the tzricha discussion by presenting the metziah side first, exactly matching the logical flow of items 1-3.",
+      "chosen_heading": "Metzia Rationalization",
+      "current_heading": "Purchase Rationalization",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Merchant Case",
+    "candidates": [
+      "Purchase Rationalization",
+      "Merchant Case",
+      "Ben Nanas Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's question about whose money the merchant accepted and the answer about taking money from both parties \u2014 exactly what the 'Merchant Case' prose describes.",
+      "chosen_heading": "Merchant Case",
+      "current_heading": "Merchant Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Ben Nanas Objection",
+    "candidates": [
+      "Ben Nanas Objection",
+      "Possible Honest Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the ben Nannas objection itself \u2014 the challenge that the mishna may conflict with ben Nannas's view and the supporting case from Shevuot \u2014 which is exactly what heading 0 ('Ben Nanas Objection') describes in its prose.",
+      "chosen_heading": "Ben Nanas Objection",
+      "current_heading": "Ben Nanas Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Possible Honest Oath",
+    "candidates": [
+      "Possible Honest Oath",
+      "Sumchus on Doubt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's rejection of the Ben Nannas objection by distinguishing the two cases \u2014 certain false oath versus possible truthful oath through simultaneous lifting \u2014 which is precisely what the 'Possible Honest Oath' section's prose explains.",
+      "chosen_heading": "Possible Honest Oath",
+      "current_heading": "Possible Honest Oath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Sumchus on Doubt",
+    "candidates": [
+      "Sumchus on Doubt",
+      "Shema vs. Bari",
+      "Drara Demamona",
+      "Sumchus Exception",
+      "Kal Vachomer Setup",
+      "Unfaithful Psak",
+      "More Truthful Here",
+      "Unresolved Tension"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Sumchus on Doubt",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover exactly the Sumakhos challenge, the Rabbanan objection, and the 'both grasping' distinction that heading 0's prose explicitly describes.",
+      "second_heading": "Shema vs. Bari",
+      "second_confidence": "high",
+      "second_reason": "Item 5 onward begins the shema/bari distinction that heading 1 ('Shema vs. Bari') explicitly discusses, marking a new sub-discussion within the Sumakhos debate.",
+      "current_heading": "Sumchus on Doubt",
+      "moved": true
+    }
+  }
+]

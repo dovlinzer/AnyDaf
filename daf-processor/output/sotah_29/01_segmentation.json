@@ -180,7 +180,7 @@
           "timestamp": "41:19"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -204,8 +204,8 @@
           "timestamp": "48:42"
         }
       ],
-      "sefaria_index": 24,
-      "matched": true
+      "sefaria_index": 16,
+      "matched": false
     },
     {
       "title": "Extending the logic to Kodesh: Revi'i BeKodesh from Kal VaChomer",
@@ -516,5 +516,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "37:22",
+  "amud_b_micro_title": "Combined Sources",
+  "shiur_start_daf": 28,
+  "shiur_start_amud": "b"
 }

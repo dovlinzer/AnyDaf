@@ -1,0 +1,320 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Reshus Harabim",
+    "candidates": [
+      "Intro: Lulav on Shabbat",
+      "Rabba's Gezeirah",
+      "Shofar & Megillah",
+      "Reshus Harabim",
+      "Question on First Day",
+      "Biblical vs. Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabba's gezeirah \u2014 the concern about carrying four cubits in reshus harabim \u2014 which is precisely what candidate 1 ('Rabba's Gezeirah') describes, including the extension to shofar and megillah mentioned in its prose; the current placement under 'Reshus Harabim' is a side discussion that follows from this passage, not the passage itself.",
+      "chosen_heading": "Rabba's Gezeirah",
+      "current_heading": "Reshus Harabim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Biblical vs. Rabbinic",
+    "candidates": [
+      "Question on First Day",
+      "Biblical vs. Rabbinic",
+      "Takanah of Bringing Home",
+      "Practice Outside Israel",
+      "Practice in Israel",
+      "Mishna Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Takanah of Bringing Home",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the question about the first day and the resolution via the biblical/rabbinic distinction (takanah and pre-takanah), matching the 'Takanah of Bringing Home' prose which explicitly covers the kodem ha-takkana question and then states the operative principle of rishon d'isah minei haTorah bigvulin.",
+      "second_heading": "Practice Outside Israel",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the question about contemporary practice and the uncertainty about the calendar month, which exactly matches the 'Practice Outside Israel' prose discussing anan lo yedinan bekivu'a deyarcha and the challenge from those in Eretz Yisrael who do know.",
+      "current_heading": "Biblical vs. Rabbinic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Mishna Proof",
+    "candidates": [
+      "Takanah of Bringing Home",
+      "Practice Outside Israel",
+      "Practice in Israel",
+      "Mishna Proof",
+      "Tosafos: Shofar vs. Lulav",
+      "Source: Ulekachtem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the two mishnayos about bringing lulavim to the Temple Mount vs. the synagogue and resolves the contradiction by distinguishing Temple-era from post-Temple-era practice, which is precisely what the 'Mishna Proof' section's prose describes.",
+      "chosen_heading": "Mishna Proof",
+      "current_heading": "Mishna Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Source: Ulekachtem",
+    "candidates": [
+      "Tosafos: Shofar vs. Lulav",
+      "Source: Ulekachtem",
+      "Bayom Derivation",
+      "Eliezer's Chiddush",
+      "Majority View",
+      "Yamim Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the baraita on 'ulekachtem' and the immediate gemara challenge about why a verse is needed to permit muktzah \u2014 exactly the content described in the 'Source: Ulekachtem' prose, which explicitly walks through the same derivations (ulekachtem, lachem, bayom/Shabbos, harishon) and raises the michdi tiltul/asmachta problem that leads into Rava's answer about machshirei lulav.",
+      "chosen_heading": "Source: Ulekachtem",
+      "current_heading": "Source: Ulekachtem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Yamim Analysis",
+    "candidates": [
+      "Bayom Derivation",
+      "Eliezer's Chiddush",
+      "Majority View",
+      "Yamim Analysis",
+      "Gezeira Shava Teshvu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what candidate 3 describes: Rabbi Eliezer deriving the daytime restriction from 'yamim' at the end of the verse, and the sages' counter-argument that 'yamim' by lulav could be derived from 'yamim' by sukkah (which includes nights) via gezeira shava \u2014 matching the 'Yamim Analysis' prose precisely.",
+      "chosen_heading": "Yamim Analysis",
+      "current_heading": "Yamim Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Gezeira Shava Teshvu",
+    "candidates": [
+      "Gezeira Shava Teshvu",
+      "Continuous vs. Momentary",
+      "Sukkah Conclusion",
+      "Publicize as Biblical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form the continuous baraita deriving that sukkah applies at night via the gezeira shava on teshvu from miluim, which is precisely what the 'Gezeira Shava Teshvu' section's prose describes.",
+      "chosen_heading": "Gezeira Shava Teshvu",
+      "current_heading": "Gezeira Shava Teshvu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Publicize as Biblical",
+    "candidates": [
+      "Continuous vs. Momentary",
+      "Sukkah Conclusion",
+      "Publicize as Biblical",
+      "Challenge: Lulav Too",
+      "Public vs. Limited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the question of why aravah overrides Shabbat and Rabbi Yochanan's answer about publicizing its biblical status, along with the immediate challenge about lulav \u2014 exactly what the 'Publicize as Biblical' prose describes as the gemara's opening discussion of the aravah section.",
+      "chosen_heading": "Publicize as Biblical",
+      "current_heading": "Publicize as Biblical",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Public vs. Limited",
+    "candidates": [
+      "Challenge: Lulav Too",
+      "Public vs. Limited",
+      "Why Day Seven Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses why lulav is prohibited on Shabbat (Rabba's decree) versus willow branch (handled by court agents vs. incumbent on everyone), which is precisely what the 'Public vs. Limited' section's prose discusses.",
+      "chosen_heading": "Public vs. Limited",
+      "current_heading": "Public vs. Limited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Why Day Seven Only",
+    "candidates": [
+      "Why Day Seven Only",
+      "Day Seven Distinct"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why aravah overrides Shabbos only on day seven and not every day, and why it cannot simply coincide with lulav on day one \u2014 exactly the content described in the 'Why Day Seven Only' prose.",
+      "chosen_heading": "Why Day Seven Only",
+      "current_heading": "Why Day Seven Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Day Seven Distinct",
+    "candidates": [
+      "Day Seven Distinct",
+      "Question: Why Not Now"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why day seven is chosen over other intermediate days once day one is excluded, which is precisely what the 'Day Seven Distinct' section's prose discusses with the phrase 'kivan d'kamfatkeis lomei rishon, ukmah shevi'i.'",
+      "chosen_heading": "Day Seven Distinct",
+      "current_heading": "Day Seven Distinct",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Question: Why Not Now",
+    "candidates": [
+      "Question: Why Not Now",
+      "Bar Hadya Report",
+      "Lo Adu Rosh",
+      "Ravin's Testimony",
+      "Altar vs. Marching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong together under 'Question: Why Not Now' \u2014 item 1 raises the question about today and answers with uncertainty about the calendar, and item 2 continues the same thread by asking about Eretz Yisrael and reporting Bar Hedya's and Ravin's answers, all of which the prose of heading 0 explicitly anticipates and describes.",
+      "chosen_heading": "Question: Why Not Now",
+      "current_heading": "Question: Why Not Now",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Altar vs. Marching",
+    "candidates": [
+      "Bar Hadya Report",
+      "Lo Adu Rosh",
+      "Ravin's Testimony",
+      "Altar vs. Marching",
+      "Abaaye's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's exact statement that the aravah mitzva may be performed by zekifah (standing upright) rather than netilah (taking), which is precisely what the 'Altar vs. Marching' section's prose describes and analyzes.",
+      "chosen_heading": "Altar vs. Marching",
+      "current_heading": "Altar vs. Marching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Abaaye's Objection",
+    "candidates": [
+      "Abaaye's Objection",
+      "Explicit Marching",
+      "Lulav vs. Aravah",
+      "Marching with Lulav"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaaye's Objection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's first objection from the lulav/aravah mishna and Rav Yosef's deflection, which matches exactly the prose of candidate 0 ('Abaye's Objection').",
+      "second_heading": "Explicit Marching",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's second objection about the marching/circling ritual and the ensuing dispute among Amoraim about whether it was performed with lulav or aravah, which matches candidates 1 and 2 \u2014 but since the gemara text contains both the objection and the deflection/dispute in one continuous exchange, candidate 1 ('Explicit Marching') is the better single home as it introduces this new objection and candidate 2's prose is actually part of the same continuous exchange described in item 2.",
+      "current_heading": "Abaaye's Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Marching with Lulav",
+    "candidates": [
+      "Explicit Marching",
+      "Lulav vs. Aravah",
+      "Marching with Lulav",
+      "Altar Ritual Missing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's citation of Rabbi Elazar's teaching that the marching was with the lulav, which matches exactly the prose in 'Marching with Lulav' describing this specific teaching.",
+      "chosen_heading": "Marching with Lulav",
+      "current_heading": "Marching with Lulav",
+      "moved": false
+    }
+  }
+]

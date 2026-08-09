@@ -1,0 +1,325 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Shor Weightier Points",
+    "candidates": [
+      "Opening Context",
+      "Negligence Principle",
+      "Fire Exemption Debate",
+      "Shor vs Bor Setup",
+      "Shor Weightier Points",
+      "Shor Characteristics",
+      "Bor Weightier Points",
+      "Shor vs Fire Setup",
+      "Shor Fire Penalties",
+      "Fire Weightier Fire"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shor vs Bor Setup",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita comparing Shor vs Bor with all its specifics, matching candidate 3 ('Shor vs Bor Setup') whose prose explicitly introduces this braita and its opening formulation about shor vs bor stringencies.",
+      "second_heading": "Shor vs Fire Setup",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce the new comparison between Shor and Esh (fire), which is a structural shift to a new section matching candidate 7 ('Shor vs Fire Setup') whose prose explicitly introduces the braita's turn to comparing shor to esh in both directions.",
+      "current_heading": "Shor Weightier Points",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Fire Weightier Fire",
+    "candidates": [
+      "Shor Characteristics",
+      "Bor Weightier Points",
+      "Shor vs Fire Setup",
+      "Shor Fire Penalties",
+      "Fire Weightier Fire",
+      "Bor vs Fire Setup",
+      "Bor Fire Inherent",
+      "Fire Unfit Items",
+      "Keilim Omission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items introduce and elaborate the bor-vs-esh comparison (chomer bebor mibe'esh and chomer be'esh mibabor), which is precisely the setup described in candidate 5 ('Bor vs Fire Setup') \u2014 the braita now addressing the one remaining pair of bor versus esh.",
+      "chosen_heading": "Bor vs Fire Setup",
+      "current_heading": "Fire Weightier Fire",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Keilim Omission",
+    "candidates": [
+      "Bor vs Fire Setup",
+      "Bor Fire Inherent",
+      "Fire Unfit Items",
+      "Keilim Omission",
+      "Rabbi Yehuda Position",
+      "Unfit Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question about why the baraita omitted the keilim distinction between shor and bor, which is precisely what the 'Keilim Omission' section's prose describes.",
+      "chosen_heading": "Keilim Omission",
+      "current_heading": "Keilim Omission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Unfit Definition",
+    "candidates": [
+      "Rabbi Yehuda Position",
+      "Unfit Definition",
+      "Incomplete List Theory",
+      "Tamun Omission",
+      "Tosafot Unlikely Damage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly identifies the baraita as following Rabbi Yehuda's opinion that one is liable for vessel damage caused by a pit, which is precisely what candidate 0 ('Rabbi Yehuda Position') discusses in its prose.",
+      "chosen_heading": "Rabbi Yehuda Position",
+      "current_heading": "Unfit Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Tosafot Unlikely Damage",
+    "candidates": [
+      "Incomplete List Theory",
+      "Tamun Omission",
+      "Tosafot Unlikely Damage",
+      "Psulei Mukdashim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This passage challenges the attribution of the baraita to Rabbi Yehuda by pointing out that the latter clause implies bor is exempt for keilim, contradicting Rabbi Yehuda's view \u2014 this is the setup that leads to the 'Incomplete List Theory' answer (the baraita follows the Rabbanan), which is exactly what the 'Incomplete List Theory' prose section discusses.",
+      "chosen_heading": "Incomplete List Theory",
+      "current_heading": "Tosafot Unlikely Damage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Psulei Mukdashim",
+    "candidates": [
+      "Tosafot Unlikely Damage",
+      "Psulei Mukdashim",
+      "Partial Preparation",
+      "Two Diggers Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Psulei Mukdashim",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 form a continuous Talmudic discussion about whether the baraita follows Rabbanan or Rabbi Yehuda, Rav Ashi's objection regarding psulei hamukdashim, and the dash binira response \u2014 all of which match precisely the prose of the 'Psulei Mukdashim' section.",
+      "second_heading": "Partial Preparation",
+      "second_confidence": "high",
+      "second_reason": "Item 6 introduces the mishna's phrase 'hichsharti bemiktzat nizko,' which is exactly the topic the 'Partial Preparation' section's prose describes as the next unit of discussion.",
+      "current_heading": "Psulei Mukdashim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Two Diggers Case",
+    "candidates": [
+      "Partial Preparation",
+      "Two Diggers Case",
+      "Rabbi vs Rabbanan",
+      "Transformation Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items deal with the two-diggers case (nine then ten tefachim), the ruling that the latter is liable, the contrast with Rabbi's view, and Rav Pappa's clarification \u2014 exactly what the 'Two Diggers Case' prose describes.",
+      "chosen_heading": "Two Diggers Case",
+      "current_heading": "Two Diggers Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Transformation Principle",
+    "candidates": [
+      "Rabbi vs Rabbanan",
+      "Transformation Principle",
+      "Liability Levels",
+      "Zeira Challenge",
+      "Five Watchers",
+      "Fire Addition",
+      "Tosafot Fire Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Liability Levels",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Pappa's clarification that the baraita refers to death liability and is unanimous \u2014 precisely what the 'Liability Levels' prose describes as Rav Pappa's lemisa divrei hakol point.",
+      "second_heading": "Zeira Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Zeira's objection asking whether there are additional cases, which is exactly what the 'Zeira Challenge' prose describes as his v'tu leka challenge.",
+      "current_heading": "Transformation Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Tosafot Fire Analysis",
+    "candidates": [
+      "Liability Levels",
+      "Zeira Challenge",
+      "Five Watchers",
+      "Fire Addition",
+      "Tosafot Fire Analysis",
+      "Six on Bench",
+      "Bench Conditions",
+      "Acceleration Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items discuss the 'marbe be-chavila' (fire augmentation) case \u2014 items 1-2 introduce the objection and items 3-4 apply the same two-scenario analysis (would/would not have spread without him) \u2014 which is precisely what candidate 3 'Fire Addition' describes in its prose.",
+      "chosen_heading": "Fire Addition",
+      "current_heading": "Tosafot Fire Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Acceleration Principle",
+    "candidates": [
+      "Six on Bench",
+      "Bench Conditions",
+      "Acceleration Principle",
+      "Holding Down"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items together form the continuous dialectical exchange about the bench-breaking scenario \u2014 the objection, the two-scenario challenge, the acceleration resolution, and the counter-argument \u2014 which is precisely what the 'Acceleration Principle' prose describes in detail.",
+      "chosen_heading": "Acceleration Principle",
+      "current_heading": "Acceleration Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Holding Down",
+    "candidates": [
+      "Holding Down",
+      "Kocho Principle",
+      "Ten Beatings Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single chain of question-answer-explanation developing the kocho kegufoy dami principle \u2014 the bench breaks as he leans on others, the objection that this is obvious, and the resolution that kocho equals gufoy \u2014 which matches the 'Kocho Principle' prose perfectly, while the current 'Holding Down' prose describes a different scenario (restraining someone from rising) than what these items discuss (leaning on others causing the bench to break instantly).",
+      "chosen_heading": "Kocho Principle",
+      "current_heading": "Holding Down",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Ten Beatings Setup",
+    "candidates": [
+      "Kocho Principle",
+      "Ten Beatings Setup",
+      "Sequential Causation",
+      "Gemara Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita about ten people beating with sticks (all exempt / Rabbi Yehuda ben Beteira's ruling), which is precisely what the 'Ten Beatings Setup' prose describes, and the Gemara's framing here is questioning why the baraita didn't mention this case \u2014 fitting the setup context rather than the resolution context.",
+      "chosen_heading": "Ten Beatings Setup",
+      "current_heading": "Ten Beatings Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Gemara Resolution",
+    "candidates": [
+      "Sequential Causation",
+      "Gemara Resolution",
+      "Contributory Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Gemara Resolution' prose: item 1 matches 'b'ktala ka mairy' (not dealing with death penalty) and item 2 matches 'd'plugta lo ka mairy' and 'lo mukminan' regarding not establishing a mishna per Rabbi Yehuda ben Beseira against the Rabbanan.",
+      "chosen_heading": "Gemara Resolution",
+      "current_heading": "Gemara Resolution",
+      "moved": false
+    }
+  }
+]

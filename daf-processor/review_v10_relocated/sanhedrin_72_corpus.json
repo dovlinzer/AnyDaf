@@ -1,0 +1,343 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Torah Source",
+    "candidates": [
+      "Perek 8 Overview",
+      "Nidon Al Shem Sofo",
+      "Torah Source",
+      "Reframing Nidon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text introduces 'nidon al shem sofo' and the 'yesh/ein lo damim' distinction, which is exactly what the 'Nidon Al Shem Sofo' section's prose discusses as its primary subject matter.",
+      "chosen_heading": "Nidon Al Shem Sofo",
+      "current_heading": "Torah Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Reframing Nidon",
+    "candidates": [
+      "Torah Source",
+      "Reframing Nidon",
+      "Qim Lei Expansion",
+      "Two Models",
+      "Rav's Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's explanation of the rationale behind the machteret law \u2014 the burglar's presumed lethal intent and the Torah's principle of preemptive self-defense \u2014 which is precisely what the 'Reframing Nidon' section's prose discusses in detail.",
+      "chosen_heading": "Reframing Nidon",
+      "current_heading": "Reframing Nidon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Rav's Statement",
+    "candidates": [
+      "Qim Lei Expansion",
+      "Two Models",
+      "Rav's Statement",
+      "Rava's Limitation",
+      "Ownership vs Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are Rav's ruling about the burglar who took vessels and Rava's immediate qualification of it, which is precisely what the 'Rav's Statement' section prose describes in detail.",
+      "chosen_heading": "Rav's Statement",
+      "current_heading": "Rav's Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Ownership vs Liability",
+    "candidates": [
+      "Rava's Limitation",
+      "Ownership vs Liability",
+      "Broken Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact Gemara text (ve-lo hee / ki ukimna rachmana bi-reshutei le-inyan onsin / aval le-inyan miknei bi-reshuta de-marei kai) that the 'Ownership vs Liability' prose explicitly quotes, paraphrases, and analyzes in detail, making it the clear home for this item.",
+      "chosen_heading": "Ownership vs Liability",
+      "current_heading": "Ownership vs Liability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Broken Vessels",
+    "candidates": [
+      "Broken Vessels",
+      "Taking vs Breaking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the mishna's case of breaking the barrel versus taking it, and the Gemara's defense of Rav \u2014 exactly what the 'Broken Vessels' prose describes in detail.",
+      "chosen_heading": "Broken Vessels",
+      "current_heading": "Broken Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Taking vs Breaking",
+    "candidates": [
+      "Taking vs Breaking",
+      "Simultaneous Violations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's objection that the mishna's chidush is unclear since adam muad le-olam already covers unintentional damage, concluding with 'kashya' \u2014 exactly what the prose under 'Taking vs Breaking' describes.",
+      "chosen_heading": "Taking vs Breaking",
+      "current_heading": "Taking vs Breaking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Simultaneous Violations",
+    "candidates": [
+      "Simultaneous Violations",
+      "Wallet Must Return",
+      "Rava's Rams Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Simultaneous Violations",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the baraita about stealing a purse on Shabbat (simultaneous vs. sequential violations), which is exactly what candidate 0's prose discusses in detail.",
+      "second_heading": "Wallet Must Return",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the halakhic resolution ('ve-hilchata de-shadinu be-nahara') that the wallet was thrown in the river, which is precisely what candidate 1's prose describes as the Gemara's practical ruling resolving the apparent contradiction.",
+      "current_heading": "Simultaneous Violations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rava's Rams Story",
+    "candidates": [
+      "Wallet Must Return",
+      "Rava's Rams Story",
+      "Conflicting Baraitot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the exact episode of Rava's rams being stolen and returned, which is precisely what the 'Rava's Rams Story' section's prose discusses in detail.",
+      "chosen_heading": "Rava's Rams Story",
+      "current_heading": "Rava's Rams Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Conflicting Baraitot",
+    "candidates": [
+      "Conflicting Baraitot",
+      "Father-Son Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the two conflicting baraitot about the sun imagery and the uncertainty case, which is precisely what the 'Conflicting Baraitot' prose describes \u2014 the tension between the two baraitot is noted at the end of item 2 ('kashya setama a-setama'), and the resolution (father-son distinction) belongs under the next heading.",
+      "chosen_heading": "Conflicting Baraitot",
+      "current_heading": "Conflicting Baraitot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Father-Son Distinction",
+    "candidates": [
+      "Father-Son Distinction",
+      "Love vs Threat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's resolution (lo kashya) distinguishing father-on-son from son-on-father cases, which is precisely what the 'Father-Son Distinction' prose describes in detail.",
+      "chosen_heading": "Father-Son Distinction",
+      "current_heading": "Father-Son Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Love vs Threat",
+    "candidates": [
+      "Love vs Threat",
+      "Killing Permitted",
+      "Court Punishment Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rav's exception for Rav \u1e24anina bar Sheila based on personal certainty of fatherly love is precisely the content discussed in the 'Love vs Threat' prose, which directly references this same Gemara passage with the same details.",
+      "chosen_heading": "Love vs Threat",
+      "current_heading": "Love vs Threat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Court Punishment Model",
+    "candidates": [
+      "Killing Permitted",
+      "Court Punishment Model",
+      "Obligation Save Life"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita itself simply states the rule that both 'yesh lo damim' and 'ein lo damim' apply on Shabbat as well as weekdays, which is exactly what the 'Killing Permitted' section's prose describes; the 'Court Punishment Model' prose discusses the Gemara's subsequent analysis of why the baraita needs to state the ein lo damim clause, not the baraita itself.",
+      "chosen_heading": "Killing Permitted",
+      "current_heading": "Court Punishment Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Obligation Save Life",
+    "candidates": [
+      "Court Punishment Model",
+      "Obligation Save Life",
+      "Third Party Intervention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's analysis of why the baraita needs to state 'ein lo damim' applies on Shabbat (the court-punishment hava amina) and the follow-up question about 'yesh lo damim' on Shabbat with Rav Sheshet's answer \u2014 this entire sugya is explicitly discussed under the 'Court Punishment Model' prose, which quotes the exact Aramaic phrases and explains the hava amina logic, whereas the current heading 'Obligation Save Life' discusses the Rav Sheshet ruling in isolation without the framing question that precedes it.",
+      "chosen_heading": "Court Punishment Model",
+      "current_heading": "Obligation Save Life",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Third Party Intervention",
+    "candidates": [
+      "Third Party Intervention",
+      "Any Means Necessary",
+      "Murderer Execution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Third Party Intervention",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses why 'and is smitten by any person' was necessary \u2014 the third-party intervention question and the rodef status \u2014 which matches exactly the prose of candidate 0 ('Third Party Intervention').",
+      "second_heading": "Any Means Necessary",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the question 'why do I need' the phrase 'by any death you can put him to death,' which is precisely the question that candidate 1 ('Any Means Necessary') opens with.",
+      "current_heading": "Third Party Intervention",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Murderer Execution",
+    "candidates": [
+      "Any Means Necessary",
+      "Murderer Execution",
+      "Beyond Literal Tunnel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss deriving the 'any means of execution' rule from the murderer's case (mot yumat) and why it cannot serve as a general derivation due to shnei ketuvim ha-ba'im ke-echad \u2014 exactly what the 'Murderer Execution' prose describes in detail.",
+      "chosen_heading": "Murderer Execution",
+      "current_heading": "Murderer Execution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Beyond Literal Tunnel",
+    "candidates": [
+      "Beyond Literal Tunnel",
+      "Tunnel as Warning",
+      "Back Door Hatraa"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beyond Literal Tunnel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concludes with 'most thieves are found breaking in' \u2014 the descriptive/non-restrictive point \u2014 matching exactly the prose of heading 0 ('Beyond Literal Tunnel').",
+      "second_heading": "Tunnel as Warning",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concludes with 'machterato zo hi hatraato \u2014 his breaking in is his forewarning,' which is precisely the subject of heading 1 ('Tunnel as Warning') and its prose about that phrase.",
+      "current_heading": "Beyond Literal Tunnel",
+      "moved": true
+    }
+  }
+]

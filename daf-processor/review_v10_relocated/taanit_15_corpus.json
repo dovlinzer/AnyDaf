@@ -1,0 +1,196 @@
+[
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rend Your Heart",
+    "candidates": [
+      "Ch. Overview",
+      "Mishna Structure",
+      "Teiva & Eifer",
+      "Leadership Mourning",
+      "Individual Ashes",
+      "Outdoor Ritual",
+      "Words of Kibushan",
+      "Rend Your Heart",
+      "Teshuva Focus",
+      "Zakein Veragil",
+      "Qualifications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage contains the actual text of the elder's divrei kivushin contrasting God's response to Nineveh's deeds vs. their sackcloth/fasting, which is precisely what the 'Words of Kibushan' prose section discusses.",
+      "chosen_heading": "Words of Kibushan",
+      "current_heading": "Rend Your Heart",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Qualifications",
+    "candidates": [
+      "Teshuva Focus",
+      "Zakein Veragil",
+      "Qualifications",
+      "Rent vs. Whole",
+      "Six Additions",
+      "Zichronot/Shofrot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna text about appointing an elder prayer leader (zakein veragil) with children and an empty house, which directly corresponds to the 'Zakein Veragil' section's prose discussing amdu bitfilah and the appointment of a shliach tzibbur who is zakein veragil \u2014 the 'Qualifications' section discusses the additional qualities (banim/reikam) which come after this introductory appointment text.",
+      "chosen_heading": "Zakein Veragil",
+      "current_heading": "Qualifications",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Zichronot/Shofrot",
+    "candidates": [
+      "Rent vs. Whole",
+      "Six Additions",
+      "Zichronot/Shofrot",
+      "Rabbi Yehuda",
+      "Psalmic Texts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the twenty-four blessings structure (eighteen standard plus six additions), which directly matches the 'Six Additions' section's prose about u'mosif aleihem od sheish, whereas the current placement under 'Zichronot/Shofrot' is a subsequent section that discusses the content of those additions after the structural introduction.",
+      "chosen_heading": "Six Additions",
+      "current_heading": "Zichronot/Shofrot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Psalmic Texts",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Psalmic Texts",
+      "Dispute Analysis",
+      "Abraham Formula"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehuda's direct statement about not reciting Remembrances and Shofarot and substituting different texts, which belongs under the 'Rabbi Yehuda' heading whose prose explicitly introduces his position, rather than the 'Psalmic Texts' heading which analyzes the content of his substitutions.",
+      "chosen_heading": "Rabbi Yehuda",
+      "current_heading": "Psalmic Texts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Abraham Formula",
+    "candidates": [
+      "Dispute Analysis",
+      "Abraham Formula",
+      "Sea Formula",
+      "Gilgal Formula",
+      "Samuel Formula",
+      "Elijah Formula",
+      "Jonah Formula",
+      "David/Solomon",
+      "Rashi Analysis",
+      "Shofar Blowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present the complete set of seven 'mi she'ana' closing formulas for the six additional blessings, which is exactly what the 'Abraham Formula' section's prose introduces and discusses as a unified liturgical unit.",
+      "chosen_heading": "Abraham Formula",
+      "current_heading": "Abraham Formula",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Shofar Blowing",
+    "candidates": [
+      "Sea Formula",
+      "Gilgal Formula",
+      "Samuel Formula",
+      "Elijah Formula",
+      "Jonah Formula",
+      "David/Solomon",
+      "Rashi Analysis",
+      "Shofar Blowing",
+      "Rabbinic Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage describes the incident with Rabbi \u1e24alafta and Rabbi \u1e24ananya ben Teradyon where someone led prayer before the ark with shofar blasts interspersed with the mi she'ana formulas, which is precisely what the 'Shofar Blowing' section's prose analyzes in detail.",
+      "chosen_heading": "Shofar Blowing",
+      "current_heading": "Shofar Blowing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Rabbinic Limit",
+    "candidates": [
+      "Rabbinic Limit",
+      "First 3 Fasts",
+      "Middle 3 Fasts",
+      "Last 7 Fasts",
+      "Rabbi Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Sages ruling that the described practice was restricted to the Eastern Gate and Temple Mount, which is precisely what the 'Rabbinic Limit' section's prose discusses and analyzes.",
+      "chosen_heading": "Rabbinic Limit",
+      "current_heading": "Rabbinic Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Rabbi Yehoshua",
+    "candidates": [
+      "First 3 Fasts",
+      "Middle 3 Fasts",
+      "Last 7 Fasts",
+      "Rabbi Yehoshua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yehoshua's view and the Rabbis' opposing view, which is exactly what candidate 3 ('Rabbi Yehoshua') discusses \u2014 the comparison between Rabbi Yehoshua's scheme and the sages' less stringent position across all three sets of fasts.",
+      "chosen_heading": "Rabbi Yehoshua",
+      "current_heading": "Rabbi Yehoshua",
+      "moved": false
+    }
+  }
+]

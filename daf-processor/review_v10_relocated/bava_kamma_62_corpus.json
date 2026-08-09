@@ -1,0 +1,470 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Damage Type Liability",
+    "candidates": [
+      "Intro: Tamun Machlokes",
+      "Golden Coin Case",
+      "Damage Type Liability",
+      "Mordechai's Sword Case",
+      "Deception Distinction",
+      "Baraita vs. Rava",
+      "Wheat-Barley Mix",
+      "Baraita Ruling",
+      "Parallel Conclusion",
+      "Rav's Forgotten Ruling",
+      "Reminder of Yehuda",
+      "Nigzal Oath Mechanism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together form the exchange where Rav Mordechai challenges Rav Ashi about why Rava's ruling is needed when a baraita already establishes the same principle \u2014 exactly what heading 5 ('Baraita vs. Rava') describes in its prose.",
+      "chosen_heading": "Baraita vs. Rava",
+      "current_heading": "Damage Type Liability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Nigzal Oath Mechanism",
+    "candidates": [
+      "Mordechai's Sword Case",
+      "Deception Distinction",
+      "Baraita vs. Rava",
+      "Wheat-Barley Mix",
+      "Baraita Ruling",
+      "Parallel Conclusion",
+      "Rav's Forgotten Ruling",
+      "Reminder of Yehuda",
+      "Nigzal Oath Mechanism",
+      "Why Nigzal Needed",
+      "Moser Question",
+      "Moser Definition",
+      "Dina Demalchusa Dina",
+      "Moser as Gezel",
+      "Garmi & Nigzal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage explains exactly what Rav had forgotten \u2014 the takanat nigzal applied to fire cases per Rabbi Yehuda's shita \u2014 which is precisely what heading 8 ('Nigzal Oath Mechanism') describes as its content.",
+      "chosen_heading": "Nigzal Oath Mechanism",
+      "current_heading": "Nigzal Oath Mechanism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Garmi & Nigzal",
+    "candidates": [
+      "Why Nigzal Needed",
+      "Moser Question",
+      "Moser Definition",
+      "Dina Demalchusa Dina",
+      "Moser as Gezel",
+      "Garmi & Nigzal",
+      "Teiku Resolution",
+      "Scenario Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the Garmi & Nigzal discussion \u2014 Ameimar's question structured around the dinei degarmi dispute, with the teiku conclusion \u2014 which is precisely what the prose of candidate 5 describes.",
+      "chosen_heading": "Garmi & Nigzal",
+      "current_heading": "Garmi & Nigzal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Scenario Setup",
+    "candidates": [
+      "Teiku Resolution",
+      "Scenario Setup",
+      "Rav Ashi's Doubt",
+      "House Fire Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the incident setup (man kicks safe into river, owner comes to claim) which matches the 'Scenario Setup' prose exactly, and Rav Ashi's pondering is included in the same Talmudic passage before the next heading picks it up analytically.",
+      "chosen_heading": "Scenario Setup",
+      "current_heading": "Scenario Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "House Fire Parallel",
+    "candidates": [
+      "Rav Ashi's Doubt",
+      "House Fire Parallel",
+      "Normal vs. Unexpected",
+      "Pearls in Box Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's suggestion of the house fire mishnah parallel, which is exactly what the 'House Fire Parallel' prose describes.",
+      "chosen_heading": "House Fire Parallel",
+      "current_heading": "House Fire Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Pearls in Box Question",
+    "candidates": [
+      "Normal vs. Unexpected",
+      "Pearls in Box Question",
+      "Silver Goblet Case",
+      "Evaluation Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic text of the pearl-in-cash-box question and its teiku resolution, which is precisely what the 'Pearls in Box Question' prose section discusses.",
+      "chosen_heading": "Pearls in Box Question",
+      "current_heading": "Pearls in Box Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Evaluation Criteria",
+    "candidates": [
+      "Silver Goblet Case",
+      "Evaluation Criteria",
+      "Socioeconomic Factor",
+      "Definition Question",
+      "Payment Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the question about the silver goblet AND Rav Ashi's answer with the evaluation criteria, making it a single unit that belongs under 'Silver Goblet Case' which introduces the entire exchange, rather than being split across headings 0 and 1.",
+      "chosen_heading": "Silver Goblet Case",
+      "current_heading": "Evaluation Criteria",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Payment Difference",
+    "candidates": [
+      "Socioeconomic Factor",
+      "Definition Question",
+      "Payment Difference",
+      "Rambam-Ra'avad",
+      "Sefer HaChinuch",
+      "Forced Sale",
+      "Consent Distinction",
+      "Hammer Spark"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange between Rav Adda and Rav Ashi about the definition of gazlan vs. chamsan, including the challenge from Rav Huna and its resolution \u2014 this entire unit belongs under 'Definition Question' where the prose introduces exactly this question and these two figures, rather than being split across 'Payment Difference' and later headings.",
+      "chosen_heading": "Definition Question",
+      "current_heading": "Payment Difference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Hammer Spark",
+    "candidates": [
+      "Rambam-Ra'avad",
+      "Sefer HaChinuch",
+      "Forced Sale",
+      "Consent Distinction",
+      "Hammer Spark",
+      "Camel Flax Case",
+      "Camel Liability",
+      "Lamp Outside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The mishna about a spark flying from under a blacksmith's hammer causing damage is precisely what the 'Hammer Spark' section prose describes.",
+      "chosen_heading": "Hammer Spark",
+      "current_heading": "Hammer Spark",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Lamp Outside",
+    "candidates": [
+      "Camel Flax Case",
+      "Camel Liability",
+      "Lamp Outside",
+      "Fuel vs. Flame",
+      "Chanukah Exemption",
+      "Ten Tefachim Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the entire mishnah text covering all three rulings (camel owner liable, storekeeper liable, Chanukah exemption), and it belongs under 'Camel Flax Case' which introduces the full case \u2014 the subsequent headings each discuss individual sub-rulings in the essay prose, but the single quoted text encompasses all of them and should sit under the opening case heading.",
+      "chosen_heading": "Camel Flax Case",
+      "current_heading": "Lamp Outside",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Ten Tefachim Rule",
+    "candidates": [
+      "Fuel vs. Flame",
+      "Chanukah Exemption",
+      "Ten Tefachim Rule",
+      "Mitzvah License",
+      "Legal Domain",
+      "Why Not Higher",
+      "Above Twenty Amah",
+      "Twenty Amah Principle",
+      "Visibility Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete gemara exchange about whether the mitzva requires placing the Chanukah lamp within ten tefachim \u2014 Ravina's proof and the Sages' rebuttal \u2014 which is precisely what the 'Ten Tefachim Rule' prose describes.",
+      "chosen_heading": "Ten Tefachim Rule",
+      "current_heading": "Ten Tefachim Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Visibility Principle",
+    "candidates": [
+      "Mitzvah License",
+      "Legal Domain",
+      "Why Not Higher",
+      "Above Twenty Amah",
+      "Twenty Amah Principle",
+      "Visibility Principle",
+      "Fine Types",
+      "Kefel More Extensive",
+      "Application Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Kahana citing Rav Natan bar Minyumi in the name of Rabbi Tanchum about a Hanukkah lamp placed above twenty cubits being unfit, which matches exactly the prose of candidate 3 ('Above Twenty Amah') rather than candidate 5 ('Visibility Principle') which discusses the reasoning behind the rule rather than the rule itself.",
+      "chosen_heading": "Above Twenty Amah",
+      "current_heading": "Visibility Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Application Scope",
+    "candidates": [
+      "Fine Types",
+      "Kefel More Extensive",
+      "Application Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The hadran marks the conclusion of Perek Hakoneis, and the prose under 'Fine Types' explicitly references this traditional hadran marking that conclusion, making it the clear home for this passage.",
+      "chosen_heading": "Fine Types",
+      "current_heading": "Application Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Application Scope",
+    "candidates": [
+      "Application Scope",
+      "Exceptions Listed",
+      "Source Derivation",
+      "Applicability Question",
+      "Toen Definition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Application Scope",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna establishing that kefel applies more broadly than arba ve-chamisha, matching the 'Application Scope' prose about animate vs. inanimate objects and the biblical verse.",
+      "second_heading": "Exceptions Listed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the limitation about stealing after a thief and secondary slaughter/sale, which maps directly to the 'Exceptions Listed' prose describing those exact scenarios.",
+      "current_heading": "Application Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143,
+      144,
+      145
+    ],
+    "current_heading": "Toen Definition",
+    "candidates": [
+      "Exceptions Listed",
+      "Source Derivation",
+      "Applicability Question",
+      "Toen Definition",
+      "Resolution",
+      "Tosafot Debate",
+      "Ri Me'Orleans",
+      "Oath Source",
+      "Hermeneutic Rule",
+      "Movable Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items directly address the gemara's observation that the mishnah omits the toen ta'anat ganav distinction, the support this provides for Rabbi \u1e24iyya bar Abba's ruling, and the rejection of the inference via 'meruba/tana ve-shayar' \u2014 precisely what candidate 2 ('Applicability Question') describes.",
+      "chosen_heading": "Applicability Question",
+      "current_heading": "Toen Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      159,
+      160
+    ],
+    "current_heading": "Movable Property",
+    "candidates": [
+      "Resolution",
+      "Tosafot Debate",
+      "Ri Me'Orleans",
+      "Oath Source",
+      "Hermeneutic Rule",
+      "Movable Property",
+      "Four Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present the baraita that cites the verse and applies klal u-frat u-klal, which is precisely what the 'Oath Source' prose describes \u2014 the gemara turning to the biblical basis and applying that hermeneutic rule \u2014 rather than the 'Movable Property' section which discusses only the conclusion derived after the rule is applied.",
+      "chosen_heading": "Oath Source",
+      "current_heading": "Movable Property",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Four Exclusions",
+    "candidates": [
+      "Movable Property",
+      "Four Exclusions",
+      "Documents & Garmi",
+      "Animal Impurity Limit",
+      "Mammals vs. Birds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the four exclusions (land, slaves, documents, hekdesh) with their precise reasoning, which matches exactly the prose of heading 1 'Four Exclusions.'",
+      "chosen_heading": "Four Exclusions",
+      "current_heading": "Four Exclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      170,
+      171,
+      172,
+      173
+    ],
+    "current_heading": "Mammals vs. Birds",
+    "candidates": [
+      "Documents & Garmi",
+      "Animal Impurity Limit",
+      "Mammals vs. Birds",
+      "Four-Item Logic",
+      "Item-by-Item Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous gemara discussion about whether birds are excluded from double payment because their carcasses don't transmit impurity through contact and carrying (maga u-masa), including the objection from 'salmah' and its resolution \u2014 exactly what candidate 2 ('Mammals vs. Birds') describes.",
+      "chosen_heading": "Mammals vs. Birds",
+      "current_heading": "Mammals vs. Birds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      178
+    ],
+    "current_heading": "Item-by-Item Logic",
+    "candidates": [
+      "Four-Item Logic",
+      "Item-by-Item Logic",
+      "Sheep Includes Birds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why both 'ox' and 'donkey' had to be mentioned \u2014 because mentioning only one would have restricted the law to altar-eligible animals or firstborn-sanctified animals respectively \u2014 which is precisely what the 'Item-by-Item Logic' prose describes.",
+      "chosen_heading": "Item-by-Item Logic",
+      "current_heading": "Item-by-Item Logic",
+      "moved": false
+    }
+  }
+]

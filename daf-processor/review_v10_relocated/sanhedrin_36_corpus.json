@@ -1,0 +1,390 @@
+[
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rav in Rabbi's Court",
+    "candidates": [
+      "Intro: Monetary & Capital",
+      "Lo Ta'aneh: Two Readings",
+      "Honor: Monetary vs",
+      "Rav Abba: 100 Voices Rule",
+      "Dineinu v. Dineihem",
+      "Non-Jewish Precedents",
+      "David & Naval Source",
+      "Psul Mishpacha Cases",
+      "Hakol Kasherim Principle",
+      "Rav Yehuda: Mamzerim Wine",
+      "Shor Haniskal Exception",
+      "Abbahu: Only 23 Required",
+      "Monetary vs Capital Cases",
+      "Chiya's Additions",
+      "Two Judgments Rule",
+      "Rav in Rabbi's Court",
+      "Rav Papa: Rabbi's"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 15,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav's personal anecdote about being in Rabbi's court and being called first despite the mishna's rule that monetary cases begin with the greatest, which is precisely what heading 15 'Rav in Rabbi's Court' describes.",
+      "chosen_heading": "Rav in Rabbi's Court",
+      "current_heading": "Rav in Rabbi's Court",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rav Papa: Rabbi's",
+    "candidates": [
+      "Rav Papa: Rabbi's",
+      "Torah & Power Combined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes counting votes starting from the side benches in Rabbi's court, which directly matches the current heading's prose about the proceedings of Rabbi's court being different \u2014 the content is about vote-counting procedure, not about Torah and political power being combined.",
+      "chosen_heading": "Rav Papa: Rabbi's",
+      "current_heading": "Rav Papa: Rabbi's",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Torah & Power Combined",
+    "candidates": [
+      "Torah & Power Combined",
+      "Competing Authorities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the claim that from Moses until Rabbi we don't find Torah and greatness combined in one place, which is exactly what the 'Torah & Power Combined' section's prose describes.",
+      "chosen_heading": "Torah & Power Combined",
+      "current_heading": "Torah & Power Combined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Competing Authorities",
+    "candidates": [
+      "Competing Authorities",
+      "Adda bar Ahava: Rabbi-Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the Gemara's series of counterexamples (Joshua, Pinehas, Saul, David, Solomon, Hezekiah, Ezra) challenging the claim about uniqueness of Torah-and-greatness combined, which is precisely what the 'Competing Authorities' prose describes in detail.",
+      "chosen_heading": "Competing Authorities",
+      "current_heading": "Competing Authorities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Adda bar Ahava: Rabbi-Rav",
+    "candidates": [
+      "Adda bar Ahava: Rabbi-Rav",
+      "Lo Ta'aneh Verse Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is directly about Rav Adda bar Ahava's statement regarding Torah and greatness from Rabbi to Rav Ashi, and the challenge/answer about Huna bar Natan \u2014 exactly what the prose under heading 0 discusses.",
+      "chosen_heading": "Adda bar Ahava: Rabbi-Rav",
+      "current_heading": "Adda bar Ahava: Rabbi-Rav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Lo Ta'aneh Verse Source",
+    "candidates": [
+      "Lo Ta'aneh Verse Source",
+      "Monetary: Respond or Not?",
+      "Tosafot's Two Solutions",
+      "Yerushalmi Alternative",
+      "Mirror: Speaking Order",
+      "Rabbah: Student Negates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav A\u1e25a bar Pappa's derivation from the 'lo ta'aneh al riv' verse for the rule that capital cases begin from the side, which matches exactly what heading 0 describes.",
+      "chosen_heading": "Lo Ta'aneh Verse Source",
+      "current_heading": "Lo Ta'aneh Verse Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Rabbah: Student Negates",
+    "candidates": [
+      "Monetary: Respond or Not?",
+      "Tosafot's Two Solutions",
+      "Yerushalmi Alternative",
+      "Mirror: Speaking Order",
+      "Rabbah: Student Negates",
+      "Challenge: Purity Cases",
+      "Formal Cases: One Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Rabba bar bar \u1e24ana citing Rabbi Yo\u1e25anan deriving from the David/sword verse that the elder (greatest among them) speaks last in capital cases, which directly supports the 'Mirror: Speaking Order' section's explanation of why elders speak last in capital cases to preserve open deliberation.",
+      "chosen_heading": "Mirror: Speaking Order",
+      "current_heading": "Rabbah: Student Negates",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Formal Cases: One Count",
+    "candidates": [
+      "Challenge: Purity Cases",
+      "Formal Cases: One Count",
+      "Papa: When Independent?",
+      "Kahana & Ashi Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav's ruling AND the baraita objection covering both purity cases and formal cases together, so it belongs under the heading that introduces the challenge/objection ('Challenge: Purity Cases'), which is where the full Talmudic exchange begins, rather than under 'Formal Cases: One Count' which covers only the second half of the passage.",
+      "chosen_heading": "Challenge: Purity Cases",
+      "current_heading": "Formal Cases: One Count",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Kahana & Ashi Model",
+    "candidates": [
+      "Papa: When Independent?",
+      "Kahana & Ashi Model",
+      "Abbahu: Ten Differences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's answer explaining when Rav's rule applies \u2014 i.e., resolving the tension about when a student counts as independent \u2014 which corresponds to the 'Papa: When Independent?' section's prose about the Gemara drawing a crucial distinction, not the 'Kahana & Ashi Model' section which discusses the implications and broader resonances of that example.",
+      "chosen_heading": "Papa: When Independent?",
+      "current_heading": "Kahana & Ashi Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Abbahu: Ten Differences",
+    "candidates": [
+      "Kahana & Ashi Model",
+      "Abbahu: Ten Differences",
+      "Challenge: Only Nine?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly match the prose of 'Abbahu: Ten Differences,' which explicitly summarizes Rabbi Abbahu's statement about the ten differences not applying to shor haniskal and derives this from the verse lo tateh mishpat evyonkha berivo \u2014 precisely the content of items 1 and 2.",
+      "chosen_heading": "Abbahu: Ten Differences",
+      "current_heading": "Abbahu: Ten Differences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Challenge: Only Nine?",
+    "candidates": [
+      "Challenge: Only Nine?",
+      "Resolution: Unified",
+      "Zaken & Saris Rule",
+      "Yehuda: Cruelty Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly covers both the challenge ('there are only nine') and the resolution ('but the mishna teaches ten... because not all are fit and twenty-three are one'), which corresponds precisely to the 'Resolution: Unified' section's prose describing the counter-challenge and the unified-point explanation.",
+      "chosen_heading": "Resolution: Unified",
+      "current_heading": "Challenge: Only Nine?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Yehuda: Cruelty Criteria",
+    "candidates": [
+      "Resolution: Unified",
+      "Zaken & Saris Rule",
+      "Yehuda: Cruelty Criteria",
+      "Hakol Kasherim Scope",
+      "Rav Yehuda: Mamzerim OK",
+      "Already Taught Mamzerim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the baraita about not seating an elderly person, castrated person, or someone without children (the Zaken & Saris Rule), plus Rabbi Yehuda's addition about cruelty and the inversion for meisis \u2014 all of which is discussed together in candidate 1's prose, while candidate 2 ('Yehuda: Cruelty Criteria') only covers the second half and is the current (incorrect) placement.",
+      "chosen_heading": "Zaken & Saris Rule",
+      "current_heading": "Yehuda: Cruelty Criteria",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Already Taught Mamzerim",
+    "candidates": [
+      "Hakol Kasherim Scope",
+      "Rav Yehuda: Mamzerim OK",
+      "Already Taught Mamzerim",
+      "Ger vs. Mamzer Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the mishna's 'hakol kasherim' statement and Rav Yehuda's answer about mamzer, but the prose of candidate 0 explicitly discusses both the mishna's use of 'everyone' and the Gemara's question of what it includes, making it the best match for this combined text \u2014 candidate 1 handles only Rav Yehuda's answer in isolation, while candidate 0 sets up the full question-and-answer unit that this passage represents.",
+      "chosen_heading": "Hakol Kasherim Scope",
+      "current_heading": "Already Taught Mamzerim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Ger vs. Mamzer Logic",
+    "candidates": [
+      "Already Taught Mamzerim",
+      "Ger vs. Mamzer Logic",
+      "Ger Jurisdiction Dispute",
+      "Purity from Song of Songs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the objection ('we already taught this once') and its resolution ('one teaches ger, one teaches mamzer, and both are necessary'), which precisely matches the prose of heading 0 ('Already Taught Mamzerim') \u2014 the objection and its answer are one continuous unit, and heading 1's prose already describes the resolution content but the passage as a whole is the gemara answering the 'already taught' challenge raised under heading 0.",
+      "chosen_heading": "Already Taught Mamzerim",
+      "current_heading": "Ger vs. Mamzer Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Purity from Song of Songs",
+    "candidates": [
+      "Ger Jurisdiction Dispute",
+      "Purity from Song of Songs",
+      "Yitro's V'Nisu Source",
+      "Half-Circle Design",
+      "Visibility Purpose",
+      "Two Scribes System"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single continuous Talmudic discussion about the source for requiring Sanhedrin members to be free of blemish (lineage and physical), exactly matching the prose of 'Purity from Song of Songs' which describes this precise chain of argument including the mum debate and its resolution \u2014 the current placement is correct.",
+      "chosen_heading": "Purity from Song of Songs",
+      "current_heading": "Purity from Song of Songs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Two Scribes System",
+    "candidates": [
+      "Yitro's V'Nisu Source",
+      "Half-Circle Design",
+      "Visibility Purpose",
+      "Two Scribes System",
+      "Yehuda: Three Scribes",
+      "Three Student Rows",
+      "Hierarchy & Place",
+      "Replacing a Judge",
+      "Semicha from Moshe",
+      "Somchin Min HaRishona"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna covers the entire physical layout and scribal system of the Sanhedrin as a single unit, and candidate 1 ('Half-Circle Design') is the opening section that introduces this mishnah \u2014 the passage belongs there as it encompasses all the content that follows across candidates 1\u20134.",
+      "chosen_heading": "Half-Circle Design",
+      "current_heading": "Two Scribes System",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Somchin Min HaRishona",
+    "candidates": [
+      "Yehuda: Three Scribes",
+      "Three Student Rows",
+      "Hierarchy & Place",
+      "Replacing a Judge",
+      "Semicha from Moshe",
+      "Somchin Min HaRishona",
+      "Promotion Cascade",
+      "Selection from Community",
+      "Proper Placement Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the full content of the mishnah \u2014 the three rows of scholars, each knowing his place, the ordination cascade from the first row, promotions from second and third rows, selection from the community, and proper placement \u2014 which corresponds to the 'Three Student Rows' section that introduces all of these elements together, rather than the narrower 'Somchin Min HaRishona' section where it currently sits.",
+      "chosen_heading": "Three Student Rows",
+      "current_heading": "Somchin Min HaRishona",
+      "moved": true
+    }
+  }
+]

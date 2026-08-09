@@ -1,0 +1,215 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Trumot & Ma'asrot",
+    "candidates": [
+      "Review & Ger Status",
+      "Core Problem",
+      "Safek Framework",
+      "Chullin Ba'azarah",
+      "Trumot & Ma'asrot",
+      "Kriha Problem",
+      "Bilah Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly addresses the terumot u'ma'asrot problem \u2014 specifically working through teruma gedola, ma'aser sheni, ma'aser ani, and the difficulty of ma'aser rishon belonging to a Levi \u2014 which is precisely what the prose of heading 4 ('Trumot & Ma'asrot') describes.",
+      "chosen_heading": "Trumot & Ma'asrot",
+      "current_heading": "Trumot & Ma'asrot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Bilah Principle",
+    "candidates": [
+      "Kriha Problem",
+      "Bilah Principle",
+      "Two-Person Solution",
+      "False Declaration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's exchange about whether keriah is me'akev \u2014 item 1 raises the bikkurim/keriah question and answers it is not indispensable, item 2 immediately challenges that answer with Rabbi Zeira's bilah principle \u2014 which is exactly the content described in heading 0 ('Kriha Problem'), not the extended analysis of the bilah principle itself that heading 1 discusses.",
+      "chosen_heading": "Kriha Problem",
+      "current_heading": "Bilah Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "False Declaration",
+    "candidates": [
+      "Two-Person Solution",
+      "False Declaration",
+      "One Tree Rule",
+      "Trunk vs. Roots"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion about why the declaration cannot be recited \u2014 first establishing the two-person mechanism (Rabbi Yosei bar \u1e24anina), then the question of why not recite the verses anyway, then the two answers (michzi k'shikra and the teruma/tithes concern) \u2014 which corresponds precisely to the 'False Declaration' section's prose about entertaining the suggestion to recite the pesukim and the two grounds for rejection.",
+      "chosen_heading": "False Declaration",
+      "current_heading": "False Declaration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Trunk vs. Roots",
+    "candidates": [
+      "One Tree Rule",
+      "Trunk vs. Roots",
+      "Land Shift Problem",
+      "Pruning Solution",
+      "Palm No Trunk",
+      "Total Loss Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question about what constitutes growth from the trunk versus the roots, and Rabbi Yochanan's criterion of 'seeing the face of the sun,' which is precisely what the 'Trunk vs. Roots' prose describes.",
+      "chosen_heading": "Trunk vs. Roots",
+      "current_heading": "Trunk vs. Roots",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Total Loss Risk",
+    "candidates": [
+      "Land Shift Problem",
+      "Pruning Solution",
+      "Palm No Trunk",
+      "Total Loss Risk",
+      "Two Trees Challenge",
+      "Five-Year Insurance"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Land Shift Problem",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers the land-shift concern and the pruning solution (yikotz), matching headings 'Land Shift Problem' and 'Pruning Solution' \u2014 but since both items 1a and 1b form one continuous unit (concern + resolution), they belong under heading 0 which introduces the land-shift problem that necessitates the pruning answer, with heading 1 being the natural continuation; however the structural break is cleaner as items 1-2 under heading 0-1 combined, so placing items 1 (the yikotz ruling closing the land-shift discussion) under heading 1 'Pruning Solution' is the best single fit.",
+      "second_heading": "Palm No Trunk",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 discuss the palm-tree trunk rule and Rav Pappa's challenge, matching headings 'Palm No Trunk' and 'Two Trees Challenge' respectively, but as one continuous dispute they belong together under heading 2 'Palm No Trunk' as the starting point of that sub-topic.",
+      "current_heading": "Total Loss Risk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Five-Year Insurance",
+    "candidates": [
+      "Two Trees Challenge",
+      "Five-Year Insurance",
+      "Practical Botanics",
+      "Three Trees Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rav Zevid's difficulty with the mishna and resolves it by explaining the five-year purchase with replanting rights, which is precisely what the 'Five-Year Insurance' section's prose discusses.",
+      "chosen_heading": "Five-Year Insurance",
+      "current_heading": "Five-Year Insurance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Three Trees Scope",
+    "candidates": [
+      "Practical Botanics",
+      "Three Trees Scope",
+      "Access Challenge",
+      "Two vs. Three Trees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yo\u1e25anan's ruling on the scope of land acquired with three trees (underneath, between, and outside to the extent of a gatherer and basket), which is precisely what the 'Three Trees Scope' prose discusses, including the ora vesalo measure and the outer picking-space concept.",
+      "chosen_heading": "Three Trees Scope",
+      "current_heading": "Three Trees Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Two vs. Three Trees",
+    "candidates": [
+      "Access Challenge",
+      "Two vs. Three Trees",
+      "Rabbi Akiva Rule",
+      "Overhang Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's inference that three-tree buyers lack a path while two-tree buyers have one (because their trees stand in another's land), which is precisely what the 'Two vs. Three Trees' section's prose discusses.",
+      "chosen_heading": "Two vs. Three Trees",
+      "current_heading": "Two vs. Three Trees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Overhang Rights",
+    "candidates": [
+      "Rabbi Akiva Rule",
+      "Overhang Rights",
+      "Outer Space Rights"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Rabbi Akiva Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 form a continuous dialectical exchange about whether the Mishnah can be explained according to Rabbi Akiva's principle of selling generously, which is precisely what candidate 0 ('Rabbi Akiva Rule') describes \u2014 Rav Nachman asking if Rabbi Elazar rejects Shmuel/Rabbi Akiva, followed by Rava's response and the back-and-forth about the overhang case.",
+      "second_heading": "Overhang Rights",
+      "second_confidence": "high",
+      "second_reason": "Item 6 is the baraita of Rabbi \u1e24iyya bar Abba granting the buyer space beneath, between, and outside the trees, which candidate 1 ('Overhang Rights') explicitly mentions as the concluding baraita supporting the Rabbi Akiva position on outer picking-space.",
+      "current_heading": "Overhang Rights",
+      "moved": true
+    }
+  }
+]

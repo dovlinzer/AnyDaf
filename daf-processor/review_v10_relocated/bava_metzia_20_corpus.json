@@ -1,0 +1,480 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Shovar for Ketubah",
+    "candidates": [
+      "Shovar for Ketubah",
+      "Nisan-Tishrei Concern",
+      "Pre-dated Receipt Scam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself stating the shovar/receipt rule (wife admits \u2192 return to husband; wife doesn't admit \u2192 return to neither), which is precisely what the prose of heading 0 ('Shovar for Ketubah') quotes and explains directly.",
+      "chosen_heading": "Shovar for Ketubah",
+      "current_heading": "Shovar for Ketubah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Pre-dated Receipt Scam",
+    "candidates": [
+      "Nisan-Tishrei Concern",
+      "Pre-dated Receipt Scam",
+      "Rava/Shmuel Ruling",
+      "Shmuel's Principle",
+      "Debt Purchase Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's concern about the Nisan-Tishrei gap and its harm to purchasers, which is precisely what heading 0 ('Nisan-Tishrei Concern') discusses \u2014 the mechanism of writing the receipt in Nisan but not giving it until Tishrei and the resulting damage to third-party purchasers \u2014 whereas heading 1 ('Pre-dated Receipt Scam') discusses the injured party and Rashi's explanation, content that follows after this passage introduces the concern.",
+      "chosen_heading": "Nisan-Tishrei Concern",
+      "current_heading": "Pre-dated Receipt Scam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Debt Purchase Logic",
+    "candidates": [
+      "Rava/Shmuel Ruling",
+      "Shmuel's Principle",
+      "Debt Purchase Logic",
+      "Abaye's Three Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's statement and its inference about Shmuel's ruling, which is precisely what candidate 0 ('Rava/Shmuel Ruling') describes \u2014 Rava saying 'shma mina isa l'diShmuel' \u2014 rather than candidate 2 ('Debt Purchase Logic') which elaborates on the mechanism of Shmuel's principle without being the primary home for Rava's actual statement.",
+      "chosen_heading": "Rava/Shmuel Ruling",
+      "current_heading": "Debt Purchase Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Abaye's Three Reasons",
+    "candidates": [
+      "Debt Purchase Logic",
+      "Abaye's Three Reasons",
+      "Edov b'Chosmov Zachin Lo"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Abaye and Rava exchange about the kesuva document emerging from her possession and the concern about two kesuvos, which is precisely what the prose under 'Abaye's Three Reasons' describes as Abaye's first reason and Rava's challenge to it.",
+      "chosen_heading": "Abaye's Three Reasons",
+      "current_heading": "Abaye's Three Reasons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Edov b'Chosmov Zachin Lo",
+    "candidates": [
+      "Edov b'Chosmov Zachin Lo",
+      "Witnesses & Delivery",
+      "Tosafot: Takanat Chazal",
+      "Status Issues & Retroact",
+      "Maaseh Beis Din",
+      "Court Document Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's statement invoking 'edov b'chosmov zachin lo' as the basis for retroactive validity of the receipt, which is precisely the topic of candidate 0's prose about this principle and its application to the kesuva/receipt scenario.",
+      "chosen_heading": "Edov b'Chosmov Zachin Lo",
+      "current_heading": "Edov b'Chosmov Zachin Lo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Court Document Types",
+    "candidates": [
+      "Witnesses & Delivery",
+      "Tosafot: Takanat Chazal",
+      "Status Issues & Retroact",
+      "Maaseh Beis Din",
+      "Court Document Types",
+      "Sheteri Beirurin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The prose of candidate 3 ('Maaseh Beis Din') explicitly introduces this exact Mishnah with the words 'The final mishnah of the perek turns to a new category' and 'matza igros shum \u2014 one found assessment letters,' matching Item 1 precisely, while Items 2 and 3 continue the same Mishnah's enumeration of court documents and their handling rules.",
+      "chosen_heading": "Maaseh Beis Din",
+      "current_heading": "Court Document Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Sheteri Beirurin",
+    "candidates": [
+      "Court Document Types",
+      "Sheteri Beirurin",
+      "Get in Beis Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose of section 0 ('Court Document Types') explicitly introduces the gemara's question 'mai shtarei birurin' and provides both the Babylonian explanation (shtarei ta'anata) and sets up Rabbi Yirmeyah's answer, making it the clear home for this gemara passage, while section 1's prose discusses Rabbi Yirmeyah's explanation as already-known background rather than as the quoted text itself.",
+      "chosen_heading": "Court Document Types",
+      "current_heading": "Sheteri Beirurin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Get in Beis Din",
+    "candidates": [
+      "Get in Beis Din",
+      "Rav Huna's Concern",
+      "Rabbah's Investigation",
+      "Rav Ami's Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Huna's Concern",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the found get and Rav Huna's concern about two cities named Sheviri, which is the content of the 'Rav Huna's Concern' section.",
+      "second_heading": "Rabbah's Investigation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers Rav Chisda's instruction to Rabbah and Rabbah's discovery of the mishna's ruling about maaseh Beis Din, which is precisely what the 'Rabbah's Investigation' prose describes.",
+      "current_heading": "Get in Beis Din",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rav Ami's Challenge",
+    "candidates": [
+      "Rav Huna's Concern",
+      "Rabbah's Investigation",
+      "Rav Ami's Challenge",
+      "Chalitzah/Miun Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rav Amram's challenge about deriving ritual law from monetary law AND Rabbah's response about \u1e25alitza/miun documents, which together form a complete exchange best matched by the 'Chalitzah/Miun Evidence' section prose that discusses both the challenge and Rabbah's 'tirda' reply about shtar chalitzah u'miun.",
+      "chosen_heading": "Chalitzah/Miun Evidence",
+      "current_heading": "Rav Ami's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Chalitzah/Miun Evidence",
+    "candidates": [
+      "Rav Ami's Challenge",
+      "Chalitzah/Miun Evidence",
+      "Containers/Siman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the cedar beam dislodging (paka arza d'bei Rav) and the two sages each claiming it was due to their own fortune, which is explicitly mentioned in the prose of candidate 1 as the concluding detail of the Rabbah/Rav Ami exchange about chalitzah/miun evidence.",
+      "chosen_heading": "Chalitzah/Miun Evidence",
+      "current_heading": "Chalitzah/Miun Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Containers/Siman",
+    "candidates": [
+      "Containers/Siman",
+      "Wrapped/Bundle Documents",
+      "Tachrich & Agudah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly defines \u1e25afisa and deluskema, which is exactly what the prose under 'Containers/Siman' discusses, including the same Rabba bar bar \u1e24ana and Rabba bar Shmuel explanations.",
+      "chosen_heading": "Containers/Siman",
+      "current_heading": "Containers/Siman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Tachrich & Agudah",
+    "candidates": [
+      "Wrapped/Bundle Documents",
+      "Tachrich & Agudah",
+      "Bundle Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines tachrich as three rolled together and agudah as three tied together, which matches exactly the prose under 'Tachrich & Agudah' that discusses the baraita's specifications of these two methods.",
+      "chosen_heading": "Tachrich & Agudah",
+      "current_heading": "Tachrich & Agudah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Bundle Minimum",
+    "candidates": [
+      "Bundle Minimum",
+      "Announcing Found Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address whether 'kesher siman' (knot as distinguishing mark) is valid, which is the specific sub-question discussed in the 'Bundle Minimum' prose, including the gemara's raise and rejection of that possibility via Rabbi \u1e24iyya's teaching about three rolled-together documents.",
+      "chosen_heading": "Bundle Minimum",
+      "current_heading": "Bundle Minimum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Announcing Found Items",
+    "candidates": [
+      "Announcing Found Items",
+      "One Borrower, 3 Lenders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with what the finder proclaims and why three documents are required, which is exactly what the 'Announcing Found Items' prose discusses, including the Ravina ruling about announcing 'shtarei' rather than a number.",
+      "chosen_heading": "Announcing Found Items",
+      "current_heading": "Announcing Found Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "One Borrower, 3 Lenders",
+    "candidates": [
+      "One Borrower, 3 Lenders",
+      "Validation Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabban Shimon ben Gamliel's ruling and its immediate Talmudic explanation (what are they doing together?), which is precisely what candidate 0's prose describes \u2014 the ruling itself and its core reasoning about why documents from three different lenders would end up together.",
+      "chosen_heading": "One Borrower, 3 Lenders",
+      "current_heading": "One Borrower, 3 Lenders",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Validation Scenarios",
+    "candidates": [
+      "Validation Scenarios",
+      "Three Borrowers/Lender",
+      "Handwriting Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the validation scenarios \u2014 whether the notes fell from someone going to ratify them, and whether they fell from the scribe's hand \u2014 which is precisely what the 'Validation Scenarios' prose addresses with 'dilma l'kiyumeinhu azli' and 'd'mitkaymi' and the point that no one leaves a validated document with the sofer.",
+      "chosen_heading": "Validation Scenarios",
+      "current_heading": "Validation Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Handwriting Evidence",
+    "candidates": [
+      "Three Borrowers/Lender",
+      "Handwriting Evidence",
+      "Receipt Negates Debt",
+      "Rav Yirmiyah's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous Gemara discussion on the case of three borrowers from one lender \u2014 the initial reasoning, the scribal-handwriting challenge/answer, and the ratification challenge/answer \u2014 which precisely matches the prose of candidate 0 ('Three Borrowers/Lender'), not the current placement under 'Handwriting Evidence.'",
+      "chosen_heading": "Three Borrowers/Lender",
+      "current_heading": "Handwriting Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Rav Yirmiyah's Rule",
+    "candidates": [
+      "Receipt Negates Debt",
+      "Rav Yirmiyah's Rule",
+      "Receipt Weakness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Yirmiyah bar Abba's ruling about a simpon found in the creditor's possession being invalid, which is precisely what Candidate 1's prose discusses.",
+      "chosen_heading": "Rav Yirmiyah's Rule",
+      "current_heading": "Rav Yirmiyah's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Receipt Weakness",
+    "candidates": [
+      "Receipt Weakness",
+      "Receipt + Paid Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why even a self-authored receipt (biksav yado) is invalid \u2014 precisely the 'savar dilma itrami' reasoning discussed in the 'Receipt Weakness' prose, which quotes this exact Aramaic and its logic verbatim.",
+      "chosen_heading": "Receipt Weakness",
+      "current_heading": "Receipt Weakness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Receipt + Paid Documents",
+    "candidates": [
+      "Receipt + Paid Documents",
+      "Same Name Problem",
+      "Orphans' Oath",
+      "Receipt + Witnesses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Receipt + Paid Documents",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present the first challenge to Rav from the mishna about simponot and Rav Safra's answer that the simpon was found among torn documents, which matches the 'Receipt + Paid Documents' prose exactly.",
+      "second_heading": "Same Name Problem",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20136 cover the Yosef ben Shimon same-name case and the orphans' oath case with Rav Safra's repeated answer, matching the 'Same Name Problem' and then 'Orphans' Oath' sections \u2014 but since items 3\u20134 are the same-name case and items 5\u20136 are the orphans' oath, a single split here places items 3\u20136 starting at 'Same Name Problem' which then flows naturally into the next heading.",
+      "current_heading": "Receipt + Paid Documents",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Receipt + Witnesses",
+    "candidates": [
+      "Same Name Problem",
+      "Orphans' Oath",
+      "Receipt + Witnesses",
+      "Receipt on Document",
+      "Third Party Holder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about a simpon with witnesses being ratified by its signatories and the Gemara's reinterpretation, which is precisely what the 'Receipt + Witnesses' prose section describes.",
+      "chosen_heading": "Receipt + Witnesses",
+      "current_heading": "Receipt + Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "current_heading": "Third Party Holder",
+    "candidates": [
+      "Receipt on Document",
+      "Third Party Holder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous discussion about the validity of a simpon (receipt), covering witnesses of ratification, the third-party holder case, and the post-signature case, concluding with the hadran \u2014 exactly matching the 'Third Party Holder' section's prose which covers all these points and explicitly mentions the hadran closing the perek.",
+      "chosen_heading": "Third Party Holder",
+      "current_heading": "Third Party Holder",
+      "moved": false
+    }
+  }
+]

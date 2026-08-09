@@ -1,0 +1,291 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Rabbi Shimon's View",
+    "candidates": [
+      "Yetzika Dispute",
+      "Yetzika Not Me'akev Kohen",
+      "Rabbi Shimon's View",
+      "Rabbi Shimon's Reading",
+      "Challenge to Hermeneutic",
+      "Blood Placement Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the Gemara's derivation from the pasuk that yetzika and belila are kasher bezar (items 1\u20132) and then Rabbi Shimon's counter-reading using mikra nidrash lefanav ul'acharav (item 3), which is precisely what candidate 1's prose describes as the content of this section.",
+      "chosen_heading": "Yetzika Not Me'akev Kohen",
+      "current_heading": "Rabbi Shimon's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Blood Placement Debate",
+    "candidates": [
+      "Rabbi Shimon's Reading",
+      "Challenge to Hermeneutic",
+      "Blood Placement Debate",
+      "Abaye's Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge to Rabbi Shimon's hermeneutic by citing a baraita \u2014 precisely what candidate 1's prose describes as the opening of the challenge questioning whether Rabbi Shimon accepts 'mikra nidrash lefanav ul'acharav,' before moving to Abaye's resolution in candidate 3.",
+      "chosen_heading": "Challenge to Hermeneutic",
+      "current_heading": "Blood Placement Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Abaye's Framework",
+    "candidates": [
+      "Blood Placement Debate",
+      "Abaye's Framework",
+      "Rabbi Shimon Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Shimon's question about whether 'hand' is stated by kabala, which is precisely the content discussed in the 'Abaye's Framework' section prose \u2014 it introduces Rabbi Shimon's position and Abaye's explanation of the dispute over mikra nidrash lefanav ul'acharav.",
+      "chosen_heading": "Abaye's Framework",
+      "current_heading": "Abaye's Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Rabbi Shimon Position",
+    "candidates": [
+      "Rabbi Shimon Position",
+      "Two Verses",
+      "Gemara Objection",
+      "Semicha Distinction",
+      "Ambiguity Argument",
+      "Ambiguity Argument (continued)",
+      "Yom Kippur Exception",
+      "Torah & Chok"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Items 1\u20136 form one continuous chain about Rabbi Shimon's *vav mosif* reasoning and the subsequent *shechita* challenge with its resolutions; candidate 0's prose explicitly covers items 1\u20133 and sets up the rest, making it the best single heading even though the discussion extends into later sections.",
+      "chosen_heading": "Rabbi Shimon Position",
+      "current_heading": "Rabbi Shimon Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Torah & Chok",
+    "candidates": [
+      "Two Verses",
+      "Gemara Objection",
+      "Semicha Distinction",
+      "Ambiguity Argument",
+      "Ambiguity Argument (continued)",
+      "Yom Kippur Exception",
+      "Torah & Chok",
+      "Both Required?",
+      "Nazir Tenufah",
+      "Todah Connection",
+      "Metzora Case",
+      "Yom Kippur",
+      "Either Suffices",
+      "Rav's Rule",
+      "Problem Stated",
+      "Shmuel's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "medium",
+      "reason": "All 14 items form one continuous chain exploring Rav's principle about 'torah' and 'chukah' signaling me'akev status, with the mincha-specific items (9-14) being the concluding challenges and resolutions within that same discussion, making heading 6 ('Torah & Chok') the best single home.",
+      "chosen_heading": "Torah & Chok",
+      "current_heading": "Torah & Chok",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Shmuel's View",
+    "candidates": [
+      "Both Required?",
+      "Nazir Tenufah",
+      "Todah Connection",
+      "Metzora Case",
+      "Yom Kippur",
+      "Either Suffices",
+      "Rav's Rule",
+      "Problem Stated",
+      "Shmuel's View",
+      "Challenge to Shmuel",
+      "Hand vs Vessel",
+      "Rav on Aaron",
+      "Shmuel: One-Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage presents Rav's general rule about repetition being me'akev and Shmuel's contrasting position that only geres and shemen are indispensable, which is precisely what the 'Shmuel's View' section prose describes.",
+      "chosen_heading": "Shmuel's View",
+      "current_heading": "Shmuel's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Shmuel: One-Time",
+    "candidates": [
+      "Challenge to Shmuel",
+      "Hand vs Vessel",
+      "Rav on Aaron",
+      "Shmuel: One-Time",
+      "Nesi'im Offering"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Challenge to Shmuel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Gemara's reframing of the Rav-Shmuel dispute as being about 'melo kumtzo' vs 'bekumtzo' and introduces the baraita ruling that no vessel may be used \u2014 this matches heading 0 ('Challenge to Shmuel') and heading 1 ('Hand vs Vessel'), but heading 0's prose explicitly describes the Gemara's reframing of the dispute and the baraita, making it the better fit for item 1 which introduces both the reframing and the baraita.",
+      "second_heading": "Rav on Aaron",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav's position that the Shemini verse (va'yimale chapo) constitutes a textual repetition rendering hand-use me'akev, and Shmuel's counter that one does not derive permanent law from a one-time event \u2014 this matches heading 2 ('Rav on Aaron') and heading 3 ('Shmuel: One-Time'), but since both Rav and Shmuel's positions are stated together in item 2, heading 2 is the better anchor as it introduces Rav's position first, with Shmuel's response following within the same unit.",
+      "current_heading": "Shmuel: One-Time",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Nesi'im Offering",
+    "candidates": [
+      "Shmuel: One-Time",
+      "Nesi'im Offering",
+      "Repeated Events"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's challenge to Shmuel using the mishna about liquid/dry vessels and Shmuel's ruling about mizrakot sanctifying flour from the nesi'im offering \u2014 exactly what candidate 1's prose describes as the challenge to Shmuel's position that one cannot derive permanent law from a one-time event.",
+      "chosen_heading": "Nesi'im Offering",
+      "current_heading": "Nesi'im Offering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Repeated Events",
+    "candidates": [
+      "Repeated Events",
+      "Hagasha",
+      "Location Purpose",
+      "Location Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why Shmuel can derive a general halakha from the princes' offerings despite it being a one-time event \u2014 because the verse is repeated twelve times \u2014 which is precisely what the 'Repeated Events' prose section discusses.",
+      "chosen_heading": "Repeated Events",
+      "current_heading": "Repeated Events",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Location Details",
+    "candidates": [
+      "Hagasha",
+      "Location Purpose",
+      "Location Details",
+      "Rabbi Eliezer",
+      "Rav Ashi"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Hagasha",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the challenge about hagasha, the Gemara's response that the Tzav verse establishes location not me'akev status, and the baraita resolving the west/south tension via the southwest corner \u2014 all matching headings 0-2, and since all items 1-3 form one continuous unit through the baraita's resolution, they belong under heading 0 which introduces the hagasha challenge and its resolution.",
+      "second_heading": "Rabbi Eliezer",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 present Rabbi Eliezer's dissenting view and his hermeneutic principle about choosing south over west, which corresponds exactly to the 'Rabbi Eliezer' heading's prose.",
+      "current_heading": "Location Details",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Rav Ashi",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Rav Ashi",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Ashi's explanation that the tanna holds the entire altar stood in the northern part of the courtyard, which is precisely what the 'Rav Ashi' section's prose describes.",
+      "chosen_heading": "Rav Ashi",
+      "current_heading": "Rav Ashi",
+      "moved": false
+    }
+  }
+]

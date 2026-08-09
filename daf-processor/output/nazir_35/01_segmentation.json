@@ -30,7 +30,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Case Study: Nazir's Prohibition on Vine Products via Prat Klal U'Prat Structure",
@@ -141,8 +141,8 @@
           "timestamp": "29:54"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Sourcing Prat Klal U'Prat: Failed Examples from Obligations of Guardians and Sacrifices",
@@ -267,7 +267,7 @@
           "timestamp": "45:08"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -555,5 +555,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "35:00",
+  "amud_b_micro_title": "Objection & Defense",
+  "shiur_start_daf": 34,
+  "shiur_start_amud": "b"
 }

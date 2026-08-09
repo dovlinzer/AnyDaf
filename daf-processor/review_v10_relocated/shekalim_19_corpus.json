@@ -1,0 +1,91 @@
+[
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Har HaBayit Exception",
+    "candidates": [
+      "Priestly Families",
+      "Six Animal Types",
+      "Six Korban Origins",
+      "Large Volume Rationale",
+      "Korban HaEdah: Boxes",
+      "Two Locations",
+      "King's Reform",
+      "Reconciliation",
+      "Shekalim-Nedavah Case",
+      "Circular Arrangement",
+      "Other Box Pairs",
+      "Home Coins",
+      "Why Nedavah Default",
+      "Initial Challenges",
+      "Conversion Stipulation",
+      "Supplier Obligation",
+      "Sellers' Context",
+      "Maaser Assumption",
+      "Seasonal Variation",
+      "Sweeping Rationale",
+      "Temple Courtyard Meat",
+      "Jerusalem Meat",
+      "Limb-Piece Distinction",
+      "Har HaBayit Exception",
+      "Nosar Concern",
+      "Invalidation Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 23,
+      "confidence": "high",
+      "reason": "The passage directly provides the Talmudic source (Rabbi Ba, Rabbi Chiyya in the name of Rabbi Yochanan) for the chazakah that a kohen removes money from the lishka only after redeeming it onto an animal, which is precisely the principle the prose of heading 23 'Har HaBayit Exception' explains and cites.",
+      "chosen_heading": "Har HaBayit Exception",
+      "current_heading": "Har HaBayit Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Invalidation Debate",
+    "candidates": [
+      "Nosar Concern",
+      "Invalidation Debate",
+      "Strung Meat Exception",
+      "Nine Shops Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Invalidation Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses hesi'ach hadaat, ibbur tzurah, and Rabbi Yosi's position \u2014 exactly the content described in the 'Invalidation Debate' prose.",
+      "second_heading": "Strung Meat Exception",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 introduces an entirely new topic \u2014 flogging for carrion limbs (neveilah) and the rule about permitted cuts \u2014 which is structurally unrelated to the hesi'ach hadaat debate and fits better under a heading dealing with limb status presumptions, closest to 'Strung Meat Exception' which discusses limb classifications.",
+      "current_heading": "Invalidation Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Nine Shops Case",
+    "candidates": [
+      "Strung Meat Exception",
+      "Nine Shops Case",
+      "Non-Jew's Meat Status",
+      "Trust Stories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the nine-shops case (kavuah vs. rov, nischalef vs. nimtza, both configurations of nine non-kosher/one kosher and nine kosher/one non-kosher), which is precisely what the 'Nine Shops Case' prose describes, and the strung-meat sentence at the start is the lead-in exception mentioned in that section.",
+      "chosen_heading": "Nine Shops Case",
+      "current_heading": "Nine Shops Case",
+      "moved": false
+    }
+  }
+]

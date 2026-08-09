@@ -1,0 +1,228 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Proverbs Source",
+    "candidates": [
+      "No Entry to Borrower",
+      "Guarantor's Home",
+      "Proverbs Source",
+      "Wages & Fees",
+      "Wages to Loan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute the baraisa citing Proverbs verses about the guarantor and interpreting them \u2014 exactly what the 'Proverbs Source' prose describes, including both the first verse (Proverbs 20:16) and the second verse (Proverbs 6:1\u20133) with Rashi's reading of hitrappeis as releasing payment or gathering friends.",
+      "chosen_heading": "Proverbs Source",
+      "current_heading": "Proverbs Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Wages to Loan",
+    "candidates": [
+      "Wages & Fees",
+      "Wages to Loan",
+      "Rambam Force Entry",
+      "Power Dynamics",
+      "No Widow Collateral"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the wages/fees exception and the conversion-to-loan complication in a single continuous baraita, and the current heading 'Wages to Loan' with its prose explicitly addresses both the zakfan alav bemilveh question and the talmud lomar massa u-ma ruling that appears in this item.",
+      "chosen_heading": "Wages to Loan",
+      "current_heading": "Wages to Loan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "No Widow Collateral",
+    "candidates": [
+      "Rambam Force Entry",
+      "Power Dynamics",
+      "No Widow Collateral",
+      "Rich vs Poor Widow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Mishna stating that a widow whether poor or wealthy may not have collateral taken from her, which is precisely what the 'No Widow Collateral' section's prose introduces and discusses.",
+      "chosen_heading": "No Widow Collateral",
+      "current_heading": "No Widow Collateral",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Rich vs Poor Widow",
+    "candidates": [
+      "Rich vs Poor Widow",
+      "Derishing Reason",
+      "Expand vs Narrow",
+      "Yehuda: Reason Explicit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraisa dispute between Rabbi Yehuda and Rabbi Shimon about taking collateral from a wealthy vs. poor widow, which is precisely what the 'Rich vs Poor Widow' prose section discusses in detail.",
+      "chosen_heading": "Rich vs Poor Widow",
+      "current_heading": "Rich vs Poor Widow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Yehuda: Reason Explicit",
+    "candidates": [
+      "Derishing Reason",
+      "Expand vs Narrow",
+      "Yehuda: Reason Explicit",
+      "Shimon: Derives Reason",
+      "Nefesh Hu Chovel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a single continuous Gemara unit \u2014 the challenge that Rabbi Yehuda and Rabbi Shimon appear reversed in the king's wives case, and the resolution explaining that Rabbi Yehuda permits himself to use the explicit reason embedded in the verse \u2014 which is precisely what the prose of candidate 2 ('Yehuda: Reason Explicit') describes.",
+      "chosen_heading": "Yehuda: Reason Explicit",
+      "current_heading": "Yehuda: Reason Explicit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Nefesh Hu Chovel",
+    "candidates": [
+      "Shimon: Derives Reason",
+      "Nefesh Hu Chovel",
+      "Lashes Debate",
+      "Pesach Parallel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nefesh Hu Chovel",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna and opening of the Gemara about taking millstones as collateral, matching the 'Nefesh Hu Chovel' prose which describes exactly the Mishna's content and the general principle.",
+      "second_heading": "Lashes Debate",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 continue the Rav Huna/Rav Yehuda dispute about lashes, with Rav Yehuda's position that 'ki nefesh hu chovel lish'ar devarim hu de'asa' matching precisely the 'Lashes Debate' prose description.",
+      "current_heading": "Nefesh Hu Chovel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Pesach Parallel",
+    "candidates": [
+      "Lashes Debate",
+      "Pesach Parallel",
+      "Generic vs Specific",
+      "Rava: Doubles Up"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present the Gemara's proposal that Abaye and Rava's dispute about the Paschal offering parallels Rav Huna and Rav Yehuda's dispute, which is precisely what the 'Pesach Parallel' prose describes.",
+      "chosen_heading": "Pesach Parallel",
+      "current_heading": "Pesach Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Rava: Doubles Up",
+    "candidates": [
+      "Generic vs Specific",
+      "Rava: Doubles Up",
+      "Abaye: Other Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rava's argument distinguishing the rechayim/rachev case from the korban pesach case \u2014 exactly what candidate 1 ('Rava: Doubles Up') describes in its prose, including the specific point that 'ki im tzeli esh' has no other purpose and therefore must double up to create an additional lav.",
+      "chosen_heading": "Rava: Doubles Up",
+      "current_heading": "Rava: Doubles Up",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Abaye: Other Purpose",
+    "candidates": [
+      "Abaye: Other Purpose",
+      "Scissors Oxen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present Abaye's argument that ki nefesh hu chovel is superfluous (items 1-2) while ki im tzeli esh is not superfluous because it serves a non-prohibitory purpose (item 3), which is precisely what the 'Abaye: Other Purpose' prose describes in detail.",
+      "chosen_heading": "Abaye: Other Purpose",
+      "current_heading": "Abaye: Other Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Scissors Oxen",
+    "candidates": [
+      "Scissors Oxen",
+      "Ochel Nefesh Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the two baraitot about barbers' scissors and pairs of oxen that the 'Scissors Oxen' prose explicitly discusses in detail, covering both the first baraita (liability for taking the pair vs. one item) and the second baraita (the rechayim va-rachev model teaching separate liability for each vessel).",
+      "chosen_heading": "Scissors Oxen",
+      "current_heading": "Scissors Oxen",
+      "moved": false
+    }
+  }
+]

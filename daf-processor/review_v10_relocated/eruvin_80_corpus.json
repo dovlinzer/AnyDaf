@@ -1,0 +1,363 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Zikui Requirement",
+    "candidates": [
+      "Shituf Intro",
+      "Zikui Requirement",
+      "Valid Recipients",
+      "Age vs. Dependency",
+      "Erev Shabbat Apps",
+      "Hagba'ah Tefach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the opening Mishna of how shituf works \u2014 the basic mechanics of placing the barrel and declaring it for all residents, followed by who may and may not serve as the receiving agent \u2014 which matches the 'Shituf Intro' prose that describes exactly this Mishna (keitzad mishtatfin, maniach es hachavis, harei zu lechol bnei hamavoi) rather than the 'Zikui Requirement' or 'Valid Recipients' sections which discuss the underlying principles and enumerated options in detail.",
+      "chosen_heading": "Shituf Intro",
+      "current_heading": "Zikui Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Hagba'ah Tefach",
+    "candidates": [
+      "Valid Recipients",
+      "Age vs. Dependency",
+      "Erev Shabbat Apps",
+      "Hagba'ah Tefach",
+      "Pumbedita Rulings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Yehuda's ruling about raising the barrel a handbreadth (hagba'ah tefach) for shitufei mevo'os, which is precisely what the prose under heading 3 'Hagba'ah Tefach' discusses.",
+      "chosen_heading": "Hagba'ah Tefach",
+      "current_heading": "Hagba'ah Tefach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Pumbedita Rulings",
+    "candidates": [
+      "Pumbedita Rulings",
+      "Asherah Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the rulings attributed to the elders of Pumbedita \u2014 kiddush mouthful, fire for a woman in childbirth, and the extension to bloodletting \u2014 which exactly matches the prose under 'Pumbedita Rulings' (candidate 0).",
+      "chosen_heading": "Pumbedita Rulings",
+      "current_heading": "Pumbedita Rulings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Asherah Debate",
+    "candidates": [
+      "Asherah Debate",
+      "Baraita Shituf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together form the complete asheira debate between Rav and Shmuel, with Ameimar's framing and the elders of Pumbedita's ruling, which is exactly what the 'Asherah Debate' prose section describes.",
+      "chosen_heading": "Asherah Debate",
+      "current_heading": "Asherah Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Baraita Shituf",
+    "candidates": [
+      "Baraita Shituf",
+      "Rav No Transfer",
+      "Shmuel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the objection from the baraita about how shituf is performed and the Gemara's resolution that 'mashehu' means a tefach, which is precisely what the 'Baraita Shituf' prose describes in detail.",
+      "chosen_heading": "Baraita Shituf",
+      "current_heading": "Baraita Shituf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Shmuel Position",
+    "candidates": [
+      "Rav No Transfer",
+      "Shmuel Position",
+      "Daughter-in-Law"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Rav-Shmuel dispute about zikui for shituf mevo'os vs. eruv techumin and the initial Gemara question about Rav's reasoning, which is precisely what the 'Shmuel Position' prose discusses in detail, including the inversion of opinions and the Gemara's note that Shmuel's position is internally coherent while Rav's contradicts the mishna.",
+      "chosen_heading": "Shmuel Position",
+      "current_heading": "Shmuel Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Daughter-in-Law",
+    "candidates": [
+      "Daughter-in-Law",
+      "RN Conclusion",
+      "Tavshilin Query",
+      "RY Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items form the continuous narrative about Rabbi Oshaya's daughter-in-law, the ruling of Rabbi \u1e24iyya, the challenge of Rabbi Yishmael b'Rabbi Yosei, the dilemma about the nature of the eiruv's invalidity, and the chain of inquiry through Rabbi Ya'akov and Rav Ya'akov bar Idi \u2014 exactly the content described in the 'Daughter-in-Law' section's prose.",
+      "chosen_heading": "Daughter-in-Law",
+      "current_heading": "Daughter-in-Law",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "RY Challenge",
+    "candidates": [
+      "RN Conclusion",
+      "Tavshilin Query",
+      "RY Challenge",
+      "Weapons Officer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "RN Conclusion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Nachman's concluding ruling that all three eruvin require zikui plus his dilemma about eruv tavshilin, which corresponds precisely to the 'RN Conclusion' prose that describes Rav Nachman's naktinan ruling and the 'Tavshilin Query' prose \u2014 but item 1 actually spans both headings 0 and 1; the naktinan statement belongs under heading 0 and the tavshilin question under heading 1, yet since the passage must be split somewhere, split_after 1 places the full item 1 (which contains both the conclusion and the tavshilin query) under heading 0, while items 2-4 (the Rav Yosef/Abaye exchange) belong under heading 2.",
+      "second_heading": "RY Challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 contain the Rav Yosef challenge, Abaye's response, and the bishlama hatam argument, which exactly matches the 'RY Challenge' prose description of that exchange.",
+      "current_heading": "RY Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Weapons Officer",
+    "candidates": [
+      "Weapons Officer",
+      "Wife Authority",
+      "Women Baraita",
+      "Mandatory Status",
+      "Force Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together form the complete narrative unit about the turzina cases plus the baraita objection and its resolution, which is exactly what heading 0 ('Weapons Officer') describes in its prose \u2014 covering both turzina stories, the rulings about wife's authority, the baraita challenge, and the lo kashya resolution.",
+      "chosen_heading": "Weapons Officer",
+      "current_heading": "Weapons Officer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Force Limits",
+    "candidates": [
+      "Wife Authority",
+      "Women Baraita",
+      "Mandatory Status",
+      "Force Limits",
+      "Asherah Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items discuss the limits of compelling participation in eruv/shituf \u2014 the Shmuel contradiction, the lechi/kora baraita, and the rejection of that parallel \u2014 which is precisely what candidate 3 ('Force Limits') describes in its prose.",
+      "chosen_heading": "Force Limits",
+      "current_heading": "Force Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Asherah Materials",
+    "candidates": [
+      "Asherah Materials",
+      "Self Replenish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the dispute between Rav \u1e24iyya bar Ashi and Reish Lakish regarding using asheira wood for a lechi or kora, and the principle of kisusei michsas shiureih \u2014 exactly what the 'Asherah Materials' prose describes.",
+      "chosen_heading": "Asherah Materials",
+      "current_heading": "Asherah Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Self Replenish",
+    "candidates": [
+      "Self Replenish",
+      "New Residents",
+      "Min Quantities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers both the diminished food case and the new residents case, but the current placement under 'Self Replenish' is appropriate since the passage as a whole is the source text being discussed across both sections, and it currently sits under heading 0 which discusses the first clause of this exact mishna.",
+      "chosen_heading": "Self Replenish",
+      "current_heading": "Self Replenish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Min Quantities",
+    "candidates": [
+      "New Residents",
+      "Min Quantities",
+      "RY Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the measure (shiur) of food required for an eruv, matching exactly the 'Min Quantities' section's prose about large vs. small numbers of participants and the grogeret measurement.",
+      "chosen_heading": "Min Quantities",
+      "current_heading": "Min Quantities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "RY Distinction",
+    "candidates": [
+      "RY Distinction",
+      "Reason Waived"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yosei's distinction between initial establishment of an eruv and its remnants, which is exactly what the 'RY Distinction' prose describes.",
+      "chosen_heading": "RY Distinction",
+      "current_heading": "RY Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Reason Waived",
+    "candidates": [
+      "Reason Waived",
+      "One vs. Two Types",
+      "Depletion Baraita",
+      "Two Interpret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the rationale that eruv chatzeiros exists only so children do not forget the practice, which is precisely what the 'Reason Waived' section's prose discusses as the pedagogical rather than operative function of eruv chatzeiros.",
+      "chosen_heading": "Reason Waived",
+      "current_heading": "Reason Waived",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149,
+      150,
+      151
+    ],
+    "current_heading": "Two Interpret",
+    "candidates": [
+      "One vs. Two Types",
+      "Depletion Baraita",
+      "Two Interpret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together form the Gemara's two-part resolution (ibba'is eima min echad / ibba'is eima shnei minin) that candidate 2 'Two Interpret' explicitly describes, including the kalu shani distinction.",
+      "chosen_heading": "Two Interpret",
+      "current_heading": "Two Interpret",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,384 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Rava & Abaye",
+    "candidates": [
+      "Rav Huna Intro",
+      "Rashi v. Tosafot",
+      "Rava & Abaye",
+      "Cultural Context"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Huna Intro",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing line of the Mishnah (explaining the reason 'shemachmat kiddushin rishonim shilach' and the minor case), which belongs under 'Rav Huna Intro' as the mishnaic backdrop Rashi's formulation references.",
+      "second_heading": "Rava & Abaye",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20136 are the Gemara's dialectical exchange \u2014 the necessity argument for the Mishnah's cases, then Rav Huna/Rabba's ruling on savlanot with Abaye's resolution and the ika de'amri version \u2014 which corresponds precisely to what the 'Rava & Abaye' prose describes.",
+      "current_heading": "Rava & Abaye",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Cultural Context",
+    "candidates": [
+      "Cultural Context",
+      "Ketubah Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the Rav Pappa ruling about local custom (betrothal-then-gifts vs. gifts-then-betrothal) and the subsequent majority/minority refinement, which is exactly what the 'Cultural Context' prose describes in detail.",
+      "chosen_heading": "Cultural Context",
+      "current_heading": "Cultural Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Ketubah Question",
+    "candidates": [
+      "Ketubah Question",
+      "Rav Ashi Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rava's response and Rav Ashi's answer as a single continuous unit, but the current placement under 'Ketubah Question' is correct since the prose there explicitly discusses Rava's reply and notes the gemara proceeds to explore the conclusion \u2014 the Rav Ashi resolution is quoted in the same Talmudic passage and the current section's prose already anticipates it, making this the best single heading for the entire item.",
+      "chosen_heading": "Ketubah Question",
+      "current_heading": "Ketubah Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rav Ashi Answer",
+    "candidates": [
+      "Rav Ashi Answer",
+      "Mishna Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's objection that the ruling is obvious and the clarification about a place where a scribe is not commonly available \u2014 content explicitly addressed in the 'Rav Ashi Answer' prose section.",
+      "chosen_heading": "Rav Ashi Answer",
+      "current_heading": "Rav Ashi Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Mishna Rule",
+    "candidates": [
+      "Mishna Rule",
+      "Torah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself, and the prose under 'Mishna Rule' directly paraphrases and explains its content word by word, making it the clear correct placement.",
+      "chosen_heading": "Mishna Rule",
+      "current_heading": "Mishna Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Torah Source",
+    "candidates": [
+      "Torah Source",
+      "Karet Problem",
+      "Rabba's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rami bar Chama's derivation (matching heading 0's prose) and Rava's karet challenge (matching heading 1's prose), but since the Gemara excerpt begins with 'From where are these matters derived' and includes both speakers as one continuous unit, and heading 0's prose already anticipates both the derivation and introduces Rava's challenge implicitly, the current placement under 'Torah Source' is correct \u2014 the passage as a whole unit belongs there, with the karet objection being part of the same Talmudic exchange initiated by the source question.",
+      "chosen_heading": "Torah Source",
+      "current_heading": "Torah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rabba's Principle",
+    "candidates": [
+      "Karet Problem",
+      "Rabba's Principle",
+      "Ma'aser Grain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's conclusion that the verse addresses the sequential case and that the mishnah follows Rabbah's principle, which is precisely what the 'Rabba's Principle' section's prose discusses.",
+      "chosen_heading": "Rabba's Principle",
+      "current_heading": "Rabba's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Ma'aser Grain",
+    "candidates": [
+      "Ma'aser Grain",
+      "Ma'aser Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rabba's principle and Abaye's challenge from the ma'aser case, which is precisely what the 'Ma'aser Grain' prose describes \u2014 the challenge to Rabbah's principle from the mishnah about one who separates excess ma'aser.",
+      "chosen_heading": "Ma'aser Grain",
+      "current_heading": "Ma'aser Grain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Ma'aser Solution",
+    "candidates": [
+      "Ma'aser Solution",
+      "Behema & Toda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses how ma'aser can take effect on half a grain (palga d'chitata), which is precisely what the 'Ma'aser Solution' section's prose explains and analyzes.",
+      "chosen_heading": "Ma'aser Solution",
+      "current_heading": "Ma'aser Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Behema & Toda",
+    "candidates": [
+      "Behema & Toda",
+      "Toda Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the ma'aser behema objection and its resolution (shani ma'aser behema d'ita b'ta'ut), which is precisely what the prose under 'Behema & Toda' describes.",
+      "chosen_heading": "Behema & Toda",
+      "current_heading": "Behema & Toda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Toda Dispute",
+    "candidates": [
+      "Toda Dispute",
+      "Intent Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the toda dispute between Chizkiyah and Rabbi Yochanan, which is exactly what the 'Toda Dispute' section's prose discusses \u2014 the resolution and explanation of that dispute appears in the 'Intent Resolution' section, not this passage.",
+      "chosen_heading": "Toda Dispute",
+      "current_heading": "Toda Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Intent Resolution",
+    "candidates": [
+      "Intent Resolution",
+      "Rava's Rationale",
+      "Abaye v. Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items contain exactly the content described in the 'Intent Resolution' prose: item 1 is Rabbi Yehoshua ben Levi's hakol modim statement about explicit cases, and item 2 is the bistam dispute between Chizkiyah and Rabbi Yochanan \u2014 precisely what that section's prose walks through in detail.",
+      "chosen_heading": "Intent Resolution",
+      "current_heading": "Intent Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Abaye v. Rava",
+    "candidates": [
+      "Rava's Rationale",
+      "Abaye v. Rava",
+      "Scriptural Basis",
+      "Tosafot Nuance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the question of why Rava didn't use his own principle of kiddushin she'einam mesurin l'biah, and the answer that he was responding within Rami bar Chama's framework \u2014 are precisely what candidate 0 ('Rava's Rationale') describes in its prose.",
+      "chosen_heading": "Rava's Rationale",
+      "current_heading": "Abaye v. Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Tosafot Nuance",
+    "candidates": [
+      "Scriptural Basis",
+      "Tosafot Nuance",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Scriptural Basis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Abaye-Rava dispute and Bar Ahina's scriptural derivation from 'ki yikach ish isha u'be'alah', which is precisely what the 'Scriptural Basis' prose discusses.",
+      "second_heading": "Case Setup",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the gemara's challenge from the mishnah (hamkadesh isha u'vitah k'achat) as a tiuvta d'Rava, which is exactly what the 'Case Setup' prose describes.",
+      "current_heading": "Tosafot Nuance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Tosafot Nuance",
+      "Case Setup",
+      "Rava's Reading",
+      "Position Logic",
+      "Abaye's Reading",
+      "Baraita Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items constitute Rava's response to the challenge from the mishnah \u2014 examining the seifa, raising the 'you and the donkey' problem, resolving it as 'one of you,' then presenting Abaye's and Rava's respective resolutions \u2014 which precisely matches the prose of 'Rava's Reading' describing how Rava reads the end of the mishnah and how each Amora resolves the other's difficulty.",
+      "chosen_heading": "Rava's Reading",
+      "current_heading": "Case Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Baraita Rule",
+    "candidates": [
+      "Rava's Reading",
+      "Position Logic",
+      "Abaye's Reading",
+      "Baraita Rule",
+      "Rava's Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the challenge from the baraita about a father betrothing 'my daughter' without specification, arguing it refutes Rava \u2014 exactly what the 'Baraita Rule' section's prose describes.",
+      "chosen_heading": "Baraita Rule",
+      "current_heading": "Baraita Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Rava's Limit",
+    "candidates": [
+      "Rava's Limit",
+      "Shaliach Scenario",
+      "Priority Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the content described in 'Rava's Limit' prose: Rava's answer about only one adult and one minor daughter, the challenge from the plural 'bogeros,' Rava's deflection as 'bogeros de'alma,' and the subsequent question 'ei hachi mai lemimra' \u2014 all of which are explicitly narrated in that section's prose.",
+      "chosen_heading": "Rava's Limit",
+      "current_heading": "Rava's Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Priority Rule",
+    "candidates": [
+      "Shaliach Scenario",
+      "Priority Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the shaliach scenario setup and its resolution \u2014 item 1 is the gemara's answer introducing the shaliach case, and item 2 is the follow-up challenge and resolution within that same scenario \u2014 matching the 'Shaliach Scenario' prose which explicitly covers both the shaliach framing and the 'adaita dideihu' concern, while the Priority Rule prose covers the financial benefit and mitzvah principles that follow as conclusions.",
+      "chosen_heading": "Shaliach Scenario",
+      "current_heading": "Priority Rule",
+      "moved": true
+    }
+  }
+]

@@ -34,9 +34,7 @@ The *baraita* sets out the position of the *tanna kamma* alongside that of Rabbi
 
 ### Tavyumi on Abaye
 
-The *gemara* now resists this framing. Rav Tavyumi cites Abaye: in fact, everyone may fundamentally hold of the *gezeirah shavah* of *sakhir sakhir*. The *sakhir sakhir* link may well be universally accepted — indeed, it was already used to establish that acquisition by *kesef* applies to *mokhher atzmo*, and perhaps other *halachot* are derived from it as well. The dispute between the *tanna kamma* and Rabbi Eliezer need not be about whether to make the equation at all. Rather, it may be about how to read specific limiting words within each of the relevant *pesukim*.
-
----
+The *gemara* now pushes back. Rav Tavyumi, citing Abaye, proposes: in fact, everyone may fundamentally accept the *gezeirah shavah* of *sakhir sakhir*. The dispute need not hinge on whether the equation is made at all — perhaps other *halachos* are derived from it as well.
 
 ## Tanna Kamma Distinct (II)
 

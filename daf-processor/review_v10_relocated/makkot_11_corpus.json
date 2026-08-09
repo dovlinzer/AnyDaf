@@ -1,0 +1,665 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "R. Elazar b. Yaakov",
+    "candidates": [
+      "Tanya: Pathways",
+      "R. Elazar b. Yaakov",
+      "Tachin Lecha Haderech",
+      "Rav Chama Petichta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the crossroads signage (miklat haya katuv al parashat drachim) and Rav Kahana's derivation from 'tachin lecha haderech,' and while candidate 2 discusses only Rav Kahana's verse, candidate 1's prose explicitly covers both elements together \u2014 the signage, the rationale, and notes on the rotzeach language \u2014 making it the best single home for the entire passage.",
+      "chosen_heading": "R. Elazar b. Yaakov",
+      "current_heading": "R. Elazar b. Yaakov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rav Chama Petichta",
+    "candidates": [
+      "Tachin Lecha Haderech",
+      "Rav Chama Petichta",
+      "Reish Lakish Petichta",
+      "Divine Causation Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24ama bar \u1e24anina's petichta opening the parasha of arei miklat with Psalms 25:8 and the kal vachomer conclusion, which is precisely what the prose of candidate 1 ('Rav Chama Petichta') describes in detail.",
+      "chosen_heading": "Rav Chama Petichta",
+      "current_heading": "Rav Chama Petichta",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Divine Causation Debate",
+    "candidates": [
+      "Reish Lakish Petichta",
+      "Divine Causation Debate",
+      "God's Guidance Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Reish Lakish's petichta \u2014 item 1 introduces the two verses he opens with, and item 2 explains the scenario those verses address \u2014 matching candidate 0's prose which describes exactly this opening move by Reish Lakish, while candidate 1's prose already incorporates this material as background explanation rather than being the home of the passage itself.",
+      "chosen_heading": "Reish Lakish Petichta",
+      "current_heading": "Divine Causation Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "God's Guidance Principle",
+    "candidates": [
+      "Divine Causation Debate",
+      "God's Guidance Principle",
+      "Bilaam Example",
+      "Isaiah Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states the general principle 'bederech she'adam rotzeh lalechet molichin oto' from Torah, Prophets, and Writings \u2014 which is precisely what the 'God's Guidance Principle' section introduces, before the subsequent sections give specific examples from Bilaam (Torah) and Isaiah (Prophets).",
+      "chosen_heading": "God's Guidance Principle",
+      "current_heading": "God's Guidance Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Isaiah Example",
+    "candidates": [
+      "Bilaam Example",
+      "Isaiah Example",
+      "Proverbs Example",
+      "Rav Huna's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three prooftexts (Torah/Bilaam, Prophets/Isaiah, Writings/Proverbs) as a single unit, and the 'Bilaam Example' heading is where this combined passage should sit as it introduces the full sequence starting from the Torah source.",
+      "chosen_heading": "Bilaam Example",
+      "current_heading": "Isaiah Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rav Huna's Rule",
+    "candidates": [
+      "Proverbs Example",
+      "Rav Huna's Rule",
+      "Textual Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's ruling about the blood redeemer killing the fleeing murderer before reaching the city of refuge and his interpretation of the verse, which is precisely what the 'Rav Huna's Rule' section's prose describes.",
+      "chosen_heading": "Rav Huna's Rule",
+      "current_heading": "Rav Huna's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Textual Ambiguity",
+    "candidates": [
+      "Textual Ambiguity",
+      "Two Sages Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the objection-and-resolution sequence about whether 'velo ein mishpat mavet' refers to the murderer or the blood redeemer, which is precisely what the 'Textual Ambiguity' prose describes in detail.",
+      "chosen_heading": "Textual Ambiguity",
+      "current_heading": "Textual Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Two Sages Rule",
+    "candidates": [
+      "Two Sages Rule",
+      "Intermediary Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishna about two Torah scholars accompanying the manslayer and asks whether their role is to forewarn the goel hadam of liability, which is exactly what the 'Two Sages Rule' prose addresses.",
+      "chosen_heading": "Two Sages Rule",
+      "current_heading": "Two Sages Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Intermediary Debate",
+    "candidates": [
+      "Intermediary Debate",
+      "Sage Function"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the debate between Rabbi Meir (manslayer speaks himself) and the Sages (agency/intermediary is more effective), which is precisely what the 'Intermediary Debate' prose describes.",
+      "chosen_heading": "Intermediary Debate",
+      "current_heading": "Intermediary Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Sage Function",
+    "candidates": [
+      "Sage Function",
+      "Initial Refuge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question of whether 'bishhgaga' is obvious and the answer that even intentional killers flee to the city of refuge, which is precisely what the prose under 'Sage Function' describes.",
+      "chosen_heading": "Sage Function",
+      "current_heading": "Sage Function",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Initial Refuge",
+    "candidates": [
+      "Initial Refuge",
+      "Court Classification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically describes the initial flight to cities of refuge by both unintentional and intentional killers, which is exactly what the 'Initial Refuge' section discusses, before the court's subsequent actions described in 'Court Classification'.",
+      "chosen_heading": "Initial Refuge",
+      "current_heading": "Initial Refuge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Court Classification",
+    "candidates": [
+      "Court Classification",
+      "Rabbi's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the three-way court classification (death, acquittal, exile) that the prose under 'Court Classification' explicitly discusses, quoting the same verses and outcomes.",
+      "chosen_heading": "Court Classification",
+      "current_heading": "Court Classification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Rabbi's View",
+    "candidates": [
+      "Rabbi's View",
+      "Murderers Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehuda HaNasi's view that intentional murderers exile themselves on their own initiative, mistakenly believing cities of refuge protect both unintentional and intentional killers, which is precisely what the 'Rabbi's View' prose section describes.",
+      "chosen_heading": "Rabbi's View",
+      "current_heading": "Rabbi's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Murderers Rule",
+    "candidates": [
+      "Murderers Rule",
+      "Elders Requirement",
+      "Elders Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's ruling about a city whose majority are murderers not functioning as a city of refuge, which exactly matches the 'Murderers Rule' section's prose discussion of this same ruling and its source verse.",
+      "chosen_heading": "Murderers Rule",
+      "current_heading": "Murderers Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Elders Debate",
+    "candidates": [
+      "Elders Requirement",
+      "Elders Debate",
+      "Ben Sorer Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Elazar's ruling and the Rav Ami/Rav Assi dispute about cities without elders in the context of ir miklat, which is precisely what the 'Elders Debate' prose describes.",
+      "chosen_heading": "Elders Debate",
+      "current_heading": "Elders Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Ben Sorer Debate",
+    "candidates": [
+      "Ben Sorer Debate",
+      "Egla Arufah Debate",
+      "Tosafot Resolution",
+      "Harsh Language",
+      "Torah Explanation",
+      "Language Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ben Sorer Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the ben sorer umoreh dispute about a city without elders, which matches exactly the 'Ben Sorer Debate' prose.",
+      "second_heading": "Egla Arufah Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the eglah arufah dispute about a city without elders, which matches exactly the 'Egla Arufah Debate' prose.",
+      "current_heading": "Ben Sorer Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Language Challenge",
+    "candidates": [
+      "Egla Arufah Debate",
+      "Tosafot Resolution",
+      "Harsh Language",
+      "Torah Explanation",
+      "Language Challenge",
+      "Joshua Writing",
+      "Anger View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Harsh Language",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 form one continuous discussion about why the passage on murderers uses harsh language (dibbur), including the challenge and resolution about different conjugations of the root \u2014 all fitting under 'Harsh Language' or 'Language Challenge', and since items 1-2 introduce the topic and item 3 is the challenge-and-resolution, the best single home for all three is 'Harsh Language' (index 2) which opens the discussion, but the current placement at 'Language Challenge' (index 4) also covers them; however, the prose of index 2 introduces the question and index 4 explicitly covers the challenge and resolution including 'dibur lachud yadber lachud', making index 4 the better match for the full passage.",
+      "second_heading": "Language Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is a mnemonic for the disputes that follow, signaling a structural break to new material, and its prose about a mnemonic for Rabbi Yehuda disputes aligns with a new section rather than the harsh-language discussion.",
+      "current_heading": "Language Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Anger View",
+    "candidates": [
+      "Joshua Writing",
+      "Anger View",
+      "Eight Verses Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Rabbinic dispute about why harsh language was used regarding cities of refuge \u2014 one opinion citing Joshua's delay, one citing the Torah's importance \u2014 which directly matches the 'Anger View' section's prose about the vayidaber language reflecting displeasure at Joshua's slowness in establishing cities of refuge.",
+      "chosen_heading": "Anger View",
+      "current_heading": "Anger View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Eight Verses Debate",
+    "candidates": [
+      "Eight Verses Debate",
+      "Flax vs. Sinews"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Rabbi Yehuda/Rabbi Ne\u1e25emya dispute about the eight verses vs. cities of refuge, and the gemara's resolution of the 'sefer Torat Elohim' difficulty \u2014 exactly what the 'Eight Verses Debate' prose describes in detail.",
+      "chosen_heading": "Eight Verses Debate",
+      "current_heading": "Eight Verses Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Flax vs. Sinews",
+    "candidates": [
+      "Flax vs. Sinews",
+      "R. Yehuda Pasul",
+      "Limited Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the dispute between Rabbi Yehuda and Rabbi Meir about sewing a Torah scroll with flax threads, which is precisely what the 'Flax vs. Sinews' section's prose describes as its topic.",
+      "chosen_heading": "Flax vs. Sinews",
+      "current_heading": "Flax vs. Sinews",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Limited Derivation",
+    "candidates": [
+      "R. Yehuda Pasul",
+      "Limited Derivation",
+      "Mishnah Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong under 'Limited Derivation': Item 1 presents the opposing view that the hekesh is limited to 'mutar beficha,' and Item 2 is Rav's practical observation about Rabbi \u1e24iyya's tefillin sewn with linen \u2014 both of which are explicitly described in that section's prose.",
+      "chosen_heading": "Limited Derivation",
+      "current_heading": "Limited Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Mishnah Categories",
+    "candidates": [
+      "Mishnah Categories",
+      "Mothers' Care"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself enumerating the categories of kohen gadol whose death releases the manslayer, which directly matches the 'Mishnah Categories' prose that explains exactly these three categories (anointed with oil, multiple garments, departed from anointment) and Rabbi Yehuda's addition of the war-anointed priest.",
+      "chosen_heading": "Mishnah Categories",
+      "current_heading": "Mishnah Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Mothers' Care",
+    "candidates": [
+      "Mothers' Care",
+      "Curse Efficacy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the mothers of High Priests providing sustenance and garments to manslayers so they would not pray for their sons' deaths, which is exactly what the 'Mothers' Care' section prose discusses.",
+      "chosen_heading": "Mothers' Care",
+      "current_heading": "Mothers' Care",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Curse Efficacy",
+    "candidates": [
+      "Curse Efficacy",
+      "Culpability",
+      "Prayer Variant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "The passage discusses the scriptural derivation for why the deaths of different types of High Priests facilitate the return of the manslayer \u2014 this is about the legal basis of the High Priest's role in the cities of refuge, which does not closely match any of the candidate prose sections, but 'Culpability' is the least bad fit among the options; however, none of the candidates clearly discuss this derivation topic, so confidence is low.",
+      "chosen_heading": "Culpability",
+      "current_heading": "Curse Efficacy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Prayer Variant",
+    "candidates": [
+      "Culpability",
+      "Prayer Variant",
+      "Sage's Curse",
+      "Ahitophel Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items belong together under 'Prayer Variant': items 1-3 discuss the two variant readings of the mishna and the Babylonian/Eretz Yisrael adages, while item 4 returns to Rava's teaching (with the Rabbi Yehoshua ben Levi illustration) to resolve both variants \u2014 exactly what the 'Prayer Variant' prose describes as its content.",
+      "chosen_heading": "Prayer Variant",
+      "current_heading": "Prayer Variant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149,
+      150
+    ],
+    "current_heading": "Ahitophel Story",
+    "candidates": [
+      "Sage's Curse",
+      "Ahitophel Story",
+      "Eli Samuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together tell the complete Ahithophel story \u2014 David's curse, Ahithophel's kal vachomer resolution, and the ironic fulfillment of the curse \u2014 which is precisely what the 'Ahitophel Story' prose section describes in detail.",
+      "chosen_heading": "Ahitophel Story",
+      "current_heading": "Ahitophel Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155
+    ],
+    "current_heading": "Eli Samuel",
+    "candidates": [
+      "Eli Samuel",
+      "Tosafot Curse",
+      "Medieval Herem",
+      "Lion Story",
+      "Smoke Detectors",
+      "Judah's Bones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Abbahu's teaching about the curse of a Sage taking effect even conditionally, derived from Eli and Samuel \u2014 which is precisely what the prose under 'Eli Samuel' discusses in detail.",
+      "chosen_heading": "Eli Samuel",
+      "current_heading": "Eli Samuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      168,
+      169,
+      170,
+      171,
+      172
+    ],
+    "current_heading": "Judah's Bones",
+    "candidates": [
+      "Tosafot Curse",
+      "Medieval Herem",
+      "Lion Story",
+      "Smoke Detectors",
+      "Judah's Bones",
+      "Judgment Timing",
+      "No HP at Judgment",
+      "HP Succession"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Judah's Bones",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss Rav Yehuda/Rav's ruling on conditional nidui derived from Judah's bones rattling in the coffin and Moses's prayer \u2014 exactly the content described in the 'Judah's Bones' prose.",
+      "second_heading": "No HP at Judgment",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 shift to an entirely new mishnaic topic about whether the manslayer returns with the death of one or all High Priests, and the case of no High Priest at gmar din \u2014 matching the 'No HP at Judgment' prose.",
+      "current_heading": "Judah's Bones",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      184
+    ],
+    "current_heading": "HP Succession",
+    "candidates": [
+      "Judgment Timing",
+      "No HP at Judgment",
+      "HP Succession",
+      "Kills HP",
+      "No Departure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers all the cases in one passage \u2014 verdict timing, HP succession, no HP at verdict, killing the HP \u2014 and candidate 0 ('Judgment Timing') is the opening section whose prose introduces the determinative moment of gmar din, making it the natural home for the full mishna before it is broken down into sub-topics by subsequent headings.",
+      "chosen_heading": "Judgment Timing",
+      "current_heading": "HP Succession",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      189
+    ],
+    "current_heading": "No Departure",
+    "candidates": [
+      "Kills HP",
+      "No Departure",
+      "Territorial Scope",
+      "R. Yose: Mitzvah",
+      "R. Akiva: Reshut",
+      "Ethical Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the manslayer's prohibition on leaving the city of refuge for any reason, grounding it in the verse 'asher nas shamma' \u2014 exactly what the 'No Departure' section's prose describes.",
+      "chosen_heading": "No Departure",
+      "current_heading": "No Departure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      199
+    ],
+    "current_heading": "Ethical Problem",
+    "candidates": [
+      "Territorial Scope",
+      "R. Yose: Mitzvah",
+      "R. Akiva: Reshut",
+      "Ethical Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the tchum protection rule and the Rabbi Yose/Rabbi Akiva dispute as a single mishna unit, and heading 0 ('Territorial Scope') with its prose about keshem she'ir koletet kach tchum kolet is the natural home for the complete mishna text, with headings 1 and 2 serving as analytical commentary on sub-portions rather than the primary location for the quoted source.",
+      "chosen_heading": "Territorial Scope",
+      "current_heading": "Ethical Problem",
+      "moved": true
+    }
+  }
+]

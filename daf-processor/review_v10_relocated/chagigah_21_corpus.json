@@ -1,0 +1,310 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Chatzitza Analysis",
+    "candidates": [
+      "Mishna Overview",
+      "Stratifications",
+      "Vessels Restriction",
+      "Rabbi Ila: Weight",
+      "Two Chatzitza Issues",
+      "Chatzitza Analysis",
+      "Ten Levels Position",
+      "Eleven Distinctions",
+      "First Five Apply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All four items form the continuous gemara discussion of why both the vessels case and the knotted garments case must each be stated independently despite both being rooted in chatzitza concerns \u2014 exactly what candidate 5 ('Chatzitza Analysis') describes in its prose.",
+      "chosen_heading": "Chatzitza Analysis",
+      "current_heading": "Chatzitza Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "First Five Apply",
+    "candidates": [
+      "Ten Levels Position",
+      "Eleven Distinctions",
+      "First Five Apply",
+      "Last Five Kodesh Only",
+      "Biblical Tumah",
+      "Rabbinic Only",
+      "Category Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Ila's consistent reasoning (l'ta'ameih) that there are ten stringencies rather than eleven, which is precisely what the 'Ten Levels Position' prose discusses \u2014 the collapse of two cases into one to yield a count of ten, not the subdivision into first five vs. last five which is what 'First Five Apply' covers.",
+      "chosen_heading": "Ten Levels Position",
+      "current_heading": "First Five Apply",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Category Logic",
+    "candidates": [
+      "Last Five Kodesh Only",
+      "Biblical Tumah",
+      "Rabbinic Only",
+      "Category Logic",
+      "Rava Disagrees",
+      "Needles Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains the rationale distinguishing the first five stringencies (connected to biblical tumah, applied to both kodesh and chullin she'na'asu al taharat ha-kodesh) from the last five (no biblical tumah connection, applied only to kodesh), which directly matches the 'Biblical Tumah' section's prose about chamesh kamaisa d'is l'hu drara d'tumah m'de'oraisa.",
+      "chosen_heading": "Biblical Tumah",
+      "current_heading": "Category Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Needles Concern",
+    "candidates": [
+      "Rava Disagrees",
+      "Needles Concern",
+      "Shfoferet Hanod",
+      "Modern Mikvah",
+      "Basket Question",
+      "Ila: Baskets Problem",
+      "Rava: Baskets Okay"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava Disagrees",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rava's core statement that the reisha is not a chatzitza concern and introduces the gezeirah rationale, which directly matches the 'Rava Disagrees' prose explaining that Rava disputes Rabbi Ila's conflation and argues the reisha is not a chatzitza concern at all.",
+      "second_heading": "Shfoferet Hanod",
+      "second_confidence": "high",
+      "second_reason": "Item 2 completes the citation of the mishna about shfoferet hanod measurement (ke-ovya u-ke-chalala, shtei etzbaot chozrot limkoman) and explains how water connectivity depends on opening size, which directly matches the 'Shfoferet Hanod' prose that quotes this exact mishna and explains the minimum opening required for water to be considered connected.",
+      "current_heading": "Needles Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Rava: Baskets Okay",
+    "candidates": [
+      "Shfoferet Hanod",
+      "Modern Mikvah",
+      "Basket Question",
+      "Ila: Baskets Problem",
+      "Rava: Baskets Okay",
+      "Porous Vessels"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Modern Mikvah",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is Rava's citation of Rav Na\u1e25man/Rabba bar Avuh about eleven stringencies, which is background context about Rava's position \u2014 most closely fitting under 'Shfoferet Hanod' or an earlier section establishing Rava's view, but among the candidates it best fits under 'Shfoferet Hanod' as foundational setup for Rava's rationale.",
+      "second_heading": "Basket Question",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20133 are the gemara's nafka mina question and answer about the basket/gargutni case, which is precisely what the 'Basket Question' prose describes as the practical difference between Rabbi Ila and Rava.",
+      "current_heading": "Rava: Baskets Okay",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Porous Vessels",
+    "candidates": [
+      "Porous Vessels",
+      "Purity Transfer",
+      "Outer Tamei",
+      "Outer Tahor",
+      "Mishna Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rava's rulings about baskets/bins \u2014 item 1 on immersing vessels inside a basket and item 2 on a basket dividing a mikvah \u2014 which is precisely what the 'Porous Vessels' prose discusses, including Rava's statement about dividing a mikvah with a basket and the earth-porousness reasoning.",
+      "chosen_heading": "Porous Vessels",
+      "current_heading": "Porous Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Mishna Case",
+    "candidates": [
+      "Purity Transfer",
+      "Outer Tamei",
+      "Outer Tahor",
+      "Mishna Case",
+      "Tannaic Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Outer Tamei",
+      "first_confidence": "high",
+      "first_reason": "Item 1 states the rule that immersion of an impure outer vessel carries through to inner vessels, which is precisely what 'Outer Tamei' discusses.",
+      "second_heading": "Mishna Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the mishna (Mikvaot 6:2) with its Gemara reinterpretation, which is exactly what 'Mishna Case' is describing in its prose.",
+      "current_heading": "Mishna Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Tannaic Dispute",
+    "candidates": [
+      "Tannaic Dispute",
+      "Stringency Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the tannaic dispute between the anonymous first tanna and Abba Shaul regarding a basket filled with vessels immersed for teruma/kodesh, which is precisely what the 'Tannaic Dispute' prose section discusses.",
+      "chosen_heading": "Tannaic Dispute",
+      "current_heading": "Tannaic Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Stringency Question",
+    "candidates": [
+      "Stringency Question",
+      "Imitation Concern",
+      "No Terumah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Stringency Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses why chaverim's knowledge makes teruma concerns unnecessary \u2014 matching 'Stringency Question' prose about chaverim being knowledgeable enough to handle teruma properly.",
+      "second_heading": "Imitation Concern",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 form the am ha'aretz imitation concern and its resolution for teruma \u2014 matching 'Imitation Concern' and 'No Terumah' prose exactly, but since items 2-3 belong together under one heading, 'Imitation Concern' covers item 2 while item 3 naturally continues there, though 'No Terumah' is the better fit for item 3 specifically; however the split_after must be 1, placing items 2-3 under the heading that best covers both, which is 'Imitation Concern' (index 1) as it introduces the am ha'aretz concern that item 3 then resolves.",
+      "current_heading": "Stringency Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "No Terumah",
+    "candidates": [
+      "Imitation Concern",
+      "No Terumah",
+      "Kodesh No Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks why we don't reject sacrificial food from amei ha'aretz just as we reject terumah, and answers that rejection would cause antagonism \u2014 this directly follows the 'No Terumah' section's logic about not accepting terumah from amei ha'aretz, and the antagonism answer is the bridge to the 'Kodesh No Alternative' discussion, but the passage itself fits best as a continuation of the 'No Terumah' section where the current placement is.",
+      "chosen_heading": "No Terumah",
+      "current_heading": "No Terumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Kodesh No Alternative",
+    "candidates": [
+      "Kodesh No Alternative",
+      "Proper Example",
+      "Wine Oil Trusted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains precisely why teruma differs from kodesh \u2014 the am ha'aretz can give teruma to another kohen (an alternative exists), whereas with kodesh there is only one Mikdash and no alternative, which is exactly what the 'Kodesh No Alternative' prose discusses.",
+      "chosen_heading": "Kodesh No Alternative",
+      "current_heading": "Kodesh No Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Wine Oil Trusted",
+    "candidates": [
+      "Proper Example",
+      "Wine Oil Trusted",
+      "Private Altar",
+      "Eiva Principle",
+      "Modern Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 identifying Rabbi Yossi as the tanna concerned with eiva and citing his baraita about wine and oil \u2014 directly matches the 'Eiva Principle' section's prose, which explicitly discusses Rabbi Yossi as the tanna who gives decisive weight to eiva and quotes the same identification formula.",
+      "chosen_heading": "Eiva Principle",
+      "current_heading": "Wine Oil Trusted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Modern Testimony",
+    "candidates": [
+      "Private Altar",
+      "Eiva Principle",
+      "Modern Testimony",
+      "Unity Theme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Pappa's statement about accepting testimony from an am ha'aretz like Rabbi Yossi, which is precisely what the 'Modern Testimony' prose section discusses and paraphrases.",
+      "chosen_heading": "Modern Testimony",
+      "current_heading": "Modern Testimony",
+      "moved": false
+    }
+  }
+]

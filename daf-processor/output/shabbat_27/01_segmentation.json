@@ -121,8 +121,8 @@
           "timestamp": "29:32"
         }
       ],
-      "sefaria_index": 11,
-      "matched": false
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Abaye on Sumchus and Rabbi Shimon ben Elazar regarding Sechach",
@@ -136,7 +136,7 @@
         }
       ],
       "sefaria_index": 16,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Prohibition on using tree-derived materials for wicks and tents (Tumat Ohalim)",
@@ -149,8 +149,8 @@
           "timestamp": "31:41"
         }
       ],
-      "sefaria_index": 18,
-      "matched": true
+      "sefaria_index": 16,
+      "matched": false
     },
     {
       "title": "Abaye on Sumchus and Rabbi Shimon ben Elazar regarding Sechach (continued)",
@@ -182,7 +182,7 @@
           "timestamp": "34:05"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -211,8 +211,8 @@
           "timestamp": "42:17"
         }
       ],
-      "sefaria_index": 20,
-      "matched": false
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Leather of non-kosher animals: Tumat Ohalim status",
@@ -240,7 +240,7 @@
           "timestamp": "49:26"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 19,
       "matched": false
     },
     {
@@ -254,7 +254,7 @@
           "timestamp": "50:17"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 19,
       "matched": false
     },
     {
@@ -273,7 +273,7 @@
           "timestamp": "59:53"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 19,
       "matched": false
     }
   ],
@@ -802,5 +802,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "13:50",
+  "amud_b_micro_title": "Garment inclusivity",
+  "shiur_start_daf": 26,
+  "shiur_start_amud": "b"
 }

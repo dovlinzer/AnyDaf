@@ -1,0 +1,360 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Opening & Context",
+    "candidates": [
+      "Opening & Context",
+      "Abbahu's V'anu V'amru",
+      "Procedure & Measurement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Abbahu's gezerah shavah from v'anu v'amru connecting egla arufa to the Levites on Har Eval, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Abbahu's V'anu V'amru",
+      "current_heading": "Opening & Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Procedure & Measurement",
+    "candidates": [
+      "Abbahu's V'anu V'amru",
+      "Procedure & Measurement",
+      "Initial Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the procedure of egla arufa (seder egla arufa keitzad) and the three vs. five members going out, which matches exactly the 'Procedure & Measurement' prose discussing shlosha mibeis din hagadol going out to measure, with Rabbi Yehuda's opinion of five mentioned at the end.",
+      "chosen_heading": "Procedure & Measurement",
+      "current_heading": "Procedure & Measurement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Initial Positions",
+    "candidates": [
+      "Initial Positions",
+      "Zkeinecha Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly presents the dispute between Rabbi Yehuda (five judges) and Rabbi Shimon (three judges) based on parsing 'zkeinecha' and 'v'shoftecha,' which is precisely what the prose under 'Initial Positions' describes and explains.",
+      "chosen_heading": "Initial Positions",
+      "current_heading": "Initial Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Zkeinecha Analysis",
+    "candidates": [
+      "Zkeinecha Analysis",
+      "Rabbi Yehuda Source",
+      "Vav Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the same dispute between Rabbi Shimon and Rabbi Yehuda over what 'v'shoftecha' and 'zkeinecha/zkeinecha' teach \u2014 the qualitative identification of the beis din hagadol \u2014 which is precisely what the 'Zkeinecha Analysis' prose describes.",
+      "chosen_heading": "Zkeinecha Analysis",
+      "current_heading": "Zkeinecha Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Vav Analysis",
+    "candidates": [
+      "Rabbi Yehuda Source",
+      "Vav Analysis",
+      "Eliezer's Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the vav analysis, the count of judges under Rabbi Yehuda and Rabbi Shimon, and the teaching from the baraita about v'yatzu and u'madadu \u2014 all of which are explicitly described in the 'Vav Analysis' prose, confirming the current placement is correct.",
+      "chosen_heading": "Vav Analysis",
+      "current_heading": "Vav Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Eliezer's Interpretation",
+    "candidates": [
+      "Eliezer's Interpretation",
+      "National Responsibility",
+      "Entire Sanhedrin Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Eliezer ben Yaakov's interpretation of 'your elders' and 'your judges' with the supporting prooftexts, which is exactly what the prose in heading 0 ('Eliezer's Interpretation') describes.",
+      "chosen_heading": "Eliezer's Interpretation",
+      "current_heading": "Eliezer's Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Entire Sanhedrin Query",
+    "candidates": [
+      "National Responsibility",
+      "Entire Sanhedrin Query",
+      "Zaken Mamre Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly poses the dilemma about whether Rabbi Eliezer ben Yaakov disagrees only regarding king and High Priest while agreeing with Rabbi Yehuda or Rabbi Shimon about the Sanhedrin, or whether he requires the entire Sanhedrin \u2014 exactly the question described in the 'Entire Sanhedrin Query' prose.",
+      "chosen_heading": "Entire Sanhedrin Query",
+      "current_heading": "Entire Sanhedrin Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Zaken Mamre Setup",
+    "candidates": [
+      "Zaken Mamre Setup",
+      "Why They Left"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the zaken mamrei case at Beit Pagei and the question of how many Sanhedrin members went out, which is precisely what the 'Zaken Mamre Setup' prose describes.",
+      "chosen_heading": "Zaken Mamre Setup",
+      "current_heading": "Zaken Mamre Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Why They Left",
+    "candidates": [
+      "Why They Left",
+      "Baraita Egla Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the 'Why They Left' section's prose, which explicitly discusses the goblet verse, the prohibition on leaving for a dvar reshus, the suggestion that they left for egla arufa measurement, and Abaye's counter-suggestion about expanding the city/azarot \u2014 exactly the content of items 1 and 2.",
+      "chosen_heading": "Why They Left",
+      "current_heading": "Why They Left",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Baraita Egla Evidence",
+    "candidates": [
+      "Baraita Egla Evidence",
+      "Chalal Definition",
+      "Tamun & Tzaf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita cited in support of Rav Yosef's position regarding the zaken mamrei found in Beit Pagei, which is precisely what the 'Baraita Egla Evidence' section's prose describes and analyzes.",
+      "chosen_heading": "Baraita Egla Evidence",
+      "current_heading": "Baraita Egla Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Tamun & Tzaf",
+    "candidates": [
+      "Chalal Definition",
+      "Tamun & Tzaf",
+      "Sheaves Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the same continuous Gemara passage about whether the mishna's exclusion of a concealed corpse follows Rabbi Yehuda or the Rabbanan, resolved by Rav's contextual analysis of each verse \u2014 exactly what the 'Tamun & Tzaf' prose describes.",
+      "chosen_heading": "Tamun & Tzaf",
+      "current_heading": "Tamun & Tzaf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Sheaves Analogy",
+    "candidates": [
+      "Sheaves Analogy",
+      "Tamun Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous chain about shichcha exegesis \u2014 deriving shikchat kama, excluding sheaves that floated into another's field, Rabbi Yirmeya's dilemma about airspace, and the baraita about a sheaf placed on top of another \u2014 all of which the 'Sheaves Analogy' prose explicitly describes as preparation for the egla arufa tamun/tzaf question.",
+      "chosen_heading": "Sheaves Analogy",
+      "current_heading": "Sheaves Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Tamun Resolution",
+    "candidates": [
+      "Tamun Resolution",
+      "Nofel Ba'adamah",
+      "Problem Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Shimon's use of 'tzaf' (floating) language in the shichcha debate and the Gemara's emendation to 'k'tzaf' (like floating), which is precisely the topic discussed in the 'Tamun Resolution' prose about the baraita concerning sheaves and the tzaf/tamun conditions.",
+      "chosen_heading": "Tamun Resolution",
+      "current_heading": "Tamun Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Problem Statement",
+    "candidates": [
+      "Nofel Ba'adamah",
+      "Problem Statement",
+      "Min B'Mino Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Abaye's confident self-declaration and the initial challenge about two corpses one on top of the other, which is precisely the 'Problem Statement' section's prose describing that exact scenario.",
+      "chosen_heading": "Problem Statement",
+      "current_heading": "Problem Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Min B'Mino Issue",
+    "candidates": [
+      "Min B'Mino Issue",
+      "Ba'Sadeh Requirement",
+      "Rabbi Elazar Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items directly concern the min b'mino dilemma (tamun/tzaf for same-type substances) and Abaye's sheaf baraita response, which is precisely what the 'Min B'Mino Issue' prose section describes in detail.",
+      "chosen_heading": "Min B'Mino Issue",
+      "current_heading": "Min B'Mino Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Rabbi Elazar Position",
+    "candidates": [
+      "Ba'Sadeh Requirement",
+      "Rabbi Elazar Position",
+      "Border Town Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the baraita listing exclusions and Rabbi Elazar's dissent, followed by the challenge from Rabbi Yosei bar Yehuda and Rabbi Elazar's reply about 'chalal yeteira k'tiv' \u2014 exactly the content described in the 'Rabbi Elazar Position' prose.",
+      "chosen_heading": "Rabbi Elazar Position",
+      "current_heading": "Rabbi Elazar Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Border Town Exemption",
+    "candidates": [
+      "Border Town Exemption",
+      "Beis Din Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the border town and majority-gentile city exemptions with the 'ki yimatzei/perat le-matzui' derivation, which is precisely what the 'Border Town Exemption' prose addresses.",
+      "chosen_heading": "Border Town Exemption",
+      "current_heading": "Border Town Exemption",
+      "moved": false
+    }
+  }
+]

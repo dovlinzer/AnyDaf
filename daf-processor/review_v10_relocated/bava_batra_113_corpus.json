@@ -1,0 +1,178 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Problem Setup",
+    "candidates": [
+      "Problem Setup",
+      "Two Braisas Text",
+      "Rashbam Reading",
+      "Tosafos Reading",
+      "Consensus: Acher",
+      "Ish Signal Rejected",
+      "Veyidbeku Rejected",
+      "Acher Signals Other",
+      "Acher Signals Other",
+      "Matot vs. Mateh",
+      "Ra'uy vs. Muchzak",
+      "Grandson/Husband Logic",
+      "Ya'ir Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the two baraitot discussing the two nearly identical verses and which refers to transfer by son vs. husband, which is precisely what the 'Two Braisas Text' prose describes \u2014 the pair of psukim and how each baraita handles them.",
+      "chosen_heading": "Two Braisas Text",
+      "current_heading": "Problem Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Ya'ir Proof",
+    "candidates": [
+      "Two Braisas Text",
+      "Rashbam Reading",
+      "Tosafos Reading",
+      "Consensus: Acher",
+      "Ish Signal Rejected",
+      "Veyidbeku Rejected",
+      "Acher Signals Other",
+      "Acher Signals Other",
+      "Matot vs. Mateh",
+      "Ra'uy vs. Muchzak",
+      "Grandson/Husband Logic",
+      "Ya'ir Proof",
+      "Pinchas Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage directly presents the Seguv/Ya'ir proof text establishing that a husband does not inherit rauy as he does muchzak, which is precisely what the 'Ya'ir Proof' section discusses.",
+      "chosen_heading": "Ya'ir Proof",
+      "current_heading": "Ya'ir Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Pinchas Proof",
+    "candidates": [
+      "Pinchas Proof",
+      "Two Cases Needed",
+      "Tosafos: Connection Seve\u2026",
+      "Basar Echad vs. Korvah",
+      "Final Rule",
+      "Bnei Achot Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together explain why two proof-texts are needed \u2014 item 1 gives the Pinchas verse and item 2 explicitly asks 'what is the meaning of: And it is stated?' and works through the alternative explanations (Yair's wife, sedeh charamim) that necessitate the second case, matching perfectly the 'Two Cases Needed' prose.",
+      "chosen_heading": "Two Cases Needed",
+      "current_heading": "Pinchas Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Bnei Achot Rule",
+    "candidates": [
+      "Two Cases Needed",
+      "Tosafos: Connection Seve\u2026",
+      "Basar Echad vs. Korvah",
+      "Final Rule",
+      "Bnei Achot Rule",
+      "Makish Yerusha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly discuss the bnei achot rule \u2014 sons of sisters inherit but not daughters of sisters \u2014 and Rav Sheshet's explanation that sons precede daughters (likadem), which is precisely what candidate 4's prose describes.",
+      "chosen_heading": "Bnei Achot Rule",
+      "current_heading": "Bnei Achot Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Makish Yerusha",
+    "candidates": [
+      "Makish Yerusha",
+      "Yerusha Shniya Scope",
+      "V'haya B'yom Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita that establishes the hekesh (juxtaposition) between primary and secondary inheritance, which is exactly what the 'Makish Yerusha' section's prose describes and analyzes.",
+      "chosen_heading": "Makish Yerusha",
+      "current_heading": "Makish Yerusha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "V'haya B'yom Pasuk",
+    "candidates": [
+      "Yerusha Shniya Scope",
+      "V'haya B'yom Pasuk",
+      "Dinei Mamonos Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the baraita taught by Rabba bar \u1e24anina before Rav Na\u1e25man and Abaye's challenge, which is precisely what the prose under heading 1 ('V'haya B'yom Pasuk') describes.",
+      "chosen_heading": "V'haya B'yom Pasuk",
+      "current_heading": "V'haya B'yom Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Dinei Mamonos Status",
+    "candidates": [
+      "Dinei Mamonos Status",
+      "Chidush Debate",
+      "Chukat Mishpat Weight",
+      "Asukin B'Oso Inyan",
+      "B'Chol Eis Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita deriving from 'chukat mishpat' that the entire inheritance portion has the status of din, which is precisely what the 'Dinei Mamonos Status' section's prose discusses \u2014 that this verse establishes inheritance adjudication as subject to dinei mamonos procedural rules.",
+      "chosen_heading": "Dinei Mamonos Status",
+      "current_heading": "Dinei Mamonos Status",
+      "moved": false
+    }
+  }
+]

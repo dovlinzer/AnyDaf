@@ -48,7 +48,7 @@
           "timestamp": "07:24"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -164,8 +164,8 @@
           "timestamp": "35:45"
         }
       ],
-      "sefaria_index": 13,
-      "matched": false
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Derivation of Mita for Zar Eating Teruma: Rav's Position vs. Braita (continued)",
@@ -184,7 +184,7 @@
         }
       ],
       "sefaria_index": 16,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Derivation of Mita for Zar and Tamei Kohen Performing Avoda",
@@ -231,7 +231,7 @@
           "timestamp": "38:42"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 23,
       "matched": true
     },
     {
@@ -255,7 +255,7 @@
           "timestamp": "39:01"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 29,
       "matched": true
     },
     {
@@ -279,7 +279,7 @@
           "timestamp": "39:01"
         }
       ],
-      "sefaria_index": 26,
+      "sefaria_index": 30,
       "matched": true
     }
   ],
@@ -544,5 +544,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "33:31",
+  "amud_b_micro_title": "Tehorah Requirement",
+  "shiur_start_daf": 82,
+  "shiur_start_amud": "b"
 }

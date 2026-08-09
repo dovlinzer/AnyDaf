@@ -1,0 +1,242 @@
+[
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Objective Truth in Psak",
+    "candidates": [
+      "Continuation of Sanhedrin",
+      "Court Authority & Error",
+      "Individual Follows Court",
+      "Zaken Mamre Paradox",
+      "Objective Truth in Psak",
+      "When You Know Better",
+      "Explicit Ruling Required",
+      "Shmuel's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Mishnaic text about a court member or qualified student who knows the court erred yet follows them anyway, and the principle 'hatoleh b'atzmo chayav, hatoleh b'veis din patur' \u2014 which is precisely what the 'Objective Truth in Psak' section's prose explicates in detail, quoting this very text verbatim.",
+      "chosen_heading": "Objective Truth in Psak",
+      "current_heading": "Objective Truth in Psak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Shmuel's Position",
+    "candidates": [
+      "When You Know Better",
+      "Explicit Ruling Required",
+      "Shmuel's Position",
+      "Rav Dimi's View",
+      "Tannaitic Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Shmuel's ruling that beis din is not liable until they say 'mutarin atem' and Rav Dimi's addition of 'la'asot,' which is precisely what candidate 1 ('Explicit Ruling Required') introduces as its topic, whereas candidate 2 ('Shmuel's Position') is the prose that explains and elaborates on this quoted text after it appears.",
+      "chosen_heading": "Explicit Ruling Required",
+      "current_heading": "Shmuel's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Tannaitic Evidence",
+    "candidates": [
+      "Rav Dimi's View",
+      "Tannaitic Evidence",
+      "Theory vs. Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items are tannaitic proofs (from zaken mamre, the remarried woman, and the mishna's own language) brought by Abaye, Rabbi Abba, Ravina, and their 'some say' variants \u2014 exactly the content described in the 'Tannaitic Evidence' prose section.",
+      "chosen_heading": "Tannaitic Evidence",
+      "current_heading": "Tannaitic Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Theory vs. Practice",
+    "candidates": [
+      "Theory vs. Practice",
+      "Shogeg Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Ravina's statement directly engages with the Mishnah's wording about a court ruling to violate a mitzvah, which is precisely the topic being analyzed in the 'Shogeg Definition' section discussing what the Mishnah's language implies about beis din rulings and individual liability.",
+      "chosen_heading": "Shogeg Definition",
+      "current_heading": "Theory vs. Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Shogeg Definition",
+    "candidates": [
+      "Theory vs. Practice",
+      "Shogeg Definition",
+      "Rav vs. Rabbi Yochanan",
+      "Shav Mideiato"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items constitute the Gemara's discussion of the word 'shogeg' in the mishna \u2014 Rava's two versions, Rami bar Hama's dilemma, and Rava's attempted resolution from the mishna \u2014 which is precisely what the 'Shogeg Definition' prose describes in detail.",
+      "chosen_heading": "Shogeg Definition",
+      "current_heading": "Shogeg Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Shav Mideiato",
+    "candidates": [
+      "Rav vs. Rabbi Yochanan",
+      "Shav Mideiato",
+      "Shev Mideiato Braita",
+      "Rav Pappa Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's challenge to Rabbi Yochanan's position in the Rav vs. Rabbi Yochanan dispute \u2014 item 1 introduces the objection from the baraita about excluding an apostate, and item 2 is Rabbi Shimon ben Yosei's derivation within that same baraita \u2014 all of which belongs under the heading that introduces the Rav/Rabbi Yochanan dispute itself, not under the later headings that discuss the resolution of the shav mideiato principle.",
+      "chosen_heading": "Rav vs. Rabbi Yochanan",
+      "current_heading": "Shav Mideiato",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Rav Pappa Resolution",
+    "candidates": [
+      "Shev Mideiato Braita",
+      "Rav Pappa Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the shav mideiato challenge to Rabbi Yochanan, Rav Pappa's resolution, and Rava's point about not completing the majority \u2014 are explicitly discussed in the 'Rav Pappa Resolution' prose, which addresses exactly these texts in sequence.",
+      "chosen_heading": "Rav Pappa Resolution",
+      "current_heading": "Rav Pappa Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Rav Pappa Resolution",
+    "candidates": [
+      "Rav Pappa Resolution",
+      "Doubled Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the Mishnah's use of stylistic teaching formulas ('not only this but also that' vs. 'this and it is unnecessary to say that') in the context of listing cases of exemption and liability \u2014 this is about the Mishnah's doubled/redundant language structure, which matches the 'Doubled Language' prose section discussing why the Mishnah uses both terms and what each adds.",
+      "chosen_heading": "Doubled Language",
+      "current_heading": "Rav Pappa Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Doubled Language",
+    "candidates": [
+      "Doubled Language",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rava-Abaye exchange about why the Mishnah needs both 'one of the judges' and 'student qualified to rule,' resolving that even gamir-velo-savir or savir-velo-gamir is liable \u2014 exactly what the 'Doubled Language' prose discusses.",
+      "chosen_heading": "Doubled Language",
+      "current_heading": "Doubled Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Abaye's Challenge",
+      "Retracted Rulings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous dispute about whether a scholar like Shimon ben Azzai/Zoma is meizid or shogeg, resolved through the baraita and the ta'ei b'mitzvah lishmoa divrei chachamim answer \u2014 exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Retracted Rulings",
+    "candidates": [
+      "Retracted Rulings",
+      "Rabbi Yehuda vs. Sages",
+      "Guilt vs. Causation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Mishnah's general principle about associating with oneself vs. beis din, culminating in the case of beis din retracting their ruling \u2014 exactly what the 'Retracted Rulings' section prose describes.",
+      "chosen_heading": "Retracted Rulings",
+      "current_heading": "Retracted Rulings",
+      "moved": false
+    }
+  }
+]

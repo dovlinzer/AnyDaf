@@ -1,0 +1,329 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Yannai vs. Yochanan",
+    "candidates": [
+      "Yannai vs. Yochanan",
+      "Order Outside Kodesh",
+      "Mitzvah Lehagril",
+      "Mitzvah in Mikdash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita stating 'mitzvah l'hagril, v'im lo higril kasher,' which is exactly what the 'Mitzvah Lehagril' section's prose describes as the first braitah brought in support of Rabbi Yochanan.",
+      "chosen_heading": "Mitzvah Lehagril",
+      "current_heading": "Yannai vs. Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Mitzvah in Mikdash",
+    "candidates": [
+      "Order Outside Kodesh",
+      "Mitzvah Lehagril",
+      "Mitzvah in Mikdash",
+      "Hagril vs. Haniach",
+      "Tosafot Interpretation",
+      "Higril and Hitvadah",
+      "Shimon's Position",
+      "Gemara Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the gemara's analysis of which version of the dispute the baraita fits under \u2014 specifically the problem that according to Rabbi Yannai's reading the baraita has no one to attribute it to, and the resolution to read 'mitzvah lehaniach' \u2014 which is precisely what the 'Mitzvah in Mikdash' prose describes.",
+      "chosen_heading": "Mitzvah in Mikdash",
+      "current_heading": "Mitzvah in Mikdash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Gemara Challenge",
+    "candidates": [
+      "Hagril vs. Haniach",
+      "Tosafot Interpretation",
+      "Higril and Hitvadah",
+      "Shimon's Position",
+      "Gemara Challenge",
+      "Me'akev Framework",
+      "Shimon Agrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the second baraita challenge (lehagril v'lo hitvadah) and the gemara's attempt to reapply the 'lehaniach' reinterpretation, which is precisely what candidate 2 ('Higril and Hitvadah') describes in its prose.",
+      "chosen_heading": "Higril and Hitvadah",
+      "current_heading": "Gemara Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Shimon Agrees",
+    "candidates": [
+      "Me'akev Framework",
+      "Shimon Agrees",
+      "Me'akev Assumption",
+      "Par vs. Seira",
+      "Service Sequence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Shimon's uncertainty about what the Rabbanan meant and his two-register response (if hagralah means actual drawing vs. hanachah), which is precisely what the 'Shimon Agrees' prose discusses in detail.",
+      "chosen_heading": "Shimon Agrees",
+      "current_heading": "Shimon Agrees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Service Sequence",
+    "candidates": [
+      "Me'akev Assumption",
+      "Par vs. Seira",
+      "Service Sequence",
+      "Inside/Outside Kodesh",
+      "Which Avoda?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita stating 'par me'akev et ha'seira' and 'ein ha'seira me'akevet et ha'par b'matanot shebifnim,' which is precisely what candidate 1 ('Par vs. Seira') describes \u2014 the gemara turning to a baraita about these four me'akev things, explaining the asymmetry between par and seira, whereas the current placement (candidate 2, 'Service Sequence') discusses Rashi's summary of the order of services rather than introducing this baraita.",
+      "chosen_heading": "Par vs. Seira",
+      "current_heading": "Service Sequence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Which Avoda?",
+    "candidates": [
+      "Inside/Outside Kodesh",
+      "Which Avoda?",
+      "Par Before Hagrala"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Which Avoda?",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the rejected interpretation involving matanot depar beheichal vs matanot daseir bifnim and the chok problem, which is exactly what heading 1 ('Which Avoda?') describes.",
+      "second_heading": "Par Before Hagrala",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 discuss the scenario of par bifnim advanced before the hagrala and the inference that hagrala is not me'akev, which is precisely what heading 2 ('Par Before Hagrala') describes.",
+      "current_heading": "Which Avoda?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Par Before Hagrala",
+    "candidates": [
+      "Par Before Hagrala",
+      "Order vs. Act",
+      "Scapegoat Alive",
+      "Lekapaer Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss whether the baraita can be attributed to Rabbi Shimon or Rabbi Yehuda in defending Rabbi Yannai's position about hagrala being me'akev, and the distinction between order (seder) not being me'akev versus the act of hagrala itself being me'akev \u2014 exactly what the 'Order vs. Act' prose describes, including the explicit mention of Rabbi Shimon and the d'nehi d'sidra lo me'akev hagralah miha me'akva formulation.",
+      "chosen_heading": "Order vs. Act",
+      "current_heading": "Par Before Hagrala",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Lekapaer Debate",
+    "candidates": [
+      "Order vs. Act",
+      "Scapegoat Alive",
+      "Lekapaer Debate",
+      "When Purpose Done?",
+      "Blood vs. Words"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita and presents the dispute about until when the se'ir la'Azazel must remain alive, which matches heading 1 ('Scapegoat Alive') whose prose explicitly describes this baraita asking 'until when must this goat remain alive' \u2014 the current placement under 'Lekapaer Debate' (index 2) covers the content of the dispute's positions, which comes after the baraita's introduction.",
+      "chosen_heading": "Scapegoat Alive",
+      "current_heading": "Lekapaer Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Blood vs. Words",
+    "candidates": [
+      "When Purpose Done?",
+      "Blood vs. Words",
+      "Tosafot Linkage",
+      "Linked/Unlinked",
+      "Theology",
+      "Switch Hands?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita presenting Rabbi Yehuda's and Rabbi Shimon's textual positions on blood-atonement vs. verbal-atonement, which is precisely what the 'Blood vs. Words' prose section discusses and analyzes in detail.",
+      "chosen_heading": "Blood vs. Words",
+      "current_heading": "Blood vs. Words",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Switch Hands?",
+    "candidates": [
+      "Tosafot Linkage",
+      "Linked/Unlinked",
+      "Theology",
+      "Switch Hands?",
+      "Tzadokim Concern",
+      "Hagralah vs. Reverse",
+      "Switch Both"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about Rabbi Akiva's students asking whether the lot drawn in the left hand may be transferred to the right hand, which is precisely what the 'Switch Hands?' section's prose describes.",
+      "chosen_heading": "Switch Hands?",
+      "current_heading": "Switch Hands?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Switch Both",
+    "candidates": [
+      "Tzadokim Concern",
+      "Hagralah vs. Reverse",
+      "Switch Both",
+      "Integrity",
+      "Asher Alav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the gemara's challenge (if hagralah is me'akev, how could one reverse the lot?) followed by Rava's resolution \u2014 this is precisely the content described under 'Hagralah vs. Reverse', which asks how reversal could be permitted if the drawing is indispensable, and Rava's answer belongs to the same continuous dialectical unit addressing that exact question.",
+      "chosen_heading": "Hagralah vs. Reverse",
+      "current_heading": "Switch Both",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Asher Alav",
+    "candidates": [
+      "Integrity",
+      "Asher Alav",
+      "Not Me'akev"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita distinguishing between 'asher alav' and 'asher ala alav' formulations, which is precisely what the 'Asher Alav' section's prose describes.",
+      "chosen_heading": "Asher Alav",
+      "current_heading": "Asher Alav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Not Me'akev",
+    "candidates": [
+      "Not Me'akev",
+      "Lechatchila?",
+      "Hagralah Yes/Hanachah No",
+      "Rava Moment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly concludes 'hagralah me'akevet, hanachah lo me'akevet' \u2014 the drawing of lots is indispensable but the placement is not \u2014 which is precisely what candidate 2's prose discusses as the gemara's conclusion.",
+      "chosen_heading": "Hagralah Yes/Hanachah No",
+      "current_heading": "Not Me'akev",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Rava Moment",
+    "candidates": [
+      "Lechatchila?",
+      "Hagralah Yes/Hanachah No",
+      "Rava Moment",
+      "Avoids Hagralah",
+      "Reinterpretations",
+      "Shimon Radical",
+      "Viduy Status",
+      "Cosmic Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's reinterpretation of the baraita \u2014 explaining that 'asher ala' teaches the lot need only be placed momentarily rather than remaining until slaughter \u2014 which is precisely what the 'Rava Moment' prose describes.",
+      "chosen_heading": "Rava Moment",
+      "current_heading": "Rava Moment",
+      "moved": false
+    }
+  }
+]

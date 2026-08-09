@@ -1,0 +1,305 @@
+[
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Later Eggs Permitted",
+    "candidates": [
+      "Rav Huna's Standard",
+      "Tosefta Debate",
+      "Rabban Gamliel",
+      "Rabbi Meir",
+      "Empirical Challenge",
+      "Seasonal Theory",
+      "Rav Acha Position",
+      "Ameimar Eggs",
+      "First Cluster",
+      "Later Eggs Permitted",
+      "Rav Ashi Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Acha Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rav Acha bar Yaakov's ruling that a tereifa can give birth and improve in health, which is precisely what heading 6 ('Rav Acha Position') discusses.",
+      "second_heading": "First Cluster",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the first clutch of eggs being forbidden and subsequent eggs being permitted via zeh vezeh goreim, which matches heading 8 ('First Cluster') whose prose discusses exactly this ruling about the first cluster being forbidden, with heading 9 continuing the zeh vezeh goreim point.",
+      "current_heading": "Later Eggs Permitted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Rav Ashi Challenge",
+    "candidates": [
+      "Later Eggs Permitted",
+      "Rav Ashi Challenge",
+      "Egg Types",
+      "Sacrifice Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the challenge from Rav Ashi to Ameimar about the egg of a tereifa and Ameimar's response, which is precisely what heading 1 ('Rav Ashi Challenge') describes in its prose.",
+      "chosen_heading": "Rav Ashi Challenge",
+      "current_heading": "Rav Ashi Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Sacrifice Question",
+    "candidates": [
+      "Egg Types",
+      "Sacrifice Question",
+      "Ravina Rejects"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Sacrifice Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 directly cover the Rabbi Eliezer/Rabbi Yehoshua dispute about offspring of a tereifa, the zeh vezeh gorem principle, koach d'heiteira, and the unfertilized egg conclusion \u2014 all precisely described in the 'Sacrifice Question' prose.",
+      "second_heading": "Ravina Rejects",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces Rav A\u1e25a's position aligning with Rav A\u1e25a bar Yaakov on tereifa fertility, which is the subject of the 'Ravina Rejects' section contrasting Ravina's opposing view.",
+      "current_heading": "Sacrifice Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Ravina Rejects",
+    "candidates": [
+      "Ravina Rejects",
+      "Ameimar Doubt Test",
+      "First Cluster Test",
+      "Safek Resolution",
+      "Case Reconstruction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with Ravina rejecting Rav Acha bar Yaakov's position and then introduces his alternative formulation of Ameimar's teaching, which maps precisely to the 'Ravina Rejects' prose describing Ravina's rejection and his reframing of the fertility test.",
+      "chosen_heading": "Ravina Rejects",
+      "current_heading": "Ravina Rejects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Case Reconstruction",
+    "candidates": [
+      "Ameimar Doubt Test",
+      "First Cluster Test",
+      "Safek Resolution",
+      "Case Reconstruction",
+      "Rabbi Eliezer",
+      "Rabbi Yehoshua",
+      "Egg Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage depicts exactly what the 'Case Reconstruction' prose describes: Rav Ashi challenging Ameimar about the egg of a tereifa, the response that it concerns the first cluster (shichla kama), the question about gadla vs. gamra, and the emendation tani gamra.",
+      "chosen_heading": "Case Reconstruction",
+      "current_heading": "Case Reconstruction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Egg Agreement",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Rabbi Yehoshua",
+      "Egg Agreement",
+      "Halacha Summary",
+      "Phrasing Issues",
+      "Poskim Debates",
+      "Evidence Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items cover the Gemara's reconstruction of the Rabbi Eliezer/Rabbi Yehoshua dispute as a case of 'became pregnant then became treifa,' the objection about why they dispute regarding the altar rather than ordinary consumption, and the resolution via 'gufa hi' for the egg \u2014 all of which the prose under 'Rabbi Eliezer' explicitly sets up as the reconstructed debate under Ravina's position.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Egg Agreement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Evidence Use",
+    "candidates": [
+      "Halacha Summary",
+      "Phrasing Issues",
+      "Poskim Debates",
+      "Evidence Use",
+      "Rambam Exception",
+      "No Bones Rule",
+      "Wormy Fruit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the actual Talmudic ruling (ve-hilchesa) that the 'Halacha Summary' section's prose directly quotes and paraphrases, making it a clear match for that heading rather than the 'Evidence Use' section where it currently sits.",
+      "chosen_heading": "Halacha Summary",
+      "current_heading": "Evidence Use",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Wormy Fruit",
+    "candidates": [
+      "Rambam Exception",
+      "No Bones Rule",
+      "Wormy Fruit",
+      "Date Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's 'no bones' statement and Rav Pappa's derivation from it, but the primary content being quoted is Rav Huna's rule itself, which is what heading 1 ('No Bones Rule') directly introduces \u2014 the current placement under 'Wormy Fruit' splits the combined quote from its natural anchor heading.",
+      "chosen_heading": "No Bones Rule",
+      "current_heading": "Wormy Fruit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Date Test",
+    "candidates": [
+      "Wormy Fruit",
+      "Date Test",
+      "Fly Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Date Test",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the date-jar case that 'Date Test' prose explicitly describes \u2014 dates stored over twelve months with worms found permissible.",
+      "second_heading": "Fly Dispute",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav's statement about the mosquito/fly lifespan, which is the opening claim that 'Fly Dispute' prose directly discusses and elaborates upon.",
+      "current_heading": "Date Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Fly Dispute",
+    "candidates": [
+      "Fly Dispute",
+      "Hind Leg Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the Rav Pappa/Abaye exchange about the female mosquito's seven-year grudge and the sixty iron dinars adage, which is precisely what the 'Fly Dispute' prose describes.",
+      "chosen_heading": "Fly Dispute",
+      "current_heading": "Fly Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Hind Leg Rule",
+    "candidates": [
+      "Hind Leg Rule",
+      "Yiter Principle",
+      "Rishonic Problem",
+      "Sani D'Avi",
+      "Stomach Tubes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Mishnah from Bekhorot and Rav Huna's ruling distinguishing foreleg from hind leg, which is exactly what the 'Hind Leg Rule' prose discusses, before the 'Yiter Principle' section takes over to explain the kol yiter k'natul rationale.",
+      "chosen_heading": "Hind Leg Rule",
+      "current_heading": "Hind Leg Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Stomach Tubes",
+    "candidates": [
+      "Yiter Principle",
+      "Rishonic Problem",
+      "Sani D'Avi",
+      "Stomach Tubes",
+      "Nassan Testimony",
+      "Exit Proximity",
+      "Fusion Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 the two-ceca case ruled treifa by Ravina based on Rav Huna's principle, and the kosher ruling when they empty into each other \u2014 are precisely what candidate 2 ('Sani D'Avi') describes in its prose, making that the clearly correct home for this passage.",
+      "chosen_heading": "Sani D'Avi",
+      "current_heading": "Stomach Tubes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136,
+      137,
+      138
+    ],
+    "current_heading": "Fusion Debate",
+    "candidates": [
+      "Nassan Testimony",
+      "Exit Proximity",
+      "Fusion Debate"
+    ],
+    "result": null
+  }
+]

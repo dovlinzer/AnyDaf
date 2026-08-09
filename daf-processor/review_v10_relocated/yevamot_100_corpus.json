@@ -1,0 +1,365 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Initial List",
+    "candidates": [
+      "Initial List",
+      "Cheresh, Shoteh, Katan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself listing all ten categories, which candidate 0's prose explicitly describes as the opening text the essay author introduces and explains before the gemara's category-by-category analysis begins in candidate 1.",
+      "chosen_heading": "Initial List",
+      "current_heading": "Initial List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Cheresh, Shoteh, Katan",
+    "candidates": [
+      "Cheresh, Shoteh, Katan",
+      "Tumtum, Androgynous",
+      "Slaves",
+      "Arel, Tamei",
+      "Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's chain of reasoning that begins with 'bishlama cheresh shoteh ve-katan' and works through each excluded category in sequence, and the prose under heading 0 ('Cheresh, Shoteh, Katan') explicitly discusses this entire analytical passage including the gemara's question-and-answer format for all the groups listed.",
+      "chosen_heading": "Cheresh, Shoteh, Katan",
+      "current_heading": "Cheresh, Shoteh, Katan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Women",
+    "candidates": [
+      "Tumtum, Androgynous",
+      "Slaves",
+      "Arel, Tamei",
+      "Women",
+      "Tamei Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly present the Rav Pappa/Rav Huna dispute about why women don't receive teruma at the threshing floor (mishum gerushah vs. mishum yichud) and the practical difference between them \u2014 exactly what the 'Women' section prose describes.",
+      "chosen_heading": "Women",
+      "current_heading": "Women",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Tamei Exception",
+    "candidates": [
+      "Tamei Exception",
+      "General Rule",
+      "Women, Ma'aser Ani"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the gemara's discussion of why teruma is withheld from the tamei but sent to the arel, culminating in the 'nafush unsei' distinction \u2014 exactly what the 'Tamei Exception' prose describes.",
+      "chosen_heading": "Tamei Exception",
+      "current_heading": "Tamei Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Women, Ma'aser Ani",
+    "candidates": [
+      "General Rule",
+      "Women, Ma'aser Ani",
+      "Women Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita about slaves/women not receiving teruma at the granary and the gemara's question/resolution about ma'aser ani \u2014 exactly what heading 0 ('General Rule') describes as introducing and beginning to unpack, before heading 1 takes over with the fuller analysis of ma'aser ani distribution.",
+      "chosen_heading": "General Rule",
+      "current_heading": "Women, Ma'aser Ani",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Women Priority",
+    "candidates": [
+      "Women, Ma'aser Ani",
+      "Women Priority",
+      "Forced Release"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's personal statement about changing his judicial practice to hear women's cases first due to ziluta, which is explicitly quoted and discussed in the 'Women Priority' section's prose.",
+      "chosen_heading": "Women Priority",
+      "current_heading": "Women Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Forced Release",
+    "candidates": [
+      "Forced Release",
+      "Mincha Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's ruling that the mixed sons are coerced to free each other, which is precisely what the 'Forced Release' section's prose describes.",
+      "chosen_heading": "Forced Release",
+      "current_heading": "Forced Release",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Mincha Rules",
+    "candidates": [
+      "Mincha Rules",
+      "Sacrificial Remnants",
+      "Scenario Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain about the minchah of an uncertain kohen/Yisrael \u2014 the kometz/shiyarayim problem, the bal taktirun objection, Rabbi Yehuda's fuel solution, and the Rabbis' position via Rabbi Elazar ben Rabbi Shimon \u2014 exactly matching the 'Mincha Rules' prose.",
+      "chosen_heading": "Mincha Rules",
+      "current_heading": "Mincha Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Scenario Setup",
+    "candidates": [
+      "Sacrificial Remnants",
+      "Scenario Setup",
+      "Both Chalitza",
+      "Arayos Risk",
+      "Different Mothers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna describes the scenario setup of a woman who did not wait three months, remarried, gave birth to a child of uncertain paternity, and had sons from both husbands \u2014 exactly what the 'Scenario Setup' prose describes.",
+      "chosen_heading": "Scenario Setup",
+      "current_heading": "Scenario Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Different Mothers",
+    "candidates": [
+      "Both Chalitza",
+      "Arayos Risk",
+      "Different Mothers",
+      "One Each Option",
+      "Diet, Purity, Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the ruling that he may perform chalitza or yibum, and that one brother performs chalitza while another performs yibum, which matches exactly the 'One Each Option' prose discussing echad choleitz ve-echad meyabem.",
+      "chosen_heading": "One Each Option",
+      "current_heading": "Different Mothers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Diet, Purity, Marriage",
+    "candidates": [
+      "One Each Option",
+      "Diet, Purity, Marriage",
+      "Terumah Sale, Kodshim",
+      "Bechor Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers marriage eligibility, corpse impurity, and lashes \u2014 exactly the topics discussed in the 'Diet, Purity, Marriage' prose \u2014 while the terumah and granary content that follows is addressed in the next section's prose.",
+      "chosen_heading": "Diet, Purity, Marriage",
+      "current_heading": "Diet, Purity, Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Bechor Rules",
+    "candidates": [
+      "Terumah Sale, Kodshim",
+      "Bechor Rules",
+      "Onen, Inheritance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the topics discussed in the 'Bechor Rules' prose: the firstborn animal grazing until blemished, exemption from priestly gifts of foreleg/jaw/maw, and the concluding stringencies of both priests and Israelites.",
+      "chosen_heading": "Bechor Rules",
+      "current_heading": "Bechor Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Onen, Inheritance",
+    "candidates": [
+      "Onen, Inheritance",
+      "Temple Service",
+      "Shtuki Definition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Temple Service",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the onen/inheritance and Temple service rules for a doubtful son of two kohanim, matching the prose of candidates 0 and 1 respectively \u2014 but since items 1 and 2 together span both those sections, and item 1 currently sits under candidate 0 ('Onen, Inheritance') while item 2 belongs under candidate 1 ('Temple Service'), the split should be after item 2, keeping items 1-2 under the current placement is actually wrong; item 1 alone belongs under candidate 0 and item 2 under candidate 1, but since FORM 2 only allows one split, the cleaner split is after item 2 with items 1-2 under candidate 0 (current) and item 3 \u2014 the Gemara on \u1e25alitza-then-yibbum \u2014 under candidate 2.",
+      "second_heading": "Shtuki Definition",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is a Gemara opening an entirely new case about levirate marriage and \u1e25alitza sequencing for a shtuki's half-brothers, matching the 'Shtuki Definition' section which introduces the shtuki's legal category and its consequences.",
+      "current_heading": "Onen, Inheritance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Shtuki Definition",
+    "candidates": [
+      "Temple Service",
+      "Shtuki Definition",
+      "Genealogy Req."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's formulation of the shtuki case with ten kohanim, which matches exactly the prose of 'Shtuki Definition' that introduces this same scenario and asks why shtuki carries significant legal weight \u2014 the current placement is correct.",
+      "chosen_heading": "Shtuki Definition",
+      "current_heading": "Shtuki Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Genealogy Req.",
+    "candidates": [
+      "Genealogy Req.",
+      "Rishon Objection",
+      "Znus Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly provides the verse-based reason for excluding the shtuki from kehunah service ('ve-hayesa lo u-le-zaro acharav'), which is precisely what the 'Genealogy Req.' prose section discusses.",
+      "chosen_heading": "Genealogy Req.",
+      "current_heading": "Genealogy Req.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Znus Distinction",
+    "candidates": [
+      "Rishon Objection",
+      "Znus Distinction",
+      "Legit Marriage"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rishon Objection",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rav Pappa's objection about Abraham and the baraita challenge about 'rishon ra'ui lihayos Kohen Gadol,' which is precisely what heading 0 ('Rishon Objection') describes \u2014 the challenge to requiring traceable genealogy and the resolution that it is rabbinic/asmachta with a znus/nisuin distinction.",
+      "second_heading": "Znus Distinction",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens the new question 'u-vi-znus mi gazar rabbanan?' challenging whether the Sages actually decreed in cases of znus, which is exactly what heading 1 ('Znus Distinction') and heading 2 ('Legit Marriage') discuss, and the current placement under heading 1 is correct as it begins that inquiry.",
+      "current_heading": "Znus Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Legit Marriage",
+    "candidates": [
+      "Legit Marriage",
+      "Kidushi Taus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content directly addresses the interpretation of 'after her husband' in the mishna and whether both fathers can be alive, which corresponds precisely to the prose in candidate 0 that parses the mishna's onen status implications and the question of whether both fathers are alive simultaneously.",
+      "chosen_heading": "Legit Marriage",
+      "current_heading": "Legit Marriage",
+      "moved": false
+    }
+  }
+]

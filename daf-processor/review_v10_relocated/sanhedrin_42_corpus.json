@@ -1,0 +1,493 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Rava's Analysis",
+    "candidates": [
+      "Investigation Methods",
+      "Mishnah Discrepancy Rule",
+      "Rabbi Yochanan",
+      "Rava's Analysis",
+      "Days for Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion about the 'rubo shel chodesh' principle \u2014 Rava's proof from the mishnah and the gemara's rebuttal via the shofar argument \u2014 which is precisely what candidate 3 ('Rava's Analysis') describes in its prose.",
+      "chosen_heading": "Rava's Analysis",
+      "current_heading": "Rava's Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Days for Blessing",
+    "candidates": [
+      "Days for Blessing",
+      "Moon's Shape"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi A\u1e25a bar \u1e24anina's statement about the time limit for reciting Birkat HaLevana and the two opinions (until seven or until sixteen days), which matches exactly the content described in heading 0's prose about this chain of tradition and the question of how many days one may recite the blessing.",
+      "chosen_heading": "Days for Blessing",
+      "current_heading": "Days for Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Moon's Shape",
+    "candidates": [
+      "Moon's Shape",
+      "HaTov VeHaMeitiv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Rav Ya'akov bar Idi and the sages of Neharde'a regarding the moon's shape (yeter/bow-string vs. nafya/sieve), which is precisely what the 'Moon's Shape' section's prose describes.",
+      "chosen_heading": "Moon's Shape",
+      "current_heading": "Moon's Shape",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "HaTov VeHaMeitiv",
+    "candidates": [
+      "HaTov VeHaMeitiv",
+      "Shechinah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the exchange between Rav A\u1e25a of Difti and Ravina about whether HaTov VeHaMeitiv and Dayan HaEmet should be recited for the moon's waxing and waning, which is precisely what the prose under heading 0 elaborates on.",
+      "chosen_heading": "HaTov VeHaMeitiv",
+      "current_heading": "HaTov VeHaMeitiv",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Shechinah",
+    "candidates": [
+      "Shechinah",
+      "Tana d'vei R. Yishmael",
+      "Standing Requirement",
+      "Blessing Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three elements (Rabbi Yochanan's statement about greeting the Shechinah with gezeirah shavah, the school of Rabbi Yishmael teaching, and Abaye's ruling about standing) and the current heading 'Shechinah' prose discusses all of these together, making it the best unified home for the entire passage.",
+      "chosen_heading": "Shechinah",
+      "current_heading": "Shechinah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Blessing Text",
+    "candidates": [
+      "Tana d'vei R. Yishmael",
+      "Standing Requirement",
+      "Blessing Text",
+      "Mishnah Bundles"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Standing Requirement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Mareimar and Mar Zutra leaning, and the women's blessing question) directly matches the Standing Requirement prose, which explicitly discusses these very examples including 'hani neshei didan nami mevarchi'.",
+      "second_heading": "Blessing Text",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (the full text of Rav Yehuda's blessing) directly matches the Blessing Text prose, which quotes and expounds upon the identical full blessing text ending with 'mechadesh chodashim'.",
+      "current_heading": "Blessing Text",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Mishnah Bundles",
+    "candidates": [
+      "Mishnah Bundles",
+      "Sunrise Boundary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the 'war of Torah' and Mishnah bundles, which directly matches the 'Mishnah Bundles' section prose about milchamtah shel Torah, chavilot shel Mishnah, and Rav Yosef's application of the ox verse.",
+      "chosen_heading": "Mishnah Bundles",
+      "current_heading": "Mishnah Bundles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Sunrise Boundary",
+    "candidates": [
+      "Sunrise Boundary",
+      "Location Factor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Shimi bar Ashi's ruling about the sunrise boundary invalidating testimony, which matches the 'Sunrise Boundary' prose that explicitly discusses this exception and quotes 'edutan beteilah,' not the 'Location Factor' prose which offers a secondary interpretive elaboration.",
+      "chosen_heading": "Sunrise Boundary",
+      "current_heading": "Sunrise Boundary",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Location Factor",
+    "candidates": [
+      "Location Factor",
+      "That Day Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Shimi bar Ashi's teaching about 'before sunrise' vs 'during sunrise' testimony, which is exactly what the 'Location Factor' prose explains as the geographic/positional basis for invalidating divergent testimony.",
+      "chosen_heading": "Location Factor",
+      "current_heading": "Location Factor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "That Day Rule",
+    "candidates": [
+      "That Day Rule",
+      "Abaye Reconciles",
+      "Wine Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is specifically about Abaye's reconciliation of the 'that day' language with the baraita using the mamash bidvarav distinction, which is exactly what the 'Abaye Reconciles' prose section describes.",
+      "chosen_heading": "Abaye Reconciles",
+      "current_heading": "That Day Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Wine Prohibition",
+    "candidates": [
+      "Abaye Reconciles",
+      "Wine Prohibition",
+      "Dismiss or Add",
+      "Rav Pappa/Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibition on wine for judges and Rabbi A\u1e25a bar \u1e24anina's explanation from Proverbs 31:4, which exactly matches the 'Wine Prohibition' section's prose about this topic.",
+      "chosen_heading": "Wine Prohibition",
+      "current_heading": "Wine Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Rav Pappa/Yosef",
+    "candidates": [
+      "Dismiss or Add",
+      "Rav Pappa/Yosef",
+      "Difficult Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the deadlocked court scenario \u2014 whether to release the defendant outright or add judges \u2014 which is precisely what candidate 0 ('Dismiss or Add') describes, including Rav Pappa's question to Abaye and Rabbi Yosei's position from the baraita.",
+      "chosen_heading": "Dismiss or Add",
+      "current_heading": "Rav Pappa/Yosef",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Difficult Judgment",
+    "candidates": [
+      "Rav Pappa/Yosef",
+      "Difficult Judgment",
+      "Chief Judge's Role"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Difficult Judgment",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the meaning of 'nizdaken hadin' and whether it means 'aged/difficult' or 'wise,' exactly matching the 'Difficult Judgment' prose about the baraita, the objection ipcha mibei lei, and the chacham dina interpretation.",
+      "second_heading": "Chief Judge's Role",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the objection from the baraita that the gadol she-ba-dayanim says the formula, and debates whether this fits chacham dina or kash dina, which is precisely what the 'Chief Judge's Role' prose describes.",
+      "current_heading": "Difficult Judgment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Chief Judge's Role",
+    "candidates": [
+      "Chief Judge's Role",
+      "Self-Praise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the tension between kash dina and chacham dina interpretations and why the gadol announces the verdict, including the eino domeh mitbayesh me-atzmo principle and the yehalelcha zar objection \u2014 all of which are explicitly summarized in candidate 0's prose.",
+      "chosen_heading": "Chief Judge's Role",
+      "current_heading": "Chief Judge's Role",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Self-Praise",
+    "candidates": [
+      "Self-Praise",
+      "Hadran",
+      "Stoning House"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly illustrates the principle 'shani milta de-bei dina / de-gadol ramya' with the mishna about the senior judge pronouncing judgment, which is exactly what the 'Self-Praise' section's prose discusses and quotes.",
+      "chosen_heading": "Self-Praise",
+      "current_heading": "Self-Praise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Stoning House",
+    "candidates": [
+      "Hadran",
+      "Stoning House"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'Hadran alach hayu bodkim' is the hadran formula marking the completion of chapter five, which directly matches the 'Hadran' section prose describing the completion of the fifth chapter of Masechet Sanhedrin.",
+      "chosen_heading": "Hadran",
+      "current_heading": "Stoning House",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Stoning House",
+    "candidates": [
+      "Stoning House",
+      "Signal System",
+      "Last Chance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the verdict being finalized and the condemned being taken to the stoning place outside the court with the Leviticus proof-text, which matches exactly the prose under 'Stoning House' that discusses nigmar hadin, beit hasekila chutz l'beit hadin, and the same Leviticus verse about the mekalel.",
+      "chosen_heading": "Stoning House",
+      "current_heading": "Stoning House",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Last Chance",
+    "candidates": [
+      "Signal System",
+      "Last Chance",
+      "Karoz",
+      "Outside Camp"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes both the signal system (man with cloths, horse, waving to halt the procession) AND the condemned man's ability to return, and the Signal System prose explicitly covers both the cloth-waving mechanism and the horse racing to halt the procession, while the Last Chance prose only discusses the condemned man's own claim \u2014 but the full mishnah text covers the entire procedure starting with the signal system, making heading 0 the better match for the complete passage.",
+      "chosen_heading": "Signal System",
+      "current_heading": "Last Chance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Outside Camp",
+    "candidates": [
+      "Karoz",
+      "Outside Camp",
+      "Appearance",
+      "Opportunity",
+      "Curser"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items address the gemara's reconciliation of the mishnah's 'outside the court' with the baraita's 'outside three camps,' which is precisely what the 'Outside Camp' prose describes.",
+      "chosen_heading": "Outside Camp",
+      "current_heading": "Outside Camp",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Curser",
+    "candidates": [
+      "Appearance",
+      "Opportunity",
+      "Curser",
+      "Burned Bulls",
+      "Incremental Camp"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Curser",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita deriving three camps for the mekalel via analogy to parim nisrafim, exactly what the 'Curser' prose describes.",
+      "second_heading": "Burned Bulls",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the question of how we know parim nisrafim themselves require three camps, which is precisely what the 'Burned Bulls' prose addresses as the next independent derivation needed.",
+      "current_heading": "Curser",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Incremental Camp",
+    "candidates": [
+      "Burned Bulls",
+      "Incremental Camp",
+      "Wrong Slaughter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the incremental derivation of three camps from three separate uses of 'michutz lamachaneh' \u2014 first for par ha-edah (second camp) and then for the deshen/ashes (third camp) \u2014 which is precisely what the 'Incremental Camp' prose describes.",
+      "chosen_heading": "Incremental Camp",
+      "current_heading": "Incremental Camp",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Wrong Slaughter",
+    "candidates": [
+      "Wrong Slaughter",
+      "Machshir",
+      "Moshe's Location"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Wrong Slaughter",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 present the full back-and-forth debate between deriving from parim nisrafim versus shochutei chutz, which is precisely what candidate 0 ('Wrong Slaughter') describes in its prose.",
+      "second_heading": "Machshir",
+      "second_confidence": "high",
+      "second_reason": "Item 6 ('machshir mi'machshir adif') is the resolution that the gemara prefers the machshir-to-machshir analogy, which is exactly what candidate 1 ('Machshir') discusses in its prose.",
+      "current_heading": "Wrong Slaughter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134,
+      135
+    ],
+    "current_heading": "Moshe's Location",
+    "candidates": [
+      "Machshir",
+      "Moshe's Location"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form Rav Pappa's proof about Moshe's location and the two acts of taking out the blasphemer, including the objection and response about implementation, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Moshe's Location",
+      "current_heading": "Moshe's Location",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Two Oxen Case",
+    "candidates": [
+      "Mishnah Introduction",
+      "Two Oxen Case",
+      "Hefker Ox Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the content described in the 'Two Oxen Case' prose: Rav Yehuda's exclusion of the mutual-accusation case, the gemara's challenge that this is already taught later in the mishnah (hayu shenayim rodfim), and the resolution of tani ve'ader mefaresh.",
+      "chosen_heading": "Two Oxen Case",
+      "current_heading": "Two Oxen Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Hefker Ox Analysis",
+    "candidates": [
+      "Hefker Ox Analysis",
+      "Ravina's Reading",
+      "Rav Yehuda on Kofer",
+      "Same Status Requirement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Hefker Ox Analysis",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the hefker ox scenario (baraita excluding ownerless property, the case of ownerless ox goring ours, and the answer about another person acquiring it first), which matches precisely the 'Hefker Ox Analysis' prose.",
+      "second_heading": "Ravina's Reading",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Ravina's reading (nagach ve'achar kach hikdish/hefkir) and the confirming baraita with Rabbi Yehuda's ruling, which matches exactly the 'Ravina's Reading' prose discussion of post-damage transfer of ownership.",
+      "current_heading": "Hefker Ox Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Same Status Requirement",
+    "candidates": [
+      "Ravina's Reading",
+      "Rav Yehuda on Kofer",
+      "Same Status Requirement",
+      "Extension Beyond Kofer",
+      "Knas vs. Monetary Obliga",
+      "Tosafot's Principle",
+      "Risk & Freedom Logic",
+      "Mishnah Reading",
+      "Rav Chisda's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the requirement that the ox's status remain consistent through the verdict (gmar din), and the conclusion 'misa ve-ha'amada ba-din u-gmar din shavin ke-echad' is precisely what the 'Same Status Requirement' prose describes as the gemara's clarification.",
+      "chosen_heading": "Same Status Requirement",
+      "current_heading": "Same Status Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Rav Chisda's View",
+    "candidates": [
+      "Extension Beyond Kofer",
+      "Knas vs. Monetary Obliga",
+      "Tosafot's Principle",
+      "Risk & Freedom Logic",
+      "Mishnah Reading",
+      "Rav Chisda's View",
+      "Rabbi Elazar's View",
+      "Baraitot Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All 13 items cover exactly the content described in candidate 5's prose: the mishna's exemption for the damager's own domain, Rav Chisda/Avimi vs. Rabbi Elazar on shared domains, the question of what 'ke-she-hizik chav ha-mazik' adds according to Rav, and the extended baraita digression about shomrim whose watched animal causes damage \u2014 including the stipulation about accepting shmiras gufo but not shmiras nizko and the night/bandits exemption.",
+      "chosen_heading": "Rav Chisda's View",
+      "current_heading": "Rav Chisda's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Baraitot Contradiction",
+    "candidates": [
+      "Rabbi Elazar's View",
+      "Baraitot Contradiction",
+      "Rav Yosef's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form the continuous gemara sequence of Rav Yosef's baraita challenging Rabbi Elazar, Rabbi Elazar's counter-baraita from Rabbi Shimon ben Elazar's four principles, and the concluding observation that the two baraitot contradict one another \u2014 exactly the content described in candidate 1's prose about the contradiction between baraitot.",
+      "chosen_heading": "Baraitot Contradiction",
+      "current_heading": "Baraitot Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Rav Yosef's Distinction",
+    "candidates": [
+      "Rav Yosef's Distinction",
+      "Zevid-Abaye Exchange"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Yosef's Distinction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Gemara's distinction between the two baraitot and the linguistic confirmation (pundak/bika), which is exactly what heading 0 ('Rav Yosef's Distinction') discusses in its prose.",
+      "second_heading": "Zevid-Abaye Exchange",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Zeira's objection that since the courtyard is designated for produce the condition of 'sadeh acher' is not met, which corresponds precisely to heading 1 ('Zevid-Abaye Exchange') whose prose opens with that very challenge about whether the victim's rights preclude calling it sadeh acher.",
+      "current_heading": "Rav Yosef's Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Zevid-Abaye Exchange",
+    "candidates": [
+      "Zevid-Abaye Exchange",
+      "Mixed Rights Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's direct response in the Zevid-Abaye exchange, explaining that since the domain is not designated for oxen it is called 'sadeh acher,' which is precisely what the prose of candidate 0 describes.",
+      "chosen_heading": "Zevid-Abaye Exchange",
+      "current_heading": "Zevid-Abaye Exchange",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Mixed Rights Scenario",
+    "candidates": [
+      "Mixed Rights Scenario",
+      "Core Principle Extraction",
+      "Damagee's Domain Only",
+      "Damager's Domain Only",
+      "Shared Domain Breakdown",
+      "Neither's Domain"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mixed Rights Scenario",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Rav A\u1e25a/Ravina exchange about whether the amoraim disagree, which matches exactly the 'Mixed Rights Scenario' prose describing that same exchange.",
+      "second_heading": "Damagee's Domain Only",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens the 'gufa' analysis of Rabbi Shimon ben Elazar's four principles, specifically the first category of damagee's-only domain, which matches the 'Damagee's Domain Only' prose perfectly.",
+      "current_heading": "Mixed Rights Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Neither's Domain",
+    "candidates": [
+      "Core Principle Extraction",
+      "Damagee's Domain Only",
+      "Damager's Domain Only",
+      "Shared Domain Breakdown",
+      "Neither's Domain",
+      "Mixed Rights Setup",
+      "Rashi's Approach",
+      "Tosafot's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All 13 items discuss the fourth category of the baraita (lo laze ve-lo laze), the reinterpretation of 'neither's domain,' the Rabbi Tarfon vs. Rabbanan split between reisha and seifa, Shmuel's advice to Rav Yehuda, and Ravina/Rava's alternative reading \u2014 all of which are explicitly described in the 'Neither's Domain' prose under candidate 4.",
+      "chosen_heading": "Neither's Domain",
+      "current_heading": "Neither's Domain",
+      "moved": false
+    }
+  }
+]

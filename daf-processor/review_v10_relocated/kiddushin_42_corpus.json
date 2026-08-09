@@ -1,0 +1,289 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Gam Atem - Like You",
+    "candidates": [
+      "Three Sources",
+      "Why Terumah Needed",
+      "Gam Atem - Like You",
+      "Learning From Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yannai's teaching that 'gam atem' requires agents to be members of the covenant, which is precisely what the 'Gam Atem - Like You' section's prose describes.",
+      "chosen_heading": "Gam Atem - Like You",
+      "current_heading": "Gam Atem - Like You",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Learning From Logic",
+    "candidates": [
+      "Learning From Logic",
+      "Non-Jew Terumah",
+      "Resolution",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the question-and-answer sequence about why a verse is needed when Rabbi Yochanan's principle seemingly suffices, which is precisely what the 'Learning From Logic' prose describes.",
+      "chosen_heading": "Learning From Logic",
+      "current_heading": "Learning From Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Non-Jew Terumah",
+      "Resolution",
+      "Rabbi Shimon",
+      "Atem Excludes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Shimon's exemption regarding the teruma of a gentile and questions why the derivation from 'you' and 'you also' is needed, which matches exactly the prose in the 'Rabbi Shimon' section.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Rabbi Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Atem Excludes",
+    "candidates": [
+      "Atem Excludes",
+      "Question on Shaliach",
+      "Gam Includes Shaliach",
+      "Rabbi Yonatan's Use",
+      "No Shlichut From Pesach",
+      "Scene Shows Shlichut",
+      "Co-Ownership Problem",
+      "Two Psukim",
+      "Co-Owner Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why the verse needed to include 'gam' to extend agency to a shaliach \u2014 specifically addressing the concern that since 'atem' excludes so many connected parties, one might also exclude a shaliach \u2014 which is precisely the 'Question on Shaliach' section's content about the natural difficulty arising from atem's restrictiveness.",
+      "chosen_heading": "Question on Shaliach",
+      "current_heading": "Atem Excludes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Co-Owner Model",
+    "candidates": [
+      "Question on Shaliach",
+      "Gam Includes Shaliach",
+      "Rabbi Yonatan's Use",
+      "No Shlichut From Pesach",
+      "Scene Shows Shlichut",
+      "Co-Ownership Problem",
+      "Two Psukim",
+      "Co-Owner Model",
+      "Shliach Tzibbur Model",
+      "Silent vs. Repeated",
+      "Purchase on Behalf",
+      "Connection Objection",
+      "Why Two Psukim",
+      "Superfluous Pasuk",
+      "Rabbi Yitzchak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 2 ('Rabbi Yonatan's Use') describes: the gemara's question about how Rabbi Yonatan derives shlichut in kodshim given that he uses the korban Pesach verse for a different derashah (all Israel fulfilling their obligation through one Pesach), followed by the attempts to find an alternative source and the shutfus objection \u2014 all of which are the precise content summarized in that section's prose.",
+      "chosen_heading": "Rabbi Yonatan's Use",
+      "current_heading": "Co-Owner Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Rabbi Yitzchak",
+    "candidates": [
+      "Shliach Tzibbur Model",
+      "Silent vs. Repeated",
+      "Purchase on Behalf",
+      "Connection Objection",
+      "Why Two Psukim",
+      "Superfluous Pasuk",
+      "Rabbi Yitzchak",
+      "Nasi Land Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage discusses how the exclusion of minors (Rabbi Yitzchak's teaching) is derived from 'ish lefi ochlo' rather than the purchase verse, which is precisely the content of section 5 ('Superfluous Pasuk') \u2014 establishing that the minor exclusion comes from elsewhere, making 'ish' in the purchase verse superfluous and available to teach general shlichut.",
+      "chosen_heading": "Superfluous Pasuk",
+      "current_heading": "Rabbi Yitzchak",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Nasi Land Division",
+    "candidates": [
+      "Rabbi Yitzchak",
+      "Nasi Land Division",
+      "Minors Represented",
+      "Zchiyah Not Shlichut",
+      "Apotropus Appointed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yitzchak",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses the question of whether one may slaughter the Paschal offering for an individual, which belongs under the Rabbi Yitzchak section discussing korban Pesach and the word 'ish lefi ochlo'.",
+      "second_heading": "Nasi Land Division",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 introduce Rav Giddel's teaching about the nasi land division and the challenge from minors not being able to appoint agents, then the reframing as zechiyah with its challenge about hill vs. valley, which exactly matches the Nasi Land Division section's prose discussion.",
+      "current_heading": "Nasi Land Division",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Apotropus Appointed",
+    "candidates": [
+      "Minors Represented",
+      "Zchiyah Not Shlichut",
+      "Apotropus Appointed",
+      "No Protest After",
+      "Beis Din Authority",
+      "Error Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rava bar Rav Huna/Rav Giddel/Rav teaching about appointing an apitropus for orphans dividing their father's estate, which is precisely what the 'Apotropus Appointed' section's prose describes as the gemara's final settled teaching.",
+      "chosen_heading": "Apotropus Appointed",
+      "current_heading": "Apotropus Appointed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Error Exception",
+    "candidates": [
+      "No Protest After",
+      "Beis Din Authority",
+      "Error Exception",
+      "Preference vs. Error",
+      "Brothers Like Sales",
+      "Ona'ah Thresholds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous unit: Rav Nachman's ruling on orphans' division, the challenge from the mishnah about judges' appraisal errors, and the gemara's resolution (lo kashya \u2014 ha detau, ha delo tau), which is precisely what the 'Error Exception' prose describes.",
+      "chosen_heading": "Error Exception",
+      "current_heading": "Error Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Ona'ah Thresholds",
+    "candidates": [
+      "Preference vs. Error",
+      "Brothers Like Sales",
+      "Ona'ah Thresholds",
+      "Shaliach Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Nachman's statement that brothers who divided are like purchasers, which is precisely what the 'Brothers Like Sales' prose introduces, while the current placement under 'Ona'ah Thresholds' covers the three outcomes that follow from that principle.",
+      "chosen_heading": "Brothers Like Sales",
+      "current_heading": "Ona'ah Thresholds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Shaliach Division",
+    "candidates": [
+      "Ona'ah Thresholds",
+      "Shaliach Division",
+      "If They Agree to B.D."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's qualification about the shaliach case, which is exactly what candidate 1's prose discusses \u2014 that the less-than-one-sixth rule applies only when no agent was appointed, and an agent's principal can invoke 'letikuni shedartich ve'lo le'avusi'.",
+      "chosen_heading": "Shaliach Division",
+      "current_heading": "Shaliach Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "If They Agree to B.D.",
+    "candidates": [
+      "If They Agree to B.D.",
+      "No Ona'ah on Land",
+      "Measurement Errors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rule that 'more than one-sixth voids the transaction' but qualifies it by saying if the parties agreed to divide by court appraisal (*niflog b'shuma de'veit din*) the transaction stands, citing Rabban Shimon ben Gamliel \u2014 which is precisely what the prose of candidate 0 describes.",
+      "chosen_heading": "If They Agree to B.D.",
+      "current_heading": "If They Agree to B.D.",
+      "moved": false
+    }
+  }
+]

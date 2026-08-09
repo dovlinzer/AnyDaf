@@ -1,0 +1,251 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rav Nachman's Query",
+    "candidates": [
+      "Folding & Knotting",
+      "Rambam's Latitude",
+      "Talmud Range",
+      "Rav Nachman's Query",
+      "Rav's Position",
+      "Chisda's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly states Rav's ruling that tzitzit require no blessing, which is precisely what heading 4 ('Rav's Position') describes in its prose.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav Nachman's Query",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Chisda's Challenge",
+    "candidates": [
+      "Rav's Position",
+      "Chisda's Challenge",
+      "Sukkah Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain discussing Rav Chisda's challenge to Rav's ruling on tzitzit blessings, the principle Rav Yosef articulates, and the circumcision case that tests and resolves that principle \u2014 all of which is precisely what the 'Chisda's Challenge' prose describes.",
+      "chosen_heading": "Chisda's Challenge",
+      "current_heading": "Chisda's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Sukkah Comparison",
+    "candidates": [
+      "Sukkah Comparison",
+      "Tefillin Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the sukkah case \u2014 that a gentile may build it, that it is valid from any builder, and that no blessing is recited over building it \u2014 which is precisely what the 'Sukkah Comparison' prose describes in detail.",
+      "chosen_heading": "Sukkah Comparison",
+      "current_heading": "Sukkah Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Tefillin Comparison",
+    "candidates": [
+      "Tefillin Comparison",
+      "Gmar Mitzvah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the tefillin comparison \u2014 the baraita about who may write STaM, the disqualification of non-Jews, and the ruling that no blessing is recited over making tefillin \u2014 which is precisely what the 'Tefillin Comparison' prose discusses as a refutation of Rav Chisda's principle.",
+      "chosen_heading": "Tefillin Comparison",
+      "current_heading": "Tefillin Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Gmar Mitzvah Rule",
+    "candidates": [
+      "Gmar Mitzvah Rule",
+      "Chovas Dispute",
+      "Non-Jew Permission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly articulate the gmar mitzvah principle and its application to tzitzit (chovas gavra vs. chovas mana), which is precisely what the 'Gmar Mitzvah Rule' prose discusses in detail.",
+      "chosen_heading": "Gmar Mitzvah Rule",
+      "current_heading": "Gmar Mitzvah Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Non-Jew Permission",
+    "candidates": [
+      "Chovas Dispute",
+      "Non-Jew Permission",
+      "Invalid Materials"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the variant tradition (atun hachi masnisu lah / anan hachi masninan lah) that candidate 1's prose explicitly describes, where Rav Yehuda in Rav's name derives that a non-Jew may validly make tzitzit.",
+      "chosen_heading": "Non-Jew Permission",
+      "current_heading": "Non-Jew Permission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Invalid Materials",
+    "candidates": [
+      "Invalid Materials",
+      "Shmuel Lishmah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ruling of Rav Yehuda in Rav's name about kotzim, nimin, geradin being invalid and sisin being valid \u2014 exactly what the 'Invalid Materials' prose section describes and analyzes.",
+      "chosen_heading": "Invalid Materials",
+      "current_heading": "Invalid Materials",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Shmuel Lishmah",
+    "candidates": [
+      "Shmuel Lishmah",
+      "Tefillin Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Shmuel's ruling that spinning must be done lishmah (teviyah lishmah), which is precisely what the 'Shmuel Lishmah' section's prose discusses.",
+      "chosen_heading": "Shmuel Lishmah",
+      "current_heading": "Shmuel Lishmah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Tefillin Parallel",
+    "candidates": [
+      "Tefillin Parallel",
+      "Dyeing Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about tefillin coated with gold or patched with kosher/non-kosher animal skin, directly matching the 'Tefillin Parallel' prose which explicitly discusses this exact baraita and Rabban Shimon ben Gamliel's ruling about lishmah for tefillin batim.",
+      "chosen_heading": "Tefillin Parallel",
+      "current_heading": "Tefillin Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Dyeing Process",
+    "candidates": [
+      "Dyeing Process",
+      "Three Inferences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the actual dyeing procedure Abaye inquired about, which is precisely what the 'Dyeing Process' section's prose discusses in detail.",
+      "chosen_heading": "Dyeing Process",
+      "current_heading": "Dyeing Process",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Three Inferences",
+    "candidates": [
+      "Three Inferences",
+      "Dye Reuse Dispute",
+      "Kelil Techeiles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the 'shema mina tlat' passage and Rav Ashi's resolution, which are precisely what the 'Three Inferences' prose describes in detail.",
+      "chosen_heading": "Three Inferences",
+      "current_heading": "Three Inferences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Kelil Techeiles",
+    "candidates": [
+      "Dye Reuse Dispute",
+      "Kelil Techeiles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the tannaitic dispute between Rabbi \u1e24anina ben Gamliel and Rabbi Yo\u1e25anan ben Dahavai about testing invalidating dye, which is precisely what heading 0 ('Dye Reuse Dispute') describes, whereas heading 1 ('Kelil Techeiles') is about the Rashi/Tosafot/Keren Orah interpretive dispute over what the baraita means \u2014 a meta-discussion about the dispute, not the dispute itself.",
+      "chosen_heading": "Dye Reuse Dispute",
+      "current_heading": "Kelil Techeiles",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Ring Falls in Sea",
+    "candidates": [
+      "Ring Falls in Sea",
+      "Rabbi Eliezer Position",
+      "Challenge to Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic source for the 'Ring Falls in Sea' section, which directly describes Rav Na\u1e25man's ruling about the idolatrous ring mixed with one hundred rings falling into the Great Sea \u2014 matching the prose of candidate 0 precisely.",
+      "chosen_heading": "Ring Falls in Sea",
+      "current_heading": "Ring Falls in Sea",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Challenge to Rav Nachman",
+    "candidates": [
+      "Rabbi Eliezer Position",
+      "Challenge to Rav Nachman",
+      "Two at a Time Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly depicts Rava's objection to Rav Na\u1e25man about the mishna's ruling that even one in ten thousand must all die, which matches exactly the 'Challenge to Rav Nachman' section's prose description of this challenge.",
+      "chosen_heading": "Challenge to Rav Nachman",
+      "current_heading": "Challenge to Rav Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Two at a Time Requirement",
+    "candidates": [
+      "Two at a Time Requirement",
+      "Forty/Sixty Split"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav's ruling being aligned with Rabbi Eliezer's principle and the two-at-a-time requirement, which is precisely what the 'Two at a Time Requirement' prose section describes.",
+      "chosen_heading": "Two at a Time Requirement",
+      "current_heading": "Two at a Time Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Forty/Sixty Split",
+    "candidates": [
+      "Forty/Sixty Split",
+      "One from Forty vs. Sixty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the ruling about one ring separating from the forty vs. the sixty and the resulting prohibition, which is precisely what candidate 1's prose elaborates on, not the general forty/sixty split setup discussed in candidate 0.",
+      "chosen_heading": "One from Forty vs. Sixty",
+      "current_heading": "Forty/Sixty Split",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "One from Forty vs. Sixty",
+    "candidates": [
+      "Forty/Sixty Split",
+      "One from Forty vs. Sixty",
+      "Gemara's Question",
+      "Entire Group Separation",
+      "Shmuel Never Batel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Gemara's challenge about the asymmetry \u2014 why one from forty doesn't forbid while one from sixty does, since in both cases we should say the forbidden item stayed with the majority \u2014 which is precisely what candidate 2 ('Gemara's Question') describes in its prose.",
+      "chosen_heading": "Gemara's Question",
+      "current_heading": "One from Forty vs. Sixty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Shmuel Never Batel",
+    "candidates": [
+      "Gemara's Question",
+      "Entire Group Separation",
+      "Shmuel Never Batel",
+      "Goblets Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Shmuel's response that idol worship's doubt and compound doubt are forbidden forever, which is precisely what the 'Shmuel Never Batel' section's prose describes.",
+      "chosen_heading": "Shmuel Never Batel",
+      "current_heading": "Shmuel Never Batel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Goblets Baraita",
+    "candidates": [
+      "Goblets Baraita",
+      "Rabbi Yehuda/Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the baraita about a cup of idol worship falling into a storeroom of cups, which is exactly what the 'Goblets Baraita' prose section discusses.",
+      "chosen_heading": "Goblets Baraita",
+      "current_heading": "Goblets Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Rabbi Yehuda/Shimon",
+    "candidates": [
+      "Rabbi Yehuda/Shimon",
+      "Shmuel vs. Tannaim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the tannaitic dispute between Rabbi Yehuda and Rabbi Shimon ben Yehuda (citing Rabbi Shimon) about pomegranates from Badan and successive mixtures, which is precisely what the prose under heading 0 ('Rabbi Yehuda/Shimon') describes in detail.",
+      "chosen_heading": "Rabbi Yehuda/Shimon",
+      "current_heading": "Rabbi Yehuda/Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Shmuel vs. Tannaim",
+    "candidates": [
+      "Shmuel vs. Tannaim",
+      "Barrel Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous Gemara discussion about how Shmuel's position aligns with Rabbi Yehuda and Rabbi Shimon, which is precisely what the 'Shmuel vs. Tannaim' prose describes in detail.",
+      "chosen_heading": "Shmuel vs. Tannaim",
+      "current_heading": "Shmuel vs. Tannaim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Barrel Case Setup",
+    "candidates": [
+      "Barrel Case Setup",
+      "Ring and Barrel Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "Item 3 references Shmuel's stringency on avoda zara aligning with Rabbi Eliezer, which connects to candidate 1's discussion of avoda zara leniency principles, while items 1-2 about pomegranate nullification don't clearly fit either candidate's prose.",
+      "chosen_heading": "Ring and Barrel Needed",
+      "current_heading": "Barrel Case Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Ring and Barrel Needed",
+    "candidates": [
+      "Ring and Barrel Needed",
+      "Rava Limits to Barrels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the classic 'tzrikhi' argument showing why both Rav Na\u1e25man's ring ruling and Reish Lakish's barrel ruling are independently necessary, which is precisely what the 'Ring and Barrel Needed' prose describes in detail.",
+      "chosen_heading": "Ring and Barrel Needed",
+      "current_heading": "Ring and Barrel Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Rava Limits to Barrels",
+    "candidates": [
+      "Rava Limits to Barrels",
+      "Rav Yosef Permits Fig",
+      "Remove Proportion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabba's limitation to barrels and Rav Yosef's extension to figs, but the current placement under 'Rava Limits to Barrels' is correct since the passage opens with Rabba's ruling and the prose of heading 0 explicitly discusses both positions together, while heading 1 is a separate section that would only cover Rav Yosef's view in isolation.",
+      "chosen_heading": "Rava Limits to Barrels",
+      "current_heading": "Rava Limits to Barrels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Remove Proportion",
+    "candidates": [
+      "Rav Yosef Permits Fig",
+      "Remove Proportion",
+      "Nachman's Objection",
+      "Natural Opening Only",
+      "Multiple Openings"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Remove Proportion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Elazar's ruling about opening a barrel to achieve bittul, which is precisely what candidate 1 ('Remove Proportion') discusses.",
+      "second_heading": "Nachman's Objection",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman's sharp objection to the 'swallow and drink' formulation, which is exactly what candidate 2 ('Nachman's Objection') describes.",
+      "current_heading": "Remove Proportion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Multiple Openings",
+    "candidates": [
+      "Nachman's Objection",
+      "Natural Opening Only",
+      "Multiple Openings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the case Rabbi Oshaya discusses \u2014 one teruma barrel among 150, a hundred opening, the ruling about proportion removal and the remaining fifty staying forbidden \u2014 which is precisely what the 'Multiple Openings' prose section describes.",
+      "chosen_heading": "Multiple Openings",
+      "current_heading": "Multiple Openings",
+      "moved": false
+    }
+  }
+]

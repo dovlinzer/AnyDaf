@@ -1,0 +1,228 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Non-Sanctified Barrel",
+    "candidates": [
+      "Perek Overview",
+      "Weekday vs Shabbat",
+      "Non-Sanctified Barrel",
+      "Sanctify Without Intent",
+      "Gezeira Concern",
+      "Rav Zeira's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Non-Sanctified Barrel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Ze'iri's explanation of why a non-sanctified barrel was used, which is precisely what candidate 2 ('Non-Sanctified Barrel') discusses.",
+      "second_heading": "Sanctify Without Intent",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents \u1e24izkiya's counterposition that vessels only sanctify with intent, which matches candidate 3 ('Sanctify Without Intent') exactly.",
+      "current_heading": "Non-Sanctified Barrel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rav Zeira's Position",
+    "candidates": [
+      "Sanctify Without Intent",
+      "Gezeira Concern",
+      "Rav Zeira's Position",
+      "Uncovered Water Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yannai/Rabbi Zeira's statement about the decree regarding kiddush yadayim v'raglayim, which directly matches the prose of candidate 2 describing Rav Zeira's extension of the concern to cover scenarios where observers assume the barrel was filled for the Kohen Gadol's hand-washing.",
+      "chosen_heading": "Rav Zeira's Position",
+      "current_heading": "Rav Zeira's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Uncovered Water Problem",
+    "candidates": [
+      "Uncovered Water Problem",
+      "Filter & Sanctity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna's ruling on exposed water and the strainer debate with Rabbi Ne\u1e25emya's opinion, which directly matches the 'Uncovered Water Problem' section's prose about mayim megulim, the mesannenet question, and Rabbi Nechemia's distinction about the lower vessel being covered.",
+      "chosen_heading": "Uncovered Water Problem",
+      "current_heading": "Uncovered Water Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Filter & Sanctity",
+    "candidates": [
+      "Filter & Sanctity",
+      "Malachi Theme",
+      "Opening & Closing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Ne\u1e25emya's ruling distinguishing between ordinary use and Temple use, and invokes the Malachi verse as support \u2014 exactly what the 'Filter & Sanctity' prose discusses.",
+      "chosen_heading": "Filter & Sanctity",
+      "current_heading": "Filter & Sanctity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Opening & Closing",
+    "candidates": [
+      "Malachi Theme",
+      "Opening & Closing",
+      "Fifth Perek Intro",
+      "Chalil Schedule",
+      "Textual Variants"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Opening & Closing",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the 'Hadaran' closing formula for the chapter on Lulav and Aravah, which belongs under the 'Opening & Closing' section that discusses how the third and fourth perek are bracketed and concluded.",
+      "second_heading": "Chalil Schedule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishna of the fifth perek introducing the chalil played five or six days for Simchat Beit HaShoevah, which matches exactly the 'Chalil Schedule' prose describing this very Mishna and its rules about Shabbat and Yom Tov.",
+      "current_heading": "Opening & Closing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Textual Variants",
+    "candidates": [
+      "Fifth Perek Intro",
+      "Chalil Schedule",
+      "Textual Variants",
+      "Divine Spirit Symbolism",
+      "Creation Motif",
+      "Chalil on Shabbat",
+      "Rav Yosef Distinction",
+      "Ikar Shira Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the two variant readings of the celebration's name (Shoeva vs. Chashuva) and Mar Zutra's ruling that neither is mistaken, which is exactly what the 'Textual Variants' section's prose describes.",
+      "chosen_heading": "Textual Variants",
+      "current_heading": "Textual Variants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Ikar Shira Debate",
+    "candidates": [
+      "Divine Spirit Symbolism",
+      "Creation Motif",
+      "Chalil on Shabbat",
+      "Rav Yosef Distinction",
+      "Ikar Shira Debate",
+      "Wooden Vessels Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita introducing the tannaitic dispute about the chalil overriding Shabbat, along with Rav Yosef's explanation of what the dispute concerns \u2014 this matches heading 2 ('Chalil on Shabbat') which introduces exactly this baraita and dispute, whereas heading 4 ('Ikar Shira Debate') covers the deeper analysis of ikar shira b'kli vs. b'peh that follows from it.",
+      "chosen_heading": "Chalil on Shabbat",
+      "current_heading": "Ikar Shira Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Wooden Vessels Link",
+    "candidates": [
+      "Ikar Shira Debate",
+      "Wooden Vessels Link",
+      "Impossible Cases Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's proof from the baraita about wooden service vessels linking Rabbi Yehuda HaNasi and Rabbi Yosei bar Yehuda's dispute to the ikar shira b'kli vs. b'peh question, which is precisely what the 'Wooden Vessels Link' prose describes.",
+      "chosen_heading": "Wooden Vessels Link",
+      "current_heading": "Wooden Vessels Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Impossible Cases Rule",
+    "candidates": [
+      "Impossible Cases Rule",
+      "Hermeneutic Methods",
+      "Klal U'Prat Structure",
+      "Ribuy U'Miyut Approach",
+      "Menorah Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's rejection of the ikar shira b'kli/b'peh distinction as the basis of the dispute, proposing instead the 'danin efshar mish'ee efshar' principle (item 1) and then the 'v'ee ba'it eima' alternative involving klal u'prat vs. ribuy u'miyut (item 2) \u2014 exactly the content described in the 'Impossible Cases Rule' prose, which covers both proposals including the final mention of the hermeneutic alternative.",
+      "chosen_heading": "Impossible Cases Rule",
+      "current_heading": "Impossible Cases Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Menorah Application",
+    "candidates": [
+      "Hermeneutic Methods",
+      "Klal U'Prat Structure",
+      "Ribuy U'Miyut Approach",
+      "Menorah Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items apply the hermeneutic principles (klal u'prat and ribuy u'miyut) specifically to the Menorah verses, which is precisely what the 'Menorah Application' prose describes.",
+      "chosen_heading": "Menorah Application",
+      "current_heading": "Menorah Application",
+      "moved": false
+    }
+  }
+]

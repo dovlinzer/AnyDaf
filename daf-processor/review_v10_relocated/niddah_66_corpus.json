@@ -1,0 +1,476 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Women categories",
+    "candidates": [
+      "Mishnah to Amoraic shift",
+      "Geonic practice",
+      "Tosafos on Bias Mitzvah",
+      "Modern medical solutions",
+      "Full penetration standard",
+      "Women categories",
+      "Rabbi Meir stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The baraita directly addresses women who discharge blood continuously beyond their allotted window (four nights or one night) and the requirement to check themselves, which is precisely what the 'Women categories' section's prose describes.",
+      "chosen_heading": "Women categories",
+      "current_heading": "Women categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Rabbi Meir stringency",
+    "candidates": [
+      "Rabbi Meir stringency",
+      "Blood distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Rabbi Meir's position \u2014 strict like Beit Shammai on the time window but introducing a leniency based on blood appearance \u2014 which is precisely what the 'Rabbi Meir stringency' prose discusses.",
+      "chosen_heading": "Rabbi Meir stringency",
+      "current_heading": "Rabbi Meir stringency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Blood distinctions",
+    "candidates": [
+      "Blood distinctions",
+      "Appearance debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Meir's distinctions between menstrual and hymenal blood (color, odor, anatomical source), which is precisely what the 'Blood distinctions' prose section discusses and analyzes.",
+      "chosen_heading": "Blood distinctions",
+      "current_heading": "Blood distinctions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Appearance debate",
+    "candidates": [
+      "Appearance debate",
+      "First husband protocol",
+      "Second husband pattern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yitzchak bar Rabbi Yosei in the name of Rabbi Yochanan distinguishing Rabbi Meir's view from the Sages' view that all blood appearances are one, which is precisely what the 'Appearance debate' prose section discusses.",
+      "chosen_heading": "Appearance debate",
+      "current_heading": "Appearance debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Second husband pattern",
+    "candidates": [
+      "First husband protocol",
+      "Second husband pattern",
+      "Third husband universal",
+      "Shoferet test method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the full baraita covering the first husband protocol, the second husband protocol, and the third husband scenario \u2014 the entire baraita belongs under 'First husband protocol' where the Gemara introduces and begins discussing haroeh dam machamat tashmish, not split across multiple headings.",
+      "chosen_heading": "First husband protocol",
+      "current_heading": "Second husband pattern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Shoferet test method",
+    "candidates": [
+      "Third husband universal",
+      "Shoferet test method",
+      "Test limitations",
+      "Uterine wounds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the shoferet tube test procedure \u2014 the tube, brush/applicator, and cloth pad, and what blood on the tip means \u2014 which is precisely what the 'Shoferet test method' section's prose discusses.",
+      "chosen_heading": "Shoferet test method",
+      "current_heading": "Shoferet test method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Uterine wounds",
+    "candidates": [
+      "Test limitations",
+      "Uterine wounds",
+      "Veset and timing",
+      "Color analysis",
+      "Woman's testimony",
+      "Wound blood purity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Uterine wounds",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers both toleh b'makatah and toleh b'veset, which the 'Uterine wounds' prose introduces as the maka framework and the 'Veset and timing' prose addresses directly, but since item 1 pairs them together and the current placement under 'Uterine wounds' covers the maka attribution that is item 1's primary content, it fits there; however the split is warranted because item 2 is specifically about color discrepancy disqualifying the maka attribution and a woman's testimony about her wound, which map precisely to the 'Color analysis' and 'Woman's testimony' headings \u2014 item 2 belongs under 'Color analysis' (index 3) as it opens with the color-difference rule before transitioning to Rabbi's ruling on testimony.",
+      "second_heading": "Color analysis",
+      "second_confidence": "high",
+      "second_reason": "Item 2 begins with the exact ruling that wound-blood color differing from the bleeding disqualifies the maka attribution, which is precisely what the 'Color analysis' prose discusses, and then gives Rabbi's credibility ruling which follows immediately after in the essay's 'Woman's testimony' section \u2014 the structural seam is the shift from the wound-attribution framework to the specific evidentiary tests of color and testimony.",
+      "current_heading": "Uterine wounds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Wound blood purity",
+    "candidates": [
+      "Veset and timing",
+      "Color analysis",
+      "Woman's testimony",
+      "Wound blood purity",
+      "Shoferet abrasion issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the Rabban Shimon ben Gamliel vs. the Rabbis dispute about whether wound blood from the uterus is tamei or tahor, and Ulla's clarification that the debate is about whether the uterus as a location renders blood tamei \u2014 exactly what candidate 3's prose describes.",
+      "chosen_heading": "Wound blood purity",
+      "current_heading": "Wound blood purity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Shoferet abrasion issue",
+    "candidates": [
+      "Shoferet abrasion issue",
+      "Timing of test question",
+      "Anatomical variation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the abrasion objection to the tube test and Shmuel's resolution with a lead tube folded inward, which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Shoferet abrasion issue",
+      "current_heading": "Shoferet abrasion issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Anatomical variation",
+    "candidates": [
+      "Timing of test question",
+      "Anatomical variation",
+      "Rabbi's shock case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Timing of test question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the question Reish Lakish poses about why she couldn't test with the first husband on the third intercourse, plus Rabbi Yochanan's 'not all fingers are equal' answer \u2014 exactly what candidate 0 ('Timing of test question') describes.",
+      "second_heading": "Anatomical variation",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is a new follow-up question about why she waits for the third intercourse with the third husband rather than testing after the first, answered with 'not all forces are equal' \u2014 this is the anatomical/force variation content that candidate 1 ('Anatomical variation') discusses in its prose.",
+      "current_heading": "Anatomical variation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rabbi's shock case",
+    "candidates": [
+      "Rabbi's shock case",
+      "Shmuel's hopeless case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the woman who came before Rabbi Yehuda HaNasi, the startling by Abdon, the clot falling out, and Rabbi's declaration of cure \u2014 exactly what the 'Rabbi's shock case' prose describes.",
+      "chosen_heading": "Rabbi's shock case",
+      "current_heading": "Rabbi's shock case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Shmuel's hopeless case",
+    "candidates": [
+      "Shmuel's hopeless case",
+      "Yochanan evil eye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact incident discussed in candidate 0's prose: Shmuel's test via frightening the woman, nothing falling out, and his verdict that she has no cure.",
+      "chosen_heading": "Shmuel's hopeless case",
+      "current_heading": "Shmuel's hopeless case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Yochanan evil eye",
+    "candidates": [
+      "Yochanan evil eye",
+      "Alternative remedies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the specific incident of the woman coming before Rabbi Yochanan and his remedy of immersing in the river, which is precisely what the 'Yochanan evil eye' section's prose discusses.",
+      "chosen_heading": "Yochanan evil eye",
+      "current_heading": "Yochanan evil eye",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Alternative remedies",
+    "candidates": [
+      "Alternative remedies",
+      "Field backdrop"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the two versions of Rabbi Yochanan's advice to reveal one's condition to friends (for compassion/counteracting ayin hara, or for prayer), including the baraita about the metzora publicizing his impurity so the masses pray for him \u2014 all of which is explicitly discussed in the 'Alternative remedies' prose section.",
+      "chosen_heading": "Alternative remedies",
+      "current_heading": "Alternative remedies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Field backdrop",
+    "candidates": [
+      "Field backdrop",
+      "One day rule",
+      "Two days rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage about Rav Yosef's incident in Pumbedita where a woman was cured relates to Rabbi Yohanan's advice in the context of bleeding after immersion, which fits loosely under the 'Field backdrop' section discussing practical applications of niddah/zavah rulings, rather than the specific day-counting rules discussed in candidates 1 and 2.",
+      "chosen_heading": "Field backdrop",
+      "current_heading": "Field backdrop",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Two days rule",
+    "candidates": [
+      "One day rule",
+      "Two days rule",
+      "Three days rule",
+      "One drop rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rebbi's complete takkanah covering all three cases (one day, two days, three days), and the passage begins with the one-day rule \u2014 matching candidate 0's prose about the one-day formula \u2014 with items 1 and 2 continuing that same ruling; the current placement under 'Two days rule' only captures part of the passage and misses the opening one-day case.",
+      "chosen_heading": "One day rule",
+      "current_heading": "Two days rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "One drop rule",
+    "candidates": [
+      "Three days rule",
+      "One drop rule",
+      "Logic problem",
+      "Justifications offered",
+      "Hybrid status",
+      "Benot Yisrael reasons",
+      "Miscarriage case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's statement about benot Yisrael adopting the stringency of seven clean days for even a mustard-seed drop of blood, which is precisely what the 'One drop rule' section's prose discusses as 'the decisive turning point of this daf.'",
+      "chosen_heading": "One drop rule",
+      "current_heading": "One drop rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Miscarriage case",
+    "candidates": [
+      "Logic problem",
+      "Justifications offered",
+      "Hybrid status",
+      "Benot Yisrael reasons",
+      "Miscarriage case",
+      "Pappa's challenge",
+      "Rava's response",
+      "Rava statement",
+      "Arousal spotting"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Miscarriage case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rava's miscarriage ruling and Rav Pappa's challenge to it, which the 'Miscarriage case' and \"Pappa's challenge\" prose describes, but item 1 alone (Rava's ruling) fits squarely under heading 4 'Miscarriage case' whose prose describes exactly this ruling with its two principles.",
+      "second_heading": "Pappa's challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 form Rav Pappa's challenge and Rava's response, matching headings 5 and 6, but since they must go under one heading together, heading 5 \"Pappa's challenge\" introduces both the challenge and anticipates Rava's response, making it the best single home \u2014 however the cleaner split is item 1 under heading 4 and items 2-3 under heading 5.",
+      "current_heading": "Miscarriage case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Arousal spotting",
+    "candidates": [
+      "Pappa's challenge",
+      "Rava's response",
+      "Rava statement",
+      "Arousal spotting",
+      "Four to seven days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rava's ruling that a woman who accepted a marriage proposal must count seven clean days \u2014 which matches exactly the prose of 'Rava statement' describing *tavuha linasei v'nispaysa* and the *sheva neki'im* requirement upon betrothal announcement.",
+      "chosen_heading": "Rava statement",
+      "current_heading": "Arousal spotting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Four to seven days",
+    "candidates": [
+      "Arousal spotting",
+      "Four to seven days",
+      "Minor distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident of Ravina arranging his son's marriage and the delay from four to seven days, which is precisely what the 'Four to seven days' section's prose discusses.",
+      "chosen_heading": "Four to seven days",
+      "current_heading": "Four to seven days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Minor distinction",
+    "candidates": [
+      "Minor distinction",
+      "No minor exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the exchange described in candidate 0's prose \u2014 Rav \u1e24anina questioning Ravina's delay, Ravina citing Rava's ruling, and Rav \u1e24anina distinguishing between an adult woman who has seen blood and a minor who has not \u2014 which matches candidate 0 precisely, before Ravina's rebuttal described in candidate 1.",
+      "chosen_heading": "Minor distinction",
+      "current_heading": "Minor distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "No minor exception",
+    "candidates": [
+      "No minor exception",
+      "Minor sexual desire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the 'no difference' statement AND the reasoning about desire (michamda), and candidate 1's prose explicitly discusses both elements together including the ta'ama/reasoning portion, making it the clearly better match for this specific content.",
+      "chosen_heading": "Minor sexual desire",
+      "current_heading": "No minor exception",
+      "moved": true
+    }
+  }
+]

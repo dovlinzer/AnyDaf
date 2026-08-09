@@ -1,0 +1,361 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Aromatic Wine Duration",
+    "candidates": [
+      "Wine Turns Vinegar",
+      "Aromatic Wine Duration",
+      "Old & Aged Wine",
+      "Vessel Ownership Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Mishnah about selling wine that sours, which is precisely what heading 0 ('Wine Turns Vinegar') describes in its prose \u2014 the mishnah covering the basic souring case, the known-souring mekach taut case, and the spiced/old/aged wine specifications all belong to this single opening mishnah unit that heading 0 introduces.",
+      "chosen_heading": "Wine Turns Vinegar",
+      "current_heading": "Aromatic Wine Duration",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Vessel Ownership Rule",
+    "candidates": [
+      "Old & Aged Wine",
+      "Vessel Ownership Rule",
+      "Lemikpeh Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the vessel ownership rule and its lemikpeh qualification, which is exactly what candidate 1 ('Vessel Ownership Rule') and candidate 2 ('Lemikpeh Requirement') discuss \u2014 but since both items are a continuous chain (ruling \u2192 challenge \u2192 resolution) and candidate 1's prose explicitly covers the Rav Yose b'Rabbi Chanina ruling while candidate 2's prose covers the lemikpeh challenge/answer, the current placement under 'Vessel Ownership Rule' (index 1) is the correct single home for this continuous passage.",
+      "chosen_heading": "Vessel Ownership Rule",
+      "current_heading": "Vessel Ownership Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Lemikpeh Requirement",
+    "candidates": [
+      "Lemikpeh Requirement",
+      "Rava's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks why Rav Yose b'Rabbi Chanina needed both conditions (buyer's vessels AND lemikpeh specification) rather than using the simpler reading of seller's vessels without lemikpeh, which is precisely the question the 'Lemikpeh Requirement' prose describes as *u-mai dochkei*.",
+      "chosen_heading": "Lemikpeh Requirement",
+      "current_heading": "Lemikpeh Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Rava's Logic",
+    "candidates": [
+      "Rava's Logic",
+      "Mazal Doctrine",
+      "Ethics: Pride & Hypocrisy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's argument using the mishna's 'known-souring' clause to prove that the mishna's context involves wine specified for cooking (lemikpeh), which is exactly what the 'Rava's Logic' section describes.",
+      "chosen_heading": "Rava's Logic",
+      "current_heading": "Rava's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Ethics: Pride & Hypocrisy",
+    "candidates": [
+      "Mazal Doctrine",
+      "Ethics: Pride & Hypocrisy",
+      "Consignment to Retailer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mazal Doctrine",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Chiyya bar Yosef's mazal doctrine and the verse from Habakkuk, which is precisely what the 'Mazal Doctrine' prose discusses.",
+      "second_heading": "Ethics: Pride & Hypocrisy",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are homiletic expansions on the theme of haughtiness/false pretense derived from the same verse, exactly matching the 'Ethics: Pride & Hypocrisy' prose about Rav Mari and Rav Yehuda's teachings on yuhra.",
+      "current_heading": "Ethics: Pride & Hypocrisy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Consignment to Retailer",
+    "candidates": [
+      "Consignment to Retailer",
+      "Spigot Exception",
+      "Market Day Limit",
+      "Iska Deal Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three topics (consignment arrangement, spigot exception, and market day limit) in a single Talmudic unit, and the current placement under 'Consignment to Retailer' is correct as it is the primary heading for this entire Rava ruling.",
+      "chosen_heading": "Consignment to Retailer",
+      "current_heading": "Consignment to Retailer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Iska Deal Structure",
+    "candidates": [
+      "Spigot Exception",
+      "Market Day Limit",
+      "Iska Deal Structure",
+      "Price Loss Distinction",
+      "Shared Spoilage Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rava's ruling about a merchant who received wine to bring to Vol Shefat and the price dropped before arrival, which is precisely what the 'Iska Deal Structure' prose discusses \u2014 the owner imposing a condition to sell at a distant market and bearing the loss when prices fall there.",
+      "chosen_heading": "Iska Deal Structure",
+      "current_heading": "Iska Deal Structure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Shared Spoilage Risk",
+    "candidates": [
+      "Price Loss Distinction",
+      "Shared Spoilage Risk",
+      "Full Seller Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete discussion of what happens when wine turns to vinegar \u2014 item 1 gives Rav Kahana's ruling (vinegar not accepted) and item 2 gives the alternative view (vinegar accepted per Rabbi Yosei b'Rabbi \u1e24anina) \u2014 and candidate 0's prose explicitly frames this as the Gemara raising the question of souring versus price decline, which is precisely what both items address, whereas candidates 1 and 2 each cover only one side of the dispute rather than the whole unit.",
+      "chosen_heading": "Price Loss Distinction",
+      "current_heading": "Shared Spoilage Risk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Full Seller Liability",
+    "candidates": [
+      "Shared Spoilage Risk",
+      "Full Seller Liability",
+      "Newlywed & Widow Homes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are about the mishna's definitions of 'old' and 'aged' wine in a sale context, which is a new self-contained topic about wine sale terminology unrelated to the iska/spoilage liability discussion in candidates 0 and 1, and the prose of candidate 2 (dwelling dimensions) follows next \u2014 meaning these items are a transitional passage that belongs just before candidate 2, but among the given candidates the content is closest to candidate 2 as the bridge into the new 98b material; however, re-examining, the passage about old/aged wine definitions is actually a standalone mishnah topic that doesn't fit under Shared Spoilage Risk or Full Seller Liability either, and since the true home must be in the list, candidate 2's prose explicitly mentions '98b' as a new subject after concluding the wine discussion \u2014 these wine-sale items are precisely that concluding wine discussion referenced before candidate 2 begins, making candidate 2 the best match as the section that immediately follows and references this content.",
+      "chosen_heading": "Newlywed & Widow Homes",
+      "current_heading": "Full Seller Liability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Newlywed & Widow Homes",
+    "candidates": [
+      "Full Seller Liability",
+      "Newlywed & Widow Homes",
+      "Minimum Size Dispute",
+      "Stable Dimensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items discuss the mishnah and gemara about minimum dimensions for newlywed/widow homes (beis chasnus/beis almanus), including the dispute between Rabbi Akiva and Rabbi Yishmael, the standard sizes for various structures, and the gemara's digression about sons-in-law living in their father-in-law's house \u2014 all of which directly corresponds to the 'Newlywed & Widow Homes' section prose.",
+      "chosen_heading": "Newlywed & Widow Homes",
+      "current_heading": "Newlywed & Widow Homes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Stable Dimensions",
+    "candidates": [
+      "Minimum Size Dispute",
+      "Stable Dimensions",
+      "House Size Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss exactly who taught the cowshed clause and the two interpretations offered \u2014 precisely what the 'Stable Dimensions' prose describes, making the current placement correct.",
+      "chosen_heading": "Stable Dimensions",
+      "current_heading": "Stable Dimensions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "House Size Categories",
+    "candidates": [
+      "House Size Categories",
+      "Height Formula",
+      "Heichal Proportion Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the size categories of a tarkalin (ten by ten) and a kantir (twelve by twelve), which is exactly what the 'House Size Categories' prose describes, including the same Aramaic identifications (kuvsa bei vardi and tarbitza de-fadni).",
+      "chosen_heading": "House Size Categories",
+      "current_heading": "House Size Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Heichal Proportion Proof",
+    "candidates": [
+      "Height Formula",
+      "Heichal Proportion Proof",
+      "Attribution Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the height formula statement and the Gemara's question about who teaches 'proof of the matter' and Rabban Shimon ben Gamliel's attribution, which corresponds precisely to the 'Heichal Proportion Proof' section's prose about the grammar question and RSbG's role as supporter of the formula.",
+      "chosen_heading": "Heichal Proportion Proof",
+      "current_heading": "Heichal Proportion Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Attribution Debate",
+    "candidates": [
+      "Attribution Debate",
+      "Roof Beams Standard",
+      "Beams & Wall Thickness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the alternative reading where Rabban Shimon ben Gamliel expresses astonishment at the Tanna Kamma's proof from the Heichal, which is precisely what the 'Attribution Debate' prose discusses.",
+      "chosen_heading": "Attribution Debate",
+      "current_heading": "Attribution Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Beams & Wall Thickness",
+    "candidates": [
+      "Roof Beams Standard",
+      "Beams & Wall Thickness",
+      "Verse Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly why 'height equals its crossbeams' is preferred over 'height equals its width,' covering both the tapering walls and the beam-insertion holes \u2014 which is precisely what the 'Beams & Wall Thickness' prose describes.",
+      "chosen_heading": "Beams & Wall Thickness",
+      "current_heading": "Beams & Wall Thickness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Verse Contradiction",
+    "candidates": [
+      "Verse Contradiction",
+      "Cherubim Height Measure",
+      "Space Symmetry Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction between the two verses about the Temple's height dimensions, which is exactly what the 'Verse Contradiction' section's prose describes \u2014 the resolution (measuring from the top of the cherubs) is mentioned in the passage but the primary content is the raising and posing of the contradiction, matching heading 0's prose which describes both the contradiction and its resolution.",
+      "chosen_heading": "Verse Contradiction",
+      "current_heading": "Verse Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Space Symmetry Principle",
+    "candidates": [
+      "Cherubim Height Measure",
+      "Space Symmetry Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the question 'what is the verse teaching us?' and the answer about below mirroring above (lemata ke-lemala) \u2014 are precisely what the 'Space Symmetry Principle' prose describes as its core content.",
+      "chosen_heading": "Space Symmetry Principle",
+      "current_heading": "Space Symmetry Principle",
+      "moved": false
+    }
+  }
+]

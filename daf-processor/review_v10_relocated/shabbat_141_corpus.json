@@ -1,0 +1,692 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Moving Straw Aside",
+    "candidates": [
+      "Intro: Sweeping Dung",
+      "Rashi: Food Cleanliness",
+      "Moving Straw Aside",
+      "Gemara: When Dispute?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The mishna text covers both the sweeping/moving hay and the redistribution between animals, but it is the foundational mishnah that introduces the topic, best placed under the introductory heading 'Intro: Sweeping Dung' which announces the mishnah opening, though heading 2 also discusses this mishnah's content in detail.",
+      "chosen_heading": "Intro: Sweeping Dung",
+      "current_heading": "Moving Straw Aside",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Gemara: When Dispute?",
+    "candidates": [
+      "Gemara: When Dispute?",
+      "Rav Chisda: Dirt Floor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the dilemma about when the Rabbis dispute and the baraita resolving it to both clauses \u2014 are exactly what candidate 0's prose describes, before moving on to Rav Chisda's further resolution in candidate 1.",
+      "chosen_heading": "Gemara: When Dispute?",
+      "current_heading": "Gemara: When Dispute?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rav Chisda: Dirt Floor",
+    "candidates": [
+      "Rav Chisda: Dirt Floor",
+      "Moving Food Between",
+      "Mouths & Spittle",
+      "Abaye: Donkey/Cow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Rav \u1e24isda's distinction between a dirt-floor trough and a vessel trough, which is exactly what the prose under 'Rav Chisda: Dirt Floor' describes.",
+      "chosen_heading": "Rav Chisda: Dirt Floor",
+      "current_heading": "Rav Chisda: Dirt Floor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Abaye: Donkey/Cow",
+    "candidates": [
+      "Moving Food Between",
+      "Mouths & Spittle",
+      "Abaye: Donkey/Cow",
+      "Donkey Habits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the two contradictory baraitot about 'nice mouth' and 'foul mouth' animals, which is exactly what the 'Mouths & Spittle' section's prose describes and sets up for explanation.",
+      "chosen_heading": "Mouths & Spittle",
+      "current_heading": "Abaye: Donkey/Cow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Donkey Habits",
+    "candidates": [
+      "Abaye: Donkey/Cow",
+      "Donkey Habits",
+      "Mishnah: Straw Bed",
+      "Straw as Fuel",
+      "Hand vs. Body",
+      "Types of Movement",
+      "Exceptions to Muktzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute Abaye's resolution of the contradiction between the two baraitot \u2014 explaining how 'nice mouth' and 'bad mouth' apply differently to donkeys and cows in each baraita \u2014 which is precisely what candidate 0 ('Abaye: Donkey/Cow') describes in its prose.",
+      "chosen_heading": "Abaye: Donkey/Cow",
+      "current_heading": "Donkey Habits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Exceptions to Muktzah",
+    "candidates": [
+      "Mishnah: Straw Bed",
+      "Straw as Fuel",
+      "Hand vs. Body",
+      "Types of Movement",
+      "Exceptions to Muktzah",
+      "Clothing Press"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself about straw on a bed, which belongs under the 'Mishnah: Straw Bed' heading that introduces and frames exactly this mishnah text.",
+      "chosen_heading": "Mishnah: Straw Bed",
+      "current_heading": "Exceptions to Muktzah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Clothing Press",
+    "candidates": [
+      "Exceptions to Muktzah",
+      "Clothing Press",
+      "Pro vs. Home Press",
+      "Rabbi Yehuda",
+      "Rav Nachman: Turnip"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the complete mishnah text about both the homeowner's press and the launderer's press along with Rabbi Yehuda's opinion, and the current heading 'Clothing Press' with its prose about the machbash shel baale batim is the best single home, as the subsequent headings 'Pro vs. Home Press' and 'Rabbi Yehuda' are separate prose sections that break down the same mishnah into parts \u2014 the full mishnah text sits most naturally under the first heading where it is introduced.",
+      "chosen_heading": "Clothing Press",
+      "current_heading": "Clothing Press",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rav Nachman: Turnip",
+    "candidates": [
+      "Pro vs. Home Press",
+      "Rabbi Yehuda",
+      "Rav Nachman: Turnip",
+      "Extraction Direction",
+      "Rav Adda Challenge",
+      "Equating Movement Types",
+      "Incidental Not Movement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Nachman's statement about the radish/turnip (pugla) and its two orientations, which is exactly what the 'Rav Nachman: Turnip' section's prose describes.",
+      "chosen_heading": "Rav Nachman: Turnip",
+      "current_heading": "Rav Nachman: Turnip",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Incidental Not Movement",
+    "candidates": [
+      "Extraction Direction",
+      "Rav Adda Challenge",
+      "Equating Movement Types",
+      "Incidental Not Movement",
+      "Rav Yehuda: Peppers",
+      "Two at a Time",
+      "Rava: Shinui Permits",
+      "Biblical Melacha",
+      "Rav Yehuda: Drying",
+      "Karmelit Water"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Adda Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Adda bar Abba's challenge from the mishnah about straw on a bed, which the prose under 'Rav Adda Challenge' explicitly describes as the contradiction to Rav Nachman from that same mishnah.",
+      "second_heading": "Rav Yehuda: Peppers",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the entirely new and self-contained case of peppers and grinding, which the prose under 'Rav Yehuda: Peppers' directly addresses.",
+      "current_heading": "Incidental Not Movement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Karmelit Water",
+    "candidates": [
+      "Rav Yehuda: Peppers",
+      "Two at a Time",
+      "Rava: Shinui Permits",
+      "Biblical Melacha",
+      "Rav Yehuda: Drying",
+      "Karmelit Water",
+      "Ashkenazi Custom",
+      "Mikvah Exception",
+      "Kocho: Energy",
+      "Plaster Scraping"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Yehuda: Drying",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yehuda's ruling about drying oneself before ascending, which is precisely what heading 4 ('Rav Yehuda: Drying') describes, and the current placement under 'Karmelit Water' (heading 5) is one step too late.",
+      "second_heading": "Kocho: Energy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's objection about one's force (kocho) displacing water when descending and the answer that kocho b'karmelit was not decreed, which matches heading 8 ('Kocho: Energy') exactly.",
+      "current_heading": "Karmelit Water",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Plaster Scraping",
+    "candidates": [
+      "Ashkenazi Custom",
+      "Mikvah Exception",
+      "Kocho: Energy",
+      "Plaster Scraping",
+      "Rava: Wall/Ground"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Abaye/Rav Yehuda's ruling about wiping mud from one's foot on the ground vs. the wall, which is precisely what the 'Plaster Scraping' section's prose describes.",
+      "chosen_heading": "Plaster Scraping",
+      "current_heading": "Plaster Scraping",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Rava: Wall/Ground",
+    "candidates": [
+      "Rava: Wall/Ground",
+      "Contradiction: Mar vs Rav",
+      "Kora Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava: Wall/Ground",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are Rava's challenge and revised ruling (wall vs. ground), which exactly matches the 'Rava: Wall/Ground' prose describing his two-step reasoning.",
+      "second_heading": "Contradiction: Mar vs Rav",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the Mar brei d'Ravina / Rav Pappa dispute (*echad ze ve'echad ze*), which is precisely what the 'Contradiction: Mar vs Rav' prose describes.",
+      "current_heading": "Rava: Wall/Ground",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Kora Solution",
+    "candidates": [
+      "Contradiction: Mar vs Rav",
+      "Kora Solution",
+      "Rava: Lechi Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Kora (beam) solution for Mar brei d'Ravina's stricter position, which is precisely what the 'Kora Solution' section's prose describes.",
+      "chosen_heading": "Kora Solution",
+      "current_heading": "Kora Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Rava: Lechi Danger",
+    "candidates": [
+      "Rava: Lechi Danger",
+      "Rolling Objects",
+      "Barrel Adjustment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's warning about sitting at the entrance to a mavoi with a lechi post, which is precisely what heading 0 ('Rava: Lechi Danger') discusses, including the lechi's role as a boundary marker and the specific prohibition.",
+      "chosen_heading": "Rava: Lechi Danger",
+      "current_heading": "Rava: Lechi Danger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Barrel Adjustment",
+    "candidates": [
+      "Rolling Objects",
+      "Barrel Adjustment",
+      "Smoothing Ground",
+      "Cloth Tightening",
+      "Squeezing Oil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rava's statement about not positioning a barrel, which matches the 'Barrel Adjustment' section's prose directly discussing 'lo litzaded inish kuba' \u2014 the concern about leveling holes belongs in the adjacent 'Smoothing Ground' section as explanatory prose, but the quoted text itself is the barrel-positioning ruling that belongs under heading 1.",
+      "chosen_heading": "Barrel Adjustment",
+      "current_heading": "Barrel Adjustment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Squeezing Oil",
+    "candidates": [
+      "Smoothing Ground",
+      "Cloth Tightening",
+      "Squeezing Oil",
+      "Rav Kahana: Inside/Out"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rava's statement about not stuffing a rag into the mouth of a jug, which matches the 'Cloth Tightening' section's prose that explicitly describes this same ruling, while the current placement 'Squeezing Oil' covers the consequence/concern rather than the ruling itself.",
+      "chosen_heading": "Cloth Tightening",
+      "current_heading": "Squeezing Oil",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Rav Kahana: Inside/Out",
+    "candidates": [
+      "Squeezing Oil",
+      "Rav Kahana: Inside/Out",
+      "Why the Distinction",
+      "Rashi: No Water",
+      "New vs. Old Shoes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Kahana's exact ruling about rubbing mortar off a garment from inside vs. outside, which is precisely what the prose in candidate 1 describes.",
+      "chosen_heading": "Rav Kahana: Inside/Out",
+      "current_heading": "Rav Kahana: Inside/Out",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136
+    ],
+    "current_heading": "New vs. Old Shoes",
+    "candidates": [
+      "Why the Distinction",
+      "Rashi: No Water",
+      "New vs. Old Shoes",
+      "Knife Tool"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Why the Distinction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is an objection about rubbing mud off a garment and the resolution distinguishing inside vs. outside rubbing, which directly matches the 'Why the Distinction' prose about the prohibition of laundering and the significance of rubbing from the outside vs. inside.",
+      "second_heading": "New vs. Old Shoes",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Abbahu/Elazar/Yannai's ruling about scraping new vs. old shoes, which exactly matches the 'New vs. Old Shoes' prose describing that same ruling and Rashi's explanation about old leather.",
+      "current_heading": "New vs. Old Shoes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Knife Tool",
+    "candidates": [
+      "Knife Tool",
+      "Rabbi Chiya: No Scraping",
+      "Oil in Shoe",
+      "Pre vs. During"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Abahu's answer about scraping with the back of a knife, which is exactly what the 'Knife Tool' section's prose discusses.",
+      "chosen_heading": "Knife Tool",
+      "current_heading": "Knife Tool",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Pre vs. During",
+    "candidates": [
+      "Rabbi Chiya: No Scraping",
+      "Oil in Shoe",
+      "Pre vs. During",
+      "Rav Chisda: Oil Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita of Rabbi Chiyya including the elder's challenge, the prohibition on scraping, the oil-in-shoe rule, and the permissive cases \u2014 all of which belong under 'Rabbi Chiya: No Scraping' where the elder's citation of Rabbi Chiyya's baraita is introduced, rather than being split across multiple headings.",
+      "chosen_heading": "Rabbi Chiya: No Scraping",
+      "current_heading": "Pre vs. During",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150,
+      151
+    ],
+    "current_heading": "Rav Chisda: Oil Amount",
+    "candidates": [
+      "Pre vs. During",
+      "Rav Chisda: Oil Amount",
+      "Tanu Rabbanan: Shoes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are Rav \u1e24isda's statement and the Gemara's challenge and reformulation of it \u2014 exactly the content described in the 'Rav Chisda: Oil Amount' prose, which explicitly recounts the initial formulation, the Gemara's objection, and the corrected version hinging on quantity (shiur).",
+      "chosen_heading": "Rav Chisda: Oil Amount",
+      "current_heading": "Rav Chisda: Oil Amount",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "Tanu Rabbanan: Shoes",
+    "candidates": [
+      "Tanu Rabbanan: Shoes",
+      "Removal Concern",
+      "Women's Sensitivity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly teaches the baraita about a small person not going out in an oversized shoe but being permitted in an oversized cloak, which matches exactly the current heading's prose about this baraita.",
+      "chosen_heading": "Tanu Rabbanan: Shoes",
+      "current_heading": "Tanu Rabbanan: Shoes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      161,
+      162
+    ],
+    "current_heading": "Women's Sensitivity",
+    "candidates": [
+      "Removal Concern",
+      "Women's Sensitivity",
+      "Chalitza Issue",
+      "New Shoe Definition",
+      "Bar Kappara: Pre-Shabbat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chalitza Issue",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers both the prohibition on going out with a torn shoe and the chalitza ruling, which matches the 'Chalitza Issue' prose precisely.",
+      "second_heading": "New Shoe Definition",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the new-shoe prohibition and its limitation to women's shoes, which matches the 'New Shoe Definition' prose exactly.",
+      "current_heading": "Women's Sensitivity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      169
+    ],
+    "current_heading": "Bar Kappara: Pre-Shabbat",
+    "candidates": [
+      "Chalitza Issue",
+      "New Shoe Definition",
+      "Bar Kappara: Pre-Shabbat",
+      "Shoe Removal",
+      "Kelim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Bar Kappara's teaching about wearing a new shoe briefly on Erev Shabbat to permit it on Shabbat, which matches exactly the prose of heading 2 'Bar Kappara: Pre-Shabbat'.",
+      "chosen_heading": "Bar Kappara: Pre-Shabbat",
+      "current_heading": "Bar Kappara: Pre-Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      175,
+      176
+    ],
+    "current_heading": "Kelim Debate",
+    "candidates": [
+      "Shoe Removal",
+      "Kelim Debate",
+      "Raba: Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the resolution of the contradiction between the two baraitot \u2014 item 1 presents the contradiction and resolves it by attributing the dispute to Rabbi Eliezer vs. the Rabbis, and item 2 provides the supporting mishna from Kelim \u2014 which is precisely what the 'Shoe Removal' prose describes as needing resolution, making that section the correct home for the full passage.",
+      "chosen_heading": "Shoe Removal",
+      "current_heading": "Kelim Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      180,
+      181
+    ],
+    "current_heading": "Raba: Purpose",
+    "candidates": [
+      "Kelim Debate",
+      "Raba: Purpose",
+      "Abaye: Broader View",
+      "Loose vs. Tight"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Raba: Purpose",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's ruling that a kli shemlachto l'issur may be moved for tzorech mekomo, which is exactly what the 'Raba: Purpose' prose describes as resolving the baraita.",
+      "second_heading": "Abaye: Broader View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Abaye's opposing view that tzorech mekomo is prohibited and raises the resulting problem, which is precisely what the 'Abaye: Broader View' prose discusses.",
+      "current_heading": "Raba: Purpose",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      187
+    ],
+    "current_heading": "Loose vs. Tight",
+    "candidates": [
+      "Abaye: Broader View",
+      "Loose vs. Tight",
+      "Rabbi Yehuda Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the gemara's answer about a loosely-fitted shoe (rafui) and cites Rabbi Yehuda's baraita permitting it when loose, which is precisely what the 'Loose vs. Tight' section's prose describes.",
+      "chosen_heading": "Loose vs. Tight",
+      "current_heading": "Loose vs. Tight",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      191,
+      192,
+      193
+    ],
+    "current_heading": "Rabbi Yehuda Logic",
+    "candidates": [
+      "Rabbi Yehuda Logic",
+      "Taking a Child"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Abaye vs. Rava on tzorech gufo/mekomo and Rabbi Yehuda's baraita in the name of Rabbi Eliezer \u2014 which is precisely what the 'Rabbi Yehuda Logic' prose describes.",
+      "chosen_heading": "Rabbi Yehuda Logic",
+      "current_heading": "Rabbi Yehuda Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      201
+    ],
+    "current_heading": "Taking a Child",
+    "candidates": [
+      "Taking a Child",
+      "Raba: Live Infant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna about picking up one's child with a stone in hand and moving impure teruma, which is directly what the 'Taking a Child' section's prose describes.",
+      "chosen_heading": "Taking a Child",
+      "current_heading": "Taking a Child",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211
+    ],
+    "current_heading": "Raba: Live Infant",
+    "candidates": [
+      "Raba: Live Infant",
+      "Self-Carrying",
+      "Pouch Independence",
+      "Dead Infant Case",
+      "Work Not Needed",
+      "Mishnah Connection",
+      "Child's Yearning",
+      "Muktzah Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Muktzah Exception",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is about Rabbi Yehuda's ruling on nullified teruma, which belongs with the muktzah/mishnah teruma discussion referenced in heading 7's prose about 'the terumah cases mentioned in the mishnah.'",
+      "second_heading": "Raba: Live Infant",
+      "second_confidence": "high",
+      "second_reason": "Items 2-8 form the complete gemara discussion of Rava's ruling about live and dead infants with a purse, exactly matching the content described in heading 0's prose.",
+      "current_heading": "Raba: Live Infant",
+      "moved": true
+    }
+  }
+]

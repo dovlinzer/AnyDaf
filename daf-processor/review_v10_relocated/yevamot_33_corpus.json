@@ -1,0 +1,427 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Issur Kolel/Bevas Achas",
+    "candidates": [
+      "Three Scenarios",
+      "Issur Kolel/Bevas Achas",
+      "Bar Kappara's Error"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Issur Kolel/Bevas Achas",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the bevas achas (simultaneous prohibition) model and how each of the three scenarios can be reframed as simultaneous prohibitions, which is precisely what the 'Issur Kolel/Bevas Achas' prose describes.",
+      "second_heading": "Bar Kappara's Error",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 address the difficulty that arises from the oaths \u2014 specifically whether Bar Kappara was lying and why the oath was necessary \u2014 which is exactly what the 'Bar Kappara's Error' prose discusses.",
+      "current_heading": "Issur Kolel/Bevas Achas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Bar Kappara's Error",
+    "candidates": [
+      "Bar Kappara's Error",
+      "Misremembering Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses the question 'is Bar Kappara lying?' (shikra ka meshaker), which is exactly what the prose of heading 0 describes, before the Gemara's answer about misremembering is given in heading 1.",
+      "chosen_heading": "Bar Kappara's Error",
+      "current_heading": "Bar Kappara's Error",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Misremembering Theory",
+    "candidates": [
+      "Misremembering Theory",
+      "Three Forms Summarized",
+      "Zar/Baal Mum Beraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items describe Rabbi \u1e24iyya's explanation of how Bar Kappara misremembered \u2014 exactly what the 'Misremembering Theory' prose discusses, including the mixing of the melikah case, the bevas achas conclusion, and the resulting confusion.",
+      "chosen_heading": "Misremembering Theory",
+      "current_heading": "Misremembering Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Zar/Baal Mum Beraita",
+    "candidates": [
+      "Three Forms Summarized",
+      "Zar/Baal Mum Beraita",
+      "Melikah Omitted",
+      "Conclusion on Bevas Achas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's objection citing the zar/baal mum baraita, which is precisely what the 'Zar/Baal Mum Beraita' section's prose describes \u2014 the baraita stating a zar who served on Shabbat and a baal mum who served in tumah, with Rabbi Yose and Rabbi Shimon's positions \u2014 matching the current placement exactly.",
+      "chosen_heading": "Zar/Baal Mum Beraita",
+      "current_heading": "Zar/Baal Mum Beraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Conclusion on Bevas Achas",
+    "candidates": [
+      "Melikah Omitted",
+      "Conclusion on Bevas Achas",
+      "Shechita Permitted?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's conclusion that the omission points to Rabbi Shimon's position and the tiyuvta against Bar Kappara, which matches precisely the prose of 'Conclusion on Bevas Achas' where it currently sits.",
+      "chosen_heading": "Conclusion on Bevas Achas",
+      "current_heading": "Conclusion on Bevas Achas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Shechita Permitted?",
+    "candidates": [
+      "Shechita Permitted?",
+      "Yom Kippur Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's question about what act the zar performed on Shabbat (shechita, kabbalah/holachah, or haktarah), which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Shechita Permitted?",
+      "current_heading": "Shechita Permitted?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Yom Kippur Exception",
+    "candidates": [
+      "Yom Kippur Exception",
+      "Rav Ashi's Point"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav A\u1e25a bar Yaakov's resolution involving the slaughtering of the High Priest's bull on Yom Kippur and the zar/kohen hedyot question, which is precisely what the 'Yom Kippur Exception' prose describes.",
+      "chosen_heading": "Yom Kippur Exception",
+      "current_heading": "Yom Kippur Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Rav Ashi's Point",
+    "candidates": [
+      "Rav Ashi's Point",
+      "Mishnah Setup",
+      "Multiple Transgressions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Ashi's objection and clarification that the beraita merely counts prohibitions (issurim) without specifying penalties, and the practical consequence of burial among the wicked \u2014 exactly what the prose under 'Rav Ashi's Point' describes.",
+      "chosen_heading": "Rav Ashi's Point",
+      "current_heading": "Rav Ashi's Point",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Multiple Transgressions",
+    "candidates": [
+      "Mishnah Setup",
+      "Multiple Transgressions",
+      "Separation/Pregnancy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself \u2014 the opening case of two men switching wives \u2014 which matches the 'Mishnah Setup' section's prose that introduces and describes this very scenario, not the 'Multiple Transgressions' section which discusses the enumerated penalties that follow.",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Multiple Transgressions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Separation/Pregnancy",
+    "candidates": [
+      "Multiple Transgressions",
+      "Separation/Pregnancy",
+      "Which Tanna?",
+      "Rabbi Meir Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Separation/Pregnancy",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20134 all concern the separation/pregnancy period and the Gemara's proof that the exchange was inadvertent (huchlafu), matching heading 1 'Separation/Pregnancy' precisely.",
+      "second_heading": "Which Tanna?",
+      "second_confidence": "high",
+      "second_reason": "Item 5 opens the new Gemara question about which Tanna accepts issur kolel, issur mosif, and issur bas achas \u2014 exactly the topic of heading 2 'Which Tanna?'.",
+      "current_heading": "Separation/Pregnancy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Rabbi Meir Example",
+    "candidates": [
+      "Which Tanna?",
+      "Rabbi Meir Example",
+      "Three Forms Analysis",
+      "Alignment Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the Rabbi Meir baraita example (the four chataot and one asham case, plus Rabbi Meir's Shabbat addition), which is precisely what heading 1 'Rabbi Meir Example' describes in its prose.",
+      "chosen_heading": "Rabbi Meir Example",
+      "current_heading": "Rabbi Meir Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Alignment Question",
+    "candidates": [
+      "Three Forms Analysis",
+      "Alignment Question",
+      "Bohul/Time Pressure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question of which opinion Rabbi Meir's ruling aligns with (Rabbi Yehoshua vs. Rabbi Eliezer regarding to'eh bidvar mitzvah), which is precisely what the 'Alignment Question' section's prose describes.",
+      "chosen_heading": "Alignment Question",
+      "current_heading": "Alignment Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Bohul/Time Pressure",
+    "candidates": [
+      "Bohul/Time Pressure",
+      "Trumah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'if you wish say' resolution that attributes Rabbi Yehoshua's exemption specifically to *bohul* (time pressure) in the baby circumcision case, contrasting it with the wife-mixing case where there is no time pressure \u2014 exactly the content discussed in the 'Bohul/Time Pressure' section prose.",
+      "chosen_heading": "Bohul/Time Pressure",
+      "current_heading": "Bohul/Time Pressure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Trumah Case",
+    "candidates": [
+      "Trumah Case",
+      "Erev Pesach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge involving the trumah case where Rabbi Eliezer and Rabbi Yehoshua dispute liability for a disqualified kohen eating trumah, which is exactly what the 'Trumah Case' prose describes.",
+      "chosen_heading": "Trumah Case",
+      "current_heading": "Trumah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Erev Pesach",
+    "candidates": [
+      "Erev Pesach",
+      "All Four Transgressions",
+      "Shlichim Synchronization",
+      "Niddah Age Three",
+      "Age Three Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Beivai bar Abaye's statement about teruma on erev Pesach and the pressed-for-time context, which directly matches the prose in heading 0 that discusses this exact resolution involving trumah on erev Pesach and the bohul (time-pressured) framework.",
+      "chosen_heading": "Erev Pesach",
+      "current_heading": "Erev Pesach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Age Three Solution",
+    "candidates": [
+      "All Four Transgressions",
+      "Shlichim Synchronization",
+      "Niddah Age Three",
+      "Age Three Solution",
+      "First Act Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together introduce and develop the 'simultaneous prohibitions according to Rabbi Shimon' explanation \u2014 item 1 proposes it, item 2 raises the niddah synchronization challenge, and item 3 gives Rav Amram/Rav's resolution \u2014 which matches heading 0's prose about constructing a bevas achas scenario for all four transgressions, before the essay moves to the shlichim mechanism in heading 1 and the niddah-specific challenge in heading 2.",
+      "chosen_heading": "All Four Transgressions",
+      "current_heading": "Age Three Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "First Act Assumption",
+    "candidates": [
+      "Age Three Solution",
+      "First Act Assumption",
+      "Hymen Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the 'first act' assumption and its implications for Rabbi \u1e24iyya's count of sixteen sin-offerings, which is precisely what the 'First Act Assumption' prose section discusses.",
+      "chosen_heading": "First Act Assumption",
+      "current_heading": "First Act Assumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Hymen Removal",
+    "candidates": [
+      "Hymen Removal",
+      "Er/Onan Sin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Rava-Rav Na\u1e25man exchange about Tamar breaking her hymen with her finger and the follow-up about Er and Onan, which is precisely what heading 0 ('Hymen Removal') describes in its prose.",
+      "chosen_heading": "Hymen Removal",
+      "current_heading": "Hymen Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Er/Onan Sin",
+    "candidates": [
+      "Er/Onan Sin",
+      "Early Withdrawal: Marital"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the nursing-withdrawal practice compared to Er and Onan's sin, and the resolution distinguishing 'similar but not identical' \u2014 exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Er/Onan Sin",
+      "current_heading": "Er/Onan Sin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Early Withdrawal: Marital",
+    "candidates": [
+      "Early Withdrawal: Marital",
+      "Tosafot First View",
+      "Ri's View",
+      "Rema's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what the 'Early Withdrawal: Marital' prose describes: the Gemara's derivation that Er sinned the same way as Onan via the word 'gam,' and the respective motives of each brother, which is the precise content analyzed in that section's prose.",
+      "chosen_heading": "Early Withdrawal: Marital",
+      "current_heading": "Early Withdrawal: Marital",
+      "moved": false
+    }
+  }
+]

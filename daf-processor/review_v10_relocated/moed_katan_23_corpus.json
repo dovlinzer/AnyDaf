@@ -1,0 +1,263 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Silent Community",
+    "candidates": [
+      "Death of Chacham",
+      "Silent Community",
+      "No Shmua v'Aggada"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes reading seven aliyot and Rabbi Yehoshua ben Korcha's instruction about silent mourning, which is directly discussed in the 'Death of Chacham' prose (citing 'nichnasim l'beit haknesset v'korin sheva' and Rabbeinu Gershom's note about individual prayer), making it clearly part of that section rather than a separate 'Silent Community' heading.",
+      "chosen_heading": "Death of Chacham",
+      "current_heading": "Silent Community",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "No Shmua v'Aggada",
+    "candidates": [
+      "Silent Community",
+      "No Shmua v'Aggada",
+      "Chananya's Exception",
+      "Simchat Mereus",
+      "Simchat Mitzvah",
+      "Four Week Progression",
+      "Weekly Restrictions",
+      "Rabbi Yehuda",
+      "Essence of Shiva",
+      "Sitting & Speaking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the prohibition of shmua and aggada in the house of mourning, which is precisely what the 'No Shmua v'Aggada' section discusses, and the subsequent mention of Rabbi Chananya ben Gamliel belongs under heading 2 'Chananya's Exception' \u2014 but since the item is a single passage containing both parts and must be placed under ONE heading, the opening clause about the prohibition best matches heading 1 where the prose explicitly discusses 'v'ein omrim shmua v'aggada b'veit ha-avel' and its implications, while the Rabbi Chananya reference is the transition into the next section.",
+      "chosen_heading": "No Shmua v'Aggada",
+      "current_heading": "No Shmua v'Aggada",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Sitting & Speaking",
+    "candidates": [
+      "Chananya's Exception",
+      "Simchat Mereus",
+      "Simchat Mitzvah",
+      "Four Week Progression",
+      "Weekly Restrictions",
+      "Rabbi Yehuda",
+      "Essence of Shiva",
+      "Sitting & Speaking",
+      "Exceptions & Latitudes",
+      "Shloshim Remarriage",
+      "Yehuda's Leniencies",
+      "Joseph's Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Candidate 3 ('Four Week Progression') explicitly introduces this baraita with 'Tanu rabbanan: the avel during the first shabbat does not go out from the door of his house' and describes the exact four-week progression that Item 1 contains, while Item 2 (Rabbi Yehuda's variant) is a continuation of the same topic introduced there.",
+      "chosen_heading": "Four Week Progression",
+      "current_heading": "Sitting & Speaking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Joseph's Story",
+    "candidates": [
+      "Exceptions & Latitudes",
+      "Shloshim Remarriage",
+      "Yehuda's Leniencies",
+      "Joseph's Story",
+      "Tosafot Objection",
+      "Gihutz Baraita",
+      "Clothing Disputes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the baraita about the thirty-day and shalosh regalim remarriage prohibition, Rabbi Yehuda's leniency, the exceptions for pru urevu and childcare, and the Yosef HaKohen story \u2014 which is precisely what heading 1 ('Shloshim Remarriage') introduces, before the material is subdivided into headings 2 and 3; but since all three items are one continuous baraita unit and heading 1's prose explicitly frames 'kol shloshim yom lenissuin' and the shalosh regalim rule that opens item 1, heading 1 is the best single home, though the current placement under heading 3 covers only item 3 while headings 1 and 2 cover items 1\u20132, suggesting the passage should be reunited under heading 1 as its opening anchor.",
+      "chosen_heading": "Shloshim Remarriage",
+      "current_heading": "Joseph's Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Clothing Disputes",
+    "candidates": [
+      "Tosafot Objection",
+      "Gihutz Baraita",
+      "Clothing Disputes",
+      "Abaye & Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita introducing the thirty-day gihutz prohibition with its three opinions, which matches the 'Gihutz Baraita' section prose that introduces this exact baraita, while 'Clothing Disputes' covers the analysis of the individual opinions within it.",
+      "chosen_heading": "Gihutz Baraita",
+      "current_heading": "Clothing Disputes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Abaye & Rava",
+    "candidates": [
+      "Clothing Disputes",
+      "Abaye & Rava",
+      "Laundering Debate",
+      "Shabbat Counts",
+      "Yehuda vs. Galil",
+      "Aveilus Practiced",
+      "No Aveilus",
+      "Private Practices",
+      "Shabbat's Middle Way",
+      "Mishnah Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Abaye and Rava's mourning practices, which is precisely what the 'Abaye & Rava' section's prose discusses \u2014 illustrating the practical application of Rabbi's and Rabbi Elazar b'Rabbi Shimon's opinions through these two amoraic stories.",
+      "chosen_heading": "Abaye & Rava",
+      "current_heading": "Abaye & Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Mishnah Language",
+    "candidates": [
+      "Laundering Debate",
+      "Shabbat Counts",
+      "Yehuda vs. Galil",
+      "Aveilus Practiced",
+      "No Aveilus",
+      "Private Practices",
+      "Shabbat's Middle Way",
+      "Mishnah Language",
+      "Onein Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in 'Mishnah Language': the debate between Bnei Yehuda and Bnei Galil, the arguments from 'olah' vs. 'einah mafsekes,' and the gemara's structural explanation that both halves of the mishnah's language are shaped by the need to contrast with the laws of regalim \u2014 all of which the prose of heading 7 explicitly discusses.",
+      "chosen_heading": "Mishnah Language",
+      "current_heading": "Mishnah Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Onein Eating",
+    "candidates": [
+      "Onein Eating",
+      "Onein vs. Aveilus",
+      "Onein Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita describing the onein's eating arrangements (another room, friend's house, partition, averting face), which is precisely what the 'Onein Eating' section's prose summarizes and discusses.",
+      "chosen_heading": "Onein Eating",
+      "current_heading": "Onein Eating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Onein Restrictions",
+    "candidates": [
+      "Onein vs. Aveilus",
+      "Onein Restrictions",
+      "Onein on Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage enumerates exactly the onein's restrictions (no reclining, no meat/wine, no berachot/zimun, exempt from all mitzvot) which is precisely what the 'Onein Restrictions' prose section discusses and analyzes in detail.",
+      "chosen_heading": "Onein Restrictions",
+      "current_heading": "Onein Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Onein on Shabbat",
+    "candidates": [
+      "Onein on Shabbat",
+      "Sex on Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage enumerates the onein's permissions and obligations on Shabbat (reclining, eating meat, wine, berachot, zimun, Shema, prayer, tefillin, all mitzvot), which is precisely what heading 0's prose discusses, while heading 1's prose is about Rabban Gamliel's addition and the tashmish hamitah debate that follows.",
+      "chosen_heading": "Onein on Shabbat",
+      "current_heading": "Onein on Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Sex on Shabbat",
+    "candidates": [
+      "Sex on Shabbat",
+      "Continuity Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi Yo\u1e25anan's statement about tashmish hamitah as the point of dispute and the subsequent question about yesh/ein aveilus b'Shabbat, which is precisely what the 'Sex on Shabbat' prose discusses in detail.",
+      "chosen_heading": "Sex on Shabbat",
+      "current_heading": "Sex on Shabbat",
+      "moved": false
+    }
+  }
+]

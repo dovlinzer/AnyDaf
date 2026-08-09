@@ -1,0 +1,165 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Ka'eleh Exclusion",
+    "candidates": [
+      "Nachala Concept",
+      "Three Portions",
+      "Yotzei Mitzrayim",
+      "Ka'eleh Exclusion",
+      "Metim Yorshim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items introduce the Gemara's observation that the mishna follows the opinion that the land was divided to yotzei Mitzrayim and then cite Rabbi Yoshia's baraita supporting that position, which is precisely what the 'Yotzei Mitzrayim' section's prose describes.",
+      "chosen_heading": "Yotzei Mitzrayim",
+      "current_heading": "Ka'eleh Exclusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Metim Yorshim",
+    "candidates": [
+      "Ka'eleh Exclusion",
+      "Metim Yorshim",
+      "Two Brothers Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yonatan's opinion that the land was divided among ba'ei ha'aretz and that this inheritance is uniquely inverted (meisim yorshin es hachaim), which is precisely what the 'Metim Yorshim' section's prose describes.",
+      "chosen_heading": "Metim Yorshim",
+      "current_heading": "Metim Yorshim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Two Brothers Parable",
+    "candidates": [
+      "Two Brothers Parable",
+      "Family Fairness",
+      "Both Get It"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the parable of the two priestly brothers itself, which is exactly what the 'Two Brothers Parable' section's prose describes and analyzes.",
+      "chosen_heading": "Two Brothers Parable",
+      "current_heading": "Two Brothers Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Both Get It",
+    "candidates": [
+      "Family Fairness",
+      "Both Get It",
+      "Yehoshua Calev",
+      "Meraglim Lost",
+      "Korach's Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Shimon ben Elazar's opinion that the land was divided to both generations simultaneously \u2014 exactly what the 'Both Get It' prose describes, including the mikan umikan principle for those who were both yotzei Mitzrayim and ba'ei ha'aretz.",
+      "chosen_heading": "Both Get It",
+      "current_heading": "Both Get It",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Korach's Children",
+    "candidates": [
+      "Yehoshua Calev",
+      "Meraglim Lost",
+      "Korach's Children",
+      "Assigned vs. Unassigned",
+      "Yerusha Promise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the meraglim (Yehoshua and Calev taking their portions), the mitlonenim/adat Korach having no portion, and the sons receiving through paternal and maternal grandfathers \u2014 all of which are the central topics of the 'Korach's Children' section prose.",
+      "chosen_heading": "Korach's Children",
+      "current_heading": "Korach's Children",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Yerusha Promise",
+    "candidates": [
+      "Assigned vs. Unassigned",
+      "Yerusha Promise",
+      "All via Fathers",
+      "Larov Tarbeh",
+      "Changing Shares",
+      "Tosafot Girsa",
+      "Complaint Logic",
+      "Uncles' Portion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's challenge to the 'lishmot matot avotam' derivation and the response citing 'venasati osah lachem morashah' to establish that the promise was made to yotzei Mitzrayim, which is precisely what the 'Yerusha Promise' section's prose describes.",
+      "chosen_heading": "Yerusha Promise",
+      "current_heading": "Yerusha Promise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Uncles' Portion",
+    "candidates": [
+      "All via Fathers",
+      "Larov Tarbeh",
+      "Changing Shares",
+      "Tosafot Girsa",
+      "Complaint Logic",
+      "Uncles' Portion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Larov Tarbeh",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the mnemonic and the first question about 'larov tarbeh nachalaso,' which matches candidate 1 ('Larov Tarbeh') and candidate 2 ('Changing Shares') \u2014 but the mnemonic introduces the whole series and items 1-3 specifically address the 'larov' verse challenge, fitting squarely under heading 1.",
+      "second_heading": "Complaint Logic",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 present Rav Pappa's second question about why the daughters of Zelophehad complained and Abaye's answer about Chefer's estate, which matches candidate 4 ('Complaint Logic') and candidate 5 ('Uncles' Portion') \u2014 item 4 is the complaint question (heading 4) and item 5 is the resolution (heading 5), but since item 5 is already under heading 5 and item 4 belongs with it, the natural home for items 4-5 together is heading 4 ('Complaint Logic') which introduces the challenge that item 5 resolves.",
+      "current_heading": "Uncles' Portion",
+      "moved": true
+    }
+  }
+]

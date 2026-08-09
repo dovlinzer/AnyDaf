@@ -1,0 +1,382 @@
+[
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Three Tefachim Rule",
+    "candidates": [
+      "Perek Overview",
+      "Abaye's Position",
+      "Rava's Position",
+      "Soft Ground Setup",
+      "Soft Ground Exception",
+      "Three Tefachim Rule",
+      "Heat Materials Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's explanation of the baraita's chiddush \u2014 that three handbreadths suffices even for soft ground \u2014 which is precisely what heading 5 ('Three Tefachim Rule') describes in its prose.",
+      "chosen_heading": "Three Tefachim Rule",
+      "current_heading": "Three Tefachim Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Heat Materials Mishna",
+    "candidates": [
+      "Heat Materials Mishna",
+      "Boundary Line Reading",
+      "Heat as Damage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the mishna's text about distancing heat-generating materials from a neighbor's wall, which is precisely what heading 0 ('Heat Materials Mishna') describes \u2014 the citation and content of the mishna itself, before the Gemara's inference and rejection are discussed in headings 1 and 2.",
+      "chosen_heading": "Heat Materials Mishna",
+      "current_heading": "Heat Materials Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Heat as Damage",
+    "candidates": [
+      "Boundary Line Reading",
+      "Heat as Damage",
+      "Moisture Mishna",
+      "Moisture Problem",
+      "Millstone Mishna"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Heat as Damage",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's rejection and explanation that 'these substances are damaging to a wall,' which is exactly what candidate 1 ('Heat as Damage') describes in its prose.",
+      "second_heading": "Moisture Mishna",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces an entirely new mishna (seeds, plow, urine) with its own distancing rule and rejection, matching candidate 2 ('Moisture Mishna') which describes this second mishna and its apparent wall-predicated obligation.",
+      "current_heading": "Heat as Damage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Millstone Mishna",
+    "candidates": [
+      "Moisture Mishna",
+      "Moisture Problem",
+      "Millstone Mishna",
+      "Vibration Source",
+      "Oven Mishna",
+      "Heat Problem Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses the millstone mishna (shechev/rechev distances from a wall) and the Gemara's conclusion that vibrations are damaging to walls, which matches exactly the 'Millstone Mishna' heading's prose about lower and upper stone distances \u2014 the current placement is correct.",
+      "chosen_heading": "Millstone Mishna",
+      "current_heading": "Millstone Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Heat Problem Inference",
+    "candidates": [
+      "Vibration Source",
+      "Oven Mishna",
+      "Heat Problem Inference",
+      "Bakery/Stable Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's analysis of the oven mishna (measuring distances from kilya/safa), which directly corresponds to the 'Oven Mishna' section's prose about ovens being kept three/four tefachim from the wall, not the 'Heat Problem Inference' section which covers only the conclusion about havla kashya l'kotel.",
+      "chosen_heading": "Oven Mishna",
+      "current_heading": "Heat Problem Inference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Bakery/Stable Mishna",
+    "candidates": [
+      "Heat Problem Inference",
+      "Bakery/Stable Mishna",
+      "Dira Exception",
+      "Rashi on Dira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes and analyzes the bakery/dye shop/cattle barn mishna, which is precisely what the 'Bakery/Stable Mishna' section's prose describes, and the current placement is correct.",
+      "chosen_heading": "Bakery/Stable Mishna",
+      "current_heading": "Bakery/Stable Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Rashi on Dira",
+    "candidates": [
+      "Dira Exception",
+      "Rashi on Dira",
+      "Stable First Rule",
+      "Tree Distance Mishna",
+      "Vineyard Labor Space"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses both the 'dira shani' answer and the baraita about the stable preceding the storeroom (refet bakar kodemet l'otzar), which is precisely what the 'Stable First Rule' prose section describes.",
+      "chosen_heading": "Stable First Rule",
+      "current_heading": "Rashi on Dira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Vineyard Labor Space",
+    "candidates": [
+      "Stable First Rule",
+      "Tree Distance Mishna",
+      "Vineyard Labor Space",
+      "Distance Without Field",
+      "Rock Barrier Case",
+      "Wall Between Properties",
+      "Root Removal Right"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the mishna about planting a tree four cubits from a neighbor's field along with the braita explaining the reason, which directly matches the 'Tree Distance Mishna' heading's prose about this specific mishna and the notably larger four-cubit distance \u2014 the current placement under 'Vineyard Labor Space' covers only the braita's explanation, but the passage contains both the mishna and the braita together, and heading 1 introduces this combined unit.",
+      "chosen_heading": "Tree Distance Mishna",
+      "current_heading": "Vineyard Labor Space",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Root Removal Right",
+    "candidates": [
+      "Distance Without Field",
+      "Rock Barrier Case",
+      "Wall Between Properties",
+      "Root Removal Right",
+      "Tree-Cistern Mishna",
+      "Distance Without Cistern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single chain of argument about the rock barrier case: item 1 introduces the tzunema resolution, item 2 supports it from the mishna's language about a fence, and item 3 addresses the objection from the clause about roots spreading \u2014 all three together elaborate the rock barrier explanation, which is precisely what candidate 1 ('Rock Barrier Case') describes.",
+      "chosen_heading": "Rock Barrier Case",
+      "current_heading": "Root Removal Right",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Distance Without Cistern",
+    "candidates": [
+      "Tree-Cistern Mishna",
+      "Distance Without Cistern",
+      "Purchaser Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara's analysis discussed in candidate 1's prose \u2014 the inference from the cistern requirement, the challenge to Rava's position, and the resolution that even without a cistern one cannot plant close, with the mishna teaching that roots extend twenty-five amot and damage cisterns.",
+      "chosen_heading": "Distance Without Cistern",
+      "current_heading": "Distance Without Cistern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Purchaser Exception",
+    "candidates": [
+      "Purchaser Exception",
+      "Smell Damages",
+      "Problem Pattern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about the last clause of the mishna regarding a tree that preceded the cistern, resolved by Rav Pappa's 'buyer' (lokayach) principle \u2014 exactly what the 'Purchaser Exception' prose describes.",
+      "chosen_heading": "Purchaser Exception",
+      "current_heading": "Purchaser Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Problem Pattern",
+    "candidates": [
+      "Smell Damages",
+      "Problem Pattern",
+      "Rabbi Yossi Bees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 analyzing the inferential pattern from the mishna (ta'ama d'ika yerek / ki leika yerek nami / d'hani kashu ahadadi) \u2014 matches exactly the 'Problem Pattern' prose, which walks through precisely these Aramaic phrases and their logical implications.",
+      "chosen_heading": "Problem Pattern",
+      "current_heading": "Problem Pattern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Rabbi Yossi Bees",
+    "candidates": [
+      "Rabbi Yossi Bees",
+      "Boundary Existence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's citation of Rabbi Yosei's ruling permitting mustard near bees due to reciprocal damage, which is precisely what the 'Rabbi Yossi Bees' prose section discusses.",
+      "chosen_heading": "Rabbi Yossi Bees",
+      "current_heading": "Rabbi Yossi Bees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Boundary Existence",
+    "candidates": [
+      "Boundary Existence",
+      "Damager Responsible"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rav Pappa b'lokayach exchange and the Gemara's objection to it \u2014 precisely the content described in the 'Boundary Existence' prose, which explicitly walks through this question-and-answer and notes that the Rabbanan's position becomes difficult to understand as a result.",
+      "chosen_heading": "Boundary Existence",
+      "current_heading": "Boundary Existence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Damager Responsible",
+    "candidates": [
+      "Damager Responsible",
+      "Cistern Direct Damage",
+      "Concrete Structure",
+      "Responsibility Debate",
+      "Rabbi Yossi Nizak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Ravina's statement that 'the Rabbanan hold the responsibility falls on the one who causes damage to distance himself,' which directly matches candidate 3's prose about the foundational debate between mazik and nizak responsibility, explicitly citing this same formulation (*al ha-mazik leharchaik et atzmo*).",
+      "chosen_heading": "Responsibility Debate",
+      "current_heading": "Damager Responsible",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Rabbi Yossi Nizak",
+    "candidates": [
+      "Cistern Direct Damage",
+      "Concrete Structure",
+      "Responsibility Debate",
+      "Rabbi Yossi Nizak",
+      "Rabbanan Mazik",
+      "Mutual Damage",
+      "Damage Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items together form the complete dialectic of Rabbi Yossi's l'divreihem argument \u2014 challenging whether he holds al ha-mazik, resolving that he argued within the Rabbanan's framework, and elaborating his mustard-bee mutual-damage point \u2014 which is precisely what candidate 4 ('Rabbanan Mazik') describes: Rabbi Yossi constructing his argument l'divreihem d'Rabbanan while personally holding al ha-nizak.",
+      "chosen_heading": "Rabbanan Mazik",
+      "current_heading": "Rabbi Yossi Nizak",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Damage Threshold",
+    "candidates": [
+      "Rabbanan Mazik",
+      "Mutual Damage",
+      "Damage Threshold",
+      "First in Time",
+      "Core Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Rabbanan's factual rebuttal that bees don't actually damage mustard (seeds aren't found, leaves grow back), which is precisely what the 'Damage Threshold' prose describes as *devorim b'chardal lo mazkei lei* and the denial that the damage meets legally cognizable harm.",
+      "chosen_heading": "Damage Threshold",
+      "current_heading": "Damage Threshold",
+      "moved": false
+    }
+  }
+]

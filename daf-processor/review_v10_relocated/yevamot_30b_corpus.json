@@ -1,0 +1,355 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Sequence Analysis",
+    "candidates": [
+      "Mishna Setup",
+      "Sequence Analysis",
+      "Yesh Zika Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage presents the initial case setup \u2014 three brothers, two married to sisters, one to an unrelated woman \u2014 which matches the 'Mishna Setup' section's prose about introducing the case, not the 'Sequence Analysis' section which discusses the gemara's subsequent probing of the ordering implications.",
+      "chosen_heading": "Mishna Setup",
+      "current_heading": "Sequence Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Yesh Zika Inference",
+    "candidates": [
+      "Sequence Analysis",
+      "Yesh Zika Inference",
+      "Ein Zika Challenge",
+      "Rav Ashi's Response",
+      "Ma'amar's Role",
+      "Beit Shammai Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's inference that the mishna's divorce-first sequence implies a problem if Levi died first, and Rav Ashi's explicit statement that 'yesh zika even with two brothers' \u2014 precisely the content described in the 'Yesh Zika Inference' prose.",
+      "chosen_heading": "Yesh Zika Inference",
+      "current_heading": "Yesh Zika Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Beit Shammai Debate",
+    "candidates": [
+      "Ein Zika Challenge",
+      "Rav Ashi's Response",
+      "Ma'amar's Role",
+      "Beit Shammai Debate",
+      "Rav Nechman's Logic",
+      "Scenario A",
+      "Scenario B",
+      "Scenario C"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form Rav Ashi's response: item 1 states that even without ma'amar the zika alone creates the problem, and item 2 completes the answer by explaining the ma'amar was mentioned only to exclude Beit Shammai \u2014 exactly what candidate 1 ('Rav Ashi's Response') and its follow-on candidate 2 ('Ma'amar's Role') describe, but the passage as a whole is the opening of Rav Ashi's answer, best matched to candidate 1, with the Beit Shammai exclusion being part of that same continuous answer rather than a separate section.",
+      "chosen_heading": "Rav Ashi's Response",
+      "current_heading": "Beit Shammai Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Scenario C",
+    "candidates": [
+      "Rav Nechman's Logic",
+      "Scenario A",
+      "Scenario B",
+      "Scenario C",
+      "Nisuin vs. Mita",
+      "Rabbi Yirmiyah View",
+      "What Mishna Excludes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Nechman's Logic",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly discuss Rav Nachman's difficulty with Rav Ashi's deduction and the question of what the mishna excludes (kanas v'achar kach geireish), which is precisely what candidate 0 'Rav Nechman's Logic' describes in its prose.",
+      "second_heading": "Nisuin vs. Mita",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the fundamental tannaitic dispute between 'mita mapelet' and 'nisuin rishonim mappilin', which matches candidate 4 'Nisuin vs. Mita' and its prose about when tzarat ervah status is determined.",
+      "current_heading": "Scenario C",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "What Mishna Excludes",
+    "candidates": [
+      "Nisuin vs. Mita",
+      "Rabbi Yirmiyah View",
+      "What Mishna Excludes",
+      "Rava's View",
+      "Rava's Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses what 'zo hi' excludes under the framework of ein zika combined with Rabbi Yirmiyah's view, concluding 'al kurchak k'Rabbi Yirmiyah s'vira lei' \u2014 which is precisely what the 'What Mishna Excludes' section's prose describes.",
+      "chosen_heading": "What Mishna Excludes",
+      "current_heading": "What Mishna Excludes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Rava's Conclusion",
+    "candidates": [
+      "Rava's View",
+      "Rava's Conclusion",
+      "Safek Introduction",
+      "Safek Solution",
+      "Safek Kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's question about what 'zu hi' excludes under Rava's view, the answer that it excludes 'meis b'lo geiresh,' and the conclusion that Rava must hold like Rav Ashi \u2014 precisely the content described in the 'Rava's Conclusion' prose.",
+      "chosen_heading": "Rava's Conclusion",
+      "current_heading": "Rava's Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Safek Kiddushin",
+    "candidates": [
+      "Safek Introduction",
+      "Safek Solution",
+      "Safek Kiddushin",
+      "Safek Gerushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The mishna text covers both the general ruling (tzarotehen choltzot) and the definition of safek kiddushin together, but the 'Safek Introduction' heading's prose most accurately describes the opening of this mishna \u2014 introducing the new category of uncertain status \u2014 while the current placement under 'Safek Kiddushin' only captures the latter half; however, since the passage begins with the general ruling before defining safek kiddushin, it more naturally belongs at the start of this section under 'Safek Introduction', though confidence is medium given the overlap.",
+      "chosen_heading": "Safek Introduction",
+      "current_heading": "Safek Kiddushin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Safek Gerushin",
+    "candidates": [
+      "Safek Gerushin",
+      "Missing Case",
+      "Rabba's Status Quo"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Safek Gerushin",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah defining the three cases of safek gerushin, which is precisely what candidate 0's prose describes.",
+      "second_heading": "Missing Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara noting the missing case of a get thrown ambiguously between husband and wife, which is exactly what candidate 1's prose discusses.",
+      "current_heading": "Safek Gerushin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Rabba's Status Quo",
+    "candidates": [
+      "Missing Case",
+      "Rabba's Status Quo",
+      "Kiddushin Parallel",
+      "Gemara Challenge",
+      "Message Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabba's Status Quo",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabba's status quo explanation for the omission of the safek get case, which matches heading 1's prose about Rabba's chazakah argument and the al tosrena misafek principle.",
+      "second_heading": "Gemara Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's challenge applying the same status quo logic to safek kiddushin (isha zo b'chezkat heter l'yavam), which matches exactly heading 3's prose about the gemara pressing this logic in reverse for the kiddushin case.",
+      "current_heading": "Rabba's Status Quo",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Message Problem",
+    "candidates": [
+      "Kiddushin Parallel",
+      "Gemara Challenge",
+      "Message Problem",
+      "Chalitza Consistency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items describe exactly the 'chumra that brings about a kula' concern \u2014 the two scenarios (kiddushin to the sister, kiddushin to the forbidden relative herself) that the essay's 'Message Problem' prose explicitly identifies as the problematic consequences the gemara warns about.",
+      "chosen_heading": "Message Problem",
+      "current_heading": "Message Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Chalitza Consistency",
+    "candidates": [
+      "Chalitza Consistency",
+      "Wrong Message",
+      "No Chalitza Demanded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabba's answer about chalitza sending the right signal (meida yedaya d'chumra b'alma hu) and Abaye's challenge about applying the same logic to gerushin \u2014 which is precisely what the 'Chalitza Consistency' prose section discusses and sets up.",
+      "chosen_heading": "Chalitza Consistency",
+      "current_heading": "Chalitza Consistency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "No Chalitza Demanded",
+    "candidates": [
+      "Wrong Message",
+      "No Chalitza Demanded",
+      "Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the concern that performing chalitza leads to yibum, and Rabba's response that in uncertain betrothal there is no problem if she enters levirate marriage because she retains her presumptive permitted status \u2014 exactly the content discussed in the 'No Chalitza Demanded' section about the dangerous message chalitza sends and the logic of status quo.",
+      "chosen_heading": "No Chalitza Demanded",
+      "current_heading": "No Chalitza Demanded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Setup",
+    "candidates": [
+      "Setup",
+      "Devorah's Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the mishna text itself (the fallen house case and its ruling), which is the setup that Section 0's prose explicitly introduces and explains, before Section 1 moves on to Abaye's challenge based on the status quo principle.",
+      "chosen_heading": "Setup",
+      "current_heading": "Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Devorah's Status",
+    "candidates": [
+      "Devorah's Status",
+      "Rare Event"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source text for Abaye's challenge about the rival wife's presumptive status of being permitted to the public, which is precisely what the 'Devorah's Status' prose discusses \u2014 the chazakah of muteret lashuk and the argument not to render her forbidden due to doubt.",
+      "chosen_heading": "Devorah's Status",
+      "current_heading": "Devorah's Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Rare Event",
+    "candidates": [
+      "Rare Event",
+      "Common vs. Rare",
+      "Safek Gerushin & Yibum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle that divorce is common so the Rabbis decreed, but collapse is uncommon so they did not decree \u2014 which is exactly what the 'Rare Event' section's prose discusses (mapoles d'lo shechiachi lo gazru behu rabbanan).",
+      "chosen_heading": "Rare Event",
+      "current_heading": "Rare Event",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Safek Gerushin & Yibum",
+    "candidates": [
+      "Common vs. Rare",
+      "Safek Gerushin & Yibum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains the distinction between divorce and collapse cases in terms of public inference about Rabbinic verification \u2014 exactly what the 'Safek Gerushin & Yibum' prose describes with 'kamu bah rabbanan b'gita' and 'mi kamu bei Rabbanan b'mapoles'.",
+      "chosen_heading": "Safek Gerushin & Yibum",
+      "current_heading": "Safek Gerushin & Yibum",
+      "moved": false
+    }
+  }
+]

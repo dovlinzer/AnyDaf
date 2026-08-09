@@ -1,0 +1,475 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Imposed vs. Self Oath",
+    "candidates": [
+      "Definition & Nature",
+      "Mishnah Scope",
+      "Imposed vs. Self Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The item is the Hadaran formula marking the end of the Shevuat Ha'edut chapter, which is a transitional closing line between the prior perek and the new one on shevuat hapikadon \u2014 it belongs under 'Mishnah Scope' which opens the new chapter's discussion, rather than mid-chapter under 'Imposed vs. Self Oath'.",
+      "chosen_heading": "Mishnah Scope",
+      "current_heading": "Imposed vs. Self Oath",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Imposed vs. Self Oath",
+    "candidates": [
+      "Imposed vs. Self Oath",
+      "Intent & Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Mishna about shevuat hapikadon covering the mipi atzmo vs. mipi acherim dispute between Rabbi Meir and the Rabbis, which is precisely what candidate 0 ('Imposed vs. Self Oath') discusses in its prose.",
+      "chosen_heading": "Imposed vs. Self Oath",
+      "current_heading": "Imposed vs. Self Oath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Intent & Liability",
+    "candidates": [
+      "Intent & Liability",
+      "Korban Details",
+      "Five Impositions"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Five Impositions",
+    "candidates": [
+      "Korban Details",
+      "Five Impositions",
+      "Co-owners Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the five-oath scenario with Rabbi Shimon's reasoning about the ability to retract, which is precisely what the 'Five Impositions' prose discusses.",
+      "chosen_heading": "Five Impositions",
+      "current_heading": "Five Impositions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Co-owners Scenario",
+    "candidates": [
+      "Co-owners Scenario",
+      "Multiple Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes five separate claimants (not five co-owners of a jointly held object), and the current placement's prose misattributes Rabbi Shimon's opinion to Rabbi Eliezer, but the passage's core scenario of five individual claimants demanding a deposit with one collective oath vs. individual denials matches heading 0 better than heading 1, which concerns multiple object types from a single claimant.",
+      "chosen_heading": "Co-owners Scenario",
+      "current_heading": "Co-owners Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Multiple Objects",
+    "candidates": [
+      "Multiple Objects",
+      "Single Transaction Grains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the scenario of a claimant demanding multiple distinct property types (pikadon, teshumas yad, gazel, aveida) and the liability for one vs. each oath, which is precisely what the 'Multiple Objects' prose describes.",
+      "chosen_heading": "Multiple Objects",
+      "current_heading": "Multiple Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Single Transaction Grains",
+    "candidates": [
+      "Single Transaction Grains",
+      "Rape/Seduction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the single-transaction grain scenario (wheat, barley, spelt) with the distinction between a single oath and oaths for each type, matching exactly the prose of 'Single Transaction Grains'.",
+      "chosen_heading": "Single Transaction Grains",
+      "current_heading": "Single Transaction Grains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rape/Seduction",
+    "candidates": [
+      "Rape/Seduction",
+      "Theft of Ox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rape/seduction case with Rabbi Shimon's exemption and the Rabbis' response about boshet and pegam, which is precisely what the 'Rape/Seduction' section prose analyzes.",
+      "chosen_heading": "Rape/Seduction",
+      "current_heading": "Rape/Seduction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Theft of Ox",
+    "candidates": [
+      "Theft of Ox",
+      "Ox Damages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses theft of an ox with denial under oath, and the specific case of admitting theft but denying slaughter/sale \u2014 precisely what the 'Theft of Ox' prose describes.",
+      "chosen_heading": "Theft of Ox",
+      "current_heading": "Theft of Ox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Ox Damages",
+    "candidates": [
+      "Ox Damages",
+      "Wounding Scenarios",
+      "General Rule",
+      "Lashes vs. Korban"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ox Damages",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the specific ox-kills-ox/ox-kills-slave and wounding/slave-injury cases, but item 1 (ox damages) belongs under 'Ox Damages' and item 2 (wounding scenarios) belongs under 'Wounding Scenarios' \u2014 however, since both items are Mishnah cases preceding the general rule, the real structural seam is between item 2 and item 3 (the ze ha-klal), not between items 1 and 2.",
+      "second_heading": "General Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the concluding general principle (ze ha-klal) of the Mishnah, which matches precisely the 'General Rule' prose section discussing kol ha-meshallem al pi atzmo chayav.",
+      "current_heading": "Ox Damages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Lashes vs. Korban",
+    "candidates": [
+      "Wounding Scenarios",
+      "General Rule",
+      "Lashes vs. Korban",
+      "Braita Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the opening scene of Rav Kahana posing his question about the three possibilities (korban regardless of warning, lashes displacing korban, or both) \u2014 exactly what the 'Lashes vs. Korban' prose describes as the passage's content.",
+      "chosen_heading": "Lashes vs. Korban",
+      "current_heading": "Lashes vs. Korban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Braita Evidence",
+    "candidates": [
+      "Braita Evidence",
+      "Rabbi Shimon View",
+      "Alternative Braita",
+      "Weightiness Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The entire passage is one continuous dispute chain about whether the braita resolves Rav Kahana's question, beginning with the students' citation of the braita (candidate 0), though the chain extends through the Rabbi Shimon objection and alternative braita; the current placement captures the opening and the passage cannot be cleanly split since all items are linked arguments in one sequence.",
+      "chosen_heading": "Braita Evidence",
+      "current_heading": "Braita Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Weightiness Defined",
+    "candidates": [
+      "Rabbi Shimon View",
+      "Alternative Braita",
+      "Weightiness Defined",
+      "Abaye's Objection",
+      "Alternate Braita",
+      "Nazir Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents an alternative version (lishana achrina) of the proof from the mishna about shevuat hapikadon, which is then rejected with 'hacha nami d'lo asru bei' \u2014 exactly matching the prose of candidate 4 ('Alternate Braita') which describes this second braita and the same rejection.",
+      "chosen_heading": "Alternate Braita",
+      "current_heading": "Weightiness Defined",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Nazir Comparison",
+    "candidates": [
+      "Abaye's Objection",
+      "Alternate Braita",
+      "Nazir Comparison",
+      "Abaye Reinterprets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's inference from the nazir comparison braita \u2014 exactly what heading 2 describes: the braita comparing nazir tamei to shevuat hapikadon, the inference that the nazirite was forewarned (miklal d'asru bei), and the conclusion that shevuat hapikadon brings a korban rather than lashes.",
+      "chosen_heading": "Nazir Comparison",
+      "current_heading": "Nazir Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Abaye Reinterprets",
+    "candidates": [
+      "Abaye Reinterprets",
+      "Rava's Thesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to Abaye's reinterpretation of 'eino lokeh' as 'not exempted through lashes alone,' the subsequent objection about nazir tamei, and the Gemara's response about the korban serving to restart nezirut \u2014 all of which are explicitly described in candidate 0's prose.",
+      "chosen_heading": "Abaye Reinterprets",
+      "current_heading": "Abaye Reinterprets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Rava's Thesis",
+    "candidates": [
+      "Rava's Thesis",
+      "Rabbi Chanina's Braita",
+      "Rava's Rebuttal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabba's (Rava's) response and the Gemara's inference that he holds a denier with witnesses is exempt \u2014 exactly what the 'Rava's Thesis' prose describes as his core position of kfirat devarim b'alma.",
+      "chosen_heading": "Rava's Thesis",
+      "current_heading": "Rava's Thesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Rava's Rebuttal",
+    "candidates": [
+      "Rabbi Chanina's Braita",
+      "Rava's Rebuttal",
+      "Two Witness Sets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute Rava's rebuttal to Rabbi Chanina's braita: item 1 is the braita itself (presented as part of the exchange), item 2 is Rava's rejection of it, and item 3 is Rava's elaboration proving his reinterpretation from the first clause of the braita \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Rava's Rebuttal",
+      "current_heading": "Rava's Rebuttal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Two Witness Sets",
+    "candidates": [
+      "Two Witness Sets",
+      "Ravina's Escape"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Ravina's Escape",
+    "candidates": [
+      "Ravina's Escape",
+      "Theft Claim Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Ravina's statement explaining the braita as dealing with witnesses related through moribund wives, which is exactly what the 'Ravina's Escape' section prose describes in detail.",
+      "chosen_heading": "Ravina's Escape",
+      "current_heading": "Ravina's Escape",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Theft Claim Braita",
+    "candidates": [
+      "Theft Claim Braita",
+      "Witnesses Become Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the baraita about a homeowner making a false theft claim on a deposit, swearing falsely, then admitting or being exposed by witnesses \u2014 matching precisely the 'Theft Claim Braita' prose description.",
+      "chosen_heading": "Theft Claim Braita",
+      "current_heading": "Theft Claim Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Witnesses Become Valid",
+    "candidates": [
+      "Witnesses Become Valid",
+      "Nazir Comparison",
+      "Weightiness Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly invokes Ravina's explanation that witnesses were invalid at the time of the oath (due to moribund wives), which is exactly the scenario described in the 'Witnesses Become Valid' prose.",
+      "chosen_heading": "Witnesses Become Valid",
+      "current_heading": "Witnesses Become Valid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Weightiness Reversal",
+    "candidates": [
+      "Nazir Comparison",
+      "Weightiness Reversal",
+      "Rava Refuted",
+      "Rabbi Yochanan Rule",
+      "Rav Pappa Reason",
+      "True Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: Ravina's proof from the shevuat hapikadon baraita (item 1), Rav Mordekhai's rebuttal citing Rav Kahana's alternative text that removes the lashes entirely (item 2), and the fresh nazir tamei proof that conclusively refutes Rabba (item 3) \u2014 exactly the sequence described in the 'Weightiness Reversal' prose, which explicitly covers Rav Kahana's alternative version, the setting-aside of that braita, the fresh ta shema, and the final structural argument about witnesses and korban liability.",
+      "chosen_heading": "Weightiness Reversal",
+      "current_heading": "Weightiness Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136
+    ],
+    "current_heading": "True Reason",
+    "candidates": [
+      "Rava Refuted",
+      "Rabbi Yochanan Rule",
+      "Rav Pappa Reason",
+      "True Reason",
+      "Land Exemption",
+      "Land Oath Question",
+      "Yochanan/Eleazar",
+      "Proof Structure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "True Reason",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Yochanan's ruling and the Rav Pappa/Rav Huna debate about its reasoning (the shtar-shibud karkaot explanation), which is precisely what heading 3 'True Reason' discusses.",
+      "second_heading": "Proof Structure",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the dispute between Rabbi Yochanan and Rabbi Eleazar about edei karka and the Gemara's proof identifying Rabbi Yochanan's position, which matches heading 7 'Proof Structure' exactly.",
+      "current_heading": "True Reason",
+      "moved": true
+    }
+  }
+]

@@ -69,7 +69,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Minimum Requirements for Bringing Korbanot: Shulchan, Menorah, Mizbechot, and Parochet",
@@ -117,7 +117,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Leftover Shekalim Funds at Year's End: Rabbi Yishmael vs. Rabbi Akiva on Business Ventures",
@@ -146,7 +146,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Motar Peirot: Interpreting Leftover Profits from Market Fluctuations and Heaping Measures",
@@ -185,7 +185,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Motar HaKetoret: Handling Year-End Surplus Incense and Transferring Kedusha",
@@ -228,8 +228,8 @@
           "timestamp": "55:15"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -473,5 +473,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 2
+  "amud_b_sefaria_index": 2,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "20:39",
+  "amud_b_micro_title": "Chakhamim Opinion",
+  "shiur_start_daf": 10,
+  "shiur_start_amud": "b"
 }

@@ -1,12 +1,9 @@
-# Shabbat 65 — Daf Yomi Shiur
-
+[DAF:64b]
 ## Tosafot & Practice
 
-### Courtyard Permission
 
-> **Hebrew/Aramaic:** בְּכָבוּל וּבְפֵאָה נׇכְרִית לֶחָצֵר. בְּמוֹךְ שֶׁבְּאׇזְנָהּ, וּבְמוֹךְ שֶׁבְּסַנְדָּלָהּ, וּבְמוֹךְ שֶׁהִתְקִינָה לְנִדָּתָהּ.
->
-> **Translation:** She may go out on Shabbat **with** a **woolen cap or with a wig to the courtyard,** although not to the public domain. **And** likewise she may go out **with a cloth that is in her ear, and with a cloth in her sandal, and with a cloth that she placed due to her menstrual** status.
+
+### Courtyard Permission
 
 The daf begins at the very bottom of 64b, continuing the extended discussion of what may and may not be worn on *Shabbat*. Before entering the new Gemara text, it is worth summarizing the crucial ground covered at the close of the previous session, as it bears directly on everything that follows.
 
@@ -32,27 +29,37 @@ It is important to note that *Tosafot* deploys the contextual argument selective
 
 ## Maris Ayin Doctrine
 
+
+
 ### Private Maris Ayin
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר רַב: כׇּל מָקוֹם שֶׁאָסְרוּ חֲכָמִים מִפְּנֵי מַרְאִית הָעַיִן — אֲפִילּוּ בְּחַדְרֵי חֲדָרִים אָסוּר.
->
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר רַב: כׇּל מָקוֹם שֶׁאָסְרוּ חֲכָמִים מִפְּנֵי מַרְאִית הָעַיִן — אֲפִילּוּ בְּחַדְרֵי חֲדָרִים אָסוּר.
 > **Translation:** **Rav Yehuda said** that **Rav said: Wherever the Sages prohibited** an action **due to the appearance** of prohibition, **even in the innermost chambers,** where no one will see it, it **is prohibited.** When prohibiting an action, the Sages did not distinguish between different circumstances. They prohibited performing the action in all cases.
 
-This ruling immediately invites challenge from a *mishnah* discussed earlier in the tractate: an animal may not go out wearing a bell even if the bell is stopped up and making no noise. The rationale given there is *maris ayin* — it looks as though one is leading the animal to market. Yet another *braita* records that if the bell is stopped up, the animal may walk about with it in the *chatzer*. If the concern is only about appearances in the public domain, that is perfectly consistent; if the concern applies even in private, how is use in a *chatzer* permitted? This appears to directly contradict Rav's ruling.
+The Gemara now introduces a formal statement: *Amar Rav Yehuda amar Rav* — Rav Yehuda said in the name of Rav — that wherever the *Chachamim* prohibited something on account of *maris ayin*, the concern for appearances, it is forbidden even in the most private of places, *afilu be-chadrei chadarim assur*. The intuitive assumption would be that a prohibition rooted in appearances should only operate where one is visible. Rav rejects that assumption categorically.
 
 ### Bell Contradiction
 
-The Gemara resolves the apparent contradiction by noting that the question is itself a *tannaitic* dispute. At the top of 65a, a *braita* is cited regarding wet laundry: one who has wet garments — say, caught in the rain — may spread them in the sun to dry, but not in a place where the public can see, lest observers assume the laundry was done on *Shabbat*.
+> **Hebrew/Aramaic:** תְּנַן: וְלֹא בְּזוֹג אַף עַל פִּי שֶׁפָּקוּק. וְתַנְיָא אִידַּךְ: פּוֹקֵק לָהּ זוֹג בְּצַוָּארָהּ וּמְטַיֵּיל עִמָּהּ בֶּחָצֵר.
+> **Translation:** The Gemara raises an objection. **We learned** in the mishna that an animal belonging to a Jew may **not** go out on Shabbat **with a bell** around its neck, **even though it is plugged** and makes no sound, due to the appearance of prohibition, as it appears as if he were taking the animal to the marketplace. **And it was taught in another** *baraita*: **He may plug the bell on** the animal’s **neck and walk with it in the courtyard.** Apparently, although the Sages prohibited this action due to the appearance of prohibition, they permitted it in the courtyard.
 
+This ruling immediately invites challenge from a *mishnah* discussed earlier in the tractate: an animal may not go out wearing a bell even if the bell is stopped up and making no noise. The rationale given there is *maris ayin* — it looks as though one is leading the animal to market. Yet another *braita* records that if the bell is stopped up, the animal may walk about with it in the *chatzer*. If the concern is only about appearances in the public domain, that is perfectly consistent; if the concern applies even in private, how is use in a *chatzer* permitted? This appears to directly contradict Rav's ruling.
+
+[DAF:65a]
 ### Tannaim Debate
 
-> **Hebrew/Aramaic:** שׁוֹטְחָן בַּחַמָּה, אֲבָל לֹא כְּנֶגֶד הָעָם. רַבִּי אֱלִיעֶזֶר וְרַבִּי שִׁמְעוֹן אוֹסְרִין.
->
+The Gemara resolves the apparent contradiction by noting that the question is itself a *tannaitic* dispute. At the top of 65a, a *braita* is cited regarding wet laundry: one who has wet garments — say, caught in the rain — may spread them in the sun to dry, but not in a place where the public can see, lest observers assume the laundry was done on *Shabbat*.
+
+> **Hebrew/Aramaic:** תַּנָּאֵי הִיא, דְּתַנְיָא:
+> **Translation:** The Gemara answers: **It is** subject to a dispute between ***tanna’im*** in this matter, **as it was taught** in a *baraita*:
+
+> **Hebrew/Aramaic:** שׁוֹטְחָן בַּחַמָּה, אֲבָל לֹא כְּנֶגֶד הָעָם. רַבִּי אֱלִיעֶזֶר וְרַבִּי שִׁמְעוֹן אוֹסְרִין.
 > **Translation:** One whose clothes fell into water on a Festival may not dry them in the conventional manner; however, **he may spread them out in the sun, but not before the people,** who may suspect that he laundered his clothes on Shabbat. **Rabbi Eliezer and Rabbi Shimon prohibit** doing so even in a place concealed from view. Apparently, the Sages disagree whether or not an action prohibited due to the appearance of prohibition is prohibited everywhere.
 
 ### Wet Laundry Case
 
-This is a *maris ayin* concern, and the *braita*'s *Tanna Kamma* permits it in private precisely because there is no one to observe. This supports the view that *maris ayin* does not apply where one cannot be seen.
+
+This is a *maris ayin* concern, and the *braita*'s *Tanna Kamma* permits it in private precisely because there is no one to observe. This supports the view that *maris ayin* does not apply where one cannot be seen. The scenario the Gemara imagines is a genuinely practical one: not someone who deliberately did laundry on *Shabbat*, but someone whose clothes became soaked — caught in a downpour, say, or forced to wade through water — and who now wishes to hang them to dry upon returning home. The question is whether doing so creates a *maris ayin* problem if a passerby might see the laundry on the line and assume it was washed on *Shabbat*. The *Tanna Kamma*'s answer is that one may spread the garments *be-chama* — in the sun to dry — provided it is not done *ke-neged ha-am*, in a place where the public can see. In other words, as long as there are no observers, there is no concern. It is worth pausing to note how ingrained the opposite assumption tends to be: people with a yeshiva background are often taught as a matter of course that *maris ayin asur afilu be-chadrei chadarim* — that *maris ayin* is forbidden even in the innermost private chambers. Yet the *Tanna Kamma*'s position here cuts directly against that assumption, a tension the Gemara leaves unresolved, as the disagreement with Rabbi Eliezer and Rabbi Shimon makes clear.
 
 ### Unresolved Status
 
@@ -82,37 +89,36 @@ One might note that a change in communal reality need not be driven by initial v
 
 ## Medical Pads
 
-### Ear Pad
 
-> **Hebrew/Aramaic:** וּבְמוֹךְ שֶׁבְּאׇזְנָהּ. תָּנֵי רָמֵי בַּר יְחֶזְקֵאל: וְהוּא שֶׁקָּשׁוּר בְּאׇזְנָהּ.
->
-> **Translation:** The mishna continues: A woman may go out on Shabbat **with a cloth that is in her ear. Rami bar Yeḥezkel taught: And that is** specifically in a case **where** the cloth **is tied to her ear** and she will not come to carry it.
+
+### Ear Pad
 
 The Gemara now turns to a series of rulings regarding items worn directly on the body for medical purposes. A *moch* — a wad of cloth — placed in one's ear to absorb discharge may be worn on *Shabbat*, since it functions as a form of bodily care and is therefore considered akin to wearing rather than carrying. However, *Tani Rami bar Yechezkel*: the wad must be tied to the ear. If it is not secured, there is concern that it will fall out and the wearer will pick it up and carry it without replacing it.
 
-### Heel Pad
+> **Hebrew/Aramaic:** וּבְמוֹךְ שֶׁבְּאׇזְנָהּ. תָּנֵי רָמֵי בַּר יְחֶזְקֵאל: וְהוּא שֶׁקָּשׁוּר בְּאׇזְנָהּ.
+> **Translation:** We learned in the mishna that a woman may go out on Shabbat **with a cloth that is in her ear. Rami bar Yeḥezkel taught: And that is** specifically in a case **where** the cloth **is tied to her ear** and she will not come to carry it.
 
-> **Hebrew/Aramaic:** וּבְמוֹךְ שֶׁבְּסַנְדָּלָהּ. תָּנֵי רָמֵי בַּר יְחֶזְקֵאל: וְהוּא שֶׁקָּשׁוּר לָהּ בְּסַנְדָּלָהּ.
->
+> **Hebrew/Aramaic:** וּבְמוֹךְ שֶׁבְּסַנְדָּלָהּ. תָּנֵי רָמֵי בַּר יְחֶזְקֵאל: וְהוּא שֶׁקָּשׁוּר לָהּ בְּסַנְדָּלָהּ.
 > **Translation:** The mishna continues: A woman may go out **with a cloth that is in her sandal. Rami bar Yeḥezkel taught: And that is** specifically in a case **where** the cloth **is tied to her sandal.**
+
+### Heel Pad
 
 Similarly, a wad placed in one's sandal to cushion a heel abrasion may be worn. Again, *Tani Rami bar Yechezkel* adds the condition that it must be tied to the sandal; the same concern applies — that it will fall and be picked up and carried rather than replaced.
 
 ### Menstrual Pad
 
-> **Hebrew/Aramaic:** וּבְמוֹךְ שֶׁהִתְקִינָה לָהּ לְנִדָּתָהּ. סָבַר רָמֵי בַּר חָמָא לְמֵימַר, וְהוּא שֶׁקָּשׁוּר לָהּ בֵּין יְרֵיכוֹתֶיהָ. אָמַר רָבָא: אַף עַל פִּי שֶׁאֵינוֹ קָשׁוּר לָהּ, כֵּיוָן דִּמְאִיס לָא אָתְיָא לְאֵיתוֹיֵי.
->
+
+> **Hebrew/Aramaic:** וּבְמוֹךְ שֶׁהִתְקִינָה לָהּ לְנִדָּתָהּ. סָבַר רָמֵי בַּר חָמָא לְמֵימַר, וְהוּא שֶׁקָּשׁוּר לָהּ בֵּין יְרֵיכוֹתֶיהָ. אָמַר רָבָא: אַף עַל פִּי שֶׁאֵינוֹ קָשׁוּר לָהּ, כֵּיוָן דִּמְאִיס לָא אָתְיָא לְאֵיתוֹיֵי.
 > **Translation:** We learned in the mishna: A woman may go out **with a cloth that she placed due to her menstrual** flow. **Rami bar Ḥama considered saying that** it is permitted specifically in a case **where it is tied between her thighs. Rava said:** It is permitted **even though it is not tied to her; since it is repulsive, she will not come to carry it** even if it falls.
 
 A pad worn by a woman on account of *niddah* — menstrual bleeding — is likewise permitted, subject to earlier qualifications in the Gemara: the pad must be serving the body itself, not merely protecting clothing, for in the latter case it would not be considered a bodily garment and its transport would constitute carrying. Rami bar Chama considered ruling that this pad too must be bound — specifically, tied between the thighs — lest it fall and be picked up.
 
 ### Rabbi Yochanan Case
 
-> **Hebrew/Aramaic:** רַבִּי יוֹחָנָן נָפֵיק בְּהוּ לְבֵי מִדְרְשָׁא, וַחֲלוּקִין עָלָיו חֲבֵרָיו. רַבִּי יַנַּאי נָפֵיק בְּהוּ לְכַרְמְלִית, וַחֲלוּקִין עָלָיו כׇּל דּוֹרוֹ. וְהָתָנֵי רָמֵי בַּר יְחֶזְקֵאל: וְהוּא שֶׁקָּשׁוּר לָהּ בְּאׇזְנָהּ! לָא קַשְׁיָא: הָא דְּמִיהַדַּק, הָא דְּלָא מִיהַדַּק.
->
-> **Translation:** **Rabbi Yoḥanan went out with** a cloth in his ear **to the study hall** on Shabbat, **and his colleagues are in disagreement with him** and rule that it is prohibited to do so because it was not tied to his ear. **Rabbi Yannai went out with it,** a cloth in his ear, **to a *karmelit*,** an intermediate domain, neither public nor private. **And all** the Sages **of his generation are in disagreement with him.** The Gemara asks: **Didn't Rami bar Yeḥezkel teach: And that is** specifically in a case **where** the cloth **is tied to her ear?** How could these Sages ignore this *halakha*? The Gemara answers: This is **not difficult; this,** where it was taught that certain Sages went out with a cloth, is in a case **where it was** stuck **tightly** in their ears. Therefore, it was permitted even though it was not tied. **That,** where Rami bar Yeḥezkel said that going out with a cloth is permitted only when it is tied, is in a case **where it was not** stuck **tightly** in his ear.
-
 Rabbi Yochanan would go out with a pad in his ear to the *beis medrash*. Rashi clarifies that the referent is not the menstrual pad but an ear pad for his own discharge. His colleagues objected, and the source of their objection appears to be that he had not properly bound the pad to his ear, as Rami bar Yechezkel required.
+
+> **Hebrew/Aramaic:** רַבִּי יוֹחָנָן נָפֵיק בְּהוּ לְבֵי מִדְרְשָׁא, וַחֲלוּקִין עָלָיו חֲבֵרָיו. רַבִּי יַנַּאי נָפֵיק בְּהוּ לְכַרְמְלִית, וַחֲלוּקִין עָלָיו כׇּל דּוֹרוֹ. וְהָתָנֵי רָמֵי בַּר יְחֶזְקֵאל: וְהוּא שֶׁקָּשׁוּר לָהּ בְּאׇזְנָהּ! לָא קַשְׁיָא: הָא דְּמִיהַדַּק, הָא דְּלָא מִיהַדַּק.
+> **Translation:** **Rabbi Yoḥanan went out with** a cloth in his ear **to the study hall** on Shabbat, **and his colleagues are in disagreement with him** and rule that it is prohibited to do so because it was not tied to his ear. **Rabbi Yannai went out with it,** a cloth in his ear, **to a *karmelit*,** an intermediate domain, neither public nor private. **And all** the Sages **of his generation are in disagreement with him.** The Gemara asks: **Didn’t Rami bar Yeḥezkel teach: And that is** specifically in a case **where** the cloth **is tied to her ear?** How could these Sages ignore this *halakha*? The Gemara answers: This is **not difficult; this,** where it was taught that certain Sages went out with a cloth, is in a case **where it was** stuck **tightly** in their ears. Therefore, it was permitted even though it was not tied. **That,** where Rami bar Yeḥezkel said that going out with a cloth is permitted only when it is tied, is in a case **where it was not** stuck **tightly** in his ear.
 
 ### Rabbi Yannai Case
 
@@ -126,20 +132,23 @@ This is an interesting point in light of the Gemara's earlier extended discussio
 
 ### Pad with Handle
 
-> **Hebrew/Aramaic:** בְּעָא מִינֵּיהּ רַבִּי יִרְמְיָה מֵרַבִּי אַבָּא: עָשְׂתָה לָהּ בֵּית יָד, מַהוּ? אֲמַר לֵיהּ: מוּתָּר. אִיתְּמַר [נָמֵי], אָמַר רַב נַחְמָן בַּר אוֹשַׁעְיָא אָמַר רַבִּי יוֹחָנָן: עָשְׂתָה לָהּ בֵּית יָד — מוּתָּר.
->
+> **Hebrew/Aramaic:** בְּעָא מִינֵּיהּ רַבִּי יִרְמְיָה מֵרַבִּי אַבָּא: עָשְׂתָה לָהּ בֵּית יָד, מַהוּ? אֲמַר לֵיהּ: מוּתָּר. אִיתְּמַר [נָמֵי], אָמַר רַב נַחְמָן בַּר אוֹשַׁעְיָא אָמַר רַבִּי יוֹחָנָן: עָשְׂתָה לָהּ בֵּית יָד — מוּתָּר.
 > **Translation:** **Rabbi Yirmeya raised a dilemma before Rabbi Abba: If she made herself a handgrip** in which she could hold the cloth, **what is** the *halakha*? Since she does not have to touch the cloth with her bare hand, is there concern that she will come to carry it or not? **He said to him: It is permitted. It was also stated** that **Rav Naḥman bar Oshaya said** that **Rabbi Yoḥanan said: If she made herself a handgrip it is permitted.**
 
+
 A question is then raised by Rabbi Yirmiyah to Rabbi Abba: what if the pad has been fashioned with a handle? If the woman can pick it up without directly touching the soiled material, the aversion is removed and perhaps the original concern about carrying is reinstated. Rabbi Abba rules that even so, it remains permitted — *mutar*. Even with a handle, people simply do not handle a soiled pad after it has become contaminated, and we are not concerned she will carry it. This ruling is confirmed independently: *itmar nami*, Rav Nachman bar Oshaya said in the name of Rabbi Yochanan that a pad made with a handle is nonetheless permitted.
+
+The Gemara then turns to a pair of practical cases involving Amoraim who actually wore ear wads in public. *Rabbi Yochanan nafik behu le-vei midrasha* — Rabbi Yochanan went out wearing one to the *beis medrash*. Rashi clarifies that the referent here is not the menstrual pad but rather something worn for an ear discharge, which is precisely the ear-wad case treated earlier. *Ve-chalukin alav chaveirav* — his colleagues argued with him. The point of contention appears to have been that Rabbi Yochanan did not have the wad bound to his ear as the *baraita* requires; he simply had it lodged in place, and his colleagues in the *beis medrash* were not satisfied with that. *Rabbi Yannai nafik behu le-charmelis* — Rabbi Yannai went out with one into a *karmelis*, which compounds the problem, since carrying into a *karmelis* is also prohibited. *Ve-chalukin alav kol doro* — and not merely his *beis medrash* objected; his entire generation argued with him. The Gemara then presses the question of how these Sages could have acted as they did, given the *baraita* of Rami bar Yechezkel that the wad must be bound — *ve-hu she-kashur lah be'ozna* — in order to ensure it will not fall out. The distinction the Gemara draws is that if the wad was inserted tightly enough to stay in place on its own, binding was not required; but the colleagues of both Rabbi Yochanan and Rabbi Yannai were evidently unconvinced that this standard had been met.
 
 ---
 
 ## Mouth Remedies
 
+
+
 ### Pepper & Salt
 
-> **Hebrew/Aramaic:** בַּפִּלְפֵּל וּבְגַלְגַּל מֶלַח. פִּלְפֵּל לְרֵיחַ הַפֶּה, גַּלְגַּל מֶלַח לְדוּרְשִׁינֵּי. וְכׇל דָּבָר שֶׁנּוֹתֶנֶת לְתוֹךְ פִּיהָ. זַנְגְּבִילָא, אִי נָמֵי דָּרְצוּנָא.
->
+> **Hebrew/Aramaic:** בַּפִּלְפֵּל וּבְגַלְגַּל מֶלַח. פִּלְפֵּל לְרֵיחַ הַפֶּה, גַּלְגַּל מֶלַח לְדוּרְשִׁינֵּי. וְכׇל דָּבָר שֶׁנּוֹתֶנֶת לְתוֹךְ פִּיהָ. זַנְגְּבִילָא, אִי נָמֵי דָּרְצוּנָא.
 > **Translation:** We learned in the mishna: A woman may go out **with pepper and with a grain of salt** in her mouth. The Gemara explains: She places **pepper** in her mouth **to** prevent **mouth odor and a grain of salt to** treat **a toothache.** With regard to that which we learned in the mishna: A woman may go out on Shabbat **with any thing that she places in her mouth:** This refers to **ginger** or, **alternatively,** to **cinnamon [*dartzona*].**
 
 The Gemara now addresses items held in the mouth for medical or hygenic purposes. It is permitted to go out on *Shabbat* with pepper or salt in one's mouth. *Pilpel l'reach ha-peh* — pepper is used to counteract bad breath, functioning essentially as an ancient breath remedy. Rashi on the *mishnah* explains that this refers to *pilpel aroch*, a long pepper rather than a peppercorn — there is indeed a plant known as long pepper, related to black pepper, and that appears to be the referent. *Galgal melach* — a ball of salt — is used for a *dorshani*, which Rashi identifies as some form of tooth ailment.
@@ -154,8 +163,7 @@ The Gemara adds that *zangvila* — ginger — and *dartzuna* — which Rashi id
 
 ### Gold Tooth
 
-> **Hebrew/Aramaic:** שֵׁן תּוֹתֶבֶת שֵׁן שֶׁל זָהָב, רַבִּי מַתִּיר וַחֲכָמִים אוֹסְרִין. אָמַר רַבִּי זֵירָא לֹא שָׁנוּ אֶלָּא שֶׁל זָהָב, אֲבָל בְּשֶׁל כֶּסֶף דִּבְרֵי הַכֹּל מוּתָּר. תַּנְיָא נָמֵי הָכִי: בְּשֶׁל כֶּסֶף דִּבְרֵי הַכֹּל מוּתָּר. שֶׁל זָהָב, רַבִּי מַתִּיר וַחֲכָמִים אוֹסְרִין.
->
+> **Hebrew/Aramaic:** שֵׁן תּוֹתֶבֶת שֵׁן שֶׁל זָהָב, רַבִּי מַתִּיר וַחֲכָמִים אוֹסְרִין. אָמַר רַבִּי זֵירָא לֹא שָׁנוּ אֶלָּא שֶׁל זָהָב, אֲבָל בְּשֶׁל כֶּסֶף דִּבְרֵי הַכֹּל מוּתָּר. תַּנְיָא נָמֵי הָכִי: בְּשֶׁל כֶּסֶף דִּבְרֵי הַכֹּל מוּתָּר. שֶׁל זָהָב, רַבִּי מַתִּיר וַחֲכָמִים אוֹסְרִין.
 > **Translation:** We learned in the mishna that the Sages disagree whether or not a woman may go out on Shabbat **with a false tooth** and **a gold tooth; Rabbi** Yehuda HaNasi **permits **doing so **and the Rabbis prohibit** doing so. **Rabbi Zeira said: They only taught** the dispute with regard to a **gold** tooth. Since it is precious, she might remove it from her mouth to show her friends and come to carry it. **However, with regard to a silver** tooth, which is less precious, there is no concern that she will remove it from her mouth. **Everyone agrees that it is permitted. That** opinion **was also taught** in a *baraita*: With regard to a tooth made **of silver, everyone agrees** that it is **permitted.** With regard to a tooth **of gold, Rabbi** Yehuda HaNasi **permits** going out with it **and the Rabbis prohibit** going out with it.
 
 The Gemara then addresses the false tooth. A silver false tooth is unanimously permitted. A gold tooth is disputed: *Rebbi matir ve-chachamim osrin* — Rebbi permits it, while the *Chachamim* prohibit it. The concern driving the prohibition appears to be that a gold tooth is sufficiently striking or unusual that the wearer might remove it in the street to show someone — and in so doing, carry it.
@@ -166,9 +174,14 @@ Rav Zeira clarifies the scope of the dispute: it is only the gold tooth that is 
 
 ### Embarrassment Principle
 
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: רַבִּי וְרַבִּי אֱלִיעֶזֶר וְרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר כּוּלְּהוּ סְבִירָא לְהוּ דְּכֹל מִידֵּי דְּמִיגַּנְּיָא בֵּיהּ לָא אָתְיָא לְאַחְוֹיֵי.
->
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: רַבִּי וְרַבִּי אֱלִיעֶזֶר וְרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר כּוּלְּהוּ סְבִירָא לְהוּ דְּכֹל מִידֵּי דְּמִיגַּנְּיָא בֵּיהּ לָא אָתְיָא לְאַחְוֹיֵי.
 > **Translation:** **Abaye said: Rabbi** Yehuda HaNasi, **and Rabbi Eliezer, and Rabbi Shimon ben Elazar all hold that anything that makes her unappealing** when removed, **she will not come to** remove it and **show it** to others. Therefore, it is permitted for her to go out with it.
+
+> **Hebrew/Aramaic:** רַבִּי — הָא דַּאֲמַרַן. רַבִּי אֱלִיעֶזֶר — דְּתַנְיָא: רַבִּי אֱלִיעֶזֶר פּוֹטֵר בְּכוֹבֶלֶת וּבִצְלוֹחִית שֶׁל פִּלְיָיטוֹן.
+> **Translation:** The Gemara elaborates: The opinion of **Rabbi** Yehuda HaNasi is **that which we** just **stated.** The opinion of **Rabbi Eliezer** is **as it was taught** in a *baraita*: **Rabbi Eliezer exempts** a woman who went out **with a bundle of fragrant herbs and with a flask of balsam oil,** since a woman whose odor is foul does not remove and show the bundle to others.
+
+> **Hebrew/Aramaic:** רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר — דְּתַנְיָא, כְּלָל אָמַר רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר: כׇּל שֶׁהוּא לְמַטָּה מִן הַסְּבָכָה יוֹצְאָה בּוֹ, לְמַעְלָה מִן הַסְּבָכָה — אֵינָהּ יוֹצְאָה בּוֹ.
+> **Translation:** The opinion of **Rabbi Shimon ben Elazar** is **as it was taught** in a *baraita*. **Rabbi Shimon ben Elazar stated a principle: Anything that is** worn **beneath the net,** a woman **may go out** into the public domain **with it,** since a woman will not uncover her hair while in the public domain even to show off an ornament. **Anything that is** worn **over the net,** e.g., an ornamental hat, a woman **may not go out with it,** since there is concern that she will remove it and carry it.
 
 Abaye then draws together the shared principle uniting Rebbi, Rabbi Eliezer, and Rabbi Shimon ben Elazar in their various rulings: *kol midi d'miganya bah* — anything that would be embarrassing or unbecoming to remove, one will not in fact remove, and therefore we do not fear that it will be carried. Rebbi's ruling about the gold tooth rests on this: even if a gold tooth is conspicuous, removing it would itself be more embarrassing than wearing it, and therefore the concern that one will take it out in the street is unfounded.
 
@@ -178,31 +191,28 @@ Rabbi Shimon ben Elazar formulates a general rule: any item situated beneath a h
 
 ---
 
-## Women's Attire (II)
+## Women's Attire
+
+
 
 ### Coin Wound
 
-> **Hebrew/Aramaic:** מַתְנִי׳ יוֹצְאָה בְּסֶלַע שֶׁעַל הַצִּינִּית. הַבָּנוֹת קְטַנּוֹת יוֹצְאוֹת בְּחוּטִין, וַאֲפִילּוּ בְּקֵיסָמִין שֶׁבְּאׇזְנֵיהֶם. עַרְבִיּוֹת יוֹצְאוֹת רְעוּלוֹת וּמָדִיּוֹת פְּרוּפוֹת, וְכׇל אָדָם — אֶלָּא שֶׁדִּבְּרוּ חֲכָמִים בַּהֹוֶה. פּוֹרֶפֶת עַל הָאֶבֶן וְעַל הָאֱגוֹז וְעַל הַמַּטְבֵּעַ, וּבִלְבַד שֶׁלֹּא תִּפְרוֹף לְכַתְּחִלָּה בְּשַׁבָּת.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ יוֹצְאָה בְּסֶלַע שֶׁעַל הַצִּינִּית. הַבָּנוֹת קְטַנּוֹת יוֹצְאוֹת בְּחוּטִין, וַאֲפִילּוּ בְּקֵיסָמִין שֶׁבְּאׇזְנֵיהֶם. עַרְבִיּוֹת יוֹצְאוֹת רְעוּלוֹת וּמָדִיּוֹת פְּרוּפוֹת, וְכׇל אָדָם — אֶלָּא שֶׁדִּבְּרוּ חֲכָמִים בַּהֹוֶה. פּוֹרֶפֶת עַל הָאֶבֶן וְעַל הָאֱגוֹז וְעַל הַמַּטְבֵּעַ, וּבִלְבַד שֶׁלֹּא תִּפְרוֹף לְכַתְּחִלָּה בְּשַׁבָּת.
 > **Translation:** MISHNA: A woman **may go out with a *sela*** coin **that** she ties **on a wound on her foot. The young girls may go out with strings, and even with** wood **chips that are in** the holes in **their ears** so that the holes will not seal. Young girls would have their ears pierced, but earrings were not placed in their ears until they were older. Jewish **women** in **Arab** countries **may go out veiled,** with a scarf covering their face, **and** Jewish **women** in **Media** may go out **with cloaks fastened** with stones. **And, any person** in any place is permitted to go out on Shabbat clothed in that way; **however, the Sages spoke in the present,** addressing prevalent situations. A woman **may fasten** her cloak **on a stone** by inserting a small stone and wrapping her cloak around it, as she would with a button. **And** likewise, she may do so **on a nut or on a coin, as long as she does not fasten** her cloak with them **on Shabbat *ab initio*.**
 
-The *mishnah* continues listing items women may wear out on *Shabbat*. A woman may go out with a coin placed against a wound — *sela she-al ha-tzinis*. The Gemara discusses what a *tzinit* is: Rashi explains it as a wound on the underside of the foot, in a location vulnerable to irritation. The coin serves as a protective covering. The Gemara then asks why specifically a coin — could not a hard piece of pottery or a plain piece of metal serve equally well? The Gemara ultimately concludes, based on Abaye's analysis, that a coin possesses all three relevant attributes simultaneously: hardness, the capacity to exude moisture beneficial to the wound, and the image embossed on it. Each attribute alone could be replicated by something simpler, but no single alternative combines all three. Abaye thus concludes that all three properties together are what make the coin uniquely therapeutic for this purpose.
+> **Hebrew/Aramaic:** גְּמָ׳ מַאי צִינִּית? בַּת אַרְעָא.
+> **Translation:** GEMARA: The Gemara asks: **What is** the ***tzinit*** with regard to which the mishna taught that a woman may go out with a coin tied to it on Shabbat? The Gemara explains: It is **a wound on the sole of her foot.**
 
-### Abaye on Coin Properties
-
-> **Hebrew/Aramaic:** וּמַאי שְׁנָא סֶלַע? אִילֵּימָא כֹּל מִידֵּי דַּאֲקוֹשָׁא מְעַלֵּי לַהּ, לֶיעְבַּד לַהּ חַסְפָּא! אֶלָּא מִשּׁוּם שׁוּכְתָּא — לֶיעְבַּד לָהּ טַסָּא! אֶלָּא מִשּׁוּם צוּרְתָּא, לֶיעְבַּד לָהּ פּוּלְסָא! אָמַר אַבָּיֵי: שְׁמַע מִינַּהּ כּוּלְּהוּ מְעַלּוּ לָהּ.
->
+> **Hebrew/Aramaic:** וּמַאי שְׁנָא סֶלַע? אִילֵּימָא כֹּל מִידֵּי דַּאֲקוֹשָׁא מְעַלֵּי לַהּ, לֶיעְבַּד לַהּ חַסְפָּא! אֶלָּא מִשּׁוּם שׁוּכְתָּא — לֶיעְבַּד לָהּ טַסָּא! אֶלָּא מִשּׁוּם צוּרְתָּא, לֶיעְבַּד לָהּ פּוּלְסָא! אָמַר אַבָּיֵי: שְׁמַע מִינַּהּ כּוּלְּהוּ מְעַלּוּ לָהּ.
 > **Translation:** The Gemara asks: **What is different about a *sela*?** Why specifically is a coin placed on the wound? **If you say that any object that is hard is beneficial for her, make an earthenware** shard **for her** instead. **Rather,** it is beneficial **due to the rust** on the coin. If so, **make a** small silver **plate for her.** Why specifically a coin? **Rather** it is beneficial **due to the image** engraved on the coin. If so, **make her an unminted coin** and engrave an image on it. **Abaye said: Learn from it that all** these factors together **are beneficial for her.**
+
+The *mishnah* continues listing items women may wear out on *Shabbat*. A woman may go out with a coin placed against a wound — *sela she-al ha-tzinis*. The Gemara discusses what a *tzinit* is: Rashi explains it as a wound on the underside of the foot, in a location vulnerable to irritation. The coin serves as a protective covering. The Gemara then asks why specifically a coin — could not a hard piece of pottery or a plain piece of metal serve equally well? The Gemara ultimately concludes, based on Abaye's analysis, that a coin possesses all three relevant attributes simultaneously: hardness, the capacity to exude moisture beneficial to the wound, and the image embossed on it. Each attribute alone could be replicated by something simpler, but no single alternative combines all three. Abaye thus concludes that all three properties together are what make the coin uniquely therapeutic for this purpose.
 
 ### Ear Strings
 
 Young girls — *banot ktanot* — may go out with strings or even with small twigs, like toothpicks, inserted in their pierced ears. Rashi explains the practice: young girls have their ears pierced but do not yet wear earrings; the strings or twigs serve to keep the holes from closing until the girls are old enough to wear jewelry. The ruling permits this even though what is being worn is neither jewelry nor a medical device in any conventional sense.
 
 ### Wearing vs Carrying
-
-> **Hebrew/Aramaic:* הַבָּנוֹת יוֹצְאוֹת בְּחוּטִין. אֲבוּהּ דִּשְׁמוּאֵל לָא שָׁבֵיק לְהוּ לִבְנָתֵיהּ דְּנָפְקָן בְּחוּטִין, וְלָא שָׁבֵיק לְהוּ גָּנְיָאן גַּבֵּי הֲדָדֵי, וְעָבֵיד לְהוּ מִקְוָאוֹת בְּיוֹמֵי נִיסָן וּמַפָּצֵי בְּיוֹמֵי תִשְׁרֵי.
->
-> **Translation:** The mishna taught that **the** young **girls may go out with strings.** The Gemara relates that **Shmuel's father did not allow his daughters to go out with strings, and did not allow them to lie next to each other, and he made ritual baths for them in the days of Nisan and mats** in the Euphrates River **in the days of Tishrei.** Since the water was shallow and the riverbed muddy, he placed mats on the riverbed so that they could immerse without getting dirty.
 
 This raises the fundamental question: why is this not carrying? The item is not attractive — Rashi explicitly notes that the twig is not jewelry, *lav tachshit l'noy hu*. It is not therapeutic in the way that a bandage or pad is. Yet Rashi explains that it is permitted because *orcha behachi velav masoi hu* — this is simply the norm for how such an item is worn on the body, and therefore it is categorized as wearing rather than carrying.
 
@@ -220,33 +230,40 @@ The *chiddush* is articulated in the immediately following phrase: *ve-chol adam
 
 The *mishnah* also addresses a method of fastening a garment: attaching a string to one end and a stone, nut, or coin to the other, then wrapping the string around the stone to close the cloak. This is permitted — but with the caveat *u-vilvad she-lo tifrof l'chatchilah be-Shabbat*: one should not do this fastening for the first time on *Shabbat* itself. The reason, as will become clear, turns on the *muktzah* status of the coin.
 
-A stone can be designated in advance for a non-monetary purpose — as a fastener, as a paperweight — and thereby lose its *muktzah* status. A coin, however, retains its monetary identity regardless of how one attempts to repurpose it, and thus remains *muktzah* even when incorporated into a garment. The *mishnah*'s initial permission — *porefet al ha-even ve-al ha-egoz ve-al ha-matbeia* — covers fastening with a stone or nut; the concluding restriction against doing so *le-chatchilah on Shabbat* applies specifically to the coin.
+A stone can be designated in advance for a non-monetary purpose — as a fastener, as a paperweight — and thereby lose its *muktzah* status. A coin, however, retains its monetary identity regardless of how one attempts to repurpose it, and thus remains *muktzah* even when incorporated into a garment. The *mishnah*'s initial permission — *porefet al ha-even ve-al ha-egoz ve-al ha-matbeia* — covers fastening with a stone or nut; the concluding restriction against doing so *le-chatchilah on Shabbat* applies specifically to the coin. It is worth noting that this same situation has a modern parallel: there are garments today that have pennies or other coins woven directly into the fabric, raising precisely this question of whether the monetary object has sufficiently changed its identity to shed its *muktzah* status.
 
 ---
 
 ## Mikvah & Rainwater
 
+
+
 ### Colorful Strings Risk
 
-> **Hebrew/Aramaic:* לָא שָׁבֵיק לְהוּ יוֹצְאוֹת בְּחוּטִין, וְהָאֲנַן תְּנַן: הַבָּנוֹת יוֹצְאוֹת בְּחוּטִין! בְּנָתֵיהּ דַּאֲבוּהּ דִּשְׁמוּאֵל דְּצִבְעוֹנִין הֲווֹ.
->
-> **Translation:** The Gemara analyzes the conduct of Shmuel's father: **He did not allow them to go out with strings. Didn't we learn** in the mishna that **the girls may go out with strings?** The Gemara answers: **The** strings with which the **daughters of Shmuel's father** went out **were colorful ones,** and he was concerned that because the strings were beautiful they would come to remove them to show them to others and carry them.
+> **Hebrew/Aramaic:** הַבָּנוֹת יוֹצְאוֹת בְּחוּטִין. אֲבוּהּ דִּשְׁמוּאֵל לָא שָׁבֵיק לְהוּ לִבְנָתֵיהּ דְּנָפְקָן בְּחוּטִין, וְלָא שָׁבֵיק לְהוּ גָּנְיָאן גַּבֵּי הֲדָדֵי, וְעָבֵיד לְהוּ מִקְוָאוֹת בְּיוֹמֵי נִיסָן וּמַפָּצֵי בְּיוֹמֵי תִשְׁרֵי.
+> **Translation:** The mishna taught that **the** young **girls may go out with strings.** The Gemara relates that **Shmuel’s father did not allow his daughters to go out with strings, and did not allow them to lie next to each other, and he made ritual baths for them in the days of Nisan and mats** in the Euphrates River **in the days of Tishrei.** Since the water was shallow and the riverbed muddy, he placed mats on the riverbed so that they could immerse without getting dirty.
+
+> **Hebrew/Aramaic:** לָא שָׁבֵיק לְהוּ יוֹצְאוֹת בְּחוּטִין, וְהָאֲנַן תְּנַן: הַבָּנוֹת יוֹצְאוֹת בְּחוּטִין! בְּנָתֵיהּ דַּאֲבוּהּ דִּשְׁמוּאֵל דְּצִבְעוֹנִין הֲווֹ.
+> **Translation:** The Gemara analyzes the conduct of Shmuel’s father: **He did not allow them to go out with strings. Didn’t we learn** in the mishna that **the girls may go out with strings?** The Gemara answers: **The** strings with which the **daughters of Shmuel’s father** went out **were colorful ones,** and he was concerned that because the strings were beautiful they would come to remove them to show them to others and carry them.
 
 The Gemara now presents a series of rulings attributed to *Avuha de-Shmuel* — Shmuel's father — regarding his daughters. First: he would not permit his daughters to go out on *Shabbat* with strings in their ears, despite the *mishnah*'s explicit permission for young girls to do so. The Gemara explains that his daughters wore *tzivonin* — colorful strings — and colorful strings are sufficiently attractive that a girl might be tempted to remove them in the street to show to friends.
 
+[DAF:65b]
 ### Sleeping Separation
-
-> **Hebrew/Aramaic:* לָא שָׁבֵיק לְהוּ גָּנְיָאן גַּבֵּי הֲדָדֵי, לֵימָא מְסַיַּיע לֵיהּ לְרַב הוּנָא. דְּאָמַר רַב הוּנָא: נָשִׁים הַמְסוֹלְלוֹת זוֹ בָּזוֹ פְּסוּלוֹת לַכְּהוּנָּה.
->
-> **Translation:** **He did not allow them to lie next to one another. Let us say that this supports** the opinion of **Rav Huna, as Rav Huna said: Women who rub against one another** motivated by sexual desire **are disqualified from** marrying into **the priesthood.** The act renders a woman a *zona.* It is prohibited for a priest to marry her.
 
 Second: he would not permit his daughters to sleep together in the same bed. This was apparently a common arrangement in large families. The Gemara initially considers whether this reflects support for the position of Rav Huna.
 
+> **Hebrew/Aramaic:** לָא שָׁבֵיק לְהוּ גָּנְיָאן גַּבֵּי הֲדָדֵי, לֵימָא מְסַיַּיע לֵיהּ לְרַב הוּנָא. דְּאָמַר רַב הוּנָא: נָשִׁים הַמְסוֹלְלוֹת זוֹ בָּזוֹ
+> **Translation:** **He did not allow them to lie next to one another. Let us say that this supports** the opinion of **Rav Huna, as Rav Huna said: Women who rub against one another** motivated by sexual desire
+
+> **Hebrew/Aramaic:** פְּסוּלוֹת לַכְּהוּנָּה.
+> **Translation:** **are disqualified from** marrying into **the priesthood.** The act renders a woman a *zona.* It is prohibited for a priest to marry her (*Tosafot*).
+
+> **Hebrew/Aramaic:** לָא — סָבַר כִּי הֵיכִי דְּלָא לֵילְפָן גּוּפָא נוּכְרָאָה.
+> **Translation:** The Gemara rejects this: **No,** that is not necessarily so. Perhaps the reason for Shmuel’s father’s insistence was because **he thought** to prevent them from lying next to one another **so that they** would **not become accustomed to** sleeping with **a foreign body,** which could stimulate sexual desire.
+
 ### Arousal Concern
 
-> **Hebrew/Aramaic:* לָא — סָבַר כִּי הֵיכִי דְּלָא לֵילְפָן גּוּפָא נוּכְרָאָה.
->
-> **Translation:** The Gemara rejects this: **No,** that is not necessarily so. Perhaps the reason for Shmuel's father's insistence was because **he thought** to prevent them from lying next to one another **so that they** would **not become accustomed to** sleeping with **a foreign body,** which could stimulate sexual desire.
 
 Rav Huna had stated that *nashim ha-mesolalot zo be-zo* — women who rub against one another — are *pesulot le-kehuna*, disqualified from marrying a *kohen*. Rashi, apparently seeking to limit the ruling's scope, says this refers to a *kohen gadol*, on the grounds that such contact might compromise the status of *betula*. Rashi also acknowledges, however, that the act carries overtones of improper intimacy. *Tosafot*, drawing on other Gemarot, takes a broader view: this behavior would constitute *zona* in a more expansive sense, disqualifying even for a regular *kohen*.
 
@@ -256,21 +273,20 @@ It bears noting that the *d'oraisa* prohibition against homosexual relations app
 
 ### Spring Mikvah
 
-> **Hebrew/Aramaic:* וְעָבֵיד לְהוּ מִקְוֶה בְּיוֹמֵי נִיסָן, מְסַיַּיע לֵיהּ לְרַב, דְּאָמַר רַב: מִטְרָא בְּמַעְרְבָא סָהֲדָא רַבָּה פְּרָת. סָבַר, שֶׁלֹּא יִרְבּוּ הַנּוֹטְפִין עַל הַזּוֹחֲלִין.
->
-> **Translation:** **And he made a ritual bath for them in the days of Nisan. This supports** the opinion of **Rav, as Rav said:** When **rain** falls **in the West,** Eretz Yisrael, **the great witness** attesting to that fact **is the Euphrates,** as the water flow in the Euphrates increases after the rainy season. The rainfall in northern Babylonia, where the source of the Euphrates is located, is essentially parallel to the rainfall in Eretz Yisrael. The increased water flow of the Euphrates in the spring is the result of the rainfall in the winter. Shmuel's father **held** that immersion in the Euphrates would not purify them. A river maintains its status as a river in terms of purification through immersion only if it is established **that the** rain water **that fell would not exceed the** naturally **flowing** spring water. In the *halakhot* of ritual baths, there are two manners of purification. The first is the immersion in a place where water is gathered, e.g., collected rainwater that does not flow and remains in place. The second is immersion in flowing waters in their natural state, e.g., a spring or a river. However, rainwater purifies only when it is collected; it does not purify when it is flowing.
-
 Third: Shmuel's father would construct private *mikva'ot* for his daughters in *Nisan* — in the spring — and would lay down mats for them in *Tishrei*, in the autumn. The Gemara first addresses the spring *mikvah*: the Gemara says *mesayeia lei le-Rav* — this supports the position of Rav.
 
 ### Rainwater Majority
 
 Rav had stated: *mitra be-ma'arava sahada raba perat* — rain in the land of Israel is evidenced by the Euphrates rising. The implication is that the rivers rise in the rainy season due to an influx of rainwater, and this creates a halachic problem for *tevila* in a river. The problem is as follows: a *mikvah* of rainwater must be stationary — *mei geshamim* that are *zochalin*, flowing, are invalid. A natural river may be used even though its water runs, because the river itself is classified as *mayim chayim*, groundwater. But if a majority of the river's water at a given time is rainwater rather than groundwater, the river is reclassified, as it were, as a rainwater body — and then the flowing water is invalid. One cannot immerse in a river when its majority is rainwater unless the river is standing, which a river by definition is not. Therefore, in the spring — when snowmelt and sustained rainfall cause the rivers to swell dramatically — Shmuel's father was concerned that the majority of the river's water was rainwater, and so he built standalone *mikva'ot* for his daughters rather than permit them to use the river.
 
+> **Hebrew/Aramaic:** וְעָבֵיד לְהוּ מִקְוֶה בְּיוֹמֵי נִיסָן, מְסַיַּיע לֵיהּ לְרַב, דְּאָמַר רַב: מִטְרָא בְּמַעְרְבָא סָהֲדָא רַבָּה פְּרָת. סָבַר, שֶׁלֹּא יִרְבּוּ הַנּוֹטְפִין עַל הַזּוֹחֲלִין.
+> **Translation:** **And he made a ritual bath for them in the days of Nisan. This supports** the opinion of **Rav, as Rav said:** When **rain** falls **in the West,** Eretz Yisrael, **the great witness** attesting to that fact **is the Euphrates,** as the water flow in the Euphrates increases after the rainy season. The rainfall in northern Babylonia, where the source of the Euphrates is located, is essentially parallel to the rainfall in Eretz Yisrael. The increased water flow of the Euphrates in the spring is the result of the rainfall in the winter. Shmuel’s father **held** that immersion in the Euphrates would not purify them. A river maintains its status as a river in terms of purification through immersion only if it is established **that the** rain water **that fell would not exceed the** naturally **flowing** spring water. In the *halakhot* of ritual baths, there are two manners of purification. The first is the immersion in a place where water is gathered, e.g., collected rainwater that does not flow and remains in place. The second is immersion in flowing waters in their natural state, e.g., a spring or a river. However, rainwater purifies only when it is collected; it does not purify when it is flowing.
+
+> **Hebrew/Aramaic:** וּפְלִיגָא דִּשְׁמוּאֵל. דְּאָמַר שְׁמוּאֵל: נַהֲרָא מִכֵּיפֵיהּ מִיבָּרַךְ. וּפְלִיגָא דִּידֵיהּ אַדִּידֵיהּ, דְּאָמַר שְׁמוּאֵל: אֵין הַמַּיִם מְטַהֲרִין בְּזוֹחֲלִין אֶלָּא פְּרָת בְּיוֹמֵי תִשְׁרֵי בִּלְבַד.
+> **Translation:** **And he disagrees with** his son **Shmuel, as Shmuel said: The river is blessed from its riverbed** (*ge’onim*); the additional water in the river is not from rainfall but rather from subterranean sources. **And** this statement of Shmuel **disagrees with** another ruling that he **himself** issued, as **Shmuel said: The water purifies when flowing only** in **the Euphrates during the days of Tishrei alone.** Since rain does not fall in the summer, only then is it clear that the water is in fact river water.
+
 ### Underground Water
 
-> **Hebrew/Aramaic:* וּפְלִיגָא דִּשְׁמוּאֵל. דְּאָמַר שְׁמוּאֵל: נַהֲרָא מִכֵּיפֵיהּ מִיבָּרַךְ. וּפְלִיגָא דִּידֵיהּ אַדִּידֵיהּ, דְּאָמַר שְׁמוּאֵל: אֵין הַמַּיִם מְטַהֲרִין בְּזוֹחֲלִין אֶלָּא פְּרָת בְּיוֹמֵי תִשְׁרֵי בִּלְבַד.
->
-> **Translation:** **And he disagrees with** his son **Shmuel, as Shmuel said: The river is blessed from its riverbed** (*ge'onim*); the additional water in the river is not from rainfall but rather from subterranean sources. **And** this statement of Shmuel **disagrees with** another ruling that he **himself** issued, as **Shmuel said: The water purifies when flowing only** in **the Euphrates during the days of Tishrei alone.** Since rain does not fall in the summer, only then is it clear that the water is in fact river water.
 
 Shmuel, however, disagreed with his father. Shmuel held that *nahara mi-keifei mivrak* — a river rises from its floor. He believed that when the surface level of a river rises due to rain, there is a corresponding rise in underground water feeding the river from below, such that the proportion of true groundwater never actually falls to a minority. On this view, there is no concern about rainwater constituting a majority, and the river remains usable throughout the year.
 
@@ -286,35 +302,42 @@ Rashi himself rejects this position, and so does *Tosafot*, and *le-halacha* it 
 
 ### Autumn Mats
 
-> **Hebrew/Aramaic:* מַפָּצֵי בְּיוֹמֵי תִשְׁרֵי.
->
-> **Translation:** and mats** in the Euphrates River **in the days of Tishrei.
-
 As for the mats in *Tishrei*: Rashi explains that in the autumn, the river could be used for *tevila* — the rainwater concern was absent — but the riverbed was extremely muddy, and walking through the mud would create a *chatzitzah* problem, an interposition between the body and the water. Shmuel's father would lay down mats so his daughters could enter the water without accumulating mud on their feet. *Tosafot* offers a different explanation: the mats were erected not on the riverbed but as screens providing privacy, without which his daughters would not immerse properly out of embarrassment. These two explanations reflect different understandings of what practical obstacle the mats were designed to solve.
 
 ---
 
 ## Women's Attire (II)
 
-### Coin Muktzah
 
-> **Hebrew/Aramaic:* פּוֹרֶפֶת עַל הָאֶבֶן וְעַל הָאֱגוֹז וְעַל הַמַּטְבֵּעַ, וּבִלְבַד שֶׁלֹּא תִּפְרוֹף לְכַתְּחִלָּה בְּשַׁבָּת. בָּעֵי אַבָּיֵי: אִשָּׁה מַהוּ שֶׁתַּעֲרִים וְתִפְרוֹף עַל הָאֱגוֹז לְהוֹצִיא לִבְנָהּ קָטָן בְּשַׁבָּת?
->
-> **Translation:** A woman **may fasten** her cloak **on a stone** by inserting a small stone and wrapping her cloak around it, as she would with a button. **And** likewise, she may do so **on a nut or on a coin, as long as she does not fasten** her cloak with them **on Shabbat *ab initio*.** The later clause of the *mishnah* — **Abaye raises a dilemma: What is** the *halakha* with regard to a case where **a woman employs artifice** to circumvent the *halakha* **and fastens** her garment **on a nut** in order **to take** the nut **out** in a permissible fashion **to her young child** in the public domain **on Shabbat?**
+
+### Coin Muktzah
 
 Returning now to the question of the coin as a garment fastener: the *mishnah* had permitted fastening a garment with a string wrapped around a stone, nut, or coin, but had added that one should not do so *le-chatchilah* on *Shabbat*. Abaye explains: the later clause of the *mishnah* — *seifa asan le-matbei'ah* — addresses specifically the coin. Wrapping a string around a stone or nut involves no *muktzah* concern, since those items can be designated for use in the garment before *Shabbat*, changing their functional identity. A coin, however, cannot shed its monetary identity by being incorporated into a garment. It remains *muktzah* regardless. Therefore, handling the coin to fasten the garment on *Shabbat* itself is prohibited, and whatever was not fastened before *Shabbat* cannot be fastened on *Shabbat*.
 
 This also resolves the question of the coin placed on the wound: presumably, this coin too would need to have been in place from before *Shabbat*, since moving the coin into position on *Shabbat* would involve handling *muktzah*.
 
-### Nut Trick
+> **Hebrew/Aramaic:** פּוֹרֶפֶת עַל הָאֶבֶן כּוּ׳. וְהָאָמְרַתְּ רֵישָׁא ״פּוֹרֶפֶת״? אָמַר אַבָּיֵי: סֵיפָא אֲתָאן לְמַטְבֵּעַ.
+> **Translation:** We learned in the mishna: A woman **may fasten** her cloak **on a stone,** and on a nut, and on a coin, as long as she does not fasten her cloak with them *ab initio* on Shabbat. The Gemara asks: **Didn’t you say in the first clause** of this *halakha* in the mishna that a woman **may fasten,** indicating that she is permitted to do so even *ab initio*? How do you explain the contradiction? **Abaye said:** In **the latter clause** of the mishna **we have arrived at** the case of **a coin,** one of the examples cited in the mishna. The *halakha* with regard to a coin is the exception. Because a coin is set-aside from use on Shabbat, one might conclude that it may not be used at all; nevertheless, it is only prohibited to fasten the cloak on the coin *ab initio* on Shabbat itself.
 
-> **Hebrew/Aramaic:* תִּיבְּעֵי לְמַאן דְּאָמַר מַעֲרִימִין. תִּיבְּעֵי לְמַאן דְּאָמַר אֵין מַעֲרִימִין. תִּיבְּעֵי לְמַאן דְּאָמַר מַעֲרִימִין בִּדְלֵיקָה: הָתָם הוּא דְּאִי לָא שָׁרֵית לֵיהּ אָתֵי לְכַבּוֹיֵי, אֲבָל הָכָא אִי לָא שָׁרֵית לֵיהּ לָא אָתֵי לְאַפּוֹקֵי. אוֹ דִלְמָא, אֲפִילּוּ לְמַאן דְּאָמַר אֵין מַעֲרִימִין בִּדְלֵיקָה, הָתָם — דֶּרֶךְ הוֹצָאָה בְּכָךְ, אֲבָל הָכָא — אֵין דֶּרֶךְ הוֹצָאָה בְּכָךְ, אֵימָא שַׁפִּיר דָּמֵי. תֵּיקוּ.
->
-> **Translation:** The Gemara notes: This is a **dilemma according to the one who said that one may employ artifice** when there is a fire on Shabbat. One is permitted to wear several layers of garments to take them out of a burning house on Shabbat. And this is a **dilemma according to the one who said that one may not employ artifice** when there is a fire on Shabbat. The Gemara elaborates: This is a **dilemma according to the one who said that one may employ artifice** when there is **a fire** on Shabbat, as the cases are distinct. Perhaps **there,** artifice **is** permitted **because if you do not permit** him to take the garments out of the burning house in that manner, **he will come to extinguish** the fire. **However, here, if you do not permit** the woman to employ artifice and take the nut out to her child in the public domain, **she will not come to take it out.** **Or perhaps, even according to one who said that one may not employ artifice in** the case of **a fire,** there is a distinction between the cases. **There,** in the case of a fire, wearing garments **is the typical manner** in which one takes clothing out to the public domain. **However, here,** utilizing a nut as a button **is not the typical manner** in which one takes a nut out to the public domain. Since no Torah prohibition is violated by doing so, **say** that she may **well** employ artifice to take the nut out to her son. The Gemara concludes: **Let** this dilemma **stand** unresolved.
+### Nut Trick
 
 Abaye now poses a question: may a woman use a nut — a legitimate garment fastener — as a ruse to carry food for her infant out into the street on *Shabbat*? The scenario is that she cannot carry the food directly, but she wraps the string of her garment around a nut that happens to also be an edible food item. She walks outside wearing the garment thus fastened, then removes the nut and gives it to the child to eat. Is this permitted?
 
+> **Hebrew/Aramaic:** בָּעֵי אַבָּיֵי: אִשָּׁה מַהוּ שֶׁתַּעֲרִים וְתִפְרוֹף עַל הָאֱגוֹז לְהוֹצִיא לִבְנָהּ קָטָן בְּשַׁבָּת?
+> **Translation:** **Abaye raised a dilemma: What is** the *halakha* with regard to a case where **a woman employs artifice** to circumvent the *halakha* **and fastens** her garment **on a nut** in order **to take** the nut **out** in a permissible fashion **to her young child** in the public domain **on Shabbat?**
+
+> **Hebrew/Aramaic:** תִּיבְּעֵי לְמַאן דְּאָמַר מַעֲרִימִין. תִּיבְּעֵי לְמַאן דְּאָמַר אֵין מַעֲרִימִין.
+> **Translation:** The Gemara notes: This is a **dilemma according to the one who said that one may employ artifice** when there is a fire on Shabbat. One is permitted to wear several layers of garments to take them out of a burning house on Shabbat. And this is a **dilemma according to the one who said that one may not employ artifice** when there is a fire on Shabbat.
+
+> **Hebrew/Aramaic:** תִּיבְּעֵי לְמַאן דְּאָמַר מַעֲרִימִין בִּדְלֵיקָה: הָתָם הוּא דְּאִי לָא שָׁרֵית לֵיהּ אָתֵי לְכַבּוֹיֵי, אֲבָל הָכָא אִי לָא שָׁרֵית לֵיהּ לָא אָתֵי לְאַפּוֹקֵי.
+> **Translation:** The Gemara elaborates: This is a **dilemma according to the one who said that one may employ artifice** when there is **a fire** on Shabbat, as the cases are distinct. Perhaps **there,** artifice **is** permitted **because if you do not permit** him to take the garments out of the burning house in that manner, **he will come to extinguish** the fire. **However, here, if you do not permit** the woman to employ artifice and take the nut out to her child in the public domain, **she will not come to take it out.**
+
+> **Hebrew/Aramaic:** אוֹ דִלְמָא, אֲפִילּוּ לְמַאן דְּאָמַר אֵין מַעֲרִימִין בִּדְלֵיקָה, הָתָם — דֶּרֶךְ הוֹצָאָה בְּכָךְ, אֲבָל הָכָא — אֵין דֶּרֶךְ הוֹצָאָה בְּכָךְ, אֵימָא שַׁפִּיר דָּמֵי. תֵּיקוּ.
+> **Translation:** **Or perhaps, even according to one who said that one may not employ artifice in** the case of **a fire,** there is a distinction between the cases. **There,** in the case of a fire, wearing garments **is the typical manner** in which one takes clothing out to the public domain. **However, here,** utilizing a nut as a button **is not the typical manner** in which one takes a nut out to the public domain. Since no Torah prohibition is violated by doing so, **say** that she may **well** employ artifice to take the nut out to her son. The Gemara concludes: **Let** this dilemma **stand** unresolved.
+
 ### No Emergency
+
+
 
 *Teivai le-man d'amar ma'arimin, teivai le-man d'amar ein ma'arimin* — the question can be posed on either side of the debate about whether one may employ ruses in cases like a burning building on *Shabbat*. In the case of a fire, one may wish to save garments by wearing many layers at once — effectively carrying them without technically carrying — and the question is whether this trick is permitted. The Gemara draws a critical distinction. In the fire case, there is an urgent emergency: if a permissible outlet is not provided, the person will simply carry the garments in outright violation. Permitting the ruse is thus a concession to human urgency. *Aval hacha, ee lo sharis lei lo asi le-afkukei* — here, by the nut, if the ruse is not permitted, the woman will simply not take the food out. There is no emergency that will cause her to violate regardless. Therefore, no concession is necessary, and the ruse need not be permitted.
 

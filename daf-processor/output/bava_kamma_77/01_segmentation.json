@@ -29,8 +29,8 @@
           "timestamp": "02:22"
         }
       ],
-      "sefaria_index": 4,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Investigating the Validity of Slaughter When Secondary Acts Are Incomplete: The Doctrine of Kol Ha'omed",
@@ -64,7 +64,7 @@
         }
       ],
       "sefaria_index": 4,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Extension of Kol Ha'omed to Redemption: The Case of a Para Aduma with a Blemish",
@@ -160,7 +160,7 @@
           "timestamp": "28:00"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -462,5 +462,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 1
+  "amud_b_sefaria_index": 1,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "15:17",
+  "amud_b_micro_title": "Para Aduma Impurity",
+  "shiur_start_daf": 76,
+  "shiur_start_amud": "b"
 }

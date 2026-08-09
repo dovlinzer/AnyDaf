@@ -158,13 +158,14 @@ The reason is critical: the *talui* must treat himself as *tamei* regardless. Hi
 
 This reasoning assumes the case concerns the *first day* — if the *talui* would lose additional days by the attribution, the debate would re-emerge.
 
-### Ketem B'Ketem Query
-
-This leads naturally to a more subtle question: *mahu litlos ketem b'ketem* — may one attribute a stain found on a shared garment to a woman who has herself found a stain on a different garment of hers? On the surface, the answer would seem to be yes: if the other woman already has a stain, she becomes *teme'ah* regardless, so attributing this additional stain to her costs her nothing. But a competing consideration arises: the basis for *tliyah* has always required some meaningful identification of the other woman as a *plausible* source of bleeding. A *niddah* is clearly in the context of bleeding. A woman counted in her *shivah neki'im* is still within the *tum'ah* of prior bleeding. But a woman who merely found a *ketem* — a stain on her own garment — is in a more ambiguous position. The nature of *kesamim* is that we do not say definitively that she bled; we say only that a stain was found and she must be treated accordingly. Can such a woman serve as the basis of attribution for another's stain?
 
 ---
 
 ## Ketem Attribution
+
+### Ketem B'Ketem Query
+
+This leads naturally to a more subtle question: *mahu litlos ketem b'ketem* — may one attribute a stain found on a shared garment to a woman who has herself found a stain on a different garment of hers? On the surface, the answer would seem to be yes: if the other woman already has a stain, she becomes *teme'ah* regardless, so attributing this additional stain to her costs her nothing. But a competing consideration arises: the basis for *tliyah* has always required some meaningful identification of the other woman as a *plausible* source of bleeding. A *niddah* is clearly in the context of bleeding. A woman counted in her *shivah neki'im* is still within the *tum'ah* of prior bleeding. But a woman who merely found a *ketem* — a stain on her own garment — is in a more ambiguous position. The nature of *kesamim* is that we do not say definitively that she bled; we say only that a stain was found and she must be treated accordingly. Can such a woman serve as the basis of attribution for another's stain?
 
 ### Yochanan Query
 

@@ -1,0 +1,368 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "All Damages Rule",
+    "candidates": [
+      "Meitav Debate",
+      "All Damages Rule",
+      "Initial KV Setup",
+      "Torah Limitation",
+      "Tosafot Extension",
+      "KV Difficulty",
+      "Debt vs. Damages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes the exact Talmudic text 'shor re'eihu amar rachmana v'lo shor hekdesh' \u2014 the Torah says 'his neighbor's ox, not an ox of hekdesh' \u2014 which is precisely what the 'Torah Limitation' section's prose describes as the Gemara's sharp objection.",
+      "chosen_heading": "Torah Limitation",
+      "current_heading": "All Damages Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Debt vs. Damages",
+    "candidates": [
+      "Initial KV Setup",
+      "Torah Limitation",
+      "Tosafot Extension",
+      "KV Difficulty",
+      "Debt vs. Damages",
+      "Immunity Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items discuss the pledge-to-hekdesh scenario and its rejection via the ba'al chov argument and the kal vachomer refutation, which is precisely what the 'Debt vs. Damages' prose describes.",
+      "chosen_heading": "Debt vs. Damages",
+      "current_heading": "Debt vs. Damages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Immunity Reading",
+    "candidates": [
+      "Immunity Reading",
+      "Supports Akiva",
+      "Debate Scope Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present exactly what candidate 0's prose describes: the Gemara's rejection attributing Rabbi Akiva's position to Rabbi Shimon ben Menasya, followed by the baraita itself establishing hekdesh's immunity as mazik and full liability when hedyot's ox gores hekdesh \u2014 which is precisely the 'Immunity Reading' section's content.",
+      "chosen_heading": "Immunity Reading",
+      "current_heading": "Immunity Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Debate Scope Q",
+    "candidates": [
+      "Supports Akiva",
+      "Debate Scope Q",
+      "Primary vs. Secondary",
+      "Explicit Assignment",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question and answer about whether Rabbi Akiva and Rabbi Yishmael's dispute is really about meitav d'mazik vs. meitav d'nizak or instead about the hekdesh question (Rabbi Shimon ben Menasya vs. Rabbis), which is precisely what the 'Debate Scope Q' prose describes.",
+      "chosen_heading": "Debate Scope Q",
+      "current_heading": "Debate Scope Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Primary vs. Secondary",
+      "Explicit Assignment",
+      "Resolution",
+      "Contradiction Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's rejection of the suggestion that Rabbi Akiva's dispute was only about hekdesh \u2014 items 1 and 2 are the 'im kein' and 've-od mai kal vachomer' objections, and item 3 is Rav Ashi's explicit baraita \u2014 all of which appear verbatim in candidate 0's prose as the Gemara's dismissal argument, making 'Primary vs. Secondary' the correct heading rather than the current 'Resolution' placement.",
+      "chosen_heading": "Primary vs. Secondary",
+      "current_heading": "Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Contradiction Setup",
+    "candidates": [
+      "Resolution",
+      "Contradiction Setup",
+      "Land vs. Chattel",
+      "Willing vs. Forced"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the contradiction setup described in candidate 1's prose: the verse demanding 'best' land versus the baraita permitting even bran as valid payment.",
+      "chosen_heading": "Contradiction Setup",
+      "current_heading": "Contradiction Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Willing vs. Forced",
+    "candidates": [
+      "Land vs. Chattel",
+      "Willing vs. Forced",
+      "Pesuk Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rava's willing-vs-forced resolution and Ulla's supporting linguistic argument, which is precisely what the 'Willing vs. Forced' prose describes.",
+      "chosen_heading": "Willing vs. Forced",
+      "current_heading": "Willing vs. Forced",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Pesuk Language",
+    "candidates": [
+      "Pesuk Language",
+      "Bad Market Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's linguistic argument about the passive vs. active form of the verb (yushalam vs. yeshalem), which is exactly what the prose under 'Pesuk Language' describes.",
+      "chosen_heading": "Pesuk Language",
+      "current_heading": "Pesuk Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Bad Market Scenario",
+    "candidates": [
+      "Bad Market Scenario",
+      "Rashi's Reading",
+      "Half-Value Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Abaye's citation of the baraita about someone with houses, fields, and vineyards who cannot find buyers, which is precisely what the 'Bad Market Scenario' prose describes as its central topic.",
+      "chosen_heading": "Bad Market Scenario",
+      "current_heading": "Bad Market Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Half-Value Rule",
+    "candidates": [
+      "Rashi's Reading",
+      "Half-Value Rule",
+      "Seasonal Rates",
+      "Current vs. Future Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are precisely the Gemara's 'heichi dami' question and its resolution (everyone's land depreciated vs. only his depreciated due to visible desperation), which the 'Half-Value Rule' prose explicitly describes and analyzes in detail.",
+      "chosen_heading": "Half-Value Rule",
+      "current_heading": "Half-Value Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Current vs. Future Value",
+    "candidates": [
+      "Seasonal Rates",
+      "Current vs. Future Value",
+      "Normal Rule",
+      "Lower Grade Option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion of seasonal price fluctuation (Nisan vs. Tishrei) that explains why a poor landholder can take only up to half his land's value in poor man's tithe \u2014 exactly the content described in the 'Seasonal Rates' prose, which quotes the key phrases *lo tzricha*, *d'veyomei Nissan yakra*, *natri ad Nissan*, and *ad palga orchei lemizal* that appear in these items.",
+      "chosen_heading": "Seasonal Rates",
+      "current_heading": "Current vs. Future Value",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Lower Grade Option",
+    "candidates": [
+      "Normal Rule",
+      "Lower Grade Option",
+      "Disadvantage Problem",
+      "Ketuva Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Lower Grade Option",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Abaye's resolution involving the nizak choosing beinonit over eidis, which matches the 'Lower Grade Option' prose describing exactly that scenario.",
+      "second_heading": "Disadvantage Problem",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rav Acha bar Yaakov's objection and his alternative formulation comparing to a ba'al chov, which matches the 'Disadvantage Problem' prose describing his sharp objection and reframing.",
+      "current_heading": "Lower Grade Option",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Ketuva Analogy",
+    "candidates": [
+      "Disadvantage Problem",
+      "Ketuva Analogy",
+      "Rabba's First Try"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rav A\u1e25a son of Rav Ika's objection and alternative proposal involving the ketuva analogy, which is precisely what the 'Ketuva Analogy' section's prose describes \u2014 the objection that penalizing lenders locks the door on borrowers, followed by his reframing using the wife collecting her marriage contract as the proper model for the seasonal-rate mechanism.",
+      "chosen_heading": "Ketuva Analogy",
+      "current_heading": "Ketuva Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Rabba's First Try",
+    "candidates": [
+      "Rabba's First Try",
+      "Rejected",
+      "Pappa Huna Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabba's First Try",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the difficulty-remains statement followed by Rava's resolution (whatever he pays must be the best of that type), which matches heading 0's prose about Rava's proposal that payment in any category must be the best of that category.",
+      "second_heading": "Rejected",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's immediate rejection ('but the verse says best of his field'), which matches heading 1's prose about the rejection based on the verse being specifically tied to land.",
+      "current_heading": "Rabba's First Try",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Pappa Huna Resolution",
+    "candidates": [
+      "Rejected",
+      "Pappa Huna Resolution",
+      "Why Land Differs",
+      "Loan Exception",
+      "The Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the resolution by Rav Pappa and Rav Huna that all chattel is considered meitav while land requires best quality, which is exactly what the 'Pappa Huna Resolution' section describes.",
+      "chosen_heading": "Pappa Huna Resolution",
+      "current_heading": "Pappa Huna Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "The Question",
+    "candidates": [
+      "Why Land Differs",
+      "Loan Exception",
+      "The Question",
+      "Yishmael's Position",
+      "Akiva's Ambiguity",
+      "Pesuk Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items form one continuous unit \u2014 the question posed by Rav Shmuel bar Abba, its clarification per Rabbi Yishmael vs. Rabbi Akiva, the Gemara's unpacking of the verse, and Rabbi Abba's resolution \u2014 all directly address the question described in heading 2's prose about whether 'best' is measured against the mazik's own holdings or a universal standard.",
+      "chosen_heading": "The Question",
+      "current_heading": "The Question",
+      "moved": false
+    }
+  }
+]

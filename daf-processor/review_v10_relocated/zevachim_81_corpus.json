@@ -1,0 +1,286 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Initial vs. Final Blood",
+    "candidates": [
+      "Abaye's Limitation",
+      "Initial vs. Final Blood",
+      "Rav Yosef Disagrees",
+      "Rabbi Shimon Agrees",
+      "Rabbi Yochanan Disputes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Abaye's limitation (techilat vs. sof chatas/olah) and Rav Yosef's immediate challenge, which is precisely what candidate 0 ('Abaye's Limitation') describes in its prose, including the exact statement 'lo shanu ella techilat hachatas v'olah' and the Rav Yosef/Rav Yehuda response about shirayim tzrichim itztzaba.",
+      "chosen_heading": "Abaye's Limitation",
+      "current_heading": "Initial vs. Final Blood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rabbi Yochanan Disputes",
+    "candidates": [
+      "Rav Yosef Disagrees",
+      "Rabbi Shimon Agrees",
+      "Rabbi Yochanan Disputes",
+      "Kodesh Hem Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Shimon's statement (that the dispute applies only to initial blood, with shirayim being universally acceptable at the olah location) and Rabbi Yochanan's dissent (that it remains a dispute), and the current placement under 'Rabbi Yochanan Disputes' (index 2) misses that the passage begins with Rabbi Shimon's view which is the primary content; however, since the passage contains both statements and candidate 1 ('Rabbi Shimon Agrees') covers Rabbi Shimon's position while candidate 2 covers Rabbi Yochanan's, and the passage as a single unit starts with Rabbi Shimon, the best single heading is index 1, with Rabbi Yochanan's brief dissent naturally following as a transition.",
+      "chosen_heading": "Rabbi Shimon Agrees",
+      "current_heading": "Rabbi Yochanan Disputes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Kodesh Hem Proof",
+    "candidates": [
+      "Rabbi Yochanan Disputes",
+      "Kodesh Hem Proof",
+      "Source Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Huna bar Yehuda's objection using the 'kodesh hem' verse and the question of whether it refers to final or initial blood of an olah mixed with a bechor \u2014 exactly what the 'Kodesh Hem Proof' section's prose discusses.",
+      "chosen_heading": "Kodesh Hem Proof",
+      "current_heading": "Kodesh Hem Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Source Debate",
+    "candidates": [
+      "Source Debate",
+      "Tosafot's Questions",
+      "Baraita Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the gemara's question about what chiddush 'kodesh hem' teaches regarding ein olin mevatlin zeh et zeh and the tanna'im dispute about deriving this from different verses \u2014 precisely what the 'Source Debate' prose section describes.",
+      "chosen_heading": "Source Debate",
+      "current_heading": "Source Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Baraita Proof",
+    "candidates": [
+      "Tosafot's Questions",
+      "Baraita Proof",
+      "Yom Kippur Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "This passage is Rava's objection via a baraita about mixed bloods of burnt offerings, which is precisely the baraita the 'Baraita Proof' section discusses \u2014 analyzing whether makom olah counts as makom shirayim, and item 5 explicitly asks 'is this not a proof that makom olah is makom shirayim,' matching that section's prose directly.",
+      "chosen_heading": "Baraita Proof",
+      "current_heading": "Baraita Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Yom Kippur Distinction",
+    "candidates": [
+      "Yom Kippur Distinction",
+      "Three Sources Analyzed",
+      "Kodesh Hem Limited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why some tannaim cannot derive 'ein olin mevatlin zeh et zeh' from the Yom Kippur verse and concludes with the tannaitic dispute about which verse serves as the source \u2014 exactly what the 'Yom Kippur Distinction' prose describes.",
+      "chosen_heading": "Yom Kippur Distinction",
+      "current_heading": "Yom Kippur Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Kodesh Hem Limited",
+    "candidates": [
+      "Three Sources Analyzed",
+      "Kodesh Hem Limited",
+      "Two Chatasim Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses why the three tannaim reject each of the three source verses \u2014 exactly what 'Three Sources Analyzed' covers \u2014 including the dam/dam repetition, the Yom Kippur mixing verse, and the kodesh hem verse with the alternative source for tmurah, all of which are explicitly catalogued in that section's prose.",
+      "chosen_heading": "Three Sources Analyzed",
+      "current_heading": "Kodesh Hem Limited",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Two Chatasim Theory",
+    "candidates": [
+      "Kodesh Hem Limited",
+      "Two Chatasim Theory",
+      "Unresolved Status",
+      "Limited Validation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: the baraita proof (items 1-2), Rav Yitzchak bar Yosef's reinterpretation involving chatas chitzona mixed with shirayim of inner chatas (item 3), and Abaye's challenge with the gemara's response about the chiddush regarding shirayim me'akev (item 4) \u2014 all of which are explicitly discussed in the 'Two Chatasim Theory' prose section.",
+      "chosen_heading": "Two Chatasim Theory",
+      "current_heading": "Two Chatasim Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Limited Validation",
+    "candidates": [
+      "Unresolved Status",
+      "Limited Validation",
+      "Ein Bila Context",
+      "Final Resolution",
+      "Spill When Mixed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states that the earlier interpretation applied only 'according to those who said initially that there is no mixing (ein bila),' and that the final conclusion was 'bekosot pligi' \u2014 which directly matches the 'Ein Bila Context' prose explaining that the limitation was contingent on the ein bila position.",
+      "chosen_heading": "Ein Bila Context",
+      "current_heading": "Limited Validation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Spill When Mixed",
+    "candidates": [
+      "Ein Bila Context",
+      "Final Resolution",
+      "Spill When Mixed",
+      "Outer Then Inner",
+      "Inner First Debate",
+      "Rabbi Akiva View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text about inner blood mixed with outer blood being poured into the drain, which is precisely what the 'Spill When Mixed' section's prose describes and introduces.",
+      "chosen_heading": "Spill When Mixed",
+      "current_heading": "Spill When Mixed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Rabbi Akiva View",
+    "candidates": [
+      "Outer Then Inner",
+      "Inner First Debate",
+      "Rabbi Akiva View",
+      "Chachamim Limit",
+      "Rabbi Eliezer Adds",
+      "Inner Before Outer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the dispute between Rabbi Akiva and the Rabbis (and Rabbi Eliezer) about the inner-first-then-outer case, which corresponds directly to the 'Inner First Debate' heading's prose describing this exact controversy.",
+      "chosen_heading": "Inner First Debate",
+      "current_heading": "Rabbi Akiva View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Inner Before Outer",
+    "candidates": [
+      "Chachamim Limit",
+      "Rabbi Eliezer Adds",
+      "Inner Before Outer",
+      "Invalidation Problem",
+      "Uncertainty Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the gemara's question of why Rabbi Eliezer doesn't disagree in the inner/outer mixture case, and the resolution about the mitzva to prioritize inner before outer \u2014 precisely what candidate 2 ('Inner Before Outer') describes in its prose.",
+      "chosen_heading": "Inner Before Outer",
+      "current_heading": "Inner Before Outer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Uncertainty Rule",
+    "candidates": [
+      "Invalidation Problem",
+      "Uncertainty Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly explains why Rabbi Eliezer cannot issue a categorical ruling (lo pesika lei) due to chatas and asham cases, which is precisely what the 'Uncertainty Rule' section's prose discusses.",
+      "chosen_heading": "Uncertainty Rule",
+      "current_heading": "Uncertainty Rule",
+      "moved": false
+    }
+  }
+]

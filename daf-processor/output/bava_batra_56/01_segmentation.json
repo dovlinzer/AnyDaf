@@ -24,8 +24,8 @@
           "timestamp": "01:46"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Shabbat Domains and Public Domain Separation: Rava and Abaye's Dispute Over What Constitutes Separate Reshuyot",
@@ -63,7 +63,7 @@
           "timestamp": "08:18"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -505,5 +505,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "35:04",
+  "amud_b_micro_title": "Mishnah Setup",
+  "shiur_start_daf": 55,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,438 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Ravin Migo Logic",
+    "candidates": [
+      "Rav Dimi Intro",
+      "Ravin Migo Logic",
+      "Rava Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Ravin's transmission of Rabbi Yochanan's migo interpretation \u2014 reisha with disqualified witnesses/fit judges and seifa with disqualified judges/fit witnesses \u2014 which is precisely what the 'Ravin Migo Logic' prose section describes and analyzes.",
+      "chosen_heading": "Ravin Migo Logic",
+      "current_heading": "Ravin Migo Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rava Challenge",
+    "candidates": [
+      "Rava Challenge",
+      "Dimi vs Ravin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's exact objection about the migo logic \u2014 that disqualifying judges to also disqualify witnesses is problematic when no other witnesses exist \u2014 which is precisely what the prose under 'Rava Challenge' discusses in detail.",
+      "chosen_heading": "Rava Challenge",
+      "current_heading": "Rava Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Dimi vs Ravin",
+    "candidates": [
+      "Dimi vs Ravin",
+      "Reish Lakish Intro",
+      "Reish Lakish Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the Rav Dimi vs. Ravin dispute about whether the mishna requires a second set of witnesses and whether the miggo principle applies, which is precisely what the 'Dimi vs Ravin' prose section covers.",
+      "chosen_heading": "Dimi vs Ravin",
+      "current_heading": "Dimi vs Ravin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Reish Lakish Challenge",
+    "candidates": [
+      "Reish Lakish Intro",
+      "Reish Lakish Challenge",
+      "Mutual Respect Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous passage: item 1 is Reish Lakish's emendation with 'peh kadosh,' item 2 is the 'ini' challenge based on Ulla's praise of Reish Lakish, and item 3 is Ravina's resolution \u2014 the entire sequence is precisely what candidate 1's prose ('Reish Lakish Challenge') describes, including the 'ini,' Ulla's statement, Reish Lakish's sharpness, the phrase 'peh kadosh,' and the transition to the aggadic passage, with Ravina's point being the resolution of that same challenge.",
+      "chosen_heading": "Reish Lakish Challenge",
+      "current_heading": "Reish Lakish Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Mutual Respect Comparison",
+    "candidates": [
+      "Mutual Respect Comparison",
+      "Rabbi Yossi Defers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the 'hachi ka'amar' reframing \u2014 that the gemara's point is 'come and see how much the scholars love each other' \u2014 which is precisely what the 'Mutual Respect Comparison' prose discusses.",
+      "chosen_heading": "Mutual Respect Comparison",
+      "current_heading": "Mutual Respect Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Rabbi Yossi Defers",
+    "candidates": [
+      "Rabbi Yossi Defers",
+      "Noa'im vs Chovelim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact gemara passage about Rabbi Yehuda HaNasi deferring to Rabbi Yosei's ruling on insulating cold food, followed by Rav Pappa's observation about their mutual respect \u2014 precisely what the 'Rabbi Yossi Defers' section prose describes in detail.",
+      "chosen_heading": "Rabbi Yossi Defers",
+      "current_heading": "Rabbi Yossi Defers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Noa'im vs Chovelim",
+    "candidates": [
+      "Noa'im vs Chovelim",
+      "Bavel Belula Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items (the no'am/chovelim passage, the olive tree passage, the two women/Shinar passage, the Eilam arrogance challenge and resolution, and the poverty/Torah poverty passage) are explicitly discussed in the prose of candidate 0 ('Noa'im vs Chovelim'), which is the current placement and the clearly correct one.",
+      "chosen_heading": "Noa'im vs Chovelim",
+      "current_heading": "Noa'im vs Chovelim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Bavel Belula Meaning",
+    "candidates": [
+      "Bavel Belula Meaning",
+      "Mishna Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the homiletic meaning of 'Bavel' as 'belula' and Rabbi Yirmiya's interpretation of darkness as Babylonian Talmud, exactly matching the prose under 'Bavel Belula Meaning'.",
+      "chosen_heading": "Bavel Belula Meaning",
+      "current_heading": "Bavel Belula Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Mishna Setup",
+    "candidates": [
+      "Mishna Setup",
+      "Shmuel Creditor Debtor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishna about accepting disqualified judges/non-standard oaths and the Gemara's clarification by Rav Dimi \u2014 are precisely what the 'Mishna Setup' prose describes, covering both clauses of the Mishna and the opening Gemara qualification.",
+      "chosen_heading": "Mishna Setup",
+      "current_heading": "Mishna Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Shmuel Creditor Debtor",
+    "candidates": [
+      "Shmuel Creditor Debtor",
+      "Rabbi Yochanan Both Cases",
+      "Question Both or One",
+      "Rava Oath Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Shmuel's and Rabbi Yochanan's statements together, and the current heading's prose explicitly discusses Shmuel's machul lach/eten lach distinction, which is the primary content of this passage \u2014 the current placement captures both opinions as they appear together in the Gemara.",
+      "chosen_heading": "Shmuel Creditor Debtor",
+      "current_heading": "Shmuel Creditor Debtor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Rava Oath Case",
+    "candidates": [
+      "Rabbi Yochanan Both Cases",
+      "Question Both or One",
+      "Rava Oath Case",
+      "Rav Acha Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous unit raising and resolving the dilemma about whether Rabbi Yochanan's machloket applies to eten lach alone or both cases, which matches the 'Question Both or One' prose precisely, while the current placement under 'Rava Oath Case' describes the resolution and its downstream implications rather than the dilemma itself.",
+      "chosen_heading": "Question Both or One",
+      "current_heading": "Rava Oath Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rav Acha Objection",
+    "candidates": [
+      "Rava Oath Case",
+      "Rav Acha Objection",
+      "Nishba'in Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav A\u1e25a bar Ta\u1e25lifa's objection to Rava from the mishna's clause about vowing by the life of one's head, which is precisely what the 'Rav Acha Objection' prose describes.",
+      "chosen_heading": "Rav Acha Objection",
+      "current_heading": "Rav Acha Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Nishba'in Cases",
+    "candidates": [
+      "Nishba'in Cases",
+      "Both Clauses Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the question-and-answer exchange distinguishing nishba'in ve-lo meshalmin from nishba'in ve-notlin, which is exactly what the 'Nishba'in Cases' prose describes.",
+      "chosen_heading": "Nishba'in Cases",
+      "current_heading": "Nishba'in Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Both Clauses Needed",
+    "candidates": [
+      "Both Clauses Needed",
+      "Reish Lakish Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute the gemara's challenge about redundancy between the two clauses and its resolution (tole be-da'at acherim vs. tole be-da'at atzmo, plus the tzericha argument), which is precisely what the 'Both Clauses Needed' prose describes.",
+      "chosen_heading": "Both Clauses Needed",
+      "current_heading": "Both Clauses Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Reish Lakish Position",
+    "candidates": [
+      "Reish Lakish Position",
+      "Yochanan's Counterpoint",
+      "Rava Temporal Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Reish Lakish Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents both Reish Lakish's position (dispute is before gmar din) and Rabbi Yochanan's counterpoint (dispute is after gmar din), but the prose under heading 0 ('Reish Lakish Position') covers Reish Lakish's view and heading 1 ('Yochanan's Counterpoint') covers Rabbi Yochanan's \u2014 Item 1 contains both views, but since it opens with Reish Lakish's statement and the current placement is heading 0 which discusses exactly that content, Item 1 fits best under heading 0.",
+      "second_heading": "Rava Temporal Proof",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the dilemma raised about Rabbi Yochanan's position (before vs. after gmar din, or both), which matches exactly the prose of heading 2 ('Rava Temporal Proof') that explicitly paraphrases this same dilemma question.",
+      "current_heading": "Reish Lakish Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Rava Temporal Proof",
+    "candidates": [
+      "Yochanan's Counterpoint",
+      "Rava Temporal Proof",
+      "Question Temporal Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's actual ruling about retracting acceptance of a relative or disqualified person before/after gmar din, which is exactly what the 'Rava Temporal Proof' prose describes and quotes.",
+      "chosen_heading": "Rava Temporal Proof",
+      "current_heading": "Rava Temporal Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Question Temporal Scope",
+    "candidates": [
+      "Question Temporal Scope",
+      "Conclusion After Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the reasoning about whether the machloket is only after gmar din or both before and after, and the question 'Rava de-amar ke-man,' which is precisely what the 'Question Temporal Scope' prose describes.",
+      "chosen_heading": "Question Temporal Scope",
+      "current_heading": "Question Temporal Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Conclusion After Judgment",
+    "candidates": [
+      "Conclusion After Judgment",
+      "Nachman Correspondence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the gemara's conclusion that the dispute is after gmar din (shema mina), which matches exactly the prose of 'Conclusion After Judgment' describing this same ela/shema mina inference.",
+      "chosen_heading": "Conclusion After Judgment",
+      "current_heading": "Conclusion After Judgment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Nachman Correspondence",
+    "candidates": [
+      "Nachman Correspondence",
+      "Halakha Chachamim",
+      "Rav Ashi Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the question sent by Rav Na\u1e25man bar Rav \u1e24isda to Rav Na\u1e25man bar Ya'akov along with the reply, matching the 'Nachman Correspondence' heading's prose about the correspondence and question, while the reply portion is naturally part of the same exchange described under that heading.",
+      "chosen_heading": "Nachman Correspondence",
+      "current_heading": "Nachman Correspondence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Rav Ashi Question",
+    "candidates": [
+      "Halakha Chachamim",
+      "Rav Ashi Question",
+      "Rav Ashi Answer",
+      "Kinyan Exception Final"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the question (is the machloket re eten lach or machul lach) and the answer (eten lach, halakha ke-chachamim), but the current heading 'Rav Ashi Question' and its prose explicitly describes this dual formulation including both parts, making it the best match \u2014 the answer portion is embedded within Rav Ashi's single reported exchange rather than being a separate transmission.",
+      "chosen_heading": "Rav Ashi Question",
+      "current_heading": "Rav Ashi Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Kinyan Exception Final",
+    "candidates": [
+      "Rav Ashi Answer",
+      "Kinyan Exception Final"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Sura/Pumbedita distinction and the question sent to Shmuel about kinyan before gmar din, which is exactly what the 'Kinyan Exception Final' prose discusses.",
+      "chosen_heading": "Kinyan Exception Final",
+      "current_heading": "Kinyan Exception Final",
+      "moved": false
+    }
+  }
+]

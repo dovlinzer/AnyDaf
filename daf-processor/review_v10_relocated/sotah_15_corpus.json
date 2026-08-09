@@ -1,0 +1,495 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Frankincense Transfer",
+    "candidates": [
+      "Frankincense Transfer",
+      "Handful Offering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes gathering the frankincense and placing it on the handful, citing the verse about frankincense on the meal-offering, which is precisely what the 'Frankincense Transfer' section's prose discusses.",
+      "chosen_heading": "Frankincense Transfer",
+      "current_heading": "Frankincense Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Handful Offering",
+    "candidates": [
+      "Handful Offering",
+      "Handful Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items (bringing up in a service vessel, salting, placing on fires, and the handful permitting the remainders) are explicitly discussed in the 'Handful Offering' prose, which walks through exactly these steps of the baraita in the same order.",
+      "chosen_heading": "Handful Offering",
+      "current_heading": "Handful Offering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Handful Timing",
+    "candidates": [
+      "Handful Timing",
+      "Mixing Ingredients"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Rabbi \u1e24anina and Rabbi Yo\u1e25anan about when the handful's sacrifice permits the remainder, which is precisely what the 'Handful Timing' prose describes.",
+      "chosen_heading": "Handful Timing",
+      "current_heading": "Handful Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Mixing Ingredients",
+    "candidates": [
+      "Mixing Ingredients",
+      "Leavening Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses priests mixing wine, oil, and honey into the remainder of the meal-offering and the reason (eating in the manner of kings), which directly matches the 'Mixing Ingredients' section's prose.",
+      "chosen_heading": "Mixing Ingredients",
+      "current_heading": "Mixing Ingredients",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Leavening Prohibition",
+    "candidates": [
+      "Leavening Prohibition",
+      "Sinner's Mincha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibition against leavening the meal-offering and Rabbi Shimon ben Lakish's derivation from 'chelkam,' which matches precisely the content described in the 'Leavening Prohibition' prose.",
+      "chosen_heading": "Leavening Prohibition",
+      "current_heading": "Leavening Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Sinner's Mincha",
+    "candidates": [
+      "Sinner's Mincha",
+      "Three Qualities",
+      "Sota Mincha Qualities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Mishnah's statement that all meal-offerings require oil and frankincense and the immediate Gemara challenge about the minchat chotei, which is exactly what the prose under 'Sinner's Mincha' describes.",
+      "chosen_heading": "Sinner's Mincha",
+      "current_heading": "Sinner's Mincha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Sota Mincha Qualities",
+    "candidates": [
+      "Three Qualities",
+      "Sota Mincha Qualities",
+      "Rabbi Shimon's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the Gemara's reframing ('hachi ka'amar') explaining that all menachot have at least one of three positive qualities, which directly matches the 'Three Qualities' prose describing this exact resolution, while the current placement under 'Sota Mincha Qualities' covers the interpretive elaboration that follows from this passage.",
+      "chosen_heading": "Three Qualities",
+      "current_heading": "Sota Mincha Qualities",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rabbi Shimon's View",
+    "candidates": [
+      "Sota Mincha Qualities",
+      "Rabbi Shimon's View",
+      "Sin Offering Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita's content \u2014 Rabbi Shimon's argument about why the minchat chotei lacks oil and frankincense (she-lo yehei chotei niskar vs. she-lo yehei korbano mehurdar) \u2014 is precisely what the 'Rabbi Shimon's View' prose section discusses and analyzes in detail.",
+      "chosen_heading": "Rabbi Shimon's View",
+      "current_heading": "Rabbi Shimon's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Sin Offering Parallel",
+    "candidates": [
+      "Sin Offering Parallel",
+      "Metzora Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why a chatat cheilev does not require nesachim (so the offering not be embellished), which is precisely what the 'Sin Offering Parallel' section's prose describes.",
+      "chosen_heading": "Sin Offering Parallel",
+      "current_heading": "Sin Offering Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Metzora Exception",
+    "candidates": [
+      "Metzora Exception",
+      "Nazirite Challenge",
+      "Nazirite Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the metzora's chatat and asham requiring nesachim because they are not brought on account of sin, the objection from Rabbi Yonatan's statement about leprosy coming for seven sins, and the resolution that the nega itself provides atonement \u2014 all of which are precisely what the 'Metzora Exception' prose describes.",
+      "chosen_heading": "Metzora Exception",
+      "current_heading": "Metzora Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Nazirite Resolution",
+    "candidates": [
+      "Nazirite Challenge",
+      "Nazirite Resolution",
+      "Animal-Like Actions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's resolution that Rabbi Shimon holds like Rabbi Eliezer HaKappar who considers the nazirite a sinner, which matches exactly the 'Nazirite Resolution' prose discussing how this answer resolves the challenge about the nazirite's chatat.",
+      "chosen_heading": "Nazirite Resolution",
+      "current_heading": "Nazirite Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Animal-Like Actions",
+    "candidates": [
+      "Animal-Like Actions",
+      "Wealth Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabban Gamliel's request to expound an allegory, which is precisely what the prose of heading 0 discusses \u2014 his address to the sages as sofrim and his kemin chomer formulation.",
+      "chosen_heading": "Animal-Like Actions",
+      "current_heading": "Animal-Like Actions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Wealth Objection",
+    "candidates": [
+      "Wealth Objection",
+      "Universal Explanation",
+      "Vessel and Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Meir's explanation and Rabban Gamliel's objection about the wealth problem, which is exactly what the 'Wealth Objection' prose describes.",
+      "chosen_heading": "Wealth Objection",
+      "current_heading": "Wealth Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Vessel and Water",
+    "candidates": [
+      "Universal Explanation",
+      "Vessel and Water",
+      "Quarter-Log Measure",
+      "Heichal Procedure",
+      "Marble Tile",
+      "Retrieving Dirt",
+      "Dirt in Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes bringing the earthenware vessel and pouring half a log of water from the kiyor, with Rabbi Yehuda's minority opinion about a quarter-log, which directly matches the 'Vessel and Water' section's prose about preparation of the bitter waters.",
+      "chosen_heading": "Vessel and Water",
+      "current_heading": "Vessel and Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Dirt in Water",
+    "candidates": [
+      "Quarter-Log Measure",
+      "Heichal Procedure",
+      "Marble Tile",
+      "Retrieving Dirt",
+      "Dirt in Water",
+      "New Vessel Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the entire sequence from entering the Heichal and turning right, to the marble tablet, to retrieving dirt, to placing it in the water \u2014 this full narrative is best captured under the 'Heichal Procedure' heading, which introduces this whole sequence, rather than splitting it under the later more granular headings.",
+      "chosen_heading": "Heichal Procedure",
+      "current_heading": "Dirt in Water",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "New Vessel Required",
+    "candidates": [
+      "Dirt in Water",
+      "New Vessel Required",
+      "Metzora Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yishmael's requirement for a new earthenware vessel and his gezerah shavah derivation from 'vessel/vessel' connecting sotah to metzora, which is exactly what the 'New Vessel Required' prose section discusses.",
+      "chosen_heading": "New Vessel Required",
+      "current_heading": "New Vessel Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Metzora Comparison",
+    "candidates": [
+      "Metzora Comparison",
+      "Blackening Invalidation",
+      "Unchanged Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 deriving the new vessel requirement from the metzora verse, the question about running water, Rabbi Yishmael's position, the refutation challenge, and Rabba's resolution \u2014 are precisely the content described in the 'Metzora Comparison' prose, which explicitly covers each of these points in sequence.",
+      "chosen_heading": "Metzora Comparison",
+      "current_heading": "Metzora Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Unchanged Vessel",
+    "candidates": [
+      "Blackening Invalidation",
+      "Unchanged Vessel",
+      "Refiring Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rava's statement about blackening invalidating the vessel, which is the exact content described in candidate 0's prose, while candidate 1's prose covers only the reasoning (dumya d'mayim) that follows \u2014 but since the passage contains both the ruling and the reason as one unit, candidate 0 is the better home as it introduces the topic, and the reasoning elaboration belongs as part of that same ruling rather than as a separate section.",
+      "chosen_heading": "Blackening Invalidation",
+      "current_heading": "Unchanged Vessel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Refiring Question",
+    "candidates": [
+      "Unchanged Vessel",
+      "Refiring Question",
+      "Metzora Items Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's dilemma about a blackened vessel refired until white, which is precisely what the 'Refiring Question' prose discusses \u2014 the principle of dichui and whether restoration to whiteness restores validity.",
+      "chosen_heading": "Refiring Question",
+      "current_heading": "Refiring Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Metzora Items Invalid",
+    "candidates": [
+      "Metzora Items Invalid",
+      "Permanent Damage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar's ruling about the cedar, hyssop, and scarlet wool being disqualified when tied to a basket, which matches the 'Metzora Items Invalid' prose describing this exact citation; the 'Permanent Damage' section covers the Gemara's response/rebuttal to this proof, not the proof itself.",
+      "chosen_heading": "Metzora Items Invalid",
+      "current_heading": "Metzora Items Invalid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Permanent Damage",
+    "candidates": [
+      "Permanent Damage",
+      "Melacha Question",
+      "Mishkan Ground"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that the items are permanently unfit because they are peeled (iklufei), which matches exactly the 'Permanent Damage' section's prose discussing hatam de'iklaf iklufei and permanent structural damage that cannot be undone.",
+      "chosen_heading": "Permanent Damage",
+      "current_heading": "Permanent Damage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Mishkan Ground",
+    "candidates": [
+      "Melacha Question",
+      "Mishkan Ground",
+      "Alternative Source",
+      "Multiple Locations"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Melacha Question",
+      "first_confidence": "low",
+      "first_reason": "Item 1 discusses the rule of turning right when entering the Sanctuary, which does not match any of the candidate prose sections well \u2014 the closest preceding context (Melacha Question) is unrelated, suggesting item 1 may belong under a heading not listed here, but among the candidates it is least mismatched under index 0.",
+      "second_heading": "Mishkan Ground",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the baraita analyzing 'min ha'afar asher yihyeh bekarka haMishkan' \u2014 the exact content described in the 'Mishkan Ground' prose, including the rejection of bringing dirt from outside, the rejection of digging, and the yesh sham/ein sham conclusion.",
+      "current_heading": "Mishkan Ground",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Multiple Locations",
+    "candidates": [
+      "Alternative Source",
+      "Multiple Locations",
+      "Nov Givon Problem",
+      "Kal V'Chomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita's two-part structure \u2014 first teaching that dust can be brought from outside (matching 'Alternative Source' prose about dirt from outside), and then Isi ben Yehuda's inclusion of other locations \u2014 begins with the 'Alternative Source' section's topic, and the passage as a whole introduces the baraita that the 'Alternative Source' prose describes, making heading 0 the correct placement rather than heading 1 which discusses only the secondary point about multiple locations.",
+      "chosen_heading": "Alternative Source",
+      "current_heading": "Multiple Locations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Kal V'Chomer",
+    "candidates": [
+      "Nov Givon Problem",
+      "Kal V'Chomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Isi ben Mena\u1e25em's kal v'chomer argument and the explanation of 'bekarka haMishkan,' which is precisely what the prose under 'Kal V'Chomer' discusses.",
+      "chosen_heading": "Kal V'Chomer",
+      "current_heading": "Kal V'Chomer",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Rami & Rava Debate",
+    "candidates": [
+      "Rami & Rava Debate",
+      "Migo & Shtar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the opening exchange of Rami bar \u1e24ama's exclamation and Rava's immediate challenge about the oath of bailees, which is precisely what candidate 0's prose describes as the content of the Rami/Rava debate.",
+      "chosen_heading": "Rami & Rava Debate",
+      "current_heading": "Rami & Rava Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Migo & Shtar",
+    "candidates": [
+      "Migo & Shtar",
+      "Return Without Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rami bar \u1e24ama's answer 'de'afkedei bishtara' which is precisely what the prose of heading 0 discusses and explains in detail, making the current placement correct.",
+      "chosen_heading": "Migo & Shtar",
+      "current_heading": "Migo & Shtar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Return Without Witnesses",
+    "candidates": [
+      "Return Without Witnesses",
+      "Rav Sheshet's Inquiry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle about deposits with witnesses vs. with a document, which is precisely what the prose under 'Return Without Witnesses' explains and contextualizes.",
+      "chosen_heading": "Return Without Witnesses",
+      "current_heading": "Return Without Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Rav Sheshet's Inquiry",
+    "candidates": [
+      "Rav Sheshet's Inquiry",
+      "Hamotzi Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe Rav Sheshet's encounter with Rabbah bar Shmuel and the baraita he cited, which is exactly what heading 0 ('Rav Sheshet's Inquiry') discusses in its prose \u2014 the inference from the seifa (item 2) is still part of Rav Sheshet's inquiry, while heading 1 discusses Rav Nachman bar Yitzchak's rejection of that inference, which is not yet present in these items.",
+      "chosen_heading": "Rav Sheshet's Inquiry",
+      "current_heading": "Rav Sheshet's Inquiry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Hamotzi Analysis",
+    "candidates": [
+      "Hamotzi Analysis",
+      "Katzatz Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Rav Na\u1e25man bar Yitz\u1e25ak's statement that both the reisha and seifa involve ra'aya but the braita only mentions proof that leads directly to payment is precisely what the 'Hamotzi Analysis' prose describes and analyzes.",
+      "chosen_heading": "Hamotzi Analysis",
+      "current_heading": "Hamotzi Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Katzatz Question",
+    "candidates": [
+      "Katzatz Question",
+      "Baraita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Katzatz Question \u2014 Rabbi Yirmeya bar Abba's report of the query sent to Shmuel about disputed wage rates and Shmuel's response \u2014 which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Katzatz Question",
+      "current_heading": "Katzatz Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Baraita Contradiction",
+    "candidates": [
+      "Baraita Contradiction",
+      "Rav Nachman's Reading",
+      "Tailor Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita of Rabba bar Shmuel as a challenge to Shmuel's position and then Rav Na\u1e25man's resolution, but the passage as a whole (including Rav Na\u1e25man's answer) is the content of the 'Baraita Contradiction' section, which discusses both the challenge and its resolution together, while candidate 1 ('Rav Nachman's Reading') describes only the resolution in isolation \u2014 the current placement under 'Baraita Contradiction' correctly houses the full dialectical unit.",
+      "chosen_heading": "Baraita Contradiction",
+      "current_heading": "Baraita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Tailor Case",
+    "candidates": [
+      "Rav Nachman's Reading",
+      "Tailor Case",
+      "Rabbi Yehuda Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the tailor/tallis baraita and the Gemara's objection from it \u2014 exactly the content described in the 'Tailor Case' prose, which explicitly quotes and explains bizmano nishba venotel and the contradiction with Shmuel's ruling.",
+      "chosen_heading": "Tailor Case",
+      "current_heading": "Tailor Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rabbi Yehuda Attribution",
+    "candidates": [
+      "Rabbi Yehuda Attribution",
+      "Which Yehuda?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man bar Yitz\u1e25ak's statement attributing the baraita to Rabbi Yehuda and explaining his rule about oath transfer, which is exactly what heading 0 ('Rabbi Yehuda Attribution') describes in its prose.",
+      "chosen_heading": "Rabbi Yehuda Attribution",
+      "current_heading": "Rabbi Yehuda Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Which Yehuda?",
+    "candidates": [
+      "Which Yehuda?",
+      "Yehuda Permits Katzatz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks which Rabbi Yehuda is meant and concludes that if it refers to Rabbi Yehuda of the mishna there is a problem because he is stringent (requiring partial admission), which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Which Yehuda?",
+      "current_heading": "Which Yehuda?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Yehuda Permits Katzatz",
+    "candidates": [
+      "Yehuda Permits Katzatz",
+      "Paradox Explained",
+      "Rava's Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the baraita text that candidate 0's prose explicitly quotes and analyzes \u2014 the sachir oath during bizmano, the modeh bemiktzat scenario, the katzatz case, and the limit of kofer hakol \u2014 all of which are the exact content of candidate 0's discussion.",
+      "chosen_heading": "Yehuda Permits Katzatz",
+      "current_heading": "Yehuda Permits Katzatz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Rava's Framework",
+    "candidates": [
+      "Paradox Explained",
+      "Rava's Framework",
+      "Nigzal Setup",
+      "Intent Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute Rav Sheisha's objection and Rava's resolution (the takanta framework), which is precisely what candidate 1 'Rava's Framework' describes \u2014 the conceptual resolution of the apparent paradox between Rabbi Yehuda and the Rabbis regarding shvuat sachir.",
+      "chosen_heading": "Rava's Framework",
+      "current_heading": "Rava's Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Intent Problem",
+    "candidates": [
+      "Nigzal Setup",
+      "Intent Problem",
+      "Hidden Items Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the challenge discussed in 'Intent Problem' prose \u2014 the Gemara questions whether witnesses seeing someone enter to seize collateral is sufficient proof, invoking Rav Na\u1e25man's axe/palm tree principle about announced intentions not being legally conclusive.",
+      "chosen_heading": "Intent Problem",
+      "current_heading": "Intent Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Hidden Items Proof",
+    "candidates": [
+      "Hidden Items Proof",
+      "Purchase Claim",
+      "Owner Doesn't Sell",
+      "Hidden Items Factor",
+      "Confession Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's question about why an oath is needed if witnesses saw the taking, answered by Rabbah bar bar \u1e24ana/Rabbi Yo\u1e25anan that the items were hidden under his garment and could not be identified \u2014 exactly what the 'Hidden Items Proof' prose describes.",
+      "chosen_heading": "Hidden Items Proof",
+      "current_heading": "Hidden Items Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Confession Exception",
+    "candidates": [
+      "Purchase Claim",
+      "Owner Doesn't Sell",
+      "Hidden Items Factor",
+      "Confession Exception",
+      "Lent/Rented Items",
+      "Rava's Scissors Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute Rav Yehuda's complete ruling about witnesses seeing someone conceal items and claim purchase \u2014 items 1-2 cover the core ruling and its qualifications (owner doesn't sell, items not normally hidden), and item 3 continues the same chain of qualifications (secretive person, stolen vs. borrowed claim), all of which belong under the 'Purchase Claim' heading that introduces exactly this Rav Yehuda teaching.",
+      "chosen_heading": "Purchase Claim",
+      "current_heading": "Confession Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Rava's Scissors Case",
+    "candidates": [
+      "Lent/Rented Items",
+      "Rava's Scissors Case",
+      "Who Can Swear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the distinction between items normally lent/rented versus not, and cites Rav Huna bar Avin's ruling along with Rava's scissors case as illustration \u2014 all of this is the content described in candidate 0's prose, which covers exactly this distinction and its principles, while candidate 1's prose already describes this same content as if summarizing it after the fact.",
+      "chosen_heading": "Lent/Rented Items",
+      "current_heading": "Rava's Scissors Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Who Can Swear",
+    "candidates": [
+      "Rava's Scissors Case",
+      "Who Can Swear",
+      "Reasonableness Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly who can take the oath on behalf of the nigzal (watchman, watchman's wife, hired worker/harvester), which matches the 'Who Can Swear' section's prose perfectly.",
+      "chosen_heading": "Who Can Swear",
+      "current_heading": "Who Can Swear",
+      "moved": false
+    }
+  }
+]

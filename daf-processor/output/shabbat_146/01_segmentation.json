@@ -44,8 +44,8 @@
           "timestamp": "09:00"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Initial Challenges and the Muktzeh Concern of Rabbi Nechemia",
@@ -219,7 +219,7 @@
           "timestamp": "18:02"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -312,7 +312,7 @@
           "timestamp": "20:14"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -398,8 +398,8 @@
           "timestamp": "21:05"
         }
       ],
-      "sefaria_index": 22,
-      "matched": true
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Comprehensive Summary: Packaging, Holes, and the Parameters of Permitted Destruction",
@@ -432,7 +432,7 @@
           "timestamp": "21:05"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 23,
       "matched": false
     }
   ],
@@ -658,5 +658,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "16:46",
+  "amud_b_micro_title": "Rava Layers",
+  "shiur_start_daf": 145,
+  "shiur_start_amud": "b"
 }

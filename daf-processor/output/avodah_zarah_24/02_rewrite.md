@@ -150,9 +150,7 @@ This position is then challenged by all the same verses that challenged Rabbi El
 
 ### Offspring Evidence
 
-The Philistine cows present a specific difficulty that the three-year answer cannot address. The biblical narrative specifies that when the Philistines sent the *aron* back on the cart pulled by the cows, their calves were kept penned up at home. The cows, remarkably, did not turn back toward their young but proceeded straight to the Israelite camp. However, if these cows already had calves, they had already given birth — and if they had already given birth, they were necessarily older than three years, since, as the Gemara is about to establish, cows cannot give birth before three years of age. This directly contradicts Rabbi Yochanan's three-year solution.
-
----
+Rav Huna brei d'Rav Natan now challenges this answer. The final verse of the passage states that the cows were brought up as an *olah* to God — but these were female cows, which ordinarily could not be used. Rabbi Yochanan's standing answer has been that the animals were *pachot mibat shalosh shanim*, less than three years old, and therefore still permitted. Rav Huna objects: *im kein hainu v'et beneihem kalu babayit* — if so, what do we make of the fact that the narrative tells us the calves of these cows were kept locked in the house? The cows had already given birth, which would seem to undercut the claim that they were under three years old.
 
 ## Age Threshold (II)
 

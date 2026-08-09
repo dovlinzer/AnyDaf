@@ -1,0 +1,332 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Rav & Rabbah Rulings",
+    "candidates": [
+      "One Witness & Agreement",
+      "Rav & Rabbah Rulings",
+      "Two Men, Woman Bundle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The entire passage \u2014 from Rav Yehuda's initial ruling through Rava's objections and their resolutions, to the final rulings of Rav Yitzchak bar Shmuel and Rabbah bar Rav Huna \u2014 is one continuous sugya debating whether betrothal with one witness is valid and whether mutual admission changes the ruling, which is precisely the topic described in the 'One Witness & Agreement' prose.",
+      "chosen_heading": "One Witness & Agreement",
+      "current_heading": "Rav & Rabbah Rulings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Two Men, Woman Bundle",
+    "candidates": [
+      "Rav & Rabbah Rulings",
+      "Two Men, Woman Bundle",
+      "Kahana vs. Pappa",
+      "Rav Ashi's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the complete baraita challenge and its resolution \u2014 the two-men-and-a-bundle scenario, the investigation of whether it involves one witness, the rejection of that inference, and the Rabbi Meir conclusion \u2014 which the 'Two Men, Woman Bundle' prose describes in precise detail.",
+      "chosen_heading": "Two Men, Woman Bundle",
+      "current_heading": "Two Men, Woman Bundle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rav Ashi's Challenge",
+    "candidates": [
+      "Kahana vs. Pappa",
+      "Rav Ashi's Challenge",
+      "Money vs. Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Kahana's and Rav Pappa's rulings plus the beginning of Rav Ashi's challenge, and candidate 0's prose explicitly describes all three elements (mai havya alah, Rav Kahana's ein chosheshin, Rav Pappa's chosheshin, and the start of Rav Ashi's gezeirah shava question), making it the clearly better home for this passage.",
+      "chosen_heading": "Kahana vs. Pappa",
+      "current_heading": "Rav Ashi's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Money vs. Status",
+    "candidates": [
+      "Rav Ashi's Challenge",
+      "Money vs. Status",
+      "Edei Beirur Kiyum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's challenge (hoda'at ba'al din keme'ah edim) and Rav Kahana's response (lo kachaiv l'achrinei vs. kachaiv l'achrinei), which is precisely what heading 0 'Rav Ashi's Challenge' describes in its prose \u2014 the gezeirah shava, the monetary domain parallel, and the question of whether admission should substitute for witnesses in kiddushin.",
+      "chosen_heading": "Rav Ashi's Challenge",
+      "current_heading": "Money vs. Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Edei Beirur Kiyum",
+    "candidates": [
+      "Edei Beirur Kiyum",
+      "Property Division",
+      "Abaye Liars Principle",
+      "Forbidden Fat Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Property Division",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the case of Mar Zutra and Rav Adda dividing property and their question about witnesses, which matches exactly the 'Property Division' prose describing this very scenario.",
+      "second_heading": "Abaye Liars Principle",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rav Ashi's answer 'witnesses were created only for liars,' which matches the 'Abaye Liars Principle' prose that quotes and analyzes this exact formulation as the canonical expression of edei beirur.",
+      "current_heading": "Edei Beirur Kiyum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Forbidden Fat Case",
+    "candidates": [
+      "Property Division",
+      "Abaye Liars Principle",
+      "Forbidden Fat Case",
+      "Grain Purity Case",
+      "Ox Bestiality Case",
+      "Three Cases Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items together constitute Abaye's three cases (forbidden fat, grain purity, ox bestiality) plus the tzrichuta analysis, and the current heading 'Forbidden Fat Case' with its prose explicitly introduces this entire series of cases beginning with the chelev example, making it the correct home for the full passage.",
+      "chosen_heading": "Forbidden Fat Case",
+      "current_heading": "Forbidden Fat Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Three Cases Analysis",
+    "candidates": [
+      "Grain Purity Case",
+      "Ox Bestiality Case",
+      "Three Cases Analysis",
+      "Tosafot",
+      "Wife Adultery Case",
+      "Abaye Rava Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the tzrichuta explanation for why all three cases needed to be stated, specifically explaining the ox bestiality case's necessity, which belongs under the 'Three Cases Analysis' section that explicitly discusses this tzrichuta.",
+      "chosen_heading": "Three Cases Analysis",
+      "current_heading": "Three Cases Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Abaye Rava Debate",
+    "candidates": [
+      "Tosafot",
+      "Wife Adultery Case",
+      "Abaye Rava Debate",
+      "Blind Tanna Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma itself (ishto zinta be-ed echad veshotek) along with Abaye and Rava's positions and the davar she-be-erva principle, which is precisely what the 'Wife Adultery Case' prose sets up as the question being posed \u2014 the 'Abaye Rava Debate' section's prose discusses the interpretation of this dispute, which would naturally follow after the Talmudic text presenting the dispute is placed under the heading that introduces the question.",
+      "chosen_heading": "Wife Adultery Case",
+      "current_heading": "Abaye Rava Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Blind Tanna Story",
+    "candidates": [
+      "Abaye Rava Debate",
+      "Blind Tanna Story",
+      "Rava Rebuttal",
+      "Yannai Feast Scheme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Blind Tanna story and its immediate interpretation \u2014 Item 1 is the story itself and Item 2 is Abaye's reading versus Rava's rebuttal of that same story \u2014 which is precisely what the 'Blind Tanna Story' prose section describes, including Shmuel's ruling and Abaye's reading of 'im meheman lach' as meaning the witness is not a gazlan.",
+      "chosen_heading": "Blind Tanna Story",
+      "current_heading": "Blind Tanna Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Yannai Feast Scheme",
+    "candidates": [
+      "Rava Rebuttal",
+      "Yannai Feast Scheme",
+      "Yehuda Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Yannai feast baraita \u2014 item 1 describes the feast and item 2 introduces Elazar ben Po'ira's scheme \u2014 which is precisely what the 'Yannai Feast Scheme' prose discusses, including the feast with golden tables, the memory of ancestors, and Elazar's warning about the Pharisees' hearts being against Yannai.",
+      "chosen_heading": "Yannai Feast Scheme",
+      "current_heading": "Yannai Feast Scheme",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Yehuda Challenge",
+    "candidates": [
+      "Yehuda Challenge",
+      "Mother Captivity Rumor",
+      "Sages Destruction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Yehuda ben Gedidya's challenge to Yannai about the crown of kehunah and the captivity rumor, which is exactly what the 'Yehuda Challenge' section prose discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Yehuda Challenge",
+      "current_heading": "Yehuda Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Sages Destruction",
+    "candidates": [
+      "Mother Captivity Rumor",
+      "Sages Destruction",
+      "Shimon Restoration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Elazar ben Po'ira's advice to Yannai to crush the sages and his dismissal of the Torah's need for living transmitters, which is precisely what the 'Sages Destruction' prose section discusses in detail.",
+      "chosen_heading": "Sages Destruction",
+      "current_heading": "Sages Destruction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Shimon Restoration",
+    "candidates": [
+      "Shimon Restoration",
+      "Evidence Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Na\u1e25man bar Yitz\u1e25ak's comment about heresy being injected into Yannai and the subsequent killing of all sages until Shimon ben Shatach restored the Torah, which directly matches the 'Shimon Restoration' section's prose about the world being desolate until Shimon ben Shatach restored the Torah to its former state.",
+      "chosen_heading": "Shimon Restoration",
+      "current_heading": "Shimon Restoration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Evidence Analysis",
+    "candidates": [
+      "Evidence Analysis",
+      "Rava Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Abaye's question and its resolution \u2014 analyzing what evidentiary situation the baraita describes \u2014 which is exactly what the 'Evidence Analysis' prose discusses, including the two-against-two standoff and the single witness inference.",
+      "chosen_heading": "Evidence Analysis",
+      "current_heading": "Evidence Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Rava Position",
+    "candidates": [
+      "Rava Position",
+      "Abaye Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's alternative explanations (edei hazamah and Rabbi Yitzchak's maidservant substitution) for the Yannai story, which are explicitly described and attributed to Rava in candidate 0's prose.",
+      "chosen_heading": "Rava Position",
+      "current_heading": "Rava Position",
+      "moved": false
+    }
+  }
+]

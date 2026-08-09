@@ -1,0 +1,234 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Shacharis Response",
+    "candidates": [
+      "Pesukim During Blessing",
+      "Shacharis Response",
+      "Musaf Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the question of what the congregation says during the Priestly Benediction and gives Rabbi Zeira/Rav Hisda's answer with Psalm 103 verses, which is exactly what heading 0 ('Pesukim During Blessing') discusses as its central topic, while heading 1 ('Shacharis Response') is the prose that explains/comments on this same passage \u2014 meaning the Talmudic text belongs under heading 0 where the question is first posed.",
+      "chosen_heading": "Pesukim During Blessing",
+      "current_heading": "Shacharis Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Musaf Response",
+    "candidates": [
+      "Shacharis Response",
+      "Musaf Response",
+      "Taanis & Yom Kippur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the congregational response during Shabbat Musaf \u2014 Rabbi Asi's ruling and the follow-up question about why yevarekhekha is omitted \u2014 which is precisely what the 'Musaf Response' prose describes in detail.",
+      "chosen_heading": "Musaf Response",
+      "current_heading": "Musaf Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Taanis & Yom Kippur",
+    "candidates": [
+      "Taanis & Yom Kippur",
+      "Timing of Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss what the congregation says during birchas kohanim at mincha of a fast day and at ne'ila on Yom Kippur, which is precisely what the 'Taanis & Yom Kippur' prose section covers in detail.",
+      "chosen_heading": "Taanis & Yom Kippur",
+      "current_heading": "Taanis & Yom Kippur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Timing of Verses",
+    "candidates": [
+      "Timing of Verses",
+      "Chiya bar Abba View",
+      "Chanina bar Pappa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address where and how the congregational verses are recited during birchas kohanim \u2014 the dispute between Rav Yosef/Rav Sheshet and then Rav Mari/Rav Zevid \u2014 which is precisely what the 'Timing of Verses' prose describes.",
+      "chosen_heading": "Timing of Verses",
+      "current_heading": "Timing of Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Chanina bar Pappa",
+    "candidates": [
+      "Chiya bar Abba View",
+      "Chanina bar Pappa",
+      "Yitzchak bar Chanina",
+      "Abahu's Practice",
+      "Humility Digression"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi \u1e24iyya bar Abba's ruling about the outlying areas AND Rabbi \u1e24anina bar Pappa's extension of that argument, but the current placement under 'Chanina bar Pappa' is correct since the prose for that section explicitly discusses both statements together as a unit, while the 'Chiya bar Abba View' prose only discusses Rabbi Chiya's ruling in isolation.",
+      "chosen_heading": "Chanina bar Pappa",
+      "current_heading": "Chanina bar Pappa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Humility Digression",
+    "candidates": [
+      "Yitzchak bar Chanina",
+      "Abahu's Practice",
+      "Humility Digression",
+      "Jewels & Knickknacks"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yitzchak bar Chanina",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (Rabbi Acha bar Chanina's argument and Rabbi Abbahu's practice of reciting/not reciting the verses outside the Beis Hamikdash) belong under 'Yitzchak bar Chanina' and 'Abahu's Practice' headings \u2014 but since item 1 is Rabbi Acha bar Chanina's ruling and item 2 is Rabbi Abbahu's practice about the same pesukim, they form one continuous topic best placed under candidate 0 ('Yitzchak bar Chanina') which discusses exactly this debate, with candidate 1 covering Rabbi Abbahu's practice as a natural continuation.",
+      "second_heading": "Humility Digression",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 (Rabbi Abbahu's reflection on his own humility, the story of Rabbi Abba's amora, the wife's remark, and Rabbi Abbahu deferring the Rosh Yeshiva appointment) all belong under candidate 2 ('Humility Digression'), whose prose explicitly covers all these episodes in detail.",
+      "current_heading": "Humility Digression",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Jewels & Knickknacks",
+    "candidates": [
+      "Jewels & Knickknacks",
+      "Modim Concept",
+      "Modim Variations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the Rabbi Abbahu / Rabbi \u1e24iyya bar Abba episode \u2014 the parable of jewels vs. knickknacks and the escorting gesture \u2014 which is precisely what the 'Jewels & Knickknacks' prose section discusses in detail.",
+      "chosen_heading": "Jewels & Knickknacks",
+      "current_heading": "Jewels & Knickknacks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Modim Variations",
+    "candidates": [
+      "Modim Concept",
+      "Modim Variations",
+      "Community Respect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the various formulations of Modim Derabbanan by Rav, Shmuel, Rabbi Simai, Nehardea, and Rav Acha bar Yaakov, plus Rav Pappa's conclusion to recite all of them \u2014 are precisely what candidate 1 ('Modim Variations') discusses in its prose, which covers each of these formulations in sequence and ends with Rav Pappa's ruling that we say all of them together.",
+      "chosen_heading": "Modim Variations",
+      "current_heading": "Modim Variations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Community Respect",
+    "candidates": [
+      "Community Respect",
+      "Kohanim Sandals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the principle of showing respect/awe toward the public (eimas tzibbur), derived from the kohanim facing the people during birchas kohanim and from King David's address \u2014 exactly what the 'Community Respect' prose describes.",
+      "chosen_heading": "Community Respect",
+      "current_heading": "Community Respect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Kohanim Sandals",
+    "candidates": [
+      "Kohanim Sandals",
+      "One Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabban Yochanan ben Zakkai ordinance about kohanim not wearing sandals on the duchan and Rav Ashi's explanation, which is precisely what the 'Kohanim Sandals' section prose describes.",
+      "chosen_heading": "Kohanim Sandals",
+      "current_heading": "Kohanim Sandals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "One Blessing",
+    "candidates": [
+      "One Blessing",
+      "No Amen Mikdash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the mishna's ruling that in the Temple the blessing is recited as one continuous unit and the reason (no amen in the Temple), which is precisely what the 'One Blessing' prose section addresses.",
+      "chosen_heading": "One Blessing",
+      "current_heading": "One Blessing",
+      "moved": false
+    }
+  }
+]

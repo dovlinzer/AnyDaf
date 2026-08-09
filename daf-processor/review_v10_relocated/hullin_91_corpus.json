@@ -1,0 +1,543 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna vs. Rabbi Yehuda",
+    "candidates": [
+      "Mishna vs. Rabbi Yehuda",
+      "Certainty vs. Doubt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the mishna's ruling that the prohibition applies to both thighs and the Gemara's note that this contradicts Rabbi Yehuda's baraita \u2014 exactly what the prose under 'Mishna vs. Rabbi Yehuda' describes.",
+      "chosen_heading": "Mishna vs. Rabbi Yehuda",
+      "current_heading": "Mishna vs. Rabbi Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Certainty vs. Doubt",
+    "candidates": [
+      "Certainty vs. Doubt",
+      "Korban Pesach Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the dilemma about whether Rabbi Yehuda is certain or uncertain, matching the 'Certainty vs. Doubt' section's prose about pshita vs. sfukei m'sapka lei.",
+      "chosen_heading": "Certainty vs. Doubt",
+      "current_heading": "Certainty vs. Doubt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Korban Pesach Proof",
+    "candidates": [
+      "Korban Pesach Proof",
+      "Rav Chisda's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Gemara's discussion about the mishna in Pesachim regarding bones, sinews, and leftover meat being burned on the sixteenth, including the question about what circumstance sinews would be burned, which matches precisely the content described in the 'Korban Pesach Proof' prose.",
+      "chosen_heading": "Korban Pesach Proof",
+      "current_heading": "Korban Pesach Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Rav Chisda's Answer",
+    "candidates": [
+      "Rav Chisda's Answer",
+      "Avika's Resolution",
+      "Rav Ashi: The Fat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain about Rabbi Yehuda's position on the sciatic nerve \u2014 Rav \u1e24isda's initial statement, the Gemara's challenge about doubt vs. certainty, and Rav Ika bar \u1e24anina's resolution via intermingling \u2014 all of which are explicitly discussed in the 'Rav Chisda's Answer' prose, making that the correct placement.",
+      "chosen_heading": "Rav Chisda's Answer",
+      "current_heading": "Rav Chisda's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rav Ashi: The Fat",
+    "candidates": [
+      "Avika's Resolution",
+      "Rav Ashi: The Fat",
+      "Ravina: Two Sinews"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's statement about the fat (shuman) around the gid hanasheh being biblically permitted but treated as forbidden by minhag, which is precisely what candidate 1 ('Rav Ashi: The Fat') discusses in detail.",
+      "chosen_heading": "Rav Ashi: The Fat",
+      "current_heading": "Rav Ashi: The Fat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Ravina: Two Sinews",
+    "candidates": [
+      "Ravina: Two Sinews",
+      "Eating Both Thighs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Ravina's statement about two sinews (inner/outer, biblical/rabbinic), which is precisely what the 'Ravina: Two Sinews' section's prose discusses in detail.",
+      "chosen_heading": "Ravina: Two Sinews",
+      "current_heading": "Ravina: Two Sinews",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Eating Both Thighs",
+    "candidates": [
+      "Eating Both Thighs",
+      "Two Animals Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous Gemara discussion about Rabbi Yehuda's ruling of forty lashes for eating both sciatic nerves, the hatra'at safek problem, and the baraita about notar \u2014 exactly the content described in the 'Eating Both Thighs' prose.",
+      "chosen_heading": "Eating Both Thighs",
+      "current_heading": "Eating Both Thighs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Two Animals Scenario",
+    "candidates": [
+      "Two Animals Scenario",
+      "Rabah: Textual Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit about the 'two animals scenario' \u2014 the baraita, the Gemara's inference that Rabbi Yehuda knows which side is forbidden, and the resolution involving the kezayit requirement \u2014 which is precisely what the prose under heading 0 describes in detail.",
+      "chosen_heading": "Two Animals Scenario",
+      "current_heading": "Two Animals Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rabah: Textual Proof",
+    "candidates": [
+      "Rabah: Textual Proof",
+      "Rabbis' Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's explanation that 'ha-yarech' (the definite article) indicates 'the most important thigh,' which directly matches the prose in candidate 0 discussing Rabah's textual proof using the definite article hei to single out the more distinguished thigh.",
+      "chosen_heading": "Rabah: Textual Proof",
+      "current_heading": "Rabah: Textual Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rabbis' Explanation",
+    "candidates": [
+      "Rabbis' Explanation",
+      "Wrestling Narrative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Rabbis' interpretation of the definite article as indicating the inner sinew that spreads through the entire thigh, excluding the outer sinew \u2014 precisely what the 'Rabbis' Explanation' prose section describes.",
+      "chosen_heading": "Rabbis' Explanation",
+      "current_heading": "Rabbis' Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Wrestling Narrative",
+    "candidates": [
+      "Wrestling Narrative",
+      "Non-Jew Narrative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehoshua ben Levi's derivation from the wrestling narrative (behe'avko imo), which is precisely what the 'Wrestling Narrative' prose section describes and analyzes.",
+      "chosen_heading": "Wrestling Narrative",
+      "current_heading": "Wrestling Narrative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Non-Jew Narrative",
+    "candidates": [
+      "Non-Jew Narrative",
+      "Torah Sage Narrative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Shmuel bar Na\u1e25mani saying the angel appeared as a gentile and cites the ruling about positioning a gentile to one's right on the road, which is precisely what the 'Non-Jew Narrative' prose describes.",
+      "chosen_heading": "Non-Jew Narrative",
+      "current_heading": "Non-Jew Narrative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Torah Sage Narrative",
+    "candidates": [
+      "Torah Sage Narrative",
+      "Both Sides Moved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the angel appearing to Jacob as a Torah scholar and the etiquette of walking to the right of one's teacher, which exactly matches the 'Torah Sage Narrative' prose discussion.",
+      "chosen_heading": "Torah Sage Narrative",
+      "current_heading": "Torah Sage Narrative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Both Sides Moved",
+    "candidates": [
+      "Both Sides Moved",
+      "Nasheh: Moved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Both Sides Moved' prose, which explicitly discusses the Rabbis' view that the angel came from behind and hit both thighs, and then the Rabbis' reinterpretation of 'behe'avko imo' as referring to the dust rising to the throne of glory \u2014 precisely what both items contain.",
+      "chosen_heading": "Both Sides Moved",
+      "current_heading": "Both Sides Moved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Nasheh: Moved",
+    "candidates": [
+      "Nasheh: Moved",
+      "Jacob's Legacy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehoshua ben Levi's explanation that 'gid hanashe' means the sinew 'left its place and rose,' with the Jeremiah verse as proof \u2014 exactly what the 'Nasheh: Moved' section's prose describes.",
+      "chosen_heading": "Nasheh: Moved",
+      "current_heading": "Nasheh: Moved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Jacob's Legacy",
+    "candidates": [
+      "Jacob's Legacy",
+      "Joseph & Brothers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yosei bar Rabbi \u1e24anina's exposition of Isaiah 9:7 connecting the sciatic nerve prohibition to Jacob and its extension to all Israel, which is precisely what the 'Jacob's Legacy' prose describes.",
+      "chosen_heading": "Jacob's Legacy",
+      "current_heading": "Jacob's Legacy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Joseph & Brothers",
+    "candidates": [
+      "Joseph & Brothers",
+      "Small Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about Joseph instructing his steward to slaughter and prepare meat for his brothers, directly matching the 'Joseph & Brothers' section prose which discusses exactly this Gemara about gid hanasheh removal in their presence.",
+      "chosen_heading": "Joseph & Brothers",
+      "current_heading": "Joseph & Brothers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Small Vessels",
+    "candidates": [
+      "Small Vessels",
+      "Not Alone at Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Jacob returning for small pitchers and the lesson about righteous people's care for their possessions, which is exactly what the 'Small Vessels' section's prose discusses in detail.",
+      "chosen_heading": "Small Vessels",
+      "current_heading": "Small Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Not Alone at Night",
+    "candidates": [
+      "Not Alone at Night",
+      "Folded Geography",
+      "Sun Set & Rise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous discussion about the prohibition on Torah scholars going out alone at night, with multiple proof-texts (Jacob's wrestling, Ruth/Boaz, Abraham, Joseph, vayizrach) and Rabbi Akiva's question to Rabban Gamliel \u2014 all of which are explicitly described in the 'Not Alone at Night' prose.",
+      "chosen_heading": "Not Alone at Night",
+      "current_heading": "Not Alone at Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Sun Set & Rise",
+    "candidates": [
+      "Folded Geography",
+      "Sun Set & Rise",
+      "Gathering Stones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the Gemara's account of Jacob arriving in Charan, realizing he passed the place his fathers prayed, and the land contracting to bring him back (kefitzat haderech) \u2014 which is precisely what the 'Folded Geography' prose discusses, whereas the 'Sun Set & Rise' prose discusses the early sunset and early sunrise as a paired miracle, not the land-folding narrative.",
+      "chosen_heading": "Folded Geography",
+      "current_heading": "Sun Set & Rise",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Gathering Stones",
+    "candidates": [
+      "Sun Set & Rise",
+      "Gathering Stones",
+      "Ladder Width"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the contradiction between 'stones' (plural) and 'stone' (singular) and Rabbi Yitzchak's teaching that the stones gathered and merged into one, which is exactly what the 'Gathering Stones' section's prose describes.",
+      "chosen_heading": "Gathering Stones",
+      "current_heading": "Gathering Stones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Ladder Width",
+    "candidates": [
+      "Ladder Width",
+      "Jacob's Heavenly Image",
+      "God's Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together derive the width of the ladder (eight thousand parasangs) from the number of angels and the size of each angel \u2014 exactly what the 'Ladder Width' prose describes.",
+      "chosen_heading": "Ladder Width",
+      "current_heading": "Ladder Width",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "God's Protection",
+    "candidates": [
+      "Jacob's Heavenly Image",
+      "God's Protection",
+      "Land Folded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full narrative arc beginning with angels ascending/descending and gazing at Jacob's image, their jealousy, and wanting to harm him \u2014 content that matches heading 0's prose about the diyukan shel ma'alah and the angels' jealousy \u2014 while heading 1's prose begins exactly where the passage ends (God standing over Jacob), suggesting the passage belongs under heading 0, not its current placement under heading 1.",
+      "chosen_heading": "Jacob's Heavenly Image",
+      "current_heading": "God's Protection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Land Folded",
+    "candidates": [
+      "God's Protection",
+      "Land Folded",
+      "Final Opportunity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yitzchak's teaching about God folding Eretz Yisrael and placing it under Jacob, which is precisely what the 'Land Folded' section prose describes.",
+      "chosen_heading": "Land Folded",
+      "current_heading": "Land Folded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Final Opportunity",
+    "candidates": [
+      "Final Opportunity",
+      "Angels' Rotations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Jacob's challenge to the angel and the angel's explanation about waiting since creation to sing praise \u2014 exactly the content discussed in the 'Final Opportunity' prose, which directly paraphrases this exchange including the thief/gambler challenge and the angel's statement about never having had his turn until now.",
+      "chosen_heading": "Final Opportunity",
+      "current_heading": "Final Opportunity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Angels' Rotations",
+    "candidates": [
+      "Angels' Rotations",
+      "Israel vs. Angels",
+      "Three Kadoshes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the frequency of angelic song \u2014 item 1 establishes three groups singing daily (Rav \u1e24ananel/Rav) and item 2 raises the objection about how rarely angels sing (once a day through once in the world), which is precisely the content described in the 'Angels' Rotations' prose section.",
+      "chosen_heading": "Angels' Rotations",
+      "current_heading": "Angels' Rotations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Three Kadoshes",
+    "candidates": [
+      "Israel vs. Angels",
+      "Three Kadoshes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Israel mentioning God's name after two words vs. angels after three, and angels waiting for Israel to sing first \u2014 are precisely the content described in the 'Israel vs. Angels' prose, not in the 'Three Kadoshes' section which discusses the resolution of the apparent contradiction arising from this rule.",
+      "chosen_heading": "Israel vs. Angels",
+      "current_heading": "Three Kadoshes",
+      "moved": true
+    }
+  }
+]

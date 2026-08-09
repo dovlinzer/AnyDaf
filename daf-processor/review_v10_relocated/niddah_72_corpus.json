@@ -1,0 +1,242 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Shammai Strict View",
+    "candidates": [
+      "11-Day Period Context",
+      "Bleeding Day 11 Scenario",
+      "Beis Shammai v. Hillel",
+      "Night Immersion Case",
+      "Shammai Strict View",
+      "Hillel Lenient View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present the opening of the Mishnah describing the 'night immersion case' scenario (she immersed that evening and had relations), followed by Beit Shammai's ruling on that specific scenario \u2014 which is precisely what candidate 3 ('Night Immersion Case') describes as its first scenario, before the Shammai and Hillel views are elaborated in subsequent sections.",
+      "chosen_heading": "Night Immersion Case",
+      "current_heading": "Shammai Strict View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Hillel Lenient View",
+    "candidates": [
+      "Shammai Strict View",
+      "Hillel Lenient View",
+      "Day 12 Immersion",
+      "Post-Immersion Bleeding",
+      "Shammai Stringency Case",
+      "Hillel Gagging",
+      "Agreement Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states Beit Hillel's view that those who transmit impurity are exempt from bringing a sin offering, which directly matches the 'Hillel Lenient View' prose describing Beit Hillel's position that there is no biblical korban obligation.",
+      "chosen_heading": "Hillel Lenient View",
+      "current_heading": "Hillel Lenient View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Agreement Cases",
+    "candidates": [
+      "Day 12 Immersion",
+      "Post-Immersion Bleeding",
+      "Shammai Stringency Case",
+      "Hillel Gagging",
+      "Agreement Cases",
+      "Baraisa Intro",
+      "11-Day Agreement",
+      "Shammai Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Agreement Cases",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Mishnah cases discussing day-12 immersion, post-immersion bleeding, Beis Shammai's exemption from korban but rabbinic tumah, Beis Hillel's 'gargeran' comment, and the tarbus ra'ah case \u2014 all matching the prose of candidates 0-4 (the Mishnah section), while items 4-7 are the Gemara's baraita beginning with '\u05ea\u05e0\u05d5 \u05e8\u05d1\u05e0\u05df' which matches candidates 5-7.",
+      "second_heading": "Shammai Challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 are the baraita's systematic presentation culminating in the Beis Shammai challenge and Beis Hillel's response about the following day not combining for ziva, which precisely matches candidate 7's prose describing the Beis Shammai challenge and Beis Hillel's reply about yom achad asar.",
+      "current_heading": "Agreement Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Shammai Challenge",
+    "candidates": [
+      "Baraisa Intro",
+      "11-Day Agreement",
+      "Shammai Challenge",
+      "Hillel Response",
+      "Hillel Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Beit Shammai's challenge to Beit Hillel about applying their method equally across tumah and korban, which is precisely what the 'Shammai Challenge' section's prose describes.",
+      "chosen_heading": "Shammai Challenge",
+      "current_heading": "Shammai Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Hillel Counter",
+    "candidates": [
+      "Hillel Response",
+      "Hillel Counter",
+      "Rav Huna Claim",
+      "Yosef Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items contain Beit Hillel's counter-argument turning Beit Shammai's own position against them (ve-od midivreichem atem noshchim) and concluding with lehachmir velo lehakeil, which is precisely what the 'Hillel Counter' prose describes in detail.",
+      "chosen_heading": "Hillel Counter",
+      "current_heading": "Hillel Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Yosef Objection",
+    "candidates": [
+      "Rav Huna Claim",
+      "Yosef Objection",
+      "Kahana Response",
+      "Abaye Refinement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Huna's claim, Rav Yosef's objection that it's already in the mishna, and Rav Kahana's rebuttal distinguishing 'she saw' from 'she did not see' \u2014 form one continuous discussion of Rav Huna's extension of Beit Shammai's stringency, which is exactly what the 'Rav Huna Claim' section's prose describes as the gemara's scrutiny of that claim.",
+      "chosen_heading": "Rav Huna Claim",
+      "current_heading": "Yosef Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Abaye Refinement",
+    "candidates": [
+      "Kahana Response",
+      "Abaye Refinement",
+      "Zav Intro",
+      "Shammai Zav View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Yosef's objection that bleeding on day 12 is merely niddah-bleeding and Abaye's clarification of Rav Kahana's point distinguishing the case where she bled from the case where she did not \u2014 are precisely what the 'Abaye Refinement' prose describes, making the current placement correct.",
+      "chosen_heading": "Abaye Refinement",
+      "current_heading": "Abaye Refinement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Shammai Zav View",
+    "candidates": [
+      "Zav Intro",
+      "Shammai Zav View",
+      "Fluid Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna from Zavim stating the Beit Shammai/Beit Hillel dispute on a single zav sighting, which is precisely the introductory content described in the 'Zav Intro' prose, before the detailed analysis of each position begins.",
+      "chosen_heading": "Zav Intro",
+      "current_heading": "Shammai Zav View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Fluid Status",
+    "candidates": [
+      "Shammai Zav View",
+      "Fluid Status",
+      "Zav Proof",
+      "Sex Scenario",
+      "Stringency Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita about heseit (moving) the zav's first discharge and the status of mishkav u-moshav between the first and second sighting \u2014 exactly the content described in the 'Fluid Status' prose about whether the first zav fluid retroactively takes on zav character and the Beit Shammai/Beit Hillel dispute over tolim vs. tahor.",
+      "chosen_heading": "Fluid Status",
+      "current_heading": "Fluid Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Stringency Logic",
+    "candidates": [
+      "Zav Proof",
+      "Sex Scenario",
+      "Stringency Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items together form the complete sugyah of the zav proof \u2014 the baraita's first clause, Rav Huna's reinterpretation ('say rather bo'el shomeret yom'), and the subsequent questions and answers about why the man differs from the woman and why mishkav/moshav differs from bo'el \u2014 which is precisely what the 'Zav Proof' prose describes end-to-end, whereas 'Sex Scenario' and 'Stringency Logic' describe only sub-portions of this unified passage.",
+      "chosen_heading": "Zav Proof",
+      "current_heading": "Stringency Logic",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,229 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "R. Eliezer vs. Yehoshua",
+    "candidates": [
+      "Intro & Rabbi Meir",
+      "Pressed Figs Case",
+      "R. Eliezer vs. Yehoshua",
+      "Rabbi Yehuda's Version",
+      "Not Batel Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together constitute the full baraita presenting the pressed-figs scenario and the dispute between Rabbi Eliezer and Rabbi Yehoshua in both Rabbi Meir's and Rabbi Yehuda's versions \u2014 precisely the content described under heading 1 ('Pressed Figs Case'), which introduces the litra ketsiot scenario across multiple vessel types and the question of which container holds the terumah, whereas the current placement under heading 2 only covers part of the baraita.",
+      "chosen_heading": "Pressed Figs Case",
+      "current_heading": "R. Eliezer vs. Yehoshua",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Not Batel Conclusion",
+    "candidates": [
+      "Rabbi Yehuda's Version",
+      "Not Batel Conclusion",
+      "Rav Ashi's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Yehoshua's three-hundred-openings ruling and the pressed-into-a-circle case where everyone agrees it is nullified \u2014 are precisely what the 'Not Batel Conclusion' prose describes, including the spectrum of positions and the unanimous ruling when the location is unknown.",
+      "chosen_heading": "Not Batel Conclusion",
+      "current_heading": "Not Batel Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rav Ashi's Answer",
+    "candidates": [
+      "Rav Ashi's Answer",
+      "Individual Cows & Rov",
+      "Kol Kavua Principle",
+      "Stores Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Ashi's answer that living creatures are significant and not nullified, which matches exactly the prose under 'Rav Ashi's Answer' (candidate 0).",
+      "chosen_heading": "Rav Ashi's Answer",
+      "current_heading": "Rav Ashi's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Stores Example",
+    "candidates": [
+      "Individual Cows & Rov",
+      "Kol Kavua Principle",
+      "Stores Example",
+      "Scatter Proposal",
+      "Rava's Simultaneity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Individual Cows & Rov",
+      "first_confidence": "high",
+      "first_reason": "Item 1 proposes drawing out an individual cow and applying kol de-parish me-rubba parish, which is exactly what candidate 0 ('Individual Cows & Rov') describes in its prose.",
+      "second_heading": "Kol Kavua Principle",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the kol kavua principle and then the scatter proposal (nichbishinhu de-naidi), matching candidate 1 ('Kol Kavua Principle') which discusses the rejection of the draw-out proposal on kavua grounds, and the scatter solution is the subject of candidate 3 \u2014 but the kavua rejection comes first and item 2 opens with that rejection, so candidate 1 is the best fit for item 2's opening content.",
+      "current_heading": "Stores Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Rava's Simultaneity",
+    "candidates": [
+      "Scatter Proposal",
+      "Rava's Simultaneity",
+      "Basin Objection",
+      "Gemara's Reformulation",
+      "Likelihood Question",
+      "Rava's Gezerah",
+      "Not Accepted",
+      "Mixed Birds Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous exchange about the basin objection and its resolution \u2014 Item 1 is Rava's decree concern, Item 2 is the basin objection raised against it, and Item 3 is Rava's reformulation in response \u2014 which precisely matches the 'Basin Objection' prose describing how the rabanan challenges Rava's reasoning and how the status of each animal should be assessed individually at the time of taking.",
+      "chosen_heading": "Basin Objection",
+      "current_heading": "Rava's Simultaneity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Mixed Birds Mishna",
+    "candidates": [
+      "Basin Objection",
+      "Gemara's Reformulation",
+      "Likelihood Question",
+      "Rava's Gezerah",
+      "Not Accepted",
+      "Mixed Birds Mishna",
+      "Priest Consults",
+      "Priest Acts Alone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement that if one offers the animals despite the rabbinic prohibition it does not effect acceptance (lo meratzei), which is precisely what candidate 4 ('Not Accepted') describes in its prose, and the challenge from Rav Huna bar Yehuda about the mixed birds mishna is introduced here as the objection that follows that ruling \u2014 the current placement under 'Mixed Birds Mishna' splits what should be a single unit that begins with Rava's ruling.",
+      "chosen_heading": "Not Accepted",
+      "current_heading": "Mixed Birds Mishna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Priest Acts Alone",
+    "candidates": [
+      "Priest Consults",
+      "Priest Acts Alone",
+      "Two Nadchin Views",
+      "Nadcha V'Nir'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the mishna's ruling about a priest who did not consult (kohein she-eino nimlach), detailing the cases of all above, all below, and one above/one below \u2014 exactly the content discussed in the 'Priest Acts Alone' prose.",
+      "chosen_heading": "Priest Acts Alone",
+      "current_heading": "Priest Acts Alone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Nadcha V'Nir'ah",
+    "candidates": [
+      "Two Nadchin Views",
+      "Nadcha V'Nir'ah",
+      "One Head Offered"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the tannaic dispute resolution ('ha ke-man de-amar ba'alei chayim nidchin, ha ke-man de-amar ba'alei chayim einam nidchin'), which is precisely what heading 0 ('Two Nadchin Views') describes in its prose.",
+      "chosen_heading": "Two Nadchin Views",
+      "current_heading": "Nadcha V'Nir'ah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "One Head Offered",
+    "candidates": [
+      "Nadcha V'Nir'ah",
+      "One Head Offered",
+      "Two Goats Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the slaughtered heads case and Rabbi Eliezer's ruling about offering one head licensing the rest \u2014 exactly what the 'One Head Offered' prose describes, including the challenge about slaughtered items being universally nidchin and Rabbi Eliezer's response via the mixture of blemished/unblemished olot heads.",
+      "chosen_heading": "One Head Offered",
+      "current_heading": "One Head Offered",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Two Goats Case",
+    "candidates": [
+      "Two Goats Case",
+      "Rava vs. Others"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains \u1e24anan the Egyptian's ruling about the two Yom Kippur goats and the blood in the cup, which is precisely what the 'Two Goats Case' prose section discusses in detail.",
+      "chosen_heading": "Two Goats Case",
+      "current_heading": "Two Goats Case",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,269 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Ulla's Independence",
+    "candidates": [
+      "Ulla's Independence",
+      "Shida Measurement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 7 items are part of the Gemara's systematic elimination of possible anchors for Ulla/Rabbi \u1e24anina's independent ruling about Rabbi Shimon Shezuri, which is precisely what candidate 0's prose describes \u2014 testing each candidate case and rejecting it because another amora had already ruled on it.",
+      "chosen_heading": "Ulla's Independence",
+      "current_heading": "Ulla's Independence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Shida Measurement",
+    "candidates": [
+      "Shida Measurement",
+      "Legs & Space"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rav Pappa's interpretation that Rabbi \u1e24anina's statement concerns a chest (shida) and cite the Mishnah in Kelim about how the chest is measured \u2014 Beit Shammai from inside, Beit Hillel from outside \u2014 which is precisely the content of the 'Shida Measurement' section's prose.",
+      "chosen_heading": "Shida Measurement",
+      "current_heading": "Shida Measurement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Legs & Space",
+    "candidates": [
+      "Legs & Space",
+      "Solidified Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yosei and Rabbi Shimon Shezuri's dispute about measuring legs and the space between them, which is precisely the topic discussed in the 'Legs & Space' prose section.",
+      "chosen_heading": "Legs & Space",
+      "current_heading": "Legs & Space",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Solidified Wine",
+    "candidates": [
+      "Solidified Wine",
+      "Mixed Tevel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Mishnah in Taharot about whether oil, honey, and wine are considered liquids for tumah purposes, and the reinterpretation of Rabbi Shimon Shezuri's statement \u2014 exactly what the 'Solidified Wine' section's prose describes.",
+      "chosen_heading": "Solidified Wine",
+      "current_heading": "Solidified Wine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Mixed Tevel",
+    "candidates": [
+      "Mixed Tevel",
+      "Mixed Case Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form the continuous Gemara discussion of Rabbi Shimon Shezuri's case of tevel mixed with chulin and Rabbi Tarfon's solution, including the alternative versions, which is precisely what the 'Mixed Tevel' prose describes in detail.",
+      "chosen_heading": "Mixed Tevel",
+      "current_heading": "Mixed Tevel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Mixed Case Query",
+    "candidates": [
+      "Mixed Case Query",
+      "Mishnah & Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the question sent by Rav Yeimar bar Shelamya to Rav Pappa asking whether the general ruling about Rabbi Shimon Shezuri extends to the tevel/chulin mixture case, which matches the 'Mixed Case Query' prose exactly, while candidate 1 describes Rav Pappa's answer and subsequent discussion.",
+      "chosen_heading": "Mixed Case Query",
+      "current_heading": "Mixed Case Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Mishnah & Baraita",
+    "candidates": [
+      "Mishnah & Baraita",
+      "Two-Line Tears",
+      "Three-Line Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the continuation of the Rabbi Shimon Shezuri/Ulla discussion \u2014 Rabbi Chanina of Sura's objection and its resolution \u2014 which is precisely what the 'Mishnah & Baraita' prose describes.",
+      "chosen_heading": "Mishnah & Baraita",
+      "current_heading": "Mishnah & Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Three-Line Limit",
+    "candidates": [
+      "Two-Line Tears",
+      "Three-Line Limit",
+      "Gall Nut Treatment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the three-line tear ruling and Rava's qualification about old vs. new parchment, which is precisely what the 'Three-Line Limit' section's prose discusses.",
+      "chosen_heading": "Three-Line Limit",
+      "current_heading": "Three-Line Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Gall Nut Treatment",
+    "candidates": [
+      "Gall Nut Treatment",
+      "Catgut Requirement",
+      "Between Lines"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the gall-nut distinction (briefly) and the sinew vs. thread requirement, but its concluding and most specific ruling \u2014 that sewing is valid only with sinew (gidin) and not with thread (gradin) \u2014 is precisely what Candidate 1 ('Catgut Requirement') discusses in its prose.",
+      "chosen_heading": "Catgut Requirement",
+      "current_heading": "Gall Nut Treatment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Between Lines",
+    "candidates": [
+      "Catgut Requirement",
+      "Between Lines",
+      "Two Per Line",
+      "2-3-1 Pattern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rav Yehuda bar Abba dilemma about tears between columns (bein daf le-daf) and between lines (bein shita le-shita), which is precisely what the 'Between Lines' section prose describes.",
+      "chosen_heading": "Between Lines",
+      "current_heading": "Between Lines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "2-3-1 Pattern",
+    "candidates": [
+      "Two Per Line",
+      "2-3-1 Pattern",
+      "Avoid Tent/Tail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the two-per-line ruling AND the 2-3-1 pattern question with the shira comparison and baraita resolution, all of which are discussed together in candidate 1's prose, making it the best match for the complete passage.",
+      "chosen_heading": "2-3-1 Pattern",
+      "current_heading": "2-3-1 Pattern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Avoid Tent/Tail",
+    "candidates": [
+      "Avoid Tent/Tail",
+      "Al Ha'aretz",
+      "Positioning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the mezuza written with lines of 2-3-1 words and the two conditions against tent (kuvah) and tail (zanav) shapes, which is precisely what the 'Avoid Tent/Tail' section's prose addresses.",
+      "chosen_heading": "Avoid Tent/Tail",
+      "current_heading": "Avoid Tent/Tail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Positioning",
+    "candidates": [
+      "Al Ha'aretz",
+      "Positioning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rav \u1e24isda's ruling on where to write 'al ha'aretz' on the final line and the two opinions about its exact positioning, which is precisely what candidate 1 ('Positioning') discusses in its prose.",
+      "chosen_heading": "Positioning",
+      "current_heading": "Positioning",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Glass vs Metal/Wood",
+    "candidates": [
+      "Sand Similarity",
+      "Earthenware Model",
+      "Metal Model",
+      "Glass vs Metal/Wood",
+      "Anomalies Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes and contrasts the Mishnah on metal vessels (tumah yeshanah returning) with the Mishnah on glass/wood/bone vessels (tumah only from that point forward), which is exactly the second anomaly described in the 'Glass vs Metal/Wood' section's prose.",
+      "chosen_heading": "Glass vs Metal/Wood",
+      "current_heading": "Glass vs Metal/Wood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Anomalies Solution",
+    "candidates": [
+      "Anomalies Solution",
+      "Transparency Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the two anomalies (old tumah not reverting and the beit kibul requirement) that the 'Anomalies Solution' prose explicitly discusses, matching the Gemara's answers about rabbinic-on-rabbinic decree and the heikera distinction to prevent burning teruma.",
+      "chosen_heading": "Anomalies Solution",
+      "current_heading": "Anomalies Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Transparency Theory",
+    "candidates": [
+      "Transparency Theory",
+      "Kashering Glass",
+      "Ketubah Takana",
+      "Metal Recontamination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's statement that glass vessels are likened to earthenware and the principle of 'tocho k'varo' (its inner side looks like its outer side), which is exactly what the 'Transparency Theory' prose discusses in detail.",
+      "chosen_heading": "Transparency Theory",
+      "current_heading": "Transparency Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Metal Recontamination",
+    "candidates": [
+      "Kashering Glass",
+      "Ketubah Takana",
+      "Metal Recontamination",
+      "Sheltzion Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage opens with Shimon ben Shata\u1e25 instituting the kesubah AND decreeing tumah on metal vessels \u2014 its content spans both takanot, but the kesubah mention at the start places it as the opening of the section that introduces both takanot together, which matches the 'Ketubah Takana' prose that introduces Shimon ben Shatach's two takanot and explicitly notes the kesubah takana before pivoting to the metal vessel decree.",
+      "chosen_heading": "Ketubah Takana",
+      "current_heading": "Metal Recontamination",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Sheltzion Story",
+    "candidates": [
+      "Metal Recontamination",
+      "Sheltzion Story",
+      "Parah Adumah Logic",
+      "Abaye & Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains the reason (mai ta'ama) for the decree as being due to a fence protecting the institution of parah adumah waters, which is precisely what the 'Parah Adumah Logic' section's prose discusses.",
+      "chosen_heading": "Parah Adumah Logic",
+      "current_heading": "Sheltzion Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Abaye & Rava",
+    "candidates": [
+      "Parah Adumah Logic",
+      "Abaye & Rava",
+      "Return to 18",
+      "Drainpipe Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the challenge to the 'all tumot' view, Abaye's rationale, and Rava's rationale with the nafka mina \u2014 are precisely the content described in candidate 1's prose under 'Abaye & Rava', where the essay author explicitly discusses both Abaye's gezeirah and Rava's gezeirah along with the practical difference between them.",
+      "chosen_heading": "Abaye & Rava",
+      "current_heading": "Abaye & Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Drainpipe Vessels",
+    "candidates": [
+      "Return to 18",
+      "Drainpipe Vessels",
+      "Shammai Position",
+      "Hillel Position",
+      "Intent Continuity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself about placing vessels under the drainpipe, covering the core ruling about drawn water invalidating a mikveh and the Beit Shammai/Beit Hillel dispute, which matches the 'Drainpipe Vessels' section prose that introduces and explains this exact Mishnah.",
+      "chosen_heading": "Drainpipe Vessels",
+      "current_heading": "Drainpipe Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Intent Continuity",
+    "candidates": [
+      "Shammai Position",
+      "Hillel Position",
+      "Intent Continuity",
+      "Kutim Niddah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the three-way distinction (massing/dispersal/massing-then-dispersal of clouds) and the debate about whether intent is nullified by an interval, which is precisely what the 'Intent Continuity' section's prose describes.",
+      "chosen_heading": "Intent Continuity",
+      "current_heading": "Intent Continuity",
+      "moved": false
+    }
+  }
+]

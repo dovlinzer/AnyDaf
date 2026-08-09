@@ -1,0 +1,316 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Brother's Seduction",
+    "candidates": [
+      "Ad Hominem Fallacy",
+      "Daily Opening",
+      "Shammai & Hillel",
+      "Brother's Seduction",
+      "Yichud Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rabbi Yochanan/Rabbi Shimon ben Yehotzadak teaching about the Torah allusion to yichud, which is precisely what the 'Brother's Seduction' prose describes in detail.",
+      "chosen_heading": "Brother's Seduction",
+      "current_heading": "Brother's Seduction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Yichud Levels",
+    "candidates": [
+      "Yichud Levels",
+      "Yichud Non-Jews",
+      "Euphemism Usage",
+      "Non-Jewish Boys"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the layered prohibitions of yichud \u2014 Torah-level with married women, David's decree for unmarried women, and Beit Shammai/Hillel for gentile women \u2014 which is exactly what the 'Yichud Levels' prose section discusses.",
+      "chosen_heading": "Yichud Levels",
+      "current_heading": "Yichud Levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Non-Jewish Boys",
+    "candidates": [
+      "Yichud Non-Jews",
+      "Euphemism Usage",
+      "Non-Jewish Boys",
+      "Age Tradition Chain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly answers the question 'what is davar acher mishum davar acher?' \u2014 the euphemism \u2014 which is precisely what the 'Euphemism Usage' section's prose sets up, asking what the euphemism davar acher mishum davar acher points to.",
+      "chosen_heading": "Euphemism Usage",
+      "current_heading": "Non-Jewish Boys",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Age Tradition Chain",
+    "candidates": [
+      "Non-Jewish Boys",
+      "Age Tradition Chain",
+      "Rabbi Chiya's Age"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the chain of transmission (Zeira\u2192Asi\u2192Yochanan\u2192Yannai\u2192Natan ben Amram\u2192Rebbi) and the question about age of ziva impurity for a non-Jewish child, which is exactly what the 'Age Tradition Chain' prose describes and discusses.",
+      "chosen_heading": "Age Tradition Chain",
+      "current_heading": "Age Tradition Chain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Rabbi Chiya's Age",
+    "candidates": [
+      "Rabbi Chiya's Age",
+      "Ravina Girls"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Chiya's Age",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Rabbi Yehuda HaNasi deferring to Rabbi Chiya's ruling about a nine-year-old boy, which is exactly what heading 0's prose discusses.",
+      "second_heading": "Ravina Girls",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ravina's extension of the same logic to a three-year-old gentile girl, which is precisely what heading 1's prose discusses.",
+      "current_heading": "Rabbi Chiya's Age",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Ravina Girls",
+    "candidates": [
+      "Ravina Girls",
+      "Rabbi Yehuda Nesi'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Ravina's ruling about non-Jewish girls and the Gemara's objection/response about argulei (enticement), which is precisely what the 'Ravina Girls' section prose describes.",
+      "chosen_heading": "Ravina Girls",
+      "current_heading": "Ravina Girls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rabbi Yehuda Nesi'ah",
+    "candidates": [
+      "Rabbi Yehuda Nesi'ah",
+      "Yosef Sharya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact interaction between Rabbi Yehuda Nesia and Rabbi Simlai about permitting oil and the concern about being called a permissive court, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Rabbi Yehuda Nesi'ah",
+      "current_heading": "Rabbi Yehuda Nesi'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Yosef Sharya",
+    "candidates": [
+      "Yosef Sharya",
+      "Conditional Get",
+      "HaNasi Rejected",
+      "Nesi'ah Permits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the dialogue where Rabbi Simlai points out the arithmetic of permissive rulings (three vs. one/two) and Rabbi Yehuda Nesia reveals he has already permitted another matter, ending with 'mai hi?' \u2014 which is precisely what the prose under 'Yosef Sharya' describes.",
+      "chosen_heading": "Yosef Sharya",
+      "current_heading": "Yosef Sharya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Nesi'ah Permits",
+    "candidates": [
+      "Conditional Get",
+      "HaNasi Rejected",
+      "Nesi'ah Permits",
+      "M'nat vs Ki"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the conditional get case (Gittin 76b mishna) \u2014 item 1 introduces the mishna, item 2 explains the court's reasoning via Rabbi Yosei, and item 3 asks a follow-up question about timing \u2014 and the 'Conditional Get' heading's prose explicitly discusses this very mishna (ze gittech im lo bati) and its ruling, making it the best match; the current placement under 'Nesi'ah Permits' is plausible but that heading's prose already covers this material as background, while the 'Conditional Get' heading is the primary home for this mishna and its surrounding discussion.",
+      "chosen_heading": "Conditional Get",
+      "current_heading": "Nesi'ah Permits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "M'nat vs Ki",
+    "candidates": [
+      "Nesi'ah Permits",
+      "M'nat vs Ki",
+      "Shtar Date",
+      "Ayal Kamtza"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Nesi'ah Permits",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 concern the dilemma about when a get takes effect when a husband dies within twelve months, directly matching the 'Nesi'ah Permits' section's discussion of the court ruling and the condition fulfillment question.",
+      "second_heading": "M'nat vs Ki",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 discuss Abaye's distinctions between 'l'chi nafka' vs 'al m'nat' and the 'im' dispute, which precisely matches the 'M'nat vs Ki' section's prose about Abaye's ruling, Rav Huna's principle, and the disagreement over the word 'im'.",
+      "current_heading": "M'nat vs Ki",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Ayal Kamtza",
+    "candidates": [
+      "Shtar Date",
+      "Ayal Kamtza",
+      "Temple Liquids"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the identity of the eil kamtza locust and the dispute between Rav Pappa and Rav Chiyya bar Ami regarding long-headed locusts and wing coverage, which is precisely what the 'Ayal Kamtza' section's prose covers in detail.",
+      "chosen_heading": "Ayal Kamtza",
+      "current_heading": "Ayal Kamtza",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Temple Liquids",
+    "candidates": [
+      "Temple Liquids",
+      "Corpse Impurity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the dispute between Rav and Shmuel regarding the ritual purity of Temple slaughterhouse liquids, which is precisely what the 'Temple Liquids' prose section discusses in detail.",
+      "chosen_heading": "Temple Liquids",
+      "current_heading": "Temple Liquids",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Corpse Impurity",
+    "candidates": [
+      "Corpse Impurity",
+      "Reshut Distinction",
+      "Waters Shik'ata"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Corpse Impurity",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 cover the corpse-impurity rulings, the de'oraita/rabbinic decree distinctions, and the chiburin/lo-chiburin analysis, all of which are explicitly discussed in the 'Corpse Impurity' prose.",
+      "second_heading": "Reshut Distinction",
+      "second_confidence": "high",
+      "second_reason": "Items 7-9 pivot to the new topic of safek tumah birshut harabim \u2014 Rava's correction of the Rav Nachman attribution, the actual ruling about uncertain impurity in a public domain, and Rabbi Yochanan's 'halacha v'ein morin kein' \u2014 which matches exactly the 'Reshut Distinction' prose.",
+      "current_heading": "Corpse Impurity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Waters Shik'ata",
+    "candidates": [
+      "Reshut Distinction",
+      "Waters Shik'ata",
+      "Rivers Tevilah",
+      "Shlukos Definition",
+      "Bishul Akum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the prose in candidate 1, which explicitly describes Rabbi Yehuda driving stakes/boards to mark the boundary and Rabbi Yannai's ruling about the shik'ata waters \u2014 matching the baraita and Gemara narrative in the passage exactly.",
+      "chosen_heading": "Waters Shik'ata",
+      "current_heading": "Waters Shik'ata",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Admission vs. Obligation",
+    "candidates": [
+      "Admission vs. Obligation",
+      "Knas vs. Mammon",
+      "Rabbah bar Ilai on Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the core dispute between Rav and Shmuel about modeh b'knas followed by witnesses, which is precisely what the 'Admission vs. Obligation' section's prose describes as its opening formal statement.",
+      "chosen_heading": "Admission vs. Obligation",
+      "current_heading": "Admission vs. Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Rabbah bar Ilai on Rav",
+    "candidates": [
+      "Knas vs. Mammon",
+      "Rabbah bar Ilai on Rav",
+      "Shmuel's Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the argument described in the 'Rabbah bar Ilai on Rav' prose: item 1 gives Rava bar Ahilai's derivation of Rav's ruling from the doubled verb, and item 2 is the follow-up question (why need a second source when asher yarshi'un already teaches this?) leading to the conclusion that modeh b'knas v'achar kach ba'u edim patur \u2014 precisely what that section's prose describes.",
+      "chosen_heading": "Rabbah bar Ilai on Rav",
+      "current_heading": "Rabbah bar Ilai on Rav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Shmuel's Counter",
+    "candidates": [
+      "Shmuel's Counter",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's counter-reading using the Tanna de'bei Chizkiyahu, which is precisely what the 'Shmuel's Counter' prose describes.",
+      "chosen_heading": "Shmuel's Counter",
+      "current_heading": "Shmuel's Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Case Setup",
+      "Rav's Proof",
+      "Shmuel's Defense",
+      "R. Elazar's Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav's objection from the baraita and Shmuel's reinterpretation, matching 'Rav's Proof' which discusses this exact exchange \u2014 but actually it covers both Rav's proof AND Shmuel's defense; however, since the passage begins with Rav raising the objection and the prose of candidate 1 explicitly describes Rav reading this baraita as proof, while candidate 2 covers Shmuel's deflection separately, the passage as a whole (containing both the challenge and the response) is best placed under candidate 1 as the initiating section, though candidate 2's prose also matches the second half \u2014 given the passage is one unit, candidate 1 is the better fit as it introduces the baraita that then prompts Shmuel's response.",
+      "chosen_heading": "Rav's Proof",
+      "current_heading": "Case Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "R. Elazar's Opinion",
+    "candidates": [
+      "Rav's Proof",
+      "Shmuel's Defense",
+      "R. Elazar's Opinion",
+      "Tana Kama vs. R. Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute the inference from Rabbi Elazar b'Rabbi Shimon's dissent that the tana kama holds modeh b'knas patur, and Shmuel's explicit alignment with Rabbi Elazar b'Rabbi Shimon \u2014 precisely what candidate 3 ('Tana Kama vs. R. Elazar') describes in its prose.",
+      "chosen_heading": "Tana Kama vs. R. Elazar",
+      "current_heading": "R. Elazar's Opinion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Tana Kama vs. R. Elazar",
+    "candidates": [
+      "R. Elazar's Opinion",
+      "Tana Kama vs. R. Elazar",
+      "Rav's Refinement",
+      "Demodei Me'Anfsheih",
+      "R. Elazar Concedes",
+      "Obligation in Principal",
+      "Incentive Theory",
+      "Theft vs. Shechita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether Shmuel and Rav are each committed to a machlokes tana'im, which is precisely what the 'Tana Kama vs. R. Elazar' section's prose discusses \u2014 the gemara's question of whether Rav is similarly forced to acknowledge a tannaitic dispute.",
+      "chosen_heading": "Tana Kama vs. R. Elazar",
+      "current_heading": "Tana Kama vs. R. Elazar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Theft vs. Shechita",
+    "candidates": [
+      "Rav's Refinement",
+      "Demodei Me'Anfsheih",
+      "R. Elazar Concedes",
+      "Obligation in Principal",
+      "Incentive Theory",
+      "Theft vs. Shechita",
+      "Rabban Gamliel & Tavi",
+      "Pure Exemption Problem",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Elazar Concedes",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav's conclusion that even Rabbi Elazar b'Rabbi Shimon concedes in a case of genuine self-motivated admission, which is precisely what heading 2 ('R. Elazar Concedes') describes.",
+      "second_heading": "Obligation in Principal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Hamnuna's refinement that Rav's position is most reasonable where the admission obligates the confessor in the principal (keren), which is exactly what heading 3 ('Obligation in Principal') discusses.",
+      "current_heading": "Theft vs. Shechita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Rabban Gamliel & Tavi",
+      "Pure Exemption Problem",
+      "Rava's Position",
+      "Admission + Principal"
+    ],
+    "result": {
+      "best_index": 1,
+      "action": "single",
+      "chosen_heading": "Pure Exemption Problem",
+      "current_heading": "Rava's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Admission + Principal",
+    "candidates": [
+      "Admission + Principal",
+      "Admission Without Kinyan",
+      "R. Yochanan's Authority",
+      "Mishnah's Specificity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yochanan's full ruling covering both the exempt case (ganavti + witnesses = patur) and the liable case, and the current heading's prose explicitly describes this same statement from Rabbi Chiya bar Abba in Rabbi Yochanan's name, tracking the ganavti/patur distinction \u2014 the current placement is correct.",
+      "chosen_heading": "Admission + Principal",
+      "current_heading": "Admission + Principal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Mishnah's Specificity",
+    "candidates": [
+      "Admission Without Kinyan",
+      "R. Yochanan's Authority",
+      "Mishnah's Specificity",
+      "Admission = One Witness",
+      "No Principal, No Exempt"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mishnah's Specificity",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 match heading 2's prose precisely: Rav Ashi introduces the mishna's specific construction (ganav al pi shnayim, shechita al pi ed echad/atzmo) and asks why the mishna needed the two-witness theft setup rather than a simpler formulation.",
+      "second_heading": "No Principal, No Exempt",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 match heading 4's prose precisely: they explain that the mishna constructed the case around shechita/mechira specifically because the admission there carries no keren obligation, making al pi atzmo parallel to al pi ed echad in that neither obligates nor exempts.",
+      "current_heading": "Mishnah's Specificity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "No Principal, No Exempt",
+    "candidates": [
+      "Admission = One Witness",
+      "No Principal, No Exempt",
+      "With Principal = Exempts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the case where the thief admitted to the geneivah itself (ganav ve'tavach u'machar al pi atzmo), obligating himself in the keren, and explains why in that case we do NOT say al pi atzmo is similar to al pi ed echad \u2014 which is precisely what candidate 2's prose describes as the contrasting scenario where admission to geneivah carries a keren obligation and thus warrants exemption.",
+      "chosen_heading": "With Principal = Exempts",
+      "current_heading": "No Principal, No Exempt",
+      "moved": true
+    }
+  }
+]

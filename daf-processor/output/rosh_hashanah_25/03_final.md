@@ -1,11 +1,14 @@
-# Rosh Hashanah 25 — Daf Yomi Shiur
+[DAF:25a]
+## False Witnesses & Moon
 
-## False Witnesses & Authority
+
 
 ### Morning & Evening
 
-> **Hebrew/Aramaic:** וְעַרְבִית בַּמַּעֲרָב. אָמַר רַבִּי יוֹחָנָן בֶּן נוּרִי: עֵדֵי שֶׁקֶר הֵם. כְּשֶׁבָּאוּ לְיַבְנֶה קִיבְּלָן רַבָּן גַּמְלִיאֵל.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ מַעֲשֶׂה שֶׁבָּאוּ שְׁנַיִם וְאָמְרוּ: רְאִינוּהוּ שַׁחֲרִית בַּמִּזְרָח,
+> **Translation:** MISHNA: There was **an incident** in **which two** witnesses **came** to testify about the new moon, **and they said: We saw** the waning moon **in the morning in the east,**
+
+> **Hebrew/Aramaic:** וְעַרְבִית בַּמַּעֲרָב. אָמַר רַבִּי יוֹחָנָן בֶּן נוּרִי: עֵדֵי שֶׁקֶר הֵם. כְּשֶׁבָּאוּ לְיַבְנֶה קִיבְּלָן רַבָּן גַּמְלִיאֵל.
 > **Translation:** **and** that same day we saw the new moon **in the evening in the west. Rabbi Yoḥanan ben Nuri said: They are false witnesses,** as it is impossible to see the new moon so soon after the last sighting of the waning moon. However, **when they arrived in Yavne, Rabban Gamliel accepted them** as witnesses without concern.
 
 The *mishnah* at the bottom of 27b opens a fascinating series of stories that bring the *perek* to a close. The case involves two witnesses who came and testified: *reinuhu shacharit bamizrach* — we saw it in the morning in the east, meaning the old moon still visible before sunrise, *vearavit bamaarav* — and in the evening in the west, meaning the new moon appearing just after sunset. On its face, this sounds precisely like what one would expect: the old moon visible in the eastern sky before dawn, and the new moon glimpsed in the western sky at dusk.
@@ -14,24 +17,15 @@ The problem, however, is astronomical. As the *daf* has established in the prece
 
 ### Impossibility Objection
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן בֶּן נוּרִי: עֵדֵי שֶׁקֶר הֵם.
->
-> **Translation:** **Rabbi Yoḥanan ben Nuri said: They are false witnesses.**
-
 *Amar Rabbi Yochanan ben Nuri*: *ede sheker hem* — these witnesses are giving false testimony. Whether they were intentionally lying or had simply misidentified what they saw, it is astronomically impossible for both observations to be true. Notably, the *mishnah* indicates that some prior inspection of the witnesses occurred — seemingly by Rabbi Yochanan ben Nuri — before they were forwarded to Yavne.
 
 ### Gamliel Accepts
-
-> **Hebrew/Aramaic:** כְּשֶׁבָּאוּ לְיַבְנֶה קִיבְּלָן רַבָּן גַּמְלִיאֵל.
->
-> **Translation:** However, **when they arrived in Yavne, Rabban Gamliel accepted them** as witnesses without concern.
 
 Despite this, *vekiblam Rabban Gamliel* — Rabban Gamliel accepted their testimony. This is a striking datum: even in the face of apparent astronomical impossibility, Rabban Gamliel was willing to validate what the witnesses reported.
 
 ### Seen Then Unseen
 
-> **Hebrew/Aramaic:** וְעוֹד, בָּאוּ שְׁנַיִם וְאָמְרוּ: רְאִינוּהוּ בִּזְמַנּוֹ, וּבְלֵיל עִיבּוּרוֹ לֹא נִרְאָה, וְקִיבְּלָן רַבָּן גַּמְלִיאֵל.
->
+> **Hebrew/Aramaic:** וְעוֹד, בָּאוּ שְׁנַיִם וְאָמְרוּ: רְאִינוּהוּ בִּזְמַנּוֹ, וּבְלֵיל עִיבּוּרוֹ לֹא נִרְאָה, וְקִיבְּלָן רַבָּן גַּמְלִיאֵל.
 > **Translation:** **And** there was **another** incident in which **two** witnesses **came and said: We saw** the new moon **at its** anticipated **time,** i.e., on the night of the thirtieth day of the previous month; however, **on the** following **night,** i.e., the start of the thirty-first, which is often the determinant of **a full,** thirty-day month, **it was not seen. And** nevertheless **Rabban Gamliel accepted their** testimony and established the New Moon on the thirtieth day.
 
 A second case follows. Two witnesses reported: *reinuhu bizmano* — we saw it in its time, meaning on the night of the thirtieth day, which would make that day *Rosh Chodesh* — *uveleil iburo lo nira* — and on the following night, the night of the thirty-first, it was not seen. This case does not even require an astronomical diagram. If the new moon was genuinely sighted on the night of the thirtieth, it should certainly be visible the following night as well. And once again, *vekiblan Rabban Gamliel* — Rabban Gamliel accepted this testimony.
@@ -40,11 +34,10 @@ A closer reading of the language, however, raises the question of whether the se
 
 ### Pregnant Woman
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי דּוֹסָא בֶּן הוֹרְכִּינָס: עֵדֵי שֶׁקֶר הֵן, הֵיאַךְ מְעִידִים עַל הָאִשָּׁה שֶׁיָּלְדָה וּלְמָחָר כְּרֵיסָהּ בֵּין שִׁינֶּיהָ?
->
-> **Translation:** **Rabbi Dosa ben Horkinas** disagreed and **said: They are false witnesses; how can** witnesses **testify that a woman gave birth and the next day her belly is between her teeth,** i.e., she is obviously still pregnant?
-
 *Amar Rabbi Dosa ben Horkinas*: *ede sheker hem* — they must be lying. His objection is delivered with graphic force: *Hech meidin al isha sheyalda ulemachar kreisa bein shineiha* — how can you testify that a woman gave birth, and the next day her pregnant belly is jutting out between her teeth? If the moon truly gave birth to a new month on the first night, how is it possible that the very next night there is no moon to be seen?
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי דּוֹסָא בֶּן הוֹרְכִּינָס: עֵדֵי שֶׁקֶר הֵן, הֵיאַךְ מְעִידִים עַל הָאִשָּׁה שֶׁיָּלְדָה וּלְמָחָר כְּרֵיסָהּ בֵּין שִׁינֶּיהָ? אָמַר לוֹ רַבִּי יְהוֹשֻׁעַ: רוֹאֶה אֲנִי אֶת דְּבָרֶיךָ. שָׁלַח לוֹ רַבָּן גַּמְלִיאֵל: גּוֹזְרַנִי עָלֶיךָ שֶׁתָּבֹא אֶצְלִי בְּמַקֶּלְךָ וּבִמְעוֹתֶיךָ בְּיוֹם הַכִּפּוּרִים שֶׁחָל לִהְיוֹת בְּחֶשְׁבּוֹנֶךָ.
+> **Translation:** **Rabbi Dosa ben Horkinas** disagreed and **said: They are false witnesses; how can** witnesses **testify that a woman gave birth and the next day her belly is between her teeth,** i.e., she is obviously still pregnant? If the new moon was already visible at its anticipated time, how could it not be seen a day later? **Rabbi Yehoshua said to him: I see** the logic of **your statement;** the New Moon must be established a day later. Upon hearing that Rabbi Yehoshua had challenged his ruling, **Rabban Gamliel sent** a message **to him: I decree against you that you** must **appear before me with your staff and with your money on** the day on which **Yom Kippur occurs according to your calculation;** according to my calculation, that day is the eleventh of Tishrei, the day after Yom Kippur.
 
 ### Retroactive Annulment
 
@@ -52,21 +45,16 @@ The story at this point raises two intertwined questions. The first is practical
 
 ### Political Confrontation
 
-> **Hebrew/Aramaic:** אָמַר לוֹ רַבִּי יְהוֹשֻׁעַ: רוֹאֶה אֲנִי אֶת דְּבָרֶיךָ.
->
-> **Translation:** **Rabbi Yehoshua said to him: I see** the logic of **your statement;**
 
 *Amar lo Rabbi Yehoshua*: *ro'eh ani et devarekha* — Rabbi Yehoshua says to Rabbi Dosa ben Horkinas that his argument is compelling. Notice that even this mild concession is expressed in the most non-confrontational of terms. Rabbi Yehoshua does not say outright that the witnesses are false or that *Rosh Chodesh* must be annulled; he simply remarks, in effect, that the argument is well-taken.
-
-> **Hebrew/Aramaic:** שָׁלַח לוֹ רַבָּן גַּמְלִיאֵל: גּוֹזְרַנִי עָלֶיךָ שֶׁתָּבֹא אֶצְלִי בְּמַקֶּלְךָ וּבִמְעוֹתֶיךָ בְּיוֹם הַכִּפּוּרִים שֶׁחָל לִהְיוֹת בְּחֶשְׁבּוֹנֶךָ.
->
-> **Translation:** Upon hearing that Rabbi Yehoshua had challenged his ruling, **Rabban Gamliel sent** a message **to him: I decree against you that you** must **appear before me with your staff and with your money on** the day on which **Yom Kippur occurs according to your calculation;** according to my calculation, that day is the eleventh of Tishrei, the day after Yom Kippur.
 
 Even this measured statement was intolerable to Rabban Gamliel. He sent to Rabbi Yehoshua: *Gozrani alekha she-tavo etzli be-maklekha u-ve-me'otekha be-Yom HaKippurim she-chal lihyot be-cheshbonekha* — I decree that you must come to me with your walking staff and your money on the Yom Kippur that falls out according to your reckoning. Since Rabbi Yehoshua had declined to accept the thirtieth of *Elul* as *Rosh Chodesh Tishrei*, by his calculation *Elul* was thirty days long, pushing *Yom Kippur* a day later than Rabban Gamliel's reckoning. The decree was that Rabbi Yehoshua must appear before Rabban Gamliel at Yavne on what was the eleventh of *Tishrei* according to Rabban Gamliel — but what was *Yom Kippur* according to Rabbi Yehoshua's own counting, apparently violating the sanctity of the day.
 
 ---
 
 ## Authority Separation
+
+
 
 ### House of Hillel
 
@@ -86,13 +74,14 @@ The geographic dimension adds further texture to the drama. Rabbi Yehoshua resid
 
 ---
 
-## Akiva's Consolation (II)
+## Akiva's Consolation
+
+
 
 ### Akiva Seeks Permission
 
-> **Hebrew/Aramaic:** הָלַךְ וּמְצָאוֹ רַבִּי עֲקִיבָא מֵיצֵר, אָמַר לוֹ: יֵשׁ לִי לִלְמוֹד שֶׁכׇּל מַה שֶּׁעָשָׂה רַבָּן גַּמְלִיאֵל עָשׂוּי, שֶׁנֶּאֱמַר: ״אֵלֶּה מוֹעֲדֵי ה׳ מִקְרָאֵי קֹדֶשׁ אֲשֶׁר תִּקְרְאוּ אֹתָם״, בֵּין בִּזְמַנָּן בֵּין שֶׁלֹּא בִּזְמַנָּן — אֵין לִי מוֹעֲדוֹת אֶלָּא אֵלּוּ.
->
-> **Translation:** **Rabbi Akiva went and found** Rabbi Yehoshua **distressed** that the head of the Great Sanhedrin was forcing him to desecrate the day that he maintained was Yom Kippur. In an attempt to console him, Rabbi Akiva **said to** Rabbi Yehoshua: **I can learn** from a verse **that everything that Rabban Gamliel did** in sanctifying the month **is done,** i.e., it is valid. **As it is stated: "These are the appointed seasons of the Lord, sacred convocations, which you shall proclaim** in their season" (Leviticus 23:4). This verse indicates that **whether** you have proclaimed them **at their** proper **time** or **whether** you have declared them **not at their** proper **time, I have only these Festivals** as established by the representatives of the Jewish people.
+> **Hebrew/Aramaic:** הָלַךְ וּמְצָאוֹ רַבִּי עֲקִיבָא מֵיצֵר, אָמַר לוֹ: יֵשׁ לִי לִלְמוֹד שֶׁכׇּל מַה שֶּׁעָשָׂה רַבָּן גַּמְלִיאֵל עָשׂוּי, שֶׁנֶּאֱמַר: ״אֵלֶּה מוֹעֲדֵי ה׳ מִקְרָאֵי קֹדֶשׁ אֲשֶׁר תִּקְרְאוּ אֹתָם״, בֵּין בִּזְמַנָּן בֵּין שֶׁלֹּא בִּזְמַנָּן — אֵין לִי מוֹעֲדוֹת אֶלָּא אֵלּוּ.
+> **Translation:** **Rabbi Akiva went and found** Rabbi Yehoshua **distressed** that the head of the Great Sanhedrin was forcing him to desecrate the day that he maintained was Yom Kippur. In an attempt to console him, Rabbi Akiva **said to** Rabbi Yehoshua: **I can learn** from a verse **that everything that Rabban Gamliel did** in sanctifying the month **is done,** i.e., it is valid. **As it is stated: “These are the appointed seasons of the Lord, sacred convocations, which you shall proclaim** in their season” (Leviticus 23:4). This verse indicates that **whether** you have proclaimed them **at their** proper **time** or **whether** you have declared them **not at their** proper **time, I have only these Festivals** as established by the representatives of the Jewish people.
 
 *Halach Rabbi Akiva umatza'o meitztar* — Rabbi Akiva went and found Rabbi Yehoshua in a state of distress. Rabbi Yehoshua was Rabbi Akiva's *rebbe*, and so Rabbi Akiva approached with studied deference: *yesh li lilmod shekol ma she'asah Rabban Gamliel asuy* — I can demonstrate from a verse that whatever Rabban Gamliel did is done; it may not have been astronomically accurate, but it is legally effective. He then asks permission to share what he claims Rabbi Yehoshua himself had taught him — *tarshini lomar lefanecha davar echad shelimadtani* — a framing of extraordinary psychological intelligence. By asking permission and attributing the teaching back to his *rebbe*, Rabbi Akiva has already secured Rabbi Yehoshua's engagement before a single word of the argument has been offered.
 
@@ -102,19 +91,22 @@ The verse he cites is *eleh moadei Hashem mikraei kodesh asher tikre'u otam* —
 
 ---
 
-## Dosa's Submission (II)
+## Dosa's Submission
+
+
 
 ### Yehoshua Consults
 
-> **Hebrew/Aramaic:** בָּא לוֹ אֵצֶל רַבִּי דּוֹסָא בֶּן הוֹרְכִּינָס, אָמַר לוֹ: אִם בָּאִין אָנוּ לָדוּן אַחַר בֵּית דִּינוֹ שֶׁל רַבָּן גַּמְלִיאֵל, צְרִיכִין אָנוּ לָדוּן אַחַר כׇּל בֵּית דִּין וּבֵית דִּין שֶׁעָמַד מִימוֹת מֹשֶׁה וְעַד עַכְשָׁיו.
->
-> **Translation:** Rabbi Yehoshua then **came to Rabbi Dosa ben Horkinas,** who **said to him: If we come to debate** and question the rulings of **the court of Rabban Gamliel, we must debate** and question the rulings of **every court that has stood from the days of Moses until now.**
-
 Rabbi Yehoshua remained troubled and went to Rabbi Dosa ben Horkinas himself — the one who had most forcefully articulated the objection — to ask what he should do. Here was someone who had publicly said *ede sheker hem*, who had deployed the striking analogy of the pregnant woman. What did he think Rabbi Yehoshua ought to do?
+
+> **Hebrew/Aramaic:** בָּא לוֹ אֵצֶל רַבִּי דּוֹסָא בֶּן הוֹרְכִּינָס, אָמַר לוֹ: אִם בָּאִין אָנוּ לָדוּן אַחַר בֵּית דִּינוֹ שֶׁל רַבָּן גַּמְלִיאֵל, צְרִיכִין אָנוּ לָדוּן אַחַר כׇּל בֵּית דִּין וּבֵית דִּין שֶׁעָמַד מִימוֹת מֹשֶׁה וְעַד עַכְשָׁיו. שֶׁנֶּאֱמַר: ״וַיַּעַל מֹשֶׁה וְאַהֲרֹן נָדָב וַאֲבִיהוּא וְשִׁבְעִים מִזִּקְנֵי יִשְׂרָאֵל״, וְלָמָּה לֹא נִתְפָּרְשׁוּ שְׁמוֹתָן שֶׁל זְקֵנִים? אֶלָּא לְלַמֵּד שֶׁכׇּל שְׁלֹשָׁה וּשְׁלֹשָׁה שֶׁעָמְדוּ בֵּית דִּין עַל יִשְׂרָאֵל — הֲרֵי הוּא כְּבֵית דִּינוֹ שֶׁל מֹשֶׁה.
+> **Translation:** Rabbi Yehoshua then **came to Rabbi Dosa ben Horkinas,** who **said to him: If we come to debate** and question the rulings of **the court of Rabban Gamliel, we must debate** and question the rulings of **every court that has stood from the days of Moses until now. As it is stated: “Then Moses went up, and Aaron, Nadav and Avihu, and seventy of the Elders of Israel”** (Exodus 24:9). **But why were the names of these** seventy **Elders not specified? Rather,** this comes **to teach that every** set of **three** judges **that stands** as **a court over the Jewish people** has the same status **as the court of Moses.** Since it is not revealed who sat on that court, apparently it is enough that they were official judges in a Jewish court.
 
 ---
 
-## Torah She-be'al Peh (II)
+## Torah She-be'al Peh
+
+
 
 ### Scope of Authority
 
@@ -124,11 +116,10 @@ This is precisely the moment to pause and consider the deeper question the narra
 
 ## Dosa's Submission (II)
 
+
+
 ### Audit Argument
 
-> **Hebrew/Aramaic:** שֶׁנֶּאֱמַר: ״וַיַּעַל מֹשֶׁה וְאַהֲרֹן נָדָב וַאֲבִיהוּא וְשִׁבְעִים מִזִּקְנֵי יִשְׂרָאֵל״, וְלָמָּה לֹא נִתְפָּרְשׁוּ שְׁמוֹתָן שֶׁל זְקֵנִים? אֶלָּא לְלַמֵּד שֶׁכׇּל שְׁלֹשָׁה וּשְׁלֹשָׁה שֶׁעָמְדוּ בֵּית דִּין עַל יִשְׂרָאֵל — הֲרֵי הוּא כְּבֵית דִּינוֹ שֶׁל מֹשֶׁה.
->
-> **Translation:** **As it is stated: "Then Moses went up, and Aaron, Nadav and Avihu, and seventy of the Elders of Israel"** (Exodus 24:9). **But why were the names of these** seventy **Elders not specified? Rather,** this comes **to teach that every** set of **three** judges **that stands** as **a court over the Jewish people** has the same status **as the court of Moses.**
 
 Rabbi Dosa ben Horkinas responded to Rabbi Yehoshua with the same essential message Rabbi Akiva had offered, though grounded in a different argument. *Im ba'im anu ladun achar beis dino shel Rabban Gamliel* — if we are going to call into question decisions made by Rabban Gamliel's *beit din* after the fact, then *tzerichim anu ladun achar kol beis uveisin she'amad miymos Moshe ve'ad achshav* — we would have to conduct a full audit of every *beit din* decision going back to the time of Moshe. Once decisions are made, they are binding. The alternative — treating each ruling as permanently subject to re-examination by those who disagree — is the collapse of legal authority altogether.
 
@@ -138,15 +129,15 @@ The proof text is drawn from the scene of the seventy elders ascending with Mosh
 
 ### Equivalent Courts
 
-> **Hebrew/Aramaic:** כׇּל שְׁלֹשָׁה וּשְׁלֹשָׁה שֶׁעָמְדוּ בֵּית דִּין עַל יִשְׂרָאֵל — הֲרֵי הוּא כְּבֵית דִּינוֹ שֶׁל מֹשֶׁה.
->
-> **Translation:** **any three members of a *beit din* standing over Israel are considered the equivalent of Moshe's own court.**
+*She-kol sheloshah vesheloshah she'amdu beis din al Yisrael harei hu keveis dino shel Moshe* — any three members of a *beit din* standing over Israel are considered the equivalent of Moshe's own court. The institution, not the individuals, carries the authority.
 
-*She-kol shelosha veshelosha she'amdu beis din al Yisrael harei hu keveis dino shel Moshe* — any three members of a *beit din* standing over Israel are considered the equivalent of Moshe's own court. The institution, not the individuals, carries the authority.
+What is striking is that this *drasha* carries implications that extend well beyond the specific question of *kiddush hachodesh*. With *kiddush hachodesh*, everyone agrees that the principle of *asher tikre'u otam* — that the calendar is determined by what the authorized court declares — is absolute: *bein shogegin, bein mezidin, bein mut'in*, whether they erred innocently, deliberately, or were misled, their declaration stands regardless of the astronomical facts. But the deeper question the *drasha* opens up is about the nature of *Torah shebe'al peh* more broadly. If a *beit din* interprets a *pasuk* in a way that does not accord with the original intent, is that interpretation nonetheless binding *halacha*? Has God handed over the power of interpretation to *Chazal* so completely that their good-faith ruling becomes the law — the way the new moon declaration becomes the calendar — or does a ruling that departs from original intent remain a mistake, meaning people who follow it are in fact sinning and the ruling must be corrected? This turns out to be a fascinating and genuinely consequential debate among the *rishonim*, which the discussion will take up directly in what follows.
 
 ---
 
 ## Torah She-be'al Peh (II)
+
+
 
 ### Ramban's Approach
 
@@ -162,33 +153,25 @@ One might raise the further question: if *beit din* authority is truly binding r
 
 ---
 
-## Reconciliation (II)
+## Reconciliation
+
+
 
 ### YK Travel
-
-> **Hebrew/Aramaic:** נָטַל מַקְלוֹ וּמְעוֹתָיו בְּיָדוֹ, וְהָלַךְ לְיַבְנֶה אֵצֶל רַבָּן גַּמְלִיאֵל בַּיּוֹם שֶׁחָל יוֹם הַכִּפּוּרִים לִהְיוֹת בְּחֶשְׁבּוֹנוֹ.
->
-> **Translation:** **he took his staff and his money in his hand, and went to Yavne to Rabban Gamliel on the day** on **which Yom Kippur occurred according to his** own **calculation.**
 
 *Natal maklo u-meotav beyado* — Rabbi Yehoshua took his staff and his money in his hand *vehalach l'Yavne etzel Rabban Gamliel b'yom shechal Yom Hakippurim lihyot b'cheshbono* — and went to Yavne to Rabban Gamliel on the day that fell out as *Yom Kippur* according to his own reckoning. He made the journey, with staff and money, on what he personally believed to be *Yom Kippur*.
 
 ### Kiss & Dual Role
 
-> **Hebrew/Aramaic:** עָמַד רַבָּן גַּמְלִיאֵל וּנְשָׁקוֹ עַל רֹאשׁוֹ, אָמַר לוֹ: בּוֹא בְּשָׁלוֹם רַבִּי וְתַלְמִידִי! רַבִּי — בְּחׇכְמָה, וְתַלְמִידִי — שֶׁקִּבַּלְתָּ אֶת דְּבָרַי.
->
-> **Translation:** Upon seeing him, **Rabban Gamliel stood up and kissed him on his head. He said to him: Come in peace, my teacher and my student.** You are **my teacher in wisdom,** as Rabbi Yehoshua was wiser than anyone else in his generation, **and** you are **my student, as you accepted my statement,** despite your disagreement.
+> **Hebrew/Aramaic:** נָטַל מַקְלוֹ וּמְעוֹתָיו בְּיָדוֹ, וְהָלַךְ לְיַבְנֶה אֵצֶל רַבָּן גַּמְלִיאֵל בַּיּוֹם שֶׁחָל יוֹם הַכִּפּוּרִים לִהְיוֹת בְּחֶשְׁבּוֹנוֹ. עָמַד רַבָּן גַּמְלִיאֵל וּנְשָׁקוֹ עַל רֹאשׁוֹ, אָמַר לוֹ: בּוֹא בְּשָׁלוֹם רַבִּי וְתַלְמִידִי! רַבִּי — בְּחׇכְמָה, וְתַלְמִידִי — שֶׁקִּבַּלְתָּ אֶת דְּבָרַי.
+> **Translation:** When Rabbi Yehoshua heard that even Rabbi Dosa ben Horkinas maintained that they must submit to Rabban Gamliel’s decision, **he took his staff and his money in his hand, and went to Yavne to Rabban Gamliel on the day** on **which Yom Kippur occurred according to his** own **calculation.** Upon seeing him, **Rabban Gamliel stood up and kissed him on his head. He said to him: Come in peace, my teacher and my student.** You are **my teacher in wisdom,** as Rabbi Yehoshua was wiser than anyone else in his generation, **and** you are **my student, as you accepted my statement,** despite your disagreement.
+
 
 When Rabban Gamliel saw him approach, *amad mi-kiso*, he rose from his seat, *u-neshako al rosho* — and kissed him on the head. *Amar lo: bo b'shalom rabbi v'talmidi* — come in peace, my master and my student. *Rabbi b'chochma* — my master in wisdom, acknowledging without reservation that Rabbi Yehoshua was the greater scholar. *V'talmidi shekibalta devari* — and my student in that you accepted my ruling and submitted to my authority.
 
-> **Hebrew/Aramaic:** תַּנְיָא, אָמַר לָהֶם רַבָּן גַּמְלִיאֵל לַחֲכָמִים: כָּךְ מְקוּבְּלַנִי מִבֵּית אֲבִי אַבָּא — פְּעָמִים שֶׁבָּא בַּאֲרוּכָּה וּפְעָמִים שֶׁבָּא בִּקְצָרָה.
->
-> **Translation:** **It is taught** in a *baraita* that **Rabban Gamliel said to the Sages,** in explanation of his opinion that it is possible for the new moon to be visible so soon after the last sighting of the waning moon: **This is** the tradition that **I received from the house of my father's father: Sometimes** the moon **comes by a long** path **and sometimes it comes by a short** one.
+It is worth pausing on the asymmetry here. Rabban Gamliel has not yielded an inch on the substance of the dispute — the ruling stands, the calendar stands, and Rabbi Yehoshua was the one who had to make the journey with staff and money on what he personally believed to be *Yom Kippur*. The gesture of calling him *rabbi* is a form of personal respect, but the structural position of power has not shifted at all. The compliment and the compromise are not symmetrical.
 
 The *baraita* that follows elaborates this with additional nuance. *Amad mi-kiso u-neshako al rosho. Amar lo: shalom alecha rabbi u-talmidi. Rabbi she-limaditani Torah ba-rabbim* — my master, in that you taught me Torah publicly, *u-talmidi she-ani gozer alecha gezeira ve-ata mekayemah ke-talmid* — and my student in that when I issue a decree you fulfill it as a student would. The *ke-talmid* here is telling: Rabban Gamliel is mapping the political relationship onto the rabbinic one, suggesting that because his political authority has halachic implications, Rabbi Yehoshua's submission carries the character of a student's deference to a teacher, even though the actual relationship of greater scholarship runs in the other direction.
-
-> **Hebrew/Aramaic:** אַשְׁרֵי הַדּוֹר שֶׁהַגְּדוֹלִים נִשְׁמָעִים לַקְּטַנִּים, קַל וָחוֹמֶר קְטַנִּים לַגְּדוֹלִים.
->
-> **Translation:** **Fortunate is the generation in which the greater heed the lesser, and** it is **an *a fortiori*** inference that the generation in which **the lesser** heed **the greater** is certainly fortunate as well.
 
 *Ashrei ha-dor she-ha-gedolim nishma'im la-ktanim* — praised is the generation in which the great ones are willing to listen to lesser ones. *Kal va-chomer ktanim li-gedolim* — how much more so should lesser ones listen to their leaders. The *Gemara* questions the logic of calling this a *kal va-chomer*: surely the lesser ones listening to the greater is simply a *chiyuv*, an obligation — what is the *kal va-chomer*? The answer: *ela mitokh she-ha-gedolim nishma'im la-ktanim, nosh'in ktanim kal va-chomer be-atzman* — when those of great stature are willing to submit, the example they set inspires those of lesser stature to internalize the principle of deference all the more deeply. The act of public submission by the great becomes a formative precedent for how the community as a whole relates to authority.
 
@@ -196,35 +179,33 @@ The *baraita* that follows elaborates this with additional nuance. *Amad mi-kiso
 
 ## Moon Cycle Science
 
+
+
 ### Rabbi Chiya Story
 
-> **Hebrew/Aramaic:** רַבִּי חִיָּיא חַזְיֵיא לְסֵיהֲרָא דַּהֲוָה קָאֵי בְּצַפְרָא דְּעֶשְׂרִים וְתִשְׁעָה. שְׁקַל קָלָא פְּתַק בֵּיהּ, אֲמַר: לְאוּרְתָּא בָּעֵינַן לְקַדּוֹשֵׁי בָּךְ, וְאַתְּ קָיְימַתְּ הָכָא?! זִיל אִיכַּסִּי.
->
-> **Translation:** **Rabbi Ḥiyya** once **saw** the waning **moon standing** in the sky **on the morning** of the **twenty-ninth** of the month. **He took a clump** of earth and **threw** it **at** the moon, **saying: This evening we need to sanctify you,** i.e., the new moon must be visible tonight so that we may declare the thirtieth of the month as the New Moon, **and you are** still **standing here? Go** and **cover yourself** for now, so that the new moon will be seen only after nightfall.
+> **Hebrew/Aramaic:** גְּמָ׳ תַּנְיָא, אָמַר לָהֶם רַבָּן גַּמְלִיאֵל לַחֲכָמִים: כָּךְ מְקוּבְּלַנִי מִבֵּית אֲבִי אַבָּא — פְּעָמִים שֶׁבָּא בַּאֲרוּכָּה וּפְעָמִים שֶׁבָּא בִּקְצָרָה.
+> **Translation:** GEMARA: **It is taught** in a *baraita* that **Rabban Gamliel said to the Sages,** in explanation of his opinion that it is possible for the new moon to be visible so soon after the last sighting of the waning moon: **This is** the tradition that **I received from the house of my father’s father: Sometimes** the moon **comes by a long** path **and sometimes it comes by a short** one.
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: מַאי טַעְמָא דְּבֵי רַבִּי, דִּכְתִיב: ״עָשָׂה יָרֵחַ לְמוֹעֲדִים שֶׁמֶשׁ יָדַע מְבוֹאוֹ״ — שֶׁמֶשׁ הוּא דְּיָדַע מְבוֹאוֹ, יָרֵחַ לֹא יָדַע מְבוֹאוֹ.
+> **Translation:** **Rabbi Yoḥanan said: What is the reason** for the opinion **of the house of Rabbi** Yehuda HaNasi, i.e., the house of the heads of the Great Sanhedrin, the source of Rabban Gamliel’s ruling? **As it is written: “Who appointed the moon for seasons; the sun knows its going down”** (Psalms 104:19). This verse indicates that **it is** only **the sun** that **knows its going down,** i.e., its seasons and the times that it shines are the same every year. In contrast, **the moon does not know its going down,** as its course is not identical every month.
+
+> **Hebrew/Aramaic:** רַבִּי חִיָּיא חַזְיֵיא לְסֵיהֲרָא דַּהֲוָה קָאֵי בְּצַפְרָא דְּעֶשְׂרִים וְתִשְׁעָה. שְׁקַל קָלָא פְּתַק בֵּיהּ, אֲמַר: לְאוּרְתָּא בָּעֵינַן לְקַדּוֹשֵׁי בָּךְ, וְאַתְּ קָיְימַתְּ הָכָא?! זִיל אִיכַּסִּי. אֲמַר לֵיהּ רַבִּי לְרַבִּי חִיָּיא: זִיל לְעֵין טָב וְקַדְּשֵׁיהּ לְיַרְחָא, וּשְׁלַח לִי סִימָנָא: ״דָּוִד מֶלֶךְ יִשְׂרָאֵל חַי וְקַיָּם״.
+> **Translation:** § The Gemara relates that **Rabbi Ḥiyya** once **saw** the waning **moon standing** in the sky **on the morning** of the **twenty-ninth** of the month. **He took a clump** of earth and **threw** it **at** the moon, **saying: This evening we need to sanctify you,** i.e., the new moon must be visible tonight so that we may declare the thirtieth of the month as the New Moon, **and you are** still **standing here? Go** and **cover yourself** for now, so that the new moon will be seen only after nightfall. The Gemara further relates that **Rabbi** Yehuda HaNasi once **said to Rabbi Ḥiyya: Go to** a place called **Ein Tav and sanctify the** New **Moon** there, **and send me a sign** that you have sanctified it. The sign is: **David, king of Israel, lives and endures.**
 
 A parallel story is introduced through a *baraita* concerning Rabbi Chiya. *Rabbi Chiya chazyei l'sihara d'hava kai b'tzafra d'esrin v'tisha* — Rabbi Chiya saw the moon on the morning of the twenty-ninth. The situation required some unpacking. The moon visible in the morning of the twenty-ninth was the old, waning moon. The problem was with the new moon. Once the old moon disappears — becoming invisible as it passes close to the sun — it will not reappear until approximately thirty-six hours later. In this case, by the time the new moon would become visible (after sunset), it would already be technically the night of the thirty-first, making it too late to declare *Rosh Chodesh* on day thirty. Rabbi Chiya had wanted to make the upcoming day, the thirtieth, into *Rosh Chodesh* — meaning he needed the new moon to appear that evening. But the moon would not cooperate.
 
 *Shakal kala patak beh* — he picked up a clod of earth and threw it at the moon. *Le'orta be'ina lekadoshei bach ve'at kaimet hacha?* — Tonight I need to sanctify you, and you're still hanging around? *Zil ikasi* — go hide yourself! He was telling the old moon to become invisible so the new moon could emerge in time. When Rebbe heard about this, he said to Rabbi Chiya: *Zil le-Ein Tav* — go to Ein Tav, the designated location for *kiddush hachodesh*, *vekadshei leyircha* — and sanctify the month there, *veshalach li simana* — and send me a coded message: *David Melech Yisrael Chai VeKayam* — David King of Israel lives and endures.
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבִּי לְרַבִּי חִיָּיא: זִיל לְעֵין טָב וְקַדְּשֵׁיהּ לְיַרְחָא, וּשְׁלַח לִי סִימָנָא: ״דָּוִד מֶלֶךְ יִשְׂרָאֵל חַי וְקַיָּם״.
->
-> **Translation:** **Rabbi** Yehuda HaNasi once **said to Rabbi Ḥiyya: Go to** a place called **Ein Tav and sanctify the** New **Moon** there, **and send me a sign** that you have sanctified it. The sign is: **David, king of Israel, lives and endures.**
-
 The choice of coded message is suggestive on two levels. *Rashi* notes that David is traditionally compared to the moon. But there is another dimension: Rebbe's household claimed descent from David HaMelech, and *David Melech Yisrael Chai VeKayam* simultaneously signaled that as *Nasi* — in the lineage of David — he had the authority to perform *kiddush hachodesh* even when the astronomical facts were less than fully cooperative. The contrast with the earlier period of Rabban Gamliel and Rabbi Yehoshua is instructive: whereas that era was marked by open conflict, here, just two generations later, Rabbi Chiya is enlisted as a cooperating agent. Rabban Gamliel's position had, in effect, prevailed.
 
 ### Cloud Illusion
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: פַּעַם אַחַת נִתְקַשְּׁרוּ שָׁמַיִם בְּעָבִים, וְנִרְאֵית דְּמוּת לְבָנָה בְּעֶשְׂרִים וְתִשְׁעָה לַחֹדֶשׁ. כִּסְבוּרִים הָעָם לוֹמַר רֹאשׁ חֹדֶשׁ, וּבִקְּשׁוּ בֵּית דִּין לְקַדְּשׁוֹ.
->
-> **Translation:** **The Sages taught** in a *baraita*: **Once the sky was covered with clouds, and the form of the moon was visible on the twenty-ninth of the month. The people thought to say** that the day was **the New Moon, and the court sought to sanctify it.**
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: פַּעַם אַחַת נִתְקַשְּׁרוּ שָׁמַיִם בְּעָבִים, וְנִרְאֵית דְּמוּת לְבָנָה בְּעֶשְׂרִים וְתִשְׁעָה לַחֹדֶשׁ. כִּסְבוּרִים הָעָם לוֹמַר רֹאשׁ חֹדֶשׁ, וּבִקְּשׁוּ בֵּית דִּין לְקַדְּשׁוֹ. אָמַר לָהֶם רַבָּן גַּמְלִיאֵל: כָּךְ מְקוּבְּלַנִי מִבֵּית אֲבִי אַבָּא — אֵין חִדּוּשָׁהּ שֶׁל לְבָנָה פְּחוּתָה מֵעֶשְׂרִים וְתִשְׁעָה יוֹם וּמֶחֱצָה וּשְׁנֵי שְׁלִישֵׁי שָׁעָה וְשִׁבְעִים וּשְׁלֹשָׁה חֲלָקִים.
+> **Translation:** **The Sages taught** in a *baraita*: **Once the sky was covered with clouds, and the form of the moon was visible on the twenty-ninth of the month. The people thought to say** that the day was **the New Moon, and the court sought to sanctify it.** However, **Rabban Gamliel said to them: This is** the tradition that **I received from the house of my father’s father:** The monthly cycle of the **renewal of the moon** takes **no less than twenty-nine and a half days, plus two-thirds of an hour, plus seventy-three** of the 1,080 **subsections** of an hour.
 
 A further *baraita* recounts another case. *Pa'am achat nitkashru shamayim be'avim* — once the sky filled with clouds, *venidmet dmut levana be'esrim vetisha lachodesh* — and there appeared in the sky what looked like the new moon on the twenty-ninth of the month. *Vechasvurim ha'am lomar Rosh Chodesh* — the people thought it was *Rosh Chodesh*, which would have made the preceding month only twenty-eight days long — an impossibility if the calendar is functioning correctly. *Uvikesh Beit Din lekadsho* — and the *beit din* moved to sanctify it.
 
 ### Lunar Minimum
-
-> **Hebrew/Aramaic:** אָמַר לָהֶם רַבָּן גַּמְלִיאֵל: כָּךְ מְקוּבְּלַנִי מִבֵּית אֲבִי אַבָּא — אֵין חִדּוּשָׁהּ שֶׁל לְבָנָה פְּחוּתָה מֵעֶשְׂרִים וְתִשְׁעָה יוֹם וּמֶחֱצָה וּשְׁנֵי שְׁלִישֵׁי שָׁעָה וְשִׁבְעִים וּשְׁלֹשָׁה חֲלָקִים.
->
-> **Translation:** However, **Rabban Gamliel said to them: This is** the tradition that **I received from the house of my father's father:** The monthly cycle of the **renewal of the moon** takes **no less than twenty-nine and a half days, plus two-thirds of an hour, plus seventy-three** of the 1,080 **subsections** of an hour.
 
 Here Rabban Gamliel intervened — but this time not on the basis of pure authority. *Kach mekublani mibeis avi aba* — this is the tradition I have from my grandfather's house: *ein chiddusha shel levana pechusa* — the new moon cannot come in less than a full lunar cycle.
 
@@ -240,23 +221,29 @@ One should note, however, that Rabban Gamliel's formulation specifies *ein pechu
 
 ### Funeral Statement
 
-> **Hebrew/Aramaic:** וְאוֹתוֹ הַיּוֹם מֵתָה אִמּוֹ שֶׁל בֶּן זָזָא, וְהִסְפִּידָהּ רַבָּן גַּמְלִיאֵל הֶסְפֵּד גָּדוֹל. לֹא מִפְּנֵי שֶׁרְאוּיָה לְכָךְ, אֶלָּא כְּדֵי שֶׁיֵּדְעוּ הָעָם שֶׁלֹּא קִידְּשׁוּ בֵּית דִּין אֶת הַחֹדֶשׁ.
->
-> **Translation:** **And on that day the mother of** the Sage **ben Zaza died, and Rabban Gamliel delivered a great eulogy** on **her** behalf. He did this **not because she was worthy of this** honor; **rather,** he eulogized her **so that the people would know that the court had not sanctified the month,** as eulogies are prohibited on the New Moon.
+> **Hebrew/Aramaic:** וְאוֹתוֹ הַיּוֹם מֵתָה אִמּוֹ שֶׁל בֶּן זָזָא, וְהִסְפִּידָהּ רַבָּן גַּמְלִיאֵל הֶסְפֵּד גָּדוֹל. לֹא מִפְּנֵי שֶׁרְאוּיָה לְכָךְ, אֶלָּא כְּדֵי שֶׁיֵּדְעוּ הָעָם שֶׁלֹּא קִידְּשׁוּ בֵּית דִּין אֶת הַחֹדֶשׁ.
+> **Translation:** The *baraita* continues: **And on that day the mother of** the Sage **ben Zaza died, and Rabban Gamliel delivered a great eulogy** on **her** behalf. He did this **not because she was worthy of this** honor; **rather,** he eulogized her **so that the people would know that the court had not sanctified the month,** as eulogies are prohibited on the New Moon.
 
 *Ve'oto hayom meta imo shel Ben Zaza* — on that same day, the mother of Ben Zaza died. *Vehispidah Rabban Gamliel hesped gadol* — and Rabban Gamliel delivered a major eulogy and organized a large public funeral. *Lo mipnei sherauya lekach* — not because she was particularly distinguished, but *ela kedei sheyedu ha'am shelo kidshu Beit Din et hachodesh* — in order to make clear to the people that the *beit din* had not sanctified the month. In contrast to the earlier story, where Rabban Gamliel asserted authority against the astronomical facts, here he was on the side of the astronomy, using the public funeral as a declaration that the twenty-ninth was not and could not be *Rosh Chodesh*.
 
-It is also worth noting, as a structural matter, that the authority to perform *kiddush hachodesh* is vested specifically in the *Nasi* — not, for instance, in the *Av Beit Din*. This is documented in *Sanhedrin* as well. The reason is not incidental: the unified calendar is the single most powerful instrument of communal coherence for *Klal Yisrael*. It is fitting, therefore, that responsibility for it rests with the one person who speaks for the entire people — the political and spiritual head.
+It is also worth noting, as a structural matter, that the authority to perform *kiddush hachodesh* is vested specifically in the *Nasi* — not, for instance, in the *Av Beit Din*. This is documented in *Sanhedrin* as well. The reason is not incidental: the unified calendar is the single most powerful instrument of communal coherence for *Klal Yisrael*. It is fitting, therefore, that responsibility for it rests with the one person who speaks for the entire people — the political and spiritual head. One might even suggest that Rabban Gamliel's repeated, pointed assertions of control over *kiddush hachodesh* throughout these episodes were themselves precedent-setting — making unmistakably clear, through action, who that person was. The calendar, in this reading, is not merely a practical instrument of coordination but an expression of the very structure of Jewish communal authority.
 
 ---
 
 ## Akiva's Consolation (II)
 
+
+
 ### Atem Emphasis
 
-> **Hebrew/Aramaic:** אָמַר לוֹ: רַבִּי, תַּרְשֵׁינִי לוֹמַר לְפָנֶיךָ דָּבָר אֶחָד שֶׁלִּמַּדְתַּנִי. אָמַר לוֹ: אֱמוֹר. אָמַר לוֹ: הֲרֵי הוּא אוֹמֵר ״אֹתָם״ ״אֹתָם״ ״אֹתָם״ שָׁלֹשׁ פְּעָמִים. ״אַתֶּם״ — אֲפִילּוּ שׁוֹגְגִין, ״אַתֶּם״ — אֲפִילּוּ מְזִידִין, ״אַתֶּם״ — אֲפִילּוּ מוּטְעִין.
->
-> **Translation:** Rabbi Akiva **said to him: My teacher, allow me to say before you one matter that you** yourself once **taught me. He said to him: Speak. He said to him: It states** with respect to the Festivals: "The appointed seasons of the Lord, which you shall proclaim **them [*otam*]** to be sacred convocations (Leviticus 23:2). And it is written: "These are the appointed seasons of the Lord, sacred convocations; you shall proclaim **them [*otam*]** in their season" (Leviticus 23:4). And it is written: "These are the appointed seasons of the Lord; you shall proclaim **them [*otam*]** to be sacred convocations" (Leviticus 23:37). **Three times** the verses use the term: Them [*otam*], which can also be read as you [*atem*], in plural. This comes to teach: **You** [***atem***] are authorized to determine the date of the new month, **even** if you **unwittingly** establish the New Moon on the wrong day; **you, even** if you do so **intentionally; you, even** if you are **misled** by false witnesses.
+> **Hebrew/Aramaic:** הָלַךְ רַבִּי עֲקִיבָא וּמְצָאוֹ מֵיצֵר כּוּ׳. אִיבַּעְיָא לְהוּ: מִי מֵיצֵר? רַבִּי עֲקִיבָא מֵיצֵר, אוֹ רַבִּי יְהוֹשֻׁעַ מֵיצֵר? תָּא שְׁמַע, דְּתַנְיָא: הָלַךְ רַבִּי עֲקִיבָא וּמְצָאוֹ לְרַבִּי יְהוֹשֻׁעַ כְּשֶׁהוּא מֵיצֵר, אָמַר לוֹ: [רַבִּי] מִפְּנֵי מָה אַתָּה מֵיצֵר? אָמַר לוֹ: רַבִּי עֲקִיבָא, רָאוּי לוֹ שֶׁיִּפּוֹל לַמִּטָּה שְׁנֵים עָשָׂר חֹדֶשׁ, וְאַל יִגְזוֹר עָלָיו גְּזֵירָה זוֹ.
+> **Translation:** § The mishna taught that **Rabbi Akiva went and found him distressed** that the head of the Great Sanhedrin was forcing him to desecrate the day that he maintained was Yom Kippur. **A dilemma was raised before** the Sages: **Who was distressed?** Was **Rabbi Akiva distressed or** was **Rabbi Yehoshua distressed?** The Gemara answers: **Come** and **hear, as it is taught** in a *baraita*: **Rabbi Akiva went and found Rabbi Yehoshua in a state of distress,** and **he said to him: My teacher, for what** reason **are you distressed?** Rabbi Yehoshua **said to him: Rabbi Akiva, it is fitting for** one **to fall** sick **in bed for twelve months, rather than to have this decree issued against him** that he should have to desecrate Yom Kippur.
+
+> **Hebrew/Aramaic:** אָמַר לוֹ: רַבִּי, תַּרְשֵׁינִי לוֹמַר לְפָנֶיךָ דָּבָר אֶחָד שֶׁלִּמַּדְתַּנִי. אָמַר לוֹ: אֱמוֹר. אָמַר לוֹ: הֲרֵי הוּא אוֹמֵר ״אֹתָם״ ״אֹתָם״ ״אֹתָם״ שָׁלֹשׁ פְּעָמִים.
+> **Translation:** Rabbi Akiva **said to him: My teacher, allow me to say before you one matter that you** yourself once **taught me. He said to him: Speak. He said to him: It states** with respect to the Festivals: “The appointed seasons of the Lord, which you shall proclaim **them [*otam*]** to be sacred convocations (Leviticus 23:2). And it is written: “These are the appointed seasons of the Lord, sacred convocations; you shall proclaim **them [*otam*]** in their season” (Leviticus 23:4). And it is written: “These are the appointed seasons of the Lord; you shall proclaim **them [*otam*]** to be sacred convocations” (Leviticus 23:37). **Three times** the verses use the term: Them [*otam*], which can also be read as you [*atem*], in plural.
+
+> **Hebrew/Aramaic:** ״אַתֶּם״ — אֲפִילּוּ שׁוֹגְגִין, ״אַתֶּם״ — אֲפִילּוּ מְזִידִין, ״אַתֶּם״ — אֲפִילּוּ מוּטְעִין. בַּלָּשׁוֹן הַזֶּה אָמַר לוֹ: עֲקִיבָא נִחַמְתַּנִי, נִחַמְתַּנִי.
+> **Translation:** This comes to teach: **You** [***atem***] are authorized to determine the date of the new month, **even** if you **unwittingly** establish the New Moon on the wrong day; **you, even** if you do so **intentionally; you, even** if you are **misled** by false witnesses. In all cases, once the court establishes the day as the New Moon, it is sanctified, and God grants His consent. After hearing this, Rabbi Yehoshua **said to him in these words: Akiva, you have consoled me; you have consoled me.**
 
 Returning now to the *baraita* about Rabbi Akiva's consolation of Rabbi Yehoshua, the *Gemara* presents a more expanded version of the exchange. When Rabbi Akiva found Rabbi Yehoshua in distress, Rabbi Yehoshua gave voice to his anguish without speaking in the first person — a studied indirection. *Ra'uy lo sheyipol lemitah yod-bet chodesh ve'al yigzor alav gezeirah zo* — it would be fitting for him to lie sick in bed for twelve months rather than be forced to undergo what Rabban Gamliel had decreed. Rabbi Akiva then asked leave to share a teaching — *tarshini lomar lefanecha davar echad shelimadtani*, framing it as something Rabbi Yehoshua himself had taught him, a framing that enlisted his *rebbe*'s own commitment before a word of argument was made.
 
@@ -264,9 +251,6 @@ The verse is *asher tikre'u otam be'moadam*, with the word *otam* playing on *at
 
 ### Yehoshua Consoled
 
-> **Hebrew/Aramaic:** בַּלָּשׁוֹן הַזֶּה אָמַר לוֹ: עֲקִיבָא נִחַמְתַּנִי, נִחַמְתַּנִי.
->
-> **Translation:** After hearing this, Rabbi Yehoshua **said to him in these words: Akiva, you have consoled me; you have consoled me.**
 
 *Amar lo: Akiva nichamtani nichamtani* — Rabbi Yehoshua said: Akiva, you have consoled me. This echo — *nichamtani nichamtani*, the word said twice — is a recognizable trope of Rabbi Akiva's encounters elsewhere, though there it is typically with his students. Here it is with his *rebbe*.
 
@@ -276,43 +260,39 @@ In this version of the story, the consolation provided by Rabbi Akiva was suffic
 
 ## Judge Your Generation
 
-### Verse Citation
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: לָמָּה לֹא נִתְפָּרְשׁוּ שְׁמוֹתָם שֶׁל זְקֵנִים הַלָּלוּ? שֶׁלֹּא יֹאמַר אָדָם: פְּלוֹנִי כְּמֹשֶׁה וְאַהֲרֹן?
->
-> **Translation:** **The Sages taught** in a *baraita*: **Why were the names of these** seventy **Elders** who sat together with Moses on his court **not specified?** The reason is so **that a person not say:** Is **so-and-so** the judge in my time, **like Moses and Aaron?**
+
+### Verse Citation
 
 *Vayomer Shmuel el ha-am Hashem asher asa et Moshe ve'et Aharon ve'omer vayishlach Hashem et Yeruba'al ve'et Bedan ve'et Yiftach ve'et Shmuel* — Shmuel addresses the people in a verse that places all these figures in a single category as those whom God had sent.
 
 ### Judge Identities
 
-> **Hebrew/Aramaic:** ״יְרוּבַּעַל״ — זֶה גִּדְעוֹן, וְלָמָּה נִקְרָא שְׁמוֹ יְרוּבַּעַל — שֶׁעָשָׂה מְרִיבָה עִם הַבַּעַל. ״בְּדָן״ — זֶה שִׁמְשׁוֹן, וְלָמָּה נִקְרָא שְׁמוֹ בְּדָן — דְּאָתֵי מִדָּן. יִפְתָּח — כְּמַשְׁמָעוֹ.
->
-> **Translation:** **Jerubaal, this is Gideon. And why is he called Jerubaal?** The reason is **that he waged a quarrel against Baal. Bedan, this is Samson. And why is he called Bedan? As he came from** the tribe of **Dan. Jephthah, in accordance with its** regular **meaning,** i.e., this is referring to Jephthah himself and is not a nickname.
+> **Hebrew/Aramaic:** בָּא לוֹ אֵצֶל רַבִּי דּוֹסָא בֶּן הוֹרְכִּינָס כּוּ׳. תָּנוּ רַבָּנַן: לָמָּה לֹא נִתְפָּרְשׁוּ שְׁמוֹתָם שֶׁל זְקֵנִים הַלָּלוּ? שֶׁלֹּא יֹאמַר אָדָם: פְּלוֹנִי כְּמֹשֶׁה וְאַהֲרֹן? פְּלוֹנִי כְּנָדָב וַאֲבִיהוּא? פְּלוֹנִי כְּאֶלְדָּד וּמֵידָד?
+> **Translation:** § The mishna taught that Rabbi Yehoshua next **came to Rabbi Dosa ben Horkinas,** who proved to him that the court of Rabban Gamliel has the same legal status as the court of Moses. **The Sages taught** in a *baraita*: **Why were the names of these** seventy **Elders** who sat together with Moses on his court **not specified?** The reason is so **that a person not say:** Is **so-and-so** the judge in my time, **like Moses and Aaron?** Is **so-and-so like Nadav and Avihu?** Is **so-and-so like Eldad and Medad?** Therefore, the names of the other elders were not specified, so that there is no way of knowing the qualifications of the elders in the time of Moses to compare them to later judges.
 
-*Yeruba'al zeh Gid'on* — Yeruba'al is Gideon, who fought against *Ba'al* worship. *Velamah nikra shemo Yeruba'al? She-asa meriva im ha-Ba'al* — hence the name, meaning "let Ba'al contend." *Vedan zeh Shimshon* — Bedan is Shimshon, *de-ati mi-Dan*, who came from the tribe of Dan. *Yiftach k'mashma'o* — Yiftach is Yiftach, well known, the judge whose tragic vow involving his daughter is recorded in the Book of Judges.
+> **Hebrew/Aramaic:** וְאוֹמֵר: ״וַיֹּאמֶר שְׁמוּאֵל אֶל הָעָם ה׳ אֲשֶׁר עָשָׂה אֶת מֹשֶׁה וְאֶת אַהֲרֹן״. וְאוֹמֵר: ״וַיִּשְׁלַח ה׳ אֶת יְרוּבַּעַל וְאֶת בְּדָן וְאֶת יִפְתָּח וְאֶת שְׁמוּאֵל״. ״יְרוּבַּעַל״ — זֶה גִּדְעוֹן, וְלָמָּה נִקְרָא שְׁמוֹ יְרוּבַּעַל — שֶׁעָשָׂה מְרִיבָה עִם הַבַּעַל. ״בְּדָן״ — זֶה שִׁמְשׁוֹן, וְלָמָּה נִקְרָא שְׁמוֹ בְּדָן — דְּאָתֵי מִדָּן. יִפְתָּח — כְּמַשְׁמָעוֹ.
+> **Translation:** **And** similarly **it says: “And Samuel said to the people: It is the Lord Who made Moses and Aaron”** (I Samuel 12:6). **And it says** further: **“And the Lord sent Jerubaal and Bedan and Jephthah and Samuel”** (I Samuel 12:11). The Gemara explains: **Jerubaal, this is Gideon. And why is he called Jerubaal?** The reason is **that he waged a quarrel against Baal. Bedan, this is Samson. And why is he called Bedan? As he came from** the tribe of **Dan. Jephthah, in accordance with its** regular **meaning,** i.e., this is referring to Jephthah himself and is not a nickname.
 
+*Yeruba'al zeh Gid'on* — Yeruba'al is Gideon, who fought against *Ba'al* worship. *Velamah nikra shemo Yeruba'al? She-asa meriva im ha-Ba'al* — hence the name, meaning "let Ba'al contend." *Bedan zeh Shimshon* — Bedan is Shimshon, *de-ati mi-Dan*, who came from the tribe of Dan. *Yiftach k'mashma'o* — Yiftach is Yiftach, well known, the judge whose tragic vow involving his daughter is recorded in the Book of Judges.
+
+[DAF:25b]
 ### Lightweight Pairing
-
-> **Hebrew/Aramaic:** שָׁקַל הַכָּתוּב שְׁלֹשָׁה קַלֵּי עוֹלָם כִּשְׁלֹשָׁה חֲמוּרֵי עוֹלָם.
->
-> **Translation:** This verse equates Samuel to Moses and Aaron. In this manner, **the verse weighed three light ones of the world,** i.e., it considered the three less distinguished figures of Gideon, Samson, and Jephthah **as** equal to **three significant ones of the world,** Moses, Aaron, and Samuel, three of the greatest leaders of the Jewish people.
 
 The problem is that these figures do not obviously belong in the same category. A different verse groups Moshe, Aharon, and Shmuel together as the great authorities of their respective periods. Placing Gideon, Shimshon, and Yiftach in the same verse as Shmuel therefore creates an apparent incongruity. *Shakal ha-katuv shelosha kallei olam ke-shelosha chamurei olam* — the verse weighs three *kallei olam*, three of the world's lightweights, against three *chamurei olam*, three heavyweights, and treats them as equivalent. The term *kallei olam* is notably pointed — it is not merely that Gideon, Shimshon, and Yiftach are lesser figures; *kallei olam* implies they are the biggest lightweights imaginable.
 
+> **Hebrew/Aramaic:** וְאוֹמֵר: ״מֹשֶׁה וְאַהֲרֹן בְּכֹהֲנָיו וּשְׁמוּאֵל בְּקוֹרְאֵי שְׁמוֹ״, שָׁקַל הַכָּתוּב שְׁלֹשָׁה קַלֵּי עוֹלָם כִּשְׁלֹשָׁה חֲמוּרֵי עוֹלָם,
+> **Translation:** **And it says** in another verse: **“Moses and Aaron among His priests, and Samuel among those who call His name;** they called upon the Lord, and He answered them” (Psalms 99:6). This verse equates Samuel to Moses and Aaron. In this manner, **the verse weighed three light ones of the world,** i.e., it considered the three less distinguished figures of Gideon, Samson, and Jephthah **as** equal to **three significant ones of the world,** Moses, Aaron, and Samuel, three of the greatest leaders of the Jewish people.
+
+> **Hebrew/Aramaic:** לוֹמַר לָךְ: יְרוּבַּעַל בְּדוֹרוֹ — כְּמֹשֶׁה בְּדוֹרוֹ, בְּדָן בְּדוֹרוֹ — כְּאַהֲרֹן בְּדוֹרוֹ, יִפְתָּח בְּדוֹרוֹ — כִּשְׁמוּאֵל בְּדוֹרוֹ. לְלַמֶּדְךָ: שֶׁאֲפִילּוּ קַל שֶׁבַּקַּלִּין וְנִתְמַנָּה פַּרְנָס עַל הַצִּבּוּר — הֲרֵי הוּא כְּאַבִּיר שֶׁבָּאַבִּירִים.
+> **Translation:** This comes **to tell you** that **Jerubaal in his generation** is worthy of being treated **like Moses in his generation; Bedan in his generation** is **like Aaron in his generation;** and **Jephthah in his generation** is **like Samuel in his generation.** This serves **to teach you** that **even the lightest of the light,** i.e., the least distinguished individual, once **he has been appointed** as **a leader over the community, he** must be treated **like the greatest of the great,** and all are required to heed him and obey his rulings.
+
 ### Generation Equality
 
-> **Hebrew/Aramaic:** לוֹמַר לָךְ: יְרוּבַּעַל בְּדוֹרוֹ — כְּמֹשֶׁה בְּדוֹרוֹ, בְּדָן בְּדוֹרוֹ — כְּאַהֲרֹן בְּדוֹרוֹ, יִפְתָּח בְּדוֹרוֹ — כִּשְׁמוּאֵל בְּדוֹרוֹ. לְלַמֶּדְךָ: שֶׁאֲפִילּוּ קַל שֶׁבַּקַּלִּים וְנִתְמַנָּה פַּרְנָס עַל הַצִּבּוּר — הֲרֵי הוּא כְּאַבִּיר שֶׁבָּאַבִּירִים.
->
-> **Translation:** This comes **to tell you** that **Jerubaal in his generation** is worthy of being treated **like Moses in his generation; Bedan in his generation** is **like Aaron in his generation;** and **Jephthah in his generation** is **like Samuel in his generation.** This serves **to teach you** that **even the lightest of the light,** i.e., the least distinguished individual, once **he has been appointed** as **a leader over the community, he** must be treated **like the greatest of the great,** and all are required to heed him and obey his rulings.
 
 *Lomar lecha: Yeruba'al be-doro ke-Moshe be-doro, Bedan be-doro ke-Aharon be-doro, Yiftach be-doro ke-Shmuel be-doro* — to tell you: Gideon in his generation stands as Moshe in his; Shimshon in his generation stands as Aharon in his; Yiftach in his generation stands as Shmuel in his. This is not a claim about absolute spiritual or intellectual parity. Rather, it is a statement about authority: whatever authority Moshe held for his generation, the appointed leader of a later generation holds for that generation. The standard is not comparative greatness across time but authorized function within a generation.
 
 ### Lightweight Power
-
-> **Hebrew/Aramaic:** שֶׁאֲפִילּוּ קַל שֶׁבַּקַּלִּים וְנִתְמַנָּה פַּרְנָס עַל הַצִּבּוּר — הֲרֵי הוּא כְּאַבִּיר שֶׁבָּאַבִּירִים.
->
-> **Translation:** **even the lightest of the light,** i.e., the least distinguished individual, once **he has been appointed** as **a leader over the community, he** must be treated **like the greatest of the great,** and all are required to heed him and obey his rulings.
 
 *She-afilu kal she-be-kallim ve-nitmana parnas al ha-tzibbur, harei hu ke-abbir she-be-abbirim* — even the most lightweight of the lightweights, once appointed as a *parnas*, a community leader, is considered as the mightiest of the mighty. One might ask whether this principle is specifically about lay leadership — *parnas* suggesting political authority — or whether it extends to Torah interpretation. The answer is that in the figure of Rabban Gamliel, and in the *shofet* of the Torah, both roles are embodied simultaneously.
 
@@ -320,11 +300,12 @@ The problem is that these figures do not obviously belong in the same category. 
 
 ## Judge Your Day
 
+
+
 ### Time Absurdity
 
-> **Hebrew/Aramaic:** וְאוֹמֵר: ״וּבָאתָ אֶל הַכֹּהֲנִים הַלְוִיִּם וְאֶל הַשּׁוֹפֵט אֲשֶׁר יִהְיֶה בַּיָּמִים הָהֵם״, וְכִי תַּעֲלֶה עַל דַּעְתְּךָ שֶׁאָדָם הוֹלֵךְ אֵצֶל הַדַּיָּין שֶׁלֹּא הָיָה בְּיָמָיו? הָא אֵין לְךָ לֵילֵךְ אֶלָּא אֵצֶל שׁוֹפֵט שֶׁבְּיָמָיו.
->
-> **Translation:** **And it** further **says: "And you shall come to the priests, the Levites, and to the judge who shall be in those days"** (Deuteronomy 17:9). **But** can it **enter your mind that a person** can **go to a judge that is not** alive **in his days?** What, then, is the meaning of the phrase "in those days"? It teaches that **you** need **to go only to the judge in one's days,** i.e., he is authorized to judge and decide matters.
+> **Hebrew/Aramaic:** וְאוֹמֵר: ״וּבָאתָ אֶל הַכֹּהֲנִים הַלְוִיִּם וְאֶל הַשֹּׁפֵט אֲשֶׁר יִהְיֶה בַּיָּמִים הָהֵם״, וְכִי תַּעֲלֶה עַל דַּעְתְּךָ שֶׁאָדָם הוֹלֵךְ אֵצֶל הַדַּיָּין שֶׁלֹּא הָיָה בְּיָמָיו? הָא אֵין לְךָ לֵילֵךְ אֶלָּא אֵצֶל שׁוֹפֵט שֶׁבְּיָמָיו. וְאוֹמֵר: ״אַל תֹּאמַר מֶה הָיָה שֶׁהַיָּמִים הָרִאשׁוֹנִים הָיוּ טוֹבִים מֵאֵלֶּה״.
+> **Translation:** **And it** further **says: “And you shall come to the priests, the Levites, and to the judge who shall be in those days”** (Deuteronomy 17:9). **But** can it **enter your mind that a person** can **go to a judge that is not** alive **in his days?** What, then, is the meaning of the phrase “in those days”? It teaches that **you** need **to go only to the judge in one’s days,** i.e., he is authorized to judge and decide matters. **And it** also **says: “Do not say: How was it that the former days were better than these?** For it is not out of wisdom that you inquire concerning this” (Ecclesiastes 7:10). Instead, one must accept the rulings of the leaders of his generation.
 
 *U-vata el ha-kohanim ha-Levi'im ve'el ha-shofet asher yihyeh ba-yamim ha-hem* — you shall come to the *kohanim* and the *shofet* who will be in those days. The *Gemara* asks the obvious: *v'chi ta'aleh al da'at'cha she-adam holech etzel dayan she-lo hayah be-yamav?* — would it enter your mind that a person could go to a judge who was not alive in his time? The verse's formulation — *the judge who will be in those days* — would be absurd if it meant anything other than the judge of your own generation. The verse is therefore teaching precisely through its apparent redundancy.
 
@@ -333,10 +314,6 @@ The problem is that these figures do not obviously belong in the same category. 
 *Ein lecha leilech ela etzel shofet she-be-yamav* — you have no recourse but to go to the judge of your own generation. There is no other option, no mechanism for bypassing your contemporary authority in favor of an idealized earlier one.
 
 ### Anti-Nostalgia
-
-> **Hebrew/Aramaic:** וְאוֹמֵר: ״אַל תֹּאמַר מֶה הָיָה שֶׁהַיָּמִים הָרִאשׁוֹנִים הָיוּ טוֹבִים מֵאֵלֶּה״.
->
-> **Translation:** **And it** also **says: "Do not say: How was it that the former days were better than these?** For it is not out of wisdom that you inquire concerning this" (Ecclesiastes 7:10). Instead, one must accept the rulings of the leaders of his generation.
 
 The *Gemara* then invokes the verse from *Kohelet*: *Al tomar mah hayah she-ha-yamim ha-rishonim hayu tovim me-eleh* — do not say, "How is it that the earlier days were better than these?" Do not bemoan the loss of superior earlier leadership.
 
@@ -352,11 +329,13 @@ The *Gemara* then invokes the verse from *Kohelet*: *Al tomar mah hayah she-ha-y
 
 ## Rambam Powers
 
+
+
 ### Reversal Principle
 
 The well-known principle is that a later *beit din* cannot reverse an earlier *beit din* unless it is greater in wisdom and number — *ad she-yehiyeh gadol mimenu be-hochmah u-ve-minyan*. What "greater in number" means precisely is not entirely clear, since all *battei din* of the same category are nominally the same size. But the wisdom criterion clearly establishes that a court of diminished scholarly standing cannot overturn its predecessors. Since the trajectory of generations is understood as generally downward, this in practice means that very few rulings can ever be reversed.
 
-### Legislative vs. Interpretive
+### Legislative vs Interp
 
 The *Rambam*, however, draws a distinction that emerges from this very *sugya* and the *midrashim* surrounding it. This limitation on reversal — the requirement to be greater in wisdom and number — applies to the *legislative* capacity of the *beit din*: its power to enact takkanot, issue gezerot, and establish communal practices that were not derived from interpretation of *Torah she-bikhtav*. But the *interpretive* capacity — the authority to determine what the *pesukim* themselves mean in terms of *Torah she-be'al peh* — operates on a different plane. Here, the principle of *ke-Yiftach be-doro ke-Shmuel be-doro* applies in full. The judge of your generation is your authoritative interpreter of *Torah she-bikhtav*, and his interpretation is binding.
 
@@ -372,43 +351,47 @@ But the theoretical implication is significant: a later *Beit Din ha-Gadol*, eve
 
 ## Reconciliation (II)
 
+
+
 ### Public Submission
 
-> **Hebrew/Aramaic:** אַשְׁרֵי הַדּוֹר שֶׁהַגְּדוֹלִים נִשְׁמָעִים לַקְּטַנִּים, קַל וָחוֹמֶר קְטַנִּים לַגְּדוֹלִים.
->
-> **Translation:** **Fortunate is the generation in which the greater heed the lesser, and** it is **an *a fortiori*** inference that the generation in which **the lesser** heed **the greater** is certainly fortunate as well.
+> **Hebrew/Aramaic:** נָטַל מַקְלוֹ וּמְעוֹתָיו בְּיָדוֹ. תָּנוּ רַבָּנַן: כֵּיוָן שֶׁרָאָה אוֹתוֹ, עָמַד מִכִּסְּאוֹ וּנְשָׁקוֹ עַל רֹאשׁוֹ, אָמַר לוֹ: שָׁלוֹם עָלֶיךָ רַבִּי וְתַלְמִידִי! רַבִּי — שֶׁלִּמַּדְתַּנִי תּוֹרָה בָּרַבִּים, וְתַלְמִידִי — שֶׁאֲנִי גּוֹזֵר עָלֶיךָ גְּזֵירָה וְאַתָּה מְקַיְּימָהּ כְּתַלְמִיד. אַשְׁרֵי הַדּוֹר שֶׁהַגְּדוֹלִים נִשְׁמָעִים לַקְּטַנִּים, קַל וָחוֹמֶר קְטַנִּים לַגְּדוֹלִים.
+> **Translation:** § The mishna taught: Rabbi Yehoshua **took his staff and his money in his hand,** and appeared before Rabban Gamliel on the day on which Yom Kippur occurred according to his calculation, as Rabban Gamliel had ordered him to do. **The Sages taught** in a *baraita*: **When** Rabban Gamliel **saw** Rabbi Yehoshua, **he rose from his chair and kissed him on his head** and **said to him: Peace be on you, my teacher and my student. My teacher, as you have taught me Torah in public, and my student, as I issue a decree against you and you fulfill it like a student** of mine. **Fortunate is the generation in which the greater heed the lesser, and** it is **an *a fortiori*** inference that the generation in which **the lesser** heed **the greater** is certainly fortunate as well.
 
-The *baraita*'s concluding observation — *Ashrei ha-dor she-ha-gedolim nishma'im la-ktanim* — deserves one final reflection. What Rabban Gamliel acknowledged by kissing Rabbi Yehoshua and calling him *rabbi u-talmidi* was not merely a personal gesture of reconciliation. It was a public act: *Rabbi she-limaditani Torah ba-rabbim*, you taught me Torah publicly, in front of others. Rabbi Yehoshua's submission — appearing with staff and money on what he regarded as *Yom Kippur* — was itself a public act visible to all who saw him arrive in Yavne. The great ones who are willing to submit, even when they believe themselves to be right, set the defining example for what communal deference to authority looks like. It is *mitokh she-ha-gedolim nishma'im la-ktanim* — from seeing the great ones submit — that the lesser ones learn to carry the argument themselves. Authority, in this *sugya*, is not merely asserted from above; it is modeled and internalized through precisely these acts of visible, costly submission.
+> **Hebrew/Aramaic:** קַל וָחוֹמֶר?! חִיּוּבָא הוּא! אֶלָּא: מִתּוֹךְ שֶׁהַגְּדוֹלִים נִשְׁמָעִים לַקְּטַנִּים — נוֹשְׂאִין קְטַנִּים קַל וָחוֹמֶר בְּעַצְמָן.
+> **Translation:** The Gemara questions this last point: Is this derived by **an *a fortiori*** inference? This is incorrect, as **it is an obligation** for the lesser to heed those who are greater than them. **Rather,** Rabbi Gamliel meant the following: **Since the greater heed the lesser, the lesser apply an *a fortiori*** inference **to themselves** and heed the leaders of the generation.
+
+The *baraita*'s concluding observation — *Ashrei ha-dor she-ha-gedolim nishma'im la-ktanim* — deserves one final reflection. What Rabban Gamliel acknowledged by kissing Rabbi Yehoshua and calling him *rabbi u-talmidi* was not merely a personal gesture of reconciliation. It was a public act: *Rabbi she-limaditani Torah ba-rabbim*, you taught me Torah publicly, in front of others. The phrasing is worth pausing on. Rabban Gamliel does not say simply that Rabbi Yehoshua is wiser or more learned; he says *she-limaditani* — that he taught *me*, placing himself explicitly in a receiving, dependent relationship. To call someone *rabbi* in the full sense is not merely an honorific acknowledging superior intellect, but an acknowledgment that one actually stands at that person's feet, as a student stands before a teacher. That is the concession being made here. And the phrase *Torah ba-rabbim* — Torah in public, in front of the many — underscores that this was not a private exchange but a lesson delivered before the whole community, which makes Rabban Gamliel's acceptance of it all the more significant. What is more, *u-talmidi she-ani gozer alecha gezeira ve-ata mekayemah* — and my student, in that you carry out my decrees — maps the political relationship directly onto the rabbinic one: because political authority has halachic consequences, acting as though Rabban Gamliel is one's halachic superior, even where one believes him to be in error, is itself what the structure of *halacha* demands. Rabbi Yehoshua's submission — appearing with staff and money on what he regarded as *Yom Kippur* — was itself a public act visible to all who saw him arrive in Yavne. The great ones who are willing to submit, even when they believe themselves to be right, set the defining example for what communal deference to authority looks like. It is *mitokh she-ha-gedolim nishma'im la-ktanim* — from seeing the great ones submit — that the lesser ones learn to carry the argument themselves. Authority, in this *sugya*, is not merely asserted from above; it is modeled and internalized through precisely these acts of visible, costly submission.
 
 ---
 
 ## Beit Din Seeing
 
-### Three Scenarios
 
-> **Hebrew/Aramaic:** מַתְנִי׳ רָאוּהוּ בֵּית דִּין וְכׇל יִשְׂרָאֵל, נֶחְקְרוּ הָעֵדִים וְלֹא הִסְפִּיקוּ לוֹמַר ״מְקוּדָּשׁ״ עַד שֶׁחָשֵׁיכָה — הֲרֵי זֶה מְעוּבָּר.
->
-> **Translation:** MISHNA: If **the court and all of** the **Jewish people saw** the new moon, and **the witnesses were interrogated, but** the court **did not manage to say: Sanctified, before nightfall,** so that the thirtieth day already passed, the previous month **is** rendered **a full,** thirty-day month, and the following day is observed as the New Moon.
+
+### Three Scenarios
 
 With the conclusion of the third *perek*, the new *perek* opens. It is notable that the division here between *perakim* is somewhat puzzling — we remain squarely in the midst of the theme of *kiddush hachodesh*, which had been the subject of the preceding material. The opening *mishnah* presents three distinct scenarios involving who sees the new moon and under what circumstances a formal declaration can be made.
 
+> **Hebrew/Aramaic:** הֲדַרַן עֲלָךְ אִם אֵינָן מַכִּירִין
+
 ### All Israel Case
+
+> **Translation:** 
+
+> **Hebrew/Aramaic:** רָאוּהוּ בֵּית דִּין וְכׇל יִשְׂרָאֵל, נֶחְקְרוּ הָעֵדִים וְלֹא הִסְפִּיקוּ לוֹמַר ״מְקוּדָּשׁ״ עַד שֶׁחָשֵׁיכָה — הֲרֵי זֶה מְעוּבָּר.
+> **Translation:** MISHNA: If **the court and all of** the **Jewish people saw** the new moon, and **the witnesses were interrogated, but** the court **did not manage to say: Sanctified, before nightfall,** so that the thirtieth day already passed, the previous month **is** rendered **a full,** thirty-day month, and the following day is observed as the New Moon.
 
 The first case: *Ra'u Beit Din v'chol Yisrael, nekharu ha'edim v'lo hispiku lomar mekudash ad shechashicha* — the *beit din* and all of Israel saw the new moon, the witnesses were examined, but they did not manage to say *mekudash* before nightfall. *Harei zeh m'ubar* — the month is pregnant, meaning thirty days, and *Rosh Chodesh* is the following day. The remarkable point here is that it makes no difference that everyone knew the moon had appeared. The formal declaration must be made, and it must be made before nightfall. Failure to complete the process in time means the month is automatically extended.
 
 ### Beit Din Alone
 
-> **Hebrew/Aramaic:** רָאוּהוּ בֵּית דִּין בִּלְבַד — יַעַמְדוּ שְׁנַיִם וְיָעִידוּ בִּפְנֵיהֶם, וְיֹאמְרוּ: ״מְקוּדָּשׁ מְקוּדָּשׁ״.
->
-> **Translation:** If **the court alone saw** the new moon, **two** members of the court **should stand and testify before the others, and** the court **should say: Sanctified, sanctified.**
+> **Hebrew/Aramaic:** רָאוּהוּ בֵּית דִּין בִּלְבַד — יַעַמְדוּ שְׁנַיִם וְיָעִידוּ בִּפְנֵיהֶם, וְיֹאמְרוּ: ״מְקוּדָּשׁ מְקוּדָּשׁ״. רָאוּהוּ שְׁלֹשָׁה וְהֵן בֵּית דִּין — יַעַמְדוּ הַשְּׁנַיִם וְיוֹשִׁיבוּ מֵחֲבֵירֵיהֶם אֵצֶל הַיָּחִיד, וְיָעִידוּ בִּפְנֵיהֶם, וְיֹאמְרוּ: ״מְקוּדָּשׁ מְקוּדָּשׁ״, שֶׁאֵין הַיָּחִיד נֶאֱמָן עַל יְדֵי עַצְמוֹ.
+> **Translation:** If **the court alone saw** the new moon, **two** members of the court **should stand and testify before the others, and** the court **should say: Sanctified, sanctified.** If **three** people **saw** the new moon, **and they are** themselves members of **a court** for this purpose, **two** of them **should stand and seat** two **of their colleagues next to the individual** who remains of the three, thereby forming a new court of three. The two standing judges **should** then **testify before** the three seated judges that they saw the new moon and the seated judges **say: Sanctified, sanctified.** This procedure is necessary **because an individual is not authorized** to declare the month sanctified **by himself.** Rather, a court of three is required.
 
 The second scenario: *Ra'u Beit Din bilvad* — only the *beit din* saw the moon, without the broader populace. Since they have a full day available and are not racing the clock, the procedural question becomes: do they need external witnesses? They themselves are the witnesses. The *mishnah*'s answer is: *Ya'amdu shnayim v'ya'idu bifneihem* — two members of the *beit din* stand apart and serve as witnesses before the remaining members, who then hear the testimony and declare *mekudash mekudash*. Even when the court itself has seen the moon, the formal structure of witness-and-declaration must be replicated within the court's own procedures.
 
 ### Three Members
-
-> **Hebrew/Aramaic:** רָאוּהוּ שְׁלֹשָׁה וְהֵן בֵּית דִּין — יַעַמְדוּ הַשְּׁנַיִם וְיוֹשִׁיבוּ מֵחֲבֵירֵיהֶם אֵצֶל הַיָּחִיד, וְיָעִידוּ בִּפְנֵיהֶם, וְיֹאמְרוּ: ״מְקוּדָּשׁ מְקוּדָּשׁ״, שֶׁאֵין הַיָּחִיד נֶאֱמָן עַל יְדֵי עַצְמוֹ.
->
-> **Translation:** If **three** people **saw** the new moon, **and they are** themselves members of **a court** for this purpose, **two** of them **should stand and seat** two **of their colleagues next to the individual** who remains of the three, thereby forming a new court of three. The two standing judges **should** then **testify before** the three seated judges that they saw the new moon and the seated judges **say: Sanctified, sanctified.** This procedure is necessary **because an individual is not authorized** to declare the month sanctified **by himself.** Rather, a court of three is required.
 
 The third scenario: exactly three members constitute the *beit din* and they saw the moon. If two break off to serve as witnesses, only one remains — insufficient to form a court. The solution: *yoshivu mekhavereihem etzel hayakhid* — they recruit two additional qualified individuals to join the remaining one, reconstituting a new *beit din* of three, before whom the two can then testify.
 
@@ -420,48 +403,43 @@ The *mishnah* concludes with the principle: *she-ein hayakhid ne'eman al yedei a
 
 ## Gemara Challenge
 
-### Seeing > Hearing
 
-> **Hebrew/Aramaic:* לְמָה לִי לְמִיתְנֵא רָאוּהוּ בֵּית דִּין וְכׇל יִשְׂרָאֵל? אִיצְטְרִיךְ, סָלְקָא דַּעְתָּךְ אָמֵינָא: הוֹאִיל וְרָאוּהוּ בֵּית דִּין וְכׇל יִשְׂרָאֵל — אִיפַּרְסְמָא לַהּ וְלָא לִיעַבְּרוּהּ, קָא מַשְׁמַע לַן.
->
-> **Translation:** **Why do I** need the mishna **to teach:** If **the court and all of** the **Jewish people saw** the new moon? Merely stating that the court saw the moon would have sufficed, since its sanctification depends on them. The Gemara answers: **It was necessary** for the mishna to teach that even in that case, the month is intercalated. As **it might enter your mind to say** that **since the court and all of** the **Jewish people saw** the new moon, **it was publicized** that it was the New Moon that day, **and let them** no longer **intercalate** the month. Therefore, the *tanna* of the mishna **teaches us** that even in the case where all the Jewish people saw the new moon, the New Moon must be declared by the court.
+
+### Seeing > Hearing
 
 The *Gemara* enters into tension with the *mishnah* through a well-established principle: *lo tehei shmi'ah gedolah me-re'iyah* — hearing should not be greater than seeing. The logic is straightforward: if seeing something with one's own eyes is held to be the most direct form of knowledge, then formal testimony — which is a verbal report of what someone else saw — should not be more powerful than direct personal observation. If the *beit din* has already seen the moon, they know what they know. Why should they need to go through the formal procedure of witness acceptance at all?
 
 ### Redundant Case?
 
-*Lama li lemitni ra'u Beit Din v'chol Yisrael?* — why does the *mishnah* need to teach the case where both the *beit din* and all Israel saw the moon? *Salka da'atakh amina*: one might have thought that since everyone saw it and the matter is entirely public, the month should simply not be made pregnant even without a formal declaration. The *mishnah* therefore needs to tell us: no, *mekudash* was not said, and *harei zeh meubar*.
+> **Hebrew/Aramaic:** גְּמָ׳ לְמָה לִי לְמִיתְנֵא רָאוּהוּ בֵּית דִּין וְכׇל יִשְׂרָאֵל? אִיצְטְרִיךְ, סָלְקָא דַּעְתָּךְ אָמֵינָא: הוֹאִיל וְרָאוּהוּ בֵּית דִּין וְכׇל יִשְׂרָאֵל — אִיפַּרְסְמָא לַהּ וְלָא לִיעַבְּרוּהּ, קָא מַשְׁמַע לַן.
+> **Translation:** GEMARA: The Gemara asks: **Why do I** need the mishna **to teach:** If **the court and all of** the **Jewish people saw** the new moon? Merely stating that the court saw the moon would have sufficed, since its sanctification depends on them. The Gemara answers: **It was necessary** for the mishna to teach that even in that case, the month is intercalated. As **it might enter your mind to say** that **since the court and all of** the **Jewish people saw** the new moon, **it was publicized** that it was the New Moon that day, **and let them** no longer **intercalate** the month. Therefore, the *tanna* of the mishna **teaches us** that even in the case where all the Jewish people saw the new moon, the New Moon must be declared by the court.
+
+Applying this principle to the *mishnah*, the *Gemara* asks: *Lama li lemitni ra'u Beit Din v'chol Yisrael?* — why does the *mishnah* need to teach the case where both the *beit din* and all Israel saw the moon? *Salka da'atakh amina*: one might have thought that since everyone saw it and the matter is entirely public, the month should simply not be made pregnant even without a formal declaration. The *mishnah* therefore needs to tell us: no, *mekudash* was not said, and *harei zeh meubar*.
 
 ### Declaration Required
 
-The answer is thus: even when the fact is universally known, the formal declaration is indispensable. The procedural act of saying *mekudash mekudash* is not merely evidentiary — confirming what is already known — but constitutive: it is the declaration that creates the halachic reality of *Rosh Chodesh*. Without it, the knowledge is legally inert.
-
-> **Hebrew/Aramaic:** וְכֵיוָן דִּתְנָא לֵיהּ רָאוּהוּ בֵּית דִּין וְכׇל יִשְׂרָאֵל — נֶחְקְרוּ הָעֵדִים לְמָה לִי! הָכִי קָאָמַר: אִי נָמֵי נֶחְקְרוּ הָעֵדִים וְלֹא הִסְפִּיקוּ לוֹמַר ״מְקוּדָּשׁ״ עַד שֶׁחָשֵׁיכָה — הֲרֵי זֶה מְעוּבָּר.
->
+> **Hebrew/Aramaic:** וְכֵיוָן דִּתְנָא לֵיהּ רָאוּהוּ בֵּית דִּין וְכׇל יִשְׂרָאֵל — נֶחְקְרוּ הָעֵדִים לְמָה לִי! הָכִי קָאָמַר: אִי נָמֵי נֶחְקְרוּ הָעֵדִים וְלֹא הִסְפִּיקוּ לוֹמַר ״מְקוּדָּשׁ״ עַד שֶׁחָשֵׁיכָה — הֲרֵי זֶה מְעוּבָּר.
 > **Translation:** The Gemara asks further: **But once** the mishna **states:** If **the court and all of** the **Jewish people saw** the new moon, **why do I** need it to say: And **the witnesses were interrogated?** Why are witnesses necessary if the new moon was already seen by the court? The Gemara answers that **this is what** the *tanna* **is saying: Alternatively,** if **the witnesses were interrogated, but** the court **had no time to say: Sanctified, before nightfall,** the previous month is **intercalated** and rendered a full month of thirty days.
+
+> **Hebrew/Aramaic:** וְכֵיוָן דִּתְנָא עַד שֶׁחָשֵׁיכָה הֲרֵי זֶה מְעוּבָּר — לְמָה לִי לְמִיתְנְיַיהּ חֲקִירַת הָעֵדִים כְּלָל?
+> **Translation:** The Gemara raises another difficulty. **But once** the mishna **taught:** But the court did not manage to say: Sanctified, **before nightfall,** the previous month is rendered a full, thirty-day month, **why do I** need the mishna **to teach** about **the interrogation of the witnesses?** This *halakha* was already stated with regard to a case where the court itself saw the new moon.
+
+> **Hebrew/Aramaic:** אִיצְטְרִיךְ, סָלְקָא דַּעְתָּךְ אָמֵינָא: תֶּיהְוֵי חֲקִירַת עֵדִים כִּתְחִילַּת דִּין, וּ״מְקוּדָּשׁ מְקוּדָּשׁ״ כִּגְמַר דִּין, וּלְקַדְּשֵׁיהּ בְּלֵילְיָא, מִידֵּי דְּהָוֵה אַדִּינֵי מָמוֹנוֹת, דִּתְנַן: דִּינֵי מָמוֹנוֹת דָּנִין בַּיּוֹם וְגוֹמְרִין בַּלַּיְלָה — הָכָא נָמֵי מְקַדְּשִׁין בְּלֵילְיָא, קָא מַשְׁמַע לַן.
+> **Translation:** The Gemara explains: It **was necessary,** as it might **enter your mind to say: Let the interrogation of the witnesses be** regarded **as the beginning of the judicial** process, **and** let the declaration: **Sanctified, sanctified,** be regarded **as the conclusion of the judicial** process, **and let them sanctify** the month **at night,** because the process began during the day. This process would then be **just as it is in** cases of **monetary law, as we learned** in a mishna: In cases of **monetary law,** although they must be adjudicated during the day, the court may **judge** the majority of a case **during the day,** and **complete** the trial and issue the ruling **at night. Here too,** one might assume that the court may **sanctify** the month **at night,** as the process began during the day. Therefore, the mishna **teaches us** that the court may not do so.
+
+The answer is thus: even when the fact is universally known, the formal declaration is indispensable. The procedural act of saying *mekudash mekudash* is not merely evidentiary — confirming what is already known — but constitutive: it is the declaration that creates the halachic reality of *Rosh Chodesh*. Without it, the knowledge is legally inert.
 
 The *Gemara* then pushes further: since the *mishnah* teaches the case of universal observation, why does it also need to mention the case of *chakirat edim*, formal examination of witnesses? The *Gemara* suggests these are two separate sub-cases of the opening clause. *Salka da'atakh amina*: in the case where witnesses were formally examined and a legal process was begun during the day, perhaps — analogous to *dinei mamonot* — the conclusion of the process could extend into the night. The formal initiation of the proceeding would anchor it to the day, and *mekudash mekudash* could then be said after nightfall.
 
 ### Dinei Mamonot
 
-> **Hebrew/Aramaic:** אִיצְטְרִיךְ, סָלְקָא דַּעְתָּךְ אָמֵינָא: תֶּיהְוֵי חֲקִירַת עֵדִים כִּתְחִילַּת דִּין, וּ״מְקוּדָּשׁ מְקוּדָּשׁ״ כִּגְמַר דִּין, וּלְקַדְּשֵׁיהּ בְּלֵילְיָא, מִידֵּי דְּהָוֵה אַדִּינֵי מָמוֹנוֹת, דִּתְנַן: דִּינֵי מָמוֹנוֹת דָּנִין בַּיּוֹם וְגוֹמְרִין בַּלַּיְלָה — הָכָא נָמֵי מְקַדְּשִׁין בְּלֵילְיָא, קָא מַשְׁמַע לַן.
->
-> **Translation:** The Gemara explains: It **was necessary,** as it might **enter your mind to say: Let the interrogation of the witnesses be** regarded **as the beginning of the judicial** process, **and** let the declaration: **Sanctified, sanctified,** be regarded **as the conclusion of the judicial** process, **and let them sanctify** the month **at night,** because the process began during the day. This process would then be **just as it is in** cases of **monetary law, as we learned** in a mishna: In cases of **monetary law,** although they must be adjudicated during the day, the court may **judge** the majority of a case **during the day,** and **complete** the trial and issue the ruling **at night. Here too,** one might assume that the court may **sanctify** the month **at night,** as the process began during the day. Therefore, the mishna **teaches us** that the court may not do so.
-
 In ordinary monetary litigation, the *mishnah* in *Sanhedrin* establishes that *dinei mamonot danim bayom vegomrim balayla* — financial cases are heard during the day but may be concluded at night. One might think the same flexibility should apply to *kiddush hachodesh*: if the examination of witnesses was conducted during the day, the declaration could be made after dark.
 
 ### Ki Chok Verse
 
-> **Hebrew/Aramaic:** וְאֵימָא הָכִי נָמֵי? אָמַר קְרָא: ״כִּי חֹק לְיִשְׂרָאֵל הוּא מִשְׁפָּט לֵאלֹהֵי יַעֲקֹב״, אֵימַת הָוֵי ״חֹק״ — בִּגְמַר דִּין, וְקָא קָרֵי לֵיהּ רַחֲמָנָא ״מִשְׁפָּט״, מָה מִשְׁפָּט בַּיּוֹם — אַף הָכָא נָמֵי בַּיּוֹם.
->
-> **Translation:** The Gemara raises another difficulty: **Why not say** that, **indeed,** the sanctification of the month should be treated like monetary cases? The Gemara answers: **The verse states** with regard to Rosh HaShana: **"For this is a statute for Israel, a judgment [*mishpat*] of the God of Jacob"** (Psalms 81:5). **When does** the sanctification of the month **become a statute? At the end of the judicial process, and the Merciful One calls it a judgment** as well, thereby teaching that **just as** the primary time of **a judgment is during the day, here too,** with regard to the sanctification of the New Moon, the process must take place **during the day,** and not at night.
+> **Hebrew/Aramaic:** וְאֵימָא הָכִי נָמֵי? אָמַר קְרָא: ״כִּי חֹק לְיִשְׂרָאֵל הוּא מִשְׁפָּט לֵאלֹהֵי יַעֲקֹב״, אֵימַת הָוֵי ״חֹק״ — בִּגְמַר דִּין, וְקָא קָרֵי לֵיהּ רַחֲמָנָא ״מִשְׁפָּט״, מָה מִשְׁפָּט בַּיּוֹם — אַף הָכָא נָמֵי בַּיּוֹם.
+> **Translation:** The Gemara raises another difficulty: **Why not say** that, **indeed,** the sanctification of the month should be treated like monetary cases? The Gemara answers: **The verse states** with regard to Rosh HaShana: **“For this is a statute for Israel, a judgment [*mishpat*] of the God of Jacob”** (Psalms 81:5). **When does** the sanctification of the month **become a statute? At the end of the judicial process, and the Merciful One calls it a judgment** as well, thereby teaching that **just as** the primary time of **a judgment is during the day, here too,** with regard to the sanctification of the New Moon, the process must take place **during the day,** and not at night.
 
 The *Gemara* rejects this on the basis of a *pasuk*: *Ki chok leYisrael hu mishpat lelohei Yaakov* — for it is a statute for Israel, a judgment unto the God of Jacob. *Eimat havei chok?* — when is it established as a statute? *Begmar din* — at the conclusion of the judgment. *Veka kari lei rachmana mishpat* — and the Torah calls it *mishpat*, meaning the judicial act, which must take place by day. *Mah mishpat bayom af hacha nami bayom* — just as *mishpat* is by day, so too the conclusion of this process must be by day. Unlike *dinei mamonot*, *kiddush hachodesh* cannot span the day-night boundary; the declaration must be completed while it is still daytime.
 
-### Hearing Not Greater Than Seeing
-
-> **Hebrew/Aramaic:** גְּמָ׳ לְמָה לִי לְמִיתְנֵא רָאוּהוּ בֵּית דִּין בִּלְבַד — יַעַמְדוּ שְׁנַיִם וְיָעִידוּ בִּפְנֵיהֶם. וְאַמַּאי? לֹא תְּהֵא שְׁמִיעָה גְּדוֹלָה מֵרְאִיָּיה!
->
-> **Translation:** GEMARA: The mishna continues: If **the court** alone **saw** the new moon, **two** members of the court **should stand and testify before the others.** The Gemara ponders: If the court saw the new moon, **why** is it necessary for two of its members to testify before the others? **Hearing** their testimony **should not be greater than** actually **seeing** the new moon.
-
-The *mishnah*'s underlying assumption — that firsthand knowledge does not substitute for the formal process of witness testimony and declaration — thus stands in ongoing tension with the *Gemara*'s principle that *shmi'ah* should not exceed *re'iyah*. The resolution of this tension, and its implications for each of the *mishnah*'s three scenarios, will be the work of the next *daf*.
+The *mishnah*'s underlying assumption — that even firsthand knowledge does not substitute for the formal process of witness testimony and declaration — thus stands in ongoing tension with the *Gemara*'s principle that *shmi'ah* should not exceed *re'iyah*. The resolution of this tension, and its implications for each of the *mishnah*'s three scenarios, will be the work of the next *daf*.

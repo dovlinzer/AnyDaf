@@ -1,0 +1,164 @@
+[
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Horned Fish",
+    "candidates": [
+      "Introduction",
+      "Bodies in Wilderness",
+      "Cutting Tzitzit",
+      "Curse & Return",
+      "Rabbis' Mockery",
+      "Tosafot Analysis",
+      "Sinai Scorpions",
+      "Heavenly Voice",
+      "Failed Annulment",
+      "Cracks & Wool Test",
+      "Monthly Return",
+      "Confession",
+      "Mountain Top Window",
+      "Basket Disappears",
+      "Spinning Wheel",
+      "Moon-eyed Fish",
+      "Horned Fish",
+      "Sea Goat",
+      "Treasure Chest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 15,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yochanan's moon-eyed fish story and Rav Safra's horned fish story together, and the prose under heading 15 ('Moon-eyed Fish') explicitly introduces Rabbi Yochanan's sea voyage narrative which begins this combined passage, making it the correct home for the entire quoted text.",
+      "chosen_heading": "Moon-eyed Fish",
+      "current_heading": "Horned Fish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Treasure Chest",
+    "candidates": [
+      "Sea Goat",
+      "Treasure Chest",
+      "Diver & Vinegar",
+      "Heavenly Voice",
+      "Jewel & Serpent",
+      "Raven & Blood",
+      "Revived Monster",
+      "Second Decapitation",
+      "Birds Fly Away",
+      "Light in Ocean"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Treasure Chest",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Rabbi Yochanan story about the treasure chest guarded by sharks and the diver with vinegar, which belongs under 'Treasure Chest' (index 1) since that heading's prose explicitly describes this exact narrative of the chest with precious stones surrounded by karsha/sharks.",
+      "second_heading": "Jewel & Serpent",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the entirely new and self-contained story of Rav Yehuda from India about a precious stone encircled by a sea serpent, which matches 'Jewel & Serpent' (index 4) whose prose explicitly describes this same Rav Yehuda Hindua narrative.",
+      "current_heading": "Treasure Chest",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Light in Ocean",
+    "candidates": [
+      "Diver & Vinegar",
+      "Heavenly Voice",
+      "Jewel & Serpent",
+      "Raven & Blood",
+      "Revived Monster",
+      "Second Decapitation",
+      "Birds Fly Away",
+      "Light in Ocean",
+      "Leviathan's Eye",
+      "Self-healing Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Eliezer and Rabbi Yehoshua on a boat, Rabbi Yehoshua seeing a great light in the sea, which matches exactly the prose of candidate 7 ('Light in Ocean').",
+      "chosen_heading": "Light in Ocean",
+      "current_heading": "Light in Ocean",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Self-healing Meat",
+    "candidates": [
+      "Leviathan's Eye",
+      "Self-healing Meat",
+      "Male & Female"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Huna bar Natan's account of self-healing meat, long-burning coals, and Ameimar's explanation involving samterei grass and retam wood, which exactly matches the prose under 'Self-healing Meat'.",
+      "chosen_heading": "Self-healing Meat",
+      "current_heading": "Self-healing Meat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Male & Female",
+    "candidates": [
+      "Male & Female",
+      "Procreation Risk",
+      "Castration & Death",
+      "Salt Debate",
+      "Behemoth",
+      "Fresh vs Salted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Genesis 1:21 and Rabbi Yo\u1e25anan's identification of the two Leviathans, which directly corresponds to the 'Male & Female' section's prose discussing this same verse and Rabbi Yochanan's identification of the straight and coiled serpents.",
+      "chosen_heading": "Male & Female",
+      "current_heading": "Male & Female",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Fresh vs Salted",
+    "candidates": [
+      "Procreation Risk",
+      "Castration & Death",
+      "Salt Debate",
+      "Behemoth",
+      "Fresh vs Salted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together cover the full sequence: God creating Leviathan and Behemoth male and female, the procreation risk, castrating/killing/salting, and the debate about why fish vs. meat were handled differently \u2014 and candidate 0 ('Procreation Risk') is the opening of that whole block, but more importantly the passage's specific content (the mnemonic introduction, the creation of male and female, the destruction risk, and the resolution for both creatures plus the salt debate) maps most cleanly to candidate 0 as the starting point; however, re-examining, the prose of candidate 0 explicitly discusses the procreation risk for both Leviathan and Behemoth, which is precisely what items 1\u20133 introduce and resolve, making it the best single home for this self-contained sugya.",
+      "chosen_heading": "Procreation Risk",
+      "current_heading": "Fresh vs Salted",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,439 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Opening & Mezuzah",
+    "candidates": [
+      "Opening & Mezuzah",
+      "Biblical Pesukim Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna asking 'from what place does the kohen write the megillah' is directly introduced and explained in candidate 0's prose, which describes exactly this question about where the kohen begins writing the megillah.",
+      "chosen_heading": "Opening & Mezuzah",
+      "current_heading": "Opening & Mezuzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Biblical Pesukim Order",
+    "candidates": [
+      "Biblical Pesukim Order",
+      "Mishnah: Writing Point",
+      "Tanna Kamma View",
+      "Rabbi Yehudah View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe exactly what the kohen writes and does not write \u2014 starting from 'if no man has lain with you,' omitting the narrative instruction 'the priest shall cause the woman to swear,' and not writing 'and the woman shall say amen amen' \u2014 which is precisely what candidate 1's prose ('Mishnah: Writing Point') describes.",
+      "chosen_heading": "Mishnah: Writing Point",
+      "current_heading": "Biblical Pesukim Order",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Rabbi Yehudah View",
+    "candidates": [
+      "Mishnah: Writing Point",
+      "Tanna Kamma View",
+      "Rabbi Yehudah View",
+      "Rabbi Meir: Implicit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yosei's and Rabbi Yehuda's positions on what is written in the megillah, and the current heading 'Rabbi Yehudah View' has prose that directly discusses Rabbi Yehuda's restrictive position (kol atzmo eino kotev) and the omission of v'amrah ha-ishah amen amen \u2014 exactly matching item 2, while Rabbi Yosei's brief statement (item 1) is a closely related tannaitic dispute that naturally belongs in the same section.",
+      "chosen_heading": "Rabbi Yehudah View",
+      "current_heading": "Rabbi Yehudah View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Rabbi Meir: Implicit",
+    "candidates": [
+      "Rabbi Meir: Implicit",
+      "Rabbi Yose: No Cutting",
+      "Meir Responds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the Gemara's question about the source of the dispute and the positions of Rabbi Meir and Rabbi Yosei on the verse, which is exactly what the 'Rabbi Meir: Implicit' section's prose discusses in detail.",
+      "chosen_heading": "Rabbi Meir: Implicit",
+      "current_heading": "Rabbi Meir: Implicit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Meir Responds",
+    "candidates": [
+      "Rabbi Yose: No Cutting",
+      "Meir Responds",
+      "Yehudah: Minimal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states that Rabbi Meir does not interpret 'et' as amplifying, which directly matches the 'Meir Responds' section's prose about Rabbi Meir being 'esin lo darish' and not accepting 'et' as a ribui.",
+      "chosen_heading": "Meir Responds",
+      "current_heading": "Meir Responds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Yehudah: Minimal",
+    "candidates": [
+      "Yehudah: Minimal",
+      "Hei Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage details Rabbi Yehuda's interpretation of all four terms as exclusionary (mi'utim), which is precisely what the 'Yehudah: Minimal' section's prose describes and analyzes.",
+      "chosen_heading": "Yehudah: Minimal",
+      "current_heading": "Yehudah: Minimal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Hei Analysis",
+    "candidates": [
+      "Hei Analysis",
+      "Meir & Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question-and-answer about why the same letter hei amplifies in ha'alot but restricts in ha'eileh, which is precisely what candidate 0 ('Hei Analysis') discusses in detail.",
+      "chosen_heading": "Hei Analysis",
+      "current_heading": "Hei Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Meir & Inference",
+    "candidates": [
+      "Meir & Inference",
+      "Tanchum: Chinaki"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses the Gemara's challenge about Rabbi Meir not accepting the inference from negative to positive, which is precisely what the prose of 'Meir & Inference' discusses at length.",
+      "chosen_heading": "Meir & Inference",
+      "current_heading": "Meir & Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Tanchum: Chinaki",
+    "candidates": [
+      "Tanchum: Chinaki",
+      "Akiva: Fire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Tan\u1e25um's linguistic observation about 'hinnaki/\u1e25innaki,' which is precisely what the prose under heading 0 ('Tanchum: Chinaki') discusses.",
+      "chosen_heading": "Tanchum: Chinaki",
+      "current_heading": "Tanchum: Chinaki",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Akiva: Fire",
+    "candidates": [
+      "Akiva: Fire",
+      "Rava: Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Akiva's derashah on ish/isha and Rava's follow-up observation about the woman's fire being stronger \u2014 are explicitly discussed together in the 'Akiva: Fire' prose, which covers both the zachu/lo zachu teaching and Rava's mitzarfis point in detail.",
+      "chosen_heading": "Akiva: Fire",
+      "current_heading": "Akiva: Fire",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Rava: Merit",
+    "candidates": [
+      "Rava: Merit",
+      "Abraham: Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about why the Torah prescribes dust for the sota, with the exact merit/Abraham/return-to-dust reasoning described in candidate 0's prose, while candidate 1's prose discusses a different Rava derashah about Abraham's humility meriting two mitzvot (efer parah and afar sotah).",
+      "chosen_heading": "Rava: Merit",
+      "current_heading": "Rava: Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Abraham: Merit",
+    "candidates": [
+      "Abraham: Merit",
+      "Derasha: Efer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rava's teaching about dust/ashes, the challenge about kisuy ha-dam, and the resolution \u2014 are explicitly discussed together in candidate 0's prose, which matches the passage's content perfectly.",
+      "chosen_heading": "Abraham: Merit",
+      "current_heading": "Abraham: Merit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Derasha: Efer",
+    "candidates": [
+      "Derasha: Efer",
+      "Techelet: Throne"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core content of the 'Derasha: Efer' section, which explicitly discusses Rava's teaching about Abraham's 'thread and strap' statement and the subsequent Gemara question about phylactery straps and Rabbi Eliezer's baraita \u2014 exactly matching the prose of candidate 0.",
+      "chosen_heading": "Derasha: Efer",
+      "current_heading": "Derasha: Efer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Techelet: Throne",
+    "candidates": [
+      "Techelet: Throne",
+      "Surfaces"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita of Rabbi Meir explaining why techelet resembles the sea/sky/Throne of Glory, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Techelet: Throne",
+      "current_heading": "Techelet: Throne",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Surfaces",
+    "candidates": [
+      "Surfaces",
+      "Ink Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the complete Mishnah about valid and invalid surfaces for writing the sota scroll, which is precisely what the 'Surfaces' prose section discusses.",
+      "chosen_heading": "Surfaces",
+      "current_heading": "Surfaces",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Ink Requirements",
+    "candidates": [
+      "Ink Requirements",
+      "Nighttime Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ink requirements for the sotah scroll \u2014 prohibiting komos, kankantom, and permanent inks in favor of deyo, citing the verse about erasability \u2014 which is precisely what the 'Ink Requirements' section prose discusses.",
+      "chosen_heading": "Ink Requirements",
+      "current_heading": "Ink Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Nighttime Invalid",
+    "candidates": [
+      "Nighttime Invalid",
+      "Backward Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rava's ruling that a sota scroll written at night is invalid, which exactly matches the 'Nighttime Invalid' section's prose about megillat sotah written ba-laylah being pesulah.",
+      "chosen_heading": "Nighttime Invalid",
+      "current_heading": "Nighttime Invalid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Backward Invalid",
+    "candidates": [
+      "Backward Invalid",
+      "Pre-Oath Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses writing the scroll out of sequence (le-mafrea) being invalid, which matches exactly the 'Backward Invalid' section's prose about reverse-order writing being invalid based on the same verse and reasoning.",
+      "chosen_heading": "Backward Invalid",
+      "current_heading": "Backward Invalid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Pre-Oath Invalid",
+    "candidates": [
+      "Pre-Oath Invalid",
+      "No Scoring Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses writing the scroll before the oath is taken being invalid, with the proof text from Numbers 5:21-23 showing the oath must precede the writing \u2014 exactly matching the 'Pre-Oath Invalid' section's prose.",
+      "chosen_heading": "Pre-Oath Invalid",
+      "current_heading": "Pre-Oath Invalid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "No Scoring Invalid",
+    "candidates": [
+      "No Scoring Invalid",
+      "Two Parchments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses writing without scoring (iggeret/letter format) and derives from 'ba-sefer' that formal scroll requirements apply, which exactly matches the 'No Scoring Invalid' section's prose about shirtut and the ba-sefer derivation.",
+      "chosen_heading": "No Scoring Invalid",
+      "current_heading": "No Scoring Invalid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Two Parchments",
+    "candidates": [
+      "Two Parchments",
+      "Intermittent Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses writing a scroll on two separate pages being invalid because the Torah requires one scroll, which directly matches the 'Two Parchments' section's prose.",
+      "chosen_heading": "Two Parchments",
+      "current_heading": "Two Parchments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Intermittent Invalid",
+    "candidates": [
+      "Intermittent Invalid",
+      "Sefer Distinction",
+      "Scoring Requirement",
+      "Tosafot Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes writing and erasing one letter at a time (intermittent erasure) rendering the megillah invalid, which matches exactly the 'Intermittent Invalid' section's prose about the entire text needing to be present at once before scraping.",
+      "chosen_heading": "Intermittent Invalid",
+      "current_heading": "Intermittent Invalid",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Mishnah Chain",
+    "candidates": [
+      "Me'ilah Overview",
+      "Intentional/Unintentional",
+      "Me'ilah De'rabbanan",
+      "Theft vs. Benefit",
+      "Shiur & Kedushah",
+      "Kodshei HaShem",
+      "Masechet Structure",
+      "Psulo Definition",
+      "Mishnah Chain",
+      "Mizbe'ach Test",
+      "Rabbah v. Rav Yosef",
+      "Rabbi Elazar Q."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage contains exactly the three-mishnah chain (Zeva\u1e25im 66b, 68b, 84a) linked by 'chada migo chada' that refutes Rabbah, which is precisely what the 'Mishnah Chain' prose describes in detail.",
+      "chosen_heading": "Mishnah Chain",
+      "current_heading": "Mishnah Chain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Rabbi Elazar Q.",
+    "candidates": [
+      "Mizbe'ach Test",
+      "Rabbah v. Rav Yosef",
+      "Rabbi Elazar Q.",
+      "Tiyuvta de'Rabbah",
+      "Absorption Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items constitute Rabbi Elazar's ruling and question about the olat bamat yachid brought inside the Temple courtyard, along with the Gemara's conclusion that the baseline case is obvious to him \u2014 exactly what candidate 2 ('Rabbi Elazar Q.') describes in its prose.",
+      "chosen_heading": "Rabbi Elazar Q.",
+      "current_heading": "Rabbi Elazar Q.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Absorption Doctrine",
+    "candidates": [
+      "Tiyuvta de'Rabbah",
+      "Absorption Doctrine",
+      "Teiqu",
+      "Rav Giddal Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the Gemara's elaboration of the two competing frameworks (Rabbah vs. Rav Yosef) regarding the olat bamat yachid \u2014 the 'absorption doctrine' discussion \u2014 which is precisely what candidate 1's prose describes, ending with the teiqu that candidate 2 then summarizes as a conclusion.",
+      "chosen_heading": "Absorption Doctrine",
+      "current_heading": "Absorption Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rav Giddal Statement",
+    "candidates": [
+      "Teiqu",
+      "Rav Giddal Statement",
+      "Tosafot Chiddush",
+      "Rav Pappa Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Giddel's statement about zerikat piggul not removing me'ilah from kodshei kodashim and not bringing kodashim kalim into me'ilah, which is precisely what the 'Rav Giddal Statement' prose section introduces and explains.",
+      "chosen_heading": "Rav Giddal Statement",
+      "current_heading": "Rav Giddal Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Rav Pappa Challenge",
+    "candidates": [
+      "Tosafot Chiddush",
+      "Rav Pappa Challenge",
+      "Shechita v. Zrika",
+      "Ula's Kometz Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mishna from Menachot 78b that Rav Pappa used to challenge Abaye \u2014 the toda slaughtered inside while bread is outside, and the conditions under which shechitat pigul does/doesn't sanctify the bread \u2014 which is precisely what the 'Rav Pappa Challenge' prose describes in detail.",
+      "chosen_heading": "Rav Pappa Challenge",
+      "current_heading": "Rav Pappa Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Ula's Kometz Case",
+    "candidates": [
+      "Shechita v. Zrika",
+      "Ula's Kometz Case",
+      "Ilfa Two Avodot",
+      "Ravina Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items are part of the continuous Ulla kometz piggul discussion \u2014 the objection from Ulla's ruling, Rava's response (issura d'masei le'pigul), the kol sheken challenge, and the same answer \u2014 which the prose of heading 1 ('Ula's Kometz Case') describes in precise detail.",
+      "chosen_heading": "Ula's Kometz Case",
+      "current_heading": "Ula's Kometz Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Ravina Objection",
+    "candidates": [
+      "Ilfa Two Avodot",
+      "Ravina Objection",
+      "Retroactive Status",
+      "Toda-Bread Refutation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Ilfa Two Avodot",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Ravina's objection from Ilfa's ruling about shtei avodos/avodah achas and Rav Ashi's resolution that zerikah retroactively reveals the category, which is precisely what candidate 0 ('Ilfa Two Avodot') and candidate 2 ('Retroactive Status') discuss \u2014 but items 1-2 belong under candidate 0 which covers Ilfa's ruling and the shtei avodos/avodah achas distinction, while item 3 introduces the retroactive revelation answer that belongs under candidate 2.",
+      "second_heading": "Toda-Bread Refutation",
+      "second_confidence": "high",
+      "second_reason": "Item 4 raises the toda-bread difficulty against the retroactive model, which is exactly what candidate 3 ('Toda-Bread Refutation') addresses.",
+      "current_heading": "Ravina Objection",
+      "moved": true
+    }
+  }
+]

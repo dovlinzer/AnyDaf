@@ -1,0 +1,432 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Trust in Butchers",
+    "candidates": [
+      "Trust in Butchers",
+      "Rabbinic Opinion Shift",
+      "Rav Nachman's Challenge",
+      "Meir to Yehuda Shift",
+      "Yehuda to Meir Reverse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbinic Opinion Shift",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yochanan's statement of reversal (chazru lomar ne'emanim), which is exactly what heading 1 'Rabbinic Opinion Shift' describes.",
+      "second_heading": "Rav Nachman's Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman's rhetorical challenge (achshurei darei) followed by the resolution about the Meir-to-Yehuda shift, which aligns with heading 2 'Rav Nachman's Challenge' \u2014 noting that heading 3 'Meir to Yehuda Shift' covers the resolution but the item contains both the challenge and its answer as one unit, and heading 2's prose explicitly mentions both the challenge and implicitly leads into that resolution.",
+      "current_heading": "Trust in Butchers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Yehuda to Meir Reverse",
+    "candidates": [
+      "Rabbinic Opinion Shift",
+      "Rav Nachman's Challenge",
+      "Meir to Yehuda Shift",
+      "Yehuda to Meir Reverse",
+      "Old Guard's Memory",
+      "Forgotten Mesorah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items precisely match the 'Yehuda to Meir Reverse' prose, which describes the parallel version applied to the latter clause of the Mishna (chelev), Rabbi Yochanan's reversal to 'ein ne'emanim,' Rav Nachman's 'bizman hazeh ne'emanim,' and the 'achshurei darei' challenge resolved by the Yehuda-to-Meir shift \u2014 exactly what items 1 and 2 contain.",
+      "chosen_heading": "Yehuda to Meir Reverse",
+      "current_heading": "Yehuda to Meir Reverse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Forgotten Mesorah",
+    "candidates": [
+      "Old Guard's Memory",
+      "Forgotten Mesorah",
+      "Halachic Ruling",
+      "Fat Trust Question",
+      "Tosafot Analysis",
+      "Linking Disputes",
+      "Mishna Statement",
+      "Treifa Concern",
+      "Community Context",
+      "Whole vs. Chopped",
+      "Announcement Explanation",
+      "Announcement Details",
+      "First Case Logic",
+      "No Announcements Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Forgotten Mesorah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the exact Gemara text about butchers being trusted once they have forgotten Rabbi Yehuda's lenient ruling, which is precisely what the 'Forgotten Mesorah' prose discusses \u2014 the paradox that forgetting the lenient mesorah restores trust.",
+      "second_heading": "Fat Trust Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's question about why chelev (forbidden fat) is suddenly mentioned in the Mishna, which is exactly what the 'Fat Trust Question' prose introduces as the natural question raised by the Mishna's closing statement about chelev.",
+      "current_heading": "Forgotten Mesorah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "No Announcements Case",
+    "candidates": [
+      "Halachic Ruling",
+      "Fat Trust Question",
+      "Tosafot Analysis",
+      "Linking Disputes",
+      "Mishna Statement",
+      "Treifa Concern",
+      "Community Context",
+      "Whole vs. Chopped",
+      "Announcement Explanation",
+      "Announcement Details",
+      "First Case Logic",
+      "No Announcements Case",
+      "Gneivat Da'at Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage contains the Mishna about sending a thigh to a gentile with the gid intact, followed by the Gemara's whole-versus-chopped distinction and the announcement/no-announcement framework \u2014 exactly what candidate 7 ('Whole vs. Chopped') describes as its topic.",
+      "chosen_heading": "Whole vs. Chopped",
+      "current_heading": "No Announcements Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Gneivat Da'at Reason",
+    "candidates": [
+      "No Announcements Case",
+      "Gneivat Da'at Reason",
+      "Third Explanation",
+      "Pressuring to Eat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "No Announcements Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the two alternative explanations for the restriction (no-announcement decree and gneivat da'at), which belong under 'No Announcements Case' as that section's prose discusses both resolutions for the bemakom she'ein machrizin scenario.",
+      "second_heading": "Gneivat Da'at Reason",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 detail the story of Shmuel and the ferryman and the Gemara's challenge that the story is ambiguous, which matches the 'Gneivat Da'at Reason' section's prose that explicitly discusses this ferryman story and its alternative interpretations.",
+      "current_heading": "Gneivat Da'at Reason",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Pressuring to Eat",
+    "candidates": [
+      "Third Explanation",
+      "Pressuring to Eat",
+      "Unwanted Gifts",
+      "Pre-Sold Barrels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Meir's teaching about pressing a friend to eat when knowing he will not accept, and sending gifts when knowing they will not be accepted \u2014 precisely what the 'Pressuring to Eat' prose discusses, and the current placement is correct.",
+      "chosen_heading": "Pressuring to Eat",
+      "current_heading": "Pressuring to Eat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Pre-Sold Barrels",
+    "candidates": [
+      "Unwanted Gifts",
+      "Pre-Sold Barrels",
+      "Empty Vessel Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the pre-sold barrels case \u2014 item 1 states the rule and item 2 is the Gemara's challenge and resolution regarding Ulla and Rav Yehuda, which is the same topic discussed in the 'Pre-Sold Barrels' prose.",
+      "chosen_heading": "Pre-Sold Barrels",
+      "current_heading": "Pre-Sold Barrels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Empty Vessel Cases",
+    "candidates": [
+      "Empty Vessel Cases",
+      "Honor Exception",
+      "Ulla & Yehuda Story",
+      "Alternative Explanation",
+      "Dead Animal Sandal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita discusses bringing an empty wine jug to a mourner's house and filling it with water \u2014 exactly the 'empty vessel cases' the prose in candidate 0 analyzes, including the mourner's house context and the *gneivat da'at* question about momentary false impressions.",
+      "chosen_heading": "Empty Vessel Cases",
+      "current_heading": "Empty Vessel Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Dead Animal Sandal",
+    "candidates": [
+      "Honor Exception",
+      "Ulla & Yehuda Story",
+      "Alternative Explanation",
+      "Dead Animal Sandal",
+      "Sandal Reasons",
+      "Oil on Wine Deception",
+      "Oil-Wine Tragedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita about selling a sandal made from a dead animal's hide as if from a slaughtered animal, which is exactly what the 'Dead Animal Sandal' section's prose describes and introduces.",
+      "chosen_heading": "Dead Animal Sandal",
+      "current_heading": "Dead Animal Sandal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Oil-Wine Tragedy",
+    "candidates": [
+      "Sandal Reasons",
+      "Oil on Wine Deception",
+      "Oil-Wine Tragedy",
+      "Guest Giving Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the prohibition of sending wine with oil on top and the specific incident of a recipient who invited guests and hanged himself \u2014 this is the illustrative story that section 1 ('Oil on Wine Deception') explicitly anticipates with 'perhaps inviting guests, as in the story below,' making it the natural home for this passage rather than the separate 'Oil-Wine Tragedy' heading.",
+      "chosen_heading": "Oil on Wine Deception",
+      "current_heading": "Oil-Wine Tragedy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Guest Giving Rules",
+    "candidates": [
+      "Oil-Wine Tragedy",
+      "Guest Giving Rules",
+      "Egg Tragedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the rule about guests not giving food to the host's children without permission, which is precisely what the 'Guest Giving Rules' prose discusses.",
+      "chosen_heading": "Guest Giving Rules",
+      "current_heading": "Guest Giving Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Egg Tragedy",
+    "candidates": [
+      "Egg Tragedy",
+      "Yaakov's Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the incident of the host, his son, the three guests, and the chain of deaths \u2014 exactly what the 'Egg Tragedy' prose section discusses.",
+      "chosen_heading": "Egg Tragedy",
+      "current_heading": "Egg Tragedy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Yaakov's Conclusion",
+    "candidates": [
+      "Yaakov's Conclusion",
+      "Friend Meat Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Eliezer ben Yaakov's concluding statement about three souls being killed and the Gemara's explanation that it attributes the entire baraita to him, which matches exactly the prose under 'Yaakov's Conclusion.'",
+      "chosen_heading": "Yaakov's Conclusion",
+      "current_heading": "Yaakov's Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Friend Meat Rules",
+    "candidates": [
+      "Friend Meat Rules",
+      "Non-Jew Exception",
+      "Treifa Prohibition",
+      "Don't Send Non-Jew"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita's content about sending a whole vs. cut thigh to a Jewish friend matches exactly the prose under 'Friend Meat Rules,' which discusses precisely these rules about whole vs. chopped thighs and visibility of the gid hanasheh.",
+      "chosen_heading": "Friend Meat Rules",
+      "current_heading": "Friend Meat Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Don't Send Non-Jew",
+    "candidates": [
+      "Non-Jew Exception",
+      "Treifa Prohibition",
+      "Don't Send Non-Jew",
+      "Contradiction Problem",
+      "Case One Logic",
+      "Case Two Logic",
+      "Case Three Logic",
+      "Abaye Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the braita about not selling neveilot/treifot to non-Jews and not sending a non-Jew to buy meat \u2014 precisely the content described in candidate 1 ('Treifa Prohibition'), whose prose explicitly discusses both the neveilot/treifot prohibition and the resale concern, and which notes that the braita continues with the sending-a-non-Jew clause; the current placement under 'Don't Send Non-Jew' only covers items 2-3, missing that items 1-3 form a single braita unit best introduced under candidate 1.",
+      "chosen_heading": "Treifa Prohibition",
+      "current_heading": "Don't Send Non-Jew",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137,
+      138,
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Abaye Resolution",
+    "candidates": [
+      "Contradiction Problem",
+      "Case One Logic",
+      "Case Two Logic",
+      "Case Three Logic",
+      "Abaye Resolution",
+      "Rava Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items together constitute the Gemara's analysis of the contradictory presuppositions in the three clauses of the baraita \u2014 items 1-5 lay out the contradiction (showing each clause requires incompatible assumptions about whether Jews buy from non-Jews) and item 6 is Abaye's resolution \u2014 which as a complete unit matches the 'Contradiction Problem' heading's prose about the Gemara laying out contradictory assumptions with precision, rather than belonging solely under 'Abaye Resolution' which covers only the final item.",
+      "chosen_heading": "Contradiction Problem",
+      "current_heading": "Abaye Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Rava Resolution",
+    "candidates": [
+      "Abaye Resolution",
+      "Rava Resolution",
+      "Rav Ashi Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's resolution that the entire baraita refers to a single community bemakom shemachrizin with the reisha/seifa describing when announcements were made and the metziata when they were not \u2014 exactly matching the 'Rava Resolution' prose.",
+      "chosen_heading": "Rava Resolution",
+      "current_heading": "Rava Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Rav Ashi Resolution",
+    "candidates": [
+      "Rav Ashi Resolution",
+      "Rashi Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Ashi's statement about the entire baraita referring to a place without announcements and the middle clause being a gezeira, which matches exactly the 'Rav Ashi Resolution' section's prose.",
+      "chosen_heading": "Rav Ashi Resolution",
+      "current_heading": "Rav Ashi Resolution",
+      "moved": false
+    }
+  }
+]

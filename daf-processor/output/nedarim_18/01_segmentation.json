@@ -44,7 +44,7 @@
           "timestamp": "13:44"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -98,7 +98,7 @@
           "timestamp": "32:39"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 2,
       "matched": false
     },
     {
@@ -461,5 +461,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "41:17",
+  "amud_b_micro_title": "Opening Principle",
+  "shiur_start_daf": 18,
+  "shiur_start_amud": "a"
 }

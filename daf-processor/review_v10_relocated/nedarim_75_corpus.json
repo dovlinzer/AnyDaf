@@ -1,0 +1,271 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishnah Text",
+    "candidates": [
+      "Opening Remarks",
+      "Mishnah Text",
+      "Mekayem vs. Meifer",
+      "Eliezer Kal VaChomer",
+      "Chachamim Respond"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself, presenting the case of a husband's pre-departure declaration, the lo amar klum ruling, and Rabbi Eliezer's initial statement \u2014 all of which the 'Mishnah Text' prose directly describes and explains.",
+      "chosen_heading": "Mishnah Text",
+      "current_heading": "Mishnah Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Chachamim Respond",
+    "candidates": [
+      "Mekayem vs. Meifer",
+      "Eliezer Kal VaChomer",
+      "Chachamim Respond",
+      "Act vs. Effect",
+      "Two Positions",
+      "Annul After Effect",
+      "Prevent Effect",
+      "Ve-ani Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Rabbis' response using the verse 'her husband may ratify it, or her husband may nullify it' to derive that only what is eligible for ratification is eligible for nullification \u2014 exactly what the 'Chachamim Respond' prose describes.",
+      "chosen_heading": "Chachamim Respond",
+      "current_heading": "Chachamim Respond",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Ve-ani Case",
+    "candidates": [
+      "Act vs. Effect",
+      "Two Positions",
+      "Annul After Effect",
+      "Prevent Effect",
+      "Ve-ani Case",
+      "Example Setup",
+      "Hatarah Question",
+      "Ran's Distinction",
+      "Consequence",
+      "Nazir Parallel",
+      "Ve-ani Timing",
+      "Shelamim Analogy",
+      "Eliezer's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the gemara's formal dilemma (iba'ya lehu) about Rabbi Eliezer's position \u2014 whether vows take effect and are canceled or never take effect at all \u2014 along with the initial nafka mina question, which is precisely what candidate 1 ('Two Positions') describes as its content.",
+      "chosen_heading": "Two Positions",
+      "current_heading": "Ve-ani Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Eliezer's Logic",
+    "candidates": [
+      "Example Setup",
+      "Hatarah Question",
+      "Ran's Distinction",
+      "Consequence",
+      "Nazir Parallel",
+      "Ve-ani Timing",
+      "Shelamim Analogy",
+      "Eliezer's Logic",
+      "Shelo Ba'u",
+      "Challenged Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's attempt to resolve the question from Rabbi Eliezer's kal va-chomer argument about annulling vows she-lo ba'u li-khlal issur, concluding 'learn from it that such vows do not take effect' \u2014 which is precisely what the 'Eliezer's Logic' section discusses.",
+      "chosen_heading": "Eliezer's Logic",
+      "current_heading": "Eliezer's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Challenged Status",
+    "candidates": [
+      "Shelo Ba'u",
+      "Challenged Status",
+      "Own vs. Wife Vows",
+      "Two Mechanisms"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shelo Ba'u",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's rejection of the 'she-einan ba'in' reading, explaining that 'shelo ba'u' means 'not yet reached' \u2014 exactly what heading 0's prose describes.",
+      "second_heading": "Own vs. Wife Vows",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Eliezer's kal va-chomer comparing a man's ability to pre-annul his own vows with his ability to pre-annul his wife's vows, which is precisely what heading 2's prose about the further analogy between own vows and wife's vows discusses.",
+      "current_heading": "Challenged Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Two Mechanisms",
+    "candidates": [
+      "Own vs. Wife Vows",
+      "Two Mechanisms",
+      "After to Before",
+      "Mikveh Cleans",
+      "Remove vs. Prevent",
+      "Person's Role",
+      "Context-Dependent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises and immediately rejects the kal va-chomer inference that pre-nullification of a wife's vows prevents them from taking effect (just as one's own pre-nullified vows do not take effect), which matches exactly the prose of 'Own vs. Wife Vows' \u2014 the current placement under 'Two Mechanisms' is where the gemara's deflection is discussed, but the passage itself presents the initial inference and its rejection, fitting the setup described in heading 0.",
+      "chosen_heading": "Own vs. Wife Vows",
+      "current_heading": "Two Mechanisms",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Context-Dependent",
+    "candidates": [
+      "After to Before",
+      "Mikveh Cleans",
+      "Remove vs. Prevent",
+      "Person's Role",
+      "Context-Dependent",
+      "Pre-dunking",
+      "Suggests Haylan"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Person's Role",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita's counter-example about the mikveh and the adam (person/swallowed object), which is precisely what candidate 3 'Person's Role' discusses \u2014 the adam who cannot make tamei things tahor yet prevents tumah internally, demonstrating opposite directions of the two mechanisms.",
+      "second_heading": "Context-Dependent",
+      "second_confidence": "high",
+      "second_reason": "Item 2 ('shema mina lo chaylin') is the gemara's inferential conclusion drawn from the chachamim's deployment of the mikveh analogy \u2014 that Rabbi Eliezer holds vows do not take effect at all \u2014 which is exactly what candidate 4 'Context-Dependent' discusses as its closing point about what the chachamim's choice of analogy reveals regarding Rabbi Eliezer's position.",
+      "current_heading": "Context-Dependent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Suggests Haylan",
+    "candidates": [
+      "Pre-dunking",
+      "Suggests Haylan",
+      "Conflicting Signals",
+      "Either Way"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly presents the Gemara's conclusion that the latter clause of the baraita teaches that vows 'take effect' (chaylin) \u2014 which is precisely the 'haylan interpretation' that the 'Suggests Haylan' section's prose discusses.",
+      "chosen_heading": "Suggests Haylan",
+      "current_heading": "Suggests Haylan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Either Way",
+    "candidates": [
+      "Conflicting Signals",
+      "Either Way",
+      "Seeds Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the resolution explained in the 'Either Way' prose: the Rabbis didn't know Rabbi Eliezer's position and structured their argument to cover both possibilities (haylan/lo haylan), which is precisely what this Aramaic text states.",
+      "chosen_heading": "Either Way",
+      "current_heading": "Either Way",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Seeds Response",
+    "candidates": [
+      "Seeds Response",
+      "Suggests Lo Haylan",
+      "Seeds Support",
+      "Uncertainty",
+      "Scripture Over Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage concludes with 'shema mina lo chaylin' \u2014 the gemara's conclusion from the seeds analogy \u2014 which matches 'Seeds Support' prose that explicitly discusses this conclusion and the lo haylan interpretation, rather than 'Seeds Response' which covers only Rabbi Eliezer's initial presentation of the analogy.",
+      "chosen_heading": "Seeds Support",
+      "current_heading": "Seeds Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Scripture Over Logic",
+    "candidates": [
+      "Suggests Lo Haylan",
+      "Seeds Support",
+      "Uncertainty",
+      "Scripture Over Logic",
+      "Ran's Synthesis",
+      "Integrated Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents exactly the challenge and answer that the Ran's Synthesis prose describes: item 1 raises the objection that the Rabbis do use this form of kal va-chomer (the daughter-selling case), and item 2 answers that while they generally accept it, here a specific verse (ishah yekimennu ve-ishah yeferennu) overrides it \u2014 which is precisely the content candidate 4 previews when it asks why the chachamim deployed kal va-chomer arguments if they have a gezerat ha-katuv, citing the daughter-selling gemara as the example.",
+      "chosen_heading": "Ran's Synthesis",
+      "current_heading": "Scripture Over Logic",
+      "moved": true
+    }
+  }
+]

@@ -107,7 +107,7 @@
           "timestamp": "27:28"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -121,8 +121,8 @@
           "timestamp": "30:48"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Fixed Interest (Ribit Ketzutzah): A Contractual Case in Violation",
@@ -150,7 +150,7 @@
           "timestamp": "36:37"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -866,5 +866,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "31:57",
+  "amud_b_micro_title": "Elazar vs. Yochanan",
+  "shiur_start_daf": 5,
+  "shiur_start_amud": "b"
 }

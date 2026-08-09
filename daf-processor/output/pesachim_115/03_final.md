@@ -1,10 +1,11 @@
-# Pesachim 115 — Daf Yomi Shiur
-
+[DAF:114b]
 ## Daf Overview
+
+
 
 ### Opening
 
-Today's daf is 115, and we pick up in the middle of 114b. A schematic of the *haggadah* has been distributed, which will serve as a useful reference throughout the discussion. The schematic traces the *seder* from start to finish, with the key instructional rubrics underlined so as to track how those instructions developed over time.
+A schematic of the *haggadah* has been distributed, which will serve as a useful reference throughout the discussion. The schematic traces the *seder* from start to finish, with the key instructional rubrics underlined so as to track how those instructions developed over time.
 
 ### Haggadah Flow
 
@@ -14,11 +15,9 @@ We have already discussed *Kadesh* and *Karpas*; *Urchatz* has not yet been addr
 
 ## Maror Upfront
 
-### Mishna Anomaly
 
-> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רֵישׁ לָקִישׁ: זֹאת אוֹמֶרֶת מִצְוֹת צְרִיכוֹת כַּוּוֹנָה. כֵּיוָן דְּלָא בְּעִידָּן חִיּוּבָא דְּמָרוֹר הוּא דְּאָכֵיל לֵיהּ, בְּ״בוֹרֵא פְּרִי הָאֲדָמָה״ הוּא דְּאָכֵיל לֵיהּ. וְדִילְמָא לָא אִיכַּוַּון לְמָרוֹר, הִלְכָּךְ בָּעֵי לְמֶהְדַּר לְאַטְבּוֹלֵי לְשֵׁם מָרוֹר. דְּאִי סָלְקָא דַעְתָּךְ מִצְוָה לָא בָּעֲיָא כַּוּוֹנָה, לְמָה לָךְ תְּרֵי טִיבּוּלֵי? וְהָא טַבֵּיל לֵיהּ חֲדָא זִימְנָא!
->
-> **Translation:** GEMARA: **Reish Lakish said: That is to say** that **mitzvot require intent.** One who performs a mitzva must do so with the intent to fulfill his obligation. The proof of this from the mishna is that **since one does not eat** the lettuce **at the time of his obligation to** eat **bitter herbs,** he eats it after reciting only one blessing: **Who creates fruit of the ground. And** clearly the reason is that **perhaps he did not intend** to fulfill his obligation to eat **bitter herbs,** and **therefore** he **needs to dip it again for the purpose of bitter herbs. For if it could enter your mind** that **mitzvot do not require intent, why do you** need **two dippings? But he** has already **dipped** the lettuce **once.**
+
+### Mishna Anomaly
 
 The *gemara* on this daf engages with a striking feature of the *mishnah*: when the *mishnah* describes the vegetable dipped at the beginning of the *seder* — what we call *karpas* (though the *mishnah* itself does not use that term) — it identifies the vegetable as *maror*. This is puzzling, because we know that *maror* is meant to be eaten later, together with *matzah*, as the verse states: *al matzos u'merorim yochluhu* — "upon *matzos* and *maror* shall you eat it." The *gemara* therefore asks: by using *maror* at the beginning, have you not preempted performing the *mitzvah* of *maror* at the proper time?
 
@@ -27,10 +26,6 @@ The *gemara* on this daf engages with a striking feature of the *mishnah*: when 
 The *gemara* presents two ways of understanding why the *mishnah* permits this. Reish Lakish holds that *mitzvos* require intent — *mitzvos tzrichos kavana* — and therefore when one ate the *maror* at the outset for the purpose of *karpas*, one had no intent to fulfill the *mitzvah* of *maror*, and was thus not *yotzei*. The *chiddush* of the *mishnah*, on this reading, is that one may use *maror* upfront without fear of discharging the *mitzvah* prematurely, because intent is required.
 
 ### No Intent Req
-
-> **Hebrew/Aramaic:** מִמַּאי? דִּילְמָא: לְעוֹלָם מִצְוֹת אֵין צְרִיכוֹת כַּוּוֹנָה, וּדְקָאָמְרַתְּ תְּרֵי טִיבּוּלֵי לְמָה לִי? כִּי הֵיכִי דְּלֶיהְוֵי הֶיכֵּירָא לְתִינוֹקוֹת.
->
-> **Translation:** The Gemara rejects this contention: **From where** do you know that this is the case? **Perhaps** I can say that **actually mitzvot do not require intent. And that which you said, why do I** need **two dippings,** perhaps the reason is **so that there** should **be a conspicuous** distinction **for the children,** which will cause them to inquire into the difference between this night and all others.
 
 The *gemara* then raises an alternative: perhaps the *chiddush* of the *mishnah* is precisely the opposite — that *mitzvos* do *not* require intent, and even so, we use *maror* upfront in order to have two dippings, with the *mitzvah* discharged early and the second dipping performed later. This seems bizarre on its face — one would have thought that if all you have is *maror*, you should simply skip *karpas* and wait until the proper time. But the *gemara* suggests that perhaps the *chiddush* is that we deliberately use it for both, precisely so that there will be two dippings. The *gemara* thus presents the question starkly: does the *mishnah*'s allowance of *maror* upfront prove that *mitzvos* require intent (and therefore it is safe to use *maror* early), or does it prove that even without intent, the two-dipping structure is worth performing *maror* out of sequence?
 
@@ -44,17 +39,21 @@ That said, the *gemara* clearly does not understand the *mishnah* this way. The 
 
 ### Braisa Evidence
 
-> **Hebrew/Aramaic:** וְעוֹד תַּנְיָא: אֲכָלָן דְּמַאי — יָצָא. אֲכָלָן בְּלֹא מִתְכַּוֵּין — יָצָא. אֲכָלָן לַחֲצָאִין — יָצָא.
->
-> **Translation:** **And furthermore, it was taught** in a *baraita*: On Passover, if **one ate** vegetables of **doubtfully tithed produce,** i.e., he bought the vegetables from an *am ha'aretz*, **he has fulfilled** his obligation. If **he ate them without** the **intent** of the mitzva, **he has fulfilled** his obligation. **If he ate them in halves,** by eating half an olive-bulk of bitter herbs, pausing, and then eating an additional half an olive-bulk, **he has fulfilled** his obligation.
+> **Hebrew/Aramaic:** וְעוֹד תַּנְיָא: אֲכָלָן דְּמַאי — יָצָא. אֲכָלָן בְּלֹא מִתְכַּוֵּין — יָצָא. אֲכָלָן לַחֲצָאִין — יָצָא.
+> **Translation:** **And furthermore, it was taught** in a *baraita*: On Passover, if **one ate** vegetables of **doubtfully tithed produce,** i.e., he bought the vegetables from an *am ha’aretz*, **he has fulfilled** his obligation. If **he ate them without** the **intent** of the mitzva, **he has fulfilled** his obligation. **If he ate them in halves,** by eating half an olive-bulk of bitter herbs, pausing, and then eating an additional half an olive-bulk, **he has fulfilled** his obligation.
+
+> **Hebrew/Aramaic:** וּבִלְבַד שֶׁלֹּא יִשְׁהֶא בֵּין אֲכִילָה לַחֲבֶירְתָּהּ יוֹתֵר מִכְּדֵי אֲכִילַת פְּרָס!
+> **Translation:** **And** the Gemara adds: With regard to this last case, one who eats an olive-bulk in halves, that is the *halakha*, **provided that he does not pause between eating** the first half an olive-bulk and **the other** half an olive-bulk **more than the time it takes to eat a half-loaf** of bread. If one takes longer than this amount of time, the two parts of bitter herbs cannot combine. This *baraita* indicates that even if one eats the bitter herbs without intention he has fulfilled his obligation, which presents a difficulty for Reish Lakish.
 
 The *gemara* then brings a *braisa* to challenge Reish Lakish's position. The *braisa* states: if one ate *maror* that was *demai* (produce whose *terumot* and *ma'asros* are uncertain), one has fulfilled the obligation. If one ate it without intent — *belo miskayvein* — one has fulfilled the obligation. And if one ate it in two separate portions, provided they are consumed within the time it takes to eat half a loaf of bread (*achilas pras*), one has also fulfilled the obligation. The absence of an intent requirement, stated explicitly in the *braisa*, seems to undermine Reish Lakish's position. The *gemara* responds: *tannai hi* — this is a dispute among *tannaim*.
 
 ### R. Yosei View
 
-> **Hebrew/Aramaic:** תַּנָּאֵי הִיא. דְּתַנְיָא, רַבִּי יוֹסֵי אוֹמֵר: אַף עַל פִּי שֶׁטִּיבֵּל בַּחֲזֶרֶת — מִצְוָה לְהָבִיא לְפָנָיו חֲזֶרֶת וַחֲרוֹסֶת וּשְׁנֵי תַבְשִׁילִין.
->
-> **Translation:** The Gemara answers: The issue of whether or not mitzvot require intent **is** a dispute between ***tanna'im*, as it was taught** in a *baraita*: **Rabbi Yosei says: Although one** has already **dipped the *ḥazeret*** once, it is **a mitzva to bring before him *ḥazeret* and *ḥaroset*, and two cooked dishes.** Apparently, he lacked intention during his first consumption of lettuce, and therefore he must be given additional lettuce with which to fulfill his obligation.
+> **Hebrew/Aramaic:** תַּנָּאֵי הִיא. דְּתַנְיָא, רַבִּי יוֹסֵי אוֹמֵר: אַף עַל פִּי שֶׁטִּיבֵּל בַּחֲזֶרֶת — מִצְוָה לְהָבִיא לְפָנָיו חֲזֶרֶת וַחֲרוֹסֶת וּשְׁנֵי תַבְשִׁילִין.
+> **Translation:** The Gemara answers: The issue of whether or not mitzvot require intent **is** a dispute between ***tanna’im*, as it was taught** in a *baraita*: **Rabbi Yosei says: Although one** has already **dipped the *ḥazeret*** once, it is **a mitzva to bring before him *ḥazeret* and *ḥaroset*, and two cooked dishes.** Apparently, he lacked intention during his first consumption of lettuce, and therefore he must be given additional lettuce with which to fulfill his obligation.
+
+> **Hebrew/Aramaic:** וְאַכַּתִּי מִמַּאי? דִּילְמָא קָסָבַר רַבִּי יוֹסֵי מִצְוֹת אֵין צְרִיכוֹת כַּוָּונָה, וְהַאי דְּבָעֵינַן תְּרֵי טִיבּוּלֵי כִּי הֵיכִי דְּתִיהְוֵי הֶיכֵּירָא לְתִינוֹקוֹת. אִם כֵּן, מַאי ״מִצְוָה״?!
+> **Translation:** The Gemara asks: **And still** this is no conclusive proof, as **from where** do I know that Rabbi Yosei is of the opinion that mitzvot require intent? **Perhaps Rabbi Yosei maintains** that **mitzvot do not require intent, and** the reason **that we require two dippings is so that there** should **be a conspicuous** distinction **for the children.** The Gemara rejects this argument: **If so,** for **what** reason does Rabbi Yosei use the term **mitzva?** There is no mitzva from the Torah to provide a distinction to stimulate the curiosity of the young ones. The mitzva is to eat bitter herbs, and evidently this individual must return and eat them again because he lacked intention the first time.
 
 To substantiate this, the *gemara* cites a further *braisa*: Rabbi Yosei says that even if one dipped with the *maror* at the beginning (*af al pi shetiblu bachazeres*), it is still a *mitzvah* to bring back *chazeres* (the *maror*), *charoses*, and the two cooked dishes. The very fact that Rabbi Yosei calls bringing the *maror* back a *mitzvah* implies that the obligation was not yet discharged — which supports the view that *mitzvos tzrichos kavana*. The *gemara* pushes back: perhaps Rabbi Yosei holds *mitzvos einan tzrichos kavana*, and the *maror* was fully discharged upfront, but he requires bringing it back for the sake of the second dipping, so that there will be *trei tibulei* — two dippings — as a *hikara* for the children. The *gemara* deflects this by noting that if that were so, Rabbi Yosei would not have called the return of the *maror* a *mitzvah*, since it would be merely a procedural requirement rather than the fulfillment of a commandment. This, the *gemara* concludes, is how Reish Lakish's position survives as a view in a *tannaim* dispute.
 
@@ -62,35 +61,40 @@ To substantiate this, the *gemara* cites a further *braisa*: Rabbi Yosei says th
 
 ## Blessings/2Dips
 
+
+
+[DAF:115a]
 ### Rav Huna
 
-> **Hebrew/Aramaic:** מַאי שְׁנֵי תַבְשִׁילִין? אָמַר רַב הוּנָא: סִילְקָא וְאָרוֹזָא. רָבָא הֲוָה מְיהַדַּר אַסִּילְקָא וְאָרוֹזָא הוֹאִיל וְנָפֵיק מִפּוּמֵּיהּ דְּרַב הוּנָא.
->
-> **Translation:** The Gemara asks: **What** are these **two cooked foods** mentioned in the mishna? **Rav Huna said: Beets and rice.** The Gemara relates that **Rava would seek beets and rice** for his meal on Passover night, **since** this ruling **came from Rav Huna's mouth.** Although Rava realized that Rav Huna was merely citing examples and did not mean that one must eat those specific foods, he wanted to fulfill the statement of his teacher precisely.
+> **Hebrew/Aramaic:** מַאי שְׁנֵי תַבְשִׁילִין? אָמַר רַב הוּנָא: סִילְקָא וְאָרוֹזָא. רָבָא הֲוָה מְיהַדַּר אַסִּילְקָא וְאָרוֹזָא הוֹאִיל וְנָפֵיק מִפּוּמֵּיהּ דְּרַב הוּנָא.
+> **Translation:** The Gemara asks: **What** are these **two cooked foods** mentioned in the mishna? **Rav Huna said: Beets and rice.** The Gemara relates that **Rava would seek beets and rice** for his meal on Passover night, **since** this ruling **came from Rav Huna’s mouth.** Although Rava realized that Rav Huna was merely citing examples and did not mean that one must eat those specific foods, he wanted to fulfill the statement of his teacher precisely.
 
-Before returning to the *gemara*'s discussion of intent, there is an important digression concerning the *blessings* recited when *maror* is used for both dippings. The *gemara* first addresses a preliminary matter — *mai shenei tavshilin*, what are the two cooked dishes on the *seder* plate? Rav Huna says beets and rice. Rava was careful always to have beets and rice, in deference to Rav Huna's statement. Rav Ashi notes from this that Rav Huna did not accept the view of Rabbi Yochanan ben Nuri, who held that rice is a type of grain, that one incurs *kares* for leavening it, and that one may fulfill the *mitzvah* of *matzah* with it on Passover — a position so marginal that the *gemara* treats it as effectively rejected. Chizkiya adds that even fish smeared with egg can count as two dishes. Rav Yosef clarifies that the two dishes must be two types of meat — one *zecher l'Pesach*, a remembrance of the Paschal offering, and one *zecher l'Chagiga*, a remembrance of the festival offering. Ravina adds that even a bone and the broth in which it was cooked can count as two.
+> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי: שְׁמַע מִינַּהּ דְּרַב הוּנָא, לֵית דְּחָיֵישׁ לְהָא דְּרַבִּי יוֹחָנָן בֶּן נוּרִי. דְּתַנְיָא, רַבִּי יוֹחָנָן בֶּן נוּרִי אוֹמֵר: אוֹרֶז מִין דָּגָן הוּא וְחַיָּיבִין עַל חִימּוּצוֹ כָּרֵת, וְאָדָם יוֹצֵא בּוֹ יְדֵי חוֹבָתוֹ בַּפֶּסַח.
+> **Translation:** **Rav Ashi said: Learn** incidentally another *halakha* **from** this statement **of Rav Huna,** that there is **no** one **who is concerned about that** statement **of Rabbi Yoḥanan ben Nuri. As it was taught in** a *baraita*: **Rabbi Yoḥanan ben Nuri says: Rice is a type of grain** in all regards; **and one is liable** to receive ***karet* for** eating it in **its leavened** state on Passover; **and one fulfills his obligation with it on Passover,** if it was properly baked into *matza*. It can be inferred from Rav Huna’s suggestion to use cooked rice, that rice cannot become leavened.
+
+> **Hebrew/Aramaic:** חִזְקִיָּה אָמַר: אֲפִילּוּ דָּג וּבֵיצָה שֶׁעָלָיו. רַב יוֹסֵף אָמַר: צָרִיךְ שְׁנֵי מִינֵי בָשָׂר, אֶחָד זֵכֶר לַפֶּסַח, וְאֶחָד זֵכֶר לַחֲגִיגָה. רָבִינָא אָמַר: אֲפִילּוּ גַּרְמָא וּבִישּׁוּלָא.
+> **Translation:** **Ḥizkiya said:** The two cooked foods can **even** be **fish and** the **egg that** that was fried **on it. Rav Yosef said:** One **requires two types of meat** on Passover night, **one in remembrance of the Paschal lamb and** the other **one in remembrance of the Festival** peace-offering, which was also eaten on Passover night. **Ravina said:** For the two cooked foods one may use **even** the meat on **the bone** and the **gravy** in which it was cooked.
+
+> **Hebrew/Aramaic:** פְּשִׁיטָא, הֵיכָא דְּאִיכָּא שְׁאָר יְרָקוֹת, מְבָרֵךְ אַשְּׁאָר יְרָקוֹת ״בּוֹרֵא פְּרִי הָאֲדָמָה״ וְאָכֵיל, וַהֲדַר מְבָרֵךְ ״עַל אֲכִילַת מָרוֹר״ וְאָכֵיל.
+> **Translation:** With regard to the *halakha* of eating vegetables, the Gemara clarifies: It is **obvious** that **where there are other vegetables** available besides bitter herbs, at the first dipping **one recites over** the **other vegetables the blessing: Who creates fruit of the ground, and eats,** with the intention of including in this blessing the bitter herbs he will eat later. **And then,** at the second dipping, **he recites the blessing:** Commanded us over **eating bitter herbs,** on the lettuce **and eats** it.
+
+> **Hebrew/Aramaic:** הֵיכָא דְּלֵיכָּא אֶלָּא חַסָּא, מַאי? אָמַר רַב הוּנָא: מְבָרֵךְ מֵעִיקָּרָא אַמָּרוֹר ״בּוֹרֵא פְּרִי הָאֲדָמָה״ וְאָכֵיל, וּלְבַסּוֹף מְבָרֵךְ עֲלֵיהּ ״עַל אֲכִילַת מָרוֹר״ וְאָכֵיל.
+> **Translation:** However, **what is** the *halakha* **where there is only lettuce** available? When should one recite each blessing? **Rav Huna said: One initially recites the blessing: Who creates fruit of the ground, over the bitter herbs,** i.e., the lettuce, **and eats** them. **And ultimately,** after the *matza*, **one recites the blessing:** Commanded us over **eating bitter herbs, over** the lettuce **and eats** it.
+
+> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב חִסְדָּא: לְאַחַר שֶׁמִּילֵּא כְּרֵיסוֹ הֵימֶנּוּ חוֹזֵר וּמְבָרֵךְ עֲלֵיהּ? אֶלָּא אָמַר רַב חִסְדָּא: מֵעִיקָּרָא מְבָרֵךְ עֲלֵיהּ ״בּוֹרֵא פְּרִי הָאֲדָמָה״ וְ״עַל אֲכִילַת מָרוֹר״ וְאָכֵיל, וּלְבַסּוֹף אָכֵיל אֲכִילַת חַסָּא בְּלֹא בְּרָכָה.
+> **Translation:** **Rav Ḥisda strongly objects to this** opinion: Do you think that **after one fills his belly with** lettuce, **he then recites** another **blessing over it? Rather, Rav Ḥisda said: Initially one recites** two **blessings over** the lettuce: **Who creates fruit of the ground, and:** Commanded us over **eating bitter herbs, and he eats** it; **and later** in the seder **he eats lettuce without a blessing.**
+
+Before returning to the *gemara*'s discussion of intent, there is an important digression concerning the *blessings* recited when *maror* is used for both dippings. The *gemara* first addresses a preliminary matter — *mai shenei tavshilin*, what are the two cooked dishes on the *seder* plate? Rav Huna says beets and rice. Rava was careful always to have beets and rice, in deference to Rav Huna's statement. Rav Ashi notes from this that Rav Huna did not accept the view of Rabbi Yochanan ben Nuri, who held that rice is a type of grain, that one incurs *kares* for leavening it, and that one may fulfill the *mitzvah* of *matzah* with it on Passover — a position so marginal that the *gemara* treats it as effectively rejected. The very fact that Rav Huna offers rice as a permissible *tavshilin* demonstrates that he is wholly unconcerned with Rabbi Yochanan ben Nuri's view, since if Rabbi Yochanan ben Nuri were correct, using rice in this context would carry weighty implications. Chizkiya adds that even fish smeared with egg can count as two dishes. Rav Yosef clarifies that the two dishes must be two types of meat — one *zecher l'Pesach*, a remembrance of the Paschal offering, and one *zecher l'Chagiga*, a remembrance of the festival offering. Ravina adds that even a bone and the broth in which it was cooked can count as two.
 
 *Tosafot* raises the question of whether, if *Shabbat* falls on *Erev Pesach* and the *chagiga* was not offered, one would have only a single cooked dish. He concludes that since the concern is about creating a visual distinction, this need not be applied in such cases, lest it confuse people. As for *Rashi*'s suggestion that one dish should be roasted (*tzli*), as a *zecher l'Pesach*, and the other cooked, as a *zecher l'Chagiga*, *Tosafot* demurs: since it is established that the *chagiga* too was eaten roasted, according to Beit Shammai, there would be no visual distinction, and so both may be cooked. Notably, nothing in the *gemara* suggests that these dishes are merely symbolic items to be gazed at rather than eaten.
 
 The *gemara* then turns to the central question of this section. It states: *pashita* — it is obvious — that if one has *other* vegetables available for *karpas*, one makes *borei pri ha'adama* over the vegetable at the outset and later makes *al achilas maror* when one reaches the *maror* portion of the *seder*. There is no blessing conflict because the two acts of eating are entirely distinct.
 
-> **Hebrew/Aramaic:** פְּשִׁיטָא, הֵיכָא דְּאִיכָּא שְׁאָר יְרָקוֹת, מְבָרֵךְ אַשְּׁאָר יְרָקוֹת ״בּוֹרֵא פְּרִי הָאֲדָמָה״ וְאָכֵיל, וַהֲדַר מְבָרֵךְ ״עַל אֲכִילַת מָרוֹר״ וְאָכֵיל.
->
-> **Translation:** With regard to the *halakha* of eating vegetables, the Gemara clarifies: It is **obvious** that **where there are other vegetables** available besides bitter herbs, at the first dipping **one recites over** the **other vegetables the blessing: Who creates fruit of the ground, and eats,** with the intention of including in this blessing the bitter herbs he will eat later. **And then,** at the second dipping, **he recites the blessing:** Commanded us over **eating bitter herbs,** on the lettuce **and eats** it.
-
 The question arises only where all one has is *maror* — *chasa* — and one uses it for both the initial dipping and later for the *mitzvah* eating after *hamotzi*. In that case, what blessings does one recite, and in what order?
 
-> **Hebrew/Aramaic:** הֵיכָא דְּלֵיכָּא אֶלָּא חַסָּא, מַאי? אָמַר רַב הוּנָא: מְבָרֵךְ מֵעִיקָּרָא אַמָּרוֹר ״בּוֹרֵא פְּרִי הָאֲדָמָה״ וְאָכֵיל, וּלְבַסּוֹף מְבָרֵךְ עֲלֵיהּ ״עַל אֲכִילַת מָרוֹר״ וְאָכֵיל.
->
-> **Translation:** However, **what is** the *halakha* **where there is only lettuce** available? When should one recite each blessing? **Rav Huna said: One initially recites the blessing: Who creates fruit of the ground, over the bitter herbs,** i.e., the lettuce, **and eats** them. **And ultimately,** after the *matza*, **one recites the blessing:** Commanded us over **eating bitter herbs, over** the lettuce **and eats** it.
-
-Rav Huna rules: at the outset, one recites *borei pri ha'adama* on the *maror* used for *karpas* and eats it. Later, when one reaches the *maror* eating after *hamotzi*, one recites *al achilas maror* and eats. The blessings are kept in their natural sequence — *borei pri ha'adama* comes first because it is the primary botanical blessing, and *al achilas maror* comes when one fulfills the *mitzvah*.
+Rav Huna rules: at the outset, one recites *borei pri ha'adama* on the *maror* used for *karpas* and eats it. Later, when one reaches the *maror* eating after *hamotzi*, one recites *al achilas maror* and eats. The blessings are kept in their natural sequence — *borei pri ha'adama* comes first because it is the primary botanical blessing, and *al achilas maror* comes when one fulfills the *mitzvah*. This ruling is what draws Rav Chisda's sharp objection, to which the *gemara* now turns.
 
 ### R. Chisda Obj
-
-> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב חִסְדָּא: לְאַחַר שֶׁמִּילֵּא כְּרֵיסוֹ הֵימֶנּוּ חוֹזֵר וּמְבָרֵךְ עֲלֵיהּ? אֶלָּא אָמַר רַב חִסְדָּא: מֵעִיקָּרָא מְבָרֵךְ עֲלֵיהּ ״בּוֹרֵא פְּרִי הָאֲדָמָה״ וְ״עַל אֲכִילַת מָרוֹר״ וְאָכֵיל, וּלְבַסּוֹף אָכֵיל אֲכִילַת חַסָּא בְּלֹא בְּרָכָה.
->
-> **Translation:** **Rav Ḥisda strongly objects to this** opinion: Do you think that **after one fills his belly with** lettuce, **he then recites** another **blessing over it? Rather, Rav Ḥisda said: Initially one recites** two **blessings over** the lettuce: **Who creates fruit of the ground, and:** Commanded us over **eating bitter herbs, and he eats** it; **and later** in the seder **he eats lettuce without a blessing.**
 
 Rav Chisda challenges Rav Huna's position sharply, at the top of 115a. His objection: after you have already stuffed your stomach with *maror* — *l'achar shemilei kreiso heimenu* — can you really turn around and recite *al achilas maror*, the blessing proclaiming that you are about to perform the *mitzvah* of eating *maror*? You ate *maror* an hour ago. The blessing *al achilas maror* is a *birchas hamitzvah* — a blessing on the act of the commandment — and reciting it after one has already been eating *maror* is simply not appropriate.
 
@@ -100,11 +104,10 @@ Rav Chisda's solution is therefore: recite both blessings at the very beginning 
 
 ### Regional Practice
 
-> **Hebrew/Aramaic:** בְּסוּרְיָא עָבְדִי כְּרַב הוּנָא, וְרַב שֵׁשֶׁת בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ עָבֵיד כְּרַב חִסְדָּא. וְהִלְכְתָא כְּווֹתֵיהּ דְּרַב חִסְדָּא. רַב אַחָא בְּרֵיהּ דְּרָבָא מְהַדַּר אַשְּׁאָר יְרָקוֹת לְאַפּוֹקֵי נַפְשֵׁיהּ מִפְּלוּגְתָּא.
->
-> **Translation:** The Gemara comments: **In Syria, they act in accordance with** the opinion of **Rav Huna. And Rav Sheshet, son** of **Rav Yehoshua, acted in accordance with** the opinion of **Rav Ḥisda.** The Gemara summarizes: **And the *halakha* is in accordance with** the opinion of **Rav Ḥisda.** The Gemara relates that **Rav Aḥa, son** of **Rava, would seek other vegetables** for Passover **to preclude himself from** taking sides in **the dispute.** He first recited only the blessing: Who creates fruit of the ground, and later added the blessing: Commanded us over eating bitter herbs, thereby satisfying all opinions.
-
 The *gemara* records that in Surya the practice followed Rav Huna, while the household of Rav Sheshes the son of Rav Yehoshua followed Rav Chisda. The fact that Surya maintained the practice of Rav Huna is puzzling — it implies that a community regularly had nothing but *maror* for both dippings, and deliberately chose that practice rather than simply obtaining another vegetable. This may itself reflect a view, perhaps unacknowledged by the *gemara*, that *davka* using *maror* upfront was considered appropriate or even preferable.
+
+> **Hebrew/Aramaic:** בְּסוּרְיָא עָבְדִי כְּרַב הוּנָא, וְרַב שֵׁשֶׁת בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ עָבֵיד כְּרַב חִסְדָּא. וְהִלְכְתָא כְּווֹתֵיהּ דְּרַב חִסְדָּא. רַב אַחָא בְּרֵיהּ דְּרָבָא מְהַדַּר אַשְּׁאָר יְרָקוֹת לְאַפּוֹקֵי נַפְשֵׁיהּ מִפְּלוּגְתָּא.
+> **Translation:** The Gemara comments: **In Syria, they act in accordance with** the opinion of **Rav Huna. And Rav Sheshet, son** of **Rav Yehoshua, acted in accordance with** the opinion of **Rav Ḥisda.** The Gemara summarizes: **And the *halakha* is in accordance with** the opinion of **Rav Ḥisda.** The Gemara relates that **Rav Aḥa, son** of **Rava, would seek other vegetables** for Passover **to preclude himself from** taking sides in **the dispute.** He first recited only the blessing: Who creates fruit of the ground, and later added the blessing: Commanded us over eating bitter herbs, thereby satisfying all opinions.
 
 ### Final Ruling
 
@@ -112,11 +115,14 @@ The *halakhah* is ruled like Rav Chisda: both blessings are recited at the outse
 
 ### Tosafot Expl
 
+
 What exactly is this dispute about? The simplest reading, as the *Rashbam* seems to suggest, is that it is simply an application of the earlier debate: if *mitzvos tzrichos kavana*, you were not *yotzei* *maror* upfront, so Rav Huna can defer *al achilas maror* until later; if *mitzvos einan tzrichos kavana*, you will be *yotzei* when you first eat the *maror*, and therefore both blessings must be made at the outset.
 
 *Tosafot* disagrees. If the dispute were that simple, the objection would have been framed differently — Rav Chisda would have said *l'achar sheyatza hu chozer mevarech al achilas maror*, "after you have already been *yotzei*, can you still recite *al achilas maror*?" Instead, Rav Chisda says *l'achar shemilei kreiso heimenu* — after you have already been eating *maror*. This language, *Tosafot* argues, reflects a different concern: not that one has formally discharged the *mitzvah*, but that the propriety of reciting *al achilas maror* is compromised by the fact that one has been consuming *maror* throughout. Even granting, as *Tosafot* does, that *mitzvos tzrichos kavana* and therefore the *mitzvah* was not discharged at the first dipping, it is still unseemly to recite *al achilas maror* after extended prior consumption of *maror*.
 
 The question that then arises is: how can one recite *al achilas maror* at the very beginning if one has not yet fulfilled the *mitzvah* with intent? *Tosafot* reasons that as long as one recites the blessing and begins the *mitzvah* — even in some preliminary way — the *berachah* remains valid even with an interruption before the *mitzvah* is completed. *Tosafot* compares this to *tekias shofar* on Rosh Hashanah: the primary *tekios* through which one is *yotzei* are those during *shemoneh esrei*, yet one recites the blessing before the earlier *tekios*, and the blessing remains connected to the *mitzvah* even after the full *amidah* and its repetition. The logic is that both acts — the earlier *maror* and the earlier *tekios* — are sufficiently connected to the *mitzvah* that the *berachah* can be considered to have begun on the *mitzvah*, and interruption does not sever that connection.
+
+It is worth pressing the comparison slightly. One might have thought that for a *berachah* to "begin on the *mitzvah*," the initial act must itself be capable of counting as the *mitzvah* in some meaningful sense — not merely the same physical act divorced from any halachic weight. If under *mitzvos tzrichos kavana* the early eating of *maror* carries no weight whatsoever, why does it suffice to anchor the *berachah*? *Tosafot*'s answer seems to be that even under *tzrichos kavana*, once one has recited *asher kidshanu b'mitzvosav v'tzivanu al achilas maror* and then eaten, that act of eating presumably does carry *kavana* — the *berachah* itself supplies it — so the early eating is not entirely inert. It could, if necessary, serve as the *mitzvah*. Similarly with *tekias shofar*: should one never have gotten to the *tekios* during *shemoneh esrei*, one could presumably have fallen back on the earlier *tekios* as the fulfillment of the obligation *d'oraisa*. What both cases share, then, is that the earlier act is not the preferred fulfillment, but it is not a nullity either — it occupies a kind of standing as a potential *mitzvah* that is sufficient to connect the *berachah*, even if the real focus is on what comes later.
 
 This discussion opens onto a broader question: to what extent is the *haggadah* itself a *hefsek*? Does it constitute an interruption that severs the connection between the blessings made early in the *seder* and the eating that follows? This is a major dispute among the *rishonim*. If the *haggadah* is a *hefsek*, then one would need a new *borei pri hagafen* on the second cup — and in fact one does — and one might also require a new *borei pri ha'adama* on the *maror*. *Tosafot* accepts that the *haggadah* is a *hefsek* and therefore a new *borei pri hagafen* is needed on the second cup. As for *borei pri ha'adama* on *maror*, *Tosafot* argues that it is not required because *maror* is covered by *hamotzi* — the bread blessing covers food eaten in the course of the meal.
 
@@ -134,11 +140,15 @@ Finally, Rav Acha the son of Rava would make a point of obtaining other vegetabl
 
 ## Lvls Negation
 
+
+
 ### Principle
 
-> **Hebrew/Aramaic:** אָמַר רָבִינָא: אָמַר לִי רַב מְשַׁרְשְׁיָא בְּרֵיהּ דְּרַב נָתָן, הָכִי אָמַר הִלֵּל מִשְּׁמֵיהּ דִּגְמָרָא: לָא נִיכְרוֹךְ אִינִישׁ מַצָּה וּמָרוֹר בַּהֲדֵי הֲדָדֵי וְנֵיכוֹל, מִשּׁוּם דִּסְבִירָא לַן מַצָּה בִּזְמַן הַזֶּה דְּאוֹרָיְיתָא, וּמָרוֹר דְּרַבָּנַן, וְאָתֵי מָרוֹר דְּרַבָּנַן וּמְבַטֵּיל לֵיהּ לְמַצָּה דְּאוֹרָיְיתָא.
->
+> **Hebrew/Aramaic:** אָמַר רָבִינָא: אָמַר לִי רַב מְשַׁרְשְׁיָא בְּרֵיהּ דְּרַב נָתָן, הָכִי אָמַר הִלֵּל מִשְּׁמֵיהּ דִּגְמָרָא: לָא נִיכְרוֹךְ אִינִישׁ מַצָּה וּמָרוֹר בַּהֲדֵי הֲדָדֵי וְנֵיכוֹל, מִשּׁוּם דִּסְבִירָא לַן מַצָּה בִּזְמַן הַזֶּה דְּאוֹרָיְיתָא, וּמָרוֹר דְּרַבָּנַן, וְאָתֵי מָרוֹר דְּרַבָּנַן וּמְבַטֵּיל לֵיהּ לְמַצָּה דְּאוֹרָיְיתָא.
 > **Translation:** **Ravina said: Rav Mesharshiya, son** of **Rav Natan, said to me** that **Hillel said as follows, citing tradition: A person** should **not wrap *matza* and bitter herbs together and eat** them. He ruled in this manner **because** he maintains that **today,** after the destruction of the Temple, the obligation to eat ***matza*** applies **by Torah** law, **and** the obligation to eat **bitter herbs** without the Paschal lamb applies **by rabbinic** law. **And** if one were to wrap them together, the **bitter herbs,** whose obligation applies **by rabbinic** law, would **come and nullify** the ***matza*,** whose obligation applies **by Torah** law.
+
+> **Hebrew/Aramaic:** וַאֲפִילּוּ לְמַאן דְּאָמַר: מִצְוֹת אֵין מְבַטְּלוֹת זוֹ אֶת זוֹ, הָנֵי מִילֵּי דְּאוֹרָיְיתָא בִּדְאוֹרָיְיתָא אוֹ דְּרַבָּנַן בִּדְרַבָּנַן, אֲבָל דְּאוֹרָיְיתָא וּדְרַבָּנַן — אָתֵי דְּרַבָּנַן וּמְבַטֵּיל לֵיהּ לִדְאוֹרָיְיתָא.
+> **Translation:** **And even according to the one who says** that **mitzvot do not nullify each other, that** principle applies only to a mixture of one food whose obligation applies **by Torah** law **with** another food whose obligation applies **by Torah** law, or to a mixture of one food whose obligation applies **by rabbinic** law **with** another food whose obligation applies **by rabbinic** law. **However,** in a case of a mixture of one food whose obligation applies **by Torah** law **with** another food whose obligation applies **by rabbinic** law, the food whose obligation applies **by rabbinic** law **comes and nullifies** the food whose obligation applies **by Torah** law.
 
 The *gemara* now introduces what is in many ways the most structurally significant principle governing how the *seder* is conducted: *mitzvos* — specifically two acts of *mitzvah* eating performed simultaneously — do not negate one another (*mitzvos ein mevatlos zu es zu*), as long as they are at the same level of obligation. However, the *gemara* states that when one obligation is *d'oraisa* and the other is *d'rabbanan*, the *d'rabbanan* does negate the *d'oraisa* (*asi d'rabbanan umevatel lei l'd'oraisa*).
 
@@ -148,42 +158,35 @@ A comparison may be drawn to the principle of *kam lei b'drabba minei* — if on
 
 ### Hillel View
 
-> **Hebrew/Aramaic:** וַאֲפִילּוּ לְמַאן דְּאָמַר: מִצְוֹת אֵין מְבַטְּלוֹת זוֹ אֶת זוֹ, הָנֵי מִילֵּי דְּאוֹרָיְיתָא בִּדְאוֹרָיְיתָא אוֹ דְּרַבָּנַן בִּדְרַבָּנַן, אֲבָל דְּאוֹרָיְיתָא וּדְרַבָּנַן — אָתֵי דְּרַבָּנַן וּמְבַטֵּיל לֵיהּ לִדְאוֹרָיְיתָא.
->
-> **Translation:** **And even according to the one who says** that **mitzvot do not nullify each other, that** principle applies only to a mixture of one food whose obligation applies **by Torah** law **with** another food whose obligation applies **by Torah** law, or to a mixture of one food whose obligation applies **by rabbinic** law **with** another food whose obligation applies **by rabbinic** law. **However,** in a case of a mixture of one food whose obligation applies **by Torah** law **with** another food whose obligation applies **by rabbinic** law, the food whose obligation applies **by rabbinic** law **comes and nullifies** the food whose obligation applies **by Torah** law.
-
 Having established this principle, the *gemara* identifies the *tanna* who holds that *mitzvos ein mevatlos zu es zu*: it is Hillel. A *braisa* states that Hillel would wrap together *Pesach*, *matzah*, and *maror* and eat them at once, as derived from the verse *al matzos u'merorim yochluhu* — reading it as a requirement to consume them together. Since Hillel held that all three must be eaten together, he evidently held that when they are all at the same level of obligation (*d'oraisa*), they do not negate one another.
 
 (It should be noted that there is also an *Amora* named Hillel mentioned earlier in this daf, quoted by Ravina in the name of Rav Mesharshiya the son of Rav Natan, stating that one should not wrap *matzah* and *maror* together. The *Ran* notes that this Hillel is an *Amora* and should not be confused with Hillel the *Tanna* quoted in this *braisa*. Given that the passage immediately preceding quotes Hillel the *Tanna*, the distinction is important.)
 
-### Rabbis Disagree
+> **Hebrew/Aramaic:** מַאן תַּנָּא דְּשָׁמְעַתְּ לֵיהּ מִצְוֹת אֵין מְבַטְּלוֹת זוֹ אֶת זוֹ? הִלֵּל הִיא. דְּתַנְיָא, אָמְרוּ עָלָיו עַל הִלֵּל שֶׁהָיָה כּוֹרְכָן בְּבַת אַחַת וְאוֹכְלָן, שֶׁנֶּאֱמַר: ״עַל מַצּוֹת וּמְרוֹרִים יֹאכְלוּהוּ״.
+> **Translation:** The Gemara asks: **Who is the *tanna* that you heard** say that **mitzvot do not nullify each other? It is Hillel, as it was taught** in a *baraita*: **They said about Hillel that he would wrap** *matza* and bitter herbs **together and eat them, as it is stated: “They shall eat it with *matzot* and bitter herbs”** (Numbers 9:11), which indicates that these two foods should be consumed together.
 
-> **Hebrew/Aramaic:** מַאן תַּנָּא דְּשָׁמְעַתְּ לֵיהּ מִצְוֹת אֵין מְבַטְּלוֹת זוֹ אֶת זוֹ? הִלֵּל הִיא. דְּתַנְיָא, אָמְרוּ עָלָיו עַל הִלֵּל שֶׁהָיָה כּוֹרְכָן בְּבַת אַחַת וְאוֹכְלָן, שֶׁנֶּאֱמַר: ״עַל מַצּוֹת וּמְרוֹרִים יֹאכְלוּהוּ״.
->
-> **Translation:** The Gemara asks: **Who is the *tanna* that you heard** say that **mitzvot do not nullify each other? It is Hillel, as it was taught** in a *baraita*: **They said about Hillel that he would wrap** *matza* and bitter herbs **together and eat them, as it is stated: "They shall eat it with *matzot* and bitter herbs"** (Numbers 9:11), which indicates that these two foods should be consumed together.
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: חוֹלְקִין עָלָיו חֲבֵירָיו עַל הִלֵּל. דְּתַנְיָא: יָכוֹל יְהֵא כּוֹרְכָן בְּבַת אַחַת וְאוֹכְלָן כְּדֶרֶךְ שֶׁהִלֵּל אוֹכְלָן, תַּלְמוּד לוֹמַר: ״עַל מַצּוֹת וּמְרוֹרִים יֹאכְלוּהוּ״, אֲפִילּוּ זֶה בִּפְנֵי עַצְמוֹ וְזֶה בִּפְנֵי עַצְמוֹ. מַתְקֵיף לַהּ רַב אָשֵׁי: אִי הָכִי, מַאי אֲפִילּוּ?
+> **Translation:** **Rabbi Yoḥanan said:** Hillel’s **colleagues disagree with him, as it was taught** in another *baraita*: I **might** have thought that **one** should **wrap** *matzot* and bitter herbs **together and eat them in the manner that Hillel eats them;** therefore **the verse states: “They shall eat it with *matzot* and bitter herbs,”** meaning that one may eat **even this,** the *matza*, **by itself, and that,** the bitter herbs, **by themselves. Rav Ashi strongly objects to this** proof: **If so,** if the Sages disagree with Hillel and maintain that mitzvot nullify each other, **what** is the meaning of the word **even** in this *baraita*? This wording indicates that Hillel’s opinion is not rejected entirely, but that one fulfills his obligation even if he eats the items without combining them.
+
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב אָשֵׁי, הַאי תַּנָּא הָכִי קָתָנֵי: יָכוֹל לֹא יָצָא בְּהוּ יְדֵי חוֹבָתוֹ אֶלָּא אִם כֵּן כּוֹרְכָן בְּבַת אַחַת וְאוֹכְלָן כְּדֶרֶךְ שֶׁהִלֵּל אוֹכְלָן — תַּלְמוּד לוֹמַר: ״עַל מַצּוֹת וּמְרוֹרִים יֹאכְלוּהוּ״ — אֲפִילּוּ זֶה בִּפְנֵי עַצְמוֹ וְזֶה בִּפְנֵי עַצְמוֹ.
+> **Translation:** **Rather, Rav Ashi said: This is what this *tanna* is teaching:** I **might** have thought that **one fulfills his obligation with them only if he wraps** *matzot* and bitter herbs **together and eats them in the manner that Hillel eats them.** Therefore, **the verse states: “They shall eat it with *matzot* and bitter herbs,”** i.e., one fulfills his obligation **even** if he eats the *matza* **by itself and** the bitter herbs **by themselves.**
+
+### Rabbis Disagree
 
 Rabbi Yochanan reports that Hillel's colleagues disagree. The *braisa* in question interprets the verse differently: the Torah could have written simply *ye'achel*, "it shall be eaten." The use of *yokhluhu hu* — with the additional personal pronoun — signals that each item can be eaten individually. *Afillu ze bifnei atzmo v'ze bifnei atzmo* — even this one by itself and that one by itself. The Rabbis read the verse as permitting separate consumption, which might imply that eating them together is *prohibited*, perhaps because *mitzvos mevatlot zu es zu*.
 
 ### Rav Ashi Reinterp
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: חוֹלְקִין עָלָיו חֲבֵירָיו עַל הִלֵּל. דְּתַנְיָא: יָכוֹל יְהֵא כּוֹרְכָן בְּבַת אַחַת וְאוֹכְלָן כְּדֶרֶךְ שֶׁהִלֵּל אוֹכְלָן, תַּלְמוּד לוֹמַר: ״עַל מַצּוֹת וּמְרוֹרִים יֹאכְלוּהוּ״, אֲפִילּוּ זֶה בִּפְנֵי עַצְמוֹ וְזֶה בִּפְנֵי עַצְמוֹ. מַתְקֵיף לַהּ רַב אָשֵׁי: אִי הָכִי, מַאי אֲפִילּוּ?
->
-> **Translation:** **Rabbi Yoḥanan said:** Hillel's **colleagues disagree with him, as it was taught** in another *baraita*: I **might** have thought that **one** should **wrap** *matzot* and bitter herbs **together and eat them in the manner that Hillel eats them;** therefore **the verse states: "They shall eat it with *matzot* and bitter herbs,"** meaning that one may eat **even this,** the *matza*, **by itself, and that,** the bitter herbs, **by themselves. Rav Ashi strongly objects to this** proof: **If so,** if the Sages disagree with Hillel and maintain that mitzvot nullify each other, **what** is the meaning of the word **even** in this *baraita*? This wording indicates that Hillel's opinion is not rejected entirely, but that one fulfills his obligation even if he eats the items without combining them.
 
 Rav Ashi, however, challenges this reading of the Rabbis' position. Why, he asks, does the *braisa* say *afillu ze bifnei atzmo* — "even" each individually? The word *afillu* implies that separate consumption is permitted but less preferred, which suggests the Rabbis' concern is not that eating them together is forbidden, but rather that one might think it is *required*. Rav Ashi therefore reinterprets the *braisa*: the Rabbis are merely clarifying that one is *not obligated* to eat them together in the manner of Hillel — separate consumption suffices. But even the Rabbis would agree that eating them together would not be a problem. If so, even the Rabbis may hold *mitzvos ein mevatlos zu es zu*, at least when all obligations are at the same level.
 
 ### Current Law
 
-> **Hebrew/Aramaic:** אֶלָּא אָמַר רַב אָשֵׁי, הַאי תַּנָּא הָכִי קָתָנֵי: יָכוֹל לֹא יָצָא בְּהוּ יְדֵי חוֹבָתוֹ אֶלָּא אִם כֵּן כּוֹרְכָן בְּבַת אַחַת וְאוֹכְלָן כְּדֶרֶךְ שֶׁהִלֵּל אוֹכְלָן — תַּלְמוּד לוֹמַר: ״עַל מַצּוֹת וּמְרוֹרִים יֹאכְלוּהוּ״ — אֲפִילּוּ זֶה בִּפְנֵי עַצְמוֹ וְזֶה בִּפְנֵי עַצְמוֹ.
->
-> **Translation:** **Rather, Rav Ashi said: This is what this *tanna* is teaching:** I **might** have thought that **one fulfills his obligation with them only if he wraps** *matzot* and bitter herbs **together and eats them in the manner that Hillel eats them.** Therefore, **the verse states: "They shall eat it with *matzot* and bitter herbs,"** i.e., one fulfills his obligation **even** if he eats the *matza* **by itself and** the bitter herbs **by themselves.**
-
 The practical conclusion therefore follows from the *d'oraisa*/*d'rabbanan* distinction rather than from any dispute between Hillel and the Rabbis. All agree — or at least, the *gemara* does not determine otherwise — that when both *mitzvos* are at the same level, eating them together presents no problem. But since today *matzah* is *d'oraisa* and *maror* is *d'rabbanan*, eating them simultaneously allows the *d'rabbanan* to negate the *d'oraisa*, and they must be kept separate. Moreover, *Tosafot* considers whether even Hillel's requirement to eat them together (when biblically applicable) might have been an exception based on an explicit verse, while the general rule might still be *mitzvos mevatlot*. He concludes that since Hillel goes further and says one is *chayav* to eat them together, Hillel must hold as a general principle that *mitzvos ein mevatlos*; otherwise his ruling would require further justification.
 
 ### Procedure
 
-> **Hebrew/Aramaic:** הַשְׁתָּא דְּלָא אִיתְּמַר הִלְכְתָא לָא כְּהִלֵּל וְלָא כְּרַבָּנַן, מְבָרֵךְ ״עַל אֲכִילַת מַצָּה״ וְאָכֵיל, וַהֲדַר מְבָרֵךְ ״עַל אֲכִילַת מָרוֹר״ וְאָכֵיל, וַהֲדַר אָכֵיל מַצָּה וְחַסָּא בַּהֲדֵי הֲדָדֵי בְּלֹא בְּרָכָה זֵכֶר לַמִּקְדָּשׁ, כְּהִלֵּל.
->
+> **Hebrew/Aramaic:** הַשְׁתָּא דְּלָא אִיתְּמַר הִלְכְתָא לָא כְּהִלֵּל וְלָא כְּרַבָּנַן, מְבָרֵךְ ״עַל אֲכִילַת מַצָּה״ וְאָכֵיל, וַהֲדַר מְבָרֵךְ ״עַל אֲכִילַת מָרוֹר״ וְאָכֵיל, וַהֲדַר אָכֵיל מַצָּה וְחַסָּא בַּהֲדֵי הֲדָדֵי בְּלֹא בְּרָכָה זֵכֶר לַמִּקְדָּשׁ, כְּהִלֵּל.
 > **Translation:** The Gemara comments: **Now that the *halakha* was stated neither in accordance with** the opinion of **Hillel nor in accordance with** the opinion of **the Rabbis,** one **recites the blessing:** Commanded us over **eating *matza*, and eats** *matza* to fulfill his obligation. **And then he recites the blessing:** Commanded us **over eating bitter herbs, and eats** the lettuce as bitter herbs. **And then he eats *matza* and lettuce together without a blessing in remembrance of the Temple, in the manner of Hillel** in the days of the Temple, who ate *matza* and bitter herbs together with the Paschal lamb.
 
 The *gemara* therefore prescribes the following procedure: recite *al achilas matzah* and eat *matzah*; then recite *al achilas maror* and eat *maror*; then eat *matzah* and *maror* together, without any blessing, as a *zecher le-mikdash ke-Hillel* — in remembrance of the Temple, as Hillel did. This is precisely the formula we recite: *zecher le-mikdash ke-Hillel, kach haya Hillel oseh*.
@@ -194,19 +197,20 @@ The *gemara* therefore prescribes the following procedure: recite *al achilas ma
 
 ## Dipping Rules
 
-### Hand Wash Rule
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי אֶלְעָזָר אָמַר רַב אוֹשַׁעְיָא: כׇּל שֶׁטִּיבּוּלוֹ בְּמַשְׁקֶה — צָרִיךְ נְטִילַת יָדַיִם.
->
-> **Translation:** **Rabbi Elazar said** that **Rav Oshaya said: Anything that is dipped in a liquid** before it is eaten **requires** the ritual of **washing of** the **hands.** The obligation to wash one's hands was instituted to preserve ritual purity and to prevent people from causing *teruma* food to contract ritual impurity. Hands are generally considered impure to the second degree of ritual impurity, and they confer impurity upon any liquid with which they come in contact. Liquids that become ritually impure are automatically impure to the first degree and will therefore transfer ritual impurity to any food that is dipped in them.
+
+[DAF:115b]
+### Hand Wash Rule
 
 Rabbi Elazar says in the name of Rabbi Oshaya: anything that is dipped in liquid (*kol she'tibullo be'mashkeh*) requires *netilat yadayim* — washing of the hands. This is the *gemara*'s basis for the *urchatz* that precedes *karpas*: since one is dipping in liquid, hand-washing is required.
 
-### Charoses Immerse
+> **Hebrew/Aramaic:** אָמַר רַבִּי אֶלְעָזָר אָמַר רַב אוֹשַׁעְיָא: כׇּל שֶׁטִּיבּוּלוֹ בְּמַשְׁקֶה — צָרִיךְ נְטִילַת יָדַיִם. אָמַר רַב פָּפָּא: שְׁמַע מִינַּהּ, הַאי חַסָּא
+> **Translation:** **Rabbi Elazar said** that **Rav Oshaya said: Anything that is dipped in a liquid** before it is eaten **requires** the ritual of **washing of** the **hands.** The obligation to wash one’s hands was instituted to preserve ritual purity and to prevent people from causing *teruma* food to contract ritual impurity. Hands are generally considered impure to the second degree of ritual impurity, and they confer impurity upon any liquid with which they come in contact. Liquids that become ritually impure are automatically impure to the first degree and will therefore transfer ritual impurity to any food that is dipped in them. **Rav Pappa said: Learn from** this *halakha*, which requires the washing of hands, **that** for **this lettuce** on Passover,
 
-> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: שְׁמַע מִינַּהּ, הַאי חַסָּא צְרִיךְ לְשַׁקּוֹעֵיהּ בַּחֲרוֹסֶת, מִשּׁוּם קָפָא.
->
-> **Translation:** **Rav Pappa said: Learn from** this *halakha*, which requires the washing of hands, **that** for **this lettuce** on Passover, one **must submerge it in the *ḥaroset*, due to** the bitterness and **poison** in the lettuce.
+> **Hebrew/Aramaic:** צְרִיךְ לְשַׁקּוֹעֵיהּ בַּחֲרוֹסֶת, מִשּׁוּם קָפָא. דְּאִי סָלְקָא דַעְתָּךְ לָא צְרִיךְ לְשַׁקּוֹעֵיהּ — נְטִילַת יָדַיִם לְמָה לִי? הָא לָא נָגַע! וְדִילְמָא לְעוֹלָם אֵימָא לָךְ: לָא צְרִיךְ לְשַׁקּוֹעֵיהּ, וְקָפָא מֵרֵיחָא מָיֵית. אֶלָּא לְמָה לִי נְטִילַת יָדַיִם — דִּילְמָא מְשַׁקְּעוּ לֵיהּ.
+> **Translation:** one **must submerge it in the *ḥaroset*, due to** the bitterness and **poison** in the lettuce. **For if it could enter your mind** that one **need not** thoroughly **submerge** the lettuce in *ḥaroset*, **why do I** need him to **wash hands** before eating bitter herbs? **He did not touch** the liquid with his hands, and therefore he did not render it ritually impure. The Gemara rejects this contention: **Actually, I will say to you:** According to the *halakha*, one **need not submerge** the lettuce in *ḥaroset* **and** the **poison dies.** The poison is nullified **from the smell** of the *ḥaroset*. The Gemara asks: **But** in that case, **why do I** need the **washing of hands** before dipping? The Gemara answers: **Perhaps one will submerge** the lettuce, and it is therefore necessary to wash one’s hands to avoid the possible transfer of ritual impurity.
+
+### Charoses Immerse
 
 Rav Papa draws an inference from here: the *maror* must be immersed in *charoses* — *tzarich leshakkuei be'charoses* — because of *kappa*.
 
@@ -216,9 +220,6 @@ What is *kappa*? There are two possibilities: either it refers to a type of inse
 
 ### Health Safety
 
-> **Hebrew/Aramaic:** דְּאִי סָלְקָא דַעְתָּךְ לָא צְרִיךְ לְשַׁקּוֹעֵיהּ — נְטִילַת יָדַיִם לְמָה לִי? הָא לָא נָגַע! וְדִילְמָא לְעוֹלָם אֵימָא לָךְ: לָא צְרִיךְ לְשַׁקּוֹעֵיהּ, וְקָפָא מֵרֵיחָא מָיֵית. אֶלָּא לְמָה לִי נְטִילַת יָדַיִם — דִּילְמָא מְשַׁקְּעוּ לֵיהּ.
->
-> **Translation:** **For if it could enter your mind** that one **need not** thoroughly **submerge** the lettuce in *ḥaroset*, **why do I** need him to **wash hands** before eating bitter herbs? **He did not touch** the liquid with his hands, and therefore he did not render it ritually impure. The Gemara rejects this contention: **Actually, I will say to you:** According to the *halakha*, one **need not submerge** the lettuce in *ḥaroset* **and** the **poison dies.** The poison is nullified **from the smell** of the *ḥaroset*. The Gemara asks: **But** in that case, **why do I** need the **washing of hands** before dipping? The Gemara answers: **Perhaps one will submerge** the lettuce, and it is therefore necessary to wash one's hands to avoid the possible transfer of ritual impurity.
 
 *Tosafot* addresses the obvious question: if it is an insect, why would one be permitted to eat the *maror* at all? He answers with two points. First, it may be that the insect in question was one that never walked on the ground — hatched and grew entirely within the vegetable — in which case it might not be prohibited under the laws of *sheratzim*. Second, even if it would otherwise be a concern, the *halachic* threshold for assuming *bittul* or absence of insects may be met, allowing one to eat the *maror*. However, *chamira sakanta mei-issura* — danger to life is treated more stringently than ritual prohibition — and therefore, even if the halakhic basis for eating the *maror* is sound, protecting one's health requires the additional step of immersing in *charoses*. This is why the *gemara* insists on immersion. (One should note that checking lettuce and other *maror* vegetables for insects is a separate and serious matter, dealt with extensively in contemporary halachic literature.)
 
@@ -230,43 +231,30 @@ The practical question of whether to make a blessing on *netilat yadayim* before
 
 ### Removal Rule
 
-> **Hebrew/Aramaic:** וְאָמַר רַב פָּפָּא: לָא נִישַׁהֵי אִינִישׁ מָרוֹר בַּחֲרוֹסֶת, דִּילְמָא אַגַּב חַלְיֵיהּ דְּתַבְלִין מְבַטֵּיל לֵיהּ לִמְרוֹרֵיהּ, וּבָעֵינַן טַעַם מָרוֹר, וְלֵיכָּא.
->
-> **Translation:** **And Rav Pappa said: A person** should **not leave bitter herbs in the *ḥaroset*** for a lengthy period of time, **lest the sweetness** of the spices in the *ḥaroset* **nullify its bitterness. And** the bitter herbs **require a** bitter **taste, and** they are **not** bitter when marinated in *ḥaroset*.
-
 Rav Papa adds a further instruction: do not leave the *maror* immersed in the *charoses* — *lo nishke'inhu le'maror be'charoses*. Immerse it briefly to counteract *kappa*, then remove it. If left too long, the pungency of the spices in the *charoses* will not merely neutralize the dangerous element but will completely cancel out the bitter taste of the *maror* altogether. And as we will see immediately, tasting the bitterness is an essential requirement of the *mitzvah* of *maror* — *uv'einan ta'am mar ve'leika*, we need there to be a bitter taste and it must be present.
+
+> **Hebrew/Aramaic:** וְאָמַר רַב פָּפָּא: לָא נִישַׁהֵי אִינִישׁ מָרוֹר בַּחֲרוֹסֶת, דִּילְמָא אַגַּב חַלְיֵיהּ דְּתַבְלִין מְבַטֵּיל לֵיהּ לִמְרוֹרֵיהּ, וּבָעֵינַן טַעַם מָרוֹר, וְלֵיכָּא. אַדְבְּרֵיהּ רַב חִסְדָּא לְרַבָּנָא עוּקְבָא, וּדְרַשׁ: נָטַל יָדָיו בְּטִיבּוּל רִאשׁוֹן — נוֹטֵל יָדָיו בְּטִיבּוּל שְׁנֵי.
+> **Translation:** **And Rav Pappa said: A person** should **not leave bitter herbs in the *ḥaroset*** for a lengthy period of time, **lest the sweetness** of the spices in the *ḥaroset* **nullify its bitterness. And** the bitter herbs **require a** bitter **taste, and** they are **not** bitter when marinated in *ḥaroset*. The Gemara reports: **Rav Ḥisda authorized Rabbana Ukva** to deliver a lecture, **and he taught:** If one **washed his hands for the first dipping,** he should **wash his hands** again **for the second dipping.**
 
 ### Dual Washing
 
-> **Hebrew/Aramaic:** אַדְּבְּרֵיהּ רַב חִסְדָּא לְרַבָּנָא עוּקְבָא, וּדְרַשׁ: נָטַל יָדָיו בְּטִיבּוּל רִאשׁוֹן — נוֹטֵל יָדָיו בְּטִיבּוּל שְׁנֵי.
->
-> **Translation:** The Gemara reports: **Rav Ḥisda authorized Rabbana Ukva** to deliver a lecture, **and he taught:** If one **washed his hands for the first dipping,** he should **wash his hands** again **for the second dipping.**
+
+> **Hebrew/Aramaic:** אַמְרוּהָ רַבָּנַן קַמֵּיהּ דְּרַב פָּפָּא: הָא בְּעָלְמָא אִיתְּמַר. דְּאִי סָלְקָא דַעְתָּךְ הָכָא אִיתְּמַר, לְמָה לִי נְטִילַת יָדַיִם תְּרֵי זִימְנֵי? הָא מְשָׁא לֵיהּ יְדֵיהּ חֲדָא זִימְנָא!
+> **Translation:** **The Sages said** this *halakha* **before Rav Pappa** and added: This *halakha* **was stated generally,** i.e., concerning one who dips food twice anytime, not with regard to Passover night. **For if it could enter your mind** that this **was stated here,** concerning Passover, **why do I** need **washing of** the **hands twice?** This person **has** already **washed his hands once.** As he knows he will dip again, he will be careful to preserve his hands in a state of ritual purity and consequently there is no need for him to wash his hands a second time. This is not the case with regard to dipping throughout the rest of the year, when one does not know at the start that he will dip again.
 
 Rav Chisda instructed Rav Hamnuna to expound publicly the following teaching: one who washes hands before the first dipping (*tibul rishon*) must wash hands again before the second dipping (*tibul sheni*). At first glance this might seem redundant — after all, one washes hands before *hamotzi* in any case. The question is really whether the first washing before *karpas* can extend to cover the second eating.
 
+The rabbis initially assumed this teaching must have been stated in a general, non-*seder* context — that is, a situation where someone washes before dipping vegetables once, then becomes distracted, decides to dip again, and must therefore wash a second time. Their reasoning was that in a *seder* context this would be unnecessary: since one knows in advance that a second dipping is coming, one's attention never lapses, and the original washing should remain valid. This is the substance of *hesach ha-da'as* — the concern that a lapse of attention may have led one to touch an unclean part of the body — and the rabbis felt there could be no such lapse when the second dipping is entirely anticipated. It is precisely Rav Papa's response to this objection, and the reason a second washing is required even here, that the next passage takes up directly.
+
 ### Hesach Concern
 
-> **Hebrew/Aramaic:** אִם כֵּן, לְמָה לִי תְּרֵי טִיבּוּלֵי?
->
-> **Translation:** A person usually dips only once, either at the beginning or in the middle of his meal.
-
-The *gemara* asks why there are two dippings specifically in the context of *seder*. This is the beginning of the discussion of whether the first washing before *karpas* can extend to cover the second eating.
-
-> **Hebrew/Aramaic:** אַמְרוּהָ רַבָּנַן קַמֵּיהּ דְּרַב פָּפָּא: הָא בְּעָלְמָא אִיתְּמַר. דְּאִי סָלְקָא דַעְתָּךְ הָכָא אִיתְּמַר, לְמָה לִי נְטִילַת יָדַיִם תְּרֵי זִימְנֵי? הָא מְשָׁא לֵיהּ יְדֵיהּ חֲדָא זִימְנָא!
->
-> **Translation:** **The Sages said** this *halakha* **before Rav Pappa** and added: This *halakha* **was stated generally,** i.e., concerning one who dips food twice anytime, not with regard to Passover night. **For if it could enter your mind** that this **was stated here,** concerning Passover, **why do I** need **washing of** the **hands twice?** This person **has** already **washed his hands once.** As he knows he will dip again, he will be careful to preserve his hands in a state of ritual purity and consequently there is no need for him to wash his hands a second time. This is not the case with regard to dipping throughout the rest of the year, when one does not know at the start that he will dip again.
-
-Rav Papa explains why the first washing cannot carry through to the second: since one recites the *haggadah* and the first half of *hallel* between the two dippings, there is a concern of *hesach ha-da'as* — a lapse of attention during which one may have touched an unclean part of the body. The rabbis raised the objection that in a *seder* context one knows in advance that a second dipping is coming, so why should there be *hesach ha-da'as* and why should two washings be needed? Rav Papa responds: on the contrary, the very fact that a second washing is discussed proves that this teaching was said specifically in the *seder* context — for it is precisely in the *seder* that there are two dippings. If it were a general teaching about non-*seder* contexts, why would two dippings arise?
-
-> **Hebrew/Aramaic:** אֲמַר לְהוּ רַב פָּפָּא: אַדְּרַבָּה, הָכָא אִיתְּמַר. דְּאִי סָלְקָא דַעְתָּךְ בְּעָלְמָא אִיתְּמַר, לְמָה לִי תְּרֵי טִיבּוּלֵי?
->
+> **Hebrew/Aramaic:** אֲמַר לְהוּ רַב פָּפָּא: אַדְּרַבָּה, הָכָא אִיתְּמַר. דְּאִי סָלְקָא דַעְתָּךְ בְּעָלְמָא אִיתְּמַר, לְמָה לִי תְּרֵי טִיבּוּלֵי?
 > **Translation:** **Rav Pappa said to them: On the contrary,** this *halakha* **was stated** specifically **here,** with regard to Passover night. **For if it could enter your mind** that it **was stated in general, why do I** need **two dippings?** A person usually dips only once, either at the beginning or in the middle of his meal.
 
-The reason a second washing is nonetheless required is the *haggadah* and *hallel* interposed between the two acts of dipping — a substantial interruption during which *hesach ha-da'as* is entirely possible.
-
-> **Hebrew/Aramaic:** אֶלָּא מַאי, הָכָא אִיתְּמַר? נְטִילַת יָדַיִם תְּרֵי זִימְנֵי לְמָה לִי? הָא מְשָׁא לֵיהּ יְדֵיהּ חֲדָא זִימְנָא! אָמְרִי: כֵּיוָן דְּבָעֵי לְמֵימַר אַגָּדְתָּא וְהַלֵּילָא, דִּילְמָא אַסּוֹחֵי אַסְּחֵיהּ לְדַעְתֵּיהּ וּנְגַע.
->
+> **Hebrew/Aramaic:** אֶלָּא מַאי, הָכָא אִיתְּמַר? נְטִילַת יָדַיִם תְּרֵי זִימְנֵי לְמָה לִי? הָא מְשָׁא לֵיהּ יְדֵיהּ חֲדָא זִימְנָא! אָמְרִי: כֵּיוָן דְּבָעֵי לְמֵימַר אַגָּדְתָּא וְהַלֵּילָא, דִּילְמָא אַסּוֹחֵי אַסְּחֵיהּ לְדַעְתֵּיהּ וּנְגַע.
 > **Translation:** The Gemara asks: **Rather, what** will you say; this *halakha* **was stated** specifically **here,** with regard to Passover night? If so, **why do I** need **two washings of** the **hands? He has** already **washed his hands once. They say** in response: **Since he needs to recite** the **Haggadah and *hallel*** in between the two dippings, **perhaps he will divert his thoughts and** his hands **will touch** a ritually impure object.
+
+Rav Papa explains why the first washing cannot carry through to the second: since one recites the *haggadah* and the first half of *hallel* between the two dippings, there is a concern of *hesach ha-da'as* — a lapse of attention during which one may have touched an unclean part of the body. The rabbis raised the objection that in a *seder* context one knows in advance that a second dipping is coming, so why should there be *hesach ha-da'as* and why should two washings be needed? Rav Papa responds: on the contrary, the very fact that a second washing is discussed proves that this teaching was said specifically in the *seder* context — for it is precisely in the *seder* that there are two dippings. If it were a general teaching about non-*seder* contexts, why would two dippings arise? The reason a second washing is nonetheless required is the *haggadah* and *hallel* interposed between the two acts of dipping — a substantial interruption during which *hesach ha-da'as* is entirely possible.
 
 This point about the *haggadah* as a potential *hesach ha-da'as* reinforces the broader discussion touched on earlier regarding whether the *haggadah* constitutes a *hefsek* for various *berachot*.
 
@@ -274,15 +262,17 @@ This point about the *haggadah* as a potential *hesach ha-da'as* reinforces the 
 
 ## Taste Maror
 
-### Swallowing Rule
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: בָּלַע מַצָּה — יָצָא, בָּלַע מָרוֹר — לֹא יָצָא. בָּלַע מַצָּה וּמָרוֹר, יְדֵי מַצָּה — יָצָא, יְדֵי מָרוֹר — לֹא יָצָא. כְּרָכָן בְּסִיב וּבְלָעָן — אַף יְדֵי מַצָּה נָמֵי לֹא יָצָא.
->
-> **Translation:** **Rava said:** If **one swallowed *matza*** without chewing it, **he has fulfilled** the obligation to eat *matza*, as he has consumed it. However, if **one swallowed bitter herbs** without chewing them, **he has not fulfilled** his obligation, as he did not taste their bitterness. Furthermore, if **one swallowed *matza* and bitter herbs** together, **he has fulfilled** the obligation **of** eating ***matza*,** but **he has not fulfilled** the obligation **of** eating **bitter herbs.** If one **wrapped** *matza* and bitter herbs **in** a palm **net,** the thin interlacing of vines that sprouts around a palm tree, **and swallowed them, he has not fulfilled** his obligation **even of eating *matza*.** When *matza* and bitter herbs are consumed in this fashion, the *matza* does not touch one's mouth. This is not considered eating.
+
+### Swallowing Rule
 
 Rava states: one who swallows *matzah* whole — *bala matzah* — has fulfilled the obligation. One who swallows *maror* whole — *bala maror* — has not fulfilled the obligation.
 
+> **Hebrew/Aramaic:** אָמַר רָבָא: בָּלַע מַצָּה — יָצָא, בָּלַע מָרוֹר — לֹא יָצָא. בָּלַע מַצָּה וּמָרוֹר, יְדֵי מַצָּה — יָצָא, יְדֵי מָרוֹר — לֹא יָצָא. כְּרָכָן בְּסִיב וּבְלָעָן — אַף יְדֵי מַצָּה נָמֵי לֹא יָצָא.
+> **Translation:** **Rava said:** If **one swallowed *matza*** without chewing it, **he has fulfilled** the obligation to eat *matza*, as he has consumed it. However, if **one swallowed bitter herbs** without chewing them, **he has not fulfilled** his obligation, as he did not taste their bitterness. Furthermore, if **one swallowed *matza* and bitter herbs** together, **he has fulfilled** the obligation **of** eating ***matza*,** but **he has not fulfilled** the obligation **of** eating **bitter herbs.** If one **wrapped** *matza* and bitter herbs **in** a palm **net,** the thin interlacing of vines that sprouts around a palm tree, **and swallowed them, he has not fulfilled** his obligation **even of eating *matza*.** When *matza* and bitter herbs are consumed in this fashion, the *matza* does not touch one’s mouth. This is not considered eating.
+
 ### Taste vs Matzah
+
 
 The reason is straightforward: the *mitzvah* of *maror* requires that one actually experience the bitter taste — *ta'am mar*. If one swallowed the *maror* whole without chewing, the bitter flavor never registered on the palate, and the experiential dimension of the *mitzvah* was not achieved. *Matzah*, by contrast, has no such requirement of taste; the obligation is one of *achilah* — eating — and eating is achieved even when one swallows without tasting.
 
@@ -298,49 +288,44 @@ If one wrapped the *matzah* (or *maror*) in something inedible — *keracho b'si
 
 ## Seder Plates
 
-### Individual Plates
 
-> **Hebrew/Aramaic:** אָמַר רַב שִׁימִי בַּר אָשֵׁי: מַצָּה לִפְנֵי כׇּל אֶחָד וְאֶחָד, מָרוֹר לִפְנֵי כׇּל אֶחָד וְאֶחָד, וַחֲרוֹסֶת לִפְנֵי כׇּל אֶחָד וְאֶחָד. וְאֵין עוֹקְרִין אֶת הַשּׁוּלְחָן אֶלָּא לִפְנֵי מִי שֶׁאוֹמֵר הַגָּדָה.
->
-> **Translation:** **Rav Shimi bar Ashi said: *Matza*** must be placed **before each and every** participant at the seder. Each participant in a seder would recline on a couch at his own personal table. Likewise, **bitter herbs** must be placed **before each and every** participant, **and *ḥaroset*** must be placed **before each and every** participant. **And** during the seder, before the meal, **one** shall **remove the table only from before the one reciting** the **Haggadah.** The other tables, which correspond to the seder plates used nowadays, are left in their place.
+
+### Individual Plates
 
 Rav Shimi bar Ashi rules that *matzah*, *maror*, and *charoses* must be placed before each and every individual participant in the *seder* — *matzah lifnei kol echad v'echad*, *maror lifnei kol echad v'echad*, *charoses lifnei kol echad v'echad*. Each person at the *seder* requires their own *seder* plate. The *gemara* takes this for granted as the norm.
 
-### Table Removal
+> **Hebrew/Aramaic:** אָמַר רַב שִׁימִי בַּר אָשֵׁי: מַצָּה לִפְנֵי כׇּל אֶחָד וְאֶחָד, מָרוֹר לִפְנֵי כׇּל אֶחָד וְאֶחָד, וַחֲרוֹסֶת לִפְנֵי כׇּל אֶחָד וְאֶחָד. וְאֵין עוֹקְרִין אֶת הַשֻּׁלְחָן אֶלָּא לִפְנֵי מִי שֶׁאוֹמֵר הַגָּדָה.
+> **Translation:** **Rav Shimi bar Ashi said: *Matza*** must be placed **before each and every** participant at the seder. Each participant in a seder would recline on a couch at his own personal table. Likewise, **bitter herbs** must be placed **before each and every** participant, **and *ḥaroset*** must be placed **before each and every** participant. **And** during the seder, before the meal, **one** shall **remove the table only from before the one reciting** the **Haggadah.** The other tables, which correspond to the seder plates used nowadays, are left in their place.
 
-> **Hebrew/Aramaic:** רַב הוּנָא אוֹמֵר: כּוּלְּהוּ נָמֵי לִפְנֵי מִי שֶׁאוֹמֵר הַגָּדָה. וְהִלְכְתָא כְּרַב הוּנָא.
->
+> **Hebrew/Aramaic:** רַב הוּנָא אוֹמֵר: כּוּלְּהוּ נָמֵי לִפְנֵי מִי שֶׁאוֹמֵר הַגָּדָה. וְהִלְכְתָא כְּרַב הוּנָא.
 > **Translation:** **Rav Huna says: All** of the aforementioned foods, i.e., *matza*, bitter herbs, and *ḥaroset*, must **also** be placed only **before the one who recites** the **Haggadah.** When the time comes to eat these items, all the other participants receive a portion from him. The Gemara comments: **And the *halakha* is in accordance with** the opinion of **Rav Huna.**
 
-However, the ritual of removing and restoring the *shulchan* — the table or plate — is reserved for the *seder* leader alone. Rav Huna goes further and rules that *all* the *seder* items are placed before the one who recites the *haggadah* — and the *halakhah* follows Rav Huna in this regard.
+### Table Removal
+
+
+However, the ritual of removing and restoring the *shulchan* — the table or plate — is reserved for the *seder* leader alone. Rav Huna goes further and rules that *all* the *seder* items are placed before the one who recites the *haggadah* — *kulehu nami lifnei mi she'amar Haggadah* — and the *halakhah* follows Rav Huna in this regard.
+
+This ruling sits in some tension with Rav Shimi bar Ashi's position, and it raises a genuinely fascinating question: what exactly is the idea behind having these items in front of each individual participant, or alternatively, before the *seder* leader alone? Why can't the *seder* leader simply perform the rituals and distribute the food? One explanation focuses on the proximity of the *brachah* to the act of eating — having the food directly before you ensures the blessing immediately precedes consumption. But we are not ordinarily strict about this; when we recite *Hamotzi* at a meal, the leader recites the blessing and distributes the bread to everyone else, and that is perfectly acceptable. Perhaps *birchas hamitzvos* — blessings over the performance of commandments — operates by a different standard than a blessing over food. A second explanation, which is worth noting was not explicitly made by *Tosafos* or the *Rashbam*, is that these foods are not merely items to be eaten but are part of the very act of telling the story. If the symbolism of *matzah*, *maror*, and *charoses* is woven into the *haggadah* narrative itself, then having them present in front of you as the story is told is part of the mitzvah — not only the eating that follows. The *gemara* will make a related point shortly, noting that it is specifically the *matzah* that must be before the participants during the telling, a question the *gemara* will resolve in its own terms. In practice, it is worth observing that in many homes today not everyone has a *seder* plate in front of them — yet this is precisely what the *gemara* takes as the baseline *halacha*.
 
 ### Kid Questions
 
-> **Hebrew/Aramaic:** לָמָּה עוֹקְרִין אֶת הַשּׁוּלְחָן? אָמְרִי דְּבֵי רַבִּי יַנַּאי: כְּדֵי שֶׁיַּכִּירוּ תִּינוֹקוֹת וְיִשְׁאֲלוּ.
->
-> **Translation:** The Gemara asks: **Why does one remove the table? The school of Rabbi Yannai say: So that the children will notice** that something is unusual **and they will ask:** Why is this night different from all other nights?
-
 The *gemara* explains the reason for removing the table: *kedei sheyakiru tinokos v'yishalu* — so that the children will notice the unusual behavior and ask questions. This is the pedagogical mechanism driving the *mah nishtana*.
 
-### Abaye Question
+> **Hebrew/Aramaic:** לָמָּה עוֹקְרִין אֶת הַשּׁוּלְחָן? אָמְרִי דְּבֵי רַבִּי יַנַּאי: כְּדֵי שֶׁיַּכִּירוּ תִּינוֹקוֹת וְיִשְׁאֲלוּ. אַבָּיֵי הֲוָה יָתֵיב קַמֵּיהּ דְּרַבָּה, חֲזָא דְּקָא מַדְלִי תַּכָּא מִקַּמֵּיהּ, אֲמַר לְהוּ: עֲדַיִין לָא קָא אָכְלִינַן, אָתוּ קָא מְעַקְּרִי תַּכָּא מִיקַּמַּן?! אֲמַר לֵיהּ רַבָּה: פְּטַרְתַּן מִלּוֹמַר ״מָה נִּשְׁתַּנָּה״.
+> **Translation:** The Gemara asks: **Why does one remove the table? The school of Rabbi Yannai say: So that the children will notice** that something is unusual **and they will ask:** Why is this night different from all other nights? The Gemara relates: **Abaye was sitting before Rabba** when he was still a child. **He saw that they were removing the table from before him, and he said to** those removing it: **We have not yet eaten, and you are taking the table away from us? Rabba said to him: You have exempted us from reciting** the questions of: **Why is** this night **different [*ma nishtana*],** as you have already asked what is special about the seder night.
 
-> **Hebrew/Aramaic:** אַבָּיֵי הֲוָה יָתֵיב קַמֵּיהּ דְּרַבָּה, חֲזָא דְּקָא מַדְלִי תַּכָּא מִקַּמֵּיהּ, אֲמַר לְהוּ: עֲדַיִן לָא קָא אָכְלִינַן, אָתוּ קָא מְעַקְּרִי תַּכָּא מִיקַּמַּן?!
->
-> **Translation:** The Gemara relates: **Abaye was sitting before Rabba** when he was still a child. **He saw that they were removing the table from before him, and he said to** those removing it: **We have not yet eaten, and you are taking the table away from us?**
+### Abaye Question
 
 The *gemara* then relates a famous incident. Abaye was once sitting before Rabbah when he saw the table removed early, before anyone had eaten. He exclaimed: we haven't eaten yet — why are they moving the table from before us?
 
 ### Rabbah Answer
-
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבָּה: פְּטַרְתַּן מִלּוֹמַר ״מָה נִּשְׁתַּנָּה״.
->
-> **Translation:** **Rabba said to him: You have exempted us from reciting** the questions of: **Why is** this night **different [*ma nishtana*],** as you have already asked what is special about the seder night.
 
 Rabbah replied: you have exempted us from needing to recite *mah nishtana* formally — *patartanu milomar mah nishtana*. Your spontaneous question achieved precisely the goal that the removal of the table was designed to produce.
 
 This is also reflected in the standard *haggadah* rubrics, which instruct: uncover the *matzos*, remove the *ke'arah* from the table, pour the second cup, and *then* — at that moment of puzzlement — the child asks *mah nishtana*. The *ke'arah* is then restored before *Avadim Hayinu* begins. The removal of the table is thus directly linked to the mechanics of the *mah nishtana* question.
 
 ### Tosafot Caveat
+
 
 The *Rashbam* reads Rabbah's response literally: since Abaye's spontaneous question accomplished what *mah nishtana* was meant to accomplish, the formal recitation of *mah nishtana* is no longer required. The point of *mah nishtana* is to ask why this night is different; once that question has been asked naturally, the text is superfluous.
 

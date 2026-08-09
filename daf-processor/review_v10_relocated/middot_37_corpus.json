@@ -1,0 +1,54 @@
+[
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Azarah Layout",
+    "candidates": [
+      "38 Chambers",
+      "Inter-chamber Doors",
+      "Northeast Chamber",
+      "Wall Thickness",
+      "Mesiba Path",
+      "Roof Opening",
+      "Craftsmen Descent",
+      "First Story Setup",
+      "Second Story",
+      "Upper Finish",
+      "Walls & Ulam",
+      "Interior Sanctums",
+      "Back Wall Rooms",
+      "North Section",
+      "Center & South",
+      "Water Drainage",
+      "Lion Shape",
+      "Azarah Layout",
+      "North Chambers",
+      "Madichim Chamber",
+      "South Chambers",
+      "Sanhedrin Chamber",
+      "Disqualified Kohen",
+      "Qualified Kohen",
+      "Aaron's Blessing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Wall Thickness",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe the progressive widths of the three tiers of chambers (5, 6, 7 amot) with the Kings verse, exactly matching the 'Wall Thickness' prose discussion of that same structural detail.",
+      "second_heading": "Mesiba Path",
+      "second_confidence": "high",
+      "second_reason": "Item 3 begins a new mishnah describing the mesiba route, which matches the 'Mesiba Path' prose precisely, representing a new structural unit entirely distinct from the wall-thickness topic.",
+      "current_heading": "Azarah Layout",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Taanit Exceptions",
+    "candidates": [
+      "Intro: Taanit vs Aveil",
+      "Taanit Exceptions",
+      "Hands, Face, Feet",
+      "Menudeh and Aveil",
+      "Braita Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three ta'anit exceptions (melacha, ne'ilat hasandal, bathing) plus the menudeh/aveil parallel in one braita, and the current heading 'Taanit Exceptions' with its prose describes exactly this content, while the subsequent headings ('Hands, Face, Feet', 'Menudeh and Aveil', 'Braita Proof') are the essay author's analytical breakdown of the braita's components \u2014 the braita itself belongs under the opening heading where it is introduced.",
+      "chosen_heading": "Taanit Exceptions",
+      "current_heading": "Taanit Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Braita Proof",
+    "candidates": [
+      "Hands, Face, Feet",
+      "Menudeh and Aveil",
+      "Braita Proof",
+      "Rav Sheshet",
+      "Gemara's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's argument that the braita must be referring to cold water (because hot water is ruled out by Rav Sheshet's ruling), which is precisely what the 'Braita Proof' section's prose describes.",
+      "chosen_heading": "Braita Proof",
+      "current_heading": "Braita Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Gemara's Resolution",
+    "candidates": [
+      "Rav Sheshet",
+      "Gemara's Resolution",
+      "Rabi Yosi Story",
+      "Multiple Mournings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection/resolution (\u05dc\u05b8\u05d0) that the baraita refers to hot water and that the 'and similarly' clause refers only to the rest of the prohibitions \u2014 exactly what the 'Gemara's Resolution' section discusses with its analysis of ashe'ara ka'ei.",
+      "chosen_heading": "Gemara's Resolution",
+      "current_heading": "Gemara's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Multiple Mournings",
+    "candidates": [
+      "Rabi Yosi Story",
+      "Multiple Mournings",
+      "Hair & Clothes Care",
+      "Rava's Position",
+      "Meat & Wine Analogy",
+      "Bogeret Concern",
+      "Hot Water Analysis",
+      "Cold Water Exception",
+      "Makeup Alternative",
+      "Logical Parallel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Multiple Mournings",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the first Rabbi Yosei story as a proof and its rejection via the takfuhu baraita with Rav \u1e24isda's gloss, which is exactly what 'Multiple Mournings' describes.",
+      "second_heading": "Rava's Position",
+      "second_confidence": "high",
+      "second_reason": "Item 3 onward begins Rava's independent ruling that cold water is permitted all seven days, which is precisely what 'Rava's Position' describes as a strikingly different position staked out at this point.",
+      "current_heading": "Multiple Mournings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Logical Parallel",
+    "candidates": [
+      "Hair & Clothes Care",
+      "Rava's Position",
+      "Meat & Wine Analogy",
+      "Bogeret Concern",
+      "Hot Water Analysis",
+      "Cold Water Exception",
+      "Makeup Alternative",
+      "Logical Parallel",
+      "Anxiety Exception",
+      "Tzaar Assumption",
+      "Aveil Bathing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents the 'some say' version where Rava forbids cold water and the meat-and-wine question is raised, which directly matches heading 7 ('Logical Parallel') discussing the logical structure of the debate between cold water and meat-and-wine under the tzaar framework.",
+      "chosen_heading": "Logical Parallel",
+      "current_heading": "Logical Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Aveil Bathing",
+    "candidates": [
+      "Anxiety Exception",
+      "Tzaar Assumption",
+      "Aveil Bathing",
+      "Sichah Anointing",
+      "Tisha B'Av Parallel",
+      "Individual Aneinu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the laws of an aveil's bathing \u2014 Item 1 debates cold water vs. painting/dyeing, and Item 2 gives Rav \u1e24isda's conclusion and the final halacha about bathing the entire body vs. face/hands/feet, which is precisely what the 'Aveil Bathing' prose describes.",
+      "chosen_heading": "Aveil Bathing",
+      "current_heading": "Aveil Bathing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Individual Aneinu",
+    "candidates": [
+      "Sichah Anointing",
+      "Tisha B'Av Parallel",
+      "Individual Aneinu",
+      "Individual Challenge",
+      "Resolution: Shomea Tefila"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of where an individual recites Aneinu (between Goel and Rofei), which is exactly what the 'Individual Aneinu' section's prose discusses.",
+      "chosen_heading": "Individual Aneinu",
+      "current_heading": "Individual Aneinu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Resolution: Shomea Tefila",
+    "candidates": [
+      "Individual Challenge",
+      "Resolution: Shomea Tefila",
+      "Braita 1",
+      "Braita 2",
+      "Braita 3",
+      "Rav Ashi's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 12 items form a continuous discussion about where an individual inserts Aneinu, the challenge from the baraita about 18 vs 19 blessings, the debates about the first/middle/last fasts and 24 blessings, and the final halakhic ruling \u2014 all of which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Resolution: Shomea Tefila",
+      "current_heading": "Resolution: Shomea Tefila",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Rav Ashi's Solution",
+    "candidates": [
+      "Braita 1",
+      "Braita 2",
+      "Braita 3",
+      "Rav Ashi's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together \u2014 the three contradictory baraitot and Rav Ashi's resolution \u2014 form one continuous unit that belongs under 'Braita 1' (index 0), which is the first heading that introduces the topic of pregnant and nursing women fasting; the passage covers all three baraitot plus the resolution in one sweep, and the essay's separate headings (Braita 1, 2, 3, Rav Ashi) have been artificially split from what is a single Talmudic sugya that should sit under the opening heading of that topic.",
+      "chosen_heading": "Braita 1",
+      "current_heading": "Rav Ashi's Solution",
+      "moved": true
+    }
+  }
+]

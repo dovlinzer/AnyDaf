@@ -121,7 +121,7 @@
           "timestamp": "24:25"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -155,7 +155,7 @@
           "timestamp": "35:30"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -174,8 +174,8 @@
           "timestamp": "37:11"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Rabbi Dostai Bar Rabbi Yehuda: Alternative Rule—Mikveh Imagery for Purification",
@@ -193,8 +193,8 @@
           "timestamp": "37:36"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Does a Woman Become Chalala from a Chalal? Kal V'Chomer Argument",
@@ -236,7 +236,7 @@
           "timestamp": "38:36"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -314,7 +314,7 @@
           "timestamp": "52:28"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 22,
       "matched": true
     }
   ],
@@ -562,5 +562,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "46:51",
+  "amud_b_micro_title": "Three Widow",
+  "shiur_start_daf": 76,
+  "shiur_start_amud": "b"
 }

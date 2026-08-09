@@ -1,0 +1,442 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Creditor's Obligation",
+    "candidates": [
+      "Creditor's Obligation",
+      "Rosh's Two-Stage View",
+      "Pressuring for Repayment",
+      "Abaye's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah citation about one who repays a debt during shmita and the creditor's obligation to say 'meshameit ani,' which is exactly what the Creditor's Obligation section's prose discusses as its opening citation.",
+      "chosen_heading": "Creditor's Obligation",
+      "current_heading": "Creditor's Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Abaye's Objection",
+    "candidates": [
+      "Rosh's Two-Stage View",
+      "Pressuring for Repayment",
+      "Abaye's Objection",
+      "Abba bar Marta Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rabba's statement about pressuring the debtor ('lifting eyes') and Abaye's objection from the baraita about gift-framing, which together form the core content described in the 'Pressuring for Repayment' section's prose about Rabba's talvei lei and the creditor urging moral responsibility \u2014 the current placement under 'Abaye's Objection' splits what is actually a single exchange that begins with Rabba's principle.",
+      "chosen_heading": "Pressuring for Repayment",
+      "current_heading": "Abaye's Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Abba bar Marta Story",
+    "candidates": [
+      "Abaye's Objection",
+      "Abba bar Marta Story",
+      "Rav Nachman's Leniency",
+      "Rationale: Presumed Dili"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Abba bar Marta narrative \u2014 Rabba releasing the debt, the debtor leaving, Abaye finding Rabba sad, and then Abaye coaching the debtor to return and say 'af al pi chen' \u2014 which is precisely what the prose under heading 1 ('Abba bar Marta Story') describes in detail.",
+      "chosen_heading": "Abba bar Marta Story",
+      "current_heading": "Abba bar Marta Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rationale: Presumed Dili",
+    "candidates": [
+      "Rav Nachman's Leniency",
+      "Rationale: Presumed Dili",
+      "Rava's Suggestion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Nachman's ruling that a person is deemed credible to say they had a prosbol and lost it, which is the primary content of heading 0 ('Rav Nachman's Leniency'), while the explanation/rationale within the same Talmudic quote belongs with the ruling itself rather than being split under a separate heading.",
+      "chosen_heading": "Rav Nachman's Leniency",
+      "current_heading": "Rationale: Presumed Dili",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Rava's Suggestion",
+    "candidates": [
+      "Rationale: Presumed Dili",
+      "Rava's Suggestion",
+      "Mishnah Contradiction",
+      "Evolving Standards"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Suggestion",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes Rav asking the creditor whether he had a prosbol that was lost, invoking 'open your mouth for the mute' \u2014 exactly what the 'Rava's Suggestion' prose describes.",
+      "second_heading": "Mishnah Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the mishnah stating that a creditor without a prosbol may not collect, which is precisely the contradiction the 'Mishnah Contradiction' prose introduces.",
+      "current_heading": "Rava's Suggestion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Evolving Standards",
+    "candidates": [
+      "Mishnah Contradiction",
+      "Evolving Standards",
+      "Mishnah Case",
+      "Rabban Gamliel",
+      "Ye'ush Question",
+      "Abaye: Before Ye'ush"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a baraita recording the tannaitic dispute about whether a prosbol must accompany a promissory note, which is exactly what the 'Evolving Standards' prose describes as the Gemara's resolution of the mishnah contradiction via a tannaitic dispute.",
+      "chosen_heading": "Evolving Standards",
+      "current_heading": "Evolving Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Abaye: Before Ye'ush",
+    "candidates": [
+      "Mishnah Case",
+      "Rabban Gamliel",
+      "Ye'ush Question",
+      "Abaye: Before Ye'ush",
+      "Rava: After Ye'ush"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the case of a redeemed slave, which candidate 0 ('Mishnah Case') explicitly discusses, including Rabban Gamliel's dissent covered in candidate 1.",
+      "second_heading": "Ye'ush Question",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are the Gemara's ye'ush analysis and Abaye's resolution (with Rabban Gamliel's rationale), which candidate 2 ('Ye'ush Question') and candidate 3 ('Abaye: Before Ye'ush') cover \u2014 but since items 2-4 form one continuous chain of question and answer, they all belong under candidate 3's current placement which encompasses the full Abaye discussion including the ye'ush framing.",
+      "current_heading": "Abaye: Before Ye'ush",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Rava: After Ye'ush",
+    "candidates": [
+      "Abaye: Before Ye'ush",
+      "Rava: After Ye'ush",
+      "Baraita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rava's explanation of the mishna \u2014 item 1 is his core ruling and item 2 is his explication of Rabban Shimon ben Gamliel's position via Chizkiyah \u2014 exactly what the 'Rava: After Ye'ush' prose describes in detail.",
+      "chosen_heading": "Rava: After Ye'ush",
+      "current_heading": "Rava: After Ye'ush",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Baraita Challenge",
+    "candidates": [
+      "Baraita Challenge",
+      "Rava's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita challenge from Rabban Shimon ben Gamliel and analyze how it fits Abaye's position but is problematic for Rava's position, which is precisely what the 'Baraita Challenge' prose describes.",
+      "chosen_heading": "Baraita Challenge",
+      "current_heading": "Baraita Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Rava's Response",
+    "candidates": [
+      "Rava's Response",
+      "Captors' Rights",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of Rava's resolution and the immediate follow-up question about the second master's acquisition, which is exactly what the 'Rava's Response' prose describes \u2014 Rava defending his position and then the Gemara pressing forward with 'sheni miman kanei lei?'",
+      "chosen_heading": "Rava's Response",
+      "current_heading": "Rava's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Captors' Rights",
+      "Reish Lakish",
+      "Verse Derivation",
+      "Kal va-Chomer",
+      "Kibbush Milchamah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Reish Lakish",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Reish Lakish's derivation from the verse in Leviticus distinguishing Jewish acquisition (kinyan guf) from gentile acquisition (only ma'aseh yadav), which matches exactly the 'Reish Lakish' and 'Verse Derivation' sections \u2014 but since items 1-2 cover both the answer and the verse derivation, and the current placement is 'Reish Lakish' which directly introduces this Reish Lakish principle, that is the correct home for items 1-2.",
+      "second_heading": "Kal va-Chomer",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the kal va-chomer inference (if a gentile can acquire a Jew for ma'aseh yadav, all the more so a gentile can acquire a gentile), which matches precisely the 'Kal va-Chomer' section's prose describing this exact a fortiori argument.",
+      "current_heading": "Reish Lakish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Kibbush Milchamah",
+    "candidates": [
+      "Verse Derivation",
+      "Kal va-Chomer",
+      "Kibbush Milchamah",
+      "Captives Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Pappa's teaching about Ammon and Moab being purified through Sihon's conquest, which is precisely the kibbush milchamah principle discussed in candidate 2's prose.",
+      "chosen_heading": "Kibbush Milchamah",
+      "current_heading": "Kibbush Milchamah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Captives Verse",
+    "candidates": [
+      "Captives Verse",
+      "Escape Goes Free"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks and answers how a gentile acquires a Jew through conquest, citing the verse 'va-yishbi mimenu shevi' (Numbers 21:1), which is precisely what the 'Captives Verse' prose section discusses.",
+      "chosen_heading": "Captives Verse",
+      "current_heading": "Captives Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Escape Goes Free",
+    "candidates": [
+      "Escape Goes Free",
+      "Apparent Contradiction",
+      "Abaye Resolves"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Escape Goes Free",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yochanan's ruling that a slave who escapes prison goes free and must receive a get shichrur, which is precisely what the 'Escape Goes Free' prose describes.",
+      "second_heading": "Apparent Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the contradiction from Rabba bar bar Chana/Rabbi Yochanan about ruling like Rabban Shimon ben Gamliel, which is exactly what the 'Apparent Contradiction' prose describes as the tension between the two Rabbi Yochanan positions.",
+      "current_heading": "Escape Goes Free",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Abaye Resolves",
+    "candidates": [
+      "Apparent Contradiction",
+      "Abaye Resolves",
+      "Rava: Escape Different"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly presents Abaye's resolution distinguishing lifnei ye'ush (the mishnah) from le-achar ye'ush (Rabbi Yochanan's case), which is precisely what the 'Abaye Resolves' section discusses.",
+      "chosen_heading": "Abaye Resolves",
+      "current_heading": "Abaye Resolves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Rava: Escape Different",
+    "candidates": [
+      "Rava: Escape Different",
+      "Shmuel's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the challenge to Rava (contradiction in Rabbi Yochanan's rulings) and Rava's resolution (barach shani \u2014 escape is different because the slave risked death), which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rava: Escape Different",
+      "current_heading": "Rava: Escape Different",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Shmuel's Case",
+    "candidates": [
+      "Shmuel's Case",
+      "Shmuel's Ruling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel's Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the maidservant being redeemed and the message sent to Shmuel, which matches heading 0's prose about the case setup and the assumption regarding ye'ush.",
+      "second_heading": "Shmuel's Ruling",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes Shmuel's actual ruling \u2014 that he did not enslave her and did not require a get shichrur \u2014 which matches heading 1's prose about Shmuel's position on manumission not being required.",
+      "current_heading": "Shmuel's Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Shmuel's Ruling",
+    "candidates": [
+      "Shmuel's Ruling",
+      "Verse Interpretation",
+      "Rabbi Abba Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's ruling that renouncing ownership of a slave frees him without requiring a bill of manumission, which matches the current heading 'Shmuel's Ruling' and its prose about Shmuel's consistent position on ha-mafkir avdo.",
+      "chosen_heading": "Shmuel's Ruling",
+      "current_heading": "Shmuel's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Rabbi Abba Case",
+    "candidates": [
+      "Verse Interpretation",
+      "Rabbi Abba Case",
+      "Writ Purposes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the case of Rabbi Abba bar Zutra's maidservant and the Gemara's question about what the get shichrur would accomplish, which is precisely what the 'Rabbi Abba Case' prose discusses.",
+      "chosen_heading": "Rabbi Abba Case",
+      "current_heading": "Rabbi Abba Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Writ Purposes",
+    "candidates": [
+      "Writ Purposes",
+      "Wedding Discovery",
+      "Martyrdom Explanation",
+      "Acceptance",
+      "Gemara's Lesson"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly continue the Gemara's discussion of why sending a get shichrur helps redeem the captive maidservant \u2014 the two alternative explanations and the qualification about public vs. private \u2014 which is precisely what the 'Writ Purposes' prose describes.",
+      "chosen_heading": "Writ Purposes",
+      "current_heading": "Writ Purposes",
+      "moved": false
+    }
+  }
+]

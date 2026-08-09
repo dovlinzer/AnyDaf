@@ -1,0 +1,388 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Cannot Nullify Obligation",
+    "candidates": [
+      "Mishnah Setup",
+      "Cannot Nullify Obligation",
+      "Divorce & Ketubah",
+      "Abraham & Ten Years",
+      "Exclusions from Count"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah Setup",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah itself, and candidate 0 ('Mishnah Setup') is the section whose prose explicitly discusses and summarizes this exact Mishnah \u2014 the ten-year rule, 'eino rashai levatel', the second husband's ten years, and the miscarriage restart.",
+      "second_heading": "Divorce & Ketubah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's baraita requiring 'yotzi ve'yitein kesubah' with the reasoning 'shema lo zachah le'hibanot mimenah', which is precisely what candidate 2 ('Divorce & Ketubah') discusses in its prose.",
+      "current_heading": "Cannot Nullify Obligation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Exclusions from Count",
+    "candidates": [
+      "Divorce & Ketubah",
+      "Abraham & Ten Years",
+      "Exclusions from Count",
+      "Isaac vs Abraham"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic text deriving the ten-year rule from the Avraham/Hagar episode (zecher la'davar, mi'ketz eser shanim), which is exactly what the 'Abraham & Ten Years' section prose describes, whereas the 'Exclusions from Count' section prose describes the generalization about illness and imprisonment that follows this foundational derivation.",
+      "chosen_heading": "Abraham & Ten Years",
+      "current_heading": "Exclusions from Count",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Isaac vs Abraham",
+    "candidates": [
+      "Exclusions from Count",
+      "Isaac vs Abraham",
+      "Isaac's Sterility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Rava-Rav Na\u1e25man exchange about deriving from Isaac vs. Abraham, including the resolution that Isaac was infertile and Abraham too was infertile but that verse serves Rabbi \u1e24iyya bar Abba's chronological purpose \u2014 exactly the content described in the 'Isaac vs Abraham' prose.",
+      "chosen_heading": "Isaac vs Abraham",
+      "current_heading": "Isaac vs Abraham",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Isaac's Sterility",
+    "candidates": [
+      "Isaac's Sterility",
+      "Why Sterility",
+      "Prayer as Pitchfork",
+      "Abraham & Sarah Tumtumim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Isaac's sterility, the interpretation of 'lenokha\u1e25' showing both were infertile, and the explanation of why only 'lo' (him) is used due to the greater potency of a tzaddik ben tzaddik's prayer \u2014 all of which is precisely what the 'Isaac's Sterility' section prose elaborates upon.",
+      "chosen_heading": "Isaac's Sterility",
+      "current_heading": "Isaac's Sterility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Abraham & Sarah Tumtumim",
+    "candidates": [
+      "Why Sterility",
+      "Prayer as Pitchfork",
+      "Abraham & Sarah Tumtumim",
+      "Earlier Generations",
+      "Modern Timeline",
+      "Three-Year View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Ami on tumtumim, the Isaiah proof-text, and Rav Na\u1e25man/Rabba bar Avuha on Sarah as ayalonit \u2014 are precisely the content described in candidate 2's prose about Abraham and Sarah's physical conditions and the magnification of the miracle.",
+      "chosen_heading": "Abraham & Sarah Tumtumim",
+      "current_heading": "Abraham & Sarah Tumtumim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Three-Year View",
+    "candidates": [
+      "Earlier Generations",
+      "Modern Timeline",
+      "Three-Year View",
+      "Ten Years Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda/Rav's ruling about earlier vs. later generations (covered under 'Earlier Generations') and Rav Nachman's three-year view, but since it is one continuous Talmudic passage, it belongs under the heading whose prose best introduces the entire unit \u2014 'Earlier Generations' sets up the distinction that launches this whole discussion, and the passage begins with that ruling before moving to Rav Nachman's amendment.",
+      "chosen_heading": "Earlier Generations",
+      "current_heading": "Three-Year View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Ten Years Standard",
+    "candidates": [
+      "Three-Year View",
+      "Ten Years Standard",
+      "Uncertainty of Cause",
+      "Woman & Pru U'Rvu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's statement rejecting the generational modifications and citing the Psalm about seventy years to confirm Rabbi's ten-year standard remains authoritative, which is precisely what the 'Ten Years Standard' prose describes.",
+      "chosen_heading": "Ten Years Standard",
+      "current_heading": "Ten Years Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Woman & Pru U'Rvu",
+    "candidates": [
+      "Uncertainty of Cause",
+      "Woman & Pru U'Rvu",
+      "Rabbi Abba Bar Zavda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the woman is not punished for childlessness because she is not commanded in pru u'rvu, which is precisely what the 'Woman & Pru U'Rvu' section's prose discusses.",
+      "chosen_heading": "Woman & Pru U'Rvu",
+      "current_heading": "Woman & Pru U'Rvu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Rabbi Abba Bar Zavda",
+    "candidates": [
+      "Rabbi Abba Bar Zavda",
+      "Middle Ground Position",
+      "Mishnah Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi Abba bar Zavda's case and the broader anecdote about Rav Huna's discourse causing sterility, which is precisely what the 'Rabbi Abba Bar Zavda' section's prose discusses as the gemara's explanation for why his case was unique.",
+      "chosen_heading": "Rabbi Abba Bar Zavda",
+      "current_heading": "Rabbi Abba Bar Zavda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Mishnah Position",
+    "candidates": [
+      "Middle Ground Position",
+      "Mishnah Position",
+      "Brit Milah Dispute",
+      "Four Sisters Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna's ruling that a second husband may marry her but a third may not (sheni in, shelishi lo), which is precisely what the 'Mishnah Position' prose describes.",
+      "chosen_heading": "Mishnah Position",
+      "current_heading": "Mishnah Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Four Sisters Case",
+    "candidates": [
+      "Brit Milah Dispute",
+      "Four Sisters Case",
+      "Genetic Teaching",
+      "Family Conditions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Brit Milah Dispute",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the baraita dispute between Rabbi and Rabban Shimon ben Gamliel over when a chazakah is established for circumcision deaths, and the contradicting baraita \u2014 exactly what candidate 0's prose describes.",
+      "second_heading": "Four Sisters Case",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the four sisters case in Tzippori and the gemara's discussion of what Rabbi Chiyya bar Abba's testimony teaches, which is precisely what candidate 1's prose describes.",
+      "current_heading": "Four Sisters Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Family Conditions",
+    "candidates": [
+      "Genetic Teaching",
+      "Family Conditions",
+      "Yom Kippur Incident"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about not marrying from families of epileptics or lepers, which is exactly what the 'Family Conditions' prose discusses and contextualizes.",
+      "chosen_heading": "Family Conditions",
+      "current_heading": "Family Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Yom Kippur Incident",
+    "candidates": [
+      "Yom Kippur Incident",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the incident before Rabbi Yo\u1e25anan in the synagogue of Maon on Yom Kippur that fell on Shabbat, with three sisters and his ruling 'go and circumcise,' which is precisely what the 'Yom Kippur Incident' prose describes.",
+      "chosen_heading": "Yom Kippur Incident",
+      "current_heading": "Yom Kippur Incident",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Abaye's Challenge",
+      "Abaye Marries Choma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's exact statement warning about permitting issur and sakana, which directly matches the prose in heading 0 ('Abaye's Challenge') that quotes and explains this very statement.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Abaye Marries Choma",
+    "candidates": [
+      "Abaye Marries Choma",
+      "Causation Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Abaye marrying Choma, Rava's critique of his reliance on Yitzchak Sumcha, and the baraita about Rabbi vs. Rabban Shimon ben Gamliel on marriage \u2014 are explicitly discussed in the 'Abaye Marries Choma' prose, making that the clear and correct placement.",
+      "chosen_heading": "Abaye Marries Choma",
+      "current_heading": "Abaye Marries Choma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Causation Debate",
+    "candidates": [
+      "Causation Debate",
+      "Rav Yosef's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact Talmudic source text for the 'Causation Debate' section, which explicitly discusses mayan vs. mazal as causes and the practical difference between them (betrothal death and falling from a palm tree), matching the prose perfectly.",
+      "chosen_heading": "Causation Debate",
+      "current_heading": "Causation Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Rav Yosef's View",
+    "candidates": [
+      "Rav Yosef's View",
+      "Marriage & Lashing",
+      "Menstrual & Ox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rav Yosef son of Rava asking Rava about the exchange with Rav Yosef regarding contradictory rulings (mocking accusation), which is precisely what the 'Rav Yosef's View' prose describes.",
+      "chosen_heading": "Rav Yosef's View",
+      "current_heading": "Rav Yosef's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Menstrual & Ox",
+    "candidates": [
+      "Marriage & Lashing",
+      "Menstrual & Ox",
+      "Two vs Three Synthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form Rava's complete resolution \u2014 identifying the two-occurrence cases (marriage and lashings) and the three-occurrence cases (vestos and forewarned ox) \u2014 which is precisely the synthesis content that heading 0 ('Marriage & Lashing') introduces, covering both pairs as part of one unified ruling about when each threshold applies.",
+      "chosen_heading": "Marriage & Lashing",
+      "current_heading": "Menstrual & Ox",
+      "moved": true
+    }
+  }
+]

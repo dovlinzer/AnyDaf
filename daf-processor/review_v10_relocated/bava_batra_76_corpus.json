@@ -1,0 +1,186 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rav's Minimal Movement",
+    "candidates": [
+      "Introduction",
+      "Rav's Minimal Movement",
+      "Shmuel: Full Displacement",
+      "Boat Movement Example",
+      "Animal Movement Tannaim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Rav/Shmuel dispute about ship acquisition via meshicha, which is exactly what the 'Rav's Minimal Movement' section introduces and discusses, covering Rav's kol shehu position and Shmuel's full displacement requirement.",
+      "chosen_heading": "Rav's Minimal Movement",
+      "current_heading": "Rav's Minimal Movement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Animal Movement Tannaim",
+    "candidates": [
+      "Shmuel: Full Displacement",
+      "Boat Movement Example",
+      "Animal Movement Tannaim",
+      "Boat vs. Animal Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Tannaitic baraita debating mesirah and meshicha for animals (including Rabbi Achai's stricter requirement), which is precisely what the 'Animal Movement Tannaim' section's prose describes and analyzes.",
+      "chosen_heading": "Animal Movement Tannaim",
+      "current_heading": "Animal Movement Tannaim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Boat vs. Animal Logic",
+    "candidates": [
+      "Boat vs. Animal Logic",
+      "What Are Otiot?",
+      "Abstract Debt Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the continuation of the Rav/Shmuel boat-vs-animal dispute, explaining why each amora's position is consistent with either tanna, which is precisely what heading 0's prose describes in detail.",
+      "chosen_heading": "Boat vs. Animal Logic",
+      "current_heading": "Boat vs. Animal Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Abstract Debt Problem",
+    "candidates": [
+      "What Are Otiot?",
+      "Abstract Debt Problem",
+      "Meshicha vs. Mesira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about a ship and otiot (items 1-2) and then clarifies the baraita's incompleteness and reconstructs it (item 3) \u2014 this is exactly the content described in candidate 0's prose, which introduces the baraita, explains that otiot means a debt/promissory document, and sets up the question of how such a transfer is effected, whereas candidate 1 ('Abstract Debt Problem') discusses the conceptual analysis of what a debt is, and candidate 2 ('Meshicha vs. Mesira') discusses the gemara's reconstruction after noting otiot appear without introduction \u2014 meaning item 3 borders on candidate 2 but the whole passage as a unit best fits candidate 0 as the introductory baraita presentation.",
+      "chosen_heading": "What Are Otiot?",
+      "current_heading": "Abstract Debt Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Meshicha vs. Mesira",
+    "candidates": [
+      "Abstract Debt Problem",
+      "Meshicha vs. Mesira",
+      "Why Mesira Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's re-reading of the baraita to clarify that a shtar doesn't apply to a ship (movable property) and that the baraita should be read as distinguishing meshicha for ships from mesirah/shtar for debts, which is precisely what the 'Meshicha vs. Mesira' section's prose describes.",
+      "chosen_heading": "Meshicha vs. Mesira",
+      "current_heading": "Meshicha vs. Mesira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Why Mesira Works",
+    "candidates": [
+      "Why Mesira Works",
+      "Rabbi's Mesira Only",
+      "Sages' Mesira + Shtar",
+      "Why Both Acts Needed",
+      "Shtar's Limited Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion identifying which tanna corresponds to which position regarding ship vs. letters/otiyot, which is precisely the content described in the closing paragraph of the 'Shtar's Limited Scope' prose section.",
+      "chosen_heading": "Shtar's Limited Scope",
+      "current_heading": "Why Mesira Works",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Shtar's Limited Scope",
+    "candidates": [
+      "Rabbi's Mesira Only",
+      "Sages' Mesira + Shtar",
+      "Why Both Acts Needed",
+      "Shtar's Limited Scope",
+      "Identifying Positions",
+      "Rabbi on Boats",
+      "Context Matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita presenting Rabbi's position (otiot niknot bimesirah) alongside the Sages' counter-position, which is precisely what heading 0 ('Rabbi's Mesira Only') introduces \u2014 the identification of this Tannaitic dispute \u2014 rather than heading 3 where it currently sits.",
+      "chosen_heading": "Rabbi's Mesira Only",
+      "current_heading": "Shtar's Limited Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Context Matters",
+    "candidates": [
+      "Identifying Positions",
+      "Rabbi on Boats",
+      "Context Matters",
+      "Sages on Boats",
+      "Context & Meaning",
+      "Abaye & Rava",
+      "Hagbaha Universal",
+      "Sages' Solution",
+      "Chalifin Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain resolving the contradiction between the two baraitot about ship acquisition via the reshut harabim/simta distinction, which is precisely what heading 2 ('Context Matters') discusses in its prose.",
+      "chosen_heading": "Context Matters",
+      "current_heading": "Context Matters",
+      "moved": false
+    }
+  }
+]

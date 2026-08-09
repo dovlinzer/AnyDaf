@@ -82,7 +82,7 @@
           "timestamp": "13:17"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -155,7 +155,7 @@
           "timestamp": "51:12"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -333,5 +333,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "29:37",
+  "amud_b_micro_title": "Michal and Yona Stories",
+  "shiur_start_daf": 95,
+  "shiur_start_amud": "b"
 }

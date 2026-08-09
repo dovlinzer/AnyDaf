@@ -44,7 +44,7 @@
           "timestamp": "10:01"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 43,
       "matched": true
     },
     {
@@ -112,7 +112,7 @@
           "timestamp": "32:38"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -175,7 +175,7 @@
           "timestamp": "49:32"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -731,5 +731,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 23
+  "amud_b_sefaria_index": 23,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "51:52",
+  "amud_b_micro_title": "Examples of Bad Verses",
+  "shiur_start_daf": 32,
+  "shiur_start_amud": "a"
 }

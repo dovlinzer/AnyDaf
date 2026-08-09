@@ -1,0 +1,374 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Ta'am K'Ikar Principle",
+    "candidates": [
+      "Heter Mitztaref",
+      "Kezayit Measurement",
+      "Ta'am K'Ikar Principle",
+      "Basar B'Chalav Evidence",
+      "Meat-Milk Uniqueness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Akiva deriving ta'am k'ikar from basar b'chalav, which is exactly what the 'Basar B'Chalav Evidence' section's prose describes.",
+      "chosen_heading": "Basar B'Chalav Evidence",
+      "current_heading": "Ta'am K'Ikar Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Meat-Milk Uniqueness",
+    "candidates": [
+      "Basar B'Chalav Evidence",
+      "Meat-Milk Uniqueness",
+      "Cooking vs. Taste",
+      "Non-Kosher Vessels",
+      "Vessels Category"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the Rabbis' rejection of meat-in-milk as a source and the exploration of what makes it a 'novelty,' specifically the kilayim comparison \u2014 exactly what candidate 1 ('Meat-Milk Uniqueness') discusses in its prose.",
+      "chosen_heading": "Meat-Milk Uniqueness",
+      "current_heading": "Meat-Milk Uniqueness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Vessels Category",
+    "candidates": [
+      "Cooking vs. Taste",
+      "Non-Kosher Vessels",
+      "Vessels Category",
+      "Rav Aha Challenge",
+      "Two Pesukim Answer",
+      "Chattat Absorption"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Cooking vs. Taste",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 conclude the basar b'chalav/cooking-vs-soaking discussion, matching heading 0's prose about why meat-in-milk cannot serve as a source for ta'am k'ikar.",
+      "second_heading": "Vessels Category",
+      "second_confidence": "medium",
+      "second_reason": "Items 3-9 cover the gei'ulei nochrim derivation, the rabbanan's objection, and the Rav Aha/Rav Ashi exchange, which the current heading 2 prose discusses in detail.",
+      "current_heading": "Vessels Category",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Chattat Absorption",
+    "candidates": [
+      "Rav Aha Challenge",
+      "Two Pesukim Answer",
+      "Chattat Absorption",
+      "Rabbi Akiva Stand",
+      "Rabbanan Stand"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the baraita explaining the hatat verse's absorption requirement and the 'shall become consecrated like it' rule, which is precisely what heading 2 ('Chattat Absorption') describes in its prose.",
+      "chosen_heading": "Chattat Absorption",
+      "current_heading": "Chattat Absorption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Rabbanan Stand",
+    "candidates": [
+      "Rabbi Akiva Stand",
+      "Rabbanan Stand",
+      "Bread-Wine Combination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous back-and-forth between the Rabbanan and Rabbi Akiva positions on why both verses are necessary (or not), which is precisely what the 'Rabbi Akiva Stand' prose describes \u2014 Rabbi Akiva's challenge that both verses teach heter mitztaref l'issur making them shnei ketuvim ha-ba'im k'echad, and the Rabbanan's rebuttal that the two verses serve distinct purposes; the current placement under 'Rabbanan Stand' is wrong because that section's prose has already concluded its explanation, while the 'Rabbi Akiva Stand' prose explicitly describes this Q&A exchange about why Rabbi Akiva reads both verses as teaching the same principle.",
+      "chosen_heading": "Rabbi Akiva Stand",
+      "current_heading": "Rabbanan Stand",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Bread-Wine Combination",
+    "candidates": [
+      "Rabbanan Stand",
+      "Bread-Wine Combination",
+      "Eaten Together Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's question to Rav Kahana about the nazirite baraita and why the Torah needs to teach that prohibited substances combine if heter already combines with issur \u2014 exactly what the 'Bread-Wine Combination' prose describes.",
+      "chosen_heading": "Bread-Wine Combination",
+      "current_heading": "Bread-Wine Combination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Eaten Together Rule",
+    "candidates": [
+      "Eaten Together Rule",
+      "Mishnah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the issur v'heter b'vas achas / issur v'issur bazeh achar zeh distinction, which is precisely what the 'Eaten Together Rule' prose section explains and discusses.",
+      "chosen_heading": "Eaten Together Rule",
+      "current_heading": "Eaten Together Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Mishnah Rule",
+    "candidates": [
+      "Mishnah Rule",
+      "Chatzitzah Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text about dough in kneading bowl cracks and the kezayit threshold, which is exactly what the 'Mishnah Rule' prose discusses, not the chatzitzah/tumah topic of candidate 1.",
+      "chosen_heading": "Mishnah Rule",
+      "current_heading": "Mishnah Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Chatzitzah Status",
+    "candidates": [
+      "Chatzitzah Status",
+      "Yehuda's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses chatzitzah status for immersion purposes based on the owner's desire, which is precisely what the 'Chatzitzah Status' section's prose discusses.",
+      "chosen_heading": "Chatzitzah Status",
+      "current_heading": "Chatzitzah Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Yehuda's Ruling",
+    "candidates": [
+      "Yehuda's Ruling",
+      "Baraitot Contradiction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yehuda's Ruling",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rav Yehuda/Shmuel's ruling applied to the reisha with its inference about less than a kezayit, which matches heading 0's prose exactly.",
+      "second_heading": "Baraitot Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the alternative tradition applying Rav Yehuda's principle to the seifa, which is precisely what heading 1's prose describes as 'ika d'matni lah asseifa' and the conflicting readings it introduces.",
+      "current_heading": "Yehuda's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Baraitot Contradiction",
+    "candidates": [
+      "Baraitot Contradiction",
+      "Location Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items cover exactly the content described in the 'Baraitot Contradiction' prose: the two baraitot (items 1-3), their contradiction and Rav Huna's resolution (item 4), and Rav Yosef's tannaic dispute response with the moldy bread baraita and Rabbi Shimon ben Elazar's position (items 5-6) \u2014 all of which are explicitly narrated in that section's prose.",
+      "chosen_heading": "Baraitot Contradiction",
+      "current_heading": "Baraitot Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Location Explanation",
+    "candidates": [
+      "Location Explanation",
+      "Shimon Ben Elazar Rule",
+      "Plastering Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Abaye's resolution distinguishing makom lisha from shelo b'makom lisha, and Rav Ashi's further precision about the edge of the basin \u2014 are precisely what the 'Location Explanation' prose describes, including the specific terminology and the reasoning Rashi provides about the three locations.",
+      "chosen_heading": "Location Explanation",
+      "current_heading": "Location Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Plastering Requirement",
+    "candidates": [
+      "Shimon Ben Elazar Rule",
+      "Plastering Requirement",
+      "Connection Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the complete sugya about whether Rav requires plastering to nullify leaven \u2014 the ruling for Rabbi Shimon ben Elazar, the challenge from Rav Yitzchak bar Ashi's plastering requirement, the resolution that these are two competing traditions, and the alternative version \u2014 and candidate 1's prose explicitly covers all of these elements in sequence.",
+      "chosen_heading": "Plastering Requirement",
+      "current_heading": "Plastering Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Connection Test",
+    "candidates": [
+      "Connection Test",
+      "House Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the connection test (lifting the string to see if both halves come with it) that the prose under 'Connection Test' discusses.",
+      "chosen_heading": "Connection Test",
+      "current_heading": "Connection Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "House Stringency",
+    "candidates": [
+      "House Stringency",
+      "Risk of Accumulation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Ulla's ruling distinguishing between bowl and house leniency, which is precisely what the 'House Stringency' prose describes, before the 'Risk of Accumulation' section explains the reason behind that distinction.",
+      "chosen_heading": "House Stringency",
+      "current_heading": "House Stringency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Risk of Accumulation",
+    "candidates": [
+      "Risk of Accumulation",
+      "Unresolved Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly provides the reason for the accumulation concern, which is exactly what heading 0 'Risk of Accumulation' discusses in its prose.",
+      "chosen_heading": "Risk of Accumulation",
+      "current_heading": "Risk of Accumulation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Unresolved Cases",
+    "candidates": [
+      "Unresolved Cases",
+      "Rosh Perspective"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Ulla's report of the unresolved dilemmas raised in Eretz Yisrael (house/upper story, house/portico, two rooms one inside the other), which matches precisely the 'Unresolved Cases' section prose describing these exact questions and noting they remain unresolved (teiku).",
+      "chosen_heading": "Unresolved Cases",
+      "current_heading": "Unresolved Cases",
+      "moved": false
+    }
+  }
+]

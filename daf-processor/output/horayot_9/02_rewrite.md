@@ -88,11 +88,7 @@ For the three sins that trigger *oleh v'yored* — *shmiat ha-kol*, *bitui sefat
 
 ### Contradiction Setup
 
-The *mishnah* states: *ella she'ein kohen gadol mashiach chayav al tum'at mikdash v'kodashav* — the *kohen gadol* is not liable for *tum'at mikdash v'kodashav*. This is structurally parallel to the *nasi*'s exemption from the oath about testimony: each is excluded from one of the three *oleh v'yored* sins while retaining obligation for the others — according to *Rabbi Shimon*.
-
-Yet the *braita* also states: *kol she-hu be'oleh v'yored, nasi kayotze vo, mashiach u'Beit Din peturin* — when it comes to *oleh v'yored* generally, the *nasi* is included but the *kohen gadol* and *Beit Din* are categorically excluded. These two positions contradict one another. The first says the *kohen gadol* is in the *oleh v'yored* category except for *tum'at mikdash*; the second says he is entirely outside it. *Hagufa kashya* — the *braita* contradicts itself.
-
----
+The *mishnah* here differs from what was discussed earlier: in principle, the *kohen gadol* is indeed *chayav* for the other *oleh v'yored* sins, but excluded from one of them — namely *tum'at mikdash v'kodashav*, since the *tzitz* serves to provide *kaparah* for that. This is *divrei Rabbi Shimon* — the position of *Rabbi Shimon*. As for what they actually bring when they are liable: a standard *korban oleh v'yored*, on a sliding scale according to their means.
 
 ## Rabbi Eliezer Rule
 

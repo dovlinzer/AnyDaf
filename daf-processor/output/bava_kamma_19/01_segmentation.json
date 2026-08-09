@@ -29,7 +29,7 @@
           "timestamp": "03:04"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -371,5 +371,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "29:30",
+  "amud_b_micro_title": "Regel Category",
+  "shiur_start_daf": 18,
+  "shiur_start_amud": "b"
 }

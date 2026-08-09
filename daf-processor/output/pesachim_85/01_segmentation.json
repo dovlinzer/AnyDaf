@@ -44,7 +44,7 @@
           "timestamp": "10:22"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -151,7 +151,7 @@
           "timestamp": "43:07"
         }
       ],
-      "sefaria_index": 19,
+      "sefaria_index": 18,
       "matched": true
     },
     {
@@ -683,5 +683,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "35:10",
+  "amud_b_micro_title": "Source: Chutz",
+  "shiur_start_daf": 84,
+  "shiur_start_amud": "b"
 }

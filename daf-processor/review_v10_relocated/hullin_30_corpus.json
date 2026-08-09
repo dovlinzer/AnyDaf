@@ -1,0 +1,392 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Reish Lakish vs. Yochanan",
+    "candidates": [
+      "Reish Lakish vs. Yochanan",
+      "Rava's Agreement Cases",
+      "Shechuting Outside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the foundational dispute between Reish Lakish and Rabbi Yochanan about whether shechita is accomplished only at its conclusion or throughout the process, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Reish Lakish vs. Yochanan",
+      "current_heading": "Reish Lakish vs. Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Shechuting Outside",
+    "candidates": [
+      "Rava's Agreement Cases",
+      "Shechuting Outside",
+      "Rav Yosef Refines",
+      "Parah Tumah Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items constitute Rava's elaboration of agreement cases (items 1-2) and the dispute's parameters (items 3-5), which together form the content described in candidate 0's prose about identifying scenarios where both opinions agree and then narrowing the debate \u2014 the current placement under 'Shechuting Outside' misses that items 1-2 belong to the agreement cases section, and candidate 0's prose explicitly covers all five items including the outside/inside framing and Rav Yosef's refinement.",
+      "chosen_heading": "Rava's Agreement Cases",
+      "current_heading": "Shechuting Outside",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Parah Tumah Rules",
+    "candidates": [
+      "Rav Yosef Refines",
+      "Parah Tumah Rules",
+      "Pesul During Shechita",
+      "Pesul During Haza'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Zeira's objection from the parah adumah mishna about tumah applying from beginning to end and melacha disqualifying the process, which is precisely what the 'Parah Tumah Rules' section's prose describes.",
+      "chosen_heading": "Parah Tumah Rules",
+      "current_heading": "Parah Tumah Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Pesul During Haza'ah",
+    "candidates": [
+      "Pesul During Shechita",
+      "Pesul During Haza'ah",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the shechita pesul case (no tumah before or after) and the haza'ah pesul case (tumah before, not after), making it the full Mishnah text that belongs under 'Pesul During Shechita' as the starting point of the Mishnah's discussion, with the haza'ah contrast being part of the same quoted passage rather than a separate item belonging under the haza'ah heading.",
+      "chosen_heading": "Pesul During Shechita",
+      "current_heading": "Pesul During Haza'ah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Pesul During Haza'ah",
+      "Rava's Challenge",
+      "Rava's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly presents Rabbi Zeira's challenge asking why the mishna doesn't draw a before/after distinction during shechita as it does for haza'ah \u2014 this is precisely the content described in 'Rava's Challenge' prose (ve-lei aflog nami bi-shchitata).",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rava's Response",
+    "candidates": [
+      "Rava's Response",
+      "Two People Shechting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct statement resolving the challenge by distinguishing a ruined shechita as retroactively never having been a shechita at all, which is precisely what the 'Rava's Response' section's prose discusses.",
+      "chosen_heading": "Rava's Response",
+      "current_heading": "Rava's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Two People Shechting",
+    "candidates": [
+      "Two People Shechting",
+      "Abaye's Handkerchief",
+      "Gemara Clarifies",
+      "Pesach on Chol Hamoed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form one continuous sugya: Rava's question about two men shechting (item 1), Rav Yosef's answer from the baraita (items 2-3), Abaye's objection about Rabbi Elazar ben Rabbi Shimon and the two-garment scenario (items 4-6) \u2014 this entire chain belongs under 'Two People Shechting' where the prose describes exactly this sequence.",
+      "chosen_heading": "Two People Shechting",
+      "current_heading": "Two People Shechting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Pesach on Chol Hamoed",
+    "candidates": [
+      "Abaye's Handkerchief",
+      "Gemara Clarifies",
+      "Pesach on Chol Hamoed",
+      "Auto Identity Change"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss the Mishna about slaughtering a korban pesach on Chol Hamoed with or without its original designation and the liability for chametz, which is precisely what the 'Pesach on Chol Hamoed' prose describes.",
+      "chosen_heading": "Pesach on Chol Hamoed",
+      "current_heading": "Pesach on Chol Hamoed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Auto Identity Change",
+    "candidates": [
+      "Auto Identity Change",
+      "R. Chiya Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks why one is exempt and concludes that a Paschal offering requires explicit revocation (akira) to become a peace offering, which is precisely what the prose under 'Auto Identity Change' discusses \u2014 that a pesach does not automatically change identity and requires conscious akira.",
+      "chosen_heading": "Auto Identity Change",
+      "current_heading": "Auto Identity Change",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "R. Chiya Context",
+    "candidates": [
+      "R. Chiya Context",
+      "Mum Changes Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly conveys Rabbi \u1e24iyya bar Gamda's clarification that the ruling applies specifically to owners who are temei meitim and thus deferred to pesach sheini, which is precisely what the 'R. Chiya Context' prose describes.",
+      "chosen_heading": "R. Chiya Context",
+      "current_heading": "R. Chiya Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Mum Changes Identity",
+    "candidates": [
+      "Mum Changes Identity",
+      "Pesach Category Remains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the exact question about why the animal doesn't automatically become a shelamim once it acquires a mum (when shechita is only at the end), which is precisely what heading 0 ('Mum Changes Identity') discusses \u2014 this is the question itself, while heading 1 contains Abaye's answer/response to it.",
+      "chosen_heading": "Mum Changes Identity",
+      "current_heading": "Mum Changes Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Pesach Category Remains",
+    "candidates": [
+      "Pesach Category Remains",
+      "Shechita in 2-3 Places"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Abaye's argument about redemption possibilities during shechita and the ha'amada ve-ha'aracha objection with the mefarchesets response, which is precisely what the 'Pesach Category Remains' prose describes in detail.",
+      "chosen_heading": "Pesach Category Remains",
+      "current_heading": "Pesach Category Remains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Shechita in 2-3 Places",
+    "candidates": [
+      "Shechita in 2-3 Places",
+      "Arrow Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the ruling about shechita in two or three places and Shmuel's objection requiring shechita meforaat, which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Shechita in 2-3 Places",
+      "current_heading": "Shechita in 2-3 Places",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Arrow Analogy",
+    "candidates": [
+      "Arrow Analogy",
+      "Two Knives Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly provides Reish Lakish's textual derivation from the 'sharpened arrow' verse, which is exactly what the 'Arrow Analogy' section's prose describes.",
+      "chosen_heading": "Arrow Analogy",
+      "current_heading": "Arrow Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Two Knives Case",
+    "candidates": [
+      "Two Knives Case",
+      "One Knife Two Handles",
+      "Angled Cutting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a single continuous dialectical chain \u2014 Rabbi Elazar's objection from the two-knives mishna, Rabbi Yirmiah's resolution (one knife/two people), and Rabbi Abba's challenge to that resolution \u2014 all directly addressing the two-people-holding-a-knife scenario that the 'Two Knives Case' prose describes.",
+      "chosen_heading": "Two Knives Case",
+      "current_heading": "Two Knives Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Angled Cutting",
+    "candidates": [
+      "One Knife Two Handles",
+      "Angled Cutting",
+      "Quill Edge",
+      "Cow Story",
+      "Rav Zeira Infers"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "One Knife Two Handles",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are Rabbi Avin's answer resolving the concern about pressing/drisha, which belongs under 'One Knife Two Handles' as part of that dispute's resolution.",
+      "second_heading": "Angled Cutting",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are Rabbi Avin's objection from the baraita about cutting gullet and windpipe at different heights and his own resolution, which matches 'Angled Cutting' prose exactly.",
+      "current_heading": "Angled Cutting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rav Zeira Infers",
+    "candidates": [
+      "Quill Edge",
+      "Cow Story",
+      "Rav Zeira Infers",
+      "Chaldah Definition",
+      "Tachat Ha-Or Valid",
+      "R. Yeshevav vs. Akiva",
+      "Cutting Direction",
+      "Cloth Wool Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the story of a bull slaughtered in two or three places and Rav Yitz\u1e25ak bar Shmuel bar Marta taking the choicest cuts \u2014 this is the 'Cow Story' narrative, and the Rav Zeira inference is part of the same continuous episode that belongs under that heading rather than a separate one.",
+      "chosen_heading": "Cow Story",
+      "current_heading": "Rav Zeira Infers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Cloth Wool Cases",
+    "candidates": [
+      "Chaldah Definition",
+      "Tachat Ha-Or Valid",
+      "R. Yeshevav vs. Akiva",
+      "Cutting Direction",
+      "Cloth Wool Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous discussion of chaldah (concealing the knife during slaughter): Rav's ruling, the Mishnah challenge, the directional distinction, the hide uncertainty, and the cloth/wool dilemmas \u2014 all belonging under the 'Chaldah Definition' heading which introduces and discusses exactly this topic.",
+      "chosen_heading": "Chaldah Definition",
+      "current_heading": "Cloth Wool Cases",
+      "moved": true
+    }
+  }
+]

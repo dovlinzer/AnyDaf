@@ -1,0 +1,540 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Torah at Night",
+    "candidates": [
+      "Torah vs. Frivolous Talk",
+      "R. Levi: Punishment",
+      "Torah at Night",
+      "Fish Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items concern Reish Lakish's teaching about Torah study at night bringing divine chesed by day (with item 2 being an alternative version of the same teaching), which is precisely what the 'Torah at Night' prose section discusses.",
+      "chosen_heading": "Torah at Night",
+      "current_heading": "Torah at Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Fish Metaphor",
+    "candidates": [
+      "Fish Metaphor",
+      "Sun Health Advice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the fish-out-of-water/Torah metaphor AND the sun metaphor, and the current heading's prose explicitly discusses the full passage including both interpretations, while the 'Sun Health Advice' heading only covers the second metaphor's elaboration.",
+      "chosen_heading": "Fish Metaphor",
+      "current_heading": "Fish Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Sun Health Advice",
+    "candidates": [
+      "Sun Health Advice",
+      "Future Sun Judgment",
+      "Destruction Healing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi \u1e24anina's teaching that everything is in Heaven's hands except colds and heat hazards, which directly corresponds to the 'Sun Health Advice' section's prose about this world interpretation and protecting oneself from the elements.",
+      "chosen_heading": "Sun Health Advice",
+      "current_heading": "Sun Health Advice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Destruction Healing",
+    "candidates": [
+      "Future Sun Judgment",
+      "Destruction Healing",
+      "Fish Swallow Gov't",
+      "Prayer Gov't"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuation of Rabbi Shimon ben Lakish's teaching about the sun in the World-to-Come \u2014 the prooftexts for the wicked being punished and the righteous being healed \u2014 which belongs under 'Future Sun Judgment' rather than 'Destruction Healing', even though the current placement also discusses related material.",
+      "chosen_heading": "Future Sun Judgment",
+      "current_heading": "Destruction Healing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Prayer Gov't",
+    "candidates": [
+      "Fish Swallow Gov't",
+      "Prayer Gov't",
+      "R. Chanina Strength"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the fish metaphor as a 'davar acher' and then cites the mishna as support, making it a single unit that belongs under 'Fish Swallow Gov't' which covers exactly this davar acher explanation, rather than splitting it under 'Prayer Gov't' which treats the mishna citation as a separate topic.",
+      "chosen_heading": "Fish Swallow Gov't",
+      "current_heading": "Prayer Gov't",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "R. Chanina Strength",
+    "candidates": [
+      "Prayer Gov't",
+      "R. Chanina Strength",
+      "Judgment War",
+      "R. Chama Anger",
+      "Israel Nations",
+      "R. Papa Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24innana bar Pappa raising the contradiction between verses about God's power, which matches heading 1 ('R. Chanina Strength') whose prose explicitly describes this exact contradiction, while heading 2 covers only the resolution.",
+      "chosen_heading": "R. Chanina Strength",
+      "current_heading": "R. Chanina Strength",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "R. Papa Oath",
+    "candidates": [
+      "Judgment War",
+      "R. Chama Anger",
+      "Israel Nations",
+      "R. Papa Oath",
+      "R. Alexandri Destroy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Chama bar Chanina's contradiction and its resolution (items belonging under 'R. Chama Anger') as well as Rav Chinnana bar Pappa's alternative explanation, and since heading 1 ('R. Chama Anger') introduces this entire unit while headings 2 and 3 split it artificially, the natural home for the full passage is heading 1 where the contradiction is first raised.",
+      "chosen_heading": "R. Chama Anger",
+      "current_heading": "R. Papa Oath",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "R. Alexandri Destroy",
+    "candidates": [
+      "R. Papa Oath",
+      "R. Alexandri Destroy",
+      "Rava Judgment",
+      "Gradual Destruction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Alexandri's teaching about seeking to destroy nations by searching their records for merit, which is exactly what the prose under 'R. Alexandri Destroy' describes.",
+      "chosen_heading": "R. Alexandri Destroy",
+      "current_heading": "R. Alexandri Destroy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Gradual Destruction",
+    "candidates": [
+      "Rava Judgment",
+      "Gradual Destruction",
+      "Small Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's teaching itself (the statement about judging Israel differently from the nations), which matches the 'Rava Judgment' heading's prose description of that exact teaching, while the current 'Gradual Destruction' heading's prose describes the elaboration/explanation of the verse's meaning rather than the core statement.",
+      "chosen_heading": "Rava Judgment",
+      "current_heading": "Gradual Destruction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Small Mitzvot",
+    "candidates": [
+      "Gradual Destruction",
+      "Small Mitzvot",
+      "Payment Sins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses two 'davar acher' interpretations \u2014 aggregating small mitzvot like hen-pecking into a large reckoning, and being saved through crying out \u2014 which directly matches the 'Small Mitzvot' section's prose about aggregating few deeds into something significant.",
+      "chosen_heading": "Small Mitzvot",
+      "current_heading": "Small Mitzvot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Payment Sins",
+    "candidates": [
+      "Payment Sins",
+      "Afflictions Strength"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Abba on God redeeming Israel by taking their money (payment) in this world so they merit the World-to-Come, which directly matches the 'Payment Sins' section prose that explicitly discusses this same Rabbi Abba teaching about redemption through monetary payment/suffering in this world.",
+      "chosen_heading": "Payment Sins",
+      "current_heading": "Payment Sins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Afflictions Strength",
+    "candidates": [
+      "Afflictions Strength",
+      "Abbahu Reputation",
+      "Heretic Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Pappi/Rava's teaching about God afflicting Israel in this world to strengthen them for the World-to-Come, which is precisely what the 'Afflictions Strength' section's prose discusses and elaborates upon.",
+      "chosen_heading": "Afflictions Strength",
+      "current_heading": "Afflictions Strength",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Heretic Challenge",
+    "candidates": [
+      "Abbahu Reputation",
+      "Heretic Challenge",
+      "Scripture Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete narrative of Rabbi Abbahu praising Rav Safra, the tax exemption, the heretics' challenge, Rav Safra's silence, and Rabbi Abbahu's explanation \u2014 all of which is described in candidate 0's prose as the story that begins with Abbahu's praise, making it the natural home for the entire passage rather than candidate 1 which covers only the challenge portion.",
+      "chosen_heading": "Abbahu Reputation",
+      "current_heading": "Heretic Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Scripture Debate",
+    "candidates": [
+      "Heretic Challenge",
+      "Scripture Debate",
+      "Parable Love"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly records the exchange about why Eretz Yisrael sages know Tanakh better, which is precisely what the 'Scripture Debate' prose section describes and analyzes.",
+      "chosen_heading": "Scripture Debate",
+      "current_heading": "Scripture Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Parable Love",
+    "candidates": [
+      "Parable Love",
+      "R. Abba Avraham"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the parable of the creditor who collects little by little versus all at once, which is precisely what the prose of 'Parable Love' describes.",
+      "chosen_heading": "Parable Love",
+      "current_heading": "Parable Love",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "R. Abba Avraham",
+    "candidates": [
+      "R. Abba Avraham",
+      "Complete Righteous"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Abba bar Kahana's interpretation of Abraham's prayer regarding Sodom, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "R. Abba Avraham",
+      "current_heading": "R. Abba Avraham",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Complete Righteous",
+    "candidates": [
+      "Complete Righteous",
+      "Silent Enablers",
+      "R. Papa Daily Anger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the continuous dialectic about the tzaddik gamur \u2014 the challenge from Ezekiel 21:8, the resolution about incomplete righteousness, the further challenge from Ezekiel 9:6/Rav Yosef, and the answer about failure to protest \u2014 all of which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Complete Righteous",
+      "current_heading": "Complete Righteous",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "R. Papa Daily Anger",
+    "candidates": [
+      "Silent Enablers",
+      "R. Papa Daily Anger",
+      "Instant Wrath",
+      "Bileam Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Pappa's contradiction between the two verses about God's daily wrath and who can stand before it, with the resolution about individual vs. community \u2014 exactly matching the prose in candidate 1.",
+      "chosen_heading": "R. Papa Daily Anger",
+      "current_heading": "R. Papa Daily Anger",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Bileam Knowledge",
+    "candidates": [
+      "Instant Wrath",
+      "Bileam Knowledge",
+      "Donkey Bileam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the baraita about God's momentary wrath and Balaam's alleged ability to identify it, which is precisely what the 'Instant Wrath' prose discusses \u2014 the duration of a rega, the 53,848th of an hour, and the exception of Bilam \u2014 before the 'Bileam Knowledge' section takes up the puncturing of that claim with the donkey argument.",
+      "chosen_heading": "Instant Wrath",
+      "current_heading": "Bileam Knowledge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Donkey Bileam",
+    "candidates": [
+      "Bileam Knowledge",
+      "Donkey Bileam",
+      "R. Elazar Withhold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items detail the dialogue between Balaam and his donkey about riding and intimate service, which is precisely what the 'Donkey Bileam' prose section discusses in full, including the same details about the horse in the meadow, beast of burden claim, and the hahasken/sochenet derivation.",
+      "chosen_heading": "Donkey Bileam",
+      "current_heading": "Donkey Bileam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "R. Elazar Withhold",
+    "candidates": [
+      "R. Elazar Withhold",
+      "Bileam Admission",
+      "Zaim Wrath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content of heading 0 ('R. Elazar Withhold'): item 1 introduces the Micah verse about knowing God's righteous acts, and item 2 is Rabbi Elazar's explanation that God withheld His anger throughout the Balaam episode \u2014 exactly what the prose of heading 0 discusses.",
+      "chosen_heading": "R. Elazar Withhold",
+      "current_heading": "R. Elazar Withhold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Zaim Wrath",
+    "candidates": [
+      "Bileam Admission",
+      "Zaim Wrath",
+      "Rooster Crown"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the duration of God's wrath (za'amo, rega) and cites the exact verses mentioned in the 'Zaim Wrath' prose section, which explicitly paraphrases this Gemara text.",
+      "chosen_heading": "Zaim Wrath",
+      "current_heading": "Zaim Wrath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Rooster Crown",
+    "candidates": [
+      "Rooster Crown",
+      "R. Yehoshua Heretic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses when God is angry and the rooster's comb whitening, which is exactly what the 'Rooster Crown' section's prose addresses.",
+      "chosen_heading": "Rooster Crown",
+      "current_heading": "Rooster Crown",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "R. Yehoshua Heretic",
+    "candidates": [
+      "R. Yehoshua Heretic",
+      "Harm Not Just"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehoshua ben Levi taking the rooster and falling asleep, which directly matches the prose under 'R. Yehoshua Heretic' that narrates exactly this sequence of events.",
+      "chosen_heading": "R. Yehoshua Heretic",
+      "current_heading": "R. Yehoshua Heretic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Harm Not Just",
+    "candidates": [
+      "Harm Not Just",
+      "Kings Crowns Sun",
+      "Musaf Alone",
+      "Congregation Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehoshua ben Levi's conclusion that it is improper to curse or bring punishment on others, citing 'His tender mercies are over all His works' and 'punishment for the righteous is not good' \u2014 exactly what the 'Harm Not Just' prose describes.",
+      "chosen_heading": "Harm Not Just",
+      "current_heading": "Harm Not Just",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "current_heading": "Congregation Merit",
+    "candidates": [
+      "Kings Crowns Sun",
+      "Musaf Alone",
+      "Congregation Merit",
+      "Hours Judgment",
+      "Torah Truth Law",
+      "Flexibility Judge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "Candidate 2's prose explicitly covers all four items as one continuous sugya \u2014 the tzibbur/individual distinctions, the hours-ordering contradiction, and the Torah-truth/din-flexibility resolution \u2014 making it the best single home for this entire passage, even though items 1\u20132 could also fit under candidates 0\u20131.",
+      "chosen_heading": "Congregation Merit",
+      "current_heading": "Congregation Merit",
+      "moved": false
+    }
+  }
+]

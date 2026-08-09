@@ -1,0 +1,397 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Rashi: Goren Leftovers",
+    "candidates": [
+      "All Animals in Pen",
+      "Leftovers Combine",
+      "Braita on Fifteen Sheep",
+      "Rashi: Goren Leftovers",
+      "Braita: 19 Sheep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the baraita ('tanya nami hachi') confirming Rava's ruling about fifteen lambs \u2014 the precise content described in candidate 2 ('Braita on Fifteen Sheep'), not the Rashi commentary discussion in candidate 3 where it currently sits.",
+      "chosen_heading": "Braita on Fifteen Sheep",
+      "current_heading": "Rashi: Goren Leftovers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Braita: 19 Sheep",
+    "candidates": [
+      "Rashi: Goren Leftovers",
+      "Braita: 19 Sheep",
+      "Exempt vs. Combine",
+      "Two-Door Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about nineteen lambs, which the 'Braita: 19 Sheep' section's prose explicitly describes and introduces.",
+      "chosen_heading": "Braita: 19 Sheep",
+      "current_heading": "Braita: 19 Sheep",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Two-Door Resolution",
+    "candidates": [
+      "Exempt vs. Combine",
+      "Two-Door Resolution",
+      "Pairs Counting Option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly Rav Huna bar Sechorah's two-door resolution before Rava, which is precisely what the 'Two-Door Resolution' section's prose discusses.",
+      "chosen_heading": "Two-Door Resolution",
+      "current_heading": "Two-Door Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Pairs Counting Option",
+    "candidates": [
+      "Pairs Counting Option",
+      "Rav Nachman's Praise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's challenges about counting nine-then-one and pairs-counting (zugot zugot), along with their resolutions via 'asiri me'elav kadosh' \u2014 exactly the content described in the 'Pairs Counting Option' prose, which explicitly discusses both the nine-then-one scenario and the zugot zugot scenario.",
+      "chosen_heading": "Pairs Counting Option",
+      "current_heading": "Pairs Counting Option",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rav Nachman's Praise",
+    "candidates": [
+      "Rav Nachman's Praise",
+      "Reality vs. Designation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man bar Yitz\u1e25ak's praise of Rav Huna bar Se\u1e25ora's mother, which is explicitly discussed in the prose of candidate 0 ('Rav Nachman's Praise').",
+      "chosen_heading": "Rav Nachman's Praise",
+      "current_heading": "Rav Nachman's Praise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Reality vs. Designation",
+    "candidates": [
+      "Reality vs. Designation",
+      "Miscounting All Three"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage about two animals emerging together and the ninth/tenth being 'mekulkalim' is precisely what the prose under 'Reality vs. Designation' discusses and analyzes in detail.",
+      "chosen_heading": "Reality vs. Designation",
+      "current_heading": "Reality vs. Designation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Miscounting All Three",
+    "candidates": [
+      "Miscounting All Three",
+      "Ninth: Kadosh, No Korban",
+      "Tenth: Full Maaser",
+      "Eleventh: Shelamim",
+      "Temurah Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the complete mishnah ruling about all three animals (ninth, tenth, eleventh) being sacred with their respective statuses, which directly corresponds to the 'Miscounting All Three' section's prose introducing the case where all three are kadosh.",
+      "chosen_heading": "Miscounting All Three",
+      "current_heading": "Miscounting All Three",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Temurah Debate",
+    "candidates": [
+      "Ninth: Kadosh, No Korban",
+      "Tenth: Full Maaser",
+      "Eleventh: Shelamim",
+      "Temurah Debate",
+      "Uprooting the Tenth",
+      "Rava: Tenth Auto-Kadosh",
+      "Counting by Groupings",
+      "Grouping vs. Sequential"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the dispute between Rabbi Yehuda and Rabbi Meir about whether the eleventh is a temura and whether temura can produce temura, along with the principle about uprooting the name of tenth \u2014 all of which is precisely what the 'Temurah Debate' prose describes.",
+      "chosen_heading": "Temurah Debate",
+      "current_heading": "Temurah Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Grouping vs. Sequential",
+    "candidates": [
+      "Uprooting the Tenth",
+      "Rava: Tenth Auto-Kadosh",
+      "Counting by Groupings",
+      "Grouping vs. Sequential",
+      "Regrouping Ignored",
+      "Backward Counting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items constitute the continuous dispute between Rav Mari and Rav Kahana over Rabbi Yochanan's ruling, including the challenge from the mishnah and Rav Kahana's resolution, which is precisely what the 'Grouping vs. Sequential' prose describes.",
+      "chosen_heading": "Grouping vs. Sequential",
+      "current_heading": "Grouping vs. Sequential",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Backward Counting",
+    "candidates": [
+      "Regrouping Ignored",
+      "Backward Counting",
+      "9 & 10 Together"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about backward counting and Rava's Persian-counting resolution \u2014 are precisely the content described in the 'Backward Counting' section's prose, which explicitly discusses this baraita, the challenge to Rav Mari, and Rava's answer about Persian usage.",
+      "chosen_heading": "Backward Counting",
+      "current_heading": "Backward Counting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "9 & 10 Together",
+    "candidates": [
+      "9 & 10 Together",
+      "Both Called 10"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "The passage deals with the mishna's case of calling the ninth 'tenth,' tenth 'ninth,' and eleventh 'tenth' \u2014 a distinct topic from the simultaneous-exit cases discussed in either candidate's prose, so neither heading is a clearly better match; preferring current placement.",
+      "chosen_heading": "9 & 10 Together",
+      "current_heading": "9 & 10 Together",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Both Called 10",
+    "candidates": [
+      "Both Called 10",
+      "10 & 11 Together"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All three items form Rava's continuous teaching on simultaneous exits from the pen, and candidate 1's prose about ten and eleven emerging together and the principles of simultaneous designation is a better overall match for the full passage than candidate 0, which only addresses the nine-ten/called-tenth sub-case.",
+      "chosen_heading": "10 & 11 Together",
+      "current_heading": "Both Called 10",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "10 & 11 Together",
+    "candidates": [
+      "10 & 11 Together",
+      "No Competition Principle",
+      "Sequential vs",
+      "Silence on Tenth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous dispute between Rav Kahana and Rav Ashi about why the simultaneous (bat achat) case sanctifies both animals despite ne'ekar shem asiri not being met, which is precisely what candidate 1 ('No Competition Principle') describes \u2014 the explanation that ne'ikar is about removing competition rather than temura-style transfer, leading to tarvaihu kadshi when both exit simultaneously.",
+      "chosen_heading": "No Competition Principle",
+      "current_heading": "10 & 11 Together",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Silence on Tenth",
+    "candidates": [
+      "No Competition Principle",
+      "Sequential vs",
+      "Silence on Tenth",
+      "Actively Mislabel to Deny"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The passage asks whose opinion the baraita follows and raises a difficulty about Rabbi Yehuda HaNasi's view on calling the eleventh 'eleven' not constituting a removal, which fits under 'Silence on Tenth' where the question of what counts as mislabeling ten is being posed \u2014 though candidate 3 also discusses the implications, the Gemara's challenge here is introductory and matches the questioning tone of candidate 2's prose.",
+      "chosen_heading": "Silence on Tenth",
+      "current_heading": "Silence on Tenth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Actively Mislabel to Deny",
+    "candidates": [
+      "Actively Mislabel to Deny",
+      "Rabbi Limits Mislabel",
+      "Rava on Rabbi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly presents the Gemara's answer that Rabbi's ruling applies only when there are many animals (beheimos tuva), which is precisely what the 'Rava on Rabbi' section discusses.",
+      "chosen_heading": "Rava on Rabbi",
+      "current_heading": "Actively Mislabel to Deny",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Rava on Rabbi",
+    "candidates": [
+      "Rabbi Limits Mislabel",
+      "Rava on Rabbi",
+      "Few Animals Case",
+      "Ritual Differences",
+      "Tenth & 11th Mixed",
+      "Graze Until Blemished"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita dispute between Rabbi and Rabbi Yosei b'Rabbi Yehuda AND Rava's clarification, but the prose under candidate 0 ('Rabbi Limits Mislabel') is specifically written to explain the content of this baraita including Rabbi's principle, while candidate 1 ('Rava on Rabbi') covers only Rava's limiting interpretation \u2014 however, since the passage includes both the baraita and Rava's statement as one unit, and candidate 0's prose actually discusses the full baraita content that opens this passage, the passage as a whole fits better under candidate 0, with Rava's comment serving as the concluding clarification of Rabbi's ruling discussed there.",
+      "chosen_heading": "Rabbi Limits Mislabel",
+      "current_heading": "Rava on Rabbi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Graze Until Blemished",
+    "candidates": [
+      "Few Animals Case",
+      "Ritual Differences",
+      "Tenth & 11th Mixed",
+      "Graze Until Blemished",
+      "Priestly Eating Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the three-way tannaitic dispute (graze/sacrifice/die) about two animals emerging simultaneously as the tenth, which directly corresponds to the 'Graze Until Blemished' section's prose discussing the braita with three positions including the yeiru (graze) opinion.",
+      "chosen_heading": "Graze Until Blemished",
+      "current_heading": "Graze Until Blemished",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Priestly Eating Risk",
+    "candidates": [
+      "Priestly Eating Risk",
+      "Both as Korbanos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items resolve the contradiction between the two tannaitic rulings by attributing them to the Rabbanan (who prohibit bringing kodshim to a situation of disqualification risk) and Rabbi Shimon (who permits it), which is precisely the content the 'Priestly Eating Risk' prose describes as the Rabbanan's rationale for not bringing the animals as korbanos.",
+      "chosen_heading": "Priestly Eating Risk",
+      "current_heading": "Priestly Eating Risk",
+      "moved": false
+    }
+  }
+]

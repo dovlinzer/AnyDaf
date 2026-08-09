@@ -1,0 +1,416 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "One Forgetfulness",
+    "candidates": [
+      "Review & Context",
+      "One Forgetfulness",
+      "Single Offering?",
+      "Rabbi Yochanan",
+      "Bibi bar Abaye"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly match the 'One Forgetfulness' prose, which explicitly describes the gemara resuming with 'amar mar' (item 1) and then establishing that complete exemption is not possible via the verse 'ki kol asher ya'aseh mikol hato'evot ha'eleh venichretu' (item 2).",
+      "chosen_heading": "One Forgetfulness",
+      "current_heading": "One Forgetfulness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Bibi bar Abaye",
+    "candidates": [
+      "Single Offering?",
+      "Rabbi Yochanan",
+      "Bibi bar Abaye",
+      "General Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Yochanan's derivation from achoto, Rav Beivai's objection, and the gemara's response invoking the hermeneutical principle \u2014 form one continuous chain of argument about Rabbi Yochanan's position, and candidate 1's prose explicitly describes all three elements (the lekach yatzat formulation, Bibi bar Abaye's challenge, and the kol davar shehayah bichlal principle), making it the clearly best match.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Bibi bar Abaye",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "General Rules",
+    "candidates": [
+      "Bibi bar Abaye",
+      "General Rules",
+      "Specific Traits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the shelamim paradigm (singled out to teach about all kodshei mizbe'ach, excluding kodshei bedek habayit), which is precisely what the 'General Rules' prose describes as the gemara's illustration of the kol davar shehayah bichlal veyatza principle applied to arayot.",
+      "chosen_heading": "General Rules",
+      "current_heading": "General Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Specific Traits",
+    "candidates": [
+      "Specific Traits",
+      "Explicit Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage shows Rav Beivai raising the question about kodshei bedek habayit being excluded \u2014 this is precisely the challenge about what specific traits of the paradigm case define the derivation, which the 'Explicit Verse' section's prose discusses as the unresolved problem that leads to Rabbi Yona's verse-based resolution, not the 'Specific Traits' section which discusses Rabbi Bibi's objection about ervah and heter bechayei osrah.",
+      "chosen_heading": "Explicit Verse",
+      "current_heading": "Specific Traits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Explicit Verse",
+    "candidates": [
+      "Specific Traits",
+      "Explicit Verse",
+      "Niddah Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: item 1 is Rav Beivai's objection about the specific traits of achoto (the 'no heter' characteristic excluding eshes ish), item 2 is Rabbi Yona/Rav Huna's resolution via the explicit verse equating all arayot to achoto, and items 3-4 address Rabbi Yitzchak's view and how he derives lechalek from elsewhere \u2014 all of which is described in the 'Explicit Verse' section's prose.",
+      "chosen_heading": "Explicit Verse",
+      "current_heading": "Explicit Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Niddah Woman",
+    "candidates": [
+      "Niddah Woman",
+      "Full vs. Half"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss exactly the content described in heading 0's prose: the gemara's question about why karet by achoto is needed if rabbanan can derive lechalek from 'ishah' in the niddah verse, the answer about separating sister/father's sister/mother's sister, the objection that shemos mechulakim and gufot mechulakim, and the refinement that it addresses one person who is all three simultaneously.",
+      "chosen_heading": "Niddah Woman",
+      "current_heading": "Niddah Woman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Full vs. Half",
+    "candidates": [
+      "Full vs. Half",
+      "Ein Onshim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous gemara exchange about Rabbi Yitzchak's derivation from 'achoto' and the Rabbis' use of that same phrase for the full-sister / ein onshim min hadin point \u2014 exactly the content described in the 'Full vs. Half' prose section.",
+      "chosen_heading": "Full vs. Half",
+      "current_heading": "Full vs. Half",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Ein Onshim",
+    "candidates": [
+      "Ein Onshim",
+      "Two Lavin",
+      "Anointing Oil",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yitz\u1e25ak's position on onshim min hadin and his alternative derivation of punishment from warning (yalif onesh me'azhara), which is precisely what the 'Ein Onshim' section's prose describes.",
+      "chosen_heading": "Ein Onshim",
+      "current_heading": "Ein Onshim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Two Lavin",
+      "Anointing Oil",
+      "Reconciliation",
+      "Non-Sequential"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 2-4 directly address the challenge raised after Rabbi Elazar's principle (why was the earlier karet derivation for achoto needed if separate lavin automatically generate separate chataot) and the responses distinguishing Rabbi Yitzchak from the Rabbis \u2014 which is precisely what the 'Reconciliation' prose describes, and item 1 states Rabbi Elazar's principle itself which the Reconciliation prose also opens by referencing.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Non-Sequential",
+    "candidates": [
+      "Non-Sequential",
+      "Not Stylistic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man bar Yitz\u1e25ak's statement introducing support from the mishna's listing of the three cases, which is precisely what the prose under heading 0 discusses \u2014 the mishnah's ordering and what it conveys about separate chataot.",
+      "chosen_heading": "Non-Sequential",
+      "current_heading": "Non-Sequential",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Not Stylistic",
+    "candidates": [
+      "Not Stylistic",
+      "One Person?",
+      "Homosexual Act"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the gemara's argument that the tanna's ordering was not stylistic but deliberate \u2014 establishing separate chataot between the two shemen cases \u2014 which is exactly what the 'Not Stylistic' prose section describes, including the 'deyesh chiluk chataot beineihem / shema mina' conclusion.",
+      "chosen_heading": "Not Stylistic",
+      "current_heading": "Not Stylistic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Homosexual Act",
+    "candidates": [
+      "One Person?",
+      "Homosexual Act",
+      "Rabbi Akiva",
+      "36 Keritot",
+      "Exclude Positive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous Talmudic discussion about whether the mishnah's tally refers to men or women, Rabbi Yochanan's resolution involving two distinct homosexual-act roles, and the dispute between Rabbi Yishmael and Rabbi Akiva about how many sin offerings are incurred \u2014 exactly the content described in the 'Homosexual Act' prose.",
+      "chosen_heading": "Homosexual Act",
+      "current_heading": "Homosexual Act",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Exclude Positive",
+    "candidates": [
+      "Rabbi Akiva",
+      "36 Keritot",
+      "Exclude Positive",
+      "33 Chataot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar in the name of Rav explaining that the mishnah teaches thirty-three chataot and three additional keritot to complete the tally, then supports this with the Pesach/milah question and the baraita about the entire Torah being juxtaposed to idolatry \u2014 all of which is precisely what heading '36 Keritot' describes, not the current placement '2. Exclude Positive'.",
+      "chosen_heading": "36 Keritot",
+      "current_heading": "Exclude Positive",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "33 Chataot",
+    "candidates": [
+      "Exclude Positive",
+      "33 Chataot",
+      "Forgot Shabbat",
+      "Me'achas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage concludes that the mishnah taught thirty-three sin offerings and then three additional karet cases to complete the karet list, which directly matches the '33 Chataot' section's prose about shema mina tana sheloshim veshalosh chataot and completing the keritot enumeration.",
+      "chosen_heading": "33 Chataot",
+      "current_heading": "33 Chataot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Me'achas",
+    "candidates": [
+      "Forgot Shabbat",
+      "Me'achas",
+      "Avodah Zarah",
+      "Cases Setup",
+      "Temple Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items together cover exactly what candidate 1's prose describes: the baraita on 'achas shehi heina' and 'heina shehein achas,' the question of why the mishnah chose the shigagat Shabbat case, the answer of demichatas miya lo miftar, and the parallel to avodah zarah \u2014 all of which are discussed under the 'Me'achas' heading.",
+      "chosen_heading": "Me'achas",
+      "current_heading": "Me'achas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Temple Intent",
+    "candidates": [
+      "Avodah Zarah",
+      "Cases Setup",
+      "Temple Intent",
+      "Statue Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage presents the gemara's initial question about what shigagat avodah zarah means in practice, which aligns with candidate 1's prose framing of 'shigagat avodas kochavim heichi dami,' though candidate 2 also discusses this exact scenario \u2014 however, candidate 1 introduces the question and candidate 2 addresses the rejection and its implications, so the passage (which is only the question/first scenario before rejection) fits better as the opening of that inquiry under candidate 1.",
+      "chosen_heading": "Cases Setup",
+      "current_heading": "Temple Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Statue Case",
+    "candidates": [
+      "Statue Case",
+      "Motives"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the statue (*andarta*) scenario and the two sub-cases (accepted as god vs. not accepted as god), which precisely matches the 'Statue Case' prose.",
+      "chosen_heading": "Statue Case",
+      "current_heading": "Statue Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Motives",
+    "candidates": [
+      "Motives",
+      "Abaye vs Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines the case of worshipping out of love or fear with a mistaken belief that lacking sincere intent meant no prohibition, which directly matches the 'Motives' section's prose describing me'ahavah u'miyirah and the shogeg arising from that mistaken belief.",
+      "chosen_heading": "Motives",
+      "current_heading": "Motives",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Abaye vs Rava",
+    "candidates": [
+      "Abaye vs Rava",
+      "Thinking Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Abaye/Rava dispute about liability for bowing out of love or fear, which is precisely what the 'Abaye vs Rava' section's prose discusses.",
+      "chosen_heading": "Abaye vs Rava",
+      "current_heading": "Abaye vs Rava",
+      "moved": false
+    }
+  }
+]

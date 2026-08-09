@@ -1,0 +1,224 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Lev Beis Din Masneh",
+    "candidates": [
+      "Lev Beis Din Masneh",
+      "Challenging R. Shimon",
+      "R. Yochanan Concedes",
+      "Shimon vs. Yochanan",
+      "Rabbanan de'Pligi",
+      "Ketores Distinction",
+      "Parah Adumah Case",
+      "Challenging R. Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "medium",
+      "reason": "The entire passage \u2014 establishing that Rabbi Shimon rejects lev beis din masneh aleihem (item 1), then systematically examining whether ketores, parah adumah, or the mishna challengers can serve as Tannaitic support for the principle (items 2-7) \u2014 matches heading 4 ('Rabbanan de'Pligi'), whose prose describes exactly this recapitulation showing none of the cited sources unambiguously extends the principle to the tmidin case.",
+      "chosen_heading": "Rabbanan de'Pligi",
+      "current_heading": "Lev Beis Din Masneh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Challenging R. Shimon",
+    "candidates": [
+      "Challenging R. Shimon",
+      "R. Yochanan Concedes",
+      "Shimon vs. Yochanan",
+      "Rabbanan de'Pligi",
+      "Ketores Distinction",
+      "Parah Adumah Case",
+      "Challenging R. Shimon",
+      "Rabbi Meir Reading",
+      "No Explicit Tanna",
+      "Mai Avdinan Lehu",
+      "Kayitz Hamizbeach",
+      "Leftover Funds Usage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage states explicitly that Rabbi Yochanan holds his position through tradition alone (gemara gemiri lah) with no explicit Tannaitic source, and specifies the tradition's content \u2014 exactly what the 'No Explicit Tanna' section describes.",
+      "chosen_heading": "No Explicit Tanna",
+      "current_heading": "Challenging R. Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Leftover Funds Usage",
+    "candidates": [
+      "Rabbi Meir Reading",
+      "No Explicit Tanna",
+      "Mai Avdinan Lehu",
+      "Kayitz Hamizbeach",
+      "Leftover Funds Usage",
+      "Identity Change Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage poses the exact question 'what do we do with them?' (mai avdinan lehu) from Rabbi Shimon's perspective regarding leftover tmidin, which is precisely what the 'Mai Avdinan Lehu' section's prose describes as its topic.",
+      "chosen_heading": "Mai Avdinan Lehu",
+      "current_heading": "Leftover Funds Usage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Identity Change Issue",
+    "candidates": [
+      "Leftover Funds Usage",
+      "Identity Change Issue",
+      "Gezeirah Risk",
+      "Tosafot View",
+      "Tannaitic Parallels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Shimon's concession regarding leftover communal sin-offering goats \u2014 that one cannot use the animal itself but only its monetary value \u2014 which is precisely what the 'Identity Change Issue' prose discusses as the core ruling about leftover chatos being redirected only through their money value, not their bodies.",
+      "chosen_heading": "Identity Change Issue",
+      "current_heading": "Identity Change Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Tannaitic Parallels",
+    "candidates": [
+      "Gezeirah Risk",
+      "Tosafot View",
+      "Tannaitic Parallels",
+      "Communal Bird Restriction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Gezeirah Risk",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20137 all concern the gezeirah le'achar kapparah atu lifnei kapparah \u2014 the rabbinic decree preventing a former chatas/asham from being brought directly as an olah \u2014 which is precisely what the 'Gezeirah Risk' prose discusses, including the three Tannaitic parallels (Abaye, Rava, Ravina) that converge on that point.",
+      "second_heading": "Tannaitic Parallels",
+      "second_confidence": "medium",
+      "second_reason": "Items 8\u20139 concern the baraita about kayitz hamizbeach (what is brought from surplus lambs, i.e., white figs/dessert for the altar), which fits the 'Tannaitic Parallels' section's closing discussion of leftover tmidin going to kayitz hamizbeach.",
+      "current_heading": "Tannaitic Parallels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Communal Bird Restriction",
+    "candidates": [
+      "Communal Bird Restriction",
+      "Sakin Moshechtan",
+      "Rashi on Sakin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what heading 0's prose covers: Rav Nachman bar Rav Chisda's ruling against using bird burnt-offerings for kayitz hamizbeach, Rava's dismissal as 'burkha,' and Rav Nachman bar Yitzchak's defense citing Rav Shimi of Neharde'a's principle that surplus funds go to communal olah and there is no communal bird olah.",
+      "chosen_heading": "Communal Bird Restriction",
+      "current_heading": "Communal Bird Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Rashi on Sakin",
+    "candidates": [
+      "Sakin Moshechtan",
+      "Rashi on Sakin",
+      "Tosafot on Sakin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose of candidate 1 ('Rashi on Sakin') explicitly discusses all three items: the Shmuel/sakin moshechtan principle (item 1), the baraita about Rabbi Shimon conceding regarding the goat moving between regel/Rosh Chodesh/Yom Kippur (item 2), and the rationale of 'l'chaper al mizbeach hachitzon' (item 3), making this the clearly correct placement.",
+      "chosen_heading": "Rashi on Sakin",
+      "current_heading": "Rashi on Sakin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Tosafot on Sakin",
+    "candidates": [
+      "Tosafot on Sakin",
+      "Shear Aveiros"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita expounding Leviticus 16:16 to distinguish pesha'im (rebellious sins) from \u1e25ataot (unwitting sins) directly supports the essay's discussion of the scapegoat's atonement scope over 'shear aveiros' \u2014 the categories of transgressions the mishna enumerates \u2014 not anything about the sakin/shechita mechanics discussed under the Tosafot heading.",
+      "chosen_heading": "Shear Aveiros",
+      "current_heading": "Tosafot on Sakin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Shear Aveiros",
+    "candidates": [
+      "Shear Aveiros",
+      "Redundancy Analysis",
+      "Hoda vs. Lo Hoda",
+      "Asham Talui Exception",
+      "Kalos & Chamuros"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the mishna's statement about the scapegoat atoning for all transgressions, the Gemara's note of apparent redundancies, and Rav Yehuda's resolution \u2014 this is precisely the introductory content described in the 'Shear Aveiros' prose, which summarizes the mishna's enumeration and the Gemara's parsing of it.",
+      "chosen_heading": "Shear Aveiros",
+      "current_heading": "Shear Aveiros",
+      "moved": false
+    }
+  }
+]

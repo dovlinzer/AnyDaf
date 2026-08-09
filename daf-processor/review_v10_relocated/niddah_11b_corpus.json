@@ -1,0 +1,337 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Rav: One Wellspring",
+    "candidates": [
+      "Intro: Dam Tahor Except",
+      "Rav: One Wellspring",
+      "Levi: Two Wellsprings",
+      "Continuous vs Separate",
+      "Mishna as Beit Shammai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in the 'Rav: One Wellspring' prose \u2014 item 1 introduces the phrase 'mevakeshet leishev al dam tahor' and item 2 presents Rav's ruling that there is one wellspring and the Torah changed its status, exactly as described in that section's prose.",
+      "chosen_heading": "Rav: One Wellspring",
+      "current_heading": "Rav: One Wellspring",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Mishna as Beit Shammai",
+    "candidates": [
+      "Levi: Two Wellsprings",
+      "Continuous vs Separate",
+      "Mishna as Beit Shammai",
+      "Dam Tahor Irrelevant: Rav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present Levi's identification of the mishna as Beit Shammai and the subsequent Gemara challenge about an unattributed mishna following Beit Shammai with the stam ve'achar kach machloket resolution \u2014 precisely the content described in the 'Mishna as Beit Shammai' prose.",
+      "chosen_heading": "Mishna as Beit Shammai",
+      "current_heading": "Mishna as Beit Shammai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Dam Tahor Irrelevant: Rav",
+    "candidates": [
+      "Dam Tahor Irrelevant: Rav",
+      "Beit Shammai vs. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the same topic \u2014 whether dam tahor establishes a veset and how this works according to Rav vs. Levi \u2014 which is precisely what the prose of candidate 0 ('Dam Tahor Irrelevant: Rav') explains in detail.",
+      "chosen_heading": "Dam Tahor Irrelevant: Rav",
+      "current_heading": "Dam Tahor Irrelevant: Rav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Beit Shammai vs. Hillel",
+    "candidates": [
+      "Beit Shammai vs. Hillel",
+      "Sex with Blood: Hymen",
+      "Sex without Bleeding",
+      "Different-Colored Blood"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beit Shammai vs. Hillel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the Beit Shammai/Beit Hillel dispute about four nights vs. until the wound heals, which is precisely what heading 0 ('Beit Shammai vs. Hillel') discusses.",
+      "second_heading": "Sex with Blood: Hymen",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Giddel/Shmuel's ruling about the criterion of 'stops seeing blood due to intercourse,' which is exactly what heading 1 ('Sex with Blood: Hymen') discusses as its operative criterion for Beit Hillel.",
+      "current_heading": "Beit Shammai vs. Hillel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Different-Colored Blood",
+    "candidates": [
+      "Sex with Blood: Hymen",
+      "Sex without Bleeding",
+      "Different-Colored Blood",
+      "Mishna: Virgin Brides"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses both the 'night without intercourse' criterion and the 'changed appearance of blood' criterion, then presents Rabbi Yona's objection specifically about changed blood color \u2014 which is exactly what Candidate 2 ('Different-Colored Blood') addresses in its prose.",
+      "chosen_heading": "Different-Colored Blood",
+      "current_heading": "Different-Colored Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Mishna: Virgin Brides",
+    "candidates": [
+      "Mishna: Virgin Brides",
+      "Checking Twice Daily vs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's challenge highlighting the contradiction between the two clauses of the mishna regarding the virgin bride and checking requirements, which is precisely what the prose in 'Mishna: Virgin Brides' describes.",
+      "chosen_heading": "Mishna: Virgin Brides",
+      "current_heading": "Mishna: Virgin Brides",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Checking Twice Daily vs",
+    "candidates": [
+      "Checking Twice Daily vs",
+      "Blood: Color Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the distinction between checking after intercourse (inconclusive due to organ soiling) versus checking without intercourse (meaningful), which is precisely what the 'Checking Twice Daily vs' section's prose discusses as the resolution *kan sheshimsha / kan shelo shimsha*.",
+      "chosen_heading": "Checking Twice Daily vs",
+      "current_heading": "Checking Twice Daily vs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Blood: Color Rules",
+    "candidates": [
+      "Blood: Color Rules",
+      "Purpose of Sex Checking",
+      "Post-Gemara Stringency",
+      "Shmuel: Taharot Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita about continuous sex-associated bleeding, the night-without-intercourse rule, and the color-change criterion \u2014 all of which are explicitly discussed in the 'Blood: Color Rules' prose, which quotes these very phrases (nishtanu mareh damim, avar layla achas belo tashmish, pasekah machmas tashmish).",
+      "chosen_heading": "Blood: Color Rules",
+      "current_heading": "Blood: Color Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Shmuel: Taharot Women",
+    "candidates": [
+      "Purpose of Sex Checking",
+      "Post-Gemara Stringency",
+      "Shmuel: Taharot Women",
+      "Woman's Voluntary Check"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All six items constitute the continuous Gemara discussion of Shmuel's ruling that the examination requirement applies only to women engaged in taharot, including the pshita challenge, the redirect to the latter clause, the novelty question, the veset distinction, the reconciliation of Shmuel's two statements, and the corroborating baraita \u2014 all of which are explicitly covered in the prose of candidate 2 ('Shmuel: Taharot Women').",
+      "chosen_heading": "Shmuel: Taharot Women",
+      "current_heading": "Shmuel: Taharot Women",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Woman's Voluntary Check",
+    "candidates": [
+      "Woman's Voluntary Check",
+      "No Voluntary Checking",
+      "Checking After Sex"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Zeira's initial question about voluntary checking, which is precisely what heading 0 ('Woman's Voluntary Check') describes in its prose \u2014 the question of whether a woman may voluntarily check herself, before Rav Yehuda's answer and its implications which belong under heading 1.",
+      "chosen_heading": "Woman's Voluntary Check",
+      "current_heading": "Woman's Voluntary Check",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Checking After Sex",
+    "candidates": [
+      "No Voluntary Checking",
+      "Checking After Sex",
+      "Shiur Veset Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the question posed by Rabbi Abba to Rav Huna about whether a woman should check herself after intercourse within shiur veset to render her husband liable to a sin offering, which is exactly what the 'Checking After Sex' section's prose describes and introduces.",
+      "chosen_heading": "Checking After Sex",
+      "current_heading": "Checking After Sex",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Shiur Veset Defined",
+    "candidates": [
+      "Shiur Veset Defined",
+      "Wiping vs. Full Check"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Huna's question about whether a bedikah can be performed within shiur veset, along with the baraita defining shiur veset via the mashal of shamash and eid at the doorpost \u2014 content that precisely matches the 'Shiur Veset Defined' prose, which explicitly discusses this baraita and mashal.",
+      "chosen_heading": "Shiur Veset Defined",
+      "current_heading": "Shiur Veset Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Wiping vs. Full Check",
+    "candidates": [
+      "Wiping vs. Full Check",
+      "Doubtful Status Check",
+      "No Post-Sex Checking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between kinuach (wiping) and bedikah (full examination) and poses the question about whether she should perform a kinuach, which is precisely what the 'Wiping vs. Full Check' section's prose describes.",
+      "chosen_heading": "Wiping vs. Full Check",
+      "current_heading": "Wiping vs. Full Check",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "No Post-Sex Checking",
+    "candidates": [
+      "Doubtful Status Check",
+      "No Post-Sex Checking",
+      "Tsnuot Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the alternative version of the question (ikka de'amri) about a woman examining herself to render her husband liable to an asham talui, which is precisely what Candidate 0's prose describes as 'an alternative version of the question' about bedikah for the purpose of asham talui.",
+      "chosen_heading": "Doubtful Status Check",
+      "current_heading": "No Post-Sex Checking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Tsnuot Status",
+    "candidates": [
+      "No Post-Sex Checking",
+      "Tsnuot Status",
+      "Fresh Cloth Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Ami's statement that this examination is the practice of 'tsnuos' and the exchange with Rabbi Abba bar Memel about whether it is required or supererogatory, which is precisely what the 'Tsnuot Status' section's prose addresses.",
+      "chosen_heading": "Tsnuot Status",
+      "current_heading": "Tsnuot Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Fresh Cloth Practice",
+    "candidates": [
+      "Fresh Cloth Practice",
+      "Rava's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's objection to Rabbi Ami's formulation and his alternative definition of tsnuos using fresh cloths, which is precisely what heading 0's prose discusses in full, making it the best match for the complete passage.",
+      "chosen_heading": "Fresh Cloth Practice",
+      "current_heading": "Fresh Cloth Practice",
+      "moved": false
+    }
+  }
+]

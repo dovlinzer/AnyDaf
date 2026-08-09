@@ -24,8 +24,8 @@
           "timestamp": "01:17"
         }
       ],
-      "sefaria_index": 27,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Eitivei Challenge: Pestle as Cutting Board and the Limits of Kli Shemelachto L'Issur",
@@ -72,7 +72,7 @@
           "timestamp": "10:34"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -106,7 +106,7 @@
           "timestamp": "15:05"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -140,7 +140,7 @@
           "timestamp": "25:01"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -275,8 +275,8 @@
           "timestamp": "48:07"
         }
       ],
-      "sefaria_index": 28,
-      "matched": false
+      "sefaria_index": 29,
+      "matched": true
     },
     {
       "title": "Historical Context of Vessel Restrictions: Response to Rampant Chilul Shabbat in Nehemiah's Era",
@@ -555,5 +555,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "29:38",
+  "amud_b_micro_title": "Limb Straightening",
+  "shiur_start_daf": 123,
+  "shiur_start_amud": "a"
 }

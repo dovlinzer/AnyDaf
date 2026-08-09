@@ -1,0 +1,353 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Sages' Position",
+    "candidates": [
+      "Perek IV Opening",
+      "Markolis Identity",
+      "Three-Stone Config",
+      "R. Ishmael Position",
+      "Sages' Position",
+      "Fallen Stones Rule",
+      "Proximity Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items \u2014 the Mishna presenting Rabbi Ishmael and the Sages' positions, the Gemara's analysis of the Sages' internal consistency, the challenge to Rabbi Ishmael's logic, and Rav Yitz\u1e25ak bar Yosef's resolution \u2014 are precisely the content described in the 'Sages' Position' prose, which covers exactly this sequence of mishna, gemara challenge, and Rav Yochanan's resolution.",
+      "chosen_heading": "Sages' Position",
+      "current_heading": "Sages' Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Proximity Principle",
+    "candidates": [
+      "Fallen Stones Rule",
+      "Proximity Principle",
+      "Rava Reinterprets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly discuss the proximity principle \u2014 near stones are universally forbidden, the meaning of 'batzad' as four amot, and the Rabbi Ishmael vs. Rabbis dispute about mini-Markolises in the intermediate zone \u2014 which is precisely what the 'Proximity Principle' prose elaborates in detail.",
+      "chosen_heading": "Proximity Principle",
+      "current_heading": "Proximity Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rava Reinterprets",
+    "candidates": [
+      "Rava Reinterprets",
+      "Tfisa Achat Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rava's reinterpretation of 'nashru' to 'nimtzu,' which is precisely what the prose under 'Rava Reinterprets' describes and analyzes.",
+      "chosen_heading": "Rava Reinterprets",
+      "current_heading": "Rava Reinterprets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Tfisa Achat Concept",
+    "candidates": [
+      "Tfisa Achat Concept",
+      "Tfisa Achat Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge to Rabbi Yishmael's position ('And does Rabbi Yishmael hold that two are permitted? But isn't it taught...'), which is precisely the contradiction that heading 0's prose describes as introduced and then resolved in the Tfisa Achat Concept section.",
+      "chosen_heading": "Tfisa Achat Concept",
+      "current_heading": "Tfisa Achat Concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Tfisa Achat Defined",
+    "candidates": [
+      "Tfisa Achat Defined",
+      "Meat-Milk Parallel",
+      "Tosafot Reading",
+      "Mini-Markolis Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct statement defining the distinction between tfisa achat and shtei tfisot via the presence of an elevated area (govah beini uveini), which is precisely what the 'Tfisa Achat Defined' prose section discusses.",
+      "chosen_heading": "Tfisa Achat Defined",
+      "current_heading": "Tfisa Achat Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Mini-Markolis Evidence",
+    "candidates": [
+      "Meat-Milk Parallel",
+      "Tosafot Reading",
+      "Mini-Markolis Evidence",
+      "Palace Paving"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's challenge 'UMarkolis kehai gavna mi havah?' and Rava's answer about the primary Markolis configuration, which is exactly what the 'Mini-Markolis Evidence' prose section describes.",
+      "chosen_heading": "Mini-Markolis Evidence",
+      "current_heading": "Mini-Markolis Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Palace Paving",
+    "candidates": [
+      "Palace Paving",
+      "Road Usage Dispute",
+      "R. Yochanan Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the historical incident of King Yannai's palace being destroyed, gentiles erecting Mercury stones, and other gentiles paving roads with them \u2014 exactly what the 'Palace Paving' prose describes, including the dispute among rabbis about walking on the roads which is introduced here before being analyzed in subsequent sections.",
+      "chosen_heading": "Palace Paving",
+      "current_heading": "Palace Paving",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "R. Yochanan Ruling",
+    "candidates": [
+      "Road Usage Dispute",
+      "R. Yochanan Ruling",
+      "No Bittul for Tikrovet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yochanan's ruling about the son of holy ones walking on those roads and identifies him as Rabbi Menachem son of Rabbi Simai, which is exactly what the 'R. Yochanan Ruling' prose describes.",
+      "chosen_heading": "R. Yochanan Ruling",
+      "current_heading": "R. Yochanan Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "No Bittul for Tikrovet",
+    "candidates": [
+      "No Bittul for Tikrovet",
+      "Stone Status Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states and explains the principle that tikrovet avodah zarah can never be nullified, derived from the verse about Baal Peor, which is precisely what the 'No Bittul for Tikrovet' section's prose discusses.",
+      "chosen_heading": "No Bittul for Tikrovet",
+      "current_heading": "No Bittul for Tikrovet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Stone Status Concern",
+    "candidates": [
+      "Stone Status Concern",
+      "Braita Teaching",
+      "Initial Difficulty",
+      "Rav Sheshet Solution",
+      "Not Ke'ein Panim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Sheshet Solution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the 'be'ina ke'ein panim ve'leika' resolution \u2014 the closing line of Rav Sheshet's answer about why stones are not tikrovet \u2014 which is precisely what heading 3 ('Rav Sheshet Solution') describes as its content.",
+      "second_heading": "Braita Teaching",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20133 are the baraita brought by Rabba bar Yirmeya about gentile vs. Jew paving roads with Markolis stones, which is exactly what heading 1 ('Braita Teaching') describes.",
+      "current_heading": "Stone Status Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Not Ke'ein Panim",
+    "candidates": [
+      "Braita Teaching",
+      "Initial Difficulty",
+      "Rav Sheshet Solution",
+      "Not Ke'ein Panim",
+      "Zizhum Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Sheshet's response stating he can resolve the difficulty despite not being a carpenter, identifying Rav Giddel's principle as the source of difficulty and resolving it with the ke'ein panim criterion \u2014 which is precisely what heading 2 ('Rav Sheshet Solution') describes in its prose.",
+      "chosen_heading": "Rav Sheshet Solution",
+      "current_heading": "Not Ke'ein Panim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Zizhum Teaching",
+    "candidates": [
+      "Not Ke'ein Panim",
+      "Zizhum Teaching",
+      "Zizhum vs. Gizum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute the baraita brought by Rabba bar Yirmeya about de-worming/manuring on Sabbatical Year vs. Festival, ending with the 'no carpenter' idiom \u2014 exactly what the 'Zizhum Teaching' prose describes.",
+      "chosen_heading": "Zizhum Teaching",
+      "current_heading": "Zizhum Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Zizhum vs. Gizum",
+    "candidates": [
+      "Zizhum vs. Gizum",
+      "Protection vs. Growth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Ravina's dismissal of the shemitah vs. chol hamoed distinction, explaining that shemitah only prohibits melachah while chol hamoed prohibits even tircha \u2014 exactly what Candidate 0's prose describes.",
+      "chosen_heading": "Zizhum vs. Gizum",
+      "current_heading": "Zizhum vs. Gizum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Protection vs. Growth",
+    "candidates": [
+      "Protection vs. Growth",
+      "Oil Applications",
+      "Branch vs. Fruit Oil",
+      "Consistency Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Protection vs. Growth",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 all concern the zizhum/gizum distinction and the zizhum-on-zizhum contradiction resolved via Rav Ukva bar Hama, exactly matching heading 0's prose.",
+      "second_heading": "Oil Applications",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces the oil-smearing (sikhah) contradiction as a new distinct difficulty, matching heading 1's prose about 'a third apparent difficulty' concerning oil applications.",
+      "current_heading": "Protection vs. Growth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Consistency Question",
+    "candidates": [
+      "Oil Applications",
+      "Branch vs. Fruit Oil",
+      "Consistency Question",
+      "Stick as Substitute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Branch vs. Fruit Oil",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Ravina's resolution of the oil-on-branch vs. oil-on-fruit distinction (protection vs. enhancement), which matches exactly the prose of 'Branch vs. Fruit Oil' describing 'hacha ukme ilana ve'shari' and 'hatam pitumei peirot ve'assur.'",
+      "second_heading": "Consistency Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Sama's challenge about why smearing oil (ukme) and placing manure (also ukme) are treated differently on chol hamoed \u2014 the unresolved 'carpenter' puzzle \u2014 which matches exactly the 'Consistency Question' prose about the genuine kushya with no resolution.",
+      "current_heading": "Consistency Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Stick as Substitute",
+    "candidates": [
+      "Stick as Substitute",
+      "Break vs. Throw",
+      "Resemblance Logic",
+      "Abaye Challenge",
+      "Splatter Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full teaching of Rav Yehuda/Rav plus the Abaye-Rava exchange in one block, and the 'Stick as Substitute' section is the only heading whose prose introduces and contextualizes the entire passage \u2014 including both the ruling and the dialogue \u2014 making it the correct home for the complete quoted text.",
+      "chosen_heading": "Stick as Substitute",
+      "current_heading": "Stick as Substitute",
+      "moved": false
+    }
+  }
+]

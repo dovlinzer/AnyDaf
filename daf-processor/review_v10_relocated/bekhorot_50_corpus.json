@@ -1,0 +1,341 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mishnah: Five Sela'im",
+    "candidates": [
+      "Definition to Pidyon",
+      "Mishnah: Five Sela'im",
+      "Shekel/Sela Equivalency",
+      "Biblical Payment Amounts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the opening Mishnah stating 'five sela'im for the son, using a Tyrian maneh,' which matches exactly the prose of heading 1 ('Mishnah: Five Sela'im') that directly discusses this Mishnah's text, its terminology, and the Tyrian maneh specification.",
+      "chosen_heading": "Mishnah: Five Sela'im",
+      "current_heading": "Mishnah: Five Sela'im",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Biblical Payment Amounts",
+    "candidates": [
+      "Shekel/Sela Equivalency",
+      "Biblical Payment Amounts",
+      "Payment in Equiv Value",
+      "Maneh Tzuri & Coins",
+      "Sela/Dinar/Maneh Ratios",
+      "Modern Silver Equivalence",
+      "Dollar Equivalency",
+      "Silver Price Fluctuation",
+      "Rashi vs. Tosafot",
+      "Gold/Silver Dinar Ratio",
+      "Rabbi Ami: Arabian Dinar",
+      "Rabbi Chanina: Istira",
+      "Reconciliation: 3 Views",
+      "Hadrianic Dinar = 25 Zuz",
+      "Sixth Removal Method",
+      "Corrected Calculation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items cover the Mishnah's enumeration of Torah payments (thirty/fifty/hundred shekels) all reckoned in the shekel hakodesh/Tyrian maneh standard, plus the Gemara's opening clarification of what 'maneh Tzuri' means \u2014 exactly what heading 0 ('Shekel/Sela Equivalency') discusses, rather than the current placement under 'Biblical Payment Amounts' which focuses on the kesef stam default rule and the kulam nitnin bekesef exception.",
+      "chosen_heading": "Shekel/Sela Equivalency",
+      "current_heading": "Biblical Payment Amounts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Corrected Calculation",
+    "candidates": [
+      "Payment in Equiv Value",
+      "Maneh Tzuri & Coins",
+      "Sela/Dinar/Maneh Ratios",
+      "Modern Silver Equivalence",
+      "Dollar Equivalency",
+      "Silver Price Fluctuation",
+      "Rashi vs. Tosafot",
+      "Gold/Silver Dinar Ratio",
+      "Rabbi Ami: Arabian Dinar",
+      "Rabbi Chanina: Istira",
+      "Reconciliation: 3 Views",
+      "Hadrianic Dinar = 25 Zuz",
+      "Sixth Removal Method",
+      "Corrected Calculation",
+      "Zuz Weight Expression"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yo\u1e25anan's statement about the Hadrianic/Trajanic dinar selling for twenty-five zuz and the proposal to deduct one-sixth, which is exactly what heading 11 ('Hadrianic Dinar = 25 Zuz') describes \u2014 the standard ratio and the question of how to get from twenty-five to twenty.",
+      "chosen_heading": "Hadrianic Dinar = 25 Zuz",
+      "current_heading": "Corrected Calculation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Zuz Weight Expression",
+    "candidates": [
+      "Corrected Calculation",
+      "Zuz Weight Expression",
+      "Rava: Torah Sela = 3.33",
+      "Gerah/Ma'ah Calculation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the corrected calculation procedure \u2014 subtracting a sixth and a zuz, the objection that this yields twenty minus a sixth, and the correct method of subtracting one zuz first then one-sixth \u2014 which matches the 'Corrected Calculation' prose precisely.",
+      "chosen_heading": "Corrected Calculation",
+      "current_heading": "Zuz Weight Expression",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Gerah/Ma'ah Calculation",
+    "candidates": [
+      "Rava: Torah Sela = 3.33",
+      "Gerah/Ma'ah Calculation",
+      "Yovel Redemption & Fundin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement that the biblical sela equals three and one-third dinars, which is the claim introduced in candidate 0's prose; candidate 1's prose describes the mathematical proof that follows from this statement, but the Gemara text itself is Rava's initial pronouncement with its supporting proof, which belongs under the heading that introduces Rava's assertion.",
+      "chosen_heading": "Rava: Torah Sela = 3.33",
+      "current_heading": "Gerah/Ma'ah Calculation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Yovel Redemption & Fundin",
+    "candidates": [
+      "Gerah/Ma'ah Calculation",
+      "Yovel Redemption & Fundin",
+      "Coinage Enlargement",
+      "'Yihyeh' Drasha",
+      "Minimum Gerah Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern the baraita about the yovel field redemption \u2014 the 48 pundeyon per sela and the kilbon explanation \u2014 which is precisely what candidate 1 ('Yovel Redemption & Fundin') discusses, matching the current placement.",
+      "chosen_heading": "Yovel Redemption & Fundin",
+      "current_heading": "Yovel Redemption & Fundin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Minimum Gerah Standard",
+    "candidates": [
+      "Coinage Enlargement",
+      "'Yihyeh' Drasha",
+      "Minimum Gerah Standard",
+      "Rav Ashi's 17 Zuzim",
+      "Priest's Demand",
+      "Rav Ashi's Justification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the 'yihyeh' drasha (permitting increase) and the 'hu' drasha (prohibiting decrease) as one continuous baraita, and the essay splits these artificially across two headings \u2014 but the passage as a whole is introduced by and best matches the 'Yihyeh Drasha' heading (index 1), which explicitly discusses this baraita and its derivation.",
+      "chosen_heading": "'Yihyeh' Drasha",
+      "current_heading": "Minimum Gerah Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rav Ashi's Justification",
+    "candidates": [
+      "Rav Ashi's 17 Zuzim",
+      "Priest's Demand",
+      "Rav Ashi's Justification",
+      "Biblical Kesef = Sela",
+      "Prophetic Kesef = Litra",
+      "Kesef is 100 Shekalim",
+      "Ephron Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi sending seventeen dinars and the initial exchange with Rav Acha, which matches heading 0's prose about Rav Ashi sending seventeen zuz \u2014 the current placement under 'Rav Ashi's Justification' splits this single narrative unit inappropriately.",
+      "chosen_heading": "Rav Ashi's 17 Zuzim",
+      "current_heading": "Rav Ashi's Justification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Ephron Exception",
+    "candidates": [
+      "Biblical Kesef = Sela",
+      "Prophetic Kesef = Litra",
+      "Kesef is 100 Shekalim",
+      "Ephron Exception",
+      "Qintrin/Shekel Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi \u1e24anina's complete statement covering all three categories (Torah=sela, Prophets=litra, Writings=kintarin) plus the Ephron exception, and should sit under the first heading 'Biblical Kesef = Sela' where Rabbi Chanina's comprehensive principle is introduced, rather than being split across multiple headings or placed only under the Ephron exception.",
+      "chosen_heading": "Biblical Kesef = Sela",
+      "current_heading": "Ephron Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Qintrin/Shekel Principle",
+    "candidates": [
+      "Ephron Exception",
+      "Qintrin/Shekel Principle",
+      "Kesef When Price Fixed",
+      "Generic Kesef Flexibility",
+      "Redemption Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Qintrin/Shekel Principle' explicitly describes this very sugya \u2014 Rav Oshaya's wish to sequester all gold and silver, the verse from Ezekiel permitting it, and Abaye's refinement to the Hadrianic/Tyrian coinage \u2014 matching both items exactly.",
+      "chosen_heading": "Qintrin/Shekel Principle",
+      "current_heading": "Qintrin/Shekel Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Redemption Examples",
+    "candidates": [
+      "Kesef When Price Fixed",
+      "Generic Kesef Flexibility",
+      "Redemption Examples",
+      "Fixed Price = Sela"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items together constitute the initial statement of Rav Asi's broad principle (every kesef in the Torah is Tyrian coinage) followed by a series of challenges and resolutions \u2014 this is the original formulation being tested, which corresponds to heading 0 ('Kesef When Price Fixed'), where the essay prose describes the broad formulation that the Gemara demonstrates is too sweeping through counterexamples, exactly matching this passage's content.",
+      "chosen_heading": "Kesef When Price Fixed",
+      "current_heading": "Redemption Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Fixed Price = Sela",
+    "candidates": [
+      "Redemption Examples",
+      "Fixed Price = Sela",
+      "Local Sela Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present and then challenge Rav Asi's ruling that every fixed Torah amount means Tyrian coinage, which is precisely what the 'Fixed Price = Sela' section's prose describes.",
+      "chosen_heading": "Fixed Price = Sela",
+      "current_heading": "Fixed Price = Sela",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Local Sela Definition",
+    "candidates": [
+      "Local Sela Definition",
+      "Ear-Clapping Fine",
+      "Sela = Half Zuz",
+      "Chanan Bisha Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the principle that rabbinic monetary amounts use provincial coinage (kesef medinah) and then cites the ear-clapping mishna as the supporting example, matching the 'Local Sela Definition' section's prose about veshel divreihem kesef medinah being one-eighth the Tyrian sela.",
+      "chosen_heading": "Local Sela Definition",
+      "current_heading": "Local Sela Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Chanan Bisha Story",
+    "candidates": [
+      "Ear-Clapping Fine",
+      "Sela = Half Zuz",
+      "Chanan Bisha Story",
+      "Ketubah = 200 Zuzim",
+      "Biblical vs. Rabbinic Law",
+      "One-Eighth Reduction",
+      "Modern Valuations",
+      "Zekokim Enhancement",
+      "Zekok Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together narrate the complete Chanan Bisha anecdote \u2014 the strike, Rav Huna's ruling of half a zuz, and the solution of striking again to pay with one worn coin \u2014 which is precisely what the 'Chanan Bisha Story' prose describes.",
+      "chosen_heading": "Chanan Bisha Story",
+      "current_heading": "Chanan Bisha Story",
+      "moved": false
+    }
+  }
+]

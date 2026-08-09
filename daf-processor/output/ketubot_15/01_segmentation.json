@@ -58,7 +58,7 @@
           "timestamp": "06:24"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -97,7 +97,7 @@
           "timestamp": "24:47"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -523,5 +523,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "31:01",
+  "amud_b_micro_title": "Foundling Infant Case",
+  "shiur_start_daf": 15,
+  "shiur_start_amud": "a"
 }

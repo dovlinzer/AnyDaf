@@ -1,0 +1,306 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Public Domain Effect",
+    "candidates": [
+      "Overview & Transition",
+      "Metaher & Tumah",
+      "Non-Jews as Tamei",
+      "Setup & Storage",
+      "Tosafot's Reading",
+      "Public Domain Effect",
+      "Permission Conditions",
+      "Supervision Methods",
+      "Misleading Language",
+      "Receipt Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna text describes the basic setup of the case \u2014 a Jew who processes a non-Jew's wine and places it in the non-Jew's domain \u2014 which corresponds precisely to the 'Setup & Storage' section's prose describing *v'nosno birshuso* and the concern about the non-Jew performing a libation in his own home.",
+      "chosen_heading": "Setup & Storage",
+      "current_heading": "Public Domain Effect",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Receipt Transfer",
+    "candidates": [
+      "Permission Conditions",
+      "Supervision Methods",
+      "Misleading Language",
+      "Receipt Transfer",
+      "Beis She'an Case",
+      "Rashi vs. Tosafot",
+      "Traveling Merchants"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Supervision Methods",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the watchman's non-continuous supervision (yotzei v'nichnas) and Rabbi Shimon ben Elazar's statement about gentile domain, which matches the 'Supervision Methods' prose exactly.",
+      "second_heading": "Receipt Transfer",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the receipt case (hitkabalti mimcha maot) and the Beit She'an incident, which the 'Receipt Transfer' prose discusses directly as the second mishna case involving the non-Jew writing acknowledgment of Jewish ownership.",
+      "current_heading": "Receipt Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Traveling Merchants",
+    "candidates": [
+      "Beis She'an Case",
+      "Rashi vs. Tosafot",
+      "Traveling Merchants",
+      "Walled Cities",
+      "Substitute Surveillance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge about Jewish peddlers traveling through towns and Shmuel's answer about walled cities, which is precisely what the 'Traveling Merchants' prose discusses \u2014 the challenge from rochlin and Tosafot's reasoning about deterrence from passing merchants.",
+      "chosen_heading": "Traveling Merchants",
+      "current_heading": "Traveling Merchants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Substitute Surveillance",
+    "candidates": [
+      "Walled Cities",
+      "Substitute Surveillance",
+      "Barren Palm Tree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Yosef's statement about windows, trash heaps, and palm trees being considered like a public thoroughfare, which is precisely what the 'Substitute Surveillance' section's prose describes and analyzes.",
+      "chosen_heading": "Substitute Surveillance",
+      "current_heading": "Substitute Surveillance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Barren Palm Tree",
+    "candidates": [
+      "Barren Palm Tree",
+      "Jew Owns Both"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rav Acha and Ravina dispute about a barren palm tree (psik reisha), which is precisely what the 'Barren Palm Tree' section's prose describes.",
+      "chosen_heading": "Barren Palm Tree",
+      "current_heading": "Barren Palm Tree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Jew Owns Both",
+    "candidates": [
+      "Jew Owns Both",
+      "Different Courtyard",
+      "Non-Jew Owns Both",
+      "Yochanan Lenient",
+      "Jew Elsewhere",
+      "Rabbi Meir Strict",
+      "Chachamim View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the first baraita case \u2014 a Jew who purchases or rents a house in a gentile's courtyard, fills it with wine, and a Jew lives in that courtyard, permitted even without key or seal \u2014 which matches exactly what the 'Jew Owns Both' prose describes.",
+      "chosen_heading": "Jew Owns Both",
+      "current_heading": "Jew Owns Both",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Chachamim View",
+    "candidates": [
+      "Different Courtyard",
+      "Non-Jew Owns Both",
+      "Yochanan Lenient",
+      "Jew Elsewhere",
+      "Rabbi Meir Strict",
+      "Chachamim View",
+      "Inspection Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All six items together form the Gemara's analysis of which case the Chachamim are addressing \u2014 ruling out the fourth case and the third case, then locating their statement in the second half of the first case \u2014 which is precisely what the 'Chachamim View' prose describes.",
+      "chosen_heading": "Chachamim View",
+      "current_heading": "Chachamim View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Inspection Types",
+    "candidates": [
+      "Inspection Types",
+      "Two Readings",
+      "Lenient: Own Domain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the Gemara's correction of 'memuneh ba l'kitin' (appointed overseer at set times) to 'memuneh she'eino ba l'kitin' (overseer who comes without fixed appointments), which is precisely what the 'Inspection Types' section prose describes.",
+      "chosen_heading": "Inspection Types",
+      "current_heading": "Inspection Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Lenient: Own Domain",
+    "candidates": [
+      "Two Readings",
+      "Lenient: Own Domain",
+      "Strict: Reciprocity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the initial dilemma about Rabbi Shimon ben Elazar's ruling (lenient or stringent) and the first resolution (Rav Yehuda/Ze'iri: lenient, explaining the tanna kamma's position), which is precisely what heading 0 'Two Readings' describes \u2014 the ambiguity and the two competing attributions \u2014 rather than the full elaboration of the lenient reading found in heading 1.",
+      "chosen_heading": "Two Readings",
+      "current_heading": "Lenient: Own Domain",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Strict: Reciprocity",
+    "candidates": [
+      "Lenient: Own Domain",
+      "Strict: Reciprocity",
+      "Tanya Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the version where Rabbi Shimon ben Elazar is the lenient one (permitting wine in another gentile's domain, not concerned about collusion) and the tanna kamma is the strict one \u2014 which matches exactly the 'Lenient: Own Domain' section's prose describing Rav Yehuda/Ze'iri's reading, not the 'Strict: Reciprocity' section where Rabbi Shimon ben Elazar is the strict party.",
+      "chosen_heading": "Lenient: Own Domain",
+      "current_heading": "Strict: Reciprocity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Tanya Support",
+    "candidates": [
+      "Tanya Support",
+      "Parzik Rufla Case",
+      "Equals Reciprocity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita supporting Rabbi Shimon ben Elazar's stringent position, which is exactly what the 'Tanya Support' prose section discusses \u2014 the declarative statement grounded in concern about deceptive reciprocity.",
+      "chosen_heading": "Tanya Support",
+      "current_heading": "Tanya Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Equals Reciprocity",
+    "candidates": [
+      "Parzik Rufla Case",
+      "Equals Reciprocity",
+      "Rava Reversal",
+      "Wine Barrels Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Equals Reciprocity",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Rabbis' argument that gomlin does not apply in an unequal relationship (arisa vs. Parzak), which is precisely what 'Equals Reciprocity' discusses.",
+      "second_heading": "Rava Reversal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rava's reversal \u2014 that the sharecropper's fear of the vizier makes the wine more suspect \u2014 which is exactly what 'Rava Reversal' describes.",
+      "current_heading": "Equals Reciprocity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Wine Barrels Case",
+    "candidates": [
+      "Rava Reversal",
+      "Wine Barrels Case",
+      "Caught Criterion",
+      "Rules Summary",
+      "Intent & Touch",
+      "Rashi's Ruling",
+      "Transport Distinction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wine Barrels Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the barrel case and Rava's criterion, which the 'Wine Barrels Case' prose explicitly introduces as its topic.",
+      "second_heading": "Transport Distinction",
+      "second_confidence": "high",
+      "second_reason": "The hadran (Item 2) marks the formal end of the perek/chapter, and candidate 6 ('Transport Distinction') explicitly concludes 'the perek draws to its close,' making it the natural home for the closing hadran formula.",
+      "current_heading": "Wine Barrels Case",
+      "moved": true
+    }
+  }
+]

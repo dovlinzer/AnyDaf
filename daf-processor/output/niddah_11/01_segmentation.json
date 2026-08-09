@@ -30,7 +30,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Problem of Bleeding During Childbirth: How to Count Uninterrupted Periods",
@@ -83,7 +83,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": false
+      "matched": true
     },
     {
       "title": "External Causes of Bleeding and Establishing a Veset (Regular Cycle)",
@@ -140,7 +140,7 @@
           "timestamp": "53:52"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -354,5 +354,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "39:45",
+  "amud_b_micro_title": "Checking Requirement",
+  "shiur_start_daf": 11,
+  "shiur_start_amud": "a"
 }

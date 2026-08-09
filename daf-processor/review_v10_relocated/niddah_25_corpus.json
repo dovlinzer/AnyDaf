@@ -1,0 +1,540 @@
+[
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Abaye: Dissolved Fetus",
+    "candidates": [
+      "Shapir Definition",
+      "Water/Blood Case",
+      "Merukam: Stricter Rule",
+      "Sandal & Placenta",
+      "Blood/Water Proof",
+      "Abaye: Dissolved Fetus",
+      "Rava: Not Dissolved",
+      "Rav Adda: Multiple Colors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's response to the concern about dissolved fetuses (gnunim case), which is precisely what candidate 4 ('Blood/Water Proof') sets up \u2014 it poses the exact question Abaye answers, making it the natural home for this gemara passage rather than candidate 5 which discusses Abaye's answer in its prose but should follow rather than contain this text.",
+      "chosen_heading": "Blood/Water Proof",
+      "current_heading": "Abaye: Dissolved Fetus",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rav Adda: Multiple Colors",
+    "candidates": [
+      "Rava: Not Dissolved",
+      "Rav Adda: Multiple Colors",
+      "Raw Wine Effects",
+      "Mixed Wine Dosage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH Rava's argument (about 'malei'/full) AND Rav Adda's argument (about 'gevanim'/colors) as a single continuous Talmudic exchange, but since the essay splits them into separate headings, the passage is currently placed under 'Rav Adda: Multiple Colors' when it actually begins with Rava's statement \u2014 however, since both statements appear together in one item, it should go under heading 0 ('Rava: Not Dissolved') which introduces the first speaker (Rava), with Rav Adda's statement following naturally as the next line in the same passage.",
+      "chosen_heading": "Rava: Not Dissolved",
+      "current_heading": "Rav Adda: Multiple Colors",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Mixed Wine Dosage",
+    "candidates": [
+      "Raw Wine Effects",
+      "Mixed Wine Dosage",
+      "Og's Giant Bones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Abba Shaul's testimony as a gravedigger and covers all his bone observations (raw wine, diluted wine, proper amounts, and food/drink balance), which corresponds exactly to the 'Raw Wine Effects' section's prose that introduces and explains Abba Shaul's complete baraita, whereas the current placement under 'Mixed Wine Dosage' only covers the latter part of the passage's content.",
+      "chosen_heading": "Raw Wine Effects",
+      "current_heading": "Mixed Wine Dosage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Og's Giant Bones",
+    "candidates": [
+      "Mixed Wine Dosage",
+      "Og's Giant Bones",
+      "Absalom's Eye; Stature"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Abba Shaul's account of running through Og's thighbone for three parasangs, which is precisely what the 'Og's Giant Bones' section prose discusses.",
+      "chosen_heading": "Og's Giant Bones",
+      "current_heading": "Og's Giant Bones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Absalom's Eye; Stature",
+    "candidates": [
+      "Absalom's Eye; Stature",
+      "Yeridat Hadorot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abba Shaul's account of standing in a corpse's eye socket identified as Absalom's, which is exactly what the prose under 'Absalom's Eye; Stature' discusses.",
+      "chosen_heading": "Absalom's Eye; Stature",
+      "current_heading": "Absalom's Eye; Stature",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Yeridat Hadorot",
+    "candidates": [
+      "Yeridat Hadorot",
+      "Shapir All Flesh",
+      "R. Yishmael: Flesh Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the generational stature catalog (Abba Shaul through the governor of Pumbedita and the general populace), which the prose under heading 0 ('Yeridat Hadorot') describes in precise detail and in exactly the same order.",
+      "chosen_heading": "Yeridat Hadorot",
+      "current_heading": "Yeridat Hadorot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "R. Yishmael: Flesh Case",
+    "candidates": [
+      "Shapir All Flesh",
+      "R. Yishmael: Flesh Case",
+      "Rabbi Challenges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the question-and-answer exchange about the flesh-filled shapir that candidate 0's prose explicitly describes: Rabbi's 'lo shamati' response and Rabbi Yishmael's father's ruling are both narrated there, whereas candidate 1 covers only Rabbi Yishmael's reply in isolation.",
+      "chosen_heading": "Shapir All Flesh",
+      "current_heading": "R. Yishmael: Flesh Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Rabbi Challenges",
+    "candidates": [
+      "R. Yishmael: Flesh Case",
+      "Rabbi Challenges",
+      "Braita: Formed/Unformed",
+      "RS ben Lakish Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Challenges",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain Rabbi Yehuda HaNasi's challenge to Rabbi Yishmael bar Rabbi Yose and his reasoning about minority opinions, which matches exactly the 'Rabbi Challenges' prose describing Rabbi's response about the first ruling being a minority opinion and his suspicion about Rabbi Yehoshua.",
+      "second_heading": "Braita: Formed/Unformed",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita cited about a woman who discharges an unformed gestational sac, with Rabbi Yehoshua and the Rabbis disagreeing, which matches precisely the 'Braita: Formed/Unformed' prose that quotes this exact baraita and its dispute.",
+      "current_heading": "Rabbi Challenges",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "RS ben Lakish Debate",
+    "candidates": [
+      "Braita: Formed/Unformed",
+      "RS ben Lakish Debate",
+      "Genesis Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Amoraic dispute between Reish Lakish and Rabbi Yehoshua ben Levi over the scope of the tannaitic machloket, followed by the unresolved dilemma about Rabbi Yehoshua ben Levi's position \u2014 exactly what the prose of candidate 1 ('RS ben Lakish Debate') describes in detail.",
+      "chosen_heading": "RS ben Lakish Debate",
+      "current_heading": "RS ben Lakish Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Genesis Verse",
+    "candidates": [
+      "Genesis Verse",
+      "Skin Proof Logic",
+      "Opaque vs. Transparent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita with Rabbi Yehoshua ben \u1e24ananya's derasha from Genesis 3:21, which is precisely what the 'Genesis Verse' prose describes \u2014 introducing the derasha, the verse, and its application to skin as proof of fetal development.",
+      "chosen_heading": "Genesis Verse",
+      "current_heading": "Genesis Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Opaque vs. Transparent",
+    "candidates": [
+      "Skin Proof Logic",
+      "Opaque vs. Transparent",
+      "RN: Opaque Only",
+      "Rava: Bechoros Challenge",
+      "Shapir for Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's inference that the dispute applies to clear/transparent amniotic fluid (tzalul), which is precisely what the 'Opaque vs. Transparent' section's prose describes \u2014 the lo shna achur ve-lo shna tzalul reasoning and the shema mina be-tzalul machloket conclusion.",
+      "chosen_heading": "Opaque vs. Transparent",
+      "current_heading": "Opaque vs. Transparent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Shapir for Animals",
+    "candidates": [
+      "RN: Opaque Only",
+      "Rava: Bechoros Challenge",
+      "Shapir for Animals",
+      "RH: Multiple Views",
+      "Rav vs. Shmuel",
+      "Never Tahor"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 9,
+      "first_heading": "Shapir for Animals",
+      "first_confidence": "high",
+      "first_reason": "Items 1-9 form a continuous chain: Rav Nachman's ruling (item 1), Rava's challenge from Bechoros (item 2), the inference about shapir for animals (items 3-5), the resolution via Rabbi Yehoshua's doubt (items 6-8), and the rabbinic-law clarification (item 9) \u2014 all belong under 'Shapir for Animals' which covers exactly this Rava-Rav Nachman exchange and its resolution.",
+      "second_heading": "RH: Multiple Views",
+      "second_confidence": "high",
+      "second_reason": "Item 10 is Rav Chanina bar Shelmia asking Rav which of the multiple named opinions he follows, which matches the 'RH: Multiple Views' heading prose exactly.",
+      "current_heading": "Shapir for Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Never Tahor",
+    "candidates": [
+      "RH: Multiple Views",
+      "Rav vs. Shmuel",
+      "Never Tahor",
+      "Transparent Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav's answer stating that in both cases (opaque and transparent) there is no concern, which is precisely what the 'Rav vs. Shmuel' section's prose describes as Rav's position contrasted with Shmuel's stringent view.",
+      "chosen_heading": "Rav vs. Shmuel",
+      "current_heading": "Never Tahor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Transparent Exception",
+    "candidates": [
+      "Never Tahor",
+      "Transparent Exception",
+      "Eyes Formation",
+      "RChiyya Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes both Shmuel's general rule (concern in both cases) AND the exceptional transparent gestational sac case with the hair test, which matches the 'Transparent Exception' prose that specifically discusses the hair-strand transparency test and Shmuel's singular ruling of tahor in that extreme case.",
+      "chosen_heading": "Transparent Exception",
+      "current_heading": "Transparent Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "RChiyya Details",
+    "candidates": [
+      "Eyes Formation",
+      "RChiyya Details",
+      "No Digits Yet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together describe Rabbi \u1e24iyya's detailed baraita on fetal formation signs \u2014 the eyes spread apart, the nostrils close together, the mouth like a hairline, the body like a lentil, and the female sign like barley \u2014 which is precisely what the 'RChiyya Details' prose section describes in full.",
+      "chosen_heading": "RChiyya Details",
+      "current_heading": "RChiyya Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "No Digits Yet",
+    "candidates": [
+      "No Digits Yet",
+      "Inspection Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the absence of defined limbs/digits and cites the Job verse about fetal development stages, which is exactly what the 'No Digits Yet' prose section describes.",
+      "chosen_heading": "No Digits Yet",
+      "current_heading": "No Digits Yet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Inspection Methods",
+    "candidates": [
+      "Inspection Methods",
+      "Gender Detection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the method of inspection (not water, but oil, in sunlight), which is precisely what 'Inspection Methods' prose discusses, whereas 'Gender Detection' prose focuses on the halachic consequence of determining sex rather than the inspection technique itself.",
+      "chosen_heading": "Inspection Methods",
+      "current_heading": "Inspection Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Gender Detection",
+    "candidates": [
+      "Gender Detection",
+      "Toothpick Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's reframing of the question from 'how to examine' generally to 'how to determine gender,' which directly introduces the gender-detection topic discussed in candidate 0's prose.",
+      "chosen_heading": "Gender Detection",
+      "current_heading": "Gender Detection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Toothpick Method",
+    "candidates": [
+      "Toothpick Method",
+      "Vertical Movement Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abba Shaul's toothpick method for determining fetal sex, which matches exactly the prose under heading 0 discussing the smooth-tipped sliver and obstruction detection.",
+      "chosen_heading": "Toothpick Method",
+      "current_heading": "Toothpick Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Vertical Movement Only",
+    "candidates": [
+      "Vertical Movement Only",
+      "Side Movement Risk",
+      "Barley Bean Split",
+      "Scrotum Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the source statement by Rav Na\u1e25man/Rabbah bar Avuha specifying vertical movement, and candidate 0's prose directly describes this teaching about moving the toothpick from below upward, making it the correct placement.",
+      "chosen_heading": "Vertical Movement Only",
+      "current_heading": "Vertical Movement Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Scrotum Alternative",
+    "candidates": [
+      "Side Movement Risk",
+      "Barley Bean Split",
+      "Scrotum Alternative",
+      "Scrotum Absent",
+      "RAmram Thickness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains all three elements \u2014 Rav Adda bar Ahava's baraita about the cracked barley appearance, Rav Nachman's objection about the recess between testes, and Abaye's response \u2014 and the 'Barley Bean Split' heading is the only one whose prose introduces all three speakers/topics together as a unit, whereas the current placement under 'Scrotum Alternative' only covers Rav Nachman's objection in isolation.",
+      "chosen_heading": "Barley Bean Split",
+      "current_heading": "Scrotum Alternative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "RAmram Thickness",
+    "candidates": [
+      "Scrotum Absent",
+      "RAmram Thickness",
+      "Hair Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Amram's baraita about the thighs resembling woof threads and arms resembling warp threads, which is precisely what candidate 1 ('RAmram Thickness') discusses.",
+      "chosen_heading": "RAmram Thickness",
+      "current_heading": "RAmram Thickness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155
+    ],
+    "current_heading": "Hair Required",
+    "candidates": [
+      "Hair Required",
+      "Contradiction Noted",
+      "RAmi Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction between Shmuel's two statements, which is exactly what 'Contradiction Noted' discusses, not the hair requirement itself.",
+      "chosen_heading": "Contradiction Noted",
+      "current_heading": "Hair Required",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      161
+    ],
+    "current_heading": "RAmi Resolution",
+    "candidates": [
+      "Contradiction Noted",
+      "RAmi Resolution",
+      "41-Day Fetus",
+      "40 Days Calc"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ami bar Shmuel's direct statement resolving the contradiction between Shmuel's positions, which is precisely what the 'RAmi Resolution' prose describes.",
+      "chosen_heading": "RAmi Resolution",
+      "current_heading": "RAmi Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      167,
+      168
+    ],
+    "current_heading": "40 Days Calc",
+    "candidates": [
+      "41-Day Fetus",
+      "40 Days Calc",
+      "Shmuel Exceptional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the story of Shmuel examining the fetus and declaring it 41 days old, which is precisely what heading 0 ('41-Day Fetus') describes \u2014 the current placement under '40 Days Calc' captures only the second half of the story, while heading 0's prose explicitly introduces the whole incident including Shmuel's declaration of 41 days.",
+      "chosen_heading": "41-Day Fetus",
+      "current_heading": "40 Days Calc",
+      "moved": true
+    }
+  }
+]

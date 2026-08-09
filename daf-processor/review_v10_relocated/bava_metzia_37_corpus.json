@@ -1,0 +1,365 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Abaye: Swamp Case",
+    "candidates": [
+      "Rav vs. R. Yochanan",
+      "Rava's Reason",
+      "Abaye: Swamp Case",
+      "Rava: Angel of Death",
+      "Gray Zone Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the swamp case dispute (pasha bo v'yatzah l'agam) and Abaye's ruling with his reasoning about havla d'agma, which is precisely what the 'Abaye: Swamp Case' prose discusses in detail.",
+      "chosen_heading": "Abaye: Swamp Case",
+      "current_heading": "Abaye: Swamp Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Gray Zone Analysis",
+    "candidates": [
+      "Rava: Angel of Death",
+      "Gray Zone Analysis",
+      "Animal Returns Home",
+      "Theft After Release",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava: Angel of Death",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's ruling about the Angel of Death exempting the shomer, which matches exactly the prose of candidate 0 ('Rava: Angel of Death').",
+      "second_heading": "Animal Returns Home",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers both Abaye's concession about the animal returning home and Rava's concession about theft from the swamp, which maps to candidates 2 and 3 \u2014 but since both concessions appear together in the text and candidate 2's prose explicitly addresses Abaye's concession while candidate 3 covers Rava's, and the items cannot be split further, candidate 2 ('Animal Returns Home') is the better single home as it opens with Abaye's concession which is the first topic in item 2.",
+      "current_heading": "Gray Zone Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Animal Returns Home",
+      "Theft After Release",
+      "Abaye's Challenge",
+      "Rava's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage depicts Abaye's challenge to Rava about why Rabbi Ami needed to invoke the owner's permission rather than simply relying on the 'Angel of Death goes anywhere' reasoning, which is precisely what the 'Abaye's Challenge' section prose describes.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Rava's Response",
+    "candidates": [
+      "Rava's Response",
+      "Negligence vs. Oath",
+      "Baraita: Cliff Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct response distinguishing his oath-based reasoning from Abaye's negligence-based reasoning, which is exactly what the 'Rava's Response' section prose describes.",
+      "chosen_heading": "Rava's Response",
+      "current_heading": "Rava's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Baraita: Cliff Case",
+    "candidates": [
+      "Negligence vs. Oath",
+      "Baraita: Cliff Case",
+      "Good Grazing Defense",
+      "Control Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rami bar \u1e24ama's objection from the cliff baraita, which is precisely what the 'Baraita: Cliff Case' section's prose describes \u2014 the implication that natural death at the clifftop is an ones and the question of why the shomer cannot attribute it to the mountain air or exhaustion.",
+      "chosen_heading": "Baraita: Cliff Case",
+      "current_heading": "Baraita: Cliff Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Control Issue",
+    "candidates": [
+      "Good Grazing Defense",
+      "Control Issue",
+      "Kefel Case",
+      "Both Cases Disputed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the exact Gemara text that candidate 1 ('Control Issue') describes in detail \u2014 the good-pasture answer, the 'ei hachi nafela nami' question, the 'shehaya lo letokfa' answer, and the final distinction about the animal overpowering the shomer \u2014 all of which the prose of candidate 1 explicitly walks through.",
+      "chosen_heading": "Control Issue",
+      "current_heading": "Control Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Both Cases Disputed",
+    "candidates": [
+      "Kefel Case",
+      "Both Cases Disputed",
+      "Ownership Interest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss exactly what candidate 1's prose covers: Rav Shmuel bar Yehuda reporting that Shmuel said Rabbi Yossi disputed even the first mishnah, and Rav Yehuda confirming that the halakha follows Rabbi Yossi even in that first case \u2014 precisely the 'Both Cases Disputed' section.",
+      "chosen_heading": "Both Cases Disputed",
+      "current_heading": "Both Cases Disputed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Ownership Interest",
+    "candidates": [
+      "Ownership Interest",
+      "Banking Parallels",
+      "Proactive Admission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Rabbi Elazar/Rabbi Yochanan dispute about Rabbi Yossi's position in the first mishna, including the refinement by Rabbi Chiyya bar Abba about 'hareni meshallem' \u2014 all of which is explicitly covered in the 'Ownership Interest' prose.",
+      "chosen_heading": "Ownership Interest",
+      "current_heading": "Ownership Interest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Proactive Admission",
+    "candidates": [
+      "Banking Parallels",
+      "Proactive Admission",
+      "Latzeit Yedei Shamayim",
+      "Reactive Claims",
+      "Escrow Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage describes exactly the proactive admission case (one says to two: I robbed/a father deposited) that the 'Proactive Admission' prose directly discusses, including the ruling of paying each person the full amount.",
+      "chosen_heading": "Proactive Admission",
+      "current_heading": "Proactive Admission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Escrow Principle",
+    "candidates": [
+      "Latzeit Yedei Shamayim",
+      "Reactive Claims",
+      "Escrow Principle",
+      "Vessel Solution",
+      "Breaking Vessel",
+      "Rabbi Yosi Escrow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text describing the two-depositor scenario (shnayim shehifkidu), which the 'Reactive Claims' prose explicitly introduces and paraphrases, while the 'Escrow Principle' prose covers the ruling/outcome that follows from it.",
+      "chosen_heading": "Reactive Claims",
+      "current_heading": "Escrow Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Rabbi Yosi Escrow",
+    "candidates": [
+      "Vessel Solution",
+      "Breaking Vessel",
+      "Rabbi Yosi Escrow",
+      "Doubt Extraction",
+      "Contradictions",
+      "Theft Penalty"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Yosi Escrow",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the mishna's vessel case and Rabbi Yosei's escrow ruling, which directly match the 'Rabbi Yosi Escrow' prose discussion.",
+      "second_heading": "Doubt Extraction",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens the Gemara's theoretical challenge about extracting money under doubt, and item 4 raises the internal contradiction of the mishna \u2014 both matching 'Doubt Extraction' which discusses why the mishna overrides the normal presumption principle.",
+      "current_heading": "Rabbi Yosi Escrow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Theft Penalty",
+    "candidates": [
+      "Doubt Extraction",
+      "Contradictions",
+      "Theft Penalty",
+      "Rava: Negligence",
+      "Bundle Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's distinction between robbery (where a prohibition was transgressed, so the Rabbis penalized) and deposit (where no prohibition was transgressed, so no penalty), which is exactly what the 'Theft Penalty' section's prose describes as the Gemara's first proposed answer.",
+      "chosen_heading": "Theft Penalty",
+      "current_heading": "Theft Penalty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Bundle Distinction",
+    "candidates": [
+      "Rava: Negligence",
+      "Bundle Distinction",
+      "Same-Time Deposit",
+      "One vs. Two"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rava's negligence framework \u2014 item 1 raises the contradiction between deposit cases, and item 2 is Rava's resolution using the negligence principle (two bundles vs. one bundle) \u2014 which matches candidate 0's prose about Rava's operative variable being custodian negligence, not candidate 1's 'Bundle Distinction' prose that already describes the content of item 2 in detail as its own section.",
+      "chosen_heading": "Rava: Negligence",
+      "current_heading": "Bundle Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "One vs. Two",
+    "candidates": [
+      "Same-Time Deposit",
+      "One vs. Two",
+      "R. Tarfon Position",
+      "R. Akiva Position",
+      "Proactive vs. Reactive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the contradiction the 'One vs. Two' prose describes: item 1 is the ruling requiring full payment to two people in the proactive admission case, and item 2 is the Rabbi Tarfon ruling about one of five claimants pressing demands \u2014 the precise tension that section's prose says the Gemara raises.",
+      "chosen_heading": "One vs. Two",
+      "current_heading": "One vs. Two",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Proactive vs. Reactive",
+    "candidates": [
+      "R. Tarfon Position",
+      "R. Akiva Position",
+      "Proactive vs. Reactive",
+      "Self-Admission Reason",
+      "Silence Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Akiva Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Gemara's question of whether the mishna follows Rabbi Tarfon and the baraita answer showing Rabbi Tarfon concedes full payment in the proactive case \u2014 this is the content described in R. Akiva Position's prose, which explicitly asks whether the mishna reflects Rabbi Akiva and notes the Gemara cites the baraita with Rabbi Tarfon's concession.",
+      "second_heading": "Self-Admission Reason",
+      "second_confidence": "high",
+      "second_reason": "Item 2 resolves the contradiction by distinguishing proactive (ba latzeit yedei shamayim) from reactive scenarios and confirms via 'shehoda mipi atzmo' \u2014 exactly the content described in Self-Admission Reason's prose.",
+      "current_heading": "Proactive vs. Reactive",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Silence Analysis",
+    "candidates": [
+      "Self-Admission Reason",
+      "Silence Analysis",
+      "Escrow Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Rav Yehuda/Rav Mattana dispute about whether the thief is silent or screams, and the analysis of shtika k'hoda'ah in this context \u2014 precisely what the 'Silence Analysis' prose section describes.",
+      "chosen_heading": "Silence Analysis",
+      "current_heading": "Silence Analysis",
+      "moved": false
+    }
+  }
+]

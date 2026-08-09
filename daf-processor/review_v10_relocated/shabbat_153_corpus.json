@@ -1,0 +1,386 @@
+[
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Daily Repentance",
+    "candidates": [
+      "Opening & Context",
+      "Eulogy as Indicator",
+      "Rashi's Approach",
+      "Abaye's Challenge",
+      "Rabba's Response",
+      "Merit Criteria",
+      "Teachers' Approval",
+      "Preparation Methods",
+      "Daily Repentance",
+      "Uncertainty Strategy",
+      "Purity Metaphors",
+      "King's Feast Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Mishnah quoted in candidate 8's prose \u2014 Rabbi Eliezer's teaching to repent one day before death and his students' challenge \u2014 making the current placement correct.",
+      "chosen_heading": "Daily Repentance",
+      "current_heading": "Daily Repentance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "King's Feast Parable",
+    "candidates": [
+      "Uncertainty Strategy",
+      "Purity Metaphors",
+      "King's Feast Parable",
+      "Punishment Imagery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the first half of the king's feast parable \u2014 the wise and foolish servants' initial reactions \u2014 which precisely matches the prose in candidate 2 that discusses the same scene.",
+      "chosen_heading": "King's Feast Parable",
+      "current_heading": "King's Feast Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Punishment Imagery",
+    "candidates": [
+      "Punishment Imagery",
+      "Contrast in Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the king summoning servants, the wise entering adorned and fools entering dirty, and the king's verdict that prepared ones sit/eat while unprepared ones stand and watch \u2014 precisely the content discussed in the 'Punishment Imagery' prose, which quotes and explicates this exact parable line by line.",
+      "chosen_heading": "Punishment Imagery",
+      "current_heading": "Punishment Imagery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Contrast in Response",
+    "candidates": [
+      "Contrast in Response",
+      "Mitzvot as Prep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Meir's son-in-law's teaching about both groups sitting together while some eat and others go hungry/thirsty, with the Isaiah proof-text, which is precisely what the prose under 'Contrast in Response' describes and analyzes.",
+      "chosen_heading": "Contrast in Response",
+      "current_heading": "Contrast in Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Mitzvot as Prep",
+    "candidates": [
+      "Mitzvot as Prep",
+      "Aggadic Conclusion",
+      "Problem Setup",
+      "Non-Jew Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the davar acher interpretation of white clothes as tzitzit and oil as tefillin, which is exactly what the 'Mitzvot as Prep' section's prose discusses in detail.",
+      "chosen_heading": "Mitzvot as Prep",
+      "current_heading": "Mitzvot as Prep",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Non-Jew Solution",
+    "candidates": [
+      "Aggadic Conclusion",
+      "Problem Setup",
+      "Non-Jew Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The 'Hadran Alach Sho'el' text is the formal closing formula for the perek, which is explicitly described and contextualized in the 'Aggadic Conclusion' prose section.",
+      "chosen_heading": "Aggadic Conclusion",
+      "current_heading": "Non-Jew Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Non-Jew Solution",
+    "candidates": [
+      "Non-Jew Solution",
+      "Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text itself, which candidate 0's prose directly introduces and translates, making it the correct placement before the Gemara's rationale discussion in candidate 1.",
+      "chosen_heading": "Non-Jew Solution",
+      "current_heading": "Non-Jew Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rationale",
+    "candidates": [
+      "Rationale",
+      "Found vs. Owned",
+      "Found Object Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the Rabbis permitted giving the wallet to a gentile and the concern about carrying four cubits in a public domain, which is precisely what the 'Rationale' section's prose discusses.",
+      "chosen_heading": "Rationale",
+      "current_heading": "Rationale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Found Object Status",
+    "candidates": [
+      "Found vs. Owned",
+      "Found Object Status",
+      "Donkey Solution"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Donkey Solution",
+    "candidates": [
+      "Donkey Solution",
+      "Legal Distinction",
+      "Hierarchy of Options",
+      "Ranking People"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the inference about preferring a gentile over a donkey and the reason (donkey's rest is commanded), which maps directly to the 'Donkey Solution' prose that discusses exactly this inference and preference, while 'Legal Distinction' covers the same reasoning but as a separate elaboration \u2014 the current placement at heading 0 is correct since the Gemara text contains both the inference and the reason together.",
+      "chosen_heading": "Donkey Solution",
+      "current_heading": "Donkey Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Ranking People",
+    "candidates": [
+      "Legal Distinction",
+      "Hierarchy of Options",
+      "Ranking People",
+      "Chinuch Concerns",
+      "Deaf-Mute Priority",
+      "Deaf-Mute Status",
+      "Cheresh vs. Kattan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the hierarchy of donkey vs. deaf-mute/imbecile/minor and the reasoning that 'these are people, the donkey is not,' which is precisely what the 'Ranking People' prose describes and analyzes.",
+      "chosen_heading": "Ranking People",
+      "current_heading": "Ranking People",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Cheresh vs. Kattan",
+    "candidates": [
+      "Chinuch Concerns",
+      "Deaf-Mute Priority",
+      "Deaf-Mute Status",
+      "Cheresh vs. Kattan",
+      "Hidden Solution",
+      "Concealment Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the cheresh vs. kattan dilemma, citing Rabbi Eliezer's view via the teruma baraita and the Rabbis' view via the mishna about five who may not separate teruma, then presenting the unresolved dispute \u2014 precisely what candidate 3's prose describes in detail.",
+      "chosen_heading": "Cheresh vs. Kattan",
+      "current_heading": "Cheresh vs. Kattan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Concealment Rationale",
+    "candidates": [
+      "Hidden Solution",
+      "Concealment Rationale",
+      "Disclosure Debate",
+      "Rabbinic Concerns",
+      "Honor Principle",
+      "Measures Parable"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hidden Solution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the hidden solution and the concealment rationale, which belongs under 'Hidden Solution' (index 0) whose prose directly discusses the same content: Rabbi Yitzchak's undisclosed alternative, the pachos pachos m'arba amos technique, and why it was concealed.",
+      "second_heading": "Measures Parable",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita about Rabbi Eliezer and Rabbi Yehoshua debating whether the Sages' concealment was wise (gadshu/machaku se'ah), which matches 'Measures Parable' (index 5) whose prose directly explains this exact baraita and its two positions.",
+      "current_heading": "Concealment Rationale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Measures Parable",
+    "candidates": [
+      "Disclosure Debate",
+      "Rabbinic Concerns",
+      "Honor Principle",
+      "Measures Parable",
+      "Later Implementation",
+      "Rambam's View",
+      "Work Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the two parables (basket of gourds/mustard and bowl of honey/pomegranates) that the 'Measures Parable' prose explicitly describes and analyzes in detail.",
+      "chosen_heading": "Measures Parable",
+      "current_heading": "Measures Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Work Prohibition",
+    "candidates": [
+      "Later Implementation",
+      "Rambam's View",
+      "Work Prohibition",
+      "Walking Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly raises the mechamer prohibition (driving a laden animal) and quotes 'lo taaseh kol melacha,' which is precisely what the 'Work Prohibition' prose section discusses.",
+      "chosen_heading": "Work Prohibition",
+      "current_heading": "Work Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Walking Solution",
+    "candidates": [
+      "Walking Solution",
+      "Stopping Problem",
+      "Load Management",
+      "Friend as Carrier",
+      "Rav Papa's Analysis",
+      "Violation Levels",
+      "Donkey Priority",
+      "Running Solution",
+      "Speed Requirement",
+      "Final Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "The passage covers all three topics (walking solution, stopping problem, and friend-as-carrier question) in sequence, but since it begins with Rav Adda bar Ahava's walking solution which is what heading 0 specifically describes, the current placement is the most defensible single home, though headings 1-3 each cover portions of the same passage.",
+      "chosen_heading": "Walking Solution",
+      "current_heading": "Walking Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141,
+      142
+    ],
+    "current_heading": "Final Problem",
+    "candidates": [
+      "Stopping Problem",
+      "Load Management",
+      "Friend as Carrier",
+      "Rav Papa's Analysis",
+      "Violation Levels",
+      "Donkey Priority",
+      "Running Solution",
+      "Speed Requirement",
+      "Final Problem",
+      "Shinuy Method",
+      "Unresolved Timing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Papa's Analysis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Pappa's ruling on the hierarchy of violation levels, which belongs under 'Rav Papa's Analysis' (index 3), as confirmed by the prose of indices 4 and 5 which discuss the same content but are downstream elaborations.",
+      "second_heading": "Final Problem",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 cover the running-with-bundle case and the final stopping problem with the shinuy resolution, which matches the current placement under 'Final Problem' (index 8) and its continuation.",
+      "current_heading": "Final Problem",
+      "moved": true
+    }
+  }
+]

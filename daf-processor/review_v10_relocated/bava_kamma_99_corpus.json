@@ -1,0 +1,469 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Rabbi Yaakov",
+    "candidates": [
+      "Intro: Chometz Pesach",
+      "Object vs. Value",
+      "Rabbi Yaakov",
+      "Braita Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the mishna's ruling (intro) and the gemara's question about who holds that issurei hana'ah can be returned with 'harei she-lecha lefanecha' plus Rav Chisda's answer citing Rabbi Yaakov and the baraita \u2014 this full unit is precisely what candidate 1 ('Object vs. Value') introduces with its prose about the gemara's question, making it the best single home for the entire passage.",
+      "chosen_heading": "Object vs. Value",
+      "current_heading": "Rabbi Yaakov",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Braita Cases",
+    "candidates": [
+      "Rabbi Yaakov",
+      "Braita Cases",
+      "Shor HaNiskal",
+      "Rava's Distinction",
+      "Rabbis' Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage details exactly what happens after gmar din (sales void, consecration invalid, slaughtered meat forbidden, bailee return invalid) plus Rabbi Yaakov's dissent on the bailee case, which matches the 'Braita Cases' prose describing the post-gmar din reversal of rules \u2014 the current placement is correct.",
+      "chosen_heading": "Braita Cases",
+      "current_heading": "Braita Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rabbis' Position",
+    "candidates": [
+      "Shor HaNiskal",
+      "Rava's Distinction",
+      "Rabbis' Position",
+      "Shomer Cannot Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav \u1e24isda's analysis framing the Rabbi Yaakov/Rabbis debate as being about whether one can say 'harei she-lecha lefanecha' regarding issurei hana'ah, which corresponds exactly to the 'Shor HaNiskal' section's prose describing this apparent dispute about returning an asur be-hana'ah object.",
+      "chosen_heading": "Shor HaNiskal",
+      "current_heading": "Rabbis' Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Shomer Cannot Return",
+    "candidates": [
+      "Rabbis' Position",
+      "Shomer Cannot Return",
+      "Rabbi Yaakov Rebuttal",
+      "Negligence Question",
+      "Tosafot: Visible Status",
+      "Rav Chisda Asks",
+      "Torah's Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabba's explanation of the baraita dispute \u2014 that it hinges on whether an ox can be sentenced in absentia \u2014 which is precisely what candidate 0 ('Rabbis' Position') describes, and candidates 1 and 2 cover the downstream consequences of each position rather than this introductory framing of the dispute itself.",
+      "chosen_heading": "Rabbis' Position",
+      "current_heading": "Shomer Cannot Return",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Torah's Requirement",
+    "candidates": [
+      "Rabbi Yaakov Rebuttal",
+      "Negligence Question",
+      "Tosafot: Visible Status",
+      "Rav Chisda Asks",
+      "Torah's Requirement",
+      "Returnability Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage records Rav Chisda finding Rabba bar Shmuel and asking about issurei hana'ah, which is precisely what candidate 3 ('Rav Chisda Asks') describes \u2014 the exchange where Rav Chisda asks whether Rabba bar Shmuel has any brayta concerning issurei hana'ah.",
+      "chosen_heading": "Rav Chisda Asks",
+      "current_heading": "Torah's Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Returnability Examples",
+    "candidates": [
+      "Torah's Requirement",
+      "Returnability Examples",
+      "Shor-Only Debate",
+      "Rav Chisda Loses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the exact cases (coin invalidated, produce rotted, wine fermented, teruma impure, chametz after Passover, animal used in sin, ox before gmar din) that candidate 1's prose explicitly enumerates and discusses as examples of harei she-lecha lefanecha.",
+      "chosen_heading": "Returnability Examples",
+      "current_heading": "Returnability Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Rav Chisda Loses",
+    "candidates": [
+      "Shor-Only Debate",
+      "Rav Chisda Loses",
+      "Rav Assi's Rule",
+      "Two Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Gemara's observation that the Rabbis (who restrict after gmar din) still permit harei she-lecha lefanecha for chometz, thereby refuting Rav Chisda, and includes his famous response not to publicize his error \u2014 all of which is precisely what candidate 1 ('Rav Chisda Loses') discusses.",
+      "chosen_heading": "Rav Chisda Loses",
+      "current_heading": "Rav Chisda Loses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Two Cases",
+    "candidates": [
+      "Rav Assi's Rule",
+      "Two Cases",
+      "Uman Koneh B'Shvach",
+      "Payment Framework"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 2,
+      "first_heading": "Two Cases",
+      "first_confidence": "medium",
+      "first_reason": "Segment 1 discusses a baraita about rotted produce and Rav Pappa's resolution, which doesn't perfectly match any heading but sits closest to heading 1 ('Two Cases') where the current placement is, as that heading's prose covers multiple gemara discussions before pivoting to craftsmen topics.",
+      "second_heading": "Rav Assi's Rule",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna about craftsmen damaging items, which heading 0 ('Rav Assi's Rule') explicitly introduces as the mishnah that lays the groundwork for the craftsmen liability discussion.",
+      "third_heading": "Two Cases",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 contains Rav Asi's gemara qualification of the mishna's craftsmen liability rule, and heading 1 ('Two Cases') explicitly quotes and discusses Rav Assi's distinction between fixing a completed vessel versus building from raw materials.",
+      "current_heading": "Two Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Payment Framework",
+    "candidates": [
+      "Uman Koneh B'Shvach",
+      "Payment Framework",
+      "Wool & Dye Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the back-and-forth over whether the mishna's ruling about craftsmen who damage items (natan le-umnin ve-kilkelu) refers to raw wood or to finished cabinets (shidah teivah umigdal), which is precisely what candidate 1's prose describes as the gemara's inconclusive attempt to derive support for uman koneh be-shevach kli from the mishna.",
+      "chosen_heading": "Payment Framework",
+      "current_heading": "Payment Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Wool & Dye Braita",
+    "candidates": [
+      "Wool & Dye Braita",
+      "Shmuel's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's attempt to bring proof from the wool/dyer mishna for uman koneh be-shevach kli, which is precisely what the 'Wool & Dye Braita' prose describes \u2014 the current placement is correct.",
+      "chosen_heading": "Wool & Dye Braita",
+      "current_heading": "Wool & Dye Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Shmuel's Objection",
+    "candidates": [
+      "Shmuel's Objection",
+      "Dye Provision Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Shmuel's objection about the wool being burned at the moment of falling (no shevach) and his implicit challenge to Rav Asi's principle, which matches exactly what the prose of candidate 0 describes.",
+      "chosen_heading": "Shmuel's Objection",
+      "current_heading": "Shmuel's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Dye Provision Effect",
+    "candidates": [
+      "Dye Provision Effect",
+      "Shmuel Equivocates",
+      "Garment Pickup",
+      "Bal Talin Rule",
+      "Bal Talin Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's exchange about whether the dyer case involves owner-supplied dye (the 'schar yadav' qualification) and the immediate rebuttal that the brayta doesn't mention herbs \u2014 exactly the content described in the 'Dye Provision Effect' prose, which is the current placement.",
+      "chosen_heading": "Dye Provision Effect",
+      "current_heading": "Dye Provision Effect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Bal Talin Problem",
+    "candidates": [
+      "Shmuel Equivocates",
+      "Garment Pickup",
+      "Bal Talin Rule",
+      "Bal Talin Problem",
+      "Smoothing Wool"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita about giving a garment to a craftsman and the bal talin timing rule, which is exactly what the 'Garment Pickup' section describes \u2014 the craftsman finishing and notifying the owner, and the ten-day delay before pickup not triggering bal talin, with the clock starting only at physical delivery.",
+      "chosen_heading": "Garment Pickup",
+      "current_heading": "Bal Talin Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Smoothing Wool",
+    "candidates": [
+      "Bal Talin Problem",
+      "Smoothing Wool",
+      "Shvach vs. Kli",
+      "Stomping Wages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Mari b'rei de-Rav Kahana's statement about gardi de-sarvala (thick garment laundering with no enhancement), which is precisely what the 'Smoothing Wool' section's prose discusses.",
+      "chosen_heading": "Smoothing Wool",
+      "current_heading": "Smoothing Wool",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Stomping Wages",
+    "candidates": [
+      "Shvach vs. Kli",
+      "Stomping Wages",
+      "Rav Sheshet's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the stomping-per-action case (batsha batsha be-ma'ata) that the 'Stomping Wages' prose section discusses, making the current placement correct.",
+      "chosen_heading": "Stomping Wages",
+      "current_heading": "Stomping Wages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Rav Sheshet's Question",
+    "candidates": [
+      "Rav Sheshet's Question",
+      "Kablanut Bal Talin",
+      "Service vs. Improvement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Sheshet's ruling on whether bal talin applies to kablanut, which is exactly what heading 0 ('Rav Sheshet's Question') introduces \u2014 the question posed to Rav Sheshet and his answer.",
+      "chosen_heading": "Rav Sheshet's Question",
+      "current_heading": "Rav Sheshet's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Service vs. Improvement",
+    "candidates": [
+      "Kablanut Bal Talin",
+      "Service vs. Improvement",
+      "Jewelry Case",
+      "Rabbi Meir Position",
+      "Rabbis Position",
+      "First Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the question of whether Rav Sheshet conflicts with Rav Asi and Shmuel bar Acha's resolution \u2014 this is precisely what candidate 0 ('Kablanut Bal Talin') describes in its prose, including raising the conflict between Rav Sheshet and Rav Assi's ruling, while candidate 1 ('Service vs. Improvement') discusses only the resolution itself without the setup question.",
+      "chosen_heading": "Kablanut Bal Talin",
+      "current_heading": "Service vs. Improvement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125,
+      126
+    ],
+    "current_heading": "First Reading",
+    "candidates": [
+      "Jewelry Case",
+      "Rabbi Meir Position",
+      "Rabbis Position",
+      "First Reading",
+      "Revised Reading",
+      "Rabbi Meir: Final Wages",
+      "Rabbis: Accruing Wages",
+      "Rava's Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the introduction and analysis of the jewelry/betrothal baraita \u2014 presenting the tannaitic dispute (items 1-2) and then laying out the two assumptions and the first reading that Rabbi Meir and the Rabbis disagree about uman koneh be-shevach kli (items 3-4) \u2014 which matches heading 0 ('Jewelry Case') as the entry point for this entire tannaitic dispute, before the essay splits out Rabbi Meir's position, the Rabbis' position, and the first reading into separate subsequent headings.",
+      "chosen_heading": "Jewelry Case",
+      "current_heading": "First Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138,
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Rava's Theory",
+    "candidates": [
+      "Revised Reading",
+      "Rabbi Meir: Final Wages",
+      "Rabbis: Accruing Wages",
+      "Rava's Theory",
+      "Overshadowing Debate",
+      "Rabbi Meir: Extra Matters",
+      "Rabbis: Debt Overshadows",
+      "Past Work",
+      "Future Work",
+      "Rabbi Natan Rejects Both",
+      "Extra Improvement Ex.",
+      "Wages Accrual Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items constitute Rava's unified account: items 1-3 present the Gemara's progressive rejections leading to Rava's position, item 4 is Rava's statement itself, and item 5 is Rava's resolution via the nofech mi-shelo / milveh u-perutah distinction \u2014 all of which is precisely what heading 3 ('Rava's Theory') describes in its prose.",
+      "chosen_heading": "Rava's Theory",
+      "current_heading": "Rava's Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160,
+      161,
+      162
+    ],
+    "current_heading": "Wages Accrual Dispute",
+    "candidates": [
+      "Overshadowing Debate",
+      "Rabbi Meir: Extra Matters",
+      "Rabbis: Debt Overshadows",
+      "Past Work",
+      "Future Work",
+      "Rabbi Natan Rejects Both",
+      "Extra Improvement Ex.",
+      "Wages Accrual Dispute",
+      "Groundwork Complete",
+      "Next: Grama"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items together constitute exactly what heading 7 ('Wages Accrual Dispute') describes: the baraita with the three tannaitic opinions on past/future work betrothal, and the gemara's clarification that the first tanna vs. Rabbi Natan dispute turns on wage accrual (sekhirus) while the Rabbi Natan vs. Rabbi Yehuda HaNasi dispute turns on milveh u-perutah.",
+      "chosen_heading": "Wages Accrual Dispute",
+      "current_heading": "Wages Accrual Dispute",
+      "moved": false
+    }
+  }
+]

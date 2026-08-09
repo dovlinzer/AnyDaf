@@ -1,0 +1,187 @@
+[
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Gemara Challenge",
+    "candidates": [
+      "Opening & Context",
+      "Mishnah Rule",
+      "Rashi's Layout",
+      "Kilayim Logic",
+      "Spacing Rules",
+      "Alt Configurations",
+      "Rashi vs Tosafot",
+      "Gemara Challenge",
+      "Boundary Verse",
+      "Seirites' Knowledge",
+      "Wordplay Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage directly states the Sages' accepted tradition that five seeds in six handbreadths do not draw from one another, which is precisely what the 'Gemara Challenge' prose describes as the Gemara's subject \u2014 the basis for the Rabbis' authority to declare that plants within three tefachim don't encroach on each other's nutrient zones.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Gemara Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Wordplay Analysis",
+    "candidates": [
+      "Boundary Verse",
+      "Seirites' Knowledge",
+      "Wordplay Analysis",
+      "Moshe MiSinai",
+      "Border Definition",
+      "Footstep Width",
+      "Watering Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with the question of why the Rabbis' traditions are reliable, then moves into the boundary verse (Deut 19:14) and its midrashic reading, followed by the Seirites' land expertise and the wordplay on Horite/Hivite names \u2014 this entire unit is introduced by the 'Boundary Verse' heading's prose, which discusses exactly this Gemara passage starting with Rabbi Chiya bar Abba's teaching about the boundary verse and the early ones' knowledge.",
+      "chosen_heading": "Boundary Verse",
+      "current_heading": "Wordplay Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Watering Verse",
+    "candidates": [
+      "Moshe MiSinai",
+      "Border Definition",
+      "Footstep Width",
+      "Watering Verse",
+      "Rav's Position",
+      "Corner Problem",
+      "Gezeirah Shema",
+      "Tosafot Angles",
+      "Rosh Tor Concept",
+      "Neighboring Patches",
+      "Rosh Tor Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers Rav Assi's ruling that the six-by-six measurement excludes the border, confirmed by a baraita, and then asks how wide the border is \u2014 which is precisely what the 'Border Definition' prose describes, including the transition to Rabbi Yehuda's ruling and Rabbi Zeira's verse-based explanation.",
+      "chosen_heading": "Border Definition",
+      "current_heading": "Watering Verse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Rosh Tor Limits",
+    "candidates": [
+      "Rav's Position",
+      "Corner Problem",
+      "Gezeirah Shema",
+      "Tosafot Angles",
+      "Rosh Tor Concept",
+      "Neighboring Patches",
+      "Rosh Tor Limits",
+      "Shmuel's Rosh Tor",
+      "Leaf Entanglement",
+      "Furrow Divider",
+      "Furrow Overridden",
+      "Rav Ashi Disagree",
+      "Vegetable Divider"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Corner Problem",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover Rav's position, the corner-filling problem, the gezeirah, and the rosh tor / ein rosh tor ba-arugah answer \u2014 all of which are discussed under headings 0\u20136 (Rav's framework), and the prose of heading 1 ('Corner Problem') and heading 2 ('Gezeirah Shema') most directly matches this content, but since all three headings 1\u20136 form one continuous Rav-discussion, the current placement at heading 6 ('Rosh Tor Limits') is the best single home for items 1\u20132 as it is the culminating section that explicitly discusses both the gezeirah and ein rosh tor ba-arugah.",
+      "second_heading": "Shmuel's Rosh Tor",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces Shmuel's opposing position \u2014 aruga bein arugot shaninu \u2014 which is precisely what heading 7 ('Shmuel's Rosh Tor') is about.",
+      "current_heading": "Rosh Tor Limits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Vegetable Divider",
+    "candidates": [
+      "Shmuel's Rosh Tor",
+      "Leaf Entanglement",
+      "Furrow Divider",
+      "Furrow Overridden",
+      "Rav Ashi Disagree",
+      "Vegetable Divider",
+      "Two Rows Analysis",
+      "Circle Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Ulla's dilemma about a single furrow as a divider, which matches the 'Furrow Divider' section's prose about Ulla's question regarding digging a furrow around a vegetable patch as a sufficient divider \u2014 the subsequent dispute between Rav Sheshet and Rav Asi, and Ravina's challenge, all flow from that initial question and belong under the heading where that question is introduced.",
+      "chosen_heading": "Furrow Divider",
+      "current_heading": "Vegetable Divider",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Circle Solution",
+    "candidates": [
+      "Two Rows Analysis",
+      "Circle Solution",
+      "Corner Filling",
+      "Space Between",
+      "Perpendicular Planting",
+      "Rectangle Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Kahana/Rabbi Yochanan's teaching about making a six-by-six garden bed with five circles to fill an entire garden with vegetables, which is precisely what the 'Circle Solution' prose section describes and analyzes.",
+      "chosen_heading": "Circle Solution",
+      "current_heading": "Circle Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Rectangle Requirement",
+    "candidates": [
+      "Corner Filling",
+      "Space Between",
+      "Perpendicular Planting",
+      "Rectangle Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the Ravina-Rav Ashi exchange about the 'square board' (tavla meruba'as) requirement, which is precisely what candidate 3 ('Rectangle Requirement') describes in its prose.",
+      "chosen_heading": "Rectangle Requirement",
+      "current_heading": "Rectangle Requirement",
+      "moved": false
+    }
+  }
+]

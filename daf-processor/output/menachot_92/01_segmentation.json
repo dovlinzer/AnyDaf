@@ -39,7 +39,7 @@
           "timestamp": "08:02"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -130,7 +130,7 @@
           "timestamp": "22:39"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -207,7 +207,7 @@
           "timestamp": "39:32"
         }
       ],
-      "sefaria_index": 24,
+      "sefaria_index": 22,
       "matched": true
     },
     {
@@ -236,8 +236,8 @@
           "timestamp": "45:26"
         }
       ],
-      "sefaria_index": 26,
-      "matched": true
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Conceptual Conclusion: The Underlying Principles of Semicha and Atonement",
@@ -255,7 +255,7 @@
           "timestamp": "47:18"
         }
       ],
-      "sefaria_index": 26,
+      "sefaria_index": 22,
       "matched": false
     }
   ],
@@ -653,5 +653,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "29:57",
+  "amud_b_micro_title": "Shimon Chai",
+  "shiur_start_daf": 92,
+  "shiur_start_amud": "a"
 }

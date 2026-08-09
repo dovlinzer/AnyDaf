@@ -1,0 +1,251 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Baraita Rules",
+    "candidates": [
+      "Core Differences",
+      "R. Eliezer bar R. Shimon",
+      "Like an Olah?",
+      "Inference Rov Basar",
+      "Baraita Rules",
+      "Chatas v. Olah Timing",
+      "Shehiya Issue",
+      "Tradition Intro",
+      "Lo Yavdil = Optional",
+      "Context Matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage begins with the Gemara's inference question about rov basar (michlal de-ba'inan rov basar bit'chilah) and then provides the baraita as confirmation \u2014 both the question and the baraita answer belong under heading 3 'Inference Rov Basar', whose prose describes exactly this: the Gemara making explicit the inference about rov basar being required, which is then confirmed by the baraita that follows in the same passage.",
+      "chosen_heading": "Inference Rov Basar",
+      "current_heading": "Baraita Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Context Matters",
+    "candidates": [
+      "Chatas v. Olah Timing",
+      "Shehiya Issue",
+      "Tradition Intro",
+      "Lo Yavdil = Optional",
+      "Context Matters",
+      "Olah First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together introduce Rabbi Yirmiyah's challenge and his transmission of the tradition from Rabbi Elazar ben Shammua via the chain of Elazars \u2014 exactly what 'Tradition Intro' describes as its content \u2014 whereas the current placement under 'Context Matters' is the section that discusses Rav Acha's pit-challenge and its resolution, which comes after this introductory transmission.",
+      "chosen_heading": "Tradition Intro",
+      "current_heading": "Context Matters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Olah First",
+    "candidates": [
+      "Context Matters",
+      "Olah First",
+      "Body Blood Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is precisely the Gemara's response distinguishing the pit case from the bird offering case \u2014 the content of candidate 0's prose \u2014 and item 2 is the concluding inference ('shma mina ein tzarich lehavdil') that follows directly from that distinction, both belonging to the 'Context Matters' section rather than the 'Olah First' section where they currently sit.",
+      "chosen_heading": "Context Matters",
+      "current_heading": "Olah First",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Body Blood Only",
+    "candidates": [
+      "Body Blood Only",
+      "Head or Body?",
+      "Ravina's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly addresses the validity of squeezing only the blood of the body without the head, which is precisely what 'Body Blood Only' prose describes, and the current placement is correct.",
+      "chosen_heading": "Body Blood Only",
+      "current_heading": "Body Blood Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Ravina's Logic",
+    "candidates": [
+      "Head or Body?",
+      "Ravina's Logic",
+      "Chatas Like Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Ravina's statement that 'most blood is found in the body,' which is precisely what the prose of 'Ravina's Logic' discusses and explains.",
+      "chosen_heading": "Ravina's Logic",
+      "current_heading": "Ravina's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Chatas Like Olah",
+    "candidates": [
+      "Chatas Like Olah",
+      "Olah Correct",
+      "Olah Like Chatas",
+      "Wrong Location",
+      "Melikah or Blood?",
+      "Haza'ah Focus",
+      "From Seifa Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Chatas Like Olah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are the Mishna text covering bird sin offerings and burnt offerings done with wrong procedure/intent/location, matching the prose of heading 0 ('Chatas Like Olah') which discusses the mishnah's cases of chatas done in manner of olah and olah done in manner of chatas.",
+      "second_heading": "Melikah or Blood?",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 are the Gemara analyzing what 'done like an olah' means (melikah vs. haza'ah), which precisely matches heading 4 ('Melikah or Blood?') whose prose describes the Gemara's two candidates for what the mishnah means by performing the chatas like an olah.",
+      "current_heading": "Chatas Like Olah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "From Seifa Logic",
+    "candidates": [
+      "Olah Correct",
+      "Olah Like Chatas",
+      "Wrong Location",
+      "Melikah or Blood?",
+      "Haza'ah Focus",
+      "From Seifa Logic",
+      "Both Blood Focused"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage argues from the seifa that the invalidating factor must be the blood (haza'ah) rather than melikah, since melikah is valid anywhere on the altar \u2014 which is precisely what the prose of 'From Seifa Logic' describes.",
+      "chosen_heading": "From Seifa Logic",
+      "current_heading": "From Seifa Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Both Blood Focused",
+    "candidates": [
+      "Both Blood Focused",
+      "Not Neveilah",
+      "Exception Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's 'ha-kedei'ita v'ha-kedei'ita' response dismissing the proof that both clauses must refer to blood, which is explicitly described and analyzed in candidate 0's prose.",
+      "chosen_heading": "Both Blood Focused",
+      "current_heading": "Both Blood Focused",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Exception Debate",
+    "candidates": [
+      "Not Neveilah",
+      "Exception Debate",
+      "R. Eliezer: Me'ilah",
+      "R. Yehoshua: No Me'ilah",
+      "Chatas Le-Shem Olah",
+      "Reductio Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 7,
+      "first_heading": "Not Neveilah",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-7 are Gemara analysis of the bird burnt offering procedure-change question, fitting under the 'Not Neveilah' section which discusses the olah done like a chatas and me'ilah issues from the preceding mishna.",
+      "second_heading": "Exception Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 8 is explicitly a new MISHNA introducing the 'not neveilah' rule and the exception, with items 9-11 presenting the Rabbi Eliezer/Rabbi Yehoshua dispute about the bird olah done below like a chatas \u2014 exactly what the 'Exception Debate' prose describes.",
+      "current_heading": "Exception Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Reductio Case",
+    "candidates": [
+      "R. Eliezer: Me'ilah",
+      "R. Yehoshua: No Me'ilah",
+      "Chatas Le-Shem Olah",
+      "Reductio Case",
+      "Reductio Refuted",
+      "Complete Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Eliezer's reductio argument using kodshei kodashim slaughtered in the south with kodashim kalim intent, followed by Rabbi Yehoshua's rejection \u2014 exactly the content described in headings 3 ('Reductio Case') and 4 ('Reductio Refuted'), but since both items together form the challenge-and-response of the reductio, and heading 3's prose explicitly describes this exchange including Rabbi Yehoshua's logic, the current placement under 'Reductio Case' is the best single heading for this continuous argument.",
+      "chosen_heading": "Reductio Case",
+      "current_heading": "Reductio Case",
+      "moved": false
+    }
+  }
+]

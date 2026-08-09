@@ -1,0 +1,307 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Half Fig Baraita",
+    "candidates": [
+      "Field Demarcation Q",
+      "Pe'ah & Tum'ah",
+      "Shabbat Domains",
+      "Half Fig Baraita",
+      "R. Yosi Requirement",
+      "Rava Threshold"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Half Fig Baraita",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about combining two half-fig acts under one lapse of awareness, which is precisely what heading 3 ('Half Fig Baraita') discusses.",
+      "second_heading": "R. Yosi Requirement",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 introduce Rabbi Yosi's additional criterion of bi-reshut achas vs. two domains, which is exactly what heading 4 ('R. Yosi Requirement') is about.",
+      "current_heading": "Half Fig Baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Rava Threshold",
+    "candidates": [
+      "R. Yosi Requirement",
+      "Rava Threshold",
+      "Abaye Karmelit",
+      "Rava Pisla",
+      "Shabbat-Gittin",
+      "No Marker Case",
+      "Community Recognition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye Karmelit",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains all three opinions \u2014 Rabba, Abaye, and Rava on karmelit and pisla \u2014 which together form the dispute covered by candidates 0\u20133; Abaye's karmelit position and Rava's pisla extension are both in item 1, and candidate 2 ('Abaye Karmelit') is the best single home since it bridges Abaye's view and Rava's counter, but given the three-way dispute the passage spanning Rabba/Abaye/Rava fits best under 'Abaye Karmelit' as the midpoint heading that introduces the full range of opinions.",
+      "second_heading": "Rava Pisla",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 is Rava's programmatic Shabbat-Gittin statement, which candidate 4 ('Shabbat-Gittin') discusses explicitly and in detail, making it a clearly better match than the current placement.",
+      "current_heading": "Rava Threshold",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Community Recognition",
+    "candidates": [
+      "Abaye Karmelit",
+      "Rava Pisla",
+      "Shabbat-Gittin",
+      "No Marker Case",
+      "Community Recognition",
+      "Tosafot Tum'ah",
+      "Sea Squill ID"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the 'no boundary marker and no chatzav' question (ein sham lo meitzar velo chatzav mai) and introduces Rabbi Marinus/Yochanan's answer and Rav Pappa's specification, which is precisely what heading 3 'No Marker Case' describes as its topic, while heading 4 'Community Recognition' covers the Rashbam's interpretation and resolution of that same passage \u2014 meaning the Talmudic text itself belongs under the heading that introduces the question, not the one discussing its resolution.",
+      "chosen_heading": "No Marker Case",
+      "current_heading": "Community Recognition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Sea Squill ID",
+    "candidates": [
+      "Tosafot Tum'ah",
+      "Sea Squill ID",
+      "Joshua Boundary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage states that a row of sea squill (chatzuva) serves as a barrier for the property of a convert, which directly connects to Rav Yehuda citing Rav about the chatzuva plant Joshua used to demarcate land divisions \u2014 both are about chatzuva as a field boundary marker in the context of land division, matching the 'Joshua Boundary' prose far better than the botanical identification prose of 'Sea Squill ID'.",
+      "chosen_heading": "Joshua Boundary",
+      "current_heading": "Sea Squill ID",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Joshua Boundary",
+    "candidates": [
+      "Sea Squill ID",
+      "Joshua Boundary",
+      "Border Cities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks 'What is chatzuva?' and answers that it is the plant Joshua used to mark boundaries \u2014 this is the identification of the plant, which belongs under 'Sea Squill ID' where the prose discusses what chatzav/chatzuva is, while 'Joshua Boundary' already presupposes the identification and discusses the significance of Joshua's choice.",
+      "chosen_heading": "Sea Squill ID",
+      "current_heading": "Joshua Boundary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Border Cities",
+    "candidates": [
+      "Border Cities",
+      "Terumot Ma'aser"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly the teaching discussed in the 'Border Cities' prose, which explicitly cites and explains this same Rav Yehuda/Rav statement about Joshua enumerating only border cities.",
+      "chosen_heading": "Border Cities",
+      "current_heading": "Border Cities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Terumot Ma'aser",
+    "candidates": [
+      "Terumot Ma'aser",
+      "Extra Nations",
+      "Rashbam Distance",
+      "Tosafot Conquest",
+      "Opinions Lands"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Yehuda in the name of Shmuel stating that land shown to Moses is obligated in ma'aser, which is precisely what the 'Terumot Ma'aser' section's prose describes and discusses.",
+      "chosen_heading": "Terumot Ma'aser",
+      "current_heading": "Terumot Ma'aser",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Opinions Lands",
+    "candidates": [
+      "Extra Nations",
+      "Rashbam Distance",
+      "Tosafot Conquest",
+      "Opinions Lands",
+      "Mishnah Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the three Tannaitic opinions (Rabbi Meir, Rabbi Yehuda, Rabbi Shimon) on the geographic identity of Kenite, Kenizzite, and Kadmonite, which is precisely what the 'Opinions Lands' prose section discusses.",
+      "chosen_heading": "Opinions Lands",
+      "current_heading": "Opinions Lands",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Mishnah Setup",
+    "candidates": [
+      "Mishnah Setup",
+      "Brothers Separate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the opening Mishnah about two witnesses or three pairs of witnesses being found as zomemim and dividing payment, which is precisely what the 'Mishnah Setup' prose describes.",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Mishnah Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Brothers Separate",
+    "candidates": [
+      "Brothers Separate",
+      "Davar Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the three-brothers case with a fourth unrelated witness joining each, ruling these are three distinct testimonies but one testimony for hazamah \u2014 exactly what the 'Brothers Separate' prose discusses in detail.",
+      "chosen_heading": "Brothers Separate",
+      "current_heading": "Brothers Separate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Davar Question",
+    "candidates": [
+      "Davar Question",
+      "Akiva Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about Abba Chalafta and Rabbi Yochanan ben Nuri discussing whether three separate pairs of witnesses combine to establish chazakah, which is precisely what the 'Davar Question' prose describes.",
+      "chosen_heading": "Davar Question",
+      "current_heading": "Davar Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Akiva Stringency",
+    "candidates": [
+      "Akiva Stringency",
+      "Half Matter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Akiva's position that only a 'davar' (full matter) and not 'chatzi davar' (half matter) is valid testimony, which is precisely what the 'Akiva Stringency' prose discusses \u2014 his derivation from the verse and its application to the chazakah context.",
+      "chosen_heading": "Akiva Stringency",
+      "current_heading": "Akiva Stringency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Half Matter",
+    "candidates": [
+      "Half Matter",
+      "Davar Meaning",
+      "Contradiction Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the Gemara discussion about what the Rabbis exclude with 'chatzi davar' \u2014 first the rejected proposal (one witness per hair = chatzi davar ve-chatzi edut) and then the accepted answer (two witnesses per hair), which is exactly what the prose under 'Half Matter' describes.",
+      "chosen_heading": "Half Matter",
+      "current_heading": "Half Matter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Contradiction Q",
+    "candidates": [
+      "Davar Meaning",
+      "Contradiction Q",
+      "Gaps Challenge",
+      "Minor Distinctions",
+      "Unresolved Gap",
+      "Crop Rotation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the exchange where Rav Nachman challenges Rav Yehuda's wheat-barley ruling by positing the years-one-three-five vs. years-two-four-six scenario, which is precisely what candidate 2 ('Gaps Challenge') describes in its prose.",
+      "chosen_heading": "Gaps Challenge",
+      "current_heading": "Contradiction Q",
+      "moved": true
+    }
+  }
+]

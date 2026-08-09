@@ -29,8 +29,8 @@
           "timestamp": "03:07"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Shir Shel Yom for Six Days of Chol HaMoed Sukkot",
@@ -73,8 +73,8 @@
           "timestamp": "14:04"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Challenge to Multiple Tekiot: Rav Acha's Contradiction and Resolutions",
@@ -101,8 +101,8 @@
           "timestamp": "15:53"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Challenge to Multiple Tekiot: Rav Acha's Contradiction and Resolutions (continued)",
@@ -120,7 +120,7 @@
           "timestamp": "18:35"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -516,5 +516,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "26:20",
+  "amud_b_micro_title": "13 Bulls, 2 Rams, 1 Goat",
+  "shiur_start_daf": 55,
+  "shiur_start_amud": "a"
 }

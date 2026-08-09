@@ -1,0 +1,424 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Inclusion Rules",
+    "candidates": [
+      "Dam Ha-Yotzei",
+      "Inclusion Rules",
+      "Blood Exclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita deriving that blood from the mouth or penis is tahor via the word 'hu,' which is precisely what the 'Inclusion Rules' prose describes, including the follow-up question about reversing the derivation.",
+      "chosen_heading": "Inclusion Rules",
+      "current_heading": "Inclusion Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Blood Exclusion",
+    "candidates": [
+      "Blood Exclusion",
+      "Spit Analogy",
+      "Milk Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the dumya de-rok principle and the exclusion of blood, which is precisely what the 'Blood Exclusion' section's prose describes.",
+      "chosen_heading": "Blood Exclusion",
+      "current_heading": "Blood Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Milk Problem",
+    "candidates": [
+      "Spit Analogy",
+      "Milk Problem",
+      "Two Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial objection about milk collecting and emerging (mit'agel ve-yotzei) yet only having tumat mashkin, which is exactly what candidate 0 ('Spit Analogy') describes \u2014 the challenge that milk collects yet lacks severe tumah \u2014 before the resolution with the two-criteria refinement discussed in candidate 1.",
+      "chosen_heading": "Spit Analogy",
+      "current_heading": "Milk Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Two Criteria",
+    "candidates": [
+      "Milk Problem",
+      "Two Criteria",
+      "Flow Challenge",
+      "Rava Response",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Milk Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yochanan/Rabbi Shimon ben Yochai's dual-criterion analogy to saliva (collection and reabsorption) and excludes blood and mother's milk \u2014 exactly what the 'Milk Problem' prose discusses.",
+      "second_heading": "Flow Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the objection about deriving from ziva itself (ve-nilef mi-zovo), which is precisely what the 'Flow Challenge' prose describes as the pointed objection about why not derive the criterion from the zivah.",
+      "current_heading": "Two Criteria",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Flow Challenge",
+      "Rava Response",
+      "Reish Lakish",
+      "Whole vs Part",
+      "Baraita",
+      "Shape Significance",
+      "Burned Sheretz",
+      "Current State",
+      "Entirety Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present Reish Lakish's ruling that a dried sheretz with intact skeleton is tamei, the apparent contradiction from the mishna, and Rabbi Zeira's whole-vs-part resolution \u2014 exactly what candidate 3 ('Whole vs Part') discusses in its prose.",
+      "chosen_heading": "Whole vs Part",
+      "current_heading": "Reish Lakish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Entirety Rule",
+    "candidates": [
+      "Whole vs Part",
+      "Baraita",
+      "Shape Significance",
+      "Burned Sheretz",
+      "Current State",
+      "Entirety Rule",
+      "Torah Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Candidate 5's prose explicitly covers all five items: Rabbi Zeira's whole-vs-part resolution of the Taharot objection, the baraita applying bahem/mehem to saruf vs. she-eino saruf, and the conceptual unity of the framework \u2014 matching the full sequence of items 1\u20135.",
+      "chosen_heading": "Entirety Rule",
+      "current_heading": "Entirety Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Torah Sources",
+    "candidates": [
+      "Torah Sources",
+      "Semen Fitness",
+      "Reconstitution",
+      "Lukewarm Duration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's survey of textual sources (zav, phlegm/saliva, sheretz, semen, animal carcass) establishing that these substances transmit impurity only when moist, which is precisely what the 'Torah Sources' prose describes.",
+      "chosen_heading": "Torah Sources",
+      "current_heading": "Torah Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Lukewarm Duration",
+    "candidates": [
+      "Semen Fitness",
+      "Reconstitution",
+      "Lukewarm Duration",
+      "Corpse Flesh",
+      "Shmuel's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi Yirmeya's dilemma about whether lukewarm water must be maintained throughout the entire soaking period or only at its beginning, and the baraita's resolution of that exact question \u2014 which is precisely what the 'Lukewarm Duration' prose describes, albeit attributing the question to Rami bar Chama and the stringent position to Rabbi Akiva rather than Rabban Shimon ben Gamliel.",
+      "chosen_heading": "Lukewarm Duration",
+      "current_heading": "Lukewarm Duration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Shmuel's View",
+    "candidates": [
+      "Corpse Flesh",
+      "Shmuel's View",
+      "Rodent Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's clarification of Rabbi Yosi's position and the confirming baraita, which is precisely what the 'Shmuel's View' section prose describes.",
+      "chosen_heading": "Shmuel's View",
+      "current_heading": "Shmuel's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Rodent Timeline",
+    "candidates": [
+      "Rodent Timeline",
+      "Stain Timeline",
+      "Niddah Blood",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the mishna about a dead creeping animal (sheretz) found in an alleyway and retroactive tumah, which is exactly what the 'Rodent Timeline' prose describes and discusses.",
+      "chosen_heading": "Rodent Timeline",
+      "current_heading": "Rodent Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Stain Timeline",
+      "Niddah Blood",
+      "Rabbi Shimon",
+      "Sweep Mechanism",
+      "Hole Scenario"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Stain Timeline",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishnah about a stain found on a garment rendering impure retroactively until last check or laundering, which is precisely what the 'Stain Timeline' prose discusses.",
+      "second_heading": "Niddah Blood",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the moist/dry distinction and Rabbi Shimon's qualification, which maps directly onto the 'Niddah Blood' prose (u-metamei bein lach bein yavesh) and then the 'Rabbi Shimon' prose \u2014 but since 'Niddah Blood' is the section that opens with this exact mishnaic phrase, that is the better starting point for item 2.",
+      "current_heading": "Rabbi Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Hole Scenario",
+    "candidates": [
+      "Sweep Mechanism",
+      "Hole Scenario",
+      "Laundry Mechanism",
+      "Fold Scenario",
+      "Rabbi Meir",
+      "No Checking Loss"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "No Checking Loss",
+    "candidates": [
+      "Laundry Mechanism",
+      "Fold Scenario",
+      "Rabbi Meir",
+      "No Checking Loss",
+      "Rav Acha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states the rationale that Jewish women inspect their robes at laundering time (*chazkat bnot Yisrael bodkot chalukeihen bi-sh'at kibuseihen*) and the consequence of not inspecting (*hifsidu le-mafrea*), which is precisely the content discussed under the 'Rabbi Meir' section about inspection being the operative rationale.",
+      "chosen_heading": "Rabbi Meir",
+      "current_heading": "No Checking Loss",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Rav Acha",
+    "candidates": [
+      "No Checking Loss",
+      "Rav Acha",
+      "Rebbi View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi A\u1e25a's teaching about re-laundering to determine whether a stain predates or postdates the previous laundering, which is precisely what the 'Rav Acha' section's prose discusses.",
+      "chosen_heading": "Rav Acha",
+      "current_heading": "Rav Acha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Rebbi View",
+    "candidates": [
+      "Rebbi View",
+      "Inference",
+      "Rekem Rule",
+      "Yehuda Exception",
+      "General Rule",
+      "Mixed Cities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehuda HaNasi's statement about distinguishing pre- and post-laundering stains (makdir/maglid), followed by the inference about chazkato baduk \u2014 but the current placement under 'Rebbi View' is correct because the prose for that section directly explains this exact teaching, while the 'Inference' section's prose discusses only the logical conclusion drawn from testing methods, not Rabbi's specific distinction itself.",
+      "chosen_heading": "Rebbi View",
+      "current_heading": "Rebbi View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Mixed Cities",
+    "candidates": [
+      "Inference",
+      "Rekem Rule",
+      "Yehuda Exception",
+      "General Rule",
+      "Mixed Cities",
+      "Convert Status"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 2,
+      "split2": 3,
+      "first_heading": "Inference",
+      "first_confidence": "low",
+      "first_reason": "Segment 1 discusses moist vs. dry creeping animal carcasses and blood stains rendering impure retroactively, which does not match any of the candidate headings well \u2014 heading 0 ('Inference') is the least mismatched as it involves drawing inferences from distinctions, though none of the headings truly describe this content about sherets/ketem and moisture.",
+      "second_heading": "Rekem Rule",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the mishna about stains from Rekem, gentiles, Jews, and Samaritans, which directly matches heading 1 ('Rekem Rule') as that heading describes exactly this mishna's content.",
+      "third_heading": "Convert Status",
+      "third_confidence": "medium",
+      "third_reason": "Segment 3 is the Gemara discussion about accepting converts from Tarmod, which follows the mishna about stains from gentiles and relates to convert status, making heading 5 ('Convert Status') the best fit among the candidates.",
+      "current_heading": "Mixed Cities",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141,
+      142
+    ],
+    "current_heading": "Convert Status",
+    "candidates": [
+      "Convert Status",
+      "Carefulness Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Convert Status",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 directly present the chisuri mechsara reconstruction and the Rabbi Meir/Chachamim dispute over Samaritan convert status (gerei emet vs. gerei arayot), which is precisely what the 'Convert Status' prose describes.",
+      "second_heading": "Carefulness Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 3 raises the objection about the mishna's phrasing 'she-lo nechshdu al kitmeihen' being superfluous if the dispute is purely about convert status, which is exactly the point the 'Carefulness Rule' prose addresses.",
+      "current_heading": "Convert Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146
+    ],
+    "current_heading": "Carefulness Rule",
+    "candidates": [
+      "Carefulness Rule",
+      "Samaritans"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Carefulness Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the re-reading of the mishnah regarding stains from Jews/Samaritans being tamei and stains found in Jewish towns being tahor due to carefulness, which matches exactly the 'Carefulness Rule' prose about she-lo nechshdu and Jews putting away their stained garments.",
+      "second_heading": "Samaritans",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the dispute between Rabbi Meir and the Chachamim specifically about stains found in Samaritan cities, which matches the 'Samaritans' prose that opens with ha-nimtza'im be-arei Kutim and that exact Rabbi Meir/Chachamim dispute.",
+      "current_heading": "Carefulness Rule",
+      "moved": true
+    }
+  }
+]

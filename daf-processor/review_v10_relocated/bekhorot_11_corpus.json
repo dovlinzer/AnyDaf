@@ -1,0 +1,581 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Minimum Shekel Rule",
+    "candidates": [
+      "Rabbi Yehuda vs Shimon",
+      "Benefit Paradox",
+      "Minimum Shekel Rule",
+      "Two Verses Teaching",
+      "Human Firstborn Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes and analyzes the 'tifdeh tifdeh' derivation, which is precisely what the 'Minimum Shekel Rule' section's prose introduces \u2014 the double appearance of 'you shall redeem' teaching immediate redemption and redemption with minimal value.",
+      "chosen_heading": "Minimum Shekel Rule",
+      "current_heading": "Minimum Shekel Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Human Firstborn Analogy",
+    "candidates": [
+      "Two Verses Teaching",
+      "Human Firstborn Analogy",
+      "Source Inquiry",
+      "Dilemma on Shekel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete argument that the Gemara 'was necessary' because one might have thought the donkey's redemption parallels a human firstborn (item 1), and the two 'tifdeh' verses therefore teach immediacy and any amount (item 2) \u2014 exactly what candidate 0's prose describes as the derivation of 'tifdeh miyad' and its non-obviousness due to the juxtaposition with human firstborn redemption.",
+      "chosen_heading": "Two Verses Teaching",
+      "current_heading": "Human Firstborn Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Dilemma on Shekel",
+    "candidates": [
+      "Source Inquiry",
+      "Dilemma on Shekel",
+      "Erech Verse Source",
+      "Erech Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the mimah nafshach dilemma about Rabbi Yosei bar Yehuda's shekel requirement, which is precisely what the 'Dilemma on Shekel' section's prose describes.",
+      "chosen_heading": "Dilemma on Shekel",
+      "current_heading": "Dilemma on Shekel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Erech Principle",
+    "candidates": [
+      "Erech Verse Source",
+      "Erech Principle",
+      "Rabbis' Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's answer that the verse 'v'chol erkecha yihyeh b'shekel hakodesh' establishes the shekel minimum without any comparison (hekesh), which matches heading 0's prose about Rabba/Rava citing this specific verse as the source, rather than heading 1 which discusses the broader principle and its application.",
+      "chosen_heading": "Erech Verse Source",
+      "current_heading": "Erech Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Rabbis' Counter",
+    "candidates": [
+      "Erech Principle",
+      "Rabbis' Counter",
+      "Halacha Kol Shehu",
+      "Practical Minimum",
+      "Mishnah Supports"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the Rabbis' counter-reading of the verse as limited to the poverty-adjustment (heseg yad) context within erchin, which is precisely what the 'Rabbis' Counter' prose section discusses.",
+      "chosen_heading": "Rabbis' Counter",
+      "current_heading": "Rabbis' Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Mishnah Supports",
+    "candidates": [
+      "Halacha Kol Shehu",
+      "Practical Minimum",
+      "Mishnah Supports",
+      "Rav Yehuda's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete unit: Rav Nachman's ruling, Rav Yosef's patruza bar danka answer, Rava's support from the Mishnah's 'gadol v'katan,' and the Gemara's question-and-answer about why Rav Yosef needed to state the obvious \u2014 exactly what candidate 2 ('Mishnah Supports') describes in its prose.",
+      "chosen_heading": "Mishnah Supports",
+      "current_heading": "Mishnah Supports",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Rav Yehuda's Question",
+    "candidates": [
+      "Rav Yehuda's Question",
+      "Rav Tarfon's Answer",
+      "Coin Standards",
+      "Rava's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yehuda Nesia's question and Rabbi Tarfon's answer as a single unit, and the current heading's prose explicitly discusses both the sending of the donkey and Rav Tarfon's range-based response, making it the best fit.",
+      "chosen_heading": "Rav Yehuda's Question",
+      "current_heading": "Rav Yehuda's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rava's Ruling",
+    "candidates": [
+      "Rav Tarfon's Answer",
+      "Coin Standards",
+      "Rava's Ruling",
+      "Contradiction Resolved",
+      "Bedieved vs Lchat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's ruling that the halakha is birgiya/ragya worth three dinars, which directly matches the 'Rava's Ruling' section prose discussing Rava's normative ruling of three zuz as the middle value.",
+      "chosen_heading": "Rava's Ruling",
+      "current_heading": "Rava's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Bedieved vs Lchat",
+    "candidates": [
+      "Contradiction Resolved",
+      "Bedieved vs Lchat",
+      "Value Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction between the two halakhot and then resolves it, which matches heading 0 ('Contradiction Resolved') whose prose explicitly describes the apparent contradiction between the three-zuz ruling and the kol shehu ruling \u2014 the resolution (kan/kan) is the culmination of that section, not a separate topic.",
+      "chosen_heading": "Contradiction Resolved",
+      "current_heading": "Bedieved vs Lchat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Value Alternative",
+    "candidates": [
+      "Bedieved vs Lchat",
+      "Value Alternative",
+      "Attribution Question",
+      "Ruling Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Reish Lakish's ruling about redeeming a firstborn donkey with its monetary value when no lamb is available, which is exactly what the 'Value Alternative' section's prose describes.",
+      "chosen_heading": "Value Alternative",
+      "current_heading": "Value Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Ruling Problem",
+    "candidates": [
+      "Attribution Question",
+      "Ruling Problem",
+      "Hekdesh Analogy",
+      "Hekdesh Comparison",
+      "Torah Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav A\u1e25a teaching that Reish Lakish follows Rabbi Shimon and Ravina's objection that the halakha follows Rabbi Yehuda over Rabbi Shimon, which directly matches the 'Ruling Problem' section's prose about exactly this dispute.",
+      "chosen_heading": "Ruling Problem",
+      "current_heading": "Ruling Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Torah Intent",
+    "candidates": [
+      "Hekdesh Analogy",
+      "Hekdesh Comparison",
+      "Torah Intent",
+      "Nachman's Case",
+      "Third Party Redemption"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hekdesh Analogy",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the objection that Reish Lakish rules like Rabbi Shimon when an unattributed Mishna follows Rabbi Yehuda \u2014 this challenge and its setup belongs under 'Hekdesh Analogy' which is where the Gemara resolves the tension between Reish Lakish's ruling and Rabbi Yehuda's position.",
+      "second_heading": "Nachman's Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives Ravina's resolution (the hekdesh analogy, Torah's lenient intent) and the practical case of Rav Nachman redeeming with boiled vegetables, which matches 'Nachman's Case' prose about redeeming with herbs/vegetables worth the donkey's value.",
+      "current_heading": "Torah Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Third Party Redemption",
+    "candidates": [
+      "Nachman's Case",
+      "Third Party Redemption",
+      "Third Party Works",
+      "Donkey Ownership",
+      "Shimon Opinion",
+      "Yehuda Problem",
+      "Benefit Interest",
+      "Theft Evidence",
+      "Scripture Proof",
+      "Owner Benefits"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Third Party Works",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Huna's ruling that third-party redemption is valid and raises the dilemma of who gets the donkey, which matches heading 2 ('Third Party Works') whose prose says 'the redemption stands... but this immediately raises the next question.'",
+      "second_heading": "Shimon Opinion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 resolves the dilemma by distinguishing Rabbi Shimon (no question, donkey always owner's) from Rabbi Yehuda (where the question is sharp), matching heading 4 ('Shimon Opinion') whose prose explains exactly this \u2014 under Rabbi Shimon the donkey was never forbidden in benefit so it was always the owner's.",
+      "current_heading": "Third Party Redemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Owner Benefits",
+    "candidates": [
+      "Third Party Works",
+      "Donkey Ownership",
+      "Shimon Opinion",
+      "Yehuda Problem",
+      "Benefit Interest",
+      "Theft Evidence",
+      "Scripture Proof",
+      "Owner Benefits",
+      "Maaser Issue",
+      "Maaser Problem",
+      "Ten Donkeys Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yehuda Problem",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the hekdesh comparison question and Rav Na\u1e25man's baraita proof, matching heading 3 ('Yehuda Problem') which discusses the hekdesh analogy under Rabbi Yehuda and heading 5 ('Theft Evidence') \u2014 but taken together items 1-2 fit best under 'Yehuda Problem' which sets up the hekdesh question that the theft proof resolves, while items 3-4 analyze whose opinion the baraita follows and confirm via the Scripture proof that the donkey is not hekdesh, matching heading 6 ('Scripture Proof') which explicitly discusses the mibeito shel ish verse and the double-payment confirmation.",
+      "second_heading": "Scripture Proof",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 analyze the baraita under Rabbi Yehuda's opinion and confirm via the 'from the man's house' verse that the donkey is not classified as hekdesh, which is precisely what heading 6 ('Scripture Proof') describes.",
+      "current_heading": "Owner Benefits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Ten Donkeys Case",
+    "candidates": [
+      "Maaser Issue",
+      "Maaser Problem",
+      "Ten Donkeys Case",
+      "Maaser Despite Keeping",
+      "Maaser Rationale",
+      "Inheritance Path",
+      "Kohen Exemption",
+      "Status Change",
+      "Resolution",
+      "Grain Scenario"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Maaser Issue",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the baraita explaining when the lamb enters the pen to be tithed, the clarification that it cannot refer to a kohen's possession, the ten doubtful firstborn donkeys scenario, and the supporting statement of Rav Nachman \u2014 all continuous discussion of the same maaser/tithe point initiated by the mishna.",
+      "second_heading": "Inheritance Path",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 introduce an entirely new case from Rav Nachman about ten certain (vadai) firstborn donkeys inherited through a kohen grandfather from a Yisrael great-grandfather, which is the 'Inheritance Path' scenario described in candidate 5's prose.",
+      "current_heading": "Ten Donkeys Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Grain Scenario",
+    "candidates": [
+      "Maaser Despite Keeping",
+      "Maaser Rationale",
+      "Inheritance Path",
+      "Kohen Exemption",
+      "Status Change",
+      "Resolution",
+      "Grain Scenario",
+      "As-If Principle",
+      "Two Cases Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes the grain/tevel scenario with the Yisrael-kohen-Yisrael inheritance chain, which is exactly what the 'Grain Scenario' prose describes.",
+      "chosen_heading": "Grain Scenario",
+      "current_heading": "Grain Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133,
+      134
+    ],
+    "current_heading": "Two Cases Needed",
+    "candidates": [
+      "As-If Principle",
+      "Two Cases Needed",
+      "Purchase from Non-Jew"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the classic u'tzricha argument explaining why both the donkey case and the grain case must be stated, which is precisely what the 'Two Cases Needed' prose describes in detail.",
+      "chosen_heading": "Two Cases Needed",
+      "current_heading": "Two Cases Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Purchase from Non-Jew",
+    "candidates": [
+      "Purchase from Non-Jew",
+      "Keep Despite Maaser",
+      "Non-Jew Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete statement of Rabbi Shmuel bar Natan in the name of Rabbi \u1e24anina about purchasing untithed smoothed produce from a gentile, which is precisely what the 'Purchase from Non-Jew' heading's prose describes.",
+      "chosen_heading": "Purchase from Non-Jew",
+      "current_heading": "Purchase from Non-Jew",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145
+    ],
+    "current_heading": "Non-Jew Ownership",
+    "candidates": [
+      "Keep Despite Maaser",
+      "Non-Jew Ownership",
+      "Beis Din Rationale",
+      "Grain Swap Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's discussion of who performed the meiruach \u2014 ruling out a gentile doing it (degancha) and concluding a Jew did it while in gentile possession \u2014 which is precisely what the 'Non-Jew Ownership' prose describes.",
+      "chosen_heading": "Non-Jew Ownership",
+      "current_heading": "Non-Jew Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152
+    ],
+    "current_heading": "Grain Swap Rule",
+    "candidates": [
+      "Beis Din Rationale",
+      "Grain Swap Rule",
+      "Separation vs Giving"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishnah from Demai about depositing produce with a Kusi/am ha'aretz versus a gentile, which is precisely what the 'Grain Swap Rule' prose describes in detail.",
+      "chosen_heading": "Grain Swap Rule",
+      "current_heading": "Grain Swap Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156
+    ],
+    "current_heading": "Separation vs Giving",
+    "candidates": [
+      "Separation vs Giving",
+      "Contradiction",
+      "Exception Limited"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Separation vs Giving",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Elazar's clarification that the dispute is about giving terumah to the kohen, which is exactly what heading 0 ('Separation vs Giving') describes.",
+      "second_heading": "Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's challenge to Rav Dimi citing Rabbi Shmuel/Rabbi \u1e24anina's ruling that one keeps the terumah even when definitely obligated \u2014 this is the contradiction that heading 1 ('Contradiction') directly describes.",
+      "current_heading": "Separation vs Giving",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Exception Limited",
+    "candidates": [
+      "Contradiction",
+      "Exception Limited",
+      "Verse Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Dimi's resolution distinguishing teruma gedola from terumas ma'aser, which is exactly what the 'Exception Limited' section's prose describes and explains.",
+      "chosen_heading": "Exception Limited",
+      "current_heading": "Exception Limited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165
+    ],
+    "current_heading": "Verse Source",
+    "candidates": [
+      "Verse Source",
+      "Separation Still",
+      "Death Case",
+      "Kohen Benefits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehoshua ben Levi's derivation from the verse in Numbers 18:26 that one who purchases untithed produce from a gentile is exempt from giving teruma of the tithe to a kohen \u2014 exactly the verse-based source discussed in the 'Verse Source' prose section.",
+      "chosen_heading": "Verse Source",
+      "current_heading": "Verse Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      174
+    ],
+    "current_heading": "Kohen Benefits",
+    "candidates": [
+      "Separation Still",
+      "Death Case",
+      "Kohen Benefits",
+      "Possession Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly asks the Gemara's question 'isn't it obvious?' about the death case \u2014 which matches Candidate 3's prose about the Gemara asking 'is this obvious?' and working through whether the sheep died before or after handover, not Candidate 2's prose about the Mishnah's ruling itself.",
+      "chosen_heading": "Possession Principle",
+      "current_heading": "Kohen Benefits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      178
+    ],
+    "current_heading": "Possession Principle",
+    "candidates": [
+      "Kohen Benefits",
+      "Possession Principle",
+      "Blessing Implication"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains that possession vests at the moment of designation rather than physical transfer, which is precisely what the 'Possession Principle' section's prose discusses.",
+      "chosen_heading": "Possession Principle",
+      "current_heading": "Possession Principle",
+      "moved": false
+    }
+  }
+]

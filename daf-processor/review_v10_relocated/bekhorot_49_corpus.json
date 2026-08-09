@@ -1,0 +1,316 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "One experienced wife",
+    "candidates": [
+      "Two wives, two males",
+      "Death within 30 days",
+      "One vs. two Kohanim",
+      "Mixed gender births",
+      "One experienced wife",
+      "Setup: mixed paternity",
+      "Single Kohen payment",
+      "Power of attorney"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "One experienced wife",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the mishnah cases for two wives of one husband, culminating in the 'one experienced wife' and father-dies scenarios that candidate 4's prose explicitly describes.",
+      "second_heading": "Setup: mixed paternity",
+      "second_confidence": "high",
+      "second_reason": "Items 5-10 shift to a completely new mishnah scenario about two wives of two different men, followed by the Gemara's harsha'ah discussion, which candidates 5-7 cover in sequence \u2014 item 5 starting with the new mishna case and items 8-10 matching candidate 7's power-of-attorney prose.",
+      "current_heading": "One experienced wife",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Power of attorney",
+    "candidates": [
+      "Setup: mixed paternity",
+      "Single Kohen payment",
+      "Power of attorney",
+      "Two Kohanim payment",
+      "Mixed genders, two men"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Nehardea ruling about not writing adrakhta on movable property and the distinction between denial and non-denial of debt, which is precisely what the 'Power of attorney' section's prose discusses in detail.",
+      "chosen_heading": "Power of attorney",
+      "current_heading": "Power of attorney",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Mixed genders, two men",
+    "candidates": [
+      "Two Kohanim payment",
+      "Mixed genders, two men",
+      "Chattel vs. real estate",
+      "Rav Huna's cases",
+      "Death before day 30",
+      "Death after day 30",
+      "Shehecheyanu paradox",
+      "Rav Gidel ruling",
+      "Rabbi Akiva doubt",
+      "Bamidbar derivation",
+      "Two verses principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rav Huna's teaching about two males and a female yielding nothing for the kohen, and the gemara's explanation of why the mishna's tanna omitted this case \u2014 exactly what candidate 3 ('Rav Huna's cases') describes in its prose.",
+      "chosen_heading": "Rav Huna's cases",
+      "current_heading": "Mixed genders, two men",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Two verses principle",
+    "candidates": [
+      "Chattel vs. real estate",
+      "Rav Huna's cases",
+      "Death before day 30",
+      "Death after day 30",
+      "Shehecheyanu paradox",
+      "Rav Gidel ruling",
+      "Rabbi Akiva doubt",
+      "Bamidbar derivation",
+      "Two verses principle",
+      "Rava's consensus",
+      "Full-term babies"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Death before day 30",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the rules about death before/after thirty days and Rabbi Akiva's doubt, which the 'Death before day 30' section's prose explicitly describes as the next mishnah stating the rule in its clearest form.",
+      "second_heading": "Two verses principle",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 are the Gemara discussing the rabbinic derivation from Bamidbar and the 'two verses' principle behind Rabbi Akiva's uncertainty, which exactly matches the 'Two verses principle' section's prose about shnei kesuvim haba'im ke'echad and the Bamidbar/erchin derivation.",
+      "current_heading": "Two verses principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Full-term babies",
+    "candidates": [
+      "Rava's consensus",
+      "Full-term babies",
+      "Viability vs. mitzva",
+      "Before day 30",
+      "After day 30",
+      "Types of proof",
+      "Dual obligations",
+      "Self comes first",
+      "Child comes first",
+      "Practical memory issues",
+      "Artificial insemination",
+      "Rav's view",
+      "Shmuel's view"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's consensus",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Ashi's statement that all agree day thirty is like the preceding day for aveilus, citing Shmuel's principle of leniency in mourning \u2014 exactly what candidate 0 ('Rava's consensus') describes.",
+      "second_heading": "Before day 30",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Mishnah introducing the cases of the father dying before or after thirty days and the dual-obligation dispute, which maps directly to candidate 3 ('Before day 30') as the start of that mishnah's discussion.",
+      "current_heading": "Full-term babies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Shmuel's view",
+    "candidates": [
+      "Viability vs. mitzva",
+      "Before day 30",
+      "After day 30",
+      "Types of proof",
+      "Dual obligations",
+      "Self comes first",
+      "Child comes first",
+      "Practical memory issues",
+      "Artificial insemination",
+      "Rav's view",
+      "Shmuel's view",
+      "Money must exist",
+      "Kiddushin parallel",
+      "Shmuel accepted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage presents both Rav's and Shmuel's positions together with the gemara's clarification of the two agreed-upon extreme cases, matching the prose of heading 9 which introduces exactly this gemara discussion about hapodeh et beno betoch shloshim yom, Rav's ruling, and sets up the debate \u2014 heading 10 ('Shmuel's view') is merely a continuation but the full gemara text including both views and the agreed cases fits best under heading 9 where the topic is introduced.",
+      "chosen_heading": "Rav's view",
+      "current_heading": "Shmuel's view",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Shmuel accepted",
+    "candidates": [
+      "Money must exist",
+      "Kiddushin parallel",
+      "Shmuel accepted",
+      "Mishnah clarified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav's position and his kiddushin analogy \u2014 exactly what the 'Kiddushin parallel' prose describes \u2014 not the ruling in favor of Shmuel that 'Shmuel accepted' discusses.",
+      "chosen_heading": "Kiddushin parallel",
+      "current_heading": "Shmuel accepted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Mishnah clarified",
+    "candidates": [
+      "Shmuel accepted",
+      "Mishnah clarified",
+      "Tannaitic dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel accepted",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 4 both state the halakhic ruling that Shmuel is followed despite the general principle favoring Rav in issur matters, which is exactly what candidate 0 ('Shmuel accepted') discusses.",
+      "second_heading": "Mishnah clarified",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the gemara's reconciliation of Shmuel's ruling with the mishna cases (money still extant), which is precisely what candidate 1 ('Mishnah clarified') describes.",
+      "current_heading": "Mishnah clarified",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Tannaitic dispute",
+    "candidates": [
+      "Tannaitic dispute",
+      "Yirmiyah reframes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Tannaitic dispute between the Sages and Rabbi Yehuda about whether self-redemption or son-redemption takes precedence, exactly matching the prose description under 'Tannaitic dispute'.",
+      "chosen_heading": "Tannaitic dispute",
+      "current_heading": "Tannaitic dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Yirmiyah reframes",
+    "candidates": [
+      "Yirmiyah reframes",
+      "Limited funds",
+      "Lien theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yirmiyah's reframing \u2014 'hakol modim heicha de'leika ela chamesh sela'im' and the identification of where the debate actually lies \u2014 which matches heading 0's prose about Rabbi Yirmiyah reframing the debate around limited funds and universal agreement.",
+      "chosen_heading": "Yirmiyah reframes",
+      "current_heading": "Yirmiyah reframes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Lien theory",
+    "candidates": [
+      "Limited funds",
+      "Lien theory",
+      "No lien view"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains Rabbi Yehuda's position that a Torah-mandated loan creates a lien like a written document, which is exactly the 'Lien theory' section's topic, and the prose there explicitly describes this principle (milveih hakesuvah ba'Torah k'kesuvah b'shtar damya) and the scenario of bnei chorin cash versus meshubadot field.",
+      "chosen_heading": "Lien theory",
+      "current_heading": "Lien theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "No lien view",
+    "candidates": [
+      "No lien view",
+      "Mitzva status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Rabbis' view that a Torah-mandated loan does not create a lien equivalent to a written document, which is precisely the 'no lien view' described in candidate 0's prose.",
+      "chosen_heading": "No lien view",
+      "current_heading": "No lien view",
+      "moved": false
+    }
+  }
+]

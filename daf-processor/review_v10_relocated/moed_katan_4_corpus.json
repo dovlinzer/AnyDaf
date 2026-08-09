@@ -1,0 +1,477 @@
+[
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "R. Akiva on Pasuk",
+    "candidates": [
+      "Override Framework",
+      "Tosefet Transmission",
+      "Tosefet Explanations",
+      "Rabban Gamliel Override",
+      "HLM MiSinai Evidence",
+      "Two-Layer Structure",
+      "HLM Status Question",
+      "R. Akiva on Pasuk",
+      "R. Yishmael on Pasuk",
+      "Synthesis: Pasuk + HLM"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly answers the question 've-hanei hilchata ninhu?' (are these halakhot or krai?) posed in heading 6's prose, citing Rabbi Akiva's derivation from the verse \u2014 this is the content heading 6 explicitly introduces, before headings 7 and 8 separately discuss Rabbi Akiva's and Rabbi Yishmael's positions in more detail.",
+      "chosen_heading": "HLM Status Question",
+      "current_heading": "R. Akiva on Pasuk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Synthesis: Pasuk + HLM",
+    "candidates": [
+      "R. Yishmael on Pasuk",
+      "Synthesis: Pasuk + HLM",
+      "Superfluous Pasuk",
+      "Akiva vs Yishmael"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rav Na\u1e25man bar Yitz\u1e25ak's synthetic resolution distinguishing what the halakha l'Moshe miSinai permits (young saplings) from what the pesukim prohibit (mature trees), followed by the gemara's immediate challenge to that synthesis \u2014 exactly the content described in the 'Synthesis: Pasuk + HLM' prose.",
+      "chosen_heading": "Synthesis: Pasuk + HLM",
+      "current_heading": "Synthesis: Pasuk + HLM",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Akiva vs Yishmael",
+    "candidates": [
+      "Superfluous Pasuk",
+      "Akiva vs Yishmael",
+      "Nullification Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's final resolution distinguishing Rabbi Yishmael's reliance on halakha l'Moshe miSinai from Rabbi Akiva's reliance on verses, which is precisely what the 'Akiva vs Yishmael' prose describes.",
+      "chosen_heading": "Akiva vs Yishmael",
+      "current_heading": "Akiva vs Yishmael",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Nullification Claim",
+    "candidates": [
+      "Nullification Claim",
+      "Shabbat Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yo\u1e25anan's claim that Rabban Gamliel nullified the restrictions based on Torah law, which matches the 'Nullification Claim' prose discussing Rabbi Yochanan's sweeping nullification claim and the question of its grounds.",
+      "chosen_heading": "Nullification Claim",
+      "current_heading": "Nullification Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Shabbat Comparison",
+    "candidates": [
+      "Shabbat Comparison",
+      "Tosefet Shabbat Parallel",
+      "Rav Ashi Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the gezeira shava deriving from the word Shabbat that only the Sabbatical Year itself is forbidden while before and after are permitted, which is precisely what the 'Shabbat Comparison' section's prose discusses.",
+      "chosen_heading": "Shabbat Comparison",
+      "current_heading": "Shabbat Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rav Ashi Objection",
+    "candidates": [
+      "Tosefet Shabbat Parallel",
+      "Rav Ashi Objection",
+      "HLM Time-Bound"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's objection asking whether a gezeira shava can uproot a halakha l'Moshe miSinai or a pasuk, which matches exactly the 'Rav Ashi Objection' section prose describing this precise challenge.",
+      "chosen_heading": "Rav Ashi Objection",
+      "current_heading": "Rav Ashi Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "HLM Time-Bound",
+    "candidates": [
+      "HLM Time-Bound",
+      "Kedusha vs Caution",
+      "Spring vs Collected",
+      "Gezeira Rationale",
+      "Rainwater Self-Problem",
+      "Concern Type Debate",
+      "Rivers from Swamps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Ashi's resolution about Rabban Gamliel holding like Rabbi Yishmael that the halakha l'Moshe miSinai applies only when the Beit HaMikdash stands, which is precisely what the prose under 'HLM Time-Bound' discusses.",
+      "chosen_heading": "HLM Time-Bound",
+      "current_heading": "HLM Time-Bound",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Rivers from Swamps",
+    "candidates": [
+      "Kedusha vs Caution",
+      "Spring vs Collected",
+      "Gezeira Rationale",
+      "Rainwater Self-Problem",
+      "Concern Type Debate",
+      "Rivers from Swamps",
+      "R. Yirmiyah Challenge",
+      "Bavel Swamps Never Dry",
+      "Pools Rule",
+      "Majority Field Condition",
+      "Continuous Flow Leniency"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Gezeira Rationale",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 discuss the prohibition on rainwater and the gezeira/kilon debate, matching the 'Gezeira Rationale' section's prose about why rainwater is prohibited and the two explanations (Rabbi Yochanan vs Rav Ashi).",
+      "second_heading": "Rivers from Swamps",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 examine Rabbi Zeira's ruling about streams from pools (agamim) and Rabbi Yirmiyah's challenge with Rabbi Zeira's response about Babylonian swamps, which matches the 'Rivers from Swamps' section's prose exactly.",
+      "current_heading": "Rivers from Swamps",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Continuous Flow Leniency",
+    "candidates": [
+      "R. Yirmiyah Challenge",
+      "Bavel Swamps Never Dry",
+      "Pools Rule",
+      "Majority Field Condition",
+      "Continuous Flow Leniency",
+      "Dripping Well"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Pappa's ruling (majority of field condition) and Rav Ashi's ruling (continuous flow leniency), but since it begins with Rav Pappa's statement about the majority field condition, and the 'Majority Field Condition' prose (index 3) describes exactly this content including Rav Pappa's qualification, the passage belongs under heading 3 \u2014 with Rav Ashi's continuation naturally following as part of the same textual unit introduced there.",
+      "chosen_heading": "Majority Field Condition",
+      "current_heading": "Continuous Flow Leniency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Dripping Well",
+    "candidates": [
+      "Continuous Flow Leniency",
+      "Dripping Well",
+      "Dripping Ongoing",
+      "Upper Spring Flowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly a pool receiving drips from one irrigated field that may be used to water another irrigated field, which is precisely what the 'Dripping Well' prose section describes.",
+      "chosen_heading": "Dripping Well",
+      "current_heading": "Dripping Well",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Upper Spring Flowing",
+    "candidates": [
+      "Dripping Ongoing",
+      "Upper Spring Flowing",
+      "Vegetable Hauling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both Rabbi Yirmiyah's statement (about ongoing dripping) and Abaye's addition (about the spring not having stopped), and while Abaye's point aligns with heading 1, the passage opens with the question and Rabbi Yirmiyah's answer which is the primary subject of heading 0; however, since both statements appear together as one unit and heading 1's prose explicitly describes Abaye's condition as well as the full chain concept, the current placement under heading 1 is actually a reasonable fit \u2014 but heading 0's prose describes Rabbi Yirmiyah's qualification which is the first and framing answer, making it a slightly better match for the combined passage's opening focus.",
+      "chosen_heading": "Dripping Ongoing",
+      "current_heading": "Upper Spring Flowing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Vegetable Hauling",
+    "candidates": [
+      "Vegetable Hauling",
+      "Dragging Water Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with drawing water for garden beds/vegetables on chol hamoed, and the 'Vegetable Hauling' prose explicitly discusses the baraita about drawing water for vegetables (madlin liyerakot), which is precisely item 2, while item 1 (the baraita about upper/lower garden beds and excessive exertion) provides the context for the tension discussed in that section's prose.",
+      "chosen_heading": "Vegetable Hauling",
+      "current_heading": "Vegetable Hauling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Dragging Water Story",
+    "candidates": [
+      "Dragging Water Story",
+      "Madlin = Thinning",
+      "Conflicting Baraita"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dragging Water Story",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the walking incident and Ravina's initial citation of the baraita permitting drawing water for vegetables, which matches heading 0's prose about the road encounter and the cherem question.",
+      "second_heading": "Madlin = Thinning",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rabba Tosfah's reinterpretation of 'madlin' as thinning (shalufi) and the supporting mishna about thinning vines, which is precisely what heading 1's prose describes.",
+      "current_heading": "Dragging Water Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Conflicting Baraita",
+    "candidates": [
+      "Madlin = Thinning",
+      "Conflicting Baraita",
+      "Furrow-Making Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Ravina citing the baraita about drawing water for vegetables and Rabba Tosefa'a conceding with 'i tanya tanya,' which is precisely what the 'Conflicting Baraita' prose describes.",
+      "chosen_heading": "Conflicting Baraita",
+      "current_heading": "Conflicting Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Furrow-Making Ban",
+    "candidates": [
+      "Furrow-Making Ban",
+      "Old vs New Furrows",
+      "R. Elazar Prohibition",
+      "Rabbis' Leniency",
+      "Oder vs Fitness"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Furrow-Making Ban",
+      "first_confidence": "high",
+      "first_reason": "Item 1 defines ugiyyot/binkei via Rav Yehuda and a baraita, which is exactly what candidate 0's prose describes as the identification of circular furrows.",
+      "second_heading": "Old vs New Furrows",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the contradiction from Rav Yehuda's permission and its resolution (new vs. old furrows), which is precisely what candidate 1's prose describes.",
+      "current_heading": "Furrow-Making Ban",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Oder vs Fitness",
+    "candidates": [
+      "Old vs New Furrows",
+      "R. Elazar Prohibition",
+      "Rabbis' Leniency",
+      "Oder vs Fitness",
+      "Two Rationales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Elazar ben Azarya's prohibition against making a water channel on chol hamoed and shemita, and poses the question about shemita's rationale \u2014 exactly what the 'R. Elazar Prohibition' prose describes, before the explanation of rationales is given in later sections.",
+      "chosen_heading": "R. Elazar Prohibition",
+      "current_heading": "Oder vs Fitness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Two Rationales",
+    "candidates": [
+      "Oder vs Fitness",
+      "Two Rationales",
+      "Water Flow Factor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the dispute between Rabbi Zeira and Rabbi Abba bar Memel with the two rationales (appearing like hoeing vs. preparing banks for planting), which directly matches the 'Two Rationales' section's prose describing exactly this debate and its two positions.",
+      "chosen_heading": "Two Rationales",
+      "current_heading": "Two Rationales",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Water Flow Factor",
+    "candidates": [
+      "Water Flow Factor",
+      "Oder Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the practical halakhic differences between the two rationales (machshir agapeha lezri'ah vs. nireh ke'oder) in the water-flow and dirt-removal scenarios, which is precisely what the 'Water Flow Factor' prose describes.",
+      "chosen_heading": "Water Flow Factor",
+      "current_heading": "Water Flow Factor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Oder Contradiction",
+    "candidates": [
+      "Oder Contradiction",
+      "Excrement Collection",
+      "Permissive View",
+      "R. Meir Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Ameimar's version of the mishna grounding Rabbi Elazar ben Azarya's ruling in 'nireh ke'oder' and the resulting contradiction within Rabbi Elazar ben Azarya's own rulings, which is exactly what the 'Oder Contradiction' prose describes.",
+      "chosen_heading": "Oder Contradiction",
+      "current_heading": "Oder Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "R. Meir Methods",
+    "candidates": [
+      "Excrement Collection",
+      "Permissive View",
+      "R. Meir Methods",
+      "R. Elazar Methods",
+      "Context Clarity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Meir Methods",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the contradiction from the mishna and Rabbi Meir's position (deepening/raising three handbreadths, adding to existing pile), which is precisely what the 'R. Meir Methods' prose describes.",
+      "second_heading": "R. Elazar Methods",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Elazar ben Azarya's parallel ruling with the added option of placing on a rock, which exactly matches the 'R. Elazar Methods' prose.",
+      "current_heading": "R. Meir Methods",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Context Clarity",
+    "candidates": [
+      "R. Elazar Methods",
+      "Context Clarity",
+      "Excrement as Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both resolutions (deepening the pit beforehand, and the manure serving as proof), and heading 1 'Context Clarity' introduces the two resolutions being offered, making it the correct home for this Gemara text that contains both answers together.",
+      "chosen_heading": "Context Clarity",
+      "current_heading": "Context Clarity",
+      "moved": false
+    }
+  }
+]

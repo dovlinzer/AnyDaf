@@ -29,7 +29,7 @@
           "timestamp": "02:25"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -48,8 +48,8 @@
           "timestamp": "05:30"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "The Broader Question of Ownership: Kinyan Peirot vs. Kinyan Haguf",
@@ -87,7 +87,7 @@
           "timestamp": "19:15"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -111,8 +111,8 @@
           "timestamp": "26:09"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "When Can a Husband Establish Chazakah on His Wife's Property?",
@@ -135,7 +135,7 @@
           "timestamp": "35:50"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -381,5 +381,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "17:21",
+  "amud_b_micro_title": "Rabbi Yose",
+  "shiur_start_daf": 50,
+  "shiur_start_amud": "a"
 }

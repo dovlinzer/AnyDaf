@@ -142,11 +142,7 @@ The *Gemara* resolves the problem by rereading the *mishnah*. The cases of *kona
 
 ### Shvuah Sleep
 
-Even after inserting the eyes as the physical object, a further problem emerges. If the *mishnah* means *konam einai besheina* without a *tnai* — that is, my eyes are always forbidden in sleep, full stop — then we face a different difficulty. Rabbi Yochanan teaches: *shvuah she-lo yishan shelosha yamim, malkin oto ve-yashen le-alter* — one who swears that he will not sleep for three days receives lashes immediately and may go to sleep at once. The reason is that such a *shvuah* cannot possibly be fulfilled; it is physically impossible for a human being to go without sleep for three days. Because it is impossible, the *shvuah* is treated as a *shvuat shav* or *shvuat sheker* from the moment it is uttered, it never takes effect, and the person is free to sleep immediately.
-
-The question posed by the *Gemara* is whether the same reasoning applies to a *neder*. If a person says *konam einai besheina* without qualification, he is in the same position: he cannot possibly fulfill this *neder*, since it is humanly impossible never to sleep. Does this mean the *neder* never takes effect?
-
----
+The *mishnah* says the *neder* takes effect (*chal*). But the *Gemara* raises a challenge from the principle that *shvuot* are more stringent than *nedarim* in one respect: a *shvuah* takes effect even on something non-physical (*davar she'ein bo mamash*), whereas a *neder* does not. This creates a problem at the very outset: how can our *mishnah* work at all? Sleep and walking are non-physical — *shina davar she'ein bo mamash hu*. The answer is that the *mishnah* must be read as *de'amar konam einai besheina* — "my eyes are forbidden in sleep" — making the eyes, a physical object, the subject of the *neder*, along the same lines as the final *mishnah* of the previous *perek*. This solves the first problem. But now a further difficulty arises: even granting that formulation, if the person simply says *konam einai besheina* without any qualifying condition (*tnai*), there is still another issue to contend with.
 
 ## Konam on Actions (II)
 

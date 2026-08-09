@@ -67,7 +67,7 @@
           "timestamp": "08:28"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -232,7 +232,7 @@
           "timestamp": "33:53"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -251,7 +251,7 @@
           "timestamp": "37:15"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 14,
       "matched": false
     }
   ],
@@ -520,5 +520,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "16:19",
+  "amud_b_micro_title": "Age Threshold",
+  "shiur_start_daf": 10,
+  "shiur_start_amud": "a"
 }

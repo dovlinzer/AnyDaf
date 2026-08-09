@@ -1,0 +1,254 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Rashi Explanation",
+    "candidates": [
+      "Bathhouse First",
+      "Aphrodite First",
+      "Mishna Bathhouse",
+      "Showing Honor",
+      "Rashi Explanation",
+      "Urination Evidence",
+      "Bitul Discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items address the challenge to Abaye's reasoning \u2014 item 1 raises the objection (even if Aphrodite came first, the mishna permits benefit from an idol's bathhouse anyway), and item 2 gives Rav \u1e24ama bar Yosef's response \u2014 which is precisely what candidate 1 ('Aphrodite First') describes: the gemara sharpening the question of what the ruling would have been had the bathhouse been built as an adjunct to the idol from the outset.",
+      "chosen_heading": "Aphrodite First",
+      "current_heading": "Rashi Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Bitul Discussion",
+    "candidates": [
+      "Urination Evidence",
+      "Bitul Discussion",
+      "Consistent Disrespect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Shimi bar \u1e24iyya's argument about the urination evidence AND the immediate Talmudic challenge to it, and candidate 0's prose covers both \u2014 Rav Shimi's point about urination demonstrating lack of reverence \u2014 while the challenge/rebuttal from the mishna is part of the same continuous dialectical unit that belongs under this heading, not split off under 'Bitul Discussion'.",
+      "chosen_heading": "Urination Evidence",
+      "current_heading": "Bitul Discussion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Consistent Disrespect",
+    "candidates": [
+      "Bitul Discussion",
+      "Consistent Disrespect",
+      "Ornament Hierarchy",
+      "Noy Concept",
+      "Connection Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the distinction between temporary rage (*lefi sha'ata*) and consistent disrespect (*kol sha'ata ve'sha'ata b'vizyonah kaymah*), which is precisely what the 'Consistent Disrespect' section's prose describes.",
+      "chosen_heading": "Consistent Disrespect",
+      "current_heading": "Consistent Disrespect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Connection Issue",
+    "candidates": [
+      "Ornament Hierarchy",
+      "Noy Concept",
+      "Connection Issue",
+      "Permitted Mountains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the 'Noy Concept' section's specific content: Rabba bar Ulla's point about verbal designation not creating forbidden status (ein hekdesh le'avodat kochavim) and Rav \u1e24ama bar Yosef's response that noy miha ika \u2014 there is still an adornment dimension \u2014 which the 'Noy Concept' prose explicitly discusses in sequence.",
+      "chosen_heading": "Noy Concept",
+      "current_heading": "Connection Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Permitted Mountains",
+    "candidates": [
+      "Connection Issue",
+      "Permitted Mountains",
+      "No Destruction",
+      "Focus On Benefit",
+      "Minority Status",
+      "Forbidden Plating",
+      "Yose HaGlili"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text about gentiles worshipping mountains and hills, which is exactly what the 'Permitted Mountains' section's prose introduces and discusses.",
+      "chosen_heading": "Permitted Mountains",
+      "current_heading": "Permitted Mountains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Yose HaGlili",
+    "candidates": [
+      "No Destruction",
+      "Focus On Benefit",
+      "Minority Status",
+      "Forbidden Plating",
+      "Yose HaGlili",
+      "Akiva's Map"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Yosei HaGelili's scriptural derivation permitting mountains/hills and the follow-up question about ashera answered by 'human involvement' \u2014 are precisely the content described in the 'Yose HaGlili' section prose, which is the current placement.",
+      "chosen_heading": "Yose HaGlili",
+      "current_heading": "Yose HaGlili",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Akiva's Map",
+    "candidates": [
+      "Akiva's Map",
+      "Mountain Status",
+      "Plating Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Akiva's statement about finding idol worship at high mountains, elevated hills, and leafy trees, which matches exactly the content described in the 'Akiva's Map' section prose.",
+      "chosen_heading": "Akiva's Map",
+      "current_heading": "Akiva's Map",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Plating Agreement",
+    "candidates": [
+      "Mountain Status",
+      "Plating Agreement",
+      "Initial Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern the Gemara's discussion of whether the coating/plating of a mountain has the same status as the mountain itself \u2014 exactly what the 'Plating Agreement' prose describes, including Rav Sheshet's resolution that everyone agrees the plating is not like the mountain.",
+      "chosen_heading": "Plating Agreement",
+      "current_heading": "Plating Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Initial Intent",
+    "candidates": [
+      "Initial Intent",
+      "Any Tree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states the disagreement between the Tanna Kamma and Rabbi Yosei HaGelili regarding a tree planted and subsequently worshipped, which is precisely what the 'Any Tree' section's prose discusses \u2014 Rabbi Yose HaGlili's position that such a tree is forbidden, contrasted with the Tanna Kamma's permission.",
+      "chosen_heading": "Any Tree",
+      "current_heading": "Initial Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Any Tree",
+    "candidates": [
+      "Initial Intent",
+      "Any Tree",
+      "Two Destructions",
+      "Three Stages",
+      "Growth After"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's inference that Rabbi Yose HaGlili's broad principle ('tefissat yad adam') includes a tree planted for ordinary purposes and subsequently worshipped, which is precisely what the 'Any Tree' section's prose discusses.",
+      "chosen_heading": "Any Tree",
+      "current_heading": "Any Tree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Growth After",
+    "candidates": [
+      "Two Destructions",
+      "Three Stages",
+      "Growth After"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in candidate 2's prose: Rabbi Yose bar Yehuda's derivation from the two destruction verses, the Rabbis' alternative reading via Rabbi Yehoshua ben Levi's sequential conquest stages, Rav Yosef's three-stage teaching, and the final derivation about eradicating the very names of idol worship \u2014 all of which are explicitly discussed in candidate 2's prose.",
+      "chosen_heading": "Growth After",
+      "current_heading": "Growth After",
+      "moved": false
+    }
+  }
+]

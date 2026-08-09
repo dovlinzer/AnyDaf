@@ -140,7 +140,7 @@
           "timestamp": "41:54"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -154,8 +154,8 @@
           "timestamp": "44:03"
         }
       ],
-      "sefaria_index": 16,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Baraita on the Forbidden Nature (Issur) in Torah and Hatfasa in Nedarim (continued)",
@@ -173,7 +173,7 @@
           "timestamp": "48:51"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -382,5 +382,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "38:00",
+  "amud_b_micro_title": "Baraita on Issur",
+  "shiur_start_daf": 19,
+  "shiur_start_amud": "b"
 }

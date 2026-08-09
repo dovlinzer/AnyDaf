@@ -1,0 +1,417 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Hakna'ah Overview",
+    "candidates": [
+      "Hakna'ah Overview",
+      "Shmuel's Position",
+      "Nachman's Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's direct ruling on returning a shtar hakna'ah, matching exactly the prose of 'Shmuel's Position' which describes his two-step reasoning about kasav lilvos velo lava and pira'on.",
+      "chosen_heading": "Shmuel's Position",
+      "current_heading": "Hakna'ah Overview",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Nachman's Testimony",
+    "candidates": [
+      "Shmuel's Position",
+      "Nachman's Testimony",
+      "Court Documents Rule",
+      "Chaltata Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Nachman's personal testimony about his father's role as a scribe in Shmuel's court and his childhood memory of the public announcement to return found shtarei kinyan, which is precisely what candidate 1 ('Nachman's Testimony') describes in its prose.",
+      "chosen_heading": "Nachman's Testimony",
+      "current_heading": "Nachman's Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Chaltata Exception",
+    "candidates": [
+      "Court Documents Rule",
+      "Chaltata Exception",
+      "Rava's Challenge",
+      "Redemption Rights",
+      "Rava's Rationale",
+      "Chaltata vs Debt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Amram's invocation of the mishnah (court documents rule) and Rabbi Zeira's limiting distinction about shtarei chaltata and adrachta not being subject to repayment \u2014 which is precisely what the 'Chaltata Exception' prose describes.",
+      "chosen_heading": "Chaltata Exception",
+      "current_heading": "Chaltata Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Chaltata vs Debt",
+    "candidates": [
+      "Rava's Challenge",
+      "Redemption Rights",
+      "Rava's Rationale",
+      "Chaltata vs Debt",
+      "Validated Docs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rava's challenge (citing the Nehardean shuma hadar rule and Ameimar's perpetual redemption view) and then Rava's alternative rationale (ee hu de-afsid anafshei), which together correspond to headings 0 and 2 \u2014 but since items 1-2 are already a continuous challenge-and-resolution unit, they belong under heading 2 'Rava's Rationale' which explicitly covers both the challenge and Rava's actual explanation.",
+      "second_heading": "Chaltata vs Debt",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 explain why the chaltata debtor must obtain a new bill of sale (midina ara lo bay le-mihadar / ve-asita ha-yashar) and contrast this with ordinary promissory notes where the creditor's retention of the document is excusable, which is precisely the content described under heading 3 'Chaltata vs Debt'.",
+      "current_heading": "Chaltata vs Debt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Validated Docs",
+    "candidates": [
+      "Validated Docs",
+      "Mishnah Challenge",
+      "Debtor Reliability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact ruling of Rabbi Abbahu citing Rabbi Yochanan about returning a found promissory note even with court validation, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Validated Docs",
+      "current_heading": "Validated Docs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Debtor Reliability",
+    "candidates": [
+      "Mishnah Challenge",
+      "Debtor Reliability",
+      "Payment Claim Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous chain \u2014 the ratification concern, Rabbi Yirmeya's objection from the mishnah, and Rava's rejection of the kafran resolution in favor of chaltata/adrachta \u2014 which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Debtor Reliability",
+      "current_heading": "Debtor Reliability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Payment Claim Setup",
+    "candidates": [
+      "Payment Claim Setup",
+      "Order Types",
+      "Zvid Harmonization",
+      "Witness Contradiction",
+      "Denial vs Payment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Payment Claim Setup",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the tzei ten lo vs chayav ata liten lo distinction and its consequences, matching headings 0 and 1's prose, and item 4 (Rav Zvid) concludes the harmonization topic covered by heading 2 \u2014 but items 1-3 together with the current placement under 'Payment Claim Setup' and 'Order Types' form the setup, while item 4 (Rav Zvid) belongs under 'Zvid Harmonization'.",
+      "second_heading": "Witness Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 describe the witness-contradiction scenario and the huchzak kafran consequence, which matches exactly the 'Witness Contradiction' heading's prose about witnesses testifying David did not pay and the resulting presumptive-denier status.",
+      "current_heading": "Payment Claim Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Denial vs Payment",
+    "candidates": [
+      "Order Types",
+      "Zvid Harmonization",
+      "Witness Contradiction",
+      "Denial vs Payment",
+      "Rabba Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explains the 'ishtamutei' rationale \u2014 that the debtor was merely evading/stalling because the court had not yet finalized its verdict \u2014 which is precisely what the 'Denial vs Payment' prose discusses as the justification for why David remains believed after lying when the formulation was 'chayav ata liten lo'.",
+      "chosen_heading": "Denial vs Payment",
+      "current_heading": "Denial vs Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Rabba Case",
+    "candidates": [
+      "Rabba Case",
+      "Shabtai Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabba bar bar \u1e24anna citing Rabbi Yo\u1e25anan about the exact case described in candidate 0's prose (mane li b'yadcha, denial, witnesses, then parati), which is the 'Rabba Case' section.",
+      "chosen_heading": "Rabba Case",
+      "current_heading": "Rabba Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Shabtai Case",
+    "candidates": [
+      "Shabtai Case",
+      "Oath Extension",
+      "Oath Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Shabtai case with Rabbi Chiyya ruling on huchzak kafran for the cloak obligation, which is exactly what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Shabtai Case",
+      "current_heading": "Shabtai Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Oath Distinction",
+    "candidates": [
+      "Oath Extension",
+      "Oath Distinction",
+      "Same-Day Docs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous discussion about the distinction between court-mandated and self-imposed oaths in the context of huchzak kafran, which is precisely what candidate 1 ('Oath Distinction') describes in its prose \u2014 including Rabbi Abbahu's clarification, Rabbi Avin's confirmation, and the parallel tradition explicitly cited there.",
+      "chosen_heading": "Oath Distinction",
+      "current_heading": "Oath Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Same-Day Docs",
+    "candidates": [
+      "Same-Day Docs",
+      "Reuse Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Assi's ruling about returning a same-day validated promissory note, which is precisely what heading 0 ('Same-Day Docs') discusses in its prose.",
+      "chosen_heading": "Same-Day Docs",
+      "current_heading": "Same-Day Docs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Reuse Problem",
+    "candidates": [
+      "Reuse Problem",
+      "Reuse Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the opening of the 'Reuse Problem' argument: item 1 explains why a same-day document can be returned (no concern for non-borrowing or repayment), item 2 introduces Rabbi Zeira's challenge about reuse after repayment, and item 3 is Rabbi Zeira's own elaboration showing that reuse is only conceivable on the same day \u2014 exactly the content described in the 'Reuse Problem' prose.",
+      "chosen_heading": "Reuse Problem",
+      "current_heading": "Reuse Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Reuse Resolution",
+    "candidates": [
+      "Reuse Resolution",
+      "Creditor Cooperation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the challenge that same-day repayment does occur, Rabbi Asi's response that it is merely uncommon, and Rav Kahana's 'when the debtor admits' alternative \u2014 are explicitly discussed in the 'Reuse Resolution' prose, which covers exactly this sequence of argument.",
+      "chosen_heading": "Reuse Resolution",
+      "current_heading": "Reuse Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Creditor Cooperation",
+    "candidates": [
+      "Creditor Cooperation",
+      "Early Dating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the concern about collusive reuse to save scribe fees and dismisses it because the creditor would not cooperate for fear of rabbinic sanction \u2014 exactly what the 'Creditor Cooperation' prose describes.",
+      "chosen_heading": "Creditor Cooperation",
+      "current_heading": "Creditor Cooperation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Early Dating",
+    "candidates": [
+      "Early Dating",
+      "Maaseh Beis Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous question-and-answer sequence about antedated (mukdam) promissory notes \u2014 the contradiction with the mishna about found notes, the explanation about Nisan/Tishrei, and the resolution that the creditor benefits from earlier liens \u2014 which is precisely the content discussed in the 'Early Dating' prose.",
+      "chosen_heading": "Early Dating",
+      "current_heading": "Early Dating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Maaseh Beis Din",
+    "candidates": [
+      "Maaseh Beis Din",
+      "Ketubah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together state the ruling of Rabbi \u1e24iyya bar Abba/Rabbi Yo\u1e25anan that a claim against a maaseh beis din is not accepted because it is like holding a shtar, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Maaseh Beis Din",
+      "current_heading": "Maaseh Beis Din",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Ketubah Proof",
+    "candidates": [
+      "Ketubah Proof",
+      "Documentation Requirement",
+      "Widow Erusin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi \u1e24iyya bar Abba's challenge from the Ketubot mishna and Rabbi Yo\u1e25anan's 'pearl beneath the shard' response \u2014 are precisely what the 'Ketubah Proof' prose describes, making the current placement the correct one.",
+      "chosen_heading": "Ketubah Proof",
+      "current_heading": "Ketubah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Widow Erusin",
+    "candidates": [
+      "Documentation Requirement",
+      "Widow Erusin",
+      "Braita Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Documentation Requirement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Abaye's initial challenge to Rabbi Yochanan's principle (the documentation alternative reading), which matches the 'Documentation Requirement' prose that explicitly describes Abaye questioning whether the mishnah proves Rabbi Yochanan's principle by suggesting the get serves as a kesubah substitute.",
+      "second_heading": "Widow Erusin",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Abaye's retraction and the almanah min ha'eirusin problem (b'mai gavya / mah ho'ilu chachamim), which is precisely what the 'Widow Erusin' prose describes in detail.",
+      "current_heading": "Widow Erusin",
+      "moved": true
+    }
+  }
+]

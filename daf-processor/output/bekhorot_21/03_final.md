@@ -1,12 +1,9 @@
-# Bekhorot 21 — Daf Yomi Shiur
-
+[DAF:20b]
 ## Intro & Minority
 
-### Daf Overview
 
-> **Hebrew/Aramaic:** לֵימָא קָסָבַר: מְטַנֶּפֶת אֵינָהּ חוֹזֶרֶת וְיוֹלֶדֶת בְּתוֹךְ שְׁנָתָהּ. אִם תִּימְצֵי לוֹמַר: מְטַנֶּפֶת חוֹזֶרֶת וְיוֹלֶדֶת בְּתוֹךְ שְׁנָתָהּ — יוֹלֶדֶת וַדַּאי אֵינָהּ חוֹזֶרֶת וְיוֹלֶדֶת בְּתוֹךְ שְׁנָתָהּ.
->
-> **Translation:** **Shall we say** the *tanna* of this *baraita* **holds** that an animal that **expels a murky discharge does not return** to its fertile state **and give birth within its first year?** The Gemara rejects this suggestion: It is possible the *tanna* does not hold that opinion. Even **if you say** an animal that **expels a murky discharge returns** to its fertile state **and gives birth within its first year,** an animal **that** actually **gave birth** to a live offspring **certainly does not return** to its fertile state **and give birth within its first year.**
+
+### Daf Overview
 
 Daf 21 is a relatively short daf, and part of the reason for its brevity lies in the massive *tosafot* that appears on 21b, under the heading *chalav*. That *tosafot* is essentially devoted to working out the general rule of whether we are concerned for minority possibilities in halachic reasoning — and it made the preceding daf shorter as well by extending the analysis there. Today's daf is compact not because the *gemara* lacks conceptual depth, but because the actual details of the cases described are particularly challenging to reconstruct, resulting in unusually large *Rashi* and *Tosafot* commentaries.
 
@@ -18,11 +15,9 @@ The overarching concern driving that lengthy *Tosafot* is the question of minori
 
 ## Multiple Births
 
-### First Birth Recap
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי שִׁמְעוֹן: אֲנִי רָאִיתִי גְּדִיָּיה כּוּ׳. מַאי אִיכָּא בֵּין תַּנָּא קַמָּא לְרַבִּי שִׁמְעוֹן? אִיכָּא בֵּינַיְיהוּ דִּזְעֵירִי.
->
-> **Translation:** § The *baraita* teaches that **Rabbi Shimon says: I saw** a single **kid** that yielded enough offspring to be subject to the tithe within its first year of life. By contrast, the first *tanna* in the *baraita* does not add the phrase: Within its first year of life. The Gemara asks: **What** difference **is there between** the opinion of **the first *tanna* and** that of **Rabbi Shimon?** The Gemara answers that there is a difference **between** them in a case where the second-generation goats expel a murky discharge on the first day of their seventh month, which is the seventh month of their year for animal tithe. And they disagree with regard to the statement **of Ze'eiri,** cited earlier, that the expulsion of a discharge which exempts an animal from having its future offspring counted a firstborn is one which prevents it from being impregnated for no less than thirty days.
+
+### First Birth Recap
 
 The broader topic we have been tracking concerns what happens when a sheep or goat gives birth and one does not know the animal's prior history — specifically, whether one must assume it is a *bechor*, and whether one must be concerned that it may have previously miscarried. The *gemara* yesterday presented a *baraita* with a scenario in which *ma'aser behemah* could be taken from the offspring of a single goat all within one year.
 
@@ -32,23 +27,30 @@ The broader topic we have been tracking concerns what happens when a sheep or go
 
 ### Sequential Births
 
-> **Hebrew/Aramaic:** תַּנָּא קַמָּא אִית לֵיהּ דִּזְעֵירִי, וְרַבִּי שִׁמְעוֹן לֵית לֵיהּ דִּזְעֵירִי. וְאִיבָּעֵית אֵימָא: דְּכוּלֵּי עָלְמָא אִית לְהוּ דִּזְעֵירִי, וְהָכָא בְּיוֹלֶדֶת לִמְקוּטָּעִין קָא מִיפַּלְגִי. לְתַנָּא קַמָּא אֵינָהּ יוֹלֶדֶת לִמְקוּטָּעִין, לְרַבִּי שִׁמְעוֹן יוֹלֶדֶת.
->
-> **Translation:** **The first *tanna* accepts** the statement **of Ze'eiri,** and therefore he holds that in such a case the goats cannot become pregnant before the first day of the eighth month, which means they cannot give birth before the first day of the second year. **And Rabbi Shimon does not accept** the statement **of Ze'eiri;** he holds that the goats can become pregnant during the seventh month and give birth during the last month of their first year of life. **And if you wish, say that everyone accepts** the statement **of Ze'eiri, and here they disagree** with regard to whether or not an animal **gives birth after incomplete** months, i.e., prematurely. **According to the first *tanna*,** an animal **does not give birth after incomplete** months; **according to Rabbi Shimon,** an animal **gives birth** after incomplete months.
-
 The *gemara* resolved this: it is possible for an animal that has miscarried to give birth again in the same year. But the case at hand concerns a mother who first had live children — three kids — and so to have her give birth a second time within the same year would require two separate live births in a single year, which may not be possible. Therefore, the *baraita* constructs the scenario through the children having children, not through the mother producing a second litter. With this background established, we turn to the daf before us.
 
 ---
 
 ## Rabbi Shimon Dispute
 
+
+
+[DAF:21a]
 ### Tanna Kamma vs Shimon
 
-> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא, דְּכוּלֵּי עָלְמָא אֵינָהּ יוֹלֶדֶת לִמְקוּטָּעִין, וְהָכָא בְּמִקְצָת הַיּוֹם כְּכוּלּוֹ קָמִיפַּלְגִי: לְתַנָּא קַמָּא — לָא אָמְרִינַן מִקְצָת הַיּוֹם כְּכוּלּוֹ, לְרַבִּי שִׁמְעוֹן — אָמְרִינַן מִקְצָת הַיּוֹם כְּכוּלּוֹ.
->
-> **Translation:** **And if you wish, say** that everyone accepts Ze'eiri's statement and **everyone agrees** that an animal **does not give birth after incomplete** months, **and here they disagree** with regard to whether or not the halakhic status of **part of the day is like an entire** day. **According to the first *tanna*, we do not say part of the day is like an entire** day, which means the earliest possible birth is on the first day of the second year. **According to Rabbi Shimon, we do say part of the day is like an entire** day, and therefore it is possible for the goat to give birth on the last day of the first year.
-
 Four lines from the top of 21a, the *gemara* cites Rabbi Shimon as saying: "I saw a goat give birth such that *ma'aser behemah* could be taken all within the same year" — which sounds like little more than a paraphrase of the *tanna kamma*'s position. The *gemara* therefore asks: *mai ika bein tanna kamma l'Rabbi Shimon* — what exactly distinguishes them? Both describe a scenario in which *ma'aser behemah* is possible within a single year.
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי שִׁמְעוֹן: אֲנִי רָאִיתִי גְּדִיָּיה כּוּ׳. מַאי אִיכָּא בֵּין תַּנָּא קַמָּא לְרַבִּי שִׁמְעוֹן? אִיכָּא בֵּינַיְיהוּ דִּזְעֵירִי.
+> **Translation:** § The *baraita* teaches that **Rabbi Shimon says: I saw** a single **kid** that yielded enough offspring to be subject to the tithe within its first year of life. By contrast, the first *tanna* in the *baraita* does not add the phrase: Within its first year of life. The Gemara asks: **What** difference **is there between** the opinion of **the first *tanna* and** that of **Rabbi Shimon?** The Gemara answers that there is a difference **between** them in a case where the second-generation goats expel a murky discharge on the first day of their seventh month, which is the seventh month of their year for animal tithe. And they disagree with regard to the statement **of Ze’eiri,** cited earlier, that the expulsion of a discharge which exempts an animal from having its future offspring counted a firstborn is one which prevents it from being impregnated for no less than thirty days.
+
+> **Hebrew/Aramaic:** תַּנָּא קַמָּא אִית לֵיהּ דִּזְעֵירִי, וְרַבִּי שִׁמְעוֹן לֵית לֵיהּ דִּזְעֵירִי. וְאִיבָּעֵית אֵימָא: דְּכוּלֵּי עָלְמָא אִית לְהוּ דִּזְעֵירִי, וְהָכָא בְּיוֹלֶדֶת לִמְקוּטָּעִין קָא מִיפַּלְגִי. לְתַנָּא קַמָּא אֵינָהּ יוֹלֶדֶת לִמְקוּטָּעִין, לְרַבִּי שִׁמְעוֹן יוֹלֶדֶת.
+> **Translation:** **The first *tanna* accepts** the statement **of Ze’eiri,** and therefore he holds that in such a case the goats cannot become pregnant before the first day of the eighth month, which means they cannot give birth before the first day of the second year. **And Rabbi Shimon does not accept** the statement **of Ze’eiri;** he holds that the goats can become pregnant during the seventh month and give birth during the last month of their first year of life. **And if you wish, say that everyone accepts** the statement **of Ze’eiri, and here they disagree** with regard to whether or not an animal **gives birth after incomplete** months, i.e., prematurely. **According to the first *tanna*,** an animal **does not give birth after incomplete** months; **according to Rabbi Shimon,** an animal **gives birth** after incomplete months.
+
+> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא, דְּכוּלֵּי עָלְמָא אֵינָהּ יוֹלֶדֶת לִמְקוּטָּעִין, וְהָכָא בְּמִקְצָת הַיּוֹם כְּכוּלּוֹ קָמִיפַּלְגִי: לְתַנָּא קַמָּא — לָא אָמְרִינַן מִקְצָת הַיּוֹם כְּכוּלּוֹ, לְרַבִּי שִׁמְעוֹן — אָמְרִינַן מִקְצָת הַיּוֹם כְּכוּלּוֹ.
+> **Translation:** **And if you wish, say** that everyone accepts Ze’eiri’s statement and **everyone agrees** that an animal **does not give birth after incomplete** months, **and here they disagree** with regard to whether or not the halakhic status of **part of the day is like an entire** day. **According to the first *tanna*, we do not say part of the day is like an entire** day, which means the earliest possible birth is on the first day of the second year. **According to Rabbi Shimon, we do say part of the day is like an entire** day, and therefore it is possible for the goat to give birth on the last day of the first year.
+
+> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: דְּכוּלֵּי עָלְמָא אָמְרִינַן מִקְצָת הַיּוֹם כְּכוּלּוֹ, וְהָכָא בִּמְחוּסַּר זְמַן נִכְנָס לַדִּיר לְהִתְעַשֵּׂר קָמִיפַּלְגִי,
+> **Translation:** **And if you wish, say** that **everyone agrees** that **part of the day is like an entire** day, **and here they disagree** with regard to whether or not an animal **whose time has not yet** arrived, i.e., one that is not yet seven days old, which may not be sacrificed on the altar, **enters the pen to be tithed.** According to the first *tanna* it does not enter the pen to be tithed; according to Rabbi Shimon, it does enter the pen to be tithed.
 
 ### Ze'iri Doctrine
 
@@ -69,6 +71,8 @@ This is where Ze'iri enters. The one-month waiting period that Ze'iri mandates a
 What troubles *Rashi* about this construction is that it seems to treat the mother differently from her offspring. The scenario requires the mother to wait a month before becoming pregnant, while the kids apparently do not. The asymmetry is difficult to justify. This is one of the reasons *Rashi* himself is uncomfortable with this reading, even as he presents it.
 
 ### Alternative Explanations
+
+
 
 One resolution offered is that the requirement to wait a month is not absolute — it is the *tanna kamma*'s default assumption, but the kids could in principle have become pregnant within their first month. The scenario is constructed so that the mother did wait a month, producing the conditions for the dispute, while the kids became pregnant earlier than the one-month mark. This is technically permissible even if atypical, and this is what makes the scenario function.
 
@@ -94,18 +98,16 @@ The fourth framing (*ve'ee ba'isayma*): perhaps everyone agrees on all of the ab
 
 ## Mechusar Zman
 
-### Young Animals
 
-> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא, דְּכוּלֵּי עָלְמָא אָמְרִינַן מִקְצָת הַיּוֹם כְּכוּלּוֹ, וְהָכָא בִּמְחוּסַּר זְמַן נִכְנָס לַדִּיר לְהִתְעַשֵּׂר קָמִיפַּלְגִי,
->
-> **Translation:** **And if you wish, say** that **everyone agrees** that **part of the day is like an entire** day, **and here they disagree** with regard to whether or not an animal **whose time has not yet** arrived, i.e., one that is not yet seven days old, which may not be sacrificed on the altar, **enters the pen to be tithed.** According to the first *tanna* it does not enter the pen to be tithed; according to Rabbi Shimon, it does enter the pen to be tithed.
+
+### Young Animals
 
 The final framing of the *tanna kamma*–Rabbi Shimon dispute introduced the question of whether an animal born just before *Rosh Chodesh Elul* — and therefore less than eight days old — can be sanctified as *ma'aser behemah* and counted toward the group from which *ma'aser* is taken. This question of *mechusar zman* — an animal that has not yet reached the minimum age for a *korban* — now becomes the focus.
 
+[DAF:21b]
 ### Baraita: <8 Days
 
 > **Hebrew/Aramaic:** וְהָתַנְיָא: רַבִּי שִׁמְעוֹן בֶּן יְהוּדָה אוֹמֵר מִשּׁוּם רַבִּי שִׁמְעוֹן: מְחוּסַּר זְמַן נִכְנָס לַדִּיר לְהִתְעַשֵּׂר, וַהֲרֵי הֵן כִּבְכוֹר — מָה בְּכוֹר קָדוֹשׁ לִפְנֵי זְמַנּוֹ וְקָרֵב לְאַחַר זְמַנּוֹ, אַף מְחוּסַּר זְמַן קָדוֹשׁ לִפְנֵי זְמַנּוֹ וְקָרֵב לְאַחַר זְמַנּוֹ.
->
 > **Translation:** The Gemara adds: **And** in fact **it is taught** in a *baraita* that **Rabbi Shimon ben Yehuda says in the name of Rabbi Shimon:** An animal **whose time has not yet** arrived **enters the pen to be tithed. And** these animals **are like a firstborn: Just as a firstborn** is **consecrated before its time and** is **sacrificed after its time, so too,** an animal **whose time has not yet** arrived is **consecrated before its time and sacrificed after its time.**
 
 The *gemara* cites a *baraita*: Rabbi Shimon ben Yehudah says in the name of Rabbi Shimon — and *stam* Rabbi Shimon in the *gemara* refers to Rabbi Shimon bar Yochai — that an animal which is *mechusar zman*, not yet eight days old, may nonetheless enter the pen for *ma'aser*: *mechusar zman nichnas l'dir l'hit'aser*.
@@ -118,11 +120,10 @@ This is explicitly an exception to the general rule. Normally, the Torah states 
 
 ### Korban Analogy
 
-> **Hebrew/Aramaic:** וְאַדְּיָלֵיף מִבְּכוֹר, נֵילַיף מִקֳּדָשִׁים? מִסְתַּבְּרָא מִבְּכוֹר הֲוָה לֵיהּ לְמֵילַף, שֶׁכֵּן: גּוֹאֵל, מוּם, תְּמוּרַת, אֲכִילָה.
->
-> **Translation:** The Gemara raises a difficulty: **But** rather **than deriving** the *halakha* of tithed animals **from the firstborn let one derive** it **from sacrificial** animals, which cannot be consecrated before their time arrives. The Gemara answers that **it is reasonable** to claim **it would be** appropriate **for one to derive** the *halakha* of tithed animals **from the firstborn, as** they have the following four aspects in common: First, unlike sacrificial animals, one cannot **redeem** a firstborn or a tithed animal even if it develops a blemish. Second, **a blemish** does not prevent them from being imbued with sanctity. Third, an animal that was rendered **a substitute** for a firstborn or a tithed animal is not sacrificed. Finally, they are **consumed** without having been redeemed, whereas other sacrificial animals must be redeemed first.
-
 The *gemara* challenges: rather than deriving *ma'aser* from *bechor*, why not derive it from other *korbanot*, where sanctification of a *mechusar zman* animal is not effective? The *gemara* therefore moves to a classical comparison — to which category is *ma'aser* more properly analogous?
+
+> **Hebrew/Aramaic:** וְאַדְּיָלֵיף מִבְּכוֹר, נֵילַיף מִקֳּדָשִׁים? מִסְתַּבְּרָא מִבְּכוֹר הֲוָה לֵיהּ לְמֵילַף, שֶׁכֵּן: גּוֹאֵל, מוּם, תְּמוּרַת, אֲכִילָה.
+> **Translation:** The Gemara raises a difficulty: **But** rather **than deriving** the *halakha* of tithed animals **from the firstborn let one derive** it **from sacrificial** animals, which cannot be consecrated before their time arrives. The Gemara answers that **it is reasonable** to claim **it would be** appropriate **for one to derive** the *halakha* of tithed animals **from the firstborn, as** they have the following four aspects in common: First, unlike sacrificial animals, one cannot **redeem** a firstborn or a tithed animal even if it develops a blemish. Second, **a blemish** does not prevent them from being imbued with sanctity. Third, an animal that was rendered **a substitute** for a firstborn or a tithed animal is not sacrificed. Finally, they are **consumed** without having been redeemed, whereas other sacrificial animals must be redeemed first.
 
 ### Shared Properties
 
@@ -140,17 +141,17 @@ The *gemara* states that it makes more sense to compare *ma'aser* to *bechor* �
 
 ### Achila
 
+
 *Achila* is the fourth point. *Rashi* explains that this refers to the fact that *bechor* and *ma'aser*, when blemished, are eaten without first being brought as a *korban* — they are eaten outside the *Beit HaMikdash* entirely. This might seem to overlap with *mum*, but *Rashi* distinguishes them: *mum* addresses the rule established in the previous *perek* — that if an animal has a blemish before sanctification, the *kedushah* is ordinarily only of the monetary kind. *Achila* addresses the practical consequence: even with a *mum*, they are eaten rather than redeemed. All four properties point toward the same underlying principle — that *bechor* and *ma'aser* have identity-based *kedushah* rather than instilled *kedushah*, and that principle is what makes Rabbi Shimon's position coherent: if the *kedushah* can apply even when a *mum* precedes it, perhaps the *kedushah* can apply even when the animal has not yet reached the minimum age.
 
-### Identity Kedushah
-
-> **Hebrew/Aramaic:** אַדְּרַבָּה, מִקֳּדָשִׁים הֲוָה לֵיהּ לְמֵילַף, שֶׁכֵּן זָכָר, קָדוֹשׁ, בְּמַתָּנוֹת, פָּשׁוּט. אֶלָּא רַבִּי שִׁמְעוֹן ״הַעֲבָרָה״ ״הַעֲבָרָה״ גְּמִיר.
->
-> **Translation:** The Gemara responds: **On the contrary, it would be** appropriate **for one to derive** the *halakha* of tithed animals **from sacrificial** animals, **as** they have the following in common: First, unlike firstborn animals, both tithed and consecrated animals are not limited to **males.** Second, both are sanctified by human action rather than intrinsically **consecrated.** Additionally, they are not included among the **gifts** to the priest. Finally, both begin life as **regular** animals rather than as animals with the unique status of being born first. The Gemara accepts this objection: **Rather, Rabbi Shimon derives** the *halakha* from a verbal analogy between the term: "You shall **pass"** (Exodus 13:12), written with regard to the firstborn, and the term: "Whatsoever **passes** under the rod" (Leviticus 27:32), stated with regard to tithed animals.
+### Identity Kedusha
 
 These four properties are deeply interconnected and all derive from the same source: the *kedushah* of *bechor* and *ma'aser* is not an abstract quality instilled by an act of the owner but is intrinsic to the animal's standing as first or tenth. It is worth noting that *ma'aser* occupies an interesting middle position in this regard — unlike *bechor*, it is the owner's act of counting that designates which animal is the tenth. The *kedushah* does not arise entirely without human action. And yet, once designated as the tenth, the *kedushah* is fully identity-based and cannot be transferred. It is a midpoint between naturally arising *kedushah* and deliberately instilled *kedushah*.
 
 ### Counter-Analogy
+
+> **Hebrew/Aramaic:** אַדְּרַבָּה, מִקֳּדָשִׁים הֲוָה לֵיהּ לְמֵילַף, שֶׁכֵּן זָכָר, קָדוֹשׁ, בְּמַתָּנוֹת, פָּשׁוּט. אֶלָּא רַבִּי שִׁמְעוֹן ״הַעֲבָרָה״ ״הַעֲבָרָה״ גְּמִיר.
+> **Translation:** The Gemara responds: **On the contrary, it would be** appropriate **for one to derive** the *halakha* of tithed animals **from sacrificial** animals, **as** they have the following in common: First, unlike firstborn animals, both tithed and consecrated animals are not limited to **males.** Second, both are sanctified by human action rather than intrinsically **consecrated.** Additionally, they are not included among the **gifts** to the priest. Finally, both begin life as **regular** animals rather than as animals with the unique status of being born first. The Gemara accepts this objection: **Rather, Rabbi Shimon derives** the *halakha* from a verbal analogy between the term: “You shall **pass”** (Exodus 13:12), written with regard to the firstborn, and the term: “Whatsoever **passes** under the rod” (Leviticus 27:32), stated with regard to tithed animals.
 
 The *gemara* counters: *adaraba mikosham hava lei lemilaf* — perhaps one should rather derive *ma'aser* from regular *korbanot*. The four grounds offered are: *zachar* — *bechor* must be male, but *ma'aser* like other *korbanot* need not be; *kadosh* — *ma'aser* requires a human act of designation, as with regular *korbanot*, unlike *bechor* which is sanctified automatically; *b'matanos* — *bechor* is a *matnat kehunah* going to the *kohen*, whereas *ma'aser* like certain other *korbanot* is eaten by the owners; and the fourth, that *ma'aser* is not itself required to be a *bechor*, and indeed cannot be one. These are genuine similarities, though they feel less central than the four *bechor*-*ma'aser* parallels. Nevertheless, the *gemara* treats the comparison as four against four, leaving the analogy-based argument at a standoff.
 
@@ -162,15 +163,14 @@ Since the analogical argument cannot resolve the question definitively — eithe
 
 ## Miscarriage Signs
 
-### Miscarriage Definition
 
-> **Hebrew/Aramaic:** הֵיכִי דָּמֵי טִינּוּף? אָמַר רָבָא, כִּדְאָמְרִי רָעֲוָתָא: דְּצָלְתָּא אֲצַר חֵיוְתָא. וּשְׁמוּאֵל אָמַר: בַּעְבּוּעֵי דִּדְמָא. וְצָרִיךְ לְהַרְאוֹתוֹ לְחָכָם. חָכָם מְנָא יָדַע? אָמַר רַב פָּפָּא: רוֹעֶה חָכָם.
->
-> **Translation:** § The mishna teaches that a murky discharge is evidence of an offspring and exempts any future offspring from being counted a firstborn. The Gemara asks: **What is considered a murky discharge** that exempts future offspring from firstborn status? **Rava says: As the shepherds say: A murky [*detzalta*]** discharge from the womb is an indicator of a fetus that **the animal suppressed** in its womb. **And Shmuel says:** It is **bubbles of blood.** The Gemara adds: **And one must show** the discharge **to a Sage [*ḥakham*]** in order to determine its status. The Gemara asks: **A Sage? From where would he know** how to determine its nature? **Rav Pappa says:** The reference is to **a knowledgeable [*ḥakham*] shepherd,** who is familiar with the different types of discharge an animal can produce.
+
+### Miscarriage Definition
 
 Returning to the central concern of the *masechta*, the *gemara* now addresses the question of how to identify whether what emerged from an animal constitutes a true miscarriage — with implications both for the mother's *tumah* status in the human case and for the *bechor* status of the next birth in the animal case. There are two distinct questions: first, was this in fact an aborted pregnancy rather than some other discharge? Second, even if it was an aborted pregnancy, was the fetus sufficiently developed that its miscarriage exempts the mother from *bechor* for the subsequent birth?
 
 ### Raba's Signs
+
 
 *Heichi dami tinof* — how does one assess a miscarriage? *Amar Rava*: like the shepherds of Tzaltza say, *atzar chayuta*. *Rashi* explains this as meaning that the womb was somehow closed or constricted — *ne'etzar rachmah* — and the fetus dissolved within it, *venimok ha'ubar*. The term *chayuta* may mean the life of the fetus was somehow held back or squeezed out, and the result is what emerges from the animal. This describes the internal mechanism rather than the visual appearance of what one sees.
 
@@ -180,13 +180,15 @@ Shmuel describes the appearance more directly: *bavu'ei dedama* — bubbles or c
 
 ### Expert Consultation
 
+> **Hebrew/Aramaic:** הֵיכִי דָּמֵי טִינּוּף? אָמַר רָבָא, כִּדְאָמְרִי רָעֲוָתָא: דְּצָלְתָּא אֲצַר חֵיוְתָא. וּשְׁמוּאֵל אָמַר: בַּעְבּוּעֵי דִּדְמָא. וְצָרִיךְ לְהַרְאוֹתוֹ לְחָכָם. חָכָם מְנָא יָדַע? אָמַר רַב פָּפָּא: רוֹעֶה חָכָם.
+> **Translation:** § The mishna teaches that a murky discharge is evidence of an offspring and exempts any future offspring from being counted a firstborn. The Gemara asks: **What is considered a murky discharge** that exempts future offspring from firstborn status? **Rava says: As the shepherds say: A murky [*detzalta*]** discharge from the womb is an indicator of a fetus that **the animal suppressed** in its womb. **And Shmuel says:** It is **bubbles of blood.** The Gemara adds: **And one must show** the discharge **to a Sage [*ḥakham*]** in order to determine its status. The Gemara asks: **A Sage? From where would he know** how to determine its nature? **Rav Pappa says:** The reference is to **a knowledgeable [*ḥakham*] shepherd,** who is familiar with the different types of discharge an animal can produce.
+
 The *gemara* then says: *vetzarich leharot lechacham* — it must be shown to a *chacham* for assessment. But the *gemara* immediately questions this: *chacham mena yada* — what does a Torah scholar in the *beit midrash* know about animal miscarriages? The answer is given by Rav Papa: *ro'eh chacham* — a shepherd who is an expert. When the *gemara* says to show it to a *chacham*, it means an expert in the relevant domain, not a *posek*. The conclusion is explicit: if you want to know whether an animal has miscarried, ask an expert shepherd, not a rabbi.
 
 ### Forty Days
 
 > **Hebrew/Aramaic:** אָמַר רַב חִסְדָּא: הֲרֵי אָמְרוּ יְצִירַת הַוָּולָד בָּאִשָּׁה אַרְבָּעִים יוֹם. בָּעֵי רַב חִסְדָּא: בִּבְהֵמָה בְּכַמָּה? אֲמַר לֵיהּ רַב פָּפָּא לְאַבָּיֵי: לָאו הַיְינוּ דִּזְעֵירִי, דְּאָמַר זְעֵירִי: אֵין טִינּוּף פָּחוֹת מִשְּׁלֹשִׁים יוֹם? הַהוּא לְקַבֵּל אִיתְּמַר.
->
-> **Translation:** **Rav Ḥisda says: They said the formation of a fetus in a woman** takes **forty days. Rav Ḥisda** therefore **asks: In an animal, how many** days does it take for the fetus to form? **Rav Pappa said to Abaye: Isn't this** question resolved by that **which Ze'eiri said, as Ze'eiri said: A murky discharge** occurs **no less than thirty days** after conception? The Gemara explains: No; **that was stated with regard to** the thirty days after expulsion of a murky discharge, during which a female does not **show receptivity to** a male and does not become pregnant. The Gemara leaves Rav Ḥisda's inquiry unresolved.
+> **Translation:** **Rav Ḥisda says: They said the formation of a fetus in a woman** takes **forty days. Rav Ḥisda** therefore **asks: In an animal, how many** days does it take for the fetus to form? **Rav Pappa said to Abaye: Isn’t this** question resolved by that **which Ze’eiri said, as Ze’eiri said: A murky discharge** occurs **no less than thirty days** after conception? The Gemara explains: No; **that was stated with regard to** the thirty days after expulsion of a murky discharge, during which a female does not **show receptivity to** a male and does not become pregnant. The Gemara leaves Rav Ḥisda’s inquiry unresolved.
 
 Rav Chisda introduces the human parallel: *yetzirat havlad be'ishah arba'im yom* — fetal formation in a human woman occurs at forty days. The halachic significance of this threshold is twofold: if a woman miscarries before forty days, she does not become *teme'ah leidah*, as it is not considered a birth for these purposes; and in the context of *bechor*, if the miscarriage occurs before forty days it is not considered a prior birth and the next child remains a *bechor*, whereas if it occurs after forty days, the next child is exempt. The forty-day threshold is understood as the point at which the fetus has taken on enough form to be halachically recognized as a fetus. What exactly constitutes that formation is a matter of biological interest — the *gemara* seems to understand it in terms of the fetus taking on a recognizable shape, limbs acquiring some form — though the precise developmental biology involved is not fully resolved in the text.
 
@@ -206,13 +208,17 @@ The *gemara* responds: *hahu lekabla itmar* — Ze'iri's statement was said rega
 
 ## Buyer Context
 
+
+
 ### Seller Type
 
-> **Hebrew/Aramaic:** מָצִינוּ לוֹקֵחַ מִגּוֹי, לוֹקֵחַ מִיִּשְׂרָאֵל מַאי? אָמַר רַב: בְּכוֹר וַדַּאִי, דְּאִם אִיתָא דְּבִכְּרָה — אִישְׁתַּבּוֹחֵי הֲוָה מִישְׁתַּבַּח לֵיהּ.
->
+Having discussed what assumptions can be made when an animal's prior birth history is unknown, the *gemara* now turns to a related question: to what degree can one rely on explicit or implicit statements made by the seller? Until now, the discussion assumed one bought from a non-Jew. The *gemara* now addresses the case of buying from a Jew.
+
+> **Hebrew/Aramaic:** מָצִינוּ לוֹקֵחַ מִגּוֹי, לוֹקֵחַ מִיִּשְׂרָאֵל מַאי? אָמַר רַב: בְּכוֹר וַדַּאי, דְּאִם אִיתָא דְּבִכְּרָה — אִישְׁתַּבּוֹחֵי הֲוָה מִישְׁתַּבַּח לֵיהּ.
 > **Translation:** § **We found** that the mishna discusses the *halakha* of one **who purchases** an animal **from a gentile.** The Gemara asks: **What** is the *halakha* with regard to **one who purchases** an animal **from a Jew** and it is unknown whether the animal had previously given birth? **Rav says:** Its offspring is **a definite firstborn, as if it is so that it had** previously **given birth to a firstborn,** the owner **would have boasted to** the buyer about the fact that he would not have to give its offspring to a priest.
 
-Having discussed what assumptions can be made when an animal's prior birth history is unknown, the *gemara* now turns to a related question: to what degree can one rely on explicit or implicit statements made by the seller? Until now, the discussion assumed one bought from a non-Jew. The *gemara* now addresses the case of buying from a Jew.
+> **Hebrew/Aramaic:** וּשְׁמוּאֵל אָמַר: בְּכוֹר סָפֵק, סָבַר לִשְׁחִיטָה קָא בָעֵי לֵיהּ. וְרַבִּי יוֹחָנָן אָמַר: חוּלִּין וַדָּאִין, מַאי טַעְמָא? אִם אִיתָא דְּלֹא בִּכְּרָה, כֵּיוָן דְּאִיכָּא אִיסּוּרָא, אוֹדוֹעֵי הֲוָה מוֹדַע לֵיהּ.
+> **Translation:** **And Shmuel says:** The **firstborn** status of its offspring is **uncertain,** as even if it had previously given birth the seller **thinks** the buyer **wants it for slaughter,** and therefore he does not bother informing him of its status. **And Rabbi Yoḥanan says:** Its offspring is **certainly a non-sacred** animal. **What is the reason? If it is so that it had not** previously **given birth, since there is a prohibition** involved, it can be assumed that the seller **would have notified** the buyer of the animal’s status.
 
 ### Rav: Silence=No Birth
 
@@ -228,13 +234,10 @@ Why would a prior birth be a selling point? *Rashi*'s explanation is that the se
 
 ### Shmuel: Safek
 
-> **Hebrew/Aramaic:** וּשְׁמוּאֵל אָמַר: בְּכוֹר סָפֵק, סָבַר לִשְׁחִיטָה קָא בָעֵי לֵיהּ. וְרַבִּי יוֹחָנָן אָמַר: חוּלִּין וַדָּאִין, מַאי טַעְמָא? אִם אִיתָא דְּלֹא בִּכְּרָה, כֵּיוָן דְּאִיכָּא אִיסּוּרָא, אוֹדוֹעֵי הֲוָה מוֹדַע לֵיהּ.
->
-> **Translation:** **And Shmuel says:** The **firstborn** status of its offspring is **uncertain,** as even if it had previously given birth the seller **thinks** the buyer **wants it for slaughter,** and therefore he does not bother informing him of its status. **And Rabbi Yoḥanan says:** Its offspring is **certainly a non-sacred** animal. **What is the reason? If it is so that it had not** previously **given birth, since there is a prohibition** involved, it can be assumed that the seller **would have notified** the buyer of the animal's status.
-
 Shmuel disagrees: *bechor safek* — silence leaves the status uncertain. Nothing can be conclusively inferred from the seller's failure to praise the animal's prior birth history.
 
 ### Slaughter Assumption
+
 
 Shmuel's reasoning: *lishchita ka ba'ei lei* — the seller may have assumed the buyer intended to slaughter the animal immediately, in which case its prior birth history is irrelevant and there would be no occasion to mention it. Indeed, once an animal is slaughtered it may not matter at all whether it had previously given birth, and if anything the prior birth might be a drawback — as one suggested, older animals that have already given birth can have tougher meat. Since silence can be explained by the seller's assumption that the buyer will slaughter, nothing can be inferred from that silence.
 
@@ -244,13 +247,12 @@ Rabbi Yochanan takes the opposite extreme from Rav: *chullin vadai* — one can 
 
 ### Seller Warning
 
-> **Hebrew/Aramaic:** תַּנְיָא כְּוָותֵיהּ דְּרַבִּי יוֹחָנָן, דְּאָמַר חוּלִּין: אִם לֹא הוֹדִיעוֹ — הוֹלֵךְ וְשׁוֹחֵט וְאֵינוֹ נִמְנָע. לֵימָא תֶּיהְוֵי תְּיוּבְתָּא דְּרַב וּשְׁמוּאֵל? הָתָם בְּמוֹכֵר תַּלְיָא מִילְּתָא, הָכָא בְּלוֹקֵחַ תַּלְיָא מִילְּתָא.
->
-> **Translation:** The Gemara notes: It **is taught** in a *baraita* **in accordance with** the opinion **of Rabbi Yoḥanan, who says** the offspring is **non-sacred:** With regard to the prohibition against slaughtering a mother and its offspring in the same day, **if** the seller **did not inform** the buyer that the mother or offspring of the animal he is purchasing was sold earlier that day, the buyer may **go and slaughter the animal and he** need **not refrain** from doing so. **Shall we say this** *baraita* is **a conclusive refutation of** the opinions of **Rav and Shmuel?** The Gemara rejects this suggestion: **There,** with regard to slaughtering a mother and its offspring, **the matter is dependent upon the seller,** as it is his responsibility to notify the buyer. **Here,** in the case of a firstborn, **the matter is dependent upon the buyer,** and it is his responsibility to inquire about the animal's status.
-
 Rabbi Yochanan's reasoning: *im issa d'lo bichra, kivan d'ika issura* — if the animal had not yet given birth, and there is therefore a potential *issur* that the buyer might stumble into by not recognizing the next birth as a *bechor*, then *udoi havai modi lei* — the seller would surely have warned the buyer. A responsible person selling an animal to someone who might unknowingly misuse a *bechor* would feel obligated to flag that concern. From the seller's silence, we conclude he has nothing to warn about — the animal has already given birth.
 
 ### Responsibility
+
+> **Hebrew/Aramaic:** תַּנְיָא כְּוָותֵיהּ דְּרַבִּי יוֹחָנָן, דְּאָמַר חוּלִּין: אִם לֹא הוֹדִיעוֹ — הוֹלֵךְ וְשׁוֹחֵט וְאֵינוֹ נִמְנָע. לֵימָא תֶּיהְוֵי תְּיוּבְתָּא דְּרַב וּשְׁמוּאֵל? הָתָם בְּמוֹכֵר תַּלְיָא מִילְּתָא, הָכָא בְּלוֹקֵחַ תַּלְיָא מִילְּתָא.
+> **Translation:** The Gemara notes: It **is taught** in a *baraita* **in accordance with** the opinion **of Rabbi Yoḥanan, who says** the offspring is **non-sacred:** With regard to the prohibition against slaughtering a mother and its offspring in the same day, **if** the seller **did not inform** the buyer that the mother or offspring of the animal he is purchasing was sold earlier that day, the buyer may **go and slaughter the animal and he** need **not refrain** from doing so. **Shall we say this** *baraita* is **a conclusive refutation of** the opinions of **Rav and Shmuel?** The Gemara rejects this suggestion: **There,** with regard to slaughtering a mother and its offspring, **the matter is dependent upon the seller,** as it is his responsibility to notify the buyer. **Here,** in the case of a firstborn, **the matter is dependent upon the buyer,** and it is his responsibility to inquire about the animal’s status.
 
 The *gemara* notes that a *baraita* appears to support Rabbi Yochanan: we know that on four occasions during the year when it is common to purchase animals for slaughter, a butcher who sold the mother and then the child on the same day, or the child and then the mother, must announce this to subsequent buyers — so that the next person who slaughters does not violate *oso v'et beno*. If the butcher said nothing, *holech v'shochet v'eino nimna* — the buyer may proceed to slaughter without concern. Silence implies there is no problem. The *gemara* therefore entertains that this *baraita* supports Rabbi Yochanan and refutes both Rav and Shmuel.
 
@@ -274,6 +276,8 @@ By contrast, in the *bechor* case, the seller's knowledge may be uncertain, the 
 
 According to *Tosafot*, this distinction is not arbitrary but arises from the relative positions of knowledge and moral exposure. How much is it my responsibility, and how much is it buyer beware? The answer depends on: does the seller have full knowledge? Does the seller know the buyer is about to sin? Is the seller the only one who can prevent it? In the *oso v'et beno* case, all three conditions are met and the obligation is fully the seller's. In the *bechor* case, none of them are, and the obligation is the buyer's. This is a more compelling analysis than *Rashi*'s, which makes the distinction somewhat mechanical through appeal to a verse.
 
+All of the foregoing concerns cases where the seller says nothing at all. It is worth noting, before turning to the non-Jewish seller, that the implicit assumption of the entire discussion is that if the seller — whether a *Yisrael* or, as the *gemara* will now consider, a non-Jew — explicitly tells you the animal's status, that statement is simply believed. The entire analytical weight of the sugya rests on what can be inferred from silence; explicit disclosure is a different matter, and the question of what to do when a non-Jewish seller speaks explicitly is precisely what the *gemara* takes up next.
+
 ### Non-Jew Seller
 
 We now return to the case of buying from a non-Jew. The implicit question is what one can infer from a non-Jewish seller's statements — both explicit and implicit. The prior discussion assumed one simply could not rely on a non-Jew's statement. The *gemara* now makes this explicit.
@@ -294,11 +298,12 @@ These concerns are heightened specifically in the context of non-Jewish sellers 
 
 ## Large Animal Miscarriage
 
+
+
 ### Mishna: Clots
 
 > **Hebrew/Aramaic:** מַתְנִי׳ רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר: בְּהֵמָה גַּסָּה שֶׁשָּׁפְעָה חֲרָרַת דָּם, הֲרֵי זוֹ תִּקָּבֵר, וּפְטוּרָה מִן הַבְּכוֹרָה.
->
-> **Translation:** MISHNA: **Rabbi Eliezer ben Ya'akov says:** In the case of **a large animal that expelled a mass of** congealed **blood, that** mass **must be buried.** The reason is that perhaps there was a male fetus there which was consecrated as a firstborn when it emerged, **and** the animal **is exempt from** having any future offspring counted **a firstborn.**
+> **Translation:** MISHNA: **Rabbi Eliezer ben Ya’akov says:** In the case of **a large animal that expelled a mass of** congealed **blood, that** mass **must be buried.** The reason is that perhaps there was a male fetus there which was consecrated as a firstborn when it emerged, **and** the animal **is exempt from** having any future offspring counted **a firstborn.**
 
 The *gemara* now presents the *mishna* of Rabbi Eliezer ben Yaakov: if a large domesticated animal — *behemah gassah*, i.e., a cow — expelled clots or clumps of blood, *harei zo tikkaver* — it must be buried — *peturah min habechorah* — and the mother is exempt from *bechor* for the next birth.
 
@@ -308,17 +313,20 @@ The burial requirement is stated alongside the exemption from *bechor*, and the 
 
 ### Rabbi Chiyya
 
-> **Hebrew/Aramaic:** גְּמָ׳ תָּנֵי רַבִּי חִיָּיא: אֵינָהּ מְטַמְּאָה לֹא בְּמַגָּע וְלֹא בְּמַשָּׂא. וּמֵאַחַר דְּאֵינָהּ מְטַמְּאָה לֹא בְּמַגָּע וְלֹא בְּמַשָּׂא, אַמַּאי תִּקָּבֵר?
->
+> **Hebrew/Aramaic:** גְּמָ׳ תָּנֵי רַבִּי חִיָּיא: אֵינָהּ מְטַמְּאָה לֹא בְּמַגָּע וְלֹא בְּמַשָּׂא. וּמֵאַחַר דְּאֵינָהּ מְטַמְּאָה לֹא בְּמַגָּע וְלֹא בְּמַשָּׂא, אַמַּאי תִּקָּבֵר?
 > **Translation:** GEMARA: **Rabbi Ḥiyya teaches:** That mass of congealed blood **does not impart** ritual **impurity, neither through** physical **contact nor through carrying** it. The Gemara asks: **But since does not impart impurity, neither through contact nor through carrying,** which indicates that it is not considered a fetus, **why** must it be **buried?**
 
 *Tani Rabbi Hiyya*: it does not cause *tumah* — *einah metammah lo bemaga velo bemassa* — neither through contact nor through carrying. It is therefore not *neveilah* in the conventional sense.
 
 ### Burial Paradox
 
+
 The *gemara* immediately asks: if it does not cause *tumah* — meaning the fetus was not formed — then why must it be buried, and why is the mother exempt from *bechor*? If there is no fetus, there is no prior birth, and burial seems unnecessary.
 
 ### Burial Purpose
+
+> **Hebrew/Aramaic:** כְּדֵי לְפַרְסְמָהּ שֶׁנִּפְטְרָה מִן הַבְּכוֹרָה.
+> **Translation:** The Gemara answers: It must be buried **in order to publicize that** the animal **is exempt from** having its future offspring counted **a firstborn.**
 
 The *gemara* answers the first question: *kedei lefarsem she'niptarah min habechorah* — the burial is not because the clots constitute *neveilah*, but because burying them announces publicly that the mother has been discharged from the obligation of *bechor*. The act of burial is a declaration: this was treated as a birth, and therefore the next offspring is not a *bechor*.
 
@@ -326,11 +334,11 @@ The *gemara* answers the first question: *kedei lefarsem she'niptarah min habech
 
 But this answer creates the second problem: if the burial functions as a declaration that what emerged is a fetus — enough to exempt the mother — then why doesn't it cause *tumah*? A formed fetus that constitutes a *nefel* ought to convey *tumah* through contact and carrying.
 
+> **Hebrew/Aramaic:** לְמֵימְרָא דְּוָלָד מְעַלְּיָא הוּא, וְאַמַּאי אֵין מְטַמֵּא לֹא בְּמַגָּע וְלֹא בְּמַשָּׂא? אָמַר רַבִּי יוֹחָנָן: מִשּׁוּם בִּיטּוּל בְּרוֹב נָגְעוּ בָּהּ.
+> **Translation:** The Gemara notes with regard to the ruling of the mishna that the animal is exempt from having any future offspring counted as firstborn: That is **to say that** the expelled mass **is a full-fledged offspring. But** if so, **why doesn’t it impart** ritual **impurity, neither through** physical **contact nor through carrying? Rabbi Yoḥanan says:** It is **due to** the halakhic **nullification** of a forbidden substance **in a majority** of permitted substances that the Sages **touched upon it,** in order to exclude it from impurity through contact or carrying. In other words, the fetus is in fact considered a full-fledged offspring, but it is does not impart impurity because it is nullified by the rest of the congealed mass.
+
 ### Bittul B'Rov
 
-> **Hebrew/Aramaic:** כְּדֵי לְפַרְסְמָהּ שֶׁנִּפְטְרָה מִן הַבְּכוֹרָה. לְמֵימְרָא דְּוָלָד מְעַלְּיָא הוּא, וְאַמַּאי אֵין מְטַמֵּא לֹא בְּמַגָּע וְלֹא בְּמַשָּׂא? אָמַר רַבִּי יוֹחָנָן: מִשּׁוּם בִּיטּוּל בְּרוֹב נָגְעוּ בָּהּ.
->
-> **Translation:** The Gemara answers: It must be buried **in order to publicize that** the animal **is exempt from** having its future offspring counted **a firstborn.** The Gemara notes with regard to the ruling of the mishna that the animal is exempt from having any future offspring counted as firstborn: That is **to say that** the expelled mass **is a full-fledged offspring. But** if so, **why doesn't it impart** ritual **impurity, neither through** physical **contact nor through carrying? Rabbi Yoḥanan says:** It is **due to** the halakhic **nullification** of a forbidden substance **in a majority** of permitted substances that the Sages **touched upon it,** in order to exclude it from impurity through contact or carrying. In other words, the fetus is in fact considered a full-fledged offspring, but it is does not impart impurity because it is nullified by the rest of the congealed mass.
 
 Rabbi Yochanan answers: *mishum bittul be-rov* — it is nullified in the majority. There is indeed a fetus present within the discharge. But the fetus is mixed together with a large quantity of non-fetal material — blood, fluid, and other matter from the womb — and in that mixture, the fetal matter loses its legal identity through *bittul be-rov*, nullification in the majority. Since the fetus cannot be identified as a distinct, present entity, it does not convey *tumah*.
 
@@ -340,9 +348,11 @@ The result is an unusual combination: there is a fetus here, sufficient to cause
 
 ### Rabbi Shimon
 
-> **Hebrew/Aramaic:** וְאַזְדָּא רַבִּי יוֹחָנָן לְטַעְמֵיהּ, דְּאָמַר רַבִּי יוֹחָנָן: רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב וְרַבִּי שִׁמְעוֹן אָמְרוּ דָּבָר אֶחָד, רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב — הָא דַּאֲמַרַן. רַבִּי שִׁמְעוֹן מַאי הִיא? דִּתְנַן: הַשִּׁלְיָא בַּבַּיִת — הַבַּיִת טָמֵא. לֹא שֶׁהַשִּׁלְיָא וָלָד, אֶלָּא שֶׁאֵין שִׁלְיָא בְּלֹא וָלָד. רַבִּי שִׁמְעוֹן אוֹמֵר: וָלָד נִימּוֹק עַד שֶׁלֹּא יָצָא.
->
-> **Translation:** The Gemara comments: **And Rabbi Yoḥanan follows his** line of **reasoning** in this regard, **as Rabbi Yoḥanan says: Rabbi Eliezer ben Yaakov and Rabbi Shimon** both **said the same thing,** i.e., they both issued rulings based on the same principle. The relevant statement of **Rabbi Eliezer ben Yaakov** is **that which we said** previously, i.e., that the expelled mass does not impart ritual impurity because the fetus is nullified by the majority. And **what is** the statement of **Rabbi Shimon** to which Rabbi Yoḥanan was referring? It is **as we learned** in a mishna (*Nidda* 18a): If a woman miscarried and **the afterbirth** is **in the house, the house is impure.** The reason is **not that the afterbirth** itself has the status of an **offspring, but that there is no afterbirth without an offspring** within it, even if it is undetected. **Rabbi Shimon says:** The **offspring disintegrated before it emerged** with the afterbirth. Consequently, the house is not rendered impure, because the disintegrated fetus is nullified by the majority.
+> **Hebrew/Aramaic:** וְאַזְדָּא רַבִּי יוֹחָנָן לְטַעְמֵיהּ, דְּאָמַר רַבִּי יוֹחָנָן: רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב וְרַבִּי שִׁמְעוֹן אָמְרוּ דָּבָר אֶחָד, רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב — הָא דַּאֲמַרַן.
+> **Translation:** The Gemara comments: **And Rabbi Yoḥanan follows his** line of **reasoning** in this regard, **as Rabbi Yoḥanan says: Rabbi Eliezer ben Yaakov and Rabbi Shimon** both **said the same thing,** i.e., they both issued rulings based on the same principle. The relevant statement of **Rabbi Eliezer ben Yaakov** is **that which we said** previously, i.e., that the expelled mass does not impart ritual impurity because the fetus is nullified by the majority.
+
+> **Hebrew/Aramaic:** רַבִּי שִׁמְעוֹן מַאי הִיא? דִּתְנַן: הַשִּׁלְיָא בַּבַּיִת — הַבַּיִת טָמֵא. לֹא שֶׁהַשִּׁלְיָא וָלָד, אֶלָּא שֶׁאֵין שִׁלְיָא בְּלֹא וָלָד. רַבִּי שִׁמְעוֹן אוֹמֵר: וָלָד נִימּוֹק עַד שֶׁלֹּא יָצָא.
+> **Translation:** And **what is** the statement of **Rabbi Shimon** to which Rabbi Yoḥanan was referring? It is **as we learned** in a mishna (*Nidda* 18a): If a woman miscarried and **the afterbirth** is **in the house, the house is impure.** The reason is **not that the afterbirth** itself has the status of an **offspring, but that there is no afterbirth without an offspring** within it, even if it is undetected. **Rabbi Shimon says:** The **offspring disintegrated before it emerged** with the afterbirth. Consequently, the house is not rendered impure, because the disintegrated fetus is nullified by the majority.
 
 The *gemara* notes that Rabbi Yochanan is going according to his own reasoning (*ve-azda Rabbi Yochanan le-taameih*), since he had stated that Rabbi Elazar ben Yaakov and Rabbi Shimon said the same thing. The parallel from Rabbi Shimon is drawn from a *mishna* about the placenta: *ha-shilya ba-bayit, ha-bayit tamei* — if a placenta is found in a house, the house is *tamei*, not because the placenta itself is the fetus, but because there is no placenta without a fetus — *she-ein shilya belo valad*. Rabbi Shimon, however, says: *valad nimok ad she-lo yatza* — the fetus dissolved before it emerged, and therefore does not cause *tumah*. Rabbi Shimon's principle is that a fetus which has dissolved and mixed into the surrounding material does not retain its identity as an entity that conveys *tumah*.
 

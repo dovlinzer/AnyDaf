@@ -1,0 +1,404 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Rav Kahana: Half \u2260 Maj.",
+    "candidates": [
+      "Majority of Siman Intro",
+      "Rav: Half = Majority",
+      "Rav Kahana: Half \u2260 Maj.",
+      "Valid vs Invalid Criteria",
+      "Mishna's Half Invalid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items introduce the Rav/Rav Kahana dispute about half equaling majority and provide the divine-mandate framing, which is precisely what candidate 1 ('Rav: Half = Majority') describes as introducing this dispute \u2014 the current placement under candidate 2 ('Rav Kahana: Half \u2260 Maj.') is too late, since these items are the opening of the dispute, not the elaboration of Rav Kahana's position.",
+      "chosen_heading": "Rav: Half = Majority",
+      "current_heading": "Rav Kahana: Half \u2260 Maj.",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Mishna's Half Invalid",
+    "candidates": [
+      "Valid vs Invalid Criteria",
+      "Mishna's Half Invalid",
+      "Tanur & Letzamtzem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishna's ruling that half is invalid and the Gemara's rabbinic-level response, which is precisely what the prose under 'Mishna's Half Invalid' describes.",
+      "chosen_heading": "Mishna's Half Invalid",
+      "current_heading": "Mishna's Half Invalid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Tanur & Letzamtzem",
+    "candidates": [
+      "Tanur & Letzamtzem",
+      "Rav Papa: No Two Rovs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the exact baraita and Gemara inference about the tanur/pottery vessel and letzamtzem principle that the prose under heading 0 ('Tanur & Letzamtzem') explicitly describes and analyzes in detail.",
+      "chosen_heading": "Tanur & Letzamtzem",
+      "current_heading": "Tanur & Letzamtzem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rav Papa: No Two Rovs",
+    "candidates": [
+      "Rav Papa: No Two Rovs",
+      "Universal Half=Majority",
+      "Half + Shehiya Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Pappa's statement that 'there are not two majorities in one vessel,' which is precisely what heading 0 is about and what its prose elaborates on.",
+      "chosen_heading": "Rav Papa: No Two Rovs",
+      "current_heading": "Rav Papa: No Two Rovs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Half + Shehiya Proof",
+    "candidates": [
+      "Universal Half=Majority",
+      "Half + Shehiya Proof",
+      "Bird vs. Animal Shehiya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about cutting half the windpipe with a shehiya interval and then completing the cut, which is precisely the content described in the 'Half + Shehiya Proof' section's prose.",
+      "chosen_heading": "Half + Shehiya Proof",
+      "current_heading": "Half + Shehiya Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Bird vs. Animal Shehiya",
+    "candidates": [
+      "Bird vs. Animal Shehiya",
+      "Pre-Cut Trachea Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the bird vs. animal distinction and the miman nafshach argument, which is precisely what the 'Bird vs. Animal Shehiya' section's prose describes.",
+      "chosen_heading": "Bird vs. Animal Shehiya",
+      "current_heading": "Bird vs. Animal Shehiya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Pre-Cut Trachea Proof",
+    "candidates": [
+      "Pre-Cut Trachea Proof",
+      "Treifa: Rov Hanikar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita proof about a pre-cut trachea half being pagum and the subsequent completion of shechita being valid, which is exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Pre-Cut Trachea Proof",
+      "current_heading": "Pre-Cut Trachea Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Treifa: Rov Hanikar",
+    "candidates": [
+      "Treifa: Rov Hanikar",
+      "Abaye Kal Va-Chomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rava's principle that tereifa requires a majority visibly discernible to the eye, which is precisely what candidate 0's prose elaborates upon.",
+      "chosen_heading": "Treifa: Rov Hanikar",
+      "current_heading": "Treifa: Rov Hanikar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Abaye Kal Va-Chomer",
+    "candidates": [
+      "Abaye Kal Va-Chomer",
+      "Debate = Pesach Only",
+      "Pesach: Half Tamei/Tahor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's kal va-chomer argument, which is precisely what the prose under 'Abaye Kal Va-Chomer' describes in detail.",
+      "chosen_heading": "Abaye Kal Va-Chomer",
+      "current_heading": "Abaye Kal Va-Chomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Pesach: Half Tamei/Tahor",
+    "candidates": [
+      "Debate = Pesach Only",
+      "Pesach: Half Tamei/Tahor",
+      "Ish Nidcheh, Not Tzibur"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Debate = Pesach Only",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's conclusion that the Rav/Rav Kahana dispute was stated only regarding the Paschal offering, which is exactly what candidate 0 ('Debate = Pesach Only') discusses in its prose.",
+      "second_heading": "Pesach: Half Tamei/Tahor",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the actual case of half tahor/half tamei Jews and the Rav vs. Rav Kahana positions on it, which is precisely what candidate 1 ('Pesach: Half Tamei/Tahor') describes in its prose.",
+      "current_heading": "Pesach: Half Tamei/Tahor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Ish Nidcheh, Not Tzibur",
+    "candidates": [
+      "Ish Nidcheh, Not Tzibur",
+      "Tosafot's Contradictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about Rav's reasoning and the derivation from 'ish nidcheh, ein tzibur nidchin,' which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Ish Nidcheh, Not Tzibur",
+      "current_heading": "Ish Nidcheh, Not Tzibur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Tosafot's Contradictions",
+    "candidates": [
+      "Tosafot's Contradictions",
+      "Hoshaya: Chulin/Kodshim",
+      "Blood in Kodshim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the repetition of 'majority of one siman in a bird' in the Mishna and introduce the mnemonic for the Amoraim who will discuss it \u2014 precisely what the 'Hoshaya: Chulin/Kodshim' section describes as its opening question about why the Mishna states majority suffices twice.",
+      "chosen_heading": "Hoshaya: Chulin/Kodshim",
+      "current_heading": "Tosafot's Contradictions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Blood in Kodshim",
+    "candidates": [
+      "Hoshaya: Chulin/Kodshim",
+      "Blood in Kodshim",
+      "Hashochet vs. Hamolek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Hoshaya's full statement explaining why both chulin and kodshim must be mentioned \u2014 the exact content described in candidate 0's prose \u2014 not the elaboration already covered in candidate 1's prose.",
+      "chosen_heading": "Hoshaya: Chulin/Kodshim",
+      "current_heading": "Blood in Kodshim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Hashochet vs. Hamolek",
+    "candidates": [
+      "Blood in Kodshim",
+      "Hashochet vs. Hamolek",
+      "Olat Ha'of Two Simanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion about which clause of the Mishna refers to chulin vs. kodshim, proven from the use of 'hashochet' vs. 'hamolek,' which is precisely what the 'Hashochet vs. Hamolek' section prose describes.",
+      "chosen_heading": "Hashochet vs. Hamolek",
+      "current_heading": "Hashochet vs. Hamolek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Olat Ha'of Two Simanim",
+    "candidates": [
+      "Olat Ha'of Two Simanim",
+      "Rav Papa: Jugular Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact argument described in the 'Olat Ha'of Two Simanim' prose: Rav Shimi bar Ashi's proof from the reisha, the challenge about the seifa be-kodshim, and the resolution about 'rov kol echad ve-echad' accommodating both chatat ha'of and olat ha'of.",
+      "chosen_heading": "Olat Ha'of Two Simanim",
+      "current_heading": "Olat Ha'of Two Simanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rav Papa: Jugular Proof",
+    "candidates": [
+      "Rav Papa: Jugular Proof",
+      "Two Heads & Tizbach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's proof from the Rabbis' dispute with Rabbi Yehuda about cutting the veins, which matches exactly the prose under 'Rav Papa: Jugular Proof'.",
+      "chosen_heading": "Rav Papa: Jugular Proof",
+      "current_heading": "Rav Papa: Jugular Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Two Heads & Tizbach",
+    "candidates": [
+      "Two Heads & Tizbach",
+      "Reish Lakish: Yom Kippur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous argument about Rav Ashi's proof from the Mishna's language and Rav Yosef's baraita on tizbach/tizbachu, which is precisely what the 'Two Heads & Tizbach' prose describes.",
+      "chosen_heading": "Two Heads & Tizbach",
+      "current_heading": "Two Heads & Tizbach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Reish Lakish: Yom Kippur",
+    "candidates": [
+      "Reish Lakish: Yom Kippur",
+      "Mitzva to Complete Cut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Reish Lakish's position that the latter clause of the mishna addresses kodshim, supported by the Yom Kippur tamid case \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Reish Lakish: Yom Kippur",
+      "current_heading": "Reish Lakish: Yom Kippur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Mitzva to Complete Cut",
+    "candidates": [
+      "Mitzva to Complete Cut",
+      "Summary of Principles",
+      "Aaron's Kabbala Intro",
+      "Chalaf Construction",
+      "Knife Bedika Methods",
+      "Sharpening the Chalaf",
+      "Holding the Chicken",
+      "Act of Shechita",
+      "Trachea & Esophagus Cut",
+      "Blood Vessels & Rubashkin",
+      "Five Psulei Shechita",
+      "Kisuy Dam & Non-Jewish",
+      "Giraffe Shechita Problem",
+      "Kaddish DeRabbanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara analysis \u2014 questioning whether incomplete shechita is invalid biblically or rabbinically, concluding neither applies, and establishing that completing the cut is a mitzva \u2014 which matches exactly the 'Mitzva to Complete Cut' section's prose about yacho yihyeh pasul mide-rabbanan, afilu psulah de-rabbanan leika, and mitzva lemareik.",
+      "chosen_heading": "Mitzva to Complete Cut",
+      "current_heading": "Mitzva to Complete Cut",
+      "moved": false
+    }
+  }
+]

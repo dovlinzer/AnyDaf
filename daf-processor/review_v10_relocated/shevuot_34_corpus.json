@@ -1,0 +1,474 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rabbi Yose HaGlili",
+    "candidates": [
+      "Intro & Structure",
+      "O's Approach",
+      "Rabbi Akiva",
+      "Rabbi Yose HaGlili",
+      "Rabbi Shimon",
+      "Kal Vachomer Setup",
+      "Pikadon Narrower"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage shows Rabbi Shimon deriving from a parallel between shvuas ha'eidus and shvuas hapikadon that both are limited to monetary claims \u2014 this is the gezeira shava/linkage method, not the kal vachomer, matching the 'Rabbi Shimon' section's prose about his approach before the kal vachomer is elaborated.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Rabbi Yose HaGlili",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Pikadon Narrower",
+    "candidates": [
+      "Rabbi Shimon",
+      "Kal Vachomer Setup",
+      "Pikadon Narrower",
+      "Edus Narrower",
+      "Need Gezeirah Shavah",
+      "Techeta Link",
+      "Two Verses",
+      "Challenge to O's"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "All four items form one continuous kal vachomer \u2192 rejection \u2192 gezeirah shavah chain; the current heading's prose directly addresses the baraita's objection (items 3-4) which is the core of this passage, making it the best single match despite items 1-2 fitting candidate 0's description of the kal vachomer setup.",
+      "chosen_heading": "Pikadon Narrower",
+      "current_heading": "Pikadon Narrower",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Challenge to O's",
+    "candidates": [
+      "Edus Narrower",
+      "Need Gezeirah Shavah",
+      "Techeta Link",
+      "Two Verses",
+      "Challenge to O's",
+      "More Comparisons",
+      "Bitui vs Pikadon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rabba bar Ulla's challenge against the o'in linkage, arguing that shvuas bitui also has o'in, a shevuah, no kohen, and involves no monetary claim \u2014 exactly what the 'Challenge to O's' prose describes.",
+      "chosen_heading": "Challenge to O's",
+      "current_heading": "Challenge to O's",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Bitui vs Pikadon",
+    "candidates": [
+      "More Comparisons",
+      "Bitui vs Pikadon",
+      "Pikadon Wins",
+      "Akiva's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's reasoning that pikadon is the better derivation source due to the shared 'techeta'/'techeta' verbal analogy, which matches heading 0's prose that explicitly discusses this exact argument \u2014 the gezeirah shavah as a tiebreaker favoring pikadon over bitui.",
+      "chosen_heading": "More Comparisons",
+      "current_heading": "Bitui vs Pikadon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45
+    ],
+    "current_heading": "Akiva's Position",
+    "candidates": [
+      "Pikadon Wins",
+      "Akiva's Position",
+      "Land or Knas?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the Gemara's back-and-forth debate about whether shvuas ha'eidus should be derived from shvuas bitui or shvuas hapikadon, culminating in 'haneich nefishin' \u2014 the pikadon side wins because it has more points of comparison \u2014 which is precisely what the 'Pikadon Wins' prose section describes.",
+      "chosen_heading": "Pikadon Wins",
+      "current_heading": "Akiva's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Land or Knas?",
+    "candidates": [
+      "Akiva's Position",
+      "Land or Knas?",
+      "Edei Karka"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Akiva's Position",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rabbi Akiva's drasha on 'of these,' the challenge of reversing the ruling, and the resolution relying on Rabbi Eliezer's 'or' \u2014 exactly what candidate 0 describes as Rabbi Akiva's specific contribution and the Gemara's reorientation of his position.",
+      "second_heading": "Edei Karka",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 ask what the practical difference between Rabbi Eliezer and Rabbi Akiva is, propose the land-testimony case, and then raise Rabbi Yochanan's objection \u2014 precisely the content described in candidate 2's prose about edei karka and Rabbi Yochanan's ruling that even Rabbi Eliezer would exempt land testimony.",
+      "current_heading": "Land or Knas?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Edei Karka",
+    "candidates": [
+      "Edei Karka",
+      "Yedia/Reiah Types",
+      "Monetary Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the practical difference between Rabbi Eliezer and Rabbi Akiva regarding 'edei knas' (witnesses about a fine), which is exactly what the prose under 'Edei Karka' discusses as the resolution to where their dispute actually lies.",
+      "chosen_heading": "Edei Karka",
+      "current_heading": "Edei Karka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Monetary Examples",
+    "candidates": [
+      "Yedia/Reiah Types",
+      "Monetary Examples",
+      "Not Capital",
+      "Rav Acha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yosei HaGelili's direct statement about the verse introducing the two categories (sight without knowledge, knowledge without sight), which is precisely what the 'Yedia/Reiah Types' prose describes as his reading of the disjunctive formulation.",
+      "chosen_heading": "Yedia/Reiah Types",
+      "current_heading": "Monetary Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rav Acha",
+    "candidates": [
+      "Not Capital",
+      "Rav Acha",
+      "Rabbi Shimon ben Shatach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's question to Abaye about whether Rabbi Yosei HaGelili conflicts with Rabbi A\u1e25a's baraita about the rampaging camel, which is precisely what the 'Rav Acha' section's prose describes.",
+      "chosen_heading": "Rav Acha",
+      "current_heading": "Rav Acha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Rabbi Shimon ben Shatach",
+    "candidates": [
+      "Rabbi Shimon ben Shatach",
+      "Concession/Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete baraita of Rabbi Shimon ben Shatach \u2014 the oath, the scene, and the conclusion about divine retribution \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Rabbi Shimon ben Shatach",
+      "current_heading": "Rabbi Shimon ben Shatach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Concession/Restriction",
+    "candidates": [
+      "Concession/Restriction",
+      "Critical Facts",
+      "Knas Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's conditional argument ('even if you say Rabbi Acha...') and its pivot to the distinction between re'iyah belo yedia and yedia belo re'iyah in capital cases, which is precisely what the 'Concession/Restriction' prose describes and analyzes.",
+      "chosen_heading": "Concession/Restriction",
+      "current_heading": "Concession/Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Knas Inference",
+    "candidates": [
+      "Critical Facts",
+      "Knas Inference",
+      "Examples",
+      "Pillar Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's inference about Rabbi Yosei HaGelili's position on knas witnesses being exempt, with the specific reasoning about re'iyah belo yedia failing because witnesses must know whether the woman was Jewish/non-Jewish and virgin/non-virgin \u2014 exactly what the 'Knas Inference' section's prose describes.",
+      "chosen_heading": "Knas Inference",
+      "current_heading": "Knas Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Pillar Scenario",
+    "candidates": [
+      "Examples",
+      "Pillar Scenario",
+      "Hamnuna's Analysis",
+      "Michael Admits",
+      "Location Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the opening of Rav Hamnuna's dilemma before Rav Yehuda \u2014 the claim of counting money and witnesses observing from outside \u2014 which is precisely what the 'Pillar Scenario' prose describes as Rav Yehuda's hypothetical examination involving witnesses watching through a window.",
+      "chosen_heading": "Pillar Scenario",
+      "current_heading": "Pillar Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Location Case",
+    "candidates": [
+      "Hamnuna's Analysis",
+      "Michael Admits",
+      "Location Case",
+      "Absolute Denial"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hamnuna's Analysis",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Hamnuna dialogue \u2014 the ei amar lo hayu / ei amar in shakli exchange and the invitation to enter the study hall \u2014 which is precisely what candidates 0 and 1 describe, and the prose of candidate 0 opens the analysis while candidate 1 closes it with 'haimnu ul'; taken together items belong under the Hamnuna analysis section (index 0 covers the core of the exchange).",
+      "second_heading": "Location Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the entirely new 'column/pillar' case with its own facts and Reish Lakish's ruling, which is exactly what the 'Location Case' prose (candidate 2) describes.",
+      "current_heading": "Location Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Absolute Denial",
+    "candidates": [
+      "Absolute Denial",
+      "Irrelevant Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Na\u1e25man's objection that calling a denial absolute when it was contextual is 'Persian justice,' which is precisely what the prose under 'Absolute Denial' describes \u2014 the distinction between a contextual denial and an absolute one, and the transition to the stricter version where Michael says 'me'olam.'",
+      "chosen_heading": "Absolute Denial",
+      "current_heading": "Absolute Denial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Irrelevant Details",
+    "candidates": [
+      "Irrelevant Details",
+      "Rav Shiman Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Na\u1e25man's ruling that the denier assumes the status of a kafran, and Rava's objection that passing by a pillar is an irrelevant detail one wouldn't remember \u2014 are exactly the content discussed in the 'Irrelevant Details' prose, which explicitly describes this exchange and Rava's kol milta principle.",
+      "chosen_heading": "Irrelevant Details",
+      "current_heading": "Irrelevant Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Rav Shiman Setup",
+    "candidates": [
+      "Rav Shiman Setup",
+      "Mocking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Shimon's direct liability comparison between oath of testimony and oath on a deposit, which is exactly what the 'Rav Shiman Setup' prose describes \u2014 the *chiyuv kan v'chiyuv bepikadon* argument \u2014 not the mocking/critique section.",
+      "chosen_heading": "Rav Shiman Setup",
+      "current_heading": "Rav Shiman Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Mocking",
+    "candidates": [
+      "Mocking",
+      "Self-Imposed Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the mockery passage \u2014 item 1 raises the question of what is mockable, and item 2 provides the baraita's answer \u2014 exactly matching the prose of heading 0 which explains the mockery and its grounds.",
+      "chosen_heading": "Mocking",
+      "current_heading": "Mocking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Self-Imposed Oath",
+    "candidates": [
+      "Self-Imposed Oath",
+      "Mezid/Shogeg",
+      "Meilah Links"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the question of how Rabbi Shimon derives liability for a self-imposed oath of testimony \u2014 item 1 raises the circularity problem with the verbal analogy from pikadon, and item 2 resolves it with the kal vachomer argument \u2014 exactly the content described in the 'Self-Imposed Oath' prose.",
+      "chosen_heading": "Self-Imposed Oath",
+      "current_heading": "Self-Imposed Oath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Meilah Links",
+    "candidates": [
+      "Mezid/Shogeg",
+      "Meilah Links",
+      "More Points",
+      "Gezeirah Impact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage begins with establishing the mezid/shogeg distinction as the core issue and Rav Huna's me'ilah derivation defense \u2014 content explicitly described in the 'Mezid/Shogeg' prose \u2014 while the subsequent items elaborate that same derivation in a continuous dialectical chain.",
+      "chosen_heading": "Mezid/Shogeg",
+      "current_heading": "Meilah Links",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142
+    ],
+    "current_heading": "Gezeirah Impact",
+    "candidates": [
+      "More Points",
+      "Gezeirah Impact",
+      "Shimon's Stand",
+      "Rava Explains",
+      "Final Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All seven items form one continuous chain about the mockery of Rabbi Shimon's baraita \u2014 starting with the question of what the mockery was (item 1), Rav Pappa and Rav Huna's answer about the gezeirah shavah contradiction (item 2), the rejection of their answer (item 3), the challenge from Rava bar Ittai confirming Rabbi Shimon maintains the mezid restriction (item 4), the resolution distinguishing mushba from mezid (item 5), the counter-question about eidus deriving from pikadon (item 6), and the final answer about v'ne'elam (item 7) \u2014 exactly matching the 'Gezeirah Impact' prose which describes this entire dialectic about what the gezeirah shavah does and does not override.",
+      "chosen_heading": "Gezeirah Impact",
+      "current_heading": "Gezeirah Impact",
+      "moved": false
+    }
+  }
+]

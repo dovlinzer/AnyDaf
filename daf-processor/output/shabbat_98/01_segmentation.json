@@ -29,8 +29,8 @@
           "timestamp": "07:37"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Combining Reshuyot: Two Separate Public Domains with a Private Domain in Between",
@@ -87,7 +87,7 @@
         }
       ],
       "sefaria_index": 1,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Configuration of the Levite Wagons: Reconciling the Covering with Public Domain Status",
@@ -125,7 +125,7 @@
           "timestamp": "36:18"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -580,5 +580,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 5
+  "amud_b_sefaria_index": 5,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "33:19",
+  "amud_b_micro_title": "Atzbe'i Columns",
+  "shiur_start_daf": 98,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,419 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Canopy in Sukkah",
+    "candidates": [
+      "Canopy in Sukkah",
+      "Baraita vs Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a challenge to Shmuel's position citing the mishna about kinofot (four-post bed), followed by the Gemara's answer that it refers to a case where the posts are ten handbreadths high \u2014 this is precisely the dialectic described in 'Baraita vs Shmuel' where the kinofot case is used to argue that a flat roof alone suffices to invalidate, contradicting Shmuel.",
+      "chosen_heading": "Baraita vs Shmuel",
+      "current_heading": "Canopy in Sukkah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Baraita vs Shmuel",
+    "candidates": [
+      "Canopy in Sukkah",
+      "Baraita vs Shmuel",
+      "Fixed vs. Temporary Stru",
+      "Sukkah tachat Sukkah (II)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita distinguishing naklitin from kinofot and the inference that kinofot invalidates even without ten tefachim, which directly corresponds to the 'Baraita vs Shmuel' section's prose about this contradiction with Shmuel's position.",
+      "chosen_heading": "Baraita vs Shmuel",
+      "current_heading": "Baraita vs Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Sukkah tachat Sukkah (II)",
+    "candidates": [
+      "Fixed vs. Temporary Stru",
+      "Sukkah tachat Sukkah (II)",
+      "Sleeping in kila"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the sukkah atop sukkah case and Shmuel's ruling that the same ten-handbreadth measure applies for both fitness and unfitness, then resolves the apparent contradiction with the kinofot case by distinguishing between disqualifying a sukkah (requiring ten tefachim) versus creating an ohel (where less than ten suffices when fixed) \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Sukkah tachat Sukkah (II)",
+      "current_heading": "Sukkah tachat Sukkah (II)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Sleeping in kila",
+    "candidates": [
+      "Sleeping in kila",
+      "Baraita challenge",
+      "Ten tefachim resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sleeping in kila",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Shmuel's ruling about sleeping naked in a kila and moving one's head outside to recite Shema, which matches exactly the 'Sleeping in kila' prose describing Shmuel's position that the kila functions as a garment-like covering.",
+      "second_heading": "Baraita challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita objection stating the opposite ruling, which matches exactly the 'Baraita challenge' prose describing the baraita that prohibits sticking one's head out of the kila to recite Shema.",
+      "current_heading": "Sleeping in kila",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Ten tefachim resolution",
+    "candidates": [
+      "Baraita challenge",
+      "Ten tefachim resolution",
+      "House comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the 'hachi nami mistabra' observation and the house/window comparison that supports the ten tefachim reading, which is exactly what the 'Ten tefachim resolution' prose describes.",
+      "chosen_heading": "Ten tefachim resolution",
+      "current_heading": "Ten tefachim resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "House comparison",
+    "candidates": [
+      "House comparison",
+      "Two sides of criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that a house is a permanent fixed structure constituting an ohel regardless of height and is no less than kinofot \u2014 exactly the content described in the 'House comparison' prose.",
+      "chosen_heading": "House comparison",
+      "current_heading": "House comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Two sides of criteria",
+    "candidates": [
+      "Two sides of criteria",
+      "Posts and poles baraita",
+      "Fixed vs. portable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the alternative formulation of Shmuel's ruling about the bridal canopy (no roof = permitted even at ten tefachim) and the baraita objection resolved by distinguishing a canopy with a roof, which is precisely what candidate 0's prose describes as the mirror-image version making explicit the two-criteria requirement.",
+      "chosen_heading": "Two sides of criteria",
+      "current_heading": "Two sides of criteria",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Fixed vs. portable",
+    "candidates": [
+      "Posts and poles baraita",
+      "Fixed vs. portable",
+      "Kila permitted",
+      "Rabbi Yehuda principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is the challenge from the naklitin/kinofot baraita against Shmuel, and Item 2 is the Gemara's answer about relative fixedness \u2014 together they form the question-and-answer unit that candidate 0 ('Posts and poles baraita') describes, while candidate 1 ('Fixed vs. portable') describes the resolution's elaboration which follows this exchange.",
+      "chosen_heading": "Posts and poles baraita",
+      "current_heading": "Fixed vs. portable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Rabbi Yehuda principle",
+    "candidates": [
+      "Kila permitted",
+      "Rabbi Yehuda principle",
+      "Under the bed precedent",
+      "Bed vs. kila distinction",
+      "Permanent Sukkah Model",
+      "Invalid vines and gourds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form one continuous unit \u2014 Rabba bar Rav Huna's ruling about the kila, its identification with Rabbi Yehuda's principle, and the question-and-answer clarifying why he stated it explicitly rather than just citing Rabbi Yehuda \u2014 and candidate 0 ('Kila permitted') is the section whose prose introduces exactly this ruling as a striking leniency, making it the best single home for the entire passage.",
+      "chosen_heading": "Kila permitted",
+      "current_heading": "Rabbi Yehuda principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Invalid vines and gourds",
+    "candidates": [
+      "Under the bed precedent",
+      "Bed vs. kila distinction",
+      "Permanent Sukkah Model",
+      "Invalid vines and gourds",
+      "Cutting the vine question",
+      "Ta'aseh velo min ha-asuy",
+      "Rav vs. Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah text about trellising vines/gourds as schach and the general principle about tumah-susceptibility, which is precisely what candidate 3 ('Invalid vines and gourds') describes in its prose.",
+      "chosen_heading": "Invalid vines and gourds",
+      "current_heading": "Invalid vines and gourds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rav vs. Rav Yosef",
+    "candidates": [
+      "Cutting the vine question",
+      "Ta'aseh velo min ha-asuy",
+      "Rav vs. Rav Yosef",
+      "Rav Huna correction",
+      "Rav Amram Chasida Tzitzit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yosef sitting before Rav Huna (not Rav Kahana as the prose mistakenly says) citing the Mishnah and attributing to Rav the requirement to move the schach, which is precisely the Rav vs. Rav Yosef section's topic of Rav Yosef's attribution and the na'anua requirement.",
+      "chosen_heading": "Rav vs. Rav Yosef",
+      "current_heading": "Rav vs. Rav Yosef",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Rav Amram Chasida Tzitzit",
+    "candidates": [
+      "Rav Huna correction",
+      "Rav Amram Chasida Tzitzit",
+      "Cutting is making",
+      "Shmuel on cutting",
+      "Shmuel vs. Rav",
+      "Alternative reading",
+      "Baraita challenge to Rav"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Huna correction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rav Huna's correction of the attribution dispute and the Rav Amram Chasida incident establishing that Rav holds 'psikasun zu hi asiyasun', which is exactly what headings 0 and 1 describe.",
+      "second_heading": "Shmuel on cutting",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 address whether Shmuel agrees with the 'cutting is making' principle, the baraita challenge, and the dispute between Rav and Shmuel, matching heading 3 ('Shmuel on cutting') which begins the Gemara's inquiry into Shmuel's position \u2014 and the subsequent items continue that same thread through headings 4, 5, and 6.",
+      "current_heading": "Rav Amram Chasida Tzitzit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Baraita challenge to Rav",
+    "candidates": [
+      "Cutting is making",
+      "Shmuel on cutting",
+      "Shmuel vs. Rav",
+      "Alternative reading",
+      "Baraita challenge to Rav",
+      "Rav's response",
+      "Rabbi Shimon ben Hotzadak"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items form the continuous challenge-and-partial-response sequence: the baraita objection to Rav from tzitzit and sukka cases, the Gemara's analysis showing it must refer to a post-cutting scenario, Rav's attempted rebuttal via d'shalfinehu, and the Gemara's conclusion that the tzitzit baraita remains difficult \u2014 exactly what candidate 4's prose describes.",
+      "chosen_heading": "Baraita challenge to Rav",
+      "current_heading": "Baraita challenge to Rav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Rabbi Shimon ben Hotzadak",
+    "candidates": [
+      "Rav's response",
+      "Rabbi Shimon ben Hotzadak",
+      "Making through plucking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the tannaic dispute between Rabbi Shimon bar Yehotzadak and the Rabbis regarding plucking berries from an hadas, which is precisely what candidate 1's prose describes as the Gemara's attempt to establish a parallel tannaic dispute.",
+      "chosen_heading": "Rabbi Shimon ben Hotzadak",
+      "current_heading": "Rabbi Shimon ben Hotzadak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Making through plucking",
+    "candidates": [
+      "Making through plucking",
+      "Ta'aseh applies to lulav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states that everyone agrees lulav requires binding AND that lulav is derived from sukka via the word 'ta'aseh' \u2014 this is the initial assumption that sets up the 'ta'aseh applies to lulav' section's discussion, not the 'making through plucking' section which discusses what happens after that assumption is already in place.",
+      "chosen_heading": "Ta'aseh applies to lulav",
+      "current_heading": "Making through plucking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Ta'aseh applies to lulav",
+    "candidates": [
+      "Making through plucking",
+      "Ta'aseh applies to lulav",
+      "Lulav needs binding",
+      "Sages vs. Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss whether plucking/cutting constitutes an act of making (asiyah) and whether lulav is derived from sukkah in that regard \u2014 exactly the content described in the 'Making through plucking' prose, which describes the Gemara's initial proposal and rejection of the Rav-Shmuel mapping, matching items 1 and 2 precisely.",
+      "chosen_heading": "Making through plucking",
+      "current_heading": "Ta'aseh applies to lulav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Sages vs. Rabbi Yehuda",
+    "candidates": [
+      "Lulav needs binding",
+      "Sages vs. Rabbi Yehuda",
+      "Verse about hyssop"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the 'if you wish say' alternative that frames the entire dispute around whether lulav requires binding (tzarich egged), which matches heading 0's prose describing this third alternative explanation, not heading 1 which discusses the baraita citation as a resolution of the bundling question.",
+      "chosen_heading": "Lulav needs binding",
+      "current_heading": "Sages vs. Rabbi Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Verse about hyssop",
+    "candidates": [
+      "Sages vs. Rabbi Yehuda",
+      "Verse about hyssop",
+      "Aesthetic beautification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi Yehuda's rationale via the gezeirah shavah on lekichah from the hyssop verse, which is precisely what the 'Verse about hyssop' section's prose describes.",
+      "chosen_heading": "Verse about hyssop",
+      "current_heading": "Verse about hyssop",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Aesthetic beautification",
+    "candidates": [
+      "Aesthetic beautification",
+      "Double knot requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about whose opinion the baraita follows and its answer invoking 'zeh keili ve'anveihu' as an aesthetic beautification principle, which is precisely what the 'Aesthetic beautification' section's prose describes and analyzes.",
+      "chosen_heading": "Aesthetic beautification",
+      "current_heading": "Aesthetic beautification",
+      "moved": false
+    }
+  }
+]

@@ -24,7 +24,7 @@
           "timestamp": "04:03"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -101,7 +101,7 @@
           "timestamp": "20:43"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -125,7 +125,7 @@
           "timestamp": "25:38"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 11,
       "matched": true
     },
     {
@@ -621,5 +621,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "26:54",
+  "amud_b_micro_title": "Strip in Middle",
+  "shiur_start_daf": 108,
+  "shiur_start_amud": "a"
 }

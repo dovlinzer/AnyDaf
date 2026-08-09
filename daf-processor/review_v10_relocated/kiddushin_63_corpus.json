@@ -1,0 +1,311 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Abaye's Position",
+    "candidates": [
+      "Three Categories",
+      "R. Eliezer b. Yaakov",
+      "Abaye's Position",
+      "Rabbi & Slave",
+      "Freeing Slave",
+      "Me'achshav",
+      "Extreme Conditions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Eliezer b. Yaakov",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's introductory statement grouping the three tannaim, which the prose of 'R. Eliezer b. Yaakov' explicitly describes as 'the launching point for Abaye's broader observation,' making it the natural close of that section rather than the start of a new one.",
+      "second_heading": "Rabbi & Slave",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita about the slave verse and Rav Na\u1e25man bar Yitz\u1e25ak's explanation, which corresponds precisely to the 'Rabbi & Slave' prose describing that exact baraita and question about the case's circumstances.",
+      "current_heading": "Abaye's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Extreme Conditions",
+    "candidates": [
+      "Rabbi & Slave",
+      "Freeing Slave",
+      "Me'achshav",
+      "Extreme Conditions",
+      "Rabbi Meir Dispute",
+      "Afkeinhu Rabanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes the exact baraita about betrothal under extreme conditions (conversion, emancipation, husband's death, sister's death, yavam's chalitza) which is precisely what the 'Extreme Conditions' prose section describes and introduces.",
+      "chosen_heading": "Extreme Conditions",
+      "current_heading": "Extreme Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Afkeinhu Rabanan",
+    "candidates": [
+      "Rabbi Meir Dispute",
+      "Afkeinhu Rabanan",
+      "Woman's Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Yehuda HaNasi's position (mekudeshet/mishum eivah) and the Gemara's question of why he isn't added to Abaye's list, which is precisely what the 'Afkeinhu Rabanan' prose describes.",
+      "chosen_heading": "Afkeinhu Rabanan",
+      "current_heading": "Afkeinhu Rabanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Woman's Vow",
+    "candidates": [
+      "Woman's Vow",
+      "Hands Exist"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita about a woman's konam vow over her labor and the ruling that the husband need not nullify it, which is precisely the subject introduced in candidate 0's prose about Rabbi Akiva and the woman's vow.",
+      "chosen_heading": "Woman's Vow",
+      "current_heading": "Woman's Vow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Hands Exist",
+    "candidates": [
+      "Hands Exist",
+      "Service Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Akiva's ruling about nullifying vows and Rav Huna's clarification that the vow targets the hands themselves (which exist in the world), which is precisely what the 'Hands Exist' section's prose describes.",
+      "chosen_heading": "Hands Exist",
+      "current_heading": "Hands Exist",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Service Condition",
+    "candidates": [
+      "Service Condition",
+      "Fee for Service"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself about conditional betrothal through service (speaking to authorities or performing labor), which is precisely what the 'Service Condition' prose introduces and analyzes.",
+      "chosen_heading": "Service Condition",
+      "current_heading": "Service Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Fee for Service",
+    "candidates": [
+      "Fee for Service",
+      "Accrual vs. End"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items cover the baraita challenges to Reish Lakish (donkey/wagon/boat, sit-with-me), the tiyuvta, and Reish Lakish's defense via the yeshnah/einah lisechirut distinction \u2014 exactly the content described in the 'Fee for Service' prose, which narrates this entire sequence through to the tiyuvta and Reish Lakish's deflection.",
+      "chosen_heading": "Fee for Service",
+      "current_heading": "Fee for Service",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Accrual vs. End",
+    "candidates": [
+      "Accrual vs. End",
+      "Silence Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement explaining why Resh Lakish was bothered by the mishna's use of 'al menat' rather than 'bischar,' which is explicitly discussed in the 'Accrual vs. End' prose section as Rava's answer to what compelled Resh Lakish's reading.",
+      "chosen_heading": "Accrual vs. End",
+      "current_heading": "Accrual vs. End",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Silence Interpretation",
+    "candidates": [
+      "Silence Interpretation",
+      "Rav Yannai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the mishna, the gemara's challenge to the 'verbal yes' interpretation, and the gemara's challenge to the 'silence' interpretation leading to 'shelo yimche abba' \u2014 are exactly the content described in candidate 0's prose, which walks through these same interpretive steps in sequence.",
+      "chosen_heading": "Silence Interpretation",
+      "current_heading": "Silence Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rav Yannai",
+    "candidates": [
+      "Rav Yannai",
+      "Thirty Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yannai's confirmation and Reish Lakish's methodological inference about preferring two reasons under one tanna over two tannaim with one reason, which is precisely what the 'Rav Yannai' section's prose describes.",
+      "chosen_heading": "Rav Yannai",
+      "current_heading": "Rav Yannai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Thirty Days",
+    "candidates": [
+      "Thirty Days",
+      "Father Believed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yosef bar Ami's statement about the thirty-day window, which is exactly what the prose under 'Thirty Days' describes and analyzes.",
+      "chosen_heading": "Thirty Days",
+      "current_heading": "Thirty Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Father Believed",
+    "candidates": [
+      "Father Believed",
+      "Single Claimant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself introducing the scenario of a father who doesn't know to whom he betrothed his daughter, which is precisely what the 'Father Believed' section's prose is discussing and explicating.",
+      "chosen_heading": "Father Believed",
+      "current_heading": "Father Believed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Single Claimant",
+    "candidates": [
+      "Single Claimant",
+      "Two Claimants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav's ruling distinguishing credibility to give a get versus to marry, which is precisely what the 'Single Claimant' prose discusses in detail.",
+      "chosen_heading": "Single Claimant",
+      "current_heading": "Single Claimant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Two Claimants",
+    "candidates": [
+      "Two Claimants",
+      "Woman's Claim",
+      "Woman's Interest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the dispute between Rav and Rav Asi about whether a claimant is believed to marry, and the mishna's case of two claimants refuting Rav \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Two Claimants",
+      "current_heading": "Two Claimants",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Woman's Interest",
+    "candidates": [
+      "Woman's Claim",
+      "Woman's Interest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the baraita that supports Rav Asi's ruling and introduces the woman's case \u2014 content that candidate 0 ('Woman's Claim') explicitly discusses, while candidate 1 ('Woman's Interest') discusses only the reasoning behind the woman's case, which is the prose elaboration that follows these quoted passages.",
+      "chosen_heading": "Woman's Claim",
+      "current_heading": "Woman's Interest",
+      "moved": true
+    }
+  }
+]

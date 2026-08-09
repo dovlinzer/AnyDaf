@@ -1,11 +1,11 @@
-# Sukkah 9 — Daf Yomi Shiur
+[DAF:9a]
+## Beis Shammai vs Hillel
 
-## Beis Shammai vs. Beis Hillel
+
 
 ### Old Sukkah Definition
 
-> **Hebrew/Aramaic:** מַתְנִי׳ סוּכָּה יְשָׁנָה — בֵּית שַׁמַּאי פּוֹסְלִין וּבֵית הִלֵּל מַכְשִׁירִין. וְאֵיזוֹ הִיא סוּכָּה יְשָׁנָה, כׇּל שֶׁעֲשָׂאָהּ קוֹדֶם לֶחָג שְׁלֹשִׁים יוֹם. אֲבָל אִם עֲשָׂאָהּ לְשֵׁם חַג, אֲפִילּוּ מִתְּחִילַּת הַשָּׁנָה — כְּשֵׁרָה.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ סוּכָּה יְשָׁנָה — בֵּית שַׁמַּאי פּוֹסְלִין וּבֵית הִלֵּל מַכְשִׁירִין. וְאֵיזוֹ הִיא סוּכָּה יְשָׁנָה, כׇּל שֶׁעֲשָׂאָהּ קוֹדֶם לֶחָג שְׁלֹשִׁים יוֹם. אֲבָל אִם עֲשָׂאָהּ לְשֵׁם חַג, אֲפִילּוּ מִתְּחִילַּת הַשָּׁנָה — כְּשֵׁרָה.
 > **Translation:** MISHNA: With regard to **an old *sukka*, Beit Shammai deem it unfit** for the mitzva of *sukka* **and Beit Hillel deem it fit. And which is** considered **an old *sukka*?** It is **any** booth **that one established thirty days** or more **prior to the Festival** without expressly designating that it was for the mitzva of *sukka*. In that case, the assumption is that he constructed it for some other purpose. **However, if he established it** expressly **for the sake of the festival** of *Sukkot*, **even** if he constructed it **at the beginning of the** previous **year, it is fit** for use in the fulfillment of the mitzva of *sukka*, even according to Beit Shammai.
 
 The ninth daf of Masechta Sukkah opens as a direct continuation of the preceding discussion, which concluded with the concept of *sukkah ganvach* — an acronym encompassing sukkos made by non-Jews (*goyim*), women (*nashim*), and animals (*behemah*). The ruling established there is that such a *sukkah* is *kosher*: no particular intent is required for the *sukkah* as an object of *mitzvah* to be valid. The sole requirement pertaining to the *sechach* is that it must have been placed there for the purpose of shade (*tzel*).
@@ -24,17 +24,18 @@ The Yerushalmi is thus pulling back from the full permissiveness of Beis Hillel 
 
 ### Beis Shammai's Intent
 
-> **Hebrew/Aramaic:** גְּמָ׳ מַאי טַעְמַיְיהוּ דְּבֵית שַׁמַּאי? אָמַר קְרָא: ״חַג הַסּוּכּוֹת שִׁבְעַת יָמִים לַה׳״, סוּכָּה הָעֲשׂוּיָה לְשֵׁם חַג בָּעֵינַן.
->
-> **Translation:** GEMARA: The Gemara asks: **What is the rationale** for the opinion **of Beit Shammai?** The Gemara explains that it is as **the verse states: "The festival of *Sukkot* is seven days unto the Lord"** (Leviticus 23:34), indicating that **we require a *sukka* established for the sake of the Festival.** A *sukka* not constructed expressly for the Festival is unfit.
+> **Hebrew/Aramaic:** גְּמָ׳ מַאי טַעְמַיְיהוּ דְּבֵית שַׁמַּאי? אָמַר קְרָא: ״חַג הַסּוּכּוֹת שִׁבְעַת יָמִים לַה׳״, סוּכָּה הָעֲשׂוּיָה לְשֵׁם חַג בָּעֵינַן.
+> **Translation:** GEMARA: The Gemara asks: **What is the rationale** for the opinion **of Beit Shammai?** The Gemara explains that it is as **the verse states: “The festival of *Sukkot* is seven days unto the Lord”** (Leviticus 23:34), indicating that **we require a *sukka* established for the sake of the Festival.** A *sukka* not constructed expressly for the Festival is unfit.
 
 The *gemara* proceeds to ask: *mai ta'amayhu d'Beis Shammai* — what is the textual basis for Beis Shammai's position that a *sukkah* must be built with the *chag* in mind? The *gemara* cites the verse: *chag ha-sukkos shivat yamim l'Hashem* — the festival of *Sukkos*, seven days, to God. Just as earlier in the *masechta* the word *sukkos* in a verse was read not merely as the name of the holiday but as a statement about the object itself, so too here. Reading the verse as *sukkah l'Hashem* — a *sukkah* for God — and reading *chag ha-sukkos* as requiring a *sukkas hachag*, Beis Shammai derives that the *sukkah* must be constructed as a *sukkah* for the *yom tov*. It cannot be a neutral hut; it must be identifiable as a *sukkas hachag*. *Sukkah asuyah l'shem chag ba'inan* — we require a *sukkah* that is made for the sake of the *chag*.
 
 ### Beis Hillel's Position
 
-> **Hebrew/Aramaic:** וּבֵית הִלֵּל? הַהוּא מִיבְּעֵי לֵיהּ לְכִדְרַב שֵׁשֶׁת. דְּאָמַר רַב שֵׁשֶׁת מִשּׁוּם רַבִּי עֲקִיבָא: מִנַּיִן לַעֲצֵי סוּכָּה שֶׁאֲסוּרִין כׇּל שִׁבְעָה — תַּלְמוּד לוֹמַר: ״חַג הַסּוּכּוֹת שִׁבְעַת יָמִים לַה׳״, וְתַנְיָא, רַבִּי יְהוּדָה בֶּן בְּתִירָה אוֹמֵר: כְּשֵׁם שֶׁחָל שֵׁם שָׁמַיִם עַל הַחֲגִיגָה, כָּךְ חָל שֵׁם שָׁמַיִם עַל הַסּוּכָּה, שֶׁנֶּאֱמַר: ״חַג הַסּוּכּוֹת שִׁבְעַת יָמִים לַה׳״, מָה חַג לַה׳ — אַף סוּכָּה לַה׳.
->
-> **Translation:** The Gemara asks: **And** how do **Beit Hillel** interpret this verse? The Gemara answers: In Beit Hillel's opinion, **that** verse **is necessary to** teach **in accordance with** the statement **of Rav Sheshet, as Rav Sheshet said in the name of Rabbi Akiva: From where** is it derived **that** use of **the wood of the *sukka* is prohibited** for any purpose other than for the *sukka* **all seven** days of the Festival, and it is designated exclusively for the mitzva? It is derived as **the verse states: "The festival of *Sukkot* is seven days unto the Lord."** **And it is taught** in a *baraita* in explanation that **Rabbi Yehuda ben Beteira says: Just as the name of Heaven takes effect upon the Festival peace-offering, so too, the name of Heaven takes effect upon the *sukka*, as it is stated: "The festival of *Sukkot* is seven days unto the Lord"; just as the Festival** offering **is** consecrated **to the Lord, so too, the *sukka* is** consecrated **to the Lord.**
+> **Hebrew/Aramaic:** וּבֵית הִלֵּל? הַהוּא מִיבְּעֵי לֵיהּ לְכִדְרַב שֵׁשֶׁת. דְּאָמַר רַב שֵׁשֶׁת מִשּׁוּם רַבִּי עֲקִיבָא: מִנַּיִן לַעֲצֵי סוּכָּה שֶׁאֲסוּרִין כׇּל שִׁבְעָה — תַּלְמוּד לוֹמַר: ״חַג הַסּוּכּוֹת שִׁבְעַת יָמִים לַה׳״,
+> **Translation:** The Gemara asks: **And** how do **Beit Hillel** interpret this verse? The Gemara answers: In Beit Hillel’s opinion, **that** verse **is necessary to** teach **in accordance with** the statement **of Rav Sheshet, as Rav Sheshet said in the name of Rabbi Akiva: From where** is it derived **that** use of **the wood of the *sukka* is prohibited** for any purpose other than for the *sukka* **all seven** days of the Festival, and it is designated exclusively for the mitzva? It is derived as **the verse states: “The festival of *Sukkot* is seven days unto the Lord.”**
+
+> **Hebrew/Aramaic:** וְתַנְיָא, רַבִּי יְהוּדָה בֶּן בְּתִירָה אוֹמֵר: כְּשֵׁם שֶׁחָל שֵׁם שָׁמַיִם עַל הַחֲגִיגָה, כָּךְ חָל שֵׁם שָׁמַיִם עַל הַסּוּכָּה, שֶׁנֶּאֱמַר: ״חַג הַסּוּכּוֹת שִׁבְעַת יָמִים לַה׳״, מָה חַג לַה׳ — אַף סוּכָּה לַה׳.
+> **Translation:** **And it is taught** in a *baraita* in explanation that **Rabbi Yehuda ben Beteira says: Just as the name of Heaven takes effect upon the Festival peace-offering, so too, the name of Heaven takes effect upon the *sukka*, as it is stated: “The festival of *Sukkot* is seven days unto the Lord”; just as the Festival** offering **is** consecrated **to the Lord, so too, the *sukka* is** consecrated **to the Lord.**
 
 Beis Hillel, however, requires this verse for an entirely different derivation. The *gemara* states that Beis Hillel uses the verse for what Rav Sheshet taught in the name of Rabbi Akiva: *minayin l'atzei sukkah she'asurin kol shivah* — from where do we know that the wood of a *sukkah* is forbidden for personal benefit throughout all seven days?
 
@@ -46,17 +47,21 @@ There is something striking about this position. Beis Hillel maintains on one ha
 
 ### Verse Interpretation
 
-> **Hebrew/Aramaic:** וּבֵית שַׁמַּאי נָמֵי מִיבְּעֵי לֵיהּ לְהָכִי! אִין הָכִי נָמֵי, אֶלָּא מַאי טַעְמַיְיהוּ דְּבֵית שַׁמַּאי — כְּתִיב קְרָא אַחֲרִינָא: ״חַג הַסּוּכּוֹת תַּעֲשֶׂה לְךָ שִׁבְעַת יָמִים״, סוּכָּה הָעֲשׂוּיָה לְשֵׁם חַג בָּעֵינַן.
->
-> **Translation:** The Gemara asks: **But** don't **Beit Shammai require** the verse **to** derive **this** *halakha* **as well?** The Gemara answers: **Yes, indeed it is so** that Beit Shammai derives the sanctity of the wood of the *sukka* from this verse. Therefore, the rationale for their opinion with regard to an old *sukka* must be based on a different verse. **Rather, what is the rationale** for the opinion **of Beit Shammai** with regard to an old *sukka*? **Another verse is written: "You shall prepare for you the festival of *Sukkot* for seven days"** (Deuteronomy 16:13), from which it is derived that **we require a *sukka* established for the sake of the Festival.**
+> **Hebrew/Aramaic:** וּבֵית שַׁמַּאי נָמֵי מִיבְּעֵי לֵיהּ לְהָכִי! אִין הָכִי נָמֵי,
+> **Translation:** The Gemara asks: **But** don’t **Beit Shammai require** the verse **to** derive **this** *halakha* **as well?** The Gemara answers: **Yes, indeed it is so** that Beit Shammai derives the sanctity of the wood of the *sukka* from this verse. Therefore, the rationale for their opinion with regard to an old *sukka* must be based on a different verse.
+
+> **Hebrew/Aramaic:** אֶלָּא מַאי טַעְמַיְיהוּ דְּבֵית שַׁמַּאי — כְּתִיב קְרָא אַחֲרִינָא: ״חַג הַסּוּכּוֹת תַּעֲשֶׂה לְךָ שִׁבְעַת יָמִים״, סוּכָּה הָעֲשׂוּיָה לְשֵׁם חַג בָּעֵינַן.
+> **Translation:** **Rather, what is the rationale** for the opinion **of Beit Shammai** with regard to an old *sukka*? **Another verse is written: “You shall prepare for you the festival of *Sukkot* for seven days”** (Deuteronomy 16:13), from which it is derived that **we require a *sukka* established for the sake of the Festival.**
 
 The *gemara* then asks: does Beis Shammai not also need the verse for the *chagigah* derivation — to establish that the *sukkah* is off-limits for personal benefit? The *gemara* answers: *ein hachi nami* — indeed, Beis Shammai does need it for that purpose as well. The word *chag* tells us the *sukkah* is like a *korban chagigah* and is forbidden for benefit. But then the *gemara* asks: if so, from where does Beis Shammai derive the requirement that the *sukkah* be designated for the *chag*? The answer is that Beis Shammai relies on a second verse: *chag ha-sukkos ta'aseh lecha shivat yamim* — the festival of *Sukkos* you shall make for yourself, seven days. Here again the juxtaposition of *chag* and *sukkah* is significant. Rashi reads the verse in a way that intermingles the terms — *sukkos ta'aseh lecha* for the *chag* — deriving that the *sukkah* one makes must be made for the sake of the *chag*. *Sukka asuyah l'shem chag ba'inan.*
 
 ### Chol HaMoed Construction
 
-> **Hebrew/Aramaic:** וּבֵית הִלֵּל — הַהוּא מִיבְּעֵי לֵיהּ לְעוֹשִׂין סוּכָּה בְּחוּלּוֹ שֶׁל מוֹעֵד. וּבֵית שַׁמַּאי — סְבִירָא לְהוּ כְּרַבִּי אֱלִיעֶזֶר, דְּאָמַר: אֵין עוֹשִׂין סוּכָּה בְּחוּלּוֹ שֶׁל מוֹעֵד.
->
-> **Translation:** The Gemara asks: **And** how do **Beit Hillel** interpret this verse? The Gemara answers: **That** verse **is necessary to** teach **that one** may **establish a *sukka*** even **during the intermediate days of the Festival.** If one failed to construct a *sukka* prior to the onset of the Festival, or if it collapsed during the Festival, he may establish it during the intermediate days, as the mitzva to establish a *sukka* is in effect for all seven days of the Festival. The Gemara asks: **And** from where do **Beit Shammai** derive this *halakha*? **They hold in accordance with** the opinion of **Rabbi Eliezer, who said: One** may **not establish a *sukka* during the intermediate days of the Festival.**
+> **Hebrew/Aramaic:** וּבֵית הִלֵּל — הַהוּא מִיבְּעֵי לֵיהּ לְעוֹשִׂין סוּכָּה בְּחוּלּוֹ שֶׁל מוֹעֵד.
+> **Translation:** The Gemara asks: **And** how do **Beit Hillel** interpret this verse? The Gemara answers: **That** verse **is necessary to** teach **that one** may **establish a *sukka*** even **during the intermediate days of the Festival.** If one failed to construct a *sukka* prior to the onset of the Festival, or if it collapsed during the Festival, he may establish it during the intermediate days, as the mitzva to establish a *sukka* is in effect for all seven days of the Festival.
+
+> **Hebrew/Aramaic:** וּבֵית שַׁמַּאי — סְבִירָא לְהוּ כְּרַבִּי אֱלִיעֶזֶר, דְּאָמַר: אֵין עוֹשִׂין סוּכָּה בְּחוּלּוֹ שֶׁל מוֹעֵד.
+> **Translation:** The Gemara asks: **And** from where do **Beit Shammai** derive this *halakha*? **They hold in accordance with** the opinion of **Rabbi Eliezer, who said: One** may **not establish a *sukka* during the intermediate days of the Festival.** Therefore, the requirement to build the *sukka* for the sake of the mitzva may be derived from this verse.
 
 Beis Hillel, however, reads the second verse differently. The emphasis for Beis Hillel falls not on the juxtaposition of *chag* and *sukkah* as a requirement of designation, but on the phrase *shivat yamim* — seven days. This teaches that one may construct a *sukkah* at any point during the seven days, including *chol ha-moed*. *Ha-hu mibayei lei l'oseh sukkah b'chol ha-moed* — Beis Hillel uses the verse to permit building a *sukkah* even during the intermediate days of the festival.
 
@@ -80,11 +85,15 @@ There remains a further debate among the *rishonim* as to whether this concept o
 
 ## Leshmah Principle
 
+
+
 ### Tzitzis Leshmah
 
-> **Hebrew/Aramaic:** וּבֵית הִלֵּל לֵית לְהוּ דְּרַב יְהוּדָה אָמַר רַב? דְּאָמַר רַב יְהוּדָה אָמַר רַב: עֲשָׂאָהּ מִן הַקּוֹצִין וּמִן הַנִּימִין וּמִן הַגְּרָדִין — פְּסוּלָה. מִן הַסִּיסִין — כְּשֵׁרָה, כִּי אַמְרִיתַהּ קַמֵּיהּ דִּשְׁמוּאֵל, אָמַר לִי: אַף מִן הַסִּיסִין נָמֵי פְּסוּלָה, (אַלְמָא) דְּבָעֵינַן טְוִיָּה לִשְׁמָהּ. הָכָא נָמֵי בָּעֵינַן סוּכָּה עֲשׂוּיָה לִשְׁמָהּ!
->
-> **Translation:** The Gemara proceeds to clarify Beit Hillel's opinion: **And** do **Beit Hillel not** agree with the statement **that Rav Yehuda** said that **Rav said? As Rav Yehuda said** that **Rav said:** If **one fashioned** ritual fringes **from** hanging threads that remain protruding from the fabric like **thorns** after most of the superfluous threads were torn, and tied them into ritual fringes; **or** if he tied the fringes **from threads** that hang down after sewing; **or** if he tied them **from the fringes [*geradin*]** that hang from the bottom of a garment, the ritual fringes are **unfit** for fulfilling the mitzva. However, if the ritual fringes were tied **from balls of thread** that were not spun for the sake of the mitzva, they are **fit. When I stated this** *halakha* in the name of Rav **before Shmuel, he said to me: Even** ritual fringes tied **from balls of thread** are **unfit, as we require the spinning** of the thread to be **for the sake of** the mitzva. Just as the threads for the ritual fringes must be spun for the sake of the mitzva, **here too, let us require a *sukka* established for the sake of** the mitzva.
+> **Hebrew/Aramaic:** וּבֵית הִלֵּל לֵית לְהוּ דְּרַב יְהוּדָה אָמַר רַב? דְּאָמַר רַב יְהוּדָה אָמַר רַב: עֲשָׂאָהּ מִן הַקּוֹצִין וּמִן הַנִּימִין וּמִן הַגְּרָדִין — פְּסוּלָה. מִן הַסִּיסִין — כְּשֵׁרָה,
+> **Translation:** The Gemara proceeds to clarify Beit Hillel’s opinion: **And** do **Beit Hillel not** agree with the statement **that Rav Yehuda** said that **Rav said? As Rav Yehuda said** that **Rav said:** If **one fashioned** ritual fringes **from** hanging threads that remain protruding from the fabric like **thorns** after most of the superfluous threads were torn, and tied them into ritual fringes; **or** if he tied the fringes **from threads** that hang down after sewing; **or** if he tied them **from the fringes [*geradin*]** that hang from the bottom of a garment, the ritual fringes are **unfit** for fulfilling the mitzva. However, if the ritual fringes were tied **from balls of thread** that were not spun for the sake of the mitzva, they are **fit.**
+
+> **Hebrew/Aramaic:** כִּי אַמְרִיתַהּ קַמֵּיהּ דִּשְׁמוּאֵל, אָמַר לִי: אַף מִן הַסִּיסִין נָמֵי פְּסוּלָה, (אַלְמָא) דְּבָעֵינַן טְוִיָּה לִשְׁמָהּ. הָכָא נָמֵי בָּעֵינַן סוּכָּה עֲשׂוּיָה לִשְׁמָהּ!
+> **Translation:** And Rav Yehuda related: **When I stated this** *halakha* in the name of Rav **before Shmuel, he said to me: Even** ritual fringes tied **from balls of thread** are **unfit, as we require the spinning** of the thread to be **for the sake of** the mitzva. Just as the threads for the ritual fringes must be spun for the sake of the mitzva, **here too, let us require a *sukka* established for the sake of** the mitzva.
 
 The discussion now turns to a broader question raised by *Abaye*: does Beis Hillel not hold of the ruling of Rav Yehuda in the name of Rav? What is that ruling?
 
@@ -94,11 +103,18 @@ When Rav Yehuda later reported this ruling before Shmuel, Shmuel went further: *
 
 This produces a dispute between Rav and Shmuel: Rav holds that as long as the strings are placed in the garment for the sake of *tzitzis*, the underlying material need not have been designated beforehand; Shmuel holds that even the spinning must be done *lishmah*. But critically, both agree that some act of designation — at minimum, the insertion of the strings into the garment — must be performed *lishmah*.
 
+The ruling of Rav and Shmuel thus establishes a general principle: when one wishes to use an object to fulfill a *mitzvah*, some stage of its construction or preparation must be done for the sake of that *mitzvah*. One cannot simply conscript a ready-made object into *mitzvah* use without any deliberate act of designation. This is where the *gemara*'s challenge against Beis Hillel becomes sharp. At this point in the discussion we have exactly two data points — *tzitzis*, which requires *asiyah lishmah*, and *sukkah*, which according to Beis Hillel does not. These two cases point in opposite directions, which means there is no single universal rule that covers both, and we are left with a prior question: which of the two represents the rule, and which represents the exception? One could argue that everything requires *lishmah* and *sukkah* is an anomaly, or conversely that nothing requires *lishmah* and *tzitzis* is the anomaly. The *gemara* now moves to resolve which framing is correct — a question the next stage of the discussion takes up directly.
+
 ### Sukkah Exception
 
-> **Hebrew/Aramaic:** שָׁאנֵי הָתָם, דְּאָמַר קְרָא: ״גְּדִילִים תַּעֲשֶׂה לָךְ״, לָךְ — לְשֵׁם חוֹבָךְ. הָכָא נָמֵי: ״חַג הַסּוּכּוֹת תַּעֲשֶׂה לְךָ״, לָךְ — לְשֵׁם חוֹבָךְ! הַהוּא מִיבְּעֵי לֵיהּ לְמַעוֹטֵי גְּזוּלָה. הָתָם נָמֵי מִיבְּעֵי לֵיהּ לְמַעוֹטֵי גְּזוּלָה! הָתָם כְּתִיב קְרָא אַחֲרִינָא: ״וְעָשׂוּ לָהֶם״ — מִשֶּׁלָּהֶם.
->
-> **Translation:** The Gemara answers: It is **different there, as the verse states: "You shall prepare for you fringes"** (Deuteronomy 22:12), from which it is derived: **"For you," for the sake of your obligation.** The fringes, from the beginning of their production, must be produced for the sake of the mitzva. The Gemara asks: **Here, too,** with regard to *sukka*, the verse says: **"You shall prepare for you the festival of *Sukkot*"** (Deuteronomy 16:13). Shouldn't it be derived: **"For you," for the sake of your obligation?** The Gemara answers that **this** term "for you" **is required to exclude** use of a **stolen** *sukka*; establish the *sukka* for you, and do not use a *sukka* belonging to another. The Gemara asks: **There, too,** with regard to ritual fringes, **isn't** the term "for you" **required to exclude** use of **stolen** ritual fringes? The Gemara answers: **There,** with regard to ritual fringes, **another verse is written: "And they shall make for them** ritual fringes" (Numbers 15:38), from which it is derived: "For them," **of their own,** to exclude the use of stolen ritual fringes. Therefore from the term "for you," it may be derived that ritual fringes must be produced for the sake of the mitzva.
+> **Hebrew/Aramaic:** שָׁאנֵי הָתָם, דְּאָמַר קְרָא: ״גְּדִילִים תַּעֲשֶׂה לָךְ״, לָךְ — לְשֵׁם חוֹבָךְ. הָכָא נָמֵי: ״חַג הַסּוּכּוֹת תַּעֲשֶׂה לְךָ״, לָךְ — לְשֵׁם חוֹבָךְ!
+> **Translation:** The Gemara answers: It is **different there, as the verse states: “You shall prepare for you fringes”** (Deuteronomy 22:12), from which it is derived: **“For you,” for the sake of your obligation.** The fringes, from the beginning of their production, must be produced for the sake of the mitzva. The Gemara asks: **Here, too,** with regard to *sukka*, the verse says: **“You shall prepare for you the festival of *Sukkot*”** (Deuteronomy 16:13). Shouldn’t it be derived: **“For you,” for the sake of your obligation?**
+
+> **Hebrew/Aramaic:** הַהוּא מִיבְּעֵי לֵיהּ לְמַעוֹטֵי גְּזוּלָה. הָתָם נָמֵי מִיבְּעֵי לֵיהּ לְמַעוֹטֵי גְּזוּלָה!
+> **Translation:** The Gemara answers that **this** term “for you” **is required to exclude** use of a **stolen** *sukka*; establish the *sukka* for you, and do not use a *sukka* belonging to another. The Gemara asks: **There, too,** with regard to ritual fringes, **isn’t** the term “for you” **required to exclude** use of **stolen** ritual fringes?
+
+> **Hebrew/Aramaic:** הָתָם כְּתִיב קְרָא אַחֲרִינָא: ״וְעָשׂוּ לָהֶם״ — מִשֶּׁלָּהֶם.
+> **Translation:** The Gemara answers: **There,** with regard to ritual fringes, **another verse is written: “And they shall make for them** ritual fringes” (Numbers 15:38), from which it is derived: “For them,” **of their own,** to exclude the use of stolen ritual fringes. Therefore from the term “for you,” it may be derived that ritual fringes must be produced for the sake of the mitzva.
 
 The *gemara* raises the challenge: given this universal principle that objects of *mitzvah* must be made *lishmah*, why does Beis Hillel permit a *sukkah* that was built with no such intent? Should we not require *sukkah asuyah lishmah*?
 
@@ -126,23 +142,23 @@ One might ask: why does the Torah need to tell us that a stolen *sukkah* is inva
 
 ## Sukkah Under Tree
 
-### Tree Prohibition
 
-> **Hebrew/Aramaic:** מַתְנִי׳ הָעוֹשֶׂה סוּכָּתוֹ תַּחַת הָאִילָן — כְּאִילּוּ עֲשָׂאָהּ בְּתוֹךְ הַבַּיִת.
->
-> **Translation:** MISHNA: With regard to **one who establishes his *sukka* beneath a tree,** it is **as though he established it inside the house** and it is unfit.
+
+[DAF:9b]
+### Tree Prohibition
 
 The *mishnah* presents its next case: *ha-oseh sukkato tachas ha-ilan* — one who constructs his *sukkah* under a tree. Such a *sukkah* is invalid — *k'ilu asah b'toch ha-bayis* — it is as if he built it inside the house. A tree constitutes *pasul sechach* because it remains attached to the ground. Were its branches to be severed and placed as *sechach*, they would be entirely valid; but while still attached and living, they are *pasul*. The question that now presents itself is: what is the status of valid *sechach* (*kosher s'chach*) positioned underneath *pasul sechach*?
 
-### Sukkah Tachas Sukkah
+> **Hebrew/Aramaic:** מַתְנִי׳ הָעוֹשֶׂה סוּכָּתוֹ תַּחַת הָאִילָן — כְּאִילּוּ עֲשָׂאָהּ בְּתוֹךְ הַבַּיִת. סוּכָּה עַל גַּבֵּי סוּכָּה — הָעֶלְיוֹנָה כְּשֵׁרָה וְהַתַּחְתּוֹנָה פְּסוּלָה. רַבִּי יְהוּדָה אוֹמֵר: אִם אֵין דָּיוֹרִין בָּעֶלְיוֹנָה — הַתַּחְתּוֹנָה כְּשֵׁרָה.
+> **Translation:** MISHNA: With regard to **one who establishes his *sukka* beneath a tree,** it is **as though he established it inside the house** and it is unfit. If one established **a *sukka* atop** another ***sukka*, the upper** *sukka* **is fit and the lower** *sukka* **is unfit. Rabbi Yehuda says: If there are no residents in the upper** *sukka*, **the lower** *sukka* **is fit.**
 
-> **Hebrew/Aramaic:** סוּכָּה עַל גַּבֵּי סוּכָּה — הָעֶלְיוֹנָה כְּשֵׁרָה וְהַתַּחְתּוֹנָה פְּסוּלָה. רַבִּי יְהוּדָה אוֹמֵר: אִם אֵין דָּיוֹרִין בָּעֶלְיוֹנָה — הַתַּחְתּוֹנָה כְּשֵׁרָה.
->
-> **Translation:** If one established **a *sukka* atop** another ***sukka*, the upper** *sukka* **is fit and the lower** *sukka* **is unfit. Rabbi Yehuda says: If there are no residents in the upper** *sukka*, **the lower** *sukka* **is fit.**
+### Sukkah Tachas Sukkah
 
 The *mishnah* continues with an adjacent case: *sukkah al gabei sukkah* — a double-decker *sukkah*, one *sukkah* constructed directly above another, with both composed of valid *sechach*. The ruling is: *ha-elyonah kesherah ve-ha-tachtonah pesulah* — the upper *sukkah* is valid, the lower one is invalid. This seems counterintuitive: if both use *kosher sechach*, why should the lower one be invalid? The *gemara* derives from a verse the principle of *sukkah tachas sukkah* — one may be under only a single *sukkah*, not beneath two layers of *sukkah*. The upper *sukkah* is under only its own roof; the lower one is beneath two layers of *sukkah*, which renders it invalid.
 
 If the *sukkah tachas sukkah* principle applies even when both layers are *kosher sechach*, it applies all the more so when the upper layer is *pasul sechach*, such as a tree. In the case of a tree, not only is there a double-roof problem, but the upper layer is itself invalid.
+
+### Rabbi Yehuda's Exception
 
 Rabbi Yehuda introduces a qualification: *im ein diyurin ba-elyonah, ha-tachtonah kesherah* — if no one is actually dwelling in the upper *sukkah*, the lower one is valid. Rabbi Yehuda accepts the principle of *sukkah tachas sukkah* in theory, but holds that the upper structure only acquires the functional identity of a *sukkah* when people are actually living in it. If the upper layer of *sechach* is not being used as a *sukkah* — even if it is theoretically usable as one — it does not generate the *sukkah tachas sukkah* problem. It is then simply a double layer of *sechach*, and the lower *sukkah* remains valid.
 
@@ -152,21 +168,25 @@ This is a striking position. A structure of very sturdy, tightly woven *sechach*
 
 ## Rava's Shade Analysis
 
+
+
 ### Shade-Sunlight Ratio
 
-> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רָבָא: לֹא שָׁנוּ אֶלָּא בְּאִילָן שֶׁצִּלָּתוֹ מְרוּבָּה מֵחֲמָתוֹ, אֲבָל חֲמָתוֹ מְרוּבָּה מִצִּלָּתוֹ — כְּשֵׁרָה. מִמַּאי — מִדְּקָתָנֵי: ״כְּאִילּוּ עֲשָׂאָהּ בְּתוֹךְ הַבַּיִת״: לְמָה לִי לְמִיתְנֵי ״כְּאִילּוּ עֲשָׂאָהּ בְּתוֹךְ הַבַּיִת״? לִיתְנֵי ״פְּסוּלָה״! אֶלָּא, הָא קָא מַשְׁמַע לַן דְּאִילָן דּוּמְיָא דְּבַיִת: מָה בַּיִת צִלָּתוֹ מְרוּבָּה מֵחֲמָתוֹ — אַף אִילָן צִלָּתוֹ מְרוּבָּה מֵחֲמָתוֹ.
->
-> **Translation:** GEMARA: **Rava said: They taught** this *halakha* that a *sukka* beneath a tree is unfit **only with regard to a tree whose shade is greater than its sunlight,** as the source of the shade in the *sukka* is the tree and not the roofing. **However, if its sunlight is greater than its shade,** the *sukka* **is fit,** as in that case the roofing provides the shade. The Gemara asks: **From where** does Rava reach this conclusion? The Gemara answers: He learns this **from** the fact **that** the mishna **teaches:** It is **as though he established it inside the house. Why do I** need the mishna **to teach:** It is **as though he established it inside the house? Let** the mishna **teach** simply: It is **unfit. Rather, this is teaching us that** in the context of this *halakha*, **a tree is similar to a house; just as** with regard to **a house, its shade is greater than its sunlight, so too,** with regard to **a tree,** it invalidates the *sukka* only if **its shade is greater than its sunlight.**
+
+> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רָבָא: לֹא שָׁנוּ אֶלָּא בְּאִילָן שֶׁצִּלָּתוֹ מְרוּבָּה מֵחֲמָתוֹ, אֲבָל חֲמָתוֹ מְרוּבָּה מִצִּלָּתוֹ — כְּשֵׁרָה.
+> **Translation:** GEMARA: **Rava said: They taught** this *halakha* that a *sukka* beneath a tree is unfit **only with regard to a tree whose shade is greater than its sunlight,** as the source of the shade in the *sukka* is the tree and not the roofing. **However, if its sunlight is greater than its shade,** the *sukka* **is fit,** as in that case the roofing provides the shade.
+
+> **Hebrew/Aramaic:** מִמַּאי — מִדְּקָתָנֵי: ״כְּאִילּוּ עֲשָׂאָהּ בְּתוֹךְ הַבַּיִת״: לְמָה לִי לְמִיתְנֵי ״כְּאִילּוּ עֲשָׂאָהּ בְּתוֹךְ הַבַּיִת״? לִיתְנֵי ״פְּסוּלָה״! אֶלָּא, הָא קָא מַשְׁמַע לַן דְּאִילָן דּוּמְיָא דְּבַיִת: מָה בַּיִת צִלָּתוֹ מְרוּבָּה מֵחֲמָתוֹ — אַף אִילָן צִלָּתוֹ מְרוּבָּה מֵחֲמָתוֹ.
+> **Translation:** The Gemara asks: **From where** does Rava reach this conclusion? The Gemara answers: He learns this **from** the fact **that** the mishna **teaches:** It is **as though he established it inside the house. Why do I** need the mishna **to teach:** It is **as though he established it inside the house? Let** the mishna **teach** simply: It is **unfit. Rather, this is teaching us that** in the context of this *halakha*, **a tree is similar to a house; just as** with regard to **a house, its shade is greater than its sunlight, so too,** with regard to **a tree,** it invalidates the *sukka* only if **its shade is greater than its sunlight.**
+
+> **Hebrew/Aramaic:** וְכִי חֲמָתוֹ מְרוּבָּה מִצִּלָּתוֹ, מַאי הָוֵי? הָא קָא מִצְטָרֵף סְכָךְ פָּסוּל בַּהֲדֵי סְכָךְ כָּשֵׁר! אָמַר רַב פָּפָּא: בְּשֶׁחֲבָטָן.
+> **Translation:** The Gemara asks: **And** even **if the sunlight is greater than the shade** of the tree, **what of it?** Why does Rava deem the *sukka* beneath the tree fit in that case? **Isn’t** there **unfit roofing,** the uncut branches of the tree, **joining together with** the **fit roofing** on the *sukka*, rendering even the fit roofing on the *sukka* unfit? **Rav Pappa said:** This is referring to a case **where one lowered** the uncut branches and combined them with the fit roofing so that the branches still attached to the tree are inconspicuous. Given that the majority of the roofing is fit, the roofing in its entirety is fit.
 
 The *gemara* opens its analysis of the tree case with a ruling from Rava: *lo shanu ela b'ilan she-tzilato meruba mi-chamato* — the *mishnah*'s invalidation of a *sukkah* under a tree applies only when the tree provides more shade than sunlight over the area beneath it. In that case, the tree is functioning as a roof — a second, invalid roof positioned above the valid *sukkah*. Given that *sukkah tachas sukkah* invalidates the lower *sukkah* even when both layers are *kosher*, it certainly applies when the upper layer is *pasul*. But *aval chamato meruba mi-tzilato — kesherah*: if more sunlight comes through than shade, the tree is not functioning as a roof, and the *sukkah* beneath it is valid.
 
 Rava derives this from the *mishnah*'s own language. Rather than simply declaring the *sukkah* under a tree invalid (*pesulah*), the *mishnah* offers the metaphor: *k'ilu asah b'toch ha-bayis* — it is like having built it inside the house. This formulation is not merely rhetorical flourish. The *gemara* reads it as a limiting principle: *ilan dumya de-bayis* — a tree is problematic only when it resembles a house. Just as a house is characterized by its roof providing more shade than sunlight — that is what makes it a genuine covering — a tree functions as an invalidating roof only when it similarly provides more shade than sunlight over the area of the *sukkah*.
 
 ### Schach Combination
-
-> **Hebrew/Aramaic:** וְכִי חֲמָתוֹ מְרוּבָּה מִצִּלָּתוֹ, מַאי הָוֵי? הָא קָא מִצְטָרֵף סְכָךְ פָּסוּל בַּהֲדֵי סְכָךְ כָּשֵׁר! אָמַר רַב פָּפָּא: בְּשֶׁחֲבָטָן.
->
-> **Translation:** The Gemara asks: **And** even **if the sunlight is greater than the shade** of the tree, **what of it?** Why does Rava deem the *sukka* beneath the tree fit in that case? **Isn't** there **unfit roofing,** the uncut branches of the tree, **joining together with** the **fit roofing** on the *sukka*, rendering even the fit roofing on the *sukka* unfit? **Rav Pappa said:** This is referring to a case **where one lowered** the uncut branches and combined them with the fit roofing so that the branches still attached to the tree are inconspicuous. Given that the majority of the roofing is fit, the roofing in its entirety is fit.
 
 The *gemara*, however, does not allow Rava's ruling to stand unchallenged. Even if the tree provides only a minority of shade — even if it is not functioning as a full roof — there remains a problem: *ha kamitztaref schach pasul bahadi schach kasher* — the *pasul sechach* of the tree is combining with the *kosher sechach* of the *sukkah*. The problematic branches overhanging the *sukkah*, even if they constitute only a minority of the shade, are still present and interacting with the valid *sechach* below.
 
@@ -180,10 +200,6 @@ These are two very different readings of the *gemara*, and the practical consequ
 
 ### Mixed Schach Solution
 
-> **Hebrew/Aramaic:** אִי בְּשֶׁחֲבָטָן מַאי לְמֵימְרָא! מַהוּ דְּתֵימָא: נִיגְזוֹר הֵיכָא דַּחֲבָטָן אַטּוּ הֵיכָא דְּלֹא חֲבָטָן, קָא מַשְׁמַע לַן דְּלָא גָּזְרִינַן. הָא נָמֵי תְּנֵינָא: הִדְלָה עָלֶיהָ: אֶת הַגֶּפֶן וְאֶת הַדְּלַעַת וְאֶת הַקִּיסוֹס, וְסִיכֵּךְ עַל גַּבָּן — פְּסוּלָה, וְאִם הָיָה סִיכּוּךְ הַרְבֵּה מֵהֶן אוֹ שֶׁקְּצָצָן — כְּשֵׁרָה.
->
-> **Translation:** The Gemara asks: **If** it is a case **where he lowered them, what is** the purpose of **stating** this *halakha*? Isn't it self-evident? The Gemara answers that it is necessary **lest you say: Let us issue a decree** and deem the roofing unfit in a case **where one lowered them due to** a case **where one did not lower them.** Therefore, **it teaches us that we do not issue** such **a decree.** The Gemara asks: **That** *halakha*, **too, we** already **learned** in a mishna: **If one trellised the grapevine, the gourd, or the ivy,** climbing plants, over a *sukka* while they are still attached to the ground, **and** he then added **roofing atop them,** the *sukka* is **unfit,** as roofing attached to the ground is unfit. **If** the amount of fit **roofing was greater than** the plants attached to the ground, **or if he cut** the climbing plants so that they were no longer attached to the ground, **it is fit.**
-
 The *gemara* proposes a solution to the problem of combining *pasul sechach* with *kosher sechach*: *amar Rav Pappa b'she-chavtan* — Rav Pappa says the case is one where the branches have been beaten down and mixed together with the *kosher sechach*.
 
 The image is of a pliable tree whose overhanging branches have been bent down and intermingled with the valid *sechach* laid on the *sukkah*'s roof. Rather than the *pasul sechach* sitting distinctly above the *kosher sechach*, the two are now genuinely mixed together into a single mass. In such a case, the *halacha* treats the combined unit as a whole and defines its identity by its majority. If the *kosher sechach* constitutes the majority of the mixture, the entire mass is valid.
@@ -194,19 +210,24 @@ This concept finds a parallel in other areas of *halacha*: for example, when det
 
 ### Mixed Schach Halacha
 
-> **Hebrew/Aramaic:** הֵיכִי דָּמֵי? אִילֵּימָא בְּשֶׁלֹּא חֲבָטָן, הָא קָא מִצְטָרֵף סְכָךְ פָּסוּל עִם סְכָךְ כָּשֵׁר! אֶלָּא לָאו, כְּשֶׁחֲבָטָן, וּשְׁמַע מִינַּהּ דְּלָא גָּזְרִינַן! מַהוּ דְּתֵימָא: הָנֵי מִילֵּי בְּדִיעֲבַד — אֲבָל לְכַתְּחִילָּה לָא, קָא מַשְׁמַע לַן.
->
-> **Translation:** The Gemara clarifies the details of the mishna: **What are the circumstances? If we say** that it is referring to a case where **he did not lower** the climbing plants and combine them with the fit roofing, **doesn't** the **unfit roofing join together with** the **fit roofing** on the *sukka*, rendering even the fit roofing on the *sukka* unfit? **Rather, isn't** the mishna referring to a case **where he lowered them, and conclude from this** mishna **that we do not issue a decree** in a case where he lowered the branches due to a case where he did not lower the branches. Rava's statement is therefore unnecessary. The Gemara answers: **Lest you say that this applies** only **after the fact,** i.e., that if one already lowered the uncut branches or plants it is not unfit, **but** one may **not** do so ***ab initio*;** therefore, Rava **teaches us** that one may place roofing in this manner even *ab initio*.
+> **Hebrew/Aramaic:** אִי בְּשֶׁחֲבָטָן מַאי לְמֵימְרָא! מַהוּ דְּתֵימָא: נִיגְזוֹר הֵיכָא דַּחֲבָטָן אַטּוּ הֵיכָא דְּלֹא חֲבָטָן, קָא מַשְׁמַע לַן דְּלָא גָּזְרִינַן.
+> **Translation:** The Gemara asks: **If** it is a case **where he lowered them, what is** the purpose of **stating** this *halakha*? Isn’t it self-evident? The Gemara answers that it is necessary **lest you say: Let us issue a decree** and deem the roofing unfit in a case **where one lowered them due to** a case **where one did not lower them.** Therefore, **it teaches us that we do not issue** such **a decree.**
 
 The *gemara* asks: if the solution is simply that the branches were mixed together with the *kosher sechach*, what is the *chiddush*? This should be entirely obvious. The *gemara* answers: one might have thought that even when mixed, we should prohibit the *sukkah* as a *gezeirah* — a rabbinic safeguard — lest people assume that mixing is unnecessary and attempt to use *pasul sechach* without mixing it in. The ruling teaches *d'lo gazrinan* — we do not impose such a *gezeirah*. When the mixing has been properly done, the *sukkah* is valid, and we are not concerned that this will lead to laxity.
 
 ### Vines and Gourds
 
-The *gemara* then notes that this principle is already taught in another *mishnah*: *hidli aleha et ha-gefen ve-et ha-dala'at ve-et ha-kissom* — if one bent over the *sukkah* a grapevine, a gourd plant, or *kissom* (some other pliable plant), *v'sichech al gaban* — and placed *sechach* on top of them — *pesulah*, the *sukkah* is invalid. However, *im hayah sichuch harbeh mehem* — if the *kosher sechach* was more than the vine and gourd, *o she-katzatztan* — or if one actually severed the plants from their roots — *kesherah*, it is valid. The case of cutting the plants and thereby removing their *pasul* status involves a separate principle that will be addressed later (*ta'aseh v'lo min he-asuy*). The significant *chiddush* here is the first clause: if the *kosher sechach* is the majority and is mixed in with the vine and gourd, the *sukkah* is valid despite the presence of the *pasul sechach*.
+> **Hebrew/Aramaic:** הָא נָמֵי תְּנֵינָא: הִדְלָה עָלֶיהָ: אֶת הַגֶּפֶן וְאֶת הַדְּלַעַת וְאֶת הַקִּיסוֹס, וְסִיכֵּךְ עַל גַּבָּן — פְּסוּלָה, וְאִם הָיָה סִיכּוּךְ הַרְבֵּה מֵהֶן אוֹ שֶׁקְּצָצָן — כְּשֵׁרָה.
+> **Translation:** The Gemara asks: **That** *halakha*, **too, we** already **learned** in a mishna: **If one trellised the grapevine, the gourd, or the ivy,** climbing plants, over a *sukka* while they are still attached to the ground, **and** he then added **roofing atop them,** the *sukka* is **unfit,** as roofing attached to the ground is unfit. **If** the amount of fit **roofing was greater than** the plants attached to the ground, **or if he cut** the climbing plants so that they were no longer attached to the ground, **it is fit.**
+
+The *gemara* then notes that this principle is already taught in another *mishnah*: *hidli aleha et ha-gefen ve-et ha-dala'at ve-et ha-kissom* — if one bent over the *sukkah* a grapevine, a gourd plant, or *kissom* (some other pliable plant), *v'sichech al gaban* — and placed *sechach* on top of them — *pesulah*. The *sukkah* is invalid. However, *im hayah sichuch harbeh mehem* — if the *kosher sechach* was more than the vine and gourd, *o she-katzatztan* — or if one actually severed the plants from their roots — *kesherah*, it is valid. The case of cutting the plants and thereby removing their *pasul* status involves a separate principle that will be addressed later (*ta'aseh v'lo min he-asuy*). The significant *chiddush* here is the first clause: if the *kosher sechach* is the majority and is mixed in with the vine and gourd, the *sukkah* is valid despite the presence of the *pasul sechach*.
 
 This *mishnah* thus already establishes that when *pasul sechach* is genuinely mixed with *kosher sechach* and the *kosher* is the majority, the *sukkah* is valid — and that we do not prohibit the mixture out of concern that one will fail to mix properly.
 
 ### Bediavad vs. Lechatila
+
+> **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִילֵּימָא בְּשֶׁלֹּא חֲבָטָן, הָא קָא מִצְטָרֵף סְכָךְ פָּסוּל עִם סְכָךְ כָּשֵׁר! אֶלָּא לָאו, כְּשֶׁחֲבָטָן, וּשְׁמַע מִינַּהּ דְּלָא גָּזְרִינַן! מַהוּ דְּתֵימָא: הָנֵי מִילֵּי בְּדִיעֲבַד — אֲבָל לְכַתְּחִילָּה לָא, קָא מַשְׁמַע לַן.
+> **Translation:** The Gemara clarifies the details of the mishna: **What are the circumstances? If we say** that it is referring to a case where **he did not lower** the climbing plants and combine them with the fit roofing, **doesn’t** the **unfit roofing join together with** the **fit roofing** on the *sukka*, rendering even the fit roofing on the *sukka* unfit? **Rather, isn’t** the mishna referring to a case **where he lowered them, and conclude from this** mishna **that we do not issue a decree** in a case where he lowered the branches due to a case where he did not lower the branches. Rava’s statement is therefore unnecessary. The Gemara answers: **Lest you say that this applies** only **after the fact,** i.e., that if one already lowered the uncut branches or plants it is not unfit, **but** one may **not** do so ***ab initio*;** therefore, Rava **teaches us** that one may place roofing in this manner even *ab initio*.
 
 The *gemara* raises one further refinement. One might have thought that the validity of a mixed *sukkah* applies only *b'diavad* — after the fact, if one has already constructed the *sukkah* in this manner, we will tell him it is valid and he need not dismantle it. But *l'chatchila* — as an initial matter, if one asks what to do — the proper answer should be to cut down the branches or move the *sukkah*. The *gemara* rules *kamashma lan* that even *l'chatchila* one may mix the *pasul sechach* with the *kosher sechach* to resolve the problem. The mixing is a fully acceptable initial solution, not merely a *b'diavad* concession.
 

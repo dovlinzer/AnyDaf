@@ -1,0 +1,296 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Hair/Dust/Sand",
+    "candidates": [
+      "Stam Nezirut Intro",
+      "Singular vs. Plural",
+      "Hair/Dust/Sand",
+      "Rabbi's Position",
+      "House/Basket Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehuda HaNasi's dissent stating that the hair/dust/sand nazirite does NOT shave every thirty days, and clarifying that only using the plural 'neziruyot' would produce multiple terms \u2014 which is precisely what the prose under 'Rabbi's Position' describes.",
+      "chosen_heading": "Rabbi's Position",
+      "current_heading": "Hair/Dust/Sand",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "House/Basket Case",
+    "candidates": [
+      "Rabbi's Position",
+      "House/Basket Case",
+      "Distance Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the house/basket case (melo habayis/melo hakupa) with the bodkin, achas gedolah, and stam nazarti rules, which is precisely what the 'House/Basket Case' prose discusses.",
+      "chosen_heading": "House/Basket Case",
+      "current_heading": "House/Basket Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Distance Cases",
+    "candidates": [
+      "Distance Cases",
+      "Solar Year"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the 'from here to such-and-such a place' rule with the thirty-day minimum and distance-based duration, which is exactly what the 'Distance Cases' prose discusses.",
+      "chosen_heading": "Distance Cases",
+      "current_heading": "Distance Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Solar Year",
+    "candidates": [
+      "Solar Year",
+      "Mustard vs. Watermelon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the solar year nazirite vow and Rabbi Yehuda's incident, which is precisely what the 'Solar Year' section's prose discusses.",
+      "chosen_heading": "Solar Year",
+      "current_heading": "Solar Year",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Mustard vs. Watermelon",
+    "candidates": [
+      "Mustard vs. Watermelon",
+      "Safek Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly raises the question of why the basket is viewed as full of mustard seeds rather than cucumbers/gourds, which is precisely what the 'Mustard vs. Watermelon' section's prose addresses.",
+      "chosen_heading": "Mustard vs. Watermelon",
+      "current_heading": "Mustard vs. Watermelon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Safek Principle",
+    "candidates": [
+      "Safek Principle",
+      "Conditional Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes \u1e24izkiyya identifying the mishna as a dispute and citing Rabbi Shimon's principle that 'a person places himself in a state where uncertainty is more stringent than certainty' \u2014 precisely the formulation and principle discussed in the 'Safek Principle' prose section.",
+      "chosen_heading": "Safek Principle",
+      "current_heading": "Safek Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Conditional Case",
+    "candidates": [
+      "Conditional Case",
+      "Safek Worse Problem",
+      "Solution Strategy",
+      "Tamei Scenario",
+      "Status Quo Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita about the conditional naziriteship with the pile of grain and the Rabbi Shimon/Rabbi Yehuda dispute over safek nezirut \u2014 exactly what the 'Conditional Case' prose describes in detail.",
+      "chosen_heading": "Conditional Case",
+      "current_heading": "Conditional Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Status Quo Logic",
+    "candidates": [
+      "Safek Worse Problem",
+      "Solution Strategy",
+      "Tamei Scenario",
+      "Status Quo Logic",
+      "First Ends Status",
+      "Second Term Start"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Yochanan's distinction between 'lo nachis lei l'nezirus' and 'nachis lei l'nezirus' and the subsequent gemara challenge about removing naziriteship, which is precisely what the 'Status Quo Logic' prose section describes.",
+      "chosen_heading": "Status Quo Logic",
+      "current_heading": "Status Quo Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Second Term Start",
+    "candidates": [
+      "First Ends Status",
+      "Second Term Start",
+      "Singular Test",
+      "365 Days Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly establishes that Rabbi Yehuda holds like Rebbi regarding the singular formulation \u2014 exactly what the 'Singular Test' section's prose describes as the gemara's proposal to explain how Rabbi Yehudah could treat the basket case as one nezirut.",
+      "chosen_heading": "Singular Test",
+      "current_heading": "Second Term Start",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "365 Days Proof",
+    "candidates": [
+      "Singular Test",
+      "365 Days Proof",
+      "Number Difference",
+      "Figs/Paths Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's challenge to the hypothesis that Rabbi Yehuda holds like Rebbi, citing the solar-year nazirite case and Rabbi Yehuda's endorsing story, which is precisely what the '365 Days Proof' section's prose describes.",
+      "chosen_heading": "365 Days Proof",
+      "current_heading": "365 Days Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Figs/Paths Proof",
+    "candidates": [
+      "Number Difference",
+      "Figs/Paths Proof",
+      "Partial Agreement",
+      "Alone = One"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Figs/Paths Proof",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 form a continuous chain of challenges and responses about whether Rabbi Yehuda agrees with Rebbi and whether minyan language matters, which candidate 1's prose explicitly describes in full.",
+      "second_heading": "Partial Agreement",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is the resolution formula 'Rabbi Yehudah agrees in one case and disagrees in another,' which is exactly what candidate 2's prose describes as its central content.",
+      "current_heading": "Figs/Paths Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Alone = One",
+    "candidates": [
+      "Partial Agreement",
+      "Alone = One",
+      "Plus Minyan = Many"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita distinguishes between 'all the days of my life'/'permanent nazirite' (olam) and a fixed-term nazirite 'forever' \u2014 this precise distinction between open-ended/indefinite nezirut versus discrete counted units is exactly what the 'Plus Minyan = Many' section discusses at its end, where it contrasts abstract nezirut (single undifferentiated state) with enumerable neziruyot, and summarizes the full range of cases.",
+      "chosen_heading": "Plus Minyan = Many",
+      "current_heading": "Alone = One",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Plus Minyan = Many",
+    "candidates": [
+      "Alone = One",
+      "Plus Minyan = Many",
+      "Hen/Digon/etc."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about 'v'achat/v'od/v'shuv' yielding two, three, and four neziruyot is explicitly described and analyzed in the 'Plus Minyan = Many' section's prose, which directly references this baraita and the question of whether v'shuv doubles everything to reach six.",
+      "chosen_heading": "Plus Minyan = Many",
+      "current_heading": "Plus Minyan = Many",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Hen/Digon/etc.",
+    "candidates": [
+      "Hen/Digon/etc.",
+      "House Shapes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Sumakhos's baraita about Greek numerical terms applied to naziriteship vows, which directly matches the prose in heading 0 about Sumchos enumerating Greek numerical terms for nezirut.",
+      "chosen_heading": "Hen/Digon/etc.",
+      "current_heading": "Hen/Digon/etc.",
+      "moved": false
+    }
+  }
+]

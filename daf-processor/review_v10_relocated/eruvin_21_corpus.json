@@ -1,0 +1,407 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Human Access",
+    "candidates": [
+      "Olei Regalim Limit",
+      "Animals Only",
+      "Human Access",
+      "Tosafot Leniencies",
+      "Wide Troughs Case",
+      "Direct Holding Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: the restriction on humans (item 1-2) and the spring water requirement resolved by 'fit for humans' (item 3) are precisely what heading 2 ('Human Access') describes in its prose.",
+      "chosen_heading": "Human Access",
+      "current_heading": "Human Access",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Direct Holding Ban",
+    "candidates": [
+      "Tosafot Leniencies",
+      "Wide Troughs Case",
+      "Direct Holding Ban",
+      "Abaye's Trough Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly discuss the ruling about not holding water before an animal and the purpose of passei bira'ot in that context, which is precisely what the 'Direct Holding Ban' prose describes.",
+      "chosen_heading": "Direct Holding Ban",
+      "current_heading": "Direct Holding Ban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Abaye's Trough Case",
+    "candidates": [
+      "Abaye's Trough Case",
+      "Rav Yirmiyah Bar Abba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Abaye's statement about the trough (evus) configuration, which is precisely what the prose under 'Abaye's Trough Case' analyzes in detail.",
+      "chosen_heading": "Abaye's Trough Case",
+      "current_heading": "Abaye's Trough Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Rav Yirmiyah Bar Abba",
+    "candidates": [
+      "Rav Yirmiyah Bar Abba",
+      "Alternative View",
+      "Three Parsaot Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Yirmiyah Bar Abba",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the first version of Rav Yirmiyah bar Abba's ruling (burganin don't apply in Bavel, passei bira'ot don't apply in chutz la'aretz) with its explanation, matching candidate 0's prose exactly.",
+      "second_heading": "Alternative View",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the 'ika d'amri' alternative formulation where neither institution applies in either location, matching candidate 1's prose about the alternative view with its specific reasons (flooding, thieves, abundant water, no yeshivot).",
+      "current_heading": "Rav Yirmiyah Bar Abba",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Three Parsaot Story",
+    "candidates": [
+      "Alternative View",
+      "Three Parsaot Story",
+      "Boundless Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the exact story of Rav \u1e24isda challenging Mari about walking from Barnish to Daniel's synagogue on Shabbat and Mari's response showing ruins of towns \u2014 precisely what the 'Three Parsaot Story' prose discusses in detail.",
+      "chosen_heading": "Three Parsaot Story",
+      "current_heading": "Three Parsaot Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Boundless Mitzvot",
+    "candidates": [
+      "Boundless Mitzvot",
+      "Zechariah Scroll"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the prose under 'Boundless Mitzvot' summarizes \u2014 Rav Chisda/Mari bar Mar's homily on the verse about the breadth of commandments, listing David, Job, Ezekiel, and Zechariah \u2014 before the detailed exposition covered in the 'Zechariah Scroll' section.",
+      "chosen_heading": "Boundless Mitzvot",
+      "current_heading": "Boundless Mitzvot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Zechariah Scroll",
+    "candidates": [
+      "Zechariah Scroll",
+      "Two Pots Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous unit about the breadth of Torah as stated by David, Job, Ezekiel, and Zechariah, culminating in the calculation that the entire world is 1/3200th of the Torah \u2014 exactly what the 'Zechariah Scroll' prose describes in detail.",
+      "chosen_heading": "Zechariah Scroll",
+      "current_heading": "Zechariah Scroll",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Two Pots Parable",
+    "candidates": [
+      "Two Pots Parable",
+      "Rava's Figs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Mari bar Mar exposition on the two baskets of figs from Jeremiah 24, with the good/bad figs interpretation and the duda'im fragrance conclusion \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Two Pots Parable",
+      "current_heading": "Two Pots Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Rava's Figs",
+    "candidates": [
+      "Rava's Figs",
+      "Mandrakes Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Rava's Figs' (index 0) directly describes both items: the duda'im as young men who haven't tasted sin, and the benot Yisrael who report/bind their status to their husbands \u2014 exactly matching the content of both quoted items.",
+      "chosen_heading": "Rava's Figs",
+      "current_heading": "Rava's Figs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Mandrakes Drasha",
+    "candidates": [
+      "Mandrakes Drasha",
+      "Rabbinic Severity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 the Congregation of Israel's statement about new and old decrees, Rav \u1e24isda's exchange about chadashim gam yeshanim, Rava's drasha on divrei soferim being more stringent than Torah, and the explanation for why rabbinic law was not written \u2014 are explicitly discussed and quoted in the 'Mandrakes Drasha' prose, which is the current placement.",
+      "chosen_heading": "Mandrakes Drasha",
+      "current_heading": "Mandrakes Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Rabbinic Severity",
+    "candidates": [
+      "Rabbinic Severity",
+      "Prison Hand-Washing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the interpretation of 'lahag' from Ecclesiastes \u2014 item 1 gives Rav Papa's reading about mocking the Sages, and item 2 gives Rava's objection and alternate reading about tasting meat \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Rabbinic Severity",
+      "current_heading": "Rabbinic Severity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Prison Hand-Washing",
+    "candidates": [
+      "Prison Hand-Washing",
+      "Sages' Response",
+      "Bat Kol Rejoicing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Prison Hand-Washing",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the prison incident itself \u2014 the water being halved, Rabbi Akiva's request to wash hands, and his declaration that he would rather die than transgress his colleagues' enactment \u2014 which exactly matches the 'Prison Hand-Washing' prose.",
+      "second_heading": "Sages' Response",
+      "second_confidence": "high",
+      "second_reason": "Item 4, the Sages' reaction ('if in his old age... how much more so in his youth; if in prison... how much more so when free'), corresponds precisely to the 'Sages' Response' section prose which quotes and discusses that exact statement.",
+      "current_heading": "Prison Hand-Washing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Bat Kol Rejoicing",
+    "candidates": [
+      "Sages' Response",
+      "Bat Kol Rejoicing",
+      "Field Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Solomon's institution of eiruvin and netilat yadayim accompanied by a Divine Voice (bat kol) rejoicing, which is precisely what the 'Bat Kol Rejoicing' section's prose discusses.",
+      "chosen_heading": "Bat Kol Rejoicing",
+      "current_heading": "Bat Kol Rejoicing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Field Midrash",
+    "candidates": [
+      "Field Midrash",
+      "Handles Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are Rava's homiletical exposition of Song of Songs 7:12\u201313, which is precisely what the 'Field Midrash' prose describes in detail, matching every element of the passage.",
+      "chosen_heading": "Field Midrash",
+      "current_heading": "Field Midrash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Handles Metaphor",
+    "candidates": [
+      "Handles Metaphor",
+      "Handles Creation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items (Rav Hamnuna on Solomon's three thousand proverbs and Rava on Kohelet teaching knowledge) are explicitly quoted and interpreted in the 'Handles Metaphor' section's prose, making the current placement correct.",
+      "chosen_heading": "Handles Metaphor",
+      "current_heading": "Handles Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Handles Creation",
+    "candidates": [
+      "Handles Creation",
+      "Hair Locks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source text (Ulla/Rabbi Eliezer on Torah as a basket without handles) that the 'Handles Creation' section's prose directly quotes, paraphrases, and analyzes in detail.",
+      "chosen_heading": "Handles Creation",
+      "current_heading": "Handles Creation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Hair Locks",
+    "candidates": [
+      "Hair Locks",
+      "Raven Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes 'his locks are wavy' and Rav \u1e24isda/Mar Ukva's teaching about expounding mounds of laws from every stroke, which is exactly what the 'Hair Locks' section's prose discusses as the capstone teaching about breadth of Torah she-be'al peh.",
+      "chosen_heading": "Hair Locks",
+      "current_heading": "Hair Locks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Raven Metaphor",
+    "candidates": [
+      "Raven Metaphor",
+      "Cruelty to Family"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the 'black as a raven' verse interpretation \u2014 item 1 introduces the wordplay and item 2 gives Rabba's elaboration on blackening one's face, both of which are explicitly covered in the 'Raven Metaphor' prose, not the 'Cruelty to Family' prose which addresses a further extension about being cruel to children.",
+      "chosen_heading": "Raven Metaphor",
+      "current_heading": "Raven Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Cruelty to Family",
+    "candidates": [
+      "Cruelty to Family",
+      "Ada Bar Matna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's statement about cruelty like a raven AND the specific story of Rav Adda bar Mattana, which candidate 1 ('Ada Bar Matna') explicitly discusses in its prose, making it a clearly better match than candidate 0 which only discusses the abstract principle.",
+      "chosen_heading": "Ada Bar Matna",
+      "current_heading": "Cruelty to Family",
+      "moved": true
+    }
+  }
+]

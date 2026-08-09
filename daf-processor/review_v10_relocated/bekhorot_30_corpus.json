@@ -1,0 +1,325 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Teruma Mishna",
+    "candidates": [
+      "Opening",
+      "Previous Context",
+      "Teruma Mishna",
+      "R. Yehuda's Fine",
+      "R. Shimon's View",
+      "Zikas Teruma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishna introducing the case of one suspected of selling teruma as chulin, which is exactly what the 'Teruma Mishna' section's prose describes and introduces.",
+      "chosen_heading": "Teruma Mishna",
+      "current_heading": "Teruma Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Zikas Teruma",
+    "candidates": [
+      "R. Yehuda's Fine",
+      "R. Shimon's View",
+      "Zikas Teruma",
+      "Butcher Story",
+      "Rava's Fine",
+      "Rav Papa's Question",
+      "Nuts Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question of what Rabbi Shimon's language adds (l'asuyei mai) and answers with fish innards mixed with olive oil, which is precisely what the 'Zikas Teruma' section's prose describes.",
+      "chosen_heading": "Zikas Teruma",
+      "current_heading": "Zikas Teruma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Nuts Connection",
+    "candidates": [
+      "Butcher Story",
+      "Rava's Fine",
+      "Rav Papa's Question",
+      "Nuts Connection",
+      "Perek Relevance",
+      "Core Principle",
+      "Shvi'is/Maasrot",
+      "Reverse Rule",
+      "Both Suspect",
+      "Taharot Exception",
+      "Gemara Reasoning",
+      "Pidyon Distinction",
+      "Compartmentalization",
+      "Modern Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the complete butcher story \u2014 the suspicion, Rava's fine, Rav Pappa's challenge, and Rava's resolution about nuts being the instrument of the crime \u2014 which is precisely what candidate 0 ('Butcher Story') describes in its prose.",
+      "chosen_heading": "Butcher Story",
+      "current_heading": "Nuts Connection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Modern Examples",
+    "candidates": [
+      "Perek Relevance",
+      "Core Principle",
+      "Shvi'is/Maasrot",
+      "Reverse Rule",
+      "Both Suspect",
+      "Taharot Exception",
+      "Gemara Reasoning",
+      "Pidyon Distinction",
+      "Compartmentalization",
+      "Modern Examples",
+      "Baraita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together constitute the Mishna and Gemara on shvi'is/ma'asrot distinctions \u2014 exactly what the 'Shvi'is/Maasrot' section prose describes \u2014 covering the mishna text, the reason shvi'is suspect is not suspect for ma'aser, the reverse rule, and the both-suspect case, all of which precede the deeper analysis in later sections.",
+      "chosen_heading": "Shvi'is/Maasrot",
+      "current_heading": "Modern Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Baraita Challenge",
+    "candidates": [
+      "Modern Examples",
+      "Baraita Challenge",
+      "Home Observation",
+      "Rabbi Ila'i Answer",
+      "R. Yannai View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita contradiction (ne'eman al hataharos ne'eman al hashvi'is) that challenges the mishna's position, which is exactly what the 'Baraita Challenge' section's prose describes.",
+      "chosen_heading": "Baraita Challenge",
+      "current_heading": "Baraita Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "R. Yannai View",
+    "candidates": [
+      "Home Observation",
+      "Rabbi Ila'i Answer",
+      "R. Yannai View",
+      "Gemara Response",
+      "R. Akiva Attribution",
+      "Sages' View",
+      "Rabbi Yehuda ID",
+      "Insult Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Ila'i Answer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Ila'i's answer about private home observation, which belongs under 'Rabbi Ila'i Answer' (index 1) whose prose explicitly discusses how private evidence of care overrides the general presumption.",
+      "second_heading": "R. Yannai View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Yannai's alternative resolution about someone who was suspect for both categories, accepted teshuva, and then backslid \u2014 precisely what the 'R. Yannai View' prose (index 2) describes in detail.",
+      "current_heading": "R. Yannai View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Insult Proof",
+    "candidates": [
+      "Gemara Response",
+      "R. Akiva Attribution",
+      "Sages' View",
+      "Rabbi Yehuda ID",
+      "Insult Proof",
+      "R. Meir Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Akiva Attribution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Rabbi Yochanan/Rabba bar bar Hana attribution of the mishna to Rabbi Akiva and the Rabbis' opposing view, which exactly matches the 'R. Akiva Attribution' and 'Sages' View' content \u2014 but since both items must go under one heading for the first part, the R. Akiva Attribution prose (candidate 1) directly discusses this statement.",
+      "second_heading": "Rabbi Yehuda ID",
+      "second_confidence": "high",
+      "second_reason": "Item 2 identifies 'the Rabbis' as Rabbi Yehuda and explains the stringency of shvi'is in his locale, which precisely matches the 'Rabbi Yehuda ID' prose at candidate 3.",
+      "current_heading": "Insult Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "R. Meir Position",
+    "candidates": [
+      "Insult Proof",
+      "R. Meir Position",
+      "All-or-Nothing",
+      "What is Chaveirim",
+      "Chaveirim Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items deal with the 'ika d'amri' tradition identifying the Sages with Rabbi Meir's position that suspicion in one matter implies suspicion for the entire Torah, culminating in the baraita that the R. Meir section's prose explicitly summarizes.",
+      "chosen_heading": "R. Meir Position",
+      "current_heading": "R. Meir Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Chaveirim Rules",
+    "candidates": [
+      "All-or-Nothing",
+      "What is Chaveirim",
+      "Chaveirim Rules",
+      "Ger Conversion",
+      "Conversion Validity",
+      "Rav Moshe View",
+      "Avnei Nezer",
+      "Modern Case",
+      "Ger Status",
+      "Hillel Story",
+      "Home Observation Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ger Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses a convert who accepted Torah but became suspect, concluding his betrothal is valid \u2014 directly matching the 'Ger Status' prose about irrevocability of Jewish status and the nafka mina of kiddushin validity.",
+      "second_heading": "Chaveirim Rules",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the baraita about accepting candidates for chaveirus/conversion/priesthood only if they accept everything, with no exceptions \u2014 directly matching the 'Chaveirim Rules' prose which explicitly discusses this all-or-nothing baraita including the Levite/kohen extension.",
+      "current_heading": "Chaveirim Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Home Observation Rule",
+    "candidates": [
+      "Ger Conversion",
+      "Conversion Validity",
+      "Rav Moshe View",
+      "Avnei Nezer",
+      "Modern Case",
+      "Ger Status",
+      "Hillel Story",
+      "Home Observation Rule",
+      "Teach First",
+      "R. Shimon View",
+      "Hand-washing",
+      "Progression Path",
+      "Ladder Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The baraita discusses the process of accepting a prospective \u1e25aver based on observed private behavior, which directly matches the 'Home Observation Rule' section's prose about behavior in private (b'tzina betoch beito) as the criterion for immediate acceptance.",
+      "chosen_heading": "Home Observation Rule",
+      "current_heading": "Home Observation Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Ladder Logic",
+    "candidates": [
+      "Teach First",
+      "R. Shimon View",
+      "Hand-washing",
+      "Progression Path",
+      "Ladder Logic",
+      "Duration Question",
+      "Beit Shammai",
+      "Beit Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The baraita directly discusses the one-way ladder logic: accepting lichnafayim only is valid, but accepting taharos without lichnafayim is not credited \u2014 precisely what the 'Ladder Logic' prose explains.",
+      "chosen_heading": "Ladder Logic",
+      "current_heading": "Ladder Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152,
+      153
+    ],
+    "current_heading": "Beit Hillel",
+    "candidates": [
+      "Duration Question",
+      "Beit Shammai",
+      "Beit Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita presenting the duration question along with both Beit Shammai and Beit Hillel's positions and the Gemara's emendation, which together constitute the answer to 'until when is he accepted' \u2014 the Duration Question heading's prose explicitly frames this entire discussion, while the Beit Shammai and Beit Hillel headings only cover individual parts of what is a single continuous textual unit.",
+      "chosen_heading": "Duration Question",
+      "current_heading": "Beit Hillel",
+      "moved": true
+    }
+  }
+]

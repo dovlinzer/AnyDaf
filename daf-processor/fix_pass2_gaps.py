@@ -297,19 +297,34 @@ def submit_and_wait(client: anthropic.Anthropic, requests_list: list[dict], stat
             print(f"  Could not resume saved batch ({e}); submitting fresh")
             batch = None
 
+    # Same retry/backoff shape as the poll loop below — a bare create() call with no retry
+    # crashed a corpus-scale relocate run on a plain transient httpx.ReadError ("Broken pipe"),
+    # 2026-08-08/09, mid-way through submitting a sequence of chunks. Harmless in the sense
+    # that create() either fully succeeds (state file written, cost incurred, safe to resume)
+    # or raises before returning (nothing created, nothing to clean up) -- but a crash here
+    # still means restarting the whole outer script by hand instead of just continuing.
+    # Widened 2026-08-09 after the original 520s (~8.7min) total budget was exhausted TWICE in
+    # one night by genuine sustained local network outages (DNS resolution failures lasting
+    # longer than that) -- both required manual relaunch even though nothing was lost (batch
+    # IDs are checkpointed). Retrying is free (no API cost, no risk) up to this point, so a
+    # longer budget only trades a bit of wall-clock time for fewer 3am interventions.
+    poll_error_backoff = [10, 30, 60, 120, 300, 300, 300, 300, 300, 300]
     if batch is None:
         print(f"  Submitting {len(requests_list)} request(s) to Batch API...")
-        batch = client.messages.batches.create(requests=requests_list)
+        for wait in poll_error_backoff + [None]:
+            try:
+                batch = client.messages.batches.create(requests=requests_list)
+                break
+            except (anthropic.APIConnectionError, anthropic.APIStatusError) as e:
+                if wait is not None:
+                    print(f"  Submit error ({e}); retrying in {wait}s...")
+                    time.sleep(wait)
+                else:
+                    raise
         print(f"  Batch ID: {batch.id}")
         state_file.write_text(json.dumps({"batch_id": batch.id}), encoding="utf-8")
 
     start = time.time()
-    # Same retry/backoff shape as pipeline.py's _run_batch_phase poll loop — a bare
-    # retrieve() call with no retry crashed a live run on a plain transient
-    # httpx.ConnectError, losing all progress even though the batch (and its saved
-    # state file) were both fine. The whole point of using Batch API here is
-    # resilience to exactly this kind of interruption.
-    poll_error_backoff = [10, 30, 60, 120, 300]
     while True:
         for poll_attempt, wait in enumerate(poll_error_backoff + [None]):
             try:

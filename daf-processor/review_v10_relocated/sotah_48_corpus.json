@@ -1,0 +1,613 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Egla Arufa",
+    "candidates": [
+      "Egla Arufa",
+      "Sota Discontinued",
+      "Husband's Purity Required",
+      "Sexual Sin Affects Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the nullification of egla arufa when murderers proliferated and acted openly, which matches exactly the prose under heading 0 about the egla arufa ritual being discontinued.",
+      "chosen_heading": "Egla Arufa",
+      "current_heading": "Egla Arufa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Sexual Sin Affects Test",
+    "candidates": [
+      "Sota Discontinued",
+      "Husband's Purity Required",
+      "Sexual Sin Affects Test",
+      "Pleasure & Perversion",
+      "Partiality in Court"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Talmudic discussion about when the sota waters are effective \u2014 requiring the husband to be clean of sin \u2014 which matches candidate 0's prose about the sota water ordeal being discontinued and the beraita requiring the husband to be clean, rather than candidate 2 which discusses only the later expansions of that principle.",
+      "chosen_heading": "Sota Discontinued",
+      "current_heading": "Sexual Sin Affects Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Partiality in Court",
+    "candidates": [
+      "Pleasure & Perversion",
+      "Partiality in Court",
+      "Lawyers' Influence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both ba'alei hana'ah (pleasure-seekers corrupting judgment) AND roei panim (partiality in court) as a combined unit, and the 'Pleasure & Perversion' prose explicitly addresses both phenomena together in its discussion, making it the better single home for the entire passage rather than splitting it under 'Partiality in Court' which only covers the second half.",
+      "chosen_heading": "Pleasure & Perversion",
+      "current_heading": "Partiality in Court",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Lawyers' Influence",
+    "candidates": [
+      "Partiality in Court",
+      "Lawyers' Influence",
+      "Profit Over Truth",
+      "Haughtiness & Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the consequences of whispering in judgment (*lochashei lechishot b'din*), covetousness, and calling evil good, which exactly matches the prose under 'Lawyers' Influence' that discusses these same phenomena including the *Rashi* on legal advocates whispering to judges and the withdrawal of the Shechinah.",
+      "chosen_heading": "Lawyers' Influence",
+      "current_heading": "Lawyers' Influence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Haughtiness & Marriage",
+    "candidates": [
+      "Profit Over Truth",
+      "Haughtiness & Marriage",
+      "Haughtiness Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses moshchei harok, the proliferation of haughty people, the decrease of Torah students, and daughters of Israel marrying haughty men \u2014 all of which are explicitly addressed in the 'Haughtiness & Marriage' section prose.",
+      "chosen_heading": "Haughtiness & Marriage",
+      "current_heading": "Haughtiness & Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Haughtiness Objection",
+    "candidates": [
+      "Haughtiness Objection",
+      "Judges' Investments",
+      "Acceptance of Favors",
+      "Stinginess & Robbery",
+      "Seductive Women",
+      "Gift-Taking",
+      "Arrogance & Disputes",
+      "Eshkol Ceased",
+      "Yochanan Abolishes Viduy",
+      "Ma'aser to Kohanim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Haughtiness Objection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the haughtiness objection and its resolution, matching exactly the prose of candidate 0 about the 'Haughtiness Objection'.",
+      "second_heading": "Judges' Investments",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the baraita passages about societal decline (judges' investments, acceptance of favors, stinginess, seductive women, gift-taking, arrogance/disputes), which belong under candidate 1 ('Judges' Investments') as the start of that catalogue section.",
+      "current_heading": "Haughtiness Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Ma'aser to Kohanim",
+    "candidates": [
+      "Judges' Investments",
+      "Acceptance of Favors",
+      "Stinginess & Robbery",
+      "Seductive Women",
+      "Gift-Taking",
+      "Arrogance & Disputes",
+      "Eshkol Ceased",
+      "Yochanan Abolishes Viduy",
+      "Ma'aser to Kohanim",
+      "Demai Ordinance",
+      "Am Ha'aretz Practices",
+      "Heavenly Warnings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's analysis of Yochanan's abolition of viduy ma'aser \u2014 the reason (ma'aser given to kohanim instead of Levi'im), and the follow-up question about why the rest of the declaration cannot be recited (Reish Lakish and Abaye) \u2014 which is precisely what heading 8 ('Ma'aser to Kohanim') describes in its prose.",
+      "chosen_heading": "Ma'aser to Kohanim",
+      "current_heading": "Ma'aser to Kohanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Heavenly Warnings",
+    "candidates": [
+      "Demai Ordinance",
+      "Am Ha'aretz Practices",
+      "Heavenly Warnings",
+      "Abolished Wake-Upers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form one continuous Gemara discussion: the challenge from the baraita about people not separating tithes (items 1-2), Yochanan's resulting ordinance on demai (item 3), and the resolution that he instituted two measures (item 4) \u2014 exactly what candidate 2's prose describes as harmonizing the contradictory accounts and establishing the viduy abolition plus demai ordinance.",
+      "chosen_heading": "Heavenly Warnings",
+      "current_heading": "Heavenly Warnings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Abolished Wake-Upers",
+    "candidates": [
+      "Abolished Wake-Upers",
+      "Abolished Scratching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Yochanan abolishing the awakeners (me'orerim) and the explanation of the verse 'Awake, why do you sleep, O Lord,' which matches exactly the prose under 'Abolished Wake-Upers.'",
+      "chosen_heading": "Abolished Wake-Upers",
+      "current_heading": "Abolished Wake-Upers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Abolished Scratching",
+    "candidates": [
+      "Abolished Scratching",
+      "Rings for Animals",
+      "Blacksmith Hammer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abolished Scratching",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the scratching practice and its abolition because it resembles a blemish, which is exactly what the 'Abolished Scratching' prose discusses.",
+      "second_heading": "Rings for Animals",
+      "second_confidence": "high",
+      "second_reason": "Item 2 ends with Yochanan instituting rings in the ground (tabaot bakarka), which is precisely what the 'Rings for Animals' prose describes as its own distinct institutional reform.",
+      "current_heading": "Abolished Scratching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Blacksmith Hammer",
+    "candidates": [
+      "Rings for Animals",
+      "Blacksmith Hammer",
+      "Sanhedrin Gone"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Blacksmith Hammer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about the blacksmith's hammer striking in Jerusalem on Chol HaMoed, which matches the 'Blacksmith Hammer' section's prose exactly.",
+      "second_heading": "Rings for Animals",
+      "second_confidence": "low",
+      "second_reason": "Item 2 about doubtfully tithed produce (demai) doesn't fit any of the candidate headings well, but 'Rings for Animals' is the closest neighbor; however, none of the candidates discuss demai, so this may belong under a heading not listed \u2014 defaulting to nearest candidate with low confidence.",
+      "current_heading": "Blacksmith Hammer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Sanhedrin Gone",
+    "candidates": [
+      "Sanhedrin Gone",
+      "Biblical Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself stating that song ceased when the Sanhedrin ceased, which is precisely what the prose under heading 0 ('Sanhedrin Gone') introduces and discusses.",
+      "chosen_heading": "Sanhedrin Gone",
+      "current_heading": "Sanhedrin Gone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Biblical Proof",
+    "candidates": [
+      "Biblical Proof",
+      "Song Prohibition",
+      "Song Brings Destruction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Item 3's Gemara explicitly matches heading 0's prose about Rav Huna son of Rav Yehoshua and the Lamentations verse, and items 1-2 are the Mishnah that this Gemara passage is commenting on, so all three belong together under 'Biblical Proof'.",
+      "chosen_heading": "Biblical Proof",
+      "current_heading": "Biblical Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Song Brings Destruction",
+    "candidates": [
+      "Song Prohibition",
+      "Song Brings Destruction",
+      "Rav Huna's Attempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the prohibition on song bringing destruction (Rav's ruling on uprooting the ear, Rava's proof from Zephaniah, Rabbi Yitzchak's elaboration, Rav Ashi's threshold-destruction lesson), all of which are explicitly covered in the 'Song Brings Destruction' prose.",
+      "chosen_heading": "Song Brings Destruction",
+      "current_heading": "Song Brings Destruction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Rav Huna's Attempt",
+    "candidates": [
+      "Rav Huna's Attempt",
+      "Rav Chisda Reverses",
+      "Permitted vs. Forbidden",
+      "Mixed-Gender Singing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage opens with Rav Huna's distinction between permitted song (cattle-drivers) and forbidden song (weavers), which is precisely what candidate 2 ('Permitted vs. Forbidden') discusses, and the economic narrative that follows is secondary content that candidate 0 and 1 address separately in the essay's prose.",
+      "chosen_heading": "Permitted vs. Forbidden",
+      "current_heading": "Rav Huna's Attempt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Mixed-Gender Singing",
+    "candidates": [
+      "Rav Chisda Reverses",
+      "Permitted vs. Forbidden",
+      "Mixed-Gender Singing",
+      "Priority Elimination",
+      "Music & Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yosef's distinction between men singing with women responding (pritzuta) versus women singing with men responding (like fire in kindling), which is precisely what the 'Mixed-Gender Singing' section's prose describes.",
+      "chosen_heading": "Mixed-Gender Singing",
+      "current_heading": "Mixed-Gender Singing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Music & Punishment",
+    "candidates": [
+      "Priority Elimination",
+      "Music & Punishment",
+      "Exile & Famine",
+      "Righteous Diminished",
+      "First Prophets Died",
+      "First Prophets Listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "Candidate 3's prose explicitly covers the concluding punishments including the netherworld verse (items 3-4) and frames the entire passage's prescriptive significance, making it the best single home for all four items of this continuous exposition, though candidate 1 covers the opening.",
+      "chosen_heading": "Righteous Diminished",
+      "current_heading": "Music & Punishment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "First Prophets Listed",
+    "candidates": [
+      "Exile & Famine",
+      "Righteous Diminished",
+      "First Prophets Died",
+      "First Prophets Listed",
+      "First Destruction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna's statement about the first prophets and the Urim VeTummim ceasing, which matches the 'First Prophets Died' section's prose about the mishna's precise phrasing \u2014 the identification of who the first prophets are (Rav Huna and Rav Nachman's debate) naturally follows that introductory heading rather than the 'First Prophets Listed' heading which already summarizes those identifications in its own prose.",
+      "chosen_heading": "First Prophets Died",
+      "current_heading": "First Prophets Listed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141
+    ],
+    "current_heading": "First Destruction",
+    "candidates": [
+      "First Prophets Listed",
+      "First Destruction",
+      "Last Prophets",
+      "Bat Kol",
+      "Jericho Bat Kol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Zechariah verse challenge, the baraita about the First Temple's destruction, and the Tirshatha/Messianic-era dismissal \u2014 are precisely the content described in the 'First Destruction' prose, which explicitly discusses each of these in order.",
+      "chosen_heading": "First Destruction",
+      "current_heading": "First Destruction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152,
+      153
+    ],
+    "current_heading": "Jericho Bat Kol",
+    "candidates": [
+      "Last Prophets",
+      "Bat Kol",
+      "Jericho Bat Kol",
+      "Hillel Identified",
+      "Samuel the Small"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the baraita about the end of prophecy and the bat kol examples (Hillel in Jericho, Shmuel HaKatan in Yavneh), which is precisely what heading 1 'Bat Kol' introduces \u2014 the transition from ruach hakodesh to bat kol \u2014 while the current placement under 'Jericho Bat Kol' only covers item 2, and the passage as a whole begins with Rav Nachman bar Yitzchak's statement about the last prophets leading into the bat kol discussion.",
+      "chosen_heading": "Bat Kol",
+      "current_heading": "Jericho Bat Kol",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Samuel the Small",
+    "candidates": [
+      "Hillel Identified",
+      "Samuel the Small",
+      "Yehuda ben Bava",
+      "Shamir Worm",
+      "Metal Vessels Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Shmuel HaKatan's dying prophecy and the attempted eulogy for Rabbi Yehuda ben Bava, both of which are explicitly discussed in the 'Samuel the Small' section's prose, which covers exactly this content including the prophecy text and the connection to Rabbi Yehuda ben Bava's eulogy.",
+      "chosen_heading": "Samuel the Small",
+      "current_heading": "Samuel the Small",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      168,
+      169
+    ],
+    "current_heading": "Metal Vessels Debate",
+    "candidates": [
+      "Yehuda ben Bava",
+      "Shamir Worm",
+      "Metal Vessels Debate",
+      "Shamir & Breastplate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the shamir used to build the Temple and the dispute between Rabbi Yehuda and Rabbi Nechemya about whether metal tools were used, which matches the 'Shamir Worm' section's prose about the shamir and Solomon's Temple \u2014 the 'Metal Vessels Debate' prose actually summarizes this same content but belongs after it as elaboration, while the 'Shamir Worm' heading is where the baraita introducing the shamir and the Rabbi Yehuda/Nechemya dispute properly begins.",
+      "chosen_heading": "Shamir Worm",
+      "current_heading": "Metal Vessels Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      173,
+      174
+    ],
+    "current_heading": "Shamir & Breastplate",
+    "candidates": [
+      "Metal Vessels Debate",
+      "Shamir & Breastplate",
+      "Shamir Properties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the baraita explaining why the shamir was needed for the breastplate stones \u2014 exactly the content described in the 'Shamir & Breastplate' prose, which explicitly discusses the ink-writing, the prohibition on metal tools due to 'bimlu'otam', and the shamir causing the stones to split of their own accord.",
+      "chosen_heading": "Shamir & Breastplate",
+      "current_heading": "Shamir & Breastplate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      177
+    ],
+    "current_heading": "Shamir Properties",
+    "candidates": [
+      "Shamir Properties",
+      "Silk & Glass Lost"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the shamir's properties (barleycorn size, created at creation, nothing hard can withstand it) and how it is stored (wool tufts in a lead vessel with barley bran), which directly matches the 'Shamir Properties' prose discussion of the same content.",
+      "chosen_heading": "Shamir Properties",
+      "current_heading": "Shamir Properties",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      181
+    ],
+    "current_heading": "Silk & Glass Lost",
+    "candidates": [
+      "Silk & Glass Lost",
+      "Nofet Tzufim",
+      "Alternative Explanations",
+      "Wildflower Honey"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses shira paranda, white glass, iron chariots, and congealed wine from Senir \u2014 exactly what the 'Silk & Glass Lost' section prose describes.",
+      "chosen_heading": "Silk & Glass Lost",
+      "current_heading": "Silk & Glass Lost",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      188,
+      189,
+      190
+    ],
+    "current_heading": "Wildflower Honey",
+    "candidates": [
+      "Nofet Tzufim",
+      "Alternative Explanations",
+      "Wildflower Honey",
+      "Faith Ceased",
+      "High Faith Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items deal with the interpretation of 'nofet tzufim' and 'zifim' honey (items 1-2) and the Zifim place/people narrative (item 3), which is exactly what the 'Wildflower Honey' prose section describes in detail, including the mishnah about nitzok, dvash Zifim, and the Zifim informers episode.",
+      "chosen_heading": "Wildflower Honey",
+      "current_heading": "Wildflower Honey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      197
+    ],
+    "current_heading": "High Faith Standard",
+    "candidates": [
+      "Faith Ceased",
+      "High Faith Standard",
+      "Righteous Lack Faith"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yitzchak's definition of 'men of faith' as those who believe in God AND Rabbi Eliezer's bread-in-basket standard, making it a unified unit that belongs under heading 0 ('Faith Ceased'), which introduces Rabbi Yitzchak's explanation \u2014 the current placement under heading 1 artificially splits what is a single continuous Talmudic passage.",
+      "chosen_heading": "Faith Ceased",
+      "current_heading": "High Faith Standard",
+      "moved": true
+    }
+  }
+]

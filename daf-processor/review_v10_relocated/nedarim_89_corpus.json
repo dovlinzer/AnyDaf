@@ -1,0 +1,260 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Delayed Vow Case",
+    "candidates": [
+      "Introduction",
+      "Torah Source",
+      "Delayed Vow Case",
+      "Reverse Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna presents exactly the case described in the 'Delayed Vow Case' prose: a woman who vows to become a nazirite after thirty days and then marries within those thirty days, with the ruling that her husband cannot annul it.",
+      "chosen_heading": "Delayed Vow Case",
+      "current_heading": "Delayed Vow Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Reverse Case",
+    "candidates": [
+      "Reverse Case",
+      "Same-Day Rule",
+      "Governing Principle",
+      "Baraita Case 1",
+      "Yishmael: Effect",
+      "Akiva: Utterance",
+      "Baraita Case 2"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three parts discussed in candidate 0, 1, and 2 \u2014 the reverse case of a married woman's vow being annulled even after divorce/widowhood, the same-day scenario, and the governing principle \u2014 and candidate 0's prose explicitly introduces and discusses the full mishnah text that this passage contains, making it the best single home for the entire quoted passage.",
+      "chosen_heading": "Reverse Case",
+      "current_heading": "Reverse Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Baraita Case 2",
+    "candidates": [
+      "Same-Day Rule",
+      "Governing Principle",
+      "Baraita Case 1",
+      "Yishmael: Effect",
+      "Akiva: Utterance",
+      "Baraita Case 2",
+      "Positions Reversed",
+      "Torah Exegesis",
+      "Mishna Attribution",
+      "Thirty-Day Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita covering both cases (widow/divorc\u00e9e vowing before marriage, and married woman vowing before divorce) with both Rabbi Yishmael's and Rabbi Akiva's positions and the mnemonic, which corresponds to 'Baraita Case 1' where the baraita is introduced in its entirety, rather than being split across the later headings that discuss each position or case separately.",
+      "chosen_heading": "Baraita Case 1",
+      "current_heading": "Baraita Case 2",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Thirty-Day Vow",
+    "candidates": [
+      "Positions Reversed",
+      "Torah Exegesis",
+      "Mishna Attribution",
+      "Thirty-Day Vow",
+      "Event-Based Vow",
+      "Incidental Change",
+      "Ketubot Precedent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Torah Exegesis",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Torah exegesis underlying Rabbi Yishmael's and Rabbi Akiva's positions, and Rav Chisda's attribution of the mishna to Rabbi Akiva \u2014 exactly what candidate 1 ('Torah Exegesis') and candidate 2 ('Mishna Attribution') discuss, but since items 1-2 together span both exegesis and mishna attribution, the exegesis content of item 1 fits candidate 1, and item 2 fits candidate 2; however treating items 1-2 as a unit, the Torah exegesis section (candidate 1) is the better home since it explicitly describes both Rabbi Yishmael's and Rabbi Akiva's scriptural derivations.",
+      "second_heading": "Thirty-Day Vow",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Abaye's distinction between a time-indexed vow (mishna) and a status-indexed vow (baraita), with the closing phrase 'shalmu yomei velo nitgarsha / velo mitnasba' \u2014 precisely what candidate 3 ('Thirty-Day Vow') and candidate 5 ('Incidental Change') discuss, and candidate 3's prose explicitly quotes 'shalmu yomei' and discusses Abaye's distinction.",
+      "current_heading": "Thirty-Day Vow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Ketubot Precedent",
+    "candidates": [
+      "Event-Based Vow",
+      "Incidental Change",
+      "Ketubot Precedent",
+      "Our Perek Klal",
+      "Betrothal Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'zeh haklal' from the betrothed young woman chapter (Ketubot) and the leatuyei case of father/messengers accompanying husband's messengers, which is precisely what the 'Ketubot Precedent' prose describes.",
+      "chosen_heading": "Ketubot Precedent",
+      "current_heading": "Ketubot Precedent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Betrothal Status",
+    "candidates": [
+      "Our Perek Klal",
+      "Betrothal Status",
+      "Three by Three"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the case of 'masar ha'av lishluchei habaal o shemasru shluchei ha'av lishluchei habaal' and the rule of 'ein ba'al meifer b'kodmin,' which is precisely what candidate 0's prose discusses in detail, making it a clearly better match than the current 'Betrothal Status' section.",
+      "chosen_heading": "Our Perek Klal",
+      "current_heading": "Betrothal Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Three by Three",
+    "candidates": [
+      "Betrothal Status",
+      "Three by Three",
+      "Divorced Category",
+      "Orphan Category",
+      "Adult Category",
+      "Rabbi Yehuda",
+      "Chachamim Simplify",
+      "Konam 1",
+      "Package Analysis",
+      "Konam 2",
+      "Baraita Dispute"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 2,
+      "split2": 3,
+      "first_heading": "Three by Three",
+      "first_confidence": "high",
+      "first_reason": "The mishna listing nine young women whose vows are upheld matches the 'Three by Three' heading, which explicitly describes this mishna's structure of nine cases derived from three fundamental categories.",
+      "second_heading": "Chachamim Simplify",
+      "second_confidence": "high",
+      "second_reason": "The Gemara passage where Rav Yehuda cites Rav to contrast Rabbi Yehuda's nine cases with the Sages' three categories directly matches the 'Chachamim Simplify' heading, which describes exactly this teaching.",
+      "third_heading": "Konam 1",
+      "third_confidence": "high",
+      "third_reason": "The mishna about a wife's konam vow conditional on preparing things for her husband, involving her father and father-in-law, matches the 'Konam 1' heading which describes precisely this formulation and its annulment.",
+      "current_heading": "Three by Three",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Baraita Dispute",
+    "candidates": [
+      "Divorced Category",
+      "Orphan Category",
+      "Adult Category",
+      "Rabbi Yehuda",
+      "Chachamim Simplify",
+      "Konam 1",
+      "Package Analysis",
+      "Konam 2",
+      "Baraita Dispute",
+      "The Vow",
+      "Temptation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "Both items are from the baraita recording the Rabbi Natan vs. Chachamim dispute about annulling conditional konam vows before they take effect, which is precisely what the 'Baraita Dispute' prose describes.",
+      "chosen_heading": "Baraita Dispute",
+      "current_heading": "Baraita Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Temptation",
+    "candidates": [
+      "The Vow",
+      "Temptation",
+      "Appeal",
+      "Strategy",
+      "Hatarat Debate",
+      "Textual Proofs",
+      "Universal Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together narrate the complete story of the man's vow, Rav Acha bar Rav Huna's deception, the mud/clay intervention, and the appearance before Rav Chisda \u2014 exactly what the 'Temptation' section's prose describes in detail, including Rava's praise of the strategy, which is also summarized there.",
+      "chosen_heading": "Temptation",
+      "current_heading": "Temptation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Universal Rule",
+    "candidates": [
+      "Appeal",
+      "Strategy",
+      "Hatarat Debate",
+      "Textual Proofs",
+      "Universal Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present Rav Pappi's answer distinguishing hafara (where Rabbi Natan and the Rabbis dispute) from she'eilah (where all agree the vow must take effect), which matches candidate 3 'Textual Proofs' prose describing exactly this \u2014 Rav Papa's answer about mahloket b'hafara with the verse proofs \u2014 rather than candidate 4 'Universal Rule' which discusses only the she'eilah conclusion and its implications.",
+      "chosen_heading": "Textual Proofs",
+      "current_heading": "Universal Rule",
+      "moved": true
+    }
+  }
+]

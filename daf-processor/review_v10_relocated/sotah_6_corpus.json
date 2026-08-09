@@ -1,0 +1,423 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "No Yibum Rule",
+    "candidates": [
+      "Sotah Suspected Status",
+      "No Yibum Rule",
+      "Peshat Derivation",
+      "Abaye's Refutation",
+      "Voluntary vs Mandated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'why must she perform chalitza, let her enter into levirate marriage' \u2014 this is precisely the opening question ('amay? Why?') that the 'No Yibum Rule' section's prose describes as the Gemara's obvious opening question after explaining the mishna's rule against yibum for a sotah.",
+      "chosen_heading": "No Yibum Rule",
+      "current_heading": "No Yibum Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Voluntary vs Mandated",
+    "candidates": [
+      "Peshat Derivation",
+      "Abaye's Refutation",
+      "Voluntary vs Mandated",
+      "Tosafot Resolution",
+      "House-Wrecker Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Yosef's derivation from 'l'ish acher v'lo la-yavam' and Abaye's challenge about chalitzah with Rav Yosef's response about the get \u2014 are precisely the content described in the 'Peshat Derivation' prose, which explicitly covers both the scriptural drasha and the internal chalitzah/get logic, making it the clear home for this passage rather than the current placement under 'Voluntary vs Mandated.'",
+      "chosen_heading": "Peshat Derivation",
+      "current_heading": "Voluntary vs Mandated",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "House-Wrecker Logic",
+    "candidates": [
+      "Tosafot Resolution",
+      "House-Wrecker Logic",
+      "Remarriage to Others",
+      "Rava's Kal Vachomer",
+      "Kohen Gadol Example",
+      "Rape Case Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "House-Wrecker Logic",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 discuss the 'listore l'beito' (house-wrecker) logic and the ish acher argument with Abaye's challenge about marrying another man, which matches the 'House-Wrecker Logic' prose exactly.",
+      "second_heading": "Remarriage to Others",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 present the second version of Rav Yosef's ish acher argument and Abaye's challenge about the second husband dying without children, which is precisely what the 'Remarriage to Others' prose describes.",
+      "current_heading": "House-Wrecker Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Rape Case Analysis",
+    "candidates": [
+      "Remarriage to Others",
+      "Rava's Kal Vachomer",
+      "Kohen Gadol Example",
+      "Rape Case Analysis",
+      "Enumeration Cases",
+      "Guilt & Witnesses",
+      "Refusal Cases",
+      "Husband Violation",
+      "Rav Sheshet's Point",
+      "Scriptural Basis",
+      "Witnesses Post-Ritual"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 5,
+      "split2": 6,
+      "first_heading": "Rava's Kal Vachomer",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 contains Rava's kal vachomer argument and Abaye's challenges with the kohen gadol and rape cases, which precisely matches the prose description of heading 1 ('Rava's Kal Vachomer') and extends through headings 2 and 3 \u2014 but since the heading prose for heading 1 describes the kal vachomer itself and the counterexamples are described under headings 2 and 3, the segment as a whole (containing all three discussions) best fits under heading 1 as the initiating argument, though headings 2 and 3 also match portions of it; heading 1 is the best single assignment as the segment begins with Rava's kal vachomer.",
+      "second_heading": "Enumeration Cases",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna enumerating women forbidden from eating terumah, which directly matches heading 4 ('Enumeration Cases') describing the Mishnah's list of women whose sotah status remains unresolved.",
+      "third_heading": "Rav Sheshet's Point",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 contains Rav Amram reporting Rav Sheshet's ruling about overseas witnesses neutralizing the bitter water, with the scriptural basis from Numbers 5:13, which precisely matches heading 8 ('Rav Sheshet's Point') describing this exact teaching.",
+      "current_heading": "Rape Case Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Witnesses Post-Ritual",
+    "candidates": [
+      "Enumeration Cases",
+      "Guilt & Witnesses",
+      "Refusal Cases",
+      "Husband Violation",
+      "Rav Sheshet's Point",
+      "Scriptural Basis",
+      "Witnesses Post-Ritual",
+      "Rabbi's Merit View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's question about when witnesses arrive relative to drinking, Rav Sheshet's answer that it must be post-drinking, and Rav Yosef's merit-based rebuttal \u2014 exactly the content described in candidate 6's prose about witnesses arriving after the ritual and the tiggalei milta argument, with Rav Yosef's response addressed there as well (candidate 7 covers the fuller elaboration of the merit debate, but the passage itself is the initial exchange that candidate 6's prose explicitly describes).",
+      "chosen_heading": "Witnesses Post-Ritual",
+      "current_heading": "Witnesses Post-Ritual",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rabbi's Merit View",
+    "candidates": [
+      "Rabbi's Merit View",
+      "Rabbis' Position",
+      "Sheshet Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the dispute between Rav Sheshet and Rav Yosef as centering on Rabbi's view of deterioration (*mitnavvena*), which is precisely what the prose under 'Rabbi's Merit View' (heading 0) discusses \u2014 Rabbi's position that merit delays but does not prevent the sota's deterioration and ultimate death.",
+      "chosen_heading": "Rabbi's Merit View",
+      "current_heading": "Rabbi's Merit View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Sheshet Interpretation",
+    "candidates": [
+      "Rabbis' Position",
+      "Sheshet Interpretation",
+      "Yosef Counter",
+      "Policy Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Rav Sheshet's and Rav Yosef's positions together in one Talmudic excerpt, but the current placement under 'Sheshet Interpretation' is appropriate since the passage opens with Rav Sheshet's view and his position is the primary subject, with Rav Yosef's view serving as the contrast \u2014 matching the prose under heading 1 which explains Rav Sheshet's reading of the debate.",
+      "chosen_heading": "Sheshet Interpretation",
+      "current_heading": "Sheshet Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Policy Concern",
+    "candidates": [
+      "Yosef Counter",
+      "Policy Concern",
+      "Parallel Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Policy Concern",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Shimon's objection to zechut suspending the waters, which is precisely what the 'Policy Concern' prose describes \u2014 the systemic legitimacy argument against zechut.",
+      "second_heading": "Parallel Logic",
+      "second_confidence": "high",
+      "second_reason": "Item 2 extends Rabbi Shimon's critique to the overseas-witnesses principle, which is exactly what the 'Parallel Logic' prose describes as the Gemara's next move.",
+      "current_heading": "Policy Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Parallel Logic",
+    "candidates": [
+      "Parallel Logic",
+      "Shimon Rejects Both",
+      "Minchah Sequence",
+      "Rav's Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's direct response 'Rabbi Shimon ka-amrat?' explaining that Rabbi Shimon rejects both merit and overseas witnesses as delaying factors, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Shimon Rejects Both",
+      "current_heading": "Parallel Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Rav's Argument",
+    "candidates": [
+      "Shimon Rejects Both",
+      "Minchah Sequence",
+      "Rav's Argument",
+      "Yehuda Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items constitute Rav's objection from the mishna about whose meal-offerings are burned, followed by the diagnostic question about when witnesses arrive and the resulting argument about whether the waters evaluate her \u2014 exactly what the 'Rav's Argument' prose describes in detail.",
+      "chosen_heading": "Rav's Argument",
+      "current_heading": "Rav's Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Yehuda Limitation",
+    "candidates": [
+      "Yehuda Limitation",
+      "Papa's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Yehuda's solution, Rav Mesharshiyya's objection about the priestly escort, and Rav Ashi's bathroom answer \u2014 are precisely the content described in the 'Yehuda Limitation' prose, which explicitly discusses the azarah scenario, the pirchei kehunah objection, and both answers (adultery with the priests themselves, and the bathroom privacy moment).",
+      "chosen_heading": "Yehuda Limitation",
+      "current_heading": "Yehuda Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Papa's Solution",
+    "candidates": [
+      "Papa's Solution",
+      "Pre-Sanctity Tumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's exact statement that is described and analyzed in candidate 0's prose, which explicitly discusses his 'le-olam ke-da-amrinan me-ikara' solution and the rabbinic decree against transferring kli sharet-sanctified offerings to non-sacred status.",
+      "chosen_heading": "Papa's Solution",
+      "current_heading": "Papa's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Pre-Sanctity Tumah",
+    "candidates": [
+      "Pre-Sanctity Tumah",
+      "Death After Sanctity",
+      "Kometz Offered"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both pre-sanctity (tipade) and post-sanctity (tisaref) scenarios in one baraita, but the current heading 'Pre-Sanctity Tumah' captures the beginning of this objection, and the passage as a whole is an objection raised by Rav Mari that spans both cases \u2014 keeping it under its current placement is acceptable since it introduces the full baraita as a unit.",
+      "chosen_heading": "Pre-Sanctity Tumah",
+      "current_heading": "Pre-Sanctity Tumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Kometz Offered",
+    "candidates": [
+      "Death After Sanctity",
+      "Kometz Offered",
+      "Doubtful Minchah",
+      "Witnesses Post-Ritual",
+      "Zomemin Witnesses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Death After Sanctity",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 deal with what happens when the husband or wife dies at various stages of the offering process (handful sanctified but not offered, or offered but shirayim not eaten), matching the 'Death After Sanctity' and 'Kometz Offered' prose about termination mid-process \u2014 but both items together span those two stages and item 1 (handful sanctified, not yet offered) fits better under 'Death After Sanctity' while item 2 (handful offered, shirayim not eaten) fits 'Kometz Offered'; however since item 2 also contains the 'shel safeik' explanation matching 'Doubtful Minchah', the real seam is after item 2.",
+      "second_heading": "Witnesses Post-Ritual",
+      "second_confidence": "high",
+      "second_reason": "Item 3 discusses witnesses arriving to testify about her defilement and the case of conspiring witnesses, directly matching the 'Witnesses Post-Ritual' and 'Zomemin Witnesses' prose about minchasah tisaref and eidim zomemin.",
+      "current_heading": "Kometz Offered",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Zomemin Witnesses",
+    "candidates": [
+      "Doubtful Minchah",
+      "Witnesses Post-Ritual",
+      "Zomemin Witnesses",
+      "Text vs Policy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the publicity of conspiring witnesses (eidim zomemin kala is lehu) as the reason their case differs from the witnesses-after-ritual case, which is precisely what the 'Zomemin Witnesses' section's prose addresses.",
+      "chosen_heading": "Zomemin Witnesses",
+      "current_heading": "Zomemin Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Text vs Policy",
+    "candidates": [
+      "Text vs Policy",
+      "Vetohorah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage introduces a baraita that supports Rav Sheshet's ruling but on different (textual) grounds, which fits the transition described in 'Text vs Policy' \u2014 asking whether a textual basis survives Rabbi Shimon's critique \u2014 though it also leads directly into the 'Vetohorah Source' section.",
+      "chosen_heading": "Text vs Policy",
+      "current_heading": "Text vs Policy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150
+    ],
+    "current_heading": "Vetohorah Source",
+    "candidates": [
+      "Vetohorah Source",
+      "Gossiping Peshat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items derive exclusions from the words 'tehora' and 'utehora' in Numbers 5:28, directly matching the 'Vetohorah Source' prose which explicitly discusses v'lo she-yesh lah eidim bimdinat hayam and v'lo she-tola lah zechus \u2014 the exact content of these two items.",
+      "chosen_heading": "Vetohorah Source",
+      "current_heading": "Vetohorah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Gossiping Peshat",
+    "candidates": [
+      "Gossiping Peshat",
+      "Rarity Mitigation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the 'weavers in the moonlight' gossip case, which is precisely what the 'Gossiping Peshat' section's prose discusses.",
+      "chosen_heading": "Gossiping Peshat",
+      "current_heading": "Gossiping Peshat",
+      "moved": false
+    }
+  }
+]

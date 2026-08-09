@@ -1,0 +1,233 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Opening Remarks",
+      "Yavam's Role",
+      "Yavam & Hafara",
+      "Mishnah Setup",
+      "R. Eliezer View",
+      "R. Yehoshua View",
+      "R. Akiva View",
+      "Kal Vachomer",
+      "R. Akiva Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Eliezer's kal vachomer argument about a woman acquired through one's own initiative versus one acquired from Heaven, which is precisely what the 'Kal Vachomer' section's prose describes.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "R. Akiva Response",
+    "candidates": [
+      "R. Akiva Response",
+      "R. Akiva: No Zika",
+      "Yehoshua/Eliezer: Zika",
+      "Rav Ami Ukeimta",
+      "Ma'amar & Kinyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rabbi Akiva / Rabbi Yehoshua exchange (two yevamin argument and the single yavam rejoinder) that the prose of candidate 0 describes in detail and verbatim.",
+      "chosen_heading": "R. Akiva Response",
+      "current_heading": "R. Akiva Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Ma'amar & Kinyan",
+    "candidates": [
+      "R. Akiva: No Zika",
+      "Yehoshua/Eliezer: Zika",
+      "Rav Ami Ukeimta",
+      "Ma'amar & Kinyan",
+      "R. Elazar Narrow",
+      "Three-Brother Example",
+      "Beis Shammai Position",
+      "Beit Din Obligation",
+      "Ran's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain discussing Rav Ami's ukeimta about ma'amar and kinyan gamur (items 1-3) and Rabbi Elazar's challenge to that reading (item 4), which exactly matches the prose of heading 3 ('Ma'amar & Kinyan') that covers Rav Ami's resolution, Beit Shammai's kinyan gamur, Rabbi Yehoshua's pushback about two yevamin, and the introduction of Rabbi Elazar's narrower view.",
+      "chosen_heading": "Ma'amar & Kinyan",
+      "current_heading": "Ma'amar & Kinyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Ran's Principle",
+    "candidates": [
+      "R. Elazar Narrow",
+      "Three-Brother Example",
+      "Beis Shammai Position",
+      "Beit Din Obligation",
+      "Ran's Principle",
+      "Mezonot = Nisuin",
+      "Kal Vachomer Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's answer about beit din obligating the yavam to pay mezonot, which is precisely what the 'Beit Din Obligation' section's prose describes, rather than the Ran's principle which is only introduced as a supporting reference.",
+      "chosen_heading": "Beit Din Obligation",
+      "current_heading": "Ran's Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Kal Vachomer Context",
+    "candidates": [
+      "Mezonot = Nisuin",
+      "Kal Vachomer Context",
+      "Rava's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge to Rabbi Ami's explanation of Rabbi Eliezer's kal vachomer and the response about 'kanah le'atzmo al yedei shamayim,' which is precisely what the 'Kal Vachomer Context' prose describes.",
+      "chosen_heading": "Kal Vachomer Context",
+      "current_heading": "Kal Vachomer Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Rava's Question",
+    "candidates": [
+      "Rava's Question",
+      "No Father Mentioned",
+      "Rav Yitzchak View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabba's dilemma about whether ma'amar effects erusin or nisuin according to Beit Shammai, which is exactly what 'Rava's Question' prose discusses, and the current placement is correct.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Rava's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rav Yitzchak View",
+    "candidates": [
+      "No Father Mentioned",
+      "Rav Yitzchak View",
+      "Tosefta Citation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man bar Yitz\u1e25ak's statement that 'yafer' means nullifying in partnership, which is precisely the content described in the 'Rav Yitzchak View' prose about 'yafer beshutfut' meaning together with the father.",
+      "chosen_heading": "Rav Yitzchak View",
+      "current_heading": "Rav Yitzchak View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Tosefta Citation",
+    "candidates": [
+      "Tosefta Citation",
+      "R. Eliezer Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself presenting the three-way dispute between Rabbi Eliezer, Rabbi Yehoshua, and Rabbi Akiva, which matches exactly the 'Tosefta Citation' prose describing this baraita and its parallel to the mishnah debate.",
+      "chosen_heading": "Tosefta Citation",
+      "current_heading": "Tosefta Citation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "R. Eliezer Argument",
+    "candidates": [
+      "R. Eliezer Argument",
+      "R. Akiva Distinction",
+      "R. Yehoshua Challenge",
+      "R. Akiva Final"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Eliezer Argument",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Eliezer's kal v'chomer argument, which is precisely what heading 0 ('R. Eliezer Argument') discusses in its prose.",
+      "second_heading": "R. Akiva Distinction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Akiva's rebuttal distinguishing a woman acquired by the man himself versus acquired from Heaven, which is exactly what heading 1 ('R. Akiva Distinction') describes in its prose.",
+      "current_heading": "R. Eliezer Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "R. Akiva Final",
+    "candidates": [
+      "R. Akiva Distinction",
+      "R. Yehoshua Challenge",
+      "R. Akiva Final",
+      "Ma'amar Presupposed",
+      "Ba'at Lereshuto",
+      "No Stoning = No Eshet Ish",
+      "Final Mishnah Phrase"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong under 'R. Yehoshua Challenge': Item 1 is precisely Rabbi Yehoshua's challenge about one yavam versus two yevamin and Rabbi Akiva's terse reply, and Item 2 is Ben Azzai's lament about that compressed exchange \u2014 all of which the prose of heading 1 directly describes as Rabbi Yehoshua pressing Rabbi Akiva about the single yavam case.",
+      "chosen_heading": "R. Yehoshua Challenge",
+      "current_heading": "R. Akiva Final",
+      "moved": true
+    }
+  }
+]

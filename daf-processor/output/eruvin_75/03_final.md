@@ -1,12 +1,9 @@
-# Eruvin 75 — Daf Yomi Shiur
-
+[DAF:74b]
 ## Yachid Bemakom Nochri
 
-### Rav vs Rashi/Tosafot
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר רַב: מָבוֹי שֶׁצִּידּוֹ אֶחָד גּוֹי וְצִידּוֹ אֶחָד יִשְׂרָאֵל — אֵין מְעָרְבִין אוֹתוֹ דֶּרֶךְ חַלּוֹנוֹת לְהַתִּירוֹ דֶּרֶךְ פְּתָחִים לַמָּבוֹי.
->
-> **Translation:** **Rav Yehuda said that Rav said:** With regard to **an alleyway, one side of which** was occupied by **a gentile and one side of which** was occupied by **a Jew,** and the house of the Jew was connected to the houses of other Jews via windows but not via doors, and those other houses open directly into the public domain, the residents of the houses on the side of the alleyway where the Jews live **may not establish an *eiruv* through the windows** in order **to render** it **permitted** for the residents of the other houses to carry **through the doors** of the house leading **to the alleyway.**
+
+### Rav vs Rashi/Tosafot
 
 Before turning to the new *mishnah*, it is worth clarifying how the previous daf concluded. The final case on 74 involved a chain of houses opening into one another, which in turn opened into a courtyard shared with a non-Jew. The *gemara* there framed the difficulty as a problem of *yachid bemakom ovdei kochavim* — a single Jew finding himself alone in a courtyard with a non-Jewish resident. The way that concern was expressed in the lecture was that treating the chain of houses as a single unit effectively created such a scenario.
 
@@ -14,21 +11,21 @@ Rashi and Tosafot, however, understand the issue differently. In their reading, 
 
 ### Lechi/Kora Requirements
 
-> **Hebrew/Aramaic:** הֲוָה אָמֵינָא: דִּירַת גּוֹי שְׁמָהּ דִּירָה, קָא מַשְׁמַע לַן דְּדִירַת גּוֹי לֹא שְׁמָהּ דִּירָה. וְאִי מֵהָכָא — הֲוָה אָמֵינָא: לָא יָדַעְנָא בָּתִּים כַּמָּה, קָא מַשְׁמַע לַן בָּתִּים תְּרֵין.
->
-> **Translation:** **I would have said** that **the residence of a gentile is considered a residence** with regard to defining an area as an alleyway. Therefore, he **teaches us that the** legal **status of the residence of a gentile is not considered a** full-fledged **residence** in that regard. **And if** Rav had taught this *halakha* only **from** the ruling **here,** with regard to gentiles, **I would have said** that **I do not know how many houses there** are. Therefore, he **teaches us** that there must be at least **two houses** and two courtyards.
-
 Connected to this is the broader question of what constitutes a *chatzer* for the purpose of permitting it through a *lechi* or *kora*. Rav's position is that a courtyard requires at least two houses opening into it for a *lechi* or *kora* to suffice. Tosafot develops this point at considerable length — the size of that *tosafot* reflects not the usual effort of reconciling cross-tractate *sugyot*, but simply the difficulty of making coherent sense of the case itself. Tosafot's essential question is: when do multiple houses that open into one another, rather than directly into the courtyard, become considered a single house? The answer has implications for whether there are truly "two houses" sufficient to permit the courtyard via *lechi* or *kora*. That is the underlying structural issue Tosafot is working through in his several explanations.
 
 ---
 
 ## Shtei Chatzerot Structure
 
+
+
 ### B Through A Layout
 
-> **Hebrew/Aramaic:** מַתְנִי׳ שְׁתֵּי חֲצֵירוֹת זוֹ לִפְנִים מִזּוֹ, עֵירְבָה הַפְּנִימִית וְלֹא עֵירְבָה הַחִיצוֹנָה — הַפְּנִימִית מוּתֶּרֶת וְהַחִיצוֹנָה אֲסוּרָה.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ שְׁתֵּי חֲצֵירוֹת זוֹ לִפְנִים מִזּוֹ, עֵירְבָה הַפְּנִימִית וְלֹא עֵירְבָה הַחִיצוֹנָה — הַפְּנִימִית מוּתֶּרֶת וְהַחִיצוֹנָה אֲסוּרָה.
 > **Translation:** MISHNA: With regard to **two courtyards, one** of which was **within the other,** and the outer one opened into the public domain, the following distinctions apply: If **the inner** courtyard **established an *eiruv*** for itself **and the outer** one **did not establish an *eiruv*,** carrying in **the inner one is permitted and** carrying in **the outer one is prohibited.**
+
+> **Hebrew/Aramaic:** הַחִיצוֹנָה וְלֹא הַפְּנִימִית — שְׁתֵּיהֶן אֲסוּרוֹת. עֵירְבָה זוֹ לְעַצְמָהּ וְזוֹ לְעַצְמָהּ — זוֹ מוּתֶּרֶת בִּפְנֵי עַצְמָהּ וְזוֹ מוּתֶּרֶת בִּפְנֵי עַצְמָהּ.
+> **Translation:** If **the outer** courtyard established an *eiruv* **and the inner** one did **not,** carrying in **both** is **prohibited,** as the residents of the inner courtyard pass through the outer one, and are considered to a certain extent as residents of the courtyard who did not participate in the *eiruv*. If **this** courtyard **established an *eiruv* for itself, and that** courtyard also **established an *eiruv* for itself,** but they did not establish a joint *eiruv* with one another, **this one is permitted by itself, and that one is permitted by itself,** but they may not carry from one to the other.
 
 The *mishnah* on 75a opens with the case of *shtei chatzerot zo lifnim mizo* — two courtyards, one situated behind the other. The physical setup is that courtyard B, the inner one, has no direct exit to the street; its only access is through courtyard A, the outer one. Each courtyard has its own residents with their respective houses. The practical consequence of this arrangement is that the people of B must necessarily pass through A at all times.
 
@@ -40,17 +37,9 @@ The first case: the inner courtyard, B, made an *eruv*, but the outer courtyard,
 
 ### A Eruv, B No Eruv
 
-> **Hebrew/Aramaic:** הַחִיצוֹנָה וְלֹא הַפְּנִימִית — שְׁתֵּיהֶן אֲסוּרוֹת.
->
-> **Translation:** If **the outer** courtyard established an *eiruv* **and the inner** one did **not,** carrying in **both** is **prohibited,** as the residents of the inner courtyard pass through the outer one, and are considered to a certain extent as residents of the courtyard who did not participate in the *eiruv*.
-
 The second case: A made an *eruv* but B did not. Here, *shteihem asurot* — both are forbidden. B is obviously forbidden, having made no *eruv*. But A is also forbidden because the residents of B, who are in a state of prohibition in their own zone, are constantly present in A. Their ongoing presence there means that A's *eruv* cannot be effective, since A is, conceptually, a courtyard whose members include B — and B has not participated.
 
 ### Both Eruv Separately
-
-> **Hebrew/Aramaic:** עֵירְבָה זוֹ לְעַצְמָהּ וְזוֹ לְעַצְמָהּ — זוֹ מוּתֶּרֶת בִּפְנֵי עַצְמָהּ וְזוֹ מוּתֶּרֶת בִּפְנֵי עַצְמָהּ. רַבִּי עֲקִיבָא אוֹסֵר הַחִיצוֹנָה, שֶׁדְּרִיסַת הָרֶגֶל אוֹסַרְתָּהּ. וַחֲכָמִים אוֹמְרִים: אֵין דְּרִיסַת הָרֶגֶל אוֹסַרְתָּהּ.
->
-> **Translation:** If **this** courtyard **established an *eiruv* for itself, and that** courtyard also **established an *eiruv* for itself,** but they did not establish a joint *eiruv* with one another, **this one is permitted by itself, and that one is permitted by itself,** but they may not carry from one to the other. **Rabbi Akiva prohibits** carrying in **the outer one** even in such a case, **as the** right of **entry** to the outer courtyard enjoyed by the residents of the inner courtyard **renders it prohibited. And the Rabbis** disagree and **say:** The right of **entry** enjoyed by the residents of the inner courtyard **does not render it prohibited.** Since the residents of the inner courtyard do not use the outer one other than to pass through it, and they are permitted to carry in their own courtyard, they do not render it prohibited to carry in the outer courtyard.
 
 The third case: both A and B each made their own *eruv* independently. The *mishnah* states *zu muteret bifnei atzmah vezu muteret bifnei atzmah* — each is permitted in its own right. This appears entirely logical: B is fine on its own terms, and A is fine on its own terms. It is here that Rabbi Akiva intervenes. He rules *oser hachitzonit* — A is nonetheless forbidden — *she'drisat haregel osartah*: because B's constant trampling through A makes A's *eruv* deficient.
 
@@ -58,29 +47,50 @@ Rabbi Akiva's reasoning is formulated as *regel hamuteret bimkomah oseret shelo 
 
 ### Shachach One Member
 
-> **Hebrew/Aramaic:** שָׁכַח אֶחָד מִן הַחִיצוֹנָה וְלֹא עֵירַב — הַפְּנִימִית מוּתֶּרֶת וְהַחִיצוֹנָה אֲסוּרָה. מִן הַפְּנִימִית וְלֹא עֵירַב — שְׁתֵּיהֶן אֲסוּרוֹת. נָתְנוּ עֵירוּבָן בְּמָקוֹם אֶחָד וְשָׁכַח אֶחָד, בֵּין מִן הַפְּנִימִית בֵּין מִן הַחִיצוֹנָה, וְלֹא עֵירַב — שְׁתֵּיהֶן אֲסוּרוֹת. וְאִם הָיוּ שֶׁל יְחִידִים — אֵינָן צְרִיכִין לְעָרֵב.
->
-> **Translation:** If **one** resident **of the outer** courtyard **forgot and did not** contribute to the ***eiruv*,** carrying in **the inner** courtyard **is permitted and** in **the outer one is prohibited.** If one resident **of the inner** courtyard **forgot and did not** contribute to the ***eiruv*, they are both prohibited,** as the right of way enjoyed by the members of the inner courtyard through the outer courtyard renders the outer one prohibited as well. If the residents of both courtyards **put their *eiruv* in one place, and one** person, **whether** he was **from the inner** courtyard **or from the outer one, forgot and did not** contribute to the ***eiruv*, they are both prohibited** for carrying within them, as the two courtyards are treated as one. **And if** the courtyards belonged **to individuals,** i.e., if only one person lived in each courtyard, **they are not required to establish an *eiruv*,** as this requirement applies only to a courtyard occupied by multiple residents.
-
 The *mishnah* then transitions to a parallel set of cases, not where a courtyard entirely failed to make an *eruv*, but where one member forgot to participate — *shachach* — which produces the same functional result of an invalid *eruv*. If one resident of A forgot, *hapnimis muteret vehachitzonit asurah* — B is fine, A is forbidden. If one resident of B forgot, *shteihem asurot* — both are forbidden, for the same reason as before: a defective B compromises A.
 
 The *mishnah* then introduces the case of *natnu eiruvam bemakom echad* — they placed their *eruv* in a single location, meaning A and B made a unified *eruv* together. In this case, *bein min hapnimis bein min hachitzonit*, whether the one who forgot was from B or from A, *shteihem asurot* — both are forbidden. Normally, if A and B had made separate *eruvin*, a problem in A would leave B unaffected. But once they have formed a unified *eruv*, they constitute one entity, and any single member's failure to participate compromises the whole. The usual solutions of *bitul* are theoretically available, but the point is that combining into one unit removes the insulation that separate *eruvin* would have provided.
 
 ### Two Yechidim
 
+> **Hebrew/Aramaic:** רַבִּי עֲקִיבָא אוֹסֵר הַחִיצוֹנָה, שֶׁדְּרִיסַת הָרֶגֶל אוֹסַרְתָּהּ. וַחֲכָמִים אוֹמְרִים: אֵין דְּרִיסַת הָרֶגֶל אוֹסַרְתָּהּ.
+> **Translation:** **Rabbi Akiva prohibits** carrying in **the outer one** even in such a case, **as the** right of **entry** to the outer courtyard enjoyed by the residents of the inner courtyard **renders it prohibited. And the Rabbis** disagree and **say:** The right of **entry** enjoyed by the residents of the inner courtyard **does not render it prohibited.** Since the residents of the inner courtyard do not use the outer one other than to pass through it, and they are permitted to carry in their own courtyard, they do not render it prohibited to carry in the outer courtyard.
+
+> **Hebrew/Aramaic:** שָׁכַח אֶחָד מִן הַחִיצוֹנָה וְלֹא עֵירַב — הַפְּנִימִית מוּתֶּרֶת וְהַחִיצוֹנָה אֲסוּרָה. מִן הַפְּנִימִית וְלֹא עֵירַב — שְׁתֵּיהֶן אֲסוּרוֹת.
+> **Translation:** If **one** resident **of the outer** courtyard **forgot and did not** contribute to the ***eiruv*,** carrying in **the inner** courtyard **is permitted and** in **the outer one is prohibited.** If one resident **of the inner** courtyard **forgot and did not** contribute to the ***eiruv*, they are both prohibited,** as the right of way enjoyed by the members of the inner courtyard through the outer courtyard renders the outer one prohibited as well.
+
+> **Hebrew/Aramaic:** נָתְנוּ עֵירוּבָן בְּמָקוֹם אֶחָד וְשָׁכַח אֶחָד, בֵּין מִן הַפְּנִימִית בֵּין מִן הַחִיצוֹנָה, וְלֹא עֵירַב — שְׁתֵּיהֶן אֲסוּרוֹת. וְאִם הָיוּ שֶׁל יְחִידִים — אֵינָן צְרִיכִין לְעָרֵב.
+> **Translation:** If the residents of both courtyards **put their *eiruv* in one place, and one** person, **whether** he was **from the inner** courtyard **or from the outer one, forgot and did not** contribute to the ***eiruv*, they are both prohibited** for carrying within them, as the two courtyards are treated as one. **And if** the courtyards belonged **to individuals,** i.e., if only one person lived in each courtyard, **they are not required to establish an *eiruv*,** as this requirement applies only to a courtyard occupied by multiple residents.
+
+
 The final scenario: *ve'im hayu shenei yechidim einam tzerichin le'eruv* — if each courtyard has only a single resident, no *eruv* is needed. A single person in A has no need for an *eruv*, and a single person in B has no need for one either. Crucially, according to the *chachamim*, B's presence does not affect A regardless of what is happening in B. Each is simply independent.
 
-This final ruling, however, applies only according to the *chachamim*. According to Rabbi Akiva, even a single resident of B creates a problem for A, because the conceptual principle remains: B is always present in A. The debate is, at bottom, about whether the act of physically passing through A renders B's residents conceptual co-members of A's courtyard — Rabbi Akiva says yes, always; the *chachamim* say the extent to which B creates a problem for A depends on whether B itself is in a state of prohibition.
+This final ruling, however, applies only according to the *chachamim*. According to Rabbi Akiva, even a single resident of B creates a problem for A, because the conceptual principle remains: B is always present in A. It is worth pausing on what exactly this concern is, because it is not a practical worry about carrying. If B has not made an *eruv*, no one in B is carrying in their own zone anyway, so there is no realistic prospect of B carrying objects into A. The concern is conceptual: the *halacha* is that one cannot carry in a courtyard unless all members of that courtyard have participated in an *eruv*, and because B is always passing through A, Rabbi Akiva treats B's residents as functional co-members of A's courtyard. This is why Rabbi Akiva holds that even when B has made its own valid *eruv*, that is insufficient — B has not made an *eruv* together with A, and since B is treated as part of A's courtyard, A's *eruv* is incomplete. The *chachamim*, by contrast, draw a limit: if B is itself in a state of being permitted, their presence in A is a non-problematic one, and we do not treat them as members who compromise A's *eruv*.
+
+The debate is, at bottom, about whether the act of physically passing through A renders B's residents conceptual co-members of A's courtyard — Rabbi Akiva says yes, always; the *chachamim* say the extent to which B creates a problem for A depends on whether B itself is in a state of prohibition.
 
 ---
 
 ## Gemara Positions
 
+
+
 ### Rav Dimi Interprets
 
-> **Hebrew/Aramaic:** גְּמָ׳ כִּי אֲתָא רַב דִּימִי אָמַר רַבִּי יַנַּאי: זוֹ דִּבְרֵי רַבִּי עֲקִיבָא, דְּאָמַר: אֲפִילּוּ רֶגֶל הַמּוּתֶּרֶת בִּמְקוֹמָהּ — אוֹסֶרֶת שֶׁלֹּא בִּמְקוֹמָהּ. אֲבָל חֲכָמִים אוֹמְרִים: כְּשֵׁם שֶׁרֶגֶל הַמּוּתֶּרֶת אֵינָהּ אוֹסֶרֶת — כָּךְ רֶגֶל הָאֲסוּרָה אֵינָהּ אוֹסֶרֶת.
->
+> **Hebrew/Aramaic:** גְּמָ׳ כִּי אֲתָא רַב דִּימִי אָמַר רַבִּי יַנַּאי: זוֹ דִּבְרֵי רַבִּי עֲקִיבָא, דְּאָמַר: אֲפִילּוּ רֶגֶל הַמּוּתֶּרֶת בִּמְקוֹמָהּ — אוֹסֶרֶת שֶׁלֹּא בִּמְקוֹמָהּ. אֲבָל חֲכָמִים אוֹמְרִים: כְּשֵׁם שֶׁרֶגֶל הַמּוּתֶּרֶת אֵינָהּ אוֹסֶרֶת — כָּךְ רֶגֶל הָאֲסוּרָה אֵינָהּ אוֹסֶרֶת.
 > **Translation:** GEMARA: **When Rav Dimi came** from Eretz Yisrael to Babylonia **he said** in the name of **Rabbi Yannai: This** mishna, which states that if the residents of the outer courtyard established an *eiruv* but the residents of the inner one did not, they are both prohibited from carrying, is **the statement of Rabbi Akiva, who said: Even** the **foot** of one **who is permitted in its** own **place,** i.e., even someone from a courtyard in which he is permitted to carry, **renders** it **prohibited when** he is **not in its** own **place.** If he enjoys the right of entry to another courtyard he is considered like a resident of that courtyard as well, and if he does not participate in the *eiruv*, no one in that courtyard may carry. **However, the Rabbis say: Just as** the **foot** of one **who is permitted** in its own place **does not render** it **prohibited** to carry in another courtyard, **so** too, the **foot** of one **who is prohibited** in his place **does not render** it **prohibited** to carry in another courtyard. Consequently, if only the residents of the outer courtyard established an *eiruv*, the residents of the inner one do not render it prohibited to carry in the outer courtyard.
+
+> **Hebrew/Aramaic:** תְּנַן: עֵירְבָה חִיצוֹנָה וְלֹא פְּנִימִית שְׁתֵּיהֶן אֲסוּרוֹת. מַנִּי? אִילֵימָא רַבִּי עֲקִיבָא, מַאי אִירְיָא רֶגֶל אֲסוּרָה? אֲפִילּוּ רֶגֶל מוּתֶּרֶת נָמֵי. אֶלָּא לָאו רַבָּנַן!
+> **Translation:** **We learned** in the mishna: If the residents of **the outer** courtyard **established an *eiruv* and** the residents of **the inner** courtyard did **not, they are both prohibited. Whose** opinion is this? **If you say** it is that of **Rabbi Akiva, why** discuss **particularly** the case of **a foot that is prohibited,** i.e., a case where the inner courtyard did not establish an *eiruv*? According to Rabbi Akiva, **even a foot that is permitted also** renders it prohibited to carry. Therefore, even if the residents of the inner courtyard had established an *eiruv*, they would still render it prohibited to carry in the outer courtyard. **Rather, is it not** in accordance with the opinion of **the Rabbis?** This would indicate that the Rabbis agree that one who may not carry in his own courtyard does, in fact, render it prohibited to carry in a different courtyard through which he has right of entry, contrary to Rabbi Yannai’s claim.
+
+> **Hebrew/Aramaic:** לְעוֹלָם רַבִּי עֲקִיבָא, וְלֹא זוֹ אַף זוֹ קָתָנֵי.
+> **Translation:** The Gemara rejects this argument: **Actually,** this part of the mishna is in accordance with the opinion of **Rabbi Akiva,** and **he teaches** the mishna employing the style: **Not** only **this** but **also that.** In other words, he begins by teaching the *halakha* in a relatively straightforward case and then proceeds to a more complicated example. Consequently, the mishna should be understood as follows: Not only is it prohibited to carry in both courtyards if the residents of the outer courtyard established an *eiruv* and the residents of the inner one did not, but even if the residents of both courtyards established separate *eiruvin*, it remains prohibited to carry in the outer one.
+
+> **Hebrew/Aramaic:** תְּנַן: עֵירְבָה זוֹ לְעַצְמָהּ וְזוֹ לְעַצְמָהּ — זוֹ מוּתֶּרֶת בִּפְנֵי עַצְמָהּ וְזוֹ מוּתֶּרֶת בִּפְנֵי עַצְמָהּ. טַעְמָא דְּעֵירְבָה, הָא לֹא עֵירְבָה — שְׁתֵּיהֶן אֲסוּרוֹת,
+> **Translation:** The Gemara continues: **We learned** in the mishna: If **this** courtyard **established an *eiruv* for itself, and that** courtyard also **established an *eiruv* for itself,** but the two courtyards did not establish a joint *eiruv* with one another, **this one is permitted by itself, and that one is permitted by itself,** but it is prohibited to carry from one courtyard to the other. **The reason** both courtyards are permitted by themselves is that the residents of the inner courtyard **established an *eiruv*.** By inference, if they **did not establish an *eiruv*** carrying in **both would be prohibited.**
+
+> **Hebrew/Aramaic:** וְהָא הַאי תַּנָּא דְּאָמַר: רֶגֶל הַמּוּתֶּרֶת אֵינָהּ אוֹסֶרֶת רֶגֶל הָאֲסוּרָה אוֹסֶרֶת, מַנִּי הָא? אִילֵּימָא רַבִּי עֲקִיבָא הִיא — אֲפִילּוּ רֶגֶל הַמּוּתֶּרֶת נָמֵי, אֶלָּא לָאו, רַבָּנַן הִיא. וְעוֹד: מִדְּסֵיפָא רַבִּי עֲקִיבָא, רֵישָׁא לָאו רַבִּי עֲקִיבָא.
+> **Translation:** **But this *tanna*, who said** that the **foot** of one **who is permitted** in his own place **does not** render it **prohibited** to carry, while the **foot** of one **who is prohibited** in its own place **does** render it **prohibited** to carry, **who is this** *tanna*? **If you say** it is **Rabbi Akiva,** there is a difficulty, as he holds that **even** the **foot** of one **who is permitted** in its own place **also** renders it prohibited to carry in a different place. **Rather, is it not** the opinion of **the Rabbis,** which indicates that the Rabbis agree that the foot of one who is prohibited in its own place does, in fact, render it prohibited to carry in a different place, in contrast to the statement of Rabbi Yannai? **And furthermore, from the fact that the latter clause** that follows immediately states the opinion of **Rabbi Akiva,** it is clear that **the first clause,** with which Rabbi Akiva disagrees, **is not** in accordance with the opinion of **Rabbi Akiva.**
 
 The *gemara* opens its analysis with a statement brought by Rav Dimi in the name of Rabbi Yannai: *zu divrei Rabbi Akiva* — this is entirely the position of Rabbi Akiva. The claim is striking: the *entire mishnah* is to be read as the view of Rabbi Akiva, not as a debate between a *tanna kama* and Rabbi Akiva. The purpose of this reading is to carve out space for a third position, attributed to the *chachamim*, that is even more lenient than the middle position the *mishnah* appears to articulate.
 
@@ -88,23 +98,20 @@ Rabbi Yannai's formulation of Rabbi Akiva's position is: *afilu regel hamuteret 
 
 ### Gemara Challenges Reading
 
-> **Hebrew/Aramaic:** תְּנַן: עֵירְבָה חִיצוֹנָה וְלֹא פְּנִימִית שְׁתֵּיהֶן אֲסוּרוֹת. מַנִּי? אִילֵימָא רַבִּי עֲקִיבָא, מַאי אִירְיָא רֶגֶל אֲסוּרָה? אֲפִילּוּ רֶגֶל מוּתֶּרֶת נָמֵי. אֶלָּא לָאו רַבָּנַן!
->
-> **Translation:** **We learned** in the mishna: If the residents of **the outer** courtyard **established an *eiruv* and** the residents of **the inner** courtyard did **not, they are both prohibited. Whose** opinion is this? **If you say** it is that of **Rabbi Akiva, why** discuss **particularly** the case of **a foot that is prohibited,** i.e., a case where the inner courtyard did not establish an *eiruv*? According to Rabbi Akiva, **even a foot that is permitted also** renders it prohibited to carry. Therefore, even if the residents of the inner courtyard had established an *eiruv*, they would still render it prohibited to carry in the outer courtyard. **Rather, is it not** in accordance with the opinion of **the Rabbis?** This would indicate that the Rabbis agree that one who may not carry in his own courtyard does, in fact, render it prohibited to carry in a different courtyard through which he has right of entry, contrary to Rabbi Yannai's claim.
-
 The *gemara* immediately presses on this reading. The *mishnah* states plainly that when A made an *eruv* and B did not, both are forbidden. The *gemara* asks: *mani*? Whose view is this? If it is Rabbi Akiva's, why specify the case where B is *asur*? Rabbi Akiva holds that B creates a problem for A even when B is *mutar* — so the case of an *asur* B creating problems tells us nothing distinctive about Rabbi Akiva's position. The *gemara* therefore suggests this must represent the *rabbanan* — the middle position, which holds that B creates a problem for A only when B is itself forbidden.
 
 The *gemara* then attempts to preserve the reading of Rav Dimi by interpreting the *mishnah* as using the rhetorical device of *velo zo af zo* — not only in the case where B is *asur* does B create a problem, but even when B has made its own *eruv* and is *mutar*, B still creates a problem for A. In this reading, the *mishnah* builds from the less surprising to the more surprising case, and the whole is Rabbi Akiva's view.
 
 ### Gemara Rewrites
 
-> **Hebrew/Aramaic:** לְעוֹלָם רַבִּי עֲקִיבָא, וְלֹא זוֹ אַף זוֹ קָתָנֵי.
->
-> **Translation:** The Gemara rejects this argument: **Actually,** this part of the mishna is in accordance with the opinion of **Rabbi Akiva,** and **he teaches** the mishna employing the style: **Not** only **this** but **also that.** In other words, he begins by teaching the *halakha* in a relatively straightforward case and then proceeds to a more complicated example. Consequently, the mishna should be understood as follows: Not only is it prohibited to carry in both courtyards if the residents of the outer courtyard established an *eiruv* and the residents of the inner one did not, but even if the residents of both courtyards established separate *eiruvin*, it remains prohibited to carry in the outer one.
-
-> **Hebrew/Aramaic:** כוּלַּהּ רַבִּי עֲקִיבָא הִיא, וְחַסּוֹרֵי מִיחַסְּרָא וְהָכִי קָתָנֵי: עֵירְבָה זוֹ לְעַצְמָהּ וְזוֹ לְעַצְמָהּ — זוֹ מוּתֶּרֶת בִּפְנֵי עַצְמָהּ וְזוֹ מוּתֶּרֶת בִּפְנֵי עַצְמָהּ. בַּמֶּה דְּבָרִים אֲמוּרִים — שֶׁעָשְׂתָה דַּקָּה, אֲבָל לֹא עָשְׂתָה דַּקָּה — חִיצוֹנָה אֲסוּרָה, דִּבְרֵי רַבִּי עֲקִיבָא, שֶׁרַבִּי עֲקִיבָא אוֹסֵר אֶת הַחִיצוֹנָה, מִפְּנֵי שֶׁדְּרִיסַת הָרֶגֶל אוֹסֶרֶת. וַחֲכָמִים אוֹמְרִים: אֵין דְּרִיסַת הָרֶגֶל אוֹסֶרֶת.
->
+> **Hebrew/Aramaic:** כּוּלַּהּ רַבִּי עֲקִיבָא הִיא, וְחַסּוֹרֵי מִיחַסְּרָא וְהָכִי קָתָנֵי: עֵירְבָה זוֹ לְעַצְמָהּ וְזוֹ לְעַצְמָהּ — זוֹ מוּתֶּרֶת בִּפְנֵי עַצְמָהּ וְזוֹ מוּתֶּרֶת בִּפְנֵי עַצְמָהּ. בַּמֶּה דְּבָרִים אֲמוּרִים — שֶׁעָשְׂתָה דַּקָּה, אֲבָל לֹא עָשְׂתָה דַּקָּה — חִיצוֹנָה אֲסוּרָה, דִּבְרֵי רַבִּי עֲקִיבָא, שֶׁרַבִּי עֲקִיבָא אוֹסֵר אֶת הַחִיצוֹנָה, מִפְּנֵי שֶׁדְּרִיסַת הָרֶגֶל אוֹסֶרֶת. וַחֲכָמִים אוֹמְרִים: אֵין דְּרִיסַת הָרֶגֶל אוֹסֶרֶת.
 > **Translation:** The Gemara responds: The **entire** mishna in accordance with the opinion of **Rabbi Akiva, and it is incomplete and teaches the following:** If **this** courtyard **established an *eiruv* for itself, and that** courtyard also **established an *eiruv* for itself,** but they did not establish a joint *eiruv* with one another, **this one is permitted by itself, and that one is permitted by itself,** but they may not carry from one to the other. **In what** case **is this statement said?** In a case **where** the inner courtyard **constructed a** small **partition** at its entrance. **However,** if **it did not construct a partition, the outer** courtyard **is prohibited.** This is **the statement of Rabbi Akiva, as Rabbi Akiva prohibits** carrying in **the outer** courtyard **because the** right of **entry** enjoyed by the members of the inner courtyard **renders** it **prohibited** to carry. **And the Rabbis say: The** right of **entry** enjoyed by the members of the inner courtyard **does not render** it **prohibited** to carry.
+
+> **Hebrew/Aramaic:** מֵתִיב רַב בִּיבִי בַּר אַבָּיֵי: וְאִם הָיוּ שֶׁל יְחִידִים אֵין צְרִיכִין לְעָרֵב. הָא שֶׁל רַבִּים צְרִיכִין לְעָרֵב, אַלְמָא רֶגֶל הַמּוּתֶּרֶת בִּמְקוֹמָהּ — אֵינָהּ אוֹסֶרֶת, רֶגֶל הָאֲסוּרָה — אוֹסֶרֶת!
+> **Translation:** **Rav Beivai bar Abaye raised an objection** based upon the final clause of the mishna: **And if** the courtyards belonged **to individuals,** i.e., if only one person lived in each courtyard, **they are not required to establish an *eiruv*. Doesn’t** this indicate that if they belong **to many** people jointly, **they need to establish an *eiruv*? Apparently,** the **foot** of one **who is permitted in his** own **place does not render** it **prohibited,** but the **foot** of one **who is prohibited** in his own place does **render** it **prohibited.** This contradicts Rabbi Yannai’s understanding of Rabbi Akiva’s opinion.
+
+> **Hebrew/Aramaic:** וְעוֹד מֵתִיב רָבִינָא: שָׁכַח אֶחָד מִן הַחִיצוֹנָה וְלֹא עֵירַב — הַפְּנִימִית מוּתֶּרֶת וְחִיצוֹנָה אֲסוּרָה. שָׁכַח אֶחָד מִן הַפְּנִימִית וְלֹא עֵירַב — שְׁתֵּיהֶן אֲסוּרוֹת. טַעְמָא דְּשֶׁכַח, הָא לָא שָׁכַח — שְׁתֵּיהֶן מוּתָּרוֹת. אַלְמָא רֶגֶל הַמּוּתֶּרֶת — אֵינָהּ אוֹסֶרֶת, רֶגֶל הָאֲסוּרָה — אוֹסֶרֶת.
+> **Translation:** **And Ravina raised a further objection** from the mishna: If **one** resident **of the outer** courtyard **forgot and did not** contribute to the ***eiruv*, the inner** courtyard **is permitted** for carrying **and the outer one is prohibited.** If **one** resident **of the inner** courtyard **forgot and did not** contribute to the ***eiruv*, both** courtyards **are prohibited,** as the right of way enjoyed by the members of the inner courtyard through the outer courtyard renders the outer one prohibited as well. **The reason is that** one of the residents **forgot** to contribute to the *eiruv*. **But** if **he did not forget,** and each courtyard established its own valid *eiruv*, **both of them** would be **permitted. Apparently,** the **foot** of one **who is permitted in his** own **place does not render** it **prohibited** to carry, but the **foot** of one **who is prohibited** in his own place does **render** it **prohibited** to carry. This cannot be in accordance with the opinion of Rabbi Akiva, as he holds that even the foot of one who is permitted in his own place renders it prohibited to carry elsewhere. Rather, it must be the opinion of the Rabbis, which proves that even they agree that the foot of one who is prohibited in his own place does render a different courtyard prohibited.
 
 The *gemara*, however, is still not satisfied. The line of the *mishnah* stating *eiru zu le'atzmah vezu le'atzmah, zu muteret bifnei atzmah vezu muteret bifnei atzmah* — when both made separate *eruvin* each is permitted — implies that it is specifically *because* B made its *eruv* and is *mutar* that A is also *mutar*. The logical corollary is that had B not made an *eruv*, A would be forbidden. This is the middle position, not Rabbi Akiva's extreme.
 
@@ -114,8 +121,7 @@ Two further challenges then press against this approach, brought by Rav Bibi bar
 
 ### Three Positions
 
-> **Hebrew/Aramaic:** אֶלָּא כִּי אֲתָא רָבִין אָמַר רַבִּי יַנַּאי: שָׁלֹשׁ מַחְלוֹקוֹת בַּדָּבָר: תַּנָּא קַמָּא סָבַר: רֶגֶל הַמּוּתֶּרֶת — אֵינָהּ אוֹסֶרֶת, רֶגֶל הָאֲסוּרָה — אוֹסֶרֶת. רַבִּי עֲקִיבָא סָבַר: אֲפִילּוּ רֶגֶל הַמּוּתֶּרֶת אוֹסֶרֶת. וְרַבָּנַן בָּתְרָאֵי סָבְרִי: כְּשֵׁם שֶׁרֶגֶל מוּתֶּרֶת אֵינָהּ אוֹסֶרֶת — כָּךְ רֶגֶל הָאֲסוּרָה אֵינָהּ אוֹסֶרֶת.
->
+> **Hebrew/Aramaic:** אֶלָּא כִּי אֲתָא רָבִין אָמַר רַבִּי יַנַּאי: שָׁלֹשׁ מַחְלוֹקוֹת בַּדָּבָר: תַּנָּא קַמָּא סָבַר: רֶגֶל הַמּוּתֶּרֶת — אֵינָהּ אוֹסֶרֶת, רֶגֶל הָאֲסוּרָה — אוֹסֶרֶת. רַבִּי עֲקִיבָא סָבַר: אֲפִילּוּ רֶגֶל הַמּוּתֶּרֶת אוֹסֶרֶת. וְרַבָּנַן בָּתְרָאֵי סָבְרִי: כְּשֵׁם שֶׁרֶגֶל מוּתֶּרֶת אֵינָהּ אוֹסֶרֶת — כָּךְ רֶגֶל הָאֲסוּרָה אֵינָהּ אוֹסֶרֶת.
 > **Translation:** **Rather,** this version must be rejected, and **when Ravin came** from Eretz Yisrael to Babylonia he cited a different version. **Rabbi Yannai said: There are three disputes with regard to** this **matter. The first *tanna* holds** that the **foot** of one **who is permitted in his** own **place does not render** it **prohibited** to carry elsewhere, but the **foot** of one **who is prohibited** in his own place does **render** it **prohibited** to carry. **Rabbi Akiva holds** that **even** the **foot** of one **who is permitted** in his own place **renders** it **prohibited** to carry in a different place. **And the latter Rabbis hold** that **just as** the **foot** of one **who is permitted in his** own **place does not render** it **prohibited** to carry, **so** too, the **foot** of one **who is prohibited does not render** it **prohibited** to carry. This explanation resolves all of the difficulties posed earlier.
 
 With the approach of Rav Dimi rejected, the *gemara* turns to a second formulation. When Ravin came from *Eretz Yisrael*, he reported a statement of Rabbi Yannai: *gimmel machloket badavar* — there are three distinct positions in this dispute. The three positions are laid out clearly. The *tanna kama* holds the middle position: *regel hamuteret einah oseret, regel ha'asura oseret* — when B is permitted, it does not create a problem for A; when B is forbidden, it does create a problem. Rabbi Akiva holds the stricter extreme: *afilu regel hamuteret oseret* — even when B is fully permitted, it creates a problem for A, because B is always effectively present in A. And the *chachamim*, the third and most lenient position, hold the opposite extreme: *keshem she'regel hamuteret einah oseret, kach regel ha'asura einah oseret* — B never creates a problem for A, regardless of whether B itself is permitted or forbidden.
@@ -126,28 +132,35 @@ This third formulation — B as entirely irrelevant to A — is what the *chacha
 
 ## Unified Eruv Case
 
+
+
 ### Eruv in A
 
-> **Hebrew/Aramaic:** נָתְנוּ עֵירוּבָן בְּמָקוֹם אֶחָד וְשָׁכַח אֶחָד בֵּין מִן הַפְּנִימִית וְכוּ׳. מַאי מָקוֹם אֶחָד? אָמַר רַב יְהוּדָה אָמַר רַב: חִיצוֹנָה, וּמַאי קָרוּ לָהּ ״מָקוֹם אֶחָד״ — מָקוֹם הַמְיוּחָד לִשְׁתֵּיהֶן.
->
-> **Translation:** It was stated in the mishna: If the residents of both courtyards **put their *eiruv* in one place, and one** person, **whether** he was **from the inner** courtyard or from the outer one, **forgot** and did not contribute to the *eiruv*, it is prohibited to carry in both courtyards. The Gemara asks: **What is** the meaning of **one place?** Is the *halakha* different if the two courtyards established their *eiruv* in one place or in different places? **Rav Yehuda said that Rav said:** The mishna is referring to a case when the residents of both courtyards established their *eiruv* in **the outer** courtyard. **And why did they call it one** [***eḥad***] **place?** Because it is a place that is **designated** [***meyuḥad***] **for** the residents of **both** courtyards, as the members of the inner one also pass through the outer courtyard. Therefore, if a member of the outer courtyard forgot to contribute to the *eiruv*, the inner courtyard is also prohibited. Since the *eiruv* of the inner courtyard is located in the outer courtyard, the residents of the inner courtyard cannot separate themselves from the outer one. However, if the *eiruv* was deposited in the inner courtyard and a member of the outer courtyard forgot to contribute to the *eiruv*, carrying in the inner courtyard is permitted, because in that situation they can separate themselves from the outer courtyard.
+> **Hebrew/Aramaic:** נָתְנוּ עֵירוּבָן בְּמָקוֹם אֶחָד וְשָׁכַח אֶחָד בֵּין מִן הַפְּנִימִית וְכוּ׳. מַאי מָקוֹם אֶחָד?
+> **Translation:** It was stated in the mishna: If the residents of both courtyards **put their *eiruv* in one place, and one** person, **whether** he was **from the inner** courtyard or from the outer one, **forgot** and did not contribute to the *eiruv*, it is prohibited to carry in both courtyards. The Gemara asks: **What is** the meaning of **one place?** Is the *halakha* different if the two courtyards established their *eiruv* in one place or in different places?
+
+> **Hebrew/Aramaic:** (סִימָן חִיצוֹנָה עַצְמָהּ בְּבֵית יְחִידָאָה רָבִינָא דְּלָא מְשַׁכַּח בִּפְנִים)
+> **Translation:** Before continuing, the Gemara provides **a mnemonic** for the ensuing discussion: **Outer; for itself; in the house of an individual; Ravina; where the inner one did not forget.**
+
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר רַב: חִיצוֹנָה, וּמַאי קָרוּ לָהּ ״מָקוֹם אֶחָד״ — מָקוֹם הַמְיוּחָד לִשְׁתֵּיהֶן.
+> **Translation:** **Rav Yehuda said that Rav said:** The mishna is referring to a case when the residents of both courtyards established their *eiruv* in **the outer** courtyard. **And why did they call it one** [***eḥad***] **place?** Because it is a place that is **designated** [***meyuḥad***] **for** the residents of **both** courtyards, as the members of the inner one also pass through the outer courtyard. Therefore, if a member of the outer courtyard forgot to contribute to the *eiruv*, the inner courtyard is also prohibited. Since the *eiruv* of the inner courtyard is located in the outer courtyard, the residents of the inner courtyard cannot separate themselves from the outer one. However, if the *eiruv* was deposited in the inner courtyard and a member of the outer courtyard forgot to contribute to the *eiruv*, carrying in the inner courtyard is permitted, because in that situation they can separate themselves from the outer courtyard.
 
 The *mishnah* rules that when A and B place their *eruv* in one location — *natnu eiruvam bemakom echad* — and one member, whether from A or B, forgets to participate, both courtyards are forbidden. The *gemara* asks: what exactly does *makom echad*, "one place," mean? Rav Yehuda said in the name of Rav: it means the outer courtyard, A. The reason this location is called *makom echad* — a single place — is that it is *hamakom hameyuchad lishteihem*: the place that both courtyards functionally share, since everyone necessarily passes through A.
 
 The significance of specifying that the *eruv* is in A becomes clear in the subsequent analysis. If the unified *eruv* is situated in A and one member of A forgot, the question of whether B can "cut off" A is complicated by the fact that B does not hold the *eruv*. If B tried to close itself off from A conceptually, it would no longer have access to its own *eruv*. Conversely, if it is a member of B who forgot and the *eruv* is in A, A cannot save itself by cutting off B, because B's deficiency — since B's residents are always passing through A — continues to render A forbidden. The *gemara* thus establishes: when the unified *eruv* is in A, any failure, whether in A or B, makes both forbidden, for reasons specific to each direction.
 
+[DAF:75b]
 ### Eruv in B
 
-> **Hebrew/Aramaic:** תַּנְיָא נָמֵי הָכִי: נָתְנוּ עֵירוּבָן בַּחִיצוֹנָה, וְשָׁכַח אֶחָד, בֵּין מִן הַחִיצוֹנָה וּבֵין מִן הַפְּנִימִית, וְלֹא עֵירַב — שְׁתֵּיהֶן אֲסוּרוֹת, נָתְנוּ עֵירוּבָן בַּפְּנִימִית, וְשָׁכַח אֶחָד מִן הַפְּנִימִית וְלֹא עֵירַב — שְׁתֵּיהֶן אֲסוּרוֹת. מִן הַחִיצוֹנָה וְלֹא עֵירַב — שְׁתֵּיהֶן אֲסוּרוֹת, דִּבְרֵי רַבִּי עֲקִיבָא. וַחֲכָמִים אוֹמְרִים: בָּזוֹ, פְּנִימִית מוּתֶּרֶת וְחִיצוֹנָה אֲסוּרָה.
->
+> **Hebrew/Aramaic:** תַּנְיָא נָמֵי הָכִי: נָתְנוּ עֵירוּבָן בַּחִיצוֹנָה, וְשָׁכַח אֶחָד, בֵּין מִן הַחִיצוֹנָה וּבֵין מִן הַפְּנִימִית, וְלֹא עֵירַב — שְׁתֵּיהֶן אֲסוּרוֹת, נָתְנוּ עֵירוּבָן בַּפְּנִימִית, וְשָׁכַח אֶחָד מִן הַפְּנִימִית וְלֹא עֵירַב — שְׁתֵּיהֶן אֲסוּרוֹת. מִן הַחִיצוֹנָה וְלֹא עֵירַב — שְׁתֵּיהֶן אֲסוּרוֹת, דִּבְרֵי רַבִּי עֲקִיבָא. וַחֲכָמִים אוֹמְרִים: בָּזוֹ, פְּנִימִית מוּתֶּרֶת וְחִיצוֹנָה אֲסוּרָה.
 > **Translation:** **That was also taught** in a *baraita*: If **they placed their *eiruv* in the outer** courtyard, **and one** person **forgot** to contribute to the ***eiruv*, whether he is** a resident **of the outer** courtyard **or of the inner** one, **they are both prohibited.** If **they put their *eiruv* in the inner** courtyard, **and one** resident **of the inner** courtyard **forgot** to contribute to the ***eiruv*, they are both prohibited.** Similarly, if one of the residents **of the outer** courtyard **did not** contribute to the ***eiruv*, they are both prohibited.** This is **the statement of Rabbi Akiva. And the Rabbis** disagree and **say: In this** case, where the *eiruv* was deposited in the inner courtyard and the person who forgot to contribute to the *eiruv* was a resident of the outer one, the **inner** courtyard **is permitted and the outer one is prohibited.**
+
 
 A *baraita* teaches: when the unified *eruv* is placed in B — *natnu eruv bapnimis* — and a member of B forgot, both are forbidden. This is straightforward: the problem is in the same courtyard as the *eruv*, and cutting off A does not help. But when a member of A forgot and the *eruv* is in B, the *baraita* records a dispute. Rabbi Akiva says both are still forbidden. The *chachamim* say *bezu pnimis muteret vehachitzonit asurah* — B is permitted, A is forbidden.
 
 ### Severance Question
 
-> **Hebrew/Aramaic:** אֲמַר לְהוּ רַבָּה בַּר חָנָן לְאַבָּיֵי: מַאי שְׁנָא לְרַבָּנַן דְּאָמְרִי פְּנִימִית מוּתֶּרֶת — מִשּׁוּם דְּאָחֲדָא דַּשָּׁא וּמִשְׁתַּמְּשָׁא, לְרַבִּי עֲקִיבָא נָמֵי: תֵּיחַד דַּשָּׁא וּתְשַׁמֵּשׁ! אֲמַר לְהוּ: עֵירוּב מַרְגִּילָהּ.
->
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבָּה בַּר חָנָן לְאַבָּיֵי: מַאי שְׁנָא לְרַבָּנַן דְּאָמְרִי פְּנִימִית מוּתֶּרֶת — מִשּׁוּם דְּאָחֲדָא דַּשָּׁא וּמִשְׁתַּמְּשָׁא, לְרַבִּי עֲקִיבָא נָמֵי: תֵּיחַד דַּשָּׁא וּתְשַׁמֵּשׁ! אֲמַר לֵיהּ: עֵירוּב מַרְגִּילָהּ.
 > **Translation:** **Rabba bar Ḥanan said to Abaye: What is different according to the Rabbis, who say** that the **inner** courtyard **is permitted?** It is **because** the residents of the inner courtyard can **shut the door** of their courtyard to the members of the outer one **and use** the inner courtyard on their own. But if so, **according to Rabbi Akiva as well, let** the residents of the inner courtyard **shut the door** of their courtyard to the members of the outer one **and use** their courtyard on their own. Abaye **said to him:** If the *eiruv* of the outer courtyard was not placed in the inner courtyard, your argument would be valid. But the fact that **the *eiruv*** is deposited in the inner courtyard **accustoms** the residents of the outer courtyard to enter it.
 
 This dispute raises an immediately puzzling question. If the *eruv* is in B and the problem is in A, why can B not simply disengage from A and carry using its own *eruv*? Normally, Rabbi Akiva was the one who found more problems: B always creates difficulties for A. But Rabbi Akiva did not hold that A creates difficulties for B — the flow of influence runs in one direction only. So why does Rabbi Akiva now say that even when the *eruv* is in B and A is the problem, B cannot save itself?
@@ -156,13 +169,14 @@ The answer given by Abaye to Rabba bar Chana is: *eruv margila* — the *eruv* i
 
 ### Unified Severance Debate
 
-> **Hebrew/Aramaic:** לְרַבָּנַן נָמֵי עֵירוּב מַרְגִּילָהּ! דְּאָמְרָה: לְתַקּוֹנֵי שַׁיתַּפְתִּיךְ, וְלָא לְעַוּוֹתֵי.
->
+> **Hebrew/Aramaic:** לְרַבָּנַן נָמֵי עֵירוּב מַרְגִּילָהּ! דְּאָמְרָה: לְתַקּוֹנֵי שַׁיתַּפְתִּיךְ, וְלָא לְעַוּוֹתֵי.
 > **Translation:** The Gemara asks: If so, **according to the Rabbis as well** we should say that the placement of the ***eiruv*** in the inner courtyard **accustoms** the residents of the outer courtyard to enter it. The Gemara answers: The reasoning of the Rabbis is **that** the members of the inner courtyard can **say** to the members of the outer one: **We joined with you** in a single *eiruv* **to** our **benefit, and not to** our **detriment.** Since one of your residents forgot to contribute to the *eiruv*, we no longer acquiesce to this partnership.
 
-> **Hebrew/Aramaic:** לְרַבִּי עֲקִיבָא נָמֵי תֵּימָא: לְתַקּוֹנֵי שַׁיתַּפְתִּיךְ וְלָא לְעַוּוֹתֵי? דְּאָמְרָה לַהּ: מְבַטְּלִינַן לָךְ רְשׁוּתִי. וְרַבָּנַן, אֵין בִּיטּוּל רְשׁוּת מֵחָצֵר לְחָצֵר.
->
+> **Hebrew/Aramaic:** לְרַבִּי עֲקִיבָא נָמֵי תֵּימָא: לְתַקּוֹנֵי שַׁיתַּפְתִּיךְ וְלָא לְעַוּוֹתֵי? דְּאָמְרָה לַהּ: מְבַטְּלִינַן לָךְ רְשׁוּתִי. וְרַבָּנַן, אֵין בִּיטּוּל רְשׁוּת מֵחָצֵר לְחָצֵר.
 > **Translation:** The Gemara asks: **According to Rabbi Akiva as well, let** the residents of the inner courtyard **say** to the residents of the outer courtyard: **We joined with you to** our **benefit and not to** our **detriment.** The Gemara answers that according to Rabbi Akiva, the case is **that** the residents of the outer courtyard **said** to the residents of the inner courtyard: **We renounce our rights in your favor,** in which case the inhabitants of the inner courtyard are permitted to carry in their own courtyard. Consequently, his ruling that the inner courtyard is also prohibited applies only before the residents of the outer courtyard renounce their rights. **And the Rabbis** hold that **there is no renunciation of rights from courtyard to courtyard.**
+
+> **Hebrew/Aramaic:** לֵימָא שְׁמוּאֵל וְרַבִּי יוֹחָנָן בִּפְלוּגְתָּא דְּרַבָּנַן וְרַבִּי עֲקִיבָא קָא מִיפַּלְגִי. דִּשְׁמוּאֵל אָמַר כְּרַבָּנַן, וְרַבִּי יוֹחָנָן דְּאָמַר כְּרַבִּי עֲקִיבָא?
+> **Translation:** The Gemara asks: **Let us say** that **Shmuel and Rabbi Yoḥanan,** who disagree about whether there is renunciation of rights from one courtyard to another, **disagree about the** same point that was the subject of a **disagreement between the Rabbis and Rabbi Akiva. As Shmuel said** that there is no renunciation of rights from one courtyard to another, **in accordance with** the opinion of **the Rabbis, and Rabbi Yoḥanan said** that such renunciation is valid, **in accordance with** the opinion of **Rabbi Akiva.**
 
 The *gemara* then probes: if *eruv margila* is Rabbi Akiva's reasoning, the *chachamim* ought to face the same difficulty — they too should acknowledge that the unified *eruv* has bound the two courtyards together, and B should not be able to unilaterally set A adrift. The *chachamim*'s response is formulated as a principle: *letikuni shitaftich velo le'avuati* — I made you my partner for my benefit, not to my detriment. B can say to A: when this *eruv* is actively harming my ability to carry, I am entitled to dissolve the partnership. The *eruv* was made for mutual benefit; once it becomes a source of harm, B may step away from it.
 
@@ -171,18 +185,6 @@ The *gemara* then pushes back symmetrically: Rabbi Akiva should also be open to 
 One might ask: why not simply have the individual in A who forgot perform *bitul* to the other residents of A, thereby restoring A's *eruv* and resolving the problem entirely? This is a sharp point, and it reflects the somewhat theoretical nature of the discussion. The *gemara*'s framing presupposes that the relevant question is whether A as a whole must withdraw from B, rather than whether the single forgetful individual can resolve the matter through his own *bitul*.
 
 ### Bitul Mechatzer
-
-> **Hebrew/Aramaic:** לֵימָא שְׁמוּאֵל וְרַבִּי יוֹחָנָן בִּפְלוּגְתָּא דְּרַבָּנַן וְרַבִּי עֲקִיבָא קָא מִיפַּלְגִי. דִּשְׁמוּאֵל אָמַר כְּרַבָּנַן, וְרַבִּי יוֹחָנָן דְּאָמַר כְּרַבִּי עֲקִיבָא?
->
-> **Translation:** The Gemara asks: **Let us say** that **Shmuel and Rabbi Yoḥanan,** who disagree about whether there is renunciation of rights from one courtyard to another, **disagree about the** same point that was the subject of a **disagreement between the Rabbis and Rabbi Akiva. As Shmuel said** that there is no renunciation of rights from one courtyard to another, **in accordance with** the opinion of **the Rabbis, and Rabbi Yoḥanan said** that such renunciation is valid, **in accordance with** the opinion of **Rabbi Akiva.**
-
-> **Hebrew/Aramaic:** אָמַר לְךָ שְׁמוּאֵל: אֲנָא דַּאֲמַרִי אֲפִילּוּ לְרַבִּי עֲקִיבָא. עַד כָּאן לָא קָאָמַר רַבִּי עֲקִיבָא הָכָא, אֶלָּא בִּשְׁתֵּי חֲצֵירוֹת זוֹ לִפְנִים מִזּוֹ, דְּאָסְרָן אַהֲדָדֵי, אֲבָל הָתָם, מִי קָא אָסְרָן אַהֲדָדֵי?
->
-> **Translation:** The Gemara responds: **Shmuel** could have **said to you: What I said is even in accordance with** the opinion of **Rabbi Akiva. Rabbi Akiva stated** his opinion that there is renunciation of rights from one courtyard to another **only here, with regard to two courtyards, one within the other, which render each other prohibited. However, there,** where they disagree about two adjacent courtyards, **do** the courtyards **render each other prohibited?** Consequently, even Rabbi Akiva would agree that there is no renunciation of rights from one courtyard to another.
-
-> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן אָמַר: אֲנָא דַּאֲמַרִי אֲפִילּוּ לְרַבָּנַן. עַד כָּאן לָא קָאָמְרִי רַבָּנַן הָכָא, אֶלָּא דְּאָמְרָה לַהּ: אַדִּמְבַטְּלַתְּ לִי, קָא אָסְרַתְּ עִלַּאי. אֲבָל הָתָם, מִי קָאָסְרָה עֲלַהּ?
->
-> **Translation:** **And Rabbi Yoḥanan** could have **said: What I said is even in accordance with** the opinion of **the Rabbis. The Rabbis stated** their opinion that there is no renunciation of rights from one courtyard to another **only** in the case **here, as** the residents of the inner courtyard **said to** the residents of the outer courtyard: **Until you renounce** your rights **in our favor, you render** it **prohibited** for **us** to carry, and therefore, we will have no connection with you and forgo both the renunciation and the prohibition. **But there, does** one courtyard **prohibit** the other? Since it does not, even the Rabbis would agree that there is renunciation from one courtyard to another.
 
 The *chachamim*'s final response is: *ein bitul reshut mechatzer lechatzer* — there is no mechanism of *bitul reshut* from one *chatzer* to another. Since *bitul* between separate courtyards is halachically ineffective, it cannot be demanded as a precondition for B's severance. If the one act that would theoretically formalize A's withdrawal is legally unavailable, then B need not wait for it. B can simply close off A conceptually and carry using its own *eruv*.
 
@@ -194,15 +196,27 @@ Conversely, Rabbi Yochanan says: even I, who generally permit *bitul mechatzer l
 
 The upshot of this extended *sugya* is that the debate between Rabbi Akiva and the *chachamim* — once a unified *eruv* is made and one member of A errs, can B protect itself by cutting A off? — is not simply a restatement of their earlier disagreement about *drisat haregel*. It introduces a new dimension: the legal and conceptual effects of having voluntarily merged two courtyards into a single *eruv* unit. Rabbi Akiva says that once merged, the unit cannot be unilaterally severed; the *chachamim* say it can, because a partnership that has turned injurious may be abandoned.
 
+> **Hebrew/Aramaic:** אָמַר לְךָ שְׁמוּאֵל: אֲנָא דַּאֲמַרִי אֲפִילּוּ לְרַבִּי עֲקִיבָא. עַד כָּאן לָא קָאָמַר רַבִּי עֲקִיבָא הָכָא, אֶלָּא בִּשְׁתֵּי חֲצֵירוֹת זוֹ לִפְנִים מִזּוֹ, דְּאָסְרָן אַהֲדָדֵי, אֲבָל הָתָם, מִי קָא אָסְרָן אַהֲדָדֵי?
+> **Translation:** The Gemara responds: **Shmuel** could have **said to you: What I said is even in accordance with** the opinion of **Rabbi Akiva. Rabbi Akiva stated** his opinion that there is renunciation of rights from one courtyard to another **only here, with regard to two courtyards, one within the other, which render each other prohibited. However, there,** where they disagree about two adjacent courtyards, **do** the courtyards **render each other prohibited?** Consequently, even Rabbi Akiva would agree that there is no renunciation of rights from one courtyard to another.
+
+> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן אָמַר: אֲנָא דַּאֲמַרִי אֲפִילּוּ לְרַבָּנַן. עַד כָּאן לָא קָאָמְרִי רַבָּנַן הָכָא, אֶלָּא דְּאָמְרָה לַהּ: אַדִּמְבַטְּלַתְּ לִי, קָא אָסְרַתְּ עִלַּאי. אֲבָל הָתָם, מִי קָאָסְרָה עֲלַהּ?
+> **Translation:** **And Rabbi Yoḥanan** could have **said: What I said is even in accordance with** the opinion of **the Rabbis. The Rabbis stated** their opinion that there is no renunciation of rights from one courtyard to another **only** in the case **here, as** the residents of the inner courtyard **said to** the residents of the outer courtyard: **Until you renounce** your rights **in our favor, you render** it **prohibited** for **us** to carry, and therefore, we will have no connection with you and forgo both the renunciation and the prohibition. **But there, does** one courtyard **prohibit** the other? Since it does not, even the Rabbis would agree that there is renunciation from one courtyard to another.
+
 ---
 
 ## Edge Cases
 
+
+
+[DAF:75a]
 ### Three People Case
 
-> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף, תָּנֵי רַבִּי: הָיוּ שְׁלֹשָׁה — אֲסוּרִין. אֲמַר לְהוּ רַב בִּיבִי: לָא תְּצִיתוּ לֵיהּ, אֲנָא אַמְרִיתַהּ נִיהֲלֵהּ, וּמִשְּׁמֵיהּ דְּרַב אַדָּא בַּר אַהֲבָה אַמְרִיתַהּ נִיהֲלֵהּ, הוֹאִיל וַאֲנִי קוֹרֵא בָּהֶן רַבִּים בַּחִיצוֹנָה. אָמַר רַב יוֹסֵף: מָרֵיהּ דְּאַבְרָהָם! ״רַבִּים״ בְּ״רַבִּי״ אִיחַלַּף לִי.
->
-> **Translation:** **Rav Yosef said: Rabbi** Yehuda HaNasi **teaches** that if **there were three** people living in the two courtyards, whether two people lived in the outer courtyard and one person in the inner one, or two people lived in the inner courtyard and one person lived in the outer one, **they are prohibited** from carrying without an *eiruv*. **Rav Beivai said to** the Sages: **Do not listen to him,** as he is mistaken. **I told it to him, and I told it to him in the name of Rav Adda bar Ahava,** not Rabbi Yehuda HaNasi, but due to his illness Rav Yosef forgot this detail. And the reason that the residents of both courtyards are prohibited from carrying if two people are living in the outer courtyard is that **since I call them many in the outer** courtyard, the Sages issued a decree prohibiting carrying, due to a case in which there are two people living in the inner courtyard. When he heard this, **Rav Yosef said** in astonishment: **Master of Abraham! I mistook** the word **Rabbi for** the word **many [*rabbim*].** He now realized that he had mistakenly understood this ruling as attributed to Rabbi Yehuda HaNasi rather than a *halakha* regarding many, an error that led to his inaccurate version of the teaching.
+
+> **Hebrew/Aramaic:** וְאִם הָיוּ שֶׁל יְחִידִים וְכוּ׳. אָמַר רַב יוֹסֵף, תָּנֵי רַבִּי: הָיוּ שְׁלֹשָׁה — אֲסוּרִין.
+> **Translation:** We learned in the mishna: **And if** the courtyards belonged **to individuals,** i.e., if only one person lived in each courtyard, they are not required to establish an *eiruv*. **Rav Yosef said: Rabbi** Yehuda HaNasi **teaches** that if **there were three** people living in the two courtyards, whether two people lived in the outer courtyard and one person in the inner one, or two people lived in the inner courtyard and one person lived in the outer one, **they are prohibited** from carrying without an *eiruv*.
+
+> **Hebrew/Aramaic:** אֲמַר לְהוּ רַב בִּיבִי: לָא תְּצִיתוּ לֵיהּ, אֲנָא אַמְרִיתַהּ נִיהֲלֵהּ, וּמִשְּׁמֵיהּ דְּרַב אַדָּא בַּר אַהֲבָה אַמְרִיתַהּ נִיהֲלֵהּ, הוֹאִיל וַאֲנִי קוֹרֵא בָּהֶן רַבִּים בַּחִיצוֹנָה. אָמַר רַב יוֹסֵף: מָרֵיהּ דְּאַבְרָהָם! ״רַבִּים״ בְּ״רַבִּי״ אִיחַלַּף לִי.
+> **Translation:** **Rav Beivai said to** the Sages: **Do not listen to him,** as he is mistaken. **I told it to him, and I told it to him in the name of Rav Adda bar Ahava,** not Rabbi Yehuda HaNasi, but due to his illness Rav Yosef forgot this detail. And the reason that the residents of both courtyards are prohibited from carrying if two people are living in the outer courtyard is that **since I call them many in the outer** courtyard, the Sages issued a decree prohibiting carrying, due to a case in which there are two people living in the inner courtyard. When he heard this, **Rav Yosef said** in astonishment: **Master of Abraham! I mistook** the word **Rabbi for** the word **many [*rabbim*].** He now realized that he had mistakenly understood this ruling as attributed to Rabbi Yehuda HaNasi rather than a *halakha* regarding many, an error that led to his inaccurate version of the teaching.
 
 The *mishnah*'s final clause addresses the case of *shenei yechidim* — a single individual in each courtyard — and rules that no *eruv* is needed. Rav Yosef stated, citing Rebbi: if there were three people distributed across the two courtyards — one in one and two in the other — both would be forbidden. Rav Bibi bar Abaye immediately corrected him: do not follow Rav Yosef on this. The attribution was an error. In fact, Rav Bibi had himself transmitted this ruling to Rav Yosef, not from Rebbi, but from Rav Adda bar Abba, and the reason for the prohibition was *rabbim* — the presence of multiple people — not Rebbi's name. The confusion arose because *Rabbim* and *Rebbi* sound nearly identical, and Rav Yosef apparently heard *Rabbim* and recalled it as *Rebbi*.
 
@@ -210,17 +224,16 @@ The substance of the ruling is as follows. With two individuals, one in each cou
 
 ### Confusion Prevention
 
-> **Hebrew/Aramaic:** וּשְׁמוּאֵל אָמַר: לְעוֹלָם מוּתָּרוֹת, עַד שֶׁיְּהוּ שְׁנַיִם בַּפְּנִימִית וְאֶחָד בַּחִיצוֹנָה.
->
-> **Translation:** **And Shmuel said: Actually, they are permitted, unless there are two** people living **in the inner** courtyard **and one in the outer one.**
-
 Shmuel, as reported by Rav Elazar, declines to make this preventive prohibition. His position is *le'olam muteret ad sheyiheyu shenayim bipnimis ve'echad bachitzonah*: the single resident in B is always permitted unless specifically there are two in B and one in A. Shmuel does not extend the prohibition to the reverse configuration. The concern about confusion that motivated the stricter ruling in Rav Bibi's name does not, in Shmuel's view, justify prohibiting the case where B has only one resident and A has two.
+
+> **Hebrew/Aramaic:** וּשְׁמוּאֵל אָמַר: לְעוֹלָם מוּתָּרוֹת, עַד שֶׁיְּהוּ שְׁנַיִם בַּפְּנִימִית וְאֶחָד בַּחִיצוֹנָה.
+> **Translation:** **And Shmuel said: Actually, they are permitted, unless there are two** people living **in the inner** courtyard **and one in the outer one.**
 
 ### Nochri Case
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי אֶלְעָזָר: וְגוֹי הֲרֵי הוּא כְּרַבִּים. מַאי שְׁנָא יִשְׂרָאֵל דְּלָא אָסַר, דְּמַאן דְּיָדַע — יָדַע, וּמַאן דְּלָא יָדַע סָבַר: עָירוּבֵי עָירֵב, גּוֹי נָמֵי, אָמְרִינַן: דְּיָדַע — יָדַע, דְּלָא יָדַע סָבַר: אֲגִירֵי אוֹגַר! סְתָם גּוֹי, אִי אִיתָא דְּאוֹגַר — מִיפְעָא פָּעֵי.
->
-> **Translation:** **Rabbi Elazar said: And a gentile is** considered **like many,** i.e., if a gentile lives in the inner courtyard, the gentile's right of way in the outer courtyard renders it prohibited to carry there. The Gemara asks: **What is different** about **an** individual **Jew** living in the inner courtyard, that **he does not prohibit** the resident of the outer courtyard? **Because one who knows** that only one person lives there **knows** this fact, **and one who does not know** this **thinks** that **an *eiruv* has been established.** If so, in the case of **a gentile also, we** should **say that** one **who knows** that only one person lives there **knows,** and one **who does not know** this **thinks** that the Jew must have **rented** the domain from the gentile. The Gemara answers: This is not so, as **a typical gentile, if he** had **rented** out his domain, **he would chatter** about it, and everyone would know. If he has not talked about it, everyone will assume that he did not rent out his domain.
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אֶלְעָזָר: וְגוֹי הֲרֵי הוּא כְּרַבִּים. מַאי שְׁנָא יִשְׂרָאֵל דְּלָא אָסַר, דְּמַאן דְּיָדַע — יָדַע, וּמַאן דְּלָא יָדַע סָבַר: עָירוֹבֵי עָירֵב, גּוֹי נָמֵי, אָמְרִינַן: דְּיָדַע — יָדַע, דְּלָא יָדַע סָבַר: אֲגִירֵי אוֹגַר!
+> **Translation:** **Rabbi Elazar said: And a gentile is** considered **like many,** i.e., if a gentile lives in the inner courtyard, the gentile’s right of way in the outer courtyard renders it prohibited to carry there. The Gemara asks: **What is different** about **an** individual **Jew** living in the inner courtyard, that **he does not prohibit** the resident of the outer courtyard? **Because one who knows** that only one person lives there **knows** this fact, **and one who does not know** this **thinks** that **an *eiruv* has been established.** If so, in the case of **a gentile also, we** should **say that** one **who knows** that only one person lives there **knows,** and one **who does not know** this **thinks** that the Jew must have **rented** the domain from the gentile.
 
 Rav Elazar adds a further ruling: *nochri harei hu kerabbim* — a single non-Jew in the inner courtyard is treated as if there were multiple people there. Even though by sheer number he is one individual, his presence is categorically different from that of a single Jew. The *gemara* asks why the two cases are treated differently. When the sole resident of B is a Jew and A has made an *eruv*, anyone observing A's residents carrying will either know the precise situation — there is one Jew in B and the *halacha* permits it — or, if they do not know the details, will simply assume that A and B made one large *eruv* together. Either way, no misleading inference is drawn.
 
@@ -230,33 +243,36 @@ With a non-Jew, the same reasoning does not apply. If an observer does not know 
 
 ## Beit Sha'ar Case
 
-### Ten Houses Setup
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: עֲשָׂרָה בָּתִּים זֶה לִפְנִים מִזֶּה, פְּנִימִי נוֹתֵן אֶת עֵירוּבוֹ, וְדַיּוֹ.
->
-> **Translation:** **Rav Yehuda said** that **Shmuel said:** If there are **ten houses, one within the other,** so that the person living in the innermost house must pass through all the rest in order to reach the courtyard, **the innermost one** alone **contributes to the *eiruv*** for the courtyard, **and it is enough.** The residents of the other houses are considered as living in the gatehouse and corridor of the innermost one, and therefore they do not have to contribute to the *eiruv*.
+
+### Ten Houses Setup
 
 Rav Yehuda said in the name of Shmuel: *yud batim zo lifnim mizo* — if there are ten houses arranged in a row, each opening into the next, and only the outermost one opens into the courtyard, *pnimi noten et eruvo vedayo* — the innermost resident contributes his *eruv* and that suffices for all. The logic is that since only one house opens directly into the courtyard, only one *eruv* is formally required. The interesting question is why specifically the innermost resident is singled out as the one whose *eruv* is effective.
 
 ### Rabbi Yochanan Opinion
 
-> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ חִיצוֹן. חִיצוֹן בֵּית שַׁעַר הוּא? חִיצוֹן שֶׁל פְּנִימִי.
->
-> **Translation:** **And Rabbi Yoḥanan said: Even** the **outer one** must contribute to the *eiruv*. The Gemara asks: The **outer** residence **is a gatehouse** in relation to the inner ones, so why should it have to contribute to the *eiruv*? The Gemara answers that Rabbi Yoḥanan was referring to the **outer** house **of** the **innermost one.** In other words, even the second-to-last house, the outer one only in relation to the innermost house, must contribute to the *eiruv*, as it is not viewed as a gatehouse.
-
 Rabbi Yochanan disagrees and says: *afilu chitzon* — even the outer resident can contribute the *eruv* for all. On Rabbi Yochanan's view, it does not matter which end of the row provides the *eruv*; since they are all connected and all function as one unit with respect to the courtyard, any member may serve as the representative contributor.
 
 ### Beit Sha'ar Concept
-
-> **Hebrew/Aramaic:** בְּמַאי קָמִיפַּלְגִי? מָר סָבַר: בֵּית שַׁעַר דְּיָחִיד שְׁמֵיהּ בֵּית שַׁעַר. וּמָר סָבַר: לָא שְׁמֵיהּ בֵּית שַׁעַר.
->
-> **Translation:** The Gemara explains: **With regard to what** principle **do they disagree? One Sage,** Shmuel, **holds** that **the gatehouse of an individual is considered a gatehouse,** and therefore the ninth house, i.e., the second innermost is also a gatehouse, as it serves as a passageway for the individual living in the innermost house, **and one Sage,** Rabbi Yoḥanan, **holds** that the gatehouse of an individual **is not considered a gatehouse,** and therefore the ninth house must also contribute to the *eiruv*.
 
 The *gemara* challenges Rabbi Yochanan's position by introducing the concept of *beit sha'ar* — a gatehouse. The outer house, in this configuration, is not a proper residential house in the halachic sense; it is more like the antechamber or guardhouse through which all the others pass. Since everyone traverses it on the way in and out, it functions as a *beit sha'ar* for all the inner residents. A *beit sha'ar* is not a dwelling in the full sense, and one who resides in a *beit sha'ar* cannot contribute an *eruv* for a courtyard. On this basis, the outermost resident is categorically disqualified.
 
 Rabbi Yochanan's position is therefore refined: he did not intend the outermost house at all, but rather *chitzon shel pnimi* — the penultimate house, the one that is outer relative to the innermost but not itself at the very end of the row. That penultimate resident may also contribute the *eruv*.
 
+> **Hebrew/Aramaic:** סְתָם גּוֹי, אִי אִיתָא דְּאוֹגַר — מִיפְעָא פָּעֵי.
+> **Translation:** The Gemara answers: This is not so, as **a typical gentile, if he** had **rented** out his domain, **he would chatter** about it, and everyone would know. If he has not talked about it, everyone will assume that he did not rent out his domain.
+
 ### Gatehouse Conclusion
+
+
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: עֲשָׂרָה בָּתִּים זֶה לִפְנִים מִזֶּה, פְּנִימִי נוֹתֵן אֶת עֵירוּבוֹ, וְדַיּוֹ.
+> **Translation:** **Rav Yehuda said** that **Shmuel said:** If there are **ten houses, one within the other,** so that the person living in the innermost house must pass through all the rest in order to reach the courtyard, **the innermost one** alone **contributes to the *eiruv*** for the courtyard, **and it is enough.** The residents of the other houses are considered as living in the gatehouse and corridor of the innermost one, and therefore they do not have to contribute to the *eiruv*.
+
+> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ חִיצוֹן. חִיצוֹן בֵּית שַׁעַר הוּא? חִיצוֹן שֶׁל פְּנִימִי.
+> **Translation:** **And Rabbi Yoḥanan said: Even** the **outer one** must contribute to the *eiruv*. The Gemara asks: The **outer** residence **is a gatehouse** in relation to the inner ones, so why should it have to contribute to the *eiruv*? The Gemara answers that Rabbi Yoḥanan was referring to the **outer** house **of** the **innermost one.** In other words, even the second-to-last house, the outer one only in relation to the innermost house, must contribute to the *eiruv*, as it is not viewed as a gatehouse.
+
+> **Hebrew/Aramaic:** בְּמַאי קָמִיפַּלְגִי? מָר סָבַר: בֵּית שַׁעַר דְּיָחִיד שְׁמֵיהּ בֵּית שַׁעַר. וּמָר סָבַר: לָא שְׁמֵיהּ בֵּית שַׁעַר.
+> **Translation:** The Gemara explains: **With regard to what** principle **do they disagree? One Sage,** Shmuel, **holds** that **the gatehouse of an individual is considered a gatehouse,** and therefore the ninth house, i.e., the second innermost is also a gatehouse, as it serves as a passageway for the individual living in the innermost house, **and one Sage,** Rabbi Yoḥanan, **holds** that the gatehouse of an individual **is not considered a gatehouse,** and therefore the ninth house must also contribute to the *eiruv*.
 
 The underlying debate between these positions is formulated as: *mar savar beit sha'ar deyachid shmai beit sha'ar* — one opinion holds that a single house can have a *beit sha'ar*, meaning even a house with only one interior neighbor can render its neighbor a gatehouse; *umar savar lo shmai beit sha'ar* — the other holds that a single house cannot generate a *beit sha'ar*, and therefore only one house at the very end functions as a gatehouse for one person.
 

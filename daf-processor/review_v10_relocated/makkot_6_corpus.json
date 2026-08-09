@@ -1,0 +1,414 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Two vs. Three Witnesses",
+    "candidates": [
+      "Two vs. Three Witnesses",
+      "Equal Weight Principle",
+      "Extension to Many",
+      "Rabbi Shimon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage covers the initial question about two vs. three witnesses and the juxtaposition principle, as well as the extension to one hundred \u2014 all of which is introduced under heading 0, which describes exactly this opening mishna and its question.",
+      "chosen_heading": "Two vs. Three Witnesses",
+      "current_heading": "Two vs. Three Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rabbi Shimon View",
+    "candidates": [
+      "Equal Weight Principle",
+      "Extension to Many",
+      "Rabbi Shimon View",
+      "Rabbi Akiva View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Shimon's statement about all witnesses needing to be proven zomemim together, plus the extension to a hundred witnesses, which matches exactly the prose under 'Rabbi Shimon View' that discusses both these points together.",
+      "chosen_heading": "Rabbi Shimon View",
+      "current_heading": "Rabbi Shimon View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Rabbi Akiva View",
+    "candidates": [
+      "Rabbi Akiva View",
+      "One Disqualifies All"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the Rabbi Akiva section: item 1 is Rabbi Akiva's ruling about the third witness being punished stringently, and item 2 is the moral inference about reward for associating with mitzvah-performers \u2014 both of which are explicitly discussed in the 'Rabbi Akiva View' prose.",
+      "chosen_heading": "Rabbi Akiva View",
+      "current_heading": "Rabbi Akiva View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "One Disqualifies All",
+    "candidates": [
+      "One Disqualifies All",
+      "Capital vs. Civil",
+      "Tosafot Reasoning",
+      "Rabbi's Position",
+      "Hatra'ah Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly establishes the principle that one disqualified witness voids the entire group's testimony, extending to even a hundred witnesses, which is precisely what the 'One Disqualifies All' section's prose describes.",
+      "chosen_heading": "One Disqualifies All",
+      "current_heading": "One Disqualifies All",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Hatra'ah Requirement",
+    "candidates": [
+      "Capital vs. Civil",
+      "Tosafot Reasoning",
+      "Rabbi's Position",
+      "Hatra'ah Requirement",
+      "Rava Definition",
+      "Time Measure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi's Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the dispute between Rabbi Yosei and Rabbi on whether the invalid-witness rule applies to monetary cases as well as capital cases, which is exactly what the 'Rabbi's Position' prose discusses (Rabbi's view that both dinei mamonos and dinei nefashos are treated equally).",
+      "second_heading": "Hatra'ah Requirement",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the hatra'ah qualification \u2014 when does a disqualified witness actually void the group \u2014 which is precisely the content of the 'Hatra'ah Requirement' prose, including the two-brothers scenario and the mah ya'asu question.",
+      "current_heading": "Hatra'ah Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Time Measure",
+    "candidates": [
+      "Rava Definition",
+      "Time Measure",
+      "Tosafot Limitation",
+      "Why Different Standards",
+      "Murderer Disqualifies?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange about toch kedei dibbur \u2014 Rav Acha's question about the measure and Ravina's answer about each witness beginning within toch kedei dibbur of the previous \u2014 which is precisely what the 'Time Measure' prose describes.",
+      "chosen_heading": "Time Measure",
+      "current_heading": "Time Measure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Murderer Disqualifies?",
+    "candidates": [
+      "Tosafot Limitation",
+      "Why Different Standards",
+      "Murderer Disqualifies?",
+      "Rava Solution",
+      "Who Counts as Witness"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Murderer Disqualifies?",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rav Pappa's challenges to Abaye about the victim (harog yatzil, nirva yatzil) and Abaye's responses, which is exactly what candidate 2 ('Murderer Disqualifies?') describes.",
+      "second_heading": "Rava Solution",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Rava's resolution (yakum davar bemekayemei davar), which is precisely what candidate 3 ('Rava Solution') is about.",
+      "current_heading": "Murderer Disqualifies?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Who Counts as Witness",
+    "candidates": [
+      "Rava Solution",
+      "Who Counts as Witness",
+      "Rava's Inquiry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the Gemara's question 'heichi amrinan lehu' (how do we say to the witnesses) in the context of Rabbi Yosi's problem with brothers among witnesses, which precisely matches the prose of 'Rava's Inquiry' describing 'heichi amrinan lehu \u2014 lemechzei asitu o la'asudei asitu.'",
+      "chosen_heading": "Rava's Inquiry",
+      "current_heading": "Who Counts as Witness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rava's Inquiry",
+    "candidates": [
+      "Who Counts as Witness",
+      "Rava's Inquiry",
+      "If Testifying Intent",
+      "If Spectating Intent",
+      "Two Brothers Problem",
+      "Tosafot Civil Cases",
+      "Rav Yehuda Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's exact statement posing the question to witnesses about their intent, which directly matches the 'Rava's Inquiry' section's prose describing heichi amrinan lehu and the lemechzei/la'asudei distinction.",
+      "chosen_heading": "Rava's Inquiry",
+      "current_heading": "Rava's Inquiry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rav Yehuda Ruling",
+    "candidates": [
+      "If Testifying Intent",
+      "If Spectating Intent",
+      "Two Brothers Problem",
+      "Tosafot Civil Cases",
+      "Rav Yehuda Ruling",
+      "Rav Nachman Ruling",
+      "Wedding Problem",
+      "Wedding Solutions",
+      "Setup of Mishna",
+      "Visibility Requirement",
+      "Unified Testimony",
+      "Separate Testimony",
+      "Paradoxical Outcome",
+      "Person in Middle",
+      "Both Must Warn",
+      "Pasuk Source",
+      "Tosafot Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage states the amoraic dispute between Rav Yehuda/Shmuel (halakha follows Rabbi Yosi) and Rav Nachman (halakha follows Rabbi), which is exactly what the 'Rav Yehuda Ruling' section's prose describes, covering both rulings together as a pair introduced by 'itmar'.",
+      "chosen_heading": "Rav Yehuda Ruling",
+      "current_heading": "Rav Yehuda Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Tosafot Analysis",
+    "candidates": [
+      "Rav Nachman Ruling",
+      "Wedding Problem",
+      "Wedding Solutions",
+      "Setup of Mishna",
+      "Visibility Requirement",
+      "Unified Testimony",
+      "Separate Testimony",
+      "Paradoxical Outcome",
+      "Person in Middle",
+      "Both Must Warn",
+      "Pasuk Source",
+      "Tosafot Analysis",
+      "Visibility Combines",
+      "Tosafot Application",
+      "Warning Sources",
+      "Rashi Explanation",
+      "Civil Combination"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "Heading 11's prose explicitly covers all six items in sequence: the mishna about two windows (items 1-2), Rabbi Yosi's ruling, the eidus meyuchedes drasha from Rav Zutra bar Tuvya (item 3), the baraita (item 4), Rav Pappa/Abaye exchange (item 5), and Rava's combining principle via the matreh (item 6).",
+      "chosen_heading": "Tosafot Analysis",
+      "current_heading": "Tosafot Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Civil Combination",
+    "candidates": [
+      "Visibility Combines",
+      "Tosafot Application",
+      "Warning Sources",
+      "Rashi Explanation",
+      "Civil Combination",
+      "Challenge to System"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man's ruling that disjointed testimony (eidus miyuchedes) is valid in monetary law but not capital law, which exactly matches the 'Civil Combination' prose describing this same ruling and its reasoning.",
+      "chosen_heading": "Civil Combination",
+      "current_heading": "Civil Combination",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Challenge to System",
+    "candidates": [
+      "Challenge to System",
+      "System Integrity",
+      "Distinctions Explained",
+      "Questioning Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Zutra's objection about combining disjointed testimony in capital cases and the mishna's ruling that both the accused and the conspiring witnesses are executed, which matches exactly the 'Challenge to System' prose describing Rav Zutra's challenge and the kashya conclusion.",
+      "chosen_heading": "Challenge to System",
+      "current_heading": "Challenge to System",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Questioning Requirement",
+    "candidates": [
+      "System Integrity",
+      "Distinctions Explained",
+      "Questioning Requirement",
+      "Clarification",
+      "Scholar Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Pappa's challenge to Rabbi Yosi's requirement that witnesses give the hatra'ah, citing the case of the soneh \u2014 exactly what the 'Questioning Requirement' prose describes.",
+      "chosen_heading": "Questioning Requirement",
+      "current_heading": "Questioning Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Scholar Exception",
+    "candidates": [
+      "Clarification",
+      "Scholar Exception",
+      "Authority Requirement",
+      "Pasuk Requirement",
+      "Rava Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's clarification that the Rabbi Yosi who waives hatra'ah is Rabbi Yosi bar Yehuda, not Rabbi Yosi of the mishna \u2014 this is precisely the resolution described in candidate 0's prose, not the elaboration of Rabbi Yosi bar Yehuda's position in candidate 1.",
+      "chosen_heading": "Clarification",
+      "current_heading": "Scholar Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Rava Case",
+    "candidates": [
+      "Authority Requirement",
+      "Pasuk Requirement",
+      "Rava Case",
+      "Hearing vs. Speaking",
+      "Facts of Case",
+      "Initial Analysis",
+      "Rav Huna Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly narrates the Rava case with the interpreter, which is exactly what candidate 2's prose describes.",
+      "chosen_heading": "Rava Case",
+      "current_heading": "Rava Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151
+    ],
+    "current_heading": "Rav Huna Objection",
+    "candidates": [
+      "Hearing vs. Speaking",
+      "Facts of Case",
+      "Initial Analysis",
+      "Rav Huna Objection",
+      "Ruling Applied"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the entire case including both Rav Pappa's reasoning and Rav Huna's objection, and the 'Facts of Case' heading (index 1) is the first section that introduces this case, making it the natural home for the complete Talmudic excerpt rather than splitting it across multiple headings.",
+      "chosen_heading": "Facts of Case",
+      "current_heading": "Rav Huna Objection",
+      "moved": true
+    }
+  }
+]

@@ -14,7 +14,7 @@
       "action": "single",
       "best_index": 2,
       "confidence": "high",
-      "reason": "The passage describes exactly the practical case before Rav Huna where a kinyan was performed and the donor sought to retract, which the Rav Huna Case prose directly describes as a practical illustration of the preceding analysis.",
+      "reason": "The passage describes exactly the practical case of Rav Huna ruling that the donor cannot retract because he performed the kinyan in the exceptionally strong manner, which is precisely what the 'Rav Huna Case' prose describes.",
       "chosen_heading": "Rav Huna Case",
       "current_heading": "Rav Huna Case",
       "moved": false
@@ -27,14 +27,13 @@
     "current_heading": "Rav vs. Shmuel",
     "candidates": [
       "Rav vs. Shmuel",
-      "Rav Position",
-      "Shmuel Position"
+      "Rav Position"
     ],
     "result": {
       "action": "single",
       "best_index": 0,
       "confidence": "high",
-      "reason": "The passage introduces the case of a gift document written 'in life and in death' and presents the basic dispute between Rav and Shmuel, which matches heading 0's prose that introduces this new case and frames the central question before the individual positions are elaborated in headings 1 and 2.",
+      "reason": "The passage introduces the dispute between Rav and Shmuel over a gift document written 'in life and in death,' which matches the introductory framing prose of heading 0 that presents this exact new case before breaking down each position individually.",
       "chosen_heading": "Rav vs. Shmuel",
       "current_heading": "Rav vs. Shmuel",
       "moved": false
@@ -42,15 +41,49 @@
   },
   {
     "quote_indices": [
-      16,
-      17,
-      18,
-      19
+      14
+    ],
+    "current_heading": "Rav Position",
+    "candidates": [
+      "Rav Position",
+      "Shmuel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly presents Rav's position that the gift is like a matnas shchiv mera because 'be-mavet' indicates post-death intent and 'be-hayim' is merely an auspicious omen, which perfectly matches the 'Rav Position' prose.",
+      "chosen_heading": "Rav Position",
+      "current_heading": "Rav Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
     ],
     "current_heading": "Shmuel Position",
     "candidates": [
-      "Rav Position",
       "Shmuel Position",
+      "Rava Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's position and the Neharde'a ruling in favor of Rav, matching the 'Shmuel Position' prose which explains Shmuel's reasoning about be-hayim and u-ve-mavet.",
+      "chosen_heading": "Shmuel Position",
+      "current_heading": "Shmuel Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Rava Limitation",
+    "candidates": [
       "Rava Limitation",
       "Ruling & Clarification",
       "Case Presented",
@@ -58,24 +91,23 @@
     ],
     "result": {
       "action": "split",
-      "split_after": 2,
-      "first_heading": "Rav Position",
+      "split_after": 1,
+      "first_heading": "Rava Limitation",
       "first_confidence": "high",
-      "first_reason": "Items 1-2 present Rav's and Shmuel's positions on the bechayim u-ve-mavet document, matching the 'Rav Position' heading (which also summarizes Shmuel's view in its prose as part of the same dispute), while the current 'Shmuel Position' heading's prose explicitly covers both Rav and Shmuel's reasoning and the Nehardaei ruling, making heading 0 the better match for items 1-2 taken together.",
-      "second_heading": "Rava Limitation",
+      "first_reason": "Item 1 is Rava's ruling about 'me-hayim' which belongs under 'Rava Limitation' where the prose explicitly discusses Rava's qualification about me-hayim.",
+      "second_heading": "Ruling & Clarification",
       "second_confidence": "high",
-      "second_reason": "Items 3-4 present Rava's qualification and Ameimar/Rav Ashi's clarification that the halakha does not follow Rava, which precisely matches the 'Rava Limitation' and 'Ruling & Clarification' headings \u2014 but since both items belong together as a continuous dispute about Rava's position, they fit under heading 2 ('Rava Limitation') which flows naturally into heading 3.",
-      "current_heading": "Shmuel Position",
+      "second_reason": "Item 2 is Ameimar's rejection of Rava and Rav Ashi's clarification about the Nehardaei ruling, which matches perfectly with the 'Ruling & Clarification' prose discussing exactly this exchange.",
+      "current_heading": "Rava Limitation",
       "moved": true
     }
   },
   {
     "quote_indices": [
-      30
+      29
     ],
     "current_heading": "Rav Nachman's Respect",
     "candidates": [
-      "Rava Limitation",
       "Ruling & Clarification",
       "Case Presented",
       "Rav Nachman's Respect",
@@ -83,9 +115,9 @@
     ],
     "result": {
       "action": "single",
-      "best_index": 3,
+      "best_index": 2,
       "confidence": "high",
-      "reason": "The passage directly describes Rav Nachman sending the case to Rabbi Yirmiyah bar Abba and explaining that Nehardea is Shmuel's city, which is precisely what the 'Rav Nachman's Respect' section prose discusses.",
+      "reason": "The passage describes exactly what the prose of 'Rav Nachman's Respect' discusses: Rav Nachman sending the case to Rabbi Yirmiyah bar Abba in Shum Tamaya and explaining that Nehardea is Shmuel's city, so he cannot rule like Rav there.",
       "chosen_heading": "Rav Nachman's Respect",
       "current_heading": "Rav Nachman's Respect",
       "moved": false
@@ -93,7 +125,7 @@
   },
   {
     "quote_indices": [
-      34
+      33
     ],
     "current_heading": "Rava Rules",
     "candidates": [
@@ -104,7 +136,7 @@
       "action": "single",
       "best_index": 0,
       "confidence": "high",
-      "reason": "The passage describes Rava ruling in accordance with his own position and the woman troubling him, which matches the 'Rava Rules' prose exactly \u2014 the 'Deception Attempt' section covers what happens next (Rav Pappa the scribe), which is not yet mentioned in this passage.",
+      "reason": "The passage describes Rava ruling in accordance with his stated position and the woman beginning to trouble him, which matches the 'Rava Rules' prose exactly, before the deception attempt that follows.",
       "chosen_heading": "Rava Rules",
       "current_heading": "Rava Rules",
       "moved": false
@@ -112,7 +144,7 @@
   },
   {
     "quote_indices": [
-      37
+      36
     ],
     "current_heading": "Deception Attempt",
     "candidates": [
@@ -125,7 +157,7 @@
       "action": "single",
       "best_index": 0,
       "confidence": "high",
-      "reason": "The passage describes Rava instructing his scribe to write the document with the embedded Bava Metzia phrase as a ruse, which is precisely the 'Deception Attempt' section's content, not the 'Curse & Punishment' section which covers her reaction and Rava's response to the curse.",
+      "reason": "The passage describes Rava instructing his scribe to write a document with the embedded mishna phrase as a ruse, which is precisely the deception attempt described in candidate 0's prose, and the curse/punishment portion flows naturally as the continuation in candidate 1.",
       "chosen_heading": "Deception Attempt",
       "current_heading": "Deception Attempt",
       "moved": false
@@ -133,7 +165,7 @@
   },
   {
     "quote_indices": [
-      45
+      44
     ],
     "current_heading": "The Dispute",
     "candidates": [
@@ -148,7 +180,7 @@
       "action": "single",
       "best_index": 1,
       "confidence": "high",
-      "reason": "The mishna text itself \u2014 presenting the full case of a deed that did not state shchiv mera status and the dispute between the donor and recipients \u2014 is the content being introduced and set up by the 'Mishna Setup' prose, which explicitly describes this very scenario.",
+      "reason": "The mishna text presents the full case setup \u2014 the missing shchiv mera notation in the deed, the dispute over status, and both Rabbi Meir's and the Rabbis' positions \u2014 which corresponds exactly to the 'Mishna Setup' section whose prose describes the mishna as addressing who bears the burden of proof when the shtar lacks explicit shchiv mera language.",
       "chosen_heading": "Mishna Setup",
       "current_heading": "The Dispute",
       "moved": true
@@ -156,7 +188,7 @@
   },
   {
     "quote_indices": [
-      53
+      52
     ],
     "current_heading": "Rabba's View",
     "candidates": [
@@ -169,7 +201,7 @@
       "action": "single",
       "best_index": 2,
       "confidence": "high",
-      "reason": "The passage describes exactly the case discussed in Rabba's View prose \u2014 a gift document that includes the illness formula but omits the notation of death from that illness, which is precisely the scenario Rabba's ruling addresses.",
+      "reason": "The passage describes exactly the case discussed in Rabba's View prose: a deed with the illness formula present but missing the notation of death from that illness, which is the precise scenario Rabba addresses with his ruling about the grave testifying.",
       "chosen_heading": "Rabba's View",
       "current_heading": "Rabba's View",
       "moved": false
@@ -177,7 +209,7 @@
   },
   {
     "quote_indices": [
-      56
+      55
     ],
     "current_heading": "Rabba Position",
     "candidates": [
@@ -189,17 +221,17 @@
     ],
     "result": {
       "action": "single",
-      "best_index": 1,
+      "best_index": 0,
       "confidence": "high",
-      "reason": "The passage contains both Rabba's statement ('he is dead and his grave proves it') and Abaye's challenge about the ship/sick people analogy, which matches the prose under 'Abaye Challenge' that describes exactly this exchange \u2014 Rabba's pointed reply about the grave and the ship comparison \u2014 rather than 'Rabba Position' whose prose actually describes Abaye's argument.",
-      "chosen_heading": "Abaye Challenge",
+      "reason": "The passage contains both Rabba's statement (that the grave proves he died) and Abaye's challenge using the ship/sick-people reasoning, which is precisely what the 'Rabba Position' prose describes \u2014 Abaye invoking the ship principle and the rov cholim le-chayim argument against Rabba.",
+      "chosen_heading": "Rabba Position",
       "current_heading": "Rabba Position",
-      "moved": true
+      "moved": false
     }
   },
   {
     "quote_indices": [
-      66
+      65
     ],
     "current_heading": "Rabbi Yaakov",
     "candidates": [
@@ -213,7 +245,7 @@
       "action": "single",
       "best_index": 2,
       "confidence": "high",
-      "reason": "The passage is Rav Huna son of Rav Yehoshua's statement linking Rabba's ruling to Rabbi Natan and citing the baraita \u2014 exactly what the 'Rav Huna Link' prose section describes as its content.",
+      "reason": "The passage is the Rav Huna son of Rav Yehoshua statement asking whose opinion Rabba's ruling aligns with and citing the baraita \u2014 this is precisely what the 'Rav Huna Link' section describes, not 'Rabbi Yaakov' where it currently sits.",
       "chosen_heading": "Rav Huna Link",
       "current_heading": "Rabbi Yaakov",
       "moved": true
@@ -221,7 +253,7 @@
   },
   {
     "quote_indices": [
-      69
+      68
     ],
     "current_heading": "Rabbi Natan",
     "candidates": [
@@ -232,7 +264,7 @@
       "action": "single",
       "best_index": 0,
       "confidence": "high",
-      "reason": "The passage is Rabbi Natan's statement about burden of proof based on current health status, which is precisely what the 'Rabbi Natan' section's prose discusses.",
+      "reason": "The passage is Rabbi Natan's statement about burden of proof based on current health status, which is precisely what the 'Rabbi Natan' section's prose discusses in detail.",
       "chosen_heading": "Rabbi Natan",
       "current_heading": "Rabbi Natan",
       "moved": false
@@ -240,10 +272,10 @@
   },
   {
     "quote_indices": [
+      73,
       74,
       75,
-      76,
-      77
+      76
     ],
     "current_heading": "Field Status",
     "candidates": [
@@ -258,20 +290,20 @@
       "split_after": 3,
       "first_heading": "Field Status",
       "first_confidence": "high",
-      "first_reason": "Items 1-3 form a continuous discussion about field status and ritual impurity (Rabbi Elazar's ruling and Rava's qualification), perfectly matching the 'Field Status' and 'Rava on Seasons' prose.",
+      "first_reason": "Items 1-3 discuss Rabbi Elazar's parallel from tuma law and Rava's qualification about rainy seasons, matching precisely the 'Field Status' and 'Rava on Seasons' prose \u2014 all one continuous topic about reshut ha-yachid/reshut ha-rabim and safek tuma.",
       "second_heading": "Rav Huna",
       "second_confidence": "high",
-      "second_reason": "Item 4 introduces the Rabbis' ruling about burden of proof from the mishna, which opens the entirely new topic discussed under 'Rav Huna' about what proof the recipients must bring.",
+      "second_reason": "Item 4 introduces the Rabbis' ruling about burden of proof (raaya) from the mishna, which is the structural opening of an entirely new topic about the chachamim's position and what proof the recipients must bring, matching the 'Rav Huna' section's prose about raaya be-edim.",
       "current_heading": "Field Status",
       "moved": true
     }
   },
   {
     "quote_indices": [
+      88,
       89,
       90,
-      91,
-      92
+      91
     ],
     "current_heading": "Peh She'asar",
     "candidates": [
@@ -288,10 +320,10 @@
       "split_after": 1,
       "first_heading": "Rav Huna",
       "first_confidence": "high",
-      "first_reason": "Items 1-2 introduce the dispute between Rav Huna (proof by witnesses) and Rav Chisda/Rabba bar Rav Huna (proof by ratification), with item 1 posing the question and item 2 explaining Rav Huna's position \u2014 matching the 'Rav Huna' prose which discusses exactly this initial question and Rav Huna's answer.",
+      "first_reason": "Items 1-2 introduce the core dispute between Rav Huna (proof by witnesses) and Rav Chisda/Rabba bar Rav Huna (proof by ratification), with item 2 explaining Rav Huna's position via Rabbi Yaakov/Natan \u2014 matching the 'Rav Huna' section's prose about Rav Huna's requirement for independent witnesses.",
       "second_heading": "Rav Chisda",
       "second_confidence": "high",
-      "second_reason": "Items 3-4 elaborate Rav Chisda and Rabba bar Rav Huna's position (ratification of deed, modeh be-shtar) and the mnemonic connecting tannaitic opinions \u2014 matching the 'Rav Chisda' prose which discusses their view and the deeper question about what burden a shtar carries.",
+      "second_reason": "Items 3-4 elaborate Rav Chisda and Rabba bar Rav Huna's position through the mnemonic and the modeh be-shtar dispute, matching the 'Rav Chisda' section's prose about authentication of the shtar and the underlying dispute about kiyum ha-shtar.",
       "current_heading": "Peh She'asar",
       "moved": true
     }

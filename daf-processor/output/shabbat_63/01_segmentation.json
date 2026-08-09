@@ -63,7 +63,7 @@
           "timestamp": "25:35"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -102,7 +102,7 @@
           "timestamp": "45:01"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -131,8 +131,8 @@
           "timestamp": "52:55"
         }
       ],
-      "sefaria_index": 16,
-      "matched": false
+      "sefaria_index": 32,
+      "matched": true
     },
     {
       "title": "Purity Laws for Woven and Ornamental Objects",
@@ -155,8 +155,8 @@
           "timestamp": "55:34"
         }
       ],
-      "sefaria_index": 16,
-      "matched": false
+      "sefaria_index": 41,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -309,5 +309,10 @@
       "timestamps": []
     }
   ],
-  "amud_b_sefaria_index": 28
+  "amud_b_sefaria_index": 28,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "42:04",
+  "amud_b_micro_title": "Bad Dog Story",
+  "shiur_start_daf": 63,
+  "shiur_start_amud": "a"
 }

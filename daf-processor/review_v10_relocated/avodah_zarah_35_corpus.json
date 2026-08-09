@@ -1,0 +1,517 @@
+[
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Stoned Ox vs Idol",
+    "candidates": [
+      "Context & Framework",
+      "R. Yishmael vs R. Yehosh.",
+      "Olah vs Neveilah",
+      "Idol Worship Reason",
+      "Closure & Diversion",
+      "Stoned Ox vs Idol",
+      "Logical Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav A\u1e25adevoi's ruling distinguishing the excrement of a stoned ox (betrothal valid) from that of idol-worship calves (betrothal invalid), which is precisely what the 'Stoned Ox vs Idol' section's prose describes.",
+      "chosen_heading": "Stoned Ox vs Idol",
+      "current_heading": "Stoned Ox vs Idol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Logical Reasoning",
+    "candidates": [
+      "Logical Reasoning",
+      "Textual Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly presents logical reasoning (sevara) about why girth/excrement is beneficial for idol worship animals but not for the ox to be stoned, which precisely matches the 'Logical Reasoning' section's prose discussion of nichelei benafchei.",
+      "chosen_heading": "Logical Reasoning",
+      "current_heading": "Logical Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Textual Reasoning",
+    "candidates": [
+      "Textual Reasoning",
+      "Rava's Integration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the verse-based derivation (kra) method using the idol worship verse and the shor haniskal verse to determine that excrement is permitted, which is precisely what the 'Textual Reasoning' section's prose describes.",
+      "chosen_heading": "Textual Reasoning",
+      "current_heading": "Textual Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Rava's Integration",
+    "candidates": [
+      "Rava's Integration",
+      "Cheese Form Issue",
+      "Oil Verse Chosen"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rava's Integration",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rava's two derivations from the mishna (peresh of isurei hana'ah permitted, peresh of idol-worship animals forbidden), and item 4 opens the new question of why Rabbi Yehoshua didn't use the 'leita l'issura be'einei' argument \u2014 all of which matches heading 0's prose exactly.",
+      "second_heading": "Cheese Form Issue",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 form the question-and-answer about why the 'no substantive prohibited entity' defense fails for cheese (because the rennet gives it form), which corresponds precisely to heading 1's 'Cheese Form Issue' prose about keivan de'okmei ka mokim.",
+      "current_heading": "Rava's Integration",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Oil Verse Chosen",
+    "candidates": [
+      "Cheese Form Issue",
+      "Oil Verse Chosen",
+      "Sages Over Torah",
+      "Kiss Verse Citation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly corresponds to the 'Oil Verse Chosen' section, which explicitly describes Rav Dimi's teaching that Knesset Yisrael said the words of the beloved ones (sages) are more beloved than the wine of Torah \u2014 matching the Gemara text exactly.",
+      "chosen_heading": "Oil Verse Chosen",
+      "current_heading": "Oil Verse Chosen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Kiss Verse Citation",
+    "candidates": [
+      "Sages Over Torah",
+      "Kiss Verse Citation",
+      "New Decree Rule",
+      "Snake Venom Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains why Rabbi Yehoshua chose this specific verse \u2014 because of its opening 'let him kiss me' \u2014 and the message to Yishmael to clamp his lips, which is precisely what the 'Kiss Verse Citation' prose discusses.",
+      "chosen_heading": "Kiss Verse Citation",
+      "current_heading": "Kiss Verse Citation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Snake Venom Reason",
+    "candidates": [
+      "New Decree Rule",
+      "Snake Venom Reason",
+      "Secrecy Period"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the 'new decree' explanation (Ulla/Rav Shmuel bar Abba) and the snake venom reason (Rabbi Shimon ben Pazi/Rabbi Yehoshua ben Levi) as a unified Talmudic exchange, and the 'New Decree Rule' heading's prose explicitly discusses both elements together, making it the better single home for the complete passage.",
+      "chosen_heading": "New Decree Rule",
+      "current_heading": "Snake Venom Reason",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Secrecy Period",
+    "candidates": [
+      "Snake Venom Reason",
+      "Secrecy Period",
+      "Aged Cheese Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Ulla's teaching about withholding decree reasons for twelve months, which is precisely what the 'Secrecy Period' section's prose discusses.",
+      "chosen_heading": "Secrecy Period",
+      "current_heading": "Secrecy Period",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Aged Cheese Test",
+    "candidates": [
+      "Aged Cheese Test",
+      "Milk Residue Theory",
+      "Stomach Lining"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yirmiya's mockery of the snake venom theory using the dried/aged cheese argument, which is precisely what the 'Aged Cheese Test' prose describes.",
+      "chosen_heading": "Aged Cheese Test",
+      "current_heading": "Aged Cheese Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Stomach Lining",
+    "candidates": [
+      "Milk Residue Theory",
+      "Stomach Lining",
+      "Shmuel Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion of Shmuel's position about the stomach lining, the implied permissibility of rennet itself, the challenge from the mishna in \u1e24ullin, and Shmuel's resolution \u2014 exactly matching the 'Stomach Lining' section's prose description.",
+      "chosen_heading": "Stomach Lining",
+      "current_heading": "Stomach Lining",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Shmuel Resolution",
+    "candidates": [
+      "Shmuel Resolution",
+      "Pig Fat Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the Gemara's resolution of the contradiction between Shmuel's two positions \u2014 exactly what the 'Shmuel Resolution' prose describes, including the 'kan kodem chazra / kan le'achar chazra' formula and 'umishnah lo zazah mimkomah'.",
+      "chosen_heading": "Shmuel Resolution",
+      "current_heading": "Shmuel Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Pig Fat Reason",
+    "candidates": [
+      "Pig Fat Reason",
+      "Vinegar Reason",
+      "Orla Sap Reason",
+      "Orla Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three reasons (pig fat, vinegar, and orla sap) and belongs under the 'Pig Fat Reason' heading where it currently sits, as that section's prose explicitly introduces the accumulation of additional reasons from various amoraim.",
+      "chosen_heading": "Pig Fat Reason",
+      "current_heading": "Pig Fat Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Orla Dispute",
+    "candidates": [
+      "Vinegar Reason",
+      "Orla Sap Reason",
+      "Orla Dispute",
+      "Tension Unresolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the dispute between Rabbi Eliezer and Rabbi Yehoshua regarding orla sap used to curdle cheese, which is exactly what the 'Orla Dispute' prose describes in detail.",
+      "chosen_heading": "Orla Dispute",
+      "current_heading": "Orla Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Tension Unresolved",
+    "candidates": [
+      "Tension Unresolved",
+      "Balsam Oil Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the unresolved difficulty (kashya) regarding Rav \u1e24isda and Rav Na\u1e25man bar Yitz\u1e25ak's reasons implying issur hana'ah, which is precisely what the 'Tension Unresolved' prose section describes.",
+      "chosen_heading": "Tension Unresolved",
+      "current_heading": "Tension Unresolved",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Balsam Oil Parable",
+    "candidates": [
+      "Balsam Oil Parable",
+      "Revealed Secrets",
+      "Alamot Wordplay",
+      "Two Worlds Inherit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the Balsam Oil Parable prose, which describes the same flask/pelaitin metaphor comparing a Torah scholar to a covered/uncovered vessel whose fragrance spreads or doesn't.",
+      "chosen_heading": "Balsam Oil Parable",
+      "current_heading": "Balsam Oil Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Two Worlds Inherit",
+    "candidates": [
+      "Revealed Secrets",
+      "Alamot Wordplay",
+      "Two Worlds Inherit",
+      "Forbidden to Eat",
+      "Non-Jewish Milk",
+      "Bread & Oil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three wordplays on 'alamot' (alumot/hidden things, al-mavet/Angel of Death, and olamot/worlds), and candidate 1's prose ('Alamot Wordplay') introduces this entire wordplay sequence, while candidate 2 ('Two Worlds Inherit') only describes the latter portions \u2014 the passage as a whole belongs under the heading that introduces the alamot wordplay series.",
+      "chosen_heading": "Alamot Wordplay",
+      "current_heading": "Two Worlds Inherit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Bread & Oil",
+    "candidates": [
+      "Forbidden to Eat",
+      "Non-Jewish Milk",
+      "Bread & Oil",
+      "Brined Foods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishnah passage introduces the entire category of 'forbidden but benefit-permitted' items, which directly matches the prose of heading 0 ('Forbidden to Eat'), which explicitly paraphrases this same opening enumeration of the mishnah.",
+      "chosen_heading": "Forbidden to Eat",
+      "current_heading": "Bread & Oil",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Brined Foods",
+    "candidates": [
+      "Bread & Oil",
+      "Brined Foods",
+      "Switching Worry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists exactly the forbidden foods discussed in the 'Brined Foods' section prose, including shlakot, kvashim, tarit trufah, fish brine, chilek, chiltit, and salkondit salt.",
+      "chosen_heading": "Brined Foods",
+      "current_heading": "Brined Foods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Switching Worry",
+    "candidates": [
+      "Switching Worry",
+      "Cheese Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the switching concern and the curdling test in a single Gemara unit, but heading 0 ('Switching Worry') is where it currently sits and its prose introduces the full Gemara discussion including both concerns, making it the better single home for the complete passage rather than splitting it under 'Cheese Test'.",
+      "chosen_heading": "Switching Worry",
+      "current_heading": "Switching Worry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Cheese Test",
+    "candidates": [
+      "Cheese Test",
+      "Cheese Test Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage addresses the case where one wants to use milk for kamkha (not cheese), which is precisely what the 'Cheese Test Fails' section discusses \u2014 the limitation of the cheese test when milk is intended for a dish other than cheese.",
+      "chosen_heading": "Cheese Test Fails",
+      "current_heading": "Cheese Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Cheese Test Fails",
+    "candidates": [
+      "Cheese Test",
+      "Cheese Test Fails",
+      "Admiration Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the failure of the cheese/curdling test \u2014 item 1 explains why taking a sample to curdle is unreliable (whey doesn't coagulate even in kosher milk), and item 2 offers an alternative answer about milk remaining in cheese crevices \u2014 exactly matching the 'Cheese Test Fails' prose which explicitly describes both the nisyuvei/whey objection and the ika d'ka bini atifei alternative.",
+      "chosen_heading": "Cheese Test Fails",
+      "current_heading": "Cheese Test Fails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Admiration Question",
+    "candidates": [
+      "Admiration Question",
+      "Intermarriage Fear",
+      "Jewish Baker Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete unit about Rabbi Yehuda HaNasi's admiration question in the field, the intermarriage rejoinder, and the clarification that he never actually permitted gentile bread \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Admiration Question",
+      "current_heading": "Admiration Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Jewish Baker Query",
+    "candidates": [
+      "Intermarriage Fear",
+      "Jewish Baker Query",
+      "No Jewish Option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yosef's alternate version of the incident where Rabbi asked about a baker and people mistakenly thought he meant a non-Jewish baker, which is precisely what the 'Jewish Baker Query' prose section describes.",
+      "chosen_heading": "Jewish Baker Query",
+      "current_heading": "Jewish Baker Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "No Jewish Option",
+    "candidates": [
+      "No Jewish Option",
+      "City vs Country",
+      "Avu Example"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Avu Example",
+    "candidates": [
+      "City vs Country",
+      "Avu Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the Aivu anecdote and Rava's declaration, which exactly matches the 'Avu Example' section's prose discussing this specific incident.",
+      "chosen_heading": "Avu Example",
+      "current_heading": "Avu Example",
+      "moved": false
+    }
+  }
+]

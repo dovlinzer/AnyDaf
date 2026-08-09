@@ -1,0 +1,378 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Reish Lakish Ruling",
+    "candidates": [
+      "Reish Lakish Ruling",
+      "R. Yochanan Objects",
+      "Pagah Debate",
+      "Shiyur B'Chite"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Yochanan Objects",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Reish Lakish's ruling, R. Yochanan's objection, and Rav Pappi/Rava's ruling about encountering the arytenoid cartilage \u2014 exactly the content described in the 'R. Yochanan Objects' prose.",
+      "second_heading": "Pagah Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the dilemma about the precise meaning of \u05e4\u05d2\u05e2 (encountered and touched vs. encountered without touching), which is exactly what the 'Pagah Debate' prose describes.",
+      "current_heading": "Reish Lakish Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Shiyur B'Chite",
+    "candidates": [
+      "R. Yochanan Objects",
+      "Pagah Debate",
+      "Shiyur B'Chite",
+      "Hilchata Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the multiple-chain tradition of 'shiyar b'chitei keshera' and Mar bar Rav Ashi's contrasting formulation, which is precisely what the 'Shiyur B'Chite' section's prose describes.",
+      "chosen_heading": "Shiyur B'Chite",
+      "current_heading": "Shiyur B'Chite",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Hilchata Ruling",
+    "candidates": [
+      "Hilchata Ruling",
+      "RN Allows Cap",
+      "Fitting Opinions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the final halakhic ruling (\u05d5\u05d4\u05dc\u05db\u05ea\u05d0) that shechita is valid from the incline of the thyroid cartilage downward, which directly matches the 'Hilchata Ruling' section's prose discussing exactly this ruling and its connection to \u05e9\u05d9\u05d5\u05e8 \u05d1\u05d7\u05d9\u05d8\u05d9.",
+      "chosen_heading": "Hilchata Ruling",
+      "current_heading": "Hilchata Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Fitting Opinions",
+    "candidates": [
+      "RN Allows Cap",
+      "Fitting Opinions",
+      "Tradition Defense",
+      "Fitting Amoraim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the continuous exchange of Rav Nachman's ruling, the challenge to it, and his tradition-based defense \u2014 which candidate 0 ('RN Allows Cap') introduces as Rav Nachman's permitting shechita from the incline of the cap downward, and candidates 1 and 2 split what is really one unbroken dialogue; the current placement at 'Fitting Opinions' is mid-stream, but the whole passage most naturally opens under candidate 0 which sets up Rav Nachman's ruling that the rest of the exchange is about.",
+      "chosen_heading": "RN Allows Cap",
+      "current_heading": "Fitting Opinions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Fitting Amoraim",
+    "candidates": [
+      "Tradition Defense",
+      "Fitting Amoraim",
+      "Majority Principle",
+      "Rabbis Whole Act",
+      "RY Majority Stands",
+      "Two-Thirds Good",
+      "First Third Bad",
+      "Nafakat Chayuta",
+      "Reverse Case",
+      "Hole Analogy",
+      "Right Place Cut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage precisely matches the 'Fitting Amoraim' section's prose, which describes Rabbi Yehoshua ben Levi's statement about how the Rabbis' \u05d4\u05d2\u05e8\u05de\u05d4 is valid per Rabbi Yosi bar Rabbi Yehuda, the subsequent objection of \u05e4\u05e9\u05d9\u05d8\u05d0, the resolution about Rabbi Chanina ben Antigonus going further than all opinions, and the final halakhic ruling in accordance with Rabbi Chanina ben Antigonus as held by Rav Na\u1e25man \u2014 all of which correspond exactly to items 1\u20134.",
+      "chosen_heading": "Fitting Amoraim",
+      "current_heading": "Fitting Amoraim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Right Place Cut",
+    "candidates": [
+      "Majority Principle",
+      "Rabbis Whole Act",
+      "RY Majority Stands",
+      "Two-Thirds Good",
+      "First Third Bad",
+      "Nafakat Chayuta",
+      "Reverse Case",
+      "Hole Analogy",
+      "Right Place Cut",
+      "Part of Day",
+      "Majority Exclusive?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "All five items form one continuous dispute between Rav Huna/Rav Asi and Rav \u1e24isda about which scenario is the subject of the Rabbinic dispute \u2014 exactly the content described in heading 8 ('Right Place Cut'), which covers Rav \u1e24isda's reversal, the Rabbis' distinction about cutting in the right place (\u05d4\u05ea\u05dd \u05de\u05e7\u05d5\u05dd \u05e9\u05d7\u05d9\u05d8\u05d4/\u05d4\u05db\u05d0 \u05dc\u05d0\u05d5 \u05de\u05e7\u05d5\u05dd \u05e9\u05d7\u05d9\u05d8\u05d4), and the conclusion that doing the first two-thirds correctly makes the slaughter universally valid via \u05e8\u05d5\u05d1\u05d5 \u05e9\u05dc \u05d0\u05d7\u05d3 \u05db\u05de\u05d5\u05d4\u05d5.",
+      "chosen_heading": "Right Place Cut",
+      "current_heading": "Right Place Cut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Majority Exclusive?",
+    "candidates": [
+      "Part of Day",
+      "Majority Exclusive?",
+      "Shechita Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's exact question challenging whether the majority ruling is exclusively Rabbi Yosi bar Rabbi Yehuda's position, which is precisely what the 'Majority Exclusive?' section's prose describes.",
+      "chosen_heading": "Majority Exclusive?",
+      "current_heading": "Majority Exclusive?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Shechita Debate",
+    "candidates": [
+      "Shechita Debate",
+      "Begin Wrong"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts the exact Abaye-Rav Yosef exchange about whether the majority principle in shechita belongs specifically to Rabbi Yosi bar Rabbi Yehuda, which is precisely what section 0 ('Shechita Debate') describes in its prose.",
+      "chosen_heading": "Shechita Debate",
+      "current_heading": "Shechita Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Begin Wrong",
+    "candidates": [
+      "Begin Wrong",
+      "First Two OK",
+      "Life at Middle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Begin Wrong' directly describes all three items: the alternative version (\u05dc\u05d9\u05e9\u05e0\u05d0 \u05d0\u05d7\u05e8\u05d9\u05e0\u05d0) framing the dispute as \u05d4\u05d2\u05e8\u05d9\u05dd \u05e9\u05dc\u05d9\u05e9 \u05d5\u05e9\u05d7\u05d8 \u05e9\u05e0\u05d9 \u05e9\u05dc\u05d9\u05e9, the universal agreement on the good-first/bad-last case grounded in \u05e8\u05d5\u05d1\u05d5 \u05db\u05de\u05d5\u05d4\u05d5, and Rav \u1e24isda's challenge about whether the majority principle was stated by Rabbi Yosei bar Rabbi Yehuda \u2014 matching items 1, 2, and 3 respectively.",
+      "chosen_heading": "Begin Wrong",
+      "current_heading": "Begin Wrong",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Life at Middle",
+    "candidates": [
+      "First Two OK",
+      "Life at Middle",
+      "Majority Needed",
+      "Bad-Good-Bad",
+      "RY Reverses",
+      "RN Objects",
+      "Don't Reverse",
+      "Asked RN",
+      "Masreik Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form one continuous dispute about the \u05d4\u05d2\u05e8\u05d9\u05dd-\u05e9\u05d7\u05d8-\u05d4\u05d2\u05e8\u05d9\u05dd case (bad-good-bad), covering Rav Huna and Rav Yehuda's opposing rulings and their reasoning, the mirror case and Rav Yehuda's anger, and Rav Chisda's warning not to retract \u2014 all unified under the 'Life at Middle' heading which describes exactly this scenario and its rationale.",
+      "chosen_heading": "Life at Middle",
+      "current_heading": "Life at Middle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Masreik Position",
+    "candidates": [
+      "Majority Needed",
+      "Bad-Good-Bad",
+      "RY Reverses",
+      "RN Objects",
+      "Don't Reverse",
+      "Asked RN",
+      "Masreik Position",
+      "Kosher Zone Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage describes Rav Nachman being asked the question at Sura and giving his answer about Rabbi Elazar bar Minyumi's comb ruling \u2014 the 'Asked RN' section's prose covers the question being posed, while 'Masreik Position' covers only Rav Nachman's response, but the Talmudic text contains both the question and the answer together, and candidate 5 ('Asked RN') is where this combined unit begins and best fits as the single home for the whole passage.",
+      "chosen_heading": "Asked RN",
+      "current_heading": "Masreik Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Kosher Zone Only",
+    "candidates": [
+      "Masreik Position",
+      "Kosher Zone Only",
+      "RK Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge about whether comb-like shechita within the kosher zone is the entire teaching and the \u05d7\u05d9\u05d3\u05d5\u05e9 of \u05de\u05e4\u05d5\u05e8\u05e2\u05ea, which is precisely what the 'Kosher Zone Only' prose section describes.",
+      "chosen_heading": "Kosher Zone Only",
+      "current_heading": "Kosher Zone Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "RK Questions",
+    "candidates": [
+      "RK Questions",
+      "Front vs Back"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mnemonic identifies the order of the Sages (Rabbi Abba, Rav Kahana, Rav Yehuda) in the discussion, which directly sets up the seating arrangement and questioning sequence described in 'RK Questions' prose.",
+      "chosen_heading": "RK Questions",
+      "current_heading": "RK Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Front vs Back",
+    "candidates": [
+      "Front vs Back",
+      "Goy Analogy",
+      "Reject Analogy",
+      "Whole Act Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous narrative about Rav Yehuda's rulings on cutting in the place of a perforation vs. encountering a perforation, followed by Rabbi Abba reporting to Rabbi Elazar and then to Rabbi Yochanan \u2014 exactly the content described in the 'Front vs Back' prose, which explicitly covers all these cases including Rabbi Abba reporting the distinction to Rabbi Elazar and Rabbi Yochanan.",
+      "chosen_heading": "Front vs Back",
+      "current_heading": "Front vs Back",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Whole Act Defense",
+    "candidates": [
+      "Goy Analogy",
+      "Reject Analogy",
+      "Whole Act Defense",
+      "Side Shechita",
+      "Back Melikah",
+      "Front Shechita",
+      "Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's explanation of why Rabbi Yochanan's dismissal was correct and why the non-Jew/Jew analogy breaks down \u2014 exactly what the 'Whole Act Defense' prose describes.",
+      "chosen_heading": "Whole Act Defense",
+      "current_heading": "Whole Act Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Summary",
+    "candidates": [
+      "Side Shechita",
+      "Back Melikah",
+      "Front Shechita",
+      "Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This Mishnah is a single unified passage covering all the cases (sides, nape, throat) and should sit under the first heading 'Side Shechita' which introduces the Mishnah as a whole, rather than being placed only under the 'Summary' section which covers only its concluding principle.",
+      "chosen_heading": "Side Shechita",
+      "current_heading": "Summary",
+      "moved": true
+    }
+  }
+]

@@ -1,26 +1,19 @@
-# Niddah 16 — Daf Yomi Shiur
-
+[DAF:15b]
 ## Vestos Status Review
 
-### Vestos Debate Overview
 
-> **Hebrew/Aramaic:** לֹא שָׁנוּ אֶלָּא שֶׁאֵין לָהּ וֶסֶת לְיָמִים, אֶלָּא יֵשׁ לָהּ וֶסֶת לְיָמִים וְלִקְפִיצוֹת, כֵּיוָן דִּבְמַעֲשֶׂה תַּלְיָא מִילְּתָא — אֵימָא לָא קְפִיץ וְלָא חֲזַאי, אֲבָל יֵשׁ לָהּ וֶסֶת לְיָמִים — אֲסוּרָה לְשַׁמֵּשׁ.
->
-> **Translation:** The Sages **taught** this *halakha*, that a woman has a presumptive status of purity to her husband, **only** in a case **where she does not have** a menstrual **cycle of days** alone, **but has** a menstrual **cycle** that is determined both **by** fixed **days and by** physical actions she might perform, such as **jumps.** The reason is that **since** the **matter is** also **dependent on** a particular **action,** one can **say** that **she did not jump and** therefore **she did not see** blood, and consequently she is presumed to be pure. **But** with regard to a woman who **has** a menstrual **cycle of days** alone, and the projected day of her period arrived, **it is prohibited for her to engage in intercourse** with her husband.
+
+### Vestos Debate Overview
 
 Yesterday's discussion centered on a fundamental and far-reaching debate: are *vestos* — a woman's established, regular menstrual cycle — *de'oraisa* or *de'rabbanan*? That is, does the anticipation of a woman's period carry biblical weight or only rabbinic weight? The immediate practical concern is well known from *Gemara Shavuos* and related contexts: a husband and wife must be *poresh* — they cannot have relations during the days of an expected period. But the more focused question driving our discussion is what her status is *after* that period passes.
 
 The woman entered that window with a *chezkas tahara* — a presumptive status of *tahara*. Now an expectation has arisen that that status will change. Is that expectation strong enough to override her status quo? The *Gemara* frames this as the question of whether *vestos* are *de'oraisa*. The meaning of "biblical" here is that there exists a general biblical principle of *chazaka* — that we follow established patterns and habits. A woman who habitually sees blood every thirtieth day exhibits a clear pattern. The question is whether that habitual pattern is sufficient to say it has changed her status quo without specific knowledge that the anticipated event has actually occurred.
 
-### Three Status Possibilities
+### Woman's Status: Tahora
 
 There are in fact three possible positions. First: she remains completely *tehora*, going by her status quo until we know otherwise. Second: she is completely *teme'ah* — the time of her expected period passed, and she is assumed to be definitively *teme'ah* unless there is absolute evidence to the contrary. Third, and intermediate: the expectation was enough to say she is no longer definitively *tehora*, but not enough to declare her definitively *teme'ah* — it places her in a state of *safek*.
 
 ### Rabbi Yochanan Position
-
-> **Hebrew/Aramaic:** אָמַר רַב שְׁמוּאֵל מִשְּׁמֵיהּ דְּרַבִּי יוֹחָנָן: אִשָּׁה שֶׁיֵּשׁ לָהּ וֶסֶת — בַּעְלָהּ מְחַשֵּׁב יְמֵי וִסְתָּהּ, וּבָא עָלֶיהָ.
->
-> **Translation:** **Rav Shmuel says in the name of Rabbi Yoḥanan:** With regard to **a woman who has** a fixed menstrual **cycle,** and her husband was away for seven days after the expected onset of her period, at which point he returned home, **her husband calculates the days of her cycle; and** if in the elapsed time it was possible for her to immerse and purify herself, he can presume that she did so, and **he may engage in intercourse with her** even without asking her whether she is pure.
 
 The discussion from yesterday actually concluded with the position of Rabbi Yochanan, which occupies the intermediate ground. Rabbi Yochanan said it depends on whether sufficient time has passed for her to have gone to the *mikvah*. Consider the case: he left on day 20 and returned on day 40 since her last period. The time of her expected period has passed, but also enough time has elapsed for her to have immersed. Rabbi Yochanan said that in such a case one may assume she is *tehora*. The *Gemara's* explanation is that since there is uncertainty both about whether she bled and about whether she subsequently went to the *mikvah*, and since there is a good chance she did immerse, you combine the two probabilities and conclude she is *tehora*.
 
@@ -44,29 +37,41 @@ Two related clarifications are worth noting. First, a woman who has no establish
 
 ## Safek Overriding Vadai
 
-### Principle Stated
 
-> **Hebrew/Aramaic:** הָוֵה לֵיהּ סָפֵק וּוַדַּאי, וְאֵין סָפֵק מוֹצִיא מִידֵי וַדַּאי.
->
-> **Translation:** It is **a conflict between an uncertainty** as to whether or not she immersed, **and a certainty** that she saw blood, **and** there is a principle that **an uncertainty does not override a certainty.**
+
+### Principle Stated
 
 The *Gemara* now turns to the second part of the discussion: if she was definitively *teme'ah*, one could not assume she went to the *mikvah*. It is only because she is *safek* — whether under the *de'oraisa* or *de'rabbanan* reading — that you can factor in the likelihood she immersed and thereby presume *tahara*. This leads to the underlying principle: *ein safek motzi midei vadai* — doubt cannot displace certainty. The principle is clear enough on its face. But the relevant case here is not just any *safek*: there is a very good chance, a near-expectation, that his wife went to the *mikvah*; he simply does not know for certain. Can such a *safek* — a highly probable one — be *motzi midei vadai* when a prior status of *vadai* existed?
 
+[DAF:16a]
 ### Masik's Servant Case
 
-> **Hebrew/Aramaic:** מַעֲשֶׂה בְּשִׁפְחָתוֹ שֶׁל מַסִּיק אֶחָד בְּרִימּוֹן, שֶׁהֵטִילָה נֵפֶל לְבוֹר, וּבָא כֹּהֵן וְהֵצִיץ בּוֹ לֵידַע אִם זָכָר אִם נְקֵבָה. וּבָא מַעֲשֶׂה לִפְנֵי חֲכָמִים, וְטִהֲרוּהוּ, מִפְּנֵי שֶׁחוּלְדָּה וּבַרְדְּלָס מְצוּיִים שָׁם.
->
-> **Translation:** There was **an incident involving the maidservant of a certain olive gatherer [*massik*] in** the city of **Rimon, who cast a non-viable newborn into a pit, and a priest came and looked** into the pit **to ascertain whether** the baby was **male** or **whether** it was **female,** as the length of time of a woman's ritual impurity after childbirth, even if she gave birth to a non-viable newborn, depends on whether the child was male or female (see Leviticus, chapter 12). **And** the **incident came before the Sages** to rule whether or not the priest contracted ritual impurity while standing over the corpse, **and they deemed him ritually pure.** The basis for this ruling was: **Due to** the fact **that martens and hyenas are common there,** it is likely that the body was dragged away before the priest arrived at the pit.
+> **Hebrew/Aramaic:** וְאַכַּתִּי אֵין סָפֵק מוֹצִיא מִידֵי וַדַּאי? וְהָתַנְיָא: מַעֲשֶׂה בְּשִׁפְחָתוֹ שֶׁל מַסִּיק אֶחָד בְּרִימּוֹן, שֶׁהֵטִילָה נֵפֶל לְבוֹר, וּבָא כֹּהֵן וְהֵצִיץ בּוֹ לֵידַע אִם זָכָר אִם נְקֵבָה.
+> **Translation:** The Gemara challenges: **And still,** is it correct that **an uncertainty does not override a certainty? But isn’t it taught** in a *baraita*: There was **an incident involving the maidservant of a certain olive gatherer [*massik*] in** the city of **Rimon, who cast a non-viable newborn into a pit, and a priest came and looked** into the pit **to ascertain whether** the baby was **male** or **whether** it was **female,** as the length of time of a woman’s ritual impurity after childbirth, even if she gave birth to a non-viable newborn, depends on whether the child was male or female (see Leviticus, chapter 12).
+
+> **Hebrew/Aramaic:** וּבָא מַעֲשֶׂה לִפְנֵי חֲכָמִים, וְטִהֲרוּהוּ, מִפְּנֵי שֶׁחוּלְדָּה וּבַרְדְּלָס מְצוּיִים שָׁם.
+> **Translation:** **And** the **incident came before the Sages** to rule whether or not the priest contracted ritual impurity while standing over the corpse, **and they deemed him ritually pure.** The basis for this ruling was: **Due to** the fact **that martens and hyenas are common there,** it is likely that the body was dragged away before the priest arrived at the pit.
+
+> **Hebrew/Aramaic:** וְהָא הָכָא, דְּוַדַּאי הֵטִילָה נֵפֶל, סָפֵק גְּרָרוּהוּ סָפֵק לֹא גְּרָרוּהוּ, וְקָאָתֵי סָפֵק וּמוֹצִיא מִידֵי וַדַּאי!
+> **Translation:** The Gemara explains the challenge from this *baraita*: **And here, where it is certain** that the maidservant **cast** the **non-viable newborn** into the pit, and it is **uncertain** whether an animal **dragged it** away and it is **uncertain** whether **no** animal **dragged it** away, the Sages nevertheless ruled that **an uncertainty comes and overrides a certainty.**
+
+> **Hebrew/Aramaic:** לָא תֵּימָא ״הֵטִילָה נֵפֶל לְבוֹר״, אֶלָּא אֵימָא
+> **Translation:** The Gemara rejects this challenge: **Do not say** in the *baraita* **that** the woman certainly **cast a non-viable newborn into a pit; rather, say**
+
+> **Hebrew/Aramaic:** כְּמִין נֵפֶל.
+> **Translation:** that she cast an item **similar to a non-viable newborn** into a pit. Perhaps it was not a non-viable newborn; it might simply have been congealed blood, which does not transmit impurity. Therefore, this is a conflict between uncertainty and uncertainty. It is unclear whether there was anything in the pit that could have rendered the priest ritually impure, and even if there was, it might already have been dragged away.
+
+> **Hebrew/Aramaic:** וְהָא ״לֵידַע אִם זָכָר אִם נְקֵבָה״ קָתָנֵי!
+> **Translation:** The Gemara challenges: **But isn’t it taught** in the *baraita*: And a priest came and looked into the pit **to ascertain whether** it was **male** or **whether** it was **female?** This indicates that the only uncertainty was with regard to its sex; it was certainly a non-viable newborn.
+
+> **Hebrew/Aramaic:** הָכִי קָאָמַר: וּבָא כֹּהֵן וְהֵצִיץ בּוֹ, לֵידַע אִם נֵפֶל הִפִּילָה אִם רוּחַ הִפִּילָה, וְאִם תִּמְצֵי לוֹמַר נֵפֶל הִפִּילָה — לֵידַע אִם זָכָר אִם נְקֵבָה.
+> **Translation:** The Gemara answers that **this** is what the *baraita* **is saying: And a priest came and glanced at** the baby **to ascertain whether** the woman **discharged a non-viable newborn,** or **whether she discharged an amorphous mass. And if you say** that **she discharged a non-viable newborn,** he sought **to ascertain whether** it was **male** or **whether** it was **female.**
 
 The *Gemara* challenges the principle by citing a *baraisa*: there was a story involving the servant of a *Masik* — either an olive presser or a strong, violent man, depending on interpretation — in a place called Rimmon. This servant had a miscarriage and cast the fetus into a pit. A *kohen* went and leaned over the pit to look in, in order to determine whether it was male or female — which would determine whether the maidservant's period of *tumah* was seven or fourteen days. The problem, of course, is that a *kohen* may not contract *tum'as meit*. The *Gemara* offers several suggestions for how this occurred: perhaps the man was violent and compelled the *kohen*; perhaps the *kohen* was a minor, though that is not entirely satisfying since adults are commanded to prevent minors from becoming *tamei*. Rashi's preferred explanation is that the *kohen* was simply an *am ha'aretz* who did not know or care about the *halacha*. In any event, the case came before the *Chachamim*, and they declared the *kohen* to be *tahor* — he apparently saw nothing — because weasels and moles (burrowing, scurrying animals) are commonly found there, and one may assume that they dragged the fetus away.
 
 Now the *Gemara* raises the problem: the fetus was definitely there — *vadai hetilah nefel l'vor*. Whether it was dragged away is a *safek* — perhaps yes, perhaps no. There is some supporting evidence in that the *kohen* saw nothing, but it is still not a *vadai*. Yet this *safek* appears to be *motzi midei vadai*, displacing the *kohen's* definite prior status of having been in proximity to a *meis*.
 
 ### Fetus Status Unclear
-
-> **Hebrew/Aramaic:** לָא תֵּימָא ״הֵטִילָה נֵפֶל לְבוֹר״, אֶלָּא אֵימָא כְּמִין נֵפֶל.
->
-> **Translation:** **Do not say** in the *baraita* **that** the woman certainly **cast a non-viable newborn into a pit; rather, say** that she cast an item **similar to a non-viable newborn** into a pit. Perhaps it was not a non-viable newborn; it might simply have been congealed blood, which does not transmit impurity. Therefore, this is a conflict between uncertainty and uncertainty. It is unclear whether there was anything in the pit that could have rendered the priest ritually impure, and even if there was, it might already have been dragged away.
 
 The *Gemara* responds with its first resolution: do not read the case as one where it was definite that a fetus — a *nefel* — was cast into the pit. Read it rather as *k'mi nefel* — something that may have been a fetus. Depending on the nature of the miscarriage, it may not have had the halachic status of a *meis* at all; it may have been mere discharge. So the problem was never a *vadai* to begin with.
 
@@ -75,7 +80,6 @@ But the *Gemara* objects: the *baraisa* says the *kohen* wanted to determine whe
 ### Weasels Certainty
 
 > **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא, כֵּיוָן דְּחוּלְדָּה וּבַרְדְּלָס מְצוּיִים שָׁם — וַדַּאי גְּרָרוּהוּ.
->
 > **Translation:** **And if you wish, say** instead that this was not a conflict between certainty and uncertainty; rather, it was between two certainties. **Since martens and hyenas are common there, they certainly dragged it** away immediately. Consequently, the ruling in this case does not contradict the principle that an uncertainty does not override a certainty.
 
 The *Gemara* offers a second approach: *ve-iba'is eima* — if you wish, you may say instead that since the weasel and mole are definitely found there, *vadai geraru* — we can be so certain they dragged it away that we treat the likelihood as a *vadai*, especially in combination with the supporting evidence that the *kohen* saw nothing at all.
@@ -92,31 +96,29 @@ It is worth pausing here to note an important conceptual distinction that this d
 
 ## Vestos Biblical/Rabbinic
 
+
+
 ### Question to Rav Nachman
 
 > **Hebrew/Aramaic:** בְּעוֹ מִינֵּיהּ מֵרַב נַחְמָן: וְסָתוֹת דְּאוֹרָיְיתָא אוֹ דְרַבָּנַן?
->
-> **Translation:** The Sages **asked Rav Naḥman:** Does the concern for impurity of women at the projected time of their **periods,** and in turn the obligation for her to perform an examination at that time, apply **by Torah law?** If so, if a woman did not examine herself she is ritually impure, even if she later examined herself and did not find any blood, as it is assumed that she emitted blood without her seeing it. **Or** perhaps the concern for impurity of women at the projected time of their periods, and in turn the obligation for her to perform an examination at that time, applies **by rabbinic law?** If so, a woman who did not examine herself at the time and did not sense the emission of blood can still examine herself after that time and would be ritually pure.
+> **Translation:** § The Gemara returns to the issue of a woman’s examination at the projected time of her period. The Sages **asked Rav Naḥman:** Does the concern for impurity of women at the projected time of their **periods,** and in turn the obligation for her to perform an examination at that time, apply **by Torah law?** If so, if a woman did not examine herself she is ritually impure, even if she later examined herself and did not find any blood, as it is assumed that she emitted blood without her seeing it. **Or** perhaps the concern for impurity of women at the projected time of their periods, and in turn the obligation for her to perform an examination at that time, applies **by rabbinic law?** If so, a woman who did not examine herself at the time and did not sense the emission of blood can still examine herself after that time and would be ritually pure.
 
 The *Gemara* now returns directly to the question of *vestos de'oraisa* or *de'rabbanan*. Rav Nachman was asked explicitly: *vest de'oraisa o de'rabbanan*? Is the halachic weight of a woman's established cycle biblical or rabbinic? As summarized above, one way to frame the question is whether, after the expected period passes, she is *vadai teme'ah* or *safek teme'ah* — or alternatively, whether she is *safek teme'ah* or remains *tehora*. The three possibilities stand, and the question is which two positions are in play.
 
 ### Unchecked Bleeding Case
 
-> **Hebrew/Aramaic:** אִשָּׁה שֶׁיֵּשׁ לָהּ וֶסֶת, וְהִגִּיעַ שְׁעַת וִסְתָּהּ וְלֹא בָּדְקָה, וּלְבַסּוֹף רָאֲתָה — חוֹשֶׁשֶׁת לְוִסְתָּהּ, וְחוֹשֶׁשֶׁת לִרְאִיָּיתָהּ.
->
-> **Translation:** With regard to **a woman who has** a fixed menstrual **cycle, and the** projected **time of her period arrived and she did not examine herself, and ultimately,** when she did examine herself, **she saw** blood, the *halakha* is that **she must be concerned for** ritual impurity from the projected time of **her period** and that therefore any pure items she touched since then are impure. **And** additionally, **she must be concerned** for ritual impurity with regard to the twenty-four hours prior **to her seeing** the blood, and any items she touched during those twenty-four hours are impure, even if she saw the blood a short while after the projected time of her period.
-
 Rather than answering directly, Rav Nachman responds by citing what Huna, described as "our friend," said in the name of Rav. The case: a woman who has an established *veset* — the time of her period arrives, and she does not perform a *bedikah* during that time. Then, some time later — an hour, a day — she finds she is bleeding.
 
+> **Hebrew/Aramaic:** אֲמַר לְהוּ מִדְּאָמַר הוּנָא חַבְרִין מִשְּׁמֵיהּ דְּרַב: אִשָּׁה שֶׁיֵּשׁ לָהּ וֶסֶת, וְהִגִּיעַ שְׁעַת וִסְתָּהּ וְלֹא בָּדְקָה, וּלְבַסּוֹף רָאֲתָה — חוֹשֶׁשֶׁת לְוִסְתָּהּ, וְחוֹשֶׁשֶׁת לִרְאִיָּיתָהּ. אַלְמָא וְסָתוֹת דְּאוֹרָיְיתָא.
+> **Translation:** Rav Naḥman **said to them:** A resolution can be found for your dilemma **from that which Huna our colleague said in the name of Rav:** With regard to **a woman who has** a fixed menstrual **cycle, and the** projected **time of her period arrived and she did not examine herself, and ultimately,** when she did examine herself, **she saw** blood, the *halakha* is that **she must be concerned for** ritual impurity from the projected time of **her period** and that therefore any pure items she touched since then are impure. **And** additionally, **she must be concerned** for ritual impurity with regard to the twenty-four hours prior **to her seeing** the blood, and any items she touched during those twenty-four hours are impure, even if she saw the blood a short while after the projected time of her period. **Evidently,** the concern for impurity of women at the projected time of their **periods** applies **by Torah law,** which is why the *halakha* is stringent.
+
 ### Huna's Ruling
+
+
 
 Huna in the name of Rav ruled: *chosheshes le-vistah ve-chosheshes le-reiyasah* — she must be concerned both for the time of her *veset* and for the time she actually saw the blood. What does this mean practically? On one hand, anything she handled from the time her *veset* was expected must be treated with concern, because she may have become *teme'ah* at that earlier point. On the other hand, when counting toward her permitted immersion, she cannot count from the day of her *veset* — she counts only from the day she actually confirmed bleeding. Similarly, the day she actually saw blood is crucial for establishing the future pattern of her cycle: whether future bleedings will render her a *niddah* or a *zavah*, and when she becomes eligible to go to the *mikvah*. Both days carry legal weight, and she must be concerned for both.
 
 ### Failed Proof
-
-> **Hebrew/Aramaic:** אַלְמָא וְסָתוֹת דְּאוֹרָיְיתָא.
->
-> **Translation:** **Evidently,** the concern for impurity of women at the projected time of their **periods** applies **by Torah law,** which is why the *halakha* is stringent.
 
 At first glance this *baraisa* seems to prove that *vestos de'oraisa* — for the *Gemara* initially assumes that the case would require concern for the day of the *veset* even had she not subsequently bled; that the retroactive concern for the day of the *veset* is inherent to the *veset* itself, not dependent on the later seeing of blood. If so, *vestos* carry definite biblical weight.
 
@@ -124,9 +126,8 @@ But the *Gemara* quickly rejects this reading, and correctly so. Your observatio
 
 ### Seeing Is Evidence
 
-> **Hebrew/Aramaic:** טַעְמָא דְּרָאֲתָה, הָא לֹא רָאֲתָה — אֵין חוֹשְׁשִׁין, אַלְמָא וְסָתוֹת דְּרַבָּנַן.
->
-> **Translation:** The **reason** for Rav's ruling that pure items she touched are retroactively considered impure is **that** she ultimately **saw** blood, from which it may be inferred that if **she did not see** blood, one is **not concerned** about the status of pure items that she touched from the projected time of her period, despite the fact that she neglected to examine herself at the time. **Evidently,** the concern for impurity of women at the projected time of their **periods** applies **by rabbinic law.**
+> **Hebrew/Aramaic:** אִיכָּא דְאָמְרִי, הָכִי קָאָמַר לְהוּ: טַעְמָא דְּרָאֲתָה, הָא לֹא רָאֲתָה — אֵין חוֹשְׁשִׁין, אַלְמָא וְסָתוֹת דְּרַבָּנַן.
+> **Translation:** **There are** those **who say** that **this is what** Rav Naḥman **said to** the other Sages: The **reason** for Rav’s ruling that pure items she touched are retroactively considered impure is **that** she ultimately **saw** blood, from which it may be inferred that if **she did not see** blood, one is **not concerned** about the status of pure items that she touched from the projected time of her period, despite the fact that she neglected to examine herself at the time. **Evidently,** the concern for impurity of women at the projected time of their **periods** applies **by rabbinic law.**
 
 The *Gemara* restates the case: *ta'ama de-raata* — the reason we are concerned retroactively about the day of the *veset* is precisely *because* she saw blood afterwards. *Ha lo raata, ein chosheshin* — had she not seen blood at all, we would not treat her as *teme'ah* from the day of her *veset* simply because it passed. The passing of the day alone, without any subsequent confirmation, would not render her *teme'ah*. This suggests *vestos de'rabbanan* — and therefore the *baraisa* is inconclusive. It does not establish whether *vestos* carry definite biblical weight or only rabbinic weight; it only tells us how to handle a case where both the *veset* day and a subsequent sighting are in play.
 
@@ -134,11 +135,9 @@ The *Gemara* restates the case: *ta'ama de-raata* — the reason we are concerne
 
 ## Rav vs. Shmuel
 
-### Rav's Check Standard
 
-> **Hebrew/Aramaic:** אִיתְּמַר: אִשָּׁה שֶׁיֵּשׁ לָהּ וֶסֶת, וְהִגִּיעַ שְׁעַת וִסְתָּהּ וְלֹא בָּדְקָה, וּלְבַסּוֹף בָּדְקָה — אָמַר רַב: בָּדְקָה וּמָצָאת טְמֵאָה — טְמֵאָה, טְהוֹרָה — טְהוֹרָה. וּשְׁמוּאֵל אָמַר: אֲפִילּוּ בָּדְקָה וּמָצָאת טְהוֹרָה נָמֵי טְמֵאָה, מִפְּנֵי שֶׁאוֹרַח בִּזְמַנּוֹ בָּא.
->
-> **Translation:** Since the Gemara mentioned Rav's ruling it cites the dispute between Rav and Shmuel with regard to this *halakha*. It **was stated** that these *amora'im* disagree about **a woman who has** a fixed menstrual **cycle, and the** projected **time of her period arrived and she did not examine herself, and ultimately she examined** herself. **Rav says:** If **she examined** herself at this later time **and found** that she was **ritually impure, she is impure;** and if she found that she was **pure, she is pure. And Shmuel says: Even** if **she** later **examined** herself **and found** that she was **pure, she is impure.** This is **because** the **manner** of women, i.e., a women's menstrual period, **comes at its** usual **time.**
+
+### Rav's Check Standard
 
 Having established that the *baraisa* is inconclusive, the *Gemara* presents a direct *amoraic* dispute. The case: a woman with an established *veset*, the time of her *veset* arrives, and she did not check during it — but she checked afterward. Rav rules: *badka u-matzas teme'ah, teme'ah; badka u-matzas tehora, tehora*. If she checks after the fact and finds she is bleeding, she is *teme'ah*; if she checks and finds she is *tehora*, she may be presumed *tehora*. The critical and consequential part of Rav's ruling is the second clause — a later *bedikah* finding *tahara* is sufficient to establish that she did not have her period during the time of her *veset*.
 
@@ -148,17 +147,19 @@ Shmuel disagrees sharply: *afilu badka u-matzas tehora nami teme'ah* — even if
 
 ### Timing of Check
 
-> **Hebrew/Aramaic:** לֵימָא, בִּוְסָתוֹת קָמִיפַּלְגִי, דְּמָר סָבַר דְּאוֹרָיְיתָא, וּמָר סָבַר דְּרַבָּנַן.
->
-> **Translation:** The Gemara suggests: **Shall we say** that Rav and Shmuel **disagree with regard to** the concern for impurity of women at the projected time of their **periods? As** one **Sage,** Shmuel, who rules that the woman is impure in both cases, **holds** that this concern for impurity applies **by Torah law, and** one **Sage,** Rav, who says that if her subsequent examination came out clean then she remains pure, **holds** that this concern for impurity applies **by rabbinic law.**
-
 The *Gemara* initially reads this as a dispute about whether *vestos* are *de'oraisa* or *de'rabbanan*: one holds *de'oraisa* and therefore a later check is insufficient; the other holds *de'rabbanan* and therefore a later check suffices. But Rabbi Zeira offers a different framing.
+
+> **Hebrew/Aramaic:** אִיתְּמַר: אִשָּׁה שֶׁיֵּשׁ לָהּ וֶסֶת, וְהִגִּיעַ שְׁעַת וִסְתָּהּ וְלֹא בָּדְקָה, וּלְבַסּוֹף בָּדְקָה — אָמַר רַב: בָּדְקָה וּמָצָאת טְמֵאָה — טְמֵאָה, טְהוֹרָה — טְהוֹרָה. וּשְׁמוּאֵל אָמַר: אֲפִילּוּ בָּדְקָה וּמָצָאת טְהוֹרָה נָמֵי טְמֵאָה, מִפְּנֵי שֶׁאוֹרַח בִּזְמַנּוֹ בָּא.
+> **Translation:** § Since the Gemara mentioned Rav’s ruling it cites the dispute between Rav and Shmuel with regard to this *halakha*. It **was stated** that these *amora’im* disagree about **a woman who has** a fixed menstrual **cycle, and the** projected **time of her period arrived and she did not examine herself, and ultimately she examined** herself. **Rav says:** If **she examined** herself at this later time **and found** that she was **ritually impure, she is impure;** and if she found that she was **pure, she is pure. And Shmuel says: Even** if **she** later **examined** herself **and found** that she was **pure, she is impure.** This is **because** the **manner** of women, i.e., a women’s menstrual period, **comes at its** usual **time.**
+
+> **Hebrew/Aramaic:** לֵימָא, בִּוְסָתוֹת קָמִיפַּלְגִי, דְּמָר סָבַר דְּאוֹרָיְיתָא, וּמָר סָבַר דְּרַבָּנַן.
+> **Translation:** The Gemara suggests: **Shall we say** that Rav and Shmuel **disagree with regard to** the concern for impurity of women at the pro-jected time of their **periods? As** one **Sage,** Shmuel, who rules that the woman is impure in both cases, **holds** that this concern for impurity applies **by Torah law, and** one **Sage,** Rav, who says that if her subsequent examination came out clean then she remains pure, **holds** that this concern for impurity applies **by rabbinic law.**
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא: דְּכוּלֵּי עָלְמָא וְסָתוֹת דְּאוֹרָיְיתָא, כָּאן — שֶׁבָּדְקָה עַצְמָהּ כְּשִׁיעוּר וֶסֶת, כָּאן — שֶׁלֹּא בָּדְקָה עַצְמָהּ כְּשִׁיעוּר וֶסֶת.
+> **Translation:** **Rabbi Zeira says:** It is possible **that everyone,** even Rav, agrees that the concern for impurity of women at the projected time of their **periods** applies **by Torah law,** and the reason Rav deems the woman pure in this case is that **here** it is a situation **where she examined herself within the period of time** needed for the onset of **menstruation,** i.e., very close to the projected time of her period, and therefore it is assumed that if there was blood at the projected time of her period she would have seen it upon this examination. By contrast, **there,** in other cases of subsequent examinations, **she did not examine herself within the period of time** needed for the onset of **menstruation.**
 
 ### Bedikah Window
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא: דְּכוּלֵּי עָלְמָא וְסָתוֹת דְּאוֹרָיְיתָא, כָּאן — שֶׁבָּדְקָה עַצְמָהּ כְּשִׁיעוּר וֶסֶת, כָּאן — שֶׁלֹּא בָּדְקָה עַצְמָהּ כְּשִׁיעוּר וֶסֶת.
->
-> **Translation:** **Rabbi Zeira says:** It is possible **that everyone,** even Rav, agrees that the concern for impurity of women at the projected time of their **periods** applies **by Torah law,** and the reason Rav deems the woman pure in this case is that **here** it is a situation **where she examined herself within the period of time** needed for the onset of **menstruation,** i.e., very close to the projected time of her period, and therefore it is assumed that if there was blood at the projected time of her period she would have seen it upon this examination. By contrast, **there,** in other cases of subsequent examinations, **she did not examine herself within the period of time** needed for the onset of **menstruation.**
 
 Rabbi Zeira says: *lo de-chulei alma vestos de'oraisa* — in fact, both Rav and Shmuel could agree that *vestos* are *de'oraisa*. The difference between them is not about the halachic status of *vestos* at all, but about the timing of the *bedikah*. The *Gemara* explains that a woman does not have a *veset* covering an entire day. The *Gemara* envisions a much more precise window — think of a *veset ha-guf*, where bleeding accompanies specific physical sensations such as menstrual cramps. The period in question is a narrow, finite span of time. A *bedikah* performed during that precise window — or immediately after it, even seconds after — constitutes absolute proof that she did not bleed. But a *bedikah* performed meaningfully later, even an hour later, does not prove that she was clean during the relevant window. She may have bled during the *veset* time itself, and the blood may have been absorbed into her clothing or otherwise gone undetected by a check performed later.
 
@@ -168,21 +169,29 @@ From this emerges the resolution: according to Rav, the *bedikah* in question wa
 
 ### Timing Resolution
 
+Before reaching this position, the *Gemara* first entertains a different resolution entirely. *Leima bevestos kamifligi* — perhaps Rav and Shmuel are simply disputing the *vestot* question, one holding *de'oraisa* and one holding *derabbanan*, and the practical difference follows from that disagreement: whether a subsequent *bedikah* finding *tahara* is sufficient to override the presumption. Rabbi Zeira, however, rejects this framing — as discussed in the preceding resolution — arguing that both authorities may well agree *vestot* are *de'oraisa*, and the real dispute concerns the timing of the *bedikah* relative to the *veset* window.
+
+Rav Nachman bar Yitzchak, however, maintains the simpler reading: *bevestos gufaihu kamifligi* — Rav and Shmuel do directly dispute the *vestot* question. Shmuel holds *vestot de'oraisa* — the cycle carries definitive biblical weight, and even a later *bedikah* finding *tahara* cannot override the presumption that the "guest arrived at its appointed time." Rav holds otherwise, and a later check is dispositive.
+
 > **Hebrew/Aramaic:** רַב נַחְמָן בַּר יִצְחָק אָמַר: בִּוְסָתוֹת גּוּפַיְיהוּ קָמִיפַּלְגִי, דְּמָר סָבַר: וְסָתוֹת דְּאוֹרָיְיתָא, וּמַר סָבַר: וְסָתוֹת דְּרַבָּנַן.
->
 > **Translation:** **Rav Naḥman bar Yitzḥak says:** Actually, Rav and Shmuel **disagree with regard to** the matter of the projected time of their **periods itself, as** one **Sage,** Shmuel, **holds** that the concern for impurity of women at the projected time of their **periods** applies **by Torah law, and** one **Sage,** Rav, **holds** that the concern for impurity of women at the projected time of their **periods** applies **by rabbinic law.**
 
-Rav Nachman bar Yitzchak, however, maintains the simpler reading: *bevestos gufaihu kamifligi* — Rav and Shmuel do directly dispute the *vestos* question. Shmuel holds *vestos de'oraisa* — the cycle carries definitive biblical weight, and even a later *bedikah* finding *tahora* cannot override the presumption that the "guest arrived at its appointed time." Rav holds otherwise, and a later check is dispositive.
+> **Hebrew/Aramaic:** אָמַר רַב שֵׁשֶׁת: כְּתַנָּאֵי, רַבִּי אֱלִיעֶזֶר אוֹמֵר: טְמֵאָה נִדָּה.
+> **Translation:** The Gemara continues to discuss this dispute between Rav and Shmuel. **Rav Sheshet says:** This disagreement between Rav and Shmuel is **parallel to** a dispute between ***tanna’im*: Rabbi Eliezer says** that a woman who has a fixed menstrual cycle but who did not examine herself at the projected time of her period **is ritually impure as a menstruating woman,** which indicates that in his opinion the examination at the projected time of a woman’s period applies by Torah law.
+
+> **Hebrew/Aramaic:** וְרַבִּי יְהוֹשֻׁעַ אוֹמֵר: תִּבָּדֵק, וְהָנֵי תַנָּאֵי כִּי הָנֵי תַּנָּאֵי, דְּתַנְיָא: רַבִּי מֵאִיר אוֹמֵר: טְמֵאָה נִדָּה, וַחֲכָמִים אוֹמְרִים: תִּבָּדֵק.
+> **Translation:** **And Rabbi Yehoshua says** that **she should be examined** now, despite the elapsed time, and if the examination came out clean she is pure retroactively as well. Apparently, Rabbi Yehoshua maintains that this examination applies by rabbinic law. The Gemara adds: **And** the dispute of **these *tanna’im* is parallel to** the dispute of **those *tanna’im*, as it is taught** in a *baraita* that **Rabbi Meir says: She is ritually impure as a menstruating woman, and the Rabbis say: She should be examined** now.
+
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: אַף אֲנַן נָמֵי תְּנֵינָא, דִּתְנַן: רַבִּי מֵאִיר אוֹמֵר: אִם הָיְתָה בְּמַחֲבֵא וְהִגִּיעַ שְׁעַת וִסְתָּהּ וְלֹא בָּדְקָה — טְהוֹרָה, שֶׁחֲרָדָה מְסַלֶּקֶת אֶת הַדָּמִים. טַעְמָא דְּאִיכָּא חֲרָדָה, הָא לֵיכָּא חֲרָדָה — טְמֵאָה, אַלְמָא וְסָתוֹת דְּאוֹרָיְיתָא.
+> **Translation:** **Abaye said: We, too, learn** likewise in a mishna, **as we learned** in a mishna (39a): **Rabbi Meir says: If** a woman **was in hiding** from danger, **and the** projected **time of her period arrived and she did not examine** herself, nevertheless she is **ritually pure, as** it may be assumed that she did not experience bleeding because **fear dispels** the flow of menstrual **blood,** and therefore there is no concern that she might have emitted blood without sensing it. By inference, **the reason** she is pure is **that there is fear** of danger; **but** if **there is no fear** upon this woman, **she is impure. Evidently,** Rabbi Meir maintains that the concern for impurity of women at the projected time of their **periods** applies **by Torah law.**
 
 ---
 
 ## Eliezer vs. Yehoshua
 
-### Tannaim Dispute
 
-> **Hebrew/Aramaic:** אָמַר רַב שֵׁשֶׁת: כְּתַנָּאֵי, רַבִּי אֱלִיעֶזֶר אוֹמֵר: טְמֵאָה נִדָּה. וְרַבִּי יְהוֹשֻׁעַ אוֹמֵר: תִּבָּדֵק, וְהָנֵי תַנָּאֵי כִּי הָנֵי תַנָּאֵי, דְּתַנְיָא: רַבִּי מֵאִיר אוֹמֵר: טְמֵאָה נִדָּה, וַחֲכָמִים אוֹמְרִים: תִּבָּדֵק.
->
-> **Translation:** The Gemara continues to discuss this dispute between Rav and Shmuel. **Rav Sheshet says:** This disagreement between Rav and Shmuel is **parallel to** a dispute between ***tanna'im*: Rabbi Eliezer says** that a woman who has a fixed menstrual cycle but who did not examine herself at the projected time of her period **is ritually impure as a menstruating woman,** which indicates that in his opinion the examination at the projected time of a woman's period applies by Torah law. **And Rabbi Yehoshua says** that **she should be examined** now, despite the elapsed time, and if the examination came out clean she is pure retroactively as well. Apparently, Rabbi Yehoshua maintains that this examination applies by rabbinic law. The Gemara adds: **And** the dispute of **these *tanna'im* is parallel to** the dispute of **those *tanna'im*, as it is taught** in a *baraita* that **Rabbi Meir says: She is ritually impure as a menstruating woman, and the Rabbis say: She should be examined** now.
+
+### Tannaim Dispute
 
 Rav Sheshes then observes: *ki-tannai* — this is actually a dispute among *Tannaim*. Rabbi Eliezer says: *teme'ah niddah*. In the same scenario — a woman who did not check during her *veset* — Rabbi Eliezer rules she is definitively *teme'ah*, a *niddah*. Notably, he does not say *safek*; he says *niddah* — the language of certainty. This sounds like *vestos de'oraisa* yielding definitive *tum'ah*, and a check afterwards cannot undo it.
 
@@ -192,9 +201,6 @@ Rabbi Yehoshua disagrees: *tibadek* — let her check, and that will determine h
 
 ### Cave Mishnah Proof
 
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: אַף אֲנַן נָמֵי תְּנֵינָא, דִּתְנַן: רַבִּי מֵאִיר אוֹמֵר: אִם הָיְתָה בְּמַחֲבֵא וְהִגִּיעַ שְׁעַת וִסְתָּהּ וְלֹא בָּדְקָה — טְהוֹרָה, שֶׁחֲרָדָה מְסַלֶּקֶת אֶת הַדָּמִים. טַעְמָא דְּאִיכָּא חֲרָדָה, הָא לֵיכָּא חֲרָדָה — טְמֵאָה, אַלְמָא וְסָתוֹת דְּאוֹרָיְיתָא.
->
-> **Translation:** **Abaye said: We, too, learn** likewise in a mishna, **as we learned** in a mishna (39a): **Rabbi Meir says: If** a woman **was in hiding** from danger, **and the** projected **time of her period arrived and she did not examine** herself, nevertheless she is **ritually pure, as** it may be assumed that she did not experience bleeding because **fear dispels** the flow of menstrual **blood,** and therefore there is no concern that she might have emitted blood without sensing it. By inference, **the reason** she is pure is **that there is fear** of danger; **but** if **there is no fear** upon this woman, **she is impure. Evidently,** Rabbi Meir maintains that the concern for impurity of women at the projected time of their **periods** applies **by Torah law.**
 
 Abaye then offers a proof from a *mishnah* that Rabbi Meir holds *vestos de'oraisa*. The *mishnah* states: Rabbi Meir says that if a woman was hiding in a cave — concealing herself from bandits — and the time of her *veset* arrived, and she did not perform a *bedikah*, she is *tehora*. The reason: *she-charada mesalekes es ha-damim* — fear causes the suppression of bleeding. This is the principle of *mesulekes damim*, the same concept that applies to pregnant women and those past menopause: certain physiological states prevent menstrual flow.
 
@@ -206,13 +212,29 @@ The *Gemara* draws the following inference: *ta'ama de-ika charada* — the reas
 
 ## Wound Blood Debate
 
+
+
 ### Gamliel Ruling
 
-> **Hebrew/Aramaic:** לֵימָא הָנֵי תַּנָּאֵי בְּהָא נָמִי פְּלִיגִי, דְּתַנְיָא: הָרוֹאָה דָּם מֵחֲמַת מַכָּה, אֲפִילּוּ בְּתוֹךְ יְמֵי נִדָּתָהּ — טְהוֹרָה, דִּבְרֵי רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל. רַבִּי אוֹמֵר: אִם יֵשׁ לָהּ וֶסֶת — חוֹשֶׁשֶׁת לְוִסְתָּהּ.
->
-> **Translation:** The Gemara further suggests: **Shall we say** that **these** following ***tanna'im* also disagree with regard to this** matter of whether the examination at the projected time of a woman's period is required by Torah law? **As it is taught** in a *baraita*: With regard to a woman **who sees blood due to a wound** in her pubic area, **even** if she saw the blood **during the days of her menstruation,** including the projected time of her period, **she is pure,** as it is assumed that the blood came from the wound; this is **the statement of Rabban Shimon ben Gamliel.** **Rabbi** Yehuda HaNasi **says** that if the woman does not have a fixed menstrual cycle then the blood can be attributed to the wound. But **if she has** a fixed menstrual **cycle,** and she saw blood on the projected day of her period, even if the blood was from the wound **she must be concerned that** blood from **her period** might be mixed with this blood from the wound, and must therefore observe impurity status.
+> **Hebrew/Aramaic:** לֵימָא הָנֵי תַּנָּאֵי בְּהָא נָמֵי פְּלִיגִי, דְּתַנְיָא: הָרוֹאָה דָּם מֵחֲמַת מַכָּה, אֲפִילּוּ בְּתוֹךְ יְמֵי נִדָּתָהּ — טְהוֹרָה, דִּבְרֵי רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל.
+> **Translation:** The Gemara further suggests: **Shall we say** that **these** following ***tanna’im* also disagree with regard to this** matter of whether the examination at the projected time of a woman’s period is required by Torah law? **As it is taught** in a *baraita*: With regard to a woman **who sees blood due to a wound** in her pubic area, **even** if she saw the blood **during the days of her menstruation,** including the projected time of her period, **she is pure,** as it is assumed that the blood came from the wound; this is **the statement of Rabban Shimon ben Gamliel.**
 
-The *Gemara* now presents a *baraisa* with a case that appears, on the surface, to be directly about the *de'oraisa*/*de'rabbanan* question. The case: a woman is bleeding from an internal wound — *dam makah* — during the time of her expected *niddah* period. Rabban Gamliel rules she is *tehora*. This means that even as her *veset* period passes, since we can attribute the blood to the wound, we do not presume she has had menstrual bleeding.
+> **Hebrew/Aramaic:** רַבִּי אוֹמֵר: אִם יֵשׁ לָהּ וֶסֶת — חוֹשֶׁשֶׁת לְוִסְתָּהּ.
+> **Translation:** **Rabbi** Yehuda HaNasi **says** that if the woman does not have a fixed menstrual cycle then the blood can be attributed to the wound. But **if she has** a fixed menstrual **cycle,** and she saw blood on the projected day of her period, even if the blood was from the wound **she must be concerned that** blood from **her period** might be mixed with this blood from the wound, and must therefore observe impurity status.
+
+> **Hebrew/Aramaic:** מַאי לַָאו, בְּהָא קָמִיפַּלְגִי: דְּמָר סָבַר וְסָתוֹת דְּאוֹרָיְיתָא, וּמַר סָבַר וְסָתוֹת דְּרַבָּנַן?
+> **Translation:** The Gemara clarifies its suggestion: **What, is it not** the case that these Sages **disagree with regard to this** matter, i.e., **that** one **Sage,** Rabbi Yehuda HaNasi, **holds** that the concern for impurity of women at the projected time of their **periods** applies **by Torah law,** and though she can examine herself and ascertain that she is pure, if she did not she is presumed impure, and therefore he is stringent in the case of a woman who has a fixed menstrual cycle; **and** one **Sage,** Rabban Shimon ben Gamliel, **holds** that the concern for impurity of women at the projected time of their **periods** applies **by rabbinic law,** and consequently he rules leniently even with regard to a woman who has a fixed cycle?
+
+> **Hebrew/Aramaic:** אָמַר רָבִינָא: לָא, דְּכוּלֵּי עָלְמָא וְסָתוֹת דְּרַבָּנַן, וְהָכָא בְּמָקוֹר מְקוֹמוֹ טָמֵא קָמִיפַּלְגִי.
+> **Translation:** **Ravina says: No;** they do not necessarily disagree with regard to this point, as it is possible **that everyone,** even Rabbi Yehuda HaNasi, agrees that the concern for impurity of women at the projected time of their **periods** applies **by rabbinic law, and here they disagree** as **to** whether **the location of** a woman’s **source,** i.e., her uterus, **is impure,** and therefore any blood that passes through there is impure, even if it is blood from a wound.
+
+> **Hebrew/Aramaic:** רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל סָבַר: אִשָּׁה טְהוֹרָה וְדָם טָמֵא, דְּקָאָתֵי דֶּרֶךְ מָקוֹר.
+> **Translation:** **Rabban Shimon ben Gamliel holds** that the **woman** herself **is pure** from the seven-day impurity status of a menstruating woman, as the requirement of an examination upon the projected time of her period applies by rabbinic law, **but** the **blood is impure,** even if it is from a wound, **as it came through** her **source,** and was thereby rendered impure. Consequently, the blood renders the woman impure until the evening.
+
+> **Hebrew/Aramaic:** וַאֲמַר לֵיהּ רַבִּי: אִי חָיְישַׁתְּ לְוֶסֶת, אִשָּׁה נָמֵי טְמֵאָה, וְאִי לָא חָיְישַׁתְּ לְוֶסֶת, מָקוֹר מְקוֹמוֹ טָהוֹר הוּא.
+> **Translation:** **And Rabbi** Yehuda HaNasi **said to** Rabban Shimon ben Gamliel: **If you are concerned** due **to** the possibility that this is blood of her menstrual **period,** then the **woman** should **also** be **impure** as a menstruating woman. **And if you are not concerned** due **to** the possibility that this is blood of her menstrual **period,** then her **source** does not transmit impurity to the blood that passes through **its location,** as that blood **is pure.**
+
+The *Gemara* now presents a *baraisa* with a case that appears, on the surface, to be directly about the *de'oraisa*/*de'rabbanan* question. The case: a woman is bleeding from an internal wound — *dam makah* — during the time of her expected *niddah* period. Rabban Gamliel rules she is *tehora*. This means that even as her *veset* period passes, since we can attribute the blood to the wound, we do not presume she has had menstrual bleeding. The reasoning here is important to pin down precisely. It is not a case where she has already had her full menstrual flow and is *tehora* for that ordinary reason — if that were so, the wound would be irrelevant and there would be nothing remarkable about the ruling. Rather, the case is one where we expect her period, and we are seeing blood, but we have good evidence that the blood is coming from the wound. The question then becomes only whether there might be *niddah* blood mixed in with the wound blood. Rabban Gamliel holds that that possibility — a mere *safek* — is not sufficient to render her *teme'ah*. Even after the *veset* time passes, she remains *tehora*, because we attribute what we see to the known source.
 
 ### Tahora Without Check
 
@@ -228,10 +250,6 @@ The *Gemara* initially reads the dispute that follows — in which Rabbi Shim'on
 
 ### Ravina Reframe
 
-> **Hebrew/Aramaic:** אָמַר רָבִינָא: לָא, דְּכוּלֵּי עָלְמָא וְסָתוֹת דְּרַבָּנַן, וְהָכָה בְּמָקוֹר מְקוֹמוֹ טָמֵא קָמִיפַּלְגִי.
->
-> **Translation:** **Ravina says: No;** they do not necessarily disagree with regard to this point, as it is possible **that everyone,** even Rabbi Yehuda HaNasi, agrees that the concern for impurity of women at the projected time of their **periods** applies **by rabbinic law, and here they disagree** as **to** whether **the location of** a woman's **source,** i.e., her uterus, **is impure,** and therefore any blood that passes through there is impure, even if it is blood from a wound.
-
 Ravina, however, offers a striking reinterpretation: *de-chulei alma veses de'rabbanan* — everyone in this dispute actually agrees that *vestos de'rabbanan*, and therefore everyone agrees the woman herself is *tehora*. The dispute is about something else entirely.
 
 ### Mekor Taharah
@@ -240,17 +258,9 @@ The debate, Ravina explains, concerns the status of the *makor* — the uterus �
 
 ### Shim'on Position
 
-> **Hebrew/Aramaic:** רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל סָבַר: אִשָּׁה טְהוֹרָה וְדָם טָמֵא, דְּקָאָתֵי דֶּרֶךְ מָקוֹר.
->
-> **Translation:** **Rabban Shimon ben Gamliel holds** that the **woman** herself **is pure** from the seven-day impurity status of a menstruating woman, as the requirement of an examination upon the projected time of her period applies by rabbinic law, **but** the **blood is impure,** even if it is from a wound, **as it came through** her **source,** and was thereby rendered impure. Consequently, the blood renders the woman impure until the evening.
-
 Rabbi Shim'on ben Elazar holds: the woman is *tehora* — everyone agrees on this, since *vestos de'rabbanan* — but the blood itself is *tamei*, because *de-ka'asi derech makor* — it comes by way of the uterus. Even if the blood is wound blood and not menstrual blood, its passage through the uterus renders it *tamei* for purposes of the laws of *tum'ah ve-tahara*.
 
 ### Rabbi Counter
-
-> **Hebrew/Aramaic:** וַאֲמַר לֵיהּ רַבִּי: אִי חָיְישַׁתְּ לְוֶסֶת, אִשָּׁה נָמִי טְמֵאָה, וְאִי לָא חָיְישַׁתְּ לְוֶסֶת, מָקוֹר מְקוֹמוֹ טָהוֹר הוּא.
->
-> **Translation:** **And Rabbi** Yehuda HaNasi **said to** Rabban Shimon ben Gamliel: **If you are concerned** due **to** the possibility that this is blood of her menstrual **period,** then the **woman** should **also** be **impure** as a menstruating woman. **And if you are not concerned** due **to** the possibility that this is blood of her menstrual **period,** then her **source** does not transmit impurity to the blood that passes through **its location,** as that blood **is pure.**
 
 Rabbi responds: *i chayshas le-veses, isha nami teme'ah* — if you wanted to be concerned about her *veset* period, you should say the woman herself is *teme'ah*. Clearly you are not saying that — you are saying she is *tehora*. So be consistent: *i lo chayshas le-veses, m'kor m'komo tahor hu* — if you are not concerned about her *veset* because *vestos de'rabbanan*, then the blood is also *tahor*. The only basis for treating the blood as *tamei* would be if it were *dam niddah*, not merely because it passed through the uterus. Since we are not treating her as a *niddah*, the blood that emerges is *tahor* as well. The uterus does not independently contaminate blood that is not menstrual blood.
 
@@ -263,6 +273,8 @@ One further important practical issue is raised by Tosafos in this context. The 
 ---
 
 ## Practical Halakha
+
+
 
 ### Consensus Ruling
 
@@ -284,11 +296,13 @@ The final *halakha* point concerns a woman who has no fixed *veset* at all. Rash
 
 ## Sex Checking Rules
 
+
+
 ### Shammai Rule
 
 > **Hebrew/Aramaic:** מַתְנִי' בֵּית שַׁמַּאי אוֹמְרִים: צְרִיכָה שְׁנֵי עֵדִים עַל כׇּל תַּשְׁמִישׁ וְתַשְׁמִישׁ, אוֹ תְּשַׁמֵּשׁ לְאוֹר הַנֵּר. בֵּית הִלֵּל אוֹמְרִים: דַּיָּהּ בִּשְׁנֵי עֵדִים כׇּל הַלַּיְלָה.
->
 > **Translation:** MISHNA: **Beit Shammai say:** A woman is **required** to examine herself with **two cloths,** once before and once after **each and every** act of **intercourse** in which she engages throughout the night, and she must inspect them for blood the following morning, **or** she must **engage in intercourse by the light of a lamp** and inspect the cloths before and after each act of intercourse. **Beit Hillel say:** She is not required to examine herself between each act of intercourse. Rather, it is **sufficient** for her to examine herself **with two cloths throughout the night,** once before the first act of intercourse and once after the final act of intercourse.
+
 
 We return now to the *mishnah*. Beit Shammai says: *tzrichah shnei edim le-chol tashmish ve-tashmish* — she needs two cloths for each and every act of *tashmish*. The *mishnah* then adds: *o tashmish le-or haner* — or one may have relations by candlelight. The context assumes that a couple may have relations multiple times in a single night. Beit Shammai is concerned that without separate cloths for each act, evidence of earlier bleeding may be masked — semen and other fluids from a second encounter could cover up any blood deposited on the cloth from the first. Therefore, either use separate cloths for each act of relations, or examine the cloth by candlelight between each act before proceeding.
 
@@ -314,18 +328,22 @@ According to Rashi, Beit Hillel is far more lenient in a different dimension: no
 
 ## Masking Evidence
 
+
+
+[DAF:16b]
 ### Masking Problem
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: אַף עַל פִּי שֶׁאָמְרוּ הַמְשַׁמֵּשׁ מִטָּתוֹ לְאוֹר הַנֵּר הֲרֵי זֶה מְגוּנֶּה, בֵּית שַׁמַּאי אוֹמְרִים: צְרִיכָה שְׁנֵי עֵדִים עַל כׇּל תַּשְׁמִישׁ, אוֹ תְּשַׁמֵּשׁ לְאוֹר הַנֵּר. וּבֵית הִלֵּל אוֹמְרִים: דַּיָּהּ בִּשְׁנֵי עֵדִים כׇּל הַלַּיְלָה. שָׁמְאַי אוֹמְרִים: צָרִיךְ שְׁנֵי עֵדִים עַל כׇּל תַּשְׁמִישׁ וְתַשְׁמִישׁ, אוֹ תְּשַׁמֵּשׁ לְאוֹר הַנֵּר, שֶׁמָּא תִּרְאֶה טִיפַּת דָּם כְּחַרְדָּל בְּבִיאָה רִאשׁוֹנָה, וּתְחַפֶּנָּה שִׁכְבַת זֶרַע בְּבִיאָה שְׁנִיָּה.
->
-> **Translation:** The mishna teaches that according to Beit Shammai it is permitted to engage in intercourse by the light of a lamp. In this regard, **the Sages taught** in a *baraita*: **Even though** the Sages **said** with regard to **one who engages in intercourse by the light of a lamp,** that **this is disgraceful, Beit Shammai say: A woman is required** to examine herself with **two cloths,** once before and once after **each** act of **intercourse, or** she must **engage in intercourse by the light of a lamp. And Beit Hillel say:** It is **sufficient** for her to examine herself **with two cloths throughout the night,** once before the first act of intercourse and once after the final act of intercourse. Beit Shammai says: **A woman is required** to examine herself with **two cloths,** once before and once after **each** act of **intercourse, or** she must **engage in intercourse by the light of a lamp, as perhaps she will see a drop of blood the size of a mustard seed during the first act of intercourse, and semen from the second act of intercourse will cover it.**
+> **Hebrew/Aramaic:** גְּמָ' תָּנוּ רַבָּנַן: אַף עַל פִּי שֶׁאָמְרוּ הַמְשַׁמֵּשׁ מִטָּתוֹ לְאוֹר הַנֵּר הֲרֵי זֶה מְגוּנֶּה, בֵּית שַׁמַּאי אוֹמְרִים: צְרִיכָה שְׁנֵי עֵדִים עַל כׇּל תַּשְׁמִישׁ, אוֹ תְּשַׁמֵּשׁ לְאוֹר הַנֵּר. וּבֵית הִלֵּל אוֹמְרִים: דַּיָּהּ בִּשְׁנֵי עֵדִים כׇּל הַלַּיְלָה.
+> **Translation:** GEMARA: The mishna teaches that according to Beit Shammai it is permitted to engage in intercourse by the light of a lamp. In this regard, **the Sages taught** in a *baraita*: **Even though** the Sages **said** with regard to **one who engages in intercourse by the light of a lamp,** that **this is disgraceful, Beit Shammai say: A woman is required** to examine herself with **two cloths,** once before and once after **each** act of **intercourse, or** she must **engage in intercourse by the light of a lamp. And Beit Hillel say:** It is **sufficient** for her to examine herself **with two cloths throughout the night,** once before the first act of intercourse and once after the final act of intercourse.
+
+> **Hebrew/Aramaic:** תַּנְיָא: אָמְרוּ לָהֶם בֵּית שַׁמַּאי לְבֵית הִלֵּל: לְדִבְרֵיכֶם, לֵיחוּשׁ שֶׁמָּא תִּרְאֶה טִיפַּת דָּם כְּחַרְדָּל בְּבִיאָה רִאשׁוֹנָה, וּתְחַפֶּנָּה שִׁכְבַת זֶרַע בְּבִיאָה שְׁנִיָּה.
+> **Translation:** It **is taught** in a *baraita* that **Beit Shammai said to Beit Hillel: According to your statement** that a woman may engage in intercourse several times in one night without an examination between each act of intercourse, **let us be concerned lest she will see,** i.e., emit, **a drop of blood the size of a mustard** seed **during the first** act of **intercourse,** and will thereby become impure, **and semen from the second** act of **intercourse will cover it.** Since the examination after the last act of intercourse will not reveal the drop of blood, the woman will erroneously think she is pure.
 
 The *Gemara* now presents the *baraisa* that records the actual exchange between Beit Shammai and Beit Hillel. It opens with the observation that undergirds Beit Shammai's stringency. Even though having relations by lamplight is called *meguneh* — vulgar or unseemly — as we will discuss in the next *sugya*, nevertheless Beit Shammai insists: *tzaricha shnei eidim al kol tashmish ve-tashmish, o tashmish l'or* — either fresh cloths per act or a lamp burning in the room so the cloth can be examined between acts. The core concern Beit Shammai articulates: *shema tira tipat dam ke-chardal be-vi'ah rishona ve-tachapennah shechvat zera be-vi'ah shniyah* — perhaps she will have bled a drop of blood as small as a mustard seed during the first act, and the semen from the second act will cover over and mask that blood on the cloth. So using the same cloth for multiple acts means the second check may produce a false negative, obscuring evidence of bleeding that occurred during the first act.
 
 ### Hillel Response
 
 > **Hebrew/Aramaic:** אָמְרוּ לָהֶם בֵּית הִלֵּל: אַף לְדִבְרֵיכֶם, לֵיחוּשׁ עַד שֶׁהָרוֹק בְּתוֹךְ הַפֶּה, שֶׁמָּא נִימּוֹק וְהוֹלֵךְ לוֹ.
->
 > **Translation:** **Beit Hillel said to them** in response: **Even according to your statement, let us be concerned** that **while the saliva** was still **in the mouth,** i.e., while the blood was in her vagina, **perhaps it was squashed and disappeared.** Even if she examines herself after each act of intercourse, as mandated by Beit Shammai, it is possible that the semen of that act covered the blood, and it will not be revealed by the examination.
 
 Beit Hillel responds: *af le-divreichem* — even according to your own position, *lechu she-harok she-betoch ha-peh* — while the "spit" is still within, meaning while the semen is still within the woman's body during a single act, other fluids are already present and could already be masking blood. No check, even if performed after a single act, can be guaranteed to be accurate, because blood could have dissolved or been masked even within that single encounter. *Shema nimmok ve-halach lo* — perhaps the blood dissolved and disappeared before the check. If you are concerned about masking, there will always be masking, and no check system will ever be perfectly reliable.
@@ -333,7 +351,6 @@ Beit Hillel responds: *af le-divreichem* — even according to your own position
 ### Shammai Counter
 
 > **Hebrew/Aramaic:** אָמְרוּ לָהֶם: לְפִי שֶׁאֵינוֹ דּוֹמֶה נִימּוֹק פַּעַם אַחַת, לְנִימּוֹק שְׁתֵּי פְּעָמִים.
->
 > **Translation:** Beit Shammai **said to** Beit Hillel: One cannot compare the two situations, **as a squashed** drop of blood after the woman has engaged in intercourse **once is not similar to a squashed** drop of blood after the woman has engaged in intercourse **twice,** and therefore our concern is more reasonable.
 
 Beit Shammai is unmoved: *lefi she-eino domeh nimmok pa'am achat le-nimmok shtei pe'amim* — it is not comparable to have something masked once versus having it masked multiple times. A single check, even if imperfect, involves one layer of potential masking. Multiple checks on the same cloth multiply the layers of potential masking, and that graduated risk is meaningful. The more opportunities for evidence to be covered over, the worse the evidentiary picture becomes. Therefore Beit Shammai maintains that separate cloths for each act — or examination between acts — is required.
@@ -342,15 +359,17 @@ Beit Shammai is unmoved: *lefi she-eino domeh nimmok pa'am achat le-nimmok shtei
 
 ## Yehoshua Stringency
 
-### Students' Complaint
 
-> **Hebrew/Aramaic:** תַּנְיָא, אָמַר רַבִּי יְהוֹשֻׁעַ: רוֹאֶה אֲנִי אֶת דִּבְרֵי בֵּית שַׁמַּאי. אָמְרוּ לוֹ תַּלְמִידָיו: רַבִּי, כַּמָּה הֶאֱרַכְתָּ עָלֵינוּ! אָמַר לָהֶם: מוּטָב שֶׁאַאֲרִיךְ עֲלֵיכֶם בָּעוֹלָם הַזֶּה, כְּדֵי שֶׁיַּאֲרִיכוּ יְמֵיכֶם לָעוֹלָם הַבָּא.
->
-> **Translation:** It **is taught** in a *baraita* that **Rabbi Yehoshua said: I see** as correct **the statement of Beit Shammai** in this case. **His students said to him:** Our **teacher, how you have weighed [*he'erakhta*] us down** with this stringent ruling. Rabbi Yehoshua **said to them: It is preferable that I weigh you down in this world, so that** you do not sin by engaging in prohibited intercourse, i.e., so that **your days in the World-to-Come will be lengthened [*sheya'arikhu*].**
+
+### Students' Complaint
 
 A *baraisa* records that Rabbi Yehoshua said: *ro'eh ani et divrei Beit Shammai* — I find Beit Shammai's position compelling. His students reacted: *Rebbi, harachta alainu* — Rabbi, you have placed too great a burden upon us! The demands of Beit Shammai — separate cloths for each act, or examination by lamplight between each interval — are onerous. Is this really what you are requiring of us?
 
+> **Hebrew/Aramaic:** תַּנְיָא, אָמַר רַבִּי יְהוֹשֻׁעַ: רוֹאֶה אֲנִי אֶת דִּבְרֵי בֵּית שַׁמַּאי. אָמְרוּ לוֹ תַּלְמִידָיו: רַבִּי, כַּמָּה הֶאֱרַכְתָּ עָלֵינוּ! אָמַר לָהֶם: מוּטָב שֶׁאַאֲרִיךְ עֲלֵיכֶם בָּעוֹלָם הַזֶּה, כְּדֵי שֶׁיַּאֲרִיכוּ יְמֵיכֶם לָעוֹלָם הַבָּא.
+> **Translation:** It **is taught** in a *baraita* that **Rabbi Yehoshua said: I see** as correct **the statement of Beit Shammai** in this case. **His students said to him:** Our **teacher, how you have weighed [*he’erakhta*] us down** with this stringent ruling. Rabbi Yehoshua **said to them: It is preferable that I weigh you down in this world, so that** you do not sin by engaging in prohibited intercourse, i.e., so that **your days in the World-to-Come will be lengthened [*sheya’arikhu*].**
+
 ### Yehoshua Response
+
 
 Rabbi Yehoshua responded: *mutav she-aarich aleichem ba-olam ha-zeh kedei she-ya'arichu yemeichem la-olam ha-ba* — it is better that I place greater demands upon you in this world, so that your days may be lengthened in the world to come. The wordplay on *harachta* — lengthened — is deliberate: I will lengthen the demands on you in *this* world so that your days may be lengthened in the *next*.
 
@@ -360,11 +379,12 @@ It should be noted that this entire discussion of checking before and after *tas
 
 ## Taharot to Issur
 
+
+
 ### No Double Relations
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא: מִדִּבְרֵי כּוּלָּם נִלְמַד, בַּעַל נֶפֶשׁ — לֹא יִבְעוֹל וְיִשְׁנֶה. רָבָא אָמַר: בּוֹעֵל וְשׁוֹנָה, כִּי תַנְיָא הַהִיא — לִטְהָרוֹת.
->
-> **Translation:** **Rabbi Zeira says: From the statements of all of them,** i.e., both Beit Shammai, who permit engaging in intercourse a second time only after an examination, and Beit Hillel, who rule that the second examination must be performed only after the final act of intercourse of the night, **we can learn** that their dispute relates only to that which is permitted after the fact. But **a pious person [*ba'al nefesh*] should not engage in intercourse and repeat** his act without an examination between each act. **Rava says:** Even a pious person **may engage in intercourse and repeat** the act without an examination in between, as **when that** *baraita* **is taught,** it is referring **to** a woman who handles **pure items.** But with regard to intercourse with her husband, there is no cause for concern.
+> **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא: מִדִּבְרֵי כּוּלָּם נִלְמַד, בַּעַל נֶפֶשׁ — לֹא יִבְעוֹל וְיִשְׁנֶה.
+> **Translation:** § **Rabbi Zeira says: From the statements of all of them,** i.e., both Beit Shammai, who permit engaging in intercourse a second time only after an examination, and Beit Hillel, who rule that the second examination must be performed only after the final act of intercourse of the night, **we can learn** that their dispute relates only to that which is permitted after the fact. But **a pious person [*ba’al nefesh*] should not engage in intercourse and repeat** his act without an examination between each act.
 
 Rabbi Zeira draws a broader practical lesson from the positions of all the *Tannaim* discussed: *mi-divrei kulam nilmad* — from what all of them say, we may derive that *ba'al nefesh lo yivol ve-yishneh* — a person of genuine piety should not have relations twice in the same night. The reasoning: even if no one explicitly prohibits a second act, the concern that *tashmish* may trigger bleeding — which is why the *Chachamim* instituted checking — means that a second act places the couple in a position of doubt that they could have avoided. Even according to Beit Hillel, who does not demand fresh cloths, there remains an underlying concern that bleeding could have occurred. A *ba'al nefesh*, conscious of these concerns, should therefore not put himself in the situation of a second act, since the concern of bleeding following *tashmish* is real, and why create the doubt?
 
@@ -372,61 +392,73 @@ Rabbi Zeira draws a broader practical lesson from the positions of all the *Tann
 
 Rava, however, disagrees sharply: *bo ve-shoneh* — one may go ahead and have relations multiple times. His reasoning: *ki tanya hi le-taharah* — this entire discussion — all of the checking requirements, the debates about cloths, the concern about masking — applies only in the world of *taharos*. When a couple is *asukah be-taharos* and the practices of *tum'ah ve-tahara* are operative, there are heightened concerns across the board, and those concerns translate into requirements of checking. But these requirements and concerns do not translate into a practical prohibition against having relations in the ordinary sense. Accordingly, the halachic discourse around checking does not create an *issur* outside the context of *taharot*.
 
-It is worth noting that other *Gemaros* — in *Pesachim* and elsewhere — actually speak positively of having relations multiple times at night, addressing the wife's sexual needs and gratification and the husband's responsibility to attend to them. There is thus an interesting tension: one *sugya* questions a second act on grounds of piety in the world of *taharot*, while another *sugya* actually encourages it for reasons of *shalom bayis* and the wife's satisfaction. The practical *halacha* follows Rava: outside the context of *taharot*, there is no prohibition.
+It is worth noting that other *Gemaros* — in *Pesachim* and elsewhere — actually speak positively of having relations multiple times at night, addressing the wife's sexual needs and gratification and the husband's responsibility to attend to them. There is thus an interesting tension: one *sugya* questions a second act on grounds of piety in the world of *taharos*, while another *sugya* actually encourages it for reasons of *shalom bayis* and the wife's satisfaction. The practical *halacha* follows Rava: outside the context of *taharos*, there is no prohibition.
+
+> **Hebrew/Aramaic:** רָבָא אָמַר: בּוֹעֵל וְשׁוֹנָה, כִּי תַנְיָא הַהִיא — לִטְהָרוֹת.
+> **Translation:** **Rava says:** Even a pious person **may engage in intercourse and repeat** the act without an examination in between, as **when that** *baraita* **is taught,** it is referring **to** a woman who handles **pure items.** But with regard to intercourse with her husband, there is no cause for concern.
 
 ### Status Quo Principle
 
-> **Hebrew/Aramaic:** תַּנְיָא נָמֵי הָכִי: בַּמֶּה דְבָרִים אֲמוּרִים — לִטְהָרוֹת, אֲבָל לְבַעְלָהּ — מוּתֶּרֶת. וּבַמֶּה דְּבָרִים אֲמוּרִים — שֶׁהִנִּיחָהּ בְּחֶזְקַת טׇהֳרָה, אֲבָל הִנִּיחָהּ בְּחֶזְקַת טְמֵאָה — לְעוֹלָם הִיא בְּחֶזְקָתָהּ, עַד שֶׁתֹּאמַר לוֹ ״טְהוֹרָה אֲנִי״.
->
-> **Translation:** **This** opinion **is also taught** in a *baraita*: **In what** case **is this statement said,** i.e., that a woman must examine herself before and after every act of intercourse according to Beit Shammai, or before the first act and after the last act, according to Beit Hillel? It was said **with regard to** a woman who handles **pure items; but** a woman **is permitted to her husband** even without any examination, and he is not required to ask her if she is pure. **But in what** case **is this** lenient **statement said? When** her husband traveled and **left her with the presumptive status of ritual purity. But** if he **left her with the presumptive status of ritual impurity,** she remains **forever in her presumptive status** of impurity **until she says to him: I am pure.**
-
 From within the *baraisa*, the *Gemara* also articulates a broader principle governing the practical *issur* of *niddah*: *she-hinnicha be-chezkas tahara* — when the husband left his wife in a status of *tahara*, the default assumption in his absence is that she remains *tehora*, and he may proceed on that assumption. *Aval hinnicha be-chezkas teme'ah* — but if he left her in a status of *tum'ah*, she retains that status and is presumed *teme'ah le-olam hi be-chezkatah* — until she explicitly tells him *tehora ani*. This echoes the broader principle established earlier: *chazaka* of status quo holds until actively displaced by new information.
+
+> **Hebrew/Aramaic:** תַּנְיָא נָמֵי הָכִי: בַּמֶּה דְבָרִים אֲמוּרִים — לִטְהָרוֹת, אֲבָל לְבַעְלָהּ — מוּתֶּרֶת. וּבַמֶּה דְּבָרִים אֲמוּרִים — שֶׁהִנִּיחָהּ בְּחֶזְקַת טׇהֳרָה, אֲבָל הִנִּיחָהּ בְּחֶזְקַת טְמֵאָה — לְעוֹלָם הִיא בְּחֶזְקָתָהּ, עַד שֶׁתֹּאמַר לוֹ ״טְהוֹרָה אֲנִי״.
+> **Translation:** **This** opinion **is also taught** in a *baraita*: **In what** case **is this statement said,** i.e., that a woman must examine herself before and after every act of intercourse according to Beit Shammai, or before the first act and after the last act, according to Beit Hillel? It was said **with regard to** a woman who handles **pure items; but** a woman **is permitted to her husband** even without any examination, and he is not required to ask her if she is pure. **But in what** case **is this** lenient **statement said? When** her husband traveled and **left her with the presumptive status of ritual purity. But** if he **left her with the presumptive status of ritual impurity,** she remains **forever in her presumptive status** of impurity **until she says to him: I am pure.**
 
 ### Lost Cloth Rule
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי אַבָּא, אָמַר רַבִּי חִיָּיא בַּר אָשֵׁי, אָמַר רַב: בָּדְקָה בְּעֵד וְאָבַד — אֲסוּרָה לְשַׁמֵּשׁ עַד שֶׁתִּבְדּוֹק. מַתְקֵיף לַהּ רַבִּי אִילָא: אִילּוּ אִיתֵאּ — מִי לָא מְשַׁמְּשָׁה, וְאַף עַל גַּב דְּלָא יָדְעָה? הַשְׁתָּא נָמֵי תְּשַׁמֵּשׁ!
->
-> **Translation:** § **Rabbi Abba says** that **Rabbi Ḥiyya bar Ashi says** that **Rav says:** If a woman **examined** herself at night **with a cloth, and** the cloth **was** then immediately **lost, it is prohibited for her to engage in intercourse** again **until she examines** herself with another cloth, as perhaps there was blood on the cloth that was lost. **Rabbi Ila objects to this: If** this cloth **were intact,** i.e., if it were not lost, **couldn't** this woman **engage in intercourse** with her husband that night, on the basis that she will examine the cloth only the following day, **and** isn't this the *halakha* **even though she does not know** at the time of intercourse whether there is blood on the cloth? **Now too,** although the cloth is lost, **let her engage in intercourse** with her husband.
+
 
 A new case: *badka be-ed ve-avad* — she performed a *bedikah* with a cloth and then the cloth was lost before she could examine it. The ruling: *assurah le-shamesh ad she-tibdok* — she may not have relations until she performs a new *bedikah* and examines the result. The question arises: in a world of *taharos*, where there is a concern that *tashmish* may cause bleeding, the couple cannot proceed without evidence. If the evidence — the cloth — has been lost, what do they do? The ruling is that she must check again.
 
+It is worth pausing here to flag something significant about this ruling, because it bears directly on a broader question: this is the first moment within the context of *assuka be-taharos* — the framework of *taharos* concerns and pre- or post-coital checking — where we explicitly encounter the consequence of *assurah le-shamesh*, a prohibition on marital relations. Although the entire framework originates in the world of *taharos*, and these checks and concerns are in principle driven by the requirements of that world, the *Gemara* is now making clear that being situated in that world carries real consequences for whether the couple may have relations at all. Once you are operating under the concern of *taharos*, it will translate into a prohibition for husband and wife until the required check is performed and its result examined. The *Gemara* here seems quite deliberately to be drawing that line.
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אַבָּא, אָמַר רַבִּי חִיָּיא בַּר אָשֵׁי, אָמַר רַב: בָּדְקָה בְּעֵד וְאָבַד — אֲסוּרָה לְשַׁמֵּשׁ עַד שֶׁתִּבְדּוֹק. מַתְקֵיף לַהּ רַבִּי אִילָא: אִילּוּ אִיתֵאּ — מִי לָא מְשַׁמְּשָׁה, וְאַף עַל גַּב דְּלָא יָדְעָה? הַשְׁתָּא נָמֵי תְּשַׁמֵּשׁ!
+> **Translation:** § **Rabbi Abba says** that **Rabbi Ḥiyya bar Ashi says** that **Rav says:** If a woman **examined** herself at night **with a cloth, and** the cloth **was** then immediately **lost, it is prohibited for her to engage in intercourse** again **until she examines** herself with another cloth, as perhaps there was blood on the cloth that was lost. **Rabbi Ila objects to this: If** this cloth **were intact,** i.e., if it were not lost, **couldn’t** this woman **engage in intercourse** with her husband that night, on the basis that she will examine the cloth only the following day, **and** isn’t this the *halakha* **even though she does not know** at the time of intercourse whether there is blood on the cloth? **Now too,** although the cloth is lost, **let her engage in intercourse** with her husband.
+
 ### Ila Challenge
+
 
 Rabbi Ila challenges this: if she had checked and the cloth remained in existence — even unexamined until the following morning — she could have relations again that night. The couple does not need to inspect the cloth immediately; they wait until the next morning. So even without knowing the result, they proceed. Why then, if the cloth was lost, should she be forbidden? If the unexamined cloth is no impediment to relations, then the absence of the cloth should be equally no impediment.
 
 ### Rava's Logic
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבָא: זוֹ מוֹכִיחָהּ קַיָּים, וְזוֹ אֵין מוֹכִיחָהּ קַיָּים.
->
-> **Translation:** **Rava said to him:** There is a difference between the two cases, as when the cloth is intact, **this** woman's **proof exists,** and if she discovers on the following day that she was impure they will be obligated to bring sin offerings for engaging in intercourse in a state of ritual impurity. **But** with regard to **that** woman who lost her cloth, **her proof does not exist,** and therefore they will never know if they require atonement.
+> **Translation:** **Rava said to him:** There is a difference between the two cases, as when the cloth is intact, **this** woman’s **proof exists,** and if she discovers on the following day that she was impure they will be obligated to bring sin offerings for engaging in intercourse in a state of ritual impurity. **But** with regard to **that** woman who lost her cloth, **her proof does not exist,** and therefore they will never know if they require atonement.
 
-Rava responds: *zu mochia'ha qayim, ve-zu ein mochia'ha qayim* — in one case there is evidence that can be examined later; in the other, there is no evidence that can be examined later. This distinction is crucial. The reason the couple can proceed without examining the cloth immediately is that the underlying concern is at a low level. It is not a high-level concern that she is actually a *niddah*; it is a concern rooted in the world of *taharot*, where heightened vigilance is appropriate. Because it is a low-level concern, the couple can wait until the morning to examine the evidence. But that leniency depends entirely on the fact that the evidence *exists* and *will* be examined. Once the cloth is lost and there is no evidence to examine, the situation changes: the low-level concern cannot be resolved at all, and in a world of *taharot* where we have said that checking is required and cannot be waived, we now say the couple cannot proceed until a new check is performed. If the concern were high-level — if she were actually in danger of being a *niddah* — we would demand immediate examination. The fact that we allow waiting until morning shows the concern is low-level, but the ability to wait is predicated on the existence of eventual evidence.
+Rava responds: *zu mochia'ha ve-zu eina mochia'ha* — in one case there is evidence that can be examined later; in the other, there is no evidence that can be examined later. This distinction is crucial. The reason the couple can proceed without examining the cloth immediately is that the underlying concern is at a low level. It is not a high-level concern that she is actually a *niddah*; it is a concern rooted in the world of *taharos*, where heightened vigilance is appropriate. Because it is a low-level concern, the couple can wait until the morning to examine the evidence. But that leniency depends entirely on the fact that the evidence *exists* and *will* be examined. Once the cloth is lost and there is no evidence to examine, the situation changes: the low-level concern cannot be resolved at all, and in a world of *taharos* where we have said that checking is required and cannot be waived, we now say the couple cannot proceed until a new check is performed. If the concern were high-level — if she were actually in danger of being a *niddah* — we would demand immediate examination. The fact that we allow waiting until morning shows the concern is low-level, but the ability to wait is predicated on the existence of eventual evidence.
 
-Rashi adds an important dimension: the entire checking system is rooted in *taharot*, not in the *issur* of *bi'ah*. The concern is not primarily whether she is a *niddah* in the forbidden-relations sense; it is whether contact will render *taharos* impure. Therefore, in ordinary circumstances — outside a world of *taharot* — the checking requirement does not apply at all. But within that world, the requirement of evidence cannot simply be waived, and its loss triggers a requirement to generate new evidence before proceeding.
+Rashi adds an important dimension: the entire checking system is rooted in *taharos*, not in the *issur* of *bi'ah*. The concern is not primarily whether she is a *niddah* in the forbidden-relations sense; it is whether contact will render *taharos* impure. Therefore, in ordinary circumstances — outside a world of *taharos* — the checking requirement does not apply at all. But within that world, the requirement of evidence cannot simply be waived, and its loss triggers a requirement to generate new evidence before proceeding.
 
 ---
 
 ## Daytime Relations
 
+
+
 ### Daytime Prohibition
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: אָסוּר לָאָדָם שֶׁיְּשַׁמֵּשׁ מִטָּתוֹ בַּיּוֹם. אָמַר רַב הַמְנוּנָא: מַאי קְרָא? שֶׁנֶּאֱמַר: ״יֹאבַד יוֹם אִוָּלֶד בּוֹ וְהַלַּיְלָה אָמַר הוֹרָה גָבֶר״ — לַיְלָה נִיתַּן לְהֵרָיוֹן, וְיוֹם לֹא נִיתַּן לְהֵרָיוֹן.
->
-> **Translation:** **Rabbi Yoḥanan says: It is prohibited for a person to engage in intercourse by day. Rav Hamnuna says: What is the verse** from which this is derived? **As it is stated: "Let the day perish on which I was born, and the night on which it was said: Conceived is a man-child"** (Job 3:3). It is derived from here that **nighttime is meant for conception, but daytime is not meant for conception.**
+Having concluded the discussion of *taharos*, the *Gemara* turns to a new topic that will be developed further in the next session: the conditions and circumstances under which marital relations are or are not appropriate. Rabbi Yochanan rules: *assur le-adam she-yishamesh mitato ba-yom* — it is forbidden for a man to have relations with his wife in the daytime.
 
-Having concluded the discussion of *taharot*, the *Gemara* turns to a new topic that will be developed further in the next session: the conditions and circumstances under which marital relations are or are not appropriate. Rabbi Yochanan rules: *assur le-adam she-yishamesh mitato ba-yom* — it is forbidden for a man to have relations with his wife in the daytime.
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: אָסוּר לָאָדָם שֶׁיְּשַׁמֵּשׁ מִטָּתוֹ בַּיּוֹם. אָמַר רַב הַמְנוּנָא: מַאי קְרָא? שֶׁנֶּאֱמַר: ״יֹאבַד יוֹם אִוָּלֶד בּוֹ וְהַלַּיְלָה אָמַר הוֹרָה גָבֶר״ — לַיְלָה נִיתַּן לְהֵרָיוֹן, וְיוֹם לֹא נִיתַּן לְהֵרָיוֹן. רֵישׁ לָקִישׁ אָמַר מֵהָכָא: ״בּוֹזֵה דְרָכָיו יָמוּת״.
+> **Translation:** § **Rabbi Yoḥanan says: It is prohibited for a person to engage in intercourse by day. Rav Hamnuna says: What is the verse** from which this is derived? **As it is stated: “Let the day perish on which I was born, and the night on which it was said: Conceived is a man-child”** (Job 3:3). It is derived from here that **nighttime is meant for conception, but daytime is not meant for conception. Reish Lakish says** that the proof is **from here: “But he who despises his ways shall die”** (Proverbs 19:16). One might see something unpleasing in his wife in the daylight and come to despise her.
+
+> **Hebrew/Aramaic:** וְרֵישׁ לָקִישׁ, הַאי קְרָא דְּרַבִּי יוֹחָנָן מַאי דָּרֵישׁ בֵּיהּ? מִבָּעֵי לֵיהּ לְכִדְדָרֵישׁ רַבִּי חֲנִינָא בַּר פָּפָּא, דְּדָרֵישׁ רַבִּי חֲנִינָא בַּר פָּפָּא: אוֹתוֹ מַלְאָךְ הַמְמוּנֶּה עַל הַהֵרָיוֹן ״לַיְלָה״ שְׁמוֹ, וְנוֹטֵל טִפָּה וּמַעֲמִידָהּ לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא, וְאוֹמֵר לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, טִפָּה זוֹ מָה תְּהֵא עָלֶיהָ? גִּבּוֹר אוֹ חַלָּשׁ? חָכָם אוֹ טִיפֵּשׁ? עָשִׁיר אוֹ עָנִי?
+> **Translation:** The Gemara asks: **And how does Reish Lakish interpret this verse** cited **by Rabbi Yoḥanan?** The Gemara answers that **he requires** that verse **for that which Rabbi Ḥanina bar Pappa taught. As Rabbi Ḥanina bar Pappa interpreted** that verse in the following manner: **That angel that is appointed over conception is called: Night. And** that angel **takes** the **drop** of semen from which a person will be formed **and presents it before the Holy One, Blessed be He, and says before Him: Master of the Universe, what will be of this drop?** Will the person fashioned from it be **mighty or weak?** Will he be **clever or stupid?** Will he be **wealthy or poor?**
+
+> **Hebrew/Aramaic:** וְאִילּוּ רָשָׁע אוֹ צַדִּיק לָא קָאָמַר, כִּדְרַבִּי חֲנִינָא. דְּאָמַר רַבִּי חֲנִינָא: הַכֹּל בִּידֵי שָׁמַיִם, חוּץ מִיִּרְאַת שָׁמַיִם, שֶׁנֶּאֱמַר: ״וְעַתָּה יִשְׂרָאֵל מָה ה׳ אֱלֹהֶיךָ שׁוֹאֵל מֵעִמָּךְ כִּי אִם לְיִרְאָה וְגוֹ׳״.
+> **Translation:** The Gemara notes: **But** this angel **does not say:** Will he be **wicked or righteous?** This is **in accordance with** a statement **of Rabbi Ḥanina, as Rabbi Ḥanina said: Everything is in the hand of Heaven, except for fear of Heaven.** People have free will to serve God or not, **as it is stated: “And now, Israel, what does the Lord your God ask of you other than to fear** the Lord your God” (Deuteronomy 10:12). The fact that God asks of the Jewish people to fear Him indicates that it is a person’s choice to do so.
+
+> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן, אִם כֵּן נִכְתּוֹב קְרָא ״גֶּבֶר הוֹרָה״, מַאי ״הוֹרָה גֶּבֶר״? לַיְלָה נִיתַּן לְהֵרָיוֹן, וְיוֹם לֹא נִיתַּן לְהֵרָיוֹן.
+> **Translation:** The Gemara explains: **And Rabbi Yoḥanan** derives two *halakhot* from the verse “and the night on which it was said: Conceived is a man-child,” as he holds as follows: **If so,** i.e., if it is referring only to the statement of the angel, **let the verse write:** And the night that said: **A man-child is conceived. What** is the meaning of: **“Conceived is a man-child”?** It is derived from the juxtaposition of the word “night” and the word “conceived” that **nighttime is meant for conception but daytime is not meant for conception.**
 
 ### Conception Verse
+
 
 Rav Huna is cited as offering a scriptural basis. He quotes from *Iyov*: *Yovad yom ivaled bo, ve-halailah amar horah gaver* — "Let the day perish on which I was born, and the night which said 'a man was conceived.'" Conception is associated with night in this verse. Rav Huna draws the inference: *laila nitan le-herayon, ve-yom lo nitan le-herayon* — conception is given to the night; the day is not given to conception. Daytime relations are thus less conducive to the purpose of *pru u-rvu*. One might note that this framing subtly implies that what makes the act of relations licit is tied to the possibility of conception — though the *Gemara* leaves that implication implicit.
 
 ### Vulgarization
 
-> **Hebrew/Aramaic:** רֵישׁ לָקִישׁ אָמַר מֵהָכָא: ״בּוֹזֵה דְרָכָיו יָמוּת״.
->
-> **Translation:** **Reish Lakish says** that the proof is **from here: "But he who despises his ways shall die"** (Proverbs 19:16). One might see something unpleasing in his wife in the daylight and come to despise her.
-
-Reish Lakish offers a different source: *bozeh drachav yamut* — "one who vulgarizes his ways shall die." The word *drachav* — "his ways" — is interpreted as referring to sexual behavior. One who treats sexual relations in a degraded, exposed manner has committed a form of *bizayon*, and the verse implies dire consequences.
+Resh Lakish offers a different source: *bozeh drachav yamut* — "one who vulgarizes his ways shall die." The word *drachav* — "his ways" — is interpreted as referring to sexual behavior. One who treats sexual relations in a degraded, exposed manner has committed a form of *bizayon*, and the verse implies dire consequences.
 
 ### Rashi Reframe
 

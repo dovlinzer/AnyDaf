@@ -1,0 +1,263 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Source & Mishna Conflict",
+    "candidates": [
+      "Radical Position Stated",
+      "Source & Mishna Conflict",
+      "Rabbi Zechariah Challenge",
+      "Matot Drasha Explained",
+      "Twin Implications",
+      "Zechariah: Daughters",
+      "Nephews Before Nieces"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Yochanan confronting Rabbi Yehuda ben Shimon's ruling with the mishna and his dismissal of it, which is exactly what the 'Source & Mishna Conflict' prose describes.",
+      "chosen_heading": "Source & Mishna Conflict",
+      "current_heading": "Source & Mishna Conflict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Nephews Before Nieces",
+    "candidates": [
+      "Rabbi Zechariah Challenge",
+      "Matot Drasha Explained",
+      "Twin Implications",
+      "Zechariah: Daughters",
+      "Nephews Before Nieces",
+      "Yoreshet Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items form a continuous argument explaining why the mishna cannot be attributed to Rabbi Zechariah ben HaKatzav \u2014 the gemara raises the suggestion, then refutes it by showing the mishna's nephews-before-nieces ruling contradicts Rabbi Zechariah's view that sons and daughters inherit equally from their mother \u2014 which is exactly what candidate 4's prose describes.",
+      "chosen_heading": "Nephews Before Nieces",
+      "current_heading": "Nephews Before Nieces",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Yoreshet Resolution",
+    "candidates": [
+      "Yoreshet Resolution",
+      "Two-Part Drasha",
+      "Intro to Order",
+      "Descendants Priority",
+      "Replacement Principle",
+      "Gender Blindness Query",
+      "Full Hierarchy Listed",
+      "Father's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the mi-manafshach challenge and its yoreshet resolution, which is precisely what the 'Yoreshet Resolution' prose describes \u2014 the gemara's framing of the dilemma and the answer that the mishna expounds matot but yoreshet limits its scope to downward transmission.",
+      "chosen_heading": "Yoreshet Resolution",
+      "current_heading": "Yoreshet Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Father's Position",
+    "candidates": [
+      "Two-Part Drasha",
+      "Intro to Order",
+      "Descendants Priority",
+      "Replacement Principle",
+      "Gender Blindness Query",
+      "Full Hierarchy Listed",
+      "Father's Position",
+      "Recursive Pattern",
+      "Two-Rule Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself introducing the order of inheritance (seder nachalos), which the 'Intro to Order' prose explicitly describes as the mishna supplying the priority structure after the prior mishna established categories \u2014 making it the natural home for this introductory mishna text.",
+      "chosen_heading": "Intro to Order",
+      "current_heading": "Father's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Two-Rule Summary",
+    "candidates": [
+      "Recursive Pattern",
+      "Two-Rule Summary",
+      "Baraita on Descent",
+      "Ayin Alav Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the two-part recursive principle (descendants of whoever precedes also precede; the father precedes all his descendants), which directly encapsulates the 'down as far as possible, then up one step, then down again' recursive pattern described in the 'Recursive Pattern' prose, rather than the 'Two-Rule Summary' section's focus on son-before-daughter as the first rule.",
+      "chosen_heading": "Recursive Pattern",
+      "current_heading": "Two-Rule Summary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Ayin Alav Drasha",
+    "candidates": [
+      "Baraita on Descent",
+      "Ayin Alav Drasha",
+      "Female Line Extension",
+      "Nachala Metaphor",
+      "Tribal Safeguard",
+      "No Tribe Extinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita text (tanu rabbanan) that asks how we derive extension through son's and daughter's descendants \u2014 this is the baraita content described in candidate 0, while candidate 1 ('Ayin Alav Drasha') covers the interpretive explanation of the ein/ayen drasha that follows, and candidate 2 covers the daughter's line extension as a separate prose section; the baraita itself belongs under 'Baraita on Descent'.",
+      "chosen_heading": "Baraita on Descent",
+      "current_heading": "Ayin Alav Drasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "No Tribe Extinction",
+    "candidates": [
+      "Female Line Extension",
+      "Nachala Metaphor",
+      "Tribal Safeguard",
+      "No Tribe Extinction",
+      "No Heirs Found",
+      "Rav Huna: Equal Inherit",
+      "Nasi Authority Limited",
+      "Sadducean Attribution",
+      "Megillat Taanit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question of why the chain stops at Reuven rather than extending to Yaakov, which is precisely what the 'Tribal Safeguard' section's prose discusses \u2014 the question of why not go back to Yaakov and down through other tribes.",
+      "chosen_heading": "Tribal Safeguard",
+      "current_heading": "No Tribe Extinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Megillat Taanit",
+    "candidates": [
+      "No Heirs Found",
+      "Rav Huna: Equal Inherit",
+      "Nasi Authority Limited",
+      "Sadducean Attribution",
+      "Megillat Taanit",
+      "Old Man's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's statement about the daughter not inheriting with the granddaughter AND the Sadducean attribution/Megillat Taanit source, but its opening content \u2014 'kol ha-omer tirash bat im bat ha-ben' \u2014 is exactly what candidate 1's prose discusses as its primary subject, making it the best home for this passage.",
+      "chosen_heading": "Rav Huna: Equal Inherit",
+      "current_heading": "Megillat Taanit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Old Man's Logic",
+    "candidates": [
+      "Megillat Taanit",
+      "Old Man's Logic",
+      "Anah Derasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rabban Yochanan ben Zakkai calling them 'imbeciles' and the one old man offering the a fortiori argument, which is precisely what the 'Old Man's Logic' section prose describes.",
+      "chosen_heading": "Old Man's Logic",
+      "current_heading": "Old Man's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Anah Derasha",
+    "candidates": [
+      "Anah Derasha",
+      "Anah Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the two contradictory verses about Zibeon/Anah and the teaching that Zibeon fathered Anah, which matches exactly what heading 0's prose describes \u2014 the citation of the verses and the immediate contradiction \u2014 before the resolution and further analysis covered in heading 1's prose.",
+      "chosen_heading": "Anah Derasha",
+      "current_heading": "Anah Derasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Anah Identity",
+    "candidates": [
+      "Anah Identity",
+      "Torah Superiority",
+      "Granddaughter Equivalence",
+      "Victory Established",
+      "Tzelofchad Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Anah Identity",
+      "first_confidence": "high",
+      "first_reason": "Item 1 resolves the 'two Anahs' objection using 'hu Anah,' which is precisely what the 'Anah Identity' prose discusses.",
+      "second_heading": "Torah Superiority",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 cover the Sadducee's dismissal, Rabban Yochanan ben Zakkai's 'imbecile' retort, the granddaughter/daughter distinction argument, and the victory declaration \u2014 matching the 'Torah Superiority,' 'Granddaughter Equivalence,' and 'Victory Established' sections, with item 2 fitting 'Torah Superiority' as the starting point of that exchange.",
+      "current_heading": "Anah Identity",
+      "moved": true
+    }
+  }
+]

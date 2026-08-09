@@ -1,0 +1,340 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Mincha & Single Use",
+    "candidates": [
+      "Mincha & Megilla Review",
+      "Drinking Order",
+      "Before Erasure",
+      "Tzir & Wearing",
+      "Mincha & Single Use",
+      "Forced to Drink",
+      "How Much Erased?",
+      "Manifestation Signs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The mishna covers all three cases (refusal before erasure, admission after erasure, refusal after erasure), and candidate 2 'Before Erasure' is where this mishna's discussion begins, making it the natural home for the full mishna text rather than 'Mincha & Single Use' which covers only a sub-detail of the first case.",
+      "chosen_heading": "Before Erasure",
+      "current_heading": "Mincha & Single Use",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Manifestation Signs",
+    "candidates": [
+      "Forced to Drink",
+      "How Much Erased?",
+      "Manifestation Signs",
+      "Removal & Impurity",
+      "Presumption Guilt",
+      "One-Three Years",
+      "Teaching Women",
+      "Ben Azzai & R. Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes both the physical signs AND the removal command ('hotziuha shelo tetamei ha'azara'), which matches heading 3 'Removal & Impurity' better than heading 2 'Manifestation Signs' \u2014 the passage combines both elements but the final clause about removal and impurity is the concluding point, and heading 3's prose explicitly quotes and discusses this exact phrase from the mishna.",
+      "chosen_heading": "Removal & Impurity",
+      "current_heading": "Manifestation Signs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Ben Azzai & R. Eliezer",
+    "candidates": [
+      "Removal & Impurity",
+      "Presumption Guilt",
+      "One-Three Years",
+      "Teaching Women",
+      "Ben Azzai & R. Eliezer",
+      "R. Yehoshua View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains both Ben Azzai's statement about teaching daughters Torah and Rabbi Eliezer's tiflut response, which matches the 'Teaching Women' section's prose that explicitly discusses Ben Azzai's reasoning and the direct dispute by Rabbi Eliezer, making it a better fit than the 'Ben Azzai & R. Eliezer' section which elaborates on implications already assuming the text has been presented.",
+      "chosen_heading": "Teaching Women",
+      "current_heading": "Ben Azzai & R. Eliezer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "R. Yehoshua View",
+    "candidates": [
+      "Ben Azzai & R. Eliezer",
+      "R. Yehoshua View",
+      "Two Accounts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yehoshua's statement about a woman preferring a kav with tiflut over nine kav with abstinence, and the list of world-eroders including isha prushah, which is precisely what the 'R. Yehoshua View' prose discusses in detail.",
+      "chosen_heading": "R. Yehoshua View",
+      "current_heading": "R. Yehoshua View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Two Accounts",
+    "candidates": [
+      "Two Accounts",
+      "Divine Work",
+      "Kankantom Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Meir's account of studying under Rabbi Akiva and then Rabbi Yishmael, which matches precisely the 'Two Accounts' section prose that summarizes this exact transmission and its content.",
+      "chosen_heading": "Two Accounts",
+      "current_heading": "Two Accounts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Kankantom Purpose",
+    "candidates": [
+      "Divine Work",
+      "Kankantom Purpose",
+      "Order Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly discuss the kankantom exchange \u2014 Rabbi Meir's use of iron sulfate, the Gemara's question about context, and the explanation that it guards against fly-smudging \u2014 which is precisely what the 'Kankantom Purpose' prose section describes.",
+      "chosen_heading": "Kankantom Purpose",
+      "current_heading": "Kankantom Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Order Contradiction",
+    "candidates": [
+      "Order Contradiction",
+      "Learning Sequence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the contradiction (the baraita challenge and the enumeration of two contradictions) which is exactly what the 'Order Contradiction' prose describes \u2014 the two contradictions in order of apprenticeship and who prohibited kankantom.",
+      "chosen_heading": "Order Contradiction",
+      "current_heading": "Order Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Learning Sequence",
+    "candidates": [
+      "Learning Sequence",
+      "Who Forbade?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the resolution of the contradiction in Rabbi Meir's learning sequence (serving Rabbi Akiva first vs. Rabbi Yishmael first), which precisely matches the 'Learning Sequence' section's prose.",
+      "chosen_heading": "Learning Sequence",
+      "current_heading": "Learning Sequence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Who Forbade?",
+    "candidates": [
+      "Who Forbade?",
+      "Parshat Sotah",
+      "Sefer vs. Mikdash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the unresolved contradiction about who forbade kankantom, which is exactly what the 'Who Forbade?' section's prose describes.",
+      "chosen_heading": "Who Forbade?",
+      "current_heading": "Who Forbade?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Sefer vs. Mikdash",
+    "candidates": [
+      "Parshat Sotah",
+      "Sefer vs. Mikdash",
+      "Megilla Reuse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabbi Meir's general rule permitting kankantom for all sacred writings except parshat sotah (item 1) and the dispute between Rabbi Yehuda and Rabbi Yaakov about which sotah passage is restricted, along with Rabbi Yirmiyah's explanation \u2014 all of which matches the 'Parshat Sotah' heading's prose precisely, while the current heading 'Sefer vs. Mikdash' discusses the downstream implications of that dispute rather than the baraita itself.",
+      "chosen_heading": "Parshat Sotah",
+      "current_heading": "Sefer vs. Mikdash",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Megilla Reuse",
+    "candidates": [
+      "Sefer vs. Mikdash",
+      "Megilla Reuse",
+      "Sudden Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's question about whose opinion the mishna follows regarding the timing of the sotah's reaction (while still drinking), which connects directly to the 'Sudden Fear' section's discussion of what happens to the woman during the ritual \u2014 the mishna's statement about her face turning green while drinking and the subsequent Amoraic dispute about Rabbi Shimon vs. Rabbi Akiva belong with the section discussing the physical effects on the sota woman, not with the 'Megilla Reuse' section which concerns the technical writing requirements of the megilla.",
+      "chosen_heading": "Sudden Fear",
+      "current_heading": "Megilla Reuse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Sudden Fear",
+    "candidates": [
+      "Sudden Fear",
+      "Fear Types",
+      "Three Months"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the question about why she must be removed, the challenge that a corpse is permitted in machaneh Leviyah, and Abaye's resolution about niddah from sudden fear \u2014 which is exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Sudden Fear",
+      "current_heading": "Sudden Fear",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Three Months",
+    "candidates": [
+      "Fear Types",
+      "Three Months",
+      "Nine Months"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly poses the question 'whose opinion is the mishna?' and identifies that it is not Abba Yosei ben \u1e24anan, Rabbi Elazar ben Yitz\u1e25ak, or Rabbi Yishmael \u2014 which is precisely the introductory question that the 'Three Months' section's prose discusses as its opening inquiry.",
+      "chosen_heading": "Three Months",
+      "current_heading": "Three Months",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Nine Months",
+    "candidates": [
+      "Nine Months",
+      "Twelve Months"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita discusses both three months (Abba Yosei ben \u1e24anan) and nine months (Rabbi Elazar ben Yitzchak), with the nine-month position being the focus, matching the 'Nine Months' section prose which directly discusses Rabbi Elazar ben Yitzchak's reading of v'nizra'ah zera and the zera ya'avdenu yesupar derivation.",
+      "chosen_heading": "Nine Months",
+      "current_heading": "Nine Months",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Twelve Months",
+    "candidates": [
+      "Twelve Months",
+      "Three Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yishmael's view that merit delays punishment for twelve months, supported by the Daniel-Nebuchadnezzar narrative, which is precisely what the 'Twelve Months' section prose discusses.",
+      "chosen_heading": "Twelve Months",
+      "current_heading": "Twelve Months",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Three Years",
+    "candidates": [
+      "Three Years",
+      "Model Shift",
+      "God vs. Court"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains how Rabbi Yishmael's one-year view is multiplied threefold via the Amos verse to yield three years, which is precisely what the 'Three Years' section prose describes.",
+      "chosen_heading": "Three Years",
+      "current_heading": "Three Years",
+      "moved": false
+    }
+  }
+]

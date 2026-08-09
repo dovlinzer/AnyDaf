@@ -1,0 +1,267 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Kohen Becomes Tamei",
+    "candidates": [
+      "Kohen Becomes Tamei",
+      "Hesach Hadaat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 10 items concern whether leaving the Temple (yetziah) disqualifies prior sanctification by causing hesach hadaat, which matches heading 1's prose exactly, whereas heading 0 is about tumah disqualifying sanctification \u2014 a different question entirely.",
+      "chosen_heading": "Hesach Hadaat",
+      "current_heading": "Kohen Becomes Tamei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Hesach Hadaat",
+    "candidates": [
+      "Kohen Becomes Tamei",
+      "Hesach Hadaat",
+      "Hands Alone Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the initial dilemma about tumah and kiddush yadayim v'raglayim with its two sides (gavra chazi vs. masach dato), which is precisely what the 'Kohen Becomes Tamei' prose describes, not the subsequent analysis of hesach hadaat that candidate 1 discusses.",
+      "chosen_heading": "Kohen Becomes Tamei",
+      "current_heading": "Hesach Hadaat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Hands Alone Tamei",
+    "candidates": [
+      "Hands Alone Tamei",
+      "Tumah Near Sunset",
+      "Para Washing Location",
+      "Rabbi Yochanan's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's clarification that the real dilemma is whole-body tumah near sunset, which is precisely what candidate 0 ('Hands Alone Tamei') describes in its prose \u2014 the baraita about hands/feet becoming impure, the immediate clarification that hands-alone is not the real question, and the narrowing to kol gufo near sunset.",
+      "chosen_heading": "Hands Alone Tamei",
+      "current_heading": "Hands Alone Tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rabbi Yochanan's View",
+    "candidates": [
+      "Tumah Near Sunset",
+      "Para Washing Location",
+      "Rabbi Yochanan's View",
+      "Tzadukim Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full dispute between Rabbi \u1e24iyya and Rabbi Yo\u1e25anan together, and the prose under 'Para Washing Location' (index 1) introduces this entire braita about para aduma washing requirements, making it the natural home for the complete quoted text rather than splitting it under Rabbi Yo\u1e25anan's View.",
+      "chosen_heading": "Para Washing Location",
+      "current_heading": "Rabbi Yochanan's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Tzadukim Dispute",
+    "candidates": [
+      "Rabbi Yochanan's View",
+      "Tzadukim Dispute",
+      "Why Washing Needed",
+      "Dipping Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items form a continuous chain \u2014 the attempted proof from para aduma that tumah doesn't disqualify kiddush yadayim, its rejection ('shani para'), and the follow-up question of why kiddush is needed at all ('ke-ein avodah') \u2014 which exactly matches the prose of candidate 2 ('Why Washing Needed').",
+      "chosen_heading": "Why Washing Needed",
+      "current_heading": "Tzadukim Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Dipping Question",
+    "candidates": [
+      "Why Washing Needed",
+      "Dipping Question",
+      "Mei Me'arah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the dilemma about dipping hands and feet into the kiyor versus washing from it, citing 'mimenu' and 'velo betocho,' which is precisely what the 'Dipping Question' prose describes.",
+      "chosen_heading": "Dipping Question",
+      "current_heading": "Dipping Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Mei Me'arah Proof",
+    "candidates": [
+      "Mei Me'arah Proof",
+      "Exclusion Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the actual baraita citation by Rav Nachman bar Yitzchak presenting the 'mei me'arah' proof, which is precisely what heading 0's prose describes \u2014 the baraita about immersing in cave water and the inference about the kiyor \u2014 before the Gemara's rejection discussed in heading 1.",
+      "chosen_heading": "Mei Me'arah Proof",
+      "current_heading": "Mei Me'arah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Exclusion Logic",
+    "candidates": [
+      "Exclusion Logic",
+      "Rav Chiya's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's response about cave water (mei me'arah) and the exclusion logic regarding immersing hands and feet, which is precisely what the 'Exclusion Logic' section's prose describes.",
+      "chosen_heading": "Exclusion Logic",
+      "current_heading": "Exclusion Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rav Chiya's View",
+    "candidates": [
+      "Rav Chiya's View",
+      "Rav Chisda's View",
+      "Rabbi Yochanan Reconciled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi \u1e24iyya bar Yosef's exact statement about the two disqualification times for kiyor water, which is precisely what the prose under 'Rav Chiya's View' describes.",
+      "chosen_heading": "Rav Chiya's View",
+      "current_heading": "Rav Chiya's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Rabbi Yochanan Reconciled",
+    "candidates": [
+      "Rav Chisda's View",
+      "Rabbi Yochanan Reconciled",
+      "Gezeirat Shikua Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the Gemara's discussion of Rabbi Yochanan's two apparently conflicting statements about the kiyor, the challenge from Ilfa's tradition, and the attempted resolution \u2014 exactly the content described in candidate 1's prose about 'Rabbi Yochanan Reconciled.'",
+      "chosen_heading": "Rabbi Yochanan Reconciled",
+      "current_heading": "Rabbi Yochanan Reconciled",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Gezeirat Shikua Debate",
+    "candidates": [
+      "Gezeirat Shikua Debate",
+      "Crank Signal",
+      "Raising vs. Submerging"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 8,
+      "first_heading": "Gezeirat Shikua Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20138 all concern the gezeirat shikua debate between Rabbi Yo\u1e25anan and Rav \u1e24isda, the Abaye/Rava dispute, and the mitzvat shikua conclusion \u2014 exactly what heading 0's prose describes.",
+      "second_heading": "Crank Signal",
+      "second_confidence": "high",
+      "second_reason": "Item 9 introduces the Tamid mishna about Ben Katin's crank mechanism, which is the distinct passage heading 1 ('Crank Signal') explicitly describes.",
+      "current_heading": "Gezeirat Shikua Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Raising vs. Submerging",
+    "candidates": [
+      "Crank Signal",
+      "Raising vs. Submerging",
+      "Double Announcement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question of whether the crank sound could be heard during submersion and the response about using a wheel, which is precisely what the 'Raising vs. Submerging' section's prose describes.",
+      "chosen_heading": "Raising vs. Submerging",
+      "current_heading": "Raising vs. Submerging",
+      "moved": false
+    }
+  }
+]

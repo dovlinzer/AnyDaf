@@ -145,7 +145,7 @@
         }
       ],
       "sefaria_index": 20,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Gemara's Refinement: Zika Status is Doubtful, Not Dual",
@@ -168,7 +168,7 @@
           "timestamp": "37:29"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 20,
       "matched": true
     },
     {
@@ -202,7 +202,7 @@
           "timestamp": "44:51"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -236,7 +236,7 @@
           "timestamp": "51:35"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -260,8 +260,8 @@
           "timestamp": "53:53"
         }
       ],
-      "sefaria_index": 14,
-      "matched": false
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Rabbi Shimon's True Position: The Tzarot Principle and Simultaneous Death",
@@ -289,7 +289,7 @@
           "timestamp": "55:45"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -492,5 +492,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "04:27",
+  "amud_b_micro_title": "Tanna Kamma v Shimon",
+  "shiur_start_daf": 18,
+  "shiur_start_amud": "b"
 }

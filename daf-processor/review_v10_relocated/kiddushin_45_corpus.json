@@ -1,0 +1,326 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Shmuel Statement",
+    "candidates": [
+      "Na'arah Status",
+      "Ketanah & History",
+      "Core Question",
+      "Shmuel Statement",
+      "Karna Challenge",
+      "Blind Review"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents exactly what section 3's prose describes: Shmuel's ruling that the ketanah requires both get and mi'un, with the immediately following internal contradiction \u2014 which is where section 3's prose ends and section 4's prose picks up the Karna challenge separately.",
+      "chosen_heading": "Shmuel Statement",
+      "current_heading": "Shmuel Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Blind Review",
+    "candidates": [
+      "Karna Challenge",
+      "Blind Review",
+      "Rav Confirms",
+      "Get Rationale",
+      "Mi'un Rationale",
+      "Sister Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the procedural maneuver of reversing the attributed positions and sending the question to Rav, followed by Rav's emphatic response \u2014 content that spans both the 'Blind Review' setup and 'Rav Confirms' sections, but the current placement under 'Blind Review' captures the core action (afchuha shadroha) and Rav's reply is the direct result described in that same prose, making it the best single heading match.",
+      "chosen_heading": "Blind Review",
+      "current_heading": "Blind Review",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Sister Concern",
+    "candidates": [
+      "Rav Confirms",
+      "Get Rationale",
+      "Mi'un Rationale",
+      "Sister Concern",
+      "Shidduchin Gate",
+      "Ulla's Position",
+      "Shidduchin Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the 'v'ta'ama mai' question and Rav Acha's answer explaining both the get and mi'un rationale, which directly matches the 'Get Rationale' section's prose introducing this exact question and answer.",
+      "chosen_heading": "Get Rationale",
+      "current_heading": "Sister Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Shidduchin Ambiguity",
+    "candidates": [
+      "Shidduchin Gate",
+      "Ulla's Position",
+      "Shidduchin Ambiguity",
+      "Emancipated Minor"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shidduchin Gate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Na\u1e25man's shidduchin limitation, which the 'Shidduchin Gate' prose explicitly discusses as the v'hu sheshidduchu qualification.",
+      "second_heading": "Ulla's Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Ulla's ruling that no mi'un is required, along with the shidduchin ambiguity \u2014 matching 'Ulla's Position' for the core ruling and then 'Shidduchin Ambiguity' for the follow-up; since both elements are treated together under 'Shidduchin Ambiguity' (index 2) which covers both Ulla's position and the shidduchin question, but 'Ulla's Position' (index 1) is the more natural home for item 2's opening statement, the current placement at index 2 actually captures the full content of item 2 including the shidduchin follow-up, making index 2 the better single home for item 2.",
+      "current_heading": "Shidduchin Ambiguity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Emancipated Minor",
+    "candidates": [
+      "Shidduchin Ambiguity",
+      "Emancipated Minor",
+      "Rav Hamnuna Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: Rav Kahana's objection from the Yevamot mishna about mi'un, his analysis of who betrothed the ketanah, and his own resolution via 'ma'aseh yetomah b'chayei ha'av' \u2014 exactly the scenario described in the 'Emancipated Minor' prose.",
+      "chosen_heading": "Emancipated Minor",
+      "current_heading": "Emancipated Minor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Rav Hamnuna Query",
+    "candidates": [
+      "Rav Hamnuna Query",
+      "Self-Marriage Proof",
+      "Yiud Mechanism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the objection Rav Hamnuna raises and its immediate analysis (the almana puzzle), which is precisely what the 'Rav Hamnuna Query' prose describes \u2014 including the baraita about selling to relatives, Rabbi Elazar's dissent, and the question 'hai almana heichi dami' that closes that section's discussion.",
+      "chosen_heading": "Rav Hamnuna Query",
+      "current_heading": "Rav Hamnuna Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Yiud Mechanism",
+    "candidates": [
+      "Self-Marriage Proof",
+      "Yiud Mechanism",
+      "Rav Huna Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Amram/Rabbi Yitzchak's explanation about kiddushei yi'ud and Rabbi Yose son of Rabbi Yehuda's position on the original money not being for betrothal, which is precisely what the 'Yiud Mechanism' prose section discusses.",
+      "chosen_heading": "Yiud Mechanism",
+      "current_heading": "Yiud Mechanism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rav Huna Rule",
+    "candidates": [
+      "Rav Huna Rule",
+      "Triple Remedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Rav Huna/Rav ruling about mi'un for ma'amar vs. zika, which is exactly what the 'Rav Huna Rule' prose section describes, including the specific formulation 'mema'enes l'ma'amaro v'einah mema'enes l'zikatoh' and the conditional structure \u2014 the 'Triple Remedy' section handles the follow-up detail of tzricha get, chalitza, and mi'un separately.",
+      "chosen_heading": "Rav Huna Rule",
+      "current_heading": "Rav Huna Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Triple Remedy",
+    "candidates": [
+      "Triple Remedy",
+      "Chalitza Alone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the three-part remedy (get, chalitza, mi'un) with the exact reasoning about father accepting first/second betrothal or neither, which matches the 'Triple Remedy' section's prose perfectly.",
+      "chosen_heading": "Triple Remedy",
+      "current_heading": "Triple Remedy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Chalitza Alone",
+    "candidates": [
+      "Chalitza Alone",
+      "Father & Son"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the case where no ma'amar was performed requiring only chalitza, and the Reish Lakish teaching about achot chalutzah d'rabbanan \u2014 exactly what the 'Chalitza Alone' section's prose describes.",
+      "chosen_heading": "Chalitza Alone",
+      "current_heading": "Chalitza Alone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Father & Son",
+    "candidates": [
+      "Father & Son",
+      "Gender Presumption",
+      "Ravina Rejects",
+      "Vegetables Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete story of the two men drinking wine and Ravina's ruling that we do not invoke 'perhaps the son desired it,' which is precisely what heading 0 ('Father & Son') discusses in its prose.",
+      "chosen_heading": "Father & Son",
+      "current_heading": "Father & Son",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Vegetables Case",
+    "candidates": [
+      "Gender Presumption",
+      "Ravina Rejects",
+      "Vegetables Case",
+      "Bizayon Definition",
+      "Wife Persuasion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vegetables Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Ravina's ruling about degrading betrothal (derech bizayon), which matches exactly the 'Vegetables Case' prose describing Ravina's limitation on nitratza ha'av for degrading kiddushin.",
+      "second_heading": "Bizayon Definition",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Acha of Difti's question about what constitutes bizayon and Ravina's answer that both object and setting suffice, which matches exactly the 'Bizayon Definition' prose discussing that precise exchange.",
+      "current_heading": "Vegetables Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Wife Persuasion",
+    "candidates": [
+      "Bizayon Definition",
+      "Wife Persuasion",
+      "Abaye Finality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario discussed in the 'Wife Persuasion' prose: the father wanted his relative, the mother insisted on hers, she pressured him until he conceded, and while they were eating and drinking (the festive celebration), the father's relative came and betrothed the daughter himself.",
+      "chosen_heading": "Wife Persuasion",
+      "current_heading": "Wife Persuasion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Abaye Finality",
+    "candidates": [
+      "Abaye Finality",
+      "Rava Expense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's and Rava's statements together, and Rava's prose (candidate 1) explicitly discusses both opinions and their practical difference, making it the better home for the complete passage rather than placing it only under the Abaye heading.",
+      "chosen_heading": "Rava Expense",
+      "current_heading": "Abaye Finality",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Rava Expense",
+    "candidates": [
+      "Abaye Finality",
+      "Rava Expense",
+      "Tosafot Rules",
+      "Father Absent",
+      "Remote Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the practical difference between Abaye and Rava being a case of 'delo tarach' (where no trouble/expense was taken), which is precisely what the 'Rava Expense' section's prose describes as the key distinction between the two opinions.",
+      "chosen_heading": "Rava Expense",
+      "current_heading": "Rava Expense",
+      "moved": false
+    }
+  }
+]

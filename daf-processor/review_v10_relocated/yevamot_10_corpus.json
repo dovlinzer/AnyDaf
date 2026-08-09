@@ -1,0 +1,354 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Case Introduction",
+    "candidates": [
+      "Levi's Question",
+      "Anusat Aviv Debate",
+      "Mishnah & Disputes",
+      "Case Introduction",
+      "Birth Order Scenario",
+      "Sister-in-Law Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly responds to the gemara's challenge about 'eshet achiv shelo haya be'olamo' appearing in the mishnah despite being disputed between Rabbi Shimon and the Rabbanan, which is precisely what the 'Case Introduction' prose describes.",
+      "chosen_heading": "Case Introduction",
+      "current_heading": "Case Introduction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Sister-in-Law Status",
+    "candidates": [
+      "Birth Order Scenario",
+      "Sister-in-Law Status",
+      "Rabbi Shimon Position",
+      "Gemara Resolution",
+      "Fifteen Apply Rule",
+      "Four Brothers Case",
+      "Asymmetry Principle",
+      "Bekulan Explored"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Gemara Resolution",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 continue the gemara's resolution about Rabbi Shimon's position and Rabbi Oshaya's statement, which matches candidate 3's prose about 'be-nolad u-lesof yibem lo pligi Rabbi Shimon' and Rabbi Oshia being cited.",
+      "second_heading": "Four Brothers Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3's closing content introduces the four-brothers case with two sisters coming before surviving brothers simultaneously, which exactly matches candidate 5's prose describing the 'perek arbaah achim' scenario with Reuven/Shimon married to Rachel/Leah and the zikah problem.",
+      "current_heading": "Sister-in-Law Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Bekulan Explored",
+    "candidates": [
+      "Rabbi Shimon Position",
+      "Gemara Resolution",
+      "Fifteen Apply Rule",
+      "Four Brothers Case",
+      "Asymmetry Principle",
+      "Bekulan Explored",
+      "Bito Example",
+      "Daughter Complication"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the citation and immediate qualification of the 'bekulan' principle \u2014 Rav Yehuda/Rav's statement that all fifteen cases admit the asymmetry rule, followed by Rav Yehuda's restriction that this only applies from 'his mother-in-law onward' \u2014 which is precisely what the 'Fifteen Apply Rule' prose describes.",
+      "chosen_heading": "Fifteen Apply Rule",
+      "current_heading": "Bekulan Explored",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Daughter Complication",
+    "candidates": [
+      "Bito Example",
+      "Daughter Complication",
+      "Chamoto Onward",
+      "Onnes vs. Nisuin",
+      "Abaye's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly articulate the core argument of the 'Onnes vs. Nisuin' section: the *bito* case can only be constructed through *onnes* (rape/non-marital union), not through *nisuin* (marriage), and since the mishna deals with marriage not rape, this case is excluded \u2014 exactly what the 'Onnes vs. Nisuin' prose describes.",
+      "chosen_heading": "Onnes vs. Nisuin",
+      "current_heading": "Daughter Complication",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Abaye's Position",
+    "candidates": [
+      "Chamoto Onward",
+      "Onnes vs. Nisuin",
+      "Abaye's Position",
+      "Eshet Achiv Excluded",
+      "Rabbi Shimon Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's interpretation including 'af bito me-anusato' in bekulan and then raising the exclusion of eshet achiv shelo haya be'olamo, which matches exactly the prose of candidate 2 ('Abaye's Position') where Abaye's reasoning about constructing the case through either marriage or rape is explained.",
+      "chosen_heading": "Abaye's Position",
+      "current_heading": "Abaye's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rabbi Shimon Only",
+    "candidates": [
+      "Eshet Achiv Excluded",
+      "Rabbi Shimon Only",
+      "Safra's View",
+      "Mnemonic Sequence",
+      "Six Brothers Setup",
+      "Birth-Death Sequence",
+      "Rabbi Shimon Logic",
+      "Core Issue",
+      "Rav Ada's Answer",
+      "Mother Impossibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states that the scenario only works according to Rabbi Shimon and not according to the Rabbanan, and that the mishna does not deal with disputes \u2014 which is precisely the content described in the 'Rabbi Shimon Only' section's prose.",
+      "chosen_heading": "Rabbi Shimon Only",
+      "current_heading": "Rabbi Shimon Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Mother Impossibility",
+    "candidates": [
+      "Safra's View",
+      "Mnemonic Sequence",
+      "Six Brothers Setup",
+      "Birth-Death Sequence",
+      "Rabbi Shimon Logic",
+      "Core Issue",
+      "Rav Ada's Answer",
+      "Mother Impossibility",
+      "Sisters Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong under 'Safra's View': Item 1 is Rav Safra's statement about eshet achiv shelo haya be'olamo working in six brothers according to Rabbi Shimon, and Item 2 is the mnemonic that directly elaborates that same claim, matching the prose of heading 0 which discusses exactly this content (the mnemonic in heading 1 is described as 'met, noseh, ve-yibem' whereas the actual text says 'met, noled, ve-yibem', and heading 0's prose explicitly mentions the six brothers and Rabbi Shimon conclusion that heading 1 and 2 lack).",
+      "chosen_heading": "Safra's View",
+      "current_heading": "Mother Impossibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Sisters Problem",
+    "candidates": [
+      "Mother Impossibility",
+      "Sisters Problem",
+      "Mother Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items elaborate the core argument that the mother-case cannot satisfy both bekulan conditions simultaneously \u2014 specifically analyzing the sisters scenario and the two-unrelated-women scenario \u2014 which is precisely what candidate 1 ('Sisters Problem') discusses in its prose.",
+      "chosen_heading": "Sisters Problem",
+      "current_heading": "Sisters Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Mother Excluded",
+    "candidates": [
+      "Mother Excluded",
+      "Six Severe Arayot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's explanation of why Rabbi Yehuda HaNasi said 'no brain in his head' to Levi \u2014 precisely the topic discussed in candidate 0's prose, which explicitly anticipates Rav Ashi's intervention and the remark about the brain.",
+      "chosen_heading": "Mother Excluded",
+      "current_heading": "Mother Excluded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Six Severe Arayot",
+    "candidates": [
+      "Six Severe Arayot",
+      "Mother in Next List",
+      "Why Mother Severe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically addresses the question 'what is his mother?' in the next mishnah's list and whether she is married to his father (which would duplicate 'his father's wife'), which is precisely what the 'Mother in Next List' section discusses \u2014 identifying who 'imo' is in that list of six.",
+      "chosen_heading": "Mother in Next List",
+      "current_heading": "Six Severe Arayot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Why Mother Severe",
+    "candidates": [
+      "Mother in Next List",
+      "Why Mother Severe",
+      "Rabbi's Rebuke",
+      "Be-di-avad Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage argues that the mishna's placement of imo on the 'never married to a brother' list implies it follows Rabbi Yehuda who forbids anusat aviv, which is exactly what the 'Why Mother Severe' prose discusses \u2014 why imo appears on the next list rather than the first list of fifteen.",
+      "chosen_heading": "Why Mother Severe",
+      "current_heading": "Why Mother Severe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Be-di-avad Case",
+    "candidates": [
+      "Rabbi's Rebuke",
+      "Be-di-avad Case",
+      "Le-chatchila Focus",
+      "Adultery Scenario",
+      "Yosef Birth",
+      "Yibum with Mother"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Ravina's be-di-avad argument to Rav Ashi (that Rabbi Yehuda's ruling could still yield a mother-before-son yibum scenario via a transgressive marriage) and the Gemara's immediate rejection ('de-i lo katani'), which matches exactly what candidate 1 describes \u2014 both the proposal and its dismissal belong together under 'Be-di-avad Case' rather than being split across candidates 1 and 2.",
+      "chosen_heading": "Be-di-avad Case",
+      "current_heading": "Be-di-avad Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Yibum with Mother",
+    "candidates": [
+      "Le-chatchila Focus",
+      "Adultery Scenario",
+      "Yosef Birth",
+      "Yibum with Mother",
+      "Heter vs. Isur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage shows Rav Ashi responding to Rav Kahana's objection about forbidden unions by offering an alternative case (father raping daughter-in-law) that avoids the adultery/mamzer problem \u2014 this is a direct continuation of the 'Heter vs. Isur' discussion where Rav Kahana raised the issue of relationships arising through forbidden unions.",
+      "chosen_heading": "Heter vs. Isur",
+      "current_heading": "Yibum with Mother",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Heter vs. Isur",
+    "candidates": [
+      "Yibum with Mother",
+      "Heter vs. Isur",
+      "Levi's Insertion",
+      "Married Mother"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Kahana's exact response distinguishing permitted vs. forbidden brotherly relationships (heter vs. isur) and the note that Levi nevertheless included the case in his mishnayot, which directly corresponds to the 'Heter vs. Isur' section's prose discussing this very distinction.",
+      "chosen_heading": "Heter vs. Isur",
+      "current_heading": "Heter vs. Isur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Married Mother",
+    "candidates": [
+      "Levi's Insertion",
+      "Married Mother",
+      "Anusat Aviv Mother",
+      "Sixteenth Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Married Mother",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the case where his mother was his father's lawful wife (nesuah aviv) and does not exempt her rival wife \u2014 exactly what candidate 1's prose discusses as the first scenario of issur karet rendering the marriage void.",
+      "second_heading": "Anusat Aviv Mother",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the case where his mother was raped by his father (anusat aviv) and does exempt her rival wife \u2014 exactly what candidate 2's prose discusses as the second scenario where the brother could validly marry her.",
+      "current_heading": "Married Mother",
+      "moved": true
+    }
+  }
+]

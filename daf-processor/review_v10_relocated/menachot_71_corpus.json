@@ -1,0 +1,458 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Gezeira Shava Source",
+    "candidates": [
+      "Five Grains Overview",
+      "Cutting Before Omer",
+      "Cut vs. Brought",
+      "Gezeira Shava Source",
+      "Omer as Reishit",
+      "Kodem Cutting vs Bringing",
+      "Tosafot's Girsa",
+      "Eating vs Cutting",
+      "Yom Tov Restrictions",
+      "Motzei Yom Tov Cutting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question 'mina hanei mili' and Rabbi Yochanan's gezeira shava of reishit-reishit linking the Omer to challah, which is precisely what the 'Gezeira Shava Source' section's prose describes.",
+      "chosen_heading": "Gezeira Shava Source",
+      "current_heading": "Gezeira Shava Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Motzei Yom Tov Cutting",
+    "candidates": [
+      "Omer as Reishit",
+      "Kodem Cutting vs Bringing",
+      "Tosafot's Girsa",
+      "Eating vs Cutting",
+      "Yom Tov Restrictions",
+      "Motzei Yom Tov Cutting",
+      "Final Mishna Clause"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present the core dispute between Rabbi Yona and Rabbi Yosei bar Zavda over whether 'kodem la'Omer' means prior to cutting or prior to bringing, followed by the Gemara's attempt to resolve it from the Mishnah's separate formulation \u2014 exactly what candidate 1 ('Kodem Cutting vs Bringing') describes in its prose.",
+      "chosen_heading": "Kodem Cutting vs Bringing",
+      "current_heading": "Motzei Yom Tov Cutting",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Final Mishna Clause",
+    "candidates": [
+      "Motzei Yom Tov Cutting",
+      "Final Mishna Clause",
+      "Unresolved Debate",
+      "Elazar's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the debate about what 'kodem la'Omer' means in the final clause of the Mishnah, which is precisely what the 'Final Mishna Clause' section's prose sets up \u2014 presenting the question of what the relevant time is for the Omer to permit grain that took root.",
+      "chosen_heading": "Final Mishna Clause",
+      "current_heading": "Final Mishna Clause",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Elazar's Challenge",
+    "candidates": [
+      "Unresolved Debate",
+      "Elazar's Challenge",
+      "Aviv Source",
+      "Narrowing Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a single continuous exchange \u2014 Rabbi Elazar's challenge to Rabbi Yoshiya about the source for *hashrashah*, Rabbi Yoshiya's initial answer from the word *Aviv*, and the Gemara's rejection \u2014 which exactly matches the prose of heading 1 ('Elazar's Challenge'), where the current placement already sits.",
+      "chosen_heading": "Elazar's Challenge",
+      "current_heading": "Elazar's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Narrowing Scope",
+    "candidates": [
+      "Aviv Source",
+      "Narrowing Scope",
+      "Shtei HaLechem Proof",
+      "Asher Tizrah Stage",
+      "Rav Pappa Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's successive attempts to derive that the Omer permits grain before full ripeness (via 'chermesh' and 'kamah'), followed by rejections narrowing the scope \u2014 exactly what candidate 1's prose describes as the chain of inferences and rebuttals before reaching bare roots.",
+      "chosen_heading": "Narrowing Scope",
+      "current_heading": "Narrowing Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rav Pappa Objection",
+    "candidates": [
+      "Shtei HaLechem Proof",
+      "Asher Tizrah Stage",
+      "Rav Pappa Objection",
+      "Conclusion Sprouting",
+      "Reishit Problem",
+      "Non-Omer Fields",
+      "Jericho Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Pappa's challenge to Rava about whether unharvested grain needs to have taken root, and Rava's response about 'ba-sadeh k'siv,' which is precisely what the 'Rav Pappa Objection' section's prose describes.",
+      "chosen_heading": "Rav Pappa Objection",
+      "current_heading": "Rav Pappa Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Jericho Case",
+    "candidates": [
+      "Conclusion Sprouting",
+      "Reishit Problem",
+      "Non-Omer Fields",
+      "Jericho Case",
+      "Fodder Not Harvesting",
+      "Yehuda's Position",
+      "Shimon's Position",
+      "Kilayim Clearing",
+      "Mourning Space",
+      "Study Hall Space"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The Mishnah passage covers all of: irrigated valley fields (beis ha-shlachin), the Jericho case, fodder cutting, and the Rabbi Yehuda/Rabbi Shimon dispute \u2014 it is the full Mishnah unit, and its opening content about reaping beis ha-shlachin and the prohibition on godesh places it squarely under 'Non-Omer Fields' (index 2), which is where the Mishnah begins, not under 'Jericho Case' which is a sub-section of the same Mishnah.",
+      "chosen_heading": "Non-Omer Fields",
+      "current_heading": "Jericho Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Study Hall Space",
+    "candidates": [
+      "Fodder Not Harvesting",
+      "Yehuda's Position",
+      "Shimon's Position",
+      "Kilayim Clearing",
+      "Mourning Space",
+      "Study Hall Space",
+      "Bundle Restriction",
+      "Standing vs Sheaves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers all three mitzvah-based cutting cases (saplings/kilayim, mourning space, study hall) plus the bundle restriction in a single Mishnaic unit, and candidate 3 ('Kilayim Clearing') introduces this entire thematic block \u2014 but actually the passage spans candidates 3-6; however, since the passage includes the bundle restriction ('lo ya'aseh otam kerichot, aval manichim tzvatim') which is the specific content of candidate 6 ('Bundle Restriction'), and begins with the saplings case introduced in candidate 3, the passage as a whole is best placed under candidate 3 where the Mishnah first introduces these mitzvah-based cases, as candidate 6's prose already separately discusses the bundle restriction meaning the passage is currently misplaced under 'Study Hall Space' when it covers content from saplings through the bundle rule \u2014 but since the full Mishnaic text covers all three cases plus the bundle rule together, and candidate 3 opens this entire section, it is the best single heading.",
+      "chosen_heading": "Kilayim Clearing",
+      "current_heading": "Study Hall Space",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Standing vs Sheaves",
+    "candidates": [
+      "Bundle Restriction",
+      "Standing vs Sheaves",
+      "Fresh vs Dry",
+      "Night vs Day",
+      "Overrides Shabbat",
+      "Two Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all four topics (standing vs sheaves, fresh vs dry, night vs day, overrides Shabbat) as a single Mishnah unit, and the current placement under 'Standing vs Sheaves' is the first/opening section that introduces this Mishnah, making it the natural home before the subsequent headings break down each individual clause.",
+      "chosen_heading": "Standing vs Sheaves",
+      "current_heading": "Standing vs Sheaves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Two Verses",
+    "candidates": [
+      "Fresh vs Dry",
+      "Night vs Day",
+      "Overrides Shabbat",
+      "Two Verses",
+      "Geographic Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents exactly the tension Rabbi Binyamin identifies between the two verses (u-ktzartem et ktzira vs. reishit ktzirchem), which is precisely what the 'Two Verses' section prose describes.",
+      "chosen_heading": "Two Verses",
+      "current_heading": "Two Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Geographic Resolution",
+    "candidates": [
+      "Geographic Resolution",
+      "Species vs Field"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the geographic resolution \u2014 from a place you bring the Omer you may not reap, from a place you may not bring you may reap \u2014 which is exactly what the 'Geographic Resolution' prose discusses.",
+      "chosen_heading": "Geographic Resolution",
+      "current_heading": "Geographic Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Species vs Field",
+    "candidates": [
+      "Species vs Field",
+      "Six Things"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rejected alternative interpretation based on species rather than field type, and Rabbi Yo\u1e25anan's gezeira shava that extends the prohibition to all five grains \u2014 exactly what the 'Species vs Field' prose describes.",
+      "chosen_heading": "Species vs Field",
+      "current_heading": "Species vs Field",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Six Things",
+    "candidates": [
+      "Six Things",
+      "Three Approved",
+      "Three Tolerated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are introductory Gemara discussion leading into the baraita about the six things the people of Jericho did, which is precisely what heading 0 ('Six Things') describes \u2014 the passage identifies Rabbi Yehuda as the tanna and then raises the baraita listing three approved and three unapproved practices, matching the prose of heading 0 exactly.",
+      "chosen_heading": "Six Things",
+      "current_heading": "Six Things",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Three Tolerated",
+    "candidates": [
+      "Three Approved",
+      "Three Tolerated",
+      "Rabbi Yehuda Critique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the approved and unapproved practices listed by Rabbi Meir as a single baraita, and the essay's section '0. Three Approved' is where this source text is first introduced and discussed (covering both halves), while section 1 only discusses the unapproved practices in prose \u2014 the full baraita belongs under the heading that introduces all six practices together, which is section 0.",
+      "chosen_heading": "Three Approved",
+      "current_heading": "Three Tolerated",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Rabbi Yehuda Critique",
+    "candidates": [
+      "Three Tolerated",
+      "Rabbi Yehuda Critique",
+      "Gemara Resolution",
+      "Pe'ah Introduction",
+      "Natural Barriers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the continuous Gemara discussion of Rabbi Yehuda's critique and the arithmetical resolution (sami mikan k'tzira), which is precisely what the 'Rabbi Yehuda Critique' prose describes \u2014 the challenge, the reformulation, and the resolution of the tension with the Mishnah \u2014 matching the current placement.",
+      "chosen_heading": "Rabbi Yehuda Critique",
+      "current_heading": "Rabbi Yehuda Critique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Natural Barriers",
+    "candidates": [
+      "Gemara Resolution",
+      "Pe'ah Introduction",
+      "Natural Barriers",
+      "Fodder Divides Field"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Pe'ah Mishnah being introduced by the Gemara, which matches the 'Pe'ah Introduction' prose that explicitly describes introducing this very Mishnah from tractate Pe'ah listing what divides a field.",
+      "chosen_heading": "Pe'ah Introduction",
+      "current_heading": "Natural Barriers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Fodder Divides Field",
+    "candidates": [
+      "Natural Barriers",
+      "Fodder Divides Field",
+      "Meir as Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the exact Mishnaic text about reaping for fodder dividing a field (Rabbi Meir vs. Rabbis), which is precisely what the 'Fodder Divides Field' section's prose discusses.",
+      "chosen_heading": "Fodder Divides Field",
+      "current_heading": "Fodder Divides Field",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Meir as Shimon",
+    "candidates": [
+      "Meir as Shimon",
+      "Fodder Not Real",
+      "Locusts Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Meir's position follows Rabbi Shimon's framework, which is precisely what the 'Meir as Shimon' section's prose discusses.",
+      "chosen_heading": "Meir as Shimon",
+      "current_heading": "Meir as Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142
+    ],
+    "current_heading": "Locusts Test",
+    "candidates": [
+      "Fodder Not Real",
+      "Locusts Test",
+      "Meir as Yehuda",
+      "Meir as Akiva",
+      "Natural Destruction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita challenge about locusts/ants/wind and the initial resolution based on one-third ripeness, which is precisely what the 'Locusts Test' prose describes as the Gemara's challenge and proposed reconciliation of Rabbi Meir's two positions.",
+      "chosen_heading": "Locusts Test",
+      "current_heading": "Locusts Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154,
+      155,
+      156,
+      157
+    ],
+    "current_heading": "Natural Destruction",
+    "candidates": [
+      "Meir as Yehuda",
+      "Meir as Akiva",
+      "Natural Destruction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Meir as Yehuda",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 work through the proposal that Rabbi Meir follows Rabbi Yehuda and expose its difficulty, which is exactly what the 'Meir as Yehuda' prose describes.",
+      "second_heading": "Meir as Akiva",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the objection that Rabbi Yehuda's leniency cannot extend to human consumption and then introduce Rav Dimi's resolution aligning Rabbi Meir with Rabbi Akiva, which is precisely what the 'Meir as Akiva' prose describes.",
+      "current_heading": "Natural Destruction",
+      "moved": true
+    }
+  }
+]

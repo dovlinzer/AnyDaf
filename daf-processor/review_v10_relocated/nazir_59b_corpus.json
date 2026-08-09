@@ -1,0 +1,201 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Intro: One Dies",
+    "candidates": [
+      "Intro: One Dies",
+      "Single Nazir Safek",
+      "Marketplace Partner",
+      "If I Am Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text introduces the scenario of one nazir dying and Rabbi Yehoshua's initial response, which is precisely what the 'Intro: One Dies' section prose describes as the new complication and the question it poses.",
+      "chosen_heading": "Intro: One Dies",
+      "current_heading": "Intro: One Dies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "If I Am Tamei",
+    "candidates": [
+      "Single Nazir Safek",
+      "Marketplace Partner",
+      "If I Am Tamei",
+      "If I Am Tahor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the declaration 'if I was impure...if I was pure' along with the counting of thirty days and the assignment of korban tumah and korban tahara, which directly corresponds to the 'If I Am Tamei' section's prose about the original nazir's declaration after thirty days and the distribution of offerings.",
+      "chosen_heading": "If I Am Tamei",
+      "current_heading": "If I Am Tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "If I Am Tahor",
+    "candidates": [
+      "If I Am Tahor",
+      "Why Wait 30 Days",
+      "Objection: Who Agrees?",
+      "Simpler Method",
+      "First 30 Days",
+      "Second 30 Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the second round of declarations ('if I was the impure one... if I was the pure one') at the end of the second thirty days, which matches precisely the prose in heading 0 describing the final stipulations made when bringing the second korban tahara.",
+      "chosen_heading": "If I Am Tahor",
+      "current_heading": "If I Am Tahor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Second 30 Days",
+    "candidates": [
+      "Why Wait 30 Days",
+      "Objection: Who Agrees?",
+      "Simpler Method",
+      "First 30 Days",
+      "Second 30 Days",
+      "Split Korban",
+      "Objection Rejected",
+      "Sharpen Students"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Objection: Who Agrees?",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Ben Zoma's simpler alternative method (chatas ha-of, olas behemah, then a second thirty days with korban tahara), matching candidates 1-3 which discuss Ben Zoma's objection and simpler scheme.",
+      "second_heading": "Split Korban",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Yehoshua's response that Ben Zoma's method splits the korban into halves, followed by the sages agreeing with Ben Zoma, which matches candidate 5 ('Split Korban') exactly.",
+      "current_heading": "Second 30 Days",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Sharpen Students",
+    "candidates": [
+      "Split Korban",
+      "Objection Rejected",
+      "Sharpen Students",
+      "Fat Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in candidate 2's prose: Rav Yehuda citing Shmuel that Rabbi Yehoshua only said it to sharpen the students, which is precisely what 'Sharpen Students' is about.",
+      "chosen_heading": "Sharpen Students",
+      "current_heading": "Sharpen Students",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Fat Problem",
+    "candidates": [
+      "Fat Problem",
+      "Mishnah Setup",
+      "Timeline",
+      "Four Stages",
+      "Tahor Scenario",
+      "Nazir Tamei",
+      "Metzora Scenario",
+      "30-Day Constraint",
+      "Four 30-Day Periods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man's remark about Rabbi Yehoshua's intestines spoiling, which is precisely what the 'Fat Problem' section's prose describes and analyzes in detail.",
+      "chosen_heading": "Fat Problem",
+      "current_heading": "Fat Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Four 30-Day Periods",
+    "candidates": [
+      "Mishnah Setup",
+      "Timeline",
+      "Four Stages",
+      "Tahor Scenario",
+      "Nazir Tamei",
+      "Metzora Scenario",
+      "30-Day Constraint",
+      "Four 30-Day Periods",
+      "Year-Long Version",
+      "Baraita Overview"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Mishnah Setup",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Mishna text itself (nazirite uncertain about impurity and leprosy, 60-day and 120-day rules, and the reason shaving of leprosy only overrides nazirite shaving when definite), which corresponds exactly to the 'Mishnah Setup' and 'Timeline' prose \u2014 but most precisely fits heading 0 ('Mishnah Setup') which introduces this compound uncertainty case, with the 60/120-day figures belonging under heading 1 ('Timeline').",
+      "second_heading": "Year-Long Version",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 are the Gemara baraita elaborating the year-long naziriteship variant (two years for kodashim, four years for wine/impurity), which maps precisely onto heading 8 ('Year-Long Version') whose prose describes exactly this expansion from thirty-day units to full years.",
+      "current_heading": "Four 30-Day Periods",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Baraita Overview",
+    "candidates": [
+      "Year-Long Version",
+      "Baraita Overview",
+      "First Haircut",
+      "Birds & Chatas",
+      "Second Haircut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita that lists which korbanos are brought at each of the four shavings, which is precisely what the 'Baraita Overview' prose describes \u2014 its current placement is correct.",
+      "chosen_heading": "Baraita Overview",
+      "current_heading": "Baraita Overview",
+      "moved": false
+    }
+  }
+]

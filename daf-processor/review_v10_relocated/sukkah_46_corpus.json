@@ -1,0 +1,281 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Discrete vs. Continuous",
+    "candidates": [
+      "Rav Yehuda's Position",
+      "Discrete vs. Continuous",
+      "Rabba bar Bar Chana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains the lulav/sukka blessing distinction via the 'nights dividing days' logic, which is precisely what the 'Discrete vs. Continuous' section's prose elaborates upon with direct quotation of these same Aramaic phrases.",
+      "chosen_heading": "Discrete vs. Continuous",
+      "current_heading": "Discrete vs. Continuous",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rabba bar Bar Chana",
+    "candidates": [
+      "Rabba bar Bar Chana",
+      "Ravin's View",
+      "Rav Yosef's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabba bar bar \u1e24ana's statement in the name of Rabbi Yo\u1e25anan that sukkah gets seven days and lulav one day, with the Torah vs. rabbinic reasoning \u2014 exactly what heading 0 ('Rabba bar Bar Chana') discusses in its prose.",
+      "chosen_heading": "Rabba bar Bar Chana",
+      "current_heading": "Rabba bar Bar Chana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Rav Yosef's Ruling",
+    "candidates": [
+      "Ravin's View",
+      "Rav Yosef's Ruling",
+      "Tosefta on Lulav",
+      "Two Aspects",
+      "When Shehecheyanu Applies",
+      "Baraita vs. Amoraim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Ravin's report of Rabbi Yochanan's position (seven days for both) and Rav Yosef's endorsement of Rabba bar bar Chana's view, and the 'Ravin's View' prose explicitly discusses both elements together, making it the natural home for this combined Talmudic excerpt.",
+      "chosen_heading": "Ravin's View",
+      "current_heading": "Rav Yosef's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Baraita vs. Amoraim",
+    "candidates": [
+      "Tosefta on Lulav",
+      "Two Aspects",
+      "When Shehecheyanu Applies",
+      "Baraita vs. Amoraim",
+      "Beit HaMikdash Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita that creates the sharp tension between lulav (blessed all seven days) and sukkah (blessed only the first day), which is precisely what the 'Baraita vs. Amoraim' prose describes as its central content.",
+      "chosen_heading": "Baraita vs. Amoraim",
+      "current_heading": "Baraita vs. Amoraim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Beit HaMikdash Context",
+    "candidates": [
+      "Beit HaMikdash Context",
+      "Tannaitic Debate",
+      "Rabbi's View",
+      "Chachamim's View"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Chachamim's View",
+    "candidates": [
+      "Tannaitic Debate",
+      "Rabbi's View",
+      "Chachamim's View",
+      "Abaye vs. Rava",
+      "Rava's Inconsistency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the tannaitic dispute (tannai hi) and cites the baraita on tefillin as evidence of that dispute, which matches heading 0's prose about the Gemara responding 'tannai hi' and turning to the baraita on tefillin \u2014 it is the introductory framing, not the detailed analysis of Rabbi's or the Chachamim's individual positions.",
+      "chosen_heading": "Tannaitic Debate",
+      "current_heading": "Chachamim's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Rava's Inconsistency",
+    "candidates": [
+      "Abaye vs. Rava",
+      "Rava's Inconsistency",
+      "Anu Nami k'Rabbi",
+      "Rashi's Interpretation",
+      "Tosafot's Interpretation",
+      "All Seven Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the direct continuation of the Abaye vs. Rava dispute \u2014 item 1 states their positions and reports Rava's actual practice, and item 2 adds further observed practices of Rav Pappi and the school of Rav Ashi \u2014 all of which belong under the 'Abaye vs. Rava' heading that introduces this very *itmar* dispute, not under the 'Rava's Inconsistency' heading which the prose has already absorbed and elaborated upon.",
+      "chosen_heading": "Abaye vs. Rava",
+      "current_heading": "Rava's Inconsistency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "All Seven Days",
+    "candidates": [
+      "Anu Nami k'Rabbi",
+      "Rashi's Interpretation",
+      "Tosafot's Interpretation",
+      "All Seven Days",
+      "Biblical vs. Rabbinic",
+      "Chanukah Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the statements of Rav Yehuda/Shmuel, Rabbi Yehoshua ben Levi, and Rabbi Yitzchak about lulav all seven days vs. first day only, which is precisely what the prose of heading 3 ('All Seven Days') introduces and describes.",
+      "chosen_heading": "All Seven Days",
+      "current_heading": "All Seven Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Chanukah Example",
+    "candidates": [
+      "Biblical vs. Rabbinic",
+      "Chanukah Example",
+      "Rabbinic Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav's view on lulav blessings proven via the Chanukah candle ruling, including the specific brachot for lighter vs. observer on first night vs. subsequent nights, which exactly matches the 'Chanukah Example' prose description.",
+      "chosen_heading": "Chanukah Example",
+      "current_heading": "Chanukah Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Rabbinic Authority",
+    "candidates": [
+      "Rabbinic Authority",
+      "Pre-Built Sukkah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Rabbinic Authority' prose: item 1 discusses the ve-heichan tzivanu question with lo tasur and Rav Nachman bar Yitzchak's sha'al avicha answer, and item 2 discusses the lulav blessing inference and Rav Nachman bar Yitzchak's explicit teaching about lulav all seven days \u2014 all of which are explicitly covered in that section's prose.",
+      "chosen_heading": "Rabbinic Authority",
+      "current_heading": "Rabbinic Authority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Pre-Built Sukkah",
+    "candidates": [
+      "Pre-Built Sukkah",
+      "Integration Into Kiddush",
+      "Multiple Mitzvot Options",
+      "Rabbi Yehuda",
+      "Halacha Ruling",
+      "Theological Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers both the pre-built sukkah scenario and Rav Kahana's practice together as one continuous passage, and the current heading's prose explicitly discusses all these elements including the pre-built sukkah ruling and the Rav Kahana observation, making it the best fit.",
+      "chosen_heading": "Pre-Built Sukkah",
+      "current_heading": "Pre-Built Sukkah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Theological Basis",
+    "candidates": [
+      "Integration Into Kiddush",
+      "Multiple Mitzvot Options",
+      "Rabbi Yehuda",
+      "Halacha Ruling",
+      "Theological Basis",
+      "The Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita covers the entire passage \u2014 the initial dispute about one versus individual blessings, Rabbi Yehuda's ruling, and the theological basis \u2014 all of which the essay splits across headings 1\u20134, but the single Talmudic text belongs under heading 1 ('Multiple Mitzvot Options') where the baraita discussion begins, since the passage is one continuous unit starting with 'Tanu Rabbanan' introducing that very scenario.",
+      "chosen_heading": "Multiple Mitzvot Options",
+      "current_heading": "Theological Basis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "The Parable",
+    "candidates": [
+      "Theological Basis",
+      "The Parable",
+      "Im Shamoa Tishma",
+      "Disposition and Attention",
+      "Learning in Context",
+      "Review and Continuity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the full parable of the empty vs. full vessel (which the 'The Parable' prose section explicitly discusses) along with the im shamoa tishma proof-text and davar acher, all of which the subsequent section headings' prose sections treat as elaborations of this same teaching \u2014 and the current placement under 'The Parable' is where the passage begins and is primarily anchored.",
+      "chosen_heading": "The Parable",
+      "current_heading": "The Parable",
+      "moved": false
+    }
+  }
+]

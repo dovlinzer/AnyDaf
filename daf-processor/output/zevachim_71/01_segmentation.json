@@ -43,8 +43,8 @@
           "timestamp": "02:54"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Why Bitul Does Not Apply to Live Animals; Redemption and Benefit Prohibitions",
@@ -67,7 +67,7 @@
           "timestamp": "05:12"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -130,8 +130,8 @@
           "timestamp": "13:22"
         }
       ],
-      "sefaria_index": 0,
-      "matched": false
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Mixed Chullin with Kodshim; Mixed Kodshim of Different Types",
@@ -245,7 +245,7 @@
           "timestamp": "28:54"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -560,5 +560,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 1
+  "amud_b_sefaria_index": 1,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "08:37",
+  "amud_b_micro_title": "Yir'u Ad Yista'avu",
+  "shiur_start_daf": 71,
+  "shiur_start_amud": "a"
 }

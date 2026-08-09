@@ -1,0 +1,408 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Rabbi Eliezer & Meir",
+    "candidates": [
+      "Aylonit Zonah",
+      "Rabba: Minority Risk",
+      "Rabbi Eliezer & Meir",
+      "Definitions of Zonah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute Rabba's explanation (combining Rabbi Meir's minority concern with Rabbi Yehuda's aylonit=zonah ruling) followed immediately by the gemara's challenge to that explanation via the baraita about Rabbi Meir's yibum ruling \u2014 this is precisely what candidate 1 ('Rabba: Minority Risk') describes in its prose, whereas candidate 2 begins after Rabba's construction has already been introduced.",
+      "chosen_heading": "Rabba: Minority Risk",
+      "current_heading": "Rabbi Eliezer & Meir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Definitions of Zonah",
+    "candidates": [
+      "Rabbi Eliezer & Meir",
+      "Definitions of Zonah",
+      "Rashi on Zonah",
+      "Eliezer: Non-Marital Sex"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a Gemara challenge asking whether Rabbi Eliezer holds like Rabbi Yehuda, which is the final step in disproving Rabba's construction \u2014 exactly what the 'Rabbi Eliezer & Meir' prose describes as the culminating move ('the gemara then continues to show that Rabbi Elazar also does not hold like Rabbi Yehuda \u2014 which brings us to the baraita cataloguing the debate over the definition of zonah').",
+      "chosen_heading": "Rabbi Eliezer & Meir",
+      "current_heading": "Definitions of Zonah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Eliezer: Non-Marital Sex",
+    "candidates": [
+      "Rashi on Zonah",
+      "Eliezer: Non-Marital Sex",
+      "Tosafot: Cheating Znut",
+      "Kohen Gadol Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita defining *zona* including Rabbi Elazar's *panui haba al pnuyah* ruling and explicitly concludes it disproves Rabbi Eliezer's agreement with Rabbi Yehuda \u2014 exactly what the 'Eliezer: Non-Marital Sex' prose discusses as resolving the gemara's investigation.",
+      "chosen_heading": "Eliezer: Non-Marital Sex",
+      "current_heading": "Eliezer: Non-Marital Sex",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Kohen Gadol Timing",
+    "candidates": [
+      "Tosafot: Cheating Znut",
+      "Kohen Gadol Timing",
+      "Fituy & Ones"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Adda bar Ahava's explanation about a kohen gadol and the timing problem of kiddushin with a ketanah becoming a be'ulah, which is precisely what the 'Kohen Gadol Timing' section's prose describes.",
+      "chosen_heading": "Kohen Gadol Timing",
+      "current_heading": "Kohen Gadol Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Fituy & Ones",
+    "candidates": [
+      "Fituy & Ones",
+      "Kohen Gadol Na'arah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's rejection of a prior explanation and his alternative reasoning about pituyei ketanah/ones, which is precisely what candidate 0 ('Fituy & Ones') describes in its prose.",
+      "chosen_heading": "Fituy & Ones",
+      "current_heading": "Fituy & Ones",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Kohen Gadol Na'arah",
+    "candidates": [
+      "Kohen Gadol Na'arah",
+      "Ruling Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the requirement that a kohen gadol marry a na'arah (neither a ketanah nor a bogeret), derived from the verse about 'betulah' and 'ishah', which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Kohen Gadol Na'arah",
+      "current_heading": "Kohen Gadol Na'arah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Ruling Rejected",
+    "candidates": [
+      "Ruling Rejected",
+      "Obligation & Cessation",
+      "Shammai vs. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Elazar's ruling about an unmarried woman becoming a zona and Rav Amram's rejection of that ruling, which is precisely what the 'Ruling Rejected' section discusses in its prose.",
+      "chosen_heading": "Ruling Rejected",
+      "current_heading": "Ruling Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Shammai vs. Hillel",
+    "candidates": [
+      "Obligation & Cessation",
+      "Shammai vs. Hillel",
+      "Hillel: Imitatio Dei",
+      "Rav Adda: Stay Married"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text covers both the prohibition on ceasing (heading 0's topic) and the Beit Shammai/Hillel dispute (heading 1's topic), but as a single unit it belongs under heading 0 which introduces the mishna as a whole, while heading 1's prose already paraphrases the dispute content directly \u2014 meaning the actual mishna source text should sit under the opening heading that presents it, not under the derivative commentary heading.",
+      "chosen_heading": "Obligation & Cessation",
+      "current_heading": "Shammai vs. Hillel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Rav Adda: Stay Married",
+    "candidates": [
+      "Hillel: Imitatio Dei",
+      "Rav Adda: Stay Married",
+      "Lo Tov Levado",
+      "Alternative Reading",
+      "Infertile Partner OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara inference that a man may neglect pru urvu but not the obligation to have a wife, supporting Rav Nachman bar Shmuel's ruling \u2014 exactly what the 'Rav Adda: Stay Married' prose describes.",
+      "chosen_heading": "Rav Adda: Stay Married",
+      "current_heading": "Rav Adda: Stay Married",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Infertile Partner OK",
+    "candidates": [
+      "Lo Tov Levado",
+      "Alternative Reading",
+      "Infertile Partner OK",
+      "Shammai's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents both the alternative reading challenge and its resolution (the fertile/infertile wife distinction and the sefer Torah nafka mina), which together are the core content discussed in the 'Infertile Partner OK' prose section.",
+      "chosen_heading": "Infertile Partner OK",
+      "current_heading": "Infertile Partner OK",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Shammai's Logic",
+    "candidates": [
+      "Shammai's Logic",
+      "Hillel & Moshe",
+      "Moshe's 3 Acts"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shammai's Logic",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the Beit Shammai/Beit Hillel debate and the 'efshar mi-she-iy efshar' principle, which is precisely what heading 0 ('Shammai's Logic') discusses.",
+      "second_heading": "Hillel & Moshe",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains why Beit Hillel doesn't learn from Moses and introduces the baraita about Moses's three independent acts, matching heading 1 ('Hillel & Moshe') which discusses exactly this point about Moses acting on his own judgment.",
+      "current_heading": "Shammai's Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Moshe's 3 Acts",
+    "candidates": [
+      "Hillel & Moshe",
+      "Moshe's 3 Acts",
+      "Shammai: 2M 2F"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are the Gemara's elaboration of the three things Moses did on his own initiative (pirash min ha-isha, shiber ha-luchot, hosif yom echad), which is precisely what the 'Moshe's 3 Acts' prose section describes in detail.",
+      "chosen_heading": "Moshe's 3 Acts",
+      "current_heading": "Moshe's 3 Acts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Shammai: 2M 2F",
+    "candidates": [
+      "Shammai: 2M 2F",
+      "Shammai/Hillel Variants",
+      "Hevel & Sister"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita attributed to Rabbi Natan presenting Beit Shammai's position of two males and two females, which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Shammai: 2M 2F",
+      "current_heading": "Shammai: 2M 2F",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Hevel & Sister",
+    "candidates": [
+      "Shammai/Hillel Variants",
+      "Hevel & Sister",
+      "Settlement World"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna's explanation of Rabbi Natan's Beit Shammai position using the Genesis verse about Abel and his sister, which is precisely what the 'Hevel & Sister' section's prose describes.",
+      "chosen_heading": "Hevel & Sister",
+      "current_heading": "Hevel & Sister",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Settlement World",
+    "candidates": [
+      "Settlement World",
+      "Case Setup",
+      "Yochanan: Yes",
+      "Reish Lakish: No",
+      "Two Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's explanation of Rabbi Natan's version of Beit Hillel using the Isaiah verse about settling the world, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Settlement World",
+      "current_heading": "Settlement World",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Two Cases",
+    "candidates": [
+      "Case Setup",
+      "Yochanan: Yes",
+      "Reish Lakish: No",
+      "Two Cases",
+      "Non-Jews Obligated",
+      "Parentage Recognition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together present the full dispute between Rabbi Yochanan and Reish Lakish on both the pru urvu and bechor/inheritance cases, plus the necessity argument \u2014 this is the complete 'case setup' content that candidate 0's prose describes as introducing both questions, making it a better fit than candidate 3 ('Two Cases') which only describes the necessity argument (items 3-4) and not the initial dispute statements (items 1-2).",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Two Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Parentage Recognition",
+    "candidates": [
+      "Non-Jews Obligated",
+      "Parentage Recognition",
+      "Huna: Fulfilled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the exact topics described in the 'Parentage Recognition' prose: the Berodach-baladan objection and Reish Lakish's response about converts losing lineage, Rav's ruling about slaves having no lineage with the donkey drasha and the Ziba objection resolved by Rav Acha bar Yaakov, and the multi-generational Ben-hadad proof for non-Jewish lineage \u2014 all perfectly matching that section's prose.",
+      "chosen_heading": "Parentage Recognition",
+      "current_heading": "Parentage Recognition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Huna: Fulfilled",
+    "candidates": [
+      "Huna: Fulfilled",
+      "Assi: Mashiach Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Rav Huna/Rabbi Yo\u1e25anan dispute about children who died, which is exactly what heading 0's prose introduces.",
+      "chosen_heading": "Huna: Fulfilled",
+      "current_heading": "Huna: Fulfilled",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Assi: Mashiach Purpose",
+    "candidates": [
+      "Assi: Mashiach Purpose",
+      "Yochanan: Settlement",
+      "Raising Children",
+      "Adoption & Pru Urvu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rav Huna's position (based on Rav Asi's soul-depletion reasoning) and Rabbi Yochanan's counter-position in a single Talmudic excerpt, and the current heading 'Assi: Mashiach Purpose' with its prose accurately describes the content of this combined passage, which introduces both views together.",
+      "chosen_heading": "Assi: Mashiach Purpose",
+      "current_heading": "Assi: Mashiach Purpose",
+      "moved": false
+    }
+  }
+]

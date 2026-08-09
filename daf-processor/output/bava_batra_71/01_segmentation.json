@@ -53,8 +53,8 @@
           "timestamp": "08:30"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Possession of a Stranger's Property: Chazaka and Hefker Land",
@@ -77,8 +77,8 @@
           "timestamp": "14:08"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Consecration to the Temple: Rav Shimon's Limitation",
@@ -350,5 +350,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "28:28",
+  "amud_b_micro_title": "Trees Retained",
+  "shiur_start_daf": 71,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,382 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Bucket & Belt",
+    "candidates": [
+      "Bucket & Belt",
+      "Rebbe Yehuda's Principle",
+      "Chevel D'Gardi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself introducing the bucket-and-belt case plus Rabbi Yehuda's principle as part of the same mishnah unit, and the current heading's prose explicitly describes and analyzes this exact mishnah text including both the belt/rope distinction and Rabbi Yehuda's statement.",
+      "chosen_heading": "Bucket & Belt",
+      "current_heading": "Bucket & Belt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Chevel D'Gardi",
+    "candidates": [
+      "Rebbe Yehuda's Principle",
+      "Chevel D'Gardi",
+      "Mizchilaf/Confusion",
+      "Slipknot Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'chevel d'mai' and concludes 'ela chevel d'gardi,' which is precisely what the 'Chevel D'Gardi' section's prose describes, and the current placement is correct.",
+      "chosen_heading": "Chevel D'Gardi",
+      "current_heading": "Chevel D'Gardi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Slipknot Debate",
+    "candidates": [
+      "Mizchilaf/Confusion",
+      "Slipknot Debate",
+      "Rope vs. Slipknot",
+      "Slipknot Permanence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about the bucket rope and the identification of the contradiction between Rabbi Yehuda and the Rabbis \u2014 are precisely what candidate 1 ('Slipknot Debate') describes in its prose, which explicitly quotes these same textual elements and the kashya formula.",
+      "chosen_heading": "Slipknot Debate",
+      "current_heading": "Slipknot Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Slipknot Permanence",
+    "candidates": [
+      "Rope vs. Slipknot",
+      "Slipknot Permanence",
+      "Cow & Trough",
+      "One vs. Both Ends"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage resolves both the Rabbis' contradiction (rope confused with rope, bow not confused with knot) and Rabbi Yehuda's contradiction (bow is itself a knot), which is exactly what the 'Rope vs. Slipknot' prose describes, covering both halves of the Gemara's resolution in one unit.",
+      "chosen_heading": "Rope vs. Slipknot",
+      "current_heading": "Slipknot Permanence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "One vs. Both Ends",
+    "candidates": [
+      "Cow & Trough",
+      "One vs. Both Ends",
+      "Weavers' Muktzeh",
+      "Loom Beams",
+      "Holes & Posts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav's ruling about bringing a rope from home to tie to a cow and trough, plus the objection from the baraita and its resolution \u2014 content that directly matches the 'Cow & Trough' section's prose, which covers exactly this ruling and its rationale, while the current placement under 'One vs. Both Ends' covers the challenge and resolution that follows.",
+      "chosen_heading": "Cow & Trough",
+      "current_heading": "One vs. Both Ends",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Holes & Posts",
+    "candidates": [
+      "Weavers' Muktzeh",
+      "Loom Beams",
+      "Holes & Posts",
+      "Folding Clothes",
+      "Yom Kippur Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items continue the same discussion about loom posts (amudim), the hole-making concern, Rava's challenge to Rav Nachman, and Rabbi Yochanan's parallel question \u2014 exactly the content described in the 'Holes & Posts' prose, which is the current placement.",
+      "chosen_heading": "Holes & Posts",
+      "current_heading": "Holes & Posts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Yom Kippur Cases",
+    "candidates": [
+      "Folding Clothes",
+      "Yom Kippur Cases",
+      "Hachana Defined",
+      "Intent & Context",
+      "Folding Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna's content \u2014 folding garments, making beds from Friday night for Shabbat but not from Shabbat for motzaei Shabbat, plus the Rabbi Yishmael and Rabbi Akiva additions \u2014 is precisely what heading 0 ('Folding Clothes') introduces and discusses, making it the natural home for this mishnah text.",
+      "chosen_heading": "Folding Clothes",
+      "current_heading": "Yom Kippur Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Folding Conditions",
+    "candidates": [
+      "Hachana Defined",
+      "Intent & Context",
+      "Folding Conditions",
+      "Nireh Kemetaken",
+      "No Alternative",
+      "Tallit Practice",
+      "Aruch HaShulchan View",
+      "Shabbat Clothes",
+      "Lowering Hem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the school of Rabbi Yanai's conditions for permitted folding (one person, new, white, no alternative), which is exactly what the 'Folding Conditions' prose discusses.",
+      "chosen_heading": "Folding Conditions",
+      "current_heading": "Folding Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Lowering Hem",
+    "candidates": [
+      "Nireh Kemetaken",
+      "No Alternative",
+      "Tallit Practice",
+      "Aruch HaShulchan View",
+      "Shabbat Clothes",
+      "Lowering Hem",
+      "Vekibadto Drasha",
+      "Gassah Walking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Huna's ruling about lowering one's hem (yeshalshel bevagdav) when lacking Shabbos garments and Rav Safra's objection about appearing arrogant, which is precisely what the 'Lowering Hem' section's prose describes.",
+      "chosen_heading": "Lowering Hem",
+      "current_heading": "Lowering Hem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Gassah Walking",
+    "candidates": [
+      "Vekibadto Drasha",
+      "Gassah Walking",
+      "Cheftzei Shamayim",
+      "Speech Rules",
+      "Stream Crossing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vekibadto Drasha",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the full drasha on the Isaiah verse \u2014 clothing (v'chibadto), walking (me'asot derachecha), affairs (mimtzo cheftzecha), and the opening of speech (v'daber davar) \u2014 which matches heading 0 'Vekibadto Drasha' that discusses all these clauses together including Rabbi Yochanan's garments.",
+      "second_heading": "Gassah Walking",
+      "second_confidence": "high",
+      "second_reason": "Item 2 completes the speech clause and then pivots to the practical question of what 'walking differently on Shabbos' means, answered by Rav Huna's stream-crossing ruling, which is precisely what heading 1 'Gassah Walking' describes in its prose.",
+      "current_heading": "Gassah Walking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Stream Crossing",
+    "candidates": [
+      "Cheftzei Shamayim",
+      "Speech Rules",
+      "Stream Crossing",
+      "Eating Dirt",
+      "Dirt Consequences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses Rava's objection about crossing a stream, the permissibility of jumping when no alternative exists, and the question of taking large steps on Shabbat with the eyesight remedy via Kiddush \u2014 precisely what the 'Stream Crossing' prose describes.",
+      "chosen_heading": "Stream Crossing",
+      "current_heading": "Stream Crossing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Dirt Consequences",
+    "candidates": [
+      "Eating Dirt",
+      "Dirt Consequences",
+      "Clay Case",
+      "Ruth's Preparation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong under 'Eating Dirt' \u2014 Item 1 opens with the Shabbat/weekday question about eating dirt and Rav Ami's statement about Babylonian soil, and Item 2 continues with Reish Lakish/Rabbi Yochanan on Shinar/Metzula and the concluding case of the man who ate clay and died \u2014 all of which the 'Eating Dirt' prose explicitly previews ('The Gemara will continue with the specific hazards of eating dirt'), while the current placement 'Dirt Consequences' and 'Clay Case' have already absorbed this material in their own prose, suggesting the passage was misplaced one heading too late.",
+      "chosen_heading": "Eating Dirt",
+      "current_heading": "Dirt Consequences",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Ruth's Preparation",
+    "candidates": [
+      "Clay Case",
+      "Ruth's Preparation",
+      "Ruth's Modesty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Shabbat garments in the context of Ruth 3:3 and Rabbi Elazar's interpretation, plus the 'give to the wise' verse about Ruth and Samuel \u2014 exactly matching the prose of 'Ruth's Preparation' which covers both the Shabbos garments interpretation and the comparison of Ruth and Shmuel as instances of improving upon instructions.",
+      "chosen_heading": "Ruth's Preparation",
+      "current_heading": "Ruth's Preparation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Ruth's Modesty",
+    "candidates": [
+      "Ruth's Modesty",
+      "Samuel Case",
+      "Ruth's Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Ruth case and the Samuel case together as a pair, and candidate 0 ('Ruth's Modesty') is where it currently sits \u2014 but more importantly, the passage's content spans both cases, and candidate 0's prose explicitly discusses the Ruth portion while candidate 1 discusses the Samuel portion; since the passage contains both together as a single Talmudic unit, it belongs under the heading that introduces the pair, which is the current placement at index 0 (Ruth's Modesty), as the Samuel discussion follows naturally from it.",
+      "chosen_heading": "Ruth's Modesty",
+      "current_heading": "Ruth's Modesty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Ruth's Knowledge",
+    "candidates": [
+      "Samuel Case",
+      "Ruth's Knowledge",
+      "Boaz's Choice",
+      "Modesty Practice",
+      "Kingdom Hints"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ruth's Knowledge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers Ruth's wisdom in gleaning (two vs. three stalks) and Boaz's inquiry, which is exactly what heading 1 'Ruth's Knowledge' discusses.",
+      "second_heading": "Boaz's Choice",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the baraita about Ruth's modesty in posture and Boaz's use of 'cling,' which matches heading 2 'Boaz's Choice' that explicitly describes the baraita's observation of tzniut and Boaz's attention to Ruth's modesty.",
+      "current_heading": "Ruth's Knowledge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Kingdom Hints",
+    "candidates": [
+      "Boaz's Choice",
+      "Modesty Practice",
+      "Kingdom Hints",
+      "Wealth Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the hints (remez) Boaz gave Ruth about the kingdom of David, Manasseh, and the division of the kingdom \u2014 exactly what the 'Kingdom Hints' prose describes.",
+      "chosen_heading": "Kingdom Hints",
+      "current_heading": "Kingdom Hints",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Wealth Timeline",
+    "candidates": [
+      "Wealth Timeline",
+      "Eschatology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the historical wealth timeline (David/Solomon/Hezekiah/Rabbi) and the eschatological baraita, and the current placement under 'Wealth Timeline' (index 0) whose prose discusses all of this content is correct \u2014 the eschatological reading is included within the same Talmudic passage and the current section's prose already addresses it.",
+      "chosen_heading": "Wealth Timeline",
+      "current_heading": "Wealth Timeline",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,433 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Animal vs. Money Kedusha",
+    "candidates": [
+      "Son & Father's Chattat",
+      "No Kapara for Dead",
+      "Peshat from Vayikra",
+      "Father's Money Question",
+      "Animal vs. Money Kedusha",
+      "Me'ila & Fixed Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form the opening Mishnah and its immediate Gemara derivation (the baraita on 'korbano') establishing that a son cannot bring his father's chattat \u2014 exactly what heading 0 'Son & Father's Chattat' describes, while the current placement under 'Animal vs. Money Kedusha' is premature since these items precede the animal/money distinction discussion.",
+      "chosen_heading": "Son & Father's Chattat",
+      "current_heading": "Animal vs. Money Kedusha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Me'ila & Fixed Identity",
+    "candidates": [
+      "Animal vs. Money Kedusha",
+      "Me'ila & Fixed Identity",
+      "Sheep to Goat Switch",
+      "Up & Down Scale",
+      "Mem vs. Alef Derasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items discuss the baraita's logic about me'ila, animal vs. money designation, and the pasuk 'korbano al chataso' fixing identity\u2014exactly what the 'Me'ila & Fixed Identity' prose describes, including Rav Pappa/Rav Shmuel bar Shimi's clarification of lo ma'al velo kiper and the money case.",
+      "chosen_heading": "Me'ila & Fixed Identity",
+      "current_heading": "Me'ila & Fixed Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Mem vs. Alef Derasha",
+    "candidates": [
+      "Sheep to Goat Switch",
+      "Up & Down Scale",
+      "Mem vs. Alef Derasha",
+      "Repetition Defense",
+      "Bird Redemption Limit",
+      "Rich Sets Aside Birds"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Sheep to Goat Switch",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna text itself, covering the sheep/goat switch and the up/down scale rules, which belong under 'Sheep to Goat Switch' or more precisely the combined Mishna introduction \u2014 but since the Mishna covers both switching between animals AND the sliding scale, and item 1 explicitly covers the sheep-to-goat switch described in candidate 0, while item 2 covers the up/down scale of candidate 1, the Mishna as a unit is best placed under candidate 1 ('Up & Down Scale') which encompasses both phenomena.",
+      "second_heading": "Mem vs. Alef Derasha",
+      "second_confidence": "high",
+      "second_reason": "Items 3-12 are the Gemara's derivation from the mem/alef phrases (mechataso vs. al chataso) and the baraita's enumeration of practical applications, which is precisely what candidate 2 ('Mem vs. Alef Derasha') describes in its prose.",
+      "current_heading": "Mem vs. Alef Derasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Rich Sets Aside Birds",
+    "candidates": [
+      "Repetition Defense",
+      "Bird Redemption Limit",
+      "Rich Sets Aside Birds",
+      "Shema Mina Telat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the exact case of a wealthy person who designated birds instead of a lamb and then became poor, which is precisely what the 'Rich Sets Aside Birds' section's prose describes, including the dichuy ruling.",
+      "chosen_heading": "Rich Sets Aside Birds",
+      "current_heading": "Rich Sets Aside Birds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Shema Mina Telat",
+    "candidates": [
+      "Shema Mina Telat",
+      "Rabbi Shimon Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the 'shema mina telat' passage \u2014 the three conclusions drawn by Rav Huna son of Rav Yehoshua \u2014 which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Shema Mina Telat",
+      "current_heading": "Shema Mina Telat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Rabbi Shimon Dispute",
+    "candidates": [
+      "Rabbi Shimon Dispute",
+      "Hagralah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Ukva bar \u1e24ama's objection about the female animal/male offspring and Rabbi Shimon's ruling that the offspring itself is sacrificed as a Paschal offering \u2014 are precisely the content described in the 'Rabbi Shimon Dispute' prose, which covers this exact baraita, the challenge it poses, and Rabbi Shimon's dissenting view leading to the conclusion about ba'alei chayim einan nidchin.",
+      "chosen_heading": "Rabbi Shimon Dispute",
+      "current_heading": "Rabbi Shimon Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Hagralah Case",
+    "candidates": [
+      "Hagralah Case",
+      "Rav Chisda Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss Rabbi Shimon's linked positions that ba'alei chayim einan nidchin and that hagralah is not indispensable, which is precisely what the 'Hagralah Case' prose describes.",
+      "chosen_heading": "Hagralah Case",
+      "current_heading": "Hagralah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Rav Chisda Rule",
+    "candidates": [
+      "Rav Chisda Rule",
+      "Vayikra Designation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rav \u1e24isda's rule about when birds are designated, which directly matches the 'Rav Chisda Rule' prose describing this foundational principle about the two valid moments of designation.",
+      "chosen_heading": "Rav Chisda Rule",
+      "current_heading": "Rav Chisda Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Vayikra Designation",
+    "candidates": [
+      "Vayikra Designation",
+      "Hagralah Challenge",
+      "Kal VaChomer Analysis",
+      "Verse Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly provides Rav Shimi bar Ashi's textual derivation from the verses about purchase (ve-lakcha) and priestly action (ve-asah ha-kohen), which is precisely what the 'Vayikra Designation' prose describes.",
+      "chosen_heading": "Vayikra Designation",
+      "current_heading": "Vayikra Designation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Verse Override",
+    "candidates": [
+      "Hagralah Challenge",
+      "Kal VaChomer Analysis",
+      "Verse Override",
+      "Poor to Rich Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous unit presenting the baraita's kal vachomer argument (that verbal designation should work by Yom Kippur goats since lots work there) and Rav's clarification of it, which matches the 'Kal VaChomer Analysis' heading's prose about the kal vachomer from the Yom Kippur goats and how designation works at intermediate times \u2014 not the 'Verse Override' heading which describes the resolution, whereas items 1\u20136 are primarily the challenge and the kal vachomer elaboration.",
+      "chosen_heading": "Kal VaChomer Analysis",
+      "current_heading": "Verse Override",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Poor to Rich Case",
+    "candidates": [
+      "Verse Override",
+      "Poor to Rich Case",
+      "Rav Sheshes Challenge",
+      "Rich Cannot Use Bird",
+      "Original Designation",
+      "Post-Facto Option",
+      "Metzora Scale",
+      "Zos vs. Toras",
+      "Metzora Unique",
+      "Up Down Summary",
+      "Sheep vs. Goat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Poor to Rich Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20136 form a continuous discussion about the poor-to-rich tum'at mikdash case, Rav Sheshet's challenge, and the Rabbi \u1e24agga dispute\u2014all matching the 'Poor to Rich Case' and its immediate follow-up headings.",
+      "second_heading": "Metzora Scale",
+      "second_confidence": "high",
+      "second_reason": "Items 7\u201310 introduce an entirely new baraita about the metzora with its own facts and scriptural derivations, matching the 'Metzora Scale' section exactly.",
+      "current_heading": "Poor to Rich Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Sheep vs. Goat",
+    "candidates": [
+      "Rav Sheshes Challenge",
+      "Rich Cannot Use Bird",
+      "Original Designation",
+      "Post-Facto Option",
+      "Metzora Scale",
+      "Zos vs. Toras",
+      "Metzora Unique",
+      "Up Down Summary",
+      "Sheep vs. Goat",
+      "Other Reversals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "Both items are from the final Mishnah taught by Rabbi Shimon about standard orderings in the Torah (lambs before goats, doves before pigeons) and the teaching that reversals show equality \u2014 exactly what heading 8 'Sheep vs. Goat' and heading 9 'Other Reversals' describe, and the current placement under 'Sheep vs. Goat' is correct as it captures the opening of this Mishnah unit.",
+      "chosen_heading": "Sheep vs. Goat",
+      "current_heading": "Sheep vs. Goat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Other Reversals",
+    "candidates": [
+      "Other Reversals",
+      "Father Precedence",
+      "Rav Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states the Sages' ruling that the father takes precedence over the mother because both the son and his mother are obligated in honoring the father, which is precisely what the 'Father Precedence' section's prose describes.",
+      "chosen_heading": "Father Precedence",
+      "current_heading": "Other Reversals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Rav Priority",
+    "candidates": [
+      "Father Precedence",
+      "Rav Priority",
+      "First & Second"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states the ruling that a rav takes precedence over a father in Torah study because both son and father are obligated in the rav's honor, which is precisely what the 'Rav Priority' prose section describes.",
+      "chosen_heading": "Rav Priority",
+      "current_heading": "Rav Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141,
+      142
+    ],
+    "current_heading": "First & Second",
+    "candidates": [
+      "First & Second",
+      "Third & Fourth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items cover the first and second cries of the Temple courtyard, which is precisely what the 'First & Second' section's prose describes.",
+      "chosen_heading": "First & Second",
+      "current_heading": "First & Second",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146
+    ],
+    "current_heading": "Third & Fourth",
+    "candidates": [
+      "Third & Fourth",
+      "Silk Gloves Sin",
+      "Hands Cut Off"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the third and fourth cries (welcoming Elishama and expelling Issachar), which is exactly what the 'Third & Fourth' section's prose discusses.",
+      "chosen_heading": "Third & Fourth",
+      "current_heading": "Third & Fourth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152
+    ],
+    "current_heading": "Hands Cut Off",
+    "candidates": [
+      "Silk Gloves Sin",
+      "Hands Cut Off",
+      "Ignorance Added"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together narrate the complete story of Yannai's debate, Issachar's dismissive gesture, and the cutting off of both hands\u2014exactly what the 'Hands Cut Off' prose section describes in detail.",
+      "chosen_heading": "Hands Cut Off",
+      "current_heading": "Hands Cut Off",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156
+    ],
+    "current_heading": "Ignorance Added",
+    "candidates": [
+      "Ignorance Added",
+      "Talmidei Chacham"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items (Rav Ashi citing the mishnah and Ravina citing the Torah verses) are precisely the content described in candidate 0's prose about Issachar's ignorance of the mishnayot and the basic pesukim, making the current placement correct.",
+      "chosen_heading": "Ignorance Added",
+      "current_heading": "Ignorance Added",
+      "moved": false
+    }
+  }
+]

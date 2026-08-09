@@ -1,12 +1,9 @@
-# Bava Batra 46 — Daf Yomi Shiur
-
+[DAF:45b]
 ## Rava vs. Abaye
 
-### Two Axes
 
-> **Hebrew/Aramaic:** הַמַּפְקִיד אֵצֶל חֲבֵירוֹ בְּעֵדִים – אֵינוֹ צָרִיךְ לְהַחְזִיר לוֹ בְּעֵדִים? לָא סָלְקָא דַּעְתָּךְ – אֶלָּא הַמַּפְקִיד אֵצֶל חֲבֵירוֹ בְּעֵדִים, צָרִיךְ לְהַחֲזִיר לוֹ בְּעֵדִים.
->
-> **Translation:** in the case of **one who deposits** an item **with another in** the presence of **witnesses** the recipient **need not return** it **to him in** the presence of **witnesses?** If that were to be so, the craftsman could claim that he had returned it to the owner, even though there are no witnesses. That possibility should **not enter your mind. Rather,** in the case of **one who deposits** an item **with another in** the presence of **witnesses,** the recipient **must return** it **to him in** the presence of **witnesses.** Therefore, the craftsman could not have claimed that he returned it to the owner.
+
+### Two Axes
 
 The Gemara on Daf 46 opens in the middle of a debate between Rava and Abaye concerning the rule stated in the Mishnah: *uman ein lo chazakah* — a craftsman does not acquire a *chazakah* (presumption of ownership) over items in his possession. To understand the structure of this debate, two independent axes must be held in mind simultaneously.
 
@@ -16,23 +13,11 @@ The dispute between Rava and Abaye concerns which of these two axes is the domin
 
 ### Rava: Witnesses
 
-> **Hebrew/Aramaic:** מֵיתִיבִי אַבָּיֵי: רָאָה עַבְדּוֹ בְּיַד אוּמָּן, וְטַלִּיתוֹ בְּיַד כּוֹבֵס, אָמַר לוֹ: ״מַה טִּיבוֹ אֶצְלְךָ?״ ״אַתָּה מְכַרְתּוֹ לִי״, ״אַתָּה נְתַתּוֹ לִי בְּמַתָּנָה״ – לֹא אָמַר כְּלוּם. ״בְּפָנַי אָמַרְתָּ לוֹ לְמוֹכְרו וְלִיתְּנוֹ לוֹ בְּמַתָּנָה״ – דְּבָרָיו קַיָּימִין.
->
-> **Translation:** **Abaye raises an objection** to Rabba's ruling from a *baraita* (*Tosefta* 2:6): There is a case where one **saw his slave in** the **possession of a craftsman, or his cloak in** the **possession of a launderer,** and **says to him: What** is the **nature of its** presence **in your** possession? If the craftsman or launderer replied: **You sold me** the slave or cloak, or: **You gave** the slave or cloak **to me as a gift,** he has **not said anything,** and must return it, since a craftsman does not establish the presumption of ownership. But if the craftsman or launderer replied: **You said in my presence to** someone else **to sell** the slave or cloak to him **or to give** the slave or cloak **to him,** i.e., to sell or give the slave or cloak to the craftsman or launderer himself, **as a gift,** then **his statement is valid.**
-
 Rava's position is that *eidim* are the controlling criterion. Once it is established through witnesses that the owner gave the item to the craftsman for a professional purpose — say, for dry cleaning — the craftsman is never believed to claim ownership of it, even if nobody currently sees the item in his hands. This follows from the principle *hamapkid etzel chaveiro be'eidim tzarich lehachziro be'eidim*: one who deposits an item with another in the presence of witnesses must return it in the presence of witnesses. Since the craftsman cannot demonstrate that he returned the item via witnesses, he is not believed to say he returned it, and by extension, not believed to say he purchased it.
 
 A striking implication immediately surfaces: this principle has nothing specifically to do with the craftsman's professional status. The same rule would apply to any person who received any item as a *pikadon* (deposit) in the presence of witnesses. If I deposit something with a neighbor in front of witnesses and the neighbor later claims he bought it from me, he too would be disbelieved. Rava's position, then, does not actually explain why the Mishnah singles out the *uman*. The Gemara will press this point at length, and *Tosafot* addresses how it might nonetheless remain connected to the *uman* context — but the tension is real and acknowledged.
 
 ### Abaye: Possession
-
-> **Hebrew/Aramaic:** מַאי שְׁנָא רֵישָׁא וּמַאי שְׁנָא סֵיפָא?
->
-> **Translation:** Before Abaya raises his objection, he first clarifies the ruling of the *baraita*. **What is different** in **the first clause** that the craftsman is not deemed credible **and what is different** in **the latter clause** that he is?
-
-> **Hebrew/Aramaic:** אָמַר רַבָּה: סֵיפָא – בְּיוֹצֵא מִתַּחַת יְדֵי אַחֵר, וְקָאָמַר לֵיהּ אַחֵר: בְּפָנַי אָמַרְתָּ לוֹ לְמוֹכְרוֹ וְלִיתְּנוֹ בְּמַתָּנָה. מִיגּוֹ דְּאִי בָּעֵי אָמַר לֵיהּ: ״מִינָּךְ זְבַנְתֵּיהּ״, כִּי אָמַר לֵיהּ נָמֵי: ״בְּפָנַי אָמַרְתָּ לוֹ לְמוֹכְרוֹ״ – דְּבָרָיו קַיָּימִין, וּמְהֵימַן.
->
-> **Translation:** **Rabba said: The latter clause** is stated **with regard to** a case where the slave or cloak **emerges from the possession of another,** and not from the possession of the craftsman, **and** this **other** person **is saying to** the owner: **You said in my presence to** the craftsman **to sell** the slave or cloak **or to give** the slave or cloak to me **as gift.** This person is deemed credible despite acknowledging that he received it from the craftsman, **since if he had wanted** to, he could have **said to** the owner of the item: **I purchased** the slave or cloak **from you.** As this third party is not a craftsman, he is able to establish the presumption of ownership through possession and would be deemed credible. Therefore, **when** he **says to him as well: You said to him in my presence to sell** the slave or cloak, **his statement is valid, and he is** also **deemed credible.**
 
 Abaye's position is far more directly tied to the *uman*'s unique professional role. For Abaye, the controlling criterion is *ra'ah* — whether we currently observe the item in the craftsman's possession. The logic is as follows: a dry cleaner is the type of person to whom one naturally gives one's suit. Therefore, when we see a dry cleaner holding a suit we knew to be someone else's, that very combination — craftsman plus item of the type he handles — strips away his *chazakah*, even without any witnesses to the original handover. Conversely, if we do not see the item in his hands, Abaye holds that the craftsman is believed to claim ownership, because there is no current visual evidence contradicting his claim.
 
@@ -40,29 +25,23 @@ This approach maps cleanly onto the concept of *uman ein lo chazakah*. A normal 
 
 ### Rava Retracts
 
-> **Hebrew/Aramaic:** קָתָנֵי מִיהַת רֵישָׁא: ״רָאָה״. הֵיכִי דָמֵי? אִי דְּאִיכָּא עֵדִים – לְמָה לִי רָאָה? נַיְתֵי עֵדִים וְנִשְׁקוֹל! אֶלָּא לָאו דְּלֵיכָּא עֵדִים? וְכִי רָאָה מִיהָא תָּפֵיס לֵיהּ!
->
-> **Translation:** After having clarified the ruling of the *baraita*, Abaye presents his objection: **In any event, the first clause** of the *baraita* **teaches** that the case where a craftsman is not deemed credible is where the owner **saw** the slave or cloak in the possession of the craftsman. **What are the circumstances? If** it is referring to **where there are witnesses** to the fact that the owner gave the slave or cloak to the craftsman for training or cleaning, respectively, **why do I** need for the owner to have **seen** them in the craftsman's possession? Let the owner simply **bring witnesses and take** back his slave or cloak. **Rather, is it not** referring to a case **where there are no witnesses, and** nevertheless, **when** the owner **saw** the slave or cloak in the craftsman's possession, he **may seize** the slave or cloak **in any case?** This contradicts Rabba's statement that the decisive factor is whether the transfer took place in the presence of witnesses.
-
-> **Hebrew/Aramaic:** לָא, לְעוֹלָם דְּאִיכָּא עֵדִים; וְהוּא דְּרָאָה.
->
-> **Translation:** Rabba answers this objection: **No,** that is not the case of the *baraita*. **Actually,** it is referring to a case **where there are witnesses, and** nevertheless, **that is** the *halakha*, that he may seize the slave or cloak only **where** he **saw** it currently in the possession of the craftsman. But if there are no witnesses that it is currently in his possession, he would be deemed credible if he were to claim that he purchased the slave or cloak from the owner, as he could have claimed that he returned the slave or cloak.
-
-> **Hebrew/Aramaic:** וְהָא אַתְּ הוּא דְּאָמְרַתְּ: הַמַּפְקִיד אֵצֶל חֲבֵירוֹ בְּעֵדִים, צָרִיךְ לְפוֹרְעוֹ בְּעֵדִים! אֲמַר לֵיהּ: הֲדַרִי בִּי.
->
-> **Translation:** Abaye asked him: **But you are** the one **who said:** In the case of **one who deposits** an item **with another in** the presence of **witnesses,** the recipient **must return** it **to him in** the presence of **witnesses.** Therefore, if it was given to the craftsman in the presence of witnesses, he would not have the ability to make a more advantageous claim [*miggo*] that he returned it. Rabba **said to** Abaye: **I retracted** that opinion and hold that he may return it even when not in the presence of witnesses.
-
 A *baraita* was introduced that appeared to demonstrate that the critical variable is indeed *ra'ah* — visual observation — rather than *eidim*. Confronted with this evidence, Rava retracted his broader position and limited himself to a much narrower claim: *ein lo chazakah* applies only when both criteria are simultaneously present — both witnesses to the original transfer and current visible possession. That, of course, is the uncontested case everyone agrees upon from the outset. Rava's retraction thus left him in agreement with the obvious case and added nothing beyond it. This is where the discussion stood at the close of the previous session.
+
+The Gemara now resumes, and it is worth pausing to note the precise strategic framing of what follows. The Gemara signals this with the word *mativeiy* — Rava raised a challenge — followed by *lisei'ei l'Rabba*, to support Rabba. Rava is not here challenging Abaye directly. That asymmetry is deliberate: Abaye had not staked out an affirmative position of his own so much as probed Rava's. Rava therefore turns to the other flank, attempting to mount a positive case for Rabba's criterion of *eidim* as the operative principle — a challenge to the gemara's implicit drift in the other direction.
+
+> **Hebrew/Aramaic:** מֵתִיב רָבָא לְסַיּוֹעֵי לְרַבָּה: הַנּוֹתֵן טַלִּיתוֹ לְאוּמָּן, אוּמָּן אוֹמֵר: שְׁתַּיִם קָצַצְתָּ לִי, וְהַלָּה אוֹמֵר: לֹא קָצַצְתִּי לְךָ אֶלָּא אַחַת. כׇּל זְמַן שֶׁהַטַּלִּית בְּיַד אוּמָּן – עַל בַּעַל הַבַּיִת לְהָבִיא רְאָיָה. נְתָנָהּ לוֹ – בִּזְמַנּוֹ, נִשְׁבָּע וְנוֹטֵל. עָבַר זְמַנּוֹ, הַמּוֹצִיא מֵחֲבֵירוֹ עָלָיו הָרְאָיָה.
+> **Translation:** **Rava raises an objection** from a *baraita* **to support** the opinion of **Rabba:** With regard to **one who gives his cloak to a craftsman,** and then the **craftsman says: You fixed two** dinars as **my** payment, **and that one,** the owner, **says: I fixed** only **one** dinar as **your** payment, then, **so long as** it is so **that the cloak is in** the **possession of** the **craftsman,** it is incumbent **upon** the **owner to bring proof** that the fee was one dinar. If the craftsman **gave** the cloak back **to him,** then there are two scenarios: If the claim is lodged **in its** proper **time,** i.e., on the day of the cloak’s return, then the craftsman **takes an oath and receives** the two dinars. **But** if **its** proper **time passed,** then **the burden of proof rests upon the claimant,** and the craftsman would need to bring proof that the fee was two dinars.
 
 ---
 
 ## Craft Fee Dispute
 
+
+
 ### Fee Dispute
 
-> **Hebrew/Aramaic:** מֵתִיב רָבָא לְסַיּוֹעֵי לְרַבָּה: הַנּוֹתֵן טַלִּיתוֹ לְאוּמָּן, אוּמָּן אוֹמֵר: שְׁתַּיִם קָצַצְתָּ לִי, וְהַלָּה אוֹמֵר: לֹא קָצַצְתִּי לְךָ אֶלָּא אַחַת. כׇּל זְמַן שֶׁהַטַּלִּית בְּיַד אוּמָּן – עַל בַּעַל הַבַּיִת לְהָבִיא רְאָיָה. נְתָנָהּ לוֹ – בִּזְמַנּוֹ, נִשְׁבָּע וְנוֹטֵל. עָבַר זְמַנּוֹ, הַמּוֹצִיא מֵחֲבֵירוֹ עָלָיו הָרְאָיָה.
->
-> **Translation:** **Rava raises an objection** from a *baraita* **to support** the opinion of **Rabba:** With regard to **one who gives his cloak to a craftsman,** and then the **craftsman says: You fixed two** dinars as **my** payment, **and that one,** the owner, **says: I fixed** only **one** dinar as **your** payment, then, **so long as** it is so **that the cloak is in** the **possession of** the **craftsman,** it is incumbent **upon** the **owner to bring proof** that the fee was one dinar. If the craftsman **gave** the cloak back **to him,** then there are two scenarios: If the claim is lodged **in its** proper **time,** i.e., on the day of the cloak's return, then the craftsman **takes an oath and receives** the two dinars. **But** if **its** proper **time passed,** then **the burden of proof rests upon the claimant,** and the craftsman would need to bring proof that the fee was two dinars.
+
+The Gemara now introduces a *baraita* as part of Rava's attempt to support the position of *Rabba* — the view that *eidim* are the dominant criterion. The case is as follows: a person gives his *tallis* to a craftsman (*noten taliso le'uman*). The craftsman says they agreed on a fee of two *zuz*, while the owner says they agreed on one. Who is believed? The Mishnah rules: *kol zeman she-tallis beyad uman* — as long as the garment remains in the craftsman's hands, the burden of proof falls on the owner (*al habaal habayis l'havi re'iyah*). The craftsman is believed, because of *migo* — since he could have claimed outright that he purchased the garment, he is believed on the lesser claim of the disputed fee amount.
 
 This is a striking *migo*: the craftsman's credibility on the fee dispute derives from his latent ability to claim ownership of the garment entirely.
 
@@ -72,18 +51,16 @@ The Gemara continues with the next clause: if the craftsman has already returned
 
 *Tosafot* raises a pointed difficulty with this entire temporal framework: the classic case in which *bizmano nishba venotel* makes sense is when the parties dispute *whether* payment occurred at all. There, the logic is clean — the employer is distracted at the moment of payment, and if the worker truly had not been paid, he would have pressed his claim immediately. But the case here is a dispute over *what was originally agreed upon* — a conversation that took place at the time of the original commission, not at the time of payment. Neither the distraction of the payment moment nor the significance of delayed demand maps naturally onto this scenario. *Tosafot* raises this problem but does not fully resolve it.
 
+[DAF:46a]
 ### Scenario Analysis
 
-> **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִי דְּאִיכָּא עֵדִים, לִיחְזֵי עֵדִים מַאי קָאָמְרִי!
->
+> **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִי דְּאִיכָּא עֵדִים, לִיחְזֵי עֵדִים מַאי קָאָמְרִי!
 > **Translation:** Rava continues with an analysis of this *baraita*: **What are the circumstances** of the case discussed in this *baraita*? **If** it is a case **where there are witnesses** who saw the transfer of the item, **let us see what the witnesses say** about the fee, as they presumably heard the details of the arrangement.
 
-> **Hebrew/Aramaic:** אֶלָּא לָאו דְּלֵיכָּא עֵדִים? וְקָתָנֵי: אוּמָּן מְהֵימַן – מִיגּוֹ דְּאִי בָּעֵי אָמַר לֵיהּ ״לְקוּחָה הִיא בְּיָדִי״, מְהֵימַן נָמֵי אַאַגְרֵיהּ!
->
+> **Hebrew/Aramaic:** אֶלָּא לָאו דְּלֵיכָּא עֵדִים? וְקָתָנֵי: אוּמָּן מְהֵימַן – מִיגּוֹ דְּאִי בָּעֵי אָמַר לֵיהּ ״לְקוּחָה הִיא בְּיָדִי״, מְהֵימַן נָמֵי אַאַגְרֵיהּ!
 > **Translation:** **Rather, is it not** referring to a case **where there are no witnesses** to the transfer, **and** it **teaches** that the **craftsman** is **deemed credible? Since if he had wanted** to he could have **said to him: It is purchased** and that is why it is **in my possession,** he is **deemed credible with regard to** his claim **about his fee as well.** This supports the ruling of Rabba that if there are no witnesses, the craftsman is deemed credible if he says that the item belongs to him.
 
-> **Hebrew/Aramaic:** לָא, לְעוֹלָם דְּלֵיכָּא עֵדִים; וְהוּא דְּלֹא רָאָה.
->
+> **Hebrew/Aramaic:** לָא, לְעוֹלָם דְּלֵיכָּא עֵדִים; וְהוּא דְּלֹא רָאָה.
 > **Translation:** The Gemara rejects this proof: **No, actually,** perhaps the *baraita* is referring to a case **where there are no witnesses** to the transfer, **but** it is specifically referring to a case **where** the owner **did not see** the cloak in the possession of the craftsman, who could consequently deny ever having received it from the owner. Therefore, it is not a proof in support of the ruling of Rabba that the craftsman would be deemed credible even if there are witnesses that it is currently in his possession.
 
 The Gemara now probes what scenario the Mishnah is actually describing — specifically, which combination of *eidim* and *ra'ah* is at play. The question: in what situation is it interesting and non-trivial to say that the craftsman is believed to claim he could assert ownership of the garment (*lekucha hi beyadi*)?
@@ -96,12 +73,10 @@ The Gemara responds: *le'olam deleika edim, vehu delo ra'ah* — in truth the sc
 
 ### Nachman Challenge
 
-> **Hebrew/Aramaic:** מֵתִיב רַב נַחְמָן בַּר יִצְחָק: אוּמָּן אֵין לוֹ חֲזָקָה. אוּמָּן הוּא דְּאֵין לוֹ חֲזָקָה – הָא אַחֵר יֵשׁ לוֹ חֲזָקָה.
->
-> **Translation:** **Rav Naḥman bar Yitzḥak raises an objection** to Rabba's ruling from Shmuel's paraphrase of the mishna: **A craftsman does not have** the ability to establish the **presumption** of ownership of property in his possession. This indicates that **it is** specifically **a craftsman who does not have** the ability to establish the **presumption** of ownership, **but another** person in similar circumstances **has** the ability to establish the **presumption** of ownership.
+> **Hebrew/Aramaic:** מֵתִיב רַב נַחְמָן בַּר יִצְחָק: אוּמָּן אֵין לוֹ חֲזָקָה. אוּמָּן הוּא דְּאֵין לוֹ חֲזָקָה – הָא אַחֵר יֵשׁ לוֹ חֲזָקָה.
+> **Translation:** **Rav Naḥman bar Yitzḥak raises an objection** to Rabba’s ruling from Shmuel’s paraphrase of the mishna: **A craftsman does not have** the ability to establish the **presumption** of ownership of property in his possession. This indicates that **it is** specifically **a craftsman who does not have** the ability to establish the **presumption** of ownership, **but another** person in similar circumstances **has** the ability to establish the **presumption** of ownership.
 
-> **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִי דְּאִיכָּא עֵדִים, אַחֵר – אַמַּאי יֵשׁ לוֹ חֲזָקָה? אֶלָּא לָאו דְּלֵיכָּא עֵדִים? וְקָתָנֵי: אוּמָּן אֵין לוֹ חֲזָקָה. תְּיוּבְתָּא דְּרַבָּה! תְּיוּבְתָּא.
->
+> **Hebrew/Aramaic:** הֵיכִי דָמֵי? אִי דְּאִיכָּא עֵדִים, אַחֵר – אַמַּאי יֵשׁ לוֹ חֲזָקָה? אֶלָּא לָאו דְּלֵיכָּא עֵדִים? וְקָתָנֵי: אוּמָּן אֵין לוֹ חֲזָקָה. תְּיוּבְתָּא דְּרַבָּה! תְּיוּבְתָּא.
 > **Translation:** **What are the circumstances** in which this would apply? **If** it is referring to a case **where there are witnesses** that the person in question received the item from another, **why** is it that **another** person **has** the ability to establish the **presumption** of ownership, when there are witnesses that he received this item as a deposit? **Rather, is it not** referring to a case **where there are no witnesses, and** yet, the mishna **teaches: A craftsman does not have** the ability to establish the **presumption** of ownership. This indicates that a craftsman does not establish the presumption of ownership under any circumstances, contrary to the ruling of Rabba. The Gemara concludes: **The refutation of** the opinion of **Rabba** is indeed **a conclusive refutation,** and his ruling is rejected.
 
 Rav Nachman bar Yitzchak now mounts the definitive challenge against Rava. The Mishnah states *uman ain lo chazakah* — *the craftsman* does not have a *chazakah*. The implicit contrast is: *uman hu de'ein lo chazakah, ha'acher yesh lo chazakah* — it is specifically the craftsman who lacks *chazakah*, while a non-craftsman in an otherwise similar situation would have one.
@@ -116,11 +91,12 @@ The Gemara presses: if there *are* witnesses, why would a non-craftsman have a *
 
 ## Mixed Garments
 
-### Baraita: Accidental Mix-Up
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: נִתְחַלְּפוּ לוֹ כֵּלִים בְּכֵלִים בְּבֵית הָאוּמָּן – הֲרֵי זֶה יִשְׁתַּמֵּשׁ בָּהֶן, עַד שֶׁיָּבֹא הַלָּה וְיִטּוֹל אֶת שֶׁלּוֹ. בְּבֵית הָאֵבֶל אוֹ בְּבֵית הַמִּשְׁתֶּה – הֲרֵי זֶה לֹא יִשְׁתַּמֵּשׁ בָּהֶן, עַד שֶׁיָּבֹא הַלָּה וְיִטּוֹל אֶת שֶׁלּוֹ. מַאי שְׁנָא רֵישָׁא וּמַאי שְׁנָא סֵיפָא?
->
-> **Translation:** § The Gemara discusses another *halakha* pertaining to the giving of an item to a craftsman. **The Sages taught:** If one's **utensils were** mistakenly **switched with** another's **utensils in the house of a craftsman, this** one who received the wrong utensils **may use them until** the time **when that** one, whose utensils he received, **comes and takes his.** But if his utensils and another's utensils were mistakenly switched **in a house of mourning or in a house of** a wedding **feast, this** one who took the wrong utensils **may not use them** in the interim, i.e., **until** the time **when that** one, whose utensils he took, **comes and takes his.** The Gemara asks: **What is different** in **the first clause** where he may use the utensils, **and what is different** in **the latter clause** where he may not?
+
+### Baraita: Garment Mistake
+
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: נִתְחַלְּפוּ לוֹ כֵּלִים בְּכֵלִים בְּבֵית הָאוּמָּן – הֲרֵי זֶה יִשְׁתַּמֵּשׁ בָּהֶן, עַד שֶׁיָּבֹא הַלָּה וְיִטּוֹל אֶת שֶׁלּוֹ. בְּבֵית הָאֵבֶל אוֹ בְּבֵית הַמִּשְׁתֶּה – הֲרֵי זֶה לֹא יִשְׁתַּמֵּשׁ בָּהֶן, עַד שֶׁיָּבֹא הַלָּה וְיִטּוֹל אֶת שֶׁלּוֹ. מַאי שְׁנָא רֵישָׁא וּמַאי שְׁנָא סֵיפָא?
+> **Translation:** § The Gemara discusses another *halakha* pertaining to the giving of an item to a craftsman. **The Sages taught:** If one’s **utensils were** mistakenly **switched with** another’s **utensils in the house of a craftsman, this** one who received the wrong utensils **may use them until** the time **when that** one, whose utensils he received, **comes and takes his.** But if his utensils and another’s utensils were mistakenly switched **in a house of mourning or in a house of** a wedding **feast, this** one who took the wrong utensils **may not use them** in the interim, i.e., **until** the time **when that** one, whose utensils he took, **comes and takes his.** The Gemara asks: **What is different** in **the first clause** where he may use the utensils, **and what is different** in **the latter clause** where he may not?
 
 The Gemara now introduces a *baraita* from Bava Kamma that, while tangentially related, raises a vivid practical question. *Nitchelfu lo keilim be-keilim be-veit ha'uman* — if garments got mixed up in the craftsman's shop and you came to collect yours but were handed someone else's by mistake, the *baraita* rules: *harei zeh yishtamesh bahen ad she-yavo halaz ve-yitol et shelo* — you may use the other person's garment until the person who accidentally took yours returns it, and then you exchange.
 
@@ -130,9 +106,9 @@ The problem, then, is the first case. Why may you use a garment mistakenly recei
 
 ### Craftsman Permission
 
-> **Hebrew/Aramaic:** אָמַר רַב: הֲוָה יָתֵיבְנָא קַמֵּיהּ דְּחַבִּיבִי, וַאֲמַר לִי: וְכִי אֵין אָדָם עָשׂוּי לוֹמַר לָאוּמָּן ״מְכוֹר לִי טַלִּיתִי״?!
->
-> **Translation:** **Rav said: I was sitting before my uncle,** Rav Ḥiyya, **and he said** the explanation **to me: And is a person not likely to say to the craftsman: Sell my cloak for me** after you finish repairing it? It is possible that the craftsman mistakenly sold the utensils of another client instead, and gave to that other client the utensils that should have been sold. Since the owner of these utensils received the money from the sale of the other client's utensils, the craftsman has a right to give the remaining utensils to the other client in the interim. This reasoning does not apply in the case of the house of mourning or a wedding feast, where one simply took utensils belonging to another.
+> **Hebrew/Aramaic:** אָמַר רַב: הֲוָה יָתֵיבְנָא קַמֵּיהּ דְּחַבִּיבִי, וַאֲמַר לִי: וְכִי אֵין אָדָם עָשׂוּי לוֹמַר לָאוּמָּן ״מְכוֹר לִי טַלִּיתִי״?!
+> **Translation:** **Rav said: I was sitting before my uncle,** Rav Ḥiyya, **and he said** the explanation **to me: And is a person not likely to say to the craftsman: Sell my cloak for me** after you finish repairing it? It is possible that the craftsman mistakenly sold the utensils of another client instead, and gave to that other client the utensils that should have been sold. Since the owner of these utensils received the money from the sale of the other client’s utensils, the craftsman has a right to give the remaining utensils to the other client in the interim. This reasoning does not apply in the case of the house of mourning or a wedding feast, where one simply took utensils belonging to another.
+
 
 Rav recounts that he was sitting before his beloved uncle, Rav Chiyya, who offered him the following explanation: *vechi ein adam asui lomar le'uman mechor li taliti?* — is it not entirely normal for a person to say to a craftsman, "sell my garment for me, give me the proceeds"? People leave items with craftsmen on a kind of consignment arrangement.
 
@@ -140,13 +116,12 @@ The reasoning proceeds as follows. Suppose Michael left his coat with the dry cl
 
 In the synagogue coat-room case, by contrast, no one has given anyone permission to distribute their coat. Whoever holds the garments in that context has no authority to transfer them. So when you take the wrong coat home, there is no possible framework under which you received it legitimately, and you may not use it.
 
-The logic requires that we *hypothesize* a plausible permissive scenario — the craftsman may have had the right to give this item out — and that hypothesis provides enough of a foundation to allow use pending resolution. This is not pure license: as soon as it becomes clear that no such permission existed, the item must be returned.
+The logic requires that we *hypothesize* a plausible permissive scenario — the craftsman may have had the right to give this item out — and that hypothesis provides enough of a foundation to allow use pending resolution. The craftsman's authority here is not full ownership, but the consignment arrangement grants him enough control over the item that we can treat his transfer, even an inadvertent one, as potentially within the scope of the permission Michael extended to him. This is not pure license: as soon as it becomes clear that no such permission existed, the item must be returned.
 
 ### Craftsman Only
 
-> **Hebrew/Aramaic:** אָמַר רַב חִיָּיא בְּרֵיהּ דְּרַב נַחְמָן: לֹא שָׁנוּ אֶלָּא הוּא, אֲבָל אִשְׁתּוֹ וּבָנָיו – לֹא. וְהוּא נָמֵי – לָא אֲמַרַן אֶלָּא דַּאֲמַר לֵיהּ: ״טַלִּית״ סְתָם, אֲבָל ״טַלִּיתְךָ״ – לָא, הַאי לָאו טַלִּית דִּידֵיהּ הוּא.
->
-> **Translation:** **Rav Ḥiyya, son of Rav Naḥman, said: They taught** that it is permitted to use the utensils **only** if the craftsman **himself** gave them to his customer, as in that case, the above reasoning applies. **But if** the craftsman's **wife or children** gave them to him, the customer may **not** use the utensils, as it is likely that they were given to him in error. **And even** if the craftsman himself gave the utensils to his customer, **we said** that it is permitted for him to use them **only** in a case **where** the craftsman **said** to him, for example: I am returning **a cloak, without specification. But** if the craftsman said to him: I am returning **your cloak,** then he may **not** use it, as **this is not his cloak,** and clearly it was given to him in error.
+> **Hebrew/Aramaic:** אָמַר רַב חִיָּיא בְּרֵיהּ דְּרַב נַחְמָן: לֹא שָׁנוּ אֶלָּא הוּא, אֲבָל אִשְׁתּוֹ וּבָנָיו – לֹא. וְהוּא נָמֵי – לָא אֲמַרַן אֶלָּא דַּאֲמַר לֵיהּ: ״טַלִּית״ סְתָם, אֲבָל ״טַלִּיתְךָ״ – לָא, הַאי לָאו טַלִּית דִּידֵיהּ הוּא.
+> **Translation:** **Rav Ḥiyya, son of Rav Naḥman, said: They taught** that it is permitted to use the utensils **only** if the craftsman **himself** gave them to his customer, as in that case, the above reasoning applies. **But if** the craftsman’s **wife or children** gave them to him, the customer may **not** use the utensils, as it is likely that they were given to him in error. **And even** if the craftsman himself gave the utensils to his customer, **we said** that it is permitted for him to use them **only** in a case **where** the craftsman **said** to him, for example: I am returning **a cloak, without specification. But** if the craftsman said to him: I am returning **your cloak,** then he may **not** use it, as **this is not his cloak,** and clearly it was given to him in error.
 
 Rav Papia the son of Rav Nachman adds a limitation: *lo shanu ela hu, aval ishto u'vanav lo* — this permissive rule applies only when the craftsman himself handed you the garment, not when his wife or children did so.
 
@@ -166,17 +141,25 @@ The practical application is somewhat subtle. If you are standing at the counter
 
 ## Pumbedita Scoundrel
 
-### Real-Life Scenario
 
-> **Hebrew/Aramaic:** אָמַר לֵיהּ אַבָּיֵי לְרָבָא: תָּא אַחְוִי לָךְ רַמָּאֵי דְפוּמְבְּדִיתָא, מַאי עָבְדִי. אָמַר לֵיהּ: ״הַב לִי סַרְבָּלַאי״. ״לֹא הָיוּ דְבָרִים מֵעוֹלָם״. ״הָא אִית לִי סָהֲדִי דְּחַזְיוּהּ גַּבָּךְ!״ אָמַר לֵיהּ: ״הָהוּא אַחֲרִינָא הֲוָה״. ״אַפְּקִינֵּיהּ וְנֶחְזִינְהוּ!״ אָמַר לֵיהּ: ״אִיבְרָא לָא מַפֵּיקְנָא לֵיהּ״.
->
-> **Translation:** § The Gemara presents another statement with regard to craftsmen. **Abaye said to Rava: Come** and **I will show you what the swindlers of Pumbedita do.** There was a case where the owner of an item **said to** a craftsman: **Give me** back **my cloak [*sarbelai*]** that I gave you to repair, and the craftsman replied: **These matters never occurred.** The owner responded: **But I have witnesses who saw it in your** possession. The craftsman **said to** the owner: **That was a different** cloak that they saw. The witnesses are uncertain as to whether it was really his cloak. The owner then said: **Bring it out and we will see it,** so as to determine whose it is. The craftsman **said to** the owner: **In truth, I will not bring it out,** as you have no valid claim to the cloak and I am not willing to show you another's property. This is the trickery to which Abaye referred, as it is not a sincere response, and the craftsman merely wishes to keep the cloak.
+
+### Real-Life Scenario
 
 Abaye, having established the theoretical primacy of *ra'ah*, now turns to a vivid practical illustration of the difficulties that arise when *ra'ah* cannot be cleanly established. He invites Rava: *ta achvei lach rama'ei d'Pumbedita* — come, let me show you the scoundrels of Pumbedita, and how they exploit legal technicalities to cheat people. The Gemara then dramatizes what one such dishonest dry cleaner would do.
 
 A person comes to retrieve his garment. The dry cleaner says: *lav itam me'olam* — I never had it, I don't know what you're talking about.
 
+[DAF:46b]
 ### Proving Possession
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי לְרָבָא: תָּא אַחְוִי לָךְ רַמָּאֵי דְפוּמְבְּדִיתָא, מַאי עָבְדִי. אָמַר לֵיהּ: ״הַב לִי סַרְבָּלַאי״. ״לֹא הָיוּ דְבָרִים מֵעוֹלָם״. ״הָא אִית לִי סָהֲדִי דְּחַזְיוּהּ גַּבָּךְ!״ אָמַר לֵיהּ: ״הָהוּא אַחֲרִינָא הֲוָה״. ״אַפְּקִינֵּיהּ וְנֶחְזִינְהוּ!״ אָמַר לֵיהּ: ״אִיבְרָא לָא מַפֵּיקְנָא לֵיהּ״.
+> **Translation:** § The Gemara presents another statement with regard to craftsmen. **Abaye said to Rava: Come** and **I will show you what the swindlers of Pumbedita do.** There was a case where the owner of an item **said to** a craftsman: **Give me** back **my cloak [*sarbelai*]** that I gave you to repair, and the craftsman replied: **These matters never occurred.** The owner responded: **But I have witnesses who saw it in your** possession. The craftsman **said to** the owner: **That was a different** cloak that they saw. The witnesses are uncertain as to whether it was really his cloak. The owner then said: **Bring it out and we will see it,** so as to determine whose it is. The craftsman **said to** the owner: **In truth, I will not bring it out,** as you have no valid claim to the cloak and I am not willing to show you another’s property. This is the trickery to which Abaye referred, as it is not a sincere response, and the craftsman merely wishes to keep the cloak.
+
+> **Hebrew/Aramaic:** אָמַר רָבָא: שַׁפִּיר קָאָמַר לֵיהּ –
+> **Translation:** **Rava said** to Abaye: The craftsman **is saying well to** the owner, and his claim will be accepted,
+
+> **Hebrew/Aramaic:** ״רָאָה״ תַּנְיָא.
+> **Translation:** as it **is taught** in the earlier *baraita* that the owner has a valid claim only when he, and witnesses, **saw** his cloak in the possession of the launderer and can definitively identify it. He cannot state a claim based on the mere possibility that it is his. This validates the claim of the craftsmen of Pumbedita.
 
 The owner responds: *ha ika sahadei d'chazya gabach* — I have witnesses who saw my garment in your possession. This is not the same as *eidim* who witnessed the original handover. These are witnesses who observed the item — a specific black coat, a distinctive suit — in the craftsman's hands at some point. That constitutes a case of *ra'ah*. And since we have established that *ra'ah* is the operative criterion, this should be sufficient to strip the craftsman of his *chazakah*.
 
@@ -186,18 +169,13 @@ The owner says: produce it, let us examine it — *afkinah ve-nechzinah*. The wi
 
 ### Rava Concedes
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: שַׁפִּיר קָאָמַר לֵיהּ – ״רָאָה״ תַּנְיָא.
->
-> **Translation:** **Rava said** to Abaye: The craftsman **is saying well to** the owner, and his claim will be accepted, as it **is taught** in the earlier *baraita* that the owner has a valid claim only when he, and witnesses, **saw** his cloak in the possession of the launderer and can definitively identify it. He cannot state a claim based on the mere possibility that it is his. This validates the claim of the craftsmen of Pumbedita.
-
 Rava, to the apparent surprise of those listening, sides with the dry cleaner: *shapir ka'amar lei* — he has said correctly. *Ra'ah tanyah* — it is all about *seeing* the specific item. If you cannot establish that what the witnesses saw was definitively *your* garment — if the craftsman can plausibly claim it was a similar garment belonging to a different customer — there is no legally actionable *ra'ah*. Witnesses who saw *a* coat in his possession but cannot identify it as *your specific* coat have provided suspicion, not proof. Suspicion does not override the craftsman's right to withhold. The scoundrel is technically within his legal rights.
 
 This is, as Rava acknowledges, a genuinely frustrating result. Rights are sometimes used to protect wrongdoing. But without the ability to positively identify the specific item, there is no sufficient *ra'ah*, and the claim fails.
 
 ### Practical Advice
 
-> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי: וְאִי חַכִּים, מְשַׁוֵּי לֵיהּ ״רָאָה״ – דְּאָמַר לֵיהּ: אַמַּאי תְּפִיסַתְּ לֵיהּ, לָאו מִשּׁוּם דְּאִית לָךְ גַּבַּאי? הַשְׁתָּא אַפְּקִינְהוּ וְשַׁיְּמִינְהוּ – שְׁקוֹל אַתְּ דִּידָך,ְ וְאֶשְׁקוֹל אֲנָא דִּידִי. אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרַב אַוְיָא לְרַב אָשֵׁי, מָצֵי אָמַר לֵיהּ: לָא צְרִיכְנָא לְשׁוּמָא דִידָךְ, כְּבָר שָׁמוּהַּ קַמָּאֵי דְקַמָּךְ.
->
+> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי: וְאִי חַכִּים, מְשַׁוֵּי לֵיהּ ״רָאָה״ – דְּאָמַר לֵיהּ: אַמַּאי תְּפִיסַתְּ לֵיהּ, לָאו מִשּׁוּם דְּאִית לָךְ גַּבַּאי? הַשְׁתָּא אַפְּקִינְהוּ וְשַׁיְּמִינְהוּ – שְׁקוֹל אַתְּ דִּידָך,ְ וְאֶשְׁקוֹל אֲנָא דִּידִי. אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרַב אַוְיָא לְרַב אָשֵׁי, מָצֵי אָמַר לֵיהּ: לָא צְרִיכְנָא לְשׁוּמָא דִידָךְ, כְּבָר שָׁמוּהַּ קַמָּאֵי דְקַמָּךְ.
 > **Translation:** **Rav Ashi said: And if** the owner **is clever, he will render** the situation into one of his having **seen** his cloak, **as** the owner can **say to** the craftsman: **Why** are you **holding it? Is it not due to** the fact **that there is** money of **yours with me,** and you are using the cloak as a means of collecting the debt that I owe you? **Now bring out** my cloak before the appraisers **and they will appraise its** value, and then **you take** what is rightfully **yours, and I will take** what is rightfully **mine.** When the craftsman presents the cloak, the ruling will change, as the owner will have seen the cloak. **Rav Aḥa, son of Rav Avya, said to Rav Ashi:** If the craftsman is clever, he **can say to** the owner: **I do not need your appraisal,** as the **earlier ones who preceded you already appraised it** and determined that its value does not exceed that of your debt to me.
 
 Rav Ashi offers a clever workaround. If you are dealing with such a craftsman, you can attempt to engineer a *ra'ah* situation that compels him to produce the item. Approach him and say: I understand why you are holding on to my coat — it must be because I owe you back fees. Let us be fair about this. I acknowledge I might owe you something. But you are holding on to a coat worth ten thousand dollars over a debt of perhaps one thousand. Let us bring the item out, have it assessed, you take what is yours and I will take the remainder — *v'shaiminu shkol at didach v'shkol ana didi*. You are not claiming to be a thief; let us resolve this equitably.
@@ -212,13 +190,20 @@ The episode as a whole reinforces the theoretical conclusion: *uman ein lo chaza
 
 ## Sharecropper Cases
 
+
+
 ### Sharecropper Rule
 
-> **Hebrew/Aramaic:** אָרִיס אֵין לוֹ חֲזָקָה. אַמַּאי? עַד הָאִידָּנָא פַּלְגָא, וְהַשְׁתָּא כּוּלַּהּ! אָמַר רַבִּי יוֹחָנָן: בַּאֲרִיסֵי בָּתֵּי אָבוֹת.
->
-> **Translation:** § The Gemara discusses a ruling that it paraphrases from the mishna: **A sharecropper does not have** the ability to establish the **presumption** of ownership of property in his possession. **Why** not? Isn't it so that **until that time,** while he was definitely working as a sharecropper, he consumed only **half** of the produce of the land, **and now,** for the past three years, he consumed **all of** its produce? He should be able to establish the presumption of ownership by consuming more produce than a sharecropper does. **Rabbi Yoḥanan says:** The ruling of the mishna is stated **with regard to family sharecroppers.** This type of sharecropper, who works for a family for many years, gathers all of the produce into his property, and then returns the landowner's share. Therefore, his collecting all of the produce into his property does not establish the presumption of ownership.
-
 The Gemara now transitions to the Mishnah's parallel rule: *aris ein lo chazakah* — a sharecropper (*aris*) does not acquire a *chazakah* over the land he works. At first glance this seems puzzling. A *chazakah* of land normally requires three years of uncontested use. If the *aris* worked the land for three years and kept all the produce for himself — whereas previously he gave half to the landowner — that shift should constitute strong prima facie evidence that he is no longer a sharecropper but a legitimate owner. Why then does the Mishnah say he has no *chazakah*?
+
+> **Hebrew/Aramaic:** אָרִיס אֵין לוֹ חֲזָקָה. אַמַּאי? עַד הָאִידָּנָא פַּלְגָא, וְהַשְׁתָּא כּוּלַּהּ! אָמַר רַבִּי יוֹחָנָן: בַּאֲרִיסֵי בָּתֵּי אָבוֹת.
+> **Translation:** § The Gemara discusses a ruling that it paraphrases from the mishna: **A sharecropper does not have** the ability to establish the **presumption** of ownership of property in his possession. **Why** not? Isn’t it so that **until that time,** while he was definitely working as a sharecropper, he consumed only **half** of the produce of the land, **and now,** for the past three years, he consumed **all of** its produce? He should be able to establish the presumption of ownership by consuming more produce than a sharecropper does. **Rabbi Yoḥanan says:** The ruling of the mishna is stated **with regard to family sharecroppers.** This type of sharecropper, who works for a family for many years, gathers all of the produce into his property, and then returns the landowner’s share. Therefore, his collecting all of the produce into his property does not establish the presumption of ownership.
+
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן: אָרִיס שֶׁהוֹרִיד אֲרִיסִין תַּחְתָּיו – יֵשׁ לוֹ חֲזָקָה. מַאי טַעְמָא? דְּלָא עֲבִיד אִינָשׁ דְּנָחֲתִי אֲרִיסֵי לְאַרְעֵיהּ, וְשָׁתֵיק.
+> **Translation:** **Rav Naḥman says: A sharecropper who installed** other **sharecroppers in his place has** the ability to establish the **presumption** of ownership. **What is the reason?** It is **that** it is **not common** for **a person** to see **that** unknown **sharecroppers** have been **installed in his land and** remain **silent.** If the prior owner did not lodge a protest, it indicates that the sharecropper is the owner of the land.
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: אָרִיס שֶׁחִלֵּק לַאֲרִיסִין – אֵין לוֹ חֲזָקָה. מַאי טַעְמָא? אֵימוֹר הַרְמַנְיָא בְּעָלְמָא שַׁוְּיוּהּ.
+> **Translation:** **Rabbi Yoḥanan says: A sharecropper who divided among** different **sharecroppers does not have** the ability to establish the **presumption** of ownership by that act. **What is the reason?** It is that one can **say** that the landowner **merely appointed him** as **an administrator [*harmanya*],** and there is no indication that he is acting as an owner.
 
 ### Permanent Arrangement
 
@@ -230,19 +215,12 @@ Outside the *batei avos* context, a standard *aris* who harvests everything for 
 
 ### Sub-contractors
 
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן: אָרִיס שֶׁהוֹרִיד אֲרִיסִין תַּחְתָּיו – יֵשׁ לוֹ חֲזָקָה. מַאי טַעְמָא? דְּלָא עֲבִיד אִינָשׁ דְּנָחֲתִי אֲרִיסֵי לְאַרְעֵיהּ, וְשָׁתֵיק.
->
-> **Translation:** **Rav Naḥman says: A sharecropper who installed** other **sharecroppers in his place has** the ability to establish the **presumption** of ownership. **What is the reason?** It is **that** it is **not common** for **a person** to see **that** unknown **sharecroppers** have been **installed in his land and** remain **silent.** If the prior owner did not lodge a protest, it indicates that the sharecropper is the owner of the land.
 
 Rav Nachman introduces a further refinement: *aris she-horid arisin tachtav yesh lo chazakah* — an *aris* who brought in sub-sharecroppers beneath him, replacing himself with others who do the actual work while he collects his percentage off the top, *does* have a *chazakah* — even within the *batei avos* context.
 
 The reason: *delo avid inish dinachtit arisei le'ar'veih ve-shatik* — a person does not simply bring strangers onto another's land without permission and remain silent about it. The landowner never agreed to have unknown third parties working his land. He trusted the *aris* family precisely because of their long relationship. If the landowner observed strangers working his land and said nothing, the only plausible explanation is that the *aris* had already purchased the land and now had full authority to contract with whomever he chose. Three years of such adverse possession — sub-contractors working the land without the landowner's permission, with the landowner silent — is sufficient to establish *chazakah*.
 
 ### Active vs. Passive
-
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: אָרִיס שֶׁחִלֵּק לַאֲרִיסִין – אֵין לוֹ חֲזָקָה. מַאי טַעְמָא? אֵימוֹר הַרְמַנְיָא בְּעָלְמָא שַׁוְּיוּהּ.
->
-> **Translation:** **Rabbi Yoḥanan says: A sharecropper who divided among** different **sharecroppers does not have** the ability to establish the **presumption** of ownership by that act. **What is the reason?** It is that one can **say** that the landowner **merely appointed him** as **an administrator [*harmanya*],** and there is no indication that he is acting as an owner.
 
 Rabbi Yochanan draws a crucial distinction within this scenario. *Aris she-chilek la'arisei ein lo chazakah* — but if instead of removing himself and replacing himself with others, the *aris* actively participates alongside additional workers — dividing up tasks, working the land together with them as a working foreman — he does *not* have a *chazakah*.
 
@@ -256,11 +234,13 @@ A brief but notable *Tosafot* digression: whenever the Gemara refers to *Rav Nac
 
 ## Sharecropper Testimony
 
+
+
 ### Interest Question
 
-> **Hebrew/Aramaic:** שְׁלַח לֵיהּ רַב נַחְמָן בַּר רַב חִסְדָּא לְרַב נַחְמָן בַּר יַעֲקֹב, יְלַמְּדֵנוּ רַבֵּינוּ: אָרִיס מֵעִיד, אוֹ אֵינוֹ מֵעִיד? הֲוָה יָתֵיב רַב יוֹסֵף קַמֵּיהּ, אֲמַר לֵיהּ: הָכִי אָמַר שְׁמוּאֵל: אָרִיס מֵעִיד. וְהָתַנְיָא: אֵינוֹ מֵעִיד!
->
-> **Translation:** The Gemara relates: **Rav Naḥman bar Rav Ḥisda sent** this message **to Rav Naḥman bar Yaakov: Our teacher, instruct us. Can a sharecropper testify** with regard to the ownership of a field of which he is a sharecropper, **or can he not testify,** as he is biased in his testimony? **Rav Yosef was sitting before** Rav Naḥman bar Yaakov and **said to him: This is what Shmuel said: A sharecropper can testify.** Rav Naḥman bar Yaakov said to him: **But isn't it taught** in a *baraita* that a sharecropper **cannot testify?**
+> **Hebrew/Aramaic:** שְׁלַח לֵיהּ רַב נַחְמָן בַּר רַב חִסְדָּא לְרַב נַחְמָן בַּר יַעֲקֹב, יְלַמְּדֵנוּ רַבֵּינוּ: אָרִיס מֵעִיד, אוֹ אֵינוֹ מֵעִיד? הֲוָה יָתֵיב רַב יוֹסֵף קַמֵּיהּ, אֲמַר לֵיהּ: הָכִי אָמַר שְׁמוּאֵל: אָרִיס מֵעִיד. וְהָתַנְיָא: אֵינוֹ מֵעִיד!
+> **Translation:** The Gemara relates: **Rav Naḥman bar Rav Ḥisda sent** this message **to Rav Naḥman bar Yaakov: Our teacher, instruct us. Can a sharecropper testify** with regard to the ownership of a field of which he is a sharecropper, **or can he not testify,** as he is biased in his testimony? **Rav Yosef was sitting before** Rav Naḥman bar Yaakov and **said to him: This is what Shmuel said: A sharecropper can testify.** Rav Naḥman bar Yaakov said to him: **But isn’t it taught** in a *baraita* that a sharecropper **cannot testify?**
+
 
 Rav Nachman bar Rav Chisda sent a question to Rav Nachman bar Yaakov: *yelamdeinu rabbeinu, aris me'id o eino me'id?* — may a sharecropper testify regarding the ownership of the land he works, or not?
 
@@ -270,8 +250,7 @@ Rav Yosef, sitting in the room, reported in the name of Shmuel: *aris me'id* —
 
 ### No Present Fruit
 
-> **Hebrew/Aramaic:** לָא קַשְׁיָא – הָא דְּאִיכָּא פֵּירָא בְּאַרְעָא, וְהָא דְּלֵיכָּא פֵּירָא בְּאַרְעָא.
->
+> **Hebrew/Aramaic:** לָא קַשְׁיָא – הָא דְּאִיכָּא פֵּירָא בְּאַרְעָא, וְהָא דְּלֵיכָּא פֵּירָא בְּאַרְעָא.
 > **Translation:** Rav Yosef answered: It is **not difficult. This** *baraita*, which states that he cannot testify, is referring to a case **where there is produce on the land.** Therefore, he is biased in his testimony, as, if the current owner will lose possession of the land, the sharecropper will lose his right to consume the produce. **And that** statement of Shmuel that he can testify is referring to a case **where there is no produce on the land,** and he is not biased in his testimony.
 
 *Lo kashya* — there is no contradiction. *Ha de'ika peira be'ar'a, ha delika peira be'ar'a* — one ruling applies when there is currently fruit on the land, and the other when there is not.
@@ -294,11 +273,18 @@ The *Rashbam* touches on this distinction, and it provides at least a conceptual
 
 ## Other Interested Parties
 
+
+
 ### Guarantor
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: עָרֵב מֵעִיד לַלֹּוֶה, וְהוּא דְּאִית לֵיהּ אַרְעָא אַחֲרִיתִי. מַלְוֶה מֵעִיד לַלֹּוֶה, וְהוּא דְּאִית לֵיהּ אַרְעָא אַחֲרִיתִי.
->
+> **Hebrew/Aramaic:** (עֲמָלֵק סִימָן)
+> **Translation:** § The Gemara presents the word *Amalek* as **a mnemonic** for the cases discussed in the *baraita*. It stands for: ***Ayin*,** guarantor [*arev*]; ***mem*,** creditor [*malve*]; ***lamed*,** buyer [*loke’aḥ*]; ***kuf*,** unconditional guarantor [*kablan*].
+
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: עָרֵב מֵעִיד לַלֹּוֶה, וְהוּא דְּאִית לֵיהּ אַרְעָא אַחֲרִיתִי. מַלְוֶה מֵעִיד לַלֹּוֶה, וְהוּא דְּאִית לֵיהּ אַרְעָא אַחֲרִיתִי.
 > **Translation:** **The Sages taught: A guarantor can testify for** the benefit of **the debtor** that the latter owns a particular parcel of land, **but that is** the *halakha* only **if** the debtor **has other land** from which the creditor can collect the debt. Otherwise, he is biased in his testimony, as the creditor could collect from him if the debtor were to lose ownership of this land. **A creditor can testify for** the benefit of **the debtor** that the latter owns a particular parcel of land, **but that is** the *halakha* only **if** the debtor **has other land** from which the creditor can collect. Otherwise, he is biased in his testimony, as this land is the only land available for collection.
+
+> **Hebrew/Aramaic:** לוֹקֵחַ רִאשׁוֹן מֵעִיד לְלוֹקֵחַ שֵׁנִי, וְהוּא דְּאִית לֵיהּ אַרְעָא אַחֲרִיתִי.
+> **Translation:** Similarly, if two people purchase land from one seller, the **first buyer can testify for** the benefit of the **second buyer** if someone else were to claim that the land was his, **but that is** the *halakha* only **if** the second buyer **has other land** that he purchased from the same seller either concurrent with or subsequent to the first buyer’s purchase of the land in question. A creditor of the seller can collect a debt from the land that the seller sold most recently. Therefore, if the second buyer purchased only the land in question from the seller, the first buyer is biased in his testimony, as the second buyer’s ownership of the land prevents the creditor from collecting a debt from the land from the first buyer.
 
 The Gemara now catalogs several analogous cases in which a party with a potential financial interest in the outcome is nonetheless permitted to testify, all operating on the same basic logic of attenuated future benefit.
 
@@ -306,7 +292,7 @@ The Gemara now catalogs several analogous cases in which a party with a potentia
 
 The relevant dynamic: I am Gloria's guarantor on a loan from Charlie. David now claims that a certain plot of Gloria's land is actually his. I wish to testify that the land belongs to Gloria. My interest in doing so is transparent — the more land Gloria has, the more buffer there is between me and Charlie's collection. If Gloria has no land at all, Charlie comes to me.
 
-Why am I nonetheless believed to testify? Because for my testimony to actually benefit me, an extended chain of circumstances must first materialize. Gloria must have no cash reserves. Gloria's remaining land — the other plot she does retain — must be seized by a different, competing creditor before Charlie can collect from it. Only then, once Gloria's assets are fully exhausted and Charlie cannot collect from her directly, does Charlie approach me. Since so many independent and contingent events must occur before I actually benefit from this testimony, the benefit is considered too attenuated to constitute a disqualifying interest.
+Why am I nonetheless believed to testify? Because for my testimony to actually benefit me, an extended chain of circumstances must first materialize. Gloria must have no cash reserves. Gloria's remaining land — the other plot she does retain — must be seized by a different, competing creditor before Charlie can collect it. Only then, once Gloria's assets are fully exhausted and Charlie cannot collect from her directly, does Charlie approach me. Since so many independent and contingent events must occur before I actually benefit from this testimony, the benefit is considered too attenuated to constitute a disqualifying interest.
 
 A subsidiary point arises regarding the mechanics of creditor collection from land: when creditors compete, there is an established priority order, and a creditor who has collected from land through a lien cannot have that land re-taken by a subsequent competing creditor, lest the system dissolve into circularity. The *areiv* is most exposed when Gloria has sold land (in which case Charlie can still follow the lien) but when another creditor has seized remaining land through a competing claim — that is what fully exposes the guarantor. The point stands: the pathway to the guarantor's liability is long, contingent, and uncertain enough to not constitute present *nogea badavar*.
 

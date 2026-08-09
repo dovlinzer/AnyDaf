@@ -1,12 +1,9 @@
-# Nazir 62 — Daf Yomi Shiur
-
+[DAF:62a]
 ## Non-Jews Excluded
 
-### Prior Discussion Review
 
-> **Hebrew/Aramaic:** יָצָא גּוֹי שֶׁאֵין לוֹ טוּמְאָה. מְנָלַן דְּלֵית לְהוּ טוּמְאָה? דְּאָמַר קְרָא: ״וְאִישׁ אֲשֶׁר יִטְמָא וְלֹא יִתְחַטָּא וְנִכְרְתָה הַנֶּפֶשׁ הָהִיא מִתּוֹךְ הַקָּהָל״, בְּמִי שֶׁיֵּשׁ לוֹ קָהָל, יָצָא זֶה שֶׁאֵין לוֹ קָהָל.
->
-> **Translation:** which **excludes a gentile, who has no** potential to become **ritually impure.** A gentile is not rendered impure even if he touches a corpse. An individual of this kind cannot become a nazirite. The Gemara asks: **From where do we** derive **that** gentiles **do not have** the ability to become **ritually impure?** It is **as the verse states** with regard to one who enters the Temple in a state of impurity: **"But the man who shall be impure and shall not purify himself, that soul shall be cut off from the midst of the assembly"** (Numbers 19:20). This indicates that the *halakhot* of ritual impurity apply only **to one who has** membership in the **assembly** of the Jewish people and **excludes this** gentile, **who has no** membership in the **assembly,** i.e., he is not part of the Jewish people.
+
+### Prior Discussion Review
 
 The *daf* opens in the middle of a sustained discussion about who is included in and excluded from *nezirut*. The *mishnah* includes women and slaves, and excludes non-Jews. The *gemara* had established that non-Jews are excluded from *nezirut* based on the *pasuk* of *daber el bnei Yisrael* — the commandment is addressed specifically to the Children of Israel. The *gemara* had then explored whether non-Jews might be partially included, following the model of *erchin*, where the phrase *ish ki yafli neder be-erkecha* creates a balance between *bnei Yisrael* and *ish*, yielding a middle position: non-Jews cannot make an *erech* vow, but they can be the subject of one — that is, a Jew who vows to pay the *erech* valuation of a non-Jew fulfills his vow according to the *Torah*'s fixed tables of valuation.
 
@@ -14,17 +11,13 @@ The *gemara* had considered whether a parallel middle position might exist for *
 
 ### Erchin vs Nezirut
 
-> **Hebrew/Aramaic:** אִי הָכִי ״אִישׁ כִּי יַפְלִא נֶדֶר בְּעֶרְכְּךָ״, בַּעֲרָכִין, לְמָה לִי? מִכְּדֵי הָאִיתַּקַּשׁ עֲרָכִין לִנְדָרִים, דְּאָמַר קְרָא ״אִישׁ כִּי יַפְלִא נֶדֶר בְּעֶרְכְּךָ״, וְהָתַנְיָא גַּבֵּי נְדָרִים: ״אִישׁ״. מָה תַּלְמוּד לוֹמַר ״אִישׁ אִישׁ״ — לְרַבּוֹת אֶת הַגּוֹיִם שֶׁהֵן נוֹדְרִים נְדָרִים וּנְדָבוֹת כְּיִשְׂרָאֵל.
->
-> **Translation:** The Gemara asks: **If so, why do I** need the verse: **"When a man shall clearly utter a vow** of persons to the Lord, **according to your valuation"** (Leviticus 27:2), stated **with regard to valuations,** from which it is derived that gentiles are included in the *halakhot* of valuations? **After all, aren't valuations juxtaposed to vows, as the verse states: "When a man shall clearly utter a vow** of persons to the Lord, **according to your valuation." And isn't it taught** in a *baraita* **with regard to** a verse dealing with **vows:** "Any **man [*ish*]** from the house of Israel, or of the strangers in Israel, who sacrifices his offering, whether it be any of their vows, or any of their gift offerings, which are sacrificed to the Lord as a burnt-offering" (Leviticus 22:18), **what** is the meaning when **the verse states** the extra emphasis: **"Any man [*ish ish*]"?** The *baraita* explains: This serves **to include the gentiles, that they can take a vow** for **vow** offerings **and gift** offerings **like a Jew.** It can be derived from this juxtaposition that gentiles are included in the *halakhot* of valuations.
-
 With that discussion resolved, the *gemara* pivots back to examine the *erchin* discussion more carefully. On 62a, the *gemara* asks: *ei hachi, ish ki yafli neder be-erkecha be-erchin lama li?* — given what was just established, why does the *Torah* need the word *ish* to include non-Jews partially in *erchin*? The *gemara* notes that *erchin* is explicitly linked to *nedarim*: the very *pasuk* that establishes *erchin* — *ish ki yafli neder be-erkecha* — frames an *erech* vow as a type of *neder*. And regarding *nedarim* generally, a separate principle already establishes the inclusion of non-Jews.
 
-### Non-Jews as Subject/Object
+> **Hebrew/Aramaic:** אִי הָכִי ״אִישׁ כִּי יַפְלִא נֶדֶר בְּעֶרְכְּךָ״, בַּעֲרָכִין, לְמָה לִי? מִכְּדֵי הָאִיתַּקַּשׁ עֲרָכִין לִנְדָרִים, דְּאָמַר קְרָא ״אִישׁ כִּי יַפְלִא נֶדֶר בְּעֶרְכְּךָ״, וְהָתַנְיָא גַּבֵּי נְדָרִים: ״אִישׁ״. מָה תַּלְמוּד לוֹמַר ״אִישׁ אִישׁ״ — לְרַבּוֹת אֶת הַגּוֹיִם שֶׁהֵן נוֹדְרִים נְדָרִים וּנְדָבוֹת כְּיִשְׂרָאֵל.
+> **Translation:** § The Gemara asks: **If so, why do I** need the verse: **“When a man shall clearly utter a vow** of persons to the Lord, **according to your valuation”** (Leviticus 27:2), stated **with regard to valuations,** from which it is derived that gentiles are included in the *halakhot* of valuations? **After all, aren’t valuations juxtaposed to vows, as the verse states: “When a man shall clearly utter a vow** of persons to the Lord, **according to your valuation.” And isn’t it taught** in a *baraita* **with regard to** a verse dealing with **vows:** “Any **man [*ish*]** from the house of Israel, or of the strangers in Israel, who sacrifices his offering, whether it be any of their vows, or any of their gift offerings, which are sacrificed to the Lord as a burnt-offering” (Leviticus 22:18), **what** is the meaning when **the verse states** the extra emphasis: **“Any man [*ish ish*]”?** The *baraita* explains: This serves **to include the gentiles, that they can take a vow** for **vow** offerings **and gift** offerings **like a Jew.** It can be derived from this juxtaposition that gentiles are included in the *halakhot* of valuations.
 
-> **Hebrew/Aramaic:** הָנִיחָא לְמַאן דְּאָמַר בְּנֵי יִשְׂרָאֵל נֶעֱרָכִין, וְאֵין הַגּוֹיִם נֶעֱרָכִין. יָכוֹל לֹא יְהוּ מַעֲרִיכִים, תַּלְמוּד לוֹמַר: ״אִישׁ״ — שַׁפִּיר. אֶלָּא לְמַאן דְּאָמַר: בְּנֵי יִשְׂרָאֵל מַעֲרִיכִים, וְאֵין הַגּוֹיִם מַעֲרִיכִים. יָכוֹל לֹא יְהוּ נֶעֱרָכִין, תַּלְמוּד לוֹמַר: ״אִישׁ״ — אֲפִילּוּ תִּינוֹק בֶּן חֹדֶשׁ בַּר עָירוּכִי הוּא, ״כִּי יַפְלִיא״ לְמָה לִי?
->
-> **Translation:** The Gemara comments: **This works out well according to the one who says** that it is inferred from the phrase: "The children of Israel" (Leviticus 27:2), that **Jews can be valuated but gentiles cannot be valuated;** and one **might** have thought that gentiles **cannot take a valuation vow.** Therefore, **the verse states: "Man."** According to this opinion it is **fine,** as the phrase "when a man shall clearly utter a vow" can teach that if a gentile close to adulthood grasps the meaning of vows, he can take a valuation vow. **However, according to the one who says** that **the children of Israel can take a valuation vow but gentiles cannot take a valuation vow,** one **might** have thought that gentiles **cannot be valuated;** therefore, **the verse states** the additional term: **"Man,"** to teach that anyone, **even a month-old baby, can be valuated** according to the assigned value stated in the Torah. According to this opinion, it is of no importance how old the subject of the vow is, and therefore the verse clearly cannot be including a gentile on the verge of adulthood. Consequently, the question remains: **Why do I** need the phrase **"when** a man **shall clearly utter** a vow"?
+### Non-Jews & Erchin
+
 
 The *baraita* cited is from Vayikra 22, where the *pasuk* reads: *ish ish mibeit Yisrael u'min hager b'Yisrael asher yakriv korbano l'chol nidreihem u'l'chol nidvotam asher yakrivu l'Hashem l'olah*. The double expression *ish ish* is interpreted as *lerabbot et ha-ovdei kochavim she-nodrim nedarim u-nedavot ke-Yisrael* — to include non-Jews who take vows and make free-will offerings like Israel, with the scope of that inclusion being *l'olah*, that is, *korbanot* of the free-will type. This encompasses not only animal offerings but vows of monetary gifts to the *beit hamikdash* and, by extension, *erchin* vows. Since non-Jews are already included in the *parsha* of *nedarim*, and *erchin* is a type of *neder*, they are already implicitly included in *erchin* — making the word *ish* in the *erchin pasuk* apparently redundant.
 
@@ -32,13 +25,14 @@ There is also a subtle double question embedded here. The prior discussion had c
 
 ## Ish Ki Yafli Analysis
 
+
+
 ### Why Ish in Erchin
 
-> **Hebrew/Aramaic:** אִי הָכִי ״אִישׁ כִּי יַפְלִא נֶדֶר בְּעֶרְכְּךָ״, בַּעֲרָכִין, לְמָה לִי? אֶלָּא הַאי ״אִישׁ״, מִיבְּעֵי לֵיהּ לְאֵיתוֹיֵי מוּפְלָא סָמוּךְ לְאִישׁ.
->
-> **Translation:** In that case, **why do I** need the phrase **"when a man shall clearly utter** a vow" stated **with regard to valuations? Rather, this** term, **"man,"** does not include gentiles, but is **necessary to include a minor one year before** he or she **reaches majority.** If a minor takes a vow one year before coming of age, and shows a clear understanding of his statement, the vow takes effect. This individual is included in the *halakhot* of valuations as well.
-
 The *gemara* resolves the redundancy of *ish* in the *erchin pasuk* as follows: *ela hai ish miba'ei leih le-atuyei mufla samuch le-ish* — the word *ish* by *erchin* is needed not to include non-Jews in the *parsha* of *erchin* (which we already know), but rather to establish the principle of *mufla samuch le-ish*.
+
+> **Hebrew/Aramaic:** ״אִישׁ כִּי יַפְלִא״ בַּעֲרָכִין לְמָה לִי? אֶלָּא הַאי ״אִישׁ״, מִיבְּעֵי לֵיהּ לְאֵיתוֹיֵי מוּפְלָא סָמוּךְ לְאִישׁ.
+> **Translation:** The Gemara now restates its question: In that case, **why do I** need the phrase **“when a man shall clearly utter** a vow” stated **with regard to valuations? Rather, this** term, **“man,”** does not include gentiles, but is **necessary to include a minor one year before** he or she **reaches majority.** If a minor takes a vow one year before coming of age, and shows a clear understanding of his statement, the vow takes effect. This individual is included in the *halakhot* of valuations as well.
 
 ### Erchin Linked to Nedarim
 
@@ -46,9 +40,6 @@ Before developing this principle, it is worth pausing to appreciate the structur
 
 ### Mufla Samuch L'Ish
 
-> **Hebrew/Aramaic:** הָנִיחָא לְמַאן דְּאָמַר מוּפְלָא סָמוּךְ לְאִישׁ דְּאוֹרָיְיתָא. אֶלָּא לְמַאן דְּאָמַר דְּרַבָּנַן, ״אִישׁ כִּי יַפְלִיא״ לְמָה לִי? לְאֵיתוֹיֵי מוּפְלָא סָמוּךְ לְאִישׁ דְּגוֹי.
->
-> **Translation:** The Gemara comments: **This works out well according to the one who says** that **a minor one year before** he or she **reaches majority** must fulfill his or her vows **by Torah law,** because the verse serves as the source for this *halakha*. **However, according to the one who says** that this *halakha* applies **by rabbinic law, why do I** need the verse **"when a man shall clearly utter** a vow"? The Gemara answers: The verse serves **to include a minor one year before** he or she **reaches majority who is a gentile,** that this *halakha* applies to gentiles by Torah law.
 
 The principle of *mufla samuch le-ish* is discussed in a *mishnah* in *Niddah* and related contexts. The idea is that a boy or girl within the year before reaching *bar* or *bat mitzvah* respectively — within the year before their age of majority — may have their vows tested. The question posed is: *nidrehem nivdakim* — do they understand what they are vowing? Specifically, do they appreciate the weight and significance of making a vow to God? If they demonstrate that understanding — *leshem mi nadaru* — then their vow is binding even during that year before majority. This principle applies not only to *nedarim* but to all categories that fall under *hafla'ah*, speech acts that create a change of status: *nezirut*, *hekdesh*, *korbanot*, and all the related categories discussed throughout *masechet Nedarim*.
 
@@ -56,19 +47,25 @@ There is an interesting question about whether this principle is *de'oraita* or 
 
 ## Mufla Samuch L'Ish Theory
 
-### Tosafot's Question
 
-> **Hebrew/Aramaic:** אָמַר רַב אַדָּא בַּר אַהֲבָה: לְאֵיתוֹיֵי גּוֹי גָּדוֹל, דְּאַף עַל גַּב דְּגָדוֹל הוּא — אֵינוֹ יוֹדֵעַ לְהַפְלוֹת.
->
-> **Translation:** **Rav Adda bar Ahava said:** The verse is referring to all vows, and serves **to include,** i.e., to teach, the *halakha* of a type of **adult gentile, who although he is an adult, he does not know** how **to clearly utter** a vow. The verse teaches that his vows are invalid, as derived from the phrase "when a man shall clearly vow." Vows of a gentile are valid only if he can express them clearly.
+
+### Tosafot's Question
 
 The *gemara* now articulates the apparent anomaly: *ha nicha le-man de-amar mufla samuch le-ish de-oraita* — that works well if this is a biblical principle derivable from the *pasuk* of *ish ki yafli*. *Ela le-man de-amar derabbanan*, but if it is only rabbinic for Jews, then the *pasuk* is freed up and *ish ki yafli* in the *erchin* context comes to teach *mufla samuch le-ish* for non-Jews: *le-atuyei mufla samuch le-ish de-ovdei kochavim*. This is a striking and counterintuitive result: the principle of *mufla samuch le-ish* would be only *derabbanan* for Jews but *de'oraita* — having a biblical source — for non-Jews.
 
 *Tosafot* on 61b raises this very question and offers an answer. The relevant *Tosafot* explains: *d'vadai Yisrael d'lo havei bichlal bal yachel ad d'havei gadol* — a Jew is not yet subject to the prohibition of *bal yachel devaro* (do not violate your word) until reaching adulthood. And once he does become an adult, he is immediately included in *bal yachel*. The principle derived from the *gemara* in the *perek* of *yotzei dofen* is: *kol deleis b'bal yachel leis b'hafla'ah* — anyone who is not yet in the category of *bal yachel* is not yet capable of binding *hafla'ah*. Since the *mitzvot* governing vows do not apply to a minor, the speech act of vowing has no legal reality for him yet — he is not yet fully in the *parsha*, and therefore the vow cannot bind. This is why *mufla samuch le-ish* requires *derabbanan* reinforcement for Jews: without it, the minor before his year of *mufla samuch le-ish* would simply not be in the category at all.
 
+> **Hebrew/Aramaic:** הָנִיחָא לְמַאן דְּאָמַר מוּפְלָא סָמוּךְ לְאִישׁ דְּאוֹרָיְיתָא. אֶלָּא לְמַאן דְּאָמַר דְּרַבָּנַן, ״אִישׁ כִּי יַפְלִיא״ לְמָה לִי? לְאֵיתוֹיֵי מוּפְלָא סָמוּךְ לְאִישׁ דְּגוֹי.
+> **Translation:** The Gemara comments: **This works out well according to the one who says** that **a minor one year before** he or she **reaches majority** must fulfill his or her vows **by Torah law,** because the verse serves as the source for this *halakha*. **However, according to the one who says** that this *halakha* applies **by rabbinic law, why do I** need the verse **“when a man shall clearly utter** a vow”? The Gemara answers: The verse serves **to include a minor one year before** he or she **reaches majority who is a gentile,** that this *halakha* applies to gentiles by Torah law.
+
 ### Bal Yachel & Formalism
 
+
 A non-Jew, however, is never subject to *bal yachel* — that *mitzvah* is not part of *sheva mitzvot b'nei Noach*. Since the formal halachic category of *bal yachel* never applies to a non-Jew at any age, the logic of *kol deleis b'bal yachel leis b'hafla'ah* cannot be used to exclude a young non-Jew from making a binding vow. There is no formal line saying: until this age, you are not yet in the category. Hence the principle of *mufla samuch le-ish* can apply to non-Jews directly from the *pasuk*, without the same logical obstacle that necessitates rabbinic reinforcement for Jews.
+
+It is worth pausing on what this means for the meaning of a non-Jew's vow more generally. A non-Jew who makes a vow is not subject to *bal yachel devaro* if he fails to fulfill it — that prohibition simply does not govern him. The vow may still carry weight in other respects: if he vowed to give something to the *beis hamikdash* and is under our jurisdiction, we would compel him to fulfill it, and there may be a metaphysical reality to breaking a vow even absent a specific legal violation. But the formal legal reality that gives the act of vowing its binding structure for Jews — namely, that one becomes subject to *bal yachel* the moment one becomes an adult — is entirely absent. This is precisely why the concept of *lo shayach limu'atei* applies: there is no logic to saying a young non-Jew is not yet fully in the *parsha*, because the *parsha* of *bal yachel* is not a category he ever enters. And if there is no formal threshold to be not-yet-past, then the capacity for binding vows can begin even before whatever age of majority applies to non-Jews.
+
+This last point itself raises a question worth flagging, one that *Tosafot* and the *gemara* may be taking for granted or may themselves be probing: the notion that there is a concept of age of majority for non-Jews within the *halacha* of *sheva mitzvot b'nei Noach* at all. And if there is such a concept, what age does it correspond to — thirteen, eighteen, twenty? The *gemara* does not specify, and within the framework of *sheva mitzvot* the question is genuinely open, a point that bears directly on the structural argument developed in the next section.
 
 This can be elaborated further. For Jews, what fundamentally matters is the formal halachic category: you are either in the category of *bar mitzvah* or you are not. The formal rule is absolute and does not yield to contextual assessment. By contrast, *sheva mitzvot b'nei Noach* does not operate with the same level of rigid formalism.
 
@@ -82,6 +79,8 @@ This structural difference illuminates the *mufla samuch le-ish* question in a n
 
 ## Yodea L'haflot Standard
 
+
+
 ### Ki Yafli Inclusion
 
 The *gemara* now reconsiders the relationship between the debate about who is the subject and who is the object of *erchin* by non-Jews, and how *ish ki yafli* functions within each position. The *gemara* presents both sides of the debate. According to the view that *bnei Yisrael ne'erchin ve-ein ovdei kochavim ne'erchin* — Jews can be the object of an *erech* vow but non-Jews cannot be the object — the word *ish* comes to teach that non-Jews can be the subject, the *maarich*, which is already established through the *nedarim* connection, and *ki yafli* teaches the principle of *mufla samuch le-ish* for either Jews or non-Jews. That approach fits naturally with everything discussed so far.
@@ -90,21 +89,32 @@ According to the other view — *bnei Yisrael maarichin ve-ein ovdei kochavim ma
 
 If that is the case, then *ki yafli* is no longer needed to establish *mufla samuch le-ish* in the direction of including under-age individuals who understand what they are doing. Instead, *ki yafli* now functions in the other direction.
 
+> **Hebrew/Aramaic:** הָנִיחָא לְמַאן דְּאָמַר בְּנֵי יִשְׂרָאֵל נֶעֱרָכִין, וְאֵין הַגּוֹיִם נֶעֱרָכִין. יָכוֹל לֹא יְהוּ מַעֲרִיכִין, תַּלְמוּד לוֹמַר: ״אִישׁ״ — שַׁפִּיר.
+> **Translation:** The Gemara comments: **This works out well according to the one who says** that it is inferred from the phrase: “The children of Israel” (Leviticus 27:2), that **Jews can be valuated but gentiles cannot be valuated;** and one **might** have thought that gentiles **cannot take a valuation vow.** Therefore, **the verse states: “Man.”** According to this opinion it is **fine,** as the phrase “when a man shall clearly utter a vow” can teach that if a gentile close to adulthood grasps the meaning of vows, he can take a valuation vow.
+
+> **Hebrew/Aramaic:** אֶלָּא לְמַאן דְּאָמַר: בְּנֵי יִשְׂרָאֵל מַעֲרִיכִים, וְאֵין הַגּוֹיִם מַעֲרִיכִים. יָכוֹל לֹא יְהוּ נֶעֱרָכִין, תַּלְמוּד לוֹמַר: ״אִישׁ״ — אֲפִילּוּ תִּינוֹק בֶּן חֹדֶשׁ בַּר עָירוּכִי הוּא, ״כִּי יַפְלִיא״ לְמָה לִי?
+> **Translation:** **However, according to the one who says** that **the children of Israel can take a valuation vow but gentiles cannot take a valuation vow,** one **might** have thought that gentiles **cannot be valuated;** therefore, **the verse states** the additional term: **“Man,”** to teach that anyone, **even a month-old baby, can be valuated** according to the assigned value stated in the Torah. According to this opinion, it is of no importance how old the subject of the vow is, and therefore the verse clearly cannot be including a gentile on the verge of adulthood. Consequently, the question remains: **Why do I** need the phrase **“when** a man **shall clearly utter** a vow”?
+
+> **Hebrew/Aramaic:** אָמַר רַב אַדָּא בַּר אַהֲבָה: לְאֵיתוֹיֵי גּוֹי גָּדוֹל, דְּאַף עַל גַּב דְּגָדוֹל הוּא — אֵינוֹ יוֹדֵעַ לְהַפְלוֹת.
+> **Translation:** **Rav Adda bar Ahava said:** The verse is referring to all vows, and serves **to include,** i.e., to teach, the *halakha* of a type of **adult gentile, who although he is an adult, he does not know** how **to clearly utter** a vow. The verse teaches that his vows are invalid, as derived from the phrase “when a man shall clearly vow.” Vows of a gentile are valid only if he can express them clearly.
+
 ### Non-Jews Case-by-Case
+
 
 *Amar Rav Adda bar Ahava*: *le-atuyei oved kochavim gadol d'af al gav d'gadol hu im eino yodea lehaflot* — *ki yafli* comes to teach that even an adult non-Jew, if he does not know what he is doing, if he does not understand the act of *hafla'ah*, his vow is not binding. This is exclusively applicable to non-Jews. For a Jew who is an adult, there is no case-by-case investigation into whether he understood the nature of his vow; he is an adult, and the vow is binding. Unless there is a clearly established and severe cognitive disability, the formal category of adulthood overrides any claim of ignorance. But for a non-Jew, even adulthood does not suffice — the question is whether he was *yodea lehaflot*.
 
-This creates a perfectly symmetrical picture. For Jews: formal age of majority determines binding status; *mufla samuch le-ish* may be applied in the year before majority, but this is at most *derabbanan*, and the framework is categorical. For non-Jews: there is no formal line; a minor who understands what he is doing can be bound, and an adult who does not understand is not bound. The assessment is contextual and individual, not categorical and formal — precisely consistent with the broader structural distinction between Jewish law and *sheva mitzvot b'nei Noach* described above.
+This creates a perfectly symmetrical picture. For Jews: formal age of majority determines binding status; *mufla samuch le-ish* may be applied in the year before majority, but this is at most *derabbanan*, and the framework is categorical. For non-Jews: there is no formal line; a minor who understands what he is doing can be bound, and an adult who does not understand is not bound. The assessment is contextual and individual, not categorical and formal — precisely consistent with the broader structural distinction between Jewish law and *sheva mitzvot b'nei Noach* described above. It is worth noting that even when a non-Jew's vow does turn out to be binding on this contextual assessment, the existence of *hatarah* — the process of going before a *chakham* to have it rendered *mutar* — is not negated; the capacity to undo the vow through that process remains, but that does not mean the vow was not fundamentally binding in the first place.
 
 *Tosafot* notes that according to the opinion that non-Jews cannot be the *maarich* in *erchin*, the principle of *yodea lehaflot* derived from *ish ki yafli* is applied not to *erchin* itself but to all the other *nedarim* that non-Jews can make — *korbanot*, *hekdesh*, and similar categories. Even though they are excluded from the specific *parsha* of *erchin*, the *pasuk* speaks in the context of *erchin* but teaches a principle applicable to all their *hafla'ah* acts.
 
 ## Ki Yafli & Yad
 
+
+
 ### Ki Yafli by Nezirut
 
-> **Hebrew/Aramaic:** אֶלָּא: ״כִּי יַפְלִיא״ דִּכְתַב רַחֲמָנָא גַּבֵּי נְזִירוּת, לְמָה לִי? מִכְּדֵי הָאִיתַּקַּשׁ נְזִירוּת לִנְדָרִים, ״כִּי יַפְלִיא״ לְמָה לִי?
->
-> **Translation:** Having clarified the verse concerning valuations, the Gemara asks: **However,** concerning the verse: **"When** a man or woman **shall clearly utter** a vow" (Numbers 6:2), **which the Merciful One writes with regard to naziriteship, why do I** need it? **After all, isn't** the *halakha* of **naziriteship juxtaposed to vows; why do I** need the verse **"when** a man or woman **shall clearly utter"?**
+> **Hebrew/Aramaic:** אֶלָּא: ״כִּי יַפְלִיא״ דִּכְתַב רַחֲמָנָא גַּבֵּי נְזִירוּת, לְמָה לִי? מִכְּדֵי הָאִיתַּקַּשׁ נְזִירוּת לִנְדָרִים, ״כִּי יַפְלִיא״ לְמָה לִי?
+> **Translation:** Having clarified the verse concerning valuations, the Gemara asks: **However,** concerning the verse: **“When** a man or woman **shall clearly utter** a vow” (Numbers 6:2), **which the Merciful One writes with regard to naziriteship, why do I** need it? **After all, isn’t** the *halakha* of **naziriteship juxtaposed to vows; why do I** need the verse **“when** a man or woman **shall clearly utter”?**
 
 Having established what *ish ki yafli* teaches by *erchin*, the *gemara* now asks the parallel question about *nezirut*: *ela ki yafli d'chtav rachmana gabei nezirut lama li?* — why does the *Torah* also write *ki yafli* by *nezirut*? The relevant *pasuk* there is *ki yafli lindor neder nazir*. Since *nezirut* is explicitly linked to *nedarim* — *itkash nezirut l'nedarim* — anything derived from *ki yafli* by *nedarim* regarding *mufla samuch le-ish*, whether for Jews or non-Jews, automatically applies to *nezirut* as well. So what additional teaching does *ki yafli* provide in the *nezirut* context?
 
@@ -112,9 +122,8 @@ The *gemara* answers: *le-atuyei yadayim she'einan mochiachot* — to include th
 
 ### Abaye vs Rava Debate
 
-> **Hebrew/Aramaic:** לְאֵיתוֹיֵי יָדַיִם שֶׁאֵינָן מוֹכִיחוֹת. דְּאִיתְּמַר: יָדַיִם שֶׁאֵינָן מוֹכִיחוֹת, אַבָּיֵי אָמַר: הָוְיָין יָדַיִם. רָבָא אָמַר: לָא הָוְיָין יָדַיִם. לְאַבָּיֵי נִיחָא. אֶלָּא לְרָבָא, מַאי אִיכָּא לְמֵימַר?
->
-> **Translation:** This verse serves **to include** the case of one who vowed by means of **ambiguous intimations,** i.e., he expressed only part of the formula of the vow, so that his meaning is unclear. **As it was stated** that *amora'im* had a dispute with regard to this issue: With regard to **ambiguous intimations, Abaye said** that **they are** considered **intimations** to vows, and the vows take effect, and **Rava said** that **they are not** considered **intimations** to vows, and the vows do not take effect. **According to** the opinion of **Abaye,** this answer **works out well,** as the phrase "when a man shall clearly utter," serves to include all pronouncements indicative of vows, even ambiguous intimations. **However, according to** the opinion of **Rava, what is there to say?**
+> **Hebrew/Aramaic:** לְאֵיתוֹיֵי יָדַיִם שֶׁאֵינָן מוֹכִיחוֹת. דְּאִיתְּמַר: יָדַיִם שֶׁאֵינָן מוֹכִיחוֹת, אַבָּיֵי אָמַר: הָוְיָין יָדַיִם. רָבָא אָמַר: לָא הָוְיָין יָדַיִם. לְאַבָּיֵי נִיחָא. אֶלָּא לְרָבָא, מַאי אִיכָּא לְמֵימַר?
+> **Translation:** The Gemara answers: This verse serves **to include** the case of one who vowed by means of **ambiguous intimations,** i.e., he expressed only part of the formula of the vow, so that his meaning is unclear. **As it was stated** that *amora’im* had a dispute with regard to this issue: With regard to **ambiguous intimations, Abaye said** that **they are** considered **intimations** to vows, and the vows take effect, and **Rava said** that **they are not** considered **intimations** to vows, and the vows do not take effect. **According to** the opinion of **Abaye,** this answer **works out well,** as the phrase “when a man shall clearly utter,” serves to include all pronouncements indicative of vows, even ambiguous intimations. **However, according to** the opinion of **Rava, what is there to say?**
 
 *D'itmar yadayim she'einan mochiachot: Abaye amar havyan yadayim*, Abaye holds that even a non-evident handle is binding; *Rava amar lo havyan yadayim*, Rava holds it is not binding. According to Abaye, *ki yafli* by *nezirut* includes even the case of a *yad she'einah mokhiach* — even an ambiguous handle can constitute a valid *hafla'ah*. But for Rava, who holds that a non-evident handle is not binding, what is *ki yafli* teaching?
 
@@ -122,9 +131,9 @@ It should be noted that there is a well-known textual difficulty here: in other 
 
 ### Rabbi Tarfon Position
 
-> **Hebrew/Aramaic:** אֶלָּא: ״כִּי יַפְלִיא״ מִיבְּעֵי לֵיהּ לְכִדְרַבִּי טַרְפוֹן, דְּתַנְיָא, רַבִּי יְהוּדָה אוֹמֵר מִשּׁוּם רַבִּי טַרְפוֹן: אֵין אֶחָד מֵהֶן נָזִיר, לְפִי שֶׁלֹּא נִיתְּנָה נְזִירוּת אֶלָּא לְהַפְלָאָה. הָנִיחָא לְרַבִּי טַרְפוֹן, אֶלָּא לְרַבָּנַן מַאי אִיכָּא לְמֵימַר?
->
-> **Translation:** **Rather,** the Gemara explains that the phrase **"when** a man or woman **shall clearly utter"** is **necessary for that** which was stated **by Rabbi Tarfon, as it is taught** in the *Tosefta* (3:19) that **Rabbi Yehuda said in the name of Rabbi Tarfon:** If several people took a vow of naziriteship as part of a wager with regard to an uncertain occurrence, **not one of** them is **a nazirite, as naziriteship is imposed** upon someone **only if** his vow is **explicitly** enunciated. That is, one is a nazirite only if he vows in a definitive manner, not if there was any uncertainty involved. The Gemara asks: **This works out well according to** the opinion of **Rabbi Tarfon. However,** according **to** the opinion of **the Rabbis,** who disagree with his ruling, **what is there to say?**
+> **Hebrew/Aramaic:** אֶלָּא: ״כִּי יַפְלִיא״ מִיבְּעֵי לֵיהּ לְכִדְרַבִּי טַרְפוֹן, דְּתַנְיָא, רַבִּי יְהוּדָה אוֹמֵר מִשּׁוּם רַבִּי טַרְפוֹן: אֵין אֶחָד מֵהֶן נָזִיר, לְפִי שֶׁלֹּא נִיתְּנָה נְזִירוּת אֶלָּא לְהַפְלָאָה. הָנִיחָא לְרַבִּי טַרְפוֹן, אֶלָּא לְרַבָּנַן מַאי אִיכָּא לְמֵימַר?
+> **Translation:** **Rather,** the Gemara explains that the phrase **“when** a man or woman **shall clearly utter”** is **necessary for that** which was stated **by Rabbi Tarfon, as it is taught** in the *Tosefta* (3:19) that **Rabbi Yehuda said in the name of Rabbi Tarfon:** If several people took a vow of naziriteship as part of a wager with regard to an uncertain occurrence, **not one of** them is **a nazirite, as naziriteship is imposed** upon someone **only if** his vow is **explicitly** enunciated. That is, one is a nazirite only if he vows in a definitive manner, not if there was any uncertainty involved. The Gemara asks: **This works out well according to** the opinion of **Rabbi Tarfon. However,** according **to** the opinion of **the Rabbis,** who disagree with his ruling, **what is there to say?**
+
 
 For Rava, *ki yafli* by *nezirut* comes to support the position of Rabbi Tarfon: *ve-khid-Rabbi Tarfon, d'tanya Rabbi Yehuda omer mishum Rabbi Tarfon: ein echad me-hem nazir le-fi she-lo nitnah nezirot ela le-hafla'ah* — *nezirut* is valid only when it is made with complete and clear articulation. Rabbi Tarfon's position arises from the *mishnah* involving a chain of conditional *nezirut* vows, where various people vow to be a *nazir* depending on whether another person is or is not a *nazir*, with circular or indeterminate conditions. Rabbi Tarfon declares that none of them is a *nazir*, because the vow was never explicitly and unambiguously articulated at the moment it was made. According to this reading, *ki yafli* demands a degree of clarity and articulation that a *yad she'einah mokhiach* fails to provide. One could add that even a *yad mokhiach* involves incomplete articulation, though it is completed by inference — and *ki yafli* may come to include that case as well, while excluding the purely non-evident handle.
 
@@ -132,19 +141,19 @@ For the *rabbanan* who do not accept Rabbi Tarfon's stringent position, *ki yafl
 
 ## Hattarat Nedarim
 
+
+
 ### Chagigah Mishna
 
-> **Hebrew/Aramaic:** אֶלָּא: מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: הֶיתֵּר נְדָרִים — פּוֹרְחִין בָּאֲוִיר, וְאֵין לָהֶן עַל מַה שֶּׁיִּסְמוֹכוּ.
->
-> **Translation:** **Rather,** the phrase "when a man or woman shall clearly utter" is **necessary for that which is taught** in a *baraita*: The *halakhot* of **dissolution of vows,** namely that one may request from a halakhic authority to dissolve them, **fly in the air and have nothing to lean upon,** i.e., these *halakhot* are not mentioned explicitly in the Torah.
+> **Hebrew/Aramaic:** אֶלָּא: מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: הֶיתֵּר נְדָרִים — פּוֹרְחִין בָּאֲוִיר, וְאֵין לָהֶן עַל מַה שֶּׁיִּסְמוֹכוּ.
+> **Translation:** **Rather,** the phrase “when a man or woman shall clearly utter” is **necessary for that which is taught** in a *baraita*: The *halakhot* of **dissolution of vows,** namely that one may request from a halakhic authority to dissolve them, **fly in the air and have nothing to lean upon,** i.e., these *halakhot* are not mentioned explicitly in the Torah.
 
 The *gemara* cites: *hattarat nedarim porkhin ba-avir ve-ein la-hem al mah she-yismokhu* — the institution of *hattarat nedarim*, the annulment of vows, is as if floating in the air, with no biblical text to support it. This is in fact a *mishnah* in *Chagigah*, and it is striking that we have gone through the entirety of *masechet Nedarim* and all of *Nazir* without this *mishnah* having been placed more centrally in the discussion. There is a distinction worth drawing: the *mishnah* in *Chagigah* elsewhere describes certain areas of law as *harim ha-teluyin be-sa'arah* — mountains hanging by a hair, meaning there is at least *some* textual peg, however slender. *Hattarat nedarim*, by contrast, is described as floating entirely without support.
 
 ### Rabbi Eliezer Position
 
-> **Hebrew/Aramaic:** רַבִּי אֱלִיעֶזֶר אוֹמֵר: יֵשׁ לָהֶם עַל מַה שֶּׁיִּסְמוֹכוּ, שֶׁנֶּאֱמַר: ״אִישׁ כִּי יַפְלִא״, ״כִּי יַפְלִא״, שְׁתֵּי פְעָמִים. אֶחָד הַפְלָאָה לְאִיסּוּר, וְאֶחָד הַפְלָאָה לְהֶיתֵּר.
->
-> **Translation:** **Rabbi Eliezer says:** The *halakhot* of dissolution of vows **have** a basis **upon which to lean, as it is stated: "When a man shall clearly utter** a vow" (Leviticus 27:2) and: **"When** a man or woman **shall clearly utter** a vow" (Numbers 6:2), **twice. One explicit utterance is for prohibition,** i.e., when one takes a vow, he is bound to keep it, **and one explicit utterance is for dissolution,** i.e., in the event that he provides a halakhic authority with a reason why the vow should no longer apply, the vow can be dissolved and he will no longer be bound by it. This is an allusion in the Torah for the dissolution of vows.
+> **Hebrew/Aramaic:** רַבִּי אֱלִיעֶזֶר אוֹמֵר: יֵשׁ לָהֶם עַל מַה שֶּׁיִּסְמוֹכוּ, שֶׁנֶּאֱמַר: ״אִישׁ כִּי יַפְלִא״, ״כִּי יַפְלִא״, שְׁתֵּי פְעָמִים. אֶחָד הַפְלָאָה לְאִיסּוּר, וְאֶחָד הַפְלָאָה לְהֶיתֵּר.
+> **Translation:** **Rabbi Eliezer says:** The *halakhot* of dissolution of vows **have** a basis **upon which to lean, as it is stated: “When a man shall clearly utter** a vow” (Leviticus 27:2) and: **“When** a man or woman **shall clearly utter** a vow” (Numbers 6:2), **twice. One explicit utterance is for prohibition,** i.e., when one takes a vow, he is bound to keep it, **and one explicit utterance is for dissolution,** i.e., in the event that he provides a halakhic authority with a reason why the vow should no longer apply, the vow can be dissolved and he will no longer be bound by it. This is an allusion in the Torah for the dissolution of vows.
 
 *Rabbi Eliezer omer yesh la-hem al mah she-yismokhu, she-ne'emar ish ki yafli, ki yafli shtei fe'amim* — Rabbi Eliezer disagrees and holds that *hattarat nedarim* does have a biblical basis: the fact that *ki yafli* appears twice, once by *nezirut* and once by *nedarim*. One mention of *ki yafli* establishes the *hafla'ah* of creating a vow; the other establishes the *hafla'ah* of annulling a vow: *echad hafla'ah le-issur ve-echad hafla'ah le-hetter* — one speech act of *hafla'ah* binds, and another speech act of *hafla'ah* releases.
 
@@ -158,21 +167,19 @@ One might observe that this framework has implications for the broader question 
 
 ## Wife vs Slave Vows
 
+
+
+[DAF:62b]
 ### Annulment Distinction
 
-> **Hebrew/Aramaic:** מַתְנִי׳ חוֹמֶר בָּעֲבָדִים מִבַּנָּשִׁים, שֶׁהוּא מֵפֵר נִדְרֵי אִשְׁתּוֹ, וְאֵינוֹ מֵפֵר נִדְרֵי עַבְדּוֹ. הֵפֵר לְאִשְׁתּוֹ — הֵפֵר עוֹלָמִית. הֵפֵר לְעַבְדּוֹ — יָצָא לְחֵירוּת וּמַשְׁלִים נְזִירוּתוֹ.
->
+> **Hebrew/Aramaic:** מַתְנִי׳ חוֹמֶר בָּעֲבָדִים מִבַּנָּשִׁים, שֶׁהוּא מֵפֵר נִדְרֵי אִשְׁתּוֹ, וְאֵינוֹ מֵפֵר נִדְרֵי עַבְדּוֹ. הֵפֵר לְאִשְׁתּוֹ — הֵפֵר עוֹלָמִית. הֵפֵר לְעַבְדּוֹ — יָצָא לְחֵירוּת וּמַשְׁלִים נְזִירוּתוֹ.
 > **Translation:** MISHNA: The previous mishna taught that the naziriteship of women includes a stringency that does not apply to slaves. This mishna adds: There is a greater **stringency in** the case of **slaves than in** the case of **women, as** a man **can nullify the vows of his wife but he cannot nullify the vows of his slave,** despite the fact that he can prevent him from fulfilling them in practice. Similarly, if **he nullified** the naziriteship **of his wife it is permanently nullified,** and it remains nullified even if she is later divorced or widowed. Conversely, if **he nullified** the naziriteship **of his slave** by forcing him to violate the terms of his vow of naziriteship, when the slave **is emancipated he completes his naziriteship.**
 
-The *gemara* moves to the next *mishnah* (62b): *chomer be-avadim mibanashim she-hu meifer nidrei ishto ve-eino meifier nidrei avdo* — there is a respect in which vows are more binding for slaves than for women, in that a husband can annul his wife's vow but cannot annul his slave's vow.
+The *gemara* moves to the next *mishnah* (62b): *chomer be-avadim mibanashim she-hu meifer nidrei ishto ve-eino meifer nidrei avdo* — there is a respect in which vows are more binding for slaves than for women, in that a husband can annul his wife's vow but cannot annul his slave's vow.
 
-The asymmetry runs in both directions. A husband who annuls his wife's vow on the day he hears it annuls it permanently — *heifier olamit*. Even if he subsequently divorces her, or dies, the vow has been removed entirely. Whatever happens afterward, the *nezirut* is gone. This is a true *hafarah*, an annulment.
+The asymmetry runs in both directions. A husband who annuls his wife's vow on the day he hears it annuls it permanently — *heifer olamit*. Even if he subsequently divorces her, or dies, the vow has been removed entirely. Whatever happens afterward, the *nezirut* is gone. This is a true *hafarah*, an annulment.
 
 ### Override Distinction
-
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: לְמָה רַבּוֹ כּוֹפוֹ? לִנְזִירוּת, אֲבָל לֹא לִנְדָרִים וְלַעֲרָכִין.
->
-> **Translation:** **The Sages taught** (*Tosefta* 6:4): With regard **to what** matter can **his master force** a slave? **With regard to naziriteship. However,** he **cannot** force his slave in the case **of** other **vows and valuations.** This *baraita* is apparently saying that a master cannot prevent his slave from fulfilling the terms of a vow.
 
 Conversely, a master has a power over his slave's vow that he does not have over his wife's vow: he can *kofe* — compel — his slave to violate his *nezirut*, requiring him to perform tasks that are incompatible with *nezirut* even if that means incurring *tumah* or drinking wine. He cannot do this to his wife. This is not an annulment but an override — the master's authority over his slave's labor and body allows him to demand behavior that conflicts with the slave's self-imposed restrictions, but it does not dissolve the *nezirut* itself.
 
@@ -180,25 +187,31 @@ This distinction is important: what the master exercises is a power of override 
 
 ### Slave Freed
 
-> **Hebrew/Aramaic:** מַאי שְׁנָא גַּבֵּי נָזִיר — דְּאָמַר רַחֲמָנָא ״לֶאְסֹר אִסָּר עַל נַפְשׁוֹ״, בְּמִי שֶׁנַּפְשׁוֹ קְנוּיָה לוֹ — יָצָא עֶבֶד שֶׁאֵין נַפְשׁוֹ קְנוּיָה לוֹ. אִי הָכִי, אֲפִילּוּ גַּבֵּי נְדָרִים נָמֵי!
->
-> **Translation:** The Gemara asks: **What is different with regard to a nazirite** that a master can force his slave to transgress his naziriteship, **as the Merciful One states: "To bind his soul with a bond"** (Numbers 30:3), from which it is inferred that the Torah is referring only **to one whose soul is in his possession,** i.e., who is not owned by another; this **excludes a slave, whose soul is not in his possession** because he is under his master's control. **If so,** then **even with regard to vows** that same *halakha* should apply **as well,** as that verse is written in the context of vows in general, not specifically vows of naziriteship. Why is a master unable to compel his slave to break a vow?
-
 If the slave is subsequently freed, the full *nezirut* becomes binding upon him: *yatza le-cherut mashlim neziruto*. The *mishnah* states this, and the *gemara* will develop it further.
 
-## Override Nezirut, Not Nedarim
+## Override Nezirut Not Ned
+
+
 
 ### Comparative Power
 
-> **Hebrew/Aramaic:** אָמַר רַב שֵׁשֶׁת, הָכָא בְּמַאי עָסְקִינַן: כְּגוֹן שֶׁהָיָה אֶשְׁכּוֹל שֶׁל עֲנָבִים מוּנָּח לְפָנָיו. גַּבֵּי נְדָרִים, דְּכִי מִיתְּסַר בְּהַאי לָא מִיתְּסַר בְּאַחֲרִינֵי — לָא מָצֵי כָּפֵי לֵיהּ. גַּבֵּי נְזִירוּת, דְּכִי מִיתְּסַר בְּהַאי אִיתְּסַר בְּכוּלְּהוּ — מָצֵי כָּפֵי לֵיהּ. וְגַבֵּי נְדָרִים, מִי לָא עָסְקִינַן דְּלֵיכָּא אֶלָּא הַאי אֶשְׁכּוֹל, דְּאִי לָא אָכֵיל לֵיהּ, חָלֵישׁ?
->
-> **Translation:** **Rav Sheshet said: With what are we dealing here?** With a case **where a cluster of grapes was placed before** the slave and he vowed not to derive benefit from it. **With regard to vows, when** he **is prohibited from** eating **this** cluster he **is not rendered prohibited from** eating **others;** therefore, the master **cannot force him** to eat it, as he has no reason to insist that the slave consume this particular cluster of grapes. By contrast, **with regard to naziriteship, when** he **is prohibited from** eating **this** cluster he **is rendered prohibited from** consuming **all others;** therefore, the master **can force him** to eat. This is because the lack of food weakens the slave, who is the property of his master. The Gemara asks: **And with regard to vows, are we not dealing** even with a situation **where he has only this cluster** before him and he vows not to eat it, in **which** case **if he does not eat it he is weakened?** Why can't the master compel him to eat the grapes in this case?
+> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: לְמָה רַבּוֹ כּוֹפוֹ? לִנְזִירוּת, אֲבָל לֹא לִנְדָרִים וְלַעֲרָכִין.
+> **Translation:** GEMARA: **The Sages taught** (*Tosefta* 6:4): With regard **to what** matter can **his master force** a slave? **With regard to naziriteship. However,** he **cannot** force his slave in the case **of** other **vows and valuations.** This *baraita* is apparently saying that a master cannot prevent his slave from fulfilling the terms of a vow.
+
+> **Hebrew/Aramaic:** מַאי שְׁנָא גַּבֵּי נָזִיר — דְּאָמַר רַחֲמָנָא ״לֶאְסֹר אִסָּר עַל נַפְשׁוֹ״, בְּמִי שֶׁנַּפְשׁוֹ קְנוּיָה לוֹ — יָצָא עֶבֶד שֶׁאֵין נַפְשׁוֹ קְנוּיָה לוֹ. אִי הָכִי, אֲפִילּוּ גַּבֵּי נְדָרִים נָמֵי!
+> **Translation:** The Gemara asks: **What is different with regard to a nazirite** that a master can force his slave to transgress his naziriteship, **as the Merciful One states: “To bind his soul with a bond”** (Numbers 30:3), from which it is inferred that the Torah is referring only **to one whose soul is in his possession,** i.e., who is not owned by another; this **excludes a slave, whose soul is not in his possession** because he is under his master’s control. **If so,** then **even with regard to vows** that same *halakha* should apply **as well,** as that verse is written in the context of vows in general, not specifically vows of naziriteship. Why is a master unable to compel his slave to break a vow?
 
 The *gemara* now raises a question that was implicit in the *mishnah*: *lama ravo kofe le-nezirut aval lo le-nedarim u-le-erchin* — why does the master have the power to override his slave's *nezirut* specifically, but not to override other binding vows (*nedarim*) or *erchin* commitments? (Some versions of the text substitute *shevua* for *erchin*.) This seems puzzling, because the *pasuk* that would logically support the master's override — *le-esor isar al nafsho*, restricting oneself — appears in the context of *nedarim*, not *nezirut*. The *pasuk* continues: *b'mi she-nafsho knuya lo*, in the case of one who owns himself; *yatza eved she-ein nafsho knuya lo* — this excludes a slave, whose self is not his own. If this exclusion is read as rendering the slave's vow fundamentally non-binding, it would seem to apply to *nedarim* just as much as to *nezirut*. So why is the master's power limited to *nezirut*?
 
 ### Rav Sheshet Answer
 
-Rav Sheshet answers: The answer is circumstantial. The case under discussion by *nedarim* is one where a slave said *konam* on a specific cluster of grapes in front of him — *kegon she-hayah eshkol shel anavim munach lefanav*. By *nedarim*, forbidding that particular cluster does not significantly impede his service to his master: *deki nami mitzar be-hai lo mitzar be-achrinim* — even though he is restricted regarding this item, he is not restricted regarding other grapes. The master can simply direct him to eat other food. *Lo matzi kapi lei* — the master cannot compel him to eat that cluster, since there are alternatives.
+> **Hebrew/Aramaic:** אָמַר רַב שֵׁשֶׁת, הָכָא בְּמַאי עָסְקִינַן: כְּגוֹן שֶׁהָיָה אֶשְׁכּוֹל שֶׁל עֲנָבִים מוּנָּח לְפָנָיו. גַּבֵּי נְדָרִים, דְּכִי מִיתְּסַר בְּהַאי לָא מִיתְּסַר בְּאַחֲרִינֵי — לָא מָצֵי כָּפֵי לֵיהּ.
+> **Translation:** **Rav Sheshet said: With what are we dealing here?** With a case **where a cluster of grapes was placed before** the slave and he vowed not to derive benefit from it. **With regard to vows, when** he **is prohibited from** eating **this** cluster he **is not rendered prohibited from** eating **others;** therefore, the master **cannot force him** to eat it, as he has no reason to insist that the slave consume this particular cluster of grapes.
+
+> **Hebrew/Aramaic:** גַּבֵּי נְזִירוּת, דְּכִי מִיתְּסַר בְּהַאי אִיתְּסַר בְּכוּלְּהוּ — מָצֵי כָּפֵי לֵיהּ. וְגַבֵּי נְדָרִים, מִי לָא עָסְקִינַן דְּלֵיכָּא אֶלָּא הַאי אֶשְׁכּוֹל, דְּאִי לָא אָכֵיל לֵיהּ, חָלֵישׁ?
+> **Translation:** By contrast, **with regard to naziriteship, when** he **is prohibited from** eating **this** cluster he **is rendered prohibited from** consuming **all others;** therefore, the master **can force him** to eat. This is because the lack of food weakens the slave, who is the property of his master. The Gemara asks: **And with regard to vows, are we not dealing** even with a situation **where he has only this cluster** before him and he vows not to eat it, in **which** case **if he does not eat it he is weakened?** Why can’t the master compel him to eat the grapes in this case?
+
+*Amar Rav Sheshes*: The answer is circumstantial. The case under discussion by *nedarim* is one where a slave said *konam* on a specific cluster of grapes in front of him — *kegon she-hayah eshkol shel anavim munach lefanav*. By *nedarim*, forbidding that particular cluster does not significantly impede his service to his master: *deki nami mitzar be-hai lo mitzar be-achrinim* — even though he is restricted regarding this item, he is not restricted regarding other grapes. The master can simply direct him to eat other food. *Lo matzi kapi lei* — the master cannot compel him to eat that cluster, since there are alternatives.
 
 But if the slave undertakes *nezirut*, the situation is categorically different: *deki mitzar be-hai mitzar be-khulhu* — the restriction on grapes applies to all grapes without exception. If the master requires him to eat grapes, or requires him to work in a vineyard and consume the produce, there is no alternative. *Matzi kapi lei* — the master can therefore override the *nezirut* and compel him to drink.
 
@@ -206,47 +219,56 @@ The *gemara* immediately challenges this answer as overly circumstantial. The sa
 
 ### Haroa O Haitiv
 
-> **Hebrew/Aramaic:** אֶלָּא אָמַר רָבָא: כְּגוֹן שֶׁהָיָה חַרְצָן מוּנָּח לְפָנָיו. גַּבֵּי נְדָרִים, בְּהַאי הוּא דְּמִיתְּסַר — לָא מָצֵי כָּפֵי לֵיהּ. גַּבֵּי נָזִיר, דְּאִיתְּסַר נָמֵי בְּאַחֲרֵינִי — מָצֵי כָּפֵי לֵיהּ. וְגַבֵּי נְדָרִים, מִי לָא עָסְקִינַן דְּלֵיכָּא אֶלָּא הַאי חַרְצָן, דְּאִי לָא אָכֵיל לֵיהּ, חָלֵישׁ?
->
-> **Translation:** **Rather, Rava said** that the difference between vows of naziriteship and other vows concerns a case **where there was a grape seed,** which provides only negligible nourishment, that was **placed before** the slave, and he vowed not to eat it. **With regard to vows,** concerning **which he is prohibited to** eat only **this** one seed, the master **cannot force him** to eat it, as refraining from eating a grape seed would not weaken him. **With regard to a nazirite, who is prohibited from** consuming **other** grape products **as well,** the master **can force him.** The Gemara again asks: **And with regard to vows, are we not dealing** even with a situation **where he has only this grape seed** in front of him, in **which** case **if he does not eat it he would be weakened?** Why, then, can the master compel him to violate only his naziriteship vow but not a regular vow?
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רָבָא: כְּגוֹן שֶׁהָיָה חַרְצָן מוּנָּח לְפָנָיו. גַּבֵּי נְדָרִים, בְּהַאי הוּא דְּמִיתְּסַר — לָא מָצֵי כָּפֵי לֵיהּ. גַּבֵּי נָזִיר, דְּאִיתְּסַר נָמֵי בְּאַחֲרֵינִי — מָצֵי כָּפֵי לֵיהּ.
+> **Translation:** **Rather, Rava said** that the difference between vows of naziriteship and other vows concerns a case **where there was a grape seed,** which provides only negligible nourishment, that was **placed before** the slave, and he vowed not to eat it. **With regard to vows,** concerning **which he is prohibited to** eat only **this** one seed, the master **cannot force him** to eat it, as refraining from eating a grape seed would not weaken him. **With regard to a nazirite, who is prohibited from** consuming **other** grape products **as well,** the master **can force him.**
+
+> **Hebrew/Aramaic:** וְגַבֵּי נְדָרִים, מִי לָא עָסְקִינַן דְּלֵיכָּא אֶלָּא הַאי חַרְצָן, דְּאִי לָא אָכֵיל לֵיהּ, חָלֵישׁ?
+> **Translation:** The Gemara again asks: **And with regard to vows, are we not dealing** even with a situation **where he has only this grape seed** in front of him, in **which** case **if he does not eat it he would be weakened?** Why, then, can the master compel him to violate only his naziriteship vow but not a regular vow?
+
+> **Hebrew/Aramaic:** אֶלָּא אָמַר אַבָּיֵי: לְמָה רַבּוֹ צָרִיךְ לִכְפּוֹתוֹ — לִנְזִירוּת. וְאֵין צָרִיךְ לִכְפּוֹתוֹ לִנְדָרִים, וְאֵינוֹ צָרִיךְ לִכְפּוֹתוֹ לִשְׁבוּעָה.
+> **Translation:** **Rather, Abaye said** that the *baraita* does not in fact list cases in which a master can compel his slave to violate his vow, but rather means the following: **With regard to what** situation **is a master** who wants to negate his slave’s vow **required to force** his slave to violate his vow by stating explicitly that he does not want him to fulfill it? It is the case **of** a vow of **naziriteship. But he is not required to force him in** the case of other **vows and he is not required to force him in** the case of **an oath,** as these do not take effect at all.
+
+> **Hebrew/Aramaic:** מַאי טַעְמָא? דְּאָמַר קְרָא: ״לְהָרַע אוֹ לְהֵיטִיב״, מָה הֲטָבָה רְשׁוּת — אַף הֲרָעָה רְשׁוּת. יָצָא לְהָרַע לַאֲחֵרִים — שֶׁאֵין הָרְשׁוּת בְּיָדוֹ.
+> **Translation:** **What is the reason** for this? It is **as the verse states** with regard to oaths: “Or if anyone swear clearly with his lips **to do evil, or to do good”** (Leviticus 5:4). **Just as** the **“good”** mentioned in this verse is referring to **a voluntary** action, **so too** the **“evil”** is **voluntary,** e.g., if he takes an oath not to derive benefit from an item. This **excludes** a slave, whose oath or vow **would cause evil to others, as it is not in his power** to affect his master adversely. Therefore, his statement is invalid. Here too, as the owner will suffer if his slave’s diet is restricted, a slave may not accept a vow or an oath upon himself.
 
 *Ela amar Rava*: Rava reformulates the case: imagine there were grape seeds — *chartzan* — in front of the slave. His *neder* applies only to these seeds; *be-hai hu de-mitzar lo matzi kapi lei* — the master cannot force him to eat them, since grape seeds are not essential nourishment and the slave can manage without them. But if he is a *nazir*, *d-mitzar nami be-achrinimi*, his restriction extends to all grape products. If the master needs him to eat grape seeds — however implausible — he can compel him. The *gemara* raises the same objection: *u'gabei nedarim mi lo askinan d'leika ela hai chartzan d'ilo achil lei chalish?* — what if the grape seeds are literally all that is available and the slave would grow weak without them? Again the distinction is purely circumstantial.
 
 *Ela amar Abaye*: Abaye offers a fundamentally different answer. The question is not whether the vow happens to interfere with the slave's labor in a given situation, but rather what the law says about the binding nature of such vows in the first place. The *pasuk* of *leharei o lehaitiv* — said by the context of *shevua* — establishes that an oath is binding only when it restricts you from something you are permitted to do: *ma hatava reshus af hara'a reshus* — just as doing good is volitional, so too the bad one swears to must be volitional. This excludes an oath to harm others — *yatza leharei le-acherim she-ein reshus be-yado* — since one does not have the right to harm another person, an oath to do so is not binding.
 
-> **Hebrew/Aramaic:** אֶלָּא אָמַר אַבָּיֵי: לְמָה רַבּוֹ צָרִיךְ לִכְפּוֹתוֹ — לִנְזִירוּת. וְאֵין צָרִיךְ לִכְפּוֹתוֹ לִנְדָרִים, וְאֵינוֹ צָרִיךְ לִכְפּוֹתוֹ לִשְׁבוּעָה. מַאי טַעְמָא? דְּאָמַר קְרָא: ״לְהָרַע אוֹ לְהֵיטִיב״, מָה הֲטָבָה רְשׁוּת — אַף הֲרָעָה רְשׁוּת. יָצָא לְהָרַע לַאֲחֵרִים — שֶׁאֵין הָרְשׁוּת בְּיָדוֹ.
->
-> **Translation:** **Rather, Abaye said** that the *baraita* does not in fact list cases in which a master can compel his slave to violate his vow, but rather means the following: **With regard to what** situation **is a master** who wants to negate his slave's vow **required to force** his slave to violate his vow by stating explicitly that he does not want him to fulfill it? It is the case **of** a vow of **naziriteship. But he is not required to force him in** the case of other **vows and he is not required to force him in** the case of **an oath,** as these do not take effect at all. **What is the reason** for this? It is **as the verse states** with regard to oaths: "Or if anyone swear clearly with his lips **to do evil, or to do good"** (Leviticus 5:4). **Just as** the **"good"** mentioned in this verse is referring to **a voluntary** action, **so too** the **"evil"** is **voluntary,** e.g., if he takes an oath not to derive benefit from an item. This **excludes** a slave, whose oath or vow **would cause evil to others, as it is not in his power** to affect his master adversely. Therefore, his statement is invalid. Here too, as the owner will suffer if his slave's diet is restricted, a slave may not accept a vow or an oath upon himself.
-
 Abaye extends this principle: when a slave takes a *neder* or *shevua* that restricts his service to his master, he is in effect doing harm to his master — *leharei le-acherim*. Since he has no right to harm his master in this way, the *neder* or *shevua* is simply not binding in the first place. This is why the master does not need to override it: there is nothing to override. This is a striking reversal of expectations. One might have thought the *neder* is binding but the master has power to override it; Abaye concludes that the *neder* is not binding at all.
+
+One might object that the same logic should apply to *nezirut* — if any restriction that gets in the master's way is invalid from the outset, *nezirut* should be no different. The answer is that we have no *pasuk* extending the *leharei o lehaitiv* principle to *nezirut*. That reasoning applies to *shevuot* directly from the verse, and we assume *nedarim* are linked to *shevuot* in this way. But *nezirut*, despite being in many respects a subset of *nedarim*, is not carried along by this extension. This is admittedly somewhat surprising — and the *gemara* concedes that circumstantially *nedarim* may interfere with a master's service just as readily as *nezirut* — yet the determining factor is the availability of a specific *pasuk*, and here *nezirut* stands apart.
 
 For *nezirut*, the situation is different. The *pasuk* of *le-esor isar al nafsho b'mi she-nafsho knuya lo* applies, and the *gemara* had previously derived from this that the slave's *nezirut* is binding — but subject to the master's override. The exclusion there is categorical-sounding: *yatza eved she-ein nafsho knuya lo*. Yet the *halacha* treats it not as a total invalidation but as a situation where the *nezirut* is binding and the master has the power to override when necessary. The result is that for *nedarim* and *shevuot*, the slave's restricting vow is not binding at all, while for *nezirut* it is binding but overridable — which is, as the *gemara* notes, somewhat ironic, since the *pasuk* excluding the slave reads as a more categorical exclusion by *nezirut* than the *leharei o lehaitiv* reasoning does by *nedarim*.
 
 ## Slave Ran Away
 
-### Rabbi Meir vs Yose
 
-> **Hebrew/Aramaic:** מַתְנִי׳ עָבַר מִכְּנֶגֶד פָּנָיו, רַבִּי מֵאִיר אוֹמֵר: לֹא יִשְׁתֶּה, וְרַבִּי יוֹסֵי אוֹמֵר: יִשְׁתֶּה.
->
-> **Translation:** MISHNA: In a case where a slave took a vow of naziriteship but was prevented by his master from fulfilling the terms of his vow, the Sages engaged in a dispute what the *halakha* would be if he permanently **left his** master's **presence,** i.e., he ran away without being emancipated. **Rabbi Meir says: He may not drink** wine. Since the slave is free in practice, his vow goes into effect. **And Rabbi Yosei says: He may drink** wine, as he is not emancipated.
+
+### Rabbi Meir vs Yose
 
 The *gemara* then presents the case of a slave who ran away from his master. Rabbi Meir says *lo yishteh* — the slave may not drink wine; his *nezirut* is binding even when he is not in his master's presence. Rabbi Yose says *yishteh* — he may drink; the *nezirut* is overridden even when the slave has run away.
 
+> **Hebrew/Aramaic:** מַתְנִי׳ עָבַר מִכְּנֶגֶד פָּנָיו, רַבִּי מֵאִיר אוֹמֵר: לֹא יִשְׁתֶּה, וְרַבִּי יוֹסֵי אוֹמֵר: יִשְׁתֶּה.
+> **Translation:** MISHNA: In a case where a slave took a vow of naziriteship but was prevented by his master from fulfilling the terms of his vow, the Sages engaged in a dispute what the *halakha* would be if he permanently **left his** master’s **presence,** i.e., he ran away without being emancipated. **Rabbi Meir says: He may not drink** wine. Since the slave is free in practice, his vow goes into effect. **And Rabbi Yosei says: He may drink** wine, as he is not emancipated.
+
 ### Mafkir Question
 
-> **Hebrew/Aramaic:** לֵימָא בְּדִשְׁמוּאֵל קָמִיפַּלְגִי, דְּאָמַר שְׁמוּאֵל: הַמַּפְקִיר עַבְדּוֹ יָצָא לְחֵירוּת, וְאֵין צָרִיךְ גֵּט שִׁיחְרוּר. רַבִּי מֵאִיר אִית לֵיהּ דִּשְׁמוּאֵל. רַבִּי יוֹסֵי לֵית לֵיהּ דִּשְׁמוּאֵל.
->
-> **Translation:** GEMARA: The Gemara suggests: **Shall we say** that Rabbi Meir and Rabbi Yosei **disagree with regard to** the following statement **of Shmuel? As Shmuel said:** With regard to one **who renounces ownership of his slave,** the slave **is emancipated, and he does not require a bill of manumission.** This *halakha* indicates that if a slave is free in practice, he no longer requires a bill of manumission but is automatically considered a freeman. The Gemara asks: If so, should one say that **Rabbi Meir is of** the opinion that the ruling is in accordance with the opinion **of Shmuel,** and therefore the slave is obligated in naziriteship as soon as he runs away, like any other freed slave, and **Rabbi Yosei is of** the opinion that the ruling is **not** in accordance with the opinion **of Shmuel?**
+
+> **Hebrew/Aramaic:** גְּמָ׳ לֵימָא בְּדִשְׁמוּאֵל קָמִיפַּלְגִי, דְּאָמַר שְׁמוּאֵל: הַמַּפְקִיר עַבְדּוֹ יָצָא לְחֵירוּת, וְאֵין צָרִיךְ גֵּט שִׁיחְרוּר.
+> **Translation:** GEMARA: The Gemara suggests: **Shall we say** that Rabbi Meir and Rabbi Yosei **disagree with regard to** the following statement **of Shmuel? As Shmuel said:** With regard to one **who renounces ownership of his slave,** the slave **is emancipated, and he does not require a bill of manumission.** This *halakha* indicates that if a slave is free in practice, he no longer requires a bill of manumission but is automatically considered a freeman.
+
+> **Hebrew/Aramaic:** רַבִּי מֵאִיר אִית לֵיהּ דִּשְׁמוּאֵל. רַבִּי יוֹסֵי לֵית לֵיהּ דִּשְׁמוּאֵל.
+> **Translation:** The Gemara asks: If so, should one say that **Rabbi Meir is of** the opinion that the ruling is in accordance with the opinion **of Shmuel,** and therefore the slave is obligated in naziriteship as soon as he runs away, like any other freed slave, and **Rabbi Yosei is of** the opinion that the ruling is **not** in accordance with the opinion **of Shmuel?**
+
+> **Hebrew/Aramaic:** לָא, דְּכוּלֵּי עָלְמָא אִית לְהוּ דִּשְׁמוּאֵל. אֶלָּא: מַאן דְּאָמַר יִשְׁתֶּה, סָבַר: סוֹף סוֹף מִיהְדָּר הָדַר וְאָתֵי גַּבֵּיהּ, לִישְׁתֵּי חַמְרָא כִּי הֵיכִי דְּלָא לִיכְחוֹשׁ. וּלְמַאן דְּאָמַר לֹא יִשְׁתֶּה, סָבַר: לֶיהֱוֵי לֵיהּ צַעְרָא כִּי הֵיכִי דְּלִיהְדַּר גַּבֵּיהּ.
+> **Translation:** The Gemara rejects this suggestion: **No,** it is possible **that everyone is of** the opinion that the ruling is in accordance with the opinion **of Shmuel. Rather,** the mishna is referring to a case where the master refused to declare the runaway ownerless, and was intent on recovering him. Consequently, the slave is not in fact a freeman at all, and the *tanna’im* disagree with regard to the following: Rabbi Yosei, **the one who says** that **he may drink** wine, **maintains** that the slave **will ultimately return and come back to** his master, and therefore it is preferable for him **to drink wine so that he should not be weakened** by the time he returns. **And according to** Rabbi Meir, **the one who says** that **he may not drink** wine, he **maintains** that it is better that the slave **should suffer** by being deprived of wine, **so that he will return to** his master, as the desire to drink wine will spur him to return.
 
 The *gemara* first asks whether this dispute reflects the ruling of Shmuel. Shmuel holds: *ha-mafkir avdo yatza le-cherut ve-ein tzarich get shichrur* — if a master renounces monetary ownership of his slave, the slave automatically acquires free personal status without needing a formal *get shichrur*, a writ of manumission. The reasoning is that a slave's monetary status and his personal status are linked: loss of the former automatically produces the latter. If the slave ran away and the master has effectively abandoned his claim, perhaps this constitutes *mafkir*, and the slave is now free — in which case, according to Rabbi Meir who holds like Shmuel, the slave would be fully free and therefore fully bound by his *nezirut*; while Rabbi Yose, who does not hold like Shmuel, would say the slave is still a slave and his *nezirut* remains overridable.
 
 The *gemara* rejects this framing: *d'kulei alma isleih d'Shmuel* — everyone could hold like Shmuel. The case here is not one where the master has truly renounced ownership; he expects the slave to return or to be recaptured. The master's monetary claim is still in effect. The question is therefore not about personal status at all but about the master's interest.
 
 ### Master's Interest
-
-> **Hebrew/Aramaic:** לָא, דְּכוּלֵּי עָלְמָא אִית לְהוּ דִּשְׁמוּאֵל. אֶלָּא: מַאן דְּאָמַר יִשְׁתֶּה, סָבַר: סוֹף סוֹף מִיהְדָּר הָדַר וְאָתֵי גַּבֵּיהּ, לִישְׁתֵּי חַמְרָא כִּי הֵיכִי דְּלָא לִיכְחוֹשׁ. וּלְמַאן דְּאָמַר לֹא יִשְׁתֶּה, סָבַר: לֶיהֱוֵי לֵיהּ צַעְרָא כִּי הֵיכִי דְּלִיהְדַּר גַּבֵּיהּ.
->
-> **Translation:** The Gemara rejects this suggestion: **No,** it is possible **that everyone is of** the opinion that the ruling is in accordance with the opinion **of Shmuel. Rather,** the mishna is referring to a case where the master refused to declare the runaway ownerless, and was intent on recovering him. Consequently, the slave is not in fact a freeman at all, and the *tanna'im* disagree with regard to the following: Rabbi Yosei, **the one who says** that **he may drink** wine, **maintains** that the slave **will ultimately return and come back to** his master, and therefore it is preferable for him **to drink wine so that he should not be weakened** by the time he returns. **And according to** Rabbi Meir, **the one who says** that **he may not drink** wine, he **maintains** that it is better that the slave **should suffer** by being deprived of wine, **so that he will return to** his master, as the desire to drink wine will spur him to return.
 
 The entire rationale for the master's power to override the slave's *nezirut* is that the master needs the slave to serve him effectively, and the *nezirut* gets in the way of that service. The override is justified by — and limited to — the master's practical interest. The question when the slave has run away is therefore: what does the master's interest dictate?
 

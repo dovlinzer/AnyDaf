@@ -1,0 +1,479 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rav Assi vs. Shmuel",
+    "candidates": [
+      "Parent-Child Sleeping",
+      "Rav Assi vs. Shmuel",
+      "Baraita on Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Yehuda/Rav Assi's ruling on yichud with a sister and Shmuel's objection extending the prohibition to all arayot and even animals, which is precisely what the 'Rav Assi vs. Shmuel' section's prose describes.",
+      "chosen_heading": "Rav Assi vs. Shmuel",
+      "current_heading": "Rav Assi vs. Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Baraita on Witnesses",
+    "candidates": [
+      "Baraita on Witnesses",
+      "Tannaitic Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's challenge from the Mishnah against Shmuel and his response citing the Baraita requiring witnesses, which is precisely what the 'Baraita on Witnesses' prose describes.",
+      "chosen_heading": "Baraita on Witnesses",
+      "current_heading": "Baraita on Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Tannaitic Positions",
+    "candidates": [
+      "Tannaitic Positions",
+      "Amoraim's Stringencies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the baraita about Rabbi Meir, Rabbi Tarfon, and the student who mocked them, which is exactly what the prose under 'Tannaitic Positions' (index 0) discusses in detail.",
+      "chosen_heading": "Tannaitic Positions",
+      "current_heading": "Tannaitic Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Amoraim's Stringencies",
+    "candidates": [
+      "Amoraim's Stringencies",
+      "Tosafot's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the stringent practices of Abaye, Rav Sheshet, and Rav Kahana regarding yichud with animals, which is precisely what the 'Amoraim's Stringencies' section discusses.",
+      "chosen_heading": "Amoraim's Stringencies",
+      "current_heading": "Amoraim's Stringencies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Tosafot's Ruling",
+    "candidates": [
+      "Tosafot's Ruling",
+      "Age Thresholds Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage from Rava discusses permissible seclusion with a girl who understands intercourse but does not submit to it \u2014 this is directly about age thresholds for yichud, matching the 'Age Thresholds Debate' section's discussion of when children are old enough to affect seclusion rules.",
+      "chosen_heading": "Age Thresholds Debate",
+      "current_heading": "Tosafot's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Age Thresholds Debate",
+    "candidates": [
+      "Tosafot's Ruling",
+      "Age Thresholds Debate",
+      "Physical Development",
+      "Embarrassment Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's debate about age thresholds (nine/twelve vs. twelve/thirteen) for when children must sleep clothed, which is precisely what the 'Age Thresholds Debate' section's prose describes.",
+      "chosen_heading": "Age Thresholds Debate",
+      "current_heading": "Age Thresholds Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Embarrassment Standard",
+    "candidates": [
+      "Physical Development",
+      "Embarrassment Standard",
+      "Modern Concerns",
+      "Grandfather Lap Case",
+      "Marriage Status Issue",
+      "Shmuel's Services Ban",
+      "Sake of Heaven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the embarrassment standard (bosha la'amod lefanav aruma) introduced by Rafram bar Pappa citing Rav \u1e24isda, which is precisely what the 'Embarrassment Standard' section's prose is describing.",
+      "chosen_heading": "Embarrassment Standard",
+      "current_heading": "Embarrassment Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Sake of Heaven",
+    "candidates": [
+      "Modern Concerns",
+      "Grandfather Lap Case",
+      "Marriage Status Issue",
+      "Shmuel's Services Ban",
+      "Sake of Heaven",
+      "Rashi on Intent",
+      "Neutral Touch Status",
+      "Handshake Cases",
+      "Two Approaches",
+      "Self-Deception Risk",
+      "Two Women Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Rav Acha bar Abba grandfather-lap story, which heading 1 ('Grandfather Lap Case') explicitly introduces with its prose describing exactly this scene \u2014 Rav Acha arriving, taking his granddaughter, and placing her on his lap.",
+      "chosen_heading": "Grandfather Lap Case",
+      "current_heading": "Sake of Heaven",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Two Women Rule",
+    "candidates": [
+      "Rashi on Intent",
+      "Neutral Touch Status",
+      "Handshake Cases",
+      "Two Approaches",
+      "Self-Deception Risk",
+      "Two Women Rule",
+      "Yevamot & Tzarot",
+      "Woman & Child",
+      "Child as Witness",
+      "Teacher Restrictions",
+      "Rabbi Eliezer Extension",
+      "Shepherds & Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishnah forbidding bachelors and women from teaching children, the Gemara explaining the reasons (mothers/fathers of students), and the clarification of Rabbi Elazar's extension \u2014 are precisely what candidate 9 ('Teacher Restrictions') discusses in its prose.",
+      "chosen_heading": "Teacher Restrictions",
+      "current_heading": "Two Women Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Shepherds & Animals",
+    "candidates": [
+      "Yevamot & Tzarot",
+      "Woman & Child",
+      "Child as Witness",
+      "Teacher Restrictions",
+      "Rabbi Eliezer Extension",
+      "Shepherds & Animals",
+      "Parent Attraction",
+      "Gender Asymmetry",
+      "Rashi-Rambam",
+      "Business with Women",
+      "Avoid Women-Trades",
+      "Rabbi Meir Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is the Baraita supporting the chachamim against Rabbi Yehuda's ruling about shepherds and bachelors, directly quoting 'lo nechshadu Yisrael al mishkav zachar velo al habehemah,' which is exactly what the 'Shepherds & Animals' prose section discusses.",
+      "chosen_heading": "Shepherds & Animals",
+      "current_heading": "Shepherds & Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Rabbi Meir Teaching",
+    "candidates": [
+      "Parent Attraction",
+      "Gender Asymmetry",
+      "Rashi-Rambam",
+      "Business with Women",
+      "Avoid Women-Trades",
+      "Rabbi Meir Teaching",
+      "Lottery Parable",
+      "Animal Sustenance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The Mishnah text covers both the prohibition on teaching one's son a women's trade AND Rabbi Meir's teaching about clean/easy trades, but the passage begins with 'velo yilamed adam b'no umanut hanashim' which is the topic of candidate 4 ('Avoid Women-Trades'), and candidate 4's prose explicitly states 'This sets up the Mishnah's positive teaching, which follows immediately,' indicating the full Mishnah belongs under heading 4, not split across 4 and 5.",
+      "chosen_heading": "Avoid Women-Trades",
+      "current_heading": "Rabbi Meir Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Animal Sustenance",
+    "candidates": [
+      "Lottery Parable",
+      "Animal Sustenance",
+      "Robber Trades",
+      "Refined Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Shimon ben Elazar's statement about animals being sustained without effort and humans forfeiting easy sustenance through sin, which is precisely what the 'Animal Sustenance' prose discusses in detail.",
+      "chosen_heading": "Animal Sustenance",
+      "current_heading": "Animal Sustenance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Refined Judgment",
+    "candidates": [
+      "Robber Trades",
+      "Refined Judgment",
+      "Doctors to Gehinnom",
+      "Butcher as Amalek",
+      "Nehorai's Position",
+      "Maharsha's Reading",
+      "Torah's Rewards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Abba Guryan's list of robber trades AND Rabbi Yehuda's refined judgment plus the doctor/butcher lines all in one Talmudic unit, and the prose under 'Robber Trades' (heading 0) is where this combined source text is first introduced and discussed, making it the natural home for the full quoted passage.",
+      "chosen_heading": "Robber Trades",
+      "current_heading": "Refined Judgment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Torah's Rewards",
+    "candidates": [
+      "Doctors to Gehinnom",
+      "Butcher as Amalek",
+      "Nehorai's Position",
+      "Maharsha's Reading",
+      "Torah's Rewards",
+      "Biblical Support",
+      "Abraham Prooftext",
+      "Tannaitic Authenticity",
+      "Life Organization",
+      "Three Obligations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Nehorai's direct statement about setting aside all trades to teach his son only Torah, which matches heading 2 'Nehorai's Position' whose prose explicitly quotes and introduces this declaration, while heading 4 'Torah's Rewards' is better suited for the essay's own elaboration of the reasoning behind Nehorai's position.",
+      "chosen_heading": "Nehorai's Position",
+      "current_heading": "Torah's Rewards",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "Three Obligations",
+    "candidates": [
+      "Biblical Support",
+      "Abraham Prooftext",
+      "Tannaitic Authenticity",
+      "Life Organization",
+      "Three Obligations",
+      "Bloodletter Traits"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abraham Prooftext",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the Biblical prooftexts about youth/old age and the Abraham passage, which matches heading 1 ('Abraham Prooftext') whose prose explicitly discusses the Abraham prooftext and its connection to Torah's rewards in youth and old age.",
+      "second_heading": "Three Obligations",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Tanu Rabbanan baraita about those whose work is with women and the prohibition on appointing them as king or High Priest, which is explicitly quoted and discussed in the prose of heading 4 ('Three Obligations').",
+      "current_heading": "Three Obligations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Bloodletter Traits",
+    "candidates": [
+      "Bloodletter Traits",
+      "Rebbe on Trades"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the ten traits of a bloodletter, which is precisely what the 'Bloodletter Traits' section prose discusses in detail.",
+      "chosen_heading": "Bloodletter Traits",
+      "current_heading": "Bloodletter Traits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151
+    ],
+    "current_heading": "Rebbe on Trades",
+    "candidates": [
+      "Rebbe on Trades",
+      "Perfumer & Tanner"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Bar Kappara's teaching to learn a 'clean and easy trade' (umanut nekiya ve-kala) directly matches the prose of 'Rebbe on Trades,' which explicitly references 'clean and easy trade' and discusses refined vs. degraded professions, making it the natural home for this passage.",
+      "chosen_heading": "Rebbe on Trades",
+      "current_heading": "Rebbe on Trades",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154
+    ],
+    "current_heading": "Perfumer & Tanner",
+    "candidates": [
+      "Perfumer & Tanner",
+      "Final Gender Statement",
+      "Dowry Reading",
+      "Meir Restated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three statements (trades/parents, perfumer/tanner, males/females) and the current heading 'Perfumer & Tanner' section's prose explicitly discusses the perfumer/tanner dichotomy that is central to this baraita, making it the best home for the complete quoted text.",
+      "chosen_heading": "Perfumer & Tanner",
+      "current_heading": "Perfumer & Tanner",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      162
+    ],
+    "current_heading": "Meir Restated",
+    "candidates": [
+      "Final Gender Statement",
+      "Dowry Reading",
+      "Meir Restated",
+      "Elazar Restated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Meir's teaching about teaching one's son a clean and easy trade and praying to God for wealth, which directly matches the 'Meir Restated' section prose that paraphrases exactly this content.",
+      "chosen_heading": "Meir Restated",
+      "current_heading": "Meir Restated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165
+    ],
+    "current_heading": "Elazar Restated",
+    "candidates": [
+      "Elazar Restated",
+      "Nehorai Final"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Shimon ben Elazar's teaching about the deer, lion, and fox earning livelihood without anguish, which is exactly what the prose under 'Elazar Restated' discusses in detail.",
+      "chosen_heading": "Elazar Restated",
+      "current_heading": "Elazar Restated",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      168,
+      169
+    ],
+    "current_heading": "Nehorai Final",
+    "candidates": [
+      "Nehorai Final",
+      "Completion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nehorai Final",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Rabbi Nehorai baraita that candidate 0's prose explicitly describes and quotes in detail.",
+      "second_heading": "Completion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the hadran/siyum formula closing the tractate, which matches candidate 1's prose about completing Masechet Kiddushin.",
+      "current_heading": "Nehorai Final",
+      "moved": true
+    }
+  }
+]

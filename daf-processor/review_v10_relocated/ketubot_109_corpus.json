@@ -1,0 +1,357 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Setup & Context",
+    "candidates": [
+      "Setup & Context",
+      "Admon's Position",
+      "Wife's Own Deal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete mishna \u2014 the case setup (item 1) and Admon's ruling with Rabban Gamliel's endorsement (item 2) \u2014 which the 'Setup & Context' prose explicitly describes in full, including the u'pashat lo es haregel idiom, the teshev ad shetyalbin roshah consequence, and Admon's o kenos o patur conclusion, making this the correct placement.",
+      "chosen_heading": "Setup & Context",
+      "current_heading": "Setup & Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Wife's Own Deal",
+    "candidates": [
+      "Admon's Position",
+      "Wife's Own Deal",
+      "Rabban Gamliel's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the beraita of Rabbi Yose b'Rabbi Yehuda that reframes the dispute as being specifically about the case where the woman herself made the financial commitment \u2014 exactly what candidate 1's prose describes as its central content.",
+      "chosen_heading": "Wife's Own Deal",
+      "current_heading": "Wife's Own Deal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rabban Gamliel's View",
+    "candidates": [
+      "Rabban Gamliel's View",
+      "Affirmed Cases",
+      "\u05d7\u05e0\u05df vs Admon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about adult vs. minor women and Rava's ruling that the husband is compelled to give a get, which is precisely what the 'Rabban Gamliel's View' prose section describes in detail.",
+      "chosen_heading": "Rabban Gamliel's View",
+      "current_heading": "Rabban Gamliel's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "\u05d7\u05e0\u05df vs Admon",
+    "candidates": [
+      "Affirmed Cases",
+      "\u05d7\u05e0\u05df vs Admon",
+      "Partial Acceptance"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Affirmed Cases",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the ruling of Rabbi Yitzchak bar Elazar about Rabban Gamliel affirming Admon and Rava's question about baraita vs. mishna, which is precisely what heading 0 ('Affirmed Cases') describes in its prose.",
+      "second_heading": "\u05d7\u05e0\u05df vs Admon",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 introduce Rabbi Zeira's statement about Chanan's two rulings vs. Admon's seven, followed by the gemara's attempts to reconcile the apparent contradiction, which matches exactly what headings 1 and 2 describe about the Chanan vs. Admon halakhic comparison and its resolution.",
+      "current_heading": "\u05d7\u05e0\u05df vs Admon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Partial Acceptance",
+    "candidates": [
+      "Partial Acceptance",
+      "Witness Problem",
+      "Admon Excuses",
+      "Chachamim Disagree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the rule about Rabban Gamliel's affirmations of Admon determining the halacha, which is precisely what the 'Partial Acceptance' prose is explaining and resolving.",
+      "chosen_heading": "Partial Acceptance",
+      "current_heading": "Partial Acceptance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Chachamim Disagree",
+    "candidates": [
+      "Witness Problem",
+      "Admon Excuses",
+      "Chachamim Disagree",
+      "Judge Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishna presenting the case of one who contests a field while having signed as a witness \u2014 exactly what heading 0 ('Witness Problem') describes as its topic, before Admon's reasoning (heading 1) and the Chachamim's disagreement (heading 2) are discussed separately.",
+      "chosen_heading": "Witness Problem",
+      "current_heading": "Chachamim Disagree",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Judge Exception",
+    "candidates": [
+      "Chachamim Disagree",
+      "Judge Exception",
+      "Boundary Marker",
+      "Own Field Used"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Abaye's distinction between witnesses and judges (with Rabbi \u1e24iyya's supporting teaching), which is precisely what the 'Judge Exception' prose describes.",
+      "chosen_heading": "Judge Exception",
+      "current_heading": "Judge Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Own Field Used",
+    "candidates": [
+      "Boundary Marker",
+      "Own Field Used",
+      "Moda'a Objection",
+      "Secrecy Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's ruling that when the field is used as a marker for oneself (lo shanu ela le-achar, aval le-atzmo), the claimant does not forfeit his right, which is precisely what the 'Own Field Used' section's prose discusses.",
+      "chosen_heading": "Own Field Used",
+      "current_heading": "Own Field Used",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Secrecy Problem",
+    "candidates": [
+      "Moda'a Objection",
+      "Secrecy Problem",
+      "Initial Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly expresses Reuven's 'chavrach chavra' reasoning about why a moda'a couldn't be kept secret, which is precisely what the 'Secrecy Problem' prose describes.",
+      "chosen_heading": "Secrecy Problem",
+      "current_heading": "Secrecy Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Initial Ruling",
+    "candidates": [
+      "Initial Ruling",
+      "Guardian Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the initial case and Abaye's ruling that the father lost his right by using the field as a boundary marker, which is precisely what the 'Initial Ruling' prose describes.",
+      "chosen_heading": "Initial Ruling",
+      "current_heading": "Initial Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Guardian Argument",
+    "candidates": [
+      "Guardian Argument",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the steward's argument about the father claiming only one furrow and Abaye's response citing Rabbi Yochanan, which is exactly what the 'Guardian Argument' prose describes as the apotropas's sophisticated minimizing argument and the underlying Rabbi Yochanan ruling that supports it.",
+      "chosen_heading": "Guardian Argument",
+      "current_heading": "Guardian Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Abaye's Praise",
+      "Path Lost"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Abaye affirming the apotropas's argument about repurchase, citing Rabbi Yochanan's ruling, and then praising the apotropas for knowing how to argue in favor of the orphans \u2014 which is precisely what heading 1 ('Abaye's Praise') describes in its prose.",
+      "chosen_heading": "Abaye's Praise",
+      "current_heading": "Rabbi Yochanan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Path Lost",
+    "candidates": [
+      "Abaye's Praise",
+      "Path Lost",
+      "Admon Claims",
+      "Chachamim Harsh",
+      "Ownership Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna introducing the 'path lost' scenario, which the prose under heading 1 ('Path Lost') explicitly describes as the third Admon ruling introduced in a new mishna.",
+      "chosen_heading": "Path Lost",
+      "current_heading": "Path Lost",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Ownership Analysis",
+    "candidates": [
+      "Admon Claims",
+      "Chachamim Harsh",
+      "Ownership Analysis",
+      "Rava's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks what the Rabbis' reason is and then presents Rav Yehuda/Rav's answer about four surrounding owners, followed by the question 'if so, what is Admon's reason?' \u2014 exactly the content described in the 'Ownership Analysis' prose.",
+      "chosen_heading": "Ownership Analysis",
+      "current_heading": "Ownership Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Rava's Rule",
+    "candidates": [
+      "Rava's Rule",
+      "Bequest Ignored"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's analysis of the lost-path dispute \u2014 item 1 states his rule distinguishing the cases, and item 2 elaborates Admon's and the Rabbis' positions \u2014 exactly matching the prose of 'Rava's Rule.'",
+      "chosen_heading": "Rava's Rule",
+      "current_heading": "Rava's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Bequest Ignored",
+    "candidates": [
+      "Bequest Ignored",
+      "Half vs Whole"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically describes Rav Yosef's initial inclination to compare the case to the mishna, which matches heading 0's prose exactly, while heading 1 covers Abaye's rejection of that comparison \u2014 a later development not yet reached in this passage.",
+      "chosen_heading": "Bequest Ignored",
+      "current_heading": "Bequest Ignored",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Half vs Whole",
+    "candidates": [
+      "Half vs Whole",
+      "Halves Equal Whole"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's rejection of the comparison and his remedy of re-dividing the estate, which is precisely what the 'Half vs Whole' prose discusses in detail.",
+      "chosen_heading": "Half vs Whole",
+      "current_heading": "Half vs Whole",
+      "moved": false
+    }
+  }
+]

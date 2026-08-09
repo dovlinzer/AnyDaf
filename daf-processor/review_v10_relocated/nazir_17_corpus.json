@@ -1,0 +1,256 @@
+[
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Gemara Self-Correction",
+    "candidates": [
+      "Nazir in Cemetery",
+      "Mishna Framework",
+      "R. Eliezer Position",
+      "Nezirut Timing",
+      "Reish Lakish View",
+      "Tosafot on Re-Acceptance",
+      "Gemara Self-Correction",
+      "Yochanan Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items together constitute the gemara's self-correction: item 1 is the objection that forces the reframing, and item 2 is Mar bar Rav Ashi's revised interpretation \u2014 exactly what the 'Gemara Self-Correction' prose describes as meheicha kaamrat lo pligi d'chayil / ela ki pligi l'milki.",
+      "chosen_heading": "Gemara Self-Correction",
+      "current_heading": "Gemara Self-Correction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Yochanan Challenge",
+    "candidates": [
+      "Yochanan Challenge",
+      "Reish Lakish Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yochanan raising an objection to Reish Lakish from the mishna about a nazir in a cemetery, which precisely matches the 'Yochanan Challenge' prose describing exactly this challenge and its inference about malkus.",
+      "chosen_heading": "Yochanan Challenge",
+      "current_heading": "Yochanan Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Reish Lakish Defense",
+    "candidates": [
+      "Reish Lakish Defense",
+      "Baraita Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items continue the Reish Lakish defense discussion: item 1 explains why the mishna used 'korban' language rather than 'malkus' language, items 2-3 present and rebut the baraita proof about the difference between tamei-from-start and pure-then-impure nazirites regarding flogging vs. shaving \u2014 all of which is explicitly discussed in the 'Reish Lakish Defense' prose section.",
+      "chosen_heading": "Reish Lakish Defense",
+      "current_heading": "Reish Lakish Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Baraita Proof",
+    "candidates": [
+      "Baraita Proof",
+      "Full Nezirut Applies",
+      "Tumah: Continued Presence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita proof itself (tiyuvta) that conclusively refutes Reish Lakish, which is exactly what the 'Baraita Proof' section's prose describes in detail.",
+      "chosen_heading": "Baraita Proof",
+      "current_heading": "Baraita Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Tumah: Continued Presence",
+    "candidates": [
+      "Full Nezirut Applies",
+      "Tumah: Continued Presence",
+      "Beit Hamikdash Model",
+      "With Warning Given"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's question about whether shehiya (delayed exit) is necessary for malkus liability when a nazir is in a cemetery, which directly matches the 'Tumah: Continued Presence' section's prose introducing this exact inquiry.",
+      "chosen_heading": "Tumah: Continued Presence",
+      "current_heading": "Tumah: Continued Presence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "With Warning Given",
+    "candidates": [
+      "Beit Hamikdash Model",
+      "With Warning Given",
+      "Ones Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses the scenario where a warning was given ('do not take a vow of naziriteship'), concluding that shehiya is irrelevant in that case because the warned act itself is the transgression \u2014 exactly what the 'With Warning Given' prose section describes.",
+      "chosen_heading": "With Warning Given",
+      "current_heading": "With Warning Given",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Ones Case",
+    "candidates": [
+      "Ones Case",
+      "Sacred Space vs Person",
+      "Shaving Package Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe the chest/box ones scenario and the unresolved shehiya question (teiku), which is precisely what the 'Ones Case' prose discusses in detail.",
+      "chosen_heading": "Ones Case",
+      "current_heading": "Ones Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Shaving Package Question",
+    "candidates": [
+      "Sacred Space vs Person",
+      "Shaving Package Question",
+      "Mishnah Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's dilemma about whether a nazir who vowed while in a cemetery requires shaving, which directly matches the 'Shaving Package Question' prose discussing teun giluach o lav and whether shaving applies to a nazir who began as tamei.",
+      "chosen_heading": "Shaving Package Question",
+      "current_heading": "Shaving Package Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Mishnah Evidence",
+    "candidates": [
+      "Mishnah Evidence",
+      "Day Seven vs Day Eight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mishna evidence about a nazir in a cemetery, the inference about shaving vs. korban tumah, and the gemara's rejection by reading 'ma ta'am' \u2014 all of which match exactly the prose under 'Mishnah Evidence'.",
+      "chosen_heading": "Mishnah Evidence",
+      "current_heading": "Mishnah Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Day Seven vs Day Eight",
+    "candidates": [
+      "Day Seven vs Day Eight",
+      "Gemara Package Response",
+      "Tumat Meit Destroys"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are directly about the baraita comparing a tamei person who took naziriteship versus a pure nazirite who became impure, specifically debating whether the 'only difference' clause implies equality in shaving \u2014 exactly what heading 0's prose describes.",
+      "chosen_heading": "Day Seven vs Day Eight",
+      "current_heading": "Day Seven vs Day Eight",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Tumat Meit Destroys",
+    "candidates": [
+      "Gemara Package Response",
+      "Tumat Meit Destroys",
+      "Shaving Analogy",
+      "Rav Pappa Interpretation",
+      "Hair Safety & Nezirut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the kal va-chomer argument that days of chalut (confirmed leprosy) don't count because like tumah days they end with shaving and korban, followed by the rebuttal that tumah destroys earlier days while chalut does not \u2014 exactly the content described in the 'Shaving Analogy' prose.",
+      "chosen_heading": "Shaving Analogy",
+      "current_heading": "Tumat Meit Destroys",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Hair Safety & Nezirut",
+    "candidates": [
+      "Shaving Analogy",
+      "Rav Pappa Interpretation",
+      "Hair Safety & Nezirut",
+      "Baraita Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items deal with the gemara's debate over whether the baraita's 'shaving' refers to tiglachat tumah or tiglachat taharah, and the prose of 'Hair Safety & Nezirut' (index 2) explicitly walks through exactly this dispute \u2014 the lo tiglachat taharah rejection, the hachi nami mistabra reasoning, and the final lo tiglachat di-nezirut katani conclusion \u2014 matching the content of all three items precisely.",
+      "chosen_heading": "Hair Safety & Nezirut",
+      "current_heading": "Hair Safety & Nezirut",
+      "moved": false
+    }
+  }
+]

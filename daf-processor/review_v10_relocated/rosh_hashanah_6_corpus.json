@@ -1,0 +1,229 @@
+[
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Why Need Motza",
+    "candidates": [
+      "Becha Chet Baraita",
+      "Ben Azzai & Pigul",
+      "Sin on Person",
+      "Wife's Death Context",
+      "Collective Punishment",
+      "Collective Punishment",
+      "Why Need Motza",
+      "Categories Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1-2 are the Ben Azzai baraita deriving that delaying a vow does not render the korban unacceptable, item 3 rejects the prior reading and introduces 'becha chet v'lo b'ishtecha,' and item 4 explains why this teaching was necessary given Rabbi Yochanan's statement about a wife dying \u2014 all of which is precisely what candidate 1 ('Ben Azzai & Pigul') describes, including the Ben Azzai drasha, the oto exclusion of bal te'acher from lo yeratzeh, and the subsequent question of what becha chet comes to teach us.",
+      "chosen_heading": "Ben Azzai & Pigul",
+      "current_heading": "Why Need Motza",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Categories Drasha",
+    "candidates": [
+      "Why Need Motza",
+      "Categories Drasha",
+      "Two Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita deriving multiple obligations from 'motza sefatecha' and the Gemara's immediate challenge asking 'why do I need this derivation' for the positive mitzva and the prohibition \u2014 are precisely what the 'Why Need Motza' prose describes, including the specific questions about deriving the positive mitzva from 'u'vata shama' and the prohibition from 'lo te'acher leshalmo'.",
+      "chosen_heading": "Why Need Motza",
+      "current_heading": "Categories Drasha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Two Stages",
+    "candidates": [
+      "Two Stages",
+      "Neder & Nedavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage about coercing someone to bring an offering 'until he says I want to' relates to the court's role in enforcing vow fulfillment, which connects to the two-stage framework discussion about when and how bal te'acher obligations are enforced, and the current placement under 'Two Stages' is reasonable given the prose context about exhausting why each element is needed.",
+      "chosen_heading": "Two Stages",
+      "current_heading": "Two Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Neder & Nedavah",
+    "candidates": [
+      "Neder & Nedavah",
+      "Rava Tzedakah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items directly address the neder/nedavah distinction \u2014 the two-stage framework of 'said but didn't set aside' vs. 'set aside but didn't sacrifice,' the necessity of both verses, the difficulty from the word nedavah requiring a sanctified animal, the mishna defining neder vs. nedavah, and Rava's resolution \u2014 which is precisely what the 'Neder & Nedavah' prose discusses.",
+      "chosen_heading": "Neder & Nedavah",
+      "current_heading": "Neder & Nedavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Rava Tzedakah",
+    "candidates": [
+      "Rava Tzedakah",
+      "Rava I: Immediate",
+      "Tosafot Limitation",
+      "Rava II: One Regel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita identifying 'with your mouth' as charity and Rava's statement that tzedakah obligates immediately because the poor are present, which is precisely what the 'Rava Tzedakah' section's prose discusses and analyzes in detail.",
+      "chosen_heading": "Rava Tzedakah",
+      "current_heading": "Rava Tzedakah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Rava II: One Regel",
+    "candidates": [
+      "Rava I: Immediate",
+      "Tosafot Limitation",
+      "Rava II: One Regel",
+      "Rava III: Daily",
+      "Baraita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All seven items are the continuous Gemara discussion around Rava's second statement (one regel triggers an asei violation), including the objection from the vlad shlamim baraita and its resolutions by Rav Zevid/Rav Ashi, which is precisely what the 'Rava II: One Regel' prose describes.",
+      "chosen_heading": "Rava II: One Regel",
+      "current_heading": "Rava II: One Regel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Baraita Challenge",
+    "candidates": [
+      "Rava III: Daily",
+      "Baraita Challenge",
+      "Lesser Measure",
+      "Year Without Regalim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Baraita Challenge",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rava's statement about daily transgression, the baraita challenge, Rav Kahana's defense, and Rava's rebuttal \u2014 exactly what 'Baraita Challenge' prose describes.",
+      "second_heading": "Lesser Measure",
+      "second_confidence": "high",
+      "second_reason": "Item 4 begins 'Gufa' \u2014 the gemara now analyzes the baraita itself, discussing the 'lesser measure' of three regalim vs. one year, which matches the 'Lesser Measure' prose precisely.",
+      "current_heading": "Baraita Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Year Without Regalim",
+    "candidates": [
+      "Lesser Measure",
+      "Year Without Regalim",
+      "Rabbi Solar Year"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of how to construct a 'year without three regalim' and specifically contrasts the opinion that requires kesidran with the one that does not, which is precisely what the 'Year Without Regalim' section's prose discusses.",
+      "chosen_heading": "Year Without Regalim",
+      "current_heading": "Year Without Regalim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Rabbi Solar Year",
+    "candidates": [
+      "Rabbi Solar Year",
+      "Shavuot Fluctuation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita about redeeming a sold house in a walled city and the dispute between Rabbi Yehuda HaNasi (365 solar days) and the Sages (twelve months day-to-day), which is precisely what the 'Rabbi Solar Year' prose describes, including the application to finding a year without three Festivals under each opinion.",
+      "chosen_heading": "Rabbi Solar Year",
+      "current_heading": "Rabbi Solar Year",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Shavuot Fluctuation",
+    "candidates": [
+      "Shavuot Fluctuation",
+      "Acherim Fixed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly teaches Rav Shemaya's baraita about Shavuot falling on the 5th, 6th, or 7th of Sivan, which is precisely the content discussed in the 'Shavuot Fluctuation' section's prose.",
+      "chosen_heading": "Shavuot Fluctuation",
+      "current_heading": "Shavuot Fluctuation",
+      "moved": false
+    }
+  }
+]

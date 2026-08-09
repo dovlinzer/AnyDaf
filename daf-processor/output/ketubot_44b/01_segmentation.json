@@ -24,8 +24,8 @@
           "timestamp": "01:07"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Derivation of Sekilah for Conceived Non-Jewish, Born Jewish Women",
@@ -252,8 +252,8 @@
           "timestamp": "43:36"
         }
       ],
-      "sefaria_index": 24,
-      "matched": false
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Practical Halachos: Location of Stoning Based on Beis Aviha and City Status",
@@ -286,8 +286,8 @@
           "timestamp": "46:08"
         }
       ],
-      "sefaria_index": 12,
-      "matched": true
+      "sefaria_index": 14,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -528,5 +528,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "02:08",
+  "amud_b_micro_title": "Reish Lakish's Source",
+  "shiur_start_daf": 44,
+  "shiur_start_amud": "a"
 }

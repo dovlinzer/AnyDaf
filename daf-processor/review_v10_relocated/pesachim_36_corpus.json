@@ -1,0 +1,298 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Tevel Definition",
+    "candidates": [
+      "Prior Topics",
+      "Mishnah Overview",
+      "Tevel Definition",
+      "Tevel Source",
+      "Ain Issur Chal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are precisely the baraita about tevel shelo nitkan and its graduated cases (terumah gedolah, terumas maaser, maaser rishon, maaser sheni, maaser ani), which is exactly what the 'Tevel Definition' prose describes in detail.",
+      "chosen_heading": "Tevel Definition",
+      "current_heading": "Tevel Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Ain Issur Chal",
+    "candidates": [
+      "Tevel Source",
+      "Ain Issur Chal",
+      "Ravina's View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Tevel Source",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita's drasha from 'lo tochel alav chametz' and Rav Sheshet's answer invoking Rabbi Shimon's 'ein issur chal al issur', which matches heading 0's prose about the tevel source and the raised difficulty, and heading 1's prose about the Gemara's answer via Rabbi Shimon \u2014 but since items 1-2 span the transition from the drasha (heading 0) into the ain issur chal answer (heading 1), and the current placement is heading 1, items 1-2 actually fit best under heading 0 which sets up the drasha and the difficulty, with the Rabbi Shimon answer belonging to heading 1.",
+      "second_heading": "Ravina's View",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 (the neveilah on Yom Kippur illustration of Rabbi Shimon's principle and Ravina's alternative reading) belong under heading 1 ('Ain Issur Chal') and heading 2 ('Ravina's View') respectively, but since item 3 is the paradigmatic illustration of Rabbi Shimon discussed in heading 1's prose and item 4 is Ravina's reinterpretation discussed in heading 2's prose, the structural seam falls after item 3.",
+      "current_heading": "Ain Issur Chal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Ravina's View",
+    "candidates": [
+      "Ain Issur Chal",
+      "Ravina's View",
+      "Lechem Oni Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Gemara's rejection of Ravina's reading ('Is the word Only written?') and conclusion that Rav Sheshet's explanation is correct, which is precisely what the 'Ravina's View' prose section describes.",
+      "chosen_heading": "Ravina's View",
+      "current_heading": "Ravina's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Lechem Oni Drasha",
+    "candidates": [
+      "Lechem Oni Drasha",
+      "Akiva: Fruit OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yosei HaGelili's position that maaser sheni is excluded from fulfilling the matzah obligation via the lechem oni/aninut wordplay, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Lechem Oni Drasha",
+      "current_heading": "Lechem Oni Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Akiva: Fruit OK",
+    "candidates": [
+      "Akiva: Fruit OK",
+      "Kosher vs. Seder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items deal with the dispute between Rabbi Akiva and Rabbi Yosei HaGalili over how to read 'lechem oni'/'ani' and what it excludes, which is precisely what candidate 0's prose discusses in detail, including the Shmuel teaching about 'onin alav devarim harbeh'.",
+      "chosen_heading": "Akiva: Fruit OK",
+      "current_heading": "Akiva: Fruit OK",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Kosher vs. Seder",
+    "candidates": [
+      "Kosher vs. Seder",
+      "Milk Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion about Rabbi Akiva's apparent contradiction regarding dough kneaded with wine, oil, and honey \u2014 the baraita challenge, its continuation, and the 'lo kashya' resolution distinguishing yom tov rishon from the other days \u2014 which is precisely what the 'Kosher vs. Seder' prose describes.",
+      "chosen_heading": "Kosher vs. Seder",
+      "current_heading": "Kosher vs. Seder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Milk Exception",
+    "candidates": [
+      "Milk Exception",
+      "Lukewarm Water",
+      "Kneading vs. Sisah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Yehoshua's instruction about kneading with milk/honey and the resolution via ke-ein tura, which is precisely what the 'Milk Exception' prose describes in detail.",
+      "chosen_heading": "Milk Exception",
+      "current_heading": "Milk Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Kneading vs. Sisah",
+    "candidates": [
+      "Lukewarm Water",
+      "Kneading vs. Sisah",
+      "Minchas Omer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous Talmudic discussion about why lukewarm water/soaking is prohibited for ordinary matzah but permitted for minchos, revolving around the zerizin/bemakom zerizin distinction \u2014 exactly what candidate 1 ('Kneading vs. Sisah') describes in its prose.",
+      "chosen_heading": "Kneading vs. Sisah",
+      "current_heading": "Kneading vs. Sisah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Minchas Omer",
+    "candidates": [
+      "Minchas Omer",
+      "Yose: Ma'aser OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Minchas HaOmer's soaking process and the answer 'tsibur shani,' which is exactly what the prose under heading 0 analyzes.",
+      "chosen_heading": "Minchas Omer",
+      "current_heading": "Minchas Omer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Yose: Ma'aser OK",
+    "candidates": [
+      "Yose: Ma'aser OK",
+      "Akiva: Both?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yosei HaGelili's baraita excluding bikkurim from valid matzah based on 'be-chol moshvoseichem,' which is precisely what the prose under heading 0 describes in detail.",
+      "chosen_heading": "Yose: Ma'aser OK",
+      "current_heading": "Yose: Ma'aser OK",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Akiva: Both?",
+    "candidates": [
+      "Akiva: Both?",
+      "Redemption Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe Rabbi Akiva's full argument \u2014 the maror comparison, the challenge about species that cannot be bikkurim, the matzos matzos riba response, and his retraction \u2014 which is precisely what heading 0's prose discusses.",
+      "chosen_heading": "Akiva: Both?",
+      "current_heading": "Akiva: Both?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Redemption Logic",
+    "candidates": [
+      "Redemption Logic",
+      "Yose Like Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together form the baraita and Gemara discussion about excluding bikkurim via 'be-chol moshvoseichem,' including second tithe via repetition, Rabbi Eliezer's redemption mechanism for tamei maaser sheni, and Rabbi Akiva's retraction \u2014 exactly the content described in the 'Redemption Logic' prose.",
+      "chosen_heading": "Redemption Logic",
+      "current_heading": "Redemption Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Yose Like Shimon",
+    "candidates": [
+      "Yose Like Shimon",
+      "Onen & Bikkurim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why Rabbi Yose HaGalili needs 'be-chol moshvoseichem' when 'lechem oni' should already exclude bikkurim, which is precisely the question the 'Yose Like Shimon' prose is explaining \u2014 that Rabbi Yose HaGalili follows Rabbi Shimon's view that bikkurim can be eaten by an onen, so lechem oni cannot serve to exclude bikkurim.",
+      "chosen_heading": "Yose Like Shimon",
+      "current_heading": "Yose Like Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Onen & Bikkurim",
+    "candidates": [
+      "Onen & Bikkurim",
+      "Bikkurim Season"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous dispute about whether bikkurim are permitted to an onen, covering the Rabbinic view (heikesh to maaser sheni), Rabbi Shimon's counter (heikesh to teruma), and the challenge from simcha \u2014 exactly what the 'Onen & Bikkurim' prose describes.",
+      "chosen_heading": "Onen & Bikkurim",
+      "current_heading": "Onen & Bikkurim",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Niche Specs",
+    "candidates": [
+      "Cave 4\u00d76, 8 Niches",
+      "Niche Specs",
+      "Rabbi Shimon 6\u00d78"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishna's opening statement about cave dimensions and niche counts (4\u00d76, eight niches), which is precisely what candidate 0's prose discusses; candidate 1 ('Niche Specs') covers only the individual niche measurements (depth/height/width), not the full Mishna opening.",
+      "chosen_heading": "Cave 4\u00d76, 8 Niches",
+      "current_heading": "Niche Specs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rabbi Shimon 6\u00d78",
+    "candidates": [
+      "Niche Specs",
+      "Rabbi Shimon 6\u00d78",
+      "Courtyard Layout"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Shimon's specification of a 6\u00d78 chamber with 13 niches arranged exactly as described, which matches precisely the prose in candidate 1 ('Rabbi Shimon 6\u00d78').",
+      "chosen_heading": "Rabbi Shimon 6\u00d78",
+      "current_heading": "Rabbi Shimon 6\u00d78",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Courtyard Layout",
+    "candidates": [
+      "Courtyard Layout",
+      "Rock Type Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the courtyard dimensions and the number of burial chambers opening into it, which is exactly what the 'Courtyard Layout' prose discusses in detail.",
+      "chosen_heading": "Courtyard Layout",
+      "current_heading": "Courtyard Layout",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rock Type Rule",
+    "candidates": [
+      "Rock Type Rule",
+      "Placement Query",
+      "Purity Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabban Shimon ben Gamliel's rule that everything depends on the bedrock, which is precisely what the 'Rock Type Rule' section's prose discusses.",
+      "chosen_heading": "Rock Type Rule",
+      "current_heading": "Rock Type Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Purity Issue",
+    "candidates": [
+      "Placement Query",
+      "Purity Issue",
+      "Vertical Bolts"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Vertical Bolts",
+    "candidates": [
+      "Vertical Bolts",
+      "Disrespect Objection",
+      "Corner Placement",
+      "Intersection Problem",
+      "Height Staggering"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Vertical Bolts",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yosei's vertical-bolt proposal, which belongs under 'Vertical Bolts' where the prose discusses exactly this nagar solution.",
+      "second_heading": "Disrespect Objection",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are Rabbi Yochanan's objection that vertical burial is 'burial of donkeys,' which belongs under 'Disrespect Objection' where the prose discusses precisely this kevurat chamorim challenge.",
+      "current_heading": "Vertical Bolts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Height Staggering",
+    "candidates": [
+      "Disrespect Objection",
+      "Corner Placement",
+      "Intersection Problem",
+      "Height Staggering",
+      "Palm-Branch Idea",
+      "Geometry Refutation",
+      "Diagonal Math"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items cover the geometric problem of niches touching (item 1-2), Rav Ashi's 'deepening/staggering' solution and its generalization to Rabbi Shimon's four caves (item 3), and Rav Huna's alternative palm-branch proposal (item 4) \u2014 exactly the content described in the 'Height Staggering' prose, which explicitly covers Rav Ashi's b'mamek resolution and its application to Rabbi Shimon's complex, making this the correct current placement.",
+      "chosen_heading": "Height Staggering",
+      "current_heading": "Height Staggering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Diagonal Math",
+    "candidates": [
+      "Palm-Branch Idea",
+      "Geometry Refutation",
+      "Diagonal Math",
+      "Infant Niches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the geometric refutation of Rav Huna's palm-branch proposal, including the diagonal approximation principle and the conclusion that it is an error \u2014 exactly what the 'Geometry Refutation' prose describes, not the 'Diagonal Math' section which discusses the application to eight-amah walls.",
+      "chosen_heading": "Geometry Refutation",
+      "current_heading": "Diagonal Math",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Infant Niches",
+    "candidates": [
+      "Diagonal Math",
+      "Infant Niches",
+      "1\u20132 Bodies Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'binpili' (non-viable newborns) solution to the corner-niche intersection problem, which is precisely what the 'Infant Niches' section's prose describes.",
+      "chosen_heading": "Infant Niches",
+      "current_heading": "Infant Niches",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "1\u20132 Bodies Rule",
+    "candidates": [
+      "1\u20132 Bodies Rule",
+      "3 Bodies = Cemetery",
+      "20-Cubit Search",
+      "Iterative Search",
+      "Context Principle",
+      "Reinterpretation",
+      "Ground vs. Cave",
+      "Spacing Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes finding one or two corpses lying in the usual manner of burial and removing them with their surrounding earth, which directly matches the '1\u20132 Bodies Rule' section prose about isolated burials that do not constitute a cemetery.",
+      "chosen_heading": "1\u20132 Bodies Rule",
+      "current_heading": "1\u20132 Bodies Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Spacing Rationale",
+    "candidates": [
+      "3 Bodies = Cemetery",
+      "20-Cubit Search",
+      "Iterative Search",
+      "Context Principle",
+      "Reinterpretation",
+      "Ground vs. Cave",
+      "Spacing Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the rules for identifying a cemetery from three bodies with four-to-eight cubit spacing, the twenty-cubit search, iterative extension, and the context principle \u2014 all of which are covered under heading 0 ('3 Bodies = Cemetery') and its subsequent headings 1-3, but the passage as a whole begins with the cemetery identification rule that is the subject of heading 0, and the entire quoted text is the source baraita that headings 0-3 collectively discuss, making heading 0 the natural home as the first and primary heading under which this baraita sits.",
+      "chosen_heading": "3 Bodies = Cemetery",
+      "current_heading": "Spacing Rationale",
+      "moved": true
+    }
+  }
+]

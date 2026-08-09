@@ -1,0 +1,306 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Ra'ui vs. Muchzak",
+    "candidates": [
+      "Three Portions",
+      "Ra'ui vs. Muchzak",
+      "Movables, Not Land",
+      "Rabba's Challenge",
+      "Already Possessed",
+      "Ve-natati Interpretation",
+      "What Moshe Knew"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the exact objection about ra'ui vs. muchzak and then gives Shmuel's answer about tent pegs, which corresponds precisely to the 'Ra'ui vs. Muchzak' section's prose description of the problem and Rav Yehuda/Shmuel's resolution.",
+      "chosen_heading": "Ra'ui vs. Muchzak",
+      "current_heading": "Ra'ui vs. Muchzak",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "What Moshe Knew",
+    "candidates": [
+      "Movables, Not Land",
+      "Rabba's Challenge",
+      "Already Possessed",
+      "Ve-natati Interpretation",
+      "What Moshe Knew",
+      "Merit and Attribution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabba's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabba's objection and his resolution ('Eretz Yisrael muchzeket'), which matches heading 1 ('Rabba's Challenge') and heading 2 ('Already Possessed') \u2014 the prose of heading 1 explicitly describes Rabba citing Rabbi Yehuda's baraita about four portions, and heading 2 describes Rabba's own resolution, so item 1 spanning both fits best under heading 1 as the challenge-and-resolution unit.",
+      "second_heading": "What Moshe Knew",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the baraita of Rabbi Hidka/Shimon HaShikmoni about what Moshe knew and the merit of the daughters, which exactly matches the prose of heading 4 ('What Moshe Knew') and heading 5 ('Merit and Attribution') \u2014 and since they form one continuous baraita, they belong under the current placement at heading 4.",
+      "current_heading": "What Moshe Knew",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "Merit and Attribution",
+    "candidates": [
+      "Merit and Attribution",
+      "Gatherer of Wood",
+      "Megalgelin Zechut",
+      "Exact Doubt"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gatherer of Wood",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses Moses knowing the wood-gatherer deserved death but not knowing the specific mode of execution, and how the parsha was written through the incident \u2014 exactly matching the 'Gatherer of Wood' prose.",
+      "second_heading": "Megalgelin Zechut",
+      "second_confidence": "high",
+      "second_reason": "Item 2 states the principle 'megalgelin zechut al yedei zakai ve-chov al yedei chayav,' which is precisely what the 'Megalgelin Zechut' section's prose is about.",
+      "current_heading": "Merit and Attribution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Exact Doubt",
+    "candidates": [
+      "Gatherer of Wood",
+      "Megalgelin Zechut",
+      "Exact Doubt",
+      "Morasha Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly raises the objection about what Moshe's doubt could be if Eretz Yisrael is already 'muchzeket,' which is precisely the question the 'Exact Doubt' section's prose describes and resolves.",
+      "chosen_heading": "Exact Doubt",
+      "current_heading": "Exact Doubt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Morasha Ambiguity",
+    "candidates": [
+      "Morasha Ambiguity",
+      "Dual Meaning",
+      "The Irony",
+      "Prophecy Unknowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Moses's uncertainty about the word 'morasha' \u2014 whether it means an inheritance already received from ancestors or something to be bequeathed to others \u2014 which is precisely what the 'Morasha Ambiguity' section's prose describes.",
+      "chosen_heading": "Morasha Ambiguity",
+      "current_heading": "Morasha Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Prophecy Unknowing",
+    "candidates": [
+      "Dual Meaning",
+      "The Irony",
+      "Prophecy Unknowing",
+      "Before All"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains the content about 'tavi'eimo' vs 'tavi'einu' and the teaching that they prophesied without knowing what they prophesied, which is precisely what the 'Prophecy Unknowing' prose describes.",
+      "chosen_heading": "Prophecy Unknowing",
+      "current_heading": "Prophecy Unknowing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Before All",
+    "candidates": [
+      "Before All",
+      "Sequential or Simultaneo\u2026",
+      "Yoshiyah's View",
+      "Abba Chanan's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks whether the daughters approached each authority sequentially (and if so, why Moses and Eleazar said nothing), which is precisely the question of sequential vs. simultaneous approach that heading 1 introduces.",
+      "chosen_heading": "Sequential or Simultaneo\u2026",
+      "current_heading": "Before All",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Abba Chanan's View",
+    "candidates": [
+      "Sequential or Simultaneo\u2026",
+      "Yoshiyah's View",
+      "Abba Chanan's View",
+      "Student vs. Master"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Yoshiya's view (transpose the verse \u2014 sequential approach) and Abba Chanan/Rabbi Eliezer's view (simultaneous gathering in the house of study) together in a single Talmudic exchange, which corresponds to the introductory heading that frames the core question of sequential vs. simultaneous approach.",
+      "chosen_heading": "Sequential or Simultaneo\u2026",
+      "current_heading": "Abba Chanan's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Student vs. Master",
+    "candidates": [
+      "Abba Chanan's View",
+      "Student vs. Master",
+      "Master's Signal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the disagreement about showing honor to a student in the presence of the teacher, which is precisely what the 'Student vs. Master' section's prose describes.",
+      "chosen_heading": "Student vs. Master",
+      "current_heading": "Student vs. Master",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Master's Signal",
+    "candidates": [
+      "Master's Signal",
+      "Wisdom",
+      "Yibum Argument",
+      "If Sons Then Inherit",
+      "Darshaniyot",
+      "Legal Acumen",
+      "Proper Marriage",
+      "Waiting Till 40"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the halakhic ruling about showing honor to a student and its resolution based on whether the master signals recognition \u2014 exactly what the 'Master's Signal' prose describes.",
+      "chosen_heading": "Master's Signal",
+      "current_heading": "Master's Signal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Waiting Till 40",
+    "candidates": [
+      "Wisdom",
+      "Yibum Argument",
+      "If Sons Then Inherit",
+      "Darshaniyot",
+      "Legal Acumen",
+      "Proper Marriage",
+      "Waiting Till 40",
+      "Fertility Problem",
+      "Miraculous Fertility",
+      "Yocheved's Age"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together constitute the baraita praising the daughters of Zelophehad as wise, darshaniyot, and righteous \u2014 exactly what candidate 0 ('Wisdom') introduces as a braita praising all three qualities, whereas the current placement under 'Waiting Till 40' only covers item 4's sub-point.",
+      "chosen_heading": "Wisdom",
+      "current_heading": "Waiting Till 40",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Yocheved's Age",
+    "candidates": [
+      "Fertility Problem",
+      "Miraculous Fertility",
+      "Yocheved's Age",
+      "Youth Restored",
+      "Remarriage Ceremony"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Miraculous Fertility",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present the challenge from Rav \u1e24isda's fertility rule and the miraculous resolution via Jocheved, matching heading 1 ('Miraculous Fertility') which discusses exactly this answer and the Yocheved parallel.",
+      "second_heading": "Youth Restored",
+      "second_confidence": "high",
+      "second_reason": "Item 3 explains why Jocheved is called 'bat' (daughter) despite her age \u2014 her signs of youth were miraculously restored \u2014 which is precisely what heading 3 ('Youth Restored') discusses.",
+      "current_heading": "Yocheved's Age",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Remarriage Ceremony",
+    "candidates": [
+      "Youth Restored",
+      "Remarriage Ceremony",
+      "Miriam's Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the remarriage ceremony with the palanquin, Aaron and Miriam singing, and angels proclaiming 'eim ha-banim semeichah,' which is exactly what the 'Remarriage Ceremony' prose discusses.",
+      "chosen_heading": "Remarriage Ceremony",
+      "current_heading": "Remarriage Ceremony",
+      "moved": false
+    }
+  }
+]

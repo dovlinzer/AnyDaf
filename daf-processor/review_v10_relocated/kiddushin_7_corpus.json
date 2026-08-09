@@ -1,0 +1,302 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Din Arev",
+    "candidates": [
+      "Problem Setup",
+      "Din Arev",
+      "Arev Analysis",
+      "Din Eved Kena'ani"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rava's ruling on the first case (give money to Ploni and I will be betrothed) and its justification from the law of the guarantor (arev), which is exactly what heading 1 'Din Arev' describes in its prose.",
+      "chosen_heading": "Din Arev",
+      "current_heading": "Din Arev",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Din Eved Kena'ani",
+    "candidates": [
+      "Arev Analysis",
+      "Din Eved Kena'ani",
+      "Din Shneihem",
+      "Woman Gives to Husband",
+      "Agav Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Din Eved Kena'ani",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the two individual cases (heilach maneh hitkadshi l'Ploni from eved Kena'ani, and ten maneh l'Ploni ve-ekadesh ani lo from arev), which correspond to the 'Din Eved Kena'ani' and 'Din Shneihem' sections respectively \u2014 item 1 belongs under 'Din Eved Kena'ani'.",
+      "second_heading": "Din Shneihem",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 form the Gemara's dialectical elaboration on the combined case (ten maneh l'Ploni), working through objections by invoking arev and eved Kena'ani together, which is precisely what the 'Din Shneihem' prose describes.",
+      "current_heading": "Din Eved Kena'ani",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Agav Problem",
+    "candidates": [
+      "Din Shneihem",
+      "Woman Gives to Husband",
+      "Agav Problem",
+      "Adam Chashuv",
+      "Kiddushin vs Mamona",
+      "Mamona Same Rules",
+      "No Mechila in Kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange between Rav Ashi and Mar Zutra about the kinyan agav problem \u2014 Rav Ashi's objection (item 1) and its resolution via the mishnah citation and Mar Zutra's reply (item 2) \u2014 which is precisely what the 'Agav Problem' prose describes.",
+      "chosen_heading": "Agav Problem",
+      "current_heading": "Agav Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "No Mechila in Kiddushin",
+    "candidates": [
+      "Adam Chashuv",
+      "Kiddushin vs Mamona",
+      "Mamona Same Rules",
+      "No Mechila in Kiddushin",
+      "Half Marriage",
+      "Why Half Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute Rava's statement that the same mechanisms apply to monetary matters (ve-chen l'inyan mamona) plus the Gemara's tzricha explanation \u2014 which is precisely what candidate 1 ('Kiddushin vs Mamona') introduces, noting that Rava adds ve-chen l'inyan mamona and that the Gemara explains tzricha, whereas the current placement under 'No Mechila in Kiddushin' (index 3) only covers the second half of the tzricha argument.",
+      "chosen_heading": "Kiddushin vs Mamona",
+      "current_heading": "No Mechila in Kiddushin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Why Half Fails",
+    "candidates": [
+      "Half Marriage",
+      "Why Half Fails",
+      "Hekdesh Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Rava-Abaye exchange about 'half of you' vs 'half of me,' and the prose under 'Why Half Fails' explicitly describes this exact dispute \u2014 Abaye's challenge and Rava's response about a woman not being eligible for two men vs. a man being eligible for two women.",
+      "chosen_heading": "Why Half Fails",
+      "current_heading": "Why Half Fails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Hekdesh Analogy",
+    "candidates": [
+      "Hekdesh Analogy",
+      "Objects vs Persons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Mar Zutra's challenge from the hekdesh/olah analogy \u2014 the leg of the animal spreading sanctity \u2014 which is precisely what the 'Hekdesh Analogy' prose describes in detail, including the distinction between a part upon which life depends versus one that does not.",
+      "chosen_heading": "Hekdesh Analogy",
+      "current_heading": "Hekdesh Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Objects vs Persons",
+    "candidates": [
+      "Objects vs Persons",
+      "Half-Perutah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items \u2014 the rejection of the animal analogy via da'at acheret, Rabbi Yo\u1e25anan's case of the two-partner animal, and the three derived halakhot about dichui \u2014 are explicitly discussed in the prose of candidate 0 ('Objects vs Persons'), which covers exactly this material in detail.",
+      "chosen_heading": "Objects vs Persons",
+      "current_heading": "Objects vs Persons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Half-Perutah",
+    "candidates": [
+      "Half-Perutah",
+      "Two-to-Two Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are Rava's series of progressive dilemmas about betrothing halves of a woman, exactly matching the detailed discussion in candidate 0's prose about chatzi perutah, moneh ve-holeich, today/tomorrow, and shenei chetzyeich cases, all ending in teiku.",
+      "chosen_heading": "Half-Perutah",
+      "current_heading": "Half-Perutah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Two-to-Two Case",
+    "candidates": [
+      "Two-to-Two Case",
+      "Daughter & Cow"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Two-to-Two Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rava's dilemma about two daughters for two sons with one peruta) matches the 'Two-to-Two Case' prose exactly, which describes this precise scenario of two fathers, two sons, two daughters, and a single peruta.",
+      "second_heading": "Daughter & Cow",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rav Pappa's dilemma about a daughter and a cow with one peruta) matches the 'Daughter & Cow' prose exactly, which describes this precise scenario of combining kiddushin and an animal acquisition with a single peruta.",
+      "current_heading": "Two-to-Two Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Daughter & Cow",
+    "candidates": [
+      "Daughter & Cow",
+      "Silk Case",
+      "Raba vs Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's dilemma about 'your daughter and your land with one perutah,' which the 'Daughter & Cow' section's prose explicitly discusses as the closest variant after the daughter-and-cow case, making the current placement correct.",
+      "chosen_heading": "Daughter & Cow",
+      "current_heading": "Daughter & Cow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Raba vs Rav Yosef",
+    "candidates": [
+      "Silk Case",
+      "Raba vs Rav Yosef",
+      "Consensus",
+      "Core Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the case of the man who betrothed with silk and presents the initial Rabba/Rav Yosef dispute along with the first point of consensus (be-kol dehu), which matches the 'Silk Case' heading's prose about introducing the real case and its context, rather than the later headings which discuss the deeper analysis of the dispute and its subcases.",
+      "chosen_heading": "Silk Case",
+      "current_heading": "Raba vs Rav Yosef",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Core Dispute",
+    "candidates": [
+      "Consensus",
+      "Core Dispute",
+      "Alternative View",
+      "Shaveh Kesef Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabba/Rav Yosef dispute in the case where the man said fifty and it was worth fifty, which is precisely what the 'Core Dispute' prose describes.",
+      "chosen_heading": "Core Dispute",
+      "current_heading": "Core Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Shaveh Kesef Rules",
+    "candidates": [
+      "Alternative View",
+      "Shaveh Kesef Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 10 items deal with Rav Yosef's principle that shaveh kesef must be kayatz (fixed/set value), supported by baraitot about the eved Ivri and pidyon haben, which is precisely what the 'Shaveh Kesef Rules' prose describes.",
+      "chosen_heading": "Shaveh Kesef Rules",
+      "current_heading": "Shaveh Kesef Rules",
+      "moved": false
+    }
+  }
+]

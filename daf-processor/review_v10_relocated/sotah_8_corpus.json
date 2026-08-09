@@ -1,0 +1,485 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Water as Medicine",
+    "candidates": [
+      "Warnings & Erasure",
+      "Drinking Paradox",
+      "Water as Medicine",
+      "Before/After Megillah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the contradiction (the baraita about threatening her both not to drink and to drink) which is precisely what the 'Drinking Paradox' prose describes, including the same quote and framing of the apparent contradiction.",
+      "chosen_heading": "Drinking Paradox",
+      "current_heading": "Water as Medicine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Before/After Megillah",
+    "candidates": [
+      "Water as Medicine",
+      "Before/After Megillah",
+      "Aggadic Stories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly resolves the contradiction by distinguishing between before and after the scroll was erased, which is precisely what the 'Before/After Megillah' section's prose discusses.",
+      "chosen_heading": "Before/After Megillah",
+      "current_heading": "Before/After Megillah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Aggadic Stories",
+    "candidates": [
+      "Aggadic Stories",
+      "Judah & Reuben",
+      "Peshat & Derash",
+      "Reuben's Repentance",
+      "Judah's Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about telling the sotah aggadic stories and incidents from early writings (Job 15:18), which is exactly what the 'Aggadic Stories' section's prose addresses.",
+      "chosen_heading": "Aggadic Stories",
+      "current_heading": "Aggadic Stories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Judah's Punishment",
+    "candidates": [
+      "Judah & Reuben",
+      "Peshat & Derash",
+      "Reuben's Repentance",
+      "Judah's Punishment",
+      "Reuben's Motivation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Judah & Reuben",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Judah and Reuben's reward and the opening question about Reuben's admission, matching heading 0 ('Judah & Reuben') which discusses exactly these topics \u2014 their admission, lack of embarrassment, and inheritance of olam haba.",
+      "second_heading": "Reuben's Repentance",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 follow the Rabbi Shmuel bar Na\u1e25mani/Rabbi Yo\u1e25anan derivation about Reuben's admission from Moses's blessing and then Judah's bones rolling in the coffin, which matches heading 2 ('Reuben's Repentance') and heading 3 ('Judah's Punishment') \u2014 but since items 3-5 are one continuous sugya about Moses's prayer and Judah's posthumous suffering, they belong under heading 3 where the current placement is, while item 2 (the question about Reuben's source) belongs with heading 2's prose about deriving Reuben's admission.",
+      "current_heading": "Judah's Punishment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Reuben's Motivation",
+    "candidates": [
+      "Judah's Punishment",
+      "Reuben's Motivation",
+      "Public vs. Private",
+      "Ketubah Dispute",
+      "Abbaye vs. Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question of why Reuben admitted his sin publicly versus Judah's clear motivation, which matches exactly the prose in 'Reuben's Motivation' describing the distinction between Judah's case (saving Tamar) and Reuben's case (clearing his brothers from suspicion).",
+      "chosen_heading": "Reuben's Motivation",
+      "current_heading": "Reuben's Motivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Abbaye vs. Rava",
+    "candidates": [
+      "Public vs. Private",
+      "Ketubah Dispute",
+      "Abbaye vs. Rava",
+      "No Document Cases",
+      "Eastern Gate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's discussion of what 'shoveret' means when the woman admits impurity \u2014 item 1 raises the inference about writing a receipt, item 2 gives Abaye's and Rava's resolutions \u2014 which is precisely what the 'Ketubah Dispute' prose describes, while 'Abbaye vs. Rava' is actually a better fit for that content but the prose of heading 1 explicitly describes the inference ('shomein sheovrim ketubatah') and the dispute over its meaning, making it the section where this passage's discussion begins and belongs.",
+      "chosen_heading": "Ketubah Dispute",
+      "current_heading": "Abbaye vs. Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Eastern Gate",
+    "candidates": [
+      "No Document Cases",
+      "Eastern Gate",
+      "Walking Around"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna's phrase about bringing her to the Eastern Gate and the Gemara's immediate question about that phrase, which is precisely what the 'Eastern Gate' section's prose discusses.",
+      "chosen_heading": "Eastern Gate",
+      "current_heading": "Eastern Gate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Walking Around",
+    "candidates": [
+      "Walking Around",
+      "Where She Drinks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses fatiguing the sotah and the parallel baraita about witnesses being moved from place to place to wear them down, which directly matches the 'Walking Around' section's prose about tiring her out and the same Rabbi Shimon ben Elazar baraita.",
+      "chosen_heading": "Walking Around",
+      "current_heading": "Walking Around",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Where She Drinks",
+    "candidates": [
+      "Where She Drinks",
+      "Yoledet & Korban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the derivation for sota and metzora from their respective pesukim, and then raises the question about yoledet \u2014 which matches the prose of heading 0 that covers exactly this content, while heading 1's prose addresses the gemara's answer about why yoledet is included, not the initial question.",
+      "chosen_heading": "Where She Drinks",
+      "current_heading": "Where She Drinks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Yoledet & Korban",
+    "candidates": [
+      "Yoledet & Korban",
+      "No Two Together"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why a yoledet must appear at the gate for her korban and why zavim/zavot should also be included, which is exactly what the 'Yoledet & Korban' section's prose describes.",
+      "chosen_heading": "Yoledet & Korban",
+      "current_heading": "Yoledet & Korban",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "No Two Together",
+    "candidates": [
+      "No Two Together",
+      "Rabbi Judah's View",
+      "Fearful Woman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita about not giving two sotot to drink simultaneously and Rabbi Yehuda's dissenting view, which is exactly what heading 0 introduces \u2014 the current placement is correct, as it covers both the rule and its initial dispute before the deeper analysis in heading 1.",
+      "chosen_heading": "No Two Together",
+      "current_heading": "No Two Together",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Fearful Woman",
+    "candidates": [
+      "Rabbi Judah's View",
+      "Fearful Woman",
+      "Bundling Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the tanna kama/Rabbi Shimon's reasoning (darshining ta'am d'kra) and the practical difference (rotetet) between Rabbi Shimon and Rabbi Judah, which is precisely what candidate 0 ('Rabbi Judah's View') describes in its prose \u2014 including explicit mention of vetana kama hinu Rabbi Shimon and the rotetet case.",
+      "chosen_heading": "Rabbi Judah's View",
+      "current_heading": "Fearful Woman",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Bundling Mitzvot",
+    "candidates": [
+      "Fearful Woman",
+      "Bundling Mitzvot",
+      "Bundling Examples"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bundling Mitzvot",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's question about bundling mitzvot, which is precisely what the 'Bundling Mitzvot' section discusses \u2014 the principle of ein osin mitzvot chavilot chavilot and Rashi's explanation.",
+      "second_heading": "Bundling Examples",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita listing the specific examples (two sotot, two lepers, two slaves, two heifers), which matches perfectly with the 'Bundling Examples' prose that discusses each of these cases in detail.",
+      "current_heading": "Bundling Mitzvot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Bundling Examples",
+    "candidates": [
+      "Bundling Examples",
+      "One vs. Two Kohanim",
+      "Tearing Clothes",
+      "Stoning Clothes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye/Rav Kahana's resolution distinguishing one kohen from two kohanim, which is exactly what candidate 1 ('One vs. Two Kohanim') describes in its prose.",
+      "chosen_heading": "One vs. Two Kohanim",
+      "current_heading": "Bundling Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Stoning Clothes",
+    "candidates": [
+      "One vs. Two Kohanim",
+      "Tearing Clothes",
+      "Stoning Clothes",
+      "Priestly Thoughts",
+      "Yetzer Hara Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items cover the baraita about uncovering the sotah's body/hair and the subsequent question about hirhurin (sexual thoughts) raised by Rabbi Yehuda's position versus the Rabbis, which is precisely what the 'Tearing Clothes' section's prose describes \u2014 the kohen holding her clothing, tearing garments, and the gemara's concern about hirhurin occasioned by the ritual.",
+      "chosen_heading": "Tearing Clothes",
+      "current_heading": "Stoning Clothes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Yetzer Hara Rule",
+    "candidates": [
+      "Priestly Thoughts",
+      "Yetzer Hara Rule",
+      "Beautiful Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items (Rabba's explanation about young priests, Rava's challenge about Rabbi Yehuda vs. Rabbanan, and the resolution about 'venisru kol hanashim') are explicitly discussed together in the 'Yetzer Hara Rule' prose, which covers the yetzer hara principle, the internal contradictions for Rabbi Yehuda and the Rabbanan, and the deterrent rationale from Yechezkel \u2014 matching all three items precisely.",
+      "chosen_heading": "Yetzer Hara Rule",
+      "current_heading": "Yetzer Hara Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Beautiful Death",
+    "candidates": [
+      "Beautiful Death",
+      "Pain vs. Shame"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Na\u1e25man citing Rabba bar Avuha's derivation of 'select a good death' from 'you shall love your neighbor as yourself,' which is precisely the mita yafa principle discussed in the 'Beautiful Death' section's prose.",
+      "chosen_heading": "Beautiful Death",
+      "current_heading": "Beautiful Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Pain vs. Shame",
+    "candidates": [
+      "Pain vs. Shame",
+      "Rope & Clothing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's analysis of whether Rav Nachman's principle is a tannaic dispute and the disagreement about whether degradation or physical pain is preferable, which is exactly what the 'Pain vs. Shame' section's prose describes.",
+      "chosen_heading": "Pain vs. Shame",
+      "current_heading": "Pain vs. Shame",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Rope & Clothing",
+    "candidates": [
+      "Rope & Clothing",
+      "Egyptian Rope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the clothing adjustments and jewelry removal during the sotah ritual, which is exactly what the 'Rope & Clothing' prose discusses, including the specific folk saying about nakedness and shoes that appears in item 2.",
+      "chosen_heading": "Rope & Clothing",
+      "current_heading": "Rope & Clothing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Egyptian Rope",
+    "candidates": [
+      "Egyptian Rope",
+      "All vs. Women"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the dilemma about whether the Egyptian rope is indispensable (me'akev) to the sotah ritual and its resolution from the baraita, which is precisely what the 'Egyptian Rope' section's prose describes.",
+      "chosen_heading": "Egyptian Rope",
+      "current_heading": "Egyptian Rope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "All vs. Women",
+    "candidates": [
+      "All vs. Women",
+      "Required Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the internal contradiction in the mishna and Abaye's attempted resolution followed by Rava's objection, which is precisely what the 'All vs. Women' prose describes.",
+      "chosen_heading": "All vs. Women",
+      "current_heading": "All vs. Women",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Required Witnesses",
+    "candidates": [
+      "Required Witnesses",
+      "Midah K'neged",
+      "Order of Harm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rava's ruling that anyone may watch the sotah ritual and that women are obligated to witness it, which matches exactly the prose under 'Required Witnesses' that paraphrases this same Rava statement and its source in Yechezkel.",
+      "chosen_heading": "Required Witnesses",
+      "current_heading": "Required Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Order of Harm",
+    "candidates": [
+      "Midah K'neged",
+      "Order of Harm"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is a single mishna covering both the general midah keneged midah principle AND the specific thigh/stomach ordering, and candidate 0's prose covers the full mishna text including the adorning and exposing elements, making it the natural home for the complete passage rather than splitting it across two headings.",
+      "chosen_heading": "Midah K'neged",
+      "current_heading": "Order of Harm",
+      "moved": true
+    }
+  }
+]

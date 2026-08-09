@@ -1,0 +1,374 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Adar Fixed Length",
+    "candidates": [
+      "Adar Fixed Length",
+      "Witnesses & Shabbat",
+      "Mitzvah Lekadesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in the 'Adar Fixed Length' prose \u2014 item 1 is the Rabbi Simai/Rav tradition about the two Adarim, and item 2 is the ruling sent to Mar Ukva that Adar preceding Nissan is always short \u2014 both explicitly narrated in that section's prose.",
+      "chosen_heading": "Adar Fixed Length",
+      "current_heading": "Adar Fixed Length",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Mitzvah Lekadesh",
+    "candidates": [
+      "Witnesses & Shabbat",
+      "Mitzvah Lekadesh",
+      "Rav Kahana's Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of objection, answer, alternative formulation, counter-objection, and resolution \u2014 precisely the content described in the 'Mitzvah Lekadesh' prose, which covers the mitzvah lekadesh answer, the ika de'amri version, the case where day thirty-one falls on Shabbat, and the court's inability to delay further.",
+      "chosen_heading": "Mitzvah Lekadesh",
+      "current_heading": "Mitzvah Lekadesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Rav Kahana's Test",
+    "candidates": [
+      "Rav Kahana's Test",
+      "Adar Variable",
+      "Ulla's News"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form Rav Kahana's continuous objection and the Gemara's logical inference leading to the tiyuvta conclusion, which the prose of heading 0 explicitly describes in detail.",
+      "chosen_heading": "Rav Kahana's Test",
+      "current_heading": "Rav Kahana's Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Ulla's News",
+    "candidates": [
+      "Adar Variable",
+      "Ulla's News",
+      "Metaya & Yarka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage reports Ulla's announcement that Elul was made thirty days and his comment about the benefit done for Babylonian colleagues, which is precisely what the 'Ulla's News' section prose describes and analyzes.",
+      "chosen_heading": "Ulla's News",
+      "current_heading": "Ulla's News",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Metaya & Yarka",
+    "candidates": [
+      "Metaya & Yarka",
+      "Reason Differences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Ulla's and Rabbi A\u1e25a bar \u1e24anina's answers about the benefit (vegetables vs. dead bodies), which is precisely what the 'Metaya & Yarka' section's prose discusses and introduces.",
+      "chosen_heading": "Metaya & Yarka",
+      "current_heading": "Metaya & Yarka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Reason Differences",
+    "candidates": [
+      "Reason Differences",
+      "Babylon's Climate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's discussion of the practical difference between the metaya and yarka reasons, which is precisely what the 'Reason Differences' prose describes in detail.",
+      "chosen_heading": "Reason Differences",
+      "current_heading": "Reason Differences",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Babylon's Climate",
+    "candidates": [
+      "Babylon's Climate",
+      "Adding Days Query",
+      "Verse Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Babylonian climate question \u2014 item 1 handles the vegetables/hot water answer and item 2 explains why Ulla singles out Babylonians due to the intense heat \u2014 which is precisely what the 'Babylon's Climate' prose discusses.",
+      "chosen_heading": "Babylon's Climate",
+      "current_heading": "Babylon's Climate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Verse Limit",
+    "candidates": [
+      "Adding Days Query",
+      "Verse Limit",
+      "Rava's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabba bar Shmuel's baraita about whether a month can be extended for need and the verse's limiting response, which is precisely what 'Verse Limit' prose describes.",
+      "chosen_heading": "Verse Limit",
+      "current_heading": "Verse Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rava's Distinction",
+    "candidates": [
+      "Rava's Distinction",
+      "Manipulation Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's resolution distinguishing le'avro from lekadsho, which is precisely what the prose under 'Rava's Distinction' describes.",
+      "chosen_heading": "Rava's Distinction",
+      "current_heading": "Rava's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Manipulation Limits",
+    "candidates": [
+      "Manipulation Limits",
+      "Rabbi Yochanan Opposite"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yehoshua ben Levi's ruling about intimidating witnesses, which is precisely what the 'Manipulation Limits' section discusses in its prose.",
+      "chosen_heading": "Manipulation Limits",
+      "current_heading": "Manipulation Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Rabbi Yochanan Opposite",
+    "candidates": [
+      "Rabbi Yochanan Opposite",
+      "Abaye's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehuda Nesia's message to Rabbi Ami about Rabbi Yochanan's teaching on intimidating witnesses, which is exactly what candidate 0's prose describes as the challenge/contradiction being introduced.",
+      "chosen_heading": "Rabbi Yochanan Opposite",
+      "current_heading": "Rabbi Yochanan Opposite",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Abaye's Solution",
+    "candidates": [
+      "Abaye's Solution",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement distinguishing Nisan/Tishrei from other months, which directly matches the 'Abaye's Solution' section prose describing exactly this distinction.",
+      "chosen_heading": "Abaye's Solution",
+      "current_heading": "Abaye's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Rava's Answer",
+      "Rav Dimi Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about A\u1e25erim and the four-day shift rule, which is precisely what the 'Rava's Answer' section prose discusses in detail.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Rav Dimi Logic",
+    "candidates": [
+      "Rav Dimi Logic",
+      "Shmuel's Claim",
+      "Before/After Chatzot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Dimi's opposite ruling, the Gemara's question about his reasoning, and the mechzi k'shikra answer \u2014 are precisely what the 'Rav Dimi Logic' prose section discusses in detail, making the current placement correct.",
+      "chosen_heading": "Rav Dimi Logic",
+      "current_heading": "Rav Dimi Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Before/After Chatzot",
+    "candidates": [
+      "Shmuel's Claim",
+      "Before/After Chatzot",
+      "Night & Day"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel's Claim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Shmuel's claim that he can fix the calendar for the entire Diaspora, which matches exactly the 'Shmuel's Claim' section prose.",
+      "second_heading": "Before/After Chatzot",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abba's challenge to Shmuel about the 'nolad kodem chatzot/achar chatzot' question, which matches exactly the 'Before/After Chatzot' section prose.",
+      "current_heading": "Before/After Chatzot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Night & Day",
+    "candidates": [
+      "Night & Day",
+      "Old Moon Visible",
+      "Visibility Prediction",
+      "Contradict Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's statement that 'night and day must be of the new month,' which is precisely what the 'Night & Day' section's prose discusses, including the same quote and attribution to Rav Zeira.",
+      "chosen_heading": "Night & Day",
+      "current_heading": "Night & Day",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Contradict Witnesses",
+    "candidates": [
+      "Old Moon Visible",
+      "Visibility Prediction",
+      "Contradict Witnesses",
+      "24-Hour Cycle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete unit of Abba's molad-before-midday rule plus Rav Ashi's practical application (l'achchushei sahadi), which the 'Visibility Prediction' prose explicitly describes as its subject matter, including both the kodem chatzot formula and the witness-refutation purpose \u2014 whereas candidate 2 ('Contradict Witnesses') is about a different, later passage concerning the 24-hour concealment period.",
+      "chosen_heading": "Visibility Prediction",
+      "current_heading": "Contradict Witnesses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "24-Hour Cycle",
+    "candidates": [
+      "Contradict Witnesses",
+      "24-Hour Cycle",
+      "Geography Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the '24-Hour Cycle' teaching \u2014 item 1 gives the Rav Zeira/Rav Nachman statement about the 24-hour concealment period divided between old and new moon for Babylonia vs. Eretz Yisrael, and item 2 gives Rav Ashi's practical application, which the '24-Hour Cycle' prose explicitly quotes and discusses as part of that same passage.",
+      "chosen_heading": "24-Hour Cycle",
+      "current_heading": "24-Hour Cycle",
+      "moved": false
+    }
+  }
+]

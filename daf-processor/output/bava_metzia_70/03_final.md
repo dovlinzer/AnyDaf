@@ -1,35 +1,29 @@
-# Bava Metzia 70 — Daf Yomi Shiur
+[DAF:70a]
+## Mafriz al Sadeh
 
-## Mafriz al Sadeh (II)
+
 
 ### Intro: Field Value
 
-> **Hebrew/Aramaic:** רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: שָׁמִין עֵגֶל עִם אִמּוֹ, וּסְיָח עִם אִמּוֹ, וּמַפְרִיז עַל שָׂדֵהוּ, וְאֵינוֹ חוֹשֵׁשׁ מִשּׁוּם רִבִּית.
->
-> **Translation:** **Rabban Shimon ben Gamliel says: One may appraise a calf** together **with its mother or a foal with its mother** even though these young animals do not generate revenue while they eat. The costs of raising the young animal need not be considered. **And** one **may inflate [*umafriz*]** the rental fee paid **for his field, and he need not be concerned with regard to** the prohibition of **interest,** as the Gemara will explain.
-
 The *mishna* at the end of 69b concludes with the statement *umafriz al sadehhu ve'eino choshesh mishum ribbit* — a person may engage in *mafriz* with respect to his field and need not be concerned about *ribbit*. The term *mafriz* connotes an inflation of value. The immediate question is how inflating the value of a field could be permissible without implicating the prohibition of *ribbit*, and the *Gemara* turns to a *baraita* to expand on this case.
 
-### Field Rental & Improvement
+### Field Rental & Improve
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: מַפְרִיז עַל שָׂדֵהוּ וְאֵינוֹ חוֹשֵׁשׁ מִשּׁוּם רִבִּית, כֵּיצַד? הַשּׂוֹכֵר אֶת הַשָּׂדֶה מֵחֲבֵירוֹ בַּעֲשָׂרָה כּוֹרִים חִטִּין לְשָׁנָה, וְאוֹמֵר לוֹ: תֵּן לִי מָאתַיִם זוּז וַאֲפַרְנְסֶנָּה, וַאֲנִי אַעֲלֶה לְךָ שְׁנֵים עָשָׂר כּוֹרִין לְשָׁנָה – מוּתָּר.
->
-> **Translation:** **The Sages taught: One may inflate** the rental fee paid **for his field, and he need not be concerned with regard to** the prohibition of **interest. How so?** In the case of **one who rents a field from another for** the price of **ten *kor*** of **wheat per year, and** the renter **says to** the owner: **Give me two hundred dinars** as a loan **and I will** use it to cultivate the field and **equip it** by fertilizing it and hiring people to work in it, **and** then **I will pay you twelve *kor* per year** in addition to returning your two hundred dinars, this is **permitted,** as the two hundred dinars are viewed as a joint investment in improving the field, with the owner providing the capital and the renter providing the labor. The higher rental fee is therefore paid for a higher-quality field, and not as interest on the loan.
+> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: מַפְרִיז עַל שָׂדֵהוּ וְאֵינוֹ חוֹשֵׁשׁ מִשּׁוּם רִבִּית, כֵּיצַד? הַשּׂוֹכֵר אֶת הַשָּׂדֶה מֵחֲבֵירוֹ בַּעֲשָׂרָה כּוֹרִים חִטִּין לְשָׁנָה, וְאוֹמֵר לוֹ: תֵּן לִי מָאתַיִם זוּז וַאֲפַרְנְסֶנָּה, וַאֲנִי אַעֲלֶה לְךָ שְׁנֵים עָשָׂר כּוֹרִין לְשָׁנָה – מוּתָּר.
+> **Translation:** GEMARA: **The Sages taught: One may inflate** the rental fee paid **for his field, and he need not be concerned with regard to** the prohibition of **interest. How so?** In the case of **one who rents a field from another for** the price of **ten *kor*** of **wheat per year, and** the renter **says to** the owner: **Give me two hundred dinars** as a loan **and I will** use it to cultivate the field and **equip it** by fertilizing it and hiring people to work in it, **and** then **I will pay you twelve *kor* per year** in addition to returning your two hundred dinars, this is **permitted,** as the two hundred dinars are viewed as a joint investment in improving the field, with the owner providing the capital and the renter providing the labor. The higher rental fee is therefore paid for a higher-quality field, and not as interest on the loan.
 
 The *baraita* presents the following scenario: a person rents a field from his fellow with the terms set at ten *kor* of wheat per year — that is the rental value. The renter then approaches the owner and says: give me 200 *zuz* and I will invest that sum in improving the quality of the field, and I will in turn raise the rental payment to twelve *kor* of wheat per year. The *baraita* rules this permissible.
 
 ### Field vs. Shop/Boat
 
 > **Hebrew/Aramaic:** אֲבָל אֵין מַפְרִיז לֹא עַל חֲנוּת וְלֹא עַל סְפִינָה.
->
 > **Translation:** **But one may not inflate** the rental fee paid **for a store or a ship.** The renter cannot borrow money from the owner to purchase merchandise to sell in the store or transport in the ship and in return increase the rental fee. That is considered a loan with interest.
 
 However, the *baraita* immediately continues: one may not perform this same *mafriz* arrangement with respect to a shop or a boat. The presumed logic of the distinction is that with a field, the investment of 200 *zuz* goes toward tangible improvements — better irrigation, better fertilization — that produce a measurably greater output. The increased rental payment is therefore proportional to an actual increase in yield; it does not represent interest on a loan but rather a genuine return on investment. By contrast, improvements to a shop or a boat were assumed to be more aesthetic in nature and would not produce a proportional increase in the actual profits generated by the business agreement, making the additional payment more susceptible to characterization as *ribbit*.
 
 ### Aesthetic Improvements
 
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ: פְּעָמִים שֶׁמַּפְרִיז עַל חֲנוּת לָצוֹר בָּהּ צוּרָה, סְפִינָה לַעֲשׂוֹת לָהּ אִיסְקַרְיָא. חֲנוּת לָצוֹר בָּהּ צוּרְתָּא: דְּצָבוּ בַּהּ אִינָשֵׁי וְהָוֵי אַגְרָא טְפֵי. סְפִינָה לַעֲשׂוֹת לָהּ אִיסְקַרְיָא: כֵּיוָן דְּשַׁפִּירָא אִיסְקַרְיָא טְפֵי – אַגְרָא טְפֵי.
->
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ: פְּעָמִים שֶׁמַּפְרִיז עַל חֲנוּת לָצוֹר בָּהּ צוּרָה, סְפִינָה לַעֲשׂוֹת לָהּ אִיסְקַרְיָא. חֲנוּת לָצוֹר בָּהּ צוּרְתָּא: דְּצָבוּ בַּהּ אִינָשֵׁי וְהָוֵי אַגְרָא טְפֵי. סְפִינָה לַעֲשׂוֹת לָהּ אִיסְקַרְיָא: כֵּיוָן דְּשַׁפִּירָא אִיסְקַרְיָא טְפֵי – אַגְרָא טְפֵי.
 > **Translation:** **Rav Naḥman says** that **Rabba bar Avuh said:** There are **times when one may inflate** the rental fee paid **for a store,** such as in a case where one needs money in order **to paint a design** on its walls, or in the case of **a ship,** where one needs money **to fashion** a new **sail [*iskarya*].** The Gemara explains: It is permitted when the money is borrowed to invest in **a store** in order **to paint a design** on its walls, **because people will want to come** to the more attractive store to purchase, **and the profits are** thereby **increased.** Similarly, it is permitted when the money is to be used for **a ship to fashion a sail, because the profits** from the use of the ship **are greater since the sail is improved.** Therefore, in these cases the arrangement is an investment, similar to the case of the field, and not interest.
 
 Rav Nachman, citing Rabba bar Avuha, qualifies this ruling significantly. He states that there are circumstances in which one may also perform *mafriz* with respect to a shop or a boat. *Pe'amim shemafriz al chanut letzur batzura* — sometimes one may inflate the rental value of a shop in order to paint murals or illustrations on the walls. Why? Because attractive décor draws customers, increases foot traffic, and generates more business — *detzavu bah inshei vehavei agra tfei*, people will be drawn to the shop and the rental income will genuinely increase. Similarly with a boat, installing a new mast — *la'asot bah iskarya* — expands the vessel's capacity to carry cargo and thus creates real additional profit, *keivan deshapira iskarya tfei agra desfinata*, since the improved mast increases the boat's earning capacity.
@@ -38,27 +32,26 @@ The broader principle that emerges is that there are two categories of investmen
 
 ## Agra & Fagra Debate
 
-### Rav's Position
 
-> **Hebrew/Aramaic:** סְפִינְתָּא, אָמַר רַב: אַגְרָא וּפַגְרָא.
->
-> **Translation:** Since the subject of **a ship** was raised, the Gemara mentions a related statement of Rav. **Rav said:** For a ship, it is permitted to conduct a transaction where someone pays **rent** for the use of the ship **and** is also liable to pay for any **damage** caused to the ship.
+
+### Rav's Position
 
 The *Gemara* transitions to the related question of boat rentals and the issue of *agra ufagra* — the rental fee and the depreciation charge. Rav rules that when renting out a boat, the owner may collect both the *agra*, the rental payment, and the *fagra*, the charge for the depreciation, that is, the wear and damage caused to the boat during use.
 
 ### Challenge to Rav
 
-> **Hebrew/Aramaic:** אֲמַרוּ לֵיהּ רַב כָּהֲנָא וְרַב אַסִּי לְרַב: אִי אַגְרָא – לָא פַּגְרָא, אִי פַּגְרָא – לָא אַגְרָא. שְׁתֵיק רַב.
->
-> **Translation:** **Rav Kahana and Rav Asi said to Rav: If** he receives **rent,** then he should **not** receive payment for **damage,** and **if** he receives payment for **damage,** then he should **not** receive **rent,** as, if the ship is the responsibility of the renter, it is a loan, and if he pays rent for such a loan, it is interest. **Rav was silent,** and it appeared that he could not answer this question.
-
 Rav Kahana and Rav Assi challenged Rav directly: *ei agra lo fagra* — if you charge a rental fee, you should not be able to charge depreciation; and *ei fagra lo agra* — if you charge for depreciation, you should not be able to charge a rental fee. The argument is that the two charges are mutually exclusive: either the transaction is structured as a rental, in which case the renter pays for use and returns the object, or it is structured in a way that incorporates the diminution of value, but not both together. *Shatik Rav* — Rav was silent; he did not respond to the challenge.
 
 ### Rav Sheshet's Defense
 
-> **Hebrew/Aramaic:** אָמַר רַב שֵׁשֶׁת: מַאי טַעְמָא שְׁתֵיק רַב? לָא שְׁמִיעָא לֵיהּ הָא דְּתַנְיָא: אַף עַל פִּי שֶׁאָמְרוּ אֵין מְקַבְּלִין צֹאן בַּרְזֶל מִיִּשְׂרָאֵל, אֲבָל מְקַבְּלִין צֹאן בַּרְזֶל מִן הַגּוֹיִם. אֲבָל אָמְרוּ: הַשָּׁם פָּרָה לַחֲבֵירוֹ, וְאָמַר לוֹ: הֲרֵי פָּרָתְךָ עֲשׂוּיָה עָלַי בִּשְׁלֹשִׁים דִּינָר, וַאֲנִי אַעֲלֶה לְךָ סֶלַע בְּחֹדֶשׁ – מוּתָּר, לְפִי שֶׁלֹּא עֲשָׂאָהּ דָּמִים.
->
-> **Translation:** **Rav Sheshet said: What is the reason** that **Rav was silent? Did he not hear that which is taught** in a *baraita*: **Even though** the Sages **said that one may not accept a guaranteed investment [*tzon barzel*] from a Jew,** meaning one may not accept from a Jew animals to raise and receive one-half of the profits while also accepting full responsibility to pay the initial value of the animals in the event there is a loss, as this arrangement is deemed a loan with interest, **but one may accept a guaranteed investment from gentiles,** because there is no prohibition against paying them interest. **But** nevertheless, the Sages **said: If one appraised a cow for another** to raise and to divide the profits, **and** the one accepting the cow **said to** the cow's owner: **Your cow is evaluated for me at thirty dinars** if I do not return it to you, **and I will pay you a *sela* per month** for the use of it, this is **permitted, because he did not make** it a matter of lending **money.**
+> **Hebrew/Aramaic:** סְפִינְתָּא, אָמַר רַב: אַגְרָא וּפַגְרָא. אֲמַרוּ לֵיהּ רַב כָּהֲנָא וְרַב אַסִּי לְרַב: אִי אַגְרָא – לָא פַּגְרָא, אִי פַּגְרָא – לָא אַגְרָא. שְׁתֵיק רַב.
+> **Translation:** Since the subject of **a ship** was raised, the Gemara mentions a related statement of Rav. **Rav said:** For a ship, it is permitted to conduct a transaction where someone pays **rent** for the use of the ship **and** is also liable to pay for any **damage** caused to the ship. **Rav Kahana and Rav Asi said to Rav: If** he receives **rent,** then he should **not** receive payment for **damage,** and **if** he receives payment for **damage,** then he should **not** receive **rent,** as, if the ship is the responsibility of the renter, it is a loan, and if he pays rent for such a loan, it is interest. **Rav was silent,** and it appeared that he could not answer this question.
+
+> **Hebrew/Aramaic:** אָמַר רַב שֵׁשֶׁת: מַאי טַעְמָא שְׁתֵיק רַב? לָא שְׁמִיעָא לֵיהּ הָא דְּתַנְיָא: אַף עַל פִּי שֶׁאָמְרוּ אֵין מְקַבְּלִין צֹאן בַּרְזֶל מִיִּשְׂרָאֵל, אֲבָל מְקַבְּלִין צֹאן בַּרְזֶל מִן הַגּוֹיִם. אֲבָל אָמְרוּ: הַשָּׁם פָּרָה לַחֲבֵירוֹ, וְאָמַר לוֹ: הֲרֵי פָּרָתְךָ עֲשׂוּיָה עָלַי בִּשְׁלֹשִׁים דִּינָר, וַאֲנִי אַעֲלֶה לְךָ סֶלַע בְּחֹדֶשׁ – מוּתָּר, לְפִי שֶׁלֹּא עֲשָׂאָהּ דָּמִים.
+> **Translation:** **Rav Sheshet said: What is the reason** that **Rav was silent? Did he not hear that which is taught** in a *baraita*: **Even though** the Sages **said that one may not accept a guaranteed investment [*tzon barzel*] from a Jew,** meaning one may not accept from a Jew animals to raise and receive one-half of the profits while also accepting full responsibility to pay the initial value of the animals in the event there is a loss, as this arrangement is deemed a loan with interest, **but one may accept a guaranteed investment from gentiles,** because there is no prohibition against paying them interest. **But** nevertheless, the Sages **said: If one appraised a cow for another** to raise and to divide the profits, **and** the one accepting the cow **said to** the cow’s owner: **Your cow is evaluated for me at thirty dinars** if I do not return it to you, **and I will pay you a *sela* per month** for the use of it, this is **permitted, because he did not make** it a matter of lending **money.**
+
+> **Hebrew/Aramaic:** וְלֹא עֲשָׂאָהּ?! אָמַר רַב שֵׁשֶׁת: לֹא עֲשָׂאָהּ דָּמִים מֵחַיִּים, אֶלָּא לְאַחַר מִיתָה.
+> **Translation:** The Gemara asks rhetorically: **And did he not make it** a matter of lending money? He most certainly did, as he obligated himself to pay for the cow if he does not return it, making the transaction into a loan, and therefore the payment of a *sela* per month should constitute interest. **Rav Sheshet said:** It means that **he did not make it** a matter of lending **money while** the cow was **alive,** meaning that he did not obligate himself to return this specific sum to him if the value of the cow decreased, but **rather** agreed to pay the set payment of thirty dinars only **after** its **death.** Therefore, the transaction was not a loan and the monthly payment is not interest. According to this *baraita*, the *halakha* should be the same in the case of a ship.
 
 Rav Sheshet, writing from a later generation, asks: *mai ta'ama shatik Rav?* Why was Rav silent? Was it because he had no answer, or was it because he was unaware of a certain *baraita* that would have supported his position? Rav Sheshet suggests that had Rav known this *baraita*, he would have had a ready reply.
 
@@ -66,29 +59,26 @@ The *baraita* in question states: even though they said one may not accept *tzon
 
 The *baraita* then introduces a related case: one who assesses the value of his fellow's cow at thirty *dinar* and says to him, *harei paratcha asuya alai be'shloshim dinar*, I accept upon myself the value of this cow as thirty *dinar*, and I will also pay you one *sela* each month as a rental fee — *muttar*, this is permissible. This sounds like a strong support for Rav, since both a valuation and a rental payment are being collected simultaneously.
 
-> **Hebrew/Aramaic:** וְלֹא עֲשָׂאָהּ דָּמִים מֵחַיִּים, אֶלָּא לְאַחַר מִיתָה.
->
-> **Translation:** It means that **he did not make it** a matter of lending **money while** the cow was **alive,** meaning that he did not obligate himself to return this specific sum to him if the value of the cow decreased, but **rather** agreed to pay the set payment of thirty dinars only **after** its **death.** Therefore, the transaction was not a loan and the monthly payment is not interest. According to this *baraita*, the *halakha* should be the same in the case of a ship.
-
 Rav Sheshet then provides the key to why this is not *ribbit*: *lo asa damim mechayim* — the thirty *dinar* valuation is not assessed against the cow while it is alive. The price of thirty *dinar* is only activated *le'achar mitah*, after the animal dies. Since the assessment of the cow's value is deferred to the moment of its death, and the monthly *sela* is a genuine rental payment for the use of the animal, the two charges are distinct in nature and do not combine into a *ribbit* problem. Rav Sheshet argues that Rav's position on the boat is supported by an analogous logic.
 
 ### Rav Papa's Psak
 
-> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא, הִלְכְתָּא: סְפִינָה אַגְרָא וּפַגְרָא.
->
-> **Translation:** **Rav Pappa said:** In fact, the ***halakha*** is that in the case of **a ship** it is permitted to collect **rent and** payment for **damage.**
-
 Rav Papa issues the definitive ruling: *hilchata sfina agra u'fagra* — the *halacha* follows Rav, against Rav Kahana and Rav Assi, that for a boat one may charge both the rental fee and the depreciation. Rav Papa evidently found Rav Sheshet's defense of Rav from the *baraita* sufficient to settle the question.
+
+> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא, הִלְכְתָא: סְפִינָה אַגְרָא וּפַגְרָא.
+> **Translation:** **Rav Pappa said:** In fact, the ***halakha*** is that in the case of **a ship** it is permitted to collect **rent and** payment for **damage.**
 
 ### Sailor Custom
 
-> **Hebrew/Aramaic:** וְנָהֲגוּ בְּנֵי כוּפְרָא אַגְרָא בִּשְׁעַת מְשִׁיכָה, פַּגְרָא בִּשְׁעַת שְׁבִירָה. אַטּוּ בְּמִנְהָגָא תַּלְיָא מִילְּתָא? מִשּׁוּם דְּמַתְנִיתָא תַּנְיָא – מִנְהָגָא.
->
+
+> **Hebrew/Aramaic:** וְנָהֲגוּ בְּנֵי כוּפְרָא אַגְרָא בִּשְׁעַת מְשִׁיכָה, פַּגְרָא בִּשְׁעַת שְׁבִירָה. אַטּוּ בְּמִנְהָגָא תַּלְיָא מִילְּתָא? מִשּׁוּם דְּמַתְנִיתָא תַּנְיָא – מִנְהָגָא.
 > **Translation:** **And the men of pitch [*benei kufera*],** i.e., sailors, **are accustomed to** paying **rent at the time of pulling** and paying for **damage at the time of breakage.** The Gemara asks: **Is that to say** that **this matter depends on custom?** Is there no *halakha* with regard to this issue? The Gemara answers: **Because the *baraita* taught this,** it is an acceptable **custom** and therefore permitted.
 
 Rav Papa adds a further detail regarding practice: *ve'nahagu benei Kufra agra be'sha'at meshicha fagra be'sha'at shevira* — the sailors, or perhaps those who work with pitch-sealed boats (*benei Kufra*, literally those associated with *kufra*, the pitch used to waterproof wooden vessels, as we know from *Parshat Noach*), have a custom to pay the rental fee *be'sha'at meshicha*, at the moment of taking possession of the boat, and to pay the depreciation charge *be'sha'at shevira*, only at the time of breakage. Whether this means the assessment of damage is made at the time of the breakage, or merely that payment is scheduled for that point, is a *machloket Rishonim*. In either case, the practical effect of dividing the two payments is to make it structurally clearer that they are two distinct obligations — one for use and one for damage — which reduces the appearance of *ribbit*.
 
 ## Mafriz al Sadeh (II)
+
+
 
 ### Minhag & Flexibility
 
@@ -96,11 +86,12 @@ The *Gemara* notes that this entire discussion of *mafriz al sadehhu* is also go
 
 ## Orphans & Ribbit
 
+
+
 ### Shmuel's Ruling
 
-> **Hebrew/Aramaic:** אָמַר רַב עָנָן אָמַר שְׁמוּאֵל: מָעוֹת שֶׁל יְתוֹמִים מוּתָּר לְהַלְווֹתָן בְּרִבִּית.
->
-> **Translation:** **Rav Anan says** that **Shmuel says:** It is **permitted to lend with interest money** belonging **to orphans.** Since the orphans are minors and exempt from mitzvot, the prohibition against taking interest does not apply to them.
+> **Hebrew/Aramaic:** אָמַר רַב עָנָן אָמַר שְׁמוּאֵל: מָעוֹת שֶׁל יְתוֹמִים מוּתָּר לְהַלְווֹתָן בְּרִבִּית. אֲמַר לֵיהּ רַב נַחְמָן: מִשּׁוּם דְּיַתְמֵי נִינְהוּ (סָפֵינָא) [סָפֵינַן] לְהוּ אִיסּוּרָא?! יַתְמֵי דְּאָכְלִי דְּלָאו דִּידְהוּ לֵיזְלוּ בָּתַר שָׁבְקַיְיהוּ! אֲמַר לֵיהּ: אֵימָא לִי אִיזִי גּוּפָא דְעוֹבָדָא הֵיכִי הֲוָה?
+> **Translation:** § **Rav Anan says** that **Shmuel says:** It is **permitted to lend with interest money** belonging **to orphans.** Since the orphans are minors and exempt from mitzvot, the prohibition against taking interest does not apply to them. **Rav Naḥman said to him: Because they are orphans we may feed them prohibited** items? In harsher language, he added: **Orphans that consume that which is not theirs will follow their deceased** parent to the graveyard. It cannot be that this was Shmuel’s intention. Therefore, Rav Naḥman **said to** Rav Anan: **Say to me now, what was the actual incident?** What exactly did you hear Shmuel say?
 
 The *Gemara* now turns to the question of orphans and *ribbit*. Rav Anan cited Shmuel: *ma'ot shel yetomim mutar le'halvotam be'ribbit* — the money of *yetomim* may be lent out with interest. This is a striking ruling. The first question it raises is what category of *ribbit* is being permitted. Many *Rishonim* understand this to refer only to *ribbit d'rabbanan*, rabbinic-level interest. However, the Ritva quotes at least one opinion that even full *ribbit d'oraita* is permitted for *yetomim*. That opinion is cited in *Shulchan Aruch* as a minority position.
 
@@ -108,19 +99,14 @@ The *Gemara* now turns to the question of orphans and *ribbit*. Rav Anan cited S
 
 ### Rav Nachman Objects
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב נַחְמָן: מִשּׁוּם דְּיַתְמֵי נִינְהוּ סָפֵינַן לְהוּ אִיסּוּרָא?! יַתְמֵי דְּאָכְלִי דְּלָאו דִּידְהוּ לֵיזְלוּ בָּתַר שָׁבְקַיְיהוּ!
->
-> **Translation:** **Rav Naḥman said to him: Because they are orphans we may feed them prohibited** items? In harsher language, he added: **Orphans that consume that which is not theirs will follow their deceased** parent to the graveyard. It cannot be that this was Shmuel's intention.
-
 Rav Nachman sharply objects: *mishum de'yasmei ninhu safinan lehu issura* — just because they are orphans, are we to feed them something that is *assur*? He invokes the general principle that if a minor is engaged in transgression, *beis din muzarin lo* — the community has an obligation to intervene and stop it, much as we do not simply permit a child to eat *neveilos* on the grounds that the child lacks personal obligation. That principle itself, as a side matter, generates a whole *sugya* in *Yoma* about which categories of *issurim* — *issurei cheftza* and *issurei gavra* — are subject to this requirement.
 
 Rav Nachman goes further: *yatmei d'achlei d'lav did'hu lizlu basar shavkaihu* — orphans who profit from something that is not truly theirs will end up following those who came before them, that is, following their parents to the grave. This is a severe curse. It is not entirely clear whether Rav Nachman is declaring the practice outright *assur* or whether he is condemning it as a harmful practice even if technically permissible.
 
 ### Mar Ukva Cauldron
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אִיזִי גּוּפָא דְעוֹבָדָא הֵיכִי הֲוָה? אֲמַר לֵיהּ: הָהוּא דּוּדָא דִּבְנֵי מָר עוּקְבָא דַּהֲוָה בֵּי מָר שְׁמוּאֵל, תָּקֵיל וְיָהֵיב לֵיהּ, תָּקֵיל וְשָׁקֵיל לֵיהּ. שָׁקֵיל אַגְרָא וְשָׁקֵיל פַּחֲתָא. אִי אַגְרָא – לָא פַּחֲתָא, וְאִי פַּחֲתָא – לָא אַגְרָא.
->
-> **Translation:** **[Rav Nachman] said to** Rav Anan: **Say to me now, what was the actual incident?** What exactly did you hear Shmuel say? Rav Anan **said to him:** There was **a certain kettle that** belonged to **the children of Mar Ukva,** who were minor orphans, and this kettle **was in the house of Mar Shmuel,** who would rent it out on behalf of the orphans. Mar Shmuel **would weigh it and** then **give it out,** and when the renter returned it Mar Shmuel would **weigh it and take it back,** and **he would take a rental fee** for use of the kettle **and would** also **take** payment **for depreciation** of the kettle due to the reduction in the weight of the metal. In general, the *halakha* is that **if** he takes **a rental** fee, he **should not** take payment for **depreciation, and if he takes** payment **for depreciation,** this means the kettle was a loan, and therefore he **should not** take **a rental** fee, as by taking both, it is interest.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: הָהוּא דּוּדָא דִּבְנֵי מָר עוּקְבָא דַּהֲוָה בֵּי מָר שְׁמוּאֵל, תָּקֵיל וְיָהֵיב לֵיהּ, תָּקֵיל וְשָׁקֵיל לֵיהּ. שָׁקֵיל אַגְרָא וְשָׁקֵיל פַּחֲתָא. אִי אַגְרָא – לָא פַּחֲתָא, וְאִי פַּחֲתָא – לָא אַגְרָא.
+> **Translation:** Rav Anan **said to him:** There was **a certain kettle that** belonged to **the children of Mar Ukva,** who were minor orphans, and this kettle **was in the house of Mar Shmuel,** who would rent it out on behalf of the orphans. Mar Shmuel **would weigh it and** then **give it out,** and when the renter returned it Mar Shmuel would **weigh it and take it back,** and **he would take a rental fee** for use of the kettle **and would** also **take** payment **for depreciation** of the kettle due to the reduction in the weight of the metal. In general, the *halakha* is that **if** he takes **a rental** fee, he **should not** take payment for **depreciation, and if he takes** payment **for depreciation,** this means the kettle was a loan, and therefore he **should not** take **a rental** fee, as by taking both, it is interest. Nevertheless, Mar Shmuel did so with the kettle belonging to Mar Ukva’s children, which means he rendered it permitted for the orphans to take interest.
 
 A *she'eilah* arises: given Rav Nachman's objection, what was the actual case that prompted Shmuel's ruling? Rav Anan replies: *hahu duda d'vnei Mar Ukva de'hava bei Mar Shmuel* — there was a large cauldron belonging to the children of Mar Ukva (who was presumably deceased, leaving them orphans) that was kept at the house of Mar Shmuel. Shmuel would rent the cauldron out to others for profit on behalf of the *yetomim*. He would weigh the cauldron when it went out and weigh it again when it came back — *takil v'yahiv lei, takil v'shakil lei*. Why? Because *shakil agra v'shakil pachta* — he collected a rental fee for the use of the cauldron and he also collected the amount corresponding to the decrease in the weight of the pot, that is, the depreciation caused by corrosion or burning off of the metal in use.
 
@@ -130,29 +116,28 @@ One might ask why depreciation in this context raises *ribbit* concerns at all. 
 
 ### Measurable Depreciation
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: כִּי הָא – אֲפִילּוּ בְּדִקְנָנֵי נָמֵי שְׁרֵי לְמִיעְבַּד, דְּהָא מְקַבְּלִי עֲלַיְיהוּ חוּסְכָא דִנְחָשָׁא, דְּכַמָּה דְּמִקְּלֵי נְחָשָׁא בְּצִיר דְּמֵיהּ.
->
-> **Translation:** **[Rav Nachman] said to him:** There is no proof from a case **like this, as even for bearded ones,** i.e., adults, it is **permitted to act in this** manner, **as** the owners **accept upon themselves the depreciation of the copper, as the more the copper is burned, the more the value of the pot is diminished.** Since this is so, the renters pay for the visible depreciation as measured by the reduction in the weight of the vessel, and therefore this arrangement is certainly permitted.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: כִּי הָא – אֲפִילּוּ בְּדִקְנָנֵי נָמֵי שְׁרֵי לְמִיעְבַּד, דְּהָא מְקַבְּלִי עֲלַיְיהוּ חוּסְכָא דִנְחָשָׁא, דְּכַמָּה דְּמִקְּלֵי נְחָשָׁא בְּצִיר דְּמֵיהּ.
+> **Translation:** Rav Naḥman **said to him:** There is no proof from a case **like this, as even for bearded ones,** i.e., adults, it is **permitted to act in this** manner, **as** the owners **accept upon themselves the depreciation of the copper, as the more the copper is burned, the more the value of the pot is diminished.** Since this is so, the renters pay for the visible depreciation as measured by the reduction in the weight of the vessel, and therefore this arrangement is certainly permitted.
 
 Shmuel's response to the challenge in the cauldron case is: *ki ha afilu bididkanani nami shari lemeivad* — this transaction, the dual charge of rental and depreciation, would be permissible even for bearded men, that is, even for fully grown adults to perform, and it is not a special *kula* devised solely for the benefit of orphans.
 
-Why? Because in the case of a copper cauldron used over a fire, *mekablei aleihu chuska denachsha*, there is a real corrosion of the copper: *dechama demeklei nachsha batzir damei* — the more you use a copper vessel over flame, the more the metal corrodes and the more the value of the pot measurably declines. Because the depreciation in this case is entirely quantifiable — you can weigh the pot before and after and see exactly how much metal has been lost — the dual charge is not *ribbit* at all, but rather two genuinely separate and measurable obligations: a fee for use and a charge for the objectively demonstrable reduction in value.
+Why? Because in the case of a copper cauldron used over a fire, *mekablei aleihu chuska denachsha*, there is a real corrosion of the copper: *dechama demeklei nachsha batsir damei* — the more you use a copper vessel over flame, the more the metal corrodes and the more the value of the pot measurably declines. Because the depreciation in this case is entirely quantifiable — you can weigh the pot before and after and see exactly how much metal has been lost — the dual charge is not *ribbit* at all, but rather two genuinely separate and measurable obligations: a fee for use and a charge for the objectively demonstrable reduction in value.
 
 The term *dekanani*, bearded men, is noteworthy. It sets the bar not merely at those who have reached the age of *mitzvot* (twelve or thirteen) but at those who have reached a fuller social maturity. This raises the further question of how the *yetomim* exception operates when the orphans in question are adults. The principle *gadol hasomech al shulchan aviv nikra katan* — an adult child who is still financially dependent on his parents is considered, for certain financial *halachot*, to have the status of a *katan* — may extend the *yetomim* leniencies further than one might initially suppose. There is a charming story of the Vilna Gaon encountering an abbreviation written in someone's *Chumash* next to the *pasuk* *et hamaor hagadol lemshelet hayom ve'et hamaor hakatan lemshelet halaila*, and instantly deciphering it as an allusion to this very principle: the moon, despite its great light, is called *maor hakatan* precisely because it derives its light from the sun — *gadol hasomech al shulchan aviv nikra katan*.
 
 ## Orphan Investments
 
+
+
 ### Risk Profiles
 
-> **Hebrew/Aramaic:** אָמַר רַבָּה בַּר שֵׁילָא אָמַר רַב חִסְדָּא, וְאָמְרִי לַהּ, אָמַר רַבָּה בַּר יוֹסֵף בַּר חָמָא אָמַר רַב שֵׁשֶׁת: מָעוֹת שֶׁל יְתוֹמִים מוּתָּר לְהַלְווֹתָן קָרוֹב לְשָׂכָר וְרָחוֹק לְהֶפְסֵד.
->
+> **Hebrew/Aramaic:** אָמַר רַבָּה בַּר שֵׁילָא אָמַר רַב חִסְדָּא, וְאָמְרִי לַהּ, אָמַר רַבָּה בַּר יוֹסֵף בַּר חָמָא אָמַר רַב שֵׁשֶׁת: מָעוֹת שֶׁל יְתוֹמִים מוּתָּר לְהַלְווֹתָן קָרוֹב לְשָׂכָר וְרָחוֹק לְהֶפְסֵד.
 > **Translation:** **Rabba bar Sheila says** that **Rav Ḥisda says, and some say** that **Rabba bar Yosef bar Ḥama says** that **Rav Sheshet says:** It is **permitted to lend the money of orphans** to be invested in a business venture **that is close to profit and far from loss.** Since this is only a hint of interest (see 64b), the relevant prohibition is a matter of rabbinic law, and the Sages rendered it permitted in the case of minor orphans, in order that their inheritance be preserved for them.
 
-A separate tradition is cited: Rabba bar Shila in the name of Rav Chisda — or in another version, Rabba bar Yosef bar Chama in the name of Rav Sheshet — rules that *ma'ot shel yetomim mutar lehalvosan karov liskhar verakhok lehefsed* — it is permissible to invest orphans' money in arrangements that are close to gain and distant from loss, that is, high-return and low-risk. To understand why this requires a special permission, the *Gemara* cites a *baraita*.
-
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: קָרוֹב לְשָׂכָר וְרָחוֹק לְהֶפְסֵד – רָשָׁע. קָרוֹב לְהֶפְסֵד וְרָחוֹק לְשָׂכָר – חָסִיד. קָרוֹב לָזֶה וְלָזֶה, רָחוֹק מִזֶּה וּמִזֶּה – זוֹ הִיא מִדַּת כׇּל אָדָם.
->
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: קָרוֹב לְשָׂכָר וְרָחוֹק לְהֶפְסֵד – רָשָׁע. קָרוֹב לְהֶפְסֵד וְרָחוֹק לְשָׂכָר – חָסִיד. קָרוֹב לָזֶה וְלָזֶה, רָחוֹק מִזֶּה וּמִזֶּה – זוֹ הִיא מִדַּת כׇּל אָדָם.
 > **Translation:** **The Sages taught:** If there is a joint venture in which the conditions for the investor are **close to profit and far from loss,** then the investor is **a wicked person,** as this is similar to a loan with interest. If the conditions for the investor are **close to loss and far from profit,** then he is **a pious person,** as he accepts additional restrictions upon himself in order to be absolutely sure he is not taking interest. If it is **close to this and to that** or **far from this and from that, this is** the **quality of every person** who acts in accordance with *halakha*.
+
+A separate tradition is cited: Rabba bar Shila in the name of Rav Chisda — or in another version, Rabba bar Yosef bar Chama in the name of Rav Sheshet — rules that *ma'ot shel yetomim mutar lehalvosan karov liskhar verakhok lehefsed* — it is permissible to invest orphans' money in arrangements that are close to gain and distant from loss, that is, high-return and low-risk. To understand why this requires a special permission, the *Gemara* cites a *baraita*.
 
 The *baraita* articulates three investment profiles. A case which is *karov liskhar verakhok lehefsed* — easy to profit and low-risk — characterizes a *rasha*: a wicked person. Why? Because in such a business arrangement, one partner carries all the risk while the other enjoys the easy gain, and the disadvantaged partner gets the short end of the deal. Conversely, a case which is *karov lehefsed verakhok liskhar* — high risk and a low payoff — characterizes a *chasid*: a righteous person who goes out of his way to avoid exploiting the other party, taking more risk and less return than strictly necessary to ensure he does not come anywhere near *ribbit*. Finally, a case which is *karov lazeh velazeh rakhok mizeh umizeh* — equitable in both directions, sharing risk and return fairly — represents *midas kol adam*, the standard of ordinary decent people.
 
@@ -160,32 +145,23 @@ The implication is that ordinarily entering into an arrangement that is *karov l
 
 ### Rabba's Question
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבָּה לְרַב יוֹסֵף: הָנֵי זוּזֵי דְיַתְמֵי הֵיכִי עָבְדִינַן לְהוּ?
->
-> **Translation:** **Rabba said to Rav Yosef:** When we are entrusted with **this money** belonging **to orphans, what do we do with it?** What is the halakhically appropriate way to manage these funds on behalf of the orphans so that they do not squander or lose their inheritance?
-
 Rabba then poses the practical question to Rav Yosef: *hani zuzei d'yetomim heikhi avdinan lehu?* What are we actually supposed to do with orphans' money? What investment structure would constitute the permitted *karov liskhar verakhok lehefsed*?
 
 ### Initial Suggestion
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: מוֹתְבִינַן לְהוּ בֵּי דִינָא וְיָהֲבִינַן לְהוּ זוּזָא זוּזָא.
->
-> **Translation:** Rav Yosef **said to him: We set up** a special **court** that holds the money **for them, and we** instruct the court to **give** it to **them dinar by dinar,** according to their needs.
-
 Rav Yosef's initial suggestion is: *motbinan lehu be-vei dina ve'yavinan lehu zuzu zuzu* — we place the money in the custody of the court and pay it out to them coin by coin, like an annuity disbursed over time.
 
-### Principal Concern
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבָּה לְרַב יוֹסֵף: הָנֵי זוּזֵי דְיַתְמֵי הֵיכִי עָבְדִינַן לְהוּ? אֲמַר לֵיהּ: מוֹתְבִינַן לְהוּ בֵּי דִינָא וְיָהֲבִינַן לְהוּ זוּזָא זוּזָא. אֲמַר לֵיהּ: וְהָא קָא כָלְיָא קַרְנָא.
+> **Translation:** **Rabba said to Rav Yosef:** When we are entrusted with **this money** belonging **to orphans, what do we do with it?** What is the halakhically appropriate way to manage these funds on behalf of the orphans so that they do not squander or lose their inheritance? Rav Yosef **said to him: We set up** a special **court** that holds the money **for them, and we** instruct the court to **give** it to **them dinar by dinar,** according to their needs. Rabba **said to him: But** if the estate is managed in that manner, **the principal,** meaning the estate itself, **will be depleted,** and therefore the court will not be acting as suitable guardians for the orphans, as they will not be properly administering their estate.
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: וְהָא קָא כָלְיָא קַרְנָא.
->
-> **Translation:** Rabba **said to him: But** if the estate is managed in that manner, **the principal,** meaning the estate itself, **will be depleted,** and therefore the court will not be acting as suitable guardians for the orphans, as they will not be properly administering their estate.
+### Principal Concern
 
 Rabba immediately objects: *veha ka-kalya karna* — but the principal itself is being consumed. That is, what Rav Yosef has described is not an investment at all; it is simply placing money in the bank and drawing it down over time. There is no growth, no return — only a steady depletion of the original capital. This is inadequate as a long-term strategy for sustaining the orphans' estate.
 
 ### Gold Nugget Investment
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ מָר: הֵיכִי עָבֵיד? אֲמַר לֵיהּ: בָּדְקִינַן גַּבְרָא דְּאִית לֵיהּ דַּהֲבָא פְּרִיכָא, וְנָקְטִינַן דַּהֲבָא מִינֵּיהּ, וְיָהֲבִינַן לְהוּ נִיהֲלֵיהּ קָרוֹב לְשָׂכָר וְרָחוֹק לְהֶפְסֵד. אֲבָל דָּבָר מְסוּיָּם – לָא, דִּלְמָא פִּקָּדוֹן נִינְהוּ, וְאָתֵי מָרֵיהּ יָהֵיב סִימָנִין וְשָׁקֵיל לֵיהּ.
->
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ מָר: הֵיכִי עָבֵיד? אֲמַר לֵיהּ: בָּדְקִינַן גַּבְרָא דְּאִית לֵיהּ דַּהֲבָא פְּרִיכָא, וְנָקְטִינַן דַּהֲבָא מִינֵּיהּ, וְיָהֲבִינַן לְהוּ נִיהֲלֵיהּ קָרוֹב לְשָׂכָר וְרָחוֹק לְהֶפְסֵד. אֲבָל דָּבָר מְסוּיָּם – לָא, דִּלְמָא פִּקָּדוֹן נִינְהוּ, וְאָתֵי מָרֵיהּ יָהֵיב סִימָנִין וְשָׁקֵיל לֵיהּ.
 > **Translation:** Rav Yosef **said to him: What does the Master do** in such a case? Rabba **said to him: We look** for **a man who has scraps of gold, and we purchase the gold from him and** then **we give** it back **to him** in a joint business venture with terms that are **close to profit and far from loss.** The Gemara explains what Rabba says: We specifically buy scraps of gold, **but** we do **not** buy **a specific item,** meaning a finished gold item, as **perhaps it is a deposit** in the possession of the one holding it **and the owner will come and provide distinguishing marks and take it,** and then the orphans will suffer a loss.
 
 Rabba responds with his own proposal: *badkinan gavra de'it lei dehava perikha* — we should identify a person who holds gold nuggets, specifically not gold coins, and *venaktinan dehava minei ve'yavinan lehu nihaleih* — we take the gold from him and pay it back to him, and that arrangement constitutes *karov liskhar verakhok lehefsed*.
@@ -194,11 +170,12 @@ Rashi explains the significance of gold nuggets as opposed to coins: *grutot she
 
 The contrast being drawn is not that the orphans are doing something shady. Rather, they are placing their funds with a reliable, demonstrably solvent investor, someone whose assets are unencumbered and whose capacity to make good on the investment is not in doubt.
 
+It is worth pausing to notice how far this has moved from the earlier discussion about *ribbit*. The previous sugya raised the question of whether orphans may charge interest at all, and concluded that they may under certain conditions. Here, the arrangement being described — *karov liskhar verakhok lehefsed* — is one that would ordinarily be considered ethically problematic, or at least below the standard of a *chasid*, precisely because it places disproportionate risk on one party while skewing the reward to the other. The reason such an arrangement is generally discouraged is that it can amount to exploiting the counterparty. What makes it permissible here is the specific profile of the investor: a wealthy businessman with unencumbered assets, someone who can, so to speak, afford to absorb that asymmetry. The orphans are not wronging him; they are simply taking an appropriate measure of protection for a vulnerable estate. The standard of *midas chasidus* in ordinary circumstances would be to seek out a more balanced arrangement — one where risk and return are distributed equitably between the parties — but that standard yields here to the overriding obligation to protect the orphans' capital.
+
 ### Rav Ashi's Standard
 
-> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי: תִּינַח אִי מִשְׁתְּכַח גַּבְרָא דְּאִית לֵיהּ דַּהֲבָא פְּרִיכָא, אִי לָא מִשְׁתְּכַח גַּבְרָא דְּאִית לֵיהּ דַּהֲבָא פְּרִיכָא נֵיכְלוּ זוּזֵי דְיַתְמֵי? אֶלָּא אָמַר רַב אָשֵׁי: חָזֵינַן גַּבְרָא דִּמְשַׁפּוּ נִכְסֵיהּ, וּמְהֵימַן, וְשָׁמַע דִּינָא דְאוֹרָיְיתָא וְלָא מְקַבֵּל שַׁמְתָּא דְרַבָּנַן, וְיָהֲבִינַן לְהוּ נִיהֲלֵיהּ בְּבֵי דִינָא.
->
-> **Translation:** **Rav Ashi said:** This **works out well if a man is found who has scraps of gold.** But **if no man is found who has scraps of gold,** shall **the money of the orphans be depleted?** There is a possibility that the extra precaution taken to avoid the appearance of interest may lead to a loss for the orphans. **Rather, Rav Ashi said: We look for a man whose properties are quiet,** meaning that there is no claim disputing his ownership of them, **and** who is a **trustworthy** individual **who listens** to and obeys **the laws of the Torah and is not subject to excommunication by the Sages,** meaning that he is known as one who obeys the court's instructions willingly without having to be coerced, **and we give him** this money **in court** as a joint business venture with terms that are close to profit and far from loss, and in this way the orphans' money can be invested in a safe and profitable manner.
+> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי: תִּינַח אִי מִשְׁתְּכַח גַּבְרָא דְּאִית לֵיהּ דַּהֲבָא פְּרִיכָא, אִי לָא מִשְׁתְּכַח גַּבְרָא דְּאִית לֵיהּ דַּהֲבָא פְּרִיכָא נֵיכְלוּ זוּזֵי דְיַתְמֵי? אֶלָּא אָמַר רַב אָשֵׁי: חָזֵינַן גַּבְרָא דִּמְשַׁפּוּ נִכְסֵיהּ, וּמְהֵימַן, וְשָׁמַע דִּינָא דְאוֹרָיְיתָא וְלָא מְקַבֵּל שַׁמְתָּא דְרַבָּנַן, וְיָהֲבִינַן לְהוּ נִיהֲלֵיהּ בְּבֵי דִינָא.
+> **Translation:** **Rav Ashi said:** This **works out well if a man is found who has scraps of gold.** But **if no man is found who has scraps of gold,** shall **the money of the orphans be depleted?** There is a possibility that the extra precaution taken to avoid the appearance of interest may lead to a loss for the orphans. **Rather, Rav Ashi said: We look for a man whose properties are quiet,** meaning that there is no claim disputing his ownership of them, **and** who is a **trustworthy** individual **who listens** to and obeys **the laws of the Torah and is not subject to excommunication by the Sages,** meaning that he is known as one who obeys the court’s instructions willingly without having to be coerced, **and we give him** this money **in court** as a joint business venture with terms that are close to profit and far from loss, and in this way the orphans’ money can be invested in a safe and profitable manner.
 
 Rav Ashi raises a practical challenge: *teinach, ei mishtakach gavra de'is lei de'hava paricha* — fine, this works if you can find such a person who happens to have gold nuggets. But *ei lo mishtakach gavra de'is lei de'hava paricha, nichlu zuzei de'yasmei?* — if you cannot find such a person, is the orphans' money simply to be consumed and spent down entirely?
 
@@ -208,21 +185,23 @@ The requirement that this be done through *beis din* is itself a matter of discu
 
 The underlying economic intuition is sound and the *Gemara* itself takes it seriously: simply holding money in reserve means the orphans' estate will gradually be consumed by living expenses. Finding an investment with a genuine positive return — one that allows the orphans to live off the profits and maintain their estate over time — is the proper and responsible course.
 
-## Tzon Barzel (II)
+## Tzon Barzel
 
-### Tzon Barzel (II) Definition
 
-> **Hebrew/Aramaic:** מַתְנִי׳ אֵין מְקַבְּלִין צֹאן בַּרְזֶל מִיִּשְׂרָאֵל – מִפְּנֵי שֶׁהוּא רִבִּית. אֲבָל מְקַבְּלִין צֹאן בַּרְזֶל מִן הַגּוֹיִם,
->
+
+[DAF:70b]
+### Tzon Barzel Definition
+
+> **Hebrew/Aramaic:** מַתְנִי׳ אֵין מְקַבְּלִין צֹאן בַּרְזֶל מִיִּשְׂרָאֵל – מִפְּנֵי שֶׁהוּא רִבִּית. אֲבָל מְקַבְּלִין צֹאן בַּרְזֶל מִן הַגּוֹיִם,
 > **Translation:** MISHNA: **One may not accept from a Jew** sheep to raise or other items to care for as **a guaranteed investment,** in which the terms of the transaction dictate that the one accepting the item takes upon himself complete responsibility to repay its value in the event of depreciation or loss, but receives only part of the profit. This is **because it** is a loan, as the principal is fixed and always returned to the owner, and any additional sum the owner receives **is interest. But one may accept a guaranteed investment from gentiles,** as there is no prohibition of interest in transactions with them.
+
 
 The *mishna* at the top of 70b states: *ein mekablin tzon barzel mi'Yisrael mipnei she'hu ribbit* — one may not enter into a *tzon barzel* arrangement with a fellow Jew because it constitutes *ribbit*. Rashi defines *tzon barzel* as an arrangement in which *kol achrayus hanechasim al hamekabel* — the entire responsibility for the assets rests on the one who receives them. One investor provides all the capital, the other partner does all the work, and at the end of the arrangement the initial investment is fully guaranteed to be returned to the investor. Meanwhile, the parties split the profits during the course of the business. The problem with this arrangement between Jews is that the lump-sum payback of the original seed money, on top of the profits already shared, turns all of those accumulated profits into *ribbit*: the investor effectively lent money, enjoyed a share of the profits as though it were interest, and then reclaimed the principal.
 
 ### Non-Jew Exception
 
-> **Hebrew/Aramaic:** וְלוִֹין מֵהֶן וּמַלְוִין אוֹתָן בְּרִבִּית. וְכֵן בְּגֵר תּוֹשָׁב. מַלְוֶה יִשְׂרָאֵל מְעוֹתָיו שֶׁל נׇכְרִי – מִדַּעַת הַנׇּכְרִי, אֲבָל לֹא מִדַּעַת יִשְׂרָאֵל.
->
-> **Translation:** **And one may borrow** money **from them and one may lend** money **to them with interest. And similarly, with regard to a gentile who resides in Eretz Yisrael and observes the seven Noahide mitzvot [*ger toshav*],** one may borrow money from him with interest and lend money to him with interest, since he is not a Jew. Also, **a Jew may** serve as a middleman and **lend a gentile's money** to another Jew **with the knowledge of the gentile, but not with the knowledge of a Jew,** i.e., the middleman himself, as the Gemara will explain.
+> **Hebrew/Aramaic:** וְלֹוִין מֵהֶן וּמַלְוִין אוֹתָן בְּרִבִּית. וְכֵן בְּגֵר תּוֹשָׁב. מַלְוֶה יִשְׂרָאֵל מְעוֹתָיו שֶׁל נׇכְרִי – מִדַּעַת הַנׇּכְרִי, אֲבָל לֹא מִדַּעַת יִשְׂרָאֵל.
+> **Translation:** **And one may borrow** money **from them and one may lend** money **to them with interest. And similarly, with regard to a gentile who resides in Eretz Yisrael and observes the seven Noahide mitzvot [*ger toshav*],** one may borrow money from him with interest and lend money to him with interest, since he is not a Jew. Also, **a Jew may** serve as a middleman and **lend a gentile’s money** to another Jew **with the knowledge of the gentile, but not with the knowledge of a Jew,** i.e., the middleman himself, as the Gemara will explain.
 
 The *mishna* continues: *aval mekablin tzon barzel min ha'akum* — but one may accept a *tzon barzel*-type investment from a non-Jew. One may borrow from non-Jews and lend to them with *ribbit* — real *ribbit d'oraita*. *Vechen beger toshav* — and the same applies with respect to a *ger toshav*.
 
@@ -232,8 +211,7 @@ One of the major *sugyot* touching on *ger toshav* involves a person who comes t
 
 ### Bechoros Contradiction
 
-> **Hebrew/Aramaic:** גְּמָ׳ לְמֵימְרָא דְּבִרְשׁוּתָא דִּמְקַבֵּל קָיְימָא? וּרְמִינְהוּ: הַמְקַבֵּל צֹאן בַּרְזֶל מִן הַגּוֹיִם – וְלָדוֹת פְּטוּרִין מִן הַבְּכוֹרָה!
->
+> **Hebrew/Aramaic:** גְּמָ׳ לְמֵימְרָא דְּבִרְשׁוּתָא דִּמְקַבֵּל קָיְימָא? וּרְמִינְהוּ: הַמְקַבֵּל צֹאן בַּרְזֶל מִן הַגּוֹיִם – וְלָדוֹת פְּטוּרִין מִן הַבְּכוֹרָה!
 > **Translation:** GEMARA: With regard to the ruling that a guaranteed investment is considered a loan with interest, the Gemara asks: Is this **to say that** the guaranteed investment **stands in the possession of the recipient,** i.e., the recipient is viewed as its owner? **And the** Gemara **raises a contradiction** from a mishna (*Bekhorot* 16a): In the case of **one who accepts from gentiles** an animal as **a guaranteed investment,** the **offspring are exempt from** the *halakhot* of **a firstborn.** This exemption apparently proves that the sheep still legally belong to the gentile owner.
 
 The *Gemara* identifies a contradiction between our *mishna* and a *mishna* in Bechoros. The *mishna* in our passage implies, from the very fact that *tzon barzel* is characterized as *ribbit*, that the invested assets are considered to have passed into the ownership of the *mekabel*, the Jewish business partner. If the assets still belonged to the investor, there would be no *ribbit* — one cannot charge *ribbit* on something that remains in one's own possession.
@@ -242,31 +220,28 @@ However, the *mishna* in Bechoros states: *hamekabel tzon barzel min ha'akum, vl
 
 ### Abaye's Resolution
 
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי, לָא קַשְׁיָא: הָא דִּמְקַבֵּל עֲלֵיהּ אוּנְסָא וְזוֹלָא, הָא דְּלָא קַבֵּיל עֲלֵיהּ אוּנְסָא וְזוֹלָא.
->
-> **Translation:** **Abaye said:** This is **not difficult. That** case, referring to the mishna in *Bekhorot*, is **where** the gentile owner of the sheep **accepts upon himself** the responsibility for losses due to **an accident or depreciation** in the market value, and that is why the sheep are considered to still belong to him. And **this** case, referring to the mishna here, is **where** the owner **did not accept upon himself** responsibility for losses due to **an accident or depreciation.** Therefore, the guaranteed investment stands in the possession of the recipient.
-
 Abaye proposes a resolution. He says: *lo kashya ha demikabel alei onsa uvisola* — there is no contradiction. Rashi adds the word *nochri* to clarify that Abaye is referring to the non-Jewish investor. In one case, the non-Jewish investor accepted upon himself *onsa uzola* — liability for unexpected catastrophic loss (*ones*) and for market depreciation (*zola*). In the other case, the non-Jewish investor did not accept *onsa uzola* upon himself. In the case where the investor bears the risk of loss and price fluctuation, ownership effectively remains with him — and that is the Bechoros case, explaining why the offspring are exempt from *bechora*. In the case where the *mekabel* bears all the liability, ownership is treated as having transferred — and that is our *mishna*, explaining why the arrangement constitutes *ribbit*.
+
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי, לָא קַשְׁיָא: הָא דִּמְקַבֵּל עֲלֵיהּ אוּנְסָא וְזוֹלָא, הָא דְּלָא קַבֵּיל עֲלֵיהּ אוּנְסָא וְזוֹלָא.
+> **Translation:** **Abaye said:** This is **not difficult. That** case, referring to the mishna in *Bekhorot*, is **where** the gentile owner of the sheep **accepts upon himself** the responsibility for losses due to **an accident or depreciation** in the market value, and that is why the sheep are considered to still belong to him. And **this** case, referring to the mishna here, is **where** the owner **did not accept upon himself** responsibility for losses due to **an accident or depreciation.** Therefore, the guaranteed investment stands in the possession of the recipient.
 
 ### Rava's Alternative
 
-> **Hebrew/Aramaic:** אָמַר לֵיהּ רָבָא: אִי דְּקַבֵּיל עֲלֵיהּ מָרַהּ אוּנְסָא וְזוֹלָא – צֹאן בַּרְזֶל קָרֵית לֵיהּ?
->
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבָא: אִי דְּקַבֵּיל עֲלֵיהּ מָרַהּ אוּנְסָא וְזוֹלָא – צֹאן בַּרְזֶל קָרֵית לֵיהּ?
 > **Translation:** **Rava said to** Abaye: **If the owner accepted upon himself** responsibility for losses due to **an accident or depreciation,** can **you call it a guaranteed investment?** This case is not a guaranteed investment, as the owner is not guaranteed to receive what he had given, but rather it is a type of joint business venture that is permitted between two Jews.
 
-Rava objects to Abaye's resolution. His first objection: *ei d'kabil alei marei onsa uzola* — if the investor accepted upon himself *onsa uzola*, *tzon barzel karis lei?* Can you still call that *tzon barzel*? The entire point of *tzon barzel* is that the investment is ironclad and fully guaranteed. An investor who accepts responsibility for catastrophic loss and market depreciation has undermined the very essence of the arrangement; it is no longer *tzon barzel* at all.
-
-> **Hebrew/Aramaic:** וְעוֹד אַדְּתָנֵי סֵיפָא: אֲבָל מְקַבְּלִין צֹאן בַּרְזֶל מִן הַגּוֹיִם לִיפְלוֹג בְּדִידֵיהּ: בַּמֶּה דְּבָרִים אֲמוּרִים – דְּלָא קַבֵּיל עֲלֵיהּ אוּנְסָא וְזוֹלָא, אֲבָל קַבֵּיל מָרַהּ אוּנְסָא וְזוֹלָא – שַׁפִּיר דָּמֵי!
->
+> **Hebrew/Aramaic:** וְעוֹד אַדְּתָנֵי סֵיפָא: אֲבָל מְקַבְּלִין צֹאן בַּרְזֶל מִן הַגּוֹיִם לִיפְלוֹג בְּדִידֵיהּ: בַּמֶּה דְּבָרִים אֲמוּרִים – דְּלָא קַבֵּיל עֲלֵיהּ אוּנְסָא וְזוֹלָא, אֲבָל קַבֵּיל מָרַהּ אוּנְסָא וְזוֹלָא – שַׁפִּיר דָּמֵי!
 > **Translation:** Rava continues: **And furthermore,** even if one will grant that this arrangement can be called a guaranteed investment, there is another difficulty. **Instead of** the *tanna* **teaching** in **the latter clause** of the mishna: **But one may accept a guaranteed investment from gentiles, let** the *tanna* **distinguish within** the case **itself,** that of accepting a guaranteed investment from a Jew. He should have taught: **In what** case **is this statement,** i.e., that one may not accept from a Jew sheep to raise or other items to care for as a guaranteed investment, **said?** It is said in a case **when** the owner **did not accept upon himself** responsibility for losses due to **an accident or depreciation, but** if **the owner accepted upon himself** responsibility for losses due to **an accident or depreciation,** one may **well** enter into such an arrangement.
+
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רָבָא: אִידֵּי וְאִידֵּי דְּלָא קַבֵּיל עֲלֵיהּ מָרַהּ אוּנְסָא וְזוֹלָא, וְגַבֵּי בְּכוֹרוֹת הַיְינוּ טַעַם דִּוְלָדוֹת פְּטוּרִין מִן הַבְּכוֹרָה: כֵּיוָן דְּאִי לָא יָהֵיב זוּזֵי, אָתֵי גּוֹי תָּפֵיס לַהּ לִבְהֵמָה. וְאִי לָא מַשְׁכַּח לַהּ לִבְהֵמָה, תָּפֵיס לְהוּ לִוְלָדוֹת, וְהָוֵי לַיהּ יַד גּוֹי בָּאֶמְצַע.
+> **Translation:** **Rather, Rava** rejected this explanation and **said:** Both **this** case in the mishna here **and that** case with regard to the firstborn animal are discussing a situation where **the owner did not accept upon himself responsibility for** losses due to **an accident or depreciation. And with regard to the firstborn, this is the reason** that **the offspring are exempt from** the *halakhot* of **a firstborn: Since, if** for some reason the recipient **does not give the money** due to the gentile, **the gentile will come and seize the animal, and if he does not find the animal he will seize the offspring;** this means that **the hand of a gentile is in the middle,** i.e., the gentile has some degree of ownership of the bodies of the offspring.
+
+Rava objects to Abaye's resolution. His first objection: *ei d'kabil alei marei onsa uzola* — if the investor accepted upon himself *onsa uzola*, *tzon barzel karis lei?* Can you still call that *tzon barzel*? The entire point of *tzon barzel* is that the investment is ironclad and fully guaranteed. An investor who accepts responsibility for catastrophic loss and market depreciation has undermined the very essence of the arrangement; it is no longer *tzon barzel* at all.
 
 Rava's second objection: the *seifa* of the *mishna* states that one may accept *tzon barzel* from a non-Jew. If Abaye's resolution were correct, the *mishna* should have distinguished internally — there should be a case within the *mishna* itself where it is and is not called *tzon barzel*, rather than offering the broad permission to accept it from a non-Jew as a separate rule. Rava therefore concludes that any case where the investor accepts *onsa uzola* is simply not *tzon barzel* and would be permissible even with a Jewish investor.
 
 ### Rava's Explanation
-
-> **Hebrew/Aramaic:** אֶלָּא אָמַר רָבָא: אִידֵּי וְאִידֵּי דְּלָא קַבֵּיל עֲלֵיהּ מָרַהּ אוּנְסָא וְזוֹלָא, וְגַבֵּי בְּכוֹרוֹת הַיְינוּ טַעַם דִּוְלָדוֹת פְּטוּרִין מִן הַבְּכוֹרָה: כֵּיוָן דְּאִי לָא יָהֵיב זוּזֵי, אָתֵי גּוֹי תָּפֵיס לַהּ לִבְהֵמָה. וְאִי לָא מַשְׁכַּח לַהּ לִבְהֵמָה, תָּפֵיס לְהוּ לִוְלָדוֹת, וְהָוֵי לַיהּ יַד גּוֹי בָּאֶמְצַע.
->
-> **Translation:** **Rather, Rava** rejected this explanation and **said:** Both **this** case in the mishna here **and that** case with regard to the firstborn animal are discussing a situation where **the owner did not accept upon himself responsibility for** losses due to **an accident or depreciation. And with regard to the firstborn, this is the reason** that **the offspring are exempt from** the *halakhot* of **a firstborn: Since, if** for some reason the recipient **does not give the money** due to the gentile, **the gentile will come and seize the animal, and if he does not find the animal he will seize the offspring;** this means that **the hand of a gentile is in the middle,** i.e., the gentile has some degree of ownership of the bodies of the offspring.
 
 Rava therefore proposes an alternative resolution that maintains both *mishnayot* as speaking about the standard *tzon barzel* case — where the investor does *not* accept *onsa uzola*, and the *mekabel* bears all liability. *Idi ve'idi delo kabla alei marei onsa vezola* — in both cases, the investor has not accepted *onsa uzola*. 
 
@@ -274,13 +249,14 @@ The question then becomes: why are the offspring exempt from *bechora* in Bechor
 
 ### Yad Nochri
 
-> **Hebrew/Aramaic:** וְהָוֵי לַיהּ יַד גּוֹי בָּאֶמְצַע. וְכׇל יָד גּוֹי בָּאֶמְצַע – פָּטוּר מִן הַבְּכוֹרָה.
->
-> **Translation:** this means that **the hand of a gentile is in the middle,** i.e., the gentile has some degree of ownership of the bodies of the offspring. And there is a *halakha*: In **every** case where **the hand of a gentile is in the middle,** the animal is **exempt from** the *halakhot* of **a firstborn.** By contrast, in the case of the mishna concerning the *halakhot* of interest, the animal is entirely in the possession of the recipient.
+> **Hebrew/Aramaic:** וְכׇל יָד גּוֹי בָּאֶמְצַע – פָּטוּר מִן הַבְּכוֹרָה.
+> **Translation:** And there is a *halakha*: In **every** case where **the hand of a gentile is in the middle,** the animal is **exempt from** the *halakhot* of **a firstborn.** By contrast, in the case of the mishna concerning the *halakhot* of interest, the animal is entirely in the possession of the recipient.
 
 Therefore, *vahavei lei yad nochri be'emtza* — the non-Jewish investor retains a residual claim over the partnership, a legal "hand in the pot." And *vechol yad nochri be'emtza patur min habechora* — whenever a non-Jew has such a residual ownership claim over an animal, even a partial one, the animal is exempt from the laws of *bechor*, because it is a case of *shutfus*, joint ownership. Even a partial non-Jewish claim over the animal is sufficient to remove it from the framework of *bechora*.
 
 ## Kedusha & Humans
+
+
 
 ### Taz on Bechor
 
@@ -297,6 +273,8 @@ Rav Soloveitchik, in one of his *Yahrtzeit Shiurim*, connected this to *kiddush*
 A parallel case may be found in the laws of *shemitat kesafim* — the release of loans in the *shemitah* year. The question of how *shemitat kesafim* operates is itself contested: is it an *afka'ata demalka*, an automatic cancellation imposed by the King, operating without any human action? Or is it a *mitzvah* obligating the lender to personally and actively forgive the loan? The Mordechai quotes an opinion that in truth the cancellation occurs automatically, yet there remains a personal *mitzvah* to forgive the loan oneself even though it has already been canceled. This is the same paradigm: something happens automatically by divine decree — the *kedusha* or the cancellation — and yet the human being retains an independent obligation, a *mitzvah*, to do it actively as well. In each of these domains, the interplay between divine automaticity and human agency defines a distinctive structure in *halachic* thinking.
 
 ## Tzon Barzel (II)
+
+
 
 ### Practical Application
 

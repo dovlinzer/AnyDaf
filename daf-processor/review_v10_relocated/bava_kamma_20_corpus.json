@@ -1,0 +1,469 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Mishnah Text",
+    "candidates": [
+      "Perek Overview",
+      "Exemption Framework",
+      "Mishnah Text",
+      "Meshunah as Keren",
+      "Negligence Question",
+      "Benefit vs. Damages",
+      "Valuation Difference",
+      "Location-Based Cases",
+      "Location Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself (keitzad hashein mu'edes, beheimah mu'edes le'echol peiros u-yerakos, achla kesus u-keilim chatzi nezek, birshus hanizak/reshus harabbim), which corresponds exactly to the 'Mishnah Text' section's prose description of that same mishnah.",
+      "chosen_heading": "Mishnah Text",
+      "current_heading": "Mishnah Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Location Definition",
+    "candidates": [
+      "Meshunah as Keren",
+      "Negligence Question",
+      "Benefit vs. Damages",
+      "Valuation Difference",
+      "Location-Based Cases",
+      "Location Definition",
+      "Food Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items deal with the location-based distinctions (middle of street, side of street, store entrance, inside store) and when the owner pays benefit vs. full damages \u2014 exactly what the 'Location-Based Cases' prose discusses.",
+      "chosen_heading": "Location-Based Cases",
+      "current_heading": "Location Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Food Examples",
+    "candidates": [
+      "Location Definition",
+      "Food Examples",
+      "Hadachak Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita in item 1 is precisely the text that candidate 1's prose describes \u2014 a domesticated animal eating foods fit for it and a wild animal tearing apart and eating meat, with nezek shalem in both cases \u2014 matching the 'Food Examples' section perfectly.",
+      "chosen_heading": "Food Examples",
+      "current_heading": "Food Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Hadachak Principle",
+    "candidates": [
+      "Hadachak Principle",
+      "Raui Lah Range",
+      "Wild Foods Still Shein",
+      "Rav Yehuda Ruling",
+      "Chewing Normal",
+      "Damage Category"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the examples (cow/barley, donkey/vetches, dog/oil, pig/meat) and Rav Pappa's crystallization of the hadachak principle, which is exactly what heading 0 ('Hadachak Principle') describes in its prose.",
+      "chosen_heading": "Hadachak Principle",
+      "current_heading": "Hadachak Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Damage Category",
+    "candidates": [
+      "Raui Lah Range",
+      "Wild Foods Still Shein",
+      "Rav Yehuda Ruling",
+      "Chewing Normal",
+      "Damage Category",
+      "Rava Turnip Ruling",
+      "Normal Behavior"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the Rav Yehuda ruling and its immediate follow-up challenge about whether bread is typical donkey food, which is precisely what the 'Rav Yehuda Ruling' prose describes \u2014 full damages for bread as normal food and half for the basket \u2014 while the current placement under 'Damage Category' discusses categorization theory not directly addressed in these Gemara items.",
+      "chosen_heading": "Rav Yehuda Ruling",
+      "current_heading": "Damage Category",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Normal Behavior",
+    "candidates": [
+      "Rava Turnip Ruling",
+      "Normal Behavior",
+      "Neck Extension"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Normal Behavior",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the baraita's conditions for 'normal behavior' (meshunah vs. orcheia), which is exactly what the 'Normal Behavior' prose section addresses \u2014 contrasting table-eating as abnormal with the goat/barrel case.",
+      "second_heading": "Rava Turnip Ruling",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rava turnip/barrel ruling itself, which is precisely what the 'Rava Turnip Ruling' prose section describes \u2014 the goat climbing a barrel to eat a turnip and Rava's full liability ruling.",
+      "current_heading": "Normal Behavior",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Neck Extension",
+    "candidates": [
+      "Neck Extension",
+      "Animal Back Domain",
+      "Basket Support",
+      "Rashi Meshunah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Ilfa's ruling and its explanation (gabi chavarta kechatzer hanizak), which is precisely what the 'Neck Extension' section's prose discusses and introduces.",
+      "chosen_heading": "Neck Extension",
+      "current_heading": "Neck Extension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Rashi Meshunah",
+    "candidates": [
+      "Animal Back Domain",
+      "Basket Support",
+      "Rashi Meshunah",
+      "Yoshiya Rule",
+      "Rava Standing",
+      "Kopetzet Nature",
+      "Zevid Question",
+      "Rashi Push"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's attempt to support Ilfa from the basket baraita and then trace Rava's kopetzet principle back to its original context (Rabbi Oshaya's walking/standing ruling), which is precisely the content described under 'Basket Support' \u2014 the baraita support attempt and its deflection via kopetzet, matching items 1 and 2 as a continuous unit belonging there rather than under 'Rashi Meshunah' where it currently sits.",
+      "chosen_heading": "Basket Support",
+      "current_heading": "Rashi Meshunah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rashi Push",
+    "candidates": [
+      "Yoshiya Rule",
+      "Rava Standing",
+      "Kopetzet Nature",
+      "Zevid Question",
+      "Rashi Push",
+      "Bundle Half Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Zeira's (attributed to Rav Zevid in the prose) dilemma about a rolling sheaf from reshus hayachid to reshus harabbim, which is precisely what the 'Zevid Question' section describes.",
+      "chosen_heading": "Zevid Question",
+      "current_heading": "Rashi Push",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Bundle Half Cases",
+    "candidates": [
+      "Rashi Push",
+      "Bundle Half Cases",
+      "Tosafot Rolling",
+      "Mishnah Garments",
+      "Rav Akulu Exempt",
+      "Kol HaMeshaneh"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Bundle Half Cases",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Rabbi \u1e24iyya baraita and its resolution about aspasta stalks, which is precisely what the 'Bundle Half Cases' prose describes.",
+      "second_heading": "Mishnah Garments",
+      "second_confidence": "high",
+      "second_reason": "Item 3 opens a new Mishnah section on garments/vessels (\u00a7 marker, new facts), matching the 'Mishnah Garments' prose exactly.",
+      "current_heading": "Bundle Half Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Kol HaMeshaneh",
+    "candidates": [
+      "Tosafot Rolling",
+      "Mishnah Garments",
+      "Rav Akulu Exempt",
+      "Kol HaMeshaneh",
+      "Shmuel Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav's statement that one is exempt in all cases (akulu) in reshus harabbim, and then gives the reason (kol hameshaneh), which is precisely what heading 2 'Rav Akulu Exempt' discusses \u2014 the surprise that even eating garments is exempt and Rav's ruling covering both cases, before the separate heading for the kol hameshaneh principle elaboration.",
+      "chosen_heading": "Rav Akulu Exempt",
+      "current_heading": "Kol HaMeshaneh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Shmuel Dispute",
+    "candidates": [
+      "Kol HaMeshaneh",
+      "Shmuel Dispute",
+      "Reish Lakish Crouched"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's statement distinguishing fruit/vegetables from garments/vessels in the public domain, which is precisely what the 'Shmuel Dispute' section's prose describes and analyzes.",
+      "chosen_heading": "Shmuel Dispute",
+      "current_heading": "Shmuel Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Reish Lakish Crouched",
+    "candidates": [
+      "Reish Lakish Crouched",
+      "Abnormality Start",
+      "Yochanan Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Reish Lakish's statement about the two cows and explains the exemption for the walking cow kicking the prone cow, which is exactly what the 'Reish Lakish Crouched' section's prose discusses.",
+      "chosen_heading": "Reish Lakish Crouched",
+      "current_heading": "Reish Lakish Crouched",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Yochanan Dispute",
+    "candidates": [
+      "Abnormality Start",
+      "Yochanan Dispute",
+      "Norm vs. Negligence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yochanan's statement about the exemption applying only to fruit/vegetables but liability for garments/vessels, which is precisely what the 'Yochanan Dispute' prose describes and analyzes.",
+      "chosen_heading": "Yochanan Dispute",
+      "current_heading": "Yochanan Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Norm vs. Negligence",
+    "candidates": [
+      "Norm vs. Negligence",
+      "Rava Hay Value",
+      "Wholesale Price"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between garments lying in the public domain (normal behavior) versus a cow lying down (atypical behavior), which is precisely what the 'Norm vs. Negligence' prose elaborates on regarding kol hameshaneh and the two cows case.",
+      "chosen_heading": "Norm vs. Negligence",
+      "current_heading": "Norm vs. Negligence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Wholesale Price",
+    "candidates": [
+      "Rava Hay Value",
+      "Wholesale Price",
+      "Shimon Ben Yochai",
+      "Benefit Estimate",
+      "Bad Food Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabba's position (dmei amir, straw value) and Rava's position (dmei se'orim be'zol, cheapest barley price) together, and candidate 0 'Rava Hay Value' is where the gemara introduces these two competing views \u2014 the current placement under 'Wholesale Price' splits what is a single gemara passage presenting both opinions simultaneously.",
+      "chosen_heading": "Rava Hay Value",
+      "current_heading": "Wholesale Price",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133
+    ],
+    "current_heading": "Bad Food Exception",
+    "candidates": [
+      "Shimon Ben Yochai",
+      "Benefit Estimate",
+      "Bad Food Exception",
+      "House Tenant",
+      "No Benefit/Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the pair of baraitot supporting Rabba and Rava \u2014 item 1 (the hay-value baraita) and item 2 (the benefit-estimate baraita) are introduced together as a unit, and candidate 1 'Benefit Estimate' covers both the willingness-to-pay measure and the wheat/harmful-food exception that concludes item 2, making it the best match for the full passage.",
+      "chosen_heading": "Benefit Estimate",
+      "current_heading": "Bad Food Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "No Benefit/Loss",
+    "candidates": [
+      "House Tenant",
+      "No Benefit/Loss",
+      "Both Benefit/Loss",
+      "Middle Cases",
+      "Indirect Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav \u1e24isda's question to Rami bar \u1e24ama about one who resides in another's courtyard without permission, which is the framing discussion that candidate 0 ('House Tenant') explicitly describes as its content \u2014 the setup for the four-case framework \u2014 rather than being a specific case analysis belonging under any of the subsequent headings.",
+      "chosen_heading": "House Tenant",
+      "current_heading": "No Benefit/Loss",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149,
+      150,
+      151
+    ],
+    "current_heading": "Indirect Loss",
+    "candidates": [
+      "Both Benefit/Loss",
+      "Middle Cases",
+      "Indirect Loss",
+      "Mishnah Citation",
+      "Loss Case Noted",
+      "Real Question",
+      "Public Fruit",
+      "Deferred Answer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Middle Cases",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 present the Gemara's elimination of the two clear cases and identification of the middle case (zeh neheneh v'zeh lo chaser), which matches heading 1 'Middle Cases' discussing exactly this scenario.",
+      "second_heading": "Mishnah Citation",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rami bar Chama citing the mishnah about animal benefit as an answer, which matches heading 3 'Mishnah Citation' whose prose describes precisely this exchange.",
+      "current_heading": "Indirect Loss",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      163,
+      164
+    ],
+    "current_heading": "Deferred Answer",
+    "candidates": [
+      "Mishnah Citation",
+      "Loss Case Noted",
+      "Real Question",
+      "Public Fruit",
+      "Deferred Answer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Loss Case Noted",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's remark criticizing Rami bar \u1e24ama's answer and identifying the structural distinction between zeh neheneh v'zeh chaser (the mishnah) and zeh neheneh v'zeh lo chaser (the original question), which is precisely what 'Loss Case Noted' describes.",
+      "second_heading": "Public Fruit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's explanation of Rami bar \u1e24ama's reasoning \u2014 that fruit in the public domain is treated as ownerless (afkurei mafkir lehu), making it structurally closer to zeh lo chaser \u2014 which matches exactly the 'Public Fruit' prose.",
+      "current_heading": "Deferred Answer",
+      "moved": true
+    }
+  }
+]

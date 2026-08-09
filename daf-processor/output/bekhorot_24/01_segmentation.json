@@ -78,7 +78,7 @@
           "timestamp": "29:05"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -571,5 +571,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "24:40",
+  "amud_b_micro_title": "Testing Limits",
+  "shiur_start_daf": 24,
+  "shiur_start_amud": "a"
 }

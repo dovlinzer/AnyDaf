@@ -24,8 +24,8 @@
           "timestamp": "01:23"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Distinguishing Separate Sins: Rabbi Yochanan's Derivation from the Sister Prohibition",
@@ -49,7 +49,7 @@
         }
       ],
       "sefaria_index": 11,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Refining the Principle: Rabbi Bibi's Limitations and the Alternative Derivation from an Explicit Verse",
@@ -215,8 +215,8 @@
           "timestamp": "53:51"
         }
       ],
-      "sefaria_index": 27,
-      "matched": true
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "The Avodah Zarah Detailed Analysis: Exploring What It Means to 'Forget' a Prohibition",
@@ -254,7 +254,7 @@
           "timestamp": "58:37"
         }
       ],
-      "sefaria_index": 29,
+      "sefaria_index": 28,
       "matched": true
     }
   ],
@@ -428,5 +428,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 32
+  "amud_b_sefaria_index": 32,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "58:37",
+  "amud_b_micro_title": "Thinking Permitted",
+  "shiur_start_daf": 3,
+  "shiur_start_amud": "a"
 }

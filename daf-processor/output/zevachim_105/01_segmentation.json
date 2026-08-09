@@ -24,8 +24,8 @@
           "timestamp": "01:39"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Baraita on Levite Becoming Impure and the Definition of Disqualification",
@@ -43,7 +43,7 @@
           "timestamp": "02:39"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -197,8 +197,8 @@
           "timestamp": "23:59"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Rabbanan's Position Without Meir's Hermeneutic: How They Account for Impurity Rules",
@@ -221,7 +221,7 @@
           "timestamp": "26:28"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -279,7 +279,7 @@
           "timestamp": "46:01"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -327,7 +327,7 @@
           "timestamp": "52:02"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 24,
       "matched": true
     }
   ],
@@ -690,5 +690,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "38:01",
+  "amud_b_micro_title": "Incomplete Action",
+  "shiur_start_daf": 104,
+  "shiur_start_amud": "b"
 }

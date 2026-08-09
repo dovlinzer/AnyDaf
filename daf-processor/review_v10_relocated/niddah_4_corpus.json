@@ -1,0 +1,377 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Box Setup",
+    "candidates": [
+      "Box Setup",
+      "Hillel & Shammai",
+      "Chizkiyah vs. Yochanan"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Box Setup",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the initial dispute between \u1e24izkiyya and Rabbi Yo\u1e25anan and the challenge from Shammai and Hillel's agreement, which matches the 'Box Setup' prose introducing the Amoraic dispute and the Hillel/Shammai echo.",
+      "second_heading": "Hillel & Shammai",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the resolution distinguishing a basket with a base (Shammai/Hillel) from one without (\u1e24izkiyya/Yo\u1e25anan), which precisely matches the 'Hillel & Shammai' prose explaining that Shammai and Hillel agree on the floored box and setting up the transition to the \u1e24izkiyya/Yo\u1e25anan dispute.",
+      "current_heading": "Box Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Chizkiyah vs. Yochanan",
+    "candidates": [
+      "Hillel & Shammai",
+      "Chizkiyah vs. Yochanan",
+      "Barrel & Buckets",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about Rabbi Yochanan's reasoning in the case of a basket without a base but with a rim (oznayim), which is precisely what the 'Chizkiyah vs. Yochanan' section's prose describes and contextualizes.",
+      "chosen_heading": "Chizkiyah vs. Yochanan",
+      "current_heading": "Chizkiyah vs. Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Barrel & Buckets",
+      "Reish Lakish",
+      "Water vs. Fruit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita about drawing ten pails of water AND Reish Lakish's qualification, and the prose under 'Barrel & Buckets' (index 0) discusses the baraita itself while the prose under 'Reish Lakish' (index 1) discusses only the Reish Lakish qualification \u2014 but since the passage is a single unit containing both, it belongs under the heading whose prose introduces the baraita, which is index 0, and the Reish Lakish section's prose already presupposes the baraita was introduced elsewhere.",
+      "chosen_heading": "Barrel & Buckets",
+      "current_heading": "Reish Lakish",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Water vs. Fruit",
+    "candidates": [
+      "Reish Lakish",
+      "Water vs. Fruit",
+      "Unchecked Box",
+      "Chazakah Liable Change"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Water vs. Fruit",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the water vs. produce distinction (slippery/not slippery; particular/not particular) that reconciles \u1e24izkiyya with Rabbi Yannai, which is precisely what candidate 1 'Water vs. Fruit' describes.",
+      "second_heading": "Unchecked Box",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce the checked vs. unchecked basket distinction to explain when Shammai/Hillel agree vs. when \u1e24izkiyya/Rabbi Yo\u1e25anan disagree, which is exactly what candidate 2 'Unchecked Box' describes.",
+      "current_heading": "Water vs. Fruit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Chazakah Liable Change",
+    "candidates": [
+      "Unchecked Box",
+      "Chazakah Liable Change",
+      "Covered Box"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about the woman being 'examined' and the answer that since blood is prevalent in her she is considered as unexamined \u2014 precisely the content discussed in candidate 1's prose about chazakah ha'asuyah l'hishtanos and the instability of a woman's status.",
+      "chosen_heading": "Chazakah Liable Change",
+      "current_heading": "Chazakah Liable Change",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Covered Box",
+    "candidates": [
+      "Covered Box",
+      "Woman Covered Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between a covered and uncovered basket (kuppa mechusah vs. she'einah mechusah) and how Chizkiyah and Rabbi Yochanan debate the covered case, which is precisely what the 'Covered Box' prose section explains.",
+      "chosen_heading": "Covered Box",
+      "current_heading": "Covered Box",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Woman Covered Concept",
+    "candidates": [
+      "Woman Covered Concept",
+      "Woman Objectified",
+      "Box Moved Rooms"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Woman Covered Concept",
+      "first_confidence": "high",
+      "first_reason": "Item 1 directly addresses the 'woman is considered covered' concept and why frequent bleeding overrides that status \u2014 exactly what the 'Woman Covered Concept' prose discusses.",
+      "second_heading": "Box Moved Rooms",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses \u1e24izkiyya and Rabbi Yo\u1e25anan's dispute and whether it concerns a corner of a basket or a corner of a house, which maps onto the 'Box Moved Rooms' section about the box-and-sheretz case in different corners/rooms.",
+      "current_heading": "Woman Covered Concept",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Box Moved Rooms",
+    "candidates": [
+      "Woman Objectified",
+      "Box Moved Rooms",
+      "Chizkiyah No Concern",
+      "Yochanan Applies",
+      "Dead Body Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the box-moved-rooms scenario that Candidate 1's prose introduces \u2014 a basket used for tahoros in one corner, moved to another corner, with a sheretz found there \u2014 matching the current placement precisely.",
+      "chosen_heading": "Box Moved Rooms",
+      "current_heading": "Box Moved Rooms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Dead Body Baraita",
+    "candidates": [
+      "Chizkiyah No Concern",
+      "Yochanan Applies",
+      "Dead Body Baraita",
+      "Doubtful Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara challenge to Rabbi Yochanan \u2014 the Mishnah about touching a person at night, the Rabbis' ruling with the 'at the time of discovery' principle, and the baraita adding 'in the place of discovery' \u2014 which is precisely what the 'Dead Body Baraita' prose describes.",
+      "chosen_heading": "Dead Body Baraita",
+      "current_heading": "Dead Body Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Doubtful Status",
+    "candidates": [
+      "Doubtful Status",
+      "Moldy Needle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara's challenge about the l'isrof/litlot distinction, which is exactly what the 'Doubtful Status' prose describes and analyzes.",
+      "chosen_heading": "Doubtful Status",
+      "current_heading": "Doubtful Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Moldy Needle",
+    "candidates": [
+      "Moldy Needle",
+      "Shekol HaTumaot",
+      "Place of Discovery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the rusty/broken needle mishna and the Gemara's question about why we don't assume it was once intact, which is precisely what the 'Moldy Needle' section's prose describes.",
+      "chosen_heading": "Moldy Needle",
+      "current_heading": "Moldy Needle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Place of Discovery",
+    "candidates": [
+      "Shekol HaTumaot",
+      "Place of Discovery",
+      "Loaf & Garment",
+      "Person Moved It"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage about the burned sheretz and tattered rag found on olives is explicitly discussed in candidate 1's prose under 'Place of Discovery,' which directly quotes and explains this exact mishna (matza sheretz saruf al gabei hazeisim / matlit hamehumemet) as part of its argument about shekol hatme'os k'sha'as m'tzi'asan.",
+      "chosen_heading": "Place of Discovery",
+      "current_heading": "Place of Discovery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Person Moved It",
+    "candidates": [
+      "Loaf & Garment",
+      "Person Moved It",
+      "Private Domain Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous unit: item 1 raises a distinction about place of discovery, items 2-3 cite the loaf/shelf baraita as a refutation, and items 4-5 resolve that refutation by pointing to the baraita's own stated reason (a pure person moved it) \u2014 exactly the 'Person Moved It' discussion described in candidate 1's prose.",
+      "chosen_heading": "Person Moved It",
+      "current_heading": "Person Moved It",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Private Domain Rule",
+    "candidates": [
+      "Private Domain Rule",
+      "Shammai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly address the Private Domain Rule discussion: item 1 concerns the raven/intent distinction in the basket case, items 2 and 3 address why the loaf found on the ground is tahor despite being doubtful impurity in a private domain (the 'lacks consciousness to be asked' principle and the rabbinic impurity alternative), all of which are explicitly covered in the 'Private Domain Rule' prose.",
+      "chosen_heading": "Private Domain Rule",
+      "current_heading": "Private Domain Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Shammai",
+    "candidates": [
+      "Shammai",
+      "Sotah Exception",
+      "Hillel",
+      "No Da'at",
+      "Sages Middle",
+      "Rabbinic Tumaot",
+      "24 Hour Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage presents the Rabbis' middle position (neither Shammai nor Hillel), which is precisely what the 'Sages Middle' section's prose discusses.",
+      "chosen_heading": "Sages Middle",
+      "current_heading": "Shammai",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "24 Hour Limit",
+    "candidates": [
+      "Sotah Exception",
+      "Hillel",
+      "No Da'at",
+      "Sages Middle",
+      "Rabbinic Tumaot",
+      "24 Hour Limit",
+      "Last Check Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items present the Sages' middle position \u2014 the mutual limitation of me'et l'et and mipkidah l'fkidah \u2014 which is precisely what candidate 3 ('Sages Middle') describes, including the exact phrase 'ela me'et l'et mematet al yad mipkidah l'fkidah u'mipkidah l'fkidah mematet al yad me'et l'et'.",
+      "chosen_heading": "Sages Middle",
+      "current_heading": "24 Hour Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Last Check Limit",
+    "candidates": [
+      "24 Hour Limit",
+      "Last Check Limit",
+      "Both Limits Need"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the 'from examination to examination reduces the 24-hour period' rule with the specific example of checking at the first hour and finding impurity at the fourth hour, which exactly matches the 'Last Check Limit' prose describing the 6 AM check and 9 AM discovery scenario \u2014 item 2's pshita question and answer about why this obvious case is stated belongs to the same unit.",
+      "chosen_heading": "Last Check Limit",
+      "current_heading": "Last Check Limit",
+      "moved": false
+    }
+  }
+]

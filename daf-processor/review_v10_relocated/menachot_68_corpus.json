@@ -1,0 +1,313 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna: Meir vs Yehuda",
+    "candidates": [
+      "Mishna: Meir vs Yehuda",
+      "Concern About Eating",
+      "Chametz Handling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's direct question about Rabbi Yehuda's concern that someone might come to eat from the grain, which is precisely what the 'Concern About Eating' section's prose describes \u2014 quoting the exact Aramaic phrase 'v'lo gazar Rabbi Yehuda dilma ati l'meichal minei'.",
+      "chosen_heading": "Concern About Eating",
+      "current_heading": "Mishna: Meir vs Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Chametz Handling",
+    "candidates": [
+      "Concern About Eating",
+      "Chametz Handling",
+      "Abbaye's Answer",
+      "Omer & Shinui"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's contradiction from Rabbi Yehuda's chametz-searching ruling, which the 'Chametz Handling' section's prose explicitly describes in detail as the u'reminhu contradiction about chametz handling and the concern about inadvertent eating.",
+      "chosen_heading": "Chametz Handling",
+      "current_heading": "Chametz Handling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Omer & Shinui",
+    "candidates": [
+      "Abbaye's Answer",
+      "Omer & Shinui",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabba's answer ('chadash is different \u2014 since it was permitted only by hand-plucking, he will remember'), which is precisely what candidate 0 ('Abbaye's Answer') describes in its prose, whereas the current placement (candidate 1) discusses the nature of the omer and the shinui of hand-plucking rather than Rabba's resolution itself.",
+      "chosen_heading": "Abbaye's Answer",
+      "current_heading": "Omer & Shinui",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Omer & Shinui",
+      "Abaye's Challenge",
+      "Shhinui Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge asking what prevents accidental eating during grinding and sifting, which is precisely what the 'Abaye's Challenge' section's prose describes.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Shhinui Solutions",
+    "candidates": [
+      "Shhinui Solutions",
+      "Harvesting Permission",
+      "Why Not from Irrigated",
+      "Tosafot's Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Gemara's response about performing grinding with a hand mill and sifting on top of the sieve as shinui solutions, which is precisely what the 'Shhinui Solutions' prose discusses.",
+      "chosen_heading": "Shhinui Solutions",
+      "current_heading": "Shhinui Solutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Tosafot's Problem",
+    "candidates": [
+      "Harvesting Permission",
+      "Why Not from Irrigated",
+      "Tosafot's Problem",
+      "Chutz La'aretz Issues",
+      "Two-Crop Problem",
+      "Framing the Issue",
+      "Habitual Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly introduces the case of beit hashalachin and quotes the mishna permitting harvesting of irrigated fields, which is exactly what the 'Harvesting Permission' section's prose describes, not yet the difficulty/problem that Tosafot grapples with in section 2.",
+      "chosen_heading": "Harvesting Permission",
+      "current_heading": "Tosafot's Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Habitual Status",
+    "candidates": [
+      "Chutz La'aretz Issues",
+      "Two-Crop Problem",
+      "Framing the Issue",
+      "Habitual Status",
+      "Mindset & Concern",
+      "Badilei Minei",
+      "Roasted Grain Heker",
+      "Rejection of Rav Ashi"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Habitual Status",
+      "first_confidence": "high",
+      "first_reason": "Abaye's statement about distancing oneself from chadash versus chametz is the core of the 'habitual status' explanation that section 3 explicitly describes as Abaye's key insight about one's ongoing psychological relationship to the forbidden substance.",
+      "second_heading": "Framing the Issue",
+      "second_confidence": "high",
+      "second_reason": "Rava's observation that the contradiction within the Rabbanan's position also needs resolution is precisely what section 2 ('Framing the Issue') describes \u2014 Rava stepping back to point out that de-Rabbanan lo kashya is also a problem requiring resolution.",
+      "current_heading": "Habitual Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Rejection of Rav Ashi",
+    "candidates": [
+      "Mindset & Concern",
+      "Badilei Minei",
+      "Roasted Grain Heker",
+      "Rejection of Rav Ashi",
+      "Bringing the Omer",
+      "Midday Rule",
+      "Post-Destruction",
+      "Takana Takana"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mindset & Concern",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rava's resolution and Rav Ashi's alternative resolution, which belong under 'Roasted Grain Heker' (candidate 2) since item 1 resolves the Rabbanan contradiction and item 2 introduces Rav Ashi's kemach kali argument that the Roasted Grain Heker section discusses.",
+      "second_heading": "Rejection of Rav Ashi",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara's rejection of Rav Ashi's explanation (beruta hi), which exactly matches the 'Rejection of Rav Ashi' section prose that describes this very refutation including the ad kali and beis hashalchin counterarguments.",
+      "current_heading": "Rejection of Rav Ashi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Takana Takana",
+    "candidates": [
+      "Bringing the Omer",
+      "Midday Rule",
+      "Post-Destruction",
+      "Takana Takana",
+      "Biblical or Rabbinic",
+      "Sunrise Permits",
+      "Two Verses",
+      "R. Yochanan View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishna covers all three elements \u2014 the omer permitting new grain immediately, the midday rule for those distant, and Rabban Yochanan ben Zakkai's post-destruction takana \u2014 and the essay breaks these into separate sections, but the Mishna as a single unit is best placed under 'Bringing the Omer' (index 0), which is where the Mishna is explicitly introduced ('The next Mishna states').",
+      "chosen_heading": "Bringing the Omer",
+      "current_heading": "Takana Takana",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "R. Yochanan View",
+    "candidates": [
+      "Biblical or Rabbinic",
+      "Sunrise Permits",
+      "Two Verses",
+      "R. Yochanan View",
+      "Clarifying Takana"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Biblical or Rabbinic",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yehuda's statement that the prohibition is biblical (ad etzem hayom hazeh) and explains why distant people are permitted from midday \u2014 this matches heading 0 ('Biblical or Rabbinic') which discusses exactly Rabbi Yehuda's position that the restriction is biblically forbidden based on that verse.",
+      "second_heading": "Sunrise Permits",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20137 present Rav and Shmuel's ruling about omer vs. sunrise permitting chadash, the two-verse resolution, and Rabbi Yochanan/Reish Lakish's view \u2014 this continuous Gemara discussion beginning with Rav and Shmuel belongs under heading 1 ('Sunrise Permits') which quotes their exact ruling, with the subsequent items flowing naturally into headings 2 and 3.",
+      "current_heading": "R. Yochanan View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Clarifying Takana",
+    "candidates": [
+      "R. Yochanan View",
+      "Clarifying Takana",
+      "Rav Pappa Practice",
+      "Rabbinic Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous discussion about Rabban Yochanan ben Zakkai's takana, Rabbi Yehuda's position, and the Gemara's resolution that Rabban Yochanan ben Zakkai held the prohibition is biblical (darash v'hitkin), which is precisely what the 'Clarifying Takana' prose describes.",
+      "chosen_heading": "Clarifying Takana",
+      "current_heading": "Clarifying Takana",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Rabbinic Status",
+    "candidates": [
+      "Rav Pappa Practice",
+      "Rabbinic Status",
+      "Sfeka D'yoma Excluded",
+      "Rav Ashi Academy",
+      "Dispute Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the actual practice of Rav Pappa and Rav Huna eating chadash on the night leading into the seventeenth, which is precisely what 'Rav Pappa Practice' discusses, while the current placement under 'Rabbinic Status' focuses on the reasoning/implication rather than the act itself.",
+      "chosen_heading": "Rav Pappa Practice",
+      "current_heading": "Rabbinic Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Dispute Summary",
+    "candidates": [
+      "Sfeka D'yoma Excluded",
+      "Rav Ashi Academy",
+      "Dispute Summary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the practice of the Sages of Rav Ashi's academy eating on the morning of the seventeenth and their reasoning, which is precisely what the 'Rav Ashi Academy' section's prose introduces.",
+      "chosen_heading": "Rav Ashi Academy",
+      "current_heading": "Dispute Summary",
+      "moved": true
+    }
+  }
+]

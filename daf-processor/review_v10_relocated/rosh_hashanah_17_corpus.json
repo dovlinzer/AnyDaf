@@ -1,0 +1,464 @@
+[
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Teshuvah Connection",
+    "candidates": [
+      "Intro to Four Things",
+      "Tzedakah",
+      "Tze'akah",
+      "Shinui Hashem",
+      "Shinui Ma'aseh",
+      "Teshuvah Connection",
+      "Shinui Makom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents all four items together as a single statement by Rabbi Yitzchak, and the 'Intro to Four Things' prose explicitly describes this full statement \u2014 the current placement under 'Teshuvah Connection' is wrong, as that section discusses meta-commentary on the four items rather than the passage itself.",
+      "chosen_heading": "Intro to Four Things",
+      "current_heading": "Teshuvah Connection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Shinui Makom",
+    "candidates": [
+      "Teshuvah Connection",
+      "Shinui Makom",
+      "Teshuvah Integration",
+      "Greeting Master"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Gemara's 'v'yesh omrim af shinui makom' teaching about changing one's place of residence, which is exactly what the 'Shinui Makom' section's prose describes and analyzes.",
+      "chosen_heading": "Shinui Makom",
+      "current_heading": "Shinui Makom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Greeting Master",
+    "candidates": [
+      "Teshuvah Integration",
+      "Greeting Master",
+      "Taharah Baregel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the obligation to greet one's teacher on the festival (regel), sourced from the Shunamite woman narrative, which is precisely what the 'Greeting Master' section's prose describes.",
+      "chosen_heading": "Greeting Master",
+      "current_heading": "Greeting Master",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Taharah Baregel",
+    "candidates": [
+      "Taharah Baregel",
+      "Post-Churban Aliyah",
+      "Books Intro",
+      "Tzaddikim and Resha'im",
+      "Beinonim Suspended"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the obligation to purify oneself on a Festival derived from 'uv'nivlatam lo tiga'u,' with the baraita and kal v'chomer argument, exactly matching the 'Taharah Baregel' prose.",
+      "chosen_heading": "Taharah Baregel",
+      "current_heading": "Taharah Baregel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Beinonim Suspended",
+    "candidates": [
+      "Post-Churban Aliyah",
+      "Books Intro",
+      "Tzaddikim and Resha'im",
+      "Beinonim Suspended",
+      "Sefer Chayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the full statement of Rabbi Kruspedai/Rabbi Yochanan introducing the three books concept, which matches the 'Books Intro' section prose that explicitly discusses Rav Kruspedai's citation of Rabbi Yochanan and the opening of three books on Rosh Hashanah.",
+      "chosen_heading": "Books Intro",
+      "current_heading": "Beinonim Suspended",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Sefer Chayim",
+    "candidates": [
+      "Beinonim Suspended",
+      "Sefer Chayim",
+      "Rishonic Approaches",
+      "Beis Shammai",
+      "Tzaddikim, Resha'im",
+      "Beinonim Purification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Amoraic derivations from Psalms 69:29 and Exodus 32:32 supporting the three-book framework, which is precisely what the 'Sefer Chayim' prose describes \u2014 Rabbi Abin's verse and Rav Nachman bar Yitzchak's verse, in that exact order.",
+      "chosen_heading": "Sefer Chayim",
+      "current_heading": "Sefer Chayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Beinonim Purification",
+    "candidates": [
+      "Rishonic Approaches",
+      "Beis Shammai",
+      "Tzaddikim, Resha'im",
+      "Beinonim Purification",
+      "Beis Hillel Compassion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Beis Shammai baraita on the three groups at the final Day of Judgment \u2014 covering all three categories (tzadikim, resha'im, and beinonim) \u2014 which candidate 1 ('Beis Shammai') introduces as a unit, while candidates 2 and 3 split up what is actually one continuous baraita that begins here.",
+      "chosen_heading": "Beis Shammai",
+      "current_heading": "Beinonim Purification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Beis Hillel Compassion",
+    "candidates": [
+      "Beinonim Purification",
+      "Beis Hillel Compassion",
+      "Minim and Apikorsim",
+      "Eternal Gehennom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Beit Hillel's position on tilting toward chesed and David's psalms about being saved despite being 'dal' in mitzvot, which is precisely what the 'Beis Hillel Compassion' section's prose discusses.",
+      "chosen_heading": "Beis Hillel Compassion",
+      "current_heading": "Beis Hillel Compassion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Eternal Gehennom",
+    "candidates": [
+      "Minim and Apikorsim",
+      "Eternal Gehennom",
+      "Poshei Definition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Poshei Definition",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes poshei Yisrael begufan with twelve-month limited punishment, which directly matches Candidate 2's prose about that specific category and the beinoni distinction.",
+      "second_heading": "Eternal Gehennom",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 cover heretics/eternal Gehenna, Gehenna outlasting sinners, Temple connection, and Rava's Me\u1e25oza comment \u2014 all of which are explicitly described in Candidate 1's prose.",
+      "current_heading": "Eternal Gehennom",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Poshei Definition",
+    "candidates": [
+      "Poshei Definition",
+      "Tefillin Identity",
+      "Tosafot Qualifications",
+      "Nations' Sinners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the Beit Hillel position on 'rav chesed,' the distinction between ordinary beinonim and poshei Yisrael begufan, and the Psalm verse David said about them \u2014 exactly what Candidate 0's prose describes as the structure of Beit Hillel's position and the quality-vs-quantity distinction for this category.",
+      "chosen_heading": "Poshei Definition",
+      "current_heading": "Poshei Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Nations' Sinners",
+    "candidates": [
+      "Tefillin Identity",
+      "Tosafot Qualifications",
+      "Nations' Sinners",
+      "Abusive Leaders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage defines both 'poshei Yisrael begufan' (skull that never wore tefillin) and 'poshei umot ha'olam begufan' (sexual sin), and the 'Tefillin Identity' section's prose directly discusses and explains this exact Gemara text including Rav's definition about tefillin, making it the natural home for this passage.",
+      "chosen_heading": "Tefillin Identity",
+      "current_heading": "Nations' Sinners",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Abusive Leaders",
+    "candidates": [
+      "Nations' Sinners",
+      "Abusive Leaders",
+      "Kovsho v'Nosei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the parnas who casts excessive fear on the community not for the sake of Heaven, which is precisely what candidate 1's prose describes.",
+      "chosen_heading": "Abusive Leaders",
+      "current_heading": "Abusive Leaders",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Kovsho v'Nosei",
+    "candidates": [
+      "Kovsho v'Nosei",
+      "Ma'avir Rishon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly Beit Hillel's method of tipping the scales toward kindness, with Rabbi Eliezer's 'kovsho' and Rabbi Yose bar Hanina's 'nosei' \u2014 precisely what the prose under heading 0 ('Kovsho v'Nosei') elaborates upon.",
+      "chosen_heading": "Kovsho v'Nosei",
+      "current_heading": "Kovsho v'Nosei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Ma'avir Rishon",
+    "candidates": [
+      "Ma'avir Rishon",
+      "Forgiveness Reciprocal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses ma'avir rishon rishon and Rava's qualification about the sin not being erased, which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Ma'avir Rishon",
+      "current_heading": "Ma'avir Rishon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Forgiveness Reciprocal",
+    "candidates": [
+      "Forgiveness Reciprocal",
+      "Rav Huna Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about forgoes-for-forgoes reciprocity, which is exactly what the 'Forgiveness Reciprocal' section's prose discusses and quotes.",
+      "chosen_heading": "Forgiveness Reciprocal",
+      "current_heading": "Forgiveness Reciprocal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Rav Huna Story",
+    "candidates": [
+      "Rav Huna Story",
+      "She'erit Nachalato"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the story of Rav Huna becoming sick, Rav Pappa preparing shrouds, and Rav Huna's recovery with the divine reasoning, which matches exactly the prose under 'Rav Huna Story'.",
+      "chosen_heading": "Rav Huna Story",
+      "current_heading": "Rav Huna Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "She'erit Nachalato",
+    "candidates": [
+      "She'erit Nachalato",
+      "Tzaddik and Chasid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the 'lish'erit nachalato' verse and its interpretation \u2014 the 'fatty tail with a thorn' and 'one who regards himself as a remainder' \u2014 which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "She'erit Nachalato",
+      "current_heading": "She'erit Nachalato",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Tzaddik and Chasid",
+    "candidates": [
+      "Tzaddik and Chasid",
+      "Chesed and Din"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the contradiction between 'tzaddik' and 'chasid' in Psalms 145:17, which matches exactly the prose in heading 0 about Rav Huna's resolution of this tension between divine justice and compassion.",
+      "chosen_heading": "Tzaddik and Chasid",
+      "current_heading": "Tzaddik and Chasid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Chesed and Din",
+    "candidates": [
+      "Chesed and Din",
+      "Rav Chesed v'Emet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Elazar's contradiction between 'velecha Hashem chesed' and 'ki atah tishalem le'ish kema'aseihu,' which is precisely what the 'Chesed and Din' section prose describes.",
+      "chosen_heading": "Chesed and Din",
+      "current_heading": "Chesed and Din",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Rav Chesed v'Emet",
+    "candidates": [
+      "Rav Chesed v'Emet",
+      "Moshe's Lesson"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the contradiction between 'v'rav chesed' and 'v'emet' and resolves it by saying God begins with truth but ends with kindness, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Rav Chesed v'Emet",
+      "current_heading": "Rav Chesed v'Emet",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Moshe's Lesson",
+    "candidates": [
+      "Moshe's Lesson",
+      "Compassion Beforehand",
+      "Brit Middot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 God wrapping Himself like a shaliach tzibbur to show Moshe the seder tefillah, and the explanation of 'Hashem Hashem' as God before and after sin \u2014 are explicitly discussed together in the 'Moshe's Lesson' prose, which covers precisely these two points as a unit.",
+      "chosen_heading": "Moshe's Lesson",
+      "current_heading": "Moshe's Lesson",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Brit Middot",
+    "candidates": [
+      "Compassion Beforehand",
+      "Brit Middot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Yehuda's teaching about the covenant with the thirteen attributes and cites 'hineh anochi koreit berit,' which is precisely what the 'Brit Middot' section's prose discusses.",
+      "chosen_heading": "Brit Middot",
+      "current_heading": "Brit Middot",
+      "moved": false
+    }
+  }
+]

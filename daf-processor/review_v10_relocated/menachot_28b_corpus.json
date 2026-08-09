@@ -1,0 +1,220 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Historical Evidence",
+    "candidates": [
+      "Temple Replicas",
+      "Metals Debate",
+      "Historical Evidence",
+      "Height Debate",
+      "Structure Breakdown"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Historical Evidence",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Hasmonean historical evidence exchange (shappudim of iron, tin, silver, gold) which matches precisely the 'Historical Evidence' section's prose about Rabbi Yose bar Yehuda's wooden menorah claim and the Sages' rebuttal.",
+      "second_heading": "Height Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Shmuel's statement about the menorah's height of eighteen handbreadths, which matches the 'Height Debate' section's prose about Shmuel's mishmei desaba tradition giving gova shel menorah shemonah asar tefachim.",
+      "current_heading": "Historical Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Structure Breakdown",
+    "candidates": [
+      "Height Debate",
+      "Structure Breakdown",
+      "Contemporary Evidence",
+      "Cups & Flowers Count"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the structural details of the menorah's branches, knobs, and ornaments (goblets, knobs, flowers with their totals and comparisons), which is precisely what the 'Structure Breakdown' prose discusses in detail.",
+      "chosen_heading": "Structure Breakdown",
+      "current_heading": "Structure Breakdown",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Cups & Flowers Count",
+    "candidates": [
+      "Contemporary Evidence",
+      "Cups & Flowers Count",
+      "Pedestal & Steps",
+      "Solomon's Menorot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items cover exactly the content described in the 'Cups & Flowers Count' prose: the mutual interdependence of goblets/knobs/flowers, the derivation of 22 cups/11 knobs/9 flowers from pesukim, and the Rav/Rav Shimi dispute about the nine handbreadths height measurement \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Cups & Flowers Count",
+      "current_heading": "Cups & Flowers Count",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Solomon's Menorot",
+    "candidates": [
+      "Pedestal & Steps",
+      "Solomon's Menorot",
+      "80 Smeltings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the exhaustion of Solomon's zahav sagur in making the ten menorot and the resolution of the apparent contradiction from Chronicles \u2014 exactly the content described in the 'Solomon's Menorot' prose section.",
+      "chosen_heading": "Solomon's Menorot",
+      "current_heading": "Solomon's Menorot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "80 Smeltings",
+    "candidates": [
+      "80 Smeltings",
+      "Meaning of Pure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about eighty smeltings of the menorah and the Gemara's answer 'keivan de-kai kai,' which is precisely what the '80 Smeltings' section's prose describes.",
+      "chosen_heading": "80 Smeltings",
+      "current_heading": "80 Smeltings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Meaning of Pure",
+    "candidates": [
+      "Meaning of Pure",
+      "Heavenly Vision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous dialectical unit exploring what 'tahor' means when applied to the menorah versus the shulchan, which is precisely what heading 0 ('Meaning of Pure') describes in its prose.",
+      "chosen_heading": "Meaning of Pure",
+      "current_heading": "Meaning of Pure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Heavenly Vision",
+    "candidates": [
+      "Heavenly Vision",
+      "Gabriel & Three Hard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about the Ark, Table, and Candelabrum of fire descending from heaven, and the Gemara's challenge and resolution regarding the Mishkan verse \u2014 exactly the content described in the 'Heavenly Vision' prose.",
+      "chosen_heading": "Heavenly Vision",
+      "current_heading": "Heavenly Vision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Gabriel & Three Hard",
+    "candidates": [
+      "Gabriel & Three Hard",
+      "Kotzo Shel Yud"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Gabriel showing Moses the menorah and the three things Moses found difficult, which are explicitly covered in the prose of candidate 0 ('Gabriel & Three Hard').",
+      "chosen_heading": "Gabriel & Three Hard",
+      "current_heading": "Gabriel & Three Hard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Kotzo Shel Yud",
+    "candidates": [
+      "Kotzo Shel Yud",
+      "Parchment Around Letters",
+      "He Letter Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Gemara discussion on the mezuza's two portions and the invalidating effect of a missing letter, culminating in the kotzah shel Yud and mukaf gevil principles \u2014 exactly what heading 0 ('Kotzo Shel Yud') describes in its prose.",
+      "chosen_heading": "Kotzo Shel Yud",
+      "current_heading": "Kotzo Shel Yud",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "He Letter Rules",
+    "candidates": [
+      "Parchment Around Letters",
+      "He Letter Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the ruling about perforations in the leg of the letter He and the practical case of Agra/Rabbi Abba, which is precisely what the 'He Letter Rules' prose describes.",
+      "chosen_heading": "He Letter Rules",
+      "current_heading": "He Letter Rules",
+      "moved": false
+    }
+  }
+]

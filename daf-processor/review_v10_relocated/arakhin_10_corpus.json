@@ -1,0 +1,454 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Trumpet Blasts: Yom Tov",
+    "candidates": [
+      "Opening Remarks",
+      "Trumpet Blasts Range",
+      "Seven Sets Structure",
+      "Trumpet Blasts: Yom Tov",
+      "Harps & Flutes Numbers",
+      "Twelve Days of Flute",
+      "Twelve Days Listed",
+      "Flute Days = Hallel Days",
+      "Flute Materials & Players"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text stating the minimum of twenty-one and maximum of forty-eight trumpet blasts, which directly corresponds to the 'Trumpet Blasts Range' section whose prose explicitly quotes and discusses this same mishna opening.",
+      "chosen_heading": "Trumpet Blasts Range",
+      "current_heading": "Trumpet Blasts: Yom Tov",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Flute Materials & Players",
+    "candidates": [
+      "Harps & Flutes Numbers",
+      "Twelve Days of Flute",
+      "Twelve Days Listed",
+      "Flute Days = Hallel Days",
+      "Flute Materials & Players",
+      "Musicians' Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the lyre/flute number limits AND the twelve days AND the reed flute/solo flute details \u2014 all of which are introduced together in heading 0's prose ('Harps & Flutes Numbers'), which explicitly previews the enumeration of twelve days and the flute material, making it the single section that encompasses the entire mishna passage.",
+      "chosen_heading": "Harps & Flutes Numbers",
+      "current_heading": "Flute Materials & Players",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Musicians' Status",
+    "candidates": [
+      "Flute Materials & Players",
+      "Musicians' Status",
+      "Rabbi Chanina: Levites",
+      "Mishna vs. Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses who the Temple musicians were \u2014 slaves of priests, Israelite families from Emaum, or Levites \u2014 which matches exactly the prose of 'Musicians' Status' (candidate 1).",
+      "chosen_heading": "Musicians' Status",
+      "current_heading": "Musicians' Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Mishna vs. Rabbi Yehuda",
+    "candidates": [
+      "Rabbi Chanina: Levites",
+      "Mishna vs. Rabbi Yehuda",
+      "One Unit vs. Three Units"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's observation that the mishna does not follow Rabbi Yehuda's opinion, matching exactly the prose of candidate 1 which describes this same Gemara opening and the baraita recording Rabbi Yehuda's minimum of seven and maximum of sixteen.",
+      "chosen_heading": "Mishna vs. Rabbi Yehuda",
+      "current_heading": "Mishna vs. Rabbi Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "One Unit vs. Three Units",
+    "candidates": [
+      "One Unit vs. Three Units",
+      "Rabbi Yehuda's Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the dispute \u2014 Rabbi Yehuda holds tekiah-teruah-tekiah is one unit while the Rabbis hold each is discrete \u2014 which is precisely what the 'One Unit vs. Three Units' prose describes.",
+      "chosen_heading": "One Unit vs. Three Units",
+      "current_heading": "One Unit vs. Three Units",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Rabbi Yehuda's Proofs",
+    "candidates": [
+      "Rabbi Yehuda's Proofs",
+      "Rabbanan's Proofs",
+      "Yehuda's Reply",
+      "No Interruption Rule",
+      "Rav Kahana's Statement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yehuda's Proofs",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yehuda's reasoning from the two verses mixing tekia/terua verb forms, which matches heading 0's prose exactly.",
+      "second_heading": "Rabbanan's Proofs",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Rabbanan's counter-proof from the congregating verse and Rabbi Yehuda's reply (simana b'alma), which matches heading 1's prose about the Rabbanan's argument and heading 2's prose about Rabbi Yehuda's response \u2014 but since both the Rabbanan's proof and Rabbi Yehuda's reply are contained in item 2, the best single heading is 1 (Rabbanan's Proofs) which covers both the proof and anticipates the reply.",
+      "current_heading": "Rabbi Yehuda's Proofs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rav Kahana's Statement",
+    "candidates": [
+      "Rabbanan's Proofs",
+      "Yehuda's Reply",
+      "No Interruption Rule",
+      "Rav Kahana's Statement",
+      "Yochanan: Shofar Blasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks 'in accordance with whose opinion is Rav Kahana's statement?' which matches the 'No Interruption Rule' section prose that says 'the question is raised: ke-man azla ha de-amar Rav Kahana \u2014 whose position does Rav Kahana's statement follow?'",
+      "chosen_heading": "No Interruption Rule",
+      "current_heading": "Rav Kahana's Statement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Yochanan: Shofar Blasts",
+    "candidates": [
+      "Rav Kahana's Statement",
+      "Yochanan: Shofar Blasts",
+      "Rejection of Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that Rav Kahana's statement comes to exclude Rabbi Yochanan's position about nine blasts in nine hours, which matches exactly the prose of candidate 1 describing the Gemara's answer about excluding Rabbi Yochanan's ruling.",
+      "chosen_heading": "Yochanan: Shofar Blasts",
+      "current_heading": "Yochanan: Shofar Blasts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Rejection of Yochanan",
+    "candidates": [
+      "Yochanan: Shofar Blasts",
+      "Rejection of Yochanan",
+      "Independent vs Group",
+      "Gomair Hallel Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the rejection of the possibility that Rav Kahana only meant to exclude Rabbi Yochanan's position, with the phrase 've-lo klum' proving a stricter requirement \u2014 exactly what the 'Rejection of Yochanan' section's prose describes.",
+      "chosen_heading": "Rejection of Yochanan",
+      "current_heading": "Rejection of Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Gomair Hallel Principle",
+    "candidates": [
+      "Independent vs Group",
+      "Gomair Hallel Principle",
+      "Eighteen Hallel Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is exactly the Gemara text (question and answer) that the 'Gomair Hallel Principle' prose describes \u2014 asking why the flute plays on these specific days and answering with the yachid gomer principle.",
+      "chosen_heading": "Gomair Hallel Principle",
+      "current_heading": "Gomair Hallel Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Eighteen Hallel Days",
+    "candidates": [
+      "Eighteen Hallel Days",
+      "Diaspora: Twenty-one Days",
+      "Succos vs. Pesach",
+      "Midrash: Egyptians Drown",
+      "Distinct Korbanot Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Yochanan's teaching about the eighteen days of full Hallel, which is precisely what the 'Eighteen Hallel Days' section prose discusses, including the breakdown by festival and the Diaspora addition.",
+      "chosen_heading": "Eighteen Hallel Days",
+      "current_heading": "Eighteen Hallel Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Distinct Korbanot Logic",
+    "candidates": [
+      "Diaspora: Twenty-one Days",
+      "Succos vs. Pesach",
+      "Midrash: Egyptians Drown",
+      "Distinct Korbanot Logic",
+      "Pesach Unity vs. Succos",
+      "Bracha Wording Evidence",
+      "Yachid Gomair Phrase",
+      "Half-Hallel Bracha Minhag"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question and answer about why Hallel is said every day of Sukkot but not every day of Pesach, which is precisely what candidate 1 ('Succos vs. Pesach') introduces \u2014 the question 'mai shna de-chag d'amrinan kol yoma' \u2014 while candidate 3 ('Distinct Korbanot Logic') is the essay author's own prose elaboration of that answer, not the place where the raw Talmudic text should be anchored.",
+      "chosen_heading": "Succos vs. Pesach",
+      "current_heading": "Distinct Korbanot Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Half-Hallel Bracha Minhag",
+    "candidates": [
+      "Pesach Unity vs. Succos",
+      "Bracha Wording Evidence",
+      "Yachid Gomair Phrase",
+      "Half-Hallel Bracha Minhag",
+      "Shabbat Objection",
+      "Shabbat Not Moed",
+      "Soloveitchik Distinction",
+      "Rosh Chodesh: No Melacha",
+      "Song & Kedusha Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's objection about Shabbat having distinct korbanot and why Hallel is not said, which is precisely what the 'Shabbat Objection' section's prose describes.",
+      "chosen_heading": "Shabbat Objection",
+      "current_heading": "Half-Hallel Bracha Minhag",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Song & Kedusha Link",
+    "candidates": [
+      "Shabbat Objection",
+      "Shabbat Not Moed",
+      "Soloveitchik Distinction",
+      "Rosh Chodesh: No Melacha",
+      "Song & Kedusha Link",
+      "Rosh Hashana & Yom Kippur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses why Rosh Chodesh does not require Hallel despite being called a moed \u2014 because it lacks the prohibition of melacha \u2014 which is precisely what heading 3 ('Rosh Chodesh: No Melacha') describes, while the current placement under 'Song & Kedusha Link' discusses the verse and its broader implications as the essay author's analysis.",
+      "chosen_heading": "Rosh Chodesh: No Melacha",
+      "current_heading": "Song & Kedusha Link",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Rosh Hashana & Yom Kippur",
+    "candidates": [
+      "Song & Kedusha Link",
+      "Rosh Hashana & Yom Kippur",
+      "Midrash: Books of Life"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage raises the question of why Hallel is not said on Rosh Hashana and Yom Kippur given their status as moed with issur melacha, which is precisely what the prose under 'Rosh Hashana & Yom Kippur' discusses.",
+      "chosen_heading": "Rosh Hashana & Yom Kippur",
+      "current_heading": "Rosh Hashana & Yom Kippur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Midrash: Books of Life",
+    "candidates": [
+      "Midrash: Books of Life",
+      "Lack of Simcha",
+      "Simcha on Rosh Hashana",
+      "Ashkenazi vs. Sephardi",
+      "Chanukah: Miracle Basis",
+      "Purim: Why No Hallel",
+      "Outside Eretz Yisrael",
+      "Objection: Exodus Outside",
+      "Before vs. After Entry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Rabbi Abbahu statement about the angels asking why Israel doesn't recite Hallel on Rosh Hashana and Yom Kippur, which is exactly what the 'Midrash: Books of Life' section prose describes and quotes.",
+      "chosen_heading": "Midrash: Books of Life",
+      "current_heading": "Midrash: Books of Life",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128,
+      129
+    ],
+    "current_heading": "Before vs. After Entry",
+    "candidates": [
+      "Lack of Simcha",
+      "Simcha on Rosh Hashana",
+      "Ashkenazi vs. Sephardi",
+      "Chanukah: Miracle Basis",
+      "Purim: Why No Hallel",
+      "Outside Eretz Yisrael",
+      "Objection: Exodus Outside",
+      "Before vs. After Entry",
+      "Megilla = Hallel",
+      "Rava: Still Subjects",
+      "Chanukah Independence",
+      "Rav Nachman: Hallel",
+      "Reed vs. Copper Flute",
+      "Chalil Etymology"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Outside Eretz Yisrael",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Yitzchak's answer (no shira outside Eretz Yisrael) and Rav Nachman bar Yitzchak's objection about the Exodus, which correspond exactly to headings 'Outside Eretz Yisrael' and 'Objection: Exodus Outside', but since items 1-2 form one continuous exchange they belong together under heading 5 ('Outside Eretz Yisrael') which introduces Rabbi Yitzchak's answer that items 1-2 elaborate.",
+      "second_heading": "Rav Nachman: Hallel",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cover Rav Nachman's 'kriotah zu hi Hallel' position and the reconciliation with the baraita about exile restoring suitability, which matches heading 11 ('Rav Nachman: Hallel') precisely.",
+      "current_heading": "Before vs. After Entry",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Chalil Etymology",
+    "candidates": [
+      "Megilla = Hallel",
+      "Rava: Still Subjects",
+      "Chanukah Independence",
+      "Rav Nachman: Hallel",
+      "Reed vs. Copper Flute",
+      "Chalil Etymology",
+      "Ancient Reed Flute",
+      "Gold Plating Incident",
+      "Copper Cymbals History"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Pappa's observation that chalil and avuv are the same instrument and the etymology of 'chalil' as deriving from sweetness of sound, which is exactly what the 'Chalil Etymology' section prose describes.",
+      "chosen_heading": "Chalil Etymology",
+      "current_heading": "Chalil Etymology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152
+    ],
+    "current_heading": "Copper Cymbals History",
+    "candidates": [
+      "Ancient Reed Flute",
+      "Gold Plating Incident",
+      "Copper Cymbals History",
+      "Cymbals Repair Issue",
+      "Incense Mortar",
+      "Mortar Repair Failure",
+      "Drush: Perfection Theme"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ancient Reed Flute",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the full baraita about the flute (from Moses, gold plating, removal) AND the cymbal (copper, damaged, Alexandrian repair, removal), which spans headings 0\u20133, but the baraita is one continuous quoted text \u2014 however, the essay splits the flute and cymbal stories across separate headings, and heading 0 ('Ancient Reed Flute') with its prose about the flute's origins from Moses is the START of this baraita, making it the best single home if forced to one, but the current placement under 'Copper Cymbals History' (index 2) captures the cymbal portion; given the entire baraita is one item, the best fit for the complete item 1 is heading 0 which opens the baraita discussion.",
+      "second_heading": "Incense Mortar",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the mortar passage, which belongs under heading 4 ('Incense Mortar') whose prose explicitly discusses the mortar from Moses used for compounding spices.",
+      "current_heading": "Copper Cymbals History",
+      "moved": true
+    }
+  }
+]

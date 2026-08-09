@@ -1,0 +1,418 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Abaye's Challenge",
+      "Gzerah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Abaye's argument that yediah by the nasi was necessary because the yachid/tzibur analogy can be refuted on the grounds that the nasi's offering is apt to change, which is precisely what the 'Abaye's Challenge' prose describes.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Gzerah Shavah",
+    "candidates": [
+      "Gzerah Shavah",
+      "YK vs Asham Talui",
+      "Asham Talui Function"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Abaye's gzeirah shavah argument \u2014 deriving from the verbal analogy of 'mitzvot' that extra mentions of yediah apply to post-Yom Kippur awareness \u2014 which is precisely what the 'Gzerah Shavah' section prose describes in detail.",
+      "chosen_heading": "Gzerah Shavah",
+      "current_heading": "Gzerah Shavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Asham Talui Function",
+    "candidates": [
+      "YK vs Asham Talui",
+      "Asham Talui Function",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is precisely the challenge about whether an asham talui (which comes specifically for this sin) might fully atone \u2014 unlike Yom Kippur \u2014 and Item 2 is Rava's resolution plus the follow-up about the asham talui's purpose; together they form the continuous sugya described in candidate 0's prose about 'YK vs Asham Talui,' while candidate 1's prose already presupposes this question resolved and discusses what follows.",
+      "chosen_heading": "YK vs Asham Talui",
+      "current_heading": "Asham Talui Function",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Asham Talui Function",
+      "Rav's Position",
+      "Maris Ha'ayin",
+      "Before/After Melikah",
+      "Safek Status Sealed",
+      "Sufficient Ram"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rav's Position",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 are the Gemara's initial challenge and resolution regarding the mishna's burial ruling, which the prose under 'Rav's Position' explicitly discusses \u2014 the unguarded-bird argument and the conclusion that the mishna addresses a case where she learned she did not give birth.",
+      "second_heading": "Maris Ha'ayin",
+      "second_confidence": "high",
+      "second_reason": "Items 4\u20138 shift to Rav's and Rabbi Yo\u1e25anan's rulings about the post-melikah scenario and the eating prohibition, which is precisely what the 'Maris Ha'ayin' prose discusses \u2014 Rabbi Yo\u1e25anan's gezeirah against eating lest people think a doubtful bird sin-offering may be consumed.",
+      "current_heading": "Rav's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Sufficient Ram",
+    "candidates": [
+      "Maris Ha'ayin",
+      "Before/After Melikah",
+      "Safek Status Sealed",
+      "Sufficient Ram",
+      "Misuse & Meilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna directly describes designating two sela for an asham, purchasing two rams, and the ruling that the one worth two sela is brought while the second grazes until blemished and is sold for nedava \u2014 exactly what the 'Sufficient Ram' section's prose discusses.",
+      "chosen_heading": "Sufficient Ram",
+      "current_heading": "Sufficient Ram",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Misuse & Meilah",
+    "candidates": [
+      "Misuse & Meilah",
+      "One Sufficient, One Not",
+      "Divided Usage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Candidate 2's prose explicitly anticipates the Gemara's resolution of the terminological tension in 'meilato' (whether it means the korban or the repayment), which is precisely what items 3\u20137 address, and it also describes the divided-usage Mishnah scenario of items 1\u20132.",
+      "chosen_heading": "Divided Usage",
+      "current_heading": "Misuse & Meilah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Divided Usage",
+    "candidates": [
+      "One Sufficient, One Not",
+      "Divided Usage",
+      "Reisha vs Seifa",
+      "Chomesh Returns",
+      "Language Shifts",
+      "Rav Menashya's Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's precise observation of the terminological inconsistency \u2014 that 'meilato' in the reisha means the stolen repayment while in the seifa it means the guilt-offering ram \u2014 which is exactly what candidate 2 ('Reisha vs Seifa') describes in its prose.",
+      "chosen_heading": "Reisha vs Seifa",
+      "current_heading": "Divided Usage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Rav Menashya's Q",
+    "candidates": [
+      "Reisha vs Seifa",
+      "Chomesh Returns",
+      "Language Shifts",
+      "Rav Menashya's Q",
+      "General Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rav Menashya bar Gadda's dilemma about whether accumulated one-fifths can achieve atonement, which is precisely what the prose under 'Rav Menashya's Q' discusses.",
+      "chosen_heading": "Rav Menashya's Q",
+      "current_heading": "Rav Menashya's Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "General Question",
+    "candidates": [
+      "General Question",
+      "Mishnah Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the two sides of the general dilemma \u2014 whether atonement through shevach hekdesh depends on the person's exertion \u2014 which directly corresponds to the 'General Question' prose about mitkaper b'shevach hekdesh, not the Mishnah Support section which deals with the Gemara's attempt to resolve it from the mishnah.",
+      "chosen_heading": "General Question",
+      "current_heading": "General Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Mishnah Support",
+    "candidates": [
+      "Mishnah Support",
+      "Fattening Tosefta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara sequence of raising the shevach hekdesh dilemma, bringing the mishna proof about two rams, and rejecting it via the shepherd's discount (d'ozil ro'eh gabei) \u2014 exactly what the 'Mishnah Support' prose describes.",
+      "chosen_heading": "Mishnah Support",
+      "current_heading": "Mishnah Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Fattening Tosefta",
+    "candidates": [
+      "Fattening Tosefta",
+      "Payment Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous Gemara discussion of the Tosefta about fattening a ram \u2014 the initial proof attempt, its rejection, the seifa challenge, and the resolution distinguishing the first and latter clauses \u2014 which is precisely what the 'Fattening Tosefta' prose describes in detail.",
+      "chosen_heading": "Fattening Tosefta",
+      "current_heading": "Fattening Tosefta",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Payment Difference",
+    "candidates": [
+      "Payment Difference",
+      "Elazar & Yochanan"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Payment Difference",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20133 are a continuous chain about the payment difference (tashlumei d'sela) and the gezeirah, directly matching the 'Payment Difference' prose.",
+      "second_heading": "Elazar & Yochanan",
+      "second_confidence": "high",
+      "second_reason": "Item 4 opens the unresolved question of whether one can achieve atonement with shevach hekdesh and brings a baraita as proof, matching the 'Elazar & Yochanan' prose which discusses that very question and its resolution.",
+      "current_heading": "Payment Difference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Elazar & Yochanan",
+    "candidates": [
+      "Elazar & Yochanan",
+      "Todah Child"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Elazar's dilemma and Rabbi Yochanan's astonished response, which is precisely what the prose under 'Elazar & Yochanan' discusses, including the exact quotes and their interpretation.",
+      "chosen_heading": "Elazar & Yochanan",
+      "current_heading": "Elazar & Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Todah Child",
+    "candidates": [
+      "Todah Child",
+      "Nidachim Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the same topic \u2014 Rabbi Yo\u1e25anan's ruling about the offspring of a todah offering and whether it requires loaves before or after the mother achieves atonement \u2014 which matches exactly the prose under 'Todah Child'.",
+      "chosen_heading": "Todah Child",
+      "current_heading": "Todah Child",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Nidachim Question",
+    "candidates": [
+      "Nidachim Question",
+      "Half-Ownership Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Elazar's dilemma about whether living animals can be rendered nidach and Rabbi Yochanan's puzzled response, which is precisely what the 'Nidachim Question' prose describes.",
+      "chosen_heading": "Nidachim Question",
+      "current_heading": "Nidachim Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Half-Ownership Case",
+    "candidates": [
+      "Half-Ownership Case",
+      "Three Conclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yo\u1e25anan's ruling about the half-ownership case (animal owned by two partners, consecration of halves), which is precisely what the 'Half-Ownership Case' prose section describes and analyzes.",
+      "chosen_heading": "Half-Ownership Case",
+      "current_heading": "Half-Ownership Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Three Conclusions",
+    "candidates": [
+      "Three Conclusions",
+      "Unavailable Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the three conclusions (shma mina tlat) discussed in the 'Three Conclusions' prose, which explicitly analyzes ba'alei chayim nidachin, kedushat damim madcha, and yesh dichui be-damim.",
+      "chosen_heading": "Three Conclusions",
+      "current_heading": "Three Conclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Unavailable Value",
+    "candidates": [
+      "Unavailable Value",
+      "Absolute Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Elazar's dilemma about depreciated lamb prices making a two-sela ram unavailable, which is precisely what Candidate 0's prose describes, including the exact tension between 'mivchar nidreichem' and 'kesef shekalim' formulations.",
+      "chosen_heading": "Unavailable Value",
+      "current_heading": "Unavailable Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Absolute Minimum",
+    "candidates": [
+      "Absolute Minimum",
+      "Abaye's Challenge",
+      "Rava's Challenge",
+      "Why Asham Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form one continuous sugya: Rabbi Yochanan's initial surprise at the halakha, the resolution of apparent contradictions, the statement of Rabbi Shimon ben Yochai about mechasrei kapara, and Abaye's and Rava's challenges \u2014 all belong together under the 'Absolute Minimum' heading whose prose explicitly discusses the Rabbi Yochanan/Rabbi Shimon ben Yochai teaching and its implications, while the other headings' prose describes only portions of this passage that are already addressed within that section.",
+      "chosen_heading": "Absolute Minimum",
+      "current_heading": "Absolute Minimum",
+      "moved": false
+    }
+  }
+]

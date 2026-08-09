@@ -1,0 +1,259 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Framework",
+    "candidates": [
+      "Framework",
+      "Shmuel's Preference",
+      "Rav's Equal Status",
+      "Initial Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the core Rav-Shmuel dispute about shilshul vs. zrika \u2014 the exact debate that candidate 1 ('Shmuel's Preference') describes, where Shmuel attributes the space to the party whose access is downward (shilshul) because it is easier than throwing upward (zrika).",
+      "chosen_heading": "Shmuel's Preference",
+      "current_heading": "Framework",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Initial Question",
+    "candidates": [
+      "Shmuel's Preference",
+      "Rav's Equal Status",
+      "Initial Question",
+      "Rav's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's initial challenge from the Mishnah about the courtyard/balcony case and its apparent support for Shmuel, which is precisely what the 'Initial Question' prose describes.",
+      "chosen_heading": "Initial Question",
+      "current_heading": "Initial Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rav's Answer",
+    "candidates": [
+      "Rav's Answer",
+      "Seifa Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Huna's statement resolving the question by explaining the Mishnah refers to those living on the balcony (mirpeset), which is precisely what the 'Rav's Answer' prose describes as Rav's reframing of the scenario.",
+      "chosen_heading": "Rav's Answer",
+      "current_heading": "Rav's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Seifa Resolution",
+    "candidates": [
+      "Seifa Resolution",
+      "Mupleget Distance",
+      "Well Introduction",
+      "Gemara Dilemma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the seifa objection and its resolution via 'af lachatzer/ushnayhem asurim,' including the mupleget parallel confirmation \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Seifa Resolution",
+      "current_heading": "Seifa Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Gemara Dilemma",
+    "candidates": [
+      "Mupleget Distance",
+      "Well Introduction",
+      "Gemara Dilemma",
+      "Rav Huna's Answer",
+      "Filled Well"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Well Introduction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's initial citation of the mishna about the cistern/rock and Rav Huna's clarification that 'balcony' means those living on the balcony level \u2014 exactly what heading 1 ('Well Introduction') and heading 3 ('Rav Huna's Answer') discuss, but heading 1 best captures the opening of this new mishna clause and Rav Huna's preliminary point together.",
+      "second_heading": "Gemara Dilemma",
+      "second_confidence": "high",
+      "second_reason": "Item 2 ('Granted for a rock, but what of a cistern?') opens the specific dilemma about the well that heading 2 ('Gemara Dilemma') explicitly describes \u2014 the acute problem Rav faces when the water lies deep below both parties.",
+      "current_heading": "Gemara Dilemma",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Filled Well",
+    "candidates": [
+      "Rav Huna's Answer",
+      "Filled Well",
+      "Fruit-Filled Well"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's objection-and-counter-objection exchange about the cistern full of water (bor melei'ah mayim), which is precisely what the 'Filled Well' prose describes, including the keivan d'ki malya / aderaba argument.",
+      "chosen_heading": "Filled Well",
+      "current_heading": "Filled Well",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Fruit-Filled Well",
+    "candidates": [
+      "Fruit-Filled Well",
+      "Airspace Setup",
+      "Ziz Protrusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly continue Abaye's 'cistern full of produce' answer, the tevel objection-resolution, the deika nami precision note, and the why-teach-both-cases question \u2014 exactly the content described in the 'Fruit-Filled Well' prose.",
+      "chosen_heading": "Fruit-Filled Well",
+      "current_heading": "Fruit-Filled Well",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Ziz Protrusion",
+    "candidates": [
+      "Airspace Setup",
+      "Ziz Protrusion",
+      "Rav Nachman's Wall",
+      "Gazuztraot Intro",
+      "Ledges & Partition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself introducing the chatzer/aliyah case with the lower-ten/upper-ten division, which is precisely what the 'Airspace Setup' prose describes and analyzes \u2014 the 'Ziz Protrusion' prose describes the explanatory follow-up about the ledge, which is a separate analytical section.",
+      "chosen_heading": "Airspace Setup",
+      "current_heading": "Ziz Protrusion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Ledges & Partition",
+    "candidates": [
+      "Rav Nachman's Wall",
+      "Gazuztraot Intro",
+      "Ledges & Partition",
+      "Rava bar Avin",
+      "Abaye's Formal Rules",
+      "Roof Scenario",
+      "Fixed vs. Temporary",
+      "Formal vs. Practical"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Nachman's Wall",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the 'between' inference and Rav Nachman's nineteen-handbreadth wall response, which is exactly what candidate 0's prose describes.",
+      "second_heading": "Gazuztraot Intro",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 introduce and discuss the two-balconies (gazuztraot) mishna with Rav Adda bar Ahava's and Abaye's responses, which is the content described in candidate 1's prose about the gazuztraot case.",
+      "current_heading": "Ledges & Partition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Formal vs. Practical",
+    "candidates": [
+      "Rava bar Avin",
+      "Abaye's Formal Rules",
+      "Roof Scenario",
+      "Fixed vs. Temporary",
+      "Formal vs. Practical",
+      "Rav Papa's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the Rav Nachman/Shmuel ruling about a roof adjacent to a public domain requiring a fixed ladder, which is exactly what the 'Roof Scenario' prose section describes as its topic \u2014 the current placement under 'Formal vs. Practical' is too late in the sequence, as that section's prose discusses the Gemara's answer/explanation rather than the citation of the ruling itself.",
+      "chosen_heading": "Roof Scenario",
+      "current_heading": "Formal vs. Practical",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Rav Papa's Objection",
+    "candidates": [
+      "Formal vs. Practical",
+      "Rav Papa's Objection",
+      "Principle",
+      "Irony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's objection itself, and candidate 1's prose directly describes this exact objection \u2014 that the roof may simply be practically used by reshut harabim residents (placing hats and shawls), which matches the Aramaic text precisely.",
+      "chosen_heading": "Rav Papa's Objection",
+      "current_heading": "Rav Papa's Objection",
+      "moved": false
+    }
+  }
+]

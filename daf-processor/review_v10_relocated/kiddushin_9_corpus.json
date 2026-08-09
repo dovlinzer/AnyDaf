@@ -1,0 +1,346 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Poor Person Rejection",
+    "candidates": [
+      "Dog Distraction Case",
+      "Poor Person Rejection",
+      "Tzedakah Obligation",
+      "Hava Mehava (Buttons)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the core ruling \u2014 the man's proposal, the woman's redirection to a poor person, and the eina mekudeshes outcome including the afilu ani hasamuch aleha detail \u2014 which is precisely what the 'Poor Person Rejection' prose describes.",
+      "chosen_heading": "Poor Person Rejection",
+      "current_heading": "Poor Person Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Hava Mehava (Buttons)",
+    "candidates": [
+      "Tzedakah Obligation",
+      "Hava Mehava (Buttons)",
+      "Ashkey Ashkayan (Wine)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together describe the 'hava mehava' case of a man selling beads/buttons who proposes kiddushin and the woman's doubled response, which is precisely what the 'Hava Mehava (Buttons)' section's prose discusses.",
+      "chosen_heading": "Hava Mehava (Buttons)",
+      "current_heading": "Hava Mehava (Buttons)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Ashkey Ashkayan (Wine)",
+    "candidates": [
+      "Ashkey Ashkayan (Wine)",
+      "Shadi Mishadey (Dates)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the wine/store incident with the 'ashkey ashkayan' expression, which matches exactly the prose under heading 0 about a man drinking wine in a market and Rav Chama's ruling.",
+      "chosen_heading": "Ashkey Ashkayan (Wine)",
+      "current_heading": "Ashkey Ashkayan (Wine)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Shadi Mishadey (Dates)",
+    "candidates": [
+      "Shadi Mishadey (Dates)",
+      "Single Language Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the dates/palm tree case and Rav Zevid's ruling about 'shadi mishadey', which is exactly what candidate 0's prose discusses.",
+      "chosen_heading": "Shadi Mishadey (Dates)",
+      "current_heading": "Shadi Mishadey (Dates)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Single Language Dispute",
+    "candidates": [
+      "Single Language Dispute",
+      "Summary Hilchata",
+      "Silk, Rings, Diamonds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the single-language dilemma (hav/ashkey/shadi) and the machloket between Ravina and Rav Sama bar Rakta, which is precisely what the 'Single Language Dispute' prose describes in detail.",
+      "chosen_heading": "Single Language Dispute",
+      "current_heading": "Single Language Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Silk, Rings, Diamonds",
+    "candidates": [
+      "Summary Hilchata",
+      "Silk, Rings, Diamonds",
+      "Precious Stones Issue",
+      "Writing the Shtar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the exact three hilchata rulings (shirai, Rabbi Elazar, Rava/Rav Nachman) that candidate 1's prose explicitly discusses and explains in detail, making it the clear home for this passage.",
+      "chosen_heading": "Silk, Rings, Diamonds",
+      "current_heading": "Silk, Rings, Diamonds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Writing the Shtar",
+    "candidates": [
+      "Precious Stones Issue",
+      "Writing the Shtar",
+      "Zeira's Challenge",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Writing the Shtar",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita describing how shtar kiddushin works, which is precisely what heading 1 ('Writing the Shtar') discusses, including the specific formulations 'bitecha mekudeshet li' written by the husband to the father.",
+      "second_heading": "Zeira's Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Zeira's objection about the inverted directionality of the shtar relative to a bill of sale, which is exactly what heading 2 ('Zeira's Challenge') is about.",
+      "current_heading": "Writing the Shtar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Zeira's Challenge",
+      "Rava's Resolution",
+      "Biblical Sources Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are precisely the Rava resolution and the subsequent scriptural push-back/rejection described in 'Rava's Resolution' prose, which explicitly summarizes the *sados be-kesef yiknu/yaknu* challenge and the *es biti nasati* rebuttal that appear in item 2.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Biblical Sources Debate",
+    "candidates": [
+      "Biblical Sources Debate",
+      "Minor Daughter Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about these being received halachot with scriptural support merely as asmachta, plus the alternative answer from Jeremiah 32:11 \u2014 exactly the content described in the 'Biblical Sources Debate' prose section.",
+      "chosen_heading": "Biblical Sources Debate",
+      "current_heading": "Biblical Sources Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Minor Daughter Case",
+    "candidates": [
+      "Minor Daughter Case",
+      "Adult Woman Case",
+      "Leshem Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Minor Daughter Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concerns a shtar written to the father about his daughter who has not yet reached majority (shelo bagra), matching heading 0's prose about the minor daughter case where the father's da'at is operative.",
+      "second_heading": "Adult Woman Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concerns a shtar written directly addressing the woman who has reached majority (shebagra), with her own consent (mida'atah), matching heading 1's prose about the adult woman case.",
+      "current_heading": "Minor Daughter Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Leshem Question",
+    "candidates": [
+      "Adult Woman Case",
+      "Leshem Question",
+      "Writing Knowledge Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute exactly the dilemma and resolution of Reish Lakish regarding shtar eirusin written shelo lishma, which is precisely what the 'Leshem Question' prose describes in detail.",
+      "chosen_heading": "Leshem Question",
+      "current_heading": "Leshem Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Writing Knowledge Dispute",
+    "candidates": [
+      "Writing Knowledge Dispute",
+      "Tannaim Clarification",
+      "Be'ulat Ba'al Source",
+      "Zeira's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together form the continuous dispute about writing a shtar kiddushin lishma but without the woman's knowledge, including Rav Papa's dual reasoning and the subsequent objection from the mishna about shtarei eirusin resolved via shtarei pasikta \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Writing Knowledge Dispute",
+      "current_heading": "Writing Knowledge Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Zeira's Challenge",
+    "candidates": [
+      "Tannaim Clarification",
+      "Be'ulat Ba'al Source",
+      "Zeira's Challenge",
+      "Na'arah Ha-Me'orasah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Zeira's challenge to Rabbi Abbahu about why the be'ulat ba'al verse is needed when Rebbi's verse (ki yikach) already teaches bi'ah, and the Gemara's resolution \u2014 exactly what the 'Zeira's Challenge' prose describes.",
+      "chosen_heading": "Zeira's Challenge",
+      "current_heading": "Zeira's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Na'arah Ha-Me'orasah",
+    "candidates": [
+      "Na'arah Ha-Me'orasah",
+      "Anal Sex Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Abba bar Memel's objection about how the case of na'arah ha-me'orasah with stoning could ever arise, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Na'arah Ha-Me'orasah",
+      "current_heading": "Na'arah Ha-Me'orasah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Anal Sex Resolution",
+    "candidates": [
+      "Anal Sex Resolution",
+      "Shtar Alternative",
+      "Wife vs. Shifcha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Anal Sex Resolution",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the rabbanan's anal intercourse proposal, Abaye's rejection of it, and the baraita about ten men \u2014 all of which are explicitly described in the 'Anal Sex Resolution' prose.",
+      "second_heading": "Shtar Alternative",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rav Nachman bar Yitzchak's independent shtar-based resolution, which matches exactly the 'Shtar Alternative' prose discussion.",
+      "current_heading": "Anal Sex Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Wife vs. Shifcha",
+    "candidates": [
+      "Shtar Alternative",
+      "Wife vs. Shifcha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss Rabbi Yo\u1e25anan's use of the verse 'u've'alah' to distinguish wife from Hebrew maidservant, the kal va-chomer from yevamah and its rejection, and the inference from 'im acheres yikach lo' \u2014 exactly what the 'Wife vs. Shifcha' prose describes.",
+      "chosen_heading": "Wife vs. Shifcha",
+      "current_heading": "Wife vs. Shifcha",
+      "moved": false
+    }
+  }
+]

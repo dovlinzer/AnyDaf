@@ -86,8 +86,8 @@
           "timestamp": "06:38"
         }
       ],
-      "sefaria_index": 4,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Student Questions on the Nature of Negligence, Public Funds, and the Stingy People Category",
@@ -110,8 +110,8 @@
           "timestamp": "09:03"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Braita on Leaving Jerusalem with Kodshim Meat and the Rules for Visitors Versus Residents",
@@ -140,7 +140,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Gemara's Question: Why Is the Departing Traveler Allowed to Use Temple Wood While the Mishnah Resident Is Not?",
@@ -168,7 +168,7 @@
           "timestamp": "16:57"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -192,7 +192,7 @@
           "timestamp": "19:32"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -216,7 +216,7 @@
           "timestamp": "22:06"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -245,7 +245,7 @@
           "timestamp": "23:31"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -317,8 +317,8 @@
           "timestamp": "27:02"
         }
       ],
-      "sefaria_index": 14,
-      "matched": true
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "The Gemara's Treatment of Blood-Related Invalidity and the Question of Immediate Versus Delayed Burning",
@@ -341,7 +341,7 @@
           "timestamp": "27:30"
         }
       ],
-      "sefaria_index": 15,
+      "sefaria_index": 14,
       "matched": true
     },
     {
@@ -355,8 +355,8 @@
           "timestamp": "28:30"
         }
       ],
-      "sefaria_index": 18,
-      "matched": true
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "The Purpose of the Pesuk 'Bakodesh Ba'esh Tisaref': Indicating Location, Not the Fact of Burning",
@@ -374,8 +374,8 @@
           "timestamp": "28:36"
         }
       ],
-      "sefaria_index": 22,
-      "matched": true
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "The Purpose of the Pesuk 'Bakodesh Ba'esh Tisaref': Indicating Location, Not the Fact of Burning (continued)",
@@ -388,8 +388,8 @@
           "timestamp": "29:06"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "Why Aharon's Chatas Was Not Relied Upon as a General Source, and the Concept of Horaas Sha'ah",
@@ -412,8 +412,8 @@
           "timestamp": "29:06"
         }
       ],
-      "sefaria_index": 24,
-      "matched": true
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "The Hypothetical Objection: Why Would Tumah Alone Warrant Burning If It's a Common Form of Invalidity?",
@@ -432,7 +432,7 @@
         }
       ],
       "sefaria_index": 24,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Rav Yosef's Analysis: The Debate Centers on When the Owner Problem Occurs—Before or After Zrika",
@@ -455,8 +455,8 @@
           "timestamp": "30:06"
         }
       ],
-      "sefaria_index": 26,
-      "matched": true
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "The Baraita Rule: Intrinsic Invalidity Burns Immediately; Blood or Owner Issues Wait Until Morning",
@@ -479,8 +479,8 @@
           "timestamp": "30:06"
         }
       ],
-      "sefaria_index": 27,
-      "matched": true
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "Rabbi Yochanan Ben Broka's Position: Owner Issues Are Intrinsic Even After Zrika",
@@ -503,7 +503,7 @@
           "timestamp": "30:06"
         }
       ],
-      "sefaria_index": 29,
+      "sefaria_index": 26,
       "matched": true
     }
   ],
@@ -1156,5 +1156,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "amud_b_segment_index": 13,
+  "amud_b_timestamp": "27:13",
+  "amud_b_micro_title": "Blood Cases",
+  "shiur_start_daf": 82,
+  "shiur_start_amud": "a"
 }

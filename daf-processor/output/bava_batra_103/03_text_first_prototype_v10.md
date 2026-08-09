@@ -129,6 +129,8 @@ This raises a broader question: what if a large portion of the land is not rocky
 
 Rav Papa articulates the principle for sales explicitly: *af al pi she'ein mele'im mayim* — even if the crevice is not filled with water, even if it is in principle tillable, it is still not included in the sold land. The reason he gives is: *einenu rotzeh sheyiten me'otav bemakom echad veyihyu lo kishnayim ulishlosha mekomot* — the buyer does not want to pay for one place and receive what amounts to two or three places. The buyer's expectation in purchasing a *beit kor* is a single, contiguous, flat parcel. A mound that must be climbed or a crevice that must be descended into violates that expectation, regardless of its agricultural usability. A feature defined enough by its height or depth to constitute its own space is therefore excluded from the sale and must be compensated for, whether or not one could theoretically plant there.
 
+Ravina raises a challenge to this: *matkif lah Ravina* — Ravina objects — noting that the *mishna* speaks specifically of rocks. Rocks, by their nature, are not tillable. One might therefore conclude that the relevant criterion is tillability, not geometry: a crevice should be excluded from the sale only if it cannot be planted in, mirroring the untillable character of the rocks the *mishna* discusses, and a raised feature that is merely bumpy but still tillable should always be included. The *gemara* rejects this reading. *Ki tani dumya desla'im afachot mikan* — the reason the *mishna* invoked rocks was not to define the category by untillability, but to establish the ten-*tfachim* threshold from below: even a rocky outcrop, if it does not reach ten *tfachim*, is simply part of the land and the buyer must accept it. The principle, then, is entirely about scale and spatial definition. Any feature — rocky or tillable, crevice or mound — that rises or descends ten *tfachim* constitutes its own distinct space, and the buyer who contracted for one flat unit cannot be made to accept multiple distinct units in its place.
+
 ---
 
 ## Four Kav Rule
@@ -153,6 +155,8 @@ Rav Ukva bar Chama refines this principle: the four *kav* of untillable area is 
 ### Majority Distribution
 
 Rabbi Chiya bar Abba citing Rabbi Yochanan offers a different formulation: the four *kav* is tolerable if it is spread throughout the majority — more than sixty percent — of the field. The framing here is one of distribution relative to the field as a whole. If the minor imperfections are spread across the majority of the field's expanse, they are part of the texture of the land and the buyer must accept them. But if the concentration of untillable space exceeds four *kav*, or if that four *kav* falls in less than the majority of the field — meaning its density within the area it occupies is too great — then the buyer has a valid claim.
+
+The *Rashbam* offers a illuminating gloss on this point. His language is precise: *deha Beis Kor Afar atni leh mimkar lokeach v'chulei hai lo machli* — because when the seller uses the term *Beis Kor Afar*, tillable land, he is making an implicit representation about what he is selling, and no buyer waives a deficiency this substantial. The word *afar* itself carries a commitment: this is tillable earth. When too much of it turns out not to be, the seller has misrepresented the nature of the transaction — not necessarily through fraud, but through the inherent meaning of the term he chose. The problem, then, is not merely quantitative but definitional.
 
 ---
 

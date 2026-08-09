@@ -19,8 +19,8 @@
           "timestamp": "00:09"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Debate Between Rabbi Yochanan and Reish Lakish on Machshava of Future Avodah",
@@ -54,7 +54,7 @@
         }
       ],
       "sefaria_index": 15,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Avodas Zarah Case and the Parallel Debate Structure",
@@ -144,8 +144,8 @@
           "timestamp": "17:22"
         }
       ],
-      "sefaria_index": 9,
-      "matched": true
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Rav Pappa's Challenge to Rav Ashi and the Tosafta's Interpretation",
@@ -163,7 +163,7 @@
           "timestamp": "18:13"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 6,
       "matched": false
     },
     {
@@ -187,8 +187,8 @@
           "timestamp": "22:47"
         }
       ],
-      "sefaria_index": 9,
-      "matched": false
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rav Ila's Defense of Reish Lakish Using Textual Analysis",
@@ -360,7 +360,7 @@
           "timestamp": "41:53"
         }
       ],
-      "sefaria_index": 28,
+      "sefaria_index": 27,
       "matched": true
     },
     {
@@ -457,7 +457,7 @@
           "timestamp": "54:06"
         }
       ],
-      "sefaria_index": 47,
+      "sefaria_index": 45,
       "matched": true
     },
     {
@@ -486,8 +486,8 @@
           "timestamp": "55:46"
         }
       ],
-      "sefaria_index": 47,
-      "matched": false
+      "sefaria_index": 51,
+      "matched": true
     },
     {
       "title": "Summary and Unresolved Tension",
@@ -510,7 +510,7 @@
           "timestamp": "56:20"
         }
       ],
-      "sefaria_index": 47,
+      "sefaria_index": 51,
       "matched": false
     }
   ],
@@ -790,5 +790,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 22
+  "amud_b_sefaria_index": 22,
+  "amud_b_segment_index": 11,
+  "amud_b_timestamp": "37:38",
+  "amud_b_micro_title": "Circular Reasoning",
+  "shiur_start_daf": 10,
+  "shiur_start_amud": "a"
 }

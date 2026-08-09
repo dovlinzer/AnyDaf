@@ -1,0 +1,258 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Mishnah: Wine & Straw",
+    "candidates": [
+      "Measuring Spices",
+      "New Perek: uvda d'chol",
+      "Mishnah: Wine & Straw",
+      "Rashi: uvda d'chol",
+      "Tosafot: Shabbat/YomTov",
+      "Exception: No Other Way",
+      "Rava's Takanah",
+      "Women Drawing Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the Mishnah about bringing wine jugs and straw, which is precisely what the prose under 'Mishnah: Wine & Straw' describes in detail \u2014 the hamayvee kadey yayin ruling, the straw transport rule, and the distinction between a haystack and the muktza wood storage.",
+      "chosen_heading": "Mishnah: Wine & Straw",
+      "current_heading": "Mishnah: Wine & Straw",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Women Drawing Water",
+    "candidates": [
+      "Rashi: uvda d'chol",
+      "Tosafot: Shabbat/YomTov",
+      "Exception: No Other Way",
+      "Rava's Takanah",
+      "Women Drawing Water",
+      "Rav Chanan's Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rava's Takanah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the baraita 'if impossible to modify it is permitted' and Rava's takanah in Me\u1e25oza, which match candidate 3 ('Rava's Takanah') and candidate 2 ('Exception: No Other Way') \u2014 but candidate 3's prose explicitly incorporates both the baraita exception and Rava's guidelines together.",
+      "second_heading": "Women Drawing Water",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 present Rav \u1e24anan bar Rava's challenge about women filling water jugs and Rav Ashi's detailed response showing no feasible shinui exists, which is precisely what candidate 4 ('Women Drawing Water') discusses in its prose.",
+      "current_heading": "Women Drawing Water",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Rav Chanan's Challenge",
+    "candidates": [
+      "Rav Chanan's Challenge",
+      "Shogeg vs. Mezid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the challenge posed by Rava bar Rav \u1e24anin to Abaye \u2014 the clapping/dancing case and the parallel lechi/jug case \u2014 which are precisely what candidate 0's prose discusses in detail before moving to Abaye's response in candidate 1.",
+      "chosen_heading": "Rav Chanan's Challenge",
+      "current_heading": "Rav Chanan's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Shogeg vs. Mezid",
+    "candidates": [
+      "Shogeg vs. Mezid",
+      "Tochacha Discussion",
+      "D'Oraisa Distinctions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the shogeg/mezid principle and its application to clapping/dancing, which is exactly what the 'Shogeg vs. Mezid' section's prose discusses.",
+      "chosen_heading": "Shogeg vs. Mezid",
+      "current_heading": "Shogeg vs. Mezid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "D'Oraisa Distinctions",
+    "candidates": [
+      "Tochacha Discussion",
+      "D'Oraisa Distinctions",
+      "Storage Shed Issue",
+      "Rav Kahana: Muktzah",
+      "Straw/Cedar Diff"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's rejection of the rabbinic/Torah distinction and the proof from tosefes Yom Kippur, which is precisely what the 'D'Oraisa Distinctions' prose discusses in detail.",
+      "chosen_heading": "D'Oraisa Distinctions",
+      "current_heading": "D'Oraisa Distinctions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Straw/Cedar Diff",
+    "candidates": [
+      "Storage Shed Issue",
+      "Rav Kahana: Muktzah",
+      "Straw/Cedar Diff",
+      "Mishnah: Sukkah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the complete Rav Kahana discussion \u2014 his reading of the risha, the challenge from the seifa, the cedar/muktza machmas chisaron kis resolution, and the alternative version reading from the seifa \u2014 which is precisely what candidate 1 ('Rav Kahana: Muktzah') describes in its prose, whereas candidate 2 ('Straw/Cedar Diff') describes only the resolution and the alternative reading (items 3-4), suggesting the current placement is missing items 1-2 from their proper heading.",
+      "chosen_heading": "Rav Kahana: Muktzah",
+      "current_heading": "Straw/Cedar Diff",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Mishnah: Sukkah",
+    "candidates": [
+      "Straw/Cedar Diff",
+      "Mishnah: Sukkah",
+      "Rav Yehuda: Wall Sticks",
+      "Bundle Distinct"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna stating one may not take wood from the sukka but may from near it, and the Gemara's opening question about why that distinction holds given the soter concern \u2014 are precisely the content described in the 'Mishnah: Sukkah' prose, which introduces the mishna's ruling and the gemara's immediate challenge about soter.",
+      "chosen_heading": "Mishnah: Sukkah",
+      "current_heading": "Mishnah: Sukkah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Bundle Distinct",
+    "candidates": [
+      "Rav Yehuda: Wall Sticks",
+      "Bundle Distinct",
+      "Fallen Sukkah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda/Shmuel's statement about 'near the walls' AND Rav Menashya's response, and candidate 0 ('Rav Yehuda: Wall Sticks') is explicitly about Rav Yehuda/Shmuel's interpretation while also naturally leading into Rav Menashya's rejoinder \u2014 the current placement under 'Bundle Distinct' separates the two interlinked statements when they clearly belong together under the heading that introduces the dispute.",
+      "chosen_heading": "Rav Yehuda: Wall Sticks",
+      "current_heading": "Bundle Distinct",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Fallen Sukkah",
+    "candidates": [
+      "Bundle Distinct",
+      "Fallen Sukkah",
+      "Shaky Sukkah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita quoted (ein notlin eitzim min hasukkah, Rabbi Shimon's permission, and the agreement about sukkat he-chag with the stipulation clause) is precisely the text that section 1's prose introduces and discusses, including all three elements: Rabbi Shimon's position, the agreement about sukkat he-chag, and the stipulation.",
+      "chosen_heading": "Fallen Sukkah",
+      "current_heading": "Fallen Sukkah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Shaky Sukkah",
+    "candidates": [
+      "Shaky Sukkah",
+      "Pesukim Source",
+      "Stipulation & Noy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain about the collapsed/rickety sukkah and muktze dispute (Rabbi Shimon, the oil comparison, and Rav Nachman's resolution about a shaky sukkah), which is precisely what the 'Shaky Sukkah' prose describes in detail.",
+      "chosen_heading": "Shaky Sukkah",
+      "current_heading": "Shaky Sukkah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Stipulation & Noy",
+    "candidates": [
+      "Pesukim Source",
+      "Stipulation & Noy",
+      "Esrog Comparison",
+      "Seven Days Continuous"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Pesukim Source",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the question about whether a stipulation works for a sukka and the source of its sanctity (Rav Sheshet/Rabbi Akiva/Rabbi Yehuda ben Beteira), which matches exactly the 'Pesukim Source' prose discussing that derivation.",
+      "second_heading": "Stipulation & Noy",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 cover Rav Menashya's resolution, the noy sukkah baraita, Abaye and Rava's answer about stipulation and kedushah, and the etrog comparison with the seven-days-as-one-long-day answer, all of which are discussed in the 'Stipulation & Noy' and subsequent headings \u2014 and since items 3-5 belong to 'Stipulation & Noy' and items 6-7 could split further, the dominant placement for the bulk is index 1 which covers all these topics together.",
+      "current_heading": "Stipulation & Noy",
+      "moved": true
+    }
+  }
+]

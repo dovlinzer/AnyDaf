@@ -1,0 +1,656 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Crossroads & Signs",
+    "candidates": [
+      "Crossroads & Signs",
+      "Prepare the Way",
+      "Opening Homily"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce the baraita about 'miklat' signs at crossroads \u2014 exactly what heading 0 ('Crossroads & Signs') describes in its prose, and the current placement is correct.",
+      "chosen_heading": "Crossroads & Signs",
+      "current_heading": "Crossroads & Signs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Opening Homily",
+    "candidates": [
+      "Prepare the Way",
+      "Opening Homily",
+      "Evil Produces Evil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav \u1e24ama bar \u1e24anina's ptichta introducing the parasha of arei miklat with Psalms 25:8 and the kal vachomer about sinners vs. righteous, which is precisely what the 'Opening Homily' prose describes.",
+      "chosen_heading": "Opening Homily",
+      "current_heading": "Opening Homily",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Evil Produces Evil",
+    "candidates": [
+      "Evil Produces Evil",
+      "Rashi Resolution",
+      "Inn Parable",
+      "Three Sources"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Evil Produces Evil",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Resh Lakish's opening introduction (ptichta) weaving together the two verses, which is exactly what the 'Evil Produces Evil' prose describes.",
+      "second_heading": "Inn Parable",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the inn parable itself \u2014 the two killers, the ladder, and the resolution \u2014 which is precisely what the 'Inn Parable' prose elaborates upon.",
+      "current_heading": "Evil Produces Evil",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Three Sources",
+    "candidates": [
+      "Rashi Resolution",
+      "Inn Parable",
+      "Three Sources",
+      "Bilam Example",
+      "Isaiah's Teaching",
+      "Proverbs Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage states the principle that 'along the path a person wishes to proceed, one leads him' derived from Torah, Prophets, and Writings \u2014 exactly what the 'Three Sources' section's prose describes.",
+      "chosen_heading": "Three Sources",
+      "current_heading": "Three Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Proverbs Example",
+    "candidates": [
+      "Bilam Example",
+      "Isaiah's Teaching",
+      "Proverbs Example",
+      "Rav Huna View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three prooftexts together (Torah/Balaam, Prophets/Isaiah, Writings/Proverbs) as a single Talmudic unit, and the Bilam Example heading's prose already introduces this tripartite source-list beginning with the Balaam case, making it the natural home for the entire passage.",
+      "chosen_heading": "Bilam Example",
+      "current_heading": "Proverbs Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rav Huna View",
+    "candidates": [
+      "Proverbs Example",
+      "Rav Huna View",
+      "Braita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's ruling that the blood redeemer is exempt for killing the murderer before reaching the city of refuge, which is precisely what the 'Rav Huna View' section's prose discusses.",
+      "chosen_heading": "Rav Huna View",
+      "current_heading": "Rav Huna View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Braita Challenge",
+    "candidates": [
+      "Braita Challenge",
+      "Braita Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita as an objection arguing that 'v'lo ein mishpat mavet' refers to the murderer (not the go'el hadam), which matches exactly the 'Braita Challenge' prose describing a challenge to Rav Huna's position.",
+      "chosen_heading": "Braita Challenge",
+      "current_heading": "Braita Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Braita Resolution",
+    "candidates": [
+      "Braita Resolution",
+      "Mishna Requirement",
+      "Persuasion vs Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita that resolves Rav Huna's position by showing the verse 'v'lo ein mishpat mavet' refers to the go'el hadam, which is precisely what the 'Braita Resolution' prose describes.",
+      "chosen_heading": "Braita Resolution",
+      "current_heading": "Braita Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Persuasion vs Halacha",
+    "candidates": [
+      "Mishna Requirement",
+      "Persuasion vs Halacha",
+      "Emissary Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the question of whether the Torah scholars are there to warn the blood redeemer of legal liability (halacha) versus persuade him, which is precisely what the 'Persuasion vs Halacha' section discusses.",
+      "chosen_heading": "Persuasion vs Halacha",
+      "current_heading": "Persuasion vs Halacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Emissary Value",
+    "candidates": [
+      "Emissary Value",
+      "Intent Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Meir's view that the manslaughterer speaks on his own behalf versus the Sages' response about the effectiveness of agency (shelichut), which is precisely what the 'Emissary Value' prose section addresses.",
+      "chosen_heading": "Emissary Value",
+      "current_heading": "Emissary Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Intent Distinction",
+    "candidates": [
+      "Intent Distinction",
+      "Rabbi Yose View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly analyzes the baraita's phrase 'unintentionally' and asks whether this is obvious (peshita), then answers that even intentional murderers flee to ir miklat \u2014 exactly the content described in the 'Intent Distinction' prose section.",
+      "chosen_heading": "Intent Distinction",
+      "current_heading": "Intent Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Rabbi Yose View",
+    "candidates": [
+      "Rabbi Yose View",
+      "Majority Murderers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Yose bar Yehuda's baraita about both intentional and unintentional killers fleeing to the city of refuge, the three outcomes after trial, and Rabbi Yehuda HaNasi's disagreement about intentional murderers going on their own \u2014 are precisely the content discussed in the 'Rabbi Yose View' prose, which explicitly covers both Rabbi Yose bar Yehuda's position and Rebbi's counterposition.",
+      "chosen_heading": "Rabbi Yose View",
+      "current_heading": "Rabbi Yose View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Majority Murderers",
+    "candidates": [
+      "Majority Murderers",
+      "No Elders",
+      "Ammi vs Assi",
+      "Related Extensions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Elazar's ruling about a city whose majority consists of murderers not functioning as a city of refuge, which is precisely what the 'Majority Murderers' section's prose discusses.",
+      "chosen_heading": "Majority Murderers",
+      "current_heading": "Majority Murderers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Related Extensions",
+    "candidates": [
+      "No Elders",
+      "Ammi vs Assi",
+      "Related Extensions",
+      "Question Posed",
+      "Torah Seriousness",
+      "Vayedaber Meaning",
+      "Rav Yehuda Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ammi vs Assi",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Elazar's ruling and then the Rav Ammi/Rav Assi dispute specifically about ir miklat and elders, which is precisely what headings 0 and 1 describe \u2014 and heading 1 ('Ammi vs Assi') is the best match as it covers both Elazar's position and the direct machlokes about koletet/einah koletet.",
+      "second_heading": "Related Extensions",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 extend the same Ammi/Assi dispute to ben sorer u'moreh and eglah arufah respectively, which is exactly what heading 2 ('Related Extensions') describes in its prose.",
+      "current_heading": "Related Extensions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Rav Yehuda Debate",
+    "candidates": [
+      "Question Posed",
+      "Torah Seriousness",
+      "Vayedaber Meaning",
+      "Rav Yehuda Debate",
+      "Dispute on Content"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Vayedaber Meaning",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-3 cover the question about harsh language and the full *dibur*/*yadber* discussion, which matches heading 2's prose describing the Gemara's question, counter-examples, and resolution about *dibur lachud yadber lachud*.",
+      "second_heading": "Rav Yehuda Debate",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 (the mnemonic followed by the Rabbi Yehuda/Rabbis dispute about the reason for harsh language) directly match heading 3's prose about the *shichum* vs. Torah-gravity dispute.",
+      "current_heading": "Rav Yehuda Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Dispute on Content",
+    "candidates": [
+      "Dispute on Content",
+      "Rashi Interpretation",
+      "Flax Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the dispute between Rabbi Yehuda and Rabbi Ne\u1e25emya about what Joshua wrote, and the Gemara's resolution of the 'besefer Torat Elohim' difficulty \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Dispute on Content",
+      "current_heading": "Dispute on Content",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Flax Dispute",
+    "candidates": [
+      "Rashi Interpretation",
+      "Flax Dispute",
+      "Tefillin Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the dispute about sewing a Torah scroll with linen threads, which is exactly what the 'Flax Dispute' section's prose describes.",
+      "chosen_heading": "Flax Dispute",
+      "current_heading": "Flax Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Tefillin Connection",
+    "candidates": [
+      "Tefillin Connection",
+      "Rav Chazina Testimony",
+      "High Priest Types"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tefillin Connection",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the hekesh between tefillin and Sefer Torah and the dispute about whether gidin applies to Sefer Torah, which matches exactly the 'Tefillin Connection' prose.",
+      "second_heading": "Rav Chazina Testimony",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav's testimony about seeing Rabbi Chiyya's tefillin sewn with linen and the halakhic conclusion, which matches exactly the 'Rav Chazina Testimony' prose.",
+      "current_heading": "Tefillin Connection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "High Priest Types",
+    "candidates": [
+      "Rav Chazina Testimony",
+      "High Priest Types",
+      "Rabbi Meir's View",
+      "Care Packages",
+      "Prayer Efficacy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "High Priest Types",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna text covering the types of High Priests whose death releases the murderer and the care packages practice, matching heading 1 ('High Priest Types') and heading 3 ('Care Packages') \u2014 but since the Mishna is a single unit, it best fits under heading 1 which introduces the Mishna and its enumeration of High Priest types, with item 2 being a continuation of that same Mishna.",
+      "second_heading": "Care Packages",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the Gemara deriving the scriptural basis for the three types of High Priests and Rabbi Yehuda's view, which corresponds to heading 3 ('Care Packages') \u2014 wait, actually items 3-4 are the Gemara on the derivation, which fits under heading 1 ('High Priest Types') as the Gemara elaborating on the Mishna's enumeration.",
+      "current_heading": "High Priest Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Prayer Efficacy",
+    "candidates": [
+      "Rabbi Meir's View",
+      "Care Packages",
+      "Prayer Efficacy",
+      "Leadership Responsibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about why a prayer for the Kohen Gadol's death would be effective given the verse about causeless curses, and the elder's answer about the Kohanim Gedolim's failure to pray for their generation \u2014 exactly what the 'Prayer Efficacy' section's prose describes.",
+      "chosen_heading": "Prayer Efficacy",
+      "current_heading": "Prayer Efficacy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Leadership Responsibility",
+    "candidates": [
+      "Leadership Responsibility",
+      "Wise Person Curse",
+      "Achitofel Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the alternate mishna reading about prayer for the High Priest, the Babylonian and Eretz Yisrael adages about unjust consequences, and the elder's answer citing Rava about leadership responsibility illustrated by the Rabbi Yehoshua ben Levi/lion story \u2014 are precisely the content described in the 'Leadership Responsibility' prose section.",
+      "chosen_heading": "Leadership Responsibility",
+      "current_heading": "Leadership Responsibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Achitofel Case",
+    "candidates": [
+      "Wise Person Curse",
+      "Achitofel Case",
+      "Waters Deep Story",
+      "Achitofel Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Yehuda's teaching about the curse of a Sage (kilat chacham) and then begins the Ahithophel story as its proof \u2014 this opening of the teaching belongs under 'Wise Person Curse,' which discusses exactly this principle and the word 'bechinam,' while the subsequent headings cover the narrative details of the Ahithophel story itself.",
+      "chosen_heading": "Wise Person Curse",
+      "current_heading": "Achitofel Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Achitofel Logic",
+    "candidates": [
+      "Waters Deep Story",
+      "Achitofel Logic",
+      "Achitofel Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Ahithophel's kal vachomer reasoning, his ruling of 'shari,' and David casting the shard into the depths, which directly matches the 'Achitofel Logic' prose that discusses exactly this kal vachomer construction, the sotah parallel, and the ruling \u2014 the current placement is correct.",
+      "chosen_heading": "Achitofel Logic",
+      "current_heading": "Achitofel Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Achitofel Death",
+    "candidates": [
+      "Achitofel Death",
+      "Nidui Conditional",
+      "Eli Curse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage demonstrates that David's conditional curse took effect even though Ahithophel did share his counsel (condition not met), which directly illustrates Rabbi Abahu's principle that a chacham's curse takes effect even conditionally \u2014 the core content of the 'Nidui Conditional' section.",
+      "chosen_heading": "Nidui Conditional",
+      "current_heading": "Achitofel Death",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Eli Curse",
+    "candidates": [
+      "Nidui Conditional",
+      "Eli Curse",
+      "Yehuda Curse",
+      "Moses Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text proving Rabbi Abbahu's principle through the Eli-Samuel incident, which matches exactly the prose under 'Eli Curse' describing how Eli's conditional curse to Samuel ultimately took effect despite the condition being fulfilled.",
+      "chosen_heading": "Eli Curse",
+      "current_heading": "Eli Curse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145,
+      146
+    ],
+    "current_heading": "Moses Blessing",
+    "candidates": [
+      "Yehuda Curse",
+      "Moses Blessing",
+      "Tosafot's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together narrate the story of Judah's conditional ostracism, his bones rattling in the ark, and Moses's sequential prayer restoring him \u2014 precisely what the 'Moses Blessing' prose describes in detail, including the phrase-by-phrase restoration through Deuteronomy 33:7.",
+      "chosen_heading": "Moses Blessing",
+      "current_heading": "Moses Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Tosafot's Distinction",
+    "candidates": [
+      "Tosafot's Distinction",
+      "Gmar Din",
+      "Succession Rule",
+      "No High Priest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage raises the dilemma about whether the manslaughterer returns with the death of all or just one of the enumerated High Priests, which directly pertains to the multiple categories of Kohen Gadol discussed in the 'No High Priest' section's prose about the three-fold repetition extending release to various categories.",
+      "chosen_heading": "No High Priest",
+      "current_heading": "Tosafot's Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      157,
+      158
+    ],
+    "current_heading": "No High Priest",
+    "candidates": [
+      "Gmar Din",
+      "Succession Rule",
+      "No High Priest",
+      "Absolute Restrictions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "No High Priest",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is a Gemara challenge-and-rejection about the 'no High Priest' scenario, directly engaging the mishna's case of nigmar dino belo Kohen Gadol, which is exactly what the 'No High Priest' prose discusses.",
+      "second_heading": "Succession Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening of a new Mishna (marked 'MISHNA:') covering the full range of gmar din cases including the succession rule (chozer bemitato shel sheni), which is precisely what the 'Succession Rule' prose describes.",
+      "current_heading": "No High Priest",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      161
+    ],
+    "current_heading": "Absolute Restrictions",
+    "candidates": [
+      "Absolute Restrictions",
+      "Environs Protection",
+      "Yose HaGalili"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the absolute prohibition on leaving the city of refuge under any circumstances, matching precisely the 'Absolute Restrictions' section's prose about never leaving for testimony, Yoav ben Tzeruyah, and the verse interpreted as requiring dwelling, death, and burial there.",
+      "chosen_heading": "Absolute Restrictions",
+      "current_heading": "Absolute Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      167
+    ],
+    "current_heading": "Yose HaGalili",
+    "candidates": [
+      "Environs Protection",
+      "Yose HaGalili",
+      "Akiva Position",
+      "Third Party Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the techum protection rule and the Yose HaGalili/Akiva debate as one continuous mishna unit, and the current heading's prose explicitly discusses both the debate between these rabbis and the manslaughterer leaving the protected area, making it the best single home for the entire passage.",
+      "chosen_heading": "Yose HaGalili",
+      "current_heading": "Yose HaGalili",
+      "moved": false
+    }
+  }
+]

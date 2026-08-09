@@ -150,7 +150,7 @@
           "timestamp": "48:43"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -180,7 +180,7 @@
         }
       ],
       "sefaria_index": 11,
-      "matched": false
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -558,5 +558,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 5
+  "amud_b_sefaria_index": 5,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "24:47",
+  "amud_b_micro_title": "Admission Debate",
+  "shiur_start_daf": 33,
+  "shiur_start_amud": "a"
 }

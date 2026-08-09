@@ -1,30 +1,32 @@
-# Berakhot 24 — Daf Yomi Shiur
-
+[DAF:23b]
 ## Fixed Meal Prep
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הָרוֹצֶה לִיכָּנֵס לִסְעוּדַת קֶבַע, מְהַלֵּךְ עֲשָׂרָה פְּעָמִים אַרְבַּע אַמּוֹת, אוֹ אַרְבָּעָה פְּעָמִים עֶשֶׂר אַמּוֹת, וְיִפָּנֶה, וְאַחַר כָּךְ נִכְנָס.
->
-> **Translation:** **The Sages taught: One who wishes to enter** and partake of **a regular meal** that will last for some time, **paces** a distance of **four cubits ten times, or ten cubits four times,** in order to expedite the movement of the bowels, and **defecates.** Only **then may he enter** and partake of the meal. That way he spares himself the unpleasantness of being forced to leave in the middle of the meal.
+
+
+### Remove Before Meal
 
 The *gemara* opens with a *baraita*: *harotzeh likaneis liseudat keva*, one who wishes to enter a fixed meal — not a casual snack but a serious, formal banquet from which excusing oneself mid-meal would be embarrassing — should first walk ten times four *amot* (approximately six feet each), or alternatively four times ten *amot*, pausing at each interval to attempt to relieve oneself. As Rashi explains, the walking motion can help clear the bowels. This falls under the category of *hilchos derech eretz*: the rabbis are teaching that concern for social dignity is itself a religious value. An authentically religious person takes care to behave with civility toward the social environment in which he operates.
 
-### Tefillin Removal
-
-> **Hebrew/Aramaic:** אָמַר רַבִּי יִצְחָק: הַנִּכְנָס לִסְעוּדַת קֶבַע, חוֹלֵץ תְּפִילָּיו וְאַחַר כָּךְ נִכְנָס. וּפְלִיגָא דְּרַבִּי חִיָּיא, דְּאָמַר רַבִּי חִיָּיא: מַנִּיחָן עַל שֻׁלְחָנוֹ, וְכֵן הָדוּר לוֹ.
->
-> **Translation:** On this same subject, **Rabbi Yitzḥak said: One who partakes of a regular meal removes his phylacteries and then enters,** as it is inappropriate to partake in a meal where there is frivolity while wearing phylacteries. **And** this statement **disputes** the statement **of Rabbi Ḥiyya, as Rabbi Ḥiyya said:** During a formal meal **one places** his phylacteries **on his table, and it is admirable for him** to do **so** in order that they will be available to don immediately if he so desires.
-
 From there the *gemara* turns to a more directly *halachic* ruling. Rav Yitzchak states: *hanichnas liseudat keva choletz tefillin* — one who is about to sit down to a fixed meal must first remove his *tefillin*. The background assumption is striking: a person is wearing *tefillin* throughout the entire day, and the only live questions concern when it is appropriate to remove them.
 
+[DAF:24b]
 ### Tefillin on Table
+
+> **Hebrew/Aramaic:** וְאָמַר רַבִּי חֲנִינָא: אֲנִי רָאִיתִי אֶת רַבִּי שֶׁגִּיהֵק וּפִיהֵק וְנִתְעַטֵּשׁ וְרָק
+> **Translation:** Since Rabbi Ḥanina related a story involving Rabbi Yehuda HaNasi, the Gemara cites another such story. **Rabbi Ḥanina said: I saw Rabbi** Yehuda HaNasi, while he was praying, **belch, yawn, sneeze, spit,**
+
+> **Hebrew/Aramaic:** וּמְמַשְׁמֵשׁ בְּבִגְדוֹ, אֲבָל לֹא הָיָה מִתְעַטֵּף. וּכְשֶׁהוּא מְפַהֵק הָיָה מַנִּיחַ יָדוֹ עַל סַנְטֵרוֹ.
+> **Translation:** **and** if he was stung by a louse, he may **feel** for it and remove it **with his garment, but he would not wrap himself** in his prayer shawl if it fell during prayer. **And when he would yawn he would place his hand on his chin** so that his open mouth would not be visible.
+
+> **Hebrew/Aramaic:** מֵיתִיבִי: הַמַּשְׁמִיעַ קוֹלוֹ בִּתְפִלָּתוֹ — הֲרֵי זֶה מִקְּטַנֵּי אֲמָנָה. הַמַּגְבִּיהַּ קוֹלוֹ בִּתְפִלָּתוֹ הֲרֵי זֶה מִנְּבִיאֵי הַשֶּׁקֶר.
+> **Translation:** The Gemara **raises an objection** based on a *baraita*: **One who sounds his voice during his** *Amida* **prayer is among those of little faith,** as he seems to believe that the Lord cannot hear his prayer when it is uttered silently. **One who raises his voice during prayer is** considered to be **among the false prophets,** as they too were wont to cry out and shout to their gods.
+
+> **Hebrew/Aramaic:** מְגַהֵק וּמְפַהֵק — הֲרֵי זֶה מִגַּסֵּי הָרוּחַ. הַמִּתְעַטֵּשׁ בִּתְפִלָּתוֹ — סִימָן רַע לוֹ. וְיֵשׁ אוֹמְרִים: נִיכָּר שֶׁהוּא מְכוֹעָר. הָרָק בִּתְפִלָּתוֹ — כְּאִילּוּ רָק בִּפְנֵי הַמֶּלֶךְ.
+> **Translation:** Furthermore, one who **belches and yawns** while praying **is surely among the uncouth. One who sneezes during his prayer, for him it is a bad omen. And some say: It is clear that he is repulsive.** Also, **one who spits during prayer, it is tantamount to spitting in the face of the king.** In light of all this, how could Rabbi Yehuda HaNasi have done all that while praying?
 
 Rabbi Chiya disputes not the act of removal but what to do with the *tefillin* afterward. He holds: *manichin al shulchano vechen hadur lo* — one places them on the table, and this is in fact a glory to him. Rashi identifies two distinct concerns underlying this discussion. First, *shema yishtacher betoch seudato veyitganeh bitfillav* — one might become somewhat intoxicated during the meal and behave inappropriately while wearing *tefillin*. (One might have expected the concern to be passing gas, which is a commonly cited issue in *tefillin* contexts, but Rashi identifies inebriation.) Second, Rashi explains the value of *vechen hadur lo*: *mishum demazmino veyachzor veyanichum bish'at beracha* — having the *tefillin* close at hand serves as a reminder and enables one to put them back on at the time of *Birkas Hamazon*. This is directly analogous to the familiar practice of people donning jackets and hats before *benching*.
 
 ### Until Blessing
-
-> **Hebrew/Aramaic:** וְעַד אֵימַת? אָמַר רַב נַחְמָן בַּר יִצְחָק: עַד זְמַן בְּרָכָה.
->
-> **Translation:** The Gemara asks: **And until when** in the meal must he refrain from wearing phylacteries? **Rav Naḥman bar Yitzḥak said: Until the time of the recitation of the blessing** of Grace after Meals.
 
 Rav Nachman bar Yitzchak specifies the duration of the removal: *ad zman beracha* — until the time of the blessing, meaning *Birkas Hamazon*. The implication is that the *tefillin* are to be put back on for the bentching itself.
 
@@ -32,19 +34,13 @@ Rav Nachman bar Yitzchak specifies the duration of the removal: *ad zman beracha
 
 ## Designation vs Use
 
-### Wrap Both Items
 
-> **Hebrew/Aramaic:** תָּנֵי חֲדָא: צוֹרֵר אָדָם תְּפִילָּיו עִם מְעוֹתָיו בַּאֲפַרְקְסוּתוֹ. וְתַנְיָא אִידַּךְ: לֹא יָצוֹר אָדָם.
->
-> **Translation:** **It was taught** in **one** *baraita*: **One may bundle his phylacteries with his money in his head covering [*apraksuto*], and it was taught in another** *baraita*: **One may not bundle** phylacteries and money together.
+
+### Wrap Both Items
 
 The *gemara* now cites a *baraita*: *tzorer adam tefillav im me'otav be'afarkasuto* — a person may wrap his *tefillin* together with his money in his head-scarf (*afarkasuto*), apparently a kind of cloth wrap worn around the head with hanging material that could be used to bundle items. The ruling implies that this does not automatically designate the scarf as a dedicated wrapper for *tefillin*, and it may therefore still be used for other purposes.
 
 ### Conflicting Rules
-
-> **Hebrew/Aramaic:** לָא קַשְׁיָא, הָא דְּאַזְמְנֵיהּ. הָא דְּלָא אַזְמְנֵיהּ. דְּאָמַר רַב חִסְדָּא: הַאי סוּדָרָא דִתְפִילִּין דְּאַזְמְנֵיהּ לְמֵיצַר בֵּיהּ תְּפִילִּין, צָר בֵּיהּ תְּפִילִּין — אָסוּר לְמֵיצַר בֵּיהּ פְּשִׁיטֵי, אַזְמְנֵיהּ וְלָא צָר בֵּיהּ, צָר בֵּיהּ וְלָא אַזְמְנֵיהּ — שְׁרֵי לְמֵיצַר בֵּיהּ זוּזִי.
->
-> **Translation:** The Gemara explains: **This is not difficult,** as one must distinguish and say that **this** *baraita*, which prohibits bundling phylacteries and money together, refers to a case where the vessel **was designated** for use with phylacteries, while **this** *baraita*, which permits one to do so, refers to a case where the vessel **was not designated** for that purpose. As **Rav Ḥisda said:** With regard to **this cloth** used with **phylacteries that one designated to bundle phylacteries in it,** if one already **bundled phylacteries in it then it is prohibited to bundle coins in it,** but if he only **designated it** for that purpose, **but did not yet bundle** phylacteries **in it,** or **if he bundled** phylacteries **in it** but did **not** originally **designate it** for that purpose, then **it is permitted to bundle money in it.**
 
 A second *baraita*, however, states the opposite: *lo yatzor adam* — a person may not use the same cloth as a pouch for both money and *tefillin*, even if the two items occupy separate pockets within it. The *gemara* resolves this apparent contradiction: *lo kashya — ha de'azmenei ha d'lo azmenei*. The determining factor is whether the cloth has been designated (*hazmana*) for *tefillin* use. This raises the broader *halachic* question — one that surfaces in various contexts throughout the *gemara* — of when a given object acquires a particular sanctified status: is it use alone that matters, designation alone, or the combination of both? The parallel cases include setting aside a garment for use as burial shrouds or designating a room as a *beis hakisei*.
 
@@ -54,77 +50,62 @@ Rav Chisda articulates a clear position: *hai sudra d'tefillin d'azmanya l'meitz
 
 ### Design Enough
 
-> **Hebrew/Aramaic:** וּלְאַבָּיֵי דְּאָמַר הַזְמָנָה מִילְּתָא הִיא: אַזְמְנֵיהּ אַף עַל גַּב דְּלָא צָר בֵּיהּ. צָר בֵּיהּ, אִי אַזְמְנֵיהּ — אֲסִיר, אִי לָא אַזְמְנֵיהּ — לָא.
->
-> **Translation:** **And according to Abaye, who said** that **designation is significant,** as Abaye holds that all relevant *halakhot* apply to an object designated for a specific purpose, whether or not it has been already used for that purpose, the *halakha* is: **If he designated** the cloth, **even if he did not bundle** phylacteries **in it,** he is prohibited from bundling money in it. However, if **he bundled** phylacteries **in it, if he designated** the cloth for that particular use, **it is prohibited** to bundle money in it, but **if he did not designate it, no,** it is not prohibited.
-
 Abaye takes a different position in the classic debate between *Abaye v'Rava* regarding whether *hazmana miltha hi* — whether designation alone carries *halachic* weight. According to Abaye, *hazmana* is indeed *miltha hi*: designation is sufficient and independently effective. If you designated the cloth, then *af al gav d'lo tzar bei* — even without ever having actually wrapped *tefillin* in it — it acquires the status of a *tefillin* wrapper and may not be used for other purposes. Conversely, if you actually used it for *tefillin* but never designated it as such, it does not acquire that status. One might naturally ask: after using something consistently for an extended period, is explicit mental designation still required, or does sustained use itself constitute designation? That remains a broader question, but Abaye's formal position is that designation is the operative act.
 
 ---
 
 ## Overnight Storage
 
+
+
 ### Under Pillow
 
-> **Hebrew/Aramaic:** בְּעָא מִינֵּיהּ רַב יוֹסֵף בְּרֵיהּ דְּרַב נְחוּנְיָא מֵרַב יְהוּדָה: מַהוּ שֶׁיַּנִּיחַ אָדָם תְּפִילָּיו תַּחַת מְרַאֲשׁוֹתָיו? תַּחַת מַרְגְּלוֹתָיו לָא קָא מִיבַּעְיָא לִי, שֶׁנּוֹהֵג בָּהֶן מִנְהַג בִּזָּיוֹן. כִּי קָא מִיבַּעְיָא לִי, תַּחַת מְרַאֲשׁוֹתָיו מַאי?
->
-> **Translation:** **Rav Yosef, son of Rav Neḥunya, raised a dilemma before Rav Yehuda: What is** the *halakha*; may **a man place his phylacteries** in his bed, **under his head** while he sleeps? He himself explains: With regard to whether or not one may place them **under his feet, I have no dilemma, as that would be treating them in a deprecating manner** and is certainly prohibited. **My dilemma is** whether or not one may place them **under his head; what is** the *halakha* in that case?
 
 Rav Yosef son of Rav Nechunya posed a question to Rav Yehuda: *mahu she'yanich adam tefillin tachat merashotav* — is it permissible to place *tefillin* under one's pillow at night? The question arises because sleeping with *tefillin* on is problematic due to the concern of passing gas, and simply holding them risks dropping them. Where, then, does one store them? The *gemara* is clear that storing them beneath one's feet in the bed is out of the question — *tachat margalotav*, that is outright disrespect. The question is specifically about *tachat merashotav*, under the head, which is where one stores precious items, and which therefore might be considered a sign of honor.
 
 ### Even Wife Present
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ הָכִי אָמַר שְׁמוּאֵל: מוּתָּר, אֲפִילּוּ אִשְׁתּוֹ עִמּוֹ.
->
-> **Translation:** Rav Yehuda **said to him, Shmuel said as follows: It is permitted, even** if **his wife is with him** in his bed.
-
 Rav Yehuda replied in the name of Shmuel: *mutar afillu ishto imo* — it is permissible, even if his wife is with him in the same bed. The plain implication of Shmuel's ruling encompasses even the scenario of husband and wife together in bed, presumably including the possibility of marital relations. This is, at first glance, a striking ruling.
 
 ### Wife Forbidden
 
-> **Hebrew/Aramaic:** מֵיתִיבִי: לָא יַנִּיחַ אָדָם תְּפִילָּיו תַּחַת מַרְגְּלוֹתָיו מִפְּנֵי שֶׁנּוֹהֵג בָּהֶם דֶּרֶךְ בִּזָּיוֹן, אֲבָל מַנִּיחָם תַּחַת מְרַאֲשׁוֹתָיו. וְאִם הָיְתָה אִשְׁתּוֹ עִמּוֹ — אָסוּר. הָיָה מָקוֹם שֶׁגָּבוֹהַּ שְׁלֹשָׁה טְפָחִים אוֹ נָמוּךְ שְׁלֹשָׁה טְפָחִים — מוּתָּר.
->
-> **Translation:** The Gemara **raises an objection** based on what was taught in a *baraita*: **A man may not place his phylacteries under his feet, as** in doing so, **he treats them in a deprecating manner, but he may place them under his head. And if his wife was with him, it is prohibited** even to place it under his head. **If there was a place** where he could place the phylacteries **three handbreadths above or three handbreadths below** his head **it is permissible,** as that space is sufficient for the phylacteries to be considered in a separate place.
+> **Hebrew/Aramaic:** בִּשְׁלָמָא מְגַהֵק וּמְפַהֵק לָא קַשְׁיָא: כָּאן לְאוֹנְסוֹ, כָּאן לִרְצוֹנוֹ. אֶלָּא מִתְעַטֵּשׁ אַמִּתְעַטֵּשׁ קַשְׁיָא!
+> **Translation:** The Gemara explains: **Granted,** with regard to **one who belches and yawns, it is not difficult: Here,** in the case where Rabbi Yehuda HaNasi did so, **it was involuntary** and therefore permissible; **here,** where it is considered uncouth, is in a case where **it is deliberate.** However, the contradiction **between sneezing** in the case where Rabbi Yehuda HaNasi did so **and sneezing** where it is considered a bad omen **is difficult.**
+
+> **Hebrew/Aramaic:** מִתְעַטֵּשׁ אַמִּתְעַטֵּשׁ נָמֵי לָא קַשְׁיָא, כָּאן מִלְּמַעְלָה, כָּאן מִלְּמַטָּה. דְּאָמַר רַב זֵירָא: הָא מִילְּתָא אִבַּלְעָא לִי בֵּי רַב הַמְנוּנָא וּתְקִילָא לִי כִּי כּוּלֵּי תַּלְמוּדַאי: הַמִּתְעַטֵּשׁ בִּתְפִלָּתוֹ סִימָן יָפֶה לוֹ, כְּשֵׁם שֶׁעוֹשִׂים לוֹ נַחַת רוּחַ מִלְּמַטָּה, כָּךְ עוֹשִׂים לוֹ נַחַת רוּחַ מִלְּמַעְלָה.
+> **Translation:** The Gemara responds: The contradiction **between sneezing** in one case **and sneezing** in the other case **is also not difficult: Here,** in the case of Rabbi Yehuda HaNasi, it is referring to sneezing **from above,** his nose; **here,** where it is a bad omen, is referring to sneezing **from below,** flatulence. **As Rav Zeira said: In the school of Rav Hamnuna I absorbed this matter** in passing, **and it is equal** in significance **to all the rest of my learning: One who sneezes in the midst of prayer, it is a good omen for him. Just as** the sneeze soothes his irritation, **giving him pleasure below,** it is a sign that **they are similarly giving him pleasure above.** Since Rav Zeira sneezed often, he was extremely pleased to hear this.
+
+> **Hebrew/Aramaic:** אֶלָּא רָק אַרָק קַשְׁיָא! רָק אַרָק נָמֵי לָא קַשְׁיָא, אֶפְשָׁר כִּדְרַב יְהוּדָה. דְּאָמַר רַב יְהוּדָה: הָיָה עוֹמֵד בִּתְפִילָּה וְנִזְדַּמֵּן לוֹ רוֹק — מַבְלִיעוֹ בְּטַלִּיתוֹ. וְאִם טַלִּית נָאֶה הוּא — מַבְלִיעוֹ בַּאֲפַרְקְסוּתוֹ. רָבִינָא הֲוָה קָאֵי אֲחוֹרֵי רַב אָשֵׁי, נִזְדַּמֵּן לוֹ רוֹק, פַּתְקֵיהּ לַאֲחוֹרֵיהּ. אֲמַר לֵיהּ: לָא סָבַר לַהּ מָר לְהָא דְּרַב יְהוּדָה מַבְלִיעוֹ בַּאֲפַרְקְסוּתוֹ? אֲמַר לֵיהּ: אֲנָא אֲנִינָא דַּעְתַּאי.
+> **Translation:** **However,** The contradiction **between spitting** in the case where Rabbi Yehuda HaNasi did so **and spitting** where it is deemed tantamount to spitting in the face of the king **is difficult.** The Gemara replies: The contradiction **between spitting** in one case **and spitting** in the other case **is also not difficult,** as **it is possible** to resolve it **in accordance with** the opinion of **Rav Yehuda,** as **Rav Yehuda said: One who was standing in prayer, and saliva happened** to accumulate in **his** mouth, **he absorbs it in his garment. And if it was a fine garment** and he does not want it to become sullied, **he may cover it up in his head covering.** That way, one is permitted to spit. The Gemara relates: **Ravina was standing behind Rav Ashi** during prayer when **saliva happened** to accumulate in **his** mouth, **so he discharged it behind him.** Rav Ashi **said to him:** And **does the Master not hold** in accordance with **that** statement of **Rav Yehuda, who said** that **one absorbs it in his head covering? He said to him: I am delicate,** and the mere knowledge that there is spittle in my head covering disturbs my prayer.
+
+> **Hebrew/Aramaic:** הַמַּשְׁמִיעַ קוֹלוֹ בִּתְפִלָּתוֹ הֲרֵי זֶה מִקְּטַנֵּי אֲמָנָה. אָמַר רַב הוּנָא: לֹא שָׁנוּ, אֶלָּא שֶׁיָּכוֹל לְכַוֵּון אֶת לִבּוֹ בְּלַחַשׁ, אֲבָל אֵין יָכוֹל לְכַוֵּון אֶת לִבּוֹ בְּלַחַשׁ — מוּתָּר. וְהָנֵי מִילֵּי, בְּיָחִיד, אֲבָל בְּצִיבּוּר — אָתֵי לְמִיטְרַד צִיבּוּרָא.
+> **Translation:** It was taught in a *baraita*: **One who sounds his voice during his** *Amida* **prayer is among those of little faith. Rav Huna said: This was only taught** in a case **where one is able to focus his heart** while praying silently, **but** if he **is unable to focus his heart** while praying **silently, he is permitted** to sound his voice. **This applies only to** one praying **alone,** but when he is praying **in a congregation** his voice **will come to disturb the congregation** and it is prohibited.
+
+> **Hebrew/Aramaic:** רַבִּי אַבָּא הֲוָה קָא מִשְׁתְּמִיט מִינֵּיהּ דְּרַב יְהוּדָה דַּהֲוָה קָא בָּעֵי לְמִיסַּק לְאַרְעָא דְיִשְׂרָאֵל, דְּאָמַר רַב יְהוּדָה: כׇּל הָעוֹלֶה מִבָּבֶל לְאֶרֶץ יִשְׂרָאֵל — עוֹבֵר בַּעֲשֵׂה, שֶׁנֶּאֱמַר: ״בָּבֶלָה יוּבָאוּ וְשָׁמָּה יִהְיוּ עַד יוֹם פׇּקְדִי אוֹתָם נְאֻם ה׳״. אָמַר: אֵיזִיל וְאֶשְׁמַע מִינֵּיהּ מִילְּתָא מִבֵּית וַועֲדָא, וַהֲדַר אֶפֹּיק.
+> **Translation:** The Gemara relates that **Rabbi Abba was avoiding** being seen **by** his teacher **Rav Yehuda,** as Rabbi Abba **sought to ascend to Eretz Yisrael** and his teacher disapproved, **as Rav Yehuda said: Anyone who ascends from Babylonia to Eretz Yisrael transgresses a positive commandment, as it is stated: “They shall be taken to Babylonia and there they shall remain until the day that I recall them, said the Lord”** (Jeremiah 27:22). Rabbi Abba did not want to discuss his desire to emigrate with Rav Yehuda. Nevertheless **he said: I will go and hear something from him at the hall** where the Sages **assemble,** without being seen, **and afterwards I will leave** Babylonia.
+
+> **Hebrew/Aramaic:** אֲזַל, אַשְׁכְּחֵיהּ לְתַנָּא דְּקָתָנֵי קַמֵּיהּ דְּרַב יְהוּדָה: הָיָה עוֹמֵד בִּתְפִלָּה וְנִתְעַטֵּשׁ — מַמְתִּין עַד שֶׁיִּכְלֶה הָרוּחַ וְחוֹזֵר וּמִתְפַּלֵּל. אִיכָּא דְאָמְרִי: הָיָה עוֹמֵד בִּתְפִלָּה וּבִיקֵּשׁ לְהִתְעַטֵּשׁ — מַרְחִיק לְאַחֲרָיו אַרְבַּע אַמּוֹת, וּמִתְעַטֵּשׁ, וּמַמְתִּין עַד שֶׁיִּכְלֶה הָרוּחַ, וְחוֹזֵר וּמִתְפַּלֵּל, וְאוֹמֵר: ״רִבּוֹנוֹ שֶׁל עוֹלָם, יְצַרְתָּנוּ נְקָבִים נְקָבִים חֲלוּלִים חֲלוּלִים, גָּלוּי וְיָדוּעַ לְפָנֶיךָ חֶרְפָּתֵנוּ וּכְלִימָּתֵנוּ בְּחַיֵּינוּ וּבְאַחֲרִיתֵנוּ רִמָּה וְתוֹלֵעָה״, וּמַתְחִיל מִמָּקוֹם שֶׁפָּסַק.
+> **Translation:** **He went and found the *tanna*,** who recites the tannaitic sources before the study hall, **reciting** the following *baraita* **before Rav Yehuda: One who was standing in prayer and sneezed** from below **waits until the odor dissipates and resumes praying. Some say: One who was standing in prayer when he felt the need to sneeze** from below, **retreats four cubits, sneezes, waits until the odor dissipates and resumes praying. And** before resuming his prayer, **he says: Master of the universe, You have formed us with many orifices and cavities; our disgrace and shame in life are clear and evident before You, as is our destiny with maggots and worms,** and so we should not be judged harshly. **And he resumes** his prayer **from where he stopped.**
 
 A *baraita* is then raised as a challenge: one may place *tefillin* under one's head, but *v'im hayta ishto imo, assur* — if his wife is with him, it is forbidden. The *baraita* does offer a qualification: if the spot where the *tefillin* rest is either more than three *tefachim* above the level of the bed (functioning as a kind of separate shelf-space) or lower than three *tefachim* below it (functioning as if buried), then it is permitted. But absent either of those conditions, having *tefillin* under the head while husband and wife are together is forbidden. The *gemara* concludes: *tiyuvta d'Shmuel tiyuvta* — this is a full contradiction of Shmuel's position.
 
 ### Protect Tefillin
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: אַף עַל גַּב דְּתַנְיָא תְּיוּבְתָּא דִשְׁמוּאֵל, הִלְכְתָא כְּווֹתֵיהּ.
->
-> **Translation:** **Rava said: Although** a *baraita* **was taught** that constitutes **a conclusive refutation of Shmuel, the *halakha* is in accordance with his** opinion in this matter.
-
 Remarkably, Rava then states: *af al gav d'tanya tiyuvta d'Shmuel, hilchata kevatei* — although the *baraita* contradicts Shmuel, we rule like him. This is the somewhat startling Talmudic move of *tiyuvta vehilchata* — formally contradicting an authority and yet ruling in accordance with his view. Rava explains: *kol netiruta tfei adif* — anything that better protects the *tefillin* takes precedence. This is directly analogous to the ruling discussed previously that one may hold *tefillin* in a bathroom in order to prevent them from being left unguarded — protection of the *tefillin* overrides other concerns. Here too, keeping the *tefillin* under one's pillow affords them greater protection, and that outweighs the concern about husband and wife being together. The difference from the bathroom case is that there the need was occasional and unavoidable, whereas here it recurs every night; nevertheless, Rava extends the same logic.
 
 ### Exact Placement
 
-> **Hebrew/Aramaic:** כֹּל לְנַטּוֹרִינְהוּ טְפֵי עֲדִיף. וְהֵיכָא מַנַּח לְהוּ? אָמַר רַבִּי יִרְמְיָה: בֵּין כַּר לְכֶסֶת, שֶׁלֹּא כְּנֶגֶד רֹאשׁוֹ.
->
-> **Translation:** Because **whatever** offers more **protection is preferable** even at the cost of deprecation. **And where** under his head **does he place them? Rabbi Yirmeya said:** He places them **between the pillow and the mattress, not** directly **aligned with his head** but rather a bit to the side.
-
 Having established that *tefillin* may be kept under the pillow even with one's wife present, the *gemara* turns to the specific mechanics of placement. Rabbi Yirmeyah rules: *bein kar lechesset* — between the pillow and the blanket, and *shelo keneged rosho* — not directly beneath where one's head rests, but off to the side. This is more respectful than having one's head pressing directly down on the *tefillin*.
 
-> **Hebrew/Aramaic:** וְהָא תָּנֵי רַבִּי חִיָּיא: מַנִּיחָן בְּכוֹבַע, תַּחַת מְרַאֲשׁוֹתָיו! דְּמַפֵּיק לֵיהּ לְמוּרְשָׁא דְכוֹבַע לְבַר.
->
-> **Translation:** The Gemara asks: **Didn't Rabbi Ḥiyya teach a** *baraita* that in that case **he places them in a pouch** used for phylacteries, directly **under his head?** The Gemara replies: He does so in a manner **that the bulge** in the **pouch,** where the phylacteries are, **protrudes out** and is not beneath his head.
-
-A *baraita* in the name of Rabbi Chiya appears to say something slightly different: *manichin bekova tachat merashotav* — one places the *tefillin* in a hat-like covering beneath one's head, which the *gemara* initially understands to mean that the head rests directly on top of them. Rashi identifies *kova* here as the *tefillin* bag. The *gemara* resolves the apparent tension: *damafki lei lemorsha dechova levar* — one positions the corner or bump of the *tefillin* so that it protrudes to the outside of the bag, away from where the head rests. The bag is under one's head, but the head is not resting directly on the *tefillin* themselves. A physical demonstration clarifies this: if the bag is under one's head but the *tefillin* inside are pushed to one corner pointing away, the head rests on the bag without pressing on the actual *tefillin*.
+A *baraita* in the name of Rabbi Chiya appears to say something slightly different: *manichin bekova tachat merashotav* — one places the *tefillin* in a hat-like covering beneath one's head, which the *gemara* initially understands to mean that the head rests directly on top of them. Rashi identifies *kova* here as the *tefillin* bag. The *gemara* resolves the apparent tension: *damafki lei lemorsha dechova levar* — one positions the corner or bump of the *tefillin* so that it protrudes to the outside of the bag, away from where the head rests. The bag is under the head, but the head is not resting directly on the *tefillin* themselves. A physical demonstration clarifies this: if the bag is under one's head but the *tefillin* inside are pushed to one corner pointing away, the head rests on the bag without pressing on the actual *tefillin*. It is worth noting that this same image of the bump or protrusion being turned outward as a mark of respect will reappear in the practices cited immediately below, suggesting that it reflects a broader principle about the orientation of *tefillin* rather than an incidental detail of this one ruling.
 
 ### Alternative Methods
-
-> **Hebrew/Aramaic:** בַּר קַפָּרָא צָיַיר לְהוּ בְּכִילְּתָא, וּמַפִּיק לְמוּרְשְׁהוֹן לְבַר. רַב שִׁישָׁא בְּרֵיהּ דְּרַב אִידֵּי מַנַּח לְהוּ אַשַּׁרְשִׁיפָא, וּפָרֵיס סוּדָרָא עִילָּוַיְיהוּ.
->
-> **Translation:** On this note, the Gemara relates that **Bar Kappara would tie them in** his **bed curtain and project their bulge outward. Rav Sheisha, son of Rav Idi, would place them on a bench and spread a cloth over them.**
 
 Rav Sheshet son of Rav Idi had a different practice altogether: *manach lehu ahashshifa* — he placed his *tefillin* on a stool in the room, and *uforesh sudra ilvaye* — covered them with a cloth. They were not under his head in bed at all; they were nearby on a nightstand, covered.
 
 Bar Kappara's approach is also cited: *tzayar lehu bechilta u'mafik lemorsheihen levar* — he wrapped the *tefillin* in the *kilta*, the canopy material that hung around his bed, with the bump pointing outward. Rashi explains this as meaning that the protrusion of the *tefillin* knot was turned away from the interior of the bed toward the outside — analogous, in a way, to the earlier discussion about whether *tefillin* on a wall should face toward the bathroom or toward the street. Bar Kappara was careful to orient the *tefillin* so that the bump faced outward, away from the bed, as a form of additional respect.
 
 ### Mikvah Night Test
-
-> **Hebrew/Aramaic:** אָמַר רַב הַמְנוּנָא בְּרֵיהּ דְּרַב יוֹסֵף: זִימְנָא חֲדָא הֲוָה קָאֵימְנָא קַמֵּיהּ דְּרָבָא, וַאֲמַר לִי: זִיל אַיְיתִי לִי תְּפִילִּין. וְאַשְׁכַּחְתִּינְהוּ בֵּין כַּר לְכֶסֶת, שֶׁלֹּא כְּנֶגֶד רֹאשׁוֹ. וַהֲוָה יָדַעְנָא דְּיוֹם טְבִילָה הֲוָה, וּלְאַגְמוֹרַן הֲלָכָה לְמַעֲשֶׂה הוּא דַּעֲבַד.
->
-> **Translation:** **Rav Hamnuna, son of Rav Yosef, said: I was once standing before Rava and he told me: Go** and **bring me** my **phylacteries. And I found them** in his bed, **between the mattress and the pillow, not aligned with his head. And I knew** that **it was the day of** his wife's **immersion** in the ritual bath for purification from the ritual impurity of a menstruating woman, and he certainly engaged in marital relations in order to fulfill the mitzva, **and he did so,** he sent me to bring him his phylacteries, **to teach us the practical *halakha*** in that case.
 
 Rav Hamnuna son of Rav Yosef then reports a personal testimony: *zimna chada hava yatvina kammai deRava* — "One time I was sitting before Rava, and he said to me: *zil aiti li tfillin* — go bring me my *tefillin*." Rav Hamnuna went to the room, searched, and found the *tefillin bein kar lechesset, shelo kineged rosho* — between the pillow and the blanket, exactly not opposite where his head lay, precisely as had been ruled. He further noted: *v'aydana d'yom tevila hava* — and he recognized or knew that it was the night his wife was returning from the *mikvah*. He understood that Rava was deliberately demonstrating the *halacha* in practice: that even on a night when husband and wife would be together, the *tefillin* could be kept in this manner under the pillow.
 
@@ -136,53 +117,81 @@ In passing, the *gemara* simply assumes without formal statement that the night 
 
 ## Shema Bed Rules
 
-### Two in Bed
 
-> **Hebrew/Aramaic:** בְּעָא מִינֵּיהּ רַב יוֹסֵף בְּרֵיהּ דְּרַב נְחוּנְיָא מֵרַב יְהוּדָה: שְׁנַיִם שֶׁיְּשֵׁנִים בְּמִטָּה אַחַת, מַהוּ שֶׁזֶּה יַחֲזִיר פָּנָיו וְיִקְרָא קְרִיאַת שְׁמַע, וְזֶה יַחֲזִיר פָּנָיו וְיִקְרָא קְרִיאַת שְׁמַע?
->
-> **Translation:** **Rav Yosef, son of Rav Neḥunya,** who raised a dilemma above, **raised a dilemma before Rav Yehuda: Two individuals sleeping in a single bed,** given that it was standard practice to sleep without clothing, **what is** the *halakha*; is it permissible **for this** one **to turn his head** aside **and recite *Shema* and for that** one **turns his head and recites *Shema*;** or is it prohibited because they are unclothed and are considered unfit to recite *Shema* even though they are covered with a blanket?
+
+### Two in Bed
 
 A new question is posed — again by Rav Yosef son of Rav Nechunya to Rav Yehuda: *shnayim sheyishenin bemitah achat mahu shezeh yachzir panav veyikra krias shema vezeh yachzir panav veyikra krias shema* — if two people are sleeping in one bed, may one turn his face in one direction and recite *krias shema* while the other turns in the opposite direction? This is not necessarily a husband-and-wife scenario; it could be two brothers or any two people sharing a bed, as was entirely common in earlier centuries. The *gemara* assumes throughout this passage that people sleep unclothed. The analogy to the earlier *tefillin* discussion is evident: we have moved from questions about the bathroom to questions about husband and wife, and now to the broader question of how to define *ervah* in the context of *krias shema* and *davening*. *Shemoneh esrei* is presumably said while standing — but *shema* may be said lying in bed, perhaps just before sunrise, and the question is whether doing so in the presence of another unclothed person is permissible.
 
 ### Wife Back-to-Back
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: הָכִי אָמַר שְׁמוּאֵל: וַאֲפִילּוּ אִשְׁתּוֹ עִמּוֹ.
->
-> **Translation:** **He said to him: Shmuel said as follows:** This is permitted **even** if **his wife** is in bed **with him.**
-
 Rav Yehuda replied in Shmuel's name: *afilu ishto imo* — even if his wife is with him, back-to-back suffices. Rashi clarifies that Shmuel's ruling was made specifically in the context of *krias shema*, not merely as an analogy from the *tefillin* case. If the ruling holds for a man's own wife — where one might imagine greater concern about sexual arousal — it should hold all the more obviously for a stranger.
 
 ### Wife vs Other
-
-> **Hebrew/Aramaic:** מַתְקִיף לַהּ רַב יוֹסֵף: אִשְׁתּוֹ וְלָא מִיבַּעְיָא אַחֵר?! אַדְּרַבָּה, אִשְׁתּוֹ כְּגוּפוֹ, אַחֵר לָאו כְּגוּפוֹ.
->
-> **Translation:** **Rav Yosef strongly objects to** this response: You say that he is permitted to recite *Shema* in bed with **his wife, and needless to say** he is permitted to do so when in bed with **another. On the contrary,** since **his wife is like his own flesh,** and he will not have lustful thoughts of her, it is permitted; **another is not like his own flesh** and it is prohibited.
 
 This inference is challenged by Rav Yosef: *ishto velo mibaya acher?* — you say it's permitted with his wife, and the case of somebody else goes without saying? That logic, Rav Yosef argues, is precisely backwards.
 
 ### Like Own Body
 
-Aderaba — to the contrary: *ishto k'gufo, acher lav k'gufo* — a man's wife is like his own body; another person is not. Rashi explains this in psychological terms: husband and wife who have lived together are accustomed to one another's bodies and the encounter does not provoke the same degree of arousal as proximity to a different person. Interestingly, the concern about arousal operates here even in the case of what the *gemara* presumably envisions as two men sharing a bed — the *gemara* is attentive to the possibility that bodily proximity can evoke erotic thoughts regardless of the pairing.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אִילּוּ לֹא בָּאתִי אֶלָּא לִשְׁמוֹעַ דָּבָר זֶה — דַּיִּי.
+> **Translation:** Rabbi Abba **said to him: Had I only come** to the assembly of the Sages **to hear this teaching, it would have been sufficient for me.**
+
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: הָיָה יָשֵׁן בְּטַלִּיתוֹ, וְאֵינוֹ יָכוֹל לְהוֹצִיא אֶת רֹאשׁוֹ מִפְּנֵי הַצִּנָּה — חוֹצֵץ בְּטַלִּיתוֹ עַל צַוָּארוֹ, וְקוֹרֵא קְרִיאַת שְׁמַע. וְיֵשׁ אוֹמְרִים: עַל לִבּוֹ.
+> **Translation:** **The Sages taught:** One who **was sleeping** unclothed, but was covered **with his garment, and he is unable to stick his head out** from under the garment **because of the cold,** may **form a barrier with his garment at his neck and recite *Shema*** in bed. **And some say:** He must form a barrier with his garment **at his heart.**
+
+> **Hebrew/Aramaic:** וְתַנָּא קַמָּא הֲרֵי לִבּוֹ רוֹאֶה אֶת הָעֶרְוָה! קָסָבַר לִבּוֹ רוֹאֶה אֶת הָעֶרְוָה — מוּתָּר.
+> **Translation:** The Gemara asks: **And** according to **the first *tanna*,** shouldn’t he be prohibited from reciting *Shema* because **his heart sees** his **nakedness,** as there is no barrier between them? The Gemara responds: Indeed, the first *tanna* **holds that** when **one’s heart sees** his **nakedness, it is permitted** to recite *Shema*, and a barrier is only necessary to separate between his mouth and his nakedness.
+
+> **Hebrew/Aramaic:** אָמַר רַב הוּנָא אָמַר רַבִּי יוֹחָנָן: הָיָה מְהַלֵּךְ בִּמְבוֹאוֹת הַמְטוּנָּפוֹת — מַנִּיחַ יָדוֹ עַל פִּיו וְקוֹרֵא קְרִיאַת שְׁמַע. אֲמַר לֵיהּ רַב חִסְדָּא: הָאֱלֹהִים! אִם אַמְרָהּ לִי רַבִּי יוֹחָנָן בְּפוּמֵּיהּ — לָא צָיֵיתְנָא לֵיהּ.
+> **Translation:** **Rav Huna said** that **Rabbi Yoḥanan said: One who was walking in alleyways filthy** with human excrement and he must recite *Shema*, **he places his hand over his mouth and recites *Shema*. Rav Ḥisda said to him: By God!** Even **if Rabbi Yoḥanan had said it to me** directly, **with his own mouth, I would not have obeyed him.**
+
+> **Hebrew/Aramaic:** אִיכָּא דְאָמְרִי: אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: הָיָה מְהַלֵּךְ בִּמְבוֹאוֹת הַמְטוּנָּפוֹת — מַנִּיחַ יָדוֹ עַל פִּיו וְקוֹרֵא קְרִיאַת שְׁמַע. אֲמַר לֵיהּ רַב חִסְדָּא: הָאֱלֹהִים! אִם אַמְרָהּ לִי רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי בְּפוּמֵּיהּ — לָא צָיֵיתְנָא לֵיהּ.
+> **Translation:** **Some say** this *halakha*: **Rabba bar bar Ḥana said** that **Rabbi Yehoshua ben Levi said: One who was walking in alleyways filthy** with human excrement and he must recite *Shema*, **he places his hand over his mouth and recites *Shema*. Rav Ḥisda said to him: By God!** Even **if Rabbi Yehoshua ben Levi had said it to me** directly, **with his own mouth, I would not have obeyed him.**
+
+> **Hebrew/Aramaic:** וּמִי אָמַר רַב הוּנָא הָכִי? וְהָאָמַר רַב הוּנָא: תַּלְמִיד חָכָם אָסוּר לוֹ לַעֲמוֹד בִּמְקוֹם הַטִּנּוֹפֶת לְפִי שֶׁאִי אֶפְשָׁר לוֹ לַעֲמוֹד בְּלִי הִרְהוּר תּוֹרָה! לָא קַשְׁיָא, כָּאן — בְּעוֹמֵד, כָּאן — בִּמְהַלֵּךְ.
+> **Translation:** The Gemara challenges this: **Did Rav Huna** really **say that? Didn’t Rav Huna say: A Torah scholar is prohibited from standing in a place of filth, as he is unable to stand without contemplating Torah,** and uttering *Shema* orally is graver than mere contemplation. The Gemara responds: This **is not difficult; here,** Rav Huna prohibited contemplating Torah **in** a case where one is **standing** in a place of filth, while **here** he permitted to recite *Shema* **in** a case where one is **walking** through a place of filth.
+
+> **Hebrew/Aramaic:** וּמִי אָמַר רַבִּי יוֹחָנָן הָכִי? וְהָאָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: בְּכָל מָקוֹם מוּתָּר לְהַרְהֵר בְּדִבְרֵי תוֹרָה, חוּץ מִבֵּית הַמֶּרְחָץ וּמִבֵּית הַכִּסֵּא. וְכִי תֵּימָא: הָכָא נָמֵי כָּאן בְּעוֹמֵד כָּאן בִּמְהַלֵּךְ — אִינִי, וְהָא רַבִּי אֲבָהוּ הֲוָה קָא אָזֵיל בָּתְרֵיהּ דְּרַבִּי יוֹחָנָן וַהֲוָה קָא קָרֵי קְרִיאַת שְׁמַע. כִּי מְטָא בִּמְבוֹאוֹת הַמְטוּנָּפוֹת אִשְׁתִּיק. אֲמַר לֵיהּ לְרַבִּי יוֹחָנָן: לְהֵיכָן אֶהְדַּר? אֲמַר לֵיהּ: אִם שָׁהִיתָ כְּדֵי לִגְמוֹר אֶת כּוּלָּהּ — חֲזוֹר לָרֹאשׁ!
+> **Translation:** The Gemara asks: **Did Rabbi Yoḥanan** really **say that? Didn’t Rabba bar bar Ḥana say** that **Rabbi Yoḥanan said: One is permitted to contemplate matters of Torah everywhere, except the bathhouse and the bathroom?** Consequently, it is prohibited to even contemplate Torah in a place of filth. **And if you say: Here, too,** there is a distinction between the two cases, **here,** Rabbi Yoḥanan prohibited contemplating Torah **in** a case where one is **standing; here,** Rabbi Yoḥanan permitted to recite *Shema* **in** a case where one is **walking, is that so? Wasn’t Rabbi Abbahu walking after Rabbi Yoḥanan and reciting *Shema*,** and **when he reached a filthy alleyway he fell silent** and stopped reciting *Shema*. When they emerged, Rabbi Abbahu **said to Rabbi Yoḥanan: To where** in *Shema* **should I return** and resume reciting it? Rabbi Yoḥanan **said to him: If you delayed** continuing *Shema* for an interval **sufficient to complete the entire** *Shema*, **return to the beginning** and recite it from there. From the fact that Rabbi Yoḥanan did not admonish him for interrupting his recitation, apparently he, too, prohibits reciting *Shema* while walking through a filthy alleyway.
+
+> **Hebrew/Aramaic:** הָכִי קָאָמַר לֵיהּ: לְדִידִי לָא סְבִירָא לִי, לְדִידָךְ דִּסְבִירָא לָךְ, אִם שָׁהִיתָ כְּדֵי לִגְמוֹר אֶת כּוּלָּהּ חֲזוֹר לָרֹאשׁ.
+> **Translation:** The Gemara responds: This is not a proof, as **he says to him as follows: I do not hold** that one must interrupt the recitation of *Shema* in this case, but **for you, who holds** that one must, **if you delayed** *Shema* for an interval **sufficient to complete the entire** *Shema*, **return to the beginning** and recite it from there.
+
+*Aderaba* — to the contrary: *ishto k'gufo, acher lav k'gufo* — a man's wife is like his own body; another person is not. Rashi explains this in psychological terms: husband and wife who have lived together are accustomed to one another's bodies and the encounter does not provoke the same degree of arousal as proximity to a different person. Interestingly, the concern about arousal operates here even in the case of what the *gemara* presumably envisions as two men sharing a bed — the *gemara* is attentive to the possibility that bodily proximity can evoke erotic thoughts regardless of the pairing.
 
 A more formal reading of *ishto k'gufo* is also possible: if a couple is together under a blanket, it is not considered that one person is in the presence of another's *ervah*, since the wife's body is legally assimilated to the husband's own. Under this reading, the concern is not about sexual thoughts at all but about the propriety of being under the same blanket with a distinct person who is unclothed.
 
 This raises the question of why the same logic of habituation does not apply to the *harchakos* governing a married couple during a wife's period of *niddah*. The answer is that the stakes there are categorically different — if proximity leads to transgression, the violation carries *kares*, a grave *halachic* penalty. Here, the context is a matter of two minutes of reciting *shema*, and the level of concern is calibrated accordingly.
 
+The *gemara* now pauses to examine a separate but structurally related question: whether a *talmid chacham* — a Torah scholar — may even stand in a place of filth. *V'amar Rav Huna: talmid chacham asur lo la'amod bimkom hatinofet* — Rav Huna rules that a Torah scholar is forbidden to stand in a filthy place, because it is impossible to stand there without thinking in Torah, and thinking Torah in such a place is itself problematic. This creates a difficulty: if even *hirhur*, mental engagement with Torah, is forbidden in a filthy environment, then how could earlier discussions permit saying *shema* with one's hand covering one's mouth while passing through such a place? The *gemara* answers with a distinction — *lo kashya: kan b'omeid, kan b'mhaleich* — there is no contradiction; one case refers to standing there, the other to walking through. If a person is merely passing through a filthy area and not situated within it, he is not considered to be present in that place in the full sense, and the prohibition does not apply with the same force. The underlying principle is that a person is defined by the place where he is stationed, not merely by every environment he momentarily traverses. However, a further challenge arises from the behavior of Rav Abba, who was walking behind Rabbi Yochanan while reciting *shema*, and when they reached filthy courtyards he fell silent — *ishtik* — and afterward asked Rabbi Yochanan *leheichan achazor*, to which point in *shema* he should return. Rabbi Yochanan replied that *im shehah k'dei ligmor et kullah chozer l'rosh* — if he had paused long enough to have completed the entire recitation, he must return to the beginning. The implicit premise of the exchange is that Rabbi Yochanan himself agreed that *shema* should not be recited even while walking through these filthy courtyards — which appears to contradict the earlier permission for walking through. The *gemara* resolves this tension by clarifying what Rabbi Yochanan actually meant in the earlier statement, but the episode with Rav Abba establishes that the walking-through leniency has real limits, and the question of how to calibrate one's situatedness in a place remains the operative concern throughout.
+
 ### Need Divider
 
-> **Hebrew/Aramaic:** מֵיתִיבִי: שְׁנַיִם שֶׁיְּשֵׁנִים בְּמִטָּה אַחַת — זֶה מַחֲזִיר פָּנָיו וְקוֹרֵא, וְזֶה מַחֲזִיר פָּנָיו וְקוֹרֵא. וְתַנְיָא אַחֲרִיתִי: הַיָּשֵׁן בַּמִּטָּה, וּבָנָיו וּבְנֵי בֵיתוֹ בְּצִדּוֹ, הֲרֵי זֶה לֹא יִקְרָא קְרִיאַת שְׁמַע, אֶלָּא אִם כֵּן הָיְתָה טַלִּית מַפְסֶקֶת בֵּינֵיהֶם. וְאִם הָיוּ בָּנָיו וּבְנֵי בֵיתוֹ קְטַנִּים — מוּתָּר.
->
-> **Translation:** The Gemara **raises an objection** to this from the resolution of an apparent contradiction between two *baraitot*. It was taught in one *baraita*: **Two** unclothed **individuals who are sleeping in a single bed, this** one **turns his head** aside **and recites** *Shema* **and that** one **turns his head** aside **and recites** *Shema*. **And it was taught in another** *baraita*: **One who is sleeping in bed and his** unclothed **children and members of his household are beside him, may not recite *Shema* unless a garment separates between them. If his children and the members of his household were minors, it is permitted** to recite *Shema* even without a garment separating between them.
+> **Hebrew/Aramaic:** תַּנְיָא כְּוָתֵיהּ דְּרַב הוּנָא, תַּנְיָא כְּוָתֵיהּ דְּרַב חִסְדָּא. תַּנְיָא כְּוָתֵיהּ דְּרַב הוּנָא: הַמְהַלֵּךְ בִּמְבוֹאוֹת הַמְטוּנָּפוֹת — מַנִּיחַ יָדוֹ עַל פִּיו וְיִקְרָא קְרִיאַת שְׁמַע. תַּנְיָא כְּוָתֵיהּ דְּרַב חִסְדָּא: הָיָה מְהַלֵּךְ בִּמְבוֹאוֹת הַמְטוּנָּפוֹת — לֹא יִקְרָא קְרִיאַת שְׁמַע, וְלֹא עוֹד אֶלָּא שֶׁאִם הָיָה קוֹרֵא וּבָא — פּוֹסֵק.
+> **Translation:** The Gemara cites tannaitic sources to corroborate both the lenient and the stringent opinions. **It is taught** in a *baraita* **in accordance with** the opinion **of Rav Huna, **and** it is taught** in a *baraita* **in accordance with** the opinion **of Rav Ḥisda. It is taught** in a *baraita* **in accordance with** the opinion **of Rav Huna: One who was walking in filthy alleyways places his hand over his mouth and recites *Shema*. It is taught** in a *baraita* **in accordance with** the opinion **of Rav Ḥisda: One who was walking in filthy alleyways may not recite *Shema*. Furthermore, if he was in the course of reciting** *Shema* when he reached a filthy alleyway, **he stops** his recitation at that point.
+
+> **Hebrew/Aramaic:** לֹא פָּסַק — מַאי? אָמַר רַבִּי מְיָאשָׁה בַּר בְּרֵיהּ דְּרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: עָלָיו הַכָּתוּב אוֹמֵר: ״וְגַם אֲנִי נָתַתִּי לָהֶם חֻקִּים לֹא טוֹבִים וּמִשְׁפָּטִים לֹא יִחְיוּ בָּהֶם״.
+> **Translation:** The Gemara asks: If **one did not stop, what** is his status? **Rabbi Meyasha, son of the son of Rabbi Yehoshua ben Levi, said: Of him the verse says: “Moreover, I gave them statutes that were not good and laws by which they could not live”** (Ezekiel 20:25), as in this case following these statutes and laws led to sin, not to mitzva.
+
+> **Hebrew/Aramaic:** רַב אַסִּי אָמַר: ״הוֹי מוֹשְׁכֵי הֶעָוֹן בְּחַבְלֵי הַשָּׁוְא״. רַב אַדָּא בַּר אַהֲבָה אָמַר מֵהָכָא: ״כִּי דְבַר ה׳ בָּזָה״.
+> **Translation:** **Rav Asi said** that this is derived from the verse: **“Woe to those who draw iniquity with cords of vanity”** (Isaiah 5:18), meaning that this man brings sin upon himself for naught. **Rav Adda bar Ahava said** it is derived **from here: “For he has shown contempt for the word of the Lord”** (Numbers 15:31), meaning that uttering God’s word in a place of filth shows contempt for the Lord.
+
+> **Hebrew/Aramaic:** וְאִם פָּסַק מַה שְּׂכָרוֹ? אָמַר רַבִּי אֲבָהוּ: עָלָיו הַכָּתוּב אוֹמֵר: ״וּבַדָּבָר הַזֶּה תַּאֲרִיכוּ יָמִים״.
+> **Translation:** The Gemara asks: **And if he stopped** his recitation, **what is his reward? Rabbi Abbahu said: Of him the verse says: “And it is through this matter that you will prolong your days”** (Deuteronomy 32:47), meaning that by being careful with one’s speech one merits longevity.
+
+> **Hebrew/Aramaic:** אָמַר רַב הוּנָא: הָיְתָה טַלִּיתוֹ חֲגוּרָה לוֹ עַל מׇתְנָיו — מוּתָּר לִקְרוֹת קְרִיאַת שְׁמַע. תַּנְיָא נָמֵי הָכִי: הָיְתָה טַלִּיתוֹ שֶׁל בֶּגֶד וְשֶׁל עוֹר וְשֶׁל שַׂק חֲגוּרָה עַל מׇתְנָיו — מוּתָּר לִקְרוֹת קְרִיאַת שְׁמַע.
+> **Translation:** **Rav Huna said: One** whose **garment was tied around his waist,** even if he was bare above the waist, **is permitted to recite *Shema*.** Indeed, **that** opinion **was also taught** in a *baraita*: **One** whose **garment** made **of cloth, of leather, of sack** or of any other material **was strapped around his waist, he is permitted to recite *Shema*.**
+
+> **Hebrew/Aramaic:** אֲבָל לִתְפִלָּה עַד שֶׁיְּכַסֶּה אֶת לִבּוֹ.
+> **Translation:** **However, for prayer,** one may not recite it **until he covers his heart,** because in prayer he addresses God directly and he must dress accordingly.
 
 A *baraita* is now raised as a challenge: *hayashen bemitah uvanav uvnei veito betzido harei zeh lo yikra krias shema ela im kein haytah tallis mafsekes beineihem* — if a man is sleeping in a bed with his children and the members of his household, he may not recite *krias shema* unless a garment is arranged as a divider running between the bodies. This *baraita* — which Rashi understands as encompassing one's wife as well, though Tosafot's *girsa* explicitly reads *hayashen bemitah ve'ishto imo* — poses difficulties for both Shmuel and Rav Yosef.
 
 According to Rav Yosef's distinction between wife and others, the ruling that there is no problem with a wife but a problem with *acher* resolves one *baraita* but seems to be contradicted by another. The *gemara* resolves this by arguing that both Shmuel and Rav Yosef can invoke a *tannai* dispute: there are *tannaim* who forbid even with one's wife and others who permit, and each *amora* aligns with a different *tanna*. What emerges from this resolution is a baseline on which all agree: at minimum, husband and wife back-to-back under a blanket may recite *shema*. Shmuel extends this even to unrelated people back-to-back, a position that the *gemara* does not definitively adopt or reject for the *shema* context.
 
-### Buttocks Issue
+The *gemara* then notes, in a related vein, *tanya k'vatei d'Rav Huna tanya k'vatei d'Rav Chisda* — a *baraita* was taught in accordance with Rav Huna and a *baraita* was taught in accordance with Rav Chisda. *Tanya k'vatei d'Rav Huna*: *haya mahalech bimvo'ot hametunafot meniach yado al piv v'koreh krias shema* — one who is walking through filthy courtyards may place a hand over the mouth and recite *krias shema*. *Tanya k'vatei d'Rav Chisda*: *haya mahalech bimvo'ot hametunafot lo yikra krias shema* — one walking through such courtyards may not recite *krias shema* at all, and moreover, if he was already in the middle of reciting *shema* and enters such a place, *posek* — he must interrupt. This mirrors the earlier dispute, with the additional practical question of what happens if one failed to interrupt — *lo pasak mai* — a question the *gemara* addresses sharply: *amar Rabbi Yashia bar brei d'Rabbi Yehoshua ben Levi* that the verse applies to him, *v'gam ani natati lahem chukim lo tovim u-mishpatim lo yichyu bahem* — I have given them statutes that are not good and laws by which they shall not live. The force of this is striking: by reciting the *shema*, which speaks of lengthening one's days, in an improper place, one has effectively converted the *mitzvah* into its opposite. Rav Assi frames it differently, invoking the verse *hoy moshchei he-avon b'chavlei ha-shav* — woe to those who draw iniquity upon themselves with cords of falsehood — meaning that such a person has actively pulled transgression toward himself through what was ostensibly an act of piety.
 
-> **Hebrew/Aramaic:** אָמַר מָר: זֶה מַחֲזִיר פָּנָיו וְקוֹרֵא קְרִיאַת שְׁמַע. וְהָא אִיכָּא עֲגָבוֹת! מְסַיַּיע לֵיהּ לְרַב הוּנָא, דְּאָמַר רַב הוּנָא: עֲגָבוֹת אֵין בָּהֶם מִשּׁוּם עֶרְוָה.
->
-> **Translation:** The Gemara reverts to clarify something mentioned above. **The Master said** in a *baraita*: **This** one **turns his head** aside **and recites *Shema.*** The Gemara notes a difficulty: **Aren't there** bare **buttocks?** This **supports** the opinion of **Rav Huna, as Rav Huna said: Buttocks do not constitute nakedness.
+### Buttocks Issue
 
 The *gemara* now raises a pointed question about the back-to-back scenario: *veha ika agavos* — even turned back-to-back, the two people's buttocks are touching. Are buttocks considered *ervah*? This proves to be a pivotal question because it illuminates a broader distinction in *halacha* between two categories of *ervah*.
 
@@ -190,65 +199,92 @@ The first category is objective *ervah* — the genitals — whose uncovered pre
 
 The *gemara* cites a ruling of Rav Huna in support of resolving the question: *agavos ein bahem mishum ervah* — buttocks are not considered *ervah*. The *gemara* attempts to bring further support from the ruling that a woman may sit naked on the ground and separate *challah* and make a *bracha*, since *mipnei sheyecholah lechasos paneiha bakarka* — she can cover her genital area against the ground. But a man may not do this, since in that position his genitals remain exposed. Rav Nachman bar Yitzchak demurs: that case could be explained as one where the woman is pressed so flat against the ground that even her buttocks is not exposed, so it does not necessarily prove buttocks are non-*ervah*.
 
-> **Hebrew/Aramaic:** לֵימָא מְסַיַּיע לֵיהּ לְרַב הוּנָא: הָאִשָּׁה יוֹשֶׁבֶת, וְקוֹצָה לָהּ חַלָּתָהּ עֲרוּמָּה, מִפְּנֵי שֶׁיְּכוֹלָה לְכַסּוֹת פָּנֶיהָ בְּקַרְקַע, אֲבָל לֹא הָאִישׁ.
->
-> **Translation:** Let us say that the following mishna **supports Rav Huna's** opinion: **A woman sits and separates her *ḥalla* naked,** despite the fact that she must recite a blessing over the separation of the *ḥalla*, **because she can cover her face,** a euphemism for her genitals, **in the ground, but a male,** whose genitals are not covered when he sits, may **not** do so. The mishna teaches that exposed buttocks do not constitute nakedness.
-
-> **Hebrew/Aramaic:** תַּרְגְּמַהּ רַב נַחְמָן בַּר יִצְחָק: כְּגוֹן שֶׁהָיוּ פָּנֶיהָ טוּחוֹת בַּקַּרְקַע.
->
-> **Translation:** **Rav Naḥman bar Yitzḥak interpreted** the mishna as referring to **a case where her face,** genitals, **was completely covered in the ground** such that her posterior was covered by the ground. Therefore, proof for Rav Huna's opinion cannot be brought from this mishna.
-
 The two-category structure is critical for understanding the subsequent discussion. Objectively, *ervah* is only the genitals. Everything else — the buttocks, the breasts of a woman, pubic hair — does not constitute objective *ervah*. There is a separate and distinct concern about what arouses sexual thoughts, and that category is far broader, but the two must not be conflated.
 
 ### Child Age Limits
 
-> **Hebrew/Aramaic:** אָמַר מָר: אִם הָיוּ בָּנָיו וּבְנֵי בֵיתוֹ קְטַנִּים, מוּתָּר: וְעַד כַּמָּה? אָמַר רַב חִסְדָּא: תִּינוֹקֶת בַּת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד, וְתִינוֹק בֶּן תֵּשַׁע שָׁנִים וְיוֹם אֶחָד.
->
-> **Translation:** **The Master said** in a *baraita*: **If his children and the members of his household were minors,** even though they are unclothed, **it is permitted** to recite *Shema* even without a garment separating between them. The Gemara asks: **Until what** age is one still considered a minor? **Rav Ḥisda said: A girl** until she is **three years and one day old, and a boy** until **he is nine years and one day old,** for these are the ages from which a sexual act in which they participate is considered a sexual act.
-
 The *baraita* had specified that small children (*ketanim*) sleeping in the bed present no problem for reciting *shema*. The *gemara* immediately asks *ad kama* — up to what age? Rav Pappa rules: *tinokes bas shalosh shanim veyom echad, vetinok ben tesha shanim veyom echad* — a girl of three years and a day, and a boy of nine years and a day. These ages correspond to the formal *halachic* thresholds at which certain sexual acts are deemed legally significant. This is primarily a formal, technical demarcation rather than a psychological account of when arousal becomes relevant.
 
+[DAF:24a]
 ### Puberty Ages
 
-> **Hebrew/Aramaic:** אִיכָּא דְאָמְרִי: תִּינוֹקֶת בַּת אַחַת עֶשְׂרֵה שָׁנָה וְיוֹם אֶחָד, וְתִינוֹק בֶּן שְׁתֵּים עֶשְׂרֵה שָׁנָה וְיוֹם אֶחָד. אִידֵּי וְאִידֵּי עַד כְּדַי ״שָׁדַיִם נָכֹנוּ וּשְׂעָרֵךְ צִמֵּחַ״.
->
-> **Translation:** **Some say: A girl eleven years and one day old and a boy of twelve years and one day old,** as that is the age at which they are considered adults in this regard. This age is only approximate, as the age of majority for both **this,** the boy, **and that,** the girl, is **at** the onset of puberty in accordance with the verse: **"Your breasts were formed and your hair was grown"** (Ezekiel 16:7).
+> **Hebrew/Aramaic:** וְאָמַר רַב הוּנָא: שָׁכַח וְנִכְנַס בִּתְפִילִּין לְבֵית הַכִּסֵּא — מַנִּיחַ יָדוֹ עֲלֵיהֶן עַד שֶׁיִּגְמוֹר. עַד שֶׁיִּגְמוֹר סָלְקָא דַעְתָּךְ?! אֶלָּא כִּדְאָמַר רַב נַחְמָן בַּר יִצְחָק: עַד שֶׁיִּגְמוֹר עַמּוּד רִאשׁוֹן. וְלִפְסוֹק לְאַלְתַּר וְלֵיקוּם? מִשּׁוּם דְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל, דְּתַנְיָא: רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר, עַמּוּד הַחוֹזֵר — מֵבִיא אֶת הָאָדָם לִידֵי הִדְרוֹקָן, סִילוֹן הַחוֹזֵר — מֵבִיא אֶת הָאָדָם לִידֵי יֵרָקוֹן.
+> **Translation:** **And Rav Huna said: One** who **forgot and entered the bathroom while donning phylacteries places his hand on them until he finishes.** The Gemara wonders: **Does it enter your mind** that he can do so **until he is finished? Rather, as Rav Naḥman bar Yitzḥak said: Until he finishes** discharging **the first mass** of feces, at which point he can step out and remove his phylacteries. The Gemara asks: **Let him stop immediately** when he realizes that he is donning phylacteries **and stand** and step out. The Gemara replies: He cannot do so **because of** the statement of **Rabban Shimon ben Gamliel. As it was taught** in a *baraita*: **A mass** of feces **that is held back** without having been discharged **causes a person** to suffer **from dropsy [*hidrokan*], while a stream** of urine **that is held back causes a person** to suffer **from jaundice [*yerakon*].** Since there is potential danger, the Sages did not require him to step out.
+
+> **Hebrew/Aramaic:** אִתְּמַר: צוֹאָה עַל בְּשָׂרוֹ, אוֹ יָדוֹ מוּנַּחַת בְּבֵית הַכִּסֵּא, רַב הוּנָא אָמַר: מוּתָּר לִקְרוֹת קְרִיאַת שְׁמַע. רַב חִסְדָּא אָמַר: אָסוּר לִקְרוֹת קְרִיאַת שְׁמַע. אָמַר רָבָא: מַאי טַעְמָא דְּרַב הוּנָא — דִּכְתִיב: ״כֹּל הַנְּשָׁמָה תְּהַלֵּל יָהּ הַלְלוּיָהּ״.
+> **Translation:** **It was stated** that the Sages disagreed with regard to one who had **fecal matter on his skin or** whose **hand,** but not the rest of his body, **was placed inside the bathroom.** Under those circumstances, **Rav Huna said:** He is **permitted to recite *Shema*. Rav Ḥisda said: He is prohibited from reciting *Shema*. Rava said: What is the reason for Rav Huna’s** opinion? **As it is written: “Let every soul** [***neshama***] **praise the Lord; Halleluya”** (Psalms 150:6), which he interprets as “Let everything that has breath” [*neshima*]. As long as the mouth with which one recites praise is in a place of purity, the location of the other limbs of his body is irrelevant.
+
+> **Hebrew/Aramaic:** וְרַב חִסְדָּא אָמַר: אָסוּר לִקְרוֹת קְרִיאַת שְׁמַע. מַאי טַעְמָא דְּרַב חִסְדָּא — דִּכְתִיב: ״כׇּל עַצְמוֹתַי תֹּאמַרְנָה ה׳ מִי כָמוֹךָ״.
+> **Translation:** **And Rav Ḥisda said: He is prohibited from reciting *Shema*. What is the reason for Rav Ḥisda’s** opinion? **As it is written: “All of my bones shall say: Lord, who is like You”** (Psalms 35:10). Since this praise is undertaken with one’s entire body, he may not recite *Shema* even if just one limb is not appropriately clean.
+
+> **Hebrew/Aramaic:** אִתְּמַר: רֵיחַ רַע שֶׁיֵּשׁ לוֹ עִיקָּר — רַב הוּנָא אָמַר: מַרְחִיק אַרְבַּע אַמּוֹת, וְקוֹרֵא קְרִיאַת שְׁמַע. וְרַב חִסְדָּא אָמַר: מַרְחִיק אַרְבַּע אַמּוֹת מִמְּקוֹם שֶׁפָּסַק הָרֵיחַ, וְקוֹרֵא קְרִיאַת שְׁמַע.
+> **Translation:** **It was said** that the Sages disagreed over a similar issue: What is the legal status of **a foul odor that** emanates from a visible **source? Rav Huna said: He distances himself four cubits** from the source of the odor **and recites *Shema*. And Rav Ḥisda said:** The source is irrelevant; **he distances himself four cubits from the place that the odor ceased and recites *Shema*.**
+
+> **Hebrew/Aramaic:** תַּנְיָא כְּוָתֵיהּ דְּרַב חִסְדָּא: לֹא יִקְרָא אָדָם קְרִיאַת שְׁמַע, לֹא כְּנֶגֶד צוֹאַת אָדָם, וְלֹא כְּנֶגֶד צוֹאַת כְּלָבִים, וְלֹא כְּנֶגֶד צוֹאַת חֲזִירִים, וְלֹא כְּנֶגֶד צוֹאַת תַּרְנְגוֹלִים, וְלֹא כְּנֶגֶד צוֹאַת אַשְׁפָּה שֶׁרֵיחָהּ רָע. וְאִם הָיָה מָקוֹם גָּבוֹהַּ עֲשָׂרָה טְפָחִים אוֹ נָמוּךְ עֲשָׂרָה טְפָחִים — יוֹשֵׁב בְּצִדּוֹ וְקוֹרֵא קְרִיאַת שְׁמַע. וְאִם לָאו — מַרְחִיק מִמֶּנּוּ מְלוֹא עֵינָיו. וְכֵן לִתְפִלָּה. רֵיחַ רַע שֶׁיֵּשׁ לוֹ עִיקָּר — מַרְחִיק אַרְבַּע אַמּוֹת מִמְּקוֹם הָרֵיחַ, וְקוֹרֵא קְרִיאַת שְׁמַע.
+> **Translation:** The Gemara notes that **it was taught in** a *baraita* **in accordance with** the opinion of **Rav Ḥisda: A person may not recite *Shema* opposite human excrement, dog excrement, pig excrement, chicken excrement, a foul-smelling dung-heap** or anything repulsive. **However, if** the filth **were in a place ten handbreadths above or ten handbreadths below** him, **he may sit alongside it and recite *Shema*,** as a height disparity of ten handbreadths renders it a separate domain. **And if** the filth were **not** ten handbreadths above or below him, **he must distance himself** until it remains beyond **his range of vision. And the same is true of prayer.** However, from **a foul odor with a** visible **source, he distances himself four cubits from the place** that **the odor** ceased **and recites *Shema*.**
+
+> **Hebrew/Aramaic:** אָמַר רָבָא: לֵית הִלְכְתָא כִּי הָא מַתְנִיתָא בְּכָל הָנֵי שְׁמַעְתָּתָא, אֶלָּא כִּי הָא דְּתַנְיָא: לֹא יִקְרָא אָדָם קְרִיאַת שְׁמַע לֹא כְּנֶגֶד צוֹאַת אָדָם, וְלֹא כְּנֶגֶד צוֹאַת חֲזִירִים וְלֹא כְּנֶגֶד צוֹאַת כְּלָבִים בִּזְמַן שֶׁנָּתַן עוֹרוֹת לְתוֹכָן.
+> **Translation:** **Rava said: The *halakha* is not in accordance with this *baraita* in all of these rulings,** but **rather in accordance with that which was taught** in another *baraita*: **One may neither recite *Shema* opposite human excrement** under all circumstances, **nor opposite pig excrement, nor opposite dog excrement into which skins had been placed** for tanning, but other materials do not defile the venue of prayer.
+
+> **Hebrew/Aramaic:** בְּעוֹ מִינֵּיהּ מֵרַב שֵׁשֶׁת: רֵיחַ רַע שֶׁאֵין לוֹ עִיקָּר, מַהוּ? אָמַר לְהוּ: אֲתוֹ חֲזוֹ הָנֵי צִיפֵּי דְבֵי רַב, דְּהָנֵי גָּנוּ וְהָנֵי גָּרְסִי. וְהָנֵי מִילֵּי בְּדִבְרֵי תוֹרָה, אֲבָל בִּקְרִיאַת שְׁמַע — לָא. וְדִבְרֵי תוֹרָה נָמֵי לָא אֲמַרַן, אֶלָּא דְּחַבְרֵיהּ, אֲבָל דִּידֵיהּ — לָא.
+> **Translation:** **They raised a dilemma before Rav Sheshet: What is** the legal status of **a foul odor that has no** visible **source,** e.g., flatulence? **He said to them: Come and see these mats in the study hall, as these** students **are sleeping** on them **and these** other students **are studying,** and they are not concerned about foul odors. **However, this only applies to Torah study** because there is no alternative, **but not to the recitation of *Shema*. And with regard to Torah study we said** that it is permitted **only** when the odor originated **with another, but not** when it originated **with himself.**
+
+> **Hebrew/Aramaic:** אִתְּמַר: צוֹאָה עוֹבֶרֶת — אַבָּיֵי אָמַר: מוּתָּר לִקְרוֹת קְרִיאַת שְׁמַע. רָבָא אָמַר: אָסוּר לִקְרוֹת קְרִיאַת שְׁמַע.
+> **Translation:** **It was stated** that the Sages disagreed over a parallel issue: What is the law with regard to **feces passing** before him, being moved from place to place? **Abaye stated: One is permitted to recite *Shema*** opposite it, **while Rava said: One is forbidden to recite *Shema*** opposite it.
+
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: מְנָא אָמֵינָא לַהּ — דִּתְנַן: הַטָּמֵא עוֹמֵד תַּחַת הָאִילָן וְהַטָּהוֹר עוֹבֵר — טָמֵא. טָהוֹר עוֹמֵד תַּחַת הָאִילָן וְטָמֵא עוֹבֵר — טָהוֹר. וְאִם עָמַד — טָמֵא. וְכֵן בְּאֶבֶן הַמְנוּגַּעַת.
+> **Translation:** **Abaye said: From where do I say this** *halakha*? I say this on the basis of what **we learned** in a mishna: One who is afflicted with biblical leprosy renders the area beneath any covering under which he is located ritually impure. In a case where **the ritually impure** leper **is standing under** the branches of **a tree and a ritually pure** person **passes** under the branches of that same tree, the pure person **is** rendered **impure,** as the entire area under that covering is impure. However, if the **pure person is standing under the tree and the impure** leper **passes, he** remains **pure. And if** the leper **stopped** under the tree, the pure person is immediately rendered **impure. The same is true with regard to a stone afflicted** with biblical leprosy (see Leviticus 14), in that if it is merely being moved from place to place, it does not cause impurity. The upshot is that impurity is only disseminated in all directions when the source of the impurity is stationary.
+
+> **Hebrew/Aramaic:** וְרָבָא אָמַר לָךְ: הָתָם בִּקְבִיעוּתָא תַּלְיָא מִילְּתָא, דִּכְתִיב ״בָּדָד יֵשֵׁב מִחוּץ לַמַּחֲנֶה מוֹשָׁבוֹ״. הָכָא, ״וְהָיָה מַחֲנֶיךָ קָדוֹשׁ״ אָמַר רַחֲמָנָא, וְהָא לֵיכָּא.
+> **Translation:** **And Rava** could have **said to you: There,** in the case of leprosy, **it is contingent upon the permanence** of the place, **as** with regard to the leper **it is written: “He shall dwell alone; outside the camp shall his dwelling be”** (Leviticus 13:46). His impurity is in his permanent dwelling-place. **Here,** with regard to the obligation to distance oneself from something repulsive, **the Torah stated** the principle: **“And your camp shall be holy”** (Deuteronomy 23:15), **and there is no** holiness in those circumstances.
+
+> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: פִּי חֲזִיר כְּצוֹאָה עוֹבֶרֶת דָּמֵי. פְּשִׁיטָא! לָא צְרִיכָא אַף עַל גַּב דְּסָלֵיק מִנַּהֲרָא.
+> **Translation:** On this topic **Rav Pappa said: The mouth of a pig is like passing feces.** The Gemara asks: **That is obvious.** The Gemara replies: **No,** this *halakha* is only **necessary** to teach that **even though** the pig **emerged from the river** and one might assume that its mouth was thereby cleansed, it never becomes completely clean.
+
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה: סְפֵק צוֹאָה — אֲסוּרָה. סְפֵק מֵי רַגְלַיִם — מוּתָּרִים. אִיכָּא דְאָמְרִי, אָמַר רַב יְהוּדָה: סְפֵק צוֹאָה, בַּבַּיִת — מוּתֶּרֶת, בָּאַשְׁפָּה — אֲסוּרָה. סְפֵק מֵי רַגְלַיִם — אֲפִילּוּ בָּאַשְׁפָּה נָמֵי מוּתָּרִין.
+> **Translation:** **Rav Yehuda said:** If there is **uncertainty** as to the presence of **feces,** e.g., whether something is or is not feces, and therefore whether or not one is permitted to utter sacred matters in its presence, **it is prohibited** to do so. However, if there is **uncertainty** as to the presence of **urine, it is permitted** to do so. **Some say** an alternative version of this. **Rav Yehuda said:** If there is **uncertainty** as to the presence of **feces, in the home** one may assume that there is no feces present and **it is permitted** to speak sacred matters, but if there is doubt as to the presences of feces **in the dung-heap** it is **forbidden** to do so. If there is **uncertainty** as to the presence of **urine,** however, **even in the dung-heap it is permitted** to do so.
+
+> **Hebrew/Aramaic:** סָבַר לַהּ כִּי הָא דְּרַב הַמְנוּנָא, דְּאָמַר רַב הַמְנוּנָא: לֹא אָסְרָה תּוֹרָה אֶלָּא כְּנֶגֶד עַמּוּד בִּלְבַד.
+> **Translation:** **He holds in accordance with that which Rav Hamnuna** said, **as Rav Hamnuna said: The Torah prohibited** the utterance of sacred matters **only opposite the stream** of urine.
+
+> **Hebrew/Aramaic:** וְכִדְרַבִּי יוֹנָתָן. דְּרַבִּי יוֹנָתָן רָמֵי: כְּתִיב ״וְיָד תִּהְיֶה לְךָ מִחוּץ לַמַּחֲנֶה וְיָצָאתָ שָׁמָּה חוּץ״, וּכְתִיב: ״וְיָתֵד תִּהְיֶה לְךָ וְגוֹ׳ וְכִסִּיתָ אֶת צֵאָתֶךָ״.
+> **Translation:** **And in accordance with** the opinion of **Rabbi Yonatan, as Rabbi Yonatan** raised a **contradiction** between two verses: On the one hand **it is written: “You shall also have a place outside the camp, to which you will go”** (Deuteronomy 23:13), meaning that one must exit the camp before attending to his bodily needs but there is no obligation to cover it; **and it is written** in another verse: **“And you shall have a spade** among your weapons; and when you ease yourself outside, you shall dig with it, and turn back **and cover your excrement”** (Deuteronomy 23:14), indicating a clear obligation to conceal one’s excrement.
+
+> **Hebrew/Aramaic:** הָא כֵּיצַד? כָּאן בִּגְדוֹלִים, כָּאן בִּקְטַנִּים. אַלְמָא קְטַנִּים לֹא אָסְרָה תּוֹרָה אֶלָּא כְּנֶגֶד עַמּוּד בִּלְבַד. הָא נְפוּל לְאַרְעָא — שְׁרֵי, וְרַבָּנַן הוּא דִּגְזַרוּ בְּהוּ, וְכִי גְזַרוּ בְּהוּ רַבָּנַן — בְּוַדָּאָן, אֲבָל בִּסְפֵקָן — לָא גְזוּר.
+> **Translation:** He resolves this contradiction: **How is this** resolved? **Here,** where one is required to conceal his bodily needs, **it refers to feces; here,** where there is no requirement to conceal his bodily needs, **it refers to urine. Consequently,** with regard to **urine,** reciting *Shema* **was only prohibited by Torah law opposite the stream** of urine, **but once it has fallen to the ground, it is permitted. And the Sages are those who issued a decree with regard to** urine. **And when they issued a decree, it was only in** a case of **their certain** presence, **but in** a case of **their uncertain** presence, **they did not issue a decree.**
+
+> **Hebrew/Aramaic:** וּבְוַדָּאָן עַד כַּמָּה? אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: כׇּל זְמַן שֶׁמַּטְפִּיחִין. וְכֵן אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: כׇּל זְמַן שֶׁמַּטְפִּיחִין. וְכֵן אָמַר עוּלָּא: כׇּל זְמַן שֶׁמַּטְפִּיחִין. גְּנִיבָא מִשְּׁמֵיהּ דְּרַב אָמַר: כׇּל זְמַן שֶׁרִשּׁוּמָן נִיכָּר.
+> **Translation:** The Gemara asks: **In a case of the certain** presence of urine, **until when** and in what state does its presence preclude one from uttering sacred matters? **Rav Yehuda said** that **Shmuel said: As long as it** is wet enough to **moisten** the hands of one who touches it. **And so too Rabba bar bar Ḥana said** that **Rabbi Yoḥanan said: As long as it moistens. And so too Ulla said: As long as it moistens. Geniva in the name of Rav said:** It is forbidden **as long as its mark is apparent** on the ground.
+
+> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף: שְׁרָא לֵיהּ מָרֵיהּ לִגְנִיבָא, הַשְׁתָּא צוֹאָה אָמַר רַב יְהוּדָה אָמַר רַב כֵּיוָן שֶׁקָּרְמוּ פָּנֶיהָ — מוּתָּר, מֵי רַגְלַיִם מִיבַּעְיָא?!
+> **Translation:** **Rav Yosef said: May** God, **his Master, forgive Geniva,** as Rav could have said no such thing. **Now,** in the case of **feces, Rav Yehuda said** that **Rav said: Once its surface has** dried sufficiently to form a **crust, one is permitted** to utter sacred matters opposite it; **is it necessary** to say that opposite **urine** it is permitted once it dries?
+
+> **Hebrew/Aramaic:** אָמַר לֵיהּ אַבָּיֵי: מַאי חָזֵית דְּסָמְכַתְּ אַהָא, סְמוֹךְ אַהָא, דְּאָמַר רַבָּה בַּר רַב הוּנָא אָמַר רַב: צוֹאָה, אֲפִילּוּ כְּחֶרֶס — אֲסוּרָה.
+> **Translation:** **Abaye said to him: What did you see that** led **you to rely on that** *halakha*? **Rely on this** *halakha*; **as Rabba bar Rav Huna said** that **Rav said:** Uttering sacred matters opposite **feces, even** if it is as dry **as earthenware, is prohibited.**
+
+> **Hebrew/Aramaic:** וְהֵיכִי דָּמֵי צוֹאָה כְּחֶרֶס? אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: כׇּל זְמַן שֶׁזּוֹרְקָה וְאֵינָהּ נִפְרֶכֶת. וְאִיכָּא דְאָמְרִי: כׇּל זְמַן שֶׁגּוֹלְלָהּ וְאֵינָהּ נִפְרֶכֶת.
+> **Translation:** The Gemara asks: **What are the circumstances** of **feces like earthenware? Rabba bar bar Ḥana said** that **Rabbi Yoḥanan said: As long as one throws it and it does not crumble,** it is still considered moist. **And some say: As long as one** can **roll it** from place to place **and it does not crumble.**
 
 A second opinion is offered: *tinokes bas achas esreh shanah veyom echad, vetinok ben shtem esreh shanah veyom echad* — a girl from eleven years and a day, and a boy from twelve years and a day, which is one year before the onset of *halachic* adulthood. The source is the verse from *Yechezkel* describing physical maturity: *ad kedei shedadayim nachonu use'arech tzimayach* — until the breasts have ripened and hair has sprouted. This opinion is concerned with the onset of actual sexual characteristics and the arousal they may produce. Once a child begins showing signs of physical maturity — early secondary sexual characteristics — it is no longer appropriate for them to share the bed with a parent in a state of undress, at least not in the context of reciting *shema*.
 
 Rashi's commentary suggests the concern here extends beyond the specific context of *shema* recitation to a more general question of appropriateness of shared sleeping. The first opinion (three-year-old girl, nine-year-old boy) engages formal *halachic* categories; the second opinion (eleven and twelve) engages the reality of incipient desire. Neither opinion, it should be noted, eliminates the concern entirely — both recognize that beyond a certain point, a parent and child sharing a bed in the nude is problematic.
 
-The *gemara* then returns to the question of how we rule regarding Shmuel's position on the *shema* case, just as Rava ruled like Shmuel for the *tefillin* case. Rav Kahana asks Rav Ashi: given that Rava ruled like Shmuel in the *tefillin* context for the sake of protection, do we likewise rule like Shmuel for the *shema* context? Rav Ashi's response is pointed: *atu kuleihu be'chada machisa machsinhu?* — are they all woven from the same cloth? *Heicha de'isamar isamar, heicha de'lo isamar lo isamar* — where a ruling was stated, it was stated; where it was not stated, it was not. The leniency Rava granted in the *tefillin* case rested on a specific rationale of protection; that rationale does not automatically migrate to the *shema* context.
-
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב כָּהֲנָא לְרַב אָשֵׁי: הָתָם אָמַר רָבָא: אַף עַל גַּב דִּתְיוּבְתָּא דִּשְׁמוּאֵל, הִלְכְתָא כְּווֹתֵיהּ דִּשְׁמוּאֵל. הָכָא מַאי? אֲמַר לֵיהּ: אַטּוּ כּוּלְּהוּ בַּחֲדָא מְחִתָא מְחִתִינְהוּ?
->
-> **Translation:** **Rav Kahana said to Rav Ashi: There,** with regard to the law of phylacteries, **Rava said: Despite a conclusive refutation** of the opinion **of Shmuel, the *halakha* is in accordance with** the opinion **of Shmuel. Here, what** is the ruling? **He said to him: Were all of them woven in the same** act of **weaving?** Are there no distinctions between different cases?
+The *gemara* then returns to the question of how we rule regarding Shmuel's position on the *shema* case, just as Rava ruled like Shmuel for the *tefillin* case. Rav Kahana asks Rav Ashi: given that Rava ruled like Shmuel in the *tefillin* context for the sake of protection, do we likewise rule like Shmuel for the *shema* context? Rav Ashi's response is pointed: *atu kuleihu be'chada machisa machsinhu?* — are they all woven from the same cloth? *Heicha de'isamar isamar, heicha de'lo isamar lo isamar* — where a ruling was stated, it was stated; where it was not stated, it was not. The leniency Rava granted in the *tefillin* case rested on a specific rationale of protection; that rationale does not automatically migrate to the *shema* context. What is worth pausing on here is that *shema* is treated as distinct from *tefillin* even though both involve the same underlying question of whether one may perform a religious act in the presence of *ervah*. The *gemara* is not applying a single unified principle across all such obligations; rather, it is treating each case on its own terms, which is why Rav Ashi resists the inference. A ruling is grounded in the specific circumstances under which it was issued, and extending it by analogy requires its own justification — one that has not been provided here.
 
 ---
 
 ## Ervah Expansion
 
+
+
 ### Objective Definition
 
-> **Hebrew/Aramaic:** אָמַר מָר: אִם הָיוּ בָּנָיו וּבְנֵי בֵיתוֹ קְטַנִּים, מוּתָּר: וְעַד כַּמָּה? אָמַר רַב חִסְדָּא: תִּינוֹקֶת בַּת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד, וְתִינוֹק בֶּן תֵּשַׁע שָׁנִים וְיוֹם אֶחָד. אִיכָּא דְאָמְרִי: תִּינוֹקֶת בַּת אַחַת עֶשְׂרֵה שָׁנָה וְיוֹם אֶחָד, וְתִינוֹק בֶּן שְׁתֵּים עֶשְׂרֵה שָׁנָה וְיוֹם אֶחָד. אִידֵּי וְאִידֵּי עַד כְּדַי ״שָׁדַיִם נָכֹנוּ וּשְׂעָרֵךְ צִמֵּחַ״.
->
-> **Translation:** **The Master said** in a *baraita*: **If his children and the members of his household were minors,** even though they are unclothed, **it is permitted** to recite *Shema* even without a garment separating between them. The Gemara asks: **Until what** age is one still considered a minor? **Rav Ḥisda said: A girl** until she is **three years and one day old, and a boy** until **he is nine years and one day old,** for these are the ages from which a sexual act in which they participate is considered a sexual act. **Some say: A girl eleven years and one day old and a boy of twelve years and one day old,** as that is the age at which they are considered adults in this regard. This age is only approximate, as the age of majority for both **this,** the boy, **and that,** the girl, is **at** the onset of puberty in accordance with the verse: **"Your breasts were formed and your hair was grown"** (Ezekiel 16:7).
-
-> **Hebrew/Aramaic:** אָמַר לֵיהּ רַב כָּהֲנָא לְרַב אָשֵׁי: הָתָם אָמַר רָבָא: אַף עַל גַּב דִּתְיוּבְתָּא דִּשְׁמוּאֵל, הִלְכְתָא כְּווֹתֵיהּ דִּשְׁמוּאֵל. הָכָא מַאי? אֲמַר לֵיהּ: אַטּוּ כּוּלְּהוּ בַּחֲדָא מְחִתָא מְחִתִינְהוּ? אֶלָּא הֵיכָא דְּאִיתְּמַר — אִיתְּמַר, וְהֵיכָא דְּלָא אִיתְּמַר — לָא אִיתְּמַר.
->
-> **Translation:** **Rav Kahana said to Rav Ashi: There,** with regard to the law of phylacteries, **Rava said: Despite a conclusive refutation** of the opinion **of Shmuel, the *halakha* is in accordance with** the opinion **of Shmuel. Here, what** is the ruling? **He said to him: Were all of them woven in the same** act of **weaving?** Are there no distinctions between different cases? **Rather, where it is stated, it is stated, and where it is not stated, it is not stated,** and there is no comparison.
-
-> **Hebrew/Aramaic:** אָמַר לֵיהּ רַב מָרִי לְרַב פָּפָּא: שֵׂעָר יוֹצֵא בְּבִגְדוֹ מַהוּ? קְרָא עֲלֵיהּ: שֵׂעָר, שֵׂעָר.
->
-> **Translation:** **Rav Mari said to Rav Pappa:** Does it constitute nakedness **if one's** pubic **hair protruded from his garment?** Rav Pappa said **about him: A hair, a hair.** You are splitting hairs and being pedantic over trivialities.
+> **Hebrew/Aramaic:** אָמַר רָבִינָא: הֲוָה קָאֵימְנָא קַמֵּיהּ דְּרַב יְהוּדָה מִדִּיפְתִּי חֲזָא צוֹאָה, אֲמַר לִי: עַיֵּין אִי קָרְמוּ פָּנֶיהָ אִי לָא. אִיכָּא דְאָמְרִי הָכִי אֲמַר לֵיהּ: עַיֵּין אִי מִפְּלַאי אִפְּלוֹיֵי.
+> **Translation:** **Ravina said: I was standing before Rav Yehuda of Difti** when **he saw feces. He said to me: Examine** it and see **whether or not its surface has** dried sufficiently to form a **crust. Some say** that **he said to him as follows: Examine** it and see **if it is cracked,** as only then is it considered dry.
 
 The *gemara* now sharpens the objective definition of *ervah* for the purposes of recitation of *brachot* and *shema*. A question is raised: *se'ar hayotzei bevigdo mahu* — if a pubic hair happens to be protruding from one's garment, is that considered *ervah* that would prevent recitation? The response — *kara aleih se'ar se'ar*, a dismissive exclamation — indicates that a stray hair is simply not *ervah*. The objective category of *ervah* extends only to the genitals themselves, not to pubic hair, not to the buttocks, not to a woman's breasts. Only the genitals create the formal prohibition.
 
 ### Handbreadth Rule
-
-> **Hebrew/Aramaic:** אָמַר ר׳ יִצְחָק: טֶפַח בָּאִשָּׁה עֶרְוָה. לְמַאי? אִילֵּימָא לְאִסְתַּכּוֹלֵי בַּהּ, וְהָא אָמַר רַב שֵׁשֶׁת: לָמָּה מָנָה הַכָּתוּב תַּכְשִׁיטִין שֶׁבַּחוּץ עִם תַּכְשִׁיטִין שֶׁבִּפְנִים — לוֹמַר לָךְ כׇּל הַמִּסְתַּכֵּל בְּאֶצְבַּע קְטַנָּה שֶׁל אִשָּׁה, כְּאִילּוּ מִסְתַּכֵּל בִּמְקוֹם הַתּוֹרֶף.
->
-> **Translation:** **Rabbi Yitzḥak stated: An** exposed **handbreadth in a woman** constitutes **nakedness.** The Gemara asks: Regarding **which** *halakha* was this said? **If you say** that it comes to prohibit **looking at** an exposed handbreadth in **her, didn't Rav Sheshet say: Why did the verse enumerate** "anklets and bracelets, rings, earrings and girdles" (Numbers 31:50), **jewelry that is** worn **externally,** over her clothing, e.g., bracelets, **together with jewelry** worn **internally,** beneath her clothing, near her nakedness, e.g., girdles? This was **to tell you: Anyone who gazes upon a woman's little finger** is considered **as if he gazed upon her** naked **genitals,** for if his intentions are impure, it makes no difference where he looks or how much is exposed; even less than a handbreadth.
 
 Rabbi Yitzchak then introduces a different and significantly broader formulation: *tefach be'isha ervah* — a handbreadth of an uncovered woman's body constitutes *ervah*. This shifts the discussion from the objective category to the second category of *ervah*: what creates a problem specifically in the context of *krias shema*, and why.
 
@@ -258,31 +294,15 @@ The *gemara* immediately asks: *l'mai* — for what purpose? If it means that on
 
 ### Calf as Ervah
 
-> **Hebrew/Aramaic:** אֶלָּא בְּאִשְׁתּוֹ וְלִקְרִיאַת שְׁמַע.
->
-> **Translation:** **Rather,** it is referring even to **his wife, with regard to** the **recitation of *Shema*.** One may not recite *Shema* before an exposed handbreadth of his wife.
-
 The ruling of Rabbi Yitzchak is therefore understood as referring specifically to a man's own wife in the context of reciting *shema*: *ela b'ishto l'krias shema* — it is his wife, and the concern is about the recitation of *shema*. Since it is his wife, the concern about illicit erotic thoughts is reduced, but the question remains whether her exposed body creates a problem for *shema* recitation. This formulation engages the *ervah*-as-arousal category rather than the objective category.
-
-> **Hebrew/Aramaic:** אָמַר רַב חִסְדָּא: שׁוֹק בָּאִשָּׁה עֶרְוָה, שֶׁנֶּאֱמַר: ״גַּלִּי שׁוֹק עִבְרִי נְהָרוֹת״, וּכְתִיב: ״תִּגָּל עֶרְוָתֵךְ וְגַם תֵּרָאֶה חֶרְפָּתֵךְ״.
->
-> **Translation:** Along these lines, **Rav Ḥisda said:** Even **a woman's** exposed **leg** is considered **nakedness, as it is stated: "Uncover the leg and pass through the rivers"** (Isaiah 47:2), **and it is written** in the following verse: **"Your nakedness shall be revealed and your shame shall be seen"** (Isaiah 47:3).
 
 Rav Chisda adds: *shok b'isha ervah* — a woman's *shok* is *ervah*. It must be noted that *shok* means the calf, not the thigh — this is linguistically and contextually unambiguous. The *pasuk* cited is from *Yeshayahu*: *gali shok ivri neharot* — "uncover your *shok*, cross the rivers," describing the lowering of the garment to wade through water. The next verse then states *tegal ervatach* — "your *ervah* has been exposed," establishing that *shok* and *ervah* are directly linked. The later *halachic* tradition's reinterpretation of *shok* to mean the thigh, in order to permit exposure below the knee, reflects a different methodology — one that will be addressed below.
 
 ### Voice Ervah
 
-> **Hebrew/Aramaic:** אָמַר שְׁמוּאֵל: קוֹל בָּאִשָּׁה — עֶרְוָה, שֶׁנֶּאֱמַר: ״כִּי קוֹלֵךְ עָרֵב וּמַרְאֵךְ נָאוֶה״.
->
-> **Translation:** **Shmuel** further **stated: A woman's** singing **voice is** considered **nakedness,** which he derives from the praise accorded a woman's voice, **as it is stated: "Sweet is your voice and your countenance is alluring"** (Song of Songs 2:14).
-
 Shmuel states: *kol b'isha ervah* — a woman's voice is *ervah*. The verse cited is from *Shir HaShirim*: *ki kolech areiv umarech naveh* — "your voice is sweet and your appearance is comely." The *gemara* treats this as an indication that the voice is something beautiful and therefore potentially arousing.
 
 ### Hair Ervah
-
-> **Hebrew/Aramaic:** אָמַר רַב שֵׁשֶׁת: שֵׂעָר בָּאִשָּׁה עֶרְוָה, שֶׁנֶּאֱמַר: ״שַׂעֲרֵךְ כְּעֵדֶר הָעִזִּים״.
->
-> **Translation:** Similarly, **Rav Sheshet stated:** Even **a woman's hair is** considered **nakedness,** for it too is praised, **as it is written: "Your hair is like a flock of goats,** trailing down from Mount Gilead" (Song of Songs 4:1).
 
 Rav Sheshet adds: *se'ar b'isha ervah* — a woman's hair is *ervah*. The verse cited is *se'arech k'eder ha'izim* — "your hair is like a flock of goats," again from *Shir HaShirim*.
 
@@ -291,6 +311,8 @@ A perceptive literary observation illuminates the structure of these derivations
 ---
 
 ## Ervah Expansion (II)
+
+
 
 ### Social Context
 
@@ -302,41 +324,48 @@ It is also essential to clarify what this *gemara* is and is not saying about wo
 
 ### Married Women Hair
 
+> **Hebrew/Aramaic:** מַאי הָוֵי עֲלַהּ? אִתְּמַר: צוֹאָה כְּחֶרֶס, אֲמֵימַר אָמַר אֲסוּרָה, וּמַר זוּטְרָא אָמַר מוּתֶּרֶת. אָמַר רָבָא: הִלְכְתָא: צוֹאָה כְּחֶרֶס אֲסוּרָה, וּמֵי רַגְלַיִם כׇּל זְמַן שֶׁמַּטְפִּיחִין.
+> **Translation:** Since several opinions were expressed on the subject, the Gemara asks: **What** halakhic conclusion was reached **about this? It was stated** that the *halakha* is subject to dispute: Reciting sacred matters opposite **feces** as dry **as earthenware; Ameimar said: It is prohibited, and Mar Zutra said: It is permitted. Rava said** that **the *halakha*** is: Opposite **feces** as dry **as earthenware it is prohibited, and** opposite **urine,** it is prohibited **as long as it moistens.**
+
 The question of a woman's hair requires careful separation of two distinct *gemaras*. The *gemara* here mentions *se'ar b'isha ervah* in the context of sexual arousal and the recitation of *shema*. The *gemara* in *Kesuvos*, however, addresses the obligation of married women to cover their hair, which may rest on an entirely different foundation — not arousal, but the social meaning of covered hair as a mark of married status, and the obligation not to present oneself to other men as available. Some anthropologists have noted that the practice of married women covering their hair is not uniquely Jewish, and that uncovered hair can be understood as a signal of availability. Under this reading, a married woman's hair covering is about her relationship to her husband and her social identity, not about whether her hair might sexually arouse men. The *Aruch HaShulchan*, the *Mishna Berura*, and virtually all major *poskim* rule that a man who walks in the street and sees women's uncovered hair does not thereby become prohibited from reciting *shema*, precisely because the social norm makes it non-arousing. The question of whether a married woman is obligated to cover her hair — rooted in the *gemara* in *Kesuvos* — remains distinct from and must not be conflated with this *gemara*'s discussion of what constitutes *ervah* in the arousal sense.
 
 ---
 
 ## Suspension Issue
 
-### Rabbi's Method
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי חֲנִינָא: אֲנִי רָאִיתִי אֶת רַבִּי שֶׁתָּלָה תְּפִילָּיו.
->
-> **Translation:** The Gemara resumes its discussion of phylacteries. **Rabbi Ḥanina said: I saw Rabbi** Yehuda HaNasi **hang his phylacteries.**
+
+### Rabbi's Method
 
 Returning from the extended discussion of *ervah*, the *gemara* closes the *daf* with a question about proper storage of *tefillin* — specifically, the practice of suspending them. Rabbi Chanina testifies: *ani raisi es Rebi shetal tfillin* — I saw Rabbi (Yehudah HaNasi) that he suspended his *tefillin* from a peg. The image is of the loop of the *shel rosh* placed over a hook, with the box hanging down.
 
 ### Curse Warning
 
-> **Hebrew/Aramaic:** מֵיתִיבִי: הַתּוֹלֶה תְּפִילָּיו יִתָּלוּ לוֹ חַיָּיו! דּוֹרְשֵׁי חֲמוּרוֹת אָמְרוּ: ״וְהָיוּ חַיֶּיךָ תְּלֻאִים לְךָ מִנֶּגֶד״, זֶה הַתּוֹלֶה תְּפִילָּיו.
->
-> **Translation:** The Gemara **raises an objection:** It was taught in a *baraita* that **one who hangs his phylacteries will have his life hang** in the balance. Moreover, **the Symbolic Interpreters** of the Torah **said** that the verse: **"And your life shall hang in doubt before you [*minneged*]"** (Deuteronomy 28:66), that is the punishment of **one who hangs his phylacteries.**
-
-Against this, a challenge is raised from a *baraita*: *hatoleh tfillav chayav* — one who suspends his *tefillin* deserves the penalty of having his life suspended before him. The *baraita* goes further: *dorshei chamurot*, those who interpret difficult passages, derive from the verse *vehayu chayecha tluyim lecha mineged* — "your life will be suspended before you," one of the curses of the *tochacha* — that this refers specifically to one who suspends his *tefillin*. The connection is that *tefillin* are one's life, as the verse says *ki heim chayecha ve'orech yamecha*, and to hang them is to hang one's very life.
+Against this, a challenge is raised from a *baraita*: *hatoleh tfillav chayav* — one who suspends his *tefillin* deserves the penalty of having his life suspended before him. The *baraita* goes further: *dorshei chamuros*, those who interpret difficult passages, derive from the verse *vehayu chayecha tluyim lecha mineged* — "your life will be suspended before you," one of the curses of the *tochacha* — that this refers specifically to one who suspends his *tefillin*. The connection is that *tefillin* are one's life, as the verse says *ki heim chayecha ve'orech yamecha*, and to hang them is to hang one's very life.
 
 ### Strap vs Box
 
-> **Hebrew/Aramaic:** לָא קַשְׁיָא הָא בִּרְצוּעָה. הָא בִּקְצִיצָה. וְאִיבָּעֵית אֵימָא: לָא שְׁנָא רְצוּעָה וְלָא שְׁנָא קְצִיצָה — אָסוּר. וְכִי תְּלָה רַבִּי — בְּכִיסְתָּא תְּלָה.
->
-> **Translation:** The Gemara replies: This apparent contradiction **is not difficult, as this** *baraita*, which condemns one who hangs his phylacteries, refers to one who hangs them **by the strap,** allowing the leather boxes into which the parchment is placed to dangle in a deprecating way, which is certainly prohibited. **That** *baraita*, which relates that Rabbi Yehuda HaNasi would hang his phylacteries and that it is clearly permitted, refers to when one hangs them **from the box** with the straps dangling. **And if you wish, say** another explanation instead: **There is no difference** whether he hangs the phylacteries from the **strap and there is no difference** whether he hangs the phylacteries from **the box;** both **are prohibited. And when Rabbi** Yehuda HaNasi **hung** his phylacteries, **he hung them in** their **pouch.**
+> **Hebrew/Aramaic:** מֵיתִיבִי: מֵי רַגְלַיִם כׇּל זְמַן שֶׁמַּטְפִּיחִין — אֲסוּרִין, נִבְלְעוּ אוֹ יָבְשׁוּ — מוּתָּרִים. מַאי לָאו נִבְלְעוּ דֻּומְיָא דְּיָבְשׁוּ, מָה יָבְשׁוּ דְּאֵין רִשּׁוּמָן נִיכָּר, אַף נִבְלְעוּ — דְּאֵין רִשּׁוּמָן נִיכָּר. הָא רִשּׁוּמָן נִיכָּר — אָסוּר, אַף עַל גַּב דְּאֵין מַטְפִּיחִין!
+> **Translation:** The Gemara **raises an objection** based on what was taught in a *baraita*: **Urine, as long as it moistens it is prohibited. If it was absorbed** into the ground **or dried** in place, **it is permitted. What, is** urine that was **absorbed not similar** to urine that **dried? Just as when it dries its mark is no** longer **apparent, so too when it is absorbed, its mark is no** longer **apparent** and then it is permissible. **But** when **its mark is apparent, it is prohibited, even though it no longer moistens.**
+
+> **Hebrew/Aramaic:** וּלְטַעְמָיךְ אֵימָא רֵישָׁא: כׇּל זְמַן שֶׁמַּטְפִּיחִין — הוּא דְּאָסוּר, הָא רִשּׁוּמָן נִיכָּר — שְׁרֵי! אֶלָּא מֵהָא לֵיכָּא לְמִשְׁמַע מִינַּהּ.
+> **Translation:** The Gemara raises a difficulty to counter this: **And according to your reasoning, say the first clause: As long as it moistens it is prohibited,** from which one can infer: **But if** it does not moisten, but **its mark is apparent, it is permitted. Rather, no** inference beyond its basic meaning **can be deduced from this** *baraita*, as the inferences are contradictory.
+
+> **Hebrew/Aramaic:** לֵימָא כְּתַנָּאֵי: כְּלִי שֶׁנִּשְׁפְּכוּ מִמֶּנּוּ מֵי רַגְלַיִם, אָסוּר לִקְרוֹת קְרִיאַת שְׁמַע כְּנֶגְדּוֹ. וּמֵי רַגְלַיִם עַצְמָן שֶׁנִּשְׁפְּכוּ, נִבְלְעוּ — מוּתָּר, לֹא נִבְלְעוּ — אָסוּר. רַבִּי יוֹסֵי אוֹמֵר: כׇּל זְמַן שֶׁמַּטְפִּיחִין.
+> **Translation:** The Gemara notes: **Let us say** that this is **parallel to a** dispute between **the *tanna’im*,** as it was taught a *baraita*: **It is forbidden to recite *Shema* opposite a vessel from which urine was poured. However, the urine itself that was poured,** if it **was absorbed it is permitted;** if it **was not absorbed, it is prohibited. Rabbi Yosei** disagrees and **says:** It is prohibited **as long as it moistens.**
+
+> **Hebrew/Aramaic:** מַאי ״נִבְלְעוּ״ וּמַאי ״לֹא נִבְלְעוּ״ דְּקָאָמַר תַּנָּא קַמָּא? אִילֵימָא נִבְלְעוּ דְּאֵין מַטְפִּיחִין, לֹא נִבְלְעוּ דְּמַטְפִּיחִין — וַאֲתָא רַבִּי יוֹסֵי לְמֵימַר: כׇּל זְמַן שֶׁמַּטְפִּיחִין הוּא דְּאָסוּר, הָא רִשּׁוּמָן נִיכָּר — שְׁרֵי, הַיְינוּ תַּנָּא קַמָּא! אֶלָּא נִבְלְעוּ דְּאֵין רִשּׁוּמָן נִיכָּר, לֹא נִבְלְעוּ — דְּרִשּׁוּמָן נִיכָּר. וַאֲתָא רַבִּי יוֹסֵי לְמֵימַר כׇּל זְמַן שֶׁמַּטְפִּיחִין הוּא דְּאָסוּר, הָא רִשּׁוּמָן נִיכָּר — שְׁרֵי.
+> **Translation:** The Gemara clarifies this dispute: **What is** the meaning of **absorbed and not absorbed in what the first *tanna* says? If you say** that **absorbed** means that it **does not moisten and not absorbed** means that it **moistens, and Rabbi Yosei came to say: As long as it moistens it is prohibited, but** if there is no moisture but its **mark is apparent, it is permitted.** If so, **that is** identical to the opinion of the **first *tanna*** and there is no dispute at all. **Rather, absorbed** means that **its mark is not apparent** and **not absorbed** means that **its mark is apparent. And Rabbi Yosei came to say: As long as it moistens, it is prohibited, but** if there is no moisture but its **mark is apparent, it is permitted,** in which case the dispute in our Gemara is parallel to this tannaitic dispute.
+
+> **Hebrew/Aramaic:** לָא. דְּכוּלֵּי עָלְמָא כׇּל זְמַן שֶׁמַּטְפִּיחִין הוּא דְּאָסוּר הָא רִשּׁוּמָן נִיכָּר — שְׁרֵי,
+> **Translation:** The Gemara states that it is not necessarily parallel: **No, everyone,** both *tanna’im*, agrees that **as long as it moistens, it is prohibited,** and if there is no moisture but its **mark is apparent, it is permitted.**
+
+> **Hebrew/Aramaic:** וְהָכָא בְּטוֹפֵחַ עַל מְנָת לְהַטְפִּיחַ, אִיכָּא בֵּינַיְיהוּ.
+> **Translation:** **And here, the difference between them is** in a case **where it is moist enough to moisten** other things. According to the first *tanna* the prohibition is only in effect when the urine is moist enough to moisten other objects, while according to Rabbi Yosei it applies as long as the urine itself is moist, even if it is not moist enough to moisten other objects.
 
 The *gemara* resolves the apparent contradiction between Rabbi's practice and the *baraita*'s condemnation: *ha beretzuah ha bektzitza* — the forbidden suspension is when the *tefillin* hang by the strap (*retzuah*), so that the box dangles down; this is disrespectful. Permissible suspension is by the *ktzitza*, the box itself, which would involve resting the box on a flat part of the peg so that the strap hangs below — though precisely how that would work mechanically is not entirely clear, as suspending a box on a standard peg is not straightforward. Perhaps the peg had a flat shelf-like surface allowing the box to rest rather than dangle.
 
 ### In Bag Safe
-
-> **Hebrew/Aramaic:** אִי הָכִי מַאי לְמֵימְרָא? מַהוּ דְתֵימָא תִּיבְעֵי הַנָּחָה כְּסֵפֶר תּוֹרָה — קָא מַשְׁמַע לַן.
->
-> **Translation:** The Gemara asks: **If so, what** is the purpose **to relate** that incident? The Gemara replies: **Lest you say** that phylacteries **would require placement** atop a surface, **as** is the custom with **a Torah scroll.** Therefore, **it teaches us** that this is unnecessary.
 
 A second resolution is offered: *lo shna retzuah velo shna ktzitza assur* — actually, either way is forbidden, whether it is the strap or the box that is suspended. *Veki tal lei Rebi bekistah talvei* — when Rabbi suspended his *tefillin*, he did so *bekistah*, in their bag. The *tefillin* were covered and contained in their bag, and it was the bag itself that was hung on the peg.
 

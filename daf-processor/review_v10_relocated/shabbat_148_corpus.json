@@ -1,0 +1,371 @@
+[
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Rabbah's Encounter",
+    "candidates": [
+      "Hot Water Rules",
+      "Immersion Customs",
+      "Removing Dirt",
+      "Bone Restoration",
+      "Rabbah's Encounter",
+      "Dislocation Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bone Restoration",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the mishna's ruling and Shmuel's opposing halakha \u2014 exactly what heading 3 'Bone Restoration' discusses.",
+      "second_heading": "Rabbah's Encounter",
+      "second_confidence": "high",
+      "second_reason": "Item 2 narrates Rabbah bar bar \u1e24ana's forced attendance and transmission of Shmuel's ruling to Rav Yehuda \u2014 exactly what heading 4 'Rabbah's Encounter' discusses.",
+      "current_heading": "Rabbah's Encounter",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Dislocation Rules",
+    "candidates": [
+      "Dislocation Rules",
+      "Theory vs. Practice",
+      "Mishnah Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the continuous Rav Avya/Rav Yosef dislocation exchange that the 'Dislocation Rules' prose explicitly describes in detail, including the hand positions, the mishna citation, the shever comparison, and Rav Yosef's 'single weave' reply.",
+      "chosen_heading": "Dislocation Rules",
+      "current_heading": "Dislocation Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Mishnah Cases",
+    "candidates": [
+      "Theory vs. Practice",
+      "Mishnah Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage '\u05d4\u05d3\u05e8\u05df \u05e2\u05dc\u05da \u05d7\u05d1\u05d9\u05ea' is the closing formula for Perek Chavit, which matches the prose in candidate 0 that explicitly states 'This concludes Perek Chavit.'",
+      "chosen_heading": "Theory vs. Practice",
+      "current_heading": "Mishnah Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Mishnah Cases",
+    "candidates": [
+      "Mishnah Cases",
+      "Collateral Rules",
+      "She'ilah vs. Halva'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the full Mishna text covering borrowing jugs of wine/oil/bread, collateral arrangements, and the Passover case \u2014 and the current heading's prose explicitly discusses this opening Mishna content including the borrowing of wine, oil, and bread by men and women.",
+      "chosen_heading": "Mishnah Cases",
+      "current_heading": "Mishnah Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "She'ilah vs. Halva'ah",
+    "candidates": [
+      "Collateral Rules",
+      "She'ilah vs. Halva'ah",
+      "Language Distinctions",
+      "Language Imprecision",
+      "Shabbat Context",
+      "Shinuy Principle",
+      "Water Bucket Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara exchange between Rava bar Rav \u1e24anan and Abaye about why 'hashileini' is permitted while 'halveini' is prohibited, which is precisely what the 'Language Distinctions' section's prose describes and analyzes.",
+      "chosen_heading": "Language Distinctions",
+      "current_heading": "She'ilah vs. Halva'ah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Water Bucket Case",
+    "candidates": [
+      "Language Distinctions",
+      "Language Imprecision",
+      "Shabbat Context",
+      "Shinuy Principle",
+      "Water Bucket Case",
+      "Competing Values",
+      "Tosafot's Position",
+      "Modern Devices",
+      "Musical Instruments",
+      "Shogeg Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Language Imprecision",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the challenge and resolution regarding language imprecision (halveini/hashileini) on Shabbat, which matches candidates 1 and 2's prose about weekday imprecision and the Shabbat context making the restriction self-announcing \u2014 item 1 fits under 'Language Imprecision' (candidate 1) as the challenge, and item 2 under 'Shabbat Context' (candidate 2) as the resolution, but since item 1 is the challenge that directly precedes the resolution, together they belong under candidate 1 ('Language Imprecision') as the challenge-and-answer unit.",
+      "second_heading": "Shinuy Principle",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 (the water-bucket passage) introduce an entirely new case about women filling pitchers on Yom Tov with a shinuy, which matches candidate 3 ('Shinuy Principle') and candidate 4 ('Water Bucket Case') \u2014 items 2 and 3 together form the water-bucket discussion that belongs under candidate 3 or 4, and since item 3 completes the cloth/cover analysis that is part of the water-bucket case, both belong under candidate 4 ('Water Bucket Case').",
+      "current_heading": "Water Bucket Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Shogeg Principle",
+    "candidates": [
+      "Competing Values",
+      "Tosafot's Position",
+      "Modern Devices",
+      "Musical Instruments",
+      "Shogeg Principle",
+      "Torah vs. Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly contains the exchange between Rava bar Rav \u1e24anan and Abaye about clapping/dancing on Yom Tov and the observation that people do it anyway, which is precisely what candidate 3 ('Musical Instruments') describes in its prose.",
+      "chosen_heading": "Musical Instruments",
+      "current_heading": "Shogeg Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Torah vs. Rabbinic",
+    "candidates": [
+      "Shogeg Principle",
+      "Torah vs. Rabbinic",
+      "Yom Kippur Example",
+      "Rishonim Nuances",
+      "Tosefta vs. Bavli",
+      "Tosafot's Rationalization",
+      "Consequences Framework",
+      "Hillel's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the distinction between rabbinic and Torah prohibitions and the gemara's rejection of that distinction, which is precisely what the 'Torah vs. Rabbinic' section's prose discusses.",
+      "chosen_heading": "Torah vs. Rabbinic",
+      "current_heading": "Torah vs. Rabbinic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Hillel's Ruling",
+    "candidates": [
+      "Yom Kippur Example",
+      "Rishonim Nuances",
+      "Tosefta vs. Bavli",
+      "Tosafot's Rationalization",
+      "Consequences Framework",
+      "Hillel's Ruling",
+      "Fixed Prices",
+      "Practical Leniency",
+      "Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together form the continuous gemara exchange about Hillel's ruling on borrowing loaves \u2014 item 1 raises the contradiction with Hillel and item 2 resolves it \u2014 which is exactly what heading 5 ('Hillel's Ruling') describes in its prose.",
+      "chosen_heading": "Hillel's Ruling",
+      "current_heading": "Hillel's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Rav Yosef",
+    "candidates": [
+      "Fixed Prices",
+      "Practical Leniency",
+      "Rav Yosef",
+      "Rava",
+      "Mishnah Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the full amoraic dispute between Rav Yosef and Rabba about loans on Yom Tov, and the current placement under 'Rav Yosef' (index 2) whose prose directly introduces and explains this exact dispute is the correct home.",
+      "chosen_heading": "Rav Yosef",
+      "current_heading": "Rav Yosef",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Mishnah Support",
+    "candidates": [
+      "Rava",
+      "Mishnah Support",
+      "Meat Distribution",
+      "Enforcement vs. Voluntary"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's attempt to derive support for Rav Yosef's position from the mishna's collateral ruling, and the rejection via 'I do not want to stand before judges,' which is precisely what the 'Mishnah Support' section's prose describes.",
+      "chosen_heading": "Mishnah Support",
+      "current_heading": "Mishnah Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Enforcement vs. Voluntary",
+    "candidates": [
+      "Meat Distribution",
+      "Enforcement vs. Voluntary",
+      "Shemittah Procedure"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Meat Distribution",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the cow-slaughtering mishna and the initial challenge/resolution about court-enforceability vs. shemittah cancellation, matching the 'Meat Distribution' prose which describes exactly this case and its shemittah implications.",
+      "second_heading": "Enforcement vs. Voluntary",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 press the latter clause of the mishna to argue about enforceability vs. voluntary repayment and the meshamet ani declaration, matching precisely the 'Enforcement vs. Voluntary' and leading into 'Shemittah Procedure' prose \u2014 and the current placement under 'Enforcement vs. Voluntary' is correct for these items.",
+      "current_heading": "Enforcement vs. Voluntary",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Shemittah Procedure",
+    "candidates": [
+      "Shemittah Procedure",
+      "Collateral Scheme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the 've-zeh devar ha-shemittah' verse and discusses the borrower saying 'nonetheless I will repay,' which is precisely what the 'Shemittah Procedure' prose describes with the same terminology and concepts.",
+      "chosen_heading": "Shemittah Procedure",
+      "current_heading": "Shemittah Procedure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Collateral Scheme",
+    "candidates": [
+      "Collateral Scheme",
+      "Fixed-Time Korbanot",
+      "Pesach Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Avya taking collateral (mashkona) and Rabba bar Ulla's post-Festival workaround, which exactly matches the 'Collateral Scheme' section's prose discussion of these two figures and their approaches.",
+      "chosen_heading": "Collateral Scheme",
+      "current_heading": "Collateral Scheme",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Pesach Example",
+    "candidates": [
+      "Fixed-Time Korbanot",
+      "Pesach Example",
+      "Pre-Sanctification",
+      "Rav Hoshaia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's attempt to derive support for Rav Yochanan from the mishna (item 1) and the rejection of that support via the 'registering others' interpretation (item 2), which is precisely what candidate 1 'Pesach Example' describes in its prose.",
+      "chosen_heading": "Pesach Example",
+      "current_heading": "Pesach Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147
+    ],
+    "current_heading": "Rav Hoshaia",
+    "candidates": [
+      "Pre-Sanctification",
+      "Rav Hoshaia",
+      "General Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items deal with the challenge from the mishna about not registering for an animal on Yom Tov and the baraita of Rabbi Hoshaya about the shepherd, which is precisely what the 'Rav Hoshaia' section's prose describes.",
+      "chosen_heading": "Rav Hoshaia",
+      "current_heading": "Rav Hoshaia",
+      "moved": false
+    }
+  }
+]

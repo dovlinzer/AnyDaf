@@ -62,8 +62,8 @@
           "timestamp": "16:34"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Debate Between Rabbi Yehuda and Rabbi Yosi on Gidulei Hekdesh—Fruit and Produce Growing from Sanctified Objects (continued)",
@@ -76,7 +76,7 @@
           "timestamp": "22:53"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -110,7 +110,7 @@
           "timestamp": "37:53"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -144,7 +144,7 @@
           "timestamp": "46:55"
         }
       ],
-      "sefaria_index": 12,
+      "sefaria_index": 17,
       "matched": true
     }
   ],
@@ -477,5 +477,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "26:56",
+  "amud_b_micro_title": "Dispute Framework",
+  "shiur_start_daf": 79,
+  "shiur_start_amud": "a"
 }

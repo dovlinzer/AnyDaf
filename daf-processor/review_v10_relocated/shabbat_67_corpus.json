@@ -1,0 +1,360 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "One-Day Fever",
+    "candidates": [
+      "One-Day Fever",
+      "Three-Day Fever"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items describe remedies for a one-day fever (eshta bas yoma) \u2014 the salt/dinar remedy, the ant-in-copper-tube remedy, and the river/jug remedy \u2014 exactly matching the prose under 'One-Day Fever' heading.",
+      "chosen_heading": "One-Day Fever",
+      "current_heading": "One-Day Fever",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Three-Day Fever",
+    "candidates": [
+      "Three-Day Fever",
+      "Intense Fever"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Huna's remedy for tertian (three-day) fever, which matches exactly the prose of candidate 0 ('Three-Day Fever') that explicitly discusses Rav Huna's treatment involving seven items from seven sources bound at the neckline.",
+      "chosen_heading": "Three-Day Fever",
+      "current_heading": "Three-Day Fever",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Intense Fever",
+    "candidates": [
+      "Intense Fever",
+      "Boils"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items describe the same burning fever (eshta tzmirtah) remedy involving the bush, the knife, the verses from Exodus 3, and the final incantation about Hananiah, Mishael, and Azariah \u2014 exactly what the 'Intense Fever' prose section describes in detail.",
+      "chosen_heading": "Intense Fever",
+      "current_heading": "Intense Fever",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Boils",
+    "candidates": [
+      "Boils",
+      "Demons & Shades"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is an incantation for healing boils (simta/shechinta), matching exactly the prose under 'Boils' which describes the same formula with the same key phrases and angels from Sodom.",
+      "chosen_heading": "Boils",
+      "current_heading": "Boils",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Demons & Shades",
+    "candidates": [
+      "Demons & Shades",
+      "Questioning Incantations",
+      "Rambam vs. Gra",
+      "Three Approaches",
+      "Bells & Ornaments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the specific incantation formulas for a wound/kifa, a demon, and the bathroom demon \u2014 exactly the content described in the 'Demons & Shades' prose, which paraphrases each of these three formulas in order.",
+      "chosen_heading": "Demons & Shades",
+      "current_heading": "Demons & Shades",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Bells & Ornaments",
+    "candidates": [
+      "Questioning Incantations",
+      "Rambam vs. Gra",
+      "Three Approaches",
+      "Bells & Ornaments",
+      "Crutches & Canes",
+      "Amulets & Amorites",
+      "Three Amulets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses sons of princes wearing bells, Rabbi Shimon's principle that all Israel are princes, and Rava's alternative rationale about bells woven into garments \u2014 exactly what the 'Bells & Ornaments' section prose describes.",
+      "chosen_heading": "Bells & Ornaments",
+      "current_heading": "Bells & Ornaments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Three Amulets",
+    "candidates": [
+      "Crutches & Canes",
+      "Amulets & Amorites",
+      "Three Amulets",
+      "Healing Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Mishnah and Gemara about the locust egg, fox tooth, and crucifixion nail that the 'Three Amulets' prose explicitly describes in detail, making it the clear and correct home for this content.",
+      "chosen_heading": "Three Amulets",
+      "current_heading": "Three Amulets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Healing Exemption",
+    "candidates": [
+      "Healing Exemption",
+      "Tree Remedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Abaye and Rava's general principle about healing exempting from darchei emori, and the subsequent Baraita challenge about painting a tree \u2014 are explicitly discussed together in the 'Healing Exemption' prose, which covers exactly this content including the mai refuah ka'avid question.",
+      "chosen_heading": "Healing Exemption",
+      "current_heading": "Healing Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Tree Remedy",
+    "candidates": [
+      "Tree Remedy",
+      "Allowed Incantations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the practice of hanging dates on a palm tree and the baraita about publicizing pain to elicit prayers, which is precisely what the 'Tree Remedy' section prose discusses (Ravina's question about hanging dates and ki hai tana).",
+      "chosen_heading": "Tree Remedy",
+      "current_heading": "Tree Remedy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Allowed Incantations",
+    "candidates": [
+      "Allowed Incantations",
+      "Forbidden Incantations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the two permitted incantations (bone in throat and fishbone) that are explicitly exempted from darchei emori, which is precisely what the 'Allowed Incantations' prose discusses in detail.",
+      "chosen_heading": "Allowed Incantations",
+      "current_heading": "Allowed Incantations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Forbidden Incantations",
+    "candidates": [
+      "Forbidden Incantations",
+      "Divine Names"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Divine Names",
+      "first_confidence": "high",
+      "first_reason": "Item 1 includes Rabbi Yehuda's statement that 'gad' is a term of idolatry, which matches the 'Divine Names' prose that explicitly discusses Rabbi Yehuda's ruling that 'gad gadi' invokes the name of a pagan deity with the same verse from Yeshaya 65:11.",
+      "second_heading": "Forbidden Incantations",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (husband and wife calling each other by the other's name) is a straightforward darchei emori incantation case explicitly mentioned in the 'Forbidden Incantations' prose ('hu b'shmo v'hi b'shmah').",
+      "current_heading": "Forbidden Incantations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Divine Names",
+    "candidates": [
+      "Divine Names",
+      "Animal Omens"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses 'donu danei' and Rabbi Yehuda's ruling that 'Dan' is a term of idol worship, which is precisely what the 'Divine Names' prose section discusses in detail.",
+      "chosen_heading": "Divine Names",
+      "current_heading": "Divine Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Animal Omens",
+    "candidates": [
+      "Animal Omens",
+      "Cooking Superstitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern animal omens (raven incantations and slaughtering roosters/hens for bad omens), which is precisely what the 'Animal Omens' prose section discusses in detail.",
+      "chosen_heading": "Animal Omens",
+      "current_heading": "Animal Omens",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Cooking Superstitions",
+    "candidates": [
+      "Cooking Superstitions",
+      "Legitimate Methods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items describe superstitious practices classified as 'ways of the Amorite,' and the prose under 'Cooking Superstitions' explicitly discusses each of these exact cases in the same order.",
+      "chosen_heading": "Cooking Superstitions",
+      "current_heading": "Cooking Superstitions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Legitimate Methods",
+    "candidates": [
+      "Legitimate Methods",
+      "Wedding Toasts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss legitimate methods of improving cooking/lamp burning and the prohibition of wasteful destruction, which is exactly what the 'Legitimate Methods' prose describes.",
+      "chosen_heading": "Legitimate Methods",
+      "current_heading": "Legitimate Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Wedding Toasts",
+    "candidates": [
+      "Wedding Toasts",
+      "Six to Seventh",
+      "General Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about the toast 'chamra v'chayei l'fum rabbanan' and Rabbi Akiva's banquet is explicitly discussed in the 'Wedding Toasts' section prose, which directly references this exact text and incident.",
+      "chosen_heading": "Wedding Toasts",
+      "current_heading": "Wedding Toasts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "General Principle",
+    "candidates": [
+      "Six to Seventh",
+      "General Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The '\u05d4\u05d3\u05e8\u05df \u05e2\u05dc\u05da \u05d1\u05de\u05d4 \u05d0\u05e9\u05d4' is a closing formula marking the end of a chapter (specifically the chapter 'Bameh Isha'), which would naturally appear at the transition between perakim \u2014 fitting under 'Six to Seventh' which discusses the transition from the sixth to the seventh perek, rather than under 'General Principle' which discusses the content of the seventh perek itself.",
+      "chosen_heading": "Six to Seventh",
+      "current_heading": "General Principle",
+      "moved": true
+    }
+  }
+]

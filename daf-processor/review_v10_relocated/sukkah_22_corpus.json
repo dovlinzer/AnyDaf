@@ -1,0 +1,282 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna Overview",
+    "candidates": [
+      "Mishna Overview",
+      "Rav's Case",
+      "Shmuel's Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna itself, which is directly described and analyzed in the 'Mishna Overview' prose, covering both the meduvlelet case with shade exceeding sunlight and the thick schach case where stars cannot be seen.",
+      "chosen_heading": "Mishna Overview",
+      "current_heading": "Mishna Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Shmuel's Case",
+    "candidates": [
+      "Rav's Case",
+      "Shmuel's Case",
+      "Virtual Roof",
+      "Abaye's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the dispute between Rav and Shmuel over the meaning of 'meduvlelet' \u2014 Rav's reading as a single halakha about a sparse sukka and Shmuel's reading as two halakhot \u2014 which is precisely what the 'Rav's Case' prose describes as the opening Gemara question and Rav's answer, while 'Shmuel's Case' prose presupposes this dispute has already been introduced and moves on to analyze Shmuel's novel implication.",
+      "chosen_heading": "Rav's Case",
+      "current_heading": "Shmuel's Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Abaye's Rule",
+    "candidates": [
+      "Virtual Roof",
+      "Abaye's Rule",
+      "Rava's Rule",
+      "Chavut Rami Intro",
+      "Ohalot Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Abaye's rule (gap less than three tefachim required for combination) and Rava's rule (a tefach-wide upper roof allows chavut rami even with a gap of three tefachim), and the current placement under 'Abaye's Rule' covers both since the essay then has a separate 'Rava's Rule' section for the prose discussion \u2014 but the passage itself contains both statements, and since Abaye's statement comes first and the current heading's prose explicitly discusses Abaye's limitation and anticipates Rava's extension, and the passage is already correctly placed there, the current placement is correct.",
+      "chosen_heading": "Abaye's Rule",
+      "current_heading": "Abaye's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Ohalot Mishnah",
+    "candidates": [
+      "Rava's Rule",
+      "Chavut Rami Intro",
+      "Ohalot Mishnah",
+      "Alternating Beams",
+      "Braita Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the Mishna from Ohalot that Rava cites as his source, dealing with aligned beams and their impurity rules \u2014 exactly what the 'Ohalot Mishnah' prose describes as the first scenario (beams aligned, tumah beneath/between/atop), before the alternating-beams case handled in the next section.",
+      "chosen_heading": "Ohalot Mishnah",
+      "current_heading": "Ohalot Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Braita Limitation",
+    "candidates": [
+      "Alternating Beams",
+      "Braita Limitation",
+      "Rav Ashi Challenge",
+      "Mavoi Beam"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Braita Limitation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the braita specifying the tefach conditions for chavut rami and the shema mina conclusion, which matches exactly the 'Braita Limitation' prose description.",
+      "second_heading": "Rav Ashi Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Kahana transmitting the halakha and Rav Ashi's challenge about whether lack of a tefach truly precludes chavut rami, which matches exactly the 'Rav Ashi Challenge' prose description.",
+      "current_heading": "Braita Limitation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Mavoi Beam",
+    "candidates": [
+      "Rav Ashi Challenge",
+      "Mavoi Beam",
+      "R. Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the braita about a kora projecting from one wall not reaching the other, and two beams not touching each other, with the less-than-three/three tefachim rule \u2014 matching precisely the 'Mavoi Beam' section's prose description.",
+      "chosen_heading": "Mavoi Beam",
+      "current_heading": "Mavoi Beam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "R. Shimon",
+    "candidates": [
+      "R. Shimon",
+      "Height Zones",
+      "Lavud Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the scenarios of gaps between beams and parallel narrow beams requiring combination, along with Rabban Shimon ben Gamliel's lenient positions \u2014 exactly what the 'R. Shimon' prose describes.",
+      "chosen_heading": "R. Shimon",
+      "current_heading": "R. Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Lavud Resolution",
+    "candidates": [
+      "Height Zones",
+      "Lavud Resolution",
+      "Two Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous exchange where item 1 presents the apparent challenge from Rabbi Yose bar Yehuda's ruling (that chavut rami applies without a tefach) and item 2 is Rav Kahana's lavud-based resolution \u2014 exactly what the 'Lavud Resolution' prose describes as the taretz response preserving Rava's position.",
+      "chosen_heading": "Lavud Resolution",
+      "current_heading": "Lavud Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Two Standards",
+    "candidates": [
+      "Two Standards",
+      "Equal Measure",
+      "Rashi's View",
+      "Tosafot's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the two mishnayot and their contradictory inferences about equal shade/sunlight, which is precisely what the 'Two Standards' prose section describes \u2014 the apparent contradiction between the two chapter rulings before any resolution is offered.",
+      "chosen_heading": "Two Standards",
+      "current_heading": "Two Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Tosafot's View",
+    "candidates": [
+      "Equal Measure",
+      "Rashi's View",
+      "Tosafot's View",
+      "House Thickness",
+      "No Sunlight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara text resolving the contradiction (lo kashya \u2014 from above vs. from below) and Rav Pappa's folk saying, which the 'Equal Measure' section's prose explicitly quotes and discusses as its central content.",
+      "chosen_heading": "Equal Measure",
+      "current_heading": "Tosafot's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "No Sunlight",
+    "candidates": [
+      "House Thickness",
+      "No Sunlight",
+      "Wagon & Boat",
+      "Tree & Animal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains BOTH the baraita about stars not being visible (which belongs under 'House Thickness') AND the Beit Shammai/Beit Hillel dispute about sunlight \u2014 the essay has split this single continuous passage across two headings, but the text is one unit that begins with the 'thick like a house' ruling; however, since the passage covers both topics and the 'No Sunlight' section's prose explicitly describes the Beit Shammai/Beit Hillel dispute that is the second half of this passage, while 'House Thickness' covers the first half including the baraita introduction, the passage as a whole is better placed under 'House Thickness' which introduces the baraita from which this entire dispute flows.",
+      "chosen_heading": "House Thickness",
+      "current_heading": "No Sunlight",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Tree & Animal",
+    "candidates": [
+      "Wagon & Boat",
+      "Tree & Animal",
+      "Wall Combinations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the wagon/boat case AND the tree/camel case in a single Mishna, and the 'Wagon & Boat' heading (index 0) introduces this exact Mishna text as opening the topic, making it the natural home for the full passage rather than splitting it under the 'Tree & Animal' heading which covers only half the content.",
+      "chosen_heading": "Wagon & Boat",
+      "current_heading": "Tree & Animal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Wall Combinations",
+    "candidates": [
+      "Tree & Animal",
+      "Wall Combinations",
+      "Independence Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the wall combinations (two in tree + one by hand, two by hand + one in tree, three by hand + one in tree) that Candidate 1's prose describes, making the current placement correct.",
+      "chosen_heading": "Wall Combinations",
+      "current_heading": "Wall Combinations",
+      "moved": false
+    }
+  }
+]

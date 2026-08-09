@@ -1,0 +1,395 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Eruv in A, Problem in B",
+    "candidates": [
+      "Osrin & Me'arvin",
+      "Eruv in A, Problem in B",
+      "B Waives Rights",
+      "Gal'u Dasha",
+      "Huna's Challenge",
+      "Huna's Solution",
+      "Eliezer vs Rabbanan",
+      "Restrictive Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Eruv in A, Problem in B",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-6 comprise the Mishna text and Gemara explanation of why bittul cannot work in these courtyard configurations, fitting under the section that introduces these cases.",
+      "second_heading": "Huna's Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 7 is precisely Rav Huna's challenge to Rava, which heading 4 ('Huna's Challenge') describes as its subject matter.",
+      "current_heading": "Eruv in A, Problem in B",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Restrictive Position",
+    "candidates": [
+      "B Waives Rights",
+      "Gal'u Dasha",
+      "Huna's Challenge",
+      "Huna's Solution",
+      "Eliezer vs Rabbanan",
+      "Restrictive Position",
+      "Their Relationship"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's direct response (ke'man \u2014 ke'Rabbi Eliezer / lerabbanan) to Rav Huna's proposed solution, which is precisely what candidate 4 ('Eliezer vs Rabbanan') describes in its prose.",
+      "chosen_heading": "Eliezer vs Rabbanan",
+      "current_heading": "Restrictive Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Their Relationship",
+    "candidates": [
+      "Restrictive Position",
+      "Their Relationship",
+      "Two Houses Setup",
+      "Bittul Without Eruv"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the mutual trembling/awe between Rav \u1e24isda and Rav Sheshes when they met, which exactly matches the 'Their Relationship' section's prose discussing this same vignette about the Sinai/oker harim dichotomy.",
+      "chosen_heading": "Their Relationship",
+      "current_heading": "Their Relationship",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Bittul Without Eruv",
+    "candidates": [
+      "Two Houses Setup",
+      "Bittul Without Eruv",
+      "Sheshes Dismisses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Two Houses Setup",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 form the complete Rav Chisda/Rav Sheshet exchange about two houses enclosed by gentiles on Shabbat, covering the dilemma setup, the clarification according to both opinions, and Rav Sheshet's ruling \u2014 all discussed in candidates 0, 1, and 2's prose, but items 1-3 belong under 'Two Houses Setup'/'Bittul Without Eruv' and item 4 under 'Sheshes Dismisses'; however since all 4 items are one continuous topic, the best single heading for items 1-4 is candidate 1 ('Bittul Without Eruv') which covers the full arc of the dilemma and resolution.",
+      "second_heading": "Sheshes Dismisses",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces an entirely new scenario (gentile dying on Shabbat) which is the follow-up question discussed in candidate 2's prose under 'Sheshes Dismisses.'",
+      "current_heading": "Bittul Without Eruv",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Sheshes Dismisses",
+    "candidates": [
+      "Bittul Without Eruv",
+      "Sheshes Dismisses",
+      "Valley Opening OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly continue the dispute about renting vs. renouncing (*bittul*) when a gentile arrives on Shabbat, culminating in Rav Sheshet's ruling ('ani omer mevatlin, veHamnuna omer ein mevatlin') which is explicitly described in the 'Sheshes Dismisses' prose.",
+      "chosen_heading": "Sheshes Dismisses",
+      "current_heading": "Sheshes Dismisses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Valley Opening OK",
+    "candidates": [
+      "Valley Opening OK",
+      "Karpef Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the ruling and its rationale for the exact case described in candidate 0's prose \u2014 the gentile with a four-by-four opening into a valley who uses the alleyway all day \u2014 and the prose even quotes the Aramaic phrases that appear in these items.",
+      "chosen_heading": "Valley Opening OK",
+      "current_heading": "Valley Opening OK",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Karpef Question",
+    "candidates": [
+      "Karpef Question",
+      "Beit Sa'atayim Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the dilemma about a karpef and Rav Nachman bar Ami's answer, which is precisely what the 'Karpef Question' prose discusses.",
+      "chosen_heading": "Karpef Question",
+      "current_heading": "Karpef Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Beit Sa'atayim Limit",
+    "candidates": [
+      "Beit Sa'atayim Limit",
+      "Jew Reverse Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beit Sa'atayim Limit",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concerns the gentile's beit sa'atayim threshold, which is precisely what heading 0 ('Beit Sa'atayim Limit') discusses.",
+      "second_heading": "Jew Reverse Case",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concerns the reverse case for a Jew, which is exactly what heading 1 ('Jew Reverse Case') discusses.",
+      "current_heading": "Beit Sa'atayim Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Jew Reverse Case",
+    "candidates": [
+      "Jew Reverse Case",
+      "Yochanan's Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about 'yoter mibeit satayim oser' (greater than two beit se'a renders it prohibited) directly corresponds to the 'Jew Reverse Case' prose discussing how a beit satayim enclosure does not make the Jew a problem while more than a beit satayim does.",
+      "chosen_heading": "Jew Reverse Case",
+      "current_heading": "Jew Reverse Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Yochanan's Teaching",
+    "candidates": [
+      "Yochanan's Teaching",
+      "Rock in Sea"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rock in Sea",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 concerns the dilemma about a gentile's courtyard opening into a karpef and the beit satayim threshold for rendering prohibited \u2014 this fits the 'Rock in Sea' section's discussion of how the beit satayim qualifier applies to determine reshus status, not the foundational teaching about karpef and biblical liability that 'Yochanan's Teaching' prose discusses.",
+      "second_heading": "Yochanan's Teaching",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely Rabbi Yochanan's teaching (via Ulla) about a karpef larger than beit satayim not enclosed for habitation, its biblical reshus hayachid status, and the mechitza/diyurin reasoning \u2014 matching the 'Yochanan's Teaching' prose exactly.",
+      "current_heading": "Yochanan's Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Rock in Sea",
+    "candidates": [
+      "Rock in Sea",
+      "Rava Dismisses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute Rav Huna bar \u1e24innana's objection and its internal analysis (which clause does 'beit se'a' qualify), culminating in the apparent refutation of Rabbi Yo\u1e25anan \u2014 exactly what candidate 0's prose describes in detail.",
+      "chosen_heading": "Rock in Sea",
+      "current_heading": "Rock in Sea",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Rava Dismisses",
+    "candidates": [
+      "Rava Dismisses",
+      "Hen Amru Vehen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's dismissal of the refutation against Rabbi Yo\u1e25anan and his re-reading of the baraita as referring to the first clause with the beit satayim limit, which directly matches the 'Rava Dismisses' section's prose description of exactly this content.",
+      "chosen_heading": "Rava Dismisses",
+      "current_heading": "Rava Dismisses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Hen Amru Vehen",
+    "candidates": [
+      "Hen Amru Vehen",
+      "Carrying Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute Rav Ashi's 'hein amru vehein amru' resolution \u2014 items 1-2 state the principle, items 3-4 elaborate the two cases \u2014 which is exactly what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Hen Amru Vehen",
+      "current_heading": "Hen Amru Vehen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Carrying Priority",
+    "candidates": [
+      "Carrying Priority",
+      "Spilled Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the Rabbis prioritize the restriction on carrying within the rock over the crossing-the-line prohibition, which is precisely what the 'Carrying Priority' section's prose discusses.",
+      "chosen_heading": "Carrying Priority",
+      "current_heading": "Carrying Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Spilled Water",
+    "candidates": [
+      "Spilled Water",
+      "Rabba's Plan",
+      "Abaye Objects",
+      "Rabba's Rejoinders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the spilled water incident and Rabba's initial suggestion, which matches heading 0's prose about the child whose hot water spilled, while headings 1 and 2 cover Rabba's plan and Abaye's objection as separate subsequent exchanges.",
+      "chosen_heading": "Spilled Water",
+      "current_heading": "Spilled Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Rabba's Rejoinders",
+    "candidates": [
+      "Rabba's Plan",
+      "Abaye Objects",
+      "Rabba's Rejoinders",
+      "D'Rabbanan vs Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 2's prose describes: Rabba suggesting reliance on shituf mevo'os, Abaye noting it wasn't done either, and Rabba then suggesting a gentile bring the water \u2014 all of which matches 'Rabba's Rejoinders' precisely.",
+      "chosen_heading": "Rabba's Rejoinders",
+      "current_heading": "Rabba's Rejoinders",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "D'Rabbanan vs Torah",
+    "candidates": [
+      "D'Rabbanan vs Torah",
+      "Hazah vs Amira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Abaye/Rav Yosef/Rav Kahana/Rav Yehuda statement about d'oraisa vs d'rabbanan procedure, which is precisely what the prose of heading 0 ('D'Rabbanan vs Torah') explains and discusses.",
+      "chosen_heading": "D'Rabbanan vs Torah",
+      "current_heading": "D'Rabbanan vs Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Hazah vs Amira",
+    "candidates": [
+      "Hazah vs Amira",
+      "Ma'aseh Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita stating that hazah and amira lenochri are both shevus, which is precisely what candidate 0's prose discusses as Abaye's intended objection, before Rav Yosef's response about the ma'aseh distinction covered in candidate 1.",
+      "chosen_heading": "Hazah vs Amira",
+      "current_heading": "Hazah vs Amira",
+      "moved": false
+    }
+  }
+]

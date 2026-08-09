@@ -19,8 +19,8 @@
           "timestamp": "00:57"
         }
       ],
-      "sefaria_index": 2,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara's Examples: When the Word Matana (Gift) Appears at Beginning, Middle, or End of Declaration",
@@ -43,7 +43,7 @@
           "timestamp": "04:53"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -177,7 +177,7 @@
           "timestamp": "40:35"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -201,7 +201,7 @@
           "timestamp": "46:48"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 20,
       "matched": true
     },
     {
@@ -225,7 +225,7 @@
           "timestamp": "52:29"
         }
       ],
-      "sefaria_index": 21,
+      "sefaria_index": 20,
       "matched": false
     }
   ],
@@ -571,5 +571,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "19:20",
+  "amud_b_micro_title": "Braisa Setup",
+  "shiur_start_daf": 128,
+  "shiur_start_amud": "b"
 }

@@ -1,0 +1,604 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Weapons & Pouch",
+    "candidates": [
+      "Magistrate & Afflictions",
+      "Body Preserved & Burial",
+      "Widow's Response",
+      "Weapons & Pouch",
+      "Good Deeds Debate",
+      "Suffering & Merit",
+      "Teacher Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the complete exchange \u2014 Rabbi's marriage proposal, the widow's 'sacred vessel' refusal, the proverb, Rabbi's counter-claim about good deeds, and her final reply about yissurim \u2014 which as a whole unit best fits under the 'Widow's Response' heading that introduces this entire episode, rather than being split across the middle headings where it currently partially sits.",
+      "chosen_heading": "Widow's Response",
+      "current_heading": "Weapons & Pouch",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Teacher Hierarchy",
+    "candidates": [
+      "Good Deeds Debate",
+      "Suffering & Merit",
+      "Teacher Hierarchy",
+      "Students Challenge Rabbis",
+      "The Dove Speech",
+      "Korcha's Challenge",
+      "Elazar's Resentment",
+      "Support Withdrawn"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Teacher Hierarchy",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe the youth scene where Rabbi Elazar and Rabbi sit on the ground, raise difficulties, and are elevated to benches \u2014 exactly what heading 2 ('Teacher Hierarchy') and 3 ('Students Challenge Rabbis') cover, but heading 2's prose introduces the story and heading 3's prose covers the elevation, so items 1-2 span both; however the current placement is heading 2 which introduces the bench/floor dynamic, and item 2 fits under heading 3 ('Students Challenge Rabbis') whose prose explicitly discusses *makshu u'mfarku* and the elevation.",
+      "second_heading": "The Dove Speech",
+      "second_confidence": "high",
+      "second_reason": "Item 3 describes Rabban Shimon ben Gamliel's 'fledgling/dove' speech and the subsequent demotion of both scholars, which is precisely what heading 4 ('The Dove Speech') discusses in its prose.",
+      "current_heading": "Teacher Hierarchy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Support Withdrawn",
+    "candidates": [
+      "Students Challenge Rabbis",
+      "The Dove Speech",
+      "Korcha's Challenge",
+      "Elazar's Resentment",
+      "Support Withdrawn",
+      "Father's Comfort"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes exactly the dynamic discussed in 'Support Withdrawn' \u2014 Rabbi Elazar ben Rabbi Shimon's shift from supporting Rabbi to preempting and undermining him with 'bundles of refutations that have no substance,' which is precisely what that section's prose elaborates.",
+      "chosen_heading": "Support Withdrawn",
+      "current_heading": "Support Withdrawn",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Father's Comfort",
+    "candidates": [
+      "Father's Comfort",
+      "The List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi becoming offended and his father comforting him with the 'lion son of a lion / lion son of a fox' characterization, which is exactly what the 'Father's Comfort' prose describes and analyzes.",
+      "chosen_heading": "Father's Comfort",
+      "current_heading": "Father's Comfort",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "The List",
+    "candidates": [
+      "The List",
+      "Shimon's Humility",
+      "Beteira's Recognition",
+      "Yonatan's Acceptance",
+      "Gemara's Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full list passage \u2014 introducing Rabbi's statement about three modest people and then elaborating on each case \u2014 which matches exactly what heading 0 ('The List') discusses in its prose.",
+      "chosen_heading": "The List",
+      "current_heading": "The List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Gemara's Questions",
+    "candidates": [
+      "Shimon's Humility",
+      "Beteira's Recognition",
+      "Yonatan's Acceptance",
+      "Gemara's Questions",
+      "Rabbi Embraces Suffering",
+      "Nature of Afflictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's challenge questioning whether Jonathan, the sons of Beteira, and Rabban Shimon ben Gamliel were truly modest or merely pragmatic, which is precisely what the 'Gemara's Questions' section prose discusses.",
+      "chosen_heading": "Gemara's Questions",
+      "current_heading": "Gemara's Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Nature of Afflictions",
+    "candidates": [
+      "Rabbi Embraces Suffering",
+      "Nature of Afflictions",
+      "Animal Feeding Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi declaring afflictions precious and accepting them upon himself, which directly matches the prose of 'Rabbi Embraces Suffering' \u2014 that section's prose explicitly discusses Rabbi's declaration and his thirteen years of yissurin, while 'Nature of Afflictions' discusses the details of the specific diseases, which comes after.",
+      "chosen_heading": "Rabbi Embraces Suffering",
+      "current_heading": "Nature of Afflictions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Animal Feeding Timing",
+    "candidates": [
+      "Nature of Afflictions",
+      "Animal Feeding Timing",
+      "Pain's Intensity",
+      "Love vs. Deed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the stableman's wealth, the livestock's loud lowing heard three mil away, and the deliberate timing of feeding to coincide with Rabbi's latrine visits \u2014 exactly what the 'Animal Feeding Timing' prose discusses.",
+      "chosen_heading": "Animal Feeding Timing",
+      "current_heading": "Animal Feeding Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Love vs. Deed",
+    "candidates": [
+      "Pain's Intensity",
+      "Love vs. Deed",
+      "Calf Seeks Refuge",
+      "Heaven's Decree",
+      "Rabbi's Repentance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states that Rabbi Elazar ben Rabbi Shimon's afflictions came and left 'out of love' while Rabbi's came and left 'due to an incident,' which is precisely the distinction the prose under 'Love vs. Deed' elaborates upon.",
+      "chosen_heading": "Love vs. Deed",
+      "current_heading": "Love vs. Deed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Rabbi's Repentance",
+    "candidates": [
+      "Calf Seeks Refuge",
+      "Heaven's Decree",
+      "Rabbi's Repentance",
+      "Blessings in Afflictions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Heaven's Decree",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the calf incident and Heaven's decree of afflictions, which matches candidate 1 ('Heaven's Decree') whose prose explicitly discusses the heavenly response 'since he did not show compassion, let him be afflicted.'",
+      "second_heading": "Rabbi's Repentance",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the weasel incident through which Rabbi's afflictions departed, which is exactly what candidate 2 ('Rabbi's Repentance') discusses in its prose about the maidservant sweeping weasels and Rabbi's compassionate intervention.",
+      "current_heading": "Rabbi's Repentance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Blessings in Afflictions",
+    "candidates": [
+      "Blessings in Afflictions",
+      "The Son's Downfall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the miraculous effects of Rabbi Elazar's and Rabbi's suffering (no premature deaths, no need for rain, earth filled with moisture), which is precisely what the 'Blessings in Afflictions' prose discusses in detail.",
+      "chosen_heading": "Blessings in Afflictions",
+      "current_heading": "Blessings in Afflictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "The Son's Downfall",
+    "candidates": [
+      "The Son's Downfall",
+      "Ordination & Placement",
+      "Initial Resistance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi's arrival, inquiry about Rabbi Elazar's son, the report of the son's wayward behavior, and then the initial actions of bringing him and ordaining him \u2014 content that spans both the discovery and the ordination, but the current heading's prose explicitly covers all these elements including the ordination detail, making it the best single match.",
+      "chosen_heading": "The Son's Downfall",
+      "current_heading": "The Son's Downfall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Initial Resistance",
+    "candidates": [
+      "Ordination & Placement",
+      "Initial Resistance",
+      "Success Story",
+      "Proverbs Citation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the daily resistance/oath episode and the later recognition by Rabbi, matching the prose of 'Initial Resistance' which describes both the golden cloak detail, the oath, and the son's commitment to stay \u2014 the current placement is correct.",
+      "chosen_heading": "Initial Resistance",
+      "current_heading": "Initial Resistance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Proverbs Citation",
+    "candidates": [
+      "Success Story",
+      "Proverbs Citation",
+      "Cave Refusal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the Proverbs verse about Rabbi Yosi and Rabbi Shimon ben Isi, which is exactly what the 'Proverbs Citation' section's prose discusses.",
+      "chosen_heading": "Proverbs Citation",
+      "current_heading": "Proverbs Citation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Cave Refusal",
+    "candidates": [
+      "Cave Refusal",
+      "Heaven's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the serpent blocking the cave and the people's initial conclusion, which matches exactly what the 'Cave Refusal' section prose discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Cave Refusal",
+      "current_heading": "Cave Refusal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Heaven's Explanation",
+    "candidates": [
+      "Heaven's Explanation",
+      "Grandson's Deeds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Divine Voice's explanation about cave suffering, which directly matches the 'Heaven's Explanation' section's prose discussing exactly this bat kol and its content about Rabbi Elazar's cave suffering versus Rabbi Yosi's lack thereof.",
+      "chosen_heading": "Heaven's Explanation",
+      "current_heading": "Heaven's Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Grandson's Deeds",
+    "candidates": [
+      "Grandson's Deeds",
+      "Marriage Incentive",
+      "Marriage Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi arriving at Rabbi Tarfon's place and learning about the grandson who hires prostitutes, which is exactly what the 'Grandson's Deeds' prose discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Grandson's Deeds",
+      "current_heading": "Grandson's Deeds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Marriage Dispute",
+    "candidates": [
+      "Marriage Incentive",
+      "Marriage Dispute",
+      "Academy Reward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the dispute about whether the grandson married and divorced Rabbi's daughter or never married her at all, which is precisely what the 'Marriage Dispute' section's prose discusses.",
+      "chosen_heading": "Marriage Dispute",
+      "current_heading": "Marriage Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Academy Reward",
+    "candidates": [
+      "Academy Reward",
+      "Annulling Decrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses teaching a friend's son Torah and the reward of sitting in the heavenly academy, which is precisely what the 'Academy Reward' section prose describes.",
+      "chosen_heading": "Academy Reward",
+      "current_heading": "Academy Reward",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Annulling Decrees",
+    "candidates": [
+      "Annulling Decrees",
+      "Generational Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses teaching Torah to the son of an am ha'aretz and God annulling decrees for such a person, which is precisely what candidate 0's prose elaborates on.",
+      "chosen_heading": "Annulling Decrees",
+      "current_heading": "Annulling Decrees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Generational Torah",
+    "candidates": [
+      "Generational Torah",
+      "Yosef's First Fast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the same teaching about three generations of Torah scholars guaranteeing perpetual Torah learning, with the Gemara's analysis of 'says the Lord' and 'from now and forever,' which is exactly what the 'Generational Torah' section's prose discusses in detail.",
+      "chosen_heading": "Generational Torah",
+      "current_heading": "Generational Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Yosef's First Fast",
+    "candidates": [
+      "Yosef's First Fast",
+      "Generational Fasts",
+      "Torah's Lodging",
+      "Zeira's Forgetting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three rounds of fasting including the generational extensions and the concluding statement, which matches the 'Generational Fasts' section's prose that describes all three sets of fasts and their progressive promises \u2014 the current placement under 'Yosef's First Fast' only captures the first forty fasts.",
+      "chosen_heading": "Generational Fasts",
+      "current_heading": "Yosef's First Fast",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Zeira's Forgetting",
+    "candidates": [
+      "Generational Fasts",
+      "Torah's Lodging",
+      "Zeira's Forgetting",
+      "Learning Styles",
+      "Pilpul Critique",
+      "Second Fast",
+      "Fire Resistance",
+      "Evil Eye Burns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Zeira's three sets of hundred fasts, and section 2 'Zeira's Forgetting' is specifically about his arrival in Eretz Yisrael and fasting to forget Babylonian Gemara, which is exactly what this passage covers (the current placement is correct).",
+      "chosen_heading": "Zeira's Forgetting",
+      "current_heading": "Zeira's Forgetting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Evil Eye Burns",
+    "candidates": [
+      "Learning Styles",
+      "Pilpul Critique",
+      "Second Fast",
+      "Fire Resistance",
+      "Evil Eye Burns",
+      "Unanswerable Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Rav Zeira's monthly self-examination by sitting in a heated oven, the rabbis giving him the evil eye causing his legs to be singed, and his resulting nickname \u2014 exactly what the 'Evil Eye Burns' section's prose discusses.",
+      "chosen_heading": "Evil Eye Burns",
+      "current_heading": "Evil Eye Burns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150
+    ],
+    "current_heading": "Unanswerable Question",
+    "candidates": [
+      "Unanswerable Question",
+      "Missing Blessings",
+      "Blessings & Gifts",
+      "Humility's Reward",
+      "Wisdom's Rest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Gemara passage about the unanswerable question (Jeremiah 9:11) and its divine resolution, which is precisely what candidate 0's prose describes \u2014 the rabbis could not explain it, the prophets could not explain it, until God explained it Himself, with the 'shelo barchu batorah' interpretation being part of the same continuous passage that candidate 0's prose already summarizes in full.",
+      "chosen_heading": "Unanswerable Question",
+      "current_heading": "Unanswerable Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      160
+    ],
+    "current_heading": "Wisdom's Rest",
+    "candidates": [
+      "Missing Blessings",
+      "Blessings & Gifts",
+      "Humility's Reward",
+      "Wisdom's Rest",
+      "Coin Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Rav \u1e24ama teaching about wisdom resting in the heart of a talmid chacham ben talmid chacham and Ulla's coin parable, which is precisely what the 'Wisdom's Rest' section prose describes and discusses.",
+      "chosen_heading": "Wisdom's Rest",
+      "current_heading": "Wisdom's Rest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Coin Parable",
+    "candidates": [
+      "Coin Parable",
+      "Slavery to Freedom",
+      "Missing Cave"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is already correctly placed under 'Coin Parable' \u2014 the prose of that section explicitly discusses and expounds both parts of the verse (katan/gadol and eved/chofshi), with the 'Slavery to Freedom' section providing only the follow-on commentary on the second half of the verse.",
+      "chosen_heading": "Coin Parable",
+      "current_heading": "Coin Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      170
+    ],
+    "current_heading": "Missing Cave",
+    "candidates": [
+      "Slavery to Freedom",
+      "Missing Cave",
+      "Despondency",
+      "Heaven's Response",
+      "Chiya's Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the entire episode from cave-marking through the Divine Voice, and candidate 1 ('Missing Cave') is where it currently sits, but actually the passage contains all elements \u2014 the missing cave, despondency, and heavenly response \u2014 so it belongs under the heading whose prose best matches its opening content, which is the 'Missing Cave' section that introduces the full narrative unit.",
+      "chosen_heading": "Missing Cave",
+      "current_heading": "Missing Cave",
+      "moved": false
+    }
+  }
+]

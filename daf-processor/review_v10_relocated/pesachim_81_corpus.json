@@ -1,0 +1,182 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Shomeret Yom Scenario",
+    "candidates": [
+      "Ritzuy Tzitz Basics",
+      "Object vs. Person Tumah",
+      "Tumat HaTehom Exception",
+      "Shomeret Yom Scenario",
+      "Rabbi Yose's Baraita",
+      "Rami's Objection",
+      "Zav & Zavah Cases",
+      "Retroactivity Challenge",
+      "Rav Oshaya's Position",
+      "Rabbi Yoshia's Response",
+      "Miktzat HaYom Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita of Rabbi Yose describing the shomeret yom kineged yom case \u2014 she bled, they slaughtered and sprinkled on her second day, she then saw blood, cannot eat, but is exempt from Pesach Sheni \u2014 which is precisely the baraita that heading 4 ('Rabbi Yose's Baraita') describes its prose as citing and analyzing.",
+      "chosen_heading": "Rabbi Yose's Baraita",
+      "current_heading": "Shomeret Yom Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Miktzat HaYom Principle",
+    "candidates": [
+      "Rabbi Yose's Baraita",
+      "Rami's Objection",
+      "Zav & Zavah Cases",
+      "Retroactivity Challenge",
+      "Rav Oshaya's Position",
+      "Rabbi Yoshia's Response",
+      "Miktzat HaYom Principle",
+      "Rav Yosef's Question",
+      "Rava's Kal VaChomer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 12,
+      "first_heading": "Miktzat HaYom Principle",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-12 form a continuous chain about Rabbi Yosei's position on retroactive tumah and its implications, including the zavah gedolah question, which matches heading 6's discussion of these topics.",
+      "second_heading": "Rav Yosef's Question",
+      "second_confidence": "high",
+      "second_reason": "Item 13 is precisely Rav Yosef's dilemma about whether tumat hatehom applies to a kohen performing the tamid, which is exactly what heading 7 describes.",
+      "current_heading": "Miktzat HaYom Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Rava's Kal VaChomer",
+    "candidates": [
+      "Rav Yosef's Question",
+      "Rava's Kal VaChomer",
+      "Halacha Lemoshe Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabba/Rava's kal v'chomer argument \u2014 that if tumat hatehom is permitted for korban pesach (where known tumah is not permitted), it should certainly be permitted for communal offerings like the tamid (where known tumah is permitted) \u2014 which is precisely what the prose of candidate 1 describes.",
+      "chosen_heading": "Rava's Kal VaChomer",
+      "current_heading": "Rava's Kal VaChomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Halacha Lemoshe Status",
+    "candidates": [
+      "Halacha Lemoshe Status",
+      "Meis Across Road"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Halacha Lemoshe Status",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly match the 'Halacha Lemoshe Status' prose, which describes the rejection of kal v'chomer from halacha l'Moshe miSinai (the Rabbi Eliezer/Akiva debate) and Rava's gezeirah shavah of 'b'moado' from pesach to tamid.",
+      "second_heading": "Meis Across Road",
+      "second_confidence": "low",
+      "second_reason": "Items 3-5 discuss the Scriptural source for tumat hatehom (the 'beside him'/'clear to you' derivations), which does not match either candidate's prose well, but the 'Meis Across Road' section about tumat hatehom cases is a closer fit than the kal v'chomer discussion.",
+      "current_heading": "Halacha Lemoshe Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Meis Across Road",
+    "candidates": [
+      "Meis Across Road",
+      "Rashi/Tosafot Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All nine items deal with tumat hatehom \u2014 its definition, the dispute among amoraim about its source, Mar bar Rav Ashi's ruling about before/after sprinkling, and the baraita about a corpse lying across the width of a road \u2014 exactly the content described in the 'Meis Across Road' prose section.",
+      "chosen_heading": "Meis Across Road",
+      "current_heading": "Meis Across Road",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Rashi/Tosafot Limit",
+    "candidates": [
+      "Rashi/Tosafot Limit",
+      "Rabbi Eliezer's Source",
+      "Rabbi Yochanan's Source",
+      "Reish Lakish's Source",
+      "Scripture Source Quiz",
+      "Tumat HaTehom Halacha",
+      "Body Across Road",
+      "Broken Body vs. Grave",
+      "Manner of Travel",
+      "Definition of Unknown",
+      "Exceptions to Definition",
+      "Tumat HaTehom Scope"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Broken Body vs. Grave",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the broken/dismembered body distinctions (whole vs. broken, grave vs. open, foot vs. loaded/riding) which match exactly the prose of 'Broken Body vs. Grave' and 'Manner of Travel' sections, but since they form one continuous unit they best fit under heading 7 which covers both refinements.",
+      "second_heading": "Definition of Unknown",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 define tumat hatehom (unknown to even one person anywhere, hidden in hay/dirt/pebbles vs. water/darkness/clefts, and limited to a corpse), which matches exactly the prose of heading 9 'Definition of Unknown' and its follow-on sections.",
+      "current_heading": "Rashi/Tosafot Limit",
+      "moved": true
+    }
+  }
+]

@@ -66,11 +66,7 @@ The case of *ha'noten sela v'notel shekel* — one who gives a full *sela* and r
 
 ### Fee Type
 
-The *mishna* specifies the amount of the *kolbon*: *ma'ah kesef*, divrei *Rabbi Meir* — a *ma'ah*, which is a twenty-fourth of a *sela* and thus a twelfth of the half-*shekel*, according to *Rabbi Meir*. *Vachachamim omrim chatzi ma'ah* — the *Chachamim* say it is half a *ma'ah*, which amounts to approximately four percent of the half-*shekel*. Four percent is a meaningful surcharge; the typical money-changer's commission in other contexts was likely lower.
-
-There is a further dispute regarding the destination of these collected *kolbon* funds. *Rabbi Meir* holds that the *kolbon* monies go to the same fund as the *shekel* itself — toward the *korbanot tzibur*. The *Chachamim*, by contrast, hold that it goes to the *shulchani* — to the money changer — or to other Temple funds. This dispute reflects a deeper disagreement about the nature of the *kolbon*: if it is truly an integral part of the *shekel* obligation (as *Rabbi Meir* maintains), it makes sense that it flows to the same purpose; if it is merely a service charge, it would naturally be directed elsewhere.
-
----
+The *kolbon*, it emerges, is best understood not as a fee specifically for making change — though that is the intuitive reading — but more broadly as a transaction fee: the cost of running the entire collection operation, hiring people to sit and receive the funds, much as an online donation platform charges a processing fee regardless of whether change is actually involved. Even when two people bundle their obligations into a single payment, only one *kolbon* is owed rather than two. And notably, if one of those two people is exempt from the *kolbon*, the other piggybacks on that exemption and pays nothing at all.
 
 ## Kolbon Fee (II)
 

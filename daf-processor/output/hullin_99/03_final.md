@@ -1,13 +1,13 @@
-# Hullin 99 — Daf Yomi Shiur
 [DAF:99a]
-
 ## Ta'am vs. Shishim
+
+
 
 ### Two Models of Bitul
 
 The sugya of Hullin 99 sits at the heart of some of the most fundamental questions in practical *kashrut* — the twin criteria of *ta'am* (taste) and *shishim* (one-in-sixty) as measures for *bitul*. To appreciate where we are picking up, it is worth briefly recalling the two models that the *gemara* has been developing.
 
-The first model is taste-based. The *mishna* raises the question of the *gid hanasheh* cooked in the thigh: the criterion is whether the forbidden substance can still be tasted. When like mixed with like — makes tasting impossible, the *mishna* suggests an analogy: evaluate it as one would evaluate meat cooked with turnips, treating the permissible meat as a stand-in for the *gid* and assessing whether the taste can be detected. The *gemara* extends this approach, introducing the model of imagining every forbidden substance as if it were an onion, so that its potential contribution to taste is treated stringently. Rabbi Yochanan goes further, opening the possibility of relying on a non-Jewish taster — a professional cook, for instance — to determine whether *ta'am* is present, or, if the food is otherwise *kosher*, even a Jewish taster.
+The first model is taste-based. The *mishna* raises the question of the *gid hanasheh* cooked in the thigh: the criterion is whether the forbidden substance can still be tasted. When *min b'mino* — like mixed with like — makes tasting impossible, the *mishna* suggests an analogy: evaluate it as one would evaluate meat cooked with turnips, treating the permissible meat as a stand-in for the *gid* and assessing whether the taste can be detected. The *gemara* extends this approach, introducing the model of imagining every forbidden substance as if it were an onion, so that its potential contribution to taste is treated stringently. Rabbi Yochanan goes further, opening the possibility of relying on a non-Jewish taster — a professional cook, for instance — to determine whether *ta'am* is present, or, if the food is otherwise *kosher*, even a Jewish taster.
 
 The second model is quantitative. Unable or unwilling to rely on tasting in every case, the *gemara* develops the *shiur* of sixty — a ratio at which the forbidden substance is presumed to be *battel*. This ratio emerged as a stand-in for *ta'am*: when *ta'am* cannot be assessed directly, one-in-sixty serves as a proxy. The *gemara* noted that earlier traditions had fluctuated — one-in-thirty for certain rabbinic prohibitions, one-in-forty-five or forty-seven in some contexts — but one-in-sixty eventually became the operative standard.
 
@@ -17,27 +17,28 @@ These two models map, broadly, onto the divergence between Sephardic and Ashkena
 
 The Ashkenazic approach, by contrast, adopts a unified standard. Rather than adjudicate each case individually, Ashkenazic practice follows one-in-sixty as the universal rule — what one might describe as the "keep it simple" principle, which in practice means adopting the most stringent applicable standard. The Ashkenazic authorities do not in principle deny that *ta'am* is the underlying concern, but they prefer a fixed numerical threshold to case-by-case evaluation.
 
-### Rashi: Quantitative Requ…
+### Rashi: Quantitative Insig
 
 This brings us to a striking dispute between the *rishonim* about the nature of the *shiur* itself. Rashi reads the *gemara's* derivation from the *psukimm* — the *zroa beshelah*, the cooked arm of the ram brought as part of the *shelamim* offering — as establishing an independent biblical requirement. On Rashi's view, there is a quantitative threshold that operates independently of *ta'am*: even if *ta'am k'ikar d'oraisa* is itself subject to debate, the Torah independently requires that the forbidden substance be quantitatively insignificant. One-in-sixty, or according to another opinion one-in-a-hundred, is not merely a stand-in for taste but a self-standing biblical criterion.
 
 ### Tosafot: Asmachta Model
 
-Tosafot disagrees sharply. According to Tosafot, the *gemara's* use of those *pesukim* is an *asmachta* — a supporting textual peg for what is, at its core, a rabbinic enactment. The one-in-sixty rule is a rabbinic substitute for the *ta'am* test, and the *pesukim* lend it a textual anchor without making it a genuine biblical derivation. On this reading, the fundamental Torah-level concern remains *ta'am*, and the numerical standard is an instituted rabbinic proxy.
+Tosafot disagrees sharply. According to Tosafot, the *gemara's* use of those *pesukim* is an *asmachta* — a supporting textual peg for what is, at its core, a rabbinic enactment. The one-in-sixty rule is a rabbinic substitute for the *ta'am* test, and the *pesukim* lend it a textual anchor without making it a genuine biblical derivation. On this reading, the fundamental Torah-level concern remains *ta'am*, and the numerical standard is an instituted rabbinic proxy. This also explains why the one-in-sixty ratio works the way it does: in cases of *min b'mino* — like with like, such as meat mixed with meat — there is no way to conduct a taste test, since the substances are identical, and the numerical standard steps in precisely to fill that gap. Where a *ta'am* test is possible, it remains the operative measure; where it is not, the rabbinic ratio provides the only workable criterion. With those two positions in view — Rashi's independent biblical *shiur* and Tosafot's *asmachta* model — the *gemara* turns to address a complication in the derivation itself, a question the next section resolves through Ravina's distinction.
 
 ---
 
 ## Ravina: Makom Chatech
 
+
+
 ### Leniency at Cut Site
 
 > **Hebrew/Aramaic:** רָבִינָא אָמַר: לֹא נִצְרְכָה אֶלָּא לִמְקוֹם חֲתָךְ, דְּאָמַר: מְקוֹם חֲתָךְ בְּעָלְמָא אָסוּר, וְהָכָא שְׁרֵי.
->
-> **Translation:** **Ravina said** an alternative explanation of the term: This is, that appears in the *baraita* with regard to the nazirite's ram. This limitation **is necessary only for the place** where the foreleg is **cut** from the body of the ram, **as** it was **said** that in a case where permitted and forbidden foods were attached and one cut the forbidden section from the permitted section, **the place of the cut** on the permitted part **is generally forbidden. But here,** in the case of the nazirite's ram, **it is permitted.**
+> **Translation:** **Ravina said** an alternative explanation of the term: This is, that appears in the *baraita* with regard to the nazirite’s ram. This limitation **is necessary only for the place** where the foreleg is **cut** from the body of the ram, **as** it was **said** that in a case where permitted and forbidden foods were attached and one cut the forbidden section from the permitted section, **the place of the cut** on the permitted part **is generally forbidden. But here,** in the case of the nazirite’s ram, **it is permitted.**
 
 Having surveyed those two positions, the *gemara* now turns to a lingering problem. Earlier, the *gemara* had cited the *zroa beshelah* — the arm of the ram cooked for the *shelamim* — as the source from which to derive the *shiur* of sixty or a hundred. But a complication arose: the *gemara* had also noted that this case was described as a special leniency, which raises the question of what the leniency pertains to and whether one can legitimately derive general *bitul* rules from it.
 
-Ravina resolves this by arguing that the special leniency of the *zroa beshelah* has nothing whatsoever to do with *bitul* and therefore cannot undermine the derivation. The leniency, he says — concerns the place of cutting: Normally, the exact point at which a forbidden thing is severed from the permitted is treated with stringency. Here, in this particular case, the Torah is lenient about that precise boundary zone.
+Ravina resolves this by arguing that the special leniency of the *zroa beshelah* has nothing whatsoever to do with *bitul* and therefore cannot undermine the derivation. The leniency, he says — *lo nitzrecha ela limkom chatech* — concerns the place of cutting: *d'amar makom chatech batar amma shadi*. Normally, the exact point at which a forbidden thing is severed from the permitted is treated with stringency. Here, in this particular case, the Torah is lenient about that precise boundary zone.
 
 ### Fetus & Arm Boundary
 
@@ -53,21 +54,22 @@ Tosafot adds that this principle is not unique to the *zroa beshelah* but applie
 
 ## Abaye's Challenge
 
-### Rav Dimi's Report
 
-> **Hebrew/Aramaic:** יָתֵיב רַב דִּימִי, וְקָאָמַר לַהּ לְהָא שְׁמַעְתָּא.
->
-> **Translation:** § The Gemara returns to discussing the statement of Rabbi Shmuel bar Rav Yitzḥak (98a) that forbidden food is nullified in a mixture only if there is one hundred times its volume of permitted food. **Rav Dimi sat and said this *halakha*.**
+
+### Rav Dimi's Report
 
 With Ravina's resolution of the *zroa beshelah* difficulty in place, the *gemara* now records a separate exchange. Rav Dimi was sitting and relating this entire discussion — the attempt to ground a *shiur* of one-in-sixty or one-in-a-hundred in *pesukim* as an independent requirement for *bitul*. Abaye challenged him directly: how could there be any opinion requiring one-in-a-hundred for ordinary *issurim* across the board?
 
+> **Hebrew/Aramaic:** יָתֵיב רַב דִּימִי, וְקָאָמַר לַהּ לְהָא שְׁמַעְתָּא.
+> **Translation:** § The Gemara returns to discussing the statement of Rabbi Shmuel bar Rav Yitzḥak (98a) that forbidden food is nullified in a mixture only if there is one hundred times its volume of permitted food. **Rav Dimi sat and said this *halakha*.**
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: וְכׇל אִיסּוּרִין שֶׁבַּתּוֹרָה בְּמֵאָה? וְהָתְנַן: לָמָה אָמְרוּ כׇּל הַמְחַמֵּץ וּמְתַבֵּל וּמְדַמֵּעַ לְהַחְמִיר – מִין וּמִינוֹ, לְהָקֵל וּלְהַחְמִיר – מִין וְשֶׁאֵינוֹ מִינוֹ.
+> **Translation:** **Abaye said to him: And** is it true that **all the forbidden** foods **in the Torah** that are mixed with permitted foods are nullified only **in** a mixture containing **one hundred** times their volume of permitted food? **But didn’t we learn** in a mishna (*Orla* 2:6): **Why did** the Sages **say** that with regard to **anyone who leavens** non-sacred food with a leavening agent that is *teruma* **or flavors** it with spices of *teruma* **or mixes** *teruma* into non-sacred food, thereby making the food forbidden for non-priests, the *halakha* is **to be stringent** if he mixed one **type** of food that is *teruma* with non-sacred food of the same **type.** But the *halakha* is **to be lenient and to be stringent** if he mixed one **type** of *teruma* with non-sacred food of **a different type.**
+
 ### Orlah Mishna Analysis
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: וְכׇל אִיסּוּרִין שֶׁבַּתּוֹרָה בְּמֵאָה? וְהָתְנַן: לָמָה אָמְרוּ כׇל הַמְחַמֵּץ וּמְתַבֵּל וּמְדַמֵּעַ לְהַחְמִיר – מִין וּמִינוֹ, לְהָקֵל וּלְהַחְמִיר – מִין וְשֶׁאֵינוֹ מִינוֹ.
->
-> **Translation:** **Abaye said to him: And** is it true that **all the forbidden** foods **in the Torah** that are mixed with permitted foods are nullified only **in** a mixture containing **one hundred** times their volume of permitted food? **But didn't we learn** in a mishna (*Orla* 2:6): **Why did** the Sages **say** that with regard to **anyone who leavens** non-sacred food with a leavening agent that is *teruma* **or flavors** it with spices of *teruma* **or mixes** *teruma* into non-sacred food, thereby making the food forbidden for non-priests, the *halakha* is **to be stringent** if he mixed one **type** of food that is *teruma* with non-sacred food of the same **type.** But the *halakha* is **to be lenient and to be stringent** if he mixed one **type** of *teruma* with non-sacred food of **a different type.**
 
-To press the point, Abaye invokes a *mishna* — specifically the *mishna* in *Orlah*. The *mishna* asks: in what circumstances do the rules of *mechametz* (leavening), *metabel* (seasoning), and *medameh* (simple mixture — here in the context of *terumah*) apply to create a stringency? The answer it gives is: the stricter numerical threshold applies when like is mixed with like. But by unlike mixed with unlike, apples and oranges — the rule cuts both ways: it can be strict and it can be lenient. The *mishna* then explains: for unlike items, taste governs exclusively. If the forbidden substance can be tasted, it is forbidden; if it cannot be tasted, it is permitted — and this is true regardless of whether there is or is not a ratio of one-in-a-hundred. The numbers are simply irrelevant when it is apples and oranges.
+To press the point, Abaye invokes a *mishna* — specifically the *mishna* in *Orlah*. The *mishna* asks: in what circumstances do the rules of *mechametz* (leavening), *metabel* (seasoning), and *medameh* (simple mixture — here in the context of *terumah*) apply to create a stringency? The answer it gives is: *lehachmir min b'mino* — the stricter numerical threshold applies when like is mixed with like. But by *min vesheino mino* — unlike mixed with unlike, apples and oranges — the rule cuts both ways: it can be strict and it can be lenient. The *mishna* then explains: for unlike items, taste governs exclusively. If the forbidden substance can be tasted, it is forbidden; if it cannot be tasted, it is permitted — and this is true regardless of whether there is or is not a ratio of one-in-a-hundred. The numbers are simply irrelevant when it is apples and oranges.
 
 This, says Abaye, proves that across the *mishnyot*, there is no numerical threshold for ordinary *issurim* — only taste. Numbers of the type one-in-a-hundred belong to a specialized domain: certain agricultural prohibitions like *terumah* and *orlah*. They have never appeared as a standard for ordinary *issurim*, where the measure has always and only been *ta'am*.
 
@@ -85,38 +87,44 @@ This dual character of *min b'mino* explains what would otherwise seem paradoxic
 
 ## Orlah Mishna Deep Dive
 
+
+
 ### Split Peas Example
 
-> **Hebrew/Aramaic:** וְקָתָנֵי סֵיפָא לְהָקֵל וּלְהַחְמִיר מִין וְשֶׁאֵינוֹ מִינוֹ, כֵּיצַד? גְּרִיסִין שֶׁנִּתְבַּשְּׁלוּ עִם הָעֲדָשִׁים, אִם יֵשׁ בָּהֶם בְּנוֹתֵן טַעַם, בֵּין יֵשׁ בָּהֶן לְהַעֲלוֹת בְּמֵאָה וְאֶחָד, בֵּין אֵין בָּהֶן לְהַעֲלוֹת בְּמֵאָה וְאֶחָד – אָסוּר.
->
-> **Translation:** **And it is taught in the latter clause,** i.e., in the following mishna (*Orla* 2:7): When it is stated that the *halakha* is **to be lenient and to be stringent** if he mixed one **type** of *teruma* with non-sacred food **not** of **its type, how** is this accomplished? For example, in a case of **split beans** of *teruma* that were cooked **with** non-sacred **lentils, if there are** enough split beans relative to the lentils to **impart flavor** to the lentils, then regardless of **whether there are** enough lentils **to neutralize** the split beans **in one hundred and one** times their volume, i.e., the volume of the lentils is one hundred and one times the volume of the split beans, or **whether there are not** enough lentils **to neutralize** the split beans **in one hundred and one** times their volume, the entire mixture is **forbidden** to a non-priest.
 
 The *gemara* now examines the *seifa* of the *mishna* in detail. The case presented is split peas (*grisin*) and lentils (*adashim*) cooked together — two types of legume that, while perhaps not as divergent in flavor as, say, meat and fish, are considered different enough to constitute *min b'she'eino mino* for these purposes. One of them is *terumah* and the other is ordinary produce. What is the rule?
 
 The *mishna* states: if you can taste it, it is forbidden, regardless of whether the ratio reaches one-in-a-hundred-and-one or not. Conversely, if you cannot taste it, it is permitted — again regardless of whether the ratio is one-in-a-hundred-and-one or not. In other words, for *min b'she'eino mino*, the numerical threshold of one-in-a-hundred is entirely irrelevant. Taste governs exclusively and completely.
 
+[DAF:99b]
 ### Gemara's Inference
 
+> **Hebrew/Aramaic:** וְקָתָנֵי סֵיפָא לְהָקֵל וּלְהַחְמִיר מִין וְשֶׁאֵינוֹ מִינוֹ, כֵּיצַד? גְּרִיסִין שֶׁנִּתְבַּשְּׁלוּ עִם הָעֲדָשִׁים, אִם יֵשׁ בָּהֶם בְּנוֹתֵן טַעַם, בֵּין יֵשׁ בָּהֶן לְהַעֲלוֹת בְּמֵאָה וְאֶחָד, בֵּין אֵין בָּהֶן לְהַעֲלוֹת בְּמֵאָה וְאֶחָד – אָסוּר.
+> **Translation:** **And it is taught in the latter clause,** i.e., in the following mishna (*Orla* 2:7): When it is stated that the *halakha* is **to be lenient and to be stringent** if he mixed one **type** of *teruma* with non-sacred food **not** of **its type, how** is this accomplished? For example, in a case of **split beans** of *teruma* that were cooked **with** non-sacred **lentils, if there are** enough split beans relative to the lentils to **impart flavor** to the lentils, then regardless of **whether there are** enough lentils **to neutralize** the split beans **in one hundred and one** times their volume, i.e., the volume of the lentils is one hundred and one times the volume of the split beans, or **whether there are not** enough lentils **to neutralize** the split beans **in one hundred and one** times their volume, the entire mixture is **forbidden** to a non-priest.
+
 > **Hebrew/Aramaic:** אֵין בָּהֶן בְּנוֹתֵן טַעַם, בֵּין שֶׁיֵּשׁ בָּהֶן לְהַעֲלוֹת בְּמֵאָה וְאֶחָד, בֵּין אֵין בָּהֶן לְהַעֲלוֹת בְּמֵאָה וְאֶחָד – מוּתָּר.
->
 > **Translation:** Conversely, if **there are not** enough split beans of *teruma* to **impart flavor** to the lentils, then regardless of **whether there are** enough lentils **to neutralize** the split beans **in one hundred and one** times their volume, or **whether there are not** enough lentils **to neutralize** the split beans **in one hundred and one** times their volume, the mixture is **permitted** even to a non-priest.
 
-Here the *gemara* makes a striking move. One might have thought that if taste is absent, that is simply the end of the matter — no further criterion need be satisfied. But the *gemara* now operates from a different assumption: it takes for granted that a *shiur* must be in play, that there is always some numerical standard lurking in the background. On this assumption, the *mishna's* statement that the food is permitted without a hundred-to-one ratio must mean that a different, lower number is operative. And since the only alternative number the *gemara* knows of is sixty, it infers: must it not be sixty? This *mishna* would thus prove that the correct *shiur* is sixty rather than a hundred, since it explicitly excludes the stricter threshold of a hundred for the case of *min b'she'eino mino*.
-
-The *gemara* challenges this inference: perhaps the number that applies in this lenient case is still a hundred, just as in the strict case. But this creates an immediate problem: if the lenient case of apples-and-oranges also requires a hundred, it is no different from the strict case of apples-and-apples, and the *mishna's* distinction between the two collapses. The *gemara* therefore responds: perhaps both the *reisha* and *seifa* operate with a hundred, but a different kind of hundred.
-
-[DAF:99b]
-### Yeast Example
+> **Hebrew/Aramaic:** אֵין בָּהֶן לְהַעֲלוֹת בְּמֵאָה וְאֶחָד, אֶלָּא בְּמַאי? לָאו בְּשִׁשִּׁים?
+> **Translation:** Abaye commented: When the mishna says that **there are not** enough lentils **to neutralize** the split beans **in one hundred and one** times their volume, and nevertheless if the split beans did not impart flavor to the lentils, the mixture is permitted, **in what** amount of lentils are the split beans nullified? Is it **not** that the split beans are permitted because they are mixed **with sixty** times their volume of non-sacred lentils? This contradicts the opinion of Rabbi Shmuel bar Rav Yitzḥak.
 
 > **Hebrew/Aramaic:** לָא, בְּמֵאָה.
->
 > **Translation:** Rav Dimi answered Abaye: **No,** the mishna means that although there is not one hundred and one times as much non-sacred food as *teruma*, the *teruma* is nullified because there is **one hundred** times its volume of non-sacred food.
 
+Here the *gemara* makes a striking move. One might have thought that if taste is absent, that is simply the end of the matter — no further criterion need be satisfied. But the *gemara* now operates from a different assumption: it takes for granted that a *shiur* must be in play, that there is always some numerical standard lurking in the background. On this assumption, the *mishna's* statement that the food is permitted without a hundred-to-one ratio must mean that a different, lower number is operative. And since the only alternative number the *gemara* knows of is sixty, it infers: *lav b'shishim* — must it not be sixty? This *mishna* would thus prove that the correct *shiur* is sixty rather than a hundred, since it explicitly excludes the stricter threshold of a hundred for the case of *min b'she'eino mino*.
+
+The *gemara* challenges this inference: perhaps the number that applies in this lenient case is still a hundred, just as in the strict case. But this creates an immediate problem: if the lenient case of apples-and-oranges also requires a hundred, it is no different from the strict case of apples-and-apples, and the *mishna's* distinction between the two collapses. The *gemara* therefore responds: *rישא וסיפא be-me'ah* — perhaps both the *reisha* and *seifa* operate with a hundred, but a different kind of hundred.
+
 > **Hebrew/Aramaic:** וְהָא מִדְּרֵישָׁא בְּמֵאָה הָוֵי, סֵיפָא בְּשִׁשִּׁים! דְּקָתָנֵי רֵישָׁא: לְהַחְמִיר מִין וּמִינוֹ כֵּיצַד? שְׂאוֹר שֶׁל חִטִּין שֶׁנָּפַל לְעִיסַּת חִטִּין, וְיֵשׁ בּוֹ כְּדֵי לְחַמֵּץ, בֵּין יֵשׁ בּוֹ כְּדֵי לְהַעֲלוֹת בְּמֵאָה וְאֶחָד, בֵּין אֵין בּוֹ כְּדֵי לְהַעֲלוֹת בְּמֵאָה וְאֶחָד – אָסוּר.
->
 > **Translation:** Abaye responded: **But since the first clause** states that it is nullified **in one hundred** times its volume, it must **be** that **the latter clause** is referring to a case where there is **sixty** times its volume. **As** the mishna (*Orla* 2:6) **teaches in the first clause:** When it is stated that the *halakha* is **to be stringent** if one **type** of *teruma* is mixed with non-sacred food of **its type, how** is this accomplished? For example, in a case of **leaven of** *teruma* **wheat that fell into dough** made of non-sacred **wheat, and there is enough** *teruma* **to cause** the non-sacred wheat **to become leavened, whether there is** enough non-sacred wheat **to neutralize** the *teruma* **in one hundred and one** times its volume, or **whether there is not** enough non-sacred wheat **to neutralize** the *teruma* **in one hundred and one** times its volume, the entire dough **is forbidden** to a non-priest.
 
-To understand this response, the *gemara* directs attention to the *reisha* of the *mishna*, the strict case. The example given is sourdough starter made of wheat that fell into wheat dough. This is a classic case of *min b'mino*: it is all wheat, there is no possibility of tasting one against the other. The *mishna* states: if the *se'or* has enough to cause fermentation (*kedei lechametz*), then it is forbidden — regardless of whether there is a ratio of one-in-a-hundred-and-one or not. And the converse: if it does not have enough to cause fermentation, it is also forbidden if the ratio of one-in-a-hundred-and-one is not present.
+> **Hebrew/Aramaic:** אֵין בּוֹ לְהַעֲלוֹת בְּמֵאָה וְאֶחָד, בֵּין שֶׁיֵּשׁ בּוֹ כְּדֵי לְחַמֵּץ, בֵּין אֵין בּוֹ כְּדֵי לְחַמֵּץ – אָסוּר. רֵישָׁא וְסֵיפָא בִּמְאָה?
+> **Translation:** But if **there is not** enough non-sacred wheat **to neutralize** the *teruma* **in one hundred and one** times its volume, then **whether there is** enough *teruma* **to cause** the non-sacred wheat **to become leavened** or **whether there is not** enough *teruma* **to cause** the non-sacred wheat **to become leavened,** the entire dough **is forbidden** to a non-priest. Would you suggest that both **the first clause and the latter clause** are stating that the *teruma* is nullified **in one hundred** times its volume?
+
+### Yeast Example
+
+
+To understand this response, the *gemara* directs attention to the *reisha* of the *mishna*, the strict case. The example given is *se'or shel chittin she-nafal le-issat chittin* — sourdough starter made of wheat that fell into wheat dough. This is a classic case of *min b'mino*: it is all wheat, there is no possibility of tasting one against the other. The *mishna* states: if the *se'or* has enough to cause fermentation (*kedei lechametz*), then it is forbidden — regardless of whether there is a ratio of one-in-a-hundred-and-one or not. And the converse: if it does not have enough to cause fermentation, it is also forbidden if the ratio of one-in-a-hundred-and-one is not present.
 
 This requires unpacking. The logic is as follows: for *min b'mino* where the *shiur* is one-in-a-hundred, there are two independent conditions that must both be satisfied for the mixture to be permitted. First, the forbidden substance must be unable to make its impact felt — in this case, it must be unable to cause fermentation. Second, there must be a ratio of at least one-in-a-hundred of *heter* against the *issur*. Conversely, the mixture is forbidden if either condition is unmet: if the *se'or* can still cause fermentation, no ratio saves it; and if the ratio is insufficient — even if in theory the fermentation ability is absent — it is still forbidden.
 
@@ -124,15 +132,7 @@ The reason both conditions are necessary is that, by *min b'mino*, the measure o
 
 ### Hundred vs. 99
 
-> **Hebrew/Aramaic:** אֵין בּוֹ לְהַעֲלוֹת בְּמֵאָה וְאֶחָד, בֵּין שֶׁיֵּשׁ בּוֹ כְּדֵי לְחַמֵּץ, בֵּין אֵין בּוֹ כְּדֵי לְחַמֵּץ – אָסוּר. רֵישָׁא וְסֵיפָא בִּמְאָה?
->
-> **Translation:** But if **there is not** enough non-sacred wheat **to neutralize** the *teruma* **in one hundred and one** times its volume, then **whether there is** enough *teruma* **to cause** the non-sacred wheat **to become leavened** or **whether there is not** enough *teruma* **to cause** the non-sacred wheat **to become leavened,** the entire dough **is forbidden** to a non-priest. Would you suggest that both **the first clause and the latter clause** are stating that the *teruma* is nullified **in one hundred** times its volume?
-
-> **Hebrew/Aramaic:** לָא, רֵישָׁא בִּמְאָה וְחַד, וְסֵיפָא בִּמְאָה.
->
-> **Translation:** Rav Dimi answered: **No. The first clause** is referring to a case where the *teruma* is mixed **with one hundred and one** times its volume of non-sacred food, **and the latter clause** is referring to a case where the *teruma* is mixed **with one hundred** times its volume of non-sacred food.
-
-The *gemara* now offers its resolution: The key is what "a hundred and one" means in each context. In the strict case of *min b'mino* by *terumah*, one-in-a-hundred-and-one means the forbidden object plus a hundred opposite it — a hundred parts *heter* against the *issur*. In the lenient case of *min b'she'eino mino*, according to the opinion that demanded a numerical threshold for ordinary *issurim*, "a hundred" means a hundred in total: one of *issur* and ninety-nine of *heter*. The difference between the strict and lenient cases is therefore: the strict case demands a hundred of *heter*, while the lenient case requires only ninety-nine.
+The *gemara* now offers its resolution: *lo, reisha be-me'ah ve-chad, ve-seifa be-me'ah*. The key is what "a hundred and one" means in each context. In the strict case of *min b'mino* by *terumah*, one-in-a-hundred-and-one means the forbidden object plus a hundred opposite it — a hundred parts *heter* against the *issur*. In the lenient case of *min b'she'eino mino*, according to the opinion that demanded a numerical threshold for ordinary *issurim*, "a hundred" means a hundred in total: one of *issur* and ninety-nine of *heter*. The difference between the strict and lenient cases is therefore: the strict case demands a hundred of *heter*, while the lenient case requires only ninety-nine.
 
 This answer, it must be said, is not a satisfying one, and it is hardly surprising that the opinion requiring a hundred for ordinary *issurim* is effectively set aside. The whole thrust of the *gemara's* analysis is that a threshold of one-in-a-hundred belongs to the world of *terumah*, *orlah*, and *kil'ayim* — the agricultural prohibitions where elevated *shiurim* are explicitly known. It has no place in the ordinary world of *issurim*, where the *mishnayot* know only taste. The most that can be justified for ordinary *issurim* is one-in-sixty, and even that is either an independent rabbinic enactment (Tosafot's position) or a biblically-grounded independent standard (Rashi's position), but never the heightened threshold of a full hundred-to-one.
 
@@ -140,33 +140,36 @@ This answer, it must be said, is not a satisfying one, and it is hardly surprisi
 
 ## Exceptions: Pungent Items
 
+
+
 ### Se'or Special Case
 
+Having resolved the dispute about sixty versus a hundred, the *gemara* raises a different kind of question — one that cuts against the entire project of reducing *bitul* to a single numerical standard. The *gemara* confronts the following difficulty: if sourdough starter has enough fermenting power to leaven the dough but there is a hundred-to-one ratio against it, why is it still forbidden? Surely its presence is trivial if it is one part in a hundred. The questioner is silenced — he does not know how to respond — and his interlocutor suggests: *dilma shani se'or de-chimutzo kasheh* — perhaps *se'or* is different because its fermenting power is exceptionally strong. Even at one-in-a-hundred dilution, sourdough starter may genuinely retain real leavening capacity.
+
+> **Hebrew/Aramaic:** לָא, רֵישָׁא בִּמְאָה וְחַד, וְסֵיפָא בִּמְאָה.
+> **Translation:** Rav Dimi answered: **No. The first clause** is referring to a case where the *teruma* is mixed **with one hundred and one** times its volume of non-sacred food, **and the latter clause** is referring to a case where the *teruma* is mixed **with one hundred** times its volume of non-sacred food.
+
 > **Hebrew/Aramaic:** וְכִי יֵשׁ בּוֹ כְּדֵי לְחַמֵּץ בִּמְאָה וְחַד, אַמַּאי לָא בְּטִיל? אִישְׁתִּיק.
->
 > **Translation:** Abaye asked Rav Dimi: If so, **when** the mishna states that if **there is** enough *teruma* **to cause** the non-sacred wheat **to become leavened** the entire mixture is forbidden to non-priests, why is that the case? If leaven is mixed **with one hundred and one** times its volume of non-sacred wheat it will have no leavening effect, so **why is it not nullified?** Rav Dimi did not have an answer and **was silent.**
 
-Having resolved the dispute about sixty versus a hundred, the *gemara* raises a different kind of question — one that cuts against the entire project of reducing *bitul* to a single numerical standard. The *gemara* confronts the following difficulty: if sourdough starter has enough fermenting power to leaven the dough but there is a hundred-to-one ratio against it, why is it still forbidden? Surely its presence is trivial if it is one part in a hundred. The questioner is silenced — he does not know how to respond — and his interlocutor suggests: perhaps *se'or* is different because its fermenting power is exceptionally strong. Even at one-in-a-hundred dilution, sourdough starter may genuinely retain real leavening capacity.
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: דִּלְמָא שָׁאנֵי שְׂאוֹר דְּחִימּוּצוֹ קָשֶׁה. אֲמַר לֵיהּ: אַדְכַּרְתַּן מִילְּתָא דְּאָמַר רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא: לֹא כׇּל הַשִּׁיעוּרִין שָׁוִין, שֶׁהֲרֵי צִיר שִׁיעוּרוֹ קָרוֹב לְמָאתַיִם. דִּתְנַן: דָּג טָמֵא צִירוֹ אָסוּר, רַבִּי יְהוּדָה אוֹמֵר: רְבִיעִית בְּסָאתַיִם.
+> **Translation:** Abaye **said to him: Perhaps leaven is different, because its leavening** properties are **potent,** and there are some forms of leaven that can have an effect on such a large quantity of dough. Rav Dimi **said to him: You reminded me** of **a matter that Rabbi Yosei, son of Rabbi Ḥanina, said: Not all the measures are equal, because the measure** required in order to nullify non-kosher fish **brine** is **close to two hundred** times its volume. **As we learned** in a mishna (*Terumot* 10:8): **The brine** of **a non-kosher fish is forbidden. Rabbi Yehuda says: A quarter-***log* of non-kosher fish brine renders kosher food forbidden even if it is mixed **with two *se’a*** of permitted food, which is one hundred ninety-two times as much as a quarter-*log*.
+
+> **Hebrew/Aramaic:** וְהָאָמַר רַבִּי יְהוּדָה: מִין בְּמִינוֹ לֹא בָּטֵיל? שָׁאנֵי צִיר, דְּזֵיעָה בְּעָלְמָא הוּא.
+> **Translation:** The Gemara asks: How can Rabbi Yehuda say that fish brine is nullified at all? **Doesn’t Rabbi Yehuda say** that **a type** of food mixed **with** food of **its** own **type is not nullified?** The Gemara answers: **Brine is different because it is merely sweat,** i.e., it does not have the halakhic status of the fish itself.
 
 ### Fermentation Exception
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: דִּלְמָא שָׁאנֵי שְׂאוֹר דְּחִימּוּצוֹ קָשֶׁה. אֲמַר לֵיהּ: אַדְכַּרְתַּן מִילְּתָא דְּאָמַר רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא: לֹא כׇּל הַשִּׁיעוּרִין שָׁוִין, שֶׁהֲרֵי צִיר שִׁיעוּרוֹ קָרוֹב לְמָאתַיִם. דִּתְנַן: דָּג טָמֵא צִירוֹ אָסוּר, רַבִּי יְהוּדָה אוֹמֵר: רְבִיעִית בְּסָאתַיִם.
->
-> **Translation:** Abaye **said to him: Perhaps leaven is different, because its leavening** properties are **potent,** and there are some forms of leaven that can have an effect on such a large quantity of dough. Rav Dimi **said to him: You reminded me** of **a matter that Rabbi Yosei, son of Rabbi Ḥanina, said: Not all the measures are equal, because the measure** required in order to nullify non-kosher fish **brine** is **close to two hundred** times its volume. **As we learned** in a mishna (*Terumot* 10:8): **The brine** of **a non-kosher fish is forbidden. Rabbi Yehuda says: A quarter-***log* of non-kosher fish brine renders kosher food forbidden even if it is mixed **with two *se'a*** of permitted food, which is one hundred ninety-two times as much as a quarter-*log*.
-
-This suggestion prompts Rav Yosef bar Chanina to articulate a broader principle: not all *shi'urim* are equal. The derivation of a standard *shiur* of sixty (or a hundred) does not mean that this threshold functions identically in every case. Where a substance is exceptionally pungent, possesses unusual fermenting power, or produces a detectable impact by some mechanism other than ordinary flavor, the numbers cannot simply be applied mechanically and treated as dispositive. This is, in essence, a reminder that the underlying concern is always *ta'am* — the perceptible impact of the forbidden substance — and the numerical threshold is a proxy for that concern, not a replacement for it. Where the perceptible impact demonstrably survives the numerical threshold, the threshold alone cannot create *bitul*.
+This suggestion prompts Rav Yosef bar Chanina to articulate a broader principle: *lo kol hashi'urin shavin* — not all *shi'urim* are equal. The derivation of a standard *shiur* of sixty (or a hundred) does not mean that this threshold functions identically in every case. Where a substance is exceptionally pungent, possesses unusual fermenting power, or produces a detectable impact by some mechanism other than ordinary flavor, the numbers cannot simply be applied mechanically and treated as dispositive. This is, in essence, a reminder that the underlying concern is always *ta'am* — the perceptible impact of the forbidden substance — and the numerical threshold is a proxy for that concern, not a replacement for it. Where the perceptible impact demonstrably survives the numerical threshold, the threshold alone cannot create *bitul*.
 
 This principle has obvious practical implications. Spices, artificial flavors, natural flavor additives — all of these are substances whose impact is disproportionate to their quantity. The entire purpose of adding a tiny amount of a flavor concentrate is precisely that it can be tasted even at a minute proportion. The numerical *shiur* cannot simply override what is perceptually present.
 
 ### Tzir & Ze'iva B'Alma
 
-> **Hebrew/Aramaic:** וְהָאָמַר רַבִּי יְהוּדָה: מִין בְּמִינוֹ לֹא בָּטֵיל? שָׁאנֵי צִיר, דְּזֵיעָה בְּעָלְמָא הוּא.
->
-> **Translation:** The Gemara asks: How can Rabbi Yehuda say that fish brine is nullified at all? **Doesn't Rabbi Yehuda say** that **a type** of food mixed **with** food of **its** own **type is not nullified?** The Gemara answers: **Brine is different because it is merely sweat,** i.e., it does not have the halakhic status of the fish itself.
 
-A related case is *tzir* — fish brine. The *gemara* states that for *tzir*, the *shi'ur* required for *bitul* is close to two hundred: The source is a *mishna* stating that the brine of a non-*kosher* fish is forbidden. Rabbi Yehuda gives the *shiur* as a *revi'is* in *sasayim* — approximately a quarter-*log* in two *seah*, which works out to a ratio of roughly one-in-192. This is a remarkable stringency.
+A related case is *tzir* — fish brine. The *gemara* states that for *tzir*, the *shi'ur* required for *bitul* is close to two hundred: *shi'uro karov l'masayim*. The source is a *mishna* stating that the brine of a non-*kosher* fish is forbidden. Rabbi Yehuda gives the *shiur* as a *revi'is* in *sasayim* — approximately a quarter-*log* in two *seah*, which works out to a ratio of roughly one-in-192. This is a remarkable stringency.
 
-The *gemara* then raises a complication: Rabbi Yehuda is the same authority who holds that *min b'mino lo batil* — like-with-like is never nullified. So presumably this *mishna* concerns brine mixed with brine, i.e., *min b'mino*, and his stringency is consistent with his general position. But then the *gemara* notes: Rabbi Yehuda is in fact lenient about *tzir*, because brine is only a mere secretion or sweat of the fish, not the fish itself. Therefore, even Rabbi Yehuda is willing to allow *bitul* for it, and his leniency is expressed through the relatively accessible (for a substance so pungent) standard of one-in-192.
+The *gemara* then raises a complication: Rabbi Yehuda is the same authority who holds that *min b'mino lo batil* — like-with-like is never nullified. So presumably this *mishna* concerns brine mixed with brine, i.e., *min b'mino*, and his stringency is consistent with his general position. But then the *gemara* notes: *shani tzir de-ze'iva b'alma hu* — Rabbi Yehuda is in fact lenient about *tzir*, because brine is only *ze'iva b'alma*, a mere secretion or sweat of the fish, not the fish itself. Therefore, even Rabbi Yehuda is willing to allow *bitul* for it, and his leniency is expressed through the relatively accessible (for a substance so pungent) standard of one-in-192.
 
 Two observations are worth making here. First, Tosafot notes the broader question of whether brine or juices flowing off forbidden substances are themselves biblical prohibitions. If *ta'am k'ikar* is biblical, one might expect the brine to carry the same prohibition as the fish itself, since it carries the same flavor. But there may be gradations — whether the flowing juices constitute the identical *issur* or a derivative one — and those gradations affect the *shiur* required. The *gemara* in fact records a *pasuk* that treats the brine of non-*kosher* fish as a biblical prohibition, even though an argument exists that it is *ze'iva b'alma*.
 
@@ -177,6 +180,8 @@ One further puzzle deserves mention. The entire framework of exceeding the *shiu
 ---
 
 ## Summary & Principles
+
+
 
 ### Practical Story
 
@@ -192,23 +197,27 @@ There is also a broader cultural dimension to the Sephardic willingness to rely 
 
 ## Meat-Turnip Analogy
 
-### Taste Model Setup
 
-> **Hebrew/Aramaic:** כֵּיצַד מְשַׁעֲרִינַן? אָמַר רַב הוּנָא: כְּבָשָׂר בְּרָאשֵׁי לְפָתוֹת. מַתְנִיתִין דְּלָא כְּהַאי תַּנָּא, דְּתַנְיָא: רַבִּי יִשְׁמָעֵאל בְּנוֹ שֶׁל רַבִּי יוֹחָנָן בֶּן בְּרוֹקָה אוֹמֵר: אֵין בְּגִידִין בְּנוֹתֵן טַעַם.
->
-> **Translation:** § The mishna (96b) teaches: **How does one measure** whether there is enough sciatic nerve to impart flavor to the meat of the entire thigh? One relates to it as though the sciatic nerve were meat and the thigh were a turnip. If the meat would impart flavor to the turnip when they were cooked together, then the entire thigh is forbidden. The Gemara states that **Rav Huna says:** The mishna means that it is measured **like meat** cooked in a pot **with turnip heads.** The Gemara notes that **the mishna is not in accordance with** the opinion **of this *tanna*, as it is taught** in a *baraita*: **Rabbi Yishmael, son of Rabbi Yoḥanan ben Beroka, says:** Sciatic **nerves do not impart flavor** at all.
+
+### Taste Model Setup
 
 Having resolved the larger theoretical questions about *ta'am* and *shishim*, the *gemara* returns to the concrete problem with which the *sugya* opened: how does one determine in practice whether a *gid hanasheh* cooked in the thigh has imparted *ta'am*?
 
-Rav Huna offers a practical model: evaluate it as one evaluates meat cooked with the heads of turnips. In other words, take a reference case of meat cooked with turnip heads (or roots, depending on one's reading), and use that as the taste-standard for assessing whether the *gid* has imparted flavor to the surrounding meat and broth. In this model, the meat represents the *gid* and the turnip represents the rest of the pot. There is a dispute between Rashi and Tosafot about whether the *reisha* (top) or the *ikkar* (root) of the turnip is more effective at absorbing and dispersing taste — which in turn affects whether the model is being applied stringently or leniently — but the core principle is clear: a structured analogy serves as a practical instrument for assessing *ta'am* when direct tasting is unavailable or inapplicable.
+Rav Huna offers a practical model: evaluate it *ke'basar be'roshei liftot* — as one evaluates meat cooked with the heads of turnips. In other words, take a reference case of meat cooked with turnip heads (or roots, depending on one's reading), and use that as the taste-standard for assessing whether the *gid* has imparted flavor to the surrounding meat and broth. In this model, the meat represents the *gid* and the turnip represents the rest of the pot. There is a dispute between Rashi and Tosafot about whether the *reisha* (top) or the *ikkar* (root) of the turnip is more effective at absorbing and dispersing taste — which in turn affects whether the model is being applied stringently or leniently — but the core principle is clear: a structured analogy serves as a practical instrument for assessing *ta'am* when direct tasting is unavailable or inapplicable.
+
+> **Hebrew/Aramaic:** כֵּיצַד מְשַׁעֲרִינַן? אָמַר רַב הוּנָא: כְּבָשָׂר בְּרָאשֵׁי לְפָתוֹת. מַתְנִיתִין דְּלָא כְּהַאי תַּנָּא, דְּתַנְיָא: רַבִּי יִשְׁמָעֵאל בְּנוֹ שֶׁל רַבִּי יוֹחָנָן בֶּן בְּרוֹקָה אוֹמֵר: אֵין בְּגִידִין בְּנוֹתֵן טַעַם.
+> **Translation:** § The mishna (96b) teaches: **How does one measure** whether there is enough sciatic nerve to impart flavor to the meat of the entire thigh? One relates to it as though the sciatic nerve were meat and the thigh were a turnip. If the meat would impart flavor to the turnip when they were cooked together, then the entire thigh is forbidden. The Gemara states that **Rav Huna says:** The mishna means that it is measured **like meat** cooked in a pot **with turnip heads.** The Gemara notes that **the mishna is not in accordance with** the opinion **of this *tanna*, as it is taught** in a *baraita*: **Rabbi Yishmael, son of Rabbi Yoḥanan ben Beroka, says:** Sciatic **nerves do not impart flavor** at all.
 
 ---
 
 ## Baraita Gid Dispute
 
+
+
 ### No Taste Position
 
-The *gemara* now introduces a *tanna* whose position stands at odds with the *stam mishna's* assumption that the *gid hanasheh* does pose a potential *ta'am* problem. A *beraita* records the view of Rabbi Yehoshua, son of Yochanan ben Beroka: *gidin* have no taste. Accordingly, if a *gid hanasheh* is cooked in the thigh together with the surrounding meat, one need not concern oneself with *ta'am* at all. The *gid* simply did not impart any flavor, and therefore no question of *bitul* arises.
+
+The *gemara* now introduces a *tanna* whose position stands at odds with the *stam mishna's* assumption that the *gid hanasheh* does pose a potential *ta'am* problem. A *beraita* records the view of Rabbi Yehoshua, son of Yochanan ben Beroka: *ein be'gidim b'nosein ta'am* — *gidin* have no taste. Accordingly, if a *gid hanasheh* is cooked in the thigh together with the surrounding meat, one need not concern oneself with *ta'am* at all. The *gid* simply did not impart any flavor, and therefore no question of *bitul* arises.
 
 It is worth noting that this position is analytically separable from a different claim that appears earlier in the *sugya* — namely, the opinion that since *gid* has no taste, what the Torah forbade must be limited to its identifiable branches (*knoknot*). Rabbi Yehoshua's *beraita* does not directly adjudicate what is or is not forbidden as *gid hanasheh*; it simply asserts a factual claim about taste. One can hold, as the *gemara* elsewhere suggests, that *etzu ve-Torah asarto* — yes, it is like wood, tasteless, but the Torah forbade it nonetheless — while simultaneously accepting that since it has no taste, cooking it with meat creates no secondary *ta'am* problem. These are distinct questions.
 
@@ -216,55 +225,63 @@ It is worth noting that this position is analytically separable from a different
 
 ## Rabbi Chanina Incident
 
+
+
 ### Initial Inquiry
+
+
 
 ### Chanina's Response
 
 > **Hebrew/Aramaic:** הָהוּא דַּאֲתָא לְקַמֵּיהּ דְּרַבִּי חֲנִינָא, הֲוָה יָתֵיב רַבִּי יְהוּדָה בַּר זְבִינָא אַבָּבָא. כִּי נְפַק, אֲמַר לֵיהּ: מַאי אֲמַר לָךְ? אֲמַר לֵיהּ: שַׁרְיָא נִיהֲלֵיהּ.
->
 > **Translation:** There was **a certain** man **who came before Rabbi Ḥanina** to ask about the status of a thigh of an animal that was cooked with its sciatic nerve, and **Rabbi Yehuda bar Zevina was sitting at the gate. When** the man **left,** Rabbi Yehuda bar Zevina **said to him: What did** Rabbi Ḥanina **say to you?** The man **said to him: He permitted me** to eat the thigh.
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ הֲדַר עַיְּילַיהּ לְקַמֵּיהּ, אֲמַר: מַאן הַאי דְּקָא מְצַעַר לִי? זִיל אֵימָא לֵיהּ לְמַאן דְּיָתֵיב אַבָּבָא: אֵין בְּגִידִין בְּנוֹתֵן טַעַם.
->
 > **Translation:** Rabbi Yehuda bar Zevina **said to him: Bring** the animal **before him again;** perhaps he did not fully understand the question. When the man returned to Rabbi Ḥanina, Rabbi Ḥanina **said: Who is this** person **who is bothering me? Go and say to the** individual **who is sitting at the gate,** i.e., Rabbi Yehuda bar Zevina: Sciatic **nerves do not impart flavor.** Consequently, he can remove the sciatic nerve and the rest of the meat is permitted.
 
-The *gemara* now relates a narrative that brings the halakhic pluralism latent in this dispute vividly to life. Someone came before Rabbi Chanina with a question — evidently the classic scenario of a *gid hanasheh* that had been cooked together with the surrounding meat. Rabbi Yehuda bar Zvina was sitting at the doorway of Rabbi Chanina's house, and when the questioner emerged, Rabbi Yehuda asked him: what did he say to you? The questioner replied: he told me it was permitted. Presumably Rabbi Chanina had ruled *ein be'gidin b'nosein ta'am* and told him not to worry.
+The *gemara* now relates a narrative that brings the halakhic pluralism latent in this dispute vividly to life. Someone came before Rabbi Chanina with a question — evidently the classic scenario of a *gid hanasheh* that had been cooked together with the surrounding meat. Rabbi Yehuda bar Zvina was sitting at the doorway of Rabbi Chanina's house, and when the questioner emerged, Rabbi Yehuda asked him: *mai amar lach* — what did he say to you? The questioner replied: *sharya ni alei* — he told me it was permitted. Presumably Rabbi Chanina had ruled *ein be'gidin b'nosein ta'am* and told him not to worry.
 
-Rabbi Yehuda bar Zvina was not satisfied with this answer, and he instructed the questioner to go back inside and ask again, as if perhaps he had misunderstood. The questioner did so. Rabbi Chanina's reaction was sharp: who is this that is troubling me? He then said to the questioner, in effect: go tell whoever is sitting out at the doorway — that *gidin* have no taste and the food is permitted. That is my ruling. I am not changing it because someone finds it surprising or unwelcome, and I am not going to be pressured into reversing a *psak* simply because it is being second-guessed from the doorstep.
+Rabbi Yehuda bar Zvina was not satisfied with this answer, and he instructed the questioner to go back inside and ask again, as if perhaps he had misunderstood. The questioner did so. Rabbi Chanina's reaction was sharp: *man hai de-ka meitzarei li* — who is this that is troubling me? He then said to the questioner, in effect: go tell whoever is sitting out at the doorway — *zil eimal lei leman de-yasiv b'vava* — that *gidin* have no taste and the food is permitted. That is my ruling. I am not changing it because someone finds it surprising or unwelcome, and I am not going to be pressured into reversing a *psak* simply because it is being second-guessed from the doorstep.
 
 The incident is instructive on several levels. Rabbi Chanina is following the position of Rabbi Yehoshua ben Levi, who held that *gid hanasheh* has no *ta'am*. He is fully confident in this ruling and resists the implicit pressure — communicated through the returned questioner — to adopt a more stringent position.
 
 ---
 
-## Pluralistic Halakhic (II)
+## Ammi & Yitzchak: Gid
+
+
 
 ### Referral to Lenient Posek
 
 > **Hebrew/Aramaic:** כִּי אֲתוֹ לְקַמֵּיהּ דְּרַבִּי אַמֵּי, מְשַׁדַּר לְהוּ לְקַמֵּיהּ דְּרַבִּי יִצְחָק בֶּן חֲלוּב, דְּמוֹרֵי בַּהּ לְהֶיתֵּירָא מִשּׁוּם דְּרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי, וְלֵיהּ לָא סְבִירָא לֵיהּ. וְהִלְכְתָא: אֵין בְּגִידִין בְּנוֹתֵן טַעַם.
->
 > **Translation:** **When** people **would come before Rabbi Ami** to ask about the *halakha* of a thigh that was cooked with the sciatic nerve inside, he would **send them before Rabbi Yitzḥak ben Ḥalov, who** would **rule** leniently **about** this issue and say that is was **permitted, in the name of Rabbi Yehoshua ben Levi.** Rabbi Ami **himself did not hold accordingly,** but he did not wish to rule stringently for others. **And the *halakha*** is that sciatic **nerves do not impart flavor** at all.
 
-The *gemara* then shifts to a different scene. When people — the *gemara* uses the plural *ki asu*, suggesting this was not a rare occurrence, since many people forgot to remove the *gid hanasheh* from the thigh before cooking — came before Rabbi Ammi with this question, he did not answer them directly. Instead, he sent them to Rabbi Yitzchak bar Chalov — because Rabbi Yitzchak bar Chalov rules leniently, following Rabbi Yehoshua ben Levi, that the *gid* presents no *ta'am* problem.
+The *gemara* then shifts to a different scene. When people — the *gemara* uses the plural *ki asu*, suggesting this was not a rare occurrence, since many people forgot to remove the *gid hanasheh* from the thigh before cooking — came before Rabbi Ammi with this question, he did not answer them directly. Instead, *meshader lehu lekamei de-Rabbi Yitzchak bar Chalov* — he sent them to Rabbi Yitzchak bar Chalov — *de-mori ba le-heteira k'Rabbi Yehoshua ben Levi* — because Rabbi Yitzchak bar Chalov rules leniently, following Rabbi Yehoshua ben Levi, that the *gid* presents no *ta'am* problem.
 
-### Public vs. Private Posit…
+### Rabbi Ammi
 
-And then the *gemara* states the striking conclusion: but Rabbi Ammi himself did not agree with this position. Rabbi Ammi personally held that the mixture was *assur*, yet he consistently referred questioners to Rabbi Yitzchak bar Chalov who would permit it.
+And then the *gemara* states the striking conclusion: *ve-lei lo seveira lei* — but Rabbi Ammi himself did not agree with this position. Rabbi Ammi personally held that the mixture was *assur*, yet he consistently referred questioners to Rabbi Yitzchak bar Chalov who would permit it.
 
 ### Eilu V'Eilu Pluralism
 
 This *gemara* is, in a certain sense, one of the most remarkable statements of halakhic pluralism in the entire *Talmud*. What Rabbi Ammi is demonstrating is not merely the theoretical acknowledgment that there exist multiple legitimate opinions — something we mouth whenever we note that Ashkenazim and Sephardim follow different rulings. What he is demonstrating is that one can hold a specific *psak* with full conviction while simultaneously recognizing that a different *psak* is also within the legitimate range of *halakha*, to the point where one can actively refer questioners to a *posek* who holds that other position without any compromise of personal integrity or institutional authority.
 
-Normally, "both these and these are words of the living God" — functions as a theoretical statement, quickly followed by *ve-halakha ke-divrei Beit Hillel*: in theory both are legitimate, but in practice one rules. Rabbi Ammi's conduct goes further. He is saying: I know what I hold, I hold it sincerely, and yet I also acknowledge that there is another position that is equally within the range of legitimate *halakha*, and the person in front of me may be better served by consulting the *posek* who holds that position. This is not a compromise of his *psak*; it would be a compromise to rule against his own position. But to acknowledge the legitimacy of another view and to refer accordingly — that, Rabbi Ammi demonstrates, requires no compromise at all.
+Normally, *eilu v'eilu divrei Elokim chayim* — "both these and these are words of the living God" — functions as a theoretical statement, quickly followed by *ve-halakha ke-divrei Beit Hillel*: in theory both are legitimate, but in practice one rules. Rabbi Ammi's conduct goes further. He is saying: I know what I hold, I hold it sincerely, and yet I also acknowledge that there is another position that is equally within the range of legitimate *halakha*, and the person in front of me may be better served by consulting the *posek* who holds that position. This is not a compromise of his *psak*; it would be a compromise to rule against his own position. But to acknowledge the legitimacy of another view and to refer accordingly — that, Rabbi Ammi demonstrates, requires no compromise at all.
 
-This implicit acknowledgment operates constantly in any community where Ashkenazic and Sephardic practice coexist, or where different *poskim* are known to hold different positions on the same question. But it is relatively rare to find it stated so consciously and directly within a single community and by a single authority. Rabbi Ammi is not rabbi-shopping; he is a *posek* who, out of a principled recognition of the breadth of legitimate *halakha*, declines to impose his own view on questioners who would be better served by hearing a different one.
+This implicit acknowledgment operates constantly in any community where Ashkenazic and Sephardic practice coexist, or where different *poskim* are known to hold different positions on the same question. But it is relatively rare to find it stated so consciously and directly within a single community and by a single authority. Rabbi Ammi is not rabbi-shopping; he is a *posek* who, out of a principled recognition of the breadth of legitimate *halakha*, declines to impose his own view on questioners who would be served by hearing a different one.
 
 ---
 
 ## Summary & Principles (II)
 
+
+
 ### Gid Hanasheh Ruling
 
-The operative *halakha* is stated plainly: the *gid hanasheh* has no taste, and if it is cooked in the surrounding meat, one is not required to apply numerical *bitul* standards. The practical ruling is simply to remove the *gid*; the concern that it may have imparted *ta'am* to the meat or broth during cooking does not stand.
+> **Hebrew/Aramaic:** גִּיד הַנָּשֶׁה שֶׁנִּתְבַּשֵּׁל. וְלִיבְטוֹל בְּרוּבָּא!
+> **Translation:** § The mishna states (96b): With regard to **a sciatic nerve that was cooked** with other sinews, when one identifies the sciatic nerve and removes it, the other sinews are forbidden if the sciatic nerve was large enough to impart flavor. And if he does not identify it, all the sinews are forbidden because each one could be the sciatic nerve. The Gemara challenges: **Let** the sciatic nerve **be nullified by** a simple **majority.**
+
+The operative *halakha* is stated plainly: *ve-hilch'ta ein be'gidin b'nosein ta'am* — the *gid hanasheh* has no taste, and if it is cooked in the surrounding meat, one is not required to apply numerical *bitul* standards. The practical ruling is simply to remove the *gid*; the concern that it may have imparted *ta'am* to the meat or broth during cooking does not stand.
 
 This conclusion is, as noted, somewhat surprising against the backdrop of the *stam mishna*, which seemed to assume that *ta'am* from the *gid* was a genuine concern worth elaborate discussion. The *halakha* sets that concern aside entirely.
 
@@ -276,11 +293,13 @@ A further implication, noted by Tosafot, follows from a *sugya* in *Psachim*. Th
 
 ## Pluralistic Halakhic (II)
 
-### Rabbi-Shopping vs. Exper…
+
+
+### Rabbi-Shopping vs Expert
 
 The incident involving Rabbi Ammi's referral raises a question worth examining directly: is this not simply rabbi-shopping — the very practice the principle of *asei l'cha rav* is often invoked to prohibit?
 
-The answer requires distinguishing carefully between different phenomena. *Asei l'cha rav*, as a phrase from *Pirkei Avot*, is fundamentally about religious integrity and submission to halakhic authority — the *gemara* elsewhere applies a *pasuk* about necromancy to draw the inference one who seeks out whoever will be lenient for them is in a certain sense not truly submitting to *halakha* at all. They have already decided what they wish to do and are searching for someone to validate that decision. This is not a failure to follow a particular rabbi; it is a failure to follow *halakha* itself, using the formal structure of asking a *shayla* while avoiding any genuine submission to the answer.
+The answer requires distinguishing carefully between different phenomena. *Asei l'cha rav*, as a phrase from *Pirkei Avot*, is fundamentally about religious integrity and submission to halakhic authority — the *gemara* elsewhere applies a *pasuk* about necromancy to draw the inference *kol hameikel lo yagid lo*: one who seeks out whoever will be lenient for them is in a certain sense not truly submitting to *halakha* at all. They have already decided what they wish to do and are searching for someone to validate that decision. This is not a failure to follow a particular rabbi; it is a failure to follow *halakha* itself, using the formal structure of asking a *shayla* while avoiding any genuine submission to the answer.
 
 This is fundamentally different from what Rabbi Ammi does, and different from several legitimate forms of consulting different authorities. If one follows a particular rabbi in questions of *kashrut* and a different rabbi in questions of family purity law, because one has genuine confidence in each respective *posek's* expertise and outlook in their area, this is a matter of appropriate specialization and differentiated trust — not shopping for leniency. Similarly, if one encounters a question outside one's usual *posek's* primary area of expertise, seeking a more expert opinion is not rabbi-shopping. And some questions are genuinely sensitive to a *posek's* values and perspective: the weighing of competing concerns in *hilchot nidda*, for example, may be deeply influenced by how a *posek* understands the underlying human and religious stakes involved, and there it may be entirely appropriate to seek a *posek* whose framework one trusts for that particular set of concerns.
 

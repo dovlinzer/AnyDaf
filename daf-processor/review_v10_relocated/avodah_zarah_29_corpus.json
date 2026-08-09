@@ -1,0 +1,372 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Bloodletting Foods",
+    "candidates": [
+      "Vinegar & Fish",
+      "Bloodletting Foods",
+      "Bathroom Etiquette"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers vinegar after bloodletting, small fish after a fast, and the 'reverse is danger' warning \u2014 content that precisely matches heading 0's prose, while heading 1's prose covers the subsequent enumeration of dangers (cress, fever, eye pain) and the mnemonic chagvash that follow this passage.",
+      "chosen_heading": "Vinegar & Fish",
+      "current_heading": "Bloodletting Foods",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Bathroom Etiquette",
+    "candidates": [
+      "Bloodletting Foods",
+      "Bathroom Etiquette",
+      "Unkli Bone Cure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the mnemonic \u1e25agvash (milk, cheese, onions, cress) and Abaye's remedy for eating them after bloodletting, which is precisely what the 'Bloodletting Foods' prose discusses, while the bathroom etiquette heading covers only the eastward defecation detail as a separate topic.",
+      "chosen_heading": "Bloodletting Foods",
+      "current_heading": "Bathroom Etiquette",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Unkli Bone Cure",
+    "candidates": [
+      "Unkli Bone Cure",
+      "Wine/Water Cures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yehoshua ben Levi's teaching about lifting the unkali on Shabbat, Rabbi Abba's explanation of what unkali is, and the herbal cure \u2014 all of which align precisely with the 'Unkli Bone Cure' prose, which covers exactly these elements.",
+      "chosen_heading": "Unkli Bone Cure",
+      "current_heading": "Unkli Bone Cure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Wine/Water Cures",
+    "candidates": [
+      "Wine/Water Cures",
+      "Honey Remedy",
+      "Six Cures"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wine/Water Cures",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the wine/water/beer mnemonics for different ailments, which matches exactly the 'Wine/Water Cures' prose about the three liquid-based applications and their scriptural hints.",
+      "second_heading": "Honey Remedy",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Pappa's account of trying all remedies and being cured only by the Arab's honey-water remedy, which matches exactly the 'Honey Remedy' prose describing that same episode.",
+      "current_heading": "Wine/Water Cures",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Six Cures",
+    "candidates": [
+      "Honey Remedy",
+      "Six Cures",
+      "Ten Harms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the six healing foods including cabbage, beets, chamomile water, stomach, womb, liver lobe, and small fish \u2014 exactly what the 'Six Cures' prose describes.",
+      "chosen_heading": "Six Cures",
+      "current_heading": "Six Cures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Ten Harms",
+    "candidates": [
+      "Ten Harms",
+      "Cucumbers",
+      "Mirror Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full list of ten harmful items including the cucumber addition, which matches the 'Ten Harms' section prose exactly \u2014 the 'Cucumbers' section prose only discusses the etymological wordplay, which is a subset already embedded in this single quoted passage.",
+      "chosen_heading": "Ten Harms",
+      "current_heading": "Ten Harms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Mirror Protection",
+    "candidates": [
+      "Cucumbers",
+      "Mirror Protection",
+      "Domain Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibition on haircuts from non-Jews and the mirror/blorit baraita, which is precisely what the 'Mirror Protection' section's prose addresses.",
+      "chosen_heading": "Mirror Protection",
+      "current_heading": "Mirror Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Domain Question",
+    "candidates": [
+      "Domain Question",
+      "Rav Chana Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the mirror teaching and the public/private domain question, which is precisely what the 'Domain Question' prose discusses.",
+      "chosen_heading": "Domain Question",
+      "current_heading": "Domain Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Rav Chana Story",
+    "candidates": [
+      "Rav Chana Story",
+      "Blorit Hair",
+      "Distance Measure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Rav \u1e24ana bar Bizna narrative and its Gemara clarification about the side streets of Neharde'a, which is exactly what the 'Rav Chana Story' prose describes in detail.",
+      "chosen_heading": "Rav Chana Story",
+      "current_heading": "Rav Chana Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Distance Measure",
+    "candidates": [
+      "Blorit Hair",
+      "Distance Measure",
+      "Name Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the baraita about stopping at the forelock AND the measurement ruling in a single continuous text, and candidate 0's prose explicitly covers both aspects (the requirement to remove one's hand at the blorit) while also naturally leading into the measurement detail, making it the better unified home \u2014 but since the passage actually spans both topics and candidate 1's prose is specifically about the measurement, the passage truly bridges both headings; however, the full quoted text begins with the blorit rule and then gives the measurement, so candidate 0 is the better single home as it introduces the full context.",
+      "chosen_heading": "Blorit Hair",
+      "current_heading": "Distance Measure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Name Distinction",
+    "candidates": [
+      "Distance Measure",
+      "Name Distinction",
+      "Wine & Clay",
+      "Leather Hides"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's disambiguation between Rav Malkiyya and Rav Malkiyyu, which is precisely what the 'Name Distinction' section's prose describes in detail.",
+      "chosen_heading": "Name Distinction",
+      "current_heading": "Name Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Leather Hides",
+    "candidates": [
+      "Wine & Clay",
+      "Leather Hides",
+      "Sacrificial Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage covers the full list including wine, vinegar, and Hadrianic earthenware as well as the hides, and candidate 0's prose explicitly discusses all these items together as the opening of the isur hana'ah category, making it the better home for this complete Mishnah than candidate 1 which only covers the hides portion.",
+      "chosen_heading": "Wine & Clay",
+      "current_heading": "Leather Hides",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Sacrificial Meat",
+    "candidates": [
+      "Leather Hides",
+      "Sacrificial Meat",
+      "Festival Commerce",
+      "Vessels & Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both meat entering/exiting idol worship (Rabbi Akiva's ruling) and commerce with those going to/returning from idolatrous festivals, which maps directly to the 'Sacrificial Meat' section's prose about Rabbi Akiva's ruling \u2014 and the festival commerce portion is also included in this same Mishnaic passage, making the current placement correct as it contains both rulings together.",
+      "chosen_heading": "Sacrificial Meat",
+      "current_heading": "Sacrificial Meat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Vessels & Wine",
+    "candidates": [
+      "Festival Commerce",
+      "Vessels & Wine",
+      "Fish & Cheese"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the content described in the 'Vessels & Wine' prose: wineskins and jugs of gentiles containing Jewish wine, Rabbi Meir vs. Chachamim on isur hana'ah, and the moist/dry distinction for grape seeds and skins.",
+      "chosen_heading": "Vessels & Wine",
+      "current_heading": "Vessels & Wine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Fish & Cheese",
+    "candidates": [
+      "Fish & Cheese",
+      "Cheese Question",
+      "Calf Stomach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Mishnah's ruling on fish stew (murayes) and cheese of Beit Unyaki with Rabbi Meir's and the Rabbis' positions on isur hana'ah, which is exactly what the 'Fish & Cheese' section prose describes.",
+      "chosen_heading": "Fish & Cheese",
+      "current_heading": "Fish & Cheese",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Calf Stomach",
+    "candidates": [
+      "Cheese Question",
+      "Calf Stomach",
+      "Cheese Benefit",
+      "Song of Songs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the continuous dialogue between Rabbi Yishmael and Rabbi Yehoshua about why gentile cheese is prohibited, which is precisely what heading 0 ('Cheese Question') introduces \u2014 the question of the grounds for forbidding non-Jewish cheese \u2014 whereas heading 1 ('Calf Stomach') picks up only from Rabbi Yehoshua's first answer onward, and the passage includes Rabbi Yishmael's initial question that belongs under heading 0.",
+      "chosen_heading": "Cheese Question",
+      "current_heading": "Calf Stomach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Song of Songs",
+    "candidates": [
+      "Cheese Benefit",
+      "Song of Songs",
+      "Wine Source",
+      "Deuteronomy Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the exact exchange between Rabbi Yehoshua and Rabbi Yishmael about the Song of Songs verse, which is precisely what the 'Song of Songs' section prose describes.",
+      "chosen_heading": "Song of Songs",
+      "current_heading": "Song of Songs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Deuteronomy Link",
+    "candidates": [
+      "Wine Source",
+      "Deuteronomy Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's question 'from where do we derive that wine is prohibited' and Rabba bar Avuh's answer, which is precisely the content described in the 'Wine Source' prose \u2014 the question of derivation and the specific verse cited \u2014 while the 'Deuteronomy Link' prose describes the subsequent chain of reasoning that follows from this verse.",
+      "chosen_heading": "Wine Source",
+      "current_heading": "Deuteronomy Link",
+      "moved": true
+    }
+  }
+]

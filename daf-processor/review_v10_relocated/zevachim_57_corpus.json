@@ -1,0 +1,348 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Tannaim Bechor Source",
+    "candidates": [
+      "Three Kodashim Types",
+      "Tannaim Bechor Source",
+      "Yavneh Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a baraita deriving that a bechor is eaten for two days and one night via a hekesh to shelamim, which is precisely what the 'Tannaim Bechor Source' prose describes.",
+      "chosen_heading": "Tannaim Bechor Source",
+      "current_heading": "Tannaim Bechor Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Yavneh Question",
+    "candidates": [
+      "Yavneh Question",
+      "Yose HaGalili Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly records the question asked at Yavneh and Rabbi Tarfon's answer of two days and one night, matching exactly the content described in the 'Yavneh Question' prose.",
+      "chosen_heading": "Yavneh Question",
+      "current_heading": "Yavneh Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Yose HaGalili Challenge",
+    "candidates": [
+      "Yose HaGalili Challenge",
+      "Tarfon Responds",
+      "Yose Counter-argument"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yose HaGalili Challenge",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover exactly what heading 0's prose describes: Rabbi Tarfon's initial shelamim analogy and Rabbi Yose HaGalili's counter-analogy using chatat/asham as gifts to the kohen.",
+      "second_heading": "Tarfon Responds",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Tarfon's rebuttal \u2014 comparing bechor to shelamim because neither comes for sin \u2014 which is precisely what heading 1's prose ('Tarfon Responds') describes.",
+      "current_heading": "Yose HaGalili Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Yose Counter-argument",
+    "candidates": [
+      "Tarfon Responds",
+      "Yose Counter-argument",
+      "Akiva Explicit Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yose HaGalili's counter-argument comparing bechor to chatat and asham as gifts to the kohen that cannot come as vow/gift offerings and are eaten for one day, which matches exactly the prose description under 'Yose Counter-argument'.",
+      "chosen_heading": "Yose Counter-argument",
+      "current_heading": "Yose Counter-argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Akiva Explicit Text",
+    "candidates": [
+      "Akiva Explicit Text",
+      "Yose Toda Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows Rabbi Akiva entering the discussion and presenting the explicit textual comparison of bechor to chazeh and shok of shelamim, which matches exactly what the 'Akiva Explicit Text' prose describes.",
+      "chosen_heading": "Akiva Explicit Text",
+      "current_heading": "Akiva Explicit Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Yose Toda Question",
+    "candidates": [
+      "Yose Toda Question",
+      "Akiva Lach Yihye",
+      "Yishmael Correction",
+      "Heikesh Double-Apply",
+      "Yishmael Mum Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Yose HaGelili toda-challenge followed immediately by Rabbi Akiva's lach yihye response, which is precisely what candidate 1 ('Akiva Lach Yihye') describes in its prose \u2014 item 1 is the toda objection that Akiva concedes and item 2 is Akiva's lach yihye counter, matching that section's description exactly.",
+      "chosen_heading": "Akiva Lach Yihye",
+      "current_heading": "Yose Toda Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Yishmael Mum Teaching",
+    "candidates": [
+      "Akiva Lach Yihye",
+      "Yishmael Correction",
+      "Heikesh Double-Apply",
+      "Yishmael Mum Teaching",
+      "Akiva Besaram"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yishmael Correction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Yishmael's correction of Rabbi Akiva's concession, explaining that toda's chazeh and shok are derived from shelamim via hekesh and therefore cannot serve as a hekesh referent \u2014 matching candidates 1 and 2, with candidate 1 being the direct prose match for this item.",
+      "second_heading": "Yishmael Mum Teaching",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks what Rabbi Yishmael does with the extra 'lach yihye' and answers that it teaches about bechor ba'al mum being given to the kohen \u2014 exactly what candidate 3's prose describes.",
+      "current_heading": "Yishmael Mum Teaching",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Akiva Besaram",
+    "candidates": [
+      "Akiva Besaram",
+      "Yishmael Besaram",
+      "Akiva Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 0 describes \u2014 Rabbi Akiva deriving the bechor ba'al mum rule from the plural 'besaram' (one for tam, one for ba'al mum) \u2014 and also includes Rabbi Yishmael's interpretation of besaram as referring to multiple species, which heading 1 covers but the passage presents as a single unit answering both questions together, and the current placement at heading 0 is the correct home since the primary focus is Rabbi Akiva's derivation.",
+      "chosen_heading": "Akiva Besaram",
+      "current_heading": "Akiva Besaram",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Akiva Reasoning",
+    "candidates": [
+      "Yishmael Besaram",
+      "Akiva Reasoning",
+      "Yishmael View",
+      "Pesach Kapparah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses the dispute between Rabbi Akiva and Rabbi Yishmael over 'himenu v'davar acher' and whether it constitutes a hekesh, which is precisely what the 'Akiva Reasoning' section's prose describes.",
+      "chosen_heading": "Akiva Reasoning",
+      "current_heading": "Akiva Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Pesach Kapparah",
+    "candidates": [
+      "Yishmael View",
+      "Pesach Kapparah",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the Yom Kippur sprinkling case \u2014 the hekesh between par and se'ir and the extension to the heichal via 'vechen ya'aseh le'ohel mo'ed' \u2014 which is precisely what the 'Pesach Kapparah' prose describes, including the mekomos resolution that appears in item 4.",
+      "chosen_heading": "Pesach Kapparah",
+      "current_heading": "Pesach Kapparah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Resolution",
+      "Lechem Heikesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the 'chutz mi'pnim b'chad zimna gamir' resolution, which is precisely what the prose under heading 0 ('Resolution') explains and analyzes.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Lechem Heikesh",
+    "candidates": [
+      "Lechem Heikesh",
+      "Matza Extension",
+      "Taviu Direct Rule",
+      "Elazar ben Azarya"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Lechem Heikesh",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the derivation of one issaron per chametz loaf from the shtei halechem and the extension to matza via 'al challat lechem chametz', matching the 'Lechem Heikesh' and 'Matza Extension' prose \u2014 but since items 1-4 form one continuous argument ending with 'in any event, this derivation can be employed according to the one who says...', they belong under the current heading 0 which introduces this entire derivation chain.",
+      "second_heading": "Taviu Direct Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 5 explicitly addresses the position of the one who says the derivation IS a hekesh and resolves it via 'taviu yeseira hu' \u2014 a redundant word rather than a hekesh \u2014 which is precisely what the 'Taviu Direct Rule' prose describes.",
+      "current_heading": "Lechem Heikesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Elazar ben Azarya",
+    "candidates": [
+      "Matza Extension",
+      "Taviu Direct Rule",
+      "Elazar ben Azarya",
+      "Akiva Night Eating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Elazar ben Azarya's gezerah shavah argument linking 'balayla hazeh' for eating the pesach to 'balayla hazeh' for makat bechorot, concluding that the pesach is eaten until chatzot \u2014 exactly what candidate 2's prose describes.",
+      "chosen_heading": "Elazar ben Azarya",
+      "current_heading": "Elazar ben Azarya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Akiva Night Eating",
+    "candidates": [
+      "Akiva Night Eating",
+      "Akiva Balayla"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Akiva's argument that 'va'achaltem oto bechipazon' means the pesach may be eaten until the time of haste (dawn), which is exactly what the 'Akiva Night Eating' prose describes.",
+      "chosen_heading": "Akiva Night Eating",
+      "current_heading": "Akiva Night Eating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Akiva Balayla",
+    "candidates": [
+      "Akiva Balayla",
+      "Abaye Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi Akiva's interpretation of 'balayla hazeh' as excluding daytime eating rather than establishing a chatzot deadline, which is precisely what the 'Akiva Balayla' section's prose describes.",
+      "chosen_heading": "Akiva Balayla",
+      "current_heading": "Akiva Balayla",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Abaye Question",
+    "candidates": [
+      "Abaye Question",
+      "Deoraita Limit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the full exchange between Abaye and Rav Yosef about whether the mishnah's chatzot limit is de'oraita or derabbanan, which is precisely what heading 0 ('Abaye Question') discusses.",
+      "second_heading": "Deoraita Limit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the hadran formula marking the conclusion of the fifth perek, which heading 1 ('Deoraita Limit') explicitly references at its end: 'With this, we conclude the fifth perek of Zevachim. Hadran alach Eizehu Mekoman.'",
+      "current_heading": "Abaye Question",
+      "moved": true
+    }
+  }
+]

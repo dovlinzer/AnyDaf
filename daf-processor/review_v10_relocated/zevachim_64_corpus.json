@@ -1,0 +1,309 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Locating SW Corner",
+    "candidates": [
+      "Locating SW Corner",
+      "Why SW: No Base",
+      "Three SW Practices",
+      "Proximity to Ashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the three practices at the southwest corner below the red line (bird sin offering, meal offering hagashah, and remaining blood pouring), which is precisely what the 'Locating SW Corner' prose describes in detail.",
+      "chosen_heading": "Locating SW Corner",
+      "current_heading": "Locating SW Corner",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Proximity to Ashes",
+    "candidates": [
+      "Why SW: No Base",
+      "Three SW Practices",
+      "Proximity to Ashes",
+      "Throwing Distance Math"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in the 'Proximity to Ashes' prose: Item 1 is Rabbi Yochanan's explanation that the southeast corner is used because it is closest to the beis hadeshen, and Item 2 is Rabbi Yochanan's follow-up observation about the great strength of the kohanim in throwing the crop and feathers \u2014 both of which are explicitly described in candidate 2's prose.",
+      "chosen_heading": "Proximity to Ashes",
+      "current_heading": "Proximity to Ashes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Throwing Distance Math",
+    "candidates": [
+      "Throwing Distance Math",
+      "Counterclockwise Rotation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Tamid mishna describing the terumas hadeshen procedure and the gemara's challenge/resolution about the distance exceeding thirty-one cubits and mekom gavra lo kashiv \u2014 are precisely the content discussed in the 'Throwing Distance Math' prose, which explicitly references both the mishna and the mekom gavra resolution.",
+      "chosen_heading": "Throwing Distance Math",
+      "current_heading": "Throwing Distance Math",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Counterclockwise Rotation",
+    "candidates": [
+      "Counterclockwise Rotation",
+      "Kohein Gadol Rotation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Yochanan's explanation for why libations and bird offerings take the short route to avoid smoke, which is precisely what the 'Counterclockwise Rotation' prose section discusses.",
+      "chosen_heading": "Counterclockwise Rotation",
+      "current_heading": "Counterclockwise Rotation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Kohein Gadol Rotation",
+    "candidates": [
+      "Kohein Gadol Rotation",
+      "Ascent/Descent Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the contradiction from the Tamid mishna about the Kohein Gadol circling the altar, Rabbi Yochanan's resolution (hakafa baregel), and Rava's textual confirmation \u2014 are precisely the content described in the 'Kohein Gadol Rotation' prose, which explicitly covers each of these elements in sequence.",
+      "chosen_heading": "Kohein Gadol Rotation",
+      "current_heading": "Kohein Gadol Rotation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Ascent/Descent Rules",
+    "candidates": [
+      "Ascent/Descent Rules",
+      "Directional Terminology"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the general ascent/descent traffic rules for the altar ramp, which is exactly what the 'Ascent/Descent Rules' section prose discusses, before the terminological difficulty ('derech yamin vs. smol') addressed in the 'Directional Terminology' section.",
+      "chosen_heading": "Ascent/Descent Rules",
+      "current_heading": "Ascent/Descent Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Directional Terminology",
+    "candidates": [
+      "Directional Terminology",
+      "Melikah Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's discussion of the directional terminology contradiction (yamin vs. smol) in the baraita, which is precisely what the 'Directional Terminology' prose section describes in detail.",
+      "chosen_heading": "Directional Terminology",
+      "current_heading": "Directional Terminology",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Melikah Procedure",
+    "candidates": [
+      "Melikah Procedure",
+      "Blood Below Midline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna describing the bird sin offering melikah procedure and the Gemara baraita explaining that blood is sprinkled directly from the body onto the lower wall of the altar \u2014 are explicitly discussed in the 'Melikah Procedure' prose, which covers exactly these details including the baraita about holding head and body and the specification of the lower wall.",
+      "chosen_heading": "Melikah Procedure",
+      "current_heading": "Melikah Procedure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Blood Below Midline",
+    "candidates": [
+      "Blood Below Midline",
+      "Melikah Technique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita's logical inference about whether bird chatas blood goes above or below the red line, the verse's refutation via 'yimmatze,' and Rava's explanation \u2014 exactly matching the 'Blood Below Midline' prose.",
+      "chosen_heading": "Blood Below Midline",
+      "current_heading": "Blood Below Midline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Melikah Technique",
+    "candidates": [
+      "Melikah Technique",
+      "Difficult Service"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the physical technique of melikah (Rav's method and the baraita's alternative hold), which is exactly what the 'Melikah Technique' prose discusses, including the tzipra mi-levara position; the 'Difficult Service' heading covers the subsequent Gemara discussion about whether melikah is the hardest service, which is not yet addressed in these two items.",
+      "chosen_heading": "Melikah Technique",
+      "current_heading": "Melikah Technique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Difficult Service",
+    "candidates": [
+      "Difficult Service",
+      "Complete Severance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's challenge to the superlative 'most difficult service' and its amended conclusion that melikah is among the most difficult \u2014 exactly what the 'Difficult Service' section prose describes.",
+      "chosen_heading": "Difficult Service",
+      "current_heading": "Difficult Service",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Complete Severance",
+    "candidates": [
+      "Complete Severance",
+      "Crop/Feathers Removal",
+      "Salting & Burning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna describes the bird burnt offering procedure including ascending the ramp, arriving at the southeast corner, pinching the head at the nape, separating it, squeezing blood on the altar wall, and processing the head \u2014 all of which is precisely what the 'Complete Severance' prose section discusses.",
+      "chosen_heading": "Complete Severance",
+      "current_heading": "Complete Severance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Salting & Burning",
+    "candidates": [
+      "Crop/Feathers Removal",
+      "Salting & Burning",
+      "Improper Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items cover the procedural steps of crop/innards removal, salting, burning, and the validity rules (kol sheshina, hivdil, mitzuy dam of head vs. body) that are explicitly discussed in the 'Salting & Burning' prose section.",
+      "chosen_heading": "Salting & Burning",
+      "current_heading": "Salting & Burning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Improper Intent",
+    "candidates": [
+      "Improper Intent",
+      "Pigul Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses shelo lishma invalidating a bird chatas while a bird olah remains valid \u2014 exactly matching the prose under 'Improper Intent', not the pigul discussion under heading 1.",
+      "chosen_heading": "Improper Intent",
+      "current_heading": "Improper Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Pigul Requirements",
+    "candidates": [
+      "Pigul Requirements",
+      "Pigul Exceptions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Pigul Requirements",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the general pigul rule for bird offerings and the cases where the matir IS performed ke-mitzvaso, matching exactly the 'Pigul Requirements' prose.",
+      "second_heading": "Pigul Exceptions",
+      "second_confidence": "high",
+      "second_reason": "Item 3 begins the cases where the matir is NOT performed ke-mitzvaso (chutz limkomo combinations), which is precisely what the 'Pigul Exceptions' prose describes.",
+      "current_heading": "Pigul Requirements",
+      "moved": true
+    }
+  }
+]

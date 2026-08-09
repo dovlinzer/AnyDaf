@@ -1,0 +1,315 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Mi'un Definition",
+    "candidates": [
+      "Perek Intro",
+      "Mi'un Definition",
+      "Marriage Stages",
+      "Shammai Position",
+      "Hillel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes the Mishnaic dispute between Beit Shammai (only arusot may refuse) and Beit Hillel (both arusot and nesuot may refuse), which is precisely what the 'Shammai Position' section's prose introduces and discusses.",
+      "chosen_heading": "Shammai Position",
+      "current_heading": "Mi'un Definition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Hillel Position",
+    "candidates": [
+      "Marriage Stages",
+      "Shammai Position",
+      "Hillel Position",
+      "Hefker Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The prose under 'Hillel Position' explicitly summarizes both items \u2014 the Beit Shammai/Beit Hillel dispute over mi'un applying to the yabam (item 1) and the disputes over presence and court setting (item 2) \u2014 making the current placement the clearly correct home for this passage.",
+      "chosen_heading": "Hillel Position",
+      "current_heading": "Hillel Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Hefker Concern",
+    "candidates": [
+      "Hefker Concern",
+      "Discussion",
+      "Stipulations Fail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Beit Shammai statement 'ein benot Yisrael hefker' and the rule that she must wait until majority, which is precisely what the 'Hefker Concern' section's prose discusses and analyzes.",
+      "chosen_heading": "Hefker Concern",
+      "current_heading": "Hefker Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Stipulations Fail",
+    "candidates": [
+      "Discussion",
+      "Stipulations Fail",
+      "Tnai vs Ta'ut",
+      "Public Misconception",
+      "Tosafot Caveat",
+      "Chuppah Stage",
+      "Chuppat Issura"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Yehuda citing Shmuel explaining Beit Shammai's reasoning as 'ein tenai be-nisu'in,' which is precisely what the 'Stipulations Fail' section's prose describes and introduces.",
+      "chosen_heading": "Stipulations Fail",
+      "current_heading": "Stipulations Fail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Chuppat Issura",
+    "candidates": [
+      "Tnai vs Ta'ut",
+      "Public Misconception",
+      "Tosafot Caveat",
+      "Chuppah Stage",
+      "Chuppat Issura",
+      "Transfer to Agents",
+      "No Distinction",
+      "Husband Consent",
+      "Sex Sanctity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage asks about a girl who entered the chuppah but did not yet have intercourse, which is precisely the case discussed in the 'Chuppah Stage' section's prose, whereas the current placement under 'Chuppat Issura' covers the Gemara's answer to that question \u2014 the passage itself is the question being posed, not the answer.",
+      "chosen_heading": "Chuppah Stage",
+      "current_heading": "Chuppat Issura",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Sex Sanctity",
+    "candidates": [
+      "Transfer to Agents",
+      "No Distinction",
+      "Husband Consent",
+      "Sex Sanctity",
+      "Institution Context",
+      "Kehunah Status",
+      "Strip-Mining Property",
+      "Investment Incentive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "medium",
+      "reason": "All three items form one continuous Talmudic sequence applying the *ein adam oseh beilato beilat zenut* reasoning through the stages of chuppah and agent-transfer, culminating in Beit Hillel's response \u2014 exactly what heading 3's prose describes as 'the Gemara again applies this reasoning through the stages of chuppah and the transfer to the husband's agents.'",
+      "chosen_heading": "Sex Sanctity",
+      "current_heading": "Sex Sanctity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Investment Incentive",
+    "candidates": [
+      "Institution Context",
+      "Kehunah Status",
+      "Strip-Mining Property",
+      "Investment Incentive",
+      "Wedding Expenses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's full argument covering both Beit Shammai's strip-mining concern and Beit Hillel's investment incentive, but the 'Strip-Mining Property' section (index 2) introduces Rav Pappa and frames both sides of his argument, making it the natural home for this passage, while the current placement (index 3) only covers Beit Hillel's half.",
+      "chosen_heading": "Strip-Mining Property",
+      "current_heading": "Investment Incentive",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Wedding Expenses",
+    "candidates": [
+      "Investment Incentive",
+      "Wedding Expenses",
+      "Celebration Value",
+      "Shammai: Ba'al Only",
+      "Oshaya: Ma'amar Only",
+      "Rav Chisda Distinction",
+      "Bi'ah Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement about not bothering to make a wedding feast and losing it, plus Beit Hillel's response about publicity \u2014 exactly what the 'Wedding Expenses' prose discusses, making the current placement correct.",
+      "chosen_heading": "Wedding Expenses",
+      "current_heading": "Wedding Expenses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Bi'ah Challenge",
+    "candidates": [
+      "Celebration Value",
+      "Shammai: Ba'al Only",
+      "Oshaya: Ma'amar Only",
+      "Rav Chisda Distinction",
+      "Bi'ah Challenge",
+      "Ulla Allows Zikah",
+      "Tzarat Ervah",
+      "Rami's Source",
+      "Moment of Death",
+      "Tzarat Ervah Effect",
+      "Retroactive Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rav Chisda's explanation of Rabbi Oshaya's distinction \u2014 ma'amar is consensual (dim-da'atah) so she can uproot it, while zikah is against her will (de'al korchah) so she cannot \u2014 which directly matches the prose under heading 3 'Rav Chisda Distinction'.",
+      "chosen_heading": "Rav Chisda Distinction",
+      "current_heading": "Bi'ah Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Retroactive Limits",
+    "candidates": [
+      "Ulla Allows Zikah",
+      "Tzarat Ervah",
+      "Rami's Source",
+      "Moment of Death",
+      "Tzarat Ervah Effect",
+      "Retroactive Limits",
+      "Rav: All Disqualified",
+      "Get Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-2 present Ulla's position that mi'un can uproot the zikah by uprooting the original marriage (nisu'ei kammai ka-akra), and items 3-4 present Rava's objection and its resolution via the tzarat ervah principle \u2014 all of which flows directly from and responds to Ulla's ruling, matching the 'Ulla Allows Zikah' prose which introduces exactly this dispute and Ulla's reasoning.",
+      "chosen_heading": "Ulla Allows Zikah",
+      "current_heading": "Retroactive Limits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Get Analogy",
+    "candidates": [
+      "Rav: All Disqualified",
+      "Get Analogy",
+      "Shmuel: Individual"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav's statement that mi'un against one yavam forbids her to that yavam, which is Rav's core ruling described in candidate 0, and only then introduces the get analogy as supporting reasoning \u2014 but the passage as a whole is Rav's ruling itself, which belongs under 'Rav: All Disqualified'; the 'Get Analogy' heading's prose describes the analogy as secondary reasoning supporting Rav's position, but the primary content of the passage is Rav's ruling, making candidate 0 the better home.",
+      "chosen_heading": "Rav: All Disqualified",
+      "current_heading": "Get Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Shmuel: Individual",
+    "candidates": [
+      "Get Analogy",
+      "Shmuel: Individual",
+      "Her Action Only",
+      "Rav Ashi: Collective",
+      "Yochanan"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel: Individual",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Shmuel's ruling with his baalas ha-get distinction, which is precisely what candidate 1 ('Shmuel: Individual') describes.",
+      "second_heading": "Rav Ashi: Collective",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Asi's ruling that mi'un against one yavam permits her even to him, which matches candidate 3 ('Rav Ashi: Collective') discussing that mi'un is entirely meaningless when other brothers remain.",
+      "current_heading": "Shmuel: Individual",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Yochanan",
+    "candidates": [
+      "Her Action Only",
+      "Rav Ashi: Collective",
+      "Yochanan",
+      "Abaye's ID",
+      "Rava's ID",
+      "Indivisible Zikah",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage reports Ravin's transmission of Rabbi Yochanan's ruling that mi'un against one brother permits her to the others, along with the dispute about who disagreed \u2014 exactly what the 'Yochanan' section's prose describes, and the current placement is correct.",
+      "chosen_heading": "Yochanan",
+      "current_heading": "Yochanan",
+      "moved": false
+    }
+  }
+]

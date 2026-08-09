@@ -1,0 +1,283 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Katan Rodef",
+    "candidates": [
+      "Haba BeMachteret Review",
+      "Hatra'ah & Din Model",
+      "Katan Rodef",
+      "Fetus & Mother Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav Huna's ruling about a minor pursuer (katan harodef) and the principle that no forewarning is needed, which is precisely what the 'Katan Rodef' section's prose describes and analyzes.",
+      "chosen_heading": "Katan Rodef",
+      "current_heading": "Katan Rodef",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Fetus & Mother Case",
+    "candidates": [
+      "Fetus & Mother Case",
+      "Mishmaya Ka Radfu",
+      "Rodef Warning Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about yatza rosho and the rodef challenge, which is exactly what the 'Fetus & Mother Case' prose describes \u2014 the answer 'mishmaya ka radfu' belongs in the next section, but this passage as a whole including both the challenge and the brief answer fits best under the current heading which explicitly discusses this baraita and the rodef difficulty.",
+      "chosen_heading": "Fetus & Mother Case",
+      "current_heading": "Fetus & Mother Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rodef Warning Case",
+    "candidates": [
+      "Mishmaya Ka Radfu",
+      "Rodef Warning Case",
+      "Rashi & Katan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about the pursuer being warned with the Torah verse, which is exactly what the 'Rodef Warning Case' prose describes as the gemara considering support for Rav Huna's position through a case where a bystander warns the pursuer with the specific prohibition and its consequence.",
+      "chosen_heading": "Rodef Warning Case",
+      "current_heading": "Rodef Warning Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Rashi & Katan",
+    "candidates": [
+      "Rashi & Katan",
+      "River Case",
+      "Machteret Hatra'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: item 1 (Rabbi Yose b'Rabbi Yehuda rebuts the baraita proof), item 2 (a new proof from a pursuer who must be forewarned), and item 3 (the river-case rebuttal explaining that forewarning there is only for beit din purposes) \u2014 exactly what the 'River Case' prose describes, including the explicit quote 'bei dina ba'ei hatra'ah.'",
+      "chosen_heading": "River Case",
+      "current_heading": "Rashi & Katan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Machteret Hatra'ah",
+    "candidates": [
+      "River Case",
+      "Machteret Hatra'ah",
+      "Mishna Introduction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Huna's position that he holds like the tanna of the machteret who said 'machtarto zo hi hatra'ato,' which is precisely the topic of candidate 1's prose.",
+      "chosen_heading": "Machteret Hatra'ah",
+      "current_heading": "Machteret Hatra'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Mishna Introduction",
+    "candidates": [
+      "Mishna Introduction",
+      "Rape & Severity",
+      "Excluded Cases",
+      "Matzilin Oso",
+      "Lo Ta'amod Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna itself listing who may be saved at the cost of the pursuer's life, which directly matches the 'Mishna Introduction' section's prose that describes exactly this content.",
+      "chosen_heading": "Mishna Introduction",
+      "current_heading": "Mishna Introduction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Lo Ta'amod Source",
+    "candidates": [
+      "Rape & Severity",
+      "Excluded Cases",
+      "Matzilin Oso",
+      "Lo Ta'amod Source",
+      "Kal VaChomer",
+      "Makish Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's derivation from 'lo ta'amod al dam rei'echa' and the challenge that this verse is needed for the obligation to save someone drowning/attacked, which is precisely what the prose under 'Lo Ta'amod Source' describes.",
+      "chosen_heading": "Lo Ta'amod Source",
+      "current_heading": "Lo Ta'amod Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Makish Analysis",
+    "candidates": [
+      "Kal VaChomer",
+      "Makish Analysis",
+      "Expanded Cases",
+      "Lesser Violations",
+      "Nistafcha Status",
+      "Pegam Explained"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Makish Analysis",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 form the continuous kal vachomer/hekesh derivation chain that heading 1's prose explicitly describes in detail.",
+      "second_heading": "Expanded Cases",
+      "second_confidence": "low",
+      "second_reason": "Item 5 introduces a new baraita ('guf hadavar') about the obligation to save someone from drowning or bandits, which is a structural break from the pursuer/na'arah derivation chain, though heading 2's prose is only a partial match.",
+      "current_heading": "Makish Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Pegam Explained",
+    "candidates": [
+      "Expanded Cases",
+      "Lesser Violations",
+      "Nistafcha Status",
+      "Pegam Explained",
+      "Na'arah Basadeh",
+      "Four Terms Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses whether one must hire workers to rescue someone (not just act himself), which is about the scope of the rescue obligation \u2014 directly related to the 'Na'arah Basadeh' section about when lethal vs. lesser interventions are required and the limits of the rescue obligation.",
+      "chosen_heading": "Na'arah Basadeh",
+      "current_heading": "Pegam Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Four Terms Needed",
+    "candidates": [
+      "Na'arah Basadeh",
+      "Four Terms Needed",
+      "Exclude Behemah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 9,
+      "first_heading": "Four Terms Needed",
+      "first_confidence": "high",
+      "first_reason": "Items 1-9 cover the baraita on who may be saved at the pursuer's cost and the derivation explaining why all four terms (na'ar, na'arah, chet, mavet) are needed \u2014 exactly what candidate 1's prose discusses.",
+      "second_heading": "Exclude Behemah",
+      "second_confidence": "high",
+      "second_reason": "Items 10-13 address the question of what independent function na'ar and na'arah serve once chet and mavet already cover the scope, concluding they exclude avodah zarah, behemah, and Shabbat \u2014 exactly what candidate 2's prose discusses.",
+      "current_heading": "Four Terms Needed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Exclude Behemah",
+    "candidates": [
+      "Exclude Behemah",
+      "Rebbi Shimon Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "Neither candidate prose discusses the Rabbi Yehuda / Rabbis dispute about a betrothed woman saying 'let him be so he won't kill me,' so neither is a clearly better match; however, this passage is unrelated to the 'Exclude Behemah' or 'Rebbi Shimon Position' discussions, and since the true home must be in this list, the current placement (index 0) is no better than index 1, so we default to low confidence and prefer the current placement \u2014 but noting the passage appears misplaced relative to both options.",
+      "chosen_heading": "Rebbi Shimon Position",
+      "current_heading": "Exclude Behemah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rebbi Shimon Position",
+    "candidates": [
+      "Rebbi Shimon Position",
+      "Rebbi Elazar Position",
+      "Woman's Request",
+      "Rabanan View",
+      "Rebbi Yehuda Theory",
+      "Application",
+      "Application",
+      "Pegam Severity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage is precisely the Rav Pappa/Abaye exchange about the almana and kohen gadol that the prose in 'Pegam Severity' explicitly describes and analyzes.",
+      "chosen_heading": "Pegam Severity",
+      "current_heading": "Rebbi Shimon Position",
+      "moved": true
+    }
+  }
+]

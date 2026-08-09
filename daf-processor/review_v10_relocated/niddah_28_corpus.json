@@ -1,0 +1,349 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Tosafot Analysis",
+    "candidates": [
+      "Mishnah Setup",
+      "R. Yochanan View",
+      "Reish Lakish View",
+      "Tosafot Analysis",
+      "Burnt Corpse Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Reish Lakish's statement that a mashed fetus is like a corpse whose form has been destroyed, which is precisely what the 'Reish Lakish View' prose describes as his position.",
+      "chosen_heading": "Reish Lakish View",
+      "current_heading": "Tosafot Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Burnt Corpse Proof",
+    "candidates": [
+      "Tosafot Analysis",
+      "Burnt Corpse Proof",
+      "Doors Analysis",
+      "Alternative Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the exact Talmudic exchange the 'Burnt Corpse Proof' prose describes \u2014 Rabbi Yochanan's challenge to Reish Lakish, the citation of the burnt corpse teaching, and the inference from large vs. small doors \u2014 which is precisely what that section's prose narrates.",
+      "chosen_heading": "Burnt Corpse Proof",
+      "current_heading": "Burnt Corpse Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Alternative Logic",
+    "candidates": [
+      "Doors Analysis",
+      "Alternative Logic",
+      "Ashes Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the 'on the contrary' (adrabah) argument showing that the case of a burnt corpse actually proves nothing about formless tumah status because small openings would also be tamei if the form were absent, which matches exactly the 'Alternative Logic' prose describing duk mineh lehai gisa and the conclusion that the inference proves nothing about whether formless met retains tumah.",
+      "chosen_heading": "Alternative Logic",
+      "current_heading": "Alternative Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Ashes Doctrine",
+    "candidates": [
+      "Ashes Doctrine",
+      "Abaye Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely about Ravina asking Rav Ashi whose opinion Rabbi Yo\u1e25anan follows, answered by citing Rabbi Eliezer's ruling on ashes of burned corpses \u2014 exactly what the 'Ashes Doctrine' prose describes.",
+      "chosen_heading": "Ashes Doctrine",
+      "current_heading": "Ashes Doctrine",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Abaye Explanation",
+    "candidates": [
+      "Abaye Explanation",
+      "Rava Rashi",
+      "Ravina Position",
+      "Severed Limb",
+      "No Tahara Days",
+      "Delayed Birth Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three opinions (Abaye, Rava, and Ravina) about how a burned corpse retains its form, and the current heading 'Abaye Explanation' has prose that introduces this exact Gemara discussion about the practically burned corpse retaining form \u2014 the passage belongs here as a unit, and the current placement is correct.",
+      "chosen_heading": "Abaye Explanation",
+      "current_heading": "Abaye Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Delayed Birth Fear",
+    "candidates": [
+      "Rava Rashi",
+      "Ravina Position",
+      "Severed Limb",
+      "No Tahara Days",
+      "Delayed Birth Fear",
+      "Rav Yosef",
+      "Abaye Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the continuous sugya about a woman who discharges a severed limb \u2014 the baraita establishing her tumah (item 1), Rav \u1e24isda and Rabbah bar Rav Huna's ruling denying yemei tohar (item 2), and Rav Yosef's objection from the mishna (item 3) \u2014 which matches heading 2 ('Severed Limb') whose prose explicitly introduces this braita about hamapeles yad chatucha veregel chatucha and the subsequent rulings, rather than heading 4 where it currently sits.",
+      "chosen_heading": "Severed Limb",
+      "current_heading": "Delayed Birth Fear",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Abaye Resolution",
+    "candidates": [
+      "Rav Yosef",
+      "Abaye Resolution",
+      "Rav Huna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's resolution distinguishing niddah language from yoledet language to explain why the korban is eaten, which matches exactly the 'Abaye Resolution' prose.",
+      "chosen_heading": "Abaye Resolution",
+      "current_heading": "Abaye Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rav Huna",
+    "candidates": [
+      "Rav Huna",
+      "Rav Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's teaching about a fetus extending its hand conferring tumah, which is exactly what candidate 0's prose describes.",
+      "chosen_heading": "Rav Huna",
+      "current_heading": "Rav Huna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Rav Yehuda",
+    "candidates": [
+      "Rav Yehuda",
+      "Doubtful Birth",
+      "Rabbinic Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda's objection and Rav Na\u1e25man's resolution, and the current heading 'Rav Yehuda' with its prose explicitly covers both the objection and the apparent contradiction with Rav Huna that this passage presents.",
+      "chosen_heading": "Rav Yehuda",
+      "current_heading": "Rav Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Rabbinic Concern",
+    "candidates": [
+      "Doubtful Birth",
+      "Rabbinic Concern",
+      "Mishnah Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's challenge about the baraita's 'lechol davar' statement, Abaye's resolution distinguishing biblical from rabbinic concern, and the question of Rav Huna's verse being mere asmakhta \u2014 all of which are precisely what the 'Rabbinic Concern' prose section discusses.",
+      "chosen_heading": "Rabbinic Concern",
+      "current_heading": "Rabbinic Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Mishnah Setup",
+    "candidates": [
+      "Mishnah Setup",
+      "Twin Gender",
+      "R. Yitzchak",
+      "Simultaneous Seed",
+      "Emission Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Mishnah Setup",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Mishna text covering tumtum/androgynus births and twin cases, which the 'Mishnah Setup' prose explicitly discusses in full detail.",
+      "second_heading": "Twin Gender",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 are the Gemara's question and answer about why the tumtum-and-male twin case needed to be stated, which maps directly onto the 'Twin Gender' and 'R. Yitzchak'/'Simultaneous Seed' prose \u2014 but item 4 (the Gemara's initial question) belongs under 'Twin Gender' which is where the split begins.",
+      "current_heading": "Mishnah Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Emission Status",
+    "candidates": [
+      "Twin Gender",
+      "R. Yitzchak",
+      "Simultaneous Seed",
+      "Emission Status",
+      "Definite Gender",
+      "Mikdash Entry",
+      "Terumah Burning",
+      "Language Usage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage states exactly Rav Nachman's ruling in Rav's name about tumtum and androgynus seeing white or red discharge not creating Temple-entry liability or terumah burning, which is precisely what the 'Emission Status' section's prose describes and explains.",
+      "chosen_heading": "Emission Status",
+      "current_heading": "Emission Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Language Usage",
+    "candidates": [
+      "Definite Gender",
+      "Mikdash Entry",
+      "Terumah Burning",
+      "Language Usage",
+      "Arachin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The entire passage discusses the textual derivation from 'mizachar ve'ad nekeivah tishaleichu' excluding tumtum and androgynus from mikdash liability, Ulla's challenge that the baraita follows Rabbi Eliezer's specific-knowledge requirement rather than this verse, and the subsequent analysis of why the verse's precise wording ('mizachar ve'ad nekeivah' rather than simply 'adam') serves both Rav's halakha and Rabbi Yosei's exclusion of earthenware vessels \u2014 exactly what the 'Language Usage' prose describes.",
+      "chosen_heading": "Language Usage",
+      "current_heading": "Language Usage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Arachin",
+    "candidates": [
+      "Arachin",
+      "Necessary Language",
+      "Category Division"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Category Division",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's answer that the exclusion applies specifically to tumah ha-poreshet min ha-zachar, which is precisely what Category Division's prose discusses as the targeted exclusion for gender-specific tumah.",
+      "second_heading": "Arachin",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the difficulty about whether zachar ve-nekeivah language always excludes tumtum and androgynus, using arachin as a counterexample \u2014 exactly the content described in the Arachin section's prose.",
+      "current_heading": "Arachin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Category Division",
+    "candidates": [
+      "Necessary Language",
+      "Category Division"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's core content \u2014 the baraita excluding tumtum/androgynus from arachin valuations, and the gemara's answer that 'zachar' and 'nekeivah' were necessary in that context to differentiate valuation rates \u2014 is precisely what the 'Necessary Language' prose describes, not the 'Category Division' prose which discusses the campout/mikdash exclusion.",
+      "chosen_heading": "Necessary Language",
+      "current_heading": "Category Division",
+      "moved": true
+    }
+  }
+]

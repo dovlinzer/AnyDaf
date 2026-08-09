@@ -1,0 +1,365 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Three Kinyanim",
+    "candidates": [
+      "Eved Knaani Status",
+      "Three Kinyanim",
+      "Comparison to Karka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text directly presents the three kinyanim for acquiring an eved Knaani and the mechanisms for self-redemption, which is precisely what the 'Three Kinyanim' prose section discusses in detail, including the Rabbi Meir/Rabbis dispute and the 'kesef mi-shel acheirim' requirement.",
+      "chosen_heading": "Three Kinyanim",
+      "current_heading": "Three Kinyanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Comparison to Karka",
+    "candidates": [
+      "Comparison to Karka",
+      "Chalipin Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the derivation from the juxtaposition to sdeh achuzah and the Jubilee objection resolved by 'le-olam bahem ta'avodu,' which is precisely what the 'Comparison to Karka' prose describes.",
+      "chosen_heading": "Comparison to Karka",
+      "current_heading": "Comparison to Karka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Chalipin Method",
+    "candidates": [
+      "Chalipin Method",
+      "Shmuel on Meshicha",
+      "Why No Meshicha?",
+      "Dehumanization Debate",
+      "Animals vs. Slaves"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chalipin Method",
+      "first_confidence": "high",
+      "first_reason": "Items 1 discusses the baraita's inclusion of chalipin and why the mishnah omitted it \u2014 exactly the content of the 'Chalipin Method' prose.",
+      "second_heading": "Shmuel on Meshicha",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 cover Shmuel's ruling on meshicha and the gemara's reconciliation of why neither the mishnah nor the baraita listed meshicha \u2014 matching the 'Shmuel on Meshicha' and 'Why No Meshicha?' sections, with item 2 fitting 'Shmuel on Meshicha' as the natural start.",
+      "current_heading": "Chalipin Method",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Animals vs. Slaves",
+    "candidates": [
+      "Shmuel on Meshicha",
+      "Why No Meshicha?",
+      "Dehumanization Debate",
+      "Animals vs. Slaves",
+      "Will & Personhood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are exactly the baraita content about how meshicha works for animals (mesira by grabbing hoof/hair/saddle, and meshicha by calling or striking with a stick), which is precisely what heading 3 'Animals vs. Slaves' describes in its prose.",
+      "chosen_heading": "Animals vs. Slaves",
+      "current_heading": "Animals vs. Slaves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Will & Personhood",
+    "candidates": [
+      "Will & Personhood",
+      "Minor Slave Exception",
+      "Service Acts",
+      "Higbiho & Gevira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the distinction between an animal's will versus a slave's will, which is precisely what the 'Will & Personhood' section's prose addresses, including the Rav Ashi addendum about minor slaves which flows naturally from that discussion.",
+      "chosen_heading": "Will & Personhood",
+      "current_heading": "Will & Personhood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Higbiho & Gevira",
+    "candidates": [
+      "Minor Slave Exception",
+      "Service Acts",
+      "Higbiho & Gevira",
+      "Bia & Chazakah",
+      "Rejection of Bia"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the continuous discussion of 'higbiho' (lifting) in the baraita \u2014 Item 1 raises Rabbi Shimon's objection and the Gemara's question, and Item 2 provides Rav Ashi's resolution \u2014 exactly matching the 'Higbiho & Gevira' prose which describes this entire sequence.",
+      "chosen_heading": "Higbiho & Gevira",
+      "current_heading": "Higbiho & Gevira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Rejection of Bia",
+    "candidates": [
+      "Bia & Chazakah",
+      "Rejection of Bia",
+      "Ger Death Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's rejection of bi'ah as a valid chazakah \u2014 item 1 gives the zeh neheneh ve-zeh neheneh answer, item 2 addresses the shelo ke-darka follow-up \u2014 exactly matching the 'Rejection of Bia' prose.",
+      "chosen_heading": "Rejection of Bia",
+      "current_heading": "Rejection of Bia",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Ger Death Scenario",
+    "candidates": [
+      "Ger Death Scenario",
+      "Adult vs. Minor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the Mar Zutra / Rabbi Yehuda Hindua deathbed scene \u2014 the slave acquisition maneuver and its outcome \u2014 which is precisely what the 'Ger Death Scenario' prose discusses, not the adult/minor dispute addressed in candidate 1.",
+      "chosen_heading": "Ger Death Scenario",
+      "current_heading": "Ger Death Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Adult vs. Minor",
+    "candidates": [
+      "Adult vs. Minor",
+      "Tosafot Logic",
+      "Gadol vs. Katan",
+      "Rabbi Meir Rules",
+      "No Slave Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about a convert's slaves (adult vs. minor) and the Abba Shaul dispute, which is precisely what the 'Adult vs. Minor' section prose discusses in detail, including the u-de-lo ke-Abba Shaul reading and its implications for Mar Zutra's maneuver.",
+      "chosen_heading": "Adult vs. Minor",
+      "current_heading": "Adult vs. Minor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "No Slave Money",
+    "candidates": [
+      "Tosafot Logic",
+      "Gadol vs. Katan",
+      "Rabbi Meir Rules",
+      "No Slave Money",
+      "Gito ve-Yado"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items trace the exact logical chain described in candidate 2's prose \u2014 raising the shelo mi-da'ato problem, resolving it as mi-da'ato, and landing on the chiddush that only others' money works because ein kinyan le-eved belo rabbo \u2014 which is precisely what candidate 2 ('Rabbi Meir Rules') walks through, whereas candidate 3 ('No Slave Money') covers the same ground but is where the passage currently sits, and candidate 2's prose is a closer match to the full arc of the gemara including the opening framing of Rabbi Meir's position.",
+      "chosen_heading": "Rabbi Meir Rules",
+      "current_heading": "No Slave Money",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Gito ve-Yado",
+    "candidates": [
+      "No Slave Money",
+      "Gito ve-Yado",
+      "Abbaye: Kesef Shelo Mida"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the gemara's challenge from 'al yedei atzmo' vs 'al yedei acheirim' and the baraita of Rabbi Meir excluding third-party delivery of the shtar, which is precisely what the 'Gito ve-Yado' prose describes.",
+      "chosen_heading": "Gito ve-Yado",
+      "current_heading": "Gito ve-Yado",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Abbaye: Kesef Shelo Mida",
+    "candidates": [
+      "Abbaye: Kesef Shelo Mida",
+      "Sale-Freedom Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abbaye's direct statement about shelo mi-da'ato and the kesef argument, which is precisely what heading 0 introduces and explains, making the current placement correct.",
+      "chosen_heading": "Abbaye: Kesef Shelo Mida",
+      "current_heading": "Abbaye: Kesef Shelo Mida",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Sale-Freedom Parallel",
+    "candidates": [
+      "Sale-Freedom Parallel",
+      "Rava: Master Accepts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the shtar/kesef symmetry argument (ha-i shtar la-chud, tiv'a mi-chad hu) that is explicitly described in the 'Sale-Freedom Parallel' prose, which directly addresses why the money analogy works but the document analogy does not.",
+      "chosen_heading": "Sale-Freedom Parallel",
+      "current_heading": "Sale-Freedom Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Rava: Master Accepts",
+    "candidates": [
+      "Rava: Master Accepts",
+      "Slave's Own Money",
+      "Kesef Both Ways"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's distinction between kesef (master's receipt causes freedom) and shtar (others' receipt causes freedom), which is exactly what the 'Rava: Master Accepts' prose section discusses in detail.",
+      "chosen_heading": "Rava: Master Accepts",
+      "current_heading": "Rava: Master Accepts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Kesef Both Ways",
+    "candidates": [
+      "Slave's Own Money",
+      "Kesef Both Ways",
+      "Shtar by Others"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the gemara's question about why others' money doesn't work given the principle of zachin le-adam, which is the precise content described in candidate 1's prose about the kesef discussion and the zachut/zachin argument.",
+      "chosen_heading": "Kesef Both Ways",
+      "current_heading": "Kesef Both Ways",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Shtar by Others",
+    "candidates": [
+      "Shtar by Others",
+      "Gito ve-Yado Q",
+      "Rabbi Shimon",
+      "Three Core Issues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the gemara's push-pull questioning about why 'al yedei atzmo' for kesef and 'al yedei acheirim' for shtar cannot both mean 'even the other party too,' which is precisely the sharp question about gito ve-yado that candidate 1 ('Gito ve-Yado Q') describes in its prose.",
+      "chosen_heading": "Gito ve-Yado Q",
+      "current_heading": "Shtar by Others",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Three Core Issues",
+    "candidates": [
+      "Gito ve-Yado Q",
+      "Rabbi Shimon",
+      "Three Core Issues",
+      "Get Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's conclusion that the mishnah follows Rabbi Shimon ben Elazar's position (ve-Rabbi Shimon ben Elazar hi) with the baraita citation, which directly matches the prose in candidate 1 ('Rabbi Shimon'), not the current placement under 'Three Core Issues' which discusses the three debates rather than identifying whose opinion is being cited.",
+      "chosen_heading": "Rabbi Shimon",
+      "current_heading": "Three Core Issues",
+      "moved": true
+    }
+  }
+]

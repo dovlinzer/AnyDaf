@@ -1,0 +1,211 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Kedoshim Yihyu Source",
+    "candidates": [
+      "Tevul Yom Definition",
+      "Kedoshim Yihyu Source",
+      "Chalul Chalul Link",
+      "Rava's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain \u2014 Rabbi Simai's baraita deriving the tevul yom invalidation from 'kedoshim yihyu', the reassignment of the verse from tamei to tevul yom, the challenge about bald spots/beard, and the gezeirah shava rebuttal \u2014 exactly matching the 'Kedoshim Yihyu Source' prose description of this same sequence.",
+      "chosen_heading": "Kedoshim Yihyu Source",
+      "current_heading": "Kedoshim Yihyu Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rava's Question",
+    "candidates": [
+      "Chalul Chalul Link",
+      "Rava's Question",
+      "Tamei Baseline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabba's question about why the Torah needed to specify all three states (tamei, tevul yom, mechusar kippurim), which directly matches the prose in 'Rava's Question' that describes exactly this question.",
+      "chosen_heading": "Rava's Question",
+      "current_heading": "Rava's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Tamei Baseline",
+    "candidates": [
+      "Tamei Baseline",
+      "Obstacle Distinction",
+      "Residual Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why all three cases (tamei, tevul yom, mechusar kippurim) are necessary (tzrichi), which matches the 'Tamei Baseline' prose that explicitly discusses this tzrichi argument and the stringency of tamei she-ken metameh, exactly as the passage opens.",
+      "chosen_heading": "Tamei Baseline",
+      "current_heading": "Tamei Baseline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Residual Status",
+    "candidates": [
+      "Obstacle Distinction",
+      "Residual Status",
+      "Residual Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's question about why all three cases are needed and the attempt to derive one from the other two \u2014 specifically the attempt to omit *mechusar kippurim* (item 2) and then the attempt to omit *tevul yom* (item 3) \u2014 which is precisely the content discussed in the 'Obstacle Distinction' prose about the *she-ken posel bi-terumah* / *mechusar ma'aseh* distinctions, not the 'Residual Status' prose where it currently sits.",
+      "chosen_heading": "Obstacle Distinction",
+      "current_heading": "Residual Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Residual Identity",
+    "candidates": [
+      "Residual Status",
+      "Residual Identity",
+      "Parah Adumah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the principle 'mechusar kippurim de-zav ke-zav dami' as the Gemara's answer to why the mechusar kippurim case must be stated separately, which is precisely what the 'Residual Status' section's prose discusses as the culminating explanation of that section's argument.",
+      "chosen_heading": "Residual Status",
+      "current_heading": "Residual Identity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Parah Adumah Case",
+    "candidates": [
+      "Parah Adumah Case",
+      "Vehizah Hatahor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita dispute between the first tanna and Yosef HaBavli about whether mechusar kippurim invalidates the parah adumah burning, which is precisely what the 'Parah Adumah Case' prose describes.",
+      "chosen_heading": "Parah Adumah Case",
+      "current_heading": "Parah Adumah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Vehizah Hatahor",
+    "candidates": [
+      "Vehizah Hatahor",
+      "Two Positions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's rejection of the initial reading and introduces the 'vehizah hatahor' derivation that a tevul yom is valid for parah adumah \u2014 precisely what the prose of candidate 0 discusses.",
+      "chosen_heading": "Vehizah Hatahor",
+      "current_heading": "Vehizah Hatahor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Two Positions",
+    "candidates": [
+      "Two Positions",
+      "Resolution",
+      "Bigdei Kehunah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the two-position debate (tumah de-chol ha-Torah kulluh vs. tumah de-hach parshah) and its kal va-chomer consequence regarding mechusar kippurim de-zav, which is precisely what the 'Two Positions' prose describes in detail.",
+      "chosen_heading": "Two Positions",
+      "current_heading": "Two Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Bigdei Kehunah Source",
+    "candidates": [
+      "Resolution",
+      "Bigdei Kehunah Source",
+      "Garments Create Status",
+      "Scope of Ruling",
+      "Wine Pasuk Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's derivation of the mechusar begadim rule from Exodus 29:9, which is exactly what the 'Bigdei Kehunah Source' section's prose describes \u2014 Rav Abbahu/Rabbi Yochanan deriving the rule from that specific pasuk.",
+      "chosen_heading": "Bigdei Kehunah Source",
+      "current_heading": "Bigdei Kehunah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Wine Pasuk Alternative",
+    "candidates": [
+      "Garments Create Status",
+      "Scope of Ruling",
+      "Wine Pasuk Alternative",
+      "Two Lists of Avodot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the baraita deriving the disqualification of drunk priests from Leviticus 10:9 and extending it via gezeirah shava (chukkah-chukkah) to mechusar begadim and unwashed hands/feet \u2014 exactly the content described in the 'Wine Pasuk Alternative' prose.",
+      "chosen_heading": "Wine Pasuk Alternative",
+      "current_heading": "Wine Pasuk Alternative",
+      "moved": false
+    }
+  }
+]

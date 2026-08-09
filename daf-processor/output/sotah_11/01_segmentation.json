@@ -44,7 +44,7 @@
           "timestamp": "12:03"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -126,7 +126,7 @@
           "timestamp": "36:51"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -332,5 +332,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "36:51",
+  "amud_b_micro_title": "Multiplying Promise",
+  "shiur_start_daf": 10,
+  "shiur_start_amud": "b"
 }

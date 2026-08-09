@@ -1,0 +1,253 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rabbi Akiva Leniency",
+    "candidates": [
+      "Beis Shammai's Sale Ban",
+      "Baraisa Definition",
+      "Rabbi Akiva Leniency",
+      "Maris Ayin vs Process",
+      "Chametz Sale Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full baraita text presenting Beit Shammai's sale prohibition along with Beit Hillel's and Rabbi Akiva's positions, which maps directly to heading 0 ('Beis Shammai's Sale Ban') whose prose explicitly describes this same baraita opening with Beis Shammai's prohibition on selling to a non-Jew on erev Shabbos.",
+      "chosen_heading": "Beis Shammai's Sale Ban",
+      "current_heading": "Rabbi Akiva Leniency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Chametz Sale Case",
+    "candidates": [
+      "Maris Ayin vs Process",
+      "Chametz Sale Case",
+      "Feeding in Courtyard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Beit Shammai/Beit Hillel dispute about selling chametz to a gentile and Rabbi Yehuda's ruling about Babylonian kuta\u1e25 \u2014 are precisely the baraita discussed in the 'Chametz Sale Case' prose, which explicitly quotes and analyzes these very rulings.",
+      "chosen_heading": "Chametz Sale Case",
+      "current_heading": "Chametz Sale Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Feeding in Courtyard",
+    "candidates": [
+      "Feeding in Courtyard",
+      "Rental Prohibition",
+      "Sechar Shabbat Issue",
+      "Letter Ban"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern placing food before a dog and a non-Jew in the courtyard on Shabbat, which is precisely what the 'Feeding in Courtyard' prose discusses in detail, including the Gemara's question about why both cases are needed and the answer about the obligation to feed one's dog.",
+      "chosen_heading": "Feeding in Courtyard",
+      "current_heading": "Feeding in Courtyard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Letter Ban",
+    "candidates": [
+      "Rental Prohibition",
+      "Sechar Shabbat Issue",
+      "Letter Ban",
+      "Fixed Price Criteria",
+      "Fixed Price & Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The baraita covers both the rental prohibition and the letter-sending prohibition together as parallel cases, and while it currently sits under 'Letter Ban' (index 2), the passage is the source text that introduces both topics \u2014 the 'Rental Prohibition' heading (index 0) is the first of the two parallel rulings and is where the baraita naturally belongs as the source being quoted for that section's discussion, with the letter portion following naturally; however, since the passage contains both rulings and index 2's prose explicitly discusses this exact baraita including Rabbi Yose HaChassid, the current placement is also defensible \u2014 but index 0 is a slightly better fit as the baraita's primary subject is the rental case introduced first.",
+      "chosen_heading": "Rental Prohibition",
+      "current_heading": "Letter Ban",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Fixed Price & Timing",
+    "candidates": [
+      "Fixed Price Criteria",
+      "Fixed Price & Timing",
+      "Three-Day Boat Rule",
+      "Mitzvah & Local Trips"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion about the baraita's letter-sending rule \u2014 the fixed-price requirement, Rav Sheshet's clarification about timing thresholds when no price is set, and the resolution distinguishing cities with and without a fixed postal office \u2014 which is precisely what the 'Fixed Price & Timing' prose describes.",
+      "chosen_heading": "Fixed Price & Timing",
+      "current_heading": "Fixed Price & Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Mitzvah & Local Trips",
+    "candidates": [
+      "Three-Day Boat Rule",
+      "Mitzvah & Local Trips",
+      "Siege Warfare"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the three-day rule and its exceptions (mitzvah travel, stipulation dispute between Rabbi and Rabban Shimon ben Gamliel, and short Tyre-to-Sidon trips), which is precisely what candidate 1 ('Mitzvah & Local Trips') discusses in its prose, making the current placement correct.",
+      "chosen_heading": "Mitzvah & Local Trips",
+      "current_heading": "Mitzvah & Local Trips",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Siege Warfare",
+    "candidates": [
+      "Siege Warfare",
+      "Garment Practices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses siege warfare, the three-day rule before Shabbat, and Shammai's ruling about continuing sieges, which exactly matches the 'Siege Warfare' section's prose.",
+      "chosen_heading": "Siege Warfare",
+      "current_heading": "Siege Warfare",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Garment Practices",
+    "candidates": [
+      "Garment Practices",
+      "Beis Shammai Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Garment Practices' prose, which explicitly discusses Rabban Gamliel's household giving white garments three days before Shabbos, Rabbi Tzadok's confirmation, the principle that white garments are harder to launder, Abaye's encounter with the launderer over pricing, and Abaye's advice to measure garments before and after laundering \u2014 all of which correspond precisely to the two quoted passages.",
+      "chosen_heading": "Garment Practices",
+      "current_heading": "Garment Practices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Beis Shammai Logic",
+    "candidates": [
+      "Beis Shammai Logic",
+      "Olives & Grapes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why Beit Shammai issued a gezeira against other processes but not against the olive press and wine press beams, explaining the sin-offering threshold criterion \u2014 exactly what the 'Beis Shammai Logic' prose discusses.",
+      "chosen_heading": "Beis Shammai Logic",
+      "current_heading": "Beis Shammai Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Olives & Grapes",
+    "candidates": [
+      "Olives & Grapes",
+      "Honey Debate",
+      "Crushing Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's question about who holds that things coming on their own are permitted, answered by Rabbi Yose bar Rabbi Chanina citing Rabbi Yishmael (item 1) and Rabbi Elazar citing Rabbi Elazar the tanna (item 2) \u2014 exactly what the 'Olives & Grapes' prose describes as the Gemara's framing of the de'ati mimmela question.",
+      "chosen_heading": "Olives & Grapes",
+      "current_heading": "Olives & Grapes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Crushing Threshold",
+    "candidates": [
+      "Honey Debate",
+      "Crushing Threshold",
+      "Rav vs Shmuel",
+      "Business-Use Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the same dialectic about why Rabbi Yosei bar \u1e24anina and Rabbi Elazar did not adopt each other's proofs \u2014 including the Baraita about crushed olives/grapes, Rabbi Yochanan's qualification about mechusarin dikah vs. mechusarin shechika, and Rabbi Yosei bar \u1e24anina's practical ruling like Rabbi Yishmael \u2014 all of which are explicitly summarized in the 'Crushing Threshold' prose.",
+      "chosen_heading": "Crushing Threshold",
+      "current_heading": "Crushing Threshold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Business-Use Items",
+    "candidates": [
+      "Rav vs Shmuel",
+      "Business-Use Items",
+      "Rabbi Yehuda vs Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the oil/mats of olive pressers AND the Rav Nachman cases (goat, ewe, chicken, oxen, dates) plus the Rabbi Yehuda/Rabbi Shimon identification \u2014 all of which are introduced and contextualized under heading 0's prose about shemen shel badadin, machatza'os shel badadin, and the Rav/Shmuel muktzeh dispute, making heading 0 the natural home for the entire passage.",
+      "chosen_heading": "Rav vs Shmuel",
+      "current_heading": "Business-Use Items",
+      "moved": true
+    }
+  }
+]

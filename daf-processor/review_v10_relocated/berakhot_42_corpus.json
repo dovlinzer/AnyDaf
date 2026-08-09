@@ -1,0 +1,338 @@
+[
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Question Posed",
+    "candidates": [
+      "Wine Quantity",
+      "Rashi vs Tosafot",
+      "Definition",
+      "Sfek Brachot",
+      "Question Posed",
+      "Wine Status",
+      "Wine's Ritual Status",
+      "Rav Huna Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Definition",
+      "first_confidence": "high",
+      "first_reason": "Rav Pappa's summary ruling on brachot for foods during/after a meal matches the 'Definition' section's prose, which explicitly discusses the three categories: machmat haseudah, not machmat haseudah, and post-meal food requiring both bracha rishona and bracha achrona.",
+      "second_heading": "Question Posed",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the Ben Zoma exchange about why bread exempts meal foods and why wine is different, which matches exactly the 'Question Posed' section's prose describing 'sha'alu es Ben Zoma' and the challenge about wine not being exempted by hamotzi.",
+      "current_heading": "Question Posed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rav Huna Story",
+    "candidates": [
+      "Wine Status",
+      "Wine's Ritual Status",
+      "Rav Huna Story",
+      "Keviat Seudah Rule",
+      "Three Categories",
+      "Modern Examples",
+      "Wedding Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly narrates the Rav Huna story and the rule about others basing a meal upon the food, which is exactly what the 'Rav Huna Story' prose section describes.",
+      "chosen_heading": "Rav Huna Story",
+      "current_heading": "Rav Huna Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Wedding Story",
+    "candidates": [
+      "Keviat Seudah Rule",
+      "Three Categories",
+      "Modern Examples",
+      "Wedding Story",
+      "Rav Pappa Visit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Wedding Story narrative \u2014 Rav Yehuda's exchange about pas haba b'kisnin and hamotzi, culminating in the kvias seudah distinction \u2014 which is precisely what the 'Wedding Story' prose describes in detail.",
+      "chosen_heading": "Wedding Story",
+      "current_heading": "Wedding Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Rav Pappa Visit",
+    "candidates": [
+      "Rav Pappa Visit",
+      "Table Removal",
+      "Dependent on Host"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Rav Pappa visit story that Candidate 0's prose discusses in detail, making it the clear and correct placement.",
+      "chosen_heading": "Rav Pappa Visit",
+      "current_heading": "Rav Pappa Visit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Dependent on Host",
+    "candidates": [
+      "Table Removal",
+      "Dependent on Host",
+      "Da'at Ba'al Bayit",
+      "Three Immediates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly narrates the Rava and Rabbi Zeira story at the Exilarch's house, which is precisely what the 'Dependent on Host' prose section describes and analyzes.",
+      "chosen_heading": "Dependent on Host",
+      "current_heading": "Dependent on Host",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Three Immediates",
+    "candidates": [
+      "Da'at Ba'al Bayit",
+      "Three Immediates",
+      "Mayim Acharonim & Birchat",
+      "Before/After Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the 'three immediates' (shalosh techofot) ruling and Abaye's fourth tachef regarding talmidei chachamim, which is precisely what the prose under heading 1 ('Three Immediates') describes in detail.",
+      "chosen_heading": "Three Immediates",
+      "current_heading": "Three Immediates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Before/After Rule",
+    "candidates": [
+      "Mayim Acharonim & Birchat",
+      "Before/After Rule",
+      "Bread vs Snacks",
+      "Beit Shammai",
+      "Sitting Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna that introduces the before/after meal blessing rules, and the prose under 'Before/After Rule' directly discusses this exact content \u2014 wine before exempting wine after, and appetizers before exempting appetizers after.",
+      "chosen_heading": "Before/After Rule",
+      "current_heading": "Before/After Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Sitting Position",
+    "candidates": [
+      "Bread vs Snacks",
+      "Beit Shammai",
+      "Sitting Position",
+      "Wine Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the hayu yoshvin/heseivu ruling about individual vs. collective blessings, which is precisely what the 'Sitting Position' section's prose is explaining.",
+      "chosen_heading": "Sitting Position",
+      "current_heading": "Sitting Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Wine Categories",
+    "candidates": [
+      "Wine Categories",
+      "Shabbat/Yom Tov",
+      "Weekday Customs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses wine during vs. after the meal and the blessing over mugmar, which is exactly what the 'Wine Categories' section prose describes.",
+      "chosen_heading": "Wine Categories",
+      "current_heading": "Wine Categories",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Weekday Customs",
+    "candidates": [
+      "Shabbat/Yom Tov",
+      "Weekday Customs",
+      "Changing Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the core ruling limiting the Mishna's exemption to Shabbat/Yom Tov (and specific occasions), which is precisely what heading 0 ('Shabbat/Yom Tov') discusses \u2014 the weekday contrast is merely the flip side of that ruling, and heading 1's prose already summarizes both items as background, suggesting the quoted text itself belongs under heading 0 where the primary ruling is introduced.",
+      "chosen_heading": "Shabbat/Yom Tov",
+      "current_heading": "Weekday Customs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Changing Intent",
+    "candidates": [
+      "Weekday Customs",
+      "Changing Intent",
+      "Question Posed (II)",
+      "Amoraic Dispute",
+      "Mishna Reading",
+      "Separate Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly illustrate the interplay between default assumptions and individual intent on weekdays vs. Yom Tov \u2014 exactly what the 'Changing Intent' prose describes, including the specific cases of Rabba bar Mari/Rava and Rav Yitzchak/Abaye with the 'nimlach ana' explanation.",
+      "chosen_heading": "Changing Intent",
+      "current_heading": "Changing Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Separate Categories",
+    "candidates": [
+      "Question Posed (II)",
+      "Amoraic Dispute",
+      "Mishna Reading",
+      "Separate Categories",
+      "Asymmetry",
+      "Beit Shammai (II)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is the question about whether wine during the meal exempts wine after the meal, and Item 2 is the Amoraic dispute plus Rava's objection and Rav Nachman's reinterpretation \u2014 but the prose under candidate 0 ('Question Posed (II)') explicitly describes both the question and the categorical distinction argument, while candidates 1 and 2 cover the Amoraic opinions and Mishna reinterpretation respectively, meaning the passage as a whole is split across 0, 1, and 2; however, since all items must go under ONE heading and candidate 0's prose most directly introduces and frames the dilemma that these items address, and the current placement under 'Separate Categories' (index 3) is clearly wrong as that prose discusses the normative ruling rather than the question or dispute, the best single home is index 0 where the question is posed and the categorical distinction is articulated.",
+      "chosen_heading": "Question Posed (II)",
+      "current_heading": "Separate Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Beit Shammai (II)",
+    "candidates": [
+      "Asymmetry",
+      "Beit Shammai (II)",
+      "Sitting Position (II)",
+      "Tosefta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishna quote about bread/appetizers/cooked dish, the Gemara's dilemma about which clause Beit Shammai disputes, and the teiku conclusion \u2014 are precisely the content described in the 'Beit Shammai (II)' prose, which explicitly discusses the dispute about ma'aseh kedeirah, the two readings of Beit Shammai's position, and the teiku resolution.",
+      "chosen_heading": "Beit Shammai (II)",
+      "current_heading": "Beit Shammai (II)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Tosefta",
+    "candidates": [
+      "Sitting Position (II)",
+      "Tosefta",
+      "Intent to Eat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Gemara's inference about haseibah (haseibu in, lo haseibu lo) AND the contradiction from the Tosefta about sitting, which together form one continuous unit \u2014 but the prose of candidate 0 specifically describes the Gemara's formulation of 'haseibu in lo haseibu lo' which opens this passage, while candidate 1's prose describes only the Tosefta portion; since the passage begins with the Mishna/Gemara inference and then raises the Tosefta contradiction as a single unit, and candidate 0's prose explicitly covers the haseibu in/lo formulation that opens the passage, the full passage fits better under candidate 0, with the Tosefta contradiction being part of that same discussion rather than a separate section.",
+      "chosen_heading": "Sitting Position (II)",
+      "current_heading": "Tosefta",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Intent to Eat",
+    "candidates": [
+      "Tosefta",
+      "Intent to Eat",
+      "Without Bread",
+      "Wine Zimun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Na\u1e25man bar Yitz\u1e25ak's resolution about saying 'let us go eat in such-and-such a place,' which is precisely what the 'Intent to Eat' section's prose describes.",
+      "chosen_heading": "Intent to Eat",
+      "current_heading": "Intent to Eat",
+      "moved": false
+    }
+  }
+]

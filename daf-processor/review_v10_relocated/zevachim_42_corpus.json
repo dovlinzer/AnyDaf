@@ -1,0 +1,258 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Yom Kippur Blood",
+    "candidates": [
+      "Meir vs. Chachamim",
+      "First Act Only",
+      "Yom Kippur Blood",
+      "Baraita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "This baraita is the objection raised against Reish Lakish's position (that Rabbi Meir limits pigul to the first act only), which is precisely what heading 1 'First Act Only' describes \u2014 the baraita's content about external vs. internal altar blood and Rabbi Meir/Rabbis' positions is the direct challenge to Reish Lakish introduced in that section, before the full resolution discussed under 'Baraita Challenge'.",
+      "chosen_heading": "First Act Only",
+      "current_heading": "Yom Kippur Blood",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Baraita Challenge",
+    "candidates": [
+      "Yom Kippur Blood",
+      "Baraita Challenge",
+      "Rashi's Reading",
+      "Gemara Challenge",
+      "Rava Identifies",
+      "Eliezer Full Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the baraita challenge to Reish Lakish \u2014 item 1 presents the contradiction ('katani miha... piggel bein berishona bein beshniya bein beshlishit') and item 2 is Rav Yitzchak bar Avin's resolution involving shechita as a single permitting factor followed by the Gemara's follow-up question about the Rabbis' reasoning \u2014 all of which is precisely what the 'Baraita Challenge' prose describes.",
+      "chosen_heading": "Baraita Challenge",
+      "current_heading": "Baraita Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Eliezer Full Amount",
+    "candidates": [
+      "Rashi's Reading",
+      "Gemara Challenge",
+      "Rava Identifies",
+      "Eliezer Full Amount",
+      "Tosafot Comparison",
+      "Blood Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's identification of 'who are the Rabbis' as Rabbi Eliezer, which is precisely what the 'Rava Identifies' section's prose describes \u2014 Rava resolving the question by identifying 'man Chachamim? Rabbi Eliezer.'",
+      "chosen_heading": "Rava Identifies",
+      "current_heading": "Eliezer Full Amount",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Blood Exception",
+    "candidates": [
+      "Tosafot Comparison",
+      "Blood Exception",
+      "Spilling Rule",
+      "Bracketing Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rava's point that Rabbi Eliezer concedes regarding blood (u-modeh Rabbi Eliezer be-damim) and cites the mishna about resuming from the point of interruption, which is precisely what the 'Blood Exception' section's prose discusses.",
+      "chosen_heading": "Blood Exception",
+      "current_heading": "Blood Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Bracketing Problem",
+    "candidates": [
+      "Spilling Rule",
+      "Bracketing Problem",
+      "Rashi Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage presents Rava's and Rav Ashi's competing interpretations of the baraita about piggul thoughts during different sets of sprinklings \u2014 a discussion that fits best under 'Bracketing Problem,' which addresses how pigul operates across the multiple blood-applications of a chatzi matir scenario, even though the current placement prose doesn't perfectly describe this specific Rava/Rav Ashi dispute.",
+      "chosen_heading": "Bracketing Problem",
+      "current_heading": "Bracketing Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Rashi Solution",
+    "candidates": [
+      "Rashi Solution",
+      "Rava Final Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's challenge about *karet* liability requiring all permitting factors to be sacrificed, and the specific problem that an invalid inner sprinkling (due to *pigul* thought) means subsequent sprinklings are 'mere water' \u2014 this is precisely the difficulty that the Rashi Solution prose is explaining and analyzing (the bracketing problem in the *chatzi matir* case), not Rava's final resolution.",
+      "chosen_heading": "Rashi Solution",
+      "current_heading": "Rashi Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Rava Final Answer",
+    "candidates": [
+      "Rava Final Answer",
+      "Mixing Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabba's four bulls/four goats solution and Rava's even-one-bull-one-goat response \u2014 are precisely the content described in candidate 0's prose about Rava's final answer, which explicitly covers both the multiple-animals scenario and the *pigul meratzeh* resolution with a single animal.",
+      "chosen_heading": "Rava Final Answer",
+      "current_heading": "Rava Final Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Mixing Question",
+    "candidates": [
+      "Mixing Question",
+      "Sheirim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 43 vs. 47 discrepancy and the me'arvin/ein me'arvin lekranot debate, which is precisely what the 'Mixing Question' prose describes.",
+      "chosen_heading": "Mixing Question",
+      "current_heading": "Mixing Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Sheirim Debate",
+    "candidates": [
+      "Sheirim Debate",
+      "Mincha Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 48 vs 47 count discrepancy resolved by the debate over whether sheirim is me'akev, which is precisely what the 'Sheirim Debate' prose describes.",
+      "chosen_heading": "Sheirim Debate",
+      "current_heading": "Sheirim Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Mincha Baraita",
+    "candidates": [
+      "Mincha Baraita",
+      "Sequence Evidence",
+      "Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the baraita about the mincha offering (kometz and levonah) and the initial gemara answer, which is precisely what the 'Mincha Baraita' prose describes \u2014 the two sub-cases and Rabbi Meir's ruling \u2014 before the 'Sequence Evidence' section takes over with the katani miha challenge in item 3; however, item 3 is actually the katani miha objection and the gemara's answer ('kvar natan'), which fits the current heading as the complete unit of the baraita discussion including the first response, matching the Mincha Baraita section's scope.",
+      "chosen_heading": "Mincha Baraita",
+      "current_heading": "Mincha Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Rejection",
+    "candidates": [
+      "Sequence Evidence",
+      "Rejection",
+      "Matir Exempt",
+      "Blood Kometz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the two-step gemara rejection of Reish Lakish's rereading (chada de-hainu reisha, plus the ve-achar kach baraita), ending with kashya \u2014 exactly what the 'Rejection' section's prose describes.",
+      "chosen_heading": "Rejection",
+      "current_heading": "Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Blood Kometz",
+    "candidates": [
+      "Matir Exempt",
+      "Blood Kometz",
+      "Nesachim Issue",
+      "Meir Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full Mishna text that introduces the piggul-exempt matir items, which is precisely what candidate 0 ('Matir Exempt') describes as its topic \u2014 the opening of the new mishnah listing items exempt from pigul liability and explaining the matir principle.",
+      "chosen_heading": "Matir Exempt",
+      "current_heading": "Blood Kometz",
+      "moved": true
+    }
+  }
+]

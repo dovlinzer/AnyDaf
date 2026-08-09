@@ -1,0 +1,497 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Bread without washing",
+    "candidates": [
+      "Bread without washing",
+      "Rava's reread",
+      "Mayim rishonim/acharonim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Bread without washing",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Avira's homiletical interpretation connecting eating bread without handwashing to a harlot, which is precisely what candidate 0's prose describes.",
+      "second_heading": "Rava's reread",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rava's grammatical objection and reinterpretation of the verse, which is precisely what candidate 1's prose ('Rava's reread') describes.",
+      "current_heading": "Bread without washing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Mayim rishonim/acharonim",
+    "candidates": [
+      "Rava's reread",
+      "Mayim rishonim/acharonim",
+      "Drying hands"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what the 'Mayim rishonim/acharonim' prose describes: Rabbi Zerika/Elazar's warning about contempt for handwashing, and Rav Chiyya bar Ashi/Rav's ruling about raising hands for mayim rishonim and lowering for mayim acharonim, confirmed by the baraita.",
+      "chosen_heading": "Mayim rishonim/acharonim",
+      "current_heading": "Mayim rishonim/acharonim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Drying hands",
+    "candidates": [
+      "Drying hands",
+      "Haughty soul & adultery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi Abbahu's statement regarding eating bread without drying hands, which directly matches the 'Drying hands' section prose discussing the same teaching.",
+      "chosen_heading": "Drying hands",
+      "current_heading": "Drying hands",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Haughty soul & adultery",
+    "candidates": [
+      "Haughty soul & adultery",
+      "Haughtiness = idolatry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the interpretation of 'nefesh yekarah tatzud' from Proverbs 6:26 \u2014 Rabbi Yo\u1e25anan's teaching connecting haughtiness with adultery and Rava's alternative interpretation \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Haughty soul & adultery",
+      "current_heading": "Haughty soul & adultery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Haughtiness = idolatry",
+    "candidates": [
+      "Haughtiness = idolatry",
+      "Haughtiness = denial"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbi Yo\u1e25anan/Rabbi Shimon ben Yo\u1e25ai teaching equating haughtiness with idolatry via the shared term 'toavah,' which is precisely what heading 0's prose describes and analyzes.",
+      "chosen_heading": "Haughtiness = idolatry",
+      "current_heading": "Haughtiness = idolatry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Haughtiness = denial",
+    "candidates": [
+      "Haughtiness = denial",
+      "Consequences of pride"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yo\u1e25anan's statement that haughtiness is as if one denied the core belief in God, which is precisely what candidate 0's prose discusses and analyzes.",
+      "chosen_heading": "Haughtiness = denial",
+      "current_heading": "Haughtiness = denial",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Consequences of pride",
+    "candidates": [
+      "Consequences of pride",
+      "Charity despite pride"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items (Rabbi \u1e24ama bar \u1e24anina's comparison to arayot and Ulla's comparison to a bamah) are explicitly discussed in the prose of candidate 0 ('Consequences of pride'), which covers exactly these two statements in sequence.",
+      "chosen_heading": "Consequences of pride",
+      "current_heading": "Consequences of pride",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Charity despite pride",
+    "candidates": [
+      "Charity despite pride",
+      "Prohibition source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form one continuous chain of Rav, devei Rabbi Sheila, and Rabbi Yochanan interpreting 'yad leyad lo yinakeh' in relation to haughtiness, exactly as described in the 'Charity despite pride' prose.",
+      "chosen_heading": "Charity despite pride",
+      "current_heading": "Charity despite pride",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Prohibition source",
+    "candidates": [
+      "Prohibition source",
+      "Diminishment & repentance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the sources for the prohibition against arrogance, exactly matching the 'Prohibition source' prose which discusses the same verses from Yirmiyahu and Devarim and the Rabbi Avin/Rabbi Ila principle about hishamer/pen/al constituting negative prohibitions.",
+      "chosen_heading": "Prohibition source",
+      "current_heading": "Prohibition source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Diminishment & repentance",
+    "candidates": [
+      "Diminishment & repentance",
+      "Head of husk debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav Avira's homiletical interpretation about arrogance leading to diminishment and the repentance alternative with the Abraham/Isaac/Jacob comparison, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Diminishment & repentance",
+      "current_heading": "Diminishment & repentance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Head of husk debate",
+    "candidates": [
+      "Head of husk debate",
+      "God with lowly",
+      "Learning from God"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Head of husk debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the debate about 'rosh shibolet' (head of the husk) and the parable of gathering tall stalks, which is precisely what heading 0 ('Head of husk debate') discusses.",
+      "second_heading": "God with lowly",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rav Huna/Rav Chisda dispute about Isaiah 57:15 ('with the contrite and humble spirit'), which is exactly what heading 1 ('God with lowly') describes.",
+      "current_heading": "Head of husk debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Learning from God",
+    "candidates": [
+      "God with lowly",
+      "Learning from God",
+      "Deserve cutting down"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "God with lowly",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's conclusion (umistavra) that God descended to Sinai rather than raising it up, which directly corresponds to the 'God with lowly' section's discussion of the ani et daka interpretation and its proof from Har Sinai.",
+      "second_heading": "Learning from God",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Yosef's teaching that one should learn from God's conduct by choosing the lowly Sinai and the thorn bush, which matches exactly the 'Learning from God' section's prose about le'olam yilmad adam mida'as kono and the sneh.",
+      "current_heading": "Learning from God",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Deserve cutting down",
+    "candidates": [
+      "Deserve cutting down",
+      "God cannot dwell"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-4 all continue the same chain of Rabbi Elazar's teachings about arrogance (gasut haruach), and the current heading's prose explicitly covers items 1 and 2 while items 3-4 extend naturally from the same theme; candidate 1 discusses a different teaching about God not dwelling with the haughty, whereas candidate 0 is the direct home for this sequence.",
+      "chosen_heading": "Deserve cutting down",
+      "current_heading": "Deserve cutting down",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "God cannot dwell",
+    "candidates": [
+      "God cannot dwell",
+      "Little wind disturbs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the arrogant person and God not being able to dwell together, with the reread of 'oto lo ukhal' as 'itto lo ukhal,' which is precisely what the prose under 'God cannot dwell' discusses.",
+      "chosen_heading": "God cannot dwell",
+      "current_heading": "God cannot dwell",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Little wind disturbs",
+    "candidates": [
+      "Little wind disturbs",
+      "Talmid chacham arrogance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi Alexandri's teaching on arrogance and the sea metaphor, which is precisely what the 'Little wind disturbs' section prose describes.",
+      "chosen_heading": "Little wind disturbs",
+      "current_heading": "Little wind disturbs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Talmid chacham arrogance",
+    "candidates": [
+      "Talmid chacham arrogance",
+      "Crowns like husk hairs",
+      "Rava's resolution",
+      "Total rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three statements (Rav \u1e24iyya bar Ashi/Rav on one-eighth of one-eighth, Rav Huna's crown metaphor, and Rava's excommunication ruling) and the current heading's prose discusses all three together as a unit, making it the correct placement.",
+      "chosen_heading": "Talmid chacham arrogance",
+      "current_heading": "Talmid chacham arrogance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Total rejection",
+    "candidates": [
+      "Crowns like husk hairs",
+      "Rava's resolution",
+      "Total rejection",
+      "Heart like flesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Na\u1e25man bar Yitz\u1e25ak's statement rejecting all arrogance and citing the 'abomination to the Lord' verse, which is precisely what the 'Total rejection' section's prose describes.",
+      "chosen_heading": "Total rejection",
+      "current_heading": "Total rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Heart like flesh",
+    "candidates": [
+      "Heart like flesh",
+      "Flesh vs. adam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is \u1e24izkiyya's teaching about prayer requiring a heart like flesh, which is exactly what the prose under 'Heart like flesh' discusses, including the same verse and the same concept of humility/softness.",
+      "chosen_heading": "Heart like flesh",
+      "current_heading": "Heart like flesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Flesh vs. adam",
+    "candidates": [
+      "Flesh vs. adam",
+      "Adam & basar acronyms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Zeira's observation about the distinction between 'basar' (flesh) and 'adam' (person) in the context of tzara'at healing, which is exactly what the prose in candidate 0 describes.",
+      "chosen_heading": "Flesh vs. adam",
+      "current_heading": "Flesh vs. adam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Adam & basar acronyms",
+    "candidates": [
+      "Adam & basar acronyms",
+      "Se'et & sapachat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yochanan's acronymic readings of 'adam' and 'basar,' which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "Adam & basar acronyms",
+      "current_heading": "Adam & basar acronyms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Se'et & sapachat",
+    "candidates": [
+      "Se'et & sapachat",
+      "Greatness of lowly",
+      "Broken spirit greatest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Ashi's teaching about arrogance (gasut haruach) being diminished, derived from the se'et/sappa\u1e25at verse, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Se'et & sapachat",
+      "current_heading": "Se'et & sapachat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Broken spirit greatest",
+    "candidates": [
+      "Greatness of lowly",
+      "Broken spirit greatest",
+      "Warning contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rabbi Yehoshua ben Levi's teachings about the greatness of lowly/humble spirit, and candidate 0's prose explicitly introduces and summarizes exactly this content (the burnt-offering/meal-offering comparison and the lowly spirit surpassing all sacrifices), while candidate 1's prose already incorporates these same teachings as part of a longer summary, suggesting the passage was misplaced one heading too late.",
+      "chosen_heading": "Greatness of lowly",
+      "current_heading": "Broken spirit greatest",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Warning contradiction",
+    "candidates": [
+      "Broken spirit greatest",
+      "Warning contradiction",
+      "Abaye's resolution",
+      "Final forbidden state"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the internal contradiction in the Mishnah between the warning clause and the permitted-after-speaking clause, which is precisely what the 'Warning contradiction' section's prose describes as 'Ha gupa kashya \u2014 this passage is self-contradictory.'",
+      "chosen_heading": "Warning contradiction",
+      "current_heading": "Warning contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Final forbidden state",
+    "candidates": [
+      "Abaye's resolution",
+      "Final forbidden state"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's full explanation covering both the permitted scenarios and the forbidden one, making it a complete unit that belongs under 'Abaye's resolution' which describes his entire interpretive framework, not just the final forbidden state.",
+      "chosen_heading": "Abaye's resolution",
+      "current_heading": "Final forbidden state",
+      "moved": true
+    }
+  }
+]

@@ -179,7 +179,7 @@
           "timestamp": "31:29"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 23,
       "matched": true
     },
     {
@@ -198,7 +198,7 @@
           "timestamp": "31:41"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 24,
       "matched": true
     },
     {
@@ -739,5 +739,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "19:08",
+  "amud_b_micro_title": "Rabbi Shimon Paradigm",
+  "shiur_start_daf": 13,
+  "shiur_start_amud": "a"
 }

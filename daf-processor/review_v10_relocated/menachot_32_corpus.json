@@ -1,0 +1,229 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rav Huna's Practice",
+    "candidates": [
+      "Rav Huna's Practice",
+      "Petuchot/Setumot",
+      "Shema in Torah",
+      "Rabbi Meir Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly records Rabbi Chelbo's observation of Rav Huna's mezuzah practice \u2014 rolling from e\u1e25ad toward shema and making parshiyot setumot \u2014 which is exactly what the 'Rav Huna's Practice' section prose describes.",
+      "chosen_heading": "Rav Huna's Practice",
+      "current_heading": "Rav Huna's Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Rabbi Meir Method",
+    "candidates": [
+      "Petuchot/Setumot",
+      "Shema in Torah",
+      "Rabbi Meir Method",
+      "Shimon's Question",
+      "Not Juxtaposed",
+      "Ruling: Margins",
+      "Clarification"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Meir Method",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 describe Rabbi Meir's practice (duchsostos, column format, margins, petuchot) and Rabbi Shimon ben Elazar's question about it, which is exactly what headings 2 and 3 cover \u2014 but since the prose for heading 2 already describes the full baraita including the petuchot element, and heading 3 covers the question, the natural split places items 1-2 under heading 2 ('Rabbi Meir Method') where the baraita introduction and practice details belong.",
+      "second_heading": "Ruling: Margins",
+      "second_confidence": "high",
+      "second_reason": "Item 3 reports Rav \u1e24ananel citing Rav's ruling that the halakha follows Rabbi Shimon ben Elazar, which is precisely what heading 5 ('Ruling: Margins') discusses \u2014 the Gemara recording 'halacha ke-Rabbi Shimon Elazar' and its implication for the petuchot/setumot question.",
+      "current_heading": "Rabbi Meir Method",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Clarification",
+    "candidates": [
+      "Shimon's Question",
+      "Not Juxtaposed",
+      "Ruling: Margins",
+      "Clarification",
+      "Scrolls Evidence",
+      "Margin Width",
+      "Abaye Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly answers the question 'how wide must the margin be' with the atba de-safrei measurement, which is precisely what heading 5 'Margin Width' describes in its prose.",
+      "chosen_heading": "Margin Width",
+      "current_heading": "Clarification",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Abaye Questions",
+    "candidates": [
+      "Scrolls Evidence",
+      "Margin Width",
+      "Abaye Questions",
+      "Minhag Principle",
+      "Eliyahu/Chalitzah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abaye's question to Rav Yosef about whether Rav's ruling referred to the margin rather than patuach/setum, and about Rav's adherence to minhag \u2014 exactly what the 'Abaye Questions' prose describes.",
+      "chosen_heading": "Abaye Questions",
+      "current_heading": "Abaye Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Eliyahu/Chalitzah",
+    "candidates": [
+      "Minhag Principle",
+      "Eliyahu/Chalitzah",
+      "Ambiguous/Established"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source for the Eliyahu/chalitzah principle discussed in candidate 1's prose, which explicitly introduces and analyzes this exact gemara about Elijah, the sandal, and established practice.",
+      "chosen_heading": "Eliyahu/Chalitzah",
+      "current_heading": "Eliyahu/Chalitzah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Ambiguous/Established",
+    "candidates": [
+      "Ambiguous/Established",
+      "Ashkenazi/Sephardi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the second version of Rav's statement about Elijah and chalitza with a sandal/shoe, which is precisely what the 'Ambiguous/Established' section's prose describes and analyzes.",
+      "chosen_heading": "Ambiguous/Established",
+      "current_heading": "Ambiguous/Established",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Ashkenazi/Sephardi",
+    "candidates": [
+      "Ashkenazi/Sephardi",
+      "Proof Source",
+      "Rav Natan Ruling",
+      "Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's 'ela lav shema mina / shema mina' conclusion about Rav's ruling referring to the revach (space) rather than the manner of writing, which is precisely what the 'Proof Source' prose describes.",
+      "chosen_heading": "Proof Source",
+      "current_heading": "Ashkenazi/Sephardi",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Support",
+    "candidates": [
+      "Proof Source",
+      "Rav Natan Ruling",
+      "Support",
+      "Tosafot Variants",
+      "Halacha Moshe",
+      "Leather Parts"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Natan Ruling",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Na\u1e25man bar Yitz\u1e25ak's ruling that setumot is preferred but petuchot is valid, which matches heading 1 ('Rav Natan Ruling') precisely, including its explanation of Rabbi Shimon ben Elazar's quote about Rabbi Meir.",
+      "second_heading": "Support",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the baraita about worn Torah scrolls and phylacteries and the Gemara's attempted proof and refutation regarding setumot/petuchot, which matches heading 2 ('Support') exactly as described in its prose.",
+      "current_heading": "Support",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Leather Parts",
+    "candidates": [
+      "Tosafot Variants",
+      "Halacha Moshe",
+      "Leather Parts",
+      "Recycling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the question of whether one can fashion a mezuza from tefillin parchment (recycling/repurposing), raises the baraita about klaf/duchsostos as a potential objection, and resolves it as 'le-mitzva' \u2014 precisely the recycling/repurposing discussion that section 3 ('Recycling') is about.",
+      "chosen_heading": "Recycling",
+      "current_heading": "Leather Parts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Recycling",
+    "candidates": [
+      "Leather Parts",
+      "Recycling",
+      "Moridin",
+      "Flexibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses the baraita about 'shina' (changing parchment type) rendering tefillin pasul, and clarifies that both invalid cases refer to tefillin (klaf be-makom se'ar and duchsostos be-makom basar), while mezuzah written on parchment remains fit \u2014 exactly the content described in the 'Flexibility' section's prose.",
+      "chosen_heading": "Flexibility",
+      "current_heading": "Recycling",
+      "moved": true
+    }
+  }
+]

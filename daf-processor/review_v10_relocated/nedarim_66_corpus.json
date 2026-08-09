@@ -1,0 +1,266 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Original Practice",
+    "candidates": [
+      "Intro & Petach Theme",
+      "R. Meir vs. Chachamim",
+      "Universal Petachim",
+      "Yom Tov Petach",
+      "Ran's Addition",
+      "Original Practice",
+      "R. Akiva's Principle",
+      "Miktzato vs. Miklalo",
+      "Yerushalmi Source",
+      "Keitzad Intro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The mishna text describes exactly what the 'Original Practice' section discusses: the historical practice where only those specific days (Shabbos/Yom Tov) were permitted while the rest remained forbidden, culminating in Rabbi Akiva's ruling \u2014 which is precisely what the prose of section 5 introduces and contextualizes.",
+      "chosen_heading": "Original Practice",
+      "current_heading": "Original Practice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Keitzad Intro",
+    "candidates": [
+      "R. Akiva's Principle",
+      "Miktzato vs. Miklalo",
+      "Yerushalmi Source",
+      "Keitzad Intro",
+      "One Released All",
+      "Vav Ha'Hibbur",
+      "Status Transfer",
+      "First vs. Last"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the 'keitzad' question itself \u2014 'How so?' followed by the konam she'eini nehene l'kulchem example \u2014 which is exactly what the 'Keitzad Intro' prose describes as the mishna's illustration of the principle through a collective neder.",
+      "chosen_heading": "Keitzad Intro",
+      "current_heading": "Keitzad Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "First vs. Last",
+    "candidates": [
+      "One Released All",
+      "Vav Ha'Hibbur",
+      "Status Transfer",
+      "First vs. Last",
+      "Middle Release",
+      "Conceptual Model",
+      "Linked vs. Independent",
+      "Old Wine Release",
+      "All Wine Released",
+      "Ta'ut vs. Heter",
+      "Onion Case",
+      "R. Meir Permits All",
+      "R. Shimon's Teaching"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "R. Shimon's Teaching",
+    "candidates": [
+      "Middle Release",
+      "Conceptual Model",
+      "Linked vs. Independent",
+      "Old Wine Release",
+      "All Wine Released",
+      "Ta'ut vs. Heter",
+      "Onion Case",
+      "R. Meir Permits All",
+      "R. Shimon's Teaching",
+      "Chachamim Disagree",
+      "Wine Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage quotes Rava identifying the mishna's ruling as Rabbi Shimon's opinion regarding repeating the oath-word for each individual, which directly matches the prose of heading 8 ('R. Shimon's Teaching') that discusses exactly this attribution and parallel between shevu'ah and neder contexts.",
+      "chosen_heading": "R. Shimon's Teaching",
+      "current_heading": "R. Shimon's Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Wine Case",
+    "candidates": [
+      "Chachamim Disagree",
+      "Wine Case",
+      "Personal Honor",
+      "Vesto Concept",
+      "Daughters' Honor",
+      "Ugly Neder",
+      "True Beauty Found"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Wine Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 both discuss the 'v'od yafeh katani' principle from Rabbi Abba applied to the wine and onion cases, exactly matching the 'Wine Case' prose about why the mishna says 'good' rather than merely 'not bad.'",
+      "second_heading": "Personal Honor",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is a new Mishna (explicitly marked 'MISHNA:') introducing the entirely different topic of dissolving vows by invoking personal honor and children's honor, matching the 'Personal Honor' section prose precisely.",
+      "current_heading": "Wine Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "True Beauty Found",
+    "candidates": [
+      "Personal Honor",
+      "Vesto Concept",
+      "Daughters' Honor",
+      "Ugly Neder",
+      "True Beauty Found",
+      "Neder Ta'us",
+      "R. Yishmael Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes the mishna's ruling that a neder based on mistaken characteristics (ugly/black/short) is permitted because the woman was always beautiful/white/tall \u2014 precisely what the 'True Beauty Found' section's prose discusses, including the clarification that this is not nolad but a fundamental error of fact.",
+      "chosen_heading": "True Beauty Found",
+      "current_heading": "True Beauty Found",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "R. Yishmael Story",
+    "candidates": [
+      "Neder Ta'us",
+      "R. Yishmael Story",
+      "Contradiction",
+      "Missing Text",
+      "R. Yishmael Nolad",
+      "Gold Tooth",
+      "Rabbi Yishmael's Eulogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "R. Yishmael Story",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the mishna's story of Rabbi Yishmael beautifying the niece and his subsequent weeping/lamentation, which directly matches the 'R. Yishmael Story' prose describing exactly these events.",
+      "second_heading": "Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's challenge 'ma'aseh listor' questioning whether the incident contradicts the mishna, which directly matches the 'Contradiction' section's prose about pressing on the story and asking whether it contradicts the earlier ruling.",
+      "current_heading": "R. Yishmael Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Rabbi Yishmael's Eulogy",
+    "candidates": [
+      "Contradiction",
+      "Missing Text",
+      "R. Yishmael Nolad",
+      "Gold Tooth",
+      "Rabbi Yishmael's Eulogy",
+      "Dialect Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the gold tooth story (shen totevet/shen shel zahav) and then the eulogy, but the essay's 'Gold Tooth' section prose explicitly covers both the gold tooth detail and the eulogy as part of the same narrative unit, while 'Rabbi Yishmael's Eulogy' is a separate section \u2014 however, looking more carefully, the passage contains BOTH the gold tooth baraita AND the eulogy, and the current placement under 'Rabbi Yishmael's Eulogy' (index 4) covers the eulogy content, while index 3 'Gold Tooth' covers the gold tooth content; since the passage begins with the gold tooth and the 'Gold Tooth' prose explicitly discusses both elements including the eulogy implication, index 3 is the better match for where this baraita should be placed.",
+      "chosen_heading": "Gold Tooth",
+      "current_heading": "Rabbi Yishmael's Eulogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Dialect Difference",
+    "candidates": [
+      "Rabbi Yishmael's Eulogy",
+      "Dialect Difference",
+      "Two Hooves/Lentils",
+      "Escalation",
+      "Melon vs. Candle",
+      "Breaking on Head"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Rabbi Yishmael's Eulogy",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-5 are a series of konam vow cases involving Sages waiving honor for marital peace, culminating in the Rabbi Yishmael story that connects thematically to the eulogy section about Rabbi Yishmael's concern for women.",
+      "second_heading": "Dialect Difference",
+      "second_confidence": "high",
+      "second_reason": "Item 6 is the opening of the Babylonian dialect story that candidate 1's prose explicitly introduces with 'hahu bar Bavel' and the theme of dialect differences between Babylonia and Eretz Yisrael.",
+      "current_heading": "Dialect Difference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Breaking on Head",
+    "candidates": [
+      "Two Hooves/Lentils",
+      "Escalation",
+      "Melon vs. Candle",
+      "Breaking on Head",
+      "Pastoral Judgment",
+      "Husband's Will"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes breaking the candles on Bava ben Buta's head at the gate, which matches the 'Breaking on Head' section's prose exactly, including the comic structure of Baba sitting at the baba.",
+      "chosen_heading": "Breaking on Head",
+      "current_heading": "Breaking on Head",
+      "moved": false
+    }
+  }
+]

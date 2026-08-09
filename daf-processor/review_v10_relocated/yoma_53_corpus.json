@@ -1,0 +1,319 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Incense Verse",
+    "candidates": [
+      "Holy of Holies Entry",
+      "Mishnah Drama",
+      "Incense Verse",
+      "Tzedokim Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita anchored in the verse 'v'natan et haketoret al ha'esh lifnei Hashem' introducing the anti-Sadducee ruling, which is precisely what the 'Incense Verse' prose describes.",
+      "chosen_heading": "Incense Verse",
+      "current_heading": "Incense Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Tzedokim Position",
+    "candidates": [
+      "Tzedokim Position",
+      "Chazal Refutation",
+      "Maaleh Ashan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks what the Sadducees/Tzedukim interpreted and answers with their reading of 'ki b'anan eraeh al hakaporet' \u2014 exactly what the 'Tzedokim Position' prose discusses.",
+      "chosen_heading": "Tzedokim Position",
+      "current_heading": "Tzedokim Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Maaleh Ashan",
+    "candidates": [
+      "Chazal Refutation",
+      "Maaleh Ashan",
+      "First Source",
+      "Second Source",
+      "Empty Entry"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chazal Refutation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Sages' refutation citing 'v'natan et haketoret al ha'esh lifnei Hashem' and posing the question about 'ki b'anan eraeh', which matches exactly the 'Chazal Refutation' prose describing that same exchange.",
+      "second_heading": "Maaleh Ashan",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the answer that the verse teaches the requirement for ma'aleh ashan and the death penalty for omitting it, which matches the 'Maaleh Ashan' prose discussing precisely that teaching and its basis in 'v'chisa anan haketoret'.",
+      "current_heading": "Maaleh Ashan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Empty Entry",
+    "candidates": [
+      "First Source",
+      "Second Source",
+      "Empty Entry",
+      "Two Incense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question about biah reikanit and Rav Sheshet's answer distinguishing between shogeg in entry and mezid in burning, which is precisely what the 'Empty Entry' prose section discusses.",
+      "chosen_heading": "Empty Entry",
+      "current_heading": "Empty Entry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Two Incense",
+    "candidates": [
+      "Two Incense",
+      "Two Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi's explanation involving two incense offerings (one complete, one incomplete) and liability for burning versus entry, which exactly matches the 'Two Incense' section's prose.",
+      "chosen_heading": "Two Incense",
+      "current_heading": "Two Incense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Two Verses",
+    "candidates": [
+      "Two Verses",
+      "Mishkan Mikdash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Yosef's and Abaye's interpretations of which verse teaches the leaf vs. root of the smoke-raiser, which is precisely what candidate 0's prose describes as the 'amoraic explanations' of why both verses are necessary.",
+      "chosen_heading": "Two Verses",
+      "current_heading": "Two Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Mishkan Mikdash",
+    "candidates": [
+      "Mishkan Mikdash",
+      "Obligation Contingency",
+      "Punishment Warning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Rav Sheshet passage \u2014 first interpretation (Ohel Moed to Shiloh/Beis Olamim), the Gemara's objection, and the corrected interpretation (Yom Kippur to rest of the year) \u2014 which is precisely what the 'Mishkan Mikdash' prose describes in detail.",
+      "chosen_heading": "Mishkan Mikdash",
+      "current_heading": "Mishkan Mikdash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Punishment Warning",
+    "candidates": [
+      "Obligation Contingency",
+      "Punishment Warning",
+      "When Applies",
+      "Acharei Mos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both Rav Ashi's statement (chad lemitzvah v'chad le'akeiv) and Rava's statement (chad le'onash v'chad le'azhara) as a unit, and since Rav Ashi's view is discussed under 'Obligation Contingency' (index 0) while Rava's is under 'Punishment Warning' (index 1), but the passage presents both together, the better single home is index 0 since Rav Ashi's opinion appears first and the current placement under index 1 only covers Rava's portion \u2014 however, given that index 1's prose explicitly discusses Rava's statement which is the second half of this passage, and index 0 discusses Rav Ashi's which is the first, the passage as a whole introducing both opinions fits slightly better as a transition starting under index 0, though confidence is medium.",
+      "chosen_heading": "Obligation Contingency",
+      "current_heading": "Punishment Warning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Acharei Mos",
+    "candidates": [
+      "When Applies",
+      "Acharei Mos",
+      "Paskening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita distinguishing punishment from warning, the resolution about temporal order of the verses, and Rava's derivation from the future tense \u2014 are precisely the content discussed in the 'Acharei Mos' prose, which explicitly covers the yachol/talmud lomar sequence, Rava's 'v'adayin lo nireh' reading, and the ha keitzad resolution.",
+      "chosen_heading": "Acharei Mos",
+      "current_heading": "Acharei Mos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Paskening",
+    "candidates": [
+      "Paskening",
+      "Multiple Explanations",
+      "Shlomo's Journey"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Eliezer's teaching that Aaron's sons died for ruling halacha before Moses their teacher, which is precisely what the 'Paskening' section's prose elaborates on.",
+      "chosen_heading": "Paskening",
+      "current_heading": "Paskening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Shlomo's Journey",
+    "candidates": [
+      "Multiple Explanations",
+      "Shlomo's Journey",
+      "Daily Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the derivation of the High Priest's backwards exit from the verse about Solomon coming to Gibeon/Jerusalem, which is precisely what the 'Shlomo's Journey' section's prose describes.",
+      "chosen_heading": "Shlomo's Journey",
+      "current_heading": "Shlomo's Journey",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Daily Application",
+    "candidates": [
+      "Daily Application",
+      "Students Leaving",
+      "Rabbi Stories"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Daily Application",
+      "current_heading": "Daily Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Rabbi Stories",
+    "candidates": [
+      "Students Leaving",
+      "Rabbi Stories",
+      "Rava Backwards"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Students Leaving",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the general rule about a student taking leave of his teacher and introduces Rabbi Elazar's practice when Rabbi Yochanan departs first, which matches the 'Students Leaving' prose that introduces the student-departure rule and its connection to Temple reverence.",
+      "second_heading": "Rabbi Stories",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes Rabbi Elazar walking backwards when he himself departs and Rava's practice of walking backwards until bloodying the doorpost, which matches the 'Rabbi Stories' and 'Rava Backwards' sections \u2014 but since item 2 covers both Rabbi Elazar's backward walking and Rava's story, and 'Rabbi Stories' prose explicitly covers both Rabbi Elazar's backward walking and Rava's bloodied doorpost detail, index 1 is the best single home for item 2.",
+      "current_heading": "Rabbi Stories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Rava Backwards",
+    "candidates": [
+      "Rava Backwards",
+      "Prayer Steps",
+      "Dog Vomit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes people telling Rav Yosef what Rava does and Rav Yosef's blessing in response, which is explicitly discussed in the 'Rava Backwards' section's prose.",
+      "chosen_heading": "Rava Backwards",
+      "current_heading": "Rava Backwards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Dog Vomit",
+    "candidates": [
+      "Prayer Steps",
+      "Dog Vomit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the obligation to take three steps backward and the instruction not to return immediately, spanning both candidate headings, but the primary content introduced is the prayer-steps rule from Rabbi Yehoshua ben Levi, which matches heading 0's prose focus, while heading 1's prose focuses only on the second half (Rav Mordekhai's addition); however, since the passage is a single unified Talmudic excerpt, placing it under heading 0 where the topic is first introduced is the better fit.",
+      "chosen_heading": "Prayer Steps",
+      "current_heading": "Dog Vomit",
+      "moved": true
+    }
+  }
+]

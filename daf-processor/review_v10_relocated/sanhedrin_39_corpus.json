@@ -1,0 +1,429 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Intro & Rashi",
+    "candidates": [
+      "Intro & Rashi",
+      "Sour Fruit Parable",
+      "Well Bucket Story",
+      "Maharsha Stones",
+      "God Thief Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the three verses (sour grapes, just balances, righteous delivered) that introduce the three fox parables, which is exactly what the 'Intro & Rashi' prose discusses as the cryptic opening of the three parables.",
+      "chosen_heading": "Intro & Rashi",
+      "current_heading": "Intro & Rashi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "God Thief Challenge",
+    "candidates": [
+      "Sour Fruit Parable",
+      "Well Bucket Story",
+      "Maharsha Stones",
+      "God Thief Challenge",
+      "God Location Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the continuous exchange about God being a 'thief' for taking Adam's rib \u2014 the daughter's initial response and then the follow-up about doing it openly \u2014 which is precisely what the 'God Thief Challenge' prose describes in full detail.",
+      "chosen_heading": "God Thief Challenge",
+      "current_heading": "God Thief Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "God Location Challenge",
+    "candidates": [
+      "God Location Challenge",
+      "Stars Counting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the emperor's boast about knowing God's location, his sighing about his son overseas, and Rabban Gamliel's retort about not knowing what is on earth, which matches exactly the 'God Location Challenge' prose.",
+      "chosen_heading": "God Location Challenge",
+      "current_heading": "God Location Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Stars Counting",
+    "candidates": [
+      "Stars Counting",
+      "Creators Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the two versions of the same star-counting exchange between the emperor and Rabban Gamliel, which the 'Stars Counting' prose explicitly describes in full detail.",
+      "chosen_heading": "Stars Counting",
+      "current_heading": "Stars Counting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Creators Debate",
+    "candidates": [
+      "Creators Debate",
+      "Dualism Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same continuous exchange between the emperor and Rabban Gamliel about multiple creators, which is precisely what the 'Creators Debate' prose describes in detail.",
+      "chosen_heading": "Creators Debate",
+      "current_heading": "Creators Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Dualism Challenge",
+    "candidates": [
+      "Dualism Challenge",
+      "Unity Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Zoroastrian dualism challenge from the magus to Ameimar and his refutation about urination, which is exactly what the 'Dualism Challenge' prose discusses.",
+      "chosen_heading": "Dualism Challenge",
+      "current_heading": "Dualism Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Unity Challenge",
+    "candidates": [
+      "Unity Challenge",
+      "Shekhinah Minyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the story discussed in the 'Unity Challenge' prose: the emperor's proposal for unity, Rabbi Tan\u1e25um's circumcision retort, the animal enclosure, and the heretic's fate.",
+      "chosen_heading": "Unity Challenge",
+      "current_heading": "Unity Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Shekhinah Minyan",
+    "candidates": [
+      "Shekhinah Minyan",
+      "Yechezkel Suffering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the emperor's challenge about multiple Divine Presences and Rabban Gamliel's sun analogy, which matches exactly the prose under 'Shekhinah Minyan' describing the same exchange.",
+      "chosen_heading": "Shekhinah Minyan",
+      "current_heading": "Shekhinah Minyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Yechezkel Suffering",
+    "candidates": [
+      "Yechezkel Suffering",
+      "Priest Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete exchange about the heretic's challenge to Rabbi Abbahu regarding Ezekiel's lying on both sides, and Rabbi Abbahu's unified answer connecting shemitah to Ezekiel's suffering \u2014 exactly what the 'Yechezkel Suffering' prose describes in detail.",
+      "chosen_heading": "Yechezkel Suffering",
+      "current_heading": "Yechezkel Suffering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Priest Challenge",
+    "candidates": [
+      "Priest Challenge",
+      "Nations Uniqueness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same continuous exchange between the min and Rabbi Abbahu about God being a kohen, exactly matching the 'Priest Challenge' prose which describes this entire dialogue including the fire immersion resolution.",
+      "chosen_heading": "Priest Challenge",
+      "current_heading": "Priest Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Nations Uniqueness",
+    "candidates": [
+      "Nations Uniqueness",
+      "Witness Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the heretic's challenge to Rabbi Avina, Balaam's testimony about Israel not being reckoned among the nations, and Rabbi Elazar's parable about God's goodness to all vs. to those who hope in Him \u2014 are explicitly discussed together in the 'Nations Uniqueness' prose, making that the correct placement.",
+      "chosen_heading": "Nations Uniqueness",
+      "current_heading": "Nations Uniqueness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Witness Mishnah",
+    "candidates": [
+      "Witness Mishnah",
+      "No Joy Rejoicing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the definite article in 'harinah' and Rabbi A\u1e25a bar \u1e24anina's teaching connecting it to Ahab ben Omri's death, which is precisely what the 'No Joy Rejoicing' section's prose describes, including the heh ha-yedi'ah analysis and the Ahab example.",
+      "chosen_heading": "No Joy Rejoicing",
+      "current_heading": "Witness Mishnah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "No Joy Rejoicing",
+    "candidates": [
+      "Witness Mishnah",
+      "No Joy Rejoicing",
+      "Angels Song"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses whether God rejoices at the downfall of the wicked and cites Rabbi Yonatan's explanation for the omission of 'ki tov,' which is precisely the content described in the 'No Joy Rejoicing' section's prose.",
+      "chosen_heading": "No Joy Rejoicing",
+      "current_heading": "No Joy Rejoicing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Angels Song",
+    "candidates": [
+      "Angels Song",
+      "Hif'il Grammar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the angels attempting to sing at the Red Sea and God's rebuke, which is precisely what the 'Angels Song' section prose discusses in detail.",
+      "chosen_heading": "Angels Song",
+      "current_heading": "Angels Song",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Hif'il Grammar",
+    "candidates": [
+      "Hif'il Grammar",
+      "Ahab Death",
+      "Zonot Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yosei bar \u1e24anina's grammatical argument about *yasis* vs. *yasus* (hif'il causative vs. kal), which is exactly what the 'Hif'il Grammar' section's prose discusses.",
+      "chosen_heading": "Hif'il Grammar",
+      "current_heading": "Hif'il Grammar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Zonot Interpretations",
+    "candidates": [
+      "Ahab Death",
+      "Zonot Interpretations",
+      "Blessing Lineage"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Zonot Interpretations",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 discuss the interpretation of 'v'hazonot rachatzu' (the harlots/visions washed), exactly matching the 'Zonot Interpretations' prose which covers Rabbi Eliezer's reading of zonot as hezyonot and Rabba's reading of zonot mamash.",
+      "second_heading": "Ahab Death",
+      "second_confidence": "high",
+      "second_reason": "Item 3 discusses the verse 'v'ish mashach b'keshet l'tumo' and the dispute between Rabbi Elazar and Rava over l'tumo/letammem fulfilling two prophecies, which is precisely what the 'Ahab Death' prose describes as its central topic.",
+      "current_heading": "Zonot Interpretations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Blessing Lineage",
+    "candidates": [
+      "Blessing Lineage",
+      "Ovadiah Prophets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the verse about Ahab calling Obadiah, the blessing lineage argument (Yaakov/Yosef), the Divine Voice's response, and Rabbi Abba's comparison of Obadiah's fear of God to Abraham's \u2014 exactly the content described in candidate 0's prose about 'Blessing Lineage.'",
+      "chosen_heading": "Blessing Lineage",
+      "current_heading": "Blessing Lineage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Ovadiah Prophets",
+    "candidates": [
+      "Ovadiah Prophets",
+      "Convert Prophet",
+      "Edom Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage opens with 'For what reason did Obadiah merit prophecy?' and answers it with his act of concealing the prophets \u2014 exactly what candidate 1 ('Convert Prophet') discusses as the basis for Ovadiah's prophetic elevation \u2014 while the current placement (candidate 0) covers only the subsequent question about why fifty per cave, which the passage's prose explicitly says 'the next passage addresses directly.'",
+      "chosen_heading": "Convert Prophet",
+      "current_heading": "Ovadiah Prophets",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Edom Prophecy",
+    "candidates": [
+      "Convert Prophet",
+      "Edom Prophecy",
+      "David Moab War"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address why Obadiah specifically prophesied concerning Edom, matching exactly the content described in the 'Edom Prophecy' prose section, which discusses Rabbi Yitzchak's contrast between Obadiah and Esav and the Edomite convert tradition.",
+      "chosen_heading": "Edom Prophecy",
+      "current_heading": "Edom Prophecy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "David Moab War",
+    "candidates": [
+      "David Moab War",
+      "Customs Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about David smiting Moab and the proverb about the ax handle from the forest directly matches the 'David Moab War' prose, which explicitly discusses this very verse, Rabbi Yochanan's teaching, and David's Moabite lineage through Ruth.",
+      "chosen_heading": "David Moab War",
+      "current_heading": "David Moab War",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Customs Contradiction",
+    "candidates": [
+      "Customs Contradiction",
+      "Evildoers Depths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose of candidate 0 ('Customs Contradiction') precisely describes all three items: the king of Moab's sacrifice, the Rav/Shmuel dispute about motivation, the 'great indignation' verse, and Rabbi Yehoshua ben Levi's resolution of the two contradictory Ezekiel verses about Israel following the nations' customs.",
+      "chosen_heading": "Customs Contradiction",
+      "current_heading": "Customs Contradiction",
+      "moved": false
+    }
+  }
+]

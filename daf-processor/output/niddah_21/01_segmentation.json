@@ -250,8 +250,8 @@
           "timestamp": "07:00"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Miscarriage Cases: Blood, Chunks, and Determining Fetus Status",
@@ -284,7 +284,7 @@
           "timestamp": "07:00"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -322,8 +322,8 @@
           "timestamp": "09:57"
         }
       ],
-      "sefaria_index": 8,
-      "matched": false
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Baraita from Rav Oshaya: All Colors Mentioned, Rabbi Yehudah vs. Chachamim",
@@ -365,8 +365,8 @@
           "timestamp": "11:18"
         }
       ],
-      "sefaria_index": 26,
-      "matched": true
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "The Concept of Pesichat ha-Kever: Opening of the Womb Requires Blood",
@@ -394,7 +394,7 @@
           "timestamp": "13:00"
         }
       ],
-      "sefaria_index": 26,
+      "sefaria_index": 11,
       "matched": false
     },
     {
@@ -885,9 +885,9 @@
     }
   ],
   "amud_b_sefaria_index": 19,
-  "amud_b_segment_index": 18,
-  "amud_b_timestamp": "43:35",
-  "amud_b_micro_title": "Sumachus view",
+  "amud_b_segment_index": 16,
+  "amud_b_timestamp": "15:29",
+  "amud_b_micro_title": "Unclear miscarriage",
   "shiur_start_daf": 20,
   "shiur_start_amud": "b"
 }

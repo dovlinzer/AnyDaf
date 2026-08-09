@@ -1,0 +1,304 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Akiva's Position",
+    "candidates": [
+      "Theft & Madai",
+      "Five People Case",
+      "Tarfon & Oath",
+      "Korban Asham",
+      "Akiva's Position",
+      "Admission Case",
+      "Rava Rejects",
+      "Knows Victim",
+      "Gazlan to Shomer",
+      "Shomer Oath",
+      "No Oath Shomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage proposes that the mishnah follows Rabbi Tarfon who concedes heightened liability when a false oath is taken, citing the verse 'unto him to whom it appertains,' which is exactly what the 'Tarfon & Oath' section describes.",
+      "chosen_heading": "Tarfon & Oath",
+      "current_heading": "Akiva's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25,
+      26
+    ],
+    "current_heading": "No Oath Shomer",
+    "candidates": [
+      "Admission Case",
+      "Rava Rejects",
+      "Knows Victim",
+      "Gazlan to Shomer",
+      "Shomer Oath",
+      "No Oath Shomer",
+      "Shaliach Issue",
+      "Rav Chisda",
+      "Rabba's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Admission Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain the Gemara's challenge about Rabbi Tarfon (why specify oath if admission alone suffices) and the baraita proof, which perfectly matches the 'Admission Case' prose discussing mai irya nishba, the braita about two people, and shekvar hoda mipi atzmo.",
+      "second_heading": "Rava Rejects",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rava's resolution (ella amar Rava, shani matnitin) which matches 'Rava Rejects' prose introducing Rava's fundamentally different approach and the distinction between knowing vs. not knowing the victim.",
+      "current_heading": "No Oath Shomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Rabba's Position",
+    "candidates": [
+      "Shaliach Issue",
+      "Rav Chisda",
+      "Rabba's Position",
+      "Bava Metzia Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the initial statement of the Rav \u1e24isda/Rabba dispute and their respective reasoning, which is precisely what the 'Shaliach Issue' prose introduces \u2014 the question of whether a shaliach appointed with witnesses has special legal status \u2014 before the essay breaks out each position separately.",
+      "chosen_heading": "Shaliach Issue",
+      "current_heading": "Rabba's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Bava Metzia Proof",
+    "candidates": [
+      "Rabba's Position",
+      "Bava Metzia Proof",
+      "Chisda's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Bava Metzia mishna about borrowing a cow and the borrower's exemption when the cow dies in transit via a shaliach, which is exactly what the 'Bava Metzia Proof' section discusses as a proof against Rav Chisda's position.",
+      "chosen_heading": "Bava Metzia Proof",
+      "current_heading": "Bava Metzia Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Chisda's Reading",
+    "candidates": [
+      "Chisda's Reading",
+      "Who Appoints",
+      "Agree: Valid",
+      "Casual vs Official"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Chisda's Reading",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 are entirely about Rav Chisda's reading of the mishnah, challenges to it, and the 'who appoints' discussion about shaliach beit din vs. witnessed shaliach, matching the current heading 0 and heading 1's prose.",
+      "second_heading": "Agree: Valid",
+      "second_confidence": "high",
+      "second_reason": "Items 7-9 introduce Rabbi Yochanan and Rabbi Elazar's independent parallel tradition agreeing that a witnessed shaliach is valid, then explain the mishnah via 'mamtzi lo shaliach' and 'bischiro u'likito', which exactly matches headings 2 ('Agree: Valid') and 3 ('Casual vs Official') \u2014 heading 2 is the better anchor as it introduces their position.",
+      "current_heading": "Chisda's Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Casual vs Official",
+    "candidates": [
+      "Who Appoints",
+      "Agree: Valid",
+      "Casual vs Official",
+      "Shmuel: No Dyuqani",
+      "Yochanan: Valid",
+      "Rabbi Abba Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together introduce Shmuel's ruling that money may not be sent via a dyuqani even with witnesses signed on it, and Rabbi Yochanan's counter-position \u2014 exactly what candidate 3 ('Shmuel: No Dyuqani') discusses in its prose.",
+      "chosen_heading": "Shmuel: No Dyuqani",
+      "current_heading": "Casual vs Official",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Rabbi Abba Story",
+    "candidates": [
+      "Shmuel: No Dyuqani",
+      "Yochanan: Valid",
+      "Rabbi Abba Story",
+      "Death Problem",
+      "Kinyan Agav",
+      "Rav Papa Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Rabbi Abba/Rav Safra/Rava story about collecting a debt through an intermediary and the requirement for a 'hitkabalti' document, which is precisely what the 'Rabbi Abba Story' section's prose describes.",
+      "chosen_heading": "Rabbi Abba Story",
+      "current_heading": "Rabbi Abba Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Rav Papa Example",
+    "candidates": [
+      "Death Problem",
+      "Kinyan Agav",
+      "Rav Papa Example",
+      "Mishnah Evidence",
+      "Chomesh Mammon"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kinyan Agav",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rava's death-problem objection and the kinyan agav solution, which matches the 'Kinyan Agav' prose describing exactly this exchange \u2014 the takanta of zil nakninhu lach agav arra.",
+      "second_heading": "Rav Papa Example",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rav Papa illustrative example, which matches the 'Rav Papa Example' prose that describes precisely this story of the twelve thousand dinars in Bei Chozai transferred via kinyan agav through Rav Shmuel bar Abba.",
+      "current_heading": "Rav Papa Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Chomesh Mammon",
+    "candidates": [
+      "Mishnah Evidence",
+      "Chomesh Mammon",
+      "Heirs Braita",
+      "Son Pays Chomesh",
+      "Admission Factor",
+      "Oath Requirement",
+      "Principal Always"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a single continuous chain of argument about whether chomesh is mamon or kenas \u2014 drawing evidence from the mishna, a second mishna, a baraita, then raising and resolving a contradiction via Rav Na\u1e25man \u2014 exactly matching the 'Chomesh Mammon' section's prose description.",
+      "chosen_heading": "Chomesh Mammon",
+      "current_heading": "Chomesh Mammon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Principal Always",
+    "candidates": [
+      "Heirs Braita",
+      "Son Pays Chomesh",
+      "Admission Factor",
+      "Oath Requirement",
+      "Principal Always",
+      "Yesh Talmud"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly address the 'Admission Factor' resolution's logical consequence \u2014 item 1 argues that without admission even the principal goes unpaid (matching candidate 3's prose about 'ei lo hodeh, keren nami lo meshalem'), and item 2 is the baraita proving the principal must always be paid, which is the content candidate 3's prose explicitly sets up as the question requiring resolution.",
+      "chosen_heading": "Oath Requirement",
+      "current_heading": "Principal Always",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Yesh Talmud",
+    "candidates": [
+      "Principal Always",
+      "Yesh Talmud",
+      "Rav Huna Clarifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the exchange between Rav Huna and his son Rabba about whether he said 'yesh talmud' or 'yishtalmu,' which is precisely what the 'Yesh Talmud' section prose discusses.",
+      "chosen_heading": "Yesh Talmud",
+      "current_heading": "Yesh Talmud",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Rav Huna Clarifies",
+    "candidates": [
+      "Rav Huna Clarifies",
+      "Saddlebag Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of question-and-answer about the son's liability for keren and chomesh when the father did not admit but the son did, working through the cases of stolen item not extant, achrayut/land, milva al peh, and culminating in Rav Huna son of Rav Yehoshua's ruling about chomesh and shibbud karka'ot \u2014 exactly the content described in the 'Rav Huna Clarifies' prose.",
+      "chosen_heading": "Rav Huna Clarifies",
+      "current_heading": "Rav Huna Clarifies",
+      "moved": false
+    }
+  }
+]

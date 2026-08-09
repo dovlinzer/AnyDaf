@@ -1,0 +1,501 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Mekukeles Explained",
+    "candidates": [
+      "Ketamim Definition",
+      "Mishnah Haro'ah Ketem",
+      "Mekukeles Explained",
+      "Rabbi Meir Position",
+      "Rabbis Counter",
+      "Chanina Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishnah of 'haro'ah ketem' \u2014 item 1 states the woman is mekukeles and item 2 completes the Mishnah with Rabbi Meir's zov concern and the Rabbis' counter \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Mishnah Haro'ah Ketem",
+      "current_heading": "Mekukeles Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Chanina Identity",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Rabbis Counter",
+      "Chanina Identity",
+      "3 Garments Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage identifies 'the Rabbis' as Rabbi \u1e24anina ben Antigonus and quotes his baraita statement that stains do not lead to zova concern, which exactly matches the 'Chanina Identity' section's prose about the Gemara asking 'man chachamim' and answering with Rabbi Chanina ben Antignos from a baraita.",
+      "chosen_heading": "Chanina Identity",
+      "current_heading": "Chanina Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "3 Garments Case",
+    "candidates": [
+      "3 Garments Case",
+      "2 Days Bleeding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes both the three-garments case and the two-days-plus-stain case together as a single 'How so?' explanation, and its current placement under '3 Garments Case' is where the baraita's illustration begins; the current prose under heading 0 already encompasses both sub-cases as part of Rabbi Chanina ben Antignos's concession.",
+      "chosen_heading": "3 Garments Case",
+      "current_heading": "3 Garments Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "2 Days Bleeding",
+    "candidates": [
+      "2 Days Bleeding",
+      "Rava Assessment",
+      "3 Beans Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question and answer about why the second case (two days of direct bleeding plus one stained garment) needed to be stated, which is precisely what candidate 0's prose describes \u2014 the concern about treating her as a vadai zavah whose korban is eaten.",
+      "chosen_heading": "2 Days Bleeding",
+      "current_heading": "2 Days Bleeding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "3 Beans Argument",
+    "candidates": [
+      "Rava Assessment",
+      "3 Beans Argument",
+      "Gris Definition",
+      "3 Gris Threshold",
+      "Chanina Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins with Rava's declaration that Rabbi Chanina ben Antignos bested the Rabbis, which is precisely what candidate 0 ('Rava Assessment') discusses, and the full argument that follows is the elaboration of that assessment \u2014 candidate 0's prose explicitly covers both the opening statement and its implicit force, making it the best match over candidate 1 which treats the argument as already established context.",
+      "chosen_heading": "Rava Assessment",
+      "current_heading": "3 Beans Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Chanina Challenge",
+    "candidates": [
+      "Gris Definition",
+      "3 Gris Threshold",
+      "Chanina Challenge",
+      "Rabbis Respond"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbis Respond",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Rabbis' direct response to Rabbi Chanina's challenge \u2014 exactly what heading 3 ('Rabbis Respond') describes: kivan de'ika le-miplagei, we do not attribute to lice once divisible into three gris ve-od portions.",
+      "second_heading": "Chanina Challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the Gemara's difficulty with Rabbi Chanina ben Antignos's position and his resolution (speaking 'in accordance with the Rabbis'), which is precisely the content described in heading 2 ('Chanina Challenge') about the three-places vs. three-robes contradiction and the two-and-a-half-plus-lice argument.",
+      "current_heading": "Chanina Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rabbis Respond",
+    "candidates": [
+      "Rabbis Respond",
+      "Spot vs. Spots",
+      "Concession Terms",
+      "Settlement",
+      "Majority Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Rabbis' response about dividing the stain into a gris ve-od per day, which is exactly what heading 0 ('Rabbis Respond') discusses in its prose.",
+      "chosen_heading": "Rabbis Respond",
+      "current_heading": "Rabbis Respond",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Majority Ruling",
+    "candidates": [
+      "Spot vs. Spots",
+      "Concession Terms",
+      "Settlement",
+      "Majority Ruling",
+      "Minority Stricter",
+      "Rebbi Analysis",
+      "Twilight Effect"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita cited in the passage \u2014 about a stain large enough to divide into three gris va-od portions creating zavah concern, and smaller stains not requiring concern \u2014 is precisely what the 'Majority Ruling' prose describes and analyzes.",
+      "chosen_heading": "Majority Ruling",
+      "current_heading": "Majority Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Twilight Effect",
+    "candidates": [
+      "Minority Stricter",
+      "Rebbi Analysis",
+      "Twilight Effect",
+      "Rava Discussion",
+      "Twilight Periods",
+      "Constructed Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains the mechanism by which two stains can count as three re'iyos via bein hashmashos doubling, which is precisely what the 'Twilight Effect' section's prose describes and discusses.",
+      "chosen_heading": "Twilight Effect",
+      "current_heading": "Twilight Effect",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Constructed Case",
+    "candidates": [
+      "Rava Discussion",
+      "Twilight Periods",
+      "Constructed Case",
+      "Eliminate Twilight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together present Rabbi Yehuda HaNasi's resolution of the dispute and Rava's explanation of the constructed case (examining during Rabbi Yehuda's bein hashmashos but not Rabbi Yosi's), which is precisely what the 'Constructed Case' prose describes \u2014 the Rabbis holding that Rabbi Yosi's period is already night versus Rabbi Yehuda ben Agra holding it remains a safek.",
+      "chosen_heading": "Constructed Case",
+      "current_heading": "Constructed Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Eliminate Twilight",
+    "candidates": [
+      "Eliminate Twilight",
+      "Rebbi Concedes",
+      "Conditions",
+      "Contradiction Found",
+      "No Checking Agreement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eliminate Twilight",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's dialogue about continuous examination eliminating bein hashmashos, which is precisely what heading 0 ('Eliminate Twilight') discusses.",
+      "second_heading": "Rebbi Concedes",
+      "second_confidence": "high",
+      "second_reason": "Items 2-8 form a continuous chain analyzing Rabbi Yehuda HaNasi's concessions about when each opinion applies, which is exactly what heading 1 ('Rebbi Concedes') introduces, with the conditions and contradiction flowing from that starting point.",
+      "current_heading": "Eliminate Twilight",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "No Checking Agreement",
+    "candidates": [
+      "Rebbi Concedes",
+      "Conditions",
+      "Contradiction Found",
+      "No Checking Agreement",
+      "Baraita Conflict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explains the correct reading of Rabbi Rebbi's statement (hachi ka'amar), clarifying that the Rabbis only dispute Rabbi Yehuda ben Agra in the case where she checked Rabbi Yehuda's window but not Rabbi Yosi's, and that when she did not check at all, even the Rabbis concede \u2014 which is precisely what the 'No Checking Agreement' prose describes.",
+      "chosen_heading": "No Checking Agreement",
+      "current_heading": "No Checking Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Baraita Conflict",
+    "candidates": [
+      "Baraita Conflict",
+      "Rebbi Small Stain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact baraita contradiction (remiya) attributed to Rabbi Yehuda ben Agra in the name of Rabbi Yosi, which is precisely what the 'Baraita Conflict' section's prose describes.",
+      "chosen_heading": "Baraita Conflict",
+      "current_heading": "Baraita Conflict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Rebbi Small Stain",
+    "candidates": [
+      "Rebbi Small Stain",
+      "Two Tannaim",
+      "Twilight Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous Talmudic analysis of Rabbi Yehuda HaNasi's statement about 'badkah' and the resulting contradiction in Rabbi Yehuda ben Agra's rulings, which is precisely what the 'Rebbi Small Stain' prose section describes.",
+      "chosen_heading": "Rebbi Small Stain",
+      "current_heading": "Rebbi Small Stain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Twilight Timing",
+    "candidates": [
+      "Two Tannaim",
+      "Twilight Timing",
+      "Rabbi Strict"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's resolution via 'two tannai'm,' which is precisely what heading 0 ('Two Tannaim') describes, whereas the current placement under 'Twilight Timing' describes the content of that dispute \u2014 the passage itself is the resolution statement, not the elaboration of the timing disagreement.",
+      "chosen_heading": "Two Tannaim",
+      "current_heading": "Twilight Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Rabbi Strict",
+    "candidates": [
+      "Twilight Timing",
+      "Rabbi Strict",
+      "Shimon Lenient",
+      "Sacrifice Problem",
+      "Full Correction",
+      "24 Hour Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous unit \u2014 the baraita about retroactive tumah from ketamim, Rabbi's ruling, Rabbi Shimon ben Elazar's position, the Gemara's challenge, and the textual correction \u2014 which begins under 'Rabbi Strict' (the baraita introducing Rabbi's view) and flows naturally through the subsequent headings, but the current placement is where the passage starts and the pipeline correctly placed it at its opening section.",
+      "chosen_heading": "Rabbi Strict",
+      "current_heading": "Rabbi Strict",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "24 Hour Rule",
+    "candidates": [
+      "Shimon Lenient",
+      "Sacrifice Problem",
+      "Full Correction",
+      "24 Hour Rule",
+      "Same Day Stricter",
+      "Rebbi Agrees",
+      "Consequences"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita describes exactly the rule discussed in the '24 Hour Rule' section prose: a woman who found a stain and then within twenty-four hours saw blood may attribute the stain to that bleeding, which is precisely what candidate 3's prose elaborates upon.",
+      "chosen_heading": "24 Hour Rule",
+      "current_heading": "24 Hour Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Consequences",
+    "candidates": [
+      "Same Day Stricter",
+      "Rebbi Agrees",
+      "Consequences",
+      "Question Asked"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rebbi Agrees",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Shimon ben Elazar's 'same day' ruling and Rabbi Yehuda HaNasi's acknowledgment that Rabbi Shimon ben Elazar's position is more correct \u2014 matching the 'Rebbi Agrees' prose exactly.",
+      "second_heading": "Consequences",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cover the Gemara's pushback, Ravina's suggestion to reverse, and Rav Nachman's resolution involving ziva consequences \u2014 matching the 'Consequences' prose exactly.",
+      "current_heading": "Consequences",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Question Asked",
+    "candidates": [
+      "Question Asked",
+      "Silence",
+      "Debate Later"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the question asked by Rabbi Zeira and Rabbi Asi's silence, but the current heading 'Question Asked' has prose that covers the full content of the passage including the silence being implicit in the question exchange, and the passage as a single unit (question + immediate silence response) fits best under the heading whose prose explicitly discusses the question being posed.",
+      "chosen_heading": "Question Asked",
+      "current_heading": "Question Asked",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Debate Later",
+    "candidates": [
+      "Silence",
+      "Debate Later",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Zeira finding Rabbi Asi sitting and stating the ruling about attributing a stain to subsequent bleeding within twenty-four hours, which directly matches the prose of candidate 1 describing this exact scenario.",
+      "chosen_heading": "Debate Later",
+      "current_heading": "Debate Later",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Reish Lakish",
+      "Rabbi Yochanan",
+      "Recognition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the dispute between Reish Lakish and Rabbi Yochanan together, but since it opens with Reish Lakish's ruling (ve-hu she-badkah) and the current placement is under the 'Reish Lakish' heading whose prose directly explains this exact position, the current placement is correct.",
+      "chosen_heading": "Reish Lakish",
+      "current_heading": "Reish Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "Recognition",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Recognition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly depicts the exchange between Rav Zeira and Rav Assi about whether ketamim require hefsek tahara, which is precisely what the 'Recognition' section's prose describes in detail.",
+      "chosen_heading": "Recognition",
+      "current_heading": "Recognition",
+      "moved": false
+    }
+  }
+]

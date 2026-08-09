@@ -1,0 +1,303 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Dried Wine: Kezayis",
+    "candidates": [
+      "Shiurim Overview",
+      "Dried Wine: Kezayis",
+      "Density & Conversion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 Rabbi Natan's ruling on dried wine (kezayis), Rav Yosef's identification of it with Rabbi Yosei b'Rabbi Yehuda's position, and the baraita about dam neveilah and the revi'is/kezayis conversion \u2014 is precisely what the 'Dried Wine: Kezayis' section's prose discusses in detail, making it the correct placement.",
+      "chosen_heading": "Dried Wine: Kezayis",
+      "current_heading": "Dried Wine: Kezayis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Density & Conversion",
+    "candidates": [
+      "Density & Conversion",
+      "Rashi: Category Shift",
+      "G'miya Spelling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge about whether Rabbi Natan and Rabbi Yosei b'Rabbi Yehuda's rulings can be equated, based on the physical difference between thin wine and viscous blood, which is exactly what the 'Density & Conversion' section's prose discusses.",
+      "chosen_heading": "Density & Conversion",
+      "current_heading": "Density & Conversion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "G'miya Spelling",
+    "candidates": [
+      "Rashi: Category Shift",
+      "G'miya Spelling",
+      "Spelling Questions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the spelling dispute for 'g'miya' (milk swallow measure) and Rav Nachman bar Yitzchak's resolution via the Bereishit verse, which is precisely what the 'G'miya Spelling' section's prose describes.",
+      "chosen_heading": "G'miya Spelling",
+      "current_heading": "G'miya Spelling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Spelling Questions",
+    "candidates": [
+      "Spelling Questions",
+      "Scribal Tradition",
+      "Milk, Egg, Honey",
+      "Eye Patch (Kilor)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are spelling disputes (alef vs. ayin) resolved by biblical citation, which is precisely what the 'Spelling Questions' prose describes in detail, covering garinin, omemot, and me'amtzin in the same order.",
+      "chosen_heading": "Spelling Questions",
+      "current_heading": "Spelling Questions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Eye Patch (Kilor)",
+    "candidates": [
+      "Scribal Tradition",
+      "Milk, Egg, Honey",
+      "Eye Patch (Kilor)",
+      "Honey for Wounds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita covers animal milk, woman's milk, and egg white measures \u2014 all discussed in the 'Milk, Egg, Honey' section prose \u2014 while the current placement under 'Eye Patch (Kilor)' only covers the kilor measure itself and Rav Ashi's dilemma about it, which are the continuation of the baraita but the baraita as a whole (including the kilor portion) belongs under the heading that introduces the full baraita.",
+      "chosen_heading": "Milk, Egg, Honey",
+      "current_heading": "Eye Patch (Kilor)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Honey for Wounds",
+    "candidates": [
+      "Eye Patch (Kilor)",
+      "Honey for Wounds",
+      "Nothing in Vain",
+      "Creatures & Cures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the minimum measure of honey for a wound (katit), with Rav Ashi's dilemma about whether 'al pi katit' refers to the full wound opening or just the primary protuberance, concluding teiku \u2014 which matches exactly the prose under 'Honey for Wounds'.",
+      "chosen_heading": "Honey for Wounds",
+      "current_heading": "Honey for Wounds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Creatures & Cures",
+    "candidates": [
+      "Nothing in Vain",
+      "Creatures & Cures",
+      "Five Fears"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the framing statement 'everything God created is not in vain' followed by the list of creature-cure pairs, and candidate 0 ('Nothing in Vain') is explicitly about this theological claim and its connection to creature-based cures, while candidate 1 ('Creatures & Cures') is prose commentary elaborating on the specific creatures \u2014 meaning the actual quoted Talmudic text (which includes both the framing statement and the creature list) belongs under the heading that introduces the concept, i.e., candidate 0.",
+      "chosen_heading": "Nothing in Vain",
+      "current_heading": "Creatures & Cures",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Five Fears",
+    "candidates": [
+      "Creatures & Cures",
+      "Five Fears",
+      "Goats & Sheep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source text for the 'Five Fears' section, which explicitly discusses the five dreads of the weak over the mighty and Rav Yehuda's scriptural proof \u2014 exactly matching the prose under heading 1.",
+      "chosen_heading": "Five Fears",
+      "current_heading": "Five Fears",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Goats & Sheep",
+    "candidates": [
+      "Goats & Sheep",
+      "Sheep vs. Goats",
+      "Tails & Horns",
+      "Antennae & Eyes",
+      "Aramaic Etymologies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full Rabbi Zeira/Rav Yehuda encounter including all four questions (goats/sheep order, covered/exposed, camel's tail, ox's tail), and candidate 0 ('Goats & Sheep') is the section whose prose explicitly introduces and contextualizes this entire narrative, making it the correct home for the complete passage.",
+      "chosen_heading": "Goats & Sheep",
+      "current_heading": "Goats & Sheep",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Aramaic Etymologies",
+    "candidates": [
+      "Sheep vs. Goats",
+      "Tails & Horns",
+      "Antennae & Eyes",
+      "Aramaic Etymologies",
+      "Three Animals",
+      "Oil: Small Limbs"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Aramaic Etymologies",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 continue the Aramaic etymologies series (dasha, darga, beita, kufta, livnei, etc.) that candidate 3's prose explicitly traces in detail.",
+      "second_heading": "Three Animals",
+      "second_confidence": "high",
+      "second_reason": "Item 3 concludes the etymologies (levusha, gelima, sudra, apadna) and then introduces the baraita about three creatures that grow mightier with age (fish, snake, pig), which is precisely what candidate 4's prose discusses.",
+      "current_heading": "Aramaic Etymologies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Oil: Small Limbs",
+    "candidates": [
+      "Three Animals",
+      "Oil: Small Limbs",
+      "Water & Sh'chicha",
+      "Abaye's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the measure of oil for anointing a small limb, the school of Rabbi Yannai's interpretation, the baraita challenge, and the tannaitic dispute between Rabbi Shimon ben Elazar and Rabbi Natan \u2014 exactly the content described in the 'Oil: Small Limbs' prose.",
+      "chosen_heading": "Oil: Small Limbs",
+      "current_heading": "Oil: Small Limbs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Abaye's Rule",
+    "candidates": [
+      "Water & Sh'chicha",
+      "Abaye's Rule",
+      "Wine & Milk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the water measure mishna and Abaye's rule together, and candidate 0's prose explicitly introduces both the water shiur and the conceptual question about how to determine the governing measure, making it the better unified home for this single item that contains both elements.",
+      "chosen_heading": "Water & Sh'chicha",
+      "current_heading": "Abaye's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Wine & Milk",
+    "candidates": [
+      "Abaye's Rule",
+      "Wine & Milk",
+      "Honey: Equal Uses",
+      "Water Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage provides the full set of examples (wine, milk, honey) that together illustrate Abaye's general rule, and the prose under 'Abaye's Rule' (heading 0) explicitly describes this combined principle including both the leniency and stringency cases \u2014 making it the natural home for this unified demonstration passage, rather than splitting it under the narrower wine/milk or honey headings.",
+      "chosen_heading": "Abaye's Rule",
+      "current_heading": "Wine & Milk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Water Exception",
+    "candidates": [
+      "Honey: Equal Uses",
+      "Water Exception",
+      "Rava & Shmuel",
+      "Regional Variation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Abaye's Galilean explanation and Rava/Shmuel's response together, and the current heading 'Water Exception' with its prose explicitly addresses both halves of this Gemara passage as a unified discussion of why water follows the medicinal measure.",
+      "chosen_heading": "Water Exception",
+      "current_heading": "Water Exception",
+      "moved": false
+    }
+  }
+]

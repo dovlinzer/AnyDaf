@@ -67,8 +67,8 @@
           "timestamp": "15:35"
         }
       ],
-      "sefaria_index": 4,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Husband's Status Regarding Wife's Property (Nichsei Milog): Purchaser or Heir?",
@@ -145,7 +145,7 @@
           "timestamp": "46:20"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 26,
       "matched": true
     }
   ],
@@ -323,5 +323,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "28:58",
+  "amud_b_micro_title": "Yovel & Terminology",
+  "shiur_start_daf": 139,
+  "shiur_start_amud": "a"
 }

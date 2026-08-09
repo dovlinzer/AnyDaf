@@ -1,0 +1,297 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna Context",
+    "candidates": [
+      "Mishna Context",
+      "Tzibbur vs. Yachid",
+      "Par He'elem Davar",
+      "Yachid Exceptions",
+      "Yoresh Inherit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the mishna text stating that all individual offerings require semicha except bechor, ma'aser, and pesach \u2014 exactly the content that the 'Yachid Exceptions' section's prose discusses and elaborates upon.",
+      "chosen_heading": "Yachid Exceptions",
+      "current_heading": "Mishna Context",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Yoresh Inherit",
+    "candidates": [
+      "Tzibbur vs. Yachid",
+      "Par He'elem Davar",
+      "Yachid Exceptions",
+      "Yoresh Inherit",
+      "Se'ir Hamishtalach",
+      "Baraita Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the heir (yoresh) performing semicha, bringing nesachim, and effecting temurah \u2014 exactly what the 'Yoresh Inherit' section's prose discusses.",
+      "chosen_heading": "Yoresh Inherit",
+      "current_heading": "Yoresh Inherit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Baraita Text",
+    "candidates": [
+      "Se'ir Hamishtalach",
+      "Baraita Text",
+      "R. Yehuda Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita text itself, presenting both Rabbi Shimon's and Rabbi Yehuda's positions together, and the 'Baraita Text' section prose explicitly discusses this baraita and both of its striking features including Rabbi Yehuda's substitution of the se'ir hamishtalach.",
+      "chosen_heading": "Baraita Text",
+      "current_heading": "Baraita Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "R. Yehuda Position",
+    "candidates": [
+      "R. Yehuda Position",
+      "R. Shimon Rejoins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Ravina's statement about the tradition of two instances of communal semicha, which is precisely what candidate 0's prose discusses as the motivation for Rabbi Yehuda's search for an alternative case.",
+      "chosen_heading": "R. Yehuda Position",
+      "current_heading": "R. Yehuda Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "R. Shimon Rejoins",
+    "candidates": [
+      "R. Shimon Rejoins",
+      "Semicha Be'ba'alim",
+      "Aharon Representative",
+      "Yirmiya Synthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Shimon's objection about semicha be'ba'alim AND Rabbi Yehuda's counter-response about Aaron achieving atonement through it, covering both sides of the exchange that begins with Rabbi Shimon's rejoinder, which is exactly what heading 0 ('R. Shimon Rejoins') addresses \u2014 noting that heading 2 covers only Yehuda's counter in prose, but the full quoted text including both speakers is best placed under the heading that introduces Rabbi Shimon's challenge.",
+      "chosen_heading": "R. Shimon Rejoins",
+      "current_heading": "R. Shimon Rejoins",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Yirmiya Synthesis",
+    "candidates": [
+      "Semicha Be'ba'alim",
+      "Aharon Representative",
+      "Yirmiya Synthesis",
+      "Shevuot Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states that Rabbi Yirmeya observes both tannaim follow their standard reasoning ('v'azdu l'ta'amayhu'), which directly matches the 'Yirmiya Synthesis' section's prose about Rabbi Yirmiya noting the dispute is consistent with each tanna's known positions elsewhere.",
+      "chosen_heading": "Yirmiya Synthesis",
+      "current_heading": "Yirmiya Synthesis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Shevuot Baraita",
+    "candidates": [
+      "Shevuot Baraita",
+      "Par-Se'ir Parallel",
+      "Viduy Division",
+      "Equality Question",
+      "Each Group Atoned"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the same baraita from Shevuot that parses the Yom Kippur verses, presents Rabbi Yehuda's conclusion about a single atonement via the scapegoat, and then Rabbi Shimon's parallel structure \u2014 exactly what candidate 0's prose describes as the content of the 'Shevuot Baraita' section.",
+      "chosen_heading": "Shevuot Baraita",
+      "current_heading": "Shevuot Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Each Group Atoned",
+    "candidates": [
+      "Par-Se'ir Parallel",
+      "Viduy Division",
+      "Equality Question",
+      "Each Group Atoned",
+      "R. Yehuda Tumaa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly responds to the challenge about the verse equating kohanim and yisrael in a single atonement \u2014 which is precisely what the 'Equality Question' prose section describes \u2014 making it the answer to that question rather than a standalone section.",
+      "chosen_heading": "Equality Question",
+      "current_heading": "Each Group Atoned",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "R. Yehuda Tumaa",
+    "candidates": [
+      "Each Group Atoned",
+      "R. Yehuda Tumaa",
+      "R. Shimon All Cases",
+      "Source Confirmation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage summarizes exactly the contrast between Rabbi Yehuda and Rabbi Shimon's positions on atonement channels, which is precisely what the 'R. Yehuda Tumaa' section's prose discusses \u2014 the differentiation for tumat mikdash vs. she'ar aveiros under Rabbi Yehuda and how Rabbi Shimon extends the separation to all cases.",
+      "chosen_heading": "R. Yehuda Tumaa",
+      "current_heading": "R. Yehuda Tumaa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Source Confirmation",
+    "candidates": [
+      "R. Shimon All Cases",
+      "Source Confirmation",
+      "Yehuda Excludes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose of 'Source Confirmation' explicitly quotes and discusses both the Rabbi Yehuda portion (item 1) and the Rabbi Shimon portion (item 2) of this exact baraita from Shevuot, making it the clear home for both items.",
+      "chosen_heading": "Source Confirmation",
+      "current_heading": "Source Confirmation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Yehuda Excludes",
+    "candidates": [
+      "Yehuda Excludes",
+      "Shimon Chai",
+      "Sheshes Challenge",
+      "Corrected Reading"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yehuda Excludes",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the first baraita with Rabbi Yehuda's and Rabbi Shimon's positions derived from the par verse, which is exactly what heading 0 ('Yehuda Excludes') discusses in its prose.",
+      "second_heading": "Shimon Chai",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 introduce the contradiction from the second baraita about hachai and Rav Sheshet's challenge, which corresponds precisely to headings 1 ('Shimon Chai') and 2 ('Sheshes Challenge') \u2014 with items 3-4 under heading 1 and item 5 under heading 2, but since the form only allows one split, the second group starting at item 3 best fits heading 1 as it opens with the chai baraita content.",
+      "current_heading": "Yehuda Excludes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Corrected Reading",
+    "candidates": [
+      "Shimon Chai",
+      "Sheshes Challenge",
+      "Corrected Reading",
+      "Yehuda Nasi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the corrected reading of the two baraisos \u2014 Rabbi Yehuda's position from 'hapar' and Rabbi Shimon's rejoinder from 'hachai' limiting only Aharon's semicha \u2014 which is precisely what the 'Corrected Reading' prose describes in detail.",
+      "chosen_heading": "Corrected Reading",
+      "current_heading": "Corrected Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Yehuda Nasi",
+    "candidates": [
+      "Yehuda Nasi",
+      "Shimon HaSe'ir",
+      "Blood Inside Rule",
+      "Why Avodas Kochavim",
+      "Specific Known Sin",
+      "Two Semichos Limit",
+      "Pasuk Tradition",
+      "Semicha Nature",
+      "Division Atonement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All six items form one continuous Talmudic discussion about the derivation of semicha for se'irei avodah zarah and the interplay between verses and tradition, and the current heading's prose covers the core baraita and the dispute between Rabbi Yehuda and Rabbi Shimon that unifies the passage.",
+      "chosen_heading": "Yehuda Nasi",
+      "current_heading": "Yehuda Nasi",
+      "moved": false
+    }
+  }
+]

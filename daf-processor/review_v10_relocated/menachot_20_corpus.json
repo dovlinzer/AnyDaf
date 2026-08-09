@@ -1,0 +1,264 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Assumption vs Rav",
+    "candidates": [
+      "Intro to Rav",
+      "RavHuna's Challenge",
+      "Salt's Absence in Tzav",
+      "Assumption vs Rav",
+      "First Defense",
+      "Abaye's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute Rav Huna's challenge about salt being me'akev despite not being repeated in the verse, which matches heading 1 ('RavHuna's Challenge') precisely \u2014 the prose there explicitly discusses Rav Huna's objection about melach and the question of whether salt is me'akev in light of Rav's principle.",
+      "chosen_heading": "RavHuna's Challenge",
+      "current_heading": "Assumption vs Rav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Abaye's Objection",
+    "candidates": [
+      "First Defense",
+      "Abaye's Objection",
+      "Non-Kohen Problem",
+      "Accept Pshat",
+      "Where's Repetition?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the exchange described in 'Abaye's Objection' \u2014 Rav Yosef's defense followed by Abaye's rebuttal using the yetzika parallel to reinterpret 'lo malach' as referring to a non-kohen performing the salting, which is precisely what that section's prose describes.",
+      "chosen_heading": "Abaye's Objection",
+      "current_heading": "Abaye's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Where's Repetition?",
+    "candidates": [
+      "Non-Kohen Problem",
+      "Accept Pshat",
+      "Where's Repetition?",
+      "Rabbeinu Tam",
+      "Baraita's Logic",
+      "Only Mincha?"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Non-Kohen Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Yosef's objection that a non-priest approaching the altar is inconceivable, which is precisely what the 'Non-Kohen Problem' prose discusses.",
+      "second_heading": "Accept Pshat",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 address the 'brit' as equivalent to repetition and the challenge from 'v'chol korban minchatcha b'melach timlach', which matches the 'Accept Pshat' and 'Where's Repetition?' prose \u2014 but most directly the 'Accept Pshat' section which explicitly discusses the ve-iba'it eima/brit resolution and then transitions into the question of whether the verse constitutes repetition.",
+      "current_heading": "Where's Repetition?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Only Mincha?",
+    "candidates": [
+      "Rabbeinu Tam",
+      "Baraita's Logic",
+      "Only Mincha?",
+      "Expand to All"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All seven items are the baraita's detailed derivation of which offerings require salt \u2014 covering the mincha paradigm, blood exclusion, the entire-mincha question, frankincense, and the full list of offerings \u2014 which is precisely what candidate 2 ('Only Mincha?') describes in its prose.",
+      "chosen_heading": "Only Mincha?",
+      "current_heading": "Only Mincha?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Expand to All",
+    "candidates": [
+      "Expand to All",
+      "What's Similar?",
+      "Blood as Matir",
+      "Nisachim Group",
+      "Food & Drink",
+      "Kaparah Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the baraita's internal logic: why levona needed a separate derivation after the general principle was established, resolved via the klal-prat-klal structure \u2014 exactly what candidate 0's prose describes.",
+      "chosen_heading": "Expand to All",
+      "current_heading": "Expand to All",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Kaparah Link",
+    "candidates": [
+      "What's Similar?",
+      "Blood as Matir",
+      "Nisachim Group",
+      "Food & Drink",
+      "Kaparah Link",
+      "One Characteristic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Heading 4's prose explicitly covers all four items in sequence: the kapara v-simcha counterargument (item 1), the kli echad resolution distinguishing levona from nisachim (item 2), the two-characteristic challenge involving levona of lechem hapanim (item 3), and the mide'itztarich me'al minchatecha resolution confirming one characteristic suffices (item 4).",
+      "chosen_heading": "Kaparah Link",
+      "current_heading": "Kaparah Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "One Characteristic",
+    "candidates": [
+      "One Characteristic",
+      "Six Points"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks why the verse excludes blood rather than limbs (evarim), which is precisely the question that sets up the 'one characteristic' discussion about why blood needed explicit exclusion \u2014 the content matches the prose of heading 0 which discusses the exclusion of blood via 'me'al minchatecha velo me'al damecha' and what that exclusion implies about the category's construction.",
+      "chosen_heading": "One Characteristic",
+      "current_heading": "One Characteristic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Six Points",
+    "candidates": [
+      "Six Points",
+      "Tosafot: Ochel",
+      "More Similarities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the mnemonic and its six characteristics (acherim, ishim, bachutz, notar, tuma, me'ila), which is precisely what the 'Six Points' prose section describes in detail.",
+      "chosen_heading": "Six Points",
+      "current_heading": "Six Points",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "More Similarities",
+    "candidates": [
+      "Tosafot: Ochel",
+      "More Similarities",
+      "Only Mincha?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's counterargument about blood sharing characteristics with the kometz (matir, nifsal bishki'as hachama) and the response 'hanach nefishan,' which is precisely what the 'More Similarities' prose section discusses.",
+      "chosen_heading": "More Similarities",
+      "current_heading": "More Similarities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Only Mincha?",
+    "candidates": [
+      "Only Mincha?",
+      "Wood Offering",
+      "Rebbi: Wood Mincha",
+      "Rebbi's Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Only Mincha?",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge arising from the baraita's earlier derivation \u2014 questioning who holds that wood is called a korban and whether that leads to a contradiction \u2014 which belongs under 'Only Mincha?' where the prose discusses the derivation from the baraita including wood and blood.",
+      "second_heading": "Wood Offering",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita establishing that wood can be donated as a voluntary offering (citing Nehemiah and Rabbi's view), which matches the 'Wood Offering' section whose prose explicitly discusses this baraita and the verse korban ha-etzim.",
+      "current_heading": "Only Mincha?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Rebbi's Rules",
+    "candidates": [
+      "Wood Offering",
+      "Rebbi: Wood Mincha",
+      "Rebbi's Rules",
+      "Remove Etzim",
+      "Me'al Question",
+      "Blood & Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rava's statement about kemitza and Rav Pappa's statement about wood needing other wood \u2014 both explicitly cited as consequences of Rebbi's classification of etzim as a mincha \u2014 which is exactly what candidate 2 ('Rebbi's Rules') discusses in its prose.",
+      "chosen_heading": "Rebbi's Rules",
+      "current_heading": "Rebbi's Rules",
+      "moved": false
+    }
+  }
+]

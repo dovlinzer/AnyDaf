@@ -1,0 +1,358 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Named Authorities",
+    "candidates": [
+      "Introduction",
+      "Named Authorities",
+      "General Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together \u2014 the opening baraita establishing that women examine plus Rabbi Eliezer/Yishmael's practice, and Rabbi Yehuda's and Rabbi Shimon's positions \u2014 are precisely the named authorities and their specific rulings that the 'Named Authorities' prose discusses in detail.",
+      "chosen_heading": "Named Authorities",
+      "current_heading": "Named Authorities",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "General Principle",
+    "candidates": [
+      "General Principle",
+      "Three Periods",
+      "Checking Before"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage elaborates on how a woman's testimony is accepted only as a stringency (not a leniency) regarding a girl's status \u2014 precisely the tension between ne'emanus and formal personal-status testimony discussed in the 'General Principle' prose, which addresses the credibility framework and the distinction between issur and maaseh edut underlying this entire question.",
+      "chosen_heading": "General Principle",
+      "current_heading": "General Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Checking Before",
+    "candidates": [
+      "Three Periods",
+      "Checking Before",
+      "Chazakah d'Rabba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically discusses the 'bishlama lifnei haperek ba'ei bdika' reasoning \u2014 why examination before the perek makes sense to enable later dismissal of hairs as shuma \u2014 which is precisely what the 'Checking Before' section's prose addresses.",
+      "chosen_heading": "Checking Before",
+      "current_heading": "Checking Before",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Chazakah d'Rabba",
+    "candidates": [
+      "Chazakah d'Rabba",
+      "During perek Issue",
+      "Shimon Permits Checking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly discuss the chazakah d'Rava and its application (or lack thereof) to examination after vs. during the perek, which is precisely what heading 0's prose describes \u2014 the chazakah suffices to prevent miun but not for chalitza, and women's testimony after the perek is reinforced by the chazakah while during the perek it is not.",
+      "chosen_heading": "Chazakah d'Rabba",
+      "current_heading": "Chazakah d'Rabba",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Shimon Permits Checking",
+    "candidates": [
+      "During perek Issue",
+      "Shimon Permits Checking",
+      "Stringent Only",
+      "Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Shimon's position (toch haperek k'lifnei haperek) and the baraita's rule about women being believed only to produce stringency during that period, which is precisely what the 'Shimon Permits Checking' prose discusses.",
+      "chosen_heading": "Shimon Permits Checking",
+      "current_heading": "Shimon Permits Checking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Reconciliation",
+    "candidates": [
+      "Stringent Only",
+      "Reconciliation",
+      "Tosafot/Rambam",
+      "Both Required?",
+      "Rhetorical Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the 'iba'is eima' alternative interpretation \u2014 that the tanna is Rabbi Shimon ruling after the perek who rejects chazakah d'Rabba \u2014 which is precisely what the 'Reconciliation' section's prose describes as reconciling the two positions.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Rhetorical Question",
+    "candidates": [
+      "Tosafot/Rambam",
+      "Both Required?",
+      "Rhetorical Question",
+      "Structural Purpose",
+      "Pottery Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion asking why the Mishnah repeats the impossibility of the upper sign preceding the lower sign, and answering that it is needed lest one think Rabbi Meir's view is compelling \u2014 exactly what the 'Rhetorical Question' prose describes.",
+      "chosen_heading": "Rhetorical Question",
+      "current_heading": "Rhetorical Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Pottery Vessels",
+    "candidates": [
+      "Structural Purpose",
+      "Pottery Vessels",
+      "Parah Adumah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pottery Vessels",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna about earthenware vessels whose holes enable entry/exit, which the 'Pottery Vessels' prose explicitly describes with the same terminology.",
+      "second_heading": "Parah Adumah",
+      "second_confidence": "medium",
+      "second_reason": "Item 2 introduces an entirely new case about limbs with nails and bones \u2014 a structurally parallel but topically independent Mishnaic unit that must fall under the next available heading.",
+      "current_heading": "Pottery Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Parah Adumah",
+    "candidates": [
+      "Parah Adumah",
+      "Testing Methods"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Testing Methods",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is a standalone mishna-style rule about midras vs. tum'at met impurity that does not connect to the pottery/hole discussion and likely belongs to a prior section, but among the candidates, candidate 0 (Parah Adumah) is the closest available home since it precedes Testing Methods.",
+      "second_heading": "Parah Adumah",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 discuss the halakhic significance of entry-vs-exit holes, the gistra, and the 'havei gistera l'gistera' principle, which is precisely what candidate 0's prose describes.",
+      "current_heading": "Parah Adumah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Testing Methods",
+    "candidates": [
+      "Testing Methods",
+      "Both Bone and Nail",
+      "Bone Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the baraita about testing earthenware vessels for hole size (kinus mashkeh), including the methods of the first tanna, Rabbi Yehuda, Rabbi Yosei, and Ulla's resolution of the dispute \u2014 exactly what the 'Testing Methods' prose describes.",
+      "chosen_heading": "Testing Methods",
+      "current_heading": "Testing Methods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Bone Only",
+    "candidates": [
+      "Both Bone and Nail",
+      "Bone Only",
+      "No Nail Required",
+      "Mishnah Rule",
+      "Measuring Vessels"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Both Bone and Nail",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 form a continuous discussion about limb impurity based on nail/bone presence, covering the general rule (item 1), Rav \u1e24isda's application to extra fingers (item 2), and Rabbi Yo\u1e25anan's qualification about alignment (item 3), all belonging under 'Both Bone and Nail' which covers exactly this topic of extra digits and the nail/bone criteria.",
+      "second_heading": "Mishnah Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 4 opens a new mishna section (\u00a7 marker) on midras/corpse impurity parallel, which matches the 'Mishnah Rule' prose about kol hametamei midras metamei tamei met.",
+      "current_heading": "Bone Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Measuring Vessels",
+    "candidates": [
+      "No Nail Required",
+      "Mishnah Rule",
+      "Measuring Vessels",
+      "Primary Function"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly introduce and begin to develop the measuring vessel case (se'ah and tarkav) that the 'Measuring Vessels' prose explicitly describes as its subject matter.",
+      "chosen_heading": "Measuring Vessels",
+      "current_heading": "Measuring Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Primary Function",
+    "candidates": [
+      "Primary Function",
+      "Judge Hierarchy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains the verse about 'designated for sitting' and the 'stand up, we need it for our work' exclusion, which is precisely what the 'Primary Function' prose section discusses.",
+      "chosen_heading": "Primary Function",
+      "current_heading": "Primary Function",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Judge Hierarchy",
+    "candidates": [
+      "Judge Hierarchy",
+      "Mamzer Exclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Judge Hierarchy",
+      "first_confidence": "high",
+      "first_reason": "The Mishna introducing the asymmetric qualification between capital and monetary law fits under 'Judge Hierarchy', whose prose explicitly quotes and paraphrases that very Mishna.",
+      "second_heading": "Mamzer Exclusion",
+      "second_confidence": "high",
+      "second_reason": "The Gemara identifying the mamzer as the included case belongs under 'Mamzer Exclusion', whose prose directly discusses Rav Yehuda's answer of 'le'asuyei mamzer' and the subsequent resolution about mamzer vs. ger.",
+      "current_heading": "Judge Hierarchy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Mamzer Exclusion",
+    "candidates": [
+      "Mamzer Exclusion",
+      "Ger Exclusion",
+      "Both Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of redundancy between two mishnayot regarding the mamzer exclusion and resolves it by distinguishing the two cases (convert vs. mamzer), which is precisely what the 'Mamzer Exclusion' prose describes.",
+      "chosen_heading": "Mamzer Exclusion",
+      "current_heading": "Mamzer Exclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Both Exclusions",
+    "candidates": [
+      "Ger Exclusion",
+      "Both Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the 'tzericha' explanation of why both the ger and mamzer exclusions must be stated independently, which is precisely what the 'Both Exclusions' prose describes in detail.",
+      "chosen_heading": "Both Exclusions",
+      "current_heading": "Both Exclusions",
+      "moved": false
+    }
+  }
+]

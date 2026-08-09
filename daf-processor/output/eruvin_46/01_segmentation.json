@@ -116,7 +116,7 @@
           "timestamp": "27:40"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -135,8 +135,8 @@
           "timestamp": "31:35"
         }
       ],
-      "sefaria_index": 25,
-      "matched": false
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Rav Ashi's Distinction: Beginning vs. Remnant of Eruv",
@@ -183,8 +183,8 @@
           "timestamp": "40:19"
         }
       ],
-      "sefaria_index": 22,
-      "matched": false
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Challenging the Klalei Psak: When Rules Don't Apply",
@@ -412,5 +412,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "30:48",
+  "amud_b_micro_title": "Chatzerot vs. Techumin",
+  "shiur_start_daf": 46,
+  "shiur_start_amud": "a"
 }

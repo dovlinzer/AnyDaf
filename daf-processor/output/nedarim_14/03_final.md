@@ -1,16 +1,21 @@
-# Nedarim 14 — Daf Yomi Shiur
-
+[DAF:13b]
 ## Davar Ha-Nadur Paradigm
 
-### Davar Ha-Nadur Intro
 
-> **Hebrew/Aramaic:** מְנָהָנֵי מִילֵּי? אָמַר קְרָא: ״אִישׁ כִּי יִדֹּר נֶדֶר לַה׳״ — עַד שֶׁיִּדּוֹר בְּדָבָר הַנָּדוּר.
->
-> **Translation:** § With regard to the principle that a prohibition cannot be created by associating a permitted item with one forbidden by Torah law, the Gemara asks: **From where is this matter** derived? The Gemara answers that **the verse states: "When a man takes a vow to the Lord"** (Numbers 30:3), which indicates that a vow does not take effect **until one takes a vow** by associating the status **of an item that is** forbidden by means of **a vow** with another item. If the item one is using to create the prohibition is forbidden by Torah law, the vow does not take effect.
+
+[DAF:14a]
+### Davar Ha-Nadur Intro
 
 The daf opens by revisiting the fundamental principle established in the preceding *mishnah*: that when a person wishes to invoke a model or paradigm for a *neder*, the object of comparison must be a *davar ha-nadur* — something whose forbidden status was itself created through a person's verbal act of dedication — and not a *davar ha-assur*, something forbidden by virtue of the Torah's own prohibition. No matter how severe the prohibition of *chazir*, *shekatzim u-remasim*, or *avodah zarah*, none of these qualify as a *davar ha-nadur*, because their forbidden status derives entirely from the Torah and not from any human speech act of consecration.
 
+> **Hebrew/Aramaic:** מְנָהָנֵי מִילֵּי? אָמַר קְרָא: ״אִישׁ כִּי יִדֹּר נֶדֶר לַה׳״ — עַד שֶׁיִּדּוֹר בְּדָבָר הַנָּדוּר.
+> **Translation:** § With regard to the principle that a prohibition cannot be created by associating a permitted item with one forbidden by Torah law, the Gemara asks: **From where is this matter** derived? The Gemara answers that **the verse states: “When a man takes a vow to the Lord”** (Numbers 30:3), which indicates that a vow does not take effect **until one takes a vow** by associating the status **of an item that is** forbidden by means of **a vow** with another item. If the item one is using to create the prohibition is forbidden by Torah law, the vow does not take effect.
+
+> **Hebrew/Aramaic:** אִי הָכִי, אֲפִילּוּ בְּדָבָר הָאָסוּר נָמֵי, דְּהָא כְּתִיב ״לֶאְסֹר אִסָּר עַל נַפְשׁוֹ״! ״לֶאְסֹר אִסָּר״ מִבְּעֵי לֵיהּ לְכִדְתַנְיָא: אֵיזֶהוּ אִיסָּר הָאָמוּר בַּתּוֹרָה כּוּ׳.
+> **Translation:** The Gemara asks: **If so,** then **even** if the item in the vow is associated **with an item forbidden** by Torah law, the vow should **also** take effect, **as** following that phrase in the verse **it is written: “To bind his soul with a bond [*issar*],”** which indicates that the association can be with an item forbidden [*asur*] by Torah law. The Gemara answers: The phrase **“To bind his soul with a bond” is necessary for that which is taught** in a *baraita* (12a): **What is the bond mentioned in the Torah.** The *baraita* derives from this phrase that a vow that associates the relevant item with an item whose prohibition was created by a pre-existing vow takes effect, but one whose prohibition is by Torah law does not take effect.
+
 ### Terumah/Challah Status
+
 
 A question carries over from the previous discussion: why are *terumah* and *challah* not considered *davar ha-nadur*? After all, their status as *terumah* or *challah* is unquestionably created through a person's verbal designation. The *Ran* offers one answer — that since *terumah* is not forbidden in all respects, it reflects a Torah-imposed prohibition rather than a purely person-created status — though this reasoning is difficult to sustain, since the implications of the *terumah* status are in many ways analogous to those of an animal consecrated as a *korban*, which certainly qualifies as a *davar ha-nadur*.
 
@@ -25,10 +30,6 @@ The obvious challenge to this position is: how then can one say "this should be 
 What is particularly illuminating about the *Rambam*'s approach is how it restores the original biblical texture of the *neder*. The *Gemara*'s analysis elsewhere tends to shift attention away from the biblical model — in which the *neder* begins with a person voluntarily obligating himself to dedicate something to God, as when Yaakov took a *neder* to give *ma'aser* — toward a more abstract analysis of object-status. The concept of *nidrei mitzvah*, in which one takes a *neder* to perform a *mitzvah*, itself reflects this personal-obligation dimension: it begins with a personal commitment and ends with an object. The *Rambam* returns the analysis to precisely that framework.
 
 ### Ran's Question
-
-> **Hebrew/Aramaic:** אִי הָכִי, אֲפִילּוּ בְּדָבָר הָאָסוּר נָמֵי, דְּהָא כְּתִיב ״לֶאְסֹר אִסָּר עַל נַפְשׁוֹ״! ״לֶאְסֹר אִסָּר״ מִבְּעֵי לֵיהּ לְכִדְתַנְיָא: אֵיזֶהוּ אִיסָּר הָאָמוּר בַּתּוֹרָה כּוּ׳.
->
-> **Translation:** The Gemara asks: **If so,** then **even** if the item in the vow is associated **with an item forbidden** by Torah law, the vow should **also** take effect, **as** following that phrase in the verse **it is written: "To bind his soul with a bond [*issar*],"** which indicates that the association can be with an item forbidden [*asur*] by Torah law. The Gemara answers: The phrase **"To bind his soul with a bond" is necessary for that which is taught** in a *baraita* (12a): **What is the bond mentioned in the Torah.** The *baraita* derives from this phrase that a vow that associates the relevant item with an item whose prohibition was created by a pre-existing vow takes effect, but one whose prohibition is by Torah law does not take effect.
 
 The *Ran* raises a penetrating question at the very outset of the *masechet* that bears directly on all of this: what is, in fact, the classic formulation of a *neder*? The *pasuk* says *ki yidor neder*, and the requirement is *ad sheyidor bedavar hanadur* — until one vows with reference to a *davar ha-nadur*. But what does that mean for the structure of the vow itself?
 
@@ -48,21 +49,19 @@ This is a genuinely striking position, because it locates the force of *nedarim*
 
 ## Wife Like Mother
 
-### Harei At Alai
 
-> **Hebrew/Aramaic:** הָאוֹמֵר לְאִשְׁתּוֹ הֲרֵי אַתְּ כְּאִימָּא כּוּ׳. וּרְמִינְהוּ: הֲרֵי אַתְּ עָלַי כִּבְשַׂר אִימָּא, כִּבְשַׂר אֲחוֹתִי, כְּעׇרְלָה, וּכְכִלְאֵי הַכֶּרֶם — לֹא אָמַר כְּלוּם!
->
-> **Translation:** § It is stated in the mishna that with regard to a man **who says to his wife: You are hereby** to me **like** my **mother,** dissolution is broached with him suggesting a different extenuation, i.e., by rabbinic law it is treated like an actual vow and it requires dissolution by a halakhic authority. The Gemara **raises a contradiction** from a *baraita* that states that if a man says to his wife: **You are hereby to me like the flesh of** my **mother,** or **like the flesh of my sister,** or **like the fruit of a tree during the first three years after its planting [*orla*], or like** forbidden mixtures of **diverse kinds** planted **in a vineyard,** all forbidden items, **he has said nothing.** This indicates that he does not even have to make a request to a halakhic authority.
+
+### Harei At Alai
 
 The *mishnah* turns to the case of a man who says to his wife *harei at alai ke-ima* — you are forbidden to me as my mother. The *mishnah* illustrates an important principle: a man may render sexual relations with his wife forbidden to himself, notwithstanding the fact that marital relations constitute an obligation and a *mitzvah*. This works because the *neder* does not directly prohibit the *mitzvah* itself; rather, it renders the object — here, in effect, his wife insofar as he would derive a specific benefit — forbidden, and the inability to fulfill the *mitzvah* is a consequence of that status. The technical formulation would be *konam hanas tashmishcha alai* — the pleasure of intimacy with you is *konam* to me.
 
 In the present case, however, the man has not used *konam* or *korban* language. He has said "like my mother," invoking an incest prohibition — that is, *matpis bedavar ha-assur*, not *bedavar ha-nadur*. The *mishnah* nevertheless requires him to undergo *hataras nedarim*, the process of annulment before a sage. The *Ran* explains this requirement on practical grounds: forbidding one's wife to oneself is not an uncommon occurrence in moments of anger, and if we were to say outright that no process is required because the language is technically invalid, people would draw the wrong lesson and become cavalier about *nedarim* that are halakhically valid.
 
+> **Hebrew/Aramaic:** הָאוֹמֵר לְאִשְׁתּוֹ הֲרֵי אַתְּ כְּאִימָּא כּוּ׳. וּרְמִינְהוּ: הֲרֵי אַתְּ עָלַי כִּבְשַׂר אִימָּא, כִּבְשַׂר אֲחוֹתִי, כְּעׇרְלָה, וּכְכִלְאֵי הַכֶּרֶם — לֹא אָמַר כְּלוּם!
+> **Translation:** § It is stated in the mishna that with regard to a man **who says to his wife: You are hereby** to me **like** my **mother,** dissolution is broached with him suggesting a different extenuation, i.e., by rabbinic law it is treated like an actual vow and it requires dissolution by a halakhic authority. The Gemara **raises a contradiction** from a *baraita* that states that if a man says to his wife: **You are hereby to me like the flesh of** my **mother,** or **like the flesh of my sister,** or **like the fruit of a tree during the first three years after its planting [*orla*], or like** forbidden mixtures of **diverse kinds** planted **in a vineyard,** all forbidden items, **he has said nothing.** This indicates that he does not even have to make a request to a halakhic authority.
+
 ### Abaye Resolution
 
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: לֹא אָמַר כְּלוּם מִדְּאוֹרָיְיתָא, וְצָרִיךְ שְׁאֵלָה מִדְּרַבָּנַן. רָבָא אָמַר: הָא בְּתַלְמִידֵי חֲכָמִים, הָא בְּעַם הָאָרֶץ.
->
-> **Translation:** **Abaye said: He has said nothing by Torah law,** as the vow does not take effect. **However, he needs** to make **a request** to a halakhic authority **by rabbinic law. Rava said: That** *baraita* is referring **to Torah scholars,** who are aware that this vow does not take effect. **This** mishna, on the other hand, is referring **to an ignoramus,** with regard to whom a rabbinic ordinance is necessary lest they take vows lightly.
 
 The *Gemara* raises a challenge: a *baraita* states that if a man says *harei at alai kevasar ima* — you are to me like the flesh of my mother — or like his sister, or like *orlah* or *kilei hakerem* (both of which are forbidden in *hana'ah*), *lo amar klum* — he has said nothing. This seems to contradict the *mishnah*, which requires *hataras nedarim*. Abaye resolves the tension by drawing a distinction between levels of prohibition: *lo amar klum* means that the *neder* has no biblical force, but rabbinically one must still undergo the process of *hataras nedarim*.
 
@@ -70,11 +69,14 @@ The *Gemara* raises a challenge: a *baraita* states that if a man says *harei at
 
 Rava offers a different resolution: the *baraita* and the *mishnah* refer to different types of people. The *mishnah*'s requirement of *hataras nedarim* applies to an *am ha-aretz*, while the *baraita*'s ruling that nothing more is needed applies to a *talmid chacham*. The logic, as the *Ran* understands it, is not primarily about knowledge but about consequence: the concern driving the rabbinical requirement is that a person who knows his technically invalid *neder* requires no process will become lax and extend that casualness to genuine *nedarim*. A *talmid chacham* who understands the distinction between valid and invalid formulations will not draw the wrong conclusion from being told he need not go through *hataras nedarim* in this case. One might ask why a *talmid chacham* would utter such a formulation in the first place — perhaps, as noted, it was a way of venting anger with the knowledge that the words carry no legal force.
 
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: לֹא אָמַר כְּלוּם מִדְּאוֹרָיְיתָא, וְצָרִיךְ שְׁאֵלָה מִדְּרַבָּנַן. רָבָא אָמַר: הָא בְּתַלְמִידֵי חֲכָמִים, הָא בְּעַם הָאָרֶץ.
+> **Translation:** **Abaye said: He has said nothing by Torah law,** as the vow does not take effect. **However, he needs** to make **a request** to a halakhic authority **by rabbinic law. Rava said: That** *baraita* is referring **to Torah scholars,** who are aware that this vow does not take effect. **This** mishna, on the other hand, is referring **to an ignoramus,** with regard to whom a rabbinic ordinance is necessary lest they take vows lightly.
+
+> **Hebrew/Aramaic:** וְהָתַנְיָא: הַנּוֹדֵר בַּתּוֹרָה — לֹא אָמַר כְּלוּם. וְאָמַר רַבִּי יוֹחָנָן: וְצָרִיךְ שְׁאֵלָה לְחָכָם. וְאָמַר רַב נַחְמָן: וְתַלְמִיד חָכָם אֵינוֹ צָרִיךְ שְׁאֵלָה.
+> **Translation:** The Gemara comments: **And it is taught** in a *baraita*: **One who takes a vow** by associating an item **with a Torah** scroll **has not said anything,** i.e., the vow does not take effect. **And Rabbi Yoḥanan said: But** nevertheless, **he needs** to make **a request to a halakhic authority** for dissolution of the vow. **And Rav Naḥman said: And** if he is **a Torah scholar** he **does not need** to make **a request.** The postulation of Rava, which states that with regard to some vows that do not take effect it is necessary to make a request to a halakhic authority only if they are taken by an ignoramus, can be seen from here.
+
 ### Torah Vow Baraita
 
-> **Hebrew/Aramaic:** וְהָתַנְיָא: הַנּוֹדֵר בַּתּוֹרָה — לֹא אָמַר כְּלוּם. וְאָמַר רַבִּי יוֹחָנָן: וְצָרִיךְ שְׁאֵלָה לְחָכָם. וְאָמַר רַב נַחְמָן: וְתַלְמִיד חָכָם אֵינוֹ צָרִיךְ שְׁאֵלָה.
->
-> **Translation:** The Gemara comments: **And it is taught** in a *baraita*: **One who takes a vow** by associating an item **with a Torah** scroll **has not said anything,** i.e., the vow does not take effect. **And Rabbi Yoḥanan said: But** nevertheless, **he needs** to make **a request to a halakhic authority** for dissolution of the vow. **And Rav Naḥman said: And** if he is **a Torah scholar** he **does not need** to make **a request.** The postulation of Rava, which states that with regard to some vows that do not take effect it is necessary to make a request to a halakhic authority only if they are taken by an ignoramus, can be seen from here.
 
 The *Gemara* introduces a *baraita* that maps precisely onto the three-part structure just discussed: *hanoder baTorah lo amar klum* — one who takes a *neder* "with the Torah" has said nothing, since the Torah's sanctity is not a *davar ha-nadur* — any more than it is a *davar ha-assur* in the conventional sense. Rabbi Yochanan adds that nevertheless one must undergo *she'eilah lechacham*, the process of seeking annulment from a sage. And Rav Nachman adds that a *talmid chacham* need not do so. This *baraita* thus provides a precise parallel to the three positions in the previous discussion: the base ruling (*lo amar klum*), the rabbinic requirement (*tzerich she'eilah*), and the exemption for the *talmid chacham*. It is worth noting that the statements of Rabbi Yochanan and Rav Nachman function as *amora'im* clarifying the *baraita*, in the same way that *amora'im* routinely clarify a *mishnah*.
 
@@ -84,11 +86,19 @@ The concern underlying the rabbinic requirement, as the *Ran* frames it, is not 
 
 ## Hanoder BaTorah
 
+
+
+[DAF:14b]
 ### Textual Analysis
 
-> **Hebrew/Aramaic:** תַּנְיָא: הַנּוֹדֵר בַּתּוֹרָה — לֹא אָמַר כְּלוּם. בְּמַה שֶּׁכָּתוּב בָּהּ — דְּבָרָיו קַיָּימִין. בָּהּ וּבְמַה שֶּׁכָּתוּב בָּהּ — דְּבָרָיו קַיָּימִין.
->
-> **Translation:** § **It is taught** in a *baraita*: **One who takes a vow** by associating an item **with a Torah** scroll **has not said anything,** and the vow does not take effect. However, he associates the item **with what is written in** the Torah scroll, **his statement is upheld.** Since the name of God is written in the Torah, he has invoked God's name in his vow. If he associates the item **with it and with what is written in it, his statement is upheld.**
+> **Hebrew/Aramaic:** תַּנְיָא: הַנּוֹדֵר בַּתּוֹרָה — לֹא אָמַר כְּלוּם. בְּמַה שֶּׁכָּתוּב בָּהּ — דְּבָרָיו קַיָּימִין. בָּהּ וּבְמַה שֶּׁכָּתוּב בָּהּ — דְּבָרָיו קַיָּימִין.
+> **Translation:** § **It is taught** in a *baraita*: **One who takes a vow** by associating an item **with a Torah** scroll **has not said anything,** and the vow does not take effect. However, he associates the item **with what is written in** the Torah scroll, **his statement is upheld.** Since the name of God is written in the Torah, he has invoked God’s name in his vow. If he associates the item **with it and with what is written in it, his statement is upheld.**
+
+> **Hebrew/Aramaic:** קָתָנֵי ״בְּמַה שֶּׁכָּתוּב בָּהּ״ — דְּבָרָיו קַיָּימִין, ״בָּהּ וּבְמַה שֶּׁכָּתוּב בָּהּ״ — צְרִיךְ לְמֵימַר?
+> **Translation:** The Gemara asks: **It is taught** that if he associates the item **with what is written in** the Torah scroll, **his statement is upheld. Need it be said** that the *halakha* is the same if he associates the item **with it and with what is written in it?** That is obvious.
+
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן, לָא קַשְׁיָא: הָא — דְּמַחֲתָא אוֹרָיְיתָא אַאַרְעָא, הָא — דְּנָקֵיט לַהּ בִּידֵיהּ. מַחֲתָא עַל אַרְעָא — דַּעְתֵּיהּ אַגְּוִילֵי. נָקֵט לַהּ בִּידֵיהּ — דַּעְתֵּיהּ עַל הָאַזְכָּרוֹת שֶׁבָּהּ.
+> **Translation:** **Rav Naḥman said:** This is **not difficult. This** case, in which the item is associated with it and with what is written in it, is referring to **where the Torah** scroll **is placed on the ground,** while **that** case, in which the item is associated with what is written in it, is referring to **where he is holding it in his hands.** If **it is placed on the ground,** whether one mentions the Torah scroll or what is written in it, **his thoughts are concerning the parchment,** i.e., the physical scroll, as he naturally assumes that since the scroll is placed on the ground, the parchment must be blank. Therefore, the vow takes effect only if he mentions both it and what is written in it, indicating that he is aware that it is a Torah scroll. However, where **he is holding it in his hands** and associates the item with what is written in it, **his thoughts are concerning the mentions [*azkarot*]** of the name of God **that are in it,** and the vow takes effect.
 
 The *Gemara* now returns to develop the case of *hanoder baTorah* in greater depth, examining what exactly is meant by the phrase *uvmah shekasuv bah* in the *baraita*: "one who vows with the Torah has said nothing; but one who vows with what is written in it — his words stand." A *tanya* on 14b teaches this formulation and then adds that if one says *bah uvmah shekasuv bah* — with it and with what is written in it — those words also stand.
 
@@ -100,17 +110,9 @@ This analysis raises an underlying conceptual question: what exactly makes *bema
 
 ### Shvuah Explanation
 
-> **Hebrew/Aramaic:** קָתָנֵי ״בְּמַה שֶּׁכָּתוּב בָּהּ״ — דְּבָרָיו קַיָּימִין, ״בָּהּ וּבְמַה שֶּׁכָּתוּב בָּהּ״ — צְרִיךְ לְמֵימַר?
->
-> **Translation:** The Gemara asks: **It is taught** that if he associates the item **with what is written in** the Torah scroll, **his statement is upheld. Need it be said** that the *halakha* is the same if he associates the item **with it and with what is written in it?** That is obvious.
-
 The first explanation offered by the *Ran* is, in a sense, the most radical departure from the context: perhaps *hanoder baTorah* here does not mean a *neder* at all, but a *shvuah*. The *Ran* notes that the word *hanoder* sometimes denotes one who takes an oath rather than a vow in the technical sense. The scenario being described is one in which a person grasps a *sefer Torah* and declares "by this Torah" — much as one might place a hand on a Bible and swear in God's name. In that case, when one says merely *baTorah*, one is swearing by the physical Torah, without invoking God's name — and the *shvuah* is therefore ineffective. But when one says *bemah shekasuv bah*, one is invoking what is written within it — God's name — and is thereby taking a genuine *shvuah beshem Hashem*. On this reading, no question of *davar ha-nadur* arises at all, since we are dealing with a *shvuah*, not a *neder*.
 
 ### Raavad Explanation
-
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן, לָא קַשְׁיָא: הָא — דְּמַחֲתָא אוֹרָיְיתָא אַאַרְעָא, הָא — דְּנָקֵיט לַהּ בִּידֵיהּ. מַחֲתָא עַל אַרְעָא — דַּעְתֵּיהּ אַגְּוִילֵי. נָקֵט לַהּ בִּידֵיהּ — דַּעְתֵּיהּ עַל הָאַזְכָּרוֹת שֶׁבָּהּ.
->
-> **Translation:** **Rav Naḥman said:** This is **not difficult. This** case, in which the item is associated with it and with what is written in it, is referring to **where the Torah** scroll **is placed on the ground,** while **that** case, in which the item is associated with what is written in it, is referring to **where he is holding it in his hands.** If **it is placed on the ground,** whether one mentions the Torah scroll or what is written in it, **his thoughts are concerning the parchment,** i.e., the physical scroll, as he naturally assumes that since the scroll is placed on the ground, the parchment must be blank. Therefore, the vow takes effect only if he mentions both it and what is written in it, indicating that he is aware that it is a Torah scroll. However, where **he is holding it in his hands** and associates the item with what is written in it, **his thoughts are concerning the mentions [*azkarot*]** of the name of God **that are in it,** and the vow takes effect.
 
 The *Raavad* proposes a second, more structurally interesting explanation, one that preserves the reading of *hanoder* as a genuine *neder*. His claim is that the *azkarot* — the divine names written in a *sefer Torah* — are themselves a form of *davar ha-nadur*, because their sanctity is instilled through the intentional act of the *sofer* who writes them. The *sofer* must write God's name with specific *kavana* — conscious intent to write it as a divine name — and it is through that act of intentional inscription that the holiness of the name is created.
 
@@ -130,17 +132,17 @@ This is analogous to the case of *bi-Yerushalayim*: Jerusalem itself is not a *d
 
 A related point: if someone says *harei zeh alai ke-korban u-ke-vasar chazir*, one might ask whether the inclusion of an invalid comparator (*davar ha-assur*) undermines the valid one (*davar ha-nadur*). The intuition is that it should not — as long as the valid formulation is present, the additional invalid comparator does not cancel it. The *neder* remains in force on the strength of the *davar ha-nadur* element. This logic also supports the *Yerushalmi*'s position: *bemah shekasuv bah* encompasses many things, including *korbanot*; the fact that it also encompasses other material does not prevent the *korbanot* from doing the work of validating the *neder*.
 
+It is worth pausing to note that the *Yerushalmi*'s explanation is itself introduced by the *Ran* as a proof that the *gemara* here is speaking of a *neder* and not a *shvuah* — *ve-heivi re'ayah min ha-Yerushalmi de-ve-neder ka'amar velo bi-shvuah* — he brings a proof from the *Yerushalmi* that the text is speaking of a *neder* and not a *shvuah*. The *Yerushalmi* operates on an entirely different framework from the first explanation: it does not invoke the *shem Hashem* at all, and it does not require us to treat this as something other than a conventional *neder*. On this reading, *bemah shekasuv bah* is simply a way of referring to the *korbanot ketuvin bah* — the sacrificial material written in it — and the formula works precisely because it lands on something that is unambiguously *davar ha-nadur*.
+
 ### Why Bemah Works
 
-> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: דְּמַחֲתָא עַל אַרְעָא. וְהָא קָא מַשְׁמַע לַן, דְּאַף עַל גַּב דְּמַחֲתָא עַל אַרְעָא — כֵּיוָן דְּאָמַר ״בְּמַה שֶּׁכָּתוּב בָּהּ״ מַהֲנֵי. וְזוֹ וְאֵין צָרִיךְ לוֹמַר זוֹ קָתָנֵי.
->
+> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: דְּמַחֲתָא עַל אַרְעָא. וְהָא קָא מַשְׁמַע לַן, דְּאַף עַל גַּב דְּמַחֲתָא עַל אַרְעָא — כֵּיוָן דְּאָמַר ״בְּמַה שֶּׁכָּתוּב בָּהּ״ מַהֲנֵי. וְזוֹ וְאֵין צָרִיךְ לוֹמַר זוֹ קָתָנֵי.
 > **Translation:** **And if you wish, say** instead that the entire *baraita* is referring to a case **where it is placed on the ground, and this** middle clause of: With what is written in the Torah scroll, **teaches us that even though it is placed on the ground, since he said: With what is written in it, it is** an **effective** vow, as he was clearly referring to the names of God. **And** the *tanna* of the *baraita* **teaches** employing the style: **This, and it is unnecessary to say that.** The *baraita* teaches the *halakha* where he said: What is written in it, which has a novel element, and then states a more obvious ruling, i.e., it goes without saying that if he associates the item with it and with what is written in it, the vow takes effect.
 
-The *Gemara* then addresses why it states explicitly that *bah uvmah shekasuv bah* — with it *and* with what is written in it — also works, given that *bemah shekasuv bah* alone already suffices. Rav Nachman's first answer, as noted above, distinguishes between whether the Torah is on the ground or held in hand: if it is on the ground and one says *bemah shekasuv bah*, one may be understood to mean the parchment (*geitei agvilei*), and the *neder* fails; but if one holds it, one is presumed to have one's mind on the *azkarot*, and *bemah shekasuv bah* alone works.
-
-> **Hebrew/Aramaic:** וְאִי בָּעֵית אֵימָא: כּוּלָּהּ מְצִיעֲתָא נָמֵי דְּנָקֵיט לֵיהּ בִּידֵיהּ. וְהָא קָא מַשְׁמַע לַן: כֵּיוָן דְּנָקֵיט לֵיהּ בִּידֵיהּ, אַף עַל גַּב דְּלָא אָמַר אֶלָּא ״בָּהּ״ — כְּמַאן דְּאָמַר ״בְּמַה שֶּׁכָּתוּב בָּהּ״ דָּמֵי.
->
+> **Hebrew/Aramaic:** וְאִי בָּעֵית אֵימָא: כּוּלָּהּ מְצִיעֲתָא נָמֵי דְּנָקֵיט לֵיהּ בִּידֵיהּ. וְהָא קָא מַשְׁמַע לַן: כֵּיוָן דְּנָקֵיט לֵיהּ בִּידֵיהּ, אַף עַל גַּב דְּלָא אָמַר אֶלָּא ״בָּהּ״ — כְּמַאן דְּאָמַר ״בְּמַה שֶּׁכָּתוּב בָּהּ״ דָּמֵי.
 > **Translation:** **And if you wish, say** instead that **the entire middle clause,** i.e., the latter clause, where he associates the item with it and with what is written in it, is referring to a case **where he is holding** the Torah scroll **in his hands. And** the *baraita* **teaches us this: Since he is holding it in his hands, even though he said only: With** the Torah scroll, and did not explicitly state: With what is written in it, he is **considered** to be **like one who said: With what is written in it.** Therefore, the item is prohibited.
+
+The *Gemara* then addresses why it states explicitly that *bah uvmah shekasuv bah* — with it *and* with what is written in it — also works, given that *bemah shekasuv bah* alone already suffices. Rav Nachman's first answer, as noted above, distinguishes between whether the Torah is on the ground or held in hand: if it is on the ground and one says *bemah shekasuv bah*, one may be understood to mean the parchment (*geitei agvilei*), and the *neder* fails; but if one holds it, one is presumed to have one's mind on the *azkarot*, and *bemah shekasuv bah* alone works.
 
 The *Gemara* then offers a second formulation: *ve-i ba'is eima*, perhaps in both clauses the Torah is on the ground, and the point is to teach that even when it is on the ground, saying *bemah shekasuv bah* suffices — and it goes without saying (*ein tzarich lomar*) that *bah uvmah shekasuv bah* also works, so the latter formulation is mentioned only in a *zu ve-eino tzarich lomar zu* construction.
 
@@ -152,11 +154,12 @@ To summarize: the *Gemara* has offered three distinct explanations for why *bema
 
 ## Konam on Actions
 
+
+
 ### Mishnah Text
 
-> **Hebrew/Aramaic:** מַתְנִי׳ ״קֻוֽנָּם שֶׁאֲנִי יָשֵׁן״, ״שֶׁאֲנִי מְדַבֵּר״, ״שֶׁאֲנִי מְהַלֵּךְ״, הָאוֹמֵר לְאִשָּׁה ״קֻוֽנָּם שֶׁאֲנִי מְשַׁמְּשֵׁךְ״ — הֲרֵי זֶה בְּ״לֹא יַחֵל דְּבָרוֹ״.
->
-> **Translation:** MISHNA: With regard to one who says: **Sleeping is** forbidden **for me as if** it were **an offering [*konam*],** thereby prohibiting himself from sleeping; or: **Speaking is** *konam* **for me;** or: **Walking is** *konam* **for me;** or **one who says to his wife: Engaging in sexual intercourse with you is *konam* for me,** if he violates the vow **he is in** violation of the prohibition **"He shall not profane his word"** (Numbers 30:3).
+> **Hebrew/Aramaic:** מַתְנִי׳ ״קֻוֽנָּם שֶׁאֲנִי יָשֵׁן״, ״שֶׁאֲנִי מְדַבֵּר״, ״שֶׁאֲנִי מְהַלֵּךְ״, הָאוֹמֵר לְאִשָּׁה ״קֻוֽנָּם שֶׁאֲנִי מְשַׁמְּשֵׁךְ״ — הֲרֵי זֶה בְּ״לֹא יַחֵל דְּבָרוֹ״.
+> **Translation:** MISHNA: With regard to one who says: **Sleeping is** forbidden **for me as if** it were **an offering [*konam*],** thereby prohibiting himself from sleeping; or: **Speaking is** *konam* **for me;** or: **Walking is** *konam* **for me;** or **one who says to his wife: Engaging in sexual intercourse with you is *konam* for me,** if he violates the vow **he is in** violation of the prohibition **“He shall not profane his word”** (Numbers 30:3).
 
 The *mishnah* now introduces a different class of *nedarim*: those in which a person appears to make an *action* rather than an *object* forbidden. The cases given are *konam she-ani yashen* — sleep is *konam* to me; *konam she-ani medaber* — speech is *konam* to me; and *konam she-ani mehalech* — walking is *konam* to me. The *mishnah* states *harei zeh belo yachel dvaro* — the prohibition of *lo yachel dvaro* applies. This formulation is itself notable: rather than simply stating that the person is *assur*, the *mishnah* frames the result in terms of the verse prohibiting the violation of one's word.
 
@@ -164,9 +167,11 @@ This *mishnah* stands in contrast to the final *mishnah* of the previous chapter
 
 ### Rav vs. Nachman
 
-> **Hebrew/Aramaic:** גְּמָ׳ אִיתְּמַר: ״קֻוֽנָּם עֵינַי בְּשֵׁינָה הַיּוֹם אִם אִישַׁן לְמָחָר״, אָמַר רַב יְהוּדָה אָמַר רַב: אַל יִשַׁן הַיּוֹם, שֶׁמָּא יִשַׁן לְמָחָר. וְרַב נַחְמָן אָמַר: יִשַׁן הַיּוֹם, וְלָא חָיְישִׁינַן שֶׁמָּא יִשַׁן לְמָחָר. וּמוֹדֶה רַב יְהוּדָה בְּאוֹמֵר ״קֻוֽנָּם עֵינַי בְּשֵׁינָה לְמָחָר אִם אִישַׁן הַיּוֹם״, שֶׁיִּשַׁן הַיּוֹם.
->
+> **Hebrew/Aramaic:** גְּמָ׳ אִיתְּמַר: ״קֻוֽנָּם עֵינַי בְּשֵׁינָה הַיּוֹם אִם אִישַׁן לְמָחָר״, אָמַר רַב יְהוּדָה אָמַר רַב: אַל יִשַׁן הַיּוֹם, שֶׁמָּא יִשַׁן לְמָחָר. וְרַב נַחְמָן אָמַר: יִשַׁן הַיּוֹם, וְלָא חָיְישִׁינַן שֶׁמָּא יִשַׁן לְמָחָר. וּמוֹדֶה רַב יְהוּדָה בְּאוֹמֵר ״קֻוֽנָּם עֵינַי בְּשֵׁינָה לְמָחָר אִם אִישַׁן הַיּוֹם״, שֶׁיִּשַׁן הַיּוֹם.
 > **Translation:** GEMARA: **It was stated** that with regard to one who says: **Sleeping is *konam* for my eyes today if I will sleep tomorrow, Rav Yehuda said** that **Rav said: He may not sleep today, lest he sleep tomorrow** and thereby cause the vow to have been violated today, retroactively. **And Rav Naḥman said: He may sleep today,** as there is currently no prohibition, **and we are not concerned that he will perhaps sleep tomorrow,** as he will be careful not to sleep. **And Rav Yehuda concedes** that **in** a case where **he says: Sleeping is *konam* for my eyes tomorrow if I sleep today, he may sleep today.**
+
+> **Hebrew/Aramaic:** כִּי לָא מִזְדְּהַיר — בִּתְנָאָה, אֲבָל בְּאִיסּוּרָא — מִזְדְּהַר.
+> **Translation:** Sleeping today is not prohibited for him. Rather, it causes sleeping to be prohibited for him tomorrow, because **when** one **is not careful,** it is only **with regard to a condition.** In the former case, sleeping on the second day merely fulfills the condition on which the prohibition was based, causing it to take effect retroactively. Therefore, there is concern that he will not be careful and retroactively cause a violation. **However,** one **is careful with regard to a prohibition.** In the latter case, sleeping on the second day is directly prohibited. Therefore, there is no concern that he will violate the prohibition.
 
 The *Gemara* records a dispute: *konam einai besheina hayom im ishan lemachar* — my eyes are *konam* in sleep today, if I sleep tomorrow. The scenario is that today is the *tnai* (condition) and tomorrow is when the *neder* would take effect. If the person sleeps today, that triggers the condition; whether he then sleeps tomorrow will determine retroactively whether his action today constituted a violation of his *neder*.
 
@@ -178,45 +183,39 @@ Rav Yehuda concedes, however, that all agree in the reverse case: *be-omer konam
 
 ### Grammatical Problem
 
-> **Hebrew/Aramaic:** תְּנַן: קֻוֽנָּם שֶׁאֲנִי יָשֵׁן, שֶׁאֲנִי מְהַלֵּךְ, שֶׁאֲנִי מְדַבֵּר וְכוּ׳. הֵיכִי דָמֵי? אִילֵּימָא כִּדְקָתָנֵי, ״שֶׁאֲנִי יָשֵׁן״ מִי הָוֵי נִדְרָא? וְהָתְנַן: חוֹמֶר בַּשְּׁבוּעוֹת, שֶׁהַשְּׁבוּעוֹת חָלוֹת עַל דָּבָר שֶׁיֵּשׁ בּוֹ מַמָּשׁ וְעַל דָּבָר שֶׁאֵין בּוֹ מַמָּשׁ, מַה שֶּׁאֵין כֵּן בַּנְּדָרִים. וְשֵׁינָה דָּבָר שֶׁאֵין בּוֹ מַמָּשׁ הוּא! אֶלָּא דְּאָמַר: ״קֻוֽנָּם עֵינַי בְּשֵׁינָה״.
->
-> **Translation:** The Gemara raises a difficulty with regard to the opinion of Rav Yehuda: **We learned** in the mishna that one who says: **Sleeping is *konam* for me,** or: **Walking is** *konam* **for me,** or: **Speaking is** *konam* **for me,** may not violate his vow. **What are the circumstances? If we say** that the wording of the vow is precisely **as** the mishna **teaches, is** the vow: **Sleeping is** *konam* **for me,** a valid **vow? But didn't we learn** in a *baraita*: There is **stringency with regard to oaths** vis-à-vis vows, in **that oaths apply to something that has actual** substance **and to something that does not have actual** substance, **which is not the case with regard to vows. And sleep is something that does not have actual** substance, so how can a vow apply to sleep? **Rather,** the mishna must be referring to a case **where he said: Sleeping is *konam* for my eyes.**
-
 A more fundamental problem with the *mishnah* is now surfaced. We know from the *mishnah* in the previous chapter (*chomer bishvuot*) that *shvuah* differs from *neder* in one significant respect: a *shvuah* can apply to *davar she-ein bo mamash* — something non-physical — while *nedarim* apply only to *davar she-yesh bo mamash*, something with physical substance. Sleep, speech, and walking are all non-physical — they have no *mamash*. How, then, can a *neder* in the form of *konam she-ani yashen* take effect at all? The *mishnah* appears to assume that it does, but on what basis?
 
-### Eyes Resolution
+> **Hebrew/Aramaic:** תְּנַן: קֻוֽנָּם שֶׁאֲנִי יָשֵׁן, שֶׁאֲנִי מְהַלֵּךְ, שֶׁאֲנִי מְדַבֵּר וְכוּ׳. הֵיכִי דָמֵי? אִילֵּימָא כִּדְקָתָנֵי, ״שֶׁאֲנִי יָשֵׁן״ מִי הָוֵי נִדְרָא? וְהָתְנַן: חוֹמֶר בַּשְּׁבוּעוֹת, שֶׁהַשְּׁבוּעוֹת חָלוֹת עַל דָּבָר שֶׁיֵּשׁ בּוֹ מַמָּשׁ וְעַל דָּבָר שֶׁאֵין בּוֹ מַמָּשׁ, מַה שֶּׁאֵין כֵּן בַּנְּדָרִים. וְשֵׁינָה דָּבָר שֶׁאֵין בּוֹ מַמָּשׁ הוּא! אֶלָּא דְּאָמַר: ״קֻוֽנָּם עֵינַי בְּשֵׁינָה״.
+> **Translation:** The Gemara raises a difficulty with regard to the opinion of Rav Yehuda: **We learned** in the mishna that one who says: **Sleeping is *konam* for me,** or: **Walking is** *konam* **for me,** or: **Speaking is** *konam* **for me,** may not violate his vow. **What are the circumstances? If we say** that the wording of the vow is precisely **as** the mishna **teaches, is** the vow: **Sleeping is** *konam* **for me,** a valid **vow? But didn’t we learn** in a *baraita*: There is **stringency with regard to oaths** vis-à-vis vows, in **that oaths apply to something that has actual** substance **and to something that does not have actual** substance, **which is not the case with regard to vows. And sleep is something that does not have actual** substance, so how can a vow apply to sleep? **Rather,** the mishna must be referring to a case **where he said: Sleeping is *konam* for my eyes.**
 
-> **Hebrew/Aramaic:** וְאִי דְּלָא יָהֵיב שִׁיעוּרָא, מִי שָׁבְקִינַן לֵיהּ עַד דְּעָבַר אִיסּוּר ״בַּל יַחֵל״? וְהָאָמַר רַבִּי יוֹחָנָן: ״שְׁבוּעָה שֶׁלֹּא אִישַׁן שְׁלֹשָׁה יָמִים״ — מַלְקִין אוֹתוֹ וְיָשֵׁן לְאַלְתַּר!
->
-> **Translation:** The Gemara questions this interpretation: **And if he did not give a measurement** to the prohibition created by the vow, but rather prohibited himself from sleeping for an unlimited period of time, **do we let him** be **until he** inevitably **transgresses the prohibition: He shall not profane,** by falling asleep? **But didn't Rabbi Yoḥanan say** that if one says: I hereby take **an oath that I will not sleep for three days,** the court **flogs him** for taking an oath in vain, **and he may sleep immediately,** as he is incapable of fulfilling his oath? Here too, if the prohibition has no time frame, the vow should not take effect.
+### Eyes Resolution
 
 The *Gemara* resolves the problem by rereading the *mishnah*. The cases of *konam she-ani yashen*, *konam she-ani medaber*, and *konam she-ani mehalech* must be understood as shorthand for a formulation that does invoke a physical object. The *mishnah* must mean *konam einai besheina* — my eyes are *konam* in sleep — which inserts the eyes as the physical object to which the *neder* attaches. This mirrors the formulation of the final *mishnah* of the previous chapter, where body parts were explicitly mentioned. The *mishnah* here is read as doing the same thing implicitly, and the *Gemara*'s reinterpretation confirms that a *neder* cannot attach to a pure action without any physical referent.
 
 ---
 
-## Impossibility & Nede (II)
+## Impossibility & Neder
+
+
 
 ### Shvuah Sleep
 
-Even after inserting the eyes as the physical object, a further problem emerges. If the *mishnah* means *konam einai besheina* without a *tnai* — that is, my eyes are always forbidden in sleep, full stop — then we face a different difficulty. Rabbi Yochanan teaches: *shvuah she-lo yishan shelosha yamim, malkin oto ve-yashen le-alter* — one who swears that he will not sleep for three days receives lashes immediately and may go to sleep at once. The reason is that such a *shvuah* cannot possibly be fulfilled; it is physically impossible for a human being to go without sleep for three days. Because it is impossible, the *shvuah* is treated as a *shvuat shav* or *shvuat sheker* from the moment it is uttered, it never takes effect, and the person is free to sleep immediately.
 
-The question posed by the *Gemara* is whether the same reasoning applies to a *neder*. If a person says *konam einai besheina* without qualification, he is in the same position: he cannot possibly fulfill this *neder*, since it is humanly impossible never to sleep. Does this mean the *neder* never takes effect?
-
----
+The *mishnah* says the *neder* takes effect (*chal*). But the *Gemara* raises a challenge from the principle that *shvuot* are more stringent than *nedarim* in one respect: a *shvuah* takes effect even on something non-physical (*davar she'ein bo mamash*), whereas a *neder* does not. This creates a problem at the very outset: how can our *mishnah* work at all? Sleep and walking are non-physical — *shina davar she'ein bo mamash hu*. The answer is that the *mishnah* must be read as *de'amar konam einai besheina* — "my eyes are forbidden in sleep" — making the eyes, a physical object, the subject of the *neder*, along the same lines as the final *mishnah* of the previous *perek*. This solves the first problem. But now a further difficulty arises: even granting that formulation, if the person simply says *konam einai besheina* without any qualifying condition (*tnai*), there is still another issue to contend with.
 
 ## Konam on Actions (II)
 
-### Itmar Debate
 
-> **Hebrew/Aramaic:* כִּי לָא מִזְדְּהַר — בִּתְנָאָה, אֲבָל בְּאִיסּוּרָא — מִזְדְּהַר.
->
-> **Translation:** Sleeping today is not prohibited for him. Rather, it causes sleeping to be prohibited for him tomorrow, because **when** one **is not careful,** it is only **with regard to a condition.** In the former case, sleeping on the second day merely fulfills the condition on which the prohibition was based, causing it to take effect retroactively. Therefore, there is concern that he will not be careful and retroactively cause a violation. **However,** one **is careful with regard to a prohibition.** In the latter case, sleeping on the second day is directly prohibited. Therefore, there is no concern that he will violate the prohibition.
+
+### Itmar Debate
 
 The *Gemara* presents the *itmar* — a recorded amoraic dispute — on the conditional vow *konam einai besheina hayom im ishan lemachar*. This is the precise case in which today is the *tnai* and tomorrow is the *neder*. The debate among the *amora'im* concerns whether the person may sleep today (trusting he will observe the *tnai* tomorrow) or must refrain today (lest he fail to fulfill the *tnai* and thereby retroactively violate the *neder*). This is the dispute between Rav and Rav Nachman discussed above. Rav holds that since a violation of the *tnai* would retroactively constitute a transgression — a form of retroactive violation — we cannot trust the person to be vigilant enough about the *tnai* and must therefore prevent him from sleeping today. Rav Nachman holds that we trust people to honor their *nedarim*, even when fulfillment depends on a future condition.
 
 ---
 
 ## Impossibility & Nede (II)
+
+
 
 ### Concept Difference
 
@@ -232,11 +231,17 @@ This parallels the distinction between saying *tefillin* is forbidden to me, whi
 
 *Tosafot* then raise a potential counterexample: what about a person who takes a *neder* on all the fruit in the world? Can one really go through life eating no fruit whatsoever? *Tosafot* clarify that such a *neder* is *not* the kind of impossibility that invalidates, since it is in principle possible to live without eating fruit. The point is not that we cannot imagine someone fulfilling it in practice, but that there is no categorical physical necessity that prevents fulfillment. The impossibility relevant to *nedarim* is one where fulfillment is inherently physically impossible — not merely difficult or practically unlikely.
 
+> **Hebrew/Aramaic:** וְאִי דְּלָא יָהֵיב שִׁיעוּרָא, מִי שָׁבְקִינַן לֵיהּ עַד דְּעָבַר אִיסּוּר ״בַּל יַחֵל״? וְהָאָמַר רַבִּי יוֹחָנָן: ״שְׁבוּעָה שֶׁלֹּא אִישַׁן שְׁלֹשָׁה יָמִים״ — מַלְקִין אוֹתוֹ וְיָשֵׁן לְאַלְתַּר!
+> **Translation:** The Gemara questions this interpretation: **And if he did not give a measurement** to the prohibition created by the vow, but rather prohibited himself from sleeping for an unlimited period of time, **do we let him** be **until he** inevitably **transgresses the prohibition: He shall not profane,** by falling asleep? **But didn’t Rabbi Yoḥanan say** that if one says: I hereby take **an oath that I will not sleep for three days,** the court **flogs him** for taking an oath in vain, **and he may sleep immediately,** as he is incapable of fulfilling his oath? Here too, if the prohibition has no time frame, the vow should not take effect.
+
 ### Physical Necessity
+
 
 This brings us to the specific case of the eyes. The *neder konam einai besheina* — my eyes are forbidden in sleep — is not analogous to a *neder* on all fruit. It is not merely difficult for a person never to sleep; it is physically impossible, because the eyes will necessarily close. A person does not choose to sleep in the same way one chooses not to eat fruit; the closing of the eyes in sleep is a physical inevitability, not a volitional act that can simply be avoided indefinitely.
 
 The comparison to food is thus instructive. If I declare all food forbidden to me, it is not possible for me to live without eating — but the food itself has no inherent tendency to be consumed by me. The physical necessity of eating is about my biological needs, not about the nature of the food. The *neder* makes the food a forbidden object; the food does not have to become available to me. By contrast, when I declare my eyes *konam* in sleep, the very nature of the eyes — as a physical organ that will necessarily close — means that the *neder* is aimed directly at an inevitability of the physical object's own nature, not merely at a human need that may or may not interact with the object.
+
+It is worth pausing here to note what a genuine *chidush* — a striking novelty — this entire line of reasoning represents. The question of whether fulfillment is possible has been a well-established criterion for *shvuot*, but the *Gemara* is now applying it to *nedarim* as well. A *neder*, after all, operates on the object rather than on the person; the prohibition is framed in terms of what the object is, not what I can or cannot do. One might therefore have expected that questions of personal capability or physical inevitability would be simply irrelevant to whether a *neder* takes effect. That the *Gemara* treats impossibility of fulfillment as a reason for a *neder* not to take hold at all is, as the comparison to *shvuot* makes clear, a conceptually significant extension.
 
 Whether this distinction is fully persuasive or not, the *Gemara*'s analysis proceeds on the assumption that the impossibility of never sleeping is sufficiently analogous to the impossibility of a three-day sleepless oath to be relevant in the context of *nedarim* as well.
 
@@ -244,11 +249,12 @@ Whether this distinction is fully persuasive or not, the *Gemara*'s analysis pro
 
 ## Belo Yachel Resolution
 
+
+
 ### Reframed Case
 
-> **Hebrew/Aramaic:** אֶלָּא פְּשִׁיטָא דְּאָמַר ״קֻוֽנָּם עֵינַי בְּשֵׁינָה הַיּוֹם אִם אִישַׁן לְמָחָר״. וְאִי לָא נָיֵים הַיּוֹם, כִּי נָיֵים לְמָחָר מַאי ״בַּל יַחֵל דְּבָרוֹ״ אִיכָּא? אֶלָּא לָאו בִּדְנָיֵים. אַלְמָא אִיתֵיהּ דְּנָיֵים. וּתְיוּבְתָּא דְרַב יְהוּדָה!
->
-> **Translation:** **Rather,** it **is obvious** that the mishna is referring to a case **where** one **said: Sleeping is *konam* to my eyes today if I sleep tomorrow.** The Gemara asks: **And if he does not sleep today, when he sleeps tomorrow, what** transgression of: **He shall not profane his word, is there? Rather, is it not with regard to** a case **where he slept** on the first day, and therefore the mishna warns him not to sleep on the second day lest he retroactively violate the prohibition? **Apparently, there is** a situation **in which he sleeps** on the first day. **And** this is **a refutation** of the opinion **of Rav Yehuda** that he may not sleep today lest he sleep tomorrow as well, thereby violating the prohibition.
+> **Hebrew/Aramaic:** אֶלָּא דַּאֲמַר ״קֻוֽנָּם עֵינַי בְּשֵׁינָה לְמָחָר אִם אִישַׁן הַיּוֹם״. הָא אָמְרַתְּ כׇּל בְּאִסּוּרֵיהּ, מִזְדְּהַר?
+> **Translation:** **Rather,** the mishna must be referring to a case **where** one **said: Sleeping is *konam* to my eyes tomorrow if I sleep today.** The mishna rules that he may not sleep today, lest he transgress the prohibition of: He shall not profane, by sleeping tomorrow. However, **didn’t you say** that with regard to this vow it is agreed that he may sleep today, as one **is careful with regard to any** direct **prohibition** and will not violate the vow tomorrow? If so, why is it prohibited for him to sleep today?
 
 The *Gemara* now undertakes a careful reanalysis of the *mishnah* to understand what case it is actually addressing and what exactly *harei zeh belo yachel dvaro* means. After the foregoing discussion, the simple reading — that the *mishnah* is telling us that *konam einai besheina* (my eyes are *konam* in sleep) binds the person such that sleeping is a violation of *belo yachel dvaro* — turns out to be either too trivial or too problematic to be what the *mishnah* intends.
 
@@ -258,9 +264,6 @@ So the *Gemara* argues that the *mishnah* must be addressing the *tnai* scenario
 
 ### Semantic Puzzle
 
-> **Hebrew/Aramaic:** כִּי קָתָנֵי, דְּאִי נָיֵים.
->
-> **Translation:** The Gemara answers: **When** the mishna **teaches** that he may not sleep tomorrow, it does not mean that today he may sleep *ab initio*. Rather, it means **that if he did sleep** today he must be careful not to sleep tomorrow.
 
 This creates a genuine semantic puzzle. *Harei zeh belo yachel dvaro* — in its natural sense — sounds like a statement of prohibition: this is the prohibition of *lo yachel*, meaning one must not violate one's word. But the *Gemara* is now being pushed to read it as a statement of permission: one may sleep today (*harei zeh*), and the *belo yachel* (*lo yachel dvaro*) is simply the rule that would apply tomorrow if one slept tomorrow. On this reading, *harei zeh belo yachel dvaro* does not mean "this constitutes a violation of *lo yachel*" but rather "this [situation — sleeping today] will subject one to the rule of *belo yachel* [tomorrow]."
 
@@ -268,9 +271,8 @@ The *Ran* takes note of the difficulty in reading the phrase this way and works 
 
 ### Final Resolution
 
-> **Hebrew/Aramaic:** רָבִינָא אָמַר: לְעוֹלָם כִּדְקָתָנֵי וּמַאי ״בַּל יַחֵל״ — מִדְּרַבָּנַן.
->
-> **Translation:** **Ravina said** a different answer: **Actually,** the mishna may be interpreted **as it teaches,** i.e., sleeping is *konam* for me. The vow does not take effect, as sleep does not have actual substance. **And** if so, **what** is the reason the mishna states that if he sleeps he is in violation of the prohibition: **He shall not profane?** He transgresses the prohibition **by rabbinic law.** Although the vow does not take effect by Torah law, the Sages prohibited him from breaking his word.
+> **Hebrew/Aramaic:** אֶלָּא פְּשִׁיטָא דְּאָמַר ״קֻוֽנָּם עֵינַי בְּשֵׁינָה הַיּוֹם אִם אִישַׁן לְמָחָר״. וְאִי לָא נָיֵים הַיּוֹם, כִּי נָיֵים לְמָחָר מַאי ״בַּל יַחֵל דְּבָרוֹ״ אִיכָּא? אֶלָּא לָאו בִּדְנָיֵים. אַלְמָא אִיתֵיהּ דְּנָיֵים. וּתְיוּבְתָּא דְרַב יְהוּדָה!
+> **Translation:** **Rather,** it **is obvious** that the mishna is referring to a case **where** one **said: Sleeping is *konam* to my eyes today if I sleep tomorrow.** The Gemara asks: **And if he does not sleep today, when he sleeps tomorrow, what** transgression of: **He shall not profane his word, is there? Rather, is it not with regard to** a case **where he slept** on the first day, and therefore the mishna warns him not to sleep on the second day lest he transgress the prohibition retroactively? **Apparently, there is** a situation **in which he sleeps** on the first day. **And** this is **a refutation** of the opinion **of Rav Yehuda** that he may not sleep today lest he sleep tomorrow as well, thereby violating the prohibition.
 
 The *Gemara*'s final resolution reads the *mishnah* as follows: the case is that the person *already slept* today — the *tnai* has been triggered. Given that, *harei zeh belo yachel dvaro* means that he must now be careful to keep his *tnai* tomorrow, i.e., not to sleep tomorrow, because if he does, he will retroactively have violated his *neder* through today's sleep. The *mishnah* is thus not deliberating about whether to permit or prohibit sleeping today; it is instructing the person who has already slept today that he is now under obligation to observe the *tnai* tomorrow, and the rule of *belo yachel dvaro* applies to that obligation.
 

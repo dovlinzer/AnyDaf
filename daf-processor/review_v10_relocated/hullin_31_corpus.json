@@ -1,0 +1,318 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rav Papa's Question",
+    "candidates": [
+      "Rav Papa's Question",
+      "Rashi's View",
+      "Rashi's Ruling",
+      "Rabbeinu Tam",
+      "Two Heads & Two People"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's dilemma about chalada bemiut simanim left as teyku, which is exactly what heading 0 'Rav Papa's Question' describes in its prose.",
+      "chosen_heading": "Rav Papa's Question",
+      "current_heading": "Rav Papa's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Two Heads & Two People",
+    "candidates": [
+      "Rashi's View",
+      "Rashi's Ruling",
+      "Rabbeinu Tam",
+      "Two Heads & Two People",
+      "Head Severed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The mishna text covers slaughtering two heads simultaneously and two people holding a knife \u2014 exactly what the 'Two Heads & Two People' prose describes, making the current placement correct.",
+      "chosen_heading": "Two Heads & Two People",
+      "current_heading": "Two Heads & Two People",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Head Severed",
+    "candidates": [
+      "Head Severed",
+      "Back and Forth Motion",
+      "Source: Shachut"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses slaughtering two animals simultaneously with the knife going back and forth (holich veheivi), finding even a scalpel valid \u2014 this is precisely what the 'Back and Forth Motion' section's prose discusses, not the single-motion/head-severed case under heading 0.",
+      "chosen_heading": "Back and Forth Motion",
+      "current_heading": "Head Severed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Source: Shachut",
+    "candidates": [
+      "Back and Forth Motion",
+      "Source: Shachut",
+      "Arrow Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items derive the requirement for horizontal drawing motion in shechita from the word 'shachut,' exactly matching the prose of candidate 1 ('Source: Shachut') which describes Shmuel's derivation from Jeremiah 9:7, the tana debe-rabi yishmael's derivation, and the zahav shachut/chetz shachut clarification.",
+      "chosen_heading": "Source: Shachut",
+      "current_heading": "Source: Shachut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Arrow Story",
+    "candidates": [
+      "Arrow Story",
+      "Knife Falls"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Arrow Story",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the arrow story (Rava examining arrows, slaughtering a flying bird, chalada concern, and kisui ha-dam question) which exactly matches the 'Arrow Story' prose.",
+      "second_heading": "Knife Falls",
+      "second_confidence": "high",
+      "second_reason": "Items 5-8 introduce an entirely new mishna case about decapitation (hitiz) and Rabbi Zeira's ruling about knife length relative to neck width, which matches the 'Knife Falls' section's context of koach gavra and the next mishna \u2014 though the specific content about knife length preceding the nafla sakin mishna fits as an adjacent gemara unit; however the structural seam after item 4 is clear as item 5 begins with a new mishna topic (\u00a7 marker) about hitiz/decapitation distinct from the arrow narrative.",
+      "current_heading": "Arrow Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Knife Falls",
+    "candidates": [
+      "Knife Falls",
+      "Throwing Knife"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 4,
+      "split2": 5,
+      "first_heading": "Knife Falls",
+      "first_confidence": "low",
+      "first_reason": "Segment 1 discusses scalpel/needle slaughter validity from the prior mishna's continuation, and doesn't match either heading well, but 'Knife Falls' is the closer of the two since it's where it currently sits and the 'Throwing Knife' heading is about a baraita regarding throwing a knife at a wall \u2014 however, Segment 1 actually belongs before the 'Knife Falls' mishna, so it fits neither perfectly; 'Knife Falls' is the least wrong option.",
+      "second_heading": "Knife Falls",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the mishna beginning 'nafla sakin veshachata' which is explicitly described in the 'Knife Falls' heading prose.",
+      "third_heading": "Knife Falls",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the Gemara on 'ta'ama denafla / ha hipila' which is explicitly described in the 'Knife Falls' heading prose.",
+      "current_heading": "Knife Falls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Throwing Knife",
+    "candidates": [
+      "Throwing Knife",
+      "Two Criteria",
+      "Both Mishnayot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about throwing a knife at a wall and Rabbi Natan's ruling, which is exactly what the 'Throwing Knife' section's prose describes and analyzes.",
+      "chosen_heading": "Throwing Knife",
+      "current_heading": "Throwing Knife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Both Mishnayot",
+    "candidates": [
+      "Two Criteria",
+      "Both Mishnayot",
+      "Nidda Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the gemara's tzricha argument explaining why Rava needed to identify Rabbi Natan's view in both the cheresh/shoteh/katan mishna and the thrown-knife baraita, which is precisely what the 'Both Mishnayot' prose describes in detail.",
+      "chosen_heading": "Both Mishnayot",
+      "current_heading": "Both Mishnayot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Nidda Case",
+    "candidates": [
+      "Nidda Case",
+      "Wave Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the amoraic dispute about a nidda who immersed under compulsion and Rava's challenge to Rav's position, which is precisely what the 'Nidda Case' prose describes in detail.",
+      "chosen_heading": "Nidda Case",
+      "current_heading": "Nidda Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Wave Case",
+    "candidates": [
+      "Wave Case",
+      "Intent Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Na\u1e25man's statement that chullin requires no kavana and cites the wave mishna as proof, which is precisely what the 'Wave Case' prose describes.",
+      "chosen_heading": "Wave Case",
+      "current_heading": "Wave Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Intent Objection",
+    "candidates": [
+      "Intent Objection",
+      "Fruit Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous Talmudic exchange about the wave mishna \u2014 the objection that the person was sitting and waiting (intent), the analogy to vessels, the question of what novelty the mishna adds, and the answers about the chardalit and kif/rosh distinctions \u2014 which exactly matches the prose under 'Intent Objection.'",
+      "chosen_heading": "Intent Objection",
+      "current_heading": "Intent Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Fruit Case",
+    "candidates": [
+      "Fruit Case",
+      "Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the two-part mishna from Makhshirin about produce falling into a water channel, which is precisely what the 'Fruit Case' prose describes in detail \u2014 the first case (hands purified without intent, produce not susceptible) and the contrasting second case (hands washed intentionally, produce susceptible).",
+      "chosen_heading": "Fruit Case",
+      "current_heading": "Fruit Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Rav Nachman",
+    "candidates": [
+      "Rav Nachman",
+      "Rabbi Yonatan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items describe the exact exchange between Rava and Rav Na\u1e25man about immersion intent for chullin vs. maaser, concluding with the baraita confirming Rav Na\u1e25man's position \u2014 which is precisely what the prose under heading 0 ('Rav Nachman') describes in detail.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rav Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Rabbi Yonatan",
+    "candidates": [
+      "Rabbi Yonatan",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain \u2014 Abaye's challenge to Rabbi Yo\u1e25anan, Rav Yosef's response citing Rabbi Yonatan ben Yosef, the baraita proving Rabbi Yonatan ben Yosef's position, and Rav Shimi bar Ashi's objection based on the stam mishna about the knife \u2014 all of which are explicitly described in the prose of candidate 0 ('Rabbi Yonatan').",
+      "chosen_heading": "Rabbi Yonatan",
+      "current_heading": "Rabbi Yonatan",
+      "moved": false
+    }
+  }
+]

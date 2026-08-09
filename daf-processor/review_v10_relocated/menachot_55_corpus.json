@@ -1,0 +1,197 @@
+[
+  {
+    "quote_indices": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "current_heading": "Rabbi Elazar's View",
+    "candidates": [
+      "Measurement Problem",
+      "Baraita on Figs",
+      "Fresh on Dried",
+      "Dried on Fresh Problem",
+      "Teruma vs Ma'aser",
+      "Generous Measure",
+      "Rabbi Elazar's View",
+      "Dried Figs Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 11 items form a continuous Talmudic discussion about separating teruma/ma'aser from fresh vs dried figs, covering the baraita's two clauses, the contradictions between them, and their resolution through teruma gedola and terumat ma'aser \u2014 exactly what the 'Baraita on Figs' prose describes, whereas the current heading 'Rabbi Elazar's View' only covers the later portion of this unified passage.",
+      "chosen_heading": "Baraita on Figs",
+      "current_heading": "Rabbi Elazar's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Dried Figs Exception",
+    "candidates": [
+      "Rabbi Elazar's View",
+      "Dried Figs Exception",
+      "Baraita on Which to Give",
+      "Contradictory Rules",
+      "Kohen Available or Not"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Dimi's report of Rabbi Elazar's reasoning that dried figs are exceptional because they can be boiled and restored, which is precisely what the 'Dried Figs Exception' prose section discusses.",
+      "chosen_heading": "Dried Figs Exception",
+      "current_heading": "Dried Figs Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Kohen Available or Not",
+    "candidates": [
+      "Baraita on Which to Give",
+      "Contradictory Rules",
+      "Kohen Available or Not",
+      "Methodological Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items together form the complete baraita discussion about separating teruma from fresh figs for dried figs and vice versa, including the Gemara's analysis of when a kohen is present or not \u2014 this entire unit belongs under heading 0 ('Baraita on Which to Give'), which explicitly describes this baraita and its underlying tension, while headings 1 and 2 describe the subsequent analytical/contradictory discussion that the essay author has already written prose about separately.",
+      "chosen_heading": "Baraita on Which to Give",
+      "current_heading": "Kohen Available or Not",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Methodological Principle",
+    "candidates": [
+      "Kohen Available or Not",
+      "Methodological Principle",
+      "Mishna on Water",
+      "Remnant Chametz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's methodological principle about preferring to interpret a mishna/baraita under two reasons rather than attributing it to two tannaim, which is exactly what the 'Methodological Principle' section's prose discusses in detail.",
+      "chosen_heading": "Methodological Principle",
+      "current_heading": "Methodological Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Remnant Chametz",
+    "candidates": [
+      "Mishna on Water",
+      "Remnant Chametz",
+      "Reish Lakish Drasha",
+      "Make vs Bake",
+      "Separate Transgressions",
+      "Two Prohibitions",
+      "Klal U'Prat Principle",
+      "Rav Aftoriki View",
+      "Nasi Goat Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Remnant Chametz",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna itself, which the 'Remnant Chametz' prose explicitly introduces and discusses, covering kneading with lukewarm water, watching against chametz, and liability for kneading/shaping/baking.",
+      "second_heading": "Reish Lakish Drasha",
+      "second_confidence": "high",
+      "second_reason": "Items 2-11 are the Gemara discussion beginning with Reish Lakish's derivation of the prohibition on leavening the shirayim and the subsequent baraita/challenges about separate transgressions, which precisely matches the 'Reish Lakish Drasha' and subsequent headings' prose content.",
+      "current_heading": "Remnant Chametz",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Nasi Goat Example",
+    "candidates": [
+      "Reish Lakish Drasha",
+      "Make vs Bake",
+      "Separate Transgressions",
+      "Two Prohibitions",
+      "Klal U'Prat Principle",
+      "Rav Aftoriki View",
+      "Nasi Goat Example",
+      "Proof for Distance",
+      "Rav Ashi Counter",
+      "Word Oso Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All 7 items form one continuous discussion: Rabbi Aptoriki's principle about distant klal uprat (item 1), Rav Adda's challenge from the Nasi goat baraita (items 2-6), and Rav Ashi's counter (item 7) \u2014 exactly the content described in candidate 6 ('Nasi Goat Example'), which covers the baraita about the Nasi's chatat, the two verses from different parashiot, and the exploration of whether klal uprat applies to distant verses.",
+      "chosen_heading": "Nasi Goat Example",
+      "current_heading": "Nasi Goat Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Word Oso Limits",
+    "candidates": [
+      "Proof for Distance",
+      "Rav Ashi Counter",
+      "Word Oso Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains that the baraita's hava amina was generated by the word 'oso' (exclusion), not by klal uprat reasoning \u2014 exactly what the 'Word Oso Limits' section's prose describes.",
+      "chosen_heading": "Word Oso Limits",
+      "current_heading": "Word Oso Limits",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,390 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Mishnah Examples",
+    "candidates": [
+      "Opening & Parameters",
+      "Mishnah Four Categories",
+      "Mishnah Examples",
+      "Yishmael vs. Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together constitute the mishnah's concrete examples of the four categories (oaths about others, oaths about intangible matters), which is precisely what the 'Mishnah Examples' prose describes in detail.",
+      "chosen_heading": "Mishnah Examples",
+      "current_heading": "Mishnah Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Yishmael vs. Akiva",
+    "candidates": [
+      "Yishmael vs. Akiva",
+      "Nedarim Stringencies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Rabbi Yishmael vs. Rabbi Akiva dispute about the temporal scope of shevuat bituy and the amplification of the verse, which is precisely what the 'Yishmael vs. Akiva' prose section describes in detail.",
+      "chosen_heading": "Yishmael vs. Akiva",
+      "current_heading": "Yishmael vs. Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Nedarim Stringencies",
+    "candidates": [
+      "Nedarim Stringencies",
+      "Shevuot Stringencies",
+      "Giving Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nedarim Stringencies",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the stringency of nedarim over shevuot (vows taking effect on mitzvah matters), which is precisely what candidate 0's prose discusses.",
+      "second_heading": "Shevuot Stringencies",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the stringency of shevuot over nedarim (oaths taking effect on intangible matters), which is precisely what candidate 1's prose discusses.",
+      "current_heading": "Nedarim Stringencies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Giving Example",
+    "candidates": [
+      "Shevuot Stringencies",
+      "Giving Example",
+      "Sleeping Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the gemara's analysis of the 'giving' example from the mishnah \u2014 questioning whether it means tzedakah to a poor person (already obligated from Sinai) and resolving it as a gift to a wealthy person \u2014 which is precisely what the 'Giving Example' prose describes.",
+      "chosen_heading": "Giving Example",
+      "current_heading": "Giving Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Sleeping Example",
+    "candidates": [
+      "Sleeping Example",
+      "Rock Example & Rav/Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the sleeping oath example and Rabbi Yo\u1e25anan's ruling about three days, which is precisely what the 'Sleeping Example' prose describes.",
+      "chosen_heading": "Sleeping Example",
+      "current_heading": "Sleeping Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rock Example & Rav/Shmuel",
+    "candidates": [
+      "Rock Example & Rav/Shmuel",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the Rav/Shmuel dispute about 'so-and-so threw a rock,' which is precisely what candidate 0's prose describes as the new sugyah introduced by the rock example, including the exact dispute between Rav and Shmuel.",
+      "chosen_heading": "Rock Example & Rav/Shmuel",
+      "current_heading": "Rock Example & Rav/Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Rav's Position",
+      "Shmuel's Position",
+      "Within Akiva Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rav's and Shmuel's positions in a single Talmudic excerpt, but its primary content \u2014 explaining Rav's criterion of lav v'hein \u2014 matches the 'Rav's Position' prose, which is the current placement and best fit.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Within Akiva Framework",
+    "candidates": [
+      "Shmuel's Position",
+      "Within Akiva Framework",
+      "Shmuel's Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous unit resolving whether Rav and Shmuel replay the Yishmael/Akiva dispute, concluding the debate is only within Rabbi Akiva's framework \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Within Akiva Framework",
+      "current_heading": "Within Akiva Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Shmuel's Reasoning",
+    "candidates": [
+      "Shmuel's Reasoning",
+      "Mishnah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items discuss the Gemara's suggestion that Rav and Shmuel's dispute mirrors that of Rabbi Yehuda ben Beteira and the Rabbanan, the rejection of that suggestion, and the refined conclusion \u2014 exactly the content described in the 'Shmuel's Reasoning' prose.",
+      "chosen_heading": "Shmuel's Reasoning",
+      "current_heading": "Shmuel's Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Mishnah Proof",
+    "candidates": [
+      "Mishnah Proof",
+      "Problem for Shmuel",
+      "Shmuel's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Hamnuna's objection and its content (the mishna cases of lo achalti and lo hinachti tefillin, with the question about whether the past oath maps to a valid future formulation), which matches exactly the prose under heading 0 describing this very challenge from the mishna.",
+      "chosen_heading": "Mishnah Proof",
+      "current_heading": "Mishnah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Shmuel's Answer",
+    "candidates": [
+      "Problem for Shmuel",
+      "Shmuel's Answer",
+      "Shevuat Shav Defined"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Hamnuna's resolution (hu masiv lah v'hu mefarek lah) explaining the disjunctive reading of the mishnah, which is precisely what the 'Shmuel's Answer' section discusses.",
+      "chosen_heading": "Shmuel's Answer",
+      "current_heading": "Shmuel's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Shevuat Shav Defined",
+    "candidates": [
+      "Shevuat Shav Defined",
+      "Stone Example Problem",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's objection citing the mishna defining shevuat shav with the stone-pillar example and Ulla's qualification about three people, which is exactly what the 'Shevuat Shav Defined' prose describes \u2014 the subsequent headings cover the deduction and resolution that follow this passage.",
+      "chosen_heading": "Shevuat Shav Defined",
+      "current_heading": "Shevuat Shav Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Stone Example Problem",
+      "Rava's Answer",
+      "Testimony Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's self-posed objection and resolution distinguishing shevuat shav (nikar) from shevuat sheker (lo nikar), which is precisely what candidate 1 'Rava's Answer' describes in its prose.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Testimony Case Setup",
+    "candidates": [
+      "Testimony Case Setup",
+      "Abaye's Innovation",
+      "Past Oaths Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage records Abaye's statement that Rav concedes exemption when one swears 'I know testimony for you' and is found not to know, explaining it is not in the category of 'I do not know testimony' \u2014 this is precisely what the 'Testimony Case Setup' prose describes, including the surprise, the reasoning, and the cross-category distinction.",
+      "chosen_heading": "Testimony Case Setup",
+      "current_heading": "Testimony Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Past Oaths Examples",
+    "candidates": [
+      "Abaye's Innovation",
+      "Past Oaths Examples",
+      "Shmuel's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses 'yadati/lo yadati' and 'he'adati/lo he'adati' as subject to the Rav-Shmuel machloket, which is precisely what the 'Past Oaths Examples' prose describes.",
+      "chosen_heading": "Past Oaths Examples",
+      "current_heading": "Past Oaths Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Shmuel's Explanation",
+    "candidates": [
+      "Shmuel's Explanation",
+      "Rav's Problem",
+      "Abaye's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both sides of the question \u2014 'granted for Shmuel' and 'but for Rav, why did the Torah remove it?' \u2014 which is the foundational question raised in the 'Shmuel's Explanation' section, and the current placement correctly captures this opening formulation before Rav's problem is developed separately.",
+      "chosen_heading": "Shmuel's Explanation",
+      "current_heading": "Shmuel's Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Abaye's Answer",
+    "candidates": [
+      "Rav's Problem",
+      "Abaye's Answer",
+      "Ne'elam Criterion",
+      "Earlier Abaye Statement",
+      "Later Implication",
+      "Contradiction Resolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous chain of the debate before Abaye \u2014 the students' suggestion of two korbanot, Abaye's rejection, the question of why the Torah singled out shevuat ha'edut, Abaye's answer about meizid k'shogeg, the follow-up challenge about intentional vs. unwitting, Abaye's response, and Rava's alternative \u2014 exactly matching the 'Abaye's Answer' section's prose description of this exchange.",
+      "chosen_heading": "Abaye's Answer",
+      "current_heading": "Abaye's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Contradiction Resolved",
+    "candidates": [
+      "Ne'elam Criterion",
+      "Earlier Abaye Statement",
+      "Later Implication",
+      "Contradiction Resolved",
+      "Alternative Resolutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Abaye's statement that Rav concedes exemption when swearing 'I know testimony for you' because the negative form falls under shevuat ha'edut rather than shevuat bituy \u2014 this is precisely the 'earlier Abaye statement' that candidate 1's prose describes as the starting point of the contradiction.",
+      "chosen_heading": "Earlier Abaye Statement",
+      "current_heading": "Contradiction Resolved",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Water & Salt",
+    "candidates": [
+      "Mishna Review",
+      "Tosafos Reading",
+      "Water & Salt",
+      "Techumin Definition",
+      "Eruv Placement",
+      "Eruv Protection",
+      "Special Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states the mishna's rule about ma'aser sheni money and the vow about food, both excluding water and salt \u2014 exactly what the 'Water & Salt' section's prose discusses.",
+      "chosen_heading": "Water & Salt",
+      "current_heading": "Water & Salt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Special Cases",
+    "candidates": [
+      "Techumin Definition",
+      "Eruv Placement",
+      "Eruv Protection",
+      "Special Cases",
+      "Rabbi Yochanan's Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Special Cases",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 are the Mishnah cases about eiruv for a nazir with wine, an Israelite with teruma, and a priest in a beit haperas/graveyard, which are precisely what the 'Special Cases' prose describes.",
+      "second_heading": "Rabbi Yochanan's Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is the Gemara opening with Rabbi Yochanan's principle about not learning from general rules, which is exactly what the 'Rabbi Yochanan's Rule' prose discusses.",
+      "current_heading": "Special Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rabbi Yochanan's Rule",
+    "candidates": [
+      "Rabbi Yochanan's Rule",
+      "Mitzvot Asei Exceptions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's inference from Rabbi Yochanan's precise language ('even in a place where it says except'), prompting the question of which mishna he was originally referencing \u2014 exactly what the prose under 'Rabbi Yochanan's Rule' describes.",
+      "chosen_heading": "Rabbi Yochanan's Rule",
+      "current_heading": "Rabbi Yochanan's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Mitzvot Asei Exceptions",
+    "candidates": [
+      "Mitzvot Asei Exceptions",
+      "Torah Obligation Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the core rule about time-bound commandments (men obligated, women exempt) and non-time-bound commandments (both obligated), which is precisely what the 'Mitzvot Asei Exceptions' prose describes as the foundational formulation Rabbi Yochanan was referencing.",
+      "chosen_heading": "Mitzvot Asei Exceptions",
+      "current_heading": "Mitzvot Asei Exceptions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Torah Obligation Examples",
+    "candidates": [
+      "Torah Obligation Examples",
+      "Rule Paradox",
+      "Zavim Merkav Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the gemara's counterexamples to the time-bound/non-time-bound rule (matzah, simchah, hakhel; Torah study, procreation, pidyon haben) and Rabbi Yochanan's conclusion, which is precisely what the 'Torah Obligation Examples' prose describes in detail.",
+      "chosen_heading": "Torah Obligation Examples",
+      "current_heading": "Torah Obligation Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Zavim Merkav Case",
+    "candidates": [
+      "Rule Paradox",
+      "Zavim Merkav Case",
+      "Fungi Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Zavim merkav/saddle case cited by Abaye/Rabbi Yirmiya, including the pommel distinction and the conclusion about not learning from general rules \u2014 exactly what candidate 1's prose describes in detail.",
+      "chosen_heading": "Zavim Merkav Case",
+      "current_heading": "Zavim Merkav Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Fungi Exception",
+    "candidates": [
+      "Fungi Exception",
+      "Eruv vs. Ma'aser",
+      "Salt Water Dip",
+      "Scope Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Ravina/Rav Nachman statement about fungi and mushrooms as exceptions to the general rule about eruv, which is precisely what the 'Fungi Exception' section's prose discusses in detail.",
+      "chosen_heading": "Fungi Exception",
+      "current_heading": "Fungi Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Scope Comparison",
+    "candidates": [
+      "Eruv vs. Ma'aser",
+      "Salt Water Dip",
+      "Scope Comparison",
+      "Fish Brine Testimony",
+      "Fish in Brine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna about what may be bought with second-tithe money and the dispute between Rabbi Eliezer and Rabbi Yosei bar \u1e24anina about whether their shared ruling pertains to eruv or ma'aser \u2014 exactly what heading 0 ('Eruv vs. Ma'aser') describes in its prose.",
+      "chosen_heading": "Eruv vs. Ma'aser",
+      "current_heading": "Scope Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Fish in Brine",
+    "candidates": [
+      "Fish Brine Testimony",
+      "Fish in Brine",
+      "Oil Addition",
+      "Abaye's Challenge",
+      "Havla'ah Principle",
+      "Cattle Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0's prose introduces the full sequence: the two versions of the water-and-salt ruling (items 1-3), Rabbi Yitzchak's transmission regarding ma'aser, and the fish-brine baraita challenge with its resolution (item 4), matching the complete content of all four items.",
+      "chosen_heading": "Fish Brine Testimony",
+      "current_heading": "Fish in Brine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Cattle Example",
+    "candidates": [
+      "Oil Addition",
+      "Abaye's Challenge",
+      "Havla'ah Principle",
+      "Cattle Example",
+      "Bakar Necessity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together constitute the complete havla'ah discussion \u2014 Rav Yosef's resolution, Abaye's challenge, the gemara's answer about havla'ah, and Ben Bag Bag's baraita confirming it \u2014 which is precisely what the 'Havla'ah Principle' prose section describes in full detail.",
+      "chosen_heading": "Havla'ah Principle",
+      "current_heading": "Cattle Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Bakar Necessity",
+    "candidates": [
+      "Cattle Example",
+      "Bakar Necessity",
+      "Sheep Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yo\u1e25anan's statement about carrying clothes to the bathhouse for whoever can explain 'bakar' according to ben Bag Bag, which is precisely what the 'Bakar Necessity' section's prose describes and contextualizes.",
+      "chosen_heading": "Bakar Necessity",
+      "current_heading": "Bakar Necessity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Sheep Example",
+    "candidates": [
+      "Sheep Example",
+      "Wine Example",
+      "Mead Example",
+      "Each Word Distinct"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explains why 'bakar' (oxen) is actually unnecessary given the other terms, and works through the logic of why each word is needed \u2014 this is precisely what the 'Each Word Distinct' section discusses, including the specific resolution about bakar/tzon and why each term performs irreplaceable work.",
+      "chosen_heading": "Each Word Distinct",
+      "current_heading": "Sheep Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Each Word Distinct",
+    "candidates": [
+      "Wine Example",
+      "Mead Example",
+      "Each Word Distinct",
+      "Ribbuy U'Miu'ut Method",
+      "Three-Term Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 7 items work through the bidirectional proof that each word (tzon, yayin, shechar, bakar) is indispensable \u2014 exactly the content described in the 'Each Word Distinct' prose, which explicitly covers both directions of the argument, Rabbi Yochanan's challenge about bakar, and the resolution that tzon teaches wool while bakar establishes the skin-inclusion principle.",
+      "chosen_heading": "Each Word Distinct",
+      "current_heading": "Each Word Distinct",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Three-Term Rule",
+    "candidates": [
+      "Ribbuy U'Miu'ut Method",
+      "Three-Term Rule",
+      "Klal U'Prat Method",
+      "Inclusion Criteria",
+      "Fish Exclusion",
+      "Tomorrow Preview"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together introduce and elaborate the hermeneutical dispute between ribbuy u'mi'ut and klal u'prat methods, which is precisely what heading 0 ('Ribbuy U'Miu'ut Method') describes as its topic \u2014 the foundational question of what methodological basis underlies the tannaitic disagreement, followed by the application of ribbuy u'mi'ut by Rabbi Yehuda ben Gadish and Rabbi Eliezer, and then the contrasting klal u'prat approach \u2014 all of which belongs under that single introductory heading rather than being split across the later headings that deal with downstream consequences.",
+      "chosen_heading": "Ribbuy U'Miu'ut Method",
+      "current_heading": "Three-Term Rule",
+      "moved": true
+    }
+  }
+]

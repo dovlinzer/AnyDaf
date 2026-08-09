@@ -1,0 +1,366 @@
+[
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Tevel Braitah",
+    "candidates": [
+      "Rav Chisda Intro",
+      "Mamon She'ein Lo",
+      "Ownership vs Mitzvah",
+      "Midat Chasidut",
+      "Tevel Braitah",
+      "Ukimta Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the exact baraita about a homeowner eating tevel and the verse 'asher yarimu' that candidate 4's prose explicitly describes and analyzes.",
+      "chosen_heading": "Tevel Braitah",
+      "current_heading": "Tevel Braitah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Ukimta Distinction",
+    "candidates": [
+      "Ukimta Distinction",
+      "Tosafot Challenge",
+      "Seizure Scenario",
+      "Debt vs Seizure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the gemara's inference from the braita and the ukimta response (matnot shelo hurmu kemi shehurmu damyan), which is precisely what the 'Ukimta Distinction' prose describes.",
+      "chosen_heading": "Ukimta Distinction",
+      "current_heading": "Ukimta Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Debt vs Seizure",
+    "candidates": [
+      "Tosafot Challenge",
+      "Seizure Scenario",
+      "Debt vs Seizure",
+      "Mishtarshe Leh",
+      "Tosafot Distinction",
+      "Organ Braitah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the seizure scenario *ta shema* (item 1) and the *gemara*'s rejection via *mishtarshe leh* (item 2), which together constitute the challenge-and-answer unit that candidate 1 ('Seizure Scenario') introduces \u2014 the *baraita* about the king seizing the granary and whether *ma'aser* is still owed \u2014 while the current placement under 'Debt vs Seizure' (index 2) covers the *braita*'s internal distinction that is actually the content of item 1's translation, and 'Mishtarshe Leh' (index 3) covers the answer in item 2, making candidate 1 the best single home for the whole challenge-and-resolution unit.",
+      "chosen_heading": "Seizure Scenario",
+      "current_heading": "Debt vs Seizure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Organ Braitah",
+    "candidates": [
+      "Mishtarshe Leh",
+      "Tosafot Distinction",
+      "Organ Braitah",
+      "Price vs Weight",
+      "Transfer Question",
+      "Gifts While Exist"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the exact braita about purchasing a cow's innards and the priestly gifts (keivah) being included, which matches the 'Organ Braitah' prose description precisely.",
+      "chosen_heading": "Organ Braitah",
+      "current_heading": "Organ Braitah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Gifts While Exist",
+    "candidates": [
+      "Price vs Weight",
+      "Transfer Question",
+      "Gifts While Exist",
+      "Gift Enumeration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Gemara's challenge (why must the buyer give the maw \u2014 let it be like mazik matnot kehunah) and the rejection (shani hatam d'isnehu b'eineihu), and candidate 1 'Transfer Question' is the section whose prose explicitly discusses this challenge about mazik matnot kehuna/ochlan, while candidate 2 only discusses the answer; the full Talmudic exchange belongs under the heading that introduces the question.",
+      "chosen_heading": "Transfer Question",
+      "current_heading": "Gifts While Exist",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Gift Enumeration",
+    "candidates": [
+      "Gifts While Exist",
+      "Gift Enumeration",
+      "Nichsei Question",
+      "Freedom of Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the nine priestly gifts (*nichsei kohen*) including teruma, \u1e25alla, first shearings, gifts, demai, first fruits, and the principal/fifth \u2014 which matches exactly the prose in 'Gift Enumeration' that describes and analyzes this very braita and its enumerated items.",
+      "chosen_heading": "Gift Enumeration",
+      "current_heading": "Gift Enumeration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Freedom of Use",
+    "candidates": [
+      "Nichsei Question",
+      "Freedom of Use",
+      "Levi Incident",
+      "Rav's Complaint"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that 'nichsei kohen' refers to the kohen's freedom of use/disposition (buying slaves, land, non-kosher animals, paying debts, kesuvah, sefer Torah), which is precisely what the 'Freedom of Use' section's prose discusses.",
+      "chosen_heading": "Freedom of Use",
+      "current_heading": "Freedom of Use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rav's Complaint",
+    "candidates": [
+      "Levi Incident",
+      "Rav's Complaint",
+      "Am Status Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Levite snatching gifts and Rav's response together as a single narrative unit, and candidate 0's prose describes exactly this scene \u2014 the Levite grabbing gifts at the butcher's stall \u2014 while candidate 1's prose separately analyzes only Rav's statement, suggesting the full Gemara passage (which includes both the incident and Rav's reaction) belongs under the 'Levi Incident' heading that introduces the whole story.",
+      "chosen_heading": "Levi Incident",
+      "current_heading": "Rav's Complaint",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Am Status Question",
+    "candidates": [
+      "Rav's Complaint",
+      "Am Status Question",
+      "Rav's Doubt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about whether Levites are called 'am' and the two horns of the dilemma, which is precisely what the 'Am Status Question' prose describes.",
+      "chosen_heading": "Am Status Question",
+      "current_heading": "Am Status Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rav's Doubt",
+    "candidates": [
+      "Rav's Doubt",
+      "Rav Idi Question",
+      "Vineyard Gifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly expresses Rav's uncertainty about whether Levites are called 'am,' which is precisely what the 'Rav's Doubt' section prose discusses.",
+      "chosen_heading": "Rav's Doubt",
+      "current_heading": "Rav's Doubt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Vineyard Gifts",
+    "candidates": [
+      "Rav Idi Question",
+      "Vineyard Gifts",
+      "No Choice Principle",
+      "Poor Give Too",
+      "Maaser Ani House",
+      "Kohen No Choice",
+      "Levi to Kohen",
+      "Field Gifts",
+      "Tree Gifts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa stating a halakha and Rav Idi bar Avin raising an objection to him \u2014 this is precisely what the 'Rav Idi Question' heading describes, not the 'Vineyard Gifts' heading which discusses the content of the baraita rather than the narrative frame of the objection being raised.",
+      "chosen_heading": "Rav Idi Question",
+      "current_heading": "Vineyard Gifts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Tree Gifts",
+    "candidates": [
+      "No Choice Principle",
+      "Poor Give Too",
+      "Maaser Ani House",
+      "Kohen No Choice",
+      "Levi to Kohen",
+      "Field Gifts",
+      "Tree Gifts",
+      "Poverty Lesson",
+      "Ma'aser Rishon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Heading 6's prose explicitly covers all the content in this passage: the scriptural sources for tree gifts, the tovat hana'ah ruling (azivah vs netinah), the poor person's obligation, ma'aser ani's different rule, and the Levite-to-kohen inference \u2014 exactly matching items 1-13 in sequence.",
+      "chosen_heading": "Tree Gifts",
+      "current_heading": "Tree Gifts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Ma'aser Rishon",
+    "candidates": [
+      "Poverty Lesson",
+      "Ma'aser Rishon",
+      "Reishis HaGez",
+      "No Kedusha Cases",
+      "Shechting Braitah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Ma'aser Rishon",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 trace the gemara's attempt to reinterpret the baraita via ma'aser rishon and then reishit hagez, exactly as described in the 'Ma'aser Rishon' prose.",
+      "second_heading": "No Kedusha Cases",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 introduce a new 'ta shema' baraita framed around kedusha vs. non-kedusha items, which is precisely what the 'No Kedusha Cases' prose describes.",
+      "current_heading": "Ma'aser Rishon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Shechting Braitah",
+    "candidates": [
+      "Reishis HaGez",
+      "No Kedusha Cases",
+      "Shechting Braitah",
+      "Corrective Reading",
+      "Counter Argument",
+      "Yom Kippur Verse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shechting Braitah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita about slaughtering for a kohen/gentile being exempt and the initial inference that slaughtering for a levi or yisrael obligates gifts, which matches the 'Shechting Braitah' prose discussing exactly this baraita and its implication.",
+      "second_heading": "Counter Argument",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the counter-argument that the baraita would have listed the levi explicitly as exempt if he were, plus the second baraita explicitly stating 'l'levi u'l'yisrael chayav' as a tiyuvta d'Rav, which matches precisely the 'Counter Argument' prose.",
+      "current_heading": "Shechting Braitah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140,
+      141,
+      142
+    ],
+    "current_heading": "Yom Kippur Verse",
+    "candidates": [
+      "Corrective Reading",
+      "Counter Argument",
+      "Yom Kippur Verse",
+      "Tana Debate",
+      "Rav's Uncertainty"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Yom Kippur Verse",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the first baraita expounding the Yom Kippur verse with 'yechapper eilu haleviyim', which matches heading 2 ('Yom Kippur Verse') exactly.",
+      "second_heading": "Tana Debate",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the second baraita reading 'yechapper eilu avadim', the tannaitic dispute analysis, and Rav's uncertainty, which match headings 3 ('Tana Debate') and 4 ('Rav's Uncertainty') \u2014 but since items 3 and 4 must go together under one heading, heading 3 covers the dispute conclusion and heading 4 covers Rav's uncertainty, making heading 3 the best single fit for items 3-4 given that item 3 introduces the dispute and item 4 resolves Rav's position, though the content of item 4 clearly belongs under heading 4.",
+      "current_heading": "Yom Kippur Verse",
+      "moved": true
+    }
+  }
+]

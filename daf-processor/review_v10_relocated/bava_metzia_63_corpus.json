@@ -1,0 +1,219 @@
+[
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Possession Alternative",
+    "candidates": [
+      "Neshech & Marbis",
+      "Separate Prohibitions",
+      "Returning Ribbis",
+      "Rabbinic Ribbis",
+      "iPhone Subterfuge",
+      "Grain Futures",
+      "Available Market",
+      "Two Requirements",
+      "Debt Conversion",
+      "Tosefta Method",
+      "Debt Collection",
+      "Debt to Wheat",
+      "Wheat to Wine",
+      "Wine to Oil",
+      "Possession Rule",
+      "Hiyya vs. Oshaya",
+      "Mishna Case",
+      "Mishna Reading",
+      "Umai Lakach",
+      "Rashi's View",
+      "Issuro Ba Le-Yado",
+      "Merchandise Possession",
+      "Yatza Ha-Sha'ar",
+      "Delayed Delivery",
+      "Hamtanat Ma'ot",
+      "Opportunity Cost",
+      "Possession Alternative",
+      "Loan Supports Sale",
+      "Goods-Money Equivalence"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wine to Oil",
+      "first_confidence": "high",
+      "first_reason": "Item 1 completes the wine-to-oil conversion chain (the final link in the chad gadya progression) and states the 'yesh lo / ein lo' rule \u2014 exactly what candidate 13 'Wine to Oil' describes.",
+      "second_heading": "Loan Supports Sale",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's three shema mina conclusions drawn from Rabbi Oshaya's Tosefta, which is precisely what candidate 27 'Loan Supports Sale' describes as its first shema mina.",
+      "current_heading": "Possession Alternative",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Goods-Money Equivalence",
+    "candidates": [
+      "Loan Supports Sale",
+      "Goods-Money Equivalence",
+      "Amana in Kind"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yannai's principle 'ma li hen ma li dmeihen' which is precisely what candidate 1's prose discusses as the second shema mina conclusion.",
+      "chosen_heading": "Goods-Money Equivalence",
+      "current_heading": "Goods-Money Equivalence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Amana in Kind",
+    "candidates": [
+      "Amana in Kind",
+      "Rabbi Yannai",
+      "Tosefta Contradiction",
+      "Quasi-Possession",
+      "Ownership Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Rav/Rabbi Yannai dispute that underlies the amana ruling, and the current heading's prose explicitly introduces 'osin amana b'perot, ein osin amana b'damim' as Rava's position, making this the natural home for the source text stating that very dispute \u2014 the Rabbi Yannai heading's prose discusses his disagreement as a follow-on, but the gemara quote covers both positions together and is best anchored under the heading that introduces the core amana distinction.",
+      "chosen_heading": "Amana in Kind",
+      "current_heading": "Amana in Kind",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Ownership Transfer",
+    "candidates": [
+      "Rabbi Yannai",
+      "Tosefta Contradiction",
+      "Quasi-Possession",
+      "Ownership Transfer",
+      "Shmuel Proposal",
+      "Tzad Echad",
+      "Field Collateral",
+      "Peiros Question",
+      "Yehuda's Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the *meitivei* challenge against Rava from the baraita ('kullam, im yesh lo, mutar') plus Rav Huna's answer about meshicha/keren zavis \u2014 exactly the 'Tosefta Contradiction' section's prose, which describes this very objection and its resolution.",
+      "chosen_heading": "Tosefta Contradiction",
+      "current_heading": "Ownership Transfer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Yehuda's Condition",
+    "candidates": [
+      "Shmuel Proposal",
+      "Tzad Echad",
+      "Field Collateral",
+      "Peiros Question",
+      "Yehuda's Condition",
+      "Ribbis Conditional"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items \u2014 Shmuel attributing the baraita to Rabbi Yehuda's tzad echad leniency, the baraita itself about seller/buyer consuming produce, and the Beisus ben Zunin incident with the Rabbis' rebuttal \u2014 are precisely what the 'Yehuda's Condition' prose describes, including the Tanna Kamma/Rabbi Yehuda dispute, the peiros scenarios, and the Beisus ben Zunin precedent and counter-argument.",
+      "chosen_heading": "Yehuda's Condition",
+      "current_heading": "Yehuda's Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Ribbis Conditional",
+    "candidates": [
+      "Ribbis Conditional",
+      "Joint Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ribbis Conditional",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (the Abaye/Rava dispute about tzad echad b'ribbis and ribbis al menas lehachazir) directly match the 'Ribbis Conditional' prose describing exactly those two opinions.",
+      "second_heading": "Joint Position",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 (Rava's ruling about poskin al sha'ar she-ba-shuk even without possession, and the objection from Rav Pappa and Rav Huna) match the 'Joint Position' prose about fixing price by market rate even when the seller lacks the produce.",
+      "current_heading": "Ribbis Conditional",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Joint Position",
+    "candidates": [
+      "Joint Position",
+      "Independent Purchase",
+      "Counterfactual",
+      "Grain Loan",
+      "Framing Matters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the joint statement of Rabba and Rav Yosef establishing the principle that one may fix a price by market rate even without possession, which is precisely what the 'Joint Position' prose describes.",
+      "chosen_heading": "Joint Position",
+      "current_heading": "Joint Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Framing Matters",
+    "candidates": [
+      "Independent Purchase",
+      "Counterfactual",
+      "Grain Loan",
+      "Framing Matters",
+      "Middleman Fees",
+      "Broker Compensation",
+      "Money as Middleman",
+      "Sale vs. Loan",
+      "Buyer Perspective",
+      "Iska Partnership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abaye's objection about lending a se'ah for a se'ah and Rav Yosef's response distinguishing loan from sale, which is precisely what the 'Grain Loan' section's prose describes.",
+      "chosen_heading": "Grain Loan",
+      "current_heading": "Framing Matters",
+      "moved": true
+    }
+  }
+]

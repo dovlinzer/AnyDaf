@@ -1,0 +1,210 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Liens & Documentation",
+    "candidates": [
+      "Three Owners & Shetar",
+      "Shetar vs. Witnesses",
+      "Liens & Documentation",
+      "Loan vs. Sale Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna contrasting shetar-based collection from liened property versus witness-based collection only from free property, which is exactly what the 'Liens & Documentation' section's prose describes as the well-known mishnah grounding the shetar/witnesses distinction in the context of lending and liens.",
+      "chosen_heading": "Liens & Documentation",
+      "current_heading": "Liens & Documentation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Loan vs. Sale Logic",
+    "candidates": [
+      "Loan vs. Sale Logic",
+      "Privacy & Publicity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav and Shmuel's ruling that a loan by oral contract creates no liens against heirs or buyers, which is precisely the tension within Rav's own rulings that the 'Loan vs. Sale Logic' section introduces and discusses.",
+      "chosen_heading": "Loan vs. Sale Logic",
+      "current_heading": "Loan vs. Sale Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Privacy & Publicity",
+    "candidates": [
+      "Privacy & Publicity",
+      "Father-Son Succession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the distinction between loans (conducted privately) and sales (conducted publicly), which is precisely what the 'Privacy & Publicity' section's prose elaborates on in detail.",
+      "chosen_heading": "Privacy & Publicity",
+      "current_heading": "Privacy & Publicity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Father-Son Succession",
+    "candidates": [
+      "Father-Son Succession",
+      "Sale as Protest",
+      "Unspecified vs. Specific"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Father-Son Succession",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita enumerating father-son-buyer permutations, which is precisely what heading 0's prose describes as its core content.",
+      "second_heading": "Sale as Protest",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the contradiction about whether a lokeach generates publicity and whether the sale constitutes a mecha'ah, which is exactly what heading 1's prose ('Sale as Protest') discusses.",
+      "current_heading": "Father-Son Succession",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Unspecified vs. Specific",
+    "candidates": [
+      "Sale as Protest",
+      "Unspecified vs. Specific",
+      "Craftsmen & Chattel",
+      "Partnership & Status",
+      "Family Relations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Rav Pappa's statement distinguishes selling fields 'without specification' from a specific sale, which is precisely the subject of the 'Unspecified vs. Specific' section's prose about generic versus particularized conveyances as mecha'ah.",
+      "chosen_heading": "Unspecified vs. Specific",
+      "current_heading": "Unspecified vs. Specific",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Family Relations",
+    "candidates": [
+      "Craftsmen & Chattel",
+      "Partnership & Status",
+      "Family Relations",
+      "Benefit & Presumption",
+      "Effectuating Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The mishna covers all categories (craftsmen, partners, sharecroppers, stewards, spouses, parent-child) as a single unit, and heading 0 'Craftsmen & Chattel' is the prose section that introduces this mishnah as enumerating categories lacking chazaka, making it the opening/introductory heading for the whole passage \u2014 though heading 2 'Family Relations' is where it currently sits, heading 0's prose explicitly references the start of this mishnah and the other headings merely elaborate on sub-portions of it, so the full mishna text best anchors under the first heading that introduces it.",
+      "chosen_heading": "Craftsmen & Chattel",
+      "current_heading": "Family Relations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Effectuating Ownership",
+    "candidates": [
+      "Benefit & Presumption",
+      "Effectuating Ownership",
+      "Acts of Improvement",
+      "Partners Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage distinguishes between chazaka of mere possession (demonstrating ownership) and chazaka that effectuates acquisition in cases of gifts, inheritance division, and a convert's estate \u2014 precisely what the 'Effectuating Ownership' prose describes.",
+      "chosen_heading": "Effectuating Ownership",
+      "current_heading": "Effectuating Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Partners Exception",
+    "candidates": [
+      "Acts of Improvement",
+      "Partners Exception",
+      "Partners as Guardians",
+      "Implied Permission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the dispute between Shmuel's father/Levi and Shmuel regarding whether partners and craftsmen have chazaka, which is precisely what the 'Partners Exception' prose describes.",
+      "chosen_heading": "Partners Exception",
+      "current_heading": "Partners Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Implied Permission",
+    "candidates": [
+      "Partners as Guardians",
+      "Implied Permission",
+      "Full vs. Half Field"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the contradiction between Shmuel's ruling that a partner has chazaka and his ruling that a partner is considered as one entering with permission (shutaf ke-yored birshut dami), and the Gemara's resolution by distinguishing full vs. half field entry \u2014 exactly what the 'Implied Permission' section's prose describes.",
+      "chosen_heading": "Implied Permission",
+      "current_heading": "Implied Permission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Full vs. Half Field",
+    "candidates": [
+      "Full vs. Half Field",
+      "Field Divisibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly records the 'some say it one way and some say the other' dispute about half vs. full field possession, which is exactly what the 'Full vs. Half Field' section's prose discusses.",
+      "chosen_heading": "Full vs. Half Field",
+      "current_heading": "Full vs. Half Field",
+      "moved": false
+    }
+  }
+]

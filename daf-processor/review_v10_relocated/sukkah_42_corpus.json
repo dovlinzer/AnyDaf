@@ -1,0 +1,405 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Prior Topics",
+    "candidates": [
+      "Daf Overview",
+      "Prior Topics",
+      "Woman Taking Lulav",
+      "Yehuda Water Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage deals precisely with Rabbi Yosei's ruling about exemption from a sin-offering when one errs in the course of a mitzva (items 1-3), then Rav Huna's extension of that principle to the bird-offering case (items 4-7), which is exactly what the 'Prior Topics' prose describes as the concluded discussion about Rabbi Yose's position on inadvertent Shabbos violation during mitzva performance.",
+      "chosen_heading": "Prior Topics",
+      "current_heading": "Prior Topics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Yehuda Water Rules",
+    "candidates": [
+      "Woman Taking Lulav",
+      "Yehuda Water Rules",
+      "Minor's Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna containing both the woman-receiving-lulav rule and Rabbi Yehuda's water distinctions, and heading 0 ('Woman Taking Lulav') discusses this entire Mishna including both the woman-receiving portion and the water-returning permission, making it the natural home for the full Mishna text before the Gemara's analysis begins.",
+      "chosen_heading": "Woman Taking Lulav",
+      "current_heading": "Yehuda Water Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Minor's Obligation",
+    "candidates": [
+      "Yehuda Water Rules",
+      "Minor's Obligation",
+      "Woman Can Take"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact Mishnaic text about a minor who knows how to wave the lulav being obligated, which is precisely what the 'Minor's Obligation' section's prose discusses.",
+      "chosen_heading": "Minor's Obligation",
+      "current_heading": "Minor's Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Woman Can Take",
+    "candidates": [
+      "Woman Can Take",
+      "Muktzah Analysis",
+      "Shofar Parallel",
+      "Tanu Rabanan Intro",
+      "Lulav Waving"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's pshita question and the muktzah concern for women not obligated in lulav, which is precisely what the 'Woman Can Take' section's prose describes.",
+      "chosen_heading": "Woman Can Take",
+      "current_heading": "Woman Can Take",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Lulav Waving",
+    "candidates": [
+      "Muktzah Analysis",
+      "Shofar Parallel",
+      "Tanu Rabanan Intro",
+      "Lulav Waving",
+      "Tzitzit Wrapping",
+      "Tefillin Body Guard",
+      "Tefillin Delay",
+      "Torah Learning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the full braita listing all the mitzvos (lulav, tzitzis, tefillin, Torah/Shema) and belongs under the 'Tanu Rabanan Intro' heading which explicitly introduces this comprehensive braita list, rather than under 'Lulav Waving' which only discusses the lulav portion.",
+      "chosen_heading": "Tanu Rabanan Intro",
+      "current_heading": "Lulav Waving",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Torah Learning",
+    "candidates": [
+      "Tzitzit Wrapping",
+      "Tefillin Body Guard",
+      "Tefillin Delay",
+      "Torah Learning",
+      "Rambam's Method",
+      "Tumah Guards",
+      "Safek Tamei Principle",
+      "Kohen Duchenan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses what Torah and Shema are taught to a child who has just learned to speak, with Rav Hamnuna's answer about 'Torah tziva lanu Moshe morasha kehilas Yaakov' \u2014 exactly the content discussed in the 'Torah Learning' section's prose.",
+      "chosen_heading": "Torah Learning",
+      "current_heading": "Torah Learning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Kohen Duchenan",
+    "candidates": [
+      "Rambam's Method",
+      "Tumah Guards",
+      "Safek Tamei Principle",
+      "Kohen Duchenan",
+      "Shechita Skill"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all four sub-rules of the braita (guarding body, guarding hands, knowing to be asked/safek tumah rules, and spreading hands for terumah) as a continuous unit, and candidate 1 ('Tumah Guards') is the section whose prose introduces this entire braita sequence beginning with hayodea lishmor gufo, making it the natural home for the full quoted text rather than splitting it under the later 'Kohen Duchenan' heading.",
+      "chosen_heading": "Tumah Guards",
+      "current_heading": "Kohen Duchenan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Shechita Skill",
+    "candidates": [
+      "Kohen Duchenan",
+      "Shechita Skill",
+      "Shechita Knowledge",
+      "Grain Odor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara text about a minor who knows how to slaughter and Rav Huna's condition about an adult supervising, which is exactly what the 'Shechita Skill' prose section introduces and discusses.",
+      "chosen_heading": "Shechita Skill",
+      "current_heading": "Shechita Skill",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Grain Odor",
+    "candidates": [
+      "Shechita Knowledge",
+      "Grain Odor",
+      "Pesach Meat",
+      "Food Discernment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the grain-eating threshold for distancing from excrement/urine, Rav \u1e24isda's achilas pras refinement, and Rav \u1e24iyya's adult ruling \u2014 exactly what the 'Grain Odor' prose describes in detail.",
+      "chosen_heading": "Grain Odor",
+      "current_heading": "Grain Odor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Food Discernment",
+    "candidates": [
+      "Pesach Meat",
+      "Food Discernment",
+      "Perek Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the olive-bulk criterion AND Rabbi Yehuda's discernment criterion as a unified Mishnaic text, and candidate 0 ('Pesach Meat') is the section that begins discussing this passage from its start, while candidate 1 only covers Rabbi Yehuda's addition \u2014 the full passage belongs under the heading that covers the complete unit starting with the ability to eat roasted meat.",
+      "chosen_heading": "Pesach Meat",
+      "current_heading": "Food Discernment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Perek Structure",
+    "candidates": [
+      "Food Discernment",
+      "Perek Structure",
+      "Lulav & Arava",
+      "Hallel & Simcha",
+      "Sukkah & Water",
+      "Chalil Days",
+      "Lulav 7 Days"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Perek Structure",
+      "first_confidence": "high",
+      "first_reason": "The Hadran ('May we return to you, chapter Lulav HaGazul') is the closing formula of the third perek, which candidate 1 ('Perek Structure') explicitly discusses as concluding before the fourth perek begins.",
+      "second_heading": "Lulav & Arava",
+      "second_confidence": "high",
+      "second_reason": "The Mishna text listing the days for lulav/arava, hallel, sukka, and chalil is the opening Mishna of the fourth perek, and candidate 2 ('Lulav & Arava') begins by quoting and explaining 'lulav v'arava shisha v'shiva' \u2014 the exact content of this Mishna's opening clause.",
+      "current_heading": "Perek Structure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Lulav 7 Days",
+    "candidates": [
+      "Lulav & Arava",
+      "Hallel & Simcha",
+      "Sukkah & Water",
+      "Chalil Days",
+      "Lulav 7 Days",
+      "Lulav 6 Days",
+      "Arava 7 Days"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly explains 'lulav shiva keitzad' \u2014 when the first day of Yom Tov falls on Shabbat yielding seven days \u2014 which is exactly what the 'Lulav 7 Days' section prose describes.",
+      "chosen_heading": "Lulav 7 Days",
+      "current_heading": "Lulav 7 Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Arava 7 Days",
+    "candidates": [
+      "Lulav 6 Days",
+      "Arava 7 Days",
+      "Arava 6 Days",
+      "Bringing to Temple"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the seven-day arava ritual and the case where the seventh day falls on Shabbat, which matches exactly the 'Arava 7 Days' section prose.",
+      "chosen_heading": "Arava 7 Days",
+      "current_heading": "Arava 7 Days",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Bringing to Temple",
+    "candidates": [
+      "Arava 6 Days",
+      "Bringing to Temple",
+      "Portico Storage",
+      "Gift Declaration",
+      "Shabbat Chaos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the complete procedure of bringing lulavim to the Temple Mount before Shabbat, which matches the 'Bringing to Temple' section's prose about people bringing their lulavim to Har HaBayis before Shabbat \u2014 the current placement is correct.",
+      "chosen_heading": "Bringing to Temple",
+      "current_heading": "Bringing to Temple",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Shabbat Chaos",
+    "candidates": [
+      "Portico Storage",
+      "Gift Declaration",
+      "Shabbat Chaos",
+      "Takkanah Decision",
+      "Tiltul Question",
+      "Tosafos Muktzah",
+      "Rabbah Gezeirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the court's enactment that each person should take their lulav at home after seeing the danger, which is precisely what the 'Takkanah Decision' section's prose discusses.",
+      "chosen_heading": "Takkanah Decision",
+      "current_heading": "Shabbat Chaos",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Rabbah Gezeirah",
+    "candidates": [
+      "Takkanah Decision",
+      "Tiltul Question",
+      "Tosafos Muktzah",
+      "Rabbah Gezeirah",
+      "First Day Home Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbah's gezeirah answer and its extension to shofar and megillah, which is precisely what the 'Rabbah Gezeirah' section's prose discusses in detail.",
+      "chosen_heading": "Rabbah Gezeirah",
+      "current_heading": "Rabbah Gezeirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "First Day Home Rule",
+    "candidates": [
+      "First Day Home Rule",
+      "Biblical vs Rabbinic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the challenge about the first day and the response about the Rabbinic ordinance to take lulav at home, which is precisely what the 'First Day Home Rule' prose describes, not the further question about the pre-takkanah period which belongs under 'Biblical vs Rabbinic'.",
+      "chosen_heading": "First Day Home Rule",
+      "current_heading": "First Day Home Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Biblical vs Rabbinic",
+    "candidates": [
+      "Biblical vs Rabbinic",
+      "Shofar Puzzle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the distinction between the first day (biblically obligatory everywhere) and remaining days (only biblically obligatory in the Temple), which is precisely what the 'Biblical vs Rabbinic' section's prose discusses.",
+      "chosen_heading": "Biblical vs Rabbinic",
+      "current_heading": "Biblical vs Rabbinic",
+      "moved": false
+    }
+  }
+]

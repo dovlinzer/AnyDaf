@@ -1,0 +1,217 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Debate Structure",
+    "candidates": [
+      "Mishna Overview",
+      "Rabbinic vs. Torah Acts",
+      "Debate Structure",
+      "Mehani Concept",
+      "Public Confusion Risk",
+      "Rabbinic Necessity",
+      "Biah After Get",
+      "Gezeirah Logic",
+      "Chalitzah vs. Biah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chalitzah vs. Biah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the Mishnaic ruling that biah at the beginning leaves nothing after it while biah in the middle/end does, plus Rabbi Ne\u1e25emya's view that both biah and chalitzah leave nothing after them \u2014 this is the content of the 'Chalitzah vs. Biah' section which concludes with the principle that chalitzah after any prior act is fully valid and ends the process.",
+      "second_heading": "Debate Structure",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the opening Gemara line establishing that Rabban Gamliel and the Rabbis disagree only regarding get after get and maimar after maimar, but a single get or maimar is effective \u2014 this directly introduces the Debate Structure section's analysis of the Rabban Gamliel vs. chachamim dispute.",
+      "current_heading": "Debate Structure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Chalitzah vs. Biah",
+    "candidates": [
+      "Mehani Concept",
+      "Public Confusion Risk",
+      "Rabbinic Necessity",
+      "Biah After Get",
+      "Gezeirah Logic",
+      "Chalitzah vs. Biah",
+      "All-or-Nothing Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All six items discuss exactly the topics covered in the 'Chalitzah vs. Biah' prose: items 1-2 explain why get and maimar must be effective (public confusion rationale), items 3-4 explain biah pesulah and the gezeirah logic, and items 5-6 explain why chalitzah after get/maimar is not rendered pesulah \u2014 precisely the content the prose describes with 'mai nigzar,' 'kol ki hani tachlots v'teitzei,' and the argument about chalitzah after maimar requiring a get just as chalitzah after biah does.",
+      "chosen_heading": "Chalitzah vs. Biah",
+      "current_heading": "Chalitzah vs. Biah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "All-or-Nothing Logic",
+    "candidates": [
+      "All-or-Nothing Logic",
+      "Consistency Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute Rava's explanation of Rabban Gamliel's binary 'all-or-nothing' reasoning about get and maimar, which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "All-or-Nothing Logic",
+      "current_heading": "All-or-Nothing Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Consistency Argument",
+    "candidates": [
+      "Consistency Argument",
+      "Abaye's Challenge",
+      "Two Halves Concept",
+      "Slot Division",
+      "Same vs. Different Acts",
+      "Partial Connection Effect",
+      "Chalitzah Efficacy",
+      "Individual Slots",
+      "Problematic Efficacy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Abaye's Challenge",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 present Abaye's challenge to Rabban Gamliel's binary model and the difficulty of biah pesulah, matching the 'Abaye's Challenge' prose exactly.",
+      "second_heading": "Slot Division",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20134 present Abaye's resolution via the two-halves concept and the Rabbis' individuated-slots position, matching the 'Two Halves Concept' prose which begins 'Ella amar Abaye' and explains get/maimar as addressing distinct halves of the zikah.",
+      "current_heading": "Consistency Argument",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Problematic Efficacy",
+    "candidates": [
+      "Abaye's Challenge",
+      "Two Halves Concept",
+      "Slot Division",
+      "Same vs. Different Acts",
+      "Partial Connection Effect",
+      "Chalitzah Efficacy",
+      "Individual Slots",
+      "Problematic Efficacy",
+      "RG: Two Gets Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage explicitly compares biah pesulah to maimar in both its superior and inferior aspects \u2014 exactly the content described in candidate 7's prose, which quotes the same Aramaic formulations (adifa mi'ma'amar, gri'ah mi'ma'amar) and explains the same distinctions about maimar achar maimar vs. biah achar maimar, and maimar achar get vs. biah achar get.",
+      "chosen_heading": "Problematic Efficacy",
+      "current_heading": "Problematic Efficacy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "RG: Two Gets Rule",
+    "candidates": [
+      "RG: Two Gets Rule",
+      "Chachamim: Both Divorced",
+      "Parallel: Two Brothers",
+      "RG: Two Maimars Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "RG: Two Gets Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabban Gamliel's ruling on two yevamot receiving gets, which matches heading 0's prose about RG's two-gets rule and the case of natan get l'zo v'get l'zo.",
+      "second_heading": "Chachamim: Both Divorced",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the Rabbis' dissenting ruling (asur b'krovot shteihen) plus the parallel two-yevamin case, matching heading 1's prose about chachamim forbidding relatives of both and heading 2's parallel brothers case \u2014 but since item 2 contains both the Rabbis' ruling AND the parallel case in one sentence, it best fits under heading 1 which explicitly discusses the chachamim's position including chalitzah l'achat mehen and the symmetric case.",
+      "current_heading": "RG: Two Gets Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "RG: Two Maimars Rule",
+    "candidates": [
+      "Chachamim: Both Divorced",
+      "Parallel: Two Brothers",
+      "RG: Two Maimars Rule",
+      "Chachamim: Both Need Get",
+      "Contradiction Setup",
+      "Shmuel's Ruling",
+      "RG: No Zikah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "RG: Two Maimars Rule",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita presenting the two-maimar case with Rabban Gamliel's and the Rabbis' rulings, which is exactly what candidate 2 ('RG: Two Maimars Rule') describes \u2014 the case of maimar with two yevamot and Rabban Gamliel's ruling that only the first maimar was operative.",
+      "second_heading": "Contradiction Setup",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the Gemara's challenge from Shmuel's ruling (chalatz l'ba'alas haget lo nifterah tzarah) against Rabban Gamliel's position, which is precisely what candidate 4 ('Contradiction Setup') describes as the setup of the contradiction between Shmuel and Rabban Gamliel.",
+      "current_heading": "RG: Two Maimars Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "RG: No Zikah",
+    "candidates": [
+      "Chachamim: Both Need Get",
+      "Contradiction Setup",
+      "Shmuel's Ruling",
+      "RG: No Zikah",
+      "Chalitzah Without Zikah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items follow directly from Shmuel's explanation that his ruling was stated according to the view of 'yeish zikah,' which is precisely what the 'Shmuel's Ruling' section discusses \u2014 the passage then traces the inference about Rabban Gamliel's 'ein zikah' position and its implications, all as a continuous chain of reasoning initiated by Shmuel's doctrinal clarification.",
+      "chosen_heading": "Shmuel's Ruling",
+      "current_heading": "RG: No Zikah",
+      "moved": true
+    }
+  }
+]

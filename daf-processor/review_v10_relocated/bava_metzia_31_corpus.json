@@ -1,0 +1,456 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Abaye and the Goats",
+    "candidates": [
+      "Personal Precedence",
+      "Kavod Habriyot",
+      "Rava: Engagement Obligate",
+      "Livestock Exception",
+      "Abaye and the Goats",
+      "Unresolved Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes Abaye sitting before Rabba, seeing goats, throwing a clod of dirt at them, and Rabba telling him he is now obligated to return them \u2014 this is precisely the narrative illustration discussed under 'Abaye and the Goats,' which matches the current placement exactly.",
+      "chosen_heading": "Abaye and the Goats",
+      "current_heading": "Abaye and the Goats",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Unresolved Question",
+    "candidates": [
+      "Unresolved Question",
+      "Rava's Self-Reference",
+      "Context-Dependent Dignity",
+      "Prika and Te'ina",
+      "Bundle of Sticks Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Unresolved Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the unresolved dilemma about field vs. city dignity, which is precisely what candidate 0's prose discusses in detail, concluding with teiku.",
+      "second_heading": "Rava's Self-Reference",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's ruling about using one's own behavior as the diagnostic for dignity, which is exactly what candidate 1's prose ('Rava's Self-Reference') discusses.",
+      "current_heading": "Unresolved Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Bundle of Sticks Story",
+    "candidates": [
+      "Rava's Self-Reference",
+      "Context-Dependent Dignity",
+      "Prika and Te'ina",
+      "Bundle of Sticks Story",
+      "Why Not Exempt?",
+      "Rabbi Yishmael's Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute the bundle-of-sticks episode (buying, declaring hefker, the man reacquiring, and Rabbi Yishmael's final declaration), which is precisely what candidate 3's prose describes in detail.",
+      "chosen_heading": "Bundle of Sticks Story",
+      "current_heading": "Bundle of Sticks Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39
+    ],
+    "current_heading": "Rabbi Yishmael's Model",
+    "candidates": [
+      "Why Not Exempt?",
+      "Rabbi Yishmael's Model",
+      "Rav Yosef's Teaching",
+      "Five Life Principles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the hefker challenge (Beit Shammai/Beit Hillel), its resolution (l'chulei alma afkrinehu), and the dignity/lifnim mishurat hadin exchange \u2014 are explicitly discussed in candidate 1's prose, which covers exactly this sequence of Gemara questions and answers.",
+      "chosen_heading": "Rabbi Yishmael's Model",
+      "current_heading": "Rabbi Yishmael's Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Five Life Principles",
+    "candidates": [
+      "Rav Yosef's Teaching",
+      "Five Life Principles",
+      "Ben Gilo Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the actual quoted baraita of Rav Yosef that heading 0 explicitly introduces and discusses, while heading 1 ('Five Life Principles') is the prose that analyzes/unpacks the baraita's content after it has been presented.",
+      "chosen_heading": "Rav Yosef's Teaching",
+      "current_heading": "Five Life Principles",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Ben Gilo Obligation",
+    "candidates": [
+      "Five Life Principles",
+      "Ben Gilo Obligation",
+      "Burial Dignity Question",
+      "Jerusalem's Destruction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ben Gilo Obligation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses the ben gilo question for bikkur cholim, which is precisely what candidate 1 ('Ben Gilo Obligation') discusses in detail.",
+      "second_heading": "Burial Dignity Question",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the burial/k'vurah question and the elderly person's dignity, which is exactly what candidate 2 ('Burial Dignity Question') discusses.",
+      "current_heading": "Ben Gilo Obligation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Jerusalem's Destruction",
+    "candidates": [
+      "Burial Dignity Question",
+      "Jerusalem's Destruction",
+      "Grazing on Path",
+      "Signs of Loss"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara text about Jerusalem's destruction and lifnim mishurat hadin that the prose of candidate 1 explicitly discusses and quotes.",
+      "chosen_heading": "Jerusalem's Destruction",
+      "current_heading": "Jerusalem's Destruction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Signs of Loss",
+    "candidates": [
+      "Grazing on Path",
+      "Signs of Loss",
+      "Three-Day Rule",
+      "Early-Late Observations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the opening Mishnah and its immediate Gemara discussion about what constitutes lost property, which candidate 0 ('Grazing on Path') directly introduces with its prose about the mishnah's question 'eizo hi aveidah' and Rav Yehuda's explanation \u2014 the current placement under 'Signs of Loss' (candidate 1) is where this material leads into, but the passage itself belongs under candidate 0 which sets up the very question these items address.",
+      "chosen_heading": "Grazing on Path",
+      "current_heading": "Signs of Loss",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Early-Late Observations",
+    "candidates": [
+      "Three-Day Rule",
+      "Early-Late Observations",
+      "Flood Protection",
+      "Rava's Abstraction",
+      "Objects vs. Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question-and-answer sequence resolving the three-day rule by specifying the early-morning/late-night observation case (*b'kadmusa u'v'chashachta*), which is precisely what the 'Early-Late Observations' prose describes.",
+      "chosen_heading": "Early-Late Observations",
+      "current_heading": "Early-Late Observations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Objects vs. Land",
+    "candidates": [
+      "Flood Protection",
+      "Rava's Abstraction",
+      "Objects vs. Land",
+      "Pikuach Nefesh",
+      "Contradiction Identified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous discussion \u2014 the baraita about flood protection (items 1-2), Rava's land-loss derivation and Rav \u1e24ananya's citation of that baraita as support (item 3), and Rava's refutation about sheaves vs. land (item 4) \u2014 which is precisely what 'Objects vs. Land' prose describes.",
+      "chosen_heading": "Objects vs. Land",
+      "current_heading": "Objects vs. Land",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Contradiction Identified",
+    "candidates": [
+      "Pikuach Nefesh",
+      "Contradiction Identified",
+      "Context Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the internal contradiction within the mishnah between the two clauses about grazing/running on path vs. vineyards, which is exactly what the 'Contradiction Identified' section's prose describes.",
+      "chosen_heading": "Contradiction Identified",
+      "current_heading": "Contradiction Identified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Context Resolution",
+    "candidates": [
+      "Context Resolution",
+      "Direction Matters",
+      "Two Aveidah Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's 'yagid alav re'o' interpretation explaining that the mishnah's cases (grazing on path / running in vineyard) implicitly cover their counterparts, which is precisely what the 'Context Resolution' prose describes.",
+      "chosen_heading": "Context Resolution",
+      "current_heading": "Context Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Two Aveidah Types",
+    "candidates": [
+      "Direction Matters",
+      "Two Aveidah Types",
+      "Running in Vineyards"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Direction Matters",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are Rava's challenge and his resolution about direction of movement (toward field vs. toward city), which directly matches the 'Direction Matters' prose.",
+      "second_heading": "Running in Vineyards",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 cover the aveidat gufa/karka distinction, why running wounds the animal but grazing does not, and the gentile land answer \u2014 all of which are explicitly addressed in the 'Running in Vineyards' prose.",
+      "current_heading": "Two Aveidah Types",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Running in Vineyards",
+    "candidates": [
+      "Two Aveidah Types",
+      "Running in Vineyards",
+      "Doubling Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the scenario of an animal on non-Jewish property being killed, the practice of warning before killing, and the concept of aveidah mida'ato \u2014 all of which are explicitly described in the 'Running in Vineyards' prose section.",
+      "chosen_heading": "Running in Vineyards",
+      "current_heading": "Running in Vineyards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Doubling Ambiguity",
+    "candidates": [
+      "Doubling Ambiguity",
+      "First Word Indicates Many",
+      "Teshivem Extension",
+      "Return Without Notifying"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Doubling Ambiguity",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the challenge to Rava about whether hashev/teshivem implies only twice, which is precisely what heading 0 'Doubling Ambiguity' describes.",
+      "second_heading": "Teshivem Extension",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rava's response that hashev implies even 100 times and that teshivem extends return to garden/ruins, which matches heading 2 'Teshivem Extension' exactly, including the protected/unprotected location question.",
+      "current_heading": "Doubling Ambiguity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Return Without Notifying",
+    "candidates": [
+      "First Word Indicates Many",
+      "Teshivem Extension",
+      "Return Without Notifying",
+      "Shiluach Hakan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses whether hashavat aveidah requires da'at ba'alim (owner's knowledge) and cites Rabbi Elazar's ruling that it does not, which is precisely what the 'Return Without Notifying' section's prose describes.",
+      "chosen_heading": "Return Without Notifying",
+      "current_heading": "Return Without Notifying",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Shiluach Hakan",
+    "candidates": [
+      "Shiluach Hakan",
+      "Hochacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the mitzva of shiluach hakan (dispatching the mother bird), matching exactly the prose under heading 0 which describes Rava's response about shale'ach implying even a hundred times and tishalach extending the obligation to cases involving a mitzvah purpose.",
+      "chosen_heading": "Shiluach Hakan",
+      "current_heading": "Shiluach Hakan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Hochacha",
+    "candidates": [
+      "Hochacha",
+      "Ezov Ta'azov, Hakem Takim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the hocheach tochiach rebuke obligation \u2014 the question about whether it means twice and Rava's answer that it means many times and extends to student rebuking teacher \u2014 which exactly matches the prose under heading 0.",
+      "chosen_heading": "Hochacha",
+      "current_heading": "Hochacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Ezov Ta'azov, Hakem Takim",
+    "candidates": [
+      "Ezov Ta'azov, Hakem Takim",
+      "Unloading Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal with the double-verb derivations for azov ta'azov and hakem takim, which is precisely what candidate 0's prose describes \u2014 extending the unloading and reloading obligations to cases where the owner is absent.",
+      "chosen_heading": "Ezov Ta'azov, Hakem Takim",
+      "current_heading": "Ezov Ta'azov, Hakem Takim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143,
+      144,
+      145,
+      146,
+      147
+    ],
+    "current_heading": "Unloading Rationale",
+    "candidates": [
+      "Unloading Rationale",
+      "Aveidah Rationale",
+      "Reloading Paid",
+      "Rabbi Shimon View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Unloading Rationale",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss why both prika and te'ina must be written (including the remuneration asymmetry and Rabbi Shimon's view), matching candidates 0, 2, and 3 in sequence \u2014 but since all three are one continuous Talmudic chain, they belong under the current heading 0 which introduces the prika/te'ina necessity question, with items 2-3 naturally following.",
+      "second_heading": "Aveidah Rationale",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 address why the Torah must write both the prika/te'ina mitzvot AND aveidah, specifically using the reasoning about the owner's presence (de'ita le-marei bahadah), which matches exactly the prose of candidate 1 'Aveidah Rationale'.",
+      "current_heading": "Unloading Rationale",
+      "moved": true
+    }
+  }
+]

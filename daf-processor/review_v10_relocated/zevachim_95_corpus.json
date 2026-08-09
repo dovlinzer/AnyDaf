@@ -1,0 +1,353 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Pottery Vessels",
+    "candidates": [
+      "Blood Left Azarah",
+      "Tearing Garment",
+      "Pottery Vessels",
+      "Metal Vessels",
+      "Challenge to Tearing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Blood Left Azarah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna covering garments and earthenware vessels, which matches heading 0 ('Blood Left Azarah') and heading 2 ('Pottery Vessels') but most naturally belongs under heading 0 since that heading's prose describes the opening Mishnah presenting all these cases together beginning with the garment.",
+      "second_heading": "Metal Vessels",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the copper/metal vessel case exclusively, which matches heading 3 ('Metal Vessels') whose prose directly describes the kli nechoshet, merika ushtifa, and the pocho'o solution.",
+      "current_heading": "Pottery Vessels",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Challenge to Tearing",
+    "candidates": [
+      "Metal Vessels",
+      "Challenge to Tearing",
+      "Middle State Solution",
+      "Rav Huna Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Ravina's direct objection that tearing the garment means it is no longer a 'beged,' which is precisely what the 'Challenge to Tearing' section's prose describes and analyzes.",
+      "chosen_heading": "Challenge to Tearing",
+      "current_heading": "Challenge to Tearing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Rav Huna Position",
+    "candidates": [
+      "Middle State Solution",
+      "Rav Huna Position",
+      "Vessel Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly constitute the Rav Huna challenge and its miderabbanan resolution, which is precisely what the 'Rav Huna Position' prose describes in detail.",
+      "chosen_heading": "Rav Huna Position",
+      "current_heading": "Rav Huna Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Vessel Identity",
+    "candidates": [
+      "Vessel Identity",
+      "Refashioned Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the earthenware vessel being punctured with a small hole (shoresh katan) to remove tumah while retaining vessel status, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Vessel Identity",
+      "current_heading": "Vessel Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Refashioned Vessels",
+    "candidates": [
+      "Refashioned Vessels",
+      "No Tearing Me'il"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about why a copper vessel needs scouring/rinsing after being holed (rendering it not a vessel) and the answer that it is hammered and refashioned \u2014 exactly the 'deratzif mirtzaf' concept described in the 'Refashioned Vessels' prose.",
+      "chosen_heading": "Refashioned Vessels",
+      "current_heading": "Refashioned Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "No Tearing Me'il",
+    "candidates": [
+      "No Tearing Me'il",
+      "Partial Entry",
+      "Conceptual Framework",
+      "Thick Garments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Reish Lakish's ruling about the me'il being brought in less than three by three fingerbreadths for laundering due to the prohibition 'lo yikarei,' which is exactly what the 'No Tearing Me'il' section's prose describes.",
+      "chosen_heading": "No Tearing Me'il",
+      "current_heading": "No Tearing Me'il",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Thick Garments",
+    "candidates": [
+      "Partial Entry",
+      "Conceptual Framework",
+      "Thick Garments",
+      "Connected Garment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Adda bar Ahava's objection about thick and soft garments not being subject to the three-by-three fingerbreadth measure, which is precisely what the 'Thick Garments' section's prose discusses.",
+      "chosen_heading": "Thick Garments",
+      "current_heading": "Thick Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Connected Garment",
+    "candidates": [
+      "Connected Garment",
+      "Seven Cleansing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 agav avihen chashivi, meaning small portions derive significance from the larger garment they belong to \u2014 is precisely what the 'Connected Garment' prose discusses and analyzes.",
+      "chosen_heading": "Connected Garment",
+      "current_heading": "Connected Garment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Seven Cleansing",
+    "candidates": [
+      "Seven Cleansing",
+      "Urine Problem",
+      "Spit Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks about the requirement for seven cleansing substances and cites Rav Na\u1e25man/Rabba bar Avuha's ruling, which is precisely what the 'Seven Cleansing' section's prose describes as its central topic, including the mention of urine being prohibited in the Temple as the problem that makes this acute.",
+      "chosen_heading": "Seven Cleansing",
+      "current_heading": "Seven Cleansing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Spit Solution",
+    "candidates": [
+      "Urine Problem",
+      "Spit Solution",
+      "Reish Lakish",
+      "Rambam Rejects",
+      "Cooking vs. Pouring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's chain of rejected workarounds and ultimate resolution (the tasteless saliva solution) that the 'Spit Solution' prose explicitly describes \u2014 mixing all seven together, mixing with one agent, and the final 'ella demavlei berok tafel' answer.",
+      "chosen_heading": "Spit Solution",
+      "current_heading": "Spit Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Cooking vs. Pouring",
+    "candidates": [
+      "Reish Lakish",
+      "Rambam Rejects",
+      "Cooking vs. Pouring",
+      "Kodashim Kalim",
+      "Even Pouring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The Mishnah text explicitly covers both the cooking/pouring distinction AND the kodashim kalim dispute with Rabbi Shimon, but the current placement under 'Cooking vs. Pouring' only covers the first half; the 'Kodashim Kalim' section prose directly discusses Rabbi Shimon's dissent about kodashim kalim not requiring merika ushtifa, which is the concluding and distinctive element of this Mishnah passage.",
+      "chosen_heading": "Kodashim Kalim",
+      "current_heading": "Cooking vs. Pouring",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Even Pouring",
+    "candidates": [
+      "Kodashim Kalim",
+      "Even Pouring",
+      "Oven Spit",
+      "Bishul vs. Blia",
+      "Rava's Proof",
+      "Metal Oven"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita directly derives the rule for pouring boiling liquid (iruy) into a vessel from the verse, which is precisely what the 'Even Pouring' section's prose discusses and analyzes.",
+      "chosen_heading": "Even Pouring",
+      "current_heading": "Even Pouring",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Metal Oven",
+    "candidates": [
+      "Oven Spit",
+      "Bishul vs. Blia",
+      "Rava's Proof",
+      "Metal Oven",
+      "Permanent Fleishig"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the continuous Talmudic discussion of Rami bar \u1e24ama's dilemma about bishul without blia \u2014 the oven-spit question, Rava's attempted proof from irui, its rejection, and the metal oven proof with its rejection \u2014 which is precisely what candidate 1 ('Bishul vs. Blia') describes as its content, covering both the irui mirror-image and the unresolved question of whether bishul alone suffices.",
+      "chosen_heading": "Bishul vs. Blia",
+      "current_heading": "Metal Oven",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Permanent Fleishig",
+    "candidates": [
+      "Metal Oven",
+      "Permanent Fleishig",
+      "Hergel Aveira",
+      "Burning Out"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Rabba bar Ahilai prohibiting bread from a fat-smeared oven 'forever' even with salt alone, lest one come to eat it with kuta\u1e25 (dairy) \u2014 this is precisely the 'hergel aveira' concern (habituation to transgression) discussed in candidate 2's prose, not the general 'Permanent Fleishig' introduction in candidate 1.",
+      "chosen_heading": "Hergel Aveira",
+      "current_heading": "Permanent Fleishig",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Burning Out",
+    "candidates": [
+      "Hergel Aveira",
+      "Burning Out",
+      "Oven vs. Pot",
+      "Pottery Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the baraita about kneading dough with milk and smearing an oven with fat tail \u2014 the core content is the prohibition due to hergel aveira (habituation to sin) and the refutation of Rabba bar Ahilai, which directly matches the 'Hergel Aveira' section's prose about the baraita forbidding milchig/fleishig bread due to concern for habitual transgression, rather than the 'Burning Out' section where it currently sits.",
+      "chosen_heading": "Hergel Aveira",
+      "current_heading": "Burning Out",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Pottery Protection",
+    "candidates": [
+      "Oven vs. Pot",
+      "Pottery Protection",
+      "Contradiction"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Oven vs. Pot",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 directly correspond to heading 0's description of Ravina asking Rav Ashi about breaking pots and the inside/outside kindling distinction for the kubya.",
+      "second_heading": "Contradiction",
+      "second_confidence": "medium",
+      "second_reason": "Items 4-6 address why Temple pottery vessels must be shattered rather than koshered, matching heading 2's discussion of shattering versus koshering the chatas vessel.",
+      "current_heading": "Pottery Protection",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Grate Paradox",
+    "candidates": [
+      "Grate Paradox",
+      "Chasuri Mechasra",
+      "Rashash Solution",
+      "Todos & Shinuy",
+      "Orlah Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the mishna's prohibition on roasting on a grill, the apparent contradiction of the story about Rabban Gamliel, and the Gemara's question 'maaseh listor?' \u2014 which is precisely what the 'Grate Paradox' prose discusses, before the resolution (chasuri mechasra) is addressed in the next section.",
+      "chosen_heading": "Grate Paradox",
+      "current_heading": "Grate Paradox",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Orlah Setup",
+    "candidates": [
+      "Chasuri Mechasra",
+      "Rashash Solution",
+      "Todos & Shinuy",
+      "Orlah Setup",
+      "Category Distinction",
+      "Direct Contact"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain \u2014 the orlah oven question, Rav Adda's permissive answer, the challenge from the pesach/tzli esh tradition, the inference about retained heat, and Rav Adda's response \u2014 exactly matching the 'Orlah Setup' heading's prose description of this exchange.",
+      "chosen_heading": "Orlah Setup",
+      "current_heading": "Orlah Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Direct Contact",
+    "candidates": [
+      "Category Distinction",
+      "Direct Contact",
+      "Fire Definition",
+      "Rebbi's Coals",
+      "Tzara'as Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the second, more analytically rigorous answer distinguishing orlah from pesach \u2014 specifically that by orlah the Torah is particular about the prohibited wood being present, while by pesach the doubled phrase 'tzli esh' was needed to exclude retained heat \u2014 which is precisely what the 'Direct Contact' prose describes as the second and more analytically rigorous answer that identifies the two categories as governed by entirely different definitional questions.",
+      "chosen_heading": "Direct Contact",
+      "current_heading": "Direct Contact",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Tzara'as Challenge",
+    "candidates": [
+      "Fire Definition",
+      "Rebbi's Coals",
+      "Tzara'as Challenge",
+      "Wood vs Metal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form the continuous challenge from the tzara'as braisa \u2014 introducing Rebbi's coals ruling, raising the contradiction from michvat eish, and drawing the pointed inference that coals are not fire without the doubled word \u2014 which is precisely what the 'Tzara'as Challenge' prose describes.",
+      "chosen_heading": "Tzara'as Challenge",
+      "current_heading": "Tzara'as Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Wood vs Metal",
+    "candidates": [
+      "Wood vs Metal",
+      "Bat Kohen Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rav Chisda's response distinguishing wood coals (which need no verse) from metal coals (which do), which is precisely what the 'Wood vs Metal' section's prose discusses in detail.",
+      "chosen_heading": "Wood vs Metal",
+      "current_heading": "Wood vs Metal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Bat Kohen Case",
+    "candidates": [
+      "Bat Kohen Case",
+      "Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion about the bat kohen case \u2014 the challenge from molten metal, the response distinguishing 'tisaref,' and the gezeirah shavah from bnei Aharon \u2014 all of which are explicitly covered in the 'Bat Kohen Case' prose.",
+      "chosen_heading": "Bat Kohen Case",
+      "current_heading": "Bat Kohen Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Rav Nachman",
+    "candidates": [
+      "Rav Nachman",
+      "Parim Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the principle of Rav Nachman (beror lo misa yafa) and the subsequent question of why the gezeirah shavah is still needed, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rav Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Parim Restriction",
+    "candidates": [
+      "Parim Restriction",
+      "Ravina Reorder",
+      "Whisper Coals",
+      "Braisa Logic",
+      "Rav Sheshet",
+      "Abaye Counter",
+      "Rava Final"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Parim Restriction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 deal with the parim hanisrafim challenge and its resolution through word-order hermeneutics, exactly as described in the 'Parim Restriction' prose.",
+      "second_heading": "Ravina Reorder",
+      "second_confidence": "high",
+      "second_reason": "Item 6 is Ravina's 'kroch u-teni' reorganization of the tzara'as baraita, which is precisely what the 'Ravina Reorder' prose describes.",
+      "current_heading": "Parim Restriction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Rava Final",
+    "candidates": [
+      "Ravina Reorder",
+      "Whisper Coals",
+      "Braisa Logic",
+      "Rav Sheshet",
+      "Abaye Counter",
+      "Rava Final",
+      "Oven Wall",
+      "Gravy Bounce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "medium",
+      "reason": "The prose of 'Rava Final' (index 5) explicitly describes the entire arc from Rava's initial challenge through Rabba's objection to Rava's final reformulation, encompassing all 7 items including the concluding spelling dilemma as a tangential note at the end of the sugya.",
+      "chosen_heading": "Rava Final",
+      "current_heading": "Rava Final",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Gravy Bounce",
+    "candidates": [
+      "Oven Wall",
+      "Gravy Bounce",
+      "Flour Removal",
+      "Pre-Roast Oil",
+      "Post-Roast Oil",
+      "Maaser Sheni"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers all three cases (oven wall contact, gravy bounce, and flour dripping) as a single unit, and the 'Oven Wall' heading's prose explicitly introduces this mishna as a whole, making it the correct home for the entire passage rather than splitting it under 'Gravy Bounce'.",
+      "chosen_heading": "Oven Wall",
+      "current_heading": "Gravy Bounce",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Maaser Sheni",
+    "candidates": [
+      "Flour Removal",
+      "Pre-Roast Oil",
+      "Post-Roast Oil",
+      "Maaser Sheni"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both the teruma oil cases (raw/roasted/priests) and the maaser sheni case in a single mishna unit, and the current heading 'Maaser Sheni' with its prose explicitly addresses all these cases together as the final mishna, making it the best match for the complete passage.",
+      "chosen_heading": "Maaser Sheni",
+      "current_heading": "Maaser Sheni",
+      "moved": false
+    }
+  }
+]

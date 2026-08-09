@@ -1,0 +1,278 @@
+[
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Nitzal vs. Lokei'ach",
+    "candidates": [
+      "Intro: Shevach Collection",
+      "Nimtza She'eino Shelo",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Tanya Hachi",
+      "Heichi Dami",
+      "Gazilah Scenario",
+      "Sale After Theft",
+      "Ba'al Chov & Peirot",
+      "Rava's Interpretation",
+      "Nitzal vs. Lokei'ach",
+      "Milveh Al Peh",
+      "K'she-Amad B'Din",
+      "Principal vs. Peirot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "medium",
+      "reason": "The passage covers the full sequence from the shevach/peirot baraitot through Rava, Rabba bar Rav Huna, Rav Ashi, and the milveh al peh resolution, all of which is described in heading 10's prose, making it the best single match despite items 1-3 fitting earlier headings.",
+      "chosen_heading": "Nitzal vs. Lokei'ach",
+      "current_heading": "Nitzal vs. Lokei'ach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Principal vs. Peirot",
+    "candidates": [
+      "Milveh Al Peh",
+      "K'she-Amad B'Din",
+      "Principal vs. Peirot",
+      "Stama Demilta",
+      "Shmuel's Advice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage asks whether Shmuel holds that a buyer from a robber has no right to enhancement value (shevach), which directly introduces the topic discussed in the 'Shmuel's Advice' section about Shmuel's position on lokei'ach migazlan and shevach.",
+      "chosen_heading": "Shmuel's Advice",
+      "current_heading": "Principal vs. Peirot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Shmuel's Advice",
+    "candidates": [
+      "Stama Demilta",
+      "Shmuel's Advice",
+      "Proof Shevach & Peirot",
+      "Peirot Proves Gazlan",
+      "Mekach Ta'ut Ribbit",
+      "Reimburse with Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Shmuel's instruction to Rav \u1e24innana bar Sheilat about writing 'shufra, shvacha, u-firi' into deeds of sale, which is precisely what the 'Shmuel's Advice' section's prose describes and introduces.",
+      "chosen_heading": "Shmuel's Advice",
+      "current_heading": "Shmuel's Advice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Reimburse with Land",
+    "candidates": [
+      "Proof Shevach & Peirot",
+      "Peirot Proves Gazlan",
+      "Mekach Ta'ut Ribbit",
+      "Reimburse with Land",
+      "Se'ah B'Se'ah",
+      "Loan vs. Sale",
+      "Kinyan Sudar",
+      "Kinyan Day One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage argues that the inclusion of peirot in the insurance clause proves we are discussing a gazlan case (not ba'al chov), since a ba'al chov cannot take peirot \u2014 exactly what the 'Peirot Proves Gazlan' section discusses.",
+      "chosen_heading": "Peirot Proves Gazlan",
+      "current_heading": "Reimburse with Land",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Kinyan Day One",
+    "candidates": [
+      "Se'ah B'Se'ah",
+      "Loan vs. Sale",
+      "Kinyan Sudar",
+      "Kinyan Day One",
+      "Sale Document",
+      "Guarantee Text"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Loan vs. Sale",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rav Yosef's first answer (owns land) and Abaye's challenge resolved by 'loan vs. sale,' which matches candidate 1 ('Loan vs. Sale') and candidate 0's prose about the se'ah b'se'ah challenge \u2014 but the full arc of items 1-3 (the answer, the challenge, and the loan/sale resolution) is best captured under candidate 1 ('Loan vs. Sale').",
+      "second_heading": "Kinyan Day One",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 present the second version of Rav Yosef's answer (kinyan miyado), Abaye's parallel challenge, and the same loan/sale resolution, which corresponds exactly to the prose of candidate 3 ('Kinyan Day One') describing the ikka d'amri version with kanu miyado and the repeated hasam halva'ah hacha zevini exchange.",
+      "current_heading": "Kinyan Day One",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Guarantee Text",
+    "candidates": [
+      "Sale Document",
+      "Guarantee Text",
+      "Gift vs. Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Shmuel's statement and Rava's proof from the sale document text, which directly matches the 'Sale Document' section's prose about Rava citing the document language as justification \u2014 the 'Guarantee Text' section discusses the content of that language in detail, but the Gemara passage itself is the introduction/citation that belongs under 'Sale Document'.",
+      "chosen_heading": "Sale Document",
+      "current_heading": "Guarantee Text",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Gift vs. Sale",
+    "candidates": [
+      "Guarantee Text",
+      "Gift vs. Sale",
+      "Gift Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav \u1e24iyya bar Avin's challenge to Rava about gifts lacking a guarantee, which the prose under heading 0 ('Guarantee Text') explicitly anticipates and introduces as the immediate follow-up question, making it a better fit than heading 1 ('Gift vs. Sale') which merely paraphrases the same question without the preceding context that naturally leads into it.",
+      "chosen_heading": "Guarantee Text",
+      "current_heading": "Gift vs. Sale",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Gift Analysis",
+    "candidates": [
+      "Gift Analysis",
+      "Braitta Text",
+      "The Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the exact exchange 'vechi yafeh koach matana mikoach mecher' and Rava's confirmation that yes, the gift recipient is more protected, which is precisely what Candidate 0's prose analyzes and quotes.",
+      "chosen_heading": "Gift Analysis",
+      "current_heading": "Gift Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "The Problem",
+    "candidates": [
+      "Braitta Text",
+      "The Problem",
+      "Gazlan Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself (one who sells a field, it is appropriated, buyer collects principal from liened property and enhancement from unsold property), which matches the 'Braitta Text' section that describes citing another baraita about selling a field and creditor seizure, not 'The Problem' section which discusses the contradiction with Shmuel's ruling.",
+      "chosen_heading": "Braitta Text",
+      "current_heading": "The Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Gazlan Answer",
+    "candidates": [
+      "The Problem",
+      "Gazlan Answer",
+      "Partial Payment",
+      "1500 vs. 1000",
+      "Buyoff Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items trace the Gemara's sequential resolution of the contradiction between the baraita and Shmuel \u2014 first raising the gazlan vs. ba'al chov dilemma (item 3), then the gazlan answer (items 1, 4), then the ktefayim distinction and its rejection (items 5-7), then the final resolution about debt size (item 8) \u2014 exactly matching the 'Gazlan Answer' section's prose which walks through all these same moves including the ktefayim distinction and its collapse.",
+      "chosen_heading": "Gazlan Answer",
+      "current_heading": "Gazlan Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Buyoff Question",
+    "candidates": [
+      "Partial Payment",
+      "1500 vs. 1000",
+      "Buyoff Question",
+      "Apotiki Answer",
+      "Final Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the question-and-answer pair about the 'buyoff' dispute \u2014 item 1 raises the problem for the view that the purchaser can buy out the creditor, and item 2 resolves it via the apotiki case \u2014 and the 'Buyout Question' prose explicitly describes exactly this question and the apotiki resolution that follows it, making the current placement correct.",
+      "chosen_heading": "Buyoff Question",
+      "current_heading": "Buyoff Question",
+      "moved": false
+    }
+  }
+]

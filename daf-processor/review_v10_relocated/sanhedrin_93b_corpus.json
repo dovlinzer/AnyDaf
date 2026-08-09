@@ -1,0 +1,369 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Nebuchadnezzar's Test",
+    "candidates": [
+      "Nebuchadnezzar's Test",
+      "Yehoshua's Punishment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the selection of Joshua, the furnace scene, and Nebuchadnezzar's dialogue with Joshua about the fire's effect \u2014 are explicitly narrated and discussed in the prose of heading 0 ('Nebuchadnezzar's Test'), which covers the entire episode from start to finish including the folk saying about dry and wet logs.",
+      "chosen_heading": "Nebuchadnezzar's Test",
+      "current_heading": "Nebuchadnezzar's Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Yehoshua's Punishment",
+    "candidates": [
+      "Yehoshua's Punishment",
+      "Barley Midrash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why Yehoshua was punished (his sons marrying unsuitable women and his failure to rebuke them), which matches exactly the prose under 'Yehoshua's Punishment' (candidate 0).",
+      "chosen_heading": "Yehoshua's Punishment",
+      "current_heading": "Yehoshua's Punishment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Barley Midrash",
+    "candidates": [
+      "Barley Midrash",
+      "David's 6 Blessings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Bar Kappara barley midrash \u2014 the question about six grains/six se'a and the resolution that it was a hint about six descendants blessed with six blessings \u2014 which is precisely what heading 0 'Barley Midrash' describes in its prose.",
+      "chosen_heading": "Barley Midrash",
+      "current_heading": "Barley Midrash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "David's 6 Blessings",
+    "candidates": [
+      "David's 6 Blessings",
+      "Mashiach Smells Truth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss Doeg's malicious praise of David, Saul's jealousy, and the identification of Doeg as the speaker \u2014 exactly the content described in the 'David's 6 Blessings' prose section.",
+      "chosen_heading": "David's 6 Blessings",
+      "current_heading": "David's 6 Blessings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Mashiach Smells Truth",
+    "candidates": [
+      "Mashiach Smells Truth",
+      "Bar Koziba Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara passage about the Messiah's six blessings and the debate between Rabbi Alexandri and Rava about 'vaharicho,' which is precisely what the 'Mashiach Smells Truth' section's prose discusses in detail.",
+      "chosen_heading": "Mashiach Smells Truth",
+      "current_heading": "Mashiach Smells Truth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Bar Koziba Test",
+    "candidates": [
+      "Bar Koziba Test",
+      "Exiles' Perfection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Bar Koziva's messianic claim and the rabbis' smell-and-judge test, which is precisely what the 'Bar Koziba Test' prose section discusses in detail.",
+      "chosen_heading": "Bar Koziba Test",
+      "current_heading": "Bar Koziba Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Exiles' Perfection",
+    "candidates": [
+      "Exiles' Perfection",
+      "Saris Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the six virtues ascribed to Daniel, Hananiah, Mishael, and Azariah and Rabbi \u1e24ama bar \u1e24anina's explanations of 'no blemish' and 'strength to stand in the king's palace,' which is precisely what the 'Exiles' Perfection' prose describes.",
+      "chosen_heading": "Exiles' Perfection",
+      "current_heading": "Exiles' Perfection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Saris Dispute",
+    "candidates": [
+      "Saris Dispute",
+      "Book Names"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Book Names",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses the tribal origins of Daniel, Hananiah, Mishael, and Azariah \u2014 a distinct topic not covered by either candidate's prose \u2014 but it precedes the sarisim dispute and is closest to the 'Book Names' section's discussion of Daniel-related material; however the current placement under 'Saris Dispute' is also defensible as a contextual introduction.",
+      "second_heading": "Saris Dispute",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20135 are precisely the sarisim dispute \u2014 the Rav/Rabbi \u1e24anina disagreement and all its bishlama challenges and resolutions \u2014 which is exactly what the 'Saris Dispute' prose describes in detail.",
+      "current_heading": "Saris Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Book Names",
+    "candidates": [
+      "Book Names",
+      "Daniel's Vision",
+      "Fear & Demons"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Book Names",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the discussion of why Nehemiah's book isn't named after him, Daniel's greatness, and the comparison between Daniel and the three prophets \u2014 all of which are explicitly discussed in the 'Book Names' prose.",
+      "second_heading": "Daniel's Vision",
+      "second_confidence": "high",
+      "second_reason": "Item 5 (Ravina's inference about the guardian angel seeing what frightened them) is the specific content discussed in the 'Daniel's Vision' prose, which addresses exactly this point about mazal perceiving what the person cannot.",
+      "current_heading": "Book Names",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Fear & Demons",
+    "candidates": [
+      "Daniel's Vision",
+      "Fear & Demons",
+      "No Shirah = No Mashiach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the remedy for inexplicable fear (leaping four cubits, reciting Shema, or saying the goat formula), which is precisely what the 'Fear & Demons' section's prose discusses.",
+      "chosen_heading": "Fear & Demons",
+      "current_heading": "Fear & Demons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "No Shirah = No Mashiach",
+    "candidates": [
+      "No Shirah = No Mashiach",
+      "Earth's Song"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete Bar Kappara derashah on the closed mem of 'lemarbe' \u2014 God's wish to make Chizkiyahu Mashiach and Midat HaDin's objection about his failure to sing shirah \u2014 which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "No Shirah = No Mashiach",
+      "current_heading": "No Shirah = No Mashiach",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Earth's Song",
+    "candidates": [
+      "Earth's Song",
+      "Sancherib's 8 Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 the earth's song for Hezekiah, the angel's petition, the bat kol responses, the Dumah passage, the baraita about disgrace, and the Yitro/vayi\u1e25ad discussion \u2014 are all explicitly covered in the 'Earth's Song' prose, which walks through exactly this sequence in detail.",
+      "chosen_heading": "Earth's Song",
+      "current_heading": "Earth's Song",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Sancherib's 8 Names",
+    "candidates": [
+      "Sancherib's 8 Names",
+      "Paroh vs. Sancherib"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the eight names of Hezekiah and Sennacherib respectively, which is precisely the content described in candidate 0's prose about the *mishmanav/shemoneh* wordplay and the enumeration of both figures' names.",
+      "chosen_heading": "Sancherib's 8 Names",
+      "current_heading": "Sancherib's 8 Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Paroh vs. Sancherib",
+    "candidates": [
+      "Paroh vs. Sancherib",
+      "Isaiah's Prophecy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items directly correspond to the content described in the 'Paroh vs. Sancherib' prose section: Asenappar/disparagement of Eretz Yisrael (items 1-3), the burning beneath his glory (item 4), and the Pharaoh vs. Sennacherib retribution comparison (items 5-8), all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Paroh vs. Sancherib",
+      "current_heading": "Paroh vs. Sancherib",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Isaiah's Prophecy",
+    "candidates": [
+      "Isaiah's Prophecy",
+      "God's Oath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items discuss Isaiah's prophecy about Sennacherib's mandate, the waters of Shiloah, Pekah vs. Hezekiah, the flooding of Judah, why Sennacherib was punished for overreaching, and the protection afforded by Torah study \u2014 exactly the content described in the 'Isaiah's Prophecy' prose section.",
+      "chosen_heading": "Isaiah's Prophecy",
+      "current_heading": "Isaiah's Prophecy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128
+    ],
+    "current_heading": "God's Oath",
+    "candidates": [
+      "God's Oath",
+      "Sword at Door"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss God's oath to deliver Sennacherib to Hezekiah without asking permission, which is exactly the content described in candidate 0's prose.",
+      "chosen_heading": "God's Oath",
+      "current_heading": "God's Oath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Sword at Door",
+    "candidates": [
+      "Sword at Door",
+      "Universal Learning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Hezekiah's oil burning in synagogues and study halls directly supports the theme of Torah study being enforced/maintained (the 'Sword at Door' section), describing the merit that destroyed Sennacherib's yoke through Torah learning at night.",
+      "chosen_heading": "Sword at Door",
+      "current_heading": "Sword at Door",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Intro to R. Meir",
+    "candidates": [
+      "Intro to R. Meir",
+      "Vav Linking Offerings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna quote introducing Rabbi Meir's position that all the goats effect the same atonement, which is precisely what the 'Intro to R. Meir' prose is summarizing and contextualizing.",
+      "chosen_heading": "Intro to R. Meir",
+      "current_heading": "Intro to R. Meir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Vav Linking Offerings",
+    "candidates": [
+      "Vav Linking Offerings",
+      "Textual Patterns",
+      "Gezeirah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi \u1e24ama bar Rabbi \u1e24anina's explanation of Rabbi Meir's reasoning using the vav-linkage hermeneutic principle, which is precisely what the 'Vav Linking Offerings' section's prose describes.",
+      "chosen_heading": "Vav Linking Offerings",
+      "current_heading": "Vav Linking Offerings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Gezeirah Shavah",
+    "candidates": [
+      "Textual Patterns",
+      "Gezeirah Shavah",
+      "Challenge to Vav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the challenge and resolution described in candidate 0's prose \u2014 the sequential derivation problem (kol chad m'chad gmar) and Rabbi Yochanan's rule about kodshim \u2014 which candidate 0's prose explicitly sets up, while candidate 1's prose describes these same elements as already-established background for a different point about the vav mechanism.",
+      "chosen_heading": "Textual Patterns",
+      "current_heading": "Gezeirah Shavah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Challenge to Vav",
+    "candidates": [
+      "Gezeirah Shavah",
+      "Challenge to Vav",
+      "Eileh Ta'asu",
+      "Rosh Chodesh as Mo'ed"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Challenge to Vav",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's challenge about Shavuot and Yom Kippur lacking the vav, which is exactly what the 'Challenge to Vav' prose describes.",
+      "second_heading": "Eileh Ta'asu",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Yona's answer using 'eileh ta'asu' and the subsequent challenge about Rosh Chodesh as a mo'ed, which is precisely what the 'Eileh Ta'asu' prose describes.",
+      "current_heading": "Challenge to Vav",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rosh Chodesh as Mo'ed",
+    "candidates": [
+      "Eileh Ta'asu",
+      "Rosh Chodesh as Mo'ed",
+      "R. Yochanan Concedes",
+      "Baraita Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly demonstrates that Rosh Chodesh is called a mo'ed via Abaye's teaching about Tammuz and the verse from Eichah, which is precisely what the 'Rosh Chodesh as Mo'ed' section's prose describes.",
+      "chosen_heading": "Rosh Chodesh as Mo'ed",
+      "current_heading": "Rosh Chodesh as Mo'ed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Baraita Support",
+    "candidates": [
+      "R. Yochanan Concedes",
+      "Baraita Support",
+      "Achas Bashanah",
+      "Lost Goat Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "R. Yochanan Concedes",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabbi Yochanan's concession about the inner goat and the derivation from 'achas bashana', which matches heading 0 ('R. Yochanan Concedes') \u2014 though heading 2 ('Achas Bashanah') also covers item 2's content, heading 0's prose explicitly describes both the concession and its reasoning as a unit.",
+      "second_heading": "Baraita Support",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the baraita that confirms Rabbi Meir's position by listing the outer goats and conspicuously omitting the inner goat, matching exactly the prose of heading 1 ('Baraita Support').",
+      "current_heading": "Baraita Support",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Lost Goat Question",
+    "candidates": [
+      "Achas Bashanah",
+      "Lost Goat Question",
+      "Rosh Chodesh Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the mishna that introduces Rabbi Shimon's position on the distinct atonement functions of each category of goat \u2014 the foundational statement that the 'Rosh Chodesh Limits' section explicitly sets out to analyze and derive limits from, making it the natural opening text for that section rather than the 'Lost Goat Question' which deals with the practical substitution extension.",
+      "chosen_heading": "Rosh Chodesh Limits",
+      "current_heading": "Lost Goat Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Rosh Chodesh Limits",
+    "candidates": [
+      "Lost Goat Question",
+      "Rosh Chodesh Limits",
+      "Regalim Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses why Rosh Chodesh goats don't atone for Festivals (avon echad) and why Festivals don't cover Rosh Chodesh's atonement (otah), which is precisely what the 'Rosh Chodesh Limits' prose describes.",
+      "chosen_heading": "Rosh Chodesh Limits",
+      "current_heading": "Rosh Chodesh Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Regalim Limits",
+    "candidates": [
+      "Regalim Limits",
+      "Two Achot Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage addresses both directions of the 'achas' limitation \u2014 why Festivals can't do Yom Kippur's work AND why Yom Kippur can't do two atonements \u2014 which is precisely the 'Two Achot Problem' described in candidate 1, not merely the one-directional restriction described in candidate 0.",
+      "chosen_heading": "Two Achot Problem",
+      "current_heading": "Regalim Limits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Two Achot Problem",
+    "candidates": [
+      "Regalim Limits",
+      "Two Achot Problem",
+      "Achat Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "This passage is the Gemara's challenge that 'achas' is written about the inner goat and therefore shouldn't apply to the outer musaf goat, followed by the initial answer via the juxtaposition verse \u2014 this is precisely the oscillating tension described in the 'Two Achot Problem' prose, not yet the full resolution described in 'Achat Resolution'.",
+      "chosen_heading": "Two Achot Problem",
+      "current_heading": "Two Achot Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Achat Resolution",
+    "candidates": [
+      "Achat Resolution",
+      "Six Lambs Policy",
+      "Ulla's Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous Talmudic discussion about Rabbi Shimon ben Yehuda's hierarchy of atonements and the derivations from 'achat bashana,' which is precisely what the 'Achat Resolution' prose discusses in detail.",
+      "chosen_heading": "Achat Resolution",
+      "current_heading": "Achat Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Ulla's Solution",
+    "candidates": [
+      "Six Lambs Policy",
+      "Ulla's Solution",
+      "Rav Chisda Objects",
+      "Keteret Problem",
+      "Payment & Repurchase"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Ulla's teaching in Rabbi Yochanan's name about redeeming unblemished tamid lambs not needed by the public, which is precisely what the 'Ulla's Solution' section discusses.",
+      "chosen_heading": "Ulla's Solution",
+      "current_heading": "Ulla's Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Payment & Repurchase",
+    "candidates": [
+      "Rav Chisda Objects",
+      "Keteret Problem",
+      "Payment & Repurchase",
+      "Kedushah Types",
+      "Blemish Requirement",
+      "Keteret's Stages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous exchange between Rabba and Rav Chisda \u2014 Rav Chisda's initial objection, Rabba's ketoret counter-proof, and the beginning of Rav Chisda's response \u2014 which is precisely what candidate 0 ('Rav Chisda Objects') describes in its prose.",
+      "chosen_heading": "Rav Chisda Objects",
+      "current_heading": "Payment & Repurchase",
+      "moved": true
+    }
+  }
+]

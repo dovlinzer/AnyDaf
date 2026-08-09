@@ -1,0 +1,268 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Abaye's Second Story",
+    "candidates": [
+      "Abaye's Second Story",
+      "Daka Interpretation",
+      "Rooftop Access",
+      "Rava's Restriction",
+      "Rami's Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye's Second Story",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Abaye's ruling about the daka permitting access to all rooftops, which is precisely what heading 0 ('Abaye's Second Story') discusses.",
+      "second_heading": "Rava's Restriction",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 (starting from Rava's statement) describe how the daka can lead to prohibition when facing a garden, which is exactly what heading 3 ('Rava's Restriction') discusses.",
+      "current_heading": "Abaye's Second Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Rami's Question",
+    "candidates": [
+      "Daka Interpretation",
+      "Rooftop Access",
+      "Rava's Restriction",
+      "Rami's Question",
+      "Rava Responds",
+      "Roof vs. Portico"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rami bar \u1e24ama's dilemma about two cubits on a roof and two cubits on a pillar, and Rabba's initial response about karmelit vs. reshut hayachid, which corresponds exactly to the 'Rami's Question' section prose describing this same scenario and question.",
+      "chosen_heading": "Rami's Question",
+      "current_heading": "Rami's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Roof vs. Portico",
+    "candidates": [
+      "Rava Responds",
+      "Roof vs. Portico",
+      "Domain Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the 'VeRami bar Chama agav churpeih lo iyein bah' statement and the reformulation of his question, which is explicitly discussed in candidate 0's prose ('Rava Responds'), not in candidate 1's prose which discusses the content of the reconstructed question itself.",
+      "chosen_heading": "Rava Responds",
+      "current_heading": "Roof vs. Portico",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Domain Analysis",
+    "candidates": [
+      "Roof vs. Portico",
+      "Domain Analysis",
+      "Bibi's Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the two-sided Talmudic framing ('Do we say... Or perhaps since...') that candidate 1's prose explicitly analyzes, matching both the 'keivan dehai chazi' and 'migag legag assar' formulations described there.",
+      "chosen_heading": "Domain Analysis",
+      "current_heading": "Domain Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Bibi's Question",
+    "candidates": [
+      "Bibi's Question",
+      "Kahana's Response",
+      "Portico vs. Ruin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Beivai bar Abaye's initial dilemma about carrying two cubits on a roof and two cubits on a ruin, which is exactly what heading 0 'Bibi's Question' discusses \u2014 the question itself before Kahana's response or Bibi's pushback.",
+      "chosen_heading": "Bibi's Question",
+      "current_heading": "Bibi's Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Portico vs. Ruin",
+    "candidates": [
+      "Kahana's Response",
+      "Portico vs. Ruin",
+      "Habitability Debate",
+      "Rav Permits",
+      "Shmuel Restricts",
+      "Gemara Challenge",
+      "Wall Visibility",
+      "Shmuel Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Kahana's dismissal (saying it's the same as Rami bar \u1e24ama's question) and Rav Bibi bar Abaye's rebuttal distinguishing portico from ruin, but Rav Kahana's response is the initiating statement and candidate 0's prose ('Kahana's Response') describes exactly this exchange \u2014 Rav Kahana dismissing the question as identical to Rami bar \u1e24ama's \u2014 while candidate 1 ('Portico vs. Ruin') describes only Rav Bibi's pushback, yet the full passage includes both speakers as one unit, and candidate 0 is the better fit as it covers the complete exchange including Kahana's framing remark that triggers Rav Bibi's distinction.",
+      "chosen_heading": "Kahana's Response",
+      "current_heading": "Portico vs. Ruin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Shmuel Explained",
+    "candidates": [
+      "Habitability Debate",
+      "Rav Permits",
+      "Shmuel Restricts",
+      "Gemara Challenge",
+      "Wall Visibility",
+      "Shmuel Explained",
+      "Rava on Boats",
+      "Shmuel on Boats"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Habitability Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing teiku resolution of the achsadra/churvah habitability dilemma, which is precisely what heading 0 ('Habitability Debate') describes in its prose.",
+      "second_heading": "Rav Permits",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 introduce the new Rav/Shmuel debate about carrying on level or isolated rooftops, matching headings 1-5 which discuss Rav's permissive ruling, Shmuel's restrictive ruling, and their resolutions \u2014 currently placed under heading 5 ('Shmuel Explained') but the full block of items 2-4 covers Rav's and Shmuel's positions together, best fitting under heading 1 ('Rav Permits') as the start of that new dispute.",
+      "current_heading": "Shmuel Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Shmuel on Boats",
+    "candidates": [
+      "Rava on Boats",
+      "Shmuel on Boats",
+      "Rava's Exception",
+      "Boat Ruling",
+      "Rav Virtual Walls",
+      "Shmuel No Walls",
+      "Wall Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the full dispute between Rav and Shmuel about carrying on a boat, which is exactly what heading 0 ('Rava on Boats') introduces \u2014 the question of whether one may carry freely throughout a large boat \u2014 and the passage covers both sides of that dispute as a unit, making it a better fit than the 'Shmuel on Boats' heading which covers only Shmuel's position.",
+      "chosen_heading": "Rava on Boats",
+      "current_heading": "Shmuel on Boats",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Wall Interpretation",
+    "candidates": [
+      "Rava's Exception",
+      "Boat Ruling",
+      "Rav Virtual Walls",
+      "Shmuel No Walls",
+      "Wall Interpretation",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Boat Ruling",
+      "first_confidence": "high",
+      "first_reason": "Items 1 (halakha follows Rav) belongs under 'Boat Ruling' which explicitly discusses Rav Chiyya bar Yosef asking Shmuel whether the halakha follows him or Rav, and Shmuel's reply that it follows Rav.",
+      "second_heading": "Rava's Exception",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 (Rav conceding the overturned ship case, then the portico dispute with pi tikra yored v'sotem) belong under 'Rava's Exception' and the subsequent portico headings, with item 2-3 matching 'Rava's Exception' prose about the overturned boat and tarring, and items 4-5 matching 'Rav Virtual Walls' and 'Shmuel No Walls' about the achsadra dispute.",
+      "current_heading": "Wall Interpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Wall Interpretation",
+      "Rav's Position",
+      "Gezeira Logic",
+      "Shmuel Status",
+      "Why Prohibited",
+      "Roof Collapse Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rav's position according to Rabbi Meir and the prohibition on carrying from roof to courtyard due to the gezeira of Rav Yitzchak bar Avdimi, which is precisely what the 'Rav's Position' section discusses.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Roof Collapse Fear",
+    "candidates": [
+      "Gezeira Logic",
+      "Shmuel Status",
+      "Why Prohibited",
+      "Roof Collapse Fear",
+      "Field vs. Roof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rava bar Ulla's answer about the decree lest the roof diminish, which is precisely what 'Roof Collapse Fear' discusses in its prose.",
+      "chosen_heading": "Roof Collapse Fear",
+      "current_heading": "Roof Collapse Fear",
+      "moved": false
+    }
+  }
+]

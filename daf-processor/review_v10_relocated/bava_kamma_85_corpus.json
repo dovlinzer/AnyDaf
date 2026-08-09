@@ -1,0 +1,353 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna Assessment",
+    "candidates": [
+      "Mishna Assessment",
+      "No Bruise, Tza'ar",
+      "Tza'ar Shelo Nezek",
+      "Rabbi's Keviyah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question 'man tana?' and Rava's answer that it is Ben Azzai, which is precisely what heading 2 ('Tza'ar Shelo Nezek') describes in its prose.",
+      "chosen_heading": "Tza'ar Shelo Nezek",
+      "current_heading": "Mishna Assessment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Rabbi's Keviyah",
+    "candidates": [
+      "No Bruise, Tza'ar",
+      "Tza'ar Shelo Nezek",
+      "Rabbi's Keviyah",
+      "Ben Azzai's View",
+      "Klal U-Prat Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "All four items form a continuous dispute between Rava's reading and Rav Pappa's counter-reading of the same baraita about Rabbi vs. Ben Azzai on keviyah/chavurah, which is precisely what heading 2 ('Rabbi's Keviyah') introduces \u2014 the prose there explicitly sets up Rava's reading of Rabbi's position from that baraita, and items 1-4 are the Gemara's elaboration of that same dispute, including Rav Pappa's objection and alternative reading.",
+      "chosen_heading": "Rabbi's Keviyah",
+      "current_heading": "Rabbi's Keviyah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Klal U-Prat Debate",
+    "candidates": [
+      "Ben Azzai's View",
+      "Klal U-Prat Debate",
+      "Opposite Interpretation",
+      "Keviyah Consensus",
+      "Separation Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the 'alternatively, everyone agrees keviyah includes both types' formulation followed by the klal u-frat ham'ruchakim dispute and Rabbi's use of chavurah for 'additional money' \u2014 exactly what candidate 3 ('Keviyah Consensus') describes in its prose.",
+      "chosen_heading": "Keviyah Consensus",
+      "current_heading": "Klal U-Prat Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Separation Problem",
+    "candidates": [
+      "Opposite Interpretation",
+      "Keviyah Consensus",
+      "Separation Problem",
+      "Avuha D'Shmuel",
+      "Severed Limb Case",
+      "Boshet Components",
+      "Gov't Amputation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the content described under 'Separation Problem': the Mishnah's assessment method for tza'ar, the Gemara's question about how to appraise pain when nezek is also present, and Avuha d'Shmuel's initial suggestion (with its immediate rejection) \u2014 all of which the prose of heading 2 explicitly describes as forming one continuous unit leading into Avuha d'Shmuel's proposal.",
+      "chosen_heading": "Separation Problem",
+      "current_heading": "Separation Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Gov't Amputation",
+    "candidates": [
+      "Avuha D'Shmuel",
+      "Severed Limb Case",
+      "Boshet Components",
+      "Gov't Amputation",
+      "Mishna Complications"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items are the continuous gemara discussion about the government-amputation method of isolating tza'ar \u2014 the litol/litein terminological question and Rav Huna's resolution \u2014 which is precisely what heading 3 ('Gov't Amputation') describes in its prose.",
+      "chosen_heading": "Gov't Amputation",
+      "current_heading": "Gov't Amputation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Mishna Complications",
+    "candidates": [
+      "Mishna Complications",
+      "Agad Yetira Dispute",
+      "Torah Obligation"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mishna Complications",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita with Rabbi Yehuda and the Rabbis' positions on ripuy and shevet for complications, which is precisely what heading 0 ('Mishna Complications') discusses.",
+      "second_heading": "Agad Yetira Dispute",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 contain Rabba's explanation of the dispute in terms of agad yetira (excessive bandaging) and the Gemara's analysis of the underlying reasoning, which is exactly what heading 1 ('Agad Yetira Dispute') describes.",
+      "current_heading": "Mishna Complications",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Torah Obligation",
+    "candidates": [
+      "Agad Yetira Dispute",
+      "Torah Obligation",
+      "Doubled Language",
+      "Doctor Permission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly asks why the verse repeats 'verappo yerappe' and answers that it grants permission to doctors to heal \u2014 which is precisely the topic of the 'Doctor Permission' section, not the 'Torah Obligation' section where it currently sits.",
+      "chosen_heading": "Doctor Permission",
+      "current_heading": "Torah Obligation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Doctor Permission",
+    "candidates": [
+      "Doubled Language",
+      "Doctor Permission",
+      "Non-Injury Related"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita about growths appearing due to or not due to the injury (machmat hamakah / shelo machmat hamakah), analyzing the injuring party's liability for ripuy and shevet in those cases \u2014 which is precisely what the 'Non-Injury Related' section's prose addresses.",
+      "chosen_heading": "Non-Injury Related",
+      "current_heading": "Doctor Permission",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Non-Injury Related",
+    "candidates": [
+      "Non-Injury Related",
+      "Doctor Selection",
+      "Free vs. Paid",
+      "Remote Doctors"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Non-Injury Related",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the case of a patient who violated doctor's instructions, developed garguteni, and the injuring party's exemption \u2014 matching exactly the 'Non-Injury Related' prose about shelo machmat hamaka complications.",
+      "second_heading": "Doctor Selection",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses the injuring party offering to treat the patient himself and being refused with 'damit li ke'arya arba' \u2014 matching exactly the 'Doctor Selection' prose about the injured party's right to refuse treatment from the injuring party.",
+      "current_heading": "Non-Injury Related",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Remote Doctors",
+    "candidates": [
+      "Doctor Selection",
+      "Free vs. Paid",
+      "Remote Doctors",
+      "Fixed Price Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the principle that a distant doctor 'blinds the eye,' which matches the 'Remote Doctors' section prose exactly.",
+      "chosen_heading": "Remote Doctors",
+      "current_heading": "Remote Doctors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Fixed Price Problem",
+    "candidates": [
+      "Fixed Price Problem",
+      "Shor Hamazik",
+      "Five Categories",
+      "Petza Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both the 'hav li l'didi' proposal and the 'shor hamazik' concern, which are precisely what candidate 1's prose describes, while candidate 0's prose incorrectly describes these arguments in reverse (attributing the fixed-price concern to the injuring party rather than the injured party).",
+      "chosen_heading": "Shor Hamazik",
+      "current_heading": "Fixed Price Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Petza Source",
+    "candidates": [
+      "Shor Hamazik",
+      "Five Categories",
+      "Petza Source",
+      "Ripuy Without Nezek"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together constitute the exact gemara exchange about petza tachat petza \u2014 the baraita establishing payment alongside nezek, Rav Zevid's derivation, the objection that the verse is needed for shogeg kemezid, and the resolution via shema mina tarti \u2014 which is precisely what the 'Petza Source' prose describes.",
+      "chosen_heading": "Petza Source",
+      "current_heading": "Petza Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Ripuy Without Nezek",
+    "candidates": [
+      "Ripuy Without Nezek",
+      "Tza'ar Ripuy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the derivation of ripuy bimkom nezek from 'verapo yerappe' and the challenge/resolution involving the school of Rabbi Yishmael, which is precisely what the prose of candidate 0 ('Ripuy Without Nezek') describes.",
+      "chosen_heading": "Ripuy Without Nezek",
+      "current_heading": "Ripuy Without Nezek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Tza'ar Ripuy",
+    "candidates": [
+      "Tza'ar Ripuy",
+      "Shomer Kishu'in",
+      "Low Standard Objection",
+      "Nezek Covers Future"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the derivation that ripuy is paid even without nezek, and then give examples of tza'ar, ripuy, shevet, and boshet without nezek \u2014 exactly what the 'Tza'ar Ripuy' section prose describes.",
+      "chosen_heading": "Tza'ar Ripuy",
+      "current_heading": "Tza'ar Ripuy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Nezek Covers Future",
+    "candidates": [
+      "Shomer Kishu'in",
+      "Low Standard Objection",
+      "Nezek Covers Future",
+      "Injury Type Standards",
+      "Cheresh Case",
+      "Modern Cheresh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together form the complete discussion of shevet assessment \u2014 the cucumber-watchman standard (item 1), the justice objection and its resolution via nezek (items 2), and Rava's differentiated injury-type standards (items 3-4) \u2014 and heading 0 ('Shomer Kishu'in') is the overarching topic that encompasses this entire unit, while the current placement under heading 2 ('Nezek Covers Future') only fits items 1-2 and misses the main bulk of the passage.",
+      "chosen_heading": "Shomer Kishu'in",
+      "current_heading": "Nezek Covers Future",
+      "moved": true
+    }
+  }
+]

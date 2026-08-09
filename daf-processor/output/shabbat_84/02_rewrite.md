@@ -136,13 +136,7 @@ Tosafot notes a technical precision: a *zav* is actually required to immerse in 
 
 ### Rabbi Ila's Challenge
 
-This principle — that *mishkav* status requires the capacity for *mikveh* purification — appears to generate a difficulty. Rabbi Ila raises the challenge: *mapatz d'met minayin* — from where do we know that a mat (*mapatz*) can become *tamei tumat met*? The *baraita* he cites takes as its starting point that a mat *can* be *tamei midras* — since it is made for lying or sitting upon and a *zav* can rest on it — and then reasons from a *kal vachomer* that if small pottery vessels (*pachim ktanim*) are *tahor b'zav* yet *tamei* by a dead body, then certainly a mat which *is tamei b'zav* should become *tamei* by a dead body as well.
-
-This *kal vachomer* establishes an important structural principle: objects that qualify as *midras* — as surfaces for the *zav* — gain entry into the broader *tumah* system through that status. Even if a mat has no *beit kibbul* and would be turned away at the "front door" of ordinary wooden vessel *tumah* for lack of a receptacle, its *midras* status opens a "back door" through which it can also become *tamei tumat met*. The *tumah* of *midras* thus functions as a gateway to other forms of *tumah* even for objects that would not otherwise qualify.
-
-Rabbi Ila's implicit challenge, however, is this: if a mat cannot be purified in a *mikveh* — either because it is a wooden object without a *beit kibbul* and the Torah never addressed its *tahara*, or (as Tosafot argues) because it is made of hemp, a material that the Torah never subjected to *tumah* in the first place and therefore never provided a *mikveh* remedy for — then by the same logic used to exclude pottery, a mat should also be unable to become *mishkav* and thus unable to be *tamei midras*.
-
----
+Rabbi Ila raises a challenge against the principle that *mishkav* status requires capacity for *mikveh* purification: *mapatz d'met minayin* — from where do we know that a mat (*mapatz*) can become *tamei tumat met*? The *baraita* he cites will be the vehicle for this question, though what we will ultimately draw from it is a lesson embedded in its assumptions rather than its main point. A mat — whether made of wood, reeds, hemp, or similar materials — is essentially a flat wooden vessel, and a wooden vessel ordinarily becomes *tamei* only if it has a *beit kibbul*, a receptacle, meaning not merely a flat surface but a curved hollow that retains objects rather than allowing them to roll off. A standard flat mat, then, does not meet this criterion.
 
 ## Mikveh & Midras (II)
 

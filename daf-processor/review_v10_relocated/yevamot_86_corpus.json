@@ -1,0 +1,384 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Women & Terumah",
+    "candidates": [
+      "Women & Terumah",
+      "Safek Principle",
+      "Women & Ma'aser",
+      "Bat Kohen/Levi",
+      "Non-Jews & Ma'aser",
+      "Rabbi Meir's Source",
+      "R. Elazar Permits",
+      "Gemara's Reworking"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Women & Terumah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna covering betrothal/pregnancy/yibbum cases for terumah and ma'aser, which matches the 'Women & Terumah' section's prose about those exact cases.",
+      "second_heading": "Bat Kohen/Levi",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the bat Levi/bat kohen cross-case (neither terumah nor ma'aser), which is precisely what the 'Bat Kohen/Levi' section's prose describes.",
+      "current_heading": "Women & Terumah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Gemara's Reworking",
+    "candidates": [
+      "Safek Principle",
+      "Women & Ma'aser",
+      "Bat Kohen/Levi",
+      "Non-Jews & Ma'aser",
+      "Rabbi Meir's Source",
+      "R. Elazar Permits",
+      "Gemara's Reworking",
+      "Linguistic Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's challenge (why is a bat Yisrael restricted if even a zarah can eat ma'aser?) and Rav Nachman/Shmuel's answer (this follows Rabbi Meir who forbids ma'aser to zarim), which is precisely what candidate 3 'Non-Jews & Ma'aser' describes in its prose.",
+      "chosen_heading": "Non-Jews & Ma'aser",
+      "current_heading": "Gemara's Reworking",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Linguistic Parallel",
+    "candidates": [
+      "Gemara's Reworking",
+      "Linguistic Parallel",
+      "Penalties Applied",
+      "Alternative View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Meir's reasoning via the hekesh between terumah and ma'aser and raises the question about whether penalties (mitah and chomesh) also apply, which is precisely what the 'Linguistic Parallel' section's prose discusses, including the attribution mishmeih d'Gemara and the derivation that ma'aser rishon is forbidden to zarim just as terumah is.",
+      "chosen_heading": "Linguistic Parallel",
+      "current_heading": "Linguistic Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Alternative View",
+    "candidates": [
+      "Penalties Applied",
+      "Alternative View",
+      "R. Yossi's Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses both the exclusion of *ma'aser* from the death penalty and *chomesh* (via 'bo v'lo b'ma'aser' and 'alav v'lo al ma'aser') AND the Rabbis' alternative interpretation about *tovelet* status \u2014 but the 'Penalties Applied' prose explicitly covers both the penalty exclusions and the Rabbis' *tovelet* teaching, making it the clearly better match than 'Alternative View' which only covers the Rabbis' position.",
+      "chosen_heading": "Penalties Applied",
+      "current_heading": "Alternative View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "R. Yossi's Baraita",
+    "candidates": [
+      "Alternative View",
+      "R. Yossi's Baraita",
+      "Ma'aser Ani Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yossi's baraita posing the exact question described in candidate 1's prose \u2014 whether the mitah penalty applies to produce from which some but not all tithes have been taken, enumerating the cases of terumah gedolah, ma'aser rishon, ma'aser sheni, and ma'aser ani.",
+      "chosen_heading": "R. Yossi's Baraita",
+      "current_heading": "R. Yossi's Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Ma'aser Ani Restriction",
+    "candidates": [
+      "Ma'aser Ani Restriction",
+      "Death Penalty Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the gezerah shavah from 'sh'arekha' to extend the prohibition to ma'aser ani, which is precisely what the prose in heading 0 describes.",
+      "chosen_heading": "Ma'aser Ani Restriction",
+      "current_heading": "Ma'aser Ani Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Death Penalty Source",
+    "candidates": [
+      "Death Penalty Source",
+      "Apparent Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the interaction between Rabbi Yossi's and Rabbi Meir's derivations regarding whether the prohibition carries a death penalty or merely a lav, which is precisely what the 'Death Penalty Source' prose describes.",
+      "chosen_heading": "Death Penalty Source",
+      "current_heading": "Death Penalty Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Apparent Contradiction",
+    "candidates": [
+      "Apparent Contradiction",
+      "Rav Sheshet's View",
+      "Married Women's Rights",
+      "Mar brei de-Ravina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the contradiction the Gemara raises (why does a bat kohen/bat Levi face foreignness restrictions?) and then introduces Rav Sheshet's answer, which matches perfectly with the 'Apparent Contradiction' section's prose describing this precise challenge and its resolution.",
+      "chosen_heading": "Apparent Contradiction",
+      "current_heading": "Apparent Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Mar brei de-Ravina",
+    "candidates": [
+      "Rav Sheshet's View",
+      "Married Women's Rights",
+      "Mar brei de-Ravina",
+      "Rabbi Akiva's Position",
+      "R. Elazar's Position",
+      "24 Places Doctrine"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Married Women's Rights",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the baraita proving a married woman may give permission to separate teruma, which is exactly what candidate 1 ('Married Women's Rights') describes in its prose.",
+      "second_heading": "Mar brei de-Ravina",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 cover Mar brei de-Ravina's alternative explanation, the mishum yichud vs. mishum gerushah debate, and why the mishnah uses 'betrothed' language \u2014 all of which are precisely what candidate 2 ('Mar brei de-Ravina') describes in detail.",
+      "current_heading": "Mar brei de-Ravina",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "24 Places Doctrine",
+    "candidates": [
+      "Rabbi Akiva's Position",
+      "R. Elazar's Position",
+      "24 Places Doctrine",
+      "Cemetery Argument"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Akiva's Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the baraita attributing the teruma/maaser positions to Rabbi Akiva and Rabbi Elazar ben Azariah, which is precisely what candidate 0 ('Rabbi Akiva's Position') describes as the opening of the parallel baraita.",
+      "second_heading": "R. Elazar's Position",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains the gemara's clarification of Rabbi Elazar's position ('af l'kohen') and the Rabbi Yehoshua ben Levi principle about priests being called Levites in 24 places, which candidate 1 ('R. Elazar's Position') discusses in detail, and candidate 2 also covers \u2014 but since candidate 1's prose explicitly addresses both the 'af l'kohen' correction and the 24-places doctrine as part of explaining R. Elazar's position, it is the better match.",
+      "current_heading": "24 Places Doctrine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Cemetery Argument",
+    "candidates": [
+      "24 Places Doctrine",
+      "Cemetery Argument",
+      "Garden Collection",
+      "Cemetery Blockade"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Akiva's cemetery-based argument from the verse 'you shall eat it in any place,' which is precisely what the 'Cemetery Argument' section's prose describes.",
+      "chosen_heading": "Cemetery Argument",
+      "current_heading": "Cemetery Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Cemetery Blockade",
+    "candidates": [
+      "Garden Collection",
+      "Cemetery Blockade",
+      "The Punishment Q.",
+      "Two Explanations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage describes the full incident \u2014 both Rabbi Elazar ben Azariah collecting tithe from the garden AND Rabbi Akiva's response \u2014 and candidate 0 ('Garden Collection') introduces this entire historical incident, while candidate 1 separates out Rabbi Akiva's action as if it were a distinct passage; however, since the single Talmudic excerpt contains both elements, it fits best under the heading that introduces the incident as a whole, which is candidate 0.",
+      "chosen_heading": "Garden Collection",
+      "current_heading": "Cemetery Blockade",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Two Explanations",
+    "candidates": [
+      "The Punishment Q.",
+      "Two Explanations",
+      "Consensus Reached",
+      "Secondary Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage presents the foundational question and the two opinions together, but the section 'The Punishment Q.' introduces exactly this question and the passage content most naturally belongs there as the direct Talmudic source for that question, while 'Two Explanations' merely summarizes what the passage already contains \u2014 however, since the passage also contains the two explanations, the current placement at index 1 is nearly as fitting, making this a medium-confidence call favoring index 0 as the heading that frames the question being answered.",
+      "chosen_heading": "The Punishment Q.",
+      "current_heading": "Two Explanations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Secondary Dispute",
+    "candidates": [
+      "Consensus Reached",
+      "Secondary Dispute",
+      "Scriptural Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the secondary dispute about where the confiscated ma'aser was redirected (to ani'im or kohanim) and Rabbi Akiva's behavior at the cemetery entrance, which is precisely what the 'Secondary Dispute' prose describes.",
+      "chosen_heading": "Secondary Dispute",
+      "current_heading": "Secondary Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Scriptural Evidence",
+    "candidates": [
+      "Scriptural Evidence",
+      "Rav Chisda's History",
+      "Bat Yisrael Path"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both the scriptural proof about Levites not ascending with Ezra (clearly matching heading 0's prose) and Rav \u1e24isda's observation about officers (matching heading 1's prose), but since both items are in a single Talmudic excerpt and heading 0's prose explicitly discusses the Ezra verse that begins the passage, the current placement under 'Scriptural Evidence' is reasonable, though heading 1 is also a strong candidate given it discusses Rav \u1e24isda's statement which comprises much of the passage.",
+      "chosen_heading": "Scriptural Evidence",
+      "current_heading": "Scriptural Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Bat Yisrael Path",
+    "candidates": [
+      "Rav Chisda's History",
+      "Bat Yisrael Path",
+      "Sons' Effect",
+      "Bat Kohen Path",
+      "Reversion to Origins"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage describes exactly what the 'Bat Yisrael Path' prose summarizes: a bat Yisrael's shifting status across marriages to a kohen, Levi, and Yisrael, with sons preserving her access to teruma or ma'aser after each husband's death.",
+      "chosen_heading": "Bat Yisrael Path",
+      "current_heading": "Bat Yisrael Path",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Reversion to Origins",
+    "candidates": [
+      "Sons' Effect",
+      "Bat Kohen Path",
+      "Reversion to Origins"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Sons' Effect",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes sons-as-status-anchors dying in sequence for a non-bat-kohen woman, which is exactly what heading 0 'Sons' Effect' discusses.",
+      "second_heading": "Reversion to Origins",
+      "second_confidence": "medium",
+      "second_reason": "Items 2-3 form the bat kohen Mishnah \u2014 item 2 the forward path and item 3 the reversion \u2014 and while item 2 matches heading 1's prose, item 3 matches heading 2; keeping both under heading 2 (current) is the safer choice since they are one continuous Mishnaic unit about the bat kohen.",
+      "current_heading": "Reversion to Origins",
+      "moved": true
+    }
+  }
+]

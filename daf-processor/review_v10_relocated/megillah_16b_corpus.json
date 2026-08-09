@@ -1,0 +1,636 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Plural Necks",
+    "candidates": [
+      "Plural Necks",
+      "Two Temples",
+      "Mishkan Shiloh",
+      "Yosef's Sincerity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full unit from the question about plural necks through both Rabbi Elazar's explanation about the two Temples and Benjamin's weeping over Shiloh, which the 'Plural Necks' section introduces as a single drasha unit, making it the best single home for the entire passage.",
+      "chosen_heading": "Plural Necks",
+      "current_heading": "Plural Necks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Yosef's Sincerity",
+    "candidates": [
+      "Two Temples",
+      "Mishkan Shiloh",
+      "Yosef's Sincerity",
+      "Gifts to Father"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses Yosef's sincerity toward his brothers and the meaning of 'ki fi hamedaber aleichem,' which matches exactly the prose under 'Yosef's Sincerity' about harboring no grudge and his mouth reflecting his heart.",
+      "chosen_heading": "Yosef's Sincerity",
+      "current_heading": "Yosef's Sincerity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Gifts to Father",
+    "candidates": [
+      "Gifts to Father",
+      "Brothers Prostrate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'good things of Egypt' sent to Yaakov and the interpretation that Yosef sent aged wine, which matches perfectly with the 'Gifts to Father' section's prose.",
+      "chosen_heading": "Gifts to Father",
+      "current_heading": "Gifts to Father",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Brothers Prostrate",
+    "candidates": [
+      "Brothers Prostrate",
+      "Fox Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the brothers prostrating before Joseph after Jacob's death and the fox proverb applied to that context, which exactly matches the 'Brothers Prostrate' section's prose discussion.",
+      "chosen_heading": "Brothers Prostrate",
+      "current_heading": "Brothers Prostrate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Fox Metaphor",
+    "candidates": [
+      "Fox Metaphor",
+      "Yaakov Bows",
+      "Candles Metaphor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what the 'Fox Metaphor' prose describes: the Gemara's challenge to the fox metaphor's application to Yosef, the redirection to the correct verse (vayishtachu Yisrael al rosh hamitah), and Rabbi Binyamin bar Yefet's statement about the fox in its hour \u2014 all of which the current section's prose explicitly discusses.",
+      "chosen_heading": "Fox Metaphor",
+      "current_heading": "Fox Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Candles Metaphor",
+    "candidates": [
+      "Yaakov Bows",
+      "Candles Metaphor",
+      "Four Purim Themes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is exactly about Joseph consoling his brothers with the candles/lights metaphor, which is precisely what the 'Candles Metaphor' section's prose discusses.",
+      "chosen_heading": "Candles Metaphor",
+      "current_heading": "Candles Metaphor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Four Purim Themes",
+    "candidates": [
+      "Four Purim Themes",
+      "Light = Torah",
+      "Joy, Rejoicing, Honor",
+      "Haman's Decrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all four terms (light, gladness, joy, honor) as a unified Gemara passage interpreting Esther 8:16, which matches the 'Four Purim Themes' heading that introduces the complete interpretation of all four terms together.",
+      "chosen_heading": "Four Purim Themes",
+      "current_heading": "Four Purim Themes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Haman's Decrees",
+    "candidates": [
+      "Light = Torah",
+      "Joy, Rejoicing, Honor",
+      "Haman's Decrees",
+      "One Breath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage defines 'vikar' as tefillin with the proof text about peoples of the earth seeing God's name, which is precisely what the 'Joy, Rejoicing, Honor' section's prose describes as its content.",
+      "chosen_heading": "Joy, Rejoicing, Honor",
+      "current_heading": "Haman's Decrees",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "One Breath",
+    "candidates": [
+      "Haman's Decrees",
+      "One Breath",
+      "Tosafot Opinion",
+      "Stretched Vav",
+      "Brick Pattern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the 'one breath' teaching of Rav Adda and the 'stretched vav' teaching of Rabbi Yochanan, and the current placement under 'One Breath' (index 1) is appropriate since the passage opens with the one-breath ruling and the subsequent stretched-vav content is already covered separately under index 3's prose \u2014 however, since the item contains both teachings together and index 1's prose explicitly introduces this exact Gemara passage, it best belongs under index 1 as currently placed.",
+      "chosen_heading": "One Breath",
+      "current_heading": "One Breath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Brick Pattern",
+    "candidates": [
+      "Tosafot Opinion",
+      "Stretched Vav",
+      "Brick Pattern",
+      "Staggered Exception",
+      "No Rising",
+      "Tone Shift"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Brick Pattern",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the general rule that all songs are written in the staggered brick pattern, which is exactly what the 'Brick Pattern' section's prose discusses.",
+      "second_heading": "Staggered Exception",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the exception (Haman's sons and kings of Canaan written column-over-column) and the reason 'shelo tehe tekuma lemapaltan', which matches the 'Staggered Exception' section's prose about these anomalous straight-column arrangements.",
+      "current_heading": "Brick Pattern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Tone Shift",
+    "candidates": [
+      "Staggered Exception",
+      "No Rising",
+      "Tone Shift",
+      "Angel's Slap",
+      "Read From Scroll",
+      "Scribal Lines"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Angel's Slap",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rabbi Abbahu's teaching about the angel slapping Achashverosh on his mouth) belongs under 'Angel's Slap', whose prose explicitly describes this same teaching about the angel striking Achashverosh mid-sentence.",
+      "second_heading": "Read From Scroll",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rabbi Yochanan on 'amar im hasefer' meaning what is written should be declared aloud) belongs under 'Read From Scroll', whose prose explicitly discusses Rabbi Yochanan's interpretation of that same verse as referring to oral proclamation of what is written in the sefer.",
+      "current_heading": "Tone Shift",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Scribal Lines",
+    "candidates": [
+      "Angel's Slap",
+      "Read From Scroll",
+      "Scribal Lines",
+      "Sirtut Debate",
+      "Esther's Ordinance",
+      "Fasts & Cries"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the halachic teaching about sirtut (scored lines) derived from 'divrei shalom ve'emet', which is exactly what the 'Scribal Lines' section prose describes.",
+      "chosen_heading": "Scribal Lines",
+      "current_heading": "Scribal Lines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Fasts & Cries",
+    "candidates": [
+      "Sirtut Debate",
+      "Esther's Ordinance",
+      "Fasts & Cries",
+      "Validation",
+      "Mishneh Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about 'um'amar Esther' versus 'divrei ha-tzomot,' which is precisely what heading 1 ('Esther's Ordinance') describes in its prose, while the current placement under 'Fasts & Cries' only covers the background verse, and Rabbi Yochanan's resolution belongs under 'Validation.'",
+      "chosen_heading": "Esther's Ordinance",
+      "current_heading": "Fasts & Cries",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Mishneh Status",
+    "candidates": [
+      "Validation",
+      "Mishneh Status",
+      "Torah Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and comments on 'le-rov echav' and 'melamed she-pirshu mimenu miktzat Sanhedrin,' which is precisely what the 'Mishneh Status' prose describes.",
+      "chosen_heading": "Mishneh Status",
+      "current_heading": "Mishneh Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Torah Priority",
+    "candidates": [
+      "Torah Priority",
+      "Rank Change",
+      "Torah > Temple",
+      "Ezra's Choice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rav Yosef's principle that talmud Torah is greater than saving lives and cites Mordechai's drop in ranking as proof, which matches exactly the 'Torah Priority' section's prose about gadol talmud Torah yoter me-hatzalat nefashot and Mordechai's descent due to political involvement.",
+      "chosen_heading": "Torah Priority",
+      "current_heading": "Torah Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Ezra's Choice",
+    "candidates": [
+      "Rank Change",
+      "Torah > Temple",
+      "Ezra's Choice",
+      "Halakha/Aggada",
+      "Torah > Parents",
+      "Yaakov's Years",
+      "Age Math"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states 'Studying Torah is greater than building the Temple' \u2014 which is precisely what the 'Torah > Temple' section's prose introduces, while the current placement 'Ezra's Choice' covers the proof/elaboration that follows this statement.",
+      "chosen_heading": "Torah > Temple",
+      "current_heading": "Ezra's Choice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Age Math",
+    "candidates": [
+      "Halakha/Aggada",
+      "Torah > Parents",
+      "Yaakov's Years",
+      "Age Math",
+      "Parallel Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains the full chronological calculation of Yaakov's years (Yishmael's age, the baraita about Yaakov being 63, the arithmetic through Yosef's time before Paroh, the seven years of plenty and two of famine, the discrepancy with Yaakov's stated age of 130, and the resolution that the 14 years in Beit Ever were not counted) \u2014 precisely what the 'Age Math' prose section describes in detail.",
+      "chosen_heading": "Age Math",
+      "current_heading": "Age Math",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110
+    ],
+    "current_heading": "Parallel Years",
+    "candidates": [
+      "Parallel Years",
+      "Forward Only",
+      "Language Rules",
+      "Language Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Gemara discussion about the parallel twenty-two years of Jacob and Joseph's separations from their fathers, resolving the arithmetic discrepancies \u2014 exactly the content described in the 'Parallel Years' prose.",
+      "chosen_heading": "Parallel Years",
+      "current_heading": "Parallel Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Language Exception",
+    "candidates": [
+      "Forward Only",
+      "Language Rules",
+      "Language Exception",
+      "Breaks Allowed",
+      "Intent Required"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Forward Only",
+      "current_heading": "Language Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Intent Required",
+    "candidates": [
+      "Breaks Allowed",
+      "Intent Required",
+      "Material Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the 'breaks/dozing' rule and the 'intent' rule together in one Mishnaic unit, but since the automated pipeline split them, the first clause about reading at intervals and dozing belongs under 'Breaks Allowed' (candidate 0), and the full passage starting with that clause is best anchored there \u2014 however, the passage contains both topics and the current placement under 'Intent Required' also captures part of it, making candidate 0 a slightly better fit for the passage as a whole since it opens with the seirugin/dozing content.",
+      "chosen_heading": "Breaks Allowed",
+      "current_heading": "Intent Required",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Material Rules",
+    "candidates": [
+      "Material Rules",
+      "Script & Ink",
+      "Verse Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the invalid writing materials/surfaces AND the valid requirements (Ashurit, sefer, dyo), and candidate 0's prose explicitly discusses the invalid materials (sam, sikra, neyar, diftera) while candidate 1's prose only discusses the positive requirement \u2014 but since the passage is a single unified Mishnaic statement covering both the negative and positive conditions, it best sits under the current placement (0) which introduces the full context of material rules, with candidate 1's prose serving as the follow-up discussion of the positive requirement already covered in the same passage.",
+      "chosen_heading": "Material Rules",
+      "current_heading": "Material Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Verse Source",
+    "candidates": [
+      "Script & Ink",
+      "Verse Source",
+      "Time Logic",
+      "Action Not Reading",
+      "Memory & Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's derivation from the verse 'keichsavim u-chezmanim' (according to their writing and appointed times), which is precisely what the 'Verse Source' section's prose describes.",
+      "chosen_heading": "Verse Source",
+      "current_heading": "Verse Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Memory & Action",
+    "candidates": [
+      "Time Logic",
+      "Action Not Reading",
+      "Memory & Action",
+      "Other Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the Gemara's objection that the verse speaks of 'observing' not 'reading' (Action Not Reading) and the redirection to the juxtaposition verse, which is exactly what candidate 1's prose describes \u2014 it discusses both points together as part of one continuous argument, and candidate 1's prose explicitly covers both the rejection ('is it reading that the verse refers to?') and the redirect ('ela mehacha'), making it the better single home for this passage over candidate 2 which only covers the redirect.",
+      "chosen_heading": "Action Not Reading",
+      "current_heading": "Memory & Action",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145,
+      146,
+      147
+    ],
+    "current_heading": "Other Mitzvot",
+    "candidates": [
+      "Memory & Action",
+      "Other Mitzvot",
+      "Language Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the requirement to recite Hallel, Shema, and Tefilla in order and the scriptural sources for Hallel's sequential requirement, which matches exactly the prose of candidate 1 ('Other Mitzvot').",
+      "chosen_heading": "Other Mitzvot",
+      "current_heading": "Other Mitzvot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152
+    ],
+    "current_heading": "Language Dispute",
+    "candidates": [
+      "Language Dispute",
+      "Rabbi's Source",
+      "Rabbanan Source",
+      "Hearing Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Language Dispute",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita dispute between Rabbi and the Rabbis about whether Shema must be in Hebrew, matching the 'Language Dispute' section's prose exactly.",
+      "second_heading": "Rabbi's Source",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives Rabbi's derivation from 've'hayu' and the Rabbis' derivation from 'Shema', which correspond to the 'Rabbi's Source' section \u2014 but since item 2 contains BOTH sources, it actually spans headings 1 and 2; the dominant opening content (Rabbi's ve'hayu source) best matches heading 1 'Rabbi's Source'.",
+      "current_heading": "Language Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      159
+    ],
+    "current_heading": "Hearing Dispute",
+    "candidates": [
+      "Rabbi's Source",
+      "Rabbanan Source",
+      "Hearing Dispute",
+      "Ritual vs Meaning",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi's derivation from 'Shema' for the audibility requirement and the Rabbis' counter-position, which is precisely what the 'Hearing Dispute' section's prose describes.",
+      "chosen_heading": "Hearing Dispute",
+      "current_heading": "Hearing Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      164,
+      165,
+      166,
+      167,
+      168
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Ritual vs Meaning",
+      "Resolution",
+      "Shimon Hapakuli"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous Gemara discussion about what Rabbi and the Sages each derive from 've'hayu' and 'Shema,' and whether each holds the Torah defaults to any language or Hebrew \u2014 exactly the content described in the 'Resolution' section's prose.",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      174
+    ],
+    "current_heading": "Shimon Hapakuli",
+    "candidates": [
+      "Shimon Hapakuli",
+      "Elder Tradition",
+      "Opening Praises"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Shimon HaPakuli tradition and the Rabbi Yochanan/120 elders tradition together as a single Gemara unit, and the current placement under 'Shimon Hapakuli' is correct since that is the primary topic introduced first, with the elder tradition being a secondary addendum within the same textual unit.",
+      "chosen_heading": "Shimon Hapakuli",
+      "current_heading": "Shimon Hapakuli",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      179
+    ],
+    "current_heading": "Opening Praises",
+    "candidates": [
+      "Elder Tradition",
+      "Opening Praises",
+      "Avot's Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly provides scriptural sources for the three opening blessings (avot, gevurot, kedushot), which is exactly what the 'Opening Praises' prose section describes and discusses.",
+      "chosen_heading": "Opening Praises",
+      "current_heading": "Opening Praises",
+      "moved": false
+    }
+  }
+]

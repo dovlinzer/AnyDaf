@@ -1,0 +1,537 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Tanu Rabbanan",
+    "candidates": [
+      "Marriage Setup",
+      "Tanu Rabbanan",
+      "Third Marriage Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita beginning 'tanu rabbanan' describing the third-marriage rule and the kesubah penalty, which is precisely what the 'Tanu Rabbanan' section's prose discusses.",
+      "chosen_heading": "Tanu Rabbanan",
+      "current_heading": "Tanu Rabbanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Third Marriage Query",
+    "candidates": [
+      "Third Marriage Query",
+      "Ketubah Return Claim",
+      "Body Weakened Defense",
+      "Fertile Fourth",
+      "Demand Third",
+      "Shtikosayich Yafah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the dilemma about the first two husbands demanding return of the kesubah after the third childless marriage, and includes the Gemara's answer about 'hashta hu de'achash,' which is exactly the content described in heading 0's prose (with the resolution naturally belonging to heading 2, but the entire Talmudic unit \u2014 question and answer \u2014 is best placed under the heading that introduces the dilemma, which is heading 0).",
+      "chosen_heading": "Third Marriage Query",
+      "current_heading": "Third Marriage Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Shtikosayich Yafah",
+    "candidates": [
+      "Ketubah Return Claim",
+      "Body Weakened Defense",
+      "Fertile Fourth",
+      "Demand Third",
+      "Shtikosayich Yafah",
+      "Rav Pappa Raises"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is about the Gemara's answer that her silence is preferable to her speech (shtikosayich yafah midibura'yich) and the reasoning that pressing her claim could invalidate the get and render her child a mamzer, which exactly matches the 'Shtikosayich Yafah' section's prose.",
+      "chosen_heading": "Shtikosayich Yafah",
+      "current_heading": "Shtikosayich Yafah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rav Pappa Raises",
+    "candidates": [
+      "Rav Pappa Raises",
+      "Status Changed",
+      "No Retroactive",
+      "Mutual Blame",
+      "Yora K'Chetz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rav Pappa's objection about staying silent when the get's validity is in question and children risk being mamzerim, which is precisely what the 'Rav Pappa Raises' section's prose describes.",
+      "chosen_heading": "Rav Pappa Raises",
+      "current_heading": "Rav Pappa Raises",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Yora K'Chetz",
+    "candidates": [
+      "Status Changed",
+      "No Retroactive",
+      "Mutual Blame",
+      "Yora K'Chetz",
+      "Fertility Test",
+      "Divorce First",
+      "Rabbi Ami Monogamy",
+      "Rava Polygamy OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the mutual blame scenario (hu amar minah, v'hi amra mineh) and Rabbi Ami's ruling about it, which is exactly what the 'Mutual Blame' prose introduces \u2014 the current placement under 'Yora K'Chetz' is actually the explanation/reasoning section, but the Talmudic text itself covers both the scenario and the yora k'chetz reasoning together, and the prose under heading 2 explicitly sets up this exact Talmudic passage.",
+      "chosen_heading": "Mutual Blame",
+      "current_heading": "Yora K'Chetz",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Rava Polygamy OK",
+    "candidates": [
+      "Fertility Test",
+      "Divorce First",
+      "Rabbi Ami Monogamy",
+      "Rava Polygamy OK",
+      "Bavli-Yerushalmi",
+      "Miscarriage Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the husband's proposal to marry another woman to test himself, Rabbi Ami's ruling that he must divorce and pay the ketubbah, AND Rava's permissive view on polygamy \u2014 this is the full unit of text that heading 1 ('Divorce First') introduces, with headings 2 and 3 being the essay's prose commentary on the two positions rather than homes for the Talmudic text itself.",
+      "chosen_heading": "Divorce First",
+      "current_heading": "Rava Polygamy OK",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Miscarriage Dispute",
+    "candidates": [
+      "Bavli-Yerushalmi",
+      "Miscarriage Dispute",
+      "Chazaka Miscarry",
+      "Count Miscarriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the miscarriage dispute case (hu amar apalta b'go eser / hi amra lo apaliti) and Rabbi Ami's ruling that she is believed, which is precisely what the 'Miscarriage Dispute' section's prose discusses.",
+      "chosen_heading": "Miscarriage Dispute",
+      "current_heading": "Miscarriage Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Count Miscarriage",
+    "candidates": [
+      "Chazaka Miscarry",
+      "Count Miscarriage",
+      "Negates Self",
+      "Mishnah Setup",
+      "Both Commanded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the three-miscarriage chazakah ruling AND the dispute about the count AND the beit midrash ruling on credibility \u2014 all three elements belong together under 'Chazaka Miscarry' which introduces this entire sugya, rather than being artificially split across multiple headings.",
+      "chosen_heading": "Chazaka Miscarry",
+      "current_heading": "Count Miscarriage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Both Commanded",
+    "candidates": [
+      "Negates Self",
+      "Mishnah Setup",
+      "Both Commanded",
+      "Man Conquers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself stating that a man is commanded but not a woman, plus Rabbi Yochanan ben Beroka's dissent \u2014 this is the mishnah being introduced, which belongs under 'Mishnah Setup' where the essay author introduces this very mishnah and notes its striking ruling, rather than under 'Both Commanded' which discusses only the dissenting view.",
+      "chosen_heading": "Mishnah Setup",
+      "current_heading": "Both Commanded",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Man Conquers",
+    "candidates": [
+      "Both Commanded",
+      "Man Conquers",
+      "Plural Objection",
+      "Kri u'Kesiv",
+      "Lashevet",
+      "Patriarchy"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Patriarchy",
+    "candidates": [
+      "Plural Objection",
+      "Kri u'Kesiv",
+      "Lashevet",
+      "Patriarchy",
+      "Feminist View",
+      "Berman Freedom",
+      "Yochanan Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage about God altering Sarah's words for the sake of peace (shalom) is a classic example brought in discussions about truth-bending for harmony, and fits best under the 'Feminist View' section which discusses the woman's invisibility and burden \u2014 but more precisely, this passage about God changing 'my lord is old' to 'I am old' to protect Abraham's feelings is a standalone aggadic point about peace/shalom that doesn't fit the Patriarchy section's discussion of v'chivshuha and sexual roles; however, examining all candidates, the 'Feminist View' prose discusses the woman being rendered invisible, which resonates with Sarah's words being changed, making it a better fit than 'Patriarchy' which discusses the active/passive sexual role framing.",
+      "chosen_heading": "Feminist View",
+      "current_heading": "Patriarchy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Yochanan Dispute",
+    "candidates": [
+      "Feminist View",
+      "Berman Freedom",
+      "Yochanan Dispute",
+      "Don't Rule Broka",
+      "Stay Single",
+      "Demand Divorce",
+      "Birth Control",
+      "U'Milu",
+      "Abbahu/Chiya",
+      "Face Away",
+      "Rav Pappa Why"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents exactly the amoraic dispute between Rabbi Yochanan and Rabbi Yehoshua ben Levi over whether the halacha follows Rabbi Yochanan ben Broka, which is precisely what the 'Yochanan Dispute' prose describes.",
+      "chosen_heading": "Yochanan Dispute",
+      "current_heading": "Yochanan Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Rav Pappa Why",
+    "candidates": [
+      "Don't Rule Broka",
+      "Stay Single",
+      "Demand Divorce",
+      "Birth Control",
+      "U'Milu",
+      "Abbahu/Chiya",
+      "Face Away",
+      "Rav Pappa Why",
+      "Rabbi Ami"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items together form the Rav Pappa analysis of the Rabbi Abbahu vs. Rabbi Chiyya bar Abba variant and why Rabbi Ami and Rabbi Asi turned their faces rather than explicitly contradicting \u2014 precisely what candidate 7 ('Rav Pappa Why') describes in its prose.",
+      "chosen_heading": "Rav Pappa Why",
+      "current_heading": "Rav Pappa Why",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Rabbi Ami",
+    "candidates": [
+      "Rabbi Ami",
+      "Old Age Need",
+      "Rav Nachman",
+      "Grave Need",
+      "Twin Birth"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Ami",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Gemara's question about what conclusion was reached and the response about 'coming due to another claim,' which sets up the Rabbi Ami case \u2014 matching candidate 0's prose about the legal basis for compelling divorce with kesubah.",
+      "second_heading": "Old Age Need",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are the actual narrative episodes of Rabbi Ami and Rav Nachman where women argue old-age need, matching candidates 1-3's prose about the old age argument \u2014 item 3 belongs under 'Old Age Need' (candidate 1) and item 4 under 'Rav Nachman'/'Grave Need' (candidates 2-3), but since we must pick one heading for items 3-4 together, candidate 1 ('Old Age Need') best captures the shared theme of both episodes.",
+      "current_heading": "Rabbi Ami",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Twin Birth",
+    "candidates": [
+      "Old Age Need",
+      "Rav Nachman",
+      "Grave Need",
+      "Twin Birth",
+      "Disguise Query",
+      "Chiya Answers No",
+      "Sterilize",
+      "Matter Revealed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers the twins' birth story and Yehudit's severe birthing pain leading to her disguised query and drinking the infertility potion \u2014 all of which is introduced and contextualized under the 'Twin Birth' heading's prose about Yehudah and Chizkiyah being twins and Yehudit's tza'ara d'leidah.",
+      "chosen_heading": "Twin Birth",
+      "current_heading": "Twin Birth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139,
+      140
+    ],
+    "current_heading": "Matter Revealed",
+    "candidates": [
+      "Disguise Query",
+      "Chiya Answers No",
+      "Sterilize",
+      "Matter Revealed",
+      "Half Free Freed",
+      "Sex Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form the 'matter revealed' scene \u2014 Rabbi \u1e24iyya discovering what Yehudit did and lamenting they couldn't have one more set of twins \u2014 which is precisely what candidate 3 'Matter Revealed' describes in its prose.",
+      "chosen_heading": "Matter Revealed",
+      "current_heading": "Matter Revealed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Sex Protection",
+    "candidates": [
+      "Half Free Freed",
+      "Sex Protection",
+      "Bavli View",
+      "Yerushalmi",
+      "Childbirth Risk",
+      "Tosafot",
+      "Perek Start",
+      "Servants Brought",
+      "Tzon Barzel",
+      "Melog"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the incident of the half-slave/half-free woman AND Rav Nachman bar Yitzchak's response, but candidate 0 ('Half Free Freed') introduces the full case as a unit and notes one might infer an obligation \u2014 making it the natural home for the entire quoted passage, while candidate 1 ('Sex Protection') only covers the concluding rebuttal by Rav Nachman bar Yitzchak.",
+      "chosen_heading": "Half Free Freed",
+      "current_heading": "Sex Protection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      169
+    ],
+    "current_heading": "Melog",
+    "candidates": [
+      "Bavli View",
+      "Yerushalmi",
+      "Childbirth Risk",
+      "Tosafot",
+      "Perek Start",
+      "Servants Brought",
+      "Tzon Barzel",
+      "Melog"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage 'Hadran alach HaBa Yevimto' is the closing formula marking the end of a chapter/perek, which directly matches the 'Perek Start' section prose that explicitly references this hadran and the transition to the next chapter.",
+      "chosen_heading": "Perek Start",
+      "current_heading": "Melog",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      171,
+      172
+    ],
+    "current_heading": "Melog",
+    "candidates": [
+      "Melog",
+      "Normal Both",
+      "Chalala Block"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items define and distinguish melog slaves from tzon barzel slaves \u2014 exactly what the 'Melog' section prose discusses, including the specific details about who bears the loss/gain and the husband's obligation for sustenance.",
+      "chosen_heading": "Melog",
+      "current_heading": "Melog",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      178
+    ],
+    "current_heading": "Chalala Block",
+    "candidates": [
+      "Normal Both",
+      "Chalala Block",
+      "Mishnah Rule",
+      "Indirect Query",
+      "Scripture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "This passage is the mishnah stating the rule about slaves of usufruct vs. guaranteed investment eating teruma when an Israelite woman marries a kohen and vice versa \u2014 exactly what the 'Mishnah Rule' section's prose describes.",
+      "chosen_heading": "Mishnah Rule",
+      "current_heading": "Chalala Block",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      188,
+      189
+    ],
+    "current_heading": "Scripture",
+    "candidates": [
+      "Mishnah Rule",
+      "Indirect Query",
+      "Scripture",
+      "Ochel Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items constitute the Gemara's question 'why shouldn't melog slaves eat teruma \u2014 let it be treated as kinyano shekana kinyan?' along with the baraita that establishes that principle, which is precisely what the 'Indirect Query' prose describes: asking why the indirect-ownership chain shouldn't apply to melog slaves.",
+      "chosen_heading": "Indirect Query",
+      "current_heading": "Scripture",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      192
+    ],
+    "current_heading": "Ochel Principle",
+    "candidates": [
+      "Scripture",
+      "Ochel Principle",
+      "Areil Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states the exact principle 'kol ha'ochel ma'achil, kol she'eino ochel eino ma'achil' which is precisely what the 'Ochel Principle' prose section describes and discusses.",
+      "chosen_heading": "Ochel Principle",
+      "current_heading": "Ochel Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      195,
+      196
+    ],
+    "current_heading": "Areil Exception",
+    "candidates": [
+      "Areil Exception",
+      "Temporary vs Permanent"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Areil Exception",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the areil/tamei challenge and its 'mouth hurts' resolution, which is precisely what heading 0 ('Areil Exception') describes \u2014 raising the counterexample of one who cannot eat yet enables others.",
+      "second_heading": "Temporary vs Permanent",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces an entirely new challenge based on the mamzer case, a distinct scenario with its own facts that goes beyond the areil/tamei discussion, and heading 1 ('Temporary vs Permanent') discusses the distinction between permanent and temporary disqualifications which is exactly what the mamzer case tests.",
+      "current_heading": "Areil Exception",
+      "moved": true
+    }
+  }
+]

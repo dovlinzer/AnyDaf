@@ -1,0 +1,388 @@
+[
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Mishna Text",
+    "candidates": [
+      "Calendar & Nezikin",
+      "Subject Matter",
+      "Terminology & Censorship",
+      "Goyim vs. Idolaters",
+      "Tractate Structure",
+      "Significance & Sources",
+      "Yerushalmi & Dina",
+      "Mishna Text",
+      "R. Yehuda Dispute",
+      "Response to R. Yehuda",
+      "Rashi's Reason",
+      "Aiding Idolatry",
+      "Three Frameworks",
+      "Culture vs. Sin",
+      "Non-Idolater Recognition",
+      "Tosafot Q",
+      "Saint Days",
+      "Eivah Answer",
+      "Eivah Objection",
+      "Darchei Shalom",
+      "Machanif Explanation",
+      "Politeness Frame",
+      "Rabbeinu Tam",
+      "Money Fungibility",
+      "Religious Loans",
+      "Supporting Clergy",
+      "Christians Not Idolaters",
+      "Religion vs. Persons",
+      "Interest Distinction",
+      "Debt Collection",
+      "Aleph-Ayin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage is the opening mishna text itself, listing the prohibited transactions before gentile holidays, which is precisely what the 'Mishna Text' section's prose introduces and walks through word by word.",
+      "chosen_heading": "Mishna Text",
+      "current_heading": "Mishna Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Aleph-Ayin",
+    "candidates": [
+      "R. Yehuda Dispute",
+      "Response to R. Yehuda",
+      "Rashi's Reason",
+      "Aiding Idolatry",
+      "Three Frameworks",
+      "Culture vs. Sin",
+      "Non-Idolater Recognition",
+      "Tosafot Q",
+      "Saint Days",
+      "Eivah Answer",
+      "Eivah Objection",
+      "Darchei Shalom",
+      "Machanif Explanation",
+      "Politeness Frame",
+      "Rabbeinu Tam",
+      "Money Fungibility",
+      "Religious Loans",
+      "Supporting Clergy",
+      "Christians Not Idolaters",
+      "Religion vs. Persons",
+      "Interest Distinction",
+      "Debt Collection",
+      "Aleph-Ayin",
+      "Destruction Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 22,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rav and Shmuel debate over whether 'eideihen' is spelled with an alef or ayin, which is precisely what the 'Aleph-Ayin' section's prose describes.",
+      "chosen_heading": "Aleph-Ayin",
+      "current_heading": "Aleph-Ayin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Destruction Reading",
+    "candidates": [
+      "Destruction Reading",
+      "Testimony Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both readings together (alef and ayin), and its current placement under 'Destruction Reading' is appropriate since that heading introduces the broader discussion, while the ayin reading's prose section ('Testimony Reading') covers only the second half \u2014 the full Gemara passage belongs under the first heading that opens the dual explanation.",
+      "chosen_heading": "Destruction Reading",
+      "current_heading": "Destruction Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Testimony Reading",
+    "candidates": [
+      "Testimony Reading",
+      "Mitzvot Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the debate between the alef reading (eideihen = calamity) and the ayin reading (eideihen = testimony), which is precisely what the 'Testimony Reading' section's prose addresses.",
+      "chosen_heading": "Testimony Reading",
+      "current_heading": "Testimony Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Mitzvot Testimony",
+    "candidates": [
+      "Mitzvot Testimony",
+      "Rav Huna Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehoshua ben Levi's teaching about mitzvot testifying for Jews in the World-to-Come, which is precisely what the 'Mitzvot Testimony' section's prose describes.",
+      "chosen_heading": "Mitzvot Testimony",
+      "current_heading": "Mitzvot Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Rav Huna Source",
+    "candidates": [
+      "Rav Huna Source",
+      "Future Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna son of Rav Yehoshua's citation of Isaiah 44:9 as the source for the *ayin* reading of *eideihen*, which is exactly what the prose under 'Rav Huna Source' describes.",
+      "chosen_heading": "Rav Huna Source",
+      "current_heading": "Rav Huna Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Future Scenario",
+    "candidates": [
+      "Future Scenario",
+      "Nations Gather"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the eschatological scene of God bringing the Torah scroll and offering reward to those who studied it, which is precisely what the 'Future Scenario' prose describes and introduces.",
+      "chosen_heading": "Future Scenario",
+      "current_heading": "Future Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Nations Gather",
+    "candidates": [
+      "Nations Gather",
+      "Clarity Issue",
+      "Rome First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items cover the gathering of nations intermingled and the instruction to enter separately with their scholars, which is precisely what the 'Nations Gather' prose describes, including the irvuvya theme and the le-um/malkhut exegesis.",
+      "chosen_heading": "Nations Gather",
+      "current_heading": "Nations Gather",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Rome First",
+    "candidates": [
+      "Clarity Issue",
+      "Rome First",
+      "King First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rome entering first and the reason being its importance (Daniel's fourth beast), which matches the 'Rome First' section's prose exactly.",
+      "chosen_heading": "Rome First",
+      "current_heading": "Rome First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "King First",
+    "candidates": [
+      "King First",
+      "Rome's Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav \u1e24isda's ruling about a king entering judgment first and the two reasons given, which is precisely what the prose under 'King First' discusses.",
+      "chosen_heading": "King First",
+      "current_heading": "King First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Rome's Claim",
+    "candidates": [
+      "Rome's Claim",
+      "God Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rome's claim about their accomplishments (marketplaces, bathhouses, gold and silver) done for Israel's sake, which matches exactly the 'Rome's Claim' section prose, not the 'God Rejects' section which covers God's rebuttal.",
+      "chosen_heading": "Rome's Claim",
+      "current_heading": "Rome's Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "God Rejects",
+    "candidates": [
+      "God Rejects",
+      "Torah Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly God's rejection speech ('Fools of the world!') with the specific content about marketplaces, bathhouses, and silver/gold that the prose under 'God Rejects' explicitly discusses.",
+      "chosen_heading": "God Rejects",
+      "current_heading": "God Rejects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Torah Only",
+    "candidates": [
+      "Torah Only",
+      "Verse Interpretation",
+      "Persia Enter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'zot'=Torah equation and the nations leaving disappointed, which matches exactly the 'Torah Only' prose's discussion of *zot*, *ve-ein zot ela Torah*, and *miyad yatze'u be-fakhi nefesh*.",
+      "chosen_heading": "Torah Only",
+      "current_heading": "Torah Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Persia Enter",
+    "candidates": [
+      "Verse Interpretation",
+      "Persia Enter",
+      "Persia Claims"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Persian Empire entering after Rome and Rav Yosef's bear comparison, which matches exactly the prose under 'Persia Enter' (candidate 1).",
+      "chosen_heading": "Persia Enter",
+      "current_heading": "Persia Enter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Persia Claims",
+    "candidates": [
+      "Persia Claims",
+      "Persia Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Persia's claim that they built bridges, conquered cities, and fought wars for Israel's sake \u2014 exactly what the 'Persia Claims' section describes, before God's rejection in the next section.",
+      "chosen_heading": "Persia Claims",
+      "current_heading": "Persia Claims",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Persia Rejected",
+    "candidates": [
+      "Persia Rejected",
+      "Persia Advantage",
+      "Other Nations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes God rejecting Persia's claims and them leaving despondent, which matches exactly the 'Persia Rejected' prose discussing the same divine rejection speech and its outcome.",
+      "chosen_heading": "Persia Rejected",
+      "current_heading": "Persia Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131
+    ],
+    "current_heading": "Other Nations",
+    "candidates": [
+      "Persia Advantage",
+      "Other Nations",
+      "Significance",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Persia Advantage",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is specifically about Persia's rationale for entering after Rome (they built the Temple), which matches the 'Persia Advantage' prose exactly.",
+      "second_heading": "Other Nations",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the other nations' reasoning and the structural question of why Rome and Persia are singled out, which matches both 'Other Nations' and 'Significance' \u2014 but since item 2 contains both the other-nations argument and the Rome/Persia eschatological significance answer, it spans both sections; the current placement under 'Other Nations' captures the first half, but the second half (mashkhei be-malkhusaihu) belongs under 'Significance', making a further split advisable \u2014 however, since FORM 2 only allows one split, placing item 2 under 'Other Nations' (current) is the best single-heading fit as that prose discusses both the other nations' claim and the structural question together.",
+      "current_heading": "Other Nations",
+      "moved": true
+    }
+  }
+]

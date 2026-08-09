@@ -1,12 +1,9 @@
-# Gittin 3 — Daf Yomi Shiur
-
+[DAF:2b]
 ## Rabbah vs. Rava
 
-### Core Dispute Intro
 
-> **Hebrew/Aramaic:** לְפִי שֶׁאֵין בְּקִיאִים לִשְׁמָהּ ... רָבָא אָמַר: לְפִי שֶׁאֵין עֵדִים מְצוּיִים לְקַיְּימוֹ.
->
-> **Translation:** It is **because** the people who live overseas **are not experts** in writing a bill of divorce **for her sake.** It is not sufficient for a bill of divorce to be written in a technically correct manner. It must also be written for the sake of the man and the woman who are divorcing. Therefore, when the witness comes before the court and says that it was written and signed in his presence, he is testifying that the writing and the signing of the bill of divorce were performed for the sake of the man and woman in question. **Rava says** a different reason: It is **because there are no witnesses available to ratify it.** Since the bill of divorce was written in a distant place, it is possible that the husband, or someone else, might later claim that the bill of divorce is a forgery. For this reason the agent must say that the bill of divorce was written and signed in his presence, a declaration that bars any subsequent objection on the part of the husband.
+
+### Core Dispute Intro
 
 The *mishna* at the opening of *Gittin* requires the *shaliach* — the agent delivering the *get* — to declare *bifanai nechtav bifanai nechtam*: "it was written before me and signed before me." The *gemara* explores this requirement through the lens of a foundational debate between Rabbah and Rava, two *amoraim* whose positions have become a touchstone for understanding the entire tractate.
 
@@ -20,41 +17,28 @@ Rava's concern is different. His focus is on *eidim metzuyim lekaymo* — the pr
 
 ### Nafka Minot Examples
 
-> **Hebrew/Aramaic:** מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ דְּאַתְיוּהוּ בֵּי תְרֵי. אִי נָמֵי, מִמְּדִינָה לִמְדִינָה בְּאֶרֶץ יִשְׂרָאֵל. אִי נָמֵי, בְּאוֹתָהּ מְדִינָה בִּמְדִינַת הַיָּם.
->
-> **Translation:** The Gemara asks: **What is** the difference **between** these two explanations? The Gemara answers: **There is** a difference **between them** with regard to a case **where two** people **brought** the bill of divorce. In this case, two witnesses are available to ratify the bill of divorce if someone objects to its validity. **Alternatively,** the difference concerns a case where the agent brings the bill of divorce **from** one **region to** another **region within Eretz Yisrael.** Here there is no concern that the bill of divorce might not have been written for her sake, as the residents of Eretz Yisrael are aware of this requirement. However, witnesses are not necessarily available to confirm the document. **Alternatively,** there is a difference between the two explanations in a case where the agent brings the bill of divorce **within that** same **region in a country overseas.** According to the opinion of Rabba, who says the concern is that the people there might not know that the document must be written for her sake, this problem is equally relevant in this case. However, according to the opinion of Rava, who says that the reason is because witnesses are not available, if the bill of divorce is brought in the same region then the witnesses will be available to ratify it.
-
 The *gemara* presents two elegant *nafka minas* — practical differences — that sharpen the distinction between the two positions. First: a *get* delivered from one province to another within *chutz l'aretz*, but within the same jurisdiction. Here there is no difficulty locating witnesses to verify signatures, so Rava's concern does not apply. But because it is *chutz l'aretz*, there remains a legitimate question whether the scribes and signatories were fully versed in the *halachos* of *lishma*. According to Rabbah, the declaration is required; according to Rava, it is not. Second: a *get* traveling from province to province within *Eretz Yisrael*. There, the *halachic* proficiency of those who wrote and signed the *get* is not in question — but geographic distance makes verification of signatures difficult. According to Rava, the declaration is required; according to Rabbah, it is not. Two positions, two sharply differentiated *nafka minas*.
 
 ---
 
 ## Ed Echad Question
 
-### One Witness Problem
 
-> **Hebrew/Aramaic:** וּלְרַבָּה דְּאָמַר לְפִי שֶׁאֵין בְּקִיאִים לִשְׁמָהּ – לִיבְעֵי תְּרֵי, מִידֵּי דְּהָוֵה אַכֹּל עֵדֻיוֹת שֶׁבַּתּוֹרָה!
->
-> **Translation:** The Gemara asks: **And according to** the opinion of **Rabba, who said** that the reason is **because they are not experts** in writing a bill of divorce **for her sake, let us require two** witnesses to testify about this, **just as is** the case **with regard to all testimonies in the Torah.**
+
+### One Witness Problem
 
 Having identified what the *shaliach's* declaration accomplishes, the *gemara* turns to a deeper structural question: why does a single witness suffice? Whether the *shaliach* is certifying *lishma* (Rabbah) or authenticating signatures (Rava), this would normally appear to require two witnesses. The *gemara* begins to press this question.
 
 ### Ed Echad Principle
 
-> **Hebrew/Aramaic:** עֵד אֶחָד נֶאֱמָן בְּאִיסּוּרִין.
->
-> **Translation:** The Gemara answers: **One witness is deemed credible with regard to prohibitions.** In other words, if there is uncertainty as to whether a matter is prohibited or permitted, in the case of the heretofore married woman, the testimony of one witness is sufficient.
-
 The initial answer offered is the well-established principle of *eid echad ne'eman b'issurin* — a single witness is trusted in matters of *issur*, religious prohibition. Just as we trust one person to tell us that a piece of meat is *kosher*, we may trust one person to say that this *get* is halachically valid. The *get* is, from this vantage point, a question of permitted and forbidden — is this woman now permitted to remarry? — and in that domain, one witness carries sufficient weight.
 
 ### Itchazek Issura Issue
 
-> **Hebrew/Aramaic:** אֵימוֹר דְּאָמְרִינַן עֵד אֶחָד נֶאֱמָן בְּאִיסּוּרִין, כְּגוֹן חֲתִיכָה סָפֵק שֶׁל חֵלֶב סָפֵק שֶׁל שׁוּמָּן, דְּלָא אִיתַּחְזַק אִיסּוּרָא; אֲבָל הָכָא, דְּאִיתַּחְזַק אִיסּוּרָא דְּאֵשֶׁת אִישׁ, הָוֵי דָּבָר שֶׁבָּעֶרְוָה; וְאֵין דָּבָר שֶׁבְּעֶרְוָה פָּחוֹת מִשְּׁנַיִם!
->
-> **Translation:** The Gemara asks: One can **say that we say one witness is deemed credible with regard to prohibitions** in a case **such as** where there is **a piece** of fat, and it is **uncertain** if it is forbidden **fat** [***ḥelev***] and **uncertain** if it is permitted **fat.** In this situation the piece can be rendered permitted by a single witness, **as there is no presumption** that it is **forbidden.** Therefore, as there is an uncertainty, and one witness said it is permitted fat, he is deemed credible. **However, here, where there is a presumption** that this woman is **forbidden, as** she is **a married woman,** a status she retains until it is established that she has received a bill of divorce, if so, this **is a matter of forbidden sexual relations, and** the general principle is that **there is no matter** of testimony **for forbidden sexual relations** that can be attested to by **fewer than two** witnesses.
-
 The *gemara* immediately raises a powerful objection. The principle of *eid echad ne'eman b'issurin* applies when the status of an object is genuinely unknown at the outset. A piece of meat whose identity is unclear — is it *chelev* or permitted fat? — may be ruled upon by one witness. But here, the woman's status is not unknown. She is a married woman. Her *issur* has been established: *itchazek issura d'eishet ish*. When a forbidden status is already fixed and certain, one witness is ordinarily insufficient to overturn it. This significantly complicates the initial answer.
 
 ### Tosafot Defense
+
 
 *Tosafos* raises a further nuance in defense of *eid echad*. We do, in fact, trust single witnesses even regarding established forbidden statuses in certain contexts — the butcher, for instance, or one's wife who has prepared meat at home. We believe them that the *shechita* was performed, the fat removed, the meat properly treated. *Tosafos* explains the distinction: in those cases, the matter was *b'yado* — within the power and ability of that very person to perform or arrange. A butcher could kasher the meat; a wife could ensure it was done correctly. Here, however, no one can divorce this woman except her husband. The act is entirely outside anyone else's control. That is the *gemara's* point: *b'yado* is the key criterion, and it is absent here.
 
@@ -66,11 +50,9 @@ Even setting aside *itchazek issura*, there is a second, independent obstacle: t
 
 ## Rov Beki'in Solution
 
-### Rov Principle
 
-> **Hebrew/Aramaic:** רוֹב בְּקִיאִים הֵן. וַאֲפִילּוּ לְרַבִּי מֵאִיר דְּחָיֵישׁ לְמִיעוּטָא – סְתָם סָפְרֵי דְּדַיָּינֵי מִיגְמָר גְּמִירִי, וְרַבָּנַן הוּא דְּאַצְרוּךְ; וְהָכָא
->
-> **Translation:** The Gemara answers: Rabba's concern is not equivalent to a case of uncertainty, as **most** Jewish people **are experts** in the requirement that a bill of divorce must be written for the woman's sake. **And** this is so **even according to** the opinion of **Rabbi Meir, who is** generally **concerned about a minority** in a matter of forbidden sexual relations. In this case Rabbi Meir concedes that one need not be concerned for the minority, as **ordinary judicial scribes,** who write bills of divorce, **are learned** in this *halakha*, and know that a bill of divorce must be written for the woman's sake. **And it is the Sages who required** testimony about this matter, as an extra precaution. **And here,**
+
+### Rov Principle
 
 The *gemara* now offers its answer. The underlying premise of the concern — that perhaps the *get* was not written *lishma* — does not actually rise to the level of a genuine *safek* requiring formal resolution. This is because of *rov beki'in*: the majority of people, even in *chutz l'aretz*, are in fact familiar with and committed to the *halachos* of *lishma*. The majority rule allows us to simply assume that the *get* was performed correctly without requiring any formal verification.
 
@@ -94,10 +76,15 @@ A *mi'ut d'shchiach* generates a *leidas hasafek* — it raises a question that 
 
 ## Aguna Concern
 
+
+
+[DAF:3a]
 ### Rabbis' Initiative
 
-> **Hebrew/Aramaic:** מִשּׁוּם עִיגּוּנָא אַקִּילוּ בַּהּ רַבָּנַן.
->
+> **Hebrew/Aramaic:** רוֹב בְּקִיאִין הֵן. וַאֲפִילּוּ לְרַבִּי מֵאִיר דְּחָיֵישׁ לְמִיעוּטָא – סְתָם סָפְרֵי דְּדַיָּינֵי מִיגְמָר גְּמִירִי, וְרַבָּנַן הוּא דְּאַצְרוּךְ; וְהָכָא
+> **Translation:** The Gemara answers: Rabba’s concern is not equivalent to a case of uncertainty, as **most** Jewish people **are experts** in the requirement that a bill of divorce must be written for the woman’s sake. **And** this is so **even according to** the opinion of **Rabbi Meir, who is** generally **concerned about a minority** in a matter of forbidden sexual relations. In this case Rabbi Meir concedes that one need not be concerned for the minority, as **ordinary judicial scribes,** who write bills of divorce, **are learned** in this *halakha*, and know that a bill of divorce must be written for the woman’s sake. **And it is the Sages who required** testimony about this matter, as an extra precaution. **And here,** with regard to this testimony,
+
+> **Hebrew/Aramaic:** מִשּׁוּם עִיגּוּנָא אַקִּילוּ בַּהּ רַבָּנַן.
 > **Translation:** **due to** the possibility of **desertion,** i.e., that she may become like a deserted wife, **the Sages were lenient with her** by saying that the agent who brought the bill of divorce is deemed credible, despite the fact that he is a single witness. This is to prevent women from becoming uncertain of their marital status as a result of the lack of testimony needed to ratify the bill of divorce.
 
 Given the foregoing analysis, the *gemara* reaches a striking conclusion: from a purely technical standpoint, we should never have needed the *shaliach* to say anything at all. The *rov* of scribes know the *halacha*; the minority is too trivial to generate concern. And yet the Rabbis specifically created the requirement of *bifanai nechtav bifanai nechtam*. The *gemara* explains: *ve-rabbanan hu de-atzrich* — it is the Rabbis who imposed this additional demand, requiring that even a non-issue be formally addressed. They introduced a concern that strict halachic logic did not require. This is one of the first explicit invocations of the principle that will recur throughout the tractate: *mishum aguna akilu bah rabbanan* — because of the concern for *aguna*, a woman who would otherwise be unable to remarry, the Rabbis acted.
@@ -118,18 +105,18 @@ The practical consequences of demanding two witnesses would have been severe. A 
 
 ## Defense of One Witness
 
+
+
 ### Apparent Stringency
 
-> **Hebrew/Aramaic:** הַאי קוּלָּא הוּא?! חוּמְרָא הוּא! דְּאִי מַצְרְכַתְּ לֵיהּ תְּרֵי – לָא אָתֵי בַּעַל מְעַרְעֵר וּפָסֵיל לֵיהּ; חַד – אָתֵי בַּעַל וּמְעַרְעֵר וּפָסֵיל לֵיהּ!
->
+> **Hebrew/Aramaic:** הַאי קוּלָּא הוּא?! חוּמְרָא הוּא! דְּאִי מַצְרְכַתְּ לֵיהּ תְּרֵי – לָא אָתֵי בַּעַל מְעַרְעֵר וּפָסֵיל לֵיהּ; חַד – אָתֵי בַּעַל וּמְעַרְעֵר וּפָסֵיל לֵיהּ!
 > **Translation:** The Gemara asks: **Is this** ruling **a leniency? It is a stringency, since if you require two** witnesses to testify **with regard to** the bill of divorce, her **husband cannot come** to **contest and invalidate it,** as his testimony will not be accepted against that of the two witnesses. However, if only **one** agent brings the bill of divorce, the **husband** can **come and contest and invalidate** the document.
 
 The *gemara* now raises an incisive challenge: *hai kulla bu humra hu* — do you think this is a leniency? It is actually a stringency in disguise. By accepting only one witness rather than two, you have set the woman up for disaster. *De-im mas'rechet trei* — if you required two witnesses at the outset, a husband would have no opening to later challenge the *get* with any success. Two witnesses, properly testified before a *beis din*, are close to unassailable. But with only one witness, the *gemara* fears: *ati ba'al u'fasel lei* — the husband might come later and invalidate it. He might claim the *get* was not written *lishma*, that the process was flawed, that he had not truly understood what he was doing. If only one person stands behind the *get*, such a challenge might succeed. The woman might be left in the worst possible position — having lived as though divorced, now told the *get* is invalid.
 
 ### Shaliach Diligence
 
-> **Hebrew/Aramaic:** כֵּיוָן דְּאָמַר מָר: בִּפְנֵי כַּמָּה נוֹתְנוֹ לָהּ? רַבִּי יוֹחָנָן וְרַבִּי חֲנִינָא; חַד אָמַר: בִּפְנֵי שְׁנַיִם, וְחַד אָמַר: בִּפְנֵי שְׁלֹשָׁה; מֵעִיקָּרָא מִידָּק דָּיֵיק, וְלָא אָתֵי לְאוֹרוֹעֵי נַפְשֵׁיהּ.
->
+> **Hebrew/Aramaic:** כֵּיוָן דְּאָמַר מָר: בִּפְנֵי כַּמָּה נוֹתְנוֹ לָהּ? רַבִּי יוֹחָנָן וְרַבִּי חֲנִינָא; חַד אָמַר: בִּפְנֵי שְׁנַיִם, וְחַד אָמַר: בִּפְנֵי שְׁלֹשָׁה; מֵעִיקָּרָא מִידָּק דָּיֵיק, וְלָא אָתֵי לְאוֹרוֹעֵי נַפְשֵׁיהּ.
 > **Translation:** The Gemara answers: **Since the Master says: In the presence of how many** people must the agent who brings the bill of divorce **give it to** the woman? **Rabbi Yoḥanan and Rabbi Ḥanina** disagreed with regard to this issue. **One said** that he must deliver it to her **in the presence of** at least **two** people, **and one said** that he must deliver it to her **in the presence of** at least **three** people, as three individuals are considered a court. Therefore, **at the outset** the agent is **careful** to clarify the matter fully, **and he will not act to his own detriment** by bringing an invalid bill of divorce.
 
 The *gemara* resolves this through a principle the later *rishonim* articulate as *me'ikara mi-dikdaik* — from the very outset, the *shaliach* is extremely careful. The reason is that, as the *gemara* notes — *bifnei kama nosna lah*, in front of how many does the *shaliach* deliver the *get*? — a debate between Rabbi Yochanan and Rabbi Chanina addresses this question: one holds the *shaliach* delivers before two witnesses, the other before three. The point is that the *shaliach* knows his declaration must be made before an audience. He is submitting what amounts to formal testimony. A person who knows he will have to formally testify is not cavalier about what he is testifying to; he makes absolutely certain in advance that the facts are as he will state them. Moreover, *v'lo ati l'irurei nafshei* — he will not put himself in the position of having his testimony publicly challenged and undermined.
@@ -142,19 +129,24 @@ Rashi adds an important dimension to what *me'ikara mi-dikdaik* actually entails
 
 Rashi adds a second point. Even if a challenge does occur — whether based on legitimate concerns or on a husband's change of heart — *eino ne'eman*: the husband is not believed. *De-vadai dak be-milta ve-shapir* — the *shaliach* unquestionably knew what he was saying, and his claim carries more weight than the husband's belated challenge. This second point is crucial to the *gemara's* overall structure: not only is a challenge unlikely (because the *shaliach* has prevented it from arising), but even if it does arise, the *get* is protected because the *shaliach* will prevail.
 
+What makes this striking is that one might expect the opposite result. The husband is after all the *ba'al davar* — the principal, the one who initiated the entire transaction — and it would seem natural to give his word the greatest weight. The *shaliach*, one could argue, has a stake in the matter, potentially a financial interest in the delivery having been completed successfully, which would make him *nogeia badavar* and therefore compromised. And yet the *gemara* concludes that we believe the *shaliach* over the husband's challenge. The logic is that the *shaliach* is not fraudulent — we are not concerned that he has concocted a scheme — and so if the husband comes forward claiming the *get* was never sent or that the signatures were somehow invalid, it reduces to nothing more than a *he-said-she-said* confrontation. In that confrontation, the *shaliach's* upfront testimony, given when he had no reason to fabricate, carries the day. The husband's challenge, arriving only after the fact and almost certainly driven by regret rather than genuine halachic concern, does not succeed in unraveling the *get*.
+
 ### Mishna Support
 
 *Tosafos* points out that this resolution finds implicit support in the *mishna* itself. The *mishna* states, regarding *gittin* in *Eretz Yisrael* — where no initial declaration is required — *im yesh alav orerim yitkayem be-chotmav*: if the *get* is challenged, it must be validated through its signatures. The contrast is instructive. In *Eretz Yisrael*, without an upfront declaration, a challenge can succeed in forcing signature validation. But in *chutz l'aretz*, where the *shaliach* has made the declaration of *bifanai nechtav bifanai nechtam*, the *mishna* strongly implies that a challenge does not open the door to re-examination. The upfront declaration serves as a shield against future challenge, precisely as the *gemara* has been arguing.
+
+One might ask why the *shaliach* would even care whether his word is later challenged. After all, he has already carried out his task and delivered the *get*. The answer is straightforward: if a *shaliach* travels and testifies in a formal setting, and that testimony becomes the basis on which a *get* is delivered to a woman, he will naturally not want the husband to publicly turn around and call him a liar. *Ein adam chotei v'lo lo* — a person does not expose himself to that kind of reputational harm for no personal benefit. This is not a formal halachic point about the mechanics of *edus*; it is simply an observation about human nature and the social stakes of having one's word publicly contested.
 
 ---
 
 ## Rava's Signature Valid
 
+
+
 ### Signature Validation Q
 
-> **Hebrew/Aramaic:** וּלְרָבָא דְּאָמַר לְפִי שֶׁאֵין עֵדִים מְצוּיִים לְקַיְּימוֹ – לִיבְעֵי תְּרֵי, מִידֵּי דְּהָוֵה אַקִּיּוּם שְׁטָרוֹת דְּעָלְמָא!
->
-> **Translation:** The Gemara asks: **And according to** the opinion of **Rava, who said** that the agent must say: It was written in my presence and it was signed in my presence, **because there are no witnesses available to ratify it, let us require two** witnesses, **just as is** the practice with regard to the **typical** case of **ratification of** legal **documents,** which must be performed via two witnesses.
+> **Hebrew/Aramaic:** וּלְרָבָא דְּאָמַר לְפִי שֶׁאֵין עֵדִים מְצוּיִין לְקַיְּימוֹ – לִיבְעֵי תְּרֵי, מִידֵּי דְּהָוֵה אַקִּיּוּם שְׁטָרוֹת דְּעָלְמָא! עֵד אֶחָד נֶאֱמָן בְּאִיסּוּרִין.
+> **Translation:** The Gemara asks: **And according to** the opinion of **Rava, who said** that the agent must say: It was written in my presence and it was signed in my presence, **because there are no witnesses available to ratify it, let us require two** witnesses, **just as is** the practice with regard to the **typical** case of **ratification of** legal **documents,** which must be performed via two witnesses. The Gemara answers as above: **One witness is deemed credible with regard to prohibitions.**
 
 Having resolved the question for Rabbah's position — why one witness suffices to certify *lishma* — the *gemara* turns to the parallel question for Rava. Rava holds that the *shaliach's* function is to authenticate signatures, addressing the absence of *eidim metzuyim* who could verify them. Here too, the question immediately arises: *liba'ei trei* — why not require two? Signature validation is a formal halachic process; since when does one person suffice?
 
@@ -164,18 +156,16 @@ The process at issue is *kiyum shtaros* — the standard legal procedure for val
 
 ### Ed Echad Issurin
 
-> **Hebrew/Aramaic:** עֵד אֶחָד נֶאֱמָן בְּאִיסּוּרִין.
->
-> **Translation:** The Gemara answers as above: **One witness is deemed credible with regard to prohibitions.**
 
 The *gemara* offers the same answer as before: *eid echad ne'eman b'issurin*. One witness is trusted in matters of *issur*. This is a striking application of the principle. The *gemara* is not treating the *get* as an ordinary *shtar* in the domain of civil law — *mammonus* — where signature validation would clearly require two. Instead, it is recategorizing the authentication of this document as fundamentally an *issur v'heter* question. The *shliach* validating the signatures of a *get* is not doing *kiyum shtaros* in the technical civil-law sense; he is testifying that a document capable of changing a woman's halachic status is genuine. That is a question of *issur*, and in that domain, one witness can in principle suffice.
 
-This is a significant *chiddush* in how the *gemara* frames the *get*. The *get* is simultaneously a *shtar* and an instrument of personal status. The *gemara* here chooses to see it through the lens of *issur v'heter* rather than through the lens of documentary law — and that reframing is what permits the testimony of one witness. The *gemara* thus consciously brackets the *shtar* identity of the *get* and foregrounds its *issur* identity.
+This is a significant *chiddush* in how the *gemara* frames the *get*. The *get* is simultaneously a *shtar* and an instrument of personal status. The *gemara* here chooses to see it through the lens of *issur v'heter* rather than through the lens of documentary law — and that reframing is what permits the testimony of one witness. The *gemara* thus consciously brackets the *shtar* identity of the *get* and foregrounds its *issur* identity. One might ask why the same logic could not extend to any *shtar* — if one witness suffices in *issurin*, why not allow one witness to validate the signatures on any document? The answer is that the principle simply does not apply there: a commercial document is an instrument of *mammonus*, not *issur*, and *eid echad ne'eman b'issurin* has no purchase in that domain. What makes the *get* different is precisely that it operates in the world of personal status and *issur v'heter*; even the question of whether its signatures are genuine is, in this context, really a question about whether a woman is permitted or forbidden. It is worth noting, too, that framing the *get* this way aligns with the *gemara*'s earlier insistence on *mishum aguna akilu bei rabbanan* — both moves reflect a sustained orientation toward the *get* as an *issur* instrument rather than a property instrument, standing in deliberate contrast to the view, associated with *Tosafos*, that the wife's status is primarily a matter of the husband's proprietary interest.
+
+The *gemara* will, however, immediately press back on this answer — a question the *gemara* resolves in the following passage.
 
 ### Woman Status Issue
 
-> **Hebrew/Aramaic:** אֵימַר דְּאָמְרִינַן עֵד אֶחָד נֶאֱמָן בְּאִיסּוּרִין, כְּגוֹן חֲתִיכָה סָפֵק שֶׁל חֵלֶב סָפֵק שֶׁל שׁוּמָּן, דְּלָא אִיתַּחְזַק אִיסּוּרָא; אֲבָל הָכָא אִיתַּחְזַק אִיסּוּרָא דְּאֵשֶׁת אִישׁ – הָוֵי דָּבָר שֶׁבָּעֶרְוָה, וְאֵין דָּבָר שֶׁבָּעֶרְוָה פָּחוֹת מִשְּׁנַיִם!
->
+> **Hebrew/Aramaic:** אֵימַר דְּאָמְרִינַן עֵד אֶחָד נֶאֱמָן בְּאִיסּוּרִין, כְּגוֹן חֲתִיכָה סָפֵק שֶׁל חֵלֶב סָפֵק שֶׁל שׁוּמָּן, דְּלָא אִיתַּחְזַק אִיסּוּרָא; אֲבָל הָכָא אִיתַּחְזַק אִיסּוּרָא דְּאֵשֶׁת אִישׁ – הָוֵי דָּבָר שֶׁבָּעֶרְוָה, וְאֵין דָּבָר שֶׁבָּעֶרְוָה פָּחוֹת מִשְּׁנַיִם!
 > **Translation:** Again the Gemara asks: One can **say that we say** that **one witness is deemed credible with regard to prohibitions** in a case **such as** where there is **a piece** of fat, and it is **uncertain** if it is forbidden **fat** and **uncertain** if it is permitted **fat.** In this situation, the piece can be permitted by a single witness, **as there is no presumption** that it is **forbidden. However, here there is a presumption** that this woman is **forbidden as a married woman.** If so, this **is a matter of forbidden sexual relations, and there is no matter** of testimony **for forbidden sexual relations** that can be attested to by **fewer than two** witnesses.
 
 The *gemara* immediately reasserts the same objection it raised for Rabbah's position: *itchazek issura d'eishet ish*. The woman's status as a married woman is established and known. *Eid echad ne'eman b'issurin* applies to cases of genuine uncertainty — a piece of meat of unknown identity, *safeik shel chelev safeik shel shuman*. It does not apply when the forbidden status has already been fixed. A woman who is a married woman is not in an uncertain state; her *issur* is established. One witness cannot overturn what is known and certain.
@@ -188,19 +178,20 @@ Beyond *itchazek issura*, the *gemara* reasserts the second independent obstacle
 
 ## Reish Lakish Principle
 
-### Signatures on Document
 
-> **Hebrew/Aramaic:** בְּדִין הוּא דִּבְקִיּוּם שְׁטָרוֹת נָמֵי לָא לִיבְעֵי, כִּדְרֵישׁ לָקִישׁ – דְּאָמַר רֵישׁ לָקִישׁ: עֵדִים הַחֲתוּמִים עַל הַשְּׁטָר, נַעֲשׂוּ כְּמִי שֶׁנֶּחְקְרָה עֵדוּתָן בְּבֵית דִּין – וְרַבָּנַן הוּא דְּאַצְרוּךְ; וְהָכָא מִשּׁוּם עִיגּוּנָא אַקִּילוּ בַּהּ רַבָּנַן.
->
-> **Translation:** The Gemara answers: **By right** it should be **that with regard to** the **ratification of** legal **documents as well,** the court **should not require** two witnesses, **in accordance with** the opinion **of Reish Lakish. As Reish Lakish says: Witnesses signed on** a legal **document become like** a pair of witnesses **whose testimony has been examined in court,** and the document should be accepted without further ratification. **And it is the Sages who required** the court to ratify documents. **And here,** with regard to bills of divorce, **the Rabbis were lenient with her** by allowing the document to be ratified through the agent's testimony alone, **due to** the possibility of **desertion.**
+
+### Signatures on Document
 
 The *gemara* resolves the impasse by invoking the principle of Reish Lakish: *edim hachatumim al hashtar* — witnesses who are signed on a document.
 
 ### Vetting Presumption
 
+
 Reish Lakish states: *na'asu kemi shenachakra edusam beveis din* — it is as though their testimony has already been received and vetted in a court of law. This is a foundational principle about the nature of signed documents in Jewish law. When two people sign a document, the act of signing is treated as equivalent to appearing before a court and delivering testimony. The *chiddush* is that we do not then require a separate procedure to re-examine and validate what they have said.
 
 The deeper implication, as the *gemara* develops it, is even more striking. Normally when a witness appears before a *beis din*, the court subjects him to *drisha ve-chakira* — rigorous examination and cross-examination. One might think: a person simply wrote something on a document and signed it; where is the cross-examination? Reish Lakish's principle is that the very act of signing constitutes a waiver of that process. The signed document is treated as testimony already vetted.
+
+It is worth pausing to appreciate just how bold this first *chiddush* already is. Consider the ordinary case: if Reuven walks into court and says that Shimon borrowed a hundred dollars from him, the court does not immediately rule in his favor. It puts him through *drisha ve-chakira*, probing his account before accepting it. Now Reuven instead writes those same words in a *shtar* and signs it. The question is a sharp one — what happened to the cross-examination? Reish Lakish's answer is that signing the document stands in place of that entire process: *na'aseh kemi shenachakra eduso beveis din*, what he has written and signed is treated as though it has already passed through that vetting. The *gemara* then takes this principle one step further still, a point the next section addresses directly.
 
 ### Chiddush No Validation
 
@@ -209,6 +200,9 @@ The *gemara* takes this one step further. Not only does Reish Lakish eliminate t
 This may seem counterintuitive — forgeries are certainly possible. But the reasoning appears to be that the exposure to challenge and the social and legal consequences of a detected forgery create a sufficient deterrent. The *gemara* draws an implicit parallel to how signed instruments function in practice: we presume authenticity unless challenged.
 
 ### Rabbinic Requirement
+
+> **Hebrew/Aramaic:** בְּדִין הוּא דִּבְקִיּוּם שְׁטָרוֹת נָמֵי לָא לִיבְעֵי, כִּדְרֵישׁ לָקִישׁ – דְּאָמַר רֵישׁ לָקִישׁ: עֵדִים הַחֲתוּמִים עַל הַשְּׁטָר, נַעֲשׂוּ כְּמִי שֶׁנֶּחְקְרָה עֵדוּתָן בְּבֵית דִּין – וְרַבָּנַן הוּא דְּאַצְרוּךְ; וְהָכָא מִשּׁוּם עִיגּוּנָא אַקִּילוּ בַּהּ רַבָּנַן.
+> **Translation:** The Gemara answers: **By right** it should be **that with regard to** the **ratification of** legal **documents as well,** the court **should not require** two witnesses, **in accordance with** the opinion **of Reish Lakish. As Reish Lakish says: Witnesses signed on** a legal **document become like** a pair of witnesses **whose testimony has been examined in court,** and the document should be accepted without further ratification. **And it is the Sages who required** the court to ratify documents. **And here,** with regard to bills of divorce, **the Rabbis were lenient with her** by allowing the document to be ratified through the agent’s testimony alone, **due to** the possibility of **desertion.**
 
 It follows that the requirement to validate signatures before accepting a document — the entire institution of *kiyum shtaros* — is not a biblical requirement at all. It is a *derabbanan*, a Rabbinic enactment. The Rabbis, as a practical matter, imposed the requirement that documents be validated before a court acts on them. They were not willing to rely on the Reish Lakish presumption in practice without some gatekeeping. But at the *de'oraisa* level, none of this is required. The document, by virtue of its signatures, is presumed valid.
 
@@ -220,11 +214,10 @@ This distinction between *de'oraisa* and *derabbanan* is what resolves the diffi
 
 ## Woman at Risk
 
+
+
 ### Husband Challenge
 
-> **Hebrew/Aramaic:** הַאי קוּלָּא הוּא?! חוּמְרָא הוּא! דְּאִי מַצְרְכַתְּ לֵיהּ תְּרֵי – לָא אָתֵי בַּעַל מְעַרְעֵר וּפָסֵיל לֵיהּ; חַד – אָתֵי בַּעַל וּמְעַרְעֵר וּפָסֵיל לֵיהּ! כֵּיוָן דְּאָמַר מָר: בִּפְנֵי כַּמָּה נוֹתְנוֹ לָהּ? רַבִּי יוֹחָנָן וְרַבִּי חֲנִינָא; חַד אָמַר: בִּפְנֵי שְׁנַיִם, וְחַד אָמַר: בִּפְנֵי שְׁלֹשָׁה; מֵעִיקָּרָא מִידָּק דָּיֵיק וְלָא אָתֵי לְאוֹרוֹעֵי נַפְשֵׁיהּ.
->
-> **Translation:** The Gemara again asks: **Is this** ruling **a leniency? It is a stringency, since if you require two** witnesses to testify **with regard to** the bill of divorce, then her **husband cannot come** to **contest and invalidate it,** whereas if there is only **one** agent, her **husband can come and contest and invalidate it.** Once again the Gemara answers: **Since the Master says: In the presence of how many** people must the agent who brings the bill of divorce **give it to** the woman? **Rabbi Yoḥanan and Rabbi Ḥanina** disagreed with regard to this issue. **One said** that he must deliver it to her **in the presence of** at least **two** people, **and one said** that he must deliver it to her **in the presence of** at least **three** people, as three individuals are considered a court. Therefore, **at the outset** the agent is **careful** to clarify the matter fully, **and he will not act to his own detriment** by bringing an invalid bill of divorce.
 
 The *gemara* raises the same structural objection that it raised for Rabbah's position: this apparent leniency is in fact a stringency. *D'i atzreicht lah trei* — if you required two witnesses to validate the signatures, the husband would have no avenue to come later and challenge the *get*. *Lo ati ba'al u'ma'areer u'pasel lah* — he would not be able to come and contest it and render it invalid. But with only one witness standing behind the signature validation, *ati ba'al u'ma'areer u'pasel lah* — the husband could arrive and challenge the authenticity of the *get*, potentially leaving the woman in a devastating situation.
 
@@ -233,6 +226,9 @@ The *gemara* raises the same structural objection that it raised for Rabbah's po
 The question sharpens: what exactly protects the woman if the husband does raise a challenge? If we have accepted only one witness's testimony that the signatures are genuine, what is the legal weight of that testimony when the husband, who is the *ba'al davar* — the principal and most directly interested party — appears and contests it?
 
 ### Delivery Witnesses
+
+> **Hebrew/Aramaic:** הַאי קוּלָּא הוּא?! חוּמְרָא הוּא! דְּאִי מַצְרְכַתְּ לֵיהּ תְּרֵי – לָא אָתֵי בַּעַל מְעַרְעֵר וּפָסֵיל לֵיהּ; חַד – אָתֵי בַּעַל וּמְעַרְעֵר וּפָסֵיל לֵיהּ! כֵּיוָן דְּאָמַר מָר: בִּפְנֵי כַּמָּה נוֹתְנוֹ לָהּ? רַבִּי יוֹחָנָן וְרַבִּי חֲנִינָא; חַד אָמַר: בִּפְנֵי שְׁנַיִם, וְחַד אָמַר: בִּפְנֵי שְׁלֹשָׁה; מֵעִיקָּרָא מִידָּק דָּיֵיק וְלָא אָתֵי לְאוֹרוֹעֵי נַפְשֵׁיהּ.
+> **Translation:** The Gemara again asks: **Is this** ruling **a leniency? It is a stringency, since if you require two** witnesses to testify **with regard to** the bill of divorce, then her **husband cannot come** to **contest and invalidate it,** whereas if there is only **one** agent, her **husband can come and contest and invalidate it.** Once again the Gemara answers: **Since the Master says: In the presence of how many** people must the agent who brings the bill of divorce **give it to** the woman? **Rabbi Yoḥanan and Rabbi Ḥanina** disagreed with regard to this issue. **One said** that he must deliver it to her **in the presence of** at least **two** people, **and one said** that he must deliver it to her **in the presence of** at least **three** people, as three individuals are considered a court. Therefore, **at the outset** the agent is **careful** to clarify the matter fully, **and he will not act to his own detriment** by bringing an invalid bill of divorce.
 
 The *gemara's* answer parallels its earlier resolution for Rabbah: *bifnei kamma nosna lah* — in front of how many people does the *shaliach* deliver the *get*? Rabbi Yochanan and Rabbi Chanina debate whether it must be two or three. Either way, delivery occurs before witnesses. This structural feature of the *get* delivery process is what protects against challenge. The *shaliach* knows he must deliver before an audience and that his declaration will be part of a formal, witnessed proceeding. Accordingly, *meikara meidakdeik* — from the very outset he takes every care to ensure that the husband was genuinely committed to the *get* and has no misgivings.
 
@@ -244,43 +240,53 @@ Even if a challenge materializes, the *shaliach* is believed over the husband. *
 
 ## Both Phrases Req'd
 
+
+
 ### Writing Phrase Q
 
-> **Hebrew/Aramaic:** וְרָבָא, מַאי טַעְמָא לָא אָמַר כְּרַבָּה? אָמַר לָךְ: מִי קָתָנֵי ״בְּפָנַי נִכְתַּב לִשְׁמָהּ, בְּפָנַי נֶחְתַּם לִשְׁמָהּ״?!
->
-> **Translation:** After clarifying the basic dispute, the Gemara discusses the reasons for each opinion. **And** as for **Rava, what is the reason** that **he did not say like Rabba,** that the reason the agent must declare: It was written in my presence and it was signed in my presence, is due to the concern that the bill of divorce was not written for the woman's sake? The Gemara answers that Rava could have **said to you: Is** it **taught** in the mishna that the agent must say: **It was written in my presence for her sake,** and **it was signed in my presence for her sake?** Since the agent does not testify that it was written for her sake, this indicates that the Sages did not institute the requirement that he state this declaration to ensure that it was written for her sake.
 
 Having established the theoretical foundation for each position, the *gemara* presses further. Rava holds that the *shaliach's* function is to authenticate the signatures. If so, the phrase *bifanai nechtam* — signed before me — is entirely appropriate. But why say *bifanai nechtav* — written before me — at all? If the issue is signature validity, the writing process is irrelevant to Rava's concern. This redundancy is the *gemara's* opening challenge.
 
+The *gemara* draws the inference: *shema mina ba'inan lishma* — we must conclude that *lishma* is required. The very presence of *bifanai nechtav* in the formula signals that the *shaliach* is testifying to something beyond the signatures themselves — namely, how the *get* was written. Rava must therefore account for why the phrase is there at all if his concern is purely with signature authentication. His answer, which the *gemara* will develop momentarily, is that *bifanai nechtav* is not superfluous but serves a distinct purpose: without it, people observing a single witness validate signatures would draw the wrong conclusions about document law more broadly — a question of confusion the *gemara* will resolve in the next stage of the discussion. The deeper point the *gemara* is pressing here, however, is that the formula as it stands does not map cleanly onto either position alone, which is why neither Rabbah nor Rava can claim the phrasing as straightforward support for their view.
+
 ### Confusion Risk
 
-> **Hebrew/Aramaic:** וְרַבָּה? בְּדִין הוּא דְּלִיתְנֵי הָכִי, אֶלָּא דְּאִי מַפְּשַׁתְּ לֵיהּ דִּיבּוּרָא – אָתֵי לְמִגְזְּיֵיהּ.
->
-> **Translation:** The Gemara asks: **And** how does **Rabba** respond to this claim? The Gemara answers: **By right** it is so **that** the mishna should **teach** in **this** manner. **However,** the Sages did not require him to say this, **as if you increase** the agent's requirement to **speak,** by obligating him to state this lengthy declaration, **he will** likely **come to shorten it.** If he has too much to remember, he might forget some of the formula, and his error will render the bill of divorce invalid.
+
+> **Hebrew/Aramaic:** וְרָבָא, מַאי טַעְמָא לָא אָמַר כְּרַבָּה? אָמַר לָךְ: מִי קָתָנֵי ״בְּפָנַי נִכְתַּב לִשְׁמָהּ, בְּפָנַי נֶחְתַּם לִשְׁמָהּ״?!
+> **Translation:** After clarifying the basic dispute, the Gemara discusses the reasons for each opinion. **And** as for **Rava, what is the reason** that **he did not say like Rabba,** that the reason the agent must declare: It was written in my presence and it was signed in my presence, is due to the concern that the bill of divorce was not written for the woman’s sake? The Gemara answers that Rava could have **said to you: Is** it **taught** in the mishna that the agent must say: **It was written in my presence for her sake,** and **it was signed in my presence for her sake?** Since the agent does not testify that it was written for her sake, this indicates that the Sages did not institute the requirement that he state this declaration to ensure that it was written for her sake.
+
+> **Hebrew/Aramaic:** וְרַבָּה? בְּדִין הוּא דְּלִיתְנֵי הָכִי, אֶלָּא דְּאִי מַפְּשַׁתְּ לֵיהּ דִּיבּוּרָא – אָתֵי לְמִגְזְּיֵיהּ.
+> **Translation:** The Gemara asks: **And** how does **Rabba** respond to this claim? The Gemara answers: **By right** it is so **that** the mishna should **teach** in **this** manner. **However,** the Sages did not require him to say this, **as if you increase** the agent’s requirement to **speak,** by obligating him to state this lengthy declaration, **he will** likely **come to shorten it.** If he has too much to remember, he might forget some of the formula, and his error will render the bill of divorce invalid.
+
+> **Hebrew/Aramaic:** הַשְׁתָּא נָמֵי אָתֵי לְמִגְזְּיֵיהּ! חֲדָא מִתְּלָת גָּאֵיז, חֲדָא מִתַּרְתֵּי לָא גָּאֵיז.
+> **Translation:** The Gemara asks: **Now too,** with regard to the formula as it stands, **he will come to shorten it** by omitting either it was written in my presence or it was signed in my presence. The Gemara answers: He is likely to **shorten** it by omitting **one** term out **of three,** such as: For her sake, from the three-term clause: It was written, in my presence, for her sake. However, **he will not shorten** his declaration by omitting **one** term **of two.** Consequently, when asked if it was written in his presence, he will answer with the full statement, and the same is true when he is asked if it was signed in his presence.
+
+> **Hebrew/Aramaic:** וְרַבָּה, מַאי טַעְמָא לָא אָמַר כְּרָבָא? אָמַר לָךְ: אִם כֵּן נִיתְנֵי ״בְּפָנַי נֶחְתַּם״ וְתוּ לָא; ״בְּפָנַי נִכְתַּב״ לְמָה לִי? שְׁמַע מִינַּהּ בָּעֵינַן לִשְׁמָהּ.
+> **Translation:** The Gemara asks concerning the other opinion: **And** as for **Rabba, what is the reason** that **he did not say like Rava,** that the reason for the decree is because witnesses may not be available to ratify the bill of divorce? The Gemara answers that Rabba could have **said to you: If so, let** the mishna **teach: It was signed in my presence, and nothing more,** as this is a confirmation that the signatures of the witnesses on the document are valid. **Why do I** need the agent to add: **It was written in my presence? Conclude from it** that the reason for this decree is because **we need** the bill of divorce to be written **for her sake.**
+
+> **Hebrew/Aramaic:** וְרָבָא? בְּדִין הוּא דְּלִיתְנֵי הָכִי, אֶלָּא דְּאִם כֵּן, אָתֵי לְאִיחַלּוֹפֵי בְּקִיּוּם שְׁטָרוֹת דְּעָלְמָא – בְּעֵד אֶחָד.
+> **Translation:** The Gemara asks: **And** how does **Rava** respond to this claim? The Gemara answers: Rava would answer that **by right** it is so **that** the mishna should **teach** in **this** manner. **But if** this were to be **so,** that the agent declares merely: It was signed in my presence, people **will come to confuse** the matter **with the typical** case of **ratification of** legal **documents.** In other words, they will think it is possible to ratify other documents via the testimony **of one witness.** Consequently, the Sages added that the agent must also declare: It was written in my presence, which is not generally stated with regard to the confirmation of other documents.
+
+> **Hebrew/Aramaic:** וְרַבָּה: מִי דָּמֵי?! הָתָם ״יָדְעִינַן״, הָכָא ״בְּפָנַי״;
+> **Translation:** The Gemara comments: **And Rabba** would respond as follows: There is no concern that people will confuse the ratification of a bill of divorce with the typical case of the ratification of legal documents, as **are** the two cases **comparable** at all? **There,** with regard to the ratification of other documents, the witnesses need only say: **We know** that these are the signatures of the witnesses on the document. By contrast, **here,** in the case of a bill of divorce, the agent must say: It was signed **in my presence.**
+
+> **Hebrew/Aramaic:** הָתָם אִשָּׁה לָא מְהֵימְנָא, הָכָא אִשָּׁה מְהֵימְנָא; הָתָם בַּעַל דָּבָר לָא מְהֵימַן, הָכָא בַּעַל דָּבָר מְהֵימַן.
+> **Translation:** Additionally, **there,** in the case of other documents, **a woman is not deemed credible,** whereas **here, a woman is deemed credible** when she brings a bill of divorce and declares that it was written and signed in her presence. Additionally, **there,** in the case of other documents, **an interested party is not deemed credible** to testify concerning the validity of the document. However, **here, an interested party is deemed credible,** as even the woman herself can bring her bill of divorce and testify that it was drafted in the correct manner.
 
 The *gemara* presents Rava's answer: if the *shaliach* said only *bifanai nechtam*, people observing this would conclude that one witness can validate signatures in the context of *kiyum shtaros* generally. *Ati l'achlufei b'kiyum shtaros de'alma b'eid echad* — people would confuse this with normal signature validation, conclude that one witness is sufficient for all documents, and halachic standards for document validation would erode. To prevent this confusion, Rava agrees that *bifanai nechtav* must be stated as well, signaling that something categorically different from standard *kiyum shtaros* is occurring.
 
 ### Three Factors
 
-> **Hebrew/Aramaic:** הַשְׁתָּא נָמֵי אָתֵי לְמִגְזְּיֵיהּ! חֲדָא מִתְּלָת גָּאֵיז, חֲדָא מִתַּרְתֵּי לָא גָּאֵיז.
->
-> **Translation:** The Gemara asks: **Now too,** with regard to the formula as it stands, **he will come to shorten it** by omitting either it was written in my presence or it was signed in my presence. The Gemara answers: He is likely to **shorten** it by omitting **one** term out **of three,** such as: For her sake, from the three-term clause: It was written, in my presence, for her sake. However, **he will not shorten** his declaration by omitting **one** term **of two.** Consequently, when asked if it was written in his presence, he will answer with the full statement, and the same is true when he is asked if it was signed in his presence.
-
 Rabbah pushes back on Rava's reasoning: are there not already enough distinguishing features to prevent this confusion? Rava himself articulates three. First, the language itself: in normal *kiyum shtaros*, witnesses say *yadina* — "we recognize these signatures." The *shaliach* says *bifanai* — "before me" — an entirely different formulation that already signals a departure from the norm. Second, women are eligible to serve as *shaliach* and make this declaration, whereas women cannot serve as witnesses in ordinary *kiyum shtaros*. Third, the *ba'al davar* — the principal, the interested party — can serve as *shaliach* here; under normal circumstances, an interested party cannot validate signatures. The wife herself could in principle serve as *shaliach* in a specially constructed case. These three differences, Rabbah argues, already mark this practice as sui generis, making *bifanai nechtav* unnecessary.
 
 ### Rabbah Counter
 
-> **Hebrew/Aramaic:** וְלְרַבָּה דְּאָמַר לְפִי שֶׁאֵין בְּקִיאִים לִשְׁמָהּ, מַאן הַאי תַּנָּא דְּבָעֵי כְּתִיבָה לִשְׁמָהּ, וּבָעֵי חֲתִימָה לִשְׁמָהּ? אִי רַבִּי מֵאִיר – חֲתִימָה בָּעֵי, כְּתִיבָה לָא בָּעֵי! דִּתְנַן: אֵין כּוֹתְבִין בִּמְחוּבָּר לַקַּרְקַע. כְּתָבוֹ עַל הַמְחוּבָּר לַקַּרְקַע, תְּלָשׁוֹ, חֲתָמוֹ וּנְתָנוֹ לָהּ – כָּשֵׁר!
->
-> **Translation:** The Gemara asks: **And according to** the opinion of **Rabba, who said** that the reason for the declaration: It was written in my presence and it was signed in my presence, is **because they are not experts** in writing a bill of divorce **for her sake, who is this *tanna* who requires** that the **writing** of the bill of divorce must be performed **for her sake, and** also **requires** that the **signing** must be performed **for her sake? If** it is in accordance with the opinion of **Rabbi Meir,** he **requires signing** for her sake; however, **he does not require** that the **writing** must be for her sake. **As we learned** in a mishna (21b): **One may not write** a bill of divorce **on** anything that is **attached to the ground,** e.g., a leaf attached to a tree. However, if **he wrote it on** something that is **attached to the ground,** and then he **detached it, signed it, and gave it to her,** it is **valid.** This indicates that the essential stage of writing a bill of divorce is when it is signed by witnesses.
+> **Hebrew/Aramaic:** וְרָבָא אָמַר לָךְ: אַטּוּ הָכָא כִּי אָמְרִי ״יָדְעִינַן״ מִי לָא מְהֵימְנִי?! וְכֵיוָן דְּכִי אָמְרִי ״יָדְעִינַן״ מְהֵימְנִי, אָתֵי לְאִיחַלּוֹפֵי בְּקִיּוּם שְׁטָרוֹת דְּעָלְמָא – בְּעֵד אֶחָד.
+> **Translation:** **And Rava,** how would he respond to this claim? He could have **said to you: Is that to say** that **here,** in the case of a bill of divorce, **if** the witnesses of ratification **say: We know, they are not deemed credible?** They would be deemed credible even if they used that formula. **And since when** they **say: We know, they are deemed credible,** people **will come to confuse it with the typical** case of **ratification of** legal **documents,** which they will perform **via one witness.**
 
 Rava's response is that these distinguishing factors are insufficient. The textual difference — *bifanai* versus *yadina* — does not actually preclude confusion, because if the *shaliach* were to say *yadina* rather than *bifanai nechtam*, we would still accept the testimony. As *Tosafos* clarifies: Rava's concern is not that a single *shaliach* saying *bifanai* would be confused with *kiyum shtaros*, but that if two people delivered the *get*, they could say *yadina* — and that would genuinely resemble standard signature validation with two witnesses. The public might then draw the wrong lesson. Because in practice the *shaliach* might fall back on *yadina* rather than *bifanai*, and because this would be accepted, there remains a real risk of confusion unless *bifanai nechtav* is also stated.
 
 ### Both Required
-
-> **Hebrew/Aramaic:** וּלְרַבָּה דְּאָמַר לְפִי שֶׁאֵין בְּקִיאִים לִשְׁמָהּ, מַאן הַאי תַּנָּא דְּבָעֵי כְּתִיבָה לִשְׁמָהּ, וּבָעֵי חֲתִימָה לִשְׁמָהּ?
->
-> **Translation:** [This question carries the analysis forward to the next major section.]
 
 The resolution is that both phrases are necessary, each serving a distinct purpose. *Bifanai nechtav* addresses Rabbah's concern — certifying *lishma* — and also, for Rava, signals that this is not ordinary *kiyum shtaros*. *Bifanai nechtam* addresses Rava's concern — authenticating signatures — and also, for Rabbah, confirms that the *chasimah* was likewise performed according to *halacha*. Together, the two phrases reflect both dimensions of the *get's* validity, and together they make the declaration's unique character unmistakably clear.
 
@@ -288,13 +294,23 @@ The resolution is that both phrases are necessary, each serving a distinct purpo
 
 ## Writing vs. Signing
 
+
+
+[DAF:3b]
 ### Both Lishma Q
 
-> **Hebrew/Aramaic:** אִי רַבִּי מֵאִיר – חֲתִימָה בָּעֵי, כְּתִיבָה לָא בָּעֵי! דִּתְנַן: אֵין כּוֹתְבִין בִּמְחוּבָּר לַקַּרְקַע. כְּתָבוֹ עַל הַמְחוּבָּר לַקַּרְקַע, תְּלָשׁוֹ, חֲתָמוֹ וּנְתָנוֹ לָהּ – כָּשֵׁר!
->
-> **Translation:** **If** it is in accordance with the opinion of **Rabbi Meir,** he **requires signing** for her sake; however, **he does not require** that the **writing** must be for her sake. **As we learned** in a mishna (21b): **One may not write** a bill of divorce **on** anything that is **attached to the ground,** e.g., a leaf attached to a tree. However, if **he wrote it on** something that is **attached to the ground,** and then he **detached it, signed it, and gave it to her,** it is **valid.** This indicates that the essential stage of writing a bill of divorce is when it is signed by witnesses. The Gemara says that this is Rabbi Meir's opinion, as an unattributed ruling in the mishna typically follows the opinion of Rabbi Meir.
+> **Hebrew/Aramaic:** וּלְרַבָּה דְּאָמַר לְפִי שֶׁאֵין בְּקִיאִין לִשְׁמָהּ, מַאן הַאי תַּנָּא דְּבָעֵי כְּתִיבָה לִשְׁמָהּ, וּבָעֵי
+> **Translation:** The Gemara asks: **And according to** the opinion of **Rabba, who said** that the reason for the declaration: It was written in my presence and it was signed in my presence, is **because they are not experts** in writing a bill of divorce **for her sake, who is this *tanna* who requires** that the **writing** of the bill of divorce must be performed **for her sake, and** also **requires**
+
+> **Hebrew/Aramaic:** חֲתִימָה לִשְׁמָהּ? אִי רַבִּי מֵאִיר – חֲתִימָה בָּעֵי, כְּתִיבָה לָא בָּעֵי! דִּתְנַן: אֵין כּוֹתְבִין בִּמְחוּבָּר לַקַּרְקַע. כְּתָבוֹ עַל הַמְחוּבָּר לַקַּרְקַע, תְּלָשׁוֹ, חֲתָמוֹ וּנְתָנוֹ לָהּ – כָּשֵׁר!
+> **Translation:** that the **signing** must be performed **for her sake? If** it is in accordance with the opinion of **Rabbi Meir,** he **requires signing** for her sake; however, **he does not require** that the **writing** must be for her sake. **As we learned** in a mishna (21b): **One may not write** a bill of divorce **on** anything that is **attached to the ground,** e.g., a leaf attached to a tree. However, if **he wrote it on** something that is **attached to the ground,** and then he **detached it, signed it, and gave it to her,** it is **valid.** This indicates that the essential stage of writing a bill of divorce is when it is signed by witnesses. The Gemara says that this is Rabbi Meir’s opinion, as an unattributed ruling in the mishna typically follows the opinion of Rabbi Meir.
+
+> **Hebrew/Aramaic:** אִי רַבִּי אֶלְעָזָר – כְּתִיבָה בָּעֵי, חֲתִימָה לָא בָּעֵי! וְכִי תֵּימָא לְעוֹלָם רַבִּי אֶלְעָזָר הִיא, וְכִי לָא בָּעֵי רַבִּי אֶלְעָזָר חֲתִימָה לִשְׁמָהּ – מִדְּאוֹרָיְיתָא, מִדְּרַבָּנַן – בָּעֵי; וְהָא שְׁלֹשָׁה גִּיטִּין פְּסוּלִין דְּרַבָּנַן, וְלָא בָּעֵי רַבִּי אֶלְעָזָר חֲתִימָה לִשְׁמָהּ!
+> **Translation:** **If** it is in accordance with the opinion of **Rabbi Elazar,** who disagrees with Rabbi Meir and **requires** that the **writing** must be for her sake, **he does not require** that the **signing** must be for her sake. **And if you would say** that **actually** the mishna **is** in accordance with the opinion of **Rabbi Elazar, and when Rabbi Elazar does not require signing for her sake,** he means **by Torah law,** whereas **by rabbinic law he requires** that bills of divorce must be signed for her sake; **but** that is untenable, as the Sages listed **three bills of divorce** that are valid by Torah law but are **invalid by rabbinic law, and** when he disputes that ruling **Rabbi Elazar does not require** that the **signing** must be **for her sake.**
 
 The *gemara* now turns to a foundational question about the nature of a *get* as a halachic instrument. If the concern is *lishma* and the declaration includes both *bifanai nechtav* and *bifanai nechtam*, the implication is that both the *kesivah* — the writing — and the *chasimah* — the signing — must be performed *lishma*. Who is the *tanna* who holds this? The *gemara* frames this as a search for the author of the *mishna's* formulation, and in doing so, introduces the most fundamental debate of *Masechet Gittin*.
+
+The debate turns on what it is that essentially constitutes a *get* as a legal instrument in the first place. A *get* is a *shtar*, a document, and the question is: at what point does it acquire that identity? One way to think about it is that a *shtar* becomes a *shtar* by virtue of being signed. Until it bears signatures, it is merely words on paper — it testifies to nothing and obligates nothing. This is not an abstract point. Consider the *ketubah*: the practice in many *ketubot* is to leave the word *vekanina* — affirming that a *kinyan* was performed — blank until the *kinyan* actually takes place. The reason given is that one does not want the document to say something false. But in truth, this concern is technically unnecessary, because the document is not saying anything at all until it is signed. It could perfectly well contain the word *vekanina* from the outset, since it makes no legal assertion until the moment of signing. The signing is what activates the document's content and transforms it into testimony. If that is right — if the *shtar* comes into being through its *chasimah* — then the *halachos* of *get* should properly focus on the signing, not the writing, and it is the *chasimah* that must be performed *lishma*. On the other hand, one could hold that the writing is the constitutive act, and it is the *kesivah* that must be *lishma*. The striking feature of the *mishna's* formulation, then, is that it seems to require *lishma* for both — *nichtav* and *nechtam* together — and the *gemara* asks *man hai tanna d'ba'i kesivah lishmah v'chasimah lishmah* — who is this *tanna* who requires both the writing *lishma* and the signing *lishma*? The search for that *tanna* now drives the discussion forward.
 
 ### Rabbi Meir Position
 
@@ -306,33 +322,28 @@ The *gemara* derives Rabbi Meir's position from the rule that *ein kosvin b'mchu
 
 ### Cutting Down Valid
 
-However, if one violated this rule and wrote on something attached to the ground, and then *telasho v'chasamo u'nesano lah* — uprooted it, signed it, and delivered it — the *get* is *kasher*. This is the critical datum for understanding Rabbi Meir. Nothing occurred between the signing and the delivery. Even though something did intervene between the writing and the delivery — namely, the cutting down — this is irrelevant, because what matters is the signing. The *chasimah* is the *ikar*; it is the act that constitutes the *get*.
+However, if one violated this rule and wrote on something attached to the ground, and then *telasho v'chasamo u'nesano lah* — uprooted it, signed it, and delivered it — the *get* is *kasher*. This is the critical datum for understanding Rabbi Meir. Nothing occurred between the signing and the delivery. Even though something did intervene between the writing and the delivery — namely, the cutting down — this is irrelevant, because what matters is the signing. The *chasimah* is the *ikar*; it is the act that constitutes the *get*. The practical corollary is that *lechatchila* — at the outset — one should not write on attached material, because of the risk of forgetting to sign before cutting it down. But that is a precautionary concern, not a statement about what makes the *get* fundamentally valid.
 
 ### Rabbi Eliezer Position
-
-> **Hebrew/Aramaic:** אִי רַבִּי אֶלְעָזָר – כְּתִיבָה בָּעֵי, חֲתִימָה לָא בָּעֵי! וְכִי תֵּימָא לְעוֹלָם רַבִּי אֶלְעָזָר הִיא, וְכִי לָא בָּעֵי רַבִּי אֶלְעָזָר חֲתִימָה לִשְׁמָהּ – מִדְּאוֹרָיְיתָא, מִדְּרַבָּנַן – בָּעֵי; וְהָא שְׁלֹשָׁה גִּיטִּין פְּסוּלִין דְּרַבָּנַן, וְלָא בָּעֵי רַבִּי אֶלְעָזָר חֲתִימָה לִשְׁמָהּ!
->
-> **Translation:** **If** it is in accordance with the opinion of **Rabbi Elazar,** who disagrees with Rabbi Meir and **requires** that the **writing** must be for her sake, **he does not require** that the **signing** must be for her sake. **And if you would say** that **actually** the mishna **is** in accordance with the opinion of **Rabbi Elazar, and when Rabbi Elazar does not require signing for her sake,** he means **by Torah law,** whereas **by rabbinic law he requires** that bills of divorce must be signed for her sake; **but** that is untenable, as the Sages listed **three bills of divorce** that are valid by Torah law but are **invalid by rabbinic law, and** when he disputes that ruling **Rabbi Elazar does not require** that the **signing** must be **for her sake.**
 
 Rabbi Eliezer takes the opposite view: *kesivah ba'ei chasimah lo ba'ei* — the writing is the essential act; signing is not halachically necessary. The *get* is constituted by being written, not by being signed. Signatures are extrinsic to the document's essential validity.
 
 ### Three Gittin
 
-> **Hebrew/Aramaic:** דִּתְנַן: שְׁלֹשָׁה גִּיטִּין פְּסוּלִין, וְאִם נִיסַּת הַוָּלָד כָּשֵׁר: כָּתַב בִּכְתַב יָדוֹ וְאֵין עָלָיו עֵדִים, יֵשׁ עָלָיו עֵדִים וְאֵין בּוֹ זְמַן, יֵשׁ בּוֹ זְמַן וְאֵין בּוֹ אֶלָּא עֵד אֶחָד – הֲרֵי אֵלּוּ שְׁלֹשָׁה גִּיטִּין פְּסוּלִין, וְאִם נִיסַּת – הַוָּלָד כָּשֵׁר.
->
+> **Hebrew/Aramaic:** דִּתְנַן: שְׁלֹשָׁה גִּיטִּין פְּסוּלִין, וְאִם נִיסַּת הַוָּלָד כָּשֵׁר: כָּתַב בִּכְתַב יָדוֹ וְאֵין עָלָיו עֵדִים, יֵשׁ עָלָיו עֵדִים וְאֵין בּוֹ זְמַן, יֵשׁ בּוֹ זְמַן וְאֵין בּוֹ אֶלָּא עֵד אֶחָד – הֲרֵי אֵלּוּ שְׁלֹשָׁה גִּיטִּין פְּסוּלִין, וְאִם נִיסַּת – הַוָּלָד כָּשֵׁר.
 > **Translation:** **As we learned** in a mishna (86a): **Three bills of divorce** are **invalid** *ab initio*, **but if** the woman **married** another man after having received one of these bills of divorce **the offspring** is of **unflawed** lineage. In other words, she is not considered to be a married woman who engaged in sexual intercourse with another man, which would render their child as one born from an adulterous relationship [*mamzer*]. And these three are: A bill of divorce that the husband **wrote in his handwriting but there are no** signatures of **witnesses on** the document; and if **there are** the signatures of **witnesses on** the document **but there is no date** written **on it;** and if **there is a date** written **on it but it has only one witness** signed on it. **These are** the **three invalid bills of divorce** concerning which the Sages said: **And if she married, the offspring** is of **unflawed** lineage.
 
-The *gemara* introduces the position of Rabbi Eliezer by invoking the *mishna* of *shloshah gittin pesulin v'im nises ha-velad kasher* — three *gittin* that are rabbinically invalid, yet if the woman remarried, the child is not a *mamzer*. The fact that the child is not a *mamzer* reveals that the *get* is in fact valid at a biblical level; the disqualification is Rabbinic only. The three cases are: a *get* in the husband's own handwriting but without witnesses; a *get* with witnesses but without a date; and a *get* that is dated but bears only one signature.
+The *gemara* introduces the position of Rabbi Eliezer by invoking the *mishna* of *shloshah gittin pesulin v'im nises ha-velad kasher* — three *gittin* that are rabbinically invalid, yet if the woman remarried, the child is not a *mamzer*. The fact that the child is not a *mamzer* reveals that the *get* is in fact valid at a biblical level; the disqualification is Rabbinic only. It is worth noting that the Rambam introduces a systematic terminological distinction throughout *hilchos gittin* that the *gemara* itself does not maintain as consistently: he uses *batel* specifically to mean invalid at a biblical level (*batel de'oraisa*), and *pasul* specifically to mean invalid only rabbinically (*pasul miderabbanan*). The *gemara* largely tracks this distinction but is not as precise about it as the Rambam is. The three cases are: a *get* in the husband's own handwriting but without witnesses — the husband's own script functions as a form of self-testimony, what we call *hoda'as ba'al din*, so external witnesses are not strictly necessary and this disqualification is therefore only Rabbinic; a *get* with witnesses but without a date; and a *get* that is dated but bears only one signature rather than the required two — which is perhaps the most surprising of the three, since one might have expected a single witness to carry at least partial validity.
 
 ### No Sig Valid
 
-> **Hebrew/Aramaic:** רַבִּי אֶלְעָזָר אוֹמֵר: אַף עַל פִּי שֶׁאֵין עָלָיו עֵדִים – אֶלָּא שֶׁנְּתָנוֹ לָהּ בִּפְנֵי עֵדִים; כָּשֵׁר, וְגוֹבֶה מִנְּכָסִים מְשׁוּעְבָּדִים. שֶׁאֵין הָעֵדִים חוֹתְמִים עַל הַגֵּט אֶלָּא מִפְּנֵי תִּיקּוּן הָעוֹלָם.
->
-> **Translation:** The mishna continues: **Rabbi Elazar says: Even though there are no** signatures of **witnesses on** the document, **but he gave it to her in the presence of** two **witnesses,** it is **a valid** bill of divorce. **And** on the basis of this bill of divorce the woman **can collect** the amount written to her in her marriage contract even **from liened property, as** Rabbi Elazar maintains **that witnesses sign the bill of divorce only for the betterment of the world.** If no witnesses sign a bill of divorce the husband could contest its validity at any time by denying that he wrote it. In any case, it can be seen from this mishna that according to Rabbi Elazar the signatures of the witnesses are not an essential part of a bill of divorce. Consequently, it does not need to be signed for her sake, even by rabbinic law.
-
 Rabbi Eliezer's position within this *mishna* goes further than any of those three cases. He states: *af al pi she-ein alav edim ella she-nasno bifnei edim* — even if there are no witnesses signed on the *get* at all, as long as it was delivered in the presence of witnesses, the *get* is *kasher*. She may even collect from encumbered property. The signature requirement is entirely dispensable for Rabbi Eliezer.
 
+> **Hebrew/Aramaic:** רַבִּי אֶלְעָזָר אוֹמֵר: אַף עַל פִּי שֶׁאֵין עָלָיו עֵדִים – אֶלָּא שֶׁנְּתָנוֹ לָהּ בִּפְנֵי עֵדִים; כָּשֵׁר, וְגוֹבֶה מִנְּכָסִים מְשׁוּעְבָּדִים. שֶׁאֵין הָעֵדִים חוֹתְמִים עַל הַגֵּט אֶלָּא מִפְּנֵי תִּיקּוּן הָעוֹלָם.
+> **Translation:** The mishna continues: **Rabbi Elazar says: Even though there are no** signatures of **witnesses on** the document, **but he gave it to her in the presence of** two **witnesses,** it is **a valid** bill of divorce. **And** on the basis of this bill of divorce the woman **can collect** the amount written to her in her marriage contract even **from liened property, as** Rabbi Elazar maintains **that witnesses sign the bill of divorce only for the betterment of the world.** If no witnesses sign a bill of divorce the husband could contest its validity at any time by denying that he wrote it. In any case, it can be seen from this mishna that according to Rabbi Elazar the signatures of the witnesses are not an essential part of a bill of divorce. Consequently, it does not need to be signed for her sake, even by rabbinic law.
+
 ### Edei Mesirah
+
 
 The reasoning Rabbi Eliezer offers is encapsulated in the principle the *gemara* will call *edei mesirah karti* — the witnesses of delivery effect the divorce. What validates a *get* is not the signatures on the document but the witnesses present at the moment of delivery. The witnesses of *mesirah* are what transform the act into a legally effective divorce. As a physical document, a *get* does not require signatures.
 

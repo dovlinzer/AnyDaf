@@ -1,0 +1,408 @@
+[
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "You & God",
+    "candidates": [
+      "Torah's Language",
+      "One Witness Rule",
+      "Tosafot Standard",
+      "Kal Vachomer",
+      "Claiming Intent",
+      "Two Reasons Query",
+      "Self-Belief Approach",
+      "Atonement Qualifier",
+      "You & God",
+      "Migo Reinterpretation",
+      "Tosafot Refinement",
+      "Categorical Belief"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kal Vachomer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Meir's kal vachomer argument, which is precisely what candidate 3 ('Kal Vachomer') discusses \u2014 two witnesses testifying against a denier and Rabbi Meir's fortiori reasoning.",
+      "second_heading": "Two Reasons Query",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the gemara's dilemma about the Rabbis' two possible reasons (categorical self-belief vs. migo), which is exactly what candidate 5 ('Two Reasons Query') describes with the same language of mai ta'ama de-rabbanan and the two alternatives.",
+      "current_heading": "You & God",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Categorical Belief",
+    "candidates": [
+      "Migo Reinterpretation",
+      "Tosafot Refinement",
+      "Categorical Belief",
+      "Old Tumah Reframe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the practical difference (nafka mina) between the two approaches by examining the case of ritual impurity, matching precisely the prose of 'Categorical Belief' which describes exactly this gemara question and its answer about old vs. new tuma.",
+      "chosen_heading": "Categorical Belief",
+      "current_heading": "Categorical Belief",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Old Tumah Reframe",
+    "candidates": [
+      "Old Tumah Reframe",
+      "New Tumah Blocked",
+      "One Witness Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the migo reasoning for old impurity (tuma yeshana) and how 'I did not become tamei' can be reinterpreted as 'I did not remain in my impurity but immersed,' which matches exactly the prose of candidate 0 ('Old Tumah Reframe').",
+      "chosen_heading": "Old Tumah Reframe",
+      "current_heading": "Old Tumah Reframe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "One Witness Braita",
+    "candidates": [
+      "New Tumah Blocked",
+      "One Witness Braita",
+      "Rav Ami Limits",
+      "Witness Emphasis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "New Tumah Blocked",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses new *tuma* blocking the reinterpretation exit, which is exactly what heading 0 ('New Tumah Blocked') describes in its prose.",
+      "second_heading": "One Witness Braita",
+      "second_confidence": "high",
+      "second_reason": "Items 2-6 introduce the *baraita* about one/two witnesses and the dispute between Rabbi Meir and the Rabbis/Rabbi Yehuda, then Rav Ami's *miggo* limitation, which precisely matches heading 1 ('One Witness Braita') and flows into heading 2.",
+      "current_heading": "One Witness Braita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Witness Emphasis",
+    "candidates": [
+      "Rav Ami Limits",
+      "Witness Emphasis",
+      "Non-Responsive Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Rabbis conceding to Rabbi Yehuda on chelev and Temple entry but not on tuma, which directly relates to the distinction between categorical credibility and migo-based reinterpretation that Rav Ami is explaining \u2014 this baraita is the source text Rav Ami is interpreting and limiting.",
+      "chosen_heading": "Rav Ami Limits",
+      "current_heading": "Witness Emphasis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Non-Responsive Issue",
+    "candidates": [
+      "Witness Emphasis",
+      "Non-Responsive Issue",
+      "Contradiction Limit",
+      "Rabbi Meir View",
+      "Rabbi Yehuda View",
+      "Middle Position",
+      "Rav Nachman Ruling",
+      "Privacy Limit",
+      "Public Visibility Issue",
+      "Private vs. Public"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Middle Position",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Gemara's initial question about old impurity and the objection that the person could reinterpret his statement (the 'I immersed' escape), which matches the 'Middle Position' prose describing how we try to reinterpret what the person said to make his words compatible with not being obligated.",
+      "second_heading": "Witness Emphasis",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Ravina's resolution involving witnesses testifying specifically about eating kodashim while tamei and why 'lo nitmeiti' cannot be reinterpreted, which matches the 'Witness Emphasis' prose describing exactly this scenario where witnesses emphasize the act of eating kodashim be-tum'at ha-guf and the person responds lo nitmeiti.",
+      "current_heading": "Non-Responsive Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Private vs. Public",
+    "candidates": [
+      "Contradiction Limit",
+      "Rabbi Meir View",
+      "Rabbi Yehuda View",
+      "Middle Position",
+      "Rav Nachman Ruling",
+      "Privacy Limit",
+      "Public Visibility Issue",
+      "Private vs. Public",
+      "Shifcha Charufa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains Rav Nachman's ruling that halacha follows Rabbi Yehuda and Rav Yosef's qualification, which corresponds precisely to the 'Rav Nachman Ruling' section's prose about ruling like Rabbi Yehuda \u2014 the Rav Yosef qualification belongs with it as an immediate response, but the primary content matches heading 4, and heading 5 ('Privacy Limit') covers only Rav Yosef's qualification in prose while heading 4 introduces the ruling that Rav Yosef then qualifies, making 4 the best single home for this combined statement.",
+      "chosen_heading": "Rav Nachman Ruling",
+      "current_heading": "Private vs. Public",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Shifcha Charufa",
+    "candidates": [
+      "Private vs. Public",
+      "Shifcha Charufa",
+      "Nazir Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Reish Lakish's statement about shifcha charufa and the 'lo gamarti bi'ati' reasoning, which is precisely what the 'Shifcha Charufa' section's prose describes.",
+      "chosen_heading": "Shifcha Charufa",
+      "current_heading": "Shifcha Charufa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Nazir Tamei",
+    "candidates": [
+      "Nazir Tamei",
+      "Unknown Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Sheshet's ruling about an impure nazirite, which is exactly what the 'Nazir Tamei' section's prose describes.",
+      "chosen_heading": "Nazir Tamei",
+      "current_heading": "Nazir Tamei",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Unknown Testimony",
+    "candidates": [
+      "Unknown Testimony",
+      "One Sin Repeated"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement about the 'unknown testimony' case where a person claims not to know testimony, which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Unknown Testimony",
+      "current_heading": "Unknown Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "One Sin Repeated",
+    "candidates": [
+      "One Sin Repeated",
+      "Zeira Question",
+      "Abaye Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Zeira's challenge/objection asking why only one sin offering is required when two olive-bulks were eaten, which matches exactly the 'Zeira Question' prose describing Rav Zeira's challenge about two kezaysim giving rise to two korbanos.",
+      "chosen_heading": "Zeira Question",
+      "current_heading": "One Sin Repeated",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Abaye Answer",
+    "candidates": [
+      "Zeira Question",
+      "Abaye Answer",
+      "Multiple Sin Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's direct response explaining that he'elamot mecholakot governs liability and that here there is only one lapse of awareness, which is precisely what the 'Abaye Answer' prose discusses.",
+      "chosen_heading": "Abaye Answer",
+      "current_heading": "Abaye Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Multiple Sin Types",
+    "candidates": [
+      "Multiple Sin Types",
+      "Same Dish Combine",
+      "Different Dishes Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses how separate lapses of awareness create multiple sin-offering obligations even for the same category of prohibition (cheilev), which directly relates to the 'Multiple Sin Types' section's theme of what factors multiply chatat obligations \u2014 though the angle here is lapses rather than sin types, this section's prose about unity vs. multiplicity of forgetfulness is the closest match among the candidates.",
+      "chosen_heading": "Multiple Sin Types",
+      "current_heading": "Multiple Sin Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Different Dishes Query",
+    "candidates": [
+      "Same Dish Combine",
+      "Different Dishes Query",
+      "Yehoshua Separates",
+      "Yehoshua Scope",
+      "Mishna Interpretations"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Same Dish Combine",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishna introducing the basic case of two half-olive-bulks combining, which corresponds to the 'Same Dish Combine' prose describing the straightforward scenario of same prohibition same dish.",
+      "second_heading": "Different Dishes Query",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Reish Lakish's teaching about two different dishes (tamchuyin), which is precisely what 'Different Dishes Query' discusses \u2014 the subtle case of same prohibition but different culinary preparations.",
+      "current_heading": "Different Dishes Query",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "current_heading": "Mishna Interpretations",
+    "candidates": [
+      "Yehoshua Separates",
+      "Yehoshua Scope",
+      "Mishna Interpretations",
+      "Awareness Mid-Act",
+      "Gamliel vs. Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items are the Gemara's two opposing readings of the mishna \u2014 one focusing on the opening clause (le-chumra only) and one on the closing clause (fully symmetrical) \u2014 which is precisely what the 'Mishna Interpretations' prose describes.",
+      "chosen_heading": "Mishna Interpretations",
+      "current_heading": "Mishna Interpretations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133,
+      134
+    ],
+    "current_heading": "Gamliel vs. Chachamim",
+    "candidates": [
+      "Awareness Mid-Act",
+      "Gamliel vs. Chachamim",
+      "Time Gap Question",
+      "Meir: Kalyos",
+      "Chachamim: Pras"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present Ravina's answer (awareness mid-act under Rabban Gamliel's view) and the supporting proof from the Shabbat mishna about two letters, which is precisely the content described in the 'Gamliel vs. Chachamim' prose \u2014 the dispute between Rabban Gamliel and the Rabbis over whether awareness of a half-measure is legally significant, with the writing-two-letters case as the parallel illustration.",
+      "chosen_heading": "Gamliel vs. Chachamim",
+      "current_heading": "Gamliel vs. Chachamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145,
+      146,
+      147,
+      148
+    ],
+    "current_heading": "Chachamim: Pras",
+    "candidates": [
+      "Time Gap Question",
+      "Meir: Kalyos",
+      "Chachamim: Pras",
+      "Duration vs. Break",
+      "Food & Wine Acts",
+      "Eliezer Exception"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Time Gap Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishna text covering the Time Gap Question (Rabbi Meir's kalyos standard, the Rabbis' pras standard, the tamei food/wine cases, and Rabbi Eliezer's exception), which together form the complete Mishna unit that the 'Time Gap Question' heading introduces as the foundational framework.",
+      "second_heading": "Duration vs. Break",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 are the Gemara's dilemma about whether Rabbi Meir's kalyos formulation is a stringency or leniency relative to the Rabbis, which is precisely what the 'Duration vs. Break' prose discusses \u2014 the interpretive dispute over what exactly is being measured in Rabbi Meir's standard versus the Rabbis'.",
+      "current_heading": "Chachamim: Pras",
+      "moved": true
+    }
+  }
+]

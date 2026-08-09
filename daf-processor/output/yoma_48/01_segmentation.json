@@ -34,8 +34,8 @@
           "timestamp": "03:52"
         }
       ],
-      "sefaria_index": 11,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Variations in the Act of Kemitzah and Chafinah: Formal Parameters of Ritual Action",
@@ -305,7 +305,7 @@
           "timestamp": "43:42"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -663,5 +663,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 12
+  "amud_b_sefaria_index": 12,
+  "amud_b_segment_index": 9,
+  "amud_b_timestamp": "42:41",
+  "amud_b_micro_title": "Pigul in Coals",
+  "shiur_start_daf": 48,
+  "shiur_start_amud": "a"
 }

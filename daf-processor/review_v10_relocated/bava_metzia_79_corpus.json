@@ -1,0 +1,421 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Vehivrika/Avzeket",
+    "candidates": [
+      "Previous Context",
+      "Liability Framework",
+      "Techlilato Bipshiah",
+      "Vehivrika/Avzeket",
+      "Harei Shelcha",
+      "King's Worm Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage defines 'vehivrika' as a vision impairment and 'avzeket' as worm rot in the donkey's foot, which is precisely what the 'Vehivrika/Avzeket' section prose discusses.",
+      "chosen_heading": "Vehivrika/Avzeket",
+      "current_heading": "Vehivrika/Avzeket",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "King's Worm Story",
+    "candidates": [
+      "Harei Shelcha",
+      "King's Worm Story",
+      "Angarya Hozeret",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the worm rot anecdote about the king's clothing, which is exactly what the 'King's Worm Story' section prose discusses.",
+      "chosen_heading": "King's Worm Story",
+      "current_heading": "King's Worm Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Angarya Hozeret",
+      "Rav's Position",
+      "Shmuel Derech"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav's exact statement distinguishing angarya hozeret from angarya she'eino hozeret, which is precisely what the prose under 'Rav's Position' describes and analyzes.",
+      "chosen_heading": "Rav's Position",
+      "current_heading": "Rav's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Shmuel Derech",
+    "candidates": [
+      "Shmuel Derech",
+      "Tosafot Circumstances",
+      "Meitivei Challenge",
+      "Rav Resolution",
+      "Shmuel Resolution",
+      "Shimon ben Elazar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's position distinguishing seizure in the direction of travel versus not, which is precisely what the 'Shmuel Derech' prose describes and analyzes.",
+      "chosen_heading": "Shmuel Derech",
+      "current_heading": "Shmuel Derech",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Shimon ben Elazar",
+    "candidates": [
+      "Tosafot Circumstances",
+      "Meitivei Challenge",
+      "Rav Resolution",
+      "Shmuel Resolution",
+      "Shimon ben Elazar",
+      "Riding Requirement",
+      "Safety Standards"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Shimon ben Elazar",
+      "first_confidence": "medium",
+      "first_reason": "Items 1\u20136 form the continuous chain of the baraita objection against Shmuel and his resolution by aligning with Rabbi Shimon ben Elazar, which the 'Shimon ben Elazar' prose directly describes.",
+      "second_heading": "Riding Requirement",
+      "second_confidence": "high",
+      "second_reason": "Item 7 introduces a new challenge based on a different baraita concerning renting specifically for riding, which is precisely what the 'Riding Requirement' prose addresses.",
+      "current_heading": "Shimon ben Elazar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Safety Standards",
+    "candidates": [
+      "Riding Requirement",
+      "Safety Standards",
+      "Glassware",
+      "Half Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabba bar Rav Huna's statement about riding being different and Rav Pappa's extension to glassware, but the current placement under 'Safety Standards' (index 1) already covers both since its prose explicitly discusses Raba bar Rav Huna's resolution and the riding distinction, while index 2 'Glassware' only covers Rav Pappa's addition \u2014 however, since the passage contains both statements together and index 1's prose already addresses the riding distinction that motivates Rav Pappa's ruling, the current placement is the best single heading for the combined passage.",
+      "chosen_heading": "Safety Standards",
+      "current_heading": "Safety Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Half Payment",
+    "candidates": [
+      "Glassware",
+      "Half Payment",
+      "Tosafot Reinterpret"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav's ruling about half payment when the donkey dies mid-journey and the Gemara's follow-up question about what circumstances make this coherent \u2014 are precisely the content described in the 'Half Payment' prose section.",
+      "chosen_heading": "Half Payment",
+      "current_heading": "Half Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Tosafot Reinterpret",
+    "candidates": [
+      "Tosafot Reinterpret",
+      "Mid-Route Sales",
+      "Stam vs. Zeh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains that where replacement animals are not available for rent, the owner can demand payment by arguing the renter would have had to pay to reach the midpoint anyway \u2014 this directly concerns the 'chamor stam vs. chamor zeh' distinction and what obligations exist when a replacement cannot be obtained, matching the 'Stam vs. Zeh' section's discussion of replacement animals and the owner's obligations mid-journey.",
+      "chosen_heading": "Stam vs. Zeh",
+      "current_heading": "Tosafot Reinterpret",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Stam vs. Zeh",
+    "candidates": [
+      "Mid-Route Sales",
+      "Stam vs. Zeh",
+      "Rav Principal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces the chamor stam vs. chamor zeh distinction, which is precisely what the 'Stam vs. Zeh' section's prose describes as its central topic.",
+      "chosen_heading": "Stam vs. Zeh",
+      "current_heading": "Stam vs. Zeh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74
+    ],
+    "current_heading": "Rav Principal",
+    "candidates": [
+      "Rav Principal",
+      "Shmuel Rental",
+      "Yavesh Ilan",
+      "Land Purchase",
+      "Yovel Impact",
+      "Sixty-Year Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly present the Rav-Shmuel dispute about lo mechalinan karna in the donkey rental case, which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Rav Principal",
+      "current_heading": "Rav Principal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Sixty-Year Sale",
+    "candidates": [
+      "Shmuel Rental",
+      "Yavesh Ilan",
+      "Land Purchase",
+      "Yovel Impact",
+      "Sixty-Year Sale",
+      "Boat Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items form one continuous chain of objection-and-resolution about the yavesh ilan baraita and its relationship to yovel/sixty-year sales, which is precisely what the 'Sixty-Year Sale' prose describes in detail.",
+      "chosen_heading": "Sixty-Year Sale",
+      "current_heading": "Sixty-Year Sale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Boat Payment",
+    "candidates": [
+      "Boat Payment",
+      "Rav Nosson",
+      "Specificity Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Natan's specific ruling about not recovering/paying when the boat sinks midway, which is precisely what candidate 1 ('Rav Nosson') describes in its prose: 'natan lo yitol, ve'im lo natan lo yiten \u2014 if the renter already paid, he cannot recover the payment; if he has not yet paid, he need not pay.'",
+      "chosen_heading": "Rav Nosson",
+      "current_heading": "Boat Payment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Specificity Rules",
+    "candidates": [
+      "Rav Nosson",
+      "Specificity Rules",
+      "Both Specified"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's 'heichi dami' challenge exploring the sefinah zo/stam and yayin zeh/stam permutations, which is exactly what the 'Specificity Rules' prose describes.",
+      "chosen_heading": "Specificity Rules",
+      "current_heading": "Specificity Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Both Specified",
+    "candidates": [
+      "Both Specified",
+      "Mid-Point Unload",
+      "Other Customers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses both the 'both specified' case (sefinah zo veyayin zeh) and the 'both unspecified' case (sefinah stam veyayin stam), which is exactly what the 'Both Specified' section's prose discusses in detail.",
+      "chosen_heading": "Both Specified",
+      "current_heading": "Both Specified",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Other Customers",
+    "candidates": [
+      "Mid-Point Unload",
+      "Other Customers",
+      "Shinui Da'at"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself (the Sages' teaching about renting a boat and unloading midway) plus the Gemara's initial question 'heichi dami,' which is the content introduced under 'Mid-Point Unload,' while the current heading 'Other Customers' covers the Gemara's resolution of that question \u2014 so the passage belongs under heading 0 where the baraita and opening question are discussed.",
+      "chosen_heading": "Mid-Point Unload",
+      "current_heading": "Other Customers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Shinui Da'at",
+    "candidates": [
+      "Other Customers",
+      "Shinui Da'at",
+      "Food Portions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the boat-rental grievance scenario \u2014 item 1 raises the wear-and-tear complaint and the Gemara's rejoinder that it would constitute a monetary claim, and item 2 refines the scenario to exclude actual wear and tear, then identifies the grievance as shinui da'at or extra rope \u2014 exactly what the 'Shinui Da'at' prose section describes.",
+      "chosen_heading": "Shinui Da'at",
+      "current_heading": "Shinui Da'at",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Food Portions",
+    "candidates": [
+      "Food Portions",
+      "Employment Status",
+      "Gender Clause",
+      "Female Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita about what renter and donkey driver may load, the Gemara's question about the asymmetry, and Rav Pappa's resolution \u2014 form one continuous discussion about food/provision portions, which is precisely what candidate 0 ('Food Portions') covers in its prose.",
+      "chosen_heading": "Food Portions",
+      "current_heading": "Food Portions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Female Conditions",
+    "candidates": [
+      "Employment Status",
+      "Gender Clause",
+      "Female Conditions",
+      "Akarsa Tikla"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the ruling about women riding the rented donkey \u2014 the baraita enumerating adult, minor, pregnant, and nursing women, and Rav Pappa's clarification about the simultaneously pregnant-and-nursing case \u2014 which is precisely what the 'Female Conditions' prose describes.",
+      "chosen_heading": "Female Conditions",
+      "current_heading": "Female Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Akarsa Tikla",
+    "candidates": [
+      "Akarsa Tikla",
+      "Tosafot Weight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Abaye's statement about fish weight being in the belly (akarsa tikla) and its practical application to buying and selling, which matches precisely the prose under heading 0.",
+      "chosen_heading": "Akarsa Tikla",
+      "current_heading": "Akarsa Tikla",
+      "moved": false
+    }
+  }
+]

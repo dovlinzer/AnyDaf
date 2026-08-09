@@ -1,0 +1,388 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "20 Amot Interpretation",
+    "candidates": [
+      "Pesuk Contradiction",
+      "20 Amot Interpretation",
+      "Masoret: Non-Measurement",
+      "Moshe's Aron Paradox",
+      "Keruvim by Miracle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong under '20 Amot Interpretation' because the prose there explicitly describes the hah kamashma lan lemata kelemala teaching (item 1) and states 'This supports the statement of Rabbi Levi' (item 2), matching the exact content of both items in sequence.",
+      "chosen_heading": "20 Amot Interpretation",
+      "current_heading": "20 Amot Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Keruvim by Miracle",
+    "candidates": [
+      "Masoret: Non-Measurement",
+      "Moshe's Aron Paradox",
+      "Keruvim by Miracle",
+      "Abaye: Chicken Model",
+      "Rava: Non-Overlapping",
+      "Rav Achai: Diagonal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's statement that the keruvim stood miraculously, with the proof from the wing measurements leaving no room for their bodies \u2014 exactly what candidate 2 ('Keruvim by Miracle') describes in its prose.",
+      "chosen_heading": "Keruvim by Miracle",
+      "current_heading": "Keruvim by Miracle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rav Achai: Diagonal",
+    "candidates": [
+      "Abaye: Chicken Model",
+      "Rava: Non-Overlapping",
+      "Rav Achai: Diagonal",
+      "Rav Huna: Tapering Walls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three objections (Abaye's chicken model, Rava's non-overlapping, and Rav A\u1e25a bar Yaakov's diagonal) as a single continuous Talmudic unit, and since it begins with Abaye's challenge, it belongs under the first heading 'Abaye: Chicken Model' where the essay prose introduces Abaye's argument.",
+      "chosen_heading": "Abaye: Chicken Model",
+      "current_heading": "Rav Achai: Diagonal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Rav Huna: Tapering Walls",
+    "candidates": [
+      "Rav Achai: Diagonal",
+      "Rav Huna: Tapering Walls",
+      "Rav Papa: Bent Wings",
+      "Rav Ashi: Crossed Wings",
+      "Facing Each Other vs Bay",
+      "Temporal Orientation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains all three objections \u2014 Rav Huna's tapering walls, Rav Pappa's bent wings, and Rav Ashi's crossed wings \u2014 as a single continuous Talmudic unit, and the current placement under 'Rav Huna: Tapering Walls' is where this sequence begins, making it the correct home for the entire passage.",
+      "chosen_heading": "Rav Huna: Tapering Walls",
+      "current_heading": "Rav Huna: Tapering Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Temporal Orientation",
+    "candidates": [
+      "Rav Papa: Bent Wings",
+      "Rav Ashi: Crossed Wings",
+      "Facing Each Other vs Bay",
+      "Temporal Orientation",
+      "Angled Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the dispute between Rabbi Yo\u1e25anan and Rabbi Elazar about the cherubs' orientation and introduces the resolution, which matches the 'Facing Each Other vs Bay' section's prose about the disagreement and the two supporting pesukim \u2014 the resolution itself is then elaborated in the 'Temporal Orientation' section's prose, but the Talmudic text covers both the dispute and its resolution as a unit, and the dispute's introduction fits better under heading 2 which explicitly discusses both positions and the difficulty of conflicting verses.",
+      "chosen_heading": "Facing Each Other vs Bay",
+      "current_heading": "Temporal Orientation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Angled Position",
+    "candidates": [
+      "Temporal Orientation",
+      "Angled Position",
+      "Normal Hours Access",
+      "Animal Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the angled position of the cherubim (demitzaddad tzadudei) and Onkelos's description of their faces angled like a student taking leave of his teacher, which matches exactly the 'Angled Position' section's prose.",
+      "chosen_heading": "Angled Position",
+      "current_heading": "Angled Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Animal Restriction",
+    "candidates": [
+      "Normal Hours Access",
+      "Animal Restriction",
+      "Dual Locks",
+      "Wife's Privacy Lock"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers all three topics (normal hours, animal restriction, and dual locks), but as the foundational text introducing the case, it most naturally belongs under the first heading 'Normal Hours Access' which explicitly introduces this mishnah and its context, rather than being placed under the middle 'Animal Restriction' heading.",
+      "chosen_heading": "Normal Hours Access",
+      "current_heading": "Animal Restriction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Wife's Privacy Lock",
+    "candidates": [
+      "Dual Locks",
+      "Wife's Privacy Lock",
+      "Garden Hours",
+      "No Commercial Use",
+      "No Shortcuts",
+      "Planting Rights",
+      "Side Path Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's discussion of why both locks are on the cistern \u2014 item 1 raises the question and cites Rabbi Yochanan's answer, item 2 gives Rabbi Elazar's explanation for the homeowner's lock \u2014 all of which is precisely what the 'Dual Locks' prose describes, including the clarification that both locks are on the well and the reason for the homeowner's lock.",
+      "chosen_heading": "Dual Locks",
+      "current_heading": "Wife's Privacy Lock",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Side Path Agreement",
+    "candidates": [
+      "Garden Hours",
+      "No Commercial Use",
+      "No Shortcuts",
+      "Planting Rights",
+      "Side Path Agreement",
+      "Canal Allotments",
+      "Non-Irrigation Use"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Garden Hours",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna covering all the basic rules (entry times, no merchants, no shortcuts, outer owner may sow) that are discussed under headings 0\u20133, and the 'Garden Hours' heading explicitly cites this very Mishna as a parallel case with the same time restrictions.",
+      "second_heading": "Side Path Agreement",
+      "second_confidence": "high",
+      "second_reason": "Item 2 addresses the side-path-by-mutual-agreement scenario (natnu lo derech min hatzad mida'at sheneihem), which is precisely what the 'Side Path Agreement' prose discusses in detail.",
+      "current_heading": "Side Path Agreement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Non-Irrigation Use",
+    "candidates": [
+      "Canal Allotments",
+      "Non-Irrigation Use",
+      "Edge Planting Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the irrigation canal (amah beis hashlachin) AND the shadoof channel (amah beis hakillon) cases together in one Gemara statement, and candidate 0's prose explicitly discusses both cases as part of Rav Yehudah/Shmuel's series, making it the correct home for the entire passage.",
+      "chosen_heading": "Canal Allotments",
+      "current_heading": "Non-Irrigation Use",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Edge Planting Dispute",
+    "candidates": [
+      "Non-Irrigation Use",
+      "Edge Planting Dispute",
+      "Bank Collapse Repair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the dispute between Rav Yehuda and Rav Nachman (both citing Shmuel) about whether the field owner may sow or plant the canal banks, including the explanation that sowing undermines the banks (chalchulei mechalchali), which is precisely what the 'Edge Planting Dispute' prose discusses.",
+      "chosen_heading": "Edge Planting Dispute",
+      "current_heading": "Edge Planting Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Bank Collapse Repair",
+    "candidates": [
+      "Bank Collapse Repair",
+      "Road Relocation Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the collapsed channel bank ruling and Rav Pappa's objection and reformulation, which are explicitly covered in the 'Bank Collapse Repair' prose.",
+      "chosen_heading": "Bank Collapse Repair",
+      "current_heading": "Bank Collapse Repair",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Road Relocation Case",
+    "candidates": [
+      "Road Relocation Case",
+      "Path Width Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah about relocating a public road, which matches perfectly with the 'Road Relocation Case' section prose that explicitly discusses this exact mishnah and its ruling.",
+      "chosen_heading": "Road Relocation Case",
+      "current_heading": "Road Relocation Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Path Width Standards",
+    "candidates": [
+      "Path Width Standards",
+      "Burial Road Rights",
+      "Mourning Space",
+      "Illegitimate Transaction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all the path width standards (private, public, king's highway, burial road) and the mourning space ruling together as a unit, and the current heading 'Path Width Standards' with its prose directly discusses these measurements including the private, public, and king's highway standards that open the passage.",
+      "chosen_heading": "Path Width Standards",
+      "current_heading": "Path Width Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Illegitimate Transaction",
+    "candidates": [
+      "Burial Road Rights",
+      "Mourning Space",
+      "Illegitimate Transaction",
+      "Gezeirah: Twisted Roads"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks why the landowner can't take a stick and sit on the thoroughfare (lo avid inish dina lenafshei), directly matching the 'Illegitimate Transaction' prose which discusses this exact reasoning about taking a pitchfork to enforce one's rights and what this implies about the transaction's validity.",
+      "chosen_heading": "Illegitimate Transaction",
+      "current_heading": "Illegitimate Transaction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Gezeirah: Twisted Roads",
+    "candidates": [
+      "Gezeirah: Twisted Roads",
+      "Rav Ashi: Any Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the debate between Rav Zevid (gezeirah lest he give a circuitous route) and Rav Mesharshiyya (case where he actually gives a circuitous route), which is precisely what the prose under 'Gezeirah: Twisted Roads' discusses.",
+      "chosen_heading": "Gezeirah: Twisted Roads",
+      "current_heading": "Gezeirah: Twisted Roads",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Rav Ashi: Any Alternative",
+    "candidates": [
+      "Rav Ashi: Any Alternative",
+      "Rabbi Eliezer: Path Sel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Ashi's principle about side roads being circuitous routes, which is exactly what candidate 0's prose discusses.",
+      "chosen_heading": "Rav Ashi: Any Alternative",
+      "current_heading": "Rav Ashi: Any Alternative",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Rabbi Eliezer: Path Sel",
+    "candidates": [
+      "Rabbi Eliezer: Path Sel",
+      "Unresolved Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the question about recovering the original road, the Rabbi Eliezer baraita, and Rav Giddel/Rav's clarification about a lost path \u2014 are all explicitly discussed and quoted verbatim in the prose of candidate 0 ('Rabbi Eliezer: Path Sel'), making it the clear correct placement.",
+      "chosen_heading": "Rabbi Eliezer: Path Sel",
+      "current_heading": "Rabbi Eliezer: Path Sel",
+      "moved": false
+    }
+  }
+]

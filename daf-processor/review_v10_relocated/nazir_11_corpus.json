@@ -1,0 +1,262 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Partial = Full",
+    "candidates": [
+      "Beis Hillel/Shammai",
+      "Cup of Wine Case",
+      "Partial = Full",
+      "Woman's Declaration",
+      "Limited Intent",
+      "Contradiction Question",
+      "Chasorei Mechasra",
+      "Strong Language Tactic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah presenting the cup of wine case ('mazgu lo es hakos') and declaring 'hareini nazir mimenu,' which is precisely what the 'Cup of Wine Case' prose describes as the first Mishnah on the daf.",
+      "chosen_heading": "Cup of Wine Case",
+      "current_heading": "Partial = Full",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Strong Language Tactic",
+    "candidates": [
+      "Woman's Declaration",
+      "Limited Intent",
+      "Contradiction Question",
+      "Chasorei Mechasra",
+      "Strong Language Tactic",
+      "Social Pressure",
+      "Sober Contrast",
+      "Conditional Declaration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question ('maaseh listor?') and its resolution via 'chasorei mechasra,' which is precisely what the 'Contradiction Question' prose describes as the content of this passage \u2014 the sharp question about the apparent contradiction and the lead-up to its resolution.",
+      "chosen_heading": "Contradiction Question",
+      "current_heading": "Strong Language Tactic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Conditional Declaration",
+    "candidates": [
+      "Social Pressure",
+      "Sober Contrast",
+      "Conditional Declaration",
+      "Conditions Void",
+      "Unaware of Wine Ban",
+      "Chachamim vs. Shimon",
+      "Expected Dispensation",
+      "Positions Reversed",
+      "Partial Nezirus",
+      "Matneh al Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text itself declaring 'I am hereby a nazirite on the condition that I will drink wine,' which is exactly what the 'Conditional Declaration' prose introduces as the next Mishnah presenting this new category of case.",
+      "chosen_heading": "Conditional Declaration",
+      "current_heading": "Conditional Declaration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Matneh al Torah",
+    "candidates": [
+      "Conditions Void",
+      "Unaware of Wine Ban",
+      "Chachamim vs. Shimon",
+      "Expected Dispensation",
+      "Positions Reversed",
+      "Partial Nezirus",
+      "Matneh al Torah",
+      "Partial Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Unaware of Wine Ban",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (the Mishnah cases of unawareness of wine ban and Rabbi Shimon's position, plus the Gemara's question about why Rabbi Shimon doesn't dispute the first clause) belong under 'Unaware of Wine Ban'/'Chachamim vs. Shimon'/'Expected Dispensation'/'Positions Reversed'/'Partial Debate' area, but most precisely item 1 is the Mishnah text introducing the second and third cases, fitting under 'Unaware of Wine Ban' (heading 1), while item 2 is the Gemara question about Rabbi Shimon disagreeing in both clauses.",
+      "second_heading": "Matneh al Torah",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 (Ravina's explanation that Rabbi Shimon does not disagree in the first clause because it is matneh al mah shekatuv ba-Torah, plus the Tosefta confirmation of Ravina's view) belong under 'Matneh al Torah' (heading 6), which is exactly where they currently sit and whose prose explicitly discusses Ravina's position and the matneh al Torah principle.",
+      "current_heading": "Matneh al Torah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Partial Debate",
+    "candidates": [
+      "Partial Debate",
+      "Hitur Request"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's resolution that the second case (earlier clause) involves partial naziriteship acceptance, with Rabbis holding partial acceptance equals full nezirus and Rabbi Shimon requiring acceptance of all components \u2014 exactly what the 'Partial Debate' prose describes.",
+      "chosen_heading": "Partial Debate",
+      "current_heading": "Partial Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Hitur Request",
+    "candidates": [
+      "Hitur Request",
+      "Parallel Processes",
+      "Nidrei Onesim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items explain the structural parallel between kabbalah and hatara \u2014 item 1 sets up the last clause (vowed all, requests dissolution of one) and item 2 explains how the Rabbis and Rabbi Shimon each apply their consistent positions to that dissolution process, which is precisely what candidate 1 ('Parallel Processes') discusses in detail.",
+      "chosen_heading": "Parallel Processes",
+      "current_heading": "Hitur Request",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Nidrei Onesim",
+    "candidates": [
+      "Parallel Processes",
+      "Nidrei Onesim",
+      "Hatara Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the *nidrei onsin* framework and quotes the Mishnah in Nedarim listing the four categories of vows the Sages dissolved, which is precisely what the 'Nidrei Onesim' section's prose describes.",
+      "chosen_heading": "Nidrei Onesim",
+      "current_heading": "Nidrei Onesim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Hatara Requirement",
+    "candidates": [
+      "Hatara Requirement",
+      "Ein Piv V'libo",
+      "Dual Obligation",
+      "Mutual Help"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Shmuel vs. Rav Asi dispute about whether the four vows require formal hatara or are automatically dissolved, which is precisely what the 'Hatara Requirement' prose describes.",
+      "chosen_heading": "Hatara Requirement",
+      "current_heading": "Hatara Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Mutual Help",
+    "candidates": [
+      "Ein Piv V'libo",
+      "Dual Obligation",
+      "Mutual Help",
+      "V'ani Coverage",
+      "Full vs. Partial",
+      "Text Analysis",
+      "V'ani Omnibus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text itself introducing the dual-obligation scenario (hareini nazir v'alai l'galeach nazir), which the prose under 'Dual Obligation' explicitly describes as 'the final Mishnah of the daf' introducing this new scenario.",
+      "chosen_heading": "Dual Obligation",
+      "current_heading": "Mutual Help",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101
+    ],
+    "current_heading": "V'ani Omnibus",
+    "candidates": [
+      "V'ani Coverage",
+      "Full vs. Partial",
+      "Text Analysis",
+      "V'ani Omnibus",
+      "Rava's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the continuous Gemara discussion of the v'ani dilemma \u2014 Item 1 raises the question, Item 2 attempts a proof from the Mishnah, and Item 3 challenges that proof \u2014 which corresponds precisely to the 'V'ani Coverage' heading's prose about what v'ani alone would cover, before the essay moves on to the more refined 'Full vs. Partial' and subsequent analyses.",
+      "chosen_heading": "V'ani Coverage",
+      "current_heading": "V'ani Omnibus",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Rava's Logic",
+    "candidates": [
+      "V'ani Omnibus",
+      "Rava's Logic",
+      "Supplementation Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's actual argument about why the two Mishnayos can be read together \u2014 teaching an unnecessary seifa due to a necessary reisha \u2014 which is precisely what the 'Rava's Logic' section describes.",
+      "chosen_heading": "Rava's Logic",
+      "current_heading": "Rava's Logic",
+      "moved": false
+    }
+  }
+]

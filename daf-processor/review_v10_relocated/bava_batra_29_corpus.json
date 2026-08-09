@@ -1,0 +1,278 @@
+[
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rav Yosef & Jeremiah",
+    "candidates": [
+      "Core Concepts Review",
+      "Chazakah as Status",
+      "Karka vs Metaltalin",
+      "Three Models",
+      "Rav Yosef & Jeremiah",
+      "Abaye's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's citation of the Jeremiah verse to derive the three-year chazakah requirement, which is precisely what the 'Rav Yosef & Jeremiah' section's prose describes.",
+      "chosen_heading": "Rav Yosef & Jeremiah",
+      "current_heading": "Rav Yosef & Jeremiah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Abaye's Objection",
+    "candidates": [
+      "Abaye's Objection",
+      "Rava's Three-Year Plan",
+      "Mechilah & Kapid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Abaye's objection that Yirmiyah was giving practical advice (eitzah tovah), not halakhic rulings about chazakah duration, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Abaye's Objection",
+      "current_heading": "Abaye's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Mechilah & Kapid",
+    "candidates": [
+      "Rava's Three-Year Plan",
+      "Mechilah & Kapid",
+      "Abaye's Context Challenge",
+      "Rava's Standard Measure",
+      "Evidence Plus Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is Rava's initial formulation of the three-year rule based on mechilah psychology, and Item 2 is Abaye's immediate challenge to that formulation \u2014 both are the opening moves of the mechilah/kapid exchange, but they specifically belong under 'Rava's Three-Year Plan' which describes exactly this initial formulation and Abaye's challenge to it, whereas the current placement ('Mechilah & Kapid') describes the refined position after Rava accepts Abaye's critique and shifts from mechilah to kapid language.",
+      "chosen_heading": "Rava's Three-Year Plan",
+      "current_heading": "Mechilah & Kapid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Evidence Plus Documents",
+    "candidates": [
+      "Abaye's Context Challenge",
+      "Rava's Standard Measure",
+      "Evidence Plus Documents",
+      "Chavra D'Chavra Logic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Abaye's Context Challenge",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 present Rava's 'makpid' reasoning and Abaye's bnei bar Elyashiv challenge leading to 'nasata devarecha lishiurin', which matches candidate 0's discussion of the context-dependent challenge.",
+      "second_heading": "Evidence Plus Documents",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rava's document-preservation rationale and Abaye's 'machah shelo befanav' challenge, which is precisely what candidate 2's prose describes in detail.",
+      "current_heading": "Evidence Plus Documents",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Chavra D'Chavra Logic",
+    "candidates": [
+      "Chavra D'Chavra Logic",
+      "Tosafot's Critique",
+      "Rav Huna Continuity",
+      "Mishna's Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the 'chavra de-chavra' principle (your friend has a friend, your friend's friend has a friend) which is precisely what the prose under heading 0 explains as the gemara's answer to Abaye's challenge about machah shelo befanav.",
+      "chosen_heading": "Chavra D'Chavra Logic",
+      "current_heading": "Chavra D'Chavra Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Mishna's Language",
+    "candidates": [
+      "Tosafot's Critique",
+      "Rav Huna Continuity",
+      "Mishna's Language",
+      "Fallow Fields Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna's statement that the three years must be consecutive (retzufot), which directly matches the prose of candidate 1 ('Rav Huna Continuity'), not candidate 2 which discusses the gemara's subsequent question and answer about miyom leyom.",
+      "chosen_heading": "Rav Huna Continuity",
+      "current_heading": "Mishna's Language",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Fallow Fields Exception",
+    "candidates": [
+      "Mishna's Language",
+      "Fallow Fields Exception",
+      "Fallow Explanations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24ama's statement about Rav Huna conceding for fallow fields, which is precisely what the 'Fallow Fields Exception' section's prose discusses and introduces.",
+      "chosen_heading": "Fallow Fields Exception",
+      "current_heading": "Fallow Fields Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Fallow Explanations",
+    "candidates": [
+      "Fallow Explanations",
+      "Mishna Houses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the gemara's two responses to why leaving a field fallow doesn't undermine a chazakah claim \u2014 exactly what the 'Fallow Explanations' prose describes in detail, including both the 'cannot guard one field' and the 'de'avda tfei' explanations.",
+      "chosen_heading": "Fallow Explanations",
+      "current_heading": "Fallow Explanations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Mishna Houses",
+    "candidates": [
+      "Mishna Houses",
+      "Nosy Neighbors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the challenge about houses being unobserved at night, which matches the 'Mishna Houses' section's prose directly; the 'Nosy Neighbors' section is about Abaye's answer to that challenge.",
+      "chosen_heading": "Mishna Houses",
+      "current_heading": "Mishna Houses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Nosy Neighbors",
+    "candidates": [
+      "Nosy Neighbors",
+      "Rent Collection Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Abaye's statement about neighbors testifying about houses, which is precisely what the 'Nosy Neighbors' prose section discusses.",
+      "chosen_heading": "Nosy Neighbors",
+      "current_heading": "Nosy Neighbors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Rent Collection Proof",
+    "candidates": [
+      "Rent Collection Proof",
+      "Nogim B'Edus Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement about renters testifying to three years of habitation, which is precisely what heading 0 ('Rent Collection Proof') discusses, while heading 1 concerns the subsequent complication about witness disqualification.",
+      "chosen_heading": "Rent Collection Proof",
+      "current_heading": "Rent Collection Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Nogim B'Edus Problem",
+    "candidates": [
+      "Nogim B'Edus Problem",
+      "Escrow Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yeimar's objection to Rav Ashi about witnesses being biased (nog'im be-eidutan), which is precisely what the 'Nogim B'Edus Problem' section discusses, not the escrow resolution described in candidate 1.",
+      "chosen_heading": "Nogim B'Edus Problem",
+      "current_heading": "Nogim B'Edus Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Escrow Witnesses",
+    "candidates": [
+      "Escrow Witnesses",
+      "Mar Zuta Demands",
+      "Rashbam's Direct Proof",
+      "Substantive Claims Only",
+      "Traveling Merchants",
+      "Tosafot's Different Read",
+      "Proven vs Presumed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi's response about low-level judges and the escrow scenario (renters holding rent money asking 'to whom shall we give it?'), which is precisely what the 'Escrow Witnesses' section prose discusses \u2014 the mechanism of escrow testimony resolving the biased witness problem.",
+      "chosen_heading": "Escrow Witnesses",
+      "current_heading": "Escrow Witnesses",
+      "moved": false
+    }
+  }
+]

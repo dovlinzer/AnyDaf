@@ -1,0 +1,236 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Lees Taste Question",
+    "candidates": [
+      "Lees Taste Question",
+      "Terumah Lees Rule",
+      "Tumah Parallels",
+      "Rabbi Meir Tastes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening exchange between Rav Na\u1e25man bar Yitz\u1e25ak and Rav \u1e24iyya bar Avin about pomace/lees that taste of wine, which is precisely what the 'Lees Taste Question' prose describes and analyzes.",
+      "chosen_heading": "Lees Taste Question",
+      "current_heading": "Lees Taste Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Rabbi Meir Tastes",
+    "candidates": [
+      "Terumah Lees Rule",
+      "Tumah Parallels",
+      "Rabbi Meir Tastes",
+      "Kodesh & Demai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items constitute the baraita about terumah, ma'aser, and hekdesh lees \u2014 the full text that candidate 0 ('Terumah Lees Rule') explicitly introduces and discusses, whereas candidate 2 ('Rabbi Meir Tastes') discusses Rabbi Meir's position and the ma'aser/hekdesh rulings only as continuation prose, not as the primary home for this baraita text.",
+      "chosen_heading": "Terumah Lees Rule",
+      "current_heading": "Rabbi Meir Tastes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Kodesh & Demai",
+    "candidates": [
+      "Rabbi Meir Tastes",
+      "Kodesh & Demai",
+      "Wine/Water Both"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the classic contradiction-and-resolution sequence (hekdesh vs. hekdesh, ma'aser vs. ma'aser) that candidate 1's prose explicitly describes, including the kedushat ha-guf/kedushat damim and vadai/demai distinctions.",
+      "chosen_heading": "Kodesh & Demai",
+      "current_heading": "Kodesh & Demai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Wine/Water Both",
+    "candidates": [
+      "Wine/Water Both",
+      "Rain Water Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's statement that the same gradations applying to prohibition also apply to hechsher capacity, which is precisely what the 'Wine/Water Both' prose introduces and explains.",
+      "chosen_heading": "Wine/Water Both",
+      "current_heading": "Wine/Water Both",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Rain Water Case",
+    "candidates": [
+      "Rain Water Case",
+      "Rav Papa Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the rainwater case (she-temado be-mei geshamim) and the subsequent challenge about pouring water into a container, which are explicitly narrated in the 'Rain Water Case' prose under candidate 0.",
+      "chosen_heading": "Rain Water Case",
+      "current_heading": "Rain Water Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rav Papa Intent",
+    "candidates": [
+      "Rav Papa Intent",
+      "Altar Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rav Pappa's resolution involving a cow drinking the tamad batches one by one, which is precisely what the 'Rav Papa Intent' section's prose discusses.",
+      "chosen_heading": "Rav Papa Intent",
+      "current_heading": "Rav Papa Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Altar Comparison",
+    "candidates": [
+      "Altar Comparison",
+      "Unfermented Wine OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Zutra bar Toviyya's ruling about kiddush requiring wine fit for altar libations, which is precisely what Candidate 0's prose discusses as its central topic.",
+      "chosen_heading": "Altar Comparison",
+      "current_heading": "Altar Comparison",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Unfermented Wine OK",
+    "candidates": [
+      "Unfermented Wine OK",
+      "Bedieved Transfer",
+      "Defective Wines"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Unfermented Wine OK",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 deal with unfermented wine (yayin mi-gito) and Rava's ruling about squeezing grapes for kiddush, which the prose under 'Unfermented Wine OK' explicitly discusses.",
+      "second_heading": "Bedieved Transfer",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the second candidate (wine from the mouth or bottom of the barrel), which matches the 'Bedieved Transfer' prose that explicitly discusses mipeha u-mishuleha.",
+      "current_heading": "Unfermented Wine OK",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Defective Wines",
+    "candidates": [
+      "Bedieved Transfer",
+      "Defective Wines",
+      "Mixed Wine",
+      "Bad Smell Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the Gemara's attempt to identify which wines Rav's statement excludes \u2014 first the 'bedieved valid' list (black wine, borek, heiliston, cellar wine, raisin wine), then the 'bedieved invalid' list (souring, diluted, uncovered, pomace, foul odor), then the challenge about souring wine being already disputed by Rabbi Yo\u1e25anan and Rabbi Yehoshua ben Levi \u2014 all of which is precisely what the 'Defective Wines' section prose describes in detail.",
+      "chosen_heading": "Defective Wines",
+      "current_heading": "Defective Wines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Bad Smell Excluded",
+    "candidates": [
+      "Mixed Wine",
+      "Bad Smell Excluded",
+      "Grape Juice Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous dialectical chain examining what Rav's statement excludes (diluted wine, uncovered wine, pomace wine, foul-smelling wine), and candidate 1's prose explicitly discusses each of these exclusions \u2014 megulah, shel shemarim, and reicho ra \u2014 in exactly the same sequence, making it the clear home for this passage.",
+      "chosen_heading": "Bad Smell Excluded",
+      "current_heading": "Bad Smell Excluded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Grape Juice Status",
+    "candidates": [
+      "Grape Juice Status",
+      "Mevushal Wine",
+      "Rambam Strict",
+      "SA Lenient",
+      "Ratio Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses red wine being superior for libations (citing the Proverbs verse), which directly relates to the Rambam's requirement that kiddush wine must be fit for mizbe'ach libations \u2014 the prose in candidate 2 explicitly discusses wine fit for libation on the mizbe'ach as the standard for kiddush.",
+      "chosen_heading": "Rambam Strict",
+      "current_heading": "Grape Juice Status",
+      "moved": true
+    }
+  }
+]

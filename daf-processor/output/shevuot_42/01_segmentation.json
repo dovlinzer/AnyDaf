@@ -68,8 +68,8 @@
           "timestamp": "08:43"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Case Two: Quality of Witnesses as Condition (Knowledgeable in Halacha)",
@@ -379,7 +379,7 @@
           "timestamp": "50:43"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -422,8 +422,8 @@
           "timestamp": "54:11"
         }
       ],
-      "sefaria_index": 20,
-      "matched": true
+      "sefaria_index": 18,
+      "matched": false
     },
     {
       "title": "Rabbi Eliezer ben Yaakov: Oath on One's Own Claim Against Oneself (continued)",
@@ -436,8 +436,8 @@
           "timestamp": "53:55"
         }
       ],
-      "sefaria_index": 21,
-      "matched": true
+      "sefaria_index": 18,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -837,5 +837,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "50:43",
+  "amud_b_micro_title": "Adult Orphan",
+  "shiur_start_daf": 42,
+  "shiur_start_amud": "a"
 }

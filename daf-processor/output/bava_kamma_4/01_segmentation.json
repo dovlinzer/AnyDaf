@@ -116,7 +116,7 @@
           "timestamp": "27:02"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -155,7 +155,7 @@
           "timestamp": "39:57"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -817,5 +817,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "31:00",
+  "amud_b_micro_title": "Rav Adam Included",
+  "shiur_start_daf": 4,
+  "shiur_start_amud": "a"
 }

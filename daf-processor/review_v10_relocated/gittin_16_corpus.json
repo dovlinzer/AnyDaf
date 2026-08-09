@@ -1,0 +1,281 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Eliminating Cases",
+    "candidates": [
+      "Half-Pure Hands Query",
+      "Eliminating Cases",
+      "Moisture Remaining Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's systematic elimination of candidate cases for Ilfa's dilemma \u2014 exactly what heading 0 ('Half-Pure Hands Query') describes as 'walking through a series of candidate cases, systematically eliminating each one before arriving at the genuine sha'alah,' while the current placement under 'Eliminating Cases' (index 1) only partially matches and its prose already describes the content of all three items anyway, making index 0 the more appropriate home for the full dilemma introduction including the cases.",
+      "chosen_heading": "Half-Pure Hands Query",
+      "current_heading": "Eliminating Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Moisture Remaining Case",
+    "candidates": [
+      "Eliminating Cases",
+      "Moisture Remaining Case",
+      "Chibur & Mikvah",
+      "Rabbi Yehuda Chibur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain about residual moisture (mashkeh tofeach / tofeach lehatfiach) and whether it constitutes chibur for hand-washing, which is precisely what the 'Moisture Remaining Case' prose describes.",
+      "chosen_heading": "Moisture Remaining Case",
+      "current_heading": "Moisture Remaining Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Rabbi Yehuda Chibur",
+    "candidates": [
+      "Chibur & Mikvah",
+      "Rabbi Yehuda Chibur",
+      "Unresolved Question",
+      "Head in Drawn Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mikvah context and Rabbi Yehuda's chibur ruling as a possible limitation on the principle \u2014 exactly what heading 0 ('Chibur & Mikvah') describes as 'perhaps the chibur principle is known only in the context of a mikvah,' whereas heading 1 ('Rabbi Yehuda Chibur') describes the mikvah source and Rabbi Yehuda's ruling as already established context, suggesting those items precede the current placement.",
+      "chosen_heading": "Chibur & Mikvah",
+      "current_heading": "Rabbi Yehuda Chibur",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Head in Drawn Water",
+    "candidates": [
+      "Unresolved Question",
+      "Head in Drawn Water",
+      "Rashi's Explanation",
+      "Filthy Mikvah Caves",
+      "Bathing Prohibition",
+      "Three Lugin Extension",
+      "Half Immersion Half Pour",
+      "Nine Kabin Remedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes exactly the hybrid case (half by immersion, half by pouring) that results in teiku, which is precisely what the 'Half Immersion Half Pour' section's prose discusses.",
+      "chosen_heading": "Half Immersion Half Pour",
+      "current_heading": "Head in Drawn Water",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Nine Kabin Remedy",
+    "candidates": [
+      "Rashi's Explanation",
+      "Filthy Mikvah Caves",
+      "Bathing Prohibition",
+      "Three Lugin Extension",
+      "Half Immersion Half Pour",
+      "Nine Kabin Remedy",
+      "Ezra's Decree",
+      "Sick Exception",
+      "Modern Application",
+      "Ritva Clarification",
+      "Temple Mount Immersion",
+      "Rav Papa Extension",
+      "Mishnah Setup",
+      "Three Cases",
+      "Get Under Both Hands",
+      "Foreign Get Takana",
+      "Two Messengers",
+      "Rava-Rabbah Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa's ruling about nine kabin for a sick ba'al keri and his dilemma about half-immersion/half-pouring ending in teiku, which exactly matches the 'Rav Papa Extension' section's prose about chetzyo be-tvila ve-chetzyo be-netina ending in teiku.",
+      "chosen_heading": "Rav Papa Extension",
+      "current_heading": "Nine Kabin Remedy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Rava-Rabbah Dispute",
+    "candidates": [
+      "Ezra's Decree",
+      "Sick Exception",
+      "Modern Application",
+      "Ritva Clarification",
+      "Temple Mount Immersion",
+      "Rav Papa Extension",
+      "Mishnah Setup",
+      "Three Cases",
+      "Get Under Both Hands",
+      "Foreign Get Takana",
+      "Two Messengers",
+      "Rava-Rabbah Dispute",
+      "Edim Metzuyim",
+      "Abaye's Challenge",
+      "Confusion Concern",
+      "Appointed vs. Present"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yochanan's ruling that when two people are co-messengers (the get exits from both their hands), the get is valid, and the Gemara's inference that two co-messengers need not make the combined declaration \u2014 which is precisely what candidate 10 ('Two Messengers') discusses.",
+      "chosen_heading": "Two Messengers",
+      "current_heading": "Rava-Rabbah Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Appointed vs. Present",
+    "candidates": [
+      "Edim Metzuyim",
+      "Abaye's Challenge",
+      "Confusion Concern",
+      "Appointed vs. Present",
+      "Lishma Common Ground",
+      "Gezeirah Lest Revert",
+      "Rabbi Yehuda Lenient",
+      "Tanna Kamma Stringent",
+      "Baraita Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "Items 1-3 are precisely Abaye's challenge resolved via the kiyum shetarot confusion concern (matching heading 2's prose), and items 4-9 continue as the alternative version and its resolution within the same analytical thread, making heading 2 the best single home for the entire passage.",
+      "chosen_heading": "Confusion Concern",
+      "current_heading": "Appointed vs. Present",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Baraita Cases",
+    "candidates": [
+      "Lishma Common Ground",
+      "Gezeirah Lest Revert",
+      "Rabbi Yehuda Lenient",
+      "Tanna Kamma Stringent",
+      "Baraita Cases",
+      "Ulla Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's question 've-liflog nami Rabbi Yehuda b'reisha' and Ulla's initial answer, which is precisely what candidate 4's prose describes as the logical pressure that motivates Ulla's teaching.",
+      "chosen_heading": "Baraita Cases",
+      "current_heading": "Baraita Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Ulla Interpretation",
+    "candidates": [
+      "Ulla Interpretation",
+      "One Sealing Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Oshaya's objection to Ulla presenting the Baraita that Rabbi Yehuda validates 'this case but not another,' which is precisely what the 'Ulla Interpretation' prose section describes and analyzes.",
+      "chosen_heading": "Ulla Interpretation",
+      "current_heading": "Ulla Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "One Sealing Only",
+    "candidates": [
+      "One Sealing Only",
+      "Salka Daatach",
+      "Rabbi Yehuda Limits",
+      "Final Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses the 'salka daatach amina' reasoning \u2014 why one might have thought Rabbi Yehuda would be lenient even in the one-witness case \u2014 which directly matches the 'Salka Daatach' section's prose about that exact reasoning.",
+      "chosen_heading": "Salka Daatach",
+      "current_heading": "One Sealing Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Final Resolution",
+    "candidates": [
+      "Salka Daatach",
+      "Rabbi Yehuda Limits",
+      "Final Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage introduces Rav Yehuda's statement that two who brought a get from overseas brings us to the dispute between Rabbi Yehuda and the Rabbis, which fits best under 'Salka Daatach' as the starting point of explaining why one might have thought otherwise about Rabbi Yehuda's position, rather than under the 'Final Resolution' section which discusses conclusions already reached.",
+      "chosen_heading": "Salka Daatach",
+      "current_heading": "Final Resolution",
+      "moved": true
+    }
+  }
+]

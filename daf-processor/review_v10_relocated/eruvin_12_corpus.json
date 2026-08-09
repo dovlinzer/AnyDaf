@@ -1,0 +1,513 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Beit Shammai vs Hillel",
+    "candidates": [
+      "Tzurat HaPetach Proof",
+      "Beit Shammai vs Hillel",
+      "Wall vs Heker Theme",
+      "Two Lechayim Question",
+      "Braita of Uvlin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items deal with the Mishnah's core dispute between Beit Shammai and Beit Hillel (and Rabbi Eliezer/Rabbi Akiva/Rabbi Yishmael's student) about what renders a mavoi fit, along with the Gemara's analysis of whether the requirement reflects a mechitza or heker function \u2014 exactly what the 'Beit Shammai vs Hillel' prose describes.",
+      "chosen_heading": "Beit Shammai vs Hillel",
+      "current_heading": "Beit Shammai vs Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Braita of Uvlin",
+    "candidates": [
+      "Wall vs Heker Theme",
+      "Two Lechayim Question",
+      "Braita of Uvlin",
+      "Lechayim Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items \u2014 the dilemma about Rebbi Eliezer's ruling, the incident at Uvlin, and Rabban Shimon ben Gamliel's baraita \u2014 are precisely what the 'Braita of Uvlin' prose describes, making the current placement correct.",
+      "chosen_heading": "Braita of Uvlin",
+      "current_heading": "Braita of Uvlin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28
+    ],
+    "current_heading": "Lechayim Reconciliation",
+    "candidates": [
+      "Lechayim Reconciliation",
+      "Less Than Four Amot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same exchange about whether Rebbi Eliezer requires two lechayim with or without a kora, exactly matching the 'Lechayim Reconciliation' prose which describes this precise argument and its rejection (hachi ka'amar).",
+      "chosen_heading": "Lechayim Reconciliation",
+      "current_heading": "Lechayim Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Less Than Four Amot",
+    "candidates": [
+      "Less Than Four Amot",
+      "Rav Ashi Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the tension between Rabban Shimon ben Gamliel's statement that a mavoi under four amot requires nothing and the mishna's formulation that it requires a lechi or kora, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Less Than Four Amot",
+      "current_heading": "Less Than Four Amot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rav Ashi Resolution",
+    "candidates": [
+      "Rav Ashi Resolution",
+      "Narrow Mavoi Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's resolution explaining that Rabban Shimon ben Gamliel means 'nothing beyond Beit Hillel's requirement,' which is precisely what the 'Rav Ashi Resolution' prose describes.",
+      "chosen_heading": "Rav Ashi Resolution",
+      "current_heading": "Rav Ashi Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Narrow Mavoi Threshold",
+    "candidates": [
+      "Narrow Mavoi Threshold",
+      "Psei Chatzer Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses how narrow a mavoi must be to require nothing at all, which is precisely what the 'Narrow Mavoi Threshold' section's prose discusses \u2014 Rav Achli/Rav Yechiel's ruling of four tefachim.",
+      "chosen_heading": "Narrow Mavoi Threshold",
+      "current_heading": "Narrow Mavoi Threshold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Psei Chatzer Agreement",
+    "candidates": [
+      "Psei Chatzer Agreement",
+      "Different Requirements",
+      "Chatzer Pas Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that the Rabbis concede to Rabbi Eliezer regarding psei chatzer and that the halakha follows Rabbi Eliezer for psei chatzer, which is precisely what the 'Psei Chatzer Agreement' prose discusses.",
+      "chosen_heading": "Psei Chatzer Agreement",
+      "current_heading": "Psei Chatzer Agreement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Chatzer Pas Dispute",
+    "candidates": [
+      "Different Requirements",
+      "Chatzer Pas Dispute",
+      "Pas Dimensions Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita establishing the dispute between the Rabbis (one pas) and Rebbi (two psim) for a chatzer, which is precisely what the 'Chatzer Pas Dispute' section's prose describes and analyzes.",
+      "chosen_heading": "Chatzer Pas Dispute",
+      "current_heading": "Chatzer Pas Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Pas Dimensions Debate",
+    "candidates": [
+      "Pas Dimensions Debate",
+      "Ten Eleven Amot",
+      "Two Yochanan Statements",
+      "One Pas Suffices",
+      "Abaye Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a single continuous dispute-resolution chain: Rav Asi quotes Rav Yochanan requiring two psim, Rav Zeira challenges with the four-tefachim ruling, the baraita of ten-and-eleven amot is cited as further difficulty, Rav Zeira resolves both contradictions upon returning from sea, and the baraita is attributed to Rebbi following Rebbi Yosi \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Pas Dimensions Debate",
+      "current_heading": "Pas Dimensions Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Abaye Challenge",
+    "candidates": [
+      "Ten Eleven Amot",
+      "Two Yochanan Statements",
+      "One Pas Suffices",
+      "Abaye Challenge",
+      "Water Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the content described under 'Abaye Challenge': Abaye's challenge to Rav Yosef about Shmuel's conflicting statements (item 1) and Rav Yosef's response about the Dura de-Ra'usa incident with Rav Yehuda ruling one pas sufficient (item 2), which is precisely what the prose of heading 3 describes.",
+      "chosen_heading": "Abaye Challenge",
+      "current_heading": "Abaye Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Water Leniency",
+    "candidates": [
+      "Water Leniency",
+      "Pappa Huna Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Abaye's water leniency objection, Rabbi Tavla's suspended partition question, and the concluding 'in any case it is difficult' \u2014 are explicitly discussed in the 'Water Leniency' prose, which covers exactly this sequence ending with 'mikal makom kashya.'",
+      "chosen_heading": "Water Leniency",
+      "current_heading": "Water Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "Pappa Huna Solution",
+    "candidates": [
+      "Pappa Huna Solution",
+      "Water Into Chatzer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the same continuous discussion: the resolution of Shmuel's three formulations (one pas/two psim/rov dofen), Rav Pappa's difficulty with rov dofen, and the two answers offered \u2014 exactly what the 'Pappa Huna Solution' prose describes.",
+      "chosen_heading": "Pappa Huna Solution",
+      "current_heading": "Pappa Huna Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Water Into Chatzer",
+    "candidates": [
+      "Water Into Chatzer",
+      "Carrying vs Water",
+      "Giduda Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself about a leshon yam entering a chatzer, which candidate 0's prose directly introduces and explains, making it the correct placement.",
+      "chosen_heading": "Water Into Chatzer",
+      "current_heading": "Water Into Chatzer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Giduda Explanation",
+    "candidates": [
+      "Carrying vs Water",
+      "Giduda Explanation",
+      "Lechi Wall Kora Heker"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is the Gemara's question about why carrying within the chatzer is permitted despite the full breach into a forbidden domain, and Item 2 is the Gemara's answer (giduda), but the prose under heading 0 ('Carrying vs. Water') explicitly sets up this exact question-and-answer pair, while heading 1 ('Giduda Explanation') contains only the answer/elaboration \u2014 moving both items to heading 0 keeps the question with its answer as a unit, matching that section's prose which asks 'why does the braita treat carrying in the chatzer as unproblematic.'",
+      "chosen_heading": "Carrying vs Water",
+      "current_heading": "Giduda Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Lechi Wall Kora Heker",
+    "candidates": [
+      "Giduda Explanation",
+      "Lechi Wall Kora Heker",
+      "Shituf Impact Question",
+      "Shituf Not Defining"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda's statement distinguishing lechi (creates biblical reshut hayachid, liable) from kora (only a heker, exempt), which is precisely what the 'Lechi Wall Kora Heker' prose discusses.",
+      "chosen_heading": "Lechi Wall Kora Heker",
+      "current_heading": "Lechi Wall Kora Heker",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Shituf Not Defining",
+    "candidates": [
+      "Shituf Impact Question",
+      "Shituf Not Defining",
+      "Mefulash Mavoi Lechi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete Rav Sheshet objection and its baraita proof that domain status is determined by walls not by shituf/eruv arrangements, which is precisely what the 'Shituf Not Defining' prose describes.",
+      "chosen_heading": "Shituf Not Defining",
+      "current_heading": "Shituf Not Defining",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Mefulash Mavoi Lechi",
+    "candidates": [
+      "Mefulash Mavoi Lechi",
+      "Rava Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yehuda's reformulated statement about a mefulash mavoi (not fit for merging/shituf) and the distinction between lechi (chayav) and kora (patur), which is precisely the content discussed in the 'Mefulash Mavoi Lechi' section's prose.",
+      "chosen_heading": "Mefulash Mavoi Lechi",
+      "current_heading": "Mefulash Mavoi Lechi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Rava Position",
+    "candidates": [
+      "Rava Position",
+      "Required Walls Type"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the positions of Rav Yehuda, Rabba, and Rava on lechi vs. kora, culminating in Rava's view that both function as a heker \u2014 which is precisely what the 'Rava Position' section is introducing.",
+      "chosen_heading": "Rava Position",
+      "current_heading": "Rava Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Required Walls Type",
+    "candidates": [
+      "Required Walls Type",
+      "Two Houses Lechi Kora",
+      "Rabbis Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are exactly the challenge-and-response sequence (Rabbi Ya'akov bar Abba's objection and Rava's reinterpretation of the baraita) that candidate 0's prose describes in detail.",
+      "chosen_heading": "Required Walls Type",
+      "current_heading": "Required Walls Type",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132,
+      133
+    ],
+    "current_heading": "Rabbis Rejection",
+    "candidates": [
+      "Two Houses Lechi Kora",
+      "Rabbis Rejection",
+      "Square Becomes Chatzer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a single continuous unit \u2014 the objection from Rabbi Yehuda's ruling (item 1), the Rabbis' rejection (item 2), and the Gemara's resolution (item 3) \u2014 which together constitute the full discussion of the two-houses case with lechi/kora, matching heading 0's prose about Rabbi Yehuda's ruling on two houses facing each other on a reshut harabim with lechi or kora on each side.",
+      "chosen_heading": "Two Houses Lechi Kora",
+      "current_heading": "Rabbis Rejection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Square Becomes Chatzer",
+    "candidates": [
+      "Rabbis Rejection",
+      "Square Becomes Chatzer",
+      "Chiya Confirmation",
+      "Zeira Appreciation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both statements (Rav Yehuda's about lechi and Rav Chiyya bar Ashi's about kora) and heading 1 ('Square Becomes Chatzer') is the only candidate whose prose discusses both statements together as a unit, while headings 2 and 3 split them artificially.",
+      "chosen_heading": "Square Becomes Chatzer",
+      "current_heading": "Square Becomes Chatzer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144,
+      145,
+      146
+    ],
+    "current_heading": "Zeira Appreciation",
+    "candidates": [
+      "Chiya Confirmation",
+      "Zeira Appreciation",
+      "Zeira Question",
+      "Nachman Definition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Zeira Appreciation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Zeira's appreciation of the elders' precision regarding the chatzer ruling, which matches the 'Zeira Appreciation' prose exactly.",
+      "second_heading": "Zeira Question",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 form the question-and-answer unit where Rabbi Zeira raises the difficulty about lechi functioning as a pas mashehu and the Gemara resolves it via Rabbi Yochanan's ruling, matching the 'Zeira Question' prose precisely.",
+      "current_heading": "Zeira Appreciation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Nachman Definition",
+    "candidates": [
+      "Zeira Question",
+      "Nachman Definition",
+      "Shape Irrelevant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Nachman's 'naktinan' statement defining which mavoi is permitted with a lechi/kora versus which chatzer requires a pas of four tefachim, which is exactly what the 'Nachman Definition' prose describes and discusses.",
+      "chosen_heading": "Nachman Definition",
+      "current_heading": "Nachman Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      157
+    ],
+    "current_heading": "Shape Irrelevant",
+    "candidates": [
+      "Shape Irrelevant",
+      "Length Requirement Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's clarification that 'meruba'at' doesn't mean specifically square to the exclusion of round shapes, but rather that length vs. width determines mavoi vs. chatzer classification \u2014 exactly what the 'Shape Irrelevant' section's prose describes.",
+      "chosen_heading": "Shape Irrelevant",
+      "current_heading": "Shape Irrelevant",
+      "moved": false
+    }
+  }
+]

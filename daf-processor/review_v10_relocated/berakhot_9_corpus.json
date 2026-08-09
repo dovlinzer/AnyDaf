@@ -1,0 +1,656 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Chatzot as Safeguard",
+    "candidates": [
+      "V'lo Zu Bilvad",
+      "Gamliel vs. Rabbanan",
+      "Chatzot as Safeguard",
+      "Post-Chatzot Prohibition?",
+      "Psak: Whole Night Valid",
+      "Hekter Chalavim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous question-and-answer unit: item 1 quotes the mishna phrase, item 2 raises the Gemara's question about Rabban Gamliel's formulation, and item 3 resolves it \u2014 exactly the content described in candidate 1's prose about the Gemara identifying the ambiguity in the Mishnah regarding Rabban Gamliel vs. the Rabbanan.",
+      "chosen_heading": "Gamliel vs. Rabbanan",
+      "current_heading": "Chatzot as Safeguard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Hekter Chalavim",
+    "candidates": [
+      "Post-Chatzot Prohibition?",
+      "Psak: Whole Night Valid",
+      "Hekter Chalavim",
+      "Pesach Not Listed",
+      "Leil Pesach Braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly introduces hekter chalavim (burning of fats and limbs), which is exactly what the 'Hekter Chalavim' section's prose discusses.",
+      "chosen_heading": "Hekter Chalavim",
+      "current_heading": "Hekter Chalavim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Leil Pesach Braita",
+    "candidates": [
+      "Pesach Not Listed",
+      "Leil Pesach Braita",
+      "Elazar vs. Akiva Debate",
+      "Gezeirah Shavah Chatzot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pesach Not Listed",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's observation that the Mishnah omits eating the Paschal lamb, which is precisely what heading 0 ('Pesach Not Listed') discusses \u2014 the conspicuous omission and its implications.",
+      "second_heading": "Leil Pesach Braita",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita that contradicts the Mishnah's omission by explicitly including eating the Paschal lamb among all-night obligations, which is exactly what heading 1 ('Leil Pesach Braita') describes.",
+      "current_heading": "Leil Pesach Braita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Gezeirah Shavah Chatzot",
+    "candidates": [
+      "Elazar vs. Akiva Debate",
+      "Gezeirah Shavah Chatzot",
+      "Akiva: Whole Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Yosef's 'lo kashya' resolution attributing the contradiction to the dispute between Rabbi Elazar ben Azaryah and Rabbi Akiva, which is precisely what the 'Elazar vs. Akiva Debate' prose describes, while the current heading 'Gezeirah Shavah Chatzot' covers the detailed explanation of Rabbi Elazar ben Azaryah's gezeirah shavah argument that follows later in the baraita.",
+      "chosen_heading": "Elazar vs. Akiva Debate",
+      "current_heading": "Gezeirah Shavah Chatzot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Akiva: Whole Night",
+    "candidates": [
+      "Gezeirah Shavah Chatzot",
+      "Akiva: Whole Night",
+      "Two-Night Hava Amina",
+      "Boker Rishon Debate",
+      "Why Pesach Excluded",
+      "Hanei Tannai Parallel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Akiva: Whole Night",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Akiva's position that 'b'chipazon' allows the whole night and the need for 'balaila' to exclude daytime eating, which matches the 'Akiva: Whole Night' prose exactly.",
+      "second_heading": "Two-Night Hava Amina",
+      "second_confidence": "high",
+      "second_reason": "Items 3-8 address why the word 'hazeh' is needed according to Rabbi Akiva (the two-night hava amina) and the subsequent boker rishon debate between Rabbi Akiva and Rabbi Elazar ben Azarya, matching the 'Two-Night Hava Amina' and 'Boker Rishon Debate' sections \u2014 and since items 3-8 form one continuous chain resolving that single question, they belong under 'Two-Night Hava Amina' (index 2) as the starting point of that discussion.",
+      "current_heading": "Akiva: Whole Night",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Hanei Tannai Parallel",
+    "candidates": [
+      "Two-Night Hava Amina",
+      "Boker Rishon Debate",
+      "Why Pesach Excluded",
+      "Hanei Tannai Parallel",
+      "Rav Elazar: Three Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces the parallel tannaitic dispute (ve-hanei tannai ke-hanei tannai) and cites the verse from Deuteronomy 16:6 with its three temporal references, which is exactly what the prose of heading 3 ('Hanei Tannai Parallel') describes.",
+      "chosen_heading": "Hanei Tannai Parallel",
+      "current_heading": "Hanei Tannai Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Rav Elazar: Three Times",
+    "candidates": [
+      "Rav Elazar: Three Times",
+      "Yehoshua: Whole Night",
+      "Ge'ulah Began at Night"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Eliezer and Rabbi Yehoshua's views together, and the current heading 'Rav Elazar: Three Times' along with its prose explicitly discusses both positions (Rabbi Elazar's bounded eating and Rabbi Yehoshua's all-night eating) as a pair mapped onto the earlier dispute, making this the natural home for the combined baraita.",
+      "chosen_heading": "Rav Elazar: Three Times",
+      "current_heading": "Rav Elazar: Three Times",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Ge'ulah Began at Night",
+    "candidates": [
+      "Yehoshua: Whole Night",
+      "Ge'ulah Began at Night",
+      "Sha'at Chipazon Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Abba's teaching that redemption began at night but departure occurred during the day, which is precisely what the prose of candidate 1 describes.",
+      "chosen_heading": "Ge'ulah Began at Night",
+      "current_heading": "Ge'ulah Began at Night",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Sha'at Chipazon Dispute",
+    "candidates": [
+      "Sha'at Chipazon Dispute",
+      "Lailah as Ge'ulah Start"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the chipazon dispute between Rabbi Elazar ben Azaryah and Rabbi Akiva, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Sha'at Chipazon Dispute",
+      "current_heading": "Sha'at Chipazon Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Lailah as Ge'ulah Start",
+    "candidates": [
+      "Lailah as Ge'ulah Start",
+      "Tzitzit at Night",
+      "Aggadeta Opens Shas",
+      "Daber Na \u2014 Please"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita directly addresses the question of whether the Exodus occurred at night and concludes that redemption began in the evening, which is precisely what the 'Lailah as Ge'ulah Start' section's prose discusses.",
+      "chosen_heading": "Lailah as Ge'ulah Start",
+      "current_heading": "Lailah as Ge'ulah Start",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Daber Na \u2014 Please",
+    "candidates": [
+      "Tzitzit at Night",
+      "Aggadeta Opens Shas",
+      "Daber Na \u2014 Please",
+      "Prisoner Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the 'daber na' passage \u2014 God's supplication to Moses to ask Israel to borrow gold and silver, and the reason being to fulfill Avraham's prophecy of 'yetzu birchush gadol' \u2014 which is exactly what the 'Daber Na \u2014 Please' section prose describes.",
+      "chosen_heading": "Daber Na \u2014 Please",
+      "current_heading": "Daber Na \u2014 Please",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Prisoner Parable",
+    "candidates": [
+      "Prisoner Parable",
+      "Al Korcham Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the prisoner parable and Israel's response 'if only we could get out ourselves,' which is exactly what the Prisoner Parable prose section describes.",
+      "chosen_heading": "Prisoner Parable",
+      "current_heading": "Prisoner Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Al Korcham Debate",
+    "candidates": [
+      "Al Korcham Debate",
+      "Va-yenatzlu Mitzrayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the dispute about against whose will the Egyptians gave their belongings (al korcham de-Mitzrayim vs. al korcham de-Yisrael), which is precisely what the 'Al Korcham Debate' prose describes.",
+      "chosen_heading": "Al Korcham Debate",
+      "current_heading": "Al Korcham Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Va-yenatzlu Mitzrayim",
+    "candidates": [
+      "Va-yenatzlu Mitzrayim",
+      "Ehyeh Asher Ehyeh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses 'va-yenatzlu Mitzrayim' and the interpretations of Rabbi Ami and Reish Lakish about emptying Egypt, which matches precisely the prose under heading 0.",
+      "chosen_heading": "Va-yenatzlu Mitzrayim",
+      "current_heading": "Va-yenatzlu Mitzrayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Ehyeh Asher Ehyeh",
+    "candidates": [
+      "Ehyeh Asher Ehyeh",
+      "Dayah L'tzarah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the divine name 'Ehyeh Asher Ehyeh' and God's message to Moses about past and future exiles, which matches the prose of heading 0 precisely.",
+      "chosen_heading": "Ehyeh Asher Ehyeh",
+      "current_heading": "Ehyeh Asher Ehyeh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Dayah L'tzarah",
+    "candidates": [
+      "Dayah L'tzarah",
+      "Eliyahu Aneini",
+      "Misheyakir to Hanetz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Moses's 'dayah l'tzarah b'sha'atah' statement and God's response about 'ehyeh shelachani aleichem,' which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Dayah L'tzarah",
+      "current_heading": "Dayah L'tzarah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Misheyakir to Hanetz",
+    "candidates": [
+      "Eliyahu Aneini",
+      "Misheyakir to Hanetz",
+      "Techelet vs. Lavan"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eliyahu Aneini",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Elijah/aneini passage that belongs under 'Eliyahu Aneini', whose prose directly describes this exact content about the two requests and the sorcery concern.",
+      "second_heading": "Misheyakir to Hanetz",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the opening Mishnah of the morning Shema chapter and its closing ruling about late reciters, both of which are discussed in the 'Misheyakir to Hanetz' prose.",
+      "current_heading": "Misheyakir to Hanetz",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Techelet vs. Lavan",
+    "candidates": [
+      "Techelet vs. Lavan",
+      "Misheyakir Opinions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Gemara's question about distinguishing techelet from lavan and concludes it refers to the threads within tzitzit, which is precisely what the prose under 'Techelet vs. Lavan' describes.",
+      "chosen_heading": "Techelet vs. Lavan",
+      "current_heading": "Techelet vs. Lavan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Misheyakir Opinions",
+    "candidates": [
+      "Misheyakir Opinions",
+      "Huna & Abaye Rulings",
+      "Zmanim Today",
+      "Vatikin Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita recording Rabbi Meir's wolf/dog distinction, Rabbi Akiva's donkey/wild donkey distinction, and Acherim's four-cubits recognition standard is precisely what the 'Misheyakir Opinions' prose describes, making the current placement correct.",
+      "chosen_heading": "Misheyakir Opinions",
+      "current_heading": "Misheyakir Opinions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Vatikin Practice",
+    "candidates": [
+      "Huna & Abaye Rulings",
+      "Zmanim Today",
+      "Vatikin Practice",
+      "Yira'ucha Im Shemesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Huna's ruling, Abaye's distinction between tefillin and Shema, and the baraita about vatikin finishing Shema at sunrise \u2014 are precisely the content described in the 'Huna & Abaye Rulings' prose, which quotes and explains these very passages, whereas the 'Vatikin Practice' prose discusses the reasoning and structure of the vatikin practice rather than the rulings of Rav Huna and Abaye that introduce it.",
+      "chosen_heading": "Huna & Abaye Rulings",
+      "current_heading": "Vatikin Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Yira'ucha Im Shemesh",
+    "candidates": [
+      "Vatikin Practice",
+      "Yira'ucha Im Shemesh",
+      "Kahal Kadosh Jerusalem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Zeira's verse 'yira'ucha im shemesh' which is precisely what heading 1 'Yira'ucha Im Shemesh' is about, and the prose under that heading explicitly discusses Rabbi Zeira's citation of this supporting verse.",
+      "chosen_heading": "Yira'ucha Im Shemesh",
+      "current_heading": "Yira'ucha Im Shemesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Kahal Kadosh Jerusalem",
+    "candidates": [
+      "Kahal Kadosh Jerusalem",
+      "Zeira's Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the teaching of Rabbi Yosei ben Elyakim about juxtaposing redemption and prayer, which is exactly what candidate 0's prose discusses, including the specific quote and its interpretation.",
+      "chosen_heading": "Kahal Kadosh Jerusalem",
+      "current_heading": "Kahal Kadosh Jerusalem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Zeira's Test",
+    "candidates": [
+      "Zeira's Test",
+      "Rabbi Bruna's Joy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Zeira's test of the principle, his reported harm (bringing myrtle to the king), the rebuttal that seeing the king was a privilege, and Rabbi Yochanan's teaching about greeting kings \u2014 all of which are directly discussed in the 'Zeira's Test' prose.",
+      "chosen_heading": "Zeira's Test",
+      "current_heading": "Zeira's Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Rabbi Bruna's Joy",
+    "candidates": [
+      "Rabbi Bruna's Joy",
+      "Sefatai Tiftach Problem",
+      "Hashkivenu Extension",
+      "Yihyu L'ratzon Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Bruna's joy upon juxtaposing ge'ulah and tefillah, which matches exactly what candidate 0's prose discusses \u2014 the current placement is correct.",
+      "chosen_heading": "Rabbi Bruna's Joy",
+      "current_heading": "Rabbi Bruna's Joy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142
+    ],
+    "current_heading": "Yihyu L'ratzon Position",
+    "candidates": [
+      "Sefatai Tiftach Problem",
+      "Hashkivenu Extension",
+      "Yihyu L'ratzon Position",
+      "Tehillim Perek 1\u20132 Unity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Sefatai Tiftach Problem",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20136 all deal with the problem of how 'hashem sefatai tiftach' can intervene between ge'ulah and tefillah, including Rabbi Elazar's responses, Rabbi Yochanan's evening-prayer ruling, and Rav Ashi's resolution via the hashkivenu parallel \u2014 exactly the content described in the 'Sefatai Tiftach Problem' and 'Hashkivenu Extension' prose (but since items 1\u20136 form one continuous chain, candidate 0 covers the whole arc).",
+      "second_heading": "Yihyu L'ratzon Position",
+      "second_confidence": "high",
+      "second_reason": "Items 7\u20139 shift to a new, self-contained question about why 'yihyu l'ratzon' is placed after the eighteen blessings rather than before, with Rabbi Yehuda ben Rabbi Shimon ben Pazi's answer and the Gemara's challenge about the chapter count \u2014 precisely the content described under the 'Yihyu L'ratzon Position' prose.",
+      "current_heading": "Yihyu L'ratzon Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146,
+      147,
+      148,
+      149,
+      150
+    ],
+    "current_heading": "Tehillim Perek 1\u20132 Unity",
+    "candidates": [
+      "Tehillim Perek 1\u20132 Unity",
+      "Rif: Night/Day Shema Psak",
+      "Biryonei in Rabbi Meir",
+      "Beruriah on Repentance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the unity of Psalms chapters 1 and 2 as a single parsha, matching exactly the prose of candidate 0 which covers the same proofs: the 103/104 counting argument, David not saying Halleluya until seeing the downfall of the wicked, and the ashrei frame argument from Rabbi Shmuel bar Nahmani/Rabbi Yochanan.",
+      "chosen_heading": "Tehillim Perek 1\u20132 Unity",
+      "current_heading": "Tehillim Perek 1\u20132 Unity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159,
+      160,
+      161
+    ],
+    "current_heading": "Beruriah on Repentance",
+    "candidates": [
+      "Rif: Night/Day Shema Psak",
+      "Biryonei in Rabbi Meir",
+      "Beruriah on Repentance",
+      "Beruriah vs. Min"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together constitute the complete Beruriah/Rabbi Meir episode \u2014 her textual challenge, her exegetical argument about the end of the verse, and the resolution \u2014 which is precisely what candidate 2 ('Beruriah on Repentance') describes in its prose.",
+      "chosen_heading": "Beruriah on Repentance",
+      "current_heading": "Beruriah on Repentance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      165,
+      166,
+      167
+    ],
+    "current_heading": "Beruriah vs. Min",
+    "candidates": [
+      "Beruriah vs. Min",
+      "Abbahu: Smuchin Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous Berurya-min exchange about Isaiah 54:1, which matches exactly the prose under 'Beruriah vs. Min.'",
+      "chosen_heading": "Beruriah vs. Min",
+      "current_heading": "Beruriah vs. Min",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      170
+    ],
+    "current_heading": "Abbahu: Smuchin Answer",
+    "candidates": [
+      "Abbahu: Smuchin Answer",
+      "Avshalom & Gog u-Magog"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the heretic's question to Rabbi Abbahu about the chronological ordering of the Absalom and Saul psalms, which is exactly what the prose under 'Abbahu: Smuchin Answer' describes.",
+      "chosen_heading": "Abbahu: Smuchin Answer",
+      "current_heading": "Abbahu: Smuchin Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      173,
+      174,
+      175
+    ],
+    "current_heading": "Avshalom & Gog u-Magog",
+    "candidates": [
+      "Avshalom & Gog u-Magog",
+      "Christian Subtext"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 Rabbi Abbahu's smuchin defense, Rabbi Yochanan's prooftext, and the Absalom/Gog u-Magog juxtaposition question \u2014 which exactly matches the 'Avshalom & Gog u-Magog' prose that explicitly walks through all three points in sequence.",
+      "chosen_heading": "Avshalom & Gog u-Magog",
+      "current_heading": "Avshalom & Gog u-Magog",
+      "moved": false
+    }
+  }
+]

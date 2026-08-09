@@ -1,0 +1,299 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Samuel: hair context",
+    "candidates": [
+      "Ehei Na'eh classification",
+      "Challenge to meaning",
+      "Samuel: hair context",
+      "Nazir as sinner"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Shmuel's resolution involving holding one's hair, which matches exactly the prose of candidate 2 ('Samuel: hair context').",
+      "chosen_heading": "Samuel: hair context",
+      "current_heading": "Samuel: hair context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Nazir as sinner",
+    "candidates": [
+      "Nazir as sinner",
+      "Tahor nazir not sinner",
+      "Tosafot on mixed nature",
+      "Harei kazeh context",
+      "Complete vs incomplete"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form the question-and-answer exchange about whether naziriteship is sinful and therefore cannot be called 'beautiful,' which is precisely what heading 0 ('Nazir as sinner') discusses in its prose.",
+      "chosen_heading": "Nazir as sinner",
+      "current_heading": "Nazir as sinner",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Complete vs incomplete",
+    "candidates": [
+      "Tahor nazir not sinner",
+      "Tosafot on mixed nature",
+      "Harei kazeh context",
+      "Complete vs incomplete",
+      "Silsul discussion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about 'hareini kazeh' and Shmuel's answer that a nazirite was passing before him, which is precisely what the prose in candidate 2 ('Harei kazeh context') describes.",
+      "chosen_heading": "Harei kazeh context",
+      "current_heading": "Complete vs incomplete",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Silsul discussion",
+    "candidates": [
+      "Complete vs incomplete",
+      "Silsul discussion",
+      "Shalach pera"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items cover exactly the silsul and kilkul discussions (items 1-2 on mesalsel/silsul, items 3-4 on mechalkel/kilkul) that the prose of heading 1 'Silsul discussion' explicitly describes, including the maidservant citation, the Torah/poor-sustaining objections, and Shmuel's repeated answer about holding one's hair.",
+      "chosen_heading": "Silsul discussion",
+      "current_heading": "Silsul discussion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Shalach pera",
+    "candidates": [
+      "Shalach pera",
+      "Rabbi Meir birds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the derivation that 'shilu'a\u1e25 pera' means letting hair grow (not removing it), matching perfectly the 'Shalach pera' section's prose about the gezeira shava of pera-pera and the alternate reading of 'shole'a\u1e25 mayim' as growth.",
+      "chosen_heading": "Shalach pera",
+      "current_heading": "Shalach pera",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Rabbi Meir birds",
+    "candidates": [
+      "Rabbi Meir birds",
+      "Sages reject borrowing",
+      "Rabbi Yochanan view"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present Rabbi Meir's position and the Reish Lakish explanation of his reasoning (juxtaposition to hair) plus the explicit dispute formulation, which the prose under heading 0 discusses in detail, making the current placement correct.",
+      "chosen_heading": "Rabbi Meir birds",
+      "current_heading": "Rabbi Meir birds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Rabbi Yochanan view",
+    "candidates": [
+      "Sages reject borrowing",
+      "Rabbi Yochanan view",
+      "Reish Lakish differs",
+      "Nazir context required",
+      "Tosafot reconciles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items present Rabbi Yochanan's explanation of Rabbi Meir's reasoning and the Gemara's subsequent challenges (voluntary offering, metzora's birds, impure nazirite) with their resolutions \u2014 exactly the content described in the 'Rabbi Yochanan view' prose, which explicitly mentions these same challenges and the requirement of a nazir passing by.",
+      "chosen_heading": "Rabbi Yochanan view",
+      "current_heading": "Rabbi Yochanan view",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Tosafot reconciles",
+    "candidates": [
+      "Reish Lakish differs",
+      "Nazir context required",
+      "Tosafot reconciles",
+      "All-or-nothing rule"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "All-or-nothing rule",
+    "candidates": [
+      "All-or-nothing rule",
+      "Not Rabbi Shimon",
+      "Rabbi Shimon view"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage directly states the all-or-nothing rule that candidate 0's prose is explicitly analyzing \u2014 that declaring nezirut with only one restriction still binds you to all details of naziriteship.",
+      "chosen_heading": "All-or-nothing rule",
+      "current_heading": "All-or-nothing rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Rabbi Shimon view",
+    "candidates": [
+      "Not Rabbi Shimon",
+      "Rabbi Shimon view",
+      "Sages' reasoning",
+      "Biblical sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Gemara's opening remark that the mishna is not in accordance with Rabbi Shimon AND the baraita citing both Rabbi Shimon's and the Rabbis' views, making it a single unit that belongs under 'Not Rabbi Shimon' which introduces exactly this Gemara comment.",
+      "chosen_heading": "Not Rabbi Shimon",
+      "current_heading": "Rabbi Shimon view",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Biblical sources",
+    "candidates": [
+      "Sages' reasoning",
+      "Biblical sources",
+      "Wine mizvot issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the biblical sources (Numbers 6:4 and 6:3) for Rabbi Shimon's and the Rabbis' positions, which is exactly what candidate 1 'Biblical sources' is about.",
+      "chosen_heading": "Biblical sources",
+      "current_heading": "Biblical sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Wine mizvot issue",
+    "candidates": [
+      "Wine mizvot issue",
+      "Kiddush problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rabbi Shimon's use of 'mi-yayin ve-shachar yazir' to prohibit mitzvah-wine just as optional wine, which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Wine mizvot issue",
+      "current_heading": "Wine mizvot issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Kiddush problem",
+    "candidates": [
+      "Kiddush problem",
+      "Kiddush not d'Oraita",
+      "Rabbeinu Tam rhetorical",
+      "Rava case",
+      "Nezirut vs shevua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Gemara's question about kiddush/havdala wine and the 'mushba ve-omed me-Har Sinai' response \u2014 are precisely what the 'Kiddush problem' prose discusses as its central content, introducing the striking statement and the initial puzzlement it causes.",
+      "chosen_heading": "Kiddush problem",
+      "current_heading": "Kiddush problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Nezirut vs shevua",
+    "candidates": [
+      "Kiddush not d'Oraita",
+      "Rabbeinu Tam rhetorical",
+      "Rava case",
+      "Nezirut vs shevua"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rava's specific formulation of the oath-then-nazirite case, which is precisely what the 'Rava case' section's prose describes \u2014 introducing Rava's shavu'ah she-eshteh scenario \u2014 rather than the analytical discussion of that case found in 'Nezirut vs shevua'.",
+      "chosen_heading": "Rava case",
+      "current_heading": "Nezirut vs shevua",
+      "moved": true
+    }
+  }
+]

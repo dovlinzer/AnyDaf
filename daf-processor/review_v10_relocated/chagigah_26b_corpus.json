@@ -1,0 +1,411 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Jerusalem Vessels",
+    "candidates": [
+      "Intro to Mishnah",
+      "Kodesh Belief",
+      "Terumah Pressing",
+      "Vessels Outside",
+      "Jerusalem Vessels",
+      "No Kilns Logic",
+      "Vessel Sizes",
+      "Festival Belief",
+      "Vaye'asof Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses Jerusalem-specific credibility for kodesh including large earthenware vessels and the kiln prohibition, which matches the 'Jerusalem Vessels' prose that explicitly addresses b'Yerushalayim ne'emanim al hakodesh, large vessels (gasin), and the contrast with smaller vessels outside Jerusalem.",
+      "chosen_heading": "Jerusalem Vessels",
+      "current_heading": "Jerusalem Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Vaye'asof Source",
+    "candidates": [
+      "No Kilns Logic",
+      "Vessel Sizes",
+      "Festival Belief",
+      "Vaye'asof Source",
+      "Unity Theme",
+      "Exemptions Review",
+      "Yerushalmi View",
+      "Bavli Dispute",
+      "Tanners Excluded",
+      "Contrast Structure",
+      "Opening Barrel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's question 'minan hanei mili' and Rabbi Yehoshua ben Levi's derivation from the verse 'Vaye'asof kol ish Yisrael,' which is precisely what the 'Vaye'asof Source' section's prose describes.",
+      "chosen_heading": "Vaye'asof Source",
+      "current_heading": "Vaye'asof Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Opening Barrel",
+    "candidates": [
+      "Unity Theme",
+      "Exemptions Review",
+      "Yerushalmi View",
+      "Bavli Dispute",
+      "Tanners Excluded",
+      "Contrast Structure",
+      "Opening Barrel",
+      "Rabbi Yehuda",
+      "Chachamim View",
+      "Two Sages"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The Mishnah text about opening a barrel and starting dough during the festival is precisely what the 'Opening Barrel' section's prose introduces and contextualizes.",
+      "chosen_heading": "Opening Barrel",
+      "current_heading": "Opening Barrel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Two Sages",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Chachamim View",
+      "Two Sages",
+      "Concern Suspension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Ami and Rabbi Yitzchak Nappacha sitting together and raising the question of leaving the barrel for another festival, which is precisely what the 'Two Sages' prose describes.",
+      "chosen_heading": "Two Sages",
+      "current_heading": "Two Sages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Concern Suspension",
+    "candidates": [
+      "Concern Suspension",
+      "Status Change",
+      "Cannot Revert",
+      "Gittos Parallel",
+      "Tannaim Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the exchange described in candidate 1's prose: the question about whether everyone's hands were touching it during the regel, followed by the reply that the Torah (Rachmana) declared the am ha'aretz's impurity as tahor during the festival but now it is tamei.",
+      "chosen_heading": "Status Change",
+      "current_heading": "Concern Suspension",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Tannaim Debate",
+    "candidates": [
+      "Status Change",
+      "Cannot Revert",
+      "Gittos Parallel",
+      "Tannaim Debate",
+      "After Festival",
+      "Friday Exception",
+      "Thursday Exception",
+      "Ash Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items concern the tannaitic debate about leaving wine for another festival and the gemara's resolution of which baraita follows Rabbi Yehuda vs. the Rabbis, which is precisely what the 'Tannaim Debate' prose describes.",
+      "chosen_heading": "Tannaim Debate",
+      "current_heading": "Tannaim Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Ash Removal",
+    "candidates": [
+      "After Festival",
+      "Friday Exception",
+      "Thursday Exception",
+      "Ash Removal",
+      "Table Warning",
+      "Access Question",
+      "Table vs Menorah"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 2,
+      "first_heading": "After Festival",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 is the Mishna introducing post-festival purification of the azarah vessels, which matches heading 0 ('After Festival') that discusses exactly this opening Mishna ruling.",
+      "second_heading": "Ash Removal",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Gemara baraita explaining Rabbi Yehuda's Thursday exception by reference to ash removal, which directly matches heading 3 ('Ash Removal') describing the kohanim's post-festival ash-clearing task.",
+      "third_heading": "Table Warning",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the Mishna describing how purification is done, the warning not to touch the shulchan, and the rules about vessel immersion including the golden and bronze altars, which matches heading 4 ('Table Warning') that discusses exactly this warning and the vessels' immersion requirements.",
+      "current_heading": "Ash Removal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Table vs Menorah",
+    "candidates": [
+      "Table Warning",
+      "Access Question",
+      "Table vs Menorah",
+      "Tamei Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss exactly the gemara's comparison between the shulchan and menorah regarding the 'tamid' requirement and the verse positioning the menorah opposite the table, which is precisely what the 'Table vs Menorah' prose section describes.",
+      "chosen_heading": "Table vs Menorah",
+      "current_heading": "Table vs Menorah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Tamei Question",
+    "candidates": [
+      "Tamei Question",
+      "Wood Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about why the shulchan cannot become tamei because it is a wooden vessel designated to rest in place (asuy lenachas), with the sak comparison \u2014 which is precisely what the 'Tamei Question' prose describes.",
+      "chosen_heading": "Tamei Question",
+      "current_heading": "Tamei Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Wood Status",
+    "candidates": [
+      "Wood Status",
+      "Showing Purpose",
+      "Bread Miracle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Reish Lakish's teaching that 'al hashulchan hatahor' implies the shulchan can become tamei, which is precisely what the 'Wood Status' prose section discusses as the gemara's answer to the asuy lenachas question.",
+      "chosen_heading": "Wood Status",
+      "current_heading": "Wood Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Bread Miracle",
+    "candidates": [
+      "Showing Purpose",
+      "Bread Miracle",
+      "Yehoshua Tradition",
+      "Curtain Access",
+      "Succos Access",
+      "Backups Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage begins by questioning why the shulchan is susceptible to tum'ah (a wooden vessel at rest), then answers that it is lifted to display the shewbread to pilgrims with the declaration 'see your affection before God' \u2014 this is precisely the 'Showing Purpose' content described in candidate 0's prose, which covers the act of lifting and the re'u chibbaschem declaration; the miracle detail follows as support but the primary thrust matches candidate 0.",
+      "chosen_heading": "Showing Purpose",
+      "current_heading": "Bread Miracle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Backups Rule",
+    "candidates": [
+      "Yehoshua Tradition",
+      "Curtain Access",
+      "Succos Access",
+      "Backups Rule",
+      "Altar-Table Link",
+      "Atonement Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of argument about whether the Temple table's gold coating makes it susceptible to impurity as a metal vessel \u2014 exactly the content described in candidate 3 ('Backups Rule'), which explicitly covers the coating challenge, the acacia wood rejoinder, Reish Lakish vs. Rabbi Yochanan, the fixed/unfixed coating distinction, and the resolution that the Torah calls the table 'wood.'",
+      "chosen_heading": "Backups Rule",
+      "current_heading": "Backups Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Atonement Transfer",
+    "candidates": [
+      "Altar-Table Link",
+      "Atonement Transfer",
+      "Domestic Sanctity",
+      "Copper Altar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Yochanan and Reish Lakish's teaching that the table atones for a person now that the Temple is destroyed, which is precisely what the 'Atonement Transfer' section's prose discusses.",
+      "chosen_heading": "Atonement Transfer",
+      "current_heading": "Atonement Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Copper Altar",
+    "candidates": [
+      "Domestic Sanctity",
+      "Copper Altar",
+      "Gold Altar",
+      "Eliezer vs Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the bronze altar (derived from 'mizbeach adama') and the golden altar (derived via hekkesh from 'hamenorah vehaMizbechot'), but the current placement under 'Copper Altar' is where the passage begins, and the essay separates the two altars into consecutive sections \u2014 the passage actually spans both sections 1 and 2, but since it must be placed under one heading and it currently sits under 'Copper Altar' where it starts, and the gold altar content is already covered by section 2's prose separately, the current placement is the best fit for this combined source passage.",
+      "chosen_heading": "Copper Altar",
+      "current_heading": "Copper Altar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141,
+      142
+    ],
+    "current_heading": "Eliezer vs Chachamim",
+    "candidates": [
+      "Gold Altar",
+      "Eliezer vs Chachamim",
+      "Torah Classification",
+      "Scholars Protected",
+      "Salamander Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items continue the same Gemara discussion about the Rabbis' position on the coated altars and Rabbi Eliezer's ke-karka reasoning, which is precisely what the 'Eliezer vs Chachamim' prose describes.",
+      "chosen_heading": "Eliezer vs Chachamim",
+      "current_heading": "Eliezer vs Chachamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Salamander Proof",
+    "candidates": [
+      "Torah Classification",
+      "Scholars Protected",
+      "Salamander Proof",
+      "Altar Miracle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces both the teaching about fire of Gehenna having no power over Torah scholars AND the salamander proof, making it belong under 'Scholars Protected' which introduces the full teaching, while 'Salamander Proof' is meant to cover only the kal va-chomer argument as a sub-section.",
+      "chosen_heading": "Scholars Protected",
+      "current_heading": "Salamander Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153,
+      154
+    ],
+    "current_heading": "Altar Miracle",
+    "candidates": [
+      "Salamander Proof",
+      "Altar Miracle",
+      "Sinners Mitzvos",
+      "Empty Full",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Altar Miracle",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the full kal va-chomer from the golden altar through the pomegranate verse and its midrashic reading, which spans both 'Altar Miracle' (current) and the 'Sinners Mitzvos'/'Empty Full' sections \u2014 but the current placement under 'Altar Miracle' is the best single home since that section's prose explicitly introduces this exact kal va-chomer and its content flows continuously through the pomegranate imagery.",
+      "second_heading": "Conclusion",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the hadran/closing formula 'Hadran alach chomer bakodesh ve-salika lach Maseches Chagigah,' which belongs under 'Conclusion' whose prose explicitly quotes and discusses this exact closing formula.",
+      "current_heading": "Altar Miracle",
+      "moved": true
+    }
+  }
+]

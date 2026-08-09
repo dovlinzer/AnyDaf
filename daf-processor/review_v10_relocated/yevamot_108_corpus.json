@@ -1,0 +1,453 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Camel Driver Example",
+    "candidates": [
+      "Dispute Framework",
+      "Camel Driver Example",
+      "Proportional Response",
+      "Two Violations Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly records the Beit Hillel/Beit Shammai exchange about Pishon the camel driver, which is precisely what the 'Camel Driver Example' section's prose describes.",
+      "chosen_heading": "Camel Driver Example",
+      "current_heading": "Camel Driver Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Two Violations Analysis",
+    "candidates": [
+      "Proportional Response",
+      "Two Violations Analysis",
+      "Three-Witness Rule",
+      "Abaye's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the two-knot penalty (trei kuteiri) and the dual violations of miun after nisuin and miun in absentia, which is precisely what the 'Two Violations Analysis' prose discusses.",
+      "chosen_heading": "Two Violations Analysis",
+      "current_heading": "Two Violations Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Abaye's Position",
+    "candidates": [
+      "Three-Witness Rule",
+      "Abaye's Position",
+      "Two-Witness Minority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbah's attribution of the three-member mishna to Beit Shammai AND Abaye's rebuttal attributing it to Beit Hillel, so it covers the full content of heading 0 ('Three-Witness Rule') which discusses both the mishna's authorship question and Rabbah's answer, while heading 1 ('Abaye's Position') is prose about Abaye's view only \u2014 the passage as a whole better matches heading 0 which frames the entire debate.",
+      "chosen_heading": "Three-Witness Rule",
+      "current_heading": "Abaye's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Two-Witness Minority",
+    "candidates": [
+      "Abaye's Position",
+      "Two-Witness Minority",
+      "Multiple Miun Debate",
+      "Reaffirmation in"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita quoted contains both the Beit Shammai/Beit Hillel dispute AND the two-witness minority view in a single text, and the essay's prose under 'Abaye's Position' explicitly references this braita ('A braita makes this explicit'), while the two-witness minority is a secondary element within it \u2014 the passage as a whole is the proof-text Abaye uses, making heading 0 the clearly better match.",
+      "chosen_heading": "Abaye's Position",
+      "current_heading": "Two-Witness Minority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Reaffirmation in",
+    "candidates": [
+      "Multiple Miun Debate",
+      "Reaffirmation in",
+      "Minor's Consent to Miun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Shmuel's reaffirmation reading, Ulla's two-options reading, and the gemara's challenge concluding with 'kashya' \u2014 are precisely the content described in the 'Reaffirmation in' section's prose, which explicitly covers both Shmuel's and Ulla's interpretations and the gemara's difficulty with Shmuel's reading.",
+      "chosen_heading": "Reaffirmation in",
+      "current_heading": "Reaffirmation in",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Minor's Consent to Miun",
+    "candidates": [
+      "Minor's Consent to Miun",
+      "Capacity to Protect",
+      "Rabbi Eliezer's Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna defines which minor must perform miun (consent-based marriage by mother and brothers) and Rabbi Chanina's threshold, both of which are discussed together in candidate 0's prose about consent requirements, while candidate 1 covers only Rabbi Chanina's addition separately \u2014 but since this is one mishna passage covering both rulings, it belongs under the heading that introduces the whole mishna, which is candidate 0.",
+      "chosen_heading": "Minor's Consent to Miun",
+      "current_heading": "Minor's Consent to Miun",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Rabbi Eliezer's Rejection",
+    "candidates": [
+      "Capacity to Protect",
+      "Rabbi Eliezer's Rejection",
+      "Document Reform"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the exact tannaitic opinions (Rabbi Elazar on the minor's act being void / mefutah status with teruma consequences, and Rabbi Eliezer ben Ya'akov on obstruction) that the prose of heading 1 explicitly discusses and summarizes.",
+      "chosen_heading": "Rabbi Eliezer's Rejection",
+      "current_heading": "Rabbi Eliezer's Rejection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Document Reform",
+    "candidates": [
+      "Document Reform",
+      "Standard Formula",
+      "Absence & Informality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe exactly the document reform discussed in candidate 0's prose: the original lengthy formula, the confusion with a get, and the shortened standard form \u2014 all of which are fully covered by that section's prose.",
+      "chosen_heading": "Document Reform",
+      "current_heading": "Document Reform",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Absence & Informality",
+    "candidates": [
+      "Standard Formula",
+      "Absence & Informality",
+      "Carriage Statement",
+      "Serving Guests Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita defines what constitutes a miun (the two verbal formulas) and adds Rabbi Yehuda's carriage case, which together are exactly what the 'Absence & Informality' prose describes \u2014 the definition of miun and Rabbi Yehuda's expanding informal cases; the 'Carriage Statement' prose separately elaborates on just the carriage case, but the baraita as a whole (including both formulas and the carriage statement together) fits best under 'Absence & Informality'.",
+      "chosen_heading": "Absence & Informality",
+      "current_heading": "Absence & Informality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Serving Guests Context",
+    "candidates": [
+      "Carriage Statement",
+      "Serving Guests Context",
+      "Storekeeper Complaint",
+      "Will-Centered Principle",
+      "Rabbi Yehuda ben Beteira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the serving-guests case (Rabbi Yehuda) and the storekeeper case (Rabbi Yosei bar Yehuda), and candidate 1's prose explicitly discusses both contexts together, matching the content of the quoted text exactly.",
+      "chosen_heading": "Serving Guests Context",
+      "current_heading": "Serving Guests Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Rabbi Yehuda ben Beteira",
+    "candidates": [
+      "Storekeeper Complaint",
+      "Will-Centered Principle",
+      "Rabbi Yehuda ben Beteira",
+      "Kiddushin vs. Nisuin",
+      "Kiddushin as Miun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly present Rabbi Yehuda ben Beteira's ruling \u2014 first that nisuin constitutes miun, then that kiddushin also constitutes miun \u2014 which is precisely what the 'Rabbi Yehuda ben Beteira' section's prose describes.",
+      "chosen_heading": "Rabbi Yehuda ben Beteira",
+      "current_heading": "Rabbi Yehuda ben Beteira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Kiddushin as Miun",
+    "candidates": [
+      "Kiddushin vs. Nisuin",
+      "Kiddushin as Miun",
+      "Avdin's Daughters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the multi-layered dilemma and its resolution (Shmuel's ruling via Rav Yehuda), which is precisely what candidate 0's prose describes \u2014 the ibaya lehu question about whether rabbanan dispute Rabbi Yehuda ben Beteira and in which cases \u2014 not the content of candidate 1, which discusses subsequent questions about nisuin with the first man.",
+      "chosen_heading": "Kiddushin vs. Nisuin",
+      "current_heading": "Kiddushin as Miun",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Avdin's Daughters",
+    "candidates": [
+      "Kiddushin as Miun",
+      "Avdin's Daughters",
+      "Consistency Problem",
+      "Non-Wife Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the daughters-in-law of Avdan (Abdan) case, the question of whether their miun was from nisuin or kiddushin, and the conclusion that halacha follows Rabbi Yehuda ben Beteira even in nisuin \u2014 exactly what candidate 1's prose describes.",
+      "chosen_heading": "Avdin's Daughters",
+      "current_heading": "Avdin's Daughters",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Non-Wife Status",
+    "candidates": [
+      "Consistency Problem",
+      "Non-Wife Status",
+      "Rabbi Yehoshua Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Consistency Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Shmuel's observation about Rabbi Eliezer's internal consistency and the courtyard/teruma illustration, which matches heading 0's prose about Shmuel's consistency observation and the walking-in-courtyard/trumah example.",
+      "second_heading": "Non-Wife Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita listing the full range of legal consequences (no earnings, no vow annulment, no inheritance, no tumah) with the governing principle 'eino k'ishto le-chol davar' except miun, which matches exactly the prose of heading 1 ('Non-Wife Status').",
+      "current_heading": "Non-Wife Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Rabbi Yehoshua Position",
+    "candidates": [
+      "Rabbi Yehoshua Position",
+      "Consistency Evaluation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehoshua's position on the husband's rights and the principle that she is his wife in every sense except for miun, which is exactly what the 'Rabbi Yehoshua Position' prose discusses.",
+      "chosen_heading": "Rabbi Yehoshua Position",
+      "current_heading": "Rabbi Yehoshua Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Consistency Evaluation",
+    "candidates": [
+      "Consistency Evaluation",
+      "Refusal Signals Consent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Yehuda HaNasi's evaluation of Rabbi Eliezer vs. Rabbi Yehoshua's consistency, and the Gemara's probe of Rabbi Eliezer's own consistency \u2014 exactly what the 'Consistency Evaluation' prose describes in detail.",
+      "chosen_heading": "Consistency Evaluation",
+      "current_heading": "Consistency Evaluation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Refusal Signals Consent",
+    "candidates": [
+      "Refusal Signals Consent",
+      "Consent Indicator"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario discussed in the 'Refusal Signals Consent' prose: a woman refusing a second suitor by saying 'machmat ploni ba'ali' versus refusing because the suitors are not suitable, which is Tosafot's reading about identifying consent to the first marriage \u2014 not the get/miun distinction discussed under 'Consent Indicator'.",
+      "chosen_heading": "Refusal Signals Consent",
+      "current_heading": "Refusal Signals Consent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Consent Indicator",
+    "candidates": [
+      "Consent Indicator",
+      "Miun After Get"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Consent Indicator",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Gemara discussion (Abaye bar Avin's ruling and the challenge/resolution) that the 'Consent Indicator' prose explicitly describes as elaborating Rabbi Eliezer ben Yaakov's statement via get vs. miun consequences.",
+      "second_heading": "Miun After Get",
+      "second_confidence": "low",
+      "second_reason": "Item 3 is a new Mishna (marked 'MISHNA:') that begins an independent unit about the consequences of refusal vs. get, but neither candidate heading's prose is a clearly better match \u2014 'Miun After Get' discusses a different scenario (get followed by remarriage and miun), so current placement is slightly preferable, but confidence is low.",
+      "current_heading": "Consent Indicator",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "current_heading": "Miun After Get",
+    "candidates": [
+      "Miun After Get",
+      "Get After Miun"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Get After Miun",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah presenting both sequences (get-then-miun and miun-then-get) with the governing principle, which matches heading 1 ('Get After Miun') whose prose explicitly quotes 'get achar miun \u2014 asura lachzor lo, miun achar get \u2014 muteret lachzor lo' and discusses both cases together as a single unit.",
+      "second_heading": "Miun After Get",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 are the Gemara's discussion noting that refusal nullifies a bill of divorce and then raising a contradiction from the later clause of the Mishnah about a refusal of another man not nullifying one's own get, which matches heading 0 ('Miun After Get') whose prose focuses on how miun comes and nullifies a prior get conceptually.",
+      "current_heading": "Miun After Get",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123
+    ],
+    "current_heading": "Get After Miun",
+    "candidates": [
+      "Get After Miun",
+      "Three-Partner Order",
+      "Same-Partner Rule",
+      "Leverage Problem",
+      "Failed Attempt Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the Gemara's statement 'mi she-shanah zo lo shanah zo' \u2014 the suggestion of a contradiction between the two halves of the mishna \u2014 which is precisely what the 'Same-Partner Rule' prose section discusses as the initial apparent dispute that Rava then dissolves.",
+      "chosen_heading": "Same-Partner Rule",
+      "current_heading": "Get After Miun",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Failed Attempt Exception",
+    "candidates": [
+      "Three-Partner Order",
+      "Same-Partner Rule",
+      "Leverage Problem",
+      "Failed Attempt Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's exact statement that 'miun dide mevattel get dide' while 'miun de-chavrei lo mevattel git dide,' which is precisely the Same-Partner Rule that the prose of candidate 1 describes and attributes to Rava.",
+      "chosen_heading": "Same-Partner Rule",
+      "current_heading": "Failed Attempt Exception",
+      "moved": true
+    }
+  }
+]

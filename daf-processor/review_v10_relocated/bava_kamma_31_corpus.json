@@ -1,0 +1,257 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Two Potters Case",
+    "candidates": [
+      "Two Potters Case",
+      "R. Yochanan Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself introducing the two potters scenario, which matches exactly what the 'Two Potters Case' prose describes and quotes.",
+      "chosen_heading": "Two Potters Case",
+      "current_heading": "Two Potters Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "R. Yochanan Position",
+    "candidates": [
+      "R. Yochanan Position",
+      "Adam HaMazik/Bor",
+      "Stand vs. Warn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Yochanan's statement about the mishna not being limited to Rabbi Meir's view and the liability based on failure to stand up, which is precisely what the prose under 'R. Yochanan Position' discusses.",
+      "chosen_heading": "R. Yochanan Position",
+      "current_heading": "R. Yochanan Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Stand vs. Warn",
+    "candidates": [
+      "Adam HaMazik/Bor",
+      "Stand vs. Warn",
+      "Legitimate Stop"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern the stand-vs-warn dispute between Rav Na\u1e25man bar Yitz\u1e25ak and Rabbi Yo\u1e25anan, which is precisely what the 'Stand vs. Warn' section's prose describes.",
+      "chosen_heading": "Stand vs. Warn",
+      "current_heading": "Stand vs. Warn",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Legitimate Stop",
+    "candidates": [
+      "Legitimate Stop",
+      "Load Adjustment",
+      "Tosafot Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous gemara discussion about the beam-carrier/barrel-carrier mishna, which candidate 0's prose explicitly describes in full detail \u2014 including the question about stopping to adjust vs. stopping to rest, and the warning obligation \u2014 matching the passage's content precisely.",
+      "chosen_heading": "Legitimate Stop",
+      "current_heading": "Legitimate Stop",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Tosafot Challenge",
+    "candidates": [
+      "Load Adjustment",
+      "Tosafot Challenge",
+      "Baraita Sequence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly provides the Gemara's answer ('ha kamashma lan') to the challenge discussed in the Tosafot Challenge section, explaining that even an unjustified stop (amad le-fush) can be exempted by warning \u2014 which is precisely the content described in that section's prose.",
+      "chosen_heading": "Tosafot Challenge",
+      "current_heading": "Tosafot Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Baraita Sequence",
+    "candidates": [
+      "Baraita Sequence",
+      "Warning Exemption",
+      "R. Yochanan Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about potters and glaziers walking in sequence, which is precisely what candidate 0's prose is about \u2014 introducing and analyzing the cascade scenario of the kadarim ve-zagagim baraita.",
+      "chosen_heading": "Baraita Sequence",
+      "current_heading": "Baraita Sequence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "R. Yochanan Defense",
+    "candidates": [
+      "Warning Exemption",
+      "R. Yochanan Defense",
+      "First vs. Second"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the exact question-and-answer sequence defending Rabbi Yochanan's position \u2014 the gemara's challenge about why the baraita distinguishes by warning rather than by opportunity to stand, and the resolution that the hiddush is that warning exempts even when standing was possible \u2014 which is precisely what the 'R. Yochanan Defense' prose describes in detail.",
+      "chosen_heading": "R. Yochanan Defense",
+      "current_heading": "R. Yochanan Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "First vs. Second",
+    "candidates": [
+      "First vs. Second",
+      "Parsing Damage",
+      "Rashi: Agency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's direct statement distinguishing the first person's liability (body and property) from the second person's liability (body only), which is precisely what the 'First vs. Second' section's prose describes and introduces.",
+      "chosen_heading": "First vs. Second",
+      "current_heading": "First vs. Second",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Rashi: Agency",
+    "candidates": [
+      "Parsing Damage",
+      "Rashi: Agency",
+      "Baraita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the *mah nafshach* dilemma and its resolution (rishon vadai poshea, sheni liable for body but exempt for property via 'I did not dig this pit') that candidate 0's prose explicitly describes and analyzes in detail, making it the clear home for both items.",
+      "chosen_heading": "Parsing Damage",
+      "current_heading": "Rashi: Agency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Baraita Challenge",
+    "candidates": [
+      "Rashi: Agency",
+      "Baraita Challenge",
+      "Person as Bor",
+      "Kelim-Kelim Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are a continuous gemara exchange \u2014 objection from the baraita about 'kulam', attempted resolution that 'kulam' means only the nizakin, and the gemara's rejection of that reading on linguistic grounds \u2014 which is precisely what the 'Baraita Challenge' prose describes.",
+      "chosen_heading": "Baraita Challenge",
+      "current_heading": "Baraita Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Kelim-Kelim Rule",
+    "candidates": [
+      "Person as Bor",
+      "Kelim-Kelim Rule",
+      "All Adam HaMazik",
+      "Direct Trip",
+      "Horizontal Spread",
+      "Angled Spread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: Rava's ruling that the second person's body is a bor (item 1), the Rav/Shmuel dispute about whether a person can qualify as bor requiring hefker (item 2), and the resolution reverting to the original framework (item 3) \u2014 this entire sequence is about whether a person can be classified as bor, which is precisely what candidate 0 ('Person as Bor') discusses, not the kelim-kelim resolution which is only the concluding answer addressed in candidate 1.",
+      "chosen_heading": "Person as Bor",
+      "current_heading": "Kelim-Kelim Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Angled Spread",
+    "candidates": [
+      "All Adam HaMazik",
+      "Direct Trip",
+      "Horizontal Spread",
+      "Angled Spread"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the gemara's question 'how did they all fall because of the first' and gives both Rav Pappa's and Rav Zevid's answers together, which directly corresponds to the 'Direct Trip' section's prose explaining that the gemara interprets the clause as persons two and three tripping directly over person one \u2014 both opinions explain the mechanism of direct tripping, and this section introduces both explanations before they are elaborated separately.",
+      "chosen_heading": "Direct Trip",
+      "current_heading": "Angled Spread",
+      "moved": true
+    }
+  }
+]

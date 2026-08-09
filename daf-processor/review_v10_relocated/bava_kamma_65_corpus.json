@@ -1,0 +1,369 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "False Oath Scenario",
+    "candidates": [
+      "Rav's Principle Stated",
+      "Limitations on Rav",
+      "False Oath Scenario",
+      "Admission by Witnesses",
+      "Admission After Witnesses",
+      "Oath Then Admission",
+      "Constant Value Problem",
+      "Value Decrease Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage contains the Rabbis' and Rabbi Shimon ben Yo\u1e25ai's positions on whether chomesh and asham apply when the payment is kefel rather than keren \u2014 exactly the content described in the 'Oath Then Admission' section's prose about the chachamim's derivation from 'b'rosho v'chamishito' and Rabbi Shimon bar Yochai's view that neither chomesh nor asham is paid when there is double payment.",
+      "chosen_heading": "Oath Then Admission",
+      "current_heading": "False Oath Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Value Decrease Solution",
+    "candidates": [
+      "Admission by Witnesses",
+      "Admission After Witnesses",
+      "Oath Then Admission",
+      "Constant Value Problem",
+      "Value Decrease Solution",
+      "Rava's Multiple Oaths"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's argument that Rabbi Yaakov's position works only when the value decreased (initially four, finally one dinar), making kefel equal to chomesh \u2014 exactly what candidate 4 ('Value Decrease Solution') describes, including the proof for Rav that kefel is assessed at the time of adjudication.",
+      "chosen_heading": "Value Decrease Solution",
+      "current_heading": "Value Decrease Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Rava's Multiple Oaths",
+    "candidates": [
+      "Rava's Multiple Oaths",
+      "Principal Payment Chomesh",
+      "Asham Korban Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rava's argument about multiple oaths generating multiple chomeshim on a single principal, which is precisely what the 'Rava's Multiple Oaths' prose describes.",
+      "chosen_heading": "Rava's Multiple Oaths",
+      "current_heading": "Rava's Multiple Oaths",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Asham Korban Dispute",
+    "candidates": [
+      "Principal Payment Chomesh",
+      "Asham Korban Dispute",
+      "Two Models Explained",
+      "Shinuy Ma'aseh",
+      "Shinuy Hashem",
+      "Yeush Concept",
+      "Yeush & Shinuy Reshut",
+      "Rabbi Ila's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous Talmudic exchange about whether the asham guilt-offering is conditioned on the principal being a keren payment, exactly the dispute between the chachamim and Rabbi Shimon bar Yochai described in the 'Asham Korban Dispute' prose.",
+      "chosen_heading": "Asham Korban Dispute",
+      "current_heading": "Asham Korban Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rabbi Ila's Position",
+    "candidates": [
+      "Two Models Explained",
+      "Shinuy Ma'aseh",
+      "Shinuy Hashem",
+      "Yeush Concept",
+      "Yeush & Shinuy Reshut",
+      "Rabbi Ila's Position",
+      "Baraita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Ile'a's ruling that a stolen lamb becoming a ram constitutes a shinuy that effects acquisition, so subsequent slaughter/sale is of his own animal \u2014 precisely the content described in the 'Rabbi Ila's Position' prose.",
+      "chosen_heading": "Rabbi Ila's Position",
+      "current_heading": "Rabbi Ila's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Baraita Challenge",
+    "candidates": [
+      "Baraita Challenge",
+      "Rabbi Ila's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita challenge itself \u2014 Rabbi \u1e24anina raising the objection about the lamb/ram and calf/ox case \u2014 which matches exactly what heading 0 ('Baraita Challenge') describes, not Rabbi Ila's response in heading 1.",
+      "chosen_heading": "Baraita Challenge",
+      "current_heading": "Baraita Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Rabbi Ila's Response",
+    "candidates": [
+      "Rabbi Ila's Response",
+      "Mutual Rejection",
+      "New Name Question",
+      "Rava's Name Response"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mutual Rejection",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain the exchange between Rabbi Ile'a and Rabbi \u1e24anina ending in mutual rhetorical rejection ('Rachmana litzlan'), which is precisely what candidate 1 ('Mutual Rejection') describes in its prose.",
+      "second_heading": "New Name Question",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Zeira's objection about shinuy hashem (change of name), which is exactly what candidate 2 ('New Name Question') describes in its prose.",
+      "current_heading": "Rabbi Ila's Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Rava's Name Response",
+    "candidates": [
+      "Mutual Rejection",
+      "New Name Question",
+      "Rava's Name Response",
+      "Contradiction Remains",
+      "Beit Shammai Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are Rava's two prooftexts (shor ki yivaled and eilei tzonecha) demonstrating that a day-old bull/ram already bears the mature name, which is precisely what the 'Rava's Name Response' prose describes.",
+      "chosen_heading": "Rava's Name Response",
+      "current_heading": "Rava's Name Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Beit Shammai Position",
+    "candidates": [
+      "Contradiction Remains",
+      "Beit Shammai Position",
+      "Prostitute Fee Debate"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Prostitute Fee Debate",
+    "candidates": [
+      "Prostitute Fee Debate",
+      "Beit Shammai's Proof",
+      "Beit Hillel's Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'Prostitute Fee Debate' prose summarizes: the baraita about wheat/flour, olives/oil, grapes/wine, one baraita permitting and one forbidding, and Rav Yosef citing Guryon of Asporak attributing this to a Beit Shammai/Beit Hillel dispute \u2014 which is precisely what that section's prose describes.",
+      "chosen_heading": "Prostitute Fee Debate",
+      "current_heading": "Prostitute Fee Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Beit Hillel's Counter",
+    "candidates": [
+      "Beit Shammai's Proof",
+      "Beit Hillel's Counter",
+      "Changed Object Principle",
+      "Recognition Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara exchange about the scriptural basis for Beit Shammai and Beit Hillel's positions on esnan zonah transformations, culminating in the acknowledgment that 'gam le-Veit Hillel kashya' \u2014 exactly what candidate 1's prose describes and concludes with.",
+      "chosen_heading": "Beit Hillel's Counter",
+      "current_heading": "Beit Hillel's Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Recognition Framework",
+    "candidates": [
+      "Changed Object Principle",
+      "Recognition Framework",
+      "Four-Word Answer",
+      "Tosafot's Explanation",
+      "Rashi's Alternative",
+      "Biblical Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items address the direct challenge to Rav's position that kefel/four-and-five are assessed at the time of adjudication, and Rava's terse resolution distinguishing object-identity (initial state) from monetary valuation (current price) \u2014 exactly what the 'Four-Word Answer' prose describes.",
+      "chosen_heading": "Four-Word Answer",
+      "current_heading": "Recognition Framework",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Biblical Source",
+    "candidates": [
+      "Four-Word Answer",
+      "Tosafot's Explanation",
+      "Rashi's Alternative",
+      "Biblical Source",
+      "Mishnaic Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Rabba's derivation of the biblical source for kinyan through shinuy from the verse 've-heshiv et ha-gezeilah asher gazal,' which is precisely what the 'Biblical Source' prose describes.",
+      "chosen_heading": "Biblical Source",
+      "current_heading": "Biblical Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Mishnaic Source",
+    "candidates": [
+      "Mishnaic Source",
+      "Dyeing Wool Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the mishnah about robbing wood/wool and fashioning them into vessels/garments, paying ke-sha'at hagezeilah, which directly matches the 'Mishnaic Source' prose describing exactly this mishnah about stolen wood made into vessels and stolen wool made into garments.",
+      "chosen_heading": "Mishnaic Source",
+      "current_heading": "Mishnaic Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Dyeing Wool Source",
+    "candidates": [
+      "Dyeing Wool Source",
+      "Yeush Status Question",
+      "Lost Object Parallel",
+      "Key Difference",
+      "Yeush Analysis",
+      "Rabbinic Yeush",
+      "Yeush Alone Fails",
+      "Yeush With Transfer",
+      "Thief's Prior Possession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the reishit hagez (first shearing) case where dyeing wool before transferring it to the kohen creates an exemption, directly matching the 'Dyeing Wool Source' section's prose about this exact mishna from Hullin and its implication that shinuy effects acquisition.",
+      "chosen_heading": "Dyeing Wool Source",
+      "current_heading": "Dyeing Wool Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136,
+      137,
+      138
+    ],
+    "current_heading": "Thief's Prior Possession",
+    "candidates": [
+      "Yeush Status Question",
+      "Lost Object Parallel",
+      "Key Difference",
+      "Yeush Analysis",
+      "Rabbinic Yeush",
+      "Yeush Alone Fails",
+      "Yeush With Transfer",
+      "Thief's Prior Possession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage as a whole presents Rabbah's foundational uncertainty about whether *yeiush* operates by Torah or rabbinic law (item 1), followed by the arguments for each possibility (items 2-4) and Rav Yosef's dissent (item 5) \u2014 this entire unit is the *yeiush* status question that candidate 0's prose directly describes, making it a better home than the current placement under a heading focused on the thief's prior tainted possession.",
+      "chosen_heading": "Yeush Status Question",
+      "current_heading": "Thief's Prior Possession",
+      "moved": true
+    }
+  }
+]

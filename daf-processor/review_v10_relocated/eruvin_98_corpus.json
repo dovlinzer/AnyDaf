@@ -1,0 +1,358 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Porch vs Rooftop",
+    "candidates": [
+      "Principle Intro",
+      "Porch vs Rooftop",
+      "Reconciling Opinions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the exact words of Rabbi Yehuda and Rabbi Shimon's positions on rolling back a scroll, which are explicitly discussed and analyzed in the 'Porch vs Rooftop' section's prose as part of the three-way rooftop debate.",
+      "chosen_heading": "Porch vs Rooftop",
+      "current_heading": "Porch vs Rooftop",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Reconciling Opinions",
+    "candidates": [
+      "Reconciling Opinions",
+      "Rabba's Trampled"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara chain analyzing the threshold case \u2014 questioning whose opinion it reflects, identifying it as Rabbi Shimon, raising the structural puzzle of reisha/metziata/seifa, and Rav Yehuda's resolution \u2014 which is precisely what the 'Reconciling Opinions' prose describes.",
+      "chosen_heading": "Reconciling Opinions",
+      "current_heading": "Reconciling Opinions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rabba's Trampled",
+    "candidates": [
+      "Rabba's Trampled",
+      "Abaye's Four Amot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabba's explanation about the trampled threshold and bizayon of sacred writings, which is exactly what candidate 0's prose discusses.",
+      "chosen_heading": "Rabba's Trampled",
+      "current_heading": "Rabba's Trampled",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Abaye's Four Amot",
+    "candidates": [
+      "Abaye's Four Amot",
+      "No Torah Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Abaye's objection to Rabba and Abaye's own counter-explanation, which is precisely what heading 0 ('Abaye's Four Amot') describes in its prose.",
+      "chosen_heading": "Abaye's Four Amot",
+      "current_heading": "Abaye's Four Amot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "No Torah Risk",
+    "candidates": [
+      "No Torah Risk",
+      "Carrying Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly state the within/beyond four cubits distinction and the sin-offering liability rationale, which is exactly what the 'No Torah Risk' prose elaborates upon in detail.",
+      "chosen_heading": "No Torah Risk",
+      "current_heading": "No Torah Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Carrying Concern",
+    "candidates": [
+      "Carrying Concern",
+      "Long Porch Memory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Carrying Concern' section's prose, which explicitly discusses the Gemara's question about carrying from reshut harabim to reshut hayachid, the karmelit interposition argument, and Rava's ruling about carrying through airspace \u2014 all of which are the precise content of this quoted text.",
+      "chosen_heading": "Carrying Concern",
+      "current_heading": "Carrying Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Long Porch Memory",
+    "candidates": [
+      "Long Porch Memory",
+      "Suspension Issue",
+      "Slanted Wall"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Long Porch Memory",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 form a continuous chain resolving the porch/threshold case through extended threshold, reading behavior, Ben Azzai's principle, and the thrown-scrolls concern \u2014 all directly matching the 'Long Porch Memory' prose.",
+      "second_heading": "Suspension Issue",
+      "second_confidence": "medium",
+      "second_reason": "Item 5 opens a new Mishnah citation about the rooftop case and asks about turning the scroll facedown, marking a structural break to the rooftop section discussed under 'Suspension Issue.'",
+      "current_heading": "Long Porch Memory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Slanted Wall",
+    "candidates": [
+      "Suspension Issue",
+      "Slanted Wall",
+      "Two Scenarios"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Suspension Issue",
+      "first_confidence": "low",
+      "first_reason": "Item 1 closes a prior discussion about degradation of sacred writings when turning the scroll over, which precedes the suspension challenge discussed in candidate 0's prose.",
+      "second_heading": "Slanted Wall",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the 'lo nach' challenge and Rava's 'kotel meshupa' answer, which is precisely what the 'Slanted Wall' prose describes.",
+      "current_heading": "Slanted Wall",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Two Scenarios",
+    "candidates": [
+      "Two Scenarios",
+      "R. Yehuda Rest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous Abaye-Rava exchange and the 'chasorei mechasra' resolution \u2014 exactly the content described in candidate 0's prose about Abaye's challenge and the two-sub-case reconstruction.",
+      "chosen_heading": "Two Scenarios",
+      "current_heading": "Two Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62
+    ],
+    "current_heading": "R. Yehuda Rest",
+    "candidates": [
+      "R. Yehuda Rest",
+      "Final Positions",
+      "Fragile Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss Rabbi Yehuda's requirement of hanacha al gabei mashehu and Rava's parallel ruling \u2014 exactly what the 'R. Yehuda Rest' prose describes, including the leima k'tannai question \u2014 and none of them transition to the new mishnah topic of 'Final Positions' or 'Fragile Vessels.'",
+      "chosen_heading": "R. Yehuda Rest",
+      "current_heading": "R. Yehuda Rest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "current_heading": "Fragile Vessels",
+    "candidates": [
+      "Final Positions",
+      "Fragile Vessels",
+      "Permitted Objects",
+      "Ledge Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items (the mishna about the ledge, the Gemara's question about which domain it faces, Abaye's resolution about fragile vessels, and the baraita confirming it) constitute one continuous unit about the ziz/ledge case, and candidate 1 'Fragile Vessels' is the current placement whose prose precisely describes this exact sequence of mishna, Gemara question, and Abaye's keilim hanishbarim resolution.",
+      "chosen_heading": "Fragile Vessels",
+      "current_heading": "Fragile Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Ledge Rules",
+    "candidates": [
+      "Permitted Objects",
+      "Ledge Rules",
+      "Width & Stability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita's rule about upper vs. lower ledges and the Gemara's subsequent question about the ledge's dimensions \u2014 exactly the content described in the 'Ledge Rules' prose, which explicitly quotes and discusses these same passages before noting that Abaye's resolution will come next.",
+      "chosen_heading": "Ledge Rules",
+      "current_heading": "Ledge Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Width & Stability",
+    "candidates": [
+      "Width & Stability",
+      "Standing & Moving"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Abaye's ruling about the lower ledge having four handbreadths and the window completing the upper ledge's width, which matches exactly the prose in 'Width & Stability' that paraphrases this same Abaye statement.",
+      "chosen_heading": "Width & Stability",
+      "current_heading": "Width & Stability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Standing & Moving",
+    "candidates": [
+      "Standing & Moving",
+      "Bodily Waste"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact mishnah about standing in one domain and moving objects in another, which is precisely what the 'Standing & Moving' section prose describes and analyzes.",
+      "chosen_heading": "Standing & Moving",
+      "current_heading": "Standing & Moving",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Bodily Waste",
+    "candidates": [
+      "Bodily Waste",
+      "R. Yehuda Spit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about not urinating or spitting across domains is directly described and analyzed in the 'Bodily Waste' section prose, which explicitly quotes and explains this exact mishnah.",
+      "chosen_heading": "Bodily Waste",
+      "current_heading": "Bodily Waste",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "R. Yehuda Spit",
+    "candidates": [
+      "R. Yehuda Spit",
+      "Text Dispute",
+      "Rabbanan vs R. Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yehuda's ruling about spittle gathered in the mouth and the prohibition on walking four cubits, which is precisely what the 'R. Yehuda Spit' section's prose discusses.",
+      "chosen_heading": "R. Yehuda Spit",
+      "current_heading": "R. Yehuda Spit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Rabbanan vs R. Meir",
+    "candidates": [
+      "Text Dispute",
+      "Rabbanan vs R. Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together describe the textual dispute where Rav \u1e24innana taught a prohibitive version of the mishnah and Rav challenged him, plus the Gemara's explanation of his reasoning and correction \u2014 all of which is precisely what candidate 0 ('Text Dispute') describes in its prose, while candidate 1's prose discusses only the Gemara's correction (seifa Rabbi Meir, reisha rabbanan), meaning the passage as a whole fits better under candidate 0.",
+      "chosen_heading": "Text Dispute",
+      "current_heading": "Rabbanan vs R. Meir",
+      "moved": true
+    }
+  }
+]

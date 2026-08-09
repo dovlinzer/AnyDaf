@@ -29,7 +29,7 @@
           "timestamp": "06:38"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -43,7 +43,7 @@
           "timestamp": "09:40"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 3,
       "matched": false
     },
     {
@@ -57,8 +57,8 @@
           "timestamp": "14:22"
         }
       ],
-      "sefaria_index": 2,
-      "matched": false
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Problem of Bringing the Knife on Shabbat: Overriding Rabbinic Prohibitions for Pesach (continued)",
@@ -105,8 +105,8 @@
           "timestamp": "32:49"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Aggadic Excursus: Pride, Anger, and Spiritual Downfall",
@@ -368,5 +368,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "20:31",
+  "amud_b_micro_title": "Melacha Ba-Kodashim",
+  "shiur_start_daf": 66,
+  "shiur_start_amud": "a"
 }

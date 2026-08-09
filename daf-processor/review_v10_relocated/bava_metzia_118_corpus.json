@@ -1,0 +1,349 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Planting Remedy",
+    "candidates": [
+      "Cliff Structure",
+      "Planting Remedy",
+      "Ones Exemption",
+      "Beit Din Time"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text describes the beit habad built in a rock with a garden on top \u2014 the structural setup \u2014 which is precisely what the 'Cliff Structure' prose introduces and contextualizes, while 'Planting Remedy' discusses the consequence/remedy portion that the gemara elaborates on separately.",
+      "chosen_heading": "Cliff Structure",
+      "current_heading": "Planting Remedy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Beit Din Time",
+    "candidates": [
+      "Ones Exemption",
+      "Beit Din Time",
+      "Wall Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both the ones exemption and the beit din time ruling in a single mishna unit, but candidate 0's prose explicitly introduces this exact mishna text (wall/tree falling, patur due to ones) while candidate 1's prose covers only the second half (beit din notice/deadline), suggesting the full passage belongs under the heading that introduces it \u2014 however, since the passage contains both parts and candidate 1 is the current placement covering the deadline portion, and candidate 0 covers the opening exemption, the passage as a whole is better anchored under candidate 0 which introduces this very mishna.",
+      "chosen_heading": "Ones Exemption",
+      "current_heading": "Beit Din Time",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Wall Removal",
+    "candidates": [
+      "Wall Removal",
+      "Cannot Force",
+      "Binding After Work",
+      "Worker Payment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete mishna about the collapsed wall in the neighbor's garden \u2014 the higiu'cha ruling and the mishekiblo alav ruling \u2014 which is precisely what the 'Wall Removal' section's prose describes in full detail.",
+      "chosen_heading": "Wall Removal",
+      "current_heading": "Wall Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Worker Payment",
+    "candidates": [
+      "Cannot Force",
+      "Binding After Work",
+      "Worker Payment",
+      "Irrevocable",
+      "Shaveh Kesef",
+      "Mafkir Defense",
+      "Rav vs Shmuel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly describes the mishna case of a worker hired to deal with straw/hay who requests wages and is offered the straw as payment, which is exactly what the 'Worker Payment' section's prose discusses.",
+      "chosen_heading": "Worker Payment",
+      "current_heading": "Worker Payment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Rav vs Shmuel",
+    "candidates": [
+      "Irrevocable",
+      "Shaveh Kesef",
+      "Mafkir Defense",
+      "Rav vs Shmuel",
+      "Field vs Dwelling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rav vs. Shmuel dispute about how much of the roof must collapse (majority vs. four), with their respective reasoning about splitting planting between levels, which matches exactly the prose under 'Rav vs Shmuel'.",
+      "chosen_heading": "Rav vs Shmuel",
+      "current_heading": "Rav vs Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Field vs Dwelling",
+    "candidates": [
+      "Field vs Dwelling",
+      "Immediate Kinyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "low",
+      "reason": "Neither candidate's prose directly discusses the thirty-day grace period for dismantling a dangerous wall or tree, but the passage does not match the 'Field vs Dwelling' discussion either; 'Immediate Kinyan' is marginally closer as a neighboring section, though confidence is low given neither heading clearly covers this content.",
+      "chosen_heading": "Immediate Kinyan",
+      "current_heading": "Field vs Dwelling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54
+    ],
+    "current_heading": "Immediate Kinyan",
+    "candidates": [
+      "Immediate Kinyan",
+      "Chatzer Koneh",
+      "Intent Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the exact discussion described in 'Immediate Kinyan': item 1 establishes that clearing is the operative moment of acquisition, and item 2 raises the objection that chatzer koneh should have effected acquisition already \u2014 precisely the 'amai/d'tikni lei sadei' question the prose describes.",
+      "chosen_heading": "Immediate Kinyan",
+      "current_heading": "Immediate Kinyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Intent Test",
+    "candidates": [
+      "Chatzer Koneh",
+      "Intent Test",
+      "No Debt Relationship",
+      "Debt Obligation",
+      "Forcing Acceptance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's answer that chatzer koneh operates only when there is genuine intent to transfer ownership, contrasting with the wall owner's evasive motive \u2014 precisely what the 'Intent Test' section's prose describes.",
+      "chosen_heading": "Intent Test",
+      "current_heading": "Intent Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Forcing Acceptance",
+    "candidates": [
+      "No Debt Relationship",
+      "Debt Obligation",
+      "Forcing Acceptance",
+      "Own vs Hefker"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This passage is the classic *utzricha* argument explaining why both the rubble case (no debt) and wages case (debt exists) must be taught \u2014 the prose of heading 0 ('No Debt Relationship') directly introduces this exact *utzricha* question and its logic, whereas the current placement (heading 2, 'Forcing Acceptance') discusses revocability after acceptance, which is a different topic.",
+      "chosen_heading": "No Debt Relationship",
+      "current_heading": "Forcing Acceptance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Own vs Hefker",
+    "candidates": [
+      "Forcing Acceptance",
+      "Own vs Hefker",
+      "Rava's Challenge",
+      "Task vs General",
+      "Hagbahah Habatah",
+      "Temple Watchers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a single continuous chain of Rav Na\u1e25man's successive attempts to resolve the contradiction between the mishna and the baraita \u2014 first distinguishing shelo/shel chaveiro, then shelo/hefker, then addressing the metzi'ah objection, then landing on hagbahah/habatah \u2014 exactly the sequence described in candidate 1's prose about the 'Own vs Hefker' section.",
+      "chosen_heading": "Own vs Hefker",
+      "current_heading": "Own vs Hefker",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Temple Watchers",
+    "candidates": [
+      "Rava's Challenge",
+      "Task vs General",
+      "Hagbahah Habatah",
+      "Temple Watchers",
+      "Tannaim Disagree",
+      "Tanna Kamma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage introduces Rabba's statement that habatah b'hefker is a tannaitic dispute and cites the mishna about watchmen of sefi\u1e25im, which is precisely what heading 3 ('Temple Watchers') describes in its prose.",
+      "chosen_heading": "Temple Watchers",
+      "current_heading": "Temple Watchers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Tanna Kamma",
+    "candidates": [
+      "Tannaim Disagree",
+      "Tanna Kamma",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the gemara's first reading that the tannaim disagree about habatah b'hefker kani vs. lo kani, which is precisely what the 'Tanna Kamma' section's prose describes and analyzes in detail.",
+      "chosen_heading": "Tanna Kamma",
+      "current_heading": "Tanna Kamma",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava's Resolution",
+      "Dung Removal",
+      "Construction Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are continuations of Rava's resolution of the dispute about paying the omer watchman, covering his two explanations (wholehearted donation concern and ba'alei zeroa concern) and the parallel tradition from Ravin/Rabbi Yochanan \u2014 all directly matching the 'Rava's Resolution' prose.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Construction Limits",
+    "candidates": [
+      "Dung Removal",
+      "Construction Limits",
+      "Building Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers both the dung removal case and the clay/brick rules as one unified text, and the 'Dung Removal' prose explicitly introduces this as the mishna that covers all these regulations together, making it the natural home for the full mishna passage.",
+      "chosen_heading": "Dung Removal",
+      "current_heading": "Construction Limits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Building Setup",
+    "candidates": [
+      "Construction Limits",
+      "Building Setup",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes authorized construction in reshut harabim, the coordinated delivery-and-build method, liability for damage, and Rabban Shimon ben Gamliel's thirty-day allowance \u2014 all of which are precisely what the 'Building Setup' prose discusses.",
+      "chosen_heading": "Building Setup",
+      "current_heading": "Building Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      128
+    ],
+    "current_heading": "Rabbi Yehuda",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Permission vs Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening move questioning whether the mishna follows Rabbi Yehuda, which is precisely what the 'Permission vs Liability' prose describes as its starting point ('leima matnisin dela k'Rabbi Yehuda'), whereas the current heading's prose already summarizes Rabbi Yehuda's position as established fact rather than as a question being raised.",
+      "chosen_heading": "Permission vs Liability",
+      "current_heading": "Rabbi Yehuda",
+      "moved": true
+    }
+  }
+]

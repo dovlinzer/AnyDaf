@@ -1,0 +1,267 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Who Played Music",
+    "candidates": [
+      "Opening Debate",
+      "Rav Papa's Theory",
+      "Who Played Music",
+      "Ikar Shira: Vocal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Papa's k'tannai statement \u2014 the Tannaitic parallel he invokes (the three-way dispute about who played the instruments and what it implies about ikar shirah b'peh vs. b'kli) \u2014 which is precisely what candidate 1 ('Rav Papa's Theory') describes as his reframing and his invitation to look at the Mishnah asking who played the instruments.",
+      "chosen_heading": "Rav Papa's Theory",
+      "current_heading": "Who Played Music",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Ikar Shira: Vocal",
+    "candidates": [
+      "Who Played Music",
+      "Ikar Shira: Vocal",
+      "Nafka Mina: Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form the Gemara's challenge to Rav Papa's alignment (tisbra) and its resolution (ela, de-kulei alma ikar shira b'peh), which is precisely what the 'Ikar Shira: Vocal' prose describes in detail.",
+      "chosen_heading": "Ikar Shira: Vocal",
+      "current_heading": "Ikar Shira: Vocal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Nafka Mina: Status",
+    "candidates": [
+      "Nafka Mina: Status",
+      "Yirmiya's Distinction",
+      "Simcha Yeterah Debate",
+      "Korban Override",
+      "Reconciling Premises",
+      "Three Explanations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the nafka mina question \u2014 what practical difference the dispute about the musicians' identity makes \u2014 and the three-way breakdown of positions on yuchasin and ma'aser, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Nafka Mina: Status",
+      "current_heading": "Nafka Mina: Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Three Explanations",
+    "candidates": [
+      "Yirmiya's Distinction",
+      "Simcha Yeterah Debate",
+      "Korban Override",
+      "Reconciling Premises",
+      "Three Explanations",
+      "Unsurpassable Joy",
+      "Golden Candelabras"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Three Explanations",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 cover Rabbi Yirmiya bar Abba's distinction, the tiyuvta of Rav Yosef on two counts, and the Mishnah inference \u2014 all explicitly described in candidate 4's prose.",
+      "second_heading": "Yirmiya's Distinction",
+      "second_confidence": "high",
+      "second_reason": "Items 6-9 debate whether the primary essence of song is vocal or instrumental with prooftexts, matching candidate 0's prose which explicitly discusses ikar shirah b'peh and its implications.",
+      "current_heading": "Three Explanations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Golden Candelabras",
+    "candidates": [
+      "Unsurpassable Joy",
+      "Golden Candelabras",
+      "City Lit Up",
+      "Dance and Music"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah itself covering all the content from the opening declaration about joy through the candelabras and the city illumination, and candidate 0 ('Unsurpassable Joy') is the section whose prose introduces this very Mishnah as a whole unit, whereas candidates 1 and 2 cover specific sub-details that the essay author's prose expounds upon after the Mishnah is introduced.",
+      "chosen_heading": "Unsurpassable Joy",
+      "current_heading": "Golden Candelabras",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Dance and Music",
+    "candidates": [
+      "City Lit Up",
+      "Dance and Music",
+      "Trumpet Proclamation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items describe the dancing with torches and the Levites playing on the fifteen steps \u2014 precisely what the 'Dance and Music' section's prose discusses in detail.",
+      "chosen_heading": "Dance and Music",
+      "current_heading": "Dance and Music",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Trumpet Proclamation",
+    "candidates": [
+      "Trumpet Proclamation",
+      "Procession Declaration",
+      "Avoteinu Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the two priests at the upper gate sounding tekia-terua-tekia at the rooster's crow, at the tenth stair, and at the courtyard \u2014 exactly the content discussed in the 'Trumpet Proclamation' prose about kara ha-gever and the trumpet sequences marking the start of the morning procession.",
+      "chosen_heading": "Trumpet Proclamation",
+      "current_heading": "Trumpet Proclamation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Avoteinu Statement",
+    "candidates": [
+      "Procession Declaration",
+      "Avoteinu Statement",
+      "Marble Like Waves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the declaration at the eastern gate contrasting ancestors' sun worship with 'our eyes are to God,' which is precisely what the 'Avoteinu Statement' prose discusses in detail.",
+      "chosen_heading": "Avoteinu Statement",
+      "current_heading": "Avoteinu Statement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Marble Like Waves",
+    "candidates": [
+      "Marble Like Waves",
+      "Alexandria Synagogue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the beauty of Herod's Temple renovation \u2014 the baraita about unsurpassable beauty and the description of marble waves \u2014 which is precisely what the 'Marble Like Waves' section's prose covers in detail.",
+      "chosen_heading": "Marble Like Waves",
+      "current_heading": "Marble Like Waves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Alexandria Synagogue",
+    "candidates": [
+      "Alexandria Synagogue",
+      "Flag Signaling",
+      "Occupational Seating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the great synagogue of Alexandria, its basilica structure, massive attendance, golden thrones, and the flag-signaling system, all of which are discussed together in the 'Alexandria Synagogue' prose section.",
+      "chosen_heading": "Alexandria Synagogue",
+      "current_heading": "Alexandria Synagogue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Occupational Seating",
+    "candidates": [
+      "Flag Signaling",
+      "Occupational Seating",
+      "Community Wiped Out",
+      "Returning to Egypt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the occupational seating arrangement in the Alexandria synagogue, which is precisely what the 'Occupational Seating' section's prose discusses.",
+      "chosen_heading": "Occupational Seating",
+      "current_heading": "Occupational Seating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Returning to Egypt",
+    "candidates": [
+      "Community Wiped Out",
+      "Returning to Egypt",
+      "Verse Omen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's statement that they were all killed by Alexander of Macedonia, which is the core content discussed under 'Community Wiped Out' (including the scribal difficulty with Alexander's name), whereas the current placement under 'Returning to Egypt' focuses on the reason for punishment (the verse about not returning), which is only the secondary clause of this passage.",
+      "chosen_heading": "Community Wiped Out",
+      "current_heading": "Returning to Egypt",
+      "moved": true
+    }
+  }
+]

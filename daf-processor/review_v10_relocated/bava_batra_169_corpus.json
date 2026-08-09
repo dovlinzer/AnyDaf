@@ -1,0 +1,370 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Sale Docs Allowed",
+    "candidates": [
+      "Braita Intro",
+      "Why No Loan Rewrite",
+      "Sale Docs Allowed",
+      "Liens on Sales",
+      "Double Collect",
+      "RSG Disagrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself \u2014 presenting both the loan-document rule and the sale-document distinction \u2014 which corresponds precisely to the 'Braita Intro' section that introduces and quotes this exact baraita text.",
+      "chosen_heading": "Braita Intro",
+      "current_heading": "Sale Docs Allowed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "RSG Disagrees",
+    "candidates": [
+      "Liens on Sales",
+      "Double Collect",
+      "RSG Disagrees",
+      "RSG Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes Rabban Shimon ben Gamliel's ruling against replacement bills of sale and his gift/shtar-return principle, which is precisely what the 'RSG Disagrees' section's prose discusses.",
+      "chosen_heading": "RSG Disagrees",
+      "current_heading": "RSG Disagrees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "RSG Concern",
+    "candidates": [
+      "RSG Concern",
+      "Tosafos Solution",
+      "Rav Safra Logic",
+      "Creditor Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes 'Amar Mar: chutz me'achrayus shebo \u2014 mai ta'ama?' which is precisely the text the Rav Safra Logic section's prose introduces and analyzes, making it clearly the correct home for this item.",
+      "chosen_heading": "Rav Safra Logic",
+      "current_heading": "RSG Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Creditor Role",
+    "candidates": [
+      "Tosafos Solution",
+      "Rav Safra Logic",
+      "Creditor Role",
+      "Destruction Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Safra's direct statement explaining why two shtarot cannot be written for one field, which is precisely what the 'Rav Safra Logic' section introduces and discusses, whereas the current placement ('Creditor Role') describes the elaborated mechanics that come after this foundational statement.",
+      "chosen_heading": "Rav Safra Logic",
+      "current_heading": "Creditor Role",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Destruction Issue",
+    "candidates": [
+      "Creditor Role",
+      "Destruction Issue",
+      "Tear Up Note"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks exactly how the creditor could seize a second time once the promissory note has been torn up, which is precisely the structural obstacle described in the 'Destruction Issue' prose.",
+      "chosen_heading": "Destruction Issue",
+      "current_heading": "Destruction Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Tear Up Note",
+    "candidates": [
+      "Tear Up Note",
+      "Three Stages",
+      "Original Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Na\u1e25man's rule covering all three documents (tirfa, adrachta, shuma) and their sequential cancellation requirements, which is precisely what the 'Three Stages' prose describes in detail, whereas the 'Tear Up Note' section only covers the first document/stage.",
+      "chosen_heading": "Three Stages",
+      "current_heading": "Tear Up Note",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Original Ownership",
+    "candidates": [
+      "Three Stages",
+      "Original Ownership",
+      "Same Day Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly provides the Gemara's answer about 'lo tzricha d'ka'asi mi'koach d'avasai' \u2014 the claim of original ancestral ownership \u2014 which is precisely what the 'Original Ownership' section's prose explains and discusses.",
+      "chosen_heading": "Original Ownership",
+      "current_heading": "Original Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52
+    ],
+    "current_heading": "Same Day Question",
+    "candidates": [
+      "Same Day Question",
+      "Shovar Proposal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav A\u1e25a's question about why the elaborate scheme is needed when two deeds allow immediate double repossession, and Ravina's answer that simultaneous collection would expose the fraud through a proliferation of litigants \u2014 are precisely what the 'Same Day Question' prose describes.",
+      "chosen_heading": "Same Day Question",
+      "current_heading": "Same Day Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Shovar Proposal",
+    "candidates": [
+      "Shovar Proposal",
+      "Leapfrog Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the shovar proposal itself \u2014 writing a proper shtar with achrayus for the buyer and a receipt (tavra/shovar) for the seller invalidating prior documents \u2014 which is precisely what candidate 0's prose describes as its central topic.",
+      "chosen_heading": "Shovar Proposal",
+      "current_heading": "Shovar Proposal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Leapfrog Problem",
+    "candidates": [
+      "Leapfrog Problem",
+      "Loan vs Land"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Leapfrog Problem",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 are the exact Gemara passage the 'Leapfrog Problem' prose describes in detail \u2014 the raised question before Rav Pappa/Ashi, the receipt-with-buyers problem, the interim-produce answer, and the no-guarantee buyer closing \u2014 all perfectly matching that section's prose.",
+      "second_heading": "Loan vs Land",
+      "second_confidence": "high",
+      "second_reason": "Item 6, asking why the same concerns don't apply to promissory notes, is precisely the loan-vs-land distinction that the 'Loan vs Land' prose addresses.",
+      "current_heading": "Leapfrog Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Loan vs Land",
+    "candidates": [
+      "Loan vs Land",
+      "Land Not Cash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains precisely why buyers do not insist on involving the seller when land (not money) is owed \u2014 'mi yad'ei de-man de-massik ara bezuzi lo m'fayis' \u2014 which is the specific content discussed in the 'Land Not Cash' prose section.",
+      "chosen_heading": "Land Not Cash",
+      "current_heading": "Loan vs Land",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Land Not Cash",
+    "candidates": [
+      "Land Not Cash",
+      "Rava Default",
+      "Rav Ashi View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly how to write a replacement deed without achrayus \u2014 the practical formulation Rav Na\u1e25man provides \u2014 which directly corresponds to the conclusion stated in the 'Land Not Cash' prose: 'if the buyer loses his shtar, he may receive a replacement \u2014 but it will carry no achrayus.'",
+      "chosen_heading": "Land Not Cash",
+      "current_heading": "Land Not Cash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Rav Ashi View",
+    "candidates": [
+      "Rava Default",
+      "Rav Ashi View",
+      "Woman Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rafram citing Rav Na\u1e25man that omission of achrayus is a scribal error, and Rav Ashi disagreeing \u2014 are precisely the dispute described in the 'Rav Ashi View' prose, which explicitly summarizes both positions (achrayus ta'os sofer vs. lav ta'os sofer).",
+      "chosen_heading": "Rav Ashi View",
+      "current_heading": "Rav Ashi View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Woman Story",
+    "candidates": [
+      "Woman Story",
+      "Explicit Exclusion",
+      "Nachman Solution",
+      "RSG Reversal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Woman Story",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the facts of the case (woman gives money, agent buys without achrayus, she comes before Rav Nachman), which matches the 'Woman Story' prose exactly.",
+      "second_heading": "Nachman Solution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman's specific remedy (zil zavna minei shelo be'achrayus vehadar zavnah nihala be'achrayus), which is precisely what the 'Nachman Solution' prose describes and quotes verbatim.",
+      "current_heading": "Woman Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "RSG Reversal",
+    "candidates": [
+      "Explicit Exclusion",
+      "Nachman Solution",
+      "RSG Reversal",
+      "Chachamim No Reversal",
+      "Conditional Theory",
+      "Rava Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both Rabban Shimon ben Gamliel's ruling on returning the shtar reversing the gift and Rav Assi's conditional explanation, which maps directly to heading 2 ('RSG Reversal') whose prose explicitly introduces this dispute \u2014 headings 3 and 4 cover only parts of the passage separately, but the full passage as a unit fits best under the current placement where the dispute is introduced.",
+      "chosen_heading": "RSG Reversal",
+      "current_heading": "RSG Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rava Objection",
+    "candidates": [
+      "Chachamim No Reversal",
+      "Conditional Theory",
+      "Rava Objection",
+      "Mesira Transfer",
+      "Rava Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabba's objection that if ownership is conditioned on holding the shtar, then theft or loss of the shtar would also void the transfer \u2014 exactly what the 'Rava Objection' section's prose describes.",
+      "chosen_heading": "Rava Objection",
+      "current_heading": "Rava Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Rava Position",
+    "candidates": [
+      "Mesira Transfer",
+      "Rava Position",
+      "Return Property",
+      "Chachamim Pos"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mesira Transfer",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and the first part of item 3 (Rav Dimi's statement) together with Rabba's reformulation belong under 'Mesira Transfer' which discusses the foundational machloket about osiyos niknos be-mesira \u2014 item 1 is Rabba's reframing of the dispute in exactly those terms, matching that section's prose perfectly.",
+      "second_heading": "Chachamim Pos",
+      "second_confidence": "medium",
+      "second_reason": "Items 2 and 3 introduce the baraita about one who claims based on deed vs. presumptive ownership (Rabbi vs. Rabban Shimon ben Gamliel) and Rav Dimi's analysis of their dispute, which leads into the Sages' position discussion under 'Chachamim Pos'.",
+      "current_heading": "Rava Position",
+      "moved": true
+    }
+  }
+]

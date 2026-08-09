@@ -1,0 +1,284 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "3-Gen Barrier",
+    "candidates": [
+      "Restricted Nations",
+      "3-Gen Barrier",
+      "Gender-Based Status",
+      "Modern Tech",
+      "Tannaim Dispute",
+      "R. Akiva View",
+      "Divorce Passage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss exactly the gemara's analysis of 'nitgaiyru halach achar hapgum shebishneihem' \u2014 the Egyptian/Ammonite case and the Ammonite/Egyptian reverse case with gender-based status assignment \u2014 which is precisely what the '3-Gen Barrier' prose describes in detail.",
+      "chosen_heading": "3-Gen Barrier",
+      "current_heading": "3-Gen Barrier",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Divorce Passage",
+    "candidates": [
+      "Gender-Based Status",
+      "Modern Tech",
+      "Tannaim Dispute",
+      "R. Akiva View",
+      "Divorce Passage",
+      "R. Abba Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's question of the scriptural source for mamzerut (mena hanei milei), citing Rabbi Chiyya bar Abba/Rabbi Yochanan/Rabbi Yannai and Rabbi Yossi HaGelili deriving from the divorce verse that kiddushin does not take effect with relatives, which is precisely what the 'Divorce Passage' prose describes.",
+      "chosen_heading": "Divorce Passage",
+      "current_heading": "Divorce Passage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "R. Abba Query",
+    "candidates": [
+      "R. Abba Query",
+      "Sister-in-Law",
+      "Kal Vachomer",
+      "Weaknesses",
+      "Verbal Analogy",
+      "Niddah Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of objections and responses about deriving that 'acher' excludes relatives (not just the son), whether both verses refer to the son (lechatchila vs. bediavad), whether the lechatchila rule derives from achot isha, and whether both verses refer to achot isha \u2014 exactly what the 'R. Abba Query' prose describes.",
+      "chosen_heading": "R. Abba Query",
+      "current_heading": "R. Abba Query",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Niddah Problem",
+    "candidates": [
+      "Sister-in-Law",
+      "Kal Vachomer",
+      "Weaknesses",
+      "Verbal Analogy",
+      "Niddah Problem",
+      "Hekkesh Rule",
+      "Yevama Proof",
+      "Two-Wives",
+      "Issur Aseh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous unit discussing the weaknesses and challenges to the binyan av from achot isha \u2014 the refutation for eshet ach (heter b'makom mitzvah), the refutation for eshet ish (heter b'chayei osran), and then Rabbi Yona/Rav Huna's alternative hekkesh derivation \u2014 which corresponds exactly to the 'Weaknesses' section's prose describing these precise challenges to the binyan av and the subsequent resolution.",
+      "chosen_heading": "Weaknesses",
+      "current_heading": "Niddah Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Issur Aseh",
+    "candidates": [
+      "Hekkesh Rule",
+      "Yevama Proof",
+      "Two-Wives",
+      "Issur Aseh",
+      "R. Simai"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Hekkesh Rule",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss the niddah betrothal question and the hekkesh stringency principle, which precisely matches the 'Hekkesh Rule' prose about kula bechumra lechumra makshinan.",
+      "second_heading": "Yevama Proof",
+      "second_confidence": "high",
+      "second_reason": "Items 4-6 begin an entirely new derivation \u2014 Rav Acha bar Yaakov's kal vachomer from yevama \u2014 which matches the 'Yevama Proof' section, continuing through the two-wives challenge and Rabbi Akiva's resolution.",
+      "current_heading": "Issur Aseh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "R. Simai",
+    "candidates": [
+      "Issur Aseh",
+      "R. Simai",
+      "Chalal Status",
+      "R. Shaveiv",
+      "Passage Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about Rabbi Simai's statement that Rabbi Akiva renders offspring mamzerim from all prohibited unions except almana l'kohen gadol (where the child is a chalal, not mamzer) is precisely what the 'R. Simai' section's prose describes and contextualizes.",
+      "chosen_heading": "R. Simai",
+      "current_heading": "R. Simai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Passage Scope",
+    "candidates": [
+      "Chalal Status",
+      "R. Shaveiv",
+      "Passage Scope",
+      "Gender Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi Yeshevav's objection to Rabbi Akiva's broad mamzer rule and the gemara's analysis of whether his position excludes only Rabbi Simai's case or makes an independent categorical claim \u2014 precisely what the 'R. Shaveiv' prose section describes.",
+      "chosen_heading": "R. Shaveiv",
+      "current_heading": "Passage Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Gender Issue",
+    "candidates": [
+      "Passage Scope",
+      "Gender Issue",
+      "Beulah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why beulah l'kohen gadol is classified as an issur asei that is 'not equally applicable to all,' which directly matches the Passage Scope prose discussing how this category functions within Rabbi Akiva's framework and the four operative categories.",
+      "chosen_heading": "Passage Scope",
+      "current_heading": "Gender Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Beulah Case",
+    "candidates": [
+      "Gender Issue",
+      "Beulah Case",
+      "Shifcha Kiddushin",
+      "Shifcha Children"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous Talmudic exchange about why the Rabbis cannot interpret the two-wives verse as referring to chayavei aseh, and Rabbi Akiva's forced (dachik) reading \u2014 exactly the content described in the 'Beulah Case' prose, which explicitly references baal karkhakh shavkah likra dehavi dakhik umuki anafshei.",
+      "chosen_heading": "Beulah Case",
+      "current_heading": "Beulah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Shifcha Children",
+    "candidates": [
+      "Shifcha Kiddushin",
+      "Shifcha Children",
+      "Non-Jew Kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together cover exactly what candidate 0's prose describes: the derivation that kiddushin is ineffective with a shifchah kenaanit (im hachamor) and then the follow-up question of how we know the child follows the mother's status (ha'ishah v'yeladeha), which candidate 0 explicitly ends by anticipating \u2014 making this the natural home for the entire passage rather than candidate 1 which discusses only the child-status verse.",
+      "chosen_heading": "Shifcha Kiddushin",
+      "current_heading": "Shifcha Children",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Non-Jew Kiddushin",
+    "candidates": [
+      "Shifcha Children",
+      "Non-Jew Kiddushin",
+      "Descent Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks from where we derive that betrothal with a gentile woman is ineffective and cites 'lo titchaten bam', which matches exactly the 'Non-Jew Kiddushin' section's prose discussion of that verse and its application.",
+      "chosen_heading": "Non-Jew Kiddushin",
+      "current_heading": "Non-Jew Kiddushin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Descent Rules",
+    "candidates": [
+      "Descent Rules",
+      "Yifat Toar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabbi Yo\u1e25anan's derivation from 'ki yasir et bincha,' Ravina's inference about the son of one's daughter, and the gemara's resolution that such a child is pasul but not a mamzer \u2014 are explicitly discussed in the 'Descent Rules' prose, making that the correct placement.",
+      "chosen_heading": "Descent Rules",
+      "current_heading": "Descent Rules",
+      "moved": false
+    }
+  }
+]

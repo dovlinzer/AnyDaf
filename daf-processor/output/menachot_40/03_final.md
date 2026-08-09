@@ -1,20 +1,23 @@
-# Menachot 40 — Daf Yomi Shiur
-
+[DAF:40a]
 ## Tzitzit Obligation
+
+
 
 ### Wool & Linen Only
 
-> **Hebrew/Aramaic:** דְּתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: הוֹאִיל וְנֶאֶמְרוּ בְּגָדִים בַּתּוֹרָה סְתָם, וּפָרַט לְךָ הַכָּתוּב בְּאֶחָד מֵהֶן צֶמֶר וּפִשְׁתִּים – אַף כֹּל צֶמֶר וּפִשְׁתִּים.
->
-> **Translation:** **As** a *tanna* **of the school of Rabbi Yishmael taught: Since** the word **garments is** usually **stated in the Torah without specification** as to the material from which the garments are made, **and the verse specified in one of** its references to garments that it is referring to garments made from **wool or linen,** as it states: "And the garment in which there will be the mark of leprosy, whether it be a woolen garment or a linen garment" (Leviticus 13:47), it may be derived that **so too, all** garments mentioned in the Torah are those made from **wool or linen.** Other fabrics are not classified as garments by Torah law. Consequently, when the Torah requires strings on the corners of garments (see Numbers 15:38), it is referring specifically to garments made of wool or linen.
-
 The *daf* properly begins a few lines before the top of 40, picking up from the bottom of 39b. There, Rav Nachman cites the *Tana Debei Rabbi Yishmael* on the question of which garments are obligated in *tzitzit*. The position of the school of Rabbi Yishmael runs as follows: wherever the Torah speaks of a *beged* without further specification, and then specifies wool or linen in one particular instance — as it does by *shatnez* ("*lo tilbash shatnez tzemer u'pishtim yachdav*") and by *nega'im* ("*beged tzemer o beged pishtim*") — we derive that whenever the Torah says *beged*, it means specifically a wool or linen garment. The conclusion is *af kol tzemer u'pishtim*: whenever the Torah mentions a garment in the context of a *mitzvah*, it intends only wool or linen. Accordingly, garments made of cotton, silk, or other materials would carry only a rabbinic obligation in *tzitzit*, not a biblical one.
+
+> **Hebrew/Aramaic:** וְרַב נַחְמָן, כִּדְתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל.
+> **Translation:** The Gemara notes: **And Rav Naḥman,** who holds that silk garments do not require ritual fringes by Torah law, holds **in accordance with** the ruling stated by **a *tanna* of the school of Rabbi Yishmael.**
+
+> **Hebrew/Aramaic:** דְּתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: הוֹאִיל וְנֶאֶמְרוּ בְּגָדִים בַּתּוֹרָה סְתָם, וּפָרַט לְךָ הַכָּתוּב בְּאֶחָד מֵהֶן צֶמֶר וּפִשְׁתִּים – אַף כֹּל צֶמֶר וּפִשְׁתִּים.
+> **Translation:** **As** a *tanna* **of the school of Rabbi Yishmael taught: Since** the word **garments is** usually **stated in the Torah without specification** as to the material from which the garments are made, **and the verse specified in one of** its references to garments that it is referring to garments made from **wool or linen,** as it states: “And the garment in which there will be the mark of leprosy, whether it be a woolen garment or a linen garment” (Leviticus 13:47), it may be derived that **so too, all** garments mentioned in the Torah are those made from **wool or linen.** Other fabrics are not classified as garments by Torah law. Consequently, when the Torah requires strings on the corners of garments (see Numbers 15:38), it is referring specifically to garments made of wool or linen.
+
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: וְהַאי תָּנָא דְּבֵי רַבִּי יִשְׁמָעֵאל מַפְּקָא מֵאִידַּךְ תָּנָא דְּבֵי רַבִּי יִשְׁמָעֵאל, דְּתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: ״בֶּגֶד״ – אֵין לִי אֶלָּא בֶּגֶד צֶמֶר, מִנַּיִן לְרַבּוֹת צֶמֶר גְּמַלִּים וְצֶמֶר אַרְנָבִים וְנוֹצָה שֶׁל עִזִּים וְהַכָּלָךְ וְהַסְּרִיקִין וְהַשִּׁירָאִין מִנַּיִן? תַּלְמוּד לוֹמַר: ״אוֹ בֶגֶד״.
+> **Translation:** **Abaye said: This** statement by **a *tanna* of the school of Rabbi Yishmael diverges from another** statement by **a *tanna* of the school of Rabbi Yishmael,** who holds that all fabrics are considered garments. **As** a *tanna* **of the school of Rabbi Yishmael taught:** From the fact that the verse states: “A woolen **garment”** (Leviticus 13:47), **I have** derived **only** that **a garment of wool** can become ritually impure. **From where** is it derived that garments made of **camels’ hair, rabbits’ wool, goats’ hair, or** the types of silk ***kalakh*, *serikin*, and *shira’in*,** are also **included** in this *halakha*? **The** same **verse states: “Or** a linen **garment.”** The word “or” serves as an amplification to include all types of fabric.
 
 ### Contradictory Teachings
 
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: וְהַאי תָּנָא דְּבֵי רַבִּי יִשְׁמָעֵאל מַפְּקָא מֵאִידַּךְ תָּנָא דְּבֵי רַבִּי יִשְׁמָעֵאל, דְּתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: ״בֶּגֶד״ – אֵין לִי אֶלָּא בֶּגֶד צֶמֶר, מִנַּיִן לְרַבּוֹת צֶמֶר גְּמַלִּים וְצֶמֶר אַרְנָבִים וְנוֹצָה שֶׁל עִזִּים וְהַכָּלָךְ וְהַסְּרִיקִין וְהַשִּׁירָאִין מִנַּיִן? תַּלְמוּד לוֹמַר: ״אוֹ בֶגֶד״.
->
-> **Translation:** **Abaye said: This** statement by **a *tanna* of the school of Rabbi Yishmael diverges from another** statement by **a *tanna* of the school of Rabbi Yishmael,** who holds that all fabrics are considered garments. **As** a *tanna* **of the school of Rabbi Yishmael taught:** From the fact that the verse states: "A woolen **garment"** (Leviticus 13:47), **I have** derived **only** that **a garment of wool** can become ritually impure. **From where** is it derived that garments made of **camels' hair, rabbits' wool, goats' hair, or** the types of silk ***kalakh*, *serikin*, and *shira'in*,** are also **included** in this *halakha*? **The** same **verse states: "Or** a linen **garment."** The word "or" serves as an amplification to include all types of fabric.
 
 Abaye immediately raises a difficulty: *ve'hai Tana Debei Rabbi Yishmael mehapech me'idach Tana Debei Rabbi Yishmael* — this teaching from the school of Rabbi Yishmael appears to contradict another teaching from the very same school. That second teaching begins by acknowledging that when the Torah mentions *beged* in the context of *tum'ah* — whether in the laws of *nega'im* (as Rashi holds) or in the laws of what becomes *tamei* through contact with a *sheretz* (as Tosafot prefers) — one might think only a standard woolen garment is included. Yet the verse then says "*o beged*," and the inclusive word *o* is taken to broaden the category to include garments of camel hair, rabbit wool, goat hair, and various forms of silk. The very same school of Rabbi Yishmael that restricts *beged* to wool and linen in one context appears to expand it dramatically in another.
 
@@ -34,11 +37,13 @@ The *Shulchan Aruch* rules in accordance with the *Tana Debei Rabbi Yishmael* as
 
 ## Sadin Bitzitzit
 
+
+
 ### Beit Shammai vs. Hillel
 
 > **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: סָדִין בְּצִיצִית – בֵּית שַׁמַּאי פּוֹטְרִין וּבֵית הִלֵּל מְחַיְּיבִין, וַהֲלָכָה כְּדִבְרֵי בֵּית הִלֵּל.
->
 > **Translation:** **The Sages taught** in a *baraita*: With regard to **ritual fringes** on a linen **cloak, Beit Shammai deem** the cloak **exempt** from ritual fringes due to the fact that the sky-blue strings must be made from wool, and there is a Torah prohibition against wearing a mixture of wool and linen. **And Beit Hillel deem** a linen cloak **obligated** in the mitzva of ritual fringes. **And** the ***halakha*** is **in accordance with the statement of Beit Hillel.**
+
 
 Turning now to the top of 40a, the *Gemara* presents a *baraita*: *sadin bitzitzit* — the case of a linen garment in which one seeks to attach *tzitzit*. *Beit Shammai potrin u'Veit Hillel mechayvin*: Beit Shammai exempts such a garment from *tzitzit*, while Beit Hillel obligates it. The tension, as Rashi notes, is that if one is exempt from *tzitzit* in a linen garment and nevertheless attaches wool strings — and *techelet* must be wool — one will be wearing *shatnez*. So Beit Shammai's ruling amounts not merely to an exemption but to a prohibition against attaching wool *tzitzit* to a linen garment at all.
 
@@ -64,10 +69,11 @@ This reading of Beit Shammai is, in a sense, its own philosophical statement: so
 
 ## Shatnez & Ignorance
 
+
+
 ### Jerusalem Practice
 
 > **Hebrew/Aramaic:** אָמַר רַבִּי אֱלִיעֶזֶר בֶּן רַבִּי צָדוֹק: וַהֲלֹא כׇּל הַמֵּטִיל תְּכֵלֶת בִּירוּשָׁלַיִם אֵינוֹ אֶלָּא מִן הַמַּתְמִיהִין!
->
 > **Translation:** **Rabbi Eliezer ben Rabbi Tzadok says: But is it not** the case that **anyone who affixes sky-blue** strings to a linen cloak **in Jerusalem is** considered **nothing other than one of those who causes** others **to be astonished** at their behavior, as it appears that he is violating the prohibition against wearing a garment containing wool and linen?
 
 The *baraita* itself records that the *halacha* follows Beit Hillel. Yet immediately afterward, Rabbi Elazar bar Rabbi Tzadok observes: *v'lo kol hamatilah techelet b'sadin b'Yerushalayim eino ela min hamitmitemin* — anyone who placed *techelet* in a linen garment in Jerusalem was regarded with shock and astonishment. Even according to Beit Hillel, the practice in Jerusalem was simply not done. The *Shita Mekubetzet* adds the words *techelet b'sadin*, making the linen garment explicit. Whatever the technical *halacha*, the pious circles of Jerusalem — where there appears to have been a norm of heightened stringency in such matters — maintained that one did not wear blue strings in a linen garment.
@@ -75,7 +81,6 @@ The *baraita* itself records that the *halacha* follows Beit Hillel. Yet immedia
 ### Ignorance Problem
 
 > **Hebrew/Aramaic:** אָמַר רַבִּי: אִם כֵּן, לָמָּה אֲסָרוּהָ? לְפִי שֶׁאֵין בְּקִיאִין.
->
 > **Translation:** The *baraita* concludes: **Rabbi** Yehuda HaNasi **says: If so,** that the *halakha* is in accordance with Beit Hillel and a linen cloak is required to have ritual fringes, **why did** the Sages **prohibit** attaching ritual fringes to linen garments in Jerusalem? It is **because** people **are not well versed** in the *halakha* and might ultimately wear garments of wool and linen even when it is not necessary for the mitzva of ritual fringes.
 
 Rabbi then asks: *im ken lama asruha* — if it is technically permitted, indeed if it is a *mitzvah*, why was it treated as forbidden? The *Gemara* answers: *mipnei she'ein beki'in* — because people are not knowledgeable. Rashi explains: the general population does not know that *shatnez* is permitted in *tzitzit*. If they see someone wearing wool strings in a linen garment, they will not think "ah, here is someone fulfilling the *mitzvah* of *tzitzit* according to Beit Hillel." They will think: here is someone wearing *shatnez* — and they will conclude that *shatnez* must be generally permissible, and begin wearing *shatnez* themselves even where it is not a *mitzvah* context at all. This is a concern closely related to *maris ayin* — but with a crucial nuance: the ignorance here is ignorance of *halacha*, not ignorance of fact.
@@ -84,35 +89,33 @@ This distinction matters enormously. The classic case of *maris ayin* involves i
 
 ### Public Demonstration
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבָא בַּר רַב חָנָא לְרָבָא: וְלִרְמוֹ בֵּי עַשְׂרָה וְנִפְּקוּ לְשׁוּקָא וּמִפַּרְסְמָא (למילתא) [מִילְּתָא]! כׇּל שֶׁכֵּן דְּמַתְמְהוּ עִילָּוַן.
->
-> **Translation:** **Rava bar Rav Ḥana said to Rava:** If that is the concern, then **let ten** people **take** linen cloaks with ritual fringes **and go out to the marketplace and** thereby **publicize the matter,** i.e., that it is permitted to affix wool strings to a linen garment due to the mitzva. Rava answered: **All the more so** people **would be astonished at us** for acting in such an unconventional manner.
-
 Rava bar Rav Chana proposes to Rava: *v'lirmu beia asarah* — why not gather ten upstanding people, have them go out into the marketplace wearing linen garments with proper *techelet*, and *u'mefarsem l'milsa* — publicize the matter? Rather than accommodating the public's ignorance by restricting the practice, challenge that ignorance directly. Make it visible and widespread, and eventually people's assumptions will shift.
 
-### Demonstration Fails
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבָא בַּר רַב חָנָא לְרָבָא: וְלִרְמוֹ בֵּי עַשְׂרָה וְנִפְּקוּ לְשׁוּקָא וּמִפַּרְסְמָא (למילתא) [מִילְּתָא]! כׇּל שֶׁכֵּן דְּמַתְמְהוּ עִילָּוַן.
+> **Translation:** **Rava bar Rav Ḥana said to Rava:** If that is the concern, then **let ten** people **take** linen cloaks with ritual fringes **and go out to the marketplace and** thereby **publicize the matter,** i.e., that it is permitted to affix wool strings to a linen garment due to the mitzva. Rava answered: **All the more so** people **would be astonished at us** for acting in such an unconventional manner.
 
-> **Hebrew/Aramaic:** וְלִידְרְשַׁהּ בְּפִירְקָא! גְּזֵירָה מִשּׁוּם קָלָא אִילָן.
->
-> **Translation:** The Gemara suggests: **Let** the Rabbis **teach during** their public **lecture** that affixing wool strings to a linen garment is permitted for the mitzva of ritual fringes. The Gemara answers: Wearing strings on a linen garment is prohibited because of a rabbinic **decree due to** the concern that people might use strings that were dyed blue with **indigo [*kala ilan*],** instead of with *tekhelet*, the sky-blue dye produced from the *ḥilazon* (see 44b), in which case they would not fulfill the mitzva of ritual fringes and would violate the prohibition against wearing garments containing wool and linen.
+### Demonstration Fails
 
 The *Gemara* rejects this: *kol shekein d'metamhei alayhu* — on the contrary, this would only increase the astonishment and censure directed at those individuals. Ignorance, when deeply ingrained, does not yield to counter-examples. Rather than reconsidering their assumptions, people will simply condemn those doing it — or, as a student perceptively noted, in an era of greater sectarianism, people might regard the practice as the mark of an aberrant group rather than as legitimate *halachic* behavior. The *Gemara* is making an astute psychological observation: deeply ingrained assumptions tend to reinterpret disconfirming evidence rather than revise themselves.
 
 ### Teaching Solution
 
+
 The *Gemara* then proposes what seems like the correct solution: *v'lidrosh b'pirka* — why not address the ignorance directly through public teaching? Gather people at the communal learning sessions and expound clearly that *shatnez* is permitted in *tzitzit*, that this is a special dispensation carved out by the Torah, and then people will understand what they see and draw the right conclusions.
 
-This is a striking moment in the *Gemara*. It insists that one should not give in to ignorance of the law. Public teaching — *limmud* — is the right instrument to address it, and it is a more appropriate response than either suppressing a legitimate practice or staging a public demonstration that will only backfire. The ultimate answer the *Gemara* offers, however, is that a different concern entirely prevents us from allowing this practice even if we were to teach about it: the problem of *kala ilan*.
+This is a striking moment in the *Gemara*. It insists that one should not give in to ignorance of the law. Public teaching — *limmud* — is the right instrument to address it, and it is a more appropriate response than either suppressing a legitimate practice or staging a public demonstration that will only backfire. There is an important distinction lurking here that is worth drawing out explicitly. Classic *maris ayin* — concern for appearances — typically involves ignorance of facts, not ignorance of law. The standard case is one where an observer lacks access to a relevant fact: someone eating soy cheese melted over a hamburger looks, to all appearances, as though he is eating a cheeseburger, and no amount of legal knowledge closes that gap because the observer simply cannot know the factual composition of the food. The ignorance is in the world, not in the books. Our *gemara*, by contrast, involves a case in which the observer knows exactly what he is seeing — wool strings on a linen garment — but does not know that the law permits it. That is ignorance of *halacha*, and the appropriate remedy is education, not accommodation. Rav Moshe Feinstein rules explicitly in a *teshuvah* that *maris ayin* does not apply when the concern is rooted in ignorance of law rather than ignorance of fact, precisely because we cannot allow legal practice to be held hostage to the public's failure to learn the relevant *halacha*. Our *gemara* reflects exactly that attitude: one should be prepared to have one's actions challenge other people's false assumptions, and those assumptions should be met with teaching, not deference. The ultimate answer the *Gemara* offers, however, is that a different concern entirely prevents us from allowing this practice even if we were to teach about it: the problem of *kala ilan*.
+
+> **Hebrew/Aramaic:** וְלִידְרְשַׁהּ בְּפִירְקָא! גְּזֵירָה מִשּׁוּם קָלָא אִילָן.
+> **Translation:** The Gemara suggests: **Let** the Rabbis **teach during** their public **lecture** that affixing wool strings to a linen garment is permitted for the mitzva of ritual fringes. The Gemara answers: Wearing strings on a linen garment is prohibited because of a rabbinic **decree due to** the concern that people might use strings that were dyed blue with **indigo [*kala ilan*],** instead of with *tekhelet*, the sky-blue dye produced from the *ḥilazon* (see 44b), in which case they would not fulfill the mitzva of ritual fringes and would violate the prohibition against wearing garments containing wool and linen.
 
 ---
 
 ## False Techelet
 
+
+
 ### Kala Ilan Concern
 
-> **Hebrew/Aramaic:** גְּזֵירָה מִשּׁוּם קָלָא אִילָן.
->
-> **Translation:** Wearing strings on a linen garment is prohibited because of a rabbinic **decree due to** the concern that people might use strings that were dyed blue with **indigo [*kala ilan*],** instead of with *tekhelet*, the sky-blue dye produced from the *ḥilazon* (see 44b), in which case they would not fulfill the mitzva of ritual fringes and would violate the prohibition against wearing garments containing wool and linen.
 
 The *Gemara* now pivots to what it identifies as the real reason behind the restriction: *gezeirah mishum kala ilan* — a rabbinic decree on account of the artificial dye *kala ilan*. *Kala ilan* was a plant-based indigo dye that was visually indistinguishable from genuine *techelet* but was far cheaper to produce. As a result, a significant market developed in which merchants sold *kala ilan* at a discounted price for *techelet*, often deceiving buyers who believed they were purchasing the authentic dye. The concern is therefore not primarily about public perception or ignorance of *halacha* — it is about the real possibility that the wool strings a person attaches to a linen garment will not be genuine *techelet* at all, but *kala ilan*.
 
@@ -121,8 +124,10 @@ If the strings are *kala ilan* and not true *techelet*, the person is not fulfil
 ### No Techelet = Shatnez
 
 > **Hebrew/Aramaic:** וְלֹא יְהֵא אֶלָּא לָבָן! כֵּיוָן דְּאֶפְשָׁר בְּמִינָן – לָא.
->
-> **Translation:** The Gemara suggests: Even if one's blue strings are not dyed with *tekhelet* as required for the mitzva, **let** them **be** considered **merely** as **white** strings. In the absence of *tekhelet* one fulfills the mitzva with white strings, and therefore it should be permitted to affix white woolen strings to a linen garment. The Gemara explains: **Since it is possible** to affix white strings that are **the same type** of material as the garment, i.e., linen, and thereby fulfill the mitzva without overriding the prohibition against wearing a garment made from wool and linen, one may **not** affix white wool strings to a linen garment.
+> **Translation:** The Gemara suggests: Even if one’s blue strings are not dyed with *tekhelet* as required for the mitzva, **let** them **be** considered **merely** as **white** strings. In the absence of *tekhelet* one fulfills the mitzva with white strings, and therefore it should be permitted to affix white woolen strings to a linen garment. The Gemara explains: **Since it is possible** to affix white strings that are **the same type** of material as the garment, i.e., linen, and thereby fulfill the mitzva without overriding the prohibition against wearing a garment made from wool and linen, one may **not** affix white wool strings to a linen garment.
+
+> **Hebrew/Aramaic:** כִּדְרֵישׁ לָקִישׁ, דְּאָמַר רֵישׁ לָקִישׁ: כׇּל מָקוֹם שֶׁאַתָּה מוֹצֵא עֲשֵׂה וְלֹא תַעֲשֶׂה, אִם אַתָּה יָכוֹל לְקַיֵּים אֶת שְׁנֵיהֶם – מוּטָב, וְאִם לָאו – יָבוֹא עֲשֵׂה וְיִדְחֶה אֶת לֹא תַעֲשֶׂה.
+> **Translation:** The Gemara notes: This is **in accordance with** the opinion **of Reish Lakish. As Reish Lakish says: Any place where you find a positive mitzva and a prohibition** that clash with one another, **if you are able to fulfill both of them,** that is **preferable; and if** that is **not** possible, **the positive mitzva shall come and override the prohibition.** In this case, the clash is between the mitzva of ritual fringes and the prohibition against wearing a garment that contains wool and linen. One can fulfill both of them by using white strings that are linen instead of wool if the garment is made from linen.
 
 The *Gemara* then asks: even if the *techelet* turns out to be *kala ilan*, why not treat the strings as equivalent to white strings — *v'lo yehei ella lavan* — and still permit the practice on the basis of the *mitzvah* of white *tzitzit*? The *Gemara* rejects this by invoking the principle of Reish Lakish: *kol makom she'atah motzei asei v'lo ta'asei*, whenever a positive commandment conflicts with a negative prohibition, if one can fulfill the positive commandment without triggering the negative — *im ata yachol lekayeim et shneihem mutav* — one must find that alternative. Only where no alternative exists does *asei docheh lo ta'asei* apply. Here, since it is entirely possible to fulfill the *mitzvah* of *tzitzit* using linen strings in a linen garment — *keivan d'efshar b'minah lo* — there is no justification for using wool strings and thereby creating *shatnez*. The *mitzvah* does not override the prohibition when an alternative is available.
 
@@ -134,29 +139,36 @@ But when *techelet* is absent — whether because it was never attached or becau
 
 ### Rejected Solutions
 
-> **Hebrew/Aramaic:** וְלִיבְדְּקוּהָ, אֶלָּא גְּזֵירָה מִשּׁוּם טְעִימָה.
->
-> **Translation:** The Gemara suggests: **And let them test** the strings to ascertain whether they are dyed with indigo or with *tekhelet*, as explained by the Gemara (42b). The Gemara responds: **Rather,** the prohibition against affixing ritual fringes to a linen garment is a rabbinic **decree due to** the concern that perhaps the sky-blue strings were colored with *tekhelet* dye that had been used for **testing** the color of the dye in the vat and therefore became unfit (see 42b). In such a case, there would be no fulfillment of the mitzva of sky-blue ritual fringes to override the prohibition against wearing a garment of wool and linen.
-
 Given the problem of *kala ilan*, the *Gemara* considers several possible remedies. First: *u'livdeki* — why not institute rabbinic inspectors who circulate through the market, test the dye being sold, and certify its authenticity? There are indeed established tests for distinguishing *techelet* from *kala ilan*. The *Gemara* rejects this: *ella gezeirah mishum ta'ama* — there is a concern that in running the test, the inspector takes a sample, performs the test, and then pours the tested dye back into the main vat, thereby invalidating the entire vat. Even legitimate *techelet* would be corrupted by this procedure. So inspection would itself cause damage to the supply it was meant to protect.
 
 Second: *lichtov adiski* — why not post public notices? These could inform buyers of the criteria for genuine *techelet*, or instruct those doing inspections not to pour the tested sample back into the vat. The *Gemara* dismisses this as well: *adiskatei liku u'lismoch* — one cannot rely on posted notices. People are inattentive and inconsistent; the kind of individual-level compliance required here, particularly in the moment after one has already run the test and is casually handling the remainder, cannot be secured by a placard. The *Gemara*'s sensitivity to human nature is notable: on the one hand, it refuses to capitulate to ignorance of law; on the other hand, it is realistic about the limits of what formal mechanisms — inspectors, notices — can actually achieve in practice.
+
+> **Hebrew/Aramaic:** וְלִיבְדְּקוּהָ, אֶלָּא גְּזֵירָה מִשּׁוּם טְעִימָה.
+> **Translation:** The Gemara suggests: **And let them test** the strings to ascertain whether they are dyed with indigo or with *tekhelet*, as explained by the Gemara (42b). The Gemara responds: **Rather,** the prohibition against affixing ritual fringes to a linen garment is a rabbinic **decree due to** the concern that perhaps the sky-blue strings were colored with *tekhelet* dye that had been used for **testing** the color of the dye in the vat and therefore became unfit (see 42b). In such a case, there would be no fulfillment of the mitzva of sky-blue ritual fringes to override the prohibition against wearing a garment of wool and linen.
 
 ---
 
 ## Spilling Back Dye
 
+
+
 ### Testing Invalidates
 
-> **Hebrew/Aramaic:** וְלִיכְתְּבָה אַדִּיסְקֵי! אַדִּיסְקֵי לֵיקוּם וְלִיסְמוֹךְ? אָמַר רָבָא: הַשְׁתָּא חָמֵץ בְּפֶסַח וְיוֹם הַכִּפּוּרִים דְּכָרֵת – סָמְכִינַן אַדִּיסְקֵי, הָכָא דַּעֲשֵׂה בְּעָלְמָא לֹא כׇּל שֶׁכֵּן!
->
-> **Translation:** The Gemara suggests: **Let** the Sages **write letters** informing dye producers that *tekhelet* that was used for testing the color of the dye in the vat is unfit for ritual fringes. The Gemara explains: **Shall we go and rely on letters,** assuming that dye producers will follow the instructions they contain? **Rava** responded to this and **said: Now,** with regard to the prohibitions against eating **leavened bread on Passover and** eating on **Yom Kippur, which** are punishable by ***karet*, we rely on letters** sent from the rabbinical court in Eretz Yisrael publicizing whether the year was declared a leap year and when they have declared the New Moon; **here,** with regard to the mitzva of ritual fringes, **which** is **merely a positive mitzva,** is it **not all the more so** correct that letters can be relied on?
 
 The *Gemara* now examines the *gezeirah mishum ta'ama* concern more closely — the problem that testing the dye and then spilling the tested portion back into the vat renders the vat invalid. This is the specific mechanism that defeats the inspector solution. One who runs the authenticity test on a sample of dye and then returns that sample to the main supply has, in the process, invalidated what would otherwise be *kosher techelet*. The *Gemara* later addresses what precisely makes pouring back the tested dye problematic; for now, the concern is established as the reason why a rabbinic inspection regime cannot adequately police the *techelet* market.
 
+It is worth noting that the inspectors were not necessarily envisioned as a centralized rabbinic police force descending on merchants. A more natural reading of the proposal is that consumers themselves would be empowered — taught the relevant tests so that each buyer could verify what he was purchasing before committing to it, much as one might spend time carefully examining one's *hadasim* and *lulavim* before acquiring them for *Sukkot*. That reading makes the proposal more practical and more plausible; it is arguably the stronger version of the argument for enforcement. Even so, the *Gemara*'s response applies with equal force: the individual who performs the test is just as likely as any formal inspector to casually pour the tested sample back into the vat afterward, and no mechanism can reliably prevent that moment of inattention at scale.
+
 Alongside this concern runs the earlier proposal of posting notices — which could address the problem by instructing inspectors not to pour the sample back. The *Gemara* treats both solutions together: neither inspection alone nor posted notices accompanying inspection is sufficient to reliably protect the integrity of the dye supply.
 
+[DAF:40b]
 ### Holiday Announcements
+
+> **Hebrew/Aramaic:** וְלִיכְתְּבָה אַדִּיסְקֵי! אַדִּיסְקֵי לֵיקוּם וְלִיסְמוֹךְ? אָמַר רָבָא: הַשְׁתָּא
+> **Translation:** The Gemara suggests: **Let** the Sages **write letters** informing dye producers that *tekhelet* that was used for testing the color of the dye in the vat is unfit for ritual fringes. The Gemara explains: **Shall we go and rely on letters,** assuming that dye producers will follow the instructions they contain? **Rava** responded to this and **said: Now,**
+
+> **Hebrew/Aramaic:** חָמֵץ בְּפֶסַח וְיוֹם הַכִּפּוּרִים דְּכָרֵת – סָמְכִינַן אַדִּיסְקֵי, הָכָא דַּעֲשֵׂה בְּעָלְמָא לֹא כׇּל שֶׁכֵּן!
+> **Translation:** with regard to the prohibitions against eating **leavened bread on Passover and** eating on **Yom Kippur, which** are punishable by ***karet*, we rely on letters** sent from the rabbinical court in Eretz Yisrael publicizing whether the year was declared a leap year and when they have declared the New Moon; **here,** with regard to the mitzva of ritual fringes, **which** is **merely a positive mitzva,** is it **not all the more so** correct that letters can be relied on?
 
 Rava in the name of Rav Yosef pushes back: surely we can rely on notices. The *Gemara* has now turned to 40b. Rav Yosef argues: *chametz b'Pesach v'Yom HaKippurim d'kares samchinan* — when the rabbinic court intercalated a leap year, adding an extra month to the calendar, they sent notices out to the diaspora to inform communities of the change, and we relied on those communities receiving and heeding those notices for matters as serious as observing *Yom Kippur* on the correct day and avoiding *chametz* on the correct date of *Pesach* — transgressions punishable by *karet*. If we rely on notices in those high-stakes communal contexts, should we not certainly be able to rely on notices for a simpler matter like this?
 
@@ -166,11 +178,15 @@ There is, however, a meaningful distinction. The calendar announcement is receiv
 
 ## Corner Tearing
 
+
+
 ### Tearing & Sewing
 
-> **Hebrew/Aramaic:** אֶלָּא אָמַר רָבָא: הָא מִילְּתָא אָמְרִי, וְאִיתְּמַר בְּמַעְרְבָא מִשּׁוּם דְּרַבִּי זֵירָא כְּוָותִי: שֶׁמָּא יִקָּרַע סְדִינוֹ בְּתוֹךְ שָׁלֹשׁ וְיִתְפְּרֶנּוּ. וְהַתּוֹרָה אָמְרָה: ״תַּעֲשֶׂה״ – וְלֹא מִן הֶעָשׂוּי.
->
-> **Translation:** **Rather, Rava said: This is a statement** that **I said, and it was stated in the West,** Eretz Yisrael, **in the name of Rabbi Zeira in accordance with my** opinion: The reason for the rabbinic decree is **lest** one's **cloak rip within three** fingerbreadths of the edge of the corner of the garment, which is where the ritual fringes are placed, **and he sew it** with linen string and then use the excess string for ritual fringes. **And** in such a case the ritual fringes would be unfit because **the Torah states:** "You shall prepare yourself twisted cords" (Deuteronomy 22:12), which teaches: **Prepare** it, **and not from what has already been prepared.** Consequently, the strings must be attached to the garment for the sake of the mitzva of ritual fringes. When the individual places the linen string there in order to stitch the garment and then decides to use it for the mitzva of ritual fringes and adds sky-blue wool strings, he does not fulfill the mitzva of ritual fringes and violates the prohibition against wearing a garment of wool and linen.
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רָבָא: הָא מִילְּתָא אָמְרִי, וְאִיתְּמַר בְּמַעְרְבָא מִשּׁוּם דְּרַבִּי זֵירָא כְּוָותִי: שֶׁמָּא יִקָּרַע סְדִינוֹ בְּתוֹךְ שָׁלֹשׁ וְיִתְפְּרֶנּוּ.
+> **Translation:** **Rather, Rava said: This is a statement** that **I said, and it was stated in the West,** Eretz Yisrael, **in the name of Rabbi Zeira in accordance with my** opinion: The reason for the rabbinic decree is **lest** one’s **cloak rip within three** fingerbreadths of the edge of the corner of the garment, which is where the ritual fringes are placed, **and he sew it** with linen string and then use the excess string for ritual fringes.
+
+> **Hebrew/Aramaic:** וְהַתּוֹרָה אָמְרָה: ״תַּעֲשֶׂה״ – וְלֹא מִן הֶעָשׂוּי.
+> **Translation:** **And** in such a case the ritual fringes would be unfit because **the Torah states:** “You shall prepare yourself twisted cords” (Deuteronomy 22:12), which teaches: **Prepare** it, **and not from what has already been prepared.** Consequently, the strings must be attached to the garment for the sake of the mitzva of ritual fringes. When the individual places the linen string there in order to stitch the garment and then decides to use it for the mitzva of ritual fringes and adds sky-blue wool strings, he does not fulfill the mitzva of ritual fringes and violates the prohibition against wearing a garment of wool and linen.
 
 The *Gemara*'s ultimate answer, cited by Rava as having been stated in Eretz Yisrael in the name of Rabbi Zeira, is the following: *shema yikara sadino betoch gimel ve'yitferenu, v'haTorah amrah ta'aseh velo min ha'asuy*. The concern is that the corner of one's linen garment — the very corner from which the *tzitzit* hang — will tear, and the owner will sew it back onto the garment. The Torah requires *ta'aseh*, an active making of *tzitzit*; it disqualifies *min ha'asuy*, a situation in which the *tzitzit* were not actively attached to the garment but effectively pre-existed the garment in its current form. When a person sews a torn corner — which still has its *tzitzit* — back onto the garment, the *tzitzit* have not been newly attached; rather, a piece of cloth bearing pre-existing *tzitzit* has been reincorporated. This violates *ta'aseh velo min ha'asuy*, and the *tzitzit* are therefore invalid.
 

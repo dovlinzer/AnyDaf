@@ -1,0 +1,311 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Marketplace Inquiry",
+    "candidates": [
+      "Marketplace Inquiry",
+      "Defining Gufei M'chulakin",
+      "Me'ilah Five Pots",
+      "Rabbi Shimon's Shift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the Mishnah passage the 'Marketplace Inquiry' prose describes: Rabbi Akiva's question about slaughtering five offerings outside the Temple in one lapse of awareness, and Rabbi Yehoshua's initial response drawing on the me'ilah/five-pots tradition with a kal vachomer \u2014 precisely what that section's prose summarizes.",
+      "chosen_heading": "Marketplace Inquiry",
+      "current_heading": "Marketplace Inquiry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rabbi Shimon's Shift",
+    "candidates": [
+      "Defining Gufei M'chulakin",
+      "Me'ilah Five Pots",
+      "Rabbi Shimon's Shift",
+      "Akiva's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Shimon clarifying that Rabbi Akiva's original question was about eating notar from five offerings, not about shechitah \u2014 which is precisely what the 'Rabbi Shimon's Shift' prose section describes.",
+      "chosen_heading": "Rabbi Shimon's Shift",
+      "current_heading": "Rabbi Shimon's Shift",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Akiva's Distinction",
+    "candidates": [
+      "Akiva's Distinction",
+      "Braita Notar/Me'ilah"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Akiva's Distinction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are the Tannaitic dialogue between Rabbi Yehoshua and Rabbi Akiva about the a fortiori inference from me'ilah to notar, which is exactly what candidate 0's prose describes.",
+      "second_heading": "Braita Notar/Me'ilah",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 begin with 'GEMARA:' marking a new structural unit \u2014 the Gemara's analysis reconstructing what was actually asked, which sets up the braita discussion described in candidate 1's prose.",
+      "current_heading": "Akiva's Distinction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Braita Notar/Me'ilah",
+    "candidates": [
+      "Braita Notar/Me'ilah",
+      "Braita Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form the continuous baraita content (the series of notar/me'ilah cases and Rabbi Yose b'Rabbi Yehuda's ruling) that the prose under heading 0 ('Braita Notar/Me'ilah') explicitly describes in detail, including the five-pots cases, five-zevachim cases, Rabbi Yose b'Rabbi Yehuda's opinion, and the me'ilah ruling.",
+      "chosen_heading": "Braita Notar/Me'ilah",
+      "current_heading": "Braita Notar/Me'ilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Braita Attribution",
+    "candidates": [
+      "Braita Attribution",
+      "Braita Multiple Voices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's argument attributing the braita to Rabbi Yehoshua rather than Rabbi Akiva \u2014 item 1 raises the problem with Rabbi Akiva attribution (missing asham talui for doubtful me'ilah) and item 2 concludes it must be Rabbi Yehoshua who accepted from Rabbi Akiva, which is precisely what the 'Braita Attribution' prose discusses in detail.",
+      "chosen_heading": "Braita Attribution",
+      "current_heading": "Braita Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Braita Multiple Voices",
+    "candidates": [
+      "Braita Multiple Voices",
+      "Shmuel's Definition",
+      "Amoraic Opinions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items continue the same Gemara discussion about whether Rabbi Yehoshua accepted Rabbi Akiva's refutation, concluding with tannai hi and the possibility that the baraita reflects Rabbi Akiva's view on he'elam while disagreeing on me'ilah \u2014 exactly what the 'Braita Multiple Voices' prose describes.",
+      "chosen_heading": "Braita Multiple Voices",
+      "current_heading": "Braita Multiple Voices",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Amoraic Opinions",
+    "candidates": [
+      "Shmuel's Definition",
+      "Amoraic Opinions",
+      "Akiva's Shabbat Q"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel's Definition",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Shmuel's definition of the five me'ilah cases, which is precisely what candidate 0 ('Shmuel's Definition') discusses in its prose.",
+      "second_heading": "Amoraic Opinions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Chizkiya, Reish Lakish, Rabbi Yitzchak Nappa\u1e25a, and Rabbi Yochanan's alternative definitions, which matches exactly the content described in candidate 1 ('Amoraic Opinions').",
+      "current_heading": "Amoraic Opinions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Akiva's Shabbat Q",
+    "candidates": [
+      "Akiva's Shabbat Q",
+      "Shabbat vs Melachot",
+      "Eliezer's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna text of Rabbi Akiva's question to Rabbi Eliezer about multiple labors on multiple Shabbatot in one lapse of awareness, which is precisely what heading 0 ('Akiva's Shabbat Q') introduces and discusses.",
+      "chosen_heading": "Akiva's Shabbat Q",
+      "current_heading": "Akiva's Shabbat Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Eliezer's Response",
+    "candidates": [
+      "Shabbat vs Melachot",
+      "Eliezer's Response",
+      "Objects vs Subjects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Eliezer's kal vachomer response about liability for each Shabbos based on the niddah comparison, which is precisely what the 'Eliezer's Response' section prose describes in detail.",
+      "chosen_heading": "Eliezer's Response",
+      "current_heading": "Eliezer's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Objects vs Subjects",
+    "candidates": [
+      "Objects vs Subjects",
+      "Minor Women Case",
+      "Akiva on Minors",
+      "Shabbat as Object",
+      "Animal Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Akiva's argument that niddah has two prohibitions (on both parties) while Shabbat has only one, which is precisely the 'Objects vs Subjects' conceptual point discussed in that section's prose.",
+      "chosen_heading": "Objects vs Subjects",
+      "current_heading": "Objects vs Subjects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Animal Case",
+    "candidates": [
+      "Minor Women Case",
+      "Akiva on Minors",
+      "Shabbat as Object",
+      "Animal Case",
+      "Days as Separation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together form the continuous exchange about the animal case \u2014 Rabbi Eliezer's challenge from minor girls, Rabbi Akiva's response distinguishing minors from Shabbat, and Rabbi Eliezer's follow-up with the animal case plus Rabbi Akiva's 'habeheimah keShabbos' reply \u2014 which is precisely what the 'Animal Case' prose section describes in detail.",
+      "chosen_heading": "Animal Case",
+      "current_heading": "Animal Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Days as Separation",
+    "candidates": [
+      "Days as Separation",
+      "General Principle",
+      "Forgetting Day",
+      "Forgetting Melachot",
+      "Why Not Multiplied",
+      "Final Synthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The entire passage is one continuous sugya analyzing Rabbi Akiva's dilemma(s) before Rabbi Eliezer, and candidate 0's prose covers the core content including Rava's two-dilemma answer and the Mishnah analysis, making it the best single home for all 16 items.",
+      "chosen_heading": "Days as Separation",
+      "current_heading": "Days as Separation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Final Synthesis",
+    "candidates": [
+      "General Principle",
+      "Forgetting Day",
+      "Forgetting Melachot",
+      "Why Not Multiplied",
+      "Final Synthesis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items discuss Rav \u1e24isda's clarification of Rabbi Akiva's dilemma to Rabbi Eliezer \u2014 specifically about zadon Shabbat v'shiggagat melachot and whether intervening days create yedia l'chalek \u2014 which is precisely the synthesis described in the 'Final Synthesis' prose.",
+      "chosen_heading": "Final Synthesis",
+      "current_heading": "Final Synthesis",
+      "moved": false
+    }
+  }
+]

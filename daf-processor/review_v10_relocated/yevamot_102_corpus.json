@@ -1,0 +1,262 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Ger Dan Chaveiro",
+    "candidates": [
+      "Chalitzah & Beit Din",
+      "Ger Dan Chaveiro",
+      "Rav Moshe & Authority",
+      "Chalitzah Parentage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Talmudic source for 'ger dan et chaveiro' \u2014 the ruling that a convert may judge a fellow convert, derived from the Deuteronomy verse about 'mikerev achecha' \u2014 which is precisely what the 'Ger Dan Chaveiro' section's prose discusses and introduces.",
+      "chosen_heading": "Ger Dan Chaveiro",
+      "current_heading": "Ger Dan Chaveiro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Chalitzah Parentage",
+    "candidates": [
+      "Rav Moshe & Authority",
+      "Chalitzah Parentage",
+      "Rashi vs. Tosafot",
+      "Eliyahu & Minhag"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the chalitzah-specific requirement that both parents must be from Israel (ad she'aviv v'imo miyisrael) with the derivation from v'nikra shemo b'Yisrael, which is precisely what the 'Chalitzah Parentage' prose section discusses in detail.",
+      "chosen_heading": "Chalitzah Parentage",
+      "current_heading": "Chalitzah Parentage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Eliyahu & Minhag",
+    "candidates": [
+      "Rashi vs. Tosafot",
+      "Eliyahu & Minhag",
+      "Shoe vs. Sandal",
+      "R. Yehuda B. Beteira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items concern the Elijah/minhag teaching about shoe vs. sandal in chalitzah \u2014 the two versions of Rav Kahana citing Rav (items 1\u20132) and the ikka beineihu about shoe lechatchila (item 3) \u2014 which is precisely what the 'Eliyahu & Minhag' prose discusses in detail.",
+      "chosen_heading": "Eliyahu & Minhag",
+      "current_heading": "Eliyahu & Minhag",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "R. Yehuda B. Beteira",
+    "candidates": [
+      "Shoe vs. Sandal",
+      "R. Yehuda B. Beteira",
+      "Heel vs. Foot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what heading 0 ('Shoe vs. Sandal') describes: the bedi'avad/lechatchila question about a shoe, the mishna's parallel phrasing explanation, the baraita with Rabbi Yosi's journey to Netzivin and the encounter with the elder about Rabbi Yehuda ben Beteira, followed by Rabbi Ya'akov's ruling, the me'al de-me'al rejection, the gezeirah mishum minal merupat, the chatzi minal concern, and Rav's statement about sandal types \u2014 all of which the prose of heading 0 explicitly discusses.",
+      "chosen_heading": "Shoe vs. Sandal",
+      "current_heading": "R. Yehuda B. Beteira",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Heel vs. Foot",
+    "candidates": [
+      "R. Yehuda B. Beteira",
+      "Heel vs. Foot",
+      "Process vs. Result"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous gemara discussion about heel vs. foot (rov ha-akeiv vs. rov ha-regel) that candidate 1's prose explicitly describes \u2014 Rav Yehuda's ruling, the baraita objection, and the inferential challenge are all part of that single sugya.",
+      "chosen_heading": "Heel vs. Foot",
+      "current_heading": "Heel vs. Foot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Process vs. Result",
+    "candidates": [
+      "Process vs. Result",
+      "Double Shoes"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Double Shoes",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 rejects an inference about 'most of the foot' vs 'most of the heel,' which is a clarification about the anatomy/terminology used in the preceding discussion about how much of the shoe must be removed \u2014 this belongs under 'Double Shoes' which deals with removal and foot exposure questions, but more precisely it wraps up a prior point not fully captured in either prose section; however the Double Shoes prose's chakira ('chalitzah be'inan ve-ika... o dilma gilluya de-khar'a be'inan ve-leika') is closer to this anatomical clarification about what 'most of the foot' means in the context of heel/foot exposure.",
+      "second_heading": "Process vs. Result",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is precisely the content described in the 'Process vs. Result' prose \u2014 Rabbi Yannai's ruling that she must both untie and remove, followed by his questions about ripping or burning the shoe, and the chakira between foot-exposure and formal removal act, ending in teiku.",
+      "current_heading": "Process vs. Result",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Double Shoes",
+    "candidates": [
+      "Double Shoes",
+      "Informal Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the double-shoe scenario \u2014 item 1 presents the question and item 2 confirms its real-world basis with Rav Yehuda's five pairs of shoes \u2014 which is precisely what the 'Double Shoes' prose section describes.",
+      "chosen_heading": "Double Shoes",
+      "current_heading": "Double Shoes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Informal Removal",
+    "candidates": [
+      "Informal Removal",
+      "Intent Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form one continuous sugya \u2014 Rav's ruling about the yevama who grew up among the brothers and the subsequent challenge/resolution regarding kavanah \u2014 which is precisely what the 'Informal Removal' prose discusses in full, including the baraita about bilateral intent.",
+      "chosen_heading": "Informal Removal",
+      "current_heading": "Informal Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Intent Requirement",
+    "candidates": [
+      "Intent Requirement",
+      "Tachash Leather"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the two opinions about whether seeing the removal would create concern, and the distinction between chalitzah that disqualifies the brothers versus permits marriage to a stranger \u2014 exactly what the prose under 'Intent Requirement' discusses in detail.",
+      "chosen_heading": "Intent Requirement",
+      "current_heading": "Intent Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Tachash Leather",
+    "candidates": [
+      "Tachash Leather",
+      "Hair Straps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the Rav Yehuda/Rav ruling about flax-sewn sandals and the tachash verse, which is precisely what the 'Tachash Leather' section prose describes in detail.",
+      "chosen_heading": "Tachash Leather",
+      "current_heading": "Tachash Leather",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Hair Straps",
+    "candidates": [
+      "Hair Straps",
+      "Remove Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Elazar's question to Rav about a leather shoe with hair straps, which is precisely what the 'Hair Straps' section prose describes in detail.",
+      "chosen_heading": "Hair Straps",
+      "current_heading": "Hair Straps",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Remove Definition",
+    "candidates": [
+      "Remove Definition",
+      "Heretic's Polemic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items are the continuous Gemara discussion proving that 'chalatz' means removal rather than strengthening, which is precisely what the 'Remove Definition' section's prose describes in detail.",
+      "chosen_heading": "Remove Definition",
+      "current_heading": "Remove Definition",
+      "moved": false
+    }
+  }
+]

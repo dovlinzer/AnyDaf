@@ -1,0 +1,332 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Rav: No Kiddushin",
+    "candidates": [
+      "Rav: No Kiddushin",
+      "Shmuel's Doubt",
+      "Rav Ashi Application"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav: No Kiddushin",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav's teaching that kiddushin does not take effect with a yevamah, which matches exactly the prose under 'Rav: No Kiddushin' describing Rav's drashah from the verse.",
+      "second_heading": "Shmuel's Doubt",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Shmuel's response expressing doubt and requiring a get, which matches exactly the prose under 'Shmuel's Doubt' describing Shmuel's uncertainty and his requirement of a get mi-safek.",
+      "current_heading": "Rav: No Kiddushin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rav Ashi Application",
+    "candidates": [
+      "Shmuel's Doubt",
+      "Rav Ashi Application",
+      "Sinner Rewarded Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Mari bar Ra\u1e25el reporting Ameimar's ruling to Rav Ashi and Rav Ashi's practical application regarding a kohen yavam performing \u1e25alitza, which is precisely what the 'Rav Ashi Application' prose section discusses.",
+      "chosen_heading": "Rav Ashi Application",
+      "current_heading": "Rav Ashi Application",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Sinner Rewarded Problem",
+    "candidates": [
+      "Sinner Rewarded Problem",
+      "Tosafos Kiddushin/Nisuin",
+      "Rav Gidel Statement",
+      "Nisuin Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'sinner benefiting' objection and its resolution (second man gives a get, she is permitted to the yavam), which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Sinner Rewarded Problem",
+      "current_heading": "Sinner Rewarded Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Nisuin Interpretations",
+    "candidates": [
+      "Tosafos Kiddushin/Nisuin",
+      "Rav Gidel Statement",
+      "Nisuin Interpretations",
+      "Rabbi Yannai Vote",
+      "Rabbi Yochanan Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the exact Rav Giddel/Rav \u1e24iyya bar Yosef/Rav statement plus its immediate Gemara challenge and three resolutions \u2014 precisely what the 'Rav Gidel Statement' prose describes as 'yevamah kiddushin ein bah, nisuin yesh bah' with the objection 'ei kiddushin ein bah, nisuin nami ein bah,' while the current heading 'Nisuin Interpretations' prose discusses the three interpretations as already-cited material, suggesting the passage should sit under the heading that introduces the original statement and challenge.",
+      "chosen_heading": "Rav Gidel Statement",
+      "current_heading": "Nisuin Interpretations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Rabbi Yochanan Proof",
+    "candidates": [
+      "Rabbi Yannai Vote",
+      "Rabbi Yochanan Proof",
+      "Reish Lakish Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both Rabbi Yannai's statement about the group vote AND Rabbi Yochanan's response with the mishnah proof AND Rabbi Yannai's rejoinder about the pearl, making it a single unified exchange that begins with Rabbi Yannai's vote (heading 0) rather than being split; however, since the passage covers content of both headings 0 and 1, and the current placement under heading 1 is also defensible, the opening of the passage (Rabbi Yannai's vote) suggests heading 0 is the better single home for the complete exchange.",
+      "chosen_heading": "Rabbi Yannai Vote",
+      "current_heading": "Rabbi Yochanan Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Reish Lakish Challenge",
+    "candidates": [
+      "Reish Lakish Challenge",
+      "Rabbi Akiva Position",
+      "Konamic Vow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Reish Lakish's challenge to Rav Yohanan about the mishnah potentially reflecting only Rabbi Akiva's view on kiddushin not taking effect for chayavei lavin, which is precisely what the 'Reish Lakish Challenge' prose describes.",
+      "chosen_heading": "Reish Lakish Challenge",
+      "current_heading": "Reish Lakish Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Konamic Vow",
+    "candidates": [
+      "Rabbi Akiva Position",
+      "Konamic Vow",
+      "Rav Huna Hands"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's proof that Rabbi Akiva holds 'adam makneh davar shelo ba la'olam' \u2014 item 1 introduces the question and cites the mishna as proof, items 2-3 are that mishna \u2014 which matches exactly the prose of candidate 0 ('Rabbi Akiva Position') describing how the Gemara introduces this proof via the konam mishna to show Rabbi Akiva's position, not candidate 1 ('Konamic Vow') where they currently sit.",
+      "chosen_heading": "Rabbi Akiva Position",
+      "current_heading": "Konamic Vow",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Rav Huna Hands",
+    "candidates": [
+      "Konamic Vow",
+      "Rav Huna Hands",
+      "Rav Nachman Lineage",
+      "Rav Huna Fruit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Huna son of Rav Yehoshua's qualification about 'yikdeshu yadai la'oseihen' and the hands existing in the world, which is precisely what the 'Rav Huna Hands' section's prose discusses and analyzes.",
+      "chosen_heading": "Rav Huna Hands",
+      "current_heading": "Rav Huna Hands",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Rav Huna Fruit",
+    "candidates": [
+      "Rav Nachman Lineage",
+      "Rav Huna Fruit",
+      "Rav Field Sale"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Nachman Lineage",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the chain of tradition from Rav Huna back to Rabbi Akiva \u2014 exactly what candidate 0 ('Rav Nachman Lineage') describes in its prose.",
+      "second_heading": "Rav Huna Fruit",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20133 detail Rav Huna's palm-fruit case and Rav Nachman's disagreement with the concession about seizure \u2014 precisely what candidate 1 ('Rav Huna Fruit') discusses in its prose.",
+      "current_heading": "Rav Huna Fruit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Rav Field Sale",
+    "candidates": [
+      "Rav Field Sale",
+      "Me'achshav",
+      "Rabbi Yannai Sharecrop",
+      "Rabbi Hiyya Dream"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Huna's transmission of Rav's ruling about the field sale, which is precisely what the 'Rav Field Sale' section's prose discusses.",
+      "chosen_heading": "Rav Field Sale",
+      "current_heading": "Rav Field Sale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Rabbi Hiyya Dream",
+    "candidates": [
+      "Me'achshav",
+      "Rabbi Yannai Sharecrop",
+      "Rabbi Hiyya Dream",
+      "Rebbe Slave Freedom"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together tell the complete Rabbi Yannai sharecropper story \u2014 the setup, Rabbi Hiyya's validation, and the dream exchange \u2014 and candidate 1 ('Rabbi Yannai Sharecrop') explicitly describes this entire narrative including the dream/kaneh ratzutz conclusion, making it the better home than candidate 2 which duplicates this content but is the current (redundant) placement.",
+      "chosen_heading": "Rabbi Yannai Sharecrop",
+      "current_heading": "Rabbi Hiyya Dream",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rebbe Slave Freedom",
+    "candidates": [
+      "Rabbi Hiyya Dream",
+      "Rebbe Slave Freedom",
+      "Rabbi Meir Conditional",
+      "Rabbi Elazar Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehuda HaNasi's interpretation of 'lo tasgir eved' regarding purchasing a slave to free him, with Rav Nachman bar Yitzchak's specification of the 'me'achshav' mechanism \u2014 exactly what the 'Rebbe Slave Freedom' prose describes.",
+      "chosen_heading": "Rebbe Slave Freedom",
+      "current_heading": "Rebbe Slave Freedom",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Rabbi Elazar Terumah",
+    "candidates": [
+      "Rabbi Meir Conditional",
+      "Rabbi Elazar Terumah",
+      "Rabbi Akiva Earnings",
+      "Why Believe Ed Echad",
+      "Woman Loves Brother"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items (Rabbi Meir on kiddushin, Rabbi Eliezer ben Ya'akov on teruma, Rabbi Akiva on konam) are part of a single chain of sources illustrating 'adam makneh davar shelo ba la'olam', and the current placement under 'Rabbi Elazar Terumah' is where this entire multi-source passage sits \u2014 but more precisely, the passage spans headings 0, 1, and 2 as a unified list; since the current placement is index 1 and all items belong together, and index 1's prose explicitly discusses the Rabbi Eliezer ben Ya'akov baraita which is the middle item, the passage as a whole is best kept at its current location.",
+      "chosen_heading": "Rabbi Elazar Terumah",
+      "current_heading": "Rabbi Elazar Terumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Woman Loves Brother",
+    "candidates": [
+      "Rabbi Akiva Earnings",
+      "Why Believe Ed Echad",
+      "Woman Loves Brother",
+      "Mishnah Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both theories about why we believe a single witness (the 'will be discovered' rationale and the 'woman investigates' rationale) as a unified dilemma, and the prose of 'Why Believe Ed Echad' explicitly introduces and frames this exact dilemma including both theories, while 'Woman Loves Brother' only covers the second theory's implications.",
+      "chosen_heading": "Why Believe Ed Echad",
+      "current_heading": "Woman Loves Brother",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Mishnah Evidence",
+    "candidates": [
+      "Woman Loves Brother",
+      "Mishnah Evidence",
+      "Conclusion Ed Echad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form the continuous Rav Sheshet analysis of the mishnah \u2014 the two-and-two problem, the mamzer/safek-mamzer problem, and the conclusion that the original testimony was from a single witness \u2014 which is precisely what the 'Mishnah Evidence' prose describes.",
+      "chosen_heading": "Mishnah Evidence",
+      "current_heading": "Mishnah Evidence",
+      "moved": false
+    }
+  }
+]

@@ -49,7 +49,7 @@
         }
       ],
       "sefaria_index": 2,
-      "matched": false
+      "matched": true
     },
     {
       "title": "Private Altars and the Requirement of Libations: Tannaitic Dispute",
@@ -72,8 +72,8 @@
           "timestamp": "05:01"
         }
       ],
-      "sefaria_index": 6,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Scriptural Interpretation: When Libations Became Obligatory—Rabbi Yishmael vs. Rabbi Akiva",
@@ -97,7 +97,7 @@
         }
       ],
       "sefaria_index": 6,
-      "matched": false
+      "matched": true
     },
     {
       "title": "The Sprinkling of Remaining Blood: Rabbi Nechemya's Position and Its Implications",
@@ -454,5 +454,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "22:28",
+  "amud_b_micro_title": "Shechitah Chutz",
+  "shiur_start_daf": 110,
+  "shiur_start_amud": "b"
 }

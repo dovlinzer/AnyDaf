@@ -1,0 +1,434 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Pachya Eggs & Intent",
+    "candidates": [
+      "Rav's Statement",
+      "Pachya Eggs & Intent",
+      "Dichrei Eggs Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the pachya eggs case \u2014 someone asking for laid eggs, receiving eggs from a slaughtered hen, and Rabbi Ami ruling mekach ta'ut \u2014 which is precisely what candidate 1's prose discusses.",
+      "chosen_heading": "Pachya Eggs & Intent",
+      "current_heading": "Pachya Eggs & Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Dichrei Eggs Case",
+    "candidates": [
+      "Dichrei Eggs Case",
+      "Rubah vs. Kulah",
+      "Yochanan's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuation of the 'dichrei eggs' case \u2014 item 1 is the pshita/objection-resolution for the previous (dafchya) case that leads into item 2's new dichrei incident, and item 3 is the pshita/resolution for that dichrei case \u2014 all of which matches exactly the prose of candidate 0.",
+      "chosen_heading": "Dichrei Eggs Case",
+      "current_heading": "Dichrei Eggs Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Yochanan's Ruling",
+    "candidates": [
+      "Rubah vs. Kulah",
+      "Yochanan's Ruling",
+      "Complete Eggs Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the two opposing interpretations of Rav's phrase \u2014 the rubah view (supported by Rabbi Yo\u1e25anan) and the kulah view (which excludes Rabbi Yo\u1e25anan) \u2014 which is precisely what candidate 0 ('Rubah vs. Kulah') describes in its prose.",
+      "chosen_heading": "Rubah vs. Kulah",
+      "current_heading": "Yochanan's Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Complete Eggs Status",
+    "candidates": [
+      "Yochanan's Ruling",
+      "Complete Eggs Status",
+      "Braita on Neveilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ruling about fully formed eggs found in a slaughtered chicken and Rabbi Ya'akov's condition regarding sinews, which is precisely what the 'Complete Eggs Status' prose describes.",
+      "chosen_heading": "Complete Eggs Status",
+      "current_heading": "Complete Eggs Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Braita on Neveilah",
+    "candidates": [
+      "Braita on Neveilah",
+      "Authorship Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita text itself \u2014 the permissive side (item 1) and the stringent side (item 2) \u2014 which is precisely what heading 0 ('Braita on Neveilah') describes in its prose, including the shalal/eshkol distinction and the enumeration of what renders one tamei or tahor.",
+      "chosen_heading": "Braita on Neveilah",
+      "current_heading": "Braita on Neveilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Authorship Question",
+    "candidates": [
+      "Authorship Question",
+      "Abaye's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yosef's statement that the braita is not in accordance with Rabbi Yaakov's opinion, which is precisely what the 'Authorship Question' section's prose describes.",
+      "chosen_heading": "Authorship Question",
+      "current_heading": "Authorship Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Abaye's Resolution",
+    "candidates": [
+      "Abaye's Resolution",
+      "General Principle",
+      "Hens & Daytime Birth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items cover exactly the content described in 'Abaye's Resolution': Abaye's challenge about issura vs. tum'ah, the apushi tum'ah principle, and the second version (ve-ika de-amri) about eshkol \u2014 all of which are explicitly discussed in that section's prose.",
+      "chosen_heading": "Abaye's Resolution",
+      "current_heading": "Abaye's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Hens & Daytime Birth",
+    "candidates": [
+      "General Principle",
+      "Hens & Daytime Birth",
+      "Rav Mari Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the general principle (kol she-tashmisho ba-yom nolad ba-yom, etc.) AND the specific examples (hen, bat, human), and the 'General Principle' section's prose explicitly describes both the general rule and mentions that examples follow, making it the better home; the 'Hens & Daytime Birth' section's prose treats the examples as already established and moves on to applications.",
+      "chosen_heading": "General Principle",
+      "current_heading": "Hens & Daytime Birth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Rav Mari Case",
+    "candidates": [
+      "Hens & Daytime Birth",
+      "Rav Mari Case",
+      "Rooster Presence",
+      "Ravina's Tradition",
+      "Rooster Voice Range"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rav Mari Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rav Mari's ruling and its defense (the hen lays only by day, so an egg found at dawn is permitted), which matches exactly the 'Rav Mari Case' prose.",
+      "second_heading": "Rooster Presence",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce the contradicting ruling of Rav Yosei ben Shaul/Rav about unfertilized eggs and Ravina's tradition that a rooster's presence prevents unfertilized laying, which matches the 'Rooster Presence' prose exactly.",
+      "current_heading": "Rav Mari Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Rooster Voice Range",
+    "candidates": [
+      "Rooster Presence",
+      "Ravina's Tradition",
+      "Rooster Voice Range",
+      "Sixty Houses Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together convey Rav Gamda's teaching about the rooster's voice range by day, which is precisely what the 'Rooster Voice Range' section's prose describes.",
+      "chosen_heading": "Rooster Voice Range",
+      "current_heading": "Rooster Voice Range",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Sixty Houses Rule",
+    "candidates": [
+      "Sixty Houses Rule",
+      "Rooster Obstacles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Mari's practical ruling involving searching sixty houses from the chicken, which directly matches the 'Sixty Houses Rule' prose about Rav Mari issuing a ruling based on sixty houses distance.",
+      "chosen_heading": "Sixty Houses Rule",
+      "current_heading": "Sixty Houses Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rooster Obstacles",
+    "candidates": [
+      "Rooster Obstacles",
+      "Safek Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes a chicken crossing obstacles (river, bridge, rope bridge) which directly matches the 'Rooster Obstacles' section prose discussing physical barriers and the incident of crossing a metzra.",
+      "chosen_heading": "Rooster Obstacles",
+      "current_heading": "Rooster Obstacles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Safek Resolution",
+    "candidates": [
+      "Safek Resolution",
+      "Tosafot's Caveat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous chain of question-and-answer about why Rabbi Yosei ben Shaul specified examining the nest, resolving the safek about whether the egg was laid before Yom Tov, and dismissing Rabbi Yo\u1e25anan's uncommon scenario \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Safek Resolution",
+      "current_heading": "Safek Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Tosafot's Caveat",
+    "candidates": [
+      "Tosafot's Caveat",
+      "Shammai's Amounts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage about crushed garlic and the danger of exposure is a tangential ruling by Rabbi Yosei ben Shaul in Rav's name, appended to another statement \u2014 it fits better as an aside introduced in the Gemara's flow toward the Mishnah disputes section (heading 1) than under Tosafot's caveat about davar she-yeish lo matirin, though neither is a perfect match.",
+      "chosen_heading": "Shammai's Amounts",
+      "current_heading": "Tosafot's Caveat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Shammai's Amounts",
+    "candidates": [
+      "Shammai's Amounts",
+      "Shammai's Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage simply states Beit Shammai's position on the measure for leaven (an olive-bulk), which matches the 'Shammai's Amounts' section describing their ruling on the minimum quantities of chametz and se'or.",
+      "chosen_heading": "Shammai's Amounts",
+      "current_heading": "Shammai's Amounts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Shammai's Reasoning",
+    "candidates": [
+      "Shammai's Reasoning",
+      "Hillel's Amounts",
+      "Hillel's Reasoning"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shammai's Reasoning",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Beit Shammai's reasoning for why the Torah's explicit mention of se'or teaches that its shiur differs from chametz, which is precisely what the 'Shammai's Reasoning' prose describes.",
+      "second_heading": "Hillel's Reasoning",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Beit Hillel's reasoning that both chametz and se'or needed to be stated explicitly because each has a unique stringency, matching the 'Hillel's Reasoning' prose exactly.",
+      "current_heading": "Shammai's Reasoning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Hillel's Reasoning",
+    "candidates": [
+      "Hillel's Amounts",
+      "Hillel's Reasoning",
+      "Eating vs. Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why chametz needed to be stated separately from se'or \u2014 because chametz is fit for consumption while se'or is not \u2014 which is precisely the reasoning described in the 'Hillel's Reasoning' prose about why neither can be derived from the other.",
+      "chosen_heading": "Hillel's Reasoning",
+      "current_heading": "Hillel's Reasoning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Eating vs. Ownership",
+    "candidates": [
+      "Eating vs. Ownership",
+      "Ownership Concept",
+      "Lechatchila vs. Di-eved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items address the same continuous topic \u2014 Rabbi Zeira's equating of se'or and chametz, the clarification that the dispute is about biyur not eating, Rabbi Yosei bar \u1e24anina's confirmation, and the supporting baraita \u2014 which is precisely what the 'Eating vs. Ownership' prose describes.",
+      "chosen_heading": "Eating vs. Ownership",
+      "current_heading": "Eating vs. Ownership",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Lechatchila vs. Di-eved",
+    "candidates": [
+      "Ownership Concept",
+      "Lechatchila vs. Di-eved",
+      "Rava's Reading",
+      "Rav Yosef's Version",
+      "Rav Zeira's Requirement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Lechatchila vs. Di-eved",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 work through the Gemara's textual analysis of whether ha-shochet is di-eved or lechatchila, matching exactly the 'Lechatchila vs. Di-eved' prose which describes precisely this problem and its resolution.",
+      "second_heading": "Rav Yosef's Version",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 present Rabba's and Rav Yosef's respective readings of the Mishnah as consulting scenarios, matching the 'Rava's Reading' and 'Rav Yosef's Version' sections \u2014 item 5 is Rabba/Rava's formulation (slaughter first) and item 6 is Rav Yosef's version (dig first), which corresponds exactly to heading index 3 'Rav Yosef's Version' as the final item, but since both belong together starting from item 5, the second segment begins at Rava's reading (index 2).",
+      "current_heading": "Lechatchila vs. Di-eved",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124,
+      125
+    ],
+    "current_heading": "Rav Zeira's Requirement",
+    "candidates": [
+      "Rava's Reading",
+      "Rav Yosef's Version",
+      "Rav Zeira's Requirement",
+      "Pre-existing Dirt",
+      "Rava's Caution",
+      "Yosef's Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present Abaye's suggestion that Rav Yosef and Rava dispute Rabbi Zeira's ruling requiring earth below and above the blood, which is precisely what candidate 2 ('Rav Zeira's Requirement') describes in its prose.",
+      "chosen_heading": "Rav Zeira's Requirement",
+      "current_heading": "Rav Zeira's Requirement",
+      "moved": false
+    }
+  }
+]

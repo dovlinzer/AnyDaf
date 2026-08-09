@@ -1,0 +1,302 @@
+[
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Gemara Mani",
+    "candidates": [
+      "Previous Daf Review",
+      "Ran vs. Rambam",
+      "Shevuah Actions",
+      "Neder Language",
+      "Korban Lo Ochal",
+      "Ha-Korban Pause",
+      "Klal Lav Atah",
+      "Gemara Mani",
+      "Shevuah Classic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "All three items comprise the Gemara's analysis of whose opinion the mishna reflects (Rabbi Meir vs. Rabbi Yehuda), the apparent tension with the li-korban ruling, and its resolution \u2014 exactly what the 'Gemara Mani' prose describes.",
+      "chosen_heading": "Gemara Mani",
+      "current_heading": "Gemara Mani",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Shevuah Classic",
+    "candidates": [
+      "Shevuah Classic",
+      "Ha-Shevuah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself presenting all three shevuah formulations, and heading 0 ('Shevuah Classic') is where the mishnah is introduced \u2014 heading 1 discusses the gemara's analysis of the harder cases that follow from the mishnah, making heading 0 the correct home for the mishnah text itself.",
+      "chosen_heading": "Shevuah Classic",
+      "current_heading": "Shevuah Classic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Ha-Shevuah",
+    "candidates": [
+      "Ha-Shevuah",
+      "Abaye Context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text raising the contradiction from Shevuot about she-ochel lecha, which is precisely what the prose of heading 0 describes ('The gemara immediately seizes on this... miklal d'ha shevuah she-ochel lecha \u2014 de-lo achilna mashma... The gemara cites the well-known mishnah in Shevuot \u2014 shevuot shtayim she-hein arba'), before Abaye's resolution in heading 1.",
+      "chosen_heading": "Ha-Shevuah",
+      "current_heading": "Ha-Shevuah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Abaye Context",
+    "candidates": [
+      "Abaye Context",
+      "Rav Ashi Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement about contextual interpretation of *she-ochel*, which is precisely what the 'Abaye Context' prose section discusses in detail.",
+      "chosen_heading": "Abaye Context",
+      "current_heading": "Abaye Context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rav Ashi Text",
+    "candidates": [
+      "Rav Ashi Text",
+      "Abaye Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Ashi's interpretation that 'she-ochel' means 'she-ei ochel' and the gemara's subsequent question and answer about why this ruling is necessary, which matches exactly the prose under 'Rav Ashi Text'.",
+      "chosen_heading": "Rav Ashi Text",
+      "current_heading": "Rav Ashi Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Abaye Rejects",
+    "candidates": [
+      "Abaye Rejects",
+      "Tosafot Gezeira",
+      "Zeh Chomer",
+      "Mitzva Objects",
+      "Neder Works",
+      "Shevuah Fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the Abaye/Rav Ashi dispute over the girsa of the mishnah and their respective reasons for rejecting each other's approach, which is precisely what the 'Abaye Rejects' prose section describes.",
+      "chosen_heading": "Abaye Rejects",
+      "current_heading": "Abaye Rejects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Shevuah Fails",
+    "candidates": [
+      "Tosafot Gezeira",
+      "Zeh Chomer",
+      "Mitzva Objects",
+      "Neder Works",
+      "Shevuah Fails",
+      "Biblical vs. Rabbinic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Zeh Chomer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna presenting the full zeh chomer passage including both the stringency of shevuah and the stringency of neder with the sukkah/lulav/tefillin examples, which matches heading 1 ('Zeh Chomer') whose prose describes exactly this summary mishnah and its pivot to both directions of stringency.",
+      "second_heading": "Biblical vs. Rabbinic",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara questioning what 'stringency' refers to in the mishnah and whether the neder formulation is actually a valid vow, which matches heading 5 ('Biblical vs. Rabbinic') whose prose describes the gemara's analysis of the ambiguity in 'zeh chomer b'shevuot mib'nedarim' and what cases it refers to.",
+      "current_heading": "Shevuah Fails",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Biblical vs. Rabbinic",
+    "candidates": [
+      "Shevuah Fails",
+      "Biblical vs. Rabbinic",
+      "Rav Gidel Source",
+      "Lo Yachel Devaro"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the gemara's conclusion that 'zeh chomer b'shevuot mib'nedarim' refers to the latter clause about sleeping/speaking/walking, which is precisely what the 'Biblical vs. Rabbinic' section's prose describes.",
+      "chosen_heading": "Biblical vs. Rabbinic",
+      "current_heading": "Biblical vs. Rabbinic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Lo Yachel Devaro",
+    "candidates": [
+      "Rav Gidel Source",
+      "Lo Yachel Devaro",
+      "Personal vs. Divine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the question 'from where do we know one cannot swear to transgress mitzvot' along with the Rav Kahana/Rav Tavyumei attribution dispute, which is precisely what the 'Rav Gidel Source' prose describes, while the current heading 'Lo Yachel Devaro' covers only the answer/verse interpretation.",
+      "chosen_heading": "Rav Gidel Source",
+      "current_heading": "Lo Yachel Devaro",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Personal vs. Divine",
+    "candidates": [
+      "Lo Yachel Devaro",
+      "Personal vs. Divine",
+      "Gemara Question",
+      "Benefit vs. Use"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks exactly why a shevuah should be treated differently from a neder given that both appear in the same verse under lo yachel devaro and both are said l'Hashem \u2014 which is precisely the 'sharp question' described in candidate 2's prose.",
+      "chosen_heading": "Gemara Question",
+      "current_heading": "Personal vs. Divine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Benefit vs. Use",
+    "candidates": [
+      "Gemara Question",
+      "Benefit vs. Use",
+      "Rava Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's distinction between 'hanat sukkah alai' (neder) and 'shevuah she-lo ehena min ha-sukkah' (shevuah), which is precisely what the 'Benefit vs. Use' section's prose describes and analyzes.",
+      "chosen_heading": "Benefit vs. Use",
+      "current_heading": "Benefit vs. Use",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Rava Objection",
+    "candidates": [
+      "Rava Objection",
+      "Mitzvot Framework"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's direct objection ('were mitzvot given for benefit?') and his alternative explanation, which matches exactly what the 'Rava Objection' prose describes, including the specific formulations of neder on sukkah.",
+      "chosen_heading": "Rava Objection",
+      "current_heading": "Rava Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Mitzvot Framework",
+    "candidates": [
+      "Mitzvot Framework",
+      "Knowledge Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita deriving that one cannot take an oath to transgress mitzvot, directly related to the 'Mitzvot Framework' section's discussion of the halachic status of mitzva performance \u2014 specifically that mitzvot are not in one's discretionary power to nullify via oath, which aligns with the prose about mitzvot not being classified as personal hana'ah/benefit.",
+      "chosen_heading": "Mitzvot Framework",
+      "current_heading": "Mitzvot Framework",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Knowledge Examples",
+    "candidates": [
+      "Knowledge Examples",
+      "Rava Solution",
+      "Non-Benefit Actions",
+      "Explicit Requirement",
+      "Default Hana'ah",
+      "Tosafot Object"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "The Gemara passage about two verses exempting from an offering versus a prohibition for violating an oath does not clearly match any of the candidate headings, which all discuss nedarim and hana'ah concepts; the current placement under 'Knowledge Examples' is no better or worse than alternatives, so the current placement is retained with low confidence.",
+      "chosen_heading": "Knowledge Examples",
+      "current_heading": "Knowledge Examples",
+      "moved": false
+    }
+  }
+]

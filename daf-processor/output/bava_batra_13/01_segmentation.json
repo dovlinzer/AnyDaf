@@ -363,8 +363,8 @@
           "timestamp": "34:17"
         }
       ],
-      "sefaria_index": 13,
-      "matched": true
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Counter-Example: Rabba Bar Chinana and Rav Dimi Bar Chinana Dividing Two Maidservants",
@@ -684,5 +684,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "22:51",
+  "amud_b_micro_title": "Commercial Use",
+  "shiur_start_daf": 13,
+  "shiur_start_amud": "a"
 }

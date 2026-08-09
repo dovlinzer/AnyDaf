@@ -1,0 +1,512 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Shum Kesef Mishnah",
+    "candidates": [
+      "Archaic Mishna Language",
+      "Shum Kesef Mishnah",
+      "Rav Yehuda's Read"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shum Kesef Mishnah",
+      "first_confidence": "high",
+      "first_reason": "The Mishna text itself (item 1) is the subject of candidate 1's prose, which quotes and describes this exact Mishna as a 'legal poem' that the gemara will work through methodically.",
+      "second_heading": "Rav Yehuda's Read",
+      "second_confidence": "high",
+      "second_reason": "The Gemara's opening question 'mai shum kesef?' (item 2) is precisely what candidate 2's prose discusses, describing Rav Yehuda's explanation of this first phrase.",
+      "current_heading": "Shum Kesef Mishnah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rav Yehuda's Read",
+    "candidates": [
+      "Rav Yehuda's Read",
+      "Cow/Garment Case",
+      "Tosafot Chidushim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda's statement that the appraisal should be in monetary terms, which is exactly what heading 0's prose describes as the opening explanation by Rav Yehuda.",
+      "chosen_heading": "Rav Yehuda's Read",
+      "current_heading": "Rav Yehuda's Read",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Tosafot Chidushim",
+    "candidates": [
+      "Cow/Garment Case",
+      "Tosafot Chidushim",
+      "Rabbi Akiva's Ownership"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the cow/garment scenario and the ruling that damages must be assessed monetarily rather than offset by a swap \u2014 which is precisely what the 'Cow/Garment Case' prose discusses, not the Tosafot chidushim analysis in the current placement.",
+      "chosen_heading": "Cow/Garment Case",
+      "current_heading": "Tosafot Chidushim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Rabbi Akiva's Ownership",
+    "candidates": [
+      "Tosafot Chidushim",
+      "Rabbi Akiva's Ownership",
+      "Chattel Payment",
+      "Braita's Land Read"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the Mishnah's phrase 'shaveh kesef' (worth money/monetary equivalent), which is precisely what candidate 2 ('Chattel Payment') describes as the gemara turning to examine next.",
+      "chosen_heading": "Chattel Payment",
+      "current_heading": "Rabbi Akiva's Ownership",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Braita's Land Read",
+    "candidates": [
+      "Chattel Payment",
+      "Braita's Land Read",
+      "No Fixed Price"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita's interpretation of 'shaveh kesef' as limiting beis din to landed property and asks from where this is inferred \u2014 this is precisely the content described in the 'Braita's Land Read' section prose.",
+      "chosen_heading": "Braita's Land Read",
+      "current_heading": "Braita's Land Read",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "No Fixed Price",
+    "candidates": [
+      "No Fixed Price",
+      "Like Money Not Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabba bar Ulla's two successive attempts to define 'shaveh kesef' as land (via ona'ah exclusion, then via kinyan kesef), along with the gemara's objections about slaves and documents \u2014 exactly what the prose of heading 0 describes.",
+      "chosen_heading": "No Fixed Price",
+      "current_heading": "No Fixed Price",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Like Money Not Money",
+    "candidates": [
+      "Like Money Not Money",
+      "Court Requirement"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Like Money Not Money",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Ashi's resolution about 'shaveh kesef' meaning land (not-money), which directly matches heading 0's prose about his reading that chattel is money and land is what is 'like money.'",
+      "second_heading": "Court Requirement",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 form a self-contained dialectic about the contradiction between two baraitot regarding court collection of damages \u2014 one restricting collection to land and one permitting even bran \u2014 which matches heading 1's prose about beis din's role in assessment and payment, including the issue of selling property and lien enforcement.",
+      "current_heading": "Like Money Not Money",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Court Requirement",
+    "candidates": [
+      "Court Requirement",
+      "Semicha Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the mishna's phrase 'before a court' and the Gemara's interpretation that it excludes selling property before going to court, followed by the challenge about liens \u2014 exactly matching the prose of candidate 0.",
+      "chosen_heading": "Court Requirement",
+      "current_heading": "Court Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Semicha Authority",
+    "candidates": [
+      "Semicha Authority",
+      "Valid Witnesses",
+      "Self-Admission Exclusion",
+      "Fines as Punishment",
+      "Witnesses After Admission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states that 'bifnei beis din' excludes a court of non-ordained judges (hedyotot) from judging fines, which directly matches the 'Semicha Authority' section's prose about prat le-beis din hedyotos and the requirement for ordained authority to adjudicate knasot.",
+      "chosen_heading": "Semicha Authority",
+      "current_heading": "Semicha Authority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62
+    ],
+    "current_heading": "Witnesses After Admission",
+    "candidates": [
+      "Valid Witnesses",
+      "Self-Admission Exclusion",
+      "Fines as Punishment",
+      "Witnesses After Admission",
+      "Bnei Chorin Bnei Brit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items deal with the debate about whether subsequent witnesses after self-admission to a fine create liability or not \u2014 exactly the content described in the 'Witnesses After Admission' prose, which explicitly discusses both opinions and notes that the gemara uses this debate to explain the chidush of 'al pi eidim'.",
+      "chosen_heading": "Witnesses After Admission",
+      "current_heading": "Witnesses After Admission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Bnei Chorin Bnei Brit",
+    "candidates": [
+      "Bnei Chorin Bnei Brit",
+      "Women Included"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the exclusion of slaves and gentiles as witnesses via 'bnei chorin' and 'bnei brit,' including the necessity of both exclusions, which is precisely what candidate 0's prose addresses in detail.",
+      "chosen_heading": "Bnei Chorin Bnei Brit",
+      "current_heading": "Bnei Chorin Bnei Brit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Women Included",
+    "candidates": [
+      "Women Included",
+      "Masculine Presumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna's statement that women are included in damages and the Gemara's question about its derivation, which is exactly what the 'Women Included' section's prose describes.",
+      "chosen_heading": "Women Included",
+      "current_heading": "Women Included",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Masculine Presumption",
+    "candidates": [
+      "Masculine Presumption",
+      "Textual Proofs",
+      "Women's Hava Amina",
+      "Not Bar Mitzvah",
+      "Women Judges Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents all three textual proofs (punishments, civil laws, killings) which directly matches the 'Textual Proofs' section's prose describing exactly these three verses and their respective derivations, whereas the current placement under 'Masculine Presumption' only discusses the first verse as background for the gender-neutral default question.",
+      "chosen_heading": "Textual Proofs",
+      "current_heading": "Masculine Presumption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Women Judges Question",
+    "candidates": [
+      "Textual Proofs",
+      "Women's Hava Amina",
+      "Not Bar Mitzvah",
+      "Women Judges Question",
+      "Joint Participation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items constitute the tzricha argument explaining why all three proofs are necessary \u2014 exactly the content described in candidate 3's prose under 'Women Judges Question', which explicitly discusses the hava amina for each of the three sources and concludes that all three verses are necessary.",
+      "chosen_heading": "Women Judges Question",
+      "current_heading": "Women Judges Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Joint Participation",
+    "candidates": [
+      "Joint Participation",
+      "Rav Papa Compensation",
+      "Rav Huna Fine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text stating that both the injured party and the damager participate in payment, which is precisely what the 'Joint Participation' section prose describes and introduces before the gemara's examination of its meaning.",
+      "chosen_heading": "Joint Participation",
+      "current_heading": "Joint Participation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Rav Huna Fine",
+    "candidates": [
+      "Rav Papa Compensation",
+      "Rav Huna Fine",
+      "Borderline Agreement",
+      "Incomplete List",
+      "Compensation Model",
+      "Fine Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the full itra'mar dispute \u2014 the statement of the disagreement plus both sides' reasoning \u2014 which the prose under 'Rav Papa Compensation' explicitly introduces and explains in full, making it the correct home for the entire passage rather than 'Rav Huna Fine' which covers only one side.",
+      "chosen_heading": "Rav Papa Compensation",
+      "current_heading": "Rav Huna Fine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Fine Model",
+    "candidates": [
+      "Borderline Agreement",
+      "Incomplete List",
+      "Compensation Model",
+      "Fine Model",
+      "Carcass Depreciation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents both sides of the argument about 'ha-nizak ve-ha-mazik be-tashlumin' \u2014 first explaining why it fits the mamona model (nizak participates by absorbing half), then challenging the knas model \u2014 making it a unified proof that belongs under 'Compensation Model' where the mishna's phrase and its dual-participation meaning is introduced, not under 'Fine Model' which only discusses the knas side.",
+      "chosen_heading": "Compensation Model",
+      "current_heading": "Fine Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Carcass Depreciation",
+    "candidates": [
+      "Fine Model",
+      "Carcass Depreciation",
+      "Counter Incomplete"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the gemara's answer about carcass depreciation (item 1) and the immediate challenge to that answer (item 2), which is precisely what the 'Carcass Depreciation' prose describes.",
+      "chosen_heading": "Carcass Depreciation",
+      "current_heading": "Carcass Depreciation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Counter Incomplete",
+    "candidates": [
+      "Counter Incomplete",
+      "Self-Admission Proof"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Counter Incomplete",
+      "current_heading": "Counter Incomplete",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141
+    ],
+    "current_heading": "Self-Admission Proof",
+    "candidates": [
+      "Self-Admission Proof",
+      "The Key Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 10 items form a continuous dialectical chain about whether an owner pays on self-admission for an innocuous ox's damage, which is precisely what the 'Self-Admission Proof' prose describes \u2014 the braita about 'heimit shori et ploni,' the tam/muad distinction, the liflog ve-litni bididah argument, and the final answer that the entire mishna speaks of muad.",
+      "chosen_heading": "Self-Admission Proof",
+      "current_heading": "Self-Admission Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "The Key Rule",
+    "candidates": [
+      "The Key Rule",
+      "Resolving Exception",
+      "Tzerorot Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the 'ze ha-kelal' rule and infers that paying less than damage would mean it is payable on self-admission, which matches exactly what heading 0's prose describes as the gemara advancing this braita and drawing the implicit counterpart conclusion.",
+      "chosen_heading": "The Key Rule",
+      "current_heading": "The Key Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149,
+      150,
+      151
+    ],
+    "current_heading": "Tzerorot Example",
+    "candidates": [
+      "Resolving Exception",
+      "Tzerorot Example",
+      "Ruled as Fine"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Resolving Exception",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain the rejection of the inference and the conclusive refutation (tiyuvta) argument, which matches candidate 0 'Resolving Exception' whose prose explicitly discusses the tiyuvta and the braita's formulation about paying less vs. more than the damage.",
+      "second_heading": "Ruled as Fine",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the final halakhic ruling 've-hilkheta palga nizka knasa', which matches candidate 2 'Ruled as Fine' whose prose explicitly discusses this ruling and the gemara's response after the tiyuvta.",
+      "current_heading": "Tzerorot Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156,
+      157
+    ],
+    "current_heading": "Ruled as Fine",
+    "candidates": [
+      "Tzerorot Example",
+      "Ruled as Fine",
+      "Implications Pending"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the tiyuvta ve-hilkheta exchange \u2014 the tension between the conclusive refutation and the final ruling, and its resolution via chatzi nezek tzerorot \u2014 which is precisely what candidate 1 ('Ruled as Fine') describes in its prose.",
+      "chosen_heading": "Ruled as Fine",
+      "current_heading": "Ruled as Fine",
+      "moved": false
+    }
+  }
+]

@@ -59,7 +59,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Alternative Use of 'Korbano': Excluding Non-Jews, Partners, and Heirs",
@@ -87,7 +87,7 @@
           "timestamp": "15:46"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -127,7 +127,7 @@
         }
       ],
       "sefaria_index": 8,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Who Can Perform Semichah: Universal Ability and Key Exclusions",
@@ -155,7 +155,7 @@
           "timestamp": "32:46"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -247,7 +247,7 @@
           "timestamp": "57:20"
         }
       ],
-      "sefaria_index": 25,
+      "sefaria_index": 30,
       "matched": true
     }
   ],
@@ -782,5 +782,7 @@
   "amud_b_segment_index": 4,
   "amud_b_timestamp": "28:23",
   "amud_b_micro_title": "Mental Capacity",
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "shiur_start_daf": 92,
+  "shiur_start_amud": "b"
 }

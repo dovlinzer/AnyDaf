@@ -1,0 +1,276 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Pillows & Blankets",
+    "candidates": [
+      "Pillows & Blankets",
+      "Batla Daato",
+      "Straw & Dirt",
+      "Material & Intention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage specifically addresses the case of cushions and blankets failing to constitute a valid reduction of sukkah height, which is precisely what the 'Pillows & Blankets' section prose discusses.",
+      "chosen_heading": "Pillows & Blankets",
+      "current_heading": "Pillows & Blankets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Material & Intention",
+    "candidates": [
+      "Batla Daato",
+      "Straw & Dirt",
+      "Material & Intention",
+      "Reb Yosei vs. Rabbis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states the principle of 'batla daato etzel kol adam' \u2014 that his nullification is ineffective because his intention is overridden by the norm of all other people \u2014 which is precisely what the 'Batla Daato' section's prose discusses.",
+      "chosen_heading": "Batla Daato",
+      "current_heading": "Material & Intention",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Reb Yosei vs. Rabbis",
+    "candidates": [
+      "Material & Intention",
+      "Reb Yosei vs. Rabbis",
+      "Hanging Extensions",
+      "Shade vs. Sunlight"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: the straw-with-bitul ruling, the Ohalot mishna about bitul being required, and Rabbi Yosei's baraita distinguishing teven-ein-atid-lifnoto from afar-stam \u2014 exactly the material the 'Reb Yosei vs. Rabbis' prose describes in detail.",
+      "chosen_heading": "Reb Yosei vs. Rabbis",
+      "current_heading": "Reb Yosei vs. Rabbis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Shade vs. Sunlight",
+    "candidates": [
+      "Hanging Extensions",
+      "Shade vs. Sunlight",
+      "Abaye's Shade Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the shade-vs-sunlight distinction for hanging extensions (*hutzin*) in a too-tall sukkah, which is precisely what the 'Shade vs. Sunlight' section's prose discusses.",
+      "chosen_heading": "Shade vs. Sunlight",
+      "current_heading": "Shade vs. Sunlight",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Abaye's Shade Test",
+    "candidates": [
+      "Abaye's Shade Test",
+      "Rava's Uninhabitability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly Abaye's proposed shade test for a sukka ten handbreadths high with hanging strands, which matches the current heading's prose precisely.",
+      "chosen_heading": "Abaye's Shade Test",
+      "current_heading": "Abaye's Shade Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rava's Uninhabitability",
+    "candidates": [
+      "Rava's Uninhabitability",
+      "Middle Wall Platform"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rava's statement about an uninhabitable (sagging) residence, which is precisely what the prose under 'Rava's Uninhabitability' discusses.",
+      "chosen_heading": "Rava's Uninhabitability",
+      "current_heading": "Rava's Uninhabitability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Middle Wall Platform",
+    "candidates": [
+      "Middle Wall Platform",
+      "Dofen Akumah Multi-Wall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes a platform built opposite the middle wall covering the entire wall with a valid sukka area \u2014 precisely what candidate 0's prose discusses in detail, including the kesherah ruling and Rashi's extension.",
+      "chosen_heading": "Middle Wall Platform",
+      "current_heading": "Middle Wall Platform",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "current_heading": "Dofen Akumah Multi-Wall",
+    "candidates": [
+      "Dofen Akumah Multi-Wall",
+      "Wall Bending Limits",
+      "Pit Digging",
+      "Lavud vs. Akumah",
+      "Lavud Principle",
+      "Lavud vs. Shabbat",
+      "Abaye's Gud Asik",
+      "Rava's Visible Walls"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 6,
+      "first_heading": "Dofen Akumah Multi-Wall",
+      "first_confidence": "high",
+      "first_reason": "Items 1-6 all concern the platform (*itztava*) cases and the *dofen akumah* principle applied to side and center platforms, matching the 'Dofen Akumah Multi-Wall' prose exactly.",
+      "second_heading": "Pit Digging",
+      "second_confidence": "medium",
+      "second_reason": "Items 7-10 open a new self-contained case about a too-short sukkah remedied by digging, which matches the 'Pit Digging' section prose, with item 11 following sequentially as the next case in the source text.",
+      "current_heading": "Dofen Akumah Multi-Wall",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rava's Visible Walls",
+    "candidates": [
+      "Wall Bending Limits",
+      "Pit Digging",
+      "Lavud vs. Akumah",
+      "Lavud Principle",
+      "Lavud vs. Shabbat",
+      "Abaye's Gud Asik",
+      "Rava's Visible Walls",
+      "Posts on Roof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rava's rejection of Abaye's gud asik proposal on the grounds that conspicuous partitions are required and absent, which is precisely what the prose in candidate 6 ('Rava's Visible Walls') describes.",
+      "chosen_heading": "Rava's Visible Walls",
+      "current_heading": "Rava's Visible Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Posts on Roof",
+    "candidates": [
+      "Posts on Roof",
+      "Rav Huna's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the baraita about four posts with schach and no walls, with Rabbi Ya'akov validating and the Rabbis invalidating \u2014 exactly what the 'Posts on Roof' prose describes.",
+      "chosen_heading": "Posts on Roof",
+      "current_heading": "Posts on Roof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Rav Huna's View",
+    "candidates": [
+      "Rav Huna's View",
+      "Middle Roof Debate",
+      "Dyomdin Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Huna's limitation of the dispute to the roof edge vs. Rav Nachman's placement of the dispute in the middle of the roof, and the unresolved dilemma (teiku) about Rav Nachman's view of the roof edge \u2014 are precisely what candidate 0's prose describes and concludes with.",
+      "chosen_heading": "Rav Huna's View",
+      "current_heading": "Rav Huna's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Dyomdin Logic",
+    "candidates": [
+      "Middle Roof Debate",
+      "Dyomdin Logic",
+      "Real Walls Required",
+      "Recap Magic Walls",
+      "Substantive Walls"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Middle Roof Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 are the continuous chain of objection, refutation, and Rav Huna's defense regarding the four-posts-in-ground case and its implications for the middle/edge of roof debate, which matches 'Middle Roof Debate' prose exactly.",
+      "second_heading": "Dyomdin Logic",
+      "second_confidence": "high",
+      "second_reason": "Item 5 is the baraita explaining Rabbi Yaakov's dyomadin logic and the Rabbis' counter-requirement of two full walls plus a third, which matches the 'Dyomdin Logic' prose precisely.",
+      "current_heading": "Dyomdin Logic",
+      "moved": true
+    }
+  }
+]

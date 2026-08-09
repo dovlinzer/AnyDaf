@@ -1,0 +1,256 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Terumah Link",
+    "candidates": [
+      "Overview & Intro",
+      "Terumah Link",
+      "Verbal vs Mental",
+      "Analogy to Grain",
+      "Rava's Statement",
+      "Verse Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Abba Elazar ben Gomel teaching linking teruma gedola to trumas ma'aser and then to ma'aser behemah via the Torah's use of 'teruma' for tithe \u2014 exactly what the 'Terumah Link' prose describes as the architecture of this comparison and its chiddush.",
+      "chosen_heading": "Terumah Link",
+      "current_heading": "Terumah Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Verse Derivation",
+    "candidates": [
+      "Verbal vs Mental",
+      "Analogy to Grain",
+      "Rava's Statement",
+      "Verse Derivation",
+      "Ninth/Tenth Case",
+      "Two Interpretations",
+      "Supporting Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rava's derivation from the baraita ('ein li ela she-kara shemo asiri') and the verse 'asiri yihiyeh kodesh mi-kol makom,' which is precisely what the 'Verse Derivation' section's prose describes.",
+      "chosen_heading": "Verse Derivation",
+      "current_heading": "Verse Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Supporting Baraita",
+    "candidates": [
+      "Ninth/Tenth Case",
+      "Two Interpretations",
+      "Supporting Baraita",
+      "Rabbi Shimon's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "All five items form a continuous chain of proof attempts and rejections for Rava's position, culminating in item 5's baraita that the tenth remaining in the pen is ma'aser, which candidate 2's prose directly describes as Rava's proof.",
+      "chosen_heading": "Supporting Baraita",
+      "current_heading": "Supporting Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Rabbi Shimon's View",
+    "candidates": [
+      "Rabbi Shimon's View",
+      "Temura Model",
+      "Gemara Rejects",
+      "Reasoning Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the baraita taught before Rav Sheshet identifying Rabbi Shimon ben Yehuda's position \u2014 that the ninth is not sanctified unless the name 'tenth' is removed from number ten \u2014 which is precisely what heading 0's prose describes.",
+      "chosen_heading": "Rabbi Shimon's View",
+      "current_heading": "Rabbi Shimon's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Reasoning Explained",
+    "candidates": [
+      "Temura Model",
+      "Gemara Rejects",
+      "Reasoning Explained",
+      "Core Principle",
+      "Mishna Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items are the Gemara's rejection of Rabbi Shimon's kal va-chomer argument, presenting the logical derivation and then two complementary counter-arguments \u2014 exactly what the 'Gemara Rejects' prose describes as a clean, final rejection that runs the logic precisely backwards.",
+      "chosen_heading": "Gemara Rejects",
+      "current_heading": "Reasoning Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Mishna Source",
+    "candidates": [
+      "Core Principle",
+      "Mishna Source",
+      "Verse Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the Gemara's attempt to derive Rava's principle from the mishna (kafatz min haminuyin), including successive objections and counter-objections, which is precisely what the 'Mishna Source' prose describes in detail.",
+      "chosen_heading": "Mishna Source",
+      "current_heading": "Mishna Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Verse Derivation",
+    "candidates": [
+      "Verse Derivation",
+      "Supporting Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's direct verse derivation from 'ya'avor,' which is precisely what the 'Verse Derivation' section's prose describes and analyzes.",
+      "chosen_heading": "Verse Derivation",
+      "current_heading": "Verse Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Supporting Baraita",
+    "candidates": [
+      "Supporting Baraita",
+      "Case One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita supporting Rava's ruling, and the prose under 'Supporting Baraita' directly describes this exact baraita and its two scenarios matching the translated content.",
+      "chosen_heading": "Supporting Baraita",
+      "current_heading": "Supporting Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Case One",
+    "candidates": [
+      "Case One",
+      "Case Two",
+      "Case Three",
+      "Doubtful Counting",
+      "Theoretical Possibility"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Case One",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 describe the first case (14 lambs: 6 exit one door, 4 the other, 4 remain), which matches Case One's prose exactly.",
+      "second_heading": "Case Two",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20134 describe the second and third cases (4 then 6, and 4 then 4 with 6 remaining), which match Case Two and Case Three's prose descriptions.",
+      "current_heading": "Case One",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Theoretical Possibility",
+    "candidates": [
+      "Case Two",
+      "Case Three",
+      "Doubtful Counting",
+      "Theoretical Possibility",
+      "Fifteen Sheep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's question 'what is Rava teaching us, didn't he already say this once' (mai kamashma lan / ve'amar Rava chada zimna), which is precisely what the 'Doubtful Counting' prose describes, along with the answer about safek minyan hara'uy \u2014 the full exchange belongs under heading 2 where both the question and answer are discussed together.",
+      "chosen_heading": "Doubtful Counting",
+      "current_heading": "Theoretical Possibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Fifteen Sheep",
+    "candidates": [
+      "Theoretical Possibility",
+      "Fifteen Sheep",
+      "Proper Procedure",
+      "Two Innovations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-3 cover Rava's ruling on the proper procedure (bringing all fifteen into the pen, removing ten, taking one as tithe, and combining the remainder for the next cycle), plus the baraita that confirms it and then a contrasting baraita about nineteen lambs \u2014 all of which matches Candidate 2's prose about 'Ela konsam ledir' and the procedural details, rather than Candidate 1 which only covers the prohibited approach or Candidate 3 which discusses the two chidushim abstractly.",
+      "chosen_heading": "Proper Procedure",
+      "current_heading": "Fifteen Sheep",
+      "moved": true
+    }
+  }
+]

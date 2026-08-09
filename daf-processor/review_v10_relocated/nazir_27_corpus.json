@@ -1,0 +1,176 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Animals vs. Money",
+    "candidates": [
+      "Unspecified Money Intro",
+      "Animals vs. Money",
+      "Three Cows Case",
+      "Kedusha Transfer",
+      "Rav Nachman Tmimah",
+      "Ba'alat Mum",
+      "Cows Unspecified?",
+      "Two Approaches",
+      "Mezuman Definition",
+      "Pre-Designation Logic",
+      "Metal vs. Wood",
+      "Money Not Birds",
+      "Unspecified Birds"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Unspecified Money Intro",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Huna/Rav's statement that animals are treated as specified (mefureshet), which is precisely what heading 0 ('Unspecified Money Intro') describes \u2014 the lo shanu ela ma'ot / aval behemah rule.",
+      "second_heading": "Rav Nachman Tmimah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Nachman's qualification that only unblemished animals are mefureshet while blemished ones are k'stumah, which is exactly what heading 4 ('Rav Nachman Tmimah') discusses.",
+      "current_heading": "Animals vs. Money",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Unspecified Birds",
+    "candidates": [
+      "Three Cows Case",
+      "Kedusha Transfer",
+      "Rav Nachman Tmimah",
+      "Ba'alat Mum",
+      "Cows Unspecified?",
+      "Two Approaches",
+      "Mezuman Definition",
+      "Pre-Designation Logic",
+      "Metal vs. Wood",
+      "Money Not Birds",
+      "Unspecified Birds",
+      "Counter Position",
+      "Rav Chisda Birds",
+      "Mitparshot Inference",
+      "Specified Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of argument about Rav Shimi bar Ashi's challenge to Rav Pappa \u2014 that if the rabbanan restrict setumim to 'money and not X', it should equally exclude birds \u2014 which is precisely what heading 9 ('Money Not Birds') introduces and discusses.",
+      "chosen_heading": "Money Not Birds",
+      "current_heading": "Unspecified Birds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Specified Animals",
+    "candidates": [
+      "Counter Position",
+      "Rav Chisda Birds",
+      "Mitparshot Inference",
+      "Specified Animals",
+      "Torah Process"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara counter-question about Rabban Shimon ben Gamliel's ruling on three unspecified animals for a nazir, which is exactly what the 'Specified Animals' section's prose discusses.",
+      "chosen_heading": "Specified Animals",
+      "current_heading": "Specified Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Torah Process",
+    "candidates": [
+      "Torah Process",
+      "Three Animals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes the verses 've-lakach' and 've-asah' which directly support the 'Torah Process' section's discussion of how the Torah specifies the process of bird identity assignment through those exact words.",
+      "chosen_heading": "Torah Process",
+      "current_heading": "Torah Process",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Three Animals",
+    "candidates": [
+      "Three Animals",
+      "Hamnuna Challenge",
+      "Father Dies",
+      "Both Nezirim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the designation of nazirite animals \u2014 the Torah's rule about acquisition/priestly action and the female/male distinction between chatat and olah \u2014 which is precisely what the 'Three Animals' prose discusses.",
+      "chosen_heading": "Three Animals",
+      "current_heading": "Three Animals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Both Nezirim",
+    "candidates": [
+      "Hamnuna Challenge",
+      "Father Dies",
+      "Both Nezirim",
+      "Specified Unspecified",
+      "Animals Not Money"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav Hamnuna's objection and cites the baraita as the challenge to Rav Na\u1e25man's position, which matches the 'Hamnuna Challenge' section's prose exactly.",
+      "chosen_heading": "Hamnuna Challenge",
+      "current_heading": "Both Nezirim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Animals Not Money",
+    "candidates": [
+      "Specified Unspecified",
+      "Animals Not Money",
+      "Dmei Hayinu Maot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's inference from the braita about whether the contrast between unspecified money and specified animals implies something about blemished animals, and the immediate rejection/counter-question \u2014 exactly what candidate 1's prose describes as 'mai lav afilu ba'alat mum' and the strained inference argument.",
+      "chosen_heading": "Animals Not Money",
+      "current_heading": "Animals Not Money",
+      "moved": false
+    }
+  }
+]

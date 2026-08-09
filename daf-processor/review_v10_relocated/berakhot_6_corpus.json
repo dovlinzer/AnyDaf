@@ -1,0 +1,420 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Prayer Heard in Shul",
+    "candidates": [
+      "Prayer Heard in Shul",
+      "Rina & Singing",
+      "Shul vs. Beit Midrash",
+      "God in Congregation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Abba Binyamin's teaching that prayer is heard in the synagogue and derives this from the verse about rina, which is precisely what the 'Prayer Heard in Shul' section's prose describes as its opening content.",
+      "chosen_heading": "Prayer Heard in Shul",
+      "current_heading": "Prayer Heard in Shul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "God in Congregation",
+    "candidates": [
+      "Rina & Singing",
+      "Shul vs. Beit Midrash",
+      "God in Congregation",
+      "Ten to One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states 'from where is it derived that the Holy One, Blessed be He, is located in a synagogue,' which matches exactly the prose of candidate 2 ('God in Congregation') discussing minayin she'Hakadosh Baruch Hu matzuy b'veit haknesset and the proof text elohim nitzav b'adat el.",
+      "chosen_heading": "God in Congregation",
+      "current_heading": "God in Congregation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Ten to One",
+    "candidates": [
+      "Ten to One",
+      "Two vs. One Learning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items (the descending series from ten to one, including the Rav Ashi aside about intended mitzvot) are explicitly discussed and quoted in the 'Ten to One' section's prose, which covers exactly this sequence.",
+      "chosen_heading": "Ten to One",
+      "current_heading": "Ten to One",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Two vs. One Learning",
+    "candidates": [
+      "Two vs. One Learning",
+      "Din as Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the two vs. one learning distinction and the book of remembrance, which is precisely what the 'Two vs. One Learning' section's prose discusses in detail.",
+      "chosen_heading": "Two vs. One Learning",
+      "current_heading": "Two vs. One Learning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Din as Torah",
+    "candidates": [
+      "Din as Torah",
+      "God Awaits Ten"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why three is mentioned when two suffice, and the teaching that din is Torah \u2014 exactly what the prose under 'Din as Torah' elaborates upon.",
+      "chosen_heading": "Din as Torah",
+      "current_heading": "Din as Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "God Awaits Ten",
+    "candidates": [
+      "God Awaits Ten",
+      "God's Tefillin Query",
+      "Swearing by Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the distinction between ten (Divine Presence arrives before them) and three (only after they sit), which is exactly what the 'God Awaits Ten' section's prose describes.",
+      "chosen_heading": "God Awaits Ten",
+      "current_heading": "God Awaits Ten",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Swearing by Torah",
+    "candidates": [
+      "God's Tefillin Query",
+      "Swearing by Torah",
+      "Mutual Declaration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the Gemara's answer to the question 'from where do we know God wears tefillin?' \u2014 the very question that heading 0 ('God's Tefillin Query') introduces \u2014 while heading 1 ('Swearing by Torah') discusses this same content but is a downstream section whose prose already treats this material as established background, and the current placement under heading 1 is incorrect since heading 0's prose explicitly frames the minayin question that opens item 1.",
+      "chosen_heading": "God's Tefillin Query",
+      "current_heading": "Swearing by Torah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Mutual Declaration",
+    "candidates": [
+      "Swearing by Torah",
+      "Mutual Declaration",
+      "Four Compartments"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the content of God's tefillin and the mutual declaration between God and Israel (echad/goy echad), which is precisely what the 'Mutual Declaration' section's prose describes in detail.",
+      "chosen_heading": "Mutual Declaration",
+      "current_heading": "Mutual Declaration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Four Compartments",
+    "candidates": [
+      "Four Compartments",
+      "Missing a Day"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the contents of God's phylacteries' four compartments \u2014 the question about other compartments, the identification of verses, the resolution of the 'too many compartments' objection, and the note about the arm phylacteries \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Four Compartments",
+      "current_heading": "Four Compartments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Missing a Day",
+    "candidates": [
+      "Missing a Day",
+      "God's Anger at No Minyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous teaching from Ravin bar Rav Adda/Rabbi Yitz\u1e25ak about the regular synagogue-goer who misses a day, which is precisely what candidate 0 ('Missing a Day') discusses in its prose.",
+      "chosen_heading": "Missing a Day",
+      "current_heading": "Missing a Day",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "God's Anger at No Minyan",
+    "candidates": [
+      "God's Anger at No Minyan",
+      "Fixed Prayer Place"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about God's anger when He finds no minyan in the synagogue directly matches the prose under 'God's Anger at No Minyan,' which explicitly discusses this same Rabbi Yo\u1e25anan teaching and its halachic implications.",
+      "chosen_heading": "God's Anger at No Minyan",
+      "current_heading": "God's Anger at No Minyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Fixed Prayer Place",
+    "candidates": [
+      "Fixed Prayer Place",
+      "Abraham's Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items (Rabbi \u1e24elbo/Rav Huna's teaching about fixed prayer place and the eulogy formula) are quoted verbatim and discussed directly in the 'Fixed Prayer Place' prose, making that the clear home for this passage.",
+      "chosen_heading": "Fixed Prayer Place",
+      "current_heading": "Fixed Prayer Place",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Abraham's Model",
+    "candidates": [
+      "Abraham's Model",
+      "Leaving Shul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Abraham establishing a fixed place for prayer, which is precisely what the 'Abraham's Model' section's prose elaborates upon.",
+      "chosen_heading": "Abraham's Model",
+      "current_heading": "Abraham's Model",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Leaving Shul",
+    "candidates": [
+      "Leaving Shul",
+      "Running In",
+      "Running for Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the ruling about not taking large strides when leaving (Rav Huna) and Abaye's qualification about running to enter, but the full Gemara unit naturally sits under 'Leaving Shul' since that is the primary ruling being stated, and the 'Running In' section's prose already covers Abaye's point in its own discussion \u2014 however, since the passage is a single unified Talmudic unit covering both leaving and entering, and it currently sits under 'Leaving Shul' which opens with exactly this Rav Huna statement, the current placement is the correct home for the complete passage.",
+      "chosen_heading": "Leaving Shul",
+      "current_heading": "Leaving Shul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Running for Torah",
+    "candidates": [
+      "Running In",
+      "Running for Torah",
+      "Rewards for Engagement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rabbi Zeira teaching about running to the lecture on Shabbat and Rabbi Yehoshua ben Levi's ruling permitting it, which is precisely what the 'Running for Torah' prose section describes and analyzes.",
+      "chosen_heading": "Running for Torah",
+      "current_heading": "Running for Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "current_heading": "Rewards for Engagement",
+    "candidates": [
+      "Rewards for Engagement",
+      "Behind Shul is Wicked"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items are the exact series of statements about rewards for communal engagement (running to lecture, kalla crowding, sevara, silence at mourning, tzedakah on fast day, wailing at eulogy, words at wedding) that candidate 0's prose explicitly discusses in detail.",
+      "chosen_heading": "Rewards for Engagement",
+      "current_heading": "Rewards for Engagement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Behind Shul is Wicked",
+    "candidates": [
+      "Behind Shul is Wicked",
+      "Face Direction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Huna's statement about praying behind the synagogue being called wicked, which is exactly what heading 0 'Behind Shul is Wicked' addresses in its prose.",
+      "chosen_heading": "Behind Shul is Wicked",
+      "current_heading": "Behind Shul is Wicked",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Face Direction",
+    "candidates": [
+      "Face Direction",
+      "Elijah's Judgment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's statement about turning one's face toward the synagogue, which is exactly what the 'Face Direction' section's prose discusses and explicates.",
+      "chosen_heading": "Face Direction",
+      "current_heading": "Face Direction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Elijah's Judgment",
+    "candidates": [
+      "Elijah's Judgment",
+      "Prayer's High Status"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Elijah's Judgment",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the story of Elijah killing the man praying behind the synagogue, which is precisely what heading 0 ('Elijah's Judgment') describes in its prose.",
+      "second_heading": "Prayer's High Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the verse 'when vileness is exalted among the sons of men' and the question about its meaning, which is exactly what heading 1 ('Prayer's High Status') discusses in its prose about k'rum zalut and prayer standing at the heights of the world.",
+      "current_heading": "Elijah's Judgment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Prayer's High Status",
+    "candidates": [
+      "Prayer's High Status",
+      "Needing Help"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Prayer's High Status",
+      "first_confidence": "high",
+      "first_reason": "Item 1 explains 'kerum zalut livnei adam' as referring to matters of utmost importance (like prayer) that people treat lightly, which matches the 'Prayer's High Status' prose exactly.",
+      "second_heading": "Needing Help",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 introduce Rabbi Yo\u1e25anan and Rabbi Elazar's alternative interpretation about a person who needs others having a face that changes colors like the kerum bird, which matches the 'Needing Help' prose that discusses human dependence and the face-changing imagery.",
+      "current_heading": "Prayer's High Status",
+      "moved": true
+    }
+  }
+]

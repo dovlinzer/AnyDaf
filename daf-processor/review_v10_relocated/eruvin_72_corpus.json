@@ -1,0 +1,323 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Bread vs. Wine",
+    "candidates": [
+      "Intro: Shituf & Eruv",
+      "Bread vs. Wine",
+      "Resolving the Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Intro: Shituf & Eruv",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah stating Rabbi Meir's and the Chachamim's positions on eruv vs. shituf, which is precisely what the 'Intro: Shituf & Eruv' prose describes as the overarching dispute between Rabbi Meir and the Chachamim.",
+      "second_heading": "Bread vs. Wine",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20133 record the Rav Nechumi/Rava dispute about whether the bread or wine case is where Rabbi Meir and the Chachamim disagree, which is exactly what the 'Bread vs. Wine' prose describes.",
+      "current_heading": "Bread vs. Wine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Resolving the Dispute",
+    "candidates": [
+      "Resolving the Dispute",
+      "Rav Giddel's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises an objection from the baraita's language 'o meiarvin o mishtatfin' and asks whether it implies the wine case, which is precisely what the 'Resolving the Dispute' prose describes as the Gemara's challenge based on the Chachamim's language.",
+      "chosen_heading": "Resolving the Dispute",
+      "current_heading": "Resolving the Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rav Giddel's Reading",
+    "candidates": [
+      "Rav Giddel's Reading",
+      "Three Levels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Giddel citing Rav's reinterpretation of the Mishnah (hachi ka'amar), explaining that either an eruv in the courtyard with bread or a shituf in the mavoi with bread suffices \u2014 exactly what heading 0's prose describes.",
+      "chosen_heading": "Rav Giddel's Reading",
+      "current_heading": "Rav Giddel's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Three Levels",
+    "candidates": [
+      "Three Levels",
+      "Tosafot's Challenge",
+      "Tradeoffs of Chumra",
+      "How We Pasken",
+      "Box of Matzah",
+      "Mishna: Five Groups",
+      "Beit Shammai vs. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the three-level distinction (halacha/minhag/nahagu k'Rabbi Meir) which is precisely what the 'Three Levels' section prose describes and analyzes.",
+      "chosen_heading": "Three Levels",
+      "current_heading": "Three Levels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Beit Shammai vs. Hillel",
+    "candidates": [
+      "Tosafot's Challenge",
+      "Tradeoffs of Chumra",
+      "How We Pasken",
+      "Box of Matzah",
+      "Mishna: Five Groups",
+      "Beit Shammai vs. Hillel",
+      "Agreement: Separate Units",
+      "Low Barriers Debate",
+      "Both Types Debated",
+      "Reaching Ceiling",
+      "Not Reaching Ceiling",
+      "Analysis & Reconciliation",
+      "Ceiling Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishna about five groups, Beit Hillel's concession about separate rooms, and Rav Nachman's Gemara distinguishing mesifas from a ten-tefach mechitza \u2014 are precisely the content described in the 'Beit Shammai vs. Hillel' prose, which covers the Mishna text, the agreement clause, and the opening Gemara analysis.",
+      "chosen_heading": "Beit Shammai vs. Hillel",
+      "current_heading": "Beit Shammai vs. Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Ceiling Rule",
+    "candidates": [
+      "Agreement: Separate Units",
+      "Low Barriers Debate",
+      "Both Types Debated",
+      "Reaching Ceiling",
+      "Not Reaching Ceiling",
+      "Analysis & Reconciliation",
+      "Ceiling Rule",
+      "Testing Interpretations"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Reaching Ceiling",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Rabbi \u1e24iyya / Rabbi Shimon bar Rebbe dispute about which type of partition (reaching vs. not reaching the ceiling) is the subject of the Beit Shammai/Beit Hillel debate, which is precisely what heading 3 ('Reaching Ceiling') describes.",
+      "second_heading": "Ceiling Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita of Rav Yehuda Hassavar ruling that the dispute concerns only walls not reaching the ceiling, which is exactly the content described in heading 6 ('Ceiling Rule').",
+      "current_heading": "Ceiling Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Testing Interpretations",
+    "candidates": [
+      "Testing Interpretations",
+      "Rav Nachman's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the refutation/support analysis (tiyuvta/siyata) for the different versions regarding partitions reaching/not reaching the ceiling and the mesifas, which is precisely what the 'Testing Interpretations' prose describes.",
+      "chosen_heading": "Testing Interpretations",
+      "current_heading": "Testing Interpretations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73
+    ],
+    "current_heading": "Rav Nachman's Response",
+    "candidates": [
+      "Rav Nachman's Response",
+      "Mishnah's Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the challenge to Rav Na\u1e25man's version about the mesifas, his response about why the baraita uses mechitza rather than mesifas, and the koach deheteira adif principle \u2014 all of which are explicitly discussed in the 'Rav Nachman's Response' prose.",
+      "chosen_heading": "Rav Nachman's Response",
+      "current_heading": "Rav Nachman's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Mishnah's Language",
+    "candidates": [
+      "Mishnah's Language",
+      "Contributing Separately",
+      "Receiving Exception",
+      "Two Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items concern the ruling of Rav Na\u1e25man (that the halakha follows Rabbi Yehuda the Keen, i.e., the dispute is only about partitions not reaching the ceiling) and Rav Na\u1e25man bar Yitz\u1e25ak's supporting diyuk from the Mishnah's language about chadarim and aliyot meaning partitions that reach the ceiling \u2014 exactly what the 'Mishnah's Language' section prose describes.",
+      "chosen_heading": "Mishnah's Language",
+      "current_heading": "Mishnah's Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92
+    ],
+    "current_heading": "Two Interpretations",
+    "candidates": [
+      "Contributing Separately",
+      "Receiving Exception",
+      "Two Interpretations",
+      "Mishna: Brothers",
+      "Separate Contributions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form the Gemara's two-version debate about the baraita's asymmetry between contributing and receiving, which is exactly what the 'Two Interpretations' section's prose describes \u2014 including the challenge from the five-houses baraita and its resolution as 'not in accordance with either one.'",
+      "chosen_heading": "Two Interpretations",
+      "current_heading": "Two Interpretations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Separate Contributions",
+    "candidates": [
+      "Mishna: Brothers",
+      "Separate Contributions",
+      "Place of Sleeping"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna: Brothers",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna itself introducing the case of brothers eating at their father's table, which matches heading 0's prose that introduces and describes exactly this Mishna.",
+      "second_heading": "Separate Contributions",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the qualification clause about when the eruv is brought to them versus taken elsewhere, which matches heading 1's prose that discusses the practical consequences and the bizman shemolichin/aval im hayah eruv ba'etzlan distinction.",
+      "current_heading": "Separate Contributions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Place of Sleeping",
+    "candidates": [
+      "Place of Sleeping",
+      "Gatehouses & Porches"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the principle that place of sleeping determines domicile and Rav Yehuda/Rav's qualification about 'mikablei pras,' which is exactly what the prose under 'Place of Sleeping' describes.",
+      "chosen_heading": "Place of Sleeping",
+      "current_heading": "Place of Sleeping",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Gatehouses & Porches",
+    "candidates": [
+      "Gatehouses & Porches",
+      "Granaries & Stables",
+      "Rabbi Yehuda's View",
+      "Ben Napcha Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers all three elements (gatehouses/porches, granaries/stables, and Rabbi Yehuda's view) in a single quoted passage, and it currently sits under 'Gatehouses & Porches' which is the opening section of the baraita \u2014 moving it would split a unified text across multiple headings, so the current placement is the best single home for the whole passage.",
+      "chosen_heading": "Gatehouses & Porches",
+      "current_heading": "Gatehouses & Porches",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Ben Napcha Case",
+    "candidates": [
+      "Granaries & Stables",
+      "Rabbi Yehuda's View",
+      "Ben Napcha Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Ben Napcha incident, the Gemara's correction from 'beit dira' to 'makom dira', and the opening question 'what is makom dira?' \u2014 are precisely what the 'Ben Napcha Case' prose describes, making the current placement correct.",
+      "chosen_heading": "Ben Napcha Case",
+      "current_heading": "Ben Napcha Case",
+      "moved": false
+    }
+  }
+]

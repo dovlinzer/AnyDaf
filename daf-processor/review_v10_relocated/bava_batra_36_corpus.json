@@ -1,0 +1,421 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rav Abba Immediate",
+    "candidates": [
+      "Opening",
+      "Three Years Day-by-Day",
+      "Rav Abba Immediate",
+      "Rav Zevid Exception",
+      "Three-Year Cutoff",
+      "Mechah Protection",
+      "Sharecropper Problem",
+      "Mechah Distinction",
+      "Mechah Limits",
+      "Mashkanta Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's direct question to Rav Kahana about what the owner should have done if he genuinely brought someone onto the land only for the fruit, which is precisely what the 'Sharecropper Problem' section describes.",
+      "chosen_heading": "Sharecropper Problem",
+      "current_heading": "Rav Abba Immediate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Mashkanta Problem",
+    "candidates": [
+      "Rav Zevid Exception",
+      "Three-Year Cutoff",
+      "Mechah Protection",
+      "Sharecropper Problem",
+      "Mechah Distinction",
+      "Mechah Limits",
+      "Mashkanta Problem",
+      "Mechah Conclusion",
+      "Non-Jew Blocks",
+      "Non-Jew Exception",
+      "Rav Yosef Query",
+      "Rava Resolution",
+      "Miggo Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage discusses the mashkanta desura arrangement and the problem of the lender concealing the mortgage document to claim ownership, which is precisely what the 'Mashkanta Problem' section's prose describes.",
+      "chosen_heading": "Mashkanta Problem",
+      "current_heading": "Mashkanta Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Miggo Principle",
+    "candidates": [
+      "Mechah Conclusion",
+      "Non-Jew Blocks",
+      "Non-Jew Exception",
+      "Rav Yosef Query",
+      "Rava Resolution",
+      "Miggo Principle",
+      "Bold Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the continuous passage about a Jew who claims through a gentile (items 1-2 raising the problem and Rava's initial attempt, item 3 being Rava's resolution), and candidate 1 ('Non-Jew Blocks') introduces exactly this topic \u2014 Rav Yehuda's ruling that a Jew whose chain of title runs through a non-Jew stands in the same position as the non-Jew \u2014 making it the correct home for the entire passage, with candidates 2-5 being the downstream elaborations that follow.",
+      "chosen_heading": "Non-Jew Blocks",
+      "current_heading": "Miggo Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Bold Claim",
+    "candidates": [
+      "Miggo Principle",
+      "Bold Claim",
+      "Buffer Zone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yehuda's ruling about someone holding a sickle and rope declaring intent to harvest a date palm they purchased, which is exactly what the 'Bold Claim' section's prose discusses \u2014 the public declaration of intent as evidence of ownership.",
+      "chosen_heading": "Bold Claim",
+      "current_heading": "Bold Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Buffer Zone",
+    "candidates": [
+      "Buffer Zone",
+      "Orlah Produce"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses possession of land outside the fence where wild donkeys eat produce, which directly matches the 'Buffer Zone' prose about the gudi d'arudai strip and the owner's reasoning that animals will eat whatever grows there.",
+      "chosen_heading": "Buffer Zone",
+      "current_heading": "Buffer Zone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Orlah Produce",
+    "candidates": [
+      "Orlah Produce",
+      "Shevi'it Kilayim",
+      "Sachis Fodder"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage introduces both Rav Yehuda's ruling on orla and the baraita that extends it to shevi'it and kilayim, but since the baraita is presented as confirmation of Rav Yehuda's statement (tanya nami hachi), it functions as a single unit best placed under the 'Orlah Produce' heading where Rav Yehuda's ruling is introduced, rather than splitting it under the separate 'Shevi'it Kilayim' heading.",
+      "chosen_heading": "Orlah Produce",
+      "current_heading": "Orlah Produce",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Sachis Fodder",
+    "candidates": [
+      "Shevi'it Kilayim",
+      "Sachis Fodder",
+      "Sachis Exception",
+      "Tafticha Barren",
+      "No-Profit Land"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yosef's ruling on shachas fodder and Rava's qualification about Mechuza, but the current placement under 'Sachis Fodder' (index 1) is better than 'Sachis Exception' (index 2) because index 1's prose explicitly covers both statements together, while index 2 only covers Rava's qualification \u2014 however, since the passage must go under ONE heading and index 1's prose discusses both components (including noting Rava's qualification), index 1 remains the best single home for the complete passage.",
+      "chosen_heading": "Sachis Fodder",
+      "current_heading": "Sachis Fodder",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "No-Profit Land",
+    "candidates": [
+      "Sachis Exception",
+      "Tafticha Barren",
+      "No-Profit Land",
+      "Resh Galuta",
+      "Fear Prevents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the tafticha ruling and the kura ruling together in one Aramaic statement, and candidate 1 ('Tafticha Barren') explicitly introduces Rav Nachman's ruling about tafticha and covers both topics, making it the natural home for this combined source text.",
+      "chosen_heading": "Tafticha Barren",
+      "current_heading": "No-Profit Land",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Fear Prevents",
+    "candidates": [
+      "Resh Galuta",
+      "Fear Prevents",
+      "Reciprocal",
+      "Force Override",
+      "Animate Property",
+      "Roaming Flocks",
+      "Three Years Needed",
+      "Volition Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the complete ruling about the reish galuta household (both directions of the asymmetry), which belongs under the 'Resh Galuta' heading that introduces this very rule, rather than being split across the 'Fear Prevents' and 'Reciprocal' headings.",
+      "chosen_heading": "Resh Galuta",
+      "current_heading": "Fear Prevents",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Volition Logic",
+    "candidates": [
+      "Reciprocal",
+      "Force Override",
+      "Animate Property",
+      "Roaming Flocks",
+      "Three Years Needed",
+      "Volition Logic",
+      "Infant Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna's ruling on slaves and raises the contradiction from Reish Lakish about livestock lacking immediate chazaka, then resolves it with Rava's three-year rule \u2014 this is precisely what the 'Animate Property' section's prose describes as the gemara's explanation of why slaves are more complex than ordinary metaltelin.",
+      "chosen_heading": "Animate Property",
+      "current_heading": "Volition Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Infant Exception",
+    "candidates": [
+      "Volition Logic",
+      "Infant Exception",
+      "Mother Logic",
+      "Seize for Claim",
+      "Value Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's statement about an infant in a cradle establishing immediate possession, which is exactly what the 'Infant Exception' prose introduces, while the mother-forgetting logic in the passage is contextualized as part of that same ruling rather than a separate discussion.",
+      "chosen_heading": "Infant Exception",
+      "current_heading": "Infant Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Value Limit",
+    "candidates": [
+      "Mother Logic",
+      "Seize for Claim",
+      "Value Limit",
+      "Miggo Applied",
+      "Flocks Paradox",
+      "Shepherd Supervision",
+      "Supervision Gaps"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the entire episode \u2014 goats eating barley in Nehardea, seizure, the damage claim, the miggo argument, the Reish Lakish objection, and the shepherd resolution \u2014 which matches heading 1 ('Seize for Claim') whose prose introduces this very case, whereas the current placement under 'Value Limit' only covers one sub-point of the passage.",
+      "chosen_heading": "Seize for Claim",
+      "current_heading": "Value Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Supervision Gaps",
+    "candidates": [
+      "Miggo Applied",
+      "Flocks Paradox",
+      "Shepherd Supervision",
+      "Supervision Gaps",
+      "Seasonal Cycles",
+      "Yishmael Approach",
+      "Akiva Approach",
+      "Multiple Harvests",
+      "Nir Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly addresses the morning/evening supervision gaps (tzipra u'panya) and the Nehardea Arabs (tayya'ei) explanation for hand-to-hand delivery, which is precisely what the 'Supervision Gaps' prose describes.",
+      "chosen_heading": "Supervision Gaps",
+      "current_heading": "Supervision Gaps",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Nir Debate",
+    "candidates": [
+      "Seasonal Cycles",
+      "Yishmael Approach",
+      "Akiva Approach",
+      "Multiple Harvests",
+      "Nir Debate",
+      "Tannaitic View",
+      "Pattern Rule",
+      "Acha Position",
+      "Majority View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's proposal that the Yishmael-Akiva dispute hinges on nir, then refutes it and concludes that all agree nir is not chazaka and the real dispute is about major vs. minor produce \u2014 exactly what the 'Nir Debate' prose describes.",
+      "chosen_heading": "Nir Debate",
+      "current_heading": "Nir Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Majority View",
+    "candidates": [
+      "Tannaitic View",
+      "Pattern Rule",
+      "Acha Position",
+      "Majority View",
+      "Authority List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita dispute about nir, Rav Ashi's survey of gedolei hador, Rav Beivai/Rav Nachman's reasoning exchange, and Pum Nahara's question \u2014 are all explicitly discussed together in candidate 3's prose, which covers exactly this continuous chain of material about whether plowing constitutes chazaka.",
+      "chosen_heading": "Majority View",
+      "current_heading": "Majority View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Authority List",
+    "candidates": [
+      "Authority List",
+      "Mishnah Proof",
+      "Rav Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man bar Yitz\u1e25ak's counter-enumeration of authorities who reject nir as chazaka, which is precisely what the 'Authority List' prose describes.",
+      "chosen_heading": "Authority List",
+      "current_heading": "Authority List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Rav Position",
+    "candidates": [
+      "Mishnah Proof",
+      "Rav Position",
+      "Shmuel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yehuda citing Rav's statement about the Rabbis requiring three years from day to day and the phrase 'mi-yom le-yom' excluding nir, which is precisely what the 'Rav Position' prose describes.",
+      "chosen_heading": "Rav Position",
+      "current_heading": "Rav Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      144
+    ],
+    "current_heading": "Shmuel Position",
+    "candidates": [
+      "Shmuel Position",
+      "Young Palm",
+      "Mechanics TBD"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly identifies the practical difference between Rav and Shmuel as the case of 'dekel na'ara' (young palm tree producing three harvests per year), which is precisely what the 'Young Palm' section's prose describes.",
+      "chosen_heading": "Young Palm",
+      "current_heading": "Shmuel Position",
+      "moved": true
+    }
+  }
+]

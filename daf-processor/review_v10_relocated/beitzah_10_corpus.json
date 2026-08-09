@@ -1,0 +1,366 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Shammai/Hillel",
+    "candidates": [
+      "Intro & Setup",
+      "Default Muktzeh",
+      "Shammai/Hillel",
+      "First/Second Brood"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 12,
+      "first_heading": "Shammai/Hillel",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-12 are Gemara dialectic about contradictions in Beit Shammai/Hillel positions on Festival rejoicing, fitting the 'Shammai/Hillel' section's discussion of the dispute framework.",
+      "second_heading": "First/Second Brood",
+      "second_confidence": "high",
+      "second_reason": "Item 13 is an explicitly marked new Mishnah about taking fledgling doves with verbal vs. physical designation, which is precisely the text the 'First/Second Brood' section discusses as the basis for Rav Chanan bar Ammi's qualification about first and second broods.",
+      "current_heading": "Shammai/Hillel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "First/Second Brood",
+    "candidates": [
+      "First/Second Brood",
+      "Generic vs Specific"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss Rav \u1e24anan bar Ami's qualification about the first and second broods, which is exactly what the 'First/Second Brood' section prose describes.",
+      "chosen_heading": "First/Second Brood",
+      "current_heading": "First/Second Brood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Generic vs Specific",
+    "candidates": [
+      "Generic vs Specific",
+      "Beira Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly asks why Beit Hillel requires specifying which particular bird rather than making a generic declaration, which matches exactly the 'Generic vs Specific' section's prose about this precise question.",
+      "chosen_heading": "Generic vs Specific",
+      "current_heading": "Generic vs Specific",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Beira Definition",
+    "candidates": [
+      "Beira Definition",
+      "Ohalot Case",
+      "Retroactive Designtn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the question of whether Beit Hillel rejects breira and then cites the Ohalot mishna as a proof-test, which matches the 'Beira Definition' section's prose describing exactly this move \u2014 noting the assumption about breira and introducing the Ohalot mishna to test it.",
+      "chosen_heading": "Beira Definition",
+      "current_heading": "Beira Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Retroactive Designtn",
+    "candidates": [
+      "Ohalot Case",
+      "Retroactive Designtn",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the complete unit about the Ohalot Beit Shammai/Beit Hillel dispute and Rabba/Rav Oshaya's clarification that Beit Hillel means only forward-going purity, which is precisely what the 'Retroactive Designtn' prose describes.",
+      "chosen_heading": "Retroactive Designtn",
+      "current_heading": "Retroactive Designtn",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Rava's Answer",
+      "Visual ID Question",
+      "Rashi's Logic",
+      "Rejection Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement explaining that generic designation is problematic because one might repeatedly pick up and put down birds that turn out to be muktzeh \u2014 exactly the 'second, independent answer' described in the 'Rava's Answer' prose section.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Rejection Risk",
+    "candidates": [
+      "Visual ID Question",
+      "Rashi's Logic",
+      "Rejection Risk",
+      "Color Changes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's question-and-answer about why visual designation on Yom Tov itself is insufficient \u2014 exactly the content described in the 'Visual ID Question' prose, which asks why visual identification must be done the day before rather than on Yom Tov itself, and the passage answers that question by explaining the two risks (muktzeh handling and neglecting Yom Tov joy).",
+      "chosen_heading": "Visual ID Question",
+      "current_heading": "Rejection Risk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Color Changes",
+    "candidates": [
+      "Rejection Risk",
+      "Color Changes",
+      "Rava's Reading",
+      "Displacement Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Mishna text covering designated birds found with color changes, number changes, and location shifts \u2014 exactly what the 'Color Changes' section prose describes and analyzes.",
+      "chosen_heading": "Color Changes",
+      "current_heading": "Color Changes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Displacement Logic",
+    "candidates": [
+      "Rava's Reading",
+      "Displacement Logic",
+      "Two\u2192Three Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rabba's clarification of the color-switch case, the suggestion that it supports Rabbi \u1e24anina's rov ve'karov rule, and Abaye's daf qualification \u2014 are precisely what candidate 0 ('Rava's Reading') describes, covering the gemara's initial obviousness question and Rabba's resolution, which is the content of item 1, while items 2-3 naturally follow as the gemara's continuation of that same discussion; candidate 1's prose already incorporates all this material but is labeled 'Displacement Logic' and the current placement there is also defensible, however candidate 0's prose most directly matches items 1-3 as a unit beginning with the gemara's obviousness challenge and Rabba's answer.",
+      "chosen_heading": "Rava's Reading",
+      "current_heading": "Displacement Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Two\u2192Three Case",
+    "candidates": [
+      "Displacement Logic",
+      "Two\u2192Three Case",
+      "Three\u2192Two Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the mimma nafshach argument for the two-designated-three-found case, which is precisely what the 'Two\u2192Three Case' prose describes.",
+      "chosen_heading": "Two\u2192Three Case",
+      "current_heading": "Two\u2192Three Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Three\u2192Two Case",
+    "candidates": [
+      "Three\u2192Two Case",
+      "Money Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Three\u2192Two case ruling and its reasoning (one wandered off), which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Three\u2192Two Case",
+      "current_heading": "Three\u2192Two Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Money Case",
+    "candidates": [
+      "Money Case",
+      "Rabbi/Sages",
+      "Birds Walk Theory"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Money Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita's first case (placed 100, found 200) which matches exactly the 'Money Case' prose describing the maneh/matayim scenario and the Rabbi vs. Sages dispute.",
+      "second_heading": "Rabbi/Sages",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the reverse case (placed 200, found 100) which matches exactly the 'Rabbi/Sages' prose describing the matayim/maneh scenario and its application to the bird case.",
+      "current_heading": "Money Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Birds Walk Theory",
+    "candidates": [
+      "Rabbi/Sages",
+      "Birds Walk Theory",
+      "Bundling Logic",
+      "Basic Setup",
+      "Rov/Karov",
+      "Plank Scenario",
+      "Bottom Desig"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous Talmudic discussion about why fledglings differ from money pouches (items 1-3), Rav Ashi's bundling resolution (item 4), and Rabbi's response about worn knots (items 5-6), which is precisely the content described in the 'Birds Walk Theory' prose section.",
+      "chosen_heading": "Birds Walk Theory",
+      "current_heading": "Birds Walk Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Bottom Desig",
+    "candidates": [
+      "Bundling Logic",
+      "Basic Setup",
+      "Rov/Karov",
+      "Plank Scenario",
+      "Bottom Desig",
+      "Why Not Karov",
+      "Top Desig"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rov/Karov",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the mishna ruling and proposes it supports Rabbi Chanina's rov/karov principle, which is exactly what the 'Rov/Karov' section's prose describes.",
+      "second_heading": "Plank Scenario",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's daf objection and Rava's two-nest scenario, with Rava's first case (lower designated, found below, upper empty) \u2014 the 'Plank Scenario' prose covers Abaye's daf objection, and Rava's bottom-nest case begins there before continuing into 'Bottom Desig'.",
+      "current_heading": "Bottom Desig",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Top Desig",
+    "candidates": [
+      "Why Not Karov",
+      "Top Desig",
+      "50-Amah Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the exact scenario discussed in 'Top Desig' \u2014 designating in the upper nest but not the lower, finding birds in the upper but not the lower, and the ruling that those birds are prohibited because the lower birds may have climbed up (*sruchi sreich vesalik*).",
+      "chosen_heading": "Top Desig",
+      "current_heading": "Top Desig",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "50-Amah Rule",
+    "candidates": [
+      "50-Amah Rule",
+      "Sightline Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the 'no others present' ruling, the flying vs. waddling distinction, and Mar Ukva bar \u1e24ama's fifty-amah maximum waddling distance \u2014 precisely what the '50-Amah Rule' prose describes.",
+      "chosen_heading": "50-Amah Rule",
+      "current_heading": "50-Amah Rule",
+      "moved": false
+    }
+  }
+]

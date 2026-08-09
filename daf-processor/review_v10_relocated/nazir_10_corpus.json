@@ -1,0 +1,220 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "R. Yehuda Position",
+    "candidates": [
+      "Cow's Declaration",
+      "Beis Shammai/Hillel",
+      "R. Yehuda Position",
+      "Rami bar Chama"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna itself, containing all elements \u2014 the cow/door scenario, the Beit Shammai/Hillel dispute, and Rabbi Yehuda's qualification \u2014 and belongs under heading 0 which introduces this Mishna as a unified unit, rather than being split across multiple headings.",
+      "chosen_heading": "Cow's Declaration",
+      "current_heading": "R. Yehuda Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rami bar Chama",
+    "candidates": [
+      "R. Yehuda Position",
+      "Rami bar Chama",
+      "Meat Nazirut",
+      "Debate Repetition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the Gemara's question about a talking cow and Rami bar \u1e24ama's explanation of the prone cow scenario, which matches exactly what the 'Rami bar Chama' section's prose describes, including the crouching cow and the full statement \u2014 the current placement is correct.",
+      "chosen_heading": "Rami bar Chama",
+      "current_heading": "Rami bar Chama",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Debate Repetition",
+    "candidates": [
+      "Meat Nazirut",
+      "Debate Repetition",
+      "Multiple Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly illustrates the Beit Shammai/Beit Hillel debate repetition that the 'Debate Repetition' section's prose explicitly discusses, explaining why their positions here mirror their earlier positions on dates and develah.",
+      "chosen_heading": "Debate Repetition",
+      "current_heading": "Debate Repetition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Multiple Cases",
+    "candidates": [
+      "Multiple Cases",
+      "Dates/Grapes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rava's 'two or three' (trei telas) answer explaining why the same principle is repeated across multiple cases, which directly matches the 'Multiple Cases' section's prose about Rava's trei telas response and the multiple illustrations by Rabbi Chiya and Rabbi Yoshiya.",
+      "chosen_heading": "Multiple Cases",
+      "current_heading": "Multiple Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Dates/Grapes",
+    "candidates": [
+      "Dates/Grapes",
+      "Meat Distinction",
+      "Wine/Meat Link",
+      "Door Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full u'tzricha argument explaining why both the grogros/develah case and the meat case are necessary, starting with the dried figs/grapes confusion \u2014 which is precisely what the 'Dates/Grapes' section's prose introduces and discusses.",
+      "chosen_heading": "Dates/Grapes",
+      "current_heading": "Dates/Grapes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Door Example",
+    "candidates": [
+      "Meat Distinction",
+      "Wine/Meat Link",
+      "Door Example",
+      "Mapik Hey",
+      "Grammar Fix",
+      "Literal Approach",
+      "Story/Meaning",
+      "Rava Objection",
+      "Inverted Condition",
+      "Ability to Raise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why all three cases (dates, meat, and door) must be stated together \u2014 that omitting either the door case or the two other cases would allow one to think Beit Shammai or Beit Hillel concedes in the unstated cases \u2014 which is precisely what the 'Door Example' section's prose discusses.",
+      "chosen_heading": "Door Example",
+      "current_heading": "Door Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Ability to Raise",
+    "candidates": [
+      "Mapik Hey",
+      "Grammar Fix",
+      "Literal Approach",
+      "Story/Meaning",
+      "Rava Objection",
+      "Inverted Condition",
+      "Ability to Raise",
+      "Standing Fact",
+      "Rabbi Yehuda Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together present Rava's reframing of the mishna as a case where the man said 'I will be a nazir if it does NOT stand' and the cow stood on its own \u2014 which is precisely what the 'Inverted Condition' prose describes, including Rava's insertion of 'lo' and the setup for the Beit Shammai/Beit Hillel debate that follows.",
+      "chosen_heading": "Inverted Condition",
+      "current_heading": "Ability to Raise",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Rabbi Yehuda Limit",
+    "candidates": [
+      "Standing Fact",
+      "Rabbi Yehuda Limit",
+      "Must Be Meat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's challenge to Rava's reframing based on Rabbi Yehuda's limiting clause \u2014 exactly the difficulty described in the 'Rabbi Yehuda Limit' prose section.",
+      "chosen_heading": "Rabbi Yehuda Limit",
+      "current_heading": "Rabbi Yehuda Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Must Be Meat",
+    "candidates": [
+      "Must Be Meat",
+      "Concession"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items belong to the 'Must Be Meat' section: Item 1 presents the Gemara's 'ela kegon de'amar hareini nazir mibesara' reformulation with the Beit Shammai/Beit Hillel positions on the standing condition, and Item 2 is the immediate Gemara challenge to Beit Hillel that the 'Must Be Meat' prose explicitly describes as the difficulty pressed by the Gemara.",
+      "chosen_heading": "Must Be Meat",
+      "current_heading": "Must Be Meat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Concession",
+    "candidates": [
+      "Concession",
+      "Hillel Counter",
+      "Core Claim",
+      "Why Illustrations",
+      "Parallel Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers the full exchange \u2014 Beit Hillel's argument to Beit Shammai and Beit Shammai's counter \u2014 but the current heading's prose specifically describes Beit Hillel staging the 'concede to us' argument, which matches the opening of this Gemara passage most directly, making it the best fit even if the Beit Shammai reply also appears under heading 1's prose.",
+      "chosen_heading": "Concession",
+      "current_heading": "Concession",
+      "moved": false
+    }
+  }
+]

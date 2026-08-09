@@ -1,0 +1,391 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Opening & Verse",
+      "Rabbi Eliezer",
+      "Rabbi Yehoshua",
+      "Rabban Gamliel",
+      "Rav Nechunya",
+      "RYZ's Teaching",
+      "Ifra Hormiz Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items are the continuous debate over the verse 'tzedakah teromem goy ve-chesed le'umim chatat' \u2014 the baraita challenge about mixed-motive charity (item 1), Rabbi Yehoshua (item 2), Rabban Gamliel (item 3), Rabbi Eliezer HaModai (item 4), and Rabbi Ne\u1e25unya with Rabban Yo\u1e25anan ben Zakkai's own view (item 5) \u2014 and the current heading 'Rabbi Eliezer' prose explicitly narrates all of these elements including the baraita challenge and the resolution, making it the best match despite the heading name being narrow.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Rabbi Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Ifra Hormiz Story",
+    "candidates": [
+      "Rabbi Yehoshua",
+      "Rabban Gamliel",
+      "Rav Nechunya",
+      "RYZ's Teaching",
+      "Ifra Hormiz Story",
+      "Ami's Objection",
+      "Rava's Solution",
+      "Rashi Analysis",
+      "Benjamin Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Items 1-3 describe Rabbi Ami's anger at Rava for accepting Ifra Hormiz's money and his citation of the verse about withered boughs, which corresponds precisely to candidate 5 ('Ami's Objection') rather than candidate 4 which covers Rava's initial acceptance and framing.",
+      "chosen_heading": "Ami's Objection",
+      "current_heading": "Ifra Hormiz Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Benjamin Story",
+    "candidates": [
+      "Ami's Objection",
+      "Rava's Solution",
+      "Rashi Analysis",
+      "Benjamin Story",
+      "Life-Saving Merit",
+      "Munbaz Teaching",
+      "Metaphors & Rewards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita about Benjamin HaTzaddik and the charity fund, which directly corresponds to the 'Benjamin Story' section's prose description of that exact narrative.",
+      "chosen_heading": "Benjamin Story",
+      "current_heading": "Benjamin Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Metaphors & Rewards",
+    "candidates": [
+      "Life-Saving Merit",
+      "Munbaz Teaching",
+      "Metaphors & Rewards",
+      "Paradox Explained",
+      "Residency & Purchase"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete story of King Munbaz with all his parallel formulations, and candidate 1 ('Munbaz Teaching') is the section whose prose introduces this very story and its structure, while candidates 2 and 3 are merely elaborating on specific formulations \u2014 the full passage belongs under the heading that introduces the Munbaz narrative.",
+      "chosen_heading": "Munbaz Teaching",
+      "current_heading": "Metaphors & Rewards",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Residency & Purchase",
+    "candidates": [
+      "Paradox Explained",
+      "Residency & Purchase",
+      "Shimon's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna's rule about purchasing a residence conferring immediate residency status and notes the disagreement with Rabban Shimon ben Gamliel, which is precisely what the 'Residency & Purchase' prose describes as its content.",
+      "chosen_heading": "Residency & Purchase",
+      "current_heading": "Residency & Purchase",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Shimon's View",
+    "candidates": [
+      "Shimon's View",
+      "Chatzer Division",
+      "Measurements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between two tannaim over Rabban Shimon ben Gamliel's position regarding land suitable for residence, which is precisely what the 'Shimon's View' prose describes.",
+      "chosen_heading": "Shimon's View",
+      "current_heading": "Shimon's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Measurements",
+    "candidates": [
+      "Chatzer Division",
+      "Measurements",
+      "Indivisibles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah text covers the courtyard minimum (four cubits), the field minimum (nine kavin), Rabbi Yehuda's field ruling (nine half-kavin), the garden minimum (half-kav), and Rabbi Akiva's ruling (beit rova) \u2014 all of which are introduced and explained in the 'Chatzer Division' prose, not split across two headings.",
+      "chosen_heading": "Chatzer Division",
+      "current_heading": "Measurements",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Indivisibles",
+    "candidates": [
+      "Measurements",
+      "Indivisibles",
+      "Divisibility Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists the indivisible property categories and states the 'enough for each' standard, which is precisely what the 'Indivisibles' section's prose discusses, including the same items (traklin, moran, shovach, tallis, merchatz, beit ha-bad, beit ha-shlachin) and the kidei lazeh u-kidei lazeh principle.",
+      "chosen_heading": "Indivisibles",
+      "current_heading": "Indivisibles",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Divisibility Test",
+    "candidates": [
+      "Divisibility Test",
+      "Rav Assi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the conditions for voluntary vs. forced partition and the exception for sacred scrolls, which is exactly what the 'Divisibility Test' prose describes.",
+      "chosen_heading": "Divisibility Test",
+      "current_heading": "Divisibility Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Rav Assi",
+    "candidates": [
+      "Rav Assi",
+      "Rav Huna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the same Rav Asi/Rabbi Yochanan ruling that the four cubits are exclusive of the door space, reconciling the Mishnah with the baraita \u2014 exactly what the 'Rav Assi' prose section describes.",
+      "chosen_heading": "Rav Assi",
+      "current_heading": "Rav Assi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Rav Huna",
+    "candidates": [
+      "Rav Huna",
+      "Rav Chisda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Huna's and Rav Chisda's statements together, but the current placement under 'Rav Huna' is correct since it introduces Rav Huna's position first, and the prose under heading 0 explicitly discusses both views as part of introducing the topic, while heading 1's prose discusses Rav Chisda's position in detail as a follow-up \u2014 the quoted text serves as the source for heading 0's discussion which sets up the contrast.",
+      "chosen_heading": "Rav Huna",
+      "current_heading": "Rav Huna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Rav Chisda",
+    "candidates": [
+      "Rav Chisda",
+      "Special Structures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita supporting Rav \u1e24isda, Abaye's clarification of the wide-entrance case, and Ameimar's ruling about the pit for animal food \u2014 are explicitly discussed in the 'Rav Chisda' section's prose, making the current placement correct.",
+      "chosen_heading": "Rav Chisda",
+      "current_heading": "Rav Chisda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Special Structures",
+    "candidates": [
+      "Special Structures",
+      "Rationale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the achsadra/portico rulings and the baraita about gatehouse/portico/balcony with the chicken coop question, all of which are explicitly summarized in the 'Special Structures' prose section.",
+      "chosen_heading": "Special Structures",
+      "current_heading": "Special Structures",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Rationale",
+    "candidates": [
+      "Rationale",
+      "Hostels Division",
+      "Roofed Spaces",
+      "New Doors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about a half-roofed house and Rav Na\u1e25man's ruling is explicitly discussed in the 'Rationale' section's prose, which directly references this case as an example of the four amot logic based on the ability to enter and unload inside.",
+      "chosen_heading": "Rationale",
+      "current_heading": "Rationale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "New Doors",
+    "candidates": [
+      "Hostels Division",
+      "Roofed Spaces",
+      "New Doors",
+      "Dung Heaps"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "New Doors",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about a resident wishing to redirect his doorway to a different alleyway, which is precisely what candidate 2 ('New Doors') discusses \u2014 benei mavoy preventing lehachzir pitcho lemavoy acher.",
+      "second_heading": "Hostels Division",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is about the achsanya/zevel division question (people vs. doorways), which is the specific topic candidate 0 ('Hostels Division') introduces, while candidate 2's prose only mentions it briefly as a related question and candidate 0 focuses on it as the main subject.",
+      "current_heading": "New Doors",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Dung Heaps",
+    "candidates": [
+      "Dung Heaps",
+      "Graduated Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Huna's ruling about blocking off space adjacent to one's entrance in an alleyway, which is precisely the case discussed in the 'Dung Heaps' prose section (attributed there to Rav Yehuda, but describing the identical ruling and reasoning about increasing the way for neighbors).",
+      "chosen_heading": "Dung Heaps",
+      "current_heading": "Dung Heaps",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122
+    ],
+    "current_heading": "Graduated Rights",
+    "candidates": [
+      "Graduated Rights",
+      "Innermost Rights",
+      "Sealed Doors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita about five courtyards and their graduated usage rights, which is precisely what heading 0 ('Graduated Rights') describes \u2014 the outermost courtyard using only its own space, working inward with each courtyard able to use the space of all courtyards between it and the exit, matching the prose of candidate 0 exactly.",
+      "chosen_heading": "Graduated Rights",
+      "current_heading": "Graduated Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128
+    ],
+    "current_heading": "Sealed Doors",
+    "candidates": [
+      "Innermost Rights",
+      "Sealed Doors",
+      "Zoning Issues"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the tannaic dispute about sealed doors and the chisurei michsera resolution about five courtyards, which is precisely what the 'Sealed Doors' prose describes in detail.",
+      "chosen_heading": "Sealed Doors",
+      "current_heading": "Sealed Doors",
+      "moved": false
+    }
+  }
+]

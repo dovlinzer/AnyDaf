@@ -1,0 +1,363 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "Thread Counts",
+    "candidates": [
+      "Sheish & Six Threads",
+      "Thread Counts",
+      "Sheish = Linen"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita listing thread counts and the gemara's derivation of the six-fold rule from five mentions of 'shesh' \u2014 are explicitly described and analyzed in the 'Thread Counts' prose, which covers exactly this content including the five-instance proof and the l'akev principle.",
+      "chosen_heading": "Thread Counts",
+      "current_heading": "Thread Counts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Sheish = Linen",
+    "candidates": [
+      "Sheish = Linen",
+      "Yechezkel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the etymology of 'shesh' via the term 'bad' and the stalk-by-stalk growth argument, which is precisely what the prose under 'Sheish = Linen' describes.",
+      "chosen_heading": "Sheish = Linen",
+      "current_heading": "Sheish = Linen",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Yechezkel",
+    "candidates": [
+      "Yechezkel",
+      "Meshuzar = 8"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are precisely the Ravina-Rav Ashi exchange about using Ezekiel's term pishtim to establish the meaning of bad/shesh, which is exactly what the 'Yechezkel' section's prose describes in detail.",
+      "chosen_heading": "Yechezkel",
+      "current_heading": "Yechezkel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Meshuzar = 8",
+    "candidates": [
+      "Meshuzar = 8",
+      "Pomegranates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly establishes the gezerah shavah deriving 'mashzar = 8' from the pomegranate verse and the paroches, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Meshuzar = 8",
+      "current_heading": "Meshuzar = 8",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Pomegranates",
+    "candidates": [
+      "Pomegranates",
+      "Me\u00edl = 12"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the derivation of thread count for the pomegranates \u2014 rejecting the breastplate/ephod as a source, settling on the belt, and Rav Mari's and Rav Ashi's additional arguments \u2014 which is precisely what the 'Pomegranates' prose section describes.",
+      "chosen_heading": "Pomegranates",
+      "current_heading": "Pomegranates",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Me\u00edl = 12",
+    "candidates": [
+      "Me\u00edl = 12",
+      "Paroches = 24",
+      "Choshen/Ephod = 28"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the derivation of the twelve-thread count for the me'il via the gezeirah shavah from the paroches, the rejection of deriving from the pomegranates, and the resolution invoking the general rule for garments without explicit shesh \u2014 exactly what the 'Me\u00edl = 12' prose describes.",
+      "chosen_heading": "Me\u00edl = 12",
+      "current_heading": "Me\u00edl = 12",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Choshen/Ephod = 28",
+    "candidates": [
+      "Paroches = 24",
+      "Choshen/Ephod = 28",
+      "Tearing Garments"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Paroches = 24",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the paroches at twenty-four strands (four types times six each, lo dina velo dayana), which matches exactly the 'Paroches = 24' prose.",
+      "second_heading": "Choshen/Ephod = 28",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 discuss the choshen/ephod at twenty-eight strands, including the derivation of four gold strands via Rav Acha bar Yaakov and Rav Ashi, which matches the 'Choshen/Ephod = 28' prose precisely.",
+      "current_heading": "Choshen/Ephod = 28",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Tearing Garments",
+    "candidates": [
+      "Tearing Garments",
+      "Removing Items"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses tearing priestly vestments and the 'lo yikarei' verse, which matches exactly the 'Tearing Garments' section prose.",
+      "chosen_heading": "Tearing Garments",
+      "current_heading": "Tearing Garments",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Removing Items",
+    "candidates": [
+      "Removing Items",
+      "Ark Staves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses detaching the breastplate from the ephod and removing the ark's staves, with the objection and rebuttal about the language of prohibition \u2014 exactly the content described in the 'Removing Items' prose.",
+      "chosen_heading": "Removing Items",
+      "current_heading": "Removing Items",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Ark Staves",
+    "candidates": [
+      "Ark Staves",
+      "Acacia Wood",
+      "Standing Meanings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the contradiction between the two verses about the Ark's staves and its resolution (mishtalfin ve-ein nishmatin), which is exactly what the 'Ark Staves' prose discusses in detail.",
+      "chosen_heading": "Ark Staves",
+      "current_heading": "Ark Staves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Standing Meanings",
+    "candidates": [
+      "Acacia Wood",
+      "Standing Meanings",
+      "Garments Serad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains all three interpretations of 'omdim' including the natural growth direction (discussed in heading 0's prose) and the gold plating and eternal standing interpretations (discussed in heading 1's prose), but heading 0 introduces the question and first interpretation while heading 1 continues with the subsequent interpretations \u2014 however, since the Talmudic passage is a single continuous unit covering all three meanings, it most naturally belongs under heading 0 where the discussion begins, with heading 1's prose serving as commentary on the latter portions.",
+      "chosen_heading": "Acacia Wood",
+      "current_heading": "Standing Meanings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Garments Serad",
+    "candidates": [
+      "Garments Serad",
+      "Survival",
+      "Nested Boxes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the homiletic and technical interpretations of 'bigdei ha-serad' (the serad garments), including Rabbi \u1e24ama bar \u1e24anina's derivation, Rabbi Shmuel bar Na\u1e25mani's weaving explanation, Reish Lakish's identification of needle-work, and Abaye's resolution about sleeves \u2014 exactly matching the 'Garments Serad' section's prose.",
+      "chosen_heading": "Garments Serad",
+      "current_heading": "Garments Serad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Nested Boxes",
+    "candidates": [
+      "Survival",
+      "Nested Boxes",
+      "Three Crowns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss Bezalel's three nested arks and the resolution of the discrepancy between 'ten and a bit' and 'eleven and a bit,' which is precisely what the 'Nested Boxes' prose describes in detail.",
+      "chosen_heading": "Nested Boxes",
+      "current_heading": "Nested Boxes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Three Crowns",
+    "candidates": [
+      "Three Crowns",
+      "Torah Crown"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the three crowns and their recipients (altar\u2192Aaron, table\u2192David, Ark\u2192Torah available to all), which is precisely what the 'Three Crowns' section prose discusses; the 'Torah Crown' section focuses on the subsequent point about Torah's superiority and the zer/zeir wordplay, which are not in this passage.",
+      "chosen_heading": "Three Crowns",
+      "current_heading": "Three Crowns",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Torah Crown",
+    "candidates": [
+      "Torah Crown",
+      "Inner/Outer Gold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Yo\u1e25anan's contradiction between 'zar' and 'zeir' is explicitly discussed in the 'Torah Crown' prose, which directly references this teaching about the word being written one way but vocalized another, and how worthiness determines whether Torah becomes a crown or something foreign.",
+      "chosen_heading": "Torah Crown",
+      "current_heading": "Torah Crown",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Inner/Outer Gold",
+    "candidates": [
+      "Inner/Outer Gold",
+      "Torah Potion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Torah Potion",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 (Rabbi Yo\u1e25anan's contradiction about the Ark and the town's obligation to support a Torah scholar) is not discussed in either candidate's prose, but it appears to be a standalone teaching that precedes the inner/outer gold section; however, items 2-4 (Rava on tocho k'varo, Abaye/Rabba bar Ulla on loathsome scholars, Rabbi Shmuel bar Na\u1e25mani on fools buying wisdom) match perfectly with candidate 0's prose which explicitly discusses all three teachings in sequence.",
+      "second_heading": "Inner/Outer Gold",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 match candidate 0 ('Inner/Outer Gold') exactly \u2014 the prose discusses Rava's teaching on tocho k'varo from mibayis umichutz titzapenu, Abaye/Rabba bar Ulla's nikra nisa'av teaching, and Rabbi Shmuel bar Na\u1e25mani's lamah zeh mechir teaching, all in the same order as items 2-4.",
+      "current_heading": "Inner/Outer Gold",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Torah Potion",
+    "candidates": [
+      "Torah Potion",
+      "Fear & Purity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Fear & Purity",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (Rabbi Yannai's courtyard gate proclamation and Rava's 'do not inherit Gehenna twice') are explicitly discussed in the 'Fear & Purity' prose under that heading, which quotes both of them directly.",
+      "second_heading": "Torah Potion",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 (Rabbi Yehoshua ben Levi's sam chayim/sam misa teaching, Rava's reformulation, and Rabbi Yonatan/Reish Lakish's verses) are the core content of the 'Torah Potion' section, whose prose discusses all of these passages explicitly.",
+      "current_heading": "Torah Potion",
+      "moved": true
+    }
+  }
+]

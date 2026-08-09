@@ -1,0 +1,450 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Identifying Hat Fat",
+    "candidates": [
+      "Chelev Intro",
+      "Hat-Shaped Fat",
+      "Identifying Hat Fat",
+      "Chimtza Categories",
+      "Bar Chimtza Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Nachman's statement about hat-shaped fat not sealing holes, which is precisely what the 'Hat-Shaped Fat' section's prose describes, whereas the 'Identifying Hat Fat' section's prose discusses the follow-up question about where this fat is found \u2014 but the Gemara item includes both the initial statement and the clarification together, and the initial statement ('Hat-Shaped Fat') is the better primary home since that section explicitly quotes and discusses this exact Rav Nachman ruling.",
+      "chosen_heading": "Hat-Shaped Fat",
+      "current_heading": "Identifying Hat Fat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Bar Chimtza Power",
+    "candidates": [
+      "Chimtza Categories",
+      "Bar Chimtza Power",
+      "Rashi/Tosafot",
+      "Akashta/Yitrah",
+      "EY vs Bavel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together cover exactly what candidate 1 ('Bar Chimtza Power') describes: Rava's uncertainty, the ruling of the two Rav Hunas with Rav Tavut's mnemonic, and the 'ta shma' proof from Rav Nachman about eretz yisrael eating vs. Bavel not eating \u2014 all of which is precisely the content summarized in that section's prose.",
+      "chosen_heading": "Bar Chimtza Power",
+      "current_heading": "Bar Chimtza Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23
+    ],
+    "current_heading": "EY vs Bavel",
+    "candidates": [
+      "Rashi/Tosafot",
+      "Akashta/Yitrah",
+      "EY vs Bavel",
+      "Peeling Fat",
+      "Peeling Practice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items explain the physical anatomy of the keivah (akashta/bow vs. yitrah/bowstring) and which fat is universally forbidden vs. disputed, which is precisely what the 'Akashta/Yitrah' prose describes, not the 'EY vs Bavel' prose which discusses the two versions of the dispute at a higher level.",
+      "chosen_heading": "Akashta/Yitrah",
+      "current_heading": "EY vs Bavel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Peeling Practice",
+    "candidates": [
+      "Peeling Fat",
+      "Peeling Practice",
+      "Rabbi Chanina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full teaching from Rav Avya/Rabbi Ami through Rabbi Yannai and the eyewitness account, which candidate 0's prose introduces as a unified block about the Eretz Yisrael peeling practice, while candidate 1 treats only the latter portions as if the Rav Ami teaching had already been covered elsewhere.",
+      "chosen_heading": "Peeling Fat",
+      "current_heading": "Peeling Practice",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rabbi Chanina",
+    "candidates": [
+      "Peeling Practice",
+      "Rabbi Chanina",
+      "RSbG Mucus Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the exact anecdote of Rabbi Chanina and his Babylonian servant that is explicitly discussed in the 'Rabbi Chanina' section prose.",
+      "chosen_heading": "Rabbi Chanina",
+      "current_heading": "Rabbi Chanina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "RSbG Mucus Rule",
+    "candidates": [
+      "RSbG Mucus Rule",
+      "Mucus Definition",
+      "Rabbi Lineage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both the baraita (RSbG mucus rule) and Rav Kahana's definition, but since candidate 0's prose already anticipates the definition as part of introducing the mucus concept and the current placement is the opening of this topic, it fits well enough there; however candidate 1's prose more precisely matches Rav Kahana's explanation \u2014 yet since both elements appear in one continuous passage and candidate 0 is the current placement covering the full baraita, keeping it under candidate 0 is reasonable, though candidate 1 is also a strong match for the definition portion.",
+      "chosen_heading": "RSbG Mucus Rule",
+      "current_heading": "RSbG Mucus Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Rabbi Lineage",
+    "candidates": [
+      "Mucus Definition",
+      "Rabbi Lineage",
+      "Against Mucus",
+      "Aveilus Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the transmission chain between Rabbi Abba and Rabbi Zeira and the ruling by Rabbi Abba son of Rabbi Chiya bar Abba in the name of Rabbi Yochanan, which is precisely what the 'Rabbi Lineage' prose describes.",
+      "chosen_heading": "Rabbi Lineage",
+      "current_heading": "Rabbi Lineage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Aveilus Debate",
+    "candidates": [
+      "Against Mucus",
+      "Aveilus Debate",
+      "Mesorah Check",
+      "Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the baraita about mourning counting rules (makom karov/rachok and Rabbi Shimon's extension to the seventh day), which is precisely what the 'Aveilus Debate' prose describes in detail.",
+      "chosen_heading": "Aveilus Debate",
+      "current_heading": "Aveilus Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Correction",
+    "candidates": [
+      "Mesorah Check",
+      "Correction",
+      "Final Aveilus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the arrival in Eretz Yisrael, the direct question to Rabbi Abba, and his correction that the halakha is NOT like Rabban Shimon ben Gamliel \u2014 exactly what the 'Correction' section's prose discusses in detail.",
+      "chosen_heading": "Correction",
+      "current_heading": "Correction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Final Aveilus",
+    "candidates": [
+      "Final Aveilus",
+      "Comparison Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the halakhic dispute about Rabbi Shimon's ruling in aveilus and the Gemara's final conclusion on that matter, which is precisely what the 'Final Aveilus' prose section describes in detail.",
+      "chosen_heading": "Final Aveilus",
+      "current_heading": "Final Aveilus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Comparison Test",
+    "candidates": [
+      "Comparison Test",
+      "Rava's Case",
+      "Handling Effect",
+      "Brilliance Praise",
+      "Lung Comparison",
+      "Same Row",
+      "Cross-Row",
+      "Trachea"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together cover the full comparison test topic: item 1 introduces the rule (makifin bifnei me'ayim), item 2 illustrates it with Rava's case and Rav Mesharshiyya's insight, and item 3 extends it to the lung with rulings by Rabbi Yo\u1e25anan, Rabbi Elazar, and Rava \u2014 all of which are discussed under the 'Comparison Test' heading's prose, which explicitly mentions Rav Shimi bar Chiya's rule and the experimental method, while the lung comparison and cross-row halakha are continuations of the same topic rather than belonging under the later headings that treat those sub-points separately.",
+      "chosen_heading": "Comparison Test",
+      "current_heading": "Comparison Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Trachea",
+    "candidates": [
+      "Rava's Case",
+      "Handling Effect",
+      "Brilliance Praise",
+      "Lung Comparison",
+      "Same Row",
+      "Cross-Row",
+      "Trachea",
+      "Chacholet Kosher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes Abaye and Rava's ruling on comparing trachea sections, Rav Pappa's limitation to the same ring segment, and the final halakha permitting cross-segment comparisons while prohibiting hard-to-soft comparisons \u2014 exactly matching the 'Trachea' section's prose.",
+      "chosen_heading": "Trachea",
+      "current_heading": "Trachea",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Chacholet Kosher",
+    "candidates": [
+      "Chacholet Kosher",
+      "Thigh Support",
+      "Rav Nachman"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Ze'eiri's ruling about the rectum being kosher when perforated (because the hips hold it) AND Rabbi Ilai/Rabbi Yochanan's qualification about location, and the current heading's prose explicitly discusses both elements together as one unit, making it the correct placement.",
+      "chosen_heading": "Chacholet Kosher",
+      "current_heading": "Chacholet Kosher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Rav Nachman",
+    "candidates": [
+      "Thigh Support",
+      "Rav Nachman",
+      "Finger Width",
+      "Inner Keress",
+      "Sanya Divi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the continuous passage about Rava correcting the misattribution to Rav Nachman and then giving Rav Nachman's actual ruling about mekom hadevek with kedei tfisa, which is precisely what the 'Rav Nachman' section's prose describes.",
+      "chosen_heading": "Rav Nachman",
+      "current_heading": "Rav Nachman",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Sanya Divi",
+    "candidates": [
+      "Finger Width",
+      "Inner Keress",
+      "Sanya Divi",
+      "Alt Definitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents the testimony of Natan bar Sheila identifying the inner keres as 'sanya divi' and Rabbi Yishmael's alternative definition, which is exactly what the 'Sanya Divi' section's prose discusses.",
+      "chosen_heading": "Sanya Divi",
+      "current_heading": "Sanya Divi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Alt Definitions",
+    "candidates": [
+      "Alt Definitions",
+      "EY Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present alternative definitions of the inner rumen (keres ha-pnimit) \u2014 Rav Asi/Rabbi Yochanan's 'narrow place,' Rav Nachman bar Yitzchak's wry comment, Rav Acha bar Rav Ava's clarification, Shmuel's 'place without wool,' and Rav's 'handbreadth near the gullet' \u2014 all of which are explicitly discussed in the 'Alt Definitions' prose.",
+      "chosen_heading": "Alt Definitions",
+      "current_heading": "Alt Definitions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "EY Position",
+    "candidates": [
+      "EY Position",
+      "Exposure Test",
+      "Superset"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Eretz Yisrael/West position (Rabbi Yosei bar \u1e24anina) that the entire rumen is internal and the external rumen is the flesh covering the majority of it, which matches the 'EY Position' prose exactly, including the Rabba bar Rav Huna/mafrata detail that the EY prose also incorporates.",
+      "chosen_heading": "EY Position",
+      "current_heading": "EY Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Superset",
+    "candidates": [
+      "Exposure Test",
+      "Superset",
+      "Size Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Rav Ashi\u2013Ameimar dialogue about whether all other opinions are subsumed under Rabba bar Rav Huna's criterion and which ones disagree, which is precisely what the 'Superset' prose describes in detail.",
+      "chosen_heading": "Superset",
+      "current_heading": "Superset",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121
+    ],
+    "current_heading": "Size Rules",
+    "candidates": [
+      "Size Rules",
+      "Majority Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Yehuda's rule and Rabbi Binyamin bar Yefet/Rabbi Elazar's explanation of 'large' and 'small' in terms of tefach vs. rov thresholds, which is precisely what the 'Size Rules' prose discusses.",
+      "chosen_heading": "Size Rules",
+      "current_heading": "Size Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Majority Case",
+    "candidates": [
+      "Majority Case",
+      "Sela Size",
+      "Circle Math"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the majority (rov) case where the tear is less than a tefach, which is precisely what the 'Majority Case' prose describes, including the same Gemara question, answer, and the mashehu detail.",
+      "chosen_heading": "Majority Case",
+      "current_heading": "Majority Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Circle Math",
+    "candidates": [
+      "Sela Size",
+      "Circle Math",
+      "Date Pit Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three elements discussed in the 'Circle Math' section's prose: the sela/tefach equivalence, Rabbi \u1e24iyya bar Abba's clarification from Geneiva at the ferry of Neharde'a (k'sela kosher, yeter treifa), and the question of how much is 'a little larger' \u2014 with Rav Yosef's date pit answer belonging to this same continuous Talmudic discussion rather than being a separate section.",
+      "chosen_heading": "Circle Math",
+      "current_heading": "Circle Math",
+      "moved": false
+    }
+  }
+]

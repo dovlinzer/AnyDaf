@@ -1,0 +1,415 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Gedolah De'ah",
+    "candidates": [
+      "Gedolah De'ah",
+      "De'ah Between Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav Ami's first statement about knowledge being placed at the beginning of the weekday blessings, which is precisely what the prose under heading 0 ('Gedolah De'ah') discusses.",
+      "chosen_heading": "Gedolah De'ah",
+      "current_heading": "Gedolah De'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "De'ah Between Names",
+    "candidates": [
+      "De'ah Between Names",
+      "Da'ah as Beit HaMikdash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Ami's statement about the greatness of de'ah placed between two divine names and the prohibition of compassion for those lacking de'ah, which is precisely what the 'De'ah Between Names' prose section discusses.",
+      "chosen_heading": "De'ah Between Names",
+      "current_heading": "De'ah Between Names",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Da'ah as Beit HaMikdash",
+    "candidates": [
+      "Da'ah as Beit HaMikdash",
+      "Vengeance Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Da'ah as Beit HaMikdash' prose, which explicitly discusses Rabbi Elazar's statement about the Temple placed between two divine names and the parallel with de'ah, exactly what items 1 and 2 contain.",
+      "chosen_heading": "Da'ah as Beit HaMikdash",
+      "current_heading": "Da'ah as Beit HaMikdash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Vengeance Challenge",
+    "candidates": [
+      "Vengeance Challenge",
+      "Rabbi Akiva Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the challenge-and-response exchange about vengeance (nekamah) being placed between two divine names, which is precisely what the 'Vengeance Challenge' prose describes in detail.",
+      "chosen_heading": "Vengeance Challenge",
+      "current_heading": "Vengeance Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rabbi Akiva Position",
+    "candidates": [
+      "Rabbi Akiva Position",
+      "AKG Enactment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Akiva's position on havdalah as an independent fourth blessing, which matches the 'Rabbi Akiva Position' section's prose about Rabbi Akiva holding that havdalah is recited as an independent, separate berakhah.",
+      "chosen_heading": "Rabbi Akiva Position",
+      "current_heading": "Rabbi Akiva Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "AKG Enactment",
+    "candidates": [
+      "AKG Enactment",
+      "Havdalah Transitions",
+      "Double Havdalah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Shemen bar Abba's question to Rabbi Yochanan about where the AKG instituted havdalah, which directly matches the 'AKG Enactment' section's prose describing this very exchange and question.",
+      "chosen_heading": "AKG Enactment",
+      "current_heading": "AKG Enactment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36
+    ],
+    "current_heading": "Double Havdalah",
+    "candidates": [
+      "Havdalah Transitions",
+      "Double Havdalah",
+      "Sufficiency Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items directly present the historical transitions of havdalah and the ruling that one who recites havdalah in the Shemoneh Esrei must also recite it over a cup of wine \u2014 exactly what heading 1 ('Double Havdalah') discusses, including its specific mention of Rabbi Yochanan via two parallel formulations and the joint ruling of Rabba and Rav Yosef.",
+      "chosen_heading": "Double Havdalah",
+      "current_heading": "Double Havdalah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Sufficiency Debate",
+    "candidates": [
+      "Sufficiency Debate",
+      "Forgot Both"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items form one continuous discussion about havdala in the Amida vs. over the cup of wine \u2014 Rava's objection, the textual emendation, Rabbi Yochanan's ruling, the a fortiori argument, the baraita about relative merit, and its internal contradiction with resolution \u2014 all of which are explicitly narrated in the 'Sufficiency Debate' prose.",
+      "chosen_heading": "Sufficiency Debate",
+      "current_heading": "Sufficiency Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Forgot Both",
+    "candidates": [
+      "Forgot Both",
+      "Havdalah Like Kiddush"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav \u1e24isda's question to Rav Sheshet about erring in both the Amida and the cup of wine, which is precisely what the 'Forgot Both' section's prose describes.",
+      "chosen_heading": "Forgot Both",
+      "current_heading": "Forgot Both",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Havdalah Like Kiddush",
+    "candidates": [
+      "Havdalah Like Kiddush",
+      "Blessing Placement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Ravina's question to Rava and Rava's answer comparing havdalah to kiddush, which is exactly what candidate 0's prose describes and analyzes.",
+      "chosen_heading": "Havdalah Like Kiddush",
+      "current_heading": "Havdalah Like Kiddush",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Blessing Placement",
+    "candidates": [
+      "Blessing Placement",
+      "Modim Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Modim Solution",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah statement of Rabbi Eliezer's position (havdalah in modim/thanksgiving), which belongs to an earlier section establishing the basic positions, not to the donkey-riding story.",
+      "second_heading": "Blessing Placement",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20138 form the continuous Gemara discussion about the halakha following Rabbi Eliezer on Yom Tov after Shabbat \u2014 the donkey scene, the challenge about whether a dispute exists, the Rabbi Akiva objection, and Rav Zeira's correction to 'matin' \u2014 which matches perfectly the 'Blessing Placement' prose describing exactly this chain of reasoning.",
+      "current_heading": "Blessing Placement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Modim Solution",
+    "candidates": [
+      "Modim Solution",
+      "Silencing Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items \u2014 the dispute about halakha/matin/modim/nirin, Rabbi Zeira's instruction to rely on Rabbi \u1e24iyya bar Abba, the Ra\u1e25ava/stav example, and Rav Yosef's vatodieinu formulation \u2014 are explicitly described and contextualized in the 'Modim Solution' prose, which covers exactly this chain of reasoning about the placement of havdalah on Yom Tov after Shabbat.",
+      "chosen_heading": "Modim Solution",
+      "current_heading": "Modim Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Silencing Rules",
+    "candidates": [
+      "Silencing Rules",
+      "Two Concerns",
+      "Ta'amei HaMitzvot",
+      "Too Many Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 the Mishnah listing silencing rules, the Gemara clarifying each case, the two Amoraic opinions on the bird's nest, and the Rabba/Abaye exchange \u2014 are precisely the content described in the 'Silencing Rules' prose, which explicitly covers all these elements in sequence.",
+      "chosen_heading": "Silencing Rules",
+      "current_heading": "Silencing Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Too Many Names",
+    "candidates": [
+      "Two Concerns",
+      "Ta'amei HaMitzvot",
+      "Too Many Names",
+      "Three Names Principle",
+      "King Parable",
+      "Heaven's Hands"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Too Many Names",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the prayer leader's extended litany of divine attributes before Rabbi \u1e24anina, which is precisely what the 'Too Many Names' prose introduces \u2014 the case and the extended list of names.",
+      "second_heading": "King Parable",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rabbi \u1e24anina's response including the king/silver parable (mashal), which is exactly what the 'King Parable' prose discusses \u2014 the mashal about praising a king with silver when he has gold, and the principle of silence as praise.",
+      "current_heading": "Too Many Names",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Heaven's Hands",
+    "candidates": [
+      "Three Names Principle",
+      "King Parable",
+      "Heaven's Hands",
+      "Treasure Yirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi \u1e24anina's teaching that everything is in the hands of Heaven except fear of Heaven, which is precisely what the 'Heaven's Hands' section prose discusses.",
+      "chosen_heading": "Heaven's Hands",
+      "current_heading": "Heaven's Hands",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Treasure Yirah",
+    "candidates": [
+      "Treasure Yirah",
+      "Moshe Perspective"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about whether fear of Heaven is a minor matter and Rabbi \u1e24anina's answer about God's treasury of yirat shamayim, which is precisely what the 'Treasure Yirah' section's prose discusses.",
+      "chosen_heading": "Treasure Yirah",
+      "current_heading": "Treasure Yirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Moshe Perspective",
+    "candidates": [
+      "Moshe Perspective",
+      "Word vs. Verse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Moshe Perspective",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Rabbi Chanina mashal concluding the Moshe/yirat shamayim discussion, which perfectly matches the 'Moshe Perspective' prose.",
+      "second_heading": "Word vs. Verse",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 introduce the Mishnah ruling on 'modim modim' and Rabbi Zeira's parallel about repeating Shema, which directly matches the 'Word vs. Verse' prose discussing the modim modim silencing rule and its connection to Shema repetition.",
+      "current_heading": "Moshe Perspective",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Word vs. Verse",
+    "candidates": [
+      "Word vs. Verse",
+      "Kavanah Later"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita objection about repeating Shema being 'reprehensible' and the Gemara's resolution distinguishing word-by-word repetition from verse-by-verse repetition \u2014 are precisely what the 'Word vs. Verse' prose describes.",
+      "chosen_heading": "Word vs. Verse",
+      "current_heading": "Word vs. Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Kavanah Later",
+    "candidates": [
+      "Kavanah Later",
+      "Severe Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the complete exchange \u2014 Rav Pappa's question about making up kavanah and Abaye's sharp rejection with the blacksmith's hammer image \u2014 which is precisely what candidate 1 ('Severe Response') discusses in its prose.",
+      "chosen_heading": "Severe Response",
+      "current_heading": "Kavanah Later",
+      "moved": true
+    }
+  }
+]

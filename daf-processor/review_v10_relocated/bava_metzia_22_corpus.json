@@ -1,0 +1,339 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Core Dispute",
+    "candidates": [
+      "Opening Remarks",
+      "Core Dispute",
+      "Mishna Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "medium",
+      "reason": "The passage about a fig becoming disgusting upon falling (Rav Pappa's answer) is a specific gemara exchange arising from the mishna cases being analyzed, and the prose of candidate 2 discusses the series of cases the gemara is examining where yeush is at issue, making it a better fit than the general dispute overview in candidate 1.",
+      "chosen_heading": "Mishna Cases",
+      "current_heading": "Core Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Mishna Cases",
+    "candidates": [
+      "Mishna Cases",
+      "Ganav Case Analysis",
+      "Rav Pappa Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the baraita about the ganav, gazlan, and Jordan River cases \u2014 exactly what candidate 0 ('Mishna Cases') describes as the ta shema from the final line of 21b, including the ma shenatal natal principle.",
+      "chosen_heading": "Mishna Cases",
+      "current_heading": "Mishna Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rav Pappa Defense",
+    "candidates": [
+      "Ganav Case Analysis",
+      "Rav Pappa Defense",
+      "Tosefta Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rav Pappa explanation of listim mezuyan and the gemara's objection/answer about trei gavni gazlan, which is precisely what the 'Rav Pappa Defense' prose section describes.",
+      "chosen_heading": "Rav Pappa Defense",
+      "current_heading": "Rav Pappa Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Tosefta Text",
+    "candidates": [
+      "Tosefta Text",
+      "Conscious Yeush",
+      "Retrieval Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Tosefta text itself (river sweeping beams/wood/stones) along with the initial inference about conscious despair and the gemara's deflection, which matches the current placement under 'Tosefta Text' where the prose describes exactly this baraita and its ruling.",
+      "chosen_heading": "Tosefta Text",
+      "current_heading": "Tosefta Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Retrieval Scenarios",
+    "candidates": [
+      "Conscious Yeush",
+      "Retrieval Scenarios",
+      "Rava Framework",
+      "Tosefta Terumah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the Gemara's answer that we are dealing with retrieval possible only 'with difficulty' (al yedei hadechak), and the logic that pursuing/not pursuing indicates whether despair occurred \u2014 is precisely what the 'Rava Framework' prose describes and analyzes.",
+      "chosen_heading": "Rava Framework",
+      "current_heading": "Retrieval Scenarios",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Tosefta Terumah",
+    "candidates": [
+      "Rava Framework",
+      "Tosefta Terumah",
+      "Owner Reaction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the opening baraita from the Tosefta about terumah separated without the owner's consent, which is precisely what the 'Tosefta Terumah' section's prose describes \u2014 the scenario of Shimon entering Reuven's field and separating terumah shelo birshut, with the rule about choshesh mishum gezel.",
+      "chosen_heading": "Tosefta Terumah",
+      "current_heading": "Tosefta Terumah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38
+    ],
+    "current_heading": "Owner Reaction",
+    "candidates": [
+      "Owner Reaction",
+      "Shalichus Defense"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Owner Reaction",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita about the owner's reaction (kolach eitzel yafos) and adding to the terumah, which is precisely what heading 0 'Owner Reaction' discusses in its prose.",
+      "second_heading": "Shalichus Defense",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge to that baraita and Rava's resolution that it involves a formal shaliach appointment, which is exactly what heading 1 'Shalichus Defense' addresses in its prose.",
+      "current_heading": "Owner Reaction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Shalichus Defense",
+    "candidates": [
+      "Shalichus Defense",
+      "Gemara Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Talmudic proof from 'atem'/'gam atem' and the corollary 'mah atem l'da'atchem, af shluchachem l'da'atchem,' which is precisely what Candidate 0's prose describes as the gemara's support for the shaliach reading and its requirement of conscious designation.",
+      "chosen_heading": "Shalichus Defense",
+      "current_heading": "Shalichus Defense",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Gemara Explanation",
+    "candidates": [
+      "Gemara Explanation",
+      "Applied Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's explanation of the Tosefta case involving a shaliach appointed without specifying quality, which is precisely what the 'Gemara Explanation' prose section describes and analyzes in detail.",
+      "chosen_heading": "Gemara Explanation",
+      "current_heading": "Gemara Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Applied Case",
+    "candidates": [
+      "Applied Case",
+      "Mar Zutra Refusal",
+      "Dew Tosefta"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Applied Case",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the orchard incident itself \u2014 the sharecropper bringing fruit, Ameimar and Rav Ashi eating, Mar Zutra refusing, and Mari bar Isak's arrival and remark \u2014 which matches exactly the 'Applied Case' prose about that practical episode.",
+      "second_heading": "Mar Zutra Refusal",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Mar Zutra's response citing Rava's ruling that the terumah principle does not apply here due to embarrassment (kesifusa), which matches exactly the 'Mar Zutra Refusal' prose describing his cited reasoning and maintained refusal.",
+      "current_heading": "Applied Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Dew Tosefta",
+    "candidates": [
+      "Mar Zutra Refusal",
+      "Dew Tosefta",
+      "Post-Drying Awareness"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Dew Tosefta",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the case where dew is still present and the owner is glad \u2014 exactly what heading 1 ('Dew Tosefta') describes as hudach tal aleihen vesamach / harei zeh bechiyutan.",
+      "second_heading": "Post-Drying Awareness",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the ruling for the post-drying case (eina bechiyutan) \u2014 exactly what heading 2 ('Post-Drying Awareness') describes as nagvu / af al pi shesamach / eina bechiyutan.",
+      "current_heading": "Dew Tosefta",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Post-Drying Awareness",
+    "candidates": [
+      "Post-Drying Awareness",
+      "Retroactive Happiness",
+      "Consciousness Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the Gemara's rejection that the special requirement of 'ki yiten' (active, conscious placing) explains why retrospective happiness doesn't render produce susceptible \u2014 directly matches the 'Consciousness Requirement' prose, which discusses 'shani hasam d'chsiv ki yiten, ad she'yiten' and the unique da'as requirement unique to hechsher tumah.",
+      "chosen_heading": "Consciousness Requirement",
+      "current_heading": "Post-Drying Awareness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Consciousness Requirement",
+    "candidates": [
+      "Retroactive Happiness",
+      "Consciousness Requirement",
+      "Lost Object Teaching",
+      "Lost Object Categories"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items concern Rav Pappa's contradiction between ki yitten and ki yuttan and the resolution that passive wetting must be 'similar to' active placing (dumya d'ki yiten) \u2014 exactly the da'as/consciousness requirement discussed in candidate 1's prose.",
+      "chosen_heading": "Consciousness Requirement",
+      "current_heading": "Consciousness Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Lost Object Categories",
+    "candidates": [
+      "Lost Object Teaching",
+      "Lost Object Categories",
+      "Parallel Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the 'Come and hear' (ta shema) proof itself \u2014 the teaching of Rabbi Yo\u1e25anan in the name of Rabbi Yishmael ben Yehotzadak about the river-swept lost object \u2014 which is precisely what heading 0 ('Lost Object Teaching') introduces, while heading 1 ('Lost Object Categories') covers the analytical breakdown of the verse's categories that follows from it.",
+      "chosen_heading": "Lost Object Teaching",
+      "current_heading": "Lost Object Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Parallel Logic",
+    "candidates": [
+      "Lost Object Categories",
+      "Parallel Logic",
+      "Rava Refuted",
+      "Abaye Ruling",
+      "Mnemonic Exceptions",
+      "Exception Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage concludes with 'tiyuvta d'Rava tiyuvta' \u2014 the decisive refutation of Rava \u2014 which is precisely what the 'Rava Refuted' section's prose discusses, while the current 'Parallel Logic' section covers the analogical reasoning leading up to that conclusion but the actual quoted text ends with the refutation declaration itself.",
+      "chosen_heading": "Rava Refuted",
+      "current_heading": "Parallel Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Exception Details",
+    "candidates": [
+      "Rava Refuted",
+      "Abaye Ruling",
+      "Mnemonic Exceptions",
+      "Exception Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage states the halakha follows Abaye in the ya'al kegam mnemonic cases, which directly matches the 'Mnemonic Exceptions' section's prose about ya'al kegam encoding the six cases where Abaye overrides Rava, rather than the 'Exception Details' section which elaborates on each individual case.",
+      "chosen_heading": "Mnemonic Exceptions",
+      "current_heading": "Exception Details",
+      "moved": true
+    }
+  }
+]

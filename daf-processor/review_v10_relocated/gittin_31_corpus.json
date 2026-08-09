@@ -1,0 +1,338 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Tosafot on Timing",
+    "candidates": [
+      "Unspecified Ma'aser",
+      "Abaye's Reading",
+      "Tosafot on Timing",
+      "Switcheroo Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita text itself \u2014 the raw statement about 'ma'aser yesh lecha b'yadi' vs. 'kor ma'aser yesh lecha b'yadi' and the distinction between being concerned or not concerned about trumat ma'aser \u2014 is precisely what heading 0 ('Unspecified Ma'aser') introduces and explains, including the gemara's immediate protest of 'mai ka'amar'.",
+      "chosen_heading": "Unspecified Ma'aser",
+      "current_heading": "Tosafot on Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Switcheroo Concern",
+    "candidates": [
+      "Tosafot on Timing",
+      "Switcheroo Concern",
+      "Wickedness Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains Abaye's interpretation of the baraita \u2014 distinguishing unspecified tithe (no concern) from a specified kor (concern) because the levi knows the exact amount and could designate it as trumat ma'aser elsewhere \u2014 which is precisely the 'switcheroo' concern described in candidate 1's prose.",
+      "chosen_heading": "Switcheroo Concern",
+      "current_heading": "Switcheroo Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Wickedness Question",
+    "candidates": [
+      "Wickedness Question",
+      "Rav Mesharshiya",
+      "Trumat Ma'aser Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Gemara's sharp objection 'Are we dealing with wicked people who take money and convert it into teruma of the tithe?', which is precisely what the 'Wickedness Question' prose describes.",
+      "chosen_heading": "Wickedness Question",
+      "current_heading": "Wickedness Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Trumat Ma'aser Question",
+    "candidates": [
+      "Rav Mesharshiya",
+      "Trumat Ma'aser Question",
+      "Non-Standard Practice",
+      "Rav Ashi's Reading"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Mesharshiya",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Mesharshiyya's reinterpretation of the baraita, which is precisely what heading 0 ('Rav Mesharshiya') describes \u2014 the shift to a deceased levi's ma'aser left in a Yisrael's possession and the unspecified vs. specified quantity distinction.",
+      "second_heading": "Non-Standard Practice",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the objection about whether chaveirim are suspected of separating teruma shelo min hamukaf, which is exactly what heading 2 ('Non-Standard Practice') discusses.",
+      "current_heading": "Trumat Ma'aser Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rav Ashi's Reading",
+    "candidates": [
+      "Non-Standard Practice",
+      "Rav Ashi's Reading",
+      "Articulation Effect",
+      "Father's Preparation",
+      "Question of Authority",
+      "Abba Elazar View",
+      "Scriptural Parallels",
+      "Estimation Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's actual ruling distinguishing between unspecified amounts (chosheshin) and specified amounts like a kor (ein chosheshin), which matches precisely the 'Articulation Effect' prose describing exactly this distinction between specified and unspecified amounts and their consequences for trumat ma'aser concern.",
+      "chosen_heading": "Articulation Effect",
+      "current_heading": "Rav Ashi's Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Estimation Method",
+    "candidates": [
+      "Articulation Effect",
+      "Father's Preparation",
+      "Question of Authority",
+      "Abba Elazar View",
+      "Scriptural Parallels",
+      "Estimation Method",
+      "Conclusion",
+      "Designated Room"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Question of Authority",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's question about whether the ba'al habayit has authority to separate trumat ma'aser and the answer that this follows Abba Elazar ben Gamla, which matches heading 2 ('Question of Authority') and its prose about the fundamental halachic question of the ba'al habayit's authority.",
+      "second_heading": "Scriptural Parallels",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita's full derivation from the pasuk comparing the two terumot \u2014 bishtei trumos hakatuv medaber \u2014 which matches heading 4 ('Scriptural Parallels') whose prose explicitly discusses this baraita and the equation between terumah gedolah and trumat ma'aser.",
+      "current_heading": "Estimation Method",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Designated Room",
+    "candidates": [
+      "Conclusion",
+      "Designated Room",
+      "Chazaka Status",
+      "24-Hour Window",
+      "Wine Checking Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Mishna introducing the concept of designating produce/money for future terumah and tithe separation, which matches the 'Designated Room' section's prose description of this exact Mishna and its practical scenario.",
+      "chosen_heading": "Designated Room",
+      "current_heading": "Designated Room",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Wine Checking Times",
+    "candidates": [
+      "Chazaka Status",
+      "24-Hour Window",
+      "Wine Checking Times",
+      "Rabbi Yochanan",
+      "Rabbi Elazar ben Tanchum",
+      "Language Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehuda's statement about checking wine at three specific times, which is exactly what the 'Wine Checking Times' section's prose discusses.",
+      "chosen_heading": "Wine Checking Times",
+      "current_heading": "Wine Checking Times",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Language Test",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Rabbi Elazar ben Tanchum",
+      "Language Test",
+      "Mikva Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items together form the Gemara's debate over the meaning of 'me'es le'es' \u2014 items 1-2 present the two opinions (Rabbi Yochanan and Rabbi Elazar ben Antigonus) and items 3-4 test both opinions against the mishnah's language and conclude 'kashya,' which is precisely what the 'Language Test' prose describes.",
+      "chosen_heading": "Language Test",
+      "current_heading": "Language Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Mikva Analogy",
+    "candidates": [
+      "Mikva Analogy",
+      "Chazaka Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the mikva mishna proof and the gemara's immediate clarification that colleagues disagree with Rabbi Elazar, which is precisely what heading 0 ('Mikva Analogy') describes \u2014 the mikva measured and found deficient, the retroactive impurity ruling, and the implicit counterpoint \u2014 while heading 1 discusses the subsequent reconciliation attempt regarding 'l'mifrea' meaning twenty-four hours, which comes after this passage.",
+      "chosen_heading": "Mikva Analogy",
+      "current_heading": "Mikva Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Chazaka Principle",
+    "candidates": [
+      "Chazaka Principle",
+      "Wind Characteristics"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wind Characteristics",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the east wind blowing after Sukkot as the trigger for checking wine, which directly matches the 'Wind Characteristics' prose about Rabbi Yehuda's rule invoking the east wind after Sukkot.",
+      "second_heading": "Chazaka Principle",
+      "second_confidence": "low",
+      "second_reason": "Item 2 discusses when partners may sell grain, wine, and oil at three times of year \u2014 a distinct commercial halakha topic that doesn't clearly match either candidate's prose, so it defaults to current placement with low confidence.",
+      "current_heading": "Chazaka Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81
+    ],
+    "current_heading": "Wind Characteristics",
+    "candidates": [
+      "Wind Characteristics",
+      "Four Winds Balance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the meaning of '\u1e25arishit' and the nature of the east wind (Rav Yehuda's furrows interpretation and Rabba's silencing interpretation), which is exactly what the 'Wind Characteristics' prose describes in detail.",
+      "chosen_heading": "Wind Characteristics",
+      "current_heading": "Wind Characteristics",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Four Winds Balance",
+    "candidates": [
+      "Four Winds Balance",
+      "Southern Wind Danger",
+      "Destructive Effects"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Four Winds Balance",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the Geneiva narrative and his teaching about the four winds including the north wind and south wind, which is precisely what headings 0 and 1 describe together \u2014 and since they form one continuous unit (Geneiva's single teaching), they belong under the current placement at heading 0 (which covers the Geneiva encounter) flowing into heading 1 (southern wind), but structurally items 1\u20132 are the Geneiva passage discussed under heading 0's prose.",
+      "second_heading": "Destructive Effects",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is an entirely new narrative about Rava and Rav Na\u1e25man bar Yitz\u1e25ak encountering Rav Na\u1e25man bar Ya'akov on a gilt carriage, which has no connection to the winds discussion and appears to belong under a different section; heading 2 ('Destructive Effects') discusses east wind traditions, and this item likely precedes or follows those traditions as a separate anecdote that the pipeline mistakenly grouped here.",
+      "current_heading": "Four Winds Balance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Destructive Effects",
+    "candidates": [
+      "Southern Wind Danger",
+      "Destructive Effects",
+      "Scriptural Basis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Na\u1e25man bar Ya'akov uncovering his arm and identifying the Shadya wind, followed by Rav, Shmuel, and Rabbi Yo\u1e25anan's statements about the destructive effects of this wind, which directly matches the 'Destructive Effects' prose discussing these same three Amoraic traditions about the damaging effects of a harmful wind.",
+      "chosen_heading": "Destructive Effects",
+      "current_heading": "Destructive Effects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Scriptural Basis",
+    "candidates": [
+      "Scriptural Basis",
+      "Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Na\u1e25man bar Yitz\u1e25ak's identification of all three Amoraim deriving their statements from the same verse in Hosea 13:15, with the specific exegesis of each phrase \u2014 exactly what the 'Scriptural Basis' prose discusses.",
+      "chosen_heading": "Scriptural Basis",
+      "current_heading": "Scriptural Basis",
+      "moved": false
+    }
+  }
+]

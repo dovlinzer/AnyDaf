@@ -1,13 +1,10 @@
-# Temurah 10 — Daf Yomi Shiur
 [DAF:9b]
-
 ## Asham & Pidyon Chomesh
+
+
 
 ### Rav Avin Shiala
 
-> **Hebrew/Aramaic:** וְהוּמַם וְחִלְּלוֹ עַל אַחֵר, וְנִתְכַּפֵּר בְּאָשָׁם אַחֵר, וְנִיתַּק לְעוֹלָה — מַהוּ שֶׁיָּמִיר בּוֹ?
->
-> **Translation:** **and** the original guilt offering **became blemished, and he desacralized it** by transferring its sanctity **onto another** animal, which was then lost, **and** the owner **achieved atonement by** bringing **another,** third, animal as **a guilt offering,** and then the second animal was found **and was consigned to** be sacrificed as **a burnt offering,** as is the case for any guilt offering whose owner has achieved atonement by means of another offering, **what is** the *halakha* as **to** whether **he** can **effect substitution for** the second animal? Since this animal's sanctity stems from that of the original blemished animal, and he had already effected a substitute for that original animal, perhaps he cannot now substitute for the second animal, as this would constitute repeat substitution.
 
 The *daf* opens by picking up from a discussion established the previous day regarding the laws of *pidyon* and the *chomesh* — the added fifth. The ruling of Rabbi Yehoshua ben Levi had established that when one redeems a sanctified object, the obligation to add a fifth applies only to the person who directly sanctified that object, not to one who redeems something to which *kedusha* was merely transferred. To illustrate: if one sanctified his Ford and then redeemed it onto his Camry, and now wishes to redeem the Camry, he does not add a fifth — because the Camry's *kedusha* is derivative, not direct.
 
@@ -17,9 +14,14 @@ Two considerations pull in opposite directions. On one hand, the *kedusha* of th
 
 ### Abaye's Breakdown
 
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: מַאי קָא מִיבַּעְיָא לֵיהּ? אִי שְׁנֵי גוּפִים וּקְדוּשָּׁה אַחַת — תִּיבְּעֵי לֵיהּ בְּלֹא נִתְכַּפֵּר.
->
-> **Translation:** **Abaye said: What is the dilemma he is raising? If** his essential dilemma concerns the fact that there are **two bodies,** i.e., two different animals, then the dilemma would stand even if the original animal **and** the replacement were of **one** type of **sanctity.** If so, **let the dilemma be raised** even **in** a case where he **did not achieve atonement** by another guilt offering, and the second animal remained a guilt offering, rather than being consigned to be sacrificed as a burnt offering.
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: מַאי קָא מִיבַּעְיָא לֵיהּ? אִי שְׁנֵי גוּפִין וּקְדוּשָּׁה אַחַת קָא מִיבַּעְיָא לֵיהּ — תִּיבְּעֵי לֵיהּ בְּלֹא נִתְכַּפֵּר!
+> **Translation:** **Abaye said: What is the dilemma he is raising? If he is raising a dilemma** with regard to **two bodies,** i.e., two different animals, the problem should stand even if both are of **one** type of **sanctity.** If so, **let the dilemma be raised** even **in** a case where he **did not achieve atonement** through another guilt offering, and the second animal was never consigned to be sacrificed as a burnt offering.
+
+> **Hebrew/Aramaic:** אִי שְׁתֵּי קְדוּשּׁוֹת, וְגוּף אֶחָד קָא מִיבַּעְיָא לֵיהּ — תִּיבְּעֵי בְּלֹא הוּמַם!
+> **Translation:** And **if he is raising a dilemma** with regard to **two** types of **sanctity,** it should apply even in the case of **one body.** If so, **let the dilemma be raised** even **in** a case where the original animal **did not become blemished** but was simply lost and found after the owner atoned by means of another offering and thereby consigned the original animal to be sacrificed as a burnt offering.
+
+> **Hebrew/Aramaic:** וְרַבִּי אָבִין, חֲדָא מִגּוֹ חֲדָא קָמִיבַּעְיָא לֵיהּ: אִם תִּימְצָא לוֹמַר שְׁנֵי גוּפִין וּקְדוּשָּׁה אַחַת לָא — מִשּׁוּם דִּבְהָהִיא קְדוּשָּׁה אִיתּוֹסַף בַּהּ חֲדָא זִימְנָא חוֹמֶשׁ, שְׁנֵי גוּפִין וּשְׁתֵּי קְדוּשּׁוֹת מַאי? תֵּיקוּ.
+> **Translation:** The Gemara explains that **Rabbi Avin raises one** dilemma **as a result of** the anticipated solution to **another** dilemma, as follows: **If you say** that in a case of **two bodies and one** type of **sanctity** the owner does **not** add one-fifth, perhaps that is **because one-fifth was** already **added once to** redeem an animal **with that** type of **sanctity.** If so, **what** is the *halakha* in the case of **two bodies and two** types of **sanctity?** Perhaps, since the second animal possesses a different sanctity, it is considered to possess its own original sanctity, rather than derivative sanctity, and therefore one who redeems it adds one-fifth. The Gemara concludes: The dilemma **shall stand** unresolved.
 
 Abaye interjects: why pose such a layered question? The case contains two distinct variables — two separate bodies with one *kedusha*, and a transformation from one type of *kedusha* to another within the same *kedusha*. Each could be asked independently. If the question is about two bodies sharing the same *kedusha* (*shtei gufe mi-kedusha achas*), ask it without the complication of the *asham*-to-*olah* transformation — ask *tivaya belo nitkaper*. If the question is about whether a *kedusha* transformation within the same body constitutes something new (*shtei kedushos ve-guf echad*), ask it without the *mum* — ask *tivaya belo mum*.
 
@@ -27,19 +29,17 @@ Rav Avin replies with the same principle invoked in analogous cases: *chada mi-g
 
 ### Rashi's Distinction
 
-> **Hebrew/Aramaic:** וְרַבִּי אָבִין, חֲדָא מִגּוֹ חֲדָא קָמִיבַּעְיָא לֵיהּ, וְאִם תִּימְצֵא לוֹמַר: שְׁנֵי גוּפִין וּקְדוּשָּׁה אַחַת — לָא, מִשּׁוּם דִּבְהָהִיא קְדוּשָּׁה הָא אִיתְּמַר בַּהּ חֲדָא זִימְנָא. שְׁנֵי גוּפִין וּשְׁתֵּי קְדוּשּׁוֹת מַהוּ? תֵּיקוּ.
->
-> **Translation:** The Gemara explains: **Rabbi Avin raises one** dilemma **as a result of** the anticipated solution to **another** dilemma: **If you say** that in the case of **two bodies and one** type of **sanctity** it is **not** possible to effect substitution on the second animal, perhaps that is **because this sanctity** already **had been substituted one time.** If so, **what is** the *halakha* in the case of **two bodies and two** types of **sanctity?** Is the offering changed enough to enable another substitution for it? The Gemara concludes: The dilemma **shall stand** unresolved.
-
 There is, however, something textually puzzling here. Abaye frames the first component as a genuine question, yet the established *halacha* is simply that one does not add a fifth upon redeeming the second body. What would the uncertainty even be?
 
 Rashi resolves this by drawing a distinction between the ordinary case of transferring *kedusha* and the case at hand. Normally, when *kedusha* is transferred from one animal to another, it is an equivalent exchange — the *kedusha* moves from one object to another of comparable status. But in Rav Avin's case, the first animal had a *mum* and thus could not be brought as a *korban*. The second animal onto which the *kedusha* was transferred was unblemished and *could* be brought as a *korban*. The impact of the *kedusha* has therefore qualitatively changed: the first animal was unfit for the altar, the second is fit. Perhaps this difference is enough to treat the second animal as something genuinely new, such that a *chomesh* would be added upon its redemption. This is the first stage of uncertainty. Layered onto that — even if one says the change in fitness does not suffice, what if the *kedusha* also changed in character from *asham* to *olah*? That is the second, compounded question.
 
 ### Rav Papa Version
 
-> **Hebrew/Aramaic:** לִישָּׁנָא אַחֲרִינָא, בָּעֵי רַבִּי אָבִין: הִפְרִישׁ אָשָׁם לְהִתְכַּפֵּר בּוֹ, וְהוּמַם, וְהוֹסִיף עָלָיו חוֹמֶשׁ, וְחִלְּלוֹ חֲבֵירוֹ, וְנִתְכַּפֵּר בְּאָשָׁם אַחֵר, וְנִיתַּק זֶה לְעוֹלָה — מַהוּ שֶׁיּוֹסִיף עָלָיו חוֹמֶשׁ?
->
-> **Translation:** The Gemara presents **an alternative version** of the previous dilemma. **Rabbi Avin raises a dilemma:** If one **designated** an animal as **a guilt offering with which to achieve atonement and it became blemished, and he added one-fifth to its** value **and desacralized it,** and he then used the consecrated money to purchase **another** guilt offering, which was then lost, **and** the owner **achieved atonement by** bringing **another,** third, animal as **a guilt offering, and** the second animal was found and **consigned to** be sacrificed as **a burnt offering,** and then it developed a blemish, **what is** the *halakha* as **to** whether the owner must **add one-fifth to its** value when he redeems it?
+> **Hebrew/Aramaic:** לִישָּׁנָא אַחֲרִינָא, בָּעֵי רַבִּי אָבִין: הִפְרִישׁ אָשָׁם לְהִתְכַּפֵּר בּוֹ, וְהוּמַם וְחִלְּלוֹ עַל אַחֵר וְהוֹסִיף חוֹמֶשׁ, נִתְכַּפְּרוּ בְּאָשָׁם אַחֵר, וְנִיתַּק זֶה לְעוֹלָה — מַהוּ שֶׁיּוֹסִיף עָלָיו חוֹמֶשׁ?
+> **Translation:** The Gemara presents **an alternative version** of the previous dilemma. **Rabbi Avin raises a dilemma:** If one **designated** an animal as **a guilt offering with which to achieve atonement, and it became blemished and he desacralized** it by transferring its sanctity **onto another animal, and he added one-fifth** of its value, and the second animal was lost and the owner **achieved atonement by** bringing **another,** third, animal as **a guilt offering, and** the second animal was found and **was consigned to** be sacrificed as **a burnt offering,** and then it developed a blemish, **what is** the *halakha* as **to** whether the owner must **add one-fifth to its** value when he redeems it?
+
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: הָדֵין קָא מִיבַּעְיָא לֵיהּ, אִי קְדוּשָּׁה אַחֶרֶת בְּאוֹתוֹ הַגּוּף קָא מִיבַּעְיָא לֵיהּ — לָא נִיבְּעֵי לֵיהּ הוּמַם, אִי גּוּף (אֶחָד) [אַחֵר] בְּאוֹתָהּ קְדוּשָּׁה כּוּ׳.
+> **Translation:** **Abaye said: Which** of these two **is** the essential **dilemma he is raising? If he raises a dilemma** with regard to the case of **another** type of **sanctity in the same body, he should not raise the dilemma** about a case where the initial guilt offering **became blemished** and he transferred its sanctity to another animal. And **if** his essential dilemma concerns the case of **another body with the same** type of **sanctity,** he could pose his dilemma with regard to a case where the second animal was not lost and found and consigned to be a burnt offering.
 
 The *Gemara* then presents a *lishna achrina* — an alternative version of the same question — attributed to Rav Papa rather than Rav Avin. Rashi consistently identifies the *lishna achrina* formulation as *lashon Yerushalmi*, an Eretz Yisrael Aramaic idiom; the *Gemara* on 6b uses this designation, and whether it literally derives from a Yerushalmi on *Kodashim* — of which there is none — remains a point of discussion.
 
@@ -50,23 +50,28 @@ Abaye again responds: which component is being asked? If the question concerns w
 [DAF:10a]
 ### Kedusha Transformation
 
+> **Hebrew/Aramaic:** וְחִלְּלוֹ עַל אַחֵר, מַהוּ שֶׁיּוֹסִיף עָלָיו חוֹמֶשׁ? מִי אָמְרִינַן: בְּאָשָׁם קַמָּא הוּא דְּמוֹסֵיף, אֲבָל בְּגוּף (אֶחָד) [אַחֵר], אַף עַל גַּב דְּקָאֵים בְּאוֹתָהּ קְדוּשָּׁה, [אֵין] מוֹסִיף חוֹמֶשׁ,
+> **Translation:** The Gemara explains that Rabbi Avin raises one dilemma as a result of the anticipated solution to another dilemma. If the initial guilt offering became blemished **and he desacralized it** by transferring its sanctity **onto another,** second, animal, **what is** the *halakha* as **to** whether the owner must **add one-fifth to its** value when he redeems it? **Do we say** that **with regard to** a second redemption of the **first guilt offering he** does not **add** one-fifth, since it is the same body and the same sanctity, **but** here, when it is **another body, even though it maintains the same** type of **sanctity** as the initial animal, he **adds one-fifth,** as it is considered to be directly consecrated?
+
+> **Hebrew/Aramaic:** אוֹ דִילְמָא: כׇּל אוֹתָהּ קְדוּשָּׁה אֵינוֹ מוֹסִיף חוֹמֶשׁ?
+> **Translation:** **Or perhaps** we say that if one redeems **any** animal that possesses the **same sanctity** as the original **he does not add** an additional **one-fifth.**
+
 > **Hebrew/Aramaic:** וְאִם תִּימָּצֵא לוֹמַר הָדֵין גּוּף (אֶחָד) [אַחֵר], כֵּיוָן דִּבְאוֹתָהּ קְדוּשָּׁה קָאֵים [אֵינוֹ] מוֹסִיף חוֹמֶשׁ, אֶלָּא נִתְכַּפֵּר בְּאַחֵר, וְנִיתַּק זֶה לְעוֹלָה — מַהוּ? כִּי [אֵינוֹ] מוֹסִיף חוֹמֶשׁ בְּאוֹתוֹ הַגּוּף בְּאוֹתָהּ קְדוּשָּׁה, אֲבָל בִּקְדוּשָּׁה אַחֶרֶת — לָא? אוֹ דִילְמָא, כֵּיוָן דְּאוֹתוֹ הַגּוּף הוּא — [אֵינוֹ] מוֹסִיף חוֹמֶשׁ? תֵּיקוּ.
->
-> **Translation:** **And if you say** that with regard to **this other body, since it maintains the same** type of **sanctity** as the initial animal one **does not add one-fifth** when redeeming it, **but** what then of a case where the first animal was lost and the owner **achieved atonement by** bringing **another** animal as **a guilt offering, and this first** animal was found and **was consigned to** be sacrificed as **a burnt offering? What is** the *halakha*? Do we say that **when** one **does not add** an additional **one-fifth,** that is only **with regard to the same body with the same** type of **sanctity, but** in the case **of another** type of **sanctity** the exemption does **not** apply? **Or perhaps** we say that **since it is the same body,** one **does not add one-fifth.** The Gemara concludes: The dilemma **shall stand** unresolved.
+> **Translation:** **And if you say** that with regard to **this other body, since it maintains the same** type of **sanctity** as the initial animal, one **does not add one-fifth** when redeeming it, **but** what of a case where the first animal was lost and the owner **achieved atonement by** bringing **another, and this** first animal was found and **was consigned to** be sacrificed as **a burnt offering? What is** the *halakha*? Do we say that **when** one **does not add** an additional **one-fifth,** that is only **with regard to the same body with the same** type of **sanctity, but** in the case **of another** type of **sanctity** the exemption does **not** apply? **Or perhaps** we say that **since it is the same body,** one **does not add one-fifth.** The Gemara concludes: The dilemma **shall stand** unresolved.
 
 The *Gemara* proceeds to work through both stages of the question. The first stage: does transferring to a second body with the same *kedusha* occasion a new *chomesh*? The second stage: even granting that in such a case no new fifth is required because the *chomesh* was already added once for this *kedusha*, what happens when the animal is not only in a different body but the *kedusha* itself has been transformed — from *asham* to *olah*? When is a *kedusha* considered old and when new?
 
-The text here presents genuine difficulty in establishing the precise *girsa*, and the reading of the *Shita Mekubetzet* is followed because it renders the *lishna achrina* parallel to the first version. The operative question in the final stage is whether one says *kol be-osah kedusha eino mosif chomesh* — as long as it is the same *kedusha*, even in a separate body, no further fifth is added — or whether a genuinely new *kedusha* type, such as the transformation from *asham* to *olah*, breaks that chain and occasions a fresh obligation. The *Gemara* concludes once again: *teiku*.
+The text here presents genuine difficulty in establishing the precise *girsa*, and the reading of the *Shita Mekubetzet* is followed because it renders the *lishna achrina* parallel to the first version. What makes the reading counter-intuitive is that in the straightforward case — the original *asham* — one always adds a fifth; it is precisely the transfer to a second animal that is the classic case where no fifth is added. The *Gemara* must therefore be read as saying that if the original *asham* had transformed into a different *kedusha* within the same body, you would not add a fifth — because the transformation makes it something genuinely new — but if it is in a different body while carrying the same *kedusha*, you would add a fifth, since at least the *kedusha* is continuous. The difficulty, of course, is that a different body is in some sense a new thing, while Rashi's resolution is that a *kedusha* restored to fitness to be brought as a *korban* remains, in some meaningful sense, a continuation of the original rather than an entirely new sanctity.
+
+The operative question in the final stage is whether one says *kol be-osah kedusha eino mosif chomesh* — as long as it is the same *kedusha*, even in a separate body, no further fifth is added — or whether a genuinely new *kedusha* type, such as the transformation from *asham* to *olah*, breaks that chain and occasions a fresh obligation. The *Gemara* concludes once again: *teiku*.
 
 ---
 
 ## Makdish vs. Michaper
 
-### Core Question
 
-> **Hebrew/Aramaic:** בָּעֵי רָמֵי בַּר חָמָא: מַקְדִּישׁ מוֹסִיף חוֹמֶשׁ, אוֹ (מכפר) [מִתְכַּפֵּר] מוֹסִיף חוֹמֶשׁ? אָמַר רָבָא: אָמַר קְרָא ״וְאִם הַמַּקְדִּישׁ יִגְאַל אֶת בֵּיתוֹ״ — מַקְדִּישׁ, וְלֹא מִתְכַּפֵּר.
->
-> **Translation:** **Rami bar Ḥama raises a dilemma:** If one person consecrates his animal to be used as an offering by another, does the **one who consecrates** it **add one-fifth** when he redeems it, **or** does the **one atoning** by means of the offering **add one-fifth?** Who is considered the owner of the offering? **Rava said** that **the verse states: "And if he that consecrated it will redeem his house,** then he shall add the fifth part of the money" (Leviticus 27:15). It may be inferred from here that only the **one who consecrates** the item adds one-fifth, **but not** the **one for whom** the offering **atones.**
+
+### Core Question
 
 With the *asham* cases behind us, the *Gemara* turns to a fundamental question posed by Rami bar Chama — a question that strikes at the heart of several *mishnayot* treated earlier in the *masechta*: who is considered the *ba'al ha-korban*, the halachic owner of a *korban*, when one person sanctifies and another benefits?
 
@@ -76,13 +81,12 @@ The case Rami bar Chama addresses is: I sanctify my animal to serve as a *korban
 
 ### Makdish Chomesh
 
+> **Hebrew/Aramaic:** בָּעֵי רָמֵי בַּר חָמָא: מַקְדִּישׁ מוֹסִיף חוֹמֶשׁ, אוֹ (מכפר) [מִתְכַּפֵּר] מוֹסִיף חוֹמֶשׁ? אָמַר רָבָא: אָמַר קְרָא ״וְאִם הַמַּקְדִּישׁ יִגְאַל אֶת בֵּיתוֹ״ — מַקְדִּישׁ, וְלֹא מִתְכַּפֵּר.
+> **Translation:** **Rami bar Ḥama raises a dilemma:** If one person consecrates his animal to be used as an offering by another, does the **one who consecrates** it **add one-fifth** when he redeems it, **or** does the **one atoning** by means of the offering **add one-fifth?** Who is considered the owner of the offering? **Rava said** that **the verse states: “And if he that consecrated it will redeem his house,** then he shall add the fifth part of the money” (Leviticus 27:15). It may be inferred from here that only the **one who consecrates** the item adds one-fifth, **but not** the **one for whom** the offering **atones.**
+
 The answer to the first part comes directly from a scriptural verse: *ve-im hamakdish yigal et beito* — if the sanctifier redeems his house. The Torah, when specifying who adds the fifth, does not use the language of *im ha-ba'alim* — the owner — which might have opened a theoretical question of who the owner is. Instead, it designates the person by his role as *makdish*. Thus the *makdish* — the one who performed the act of sanctification — is the one who adds the fifth. The *pasuk* is formulated for a house, but the designation applies broadly: the *makdish*, not the *mitchaper*, adds the *chomesh*.
 
 ### Temurah Ownership
-
-> **Hebrew/Aramaic:** בָּעֵי רָמֵי בַּר חָמָא: מַקְדִּישׁ עוֹשֶׂה תְּמוּרָה, אוֹ מִתְכַּפֵּר עוֹשֶׂה תְּמוּרָה? אָמַר רָבָא: אִם כֵּן, מָצִינוּ צִיבּוּר וְשׁוּתָּפִין עוֹשִׂין תְּמוּרָה, כְּגוֹן דְּשַׁוּוֹ שָׁלִיחַ לְאַקְדּוֹשֵׁי.
->
-> **Translation:** **Rami bar Ḥama raises a dilemma:** If one person consecrates an animal to be used as an offering by another, can the **one who consecrates** it **render** another animal **a substitute** for it, **or** can the **one achieving atonement** through it **render a substitute** for it? **Rava said: If** it were **so,** that the one who consecrates it can render a substitute for it, **we** would **find** a case where the **community or partners can render a substitute** for their consecrated animal, **for example where they appointed an agent to consecrate** an animal for them. The mishna (13a) states that one cannot substitute for consecrated animals belonging to the community or to partners. By contrast, in this case, since only one person consecrated it, he would be able to substitute for it, contrary to the mishna.
 
 The second question follows: *makdish oseh temurah o mitchaper oseh temurah* — does the *makdish* or the *mitchaper* perform the act of *temurah*? This is a genuinely fascinating question, and in some ways a strange one. The entire institution of *temurah* is that one attempts to transfer *kedusha* from one animal to another — an act that is prohibited and yet, paradoxically, effective. The *temurah* takes hold even though the person has no right to do it. Given that the act is meaningful only insofar as the person is treated as having the standing of ownership, the question of who holds that standing — *makdish* or *mitchaper* — becomes acute.
 
@@ -90,19 +94,25 @@ The second question follows: *makdish oseh temurah o mitchaper oseh temurah* —
 
 Rava addresses the *temurah* question and argues that if ownership for purposes of *temurah* were determined by who performed the *hekdesh*, a serious problem would arise. The *Gemara* has established that *temurah* cannot be performed with a *korban tzibur* — the communal sacrifices such as the *tamid*. But it is at least theoretically possible for a *korban tzibur* to have been sanctified by a single individual (*kegon de-shavu shaliach le-akdoshei*). If ownership for *temurah* were determined by who sanctified, then such a *korban* — sanctified by an individual — would be classified as a *korban yachid* for these purposes, and *temurah* would take effect upon it. But we know that *temurah* does not apply to *korbanos tzibur*. The only way this exclusion makes sense is if the classification of a *korban* as communal or individual is determined not by who sanctified it but by whom it atones for — the *tzibur* or the individual. The same logic applies to *korban shutfin*: the *korban* of partners is defined by who benefits, not by the mechanics of how it was sanctified. Since these categories exclude *temurah* based on the beneficiary's identity, it follows that ownership for the purposes of *temurah* is defined by the *mitchaper*, not the *makdish*.
 
-### Nazir Braisa
+> **Hebrew/Aramaic:** בָּעֵי רָמֵי בַּר חָמָא: מַקְדִּישׁ עוֹשֶׂה תְּמוּרָה, אוֹ מִתְכַּפֵּר עוֹשֶׂה תְּמוּרָה? אָמַר רָבָא: אִם כֵּן, מָצִינוּ צִיבּוּר וְשׁוּתָּפִין עוֹשִׂין תְּמוּרָה, כְּגוֹן דְּשַׁוּוֹ שָׁלִיחַ לְאַקְדּוֹשֵׁי.
+> **Translation:** **Rami bar Ḥama raises a dilemma:** If one person consecrates an animal to be used as an offering by another, can the **one who consecrates** it **render** another animal **a substitute** for it, **or** can the **one achieving atonement** through it **render a substitute** for it? **Rava said: If** it were **so,** that the one who consecrates it can render a substitute for it, **we** would **find** a case where the **community or partners can render a substitute** for their consecrated animal, **for example where they appointed an agent to consecrate** an animal for them. The mishna (13a) states that one cannot substitute for consecrated animals belonging to the community or to partners. By contrast, in this case, since only one person consecrated it, he would be able to substitute for it, contrary to the mishna.
 
 > **Hebrew/Aramaic:** וְעוֹד, דְּאָמַר רַב נַחְמָן אָמַר רַב הוּנָא: תָּנָא ״קׇרְבָּנוֹ לַה׳ עַל נִזְרוֹ מִלְּבַד אֲשֶׁר תַּשִּׂיג יָדוֹ״, וְכִי נָזִיר נִידּוֹן בְּהֶשֵּׂג יָד? הָא כֵּיצַד? ״קׇרְבָּנוֹ לַה׳ עַל נִזְרוֹ״ — שֶׁהִפְרִישׁ מִשֶּׁלּוֹ, ״מִלְּבַד אֲשֶׁר תַּשִּׂיג יָדוֹ״ — שֶׁהִפְרִישׁוּ לוֹ אֲחֵרִים.
->
-> **Translation:** **And furthermore, Rav Naḥman says** that **Rav Huna says:** The Sages **taught** in a *baraita*: The verse states: "This is the law of the nazirite who vows, **and of his offering unto the Lord for his naziriteship, besides that for which his means suffice;** according to his vow which he vows" (Numbers 6:21). **But is** the offering of **a nazirite judged according to his means?** The offerings of a nazirite are fixed by the Torah. **How** is it possible to understand **this** clause: "Besides that for which his means suffice"? Rather, the clause **"his offering unto the Lord for his naziriteship"** is referring to a case **where he separated** an offering **from his own** animals, whereas the clause **"besides that for which his means suffice"** is referring to a case **where others separated** the offering **for him.** This teaches that designation by others is effective.
+> **Translation:** **And furthermore, Rav Naḥman says** that **Rav Huna says:** The Sages **taught** in a *baraita*: The verse states: “This is the law of the nazirite who vows, **and of his offering unto the Lord for his naziriteship, besides that for which his means suffice;** according to his vow which he vows” (Numbers 6:21). **But is** the offering of **a nazirite judged according to his means?** The offerings of a nazirite are fixed by the Torah. **How** is it possible to understand **this** clause: “Besides that for which his means suffice”? Rather, the clause **“his offering unto the Lord for his naziriteship”** is referring to a case **where he separated** an offering **from his own** animals, whereas the clause **“besides that for which his means suffice”** is referring to a case **where others separated** the offering **for him.** This teaches that designation by others is effective.
+
+> **Hebrew/Aramaic:** לְמַאי הִילְכְתָא? אִילֵּימָא לְעִנְיַן כַּפָּרָה — פְּשִׁיטָא דְּמִכַּפַּר לֵיהּ! אֶלָּא לְעִנְיַן תְּמוּרָה, וְהָכִי קָאָמַר: אַף כְּשֶׁהִפְרִישׁוּ לוֹ אֲחֵרִים — עוֹשֶׂה תְּמוּרָה. שְׁמַע מִינַּהּ: בָּתַר מִתְכַּפֵּר אָזְלִינַן!
+> **Translation:** **With regard to what *halakha*** is this *baraita* stated? **If we say** that it is **with regard to the matter of atonement,** and it is teaching that a nazirite can atone even by means of an offering designated for him by others, isn’t it **obvious that** such an offering can **atone for him?** Once it is his offering, he can certainly use it. **Rather,** the ruling of this *baraita* must be stated **with regard to substitution, and this** is what it **is saying: Even** in a case **where others separated** the offering **for him,** he alone can **render a substitute** for it. **Conclude from** this verse that **we follow** the **one for whom** the offering **atones,** and only he can effect substitution for the offering.
+
+> **Hebrew/Aramaic:** לָא לְעִנְיַן תְּמוּרָה, וּדְקָא קַשְׁיָא לָךְ מַתָּנָה דְּקָא יָהֲבִין לֵיהּ — אִי לָאו דְּרַבִּי רַחֲמָנָא ״מִלְּבַד אֲשֶׁר תַּשִּׂיג יָדוֹ״, הֲוָה אָמֵינָא גְּזֵירַת הַכָּתוּב הוּא ״קׇרְבָּנוֹ״ מִדִּידֵיהּ הוּא דְּמִכַּפַּר, מִדַּאֲחֵרִים לָא, קָא מַשְׁמַע לַן.
+> **Translation:** The Gemara responds: The *baraita* is **not** referring **to substitution,** but to the matter of atonement. **And that which is difficult for you,** that it is obvious that the nazirite can atone by bringing an offering consecrated by another, as **they have given it to him as a gift,** this is in fact not obvious. **Had the Merciful One not included** an offering received from another by writing the clause **“besides that for which his means suffice,” I would say** that **it is a Torah edict** expressed in the term **“his offering,”** that a nazirite can **atone** only with an offering consecrated **from his own** animals, **but not** through one received **from** the animals **of others.** Therefore, the verse **teaches us** that he can atone even with an offering received from others.
+
+### Nazir Braisa
+
 
 A further proof is adduced from a tradition of Rav Nachman in the name of Rav Huna, citing a *braisa* on the verse regarding the *nazir*: *korbano l'Hashem al nizro, milvad asher tasig yado* — his *korban* to God for his *nezirut*, beyond what he can afford. The phrase *asher tasig yado* — that which he can afford — typically introduces a sliding scale of obligation, as in *Erchin*. But there is no such sliding scale for a *nazir*'s *korban*; a poor *nazir* does not substitute lesser animals. The *braisa* therefore interprets the phrase differently: it refers not to poverty but to whether the *nazir* paid for the *korban* himself or whether others sanctified it on his behalf (*she-hifrishu lo acherim*). This is actually a remarkable teaching, because the very possibility that someone else can sanctify a *korban* to work for another person is not self-evident. One would naturally have assumed that a *korban* requires the owner to sanctify his own animal. The Torah's explicit address of this case (*milvad asher tasig yado*) establishes that such a *korban* is valid — a person may sanctify their animal as another's *korban*.
 
 ### Temurah Universal
 
-> **Hebrew/Aramaic:** לְמַאי הִילְכְתָא? אִילֵּימָא לְעִנְיַן כַּפָּרָה — פְּשִׁיטָא דְּמִכַּפַּר לֵיהּ! אֶלָּא לְעִנְיַן תְּמוּרָה, וְהָכִי קָאָמַר: אַף כְּשֶׁהִפְרִישׁוּ לוֹ אֲחֵרִים — עוֹשֶׂה תְּמוּרָה. שְׁמַע מִינַּהּ: בָּתַר מִתְכַּפֵּר אָזְלִינַן!
->
-> **Translation:** **With regard to what *halakha*** is this *baraita* stated? **If we say** that it is **with regard to the matter of atonement,** and it is teaching that a nazirite can atone even by means of an offering designated for him by others, isn't it **obvious that** such an offering can **atone for him?** Once it is his offering, he can certainly use it. **Rather,** the ruling of this *baraita* must be stated **with regard to substitution, and this** is what it **is saying: Even** in a case **where others separated** the offering **for him,** he alone can **render a substitute** for it. **Conclude from** this verse that **we follow** the **one for whom** the offering **atones,** and only he can effect substitution for the offering.
 
 With the principle established that someone else can sanctify a *korban* on one's behalf, the *Gemara* considers what additional teaching this *pasuk* might convey. The *Gemara* initially suggests the *pasuk* teaches that *temurah* applies equally whether you sanctified the *korban* yourself or whether another sanctified it for you. The verse's parallel phrasing — *mah ke-shehu hifrish mishelo oseh temurah, af ke-she-hifrishu lo acherim oseh temurah* — would then be teaching that the *mitchaper* retains the ability to perform *temurah* regardless of who performed the *hekdesh*. This reading would directly support the conclusion that for *temurah*, the operative party is the one for whom the *korban* works.
 
@@ -111,8 +121,7 @@ The *Gemara* then walks this back: perhaps the *pasuk* is only teaching the basi
 ### Final Ruling
 
 > **Hebrew/Aramaic:** מַאי הָוֵי עֲלַהּ? תָּא שְׁמַע, דְּאָמַר רַבִּי אֲבָהוּ אָמַר רַבִּי יוֹחָנָן: מַקְדִּישׁ מוֹסִיף חוֹמֶשׁ, וּמִתְכַּפֵּר עוֹשֶׂה תְּמוּרָה.
->
-> **Translation:** Having failed to resolve Rami bar Ḥama's dilemma, the Gemara asks: **What** halakhic conclusion **was** reached **about this** matter? The Gemara answers: **Come** and **hear** a proof from that **which Rabbi Abbahu said** that **Rabbi Yoḥanan said:** If **one consecrates** his animal as an offering for someone else's atonement, and he subsequently redeems the animal, **he adds one-fifth** to its value as the owner. **But** only the **one for whom** the offering **atones** can **render a substitute** for it. This resolves the dilemma of Rami bar Ḥama.
+> **Translation:** Having failed to resolve Rami bar Ḥama’s dilemma, the Gemara asks: **What** halakhic conclusion **was** reached **about this** matter? The Gemara answers: **Come** and **hear** a proof from that **which Rabbi Abbahu said** that **Rabbi Yoḥanan said:** If **one consecrates** his animal as an offering for someone else’s atonement, and he subsequently redeems the animal, **he adds one-fifth** to its value as the owner. **But** only the **one for whom** the offering **atones** can **render a substitute** for it. This resolves the dilemma of Rami bar Ḥama.
 
 The *Gemara* resolves the question with a tradition cited by Rav Avin in the name of Rabbi Yochanan: *makdish mosif chomesh u-mitchaper oseh temurah* — the *makdish* adds the fifth; the *mitchaper* performs *temurah*.
 
@@ -123,8 +132,8 @@ There is a further irony here worth noting. The acts of *pidyon* (redemption) an
 ### Trumos Parallel
 
 > **Hebrew/Aramaic:** תּוֹרֵם מִשֶּׁלּוֹ עַל שֶׁל אֲחֵרִים — טוֹבַת הֲנָאָה שֶׁלּוֹ. מַאי טַעְמָא? אָמַר קְרָא: ״אֶת כׇּל מַעְשַׂר תְּבוּאָתְךָ... וְנָתַתָּ וְגוֹ׳״.
->
-> **Translation:** Rabbi Yoḥanan's statement continues: And if one **separates *teruma* from his** produce **to** exempt the produce **of others,** so that the other's produce will be permitted in consumption, the **benefit of discretion is his.** He is entitled to determine which priest receives the *teruma*. The Gemara explains: **What is the reason** for this? **The verse states:** "When you have made an end of tithing **all the tithe of your produce** in the third year, which is the year of tithing, **and have given** it to the Levite, to the stranger, to the fatherless, and to the widow" (Deuteronomy 26:12). This indicates that the one actually giving the produce chooses to whom to give it.
+> **Translation:** Rabbi Yoḥanan’s statement continues: And if one **separates *teruma* from his** produce **to** exempt the produce **of others,** so that the other’s produce will be permitted in consumption, the **benefit of discretion is his.** He is entitled to determine which priest receives the *teruma*. The Gemara explains: **What is the reason** for this? **The verse states:** “When you have made an end of tithing **all the tithe of your produce** in the third year, which is the year of tithing, **and have given** it to the Levite, to the stranger, to the fatherless, and to the widow” (Deuteronomy 26:12). This indicates that the one actually giving the produce chooses to whom to give it.
+
 
 In characteristic Talmudic fashion, the *Gemara* appends a third related ruling to round out the discussion. Rabbi Yochanan's statement as transmitted by Rav Avin includes: *torem mishelo al shel chaveiro* — if I separate my *terumot u-maasrot* from my own grain in order to exempt your grain, then *tovas hana'ah shelo* — the right to direct which *kohen* or *levi* receives those *terumot u-maasrot* belongs to me. The scriptural basis is *et kol ma'asar tevuascha ve-nasata* — "the tithe of your grain you shall give." Since the *terumot u-maasrot* physically derive from my grain, even though they exempt yours, I retain the allocation rights. This parallels the *korban* case: just as the *makdish* controls the *chomesh* and the *mitchaper* controls the *temurah*, so too in the domain of *trumos u-maasrot* the sanctifier's ownership controls the dispensation of what was sanctified.
 
@@ -132,19 +141,16 @@ In characteristic Talmudic fashion, the *Gemara* appends a third related ruling 
 
 ## Limbs & Fetuses
 
+
+
 ### Mishnah Text
 
 > **Hebrew/Aramaic:** מַתְנִי׳ אֵין מְמִירִין, לֹא אֵבָרִין בְּעוּבָּרִין, וְלֹא עוּבָּרִין בְּאֵבָרִים, וְלֹא עוּבָּרִין וְאֵבָרִים בִּשְׁלֵימִים, וְלֹא שְׁלֵימִים בָּהֶן.
->
 > **Translation:** MISHNA: **One does not substitute** non-sacred **limbs for** consecrated **fetuses,** i.e., if one says that a certain limb of a non-sacred animal is substituted for a fetus in the womb of a consecrated animal, it is not consecrated. **And** likewise, one does **not** substitute non-sacred **fetuses for** consecrated **limbs. And** one substitutes **neither** non-sacred **limbs nor fetuses for whole** consecrated animals **nor** non-sacred **whole** animals **for** consecrated limbs or fetuses.
 
 The *Gemara* now takes up the next *mishna*: *ein memirin lo evarin be-ubarim* — one may not perform *temurah* with limbs exchanged for fetuses, *ve-lo ubarim be-evarin* — nor fetuses for limbs, *ve-lo ubarim ve-evarin bi-shleimim* — nor fetuses or limbs for whole animals, *ve-lo shleimim bahen* — nor whole animals for them.
 
 ### Behemah Requirement
-
-> **Hebrew/Aramaic:** רַבִּי יוֹסֵי אוֹמֵר: מְמִירִין אֵבָרִים בִּשְׁלֵימִים, אֲבָל לֹא שְׁלֵימִים בָּהֶן. אָמַר רַבִּי יוֹסֵי: וַהֲלֹא בְּמוּקְדָּשִׁין, הָאוֹמֵר ״רַגְלָהּ שֶׁל זוֹ עוֹלָה״ — כּוּלָּהּ עוֹלָה, אַף כְּשֶׁיֹּאמַר ״רַגְלָהּ שֶׁל זוֹ תַּחַת זוֹ״ תְּהֵא כּוּלָּהּ תְּמוּרָה תַּחְתֶּיהָ.
->
-> **Translation:** **Rabbi Yosei says: One substitutes** non-sacred **limbs for whole** consecrated animals, **but not whole** animals **for** consecrated limbs. **Rabbi Yosei said: But isn't** it so **with regard to sacrificial** animals, that if **one says: The** hind **leg of this** animal is **a burnt offering, the entire** animal is **a burnt offering? So too, when he says: The** non-sacred hind **leg of this** animal is **in exchange for that** animal, **the entire** animal is **a substitute in exchange for it.**
 
 The most straightforward case to understand is the exchange involving whole animals on one side and a partial animal on the other. The *korban* stands on one side; on the other, one presents the leg of a sheep and declares this leg as the exchange for that *korban*. Can *temurah* take effect? We have established that *temurah* can exchange a sheep for a goat, a cow for a sheep, one animal for a hundred or a hundred for one. But what of a partial animal?
 
@@ -152,9 +158,8 @@ The exclusion derives from the verse's formulation: *behemah be-vehemah* — an 
 
 ### Rabbi Yosef Challenge
 
-> **Hebrew/Aramaic:** גְּמָ׳ אִתְּמַר, בַּר פְּדָא אָמַר: אֵין קְדוּשָּׁה חָלָה עַל עוּבָּרִין, רַבִּי יוֹחָנָן אָמַר: קְדוּשָּׁה חָלָה עַל עוּבָּרִין. וְאַזְדָּא רַבִּי יוֹחָנָן לְטַעְמֵיהּ, דְּאָמַר רַבִּי יוֹחָנָן: הִקְדִּישׁ חַטָּאת מְעוּבֶּרֶת וְיָלְדָה — רָצָה בָּהּ מִתְכַּפֵּר, רָצָה בִּוְולָדָהּ מִתְכַּפֵּר.
->
-> **Translation:** GEMARA: **It was stated** that **Bar Padda says: Fetuses are not imbued with sanctity** if one attempts to consecrate them for sacrifice, and **Rabbi Yoḥanan said: Fetuses are imbued with sanctity.** The Gemara notes: **And Rabbi Yoḥanan follows his** line of **reasoning** in this regard, **as Rabbi Yoḥanan said:** In the case of **one who consecrated a pregnant animal** as **a sin offering, and it** later **gave birth,** if **he wishes he may achieve atonement by** sacrificing the mother, and the offspring will be left to graze until it develops a blemish that renders it unfit, whereupon it will be sold and the money is used to purchase a gift burnt offering; and if **he wishes he may achieve atonement through** the animal's **offspring,** and the mother will be left to graze until it develops a blemish.
+> **Hebrew/Aramaic:** רַבִּי יוֹסֵי אוֹמֵר: מְמִירִין אֵבָרִים בִּשְׁלֵימִים, אֲבָל לֹא שְׁלֵימִים בָּהֶן. אָמַר רַבִּי יוֹסֵי: וַהֲלֹא בְּמוּקְדָּשִׁין, הָאוֹמֵר ״רַגְלָהּ שֶׁל זוֹ עוֹלָה״ — כּוּלָּהּ עוֹלָה, אַף כְּשֶׁיֹּאמַר ״רַגְלָהּ שֶׁל זוֹ תַּחַת זוֹ״ תְּהֵא כּוּלָּהּ תְּמוּרָה תַּחְתֶּיהָ.
+> **Translation:** **Rabbi Yosei says: One substitutes** non-sacred **limbs for whole** consecrated animals, **but not whole** animals **for** consecrated limbs. **Rabbi Yosei said: But isn’t** it so **with regard to sacrificial** animals, that if **one says: The** hind **leg of this** animal is **a burnt offering, the entire** animal is **a burnt offering? So too, when he says: The** non-sacred hind **leg of this** animal is **in exchange for that** animal, **the entire** animal is **a substitute in exchange for it.**
 
 Rabbi Yosef challenges this with a case from the *halachot* of sanctification generally: *velo be-mukdashim, ha-omer raglah shel zo olah, kulah olah* — when it comes to sanctified animals, if someone says "the leg of this animal is an *olah*," one cannot limit the sanctity to the leg; the entire animal becomes an *olah*. If that is so, Rabbi Yosef argues, then *af ke-she-yomar raglah shel zo tachat zo, tehei kulah temurah tachteiha* — if one says "the leg of this animal shall be in exchange for that *korban*," it is as if one has sanctified the leg, which sanctifies the whole animal, and therefore the whole animal should stand as *temurah*.
 
@@ -164,36 +169,44 @@ The logic can be sharpened: the effect of *temurah* is that an attempt to transf
 
 ## Ubar Kedoshah Dispute
 
-### Bar Padda Position
 
-> **Hebrew/Aramaic:** וּצְרִיכָא, דְּאִי אַשְׁמְעִינַן בְּהָךְ קַמַּיְיתָא — הָתָם הוּא דְּאַקְדְּשֵׁיהּ
->
-> **Translation:** The Gemara adds: **And** both statements of Rabbi Yoḥanan are **necessary,** despite the fact that both affirm that fetuses may be consecrated. **As, if** Rabbi Yoḥanan had **taught us** only **this first** case, of one who consecrates a fetus by itself, I might say that only **there** is the fetus imbued with sanctity, **as he consecrated**
+
+### Bar Padda Position
 
 The *Gemara* now examines the underlying dispute about whether *kedusha* can take direct effect on a fetus. Bar Padda states plainly: *ein kedusha chala al ubarim* — sanctity does not take direct effect on fetuses. If one attempts to sanctify a fetus directly, the act is ineffective. When the animal is born, it does not emerge with the status of something directly sanctified; it has only the derivative status of *vlad kodashim* — offspring of sacred animals — which carries different *halachot* than an animal directly sanctified.
 
+[DAF:10b]
 ### Rabbi Yochanan Position
 
-> **Hebrew/Aramaic:** לְעוּבָּרָהּ גּוּפֵיהּ, אֲבָל הָכָא דְּאַקְדְּשַׁיהּ לְאִימֵּיהּ — הָא בִּכְלַל אִימֵּיהּ לָא קָדוֹשׁ.
->
+> **Hebrew/Aramaic:** גְּמָ׳ אִתְּמַר, בַּר פְּדָא אָמַר: אֵין קְדוּשָּׁה חָלָה עַל עוּבָּרִין, רַבִּי יוֹחָנָן אָמַר: קְדוּשָּׁה חָלָה עַל עוּבָּרִין. וְאַזְדָּא רַבִּי יוֹחָנָן לְטַעְמֵיהּ, דְּאָמַר רַבִּי יוֹחָנָן: הִקְדִּישׁ חַטָּאת מְעוּבֶּרֶת וְיָלְדָה — רָצָה בָּהּ מִתְכַּפֵּר, רָצָה בִּוְולָדָהּ מִתְכַּפֵּר.
+> **Translation:** GEMARA: **It was stated** that **Bar Padda says: Fetuses are not imbued with sanctity** if one attempts to consecrate them for sacrifice, and **Rabbi Yoḥanan said: Fetuses are imbued with sanctity.** The Gemara notes: **And Rabbi Yoḥanan follows his** line of **reasoning** in this regard, **as Rabbi Yoḥanan said:** In the case of **one who consecrated a pregnant animal** as **a sin offering, and it** later **gave birth,** if **he wishes he may achieve atonement by** sacrificing the mother, and the offspring will be left to graze until it develops a blemish that renders it unfit, whereupon it will be sold and the money is used to purchase a gift burnt offering; and if **he wishes he may achieve atonement through** the animal’s **offspring,** and the mother will be left to graze until it develops a blemish.
+
+> **Hebrew/Aramaic:** וּצְרִיכָא, דְּאִי אַשְׁמְעִינַן בְּהָךְ קַמַּיְיתָא — הָתָם הוּא דְּאַקְדְּשֵׁיהּ
+> **Translation:** The Gemara adds: **And** both statements of Rabbi Yoḥanan are **necessary,** despite the fact that both affirm that fetuses may be consecrated. **As, if** Rabbi Yoḥanan had **taught us** only **this first** case, of one who consecrates a fetus by itself, I might say that only **there** is the fetus imbued with sanctity, **as he consecrated**
+
+> **Hebrew/Aramaic:** לְעוּבָּרָה גּוּפֵיהּ, אֲבָל הָכָא דְּאַקְדְּשַׁיהּ לְאִימֵּיהּ — הָא בִּכְלַל אִימֵּיהּ לָא קָדוֹשׁ.
 > **Translation:** **the fetus itself. But here, where he consecrated its** pregnant **mother,** not the fetus itself, one might think that **this** fetus **is not consecrated along with its mother.**
 
 Rabbi Yochanan disagrees: *kedusha chala al ubarim* — sanctity does take direct effect on fetuses. He supports this from a case he himself articulates: if one sanctified a pregnant *chatat* and it gave birth (*hikdish chatat me-uberet ve-yalda*), one may use either the mother or the offspring to achieve atonement (*ratza bah mitchaper, ratza be-vlad mitchaper*). Under Bar Padda's view, the offspring would be a *vlad chatat*, which carries the ruling of *mitah* — it must be left to die, as one of the five categories of *chatat* that may not be brought. But Rabbi Yochanan holds that the fetus was directly sanctified when the mother was sanctified, making the offspring a full-fledged *chatat* in its own right. The situation then parallels one who designates two animals simultaneously for one *chatat* obligation: one may select which to bring, and the other is treated as a backup, left to graze until it develops a *mum* and can be redeemed.
 
-[DAF:10b]
 ### Ubar Independence
 
-> **Hebrew/Aramaic:** וְאִי אַשְׁמְעִינַן בָּתְרָיְיתָא — הָתָם הוּא דְּאַקְדֵּישׁ לַהּ, וְכֹל דְּאִית בַּהּ, אֲבָל הָכָא דְּאַקְדְּשֵׁיהּ לֵיהּ — כֵּיוָן דְּלֵיתֵיהּ אַבָּרַאי, לָא קָדֵישׁ. צְרִיכָא.
->
-> **Translation:** **And if** Rabbi Yoḥanan had **taught us** only **this last** case, of one who consecrates a pregnant animal, I might have said that **it is** only **there** that its fetus is sacred, **as he consecrated** the animal **and all that is inside it,** including the fetus. **But here, where he consecrated** the fetus **itself, since** the object of the consecration **is not outside** its mother, as it has yet to be born, one might say that it is **not consecrated.** Therefore, it was **necessary** for Rabbi Yoḥanan to state both *halakhot*.
 
 A *lishna achrina* formulates Rabbi Yochanan's conceptual position more explicitly through the phrase *ubar lav yerech imo* — a fetus is not merely a limb of its mother. The fetus has genuine independent existence and identity. This principle is the conceptual foundation for everything Rabbi Yochanan maintains: because a fetus is not simply part of the mother, it can be the subject of independent *hekdesh*, can have its own *kedusha*, and when I sanctify a pregnant animal, the mother and fetus each receive their own distinct *kedusha* rather than the fetus being subsumed under the mother's. Rashi's formulation essentially unifies the two expressions of Rabbi Yochanan's position: the fetus can be left over as an independent entity (*im shiyaro meshuyar*), and it is not merely a limb of its mother.
 
 ### Why Both Cases
 
+> **Hebrew/Aramaic:** וְאִי אַשְׁמְעִינַן בָּתְרָיְיתָא — הָתָם הוּא דְּאַקְדֵּישׁ לַהּ, וְכֹל דְּאִית בַּהּ, אֲבָל הָכָא דְּאַקְדְּשֵׁיהּ לֵיהּ — כֵּיוָן דְּלֵיתֵיהּ אַבָּרַאי, לָא קָדֵישׁ. צְרִיכָא.
+> **Translation:** **And if** Rabbi Yoḥanan had **taught us** only **this last** case, of one who consecrates a pregnant animal, I might have said that **it is** only **there** that its fetus is sacred, **as he consecrated** the animal **and all that is inside it,** including the fetus. **But here, where he consecrated** the fetus **itself, since** the object of the consecration **is not outside** its mother, as it has yet to be born, one might say that it is **not consecrated.** Therefore, it was **necessary** for Rabbi Yoḥanan to state both *halakhot*.
+
 > **Hebrew/Aramaic:** לִישָּׁנָא אַחֲרִינָא, מַאי קָא מַשְׁמַע לַן? אִם שִׁיְּירוֹ — מְשׁוּיָּיר, וְעוּבָּר לָאו יֶרֶךְ אִמּוֹ הוּא, וְתַרְתֵּי לְמָה לִי?
->
 > **Translation:** § The Gemara cites **another version** of the discussion: **What is** Rabbi Yoḥanan **teaching us** when he says above that one may atone with either the mother or the offspring? He is evidently saying that **if he** explicitly **excluded** the fetus from his consecration, it is **excluded,** and only the mother is consecrated. **And** the reason is that **a fetus is not** considered **the thigh of its mother** but a separate entity that can possess a different status. **But** if so, **why do I** need **two** *halakhot* to teach me this, both with regard to one who consecrates a pregnant animal and with regard to one who consecrates the fetus alone?
+
+> **Hebrew/Aramaic:** צְרִיכָא, דְּאִי אִתְּמַר בְּהָא — מִשּׁוּם דְּאִימֵּיהּ חַזְיָא לְגוּפֵיהּ, מִגּוֹ דְּנָחֲתָא קְדוּשָּׁה לַהּ נָחֲתָא נָמֵי לְוָלָד, אֲבָל אִידַּךְ — לָא. קָא מַשְׁמַע לַן הָדָא.
+> **Translation:** The Gemara answers: Both *halakhot* are **necessary, as, if it was stated** only **with regard to that** case of one who consecrates a pregnant animal, I would say that the fetus is consecrated **because its mother is fit to** be consecrated **itself,** and **since sanctity applies to her, it likewise applies to the offspring. But** in **the other** case of one who consecrates a fetus alone, perhaps it is **not** consecrated. Therefore, Rabbi Yoḥanan **teaches us this** case as well.
+
+> **Hebrew/Aramaic:** וְאִי אִתְּמַר בְּהָא, מִשּׁוּם דְּקָא מְפָרֵשׁ קְדוּשָּׁה עַל (הָאֵם) הַוָּלָד, אֲבָל הָהִיא לָא צְרִיכָא.
+> **Translation:** **And if it was stated** only **with regard to this** case of one who consecrates a fetus, one might say that the fetus is sanctified **because he expressly** states that **sanctity** should apply **to the offspring. But** with regard to **that** case of one who consecrates a pregnant animal, where he does not explicitly mention the fetus, perhaps is it **not** consecrated. Therefore, both statements are **necessary.**
 
 The *Gemara* notes that two distinct cases must be stated to fully express Rabbi Yochanan's position. The first case is where one attempts to sanctify the fetus directly, without reference to the mother. The second is where one sanctifies the pregnant animal as a whole, with the *kedusha* applying to the entire package. Each case contains a *chiddush* that the other might not convey.
 
@@ -205,27 +218,17 @@ Conversely, had one only stated the case of directly sanctifying the fetus, one 
 
 ## Fetus & Bechor
 
-### Bechor Scheme
 
-> **Hebrew/Aramaic:** צְרִיכָא, דְּאִי אִתְּמַר בְּהָא — מִשּׁוּם דְּאִימֵּיהּ חַזְיָא לְגוּפֵיהּ, מִגּוֹ דְּנָחֲתָא קְדוּשָּׁה לַהּ נָחֲתָא נָמֵי לְוָלָד, אֲבָל אִידַּךְ — לָא. קָא מַשְׁמַע לַן הָדָא.
->
-> **Translation:** The Gemara answers: Both *halakhot* are **necessary, as, if it was stated** only **with regard to that** case of one who consecrates a pregnant animal, I would say that the fetus is consecrated **because its mother is fit to** be consecrated **itself,** and **since sanctity applies to her, it likewise applies to the offspring. But** in **the other** case of one who consecrates a fetus alone, perhaps it is **not** consecrated. Therefore, Rabbi Yoḥanan **teaches us this** case as well.
+
+### Bechor Scheme
 
 The *Gemara* now cites a *mishnah* that asks: *keitzad maarimin al ha-bechor* — how does one employ a legal stratagem to avoid the *bechor* obligation? The case: one has an animal that is *mavakeret* — pregnant for the first time, meaning the birth will be a firstborn for both the mother and the species — and one declares: *mah she-be-me-eha shel zo olah* — whatever is in this animal's womb is an *olah*. If the fetus is born male, it emerges as an *olah* and the *bechor* obligation does not take effect, since *bechor* requires that both the mother and offspring be non-sacred at the moment of birth. By preemptively sanctifying the fetus, one removes it from the reach of *bechorah*. If female, the animal is redeemed and the proceeds go toward an *olah*.
 
 ### Bechor Proof
 
-> **Hebrew/Aramaic:** וְאִי אִתְּמַר בְּהָא, מִשּׁוּם דְּקָא מְפָרֵשׁ קְדוּשָּׁה עַל (הָאֵם) הַוָּלָד, אֲבָל הָהִיא לָא צְרִיכָא.
->
-> **Translation:** **And if it was stated** only **with regard to this** case of one who consecrates a fetus, one might say that the fetus is sanctified **because he expressly** states that **sanctity** should apply **to the offspring. But** with regard to **that** case of one who consecrates a pregnant animal, where he does not explicitly mention the fetus, perhaps is it **not** consecrated. Therefore, both statements are **necessary.**
-
 This *mishna* appears to constitute a direct proof for Rabbi Yochanan's position. The text speaks of directly sanctifying the fetus — not the mother, only the unborn offspring — and the *mishna* treats this as effective. *Alma kadosh ubar* — evidently a fetus can be sanctified. Herein lies the difficulty for Bar Padda.
 
 ### Damim vs. Guf
-
-> **Hebrew/Aramaic:** גְּמָ׳ אִתְּמַר, בַּר פְּדָא אָמַר: אֵין קְדוּשָּׁה חָלָה עַל עוּבָּרִין
->
-> **Translation:** GEMARA: **It was stated** that **Bar Padda says: Fetuses are not imbued with sanctity**
 
 Bar Padda resolves the challenge: *ki matnita hi bi-kdushat damim* — the *mishna* is not speaking of *kedushat ha-guf*, the intrinsic sanctity that confers the identity of a *korban* upon the animal. It is speaking of *kedushat damim* — value sanctity, by which the animal's monetary proceeds are dedicated toward sacred purposes. One is not saying "this fetus is itself an *olah*"; one is saying "the value of this fetus should go toward an *olah*." The difference is crucial: *kedushat ha-guf* confers upon the animal a *korban* identity that cannot apply to a fetus according to Bar Padda, since a *korban* identity must inhere in a living animal. But *kedushat damim* requires only that the object have monetary value and can be sold — conditions a fetus satisfies. Therefore, Bar Padda can maintain his position: the *mishna*'s stratagem works not because the fetus has been made a *korban*, but because it has been sanctified for its value.
 
@@ -233,27 +236,17 @@ Bar Padda resolves the challenge: *ki matnita hi bi-kdushat damim* — the *mish
 
 ## Damim Kedusha
 
-### Damim Bechor Q
 
-> **Hebrew/Aramaic:** אִתְּמַר, בַּר פְּדָא אָמַר: אֵין קְדוּשָּׁה חָלָה עַל עוּבָּרִין, רַבִּי יוֹחָנָן אָמַר: קְדוּשָּׁה חָלָה עַל עוּבָּרִין. וְאַזְדָּא רַבִּי יוֹחָנָן לְטַעְמֵיהּ, דְּאָמַר רַבִּי יוֹחָנָן: הִקְדִּישׁ חַטָּאת מְעוּבֶּרֶת וְיָלְדָה — רָצָה בָּהּ מִתְכַּפֵּר, רָצָה בִּוְולָדָהּ מִתְכַּפֵּר.
->
-> **Translation:** **It was stated** that **Bar Padda says: Fetuses are not imbued with sanctity** if one attempts to consecrate them for sacrifice, and **Rabbi Yoḥanan said: Fetuses are imbued with sanctity.** The Gemara notes: **And Rabbi Yoḥanan follows his** line of **reasoning** in this regard, **as Rabbi Yoḥanan said:** In the case of **one who consecrated a pregnant animal** as **a sin offering, and it** later **gave birth,** if **he wishes he may achieve atonement by** sacrificing the mother, and the offspring will be left to graze until it develops a blemish that renders it unfit, whereupon it will be sold and the money is used to purchase a gift burnt offering; and if **he wishes he may achieve atonement through** the animal's **offspring,** and the mother will be left to graze until it develops a blemish.
+
+### Damim Bechor Q
 
 The *Gemara* raises an immediate challenge to Bar Padda's resolution: *mi alim kedushat damim de-mapka lei mi-bechora* — is *kedushat damim* really strong enough to exempt from *bechorah*? If the sanctity is not an identity sanctity — if it does not make the fetus a *korban* but merely dedicates its proceeds — has anything really changed about the animal's status that would deflect the *bechor* obligation?
 
 ### Blemish Precedent
 
-> **Hebrew/Aramaic:* אֵיתִיבֵיהּ: מַקְדִּישִׁין אֵבָרִין וְעוּבָּרִין, אֲבָל לֹא מְמִירִין!
->
-> **Translation:** Rabbi Yirmeya **raised** another **objection to** bar Padda's opinion: A later mishna (16b) lists stringencies that apply to sacrificial animals but not to substitutes: **One consecrates** an animal's **limbs and fetuses** in utero, **but one does not substitute** non-sacred animals for them.
-
 The answer is yes, and a proof is adduced from a *mishna*: *kol ha-kodashim she-kadam mum kavua le-hekdeshan ve-nifdu* — all sacred animals whose permanent blemish preceded their sanctification and were then redeemed. When an animal is blemished before being sanctified, the *kedusha* that takes effect can only be *kedushat damim* — the blemish prevents *kedushat ha-guf* from taking hold, since such an animal can never stand as a *korban*. Its sanctification is entirely one of value, akin to sanctifying a car toward sacred proceeds.
 
 ### Before/After Pidyon
-
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: הָא נָמֵי קְדוּשַּׁת דָּמִים.
->
-> **Translation:** Rabbi Zeira **said to** Rabbi Yirmeya: **This** *baraita* is **also** referring to one who consecrates the fetus for **sanctity** that inheres in its **value,** and bar Padda concedes that this sanctity applies to the fetus.
 
 The *mishna* states that such animals, once redeemed (*nifdu*), are *chayavim bi-bechora u-matnot* — they are subject to the *bechor* obligation and to the priestly gifts (*zeroa, lechayayim, ve-keiva*). They are treated as complete *chullin*, because when only *kedushat damim* was involved and the *kedusha* was removed, nothing of the *kedusha* remains. This contrasts sharply with an animal that was first sanctified with *kedushat ha-guf* and then redeemed after developing a *mum*: in that case, a residue of *kedusha* persists and the animal remains forbidden for shearing and labor even after redemption. But an animal whose sanctity was only ever *kedushat damim* from the start is completely freed upon redemption.
 
@@ -261,11 +254,7 @@ The critical implication, however, is found in the *ta'ama* — the reasoning. T
 
 ### Fetus Damim Apply
 
-> **Hebrew/Aramaic:** וּמִי אַלִּימָא קְדוּשַּׁת דָּמִים, דְּאָסְירָא לֵיהּ בַּעֲבוֹדָה? אֲמַר לֵיהּ: אִין, וְהָתְנַן: יוֹצְאִין לְחוּלִּין, לִיגָּזֵז וְלֵיעָבֵד. טַעְמָא מִשּׁוּם דְּנִפְדּוּ, הָא קוֹדֶם שֶׁנִּפְדּוּ אֲסוּרִין בָּעֲבוֹדָה, אַלְמָא קְדוּשַּׁת דָּמִים אָסְורִין לֵיהּ בַּעֲבוֹדָה.
->
-> **Translation:** Rabbi Yirmeya objected: **But is sanctity** that inheres in the animal's **value** so **strong that it renders** the mother **prohibited for labor?** Rabbi Zeira **said to** Rabbi Yirmeya: **Yes, and** so **we learned** in the mishna cited previously, that blemished animals that were consecrated for their value and redeemed **emerge** from their sacred status and assume complete **non-sacred** status and may **be shorn and used for labor.** Apparently, the **reason** they may be used for labor is **that they were redeemed.** One may infer that **before they are redeemed, they are prohibited for labor. Evidently, sanctity** that inheres in the animal's **value renders** the mother of the fetus **prohibited for labor.**
-
-This precedent answers the *Gemara*'s challenge squarely: *alma dealim kedushat damim de-mapka lei mi-bechorah* — you see that *kedushat damim* is indeed powerful enough to exempt from *bechorah*. Bar Padda's resolution therefore holds. When the *mishna* in *Ketziyas Bechor* describes the stratagem of sanctifying the fetus before birth to avoid *bechorah*, it is referring to *kedushat damim*. This form of sanctification can apply to a fetus, requires no *korban* identity, and nonetheless carries the halachic force to displace the *bechor* obligation. Bar Padda's view that *kedusha* cannot take direct effect on a fetus as a *korban*-identity is thus fully consistent with the *mishna*'s ruling.
+This precedent answers the *Gemara*'s challenge squarely: *alma dealim kedushat damim de-mapka lei mi-bechorah* — you see that *kedushat damim* is indeed powerful enough to exempt from *bechorah*. Bar Padda's resolution therefore holds. When the *mishna* in *Ketziyas Bechor* describes the stratagem of sanctifying the fetus before birth to avoid *bechorah*, it is referring to *kedushat damim*. This form of sanctification can apply to a fetus precisely because, when one sanctifies something for its value alone, there is no requirement that the object itself carry the identity of a *korban* — one can, in principle, sanctify one's car for the proceeds to go toward an *olah*. What matters is only that the thing has value; it need not be an animal, and it need not have a *korban* identity. A fetus, or even a limb of an animal, can be sanctified in this way since you are not attempting to bring the thing itself as an offering, only to sell it and direct the proceeds. This is fundamentally different from *kedushat ha-guf*, which requires treating the object as the *korban* itself — an identity that a fetus cannot bear. Accordingly, *kedushat damim* carries the halachic force to displace the *bechor* obligation, and Bar Padda's view that *kedusha* cannot take direct effect on a fetus as a *korban*-identity is thus fully consistent with the *mishna*'s ruling.
 
 ### Avodah Restriction
 

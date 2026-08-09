@@ -1,0 +1,419 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "V'dam Chalalim Yishteh",
+    "candidates": [
+      "Rabbi Shimon & Shechita",
+      "V'dam Chalalim Yishteh",
+      "Shechita Blood as Water",
+      "Psulei Mukdashim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form exactly the question-and-answer chain described in the prose of candidate 1: why is dam chalalim machshir (answered by the verse v'dam chalalim yishteh), followed by the objection about dam shechita and the deflection that that verse concerns psulei mukdashim \u2014 precisely what the essay prose for 'V'dam Chalalim Yishteh' describes.",
+      "chosen_heading": "V'dam Chalalim Yishteh",
+      "current_heading": "V'dam Chalalim Yishteh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Psulei Mukdashim",
+    "candidates": [
+      "Shechita Blood as Water",
+      "Psulei Mukdashim",
+      "Sanctity & Blood: Benefit",
+      "Tana d'vei R. Yishmael"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly expresses the reasoning that since psulei mukdashim are forbidden in fleece and labor, one might think their blood also requires burial \u2014 which is precisely what the prose in 'Psulei Mukdashim' describes as the kamashma lan moment.",
+      "chosen_heading": "Psulei Mukdashim",
+      "current_heading": "Psulei Mukdashim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Tana d'vei R. Yishmael",
+    "candidates": [
+      "Sanctity & Blood: Benefit",
+      "Tana d'vei R. Yishmael",
+      "Dam She'haneshama Yotzei",
+      "Slain Person Timing",
+      "Shechita Blood Timing",
+      "Splattered Blood Scenario",
+      "Machshir vs. Tolun"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Tana d'vei Rabbi Yishmael teaching about dam kiluach (spurting blood) not being machshir, which is precisely what heading 1's prose introduces and explains.",
+      "chosen_heading": "Tana d'vei R. Yishmael",
+      "current_heading": "Tana d'vei R. Yishmael",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Machshir vs. Tolun",
+    "candidates": [
+      "Dam She'haneshama Yotzei",
+      "Slain Person Timing",
+      "Shechita Blood Timing",
+      "Splattered Blood Scenario",
+      "Machshir vs. Tolun",
+      "R. Oshaya Analysis",
+      "Voting Realignment",
+      "Blood Remains Until End",
+      "Blood Wiped Mid-Process",
+      "Shechita from Start",
+      "Shechita Only at End",
+      "Retroactive Shechita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about slaughtering and blood splattering on a gourd, which is precisely the scenario introduction described in candidate 3 ('Splattered Blood Scenario'), not candidate 4 which discusses the subsequent opinions of Rabbi and Rabbi Chiyya.",
+      "chosen_heading": "Splattered Blood Scenario",
+      "current_heading": "Machshir vs. Tolun",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Retroactive Shechita",
+    "candidates": [
+      "R. Oshaya Analysis",
+      "Voting Realignment",
+      "Blood Remains Until End",
+      "Blood Wiped Mid-Process",
+      "Shechita from Start",
+      "Shechita Only at End",
+      "Retroactive Shechita",
+      "Vote Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Oshaya's statement about being caught between Rabbi and Rabbi Chiya and deciding to rely on Rabbi Shimon, which directly matches the 'R. Oshaya Analysis' section's prose about that exact dilemma.",
+      "chosen_heading": "R. Oshaya Analysis",
+      "current_heading": "Retroactive Shechita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Vote Reconciliation",
+    "candidates": [
+      "Retroactive Shechita",
+      "Vote Reconciliation",
+      "Tolun = Perpetual Doubt",
+      "R. Chiya's Uncertainty",
+      "Suspension Consequences",
+      "Shimon's No-Burn Vote"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items directly explain the vote alignment between Rabbi Shimon and Rabbi \u1e24iyya against Rabbi Yehuda HaNasi in the wiped-blood case, which is precisely what the 'Vote Reconciliation' prose section describes.",
+      "chosen_heading": "Vote Reconciliation",
+      "current_heading": "Vote Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Shimon's No-Burn Vote",
+    "candidates": [
+      "Tolun = Perpetual Doubt",
+      "R. Chiya's Uncertainty",
+      "Suspension Consequences",
+      "Shimon's No-Burn Vote",
+      "Chibat Hakodesh Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together form the complete unit explaining Rav Ashi's reading: items 1-2 establish the perpetual doubt and Rabbi Shimon/Rabbi \u1e24iyya's agreement on not burning, and item 3 concludes that Rabbi alone is outvoted by two, yielding lo ochlin velo sorfin \u2014 exactly the content described in candidate 3's prose about 'Shimon's No-Burn Vote.'",
+      "chosen_heading": "Shimon's No-Burn Vote",
+      "current_heading": "Shimon's No-Burn Vote",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Chibat Hakodesh Question",
+    "candidates": [
+      "Chibat Hakodesh Question",
+      "Liquid vs. Sanctity",
+      "Water Exclusivity Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Reish Lakish's dilemma about tzarid shel menachot and chibat hakodesh, which is exactly what the 'Chibat Hakodesh Question' prose introduces and frames \u2014 the current placement is correct.",
+      "chosen_heading": "Chibat Hakodesh Question",
+      "current_heading": "Chibat Hakodesh Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Water Exclusivity Proof",
+    "candidates": [
+      "Liquid vs. Sanctity",
+      "Water Exclusivity Proof",
+      "Food Susceptibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the exact content described in heading 1's prose: Rabbi Elazar's citation of the 'ochel haba b'mayim' verse, the Gemara's immediate dismissal (Reish Lakish surely knew this principle), and the clarification that Rabbi Elazar was deriving from redundancy between the two verses \u2014 all of which heading 1 explicitly describes.",
+      "chosen_heading": "Water Exclusivity Proof",
+      "current_heading": "Water Exclusivity Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Food Susceptibility",
+    "candidates": [
+      "Food Susceptibility",
+      "Huchsharu Evidence",
+      "Rabbinic Level Only",
+      "Olive Pressing Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Food Susceptibility",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover the rejection of the chibat hakodesh inference and the necessity of two verses for tumas meis and tumas sheretz, which is precisely what the 'Food Susceptibility' prose describes.",
+      "second_heading": "Huchsharu Evidence",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 introduce Rav Yosef's objection from Rabbi Shimon's huchsharu b'shchita and Abaye's rabbinic-level response, matching exactly the 'Huchsharu Evidence' prose about Rav Yosef's attempted resolution and the parallel shechita-based hechsher case.",
+      "current_heading": "Food Susceptibility",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Olive Pressing Case",
+    "candidates": [
+      "Huchsharu Evidence",
+      "Rabbinic Level Only",
+      "Olive Pressing Case",
+      "Hillel vs. Shammai",
+      "Inconsistent Standards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage shows Rabbi Zeira presenting the grape-harvesting case (Shammai says huchshar, Hillel is silent) and Abaye responding that it is only rabbinic (asu k'hechsher mayim mid'rabbanan), which matches exactly the 'Hillel vs. Shammai' prose describing Beit Hillel/Shammai disputing a borderline case and Abaye giving the same mid'rabbanan answer.",
+      "chosen_heading": "Hillel vs. Shammai",
+      "current_heading": "Olive Pressing Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Inconsistent Standards",
+    "candidates": [
+      "Hillel vs. Shammai",
+      "Inconsistent Standards",
+      "Rabbinic Parallel",
+      "Same Rabbinic Track",
+      "Not Suspension Question",
+      "Transfer Question",
+      "De'oraita Status",
+      "Vayikra Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form Rav Yosef's pointed objection about Abaye's repeated 'k'hechsher mayim mid'rabbanan' deflections and Abaye's clarifying response that Reish Lakish's dilemma was about burning (biblical tumah), not suspension \u2014 precisely what heading 1 ('Inconsistent Standards') describes, making the current placement correct.",
+      "chosen_heading": "Inconsistent Standards",
+      "current_heading": "Inconsistent Standards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Vayikra Verse",
+    "candidates": [
+      "Rabbinic Parallel",
+      "Same Rabbinic Track",
+      "Not Suspension Question",
+      "Transfer Question",
+      "De'oraita Status",
+      "Vayikra Verse",
+      "Machshir Puzzle",
+      "No Sacrificial Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly asks 'from where do we derive chibat hakodesh' and cites the Leviticus verse about flesh touching impure items, precisely matching the 'Vayikra Verse' section's prose about identifying the biblical anchor in that verse and asking what rendered the meat susceptible.",
+      "chosen_heading": "Vayikra Verse",
+      "current_heading": "Vayikra Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "No Sacrificial Blood",
+    "candidates": [
+      "Machshir Puzzle",
+      "No Sacrificial Blood",
+      "Temple Liquids"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the argument that sacrificial blood cannot be the source of hechsher, citing Rabbi \u1e24iyya bar Abba quoting Rabbi Yo\u1e25anan, which is precisely what the 'No Sacrificial Blood' section's prose describes.",
+      "chosen_heading": "No Sacrificial Blood",
+      "current_heading": "No Sacrificial Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Temple Liquids",
+    "candidates": [
+      "Temple Liquids",
+      "River Water Option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the liquids of the Temple abattoir (mashkei beit mitbechaya), Rabbi Yosei bar Rabbi Chanina's ruling that they don't render food susceptible, the plural 'mashkei' indicating all Temple liquids, and concludes by raising chibat hakodesh \u2014 all of which precisely matches the 'Temple Liquids' prose.",
+      "chosen_heading": "Temple Liquids",
+      "current_heading": "Temple Liquids",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "River Water Option",
+    "candidates": [
+      "River Water Option",
+      "Vehabasar Inclusion",
+      "Wood & Frankincense",
+      "Kodesh Transforms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the scenario discussed in 'River Water Option' \u2014 Rav Yehuda in the name of Shmuel explaining a cow designated as a shelamim being conveyed through a river and slaughtered while still wet, which is precisely what that section's prose elaborates upon.",
+      "chosen_heading": "River Water Option",
+      "current_heading": "River Water Option",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Kodesh Transforms",
+    "candidates": [
+      "Vehabasar Inclusion",
+      "Wood & Frankincense",
+      "Kodesh Transforms",
+      "Back to Reish Lakish",
+      "Two Possibilities"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers all three steps \u2014 the 'vehabasar' inclusion, the wood/frankincense challenge, and the chibat hakodesh resolution \u2014 but the opening move ('Rather from the latter portion') fits best under the 'Vehabasar Inclusion' heading where the essay prose begins discussing the v'ha'basar derivation, with the subsequent steps following naturally as part of the same continuous Gemara unit; however, since the passage equally spans headings 0\u20132, confidence is medium and current placement at heading 2 is also defensible.",
+      "chosen_heading": "Vehabasar Inclusion",
+      "current_heading": "Kodesh Transforms",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Two Possibilities",
+    "candidates": [
+      "Back to Reish Lakish",
+      "Two Possibilities",
+      "Teiku Resolution",
+      "Parallel Uncertainty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage contains both the two possibilities and the teiku resolution as a single Talmudic unit, and the prose under 'Back to Reish Lakish' best frames the entire question including both its content and its unresolved conclusion, though the current placement also captures part of it.",
+      "chosen_heading": "Back to Reish Lakish",
+      "current_heading": "Two Possibilities",
+      "moved": true
+    }
+  }
+]

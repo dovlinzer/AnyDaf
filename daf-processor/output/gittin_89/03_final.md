@@ -1,13 +1,9 @@
-# Gittin 89 — Daf Yomi Shiur
 [DAF:89a]
-
 ## Gett Me'useh
 
-### Mishnah: Forced Get
 
-> **Hebrew/Aramaic:** מַתְנִי׳ גֵּט מְעוּשֶּׂה, בְּיִשְׂרָאֵל – כָּשֵׁר, וּבְגוֹיִם – פָּסוּל. וּבְגוֹיִם – חוֹבְטִין אוֹתוֹ וְאוֹמְרִים לוֹ: ״עֲשֵׂה מַה שֶּׁיִּשְׂרָאֵל אוֹמְרִים לָךְ״ (וְכָשֵׁר).
->
-> **Translation:** MISHNA: With regard to **a bill of divorce** that the husband **was compelled** by the court to write and give his wife, if he was compelled **by a Jewish** court it is **valid, but** if he was compelled **by gentiles** it is **invalid. But with regard to gentiles they may beat him** at the request of the Jewish court **and say to him: Do what the Jews are telling you, and it is a valid** divorce.
+
+### Mishnah: Forced Get
 
 The final *daf* of *Gittin* reserves its most consequential material for last. After three chapters devoted to the laws of *bifnei nichtav u'bifnei nechtam*, we arrive at a single *amud* addressing the compulsion of a husband to give a *get*. The *mishnah* opens with a foundational distinction: *get me'useh b'Yisrael kasher* — a *get* that is coerced by a Jewish *beit din* is valid. *B'ovdei kochavim pasul* — if non-Jews are the ones compelling it, the *get* is invalid.
 
@@ -15,9 +11,11 @@ The *mishnah* then adds that non-Jews may nonetheless beat the husband and say t
 
 ### Rav Nachman's Rule
 
-> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: גֵּט הַמְעוּשֶּׂה בְּיִשְׂרָאֵל, כַּדִּין – כָּשֵׁר; שֶׁלֹּא כַּדִּין – פָּסוּל, וּפוֹסֵל. וּבְגוֹיִם, כַּדִּין – פָּסוּל וּפוֹסֵל, שֶׁלֹּא כַּדִּין – אֲפִילּוּ רֵיחַ הַגֵּט אֵין בּוֹ.
->
-> **Translation:** GEMARA: **Rav Naḥman says** that **Shmuel says:** With regard to **a bill of divorce** that the husband **was compelled by a Jewish** court to give his wife, if they did so **lawfully,** as the *halakha* obligated the husband to divorce his wife, it is **valid.** This is referring to cases where sexual intercourse is forbidden or specific cases where the Sages instituted that the husband is obligated to divorce his wife. If they did so **unlawfully,** the bill of divorce is **invalid, but** it is not considered entirely invalid, as it **disqualifies** the wife from marrying a priest after her husband's death. **And** in a case where the husband was compelled **by gentiles,** if he was compelled **lawfully,** the bill of divorce is **invalid, but** it also **disqualifies** the wife from marrying a priest. But if he was compelled **unlawfully it does not have even the trace of a bill of divorce,** and the wife is not even disqualified from marrying a priest.
+> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי: כֹּל קָלָא דְּלָא אִיתַּחְזַק בְּבֵי דִינָא – לָאו קָלָא הוּא. וְאָמַר רַב אָשֵׁי: כֹּל קָלָא דְּבָתַר נִישּׂוּאִין – לָא חָיְישִׁינַן לֵיהּ; הָא דְּבָתַר אֵירוּסִין – חָיְישִׁינַן לֵיהּ. רַב חֲבִיבָא אָמַר: אֲפִילּוּ דְּבָתַר אֵירוּסִין נָמֵי, לָא חָיְישִׁינַן לֵיהּ. וְהִלְכְתָא: לָא חָיְישִׁינַן לֵיהּ.
+> **Translation:** § **Rav Ashi said: Any rumor that was not confirmed in court is not** regarded as a significant **rumor. And Rav Ashi said:** With regard to **any rumor that** was spread about a woman **after** her **marriage, we are not concerned about it.** She need not leave her husband, and he need not divorce her. The Gemara infers that if the rumor circulated **after** her **betrothal we are concerned about it,** and she must be divorced from her betrothed. **Rav Ḥaviva said: Even** if it circulated **after** her **betrothal, we are still not concerned about it.** The Gemara concludes: **And the *halakha* is** that **we are not concerned about it.**
+
+> **Hebrew/Aramaic:** אָמַר רַב יִרְמְיָה בַּר אַבָּא: שְׁלַחוּ לֵיהּ מִבֵּי רַב לִשְׁמוּאֵל, יְלַמְּדֵנוּ רַבֵּינוּ: יָצָא עָלֶיהָ קוֹל מֵרִאשׁוֹן, וּבָא אַחֵר וְקִדְּשָׁהּ קִידּוּשֵׁי תוֹרָה, מַהוּ? שְׁלַח לְהוּ: תֵּצֵא, וְהַעֲמִידוּ הַדָּבָר עַל בּוּרְיוֹ, וְהוֹדִיעוּנִי.
+> **Translation:** **Rav Yirmeya bar Abba said** that a group of students **from the study hall of Rav sent** the following question **to Shmuel** after Rav’s death: **Teach us, our master:** If **a rumor circulated about** a woman that she is betrothed **to a first** man, **and another** man **came and betrothed her** in a manner of **betrothal** that is recognized **by Torah law,** as there is clear testimony of it, **what is** the *halakha*? **He sent them** an answer: **She must leave** the second man, **and you clarify the matter** to figure out exactly what happened **and inform me.**
 
 The *gemara* refines the *mishnah*'s ruling through a statement of Rav Nachman in the name of Shmuel. *Haget me'useh b'Yisrael k'din kasher* — a *get* coerced by a Jewish *beit din* in a legally mandated case is valid. *Shelo k'din pasul u'posel* — if the court compelled the *get* without legal mandate, the *get* is invalid, but it generates the *re'ach haget* problem: should the husband subsequently die, the woman would be disqualified from marrying a *kohen*. Turning to the non-Jewish case: *b'ovdei kochavim k'din pasul u'posel* — even where the legal obligation to give a *get* exists, if the compulsion came from a non-Jewish court acting on its own authority, the *get* is invalid, yet still generates a *kehunah* disqualification. However, *shelo k'din* — where there is neither legal mandate nor Jewish auspices — *afilu re'ach haget ein bo*: there is not even a whiff of a *get*, and no *kehunah* problem arises at all.
 
@@ -32,10 +30,6 @@ One might ask why the *Rambam* needed this additional rationale when the general
 This analysis also clarifies why a *get* that is not legally mandated is invalid: the entire justification for treating the coerced *get* as a genuine expression of will depends on the existence of a *halachic* mandate. Without that mandate, the theoretical underpinning collapses.
 
 ### Non-Jewish Court Get
-
-> **Hebrew/Aramaic:** מָה נַפְשָׁךְ? אִי גּוֹיִם בְּנֵי עַשּׂוֹיֵי נִינְהוּ, אִיתַּכְשׁוֹרֵי נָמֵי לִיתַּכְשַׁר! אִי לָאו בְּנֵי עַשּׂוֹיֵי נִינְהוּ, מִיפְסָל לָא לִיפְסֹל! אָמַר רַב מְשַׁרְשְׁיָא: דְּבַר תּוֹרָה – גֵּט מְעוּשֶּׂה בַּגּוֹיִם, כָּשֵׁר. וּמָה טַעַם אָמְרוּ פָּסוּל – שֶׁלֹּא תְּהֵא כׇּל אַחַת וְאַחַת הוֹלֶכֶת וְתוֹלָה עַצְמָהּ בְּגוֹי, ומַפְקַעַת עַצְמָהּ מִיַּד בַּעְלָהּ. אִי הָכִי, שֶׁלֹּא כַּדִּין – אֲפִילּוּ רֵיחַ הַגֵּט אֵין בּוֹ?! וְנֶהֱוֵי שֶׁלֹּא כַּדִּין כְּיִשְׂרָאֵל, וּמִפְסָל נָמֵי לִפְסוֹל! אֶלָּא הָא דְּרַב מְשַׁרְשְׁיָא – בְּדוּתָא הִיא. וְטַעְמָא מַאי? כַּדִּין בְּכַדִּין דְּיִשְׂרָאֵל – מִיחַלַּף. שֶׁלֹּא כַּדִּין בְּכַדִּין [דְּ]יִשְׂרָאֵל – לָא מִיחַלַּף.
->
-> **Translation:** The Gemara raises an objection: With regard to the statement that if the husband was compelled by gentiles the divorce is invalid but it also disqualifies the wife from marrying a priest, **whichever way you look at it,** the statement is difficult. **If gentiles are** legally **capable of compulsion, it should be rendered valid** with regard to the woman's permission to remarry **as well. If they are not** legally **capable of compulsion, it should not disqualify** her either. **Rav Mesharshiyya says: By Torah law a bill of divorce** that the husband **was compelled by gentiles** to write and give his wife **is valid, and what is the reason** the Sages **said** that it is **invalid?** It is **so that each and every woman will not go and depend on a gentile** to compel her husband to divorce her through temptation or bribery, **and** thereby she will **release herself from her husband** unlawfully. **If that is so,** why did Shmuel rule that if he was compelled **unlawfully it does not have even the trace of a bill of divorce? Let** a bill of divorce that the husband was compelled **unlawfully** by gentiles to give his wife **be compared to** a case where he was compelled unlawfully by **Jews, and disqualify** the wife from marrying a priest **as well.** **Rather, that** statement **of Rav Mesharshiyya,** that by Torah law a bill of divorce is valid even if the husband was compelled by gentiles to write it and give it to his wife, **is a mistake.** In principle it does not have even the trace of a bill of divorce, even if the husband is required by law to divorce his wife. **And what is the reason** that the wife is disqualified from marrying a priest in this case? It is because the case where the husband was compelled **lawfully** by gentiles **can be confused with** a case where he was compelled **lawfully by Jews.** If a bill of divorce that gentiles compelled the husband to write and give to his wife carries no weight, people might think that this is likewise the *halakha* with regard to a case where Jews compelled the husband to do so. Therefore, the Sages issued a decree that even if the husband was compelled by gentiles the wife is disqualified from marrying a priest. By contrast, the case where the husband was compelled **unlawfully** by gentiles **cannot be confused with** a case where he was compelled **lawfully by Jews,** as they are too dissimilar. Therefore, a bill of divorce that gentiles unlawfully compelled the husband to write and give his wife is entirely invalid.
 
 The *gemara* now examines the intermediate cases — where compulsion comes from a non-Jewish court — through the lens of a *mah nafshach* argument. Either non-Jews have the capacity to meaningfully compel a *get*, in which case a *get* forced by them in a legally mandated case should be fully valid; or they do not, in which case there should be no *re'ach haget* whatsoever. What justifies the intermediate position?
 
@@ -53,11 +47,9 @@ The resulting framework can be mapped across two axes: whether the compulsion is
 
 ## Semicha & Authority
 
-### Abaye's Challenge
 
-> **Hebrew/Aramaic:** אַבָּיֵי אַשְׁכְּחֵיהּ לְרַב יוֹסֵף דְּיָתֵיב וְקָא מְעַשֵּׂה אַגִּיטֵּי, אֲמַר לֵיהּ: וְהָא אֲנַן – הֶדְיוֹטוֹת אֲנַן, וְתַנְיָא, הָיָה רַבִּי טַרְפוֹן אוֹמֵר: כׇּל מָקוֹם שֶׁאַתָּה מוֹצֵא אֲגוֹרִיאוֹת שֶׁל גּוֹיִם, אַף עַל פִּי שֶׁדִּינֵיהֶם כְּדִינֵי יִשְׂרָאֵל – אִי אַתָּה רַשַּׁאי לְהִיזָּקֵק לָהֶם, שֶׁנֶּאֱמַר: ״וְאֵלֶּה הַמִּשְׁפָּטִים אֲשֶׁר תָּשִׂים לִפְנֵיהֶם״; ״לִפְנֵיהֶם״ – וְלֹא לִפְנֵי גּוֹיִם. דָּבָר אַחֵר: ״לִפְנֵיהֶם״ – וְלֹא לִפְנֵי הֶדְיוֹטוֹת!
->
-> **Translation:** § **Abaye found Rav Yosef sitting** in court as the judge **and compelling** husbands to give their wives **bills of divorce. He said to him: But aren't we ordinary people,** not ordained judges? **And it is taught** in a *baraita* that **Rabbi Tarfon would say:** With regard to **any place where you find gentile courts [*agoriot*], even if their laws are like Jewish laws, you may not attend them, as it is stated: "Now these are the ordinances which you shall set before them"** (Exodus 21:1). It is derived from here that one may go to court only **before them,** i.e., Jewish judges, **and not before gentiles. Alternatively,** it is derived that one may go to court **before them,** i.e., ordained judges, **and not before ordinary people.** Since we are not ordained judges, how can you perform a distinctly judicial act?
+
+### Abaye's Challenge
 
 The *gemara* records that Abaye found Rav Yosef sitting and compelling husbands who were legally obligated to give *gittin*, applying whatever pressure and leverage was available to compel compliance. Abaye challenged him: *ve'anan hedyotot anan* — are we not mere commoners? We lack the *semicha* that traces back to Moshe Rabbeinu. How can we presume to exercise this authority?
 
@@ -69,21 +61,17 @@ This raises obvious contemporary questions about the use of secular courts, whic
 
 ### Beit Din Agency
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אֲנַן – שְׁלִיחוּתַיְיהוּ קָא עָבְדִינַן, מִידֵּי דְּהָוֵה אַהוֹדָאוֹת וְהַלְוָאוֹת.
->
-> **Translation:** Rav Yosef **said to him:** We see ourselves as agents of the ordained judges in Eretz Yisrael, and **we are performing** our task as judges on the basis of **their agency, just as is** the case **with regard to** cases of **admissions and loans,** which we attend to on the same basis.
+Rav Yosef responds: *anan shelichusaihu ka'avdinan* — we act as agents of the court that does possess *semicha*. We are not claiming independent authority; we are representing those who are properly empowered.
 
 ### Common vs. Rare Matters
 
-> **Hebrew/Aramaic:** אִי הָכִי, גְּזֵילוֹת וְחַבָּלוֹת נָמֵי! כִּי עָבְדִינַן שְׁלִיחוּתַיְיהוּ – בְּמִילְּתָא דִשְׁכִיחָא, בְּמִילְּתָא דְּלָא שְׁכִיחָא – לָא עָבְדִינַן שְׁלִיחוּתַיְיהוּ.
->
-> **Translation:** The Gemara asks: **If so,** why is the *halakha* that judges living outside Eretz Yisrael do not judge in cases of **robbery and** personal **injury?** They should judge in these cases **as well.** The Gemara answers: **When we perform** our tasks as judges on the basis of **their agency,** it is **with regard to common matters,** e.g., cases that pertain to the *halakhot* of admissions and loans, which arise frequently between people. But **with regard to uncommon matters,** e.g., cases of robbery or personal injury, **we do not perform** our tasks as judges on the basis of **their agency.**
+The *gemara* draws an analogy: just as courts today handle cases involving loans and admissions (*hoda'os v'halva'os*) on this agency theory, so too can they handle the forcing of a *get*. The *gemara* immediately asks: if that is so, why not also handle cases of theft (*gezeilos*) and personal injury (*chavalos*)? The *gemara* answers: *ki avdinan shelichusaihu bemilsa d'shchichah* — we are considered agents of the ordained court only in common matters. *Bemilsa d'lo shchichah lo avdinan shelichusaihu* — in uncommon matters, we do not exercise that agency.
 
 This generates substantial halachic literature about the precise scope of contemporary *beit din* authority. *Tosafot* notes that the *gemara* does treat courts as handling theft and injury in some passages, and works to reconcile this. There is also a distinction noted between matters of *knas* — punitive fines — where courts without *semicha* would not exercise *shelichut*, and matters of pure restitution (*mamon*), where they may. A further limiting principle is that *shelichut* may apply only where someone has actually suffered a monetary loss (*chisaron kis*).
 
 What is particularly striking is that forcing a *get* — which involves physical compulsion and the halachic paradox of treating a coerced act as voluntary — should seemingly require the clearest possible credentialing. Yet the *gemara* not only affirms that contemporary courts were empowered to do this, but describes it as *milsa d'shchicha* — a common matter. That characterization is itself a sobering commentary: even in the time of the *gemara*, husbands who were legally obligated to give a *get* and refused were a sufficiently frequent occurrence to be classified as routine. This makes the contemporary failure of the Israeli rabbinical establishment — which possesses actual coercive power (including imprisonment) yet largely declines to use it — all the more difficult to understand.
 
-### Tosafot: Gerim & Shelichut
+### Tosafot: Gerim & Shlichus
 
 *Tosafot* raises two additional points of interest. The first concerns the acceptance of converts (*geirim*). The *gemara* in *Yevamos* establishes that conversion requires three expert judges with *semicha* (*mishpat kesiv bei*). *Tosafot* answers, in the name of the *Ri*, that we perform the conversion as agents of the ordained court (*d'avdinan shlichusaihu*), since the matter is considered sufficiently common (*d'chashiv k'shchiach*) — though the *Tosafot* acknowledges the irony, given that conversion to Judaism in medieval Christian or Muslim lands was punishable by death and was anything but common. Indeed, various *poskim* writing about the laws of *geirim* felt compelled to include disclaimers that the entire subject was theoretical, given the legal dangers of the time.
 
@@ -93,11 +81,30 @@ The second point concerns a deeper structural question: *shelichut* to an existi
 
 ## Rumors About Status
 
+
+
 ### Mishnah: Rumor Status
 
-> **Hebrew/Aramaic:** מַתְנִי׳ יָצָא שְׁמָהּ בָּעִיר ״מְקוּדֶּשֶׁת״ – הֲרֵי זוֹ מְקוּדֶּשֶׁת; ״מְגוֹרֶשֶׁת״ – הֲרֵי זוֹ מְגוֹרֶשֶׁת. וּבִלְבַד שֶׁלֹּא יְהֵא שָׁם אֲמַתְלָא. אֵיזוֹ הִיא אֲמַתְלָא? גֵּירַשׁ אִישׁ פְּלוֹנִי אֶת אִשְׁתּוֹ עַל תְּנַאי; זָרַק לָהּ קִידּוּשֶׁיהָ – סָפֵק קָרוֹב לָהּ, סָפֵק קָרוֹב לוֹ – זוֹ הִיא אֲמַתְלָא.
->
-> **Translation:** MISHNA: If **a rumor circulated in the city** that an unmarried woman is **betrothed, she is** considered to be **betrothed.** Similarly, if a rumor circulated that a married woman is **divorced, she is divorced, provided there is no** valid alternative **explanation [*amatla*]** for the rumor. **What is** considered a valid **explanation?** For example, it is a case where there is a rumor that **so-and-so divorced his wife** but that the bill of divorce was given to her **conditionally.** It is therefore possible that the condition was not fulfilled and she is not actually divorced. Similarly, if there is a rumor that a woman was betrothed but that the man **threw her betrothal,** i.e., the money or document of betrothal, **to her,** and it is **uncertain** whether it was **closer to her** and **uncertain** whether it was **closer to him,** and therefore the status of their betrothal is likewise uncertain, **this is** considered a valid **explanation.**
+> **Hebrew/Aramaic:** מַאי ״וְהַעֲמִידוּ הַדָּבָר עַל בּוּרְיוֹ״? אִילֵּימָא דְּאִי מִגַּלְּיָא מִילְּתָא דְּקִידּוּשֵׁי דְקַמָּא לָאו קִידּוּשֵׁי מְעַלְּיָא נִינְהוּ – מְבַטְּלִינַן קָלָא; וְהָא נְהַרְדְּעָא אַתְרֵיהּ דִּשְׁמוּאֵל הוּא, וְלָא מְבַטְּלִי קָלָא! אֶלָּא דְּאִי מִיגַּלְּיָא מִילְּתָא דְּקִידּוּשֵׁי קַמָּא קִידּוּשֵׁי מְעַלְּיָא נִינְהוּ – לֹא צְרִיכָה גֵּט מִשֵּׁנִי.
+> **Translation:** The Gemara asks: **What** is meant by: **And you clarify the matter? If we say that** he said this so that **if it is discovered that the betrothal of the first** man **was not a proper betrothal we** should **suppress the rumor,** thereby permitting her to marry the second man, **isn’t Neharde’a Shmuel’s locale? And** as mentioned above, in Neharde’a **they would not suppress a rumor. Rather,** he must have instructed them in this manner **because if it is discovered that the betrothal of the first** man **was a proper betrothal, she does not need a bill of divorce from the second** man.
+
+> **Hebrew/Aramaic:** וּפְלִיגָא דְּרַב הוּנָא – דְּאָמַר רַב הוּנָא: אֵשֶׁת אִישׁ שֶׁפָּשְׁטָה יָדָהּ, וְקִיבְּלָה קִידּוּשִׁין מֵאַחֵר, מְקוּדֶּשֶׁת –
+> **Translation:** **And** in ruling that she does not need a bill of divorce from the second man, Shmuel **is in disagreement with Rav Huna, as Rav Huna says:** In the case of **a married woman who extended her hand and received** money or a document of **betrothal from another** man, it is considered uncertain whether or not the woman is **betrothed** to him, and she needs a bill of divorce from him.
+
+> **Hebrew/Aramaic:** מִדְּרַב הַמְנוּנָא; דְּאָמַר רַב הַמְנוּנָא: הָאִשָּׁה שֶׁאָמְרָה לְבַעְלָהּ: ״גֵּירַשְׁתַּנִי״ – נֶאֱמֶנֶת, חֲזָקָה אֵין אִשָּׁה מְעִיזָּה פָּנֶיהָ בִּפְנֵי בַּעְלָהּ.
+> **Translation:** Rav Huna’s opinion is based on a principle stated **by Rav Hamnuna, as Rav Hamnuna says** that **a woman who said to her husband: You divorced me, is deemed credible,** due to the **presumption** that **a wife is not** so **brazen** to lie in this manner **before her husband.** Therefore, in the case brought before Shmuel, the fact that the woman received money or a document of betrothal from the second man should be considered sufficient basis for the rumor to be suppressed, since if she were already betrothed she certainly would not have accepted the betrothal from him.
+
+> **Hebrew/Aramaic:** וְאִידַּךְ – כִּי אִתְּמַר דְּרַב הַמְנוּנָא, בְּפָנָיו; שֶׁלֹּא בְּפָנָיו – מְעִיזָּה וּמְעִיזָּה.
+> **Translation:** The Gemara asks: **And** how does **the other** Sage, Shmuel, who disagrees with Rav Huna, relate to this principle? The Gemara answers: He holds that **Rav Hamnuna’s** principle **was stated** in reference to a case **when** the wife says **in** her husband’s **presence** that he divorced her, but when she is **not in his presence she is certainly brazen** enough to lie in this manner. Therefore, in the case brought before Shmuel, the woman may have accepted the betrothal of the other man because it was not in her husband’s presence.
+
+> **Hebrew/Aramaic:** לֹא מָצְאוּ דָּבָר עַל בּוּרְיוֹ, מַהוּ?
+> **Translation:** The Gemara asks: **What is** the *halakha* if **they did not find a clear matter,** i.e., they could not establish with certainty whether she was betrothed to the first man?
+
+> **Hebrew/Aramaic:** אָמַר רַב הוּנָא: מְגָרֵשׁ רִאשׁוֹן, וְנוֹשֵׂא שֵׁנִי. אֲבָל מְגָרֵשׁ שֵׁנִי וְנוֹשֵׂא רִאשׁוֹן – לָא. מַאי טַעְמָא? אָתֵי לְמֵימַר: מַחְזִיר גְּרוּשָׁתוֹ מִן הָאֵירוּסִין.
+> **Translation:** **Rav Huna says:** The **first** man **divorces** her **and** the **second** man **marries** her. **But** for the **second** man to **divorce her and** the **first** man to **marry** her is **not** permitted. The Gemara explains: **What is the reason** that it is not permitted? It is prohibited lest people **come to say** that the first man is **remarrying his divorcée after** her **betrothal** to another man, as they will mistakenly assume that the first man betrothed her and then divorced her, thereby enabling her to be betrothed to the second man. Therefore, if he marries her after she is divorced from the second man, people will conclude that he is in violation of the Torah prohibition of remarrying one’s divorcée after she was married to another man.
+
+> **Hebrew/Aramaic:** רַב שִׁינָּנָא בְּרֵיהּ דְּרַב אִידִי אָמַר: אַף מְגָרֵשׁ שֵׁנִי וְנוֹשֵׂא רִאשׁוֹן, מֵימָר אָמְרִי: עַיִּינוּ רַבָּנַן בְּקִידּוּשֵׁי, וְקִידּוּשֵׁי טָעוּת הֲוָה.
+> **Translation:** **Rav Shinnana, son of Rav Idi, says:** For the **second** man to **divorce** her **and** the **first** man to **marry** her **is also** permitted. There is no concern that people will assume that the first man is remarrying his divorcée, as **they will say** that **the Sages investigated the** second man’s **betrothal and** found that **it was a mistaken betrothal.**
 
 The *gemara* now turns to an entirely different set of concerns, introduced by a second *mishnah*: *yatza shemah ba'ir mekudeshet harei zo mekudeshet* — if a rumor circulates in town that a woman is married, she must be treated as married. She cannot marry another man without receiving a *get* from her purported first husband. *Megureshes harei zo megureshes* — if there is a rumor that she is divorced, she is treated as divorced.
 
@@ -105,35 +112,51 @@ The second ruling is troubling in both directions. It does not mean we leniently
 
 ### Rav Ashi: Post-Marriage
 
-> **Hebrew/Aramaic:** גְּמָ׳ וְאָסְרִינַן לַהּ אַגַּבְרָא?! וְהָא אָמַר רַב אָשֵׁי: כֹּל קָלָא דְּבָתַר נִישּׂוּאִין – לָא חָיְשִׁינַן לֵיהּ! הָכִי קָאָמַר: יָצָא שְׁמָהּ בָּעִיר ״מְקוּדֶּשֶׁת״ – הֲרֵי זוֹ מְקוּדֶּשֶׁת. ״מְקוּדֶּשֶׁת וּמְגוֹרֶשֶׁת״ – הֲרֵי זוֹ מְגוֹרֶשֶׁת. מַאי טַעְמָא? קוֹל וְשׁוֹבְרוֹ עִמּוֹ.
->
-> **Translation:** GEMARA: With regard to the statement that a woman who is rumored to be divorced is divorced, **do we render her forbidden to** her **husband** if she is married to a priest? **But didn't Rav Ashi say** that **we are not concerned about any rumor that** circulates **after marriage?** Accordingly, a woman should not be compelled to leave her husband merely on the basis of a rumor. The Gemara answers that **this is what** the mishna **is saying:** If **a rumor circulated in the city** that a woman is **betrothed, she is betrothed,** and she may not marry another man until she receives a bill of divorce from the man to whom she is rumored to be betrothed. If she is rumored to have been **betrothed** to a certain man **and** subsequently **divorced** from him, **she is** considered to be **divorced** and may remarry. **What is the reason** for this? The **rumor** came **with its receipt.** The rumor that she is betrothed is canceled by the rumor that she is divorced.
+> **Hebrew/Aramaic:** יָצָא עָלֶיהָ קוֹל מִזֶּה וּמִזֶּה, מַהוּ? אָמַר רַב פָּפָּא: אַף זוֹ – מְגָרֵשׁ רִאשׁוֹן וְנוֹשֵׂא שֵׁנִי. אַמֵּימָר אָמַר: מוּתֶּרֶת לִשְׁנֵיהֶם.
+> **Translation:** The Gemara asks: **What is** the *halakha* if **a rumor circulated about her** having been betrothed **to this** man **and** then another rumor was spread that she became betrothed **to that** man? **Rav Pappa says:** In **this** case **too,** the **first** man **divorces** her **and** the **second** man **marries** her, due to the previously mentioned concern that people will think that he is remarrying his divorcée after she was betrothed to another man. **Ameimar says: She is permitted to both** the first and the second man. One of them must divorce her while the other may marry her.
 
 The *gemara* moves immediately to limit the *mishnah*'s scope. *Ve'asrinan la agavra?* — are we really going to forbid a woman to her husband on the basis of a rumor? Rav Ashi rules: *kol kala d'vatar nisuin lo hashishan leh* — any rumor that arises after a woman is already married carries no halachic weight. The *mishnah*'s ruling that *megureshes harei zo megureshes* therefore does not mean we force an already-married woman to separate from her husband. Rather, Rav Ashi reinterprets the *mishnah*: the case of a woman reported as married (*mekudeshet*) refers to an unmarried woman — a rumor that she became betrothed means she cannot now marry anyone else without a *get* from the first. The case of *mekudeshet u'megoreshet* — married and divorced — means the rumor contains both elements simultaneously, in which case *kol v'shovro imo*: the rumor carries its own cancellation within it. These two components obviously neutralize one another, and the result is no halachic concern.
 
 ### Pritzuta Rumors
 
-> **Hebrew/Aramaic:** אָמַר רָבָא: יָצָא לָהּ שֵׁם מְזַנָּה בָּעִיר – אֵין חוֹשְׁשִׁין לָהּ. מַאי טַעְמָא? פְּרִיצוּתָא בְּעָלְמָא הוּא דַּחֲזוֹ לַהּ.
->
-> **Translation:** § **Rava said:** If **a rumor circulated in the city** that a woman **engaged in licentious sexual intercourse, we are not concerned** that the rumor is true with regard to her eligibility to marry a priest. **What is the reason** for this? It is assumed that people **saw her** engage in **merely licentious behavior,** in a manner that does not disqualify her from marrying a priest.
-
 Rava adds a further restriction: *yatza la shem mezana ba'ir ein chosheshin lah* — if a rumor circulates that a woman is sexually promiscuous, it carries no halachic weight. One might think that a rumor of promiscuity could, for example, disqualify an unmarried woman from marrying a *kohen* (if she were suspected of having relations with someone who would render her a *zona*). Rava dismisses this: *pritzuta b'alma hu d'hazu lah* — people simply observe behavior that strikes them as somewhat loose, and from that the rumor of serious sexual misconduct grows. *Rashi* illustrates the range of behaviors that might trigger such rumors: from *shichaka bashuk* — joking with men in the marketplace — to *michla bein dadei* — a sexual act of some kind. The spectrum is wide, and the connection between the observed behavior and the rumored conclusion is unreliable. Communal gossip, as always, has a tendency to amplify minor infractions into lurid accusations.
 
 ### Tannaim Debate
 
-> **Hebrew/Aramaic:** כְּתַנָּאֵי: אָכְלָה בַּשּׁוּק, גִּירְגְּרָה בַּשּׁוּק, הֵנִיקָה בַּשּׁוּק – בְּכוּלָּן רַבִּי מֵאִיר אוֹמֵר: תֵּצֵא. רַבִּי עֲקִיבָא אוֹמֵר: מִשֶּׁיִּשְּׂאוּ וְיִתְּנוּ בָּהּ מוֹזְרוֹת בַּלְּבָנָה.
->
-> **Translation:** This statement is **parallel to** one side of a dispute among the ***tanna'im*:** If a woman **ate in the marketplace, walked with her neck stretched forward** in an arrogant manner **in the marketplace,** or **nursed in the marketplace, with regard to all of** these cases **Rabbi Meir says** that **she must leave** her husband, since all of these behaviors are considered licentious behavior. **Rabbi Akiva says** that she must leave him only **once the women who spin [*mozerot*] by the moonlight converse about her** having engaged in promiscuous sexual intercourse, as this indicates that the matter is well known and accepted as fact.
-
 This reflects a dispute among *tanna'im*. If a woman was seen eating in the marketplace (*achla bashuk*), or walking with an outstretched neck in a manner designed to attract attention (*gargara bashuk*), or nursing her child in a public place (*henika bashuk*) — Rabbi Meir rules that she must be divorced from her husband, the assumption being that such behavior indicates adultery has occurred. Rabbi Akiva sets the threshold much higher: *mishe-yishiu ve-yitnu bah mezarot balevanah* — not until the women who spin wool by moonlight — the proverbial neighborhood gossips — have taken up the story. Even by Rabbi Akiva's account, however, communal yenta-talk carries some weight, which is itself a striking position.
 
-### R. Yochanan: Two Witnesses
+### R. Yochanan: Two
 
-> **Hebrew/Aramaic:** אָמַר לוֹ רַבִּי יוֹחָנָן בֶּן נוּרִי: אִם כֵּן, לֹא הִנַּחְתָּ בַּת לְאַבְרָהָם אָבִינוּ שֶׁיּוֹשֶׁבֶת תַּחַת בַּעֲלָהּ, וְהַתּוֹרָה אָמְרָה: ״כִּי מָצָא בָהּ עֶרְוַת דָּבָר״, וּלְהַלָּן הוּא אוֹמֵר: ״עַל פִּי שְׁנַיִם עֵדִים אוֹ עַל פִּי שְׁלֹשָׁה עֵדִים יָקוּם דָּבָר״; מָה לְהַלָּן דָּבָר בָּרוּר, אַף כָּאן דָּבָר בָּרוּר.
->
-> **Translation:** **Rabbi Yoḥanan ben Nuri said to him: If so, you have not allowed** any **daughter of Abraham our forefather to remain with her husband,** i.e., all wives will be forced to leave their husbands, as it is common for women to slander their peers. **And the Torah said: "Because he has found some unseemly matter in her,** and he writes her a scroll of severance" (Deuteronomy 24:1), **and it says over there: "At the mouth of two witnesses, or at the mouth of three witnesses, a matter shall be established"** (Deuteronomy 19:15). **Just as there,** the word "matter" is referring to **a clear matter,** as it is established through witnesses, **so too here,** the unseemly matter that is considered a cause for divorce is also referring to **a clear matter** that was not established merely through a rumor.
+> **Hebrew/Aramaic:** וְהִלְכְתָא: מוּתֶּרֶת לִשְׁנֵיהֶם.
+> **Translation:** **And the *halakha*** is that **she is permitted to both of them.**
+
+> **Hebrew/Aramaic:** מַתְנִי׳ בֵּית שַׁמַּאי אוֹמְרִים: לֹא יְגָרֵשׁ אָדָם אֶת אִשְׁתּוֹ, אֶלָּא אִם כֵּן מָצָא בָּהּ דְּבַר עֶרְוָה – שֶׁנֶּאֱמַר: ״כִּי מָצָא בָהּ עֶרְוַת דָּבָר״.
+> **Translation:** MISHNA: **Beit Shammai say: A man may not divorce his wife unless he finds** out **about her** having engaged in **a matter of forbidden sexual intercourse [*devar erva*],** i.e., she committed adultery or is suspected of doing so, **as it is stated: “Because he has found some unseemly matter [*ervat davar*] in her,** and he writes her a scroll of severance” (Deuteronomy 24:1).
+
+> **Hebrew/Aramaic:** וּבֵית הִלֵּל אוֹמְרִים: אֲפִילּוּ הִקְדִּיחָה תַּבְשִׁילוֹ – שֶׁנֶּאֱמַר: ״כִּי מָצָא בָהּ עֶרְוַת דָּבָר״.
+> **Translation:** **And Beit Hillel say:** He may divorce her **even** due to a minor issue, e.g., because **she burned** or over-salted **his dish, as it is stated: “Because he has found some unseemly matter in her,”** meaning that he found any type of shortcoming in her.
+
+> **Hebrew/Aramaic:** רַבִּי עֲקִיבָא אוֹמֵר: אֲפִילּוּ מָצָא אַחֶרֶת נָאָה הֵימֶנָּה – שֶׁנֶּאֱמַר: ״וְהָיָה אִם לֹא תִמְצָא חֵן בְּעֵינָיו״.
+> **Translation:** **Rabbi Akiva says:** He may divorce her **even** if **he found another woman** who is **better looking than her** and wishes to marry her, **as it is stated** in that verse: **“And it comes to pass, if she finds no favor in his eyes”** (Deuteronomy 24:1).
+
+> **Hebrew/Aramaic:** גְּמָ׳ תַּנְיָא, אָמְרוּ בֵּית הִלֵּל לְבֵית שַׁמַּאי: וַהֲלֹא כְּבָר נֶאֱמַר ״דָּבָר״! אָמְרוּ לָהֶם בֵּית שַׁמַּאי: וַהֲלֹא כְּבָר נֶאֱמַר ״עֶרְוַת״!
+> **Translation:** GEMARA: It **is taught** in a *baraita* that **Beit Hillel said to Beit Shammai: But isn’t** the word **“matter” already stated** in the verse, indicating that any disadvantageous matter is a legitimate reason for divorce? **Beit Shammai said to them: But isn’t** the word **“unseemly [*ervat*]” already stated?**
+
+> **Hebrew/Aramaic:** אָמְרוּ לָהֶם בֵּית הִלֵּל: אִם נֶאֱמַר ״עֶרְוַת״ וְלֹא נֶאֱמַר ״דָּבָר״ – הָיִיתִי אוֹמֵר: מִשּׁוּם ״עֶרְוָה״ תֵּצֵא, מִשּׁוּם ״דָּבָר״ לֹא תֵּצֵא; לְכָךְ נֶאֱמַר: ״דָּבָר״. וְאִילּוּ נֶאֱמַר ״דָּבָר״ וְלֹא נֶאֱמַר ״עֶרְוַת״ – הָיִיתִי אוֹמֵר: מִשּׁוּם ״דָּבָר״ – תִּנָּשֵׂא לְאַחֵר, וּמִשּׁוּם ״עֶרְוָה״ – לֹא תִּנָּשֵׂא לְאַחֵר; לְכָךְ נֶאֱמַר: ״עֶרְוַת״.
+> **Translation:** **Beit Hillel said to them: If** the word **“unseemly” had been stated and** the word **“matter” had not been stated, I would have said** that a wife **should leave** her husband **due to forbidden sexual intercourse,** but **she should not** have to **leave** him **due to** any other **matter. Therefore,** the word **“matter” is stated. And if** the word **“matter” had been stated and** the word **“unseemly” had not been stated, I would have said** that if he divorced her merely **due to** a disadvantageous **matter she may marry another** man, as the Torah continues: “And she departs out of his house, and goes and becomes another man’s wife” (Deuteronomy 24:2). **But** if she was divorced **due to** her engaging in **forbidden sexual intercourse, she may not marry another** man, as she is prohibited from remarrying. **Therefore,** the word **“unseemly” is stated,** indicating that even a wife who is divorced due to adultery is permitted to remarry.
+
+> **Hebrew/Aramaic:** וּבֵית שַׁמַּאי – הַאי ״דָּבָר״ מַאי עָבְדִי לֵיהּ? נֶאֱמַר כָּאן ״דָּבָר״, וְנֶאֱמַר לְהַלָּן ״דָּבָר״ – ״עַל פִּי שְׁנֵי עֵדִים אוֹ עַל פִּי שְׁלֹשָׁה עֵדִים יָקוּם דָּבָר״; מָה לְהַלָּן בִּשְׁנֵי עֵדִים, אַף כָּאן בִּשְׁנֵי עֵדִים.
+> **Translation:** The Gemara asks: **And what do Beit Shammai do with this** word **“matter”?** How do they interpret it? It seems superfluous, as in their opinion the verse refers specifically to a wife who engaged in forbidden sexual intercourse. The Gemara answers: The word **“matter” is stated here,** with regard to divorce, **and** the word **“matter” is stated there,** with regard to testimony: **“At the mouth of two witnesses, or at the mouth of three witnesses, a matter shall be established”** (Deuteronomy 19:15). **Just as there,** it is stated that a matter is established only **through two witnesses, so too here,** a matter of forbidden sexual intercourse justifies divorce only if it is established **through two witnesses.**
+
+> **Hebrew/Aramaic:** וּבֵית הִלֵּל – מִי כְּתִיב ״עֶרְוָה בְּדָבָר״?! וּבֵית שַׁמַּאי – מִי כְּתִיב ״אוֹ עֶרְוָה אוֹ דָּבָר״?!
+> **Translation:** **And Beit Hillel** would respond to this analogy in the following manner: **Is it written:** Because he has found something **unseemly in a matter [*erva bedavar*],** indicating that it was established through the testimony of two witnesses that she engaged in adultery? **And Beit Shammai** would respond to Beit Hillel’s interpretation as follows: **Is it written:** Because he has found **either** something **unseemly or** another **matter *[o erva o davar*],** in accordance with Beit Hillel’s understanding?
+
+> **Hebrew/Aramaic:** וּבֵית הִלֵּל – לְהָכִי כְּתִיב: ״עֶרְוַת דָּבָר״; דְּמַשְׁמַע הָכִי, וּמַשְׁמַע הָכִי.
+> **Translation:** **And Beit Hillel** would respond that **for this** reason the expression **“some unseemly matter [*ervat davar*]” is written, as it indicates that** interpretation, i.e., that a husband is not obligated to divorce his wife unless there are two witnesses to her having engaged in forbidden sexual intercourse, **and it** also **indicates this** interpretation, i.e., that he may divorce her due to any deficiency, be it adultery or any other shortcoming.
 
 Rabbi Yochanan ben Nuri finally provides the voice of genuine caution: *im ken lo hinachta bat le-Avraham Avinu she-yoshevet tachat ba'alah* — if we give this weight, no woman will remain with her husband. He then invokes a *gezeirah shavah*: the word *davar* appears both in the verse requiring a husband to find an *ervat davar* before writing a *get* and in the verse *al pi shenei edim o al pi sheloshah edim yakum davar* — establishing matters through two or three witnesses. *Mah le-halan davar barur af kan davar barur* — just as the latter verse requires clear, established evidence, so too does the former. Nothing short of clear evidence suffices.
+
+It is worth pausing on why Beit Shammai in particular needs this *gezeirah shavah*. Since Beit Shammai holds that the only legitimate ground for divorce is actual sexual sin — *ervah* in the strict sense — one might ask why the Torah uses the phrase *ervat davar* at all rather than simply writing *ki matza bah ervah*. Beit Shammai's answer is precisely this: the word *davar* is not there to license divorce for minor displeasures, as Beit Hillel would have it, but to teach the evidentiary standard. Just as *davar* in the context of two or three witnesses means something formally established and proven, so too here — a husband who wishes to act on grounds of *ervah* must have that *ervah* confirmed through witnesses. Suspicion alone, however strong, does not create an obligation or even a permission to divorce on grounds of adultery.
 
 This position also, *Tosafot* notes, implies that even rumors about a single woman prior to her marriage cannot simply be given halachic weight. If a *kohen* marries a woman unaware that rumors had circulated about her before the marriage, and those rumors then come to light, giving them weight now would retroactively harm him in his current marriage. Once we see that rumors are insufficient to compel a married woman to divorce, the same logic extends to their weight regarding a single woman's status. The *gemara* is thus progressively narrowing the *mishnah* from every direction.
 
@@ -141,11 +164,12 @@ This position also, *Tosafot* notes, implies that even rumors about a single wom
 
 ## Narrowing Rumor Scope
 
+
+
 ### Baraita: No Concern
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: ״בְּעוּלָה״ – אֵין חוֹשְׁשִׁין לָהּ. ״נְשׂוּאָה״ – אֵין חוֹשְׁשִׁין לָהּ. ״אֲרוּסָה״ – אֵין חוֹשְׁשִׁין לָהּ. ״שֶׁלֹּא לִפְלוֹנִי״ – אֵין חוֹשְׁשִׁין לָהּ. ״בְּעִיר אַחֶרֶת״ – אֵין חוֹשְׁשִׁין לָהּ. ״מַמְזֶרֶת״ – אֵין חוֹשְׁשִׁין לָהּ. ״שִׁפְחָה״ – אֵין חוֹשְׁשִׁין לָהּ. ״הִקְדִּישׁ פְּלוֹנִי נְכָסָיו״; ״הִפְקִיר פְּלוֹנִי נְכָסָיו״ – אֵין חוֹשְׁשִׁין לָהֶן.
->
-> **Translation:** **The Sages taught:** If a rumor circulated that a certain unmarried woman is **a non-virgin, one is not concerned about it,** and she may marry a High Priest. If a rumor circulated that she is **a married woman, one is not concerned about it.** If a rumor circulated that she is **a betrothed woman, one is not concerned about it.** If a rumor circulated that she is betrothed, but **not to so-and-so,** i.e., the man who betrothed her is not specified, **one is not concerned about it.** If a rumor circulated that she was betrothed **in another city, one is not concerned about it.** If a rumor circulated that she is **a daughter born from an incestuous or adulterous relationship [*mamzeret*], one is not concerned about it.** If a rumor circulated that she is **a maidservant, one is not concerned about it.** Similarly, if a rumor circulated that **so-and-so consecrated his property,** or that **so-and-so renounced ownership of his property, we are not concerned about these** rumors, and his property cannot be taken away by the Temple treasury or another person.
+> **Hebrew/Aramaic:** רַבִּי עֲקִיבָא אוֹמֵר: אֲפִילּוּ מָצָא אַחֶרֶת: בְּמַאי קָא מִיפַּלְגִי? בִּדְרֵישׁ לָקִישׁ – דְּאָמַר רֵישׁ לָקִישׁ: ״כִּי״ מְשַׁמֵּשׁ בְּאַרְבָּעָה לְשׁוֹנוֹת – אִי, דִּלְמָא, אֶלָּא, דְּהָא.
+> **Translation:** § It is stated in the mishna that **Rabbi Akiva says:** He may divorce her **even** if **he found another woman** who is better looking than her. **With regard to what do they disagree?** They disagree **with regard to** the application of **Reish Lakish’s** statement, **as Reish Lakish said** that the term ***ki*** actually **has** at least **four** distinct **meanings: If, perhaps, rather,** and **because.**
 
 A *baraita* enumerates case after case in which rumors generate no halachic concern: *be'ulah ein chosheshin lah* — a rumor of sexual relations carries no weight. *Nesu'ah ein chosheshin lah* — a rumor that she got married carries no weight, directly contradicting the plain reading of the *mishnah*. *Arusah ein chosheshin lah* — even a rumor of *kiddushin*, which is a more private affair than a full wedding and might seem more believable, carries no weight. *Shelo l'Ploni ein chosheshin lah* — if the rumor does not name the specific person she allegedly married, it is disregarded. *V'ir acheret ein chosheshin lah* — if the rumored marriage took place in another city, it is disregarded.
 
@@ -153,29 +177,44 @@ A *baraita* enumerates case after case in which rumors generate no halachic conc
 
 ### Baraita Extended
 
+> **Hebrew/Aramaic:** בֵּית שַׁמַּאי סָבְרִי: ״וְהָיָה אִם לֹא תִמְצָא חֵן בְּעֵינָיו, כִּי מָצָא בָהּ עֶרְוַת דָּבָר״ – דְּהָא מָצָא בָהּ עֶרְוַת דָּבָר; וְרַבִּי עֲקִיבָא סָבַר: ״כִּי מָצָא בָהּ עֶרְוַת דָּבָר״ – אִי נָמֵי, מָצָא בָהּ עֶרְוַת דָּבָר.
+> **Translation:** **Beit Shammai hold** that the verse **“And it comes to pass, if she finds no favor in his eyes, because [*ki*] he has found some unseemly matter in her”** means that she did not find favor in his eyes **due to** the fact that **he has found some unseemly matter in her. And Rabbi Akiva holds** that the phrase **“because [*ki*] he has found some unseemly matter in her”** means: **Or if he has found some unseemly matter in her.**
+
 The *baraita* continues: *mamzeret ein chosheshin lah* — a rumor that she is a *mamzeret* carries no weight. *Shifcha ein chosheshin lah* — a rumor that she is a *shifcha* likewise. Similarly, a rumor that a certain person consecrated his property or renounced ownership of it does not affect the halachic status of that property. The general principle is stark: rumors, across a wide range of categories, carry essentially no halachic force.
 
 ### Ulla: Circumstantial
 
-> **Hebrew/Aramaic:** אָמַר עוּלָּא: לֹא שֶׁשָּׁמְעוּ קוֹל הֲבָרָה; אֶלָּא כְּדֵי שֶׁיְּהוּ נֵרוֹת דּוֹלְקוֹת וּמִטּוֹת מוּצָּעוֹת, וּבְנֵי אָדָם נִכְנָסִין וְיוֹצְאִין וְאוֹמְרִים: ״פְּלוֹנִית מִתְקַדֶּשֶׁת הַיּוֹם״.
->
-> **Translation:** § **Ulla says:** The rumor mentioned in the mishna with regard to betrothal is **not** referring to a case **where** people only **heard an echo. Rather,** it is referring to a case **where** there is circumstantial evidence, as **there are candles lit and beds made** in the woman's house, as was the custom for brides, **and people entering and leaving and saying** that **so-and-so is becoming betrothed today.**
-
 With the *baraita* having reduced the *mishnah*'s operative scope to almost nothing, the *gemara* through Ulla articulates precisely what would render a rumor halachically significant. *Lo sheshamu kol havarah* — the case of the *mishnah* is not where people merely heard an echo — that is, an unrooted report passed from person to person. Rather: *ela k'dei she'yoru nerot v'yatziu mitot u'vnei adam nichnasim v'yotzim* — only where the rumor is accompanied by substantial circumstantial evidence. Candles are being lit; bedding is being spread; people are going in and out of the hall. And amidst all of this: *v'omrim Plonit nitkadsha hayom* — people are saying that so-and-so got married today. Only under these conditions does the rumor rise to the level of halachic concern.
 
+[DAF:89b]
 ### Got Married Today
 
-> **Hebrew/Aramaic:** ״מִתְקַדֶּשֶׁת״?! וְדִלְמָא לָא אִקַּדַּשָׁה! אֵימָא: ״פְּלוֹנִית נִתְקַדְּשָׁה הַיּוֹם״. וְכֵן תָּנֵי לֵוִי: לֹא שֶׁיִּשְׁמְעוּ קוֹל הֲבָרָה; אֶלָּא כְּדֵי שֶׁיְּהוּ נֵרוֹת דּוֹלְקוֹת וּמִטּוֹת מוּצָּעוֹת, וְנָשִׁים טוֹוֹת לְאוֹר הַנֵּר וּשְׂמֵחוֹת לָהּ, וְאוֹמְרוֹת: ״פְּלוֹנִית מִתְקַדֶּשֶׁת הַיּוֹם״. ״מִתְקַדֶּשֶׁת״?! וְדִלְמָא לָא אִקַּדַּשָׁה! אָמַר רַב פָּפָּא, אֵימָא: ״פְּלוֹנִית נִתְקַדְּשָׁה הַיּוֹם״.
->
-> **Translation:** The Gemara asks: If people merely are saying that she is **becoming betrothed,** what is the reason for concern? **Perhaps she was not betrothed** in the end. Rather, **say** that people are saying that **so-and-so was betrothed today.** **And similarly, Levi taught** a *baraita*: The mishna is **not** referring to a case **where** people only **hear an echo. Rather,** it is referring to a case **where candles are lit and beds are made, and women are spinning by candlelight and rejoicing for her and saying** that **so-and-so is becoming betrothed today.** The Gemara asks: If they are merely saying that she is **becoming betrothed,** what is the reason for concern? **Perhaps she was not betrothed** in the end. **Rav Pappa said: Say** that they are saying that **so-and-so was betrothed today.**
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב פָּפָּא לְרָבָא: לֹא מָצָא בָּהּ לֹא עֶרְוָה וְלֹא דָּבָר, מַהוּ?
+> **Translation:** § **Rav Pappa said to Rava:** According to Beit Hillel, if the husband **found about her neither forbidden sexual intercourse nor** any other **matter,** but divorced her anyway, **what is** the *halakha*? Is the divorce valid?
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ, מִדְּגַלִּי רַחֲמָנָא גַּבֵּי אוֹנֶס: ״לֹא יוּכַל לְשַׁלְּחָהּ כׇּל יָמָיו״ – כׇּל יָמָיו בַּ״עֲמוֹד וְהַחְזֵיר״ קָאֵי; הָתָם הוּא דְּגַלִּי רַחֲמָנָא, אֲבָל הָכָא – מַאי דַּעֲבַד עֲבַד.
+> **Translation:** Rava **said to him** that the answer can be derived **from what the Merciful One reveals** in the Torah **with regard to a rapist: “He may not send her away all his days”** (Deuteronomy 22:29), indicating that even if he divorces the woman whom he raped and was subsequently commanded to marry, **all his days he stands** commanded **to arise and remarry** her as his wife. Evidently, **specifically there** the husband is obligated to remarry his divorcée, **as the Merciful One reveals** as much. **But here, what he did, he did.**
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב מְשַׁרְשְׁיָא לְרָבָא: אִם לִבּוֹ לְגָרְשָׁהּ, וְהִיא יוֹשֶׁבֶת תַּחְתָּיו וּמְשַׁמַּשְׁתּוֹ, מַהוּ? קָרֵי עֲלֵיהּ: ״אַל תַּחֲרֹשׁ עַל רֵעֲךָ רָעָה וְהוּא יוֹשֵׁב לָבֶטַח אִתָּךְ״.
+> **Translation:** **Rav Mesharshiyya said to Rava: If he intends to divorce her and she is living with him and serving him, what is** the *halakha*? Rava **read** the following verse **about** such a person: **“Devise not evil against your neighbor, seeing he dwells securely by you”** (Proverbs 3:29).
 
 Even Ulla's formulation requires clarification. *Mitkadeshet hayom* — "she is getting married today" — leaves open the possibility that the marriage ultimately did not occur. *V'dilma lo ikadsha* — perhaps it was called off at the last moment. The *gemara* therefore insists: the statement must be *nitkadsha* — "she got married," in the past tense, completed, not merely anticipated. Levi's parallel teaching adds further texture: women knitting by candlelight (*nashim tavot l'or haner*), everyone rejoicing around the bride — and still the formulation must be *nitkadsha*, past tense. Rav Pappa confirms: the statement must be *Plonit nitkadsha hayom*. Anything less — a statement that she *will* be married, or a rumor that lacks any of the required specificity — does not rise to the level of a halachic *kol*.
 
+At this point the *gemara* introduces a question posed by Rav Mesharshiya to Rava: *im libo legaresha v'hi yoshevet tachtav umeshameshet oto mahu* — what if a husband has already made up his mind to divorce his wife, but has not told her, and in the meantime she continues living with him, keeping his house, and serving him? He is secretly planning to dissolve the marriage while she trusts him completely. The *gemara* responds by applying a verse from Proverbs: *al tacharosh al re'acha ra v'hu yoshev lavetach itach* — do not plot evil against your neighbor while he dwells with you in security. The force of the verse is the profound betrayal involved: that one would operate under the surface of a relationship, exploiting the other's trust and the ordinary functioning of domestic life, while secretly working against them. It is not merely tactless — it is a moral wrong precisely because the intimacy of the relationship makes the concealment so much more harmful.
+
 ### Named Witnesses
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי אַבָּא אָמַר רַב הוּנָא אָמַר רַב: לֹא שֶׁשָּׁמְעוּ קוֹל הֲבָרָה, אֶלָּא כְּדֵי שֶׁיֹּאמְרוּ: פְּלוֹנִי מֵהֵיכָן שָׁמַע? מִפְּלוֹנִי; וּפְלוֹנִי מִפְּלוֹנִי; וּבוֹדְקִין וְהוֹלְכִין עַד שֶׁמַּגִּיעִין לְדָבָר הַבָּרוּר. דָּבָר הַבָּרוּר – עֵדוּת מְעַלַּיְיתָא הוּא! אֶלָּא כִּי אֲתָא רַב שְׁמוּאֵל בַּר יְהוּדָה, אָמַר רַבִּי אַבָּא אָמַר רַב הוּנָא אָמַר רַב: לֹא שֶׁשָּׁמְעוּ קוֹל הֲבָרָה, אֶלָּא כְּדֵי שֶׁיֹּאמְרוּ: פְּלוֹנִי, מֵהֵיכָן שָׁמַע? מִפְּלוֹנִי; וּפְלוֹנִי מִפְּלוֹנִי; וְהָלְכוּ לָהֶם לִמְדִינַת הַיָּם.
->
-> **Translation:** **Rabbi Abba said** that **Rav Huna said** that **Rav said:** The mishna is **not** referring to a case **where** people only **heard an echo. Rather,** it is referring to a case **where** people **say: From where did so-and-so hear** that this woman is betrothed? **From so-and-so, and so-and-so** heard it **from so-and-so. And** as a result, the judges **investigate** the rumor **continuously,** tracing the hearsay **until they reach a clear matter,** i.e., eyewitnesses. The Gemara raises an objection: If the court reaches **a clear matter it is proper testimony,** not a rumor. **Rather, when Rav Shmuel bar Yehuda came** from Eretz Yisrael he taught that **Rabbi Abba said** that **Rav Huna said** that **Rav said:** The mishna is **not** referring to a case **where** people only **heard an echo. Rather,** it is referring to a case **where** people **say: From where did so-and-so hear** this? **From so-and-so, and so-and-so** heard it **from so-and-so, and they went overseas,** so that the court cannot investigate further.
+> **Hebrew/Aramaic:** תַּנְיָא, הָיָה רַבִּי מֵאִיר אוֹמֵר: כְּשֵׁם שֶׁהַדֵּעוֹת בְּמַאֲכָל, כָּךְ דֵּעוֹת בְּנָשִׁים. יֵשׁ לְךָ אָדָם שֶׁזְּבוּב נוֹפֵל לְתוֹךְ כּוֹסוֹ – וְזוֹרְקוֹ, וְאֵינוֹ שׁוֹתֵהוּ; וְזוֹ הִיא מִדַּת פַּפּוּס בֶּן יְהוּדָה, שֶׁהָיָה נוֹעֵל בִּפְנֵי אִשְׁתּוֹ וְיוֹצֵא.
+> **Translation:** § It **is taught** in a *baraita* (*Tosefta*, *Sota* 5:9) that **Rabbi Meir would say: Just as there are** different **attitudes with regard to food, so too, there are** different **attitudes with regard to women.** With regard to food, **you have a person who,** when **a fly falls into his cup, he throws out** the wine with the fly **and does not drink it. And this is** comparable to **the demeanor of Pappos ben Yehuda** with regard to his wife, **as he would lock** the door **before his wife and leave** so that she would not see any other man.
+
+> **Hebrew/Aramaic:** וְיֵשׁ לְךָ אָדָם שֶׁזְּבוּב נוֹפֵל לְתוֹךְ כּוֹסוֹ – וְזוֹרְקוֹ, וְשׁוֹתֵהוּ; וְזוֹ הִיא מִדַּת כׇּל אָדָם, שֶׁמְּדַבֶּרֶת עִם אַחֶיהָ וּקְרוֹבֶיהָ – וּמַנִּיחָהּ.
+> **Translation:** **And you have a person who,** when **a fly falls into his cup, he throws out** the fly **and drinks** the wine. **And this is** comparable to **the demeanor of any** common **man, whose** wife **speaks with her siblings and relatives, and he lets her** do so.
+
+> **Hebrew/Aramaic:** וְיֵשׁ לְךָ אָדָם שֶׁזְּבוּב נוֹפֵל לְתוֹךְ תַּמְחוּי – מוֹצְצוֹ, וְאוֹכְלוֹ; זוֹ הִיא מִדַּת אָדָם רַע, שֶׁרוֹאֶה אֶת אִשְׁתּוֹ יוֹצְאָה וְרֹאשָׁהּ פָּרוּעַ, וְטוֹוָה בַּשּׁוּק,
+> **Translation:** **And you have a man who,** when **a fly falls into** his **serving bowl, he sucks** the fly **and eats** the food. **This is the demeanor of a bad man, who sees his wife going out** into the street **with her head uncovered, and spinning in the marketplace** immodestly,
+
+> **Hebrew/Aramaic:** וּפְרוּמָה מִשְּׁנֵי צְדָדֶיהָ, וְרוֹחֶצֶת עִם בְּנֵי אָדָם.
+> **Translation:** **and with her garment open from both sides, and bathing with men,** and ignores it.
 
 A statement of Rav in a chain transmitted through Rav Huna, Rav Abba, and Rav Shmuel bar Yehuda identifies a second track by which a rumor may be established. It is not enough to have heard a disembodied report: one must be able to trace the rumor back — *Ploni me'heichan shama mi'Ploni u'Ploni mi'Ploni* — through an identified chain of sources. Taken to its logical conclusion, this chain would eventually reach the people who directly witnessed the event, in which case it would no longer be a rumor but actual testimony (*edut ma'alyata*).
 
@@ -185,19 +224,13 @@ The *gemara* therefore refines the ruling: *v'halchu lahem l'medinat hayam* — 
 
 ## Nullifying Rumors
 
-### Abaye's Question
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי לְרַב יוֹסֵף: מְבַטְּלִינַן קָלָא, אוֹ לָא מְבַטְּלִינַן? אֲמַר לֵיהּ: מִדְּאָמַר רַב חִסְדָּא: עַד שֶׁיִּשְׁמְעוּ מִפִּי הַכְּשֵׁרִים, שְׁמַע מִינַּהּ: מְבַטְּלִינַן קָלָא.
->
-> **Translation:** § **Abaye said to Rav Yosef: Do we suppress a rumor** that was not substantiated by the court, **or do we not suppress** it? **He said to him: Since Rav Ḥisda says** that a rumor is not treated stringently **until** the court **hears** it **from valid** witnesses, which indicates that rumors are generally treated leniently, **learn from it** that **we suppress a rumor.**
+
+### Abaye's Question
 
 Abaye poses a question to Rav Yosef: *mevatlinan kala o lo mevatlinan* — when a rumor is circulating, should the *beit din* proactively work to stamp it out, or should it leave the rumor alone? The intuitive answer might be that since rumors can harm people's status, of course we should dispel them. But there is a practical counterargument: attempting to dispel a rumor may simply draw more attention to it, discredit those trying to dispel it, and ultimately make things worse. The question is therefore whether active nullification is wise policy.
 
 ### Chisda vs. Sheshes
-
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אַדְּרַבָּה! מִדְּאָמַר רַב שֵׁשֶׁת: אֲפִילּוּ מִפִּי נָשִׁים הָוֵי קוֹל – שְׁמַע מִינַּהּ: לָא מְבַטְּלִינַן קָלָא!
->
-> **Translation:** Abaye **said to him: On the contrary, since Rav Sheshet said** that **even** if the court hears it **from women it is** considered a serious **rumor,** indicating that rumors are treated stringently, **learn from it** that **we do not suppress a rumor.**
 
 Two *amora'im* offer divergent perspectives that bear on this question. Rav Chisda holds that a *kol* is only established when it is heard testified to by *kesherim* — people of unimpeachable credibility. Since *Rashi* understands this to mean credible people testifying to what they heard (not directly witnessed), it follows that the threshold for a halachically significant rumor is relatively high. From this, one might infer *shma mina mevatlinan kala*: since we generally do not credit rumors, it follows that we would actively work to dispel them.
 
@@ -205,17 +238,18 @@ Rav Sheshes disagrees: *afilu mipi nashim havei kala* — even a rumor spread by
 
 ### Regional Practice
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: אַתְרָווֹתָא נִינְהוּ; בְּסוּרָא מְבַטְּלִי קָלָא, בִּנְהַרְדְּעָא לָא מְבַטְּלִי קָלָא.
->
-> **Translation:** Rav Yosef **said to him: These** opinions correspond to the local custom in two different **places. In Sura they suppress a rumor,** whereas **in Neharde'a they do not suppress a rumor.**
-
-Rav Yosef resolves the exchange by noting that the question is itself regionally contested: *b'Sura mevatli kala* — in Sura, they proactively nullify rumors. *Benhardah lo mevatli kala* — in Nardah, they do not. This corresponds, broadly speaking, to the respective orientations of Rav (Sura) and Shmuel (Nardah).
+Rav Yosef resolves the exchange by noting that the question is itself regionally contested: *b'Sura mevatli kala* — in Sura, they proactively nullify rumors. *Benhardah lo mevatli kala* — in Nardah, they do not. This corresponds, broadly speaking, to the respective orientations of Rav (Sura) and Shmuel (Nardah). What is striking here is that the *gemara* does not adjudicate between these two positions and declare one of them correct — it simply maps the dispute onto existing geographic and scholastic fault lines, leaving the practical question unresolved at the level of principle and deferring instead to local custom as the operative guide.
 
 ### Unripe Dates Case
 
-> **Hebrew/Aramaic:** הָהִיא דִּנְפַק עֲלַהּ קָלָא דְּאִיקַּדַּשָׁה לְבַר בֵּי רַב, אַתְיֵיהּ רַב חָמָא לַאֲבוּהּ, אֲמַר לֵיהּ: אֵימָא לִי – הֵיכִי הֲוָה עוֹבָדָא? אֲמַר לֵיהּ: עַל תְּנַאי קַדֵּישׁ, אַדַּעְתָּא דְּלָא אָזֵיל לְבֵי חוֹזַאי, וַאֲזַל. אֲמַר לֵיהּ: כֵּיוָן דִּבְעִידָּנָא דַּהֲוַאי קָלָא – לָא הֲוַאי אֲמַתְלָא, לָאו כֹּל כְּמִינָךְ דְּמַחְזְקַתְּ אֲמַתְלָא. הָהִיא דִּנְפַק עֲלַהּ קָלָא, דְּאִיקַּדַּשָׁה בַּאֲצִיפָּא דְּתוּחְלָא, בְּעֵינָא דְּ״בֵי שִׁיפֵי״. שַׁלְחַהּ רַב אִידִי בַּר אָבִין לְקַמֵּיהּ דְּאַבָּיֵי: כִּי הַאי גַּוְונָא מַאי? אֲמַר לֵיהּ: אֲפִילּוּ לְמַאן דְּאָמַר לָא מְבַטְּלִינַן קָלָא, בְּהָא מְבַטְּלִינַן קָלָא; מֵימָר אָמְרִי: עַיִּינוּ בְּהוּ רַבָּנַן בְּקִידּוּשֵׁי, וְלָא הֲוָה בְּהוּ שָׁוֶה פְּרוּטָה.
->
-> **Translation:** The Gemara relates several incidents: **A rumor circulated that a certain** woman **was betrothed to a student** of Torah. **Rav Ḥama summoned her father** and **said to him: Tell me** exactly **how the incident** transpired. The father **said to him:** The student **betrothed** her **conditionally, with the intention that he would not go to** the city of **Bei Ḥozai, and he** subsequently **went** there, thereby nullifying the betrothal. Rav Ḥama **said to him: Since at the time that the rumor existed** this **explanation did not exist, it is not in your power to create the presumption of an explanation.** Therefore, the rumor must be treated stringently. **A rumor circulated that a certain** woman **was betrothed with a mat of dates [*atzifa detoḥela*] from the spring of Bei Shifei. Rav Idi bar Avin sent** the case to be presented **before Abaye,** asking him: **What** is the *halakha* in **a case like this?** Should this rumor be suppressed? Abaye **said to him: Even according to the one who said** that **we do not suppress a rumor, in this** case **we suppress the rumor.** This is because if she marries someone else people will not slander her. Rather, **they will say** that **the Sages investigated her betrothal,** i.e., the value of the mat of dates with which she was betrothed, **and** concluded that **it was not worth one *peruta*** and therefore the betrothal was invalid.
+> **Hebrew/Aramaic:** ״עִם בְּנֵי אָדָם״ סָלְקָא דַּעְתָּךְ?! אֶלָּא בִּמְקוֹם שֶׁבְּנֵי אָדָם רוֹחֲצִין.
+> **Translation:** The Gemara asks: **Can it enter your mind** that the *baraita* is referring to a wife who bathes **with men?** Even a man of the lowest moral character would not allow his wife to act in this manner. **Rather,** the *baraita* means that she bathes **in a place where men** often **bathe.**
+
+> **Hebrew/Aramaic:** זוֹ – מִצְוָה מִן הַתּוֹרָה לְגָרְשָׁהּ, שֶׁנֶּאֱמַר: ״כִּי מָצָא בָהּ עֶרְוַת וְגוֹ׳ וְשִׁלְּחָהּ מִבֵּיתוֹ״. ״וְהָלְכָה וְהָיְתָה לְאִישׁ אַחֵר״ – הַכָּתוּב קְרָאוֹ ״אַחֵר״, לוֹמַר: שֶׁאֵין זֶה בֶּן זוּגוֹ לָרִאשׁוֹן – זֶה הוֹצִיא רְשָׁעָה מִבֵּיתוֹ, וְזֶה הִכְנִיס רְשָׁעָה לְתוֹךְ בֵּיתוֹ.
+> **Translation:** The *baraita* continues: With regard to **this** kind of wife, **it is a mitzva by Torah law to divorce her, as it is stated: “Because he has found some unseemly** matter in her, and he writes her a scroll of severance, and gives it in her hand, **and he sends her out of his house…And she goes and becomes another [*aḥer*] man’s wife”** (Deuteronomy 24:1–2). **The verse called** the second husband *aḥer*, other, **to state that this** man **is not a peer of the first** husband. They are morally distinct, as **that** first husband **evicted a wicked woman from his house and this** second man **introduced a wicked woman into his house.**
+
+> **Hebrew/Aramaic:** זָכָה שֵׁנִי – שִׁלְּחָהּ, שֶׁנֶּאֱמַר: ״וּשְׂנֵאָהּ הָאִישׁ הָאַחֲרוֹן״. וְאִם לָאו – קוֹבַרְתּוֹ, שֶׁנֶּאֱמַר: ״אוֹ כִי יָמוּת הָאִישׁ הָאַחֲרוֹן״ – כְּדַאי הוּא בְּמִיתָה; שֶׁזֶּה הוֹצִיא רְשָׁעָה מִבֵּיתוֹ, וְזֶה הִכְנִיס רְשָׁעָה לְתוֹךְ בֵּיתוֹ.
+> **Translation:** If **the second** man **merits, he will send her out, as it is stated** in the following verse: **“And the latter husband hates** her…and he sends her out of his house” (Deuteronomy 24:3). **And if not, she will bury him, as it is stated** in the same verse: **“Or if the latter husband dies.”** It is **appropriate for him to** receive the punishment of **death, as that** first man **evicted a wicked woman from his house and this** second husband **introduced a wicked woman into his house.**
 
 The *gemara* then presents a series of cases illustrating when active nullification is and is not appropriate. In the first, a rumor circulated that a certain woman had become betrothed to a *yeshiva* student using unripe dates (*atzifa d'tuchla*) at the wellspring of a place called Bei Shifei. Rav Idi bar Avin sent the case to Abaye: given these specific circumstances, should the rumor be nullified?
 
@@ -223,17 +257,10 @@ Abaye rules: *afilu man d'amar lo mevatlinan kala beha mevatlinan kala* — even
 
 ### Unknown Son
 
-> **Hebrew/Aramaic:** הָהִיא דִּנְפַק עֲלַהּ קָלָא, דְּאִיקַּדַּשָׁה לְחַד מִבְּנֵי פְּלָנְיָא, אָמַר רָבָא: אֲפִילּוּ לְמַאן דְּאָמַר לָא מְבַטְּלִינַן קָלָא, בְּהָא מְבַטְּלִינַן קָלָא; מֵימָר אָמְרִי: עַיִּינוּ בְּהוּ רַבָּנַן בְּקִידּוּשֵׁי, וְקִידּוּשֵׁי קָטָן הֲווֹ.
->
-> **Translation:** **to one of the sons of so-and-so,** who had both adult and minor sons. The son to whom she was betrothed was not specified. **Rava said: Even according to the one who says** that **we do not suppress a rumor, in this** case **we suppress the rumor.** People will not slander her. Rather, **they will say** that **the Sages investigated the betrothal and** concluded that **it was the betrothal of a minor.**
-
 A second case: a rumor circulated that a woman had become betrothed to one of the sons of a certain individual (*l'chad mibnei planya*), without specifying which son. Under normal circumstances, a rumor that does not name the husband is not a halachic concern. Here, however, the question is whether even this rumor warrants active nullification. Rava rules that even those who generally do not nullify rumors would do so here: *inhu barabbanan b'kiddushei v'kiddushei katan havi* — people will naturally say that when they heard she was betrothed to one of the sons, it was probably the minor among them, and *kiddushin* by a minor is invalid. Again, the nullification works because it can be advanced within the terms of what people already believe, without requiring anyone to abandon their perception.
 
 ### Minor Appears Grown
 
-> **Hebrew/Aramaic:** הָהִיא דִּנְפַק עֲלַהּ קָלָא, דְּאִיקַּדַּשָׁה לְקָטָן הַנִּרְאֶה כְּגָדוֹל. אֲמַר לֵיהּ רַב מָרְדֳּכַי לְרַב אָשֵׁי: הֲוָה עוֹבָדָא, וְאָמְרוּ: עֲדַיִין לֹא הִגִּיעַ לִ״פְלַגּוֹת רְאוּבֵן״, שֶׁנֶּאֱמַר: ״לִפְלַגּוֹת רְאוּבֵן גְּדוֹלִים חִקְרֵי לֵב״.
->
-> **Translation:** **A rumor circulated that a certain woman was betrothed to a minor boy who looked like an adult,** as his body was developed like an adult. **Rav Mordekhai said to Rav Ashi: There was a precedent in which** the Sages **said** that there is no concern that people will think that the woman is betrothed, since the boy **did not yet reach the divisions of Reuben,** i.e., the competence of adulthood, **as it is stated: "Among the divisions of Reuben there were major resolves of heart"** (Judges 5:16). Therefore, the betrothal is rendered entirely invalid, and there is no concern of slander.
 
 The third case draws the limit of this principle. A rumor circulated that a woman was betrothed to a minor who appeared physically like an adult (*katan hanireh k'gadol*). Here, explaining that the groom was a minor would directly contradict people's visual perception. Reality and perception diverge: the boy is truly a *katan*, but everyone sees a *gadol*. Would such an explanation be effective?
 
@@ -243,11 +270,9 @@ Rav Mordechai reports to Rav Ashi that a case of this kind was brought and peopl
 
 ## Amtalot (Explanations)
 
-### Mishnah: Amtala
 
-> **Hebrew/Aramaic:** וּבִלְבַד שֶׁלֹּא יְהֵא שָׁם אֲמַתְלָא: אָמַר רַבָּה בַּר רַב הוּנָא: אֲמַתְלָא שֶׁאָמְרוּ, אֲפִילּוּ מִכָּאן וְעַד עֲשָׂרָה יָמִים. רַב זְבִיד אָמַר: בִּמְקוֹם אֲמַתְלָא, חוֹשְׁשִׁין לַאֲמַתְלָא.
->
-> **Translation:** § It is stated in the mishna that a rumor is treated seriously only **provided there is no explanation. Rabba bar Rav Huna said: The explanation mentioned** in the mishna negates the rumor **even** if it circulates at some point **from now,** i.e., from the time the rumor circulated, **until ten days** afterward. **Rav Zevid says: Where** there is the reasonable possibility of **an explanation, we are concerned about** the possibility of **an explanation** even if it is not mentioned explicitly, and the rumor is therefore disregarded.
+
+### Mishnah: Amtala
 
 The *mishnah* had already established the principle that a rumor is halachically operative only *uvilvad shelo yehei sham amatla* — provided no explanation or qualification is present. The *gemara* now addresses the conditions under which an *amatla* successfully neutralizes an otherwise established rumor.
 
@@ -255,12 +280,7 @@ The *mishnah* had already established the principle that a rumor is halachically
 
 Rabba bar Rav Huna holds: *amatla she'amru afilu mikan v'ad asara yamim* — an explanation can neutralize a rumor even if it is offered as much as ten days later. The *amatla* need not be contemporaneous with the establishment of the *kol*.
 
-[DAF:89b]
 ### Possibility Suffices
-
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ רַב פָּפָּא לְרַב זְבִיד: וּבִלְבַד שֶׁלֹּא תְּהֵא שָׁם אֲמַתְלָא! אֲמַר לֵיהּ: בִּמְקוֹם אֲמַתְלָא קָאָמַר.
->
-> **Translation:** **Rav Pappa raised an objection to** the opinion of **Rav Zevid** from the expression in the mishna: **Provided there is no explanation,** which indicates that the explanation must be mentioned for it to be regarded. Rav Zevid **said to him:** The mishna **is saying** that **where** there is the reasonable possibility of **an explanation** the rumor is disregarded, even if it was not mentioned.
 
 Rav Zeira goes further still: *b'makom amatla chosheshin l'amatla* — in a context where an explanation is *possible*, even the mere possibility of an explanation is sufficient to neutralize the *kol*. One need not actually produce a named explanation or have anyone claim one; the fact that an explanation could theoretically exist is enough. This is a sweeping position: it means that wherever we can imagine a plausible benign interpretation of the events that gave rise to the rumor, the rumor carries no halachic weight.
 
@@ -268,19 +288,20 @@ The *gemara* at this point has effectively adopted the most permissive readings 
 
 ### Tenai Example
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב כָּהֲנָא לְרַב פָּפָּא: וְאַתְּ לָא תִּסְבְּרַאּ?! וְהָתְנַן: נִתְקַדְּשָׁה, וְאַחַר כָּךְ בָּא בַּעְלָהּ – מוּתֶּרֶת לַחְזוֹר. לָאו מִשּׁוּם דְּאָמְרִינַן עַל תְּנַאי קַדֵּישׁ? שָׁאנֵי הָתָם, דְּאָתֵי בַּעַל וְקָא מְעַרְעֵר.
->
-> **Translation:** **Rav Kahana said to Rav Pappa: And you, do you not hold** Rav Zevid's statement to be true? **But didn't we learn** in a mishna that if a woman **was betrothed** after her husband was taken for dead, **and then her husband came** back, **she is permitted to return** to him (*Yevamot* 92a), which would not have been the case if she had been married and not merely betrothed? **Isn't** this **because we say** that the second man **betrothed her conditionally,** stipulating that if her husband is found to be alive the betrothal is null, even though this explanation did not circulate explicitly? The Gemara answers: **It is different there because the husband comes and contests** the betrothal, which shows clearly that he never divorced her and that her betrothal was mistaken. Therefore, there is no need for an additional explanation.
+> **Hebrew/Aramaic:** ״כִּי שָׂנֵא שַׁלַּח״ – רַבִּי יְהוּדָה אוֹמֵר: אִם שְׂנֵאתָהּ – שַׁלַּח. רַבִּי יוֹחָנָן אוֹמֵר: שָׂנאוּי הַמְשַׁלֵּחַ.
+> **Translation:** § The prophet Malachi states in rebuke of those who divorce their wives: **“For I hate sending away,** says the Lord, the God of Israel” (Malachi 2:16). **Rabbi Yehuda says:** The verse means that **if you hate** your wife, **send** her away. Do not continue living with a woman whom you hate. **Rabbi Yoḥanan says:** The verse means that **one who sends** his wife away **is hated** by God.
+
+> **Hebrew/Aramaic:** וְלָא פְּלִיגִי: הָא בְּזוּג רִאשׁוֹן, הָא בְּזוּג שֵׁנִי.
+> **Translation:** **And** the Gemara explains that **they do not disagree. This** statement **is with regard to a first marriage,** i.e., one should tolerate his first wife and not divorce her, and **that** statement **is with regard to a second marriage,** in which case the husband should divorce his wife if he hates her.
+
+> **Hebrew/Aramaic:** דְּאָמַר רַבִּי אֶלְעָזָר: כׇּל הַמְגָרֵשׁ אִשְׁתּוֹ רִאשׁוֹנָה – אֲפִילּוּ מִזְבֵּחַ מוֹרִיד עָלָיו דְּמָעוֹת, שֶׁנֶּאֱמַר: ״וְזֹאת שֵׁנִית תַּעֲשׂוּ, כַּסּוֹת דִּמְעָה אֶת מִזְבַּח ה׳, בְּכִי וַאֲנָקָה מֵאֵין עוֹד פְּנוֹת אֶל הַמִּנְחָה, וְלָקַחַת רָצוֹן מִיֶּדְכֶם. וַאֲמַרְתֶּם: עַל מָה? עַל כִּי ה׳ הֵעִיד בֵּינְךָ וּבֵין אֵשֶׁת נְעוּרֶיךָ, אֲשֶׁר אַתָּה בָּגַדְתָּה בָּהּ, וְהִיא חֲבֶרְתְּךָ וְאֵשֶׁת בְּרִיתֶךָ״.
+> **Translation:** **As Rabbi Elazar says:** With regard to **anyone who divorces his first wife, even the altar sheds tears over him, as it is stated: “And this further you do: You cover the altar of the Lord with tears, with weeping, and with sighing, insomuch that He does not regard the offering anymore, nor does He receive it with goodwill from your hand. Yet you say: What for? Because the Lord has been witness between you and the wife of your youth, against whom you have dealt treacherously, though she is your companion, and the wife of your covenant”** (Malachi 2:13–14). Clearly one should not divorce the wife of his youth, i.e., his first wife, as one who does so is hated by God for divorcing the woman to whom he was bound in companionship and covenant.
 
 Rav Kahana challenges Rav Pappa to accept Rav Zeira's position, citing a proof from the *mishnah* in *Yevamos*. If a woman remarried on the basis of a single witness's testimony that her first husband died, and then the first husband reappeared alive, but she had only reached *kiddushin* with the second man — not yet *nisuin* — she is *muteres lachazor* to her first husband. The reason she cannot return to him after *nisuin* is that the situation resembles *machzir grushato* — a man remarrying his divorced wife after she has been with another — which is *asur*. But if she has only had *kiddushin* and not *nisuin* with the second man, she may return to the first.
 
 Why is no objection raised about the appearance of *machzir grushato* even in the *kiddushin* case? It must be, argues Rav Kahana, because we assume the *kiddushin* with the second man was performed *al tnai* — conditionally — and since the first husband has returned alive, the condition retroactively failed. But this is merely a *possible* explanation, not one that was actually stated at the time of the *kiddushin*. This proves that the mere possibility of an explanation — *bemakom amatla* — is enough to neutralize a concern.
 
 ### Limits of Possibility
-
-> **Hebrew/Aramaic:** אִי הָכִי, נִישֵּׂאת נָמֵי! נִישֵּׂאת, דַּעֲבַדָה אִיסּוּרָא – קַנְסוּהָ רַבָּנַן; נִתְקַדְּשָׁה, דְּלָא עֲבַדָה אִיסּוּרָא – לָא קַנְסוּהָ רַבָּנַן.
->
-> **Translation:** The Gemara asks: **If so,** in a case where **she married** the second man, it should **also** be permitted for her to return to her first husband. Why do the Sages render it prohibited for her to do so? The Gemara answers: In a case where **she married** him, **since she performed a prohibited** action, albeit unintentionally, by engaging in sexual intercourse with a man who is not her husband while she was married, **the Sages penalized her.** By contrast, in a case where **she was** merely **betrothed, since she did not perform a prohibited** action, **the Sages did not penalize her.**
 
 The *gemara* rejects this proof: *shani hasam de'asi ba'al veka m'arer* — that case is different because the first husband has actually arrived and is actively protesting, asserting that he was always alive and that she was always his wife. It is the husband's real-world protest and presence that creates the effective explanation, not simply the abstract theoretical possibility of a *tnai*. The proof therefore does not establish the general principle that a theoretical possibility of an explanation is sufficient.
 

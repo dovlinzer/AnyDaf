@@ -1,48 +1,21 @@
-# Nedarim 83 — Daf Yomi Shiur
-
+[DAF:82b]
 ## Annulling Partial Vows
 
-### Rav Yehuda/Shmuel
 
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: נָדְרָה מִשְׁתֵּי כִכָּרוֹת, בְּאַחַת מִתְעַנָּה, וּבְאַחַת אֵין מִתְעַנָּה, מִתּוֹךְ שֶׁהוּא מֵפֵר לַמִּתְעַנָּה — מֵפֵר לְשֶׁאֵינוֹ מִתְעַנָּה.
->
-> **Translation:** **Rav Yehuda said** that **Shmuel said:** In a case where a woman **vowed** that **two loaves** are forbidden to her, and if she abstains **from one** of them she would **deprive herself,** as it is a fine-quality loaf, **and** if she abstains **from** the other **one** she would **not deprive herself,** as it is a poor-quality loaf, then, **since** the husband **can nullify** the vow **with regard to the** loaf that would cause her to **deprive herself,** like any other vow of affliction, **he can** also **nullify** the vow **with regard to the** loaf that would **not** cause her to **deprive herself.**
+
+### Rav Yehuda/Shmuel
 
 To situate today's discussion, we begin by recalling the debate introduced earlier on this daf. The gemara had presented the position of Rav Yehuda in the name of Shmuel: when a woman takes a vow encompassing two objects — one of which constitutes *inuy nefesh* (self-affliction) and one of which does not — and the husband annuls the vow with respect to the part that is *inuy nefesh*, the entire vow is dissolved. The question was how to understand the mechanism. One approach would invoke the principle of *neder shehufar miktsato hufar kulo* — a vow annulled in part is annulled in its entirety. The Ran, however, frames it somewhat differently: the Torah empowers the husband to annul the whole precisely because, in order to annul the part to which he is entitled, the annulment must necessarily encompass the whole.
 
 ### Rabbi Yochanan Debate
 
-> **Hebrew/Aramaic:** וְרַב אַסִּי אָמַר רַבִּי יוֹחָנָן: מֵפֵר לַמִּתְעַנָּה, וְאֵין מֵפֵר לְשֶׁאֵין מִתְעַנָּה.
->
-> **Translation:** **And Rav Asi said** that **Rabbi Yoḥanan said:** The husband **can nullify** the vow **with regard to the** loaf that would cause her to **deprive herself, but he cannot nullify** the vow **with regard to the** loaf that would **not** cause her to **deprive herself.**
-
 Rabbi Yochanan disputes this. In his view, the husband annuls the part that is *inuy nefesh* and that part alone; the remainder of the vow stays intact. The gemara had noted that *devarim shebeino leveinah* — matters pertaining specifically to the dynamics between husband and wife — may operate under a different principle, where the husband annuls his portion while the rest remains. The present debate, however, concerns vows that fall into the category of *inuy nefesh*, and it is there that Rabbi Yochanan and Rav Yehuda amar Shmuel diverge.
 
 ### Nezirus Package
 
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר, וְהָיְתָה שׁוֹתֶה יַיִן, וּמִטַּמְּאָה לְמֵתִים
->
-> **Translation:** Rav Asi **raised an objection** against Rabbi Yoḥanan from the following mishna (*Nazir* 23a): With regard to **a woman who vowed** to be **a nazirite, and she** transgressed her vow and **drank wine or became impure** by coming into contact **with the dead,**
-
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר וְנִטְמֵאת, וְאַחַר כָּךְ הֵפֵר לָהּ בַּעְלָהּ — מְבִיאָה חַטַּאת הָעוֹף, וְאֵין מְבִיאָה עוֹלַת הָעוֹף. וְאִי אָמְרַתְּ מֵפֵר לַמִּתְעַנָּה וְאֵין מֵפֵר לְשֶׁאֵין מִתְעַנָּה,
->
-> **Translation:** Rav Asi **raised an objection** against the opinion of Rabbi Yoḥanan from the following *baraita*: With regard to **a woman who vowed to be a nazirite and she became ritually impure** through contact with the dead, **and afterward her husband nullified** her vow **for her, she must bring a bird sin-offering but does not bring a bird burnt-offering. And if you say** that the husband **can nullify** the vow **with regard to the** loaf that would cause her to **deprive herself, but he cannot nullify** the vow **with regard to** the loaf that would **not** cause her to **deprive herself,** the same reasoning should apply here:
-
-> **Hebrew/Aramaic:** דִּלְמָא מִיַּיִן דְּאִית לַהּ צַעֲרָא — הֵפֵר לָהּ, מִטּוּמְאַת מֵת, דְּלֵית לַהּ צַעֲרָא — לֹא הֵפֵר לָהּ?
->
-> **Translation:** **Perhaps** the husband **nullified for her** the vow that rendered **wine** forbidden **to** her, **as she suffers pain** when she refrains from drinking it. But as for her vow that **impurity** imparted **by the dead** is forbidden to her, **he did not nullify** it **for her, as she suffers no pain** by not becoming impure through contact with the dead. Why, then, does she not bring the offerings that must be brought by a nazirite who became ritually impure through contact with the dead? This implies that since the husband can nullify a vow with regard to a matter that would cause her to deprive herself, he can also nullify a vow with regard to a matter that would not cause her to deprive herself.
-
-> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף: אֵין נְזִירוּת לַחֲצָאִין.
->
-> **Translation:** **Rav Yosef said:** Here it is different, as **naziriteship cannot take effect partially.** Since one cannot be a nazirite and accept only some of the prohibitions of naziriteship, the husband's nullification cancels the entire vow. In the case of an ordinary vow, on the other hand, the husband can nullify only the part that causes his wife suffering.
-
 The gemara then challenged Rabbi Yochanan from the case of *nezirus*. When a husband annuls his wife's Nazirite vow, the entire *nezirus* falls away, even though strictly speaking the only element of *nezirus* that qualifies as *inuy nefesh* is the prohibition on wine. The gemara resolved this by invoking the principle of *ein nezirus b'chatzayin* — there is no such thing as a half-Nazirite. *Nezirus* is an indivisible package: one cannot be a *nazir* with respect to some of its components while exempt from others. Therefore, even Rabbi Yochanan would agree that when the wine prohibition is annulled, the entire *nezirus* collapses — not because of the general rule about partial annulment, but because *nezirus* by its nature admits of no partial status.
 
 ### Abaye's Korban Clarif.
-
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: הָא קׇרְבָּן לַחֲצִי נְזִירוּת אִיכָּא?! אֶלָּא אָמַר אַבָּיֵי: אֵין נְזִירוּת לַחֲצָאִין, וְאֵין קׇרְבָּן לַחֲצָאִין.
->
-> **Translation:** **Abaye said to him:** The wording of your statement suggests that naziriteship cannot take effect partially, **but** that **an offering is** brought **for partial** observance of **naziriteship. Rather, Abaye said** that one should say as follows: **Naziriteship cannot take effect partially, and no offering is** brought **for partial** observance of naziriteship.
 
 Abaye sharpens this point further. It is not merely that there is no partial Nazirite status — there is also *ein korban nezirus lachatziyin*: no Nazirite offering can be brought for an incomplete *nezirus*. The practical implication is this: even if a woman observed her *nezirus* faithfully for, say, fifteen days before her husband annulled it, she was fully a *nezirah* throughout that period and would even incur lashes had she willfully violated the *nezirus* with proper warning. Nevertheless, since the thirty-day period was never completed — or whatever term she accepted upon herself — no *korban nezirus* is ever brought. The *korban* attaches only to the completion of the Nazirite term, and without completion there is nothing to which the offering can attach.
 
@@ -52,11 +25,9 @@ A question naturally arises: if a woman accepted *nezirus* for sixty days and he
 
 ## Tamei in Nezirus
 
-### Woman Tamei Baraita
 
-> **Hebrew/Aramaic:** מֵיתִיבִי: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר וְהִפְרִישָׁה בְּהֶמְתָּהּ וְאַחַר כָּךְ הֵפֵר לָהּ בַּעְלָהּ — מְבִיאָה חַטַּאת הָעוֹף, וְאֵינָהּ מְבִיאָה עוֹלַת הָעוֹף.
->
-> **Translation:** The Gemara **raises an objection** from the following statement: With regard to **a woman who vowed to be a nazirite and she designated her animal** for her nazirite offering, **and afterward her husband nullified** her vow **for her, she must bring a bird sin-offering but she does not bring a bird burnt-offering.**
+
+### Woman Tamei Baraita
 
 The gemara now introduces a *baraita* to challenge the principle that no *korban* is brought for an incomplete *nezirus*. The case: a woman vowed *nezirus*, became *tamei* in the course of her *nezirus*, separated out a *behemah* for the *asham* that a *nazir* who becomes *tamei* is required to bring, and thereafter her husband annulled her vow. What happens?
 
@@ -66,33 +37,29 @@ Tosafot flag a striking textual difficulty here: the baraita mentions that she s
 
 ### Chatas Ha-Of Question
 
-> **Hebrew/Aramaic:** וְאִי אָמְרַתְּ אֵין קׇרְבָּן לַחֲצִי נְזִירוּת, אַמַּאי מְבִיאָה חַטָּאת הָעוֹף?
->
-> **Translation:** **And if you say** that **no offering is** brought **for partial** observance of **naziriteship, why must she bring a bird sin-offering?**
-
 The gemara presses: if the principle of *ein korban nezirus lachatziyin* is correct and no *korban* is brought for an incomplete *nezirus*, why is this woman bringing a *chatas ha-of* at all? Surely the fact that she is bringing even one of the Nazirite *korbanos* demonstrates that some obligation persists even when the *nezirus* is cut short.
 
 One might think, before getting to the answer, that the *korbanos* associated with *tum'ah* are a categorically distinct matter. A *nazir* who becomes *tamei* brings those offerings in the middle of the Nazirite term, not at its conclusion — their purpose is to restart the *nezirus*, not to mark its completion. Still, one could reason that even if she is no longer a *nezirah* by virtue of the husband's annulment, she had become *tamei* and was obligated in those *korbanos* at the time of her *tum'ah*, and perhaps that obligation persists. So the gemara's challenge has force.
 
 ### Not General Rule
 
-> **Hebrew/Aramaic:** וְאֶלָּא מַאי — יֵשׁ קׇרְבָּן לַחֲצִי נְזִירוּת? שָׁלֹשׁ בְּהֵמוֹת בָּעֵי לְאֵתוֹיֵי: חַטָּאת, עוֹלָה, וּשְׁלָמִים! אֶלָּא, לְעוֹלָם אֵין קׇרְבָּן לַחֲצִי נְזִירוּת.
->
-> **Translation:** The Gemara rejects this argument: **But rather, what** will you say? That **an offering is** brought **for partial** observance of **naziriteship?** If so, she **should be required to bring three animals** as offerings, **a sin-offering, a burnt-offering, and a peace-offering,** in accordance with the *halakha* governing a nazirite who has completed the period of his vow. **Rather,** say as follows: **Actually, no offering is** brought **for partial** observance of **naziriteship.**
-
 The gemara deflects by turning the challenge back on itself: if bringing a *korban* for an incomplete *nezirus* were in fact the rule, the baraita should have simply said that. It should have told us straightforwardly that a woman whose *nezirus* is annulled mid-term brings her standard three *korbanos* — *chatas*, *olah*, and *shelamim*. The fact that the baraita instead presents a narrow, specific case — *tum'ah* in the middle of *nezirus*, with only one of the three *korbanos* brought — is itself the proof. Clearly, the general rule is that a woman whose *nezirus* is terminated before completion brings no standard *korbanos*. This case is exceptional on multiple fronts: it arises specifically because of *tum'ah*, and it involves only the *chatas ha-of* rather than the full complement of offerings.
 
 ### Chatas Ha-Of Safek
-
-> **Hebrew/Aramaic:** וְחַטַּאת הָעוֹף דְּמַתְיָא — מִשּׁוּם דְּחַטָּאת עַל הַסָּפֵק.
->
-> **Translation:** **and** as for **the bird sin-offering that she must bring,** this is **because** a bird **sin-offering** can be brought **in** a case of **uncertainty.**
 
 The gemara then provides the positive account of why the *chatas ha-of* is uniquely suited to this situation. It draws on a principle from an entirely different context. The gemara elsewhere discusses the case of a *yoledes* — a woman who gave birth or suffered a miscarriage — where there is doubt as to whether her circumstances genuinely created *tumas leida*. Was the miscarriage after forty days of conception or before? Such a woman finds herself in a bind: if she is indeed *tamei*, she cannot eat *korbanos* or enter the *Beis Hamikdash* until she brings her *korban leida*, which is a *chatas ha-of*. But if she is not *tamei*, she cannot bring a *chatas* to which she has no genuine obligation. The Torah resolves this through a *mesorah* — a tradition derived from *pesukim* — that she may bring a *chatas ha-of al hasafek*, a *chatas ha-of* in a state of doubt. The blood is sprinkled, the bird is not eaten, and she becomes *tehorah*. This establishes that the *chatas ha-of* is a category of *korban* capable of functioning in inherently ambiguous and indeterminate situations, unlike most *korbanos* which demand a definite, concrete obligation.
 
 The *chatas ha-of* is thus not merely a *korban* for a known *chet*; it is a *korban* designed to address a gray zone — a situation that is *nisht ahin, nisht aher*, neither fully resolved one way nor the other.
 
+> **Hebrew/Aramaic:** מֵיתִיבִי: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר וְהִפְרִישָׁה בְּהֶמְתָּהּ וְאַחַר כָּךְ הֵפֵר לָהּ בַּעְלָהּ — מְבִיאָה חַטַּאת הָעוֹף, וְאֵינָהּ מְבִיאָה עוֹלַת הָעוֹף. וְאִי אָמְרַתְּ אֵין קׇרְבָּן לַחֲצִי נְזִירוּת, אַמַּאי מְבִיאָה חַטָּאת הָעוֹף?
+> **Translation:** The Gemara **raises an objection** from the following statement: With regard to **a woman who vowed to be a nazirite and she designated her animal** for her nazirite offering, **and afterward her husband nullified** her vow **for her, she must bring a bird sin-offering but she does not bring a bird burnt-offering. And if you say** that **no offering is** brought **for partial** observance of **naziriteship, why must she bring a bird sin-offering?**
+
+> **Hebrew/Aramaic:** וְאֶלָּא מַאי — יֵשׁ קׇרְבָּן לַחֲצִי נְזִירוּת? שָׁלֹשׁ בְּהֵמוֹת בָּעֵי לְאֵתוֹיֵי: חַטָּאת, עוֹלָה, וּשְׁלָמִים! אֶלָּא, לְעוֹלָם אֵין קׇרְבָּן לַחֲצִי נְזִירוּת. וְחַטַּאת הָעוֹף דְּמַתְיָא — מִשּׁוּם דְּחַטָּאת עַל הַסָּפֵק.
+> **Translation:** The Gemara rejects this argument: **But rather, what** will you say? That **an offering is** brought **for partial** observance of **naziriteship?** If so, she **should be required to bring three animals** as offerings, **a sin-offering, a burnt-offering, and a peace-offering,** in accordance with the *halakha* governing a nazirite who has completed the period of his vow. **Rather,** say as follows: **Actually, no offering is** brought **for partial** observance of **naziriteship, and** as for **the bird sin-offering that she must bring,** this is **because** a bird **sin-offering** can be brought **in** a case of **uncertainty.** She must therefore bring a sin-offering for the partial naziriteship that she observed.
+
 ### Resolution
+
+
 
 With that foundation in place, the resolution becomes clear. This woman — who became *tamei* during her *nezirus* and then had the *nezirus* annulled by her husband — finds herself in precisely such a gray zone. She genuinely did become *tamei* and incurred an obligation in *korbanos* at that time. Yet she is no longer a *nezirah*, so the purpose of those *korbanos* — to restart the *nezirus* — no longer applies. She is thus in an inherently indeterminate state. Conveniently, the *korban* she needs is a *chatas ha-of*, which is the very type of offering the Torah designates for such ambiguous situations. She therefore brings the *chatas ha-of*, not because it represents a general rule that *korbanos* are brought for incomplete *nezirus*, but because the *chatas ha-of* is precisely the instrument for addressing this kind of gray-area obligation.
 
@@ -102,19 +69,20 @@ The Rishonim add a further dimension from another sugya dealing with this same b
 
 ## Wine vs. Tumah
 
+
+
+[DAF:83b]
 ### Restate Baraita
 
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר וְנִטְמֵאת, וְאַחַר כָּךְ הֵפֵר לָהּ בַּעְלָהּ — מְבִיאָה חַטַּאת הָעוֹף, וְאֵין מְבִיאָה עוֹלַת הָעוֹף. וְאִי אָמְרַתְּ מֵפֵר לַמִּתְעַנָּה וְאֵין מֵפֵר לְשֶׁאֵין מִתְעַנָּה,
->
+> **Hebrew/Aramaic:** אֵיתִיבֵיהּ: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר וְנִטְמֵאת, וְאַחַר כָּךְ הֵפֵר לָהּ בַּעְלָהּ — מְבִיאָה חַטַּאת הָעוֹף, וְאֵין מְבִיאָה עוֹלַת הָעוֹף. וְאִי אָמְרַתְּ מֵפֵר לַמִּתְעַנָּה וְאֵין מֵפֵר לְשֶׁאֵין מִתְעַנָּה,
 > **Translation:** Rav Asi **raised an objection** against the opinion of Rabbi Yoḥanan from the following *baraita*: With regard to **a woman who vowed to be a nazirite and she became ritually impure** through contact with the dead, **and afterward her husband nullified** her vow **for her, she must bring a bird sin-offering but does not bring a bird burnt-offering. And if you say** that the husband **can nullify** the vow **with regard to the** loaf that would cause her to **deprive herself, but he cannot nullify** the vow **with regard to** the loaf that would **not** cause her to **deprive herself,** the same reasoning should apply here:
+
+> **Hebrew/Aramaic:** דִּלְמָא מִיַּיִן דְּאִית לַהּ צַעֲרָא — הֵפֵר לָהּ, מִטּוּמְאַת מֵת, דְּלֵית לַהּ צַעֲרָא — לֹא הֵפֵר לָהּ?
+> **Translation:** **Perhaps** the husband **nullified for her** the vow that rendered **wine** forbidden **to** her, **as she suffers pain** when she refrains from drinking it. But as for her vow that **impurity** imparted **by the dead** is forbidden to her, **he did not nullify** it **for her, as she suffers no pain** by not becoming impure through contact with the dead. Why, then, does she not bring the offerings that must be brought by a nazirite who became ritually impure through contact with the dead? This implies that since the husband can nullify a vow with regard to a matter that would cause her to deprive herself, he can also nullify a vow with regard to a matter that would not cause her to deprive herself.
 
 The gemara now returns to the central debate — whether a husband can selectively annul only the *inuy nefesh* portion of a vow — and brings the same baraita again: a woman vowed *nezirus*, became *tamei*, and the husband then annulled. She brings the *chatas ha-of* and not the *olas ha-of*.
 
 ### Hypothetical Split
-
-> **Hebrew/Aramaic:** דִּלְמָא מִיַּיִן דְּאִית לַהּ צַעֲרָא — הֵפֵר לָהּ, מִטּוּמְאַת מֵת, דְּלֵית לַהּ צַעֲרָא — לֹא הֵפֵר לָהּ?
->
-> **Translation:** **Perhaps** the husband **nullified for her** the vow that rendered **wine** forbidden **to** her, **as she suffers pain** when she refrains from drinking it. But as for her vow that **impurity** imparted **by the dead** is forbidden to her, **he did not nullify** it **for her, as she suffers no pain** by not becoming impure through contact with the dead. Why, then, does she not bring the offerings that must be brought by a nazirite who became ritually impure through contact with the dead? This implies that since the husband can nullify a vow with regard to a matter that would cause her to deprive herself, he can also nullify a vow with regard to a matter that would not cause her to deprive herself.
 
 The gemara now poses a pointed question. Recall that Rabbi Yochanan's position is that the husband annuls only the *inuy nefesh* portion of a vow and not the rest. Applied to *nezirus*: the *inuy nefesh* of *nezirus* is the wine prohibition. The prohibition against becoming *tamei l'meis* — the prohibition on contracting corpse-impurity — is not obviously *inuy nefesh*. So suppose the husband's *hafarah* annulled only the wine element of the *nezirus*. What happens to the *tum'ah* element?
 
@@ -126,9 +94,8 @@ The Ran notes that this is a difficult position; we have never before heard of a
 
 ### Tumah = Inuy Nefesh
 
-> **Hebrew/Aramaic:** אָמְרִי: מִטּוּמְאַת מֵת נָמֵי אִית לַהּ צַעֲרָא — דִּכְתִיב: ״וְהַחַי יִתֵּן אֶל לִבּוֹ״, וְתַנְיָא, הָיָה רַבִּי מֵאִיר אוֹמֵר: מַאי דִּכְתִיב ״וְהַחַי יִתֵּן אֶל לִבּוֹ״, דְּיִסְפּוֹד — יִסְפְּדוּן לֵיהּ, דְּיִבְכּוּן — יִבְכּוּן לֵיהּ, דְּיִקְבַּר — יִקְבְּרוּנֵיהּ.
->
-> **Translation:** The Gemara rejects this argument: The Sages **say** in response that a woman who vows that **impurity** imparted **by the dead** is forbidden **to** her **also suffers pain** as a result. How so? **As it is written: "And the living shall lay it to his heart"** (Ecclesiastes 7:2), **and it is taught** in a *baraita* that **Rabbi Meir would say: What** is the meaning of that **which is written: "And the living shall lay it to his heart"?** This means that one **who eulogizes** others when they die **will** in turn **be eulogized** when he himself dies; one **who weeps** for others **will be wept for** when he himself passes away; and one **who buries** others **will** himself **be buried** upon his passing. A woman who cannot participate in the funerals of others because she is barred from contracting impurity through contact with a corpse is distressed by the thought that she will receive similar treatment when she dies. Therefore, her vow involves affliction and can be nullified by her husband. The conclusion is that this case does not present a difficulty for Rabbi Yoḥanan.
+> **Hebrew/Aramaic:** אָמְרִי: מִטּוּמְאַת מֵת נָמֵי אִית לַהּ צַעֲרָא — דִּכְתִיב: ״וְהַחַי יִתֵּן אֶל לִבּוֹ״, וְתַנְיָא, הָיָה רַבִּי מֵאִיר אוֹמֵר: מַאי דִּכְתִיב ״וְהַחַי יִתֵּן אֶל לִבּוֹ״, דְּיִסְפּוֹד — יִסְפְּדוּן לֵיהּ, דְּיִבְכּוּן — יִבְכּוּן לֵיהּ, דְּיִקְבַּר — יִקְבְּרוּנֵיהּ.
+> **Translation:** The Gemara rejects this argument: The Sages **say** in response that a woman who vows that **impurity** imparted **by the dead** is forbidden **to** her **also suffers pain** as a result. How so? **As it is written: “And the living shall lay it to his heart”** (Ecclesiastes 7:2), **and it is taught** in a *baraita* that **Rabbi Meir would say: What** is the meaning of that **which is written: “And the living shall lay it to his heart”?** This means that one **who eulogizes** others when they die **will** in turn **be eulogized** when he himself dies; one **who weeps** for others **will be wept for** when he himself passes away; and one **who buries** others **will** himself **be buried** upon his passing. A woman who cannot participate in the funerals of others because she is barred from contracting impurity through contact with a corpse is distressed by the thought that she will receive similar treatment when she dies. Therefore, her vow involves affliction and can be nullified by her husband. The conclusion is that this case does not present a difficulty for Rabbi Yoḥanan.
 
 The gemara responds: *tumas meis* is also *inuy nefesh*. Not being permitted to become *tamei l'meis* — not being able to attend funerals, visit a *beis kvoros*, go to a *beis avel* — is itself a form of self-denial. The proof is from the verse *v'hachai yiten el libo* — the living shall take it to heart. The baraita expounds in the name of Rabbi Meir: one who eulogizes others will be eulogized when he dies; one who weeps for others will be wept over; one who buries others will be buried. The message is that participating in communal mourning and burial is a fundamental social responsibility and act of belonging. Being barred from that — being unable to go to a funeral, to enter a *beis kvoros*, to fulfill one's obligations as a member of the community — is a genuine *inuy nefesh*.
 
@@ -146,17 +113,21 @@ The debate between Rav Yehuda amar Shmuel and Rabbi Yochanan — whether the hus
 
 ## Benefit from All
 
-### Mishnah Stated
 
-> **Hebrew/Aramaic:** מַתְנִי׳ ״קֻוֽנָּם שֶׁאֲנִי נֶהֱנֶה לַבְּרִיּוֹת״ — אֵינוֹ יָכוֹל לְהָפֵר, וִיכוֹלָה הִיא לֵיהָנוֹת בְּלֶקֶט, שִׁכְחָה, וּבְפֵאָה.
->
-> **Translation:** MISHNA: If a woman vowed: The property **of** other **people is *konam*** for me, and for **that** reason **I will** not **benefit** from it, her husband **cannot nullify** her vow, **but** nevertheless, if she is poor, **she may benefit from** the agricultural gifts that must be left for the poor: **Gleanings,** i.e., isolated stalks that fell during the harvest; **forgotten** sheaves; **and produce of the corners [*pe'a*]** of the field that the owner is obligated to leave for the poor. Enjoyment of these gifts is not considered as benefit derived from people, as these gifts are not given voluntarily out of the kindness of the donors, but in the performance of a mitzva.
+
+### Mishnah Stated
 
 The gemara moves to the next mishnah. A woman declares *konam she-ani nehenis l'vriyos* — "let it be *konam* that I receive benefit from people," meaning she forbids herself all benefit from other human beings. The mishnah rules: the husband cannot annul this vow. This is striking. If any vow is *inuy nefesh*, one would think it is this one — forbidding oneself benefit from all of humanity. Why can he not annul it?
 
 The answer, which the gemara will develop, is that when a woman says "all people," she implicitly excludes her husband. The husband can still provide for her, sustain her, and serve as her conduit to the world. Since she is not wholly cut off — her husband remains available as a source of support — it is not considered *inuy nefesh* at the level that would trigger the husband's right of annulment. This is admittedly a counterintuitive result, and the gemara will need to work through several layers of analysis to make it coherent.
 
 It should also be borne in mind that the entire chapter follows the position of Rabbi Yossi, who maintains a particularly narrow definition of *inuy nefesh*. That narrowness will inform the answers that follow.
+
+> **Hebrew/Aramaic:** מַתְנִי׳ ״קֻוֽנָּם שֶׁאֲנִי נֶהֱנֶה לַבְּרִיּוֹת״ — אֵינוֹ יָכוֹל לְהָפֵר, וִיכוֹלָה הִיא לֵיהָנוֹת בְּלֶקֶט, שִׁכְחָה, וּבְפֵאָה.
+> **Translation:** MISHNA: If a woman vowed: The property **of** other **people is *konam*** for me, and for **that** reason **I will** not **benefit** from it, her husband **cannot nullify** her vow, **but** nevertheless, if she is poor, **she may benefit from** the agricultural gifts that must be left for the poor: **Gleanings,** i.e., isolated stalks that fell during the harvest; **forgotten** sheaves; **and produce of the corners [*pe’a*]** of the field that the owner is obligated to leave for the poor. Enjoyment of these gifts is not considered as benefit derived from people, as these gifts are not given voluntarily out of the kindness of the donors, but in the performance of a mitzva.
+
+> **Hebrew/Aramaic:** ״קֻוֽנָּם כֹּהֲנִים לְוִיִּם נֶהֱנִים לִי״ — יִטְּלוּ עַל כׇּרְחוֹ. ״כֹּהֲנִים אֵלּוּ וּלְוִיִּם אֵלּוּ נֶהֱנִים לִי״ — יִטְּלוּ אֲחֵרִים.
+> **Translation:** If one said: I will not let **priests** and **Levites benefit from me,** as that is ***konam*** for me, **they can take** the priestly and Levitical gifts from him **against his will.** If, however, he said: I will not let **these** specific **priests and these** specific **Levites benefit from me,** as that is *konam* for me, they are **taken by others.**
 
 ### Ran's Logic
 
@@ -170,9 +141,9 @@ In the present case, however, the woman did not say "the objects of all people a
 
 ### Gemara Question
 
-> **Hebrew/Aramaic:** גְּמָ׳ אַלְמָא אֶפְשָׁר דְּמִתַּזְנָה מִדִּילֵיהּ, מִכְּלָל דְּבַעַל לָאו בִּכְלַל ״בְּרִיּוֹת״ הוּא. אֵימָא סֵיפָא: יְכוֹלָה לֵיהָנוֹת בְּלֶקֶט שִׁכְחָה וּפֵאָה, אֲבָל מִדְּבַעַל לָא אָכְלָה, אַלְמָא בַּעַל בִּכְלַל ״בְּרִיּוֹת״ הוּא!
->
-> **Translation:** GEMARA: The mishna teaches that if a woman vowed not to derive benefit from people, her husband cannot nullify her vow. The Gemara infers from this *halakha*: **Apparently,** this is because the woman **can be sustained from his,** i.e., her husband's, property, without having to take from others. This proves **by inference that** in this context **a husband is not included in** her reference to **people,** as, although she mentioned people in her vow, she did not mean to prohibit herself from deriving benefit from her husband. The Gemara asks: But **say the latter clause** of that same part of the mishna, which states: But **she may benefit from gleanings, forgotten** sheaves, **and *pe'a*.** This implies that she may derive benefit from the gifts given to the poor, **but she may not eat** from property belonging **to** her **husband. Apparently, a husband is** in fact **included in** her reference to **people,** and she may not benefit from him either.
+
+> **Hebrew/Aramaic:** גְּמָ׳ אַלְמָא אֶפְשָׁר דְּמִתַּזְנָה מִדִּילֵיהּ, מִכְּלָל דְּבַעַל לָאו בִּכְלַל ״בְּרִיּוֹת״ הוּא. אֵימָא סֵיפָא: יְכוֹלָה לֵיהָנוֹת בְּלֶקֶט שִׁכְחָה וּפֵאָה, אֲבָל מִדְּבַעַל לָא אָכְלָה, אַלְמָא בַּעַל בִּכְלַל ״בְּרִיּוֹת״ הוּא!
+> **Translation:** GEMARA: The mishna teaches that if a woman vowed not to derive benefit from people, her husband cannot nullify her vow. The Gemara infers from this *halakha*: **Apparently,** this is because the woman **can be sustained from his,** i.e., her husband’s, property, without having to take from others. This proves **by inference that** in this context **a husband is not included in** her reference to **people,** as, although she mentioned people in her vow, she did not mean to prohibit herself from deriving benefit from her husband. The Gemara asks: But **say the latter clause** of that same part of the mishna, which states: But **she may benefit from gleanings, forgotten** sheaves, **and *pe’a*.** This implies that she may derive benefit from the gifts given to the poor, **but she may not eat** from property belonging **to** her **husband. Apparently, a husband is** in fact **included in** her reference to **people,** and she may not benefit from him either.
 
 The mishnah adds that she may still benefit from *leket*, *shichachah*, and *pe'ah* — the agricultural gifts left for the poor — since these have been rendered *hefker* (ownerless) by their original owners. Collecting them is not receiving benefit from a person; it is taking from what has become ownerless. This further moderates her situation.
 
@@ -184,25 +155,26 @@ The gemara then presses the logic of the mishnah. If the husband cannot annul be
 
 ## Benefit from All (II)
 
+
+
 ### Three Positions
 
-> **Hebrew/Aramaic:** אָמַר עוּלָּא: לְעוֹלָם לָאו בִּכְלַל ״בְּרִיּוֹת״ הוּא, וְעוֹד: אֵין יָכוֹל לְהָפֵר — מִפְּנֵי שֶׁיְּכוֹלָה לֵיהָנוֹת בְּלֶקֶט שִׁכְחָה וּפֵאָה.
->
-> **Translation:** **Ulla said: Actually,** a husband **is not included in** her reference to **people,** and there is no contradiction. Rather, the mishna provides two reasons why he cannot nullify his wife's vow. The first reason, which is merely implied by the mishna, is that she can be sustained by her husband. **And furthermore** there is the stated reason, that **he cannot nullify** the vow **because she may benefit from gleanings, forgotten** sheaves, **and *pe'a*.**
-
-> **Hebrew/Aramaic:** רָבָא אָמַר: לְעוֹלָם בַּעַל בִּכְלַל ״בְּרִיּוֹת״ הוּא, וּ״מָה טַעַם״ קָאָמַר: מָה טַעַם אֵין יָכוֹל לְהָפֵר? מִפְּנֵי שֶׁיְּכוֹלָה לֵיהָנוֹת בְּלֶקֶט שִׁכְחָה וּפֵאָה.
->
-> **Translation:** **Rava said** the opposite: **Actually, a husband is included in** her reference to **people,** and therefore his wife may not benefit from him. **And** when the mishna **states** the *halakha*, it employs the style known as: **What is the reason,** and it should be understood as follows: **What is the reason** that the husband **cannot nullify** his wife's vow? **Because she may benefit from gleanings, forgotten** sheaves, **and *pe'a*.**
-
-> **Hebrew/Aramaic:** רַב נַחְמָן אָמַר: לְעוֹלָם בַּעַל לָאו בִּכְלַל ״בְּרִיּוֹת״ הוּא. וְהָכִי קָתָנֵי: נִתְגָּרְשָׁה, יְכוֹלָה לֵיהָנוֹת בְּלֶקֶט שִׁכְחָה וּפֵאָה.
->
-> **Translation:** **Rav Naḥman said: Actually,** a husband **is not included in** her reference to **people,** and her vow not to derive benefit from all people does not include him, which is why he cannot nullify it. **And this is what** the mishna **is teaching:** The husband cannot nullify his wife's vow, because even if **she becomes divorced** and can no longer derive benefit from her husband, as he is now included in her reference to people, **she may** still **benefit from gleanings, forgotten** sheaves, **and *pe'a*.**
-
 The gemara presents three distinct positions in response to this difficulty. Each takes a different stance on whether the husband is included within the term *briyot* when a woman declares *konam she-ani nehenis l'vriyos*, and each reads the mishnah accordingly.
+
+> **Hebrew/Aramaic:** אָמַר עוּלָּא: לְעוֹלָם לָאו בִּכְלַל ״בְּרִיּוֹת״ הוּא, וְעוֹד: אֵין יָכוֹל לְהָפֵר — מִפְּנֵי שֶׁיְּכוֹלָה לֵיהָנוֹת בְּלֶקֶט שִׁכְחָה וּפֵאָה.
+> **Translation:** **Ulla said: Actually,** a husband **is not included in** her reference to **people,** and there is no contradiction. Rather, the mishna provides two reasons why he cannot nullify his wife’s vow. The first reason, which is merely implied by the mishna, is that she can be sustained by her husband. **And furthermore** there is the stated reason, that **he cannot nullify** the vow **because she may benefit from gleanings, forgotten** sheaves, **and *pe’a*.**
+
+> **Hebrew/Aramaic:** רָבָא אָמַר: לְעוֹלָם בַּעַל בִּכְלַל ״בְּרִיּוֹת״ הוּא, וּ״מָה טַעַם״ קָאָמַר: מָה טַעַם אֵין יָכוֹל לְהָפֵר? מִפְּנֵי שֶׁיְּכוֹלָה לֵיהָנוֹת בְּלֶקֶט שִׁכְחָה וּפֵאָה.
+> **Translation:** **Rava said** the opposite: **Actually, a husband is included in** her reference to **people,** and therefore his wife may not benefit from him. **And** when the mishna **states** the *halakha*, it employs the style known as: **What is the reason,** and it should be understood as follows: **What is the reason** that the husband **cannot nullify** his wife’s vow? **Because she may benefit from gleanings, forgotten** sheaves, **and *pe’a*.**
+
+> **Hebrew/Aramaic:** רַב נַחְמָן אָמַר: לְעוֹלָם בַּעַל לָאו בִּכְלַל ״בְּרִיּוֹת״ הוּא. וְהָכִי קָתָנֵי: נִתְגָּרְשָׁה, יְכוֹלָה לֵיהָנוֹת בְּלֶקֶט שִׁכְחָה וּפֵאָה.
+> **Translation:** **Rav Naḥman said: Actually,** a husband **is not included in** her reference to **people,** and her vow not to derive benefit from all people does not include him, which is why he cannot nullify it. **And this is what** the mishna **is teaching:** The husband cannot nullify his wife’s vow, because even if **she becomes divorced** and can no longer derive benefit from her husband, as he is now included in her reference to people, **she may** still **benefit from gleanings, forgotten** sheaves, **and *pe’a*.**
 
 ---
 
 ## Ulla: Husband Excluded
+
+
 
 ### Ulla Position
 
@@ -210,27 +182,34 @@ Ulla answers: the husband is fundamentally not included in the category of *briy
 
 ### Leket Support
 
-The mention of *leket shichachah u'pe'ah* in the mishnah, according to Ulla, is a supplementary point: even setting aside the husband's support, she has an additional avenue — the ownerless agricultural gifts. The mishnah is telling us both reasons she is not sealed off from the world, and the primary reason the husband cannot annul is the husband's own continued availability.
+
+The mention of *leket shikchah u'pe'ah* in the mishnah, according to Ulla, is a supplementary point: even setting aside the husband's support, she has an additional avenue — the ownerless agricultural gifts. The mishnah is telling us both reasons she is not sealed off from the world, and the primary reason the husband cannot annul is the husband's own continued availability.
+
+It is worth pausing here, because the Ran flags something genuinely troubling about treating *leket shikchah u'pe'ah* as a sufficient answer on its own. If a woman truly forbade herself benefit from all people including her husband, the bare ability to survive on *hefker* produce would not, by itself, remove the status of *inuy nefesh*. The proof is the gemara's discussion of a case where a woman vows not to receive from a particular storekeeper who is the only available source of food — and even Rabbi Yossi, with his narrow conception of *inuy nefesh*, concedes that this constitutes *inuy nefesh*. Yet in that case she could presumably go and gather *leket shikchah u'pe'ah* as well. Clearly, then, the mere availability of ownerless agricultural gifts does not prevent something from being *inuy nefesh*. This is part of what genuinely troubles the gemara about relying on the *leket* point. Ulla's answer therefore insists that the real and primary reason *inuy nefesh* is absent is that the husband is simply not included in *briyot* to begin with — she can still receive directly from him — and the *leket shikchah u'pe'ah* clause in the mishnah is an additional observation layered on top of that primary point, not a freestanding justification.
 
 ---
 
 ## Rava: Hefker Solves It
 
+
+
 ### Rava Position
 
-Rava disagrees. In his view, the husband is included within *briyot* — she has genuinely forbidden herself benefit from everyone, including him. The reason the husband cannot annul is not that she can still receive from him, but solely that she can still be provided for from *leket shichachah u'pe'ah*, which is *hefker* and therefore not benefit from any person. Under Rabbi Yossi's exceedingly narrow conception of *inuy nefesh*, the mere availability of ownerless food is sufficient to prevent this from rising to the level of *inuy nefesh* that would empower the husband to annul.
+Rava disagrees. In his view, the husband is included within *briyot* — she has genuinely forbidden herself benefit from everyone, including him. The reason the husband cannot annul is not that she can still receive from him, but solely that she can still be provided for from *leket shikchah u'pe'ah*, which is *hefker* and therefore not benefit from any person. Under Rabbi Yossi's exceedingly narrow conception of *inuy nefesh*, the mere availability of ownerless food is sufficient to prevent this from rising to the level of *inuy nefesh* that would empower the husband to annul.
 
 ### Ran Challenges
 
-The Ran finds this position deeply difficult. The very reason the *chanvani* case constitutes *inuy nefesh* — even according to Rabbi Yossi — is that sealing off a primary food source is real deprivation. But in the *chanvani* case, the woman could in principle collect *leket shichachah u'pe'ah*. Why didn't Rabbi Yossi say there too that it is not *inuy nefesh* because she can still get food from *hefker*?
+The Ran finds this position deeply difficult. The very reason the *chanvani* case constitutes *inuy nefesh* — even according to Rabbi Yossi — is that sealing off a primary food source is real deprivation. But in the *chanvani* case, the woman could in principle collect *leket shikchah u'pe'ah*. Why didn't Rabbi Yossi say there too that it is not *inuy nefesh* because she can still get food from *hefker*?
 
 ### Seasonal Leket
 
-The Ran proposes a resolution that is itself startling: perhaps the *chanvani* case is set in winter, when *leket shichachah u'pe'ah* is not available because there is no harvest. In summer, when gleaning is possible, even the *chanvani* case might not constitute *inuy nefesh* under Rava's reading of Rabbi Yossi. This is an extraordinarily narrow reading of *inuy nefesh*, but it follows from Rava's position.
+The Ran proposes a resolution that is itself startling: perhaps the *chanvani* case is set in winter, when *leket shikchah u'pe'ah* is not available because there is no harvest. In summer, when gleaning is possible, even the *chanvani* case might not constitute *inuy nefesh* under Rava's reading of Rabbi Yossi. This is an extraordinarily narrow reading of *inuy nefesh*, but it follows from Rava's position.
 
 ---
 
 ## Rav Nachman: Conditional
+
+
 
 ### Rav Nachman Position
 
@@ -238,33 +217,35 @@ Rav Nachman returns to the position that the husband is not included in *briyot*
 
 ### Divorce Scenario
 
-Where Rav Nachman diverges from Ulla becomes clear in how he reads the mishnah's mention of *leket shichachah u'pe'ah*. Rav Nachman reads the mishnah as saying: *if she is divorced* — *nitgarshah* — then she is left with *leket shichachah u'pe'ah*. Once she is no longer married, the husband reverts to the *briyot* category, and she can no longer benefit even from him. At that point, her only recourse is the ownerless agricultural gifts. This reading makes the *leket shichachah u'pe'ah* clause make sense: it describes her situation post-divorce, when the "exception" for the husband no longer operates.
+Where Rav Nachman diverges from Ulla becomes clear in how he reads the mishnah's mention of *leket shikchah u'pe'ah*. Rav Nachman reads the mishnah as saying: *if she is divorced* — *nitgarshah* — then she is left with *leket shikchah u'pe'ah*. Once she is no longer married, the husband reverts to the *briyot* category, and she can no longer benefit even from him. At that point, her only recourse is the ownerless agricultural gifts. This reading makes the *leket shikchah u'pe'ah* clause make sense: it describes her situation post-divorce, when the "exception" for the husband no longer operates.
 
 The difference between Ulla and Rav Nachman is thus: according to Ulla, the husband is categorically and permanently outside the scope of the vow — even after divorce, presumably, the vow never encompassed him. According to Rav Nachman, the husband was always in principle included in *briyot*, but the marital relationship created a temporary inapplicability. Once that relationship ends, he falls back into the category to which he naturally belongs, and the vow operates against him as well.
 
 ### Status Change Question
 
+
 This leads the Ran into an extended discussion of a broader question: what happens when the circumstances relevant to a vow change during its duration? The gemara elsewhere discussed a case where a woman vowed not to benefit from *yordei hayam* — sailors — and someone's status as a sailor changed after the vow was taken. Does the vow's scope reassess itself as circumstances change?
 
 According to Rav Nachman's reading, it seems we do reassess: the husband begins as effectively excluded from the vow and then, upon divorce, becomes included. The Ran notes, however, that this may be a special case. The husband was never fundamentally outside the vow — he was always within the category of *briyot* in principle; the marriage simply created an override. When the marriage ends, he does not switch categories; he returns to the category he was always in. This is different from the *yordei hayam* case, where the question is about a person genuinely moving from one category to another. Here the husband's fundamental category never changed — only the practical applicability of the vow shifted with the marital status.
+
+A student raised a related question: if a woman forbids herself from all people and someone subsequently becomes her husband, does the marital relationship override the vow for him in the same way — and does that raise the same kind of status-change problem? The answer is that in this case too, the husband remains within the category of *kol habriot* — everybody is still everybody. The point is not that she said it is forbidden to non-husbands and permitted to husbands; she said everybody, and he was always in that everybody. The marital relationship does not move him out of the category; it merely creates a temporary practical override while the marriage subsists. This is precisely what distinguishes these cases from a genuine category-switch of the *yordei hayam* variety, where a person's identity within the vow's defined class is itself in flux.
+
+With these three positions now mapped — Ulla holding that the husband is fundamentally outside the *briyot* category from the outset, Rav Nachman holding that he is fundamentally inside it but subject to a marital override that lapses upon divorce, and Rava holding that he is inside it without qualification and the vow simply does not constitute *inui nefesh* because of her access to *leket shikchah u'pe'ah* — the gemara turns to a challenge Rava raises against Rav Nachman from another mishnah.
 
 ---
 
 ## Nituah Challenge
 
+
+
 ### Nituah Mishnah
 
-> **Hebrew/Aramaic:** אֵיתִיבֵיהּ רָבָא לְרַב נַחְמָן: וּבַעַל לָאו בִּכְלַל בְּרִיּוֹת הוּא? וְהָתְנַן: ״נְטוּלָה אֲנִי מִן הַיְּהוּדִים״ — יָפֵר חֶלְקוֹ, וּתְהֵא מְשַׁמַּשְׁתּוֹ, וּתְהֵא נְטוּלָה מִן הַיְּהוּדִים.
->
-> **Translation:** **Rava raised an objection to** the opinion of **Rav Naḥman: And is a husband not included in** her reference to **people? But didn't we learn** otherwise in a mishna (90b): If a woman said: **I am removed from the Jews,** i.e., the benefit of intercourse with me is prohibited to all Jews, her husband **must nullify his part,** i.e., the part that affects him. She would be permitted to him, **and she may engage in intercourse with him, but she is removed from** all other **Jews,** so that if he divorces her, she is forbidden to all.
+> **Hebrew/Aramaic:** אֵיתִיבֵיהּ רָבָא לְרַב נַחְמָן: וּבַעַל לָאו בִּכְלַל בְּרִיּוֹת הוּא? וְהָתְנַן: ״נְטוּלָה אֲנִי מִן הַיְּהוּדִים״ — יָפֵר חֶלְקוֹ, וּתְהֵא מְשַׁמַּשְׁתּוֹ, וּתְהֵא נְטוּלָה מִן הַיְּהוּדִים.
+> **Translation:** **Rava raised an objection to** the opinion of **Rav Naḥman: And is a husband not included in** her reference to **people? But didn’t we learn** otherwise in a mishna (90b): If a woman said: **I am removed from the Jews,** i.e., the benefit of intercourse with me is prohibited to all Jews, her husband **must nullify his part,** i.e., the part that affects him. She would be permitted to him, **and she may engage in intercourse with him, but she is removed from** all other **Jews,** so that if he divorces her, she is forbidden to all.
 
 Rava now challenges Rav Nachman with a proof from another mishnah. That mishnah concerns a woman who declares that she is *netuah* — removed, meaning she forbids herself sexual pleasure from all people. This is a vow of sexual estrangement that encompasses the entire world.
 
 ### Rava's Proof
-
-> **Hebrew/Aramaic:** וְאִי אָמְרַתְּ בַּעַל לָאו בִּכְלַל ״בְּרִיּוֹת״ הוּא, נִדְרֵי עִינּוּי נֶפֶשׁ הֵן, וְיָפֵר לָהּ לְעוֹלָם!
->
-> **Translation:** The Gemara explains the difficulty: If you say that the husband is included in this vow, it follows that he can nullify his part, as it is a vow that adversely affects the relationship between him and her, but the vow is not permanently nullified; if they divorce she is removed from all Jews, including him. **But if you say a husband is not included in** her reference to **people,** then it is not a vow that touches upon their personal relationship, but rather **it is a vow of affliction, and he can nullify** it **for her forever.**
 
 Rava argues: if the husband were truly not included in the category of *briyot* when a woman says "all people," then this vow would not touch him at all, and it would already be *inuy nefesh* by virtue of excluding everyone else. There would be no need for any further action on the husband's part. Yet the mishnah states explicitly that the husband annuls his portion — *yafer chelko* — and then has conjugal relations with her. The necessity of the husband's annulment demonstrates that he was included in the vow to begin with.
 
@@ -274,8 +255,10 @@ The ruling is that the husband annuls the part of the vow that pertains to him, 
 
 ### Context Determines
 
-> **Hebrew/Aramaic:** אֵימָא לָךְ: שָׁאנֵי הָכָא, דְּמוֹכְחָא מִלְּתָא דְּעַל הֶיתֵּרָא קָאָסְרָה נַפְשַׁהּ.
->
+> **Hebrew/Aramaic:** וְאִי אָמְרַתְּ בַּעַל לָאו בִּכְלַל ״בְּרִיּוֹת״ הוּא, נִדְרֵי עִינּוּי נֶפֶשׁ הֵן, וְיָפֵר לָהּ לְעוֹלָם!
+> **Translation:** The Gemara explains the difficulty: If you say that the husband is included in this vow, it follows that he can nullify his part, as it is a vow that adversely affects the relationship between him and her, but the vow is not permanently nullified; if they divorce she is removed from all Jews, including him. **But if you say a husband is not included in** her reference to **people,** then it is not a vow that touches upon their personal relationship, but rather **it is a vow of affliction, and he can nullify** it **for her forever.**
+
+> **Hebrew/Aramaic:** אֵימָא לָךְ: שָׁאנֵי הָכָא, דְּמוֹכְחָא מִלְּתָא דְּעַל הֶיתֵּרָא קָאָסְרָה נַפְשַׁהּ.
 > **Translation:** Rav Naḥman responded: **I** could **say to you** that in general a husband is not included in her reference to people, but **here it is different, as it is clear** that the woman means to include her husband in the vow, **as she** means **to render forbidden to herself** a matter **that is** otherwise **permitted** to her and not to render forbidden to herself intercourse with men other than her husband, which is in any case forbidden to her. Therefore, she certainly intended to render herself forbidden to her husband.
 
 The gemara resolves the apparent contradiction between this case and the *konam she-ani nehenis l'vriyos* case as follows: *shani hacha demuchach miltha* — here the matter speaks for itself. In the *nituah* case, the woman says she is forbidden sexual pleasure from *Yehudim* — from all Jews. But she already has no permitted sexual relationship with anyone other than her husband. If the vow means "everybody except my husband," it is entirely meaningless: she already cannot have relations with anyone else. A vow that says nothing is not a vow. Therefore, in this context, the husband must be included — otherwise the declaration has no content at all.

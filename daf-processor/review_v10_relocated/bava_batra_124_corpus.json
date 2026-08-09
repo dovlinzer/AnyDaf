@@ -1,0 +1,290 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Baraita Sources",
+    "candidates": [
+      "Bechor Double Portion",
+      "Stake vs. Estate Frame",
+      "Tosafot Division Theory",
+      "Baraita Sources",
+      "Rented vs. Grazing",
+      "Auto Growth Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about the father's cow that was leased, rented, or grazing in the meadow giving birth and the firstborn taking double \u2014 which is exactly what the 'Baraita Sources' prose describes, and the Gemara's rhetorical question at the end ('is it necessary for the baraita to state?') is the transition into the 'Rented vs. Grazing' section, not the content of that section.",
+      "chosen_heading": "Baraita Sources",
+      "current_heading": "Baraita Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Auto Growth Principle",
+    "candidates": [
+      "Rented vs. Grazing",
+      "Auto Growth Principle",
+      "Rashbam on Orphans",
+      "Attribution to Rabbi",
+      "Natural = Possessed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's answer that leased/rented is analogous to grazing-in-meadow because in both cases the enhancement comes by itself without the heirs expending on sustenance \u2014 precisely what heading 1 ('Auto Growth Principle') describes.",
+      "chosen_heading": "Auto Growth Principle",
+      "current_heading": "Auto Growth Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Natural = Possessed",
+    "candidates": [
+      "Rashbam on Orphans",
+      "Attribution to Rabbi",
+      "Natural = Possessed",
+      "Debt Owed In"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly asks whose opinion the baraita follows and answers 'it is Rabbi's position,' directly matching the 'Attribution to Rabbi' section's prose description of this exact Gemara question and answer.",
+      "chosen_heading": "Attribution to Rabbi",
+      "current_heading": "Natural = Possessed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Debt Owed In",
+    "candidates": [
+      "Natural = Possessed",
+      "Debt Owed In",
+      "Accounts Receivable",
+      "Debt Owed Out",
+      "Waiving Double",
+      "Rabbeinu Tam View",
+      "Rabbanan Limit",
+      "Verse Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers all three sub-topics in sequence \u2014 inheriting a promissory note (debt owed in), a debt against the estate (debt owed out), and the waiver option \u2014 but the opening clause about inheriting a shtar chov with the bechor taking double is precisely what heading 1 ('Debt Owed In') introduces, and the full baraita text naturally sits there as the source being discussed across the subsequent sections; however, since the passage includes all three elements and heading 1 is the first point of entry for this baraita, and the current placement is already heading 1, it is correct.",
+      "chosen_heading": "Debt Owed In",
+      "current_heading": "Debt Owed In",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Verse Interpretations",
+    "candidates": [
+      "Accounts Receivable",
+      "Debt Owed Out",
+      "Waiving Double",
+      "Rabbeinu Tam View",
+      "Rabbanan Limit",
+      "Verse Interpretations",
+      "Agreed Natural Cases",
+      "Object Transformation",
+      "Transform Dispute",
+      "Both Legitimate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Verse Interpretations",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 present the competing verse interpretations of the rabbanan and Rabbi regarding 'latet lo' and 'pi shnayim', which is precisely what heading 5 'Verse Interpretations' describes in its prose.",
+      "second_heading": "Agreed Natural Cases",
+      "second_confidence": "high",
+      "second_reason": "Item 5 (Rav Pappa's statement about agreed natural cases vs. disputed transformation cases) matches heading 6 'Agreed Natural Cases' whose prose explicitly describes Rav Pappa narrowing the dispute by identifying cases where all agree, such as a palm tree growing thicker or land enriched by flooding.",
+      "current_heading": "Verse Interpretations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Both Legitimate",
+    "candidates": [
+      "Agreed Natural Cases",
+      "Object Transformation",
+      "Transform Dispute",
+      "Both Legitimate",
+      "Halacha Ke-Rabbi Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabba bar \u1e24ana citing Rabbi \u1e24iyya's ruling that acting like either Rabbi or the Rabbis is legitimate, which is precisely what the 'Both Legitimate' section's prose discusses.",
+      "chosen_heading": "Both Legitimate",
+      "current_heading": "Both Legitimate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Halacha Ke-Rabbi Rules",
+    "candidates": [
+      "Halacha Ke-Rabbi Rules",
+      "Rav Nachman Rejects"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Halacha Ke-Rabbi Rules",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the unresolved uncertainty about whether the halacha ke-Rabbi principle applies even against multiple colleagues, which matches heading 0's prose about the broader unresolved question.",
+      "second_heading": "Rav Nachman Rejects",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Nachman citing Rav's ruling that it is prohibited to act like Rabbi, resolving the question by adopting the velo mechaveirav position, which matches heading 1's prose exactly.",
+      "current_heading": "Halacha Ke-Rabbi Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Rav Nachman Rejects",
+    "candidates": [
+      "Rav Nachman Rejects",
+      "Rav Nachman Permits",
+      "Midrashei Halacha ID",
+      "Rava: Prohibited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states Rav Nachman's own position that it is permitted to act like Rabbi and that the halakha follows Rabbi even against multiple colleagues, which matches exactly the prose of 'Rav Nachman Permits' (candidate 1), not the current placement under 'Rav Nachman Rejects' which describes the opposite ruling.",
+      "chosen_heading": "Rav Nachman Permits",
+      "current_heading": "Rav Nachman Rejects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Rava: Prohibited",
+    "candidates": [
+      "Rav Nachman Permits",
+      "Midrashei Halacha ID",
+      "Rava: Prohibited",
+      "Rashbam Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement that it is prohibited to rule like Rabbi but if done the ruling stands, which is precisely what the 'Rava: Prohibited' section's prose describes.",
+      "chosen_heading": "Rava: Prohibited",
+      "current_heading": "Rava: Prohibited",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Rashbam Sources",
+    "candidates": [
+      "Rashbam Sources",
+      "Debei Rav Meaning",
+      "Debt Braita",
+      "No Double Position",
+      "Attribution Resolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is about Rav Na\u1e25man teaching from 'the other books of the school of Rav' (sh'ar sifrei d'vei Rav), and the Gemara's note about whose opinion it reflects \u2014 this directly corresponds to the 'Debei Rav Meaning' section's discussion of the disagreement among early authorities about what d'vei Rav means, whereas the current placement ('Rashbam Sources') discusses the Rashbam's bibliographical note about which texts belong to which school.",
+      "chosen_heading": "Debei Rav Meaning",
+      "current_heading": "Rashbam Sources",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Attribution Resolved",
+    "candidates": [
+      "Debei Rav Meaning",
+      "Debt Braita",
+      "No Double Position",
+      "Attribution Resolved",
+      "Rabbi on Loans"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita taught by Rami bar \u1e24ama from the school of Rav's books, excluding post-death appreciation from the bechor's double portion and identifying it as the rabbanan's view \u2014 precisely what the 'Debt Braita' prose describes.",
+      "chosen_heading": "Debt Braita",
+      "current_heading": "Attribution Resolved",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Rabbi on Loans",
+    "candidates": [
+      "Attribution Resolved",
+      "Rabbi on Loans",
+      "Middle Position",
+      "Rabbanan Split"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Attribution Resolved",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover Rav Yehuda/Shmuel's ruling that a firstborn takes no double portion of a loan, the challenge from the baraita about promissory notes, and the resolution that it is l'olam rabbanan \u2014 exactly the content described in heading 0 ('Attribution Resolved').",
+      "second_heading": "Middle Position",
+      "second_confidence": "high",
+      "second_reason": "Items 5-8 introduce the shalchu mi-tam middle position (double on principal but not interest) and its resolution, which is precisely the content described in heading 2 ('Middle Position').",
+      "current_heading": "Rabbi on Loans",
+      "moved": true
+    }
+  }
+]

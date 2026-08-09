@@ -125,8 +125,8 @@
           "timestamp": "18:21"
         }
       ],
-      "sefaria_index": 13,
-      "matched": true
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Conceptual Analysis: Bikkurim as Personal Obligation vs. Food Status",
@@ -149,7 +149,7 @@
           "timestamp": "21:30"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 9,
       "matched": false
     },
     {
@@ -183,7 +183,7 @@
           "timestamp": "26:02"
         }
       ],
-      "sefaria_index": 13,
+      "sefaria_index": 9,
       "matched": false
     }
   ],
@@ -465,5 +465,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "10:36",
+  "amud_b_micro_title": "Elazar's Response",
+  "shiur_start_daf": 81,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,426 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Pasuk Source",
+    "candidates": [
+      "Pasuk Source",
+      "Vessel Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage asks 'from where are these matters derived?' and Rav Ketina answers with the verse \u2014 this is precisely the source (pasuk source) content, matching heading 0's prose about the Gemara asking for the source and Rav Katina citing the verse, before the vessel interpretation in heading 1.",
+      "chosen_heading": "Pasuk Source",
+      "current_heading": "Pasuk Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Vessel Interpretation",
+    "candidates": [
+      "Vessel Interpretation",
+      "Rava's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly interprets the verse's terms (ke'arotav, kapotav, kesotav, umenakiotav) as Temple vessels/implements, which is precisely what the 'Vessel Interpretation' section's prose describes.",
+      "chosen_heading": "Vessel Interpretation",
+      "current_heading": "Vessel Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rava's Challenge",
+    "candidates": [
+      "Rava's Challenge",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's objection/challenge about why arranging the rods doesn't override Shabbat if they are Torah-required, which matches exactly the content described in 'Rava's Challenge' (index 0), not his resolution/retraction in index 1.",
+      "chosen_heading": "Rava's Challenge",
+      "current_heading": "Rava's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava's Resolution",
+      "Rod Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the prose of 'Rava's Resolution,' which describes Rava retracting his argument by citing Rabbi Akiva's principle and explaining that the rods are not needed during Shabbat because the loaves won't become moldy in that short time.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Rod Procedure",
+    "candidates": [
+      "Rod Procedure",
+      "Rods Per Loaf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the procedure for removing and reinserting the rods on erev Shabbat and after Shabbat, which matches exactly the 'Rod Procedure' section's prose about the same sequence of actions.",
+      "chosen_heading": "Rod Procedure",
+      "current_heading": "Rod Procedure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rods Per Loaf",
+    "candidates": [
+      "Rods Per Loaf",
+      "Rabbi Meir Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the rod requirements per loaf position (four middle loaves needing three rods each, upper needing two, lower needing none), which matches precisely the 'Rods Per Loaf' section prose.",
+      "chosen_heading": "Rods Per Loaf",
+      "current_heading": "Rods Per Loaf",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Rabbi Meir Position",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Rabbi Yehuda Position",
+      "Single Pasuk Source",
+      "Yechezkel Parsing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Meir's and Rabbi Yehuda's positions in a single mishna text, and the current heading 'Rabbi Meir Position' with its prose already accounts for both opinions as part of the same digression, making it the best fit for this single unified textual item.",
+      "chosen_heading": "Rabbi Meir Position",
+      "current_heading": "Rabbi Meir Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Yechezkel Parsing",
+    "candidates": [
+      "Rabbi Yehuda Position",
+      "Single Pasuk Source",
+      "Yechezkel Parsing",
+      "Initial Calc"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together present Rabbi Yochanan's observation that both Rabbi Meir and Rabbi Yehuda derive from the same verse, then quote and parse that verse, then explain each Amora's inference \u2014 exactly matching the 'Single Pasuk Source' prose which describes Rabbi Yochanan's misheneihem mikra echad darshu observation and quotes the full Yechezkel pasuk.",
+      "chosen_heading": "Single Pasuk Source",
+      "current_heading": "Yechezkel Parsing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Initial Calc",
+    "candidates": [
+      "Yechezkel Parsing",
+      "Initial Calc",
+      "54 Tefachim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the initial interpretive attempt (\u05e7\u05b8\u05d0 \u05e1\u05b8\u05dc\u05b0\u05e7\u05b8\u05d0 \u05d3\u05b7\u05bc\u05e2\u05b0\u05ea\u05b8\u05bc\u05da\u05b0 \u2014 'it might enter your mind') to understand the verse as referring to five-tefach amot from the base to the sovev, which matches exactly the 'Initial Calc' prose describing the preliminary assumption about measuring from base to sovev using five-tefach amot.",
+      "chosen_heading": "Initial Calc",
+      "current_heading": "Initial Calc",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "54 Tefachim",
+    "candidates": [
+      "54 Tefachim",
+      "Baraita Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the calculation of the altar's height in handbreadths (54 total), the halfway point (27), the distance from karnot to sovev (24), the 3-tefach gap, and the red line \u2014 exactly matching the prose of candidate 0 '54 Tefachim'.",
+      "chosen_heading": "54 Tefachim",
+      "current_heading": "54 Tefachim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Baraita Problem",
+    "candidates": [
+      "Baraita Problem",
+      "Reinterpret Horizontal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Baraita Problem",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita problem itself \u2014 the bird offering procedure and the contradiction that placing blood one cubit below the sovev would fall two handbreadths below the halfway mark \u2014 which matches exactly the 'Baraita Problem' prose.",
+      "second_heading": "Reinterpret Horizontal",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the reinterpretation of the verse as horizontal measurements and the subsequent recalculation showing one cubit below the sovev remains valid, which matches the 'Reinterpret Horizontal' prose perfectly.",
+      "current_heading": "Baraita Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Reinterpret Horizontal",
+    "candidates": [
+      "Reinterpret Horizontal",
+      "60 Tefachim",
+      "Baraita Fit",
+      "Surface Area",
+      "32x32 to 24x24"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna from Middot about the altar being 32x32 cubits and indenting one amah to yield 30x30, which is precisely the content discussed in the '32x32 to 24x24' section's prose about the yesod indentation and the resulting dimensions.",
+      "chosen_heading": "32x32 to 24x24",
+      "current_heading": "Reinterpret Horizontal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "32x32 to 24x24",
+    "candidates": [
+      "60 Tefachim",
+      "Baraita Fit",
+      "Surface Area",
+      "32x32 to 24x24",
+      "Ariel 12 Center"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items trace exactly the sequence described in candidate 3's prose: the 32x32 base leaving 30+2 tefachim, the sovev leaving 28+4 tefachim, the karnot reducing to 26 (actually 27, lo dak), and the priestly walkway leaving 24x24 (actually 25, also lo dak) \u2014 precisely the content of the '32x32 to 24x24' section.",
+      "chosen_heading": "32x32 to 24x24",
+      "current_heading": "32x32 to 24x24",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Ariel 12 Center",
+    "candidates": [
+      "Ariel 12 Center",
+      "Azarah 187x135",
+      "Space Breakdown"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the prose of candidate 0, which explicitly discusses the ariel/twelve-cubit measurement from the center and the immediate rejection of the six five-tefach amot explanation as making the azarah too wide.",
+      "chosen_heading": "Ariel 12 Center",
+      "current_heading": "Ariel 12 Center",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Space Breakdown",
+    "candidates": [
+      "Azarah 187x135",
+      "Space Breakdown",
+      "Final Interp"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage quotes the mishna giving the overall dimensions (187\u00d7135) of the azarah, which matches heading 0's prose about recording those exact dimensions, though it also contains the breakdown detail covered in heading 1; however, the mishna is a single unit that is introduced as the source for the 187-cubit figure, making heading 0 the better primary home.",
+      "chosen_heading": "Azarah 187x135",
+      "current_heading": "Space Breakdown",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Final Interp",
+    "candidates": [
+      "Final Interp",
+      "Six Tefach",
+      "Two Sticks"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Final Interp",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 all concern the Gemara's final interpretation of the altar dimensions (cheik ha'amah, amah rochav, the 58-tefach total, the sovev/halfway calculation, and the dayka nami confirmation), which exactly matches the 'Final Interp' prose.",
+      "second_heading": "Six Tefach",
+      "second_confidence": "high",
+      "second_reason": "Item 6 asks 'how many handbreadths is a medium cubit?' and cites Rabbi Yochanan's answer of six tefachim confirmed by the shulchan mishna, which is precisely what the 'Six Tefach' prose describes.",
+      "current_heading": "Final Interp",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Two Sticks",
+    "candidates": [
+      "Six Tefach",
+      "Two Sticks",
+      "Two Rationales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly discuss the two measuring cubits in Shushan Habira \u2014 their sizes relative to Moses' cubit and the reason for having one large and one small \u2014 which is precisely what the 'Two Sticks' section's prose describes.",
+      "chosen_heading": "Two Sticks",
+      "current_heading": "Two Sticks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Two Rationales",
+    "candidates": [
+      "Two Rationales",
+      "Location",
+      "Remembrance/Fear"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why two different enlarged cubit standards were needed \u2014 one for precious metals and one for construction \u2014 which is precisely what the 'Two Rationales' section prose addresses.",
+      "chosen_heading": "Two Rationales",
+      "current_heading": "Two Rationales",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Remembrance/Fear",
+    "candidates": [
+      "Location",
+      "Remembrance/Fear",
+      "Fear Government",
+      "Textual Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "Both items introduce the Shushan depiction on the eastern gate \u2014 item 1 is the mishna citation establishing the fact and asking the reason, item 2 is the dispute over the reason \u2014 and heading 0 ('Location') is the section whose prose explicitly discusses the eastern gate bearing an engraving of Shushan Habira and asks why, making it the natural home for this introductory question-and-answer unit, whereas heading 1 ('Remembrance/Fear') already contains the essay author's own elaboration of the dispute's content and so the Gemara passage launching that dispute fits better immediately before it under 'Location'.",
+      "chosen_heading": "Location",
+      "current_heading": "Remembrance/Fear",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114
+    ],
+    "current_heading": "Textual Support",
+    "candidates": [
+      "Fear Government",
+      "Textual Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are discussing the same principle of eimat malchut with their respective prooftexts, and the prose under 'Textual Support' explicitly discusses both Rabbi Yannai's derivation from the Pharaoh incident and Rabbi Yochanan's derivation from the Elijah/Ahab verse, matching the passage exactly.",
+      "chosen_heading": "Textual Support",
+      "current_heading": "Textual Support",
+      "moved": false
+    }
+  }
+]

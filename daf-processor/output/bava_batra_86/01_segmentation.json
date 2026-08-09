@@ -29,7 +29,7 @@
           "timestamp": "02:45"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -97,7 +97,7 @@
           "timestamp": "22:32"
         }
       ],
-      "sefaria_index": 3,
+      "sefaria_index": 12,
       "matched": true
     }
   ],
@@ -449,5 +449,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "12:32",
+  "amud_b_micro_title": "Produce Cases",
+  "shiur_start_daf": 86,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,370 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Source & Derivation",
+    "candidates": [
+      "Source & Derivation",
+      "Four Scenarios",
+      "Both Valid"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Source & Derivation",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the baraita derivation and Rav Na\u1e25man bar Yitz\u1e25ak's resolution of the plural/singular textual question, which is exactly what candidate 0's prose ('Source & Derivation') discusses.",
+      "second_heading": "Four Scenarios",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rabbi Yirmeya's four-scenario framework, which is precisely what candidate 1's prose ('Four Scenarios') describes.",
+      "current_heading": "Source & Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Both Valid",
+    "candidates": [
+      "Four Scenarios",
+      "Both Valid",
+      "Both Invalid",
+      "Bottom Valid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together present the four scenarios (both valid, both invalid, bottom valid/top invalid, top valid/bottom invalid) that Rabbi Yirmiya systematically analyzes, matching exactly the 'Four Scenarios' heading prose which describes all four combinations being laid out together.",
+      "chosen_heading": "Four Scenarios",
+      "current_heading": "Both Valid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Bottom Valid",
+    "candidates": [
+      "Both Invalid",
+      "Bottom Valid",
+      "Top Valid",
+      "Rav Huna (1 tefach)",
+      "Tumah Analogy"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Top Valid",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 discuss the paradigmatic sukkah tachat sukkah case (upper valid, lower invalid) and the peshita/chiddush exchange, matching candidate 2's prose exactly.",
+      "second_heading": "Rav Huna (1 tefach)",
+      "second_confidence": "high",
+      "second_reason": "Item 3 poses the 'kama yehei bein sukkah lesukkah' question, which is the precise question candidate 3's prose opens with as it introduces Rav Huna's ruling.",
+      "current_heading": "Bottom Valid",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Tumah Analogy",
+    "candidates": [
+      "Top Valid",
+      "Rav Huna (1 tefach)",
+      "Tumah Analogy",
+      "Rav Chisda (4 tefachim)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains Rav Huna's statement about the tefach measure derived from ohel tumah laws, which is precisely what the 'Tumah Analogy' section's prose describes \u2014 the mishna about tefach al tefach be-rum tefach serving as the support for Rav Huna's one-tefach standard.",
+      "chosen_heading": "Tumah Analogy",
+      "current_heading": "Tumah Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Rav Chisda (4 tefachim)",
+    "candidates": [
+      "Rav Chisda (4 tefachim)",
+      "Shmuel (10 tefachim)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav \u1e24isda and Rabba bar Rav Huna requiring four handbreadths, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Rav Chisda (4 tefachim)",
+      "current_heading": "Rav Chisda (4 tefachim)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Shmuel (10 tefachim)",
+    "candidates": [
+      "Shmuel (10 tefachim)",
+      "Rav Dimi Report"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel (10 tefachim)",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Shmuel's ruling with its rationale, which is exactly what heading 0 ('Shmuel (10 tefachim)') discusses.",
+      "second_heading": "Rav Dimi Report",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the gemara's challenge from Rabbi Yehuda's mishna opinion, which is the opening move of the 'Rav Dimi Report' section whose prose explicitly begins by engaging Rabbi Yehuda's statement about residents in the upper sukka.",
+      "current_heading": "Shmuel (10 tefachim)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Rav Dimi Report",
+    "candidates": [
+      "Rav Dimi Report",
+      "Floor Collapse",
+      "Emergency Habitability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the reinterpretation of Rabbi Yehuda's 'no residents' as 'not suitable for habitation' (ten tefachim), Rav Dimi's report about the floor supporting cushions and blankets, and the inference about the tanna kamma \u2014 are precisely what the 'Rav Dimi Report' prose describes, covering the same sequential chain of the gemara's analysis.",
+      "chosen_heading": "Rav Dimi Report",
+      "current_heading": "Rav Dimi Report",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Emergency Habitability",
+    "candidates": [
+      "Floor Collapse",
+      "Emergency Habitability",
+      "Mishna Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the practical difference (ikha beinaihu) between the tanna kamma and Rabbi Yehuda regarding a floor that can support weight only with difficulty, which is precisely what the 'Emergency Habitability' section's prose elaborates upon.",
+      "chosen_heading": "Emergency Habitability",
+      "current_heading": "Emergency Habitability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Mishna Cases",
+    "candidates": [
+      "Mishna Cases",
+      "Rav Chisda",
+      "Function vs. Shade"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself presenting the three cases of sheet invalidation and the exception for the two-poster bed, which is exactly what the 'Mishna Cases' section prose describes and analyzes.",
+      "chosen_heading": "Mishna Cases",
+      "current_heading": "Mishna Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Function vs. Shade",
+    "candidates": [
+      "Rav Chisda",
+      "Function vs. Shade",
+      "Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Chisda's ruling distinguishing between sheets spread for debris-catching (invalid) versus beautification (valid), which is precisely what candidate 0 'Rav Chisda' discusses, while candidate 1 'Function vs. Shade' discusses the gemara's peshita challenge and subsequent defense of Rav Chisda's ruling \u2014 meaning the passage belongs under the heading that introduces Rav Chisda's statement, not the one analyzing its implications.",
+      "chosen_heading": "Rav Chisda",
+      "current_heading": "Function vs. Shade",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Baraita",
+    "candidates": [
+      "Function vs. Shade",
+      "Baraita",
+      "No Effect on Size"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form exactly the Tosefta proof-attempt and its rejection (dilma min ha-tzad) that candidate 1's prose ('Baraita') explicitly describes in detail.",
+      "chosen_heading": "Baraita",
+      "current_heading": "Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "No Effect on Size",
+    "candidates": [
+      "No Effect on Size",
+      "Wall Decorations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states the general ruling that decorations do not diminish the sukka, then Rav Ashi's distinction about side decorations \u2014 this is precisely what heading 0's prose discusses, covering both the main rule and the side-decoration qualification, while heading 1's prose focuses on wall decorations and the Manimei narrative.",
+      "chosen_heading": "No Effect on Size",
+      "current_heading": "No Effect on Size",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Wall Decorations",
+    "candidates": [
+      "Wall Decorations",
+      "4 Tefachim Rule",
+      "Rav Nachman",
+      "Exilarch Story"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wall Decorations",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Minyamin's wet shirt) is explicitly discussed in the 'Wall Decorations' prose under heading 0, which narrates the same story about Rav Ashi's servant and the wet cloak on the sukkah.",
+      "second_heading": "4 Tefachim Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (the dispute about noy sukkah separated four tefachim) is the opening statement of a new dispute covered by headings 1 and 2, with heading 1 ('4 Tefachim Rule') introducing precisely this ruling about decorations removed four handbreadths from the skhakh.",
+      "current_heading": "Wall Decorations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Exilarch Story",
+    "candidates": [
+      "4 Tefachim Rule",
+      "Rav Nachman",
+      "Exilarch Story",
+      "Mishna Setup",
+      "Shmuel Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes exactly the story recounted in the 'Exilarch Story' prose: Rav \u1e24isda and Rabbah bar Rav Huna visiting the Exilarch's house, being lodged in a sukka with decorations four tefachim from the skhakh, their silence, Rav Na\u1e25man's challenge, and their response about being exempt as shluchei mitzvah.",
+      "chosen_heading": "Exilarch Story",
+      "current_heading": "Exilarch Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Shmuel Position",
+    "candidates": [
+      "Mishna Setup",
+      "Shmuel Position",
+      "Gemara Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Shmuel's ruling about sleeping under a kilah in a sukkah with the ten-tefachim qualification, which is precisely what the 'Shmuel Position' prose section discusses and introduces.",
+      "chosen_heading": "Shmuel Position",
+      "current_heading": "Shmuel Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Gemara Challenge",
+    "candidates": [
+      "Gemara Challenge",
+      "Baraita Poles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the progressive challenges and responses about sleeping under a canopy/bed/four-post frame that the prose of 'Gemara Challenge' explicitly describes in sequence.",
+      "chosen_heading": "Gemara Challenge",
+      "current_heading": "Gemara Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Baraita Poles",
+    "candidates": [
+      "Baraita Poles",
+      "Height Invalidates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes and introduces the baraita distinguishing naklitin (two posts) from kinofot (four posts) and draws the inference about four posts, which is precisely what the 'Baraita Poles' prose describes.",
+      "chosen_heading": "Baraita Poles",
+      "current_heading": "Baraita Poles",
+      "moved": false
+    }
+  }
+]

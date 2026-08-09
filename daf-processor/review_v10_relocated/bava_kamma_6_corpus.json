@@ -1,0 +1,465 @@
+[
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Setup: Wind Blown Objects",
+    "candidates": [
+      "Intro: Principle & Categ",
+      "Mammon & Shmiratan Alecha",
+      "Textual Variants",
+      "Abstract Principle",
+      "Setup: Wind Blown Objects",
+      "During vs. After Fall",
+      "Eish: Koach Acher",
+      "Eish & Bor Comparison",
+      "Hefker in Public Domain",
+      "Bor Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Abaye's answer to 'le'atuyei mai' \u2014 introducing the case of a stone/knife/load left on a roof falling by common wind \u2014 which is exactly what the 'Setup: Wind Blown Objects' prose describes and introduces.",
+      "chosen_heading": "Setup: Wind Blown Objects",
+      "current_heading": "Setup: Wind Blown Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Bor Definition",
+    "candidates": [
+      "During vs. After Fall",
+      "Eish: Koach Acher",
+      "Eish & Bor Comparison",
+      "Hefker in Public Domain",
+      "Bor Definition",
+      "Tosafot: Rav Excluded",
+      "Tosafot: Shor-Bor Hybrid",
+      "Hatzad Hashaveh Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "medium",
+      "reason": "Candidate 4's prose explicitly covers the full sequence: the bor definition (techilat asiyaso lenezek), the koach acher objection distinguishing it from plain bor, eish tochiach, and the tzad hashaveh resolution \u2014 encompassing all 7 items, even though items 1-2 could marginally fit under the eish-focused candidates.",
+      "chosen_heading": "Bor Definition",
+      "current_heading": "Bor Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Hatzad Hashaveh Logic",
+    "candidates": [
+      "Tosafot: Rav Excluded",
+      "Tosafot: Shor-Bor Hybrid",
+      "Hatzad Hashaveh Logic",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are part of the classic tzad hashaveh dialectic \u2014 the mah leish objection and the bor tochhiah response \u2014 which is precisely the logical structure described in the 'Hatzad Hashaveh Logic' prose, where the passage explains how eish and bor mutually neutralize each other's distinguishing features to establish liability.",
+      "chosen_heading": "Hatzad Hashaveh Logic",
+      "current_heading": "Hatzad Hashaveh Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Case Setup",
+      "Renounced Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's statement about a pit rolled by feet of people and animals, which directly matches the 'Case Setup' prose that explicitly discusses this same Rava statement and the kicking-around scenario.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Renounced Status",
+    "candidates": [
+      "Renounced Status",
+      "Koach Acher Issue",
+      "Shor & Bor Learn"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the gemara's analysis of whether the case involves declared-ownerless objects (afkerinu) fitting into bor, and the prose of heading 0 'Renounced Status' directly discusses this exact question \u2014 heichi dami, afkerinu, techilat asiyasan lenezek, ushmiraso alecha \u2014 matching the passage's content precisely.",
+      "chosen_heading": "Renounced Status",
+      "current_heading": "Renounced Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Shor & Bor Learn",
+    "candidates": [
+      "Koach Acher Issue",
+      "Shor & Bor Learn",
+      "Textual Variant",
+      "Conscious Agent Principle",
+      "Dog vs. Human"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the classic tzad hashaveh back-and-forth between Shor and Bor (shor yochiach / mah leshor / bor tochiach), which is precisely what the 'Shor & Bor Learn' prose describes in detail.",
+      "chosen_heading": "Shor & Bor Learn",
+      "current_heading": "Shor & Bor Learn",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Dog vs. Human",
+    "candidates": [
+      "Textual Variant",
+      "Conscious Agent Principle",
+      "Dog vs. Human",
+      "Adam Overrides Mamon",
+      "Drainage Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses the halakhic derivation reverting to its starting point via the tzad hashaveh (common denominator) of Pit and Ox, which directly relates to the Drainage Setup section's discussion of what the tzad hashaveh includes and why it is needed.",
+      "chosen_heading": "Drainage Setup",
+      "current_heading": "Dog vs. Human",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Drainage Setup",
+    "candidates": [
+      "Adam Overrides Mamon",
+      "Drainage Setup",
+      "Active vs. Static Damage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita about opening gutters and flushing caves in summer vs. rainy season, which is exactly what the 'Drainage Setup' prose describes and attributes to Rav Acha bar Abba (Rav Adda bar Ahava).",
+      "chosen_heading": "Drainage Setup",
+      "current_heading": "Drainage Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Active vs. Static Damage",
+    "candidates": [
+      "Active vs. Static Damage",
+      "Permission \u2260 Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain of gemara dialectic about active vs. static damage (kocho vs. bor), which is precisely what the 'Active vs. Static Damage' prose describes, including the specific terminology behadi deka azlei mazikei, afkerinu/bor, and mamoncha ushmirasan alecha.",
+      "chosen_heading": "Active vs. Static Damage",
+      "current_heading": "Active vs. Static Damage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Permission \u2260 Exemption",
+    "candidates": [
+      "Permission \u2260 Exemption",
+      "Shor & Bor Learn (II)",
+      "Mishna Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the dialectic described in candidate 0's prose \u2014 the bor/reshus distinction, shor yochiach, mah leshor, bor tochiach, v'chazar hadin \u2014 which candidate 0 quotes and explains verbatim, making it the clear home for all four items.",
+      "chosen_heading": "Permission \u2260 Exemption",
+      "current_heading": "Permission \u2260 Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Mishna Rule",
+    "candidates": [
+      "Shor & Bor Learn (II)",
+      "Mishna Rule",
+      "Case Setup (II)",
+      "Techilat Asiyaso Issue",
+      "Shor Learns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Ravina's statement about the wall and tree mishna (hakotel veha'ilan), which is precisely what the 'Mishna Rule' section prose describes in detail, including the natnu lo zman framework and le'achar zman liability.",
+      "chosen_heading": "Mishna Rule",
+      "current_heading": "Mishna Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Shor Learns",
+    "candidates": [
+      "Case Setup (II)",
+      "Techilat Asiyaso Issue",
+      "Shor Learns",
+      "Tosafot: Fall Damage"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Techilat Asiyaso Issue",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-3 cover the heichi dami question through the techilat asiyaso objection, which candidate 1's prose explicitly discusses as the crucial distinction about walls/trees not starting life as hazards.",
+      "second_heading": "Shor Learns",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is precisely the 'shor yochiach' point that candidate 2's prose opens with and elaborates upon.",
+      "current_heading": "Shor Learns",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Tosafot: Fall Damage",
+    "candidates": [
+      "Tosafot: Fall Damage",
+      "Damager's Obligation",
+      "Chav vs. Chayav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's derivation of liability for tree and wall damage from the common denominator of Ox and Pit, which directly relates to the mishna's conclusion about the damager's obligation (chav hamazik leshalem tashlumei nezek) \u2014 the logical step before that conclusion \u2014 not to Tosafot's discussion of fall damage or the linguistic analysis of 'chav' vs 'chayav'.",
+      "chosen_heading": "Damager's Obligation",
+      "current_heading": "Tosafot: Fall Damage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Chav vs. Chayav",
+    "candidates": [
+      "Damager's Obligation",
+      "Chav vs. Chayav",
+      "Meitav Sadeihu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the linguistic peculiarity of '\u1e25av' vs '\u1e25ayyav' and Rav Yehuda's explanation about the Jerusalemite tanna's light formulation, which matches exactly the prose under 'Chav vs. Chayav'.",
+      "chosen_heading": "Chav vs. Chayav",
+      "current_heading": "Chav vs. Chayav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Meitav Sadeihu",
+    "candidates": [
+      "Meitav Sadeihu",
+      "Yishmael: Nizak Standard",
+      "Akiva: Mazik Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yishmael's ruling that payment is measured against the best of the nizak's field and vineyard, which is precisely what candidate 1 ('Yishmael: Nizak Standard') describes in its prose.",
+      "chosen_heading": "Yishmael: Nizak Standard",
+      "current_heading": "Meitav Sadeihu",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Akiva: Mazik Standard",
+    "candidates": [
+      "Yishmael: Nizak Standard",
+      "Akiva: Mazik Standard",
+      "Initial Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Akiva's position about collecting from superior-quality land of the mazik and the kal vachomer for hekdesh, which matches exactly what the 'Akiva: Mazik Standard' section discusses.",
+      "chosen_heading": "Akiva: Mazik Standard",
+      "current_heading": "Akiva: Mazik Standard",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Initial Interpretation",
+    "candidates": [
+      "Initial Interpretation",
+      "Rav Idi Clarifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge to the initial severe reading of Rabbi Yishmael's position \u2014 that one always pays at the 'rich' rate even when a poor field was eaten \u2014 which is exactly what the 'Initial Interpretation' prose describes as the striking/untenable plain reading.",
+      "chosen_heading": "Initial Interpretation",
+      "current_heading": "Initial Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142
+    ],
+    "current_heading": "Rav Idi Clarifies",
+    "candidates": [
+      "Rav Idi Clarifies",
+      "Rava's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Idi bar Avin's clarification about the uncertain garden bed scenario, which is precisely what heading 0 ('Rav Idi Clarifies') discusses in its prose.",
+      "chosen_heading": "Rav Idi Clarifies",
+      "current_heading": "Rav Idi Clarifies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Rava's Objection",
+    "candidates": [
+      "Rava's Objection",
+      "Quality Comparison"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rava's objection invoking 'hamotzi mechavero alav hara'aya,' which is precisely what the prose under 'Rava's Objection' discusses in detail.",
+      "chosen_heading": "Rava's Objection",
+      "current_heading": "Rava's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      150,
+      151,
+      152
+    ],
+    "current_heading": "Quality Comparison",
+    "candidates": [
+      "Quality Comparison",
+      "Yishmael: Gezeira Shava",
+      "Akiva: Plain Reading"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Quality Comparison",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rav A\u1e25a bar Ya'akov's resolution and the core dispute between Rabbi Yishmael and Rabbi Akiva, which is exactly what the 'Quality Comparison' prose describes in detail.",
+      "second_heading": "Yishmael: Gezeira Shava",
+      "second_confidence": "high",
+      "second_reason": "Item 3 gives Rabbi Yishmael's gezeira shava derivation from the word 'sadeh,' which is precisely what the 'Yishmael: Gezeira Shava' prose discusses.",
+      "current_heading": "Quality Comparison",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "Akiva: Plain Reading",
+    "candidates": [
+      "Yishmael: Gezeira Shava",
+      "Akiva: Plain Reading",
+      "Equivalent Quality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Akiva's plain reading of 'meitav sadehu umeitav karmo yeshalem' as referring to the one who pays (the mazik), which is precisely what the 'Akiva: Plain Reading' prose section discusses.",
+      "chosen_heading": "Akiva: Plain Reading",
+      "current_heading": "Akiva: Plain Reading",
+      "moved": false
+    }
+  }
+]

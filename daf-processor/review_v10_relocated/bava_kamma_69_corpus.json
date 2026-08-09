@@ -1,0 +1,299 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Kinyanim & Ye'ush",
+    "candidates": [
+      "Kinyanim & Ye'ush",
+      "Shechita vs. Mechira",
+      "Mechira Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rabbi Yo\u1e25anan's ruling about consecrating stolen property when ye'ush has not yet occurred, which fits squarely under the 'Kinyanim & Ye'ush' heading that discusses ye'ush and its role in establishing ownership of stolen objects.",
+      "chosen_heading": "Kinyanim & Ye'ush",
+      "current_heading": "Kinyanim & Ye'ush",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Mechira Timing",
+    "candidates": [
+      "Shechita vs. Mechira",
+      "Mechira Timing",
+      "Keplal Exemption",
+      "Shomer Chinam",
+      "Cannot Sanctify",
+      "Marking Practice",
+      "Symbols Explained",
+      "RSBG Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items explain the symbolic logic behind the markers (orlah\u2192potsherds yield no benefit; graves\u2192lime is white like bones), which is precisely what the 'Symbols Explained' prose section describes.",
+      "chosen_heading": "Symbols Explained",
+      "current_heading": "Mechira Timing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "RSBG Position",
+    "candidates": [
+      "Keplal Exemption",
+      "Shomer Chinam",
+      "Cannot Sanctify",
+      "Marking Practice",
+      "Symbols Explained",
+      "RSBG Position",
+      "Ethical Obligation",
+      "Chasidim Extra"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabban Shimon ben Gamliel's qualification that marking is only required during shmitta (item 1) and the reason why marking is unnecessary during other years \u2014 the haliteihu principle (item 2) \u2014 which is precisely what the 'RSBG Position' prose describes.",
+      "chosen_heading": "RSBG Position",
+      "current_heading": "RSBG Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Chasidim Extra",
+    "candidates": [
+      "Ethical Obligation",
+      "Chasidim Extra",
+      "Challenge to RY"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the tzenuim would do \u2014 set aside coins and declare the kerem revai desacralized onto them \u2014 which matches precisely the prose of 'Chasidim Extra' (candidate 1), not the challenge to Rabbi Yochanan in candidate 2.",
+      "chosen_heading": "Chasidim Extra",
+      "current_heading": "Chasidim Extra",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Challenge to RY",
+    "candidates": [
+      "Challenge to RY",
+      "Breira Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous argument challenging Rabbi Yochanan \u2014 item 1 raises the possibility that the tzenuim passage is Rabban Shimon ben Gamliel's individual opinion (not a stam mishna), and item 2 immediately refutes that escape route by citing Rabbi Yochanan's own rule that halakha follows Rabban Shimon ben Gamliel \u2014 exactly the challenge described in heading 0's prose.",
+      "chosen_heading": "Challenge to RY",
+      "current_heading": "Challenge to RY",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Breira Solution",
+    "candidates": [
+      "Breira Solution",
+      "RY No Breira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the breira resolution \u2014 the reinterpretation of the tzenuim's declaration from past to future tense, the challenge from Rabbi Yochanan's equation of tzenuim with Rabbi Dosa, and the baraita showing Rabbi Dosa's evening declaration \u2014 which is precisely what the 'Breira Solution' prose discusses, including the parallel to Rabbi Dosa's le'itotei erev ruling.",
+      "chosen_heading": "Breira Solution",
+      "current_heading": "Breira Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "RY No Breira",
+    "candidates": [
+      "RY No Breira",
+      "Other Stam",
+      "Impaired Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items deal with the gemara's debate over reversing the baraita (Rabbi Yehuda vs Rabbi Dosa), the proof that Rabbi Yehuda does not hold breira from the wine-purchasing mishna, and the resulting contradiction in Rabbi Yochanan's own positions regarding breira \u2014 exactly the content described in the 'RY No Breira' prose section.",
+      "chosen_heading": "RY No Breira",
+      "current_heading": "RY No Breira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Impaired Rights",
+    "candidates": [
+      "Other Stam",
+      "Impaired Rights",
+      "Abaye View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain \u2014 retraction, the second-thief mishna, the derived principle (zeh lefi she'eino shelo), the question of why follow that stam, and the supporting verse \u2014 which is precisely the content described in candidate 0's prose about Rabbi Yochanan finding the other stam mishna and deriving the reshut principle.",
+      "chosen_heading": "Other Stam",
+      "current_heading": "Impaired Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Abaye View",
+    "candidates": [
+      "Impaired Rights",
+      "Abaye View",
+      "Rava View",
+      "Redemption Kodesh",
+      "Ma'aser Precedent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Abaye's elaboration on why the tzenuim and Rabbi Dosa would not necessarily accept each other's rulings \u2014 exactly the content described in the 'Abaye View' prose about motivational differences between the ganav and aniyim cases.",
+      "chosen_heading": "Abaye View",
+      "current_heading": "Abaye View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Ma'aser Precedent",
+    "candidates": [
+      "Rava View",
+      "Redemption Kodesh",
+      "Ma'aser Precedent",
+      "KR-Ma'aser Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form Rava's single argument: he introduces his alternative claim (item 1) that the tzenuim's ruling follows Rabbi Meir, then explains why Rabbi Meir's view (ma'aser is mammon gavoha yet the Torah treats the owner as owner for redemption, items 2-3) makes the tzenuim case non-contradictory \u2014 exactly what the 'Rava View' prose describes.",
+      "chosen_heading": "Rava View",
+      "current_heading": "Ma'aser Precedent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "KR-Ma'aser Link",
+    "candidates": [
+      "Ma'aser Precedent",
+      "KR-Ma'aser Link",
+      "Redemption vs. Mafkir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute exactly the gezeira shava between kerem revai and ma'aser sheni via the word 'kodesh,' and the derivation that the owner has standing to desacralize even fruit not fully his \u2014 precisely the content described in the 'KR-Ma'aser Link' prose.",
+      "chosen_heading": "KR-Ma'aser Link",
+      "current_heading": "KR-Ma'aser Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Redemption vs. Mafkir",
+    "candidates": [
+      "Redemption vs. Mafkir",
+      "ID as Dosa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the principle that mafkir requires the object to be in one's possession ('ki itei birshuto hu d'matzei mafkir lei'), which is the exact Aramaic quoted and analyzed in the 'Redemption vs. Mafkir' prose section.",
+      "chosen_heading": "Redemption vs. Mafkir",
+      "current_heading": "Redemption vs. Mafkir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "ID as Dosa",
+    "candidates": [
+      "ID as Dosa",
+      "Stam Yachida",
+      "Logic from Keplal",
+      "Ownership Rights",
+      "Gemara Extends",
+      "Process Difference",
+      "Full Control Need",
+      "Ye'ush Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly what the 'ID as Dosa' prose discusses: Ravina's suggestion that he would have identified the tzenuim as Rabbi Dosa himself to avoid a difficulty for Rabbi Yochanan, which matches the current placement precisely.",
+      "chosen_heading": "ID as Dosa",
+      "current_heading": "ID as Dosa",
+      "moved": false
+    }
+  }
+]

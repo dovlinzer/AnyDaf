@@ -1,0 +1,397 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rabbi Eliezer Case",
+    "candidates": [
+      "Lo Titgodedu Review",
+      "Rava's Radical Position",
+      "Mishna Challenge",
+      "Rabbi Eliezer Case",
+      "Rabbi Yosi HaGelili",
+      "Eliezer vs Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 cutting trees on Shabbat for charcoal to forge iron for milah in Rabbi Eliezer's locale, and eating poultry in milk in Rabbi Yosi HaGelili's locale \u2014 is precisely what heading 3 ('Rabbi Eliezer Case') describes, and the current placement is correct.",
+      "chosen_heading": "Rabbi Eliezer Case",
+      "current_heading": "Rabbi Eliezer Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Eliezer vs Akiva",
+    "candidates": [
+      "Rabbi Yosi HaGelili",
+      "Eliezer vs Akiva",
+      "Shabbat Gravity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rabbi Akiva's principle that melachah performable before Shabbat does not override Shabbat, which is precisely what the 'Eliezer vs Akiva' section's prose describes and analyzes.",
+      "chosen_heading": "Eliezer vs Akiva",
+      "current_heading": "Eliezer vs Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Shabbat Gravity",
+    "candidates": [
+      "Shabbat Gravity",
+      "Lamp at Levi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Gemara's question about why the baraita poses a challenge and the answer that Shabbat's severity might have made one think all places are treated as one \u2014 exactly what the 'Shabbat Gravity' prose describes.",
+      "chosen_heading": "Shabbat Gravity",
+      "current_heading": "Shabbat Gravity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Lamp at Levi",
+    "candidates": [
+      "Lamp at Levi",
+      "Lamp at Yochanan",
+      "Deference Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes both aspects of Rabbi Abbahu's behavior (carrying at Rabbi Yehoshua ben Levi's place and not carrying at Rabbi Yo\u1e25anan's place) in a single unit, and the current heading 'Lamp at Levi' is where this combined passage sits, which is appropriate as it introduces the full episode.",
+      "chosen_heading": "Lamp at Levi",
+      "current_heading": "Lamp at Levi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Deference Solution",
+    "candidates": [
+      "Lamp at Yochanan",
+      "Deference Solution",
+      "Mishna Statement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the question of how Rabbi Abbahu could act differently in two places, and the resolution \u2014 he followed Rabbi Yehoshua ben Levi but deferred to Rabbi Yochanan in his locale, and informed his attendant \u2014 is precisely what the 'Deference Solution' prose describes.",
+      "chosen_heading": "Deference Solution",
+      "current_heading": "Deference Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Mishna Statement",
+    "candidates": [
+      "Mishna Statement",
+      "Two Explanations",
+      "Asymmetric Fear",
+      "Lav vs. Kares",
+      "Mamzerim Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the two-sided logical argument (if they did not act vs. if they did act, why didn't they refrain) that candidate 1 'Two Explanations' describes in its prose.",
+      "chosen_heading": "Two Explanations",
+      "current_heading": "Mishna Statement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Mamzerim Problem",
+    "candidates": [
+      "Two Explanations",
+      "Asymmetric Fear",
+      "Lav vs. Kares",
+      "Mamzerim Problem",
+      "Shammai Kept Stance",
+      "Demodiim Lehu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage works through exactly why Beit Shammai had less to fear (lav, not karet) and why Beit Hillel had more to fear (karet, mamzeirus), which is precisely what the 'Lav vs. Kares' prose describes, including the Rabbi Elazar ruling \u2014 all of this content appears in candidate 2's prose, whereas candidate 3 ('Mamzerim Problem') summarizes this material as already explained rather than being the home of the Gemara text itself.",
+      "chosen_heading": "Lav vs. Kares",
+      "current_heading": "Mamzerim Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Demodiim Lehu",
+    "candidates": [
+      "Shammai Kept Stance",
+      "Demodiim Lehu",
+      "Tumat Tahara"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's answer that they would inform each other (demodei lehu ufarshi), which is exactly what candidate 1 'Demodiim Lehu' discusses as its central topic.",
+      "chosen_heading": "Demodiim Lehu",
+      "current_heading": "Demodiim Lehu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Tumat Tahara",
+    "candidates": [
+      "Tumat Tahara",
+      "Love and Friendship",
+      "Information Exchange",
+      "Yerushalmi Challenge",
+      "Divine Providence",
+      "Legal Fictions",
+      "Elazar Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous Gemara passage about the ritual purity/impurity proof (seipha) and why both proofs are needed, which is precisely what the 'Tumat Tahara' section's prose describes.",
+      "chosen_heading": "Tumat Tahara",
+      "current_heading": "Tumat Tahara",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Elazar Agreement",
+    "candidates": [
+      "Love and Friendship",
+      "Information Exchange",
+      "Yerushalmi Challenge",
+      "Divine Providence",
+      "Legal Fictions",
+      "Elazar Agreement",
+      "Concession Question",
+      "Shammai Concedes",
+      "Akiva Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question of who concedes to whom ('maan modin') and begins exploring the obvious answer that Beit Shammai conceding to Beit Hillel is trivial (pshita), which is precisely what heading 6 ('Concession Question') describes.",
+      "chosen_heading": "Concession Question",
+      "current_heading": "Elazar Agreement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Akiva Excluded",
+    "candidates": [
+      "Concession Question",
+      "Shammai Concedes",
+      "Akiva Excluded",
+      "Two Scenarios"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shammai Concedes",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's objection that 'ella Beit Hillel le'Beit Shammai' leads to karet liability \u2014 exactly the reasoning described in the 'Shammai Concedes' prose about the Gemara concluding it must be Beit Hillel conceding to Beit Shammai.",
+      "second_heading": "Akiva Excluded",
+      "second_confidence": "high",
+      "second_reason": "Item 2 resolves the question by explaining the real chiddush is 'le'afukei mid'Rabbi Akiva,' which is precisely what the 'Akiva Excluded' prose describes.",
+      "current_heading": "Akiva Excluded",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Two Scenarios",
+    "candidates": [
+      "Two Scenarios",
+      "Shimon's Position",
+      "Asymmetry Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers exactly what candidate 0's prose describes: the braita listing the disputes (tzaros, sisters, get yashan, safek eishet ish, inn case, kesef/kiddushin), the conclusion that neither house refrained from intermarriage, and Rabbi Shimon's qualification about vadai vs. safek \u2014 all of which candidate 0 discusses in detail, including the kiddushin asymmetry and the closing verse about truth and peace.",
+      "chosen_heading": "Two Scenarios",
+      "current_heading": "Two Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "current_heading": "Asymmetry Explained",
+    "candidates": [
+      "Shimon's Position",
+      "Asymmetry Explained",
+      "Stam Cases",
+      "Mutual Trust",
+      "Shimon Authorship"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Asymmetry Explained",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 directly address the asymmetry between why Beit Hillel refrained from Beit Shammai (mamzerim) and why Beit Shammai refrained from Beit Hillel (the tzara herself), resolved via Rav Nachman bar Yitzchak's principle \u2014 exactly what candidate 1 'Asymmetry Explained' describes.",
+      "second_heading": "Stam Cases",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 address the problem of safek vs. stam and the resolution that lo teima min ha'safek ela eima min ha'stam, with mutual disclosure (demodeu lehu parshi) \u2014 exactly what candidate 2 'Stam Cases' describes.",
+      "current_heading": "Asymmetry Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Shimon Authorship",
+    "candidates": [
+      "Stam Cases",
+      "Mutual Trust",
+      "Shimon Authorship",
+      "Nuri's Question",
+      "Mutual Problems"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks what the clause about 'affection and camaraderie' adds beyond the first clause, then answers that it establishes the entire baraita as Rabbi Shimon's \u2014 which is precisely the content of the 'Mutual Trust' section's prose about the chiddush of 'she'chibah ve're'ut nohagim zeh bazeh' as the halachic foundation for trust, before the 'Shimon Authorship' section takes over to discuss the implications of that attribution.",
+      "chosen_heading": "Mutual Trust",
+      "current_heading": "Shimon Authorship",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Mutual Problems",
+    "candidates": [
+      "Nuri's Question",
+      "Mutual Problems",
+      "Chalitzah Solution",
+      "Failed Completion",
+      "Earlier Tzarot"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Nuri's Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Yochanan ben Nuri's question about how the halacha should be propagated and the mutual problems of each ruling, matching heading 0 ('Nuri's Question') and heading 1 ('Mutual Problems') \u2014 but since item 1 covers both the framing question AND the mutual problems, and heading 0's prose explicitly describes this framing/question while heading 1 covers the mutual problems content, item 1 best fits heading 0 as it introduces the question that drives the entire discussion.",
+      "second_heading": "Chalitzah Solution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the proposed chalitzah solution and the failure to finalize it, which maps precisely to heading 2 ('Chalitzah Solution') whose prose discusses the bo'u ve'nesaken proposal, and the failure note aligns with heading 3 ('Failed Completion') \u2014 but since the chalitzah proposal and the failure to complete it are a single continuous unit, heading 2 is the better fit as it encompasses both the solution and notes the subsequent discussion.",
+      "current_heading": "Mutual Problems",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      141,
+      142,
+      143
+    ],
+    "current_heading": "Earlier Tzarot",
+    "candidates": [
+      "Chalitzah Solution",
+      "Failed Completion",
+      "Earlier Tzarot",
+      "No Problem If Followed",
+      "Tzara Problem",
+      "Human Cost",
+      "Pleasantness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly address Rabban Shimon ben Gamliel's objection about the earlier tzarot and the Gemara's analysis of what 'what shall we do' means \u2014 exactly what the 'Earlier Tzarot' prose section describes, including the Gemara's sharpening of the question about whether Beit Shammai acted on its ruling.",
+      "chosen_heading": "Earlier Tzarot",
+      "current_heading": "Earlier Tzarot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Pleasantness",
+    "candidates": [
+      "No Problem If Followed",
+      "Tzara Problem",
+      "Human Cost",
+      "Pleasantness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage specifically discusses how requiring \u1e25alitza would make women repulsive to their husbands (mi masya gavreihu), which is the precise human cost described in candidate 2's prose, before invoking darchei noam as the reason this cost matters \u2014 the current placement under 'Pleasantness' skips over the logical home in 'Human Cost' where the husband finding her repulsive is the central topic.",
+      "chosen_heading": "Human Cost",
+      "current_heading": "Pleasantness",
+      "moved": true
+    }
+  }
+]

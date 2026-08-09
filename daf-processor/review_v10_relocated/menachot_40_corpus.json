@@ -1,0 +1,207 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Contradictory Teachings",
+    "candidates": [
+      "Wool & Linen Only",
+      "Contradictory Teachings",
+      "Practical Stringency",
+      "Ashkenazi/Sephardi",
+      "Beit Shammai vs. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Na\u1e25man citing the Tana Debei Rabbi Yishmael, the teaching that 'beged' means wool or linen, and Abaye's note about the contradictory teaching \u2014 are the exact content described in candidate 0 ('Wool & Linen Only'), which explicitly discusses Rav Nachman, the Tana Debei Rabbi Yishmael's derivation, and the af kol tzemer u'pishtim conclusion, while candidate 1 ('Contradictory Teachings') describes Abaye's objection in its prose but the passage as a whole (items 1\u20133) forms one continuous unit better matched by the heading that introduces the entire topic starting with Rav Na\u1e25man.",
+      "chosen_heading": "Wool & Linen Only",
+      "current_heading": "Contradictory Teachings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Beit Shammai vs. Hillel",
+    "candidates": [
+      "Practical Stringency",
+      "Ashkenazi/Sephardi",
+      "Beit Shammai vs. Hillel",
+      "Techelet Requirement",
+      "Rashi's Explanations",
+      "Rabbinic Authority",
+      "Jerusalem Practice",
+      "Ignorance Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Beit Shammai vs. Hillel",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita presenting the Beit Shammai/Beit Hillel dispute and ruling, which is precisely what the 'Beit Shammai vs. Hillel' prose discusses.",
+      "second_heading": "Jerusalem Practice",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Eliezer ben Rabbi Tzadok's observation about Jerusalem practice, which matches exactly the 'Jerusalem Practice' prose section discussing how even according to Beit Hillel, placing techelet in a linen garment in Jerusalem caused astonishment.",
+      "current_heading": "Beit Shammai vs. Hillel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Ignorance Problem",
+    "candidates": [
+      "Techelet Requirement",
+      "Rashi's Explanations",
+      "Rabbinic Authority",
+      "Jerusalem Practice",
+      "Ignorance Problem",
+      "Public Demonstration",
+      "Demonstration Fails",
+      "Teaching Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehuda HaNasi's statement asking why the Sages prohibited linen garments with tzitzit if it is permitted, answered by 'because people are not well versed' \u2014 which is precisely what the 'Ignorance Problem' section's prose discusses.",
+      "chosen_heading": "Ignorance Problem",
+      "current_heading": "Ignorance Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Teaching Solution",
+    "candidates": [
+      "Public Demonstration",
+      "Demonstration Fails",
+      "Teaching Solution",
+      "Kala Ilan Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava bar Rav Chana's proposal to have ten people go to the marketplace to publicize the matter, which directly matches the 'Public Demonstration' section's prose, not the 'Teaching Solution' section where it currently sits.",
+      "chosen_heading": "Public Demonstration",
+      "current_heading": "Teaching Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Kala Ilan Concern",
+    "candidates": [
+      "Teaching Solution",
+      "Kala Ilan Concern",
+      "No Techelet = Shatnez"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both the teaching proposal ('let them teach during the public lecture') and the kala ilan answer as a unit, and the 'Teaching Solution' prose explicitly describes this exact exchange \u2014 including the kala ilan answer as the ultimate response to why teaching alone is insufficient \u2014 making it the natural home for this combined question-and-answer passage.",
+      "chosen_heading": "Teaching Solution",
+      "current_heading": "Kala Ilan Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "No Techelet = Shatnez",
+    "candidates": [
+      "No Techelet = Shatnez",
+      "Tosafot's View",
+      "Rejected Solutions",
+      "Testing Invalidates"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the question of whether invalid techelet strings can be treated as white strings and the Reish Lakish principle invoked to reject that \u2014 exactly what the 'No Techelet = Shatnez' prose describes.",
+      "chosen_heading": "No Techelet = Shatnez",
+      "current_heading": "No Techelet = Shatnez",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Testing Invalidates",
+    "candidates": [
+      "Tosafot's View",
+      "Rejected Solutions",
+      "Testing Invalidates",
+      "Holiday Announcements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the 'let them test' proposal (u'livdeki) and the rejection via 'gezeirah mishum ta'ama,' which corresponds precisely to the 'Rejected Solutions' section's prose describing these exact two moves \u2014 the inspection proposal and its rejection due to the testing-invalidation concern.",
+      "chosen_heading": "Rejected Solutions",
+      "current_heading": "Testing Invalidates",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Holiday Announcements",
+    "candidates": [
+      "Testing Invalidates",
+      "Holiday Announcements",
+      "Tearing & Sewing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rava's argument about relying on letters/notices, using the analogy of Passover/Yom Kippur calendar announcements \u2014 exactly the content described in the 'Holiday Announcements' prose.",
+      "chosen_heading": "Holiday Announcements",
+      "current_heading": "Holiday Announcements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Tearing & Sewing",
+    "candidates": [
+      "Tearing & Sewing",
+      "Three Tefachim",
+      "Shatnez Transgression",
+      "Shammai/Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's answer about the concern of tearing and sewing (shema yikara) and the ta'aseh velo min ha'asuy principle, which is precisely what the 'Tearing & Sewing' section's prose discusses.",
+      "chosen_heading": "Tearing & Sewing",
+      "current_heading": "Tearing & Sewing",
+      "moved": false
+    }
+  }
+]

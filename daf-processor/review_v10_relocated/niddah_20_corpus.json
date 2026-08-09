@@ -1,0 +1,659 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Rav Yehuda: Slaughter",
+    "candidates": [
+      "Intro: Base Red",
+      "Rav Yehuda: Slaughter",
+      "Why Specify Wound"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Yehuda/Shmuel's statement that 'wound blood' means 'blood of a slaughtered ox,' which is precisely what the 'Rav Yehuda: Slaughter' section's prose describes and discusses.",
+      "chosen_heading": "Rav Yehuda: Slaughter",
+      "current_heading": "Rav Yehuda: Slaughter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Why Specify Wound",
+    "candidates": [
+      "Why Specify Wound",
+      "Alternate Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why the Mishnah uses 'blood of a wound' rather than 'blood of slaughter,' which is precisely what the 'Why Specify Wound' section's prose discusses.",
+      "chosen_heading": "Why Specify Wound",
+      "current_heading": "Why Specify Wound",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Alternate Views",
+    "candidates": [
+      "Alternate Views",
+      "Attribution Principle"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Alternate Views",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 (Ulla, Ze'eiri/Rabbi \u1e24anina, and Rabbi Abbahu's definitions) are all discussed in the 'Alternate Views' prose, which explicitly covers each of these three definitions in sequence.",
+      "second_heading": "Attribution Principle",
+      "second_confidence": "high",
+      "second_reason": "Item 4 raises the objection about attributing a stain to a husband (ba'alah), which is precisely the content discussed in the 'Attribution Principle' prose that addresses bishlama bivno/ella ba'alah and the resolution about chuppah without consummation.",
+      "current_heading": "Alternate Views",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Attribution Principle",
+    "candidates": [
+      "Attribution Principle",
+      "Bloodletting Red"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Na\u1e25man bar Yitz\u1e25ak's explanation about entering the chuppah without consummation, which is exactly what the prose under 'Attribution Principle' discusses in detail.",
+      "chosen_heading": "Attribution Principle",
+      "current_heading": "Attribution Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Bloodletting Red",
+    "candidates": [
+      "Bloodletting Red",
+      "First Red Narrowness",
+      "Bloodletter Demo"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Bloodletting Red",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rav Na\u1e25man's ruling and the objection from the baraita about Rabbi Meir and Rabbi Yehuda HaNasi attributing stains to eye salve and sycamore sap, which matches the 'Bloodletting Red' prose exactly.",
+      "second_heading": "First Red Narrowness",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's resolution ('No; to the other types of blood'), which matches the 'First Red Narrowness' prose that explicitly discusses 'lav ashar damim' and the conclusion that the first red remains narrowly defined.",
+      "current_heading": "Bloodletting Red",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Bloodletter Demo",
+    "candidates": [
+      "First Red Narrowness",
+      "Bloodletter Demo",
+      "Second Horn Different",
+      "Rav Ashi: Can't See",
+      "Charas & Ink"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the entire bloodletter episode including Ameimar's identification of the first red, the second horn's changed color, and Rav Ashi's admission \u2014 but the current placement under 'Bloodletter Demo' (index 1) is where the prose explicitly introduces this story, and the passage as a single unit best fits there since it covers the full narrative that begins with the bloodletter scene.",
+      "chosen_heading": "Bloodletter Demo",
+      "current_heading": "Bloodletter Demo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Charas & Ink",
+    "candidates": [
+      "Second Horn Different",
+      "Rav Ashi: Can't See",
+      "Charas & Ink",
+      "Liquid vs. Dry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the definition of 'shachor ke\u1e25eret' as ink (deyo) and clarifies whether it refers to the light upper portion or the dark sediment \u2014 precisely the content described in the 'Charas & Ink' section prose.",
+      "chosen_heading": "Charas & Ink",
+      "current_heading": "Charas & Ink",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Liquid vs. Dry",
+    "candidates": [
+      "Liquid vs. Dry",
+      "Darker Blacks Bad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the dilemma of moist vs. dry \u1e25eret and Rabbi Ami's practice of breaking dried ink pieces, which is exactly what the 'Liquid vs. Dry' section's prose discusses.",
+      "chosen_heading": "Liquid vs. Dry",
+      "current_heading": "Liquid vs. Dry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Darker Blacks Bad",
+    "candidates": [
+      "Darker Blacks Bad",
+      "Lighter Blacks OK",
+      "Siua Garments",
+      "Nomad Garment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Yehuda/Shmuel's ruling on darker blacks (tme'ah) and Rabbi Elazar's ruling on lighter blacks (tahor) as a unified Gemara segment, and the current heading 'Darker Blacks Bad' with its prose explicitly addresses both the Shmuel statement and the elaboration on the Mishnah's deeper-than-ink ruling, making it the best single home for this combined passage.",
+      "chosen_heading": "Darker Blacks Bad",
+      "current_heading": "Darker Blacks Bad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Nomad Garment",
+    "candidates": [
+      "Lighter Blacks OK",
+      "Siua Garments",
+      "Nomad Garment",
+      "Royal Garments",
+      "Yannai Shrouds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Ulla's visit to Pumbedita where he saw a black-garmented Arab and used it as a color reference for the Mishnah's black blood, which is precisely what the 'Nomad Garment' section's prose discusses.",
+      "chosen_heading": "Nomad Garment",
+      "current_heading": "Nomad Garment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Yannai Shrouds",
+    "candidates": [
+      "Royal Garments",
+      "Yannai Shrouds",
+      "White Cloth"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the challenge-and-resolution sequence (Rabbi Yannai's instruction vs. Rabbi Yo\u1e25anan's color standard, resolved by the garment/table-cloth distinction) that is precisely what the 'Yannai Shrouds' prose describes in full detail.",
+      "chosen_heading": "Yannai Shrouds",
+      "current_heading": "Yannai Shrouds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "White Cloth",
+    "candidates": [
+      "White Cloth",
+      "Red for Black",
+      "Reconciliation",
+      "Rav Ashi's Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yehuda/Shmuel's statement about white cloth and Rav Yitzchak bar Avudimi's statement about red cloth, but the 'White Cloth' section (index 0) is the one that discusses both statements together as a unit, whereas the subsequent headings address the reconciliation and further analysis \u2014 and since the passage quotes both statements as a single Talmudic unit introduced together, it belongs under the current heading where both are introduced.",
+      "chosen_heading": "White Cloth",
+      "current_heading": "White Cloth",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Rav Ashi's Q",
+    "candidates": [
+      "Red for Black",
+      "Reconciliation",
+      "Rav Ashi's Q",
+      "Ulla: Deeper Bad"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yirmeya of Difti's reconciliation ('they do not disagree') and Rav Ashi's objection and counter-statement, and the prose under heading 1 ('Reconciliation') explicitly covers both Rav Yirmiyah's resolution AND Rav Ashi's challenge and conclusion, making it the best single home for the entire passage.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Rav Ashi's Q",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Ulla: Deeper Bad",
+    "candidates": [
+      "Rav Ashi's Q",
+      "Ulla: Deeper Bad",
+      "Measure Utility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Ulla's ruling that deeper is impure and lighter is pure for all colors, and the Gemara's question about why black is singled out with Rabbi \u1e24anina's answer \u2014 are explicitly described in the prose of candidate 1 ('Ulla: Deeper Bad').",
+      "chosen_heading": "Ulla: Deeper Bad",
+      "current_heading": "Ulla: Deeper Bad",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Measure Utility",
+    "candidates": [
+      "Measure Utility",
+      "Rami: Precise Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Ami bar Abba's ruling that all colors are impure whether deeper or lighter (except black), raises the question of what purpose the rabbis' measures serve, and answers with 'lighter than lighter' \u2014 all of which is precisely what Candidate 0 ('Measure Utility') addresses in its prose.",
+      "chosen_heading": "Measure Utility",
+      "current_heading": "Measure Utility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Rami: Precise Only",
+    "candidates": [
+      "Rami: Precise Only",
+      "Bar Kappara",
+      "Wine Red Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the alternative version of Rami bar Abba's position stating that all colors except black are pure if lighter or deeper, which is precisely what the prose under 'Rami: Precise Only' describes.",
+      "chosen_heading": "Rami: Precise Only",
+      "current_heading": "Rami: Precise Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Wine Red Leniency",
+    "candidates": [
+      "Bar Kappara",
+      "Wine Red Leniency",
+      "Saffron Middle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Bar Kappara's ruling about all colors (deeper=tamei, lighter=tahor, except diluted wine), which is precisely what heading 0 ('Bar Kappara') describes, while the current placement under 'Wine Red Leniency' (index 1) covers only the testing narrative and Rabbi \u1e24anina's praise \u2014 yet the passage contains both the ruling and the test as a single unit that belongs under the Bar Kappara heading.",
+      "chosen_heading": "Bar Kappara",
+      "current_heading": "Wine Red Leniency",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Saffron Middle",
+    "candidates": [
+      "Wine Red Leniency",
+      "Saffron Middle",
+      "Reconcile 4 Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address the saffron (karkom) color \u2014 item 1 is the baraita about moist vs. dry, and item 2 is the four contradictory baraitot about upper vs. lower parts \u2014 which is precisely what the 'Saffron Middle' prose describes before the reconciliation in 'Reconcile 4 Views'.",
+      "chosen_heading": "Saffron Middle",
+      "current_heading": "Saffron Middle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Reconcile 4 Views",
+    "candidates": [
+      "Reconcile 4 Views",
+      "Saffron Fresh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Abaye's reconciliation of the four baraitot using the three layers/three leaves framework, which is precisely what the 'Reconcile 4 Views' prose describes.",
+      "chosen_heading": "Reconcile 4 Views",
+      "current_heading": "Reconcile 4 Views",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Saffron Fresh",
+    "candidates": [
+      "Saffron Fresh",
+      "Water-Earth Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is specifically about Rabbi Abbahu's ruling that the saffron color standard applies only when saffron is still in its clumps of earth, which is exactly what the 'Saffron Fresh' section's prose discusses.",
+      "chosen_heading": "Saffron Fresh",
+      "current_heading": "Saffron Fresh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Water-Earth Test",
+    "candidates": [
+      "Water-Earth Test",
+      "Mixing Procedure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the initial baraita introducing the water-earth color standard and the dispute about which valley's earth to use, which is exactly what the 'Water-Earth Test' section's prose describes, not the 'Mixing Procedure' section which covers a second baraita about the detailed mixing procedure.",
+      "chosen_heading": "Water-Earth Test",
+      "current_heading": "Water-Earth Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Mixing Procedure",
+    "candidates": [
+      "Mixing Procedure",
+      "Chanina Bold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items (the baraita on the mixing procedure, the dilemma about stirring by hand vs. vessel, and the teiku resolution) are explicitly discussed in the 'Mixing Procedure' prose, which covers exactly this baraita and the unresolved question about stirring with a finger or vessel.",
+      "chosen_heading": "Mixing Procedure",
+      "current_heading": "Mixing Procedure",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Chanina Bold",
+    "candidates": [
+      "Chanina Bold",
+      "Yochanan Quits",
+      "Eleazar Continues",
+      "Responsibility Balance",
+      "Zeira No Science"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rabbi Chanina's method of examining blood with a clump of earth and Rabbi Yishmael's curse/caveat that only Rabbi Chanina is wise enough to do this \u2014 exactly the content described in the 'Chanina Bold' prose.",
+      "chosen_heading": "Chanina Bold",
+      "current_heading": "Chanina Bold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130,
+      131
+    ],
+    "current_heading": "Zeira No Science",
+    "candidates": [
+      "Yochanan Quits",
+      "Eleazar Continues",
+      "Responsibility Balance",
+      "Zeira No Science",
+      "Rabba/Rava Case",
+      "Why Master"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Eleazar Continues",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi Yochanan/Rabbi Elazar's opposing reactions to Rabbi Chanina and Rabbi Zeira's statement about Babylonian nature \u2014 all three are individual Amoraim giving reasons for their personal practice, matching headings 0-3, but items 1-2 together span the Yochanan/Eleazar exchange and Zeira's statement which are discussed under headings 0-3, while the current placement under 'Zeira No Science' fits items 1-2 poorly since heading 0 ('Yochanan Quits') and heading 1 ('Eleazar Continues') already cover those; actually all three items together form one continuous chain \u2014 but item 3 is the Gemara's challenge-and-answer about Rabba, which matches heading 4 ('Rabba/Rava Case') perfectly.",
+      "second_heading": "Rabba/Rava Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's objection and resolution regarding Rabba's knowledge of Babylonian nature versus blood inspection, which is precisely what heading 4 ('Rabba/Rava Case') discusses.",
+      "current_heading": "Zeira No Science",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Why Master",
+    "candidates": [
+      "Rabba/Rava Case",
+      "Why Master",
+      "Smells Desire"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Ulla's arrival at Pumbedita and his refusal to inspect blood out of deference to local authority, which is precisely what the 'Why Master' section's prose discusses.",
+      "chosen_heading": "Why Master",
+      "current_heading": "Why Master",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      141
+    ],
+    "current_heading": "Smells Desire",
+    "candidates": [
+      "Smells Desire",
+      "Ami Verifies",
+      "God's Secret",
+      "Queen Mother Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Elazar smelling the blood, declaring it dam chimud, and Rabbi Ami verifying the ruling \u2014 all content that spans headings 0, 1, and 2, but the current placement under 'Smells Desire' is the correct home as the passage is a single unified Gemara excerpt that introduces the entire incident, and the essay prose at heading 0 directly discusses archei (smelling), dam chimud, and the halachic significance \u2014 the best match for this passage's content.",
+      "chosen_heading": "Smells Desire",
+      "current_heading": "Smells Desire",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Queen Mother Test",
+    "candidates": [
+      "Ami Verifies",
+      "God's Secret",
+      "Queen Mother Test",
+      "60 Samples",
+      "59 Right, 1 Trick"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Ifera Hurmiz sending blood to Rava, Rav Ovadya sitting before him, Rava smelling the blood and declaring it 'blood of desire,' and the queen mother's initial reaction followed by her son's skepticism \u2014 exactly matching the 'Queen Mother Test' section's prose about this same sequence of events.",
+      "chosen_heading": "Queen Mother Test",
+      "current_heading": "Queen Mother Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "59 Right, 1 Trick",
+    "candidates": [
+      "60 Samples",
+      "59 Right, 1 Trick",
+      "Queen's Praise",
+      "First Drop Withheld"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava receiving and evaluating sixty blood samples, which matches the '60 Samples' heading's prose about Ifera Hurmiz sending sixty different blood samples to test him, rather than the '59 Right, 1 Trick' heading which focuses on the outcome and resolution.",
+      "chosen_heading": "60 Samples",
+      "current_heading": "59 Right, 1 Trick",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      164
+    ],
+    "current_heading": "First Drop Withheld",
+    "candidates": [
+      "Queen's Praise",
+      "First Drop Withheld",
+      "Smelly Drop",
+      "Only Uncertain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yehuda's account of inspecting blood and his wife's disclosure about withholding the first drop, which precisely matches the 'First Drop Withheld' section's prose discussing the same narrative elements.",
+      "chosen_heading": "First Drop Withheld",
+      "current_heading": "First Drop Withheld",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      169
+    ],
+    "current_heading": "Only Uncertain",
+    "candidates": [
+      "Smelly Drop",
+      "Only Uncertain",
+      "Conflicting Rulings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rav Yehuda's continued willingness to examine blood in the yoledes case (bein tamei le'tahor vadai chazina), which is precisely what the 'Only Uncertain' section's prose discusses.",
+      "chosen_heading": "Only Uncertain",
+      "current_heading": "Only Uncertain",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      173,
+      174,
+      175
+    ],
+    "current_heading": "Conflicting Rulings",
+    "candidates": [
+      "Conflicting Rulings",
+      "Overrule Q",
+      "First Ruling Known",
+      "Eye Problem Hint",
+      "Not to Nachman",
+      "Tosafot Why"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete Yalta episode \u2014 the initial conflicting rulings, the baraita objection, and the resolution \u2014 which is exactly what the 'Conflicting Rulings' prose introduces and frames, making the current placement correct.",
+      "chosen_heading": "Conflicting Rulings",
+      "current_heading": "Conflicting Rulings",
+      "moved": false
+    }
+  }
+]

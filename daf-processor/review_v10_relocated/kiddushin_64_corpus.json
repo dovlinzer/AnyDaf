@@ -1,0 +1,270 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Woman vs. Father",
+    "candidates": [
+      "Capital Punishment Query",
+      "Rav: No Execution",
+      "Rav Assi: Yes Execution",
+      "Woman vs. Father",
+      "Resolving Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the full dilemma and its initial dispute about stoning based on the father's testimony \u2014 exactly what heading 0 ('Capital Punishment Query') introduces, covering the question (item 1), Rav's and Rav Asi's positions with Rav Asi's concession (item 2), and Rav Asi's self-reflective 'roof-breaker' argument (item 3), all of which flow as one continuous unit from the opening dilemma.",
+      "chosen_heading": "Capital Punishment Query",
+      "current_heading": "Woman vs. Father",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Resolving Contradiction",
+    "candidates": [
+      "Woman vs. Father",
+      "Resolving Contradiction",
+      "Rav Chisda Alternative",
+      "Age & Sacrifice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states 'v'lo hee' and explains that the Torah trusted the father but not the woman, which is precisely the resolution of the contradiction described in the 'Resolving Contradiction' section's prose.",
+      "chosen_heading": "Resolving Contradiction",
+      "current_heading": "Resolving Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Age & Sacrifice",
+    "candidates": [
+      "Rav Chisda Alternative",
+      "Age & Sacrifice",
+      "Adolescence Status",
+      "Past Marriage Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav \u1e24isda's ruling about stoning, his principle about a father's credibility for a minor's age regarding korban vs. punishments, and the supporting baraita about a father declaring majority ages \u2014 are precisely the content described in candidate 1's prose, which is the current placement.",
+      "chosen_heading": "Age & Sacrifice",
+      "current_heading": "Age & Sacrifice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Past Marriage Claim",
+    "candidates": [
+      "Adolescence Status",
+      "Past Marriage Claim",
+      "Captivity Claim",
+      "Present Capacity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself presenting all three cases (betrothal while minor/still minor, betrothal while minor/now adult, captivity), and candidate 1's prose explicitly describes this mishnah's content including all three scenarios, making it the correct home for this text.",
+      "chosen_heading": "Past Marriage Claim",
+      "current_heading": "Past Marriage Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Present Capacity",
+    "candidates": [
+      "Captivity Claim",
+      "Present Capacity",
+      "Control Analysis",
+      "Chalal Marriage",
+      "Chalal Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Present Capacity",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's question and answer about 'mai shna reisha umai shna seifa' \u2014 the biyado distinction \u2014 which is precisely what candidate 1 'Present Capacity' describes.",
+      "second_heading": "Chalal Marriage",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the chalal objection to the biyado framework, which is exactly what candidate 3 'Chalal Marriage' describes in its prose.",
+      "current_heading": "Present Capacity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Chalal Resolution",
+    "candidates": [
+      "Control Analysis",
+      "Chalal Marriage",
+      "Chalal Resolution",
+      "Mamzer Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's response about Rabbi Dostai ben Yehuda resolving the chalal challenge, which directly matches the 'Chalal Resolution' section's prose describing exactly this answer.",
+      "chosen_heading": "Chalal Resolution",
+      "current_heading": "Chalal Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Mamzer Marriage",
+    "candidates": [
+      "Mamzer Marriage",
+      "Rav Ashi Reframe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items continue the same chain of challenges and responses about whether the father has 'biyado' power to disqualify his daughter \u2014 mamzer, almanah to Kohen Gadol, Rabbi Yeshevav's view, and the issur asei complication \u2014 exactly as described in the 'Mamzer Marriage' prose.",
+      "chosen_heading": "Mamzer Marriage",
+      "current_heading": "Mamzer Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rav Ashi Reframe",
+    "candidates": [
+      "Rav Ashi Reframe",
+      "Torah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's rejection of the biyado framework with both objections (divorce not in father's power, groom's consent required), which is precisely what the prose under 'Rav Ashi Reframe' describes.",
+      "chosen_heading": "Rav Ashi Reframe",
+      "current_heading": "Rav Ashi Reframe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Torah Source",
+    "candidates": [
+      "Torah Source",
+      "Limited Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's explanation that the father is believed because the Torah granted him credibility, with the specific verse analysis (la-ish asrah / hazeh hitirah), which is exactly what the 'Torah Source' prose describes.",
+      "chosen_heading": "Torah Source",
+      "current_heading": "Torah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Limited Scope",
+    "candidates": [
+      "Limited Scope",
+      "Sons Claim",
+      "Brothers Claim",
+      "Permit Not Forbid",
+      "Not Rabbi Nathan",
+      "Contradictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that the Torah believed the father regarding marriage but not captivity, which is precisely what the 'Limited Scope' section's prose discusses and quotes verbatim.",
+      "chosen_heading": "Limited Scope",
+      "current_heading": "Limited Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Contradictions",
+    "candidates": [
+      "Sons Claim",
+      "Brothers Claim",
+      "Permit Not Forbid",
+      "Not Rabbi Nathan",
+      "Contradictions",
+      "Rabbi's Rule",
+      "Rabbi Nathan",
+      "Rava Harmony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text presents both the 'I have children' and 'I have brothers' declarations together as a single unit, but its primary subject \u2014 the dying man's claim about having children and being deemed credible \u2014 matches the 'Sons Claim' heading, which introduces this exact mishna and its content about deathbed declarations regarding sons exempting a widow from yibum.",
+      "chosen_heading": "Sons Claim",
+      "current_heading": "Contradictions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80
+    ],
+    "current_heading": "Rava Harmony",
+    "candidates": [
+      "Rabbi's Rule",
+      "Rabbi Nathan",
+      "Rava Harmony",
+      "Abaye Objection",
+      "Unresolved"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's opening inference from the mishna, the baraita introducing Rabbi/Rabbi Natan's dispute, and Rava's attempted harmonization with Abaye's objection \u2014 this entire chain begins with the question of whether the mishna follows Rabbi Natan and is best anchored under 'Rabbi's Rule' (candidate 0), which discusses Rabbi's position as the mishna's basis and how it relates to the baraita cases; candidates 2 and 3 cover only Rava and Abaye respectively, but the passage is a single continuous unit that starts before either of those sub-discussions.",
+      "chosen_heading": "Rabbi's Rule",
+      "current_heading": "Rava Harmony",
+      "moved": true
+    }
+  }
+]

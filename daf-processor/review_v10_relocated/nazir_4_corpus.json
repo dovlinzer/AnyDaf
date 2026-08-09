@@ -1,0 +1,378 @@
+[
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Miyayin Veshechar",
+    "candidates": [
+      "Nezirut Indivisible",
+      "Shimon: All or Nothing",
+      "Miyayin Veshechar",
+      "Yayin Mitzvah Issue",
+      "Nezirut as Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in the 'Miyayin Veshechar' prose: item 1 is the rejected suggestion about kiddush/havdalah wine (mushba ve'omed me'har sinai), and item 2 is Rava's case of the prior oath to drink wine being overridden by subsequent nezirut \u2014 exactly what that section's prose describes.",
+      "chosen_heading": "Miyayin Veshechar",
+      "current_heading": "Miyayin Veshechar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Nezirut as Status",
+    "candidates": [
+      "Yayin Mitzvah Issue",
+      "Nezirut as Status",
+      "Tziruf Concept"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's give-and-take about why 'veshechar' is needed beyond 'miyayin' \u2014 teaching two halakhot including yayin mitzvah \u2014 which is precisely what the 'Nezirut as Status' prose describes in its final sentences.",
+      "chosen_heading": "Nezirut as Status",
+      "current_heading": "Nezirut as Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Tziruf Concept",
+    "candidates": [
+      "Tziruf Concept",
+      "Kohen Application",
+      "Rabbi Yehuda: Shechar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains Rabbi Shimon's use of the verbal analogy (hekesh) between 'shechar' in the nazirite verse and 'shechar' in the Mikdash verse to limit the prohibition to wine only \u2014 exactly what the 'Tziruf Concept' prose describes as the gemara's resolution.",
+      "chosen_heading": "Tziruf Concept",
+      "current_heading": "Tziruf Concept",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rabbi Yehuda: Shechar",
+    "candidates": [
+      "Kohen Application",
+      "Rabbi Yehuda: Shechar",
+      "Shechar Wine-Based",
+      "Hora'ah Digression",
+      "No Double Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the baraita about Rabbi Yehuda's position on pressed figs, honey, and milk causing liability for entering the Temple, which is precisely what the 'Rabbi Yehuda: Shechar' section's prose describes and discusses.",
+      "chosen_heading": "Rabbi Yehuda: Shechar",
+      "current_heading": "Rabbi Yehuda: Shechar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "No Double Prohibition",
+    "candidates": [
+      "Shechar Wine-Based",
+      "Hora'ah Digression",
+      "No Double Prohibition",
+      "Neveila/YK Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states that Rabbi Shimon does not accept the principle of isur chal al isur, which is exactly what the 'No Double Prohibition' section's prose discusses as an alternative explanation for Rabbi Shimon's use of the verse.",
+      "chosen_heading": "No Double Prohibition",
+      "current_heading": "No Double Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Neveila/YK Case",
+    "candidates": [
+      "Neveila/YK Case",
+      "Oath vs. Nezirut",
+      "Combining Products"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Shimon about eating neveila on Yom Kippur, which is precisely what the prose under 'Neveila/YK Case' discusses and analyzes.",
+      "chosen_heading": "Neveila/YK Case",
+      "current_heading": "Neveila/YK Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Combining Products",
+    "candidates": [
+      "Oath vs. Nezirut",
+      "Combining Products",
+      "Kol Shehu L'Malkos",
+      "Shiur for Korban Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Rabbis' interpretation of 'mikkol asher ye'aseh migefen ha-yayin' as teaching tziruf (combining of grape-derived prohibitions), which is precisely what the 'Combining Products' section's prose discusses.",
+      "chosen_heading": "Combining Products",
+      "current_heading": "Combining Products",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Shiur for Korban Only",
+    "candidates": [
+      "Kol Shehu L'Malkos",
+      "Shiur for Korban Only",
+      "Identifying Shimshon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Shimon's principle of 'kol shehu l'malkot' (smallest quantity suffices for lashes) and the kezayit measure being only for korban \u2014 this is the core content introduced in candidate 0's prose, which covers both points together, whereas candidate 1 treats the kezayit-for-korban point as a secondary elaboration after already establishing the kol shehu principle.",
+      "chosen_heading": "Kol Shehu L'Malkos",
+      "current_heading": "Shiur for Korban Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Identifying Shimshon",
+    "candidates": [
+      "Shiur for Korban Only",
+      "Identifying Shimshon",
+      "Clarification Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna text lists the various formulations that identify one as a nazir Shimshon, which directly matches the 'Identifying Shimshon' section's prose discussing exactly those phrases and the institution of nazir Shimshon.",
+      "chosen_heading": "Identifying Shimshon",
+      "current_heading": "Identifying Shimshon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Clarification Debate",
+    "candidates": [
+      "Clarification Debate",
+      "Tosafot Reading",
+      "Nazir Olam Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's explanation of why the mishna needs all its formulations (Shimshon \u2192 ben Manoach \u2192 ba'al Delilah), which is precisely what the 'Clarification Debate' prose describes.",
+      "chosen_heading": "Clarification Debate",
+      "current_heading": "Clarification Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Nazir Olam Details",
+    "candidates": [
+      "Tosafot Reading",
+      "Nazir Olam Details",
+      "Avshalom Source",
+      "Three Korbanot",
+      "Shimshon Leniencies",
+      "Korban Paradox",
+      "Rabbi Yehuda Permits",
+      "Shimon Rejects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items constitute the mishna and gemara discussing the differences between nazir olam and nazir Shimshon \u2014 exactly what the 'Nazir Olam Details' prose section describes, including the michsarei michsara correction and the comparison of their respective leniencies regarding hair-cutting and tumah offerings.",
+      "chosen_heading": "Nazir Olam Details",
+      "current_heading": "Nazir Olam Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Shimon Rejects",
+    "candidates": [
+      "Avshalom Source",
+      "Three Korbanot",
+      "Shimshon Leniencies",
+      "Korban Paradox",
+      "Rabbi Yehuda Permits",
+      "Shimon Rejects",
+      "Becoming Nazir Shimshon",
+      "Hatfasah Concept",
+      "Davar Hanidur",
+      "Bekhor Transferability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains exactly the gemara's 'mani matnitin' question and its resolution that the prose of 'Korban Paradox' (index 3) explicitly describes \u2014 raising the paradox of who the mishna follows, presenting Rabbi Yehuda's and Rabbi Shimon's positions as a baraita, and resolving that the mishna follows Rabbi Yehuda with the conditional formulation borrowed from the parallel nazir olam case.",
+      "chosen_heading": "Korban Paradox",
+      "current_heading": "Shimon Rejects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Bekhor Transferability",
+    "candidates": [
+      "Becoming Nazir Shimshon",
+      "Hatfasah Concept",
+      "Davar Hanidur",
+      "Bekhor Transferability",
+      "Yossi: No Words",
+      "Yaakov: Sanctification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All six items constitute the Gemara's discussion of whether Rabbi Yehuda and Rabbi Shimon's dispute maps onto the Rabbi Yaakov/Rabbi Yosei dispute about bekhor and hatfasah, including the retraction and the full back-and-forth about laHashem, chatat/asham, and matfisan bineder \u2014 exactly what the 'Bekhor Transferability' prose describes.",
+      "chosen_heading": "Bekhor Transferability",
+      "current_heading": "Bekhor Transferability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Yaakov: Sanctification",
+    "candidates": [
+      "Yossi: No Words",
+      "Yaakov: Sanctification",
+      "Shimshon Mystery",
+      "Rosh Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yossi's counter-argument that the mitzva to sanctify a bekhor is superfluous since it is already sacred without the act, which is explicitly discussed in the prose of 'Yaakov: Sanctification' (i-lo makdish lei mi lo kadosh) \u2014 this is precisely the passage being quoted there.",
+      "chosen_heading": "Yaakov: Sanctification",
+      "current_heading": "Yaakov: Sanctification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Rosh Solutions",
+    "candidates": [
+      "Shimshon Mystery",
+      "Rosh Solutions",
+      "Refusing Asham",
+      "Shepherd Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the question of why the 'to the Lord' phrase in the nazirite verse doesn't resolve the Shimshon problem \u2014 this is precisely the unresolved question about nazir Shimshon that the 'Shimshon Mystery' section's prose describes as left without a direct answer.",
+      "chosen_heading": "Shimshon Mystery",
+      "current_heading": "Rosh Solutions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132
+    ],
+    "current_heading": "Shepherd Story",
+    "candidates": [
+      "Refusing Asham",
+      "Shepherd Story",
+      "Repentance Motivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the opening of the Shimon HaTzaddik baraita \u2014 his declaration that he never ate the asham of a tamei nazir and the introduction of the exceptional man \u2014 which directly matches the prose of heading 0 ('Refusing Asham'), not heading 1 which discusses only his question about the hair.",
+      "chosen_heading": "Refusing Asham",
+      "current_heading": "Shepherd Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Repentance Motivation",
+    "candidates": [
+      "Shepherd Story",
+      "Repentance Motivation",
+      "Right Motivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the shepherd's story of seeing his reflection, his yetzer hara stirring, and his vow to become a nazir \u2014 exactly the content described in the 'Repentance Motivation' prose, which is also the current placement.",
+      "chosen_heading": "Repentance Motivation",
+      "current_heading": "Repentance Motivation",
+      "moved": false
+    }
+  }
+]

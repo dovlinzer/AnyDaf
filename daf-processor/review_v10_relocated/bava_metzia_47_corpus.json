@@ -1,0 +1,369 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_heading": "Money as Object",
+    "candidates": [
+      "Kinyan Overview",
+      "Handful of Coins",
+      "Ona'ah & Chalipin",
+      "Money as Object",
+      "Price-Aware Swaps",
+      "Donkey/Cow Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items present the core ruling of Rav Huna (via Rabba) that 'mechor li be'elu' effects a kinyan with ona'ah applying, followed by the Gemara's elaboration and Rav Abba's contrasting version \u2014 exactly the content described in the 'Handful of Coins' prose, which introduces this very ruling and the tension between ona'ah and chalipin that these items discuss.",
+      "chosen_heading": "Handful of Coins",
+      "current_heading": "Money as Object",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Donkey/Cow Case",
+    "candidates": [
+      "Price-Aware Swaps",
+      "Donkey/Cow Case",
+      "Rava's Defense",
+      "Multiple Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together constitute the baraita of the donkey/cow case that Rav Adda bar Ahava brings as evidence, which is precisely what candidate 1 ('Donkey/Cow Case') describes in its prose.",
+      "chosen_heading": "Donkey/Cow Case",
+      "current_heading": "Donkey/Cow Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Multiple Objects",
+    "candidates": [
+      "Rava's Defense",
+      "Multiple Objects",
+      "Rav Huna's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement defending the validity of chalipin even when parties are value-conscious, which matches 'Rava's Defense' prose exactly, including the key phrase 'kol chalipin mikpad kapid vekaney' and the rhetorical rejection of the 'fools' interpretation \u2014 the multiple-objects reinterpretation in candidate 1 is what Rava says next, but this specific quoted text is Rava's initial defense and affirmative rule.",
+      "chosen_heading": "Rava's Defense",
+      "current_heading": "Multiple Objects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Rav Huna's View",
+    "candidates": [
+      "Multiple Objects",
+      "Rav Huna's View",
+      "Rav vs. Levi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address Rav Huna's position on whether coins can effect exchange and the relationship to Rabbi Yochanan's principle that money effects acquisition by Torah law with the rabbinic gezeirah limited to common cases \u2014 exactly what the 'Rav Huna's View' prose discusses.",
+      "chosen_heading": "Rav Huna's View",
+      "current_heading": "Rav Huna's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45
+    ],
+    "current_heading": "Rav vs. Levi",
+    "candidates": [
+      "Rav vs. Levi",
+      "Gemurit Da'at",
+      "Land & Chattel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the opening question and initial dispute between Rav and Levi about whose vessel is used in chalipin, which is precisely what the 'Rav vs. Levi' prose describes as its introduction with bameh konin followed by their respective rulings.",
+      "chosen_heading": "Rav vs. Levi",
+      "current_heading": "Rav vs. Levi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Land & Chattel",
+    "candidates": [
+      "Gemurit Da'at",
+      "Land & Chattel",
+      "Benefit Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the challenge raised by Rav Huna mi-Diskarta about acquiring land via a garment reversing the rule of nechasim she'ein lahem achrayut niknin im nechasim she'yesh lahem achrayut, which is exactly what the 'Land & Chattel' prose describes.",
+      "chosen_heading": "Land & Chattel",
+      "current_heading": "Land & Chattel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Benefit Theory",
+    "candidates": [
+      "Benefit Theory",
+      "Ruth's Shoe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's explanation of Levi's benefit theory (b'hai hana'ah d'kamakabbel minei gemar v'akni lei), which is precisely what the 'Benefit Theory' prose section discusses in detail.",
+      "chosen_heading": "Benefit Theory",
+      "current_heading": "Benefit Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Ruth's Shoe",
+    "candidates": [
+      "Ruth's Shoe",
+      "Any Vessel",
+      "Vessels Only",
+      "Produce Allowed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal specifically with the tannaitic dispute from Ruth about who gave the shoe to whom (Boaz to the redeemer vs. redeemer to Boaz), which is precisely what the 'Ruth's Shoe' section prose describes in detail.",
+      "chosen_heading": "Ruth's Shoe",
+      "current_heading": "Ruth's Shoe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Produce Allowed",
+    "candidates": [
+      "Any Vessel",
+      "Vessels Only",
+      "Produce Allowed",
+      "Ketuba Language"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together present the full dispute between Rav Nachman (vessels only) and Rav Sheshet (even produce), including each amora's textual derivation from 'na'alo' and 'l'kayem kol davar' and the davar mesuyam exclusion \u2014 exactly what the 'Produce Allowed' prose describes.",
+      "chosen_heading": "Produce Allowed",
+      "current_heading": "Produce Allowed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Ketuba Language",
+    "candidates": [
+      "Ketuba Language",
+      "What's Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the full gemara passage about the formula 'b'mana d'chasher l'miknya bei' and its exclusions, which is exactly what heading 0 'Ketuba Language' discusses \u2014 the standard formula and the halakhic weight of each term.",
+      "chosen_heading": "Ketuba Language",
+      "current_heading": "Ketuba Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "What's Excluded",
+    "candidates": [
+      "What's Excluded",
+      "Rabbeinu Tam",
+      "Asimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the 'some say' version of the exclusions derived from 'bei' (coin) and 'd'chasher' (issurei hana'ah), with the note that maroka needs no derivation \u2014 exactly what the 'What's Excluded' prose describes.",
+      "chosen_heading": "What's Excluded",
+      "current_heading": "What's Excluded",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Asimon",
+    "candidates": [
+      "Rabbeinu Tam",
+      "Asimon",
+      "Yochanan: Money",
+      "Gezeirah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items discuss the definition and legal status of *asimon* \u2014 Rav's bathhouse-token explanation, the baraita challenge distinguishing *asimon* from bathhouse tokens, and Rabbi Yochanan's resolution identifying it as an unstamped blank (*pulsa*) \u2014 which is precisely what the 'Asimon' section prose describes.",
+      "chosen_heading": "Asimon",
+      "current_heading": "Asimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Gezeirah",
+    "candidates": [
+      "Yochanan: Money",
+      "Gezeirah",
+      "Reish: Meshicha",
+      "Textual Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Yochanan's ruling that money effects acquisition by Torah law and the rabbinic decree requiring meshicha (including the gezeirah's rationale about fire/ones), which is precisely what the 'Gezeirah' section's prose describes.",
+      "chosen_heading": "Gezeirah",
+      "current_heading": "Gezeirah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106
+    ],
+    "current_heading": "Textual Proof",
+    "candidates": [
+      "Reish: Meshicha",
+      "Textual Proof",
+      "Ona'ah Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present exactly the textual proof stage \u2014 Reish Lakish's derivation of meshicha from 'kano miyad' and Rabbi Yochanan's counter-reading of that same phrase to exclude land from ona'ah \u2014 which is precisely what the 'Textual Proof' prose describes.",
+      "chosen_heading": "Textual Proof",
+      "current_heading": "Textual Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Ona'ah Dispute",
+    "candidates": [
+      "Ona'ah Dispute",
+      "Upper Hand",
+      "Back-Out Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous dispute between Reish Lakish and Rabbi Yo\u1e25anan over the interpretation of 'or acquire' (o kano) in the context of ona'ah, exactly matching the prose of heading 0.",
+      "chosen_heading": "Ona'ah Dispute",
+      "current_heading": "Ona'ah Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Back-Out Rights",
+    "candidates": [
+      "Upper Hand",
+      "Back-Out Rights",
+      "Reish Challenges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rabbi Shimon's 'upper hand' ruling and the Gemara's challenge about back-out rights in a single continuous unit, and the 'Upper Hand' heading's prose explicitly introduces this mishnah ruling as needing unpacking \u2014 making it the natural home for the entire passage including the subsequent Gemara question.",
+      "chosen_heading": "Upper Hand",
+      "current_heading": "Back-Out Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124
+    ],
+    "current_heading": "Reish Challenges",
+    "candidates": [
+      "Back-Out Rights",
+      "Reish Challenges",
+      "Rav Chisda",
+      "Final Framework"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Reish Challenges",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Reish Lakish's direct response conceding his position doesn't apply to Rabbi Shimon, which is the closing resolution described in the 'Reish Challenges' prose.",
+      "second_heading": "Rav Chisda",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the new question of what distinguishes Rabbi Shimon from the Rabbis according to Rabbi Yochanan, resolved via Rav Chisda's principle \u2014 exactly the content described in the 'Rav Chisda' prose section.",
+      "current_heading": "Reish Challenges",
+      "moved": true
+    }
+  }
+]

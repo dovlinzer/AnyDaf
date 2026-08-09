@@ -24,8 +24,8 @@
           "timestamp": "05:03"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Ta'am Lifgam (Bad Taste) and the Mishnah's Permissibility",
@@ -53,7 +53,7 @@
           "timestamp": "08:19"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -77,8 +77,8 @@
           "timestamp": "26:20"
         }
       ],
-      "sefaria_index": 2,
-      "matched": false
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Rabbi Meir vs. Rabbi Shimon: The Source from Neveilah (Carcass)",
@@ -106,7 +106,7 @@
           "timestamp": "39:50"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": true
     },
     {
@@ -140,7 +140,7 @@
           "timestamp": "42:40"
         }
       ],
-      "sefaria_index": 10,
+      "sefaria_index": 9,
       "matched": false
     }
   ],
@@ -289,9 +289,9 @@
     }
   ],
   "amud_b_sefaria_index": 7,
-  "amud_b_segment_index": 1,
-  "amud_b_timestamp": "08:19",
-  "amud_b_micro_title": "Reish Lakish Dispute",
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "26:20",
+  "amud_b_micro_title": "Biblical vs. Rabbinic",
   "shiur_start_daf": 67,
   "shiur_start_amud": "a"
 }

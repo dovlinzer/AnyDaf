@@ -1,0 +1,350 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Mishnah Setup",
+    "candidates": [
+      "Mishnah Setup",
+      "Rov & Earlier Debate",
+      "Caravans of Tzipori"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rov & Earlier Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is precisely the Rava\u2013Rav Na\u1e25man exchange described in the 'Rov & Earlier Debate' prose, which explicitly summarizes Rava's question about whose opinion Rabbi Yo\u1e25anan ben Nuri follows and the Rabban Gamliel/Rabbi Yehoshua tension.",
+      "second_heading": "Caravans of Tzipori",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the answer (Rav Yehuda citing Rav: the Tzippori caravans incident) along with Rabbi Ami's and Rabbi Yannai's qualifications, which is exactly what the 'Caravans of Tzipori' prose describes as the Gemara's answer to Rava's question.",
+      "current_heading": "Mishnah Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Caravans of Tzipori",
+    "candidates": [
+      "Rov & Earlier Debate",
+      "Caravans of Tzipori",
+      "Caravans Always Parush"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yannai's ruling about intercourse during caravan time and the shetuki case when one man separates from Tzippori, which is exactly what the 'Caravans of Tzipori' prose describes.",
+      "chosen_heading": "Caravans of Tzipori",
+      "current_heading": "Caravans of Tzipori",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Caravans Always Parush",
+    "candidates": [
+      "Caravans Always Parush",
+      "Gezeirah Risk",
+      "Kol d'Parish & Kavuah",
+      "Meat Analogy",
+      "Rape Case Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the ruling that one follows rov ha-ir and not rov siya, which is precisely what the 'Caravans Always Parush' section's prose describes as Rav Dimi's tradition from Eretz Yisrael in the name of Zeiri citing Rabbi Chanina.",
+      "chosen_heading": "Caravans Always Parush",
+      "current_heading": "Caravans Always Parush",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Rape Case Application",
+    "candidates": [
+      "Gezeirah Risk",
+      "Kol d'Parish & Kavuah",
+      "Meat Analogy",
+      "Rape Case Application",
+      "Nine Stores Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Gezeirah Risk",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 deal with the gezeirah explanation \u2014 why both majorities are required, the kelapei layya objection, and the kavuah/parush distinction in the rape case \u2014 which matches the 'Gezeirah Risk' prose about the protective decree and the slide between parush and kavuah scenarios.",
+      "second_heading": "Nine Stores Case",
+      "second_confidence": "high",
+      "second_reason": "Items 4-5 introduce the nine-stores baraita and the question of whether two majorities are required, directly matching the 'Nine Stores Case' prose which opens with that same baraita and discusses the kol d'kavuah principle applied to meat stores.",
+      "current_heading": "Rape Case Application",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Nine Stores Case",
+    "candidates": [
+      "Rape Case Application",
+      "Nine Stores Case",
+      "Single vs. Double Rov",
+      "Yichus Stringency",
+      "Rodents/Frog Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly introduce Rabbi Zeira's principle of kol d'kavuah k'mechtza al mechtza and begin the Gemara's challenge about whether the nine-stores case can demonstrate the le-kula direction, which is precisely what the 'Nine Stores Case' prose discusses.",
+      "chosen_heading": "Nine Stores Case",
+      "current_heading": "Nine Stores Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Rodents/Frog Case",
+    "candidates": [
+      "Single vs. Double Rov",
+      "Yichus Stringency",
+      "Rodents/Frog Case",
+      "Reshus Ha-Yachid/Rabbim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes the nine frogs and one sheretz case as an example of kavuah operating le-chumra, which is exactly what the 'Rodents/Frog Case' prose discusses as part of working through the candidates for a le-kula demonstration of kol d'kavuah k'mechtza al mechtza.",
+      "chosen_heading": "Rodents/Frog Case",
+      "current_heading": "Rodents/Frog Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Reshus Ha-Yachid/Rabbim",
+    "candidates": [
+      "Reshus Ha-Yachid/Rabbim",
+      "Biblical Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly illustrates the reshut ha-yachid/reshut ha-rabbim distinction for safek tumah with kavuah (nine creeping animals and one frog), which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Reshus Ha-Yachid/Rabbim",
+      "current_heading": "Reshus Ha-Yachid/Rabbim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Biblical Source",
+    "candidates": [
+      "Biblical Source",
+      "Horat Sha'ah View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara sugyah deriving the biblical source for kol d'kavuah k'mechtza al mechtza from the murder verse, working through the crowd-throwing case, exactly as described in the 'Biblical Source' prose.",
+      "chosen_heading": "Biblical Source",
+      "current_heading": "Biblical Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Horat Sha'ah View",
+    "candidates": [
+      "Horat Sha'ah View",
+      "Yirmiya's Challenge",
+      "Foundling Infant Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the amoraic dispute between Rav \u1e24iyya bar Ashi (halakha follows Rabbi Yosei) and Rav \u1e24anan bar Rava (hora'at sha'ah), which is precisely what the 'Horat Sha'ah View' prose describes.",
+      "chosen_heading": "Horat Sha'ah View",
+      "current_heading": "Horat Sha'ah View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Foundling Infant Case",
+    "candidates": [
+      "Yirmiya's Challenge",
+      "Foundling Infant Case",
+      "Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the foundling infant case \u2014 Rabbi Yirmiya's objection citing the mishna about the abandoned baby, the mishna's text itself, and Rav's qualification restricting its ruling to sustaining the baby but not yichus \u2014 which is precisely what the 'Foundling Infant Case' prose describes.",
+      "chosen_heading": "Foundling Infant Case",
+      "current_heading": "Foundling Infant Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Resolution",
+    "candidates": [
+      "Resolution",
+      "Mishnah Ruling",
+      "Rav's Limits",
+      "Shmuel & Pikuach Nefesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the Resolution section's prose, which explicitly discusses ishtamitei'eihu (item 1) and the man d'matni ha lo matni ha response to Rav Chanan bar Rava's hora'at sha'ah objection (item 2).",
+      "chosen_heading": "Resolution",
+      "current_heading": "Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Shmuel & Pikuach Nefesh",
+    "candidates": [
+      "Mishnah Ruling",
+      "Rav's Limits",
+      "Shmuel & Pikuach Nefesh",
+      "Long-term Doubt",
+      "Dinei Mamonot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete Shmuel/pikuach nefesh discussion \u2014 item 1 introduces Shmuel's ruling about creating an opening in the heap, and item 2 raises and resolves the apparent contradiction with Shmuel's broader principle that one does not follow the majority in life-saving matters \u2014 exactly what the 'Shmuel & Pikuach Nefesh' prose describes.",
+      "chosen_heading": "Shmuel & Pikuach Nefesh",
+      "current_heading": "Shmuel & Pikuach Nefesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Dinei Mamonot",
+    "candidates": [
+      "Long-term Doubt",
+      "Dinei Mamonot",
+      "Ox Goring"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rav Pappa's enumeration of the practical halakhic applications for majority-gentile (feed non-kosher) and majority-Jewish (return lost property) cases, which is precisely what the 'Dinei Mamonot' prose describes.",
+      "chosen_heading": "Dinei Mamonot",
+      "current_heading": "Dinei Mamonot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Ox Goring",
+    "candidates": [
+      "Ox Goring",
+      "Marriage Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the ox-goring case with a person of uncertain Jewish status, exactly matching the 'Ox Goring' prose about burden of proof and payment of damages depending on Jewish or non-Jewish status.",
+      "chosen_heading": "Ox Goring",
+      "current_heading": "Ox Goring",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93
+    ],
+    "current_heading": "Marriage Status",
+    "candidates": [
+      "Marriage Status",
+      "First Marriage Signs",
+      "Parched Grain Sign",
+      "Peh She'asar"
+    ],
+    "result": {
+      "best_index": 0,
+      "action": "single",
+      "chosen_heading": "Marriage Status",
+      "current_heading": "Marriage Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Peh She'asar",
+    "candidates": [
+      "First Marriage Signs",
+      "Parched Grain Sign",
+      "Peh She'asar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly illustrate the peh she'asar hu peh she'hitir principle with the field/father example, which is precisely what the prose of candidate 2 ('Peh She'asar') discusses in detail, including the limiting case where witnesses exist.",
+      "chosen_heading": "Peh She'asar",
+      "current_heading": "Peh She'asar",
+      "moved": false
+    }
+  }
+]

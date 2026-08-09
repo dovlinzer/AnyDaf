@@ -116,11 +116,7 @@ Taking this to its logical extreme: *ein machshava mo'eles afilu pesiah achas* �
 
 ### Hand-to-Hand Transfer
 
-This brings the Gemara to a new question: *holacha shelo beregel, shemah holacha o lo shemah holacha* — if the blood is transported without any walking — for example, passed hand to hand among a line of *kohanim*, each standing in place — does that constitute a valid act of *holacha*?
-
-The question is two-directional. If such passing does *not* constitute *holacha*, then the blood must be returned and transported again properly; but on the upside, since no *avodah* occurred, any *machshava* during that hand-to-hand transfer does not invalidate. Conversely, if hand-to-hand transfer *does* constitute *holacha*, then it was a valid *avodah* — but any disqualifying *machshava* during it would invalidate the blood. Similarly, if a *zar* performed this transfer: if it counts as *holacha* and *holacha* requires a *kohen*, the *zar*'s act would have invalidated the sacrifice; if it does not count as *holacha*, no act of consequence occurred and the blood may simply be transported again properly.
-
----
+The Gemara now introduces a new topic: *holacha shelo beregel* — whether transporting the blood without walking, such as passing it hand to hand along a line of *kohanim* with no one moving, constitutes a valid act of *holacha* at all. This will be a matter of debate. If it does not count as *holacha*, then no act of *holacha* has occurred to invalidate the offering, and *machshava* would not invalidate at all — since the only act that could have been invalidated would be the placing down of the blood, and that may not halakhically qualify as *holacha* in the first place.
 
 ## Non-Kohen Holacha
 

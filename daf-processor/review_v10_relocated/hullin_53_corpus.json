@@ -1,0 +1,459 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Chicken & Cat Case",
+    "candidates": [
+      "Derusah Principle",
+      "Chicken & Cat Case",
+      "Tanna Kamma vs Rebbi",
+      "Cat & Weasel Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items belong to the second version of the discussion (ika de-amri), which candidate 2 'Tanna Kamma vs Rebbi' explicitly describes \u2014 including the cat-and-chicken story from Rav Kahana's house being recruited to challenge Rebbi's position in the second version, the same answer about self-preservation equaling fear of intervention, and the Sages' response about venom not burning (zei'ah/zihara).",
+      "chosen_heading": "Tanna Kamma vs Rebbi",
+      "current_heading": "Chicken & Cat Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Cat & Weasel Debate",
+    "candidates": [
+      "Tanna Kamma vs Rebbi",
+      "Cat & Weasel Debate",
+      "Rav's Answers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the three questions Rav Kahana asked Rav about cat and weasel derusah, which is precisely what the 'Cat & Weasel Debate' prose describes.",
+      "chosen_heading": "Cat & Weasel Debate",
+      "current_heading": "Cat & Weasel Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rav's Answers",
+    "candidates": [
+      "Rav's Answers",
+      "Non-Kosher Birds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the resolution of Rav's apparently contradictory answers by distinguishing prey type (birds, large sheep, kids/lambs), which is precisely what the 'Rav's Answers' prose section describes.",
+      "chosen_heading": "Rav's Answers",
+      "current_heading": "Rav's Answers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Non-Kosher Birds",
+    "candidates": [
+      "Non-Kosher Birds",
+      "Sparrowhawk Superior"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses Rav Ashi's dilemma about whether other non-kosher birds cause derusah, and Rav Hillel's answer in the name of Rav Kahana \u2014 precisely what the 'Non-Kosher Birds' prose describes.",
+      "chosen_heading": "Non-Kosher Birds",
+      "current_heading": "Non-Kosher Birds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Sparrowhawk Superior",
+    "candidates": [
+      "Sparrowhawk Superior",
+      "Fox No Derusah",
+      "Bathhouse Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Mishnah's mention of the hawk (\u05e0\u05e5) and the two versions of how its clawing capacity compares to other birds of prey, which is precisely what the 'Sparrowhawk Superior' prose describes.",
+      "chosen_heading": "Sparrowhawk Superior",
+      "current_heading": "Sparrowhawk Superior",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Bathhouse Story",
+    "candidates": [
+      "Fox No Derusah",
+      "Bathhouse Story",
+      "Fox vs Cat",
+      "Foreleg Claws",
+      "Intent & Withdrawal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the content described under 'Bathhouse Story' \u2014 the first version (no derusah for fox, bathhouse story says yes) and the second version (ika de-amri: yes derusah for fox, bathhouse story says no), with Rav Safra's resolutions and Rav Yosef's tradition about dogs, all of which the 'Bathhouse Story' prose explicitly describes.",
+      "chosen_heading": "Bathhouse Story",
+      "current_heading": "Bathhouse Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Intent & Withdrawal",
+    "candidates": [
+      "Fox vs Cat",
+      "Foreleg Claws",
+      "Intent & Withdrawal",
+      "Detached Nail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the precise conditions of derusah (intentional act, alive, and the withdrawal mechanism for venom injection), which is exactly what the 'Intent & Withdrawal' prose describes.",
+      "chosen_heading": "Intent & Withdrawal",
+      "current_heading": "Intent & Withdrawal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Detached Nail",
+    "candidates": [
+      "Detached Nail",
+      "Wall Rubbing",
+      "Resolve Nail"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly the scenario and reasoning described in the 'Detached Nail' prose \u2014 lion among oxen, claw found in back, the two-part argument about majority of lions and claws not being ripped out during actual clawing \u2014 which is the primary content of candidate 0's prose.",
+      "chosen_heading": "Detached Nail",
+      "current_heading": "Detached Nail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Resolve Nail",
+    "candidates": [
+      "Wall Rubbing",
+      "Resolve Nail",
+      "Rav Chazakah",
+      "Shmuel Concern",
+      "Limit Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 the 'on the contrary' objection about oxen rubbing, the resolution via chazakah/safek derusah, and Abaye's qualifications about moist/dry claws and multiple claws \u2014 are precisely the content described in the 'Resolve Nail' prose, which covers the adarabba argument, the ika le-meimar hachi conclusion, and the Bivi/Abaye qualifications about tziporen lacha, yevesha, and tarti ve-tlat.",
+      "chosen_heading": "Resolve Nail",
+      "current_heading": "Resolve Nail",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Limit Debate",
+    "candidates": [
+      "Rav Chazakah",
+      "Shmuel Concern",
+      "Limit Debate",
+      "No Attack"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the formal Rav-Shmuel dispute on safek derusah, which is precisely what candidate 0 ('Rav Chazakah') describes \u2014 the formal statement of Rav's position that one need not be concerned, with candidate 1 covering Shmuel's counter-position separately, but the single Talmudic quote presenting both belongs under the heading that introduces the dispute, which is candidate 0.",
+      "chosen_heading": "Rav Chazakah",
+      "current_heading": "Limit Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "No Attack",
+    "candidates": [
+      "Limit Debate",
+      "No Attack",
+      "Silent Lion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's enumeration of cases excluded from the debate (uncertain entry, dog vs. cat, quiet lion, decapitation, mutual frightening) followed by the identification of the one case that does generate dispute \u2014 exactly what the 'Limit Debate' prose describes, including all the specific examples (safek al, dog/cat, aylei ve-yativi, decapitation, meva'atei) that appear in that section's prose.",
+      "chosen_heading": "Limit Debate",
+      "current_heading": "No Attack",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Silent Lion",
+    "candidates": [
+      "Silent Lion",
+      "Amemar Rules",
+      "Ashi Questions",
+      "Amemar Response",
+      "Basket Birds",
+      "Shmuel Action"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Ameimar's ruling about safek derusah AND Rav Ashi's challenge AND Ameimar's response \u2014 all three elements together belong under the 'Amemar Rules' heading, which introduces Ameimar's halakhic ruling, with the subsequent exchange being part of that same unit; however, since the passage contains all three elements (ruling, challenge, response), the 'Amemar Rules' section (index 1) is the best single heading as it initiates the discussion that the passage covers in full.",
+      "chosen_heading": "Amemar Rules",
+      "current_heading": "Silent Lion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95
+    ],
+    "current_heading": "Shmuel Action",
+    "candidates": [
+      "Amemar Rules",
+      "Ashi Questions",
+      "Amemar Response",
+      "Basket Birds",
+      "Shmuel Action",
+      "Publicity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items deal with the Gemara's argument and counter-argument about whether Rav retracted his position based on the basket-of-birds incident, which is precisely what the 'Basket Birds' prose section describes \u2014 the sharkafa sent to Shmuel and the inference about Rav's reversal \u2014 whereas the current placement ('Shmuel Action') discusses what Shmuel did with the birds after receiving them.",
+      "chosen_heading": "Basket Birds",
+      "current_heading": "Shmuel Action",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Publicity",
+    "candidates": [
+      "Shmuel Action",
+      "Publicity",
+      "Twelve Month Test",
+      "Why Not Wait"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks why Shmuel needed to strangle the birds rather than just throwing them in the river, and answers that they would fly away \u2014 this is exactly the content described in the 'Publicity' section's prose about why simpler methods were rejected.",
+      "chosen_heading": "Publicity",
+      "current_heading": "Publicity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Why Not Wait",
+    "candidates": [
+      "Twelve Month Test",
+      "Why Not Wait",
+      "Goose Incident",
+      "Reeds Injury"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous chain of objections and responses about why Shmuel threw the birds into the river rather than waiting twelve months, selling to gentiles, strangling them, or feeding them to dogs \u2014 all of which are explicitly discussed in the 'Why Not Wait' prose.",
+      "chosen_heading": "Why Not Wait",
+      "current_heading": "Why Not Wait",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Reeds Injury",
+    "candidates": [
+      "Goose Incident",
+      "Reeds Injury",
+      "Check Organs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the duck incident itself (entering the reeds, emerging with blood), which matches the 'Goose Incident' prose describing the animal going into the reeds and returning with a bloody neck \u2014 while the current 'Reeds Injury' heading covers Rav Ashi's legal reasoning/resolution, the full Talmudic passage includes both the incident and the resolution, but the incident setup is what heading 0 describes, and heading 0's prose explicitly narrates the same event including Rav Ashi's reasoning.",
+      "chosen_heading": "Goose Incident",
+      "current_heading": "Reeds Injury",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Check Organs",
+    "candidates": [
+      "Reeds Injury",
+      "Check Organs",
+      "Shmuel Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the direct Talmudic source for the 'Check Organs' section, which quotes and explains this exact teaching of the sons of Rabbi \u1e24iyya about inspecting flesh adjacent to the intestines for derusah.",
+      "chosen_heading": "Check Organs",
+      "current_heading": "Check Organs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Shmuel Method",
+    "candidates": [
+      "Shmuel Method",
+      "Neck Area"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Yosef citing Shmuel's teaching about inspection adjacent to the intestines, which is precisely what the 'Shmuel Method' prose discusses in detail.",
+      "chosen_heading": "Shmuel Method",
+      "current_heading": "Shmuel Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Neck Area",
+    "candidates": [
+      "Neck Area",
+      "Bloody Flesh",
+      "Reddened Evidence",
+      "Rotting Treatment",
+      "Medical Removal",
+      "Lung Example"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Neck Area",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are Ilfa's two dilemmas about simanim \u2014 clawing at the simanim and detached simanim \u2014 which is precisely what the 'Neck Area' prose describes.",
+      "second_heading": "Bloody Flesh",
+      "second_confidence": "medium",
+      "second_reason": "Item 3 is Rav Ami's dilemma about rotted/reddened flesh from clawing, which shifts away from simanim to the redness/rot inspection question; the 'Bloody Flesh' heading (candidate 1) introduces Rav Ami's question about discolored flesh and the kvar pirshah pattern, making it the closest structural match for where item 3 begins.",
+      "current_heading": "Neck Area",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Lung Example",
+    "candidates": [
+      "Bloody Flesh",
+      "Reddened Evidence",
+      "Rotting Treatment",
+      "Medical Removal",
+      "Lung Example",
+      "Thorn Perforate",
+      "Claw Reddening",
+      "Simanim Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage describes exactly the lung case reported by Rav Ashi before Rav Kahana, which disintegrated when lifted and was ruled treif based on Rav Huna's principle \u2014 precisely what the 'Lung Example' prose section describes.",
+      "chosen_heading": "Lung Example",
+      "current_heading": "Lung Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      147
+    ],
+    "current_heading": "Simanim Exception",
+    "candidates": [
+      "Thorn Perforate",
+      "Claw Reddening",
+      "Simanim Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the thorn distinction (Rav Na\u1e25man's ruling about perforation to the cavity) and the subsequent teachings about derusah and simanim, but the passage begins with the thorn ruling and the full Gemara excerpt is a single continuous teaching that is most naturally anchored under 'Thorn Perforate' where Rav Na\u1e25man's complete statement originates, with the other sections providing commentary on its sub-components.",
+      "chosen_heading": "Thorn Perforate",
+      "current_heading": "Simanim Exception",
+      "moved": true
+    }
+  }
+]

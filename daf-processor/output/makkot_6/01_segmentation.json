@@ -121,7 +121,7 @@
           "timestamp": "17:46"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 4,
       "matched": true
     },
     {
@@ -155,7 +155,7 @@
           "timestamp": "20:41"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 7,
       "matched": true
     },
     {
@@ -218,8 +218,8 @@
           "timestamp": "26:19"
         }
       ],
-      "sefaria_index": 10,
-      "matched": true
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Rabbi Yosi's Requirement: The Warning Must Come from the Actual Witnesses",
@@ -247,7 +247,7 @@
           "timestamp": "29:41"
         }
       ],
-      "sefaria_index": 11,
+      "sefaria_index": 10,
       "matched": true
     },
     {
@@ -276,8 +276,8 @@
           "timestamp": "36:48"
         }
       ],
-      "sefaria_index": 15,
-      "matched": true
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "Eidus Miyuchedes in Civil vs. Capital Cases",
@@ -741,5 +741,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 10
+  "amud_b_sefaria_index": 10,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "29:41",
+  "amud_b_micro_title": "Tosafot Analysis",
+  "shiur_start_daf": 6,
+  "shiur_start_amud": "a"
 }

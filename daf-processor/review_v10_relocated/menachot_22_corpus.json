@@ -1,0 +1,256 @@
+[
+  {
+    "quote_indices": [
+      1
+    ],
+    "current_heading": "(no heading)",
+    "candidates": [
+      "Intro & Salting",
+      "Ravina's Q",
+      "Baraita Proof",
+      "Salt Communal",
+      "Salt Approaches",
+      "Ben Buchri",
+      "Ben Buchri Testify",
+      "RYbZ Counter",
+      "Priests' Drasha",
+      "RYbZ Counter",
+      "Entitlement",
+      "Wood Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Ravina's argument to Rav Ashi that the court's stipulation must have addressed eating korban meat (not burning), using the 'hashta l'Yisrael yahvina le-Kohanim lo yahvina' logic \u2014 exactly what candidate 1 'Ravina's Q' describes.",
+      "chosen_heading": "Ravina's Q",
+      "current_heading": "(no heading)",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Wood Baraita",
+    "candidates": [
+      "Intro & Salting",
+      "Ravina's Q",
+      "Baraita Proof",
+      "Salt Communal",
+      "Salt Approaches",
+      "Ben Buchri",
+      "Ben Buchri Testify",
+      "RYbZ Counter",
+      "Priests' Drasha",
+      "RYbZ Counter",
+      "Entitlement",
+      "Wood Baraita",
+      "Elazar Fresh",
+      "Fresh vs Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items are the baraita debating whether salt must come from the donor's own home (like levona) or from communal supplies (like wood), which is precisely what candidate 2 'Baraita Proof' describes in its prose.",
+      "chosen_heading": "Baraita Proof",
+      "current_heading": "Wood Baraita",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Fresh vs Source",
+    "candidates": [
+      "Elazar Fresh",
+      "Fresh vs Source",
+      "Morag"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Morag",
+    "candidates": [
+      "Morag",
+      "Kometz Mixed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the meaning of 'morigim' and the threshing sledge, which directly matches the 'Morag' section's prose about Ulla, Rav Yehuda, and Rav Yosef explaining the threshing implement.",
+      "chosen_heading": "Morag",
+      "current_heading": "Morag",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Kometz Mixed",
+    "candidates": [
+      "Kometz Mixed",
+      "RY Thick/Thin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishna stating the basic rule that a kometz mixed with another kometz or with priestly/libation meal offerings is fit, which is precisely what candidate 0's prose describes and analyzes.",
+      "chosen_heading": "Kometz Mixed",
+      "current_heading": "Kometz Mixed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "RY Thick/Thin",
+    "candidates": [
+      "RY Thick/Thin",
+      "Blood Water",
+      "Blood Wine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yehuda's ruling about the minchat kohen mashiach and minchat nesachim being pesulah due to thick/thin consistency differences, which is precisely what the 'RY Thick/Thin' prose section discusses.",
+      "chosen_heading": "RY Thick/Thin",
+      "current_heading": "RY Thick/Thin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Blood Wine",
+    "candidates": [
+      "Blood Water",
+      "Blood Wine",
+      "Blood Blood",
+      "RY No Null",
+      "YK Blood"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara source text covering all three cases (blood+water, blood+wine, blood+animal blood) plus Rabbi Yehuda's view, and it belongs under the first heading 'Blood Water' which introduces this entire Mishna from Zevachim \u2014 the subsequent headings discuss individual sub-topics derived from this single quoted passage.",
+      "chosen_heading": "Blood Water",
+      "current_heading": "Blood Wine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "YK Blood",
+    "candidates": [
+      "Blood Blood",
+      "RY No Null",
+      "YK Blood",
+      "Olim",
+      "Min Bemin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items are part of Rabbi Yo\u1e25anan's explanation of how both the Rabbis and Rabbi Yehuda derive their positions from the same Yom Kippur verse (ve-lakach mi-dam ha-par u-mi-dam ha-sa'ir), which is precisely what the 'YK Blood' prose describes.",
+      "chosen_heading": "YK Blood",
+      "current_heading": "YK Blood",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Min Bemin",
+    "candidates": [
+      "Olim",
+      "Min Bemin",
+      "Feature Debate",
+      "Liquid Solid",
+      "Similar Mix Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items are the Gemara's debate about which feature (olin or min be-mino) drives the non-nullification principle, including the back-and-forth challenges and 'kashya' concessions \u2014 exactly what candidate 2 ('Feature Debate') describes in its prose.",
+      "chosen_heading": "Feature Debate",
+      "current_heading": "Min Bemin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Similar Mix Q",
+    "candidates": [
+      "Feature Debate",
+      "Liquid Solid",
+      "Similar Mix Q",
+      "Flour Nulls"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara's objection that when the mixtures absorb from each other it is 'min be-mino' so why does it matter \u2014 which is exactly what the prose of candidate 2 ('Similar Mix Q') describes and analyzes.",
+      "chosen_heading": "Similar Mix Q",
+      "current_heading": "Similar Mix Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Flour Nulls",
+    "candidates": [
+      "Flour Nulls",
+      "Sages View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's statement about Rabbi Yehuda's principle of disregarding like-substance and nullification by unlike substance, which is precisely what the 'Flour Nulls' section's prose explains and analyzes.",
+      "chosen_heading": "Flour Nulls",
+      "current_heading": "Flour Nulls",
+      "moved": false
+    }
+  }
+]

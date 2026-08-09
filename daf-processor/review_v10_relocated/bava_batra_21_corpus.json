@@ -1,0 +1,303 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Commercial vs. Domestic",
+    "candidates": [
+      "Mishnah: Courtyard Store",
+      "Commercial vs. Domestic",
+      "Gemara Question",
+      "Abaye: Neighboring Court",
+      "Rava: School Case",
+      "Yehoshua ben Gamla"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah itself covering both the courtyard store prohibition and the domestic craft permission, and candidate 0 ('Mishnah: Courtyard Store') is the section whose prose directly introduces and discusses this mishnah as a whole unit, whereas candidate 1 treats only the second half of the mishnah's distinction.",
+      "chosen_heading": "Mishnah: Courtyard Store",
+      "current_heading": "Commercial vs. Domestic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Yehoshua ben Gamla",
+    "candidates": [
+      "Gemara Question",
+      "Abaye: Neighboring Court",
+      "Rava: School Case",
+      "Yehoshua ben Gamla",
+      "Private Education",
+      "Jerusalem Schools"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye: Neighboring Court",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Abaye's answer and Rava's counter-challenge/resolution, which the prose of 'Abaye: Neighboring Court' and 'Rava: School Case' cover \u2014 but since item 1 contains both Abaye's position AND Rava's opening objection, and item 2 completes Rava's answer, items 1-2 belong under 'Rava: School Case' (index 2) as that section's prose explicitly discusses both Rava's rejection of Abaye and the Yehoshua ben Gamla takkanah connection.",
+      "second_heading": "Yehoshua ben Gamla",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the extended praise and background of Yehoshua ben Gamla's ordinance, which corresponds precisely to the 'Yehoshua ben Gamla' section (index 3) whose prose discusses this same Rav Yehuda/Rav statement about Torah being forgotten.",
+      "current_heading": "Yehoshua ben Gamla",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Jerusalem Schools",
+    "candidates": [
+      "Private Education",
+      "Jerusalem Schools",
+      "Universal Education",
+      "Schools Protected",
+      "Jerusalem Environment",
+      "Enrollment & Feeding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items trace the progression from Jerusalem-based schools through district-level schools to Yehoshua ben Gamla's universal reform, which is precisely what the 'Jerusalem Schools' prose describes \u2014 the staged development including the Jerusalem stage, the district stage, the age-of-enrollment problem, and the culminating reform.",
+      "chosen_heading": "Jerusalem Schools",
+      "current_heading": "Jerusalem Schools",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Enrollment & Feeding",
+    "candidates": [
+      "Universal Education",
+      "Schools Protected",
+      "Jerusalem Environment",
+      "Enrollment & Feeding",
+      "Discipline Standards",
+      "Inclusion Policy",
+      "Baraita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers both the enrollment age rule (do not accept before six, stuff like an ox) and the discipline/inclusion advice, all of which are discussed together in the 'Enrollment & Feeding' section's prose, and the current placement is correct.",
+      "chosen_heading": "Enrollment & Feeding",
+      "current_heading": "Enrollment & Feeding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Baraita Challenge",
+    "candidates": [
+      "Discipline Standards",
+      "Inclusion Policy",
+      "Baraita Challenge",
+      "Non-Jewish Schools"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Baraita Challenge",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present the baraita challenges (the objections from baraitot about courtyard residents blocking a teacher), which is exactly what candidate 2 'Baraita Challenge' describes in its prose.",
+      "second_heading": "Non-Jewish Schools",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the third baraita about renting to a sofer and its resolution, which fits candidate 3 'Non-Jewish Schools' whose prose explicitly discusses the gemara's resolution of all three baraitot including the sofer case.",
+      "current_heading": "Baraita Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Non-Jewish Schools",
+    "candidates": [
+      "Non-Jewish Schools",
+      "Multi-Grade Schools",
+      "Class Size Numbers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses Rava's rulings about transporting children between towns and synagogues following Yehoshua ben Gamla's ordinance, which directly relates to the class-size and school organization section where Rava's standards are established, not to non-Jewish schools.",
+      "chosen_heading": "Class Size Numbers",
+      "current_heading": "Non-Jewish Schools",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Class Size Numbers",
+    "candidates": [
+      "Multi-Grade Schools",
+      "Class Size Numbers",
+      "Rambam Reading",
+      "Tosafot Reading",
+      "Ashkenazi Position",
+      "Job Security",
+      "Competition Incentive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement establishing the class-size numbers (25, 40, 50), which is exactly what the 'Class Size Numbers' section's prose introduces and discusses.",
+      "chosen_heading": "Class Size Numbers",
+      "current_heading": "Class Size Numbers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Competition Incentive",
+    "candidates": [
+      "Rambam Reading",
+      "Tosafot Reading",
+      "Ashkenazi Position",
+      "Job Security",
+      "Competition Incentive",
+      "Breadth vs. Precision",
+      "Joab Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains both Rava's ruling about not firing an existing teacher (Job Security) and Rav Dimi's response about competitive zeal, and the prose under heading 3 ('Job Security') explicitly quotes and discusses Rava's ruling while heading 4 ('Competition Incentive') covers only Rav Dimi's position \u2014 since both statements appear together in the single Talmudic passage, it belongs under the heading that introduces the topic, which is 'Job Security' (index 3), where Rava's ruling opens the discussion that Rav Dimi then counters.",
+      "chosen_heading": "Job Security",
+      "current_heading": "Competition Incentive",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Joab Story",
+    "candidates": [
+      "Breadth vs. Precision",
+      "Joab Story",
+      "Professional List",
+      "Irreversible Loss"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Breadth vs. Precision",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the Rava/Rav Dimi dispute about breadth vs. precision, which is precisely what the 'Breadth vs. Precision' prose section discusses.",
+      "second_heading": "Joab Story",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 contain the Joab narrative illustrating Rav Dimi's point, which is exactly what the 'Joab Story' prose section describes in detail.",
+      "current_heading": "Joab Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Irreversible Loss",
+    "candidates": [
+      "Professional List",
+      "Irreversible Loss",
+      "Rav Huna Mill Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage lists the five professionals and states the principle, matching 'Professional List' prose which covers exactly this Rava ruling about the five professionals being considered forewarned; the 'Irreversible Loss' section is the essay's own elaboration of the principle, not the source text itself.",
+      "chosen_heading": "Professional List",
+      "current_heading": "Irreversible Loss",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Rav Huna Mill Case",
+    "candidates": [
+      "Irreversible Loss",
+      "Rav Huna Mill Case",
+      "Fish Hunting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Huna's ruling about the mill in the alleyway (mavoi), which is precisely what the prose under 'Rav Huna Mill Case' describes and analyzes.",
+      "chosen_heading": "Rav Huna Mill Case",
+      "current_heading": "Rav Huna Mill Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Fish Hunting",
+    "candidates": [
+      "Fish Hunting",
+      "Fish vs. Customers",
+      "Unfair Competition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the fish trap distancing rule and Rabba bar Rav Huna's specification of a parsa, which is exactly what the 'Fish Hunting' section prose discusses, before the rebuttal about fish being different (which belongs to 'Fish vs. Customers').",
+      "chosen_heading": "Fish Hunting",
+      "current_heading": "Fish Hunting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Unfair Competition",
+    "candidates": [
+      "Fish vs. Customers",
+      "Unfair Competition",
+      "Fair vs. Unfair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Ravina-Rava exchange about Rabbi Yehuda and the Rabbis on unfair competition, which is precisely what heading 1 'Unfair Competition' describes in its prose, while heading 2 covers the gemara's response (afilu teima Rabbanan) which would be the next passage.",
+      "chosen_heading": "Unfair Competition",
+      "current_heading": "Unfair Competition",
+      "moved": false
+    }
+  }
+]

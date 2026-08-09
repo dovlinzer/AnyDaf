@@ -1,0 +1,582 @@
+[
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Death Liability",
+    "candidates": [
+      "Overview",
+      "Binding & Position",
+      "Degradation Principle",
+      "Strap Construction",
+      "Measurements",
+      "Striking Position",
+      "Verses & Word Count",
+      "Death Liability",
+      "Nikleh Dismissal",
+      "Why Nikleh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage covers both the death liability rule (patur if dies during authorized lashing, galut if flogger adds an extra lash) and the sullying dismissal rule, which maps directly to the 'Death Liability' section's prose about umet tachat yado patur and hosif retzuah achat \u2014 the current placement is correct.",
+      "chosen_heading": "Death Liability",
+      "current_heading": "Death Liability",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Why Nikleh",
+    "candidates": [
+      "Nikleh Dismissal",
+      "Why Nikleh",
+      "Calf-Skin Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks 'What is the reason?' and answers 'due to nikleh (debased),' which directly matches the 'Why Nikleh' section's prose about the gemara opening with 'mai ta'ama? mishum nikleh' and the verse 'veniklah achicha le'einecha.'",
+      "chosen_heading": "Why Nikleh",
+      "current_heading": "Why Nikleh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Calf-Skin Source",
+    "candidates": [
+      "Calf-Skin Source",
+      "Smichuyot Concept",
+      "Smichuyot Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the exact Talmudic source text for the calf-skin strap derivation, which is precisely what the 'Calf-Skin Source' section's prose discusses.",
+      "chosen_heading": "Calf-Skin Source",
+      "current_heading": "Calf-Skin Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Smichuyot Examples",
+    "candidates": [
+      "Smichuyot Concept",
+      "Smichuyot Examples",
+      "Donkey Strap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are Rav Sheshet's smichuyot teachings in the name of Rabbi Elazar ben Azaryah, and candidate 1's prose explicitly describes all three of these exact examples (yevamah/muke shchin, mo'adim/avodah zarah, lashon ha-ra/dogs) in the same order.",
+      "chosen_heading": "Smichuyot Examples",
+      "current_heading": "Smichuyot Examples",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Donkey Strap",
+    "candidates": [
+      "Donkey Strap",
+      "Tefach Sizing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the donkey-hide straps and the Galilean's interpretation before Rav \u1e24isda about the ox and donkey recognizing their master, which is precisely what the 'Donkey Strap' section's prose addresses.",
+      "chosen_heading": "Donkey Strap",
+      "current_heading": "Donkey Strap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Tefach Sizing",
+    "candidates": [
+      "Tefach Sizing",
+      "Loop Solution",
+      "Distribution Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Abaye's inference and Rava's loop solution, but the dominant content\u2014Rava's practical objection and the adjustable-loop resolution\u2014matches 'Loop Solution' prose far better than the current 'Tefach Sizing' heading, which misrepresents Abaye's point as being about tefach variation rather than back-size customization.",
+      "chosen_heading": "Loop Solution",
+      "current_heading": "Tefach Sizing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Distribution Source",
+    "candidates": [
+      "Loop Solution",
+      "Distribution Source",
+      "Attendant Qualifications",
+      "Attendant Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the derivation of the front/back distribution and the doubling of the strap from the verse 've-hippilo,' which is exactly what candidate 1 ('Distribution Source') describes in its prose.",
+      "chosen_heading": "Distribution Source",
+      "current_heading": "Distribution Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Attendant Dispute",
+    "candidates": [
+      "Attendant Qualifications",
+      "Attendant Dispute",
+      "Three Judges"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the baraita on attendant qualifications, Rava's support of Rabbi Yehudah from the verse, and the mechanics of raising/striking with one hand \u2014 are discussed together in the 'Attendant Dispute' prose, which is exactly where the passage currently sits.",
+      "chosen_heading": "Attendant Dispute",
+      "current_heading": "Attendant Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Three Judges",
+    "candidates": [
+      "Three Judges",
+      "Maka Raba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the roles of the three judges and the instruction to lengthen or shorten recitation based on the number of lashes, which is precisely what the 'Three Judges' prose section discusses.",
+      "chosen_heading": "Three Judges",
+      "current_heading": "Three Judges",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Maka Raba",
+    "candidates": [
+      "Maka Raba",
+      "Nitkalkel Dismissal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about 'maka raba' and what the verse teaches about minimal vs. great flogging, which exactly matches the prose under heading 0.",
+      "chosen_heading": "Maka Raba",
+      "current_heading": "Maka Raba",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Nitkalkel Dismissal",
+    "candidates": [
+      "Nitkalkel Dismissal",
+      "Meir vs. Yehudah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita with Rabbi Meir, Rabbi Yehudah, and the Rabbis' positions on nitkalkel dismissal, which is precisely what candidate 0's prose describes, while candidate 1 discusses Rav Nachman bar Yitzchak's resolution of a contradiction in Rabbi Yehudah's position, a later analytical step not present in this passage.",
+      "chosen_heading": "Nitkalkel Dismissal",
+      "current_heading": "Nitkalkel Dismissal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Meir vs. Yehudah",
+    "candidates": [
+      "Meir vs. Yehudah",
+      "Escape & Breakage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yehuda's position and Rav Na\u1e25man bar Yitz\u1e25ak's resolution that both men and women are equal with regard to excrement, which is exactly what the 'Meir vs. Yehudah' section prose describes.",
+      "chosen_heading": "Meir vs. Yehudah",
+      "current_heading": "Meir vs. Yehudah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Escape & Breakage",
+    "candidates": [
+      "Escape & Breakage",
+      "Sequence Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Shmuel's ruling about fleeing from court and the strap-breakage cases, which is precisely what the 'Escape & Breakage' section's prose addresses.",
+      "chosen_heading": "Escape & Breakage",
+      "current_heading": "Escape & Breakage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Sequence Rules",
+    "candidates": [
+      "Sequence Rules",
+      "Kareit Absolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the timing rules for exemption or flogging based on when degradation occurs, matching precisely the 'Sequence Rules' prose which explains the same baraita about assessment, degradation timing, and the scriptural basis for the required order.",
+      "chosen_heading": "Sequence Rules",
+      "current_heading": "Sequence Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Kareit Absolution",
+    "candidates": [
+      "Kareit Absolution",
+      "Kal Vachomer",
+      "Reward Ratio",
+      "Shimon Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text directly presents the ruling that those liable for kareit who were flogged are absolved, with the 'veniklah achicha' derivation and Rabbi Chananya ben Gamliel's statement, which is precisely what the 'Kareit Absolution' section prose describes.",
+      "chosen_heading": "Kareit Absolution",
+      "current_heading": "Kareit Absolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Shimon Derivation",
+    "candidates": [
+      "Kal Vachomer",
+      "Reward Ratio",
+      "Shimon Derivation",
+      "Reward for Inaction",
+      "Blood Abstention"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shimon Derivation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Shimon's derivation from the juxtaposition of karet and 'va-chai bahem,' which is precisely what the 'Shimon Derivation' prose describes.",
+      "second_heading": "Reward for Inaction",
+      "second_confidence": "high",
+      "second_reason": "Item 2 states the corollary that one who sits and refrains from transgression receives reward as though performing a mitzvah, which is exactly what the 'Reward for Inaction' prose discusses.",
+      "current_heading": "Shimon Derivation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Blood Abstention",
+    "candidates": [
+      "Reward for Inaction",
+      "Blood Abstention",
+      "Chananya ben Akashya"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the kal va-chomer about blood abstention leading to reward for abstaining from robbery and forbidden relations, which is precisely what the 'Blood Abstention' section's prose describes.",
+      "chosen_heading": "Blood Abstention",
+      "current_heading": "Blood Abstention",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Chananya ben Akashya",
+    "candidates": [
+      "Chananya ben Akashya",
+      "Yochanan Dispute",
+      "Yitzchak Position",
+      "Shabbat vs. Yom Kippur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Rabbi \u1e24ananya ben Akashya statement about God multiplying Torah and mitzvot to confer merit, which matches exactly the prose under heading 0 discussing this same teaching.",
+      "chosen_heading": "Chananya ben Akashya",
+      "current_heading": "Chananya ben Akashya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Shabbat vs. Yom Kippur",
+    "candidates": [
+      "Yochanan Dispute",
+      "Yitzchak Position",
+      "Shabbat vs. Yom Kippur",
+      "Ashi Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous gemara discussion about Rabbi Yochanan's statement that colleagues dispute Rabbi Chananya ben Gamliel \u2014 item 1 presents the dispute and the Shabbat/Yom Kippur proof, and item 2 presents Rav Nachman bar Yitzchak's counter that the mishna follows Rabbi Yitzchak who holds lashes don't apply to karet cases \u2014 all belonging under the 'Yochanan Dispute' heading, not under the heading for the Shabbat/Yom Kippur distinction or the Rabbi Yitzchak position separately.",
+      "chosen_heading": "Yochanan Dispute",
+      "current_heading": "Shabbat vs. Yom Kippur",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Ashi Resolution",
+    "candidates": [
+      "Shabbat vs. Yom Kippur",
+      "Ashi Resolution",
+      "Halacha Decision",
+      "Three Decrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's statement about 'zeh ikar zedono bi-dei adam, ve-zeh ikar zedono bi-dei shamayim,' which is exactly what the 'Ashi Resolution' section's prose discusses and explains.",
+      "chosen_heading": "Ashi Resolution",
+      "current_heading": "Ashi Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Three Decrees",
+    "candidates": [
+      "Halacha Decision",
+      "Three Decrees",
+      "Megillah Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with Rav Adda bar Ahava ruling the halacha follows Rabbi \u1e24ananya ben Gamliel, which is the primary content described in candidate 0's prose, and the Rav Yosef/Abaye exchange about deriving from verses is the immediate follow-up to that ruling \u2014 candidate 1's prose discusses the three decrees content that comes after this exchange, making candidate 0 the better fit.",
+      "chosen_heading": "Halacha Decision",
+      "current_heading": "Three Decrees",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Megillah Reading",
+    "candidates": [
+      "Three Decrees",
+      "Megillah Reading",
+      "Shalom Greeting"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Three Decrees",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces all three matters together \u2014 the enumeration of the three decrees \u2014 which matches the 'Three Decrees' prose that discusses Rabbi Yehoshua ben Levi's teaching of shelosha devarim and asks why only three.",
+      "second_heading": "Megillah Reading",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the specific textual derivation for mikra megillah (kiyemu ve-kiblu), which matches exactly the 'Megillah Reading' prose discussing that verse and its interpretation as heavenly ratification.",
+      "current_heading": "Megillah Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Shalom Greeting",
+    "candidates": [
+      "Shalom Greeting",
+      "Ma'aser Decree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses greeting with God's name using the Boaz and Gideon examples, which exactly matches the 'Shalom Greeting' section's prose about she'ilat shalom be-shem.",
+      "chosen_heading": "Shalom Greeting",
+      "current_heading": "Shalom Greeting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Ma'aser Decree",
+    "candidates": [
+      "Ma'aser Decree",
+      "Three Instances",
+      "Shem & Yehudah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the bringing of ma'aser (tithe) and the verse from Malachi including the 'ad beli dai' interpretation by Rami bar Rav, which matches perfectly with the 'Ma'aser Decree' section prose.",
+      "chosen_heading": "Ma'aser Decree",
+      "current_heading": "Ma'aser Decree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Shem & Yehudah",
+    "candidates": [
+      "Three Instances",
+      "Shem & Yehudah",
+      "Shmuel Witness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rabbi Elazar's statement about all three places where the Divine Spirit appeared, which matches the 'Three Instances' heading's prose about this overarching teaching, before the essay breaks down each individual case separately.",
+      "chosen_heading": "Three Instances",
+      "current_heading": "Shem & Yehudah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Shmuel Witness",
+    "candidates": [
+      "Shem & Yehudah",
+      "Shmuel Witness",
+      "Shlomo & Mothers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the court of Samuel and the bat kol declaring 'I am witness to this matter,' which directly matches the prose in candidate 1 about Samuel's court and the singular/plural verb issue.",
+      "chosen_heading": "Shmuel Witness",
+      "current_heading": "Shmuel Witness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Shlomo & Mothers",
+    "candidates": [
+      "Shlomo & Mothers",
+      "Abba Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Solomon's judgment and the bat kol confirming the mother's identity, which is exactly what the 'Shlomo & Mothers' section's prose discusses.",
+      "chosen_heading": "Shlomo & Mothers",
+      "current_heading": "Shlomo & Mothers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      155,
+      156,
+      157
+    ],
+    "current_heading": "Abba Objection",
+    "candidates": [
+      "Abba Objection",
+      "Tradition Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are Rava's objections to the proofs from Judah, Samuel, and Solomon respectively \u2014 exactly the content described in the 'Abba Objection' prose, which details all three counter-arguments; item 3's final word 'ela gemara' is the transition to the resolution but the bulk of the passage is the objections themselves, matching candidate 0.",
+      "chosen_heading": "Abba Objection",
+      "current_heading": "Abba Objection",
+      "moved": false
+    }
+  }
+]

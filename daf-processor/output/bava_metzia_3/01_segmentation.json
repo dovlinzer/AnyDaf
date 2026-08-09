@@ -214,7 +214,7 @@
           "timestamp": "42:57"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 16,
       "matched": true
     },
     {
@@ -258,7 +258,7 @@
           "timestamp": "53:48"
         }
       ],
-      "sefaria_index": 20,
+      "sefaria_index": 23,
       "matched": true
     }
   ],
@@ -440,5 +440,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "42:57",
+  "amud_b_micro_title": "Oath Breaks Rationalizer",
+  "shiur_start_daf": 2,
+  "shiur_start_amud": "b"
 }

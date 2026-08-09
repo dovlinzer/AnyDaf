@@ -1,0 +1,206 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Baraita: Knas to Father",
+    "candidates": [
+      "Three Opinions on Knas",
+      "Rabbi Yose vs. Two Akivas",
+      "Baraita: Knas to Father",
+      "Obligation vs. Transfer",
+      "Abaye's Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita 'tanu rabbanan' about knas going to the father vs. the girl, with Rav Chisda's explanation about erusin-then-divorce, which is precisely what the prose under 'Baraita: Knas to Father' describes.",
+      "chosen_heading": "Baraita: Knas to Father",
+      "current_heading": "Baraita: Knas to Father",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Abaye's Exemption",
+    "candidates": [
+      "Obligation vs. Transfer",
+      "Abaye's Exemption",
+      "Fundamental Obligation",
+      "Maturation in Grave",
+      "Pregnancy Impossibility",
+      "Three Women & Moch",
+      "Six Months Rule",
+      "Reformulated Question",
+      "Reformulated Question",
+      "Death as Emancipation",
+      "Betrothal After Rape"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and explains Abaye's ruling that intercourse followed by the girl's death exempts payment, which is precisely what the 'Abaye's Exemption' section's prose describes.",
+      "chosen_heading": "Abaye's Exemption",
+      "current_heading": "Abaye's Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Betrothal After Rape",
+    "candidates": [
+      "Fundamental Obligation",
+      "Maturation in Grave",
+      "Pregnancy Impossibility",
+      "Three Women & Moch",
+      "Six Months Rule",
+      "Reformulated Question",
+      "Reformulated Question",
+      "Death as Emancipation",
+      "Betrothal After Rape",
+      "Time of Act Matters",
+      "Nisuin Counterexample",
+      "General vs. Specific Rul\u2026",
+      "Erusin Lacks Logic",
+      "Mishna Overview"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Reformulated Question",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 cover Rava's bagar bakever dilemma, the pregnancy impossibility challenge, and Mar bar Rav Ashi's reformulation ending in teiku \u2014 exactly what candidate 6's prose describes.",
+      "second_heading": "Betrothal After Rape",
+      "second_confidence": "high",
+      "second_reason": "Items 6-7 begin an entirely new question about betrothal after rape (Rava asking Abaye), matching candidate 8's prose about ba'al ve'nisarsa and Abaye's response about the verse's meaning.",
+      "current_heading": "Betrothal After Rape",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Mishna Overview",
+    "candidates": [
+      "Time of Act Matters",
+      "Nisuin Counterexample",
+      "General vs. Specific Rul\u2026",
+      "Erusin Lacks Logic",
+      "Mishna Overview",
+      "Three Payments Explained",
+      "Mefateh Conditions",
+      "Ones Conditions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The Mishna text lists the three/four payments, the distinction between seducer and rapist, and the structural differences in obligation (immediate payment, marrying perforce) \u2014 all of which are precisely what the 'Mishna Overview' prose introduces and frames for the subsequent discussion.",
+      "chosen_heading": "Mishna Overview",
+      "current_heading": "Mishna Overview",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Ones Conditions",
+    "candidates": [
+      "Three Payments Explained",
+      "Mefateh Conditions",
+      "Ones Conditions",
+      "Key Questions",
+      "Tzaar Defined",
+      "Challenge to Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly describes the 'ones shoseh b'atzitzo' rule and the exceptions for halakhically forbidden women, which is exactly what the 'Ones Conditions' section prose discusses.",
+      "chosen_heading": "Ones Conditions",
+      "current_heading": "Ones Conditions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Challenge to Definition",
+    "candidates": [
+      "Key Questions",
+      "Tzaar Defined",
+      "Challenge to Definition",
+      "Ones vs. Consent",
+      "Consent Argument",
+      "Father's Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the challenge to Shmuel's father's definition of tzaar (item 1) and its resolution through Rabbi Shimon ben Yehuda's baraita and the majority's response (item 2), which is exactly what 'Challenge to Definition' describes in its prose.",
+      "chosen_heading": "Challenge to Definition",
+      "current_heading": "Challenge to Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Father's Rights",
+    "candidates": [
+      "Ones vs. Consent",
+      "Consent Argument",
+      "Father's Rights",
+      "Women's Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the 'ei hakhi mefuttah nami' objection and Rav Nachman's parable in direct response to the tzaar shel pissuk haraglayim argument, which is precisely what the 'Consent Argument' prose section describes as the logical implication and the analogy that follows it.",
+      "chosen_heading": "Consent Argument",
+      "current_heading": "Father's Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Women's Testimony",
+    "candidates": [
+      "Father's Rights",
+      "Women's Testimony",
+      "Pain-Pleasure Balance",
+      "Critical Gap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the three amoraic testimonies (Abaye, Rava, Rav Pappa) about the nature of pain in first consensual intercourse, which is precisely what the 'Women's Testimony' section's prose describes and discusses.",
+      "chosen_heading": "Women's Testimony",
+      "current_heading": "Women's Testimony",
+      "moved": false
+    }
+  }
+]

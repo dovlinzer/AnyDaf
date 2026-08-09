@@ -1,0 +1,290 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Rosh Chodesh Unity",
+    "candidates": [
+      "Rosh Chodesh Unity",
+      "Abaye: All Unified",
+      "Rav Ashi: Ktiv/Kri",
+      "One Set Determined",
+      "Day 1: Havu L'Hashem",
+      "Day 2: V'Larasha",
+      "Day 3: Mi Yakum",
+      "Day 4: Binu Bo'arim",
+      "Day 5: Hasiroti",
+      "Day 6: Yamutu",
+      "Shabbat Pushes Off",
+      "Rav Acha's Position",
+      "Mnemonics: Humbahi",
+      "Ravina: Length Not Qty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 11,
+      "confidence": "high",
+      "reason": "The passage describes the conclusive refutation of Rabbi A\u1e25a bar \u1e24anina's opinion and then asks how his supporting verse and baraita can be dismissed \u2014 which matches exactly the prose of candidate 11 ('Rav Acha's Position'), not candidate 0.",
+      "chosen_heading": "Rav Acha's Position",
+      "current_heading": "Rosh Chodesh Unity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Ravina: Length Not Qty",
+    "candidates": [
+      "Abaye: All Unified",
+      "Rav Ashi: Ktiv/Kri",
+      "One Set Determined",
+      "Day 1: Havu L'Hashem",
+      "Day 2: V'Larasha",
+      "Day 3: Mi Yakum",
+      "Day 4: Binu Bo'arim",
+      "Day 5: Hasiroti",
+      "Day 6: Yamutu",
+      "Shabbat Pushes Off",
+      "Rav Acha's Position",
+      "Mnemonics: Humbahi",
+      "Ravina: Length Not Qty",
+      "More Blowers, One Set",
+      "Two-Day Yom Tov Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 12,
+      "confidence": "high",
+      "reason": "The passage contains both Ravina's statement about extending the duration of blasts and the Sages of Caesarea's statement about increasing the number of trumpeters, which corresponds exactly to headings 12 and 13 combined \u2014 but since the current placement (12) introduces Ravina's position and the passage includes both statements together, and heading 12's prose explicitly describes Ravina's resolution while heading 13 covers only the Caesarea rabbis, the single passage containing both statements fits best under heading 12 where it currently sits, as the two statements are a unified gemara exchange.",
+      "chosen_heading": "Ravina: Length Not Qty",
+      "current_heading": "Ravina: Length Not Qty",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Two-Day Yom Tov Problem",
+    "candidates": [
+      "More Blowers, One Set",
+      "Two-Day Yom Tov Problem",
+      "Abaye: Sheni Yidachei",
+      "Rava: Shvi'i Yidachei",
+      "Baraita Backs Rava",
+      "Ameimar: Both Days",
+      "Rashi: Torah Reading",
+      "Tosafot: Consistency",
+      "13 Bulls, 2 Rams, 1 Goat",
+      "Sheep Distribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 Abaye's sheni yidachei, Rava's shevi'i yidachei with its supporting baraita, and Ameimar's Nehardea practice \u2014 form one continuous dispute about the two-day Yom Tov problem in the diaspora, and the current heading 'Two-Day Yom Tov Problem' with its prose explicitly frames exactly this question, making it the correct home for the entire passage.",
+      "chosen_heading": "Two-Day Yom Tov Problem",
+      "current_heading": "Two-Day Yom Tov Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Sheep Distribution",
+    "candidates": [
+      "Abaye: Sheni Yidachei",
+      "Rava: Shvi'i Yidachei",
+      "Baraita Backs Rava",
+      "Ameimar: Both Days",
+      "Rashi: Torah Reading",
+      "Tosafot: Consistency",
+      "13 Bulls, 2 Rams, 1 Goat",
+      "Sheep Distribution",
+      "Daily Countdown"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "13 Bulls, 2 Rams, 1 Goat",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the first day's offerings (thirteen bulls, two rams, one goat, and the sheep distribution for day one), which matches heading 6 ('13 Bulls, 2 Rams, 1 Goat') and heading 7 ('Sheep Distribution') \u2014 but since item 1 contains both the opening enumeration AND the day-one sheep distribution, and heading 6's prose explicitly quotes this Mishna's opening line, item 1 belongs under heading 6 (which flows directly into the sheep distribution prose of heading 7).",
+      "second_heading": "Daily Countdown",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the second and third days' sheep distributions (five doubles, then four doubles), which directly matches heading 8 ('Daily Countdown') whose prose explicitly quotes 'bashaini hamishah makrivim' and 'bashlishi arba'ah makrivim' \u2014 the exact content of item 2.",
+      "current_heading": "Sheep Distribution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Daily Countdown",
+    "candidates": [
+      "Sheep Distribution",
+      "Daily Countdown",
+      "Day 7: Perfect Split",
+      "Rabbi: Fresh Start",
+      "Chachamim: Remaining Two",
+      "Compromise: Lottery",
+      "Math: Two Left Out"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the fourth, fifth, and sixth days of Sukkot and how many divisions receive double sheep portions (three, two, one respectively), which is precisely what the 'Daily Countdown' prose describes.",
+      "chosen_heading": "Daily Countdown",
+      "current_heading": "Daily Countdown",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Math: Two Left Out",
+    "candidates": [
+      "Day 7: Perfect Split",
+      "Rabbi: Fresh Start",
+      "Chachamim: Remaining Two",
+      "Compromise: Lottery",
+      "Math: Two Left Out",
+      "Elazar: 70 Nations"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Day 7: Perfect Split",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing Mishnah text about day 7 equality and day 8 returning to lottery with rotation, which belongs under 'Day 7: Perfect Split' as that section's prose discusses exactly this content.",
+      "second_heading": "Rabbi: Fresh Start",
+      "second_confidence": "high",
+      "second_reason": "Items 2-5 form a continuous Gemara discussion about whether the Mishnah follows Rabbi or Rabbanan regarding the Shemini Atzeret bull lottery, beginning with 'Neima matnisin Rabbi hi' which matches 'Rabbi: Fresh Start' prose precisely.",
+      "current_heading": "Math: Two Left Out",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Elazar: 70 Nations",
+    "candidates": [
+      "Math: Two Left Out",
+      "Elazar: 70 Nations",
+      "King's Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Elazar's teaching about the seventy bulls corresponding to seventy nations and the single bull corresponding to Israel, which is precisely what the 'Elazar: 70 Nations' section's prose discusses.",
+      "chosen_heading": "Elazar: 70 Nations",
+      "current_heading": "Elazar: 70 Nations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "King's Parable",
+    "candidates": [
+      "King's Parable",
+      "Rashi: Universal Rain",
+      "Yochanan: What Was Lost"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the king's parable itself, and the prose under heading 0 ('King's Parable') directly discusses and explains this exact parable about the king asking his beloved for a small private feast after the great feast.",
+      "chosen_heading": "King's Parable",
+      "current_heading": "King's Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Yochanan: What Was Lost",
+    "candidates": [
+      "Rashi: Universal Rain",
+      "Yochanan: What Was Lost",
+      "Shared Portions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact Gemara quote (Rabbi Yochanan's statement about nations losing the Temple's atonement) that heading 1's prose directly introduces and discusses.",
+      "chosen_heading": "Yochanan: What Was Lost",
+      "current_heading": "Yochanan: What Was Lost",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120,
+      121,
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Shared Portions",
+    "candidates": [
+      "Shared Portions",
+      "Regular Mishmar Rights",
+      "Devarim 18 Source",
+      "Gate Limitation",
+      "Lechem HaPanim Exception",
+      "Service Equals Eating",
+      "Regal-Related Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items cover exactly the content described in the 'Shared Portions' prose: the Mishnah about equal shares at three times a year, Rav \u1e24isda's interpretation of eimurei ha-regalim, the Shavuot matzah/chametz distribution, the baraita deriving equality from Deuteronomy 18, and the derivation for shewbread equality \u2014 all of which the 'Shared Portions' section explicitly discusses.",
+      "chosen_heading": "Shared Portions",
+      "current_heading": "Shared Portions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Regal-Related Only",
+    "candidates": [
+      "Regular Mishmar Rights",
+      "Devarim 18 Source",
+      "Gate Limitation",
+      "Lechem HaPanim Exception",
+      "Service Equals Eating",
+      "Regal-Related Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage explicitly derives from 'levad mimkarav al ha'avot' that equal entitlement does not extend to obligations brought on the Festival but not caused by it, matching exactly the 'Regal-Related Only' section's prose about what is and isn't shared equally.",
+      "chosen_heading": "Regal-Related Only",
+      "current_heading": "Regal-Related Only",
+      "moved": false
+    }
+  }
+]

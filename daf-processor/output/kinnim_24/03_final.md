@@ -1,12 +1,9 @@
-# Kinnim 24 — Daf Yomi Shiur
-
+[DAF:24a]
 ## Perek 3 Overview
 
-### Perek 3 Introduction
 
-> **Hebrew/Aramaic:** בַּמֶּה דְבָרִים אֲמוּרִים, בְּכֹהֵן נִמְלָךְ. אֲבָל בְּכֹהֵן שֶׁאֵינוֹ נִמְלָךְ,
->
-> **Translation:** When are these words said? When the priest asks advice. But in the case of a priest who does not seek advice,
+
+### Perek 3 Introduction
 
 The third *perek* of Kinnim is, in a fundamental sense, a parallel to and commentary upon the first *perek*. The language echoes throughout, and the cases map directly onto those treated earlier. Where the first *perek* governed what a *kohen* should do when he comes to ask guidance, the third *perek* addresses what happens when he acts without asking at all.
 
@@ -16,29 +13,19 @@ The *perek* opens with the phrase *bameh devarim amurim* — "when is all of thi
 
 ### Paradox Setup
 
-> **Hebrew/Aramaic:** אֲבָל בְּכֹהֵן שֶׁאֵינוֹ נִמְלָךְ,
->
-> **Translation:** But in the case of a priest who does not seek advice,
-
 The third *perek* then pivots: *aval b'chohen she'eino nimlach* — but what about the *kohen* who did not ask permission and simply went ahead? As counterintuitive as it sounds, this *kohen* may end up with a more favorable outcome. Because he brings everything, some will inevitably be done incorrectly — but some will also be done correctly. The result is that more birds end up *kosher* than would have been permitted had he asked first. This is the governing paradox of the entire *perek*.
 
 ---
 
 ## Equal-Sized Groups
 
-### Equal Groups Rule
 
-> **Hebrew/Aramaic:** אַחַת לָזוֹ וְאַחַת לָזוֹ, שְׁתַּיִם לָזוֹ וּשְׁתַּיִם לָזוֹ, שָׁלשׁ לָזוֹ וְשָׁלשׁ לָזוֹ,
->
-> **Translation:** and one [pair] belongs to one [woman] and one to another, or two [pairs] to one and two to another, or three [pairs] to one and three to another,
+
+### Equal Groups Rule
 
 The language of the *perek* directly parallels the first: *achas l'zu v'achas l'zu*, *shtayim l'zu v'shtayim l'zu*, *shalosh l'zu v'shalosh l'zu* — one pair mixed with one pair, two with two, three with three. These are equal-sized, undifferentiated groups. In the first *perek*, the rule was that you may bring only the smallest group's worth — which in the case of equal groups means half, since both groups are the same size. Half can be brought safely because dividing equally between *olos* and *chataos* guarantees that no individual bird is certainly brought incorrectly.
 
 ### Three Scenarios
-
-> **Hebrew/Aramaic:** עָשָׂה כֻלָּן לְמַעְלָה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כֻּלָּן לְמַטָּן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. חֶצְיָם לְמַעְלָה וְחֶצְיָם לְמַטָּה, אֶת שֶׁלְּמַעְלָה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל, וְאֶת שֶׁלְּמַטָּה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל:
->
-> **Translation:** and he offered all of them above [the red line], then half are valid and half are invalid. [Similarly], if [he offered] all of them below, half are valid and half are invalid. If [he offered] half of them above and half of them below, then of those [offered] above, half are valid and half are invalid, and also of those [offered] below, half are valid and half are invalid.
 
 Now the *kohen* did not ask permission. What did he do?
 
@@ -60,27 +47,17 @@ One might ask whether there is a prohibition involved in knowingly bringing a *p
 
 ## Unequal Groups
 
-### Permission: Smallest Size
 
-> **Hebrew/Aramaic:** אַחַת לָזוֹ, וּשְׁתַּיִם לָזוֹ, וְשָׁלשׁ לָזוֹ, וְעֶשֶׂר לָזוֹ, וּמֵאָה לָזוֹ,
->
-> **Translation:** If one [pair] belonged to one woman and two [pairs] to another, or [even] three [pairs] to another, or [ten] pairs to another or a hundred to another,
+
+### Permission: Smallest Size
 
 *Achas l'zu v'shtayim l'zu* — one pair mixed with two, and by extension three, five, ten, a hundred. When groups are of unequal size and the *kohen* asks permission, the rule is that he may only bring as many birds as the smallest group. The reasoning is straightforward: the moment he exceeds the smallest group's count, he risks bringing a bird from that smaller group in the wrong mode. For example, if the smallest group was one pair, bringing three birds risks having offered the *olah* of the smaller group and then bringing its *chatat* as though it were an *olah*, or vice versa. So the ceiling is always the smallest group.
 
-### No Permission: Half Kosher
-
-> **Hebrew/Aramaic:** עָשָׂה כֻלָּן לְמַעְלָה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כֻּלָּן לְמַטָּן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל.
->
-> **Translation:** and he offered all of them above, then half are valid and half are invalid. [Similarly], if he offered all of them below, half are valid and half are invalid.
+### No Permission: Kosher
 
 If the *kohen* did not ask, *kulam l'mala* — all above — then *mechtza kasher mechtza pasul*. Consider an extreme case: one group of one hundred pairs mixed with one group of one pair, for a total of one hundred and one pairs. If you asked permission, you would be told: bring only one full group — two birds. But the *kohen* went ahead and brought all one hundred and one pairs above. How many are *kosher*? Half. He has effectively brought one hundred and one *chatat-olah* pairs, all treated as *olos* — so all the actual *olos* are *kosher*, which is half. Similarly, *kulam l'mata* yields half *kosher* as well. In stark contrast to what permission would have allowed — a single pair — the *kohen* who acted without permission ends up with over fifty pairs that are *kosher*.
 
 ### Hameruba Kasher
-
-> **Hebrew/Aramaic:** חֶצְיָן לְמַעְלָן וְחֶצְיָן לְמַטָּן, הַמְרֻבֶּה כָשֵׁר.
->
-> **Translation:** [If he offered] half of them above and half below, then the [number of birds as there is in the] larger part are valid.
 
 What about the case where the *kohen* splits them — *chetzi l'mala v'chetzi l'mata*, half above and half below? The rule here is *hameruba kasher* — the size of the larger group determines what is *kosher*.
 
@@ -98,13 +75,11 @@ It is worth noting that equal-sized groups are simply a special case of this rul
 
 ### General Rule
 
-> **Hebrew/Aramaic:** זֶה הַכְּלָל, כָּל מָקוֹם שֶׁאַתָּה יָכוֹל לַחֲלֹק אֶת הַקִּנִּין וְלֹא יְהוּ מִשֶּׁל אִשָּׁה אַחַת, בֵּין מִלְמַעְלָן בֵּין מִלְּמַטָּן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כָּל מָקוֹם שֶׁאֵין אַתָּה יָכוֹל לַחֲלֹק אֶת הַקִּנִּין עַד שֶׁיְּהוּ מִשֶּׁל אִשָּׁה אַחַת, בֵּין מִלְמַעְלָן בֵּין מִלְּמַטָּן, הַמְרֻבֶּה כָשֵׁר:
->
-> **Translation:** This is the general principle: whenever you can divide the pairs [of birds] so that those belonging to one woman need not have part of them [offered] above and part [offered] below, then half of them are valid and half are invalid; But whenever you cannot divide the pairs [of birds] without some of those belonging to one woman being [offered] above and some below, then [the number as there is in] the larger part are valid.
-
 *Zeh klal* — this is the encompassing rule. *Kol makom she'atah yachol lachlok et hakinim shelo yehe mi-shel isha achas bein l'mala u-vein l'mata* — wherever it is possible to divide the *kinim* such that one woman's birds need not be both above and below, then *mechtza kasher mechtza pasul*, half is *kosher*. This describes the equal-size scenario: in theory, all of woman A's birds could land above and all of woman B's could land below. Since that configuration is possible, the worst-case is genuinely half-and-half, and so half is *kosher*.
 
 *V'kol makom she'ein atah yachol lachlok et hakinim ad she'yiheyu mi-shel isha achat bein l'mala u-vein l'mata* — wherever it is impossible to divide the *kinim* without one woman's birds appearing both above and below, as in the case of one hundred and sixteen pairs where group A's two hundred birds cannot all be placed on one side, then *hameruba kasher* — the larger group's count determines what is *kosher*.
+
+It is worth pausing on the formulation of this *klal*, because it is expressed as a striking double negative: not that one woman's birds will be separated, but that it is possible to divide them in a way where one woman's are not necessarily both above and below. The phrasing is somewhat convoluted, but what it is really doing is distinguishing two scenarios by asking whether the worst case can theoretically be total separation. If it can — as with equal-sized groups — then the worst case yields exactly half. If it cannot — because one group is large enough that it must span both tiers — then even in the worst case, the larger group's count is guaranteed.
 
 In truth, these are not two distinct *halachos* but one and the same: the larger group's count is always what is *kosher*, and in an equal-sized case, either group qualifies as "the larger," so the count comes out to half. Whether one says half or says *hameruba kasher*, the underlying principle is identical.
 
@@ -112,19 +87,13 @@ In truth, these are not two distinct *halachos* but one and the same: the larger
 
 ## Chatat & Olah
 
-### All Die Rule
 
-> **Hebrew/Aramaic:** חַטָּאת לָזוֹ, וְעוֹלָה לָזוֹ,
->
-> **Translation:** If the hatats belonged to one and the olot to another,
+
+### All Die Rule
 
 *Chatat lazu v'olah lazu* — this is a direct parallel to the corresponding case in the first *perek*. When a designated *chatat* becomes mixed with a designated *olah*, the rule is that all must die. There is no room for maneuver when the birds have been individually specified. Had the *kohen* asked permission, every bird would have to be left to die.
 
 ### Without Permission
-
-> **Hebrew/Aramaic:** עָשָׂה כֻלָּן לְמַעְלָן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כֻּלָּן לְמַטָּן, מֱחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל.
->
-> **Translation:** and the priest offered them all above, then half are valid and half disqualified. If he offered them all below, half are valid and half disqualified.
 
 But this *kohen* did not ask. So *asa kulam l'mala* — he did all of them above — *mechtza kasher u'mechtza pasul*. Say fifty *chataos* were mixed with fifty *olos*; both groups were designated. The *kohen* brings all one hundred birds above. Half — the actual *olos* — are *kosher*. The other half, the *chataos* done above, are *pasul*. Similarly, *asa kulam l'mata* yields the same result: the *chataos* done below are *kosher*, the *olos* are not. In contrast to the requirement that all die had permission been sought, not asking and proceeding yields fifty percent *kosher* in either of these scenarios.
 
@@ -132,23 +101,19 @@ One might wonder what practical use it is to know that half are *kosher* if one 
 
 ### Half and Half Result
 
-> **Hebrew/Aramaic:** חֶצְיָן לְמַעְלָן וְחֶצְיָן לְמַטָּן, שְׁתֵּיהֶן פָּסוּל, שֶׁאֲנִי אוֹמֵר, חַטָּאת קְרֵבָה לְמַעְלָן וְעוֹלָה לְמַטָּן:
->
-> **Translation:** If he offered half of them above and half below, then all of them are disqualified, because I can argue that the hatats were offered above and the olot below.
-
 *Chetzi l'mala v'chetzi l'mata* — now he splits them, half above and half below. The result: *shteihem pesulos* — both are *pasul*, everything is invalid. The reason: *she'ani omer chatat krevah l'mala* — we must assume the worst case, that all the *chataos* were done above and all the *olos* below. Since we can never rely on probability — one must assume the worst-case scenario, rooted in principles like *safek d'oraita* — we conclude that nothing is valid.
 
 This means that for the designated *chatat*-and-*olah* case, splitting half-and-half is the single worst outcome. Doing all above or all below at least yields fifty percent *kosher*; splitting yields nothing. This is the stark contrast with the undifferentiated case, where splitting half and half also yielded half *kosher*. Here, it yields nothing at all — the same result as if permission had been asked and the birds left to die.
+
+It is worth pausing on a question lurking beneath all of this: in practice, would any of these women even know whether a mix-up had occurred? In the ordinary case of the *yoledet*, the standard operating procedure was to place one's money in a communal box and go home, trusting that the birds would be purchased and brought correctly on one's behalf. A woman arriving home by evening could reasonably assume the entire process had been completed without incident. The very scenario the *masechta* is analyzing — a *kohen* proceeding without permission, mixing designated birds — is one the donor herself would likely never detect. If a mix-up did occur at the *mizbe'ach* and there was no way to notify the donor, one assumes the *kohen* or the *Beit HaMikdash* would have found a way to rectify the situation on behalf of the affected party, perhaps by sanctifying additional birds conditionally. The *masechta* itself does not address the remediation; it is concerned only with establishing what is *kosher* and what is *pasul* as a matter of principle. The practical edge cases, as interesting as they are, remain somewhat open.
 
 ---
 
 ## Mixed Types
 
-### Three-Type Mix
 
-> **Hebrew/Aramaic:** חַטָּאת וְעוֹלָה וּסְתוּמָה וּמְפֹרֶשֶׁת, עָשָׂה כֻלָּן לְמַעְלָן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כֻּלָּן לְמַטָּה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. חֶצְיָן לְמַעְלָן וְחֶצְיָן לְמַטָּן, אֵין כָּשֵׁר אֶלָּא סְתוּמָה, וְהִיא מִתְחַלֶּקֶת בֵּינֵיהֶן:
->
-> **Translation:** If a hatat, an olah, an unassigned pair of birds and an assigned pair [became mixed up], and he offered them all above, then half are valid and half are invalid. [Similarly] if he offered all of them below, half are valid and half are invalid. If he offered half of them above and half below, none is valid except the unassigned pair, and that must be divided between them.
+
+### Three-Type Mix
 
 Now a case not present in the first *perek*: *chatat v'ola stuma u'mefureshet* — a designated *chatat*, a designated *olah*, and one undifferentiated (*stuma*) pair, all mixed together. Concretely: one woman has a designated *chatat*, another has a designated *olah*, and between them they share one undifferentiated *chatat-olah* pair. All get mixed together. In total, there are two *chataos*, two *olos*, and two undifferentiated birds — three pairs in all.
 
@@ -170,29 +135,25 @@ The *Raavad* reads the *mishnah* precisely along these lines. When the *mishnah*
 
 ## Chatat in Chovah
 
-### Permission Rule
 
-> **Hebrew/Aramaic:** חַטָּאת שֶׁנִּתְעָרְבָה בְחוֹבָה, אֵין כָּשֵׁר אֶלָּא מִנְיַן חַטָּאת שֶׁבַּחוֹבָה.
->
-> **Translation:** If hataot birds were mixed up with [unassigned birds that were] obligatory offerings, only the number of hataot among the obligatory offerings are valid.
+
+### Permission Rule
 
 *Chatos shenisarvu bechovah* — a designated *chatat* mixed into an undifferentiated group (*chovah*). This is the case from the very first *mishnah* of the tractate. If a single designated *chatat* flies into a *chovah* of, say, one hundred pairs, what is the rule if the *kohen* asks permission? *Ein kasher ella minyan chataos shebechovah* — only the count of *chataos* in the original *chovah* may be brought. No *olos* at all may be offered, because bringing any *olah* risks bringing the counterpart of the designated *chatat*, and no more *chataos* than the original group contained, because exceeding that number risks treating a designated *chatat*'s counterpart *olah* as though it were a *chatat*.
 
+> **Hebrew/Aramaic:** חַטָּאת שֶׁנִּתְעָרְבָה בְחוֹבָה, אֵין כָּשֵׁר אֶלָּא מִנְיַן חַטָּאת שֶׁבַּחוֹבָה. חוֹבָה שְׁנַיִם בְּחַטָּאת, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. וְחַטָּאת שְׁנַיִם בְּחוֹבָה, הַמִּנְיָן שֶׁבַּחוֹבָה כָּשֵׁר. וְכֵן עוֹלָה שֶׁנִּתְעָרְבָה בְחוֹבָה, אֵין כָּשֵׁר אֶלָּא מִנְיַן עוֹלוֹת שֶׁבַּחוֹבָה. חוֹבָה שְׁנַיִם בְּעוֹלָה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. עוֹלָה שְׁנַיִם בְּחוֹבָה, הַמִּנְיָן שֶׁבַּחוֹבָה כָּשֵׁר:
+> **Translation:** If hataot birds were mixed up with [unassigned birds that were] obligatory offerings, only the number of hataot among the obligatory offerings are valid. If the [unassigned] obligatory offerings are twice as many as the hataot, then half are valid and half invalid; But if the hataot are twice as many as the [unassigned] obligatory offerings, then the number [of hataot] among the obligatory offerings are valid. So, too, if [birds assigned as] olot were mixed up with [unassigned] obligatory offerings, only the number of olot among the obligatory offerings are valid. If the [unassigned] obligatory offerings are twice as many as the olot, then half are valid and half invalid. But if the olot are twice as many as the [unassigned] obligatory offerings, then the number [of olot] among the obligatory offerings are valid.
+
+> **Hebrew/Aramaic:** חַטָּאת שֶׁנִּתְעָרְבָה בְחוֹבָה, אֵין כָּשֵׁר אֶלָּא מִנְיַן חַטָּאת שֶׁבַּחוֹבָה. חוֹבָה שְׁנַיִם בְּחַטָּאת, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. וְחַטָּאת שְׁנַיִם בְּחוֹבָה, הַמִּנְיָן שֶׁבַּחוֹבָה כָּשֵׁר. וְכֵן עוֹלָה שֶׁנִּתְעָרְבָה בְחוֹבָה, אֵין כָּשֵׁר אֶלָּא מִנְיַן עוֹלוֹת שֶׁבַּחוֹבָה. חוֹבָה שְׁנַיִם בְּעוֹלָה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. עוֹלָה שְׁנַיִם בְּחוֹבָה, הַמִּנְיָן שֶׁבַּחוֹבָה כָּשֵׁר:
+> **Translation:** If hataot birds were mixed up with [unassigned birds that were] obligatory offerings, only the number of hataot among the obligatory offerings are valid. If the [unassigned] obligatory offerings are twice as many as the hataot, then half are valid and half invalid; But if the hataot are twice as many as the [unassigned] obligatory offerings, then the number [of hataot] among the obligatory offerings are valid. So, too, if [birds assigned as] olot were mixed up with [unassigned] obligatory offerings, only the number of olot among the obligatory offerings are valid. If the [unassigned] obligatory offerings are twice as many as the olot, then half are valid and half invalid. But if the olot are twice as many as the [unassigned] obligatory offerings, then the number [of olot] among the obligatory offerings are valid.
+
 ### Chovah 2x Chatat
 
-> **Hebrew/Aramaic:** חוֹבָה שְׁנַיִם בְּחַטָּאת, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל.
->
-> **Translation:** If the [unassigned] obligatory offerings are twice as many as the hataot, then half are valid and half invalid;
-
-*Shnayim bechatas* — the *chovah* is twice the size of the designated *chataos* that flew in. For concreteness: two designated *chatat* birds flew into four undifferentiated birds. If he had asked permission, he would be told to bring only two *chataos*. Instead, he brought everything half above, half below — three birds above and three below.
+Now the *kohen* did not ask. *Shnayim bechatas* — the *chovah* is twice the size of the designated *chataos* that flew in. For concreteness: two designated *chatat* birds flew into four undifferentiated birds. If he had asked permission, he would be told to bring only two *chataos*. Instead, he brought everything half above, half below — three birds above and three below.
 
 At best-case, the *chataos* are placed exactly where they belong, and the distribution otherwise falls naturally — everything is as correct as possible. Working through the extremes: even in the worst-case scenario where the *chataos* land entirely in the wrong position, three birds are still *kosher* — one undifferentiated pair plus one additional *stuma* bird. This is half of the total of six birds. So *mechtza kasher mechtza pasul* — half *kosher*, half *pasul*. Notably, the breakdown among those *kosher* birds skews toward *olos*: roughly two-thirds of the valid birds are *olos* and one-third is a *chatat*, though the bottom line is simply that half are *kosher*.
 
 ### Chatat 2x Chovah
-
-> **Hebrew/Aramaic:** וְחַטָּאת שְׁנַיִם בְּחוֹבָה, הַמִּנְיָן שֶׁבַּחוֹבָה כָּשֵׁר.
->
-> **Translation:** But if the hataot are twice as many as the [unassigned] obligatory offerings, then the number [of hataot] among the obligatory offerings are valid.
 
 Now the reverse: *chatas u'shnayim shebechovah* — the designated *chatat* birds that flew in are twice the size of the *chovah*. Four designated *chatat* birds flew into two undifferentiated birds. Half above, half below.
 
@@ -202,11 +163,23 @@ At the best-case extreme, the four *chataos* are placed below where they belong,
 
 ## Olah in Chovah
 
+
+
+[DAF:24b]
 ### Olah Symmetry
 
-> **Hebrew/Aramaic:** וְכֵן עוֹלָה שֶׁנִּתְעָרְבָה בְחוֹבָה, אֵין כָּשֵׁר אֶלָּא מִנְיַן עוֹלוֹת שֶׁבַּחוֹבָה. חוֹבָה שְׁנַיִם בְּעוֹלָה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. עוֹלָה שְׁנַיִם בְּחוֹבָה, הַמִּנְיָן שֶׁבַּחוֹבָה כָּשֵׁר:
->
-> **Translation:** So, too, if [birds assigned as] olot were mixed up with [unassigned] obligatory offerings, only the number of olot among the obligatory offerings are valid. If the [unassigned] obligatory offerings are twice as many as the olot, then half are valid and half invalid. But if the olot are twice as many as the [unassigned] obligatory offerings, then the number [of olot] among the obligatory offerings are valid.
+> **Hebrew/Aramaic:** בַּמֶּה דְבָרִים אֲמוּרִים, בְּכֹהֵן נִמְלָךְ. אֲבָל בְּכֹהֵן שֶׁאֵינוֹ נִמְלָךְ, אַחַת לָזוֹ וְאַחַת לָזוֹ, שְׁתַּיִם לָזוֹ וּשְׁתַּיִם לָזוֹ, שָׁלשׁ לָזוֹ וְשָׁלשׁ לָזוֹ, עָשָׂה כֻלָּן לְמַעְלָה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כֻּלָּן לְמַטָּן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. חֶצְיָם לְמַעְלָה וְחֶצְיָם לְמַטָּה, אֶת שֶׁלְּמַעְלָה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל, וְאֶת שֶׁלְּמַטָּה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל:
+> **Translation:** When are these words said? When the priest asks advice. But in the case of a priest who does not seek advice, and one [pair] belongs to one [woman] and one to another, or two [pairs] to one and two to another, or three [pairs] to one and three to another, and he offered all of them above [the red line], then half are valid and half are invalid. [Similarly], if [he offered] all of them below, half are valid and half are invalid. If [he offered] half of them above and half of them below, then of those [offered] above, half are valid and half are invalid, and also of those [offered] below, half are valid and half are invalid.
+
+> **Hebrew/Aramaic:** אַחַת לָזוֹ, וּשְׁתַּיִם לָזוֹ, וְשָׁלשׁ לָזוֹ, וְעֶשֶׂר לָזוֹ, וּמֵאָה לָזוֹ, עָשָׂה כֻלָּן לְמַעְלָה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כֻּלָּן לְמַטָּן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. חֶצְיָן לְמַעְלָן וְחֶצְיָן לְמַטָּן, הַמְרֻבֶּה כָשֵׁר. זֶה הַכְּלָל, כָּל מָקוֹם שֶׁאַתָּה יָכוֹל לַחֲלֹק אֶת הַקִּנִּין וְלֹא יְהוּ מִשֶּׁל אִשָּׁה אַחַת, בֵּין מִלְמַעְלָן בֵּין מִלְּמַטָּן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כָּל מָקוֹם שֶׁאֵין אַתָּה יָכוֹל לַחֲלֹק אֶת הַקִּנִּין עַד שֶׁיְּהוּ מִשֶּׁל אִשָּׁה אַחַת, בֵּין מִלְמַעְלָן בֵּין מִלְּמַטָּן, הַמְרֻבֶּה כָשֵׁר:
+> **Translation:** If one [pair] belonged to one woman and two [pairs] to another, or [even] three [pairs] to another, or [ten] pairs to another or a hundred to another, and he offered all of them above, then half are valid and half are invalid. [Similarly], if he offered all of them below, half are valid and half are invalid. [If he offered] half of them above and half below, then the [number of birds as there is in the] larger part are valid. This is the general principle: whenever you can divide the pairs [of birds] so that those belonging to one woman need not have part of them [offered] above and part [offered] below, then half of them are valid and half are invalid; But whenever you cannot divide the pairs [of birds] without some of those belonging to one woman being [offered] above and some below, then [the number as there is in] the larger part are valid.
+
+> **Hebrew/Aramaic:** חַטָּאת לָזוֹ, וְעוֹלָה לָזוֹ, עָשָׂה כֻלָּן לְמַעְלָן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כֻּלָּן לְמַטָּן, מֱחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. חֶצְיָן לְמַעְלָן וְחֶצְיָן לְמַטָּן, שְׁתֵּיהֶן פָּסוּל, שֶׁאֲנִי אוֹמֵר, חַטָּאת קְרֵבָה לְמַעְלָן וְעוֹלָה לְמַטָּן:
+> **Translation:** If the hatats belonged to one and the olot to another, and the priest offered them all above, then half are valid and half disqualified. If he offered them all below, half are valid and half disqualified. If he offered half of them above and half below, then all of them are disqualified, because I can argue that the hatats were offered above and the olot below.
+
+> **Hebrew/Aramaic:** חַטָּאת וְעוֹלָה וּסְתוּמָה וּמְפֹרֶשֶׁת, עָשָׂה כֻלָּן לְמַעְלָן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כֻּלָּן לְמַטָּה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. חֶצְיָן לְמַעְלָן וְחֶצְיָן לְמַטָּן, אֵין כָּשֵׁר אֶלָּא סְתוּמָה, וְהִיא מִתְחַלֶּקֶת בֵּינֵיהֶן:
+> **Translation:** If a hatat, an olah, an unassigned pair of birds and an assigned pair [became mixed up], and he offered them all above, then half are valid and half are invalid. [Similarly] if he offered all of them below, half are valid and half are invalid. If he offered half of them above and half below, none is valid except the unassigned pair, and that must be divided between them.
+
 
 *Olah shenisarev bechovah* — when designated *olah* birds become mixed into a *chovah*, the same structure applies in perfect symmetry. *Ein kasher ella minyan olah shebechovah* — if permission were asked, only the count of *olos* in the original *chovah* may be brought.
 
@@ -218,19 +191,13 @@ It is worth noting that in all these cases the *mishnah* describes a *kohen* who
 
 ## Woman's Vow
 
-### Correct Procedure
 
-> **Hebrew/Aramaic:** הָאִשָּׁה שֶׁאָמְרָה, הֲרֵי עָלַי קֵן כְּשֶׁאֵלֵד זָכָר, יָלְדָה זָכָר, מְבִיאָה שְׁתֵּי קִנִּים, אַחַת לְנִדְרָהּ וְאַחַת לְחוֹבָתָהּ. נְתָנָתַם לַכֹּהֵן, וְהַכֹּהֵן צָרִיךְ לַעֲשׂוֹת שָׁלשׁ פְּרִידִים מִלְמַעְלָן וְאַחַת מִלְּמַטָּן.
->
-> **Translation:** If a woman says: "I vow a pair of birds if I give birth to a male child," and she does give birth to a male child, then she must offer up two pairs one for her vow and one for her obligation. If [before she assigned them] she gave them to the priest, and the priest who ought to offer three birds above and one below does not do so,
+
+### Correct Procedure
 
 *Ha'ishah she'amrah harei alai kan kesheyelled zachar* — a woman who says: I accept upon myself to bring a nest of birds when I give birth to a male child. She gives birth to a boy. She now must bring *shtei kinim* — two pairs of birds: one for her vow (*nidrah*), which consists of two *olos* since a voluntary donation of birds is always two *olos*, and one for her obligation as a *yoledet* (*chovatah*), which is one *chatat* and one *olah*. She hands all four birds to the *kohen*. The correct procedure is *gimel pereidin milmala v'achas milmata* — three birds above and one below. The one *chatat* goes below; the three *olos* — two from her vow and one from her obligation — go above.
 
 ### Priest's Mistake
-
-> **Hebrew/Aramaic:** לֹא עָשָׂה כֵן, אֶלָּא עָשָׂה שְׁתַּיִם לְמַעְלָן וּשְׁתַּיִם לְמַטָּן וְלֹא נִמְלַךְ,
->
-> **Translation:** but offers two above and two below, and does not seek guidance,
 
 *Lo asah ken* — he did not do this. Instead: *bet milmala u'vet milmata* — two above and two below, the intuitive equal split, without consulting anyone (*velo nimlach*). He treated it as a normal undifferentiated pair-and-pair situation and split evenly.
 
@@ -238,15 +205,13 @@ The scenario assumes that the *kohen* was subsequently able to communicate the e
 
 ### Woman's Makeup
 
-> **Hebrew/Aramaic:** צְרִיכָה לְהָבִיא עוֹד פְּרִידָה אַחַת, וְיַקְרִיבֶנָּה לְמַעְלָן, מִמִּין אֶחָד. מִשְּׁנֵי מִינִין, תָּבִיא שְׁתַּיִם.
->
-> **Translation:** she must she bring another bird and offer that above. This is so if the birds were of the same kind. If they were of two kinds, then must she bring two others.
-
 *Tzrichah lehavi od preidah achat* — she must bring one additional bird. Since it should have been three above and one below, and instead it was two and two, one bird that belonged above was done below — an *olah* treated as a *chatat*. She must now supply one additional bird to be brought above. *Veyakrivennah milmala* — and it is to be offered above as an *olah*. This is all assuming *mimin echad* — all birds were of the same type, either all *tor* (turtledoves) or all *benei yonah* (young doves). The *mishnah* will now complicate matters by introducing the possibility of mixed types.
 
 ---
 
 ## Mixed Types Problem
+
+
 
 ### Type Unknown
 
@@ -256,33 +221,27 @@ The structure here depends on an implicit assumption — that the *kohen* handle
 
 ### Two Types Solution
 
-> **Hebrew/Aramaic:** מִשְּׁנֵי מִינִין, תָּבִיא שְׁתַּיִם.
->
-> **Translation:** If they were of two kinds, then must she bring two others.
-
 *Mishnei minim tavi shtayim* — she must bring two birds, one of each type, and offer each above. She cannot simply choose either type and assume it is acceptable, because a kosher pair requires a matched type, and it would be improper to presume she knows what was brought. By bringing one *tor* and one *benei yonah* above, she guarantees that whichever type is the correct makeup bird is covered.
+
+The reason she cannot simply pick one type and rely on it is that the makeup bird must be of the same *min* — the same species — as the *olah* it is paired with. One might think that since both *torim* and *benei yonah* are valid bird offerings, it should not matter which type she uses to make up the pair; perhaps she could arbitrarily designate whichever type she brings as matching the original. But that is not correct. The pairing is not merely formal — the makeup bird must actually correspond in type to the *olah* that was done above, and since neither she nor the *kohen* remembers which type that was, she cannot know whether to bring a *tor* or a *benei yonah*. She is therefore required to bring one of each, doing both above, so that whichever one corresponds to the original *olah* will satisfy the obligation.
 
 ---
 
 ## Explicit Vow
 
-### Forgot But Single Type
 
-> **Hebrew/Aramaic:** פֵּרְשָׁה נִדְרָהּ, צְרִיכָה לְהָבִיא עוֹד שָׁלשׁ פְּרִידִים, מִמִּין אֶחָד.
->
-> **Translation:** If she had expressly defined her vow, then must she bring three other birds. This is so if the birds were of the same kind.
+
+### Forgot But Single Type
 
 *Pirshah nidrah* — now suppose the woman made her vow explicit, specifying a particular type. She vowed to bring either specifically *tor* or specifically *benei yonah*. But she forgot what she vowed, and also forgot what was actually brought. The *kohen* likewise forgot what he did.
 
+In this scenario, all four birds that were brought were of the same type — either all *tor* or all *benei yonah* — but nobody remembers which. This is actually a more forgiving situation in one sense: since she specified a single type in her vow, there is no question of a mismatched pair. However, the problem remains that she cannot be certain any of the birds she brought actually satisfied her *neder*. It is entirely possible that she vowed *tor* and then mistakenly brought *benei yonah* to the *Beit HaMikdash*, or vice versa. The birds that were brought are not *pasul* as sacrifices — they are valid *korbanot* — but we simply cannot establish that they fulfilled her specific *neder*, because she does not remember what she said and does not remember what she brought. You cannot credit any of those four birds against her obligation because you cannot isolate even one of them as definitely satisfying any part of her vow. To cover herself completely, she must therefore bring two full pairs — a pair of *tor* and a pair of *benei yonah* — as is discussed in the next section.
+
 ### Three Bird Makeup
 
-In a scenario where it is known that all four birds were of the same type — even if nobody recalls which type — she can eliminate one bird from her accounting. She knows that at least one of those birds was brought above correctly in some form. Therefore she needs to bring only three additional birds *minin echad* to complete her obligation with certainty. The one bird she can credit against the total is the one that was undoubtedly among those offered, even if the exact circumstances are unclear.
+In a scenario where it is known that all four birds were of the same type — even if nobody recalls which type — she can eliminate one bird from her accounting. She knows that at least one of those birds was brought above correctly in some form. Therefore she needs to bring only three additional birds *mimin echad* to complete her obligation with certainty. The one bird she can credit against the total is the one that was undoubtedly among those offered, even if the exact circumstances are unclear.
 
 ### Four Bird Solution
-
-> **Hebrew/Aramaic:** מִשְּׁנֵי מִינִין, תָּבִיא אַרְבַּע.
->
-> **Translation:** If they were of two kinds, then must she bring four others.
 
 If, however, the situation involves genuine uncertainty about the types as well — nobody knows what was brought, whether *tor* or *benei yonah* — then she cannot credit any of the original four birds toward her obligation. She cannot eliminate any from the accounting because she has no way of knowing whether what was done satisfies even part of her commitment. She must therefore bring four birds total, covering all possibilities.
 
@@ -290,22 +249,16 @@ If, however, the situation involves genuine uncertainty about the types as well 
 
 ## Kava Nidrah
 
-### Togetherness Requirement
 
-> **Hebrew/Aramaic:** קָבְעָה נִדְרָהּ, צְרִיכָה לְהָבִיא עוֹד חָמֵשׁ פְּרִידִים, מִמִּין אֶחָד.
->
-> **Translation:** If she made a definite fixture at the time of her vow, then must she bring another five birds. This is so if the birds were of the same kind.
+
+### Togetherness Requirement
 
 *Kava nidrah* — the woman stipulated that her vow is to be brought together with her *korban* as a single unit. Concretely, this means that all three *olos* — the two from her vow and the one from her *yoledet* obligation — must be offered together as a group. (The *chatat* is not subject to this grouping requirement; the togetherness applies specifically to the *olos*.) When the *kohen* errs and the woman must now reconstruct her offering, this togetherness condition adds a layer of complexity: she cannot simply bring each piece independently, because the three *olos* must be brought together. Even if part of what was done originally might have been valid in isolation, the failure to bring all three *olos* as a unified group invalidates the whole for purposes of her *kava nidrah*.
 
 ### Five Birds Single Type
 
-*Tzrichah lehavi od chamesh peridin minin echad* — when all the birds are of a single type but she does not know what was properly accomplished, she must now bring five additional birds. The reasoning: since the togetherness requirement means that none of the original offering can be credited as a valid partial fulfillment, she must reconstruct the entire obligation from scratch. She must bring two birds to reconstitute her vow's *olos*, one bird to serve as the *yoledet* *olah*, and the necessary additional bird alongside the *olah* to meet the *kava nidrah* condition. Working through the counting, this comes to five birds. Although the *chatat* and the *olah* from her *yoledet* obligation do not need to share the same type as one another, the makeup for the *neder* must account for what was originally brought — and since everything must now be done together, the total reaches five.
+*Tzrichah lehavi od chamesh peridin mimin echad* — when all the birds are of a single type but she does not know what was properly accomplished, she must now bring five additional birds. The reasoning: since the togetherness requirement means that none of the original offering can be credited as a valid partial fulfillment, she must reconstruct the entire obligation from scratch. She must bring two birds to reconstitute her vow's *olos*, one bird to serve as the *yoledet* *olah*, and the necessary additional bird alongside the *olah* to meet the *kava nidrah* condition. Working through the counting, this comes to five birds. Although the *chatat* and the *olah* from her *yoledet* obligation do not need to share the same type as one another, the makeup for the *neder* must account for what was originally brought — and since everything must now be done together, the total reaches five.
 
 ### Six Birds Two Types
-
-> **Hebrew/Aramaic:** מִשְּׁנֵי מִינִין, תָּבִיא שֵׁשׁ.
->
-> **Translation:** If they were of two kinds, then must she bring six others.
 
 *Mishnei minim tavi shesh* — when two types are involved and all information about what was originally brought has been lost, she must bring six birds. The additional bird beyond five is required because of uncertainty about what type was used for the *chatat*, and since the accompanying *olah* must match the type of the *chatat* that was brought, she must now provide two candidate *olos* — one of each type — to cover both possibilities. This brings the total to six, accounting for every combination of type and role that her original offering may have taken.

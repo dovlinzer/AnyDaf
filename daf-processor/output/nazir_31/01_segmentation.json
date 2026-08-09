@@ -92,7 +92,7 @@
           "timestamp": "13:48"
         }
       ],
-      "sefaria_index": 4,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -247,8 +247,8 @@
           "timestamp": "45:48"
         }
       ],
-      "sefaria_index": 20,
-      "matched": true
+      "sefaria_index": 21,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -393,5 +393,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "17:20",
+  "amud_b_micro_title": "Status Change Analysis",
+  "shiur_start_daf": 31,
+  "shiur_start_amud": "a"
 }

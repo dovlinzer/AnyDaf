@@ -117,16 +117,18 @@ But the Gemara immediately questions whether this constitutes a genuine proof. *
 > **Hebrew/Aramaic:** אֶלָּא מֵהָכָא: יִשְׂרָאֵל שֶׁהָיָה נוֹשֶׁה בְּגוֹי מָנֶה, וּמָכַר עֲבוֹדָה זָרָה וְהֵבִיא לוֹ, יֵין נֶסֶךְ וְהֵבִיא לוֹ — מוּתָּר, אֲבָל אִם אָמַר לוֹ: ״הַמְתֵּן לִי עַד שֶׁאֶמְכּוֹר עֲבוֹדָה זָרָה וְאָבִיא לָךְ״, ״יֵין נֶסֶךְ וְאָבִיא לָךְ״ — אָסוּר.
 > **Translation:** **Rather,** proof may be brought **from here,** as it is taught in a *baraita*: In the case of **a Jew who was a creditor to a gentile** for the amount of **one hundred dinars, and** the gentile **sold** an object of **idol worship and** from the proceeds **brought him** the payment of the debt, or sold **wine** used for **a libation and** from the proceeds **brought him** the payment of the debt, the money is **permitted. But if** the gentile **said to him: Wait for me until I sell** an object of **idol worship and** from the proceeds **I will bring you** the payment of the debt, or: Wait until I sell **wine** used for **a libation and** from the proceeds **I will bring you** the payment of the debt, this money is **forbidden.** This proves that the proceeds of an object of idol worship in the possession of a gentile are permitted.
 
+> **Hebrew/Aramaic:** מַאי שְׁנָא רֵישָׁא וּמַאי שְׁנָא סֵיפָא? אָמַר רַב שֵׁשֶׁת: סֵיפָא, מִשּׁוּם דְּהָוֵה לֵיהּ כִּי רוֹצֶה בְּקִיּוּמוֹ.
+> **Translation:** The Gemara asks: **What is different** in **the first clause** that it is permitted, **and what is different** in **the latter clause** that it is forbidden? **Rav Sheshet said:** In **the latter clause** the proceeds are forbidden **because** the Jew **desires the preservation of** the object of idol worship or wine used for a libation, since he knows that the gentile must sell it in order to repay the debt.
+
 The Gemara therefore looks elsewhere: *ela me'ha* — rather, from this case. A Jew was a creditor to a non-Jew for one hundred *dinar*. The non-Jew, in order to repay the debt, sold his *avodat kochavim* and brought the proceeds to the Jew — or sold his *yayin nesech* and brought the proceeds. In such a case, the Gemara rules: *mutar* — permitted. However, if the non-Jew said to the Jew: *hamten li ad she'emkor avodat kochavim ve'avi lecha* — wait for me while I go sell my idolatrous object and then bring you the money — that is forbidden.
+
+The distinction turns on what the Jew knows and when he knows it. In the first case, the Jew simply receives payment; he need not inquire into the source of the funds. Too much information, in a sense — if the non-Jew simply sells his *avodat kochavim* and hands over the money without announcement, the Jew has no stake in the matter. But in the second case, where the non-Jew explicitly tells the Jew to wait while he goes to sell his *avodat kochavim*, the Jew now has a vested interest in the survival and successful sale of that idolatrous object. He wants the *avodat kochavim* to remain intact and fetch a good price, because otherwise he does not get repaid. That kind of investment — even a purely financial one — in the continued existence of *avodat kochavim* is precisely what is forbidden.
 
 ### Timing Analysis
 
 
 
 ### Rav Sheshet
-
-> **Hebrew/Aramaic:** מַאי שְׁנָא רֵישָׁא וּמַאי שְׁנָא סֵיפָא? אָמַר רַב שֵׁשֶׁת: סֵיפָא, מִשּׁוּם דְּהָוֵה לֵיהּ כִּי רוֹצֶה בְּקִיּוּמוֹ.
-> **Translation:** The Gemara asks: **What is different** in **the first clause** that it is permitted, **and what is different** in **the latter clause** that it is forbidden? **Rav Sheshet said:** In **the latter clause** the proceeds are forbidden **because** the Jew **desires the preservation of** the object of idol worship or wine used for a libation, since he knows that the gentile must sell it in order to repay the debt.
 
 The Gemara asks: *mai shna reisha u'mai shna seifa?* — what is the difference between the first scenario and the second? Rav Sheshet explains: *seifa mishum dehava leh kerotzeh bekiyumo* — in the second case, where the non-Jew has told the Jew to wait while he sells the *avodat kochavim*, the Jew now has an active interest in the preservation of the idolatrous object. He wants it to remain intact, unharmed, unsold to anyone else, because his repayment depends on it. This is precisely the concern — *rotzeh bekiyumo* — that renders the arrangement forbidden. In the first case, the Jew receives payment without any such awareness or investment in the source of funds, and the money is therefore permitted.
 
@@ -174,7 +176,12 @@ This raises the question anew: does not the *ger* have an interest in the preser
 
 ### Ger, Oved Kochavim
 
+> **Hebrew/Aramaic:** תַּנְיָא נָמֵי הָכִי: בַּמֶּה דְּבָרִים אֲמוּרִים? שֶׁיָּרְשׁוּ, אֲבָל נִשְׁתַּתְּפוּ — אָסוּר.
+> **Translation:** **This is also taught** in a *baraita*: **In what** case **is this statement,** that a convert and a gentile are permitted to divide up common property that includes objects of idol worship, **said?** This is said with regard to property **that they inherited; but** if **they were partners,** it is **prohibited.**
+
 A *baraita* at the top of 64b confirms and sharpens the ruling: *bamedebarim amurim sheyerashu aval nishtatefu assur* — these leniencies apply only when the *ger* and the *oved kochavim* are heirs; if they are business partners, it is forbidden. The distinction is clear: a halachic inheritance relationship carries leniencies that a commercial partnership does not. A Jew may be a business partner with a non-Jew, but not in a venture that involves deriving benefit from *avodah zarah*.
+
+It is worth pausing to note the limited scope of what we have established here. The discussion gives leniency to the *ger* with respect to property he might inherit, but not where there is a partnership — and the further question of how these rulings unfold across later *rishonim* and *acharonim* is genuinely open. There is also the underlying conceptual question of the *ger*'s status as, in some sense, a new person — like one reborn — which itself generates certain leniencies around the inheritance question, though that thread will be taken up as the discussion continues.
 
 ---
 
@@ -183,9 +190,6 @@ A *baraita* at the top of 64b confirms and sharpens the ruling: *bamedebarim amu
 
 
 ### Ger Toshav Question
-
-> **Hebrew/Aramaic:** תַּנְיָא נָמֵי הָכִי: בַּמֶּה דְּבָרִים אֲמוּרִים? שֶׁיָּרְשׁוּ, אֲבָל נִשְׁתַּתְּפוּ — אָסוּר.
-> **Translation:** **This is also taught** in a *baraita*: **In what** case **is this statement,** that a convert and a gentile are permitted to divide up common property that includes objects of idol worship, **said?** This is said with regard to property **that they inherited; but** if **they were partners,** it is **prohibited.**
 
 The third question posed in this series: *Ger Toshav mahu sheyevatel avodat kochavim?* — can a *ger toshav* annul the status of an object of idol worship? The question sits against the background of an earlier discussion involving Reish Lakish and Rabbi Yochanan about whether a Jew can ever annul *avodah zarah* — and the elaborate concern about a Jew finding such an object in the marketplace, acquiring it through *kinyan*, and thereafter being unable to remove its prohibited status. The *ger toshav* occupies an intermediate category, and his ability to perform *bitul* is genuinely uncertain.
 
@@ -208,7 +212,7 @@ A challenge is raised from a *baraita*: if a Jew finds an object of idolatry in 
 
 ### Friend's Idolatry
 
-The phrase *shel chaveiro* — of his fellow — raises its own question: who is this *chaveiro* whose *avodah zarah* the non-Jew can annul? The *baraita*'s language suggests that a non-Jew can cancel the idolatrous status of an object that was not his own. This was discussed in earlier passages as well: a Jew who encounters *avodah zarah* in the street can, before taking possession, request a non-Jew — not necessarily the original worshiper — to annul it, after which the object may be handled freely. The spiritual danger, whatever its precise nature, is thereby neutralized.
+The phrase *shel chaveiro* — of his fellow — raises its own question: who is this *chaveiro* whose *avodah zarah* the non-Jew can annul? The *baraita*'s language suggests that a non-Jew can cancel the idolatrous status of an object that was not his own. This was discussed in earlier passages as well: a Jew who encounters *avodah zarah* in the street can, before taking possession, request a non-Jew — not necessarily the original worshiper of that particular idol — to annul it, after which the object may be handled freely. The spiritual danger, whatever its precise nature, is thereby neutralized. The lecturer acknowledges that this is genuinely difficult to grasp intuitively: the entire framework of *avodah zarah* as a live spiritual hazard is remote from contemporary experience in a way that the Talmud's authors would not have felt. One analogy offered is that of a concealed bomb in a suitcase — something that appears ordinary and harmless but carries a latent danger invisible to the eye. A specialist can disarm it, restoring it to the status of an inert object that may be freely picked up and discarded. Once that neutralization has occurred, the object no longer poses any threat; before it has occurred, one does not simply handle it. This is admittedly an imperfect *mashal*, but it provides at least a working frame for why *bitul* by a non-Jew functions as a meaningful act of removal rather than a mere legal fiction. With that much established, the question of *shel chaveiro* itself will require further unpacking, and the term *bein ovdah uvein she'eino ovdah* introduces a second, more pressing ambiguity that the gemara proceeds to address directly.
 
 ### Debate on Terms
 

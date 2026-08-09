@@ -1,0 +1,176 @@
+[
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Issur Mosif Defined",
+    "candidates": [
+      "Braita Setup",
+      "R. Yose vs. R. Shimon",
+      "Order Matters",
+      "Ein Issur Chal",
+      "Two Scenarios",
+      "Both Prohibitions",
+      "Two Deaths Braita",
+      "Mother-in-Law Case",
+      "Zika Rishona",
+      "R. Yose's Stance",
+      "Issur Mosif Defined",
+      "Issur Kolel Defined",
+      "Why Mosif Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "All 9 items together constitute exactly the content described in heading 10 ('Issur Mosif Defined'): the braita about Rabbi Yose and Rabbi Shimon's liability for eshet ach/achot isha, the resolution via order of marriage, Rav Ashi's suspended prohibition point, the contradiction from the two-death-penalties braita, Rabbi Yose's zika rishona ruling with the mother-in-law illustration, Rabbi Abbahu's issur mosif principle, and the Gemara's analysis of which sequence qualifies as issur mosif \u2014 all of which the prose of heading 10 explicitly discusses.",
+      "chosen_heading": "Issur Mosif Defined",
+      "current_heading": "Issur Mosif Defined",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Why Mosif Works",
+    "candidates": [
+      "Issur Kolel Defined",
+      "Why Mosif Works",
+      "Zar on Shabbos",
+      "Two vs. One",
+      "R. Chiya's Logic",
+      "Bar Kappara Logic",
+      "Baal Mum & Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items belong under 'Why Mosif Works': item 1 is the Gemara's conclusion that the case is issur kolel (not mosif), and item 2 is Rava's resolution about 'as if he transgressed twice but liable for only one' with the practical consequence of burial placement \u2014 all of which the prose of heading 1 explicitly discusses in sequence.",
+      "chosen_heading": "Why Mosif Works",
+      "current_heading": "Why Mosif Works",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Baal Mum & Tamei",
+    "candidates": [
+      "Zar on Shabbos",
+      "Two vs. One",
+      "R. Chiya's Logic",
+      "Bar Kappara Logic",
+      "Baal Mum & Tamei",
+      "Melikah Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Two vs. One",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the zar-on-Shabbos dispute between Rabbi \u1e24iyya and Bar Kappara \u2014 their oaths and logical arguments \u2014 which matches candidate 1 ('Two vs. One') and 2/3's prose about that exact case, but most naturally sit under 'Two vs. One' which introduces both the dispute and the oaths before the logical arguments follow.",
+      "second_heading": "Baal Mum & Tamei",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the entirely new parallel case of a baal mum serving while tamei \u2014 a structurally distinct scenario with its own facts, oaths, and arguments \u2014 which matches candidate 4 ('Baal Mum & Tamei') exactly.",
+      "current_heading": "Baal Mum & Tamei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Melikah Case",
+    "candidates": [
+      "Melikah Case",
+      "All Three Are Kolel",
+      "R. Chiya on Kolel",
+      "Bar Kappara on Kolel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the melikah dispute between Rabbi \u1e24iyya and Bar Kappara \u2014 the oath exchange and the subsequent deliberations \u2014 which is precisely what the 'Melikah Case' prose describes in detail.",
+      "chosen_heading": "Melikah Case",
+      "current_heading": "Melikah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Bar Kappara on Kolel",
+    "candidates": [
+      "All Three Are Kolel",
+      "R. Chiya on Kolel",
+      "Bar Kappara on Kolel",
+      "Bat Achat Issue",
+      "Real Debate",
+      "Application to Yevamot",
+      "The Contradiction",
+      "Theory One",
+      "Theory Two"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items form one continuous Gemara passage: items 1-2 raise and partially resolve the issur kolel framework, item 3 discovers the bat achat problem with melikah, and item 4 proposes the reframing to issur bat achat \u2014 exactly what candidate 3 ('Bat Achat Issue') describes as its content.",
+      "chosen_heading": "Bat Achat Issue",
+      "current_heading": "Bar Kappara on Kolel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Theory Two",
+    "candidates": [
+      "Bat Achat Issue",
+      "Real Debate",
+      "Application to Yevamot",
+      "The Contradiction",
+      "Theory One",
+      "Theory Two",
+      "Unresolved Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Bat Achat Issue",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 work through concrete examples of simultaneous prohibitions (bat achat), which fits best under 'Bat Achat Issue' where the prose discusses how bat achat works mechanically with specific cases like the non-priest on Shabbat and the blemished priest.",
+      "second_heading": "The Contradiction",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 are the Gemara's challenge about how both Rabbi Chiya and Bar Kappara could have taken oaths while one must be wrong, which matches 'The Contradiction' and its sub-sections ('Theory One', 'Theory Two') \u2014 the prose of 'Theory One' (index 4) directly parallels item 3's content about Rebbi teaching each student according to a different Tanna, and items 4-5 match 'Theory Two' and 'Unresolved Problem'.",
+      "current_heading": "Theory Two",
+      "moved": true
+    }
+  }
+]

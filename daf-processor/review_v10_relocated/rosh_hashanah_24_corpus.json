@@ -1,0 +1,494 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Before/After Sun",
+    "candidates": [
+      "Before/After Sun",
+      "North/South Position",
+      "Pegima Definition",
+      "Moon Embarrassment",
+      "Rainbow Symbolism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Gemara passage directly addresses the equivalence of 'before/after the sun' with north/south and Abaye's reframing of the question in terms of pegimah \u2014 exactly the content described in the 'Before/After Sun' section's prose, which explicitly mentions lo amar klum and the north/south axis as extensions of the same gemara unit beginning at 23b.",
+      "chosen_heading": "Before/After Sun",
+      "current_heading": "Before/After Sun",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Rainbow Symbolism",
+    "candidates": [
+      "North/South Position",
+      "Pegima Definition",
+      "Moon Embarrassment",
+      "Rainbow Symbolism",
+      "Summer/Winter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yochanan's full teaching about the sun never seeing the moon's concave side (to spare the moon embarrassment) AND the rainbow's concave side \u2014 this is one continuous quote that begins with the moon-embarrassment rationale, which is precisely what the 'Moon Embarrassment' prose section discusses as its anchor midrashic teaching, whereas the 'Rainbow Symbolism' section's prose already describes the rainbow portion as a separate follow-on point.",
+      "chosen_heading": "Moon Embarrassment",
+      "current_heading": "Rainbow Symbolism",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20
+    ],
+    "current_heading": "Summer/Winter",
+    "candidates": [
+      "Rainbow Symbolism",
+      "Summer/Winter",
+      "Two vs Three Marda'ot",
+      "Three vs Five Marda'ot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the contradictory baraitot about north vs. south and the gemara's resolution (summer vs. winter), which is precisely the content described in the 'Summer/Winter' prose section where it discusses the apparent contradiction and its resolution via bimot hachammah/bimot hageshamim.",
+      "chosen_heading": "Summer/Winter",
+      "current_heading": "Summer/Winter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Three vs Five Marda'ot",
+    "candidates": [
+      "Two vs Three Marda'ot",
+      "Three vs Five Marda'ot",
+      "Water/Glass/Clouds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita covers both the two-vs-three and three-vs-five cases in a single passage, but its opening case (two vs three marda'ot) is what heading 0 is explicitly about, and heading 0's prose already describes the full baraita content including the nullification and rejoining clauses, making it the better home for the entire passage rather than splitting it under heading 1 which only covers the second half.",
+      "chosen_heading": "Two vs Three Marda'ot",
+      "current_heading": "Three vs Five Marda'ot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Water/Glass/Clouds",
+    "candidates": [
+      "Three vs Five Marda'ot",
+      "Water/Glass/Clouds",
+      "Partial Visibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both indirect sightings (water, lantern, clouds) and partial visibility cases, and the current heading 'Water/Glass/Clouds' with its prose directly describes this baraita's content about compromised sightings including the partial cases mentioned in the same baraita.",
+      "chosen_heading": "Water/Glass/Clouds",
+      "current_heading": "Water/Glass/Clouds",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Partial Visibility",
+    "candidates": [
+      "Partial Visibility",
+      "Episodic Sighting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's analysis of partial visibility (half in water/clouds, half in sky), which is precisely what the 'Partial Visibility' section's prose describes.",
+      "chosen_heading": "Partial Visibility",
+      "current_heading": "Partial Visibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Episodic Sighting",
+    "candidates": [
+      "Episodic Sighting",
+      "Mekudash Declaration",
+      "Tanna Kamma"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the baraita about 're'inuhu v'shuv lo re'inuhu' and Abaye's clarification about incidental vs. deliberate sighting, which is precisely what the 'Episodic Sighting' prose discusses in detail.",
+      "chosen_heading": "Episodic Sighting",
+      "current_heading": "Episodic Sighting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Tanna Kamma",
+    "candidates": [
+      "Mekudash Declaration",
+      "Tanna Kamma",
+      "Moshe Declaration"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mekudash Declaration",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the mekudash declaration formula and the public response, which is precisely what candidate 0 ('Mekudash Declaration') discusses.",
+      "second_heading": "Tanna Kamma",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rabbi Elazar b. Rabbi Tzadok's dissenting view about when sanctification is required, which is the dispute addressed by candidate 1 ('Tanna Kamma') contrasting the tanna kamma's position with an opposing opinion.",
+      "current_heading": "Tanna Kamma",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Moshe Declaration",
+    "candidates": [
+      "Moshe Declaration",
+      "People's Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives the head of court's declaration of 'mekudash' from Moses's declaration of the festivals, directly matching the 'Moshe Declaration' section's prose about this specific derivation.",
+      "chosen_heading": "Moshe Declaration",
+      "current_heading": "Moshe Declaration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "People's Authority",
+    "candidates": [
+      "People's Authority",
+      "Double Affirmation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the source for the people's response of 'mekudash mekudash' and the derivations from Rav Pappa and Rav Nachman bar Yitzchak, which exactly matches the 'People's Authority' prose about communal proclamation authority.",
+      "chosen_heading": "People's Authority",
+      "current_heading": "People's Authority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Double Affirmation",
+    "candidates": [
+      "Double Affirmation",
+      "R. Elazar Tzadok"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why 'mekudash' is said twice, deriving it from 'mikra'ei kodesh,' which is precisely what the 'Double Affirmation' section's prose discusses.",
+      "chosen_heading": "Double Affirmation",
+      "current_heading": "Double Affirmation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "R. Elazar Tzadok",
+    "candidates": [
+      "R. Elazar Tzadok",
+      "Plimo Position",
+      "R. Elazar Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Elazar bar Tzadok's opinion AND Palaimo's opinion in a single quoted unit, but since the essay separates them into distinct sections and the passage begins with Rabbi Elazar bar Tzadok's teaching (which is its primary subject line per the mishna reference), and the Palaimo content is introduced mid-passage as a related baraita, the current placement under 'R. Elazar Tzadok' is reasonable \u2014 however, the passage actually spans both sections 0 and 1, with the Palaimo portion clearly belonging under heading 1; since the form requires a single heading and the passage leads with Rabbi Elazar bar Tzadok, the current placement at index 0 is the best single choice, though ideally the Palaimo baraita would be split to index 1.",
+      "chosen_heading": "R. Elazar Tzadok",
+      "current_heading": "R. Elazar Tzadok",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "R. Elazar Shimon",
+    "candidates": [
+      "Plimo Position",
+      "R. Elazar Shimon",
+      "Ruling",
+      "Me'ubar Outcome"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Elazar bar Shimon's ruling (bein kach uvein kach ein mekadeshin) with his textual derivation AND Shmuel's halakhic ruling following Rabbi Elazar bar Tzadok \u2014 but the 'R. Elazar Shimon' section's prose explicitly discusses both positions together and ends with the four-way summary, making it the best fit, while the 'Ruling' section's prose separately elaborates on Shmuel's ruling with Abaye's support.",
+      "chosen_heading": "R. Elazar Shimon",
+      "current_heading": "R. Elazar Shimon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Me'ubar Outcome",
+    "candidates": [
+      "Ruling",
+      "Me'ubar Outcome",
+      "Me'ubar Language",
+      "Retroactive Option"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement introducing the mishnah as support for Shmuel's ruling, which corresponds to heading 0 ('Ruling') whose prose explicitly describes Abaye noting that the ruling is supported by a later mishnah that he introduces to buttress the halakhic conclusion.",
+      "chosen_heading": "Ruling",
+      "current_heading": "Me'ubar Outcome",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Retroactive Option",
+    "candidates": [
+      "Me'ubar Language",
+      "Retroactive Option",
+      "Gamliel's Aids"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's rejection argument about why the mishnah needed to use me'ubar language \u2014 because one might think isparsema means no need to extend the month \u2014 which matches exactly the prose in candidate 0, not the retroactive sanctification discussion of candidate 1.",
+      "chosen_heading": "Me'ubar Language",
+      "current_heading": "Retroactive Option",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Gamliel's Aids",
+    "candidates": [
+      "Retroactive Option",
+      "Gamliel's Aids",
+      "Lo Ta'asun Iti"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabban Gamliel's visual aids (diagram of moon forms on a tablet/wall) used to help witnesses describe what they saw, which is exactly what the 'Gamliel's Aids' section prose discusses.",
+      "chosen_heading": "Gamliel's Aids",
+      "current_heading": "Gamliel's Aids",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Lo Ta'asun Iti",
+    "candidates": [
+      "Lo Ta'asun Iti",
+      "Abaye Limit",
+      "Temple Items",
+      "Menorah Specifics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and addresses the 'lo ta'asun iti' verse interpreted as prohibiting images of God's celestial attendants, which is exactly what heading 0's prose discusses.",
+      "chosen_heading": "Lo Ta'asun Iti",
+      "current_heading": "Lo Ta'asun Iti",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Menorah Specifics",
+    "candidates": [
+      "Abaye Limit",
+      "Temple Items",
+      "Menorah Specifics",
+      "Human Faces",
+      "Angels List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute Abaye's proof from the baraita that the Torah only prohibits replicable attendants \u2014 the baraita about Temple replicas (items 1-2) and the Hasmonean menorah exchange (item 3) are all cited as evidence for Abaye's principle, which is precisely what the 'Abaye Limit' prose describes.",
+      "chosen_heading": "Abaye Limit",
+      "current_heading": "Menorah Specifics",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Angels List",
+    "candidates": [
+      "Human Faces",
+      "Angels List",
+      "Challenge",
+      "Gamliel Loophole",
+      "Signet Ring"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Human Faces",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 deal with Abaye's ruling about the four-faced figure and the separate prohibition on human faces (lo ta'asun oti), which is exactly what the 'Human Faces' prose describes.",
+      "second_heading": "Angels List",
+      "second_confidence": "high",
+      "second_reason": "Items 3-6 continue with the enumeration of angels (ofanim, serafim, chayot, malachei hasharet), the lower/upper heaven distinction, and the worship vs. making distinction, all of which precisely matches the 'Angels List' prose.",
+      "current_heading": "Angels List",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Signet Ring",
+    "candidates": [
+      "Challenge",
+      "Gamliel Loophole",
+      "Signet Ring",
+      "Signet Details",
+      "Public Prayer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gamliel Loophole",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the challenge from Rav Yehuda's case and Shmuel's instruction to blind the image, which is precisely what heading 'Gamliel Loophole' (index 1) describes as the gemara's next move after the Gamliel answer.",
+      "second_heading": "Signet Details",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the baraita distinguishing protruding vs. sunken seals, which is exactly what heading 'Signet Details' (index 3) elaborates upon in its prose.",
+      "current_heading": "Signet Ring",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      130
+    ],
+    "current_heading": "Public Prayer",
+    "candidates": [
+      "Signet Details",
+      "Public Prayer",
+      "Gamliel as Nasi"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Nehardea synagogue with the andarta and the rabbim shani answer, which is precisely what the 'Public Prayer' section's prose describes.",
+      "chosen_heading": "Public Prayer",
+      "current_heading": "Public Prayer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Gamliel as Nasi",
+    "candidates": [
+      "Gamliel as Nasi",
+      "Disassembled",
+      "Educational Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the Nasi answer (keivan de-nasi hu) and the disassembled pieces answer (de-prakim hava), but since the essay has split these into separate sections and the passage is a single continuous Gemara excerpt, the current placement under 'Gamliel as Nasi' is correct as it leads naturally into the next section's discussion of the assembled/disassembled alternative.",
+      "chosen_heading": "Gamliel as Nasi",
+      "current_heading": "Gamliel as Nasi",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Educational Purpose",
+    "candidates": [
+      "Disassembled",
+      "Educational Purpose",
+      "Modern Ownership",
+      "Art Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's answer that Rabban Gamliel acted for educational purposes, citing the verse about learning to understand and teach, which matches exactly the 'Educational Purpose' section's prose.",
+      "chosen_heading": "Educational Purpose",
+      "current_heading": "Educational Purpose",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,243 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Three Cases Analysis",
+    "candidates": [
+      "Opening & Context",
+      "Parah & Seir Exceptions",
+      "Mishna Invalidities",
+      "Shimon's Principle",
+      "Mechusar Zman Examples",
+      "Three Cases Analysis",
+      "Devarim 12:8 Citation",
+      "Lo Ta'asun Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All four items constitute the Gemara's analysis of why the three cases (blemished animals, doves not yet fit, and oto v'et beno) must each be stated explicitly \u2014 precisely the content described in the 'Three Cases Analysis' prose.",
+      "chosen_heading": "Three Cases Analysis",
+      "current_heading": "Three Cases Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28
+    ],
+    "current_heading": "Lo Ta'asun Reading",
+    "candidates": [
+      "Devarim 12:8 Citation",
+      "Lo Ta'asun Reading",
+      "Nedavot vs Chovot",
+      "Gilgal & Shilo Analysis",
+      "Yirmya's Objection",
+      "Zeira's Resolution",
+      "Chullin Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's answer to 'what is Rabbi Shimon's reasoning' \u2014 citing Reish Lakish's derivation from Devarim 12:8 and connecting Gilgal's status to mechusar zman \u2014 which matches heading 0 ('Devarim 12:8 Citation') far better than the current placement under 'Lo Ta'asun Reading,' which discusses the subsequent interpretation of what the verse means rather than its initial citation as Rabbi Shimon's source.",
+      "chosen_heading": "Devarim 12:8 Citation",
+      "current_heading": "Lo Ta'asun Reading",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Chullin Parallel",
+    "candidates": [
+      "Nedavot vs Chovot",
+      "Gilgal & Shilo Analysis",
+      "Yirmya's Objection",
+      "Zeira's Resolution",
+      "Chullin Parallel",
+      "Shimon's Lashes",
+      "Gilgal as Outside",
+      "Pesach Proof",
+      "Lo Tuchal Pesach",
+      "Pesach Timing Question"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Yirmya's Objection",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 cover Rabbi Yirmeya's objection about lashes and Rabbi Zeira's resolution via ha-katuv nitko la-asei, with the Rabbis vs. Rabbi Shimon distinction \u2014 matching headings 'Yirmya's Objection' and 'Zeira's Resolution', but since they form one continuous exchange, heading 2 ('Yirmya's Objection') covers the whole dispute through item 3.",
+      "second_heading": "Gilgal as Outside",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rav Nachman bar Yitzchak's resolution that Gilgal is considered 'outside' relative to Shilo, which is precisely what heading 6 ('Gilgal as Outside') describes in its prose.",
+      "current_heading": "Chullin Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Pesach Timing Question",
+    "candidates": [
+      "Shimon's Lashes",
+      "Gilgal as Outside",
+      "Pesach Proof",
+      "Lo Tuchal Pesach",
+      "Pesach Timing Question",
+      "Before Chatzot Scenario",
+      "Pesach Always Forbidden"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Pesach Proof",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the baraita of Rabbi Shimon deriving from 'lo tuchal lizbo'ach et ha-Pesach' that slaughtering a Paschal offering on a private altar during issur bamot violates a prohibition, which is precisely what candidate 2 ('Pesach Proof') and candidate 3 ('Lo Tuchal Pesach') describe \u2014 candidate 2 is the better match as it frames Rabba/Rava introducing this baraita as an alternative source for Rabbi Shimon's principle.",
+      "second_heading": "Pesach Timing Question",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present Rabba's analysis of when the Paschal offering was slaughtered (before or after chatzot) and the gemara's rejection proposing it was after chatzot during heter bamot, which matches exactly the prose of candidate 4 ('Pesach Timing Question') discussing the chatzot objection and resolution.",
+      "current_heading": "Pesach Timing Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Pesach Always Forbidden",
+    "candidates": [
+      "Before Chatzot Scenario",
+      "Pesach Always Forbidden",
+      "Owner Status Examples",
+      "Yoledet's Sacrifices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that 'issur bamot' in the baraita means the Pesach is forbidden on a private altar while voluntary offerings remain permitted there \u2014 exactly the 'second reading' the prose of heading 1 describes as the gemara identifying and then dismissing as non-muchrach.",
+      "chosen_heading": "Pesach Always Forbidden",
+      "current_heading": "Pesach Always Forbidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Yoledet's Sacrifices",
+    "candidates": [
+      "Owner Status Examples",
+      "Yoledet's Sacrifices",
+      "Metzora Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses Zeiri's instruction to add 'metzora' to the mishna's list because the listed individuals (zav, zava, yoledet) don't bring guilt offerings, which is precisely what the 'Metzora Inclusion' section's prose describes.",
+      "chosen_heading": "Metzora Inclusion",
+      "current_heading": "Yoledet's Sacrifices",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Metzora Inclusion",
+    "candidates": [
+      "Yoledet's Sacrifices",
+      "Metzora Inclusion",
+      "Chilkiya's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the mishna's mention of olot and shelamim, Rav Sheshet's proposal to add nazir to account for the shelamim, and the note that this addition was not fixed by the tanna'im \u2014 all of which is precisely what the 'Metzora Inclusion' prose discusses.",
+      "chosen_heading": "Metzora Inclusion",
+      "current_heading": "Metzora Inclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Chilkiya's Rule",
+    "candidates": [
+      "Chilkiya's Rule",
+      "Identity Change Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Chilkiya's ruling itself \u2014 the distinction between lishmo (exempt) and shelo lishmo (liable) \u2014 which is precisely what heading 0 ('Chilkiya's Rule') describes, while heading 1 covers the explanatory reasoning behind that ruling.",
+      "chosen_heading": "Chilkiya's Rule",
+      "current_heading": "Chilkiya's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Identity Change Logic",
+    "candidates": [
+      "Identity Change Logic",
+      "Initial Objection",
+      "Identity Not Changed",
+      "Rav Huna's Challenge",
+      "Pesach Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks why lishmo should also be chayav and answers 'ba'ei akira' (requires uprooting), which is precisely the content described in the 'Identity Not Changed' section's prose about ba'i akira meaning identity change requires actual performance.",
+      "chosen_heading": "Identity Not Changed",
+      "current_heading": "Identity Change Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Pesach Analogy",
+    "candidates": [
+      "Initial Objection",
+      "Identity Not Changed",
+      "Rav Huna's Challenge",
+      "Pesach Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Huna's challenge (is there anything not kasher lishmo but kasher shelo lishmo?) and the gemara's initial response with the Pesach analogy, which is precisely what candidate 2 'Rav Huna's Challenge' describes \u2014 the Pesach resolution is part of answering Rav Huna's objection, not a standalone topic.",
+      "chosen_heading": "Rav Huna's Challenge",
+      "current_heading": "Pesach Analogy",
+      "moved": true
+    }
+  }
+]

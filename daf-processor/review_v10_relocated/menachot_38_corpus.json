@@ -1,0 +1,420 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Linen & Wool Case",
+    "candidates": [
+      "Opening & Transition",
+      "Four Corners Requirement",
+      "Tanna Kamma v. R. Ishmael",
+      "Mai Beinihu",
+      "Linen & Wool Case",
+      "Five-Cornered Garment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses Rav Yosef's identification of the sadin be-tzitzit case as the nafka mina between the tanna kamma and Rabbi Ishmael, which is exactly what the 'Linen & Wool Case' section's prose describes.",
+      "chosen_heading": "Linen & Wool Case",
+      "current_heading": "Linen & Wool Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Five-Cornered Garment",
+    "candidates": [
+      "Five-Cornered Garment",
+      "Shabbat Carrying Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses a five-cornered garment as a nafka mina, which directly matches the 'Five-Cornered Garment' section's prose about talis ba'alat chamesh and the debate between tanna kamma and Rabbi Ishmael.",
+      "chosen_heading": "Five-Cornered Garment",
+      "current_heading": "Five-Cornered Garment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Shabbat Carrying Issue",
+    "candidates": [
+      "Shabbat Carrying Issue",
+      "Shortening Garment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses Ravina's teaching about Rav Huna's ruling on Shabbat carrying liability for a cloak with incomplete tzitzit, which matches perfectly with the 'Shabbat Carrying Issue' prose that explicitly discusses this same Ravina/Rav Huna nafka mina.",
+      "chosen_heading": "Shabbat Carrying Issue",
+      "current_heading": "Shabbat Carrying Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Shortening Garment",
+    "candidates": [
+      "Shortening Garment",
+      "Knotting Garment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about cutting a garment corner and creating a five-cornered garment is exactly what the 'Shortening Garment' prose discusses, matching both the Aramaic content and the explanation about creating a five-cornered garment obligated in tzitzit.",
+      "chosen_heading": "Shortening Garment",
+      "current_heading": "Shortening Garment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Knotting Garment",
+    "candidates": [
+      "Knotting Garment",
+      "Knotted Vessels",
+      "Sewing Garment",
+      "Rashi's Reinterpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rav Mesharshiyya ruling about knotting a garment and the parallel from knotted leather jugs, and the current heading's prose explicitly addresses both elements together, making it the correct placement.",
+      "chosen_heading": "Knotting Garment",
+      "current_heading": "Knotting Garment",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rashi's Reinterpretation",
+    "candidates": [
+      "Knotted Vessels",
+      "Sewing Garment",
+      "Rashi's Reinterpretation",
+      "Following Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Dimi's statement about sewing a garment, which is precisely what candidate 1 ('Sewing Garment') discusses in its prose, while the current placement under 'Rashi's Reinterpretation' is the subsequent section that analyzes and reinterprets this ruling.",
+      "chosen_heading": "Sewing Garment",
+      "current_heading": "Rashi's Reinterpretation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Following Chachamim",
+    "candidates": [
+      "Rashi's Reinterpretation",
+      "Following Chachamim",
+      "Witness Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yehuda citing Shmuel's ruling in favor of Rabbi Yishmael and the Gemara's override, which is precisely what the 'Following Chachamim' prose describes.",
+      "chosen_heading": "Following Chachamim",
+      "current_heading": "Following Chachamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Witness Story",
+    "candidates": [
+      "Witness Story",
+      "Two Story Versions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident recounted in the 'Witness Story' prose \u2014 Ravina walking behind Mar bar Rav Ashi, the tzitzit tearing, Ravina staying silent, and the exchange upon arriving home \u2014 matching that section's content precisely.",
+      "chosen_heading": "Witness Story",
+      "current_heading": "Witness Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "current_heading": "Two Story Versions",
+    "candidates": [
+      "Two Story Versions",
+      "Kevod Habriyot Principle",
+      "Mishna Statement",
+      "Four Strands Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with the gadol kevod ha-briyot principle applied to both versions of the Mar bar Rav Ashi story, including the lo tasur qualification and the karmelit resolution \u2014 exactly what heading 0 ('Two Story Versions') discusses in its prose.",
+      "chosen_heading": "Two Story Versions",
+      "current_heading": "Two Story Versions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Four Strands Assumption",
+    "candidates": [
+      "Kevod Habriyot Principle",
+      "Mishna Statement",
+      "Four Strands Assumption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage '\u05d4\u05b2\u05d3\u05b7\u05e8\u05b7\u05df \u05e2\u05b2\u05dc\u05b8\u05da\u05b0 \u05d4\u05b7\u05e7\u05bc\u05d5\u05b9\u05de\u05b5\u05e5' is the closing formula marking the end of a perek (here, the third perek 'Ha-Kometz'), which naturally appears just before the transition to the fourth perek's mishna and its discussion of the Four Strands Assumption, making the current placement correct as it sits at the boundary introducing that new section.",
+      "chosen_heading": "Four Strands Assumption",
+      "current_heading": "Four Strands Assumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Four Strands Assumption",
+    "candidates": [
+      "Four Strands Assumption",
+      "Tefillin Parallel",
+      "Braisa Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text itself, covering both the techeiles/lavan non-prevention rule and the tefillin parallel, is the source being analyzed in candidate 0's prose, which directly discusses this mishna's content about eino me'akev and the four-strands question.",
+      "chosen_heading": "Four Strands Assumption",
+      "current_heading": "Four Strands Assumption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Braisa Dispute",
+    "candidates": [
+      "Tefillin Parallel",
+      "Braisa Dispute",
+      "Rabbi's Reasoning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the gemara's challenge (leima masnisin de-lo ke-Rabbi) and the baraita dispute between Rabbi and the Rabbis about white and techeiles being me'akvin, which is exactly what the 'Braisa Dispute' prose describes.",
+      "chosen_heading": "Braisa Dispute",
+      "current_heading": "Braisa Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Rabbi's Reasoning",
+    "candidates": [
+      "Rabbi's Reasoning",
+      "Chachamim's Reasoning",
+      "Rav's Interpretation",
+      "Order of White & Blue",
+      "Blue First Result",
+      "Missing Ideal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi's Reasoning",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi's reasoning and the Rabbis' counter-reading of 'ur'isem oto', matching exactly the prose of headings 0 ('Rabbi's Reasoning') and 1 ('Chachamim's Reasoning'), and the current placement under heading 0 is correct for item 1 while item 2 belongs under heading 1.",
+      "second_heading": "Rav's Interpretation",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 introduce Rav Yehuda's reconciliation of the mishna with Rabbi's view via the order-of-insertion interpretation and the supporting baraita, matching exactly the prose of heading 2 ('Rav's Interpretation') and heading 3 ('Order of White & Blue').",
+      "current_heading": "Rabbi's Reasoning",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Missing Ideal",
+    "candidates": [
+      "Chachamim's Reasoning",
+      "Rav's Interpretation",
+      "Order of White & Blue",
+      "Blue First Result",
+      "Missing Ideal",
+      "Two-Direction Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items directly address the question of what 'omitting a mitzva' means when blue is placed before white \u2014 item 1 raises the failed reading (lost mitzva of white) and item 2 gives Rav's resolution (not optimal performance) \u2014 which is precisely what heading 4 ('Missing Ideal') describes in its prose.",
+      "chosen_heading": "Missing Ideal",
+      "current_heading": "Missing Ideal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Two-Direction Problem",
+    "candidates": [
+      "Two-Direction Problem",
+      "Blue Garment Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the gemara's question pressing the two-directional problem \u2014 asking what the second phrase means \u2014 which is exactly what the 'Two-Direction Problem' prose describes, before Rami Bar Chama's resolution in the 'Blue Garment Case' section.",
+      "chosen_heading": "Two-Direction Problem",
+      "current_heading": "Two-Direction Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "current_heading": "Blue Garment Case",
+    "candidates": [
+      "Blue Garment Case",
+      "Color Irrelevance",
+      "Tosafot Analysis",
+      "Unresolved Color Issue",
+      "Unresolved Material",
+      "Rava Alternative",
+      "Blue Snaps Scenario",
+      "White Snaps Scenario",
+      "Bnei R. Chiyya"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Blue Garment Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-5 all address the ordering interpretation (which strings go first based on garment color), exactly matching the 'Blue Garment Case' prose about Rami bar Chama, Levi-Shmuel exchange, and kanaf min kanaf.",
+      "second_heading": "Rava Alternative",
+      "second_confidence": "high",
+      "second_reason": "Item 6 is Rava's rejection of the color-ordering framework and introduction of the gardumin (severed strings) reading, which precisely matches the 'Rava Alternative' prose about rejecting the ordering interpretation in favor of the remnants scenario.",
+      "current_heading": "Blue Garment Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Bnei R. Chiyya",
+    "candidates": [
+      "Color Irrelevance",
+      "Tosafot Analysis",
+      "Unresolved Color Issue",
+      "Unresolved Material",
+      "Rava Alternative",
+      "Blue Snaps Scenario",
+      "White Snaps Scenario",
+      "Bnei R. Chiyya",
+      "Loop Standard",
+      "Together vs. Individually"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage quotes the sons of Rabbi \u1e24iyya saying that remnants (gardumin) of techeiles and hyssop are valid, plus Shmuel's ruling on the minimum size \u2014 exactly what the 'Bnei R. Chiyya' section's prose describes.",
+      "chosen_heading": "Bnei R. Chiyya",
+      "current_heading": "Bnei R. Chiyya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117
+    ],
+    "current_heading": "Together vs. Individually",
+    "candidates": [
+      "Loop Standard",
+      "Together vs. Individually",
+      "Thickness Problem",
+      "Thickness Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the unresolved dilemma about whether the loop standard applies to all strings together or each individually, which is exactly what the 'Together vs. Individually' section's prose describes.",
+      "chosen_heading": "Together vs. Individually",
+      "current_heading": "Together vs. Individually",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Thickness Resolution",
+    "candidates": [
+      "Thickness Problem",
+      "Thickness Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Ashi's question about thick strings AND Rav Acha's response, so the entire exchange belongs under the 'Thickness Problem' heading which introduces Rav Ashi's question, rather than splitting it with a separate resolution heading.",
+      "chosen_heading": "Thickness Problem",
+      "current_heading": "Thickness Resolution",
+      "moved": true
+    }
+  }
+]

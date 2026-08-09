@@ -1,0 +1,75 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Three Fees Total",
+    "candidates": [
+      "Meir: Two Fees",
+      "Rounding vs. Transaction",
+      "Attribution & Tosefta",
+      "Three Fees Total",
+      "Chachamim: Two Fees",
+      "Bavli Layer Issue",
+      "Sussman Manuscript",
+      "Partners Status",
+      "Division & Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents the debate between Rabbi Elazar (attributing two kolbonot to Rabbi Meir) and Rav (arguing three kolbonot \u2014 one for giving, one for taking, one for words of Torah), which is precisely what the 'Three Fees Total' section's prose describes.",
+      "chosen_heading": "Three Fees Total",
+      "current_heading": "Three Fees Total",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Division & Return",
+    "candidates": [
+      "Chachamim: Two Fees",
+      "Bavli Layer Issue",
+      "Sussman Manuscript",
+      "Partners Status",
+      "Division & Return",
+      "Breira Conditions",
+      "Yochanan Rejects",
+      "Scenarios Depend",
+      "Majority Rule",
+      "Status Puzzle",
+      "Money Source",
+      "Meir: To Shekalim",
+      "Eliezer: To Nedavah",
+      "Shezuri & Azzai",
+      "Currency Exchange",
+      "Collection Horns",
+      "Coin-Only Rule",
+      "Truma Threshold",
+      "Before Truma",
+      "After Truma",
+      "Old vs. New",
+      "Elazar Position",
+      "Yochanan Takana",
+      "Possible Bavli Import",
+      "Oath Binding",
+      "Delivery Threshold",
+      "Divine Ownership",
+      "No Replevin Needed",
+      "Baraita Rule",
+      "Pinchas & Abba"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explains the mishnah's rule that brothers/partners liable for kolbon are exempt from ma'aser behemah and vice versa, which matches the 'Partners Status' section's prose discussing exactly this inverse relationship and its underlying logic, while the current placement under 'Division & Return' covers the specific cases of beshe'hilku and beshe'lo hilku which are the Gemara's explanation of the mishnah rather than the mishnah text itself.",
+      "chosen_heading": "Partners Status",
+      "current_heading": "Division & Return",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Midbar Precedent",
+    "candidates": [
+      "Manslayer 2nd Kill",
+      "Ben Levi Goleh",
+      "Midbar Precedent",
+      "City Absorbs Him",
+      "Shemitta Parallel",
+      "Honors Despite Crime"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ben Levi Goleh",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishna introducing the ben Levi exile case, which the 'Ben Levi Goleh' prose explicitly discusses as its own scenario before the Gemara begins.",
+      "second_heading": "Midbar Precedent",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 are the Gemara and baraita on the wilderness precedent and the pelech/district rule, which the 'Midbar Precedent' prose describes in detail including the mikan amru and Rav Aha's verse.",
+      "current_heading": "Midbar Precedent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Honors Despite Crime",
+    "candidates": [
+      "City Absorbs Him",
+      "Shemitta Parallel",
+      "Honors Despite Crime",
+      "Taxes & Rent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah about the murderer in the city of refuge (kayotzei bo), which candidate 1's prose explicitly identifies as the parallel case introduced by 'kayotzei bo' and explains in the context of the Shevi'is mishnah \u2014 candidate 1 discusses both the shemitah source and this murderer parallel together, while candidate 2's prose already describes this same mishnah content, suggesting the passage belongs under the heading that introduces it (candidate 1, 'Shemitta Parallel'), before the detailed discussion in candidate 2.",
+      "chosen_heading": "Shemitta Parallel",
+      "current_heading": "Honors Despite Crime",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Taxes & Rent",
+    "candidates": [
+      "Honors Despite Crime",
+      "Taxes & Rent",
+      "Status Recovery",
+      "Eved Ivri Rehab"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items address the dispute between Rabbi Yehuda and Rabbi Meir about whether unintentional murderers pay rent in the cities of refuge, which is precisely what the 'Taxes & Rent' section's prose describes, including the specific arguments of Rav Kahana and Rava about the six versus forty-two cities.",
+      "chosen_heading": "Taxes & Rent",
+      "current_heading": "Taxes & Rent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Eved Ivri Rehab",
+    "candidates": [
+      "Status Recovery",
+      "Eved Ivri Rehab",
+      "Eved/Manslayer Link"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eved Ivri Rehab",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the eved Ivri braisa and its extension to the exile case, matching the 'Eved Ivri Rehab' prose which discusses the braisa on the Hebrew slave and Rabbi Yehudah/Rabbi Meir's dispute about returning to ancestral status.",
+      "second_heading": "Eved/Manslayer Link",
+      "second_confidence": "high",
+      "second_reason": "Item 3 explains the 'vekhen bagola' connection via the rotze'ach verse and the gezeirah shavah between 'shiva shiva', which matches exactly the 'Eved/Manslayer Link' prose discussing the verbal linkage between the eved Ivri and rotze'ach contexts.",
+      "current_heading": "Eved Ivri Rehab",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Eved/Manslayer Link",
+    "candidates": [
+      "Eved/Manslayer Link",
+      "Perek Transition",
+      "Sexual Prohibitions",
+      "Priestly Marriages"
+    ],
+    "result": {
+      "best_index": 1,
+      "action": "single",
+      "chosen_heading": "Perek Transition",
+      "current_heading": "Eved/Manslayer Link",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Priestly Marriages",
+    "candidates": [
+      "Perek Transition",
+      "Sexual Prohibitions",
+      "Priestly Marriages",
+      "Double Status",
+      "Temple Impurity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the double-status case (widow+divorc\u00e9e = two sets of malkus; divorc\u00e9e+chaluza = one set), which is precisely what the 'Double Status' section's prose describes.",
+      "chosen_heading": "Double Status",
+      "current_heading": "Priestly Marriages",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Temple Impurity",
+    "candidates": [
+      "Double Status",
+      "Temple Impurity",
+      "Forbidden Foods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses a tamei person eating kodesh, entering the mikdash while tamei, and eating chelev, blood, notar, piggul, and tamei offerings \u2014 exactly what the 'Temple Impurity' section's prose describes.",
+      "chosen_heading": "Temple Impurity",
+      "current_heading": "Temple Impurity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67
+    ],
+    "current_heading": "Forbidden Foods",
+    "candidates": [
+      "Forbidden Foods",
+      "Minimal Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items list the forbidden acts and foods (shechting outside, chametz, Yom Kippur, anointing oil, neveilos/treifos, tevel, ma'aser) that the prose of 'Forbidden Foods' explicitly enumerates and discusses, making that the clearly correct placement.",
+      "chosen_heading": "Forbidden Foods",
+      "current_heading": "Forbidden Foods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Minimal Amount",
+    "candidates": [
+      "Minimal Amount",
+      "Akiva's View",
+      "Yishmael Both",
+      "Akiva Karet OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the minimum amount of tevel required for liability, the ant/beryah analogy, and the single wheat kernel argument \u2014 all of which are explicitly described in the 'Minimal Amount' prose section.",
+      "chosen_heading": "Minimal Amount",
+      "current_heading": "Minimal Amount",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Akiva Karet OK",
+    "candidates": [
+      "Akiva's View",
+      "Yishmael Both",
+      "Akiva Karet OK",
+      "Yitzchak No Lashes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the gemara's identification of the mishna as Rabbi Akiva's view and the baraita presenting both Rabbi Yishmael's and Rabbi Akiva's positions \u2014 this is precisely what heading 0 ('Akiva's View') describes: the gemara noting the mishna's omission of chayvei misos and attributing it to Rabbi Akiva.",
+      "chosen_heading": "Akiva's View",
+      "current_heading": "Akiva Karet OK",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Yitzchak No Lashes",
+    "candidates": [
+      "Akiva Karet OK",
+      "Yitzchak No Lashes",
+      "Yishmael Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yitzchak's argument that the specific mention of karet for the sister case teaches that karet offenses are punished with karet alone and not malkus, which is precisely what the 'Yitzchak No Lashes' section discusses.",
+      "chosen_heading": "Yitzchak No Lashes",
+      "current_heading": "Yitzchak No Lashes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Yishmael Source",
+    "candidates": [
+      "Yishmael Source",
+      "Lav Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains Rabbi Yishmael's derivation of lashes from the hafla'ah/hippilo connection, which is precisely what the 'Yishmael Source' prose describes.",
+      "chosen_heading": "Yishmael Source",
+      "current_heading": "Yishmael Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Lav Definition",
+    "candidates": [
+      "Lav Definition",
+      "Chasima Model"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the same chain of objections and answers about which violations incur malkus (positive mitzvot, then prohibitions without action), which is precisely what the 'Lav Definition' prose describes.",
+      "chosen_heading": "Lav Definition",
+      "current_heading": "Lav Definition",
+      "moved": false
+    }
+  }
+]

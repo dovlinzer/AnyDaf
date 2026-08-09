@@ -1,0 +1,413 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Initial Stipulation",
+    "candidates": [
+      "Perek 12 Opening",
+      "Initial Stipulation",
+      "Remarriage & Dual Support",
+      "First Husband's Liability"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening mishna of perek 12, presenting the basic case of a man who marries a woman and stipulates to support her daughter for five years \u2014 exactly what heading 0 ('Perek 12 Opening') introduces as the first mishna of the new chapter, before the detailed analysis begins in heading 1.",
+      "chosen_heading": "Perek 12 Opening",
+      "current_heading": "Initial Stipulation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "First Husband's Liability",
+    "candidates": [
+      "Remarriage & Dual Support",
+      "First Husband's Liability",
+      "Independent Obligations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the remarriage scenario and the second husband's obligation to sustain the daughter for five years, which directly matches the 'Remarriage & Dual Support' section's prose about the second husband's independent five-year obligation.",
+      "chosen_heading": "Remarriage & Dual Support",
+      "current_heading": "First Husband's Liability",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Independent Obligations",
+    "candidates": [
+      "First Husband's Liability",
+      "Independent Obligations",
+      "Stepdaughter Marries",
+      "After Stepfather Death"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibition on the two husbands combining their obligations and the requirement that one provides food while the other pays the monetary equivalent, which is precisely what the prose under 'Independent Obligations' describes.",
+      "chosen_heading": "Independent Obligations",
+      "current_heading": "Independent Obligations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "After Stepfather Death",
+    "candidates": [
+      "Stepdaughter Marries",
+      "After Stepfather Death",
+      "Smart People's Clause"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the married-daughter scenario and the post-death estate ranking (liened vs. unencumbered property, creditor status), but the bulk of the content \u2014 the death of the stepfathers, natural daughters limited to unsold property, and stepdaughter collecting from liened property as a creditor \u2014 is precisely what candidate 1 ('After Stepfather Death') discusses in its prose.",
+      "chosen_heading": "After Stepfather Death",
+      "current_heading": "After Stepfather Death",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Smart People's Clause",
+    "candidates": [
+      "Smart People's Clause",
+      "Oral Admission Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the 'smart people's clause' about conditioning sustenance on the marriage's continuation, which is exactly what the prose under heading 0 discusses.",
+      "chosen_heading": "Smart People's Clause",
+      "current_heading": "Smart People's Clause",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Oral Admission Debate",
+    "candidates": [
+      "Oral Admission Debate",
+      "Conversation vs Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the opening dispute between Rabbi Yo\u1e25anan and Reish Lakish about oral admission, which is precisely what the 'Oral Admission Debate' section prose describes.",
+      "chosen_heading": "Oral Admission Debate",
+      "current_heading": "Oral Admission Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Conversation vs Witnesses",
+    "candidates": [
+      "Conversation vs Witnesses",
+      "Written vs Oral"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the core question-and-answer exchange about the disputed case (informal written admission without 'atem eidai'), which is precisely what candidate 0's prose describes in detail \u2014 the alima/lo alima milta d'shtara debate between Rabbi Yochanan and Reish Lakish.",
+      "chosen_heading": "Conversation vs Witnesses",
+      "current_heading": "Conversation vs Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Written vs Oral",
+    "candidates": [
+      "Written vs Oral",
+      "Wedding Stipulations",
+      "In-Law Negotiations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge using the mishna about sustaining a daughter for five years and asks 'mai lav ki hai gavna' \u2014 is this not a case like the informal written admission \u2014 which is precisely what the prose of heading 0 ('Written vs Oral') describes and analyzes.",
+      "chosen_heading": "Written vs Oral",
+      "current_heading": "Written vs Oral",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "In-Law Negotiations",
+    "candidates": [
+      "Wedding Stipulations",
+      "In-Law Negotiations",
+      "Pidyon Haben Case",
+      "IOU & Pre-existing Debt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the gemara's rejection of the prior reading and its substitution of the 'stipulation documents' explanation, which is precisely what the 'Wedding Stipulations' prose describes \u2014 the gemara declining the earlier reading and proposing bishtarei psikta as the mishnah's subject, with the Rav Giddel teaching serving as the illustration of that category, all of which the 'Wedding Stipulations' section explicitly introduces before the 'In-Law Negotiations' section elaborates on it.",
+      "chosen_heading": "Wedding Stipulations",
+      "current_heading": "In-Law Negotiations",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "IOU & Pre-existing Debt",
+    "candidates": [
+      "Pidyon Haben Case",
+      "IOU & Pre-existing Debt",
+      "Guarantor Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the complete tashma challenge and its resolution regarding the pidyon haben case \u2014 the challenge itself (item 1), the answer about the pre-existing Torah obligation and why the IOU was written (item 2), and Ulla's gezeirah explanation for why the son remains unredeemed (item 3) \u2014 which matches the 'Pidyon Haben Case' prose exactly, while candidate 1's prose already describes all this content as its own discussion, suggesting the passage was misplaced one heading too late.",
+      "chosen_heading": "Pidyon Haben Case",
+      "current_heading": "IOU & Pre-existing Debt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Guarantor Dispute",
+    "candidates": [
+      "IOU & Pre-existing Debt",
+      "Guarantor Dispute",
+      "Strangling Parable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly introduces Rava's 'k'tana'ei' statement about the guarantor appearing after signatures collecting only from unsold property, which is precisely what the 'Guarantor Dispute' section's prose describes and discusses.",
+      "chosen_heading": "Guarantor Dispute",
+      "current_heading": "Guarantor Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64
+    ],
+    "current_heading": "Strangling Parable",
+    "candidates": [
+      "Strangling Parable",
+      "Yochanan vs Resh Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the Ben Nanas dispute and strangling parable that candidate 0's prose explicitly and fully discusses, matching the content precisely.",
+      "chosen_heading": "Strangling Parable",
+      "current_heading": "Strangling Parable",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Yochanan vs Resh Lakish",
+    "candidates": [
+      "Yochanan vs Resh Lakish",
+      "Words + Marriage = Kinyan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the mapping of Rabbi Yochanan and Reish Lakish onto Rabbi Yishmael and Ben Nanas, and the refinement that the dispute only applies according to Rabbi Yishmael \u2014 exactly what the 'Yochanan vs Resh Lakish' prose describes.",
+      "chosen_heading": "Yochanan vs Resh Lakish",
+      "current_heading": "Yochanan vs Resh Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78
+    ],
+    "current_heading": "Words + Marriage = Kinyan",
+    "candidates": [
+      "Words + Marriage = Kinyan",
+      "Can Oral Become Written?",
+      "No Retroactive Writing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the same topic \u2014 Rav Giddel's ruling about verbal obligations becoming binding through kiddushin, and Rava's elaboration on the mechanism of hana'ah d'kamichtani ahadadi \u2014 which precisely matches the prose of heading 0 about kinyan amira and the joy of the children's marriage serving as consideration.",
+      "chosen_heading": "Words + Marriage = Kinyan",
+      "current_heading": "Words + Marriage = Kinyan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84,
+      85
+    ],
+    "current_heading": "No Retroactive Writing",
+    "candidates": [
+      "Can Oral Become Written?",
+      "No Retroactive Writing",
+      "Shtar Kiddushin Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous exchange between Ravina and Rav Ashi about whether verbal stipulations can be written down, including the challenge from 'hapikhin hayu kotvin' and the resolution that 'kotvin' means 'omrin' \u2014 exactly what candidate 1 ('No Retroactive Writing') describes in its prose.",
+      "chosen_heading": "No Retroactive Writing",
+      "current_heading": "No Retroactive Writing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Shtar Kiddushin Rules",
+    "candidates": [
+      "Shtar Kiddushin Rules",
+      "Unilateral Writing Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the challenge from the mishna about writing betrothal/marriage documents and asks whether it refers to shtarei psikta, which is precisely what the prose under 'Shtar Kiddushin Rules' (index 0) discusses.",
+      "chosen_heading": "Shtar Kiddushin Rules",
+      "current_heading": "Shtar Kiddushin Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Unilateral Writing Debate",
+    "candidates": [
+      "Unilateral Writing Debate",
+      "Stepdaughter as Creditor",
+      "Implicit Shtar Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the dispute between Rabbah/Ravina and Rav Pappa/Rav Sherevya about writing a betrothal document without the woman's consent, which is precisely what the 'Unilateral Writing Debate' prose describes.",
+      "chosen_heading": "Unilateral Writing Debate",
+      "current_heading": "Unilateral Writing Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Implicit Shtar Question",
+    "candidates": [
+      "Stepdaughter as Creditor",
+      "Implicit Shtar Question",
+      "Not Standard Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the mishna's statement that the stepdaughter is sustained from liened property because she is like a creditor \u2014 this is the content described in the 'Stepdaughter as Creditor' prose, not the 'Implicit Shtar Question' prose which discusses the inference drawn from that fact.",
+      "chosen_heading": "Stepdaughter as Creditor",
+      "current_heading": "Implicit Shtar Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Not Standard Obligation",
+    "candidates": [
+      "Implicit Shtar Question",
+      "Not Standard Obligation",
+      "Presumption for Daughters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items trace the gemara's chain of kinyan/shtar reasoning \u2014 from 'beshekanu miyado' through the kegon d'girshah v'ahadrah objection to the final 'leisa b'tnai beit din' resolution \u2014 which is precisely what the 'Not Standard Obligation' prose describes in detail.",
+      "chosen_heading": "Not Standard Obligation",
+      "current_heading": "Not Standard Obligation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Presumption for Daughters",
+    "candidates": [
+      "Presumption for Daughters",
+      "Summary: Shtar vs Default"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the 'eima tzerorei apistinhu' reasoning \u2014 that natural daughters don't collect from liened property because the stipulation of the court creates a presumption that the father already gave them funds \u2014 which is precisely what the 'Presumption for Daughters' prose discusses.",
+      "chosen_heading": "Presumption for Daughters",
+      "current_heading": "Presumption for Daughters",
+      "moved": false
+    }
+  }
+]

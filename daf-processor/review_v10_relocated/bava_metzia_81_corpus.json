@@ -1,0 +1,395 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Mishnah 98b Citation",
+    "candidates": [
+      "Mishnah Contradiction",
+      "Mishnah 98b Citation",
+      "Rashi Explanation",
+      "Efrayim bar Pappa",
+      "Rav Nachman Challenge",
+      "Take vs. Completed",
+      "Formulation Logic",
+      "Tosefta Versions",
+      "Textual Transmission",
+      "Explicit Formula Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain discussing why the mishnah specifically teaches 'tol shelcha vehavei ma'ot' rather than the simpler 'gamarti' formulation \u2014 exactly the content described in candidate 6's prose about the formulation logic and the gemara's question of why the more elaborate case is taught.",
+      "chosen_heading": "Formulation Logic",
+      "current_heading": "Mishnah 98b Citation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Explicit Formula Teaching",
+    "candidates": [
+      "Rashi Explanation",
+      "Efrayim bar Pappa",
+      "Rav Nachman Challenge",
+      "Take vs. Completed",
+      "Formulation Logic",
+      "Tosefta Versions",
+      "Textual Transmission",
+      "Explicit Formula Teaching",
+      "Exempt Accident Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents the 'ikka de'amri' version where Rav Nachman bar Pappa argues that the mishnah's ruling on 'tol shelcha vehavei ma'ot' implies the same for 'gamarti', which is then rejected with 'tol shelcha shani' \u2014 exactly what the prose of heading 7 ('Explicit Formula Teaching') explicitly describes.",
+      "chosen_heading": "Explicit Formula Teaching",
+      "current_heading": "Explicit Formula Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Exempt Accident Status",
+    "candidates": [
+      "Exempt Accident Status",
+      "Amemar Benefit Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Huna Mar bar Mareimar raising a contradiction before Ravina and resolving it, which matches heading 0's prose about this late amora presenting the contradiction and deploying an okimta \u2014 and this occurs before the distinct ibaya lehu question about exempt accident status that transitions into heading 1's content.",
+      "chosen_heading": "Exempt Accident Status",
+      "current_heading": "Exempt Accident Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Amemar Benefit Theory",
+    "candidates": [
+      "Amemar Benefit Theory",
+      "Artisan Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely the Ameimar dilemma and ruling (patur misho'el vechayav keshomer sachar, h\u043e'il venehene mehane hava) that the 'Amemar Benefit Theory' prose directly discusses and analyzes.",
+      "chosen_heading": "Amemar Benefit Theory",
+      "current_heading": "Amemar Benefit Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Artisan Baraita",
+    "candidates": [
+      "Artisan Baraita",
+      "Hana'ah Return Phase",
+      "Donkey Injury Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita cited in support of Ameimar, describing the going-phase liability and return-phase exemption as a nosei sachar \u2014 exactly what the 'Artisan Baraita' prose describes.",
+      "chosen_heading": "Artisan Baraita",
+      "current_heading": "Artisan Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Donkey Injury Setup",
+    "candidates": [
+      "Hana'ah Return Phase",
+      "Donkey Injury Setup",
+      "Rav Nachman Liable",
+      "Rava Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the setup narrated in candidate 1's prose \u2014 a man given a donkey to sell, failing to sell it, and the donkey being injured on return \u2014 and the current placement matches this content perfectly.",
+      "chosen_heading": "Donkey Injury Setup",
+      "current_heading": "Donkey Injury Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Rava Challenge",
+    "candidates": [
+      "Rav Nachman Liable",
+      "Rava Challenge",
+      "Continuous Mission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabba's objection to Rav Na\u1e25man citing the baraita that on the return journey the bailee is exempt, which matches exactly the 'Rava Challenge' section's prose about challenging Rav Nachman with the baraita's ruling of exemption on the return journey.",
+      "chosen_heading": "Rava Challenge",
+      "current_heading": "Rava Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Continuous Mission",
+    "candidates": [
+      "Continuous Mission",
+      "Rental Analogy",
+      "Period Boundaries",
+      "Mishnah Reciprocal",
+      "Owner Working Problem",
+      "Rav Papa Sequential",
+      "Baraita Parallels",
+      "Non-Overlapping Times"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses Rav Nachman's statement that the return journey is like the going because the seller would have sold on the way back \u2014 exactly the content described in the 'Continuous Mission' prose.",
+      "chosen_heading": "Continuous Mission",
+      "current_heading": "Continuous Mission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Non-Overlapping Times",
+    "candidates": [
+      "Rental Analogy",
+      "Period Boundaries",
+      "Mishnah Reciprocal",
+      "Owner Working Problem",
+      "Rav Papa Sequential",
+      "Baraita Parallels",
+      "Non-Overlapping Times",
+      "First Theft Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishnah's ruling that 'safeguard for me and I'll safeguard for you' creates shomer sachar status, and the Baraita extending the same ruling to mixed arrangements \u2014 are the primary Talmudic texts that candidate 2 ('Mishnah Reciprocal') introduces, with candidates 3, 4, and 5 being the essay's prose analysis of those texts' difficulty and resolution; the passage belongs under the heading that presents the Mishnah's initial ruling, before the problem and Rav Papa's answer are discussed.",
+      "chosen_heading": "Mishnah Reciprocal",
+      "current_heading": "Non-Overlapping Times",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "current_heading": "First Theft Case",
+    "candidates": [
+      "Non-Overlapping Times",
+      "First Theft Case",
+      "Rabbis Challenge",
+      "Drinking Break",
+      "Explicit Condition",
+      "Break Resolution",
+      "Simultaneity Principle",
+      "Contractor Examples",
+      "Exchange Setup",
+      "Item Exchange Action"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "First Theft Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe the first scenario (the ice plant dealers' rotating baking arrangement, Rav Papa's ruling, and the Rabbis' challenge), matching the 'First Theft Case' and 'Rabbis Challenge' prose \u2014 but since the passage must go under ONE heading for items 1-2, 'First Theft Case' prose explicitly describes both the scenario and Rav Papa's ruling, making it the best fit for items 1-2.",
+      "second_heading": "Explicit Condition",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 describe the second scenario where the day was not his turn and he explicitly conditioned baking on guarding his coat, plus the repeated resolution involving drinking \u2014 this matches 'Explicit Condition' prose which describes exactly this out-of-turn scenario with the formal wage-condition arrangement.",
+      "current_heading": "First Theft Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Item Exchange Action",
+    "candidates": [
+      "Rabbis Challenge",
+      "Drinking Break",
+      "Explicit Condition",
+      "Break Resolution",
+      "Simultaneity Principle",
+      "Contractor Examples",
+      "Exchange Setup",
+      "Item Exchange Action",
+      "Rabba Liable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage describes the two travelers (tall and short), their possessions, and the setup of the river crossing scenario, which matches the 'Exchange Setup' prose that introduces these two travelers and their respective items before the action occurs.",
+      "chosen_heading": "Exchange Setup",
+      "current_heading": "Item Exchange Action",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Rabba Liable",
+    "candidates": [
+      "Item Exchange Action",
+      "Rabba Liable",
+      "Rabbis Objection",
+      "Without Consent",
+      "Unwitting Bailee",
+      "Instruction Breach",
+      "No Water Claim",
+      "Miggo Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes the discovery that the short traveler took and replaced the sheet without the tall traveler's knowledge (belo datei shaklei/otbei), which is precisely what the 'Without Consent' section's prose discusses \u2014 the clarification of facts showing the arrangement was made without the tall traveler's knowledge or consent.",
+      "chosen_heading": "Without Consent",
+      "current_heading": "Rabba Liable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Miggo Analysis",
+    "candidates": [
+      "Rabbis Objection",
+      "Without Consent",
+      "Unwitting Bailee",
+      "Instruction Breach",
+      "No Water Claim",
+      "Miggo Analysis",
+      "Miggo Refutation",
+      "Public Knowledge",
+      "Mishnah Put Down",
+      "Rav Huna Rejection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together narrate the full donkey-rental case \u2014 the instruction breach and the renter's 'no water' defense plus Rava's miggo and Abaye's refutation \u2014 and candidate 3 ('Instruction Breach') is the opening of that case's prose, making it the correct home heading for the entire passage rather than the mid-story 'Miggo Analysis' heading where it currently sits.",
+      "chosen_heading": "Instruction Breach",
+      "current_heading": "Miggo Analysis",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Rav Huna Rejection",
+    "candidates": [
+      "Miggo Refutation",
+      "Public Knowledge",
+      "Mishnah Put Down",
+      "Rav Huna Rejection",
+      "Unqualified Put",
+      "Mishnah Contrast",
+      "Tannaitic Dispute",
+      "Rabbanan Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items together constitute the gemara's attempt to resolve the 'hanach stam' dilemma by reading the mishnah's contrast with Rav Huna's ruling, concluding that no inference can be drawn \u2014 exactly what candidate 5 ('Mishnah Contrast') describes.",
+      "chosen_heading": "Mishnah Contrast",
+      "current_heading": "Rav Huna Rejection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143
+    ],
+    "current_heading": "Rabbanan Position",
+    "candidates": [
+      "Unqualified Put",
+      "Mishnah Contrast",
+      "Tannaitic Dispute",
+      "Rabbanan Position",
+      "Rabbi Position",
+      "Guarded Courtyard",
+      "Permission to Enter",
+      "Marketplace Contrast"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the gemara's presentation and refutation of a tannaitic dispute (machloket tanna'im) regarding liability when items are brought into a courtyard with permission \u2014 which is precisely what candidate 2 ('Tannaitic Dispute') describes, not the 'Rabbanan Position' where it currently sits.",
+      "chosen_heading": "Tannaitic Dispute",
+      "current_heading": "Rabbanan Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      152
+    ],
+    "current_heading": "Marketplace Contrast",
+    "candidates": [
+      "Rabbi Position",
+      "Guarded Courtyard",
+      "Permission to Enter",
+      "Marketplace Contrast",
+      "Location-Based Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the 'alternatively' argument that contrasts Rabbi's courtyard ruling (where permission to enter is required, so granting it implies 'sit and guard it yourself') with the marketplace case (where no permission is needed, so 'hanach' implies 'I will guard it'), which directly matches the 'Permission to Enter' section's prose about the second explanation focusing on the permission itself and the contrast between tiv venatar lach and hanach.",
+      "chosen_heading": "Permission to Enter",
+      "current_heading": "Marketplace Contrast",
+      "moved": true
+    }
+  }
+]

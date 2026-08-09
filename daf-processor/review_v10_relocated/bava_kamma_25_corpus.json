@@ -1,0 +1,358 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Tarfon's Kal Vachomer",
+    "candidates": [
+      "Tarfon's Kal Vachomer",
+      "Rabbis' Dayo Response",
+      "Tarfon's Second Approach",
+      "Rabbis' Rebuttal",
+      "Dayo Question",
+      "Dayo Principle",
+      "Miriam Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbis' Dayo Response",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Rabbis' first dayo response and Rabbi Tarfon's reply 'I as well,' which belong under 'Rabbis' Dayo Response' as that section's prose describes exactly this exchange.",
+      "second_heading": "Tarfon's Second Approach",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 are Rabbi Tarfon's second reformulated argument (keren from regel) and the Rabbis' rebuttal applying dayo again, which perfectly match 'Tarfon's Second Approach' and its follow-up in 'Rabbis' Rebuttal' \u2014 but since items 3 and 4 span two headings, the natural split point places item 3 under heading 2 and item 4 under heading 3; however as FORM 2 only allows one split, the best single split places items 1-2 under heading 1 and items 3-4 under heading 2.",
+      "current_heading": "Tarfon's Kal Vachomer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Miriam Case",
+    "candidates": [
+      "Rabbis' Dayo Response",
+      "Tarfon's Second Approach",
+      "Rabbis' Rebuttal",
+      "Dayo Question",
+      "Dayo Principle",
+      "Miriam Case",
+      "Dayo Limits Kal Vachomer",
+      "Tarfon Rejects Dayo",
+      "Tarfon: Goring Ox"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the Gemara asking whether Rabbi Tarfon rejects dayo and then proving dayo is de-oraita by citing the baraita \u2014 matches the 'Dayo Principle' section prose, which explicitly describes this exact Gemara question and the baraita citation demonstrating dayo's biblical basis.",
+      "chosen_heading": "Dayo Principle",
+      "current_heading": "Miriam Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Tarfon: Goring Ox",
+    "candidates": [
+      "Dayo Limits Kal Vachomer",
+      "Tarfon Rejects Dayo",
+      "Tarfon: Goring Ox",
+      "Rabbis Defend Dayo",
+      "Tarfon's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the Gemara's resolution of Rabbi Tarfon's position \u2014 the precise distinction between cases where dayo refutes the kal vachomer entirely versus where it doesn't \u2014 which is exactly what heading 1 ('Tarfon Rejects Dayo') describes, including the Miriam example and the goring ox contrast that illustrate this principle.",
+      "chosen_heading": "Tarfon Rejects Dayo",
+      "current_heading": "Tarfon: Goring Ox",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Tarfon's Response",
+    "candidates": [
+      "Rabbis Defend Dayo",
+      "Tarfon's Response",
+      "Keri B'Zav Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the back-and-forth between the Rabbis and Rabbi Tarfon over the two Miriam verses (tisager/v'tisager) and the dayo principle, which is precisely what candidate 0 ('Rabbis Defend Dayo') describes in its prose, whereas the current placement (candidate 1, 'Tarfon's Response') only covers Rabbi Tarfon's final interpretation of the second verse.",
+      "chosen_heading": "Rabbis Defend Dayo",
+      "current_heading": "Tarfon's Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Keri B'Zav Case",
+    "candidates": [
+      "Tarfon's Response",
+      "Keri B'Zav Case",
+      "Semen Kal Vachomer",
+      "Tamei by Carrying",
+      "Dayo Question 2",
+      "Source Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's challenge to Abaye introducing the keri b'zav baraita, which is precisely what the 'Keri B'Zav Case' prose describes \u2014 Rav Pappa citing a tanna who does not apply dayo even where the kal vachomer would bear fruit, and the baraita asking from where we derive that the keri of a zav is tamei.",
+      "chosen_heading": "Keri B'Zav Case",
+      "current_heading": "Keri B'Zav Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52
+    ],
+    "current_heading": "Source Pasuk",
+    "candidates": [
+      "Semen Kal Vachomer",
+      "Tamei by Carrying",
+      "Dayo Question 2",
+      "Source Pasuk",
+      "Semen Tamei by Touch",
+      "Tanna Identity",
+      "Kelim Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items form a continuous dialectical exchange about whether the kal vachomer was needed for tumah by touch (via the mikreh laylah pasuk argument) and Abaye's dismissal of that reasoning \u2014 exactly what the 'Source Pasuk' prose describes.",
+      "chosen_heading": "Source Pasuk",
+      "current_heading": "Source Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Kelim Mishna",
+    "candidates": [
+      "Semen Tamei by Touch",
+      "Tanna Identity",
+      "Kelim Mishna",
+      "Braita Confirmed",
+      "Mapatz & Meis",
+      "Vessels Kal Vachomer",
+      "Vessel Exemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage identifies the tanna whose opinion underlies the braita \u2014 first ruling out Rabbi Eliezer and Rabbi Yehoshua (items 1-2), then pointing to the Kelim mishna as the source of the correct tanna (items 3-4) \u2014 which matches the 'Tanna Identity' heading's prose about asking who holds that shichvat zera of a zav is tamei by carrying, not the 'Kelim Mishna' heading where it currently sits.",
+      "chosen_heading": "Tanna Identity",
+      "current_heading": "Kelim Mishna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Vessel Exemption",
+    "candidates": [
+      "Braita Confirmed",
+      "Mapatz & Meis",
+      "Vessels Kal Vachomer",
+      "Vessel Exemption",
+      "Mapatz Kal Vachomer",
+      "Dayo Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces Rav A\u1e25a of Difti's challenge to Ravina about a tanna who rejects dayo even when the kal vachomer would not be refuted, using the mapatz/meis case \u2014 exactly what 'Mapatz & Meis' prose describes as 'a second challenge' from 'Rav Acha mi-Difti.'",
+      "chosen_heading": "Mapatz & Meis",
+      "current_heading": "Vessel Exemption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Dayo Limitation",
+    "candidates": [
+      "Mapatz Kal Vachomer",
+      "Dayo Limitation",
+      "Sheretz Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the challenge of why dayo is not applied to limit the kal vachomer's result to nightfall-tumah rather than seven-day tumah, which is precisely what the 'Dayo Limitation' section's prose describes.",
+      "chosen_heading": "Dayo Limitation",
+      "current_heading": "Dayo Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Sheretz Derivation",
+    "candidates": [
+      "Sheretz Derivation",
+      "Sheretz Kal Vachomer",
+      "Gezerah Shavah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Abaye's resolution (citing that the tanna derives from sheretz rather than zav directly), which matches heading 0's prose about Ravina citing Abaye's answer and the two-stage derivation beginning with sheretz \u2014 heading 1 covers the kal vachomer details that follow, not this introductory framing.",
+      "chosen_heading": "Sheretz Derivation",
+      "current_heading": "Sheretz Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Gezerah Shavah",
+    "candidates": [
+      "Sheretz Kal Vachomer",
+      "Gezerah Shavah",
+      "Extra Words Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the gezerah shavah derivation linking 'beged v'or' in sheretz to 'beged v'or' in meis to establish that a mapatz contracts impurity from a corpse, which is exactly what the 'Gezerah Shavah' section's prose describes.",
+      "chosen_heading": "Gezerah Shavah",
+      "current_heading": "Gezerah Shavah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Extra Words Analysis",
+    "candidates": [
+      "Extra Words Analysis",
+      "Pasuk Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the gezerah shavah must be mufneh (free/extraneous) and explains the pircha (refutation) that would arise if the words were not free, which matches exactly what the 'Extra Words Analysis' prose describes.",
+      "chosen_heading": "Extra Words Analysis",
+      "current_heading": "Extra Words Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Pasuk Connection",
+    "candidates": [
+      "Pasuk Connection",
+      "Ironclad Gezerah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly explain why 'garment' and 'leather' are redundant by sheretz through the juxtaposition with shichvat zera \u2014 exactly what the 'Pasuk Connection' prose describes.",
+      "chosen_heading": "Pasuk Connection",
+      "current_heading": "Pasuk Connection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Ironclad Gezerah",
+    "candidates": [
+      "Ironclad Gezerah",
+      "Meis Pasuk Connection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the one-sided versus two-sided mufneh distinction and whether a gezerah shavah free from only one side can be refuted, which is precisely what the 'Ironclad Gezerah' section prose discusses.",
+      "chosen_heading": "Ironclad Gezerah",
+      "current_heading": "Ironclad Gezerah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Meis Pasuk Connection",
+    "candidates": [
+      "Meis Pasuk Connection",
+      "Seven Days Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the juxtaposition of meis with shichvat zera and why beged and or in the meis context are free/redundant, establishing the gezerah shavah as mufneh from both sides \u2014 exactly what the 'Meis Pasuk Connection' prose describes.",
+      "chosen_heading": "Meis Pasuk Connection",
+      "current_heading": "Meis Pasuk Connection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Seven Days Solution",
+    "candidates": [
+      "Seven Days Solution",
+      "Final Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the tension between 'don minah u-minah' and 'don minah ve-okei be-atrah' regarding the duration of tumah for a mapatz from meis, which is precisely what the 'Seven Days Solution' prose discusses.",
+      "chosen_heading": "Seven Days Solution",
+      "current_heading": "Seven Days Solution",
+      "moved": false
+    }
+  }
+]

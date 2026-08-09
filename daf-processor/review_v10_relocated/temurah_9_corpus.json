@@ -1,0 +1,325 @@
+[
+  {
+    "quote_indices": [
+      6
+    ],
+    "current_heading": "Blemished Animals",
+    "candidates": [
+      "Sheep & Cattle",
+      "Male & Female",
+      "Blemished Animals",
+      "Prohibition Verse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage enumerates all the cases of temurah (flock/herd, sheep/goats, male/female, blemished/unblemished) and belongs under the 'Sheep & Cattle' heading which introduces this new mishna on daf 9 of Temurah and discusses its opening content \u2014 the subsequent headings (Male & Female, Blemished Animals, Prohibition Verse) each address specific sub-topics of this mishna's content in the essay's prose, so the full mishna text belongs at the start under heading 0.",
+      "chosen_heading": "Sheep & Cattle",
+      "current_heading": "Blemished Animals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Prohibition Verse",
+    "candidates": [
+      "Blemished Animals",
+      "Prohibition Verse",
+      "Rashi Position",
+      "Blemish Timing",
+      "Redemption Strategy",
+      "Intent & Words",
+      "Abaye's Duality"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes and interprets the verse 'lo yachalifenu velo yamir oto tov bera o ra betov' to establish that temurah from blemished animals only applies when consecration preceded the blemish \u2014 exactly what the 'Prohibition Verse' prose describes, including the specific question of what constitutes 'tov bera' and the answer about ba'alei mumim shekadam hekdesham et muman.",
+      "chosen_heading": "Prohibition Verse",
+      "current_heading": "Prohibition Verse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Abaye's Duality",
+    "candidates": [
+      "Rashi Position",
+      "Blemish Timing",
+      "Redemption Strategy",
+      "Intent & Words",
+      "Abaye's Duality",
+      "Rava's Position",
+      "Kal va-Chomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara unit that the 'Abaye's Duality' prose explicitly describes: the baraita deriving all substitution combinations from 'behemah b'behemah,' the exclusion of blemish-preceded-consecration cases, and Abaye's derivation that 'tov me'ikara oseh tmurah, ra me'ikara ein oseh tmurah' \u2014 exactly matching the current placement.",
+      "chosen_heading": "Abaye's Duality",
+      "current_heading": "Abaye's Duality",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Kal va-Chomer",
+    "candidates": [
+      "Rava's Position",
+      "Kal va-Chomer",
+      "Redundancy Resolution",
+      "Hachlif Case",
+      "Two Prohibitions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form one continuous dispute: Rava's derivation from the two instances of 'tov,' Abaye's kal va-chomer challenge, and Rava's response with 'ein onshin min hadin' followed by Abaye's counter \u2014 exactly what candidate 1 ('Kal va-Chomer') describes in its prose.",
+      "chosen_heading": "Kal va-Chomer",
+      "current_heading": "Kal va-Chomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Two Prohibitions",
+    "candidates": [
+      "Redundancy Resolution",
+      "Hachlif Case",
+      "Two Prohibitions",
+      "Matfis Concept",
+      "Permission Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items constitute the baraita's distinction between 'lo yachlifenu' and 'lo yamiru bo' followed by the Gemara's explanation of why both are needed \u2014 precisely the content described in the 'Two Prohibitions' prose, which discusses why the verse couldn't have written only one prohibition and what each adds, including the resolution about one who 'consecrates both animals.'",
+      "chosen_heading": "Two Prohibitions",
+      "current_heading": "Two Prohibitions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Permission Cases",
+    "candidates": [
+      "Matfis Concept",
+      "Permission Cases",
+      "Mishna Positions",
+      "Rabbi Shimon",
+      "Behemah Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Matfis Concept",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 form a continuous question-and-answer unit about substituting another's animal, which is precisely what the 'Matfis Concept' prose discusses \u2014 the birshuto requirement, the matpis distinction, and the owner's declaration permitting others to perform temurah.",
+      "second_heading": "Mishna Positions",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is a new Mishna (explicitly marked 'MISHNA:') introducing an entirely new topic \u2014 substitution of unequal numbers of animals \u2014 which matches the 'Mishna Positions' prose exactly.",
+      "current_heading": "Permission Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Behemah Debate",
+    "candidates": [
+      "Mishna Positions",
+      "Rabbi Shimon",
+      "Behemah Debate",
+      "Shimon's Strategy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the baraita deriving from 'behemah b'vehemah' and the debate between the Rabbanan and Rabbi Shimon over whether 'behemah' can denote plurality, which is precisely what the 'Behemah Debate' prose describes.",
+      "chosen_heading": "Behemah Debate",
+      "current_heading": "Behemah Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Shimon's Strategy",
+    "candidates": [
+      "Shimon's Strategy",
+      "Reish Lakish"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the question of whether Rabbi Shimon's reason derives from 'behemah' or 'hu', and the resolution that he initially argued from 'hu utmurato' but later adopted 'behemah b'vehemah' as well \u2014 exactly what the 'Shimon's Strategy' prose describes.",
+      "chosen_heading": "Shimon's Strategy",
+      "current_heading": "Shimon's Strategy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Reish Lakish",
+    "candidates": [
+      "Reish Lakish",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Reish Lakish's and Rabbi Yochanan's statements together as one Talmudic unit, and its current placement under 'Reish Lakish' is correct since that section's prose explicitly covers both positions (Reish Lakish's ruling and the reasoning 'kedusha rishona d'hekdesh l'heichan halchah'), while Rabbi Yochanan's separate prose section discusses the subsequent baraitot and derivations.",
+      "chosen_heading": "Reish Lakish",
+      "current_heading": "Reish Lakish",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Rabbi Yochanan",
+      "Kedusha Transfer",
+      "Compound Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly presents baraitot supporting both Rabbi Yochanan and Reish Lakish on sequential temurah acts, which is precisely what the 'Rabbi Yochanan' section's prose describes and analyzes.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Compound Question",
+    "candidates": [
+      "Kedusha Transfer",
+      "Compound Question",
+      "Abaye's Response",
+      "First Lishna",
+      "Second Lishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Avin's compound dilemma about substitution for an asham that was substituted, became blemished, redeemed onto another animal, and then consigned as an olah \u2014 precisely the compound question described in the 'Compound Question' prose.",
+      "chosen_heading": "Compound Question",
+      "current_heading": "Compound Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "current_heading": "Second Lishna",
+    "candidates": [
+      "Abaye's Response",
+      "First Lishna",
+      "Second Lishna",
+      "Teiku Resolution",
+      "Yehoshua Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "First Lishna",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 match 'First Lishna' prose exactly: Abaye challenges Rabbi Avin's framing with 'shnei gufim vekedusha achas'/'lo mitkapar' and 'shnei kedushos/lo humam', followed by the chada migu chada explanation escalating to shnei gufim ushnei kedushos, ending in teiku.",
+      "second_heading": "Second Lishna",
+      "second_confidence": "high",
+      "second_reason": "Items 4-9 match 'Second Lishna' prose exactly: the alternative version presenting two separate sub-questions (blemished/desacralized onto another animal vs. consigned as olah after atonement by another), Abaye's critique of which is the essential dilemma, the chada migu chada resolution, and the final teiku.",
+      "current_heading": "Second Lishna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      115,
+      116
+    ],
+    "current_heading": "Yehoshua Rule",
+    "candidates": [
+      "Teiku Resolution",
+      "Yehoshua Rule",
+      "Rav Pappa",
+      "Asham Redemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabbi Yehoshua ben Levi's ruling on the fifth for original vs. derivative sanctification, and Rav Pappa's scriptural derivation \u2014 are the exact content described in the 'Yehoshua Rule' prose, which explicitly notes that 'the reasoning behind this distinction, which turns on a close reading of the verse's operative language, is what Rav Pappa proceeds to explain.'",
+      "chosen_heading": "Yehoshua Rule",
+      "current_heading": "Yehoshua Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Asham Redemption",
+    "candidates": [
+      "Rav Pappa",
+      "Asham Redemption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Avin's dilemma about redeeming a blemished asham that has gone through multiple transfers and kedusha transformation, which is precisely what the 'Asham Redemption' prose describes.",
+      "chosen_heading": "Asham Redemption",
+      "current_heading": "Asham Redemption",
+      "moved": false
+    }
+  }
+]

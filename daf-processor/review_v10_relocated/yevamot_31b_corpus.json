@@ -1,0 +1,392 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Gittin Mishna",
+    "candidates": [
+      "Opening",
+      "Safek Gierushin Summary",
+      "Cost of Chalitza",
+      "Gittin Mishna",
+      "Nafka Minos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the actual Gittin mishna text about a get thrown in the public domain landing closer/farther/midway, which is precisely what the 'Gittin Mishna' section's prose describes and introduces.",
+      "chosen_heading": "Gittin Mishna",
+      "current_heading": "Gittin Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Nafka Minos",
+    "candidates": [
+      "Nafka Minos",
+      "Two Pairs Witnesses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the two practical ramifications (nafka minos) of a doubtful divorce\u2014the kohen case and the tzarat erva/chalitza case\u2014which is exactly what the prose under heading 0 ('Nafka Minos') describes.",
+      "chosen_heading": "Nafka Minos",
+      "current_heading": "Nafka Minos",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Two Pairs Witnesses",
+    "candidates": [
+      "Two Pairs Witnesses",
+      "D'Oraisa Doubt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbah and Rav Yosef's teaching distinguishing two sets of witnesses (sefeika d'oraisa) from one set (sefeika d'rabbanan), which is precisely what the 'Two Pairs Witnesses' prose section describes and analyzes.",
+      "chosen_heading": "Two Pairs Witnesses",
+      "current_heading": "Two Pairs Witnesses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "D'Oraisa Doubt",
+    "candidates": [
+      "D'Oraisa Doubt",
+      "Bar Shatya Case",
+      "Rav Ashi's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the gemara's argument that two contradictory pairs of witnesses create only a rabbinic doubt (okei trei l'bahadi trei, returning the woman to her chazaka), which is precisely the content the prose under 'D'Oraisa Doubt' discusses when it says 'v'su\u2014moreover' and explains that contradictory witnesses are rejected and one returns to the status quo.",
+      "chosen_heading": "D'Oraisa Doubt",
+      "current_heading": "D'Oraisa Doubt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Rav Ashi's Rule",
+    "candidates": [
+      "Bar Shatya Case",
+      "Rav Ashi's Rule",
+      "Abaye's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the Bar Shatya case itself \u2014 the conflicting witnesses and Rav Ashi's ruling \u2014 which is exactly what candidate 0's prose covers, while candidate 1's prose begins after the ruling and discusses its implications for the broader sugya.",
+      "chosen_heading": "Bar Shatya Case",
+      "current_heading": "Rav Ashi's Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Abaye's Logic",
+    "candidates": [
+      "Rav Ashi's Rule",
+      "Abaye's Logic",
+      "Rava Objects",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye's Logic",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's answer using the principle of yagid alav rei'o, which matches exactly the prose of 'Abaye's Logic' describing tana b'kiddushin v'hu ha-din l'gerushin.",
+      "second_heading": "Rava Objects",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's objection about the term 'zehu' implying exclusivity, which matches exactly the prose of 'Rava Objects' describing Rava's pushback on the zehu language.",
+      "current_heading": "Abaye's Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Rava's Resolution",
+    "candidates": [
+      "Rava Objects",
+      "Rava's Resolution",
+      "Two Reasons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's full resolution\u2014the kol she-yesh principle, the lav davka explanation for zehu in gerushin, and the le-ma'utei zman conclusion\u2014which is precisely what the prose of 'Rava's Resolution' describes in detail.",
+      "chosen_heading": "Rava's Resolution",
+      "current_heading": "Rava's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Two Reasons",
+    "candidates": [
+      "Two Reasons",
+      "Peiros Inapplicable",
+      "Adultery Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically addresses why no date is required in a betrothal document due to the peiros reason (arusa leit lah peiros), which is precisely what the 'Peiros Inapplicable' section's prose discusses.",
+      "chosen_heading": "Peiros Inapplicable",
+      "current_heading": "Two Reasons",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Adultery Challenge",
+    "candidates": [
+      "Peiros Inapplicable",
+      "Adultery Challenge",
+      "Money vs. Document"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the challenge about why a date isn't required in a shtar kiddushin given the 'mishum bas achoso' reason, which is exactly what the 'Adultery Challenge' section's prose describes.",
+      "chosen_heading": "Adultery Challenge",
+      "current_heading": "Adultery Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Money vs. Document",
+    "candidates": [
+      "Money vs. Document",
+      "Slave Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's answer about why no date is required when betrothal can be done with money or a document, which is precisely what the 'Money vs. Document' section's prose discusses.",
+      "chosen_heading": "Money vs. Document",
+      "current_heading": "Money vs. Document",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Slave Analogy",
+    "candidates": [
+      "Slave Analogy",
+      "Majority Principle",
+      "Witness Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the challenge about slaves and Rav Ashi's response about the majority principle, but the current placement under 'Slave Analogy' captures the full exchange, and the prose there describes both the challenge and hints at the answer, making it the best fit for this single unified Talmudic exchange.",
+      "chosen_heading": "Slave Analogy",
+      "current_heading": "Slave Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Witness Testimony",
+    "candidates": [
+      "Majority Principle",
+      "Witness Testimony",
+      "Memory vs. Writing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the 'ibba'it eima mishum d'lo efshar' argument about who holds the shtar kiddushin, which is precisely what the 'Witness Testimony' section's prose describes and introduces.",
+      "chosen_heading": "Witness Testimony",
+      "current_heading": "Witness Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Memory vs. Writing",
+    "candidates": [
+      "Memory vs. Writing",
+      "Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the mi-pihem velo mipi kesavam principle and its application\u2014item 1 introduces the concern about witnesses relying on written records rather than memory, and item 2 distinguishes divorce from betrothal in that same context\u2014exactly matching the 'Memory vs. Writing' prose discussion.",
+      "chosen_heading": "Memory vs. Writing",
+      "current_heading": "Memory vs. Writing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Case Setup",
+    "candidates": [
+      "Case Setup",
+      "Zika Problem",
+      "Yibum Question",
+      "Gezeira Decree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna passage presents the case setup of three brothers married to three unrelated women with the sequence of deaths and ma'amar, which is exactly what the 'Case Setup' prose describes and introduces.",
+      "chosen_heading": "Case Setup",
+      "current_heading": "Case Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Gezeira Decree",
+    "candidates": [
+      "Zika Problem",
+      "Yibum Question",
+      "Gezeira Decree",
+      "Mixed Forbidden"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Zika Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the mishnaic drashah establishing the double-zika exclusion rule (zikas shnei yevamin), which is precisely what the 'Zika Problem' prose discusses.",
+      "second_heading": "Gezeira Decree",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's question about why chalitza is needed if the prohibition is d'oraita, answered by 'ela miderabbanan' and the gezeira about two yevamot from one household, which is exactly what the 'Gezeira Decree' prose describes.",
+      "current_heading": "Gezeira Decree",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Mixed Forbidden",
+    "candidates": [
+      "Mixed Forbidden",
+      "Rava's Get Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the gezeira about 'bayit echad miktzato banuy umiktzato chalutz' and the concern about chalitza before yibum leading to 'asher lo yivneh', which is precisely what the 'Mixed Forbidden' prose describes in detail.",
+      "chosen_heading": "Mixed Forbidden",
+      "current_heading": "Mixed Forbidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rava's Get Case",
+    "candidates": [
+      "Rava's Get Case",
+      "Get Scope",
+      "First Status",
+      "Permanent Prohibition",
+      "Third Brother Case",
+      "Obviousness",
+      "Order of Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's ruling about giving a get l'maamaro rendering the rival wife permitted but keeping the original woman forbidden due to confusion with a baalas get, which matches exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Rava's Get Case",
+      "current_heading": "Rava's Get Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      121,
+      122,
+      123
+    ],
+    "current_heading": "Order of Teaching",
+    "candidates": [
+      "Get Scope",
+      "First Status",
+      "Permanent Prohibition",
+      "Third Brother Case",
+      "Obviousness",
+      "Order of Teaching"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 2,
+      "first_heading": "Get Scope",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 presents the 'icha d'amri' version of Rava's ruling that giving a get to his ma'amar permits even her, with the reasoning 'ma d'avad bah shaqlei,' which matches exactly the 'Get Scope' heading's prose about the second opinion.",
+      "second_heading": "First Status",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 is the Mishna about two brothers married to two sisters where one dies and then the second brother's wife dies, matching the 'First Status' heading which describes this exact Mishna scenario.",
+      "third_heading": "Order of Teaching",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the Gemara explaining why the Mishna was taught despite being obvious, using the argument that the tana taught it first and it was beloved, then concluding 'mishna lo zaza mi-mekoma,' which matches the 'Order of Teaching' heading precisely.",
+      "current_heading": "Order of Teaching",
+      "moved": true
+    }
+  }
+]

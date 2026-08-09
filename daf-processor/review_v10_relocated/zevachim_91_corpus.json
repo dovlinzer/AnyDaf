@@ -1,0 +1,455 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Asham Metzora",
+    "candidates": [
+      "Chattat & Asham",
+      "Asham Metzora",
+      "Asham Requirements",
+      "Eating Order",
+      "Shelamim Emesh"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Chattat & Asham",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the opening Mishna stating the general principle that all chataot precede ashamot (with the asham metzora exception), which matches heading 'Chattat & Asham' whose prose explicitly describes this very ruling from the mishna at 90b.",
+      "second_heading": "Asham Requirements",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Mishna's specification about all ashamot requiring two-year-old animals worth two shekalim, with exceptions for asham nazir and asham metzora, which matches exactly the prose of 'Asham Requirements'.",
+      "current_heading": "Asham Metzora",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Shelamim Emesh",
+    "candidates": [
+      "Asham Requirements",
+      "Eating Order",
+      "Shelamim Emesh",
+      "Teruma Spices",
+      "Absorption Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the principle that just as offerings precede in sacrifice they precede in eating (kesheim shekodmin behakravatan kodmin be'achilatan), which is precisely what candidate 1 'Eating Order' describes in its prose, making it the natural home for this text before the specific cases are elaborated under 'Shelamim Emesh'.",
+      "chosen_heading": "Eating Order",
+      "current_heading": "Shelamim Emesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Absorption Issue",
+    "candidates": [
+      "Teruma Spices",
+      "Absorption Issue",
+      "Question Posed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Mishnaic dispute between Rabbi Shimon and Rabbi Meir about adding teruma spices to sacrificial meat, which is precisely what the 'Teruma Spices' section prose describes, whereas the current 'Absorption Issue' section discusses Rabbi Meir's reasoning in more detail as a follow-up explanation.",
+      "chosen_heading": "Teruma Spices",
+      "current_heading": "Absorption Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Question Posed",
+    "candidates": [
+      "Absorption Issue",
+      "Question Posed",
+      "Tamid & Musaf"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara raising the central dilemma of tadir vs. mekudash and proposing the tamid/musaf case as evidence, which matches 'Question Posed' prose describing exactly this question and the gemara's approach of bringing cases to resolve it.",
+      "chosen_heading": "Question Posed",
+      "current_heading": "Question Posed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Tamid & Musaf",
+    "candidates": [
+      "Tamid & Musaf",
+      "Kedusha Attachment",
+      "Shabbat Musaf",
+      "Rosh Chodesh",
+      "Kiddush Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the gemara's rejection 'atu Shabbat le'musafin ahani le'temidim lo ahani,' which is the specific content described in the 'Kedusha Attachment' prose section.",
+      "chosen_heading": "Kedusha Attachment",
+      "current_heading": "Tamid & Musaf",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44
+    ],
+    "current_heading": "Kiddush Order",
+    "candidates": [
+      "Kedusha Attachment",
+      "Shabbat Musaf",
+      "Rosh Chodesh",
+      "Kiddush Order",
+      "Mincha & Musaf"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shabbat Musaf",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the Shabbat musaf vs. Rosh Chodesh musaf and Rosh Chodesh musaf vs. Rosh Hashana musaf cases, matching candidates 1 and 2 respectively, but since item 1 fits candidate 1 ('Shabbat Musaf') and item 2 fits candidate 2 ('Rosh Chodesh'), and the prose of candidate 1 explicitly discusses both the Shabbat/Rosh Chodesh musaf case and uses the same gemara language, while candidate 2 discusses the Rosh Chodesh/Rosh Hashana case \u2014 items 1 and 2 together best fit candidate 1 as the starting point, but item 2 alone matches candidate 2; however treating items 1-2 as a unit, candidate 1's prose covers item 1 and candidate 2's prose covers item 2, so the split is after item 2.",
+      "second_heading": "Kiddush Order",
+      "second_confidence": "high",
+      "second_reason": "Item 3 discusses the kiddush blessing dispute (birkat hayayin vs. birkat hayom), which exactly matches candidate 3 ('Kiddush Order') whose prose explicitly discusses borei pri hagafen vs. mekadesh hashabbat and the Beit Hillel/Beit Shammai machloket.",
+      "current_heading": "Kiddush Order",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Mincha & Musaf",
+    "candidates": [
+      "Mincha & Musaf",
+      "Raba's Definition"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mincha & Musaf",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mincha/Musaf proof and its rejection, which matches exactly the prose under heading 0 discussing Rabbi Yochanan's ruling and the gemara's answer about Shabbat's kedusha applying equally to Mincha.",
+      "second_heading": "Raba's Definition",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces a new proof from the mishna about shelamim vs. chattat/asham, which matches heading 1's prose discussing the shelamim case and the tadir/matzui distinction that follows from it.",
+      "current_heading": "Mincha & Musaf",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Raba's Definition",
+    "candidates": [
+      "Raba's Definition",
+      "Pesach & Milah",
+      "Tadir Contexts",
+      "Pause Blood Query"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form one continuous exchange \u2014 Rava's distinction between matzui and tadir (item 1), Rav Huna bar Yehuda's challenge from the milah/Pesach baraita (item 2), and Rava's resolution of that challenge (item 3) \u2014 which precisely matches the 'Raba's Definition' section's prose about the tadir/matzui distinction and the shelamim context.",
+      "chosen_heading": "Raba's Definition",
+      "current_heading": "Raba's Definition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68
+    ],
+    "current_heading": "Pause Blood Query",
+    "candidates": [
+      "Pesach & Milah",
+      "Tadir Contexts",
+      "Pause Blood Query",
+      "Shelamim Inference"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pause Blood Query",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the dilemma about whether to pause when the non-tadir was slaughtered first, and item 2 begins Rav Huna's attempt to resolve it from the mishna \u2014 the dilemma itself belongs under 'Pause Blood Query' whose prose explicitly describes this exact scenario.",
+      "second_heading": "Shelamim Inference",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 together form Rav Huna's inference from the shelamim/chattat mishna case, which is precisely what 'Shelamim Inference' describes in its prose.",
+      "current_heading": "Pause Blood Query",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Shelamim Inference",
+    "candidates": [
+      "Shelamim Inference",
+      "Both Shechted",
+      "Kiddush Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the gemara's rejection that the mishna's inference only applies when both have been slaughtered, and that the case where only the shelamim has been slaughtered remains unresolved \u2014 which is precisely what the 'Both Shechted' section's prose describes.",
+      "chosen_heading": "Both Shechted",
+      "current_heading": "Shelamim Inference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Kiddush Analogy",
+    "candidates": [
+      "Both Shechted",
+      "Kiddush Analogy",
+      "Mincha Evidence"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the kiddush proof and its rejection, directly corresponding to the 'Kiddush Analogy' prose which explains keivan d'asyan k'man d'shachtinhu \u2014 exactly what item 2 rejects the proof with \u2014 making this the correct placement.",
+      "chosen_heading": "Kiddush Analogy",
+      "current_heading": "Kiddush Analogy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Mincha Evidence",
+    "candidates": [
+      "Mincha Evidence",
+      "Pesach Kosher",
+      "Stirring Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yo\u1e25anan's ruling about praying Mincha before Musaf and the gemara's explanation using the 'both slaughtered' reasoning, which is precisely what the 'Mincha Evidence' prose section describes.",
+      "chosen_heading": "Mincha Evidence",
+      "current_heading": "Mincha Evidence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Stirring Solution",
+    "candidates": [
+      "Pesach Kosher",
+      "Stirring Solution",
+      "Abiyas Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna about Pesach slaughtered before the tamid being valid, which is the content of 'Pesach Kosher' \u2014 the 'Stirring Solution' heading covers the stir-the-blood remedy as a proof for the broader principle, but the passage itself is the source text that introduces both the kasher ruling and the stirring remedy together, and the prose of heading 0 explicitly describes this mishna and the shachtu kodem letamid kasher ruling.",
+      "chosen_heading": "Pesach Kosher",
+      "current_heading": "Stirring Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Abiyas Concern",
+    "candidates": [
+      "Stirring Solution",
+      "Abiyas Concern",
+      "Mishna Reading",
+      "Cooking Freedom",
+      "Royal Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the Gemara's rejection of the proof by explaining the case involves the tamid being slaughtered first, and Rav Acha the Elder's observation about the mishna's precise wording ('until the blood is sprinkled' not 'until he slaughters and sprinkles'), which matches exactly the prose under 'Abiyas Concern' describing the gemara's limitation argument and the mishna reading supporting it.",
+      "chosen_heading": "Abiyas Concern",
+      "current_heading": "Abiyas Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Royal Status",
+    "candidates": [
+      "Mishna Reading",
+      "Cooking Freedom",
+      "Royal Status",
+      "Two Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna ruling that priests may eat offerings however they choose ('uvechulan kohanim resha'im') and then provides the verse-based reason, making it the opening of the 'Cooking Freedom' section's topic rather than the 'Royal Status' section which discusses only the interpretation of 'le'moshchah' as royal eating style.",
+      "chosen_heading": "Cooking Freedom",
+      "current_heading": "Royal Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Two Scenarios",
+    "candidates": [
+      "Royal Status",
+      "Two Scenarios",
+      "Oil Eaten",
+      "Oil Burned",
+      "Nedava Oil",
+      "Mincha Model",
+      "Korban Mincha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The mishna passage is the text that Candidate 1's prose directly introduces \u2014 it describes Rabbi Shimon's teaching about oil in the azarah and the 'ein tzarich lishol mahu' formulation, which is exactly what this mishna contains.",
+      "chosen_heading": "Two Scenarios",
+      "current_heading": "Two Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Korban Mincha",
+    "candidates": [
+      "Oil Eaten",
+      "Oil Burned",
+      "Nedava Oil",
+      "Mincha Model",
+      "Korban Mincha",
+      "Context Question",
+      "One Log"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All 8 items form one continuous Gemara discussion about oil as a nedava offering \u2014 from Rabbi Tarfon's position through Shmuel's ruling, Rabbi Zeira's and Abaye's inferences from the mishna, the baraita about wine and oil, and Rav Pappa's tannaitic framing \u2014 exactly matching the 'Korban Mincha' section's prose which covers all these sub-topics in sequence.",
+      "chosen_heading": "Korban Mincha",
+      "current_heading": "Korban Mincha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "One Log",
+    "candidates": [
+      "Context Question",
+      "One Log",
+      "Three Logs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly explains the Rabbanan's position using don mina u'mina \u2014 deriving both the log measurement and the kometz/shirayim mode from the mincha context \u2014 which is precisely what the 'One Log' section's prose describes.",
+      "chosen_heading": "One Log",
+      "current_heading": "One Log",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Three Logs",
+    "candidates": [
+      "Three Logs",
+      "Source Debate",
+      "Baraita Evidence",
+      "Mincha Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses 'don mina u'uki be'atrah' \u2014 inferring from mincha but interpreting according to its own place (liquid offerings) \u2014 which is precisely what the 'Mincha Source' prose describes as Rabbi's position after Rav Papa's concession, not the 'Three Logs' section which merely summarizes the outcome.",
+      "chosen_heading": "Mincha Source",
+      "current_heading": "Three Logs",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143
+    ],
+    "current_heading": "Mincha Source",
+    "candidates": [
+      "Source Debate",
+      "Baraita Evidence",
+      "Mincha Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Source Debate",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rav Papa's argument that Rabbi derives oil from 'ezrach'/libations rather than mincha, which matches heading 0's prose about Rav Papa framing the dispute around which source governs Rabbi's ruling.",
+      "second_heading": "Baraita Evidence",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita challenge showing Rabbi does cite korban mincha as his source, directly matching heading 1's prose about the baraita contradicting Rav Papa's framework and Rav Papa's concession of 'tanya tanya'.",
+      "current_heading": "Mincha Source",
+      "moved": true
+    }
+  }
+]

@@ -73,7 +73,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "The Case of the Dying Man's Ambiguous Statement About His Wife's Status",
@@ -96,7 +96,7 @@
           "timestamp": "24:01"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -550,5 +550,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 11
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "39:10",
+  "amud_b_micro_title": "Bari Veshema",
+  "shiur_start_daf": 134,
+  "shiur_start_amud": "b"
 }

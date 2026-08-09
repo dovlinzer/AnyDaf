@@ -1,0 +1,395 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Case Setup",
+      "Rava's Position",
+      "Rav Acha Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rava's ruling about the loaf and the kezayit threshold, which is precisely what the 'Rava's Position' prose describes.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "current_heading": "Rav Acha Challenge",
+    "candidates": [
+      "Rav Acha Challenge",
+      "Two Readings",
+      "De Minimis Principle",
+      "Tosafot Dispute",
+      "Nazir Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous exchange \u2014 Rav Acha's challenge to Rav Ashi (items 1-2) followed by Rav Ashi's dual resolution (items 3-4) \u2014 which is exactly the content described under 'Rav Acha Challenge,' and the current placement is correct since candidate 0's prose explicitly covers both the challenge and its resolution framework, while candidates 1 and 2 cover the elaborated analysis in essay prose rather than the Gemara text itself.",
+      "chosen_heading": "Rav Acha Challenge",
+      "current_heading": "Rav Acha Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Nazir Challenge",
+    "candidates": [
+      "Two Readings",
+      "De Minimis Principle",
+      "Tosafot Dispute",
+      "Nazir Challenge",
+      "First Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the baraita about two vows of naziriteship as a challenge to Rava's principle, which is precisely what the 'Nazir Challenge' section's prose describes \u2014 testing Rava's principle against a nazir case where the first nezirut appears entirely in the past.",
+      "chosen_heading": "Nazir Challenge",
+      "current_heading": "Nazir Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "First Response",
+    "candidates": [
+      "First Response",
+      "Baraita Challenge",
+      "Shaving Component"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage 'bishelo kipper' (where he has not yet atoned) is precisely the Gemara's first response described in the 'First Response' section's prose.",
+      "chosen_heading": "First Response",
+      "current_heading": "First Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Shaving Component",
+    "candidates": [
+      "Baraita Challenge",
+      "Shaving Component",
+      "Amemar Disagrees",
+      "Rav Ashi Answer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Baraita challenge ('But isn't it taught that one can still dissolve his vow after he has atoned?'), which is precisely the difficulty described in candidate 0's prose ('a Baraita teaches that the sheila may be performed even after the korban has been brought'), while candidate 1 ('Shaving Component') describes the Gemara's answer/deflection rather than the challenge itself \u2014 the answer about shaving belongs logically after the challenge is introduced under heading 0.",
+      "chosen_heading": "Baraita Challenge",
+      "current_heading": "Shaving Component",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Rav Ashi Answer",
+    "candidates": [
+      "Amemar Disagrees",
+      "Rav Ashi Answer",
+      "Beating Post Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Ashi's answer (mi garam lishniyah shelo tachol, rishonah ve'einah) which directly matches the prose in 'Rav Ashi Answer' describing his elegant argument about the first nezirut retaining living relevance through the ongoing second one.",
+      "chosen_heading": "Rav Ashi Answer",
+      "current_heading": "Rav Ashi Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Beating Post Limit",
+    "candidates": [
+      "Beating Post Limit",
+      "Setup & Consciousness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Ameimar's ruling about dissolving an oath when bound to the stake and the Gemara's rejection using Shmuel's principle, which is precisely what the 'Beating Post Limit' prose discusses.",
+      "chosen_heading": "Beating Post Limit",
+      "current_heading": "Beating Post Limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Setup & Consciousness",
+    "candidates": [
+      "Setup & Consciousness",
+      "Tosafot Framework",
+      "Four Combinations",
+      "Shogeg Trigger",
+      "Both Mezid",
+      "Order & Warning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents Rava's statement listing the specific combinations of shogeg/meizid for the trigger (first loaf) and the forbidden act (second loaf) with their outcomes (patur/chayav), which directly corresponds to the 'Four Combinations' section that explicitly introduces exhausting all possibilities of shogeg and meizid across A and B.",
+      "chosen_heading": "Four Combinations",
+      "current_heading": "Setup & Consciousness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Order & Warning",
+    "candidates": [
+      "Tosafot Framework",
+      "Four Combinations",
+      "Shogeg Trigger",
+      "Both Mezid",
+      "Order & Warning",
+      "Rashi Alternative",
+      "Rabbeinu Tam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what heading 4's prose covers: the both-meizid case with order sensitivity, and the Rabbi Yochanan/Reish Lakish dispute about hasra'as safek determining liability for malkos.",
+      "chosen_heading": "Order & Warning",
+      "current_heading": "Order & Warning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65
+    ],
+    "current_heading": "Rabbeinu Tam",
+    "candidates": [
+      "Rashi Alternative",
+      "Rabbeinu Tam",
+      "Dual Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items describe the doubly interlocked oath case (lo ochel zo im ochel zo, lo ochel zo im ochel zo) with the four-quadrant intentional/inadvertent analysis, which is precisely what the 'Dual Setup' prose describes \u2014 the exempt case (item 1: meizid atzmah/shogeg chavera for both) and the liable case (item 2: shogeg atzmah/meizid chavera for both) are the exact scenarios the Dual Setup section introduces.",
+      "chosen_heading": "Dual Setup",
+      "current_heading": "Rabbeinu Tam",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Dual Setup",
+    "candidates": [
+      "Rabbeinu Tam",
+      "Dual Setup",
+      "Dual Scenarios",
+      "Both Shogeg",
+      "Both Mezid Triggers",
+      "Mixed Intent",
+      "Complete Mezid",
+      "Four Vow Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items describe the 'complete mezid' scenario: item 1 covers both eaten shogeg (exempt), and item 2 covers both eaten mezid \u2014 liability for the second and the Rabbi Yochanan/Reish Lakish dispute for the first \u2014 matching exactly the 'Complete Mezid' prose about order, malkos, and the hasra'as safek debate.",
+      "chosen_heading": "Complete Mezid",
+      "current_heading": "Dual Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Four Vow Types",
+    "candidates": [
+      "Dual Scenarios",
+      "Both Shogeg",
+      "Both Mezid Triggers",
+      "Mixed Intent",
+      "Complete Mezid",
+      "Four Vow Types",
+      "Forgotten Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is Rav Mari's citation of the Mishna listing the four types of vows (nidrei ziruzin, nidrei havai, nidrei shegagos, nidrei onasin), which is precisely what the 'Four Vow Types' section prose describes and analyzes.",
+      "chosen_heading": "Four Vow Types",
+      "current_heading": "Four Vow Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Forgotten Condition",
+    "candidates": [
+      "Forgotten Condition",
+      "Trigger Consciousness",
+      "Baraita Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage contains both the mishna text about unwitting vows AND the baraita that extends the principle to oaths, which matches perfectly with the 'Baraita Proof' section's prose about 'keshem shenidrei shegagos muttarim kach shvuos shegagos muttaros' and the baraita confirmation.",
+      "chosen_heading": "Baraita Proof",
+      "current_heading": "Forgotten Condition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Baraita Proof",
+    "candidates": [
+      "Trigger Consciousness",
+      "Baraita Proof",
+      "Identical Past Vows",
+      "Past Vows False"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's 'heichi dami' question and 'shema mina' conclusion that directly parallels the Baraita discussion described in the 'Baraita Proof' prose, which explicitly references these terms.",
+      "chosen_heading": "Baraita Proof",
+      "current_heading": "Baraita Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Past Vows False",
+    "candidates": [
+      "Identical Past Vows",
+      "Past Vows False",
+      "Nine and Ten",
+      "Not Broader"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Eifa's answer and Avimi's correction as a single anecdote, but the specific Talmudic text presented includes both the question and the correction together, and the prose of candidate 0 ('Identical Past Vows') introduces and sets up this entire exchange including Eifa's answer \u2014 the passage belongs under the heading that introduces the full anecdote, which is candidate 0.",
+      "chosen_heading": "Identical Past Vows",
+      "current_heading": "Past Vows False",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Not Broader",
+    "candidates": [
+      "Nine and Ten",
+      "Not Broader",
+      "Ten Then Nine",
+      "Nine More Restrictive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Eifa's answer (chayav al kol achas ve'achas) and Avimi's correction (ishtabishata \u2014 if he cannot eat nine he cannot eat ten), which together constitute the full Nine-and-Ten exchange described in candidate 0's prose, while candidate 1 ('Not Broader') describes only the corrective reasoning that follows, not the question-and-answer exchange itself.",
+      "chosen_heading": "Nine and Ten",
+      "current_heading": "Not Broader",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Nine More Restrictive",
+    "candidates": [
+      "Ten Then Nine",
+      "Nine More Restrictive",
+      "Abaye Exception",
+      "Figs & Grapes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Avimi asking about ten-then-nine and Eifa answering 'only one,' then being corrected with 'ishtabishta' \u2014 exactly what heading 0 ('Ten Then Nine') describes in its prose, while heading 1 discusses the explanation of *why* the second oath takes effect, not the exchange itself.",
+      "chosen_heading": "Ten Then Nine",
+      "current_heading": "Nine More Restrictive",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117
+    ],
+    "current_heading": "Figs & Grapes",
+    "candidates": [
+      "Abaye Exception",
+      "Figs & Grapes",
+      "Half-Measure",
+      "Nine & Ten Korban",
+      "Tosafot Specificity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Abaye's intervention defending Eifa's ruling by analogy to Rava's figs-and-grapes case, which is precisely what the 'Abaye Exception' prose describes \u2014 the current placement under 'Figs & Grapes' captures only part of the argument, while heading 0 covers the full arc of Abaye's defense including both the analogy and its application to the ten-then-nine scenario.",
+      "chosen_heading": "Abaye Exception",
+      "current_heading": "Figs & Grapes",
+      "moved": true
+    }
+  }
+]

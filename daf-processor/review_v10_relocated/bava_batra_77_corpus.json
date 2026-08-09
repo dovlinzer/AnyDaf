@@ -1,0 +1,258 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Mesira & Meshikha Domain",
+    "candidates": [
+      "Prior Discussion",
+      "Rabbi vs Chachamim",
+      "Mesira & Meshikha Domain",
+      "Abaye & Rava Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks whether Abaye and Rava align with Rabbi against the Chachamim, which is precisely what the 'Rabbi vs Chachamim' section's prose describes as the question being raised.",
+      "chosen_heading": "Rabbi vs Chachamim",
+      "current_heading": "Mesira & Meshikha Domain",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Abaye & Rava Resolution",
+    "candidates": [
+      "Mesira & Meshikha Domain",
+      "Abaye & Rava Resolution",
+      "Intent & Language",
+      "Seller's Intent",
+      "Rav Pappa's Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav Ashi's full statement distinguishing 'lekh chazek u-knei' from 'lekh mshokh u-knei' and the kafida/marei makom elaboration, which is precisely what candidate 0's prose describes as Rav Ashi's resolution about mesira in reshut harabim when explicit language of chazaka is used.",
+      "chosen_heading": "Mesira & Meshikha Domain",
+      "current_heading": "Abaye & Rava Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Rav Pappa's Rule",
+    "candidates": [
+      "Intent & Language",
+      "Seller's Intent",
+      "Rav Pappa's Rule",
+      "Rav Ashi's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both Rav Pappa's rule about selling a promissory note and Rav Ashi's challenge to it, and the current heading 'Rav Pappa's Rule' with its prose explicitly discusses both Rav Pappa's ruling and introduces Rav Ashi's analysis as part of the same unit \u2014 matching the passage's content precisely.",
+      "chosen_heading": "Rav Pappa's Rule",
+      "current_heading": "Rav Pappa's Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rav Ashi's Challenge",
+    "candidates": [
+      "Rav Ashi's Challenge",
+      "Rav Kahana Response",
+      "Rashbam Explanation",
+      "Ameimar's Ruling",
+      "Manuscript Variants",
+      "Rav Ashi Inquiry",
+      "Sevara on Abstraction",
+      "Sevara Explained"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rav Pappa's response 'in, letzor u-letzor' (yes, to tie and to tie), which corresponds precisely to the 'Rav Kahana Response' prose describing that answer, not to Rav Ashi's Challenge section which only covers the question itself.",
+      "chosen_heading": "Rav Kahana Response",
+      "current_heading": "Rav Ashi's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Sevara Explained",
+    "candidates": [
+      "Rav Kahana Response",
+      "Rashbam Explanation",
+      "Ameimar's Ruling",
+      "Manuscript Variants",
+      "Rav Ashi Inquiry",
+      "Sevara on Abstraction",
+      "Sevara Explained",
+      "Land & Document Cases",
+      "Transfer Then Document"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains Ameimar's ruling, Rav Ashi's question about gemara vs. sevara, and Ameimar's answer that it is a tradition \u2014 this matches the 'Rav Ashi Inquiry' section's prose which describes exactly this exchange, including Rav Ashi asking 'gemara u-sevara' and Ameimar answering 'gemara,' with the sevara portion belonging to the subsequent heading.",
+      "chosen_heading": "Rav Ashi Inquiry",
+      "current_heading": "Sevara Explained",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Transfer Then Document",
+    "candidates": [
+      "Land & Document Cases",
+      "Transfer Then Document",
+      "Conditional Transfer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the Rabba bar Yitzchak/Rav statement as a challenge and sets up the two-scenario framework, which matches heading 0's prose about the Gemara invoking this statement to set out scenarios \u2014 heading 1's prose already assumes the challenge has been raised and proceeds to explain the first scenario's details.",
+      "chosen_heading": "Land & Document Cases",
+      "current_heading": "Transfer Then Document",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Conditional Transfer",
+    "candidates": [
+      "Transfer Then Document",
+      "Conditional Transfer",
+      "Pre-Written Document"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the 'al menat she-tichtevu' condition, which matches exactly the 'Conditional Transfer' section's prose about the second scenario where field acquisition is conditioned on writing the shtar.",
+      "chosen_heading": "Conditional Transfer",
+      "current_heading": "Conditional Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Pre-Written Document",
+    "candidates": [
+      "Pre-Written Document",
+      "Agav Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Rav \u1e24iyya bar Avin's statement about the three types of documents, specifically the pre-written deed scenario, which is exactly what the 'Pre-Written Document' section's prose elaborates upon.",
+      "chosen_heading": "Pre-Written Document",
+      "current_heading": "Pre-Written Document",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Agav Principle",
+    "candidates": [
+      "Agav Principle",
+      "Gemara's Answer",
+      "Agav Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage cites the two mishnayot establishing the agav principle \u2014 that a pre-written deed is acquired when the buyer takes possession of the land, and that movable property is acquired alongside real estate \u2014 which is precisely what the 'Agav Principle' section's prose is explaining and building upon.",
+      "chosen_heading": "Agav Principle",
+      "current_heading": "Agav Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Agav Power",
+    "candidates": [
+      "Gemara's Answer",
+      "Agav Power",
+      "Rav Pappa Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly demonstrates agav's unique power through the coin/chalipin example \u2014 that coins cannot be acquired through chalipin but can be acquired through agav \u2014 which is precisely what the 'Agav Power' section's prose describes.",
+      "chosen_heading": "Agav Power",
+      "current_heading": "Agav Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Rav Pappa Case",
+    "candidates": [
+      "Rav Pappa Case",
+      "Final Conclusion",
+      "Mishna Rule",
+      "Antiki Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Rav Pappa/Rav Shmuel bar Acha incident with the twelve thousand dinars and the kinyan agav via the threshold, which is precisely what heading 0 'Rav Pappa Case' discusses in its prose.",
+      "chosen_heading": "Rav Pappa Case",
+      "current_heading": "Rav Pappa Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Antiki Definition",
+    "candidates": [
+      "Final Conclusion",
+      "Mishna Rule",
+      "Antiki Definition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly asks and answers 'What is antikei?' which is precisely what the 'Antiki Definition' section's prose discusses, making the current placement correct.",
+      "chosen_heading": "Antiki Definition",
+      "current_heading": "Antiki Definition",
+      "moved": false
+    }
+  }
+]

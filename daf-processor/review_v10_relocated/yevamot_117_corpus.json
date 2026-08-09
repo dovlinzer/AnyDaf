@@ -1,0 +1,375 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4
+    ],
+    "current_heading": "Ketubah Collection",
+    "candidates": [
+      "Ketubah Collection",
+      "Shammai Package Deal",
+      "Hillel Brothers Inherit",
+      "Status vs. Monetary",
+      "Ketubah Text",
+      "Hillel Concedes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the complete Mishnah (117b) debating whether a woman who testifies her husband died may collect her kesubah, including the Beit Shammai/Beit Hillel exchange and Beit Hillel's retraction \u2014 exactly what heading 0 ('Ketubah Collection') describes as its content.",
+      "chosen_heading": "Ketubah Collection",
+      "current_heading": "Ketubah Collection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Hillel Concedes",
+    "candidates": [
+      "Shammai Package Deal",
+      "Hillel Brothers Inherit",
+      "Status vs. Monetary",
+      "Ketubah Text",
+      "Hillel Concedes",
+      "Ketubah Derash",
+      "Two Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rav \u1e24isda's statement about the yevamah entering levirate marriage and her yavam inheriting on her testimony, paired with the midrash ketubah vs. midrash Torah argument and the 'yakum al shem achiv' derivation \u2014 which is precisely what candidate 5 ('Ketubah Derash') describes in its prose.",
+      "chosen_heading": "Ketubah Derash",
+      "current_heading": "Hillel Concedes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Two Scenarios",
+    "candidates": [
+      "Ketubah Derash",
+      "Two Scenarios",
+      "Wrong Courtroom",
+      "Locked In",
+      "Both Together"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Nachman's two-scenario distinction (permit to remarry vs. give me my kesubah), which is precisely what the 'Two Scenarios' prose describes.",
+      "chosen_heading": "Two Scenarios",
+      "current_heading": "Two Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Both Together",
+    "candidates": [
+      "Wrong Courtroom",
+      "Locked In",
+      "Both Together",
+      "Order Matters",
+      "Ignorance Defense"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma of demanding both permission to remarry and the kesubah simultaneously, with the two possible readings about whether mentioning the kesubah signals a monetary framing or whether people simply state all their claims at once \u2014 precisely what the 'Both Together' section's prose describes.",
+      "chosen_heading": "Both Together",
+      "current_heading": "Both Together",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Ignorance Defense",
+    "candidates": [
+      "Order Matters",
+      "Ignorance Defense",
+      "Agunah Concern",
+      "Seven Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the two sides of the dilemma about the kesubah-first formulation (vadai she came with the kesubah in mind vs. perhaps she didn't know the procedure), which directly corresponds to the 'Order Matters' section's prose about the vadai framing when she leads with the kesubah \u2014 the 'Ignorance Defense' prose describes the counterargument but the Talmudic text itself presents both sides including the teiku conclusion, making it a better fit under the heading that introduces the whole dilemma.",
+      "chosen_heading": "Order Matters",
+      "current_heading": "Ignorance Defense",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Seven Excluded",
+    "candidates": [
+      "Agunah Concern",
+      "Seven Excluded",
+      "Mother-in-Law",
+      "Co-Wife",
+      "Brother's Wife",
+      "Stepdaughter",
+      "Husband's Sister",
+      "Father's Side Sister"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Seven Excluded",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the Mishnah introducing the list of five excluded witnesses and the get/death distinction, which matches the 'Seven Excluded' prose exactly.",
+      "second_heading": "Father's Side Sister",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's dilemma about bas chamiv (father's side sister) and the two reasons for exclusion, which matches the 'Father's Side Sister' prose precisely.",
+      "current_heading": "Seven Excluded",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Father's Side Sister",
+    "candidates": [
+      "Mother-in-Law",
+      "Co-Wife",
+      "Brother's Wife",
+      "Stepdaughter",
+      "Husband's Sister",
+      "Father's Side Sister",
+      "Implicit Reverses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "All three items directly continue the 'Father's Side Sister' (bas chamiv) discussion: item 1 presents the 'food of father's house' argument, item 2 is the baraita challenge about five vs. six women resolved by collapsing bas chamotah and bas chamiv into one category, and item 3 addresses the seven-women baraita attributed to Rabbi Yehuda \u2014 all content explicitly described in candidate 5's prose.",
+      "chosen_heading": "Father's Side Sister",
+      "current_heading": "Father's Side Sister",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Implicit Reverses",
+    "candidates": [
+      "Implicit Reverses",
+      "Explicit Listing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage shows the Rabbis responding to Rabbi Yehuda by explaining that the stepmother and daughter-in-law are already implied by the reverse relationships in the mishnah, which is precisely what the 'Implicit Reverses' section's prose describes.",
+      "chosen_heading": "Implicit Reverses",
+      "current_heading": "Implicit Reverses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Explicit Listing",
+    "candidates": [
+      "Explicit Listing",
+      "Secrets Exposed",
+      "Stepmother Parallel",
+      "Water Reflects"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Explicit Listing",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the question of why the reverse animosities exist (why does the daughter-in-law hate the mother-in-law, why does the stepmother hate the stepdaughter), which is exactly what the 'Explicit Listing' prose discusses.",
+      "second_heading": "Secrets Exposed",
+      "second_confidence": "high",
+      "second_reason": "Item 2 provides the answer \u2014 that the mother-in-law reveals the daughter-in-law's deeds to her son, and the stepdaughter reveals the stepmother's deeds to the father \u2014 which is precisely what the 'Secrets Exposed' prose describes.",
+      "current_heading": "Explicit Listing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Water Reflects",
+    "candidates": [
+      "Secrets Exposed",
+      "Stepmother Parallel",
+      "Water Reflects",
+      "Not Yet MIL"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabbis' use of the Proverbs verse about water reflecting faces to argue that animosity is reciprocal, and Rabbi Yehuda's rebuttal that the verse refers to Torah study \u2014 exactly what the 'Water Reflects' section prose describes.",
+      "chosen_heading": "Water Reflects",
+      "current_heading": "Water Reflects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Not Yet MIL",
+    "candidates": [
+      "Not Yet MIL",
+      "Both Die Case",
+      "Ruse Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the dilemma of a future mother-in-law (chamotah haba'ah l'achar mikan) in the context of yibum, asking whether she preemptively hates the woman \u2014 exactly what the 'Not Yet MIL' section's prose discusses.",
+      "chosen_heading": "Not Yet MIL",
+      "current_heading": "Not Yet MIL",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98
+    ],
+    "current_heading": "Ruse Theory",
+    "candidates": [
+      "Both Die Case",
+      "Ruse Theory",
+      "Pre-existing Animosity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the ta shema proof and its explanation (the ruse theory about why the mother-in-law is prohibited), which the 'Both Die Case' prose explicitly introduces and discusses, whereas 'Ruse Theory' prose is a deeper elaboration that presupposes the passage has already been introduced under 'Both Die Case'.",
+      "chosen_heading": "Both Die Case",
+      "current_heading": "Ruse Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Pre-existing Animosity",
+    "candidates": [
+      "Ruse Theory",
+      "Pre-existing Animosity",
+      "1v2 Early",
+      "2v1",
+      "1v1 Later",
+      "Ulla Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly distinguishes between existing and future mother-in-law based on whether the daughter-in-law has already 'felt oppressed' (pre-existing animosity), which matches exactly the 'Pre-existing Animosity' section's prose about 'dilma shani hasam' and the pre-existing vs. hypothetical animosity distinction.",
+      "chosen_heading": "Pre-existing Animosity",
+      "current_heading": "Pre-existing Animosity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Ulla Principle",
+    "candidates": [
+      "1v2 Early",
+      "2v1",
+      "1v1 Later",
+      "Ulla Principle",
+      "Ulla Model"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "2v1",
+      "first_confidence": "medium",
+      "first_reason": "The Mishna presenting all three conflicting-testimony cases (1v1, 1v2, 2v1) belongs with the section that discusses the 2v1 case and notes the implication about 1v1 before marriage.",
+      "second_heading": "Ulla Principle",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 \u2014 Ulla's challenge and its resolution via the 'hityiruha' reformulation \u2014 are precisely what candidate 3's prose describes, including the locking-in mechanism and the pre/post-ruling distinction.",
+      "current_heading": "Ulla Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122,
+      123
+    ],
+    "current_heading": "Ulla Model",
+    "candidates": [
+      "Ulla Model",
+      "Nechemiah Model",
+      "Two Women Count",
+      "Reconciliation",
+      "Woman First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together introduce and explain Rabbi Nechemiah's model \u2014 the quantitative 'follow the majority of opinions' principle \u2014 which is precisely what the 'Nechemiah Model' prose section discusses, not the 'Ulla Model' where the passage currently sits.",
+      "chosen_heading": "Nechemiah Model",
+      "current_heading": "Ulla Model",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Woman First",
+    "candidates": [
+      "Nechemiah Model",
+      "Two Women Count",
+      "Reconciliation",
+      "Woman First",
+      "Majority Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the Gemara's reconciliation of Ulla and Rabbi Nechemiah \u2014 item 1 states the principle that a qualified witness locks in the case (Ulla's world), while item 2 explains Rabbi Nechemiah's quantitative model as applying when a woman testified first \u2014 which is precisely what the 'Reconciliation' section's prose describes.",
+      "chosen_heading": "Reconciliation",
+      "current_heading": "Woman First",
+      "moved": true
+    }
+  }
+]

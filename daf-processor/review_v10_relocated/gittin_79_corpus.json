@@ -1,0 +1,395 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Gittin Only",
+    "candidates": [
+      "Gittin Only",
+      "Kiddushin & Debt",
+      "Yatza V'Hayata"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage (Rabbi Asi citing Rabbi Yochanan that these halakhot apply to gittin only, not other matters) is precisely the opening statement that the 'Gittin Only' section's prose describes as its starting point.",
+      "chosen_heading": "Gittin Only",
+      "current_heading": "Gittin Only",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Yatza V'Hayata",
+    "candidates": [
+      "Kiddushin & Debt",
+      "Yatza V'Hayata",
+      "Debt Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Abba's objection to Rabbi Asi citing the mishna's mention of kiddushin, which is precisely what heading 0 ('Kiddushin & Debt') describes \u2014 the challenge itself \u2014 while heading 1 ('Yatza V'Hayata') describes the Gemara's response/resolution, not the objection.",
+      "chosen_heading": "Kiddushin & Debt",
+      "current_heading": "Yatza V'Hayata",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14,
+      15
+    ],
+    "current_heading": "Debt Condition",
+    "candidates": [
+      "Yatza V'Hayata",
+      "Debt Condition",
+      "Direct Handover",
+      "Get & Strings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the continuous Gemara exchange about the debt case \u2014 the baraita objection, the 'zrok li chovi v'tipater' answer, and the 'meshachek ani bach' resolution \u2014 which exactly matches the prose of candidate 1 ('Debt Condition').",
+      "chosen_heading": "Debt Condition",
+      "current_heading": "Debt Condition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27
+    ],
+    "current_heading": "Get & Strings",
+    "candidates": [
+      "Direct Handover",
+      "Get & Strings",
+      "Sloped Hands"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rav \u1e24isda's ruling about a get held with a string and its rationale (kerisus), which is precisely what the 'Get & Strings' prose describes.",
+      "chosen_heading": "Get & Strings",
+      "current_heading": "Get & Strings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Sloped Hands",
+    "candidates": [
+      "Sloped Hands",
+      "Did Not Settle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Yehuda's ruling about a sloped hand causing the get to fall, which is precisely what the 'Sloped Hands' section's prose describes and analyzes.",
+      "chosen_heading": "Sloped Hands",
+      "current_heading": "Sloped Hands",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Did Not Settle",
+    "candidates": [
+      "Did Not Settle",
+      "Airspace Rights",
+      "Woman Above",
+      "Unprotected Airspace",
+      "Fenced Airspace"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the get did not rest, the airspace question, and the riverbank deflection \u2014 which is precisely what the 'Did Not Settle' prose describes in detail.",
+      "chosen_heading": "Did Not Settle",
+      "current_heading": "Did Not Settle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Fenced Airspace",
+    "candidates": [
+      "Airspace Rights",
+      "Woman Above",
+      "Unprotected Airspace",
+      "Fenced Airspace",
+      "Three Tefachim Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Mishnah presents the woman-above scenario and the Gemara immediately raises and resolves the 'unsecured' (lo mintar) objection with Rav Yehuda/Shmuel's answer about a parapet \u2014 this is precisely the content described in candidate 1 ('Woman Above'), which discusses the rooftop airspace case and the condition that the get would normally come to rest there, not candidate 3 ('Fenced Airspace') whose prose describes Rav Papa's resolution and the more advanced wall-height discussions.",
+      "chosen_heading": "Woman Above",
+      "current_heading": "Fenced Airspace",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Three Tefachim Rule",
+    "candidates": [
+      "Fenced Airspace",
+      "Three Tefachim Rule",
+      "Man Above"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Ulla bar Menashya's statement about the three-tefachim rule, which is precisely what the 'Three Tefachim Rule' section's prose discusses.",
+      "chosen_heading": "Three Tefachim Rule",
+      "current_heading": "Three Tefachim Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Man Above",
+    "candidates": [
+      "Man Above",
+      "Trajectory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items deal with the 'man above, woman below' case \u2014 the lower partitions extending beyond the upper, and the debate between Rabbi Abba/Rabbi Zeira and Ulla/Rabbi Asi about whether the ruling follows Rabbi Yehuda HaNasi's 'kluta' principle or applies even according to the Rabbis because the criterion in gittin is protection \u2014 which is precisely what the 'Man Above' prose describes.",
+      "chosen_heading": "Man Above",
+      "current_heading": "Man Above",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Trajectory",
+    "candidates": [
+      "Trajectory",
+      "Burning Get",
+      "Different Buildings"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Trajectory",
+      "first_confidence": "high",
+      "first_reason": "Item 1 concerns the erased get and the upward/downward trajectory distinction, which is precisely what the 'Trajectory' prose discusses.",
+      "second_heading": "Burning Get",
+      "second_confidence": "high",
+      "second_reason": "Item 2 concerns the burned get and timing relative to when the fire began, which is precisely what the 'Burning Get' prose discusses.",
+      "current_heading": "Trajectory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Different Buildings",
+    "candidates": [
+      "Burning Get",
+      "Different Buildings",
+      "Source Question",
+      "One Space"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states Rav \u1e24isda's principle that domains are divided with regard to bills of divorce, which is precisely what the 'Different Buildings' section's prose introduces and explains.",
+      "chosen_heading": "Different Buildings",
+      "current_heading": "Different Buildings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "current_heading": "One Space",
+    "candidates": [
+      "Source Question",
+      "One Space",
+      "Gittin vs. Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous dialectical chain \u2014 Rami bar \u1e24ama asking Rava for the source of Rav \u1e24isda's ruling, Rava working through the Mishnah's two clauses, the chad makom/trei mekomot resolution, and Rami bar \u1e24ama's final rebuttal \u2014 which exactly matches the 'One Space' prose's detailed description of this same argumentation.",
+      "chosen_heading": "One Space",
+      "current_heading": "One Space",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Gittin vs. Shabbat",
+    "candidates": [
+      "Gittin vs. Shabbat",
+      "Connected Roofs",
+      "Nested Yards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are Rava's three-principle comparison between gittin and Shabbat law, which is precisely what the 'Gittin vs. Shabbat' section's prose discusses in detail, including all three distinctions and the lo kapdi inshi conclusion.",
+      "chosen_heading": "Gittin vs. Shabbat",
+      "current_heading": "Gittin vs. Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103
+    ],
+    "current_heading": "Nested Yards",
+    "candidates": [
+      "Connected Roofs",
+      "Nested Yards",
+      "Nested Baskets"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Abaye's ruling about two nested courtyards and its rationale (pnimit gufah be-mechitzot ha-chitzonah kamintara), which is precisely what the 'Nested Yards' prose describes.",
+      "chosen_heading": "Nested Yards",
+      "current_heading": "Nested Yards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Nested Baskets",
+    "candidates": [
+      "Nested Baskets",
+      "Property vs. Vessels"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the rule about nested baskets and the airspace of the inner basket not effecting divorce, which is precisely what the 'Nested Baskets' prose describes, before the 'Property vs. Vessels' section moves on to explain the underlying reasoning.",
+      "chosen_heading": "Nested Baskets",
+      "current_heading": "Nested Baskets",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Property vs. Vessels",
+    "candidates": [
+      "Property vs. Vessels",
+      "Definition",
+      "Shammai & Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the basket-within-basket scenario (lo nach, kli she-lokeach be-reshut mocher, kuppa she-ein lah shulayim), which are precisely the concepts the prose under 'Property vs. Vessels' explicitly addresses.",
+      "chosen_heading": "Property vs. Vessels",
+      "current_heading": "Property vs. Vessels",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120
+    ],
+    "current_heading": "Shammai & Hillel",
+    "candidates": [
+      "Definition",
+      "Shammai & Hillel",
+      "Forbidden Not Invalid",
+      "Retroactive Validity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishnah stating the dispute and its Gemara explanation \u2014 directly present the Beit Shammai/Beit Hillel disagreement over the get yashan and the gezeirah of 'shema yomru gitah kodem livnah,' which is precisely what the 'Shammai & Hillel' prose describes.",
+      "chosen_heading": "Shammai & Hillel",
+      "current_heading": "Shammai & Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Retroactive Validity",
+    "candidates": [
+      "Forbidden Not Invalid",
+      "Retroactive Validity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rabbi Abba/Shmuel's rulings on retroactive validity of an outdated get, and the 'Retroactive Validity' prose explicitly paraphrases both versions of the ruling (im nise'it lo tetze and im nitgarshah tinasei le-chatchilah), making it the precise match.",
+      "chosen_heading": "Retroactive Validity",
+      "current_heading": "Retroactive Validity",
+      "moved": false
+    }
+  }
+]

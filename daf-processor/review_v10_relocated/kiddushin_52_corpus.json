@@ -1,0 +1,379 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Scenario Setup",
+    "candidates": [
+      "Rava's Principle",
+      "Two Sisters Case",
+      "Abaye's View",
+      "Scenario Setup",
+      "Get Requirements",
+      "Initial Knowledge",
+      "Linguistic Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is introduced as yet another proof attempt against Rava ('Come and hear'), which fits squarely under 'Abaye's View' where the Gemara is pressing Rava with textual challenges, rather than under 'Scenario Setup' which describes the content of the case itself.",
+      "chosen_heading": "Abaye's View",
+      "current_heading": "Scenario Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Linguistic Proof",
+    "candidates": [
+      "Get Requirements",
+      "Initial Knowledge",
+      "Linguistic Proof",
+      "Rabbi Yose Contrast",
+      "Allowing Doubt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage covers both the 'hukru u'levasof nisarvu' deflection and the linguistic proof about 'eini yodea' vs 'eino yaduia', which maps precisely to the current placement under 'Linguistic Proof' whose prose explicitly discusses both elements together.",
+      "chosen_heading": "Linguistic Proof",
+      "current_heading": "Linguistic Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Allowing Doubt",
+    "candidates": [
+      "Rabbi Yose Contrast",
+      "Allowing Doubt",
+      "Marriage Scenario",
+      "Get Solution",
+      "Knew Then Forgot",
+      "Death Case",
+      "Multiple Brothers",
+      "Achot Zekukato"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yose Contrast",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara's answer that the chiddush is le'apokei mid'Rabbi Yose, which matches candidate 0's prose exactly describing that same Rabbi Yose contrast and chiddush.",
+      "second_heading": "Marriage Scenario",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces an entirely new challenge from a different mishna (the two-sisters betrothal case), which matches candidate 2's prose describing exactly that scenario as another Gemara challenge.",
+      "current_heading": "Allowing Doubt",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Achot Zekukato",
+    "candidates": [
+      "Marriage Scenario",
+      "Get Solution",
+      "Knew Then Forgot",
+      "Death Case",
+      "Multiple Brothers",
+      "Achot Zekukato",
+      "Already Married",
+      "Proper Sequence",
+      "Mixed Marriage",
+      "Get Distribution",
+      "Unequal Brothers",
+      "Sequence Req.",
+      "Non-Specific Marriage",
+      "Get Requirements",
+      "Death Adjustment"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Proper Sequence",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the sequence requirement (chalitza before yibum) and achot zekukato in the single-man/two-sisters death case, matching candidate 7's prose about davka michlatz v'hadar yabumi and d'ka paga b'achot zekukato.",
+      "second_heading": "Mixed Marriage",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces an entirely new case (two unrelated men who betrothed two sisters, each not knowing which), which is exactly what candidate 8 ('Mixed Marriage') describes, and items 4-6 continue that same scenario into the death/brothers sub-cases.",
+      "current_heading": "Achot Zekukato",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Death Adjustment",
+    "candidates": [
+      "Already Married",
+      "Proper Sequence",
+      "Mixed Marriage",
+      "Get Distribution",
+      "Unequal Brothers",
+      "Sequence Req.",
+      "Non-Specific Marriage",
+      "Get Requirements",
+      "Death Adjustment",
+      "Non-Specific Language",
+      "Rava Refuted",
+      "YAL KGAM Acronym"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage describes the ruling that each daughter requires five gittin (one from each son) and the death scenario with four gittin plus chalitza, which corresponds exactly to candidate 7 'Get Requirements' and 8 'Death Adjustment' \u2014 but the full baraita text including both the five-gittin ruling and the death adjustment is cited as a single unit, and candidate 7's prose introduces this ruling while candidate 8 only covers the death sub-case; however, since the passage contains the complete baraita including the five-gittin ruling first, it belongs under candidate 7 where the ruling is first introduced.",
+      "chosen_heading": "Get Requirements",
+      "current_heading": "Death Adjustment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "YAL KGAM Acronym",
+    "candidates": [
+      "Non-Specific Language",
+      "Rava Refuted",
+      "YAL KGAM Acronym",
+      "Marriage Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the tiyuvta declaration refuting Rava and the YaL KGaM acronym statement, but the Gemara text begins with the refutation conclusion and then adds the YaL KGaM note \u2014 the 'Rava Refuted' section's prose explicitly discusses both the tiyuvta formula AND notes it is followed by the hilchata ruling, making it the better unified home for this combined passage, whereas the current placement under 'YAL KGAM Acronym' splits the refutation from its natural heading.",
+      "chosen_heading": "Rava Refuted",
+      "current_heading": "YAL KGAM Acronym",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Marriage Scenario",
+    "candidates": [
+      "YAL KGAM Acronym",
+      "Marriage Scenario",
+      "Shemita Works",
+      "No Stolen Goods"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the incident involving five women and Rav's declaration that one can learn four halachos from the mishna (while only knowing three), which is precisely what the 'Marriage Scenario' prose discusses.",
+      "chosen_heading": "Marriage Scenario",
+      "current_heading": "Marriage Scenario",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "No Stolen Goods",
+    "candidates": [
+      "Shemita Works",
+      "No Stolen Goods",
+      "Woman as Agent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives two halakhot \u2014 shemita betrothal is valid and stolen-goods betrothal is invalid \u2014 and the current heading 'No Stolen Goods' with its prose explicitly discusses both the shemita/hefker reasoning and the stolen-goods conclusion, matching the passage's content precisely.",
+      "chosen_heading": "No Stolen Goods",
+      "current_heading": "No Stolen Goods",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Woman as Agent",
+    "candidates": [
+      "Woman as Agent",
+      "Ambiguous Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states that a woman can become an agent for another woman even when she becomes a rival wife, which directly matches the 'Woman as Agent' section's prose about ishah na'asis shliach la'chaverta afilu b'makom shena'asis lah tzara.",
+      "chosen_heading": "Woman as Agent",
+      "current_heading": "Woman as Agent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Ambiguous Position",
+    "candidates": [
+      "Ambiguous Position",
+      "Rav's Inference",
+      "R. Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why Rav does not count kiddushin she'eino masur l'via \u2014 because he is uncertain whether to follow Abaye or Rava \u2014 which is precisely what the 'Ambiguous Position' prose discusses.",
+      "chosen_heading": "Ambiguous Position",
+      "current_heading": "Ambiguous Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "R. Yochanan",
+    "candidates": [
+      "Rav's Inference",
+      "R. Yochanan",
+      "Braita Proof",
+      "Stolen from Her",
+      "Implicit Willingness",
+      "Intent Distinction",
+      "Woman Bathing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Zeira reporting to Rabbi Yochanan, Rabbi Yochanan's statement about gezel and inability to consecrate stolen property, and the clarification that Rabbi Yochanan was expressing agreement with Rav \u2014 all of which matches precisely the prose under the 'R. Yochanan' heading.",
+      "chosen_heading": "R. Yochanan",
+      "current_heading": "R. Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Woman Bathing",
+    "candidates": [
+      "Braita Proof",
+      "Stolen from Her",
+      "Implicit Willingness",
+      "Intent Distinction",
+      "Woman Bathing",
+      "Sharecropper"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Intent Distinction",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 form a continuous chain of objection-and-resolution concerning the braita about stolen property and the shaddikh/lo shaddikh distinction, matching headings 0-3 in sequence, with item 3 being the final resolution matching 'Intent Distinction' prose exactly.",
+      "second_heading": "Woman Bathing",
+      "second_confidence": "high",
+      "second_reason": "Item 4 introduces an entirely new practical case (woman washing feet, Rava's ruling on Rabbi Shimon's view of yeiush) that matches the 'Woman Bathing' prose precisely and is a self-contained scenario independent of the preceding dispute.",
+      "current_heading": "Woman Bathing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Sharecropper",
+    "candidates": [
+      "Sharecropper",
+      "Bundled Crops",
+      "Beer Vessel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the handful case (Rava's ruling about unauthorized taking) and the bundle qualification in a single Talmudic unit, and the current heading's prose already introduces both aspects of this incident, making it the best home for the complete passage.",
+      "chosen_heading": "Sharecropper",
+      "current_heading": "Sharecropper",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      129
+    ],
+    "current_heading": "Beer Vessel",
+    "candidates": [
+      "Bundled Crops",
+      "Beer Vessel",
+      "Terumah Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes a brewer who betrothed a woman with sediment from beer and Rava's ruling that the 'go take the better ones' principle applies only to teruma, which matches exactly the 'Beer Vessel' section's prose about a beer-maker betrothing with beer-related items and Rava's same ruling.",
+      "chosen_heading": "Beer Vessel",
+      "current_heading": "Beer Vessel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133,
+      134
+    ],
+    "current_heading": "Terumah Parallel",
+    "candidates": [
+      "Terumah Parallel",
+      "Terumah vs. Kiddushin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the baraita about separating teruma without permission, explaining when it is valid based on the owner's reaction \u2014 exactly the content described in the 'Terumah Parallel' prose.",
+      "chosen_heading": "Terumah Parallel",
+      "current_heading": "Terumah Parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Terumah vs. Kiddushin",
+    "candidates": [
+      "Terumah vs. Kiddushin",
+      "No Permission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the distinction between teruma and kiddushin via the 'mishum kisufa' reasoning, which is precisely what the 'Terumah vs. Kiddushin' section's prose discusses, rather than merely stating the invalid betrothal conclusion as in 'No Permission'.",
+      "chosen_heading": "Terumah vs. Kiddushin",
+      "current_heading": "Terumah vs. Kiddushin",
+      "moved": false
+    }
+  }
+]

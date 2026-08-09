@@ -1,0 +1,308 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "R. Chanina/Ketoret",
+    "candidates": [
+      "Debate Overview",
+      "Shirayim Question",
+      "R. Chanina/Ketoret",
+      "Disqualification Logic",
+      "Tzorech Pnim Question",
+      "Tzorech Pnim Resolution",
+      "Mishna: Spilled Blood",
+      "Ketoret Problem",
+      "Ketoret Solution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Tzorech Pnim Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rabbi Chanina's statement and the k'man question about whose view it follows (not Rabbi Yehuda's, since chafinas ketoret is external), which matches the 'Tzorech Pnim Question' prose exactly.",
+      "second_heading": "Tzorech Pnim Resolution",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the 'afilu teima Rabbi Yehuda / tzorech pnim kepnim dami' response and the mishna challenge about spilled blood, which matches the 'Tzorech Pnim Resolution' prose that explicitly discusses this principle and notes the subsequent mishna challenge.",
+      "current_heading": "R. Chanina/Ketoret",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Ketoret Solution",
+    "candidates": [
+      "Disqualification Logic",
+      "Tzorech Pnim Question",
+      "Tzorech Pnim Resolution",
+      "Mishna: Spilled Blood",
+      "Ketoret Problem",
+      "Ketoret Solution",
+      "Ulla/Se'ir",
+      "Se'ir Problem",
+      "Ulla/Location Fix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly states that the Mishna is not discussing the ketoret, which is precisely the resolution described in the 'Ketoret Solution' section's prose.",
+      "chosen_heading": "Ketoret Solution",
+      "current_heading": "Ketoret Solution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Ulla/Location Fix",
+    "candidates": [
+      "Ulla/Se'ir",
+      "Se'ir Problem",
+      "Ulla/Location Fix",
+      "Baraita: Units",
+      "Intra-Unit Spill",
+      "Inter-Unit Spill",
+      "Pesuk Structure",
+      "Gemara Interprets",
+      "Peshat vs. Chazal",
+      "Par vs. Se'ir",
+      "R. Yehuda View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Se'ir Problem",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Ulla's ruling plus the challenge from the Mishna and its resolution (targuma Ulla bematanot shebaheichal), which is precisely what heading 'Se'ir Problem' discusses \u2014 the problem raised by the Mishna against Ulla's statement and the resolution restricting it to Heichal applications.",
+      "second_heading": "Baraita: Units",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Baraita deriving from Leviticus 16:33 that each location (Kodesh Kodashim, Heichal, mizbeach, azarot) is a separate unit of kapara, which is exactly what heading 'Baraita: Units' describes.",
+      "current_heading": "Ulla/Location Fix",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "R. Yehuda View",
+    "candidates": [
+      "Baraita: Units",
+      "Intra-Unit Spill",
+      "Inter-Unit Spill",
+      "Pesuk Structure",
+      "Gemara Interprets",
+      "Peshat vs. Chazal",
+      "Par vs. Se'ir",
+      "R. Yehuda View",
+      "R. Shimon View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yehuda's interpretation equating kohanim, Yisrael, and Leviyim under one atonement through the scapegoat for other transgressions, which is precisely what the 'R. Yehuda View' section's prose discusses.",
+      "chosen_heading": "R. Yehuda View",
+      "current_heading": "R. Yehuda View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "R. Shimon View",
+    "candidates": [
+      "R. Shimon View",
+      "Blood to Viduy Shift"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rabbi Shimon's statement about the parallel atonement mechanisms for kohanim and Yisrael, which is precisely what the 'R. Shimon View' prose discusses and quotes in its own paraphrase.",
+      "chosen_heading": "R. Shimon View",
+      "current_heading": "R. Shimon View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Blood to Viduy Shift",
+    "candidates": [
+      "Blood to Viduy Shift",
+      "Eliezer/Shimon Debate",
+      "Shirayim Not Me'akev",
+      "Single Pesuk",
+      "R. Meir Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita about 'vechilah mechapher' teaching that each of the three locations (Kodesh Kodashim, Heichal, mizbeach) constitutes a separate atonement unto itself directly supports the Eliezer/Shimon debate section, which discusses how disqualification within a unit requires restarting only that unit \u2014 the baraita establishes the structural basis for that debate.",
+      "chosen_heading": "Eliezer/Shimon Debate",
+      "current_heading": "Blood to Viduy Shift",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "R. Meir Position",
+    "candidates": [
+      "Eliezer/Shimon Debate",
+      "Shirayim Not Me'akev",
+      "Single Pesuk",
+      "R. Meir Position",
+      "R. Eliezer/Shimon",
+      "Log Oil Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Items 1-3 rehearse the full baraita of the Tana Kamma vs. Rabbi Elazar/Shimon debate across all three units (Kodesh Kodashim, Heichal, mizbeach), and items 4-5 give Rabbi Yochanan's explanation that both derive from one pasuk \u2014 but all five items together form the continuous elaboration of that debate, which candidate 0 ('Eliezer/Shimon Debate') describes as articulating 'the full structure of the debate' with each scenario 'in turn,' making it the clear home for the entire passage.",
+      "chosen_heading": "Eliezer/Shimon Debate",
+      "current_heading": "R. Meir Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Log Oil Case",
+    "candidates": [
+      "R. Eliezer/Shimon",
+      "Log Oil Case",
+      "Metzora Oil"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Log Oil Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and the first part of the baraita (item 2's opening challenge) belong under 'Log Oil Case' since they present Rabbi's report from Rabbi Yaakov and the immediate Gemara challenge to it, exactly as that section's prose describes.",
+      "second_heading": "Metzora Oil",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present the full baraita showing that Rabbi Elazar and Rabbi Shimon's dispute applies equally to the log shemen case, which is precisely what the 'Metzora Oil' prose describes \u2014 the baraita demonstrating the same dispute runs across both units of the oil rite.",
+      "current_heading": "Log Oil Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Metzora Oil",
+    "candidates": [
+      "Metzora Oil",
+      "Head Not Me'akev"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about the Gemara emending Rabbi Yehuda HaNasi's statement to clarify that Rabbi Ya'akov taught the dispute specifically in the context of the lug of oil, which matches exactly the 'Metzora Oil' section's prose about the Gemara emending Rabbi's statement regarding what Rabbi Yaakov transmitted.",
+      "chosen_heading": "Metzora Oil",
+      "current_heading": "Metzora Oil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Head Not Me'akev",
+    "candidates": [
+      "Head Not Me'akev",
+      "Asham Scenario",
+      "Meir: New Asham"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address why the presentations of oil on the head are not indispensable, which is precisely what the 'Head Not Me'akev' prose section discusses \u2014 the challenge from 'vehaNotar min hamincha' and its resolution via the double 'yeter'/'notar' language in the leper's oil verses.",
+      "chosen_heading": "Head Not Me'akev",
+      "current_heading": "Head Not Me'akev",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97
+    ],
+    "current_heading": "Meir: New Asham",
+    "candidates": [
+      "Asham Scenario",
+      "Meir: New Asham",
+      "Eliezer/Shimon Stuck"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yo\u1e25anan's statement that a leper's guilt-offering slaughtered not for its own sake invokes the Meir/Elazar/Shimon dispute, and specifically elaborates Rabbi Meir's position \u2014 that one brings another animal and slaughters it \u2014 which matches precisely the 'Meir: New Asham' section's prose about Rabbi Meir's framework allowing a new animal and restarting the process.",
+      "chosen_heading": "Meir: New Asham",
+      "current_heading": "Meir: New Asham",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Eliezer/Shimon Stuck",
+    "candidates": [
+      "Eliezer/Shimon Stuck",
+      "Chisda Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states that according to Rabbi Elazar and Rabbi Shimon there is no remedy ('ein lo takana'), which matches exactly the 'Eliezer/Shimon Stuck' section's prose about their paradox leading to that conclusion.",
+      "chosen_heading": "Eliezer/Shimon Stuck",
+      "current_heading": "Eliezer/Shimon Stuck",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Chisda Challenge",
+    "candidates": [
+      "Chisda Challenge",
+      "Becomes Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely Rav \u1e24isda's objection based on the word 'oto' and the Gemara's acknowledgment of the difficulty (kashya), which is exactly what the 'Chisda Challenge' prose describes.",
+      "chosen_heading": "Chisda Challenge",
+      "current_heading": "Chisda Challenge",
+      "moved": false
+    }
+  }
+]

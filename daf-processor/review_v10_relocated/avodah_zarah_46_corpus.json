@@ -1,0 +1,318 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Rav Huna's Stages",
+    "candidates": [
+      "Mountains & Trees",
+      "Rashi vs. Tosafot",
+      "Stages of Destruction",
+      "Rav Huna's Stages",
+      "Root Destruction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Huna's exact statement 'radof achar kach srof' (pursue and then burn), which is precisely what the prose of section 3 describes as its content.",
+      "chosen_heading": "Rav Huna's Stages",
+      "current_heading": "Rav Huna's Stages",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16
+    ],
+    "current_heading": "Root Destruction",
+    "candidates": [
+      "Root Destruction",
+      "Eliezer vs. Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss exactly the derivations that candidate 0's prose describes: Rabbi Yosi bar Rabbi Yehuda's two-stage reading from 'abbed te'abedun,' the Rabbis' use of that doubled language for rooting out idolatry, and Rabbi Yosi bar Rabbi Yehuda's source for the root-destruction obligation from 've'ibadtem et shemam,' matching the current placement precisely.",
+      "chosen_heading": "Root Destruction",
+      "current_heading": "Root Destruction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Eliezer vs. Akiva",
+    "candidates": [
+      "Eliezer vs. Akiva",
+      "Dysphemism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Rabbi Eliezer / Rabbi Akiva exchange about rooting out idolatry versus giving a derogatory nickname, which is precisely what heading 0 ('Eliezer vs. Akiva') describes in its prose.",
+      "chosen_heading": "Eliezer vs. Akiva",
+      "current_heading": "Eliezer vs. Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Dysphemism",
+    "candidates": [
+      "Dysphemism",
+      "Cultural Context",
+      "Memory & Irony",
+      "Baraita & Akum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the requirement for negative (dysphemistic) nicknames for idols \u2014 item 1 establishes that neutral nicknames are insufficient (requiring the verse about detesting/abhorring), and item 2 gives the concrete examples (Beit Galya\u2192Beit Karya, Ein Kol\u2192Ein Kotz) \u2014 exactly what the 'Dysphemism' prose discusses.",
+      "chosen_heading": "Dysphemism",
+      "current_heading": "Dysphemism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Baraita & Akum",
+    "candidates": [
+      "Cultural Context",
+      "Memory & Irony",
+      "Baraita & Akum",
+      "Planted Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the baraita taught before Rav Sheshet about gentiles worshipping mountains/hills versus plants/vegetables, which is precisely what the 'Baraita & Akum' section's prose describes and introduces.",
+      "chosen_heading": "Baraita & Akum",
+      "current_heading": "Baraita & Akum",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39
+    ],
+    "current_heading": "Planted Intent",
+    "candidates": [
+      "Planted Intent",
+      "Rolling Boulders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the question of whose opinion the baraita follows (Rabbi Yosi bar Rabbi Yehuda) and why the 'planted for worship' interpretation is rejected via the mountain analogy \u2014 exactly what the 'Planted Intent' prose describes.",
+      "chosen_heading": "Planted Intent",
+      "current_heading": "Planted Intent",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "current_heading": "Rolling Boulders",
+    "candidates": [
+      "Rolling Boulders",
+      "No Human Shaping"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Rolling Boulders",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 cover the core dispute about dislodged boulders and the tzad hashaveh argument, which matches exactly the 'Rolling Boulders' prose discussion of the har/beheimah ping-pong and the common denominator reasoning.",
+      "second_heading": "No Human Shaping",
+      "second_confidence": "high",
+      "second_reason": "Items 5-6 address the specific objection that the common element may be 'not altered from original form' and the resolution via a blemished animal, which matches the 'No Human Shaping' prose discussion of she'lo nishtanu mi'beriyatan and beheimah ba'alat mum.",
+      "current_heading": "Rolling Boulders",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "No Human Shaping",
+    "candidates": [
+      "No Human Shaping",
+      "Absence of Control",
+      "Sheketz Teshaktzenu"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presenting the alternative derivation from an unblemished animal and withered tree is explicitly discussed in the 'No Human Shaping' prose, which references both 'beheimah ba'alat mum' and 'ilan yavesh' as the gemara's response in that context.",
+      "chosen_heading": "No Human Shaping",
+      "current_heading": "No Human Shaping",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Sheketz Teshaktzenu",
+    "candidates": [
+      "Absence of Control",
+      "Sheketz Teshaktzenu",
+      "Egg Elevation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Talmudic source text for the 'shakeitz teshaktzenu' principle \u2014 the verse from Deuteronomy about utterly abhorring idolatry used to override a permissive logical derivation \u2014 which is precisely what the prose of heading 1 explains and discusses.",
+      "chosen_heading": "Sheketz Teshaktzenu",
+      "current_heading": "Sheketz Teshaktzenu",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Egg Elevation",
+    "candidates": [
+      "Egg Elevation",
+      "Prep vs. Worship",
+      "Non-Jew Worships"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the gemara's attempt to identify which sons of Rabbi \u1e24iyya took which position, including the initial suggestion, the proof from Chizkiyah's dilemma, and the rejection of that proof \u2014 exactly what heading 0 ('Egg Elevation') describes in its prose.",
+      "chosen_heading": "Egg Elevation",
+      "current_heading": "Egg Elevation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Non-Jew Worships",
+    "candidates": [
+      "Prep vs. Worship",
+      "Non-Jew Worships",
+      "Egg vs. Brick"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the dilemma raised in the 'Non-Jew Worships' scenario \u2014 questioning which opinion Chizkiyah's dilemma is posed against, referencing whether the Jew's object is forbidden immediately or only upon actual worship, which is precisely the context of the non-Jew's subsequent worship after the Jew's preparatory act.",
+      "chosen_heading": "Non-Jew Worships",
+      "current_heading": "Non-Jew Worships",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Egg vs. Brick",
+    "candidates": [
+      "Egg vs. Brick",
+      "Intent & Form"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose of 'Intent & Form' directly quotes and explains both the brick/egg distinction (liveinah hu deminchara zekifutsei / aval beitza lo) and the unresolved teiku conclusion, which is precisely what both items discuss, making it a clearly better match than the current 'Egg vs. Brick' heading.",
+      "chosen_heading": "Intent & Form",
+      "current_heading": "Egg vs. Brick",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Intent & Form",
+    "candidates": [
+      "Egg vs. Brick",
+      "Intent & Form",
+      "Mountain Stones",
+      "Two Status Levels",
+      "Kal Vachomer",
+      "Direction Challenge",
+      "Strict Principle",
+      "Pesach Case",
+      "Eliezer's Memory",
+      "Grain Milling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rami bar \u1e24ama's dilemma about whether stones of a worshipped mountain may be used for the altar \u2014 exactly what the 'Mountain Stones' section's prose discusses.",
+      "chosen_heading": "Mountain Stones",
+      "current_heading": "Intent & Form",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Grain Milling",
+    "candidates": [
+      "Mountain Stones",
+      "Two Status Levels",
+      "Kal Vachomer",
+      "Direction Challenge",
+      "Strict Principle",
+      "Pesach Case",
+      "Eliezer's Memory",
+      "Grain Milling",
+      "Shinui Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 1-9 cover exactly the two-part dilemma (is a worshipped attached object forbidden for the Most High, and does that extend to machshirei korban), Rava's kal vachomer, the direction challenge, the strict principle, and the Pesach case with its resolution \u2014 all of which the 'Two Status Levels' prose describes as the content of this section, whereas the current placement under 'Grain Milling' is clearly wrong.",
+      "chosen_heading": "Two Status Levels",
+      "current_heading": "Grain Milling",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,496 @@
+[
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Two Approaches",
+    "candidates": [
+      "Opening",
+      "Three Discussions",
+      "Gemara Structure",
+      "Problem Setup",
+      "Two Approaches",
+      "Rav Nachman's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the problem setup \u2014 the scenario of hiring someone to break yayin nesech barrels and the tension between his interest in preservation versus the act of reducing tifla \u2014 which matches the 'Problem Setup' prose that describes exactly this first case and its complication.",
+      "chosen_heading": "Problem Setup",
+      "current_heading": "Two Approaches",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Rav Nachman's Ruling",
+    "candidates": [
+      "Two Approaches",
+      "Rav Nachman's Ruling",
+      "Kilayim Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Nachman's ruling and the baraita brought to support it from kilayim law, which is precisely what heading 1 ('Rav Nachman's Ruling') describes in its prose.",
+      "chosen_heading": "Rav Nachman's Ruling",
+      "current_heading": "Rav Nachman's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Kilayim Analysis",
+    "candidates": [
+      "Kilayim Analysis",
+      "Free vs. Paid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items deal with identifying whose opinion the baraita reflects (Rabbi Akiva vs. the Rabbis), Rabbi Akiva's exegetical reasoning for prohibiting maintenance of kilayim, and the resolution that the baraita follows the Rabbis \u2014 precisely the content described in the 'Kilayim Analysis' prose.",
+      "chosen_heading": "Kilayim Analysis",
+      "current_heading": "Kilayim Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Free vs. Paid",
+    "candidates": [
+      "Free vs. Paid",
+      "Reducing Issur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question and answer about why the baraita specifies uprooting and resolves it with the free-gift (chinam) case and Rabbi Yehuda's ruling, which is precisely what the 'Free vs. Paid' section's prose describes.",
+      "chosen_heading": "Free vs. Paid",
+      "current_heading": "Free vs. Paid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Reducing Issur",
+    "candidates": [
+      "Reducing Issur",
+      "Question Posed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the principle of 'reducing impropriety' (lemi'utei tifla) derived from Rabbi Yehuda and applied to Rabbi Akiva, which is precisely what the 'Reducing Issur' section's prose describes.",
+      "chosen_heading": "Reducing Issur",
+      "current_heading": "Reducing Issur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Question Posed",
+    "candidates": [
+      "Question Posed",
+      "Rav Nachman Permits",
+      "Conversion Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the dilemma being raised ('were sitting again and a dilemma was raised before them'), which matches the 'Question Posed' heading's prose describing the rabbis reconvening and the question being placed before them.",
+      "chosen_heading": "Question Posed",
+      "current_heading": "Question Posed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Conversion Case",
+    "candidates": [
+      "Rav Nachman Permits",
+      "Conversion Case",
+      "Creditor Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together comprise exactly the content described in the 'Conversion Case' prose: Rav Nachman's ruling as introduction, the Rabba bar Avuha conversion story as apparent proof, and the Gemara's immediate rejection that the case is different because their intention to convert already annulled the idolatrous status \u2014 all of which is laid out in that section's prose.",
+      "chosen_heading": "Conversion Case",
+      "current_heading": "Conversion Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Creditor Proof",
+    "candidates": [
+      "Creditor Proof",
+      "Timing Analysis",
+      "Rav Sheshet",
+      "Inheritance Scenario"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Creditor Proof",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the baraita proof case (creditor/debtor scenario) discussed in full in the 'Creditor Proof' prose.",
+      "second_heading": "Rav Sheshet",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Sheshet's explanation of the distinction between the two clauses, which is precisely what the 'Rav Sheshet' prose section discusses.",
+      "current_heading": "Creditor Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Inheritance Scenario",
+    "candidates": [
+      "Timing Analysis",
+      "Rav Sheshet",
+      "Inheritance Scenario",
+      "Division Proposal",
+      "Possession Problem",
+      "Shards Limitation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly responds to Rav Sheshet's explanation of 'rotzeh bekiyumo' by challenging it with the mishna about the convert and gentile inheriting \u2014 this is the Gemara's challenge to Rav Sheshet's reasoning, so it belongs under the 'Rav Sheshet' section rather than the 'Inheritance Scenario' section which describes a separate third case.",
+      "chosen_heading": "Rav Sheshet",
+      "current_heading": "Inheritance Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Shards Limitation",
+    "candidates": [
+      "Division Proposal",
+      "Possession Problem",
+      "Shards Limitation",
+      "Wine & Shards"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states Rava bar Ulla's limitation about idol worship whose value can be distributed among its shards, which is precisely what the 'Shards Limitation' prose describes.",
+      "chosen_heading": "Shards Limitation",
+      "current_heading": "Shards Limitation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Wine & Shards",
+    "candidates": [
+      "Wine & Shards",
+      "Rav Papa's Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses yayin nesech and cheres Adriani (Hadrianic earthenware), which is precisely what the 'Wine & Shards' section prose describes.",
+      "chosen_heading": "Wine & Shards",
+      "current_heading": "Wine & Shards",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Rav Papa's Leniency",
+    "candidates": [
+      "Rav Papa's Leniency",
+      "Ger, Oved Kochavim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Pappa's resolution about the inheritance of the ger being a rabbinic leniency due to concern about spiritual backsliding, which is precisely what the prose under 'Rav Papa's Leniency' discusses.",
+      "chosen_heading": "Rav Papa's Leniency",
+      "current_heading": "Rav Papa's Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Ger, Oved Kochavim",
+    "candidates": [
+      "Ger, Oved Kochavim",
+      "Ger Toshav Question",
+      "Worship Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about heirs vs. partners (yerashu/nishtatefu) is explicitly described and discussed in the prose under 'Ger, Oved Kochavim', making the current placement correct.",
+      "chosen_heading": "Ger, Oved Kochavim",
+      "current_heading": "Ger, Oved Kochavim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Worship Principle",
+    "candidates": [
+      "Ger Toshav Question",
+      "Worship Principle",
+      "Marketplace Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the raising and initial resolution of the ger toshav dilemma \u2014 exactly what heading 0 ('Ger Toshav Question') describes \u2014 while the current placement under heading 1 ('Worship Principle') better fits the elaboration and analysis of Rav Nachman's ruling that comes after this foundational question is posed.",
+      "chosen_heading": "Ger Toshav Question",
+      "current_heading": "Worship Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Marketplace Challenge",
+    "candidates": [
+      "Worship Principle",
+      "Marketplace Challenge",
+      "Friend's Idolatry",
+      "Debate on Terms"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita challenge about a Jew finding an idol in the marketplace, which matches exactly the 'Marketplace Challenge' prose describing this same baraita and its content about possession and non-Jewish annulment.",
+      "chosen_heading": "Marketplace Challenge",
+      "current_heading": "Marketplace Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Debate on Terms",
+    "candidates": [
+      "Friend's Idolatry",
+      "Debate on Terms",
+      "Non-Jew Interpretation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly debates what 'worships it' and 'does not worship it' mean, arriving at the interpretation that 'does not worship it' refers to a ger toshav \u2014 exactly the ambiguity described in the 'Debate on Terms' prose section.",
+      "chosen_heading": "Debate on Terms",
+      "current_heading": "Debate on Terms",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Non-Jew Interpretation",
+    "candidates": [
+      "Non-Jew Interpretation",
+      "Multiple Opinions",
+      "Rabbi Meir's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly matches the 'Non-Jew Interpretation' prose, which describes the exact same Gemara rejection and explanation involving Pe'or and Markulis distinctions between reisha and seifa.",
+      "chosen_heading": "Non-Jew Interpretation",
+      "current_heading": "Non-Jew Interpretation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Rabbi Meir's View",
+    "candidates": [
+      "Multiple Opinions",
+      "Rabbi Meir's View",
+      "Chachamim's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita with the framing question 'Who is a ger toshav?' which opens the entire machloket, making it a natural introduction under 'Multiple Opinions' rather than under the Rabbi Meir-specific subsection that discusses his view in detail.",
+      "chosen_heading": "Multiple Opinions",
+      "current_heading": "Rabbi Meir's View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      100
+    ],
+    "current_heading": "Chachamim's View",
+    "candidates": [
+      "Rabbi Meir's View",
+      "Chachamim's View",
+      "Third Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the Rabbis' (chachamim's) definition of ger toshav as acceptance of the seven Noahide mitzvot, which is precisely what the 'Chachamim's View' prose section discusses.",
+      "chosen_heading": "Chachamim's View",
+      "current_heading": "Chachamim's View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Third Opinion",
+    "candidates": [
+      "Third Opinion",
+      "Wine & Oil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the 'acheirim omrim' (Others say) opinion defining the ger toshav as one who observes all mitzvot except the prohibition of nevelot, which is precisely what the 'Third Opinion' prose describes.",
+      "chosen_heading": "Third Opinion",
+      "current_heading": "Third Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Wine & Oil",
+    "candidates": [
+      "Wine & Oil",
+      "Wine Dispute"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Wine & Oil",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita's rules about leaving wine with a ger toshav and the 'shamno keyeino' formula, which is exactly what candidate 0's prose discusses.",
+      "second_heading": "Wine Dispute",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge to 'shamno keyeino' and the correction to 'yeino keshamno', which is precisely what candidate 1's prose opens with before proceeding to the dispute about the ger toshav's wine status.",
+      "current_heading": "Wine & Oil",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Wine Dispute",
+    "candidates": [
+      "Wine Dispute",
+      "Like Oved Kochavim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rabban Shimon dispute about wine (yayin nesech) and the opinion permitting drinking, which is precisely what the 'Wine Dispute' prose discusses.",
+      "chosen_heading": "Wine Dispute",
+      "current_heading": "Wine Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Like Oved Kochavim",
+    "candidates": [
+      "Like Oved Kochavim",
+      "Reshut Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's question about what halakha the 'like a gentile' ruling applies to and Rav Na\u1e25man bar Yitz\u1e25ak's answer, which is precisely what heading 0's prose describes \u2014 the Gemara asking 'lemai hilcheta' and raising the possibility of avodah zarah annulment before Rav Na\u1e25man redirects to reshut rules.",
+      "chosen_heading": "Like Oved Kochavim",
+      "current_heading": "Like Oved Kochavim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Reshut Rules",
+    "candidates": [
+      "Reshut Rules",
+      "Final Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items deal directly with the reshut/domain rules for eruv \u2014 the baraita about the apostate Jew's ability to renounce domain rights and the rule that a gentile must lease his domain \u2014 which is precisely what the 'Reshut Rules' prose describes.",
+      "chosen_heading": "Reshut Rules",
+      "current_heading": "Reshut Rules",
+      "moved": false
+    }
+  }
+]

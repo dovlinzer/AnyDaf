@@ -1,0 +1,265 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Hakoteiv Nechasav",
+    "candidates": [
+      "Topic Introduction",
+      "Hakoteiv Nechasav",
+      "Rav vs. Rabbi Yochanan",
+      "Rav Abba bar Memel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes exactly the Rav Yehuda/Shmuel and Rabbi Yochanan dispute about hakoteiv nechasav leachair with the iy afshi bahen ruling, which is precisely what the 'Hakoteiv Nechasav' section's prose describes and analyzes.",
+      "chosen_heading": "Hakoteiv Nechasav",
+      "current_heading": "Hakoteiv Nechasav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Rav Abba bar Memel",
+    "candidates": [
+      "Rav vs. Rabbi Yochanan",
+      "Rav Abba bar Memel",
+      "Giluy Milta",
+      "Rashbam's Moral View",
+      "Principle of Zachin",
+      "Eruvin Applications",
+      "Exception: Objection",
+      "Geirus Katan",
+      "Shatek in Geirus",
+      "Slaves Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely the Gemara text that candidate 1 ('Rav Abba bar Memel') describes: Rabbi Abba bar Memel's resolution that the two positions don't conflict, distinguishing tzoveiach meikara from shoteik meikara u'lesof tzoveiach, which is exactly what the prose in heading 1 explains.",
+      "chosen_heading": "Rav Abba bar Memel",
+      "current_heading": "Rav Abba bar Memel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Slaves Scenario",
+    "candidates": [
+      "Giluy Milta",
+      "Rashbam's Moral View",
+      "Principle of Zachin",
+      "Eruvin Applications",
+      "Exception: Objection",
+      "Geirus Katan",
+      "Shatek in Geirus",
+      "Slaves Scenario",
+      "Tanna Kamma Position",
+      "Rabban Shimon Position",
+      "Gemara's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 10,
+      "confidence": "high",
+      "reason": "The passage presents Rav Na\u1e25man bar Yitz\u1e25ak's framing of the dispute between Rabban Shimon ben Gamliel and the Rabbanan specifically for the case of third-party acquisition with initial silence followed by protest, along with the supporting baraita \u2014 which is precisely the content that heading 10 ('Gemara's Distinction') discusses in its prose about the third-party scenario, the *zikah al yedei acher*, and the Tanna Kamma vs. Rabban Shimon ben Gamliel dispute.",
+      "chosen_heading": "Gemara's Distinction",
+      "current_heading": "Slaves Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Gemara's Distinction",
+    "candidates": [
+      "Tanna Kamma Position",
+      "Rabban Shimon Position",
+      "Gemara's Distinction",
+      "Asset Distribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items are the Gemara's clarification of the Tanna Kamma/Rabban Shimon dispute \u2014 the tzoveiach question, Rava's resolution, and the specific case of third-party acquisition with initial silence \u2014 which is precisely what the 'Gemara's Distinction' prose describes in detail.",
+      "chosen_heading": "Gemara's Distinction",
+      "current_heading": "Gemara's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58
+    ],
+    "current_heading": "Asset Distribution",
+    "candidates": [
+      "Asset Distribution",
+      "Distribution Order",
+      "Creditor Liens",
+      "Firstborn Bequest",
+      "Wife's Bequest"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Asset Distribution",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 cover the two distribution rules (proportional vs. sequential) for a shchiv mera's bequests, matching exactly the prose under 'Asset Distribution' and 'Distribution Order'.",
+      "second_heading": "Firstborn Bequest",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces an entirely new case about a firstborn son's bequest and the karaui lo language, which matches precisely the 'Firstborn Bequest' section's prose.",
+      "current_heading": "Asset Distribution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Wife's Bequest",
+    "candidates": [
+      "Distribution Order",
+      "Creditor Liens",
+      "Firstborn Bequest",
+      "Wife's Bequest",
+      "Creditor Bequest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items are the continuation of the baraita about a shachiv mera giving 200 zuz to his wife, with the 'biketubatah' option giving her the upper hand \u2014 exactly the wife's bequest case discussed in candidate 3's prose.",
+      "chosen_heading": "Wife's Bequest",
+      "current_heading": "Wife's Bequest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Creditor Bequest",
+    "candidates": [
+      "Creditor Bequest",
+      "Rabbi Akiva Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present the baraita's creditor case and the Gemara's challenge to it, which is precisely what the 'Creditor Bequest' prose describes.",
+      "chosen_heading": "Creditor Bequest",
+      "current_heading": "Creditor Bequest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85,
+      86
+    ],
+    "current_heading": "Rabbi Akiva Principle",
+    "candidates": [
+      "Rabbi Akiva Principle",
+      "Karaui Lo Override"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together present the Rabbi Akiva principle (expounding superfluous language) and its source in the Mishnah about selling a house with pit/cistern, which is precisely what the 'Rabbi Akiva Principle' prose section describes in detail.",
+      "chosen_heading": "Rabbi Akiva Principle",
+      "current_heading": "Rabbi Akiva Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Karaui Lo Override",
+    "candidates": [
+      "Karaui Lo Override",
+      "Witnesses Recording Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly applies the 'keivan d'lo tzarich ve'ka'amar le'tifuyei milta ka'ata' principle to the creditor case, which is precisely what the prose under heading 0 ('Karaui Lo Override') discusses.",
+      "chosen_heading": "Karaui Lo Override",
+      "current_heading": "Karaui Lo Override",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Witnesses Recording Claim",
+    "candidates": [
+      "Witnesses Recording Claim",
+      "Rabbi Meir Position",
+      "Chachamim Position",
+      "Erring Courts Concern",
+      "Rav Dimi Ruling",
+      "Beit Din Review Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself presenting the dispute between Rabbi Meir and the Rabbis about witnesses recording a shchiv mera's monetary claim, which is precisely what the 'Witnesses Recording Claim' prose introduces and sets up.",
+      "chosen_heading": "Witnesses Recording Claim",
+      "current_heading": "Witnesses Recording Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Beit Din Review Rules",
+    "candidates": [
+      "Rabbi Meir Position",
+      "Chachamim Position",
+      "Erring Courts Concern",
+      "Rav Dimi Ruling",
+      "Beit Din Review Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Dimi Ruling",
+      "first_confidence": "high",
+      "first_reason": "Items 1 covers the baraita dispute (Rabbi Meir vs. Chachamim), the erring courts concern, and Rav Dimi's halakhic ruling \u2014 all of which are discussed in the 'Rav Dimi Ruling' prose (and the preceding sections).",
+      "second_heading": "Beit Din Review Rules",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 present the challenge from Rava's ruling about chalitza/miun and the resolution distinguishing beit din reviewing beit din from beit din reviewing witnesses \u2014 exactly what the 'Beit Din Review Rules' prose discusses.",
+      "current_heading": "Beit Din Review Rules",
+      "moved": true
+    }
+  }
+]

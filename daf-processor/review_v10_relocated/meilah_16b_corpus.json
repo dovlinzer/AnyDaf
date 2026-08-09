@@ -1,0 +1,131 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rav: Kezayit Shiur",
+    "candidates": [
+      "Kodshei Mizbe'ach Combo",
+      "Nevelos & Sheratzim",
+      "Rav: Kezayit Shiur",
+      "Shemini Braisah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav Yehuda citing Rav's ruling that the shiur for eating sheratzim is a kezayit, which is precisely what the prose in candidate 2 ('Rav: Kezayit Shiur') introduces and discusses.",
+      "chosen_heading": "Rav: Kezayit Shiur",
+      "current_heading": "Rav: Kezayit Shiur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Shemini Braisah",
+    "candidates": [
+      "Shemini Braisah",
+      "Alive vs. Dead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the baraita taught by Rabbi Yosei bar Rabbi \u1e24anina before Rabbi Yo\u1e25anan and its conclusion that the shiur for eating sheratzim is a k'adasha, which is precisely what Candidate 0's prose describes in detail \u2014 the challenge this poses to Rav's opinion is also noted there.",
+      "chosen_heading": "Shemini Braisah",
+      "current_heading": "Shemini Braisah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Alive vs. Dead",
+    "candidates": [
+      "Alive vs. Dead",
+      "Abaye's Objection",
+      "Rav Yosef Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's resolution distinguishing dead vs. alive sheratzim (lo kashya \u2014 kan be-mitatan, kan be-chayeihen), which is precisely what the 'Alive vs. Dead' section's prose discusses.",
+      "chosen_heading": "Alive vs. Dead",
+      "current_heading": "Alive vs. Dead",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rav Yosef Response",
+    "candidates": [
+      "Abaye's Objection",
+      "Rav Yosef Response",
+      "Limbs & Tumah",
+      "Lashes Kezayit Only",
+      "Muvdalim Doctrine"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's objection (that Rav was commenting on the Mishna, which covers even dead sheratzim) and Rav Yosef's response (that Rav's statement was independent/shme'ata b'alma), and the candidate 1 prose ('Rav Yosef Response') explicitly discusses both elements together, matching the passage's content precisely.",
+      "chosen_heading": "Rav Yosef Response",
+      "current_heading": "Rav Yosef Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Muvdalim Doctrine",
+    "candidates": [
+      "Limbs & Tumah",
+      "Lashes Kezayit Only",
+      "Muvdalim Doctrine",
+      "Adda Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lashes Kezayit Only",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the objection from the mishna about limbs having no measure and Rabbi Yochanan's response that lashes require a kezayit, which is precisely what the 'Lashes Kezayit Only' prose discusses \u2014 the tension between Rabbi Yochanan's earlier endorsement of k'adasha and his statement here requiring kezayit.",
+      "second_heading": "Muvdalim Doctrine",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rava's resolution via the muvdalim doctrine, which is exactly what the 'Muvdalim Doctrine' prose elaborates upon.",
+      "current_heading": "Muvdalim Doctrine",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Adda Challenge",
+    "candidates": [
+      "Adda Challenge",
+      "Bal Teshaktzu",
+      "Final Sheratzim Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Item 1 is Rav Adda's challenge about behemah and item 2 is Rava's response \u2014 together they form the complete challenge-and-answer exchange that the 'Adda Challenge' prose describes, and the current placement correctly houses both items under that heading.",
+      "chosen_heading": "Adda Challenge",
+      "current_heading": "Adda Challenge",
+      "moved": false
+    }
+  }
+]

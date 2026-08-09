@@ -1,0 +1,398 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Organization at Yavne",
+    "candidates": [
+      "Recap: Private Prayer",
+      "Why 18 Brachot?",
+      "Organization at Yavne",
+      "Need for Establishment",
+      "Shmuel HaKatan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage describes Shimon HaPakuli arranging the eighteen blessings before Rabban Gamliel in Yavne and the initial inquiry about birkat ha-minim, which directly matches the 'Organization at Yavne' section's prose about hisdir and the canonical sequence established at Yavne.",
+      "chosen_heading": "Organization at Yavne",
+      "current_heading": "Organization at Yavne",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Shmuel HaKatan",
+    "candidates": [
+      "Need for Establishment",
+      "Shmuel HaKatan",
+      "Removal Criteria"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The prose under 'Shmuel HaKatan' explicitly describes these two items \u2014 that the following year he forgot the blessing and scrutinized it for two or three hours without being removed \u2014 matching the passage content exactly.",
+      "chosen_heading": "Shmuel HaKatan",
+      "current_heading": "Shmuel HaKatan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Removal Criteria",
+    "candidates": [
+      "Removal Criteria",
+      "Righteous Reverting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Gemara asking why Shmuel HaKatan was not removed and citing Rav Yehuda/Rav's rule about removing a shliach tzibur who errs in birkat ha-minim, which is precisely the content discussed in the 'Removal Criteria' prose section.",
+      "chosen_heading": "Removal Criteria",
+      "current_heading": "Removal Criteria",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Righteous Reverting",
+    "candidates": [
+      "Righteous Reverting",
+      "Yochanan Kohen Gadol"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of question-and-answer about whether a righteous person can revert to wickedness, which is precisely what candidate 0's prose describes in detail, ending with the Yochanan Kohen Gadol mishna \u2014 the same sequence covered in these items.",
+      "chosen_heading": "Righteous Reverting",
+      "current_heading": "Righteous Reverting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33
+    ],
+    "current_heading": "Yochanan Kohen Gadol",
+    "candidates": [
+      "Yochanan Kohen Gadol",
+      "Author Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items continue the Abaye/Rava dispute about Yannai vs. Yo\u1e25anan that the 'Yochanan Kohen Gadol' prose explicitly discusses, including the exact phrases hani'cha l'Abaye/l'Rava kashya and the question of why they were not suspicious of Shmuel HaKatan \u2014 all of which the heading 0 prose directly addresses.",
+      "chosen_heading": "Yochanan Kohen Gadol",
+      "current_heading": "Yochanan Kohen Gadol",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Author Exception",
+    "candidates": [
+      "Author Exception",
+      "Seven of Shabbat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Shmuel HaKatan's exception to the rule about errors in birkat ha-minim, which is precisely what the 'Author Exception' section's prose addresses.",
+      "chosen_heading": "Author Exception",
+      "current_heading": "Author Exception",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Seven of Shabbat",
+    "candidates": [
+      "Seven of Shabbat",
+      "Nine of Rosh Hashanah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the seven blessings of the Shabbat Amida and Rabbi \u1e24alafta ben Shaul's answer about the seven 'voices' in Psalms 29, which is precisely what the 'Seven of Shabbat' section's prose describes.",
+      "chosen_heading": "Seven of Shabbat",
+      "current_heading": "Seven of Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Nine of Rosh Hashanah",
+    "candidates": [
+      "Nine of Rosh Hashanah",
+      "Twenty-Four of Taanit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the nine blessings of Rosh HaShana and their correspondence to Hannah's nine mentions of God's name, which is exactly what the prose under 'Nine of Rosh Hashanah' discusses.",
+      "chosen_heading": "Nine of Rosh Hashanah",
+      "current_heading": "Nine of Rosh Hashanah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Twenty-Four of Taanit",
+    "candidates": [
+      "Twenty-Four of Taanit",
+      "Me'ein Opinion",
+      "Rav's Version",
+      "Havineinu Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the twenty-four blessings of fast days and Rabbi \u1e24elbo's answer connecting them to Solomon's twenty-four expressions of prayer when bringing the ark into the Holy of Holies, which is precisely what the prose under heading 0 ('Twenty-Four of Taanit') discusses in detail.",
+      "chosen_heading": "Twenty-Four of Taanit",
+      "current_heading": "Twenty-Four of Taanit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Havineinu Text",
+    "candidates": [
+      "Me'ein Opinion",
+      "Rav's Version",
+      "Havineinu Text",
+      "Abaye's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rav's and Shmuel's opinions about what me'ein shemoneh esrei means, which corresponds to the 'Me'ein Opinion' section that introduces the dispute about abbreviated prayer, before the essay splits into separate sections for each opinion.",
+      "chosen_heading": "Me'ein Opinion",
+      "current_heading": "Havineinu Text",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Abaye's Objection",
+    "candidates": [
+      "Havineinu Text",
+      "Abaye's Objection",
+      "Havineinu Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Abaye cursing anyone who recited havineinu, which is precisely what the 'Abaye's Objection' section's prose discusses.",
+      "chosen_heading": "Abaye's Objection",
+      "current_heading": "Abaye's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Havineinu Timing",
+    "candidates": [
+      "Havineinu Timing",
+      "Insertion Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage states Rav Na\u1e25man/Shmuel's ruling that havineinu may be recited all year except motzaei Shabbat and motzaei Yom Tov due to havdalah in chonen ha-daat, which is precisely what the 'Havineinu Timing' prose discusses.",
+      "chosen_heading": "Havineinu Timing",
+      "current_heading": "Havineinu Timing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "current_heading": "Insertion Problem",
+    "candidates": [
+      "Insertion Problem",
+      "Mistake vs Intention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items \u2014 Rabba bar Shmuel's objection about a fourth blessing, the gemara's rejection based on the fixed number of blessings, Mar Zutra's objection about incorporating havdalah into the havineinu text, and Rav Beivai bar Abaye's ruling about the rainy season with Mar Zutra's parallel objection \u2014 are all discussed explicitly in the 'Insertion Problem' prose, which covers exactly this chain of objections and resolutions about what can or cannot be inserted into havineinu.",
+      "chosen_heading": "Insertion Problem",
+      "current_heading": "Insertion Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Mistake vs Intention",
+    "candidates": [
+      "Mistake vs Intention",
+      "Mishiv HaRuach",
+      "Tal U'Matar Exception",
+      "Havdala Exception",
+      "Private vs Communal",
+      "Return to Refeit",
+      "Akar Raglav"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 9,
+      "first_heading": "Mistake vs Intention",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-9 form a continuous discussion about confusion when inserting rain requests and havdala, the formal ruling of Rabbi Tan\u1e25um, the Tosefta challenge, and the yachid/b'yachid resolution \u2014 all belonging to the 'Mistake vs Intention' through 'Private vs Communal' arc, with current placement at index 0 being the best single match for the bulk of the passage.",
+      "second_heading": "Return to Refeit",
+      "second_confidence": "high",
+      "second_reason": "Item 10 introduces a completely new case about forgetting ya'aleh v'yavo on Rosh Chodesh, which the prose of 'Return to Refeit' (index 5) explicitly and precisely describes.",
+      "current_heading": "Mistake vs Intention",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Akar Raglav",
+    "candidates": [
+      "Mishiv HaRuach",
+      "Tal U'Matar Exception",
+      "Havdala Exception",
+      "Private vs Communal",
+      "Return to Refeit",
+      "Akar Raglav",
+      "Tachanun Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa son of Rav A\u1e25a bar Adda's qualification about akar raglav \u2014 moving one's feet \u2014 which is precisely what the 'Akar Raglav' section's prose discusses and expounds upon.",
+      "chosen_heading": "Akar Raglav",
+      "current_heading": "Akar Raglav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Tachanun Exception",
+    "candidates": [
+      "Tachanun Exception",
+      "Rabbi Eliezer",
+      "Burden vs Opportunity",
+      "Personal Insertion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Personal Insertion",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 is a short chain-of-tradition statement ('from where do you derive this? from my father, from Rav') that closes off a prior ruling and does not introduce the Rav Na\u1e25man bar Yitz\u1e25ak discussion \u2014 it belongs under 'Personal Insertion' as a concluding attribution for that section's material.",
+      "second_heading": "Tachanun Exception",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are exactly the two versions of Rav Na\u1e25man bar Yitz\u1e25ak's ruling about tachanunim/stepping-back that the 'Tachanun Exception' prose explicitly describes in detail, so they clearly belong there.",
+      "current_heading": "Tachanun Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      132,
+      133
+    ],
+    "current_heading": "Personal Insertion",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Burden vs Opportunity",
+      "Personal Insertion",
+      "Rav Zeira's Concern",
+      "Davening with Sun"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Burden vs Opportunity",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains all three definitions of 'keva' (burden, not supplication language, unable to add novelty) which are discussed in the 'Burden vs Opportunity' and 'Personal Insertion' prose \u2014 but the prose of heading 1 ('Burden vs Opportunity') explicitly introduces the gemara's question 'mai keva' and all three opinions including Rabbah and Rav Yosef's, making it the better single home; however since the current placement is 'Personal Insertion' which covers the rabbanan and Rabbah/Rav Yosef portions, and heading 1 covers the burden definition, the passage as a whole fits best under 'Burden vs Opportunity' (index 1) since that heading's prose explicitly discusses all three definitions of keva including the novel element requirement.",
+      "second_heading": "Rav Zeira's Concern",
+      "second_confidence": "high",
+      "second_reason": "Item 2 (Rabbi Zeira's concern about becoming confused if he adds a novel element) belongs under heading 3 'Rav Zeira's Concern', whose prose explicitly paraphrases this exact statement.",
+      "current_heading": "Personal Insertion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Davening with Sun",
+    "candidates": [
+      "Rav Zeira's Concern",
+      "Davening with Sun",
+      "Sunrise Danger"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses praying with the reddening of the sun (dimumei chama), the mitzva cited by Rabbi Chiya bar Abba/Rabbi Yochanan, and the verse from Psalms \u2014 all of which are explicitly described in candidate 1's prose, making the current placement correct.",
+      "chosen_heading": "Davening with Sun",
+      "current_heading": "Davening with Sun",
+      "moved": false
+    }
+  }
+]

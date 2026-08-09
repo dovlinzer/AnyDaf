@@ -88,7 +88,7 @@
           "timestamp": "23:24"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 2,
       "matched": true
     },
     {
@@ -112,7 +112,7 @@
           "timestamp": "29:58"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 2,
       "matched": false
     },
     {
@@ -435,5 +435,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 18
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "48:27",
+  "amud_b_micro_title": "Huna: Adultery/Clothing",
+  "shiur_start_daf": 100,
+  "shiur_start_amud": "b"
 }

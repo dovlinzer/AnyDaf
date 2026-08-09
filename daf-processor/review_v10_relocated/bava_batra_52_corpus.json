@@ -1,0 +1,295 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Rabba bar Rav Huna",
+    "candidates": [
+      "Case Setup",
+      "Segula Definition",
+      "Rav Chisda View",
+      "Rabba bar Rav Huna",
+      "Rashbam Analysis",
+      "Mishnah Rule",
+      "Non-Stringency",
+      "Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the question of what 'segula' means AND both answers (Rav \u1e24isda and Rabba bar Rav Huna) in a single Talmudic excerpt, and the 'Segula Definition' heading's prose introduces the term segula and the Gemara's directive \u2014 making it the best single home for the entire passage rather than splitting it across multiple headings.",
+      "chosen_heading": "Segula Definition",
+      "current_heading": "Rabba bar Rav Huna",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rav Yosef",
+    "candidates": [
+      "Rashbam Analysis",
+      "Mishnah Rule",
+      "Non-Stringency",
+      "Rav Yosef",
+      "Rava Dispute",
+      "Amoraic Consensus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the Mishnah rule about father/son chazaka and then presents the Rav Yosef/Rava dispute, which is precisely what the 'Mishnah Rule' prose introduces \u2014 the mishna text plus the immediate amoraic debate about it belongs under the section that introduces this rule, not split across separate headings.",
+      "chosen_heading": "Mishnah Rule",
+      "current_heading": "Rav Yosef",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Amoraic Consensus",
+    "candidates": [
+      "Rava Dispute",
+      "Amoraic Consensus",
+      "Baraita Support",
+      "Administrator Setup",
+      "Personal Claim",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Death Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in the 'Amoraic Consensus' prose: Rav Pappi's ruling, Rav Na\u1e25man bar Yitz\u1e25ak's transmission, the halakhic conclusion, and the supporting baraita \u2014 all of which the essay author explicitly discusses under that heading.",
+      "chosen_heading": "Amoraic Consensus",
+      "current_heading": "Amoraic Consensus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Death Exception",
+    "candidates": [
+      "Baraita Support",
+      "Administrator Setup",
+      "Personal Claim",
+      "Rav's Position",
+      "Shmuel's Position",
+      "Death Exception",
+      "Ta'aninan Limit",
+      "Rava Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers the entire dispute \u2014 the setup of the managing brother, his personal claim, Rav's position, Shmuel's position, and Shmuel's death concession \u2014 all in one Talmudic excerpt that corresponds to the 'Administrator Setup' section where the Gemara introduces this scenario, and all subsequent headings (Personal Claim, Rav's Position, Shmuel's Position, Death Exception) are the essay author's breakdown of this single Talmudic passage.",
+      "chosen_heading": "Administrator Setup",
+      "current_heading": "Death Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Rava Example",
+    "candidates": [
+      "Ta'aninan Limit",
+      "Rava Example",
+      "Kashya vs Tiyuvta",
+      "Suspicion Factor",
+      "Shared Resources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Pappa's objection about the limits of ta'aninan \u2014 the Rava example and Rav Huna bar Avin's ruling are brought specifically to support the point that orphans cannot claim what their father could not claim, which is precisely what candidate 0 ('Ta'aninan Limit') describes, while candidate 1 ('Rava Example') treats the Rava ruling as a standalone illustration rather than the core ta'aninan principle being established.",
+      "chosen_heading": "Ta'aninan Limit",
+      "current_heading": "Rava Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Shared Resources",
+    "candidates": [
+      "Kashya vs Tiyuvta",
+      "Suspicion Factor",
+      "Shared Resources",
+      "Minor Enterprises",
+      "Plausible Sources",
+      "Raba's Witnesses",
+      "Rav Sheshet"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rav \u1e24isda's qualification that the rule applies only when brothers do not divide their dough, which is precisely what the 'Shared Resources' section's prose describes.",
+      "chosen_heading": "Shared Resources",
+      "current_heading": "Shared Resources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Rav Sheshet",
+    "candidates": [
+      "Minor Enterprises",
+      "Plausible Sources",
+      "Raba's Witnesses",
+      "Rav Sheshet",
+      "Tannaitic Link",
+      "Baraita Text",
+      "Widow Role"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents both Rabba's and Rav Sheshet's positions on what form of proof suffices, and candidate 2 ('Raba's Witnesses') is the section that introduces this exact question (raya bemai) and covers both answers, while candidate 3 ('Rav Sheshet') only covers Rav Sheshet's position \u2014 the full passage belongs under the heading that opens the dispute.",
+      "chosen_heading": "Raba's Witnesses",
+      "current_heading": "Rav Sheshet",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Widow Role",
+    "candidates": [
+      "Tannaitic Link",
+      "Baraita Text",
+      "Widow Role",
+      "Rava's Concession",
+      "Trustworthiness"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita text itself \u2014 the managing brother case (item 1) and the widow case (item 2) \u2014 which is precisely what candidate 1 ('Baraita Text') describes, while the current placement under 'Widow Role' only fits item 2 and misses that item 1 (Rava's question and Rav Nachman's baraita citation) belongs with the same passage.",
+      "chosen_heading": "Baraita Text",
+      "current_heading": "Widow Role",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Trustworthiness",
+    "candidates": [
+      "Rava's Concession",
+      "Trustworthiness",
+      "Suspicion Universal",
+      "Transition",
+      "Evidential Type",
+      "Acquisitional Type"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the possibility that the widow's laudable status ('shvicha lah milta') makes her trustworthy, which is precisely what candidate 1's prose describes as the question being raised.",
+      "chosen_heading": "Trustworthiness",
+      "current_heading": "Trustworthiness",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93
+    ],
+    "current_heading": "Acquisitional Type",
+    "candidates": [
+      "Suspicion Universal",
+      "Transition",
+      "Evidential Type",
+      "Acquisitional Type",
+      "Acts List",
+      "Baraita Rule",
+      "Rava Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's clarification distinguishing chazakah sheyesh imah ta'anah from chazakah she'ein imah ta'anah, which is precisely what the 'Evidential Type' prose describes \u2014 the Gemara's bameh devarim amurim answer explaining the two types \u2014 whereas 'Acquisitional Type' (current placement, index 3) covers only the second type, and the passage begins with the question and answer about the first (evidential) type before moving to the second.",
+      "chosen_heading": "Evidential Type",
+      "current_heading": "Acquisitional Type",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Rava Explanation",
+    "candidates": [
+      "Acts List",
+      "Baraita Rule",
+      "Rava Explanation",
+      "Bilateral"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita of Rav Hoshaya plus Rava's explanation of it, which is precisely what the 'Baraita Rule' section's prose introduces \u2014 the current placement under 'Rava Explanation' splits the baraita from its proper introductory heading, whereas 'Baraita Rule' is where the full passage (baraita + Rava's clarification of it) belongs.",
+      "chosen_heading": "Baraita Rule",
+      "current_heading": "Rava Explanation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Bilateral",
+    "candidates": [
+      "Rava Explanation",
+      "Bilateral",
+      "Gift Question",
+      "Gift Answer",
+      "Kol SheHu",
+      "Wall Example",
+      "Opening Example",
+      "Half-Measures",
+      "Na'al Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Gift Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Gemara passage about Rav's dilemma regarding gift acquisition and Shmuel's a-fortiori response, which directly matches the 'Gift Question' prose discussing matana and the seller's participation.",
+      "second_heading": "Kol SheHu",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Shmuel's concrete definition of 'kol shehu' for gadar and paratz, which directly matches the 'Kol SheHu' prose asking what constitutes a meaningful kol shehu and citing Shmuel's guidance.",
+      "current_heading": "Bilateral",
+      "moved": true
+    }
+  }
+]

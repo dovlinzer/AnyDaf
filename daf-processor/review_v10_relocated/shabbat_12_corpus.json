@@ -1,0 +1,415 @@
+[
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Abaye v. Rava",
+    "candidates": [
+      "Intro & Zav Case",
+      "Samuch L'Chasheicha",
+      "Zav/Zavah in Mishna",
+      "Goldberg's Gezeirah",
+      "Safrai Theory",
+      "Abaye v. Rava",
+      "Two vs. Three Flows"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is Rav Yosef's resolution of a contradiction between two baraitot by attributing them to Rabbi Meir and Rabbi Yehuda respectively, which directly continues the discussion in section 6 about reconciling conflicting formulations regarding the zav case.",
+      "chosen_heading": "Two vs. Three Flows",
+      "current_heading": "Abaye v. Rava",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18
+    ],
+    "current_heading": "Two vs. Three Flows",
+    "candidates": [
+      "Abaye v. Rava",
+      "Two vs. Three Flows",
+      "Exemption Problem"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Abaye v. Rava",
+      "first_confidence": "high",
+      "first_reason": "Abaye's challenge about Rabbi Meir's principle (typical vs. atypical manner of carrying) directly continues the Abaye/Rava dispute about the tailor's needle and craftsman standards discussed in that section's prose.",
+      "second_heading": "Two vs. Three Flows",
+      "second_confidence": "high",
+      "second_reason": "Rav Hamnuna's resolution distinguishing a zav with two vs. three flows is precisely the content described in the 'Two vs. Three Flows' section prose.",
+      "current_heading": "Two vs. Three Flows",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Exemption Problem",
+    "candidates": [
+      "Exemption Problem",
+      "Protecting Garments",
+      "Analogy Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses why a zav ba'al shalosh reiyot is exempt, with the gemara's question and the 'lo nitzrecha ela l'vo bayom' answer \u2014 exactly what the 'Exemption Problem' prose describes.",
+      "chosen_heading": "Exemption Problem",
+      "current_heading": "Exemption Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Analogy Rejected",
+    "candidates": [
+      "Protecting Garments",
+      "Analogy Rejected",
+      "Melacha She'Eina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the analogy to the bowl-on-wall case and its rejection ('mi dami'), which is precisely what the 'Analogy Rejected' prose section describes in detail.",
+      "chosen_heading": "Analogy Rejected",
+      "current_heading": "Analogy Rejected",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37
+    ],
+    "current_heading": "Melacha She'Eina",
+    "candidates": [
+      "Melacha She'Eina",
+      "Rashi's Approach",
+      "Raincoats & Hats",
+      "Sanitary Pads",
+      "Hefsek Tahara Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Talmudic discussion leading to and stating the Abaye/Rava resolution via the Rabbi Yehuda/Rabbi Shimon dispute over melacha she'eina tzricha l'gufa, which is precisely what the current heading's prose describes.",
+      "chosen_heading": "Melacha She'Eina",
+      "current_heading": "Melacha She'Eina",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48,
+      49
+    ],
+    "current_heading": "Hefsek Tahara Issue",
+    "candidates": [
+      "Rashi's Approach",
+      "Raincoats & Hats",
+      "Sanitary Pads",
+      "Hefsek Tahara Issue",
+      "Killing Lice",
+      "Reading Candlelight",
+      "Chananya Attic"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hefsek Tahara Issue",
+      "first_confidence": "low",
+      "first_reason": "Item 1 discusses the obligation to touch phylacteries and checking garments before Shabbat, which doesn't cleanly fit any candidate but is closest to the Hefsek Tahara/moch dachuk section discussing Rav Moshe's analysis of items worn for halachic purposes rather than bodily protection \u2014 though the match is imperfect.",
+      "second_heading": "Killing Lice",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's dilemma about whether 'lo yefaleh et kelav' applies during the day due to concern of killing a louse per Rabbi Eliezer, which is precisely what the 'Killing Lice' section's prose describes.",
+      "current_heading": "Hefsek Tahara Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Chananya Attic",
+    "candidates": [
+      "Killing Lice",
+      "Reading Candlelight",
+      "Chananya Attic",
+      "Medicine & Objects",
+      "Tefillin Erev Shabbat",
+      "Mashmesh Principle",
+      "Tzitz Kal V'Chomer",
+      "Chananya's Teaching",
+      "Halacha Rabta",
+      "Tosafot Question",
+      "Distinguishing Clothes",
+      "City vs. Field"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's attempt to resolve whether the delousing and reading prohibitions share the same rationale (shema yateh), which is precisely what candidate 1 ('Reading Candlelight') describes \u2014 the question of whether l'or haneir applies to both gezeirot for the same reason \u2014 while candidate 2 ('Chananya Attic') describes the conclusion already reached, making it the wrong placement for the dialectical challenge-and-resolution process shown in these items.",
+      "chosen_heading": "Reading Candlelight",
+      "current_heading": "Chananya Attic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "City vs. Field",
+    "candidates": [
+      "Medicine & Objects",
+      "Tefillin Erev Shabbat",
+      "Mashmesh Principle",
+      "Tzitz Kal V'Chomer",
+      "Chananya's Teaching",
+      "Halacha Rabta",
+      "Tosafot Question",
+      "Distinguishing Clothes",
+      "City vs. Field",
+      "Public Delousing",
+      "Molel V'Zorek",
+      "Abba Shaul",
+      "Rav Huna Permits",
+      "Rava & Rav Sheshes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage is about Rav Yehuda/Shmuel's ruling prohibiting candlelight even to distinguish between one's garments and one's wife's garments, which is precisely what heading 7 ('Distinguishing Clothes') discusses, while heading 8 ('City vs. Field') covers Rava's qualification about Mechuza vs. farmers \u2014 the passage contains both the original ruling and Rava's qualification, but the primary statement opens with the Rav Yehuda/Shmuel dictum that belongs under heading 7.",
+      "chosen_heading": "Distinguishing Clothes",
+      "current_heading": "City vs. Field",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Rava & Rav Sheshes",
+    "candidates": [
+      "Public Delousing",
+      "Molel V'Zorek",
+      "Abba Shaul",
+      "Rav Huna Permits",
+      "Rava & Rav Sheshes",
+      "Shammai v. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all the topics discussed in candidates 0\u20134 in sequence (public delousing, molel v'zorek, Abba Shaul, Rav Huna, and the Amoraim's practices), so the entire passage belongs under the first heading 'Public Delousing' where it begins, rather than being split or placed under the later 'Rava & Rav Sheshes' heading where only part of it sits.",
+      "chosen_heading": "Public Delousing",
+      "current_heading": "Rava & Rav Sheshes",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Shammai v. Hillel",
+    "candidates": [
+      "Rava & Rav Sheshes",
+      "Shammai v. Hillel",
+      "Shammai v. Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the baraita of Rabbi Shimon ben Elazar covering Beit Shammai/Beit Hillel disputes on killing lice and on betrothal/teaching/visiting sick, which candidate 1's prose explicitly quotes and discusses in full.",
+      "chosen_heading": "Shammai v. Hillel",
+      "current_heading": "Shammai v. Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Shammai v. Hillel",
+    "candidates": [
+      "Shammai v. Hillel",
+      "Chanina Stringency",
+      "Blessings for Sick"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes and discusses the baraita about what to say when visiting the sick on Shabbat ('Shabbat hi milizok u'refua kerova lavo'), which is precisely what the prose under 'Shammai v. Hillel' (heading 0) explicitly analyzes and interprets.",
+      "chosen_heading": "Shammai v. Hillel",
+      "current_heading": "Shammai v. Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Blessings for Sick",
+    "candidates": [
+      "Chanina Stringency",
+      "Blessings for Sick",
+      "Aramaic Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the three formulations (Rabbi Yehuda, Rabbi Yosei, Shevna of Jerusalem) and the conclusion about Rabbi Chanina's ruling aligning with Rabbi Yosei, which is precisely what the 'Blessings for Sick' prose discusses.",
+      "chosen_heading": "Blessings for Sick",
+      "current_heading": "Blessings for Sick",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Aramaic Prayer",
+    "candidates": [
+      "Aramaic Prayer",
+      "Visiting Etiquette"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the permissibility of Aramaic prayer when visiting the sick and the concept that the Divine Presence rests with the ill person, which is precisely what the 'Aramaic Prayer' section's prose addresses.",
+      "chosen_heading": "Aramaic Prayer",
+      "current_heading": "Aramaic Prayer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119
+    ],
+    "current_heading": "Visiting Etiquette",
+    "candidates": [
+      "Visiting Etiquette",
+      "No Exceptions Rule",
+      "Group Exception",
+      "Torch Problem",
+      "Wealthy Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses visiting the sick, the Divine Presence above the patient's head, and God sustaining the sick person \u2014 all of which are precisely what the 'Visiting Etiquette' section's prose discusses.",
+      "chosen_heading": "Visiting Etiquette",
+      "current_heading": "Visiting Etiquette",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Wealthy Exception",
+    "candidates": [
+      "No Exceptions Rule",
+      "Group Exception",
+      "Torch Problem",
+      "Wealthy Exception",
+      "Yishmael Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rabba's ruling about the prohibition applying even at great heights (matching 'No Exceptions Rule'), then the one-vs-two distinction (Group Exception), then Rav Huna's bonfire ruling (Torch Problem) \u2014 but all three sub-topics are contained in this single Talmudic passage, and the opening content about heights and lo plug most naturally anchors it under heading 0, which is where the passage begins and which discusses the same content about the lamp being high and no exceptions applying.",
+      "chosen_heading": "No Exceptions Rule",
+      "current_heading": "Wealthy Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "Yishmael Story",
+    "candidates": [
+      "Wealthy Exception",
+      "Yishmael Story",
+      "Torah Engagement",
+      "Vessel Checking",
+      "Permanent v. Temp",
+      "Oil v. Naphtha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both Rava's ruling about a chashuv person (heading 0) and the Yishmael story with Rabbi Abba's resolution (headings 1-2), but since all three prose sections (0, 1, 2) discuss this single unified Talmudic passage, and heading 0 ('Wealthy Exception') is where Rava's statement \u2014 the opening line of this gemara excerpt \u2014 is introduced, the entire passage belongs under heading 0 as it is the first heading whose prose directly addresses the beginning of this text.",
+      "chosen_heading": "Wealthy Exception",
+      "current_heading": "Yishmael Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Oil v. Naphtha",
+    "candidates": [
+      "Torah Engagement",
+      "Vessel Checking",
+      "Permanent v. Temp",
+      "Oil v. Naphtha",
+      "Rav Disagreement",
+      "Household Practices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the contradiction between the two baraitot AND both resolutions (permanent vs. temporary servant, and oil vs. naphtha), so it belongs under 'Vessel Checking' which introduces the entire unit, rather than being split across multiple headings.",
+      "chosen_heading": "Vessel Checking",
+      "current_heading": "Oil v. Naphtha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      150
+    ],
+    "current_heading": "Household Practices",
+    "candidates": [
+      "Rav Disagreement",
+      "Household Practices"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both the Rav/Rabbi Yirmiya bar Abba dispute AND the illustrative story, and candidate 0's prose explicitly covers both the dispute and references Rav Yirmiya's position, while candidate 1's prose only discusses the story \u2014 but since the passage is a single indivisible unit containing all this content, it belongs under the heading whose prose best introduces the full passage, which is candidate 0 (the disagreement section that sets up the dispute and its resolution).",
+      "chosen_heading": "Rav Disagreement",
+      "current_heading": "Household Practices",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "current_heading": "Kinyan Ochel Maachil",
+    "candidates": [
+      "Setup: Property Types",
+      "Kinyan Ochel Maachil",
+      "Rava's Gezeira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together constitute the gemara's discussion of the principle 'kol ha'ochel maachil' \u2014 the challenge from uncircumcised/impure priests, the challenge from the mamzer case, and Ravina's resolution distinguishing kinyan ochel \u2014 which is precisely what the prose of heading 1 ('Kinyan Ochel Maachil') describes.",
+      "chosen_heading": "Kinyan Ochel Maachil",
+      "current_heading": "Kinyan Ochel Maachil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rava's Gezeira",
+    "candidates": [
+      "Rava's Gezeira",
+      "Rav Ashi: Gezeira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's explanation that the slaves could eat by Torah law but the Sages decreed otherwise so the wife would feel like a prostitute and the husband would divorce her \u2014 exactly matching the prose in candidate 0 ('Rava's Gezeira').",
+      "chosen_heading": "Rava's Gezeira",
+      "current_heading": "Rava's Gezeira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Rav Ashi: Gezeira",
+    "candidates": [
+      "Rav Ashi: Gezeira",
+      "Almanah Kohenet Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Ashi's gezeira and the immediate Talmudic challenge about a bat Yisrael married to a kohen \u2014 are explicitly described and anticipated in the prose of heading 0 ('Rav Ashi: Gezeira'), which discusses exactly this objection and notes it forces Rav Ashi to refine his position.",
+      "chosen_heading": "Rav Ashi: Gezeira",
+      "current_heading": "Rav Ashi: Gezeira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Almanah Kohenet Case",
+    "candidates": [
+      "Almanah Kohenet Case",
+      "Uniform Gezeira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's explanation about the almanah kohenet case, which is precisely what candidate 0's prose discusses \u2014 the widow priestess who rationalizes that her slaves can return to eating terumah from her father's house, not realizing she has become a chalalah.",
+      "chosen_heading": "Almanah Kohenet Case",
+      "current_heading": "Almanah Kohenet Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Uniform Gezeira",
+    "candidates": [
+      "Uniform Gezeira",
+      "The Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's question about a widowed bat Yisrael and the answer that the Sages did not distinguish (lo plug rabanan), which is precisely what the 'Uniform Gezeira' prose describes.",
+      "chosen_heading": "Uniform Gezeira",
+      "current_heading": "Uniform Gezeira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "The Dispute",
+    "candidates": [
+      "The Dispute",
+      "Rav Yehuda Position",
+      "Rav Ami Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the opening statement of the dispute \u2014 the question posed and the two competing rulings named \u2014 which matches the 'The Dispute' prose that frames the question of whether she retrieves objects or monetary value, before the individual positions are elaborated in subsequent sections.",
+      "chosen_heading": "The Dispute",
+      "current_heading": "The Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Rav Ami Position",
+    "candidates": [
+      "Rav Yehuda Position",
+      "Rav Ami Position",
+      "Renting Analogy Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three voices \u2014 Rav Yehuda's position, Rav Ami's counter, and Rav Safra's rebuttal of Rav Ami \u2014 and the first and foundational position introduced is Rav Yehuda's, making heading 0 ('Rav Yehuda Position') the natural home for this unified block of Gemara text.",
+      "chosen_heading": "Rav Yehuda Position",
+      "current_heading": "Rav Ami Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42
+    ],
+    "current_heading": "Renting Analogy Test",
+    "candidates": [
+      "Rav Ami Position",
+      "Renting Analogy Test",
+      "Responsibility vs Own."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the challenge from the renting-a-cow mishna and the gemara's rejection of that challenge, which is precisely what the 'Renting Analogy Test' prose describes \u2014 the baraita about a Yisrael renting from a kohen and vice versa, and the response distinguishing degrees of achrayus (rental vs. full assessed-value responsibility).",
+      "chosen_heading": "Renting Analogy Test",
+      "current_heading": "Renting Analogy Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Responsibility vs Own.",
+    "candidates": [
+      "Responsibility vs Own.",
+      "Baraita: No Sale Right",
+      "Rava's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0's prose explicitly describes both baraitot \u2014 the shen v'ayin baraita supporting Rav Ami and the no-sale baraita supporting Rav Yehuda \u2014 as reported by Rabbah and Rav Yosef at the end of Rav Nachman's lecture, which is precisely what both items contain.",
+      "chosen_heading": "Responsibility vs Own.",
+      "current_heading": "Responsibility vs Own.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Rava's Ruling",
+    "candidates": [
+      "Baraita: No Sale Right",
+      "Rava's Ruling",
+      "Shroud Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rava's ruling that the halacha follows Rav Yehuda based on the rationale of shevach beit aviha, which is precisely what the 'Rava's Ruling' section discusses.",
+      "chosen_heading": "Rava's Ruling",
+      "current_heading": "Rava's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Shroud Story",
+    "candidates": [
+      "Shroud Story",
+      "Collection Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the incident of the woman, the robe, and its use as a shroud \u2014 exactly what the 'Shroud Story' prose discusses, before the subsequent legal analysis covered under 'Collection Requirement'.",
+      "chosen_heading": "Shroud Story",
+      "current_heading": "Shroud Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Collection Requirement",
+    "candidates": [
+      "Collection Requirement",
+      "Two Vessels Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items directly address the 'Collection Requirement' topic: Rava's ruling that the shroud was acquired by the dead, the challenge about Rav Yehuda's halakha, the response about mchusar guvaina, and Rava's principle about hekdesh/chametz/shichrur releasing liens \u2014 all of which the prose under heading 0 explicitly discusses in detail.",
+      "chosen_heading": "Collection Requirement",
+      "current_heading": "Collection Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Two Vessels Example",
+    "candidates": [
+      "Two Vessels Example",
+      "Ubar Posel",
+      "Rabbi Yossi's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Yehuda's two-vessels scenario and the gemara's question about whether this ruling was necessary, which is precisely what the 'Two Vessels Example' prose describes in detail.",
+      "chosen_heading": "Two Vessels Example",
+      "current_heading": "Two Vessels Example",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Rabbi Yossi's Principle",
+    "candidates": [
+      "Ubar Posel",
+      "Rabbi Yossi's Principle",
+      "Reason A: Non-Kohen",
+      "Reason B: Yalud Maachil"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the Mishna text introducing the case of the bat Yisrael married to a kohen and the fetus's role in preventing slaves from eating terumah, which is precisely what heading 0 ('Ubar Posel') describes in its prose \u2014 the setup of the case and the rule lo yochlu avadeha biterumah mipnei chelko shel ubar \u2014 before the deeper analysis of Rabbi Yossi's principle begins in heading 1.",
+      "chosen_heading": "Ubar Posel",
+      "current_heading": "Rabbi Yossi's Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Reason B: Yalud Maachil",
+    "candidates": [
+      "Reason A: Non-Kohen",
+      "Reason B: Yalud Maachil",
+      "Sages: No Fetus Share"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the gemara's debate between Rabba and Rav Yosef over Rabbi Yosei's two possible rationales, the nafka mina of a bat kohen mother, the baraita with 'zo shamati v'zo lo shamati,' and the difficulty this poses for reason B \u2014 exactly the content described in candidate 1's prose.",
+      "chosen_heading": "Reason B: Yalud Maachil",
+      "current_heading": "Reason B: Yalud Maachil",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Sages: No Fetus Share",
+    "candidates": [
+      "Sages: No Fetus Share",
+      "Two Assumptions",
+      "Shmuel's Stance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Rabbis' position that the fetus does not affect teruma-eating rights and that slaves eat by virtue of children, brothers, or extended family \u2014 exactly what the 'Sages: No Fetus Share' prose describes.",
+      "chosen_heading": "Sages: No Fetus Share",
+      "current_heading": "Sages: No Fetus Share",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Shmuel's Stance",
+    "candidates": [
+      "Two Assumptions",
+      "Shmuel's Stance",
+      "Fetus Can Inherit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's challenge to Shmuel's stance \u2014 whether his attribution of the ruling to Rabbi Yosei implies he disagrees \u2014 which is precisely what the 'Shmuel's Stance' section's prose discusses.",
+      "chosen_heading": "Shmuel's Stance",
+      "current_heading": "Shmuel's Stance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Fetus Can Inherit",
+    "candidates": [
+      "Fetus Can Inherit",
+      "All Scenarios"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Zakkai's objection about Rabbi Yossi's testimony from Shemaya and Avtalyon and Rav Ashi's distinction between 'accepted' and 'acknowledged,' which is explicitly narrated in candidate 0's prose.",
+      "chosen_heading": "Fetus Can Inherit",
+      "current_heading": "Fetus Can Inherit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "All Scenarios",
+    "candidates": [
+      "All Scenarios",
+      "R. Yishmael Position",
+      "R. Shimon Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full range of scenarios from the baraita (left children, left pregnant, left both) and concludes with Rabbi Yosei's ruling, which is precisely what the 'All Scenarios' prose describes in detail.",
+      "chosen_heading": "All Scenarios",
+      "current_heading": "All Scenarios",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118
+    ],
+    "current_heading": "R. Shimon Position",
+    "candidates": [
+      "R. Yishmael Position",
+      "R. Shimon Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Yishmael Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents both Rabbi Yishmael bar Rabbi Yossi's ruling AND Rabbi Shimon ben Yo\u1e25ai's ruling as quoted text, and the prose of candidate 0 ('R. Yishmael Position') explicitly discusses both positions together, noting that the gemara will unpack them subsequently \u2014 making it the natural home for the quoted tannaitic statements themselves.",
+      "second_heading": "R. Shimon Position",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the gemara's analytical unpacking of Rabbi Shimon ben Yo\u1e25ai's position (questions and answers about his reasoning), which matches candidate 1's prose describing the full elaboration of his ruling being taken up in the continuation of the gemara.",
+      "current_heading": "R. Shimon Position",
+      "moved": true
+    }
+  }
+]

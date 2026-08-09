@@ -1,20 +1,13 @@
-# Kiddushin 11 — Daf Yomi Shiur
+[DAF:10b]
+## Kohen's Wife Eats Terumah
 
-## Terumah: Erusin/Kiddushim
+
 
 ### Kohen's Wife Terumah
 
-> **Hebrew/Aramaic:** עַד שֶׁתִּכָּנֵס לַחוּפָּה, מִשּׁוּם דְּעוּלָּא.
->
-> **Translation:** **until she enters the** wedding **canopy, due to** the reason **of Ulla,** lest she feed her non-priestly family members the *teruma* that her husband has given her.
-
 The *gemara* on daf 11 opens in the midst of a discussion about whether the wife of a *kohen* eats *terumah* from the time of *erusin* or only from the time of *nisuin*. This question arose organically from the *gemara*'s broader examination of the modes by which *kiddushin* is effected — *kesef*, *shtar*, and *bia*. The specific issue with *bia* is whether it creates *kiddushin* alone or whether, since the second stage of *nisuin* is when the couple actualizes their marriage and begins living together, an act of *bia* in the context of *kiddushin* automatically advances directly to *nisuin*. As a way of probing that question, the *gemara* turned to the case of a *kohen*'s wife and the point at which she becomes entitled to eat *terumah*.
 
-### Kinyan Kaspo vs. Beveitcha
-
-> **Hebrew/Aramaic:** וּבֶן בַּג בַּג? סִימְפּוֹן, בַּעֲבָדִים לֵית לֵיהּ. אִי מוּמִין שֶׁבַּגָּלוּי הוּא – הָא קָא חָזֵי לֵיהּ. אִי מִשּׁוּם מוּמִין שֶׁבַּסֵּתֶר – מַאי נָפְקָא לֵיהּ מִינֵּיהּ? לִמְלָאכָה קָא בָעֵי לֵיהּ לָא אִיכְפַּת לֵיהּ.
->
-> **Translation:** The Gemara asks: **And ben Bag Bag,** what does he say about this *a fortiori* inference? The Gemara answers that he maintains that this *a fortiori* inference is invalid because **he does not accept** that there can be a claim of ***simfon* with regard to** the acquisition **of slaves.** The reason is that **if it is an exposed blemish** that the master found on the slave, **he saw** the blemish and purchased him regardless. Therefore, he cannot later claim that the transaction was unfair. **If** it is **due to hidden blemishes** on his slave, **what difference does that make to him?** Why should it matter if a slave has hidden blemishes? **He needs him** only **for labor,** and **he does not care** if he has hidden blemishes that do not impair his ability to perform labor.
+### Kinyan Kaspo vs. Beveitch
 
 Two distinct models emerge from the discussion. The first, evoked by the *braita* that the *gemara* cites in connection with Yochanan ben Bag Bag, frames *kiddushin* as analogous to the acquisition of a slave: just as a slave eats *terumah* by virtue of *kinyan kaspo* — the master's act of purchase — so too the *arusah* should eat *terumah* from the moment of *kiddushin*, since she has been, in a sense, acquired. The second model is grounded in the verse *kol tahor beveitcha yochal kodesh* — every pure member of your household may partake of holy things. Under this reading, the woman enters the man's household only at *nisuin*, when she leaves her father's house and moves into his. She would therefore have no biblical entitlement to *terumah* until *nisuin*.
 
@@ -26,11 +19,15 @@ What appears on its surface to be a dispute among *Tannaim* about the biblical r
 
 ## Simpon (Defect) Concern
 
+
+
 ### Ben Bag Bag's Question
 
-> **Hebrew/Aramaic:** נִמְצָא גַּנָּב אוֹ קוּבְיוּסְטוּס – הִגִּיעוֹ. מַאי אָמְרַתְּ, לִסְטִים מְזוּיָּין אוֹ (נִכְתַּב) [מוּכְתָּב] לַמַּלְכוּת? הָנְהוּ קָלָא אִית לְהוּ!
->
-> **Translation:** And even if this slave **is discovered** to be **a thief or a gambler [*kuvyustus*],** which are considered hidden blemishes that affect his work, **it has come to him,** i.e., the slave is acquired by the one who purchased him and the transaction is non-refundable. The reason is that the buyer should have suspected behavior of this kind, which is common among slaves, and therefore he suffers the loss. **What do you say?** Perhaps he discovered that the slave is **an armed bandit** and subject to be killed by the government for this, **or sentenced** to death **by the government** for another reason, and is sought by the authorities. This is not a valid claim, since **these** matters **generate publicity,** and therefore he is assumed to have taken the risk into consideration.
+> **Hebrew/Aramaic:** רָבִינָא אָמַר: מִדְּאוֹרָיְיתָא – מִיפְשָׁט פְּשִׁיטָא לֵיהּ דְּאָכְלָה, וּמִדְּרַבָּנַן הוּא דִּשְׁלַח לֵיהּ.
+> **Translation:** **Ravina said** that **by Torah law, it is obvious to** Yoḥanan ben Bag Bag **that** she **may partake of** *teruma* also when she is betrothed to a priest through money alone, as she is acquired with his money. **And** the question **that he sent him** is referring to the *halakha* **by rabbinic law.**
+
+> **Hebrew/Aramaic:** וְהָכִי שְׁלַח לֵיהּ: שָׁמַעְתִּי עָלֶיךָ שֶׁאַתָּה אוֹמֵר אֲרוּסָה בַּת יִשְׂרָאֵל אוֹכֶלֶת בִּתְרוּמָה, וְלָא חָיְישַׁתְּ לְסִימְפּוֹן. שְׁלַח לֵיהּ: וְאַתָּה אִי אַתָּה אוֹמֵר כֵּן? מוּחְזְקַנִי בְּךָ שֶׁאַתָּה בָּקִי בְּחַדְרֵי תוֹרָה, לִדְרוֹשׁ בְּקַל וָחוֹמֶר אִי אַתָּה יוֹדֵעַ?!
+> **Translation:** Ravina elaborates: **And this is** the question **that he sent to him: I heard about you that you say** that in practice **the daughter of a non-priest betrothed** to a priest **may partake of *teruma*, and we are not concerned about an annulling factor [*simfon*],** i.e., that he might find some blemish in her through which the betrothal would be considered retroactively invalid. If so, she would have eaten *teruma* when she was not permitted to do so. And it was with regard to this issue that Rabbi Yehuda ben Beteira **sent to him: And do you not say this? I know about you that you are an expert in** many **areas of Torah; do you not know how to teach** *halakhot* **based on an *a fortiori*** inference?
 
 Picking up at the bottom of 10b, the *gemara* frames its analysis through the exchange between Yochanan ben Bag Bag and Rabbi Yehuda ben Beteira. Ravina had already established that the biblical rule is settled — *mi-de-oraisa mipsha peshita lei de-achla*, everyone agrees she may eat *terumah* biblically from the time of *kiddushin* — and that the message Yochanan ben Bag Bag sent to Rabbi Yehuda ben Beteira concerned only the rabbinic dimension. The message reads: *shamati alecha she-atah omer arusah bat Yisrael lo achlah biterumah velo chayashta lesimpon* — I have heard that you say a betrothed Israelite woman does not eat *terumah*, and that you are not concerned about *simpon*.
 
@@ -42,29 +39,43 @@ Rabbi Yehuda ben Beteira responds to Yochanan ben Bag Bag: *muchzani bach she-at
 
 The *kal vachomer* is admittedly unusual in that the underlying issue is a rabbinic concern, which makes the logical leverage of a *kal vachomer* from a biblical case somewhat awkward. Nevertheless, the basic thrust is: if we are not worried about *simpon* in the slave case, why are we worried about it in the wife case?
 
+[DAF:11a]
 ### Beteira's Response
 
 Rabbi Yehuda ben Beteira's answer is that he agrees in practice — an *arusah* does not eat *terumah* — but not for the reason of *simpon*. Rather: *aval mah e'eseh she-harei amru chakhamim arusah bat Yisrael einah ochelet biterumah ad she-tikanes lachuppah* — what can I do? The Sages ruled that a betrothed Israelite woman does not eat *terumah* until *chuppah*. And the reason, he explains, is not *simpon* but the reasoning of Ula.
 
+> **Hebrew/Aramaic:** וּמָה שִׁפְחָה כְּנַעֲנִית שֶׁאֵין בִּיאָתָהּ מַאֲכִילָתָהּ בִּתְרוּמָה – כַּסְפָּהּ מַאֲכִילָתָהּ בִּתְרוּמָה, וְלָא חָיְישִׁינַן לְסִימְפּוֹן, זוֹ שֶׁבִּיאָתָהּ מַאֲכִילָתָהּ בִּתְרוּמָה – אֵינוֹ דִּין שֶׁכַּסְפָּהּ מַאֲכִילָתָהּ בִּתְרוּמָה, וְלֹא נֵיחוּשׁ לְסִימְפּוֹן? אֲבָל מָה אֶעֱשֶׂה שֶׁהֲרֵי אָמְרוּ חֲכָמִים: אֲרוּסָה בַּת יִשְׂרָאֵל אֵינָהּ אוֹכֶלֶת בִּתְרוּמָה
+> **Translation:** The *a fortiori* inference is as follows: **If a Canaanite maidservant, whose** engaging in **intercourse** with a priest **does not allow her to partake of *teruma*,** and yet **her** receiving purchase **money allows her to partake of *teruma*, and we are not concerned about *simfon*,** i.e., that the Canaanite maidservant may have some physical blemish that nullifies her purchase retroactively, **is it not logical** with regard to **this** betrothed woman, **whose intercourse** with a priest **allows her to partake of *teruma*, that her** receiving betrothal **money** from the priest should **allow her to partake of *teruma*** even before entering the wedding canopy, **and we should not be concerned about *simfon*? But what can I do, as the Sages said:** By rabbinic law **the daughter of a non-priest betrothed** to a priest **may not partake of *teruma***
+
+> **Hebrew/Aramaic:** עַד שֶׁתִּכָּנֵס לַחוּפָּה, מִשּׁוּם דְּעוּלָּא.
+> **Translation:** **until she enters the** wedding **canopy, due to** the reason **of Ulla,** lest she feed her non-priestly family members the *teruma* that her husband has given her.
+
 ### Ula's Reason
+
 
 Ula's concern is entirely different. If the *kohen* husband sends *terumah* to his *arusah* while she is still living in her father's house, she will share it with her father and brothers — non-*kohanim* who are forbidden to eat *terumah*. This, not the concern over a later-discovered defect, is the rabbinic reason for prohibiting her from eating *terumah* during *erusin*.
 
-The *gemara* thus reframes the entire debate. Rather than a dispute over the biblical rule, we have a dispute between two *amoraim* — or, in the *gemara*'s reconstruction, two rationales within a rabbinic framework — over why the rabbis required the woman to wait until *nisuin*: one opinion cites the fear of *simpon*, the other cites Ula's concern about her family members partaking of *terumah* in her father's house.
+The *gemara* thus reframes the entire debate. What might have looked like a dispute over the biblical rule — whether a woman biblically eats *terumah* from the time of *erusin*, based on the principle of *kinyan kaspo*, or only from the time of *nisuin*, based on the principle of *beisecha* — is actually no dispute at all on the biblical level. According to everyone, she biblically eats from the time of *erusin*. The dispute is only over which rabbinic concern drove the Sages to require her to wait until *nisuin*: one rationale cites the fear of *simpon*, the other cites Ula's concern about her father and brothers partaking of *terumah* while she remains in her father's house and is not yet living with her husband.
+
+Rather than a dispute over the biblical rule, we have a dispute between two *amoraim* — or, in the *gemara*'s reconstruction, two rationales within a rabbinic framework — over why the rabbis required the woman to wait until *nisuin*: one opinion cites the fear of *simpon*, the other cites Ula's concern about her family members partaking of *terumah* in her father's house.
 
 ### Wife vs. Slave Defect
 
-> **Hebrew/Aramaic:** מִכְּדִי, בֵּין לְמָר וּבֵין לְמָר לָא אָכְלָה, מַאי בֵּינַיְיהוּ?
->
-> **Translation:** The Gemara asks: **Now, both according to** the one **Master,** Yoḥanan ben Bag Bag, **and according to** the other **Master,** Rabbi Yehuda ben Beteira, the daughter of a non-priest betrothed to a priest **may not partake** of *teruma* by rabbinic decree. **What,** then, **is** the difference **between them?**
-
 Having established the two competing rabbinic rationales, the *gemara* asks why *simpon* should concern us more with regard to the wife than it does with regard to the slave, given that we clearly do not defer the slave's *terumah* eating on account of *simpon*. The answer unfolds in two steps.
 
-### Visible vs. Hidden Defects
+### Visible vs. Hidden Defect
 
 First: *i mi-mah she-bi-galui ha kakhazi lei* — anything visible about the slave, the buyer could have seen at the time of purchase. What remains to discover? The slave market is buyer beware. Whatever was evident, the buyer either noticed and accepted or had the responsibility to notice. As for a hidden physical defect — *mum she-bi-seser* — the *gemara* asks: *mai nafka mina?* What difference does a hidden physical flaw make in a slave? *Bemlacha kabaie lei* — you buy a slave for labor, not for appearance. A hidden physical mark has no bearing on the purpose of the purchase and cannot be claimed as a substantive defect. By a wife, the calculus is different: once they are intimate, a physical characteristic that the husband finds objectionable could, within this framework, become the basis for a claim that the *kiddushin* was a *mekach ta'os*. The asymmetry is troubling, and it reflects a commodification model that has serious implications.
 
-### Gannav, Kubyustos (Gambler)
+> **Hebrew/Aramaic:** וּבֶן בַּג בַּג? סִימְפּוֹן, בַּעֲבָדִים לֵית לֵיהּ. אִי מוּמִין שֶׁבַּגָּלוּי הוּא – הָא קָא חָזֵי לֵיהּ. אִי מִשּׁוּם מוּמִין שֶׁבַּסֵּתֶר – מַאי נָפְקָא לֵיהּ מִינֵּיהּ? לִמְלָאכָה קָא בָעֵי לֵיהּ לָא אִיכְפַּת לֵיהּ.
+> **Translation:** The Gemara asks: **And ben Bag Bag,** what does he say about this *a fortiori* inference? The Gemara answers that he maintains that this *a fortiori* inference is invalid because **he does not accept** that there can be a claim of ***simfon* with regard to** the acquisition **of slaves.** The reason is that **if it is an exposed blemish** that the master found on the slave, **he saw** the blemish and purchased him regardless. Therefore, he cannot later claim that the transaction was unfair. **If** it is **due to hidden blemishes** on his slave, **what difference does that make to him?** Why should it matter if a slave has hidden blemishes? **He needs him** only **for labor,** and **he does not care** if he has hidden blemishes that do not impair his ability to perform labor.
+
+> **Hebrew/Aramaic:** נִמְצָא גַּנָּב אוֹ קוּבְיוּסְטוּס – הִגִּיעוֹ. מַאי אָמְרַתְּ, לִסְטִים מְזוּיָּין אוֹ (נִכְתַּב) [מוּכְתָּב] לַמַּלְכוּת? הָנְהוּ קָלָא אִית לְהוּ!
+> **Translation:** And even if this slave **is discovered** to be **a thief or a gambler [*kuvyustus*],** which are considered hidden blemishes that affect his work, **it has come to him,** i.e., the slave is acquired by the one who purchased him and the transaction is non-refundable. The reason is that the buyer should have suspected behavior of this kind, which is common among slaves, and therefore he suffers the loss. **What do you say?** Perhaps he discovered that the slave is **an armed bandit** and subject to be killed by the government for this, **or sentenced** to death **by the government** for another reason, and is sought by the authorities. This is not a valid claim, since **these** matters **generate publicity,** and therefore he is assumed to have taken the risk into consideration.
+
+### Gannav, Kubyustos Slaves
+
+
 
 What about character defects that could not have been observed at the slave market? The *gemara* raises the case of *nimtza gannav o kubyustos* — if the slave turned out to be a thief or a *kubyustos*. The *gemara* answers: *hige'o* — you got what you bargained for. Such qualities are to be expected among slaves, and the buyer cannot claim surprise.
 
@@ -76,23 +87,19 @@ Tosafot's discussion of the word *kubyustos* is worth pausing on. Rashi explains
 
 ---
 
-## Kiddushei Bia Nature (II)
-
-### Bia: Statement or Intent
-
-A question arises about the formal requirements of *kiddushei bia*. Does the man need to make a formal declaration — *harei at mekudeshet li b'bia zu* — or is it sufficient that the act be performed in a context of intent toward *kiddushin*, without a specific verbal formula? And does *kiddushei bia* require witnesses in the same way as *kesef* or *shtar*?
-
----
-
 ## Difference: Kibeil/Masar
+
+
 
 ### Practical Difference
 
-> **Hebrew/Aramaic:** אִיכָּא בֵּינַיְיהוּ: קִיבֵּל, מָסַר, וְהָלַךְ.
->
-> **Translation:** The Gemara answers: **The** difference **between them** involves three cases. The Gemara elaborates: If the husband initially **accepted** her blemishes, there is no concern that an annulling factor might lead to the nullification of the betrothal, but there is still concern that she might feed *teruma* to the members of her family. If her father **transferred** her to the betrothed husband's agents, **or** if the father's agents **walked** with the husband's messenger, and therefore she is no longer in her father's house, there is no concern that she might feed her family members *teruma*, but it remains possible that the betrothal will be nullified.
+> **Hebrew/Aramaic:** מִכְּדִי, בֵּין לְמָר וּבֵין לְמָר לָא אָכְלָה, מַאי בֵּינַיְיהוּ?
+> **Translation:** The Gemara asks: **Now, both according to** the one **Master,** Yoḥanan ben Bag Bag, **and according to** the other **Master,** Rabbi Yehuda ben Beteira, the daughter of a non-priest betrothed to a priest **may not partake** of *teruma* by rabbinic decree. **What,** then, **is** the difference **between them?**
 
 Having established that all authorities agree the *arusah* does not eat *terumah* during *erusin*, the *gemara* asks: *mai beinaihu* — what practical difference does it make whether the reason is *simpon* or Ula's concern about her family? Either way she does not eat.
+
+> **Hebrew/Aramaic:** אִיכָּא בֵּינַיְיהוּ: קִיבֵּל, מָסַר, וְהָלַךְ.
+> **Translation:** The Gemara answers: **The** difference **between them** involves three cases. The Gemara elaborates: If the husband initially **accepted** her blemishes, there is no concern that an annulling factor might lead to the nullification of the betrothal, but there is still concern that she might feed *teruma* to the members of her family. If her father **transferred** her to the betrothed husband’s agents, **or** if the father’s agents **walked** with the husband’s messenger, and therefore she is no longer in her father’s house, there is no concern that she might feed her family members *teruma*, but it remains possible that the betrothal will be nullified.
 
 ### Kibeil: Waiver
 
@@ -100,11 +107,15 @@ The first case of *nafka mina* is *kibeil* — where the husband, from the outse
 
 ### Masar V'Halach
 
+
+
 The second case is *masar v'halach* — where the father has handed the girl over to agents of the husband, but she has not yet arrived at the husband's home. She is traveling, no longer in her father's house and no longer surrounded by her non-*kohen* family members. In this case, Ula's concern about her brothers and father sharing the *terumah* does not apply. But the concern of *simpon* remains, since the husband has not yet seen her and could still discover a defect upon *nisuin*. This is the practical divide between the two rationales.
 
 ---
 
 ## Kiddushei Bia Nature (II)
+
+
 
 ### Tosefta: L'Shem Kiddushin
 
@@ -124,12 +135,13 @@ Rav Moshe Feinstein strongly disagreed. His position is that *kiddushei bia*, li
 
 ---
 
-## Kesef Amount: Dinar vs. Peruta
+## Shammai v. Hillel
+
+
 
 ### Shammai vs. Hillel
 
-> **Hebrew/Aramaic:** בְּכֶסֶף, בֵּית שַׁמַּאי אוֹמְרִים בְּדִינָר וְכו׳. מַאי טַעְמַיְיהוּ דְּבֵית שַׁמַּאי? אָמַר רַבִּי זֵירָא: שֶׁכֵּן אִשָּׁה מַקְפֶּדֶת עַל עַצְמָהּ, וְאֵין מִתְקַדֶּשֶׁת בְּפָחוֹת מִדִּינָר.
->
+> **Hebrew/Aramaic:** בְּכֶסֶף, בֵּית שַׁמַּאי אוֹמְרִים בְּדִינָר וְכו׳. מַאי טַעְמַיְיהוּ דְּבֵית שַׁמַּאי? אָמַר רַבִּי זֵירָא: שֶׁכֵּן אִשָּׁה מַקְפֶּדֶת עַל עַצְמָהּ, וְאֵין מִתְקַדֶּשֶׁת בְּפָחוֹת מִדִּינָר.
 > **Translation:** § The Gemara returns to the *halakhot* of the mishna. The mishna teaches that if one betroths a woman **with money, Beit Shammai say** he must betroth her **with** at least **one dinar,** whereas according to the opinion of Beit Hillel even one *peruta* is sufficient. The Gemara asks: **What is the reasoning of Beit Shammai? Rabbi Zeira says:** Their reasoning is **that a woman is particular about herself** and considers it beneath her dignity to be acquired with a paltry sum, **and** therefore she **will not** agree to **be betrothed with less than one dinar.**
 
 With the discussion of *bia* and *terumah* concluded, the *gemara* returns to the topic of *kesef* and the opening disagreement of the *mishnah*: Beit Shammai requires a *dinar* for *kiddushin* by money, while Beit Hillel requires only a *perutah*. The immediate question is why Beit Shammai insists on a *dinar* specifically. If *kesef* for *kiddushin* is essentially symbolic — it is the act of transfer that matters, not the monetary value — why does the amount matter at all, and why a *dinar* in particular?
@@ -142,27 +154,29 @@ This last equivalence is crucial for understanding several other halachic amount
 
 ### Makpedet Al Atzma
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: אֶלָּא מֵעַתָּה, כְּגוֹן בְּנָתֵיהּ דְּרַבִּי יַנַּאי, דְּקָפְדָן אַנַּפְשַׁיְיהוּ, וְלָא מִקַּדְּשָׁן בְּפָחוֹת מִתַּרְקְבָא דְּדִינָרֵי, הָכִי נָמֵי דְּאִי פָּשְׁטָה יָדָהּ וְקִבְּלָה חַד זוּזָא מֵאַחֵר, הָכִי נָמֵי דְּלָא הָווּ קִדּוּשִׁין?
->
-> **Translation:** **Abaye said to him: If that is so, with regard to Rabbi Yannai's daughters, for example, who are** very **particular about themselves** and their honor, **and they will not** agree to **be betrothed with less than three *kav* of dinars** due to their status, **so too** will you say **that if she reaches out her hand and accepts one dinar from another** man, **so too,** this **is not a betrothal?**
-
 The *gemara* cites Rabbi Zeira's explanation of Beit Shammai's position: *sheken isha makpedes al atzma ve-ein miskadeshes b'pachos midinar* — a woman has self-respect and will not consent to be betrothed for less than a *dinar*. The rationale is that Beit Shammai's minimum is grounded in a woman's dignity: even if the *kesef* of *kiddushin* is in some sense symbolic, there is a minimum below which the amount becomes offensive and demeaning.
 
 One might try to reconcile this with the view that *kiddushin* is purely symbolic by saying: even symbolic acts require a minimum threshold of seriousness. A gift that is too trivial signals contempt rather than commitment, and even if the legal act would technically be complete, the framework requires that the symbolic gesture carry some minimum weight. However, the difficulty with Rabbi Zeira's rationale is that it is inherently subjective. Dignity means different things to different people, and a minimum rooted in personal *hakpada* — individual insistence and sensitivity — does not yield an objective legal standard.
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: אֶלָּא מֵעַתָּה, כְּגוֹן בְּנָתֵיהּ דְּרַבִּי יַנַּאי, דְּקָפְדָן אַנַּפְשַׁיְיהוּ, וְלָא מִקַּדְּשָׁן בְּפָחוֹת מִתַּרְקְבָא דְּדִינָרֵי, הָכִי נָמֵי דְּאִי פָּשְׁטָה יָדָהּ וְקִבְּלָה חַד זוּזָא מֵאַחֵר, הָכִי נָמֵי דְּלָא הָווּ קִדּוּשִׁין?
+> **Translation:** **Abaye said to him: If that is so, with regard to Rabbi Yannai’s daughters, for example, who are** very **particular about themselves** and their honor, **and they will not** agree to **be betrothed with less than three *kav* of dinars** due to their status, **so too** will you say **that if she reaches out her hand and accepts one dinar from another** man, **so too,** this **is not a betrothal?**
 
 ---
 
 ## Subjective vs. Objective
 
+
+
 ### Alas Ma'ata
 
-> **Hebrew/Aramaic:** אֲמַר לֵיהּ: פָּשְׁטָה יָדָהּ וְקִבְּלָהּ לָא קָאָמֵינָא, כִּי קָאָמֵינָא, דְּקַדְּשַׁהּ בְּלֵילְיָא, אִי נָמֵי דְּשַׁוִּיָה שָׁלִיחַ.
->
-> **Translation:** Rabbi Zeira **said to** Abaye: **I did not say** that this *halakha* includes a case where **she reached out her hand and accepted** a betrothal. She has the right to willingly relinquish her dignity. **When I said** this *halakha* I was referring to a case **where he betrothed her at night** and she did not see what she was being given. **Alternatively, where she appointed an agent** to betroth her but did not explicitly tell him how much she wished to receive for her betrothal. In these cases it is assumed that she is particular about her honor and will not agree to be betrothed for less than one dinar.
 
 This objection is exactly what the *gemara* raises. If the rule is based on a woman's sense of dignity and self-respect, then the daughters of Rabbi Yannai — a wealthy family — would be *makpid* on far more than a *dinar* and would not consent to *kiddushin* for anything less than a basketful of gold coins. Would we say that a *dinar* is insufficient for them? And conversely, if a woman actively extends her hand and accepts a *zuz* — *pashta yada ve-kibla chad zuza me-acher* — surely the *kiddushin* takes effect even for a wealthy woman who normally would demand more. The *gemara* answers: *pashta yada ve-kibla lo kamina* — that case, where she consciously and willingly accepted, is not the one under discussion.
 
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: פָּשְׁטָה יָדָהּ וְקִבְּלָהּ לָא קָאָמֵינָא, כִּי קָאָמֵינָא, דְּקַדְּשַׁהּ בְּלֵילְיָא, אִי נָמֵי דְּשַׁוִּיָה שָׁלִיחַ.
+> **Translation:** Rabbi Zeira **said to** Abaye: **I did not say** that this *halakha* includes a case where **she reached out her hand and accepted** a betrothal. She has the right to willingly relinquish her dignity. **When I said** this *halakha* I was referring to a case **where he betrothed her at night** and she did not see what she was being given. **Alternatively, where she appointed an agent** to betroth her but did not explicitly tell him how much she wished to receive for her betrothal. In these cases it is assumed that she is particular about her honor and will not agree to be betrothed for less than one dinar.
+
 ### Daughters of Rabbi Yannai
+
 
 The *gemara* clarifies the scope of Beit Shammai's ruling: it applies specifically when she does not know what is being given — *de-kadsha beleilya*, if the betrothal took place at night and she could not count the money, or *de-shavsha shaliach*, if she had appointed an agent to receive the *kiddushin* on her behalf. In those cases, since she cannot assess what she is receiving, we invoke a presumed universal minimum standard of *hakpada*. If she consciously accepts anything — even a *perutah* — then even Beit Shammai concedes the *kiddushin* takes effect.
 
@@ -172,11 +186,13 @@ This resolution works, but it is intellectually unsatisfying. The rule is ultima
 
 ## Kesef Tzuri vs. Medina
 
+
+
 ### Two Coinage Systems
 
-> **Hebrew/Aramaic:** רַב יוֹסֵף אָמַר: טַעְמַיְיהוּ דְּבֵית שַׁמַּאי כִּדְרַב יְהוּדָה אָמַר רַב אַסִּי. דְּאָמַר רַב יְהוּדָה אָמַר רַב אַסִּי: כׇּל כֶּסֶף הָאָמוּר בַּתּוֹרָה – כֶּסֶף צוֹרִי, וְשֶׁל דִּבְרֵיהֶם – כֶּסֶף מְדִינָה.
->
+> **Hebrew/Aramaic:** רַב יוֹסֵף אָמַר: טַעְמַיְהוּ דְּבֵית שַׁמַּאי כִּדְרַב יְהוּדָה אָמַר רַב אַסִּי. דְּאָמַר רַב יְהוּדָה אָמַר רַב אַסִּי: כׇּל כֶּסֶף הָאָמוּר בַּתּוֹרָה – כֶּסֶף צוֹרִי, וְשֶׁל דִּבְרֵיהֶם – כֶּסֶף מְדִינָה.
 > **Translation:** **Rav Yosef said** a different explanation: **The reasoning of Beit Shammai is in accordance with** that **which Rav Yehuda** says that **Rav Asi says. As Rav Yehuda says** that **Rav Asi says: Every** sum of **money mentioned in the Torah is** in **Tyrian coinage,** i.e., dinars from Tyre, which have a high value. **And** any amount of money set **by rabbinic law** is measured by **provincial coinage.** Local currency, i.e., that which existed at the time of the Sages of the Mishna, was worth about one-eighth of the value of Tyrian coinage. Beit Shammai follow the standard sum of the Torah, and the smallest possible amount in Tyrian currency is the silver coin, which is worth one dinar.
+
 
 Rav Yosef introduces a different explanation, citing a rule in the name of Rav Yehuda citing Rav Assi: *kol kesef ha-amur ba-Torah kesef Tzuri, u-veshel divreihem kesef medinah* — whenever the Torah mentions *kesef*, it refers to Tyrian silver coinage (*kesef Tzuri*); when the Rabbis fix a monetary obligation, they use the local coinage (*kesef Medina*).
 
@@ -188,21 +204,37 @@ The practical impact is immediate. The *gemara* on *kiddushin* uses the *gezeira
 
 ### Ketubah Application
 
-> **Hebrew/Aramaic:** גּוּפָא, אָמַר רַב יְהוּדָה אָמַר רַב אַסִּי: כׇּל כֶּסֶף הָאָמוּר בַּתּוֹרָה – כֶּסֶף צוֹרִי, וְשֶׁל דִּבְרֵיהֶם – כֶּסֶף מְדִינָה. וּכְלָלָא הוּא?
->
-> **Translation:** The Gemara discusses **the** matter **itself. Rav Yehuda says** that **Rav Asi says: Every** sum of **money mentioned in the Torah is Tyrian coinage, and** any amount of money set **by rabbinic law** is measured by **provincial coinage.** The Gemara asks: **And is** it an established **principle** that any mention of money in the Torah is referring to a silver coin worth at least one dinar?
-
-The most consequential application of this principle is to the *ketubah*. The *ketubah* of a virgin is set at two hundred *zuz*. But are we talking about two hundred *zuz* of *kesef Tzuri* or two hundred *zuz* of *kesef Medina*? This depends entirely on whether the *ketubah* obligation is *de-oraisa* or *de-rabbanan* — a dispute with profound financial implications, since the two amounts differ by a factor of eight. Those who rule that *ketubah* is rabbinic in origin hold that the two hundred *zuz* refers to *zuz medinah*, worth only an eighth of *zuz Tzuri*, making the actual obligation only twenty-five of the larger *zuz*.
+The most consequential application of this principle is to the *ketubah*. The *ketubah* of a virgin is set at two hundred *zuz*. But are we talking about two hundred *zuz* of *kesef Tzuri* or two hundred *zuz* of *kesef Medina*? This depends entirely on whether the *ketubah* obligation is *de-oraisa* or *de-rabbanan* — a dispute with profound financial implications, since the two amounts differ by a factor of eight. Those who rule that *ketubah* is rabbinic in origin hold that the two hundred *zuz* refers to *zuz medinah*, worth only an eighth of *zuz Tzuri*, making the actual obligation only twenty-five of the larger *zuz*. If the obligation is instead *de-oraisa*, then the specified amount must be reckoned in *kesef Tzuri*, and the full weight of that figure applies. The stakes of the underlying question — rabbinic or biblical? — are therefore not merely theoretical; they determine whether a woman's *ketubah* is paid in the high-value royal coinage or in local currency worth a fraction of that amount.
 
 ---
 
 ## Kesef Katzuv vs. Generic
 
+
+
+[DAF:11b]
 ### Rav Assi's Chiddush
 
-> **Hebrew/Aramaic:** וַהֲרֵי טַעֲנָה, דִּכְתִיב: ״כִּי יִתֵּן אִישׁ אֶל רֵעֵהוּ כֶּסֶף אוֹ כֵלִים לִשְׁמֹר״, וּתְנַן: שְׁבוּעַת הַדַּיָּינִין, הַטַּעֲנָה – שְׁתֵּי כֶּסֶף, וְהַהוֹדָאָה – שָׁוֶה פְרוּטָה.
->
-> **Translation:** **But** with regard to **a claim that** someone has not returned a deposit or loan, when the defendant admits that only part of the claim is true, **it is written: "If a man deliver to his neighbor money or vessels to guard** and it be stolen out of the man's house" (Exodus 22:6). The following verses teach that if the thief is not found, the case is brought to a court, where the defendant must take an oath. **And we learned** in a mishna with regard to one who admits to part of a claim (*Shevuot* 38b): **The oath** administered **by the judges** to one who admits to part of a claim is administered only when **the claim** is for at least **two silver** *ma'a*, **and the** defendant's **admission** is to at least **the value of one *peruta*.** If every sum of money mentioned in the Torah is referring to Tyrian coinage, how did the Sages arrive at the amount of two *ma'a* in this case?
+> **Hebrew/Aramaic:** גּוּפָא, אָמַר רַב יְהוּדָה אָמַר רַב אַסִּי: כׇּל כֶּסֶף הָאָמוּר בַּתּוֹרָה – כֶּסֶף צוֹרִי, וְשֶׁל דִּבְרֵיהֶם – כֶּסֶף מְדִינָה. וּכְלָלָא הוּא?
+> **Translation:** The Gemara discusses **the** matter **itself. Rav Yehuda says** that **Rav Asi says: Every** sum of **money mentioned in the Torah is Tyrian coinage, and** any amount of money set **by rabbinic law** is measured by **provincial coinage.** The Gemara asks: **And is** it an established **principle** that any mention of money in the Torah is referring to a silver coin worth at least one dinar?
+
+> **Hebrew/Aramaic:** וַהֲרֵי טַעֲנָה, דִּכְתִיב: ״כִּי יִתֵּן אִישׁ אֶל רֵעֵהוּ כֶּסֶף אוֹ כֵלִים לִשְׁמֹר״, וּתְנַן: שְׁבוּעַת הַדַּיָּינִין, הַטַּעֲנָה – שְׁתֵּי כֶּסֶף, וְהַהוֹדָאָה – שָׁוֶה פְרוּטָה.
+> **Translation:** **But** with regard to **a claim that** someone has not returned a deposit or loan, when the defendant admits that only part of the claim is true, **it is written: “If a man deliver to his neighbor money or vessels to guard** and it be stolen out of the man’s house” (Exodus 22:6). The following verses teach that if the thief is not found, the case is brought to a court, where the defendant must take an oath. **And we learned** in a mishna with regard to one who admits to part of a claim (*Shevuot* 38b): **The oath** administered **by the judges** to one who admits to part of a claim is administered only when **the claim** is for at least **two silver** *ma’a*, **and the** defendant’s **admission** is to at least **the value of one *peruta*.** If every sum of money mentioned in the Torah is referring to Tyrian coinage, how did the Sages arrive at the amount of two *ma’a* in this case?
+
+> **Hebrew/Aramaic:** הָתָם דּוּמְיָא דְּכֵלִים, מָה כֵּלִים שְׁנַיִם – אַף כֶּסֶף שְׁנַיִם, וּמָה כֶּסֶף דָּבָר חָשׁוּב – אַף כֵּלִים דָּבָר חָשׁוּב.
+> **Translation:** The Gemara explains: **There,** the *halakha* is derived from a juxtaposition, as the “money” mentioned in the verse is **similar to “vessels”: Just as** the word **“vessels”** indicates at least **two, so too “money”** is referring to at least **two** coins. **And just as money is a significant item, so too** the **vessels** must be **a significant item.**
+
+> **Hebrew/Aramaic:** וַהֲרֵי מַעֲשֵׂר, דִּכְתִיב: ״וְצַרְתָּ הַכֶּסֶף בְּיָדְךָ״, וּתְנַן: הַפּוֹרֵט סֶלַע מִמְּעוֹת מַעֲשֵׂר שֵׁנִי! ״כֶּסֶף״ ״הַכֶּסֶף״ – רִיבָּה.
+> **Translation:** The Gemara asks: **But** there is the case of the redemption of second **tithe, as it is written: “And bind up the money in your hand”** (Deuteronomy 14:25). **And** yet **we learned** in a mishna (*Ma’aser Sheni* 2:8): With regard to **one who exchanges** copper coins **of second-tithe money** for **a *sela*,** Beit Shammai say: He may exchange the copper coins for the entire silver *sela*. This mishna indicates that second-tithe money, mentioned in the Torah, can be in the form of copper coins, and it is not required to be in the form of silver coins. The Gemara explains that the verse does not say **money,** but **“the money.”** The addition of the article **serves as an amplification.** In other words, this addition teaches that second-tithe money can be in any coinage, including copper coins.
+
+> **Hebrew/Aramaic:** וַהֲרֵי הֶקְדֵּשׁ, דִּכְתִיב: ״וְנָתַן הַכֶּסֶף וְקָם לוֹ״, וְאָמַר שְׁמוּאֵל: הֶקְדֵּשׁ שָׁוֶה מָנֶה שֶׁחִילְּלוֹ עַל שָׁוֶה פְרוּטָה – מְחוּלָּל! הָתָם נָמֵי, ״כֶּסֶף״ ״כֶּסֶף״ יָלֵיף מִמַּעֲשֵׂר.
+> **Translation:** The Gemara asks: **But** there is the case of **consecrated** property, **as it is written: “And he will give the money and it will be assured to him”** (see Leviticus 27:19). **And Shmuel says:** With regard to **consecrated** property **worth one hundred dinars, which was redeemed for** an item **worth one *peruta*, it is redeemed.** Although the word “money” is stated in the Torah, a copper *peruta* may be used. The Gemara answers: **There too,** there is a reason for this unusual *halakha*, as **he derives** this ruling from a verbal analogy of the terms **“money”** mentioned here and **“money” from tithes.** Consequently, one may use any type of coin in this case as well.
+
+> **Hebrew/Aramaic:** וַהֲרֵי קִידּוּשֵׁי אִשָּׁה, דִּכְתִיב: ״כִּי יִקַּח אִישׁ אִשָּׁה וּבְעָלָהּ״, וְגָמַר ״קִיחָה״ ״קִיחָה״ מִשְּׂדֵה עֶפְרוֹן, וּתְנַן: בֵּית הִלֵּל אוֹמְרִים: בִּפְרוּטָה וּבְשָׁוֶה פְרוּטָה. נֵימָא רַב אַסִּי דְּאָמַר כְּבֵית שַׁמַּאי?!
+> **Translation:** The Gemara asks: **But** there is the case of **the betrothal of a woman, as it is written: “When a man takes a woman and engages in sexual intercourse with her”** (Deuteronomy 24:1), **and one derives** betrothal through money by a verbal analogy of the term **“taking”** used here and **“taking” from** the case of **the field of Ephron. And** yet **we learned** in the mishna that **Beit Hillel say** one can betroth a woman **with one *peruta* or with** any item that is **worth one *peruta*.** If so, **shall we say** that **Rav Asi,** who claims that all sums of money mentioned in the Torah are in Tyrian coinage, **stated** his opinion **in accordance with** the opinion of **Beit Shammai?**
+
+> **Hebrew/Aramaic:** אֶלָּא אִי אִיתְּמַר, הָכִי אִיתְּמַר: אָמַר רַב יְהוּדָה אָמַר רַב אַסִּי: כׇּל כֶּסֶף קָצוּב הָאָמוּר בַּתּוֹרָה – כֶּסֶף צוֹרִי, וְשֶׁל דִּבְרֵיהֶם – כֶּסֶף מְדִינָה.
+> **Translation:** **Rather,** the Gemara suggests an alternative explanation: **If** this **was stated,** it **was stated like this: Rav Yehuda says** that **Rav Asi says: Every set** amount of **money stated in the Torah,** i.e., when a specific amount is mentioned, is referring to **Tyrian coinage, and** any amount of money set **by rabbinic law** is in **provincial coinage.**
 
 After this extended analysis, the *gemara* steps back to reconsider the full scope of Rav Assi's rule. The initial presentation — that any *kesef* mentioned in the Torah means *kesef Tzuri* — leads immediately to a contradiction: *kiddushin* is effected by *kesef*, which is a Torah concept, yet Beit Hillel allows a *perutah*, which is copper and not silver. And the redemption of *hekdesh* and *ma'aser sheni*, both of which invoke *kesef*, are permitted even with a *perutah* under certain circumstances.
 
@@ -210,9 +242,8 @@ The *gemara* therefore reformulates the rule. Rav Assi did not say that all *kes
 
 ### Rabbinic Fixed Amounts
 
-> **Hebrew/Aramaic:** אֶלָּא אִי אִיתְּמַר, הָכִי אִיתְּמַר: אָמַר רַב יְהוּדָה אָמַר רַב אַסִּי: כׇּל כֶּסֶף קָצוּב הָאָמוּר בַּתּוֹרָה – כֶּסֶף צוֹרִי, וְשֶׁל דִּבְרֵיהֶם – כֶּסֶף מְדִינָה.
->
-> **Translation:** **Rather,** the Gemara suggests an alternative explanation: **If** this **was stated,** it **was stated like this: Rav Yehuda says** that **Rav Asi says: Every set** amount of **money stated in the Torah,** i.e., when a specific amount is mentioned, is referring to **Tyrian coinage, and** any amount of money set **by rabbinic law** is in **provincial coinage.**
+> **Hebrew/Aramaic:** מַאי קָא מַשְׁמַע לַן? תְּנֵינָא: חָמֵשׁ סְלָעִים שֶׁל בֵּן, שְׁלֹשִׁים שֶׁל עֶבֶד, חֲמִשִּׁים שֶׁל אוֹנֶס וְשֶׁל מְפַתֶּה, מֵאָה שֶׁל מוֹצִיא שֵׁם רַע – כּוּלָּם בְּשֶׁקֶל הַקּוֹדֶשׁ, בְּמָנֶה צוֹרִי!
+> **Translation:** The Gemara asks: If so, **what is** Rav Asi **teaching us?** We have already **learned** all of these *halakhot* explicitly (*Bekhorot* 49b): The payment of **five *sela* for** the redemption of a firstborn **son** (Numbers 18:16); the payment of **thirty** *sela* **for a slave,** paid by the owner of the ox that killed the slave (Exodus 21:32); the **fifty** *sela* paid **by a rapist and by a seducer** (Deuteronomy 22:29); the **one hundred** *sela* paid **by a defamer** (Deuteronomy 22:19); **all of these are** paid **in the sacred shekel,** which is **one hundred dinars in Tyrian** coinage. All of the cases in which a defined amount is mentioned by the Torah have already been taught, and it is unclear what Rav Asi adds.
 
 The second part of Rav Assi's rule — that rabbinic fixed amounts use *kesef Medina* — was his genuine *chiddush*, since the first part is already taught in the *Mishnah*. A *mishnah* in the same context already lists the cases: the five *sela* for *pidyon haben*, the thirty *shekel* for a gored slave, the fifty for rape and seduction, the hundred for the slanderer of a virgin — *kulam be-shekel hakodesh be-maneh Tzuri*, all of them are in *shekel hakodesh*, which is *Tzuri* coinage. That much is explicit and not Rav Assi's innovation.
 
@@ -220,41 +251,37 @@ What Rav Assi adds is that *rabbinic* fixed amounts — even when expressed in t
 
 ### Sela Medina: Istira
 
-> **Hebrew/Aramaic:** מַאי קָא מַשְׁמַע לַן? תְּנֵינָא: חָמֵשׁ סְלָעִים שֶׁל בֵּן, שְׁלֹשִׁים שֶׁל עֶבֶד, חֲמִשִּׁים שֶׁל אוֹנֶס וְשֶׁל מְפַתֶּה, מֵאָה שֶׁל מוֹצִיא שֵׁם רַע – כּוּלָּם בְּשֶׁקֶל הַקּוֹדֶשׁ, בְּמָנֶה צוֹרִי!
->
-> **Translation:** The Gemara asks: If so, **what is** Rav Asi **teaching us?** We have already **learned** all of these *halakhot* explicitly (*Bekhorot* 49b): The payment of **five *sela* for** the redemption of a firstborn **son** (Numbers 18:16); the payment of **thirty** *sela* **for a slave,** paid by the owner of the ox that killed the slave (Exodus 21:32); the **fifty** *sela* paid **by a rapist and by a seducer** (Deuteronomy 22:29); the **one hundred** *sela* paid **by a defamer** (Deuteronomy 22:19); **all of these are** paid **in the sacred shekel,** which is **one hundred dinars in Tyrian** coinage. All of the cases in which a defined amount is mentioned by the Torah have already been taught, and it is unclear what Rav Asi adds.
+> **Hebrew/Aramaic:** ״וְשֶׁל דִּבְרֵיהֶם כֶּסֶף מְדִינָה״ אִיצְטְרִיכָא לֵיהּ, דְּלָא תְּנַן. דְּתַנְיָא: הַתּוֹקֵעַ לַחֲבֵירוֹ – נוֹתֵן לוֹ סֶלַע. וְלָא תֵּימָא מַאי סֶלַע – אַרְבְּעָה זוּזֵי, אֶלָּא מַאי סֶלַע – פַּלְגָא דְזוּזָא, דַּעֲבִידִי אִינָשֵׁי דְּקָרוּ לְפַלְגָא דְזוּזָא אִיסְתֵּירָא.
+> **Translation:** The Gemara answers: **It was necessary for** Rav Asi to teach: **And** any amount of money set **by rabbinic law** is in **provincial coinage, as we did not learn** that *halakha* in that mishna. **As it is taught** in a *baraita*: The Sages established that **one who strikes another** as an act of disrespect **must give him one *sela*** as a fine. **And** Rav Asi is teaching that one should **not say: What** is the meaning of **one *sela*?** It is a Tyrian *sela* worth **four dinar. Rather, what** is the meaning of **one *sela*?** This is the *sela* of provincial coinage, which is worth **half a dinar, as people commonly call half a dinar** by the name ***sela* [*isteira*].**
 
-The *gemara* confirms this: *ve-lo teima mai sela arba'ah zuzay* — do not suppose the *sela* here is worth four *zuzim*. Rather, *ela mai sela palga de-zuzay* — the *sela* here is worth half a *zuz*. *De-avdi inshei tarti le-palga de-zuzay istira* — people call a half-*zuz* an *istira*, and the name *istira* is linguistically connected to *sela*. So the *sela medinah* is the coin called *istira*, which is one-eighth the value of the *sela Tzuri*.
+The *gemara* confirms this: *ve-lo teima mai sela arba'ah zuzay* — do not suppose the *sela* here is worth four *zuzim*. Rather, *ela mai sela palga de-zuzay* — the *sela* here is worth half a *zuz*. *De-avdi inshei tarti le-palga de-zuzay istira* — people call a half-*zuz* an *istira*, and the name *istira* is linguistically connected to *sela*. So the *sela medinah* is the coin called *istira*, which is one-eighth the value of the *sela Tzuri*. It is worth noting that *maneh* does not appear in the list of coin denominations at issue here — a *maneh* being one hundred *zuz* or one hundred *dinar* — because it functions as a quantity rather than a named coinage in the relevant sense.
 
 The application to *ketubah* follows directly. Those who rule that *ketubah* is *de-rabbanan* hold that the two hundred *zuz* of the *ketubah* refers to *zuz medinah*, each worth one-eighth of a *zuz Tzuri*, bringing the total real value down to twenty-five *zuz Tzuri*.
 
 ---
 
-## Slave Model: Dinar
+## Slave Model: Dinар
+
+
 
 ### Slave Girl Model
 
-> **Hebrew/Aramaic:** רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ אוֹמֵר: טַעְמַיְיהוּ דְּבֵית שַׁמַּאי, כִּדְחִזְקִיָּה. דְּאָמַר חִזְקִיָּה: אָמַר קְרָא: ״וְהֶפְדָּהּ״ – מְלַמֵּד שֶׁמְּגָרַעַת מִפִּדְיוֹנָהּ, וְיוֹצְאָה.
->
-> **Translation:** **Rabbi Shimon ben Lakish says** a different explanation: **The reasoning of Beit Shammai,** that the minimum amount with which a woman can be betrothed is one dinar, is **in accordance with** the opinion **of Ḥizkiyya. As Ḥizkiyya says** that **the verse states** with regard to a Hebrew maidservant: **"Then he shall let her be redeemed"** (Exodus 21:8), which **teaches that she can deduct** an amount **from** the price of **her redemption and leave** before her time of slavery is complete. If she comes into possession of money, she can pay the master for her value, less the work she has performed. Beit Shammai derive the *halakhot* of regular betrothal from the case of a Hebrew maidservant, as explained below.
+> **Hebrew/Aramaic:** רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ אוֹמֵר: טַעְמַיְיהוּ דְּבֵית שַׁמַּאי, כִּדְחִזְקִיָּה. דְּאָמַר חִזְקִיָּה: אָמַר קְרָא: ״וְהֶפְדָּהּ״ – מְלַמֵּד שֶׁמְּגָרַעַת מִפִּדְיוֹנָהּ, וְיוֹצְאָה.
+> **Translation:** **Rabbi Shimon ben Lakish says** a different explanation: **The reasoning of Beit Shammai,** that the minimum amount with which a woman can be betrothed is one dinar, is **in accordance with** the opinion **of Ḥizkiyya. As Ḥizkiyya says** that **the verse states** with regard to a Hebrew maidservant: **“Then he shall let her be redeemed”** (Exodus 21:8), which **teaches that she can deduct** an amount **from** the price of **her redemption and leave** before her time of slavery is complete. If she comes into possession of money, she can pay the master for her value, less the work she has performed. Beit Shammai derive the *halakhot* of regular betrothal from the case of a Hebrew maidservant, as explained below.
 
 Having shown that Rav Assi's rule — as now reformulated — applies only to *kesef katzuv*, fixed amounts, and that *kiddushin kesef* is mentioned generically in the Torah without a fixed sum, the *gemara* can no longer use Rav Assi to explain Beit Shammai. A generic mention of *kesef* in the Torah is satisfied by a *perutah*, and Beit Shammai therefore needs a different rationale. Rebbi Shimon ben Lakish provides one, grounding it in the parallel between *kiddushin* and the sale of an *amah ivrit* — a Hebrew maidservant.
 
 ### Pidyon Logic
 
-> **Hebrew/Aramaic:** אִי אָמְרַתְּ בִּשְׁלָמָא דִּיהַב לַהּ דִּינָר – הַיְינוּ דִּמְגָרְעָה וְאָזְלָה עַד פְּרוּטָה, אֶלָּא אִי אָמְרַתְּ דִּיהַב לַהּ פְּרוּטָה, מִפְּרוּטָה מִי מְגָרְעָה? וְדִלְמָא הָכִי קָאָמַר רַחֲמָנָא: הֵיכָא דִּיהַב לַהּ דִּינָר – תְּיגָרַע עַד פְּרוּטָה, הֵיכָא דִּיהַב לַהּ פְּרוּטָה – לָא תְּיגָרַע כְּלָל!
->
-> **Translation:** **Granted, if you say that** when she was acquired **he gave her** at least **one dinar, this is** the meaning of the statement **that she may continually deduct** from that amount **up to one *peruta*. But if you say that** he **gave her one *peruta*** when he purchased her as a maidservant, can **she deduct from one *peruta*?** One *peruta* is already the smallest possible sum of money. The Gemara rejects this argument: **But perhaps this is what the Merciful One is saying:** In a case **where he gave her one dinar, she deducts** from that amount **up to one *peruta*;** in **a case where he gave her one *peruta* she cannot deduct at all.** If he paid one *peruta* for her, the option of redemption does not apply.
-
 The Torah states regarding the *amah ivrit*: *ve-hofdah* — and she shall be redeemed. From this the rabbis derive that she can reduce her purchase price proportionally based on the years of service completed — *migra'at u-mazla*, the price is discounted downward. She works off her debt year by year, and what remains of the original purchase price is what she owes for her redemption.
 
 The critical implication is this: if she was sold for only a *perutah*, *mi-perutah mi-migra'at* — you cannot reduce a *perutah* further. There would be nothing to discount; the redemption mechanism would be meaningless. The fact that the Torah prescribes a redemption process that involves progressive reduction presupposes that the original sale price was substantial enough to permit such reduction. The price must therefore have been more than a *perutah*.
 
+> **Hebrew/Aramaic:** אִי אָמְרַתְּ בִּשְׁלָמָא דִּיהַב לַהּ דִּינָר – הַיְינוּ דִּמְגָרְעָה וְאָזְלָה עַד פְּרוּטָה, אֶלָּא אִי אָמְרַתְּ דִּיהַב לַהּ פְּרוּטָה, מִפְּרוּטָה מִי מְגָרְעָה? וְדִלְמָא הָכִי קָאָמַר רַחֲמָנָא: הֵיכָא דִּיהַב לַהּ דִּינָר – תְּיגָרַע עַד פְּרוּטָה, הֵיכָא דִּיהַב לַהּ פְּרוּטָה – לָא תְּיגָרַע כְּלָל!
+> **Translation:** **Granted, if you say that** when she was acquired **he gave her** at least **one dinar, this is** the meaning of the statement **that she may continually deduct** from that amount **up to one *peruta*. But if you say that** he **gave her one *peruta*** when he purchased her as a maidservant, can **she deduct from one *peruta*?** One *peruta* is already the smallest possible sum of money. The Gemara rejects this argument: **But perhaps this is what the Merciful One is saying:** In a case **where he gave her one dinar, she deducts** from that amount **up to one *peruta*;** in **a case where he gave her one *peruta* she cannot deduct at all.** If he paid one *peruta* for her, the option of redemption does not apply.
+
 ### Presumed Amount
 
-> **Hebrew/Aramaic:** וְקִידּוּשֵׁי אִשָּׁה לְבֵית שַׁמַּאי נָפְקָא לְהוּ מֵאָמָה הָעִבְרִיָּה: מָה אָמָה הָעִבְרִיָּה בִּפְרוּטָה לָא מִקַּנְיָא, אַף אִשָּׁה בִּפְרוּטָה לָא מִיקַּדְּשָׁא.
->
-> **Translation:** The Gemara notes: **And according to** the opinion of **Beit Shammai** the mode of **betrothal of a woman** by money **is derived from** the case of **a Hebrew maidservant,** as follows: **Just as a Hebrew maidservant cannot be acquired with one *peruta*, so too a woman cannot be betrothed with one *peruta*.**
 
 The argument then proceeds: since we know that an *amah ivrit* is sold for a substantial amount — certainly more than a *perutah* — we presume the standard sale price is at least a *dinar*, a meaningful sum. And since *kiddushin* is modeled after the acquisition of an *amah ivrit* — the very analogy that structures much of this sugya — Beit Shammai requires that the same minimum apply. Once the *amah ivrit* model establishes that the acquisition must be for a significant amount, the amount presumed for *kiddushin* is likewise a *dinar*.
 

@@ -1,0 +1,428 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Borrower Liability Rules",
+    "candidates": [
+      "Mishna Setup",
+      "Borrower Liability Rules",
+      "Requested Delivery",
+      "Return Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna Setup",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 are the mishna's two core cases (unilateral sending vs. borrower-requested/consented delivery), matching the 'Mishna Setup' and 'Requested Delivery' sections, but item 1 alone fits 'Mishna Setup' which describes exactly the exempt case of the owner sending without the borrower's request, while items 1-2 together span the full mishna; however since item 1 is the opening MISHNA: marker and covers the exempt case described in 'Mishna Setup', and item 2 covers the liable case described in 'Requested Delivery', the structural seam falls after item 1.",
+      "second_heading": "Requested Delivery",
+      "second_confidence": "high",
+      "second_reason": "Item 3 ('And so too at the time of returning it') matches the 'Return Rules' prose which explicitly discusses the same reversal principle for the return journey.",
+      "current_heading": "Borrower Liability Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "Return Rules",
+    "candidates": [
+      "Requested Delivery",
+      "Return Rules",
+      "Yad Eved Question",
+      "Shmuel's Position",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly raises the Gemara's question about 'yad eved k'yad rabo' \u2014 exactly the difficulty that candidate 2's prose ('Yad Eved Question') describes as the section's topic.",
+      "chosen_heading": "Yad Eved Question",
+      "current_heading": "Return Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "Yad Eved Question",
+      "Shmuel's Position",
+      "Rav's Position",
+      "Braita Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Shmuel's resolution (Hebrew slave) and Rav's resolution (Canaanite slave/hakishehu b'makla), and the prose under 'Shmuel's Position' (index 1) is where both answers are introduced together, making it the better home than the current placement under 'Rav's Position' alone.",
+      "chosen_heading": "Shmuel's Position",
+      "current_heading": "Rav's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Braita Challenge",
+    "candidates": [
+      "Rav's Position",
+      "Braita Challenge",
+      "Shmuel Reconciles",
+      "Rav's Difficulty"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the baraita citation itself (hashoel para...), and the 'Braita Challenge' heading's prose explicitly describes this baraita and its contradiction with the mishna, making the current placement the correct one.",
+      "chosen_heading": "Braita Challenge",
+      "current_heading": "Braita Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rav's Difficulty",
+    "candidates": [
+      "Shmuel Reconciles",
+      "Rav's Difficulty",
+      "Rav's Fix"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains Shmuel's reconciliation (mishna = Hebrew slave, baraita = Canaanite slave) and then notes that Rav's position is difficult \u2014 the content primarily presents Shmuel's resolution, which matches the 'Shmuel Reconciles' prose, not 'Rav's Difficulty' which focuses on the nature of Rav's contradiction.",
+      "chosen_heading": "Shmuel Reconciles",
+      "current_heading": "Rav's Difficulty",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Rav's Fix",
+    "candidates": [
+      "Rav's Difficulty",
+      "Rav's Fix",
+      "Hekisha Source",
+      "Rav Ashi Objects",
+      "Chatzer B'Chatzer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together constitute the 'Hekisha Source' section: item 2 is the Rav Nachman/Rabbah bar Avuha/Rav statement, item 3 is the gemara's suggestion that a baraita supports Rav's position, and item 1 is Rav's refined formulation that sets up why the baraita is being cited \u2014 exactly matching the prose of candidate 2 which describes Rav's position, the Rav Nachman citation, and the gemara's question of whether the baraita lends support.",
+      "chosen_heading": "Hekisha Source",
+      "current_heading": "Rav's Fix",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40,
+      41
+    ],
+    "current_heading": "Chatzer B'Chatzer",
+    "candidates": [
+      "Hekisha Source",
+      "Rav Ashi Objects",
+      "Chatzer B'Chatzer",
+      "Huna: Use Required"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Ashi's explanation of the chatzer-within-chatzer arrangement and the follow-up question about corners (gazyata) \u2014 are precisely the content described in candidate 2's prose, which covers both the topographic arrangement Rav Ashi envisions and the gemara's answer about intermediate spaces within the large chatzer.",
+      "chosen_heading": "Chatzer B'Chatzer",
+      "current_heading": "Chatzer B'Chatzer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Huna: Use Required",
+    "candidates": [
+      "Huna: Use Required",
+      "Why Use Needed",
+      "Me'ila Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Huna's statement that borrowing an ax requires actual use (chopping) to acquire it, which is precisely what the current heading 'Huna: Use Required' and its prose describe.",
+      "chosen_heading": "Huna: Use Required",
+      "current_heading": "Huna: Use Required",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Me'ila Dispute",
+    "candidates": [
+      "Why Use Needed",
+      "Me'ila Dispute",
+      "Rabbi Ami Position",
+      "Rabbi Elazar View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items together form the complete me'ila dispute \u2014 item 1 clarifies Rav Huna's retraction ruling, item 2 introduces Rabbi Ami's contrasting position on the consecrated axe, and item 3 explains why Rabbi Ami's ruling implies disagreement with Rav Huna \u2014 exactly matching the 'Me'ila Dispute' prose which describes this entire sequence.",
+      "chosen_heading": "Me'ila Dispute",
+      "current_heading": "Me'ila Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Rabbi Elazar View",
+    "candidates": [
+      "Rabbi Ami Position",
+      "Rabbi Elazar View",
+      "Baraita Support",
+      "Land Lease Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Elazar's statement that the Sages instituted meshicha for bailees just as they did for buyers, which is exactly what the Rabbi Elazar View prose discusses and attributes to him.",
+      "chosen_heading": "Rabbi Elazar View",
+      "current_heading": "Rabbi Elazar View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Land Lease Rules",
+    "candidates": [
+      "Baraita Support",
+      "Land Lease Rules",
+      "Date Bulk Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the baraita cited in support of Rabbi Elazar's position \u2014 covering meshicha for bailees and acquisition methods for land rental \u2014 which is precisely what candidate 0 'Baraita Support' describes, whereas candidate 1 discusses only Rav \u1e24isda's clarification that follows the baraita.",
+      "chosen_heading": "Baraita Support",
+      "current_heading": "Land Lease Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Date Bulk Rule",
+    "candidates": [
+      "Land Lease Rules",
+      "Date Bulk Rule",
+      "Hekdesh Full Value",
+      "Hekdesh Damage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes Shmuel's ruling about a thief who steals a cake of fifty dates sold wholesale vs. individually, which is exactly what the 'Date Bulk Rule' prose discusses.",
+      "chosen_heading": "Date Bulk Rule",
+      "current_heading": "Date Bulk Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Hekdesh Damage",
+    "candidates": [
+      "Hekdesh Full Value",
+      "Hekdesh Damage",
+      "Bulk Discount Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the hekdesh full payment with chomesh AND the exclusion of the mazik from chomesh, but the current placement under 'Hekdesh Damage' is correct because the prose for that section explicitly discusses both the mazik distinction and the verse 'ish ki yochal kodesh \u2014 prat l'mazik', which is precisely what this Talmudic passage contains.",
+      "chosen_heading": "Hekdesh Damage",
+      "current_heading": "Hekdesh Damage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Bulk Discount Q",
+    "candidates": [
+      "Bulk Discount Q",
+      "Field Damage Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Beivai bar Abaye's objection about retail vs. wholesale pricing, which is precisely what the 'Bulk Discount Q' prose describes.",
+      "chosen_heading": "Bulk Discount Q",
+      "current_heading": "Bulk Discount Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Field Damage Rule",
+    "candidates": [
+      "Field Damage Rule",
+      "Stone Not Me'ila",
+      "Giving to Friend",
+      "Building Me'ila"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the 'beit se'ah' field damage appraisal rule and how damage is assessed against the whole field rather than individual items, which matches exactly the prose of the 'Field Damage Rule' heading.",
+      "chosen_heading": "Field Damage Rule",
+      "current_heading": "Field Damage Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Building Me'ila",
+    "candidates": [
+      "Stone Not Me'ila",
+      "Giving to Friend",
+      "Building Me'ila",
+      "Me'ila-Borrowing Link"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full mishna from Me'ila covering all three stages (taking, giving, building), introduced as a single Gemara challenge to Shmuel's position, and belongs under the heading that introduces this mishna citation \u2014 'Stone Not Me'ila' \u2014 rather than being split across multiple headings.",
+      "chosen_heading": "Stone Not Me'ila",
+      "current_heading": "Building Me'ila",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Me'ila-Borrowing Link",
+    "candidates": [
+      "Building Me'ila",
+      "Me'ila-Borrowing Link",
+      "Mada'at Contradiction",
+      "Shmuel Retracts",
+      "Rava Resolves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Rabbi Abbahu reporting Shmuel's inference (zot omeret) that one who dwells in another's courtyard without knowledge must pay rent, and Rabbi Yochanan's response that Shmuel retracted that statement \u2014 which matches exactly the 'Me'ila-Borrowing Link' prose describing Shmuel's analogy from hekdesh shelo mida'at to sho'el shelo mida'at and the current placement.",
+      "chosen_heading": "Me'ila-Borrowing Link",
+      "current_heading": "Me'ila-Borrowing Link",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rava Resolves",
+    "candidates": [
+      "Mada'at Contradiction",
+      "Shmuel Retracts",
+      "Rava Resolves",
+      "Wine Barrel Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly presents Rava's principle that 'hekdesh shelo mida'at ke-hedyot mida'at dami' and explains why Shmuel retracted his teaching about residing in another's courtyard, which is precisely what the 'Rava Resolves' section's prose describes.",
+      "chosen_heading": "Rava Resolves",
+      "current_heading": "Rava Resolves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Wine Barrel Case",
+    "candidates": [
+      "Wine Barrel Case",
+      "Market Day Price",
+      "Alternate Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the case itself (carriers breaking a barrel, market day vs. other days pricing), which matches the 'Wine Barrel Case' heading's prose that introduces this exact scenario, before the ruling details discussed under 'Market Day Price'.",
+      "chosen_heading": "Wine Barrel Case",
+      "current_heading": "Wine Barrel Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Alternate Sale",
+    "candidates": [
+      "Market Day Price",
+      "Alternate Sale",
+      "Labor Deduction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly qualifies Rava's ruling by stating the five-dinar liability applies only when the merchant had no other wine to sell, which is precisely what the 'Alternate Sale' section's prose describes.",
+      "chosen_heading": "Alternate Sale",
+      "current_heading": "Alternate Sale",
+      "moved": false
+    }
+  }
+]

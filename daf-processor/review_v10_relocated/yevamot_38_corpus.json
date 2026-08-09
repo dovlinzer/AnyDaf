@@ -1,0 +1,162 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "current_heading": "Gershon vs. Shimon",
+    "candidates": [
+      "Gershon vs. Shimon",
+      "Safek Motzi Rule",
+      "Three-Way Division",
+      "Concessions Logic",
+      "Yaakov & Shimon",
+      "Nafal Nechasim",
+      "Nechsei Milog",
+      "Buying & Selling",
+      "Upon Her Death",
+      "Shammai Divide"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Items 1-4 all concern the safek/yavam and safek/bnei-yavam inheritance disputes, which candidate 2 ('Three-Way Division') introduces as the case where Shimon has died and Gershon disputes with Shimon's sons \u2014 exactly the scenario described in items 3-4, while items 1-2 set up the prior safek/yavam case that leads into it, making candidate 2 the best overall home for this continuous discussion.",
+      "chosen_heading": "Three-Way Division",
+      "current_heading": "Gershon vs. Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Shammai Divide",
+    "candidates": [
+      "Safek Motzi Rule",
+      "Three-Way Division",
+      "Concessions Logic",
+      "Yaakov & Shimon",
+      "Nafal Nechasim",
+      "Nechsei Milog",
+      "Buying & Selling",
+      "Upon Her Death",
+      "Shammai Divide",
+      "Arusa vs. Nesua"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 22,
+      "first_heading": "Shammai Divide",
+      "first_confidence": "low",
+      "first_reason": "Items 1-22 continue the extended gemara discussion of safek/yavam inheritance cases including the Admon analogy, belonging under the current or nearby headings covering those disputes, but the precise best heading among 0-3 is uncertain.",
+      "second_heading": "Buying & Selling",
+      "second_confidence": "high",
+      "second_reason": "Items 23-24 are the opening of a new Mishna (marked 'MISHNA:') about a shomeret yavam selling property, matching heading 6 'Buying & Selling' which explicitly discusses the ruling that she may sell and it stands.",
+      "current_heading": "Shammai Divide",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Arusa vs. Nesua",
+    "candidates": [
+      "Arusa vs. Nesua",
+      "Rava Challenge",
+      "Title vs. Fruit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 9,
+      "first_heading": "Arusa vs. Nesua",
+      "first_confidence": "high",
+      "first_reason": "Items 1-9 cover the mishna setup and Ulla's full arusa/nesua explanation with proofs, matching exactly what the 'Arusa vs. Nesua' prose describes.",
+      "second_heading": "Rava Challenge",
+      "second_confidence": "high",
+      "second_reason": "Item 10 is Rabba's challenge to Ulla about why the mishna discusses the property after death rather than produce while alive, which is precisely what the 'Rava Challenge' prose describes.",
+      "current_heading": "Arusa vs. Nesua",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Title vs. Fruit",
+    "candidates": [
+      "Rava Challenge",
+      "Title vs. Fruit",
+      "Abaye Question",
+      "House Collapse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Rabba's resolution distinguishing the first clause (she is alive, vadai vs. safek) from the latter clause (she died, both parties divide), which is precisely what the 'Title vs. Fruit' prose describes as Rava's/Rabba's elegant analysis of vadai title versus safek peirot claims.",
+      "chosen_heading": "Title vs. Fruit",
+      "current_heading": "Title vs. Fruit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "House Collapse",
+    "candidates": [
+      "Abaye Question",
+      "House Collapse",
+      "Shtar Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items together form Abaye's objection to Rabba \u2014 the question, the mishna evidence, and the proof \u2014 which is exactly what heading 0 ('Abaye Question') describes, while heading 1 ('House Collapse') describes the resolution/analysis that follows this objection.",
+      "chosen_heading": "Abaye Question",
+      "current_heading": "House Collapse",
+      "moved": true
+    }
+  }
+]

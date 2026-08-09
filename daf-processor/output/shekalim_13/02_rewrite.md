@@ -62,11 +62,7 @@ The illustrative case is from a *baraita*: an *asham* requiring a one-year-old f
 
 ### Sanctity Categories
 
-At this point in the analysis it becomes necessary to introduce a more precise conceptual framework than the simple *mizbe'ach*/*bedek ha-bayit* dichotomy. The more exact categories are *kedushat haguf* and *kedushat damim*.
-
-*Kedushat haguf* is intrinsic sanctity: the object itself is to be used — the animal itself is to be brought as a *korban*, the beam itself is to be incorporated into the *Beit HaMikdash*. *Kedushat damim* is a sanctity of value: the object itself will not be used, but will be sold and the proceeds used in its stead. These categories cross-cut the *mizbe'ach*/*bedek ha-bayit* distinction. A stone sanctified to be built into the *Beit HaMikdash* has *kedushat haguf* that is *le-bedek ha-bayit*. And there exists a category of *kedushat damim le-mizbe'ach* — a sanctity of proceeds designated for the *mizbe'ach* — which is the key to understanding several of the cases that follow.
-
----
+Rabbi Shimon's ruling carries an additional dimension: not only does one fail to fulfill the obligation — the animal does not even acquire *kedusha* at all. Building on this, the *kal va-chomer* runs as follows: if Rabbi Shimon holds that even the difference between a one-year-old and a two-year-old — a distinction that is not absolute, since an *asham* may in some cases permit a two-year-old — nonetheless prevents any *kedusha* from taking effect, then certainly a female designated in place of a male, where the two are wholly unrelated in terms of what the *korban* requires, would equally fail to acquire *kedusha*. The remaining question is how this case might be distinguished from the earlier case involving a *mum*: one might argue that wrong age or wrong gender represents a more fundamental disqualification — something akin to consecrating an entirely ineligible object — and is therefore categorically different from, and more severe than, the case of a *mum*.
 
 ## Female Sanctity Stat (II)
 

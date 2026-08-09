@@ -1,0 +1,351 @@
+[
+  {
+    "quote_indices": [
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Ruse to Discover Funds",
+    "candidates": [
+      "Mishna Introduction",
+      "Maintenance Obligation",
+      "Designated Field",
+      "Shtar as Proof",
+      "Ruse to Discover Funds",
+      "Rav Nachman's Position"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Maintenance Obligation",
+      "first_confidence": "high",
+      "first_reason": "Item 1 addresses the obvious question about a wife's chazaka in her husband's property and the designated-field response, which belongs under the 'Maintenance Obligation'/'Designated Field' discussion \u2014 but since it covers both the pshita question and the designated-field answer, it best fits under 'Designated Field' (index 2) which explicitly discusses the lo tzricha d'yached lah ara achrita case.",
+      "second_heading": "Shtar as Proof",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 address the inference that a shtar could establish ownership and the gemara's response that the implication refers only to a shtar matanah, which matches the 'Shtar as Proof' section (index 3) that discusses how a written document might suffice where chazaka cannot.",
+      "current_heading": "Ruse to Discover Funds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Rav Nachman's Position",
+    "candidates": [
+      "Ruse to Discover Funds",
+      "Rav Nachman's Position",
+      "Order of Transfer",
+      "Shmuel's Rule",
+      "Hamnuna's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Rav Nachman\u2013Rav Huna exchange about the ruling that a wife acquires a field sold to her and the obvious point that a shtar independently effects the kinyan, which is precisely what candidate 1 ('Rav Nachman's Position') describes in its prose.",
+      "chosen_heading": "Rav Nachman's Position",
+      "current_heading": "Rav Nachman's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Hamnuna's Challenge",
+    "candidates": [
+      "Order of Transfer",
+      "Shmuel's Rule",
+      "Hamnuna's Challenge",
+      "Defective Property Excep"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both Shmuel's rule (shtar matanah vs. shtar mecher) and Rav Hamnuna's challenge to it, but the Gemara text opens with Rav Na\u1e25man citing Shmuel's ruling as a objection \u2014 making it primarily the introduction of Shmuel's Rule, which is precisely what candidate 1's prose describes as the content of this section.",
+      "chosen_heading": "Shmuel's Rule",
+      "current_heading": "Hamnuna's Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Defective Property Excep",
+    "candidates": [
+      "Hamnuna's Challenge",
+      "Defective Property Excep",
+      "Gift Despite Sale Lang"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Na\u1e25man's confirmation that Rav Hamnuna both raised and resolved his own objection by limiting the mishna's ruling to the case of selling defective property, which is precisely what the 'Defective Property Excep' section's prose describes.",
+      "chosen_heading": "Defective Property Excep",
+      "current_heading": "Defective Property Excep",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33
+    ],
+    "current_heading": "Gift Despite Sale Lang",
+    "candidates": [
+      "Gift Despite Sale Lang",
+      "Multiple Documents",
+      "Loan Cancellation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Ashi's view that the document was intended as a gift but written in sale language to enhance the recipient's legal standing (kedei le'yafot kocho), which is precisely what the 'Gift Despite Sale Lang' section's prose describes.",
+      "chosen_heading": "Gift Despite Sale Lang",
+      "current_heading": "Gift Despite Sale Lang",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Loan Cancellation",
+    "candidates": [
+      "Multiple Documents",
+      "Loan Cancellation",
+      "Accessing Own Funds",
+      "Sale vs. Loan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is specifically the Gemara's question 'mai ta'ama? lav mishum de'amrinan l'galuyei zuzei hu de'ba'ei?' \u2014 exactly what Candidate 2's prose describes as the gemara asking and answering about the reason for the baraita's ruling.",
+      "chosen_heading": "Accessing Own Funds",
+      "current_heading": "Loan Cancellation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Sale vs. Loan",
+    "candidates": [
+      "Accessing Own Funds",
+      "Sale vs. Loan",
+      "Rav Huna's Report"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly explains why borrowing is different from selling \u2014 invoking the 'borrower is servant to the lender' verse \u2014 which is precisely what candidate 1's prose discusses as the Talmud's distinction between loans and sales.",
+      "chosen_heading": "Sale vs. Loan",
+      "current_heading": "Sale vs. Loan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Rav Huna's Report",
+    "candidates": [
+      "Rav Huna's Report",
+      "Minority Gift View"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rav Huna's Report",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Huna bar Avin's ruling that a wife acquires the field and the husband enjoys the produce, which is precisely what heading 0 ('Rav Huna's Report') discusses.",
+      "second_heading": "Minority Gift View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the dissenting view of Rabbi Abba, Rabbi Abbahu, and kol gedolei hador that the transaction is really a gift to enhance her power, which is exactly what heading 1 ('Minority Gift View') discusses in its prose.",
+      "current_heading": "Rav Huna's Report",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Minority Gift View",
+    "candidates": [
+      "Minority Gift View",
+      "Rav's Distinction",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "best_index": 1,
+      "action": "single",
+      "chosen_heading": "Rav's Distinction",
+      "current_heading": "Minority Gift View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Rav's Distinction",
+      "Rabbi Eliezer",
+      "Rava's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav \u1e24isda's ruling in accordance with Rabbi Elazar, the objection of Rav's grandsons, and his response citing Rabbi Yo\u1e25anan via Ravin \u2014 all of which are explicitly discussed in the 'Rabbi Eliezer' section's prose.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Rabbi Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Rava's Position",
+    "candidates": [
+      "Rava's Position",
+      "Contradiction",
+      "Hidden vs. Public Funds",
+      "Hidden Account Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's ruling itself \u2014 that a sale to his wife is invalid while a gift is valid \u2014 along with the immediate Gemara question about the apparent contradiction, which maps precisely to the 'Rava's Position' section's prose describing his ruling and its immediate follow-up, before the resolution discussed in later sections.",
+      "chosen_heading": "Rava's Position",
+      "current_heading": "Rava's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74,
+      75
+    ],
+    "current_heading": "Hidden Account Test",
+    "candidates": [
+      "Contradiction",
+      "Hidden vs. Public Funds",
+      "Hidden Account Test",
+      "Deposit Prohibition",
+      "Wife's Deposit Rule",
+      "Slave's Deposit Rule",
+      "Minor's Deposit Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hidden vs. Public Funds",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the gemara's resolution of the contradiction between Rava's two rulings via the hidden/public funds distinction, which is precisely what heading 1 ('Hidden vs. Public Funds') discusses.",
+      "second_heading": "Deposit Prohibition",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the baraita prohibiting acceptance of deposits from women, slaves, and children, which is exactly what heading 3 ('Deposit Prohibition') introduces and discusses.",
+      "current_heading": "Hidden Account Test",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Minor's Deposit Rule",
+    "candidates": [
+      "Deposit Prohibition",
+      "Wife's Deposit Rule",
+      "Slave's Deposit Rule",
+      "Minor's Deposit Rule",
+      "Deathbed Declaration"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage describes accepting a deposit from a minor, making a safe investment (segulla) for him, and returning to his heirs upon death \u2014 precisely what the 'Minor's Deposit Rule' prose discusses.",
+      "chosen_heading": "Minor's Deposit Rule",
+      "current_heading": "Minor's Deposit Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Deathbed Declaration",
+    "candidates": [
+      "Deathbed Declaration",
+      "Deathbed Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the general rule about deathbed declarations ('ve'kullan she'amru bishat mitatam'), which is precisely what the prose in candidate 0 discusses \u2014 the concluding principle of the baraita about acting on or reinterpreting a dying depositor's declaration.",
+      "chosen_heading": "Deathbed Declaration",
+      "current_heading": "Deathbed Declaration",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Deathbed Claim",
+    "candidates": [
+      "Deathbed Claim",
+      "Trust Condition",
+      "Distrust Alternative"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the specific case of the wife of Rabba bar bar \u1e24ana's dying declaration and Rav's response, which matches the 'Deathbed Claim' section's prose that introduces this exact narrative.",
+      "chosen_heading": "Deathbed Claim",
+      "current_heading": "Deathbed Claim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Distrust Alternative",
+    "candidates": [
+      "Trust Condition",
+      "Distrust Alternative",
+      "Reasonableness Standard",
+      "Husband's Claims",
+      "Belief Standards",
+      "Forced Taking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage presents the 'and there are those who say' alternative version of Rav's ruling based on objective assessment/plausibility ('amida lach') rather than subjective trust, which precisely matches the 'Reasonableness Standard' section's prose about this alternative version focusing on objective plausibility of the claim.",
+      "chosen_heading": "Reasonableness Standard",
+      "current_heading": "Distrust Alternative",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,351 @@
+[
+  {
+    "quote_indices": [
+      9,
+      10
+    ],
+    "current_heading": "Blood Evidence",
+    "candidates": [
+      "Four Stomachs Intro",
+      "Holes: Between vs Outside",
+      "Needle Perforation Rules",
+      "Blood Evidence",
+      "No Blood = After Shechita",
+      "Scab Evidence",
+      "Burden of Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Needle Perforation Rules",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces the baraita about the needle found in the reticulum wall and the one-side vs. both-sides ruling, which is precisely what 'Needle Perforation Rules' (index 2) describes.",
+      "second_heading": "Blood Evidence",
+      "second_confidence": "high",
+      "second_reason": "Item 2 gives the blood-evidence conclusion (blood found = before shechita, no blood = after shechita), which matches 'Blood Evidence' (index 3) exactly.",
+      "current_heading": "Blood Evidence",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Burden of Proof",
+    "candidates": [
+      "No Blood = After Shechita",
+      "Scab Evidence",
+      "Burden of Proof",
+      "Kan Nimtza Kan Haya",
+      "Seller's Risk",
+      "Needle vs. Natural Holes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses scab formation as evidence of a three-day-old wound and the resulting burden of proof in commercial disputes, which matches the 'Scab Evidence' section's prose precisely \u2014 the scab content belongs there, not under the separate 'Burden of Proof' heading which deals with the broader mekach ta'os framework.",
+      "chosen_heading": "Scab Evidence",
+      "current_heading": "Burden of Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Needle vs. Natural Holes",
+    "candidates": [
+      "Kan Nimtza Kan Haya",
+      "Seller's Risk",
+      "Needle vs. Natural Holes",
+      "Needle Half-Through Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly explains why the absence of blood on the needle permits the animal \u2014 contrasting the needle case with naturally occurring perforations \u2014 which is precisely what the 'Needle vs. Natural Holes' prose section discusses.",
+      "chosen_heading": "Needle vs. Natural Holes",
+      "current_heading": "Needle vs. Natural Holes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Needle Half-Through Story",
+    "candidates": [
+      "Needle Half-Through Story",
+      "Abaye's Investigation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers Rav Safra telling Abaye about Rav Avira's report and Abaye going to investigate \u2014 content that spans both candidates but the specific text ends exactly where candidate 0's prose describes (Abaye asking 'what were the circumstances of the incident itself?'), matching the 'Needle Half-Through Story' section which covers the initial report and Abaye's troubled reaction, while candidate 1's prose covers what Rav Avira actually explains in response.",
+      "chosen_heading": "Needle Half-Through Story",
+      "current_heading": "Needle Half-Through Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Abaye's Investigation",
+    "candidates": [
+      "Abaye's Investigation",
+      "Blood Drop Resolution",
+      "Broken Telephone",
+      "Nefulah Definition",
+      "Found Below Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the blood drop detail (koret dam) and Rabbi's reasoning that the needle must have perforated all the way through, which is exactly what the 'Blood Drop Resolution' section discusses.",
+      "chosen_heading": "Blood Drop Resolution",
+      "current_heading": "Abaye's Investigation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Found Below Rule",
+    "candidates": [
+      "Blood Drop Resolution",
+      "Broken Telephone",
+      "Nefulah Definition",
+      "Found Below Rule",
+      "Goat Skylight Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna's ruling about finding an animal below without witnessing the fall and not being concerned about risuk eivarim, which is exactly what the 'Found Below Rule' prose describes.",
+      "chosen_heading": "Found Below Rule",
+      "current_heading": "Found Below Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Goat Skylight Story",
+    "candidates": [
+      "Goat Skylight Story",
+      "Amda Nafsha Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the goat incident and Ravina's question to Rav Ashi about the two possible rationales, which matches exactly the 'Goat Skylight Story' prose that describes the household incident and Ravina's question about whether Rav Huna's ruling applies \u2014 the resolution/answer belongs under 'Amda Nafsha Principle' but this passage is only the question, matching heading 0.",
+      "chosen_heading": "Goat Skylight Story",
+      "current_heading": "Goat Skylight Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Amda Nafsha Principle",
+    "candidates": [
+      "Amda Nafsha Principle",
+      "Mutual Ramming Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's direct statement of the 'amda nafsha' rationale, which is precisely what the prose in candidate 0 describes and analyzes.",
+      "chosen_heading": "Amda Nafsha Principle",
+      "current_heading": "Amda Nafsha Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Mutual Ramming Rule",
+    "candidates": [
+      "Mutual Ramming Rule",
+      "Thieves Throwing Rams",
+      "Theft Return Cases"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Theft Return Cases",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 concerns a case of dragging hind legs and the ruling that rheumatism (a common condition) takes precedence over concern for a cut spinal cord \u2014 this is a wrap-up of a prior topic about spinal cord concerns, not about mutual ramming, thieves, or return cases; among the candidates it fits least badly under 'Theft Return Cases' as a closing halakhic resolution before a new topic begins, though none is a perfect match.",
+      "second_heading": "Mutual Ramming Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav Huna's ruling on rams that butt one another and the concern for risuk eivarim, which is precisely the subject of the 'Mutual Ramming Rule' prose.",
+      "current_heading": "Mutual Ramming Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Theft Return Cases",
+    "candidates": [
+      "Thieves Throwing Rams",
+      "Theft Return Cases",
+      "Stick Striking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the entire teaching of Rav Menashei \u2014 both the initial ruling about thieves throwing rams (not concerned) and the follow-up about returning them (concerned if out of fear, not if out of repentance) \u2014 and candidate 0 ('Thieves Throwing Rams') explicitly discusses all these elements in its prose, while candidate 1 ('Theft Return Cases') only covers the return portion, making candidate 0 the better unified home for the complete passage.",
+      "chosen_heading": "Thieves Throwing Rams",
+      "current_heading": "Theft Return Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Stick Striking",
+    "candidates": [
+      "Theft Return Cases",
+      "Stick Striking",
+      "Birth Not Traumatic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Yehuda citing Rav on stick-striking scenarios (head, tail, midpoint, knots, slash) and when to be concerned about risuk eivarim, which exactly matches the 'Stick Striking' section's prose.",
+      "chosen_heading": "Stick Striking",
+      "current_heading": "Stick Striking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91
+    ],
+    "current_heading": "Birth Not Traumatic",
+    "candidates": [
+      "Birth Not Traumatic",
+      "Cesarean Section"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the exact passage described in heading 0's prose: Rav Na\u1e25man's ruling, Rava's proof from the one-day-old zav, and the Gemara's deflection that the baraita may refer to a cesarean birth \u2014 all of which are explicitly narrated in the 'Birth Not Traumatic' section's prose.",
+      "chosen_heading": "Birth Not Traumatic",
+      "current_heading": "Birth Not Traumatic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Cesarean Section",
+    "candidates": [
+      "Cesarean Section",
+      "Standing Up Evidence",
+      "Slaughterhouse Casting"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Cesarean Section",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 are the two proofs from calves/bechor born on Yom Tov with the cesarean-section deflections, which is exactly what candidate 0's prose describes.",
+      "second_heading": "Standing Up Evidence",
+      "second_confidence": "high",
+      "second_reason": "Item 3 \u2014 the resolution that the animal had already spread its legs and stood up \u2014 is precisely what candidate 1's prose discusses as the 'shehifris al gabi karka' deflection pointing toward subsequent movement resolving the risuk eivarim concern.",
+      "current_heading": "Cesarean Section",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105
+    ],
+    "current_heading": "Slaughterhouse Casting",
+    "candidates": [
+      "Standing Up Evidence",
+      "Slaughterhouse Casting",
+      "Standing Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly concern Rav Nachman's ruling about slaughterhouse casting not causing risuk eivarim and the illustrative story of the ox falling in the slaughterhouse, which is precisely what the 'Slaughterhouse Casting' prose describes in detail.",
+      "chosen_heading": "Slaughterhouse Casting",
+      "current_heading": "Slaughterhouse Casting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Standing Rule",
+    "candidates": [
+      "Standing Rule",
+      "Walking vs. Standing",
+      "Partial Movement",
+      "Final Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full Rav Yehuda/Rav statement about standing (no me'eis le'eis needed, but bedika required) and walking (no bedika needed), plus the Rav \u1e24iyya bar Ashi dispute \u2014 all of which is the content described in the 'Standing Rule' section's prose, which explicitly discusses both the standing/bedika interplay and references the walking criterion as its conclusion.",
+      "chosen_heading": "Standing Rule",
+      "current_heading": "Standing Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Final Halacha",
+    "candidates": [
+      "Walking vs. Standing",
+      "Partial Movement",
+      "Final Halacha"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Partial Movement",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the rulings of Rav Yirmeya bar A\u1e25a/Rav and Rav \u1e24isda about partial movement (stretching a foreleg, raising a leg, struggling to stand) which directly matches the 'Partial Movement' heading's prose.",
+      "second_heading": "Final Halacha",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the concluding halakha about an animal that fell from a roof, requiring bedika if it stood but not if it walked, which matches the 'Final Halacha' heading's prose exactly.",
+      "current_heading": "Final Halacha",
+      "moved": true
+    }
+  }
+]

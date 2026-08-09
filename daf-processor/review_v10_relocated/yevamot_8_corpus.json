@@ -1,0 +1,276 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Review: Yibum Override",
+    "candidates": [
+      "Review: Yibum Override",
+      "Rav Acha's Question",
+      "Two-Prohibition Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is precisely Rav A\u1e25a mi-Difti's challenge to Ravina about why the juxtaposition favors achos ishah over eshet ach, which is exactly what the 'Rav Acha's Question' section describes.",
+      "chosen_heading": "Rav Acha's Question",
+      "current_heading": "Review: Yibum Override",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Two-Prohibition Rule",
+    "candidates": [
+      "Rav Acha's Question",
+      "Two-Prohibition Rule",
+      "Rava: No Verse Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly provides the two answers (leniency/stringency default and two-prohibitions vs one-prohibition reasoning) that candidate 1's prose explicitly describes and analyzes.",
+      "chosen_heading": "Two-Prohibition Rule",
+      "current_heading": "Two-Prohibition Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Rava: No Verse Needed",
+    "candidates": [
+      "Rava: No Verse Needed",
+      "Gemara Objects",
+      "Rava Responds"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's core statement that no verse is needed for ervah since a positive mitzva cannot override a lo ta'asei with karet, and that the verse is needed only for the tzarah \u2014 exactly what heading 0 'Rava: No Verse Needed' addresses in its prose.",
+      "chosen_heading": "Rava: No Verse Needed",
+      "current_heading": "Rava: No Verse Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22,
+      23,
+      24
+    ],
+    "current_heading": "Rava Responds",
+    "candidates": [
+      "Gemara Objects",
+      "Rava Responds",
+      "Original Braisa Cited",
+      "Rabbi's Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's objection (ein li ela hi showing the braisa does treat ervah as requiring a verse) followed by Rava's repeated answer (mishum tzaratah), which is precisely what heading 0 'Gemara Objects' describes \u2014 the challenge to Rava's reading based on the braisa's structure \u2014 rather than heading 1 which describes Rava's fuller response about the extended mah matzinu structure.",
+      "chosen_heading": "Gemara Objects",
+      "current_heading": "Rava Responds",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Rabbi's Drasha",
+    "candidates": [
+      "Original Braisa Cited",
+      "Rabbi's Drasha",
+      "Two Drashas",
+      "Rav Ashi Observes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi's drasha from velakachah/veyibmah and the Gemara's resolution that both phrases address tzarah (one to prohibit in a yibum context, one to permit outside it), which is precisely what candidate 1 ('Rabbi's Drasha') discusses in its prose.",
+      "chosen_heading": "Rabbi's Drasha",
+      "current_heading": "Rabbi's Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Rav Ashi Observes",
+    "candidates": [
+      "Two Drashas",
+      "Rav Ashi Observes",
+      "Challenge to Rava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's observation that the Mishnah's formulation ('exempt their rival wives' without saying 'are exempt and exempt') confirms Rava's view, which matches exactly the prose under 'Rav Ashi Observes.'",
+      "chosen_heading": "Rav Ashi Observes",
+      "current_heading": "Rav Ashi Observes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Challenge to Rava",
+    "candidates": [
+      "Challenge to Rava",
+      "Rashi Explains",
+      "Tzarah Contexts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly poses the symmetrical challenge that tzarah also needs no verse because asei cannot override a karet-bearing prohibition, which is precisely the 'Challenge to Rava' section's topic.",
+      "chosen_heading": "Challenge to Rava",
+      "current_heading": "Challenge to Rava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Tzarah Contexts",
+    "candidates": [
+      "Rashi Explains",
+      "Tzarah Contexts",
+      "Rami bar Chama Objects",
+      "Rava's Answer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rashi Explains",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rava's answer (via Rav A\u1e25a bar Beivai) that the verse is needed to permit tzarah shelo bimkom mitzvah, which is precisely what Rashi's prose section explains \u2014 the Gemara's question of what work the drasha does and the answer that it permits tzarah outside the yibum context.",
+      "second_heading": "Rami bar Chama Objects",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rami bar \u1e24ama's objection to Rava asking why ervah herself should not also be permitted shelo bimkom mitzvah, which matches exactly the 'Rami bar Chama Objects' section's prose about this precise challenge.",
+      "current_heading": "Tzarah Contexts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Rava's Answer",
+    "candidates": [
+      "Rami bar Chama Objects",
+      "Rava's Answer",
+      "Rav Huna: Trei Krai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items continue the direct exchange between Rami bar \u1e24ama and Rava about the *tzarah* and the verse *be-chayeha*, which is precisely what heading 1 ('Rava's Answer') describes \u2014 Rava's use of the verse *be-chayeha* to establish the sweeping prohibition of *achos ishah* and the Gemara's follow-up question about what that phrase is needed to teach.",
+      "chosen_heading": "Rava's Answer",
+      "current_heading": "Rava's Answer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Rav Huna: Trei Krai",
+    "candidates": [
+      "Rav Huna: Trei Krai",
+      "Reconciling Verse Halves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why 'be-chayeha' is needed \u2014 to teach that the prohibition applies even after divorce \u2014 which is exactly what the prose under 'Rav Huna: Trei Krai' describes as the preliminary halakha before examining the contradiction.",
+      "chosen_heading": "Rav Huna: Trei Krai",
+      "current_heading": "Rav Huna: Trei Krai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Reconciling Verse Halves",
+    "candidates": [
+      "Reconciling Verse Halves",
+      "Two Cases Defined",
+      "Reversing the Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Huna bar Ta\u1e25lifa's resolution of the two verse halves (*trei krai ktivi*), explaining the tension between *litzror* (both forbidden) and *legalot ervatah* (singular, one forbidden), which is precisely what the 'Reconciling Verse Halves' prose discusses, including its concluding summary of the two cases that mirrors the Gemara's conclusion.",
+      "chosen_heading": "Reconciling Verse Halves",
+      "current_heading": "Reconciling Verse Halves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Reversing the Rule",
+    "candidates": [
+      "Two Cases Defined",
+      "Reversing the Rule",
+      "Reversal Fails",
+      "Rav Ashi: Permit?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the *ipcha ana* (reversal) challenge \u2014 suggesting bimkom mitzvah she is forbidden and tzarah permitted, shelo bimkom mitzvah both forbidden \u2014 which is exactly what 'Reversing the Rule' describes, and the 'im kein lo yomar aleha' rebuttal belongs under 'Reversal Fails' but is included in this single passage, making heading 1 the best fit since the passage opens with the reversal challenge that defines that section.",
+      "chosen_heading": "Reversing the Rule",
+      "current_heading": "Reversing the Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Rav Ashi: Permit?",
+    "candidates": [
+      "Reversal Fails",
+      "Rav Ashi: Permit?",
+      "Final Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Ashi's challenge to Rav Kahana proposing that 'aleha' comes to permit rather than prohibit, which is exactly what the 'Rav Ashi: Permit?' section's prose describes.",
+      "chosen_heading": "Rav Ashi: Permit?",
+      "current_heading": "Rav Ashi: Permit?",
+      "moved": false
+    }
+  }
+]

@@ -220,7 +220,7 @@
           "timestamp": "47:41"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 19,
       "matched": true
     },
     {
@@ -259,7 +259,7 @@
           "timestamp": "50:54"
         }
       ],
-      "sefaria_index": 22,
+      "sefaria_index": 21,
       "matched": true
     },
     {
@@ -465,5 +465,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "38:39",
+  "amud_b_micro_title": "Direct Contact",
+  "shiur_start_daf": 44,
+  "shiur_start_amud": "a"
 }

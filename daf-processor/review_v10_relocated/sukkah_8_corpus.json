@@ -1,0 +1,387 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Intro: Dirat Keva",
+    "candidates": [
+      "Intro: Dirat Keva",
+      "Rabbi's Requirements",
+      "Rabbi Yoshiya"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Intro: Dirat Keva",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Abaye's introductory list of all the tannaim who hold dirat keva, which belongs under the 'Intro: Dirat Keva' section that explicitly describes Abaye collecting this list of tannaim.",
+      "second_heading": "Rabbi's Requirements",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the specific citation of Rabbi Yehuda HaNasi's baraita about four-by-four cubits, which belongs under 'Rabbi's Requirements' whose prose discusses exactly this baraita and its implication for dirat keva.",
+      "current_heading": "Intro: Dirat Keva",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Rabbi Yoshiya",
+    "candidates": [
+      "Rabbi's Requirements",
+      "Rabbi Yoshiya",
+      "Rabbi Yehuda",
+      "Rabbi Shimon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly references Rabbi Yoshiya's requirement that walls provide shade (impermeable to sunlight), which is precisely what the Rabbi Yoshiya section's prose discusses.",
+      "chosen_heading": "Rabbi Yoshiya",
+      "current_heading": "Rabbi Yoshiya",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Rabbi Shimon",
+    "candidates": [
+      "Rabbi Yehuda",
+      "Rabbi Shimon",
+      "Rabban Gamliel"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Yehuda",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses Rabbi Yehuda's position on the sukka height ruling, which directly matches the 'Rabbi Yehuda' section's prose about that exact mishna.",
+      "second_heading": "Rabbi Shimon",
+      "second_confidence": "high",
+      "second_reason": "Item 2 discusses Rabbi Shimon's requirement for walls, which directly matches the 'Rabbi Shimon' section's prose about that exact baraita on wall requirements.",
+      "current_heading": "Rabbi Shimon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rabban Gamliel",
+    "candidates": [
+      "Rabban Gamliel",
+      "Beit Shammai/Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the Rabban Gamliel/Rabbi Akiva baraita about a sukka on a wagon or boat, which matches perfectly with candidate 0's prose about that exact dispute.",
+      "chosen_heading": "Rabban Gamliel",
+      "current_heading": "Rabban Gamliel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Beit Shammai/Hillel",
+    "candidates": [
+      "Beit Shammai/Hillel",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the Mishnah about one's head and most of his body in the sukkah with the table in the house, which is precisely the dispute the 'Beit Shammai/Hillel' prose section discusses in detail.",
+      "chosen_heading": "Beit Shammai/Hillel",
+      "current_heading": "Beit Shammai/Hillel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Rabbi Eliezer",
+      "Acherim: Corners"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna about Rabbi Eliezer invalidating a sukka shaped like a tzrif or leaned against a wall because it lacks a roof, which is precisely what the prose under heading 0 discusses.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Rabbi Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Acherim: Corners",
+    "candidates": [
+      "Acherim: Corners",
+      "Gemara Principle",
+      "Rabbi Yochanan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita of A\u1e25erim about a circular sukkah being unfit due to lack of corners, which is exactly what the prose under 'Acherim: Corners' discusses.",
+      "chosen_heading": "Acherim: Corners",
+      "current_heading": "Acherim: Corners",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Rabbi Yochanan",
+    "candidates": [
+      "Gemara Principle",
+      "Rabbi Yochanan",
+      "Four-by-Four Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Yochanan's statement about a circular sukkah shaped like a furnace needing circumference for twenty-four people, which is exactly what the 'Rabbi Yochanan' section prose describes and introduces.",
+      "chosen_heading": "Rabbi Yochanan",
+      "current_heading": "Rabbi Yochanan",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Four-by-Four Problem",
+    "candidates": [
+      "Four-by-Four Problem",
+      "Square in Circle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items are part of the same continuous quantitative discussion about why Rabbi Yo\u1e25anan requires twenty-four cubits circumference, covering the 'twelve should suffice' objection and the square-vs-circle calculations, which the prose of heading 0 explicitly describes step by step.",
+      "chosen_heading": "Four-by-Four Problem",
+      "current_heading": "Four-by-Four Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Square in Circle",
+    "candidates": [
+      "Square in Circle",
+      "Diagonal Calculation",
+      "1.4 Diagonal",
+      "16.8 vs 24"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the distinction between a circle inscribed in a square versus a square inscribed in a circle, which is precisely what the 'Square in Circle' section's prose discusses.",
+      "chosen_heading": "Square in Circle",
+      "current_heading": "Square in Circle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "16.8 vs 24",
+    "candidates": [
+      "Diagonal Calculation",
+      "1.4 Diagonal",
+      "16.8 vs 24",
+      "People Sitting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the calculation of 17 minus one-fifth (16.8) being sufficient and Rabbi Yo\u1e25anan's imprecision (lo dak), which is precisely what the '16.8 vs 24' section's prose addresses.",
+      "chosen_heading": "16.8 vs 24",
+      "current_heading": "16.8 vs 24",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "People Sitting",
+    "candidates": [
+      "People Sitting",
+      "Area Ratio"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of question-objection-answer about whether Rabbi Yo\u1e25anan's 'lo dak' (imprecision) is acceptable, covering Mar Keshisha's three-per-two-cubits solution, the leniency objection, and Rav Asi's outer-circle resolution \u2014 exactly the content described in the 'People Sitting' prose.",
+      "chosen_heading": "People Sitting",
+      "current_heading": "People Sitting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "Area Ratio",
+    "candidates": [
+      "Area Ratio",
+      "Tosafot Geometry",
+      "Inner/Outer Structure"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Caesarea Sages/judges statement about circle-in-square and square-in-circle ratios, plus the Gemara's rejection, which is precisely what the 'Area Ratio' section's prose discusses in detail.",
+      "chosen_heading": "Area Ratio",
+      "current_heading": "Area Ratio",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Inner/Outer Structure",
+    "candidates": [
+      "Tosafot Geometry",
+      "Inner/Outer Structure",
+      "Gatehouse Rejected",
+      "Temporary Status",
+      "Ganbakh Cases"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Inner/Outer Structure",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Levi's ruling about two craftsmen's booths (inner/outer), which matches exactly the 'Inner/Outer Structure' prose discussing this same ruling about inner and outer sukkot.",
+      "second_heading": "Gatehouse Rejected",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's challenge about why the outer booth isn't considered a gatehouse obligated in mezuza, which matches the 'Gatehouse Rejected' prose that explicitly discusses this exact question.",
+      "current_heading": "Inner/Outer Structure",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Ganbakh Cases",
+    "candidates": [
+      "Gatehouse Rejected",
+      "Temporary Status",
+      "Ganbakh Cases",
+      "Shade Intent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Ganbakh baraita itself, listing the valid sukkot of gentiles, women, animals, and Samaritans, which is precisely what the 'Ganbakh Cases' section prose describes and discusses.",
+      "chosen_heading": "Ganbakh Cases",
+      "current_heading": "Ganbakh Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Shade Intent",
+    "candidates": [
+      "Shade Intent",
+      "Rakbash Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage specifically appears in the context of the Rakbash cases (shepherds, watchmen, fruit-watchers), where Rav Chisda's statement about 'made for shade' is cited as the condition for validity of those working-people's sukkot, matching candidate 1's prose exactly.",
+      "chosen_heading": "Rakbash Cases",
+      "current_heading": "Shade Intent",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Rakbash Cases",
+    "candidates": [
+      "Shade Intent",
+      "Rakbash Cases",
+      "List Ordering"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "List Ordering",
+      "first_confidence": "high",
+      "first_reason": "Item 1 asks what 'mikol makom' comes to include and answers that it includes the Rakbash cases \u2014 this is precisely the content described in the 'List Ordering' prose about each braita's catchall phrase including the other list's cases.",
+      "second_heading": "Shade Intent",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Rav \u1e24isda's explanation of 'ke-hilkhatah' as requiring shade-intent, which is exactly what the 'Shade Intent' prose discusses in detail.",
+      "current_heading": "Rakbash Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99
+    ],
+    "current_heading": "List Ordering",
+    "candidates": [
+      "List Ordering",
+      "Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss exactly what the 'List Ordering' prose describes: what 'mikol makom' comes to include in each baraita, and why each tanna leads with his respective list (Ganbakh vs. Rakbash) based on permanence vs. obligatory status.",
+      "chosen_heading": "List Ordering",
+      "current_heading": "List Ordering",
+      "moved": false
+    }
+  }
+]

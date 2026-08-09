@@ -1,0 +1,323 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Baraita: Schach Rules",
+    "candidates": [
+      "Lulav Knot Debate",
+      "Rava's Logic",
+      "Tree Parts & Minim",
+      "Baraita: Schach Rules",
+      "Kal VaChomer Issue",
+      "Rabbinic Pushback"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Rava's proof from the sukkah baraita that fibers/trunk of the palm are classified as the lulav species \u2014 this is precisely what heading 2 ('Tree Parts & Minim') describes as Rava going further to prove non-standard tree parts are halachically part of the arba'ah minim, with his proof coming from a debate about the sukkah.",
+      "chosen_heading": "Tree Parts & Minim",
+      "current_heading": "Baraita: Schach Rules",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rabbinic Pushback",
+    "candidates": [
+      "Kal VaChomer Issue",
+      "Rabbinic Pushback",
+      "Torah Overrides",
+      "Ezra's Plant List",
+      "Olive Leaves Problem",
+      "Tzadukim & Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Rabbis' methodological objection about a kal vachomer that begins stringent but ends lenient, which is precisely what the 'Rabbinic Pushback' section's prose describes and discusses.",
+      "chosen_heading": "Rabbinic Pushback",
+      "current_heading": "Rabbinic Pushback",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Tzadukim & Pasuk",
+    "candidates": [
+      "Torah Overrides",
+      "Ezra's Plant List",
+      "Olive Leaves Problem",
+      "Tzadukim & Pasuk",
+      "Yehuda's Solution",
+      "Contradiction Setup",
+      "Trunk Solution",
+      "Eikra Definition",
+      "Cedar & Hadass"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the reductio ad absurdum argument that Rabbi Yehuda's position would cause people to sit idle without fulfilling sukkah, citing Leviticus 23:42 and the Ezra verse \u2014 exactly the content described in the 'Torah Overrides' prose section.",
+      "chosen_heading": "Torah Overrides",
+      "current_heading": "Tzadukim & Pasuk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Cedar & Hadass",
+    "candidates": [
+      "Yehuda's Solution",
+      "Contradiction Setup",
+      "Trunk Solution",
+      "Eikra Definition",
+      "Cedar & Hadass",
+      "Rava to Builders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit: item 1 establishes Rabbi Yehuda's position and the proof from planks, item 2 raises the cedar-plank contradiction, and item 3 resolves it with 'mai erez hadas' \u2014 exactly the content described in the 'Cedar & Hadass' prose.",
+      "chosen_heading": "Cedar & Hadass",
+      "current_heading": "Cedar & Hadass",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Rava to Builders",
+    "candidates": [
+      "Rava to Builders",
+      "Kol L'Naoso",
+      "Rabba's Objection",
+      "Rava: Indirect OK",
+      "Hyssop Extension"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "All three items form a continuous discussion about binding/taking the lulav \u2014 beginning with Rabbi Meir's ruling on cords and gold rings, leading into Rabba's chatzitza concern for the Exilarch's bundlers, and concluding with Rava and Rabba's dispute about interposition and indirect taking \u2014 and the current heading 0 is where this block begins in the essay's flow.",
+      "chosen_heading": "Rava to Builders",
+      "current_heading": "Rava to Builders",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Hyssop Extension",
+    "candidates": [
+      "Kol L'Naoso",
+      "Rabba's Objection",
+      "Rava: Indirect OK",
+      "Hyssop Extension",
+      "Indirect Taking",
+      "Ashes Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents Rava's proof from the hyssop/eizov case in Para Aduma, which is precisely what the 'Hyssop Extension' section's prose describes \u2014 the short eizov extended with a string, dipped, and then grasped directly for sprinkling.",
+      "chosen_heading": "Hyssop Extension",
+      "current_heading": "Hyssop Extension",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Ashes Proof",
+    "candidates": [
+      "Indirect Taking",
+      "Ashes Proof",
+      "Attached vs. Unattached",
+      "Redundancy Question",
+      "Tosafot Resolution",
+      "Min B'Mino",
+      "Context Matters",
+      "No Cramping",
+      "Rava Counters"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly the content described in candidate 0's prose: item 1 is the gemara's rejection of the hyssop proof ('perhaps it is different there, since he attached the string...') and the pivot to the Para Aduma proof, and item 2 is the resolution that intentional pouring counts as taking, proving lekicha al yedei davar acher sh'ma lekicha \u2014 which is precisely what candidate 0's prose describes as the gemara's challenge and turn to the ashes proof.",
+      "chosen_heading": "Indirect Taking",
+      "current_heading": "Ashes Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Rava Counters",
+    "candidates": [
+      "Attached vs. Unattached",
+      "Redundancy Question",
+      "Tosafot Resolution",
+      "Min B'Mino",
+      "Context Matters",
+      "No Cramping",
+      "Rava Counters",
+      "No Cutting"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage contains both Rabba's warning about not cramming the lulav into the hoshana (with the chatzitza concern) and Rava's min b'mino counter-response, which together constitute the complete unit that heading 5 ('No Cramping') introduces \u2014 the current placement under heading 6 splits what belongs together under heading 5.",
+      "chosen_heading": "No Cramping",
+      "current_heading": "Rava Counters",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "No Cutting",
+    "candidates": [
+      "Rava Counters",
+      "No Cutting",
+      "Rava Again",
+      "Huktza Principle",
+      "Etrog Analysis",
+      "Hadass Analysis",
+      "Rashi's Source",
+      "Hadass Permitted",
+      "Etrog Banned",
+      "Prevention Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabba's warning about cutting the lulav causing chatzitza AND Rava's counter-principle, and the 'No Cutting' section's prose explicitly discusses both elements together, making it the best match for this combined statement.",
+      "chosen_heading": "No Cutting",
+      "current_heading": "No Cutting",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Prevention Logic",
+    "candidates": [
+      "Rava Again",
+      "Huktza Principle",
+      "Etrog Analysis",
+      "Hadass Analysis",
+      "Rashi's Source",
+      "Hadass Permitted",
+      "Etrog Banned",
+      "Prevention Logic",
+      "Placement Rule",
+      "3 vs 1 Logic",
+      "Practical Custom",
+      "RY Question",
+      "RZ Answer",
+      "Height Insufficient",
+      "Rambam Option",
+      "Mishna Q",
+      "BH Position",
+      "Psalm Structure",
+      "BS Addition",
+      "Eyewitness"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Huktza Principle",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabba's rulings about smelling hadas/etrog of the mitzvah and hadas/etrog attached to the tree on Shabbat, which correspond to the 'Huktza Principle' section and its follow-on sections about hadas/etrog smelling rules \u2014 but the 'Prevention Logic' prose (candidate 7) best matches items 1-2 together since it discusses both the mitzvah-designation ruling and the attached-tree ruling with the same prevention rationale; however, candidate 1 ('Huktza Principle') explicitly introduces these Rava rulings about smelling hadas/etrog of the mitzvah, making it the best fit for items 1-2.",
+      "second_heading": "Placement Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 3 covers Rabba's ruling about lulav in right hand and etrog in left, plus the bracha question about 'al netilat lulav,' which precisely matches the 'Placement Rule' section (candidate 8) that discusses lulav biyamin ve'etrog bismoal.",
+      "current_heading": "Prevention Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      145
+    ],
+    "current_heading": "Eyewitness",
+    "candidates": [
+      "Placement Rule",
+      "3 vs 1 Logic",
+      "Practical Custom",
+      "RY Question",
+      "RZ Answer",
+      "Height Insufficient",
+      "Rambam Option",
+      "Mishna Q",
+      "BH Position",
+      "Psalm Structure",
+      "BS Addition",
+      "Eyewitness",
+      "Practice Contrast",
+      "Rite Differences",
+      "Trees Burst Forth",
+      "Responsive Format",
+      "Chazan Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The mishna passage introduces the topic of where to wave the lulav during Hallel, which corresponds exactly to the 'Mishna Q' section prose that describes the gemara introducing this very mishna about 'heichan hayu m'na'anim' and the question of when/where shaking takes place.",
+      "chosen_heading": "Mishna Q",
+      "current_heading": "Eyewitness",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      158
+    ],
+    "current_heading": "Chazan Timing",
+    "candidates": [
+      "Practice Contrast",
+      "Rite Differences",
+      "Trees Burst Forth",
+      "Responsive Format",
+      "Chazan Timing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The Gemara passage establishes the premise that waving the lulav was already mentioned in a prior mishna (29b), which is precisely the foundational question that the 'Rite Differences' section addresses when examining where and when to shake \u2014 the gemara's discussion of where to shake is explicitly cited as the prompt for that section's examination of current practice.",
+      "chosen_heading": "Rite Differences",
+      "current_heading": "Chazan Timing",
+      "moved": true
+    }
+  }
+]

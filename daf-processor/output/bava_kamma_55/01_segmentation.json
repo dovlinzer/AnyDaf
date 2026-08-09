@@ -63,7 +63,7 @@
           "timestamp": "08:44"
         }
       ],
-      "sefaria_index": 9,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -155,7 +155,7 @@
           "timestamp": "26:09"
         }
       ],
-      "sefaria_index": 16,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -237,8 +237,8 @@
           "timestamp": "37:30"
         }
       ],
-      "sefaria_index": 26,
-      "matched": true
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Conceptual Framework: Intentional Act of Mazik (Maaseh Mazik) Determines Negligence Threshold",
@@ -261,7 +261,7 @@
           "timestamp": "41:01"
         }
       ],
-      "sefaria_index": 26,
+      "sefaria_index": 23,
       "matched": false
     },
     {
@@ -603,5 +603,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "21:37",
+  "amud_b_micro_title": "Exceptions",
+  "shiur_start_daf": 54,
+  "shiur_start_amud": "b"
 }

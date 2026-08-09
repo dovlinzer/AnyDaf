@@ -1,0 +1,284 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15
+    ],
+    "current_heading": "Ona'ah Full Reimbursement",
+    "candidates": [
+      "4% Threshold Overview",
+      "Din vs. Knas Models",
+      "Im Ba Linafot Framework",
+      "FDA Analogy",
+      "Ona'ah Price Bands",
+      "Ona'ah Full Reimbursement",
+      "Presupposition Difference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items present the baraita about the three ona'ah price bands and the Gemara's proof from the one-sixth case, which is precisely what candidate 4 ('Ona'ah Price Bands') describes \u2014 the three-tier structure of pachos mi-shtus, yoter mi-shtus, and shtus with machazir ona'ah \u2014 rather than candidate 5, which covers the subsequent challenge and resolution plus the broader presupposition discussion.",
+      "chosen_heading": "Ona'ah Price Bands",
+      "current_heading": "Ona'ah Full Reimbursement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Presupposition Difference",
+    "candidates": [
+      "Ona'ah Full Reimbursement",
+      "Presupposition Difference",
+      "10% Tolerance Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection ('hachi hashta?!') of the comparison between ona'ah and the grain case, explaining the meikara shaveh beshaveh principle and the three tiers of ona'ah \u2014 this is precisely the content described in heading 0's prose, which explicitly ends by saying 'the Gemara immediately rejects this comparison: hachi hashta?'",
+      "chosen_heading": "Ona'ah Full Reimbursement",
+      "current_heading": "Presupposition Difference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "10% Tolerance Rule",
+    "candidates": [
+      "10% Tolerance Rule",
+      "Rashbam's Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita establishing the 10% tolerance rule (ten deficient trees per hundred), which is exactly what the '10% Tolerance Rule' section's prose describes, not the Rashbam's conceptual explanation of why exceeding that threshold triggers full replacement.",
+      "chosen_heading": "10% Tolerance Rule",
+      "current_heading": "10% Tolerance Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Rashbam's Explanation",
+    "candidates": [
+      "Rashbam's Explanation",
+      "Tosafot's Job Doctrine",
+      "Disease Transmission",
+      "Wine 10% Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Talmudic source text (Rav Huna son of Rav Yehoshua's statement) that the Rashbam's Explanation section directly quotes and expounds upon.",
+      "chosen_heading": "Rashbam's Explanation",
+      "current_heading": "Rashbam's Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Wine 10% Rule",
+    "candidates": [
+      "Tosafot's Job Doctrine",
+      "Disease Transmission",
+      "Wine 10% Rule",
+      "Braita Three Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening question 'heichi dami' about the wine cellar case, which directly matches the prose in candidate 2 that describes the Gemara turning to the wine cellar case and asking exactly that question.",
+      "chosen_heading": "Wine 10% Rule",
+      "current_heading": "Wine 10% Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Braita Three Cases",
+    "candidates": [
+      "Braita Three Cases",
+      "Mishna-Braita: Cellar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita's three cases (martef shel yayin, martef zeh shel yayin, martef zeh) which is precisely what heading 0 'Braita Three Cases' discusses in its prose.",
+      "chosen_heading": "Braita Three Cases",
+      "current_heading": "Braita Three Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49,
+      50
+    ],
+    "current_heading": "Mishna-Braita: Cellar",
+    "candidates": [
+      "Mishna-Braita: Cellar",
+      "Linguistic Modifiers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain of challenge-and-response about the 'martef shel yayin' cases (stam vs. zeh), culminating in Rav Zevid's baraita identifying the mishna's ruling, which is precisely what the prose of heading 0 describes.",
+      "chosen_heading": "Mishna-Braita: Cellar",
+      "current_heading": "Mishna-Braita: Cellar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Linguistic Modifiers",
+    "candidates": [
+      "Linguistic Modifiers",
+      "Rashbam vs. Gemara",
+      "Lemikze Insertion"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Linguistic Modifiers",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 resolve the contradiction between the two baraitot using the zeh/lemiksa framework and conclude with the Gemara's summary ruling \u2014 exactly what the 'Linguistic Modifiers' prose describes.",
+      "second_heading": "Lemikze Insertion",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 present the Rav Acha/Ravina dispute about martef shel yayin without lemiksa and the inferences each draws from the baraitot \u2014 exactly what the 'Lemikze Insertion' prose describes.",
+      "current_heading": "Linguistic Modifiers",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71
+    ],
+    "current_heading": "Lemikze Insertion",
+    "candidates": [
+      "Rashbam vs. Gemara",
+      "Lemikze Insertion",
+      "Marker Balancing Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's challenge-and-resolution sequence for the two positions (those who infer from Rav Zvid's Braita and those who infer from the earlier Braita), including the chasuri mechasra insertion of lemiksa into the first Braita \u2014 exactly what the 'Lemikze Insertion' prose describes as the subject of that section.",
+      "chosen_heading": "Lemikze Insertion",
+      "current_heading": "Lemikze Insertion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Marker Balancing Logic",
+    "candidates": [
+      "Marker Balancing Logic",
+      "Kossos = Borei Pri",
+      "Shehakol vs Borei Pri",
+      "Form Loss Downgrades"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why the baraita was interpreted as referencing 'for cooking' only to resolve the zeh/zeh contradiction, directly addressing the marker-balancing logic discussed in the current section's prose about how lemikze was inserted specifically to reconcile the contradiction within the braitot.",
+      "chosen_heading": "Marker Balancing Logic",
+      "current_heading": "Marker Balancing Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88
+    ],
+    "current_heading": "Form Loss Downgrades",
+    "candidates": [
+      "Kossos = Borei Pri",
+      "Shehakol vs Borei Pri",
+      "Form Loss Downgrades",
+      "Grape Juice Status",
+      "Barrel Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the continuous dispute about whether souring/shop-sold wine receives borei pri hagafen or shehakol \u2014 Rav Yehuda's ruling, the baraita challenge, and Rav Zevid's resolution \u2014 which precisely matches candidate 0's prose about Rav Yehuda holding that store-quality souring wine (kosesot) still receives borei pri hagafen, rather than candidate 2 where they currently sit.",
+      "chosen_heading": "Kossos = Borei Pri",
+      "current_heading": "Form Loss Downgrades",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Barrel Setup",
+    "candidates": [
+      "Grape Juice Status",
+      "Barrel Setup",
+      "First 3 Days Certain"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye asking Rav Yosef how he rules in the dispute between Rav Yehuda and Rav Chisda, and Rav Yosef responding that he knows a Baraita \u2014 exactly what the 'Barrel Setup' prose describes as the introduction of the new Baraita in response to that question.",
+      "chosen_heading": "Barrel Setup",
+      "current_heading": "Barrel Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "First 3 Days Certain",
+    "candidates": [
+      "First 3 Days Certain",
+      "Spoilage from Top"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items \u2014 the baraita about the three-day window and Rabbi Yo\u1e25anan's clarification that 'certainly wine' is what is meant \u2014 are precisely what the 'First 3 Days Certain' prose describes, making the current placement correct.",
+      "chosen_heading": "First 3 Days Certain",
+      "current_heading": "First 3 Days Certain",
+      "moved": false
+    }
+  }
+]

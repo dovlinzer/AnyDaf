@@ -1,0 +1,594 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Ruach Avrah VaTetaharem",
+    "candidates": [
+      "Gadol Yom HaGeshamim",
+      "Ruach Avrah VaTetaharem",
+      "Bitul Torah",
+      "Gezel & Theft"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the content described in the 'Ruach Avrah VaTetaharem' section: Rav Yosef's derivation from Job 37:21 linking lack of Torah to absence of rain, followed by the Tanna de-bei Rabbi Yishmael teaching about the wind cleansing the clouds \u2014 precisely what that section's prose describes.",
+      "chosen_heading": "Ruach Avrah VaTetaharem",
+      "current_heading": "Ruach Avrah VaTetaharem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Gezel & Theft",
+    "candidates": [
+      "Bitul Torah",
+      "Gezel & Theft",
+      "Gezel & Tefillah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses rain being withheld due to gezel/robbery, and candidate 1 ('Gezel & Theft') directly quotes and explains this exact Talmudic statement about kapayim, chamas, and or/matar, matching the passage's content precisely.",
+      "chosen_heading": "Gezel & Theft",
+      "current_heading": "Gezel & Theft",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Gezel & Tefillah",
+    "candidates": [
+      "Gezel & Tefillah",
+      "Rakia Kehah Kabarzel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the remedy (prayer) for one who has caused rain to be withheld through gezel, which matches precisely the 'Gezel & Tefillah' section's prose about mai takantei, yarbeh bitfillah, and the pegi'ah/tefillah connection.",
+      "chosen_heading": "Gezel & Tefillah",
+      "current_heading": "Gezel & Tefillah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Rakia Kehah Kabarzel",
+    "candidates": [
+      "Rakia Kehah Kabarzel",
+      "Yitgabru BeRachamim",
+      "Talmid & Kasheh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Ami's statement about a sky blunt as iron withholding rain due to the corrupt deeds of the generation, which is precisely what the 'Rakia Kehah Kabarzel' section's prose discusses.",
+      "chosen_heading": "Rakia Kehah Kabarzel",
+      "current_heading": "Rakia Kehah Kabarzel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Talmid & Kasheh",
+    "candidates": [
+      "Yitgabru BeRachamim",
+      "Talmid & Kasheh",
+      "Seider Matnitei",
+      "Forty vs. Twenty-Four"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Yitgabru BeRachamim",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing remedy for the rain/prayer discussion ('yitgabru berachamim'), which perfectly matches heading 0's prose about prayer as the remedy for withheld rain.",
+      "second_heading": "Talmid & Kasheh",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 introduce Reish Lakish's shift to the talmud Torah context (hard study, Mishna organization, remedy of increased sitting), which exactly matches heading 1's prose about the student whose learning is hard as iron.",
+      "current_heading": "Talmid & Kasheh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Forty vs. Twenty-Four",
+    "candidates": [
+      "Seider Matnitei",
+      "Forty vs. Twenty-Four",
+      "Master's Responsibility"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly Reish Lakish reviewing forty times and Rav Adda bar Ahava reviewing twenty-four times, which is precisely what the 'Forty vs. Twenty-Four' section's prose discusses in detail.",
+      "chosen_heading": "Forty vs. Twenty-Four",
+      "current_heading": "Forty vs. Twenty-Four",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Master's Responsibility",
+    "candidates": [
+      "Master's Responsibility",
+      "Yarbeh Alav Rei'im"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rava's teaching that a student's difficulty is due to the teacher not showing a friendly countenance, which directly matches the 'Master's Responsibility' section prose discussing exactly this point.",
+      "chosen_heading": "Master's Responsibility",
+      "current_heading": "Master's Responsibility",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46
+    ],
+    "current_heading": "Yarbeh Alav Rei'im",
+    "candidates": [
+      "Yarbeh Alav Rei'im",
+      "Nachash Belo Lachash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the remedy of increasing friends (yarbeh alav rei'im) and the verse about strength/colleagues, which is precisely what the prose under heading 0 elaborates upon.",
+      "chosen_heading": "Yarbeh Alav Rei'im",
+      "current_heading": "Yarbeh Alav Rei'im",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Nachash Belo Lachash",
+    "candidates": [
+      "Nachash Belo Lachash",
+      "Yeilech Eitzel Mi Sheyod"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Ami's teaching about the absence of prayer causing drought, which is precisely what the 'Nachash Belo Lachash' section's prose addresses.",
+      "chosen_heading": "Nachash Belo Lachash",
+      "current_heading": "Nachash Belo Lachash",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Yeilech Eitzel Mi Sheyod",
+    "candidates": [
+      "Yeilech Eitzel Mi Sheyod",
+      "Chasid Shebador"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 finding someone who knows how to whisper/pray and the verse about the charmer having no advantage \u2014 directly matches the prose under heading 0, which explicitly discusses 'yeilech eitzel mi sheyodei'a lelachash' and the phrase 've-ein yitron l'va'al halashon... mah hanayah lo.'",
+      "chosen_heading": "Yeilech Eitzel Mi Sheyod",
+      "current_heading": "Yeilech Eitzel Mi Sheyod",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Chasid Shebador",
+    "candidates": [
+      "Chasid Shebador",
+      "Magis Da'ato Alav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses going to the chasid shebador when prayer is unanswered, which is precisely what candidate 0's prose addresses in detail.",
+      "chosen_heading": "Chasid Shebador",
+      "current_heading": "Chasid Shebador",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Magis Da'ato Alav",
+    "candidates": [
+      "Magis Da'ato Alav",
+      "Mitkana'im B'Af"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about an individual who prays successfully for rain and becomes prideful, which exactly matches the prose under 'Magis Da'ato Alav' discussing haughtiness after answered prayer bringing anger to the world.",
+      "chosen_heading": "Magis Da'ato Alav",
+      "current_heading": "Magis Da'ato Alav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Mitkana'im B'Af",
+    "candidates": [
+      "Mitkana'im B'Af",
+      "Yigid Alav Re'o",
+      "Chayot & Nachash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rava's statement regarding two Torah scholars who are not courteous with one another in halacha causing anger to rise is precisely what the prose under heading 0 ('Mitkana'im B'Af') discusses in detail.",
+      "chosen_heading": "Mitkana'im B'Af",
+      "current_heading": "Mitkana'im B'Af",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Chayot & Nachash",
+    "candidates": [
+      "Yigid Alav Re'o",
+      "Chayot & Nachash",
+      "Lashon Hara: Harmful Talk",
+      "Nisa Levavenu El Kapayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0's prose explicitly introduces this passage with 'Amar Reish Lakish: mai dichtig im yishoch hanachash belo lachash' \u2014 directly quoting the opening of this Gemara text and signaling it belongs under that heading, not under the 'Chayot & Nachash' heading which discusses the animals' confrontation (the continuation of the passage).",
+      "chosen_heading": "Yigid Alav Re'o",
+      "current_heading": "Chayot & Nachash",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Nisa Levavenu El Kapayim",
+    "candidates": [
+      "Lashon Hara: Harmful Talk",
+      "Nisa Levavenu El Kapayim",
+      "Vayefatuhu BeFilhem",
+      "Yachid vs. Tzibur"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Ami's statement about sincere prayer ('nisa levavenu el kapayim') and the challenge from Shmuel's teaching about insincere prayer, and the section 1 prose ('Nisa Levavenu El Kapayim') explicitly discusses Rabbi Ami's teaching while section 2 ('Vayefatuhu BeFilhem') discusses only the challenge \u2014 the full passage including both the statement and the objection belongs under the heading that introduces Rabbi Ami's principle, which is section 1.",
+      "chosen_heading": "Nisa Levavenu El Kapayim",
+      "current_heading": "Nisa Levavenu El Kapayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Yachid vs. Tzibur",
+    "candidates": [
+      "Vayefatuhu BeFilhem",
+      "Yachid vs. Tzibur",
+      "Emet Me-Eretz Tizmakh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'lo kashya kan b'yachid kan b'tzibur' is precisely the resolution being analyzed in the 'Yachid vs. Tzibur' section, which explicitly discusses this individual/community distinction.",
+      "chosen_heading": "Yachid vs. Tzibur",
+      "current_heading": "Yachid vs. Tzibur",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Emet Me-Eretz Tizmakh",
+    "candidates": [
+      "Emet Me-Eretz Tizmakh",
+      "Chulda U-Vor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Ami's statement that rain falls due to faithful people, citing 'Truth springs out of the earth,' directly matches the prose in heading 0 which explicitly discusses this same statement and verse.",
+      "chosen_heading": "Emet Me-Eretz Tizmakh",
+      "current_heading": "Emet Me-Eretz Tizmakh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Chulda U-Vor",
+    "candidates": [
+      "Chulda U-Vor",
+      "Din Min Shamayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is directly about the marten and pit story and the faithfulness of those who keep oaths, which is precisely what the 'Chulda U-Vor' section's prose discusses in detail.",
+      "chosen_heading": "Chulda U-Vor",
+      "current_heading": "Chulda U-Vor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Din Min Shamayim",
+    "candidates": [
+      "Din Min Shamayim",
+      "Veki'Yiratekha Evratekha",
+      "Oseh Tzedek BiDrachekha",
+      "Sameach BeYissurin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Yochanan's teaching (matching heading 0's prose exactly) and Rabbi Chiyya bar Avin/Rav Huna's citation (matching heading 1), but since both statements appear together in one Talmudic unit and heading 0's prose explicitly discusses both the Rabbi Yochanan statement and the verse emet me-eretz tizmakh, while heading 1 seems to be a separate section for the second statement alone, the current placement under heading 0 keeps the unified passage intact \u2014 however, heading 1's prose describes exactly the second half of this passage, suggesting it may have been intended to be split; but since we must place it under ONE heading and the passage begins with Rabbi Yochanan's statement which matches heading 0, the current placement is correct.",
+      "chosen_heading": "Din Min Shamayim",
+      "current_heading": "Din Min Shamayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      111
+    ],
+    "current_heading": "Sameach BeYissurin",
+    "candidates": [
+      "Veki'Yiratekha Evratekha",
+      "Oseh Tzedek BiDrachekha",
+      "Sameach BeYissurin",
+      "Atzrat HaShamayim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both Reish Lakish's citation of the Isaiah verse about rejoicing in righteousness AND Rabbi Yehoshua ben Levi's teaching derived from it, and candidate 1's prose explicitly discusses Reish Lakish's verse about those who rejoice in doing righteousness, making it the natural home for the full passage rather than candidate 2 which focuses only on the ben Levi teaching.",
+      "chosen_heading": "Oseh Tzedek BiDrachekha",
+      "current_heading": "Sameach BeYissurin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Atzrat HaShamayim",
+    "candidates": [
+      "Sameach BeYissurin",
+      "Atzrat HaShamayim",
+      "Atzira & Leida"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present Reish Lakish's teaching about 'atzira' (closing) connecting the heavens to a woman in labor, which is precisely what the 'Atzrat HaShamayim' prose discusses \u2014 the imagery of divine longing and blocked connection \u2014 while 'Atzira & Leida' covers the elaborated Bar Kappara gezerah shavah with both atzira and leida parallels, which is a distinct next step.",
+      "chosen_heading": "Atzrat HaShamayim",
+      "current_heading": "Atzrat HaShamayim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Atzira & Leida",
+    "candidates": [
+      "Atzira & Leida",
+      "Pekida"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the leida (giving birth) verbal analogy between woman and rain, which is explicitly addressed in the 'Atzira & Leida' section's prose that quotes these exact verses.",
+      "chosen_heading": "Atzira & Leida",
+      "current_heading": "Atzira & Leida",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127
+    ],
+    "current_heading": "Pekida",
+    "candidates": [
+      "Pekida",
+      "Peleg Elokim",
+      "Im Leshevet Letzedaka"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Pekida",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the pekida gezerah shavah connecting woman and rain, which is precisely what candidate 0's prose discusses.",
+      "second_heading": "Peleg Elokim",
+      "second_confidence": "high",
+      "second_reason": "Item 2 asks 'Mai peleg Elokim malei mayim?' and answers with the kubba baraita, which is exactly what candidate 1's prose discusses.",
+      "current_heading": "Pekida",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135
+    ],
+    "current_heading": "Im Leshevet Letzedaka",
+    "candidates": [
+      "Peleg Elokim",
+      "Im Leshevet Letzedaka",
+      "Kafna U'Motna",
+      "Yod Chodesh Mamtir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rabbi Shmuel bar Na\u1e25mani's interpretation of Job 37:12\u201313 regarding how rain is calibrated according to divine decree, which is precisely what the prose of candidate 1 ('Im Leshevet Letzedaka') discusses in detail.",
+      "chosen_heading": "Im Leshevet Letzedaka",
+      "current_heading": "Im Leshevet Letzedaka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      143
+    ],
+    "current_heading": "Yod Chodesh Mamtir",
+    "candidates": [
+      "Kafna U'Motna",
+      "Yod Chodesh Mamtir",
+      "Nitzuma Vinvakshah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the full episode of the famine and plague dilemma including Rabbi Shmuel bar Nachmani's resolution, which matches candidate 0's prose exactly \u2014 candidate 0 discusses both the deliberation and Rabbi Shmuel's answer about praying for the famine, while candidate 1 ('Yod Chodesh Mamtir') is where it currently sits but its prose is about a different topic.",
+      "chosen_heading": "Kafna U'Motna",
+      "current_heading": "Yod Chodesh Mamtir",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      146
+    ],
+    "current_heading": "Nitzuma Vinvakshah",
+    "candidates": [
+      "Yod Chodesh Mamtir",
+      "Nitzuma Vinvakshah",
+      "Lo Lemitav B'Ta'anita",
+      "Nikblu Aleivan"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the principle of not praying for two troubles simultaneously, derived from Ezra 8:23 and Daniel 2:18, which exactly matches the prose of candidate 1 ('Nitzuma Vinvakshah') where the current placement is correct.",
+      "chosen_heading": "Nitzuma Vinvakshah",
+      "current_heading": "Nitzuma Vinvakshah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Nikblu Aleivan",
+    "candidates": [
+      "Lo Lemitav B'Ta'anita",
+      "Nikblu Aleivan",
+      "Natata Libcha L'Hitanot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the decree against fasting and its context, which directly matches candidate 0's prose about the edict targeting communal fasting, whereas candidate 1 covers Rabbi Zeira's response of accepting the fast upon themselves \u2014 a subsequent narrative element.",
+      "chosen_heading": "Lo Lemitav B'Ta'anita",
+      "current_heading": "Nikblu Aleivan",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      156
+    ],
+    "current_heading": "Natata Libcha L'Hitanot",
+    "candidates": [
+      "Nikblu Aleivan",
+      "Natata Libcha L'Hitanot",
+      "Ta'anit & Anah",
+      "Siman Klala"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly the Gemara question and Daniel verse answer that the prose of heading 1 explicitly describes, making the current placement correct.",
+      "chosen_heading": "Natata Libcha L'Hitanot",
+      "current_heading": "Natata Libcha L'Hitanot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      163
+    ],
+    "current_heading": "Siman Klala",
+    "candidates": [
+      "Ta'anit & Anah",
+      "Siman Klala",
+      "Yoma D'Mitra",
+      "Divine Communication"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the content described in the 'Siman Klala' prose \u2014 Rabbi Yitzchak's statement about rain on Shabbat eves being a sign of curse, Rabba bar Sheila's comparison to a day of judgment, and Ameimar's statement \u2014 all of which are introduced and explained under this heading's prose.",
+      "chosen_heading": "Siman Klala",
+      "current_heading": "Siman Klala",
+      "moved": false
+    }
+  }
+]

@@ -82,8 +82,8 @@
           "timestamp": "14:15"
         }
       ],
-      "sefaria_index": 1,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara's Analysis: Why Fields Differ from Homes in Halakhic Status",
@@ -106,7 +106,7 @@
           "timestamp": "15:39"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -125,7 +125,7 @@
           "timestamp": "18:20"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -144,7 +144,7 @@
           "timestamp": "22:56"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -158,7 +158,7 @@
           "timestamp": "25:12"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 13,
       "matched": false
     },
     {
@@ -172,7 +172,7 @@
           "timestamp": "25:12"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 13,
       "matched": false
     },
     {
@@ -220,8 +220,8 @@
           "timestamp": "56:15"
         }
       ],
-      "sefaria_index": 18,
-      "matched": true
+      "sefaria_index": 15,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -444,9 +444,9 @@
     }
   ],
   "amud_b_sefaria_index": 14,
-  "amud_b_segment_index": 2,
-  "amud_b_timestamp": "14:15",
-  "amud_b_micro_title": "Bathhouse Ban",
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "21:56",
+  "amud_b_micro_title": "Yossi in Israel",
   "shiur_start_daf": 21,
   "shiur_start_amud": "a"
 }

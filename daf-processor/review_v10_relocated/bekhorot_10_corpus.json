@@ -1,0 +1,367 @@
+[
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "current_heading": "Shimon's Benefit View",
+    "candidates": [
+      "Intro to Peter Chamor",
+      "Braita: Forbidden Things",
+      "Basar Bechalav Exception",
+      "Sha'at Kosher Argument",
+      "Shimon's Benefit View",
+      "Braita Proof",
+      "Donkey Meat Avoidance",
+      "Evasion Rejected",
+      "Thirteen Things"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All four items directly concern Rabbi Shimon's view that basar bechalav is mutar behana'ah (items 1-2), the challenge about why sha'at kosher is needed if it can be fed to non-Jews (item 3), and the Gemara's resolution that both reasons apply (item 4) \u2014 exactly what heading 4 'Shimon's Benefit View' describes in its prose.",
+      "chosen_heading": "Shimon's Benefit View",
+      "current_heading": "Shimon's Benefit View",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Thirteen Things",
+    "candidates": [
+      "Braita Proof",
+      "Donkey Meat Avoidance",
+      "Evasion Rejected",
+      "Thirteen Things",
+      "Forbidden=Food Debate",
+      "Kosher/Non-Kosher",
+      "Seifa Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the 'issuro chishuvo' principle (item 1) and the challenge to it from the thirteen things mishna (item 2), which together constitute the content of the 'Evasion Rejected' section \u2014 where the Rabbis' principle that forbidden status confers food-significance is introduced and immediately tested, matching that prose's description of how the evasion fails because the Rabbis must rely on issuro chishuvo to have any basis for calling donkey meat food.",
+      "chosen_heading": "Evasion Rejected",
+      "current_heading": "Thirteen Things",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Seifa Proof",
+    "candidates": [
+      "Forbidden=Food Debate",
+      "Kosher/Non-Kosher",
+      "Seifa Proof",
+      "Rava's Conclusion",
+      "Practice Shechita",
+      "Nimos vs Eliezer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Seifa Proof",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20134 directly address the 'Seifa Proof' discussion: the challenge from the mishna in Okatzin, the inference from the seifa that the reisha must be the Rabbis, and Rava's conclusion that no one holds issuro chishuvo \u2014 all of which the 'Seifa Proof' prose explicitly describes.",
+      "second_heading": "Practice Shechita",
+      "second_confidence": "high",
+      "second_reason": "Items 5\u20136 introduce the new scenario of slaughtering for shechitah practice and locate the dispute in the Nimos/Rabbi Eliezer debate, which is precisely what the 'Practice Shechita' and 'Nimos vs Eliezer' sections describe \u2014 item 6 explicitly names Nimos and Rabbi Eliezer, matching the 'Nimos vs Eliezer' prose.",
+      "current_heading": "Seifa Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Nimos vs Eliezer",
+    "candidates": [
+      "Rava's Conclusion",
+      "Practice Shechita",
+      "Nimos vs Eliezer",
+      "Kosher Signs Factor",
+      "Rejection of Reason",
+      "Debate Uncertainty",
+      "Lo Ratza Braita"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Nimos vs Eliezer",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 present the Nimos/Rabbi Eliezer baraita and the explanation of their dispute via issuro chishuvo, which is exactly what candidate 2's prose describes.",
+      "second_heading": "Kosher Signs Factor",
+      "second_confidence": "high",
+      "second_reason": "Items 5-7 raise the alternative explanation that Rabbi Eliezer's reasoning stems from the raven's kosher simanim rather than the practice-shechitah, which is precisely what candidate 3's prose describes.",
+      "current_heading": "Nimos vs Eliezer",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77
+    ],
+    "current_heading": "Lo Ratza Braita",
+    "candidates": [
+      "Kosher Signs Factor",
+      "Rejection of Reason",
+      "Debate Uncertainty",
+      "Lo Ratza Braita",
+      "Shimon Permits",
+      "Evasion Attempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita introduced in 'Lo Ratza Braita' that directly presents the dispute between Rabbi Yehuda and Rabbi Shimon about the firstborn donkey whose neck is broken, matching exactly the prose description of that section.",
+      "chosen_heading": "Lo Ratza Braita",
+      "current_heading": "Lo Ratza Braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Evasion Attempt",
+    "candidates": [
+      "Shimon Permits",
+      "Evasion Attempt",
+      "Two Benefit Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's evasion attempt and its refutation: item 1 proposes reinterpreting the reisha as referring to the living donkey, item 2 challenges that reinterpretation, and item 3 provides the evidence (the seifa's content about shearing/labor) that defeats the evasion \u2014 exactly what the 'Evasion Attempt' prose describes.",
+      "chosen_heading": "Evasion Attempt",
+      "current_heading": "Evasion Attempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Two Benefit Types",
+    "candidates": [
+      "Two Benefit Types",
+      "Dual Benefit Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's resolution distinguishing hana'at damim (first clause) from hana'at gufo (latter clause) for a living animal, which is precisely what the 'Two Benefit Types' prose describes.",
+      "chosen_heading": "Two Benefit Types",
+      "current_heading": "Two Benefit Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Dual Benefit Teaching",
+    "candidates": [
+      "Dual Benefit Teaching",
+      "Nachman: Admits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why both cases (benefit from value and benefit from the animal itself) needed to be stated explicitly \u2014 the classic tzricha argument \u2014 which is precisely what the 'Dual Benefit Teaching' prose discusses.",
+      "chosen_heading": "Dual Benefit Teaching",
+      "current_heading": "Dual Benefit Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Nachman: Admits",
+    "candidates": [
+      "Nachman: Admits",
+      "Gezerah Shavah Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Na\u1e25man citing Rabba bar Avuh's ruling that Rabbi Shimon concedes the donkey is forbidden after neck-breaking, which matches the 'Nachman: Admits' heading's prose about this exact concession, not the gezerah shavah proof discussed under heading 1.",
+      "chosen_heading": "Nachman: Admits",
+      "current_heading": "Nachman: Admits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Gezerah Shavah Proof",
+    "candidates": [
+      "Gezerah Shavah Proof",
+      "Sheshet Counter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute exactly Rav Nachman's gezerah shavah proof and the immediate identification of its tanna as Rabbi Shimon, which is precisely what the prose of heading 0 describes.",
+      "chosen_heading": "Gezerah Shavah Proof",
+      "current_heading": "Gezerah Shavah Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Sheshet Counter",
+    "candidates": [
+      "Sheshet Counter",
+      "Punitive Loss Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Sheshet's statement that Safra interpreted the baraita as Rabbi Yehuda, explaining that arifah standing in place of pidyon might have been thought to permit benefit \u2014 exactly what the 'Sheshet Counter' prose describes.",
+      "chosen_heading": "Sheshet Counter",
+      "current_heading": "Sheshet Counter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Punitive Loss Proof",
+    "candidates": [
+      "Punitive Loss Proof",
+      "Loss Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rav Nachman's citation of Levi's baraita as a proof, which is precisely what the 'Punitive Loss Proof' section describes \u2014 the current placement is correct.",
+      "chosen_heading": "Punitive Loss Proof",
+      "current_heading": "Punitive Loss Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109,
+      110,
+      111
+    ],
+    "current_heading": "Loss Explanation",
+    "candidates": [
+      "Loss Explanation",
+      "Yochanan: Both Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute the Gemara's two-pronged rejection of the proof \u2014 explaining the 'loss' as either the redemption-differential (Rabbi Yehuda) or depreciation of death (Rabbi Shimon) \u2014 which is precisely what the 'Loss Explanation' prose describes.",
+      "chosen_heading": "Loss Explanation",
+      "current_heading": "Loss Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Yochanan: Both Permitted",
+    "candidates": [
+      "Yochanan: Both Permitted",
+      "Marriage Mishnah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage reports both Reish Lakish's view (Rabbi Shimon concedes forbidden status after arifah) and Rabbi Yochanan/Elazar's opposing view (the dispute continues), which directly corresponds to the 'Yochanan: Both Permitted' section's prose about Rabbi Yochanan holding that the dispute extends to both stages.",
+      "chosen_heading": "Yochanan: Both Permitted",
+      "current_heading": "Yochanan: Both Permitted",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Marriage Mishnah",
+    "candidates": [
+      "Marriage Mishnah",
+      "Mishnah Problem",
+      "Shekel Minimum",
+      "Yosi's Minimum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Na\u1e25man's statement applied to the Kiddushin mishnah about betrothal with a firstborn donkey and his resolution that it refers to after arifah \u2014 exactly what the 'Marriage Mishnah' prose describes.",
+      "chosen_heading": "Marriage Mishnah",
+      "current_heading": "Marriage Mishnah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Yosi's Minimum",
+    "candidates": [
+      "Mishnah Problem",
+      "Shekel Minimum",
+      "Yosi's Minimum",
+      "Core Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items together constitute the baraita citation and its analysis (the two expositions of 'tifdeh', the challenge that these are obvious, the answer about the juxtaposition with firstborn son, and the conclusion) \u2014 exactly what heading 2 'Yosi's Minimum' describes as the Gemara citing the baraita about tifdeh and Rabbi Yosi b'Rabbi Yehuda's shekel minimum, which is the current placement.",
+      "chosen_heading": "Yosi's Minimum",
+      "current_heading": "Yosi's Minimum",
+      "moved": false
+    }
+  }
+]

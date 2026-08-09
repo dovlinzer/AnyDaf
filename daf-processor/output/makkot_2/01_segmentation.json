@@ -111,7 +111,7 @@
           "timestamp": "21:44"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -164,7 +164,7 @@
           "timestamp": "32:27"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -188,8 +188,8 @@
           "timestamp": "40:28"
         }
       ],
-      "sefaria_index": 7,
-      "matched": true
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Case 2 Detailed: Galut (Exile) and Unintentional Killing",
@@ -639,5 +639,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 7
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "40:05",
+  "amud_b_micro_title": "Challenge",
+  "shiur_start_daf": 2,
+  "shiur_start_amud": "a"
 }

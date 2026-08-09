@@ -1,0 +1,391 @@
+[
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Woman's Sales Rights",
+    "candidates": [
+      "Debt Sale Problem",
+      "Market Destruction Issue",
+      "Tosfos Solutions",
+      "Historical Significance",
+      "Woman's Sales Rights",
+      "First Braita",
+      "Second Braita",
+      "Gemara Analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage introduces the Gemara's suggestion that the dispute between the two baraitot reflects a disagreement about takanas Usha, which is precisely what the 'Woman's Sales Rights' section's prose describes as the driving question.",
+      "chosen_heading": "Woman's Sales Rights",
+      "current_heading": "Woman's Sales Rights",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Gemara Analysis",
+    "candidates": [
+      "First Braita",
+      "Second Braita",
+      "Gemara Analysis",
+      "Rava's Principle",
+      "Shichru & Identity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are part of the Gemara's initial analysis assuming everyone agrees kinyan peiros is not like kinyan haguf, exploring whether the two braitot dispute takanas Usha itself or reflect different historical periods \u2014 exactly what the 'Gemara Analysis' prose describes.",
+      "chosen_heading": "Gemara Analysis",
+      "current_heading": "Gemara Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Shichru & Identity",
+    "candidates": [
+      "Rava's Principle",
+      "Shichru & Identity",
+      "Kinyan Peiros Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the alternative explanation invoking Rava's principle, Rava's statement that hekdesh/chametz/shichrur abrogate liens, and the Gemara's question and answer about whether Rava's principle is a tannaitic dispute \u2014 are precisely the content described in the 'Shichru & Identity' prose, which explicitly discusses Rava's principle, its application to the wife freeing the slave, and the leima de-Rava tanna'ei hi question and its resolution.",
+      "chosen_heading": "Shichru & Identity",
+      "current_heading": "Shichru & Identity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Kinyan Peiros Debate",
+    "candidates": [
+      "Kinyan Peiros Debate",
+      "Ameimar Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All seven items constitute the kinyan peiros debate \u2014 the 'ibba'it eima' resolution, the baraita about selling a slave with a 30-day service condition, and the four tannaitic opinions (Rabbi Meir, Rabbi Yehuda, Rabbi Yosei, Rabbi Eliezer) plus Rava's explanation \u2014 which is precisely what the 'Kinyan Peiros Debate' prose describes in detail.",
+      "chosen_heading": "Kinyan Peiros Debate",
+      "current_heading": "Kinyan Peiros Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Ameimar Teaching",
+    "candidates": [
+      "Ameimar Teaching",
+      "Full Ownership Req."
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Ameimar's ruling about husband and wife selling nichsei melog and identifies it as following Rabbi Eliezer's opinion, which is precisely what the 'Ameimar Teaching' prose discusses in detail.",
+      "chosen_heading": "Ameimar Teaching",
+      "current_heading": "Ameimar Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Full Ownership Req.",
+    "candidates": [
+      "Full Ownership Req.",
+      "Boshet Principle",
+      "Fixed Amounts List"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the half-slave/two-partners braita and Rabbi Eliezer's derivation that 'his slave' must be exclusively owned, which is precisely what the 'Full Ownership Req.' prose describes.",
+      "chosen_heading": "Full Ownership Req.",
+      "current_heading": "Full Ownership Req.",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Fixed Amounts List",
+    "candidates": [
+      "Boshet Principle",
+      "Fixed Amounts List",
+      "Rabbi Akiva's Dignity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the mishna text that section 1's prose explicitly walks through line by line \u2014 the fixed payment schedule for striking, slapping, pulling ears, spitting, removing a cloak, and uncovering a woman's hair \u2014 exactly the content described in the 'Fixed Amounts List' prose.",
+      "chosen_heading": "Fixed Amounts List",
+      "current_heading": "Fixed Amounts List",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Rabbi Akiva's Dignity",
+    "candidates": [
+      "Rabbi Akiva's Dignity",
+      "Hair Uncovering Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Akiva's statement about poor Jews being viewed as fallen freemen of noble lineage, which is precisely what the prose under 'Rabbi Akiva's Dignity' discusses and analyzes.",
+      "chosen_heading": "Rabbi Akiva's Dignity",
+      "current_heading": "Rabbi Akiva's Dignity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Hair Uncovering Story",
+    "candidates": [
+      "Hair Uncovering Story",
+      "Objective Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together narrate the incident of the man who uncovered the woman's hair, his scheme with the oil, and his challenge before Rabbi Akiva \u2014 exactly the story described in the 'Hair Uncovering Story' prose, not the legal analysis in 'Objective Value'.",
+      "chosen_heading": "Hair Uncovering Story",
+      "current_heading": "Hair Uncovering Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Objective Value",
+    "candidates": [
+      "Objective Value",
+      "Core Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Rabbi Akiva ruling about injuring oneself vs. others and cutting saplings, which is exactly what the 'Objective Value' prose elaborates on in detail.",
+      "chosen_heading": "Objective Value",
+      "current_heading": "Objective Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Core Problem",
+    "candidates": [
+      "Core Problem",
+      "Tarfon vs Akiva"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara discussion about whether the mishna means maneh Tzori or maneh medinah, resolved by the story of Rabbi Yehuda Nesia, followed by the immediate question of whether a witness can become a judge \u2014 exactly the content described in candidate 0's prose.",
+      "chosen_heading": "Core Problem",
+      "current_heading": "Core Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101
+    ],
+    "current_heading": "Tarfon vs Akiva",
+    "candidates": [
+      "Tarfon vs Akiva",
+      "Day vs Night Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the baraita about Sanhedrin witnessing a murder and the Tarfon/Akiva dispute, followed by the Gemara's inference limiting Tarfon's position \u2014 exactly what candidate 0's prose describes as its central content.",
+      "chosen_heading": "Tarfon vs Akiva",
+      "current_heading": "Tarfon vs Akiva",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Day vs Night Rule",
+    "candidates": [
+      "Day vs Night Rule",
+      "Alt Explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the night/day distinction (ra'u ba-layla, not permitted to practice judgment), which is exactly what candidate 0's prose discusses as the Gemara's resolution involving nocturnal sighting preventing the judge from treating his observation as received testimony.",
+      "chosen_heading": "Day vs Night Rule",
+      "current_heading": "Day vs Night Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Alt Explanation",
+    "candidates": [
+      "Alt Explanation",
+      "Instrument Rule",
+      "Akiva Objection",
+      "Witness Assessment"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the 've-i ba'it eima' alternative explanation where Rabbi Yehuda Nesia's statement is reread as ruling like Rabbi Yossi HaGlili rather than personally witnessing, which is exactly what the 'Alt Explanation' prose describes.",
+      "chosen_heading": "Alt Explanation",
+      "current_heading": "Alt Explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124
+    ],
+    "current_heading": "Witness Assessment",
+    "candidates": [
+      "Instrument Rule",
+      "Akiva Objection",
+      "Witness Assessment",
+      "Judgment Order Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form one continuous discussion: items 1-6 present the baraita with Shimon HaTimni's instrument rule and Rabbi Akiva's objections (including the building example), and items 7-8 resolve the apparent contradiction with Rabbi Akiva's view on ed na'aseh dayan \u2014 this entire unit matches the 'Akiva Objection' prose which explicitly covers both the objection and the baraita attribution question, whereas the current placement under 'Witness Assessment' only fits items 5-8.",
+      "chosen_heading": "Akiva Objection",
+      "current_heading": "Witness Assessment",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Judgment Order Rule",
+    "candidates": [
+      "Witness Assessment",
+      "Judgment Order Rule",
+      "Tam Ox Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita about sequencing judgments for killing and damage, which is precisely what the 'Judgment Order Rule' prose describes \u2014 the tam/mu'ad distinction in ordering dinei nefashot vs. dinei mammonot.",
+      "chosen_heading": "Judgment Order Rule",
+      "current_heading": "Judgment Order Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Tam Ox Rule",
+    "candidates": [
+      "Tam Ox Rule",
+      "Mu'ad Problem",
+      "Rava's Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly raises the question of why the order of proceedings matters for the mu'ad case \u2014 'if they proceeded and judged it first as capital law, what of it? Let them go back and judge it also as monetary law' \u2014 which is precisely the question the 'Mu'ad Problem' prose poses about why sequencing should matter when the owner pays from his own pocket regardless.",
+      "chosen_heading": "Mu'ad Problem",
+      "current_heading": "Tam Ox Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Rava's Source",
+    "candidates": [
+      "Mu'ad Problem",
+      "Rava's Source",
+      "Execution Delay"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rava's Source",
+      "first_confidence": "high",
+      "first_reason": "Item 1 reports Rava finding the scholars and their invocation of Shimon HaTeimani's fist-analogy, which is exactly what candidate 1 ('Rava's Source') describes in its prose.",
+      "second_heading": "Execution Delay",
+      "second_confidence": "high",
+      "second_reason": "Item 2 states the consequence \u2014 once condemned to death the ox cannot be delayed for beis din's assessment \u2014 which is precisely what candidate 2 ('Execution Delay') discusses in its prose.",
+      "current_heading": "Rava's Source",
+      "moved": true
+    }
+  }
+]

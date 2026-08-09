@@ -112,9 +112,7 @@ The *gemara* uses this *mishna* to demonstrate that even within the context of a
 
 ### Limb Pulls Back
 
-The *gemara*, having pressed these arguments, introduces the resolution of Rav Nachman bar Yitzchak. His principle is: *lo nitzrecha ela lemakom chataach* — the *mishna* is needed only to teach about the *makom chataach*, the place of cutting — the boundary line itself. This concept will be elaborated more fully later, but the kernel of the idea is as follows. When a limb extends out of the mother's womb, there is a portion of that limb that is unambiguously outside, a portion that is unambiguously inside, and a portion right at the line itself — neither in nor out. According to Rav, the part that was outside remains forever forbidden. But the part that was precisely at the line, being neither inside nor outside, does not fall under the *basar basadeh* prohibition. If the limb is pulled back in, that boundary portion — the *makom chataach* — is now fully inside the mother, and the mother's *shechita* covers it. The *mishna* teaches that this boundary portion becomes permissible when the limb is pulled back. This is a narrow reading, but it allows Rav's position to stand: the part that was outside remains forbidden, while the part on the line becomes permissible upon retraction.
-
----
+The *mishna* teaches that if the limb is pulled back into the mother, the part that was unambiguously outside remains forbidden — that was *basadeh*, out in the field. But the *makom chataach*, the place of cutting, the boundary line itself — that portion was neither fully outside nor fully inside. Now that it is pulled back into the mother, it becomes permissible. The *gemara* then proceeds: *ta shema* —
 
 ## Placenta Evidence (II)
 

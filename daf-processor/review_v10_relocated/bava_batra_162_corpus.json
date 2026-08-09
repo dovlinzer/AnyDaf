@@ -1,0 +1,261 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Blank Lines Rule",
+    "candidates": [
+      "Blank Lines Rule",
+      "Ayn Lamedin",
+      "Line and Half",
+      "Tosafot Interpretation",
+      "Braita Evidence",
+      "Conclusion",
+      "Multiple Witnesses Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "Line and Half",
+      "first_confidence": "high",
+      "first_reason": "Items 1-4 discuss the baraita establishing the two-line rule and the ayn lamedin principle, then the line-and-a-half dilemma and its inconclusive resolution \u2014 all matching the 'Line and Half' section's prose about the intermediate case and its analysis.",
+      "second_heading": "Braita Evidence",
+      "second_confidence": "high",
+      "second_reason": "Item 5 brings the resolving baraita with 'pachot mikan' (less than two lines is valid), which is precisely what the 'Braita Evidence' prose describes as the cleaner formulation that resolves the ambiguous line-and-a-half case.",
+      "current_heading": "Blank Lines Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Multiple Witnesses Case",
+    "candidates": [
+      "Ayn Lamedin",
+      "Line and Half",
+      "Tosafot Interpretation",
+      "Braita Evidence",
+      "Conclusion",
+      "Multiple Witnesses Case",
+      "Chizkiyah Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about four or five witnesses where one is found to be a relative or disqualified, which is precisely what the 'Multiple Witnesses Case' prose describes as the distinct halachah of titkayem eidut bashear.",
+      "chosen_heading": "Multiple Witnesses Case",
+      "current_heading": "Multiple Witnesses Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Chizkiyah Ruling",
+    "candidates": [
+      "Chizkiyah Ruling",
+      "Sukkah Analogy",
+      "Sukkah Details",
+      "Logic Comparison",
+      "Ravad Tefillin",
+      "Tosafot Witnesses",
+      "Invalid Permitted",
+      "Intent Context",
+      "Witness Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes \u1e24izkiyya's ruling that filling with relatives (krovim) is valid, which is precisely what the 'Chizkiyah Ruling' section discusses \u2014 the principle of miluo bikrovim kasher.",
+      "chosen_heading": "Chizkiyah Ruling",
+      "current_heading": "Chizkiyah Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Witness Position",
+    "candidates": [
+      "Sukkah Analogy",
+      "Sukkah Details",
+      "Logic Comparison",
+      "Ravad Tefillin",
+      "Tosafot Witnesses",
+      "Invalid Permitted",
+      "Intent Context",
+      "Witness Position",
+      "Karov Pasul",
+      "Rama Practice",
+      "Women Signatories",
+      "Woman Status",
+      "Honor Line",
+      "With/Without Space"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Chizkiyah's sukkah analogy itself (v'al titamah, avir sukkah pasul bisheloshah, schach pasul posel b'arba'ah), which directly matches the 'Sukkah Analogy' heading's prose describing exactly this text and its role in supporting Chizkiyah's ruling.",
+      "chosen_heading": "Sukkah Analogy",
+      "current_heading": "Witness Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "With/Without Space",
+    "candidates": [
+      "Karov Pasul",
+      "Rama Practice",
+      "Women Signatories",
+      "Woman Status",
+      "Honor Line",
+      "With/Without Space",
+      "Nachman Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "Both items are precisely the dilemma about whether 'two lines' includes the inter-line spacing or not, which is exactly what the 'With/Without Space' section's prose describes.",
+      "chosen_heading": "With/Without Space",
+      "current_heading": "With/Without Space",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Nachman Ruling",
+    "candidates": [
+      "Nachman Ruling",
+      "Scribe Script",
+      "Forgery Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is precisely Rav Na\u1e25man bar Yitz\u1e25ak's reasoning that the measure is 'lines with their spaces,' which is exactly what the 'Nachman Ruling' prose describes.",
+      "chosen_heading": "Nachman Ruling",
+      "current_heading": "Nachman Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Forgery Risk",
+    "candidates": [
+      "Scribe Script",
+      "Forgery Risk",
+      "Lach Lach",
+      "Two Lines Four Air",
+      "Lamed Chof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly states the two-line measure applies to witness handwriting not scribe handwriting, and gives the reason (forgers don't go to scribes), which matches the 'Scribe Script' section's prose precisely \u2014 that section discusses exactly this distinction and notes 'a sofer would not agree to insert fraudulent text,' which is the content of this Talmudic passage.",
+      "chosen_heading": "Scribe Script",
+      "current_heading": "Forgery Risk",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79
+    ],
+    "current_heading": "Lamed Chof",
+    "candidates": [
+      "Lach Lach",
+      "Two Lines Four Air",
+      "Lamed Chof",
+      "Single Line Two Air"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Lach Lach",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rav Yitzchak ben Elazar's 'lach lach' example yielding two lines and four airspaces, which is precisely what candidate 0 ('Lach Lach') discusses in its prose.",
+      "second_heading": "Lamed Chof",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rav Chiyya bar Ami in the name of Ulla's 'lamed above, chof below' example yielding two lines and three airspaces, which is exactly what candidate 2 ('Lamed Chof') discusses in its prose.",
+      "current_heading": "Lamed Chof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Single Line Two Air",
+    "candidates": [
+      "Single Line Two Air",
+      "Before Hashrat",
+      "Space Permitted",
+      "Forgery Between",
+      "Court Marks",
+      "Why Not Above",
+      "Cannot Mark Above",
+      "Signing Ambiguity",
+      "Court Clarity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Abbahu's opinion about one line with two airspaces (shita achas u'shnei avirim), which is precisely what the 'Single Line Two Air' heading's prose describes.",
+      "chosen_heading": "Single Line Two Air",
+      "current_heading": "Single Line Two Air",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "current_heading": "Court Clarity",
+    "candidates": [
+      "Before Hashrat",
+      "Space Permitted",
+      "Forgery Between",
+      "Court Marks",
+      "Why Not Above",
+      "Cannot Mark Above",
+      "Signing Ambiguity",
+      "Court Clarity",
+      "No Blank Space"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "low",
+      "reason": "The passage spans Rav's initial ruling through the full chain of objections and resolutions, but no single candidate heading covers all four items; heading 7 at least addresses the final and central resolution about court clarity, making it the least-bad single home for the complete passage.",
+      "chosen_heading": "Court Clarity",
+      "current_heading": "Court Clarity",
+      "moved": false
+    }
+  }
+]

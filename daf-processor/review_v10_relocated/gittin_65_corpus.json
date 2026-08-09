@@ -1,0 +1,409 @@
+[
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "Ketanah Yoda'at",
+    "candidates": [
+      "Father as Shaliach",
+      "Rashi vs. Tosafot",
+      "Understanding Get",
+      "Ketanah Yoda'at",
+      "Distinguishing Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items directly present the baraita about ketanah yoda'at lishmor gita and Rabbi Yochanan's clarification of 'davar acher,' which is precisely what the 'Ketanah Yoda'at' section's prose describes.",
+      "chosen_heading": "Ketanah Yoda'at",
+      "current_heading": "Ketanah Yoda'at",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Distinguishing Objects",
+    "candidates": [
+      "Distinguishing Objects",
+      "Tzror & Egoz",
+      "Self vs. Others"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Huna bar Manoach's objection and his ruling about distinguishing a get from something else, which is precisely what the prose under 'Distinguishing Objects' discusses.",
+      "chosen_heading": "Distinguishing Objects",
+      "current_heading": "Distinguishing Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Self vs. Others",
+    "candidates": [
+      "Tzror & Egoz",
+      "Self vs. Others",
+      "Da'as Acheret",
+      "Object Permanence",
+      "De'oraita Status",
+      "Stage Two",
+      "Rav Chanina Challenge",
+      "Shituf Mavo'ot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the full ruling about both stages (tzror/egoz and chefetz/machziro), and its content best matches heading 0 ('Tzror & Egoz'), which describes this introductory Gemara statement establishing the two developmental stages \u2014 the current placement under 'Self vs. Others' covers only part of what the passage contains, while heading 0's prose explicitly frames the arrival of this Rav Yehuda/Rabbi Asi teaching.",
+      "chosen_heading": "Tzror & Egoz",
+      "current_heading": "Self vs. Others",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Shituf Mavo'ot",
+    "candidates": [
+      "Da'as Acheret",
+      "Object Permanence",
+      "De'oraita Status",
+      "Stage Two",
+      "Rav Chanina Challenge",
+      "Shituf Mavo'ot",
+      "Derabbanan Pattern"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Stage Two",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Shmuel's response (da veda achat hi) and Rav Chisda's explanation that both stages only permit acquisition for oneself, which is exactly what candidate 3 ('Stage Two') describes.",
+      "second_heading": "Rav Chanina Challenge",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 present Rav Chanina of Vardan's challenge from the shituf mavoi baraita about the Hebrew maidservant, which is precisely what candidate 4 ('Rav Chanina Challenge') describes.",
+      "current_heading": "Shituf Mavo'ot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Derabbanan Pattern",
+    "candidates": [
+      "Shituf Mavo'ot",
+      "Derabbanan Pattern",
+      "Ma'aser Pidyon"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items \u2014 the rejection that shituf mavo'os is derabbanan, Vardan's silence, and the kol detikkun rabbanan ke'ein d'oraisa principle \u2014 are precisely the content described in the 'Derabbanan Pattern' prose, which explicitly covers ishtik Vardan and kol detikkun rabbanan ke'ein d'oraisa tikkun.",
+      "chosen_heading": "Derabbanan Pattern",
+      "current_heading": "Derabbanan Pattern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Ma'aser Pidyon",
+    "candidates": [
+      "Ma'aser Pidyon",
+      "Tosafot Problem",
+      "Hafla'ah Theory"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Hafla'ah Theory",
+      "first_confidence": "medium",
+      "first_reason": "Item 1 discusses the principle that rabbinic ordinances parallel Torah law only where there is a Torah-rooted basis, which relates to the Hafla'ah Theory section's discussion of how rabbinic ma'aser sheni is bracketed as not establishing de'oraita rules.",
+      "second_heading": "Ma'aser Pidyon",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Rav Avya objection from the Ma'aser Sheni mishna, which is precisely what the 'Ma'aser Pidyon' prose describes as the second challenge introduced by the Gemara.",
+      "current_heading": "Ma'aser Pidyon",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Hafla'ah Theory",
+    "candidates": [
+      "Tosafot Problem",
+      "Hafla'ah Theory",
+      "Stage One",
+      "Girl's Stage One"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's challenge-and-rejection sequence about the Hebrew maidservant case being used as proof that a minor can acquire for others \u2014 exactly the content described in the 'Hafla'ah Theory' prose, which explicitly quotes 'ein eved ivri noheg ella b'zman she'hayovel noheg' and the rabbinic-law bracketing response that appears verbatim in item 2.",
+      "chosen_heading": "Hafla'ah Theory",
+      "current_heading": "Hafla'ah Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Girl's Stage One",
+    "candidates": [
+      "Stage One",
+      "Girl's Stage One",
+      "Pautot Age",
+      "Stage Three",
+      "Land Sale Limit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Stage One",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rava's full tripartite statement including the first stage (pebble/nut recognition and the girl's miyun betrothal), which belongs under 'Stage One' where the prose explicitly discusses tzror v'zorko egoz v'notlo and miskadeshes l'miyun.",
+      "second_heading": "Pautot Age",
+      "second_confidence": "high",
+      "second_reason": "Item 2 describes the hapautot stage of buying/selling movable property and the corresponding girl's capacity for father's betrothal, which precisely matches the 'Pautot Age' prose discussion of mikach u'mimkar b'mitaltelin and miskadeshes b'kiddushei aviha.",
+      "current_heading": "Girl's Stage One",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Land Sale Limit",
+    "candidates": [
+      "Pautot Age",
+      "Stage Three",
+      "Land Sale Limit",
+      "Location Conditions",
+      "No Shaliach Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the third stage of development (higi'u l'onas nedarim \u2014 vows are valid, hekdesh is valid, chalitza for girls) which matches exactly the 'Stage Three' prose, and the land sale clause at the end is also quoted there as part of Rava's enumeration of this stage.",
+      "chosen_heading": "Stage Three",
+      "current_heading": "Land Sale Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "No Shaliach Power",
+    "candidates": [
+      "Location Conditions",
+      "No Shaliach Power",
+      "Father Appoints"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the exact Mishnah about a minor girl who cannot appoint a shaliach, which is precisely what the 'No Shaliach Power' section's prose describes and analyzes.",
+      "chosen_heading": "No Shaliach Power",
+      "current_heading": "No Shaliach Power",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Father Appoints",
+    "candidates": [
+      "Father Appoints",
+      "Mar'eh vs. Hakpid"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the case where a father appoints an agent to receive the get on behalf of his minor daughter, which is precisely what the 'Father Appoints' section discusses.",
+      "chosen_heading": "Father Appoints",
+      "current_heading": "Father Appoints",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Mar'eh vs. Hakpid",
+    "candidates": [
+      "Mar'eh vs. Hakpid",
+      "Rashi's Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the Mishnah distinguishing husband's vs. wife's location specifications and the opening Gemara question about Rabbi Elazar's asymmetric ruling \u2014 are precisely the content described in candidate 0's prose about the Mar'eh vs. Hakpid distinction, before Rashi's resolution (candidate 1) is introduced.",
+      "chosen_heading": "Mar'eh vs. Hakpid",
+      "current_heading": "Mar'eh vs. Hakpid",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Rashi's Logic",
+    "candidates": [
+      "Rashi's Logic",
+      "Husband's Hulkach",
+      "Wife's Hulkach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains the Aramaic text explaining the asymmetry between husband and wife in divorce agency (ihu/ihee distinction), which is precisely what the 'Rashi's Logic' prose section analyzes and discusses.",
+      "chosen_heading": "Rashi's Logic",
+      "current_heading": "Rashi's Logic",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      108
+    ],
+    "current_heading": "Wife's Hulkach",
+    "candidates": [
+      "Husband's Hulkach",
+      "Wife's Hulkach",
+      "Terumah Status",
+      "Woman's Place",
+      "Mixed Places"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The Mishnah passage covers all three cases (havei, hitkabel, hitkabel b'makom ploni) and their terumah consequences, but the section heading 'Terumah Status' with its prose about ochelet b'terumah is the broadest and most directly relevant container for this Mishnah text as a whole unit.",
+      "chosen_heading": "Terumah Status",
+      "current_heading": "Wife's Hulkach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Mixed Places",
+    "candidates": [
+      "Terumah Status",
+      "Woman's Place",
+      "Mixed Places",
+      "Tosafot Problem",
+      "Rabbi Eliezer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's question and answer about the mixed-location case (Mata Me\u1e25asya/Babylon), which is precisely what the 'Mixed Places' prose describes: the wife names a primary location but acknowledges the husband could be found elsewhere, and the get takes effect only upon arrival at the named place.",
+      "chosen_heading": "Mixed Places",
+      "current_heading": "Mixed Places",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126
+    ],
+    "current_heading": "Rabbi Eliezer",
+    "candidates": [
+      "Tosafot Problem",
+      "Rabbi Eliezer",
+      "Eiruv Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question and answer about Rabbi Elazar's ruling regarding mareh makom, exactly matching the prose in candidate 1 which describes the same east/west scenario and the dilma bahadi deka'azal reasoning.",
+      "chosen_heading": "Rabbi Eliezer",
+      "current_heading": "Rabbi Eliezer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      130,
+      131,
+      132
+    ],
+    "current_heading": "Eiruv Dispute",
+    "candidates": [
+      "Eiruv Dispute",
+      "Rava's Synthesis",
+      "Rav Yosef",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Eiruv Dispute",
+      "first_confidence": "high",
+      "first_reason": "Items 1 and 2 present the conflicting baraitot and Rabba's resolution (Rabbanan vs. Rabbi Elazar), which is precisely what heading 0 ('Eiruv Dispute') describes.",
+      "second_heading": "Rav Yosef",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is Rav Yosef's alternative resolution (kan b'shelo kan b'shel chaveiro), which is exactly what heading 2 ('Rav Yosef') describes.",
+      "current_heading": "Eiruv Dispute",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Rava's Synthesis",
+      "Rav Yosef",
+      "Abaye's Challenge",
+      "Food Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge to Rav Yosef using the tower/dovecote baraita, which is precisely what heading 2 'Abaye's Challenge' describes in its prose.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  }
+]

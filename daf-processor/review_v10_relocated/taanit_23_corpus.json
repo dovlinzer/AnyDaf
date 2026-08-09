@@ -1,0 +1,335 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Pestilence Debate",
+    "candidates": [
+      "Pestilence Debate",
+      "No Rov Tovah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Shimon HaTeimani/pestilence debate and the baraita resolution, which is precisely what the 'Pestilence Debate' prose section describes in detail.",
+      "chosen_heading": "Pestilence Debate",
+      "current_heading": "Pestilence Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "current_heading": "No Rov Tovah",
+    "candidates": [
+      "No Rov Tovah",
+      "Gashmim B'Itam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items discuss the rule against praying over an excess of good (rov tovah), the exception for the Diaspora, and the threshold question posed to Rabbi Eliezer about Keren Ophel \u2014 exactly the content described in the 'No Rov Tovah' prose section.",
+      "chosen_heading": "No Rov Tovah",
+      "current_heading": "No Rov Tovah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22
+    ],
+    "current_heading": "Gashmim B'Itam",
+    "candidates": [
+      "Gashmim B'Itam",
+      "Shimon's Era"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly expound the baraita on 'v'natati gishmeichem b'itam' \u2014 the quantity interpretation and the timing interpretation \u2014 which is precisely what the prose of candidate 0 describes.",
+      "chosen_heading": "Gashmim B'Itam",
+      "current_heading": "Gashmim B'Itam",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Shimon's Era",
+    "candidates": [
+      "Shimon's Era",
+      "Herod's Rains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the extraordinary crops during Shimon ben Sheta\u1e25's era and the preservation of specimens as a lesson about sin's effects, which matches exactly what the 'Shimon's Era' section prose discusses.",
+      "chosen_heading": "Shimon's Era",
+      "current_heading": "Shimon's Era",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Herod's Rains",
+    "candidates": [
+      "Herod's Rains",
+      "Drought & Prayer",
+      "Circle & Torrents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the miraculous rain pattern during Herod's Temple construction, which is precisely what the 'Herod's Rains' section's prose discusses in detail.",
+      "chosen_heading": "Herod's Rains",
+      "current_heading": "Herod's Rains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Circle & Torrents",
+    "candidates": [
+      "Drought & Prayer",
+      "Circle & Torrents",
+      "Gratitude Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items cover exactly the content described in the 'Circle & Torrents' prose: Choni drawing the circle (item 1), his oath and the dripping rain (item 2), and the furious torrents that threaten to destroy the world (item 3), all of which are explicitly narrated in that section's prose.",
+      "chosen_heading": "Circle & Torrents",
+      "current_heading": "Circle & Torrents",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Gratitude Prayer",
+    "candidates": [
+      "Gratitude Prayer",
+      "Shimon's Rebuke"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are explicitly discussed in the 'Gratitude Prayer' prose, which covers Choni's request for proper rain, the flooding, the principle of not praying against excess good, the thanksgiving bull, and the prayer that ends the rain \u2014 matching the content of both items exactly.",
+      "chosen_heading": "Gratitude Prayer",
+      "current_heading": "Gratitude Prayer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56
+    ],
+    "current_heading": "Shimon's Rebuke",
+    "candidates": [
+      "Shimon's Rebuke",
+      "Sanhedrin Praise"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Shimon ben Shetach's message to Choni \u2014 the rebuke about desecrating God's name and the indulgent-son analogy \u2014 which are discussed together in the 'Shimon's Rebuke' prose, exactly where the passage currently sits.",
+      "chosen_heading": "Shimon's Rebuke",
+      "current_heading": "Shimon's Rebuke",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Sanhedrin Praise",
+    "candidates": [
+      "Sanhedrin Praise",
+      "Seventy Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the Sanhedrin's message of praise to Choni HaMe'aggel with their verse-by-verse interpretation of Job 22:28\u201330, which is precisely what the 'Sanhedrin Praise' prose section discusses in detail.",
+      "chosen_heading": "Sanhedrin Praise",
+      "current_heading": "Sanhedrin Praise",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71
+    ],
+    "current_heading": "Seventy Years",
+    "candidates": [
+      "Seventy Years",
+      "Carob Tree"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Rabbi Yochanan's account of Choni's distress over the verse about dreaming for seventy years, which matches exactly what the 'Seventy Years' section prose discusses.",
+      "chosen_heading": "Seventy Years",
+      "current_heading": "Seventy Years",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Carob Tree",
+    "candidates": [
+      "Carob Tree",
+      "The Sleep",
+      "Awakening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Choni encountering the man planting a carob tree and their exchange about the seventy-year horizon, which is exactly what the 'Carob Tree' section prose discusses.",
+      "chosen_heading": "Carob Tree",
+      "current_heading": "Carob Tree",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Awakening",
+    "candidates": [
+      "The Sleep",
+      "Awakening",
+      "Study Hall"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Choni sitting, eating, falling asleep, and the cliff forming around him \u2014 content that matches 'The Sleep' section's prose exactly, including the seventy years of sleep; the awakening and grandson dialogue are included in this single continuous Aramaic passage but the section heading 'The Sleep' covers all of this content including the discovery upon waking, whereas 'Awakening' prose better matches the interpretive commentary rather than the raw text.",
+      "chosen_heading": "The Sleep",
+      "current_heading": "Awakening",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Study Hall",
+    "candidates": [
+      "Awakening",
+      "Study Hall",
+      "Death & Chavruta",
+      "Rabbis Arrive"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly what the 'Study Hall' prose describes: Choni going home, asking about his son, being told the grandson lives, declaring his identity, going to the beit midrash, hearing the rabbis praise him, claiming to be Choni, being disbelieved and not honored \u2014 all of which matches the current placement's prose precisely, with the death/Rava saying belonging to the next section.",
+      "chosen_heading": "Study Hall",
+      "current_heading": "Study Hall",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Rabbis Arrive",
+    "candidates": [
+      "Death & Chavruta",
+      "Rabbis Arrive",
+      "Roof Prayer",
+      "Questions Posed",
+      "Explanations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "All five items together tell the complete Abba Chilkiya story \u2014 introduction, behaviors observed, roof prayer, and explanations \u2014 and the current placement under 'Rabbis Arrive' has prose that covers the full narrative arc from introduction through the quiet conversation with his wife, which encompasses items 1-3; however items 4-5 (the explanations) more closely match candidate 4 'Explanations', but since all items form one continuous narrative unit and the current placement is the first heading that introduces this story, and the passage cannot be split without breaking the single continuous account, the best single heading is the current one where the story begins.",
+      "chosen_heading": "Rabbis Arrive",
+      "current_heading": "Rabbis Arrive",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Explanations",
+    "candidates": [
+      "Roof Prayer",
+      "Questions Posed",
+      "Explanations",
+      "Explanations",
+      "Wife's Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are part of Abba Chilkiya's answers to the rabbis' questions \u2014 item 1 explains why his wife came out adorned and why she entered first, item 2 explains why he didn't offer bread and why the younger child got more \u2014 matching exactly the 'Explanations' section (index 2) which lists these precise answers in its prose.",
+      "chosen_heading": "Explanations",
+      "current_heading": "Explanations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112
+    ],
+    "current_heading": "Wife's Merit",
+    "candidates": [
+      "Explanations",
+      "Wife's Merit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses why the clouds formed from the wife's corner first, matching exactly the content described in the 'Wife's Merit' section prose.",
+      "chosen_heading": "Wife's Merit",
+      "current_heading": "Wife's Merit",
+      "moved": false
+    }
+  }
+]

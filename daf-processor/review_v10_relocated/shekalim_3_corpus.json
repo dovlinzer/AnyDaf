@@ -1,0 +1,165 @@
+[
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Calendar & Rain Factors",
+    "candidates": [
+      "Why Shekalim in Daf Yomi",
+      "Order of Masechtot",
+      "Yerushalmi References",
+      "Roman Tax Parallels",
+      "Road & Mikva Repair",
+      "Tzorchei Rabbim",
+      "Why Quote Moed Katan",
+      "Graves & Kilayim",
+      "Rain Washes Away Marks",
+      "Calendar & Rain Factors",
+      "Ezekiel Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage discusses the timing of shekel announcements in Babylonia and the three annual disbursements from the treasury in relation to calendar and geographic factors (near/far communities), which directly corresponds to the 'Calendar & Rain Factors' section's discussion of calendar alignment and the Adar/Nisan timing issues.",
+      "chosen_heading": "Calendar & Rain Factors",
+      "current_heading": "Calendar & Rain Factors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30,
+      31
+    ],
+    "current_heading": "Ezekiel Source",
+    "candidates": [
+      "Ezekiel Source",
+      "Marker Requirements",
+      "One vs Two Markers",
+      "Flesh vs Bones",
+      "Original Uprooting",
+      "Kilayim on Roads",
+      "Field Becomes Hefker",
+      "Perverse Incentives",
+      "Ezra's Proof",
+      "Ibbur Year Proof",
+      "Refuting Ibbur Proof",
+      "Calendar Sync Condition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "low",
+      "reason": "Neither item matches any candidate's prose topic (grave marking, kilayim, or calendar intercalation); the passage concerns Mishkan contributions and the golden calf, and no candidate heading discusses this content, so the current placement is retained by default.",
+      "chosen_heading": "Ezekiel Source",
+      "current_heading": "Ezekiel Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Calendar Sync Condition",
+    "candidates": [
+      "Marker Requirements",
+      "One vs Two Markers",
+      "Flesh vs Bones",
+      "Original Uprooting",
+      "Kilayim on Roads",
+      "Field Becomes Hefker",
+      "Perverse Incentives",
+      "Ezra's Proof",
+      "Ibbur Year Proof",
+      "Refuting Ibbur Proof",
+      "Calendar Sync Condition",
+      "Leket Proof",
+      "Hefker Aniyim Dispute",
+      "Rabbinic Penalty Status",
+      "15th Adar: Changers",
+      "25th Adar: Temple",
+      "Mashkon Seizure",
+      "Kohanim Exempt",
+      "Ben Bukhri Test",
+      "Kohanim Argument",
+      "RYBZ Response",
+      "Communal vs Private",
+      "Yehuda Objection",
+      "Gematria Proof",
+      "Pikudim Dispute",
+      "Minor Definition",
+      "Paternal Obligation",
+      "Minor Seizure Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "15th Adar: Changers",
+      "first_confidence": "low",
+      "first_reason": "Items 1-2 discuss Megillah reading on 14th vs 15th and First/Second Adar obligations, which relate to Purim/Adar calendar topics near the 15th Adar heading.",
+      "second_heading": "Original Uprooting",
+      "second_confidence": "medium",
+      "second_reason": "Items 3-6 cover public works, grave marking requirements, kilayim enforcement history, and hefker beit din proofs, which align with the Original Uprooting through Rabbinic Penalty Status section of the essay.",
+      "current_heading": "Calendar Sync Condition",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125
+    ],
+    "current_heading": "Minor Seizure Rules",
+    "candidates": [
+      "Leket Proof",
+      "Hefker Aniyim Dispute",
+      "Rabbinic Penalty Status",
+      "15th Adar: Changers",
+      "25th Adar: Temple",
+      "Mashkon Seizure",
+      "Kohanim Exempt",
+      "Ben Bukhri Test",
+      "Kohanim Argument",
+      "RYBZ Response",
+      "Communal vs Private",
+      "Yehuda Objection",
+      "Gematria Proof",
+      "Pikudim Dispute",
+      "Minor Definition",
+      "Paternal Obligation",
+      "Minor Seizure Rules"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 2,
+      "first_heading": "Minor Seizure Rules",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 contains the Mishnah about money changers on the 15th and 25th of Adar, pledges (mashkon), who is subject to seizure including the kohanim exemption, Ben Bukhri's testimony, and the Halakhah discussing the two pubic hairs threshold for seizure \u2014 all of which align precisely with heading 16 'Minor Seizure Rules' and the surrounding sections about mashkon and the kohanim debate.",
+      "second_heading": "Minor Seizure Rules",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 contains the Mishnah about accepting voluntary shekel contributions from women/slaves/minors, non-Jews/Samaritans, and the agio (kollbon) rules \u2014 this is a continuation of the same tractate discussion and fits under heading 16 as the next Mishnah in sequence dealing with shekel collection rules including who pays the exchange fee.",
+      "third_heading": "Minor Seizure Rules",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is identical in Mishnah text to Segment 2 but includes extensive Halakhah commentary on the Samaritan/Gentile distinction, R. Yochanan vs. R. Shimon ben Laqish on accepting donations, and detailed agio discussions \u2014 all belonging to the same section of tractate Shekalim dealing with who may contribute and the kollbon obligations.",
+      "current_heading": "Minor Seizure Rules",
+      "moved": false
+    }
+  }
+]

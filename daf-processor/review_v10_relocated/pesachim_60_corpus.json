@@ -1,0 +1,385 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Chatat Exception",
+    "candidates": [
+      "Pesach Scheduling",
+      "Zevachim Analogy",
+      "Shelo Lishmo Rule",
+      "Chatat Exception",
+      "Pesach Strictness",
+      "Pigul vs Shelo Lishmo",
+      "Articulated Thought",
+      "Four Avodot",
+      "Mishnah Structure",
+      "Mixed Intentions",
+      "One Act or Two?"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "The passage directly defines the two hybrid cases (lishmo/shelo lishmo and shelo lishmo/lishmo) with the Pesach/shelamim examples, which is precisely what the 'Mixed Intentions' prose section describes and sets up.",
+      "chosen_heading": "Mixed Intentions",
+      "current_heading": "Chatat Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "One Act or Two?",
+    "candidates": [
+      "Pesach Strictness",
+      "Pigul vs Shelo Lishmo",
+      "Articulated Thought",
+      "Four Avodot",
+      "Mishnah Structure",
+      "Mixed Intentions",
+      "One Act or Two?",
+      "Rabbi Meir vs Yose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage is Rav Pappa's dilemma about whether the mishna's mixed intentions (lishmo and shelo lishmo) refer to one rite or two, which directly follows the prose in candidate 5 that describes the mixed-intention cases and explicitly states 'how and when these two intentions occurred... is precisely the question the Gemara now takes up.'",
+      "chosen_heading": "Mixed Intentions",
+      "current_heading": "One Act or Two?",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Rabbi Meir vs Yose",
+    "candidates": [
+      "One Act or Two?",
+      "Rabbi Meir vs Yose",
+      "Shechita Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Yosei's principle that 'a person is held accountable even for the conclusion of his statement,' which is precisely what the prose of candidate 1 ('Rabbi Meir vs Yose') explains and discusses.",
+      "chosen_heading": "Rabbi Meir vs Yose",
+      "current_heading": "Rabbi Meir vs Yose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Shechita Debate",
+    "candidates": [
+      "Shechita Debate",
+      "Two Acts Agreement",
+      "Mishnah Interpretation",
+      "Shelo Lishmo First",
+      "Mishnah First Case",
+      "Vav Reading",
+      "Different Avodot Proof",
+      "One Avodah Conclusion",
+      "Alternative Reading",
+      "Thought During vs Future",
+      "Hybrid Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All three items together constitute the Gemara's clarification that the shelo lishmo u'lishmo case is not the interesting question (since everyone agrees it invalidates immediately), and that Rav Pappa's question must therefore be about lishmo u'shelo lishmo \u2014 which is precisely what the 'Shelo Lishmo First' prose section describes.",
+      "chosen_heading": "Shelo Lishmo First",
+      "current_heading": "Shechita Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "current_heading": "Hybrid Example",
+    "candidates": [
+      "Two Acts Agreement",
+      "Mishnah Interpretation",
+      "Shelo Lishmo First",
+      "Mishnah First Case",
+      "Vav Reading",
+      "Different Avodot Proof",
+      "One Avodah Conclusion",
+      "Alternative Reading",
+      "Thought During vs Future",
+      "Hybrid Example",
+      "Machshavah Transfer",
+      "Unresolved Question",
+      "Second Mishnah",
+      "Owners Rule",
+      "Wrong Owners Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All 8 items form a continuous Gemara discussion attempting to determine which scenario the mishnah describes (one avodah vs. two avodot, Rabbi Meir vs. Rabbi Yosei), which matches candidate 1 ('Mishnah Interpretation') whose prose explicitly says 'The question is simply: which scenario does our mishnah actually describe? The Gemara will now attempt to resolve this through careful reading of the mishnah itself.'",
+      "chosen_heading": "Mishnah Interpretation",
+      "current_heading": "Hybrid Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Wrong Owners Case",
+    "candidates": [
+      "Machshavah Transfer",
+      "Unresolved Question",
+      "Second Mishnah",
+      "Owners Rule",
+      "Wrong Owners Case",
+      "Owners Definitions",
+      "One Avodah Clear",
+      "Proof from Seifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's attempt to prove from the seifa (the mishna about wrong owners/eaters) that the earlier mishna also concerns one avodah, which is precisely what the 'Proof from Seifa' prose describes.",
+      "chosen_heading": "Proof from Seifa",
+      "current_heading": "Wrong Owners Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Proof from Seifa",
+    "candidates": [
+      "Owners Definitions",
+      "One Avodah Clear",
+      "Proof from Seifa",
+      "Separate Mishnas",
+      "Two Avodot Case",
+      "Ein Machshevet",
+      "Pesach Uniqueness",
+      "Torah Source",
+      "Hybrid at Shechita",
+      "Mixed Valid Only If"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains the Gemara's rebuttal 'ha kede'ita veha kede'ita' \u2014 each mishna operates on its own terms \u2014 which is precisely what the 'Separate Mishnas' prose describes.",
+      "chosen_heading": "Separate Mishnas",
+      "current_heading": "Proof from Seifa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "current_heading": "Mixed Valid Only If",
+    "candidates": [
+      "Separate Mishnas",
+      "Two Avodot Case",
+      "Ein Machshevet",
+      "Pesach Uniqueness",
+      "Torah Source",
+      "Hybrid at Shechita",
+      "Mixed Valid Only If",
+      "Eaters Leniency",
+      "Seifa One Avodah",
+      "Reisha One Avodah",
+      "No Final Answer",
+      "Pesach Transformed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items together form the Gemara's attempt to prove from the mishnah about le'ochlav ushelo le'ochlav \u2014 analyzing whether it refers to two avodot or one, concluding it must refer to one avodah, then inferring about the reisha, and finally rejecting that inference \u2014 which matches candidate 1's prose about this exact proof attempt from the owners' mishnah's positive case.",
+      "chosen_heading": "Two Avodot Case",
+      "current_heading": "Mixed Valid Only If",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118
+    ],
+    "current_heading": "Pesach Transformed",
+    "candidates": [
+      "Eaters Leniency",
+      "Seifa One Avodah",
+      "Reisha One Avodah",
+      "No Final Answer",
+      "Pesach Transformed",
+      "Mixed on Purim",
+      "Conflicting Thoughts",
+      "Which Wins",
+      "Rav Dimi Argument"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage asks precisely what happens when a Pesach designated before Pesach is slaughtered with a mixed intention (lishmo ushelo lishmo), which matches the 'Mixed on Purim' section's prose about the Gemara posing the question of a mixed intention on Purim for a designated Pesach.",
+      "chosen_heading": "Mixed on Purim",
+      "current_heading": "Pesach Transformed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      128,
+      129
+    ],
+    "current_heading": "Rav Dimi Argument",
+    "candidates": [
+      "Mixed on Purim",
+      "Conflicting Thoughts",
+      "Which Wins",
+      "Rav Dimi Argument",
+      "Rava's Turn",
+      "Rava Kosher",
+      "Normal Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together form exactly the exchange described in the 'Rav Dimi Argument' prose \u2014 Rav Dimi's reasoning presented to Rabbi Yirmiyah and Rabbi Yirmiyah's rejection of it \u2014 which is precisely what that section's prose summarizes.",
+      "chosen_heading": "Rav Dimi Argument",
+      "current_heading": "Rav Dimi Argument",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      138,
+      139
+    ],
+    "current_heading": "Normal Analogy",
+    "candidates": [
+      "Rava's Turn",
+      "Rava Kosher",
+      "Normal Analogy",
+      "Pesach Status",
+      "Rava's Logic",
+      "Shelo Lishmo Trumps",
+      "Mixed Irrelevant",
+      "Speaking Weakness",
+      "Shelo L'Ochlav Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items present Rava's logical inference: since shelo lishmo overcomes the korban's own standing Pesach identity (stama lishmo ka'ei) in the undetermined case, it must equally prevail when both lishmo and shelo lishmo are stated explicitly \u2014 which is precisely the content of 'Rava's Logic' prose.",
+      "chosen_heading": "Rava's Logic",
+      "current_heading": "Normal Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      153
+    ],
+    "current_heading": "Shelo L'Ochlav Proof",
+    "candidates": [
+      "Pesach Status",
+      "Rava's Logic",
+      "Shelo Lishmo Trumps",
+      "Mixed Irrelevant",
+      "Speaking Weakness",
+      "Shelo L'Ochlav Proof",
+      "No Combination",
+      "Said vs Silent",
+      "Here Too Weak",
+      "Can't Supplement",
+      "Different Cases",
+      "Mutable Group",
+      "Status Not Fixed",
+      "Fixed Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage contains Rav Adda bar Ahava's challenge to Rava distinguishing between cases where one explicitly says a hybrid intention versus cases where one says nothing and the korban's status fills in the gap, which is precisely what the prose under 'Speaking Weakness' (index 4) describes.",
+      "chosen_heading": "Speaking Weakness",
+      "current_heading": "Shelo L'Ochlav Proof",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      171
+    ],
+    "current_heading": "Fixed Status",
+    "candidates": [
+      "No Combination",
+      "Said vs Silent",
+      "Here Too Weak",
+      "Can't Supplement",
+      "Different Cases",
+      "Mutable Group",
+      "Status Not Fixed",
+      "Fixed Status",
+      "Full Status Loss",
+      "Rava Final",
+      "Debate Ends"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage is Rava's rejection of the comparison between the two cases ('Are the two cases comparable?'), which is precisely what candidate 4 ('Different Cases') describes \u2014 Rava rejecting the comparison and explaining the asymmetry between the eaters case and the Purim/purpose case.",
+      "chosen_heading": "Different Cases",
+      "current_heading": "Fixed Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      178
+    ],
+    "current_heading": "Debate Ends",
+    "candidates": [
+      "Full Status Loss",
+      "Rava Final",
+      "Debate Ends"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explains why the eaters case is different \u2014 because Paschal lamb subscribers can withdraw until slaughter, making the korban's status mutable \u2014 which directly supports Rava's distinction described in the 'Debate Ends' prose.",
+      "chosen_heading": "Debate Ends",
+      "current_heading": "Debate Ends",
+      "moved": false
+    }
+  }
+]

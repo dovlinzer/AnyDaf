@@ -1,0 +1,373 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Rav Chisda: After Ye'ush",
+    "candidates": [
+      "Gozel u-Ma'akhil Overview",
+      "Rav Chisda: After Ye'ush",
+      "Rami bar Chama Position",
+      "Reconciling Positions",
+      "Kayemet vs. Consumed",
+      "Testing Rav Chisda",
+      "Rav Chisda's Defense",
+      "Testing Rami bar Chama",
+      "Rami bar Chama's Defense",
+      "Interest Money Case Setup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is specifically about Rav Chisda deflecting the challenge from the baraita by saying 'ki tanya hi le-achar ye'ush,' which is precisely what heading 6 ('Rav Chisda's Defense') describes.",
+      "chosen_heading": "Rav Chisda's Defense",
+      "current_heading": "Rav Chisda: After Ye'ush",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24,
+      25
+    ],
+    "current_heading": "Interest Money Case Setup",
+    "candidates": [
+      "Rami bar Chama Position",
+      "Reconciling Positions",
+      "Kayemet vs. Consumed",
+      "Testing Rav Chisda",
+      "Rav Chisda's Defense",
+      "Testing Rami bar Chama",
+      "Rami bar Chama's Defense",
+      "Interest Money Case Setup",
+      "Rava's Distinction",
+      "Vchi Achicha Imach"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rami bar Chama's Defense",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 contain Rami bar Chama's defense that the baraita speaks before ye'ush, which is precisely what candidate 6 ('Rami bar Chama's Defense') describes.",
+      "second_heading": "Interest Money Case Setup",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the interest money case and Rami bar Chama's inference of reshut yoresh ke-reshut loke'ach from it, which is exactly what candidate 7 ('Interest Money Case Setup') describes.",
+      "current_heading": "Interest Money Case Setup",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Vchi Achicha Imach",
+    "candidates": [
+      "Rava's Distinction",
+      "Vchi Achicha Imach",
+      "Personal Obligation Only"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rava's complete statement \u2014 both his rejection of the reshut yoresh/loke'ach comparison AND his alternative reason from the verse \u2014 which corresponds to heading 0 ('Rava's Distinction') whose prose explicitly introduces Rava's challenge and his alternative explanation, whereas the current placement splits the argument artificially across later headings.",
+      "chosen_heading": "Rava's Distinction",
+      "current_heading": "Vchi Achicha Imach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Personal Obligation Only",
+    "candidates": [
+      "Vchi Achicha Imach",
+      "Personal Obligation Only",
+      "Braita Application",
+      "Mishna Application",
+      "Case 1: Fed Children",
+      "Case 2: Left Before Them"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the implications of teaching Rami bar \u1e24ama's statement with regard to the baraita versus the mishna, which is precisely what 'Braita Application' prose describes \u2014 that applying the principle to the baraita implies it applies a fortiori to the mishna.",
+      "chosen_heading": "Braita Application",
+      "current_heading": "Personal Obligation Only",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Case 2: Left Before Them",
+    "candidates": [
+      "Braita Application",
+      "Mishna Application",
+      "Case 1: Fed Children",
+      "Case 2: Left Before Them",
+      "Adult Ignorance Claim",
+      "Rava's Reinterpretation",
+      "Consumption Braita",
+      "Minor Liability Problem",
+      "Rav Papa Solution",
+      "Cow Inheritance Setup",
+      "Death by Accident",
+      "Slaughter and Consumption"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Adult Ignorance Claim",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the baraita about feeding/leaving stolen goods to children and Rava's reinterpretation of the 'we don't know' claim, which matches the 'Adult Ignorance Claim' and 'Rava's Reinterpretation' prose \u2014 but since items 1-2 together span both headings 4 and 5, and the current placement is heading 3 which discusses only the 'left before them' case without the ignorance claim, the best single heading for items 1-2 is heading 4 ('Adult Ignorance Claim') which introduces the baraita and the gemara's challenge.",
+      "second_heading": "Consumption Braita",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the 'another baraita' (tanya idach) about feeding/leaving stolen goods where consumption creates liability, which exactly matches the 'Consumption Braita' prose at heading 6.",
+      "current_heading": "Case 2: Left Before Them",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Slaughter and Consumption",
+    "candidates": [
+      "Adult Ignorance Claim",
+      "Rava's Reinterpretation",
+      "Consumption Braita",
+      "Minor Liability Problem",
+      "Rav Papa Solution",
+      "Cow Inheritance Setup",
+      "Death by Accident",
+      "Slaughter and Consumption",
+      "Achrayut Nechasim Minors"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage covers all three sub-cases (use during loan period, death by accident, slaughter/consumption, and achrayut nechasim) introduced under the 'Cow Inheritance Setup' heading, making that the natural home for the full Rava statement rather than splitting it under the later 'Slaughter and Consumption' heading.",
+      "chosen_heading": "Cow Inheritance Setup",
+      "current_heading": "Slaughter and Consumption",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Achrayut Nechasim Minors",
+    "candidates": [
+      "Slaughter and Consumption",
+      "Achrayut Nechasim Minors",
+      "Obligation at Damage",
+      "Borrowed Before Shabbat",
+      "Obligation at Borrowing",
+      "Achrayut Application"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's comment that some teach Rava's final statement about 'achrayut nechasim' against the first clause and some against the latter clause, which is exactly what the prose of candidate 1 ('Achrayut Nechasim Minors') describes.",
+      "chosen_heading": "Achrayut Nechasim Minors",
+      "current_heading": "Achrayut Nechasim Minors",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Achrayut Application",
+    "candidates": [
+      "Obligation at Damage",
+      "Borrowed Before Shabbat",
+      "Obligation at Borrowing",
+      "Achrayut Application",
+      "Veheishiv Pasuk",
+      "Children Exempt: Gezeilah",
+      "Obligation Only If Exists",
+      "Adults Must Return"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Rav Pappa's ruling and the dispute about which clause it applies to \u2014 exactly the content described in candidate 0 ('Obligation at Damage'), which introduces Rav Papa's teaching that a borrower's obligation arises at the moment of damage, not from the start of the borrowing.",
+      "chosen_heading": "Obligation at Damage",
+      "current_heading": "Achrayut Application",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Adults Must Return",
+    "candidates": [
+      "Veheishiv Pasuk",
+      "Children Exempt: Gezeilah",
+      "Obligation Only If Exists",
+      "Adults Must Return",
+      "Minors Cannot Be Sued",
+      "Sumchos vs. Mainstream",
+      "Rabbi Yirmiya Case",
+      "Rabbi Avin's Refusal"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Veheishiv Pasuk",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the baraita deriving 'yachzir ke-ein she-gazal' from the pasuk, which is precisely what heading 0 ('Veheishiv Pasuk') discusses.",
+      "second_heading": "Children Exempt: Gezeilah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the 'mikan amru' derivation about children being exempt and the Sumchos dispute, which matches heading 1 ('Children Exempt: Gezeilah') that explicitly discusses this same 'mikan amru' teaching and the Sumchos position.",
+      "current_heading": "Adults Must Return",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Rabbi Avin's Refusal",
+    "candidates": [
+      "Minors Cannot Be Sued",
+      "Sumchos vs. Mainstream",
+      "Rabbi Yirmiya Case",
+      "Rabbi Avin's Refusal",
+      "Stolen Object Retrieval",
+      "Seizure vs. Inheritance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together narrate the Rabbi Yirmiya incident \u2014 the minor brother-in-law barring entry, Rabbi Yirmiya bringing the case before Rabbi Avin, and the dispute about accepting testimony against a minor \u2014 which is precisely what the 'Rabbi Yirmiya Case' prose describes as its content.",
+      "chosen_heading": "Rabbi Yirmiya Case",
+      "current_heading": "Rabbi Avin's Refusal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Seizure vs. Inheritance",
+    "candidates": [
+      "Stolen Object Retrieval",
+      "Seizure vs. Inheritance",
+      "Status Quo Principle",
+      "General Rule with Limits",
+      "Urgency Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Abbahu's citation of Rabbi Oshaya's teaching (item 1) and the Gemara's immediate rejection/distinction based on chazaka de-avuh (item 2), which is precisely the content described in candidate 1's prose about the seizure vs. inheritance distinction.",
+      "chosen_heading": "Seizure vs. Inheritance",
+      "current_heading": "Seizure vs. Inheritance",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131,
+      132
+    ],
+    "current_heading": "Urgency Exception",
+    "candidates": [
+      "Status Quo Principle",
+      "General Rule with Limits",
+      "Urgency Exception",
+      "Refusal After Summons",
+      "Case Already Opened"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the initial ruling (accepting testimony in the absence of a litigant) and Rabbi Yochanan's astonishment, which is precisely what the 'General Rule with Limits' prose describes \u2014 the current placement under 'Urgency Exception' only covers the clarification/limitation, missing that item 1 introduces the general rule and Rabbi Yochanan's challenge.",
+      "chosen_heading": "General Rule with Limits",
+      "current_heading": "Urgency Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      137
+    ],
+    "current_heading": "Case Already Opened",
+    "candidates": [
+      "Refusal After Summons",
+      "Case Already Opened",
+      "Right to Escalate Venue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Shmuel's ruling on accepting witnesses in absentia and Mar Ukva's clarification that this applies when the case was already opened (patekhu lei be-dina) and the defendant was summoned but did not appear, which is precisely what the 'Case Already Opened' prose discusses.",
+      "chosen_heading": "Case Already Opened",
+      "current_heading": "Case Already Opened",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      140
+    ],
+    "current_heading": "Right to Escalate Venue",
+    "candidates": [
+      "Right to Escalate Venue",
+      "Rav Allows Validation",
+      "Rabbi Yochanan Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's challenge about escalating to the High Court after a case is opened and Ravina's answer about the diska authorization, which is explicitly described in candidate 0's prose.",
+      "chosen_heading": "Right to Escalate Venue",
+      "current_heading": "Right to Escalate Venue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148
+    ],
+    "current_heading": "Rabbi Yochanan Objects",
+    "candidates": [
+      "Rav Allows Validation",
+      "Rabbi Yochanan Objects",
+      "Rava's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with Rav's ruling (belonging under 'Rav Allows Validation') and then presents Rabbi Yochanan's opposing view and Rav Sheshet's explanation of it \u2014 the entire dispute is introduced together as a unit, and the prose of heading 0 explicitly sets up both positions as part of the same discussion, making it the better home for the complete passage.",
+      "chosen_heading": "Rav Allows Validation",
+      "current_heading": "Rabbi Yochanan Objects",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,283 @@
+[
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Two Criteria",
+    "candidates": [
+      "Tract Ordering",
+      "Mashkin Naming",
+      "Rashi & Gershom",
+      "MS Authenticity",
+      "Irrigate Fields",
+      "Loss & Tircha",
+      "Biblical Source",
+      "Two Criteria",
+      "New vs. Old"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage (the opening Mishna about irrigating beit hashalchin) is directly discussed in candidate 7's prose, which explicitly references both the spring permission and the prohibition on rainwater/kilon as illustrations of the two criteria (hefsed and tircha).",
+      "chosen_heading": "Two Criteria",
+      "current_heading": "Two Criteria",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "New vs. Old",
+    "candidates": [
+      "New vs. Old",
+      "Rav Papa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly correspond to the content described in heading 0's prose: item 1 is the mishnah about circular ditches, Rabbi Elazar ben Azariah's ruling on new channels, and the Rabbis' ruling \u2014 all explicitly discussed in that prose \u2014 and item 2 is the mishnah about public needs (tzorchei rabim), graves, and kilayim, which the prose also explicitly covers.",
+      "chosen_heading": "New vs. Old",
+      "current_heading": "New vs. Old",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Rav Papa",
+    "candidates": [
+      "Rav Papa",
+      "Hashalchin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Rav Papa' explicitly describes this exact gemara exchange \u2014 the question about why both spring types needed to be mentioned, Rav Papa's answer, and the conclusion that beit hashalchin is permitted while beit haba'al is not regardless of spring type \u2014 matching all three items precisely.",
+      "chosen_heading": "Rav Papa",
+      "current_heading": "Rav Papa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Hashalchin",
+    "candidates": [
+      "Hashalchin",
+      "Ha'aal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the linguistic origin of 'beit hashalchin' as a term for thirst, exactly matching the prose under heading 0 which analyzes this same derivation from the Targum translation.",
+      "chosen_heading": "Hashalchin",
+      "current_heading": "Hashalchin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Ha'aal",
+    "candidates": [
+      "Ha'aal",
+      "Rabbi Meir"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the etymological/exegetical basis for understanding 'beit haba'al' as a term of settlement via the Isaiah verse and its Aramaic Targum, which is precisely what the prose under heading 0 ('Ha'aal') discusses.",
+      "chosen_heading": "Ha'aal",
+      "current_heading": "Ha'aal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Rabbi Meir",
+    "candidates": [
+      "Rabbi Meir",
+      "Rabbi Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous unit asking who is the tanna behind the mishna's twin restrictions (no profit-labor, no excessive exertion even for loss), with Rav Huna proposing Rabbi Eliezer ben Ya'akov and the Gemara immediately challenging that identification \u2014 exactly the question-and-challenge sequence described in the 'Rabbi Meir' section's prose, which opens by posing precisely that dual question before the baraita with Rabbi Meir's position is introduced.",
+      "chosen_heading": "Rabbi Meir",
+      "current_heading": "Rabbi Meir",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Rabbi Yehuda",
+    "candidates": [
+      "Rabbi Yehuda",
+      "R. Elazar",
+      "Attribution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items present the baraita with the three opinions and Abaye's clarification of Rabbi Yehuda's position, which is precisely what the 'Rabbi Yehuda' section's prose discusses in detail \u2014 the baraita's cases, the dried-up spring, and Rabbi Yehuda's additional ruling about diverting a water channel.",
+      "chosen_heading": "Rabbi Yehuda",
+      "current_heading": "Rabbi Yehuda",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Attribution",
+    "candidates": [
+      "R. Elazar",
+      "Attribution",
+      "Choresh vs. Zore'a"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous gemara discussion challenging and then resolving the attribution of the mishnah to Rabbi Yehuda, which is precisely what the 'Attribution' section's prose describes \u2014 including the objection about a newly emerged spring, the im ken response, and the explanation of l'hodeia kocho de-Rabbi Meir.",
+      "chosen_heading": "Attribution",
+      "current_heading": "Attribution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Choresh vs. Zore'a",
+    "candidates": [
+      "Choresh vs. Zore'a",
+      "Rabbah's View",
+      "Rav Yosef"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the question of which melacha warning applies to weeding/watering on Shabbat and presents both Rabba's and Rav Yosef's answers together, matching exactly the framing prose of heading 0 which introduces this dispute as a whole unit before the individual views are elaborated.",
+      "chosen_heading": "Choresh vs. Zore'a",
+      "current_heading": "Choresh vs. Zore'a",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Rav Yosef",
+    "candidates": [
+      "Rabbah's View",
+      "Rav Yosef",
+      "Abaaye Challenge",
+      "Double Melacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbah's and Rav Yosef's statements together as a unit, but the prose under heading 0 ('Rabbah's View') is where this paired gemara text naturally belongs, as it introduces both positions \u2014 and the current placement under 'Rav Yosef' only covers half the passage, while heading 0's prose sets up the full debate that includes both Rabbah and Rav Yosef's reasoning.",
+      "chosen_heading": "Rabbah's View",
+      "current_heading": "Rav Yosef",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Double Melacha",
+    "candidates": [
+      "Abaaye Challenge",
+      "Double Melacha",
+      "R. Akiva",
+      "Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Abaye's challenge: item 1 raises the symmetric difficulty for both Rabbah and Rav Yosef, and item 2 addresses the attempted rebuttal (that one act can only generate one liability) by citing Rav Kahana's pruning case \u2014 this entire unit belongs under 'Abaaye Challenge,' whose prose explicitly describes both the symmetric challenge and the note that the single-act principle is not absolute.",
+      "chosen_heading": "Abaaye Challenge",
+      "current_heading": "Double Melacha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Inference",
+    "candidates": [
+      "R. Akiva",
+      "Inference",
+      "Rabbah Reread"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Inference",
+      "first_confidence": "high",
+      "first_reason": "Item 1 ('kashya') is the closing conclusion of the prior dispute, wrapping up the unresolved difficulty before the new objection begins.",
+      "second_heading": "R. Akiva",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 are the baraita objection from Rav Yosef to Rabbah concerning kilayim and the exchange that follows, which is precisely what candidate 0 ('R. Akiva') describes in its prose.",
+      "current_heading": "Inference",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      92,
+      93,
+      94,
+      95
+    ],
+    "current_heading": "Rabbah Reread",
+    "candidates": [
+      "Rabbah Reread",
+      "Bridge Forward"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form the continuous gemara discussion of the kula Rabbi Akiva hi resolution and the biblical derivation for m'kayeim, which is precisely what the 'Rabbah Reread' prose describes in detail.",
+      "chosen_heading": "Rabbah Reread",
+      "current_heading": "Rabbah Reread",
+      "moved": false
+    }
+  }
+]

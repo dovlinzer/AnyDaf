@@ -1,0 +1,271 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "V'Hazav Et Zovo",
+    "candidates": [
+      "External Causes Dismissed",
+      "V'Hazav Et Zovo",
+      "Eliezer: External Causes",
+      "Et Particle Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Rabbi Natan's derivation from 'v'hazav et zovo' juxtaposing male zav to female, which is precisely what section 1's prose describes and is labeled 'V'Hazav Et Zovo'.",
+      "chosen_heading": "V'Hazav Et Zovo",
+      "current_heading": "V'Hazav Et Zovo",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Et Particle Dispute",
+    "candidates": [
+      "Eliezer: External Causes",
+      "Et Particle Dispute",
+      "Identity of Emission"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the hermeneutical dispute over the word 'et' (darish et vs. lo darish et) between Rabbi Eliezer and the Rabbis, which is precisely what the 'Et Particle Dispute' section's prose describes.",
+      "chosen_heading": "Et Particle Dispute",
+      "current_heading": "Et Particle Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13,
+      14
+    ],
+    "current_heading": "Identity of Emission",
+    "candidates": [
+      "Identity of Emission",
+      "Zivah with Semen Rules",
+      "Strict Assumption",
+      "Semen Tumah by Masa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the Mishnah's category of 'safek' and Rava's clarification of what that uncertainty means, which is precisely what the 'Identity of Emission' prose describes.",
+      "chosen_heading": "Identity of Emission",
+      "current_heading": "Identity of Emission",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Semen Tumah by Masa",
+    "candidates": [
+      "Zivah with Semen Rules",
+      "Strict Assumption",
+      "Semen Tumah by Masa",
+      "Eliezer vs. Yehoshua: Zav"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly asks what practical halakha is meant by the mishna's teaching that a zav's semen is impure, and concludes it conveys tumah through carrying (masa), which is precisely what the 'Semen Tumah by Masa' section's prose describes.",
+      "chosen_heading": "Semen Tumah by Masa",
+      "current_heading": "Semen Tumah by Masa",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Eliezer vs. Yehoshua: Zav",
+    "candidates": [
+      "Eliezer vs. Yehoshua: Zav",
+      "Droplets Explanation",
+      "Rav Ada Bar Ahava"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita debate between Rabbi Eliezer and Rabbi Yehoshua about whether a zav's semen renders impure by carrying, which is precisely what heading 0 ('Eliezer vs. Yehoshua: Zav') discusses, and its current placement matches the prose there.",
+      "chosen_heading": "Eliezer vs. Yehoshua: Zav",
+      "current_heading": "Eliezer vs. Yehoshua: Zav",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rav Ada Bar Ahava",
+    "candidates": [
+      "Droplets Explanation",
+      "Rav Ada Bar Ahava",
+      "Pappa's Weakness Theory",
+      "Ger Conversion Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Adda bar Ahava's statement that the Mishnah teaches 'ein tolin bah' \u2014 that one does not attribute zivah to a prior seminal emission \u2014 which is precisely what the prose under 'Rav Ada Bar Ahava' discusses.",
+      "chosen_heading": "Rav Ada Bar Ahava",
+      "current_heading": "Rav Ada Bar Ahava",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Ger Conversion Challenge",
+    "candidates": [
+      "Pappa's Weakness Theory",
+      "Ger Conversion Challenge",
+      "Gezeirat HaKatuv",
+      "Lo Yihyeh Tahor",
+      "Duration of Tumah",
+      "Verses Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa proposing the weakness theory before Rava, which is exactly what candidate 0 ('Pappa's Weakness Theory') is about \u2014 the challenge from the convert mishna and Rav Pappa's response ('ein lecha choli gadol mizeh') are part of that same exchange, not a separate section.",
+      "chosen_heading": "Pappa's Weakness Theory",
+      "current_heading": "Ger Conversion Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Verses Resolution",
+    "candidates": [
+      "Gezeirat HaKatuv",
+      "Lo Yihyeh Tahor",
+      "Duration of Tumah",
+      "Verses Resolution",
+      "Samuel Nazir Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All four items together form the complete unit of the tannaitic dispute about the duration of tumah from semen of a zav and Shmuel's resolution of the scriptural contradiction between 'mikreh layla' and 'lifnot erev,' which is precisely what candidate 3 ('Verses Resolution') describes in its prose.",
+      "chosen_heading": "Verses Resolution",
+      "current_heading": "Verses Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Samuel Nazir Status",
+    "candidates": [
+      "Samuel Nazir Status",
+      "Mora Meaning Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnah establishing Samuel's nazirite status via the gezeirah shavah on 'mora' from Samson, which is precisely what the 'Samuel Nazir Status' prose describes.",
+      "chosen_heading": "Samuel Nazir Status",
+      "current_heading": "Samuel Nazir Status",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Mora Meaning Dispute",
+    "candidates": [
+      "Mora Meaning Dispute",
+      "Rav Chiyya Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the dispute between Rabbi Yosei and Rabbi Nehorai over the meaning of 'mora,' which is exactly what the 'Mora Meaning Dispute' section's prose describes.",
+      "chosen_heading": "Mora Meaning Dispute",
+      "current_heading": "Mora Meaning Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Rav Chiyya Teaching",
+    "candidates": [
+      "Rav Chiyya Teaching",
+      "Amen Response Value"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the 'chatof u'varech' teaching from Rav to his son \u1e24iyya and Rav Huna to Rabbah, which is precisely what the 'Rav Chiyya Teaching' prose describes.",
+      "chosen_heading": "Rav Chiyya Teaching",
+      "current_heading": "Rav Chiyya Teaching",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Amen Response Value",
+    "candidates": [
+      "Amen Response Value",
+      "Mevarech vs. Oneh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about Rabbi Yosei's statement that answering Amen is greater than reciting the blessing, Rabbi Nehorai's confirmation, and the military illustration \u2014 all of which are the exact content described in the 'Amen Response Value' prose.",
+      "chosen_heading": "Amen Response Value",
+      "current_heading": "Amen Response Value",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Mevarech vs. Oneh",
+    "candidates": [
+      "Mevarech vs. Oneh",
+      "Peace Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the tannaitic dispute about whether reciting a blessing or answering amen carries greater merit, which is precisely what the 'Mevarech vs. Oneh' section prose describes.",
+      "chosen_heading": "Mevarech vs. Oneh",
+      "current_heading": "Mevarech vs. Oneh",
+      "moved": false
+    }
+  }
+]

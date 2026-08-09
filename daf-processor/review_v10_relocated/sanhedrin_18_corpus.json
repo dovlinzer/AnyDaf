@@ -1,0 +1,276 @@
+[
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Family Law",
+    "candidates": [
+      "Intro & Tisha B'Av Review",
+      "Integrity > Intellect",
+      "Torah Models",
+      "Perek 2 Opening",
+      "Kohen Gadol Judged",
+      "Testimony Rules",
+      "Family Law",
+      "Mourning Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah text covering chalitza, yibum, and the kohen gadol's prohibition from marrying a widow, which is precisely what the 'Family Law' section prose discusses.",
+      "chosen_heading": "Family Law",
+      "current_heading": "Family Law",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Mourning Rules",
+    "candidates": [
+      "Mourning Rules",
+      "Consolation Rituals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the kohen gadol's behavior during a relative's funeral procession \u2014 Rabbi Meir's view and Rabbi Yehuda's stricter view \u2014 which is precisely what the 'Mourning Rules' prose discusses in detail.",
+      "chosen_heading": "Mourning Rules",
+      "current_heading": "Mourning Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Consolation Rituals",
+    "candidates": [
+      "Consolation Rituals",
+      "King Not Judged",
+      "King Restrictions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the consolation rituals of the kohen gadol \u2014 passing in line, 'we are your atonement,' reclining on the ground vs. bench \u2014 which is exactly what the 'Consolation Rituals' prose discusses in detail.",
+      "chosen_heading": "Consolation Rituals",
+      "current_heading": "Consolation Rituals",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "King Restrictions",
+    "candidates": [
+      "King Not Judged",
+      "King Restrictions",
+      "Royal Marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers exactly the restrictions enumerated in candidate 1's prose: the king's exemption from judging/being judged, testimony, \u1e25alitza, and levirate marriage, including the dispute between Rabbi Yehuda and the tanna kamma \u2014 all of which are discussed in detail under 'King Restrictions'.",
+      "chosen_heading": "King Restrictions",
+      "current_heading": "King Restrictions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Royal Marriage",
+    "candidates": [
+      "Royal Marriage",
+      "Self-Judgment First"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the prohibition on marrying a king's widow and Rabbi Yehuda's exception allowing a king to marry another king's widow, which is precisely what the 'Royal Marriage' section's prose addresses.",
+      "chosen_heading": "Royal Marriage",
+      "current_heading": "Royal Marriage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50,
+      51
+    ],
+    "current_heading": "Self-Judgment First",
+    "candidates": [
+      "Self-Judgment First",
+      "Murder Baraita",
+      "Permanent Exile"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the continuous Gemara analysis that heading 0 ('Self-Judgment First') explicitly describes \u2014 the obvious/non-obvious question about the kohen gadol judging and being judged, the Resh Lakish derivation, the symmetry with the king passage, and the baraita about the kohen gadol who kills \u2014 all of which the prose of heading 0 covers in full detail, while headings 1 and 2 cover only the subsequent analysis of the baraita's exile clause.",
+      "chosen_heading": "Self-Judgment First",
+      "current_heading": "Self-Judgment First",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60
+    ],
+    "current_heading": "Permanent Exile",
+    "candidates": [
+      "Murder Baraita",
+      "Permanent Exile",
+      "Non-Capital Crimes"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the Gemara's reasoning about why a High Priest is exiled despite having no release mechanism (the 'kol de'it lei takanta' argument and its resolution from 'kol rotzeiach'), which is precisely what the 'Permanent Exile' section's prose elaborates upon.",
+      "chosen_heading": "Permanent Exile",
+      "current_heading": "Permanent Exile",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Non-Capital Crimes",
+    "candidates": [
+      "Non-Capital Crimes",
+      "Lost Property Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the High Priest being treated as an ordinary person for non-capital transgressions and the textual basis (hadavar hagadol) for limiting the elevated beit din to capital matters, which is precisely what the 'Non-Capital Crimes' prose section discusses.",
+      "chosen_heading": "Non-Capital Crimes",
+      "current_heading": "Non-Capital Crimes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77
+    ],
+    "current_heading": "Lost Property Principle",
+    "candidates": [
+      "Lost Property Principle",
+      "Royal Testimony",
+      "Prince Halakhic Status",
+      "King's Brief Attendance"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's challenge from the baraita about 'vehisalamta' and the three exemption cases (kohen/cemetery, elder/dignity, greater work value), which is precisely what candidate 0's prose describes as the setup for questioning whether the High Priest must testify.",
+      "chosen_heading": "Lost Property Principle",
+      "current_heading": "Lost Property Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "King's Brief Attendance",
+    "candidates": [
+      "Royal Testimony",
+      "Prince Halakhic Status",
+      "King's Brief Attendance",
+      "King on Sanhedrin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the continuous chain of objections and revisions around Rav Yosef's statement about the High Priest testifying in connection with a king, which is precisely what heading 0 ('Royal Testimony') introduces \u2014 the entire sequence from the initial ruling through the ben melech objection and the final resolution about testifying before the king all belongs to that one discussion, and the current placement under heading 2 splits this natural unit mid-stream.",
+      "chosen_heading": "Royal Testimony",
+      "current_heading": "King's Brief Attendance",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "King on Sanhedrin",
+    "candidates": [
+      "King's Brief Attendance",
+      "King on Sanhedrin",
+      "Leap Year Conflicts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the prohibition of seating a king on the Sanhedrin and the derivation from 'lo sa'aneh al riv/rav,' which is exactly what the 'King on Sanhedrin' section's prose addresses.",
+      "chosen_heading": "King on Sanhedrin",
+      "current_heading": "King on Sanhedrin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Leap Year Conflicts",
+    "candidates": [
+      "Leap Year Conflicts",
+      "King's Money Interest",
+      "Year Calculations",
+      "Shepherds & Tekufah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the disqualification of both the king (due to afsanya) and the High Priest (due to tzina) from leap year intercalation courts, which is precisely what the 'Leap Year Conflicts' section's prose addresses.",
+      "chosen_heading": "Leap Year Conflicts",
+      "current_heading": "Leap Year Conflicts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Shepherds & Tekufah",
+    "candidates": [
+      "King's Money Interest",
+      "Year Calculations",
+      "Shepherds & Tekufah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the opening of the cowherd story \u2014 Rav Pappa's inference followed immediately by the challenge from the three cattle herders \u2014 which is precisely the content described in the 'Shepherds & Tekufah' section's prose.",
+      "chosen_heading": "Shepherds & Tekufah",
+      "current_heading": "Shepherds & Tekufah",
+      "moved": false
+    }
+  }
+]

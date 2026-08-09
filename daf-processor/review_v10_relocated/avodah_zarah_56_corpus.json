@@ -1,0 +1,262 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Mishna Rishona: At Bor",
+    "candidates": [
+      "Wine Processing Overview",
+      "Mishna Rishona: At Bor",
+      "Rav Huna: When Flowing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are challenges to Rav Huna's position ('keivan she'hitchil lehimashech') and their resolutions \u2014 item 1 is answered by 'stoppered and full winepress,' and item 2 is resolved by Rav Huna himself distinguishing mishna rishona from mishna achrona \u2014 making this content squarely about Rav Huna's ruling and its reconciliation with the mishna, which is what candidate 2's prose describes.",
+      "chosen_heading": "Rav Huna: When Flowing",
+      "current_heading": "Mishna Rishona: At Bor",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      8,
+      9
+    ],
+    "current_heading": "Rav Huna: When Flowing",
+    "candidates": [
+      "Mishna Rishona: At Bor",
+      "Rav Huna: When Flowing",
+      "Tosafos: Hitchil vs Pool",
+      "Mesayeia Assisting Issue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are from the baraita recording the historical evolution from 'bet-dalet-dalet' to 'dalet-bet-dalet,' which directly illustrates the successive tightenings culminating in Rav Huna's ruling \u2014 exactly what the 'Rav Huna: When Flowing' prose describes as 'mishna achrona' superseding the earlier position.",
+      "chosen_heading": "Rav Huna: When Flowing",
+      "current_heading": "Rav Huna: When Flowing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Mesayeia Assisting Issue",
+    "candidates": [
+      "Tosafos: Hitchil vs Pool",
+      "Mesayeia Assisting Issue",
+      "Ma'aser: When Skins Float"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the prohibition of assisting (mesayei'a) a Jew who produces wine in tumah \u2014 specifically distinguishing between harvesting with a Jew who works b'tumah (forbidden) versus harvesting with a gentile (permitted), which maps precisely onto the 'Mesayeia Assisting Issue' prose about participation alongside one who commits a transgression.",
+      "chosen_heading": "Mesayeia Assisting Issue",
+      "current_heading": "Mesayeia Assisting Issue",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Ma'aser: When Skins Float",
+    "candidates": [
+      "Ma'aser: When Skins Float",
+      "Rava's Reconciliation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the contradiction between the mishna's standard for yayin nesech (descending into the vat) and the Ma'asrot mishna's standard (misheyikpe/skins floating), which is exactly what the 'Ma'aser: When Skins Float' section's prose describes.",
+      "chosen_heading": "Ma'aser: When Skins Float",
+      "current_heading": "Ma'aser: When Skins Float",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Rava's Reconciliation",
+    "candidates": [
+      "Rava's Reconciliation",
+      "Kipui: Cistern or Barrels",
+      "Drawing from Gat Proof",
+      "Tannaim: Wine Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's reconciliation of the contradiction by attributing the two standards to Rabbi Akiva vs. the Rabbis, citing the baraita about wine descending into the cistern vs. skins floating \u2014 which is precisely what the prose of 'Rava's Reconciliation' describes.",
+      "chosen_heading": "Rava's Reconciliation",
+      "current_heading": "Rava's Reconciliation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Tannaim: Wine Obligation",
+    "candidates": [
+      "Kipui: Cistern or Barrels",
+      "Drawing from Gat Proof",
+      "Tannaim: Wine Obligation",
+      "Rava: Yayin Nesech Rules",
+      "Three Tannaim Positions"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Drawing from Gat Proof",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the dilemma about cistern vs. barrel floating and its resolution via the gat proof, matching candidate 1's prose exactly.",
+      "second_heading": "Tannaim: Wine Obligation",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 cover Rav Zevid's baraisa, its harmonization, and the three-tannaim question with the yayin nesech stringency resolution, matching candidate 2's prose exactly.",
+      "current_heading": "Tannaim: Wine Obligation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Three Tannaim Positions",
+    "candidates": [
+      "Rava: Yayin Nesech Rules",
+      "Three Tannaim Positions",
+      "Rav Huna: Return Case",
+      "Gargusni Description"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states that Rava, who does not distinguish between the domains, must posit three tanna'im positions \u2014 exactly what the 'Three Tannaim Positions' section's prose discusses.",
+      "chosen_heading": "Three Tannaim Positions",
+      "current_heading": "Three Tannaim Positions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Gargusni Description",
+    "candidates": [
+      "Rav Huna: Return Case",
+      "Gargusni Description",
+      "Tosafos: Bitul Problem",
+      "Tosafos: Grapes vs. Wine",
+      "Gemara Q: Why Forbidden",
+      "Nitzok Chibbur",
+      "Nitzok vs. Water Level",
+      "Rashi: Nitzok Bar Nitzok",
+      "Tosafos: Non-Jew Wine",
+      "Nitzok: Wine Status",
+      "Question: Stomp Together",
+      "Hand Touch Concern",
+      "Hands Tied Solution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rav Huna's ruling about returning the gargusni to the gat and the gemara's immediate follow-up question about how the strainer itself becomes forbidden, which is precisely what candidate 0 ('Rav Huna: Return Case') describes in its prose.",
+      "chosen_heading": "Rav Huna: Return Case",
+      "current_heading": "Gargusni Description",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Hands Tied Solution",
+    "candidates": [
+      "Tosafos: Bitul Problem",
+      "Tosafos: Grapes vs. Wine",
+      "Gemara Q: Why Forbidden",
+      "Nitzok Chibbur",
+      "Nitzok vs. Water Level",
+      "Rashi: Nitzok Bar Nitzok",
+      "Tosafos: Non-Jew Wine",
+      "Nitzok: Wine Status",
+      "Question: Stomp Together",
+      "Hand Touch Concern",
+      "Hands Tied Solution",
+      "Shmuel Waits Festivals",
+      "Hand vs. Foot Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage describes the child prodigy who mastered Avoda Zara at age six and was asked about treading grapes with a non-Jew, which matches heading 8 ('Question: Stomp Together') precisely, while the current placement under heading 10 ('Hands Tied Solution') covers only the later portion of the child's responses.",
+      "chosen_heading": "Question: Stomp Together",
+      "current_heading": "Hands Tied Solution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Hand vs. Foot Debate",
+    "candidates": [
+      "Shmuel Waits Festivals",
+      "Hand vs. Foot Debate",
+      "Measuring Braisa",
+      "Natan: Hand Forbidden"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Shmuel Waits Festivals",
+      "first_confidence": "high",
+      "first_reason": "Item 1 describes the incident in Nehardea and Shmuel's delay of three Festivals, which matches heading 0's prose about *hahu uvda* and Shmuel holding the question over three *regalim*.",
+      "second_heading": "Hand vs. Foot Debate",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the possibility of finding a *tanna* like Rabbi Natan who would prohibit benefit, and the baraita about measuring by hand vs. foot, which matches heading 1's prose about Shmuel looking for a *tanna* ruling like Rabbi Natan to make wine *assur behana'ah*.",
+      "current_heading": "Hand vs. Foot Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Natan: Hand Forbidden",
+    "candidates": [
+      "Measuring Braisa",
+      "Natan: Hand Forbidden",
+      "Gemara Challenge",
+      "Shimon: Intent Test",
+      "Summary: Positions Range"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses Shmuel's reasoning that he was waiting to find a tanna who permits like Rabbi Shimon so he could permit even for drinking, which directly matches the 'Shimon: Intent Test' section's prose about Rabbi Shimon's position and Shmuel's exploration of it.",
+      "chosen_heading": "Shimon: Intent Test",
+      "current_heading": "Natan: Hand Forbidden",
+      "moved": true
+    }
+  }
+]

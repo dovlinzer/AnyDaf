@@ -1,0 +1,385 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Definition & Scope",
+    "candidates": [
+      "Definition & Scope",
+      "Verse Derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about ever min hachai applying to behemah, chayah, ve'of whether kosher or non-kosher, and the dispute between Rabbi Yehuda and the Rabbis, is directly quoted and analyzed in the 'Definition & Scope' prose, which explicitly paraphrases this exact baraita.",
+      "chosen_heading": "Definition & Scope",
+      "current_heading": "Definition & Scope",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7,
+      8
+    ],
+    "current_heading": "Verse Derivation",
+    "candidates": [
+      "Verse Derivation",
+      "Yehudah & Eliezer",
+      "Rabbis' Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute Rabbi Yo\u1e25anan's statement that both the Rabbis and Rabbi Yehuda/Elazar derive their positions from one verse, which is precisely what the 'Verse Derivation' section's prose discusses \u2014 the single verse and how both sides interpret it.",
+      "chosen_heading": "Verse Derivation",
+      "current_heading": "Verse Derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Rabbis' Position",
+    "candidates": [
+      "Yehudah & Eliezer",
+      "Rabbis' Position",
+      "Yehudah Needs No Verse"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbis' Position",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the Rabbis' position \u2014 that ever min hachai applies only where the flesh is permitted \u2014 which is precisely what candidate 1's prose describes in detail.",
+      "second_heading": "Yehudah Needs No Verse",
+      "second_confidence": "high",
+      "second_reason": "Item 2 raises the question of why Rabbi Yehudah needs a verse at all, invoking the issur kolel argument about bnei Noach, which is exactly what candidate 2's prose discusses.",
+      "current_heading": "Rabbis' Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Yehudah Needs No Verse",
+    "candidates": [
+      "Yehudah Needs No Verse",
+      "Verse for Eliezer",
+      "Issur Kolel/Mosif",
+      "Braita Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage states 'yes, indeed so' and that the verse was needed for Rabbi Elazar (Eliezer), which directly matches the 'Verse for Eliezer' section's prose about *ein hachi nami* and *v'chi itzterich kra l'Rabbi Eliezer*.",
+      "chosen_heading": "Verse for Eliezer",
+      "current_heading": "Yehudah Needs No Verse",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34,
+      35
+    ],
+    "current_heading": "Braita Text",
+    "candidates": [
+      "Verse for Eliezer",
+      "Issur Kolel/Mosif",
+      "Braita Text",
+      "Rabbi Meir Limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely the baraita text described in candidate 2's prose \u2014 covering Rabbi Eliezer's position linking ever min hachai to the blood prohibition and the Rabbis' counter-position limiting it to kosher animals \u2014 matching the current placement exactly.",
+      "chosen_heading": "Braita Text",
+      "current_heading": "Braita Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "current_heading": "Rabbi Meir Limits",
+    "candidates": [
+      "Rabbi Meir Limits",
+      "Bnei Noach Apply"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items directly concern Rabbi Meir's position limiting ever min hachai to kosher domesticated animals and the textual reasoning behind it (the verse about cattle and sheep), which is precisely what the 'Rabbi Meir Limits' prose discusses.",
+      "chosen_heading": "Rabbi Meir Limits",
+      "current_heading": "Rabbi Meir Limits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47,
+      48
+    ],
+    "current_heading": "Bnei Noach Apply",
+    "candidates": [
+      "Bnei Noach Apply",
+      "Mishna Text"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 Rav Giddel/Rav's ruling, the confirming baraita, and the textual variant discussion \u2014 are explicitly described and discussed in the 'Bnei Noach Apply' prose, which covers exactly this content about bnei Noach being prohibited from ever min hachai for non-kosher animals, the baraita confirmation, and the tehorah/tehorim variant.",
+      "chosen_heading": "Bnei Noach Apply",
+      "current_heading": "Bnei Noach Apply",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Mishna Text",
+    "candidates": [
+      "Mishna Text",
+      "Jews vs Bnei Noach",
+      "Shechita Effects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself (Rav Sheizvi citing the mishna about ever min hachai from a non-kosher bird), which corresponds directly to the 'Mishna Text' heading's prose that introduces and quotes this exact mishna.",
+      "chosen_heading": "Mishna Text",
+      "current_heading": "Mishna Text",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Shechita Effects",
+    "candidates": [
+      "Jews vs Bnei Noach",
+      "Shechita Effects",
+      "Proof from Mishna"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 Rav Sheizvi's inference that the mishna must be addressing bnei Noach, proving by elimination that ever min hachai applies to non-kosher species for gentiles \u2014 matches precisely the 'Proof from Mishna' section's prose about 'ella lav biBnei Noach michlal de'assur' and drawing the proof from the mishna's only coherent reading.",
+      "chosen_heading": "Proof from Mishna",
+      "current_heading": "Shechita Effects",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Proof from Mishna",
+    "candidates": [
+      "Shechita Effects",
+      "Proof from Mishna",
+      "Rav's Position",
+      "Rav Amram's Challenge",
+      "Meat vs Limb"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rabbi Mani bar Pattish resolving the contradiction between the first and latter clauses of the mishna by explaining reisha b'Yisrael v'seifa b'Bnei Noach, which is precisely what the 'Proof from Mishna' prose discusses explicitly.",
+      "chosen_heading": "Proof from Mishna",
+      "current_heading": "Proof from Mishna",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Meat vs Limb",
+    "candidates": [
+      "Rav's Position",
+      "Rav Amram's Challenge",
+      "Meat vs Limb",
+      "Living Bird Case",
+      "Dead vs Non-Kosher",
+      "Small Bird Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain: Rav's olive-bulk ruling (item 1), Rav Amram's challenge from the mishna (item 2), the Rav Nachman resolution about meat-sinews-bones (item 3), a further challenge to Rav (item 4), and its resolution again via the meat-sinews-bones principle (item 5) \u2014 all squarely within the 'Meat vs Limb' section's prose about the Rav Nachman explanation resolving the tension between the kezayis requirement and the mishna's ruling.",
+      "chosen_heading": "Meat vs Limb",
+      "current_heading": "Meat vs Limb",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89
+    ],
+    "current_heading": "Small Bird Debate",
+    "candidates": [
+      "Living Bird Case",
+      "Dead vs Non-Kosher",
+      "Small Bird Debate",
+      "Limb Division Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the baraita about a bird without a kezayis, the dispute between Rabbi Yehuda HaNasi and Rabbi Elazar bar Rabbi Shimon, the kal vachomer argument, and the strangled bird case \u2014 all of which are precisely what the 'Small Bird Debate' prose describes.",
+      "chosen_heading": "Small Bird Debate",
+      "current_heading": "Small Bird Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Limb Division Question",
+    "candidates": [
+      "Limb Division Question",
+      "Kezayit Limb vs. Meat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Limb Division Question",
+      "first_confidence": "high",
+      "first_reason": "Item 1 explains the conceptual disagreement about whether a living animal is considered divided into limbs, which is precisely what the 'Limb Division Question' prose describes.",
+      "second_heading": "Kezayit Limb vs. Meat",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces Rav Na\u1e25man's reinterpretation that 'no kezayis' means no kezayis of meat alone (with sinews and bones making up the remainder), which is exactly what the 'Kezayit Limb vs. Meat' prose discusses.",
+      "current_heading": "Limb Division Question",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Kezayit Limb vs. Meat",
+    "candidates": [
+      "Kezayit Limb vs. Meat",
+      "Kalanisa Bird",
+      "Kalanisa Kosher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Sherevya's confirmation that the kelanisa bird exists as the answer to the Gemara's challenge, which is precisely what candidate 1 ('Kalanisa Bird') describes in its prose.",
+      "chosen_heading": "Kalanisa Bird",
+      "current_heading": "Kezayit Limb vs. Meat",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      105
+    ],
+    "current_heading": "Kalanisa Kosher",
+    "candidates": [
+      "Kalanisa Bird",
+      "Kalanisa Kosher",
+      "Rava's Intent Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's challenge that the kalanisa is non-kosher (making Rav's be-mashehu rule apply) and resolves it with 'ela k'ein kalanisa' \u2014 a kosher bird similar to a kalanisa \u2014 which is precisely what the 'Kalanisa Kosher' section's prose describes.",
+      "chosen_heading": "Kalanisa Kosher",
+      "current_heading": "Kalanisa Kosher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Rava's Intent Theory",
+    "candidates": [
+      "Rava's Intent Theory",
+      "Abaye's Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rava's conditional ruling about machsheves ochalim and eating limb by limb, which is precisely what the 'Rava's Intent Theory' section's prose discusses in detail.",
+      "chosen_heading": "Rava's Intent Theory",
+      "current_heading": "Rava's Intent Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Abaye's Objection",
+    "candidates": [
+      "Abaye's Objection",
+      "Rava's Response",
+      "Reverse Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains only Abaye's objection and Rava's reply together, but the current heading 'Abaye's Objection' covers both since the prose under heading 0 discusses Abaye's question and heading 1 covers Rava's response separately \u2014 however, since the passage includes both the question AND the answer in one unit, and the current placement is under heading 0 which is where the passage currently sits, and the content spans both 0 and 1, the current placement is the best single home given the passage is one continuous exchange.",
+      "chosen_heading": "Abaye's Objection",
+      "current_heading": "Abaye's Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "Reverse Case",
+    "candidates": [
+      "Rava's Response",
+      "Reverse Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the reverse case \u2014 Rava's application of machsheves ochalim logic in the opposite direction followed by Abaye's identical objection and Rava's response \u2014 which is precisely what candidate 1's prose describes in detail.",
+      "chosen_heading": "Reverse Case",
+      "current_heading": "Reverse Case",
+      "moved": false
+    }
+  }
+]

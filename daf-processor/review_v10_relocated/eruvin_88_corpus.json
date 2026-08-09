@@ -1,0 +1,393 @@
+[
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Towel Drying on Shabbat",
+    "candidates": [
+      "Intro & Chananya Overview",
+      "Walls & Extensions",
+      "Legume Refuse",
+      "Towel Drying on Shabbat",
+      "Rav Huna's Ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly discusses the towel-drying ruling (u'mistapkin b'aluntit), the baraita about placing the towel on a window, not giving it to bathhouse attendants, and Rabbi Shimon's permissive view \u2014 all of which are precisely the content described in the 'Towel Drying on Shabbat' section's prose.",
+      "chosen_heading": "Towel Drying on Shabbat",
+      "current_heading": "Towel Drying on Shabbat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Rav Huna's Ruling",
+    "candidates": [
+      "Rav Huna's Ruling",
+      "Rav Shizvi's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabba bar Rav Huna's ruling distinguishing drawing water from pouring water, which is precisely what heading 0 ('Rav Huna's Ruling') discusses in its prose.",
+      "chosen_heading": "Rav Huna's Ruling",
+      "current_heading": "Rav Huna's Ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Rav Shizvi's Challenge",
+    "candidates": [
+      "Rav Shizvi's Challenge",
+      "Resolution: Absorption"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Sheizvi's challenge comparing the balcony case to the pit (uka), which directly matches the prose of heading 0 that explains this exact objection and its logic.",
+      "chosen_heading": "Rav Shizvi's Challenge",
+      "current_heading": "Rav Shizvi's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Resolution: Absorption",
+    "candidates": [
+      "Resolution: Absorption",
+      "No Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states that the waters in the courtyard case are absorbed (tayeimi) while those in the balcony case are not (lo tayeimi), which matches the 'Resolution: Absorption' heading's prose explaining this exact distinction, whereas heading 1 uses this phrase only as a foil to explain why the ruling comes to teach us we do NOT draw that distinction.",
+      "chosen_heading": "Resolution: Absorption",
+      "current_heading": "Resolution: Absorption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "No Distinction",
+    "candidates": [
+      "No Distinction",
+      "Rav Huna on Proximity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabba bar Rav Huna's ruling that pouring is also permitted, Rav Sheizvi's objection, and the absorption distinction, which is precisely what the 'No Distinction' prose describes.",
+      "chosen_heading": "No Distinction",
+      "current_heading": "No Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Rav Huna on Proximity",
+    "candidates": [
+      "Rav Huna on Proximity",
+      "Gezel & Churvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Huna citing Rav on the proximity rule for two balconies, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rav Huna on Proximity",
+      "current_heading": "Rav Huna on Proximity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Gezel & Churvah",
+    "candidates": [
+      "Gezel & Churvah",
+      "Resolving Contradiction",
+      "Balconies & Walls"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Balconies & Walls",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about Rav's principle that one person does not restrict another via airspace, which belongs with the Balconies & Walls discussion that explicitly references this principle.",
+      "second_heading": "Gezel & Churvah",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 introduce and resolve the yesh gezel beshabbat / churva machzir lebaalim statement, which is precisely what the 'Gezel & Churvah' and 'Resolving Contradiction' prose sections discuss \u2014 with item 2 introducing the ruling (Gezel & Churvah) and items 3-4 presenting the contradiction and its resolution (Resolving Contradiction), but since items 2-4 form one continuous chain under the current placement, they belong together under heading 0.",
+      "current_heading": "Gezel & Churvah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46
+    ],
+    "current_heading": "Balconies & Walls",
+    "candidates": [
+      "Resolving Contradiction",
+      "Balconies & Walls",
+      "Challenge: Own Balcony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rabba's challenge about why the balconies prohibit each other if yesh din gezel beshabbos applies, and Rav Sheshet's resolution about joint construction of the partition \u2014 correspond exactly to the 'Balconies & Walls' prose, which describes precisely this challenge (umotvinan ashmatin) and Rav Sheshet's answer (mechitza beshutfus).",
+      "chosen_heading": "Balconies & Walls",
+      "current_heading": "Balconies & Walls",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Challenge: Own Balcony",
+    "candidates": [
+      "Challenge: Own Balcony",
+      "Renunciation of Interest"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the difficulty ('if so, why doesn't the same problem apply to the lower balcony'), which is exactly what the prose of 'Challenge: Own Balcony' describes and analyzes.",
+      "chosen_heading": "Challenge: Own Balcony",
+      "current_heading": "Challenge: Own Balcony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Renunciation of Interest",
+    "candidates": [
+      "Renunciation of Interest",
+      "Mishnah on Pits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Gemara's answer about erecting a partition revealing intent to dissolve co-ownership, which directly corresponds to the 'Renunciation of Interest' section's discussion of gilluy da'at through construction.",
+      "chosen_heading": "Renunciation of Interest",
+      "current_heading": "Renunciation of Interest",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Mishnah on Pits",
+    "candidates": [
+      "Mishnah on Pits",
+      "Pit Measurement",
+      "Covering & Debris"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Mishnah stating the basic rule about courtyards less than four cubits and the pit requirement, which matches heading 0's prose that directly discusses and paraphrases this exact Mishnah text including the four-amos threshold and the two se'ah pit requirement.",
+      "chosen_heading": "Mishnah on Pits",
+      "current_heading": "Mishnah on Pits",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Covering & Debris",
+    "candidates": [
+      "Pit Measurement",
+      "Covering & Debris",
+      "R. Eliezer ben Yaakov",
+      "Chachamim on Drainage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the inside/outside distinction and the arching/covering requirement (*likmor*), which is the exact content summarized in the 'Pit Measurement' prose under *bein mibachutz bein mibifnim* and *ella shebachutz tzarich likmor*, making it the natural home for this Mishnaic text.",
+      "chosen_heading": "Pit Measurement",
+      "current_heading": "Covering & Debris",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Chachamim on Drainage",
+    "candidates": [
+      "R. Eliezer ben Yaakov",
+      "Chachamim on Drainage",
+      "Courtyard & Portico",
+      "Rava: Intent & Dust",
+      "R. Zeira: Absorption",
+      "Abye's Nafka Mina"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Eliezer ben Yaakov's ruling AND the Rabbis' response as a single Mishnaic unit, and candidate 0's prose explicitly introduces Rabbi Eliezer ben Yaakov's ruling and notes the Gemara will analyze the discrepancy \u2014 meaning this complete Mishnaic text (including the Rabbis' rejoinder) belongs under the heading that introduces it, not split under a separate 'Chachamim on Drainage' heading.",
+      "chosen_heading": "R. Eliezer ben Yaakov",
+      "current_heading": "Chachamim on Drainage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Abye's Nafka Mina",
+    "candidates": [
+      "Courtyard & Portico",
+      "Rava: Intent & Dust",
+      "R. Zeira: Absorption",
+      "Abye's Nafka Mina",
+      "Rava's Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Courtyard & Portico",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah text about courtyard+portico combining for four amos and two balconies, which is precisely what heading 0 'Courtyard & Portico' describes in its prose.",
+      "second_heading": "Abye's Nafka Mina",
+      "second_confidence": "high",
+      "second_reason": "Items 2-10 cover the Gemara's full dispute between Rabba/Rabbi Zeira, Abaye's nafka mina, the baraita challenge, and Rabbi Zeira's attribution to Rabbi Eliezer ben Yaakov plus Rava's proof from Mishnah language \u2014 all of which are discussed in heading 3 'Abye's Nafka Mina' prose.",
+      "current_heading": "Abye's Nafka Mina",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rava's Proof",
+    "candidates": [
+      "Rava's Proof",
+      "Drainage Pipe Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's conclusion that the unattributed Mishnah follows Rabbi Eliezer ben Yaakov, which is precisely the conclusion of Rava's proof from the Mishnah's language as described in candidate 0's prose.",
+      "chosen_heading": "Rava's Proof",
+      "current_heading": "Rava's Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Drainage Pipe Debate",
+    "candidates": [
+      "Drainage Pipe Debate",
+      "Baraita: Rainy Season",
+      "Rava Explains"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Drainage Pipe Debate",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 resolve the internal contradiction in the mishna by showing it is entirely Rabbi Eliezer ben Yaakov's view, directly continuing the Drainage Pipe Debate discussion about his position.",
+      "second_heading": "Baraita: Rainy Season",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 shift to a new unit: item 3 opens a fresh discussion of the mishna's ruling (Rabbi Eliezer ben Yaakov on the arched ditch vs. the Rabbis), and item 4 introduces \u1e24ananya's baraita about roofs in all seasons, which sets up the baraita/rainy-season section.",
+      "current_heading": "Drainage Pipe Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Rava Explains",
+    "candidates": [
+      "Baraita: Rainy Season",
+      "Rava Explains",
+      "Abaye's Challenge",
+      "Rav Nachman's View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a single chain: the baraita's rainy-season dispensation, Rava's dual explanation for it, Abaye's challenge, and Rava's rebuttal \u2014 exactly the content described in heading 1's prose about Rava's two-part rationale (courtyard already spoiled; pipes ordinarily flow), which matches items 1\u20133 precisely.",
+      "chosen_heading": "Rava Explains",
+      "current_heading": "Rava Explains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      125,
+      126,
+      127,
+      128
+    ],
+    "current_heading": "Rav Nachman's View",
+    "candidates": [
+      "Abaye's Challenge",
+      "Rav Nachman's View",
+      "Abaye: Large Pits OK"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items \u2014 Rav Nachman's ruling on rainy vs. summer seasons, the Gemara's challenge about one se'ah in summer, the dual-rationale answer about the rainy season, and Abaye's conclusion \u2014 are precisely the content described in candidate 1's prose, which walks through each of these steps in order.",
+      "chosen_heading": "Rav Nachman's View",
+      "current_heading": "Rav Nachman's View",
+      "moved": false
+    }
+  }
+]

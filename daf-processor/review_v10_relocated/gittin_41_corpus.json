@@ -1,0 +1,362 @@
+[
+  {
+    "quote_indices": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Mishna Readings",
+    "candidates": [
+      "Tikkun Olam Intro",
+      "Apoteki Definition",
+      "Mishna Scenario",
+      "Mishna Readings",
+      "Three Categories",
+      "Hekdesh Analysis",
+      "Hekdesh Types",
+      "Shichrur & Chametz",
+      "First Master Freed",
+      "False Reclaim Risk",
+      "Forced Manumission",
+      "Gamliel Debate",
+      "Damaging Lien",
+      "Gamliel: Liable"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishna Scenario",
+      "first_confidence": "high",
+      "first_reason": "Items 1 (the Mishna text) belongs under 'Mishna Scenario' which describes exactly this case of Reuven designating a slave as apoteki and then freeing him, presenting the mishna's ruling.",
+      "second_heading": "First Master Freed",
+      "second_confidence": "high",
+      "second_reason": "Items 2-4 (the Gemara clarifying who freed the slave, invoking Rava's principle, and explaining the forced manumission remedy) belong under 'First Master Freed' which discusses Rav's reading that the first master freed the slave and the consequences under Rava's principle.",
+      "current_heading": "Mishna Readings",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Gamliel: Liable",
+    "candidates": [
+      "Three Categories",
+      "Hekdesh Analysis",
+      "Hekdesh Types",
+      "Shichrur & Chametz",
+      "First Master Freed",
+      "False Reclaim Risk",
+      "Forced Manumission",
+      "Gamliel Debate",
+      "Damaging Lien",
+      "Gamliel: Liable",
+      "Chachamim: Not Liable"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses the dispute between the Sages over whether damaging another's lien constitutes liability, which is precisely what the 'Damaging Lien' section's prose introduces and explains.",
+      "chosen_heading": "Damaging Lien",
+      "current_heading": "Gamliel: Liable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Chachamim: Not Liable",
+    "candidates": [
+      "Gamliel: Liable",
+      "Chachamim: Not Liable",
+      "Shimon Freed",
+      "Perception & Reality",
+      "Reuven Pays Back"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage 'itmar nami, hamazzik shibudo shel havero \u2014 banu l'mahloket Rabban Gamliel verabanan' is explicitly quoted and discussed in candidate 4's prose as the foundation of the hezek she'eino nikkar dispute between Rabban Shimon ben Gamliel and the Rabbis, making it a clearly better fit there than under 'Chachamim: Not Liable.'",
+      "chosen_heading": "Reuven Pays Back",
+      "current_heading": "Chachamim: Not Liable",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Reuven Pays Back",
+    "candidates": [
+      "Shimon Freed",
+      "Perception & Reality",
+      "Reuven Pays Back",
+      "Textual Problems"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly concern the dispute between the first tanna and Rabban Shimon ben Gamliel about who pays Reuven \u2014 the slave writing a note vs. Shimon paying \u2014 and the underlying principle of hezek she'eino nikkar, which is precisely what the 'Reuven Pays Back' prose discusses in detail.",
+      "chosen_heading": "Reuven Pays Back",
+      "current_heading": "Reuven Pays Back",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56,
+      57
+    ],
+    "current_heading": "Textual Problems",
+    "candidates": [
+      "Textual Problems",
+      "River Swamps Field",
+      "Exclusive Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the back-and-forth about why Ulla rejected Rav's reading and vice versa, which is exactly what the 'Textual Problems' prose describes \u2014 the mutual objections about calling Shimon 'the master' or 'the one who freed him.'",
+      "chosen_heading": "Textual Problems",
+      "current_heading": "Textual Problems",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Exclusive Rights",
+    "candidates": [
+      "River Swamps Field",
+      "Exclusive Rights",
+      "Three Grades"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the case of a field designated as apoteki that is flooded by a river and presents the initial dispute between Rabbi Yochanan and Shmuel's father, which matches exactly the 'River Swamps Field' section's prose describing the introduction of this new case and question.",
+      "chosen_heading": "River Swamps Field",
+      "current_heading": "Exclusive Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Three Grades",
+    "candidates": [
+      "Exclusive Rights",
+      "Three Grades",
+      "Wife vs. Creditor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Rav Na\u1e25man bar Yitz\u1e25ak's reinterpretation of Ami Shappir Na'e's ruling and the corroborating baraita \u2014 are precisely the content described in the 'Three Grades' prose, which explicitly references Rav Na\u1e25man's quip and the baraita about 'lo yehe lecha pira'on ela mizu' as the corroboration of the threefold scheme.",
+      "chosen_heading": "Three Grades",
+      "current_heading": "Three Grades",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Wife vs. Creditor",
+    "candidates": [
+      "Wife vs. Creditor",
+      "Half Status Paradox",
+      "Beit Hillel View",
+      "Marriage Problem",
+      "Lo Tohu Bera'ah",
+      "Beit Hillel Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita about designating a field as apoteki for a creditor vs. a wife's ketubah, with Rabban Shimon ben Gamliel's distinction, which is precisely what the 'Wife vs. Creditor' section's prose discusses.",
+      "chosen_heading": "Wife vs. Creditor",
+      "current_heading": "Wife vs. Creditor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Beit Hillel Reversal",
+    "candidates": [
+      "Half Status Paradox",
+      "Beit Hillel View",
+      "Marriage Problem",
+      "Lo Tohu Bera'ah",
+      "Beit Hillel Reversal",
+      "Master Frees Half"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the complete Mishnah about the half-slave half-freeman (chatzi eved chatzi ben chorin), which heading 0 'Half Status Paradox' explicitly introduces as 'a celebrated mishnah dealing with the chatzi eved chatzi ben chorin,' making it the natural home for the full Mishnah text before the essay's prose unpacks its individual components under subsequent headings.",
+      "chosen_heading": "Half Status Paradox",
+      "current_heading": "Beit Hillel Reversal",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Master Frees Half",
+    "candidates": [
+      "Beit Hillel Reversal",
+      "Master Frees Half",
+      "Rabbi: Half Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage introduces the baraita about a master who frees half his slave and the dispute between Rabbi and the Sages, which exactly matches the 'Master Frees Half' section's prose introducing that same baraita.",
+      "chosen_heading": "Master Frees Half",
+      "current_heading": "Master Frees Half",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Rabbi: Half Works",
+    "candidates": [
+      "Rabbi: Half Works",
+      "Chachamim: All-or-Nothing"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi: Half Works",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Rabba's explanation of Rabbi Yehuda HaNasi's position (the hekesh linking shtar to money, allowing half-freedom via shtar), which matches exactly the prose of candidate 0 ('Rabbi: Half Works').",
+      "second_heading": "Chachamim: All-or-Nothing",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the Rabbis' gezeirah shavah (lah-lah) from the laws of divorce concluding that a shtar cannot achieve half-freedom, which matches exactly the prose of candidate 1 ('Chachamim: All-or-Nothing').",
+      "current_heading": "Rabbi: Half Works",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Chachamim: All-or-Nothing",
+    "candidates": [
+      "Chachamim: All-or-Nothing",
+      "Raba's Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage asks whether the dispute between Rabbi and the Rabbis is about hekkesh vs. gezeirah shavah being preferable \u2014 this directly sets up Raba's reading of the debate, which the prose in candidate 1 explicitly addresses as the core question of the shtar debate.",
+      "chosen_heading": "Raba's Reading",
+      "current_heading": "Chachamim: All-or-Nothing",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Raba's Reading",
+    "candidates": [
+      "Raba's Reading",
+      "Shtar All-or-Nothing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains why Rabbi (Rabbi Yehuda HaNasi) prefers the juxtaposition over the verbal analogy specifically because a slave can leave via money while a woman cannot \u2014 this directly supports Raba's reading as described in the prose, where Rabbi holds the slave-wife distinction (money works for slaves but not wives) as the basis for his position.",
+      "chosen_heading": "Raba's Reading",
+      "current_heading": "Raba's Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Shtar All-or-Nothing",
+    "candidates": [
+      "Shtar All-or-Nothing",
+      "Braita Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Yosef's position that the dispute concerns money while everyone agrees a shtar is all-or-nothing, which is precisely what the 'Shtar All-or-Nothing' section's prose describes and analyzes.",
+      "chosen_heading": "Shtar All-or-Nothing",
+      "current_heading": "Shtar All-or-Nothing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      113,
+      114,
+      115
+    ],
+    "current_heading": "Braita Contradiction",
+    "candidates": [
+      "Braita Contradiction",
+      "Defense of Rav Yosef",
+      "Power of Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together form the objection-and-initial-defense sequence that candidate 0's prose explicitly describes: the baraita refutation of Rav Yosef, the question of a double refutation, and Rav Yosef's preliminary response that the baraita's silence on money is not telling \u2014 all of which candidate 0 covers directly, while candidates 1 and 2 address later, more developed stages of the argument.",
+      "chosen_heading": "Braita Contradiction",
+      "current_heading": "Braita Contradiction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      120
+    ],
+    "current_heading": "Power of Stringency",
+    "candidates": [
+      "Defense of Rav Yosef",
+      "Power of Stringency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about why the dispute wasn't framed around money and the answer invoking 'koach deheteira adif leh,' which is precisely what the 'Power of Stringency' section's prose discusses.",
+      "chosen_heading": "Power of Stringency",
+      "current_heading": "Power of Stringency",
+      "moved": false
+    }
+  }
+]

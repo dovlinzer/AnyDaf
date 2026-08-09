@@ -88,7 +88,7 @@
           "timestamp": "26:02"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -122,7 +122,7 @@
           "timestamp": "34:59"
         }
       ],
-      "sefaria_index": 1,
+      "sefaria_index": 13,
       "matched": true
     },
     {
@@ -225,7 +225,7 @@
           "timestamp": "56:15"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 26,
       "matched": true
     }
   ],
@@ -375,5 +375,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 2,
+  "amud_b_timestamp": "34:59",
+  "amud_b_micro_title": "Carry-Over Specification",
+  "shiur_start_daf": 38,
+  "shiur_start_amud": "a"
 }

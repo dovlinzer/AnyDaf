@@ -1,0 +1,307 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Dead Body Case",
+    "candidates": [
+      "Twins Simultaneity",
+      "Bidei Adam Types",
+      "Dead Body Case",
+      "Physical Reality",
+      "Trust Measurement",
+      "Halacha Precision",
+      "Tarfon Picks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 9 items concern the egla arufa (heifer) case of a body found equidistant between two towns, the dispute between Tanna Kamma and Rabbi Eliezer, and the Gemara's analysis of whether this maps onto the tzimtzum debate \u2014 precisely what the 'Dead Body Case' prose describes in detail.",
+      "chosen_heading": "Dead Body Case",
+      "current_heading": "Dead Body Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Tarfon Picks",
+    "candidates": [
+      "Physical Reality",
+      "Trust Measurement",
+      "Halacha Precision",
+      "Tarfon Picks",
+      "Tarfon Logic",
+      "Akiva Splits",
+      "Yochanan Reads",
+      "Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Tarfon's ruling that the kohen picks the nicer animal, which is exactly what the 'Tarfon Picks' section's prose introduces \u2014 the practical question of which animal the kohen receives and Rabbi Tarfon's answer that he takes the better one.",
+      "chosen_heading": "Tarfon Picks",
+      "current_heading": "Tarfon Picks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Contradiction",
+    "candidates": [
+      "Tarfon Logic",
+      "Akiva Splits",
+      "Yochanan Reads",
+      "Contradiction",
+      "Guarding Blemish",
+      "Meir Both Sides"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the continuous exchange in which Rabbi \u1e24iyya bar Abba questions Rabbi Yo\u1e25anan's reading of 'meshammenin' and Rabbi Yo\u1e25anan resolves it by pointing to the seifa \u2014 exactly what candidate 2 ('Yochanan Reads') describes, including the colloquial rebuke and the instruction to look at the latter clause.",
+      "chosen_heading": "Yochanan Reads",
+      "current_heading": "Contradiction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Meir Both Sides",
+    "candidates": [
+      "Guarding Blemish",
+      "Meir Both Sides",
+      "Yosei Sale",
+      "Rava Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses Rabbi Meir's obligation in matanot and Rabbi Yochanan's explanation that the kohen comes from two sides, which exactly matches the 'Meir Both Sides' section's prose about the kohen's dual claim.",
+      "chosen_heading": "Meir Both Sides",
+      "current_heading": "Meir Both Sides",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Rava Theory",
+    "candidates": [
+      "Yosei Sale",
+      "Rava Theory",
+      "Logic Question",
+      "Elazar Agrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage opens with 'what is the reasoning of Rabbi Yosei?' \u2014 which is precisely the question posed in candidate 0's prose ('The Gemara then asks: what is Rabbi Yosei's reasoning for exempting?'), and candidate 1's prose already contains the full explanation of Rava's answer, making the question-setup passage a better fit under heading 0.",
+      "chosen_heading": "Yosei Sale",
+      "current_heading": "Rava Theory",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Elazar Agrees",
+    "candidates": [
+      "Logic Question",
+      "Elazar Agrees",
+      "Yosei Exchange"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's statement that everyone agrees matanot are obligatory when the kohen received nothing in exchange, which is precisely what the 'Elazar Agrees' section's prose discusses.",
+      "chosen_heading": "Elazar Agrees",
+      "current_heading": "Elazar Agrees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "current_heading": "Yosei Exchange",
+    "candidates": [
+      "Yosei Exchange",
+      "Ma'aser Nothing",
+      "Claim Difference",
+      "Institution Fear",
+      "Principle Debate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 5,
+      "first_heading": "Yosei Exchange",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20135 discuss Rabbi Elazar's 'everyone concedes' statement about Rabbi Yosei's chalufin reasoning and the gezeirah alternative, which is precisely what the 'Yosei Exchange' prose describes.",
+      "second_heading": "Ma'aser Nothing",
+      "second_confidence": "high",
+      "second_reason": "Items 6\u20137 introduce Rav Pappa's new statement about safek ma'aser and the 'everyone concedes' formulation in that context, matching the 'Ma'aser Nothing' prose which opens with that exact Rav Pappa ruling.",
+      "current_heading": "Yosei Exchange",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83,
+      84
+    ],
+    "current_heading": "Principle Debate",
+    "candidates": [
+      "Ma'aser Nothing",
+      "Claim Difference",
+      "Institution Fear",
+      "Principle Debate",
+      "Tarfon Reversal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's challenge-and-resolution about whether Rabbi Meir's position is a protective ordinance (delo tishtakach) or a principled din claim \u2014 item 1 raises the challenge from the seifa and item 2 resolves it by explaining what Rav Pappa's statement teaches us \u2014 which matches exactly the 'Institution Fear' prose describing the Gemara's question about what the chiddush of Rav Pappa's statement is and the concern that Rabbi Meir obligates as a protective measure.",
+      "chosen_heading": "Institution Fear",
+      "current_heading": "Principle Debate",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Tarfon Reversal",
+    "candidates": [
+      "Principle Debate",
+      "Tarfon Reversal",
+      "Reversed Position",
+      "Burden Proof",
+      "Two Analogies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the content described in the 'Tarfon Reversal' prose: Rabbi Tarfon's ruling of yachloku, the Gemara's challenge showing it contradicts his earlier position, and Rabbi Ami's resolution that Rabbi Tarfon retracted \u2014 all of which is what the 'Tarfon Reversal' section's prose discusses.",
+      "chosen_heading": "Tarfon Reversal",
+      "current_heading": "Tarfon Reversal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "current_heading": "Two Analogies",
+    "candidates": [
+      "Reversed Position",
+      "Burden Proof",
+      "Two Analogies",
+      "Kohen Shepherd",
+      "Tarfon Theory",
+      "Akiva Counter",
+      "Gender Mix",
+      "Multiple Births",
+      "Prior Birth"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Two Analogies",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 introduce the two analogies (shepherd/homeowner parables) that map Rabbi Tarfon's and Rabbi Akiva's positions, which is exactly what the 'Two Analogies' prose describes.",
+      "second_heading": "Kohen Shepherd",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 present Rava/Rav Pappa's resolution that everyone agrees on both pure models and the dispute is only in the intermediate case (kohen as shepherd in the Yisrael's yard), followed by Rabbi Tarfon's and Rabbi Akiva's reasoning for that case, which precisely matches the 'Kohen Shepherd' prose.",
+      "current_heading": "Two Analogies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119,
+      120,
+      121
+    ],
+    "current_heading": "Prior Birth",
+    "candidates": [
+      "Kohen Shepherd",
+      "Tarfon Theory",
+      "Akiva Counter",
+      "Gender Mix",
+      "Multiple Births",
+      "Prior Birth",
+      "Repetition Reason",
+      "Strength Proof"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Gender Mix",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-2 comprise the first Mishna scenario about two ewes that never previously gave birth, covering the gender-mix and multiple-birth cases discussed under headings 3-4, with heading 3 ('Gender Mix') being the natural start of that Mishna.",
+      "second_heading": "Prior Birth",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the 'one ewe previously gave birth, one did not' scenario, which exactly matches the 'Prior Birth' heading's prose about that precise configuration.",
+      "current_heading": "Prior Birth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127,
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Strength Proof",
+    "candidates": [
+      "Repetition Reason",
+      "Strength Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's *tzericha* argument explaining why each case needed to be taught separately \u2014 which directly answers the question 'why enumerate all cases?' posed in candidate 0 ('Repetition Reason'), not the discussion of physical strength as evidence found in candidate 1.",
+      "chosen_heading": "Repetition Reason",
+      "current_heading": "Strength Proof",
+      "moved": true
+    }
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "quote_indices": [
+      5,
+      6
+    ],
+    "current_heading": "One/Two Iskot",
+    "candidates": [
+      "Iska Definition",
+      "One/Two Iskot",
+      "Effort & Recovery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are precisely Rava's ruling about chada iska u-trei shtarei and trei iskei v-chad shtara, which is the exact content discussed in the 'One/Two Iskot' prose section.",
+      "chosen_heading": "One/Two Iskot",
+      "current_heading": "One/Two Iskot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Effort & Recovery",
+    "candidates": [
+      "Effort & Recovery",
+      "Cannot Split",
+      "Profit Lien",
+      "Mazla D'bei Trei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rava's ruling about an iska recipient who loses money, recovers it unilaterally without informing the investor, and cannot claim retroactive loss-sharing \u2014 exactly what the 'Effort & Recovery' prose describes.",
+      "chosen_heading": "Effort & Recovery",
+      "current_heading": "Effort & Recovery",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23,
+      24
+    ],
+    "current_heading": "Mazla D'bei Trei",
+    "candidates": [
+      "Cannot Split",
+      "Profit Lien",
+      "Mazla D'bei Trei",
+      "Weeding Obligation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the complete serial chain of Rava's arguments about splitting a joint iska \u2014 profit lien, principal lien, and mazla d'bei trei \u2014 which heading 1 ('Profit Lien') explicitly covers in full, whereas heading 2 ('Mazla D'bei Trei') only covers the final argument and heading 0 only covers the initial prevention point.",
+      "chosen_heading": "Profit Lien",
+      "current_heading": "Mazla D'bei Trei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "current_heading": "Weeding Obligation",
+    "candidates": [
+      "Mazla D'bei Trei",
+      "Weeding Obligation",
+      "Barza Denafal",
+      "Kdei Le'amid Kari",
+      "Contract Language"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 3,
+      "first_heading": "Weeding Obligation",
+      "first_confidence": "high",
+      "first_reason": "Segment 1 is the Mishna about a lessee refusing to weed and offering to pay fixed rent anyway, which directly matches the 'Weeding Obligation' heading's description of hamakabel sadeh mechavero refusing to weed.",
+      "second_heading": "Barza Denafal",
+      "second_confidence": "high",
+      "second_reason": "Segment 2 contains the Gemara's counteroffers and the conclusion about 'bizra denafal nafal' (the seed that fell has fallen), which matches the 'Barza Denafal' heading's explanation of permanent compounding harm from failure to weed at the right time.",
+      "third_heading": "Kdei Le'amid Kari",
+      "third_confidence": "high",
+      "third_reason": "Segment 3 is the Mishna about a field that did not produce enough, with the threshold of 'kedei le'amid kari' and Rabbi Yehuda's alternative of 'kedei nefilah', which directly matches the 'Kdei Le'amid Kari' heading's prose.",
+      "current_heading": "Weeding Obligation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Contract Language",
+    "candidates": [
+      "Barza Denafal",
+      "Kdei Le'amid Kari",
+      "Contract Language",
+      "Pitchfork Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The baraita describes the exact contract language (ana okim ve'agar ve'ezra...) that the 'Contract Language' section's prose explicitly discusses, making the current placement correct.",
+      "chosen_heading": "Contract Language",
+      "current_heading": "Contract Language",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Pitchfork Test",
+    "candidates": [
+      "Pitchfork Test",
+      "Levi vs. Yannai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the definition of 'enough to form a pile' via the winnowing shovel test and the dilemma about the shovel protruding from both sides, which is precisely what the 'Pitchfork Test' prose section addresses.",
+      "chosen_heading": "Pitchfork Test",
+      "current_heading": "Pitchfork Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Levi vs. Yannai",
+    "candidates": [
+      "Levi vs. Yannai",
+      "Pritzei Zeitim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the dispute between Levi and the school of Rabbi Yannai over the minimum pile size (three vs. two se'ah) and Reish Lakish's gloss about net expenses, which matches exactly the prose under 'Levi vs. Yannai'.",
+      "chosen_heading": "Levi vs. Yannai",
+      "current_heading": "Levi vs. Yannai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Pritzei Zeitim",
+    "candidates": [
+      "Pritzei Zeitim",
+      "Weak Trees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss paritzei zeitim \u2014 their susceptibility to impurity, the meaning of paritz, and the quantity of oil that defines them \u2014 which corresponds exactly to the prose under heading 0.",
+      "chosen_heading": "Pritzei Zeitim",
+      "current_heading": "Pritzei Zeitim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Weak Trees",
+    "candidates": [
+      "Weak Trees",
+      "Beit Hapras"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita about a zav and pure person climbing a weak tree or branch, with the definitions of 'weak tree' (school of Rabbi Yannai) and 'weak branch' (Reish Lakish), which exactly matches the 'Weak Trees' section prose.",
+      "chosen_heading": "Weak Trees",
+      "current_heading": "Weak Trees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Beit Hapras",
+    "candidates": [
+      "Beit Hapras",
+      "Prayer/Tefillin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the beit hapras mishna and the Gemara's clarification of 'weak person/animal' (Reish Lakish and school of Rabbi Yannai), which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "Beit Hapras",
+      "current_heading": "Beit Hapras",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "current_heading": "Prayer/Tefillin",
+    "candidates": [
+      "Prayer/Tefillin",
+      "Strength Motif",
+      "Minimum Produce",
+      "Land Quality Dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items deal with the school of Rabbi Yannai's ruling on the four-kav threshold for prayer and phylacteries, which is precisely what the 'Prayer/Tefillin' section's prose describes in detail.",
+      "chosen_heading": "Prayer/Tefillin",
+      "current_heading": "Prayer/Tefillin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Land Quality Dispute",
+    "candidates": [
+      "Strength Motif",
+      "Minimum Produce",
+      "Land Quality Dispute",
+      "Scattered Sheaves"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage discusses exactly what candidate 2's prose describes: Rabbi Ami's two figures for kedei nefilah (four vs. eight se'ah per kur) and the elder's explanation that the discrepancy reflects differing land fertility in Rabbi Yochanan's vs. Rabbi Ami's eras \u2014 all the specific content of 'Land Quality Dispute.'",
+      "chosen_heading": "Land Quality Dispute",
+      "current_heading": "Land Quality Dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Scattered Sheaves",
+    "candidates": [
+      "Scattered Sheaves",
+      "Four Kabin",
+      "Hand vs. Animal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the Mishna from Peah about scattered sheaves and the initial question about kedei nefilah, which the 'Scattered Sheaves' prose explicitly describes as its content, while the subsequent headings ('Four Kabin' and 'Hand vs. Animal') cover the answers and dilemmas that follow.",
+      "chosen_heading": "Scattered Sheaves",
+      "current_heading": "Scattered Sheaves",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Hand vs. Animal",
+    "candidates": [
+      "Four Kabin",
+      "Hand vs. Animal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Ravin's report of four kav per kor (briefly) and then the unresolved teiku about hand vs. oxen seeding, which is precisely what the 'Hand vs. Animal' prose section describes in detail.",
+      "chosen_heading": "Hand vs. Animal",
+      "current_heading": "Hand vs. Animal",
+      "moved": false
+    }
+  }
+]

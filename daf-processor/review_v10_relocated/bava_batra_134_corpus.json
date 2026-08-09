@@ -1,0 +1,330 @@
+[
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Shimon ben Gamliel",
+    "candidates": [
+      "Mishna Setup",
+      "Writing Away Property",
+      "Redistribution Tension",
+      "Shimon ben Gamliel",
+      "Worthiness Theme"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text itself \u2014 stating that writing property to others while leaving one's children is legally valid but rabbinically disapproved, plus Rabban Shimon ben Gamliel's qualification \u2014 is precisely what the 'Mishna Setup' prose introduces and quotes, making it the natural home for this passage.",
+      "chosen_heading": "Mishna Setup",
+      "current_heading": "Shimon ben Gamliel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Worthiness Theme",
+    "candidates": [
+      "Shimon ben Gamliel",
+      "Worthiness Theme",
+      "Case Question",
+      "Yoezer's Sanctification",
+      "Son's Pearl Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's opening question about whether the Rabbis dispute Rabban Shimon ben Gamliel, which directly matches candidate 2's prose description of the gemara raising exactly this question about the rabanan's dispute with Rabban Shimon ben Gamliel.",
+      "chosen_heading": "Case Question",
+      "current_heading": "Worthiness Theme",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Son's Pearl Story",
+    "candidates": [
+      "Case Question",
+      "Yoezer's Sanctification",
+      "Son's Pearl Story",
+      "Wife's Advice"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both Yosef ben Yoezer's sanctification of his dinars AND the fish/pearl discovery, which together form the complete narrative unit described in heading 1 ('Yoezer's Sanctification'), while heading 2 ('Son's Pearl Story') covers only the second half \u2014 the passage should sit under heading 1 which introduces the full story beginning with 'Ta shema.'",
+      "chosen_heading": "Yoezer's Sanctification",
+      "current_heading": "Son's Pearl Story",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Wife's Advice",
+    "candidates": [
+      "Son's Pearl Story",
+      "Wife's Advice",
+      "Son's Character"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the wife's direct advice about not bringing the gem to the king and letting the treasurers appraise it, which is precisely what the 'Wife's Advice' section prose discusses in detail.",
+      "chosen_heading": "Wife's Advice",
+      "current_heading": "Wife's Advice",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30
+    ],
+    "current_heading": "Son's Character",
+    "candidates": [
+      "Son's Character",
+      "Ambiguity Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items describe the appraisal, the son's response, and the two versions of the treasurers' ledger entry \u2014 exactly what the 'Son's Character' prose discusses in detail.",
+      "chosen_heading": "Son's Character",
+      "current_heading": "Son's Character",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Ambiguity Conclusion",
+    "candidates": [
+      "Ambiguity Conclusion",
+      "Shmuel's Teaching",
+      "Transfer Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the gemara's attempt to infer from the two accounts of the story and concludes 'no inference is to be learned from this,' which matches exactly the 'Ambiguity Conclusion' prose describing how the gemara concludes meiha leka lemishma mina.",
+      "chosen_heading": "Ambiguity Conclusion",
+      "current_heading": "Ambiguity Conclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42
+    ],
+    "current_heading": "Transfer Scope",
+    "candidates": [
+      "Shmuel's Teaching",
+      "Transfer Scope",
+      "Broader Implications",
+      "Gift Situation",
+      "Yonatan's Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Shmuel's teaching to Rav Yehuda as a whole unit ('Come and hear, as Shmuel said to Rav Yehuda'), which corresponds directly to heading 0 'Shmuel's Teaching' whose prose describes exactly this introduction, whereas heading 1 'Transfer Scope' discusses the expansive scope of the ruling (the even/all-the-more-so logic) as a separate analytical point about content already introduced.",
+      "chosen_heading": "Shmuel's Teaching",
+      "current_heading": "Transfer Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Yonatan's Method",
+    "candidates": [
+      "Broader Implications",
+      "Gift Situation",
+      "Yonatan's Method",
+      "Shammai Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the incident of the man whose sons did not act properly and his transfer of property to Yonatan ben Uziel, which matches the 'Gift Situation' prose that introduces exactly this case, rather than the 'Yonatan's Method' section which discusses the analytical reasoning behind Yonatan's three-part division.",
+      "chosen_heading": "Gift Situation",
+      "current_heading": "Yonatan's Method",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Shammai Challenge",
+    "candidates": [
+      "Yonatan's Method",
+      "Shammai Challenge",
+      "Beit Choron Analogy",
+      "Wedding Banquet",
+      "Gift Ownership"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shammai Challenge",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 describe Shammai's challenge and Yonatan ben Uziel's rebuttal, which is precisely what candidate 1 ('Shammai Challenge') discusses in its prose.",
+      "second_heading": "Beit Choron Analogy",
+      "second_confidence": "high",
+      "second_reason": "Item 3 asks what Shammai's original reasoning was and answers 'due to the incident of Beit Choron,' which is exactly the opening question addressed in candidate 2 ('Beit Choron Analogy').",
+      "current_heading": "Shammai Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69
+    ],
+    "current_heading": "Gift Ownership",
+    "candidates": [
+      "Beit Choron Analogy",
+      "Wedding Banquet",
+      "Gift Ownership",
+      "Resolution",
+      "Student Tiers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute the Beit Choron mishna story (the gift to circumvent the vow, Michael's consecration response, and the Sages' governing principle), which is precisely what heading 0 'Beit Choron Analogy' introduces and discusses.",
+      "chosen_heading": "Beit Choron Analogy",
+      "current_heading": "Gift Ownership",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Student Tiers",
+    "candidates": [
+      "Resolution",
+      "Student Tiers",
+      "Yonatan's Rank",
+      "Yochanan's Modesty",
+      "Yochanan's Knowledge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage lists all eighty students in three tiers with Yonatan ben Uzziel as greatest and Yochanan ben Zakkai as least, which matches exactly the 'Student Tiers' prose describing the three-tier division of Hillel's eighty students.",
+      "chosen_heading": "Student Tiers",
+      "current_heading": "Student Tiers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Yochanan's Knowledge",
+    "candidates": [
+      "Yonatan's Rank",
+      "Yochanan's Modesty",
+      "Yochanan's Knowledge",
+      "Rambam's Theory",
+      "Yonatan's Miracle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly describe Rabban Yochanan ben Zakkai's encyclopedic knowledge and the elaboration of 'davar gadol' and 'davar katan,' which is precisely what heading 2 ('Yochanan's Knowledge') discusses in its prose.",
+      "chosen_heading": "Yochanan's Knowledge",
+      "current_heading": "Yochanan's Knowledge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Yonatan's Miracle",
+    "candidates": [
+      "Rambam's Theory",
+      "Yonatan's Miracle",
+      "Son Declaration",
+      "Brother vs. Son",
+      "Property Reversion",
+      "Selective Heir",
+      "Paternity Functions",
+      "Property Control",
+      "Brother/Son Distinction"
+    ],
+    "result": {
+      "action": "split3",
+      "split1": 1,
+      "split2": 4,
+      "first_heading": "Yonatan's Miracle",
+      "first_confidence": "high",
+      "first_reason": "The passage about Yonatan ben Uzziel being so great that birds flying over him were incinerated directly matches the 'Yonatan's Miracle' heading prose which explicitly describes this very image.",
+      "second_heading": "Son Declaration",
+      "second_confidence": "high",
+      "second_reason": "The mishna text covering 'zeh beni ne'eman, zeh achi eino ne'eman' and the subsequent clauses about property reversion and inherited property matches the 'Son Declaration' heading, which introduces the topic of recognizing someone as a son, and the subsequent mishna clauses about brother/property naturally follow under this same mishna unit.",
+      "third_heading": "Paternity Functions",
+      "third_confidence": "high",
+      "third_reason": "The gemara asking 'lemai hilcheta' about the father's credibility regarding paternity, answered by Rav Yehuda/Shmuel with leyorsho and lifetur ishto min hayibum, directly matches the 'Paternity Functions' heading prose which describes exactly this exchange.",
+      "current_heading": "Yonatan's Miracle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Brother/Son Distinction",
+    "candidates": [
+      "Son Declaration",
+      "Brother vs. Son",
+      "Property Reversion",
+      "Selective Heir",
+      "Paternity Functions",
+      "Property Control",
+      "Brother/Son Distinction",
+      "Divorce Power"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items directly address the contrast between 'yesh li banim' and 'yesh li achim' and the distinction between a case where a brother is presumed known versus not known \u2014 exactly what candidate 6's prose discusses in its final sentences about the mishna in Kiddushin and the concept of muchzak be-ach.",
+      "chosen_heading": "Brother/Son Distinction",
+      "current_heading": "Brother/Son Distinction",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Sale without Achrayut",
+    "candidates": [
+      "Sale without Achrayut",
+      "Seller's Indirect Benefit",
+      "Creditor Collection Cases",
+      "Other Land Available"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces Shmuel's teaching about selling a field without achrayut and asks 'what are the circumstances,' which is precisely what the 'Sale without Achrayut' section's prose describes as the opening of this discussion.",
+      "chosen_heading": "Sale without Achrayut",
+      "current_heading": "Sale without Achrayut",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Other Land Available",
+    "candidates": [
+      "Seller's Indirect Benefit",
+      "Creditor Collection Cases",
+      "Other Land Available",
+      "No Assets Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both the 'other land' and 'no other land' scenarios as a single gemara unit asking 'heichi dami,' which the prose under 'Creditor Collection Cases' explicitly describes as the gemara's framework for examining both scenarios together.",
+      "chosen_heading": "Creditor Collection Cases",
+      "current_heading": "Other Land Available",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "No Assets Case",
+    "candidates": [
+      "Other Land Available",
+      "No Assets Case",
+      "Non-Indebtedness Benefit",
+      "Tosafot: Future vs",
+      "Reuven-Shimon-Marduk Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly discuss the 'wicked borrower' (loveh rasha) rationale \u2014 item 1 introduces the answer that Reuven wants to avoid that status, and item 2 follows up with a challenge and response about whether he is equally a 'wicked borrower' toward the buyer \u2014 which is precisely what candidate 2 ('Non-Indebtedness Benefit') describes in its prose.",
+      "chosen_heading": "Non-Indebtedness Benefit",
+      "current_heading": "No Assets Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29
+    ],
+    "current_heading": "Reuven-Shimon-Marduk Case",
+    "candidates": [
+      "Non-Indebtedness Benefit",
+      "Tosafot: Future vs",
+      "Reuven-Shimon-Marduk Case",
+      "Redemption Obligation",
+      "Shimon's Recognition",
+      "Saddle Test",
+      "Ameimar's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava/Rav Pappa's announcement about the donkey seizure case and its immediate qualifications, which is precisely what the 'Reuven-Shimon-Marduk Case' prose introduces and discusses.",
+      "chosen_heading": "Reuven-Shimon-Marduk Case",
+      "current_heading": "Reuven-Shimon-Marduk Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Ameimar's Position",
+    "candidates": [
+      "Redemption Obligation",
+      "Shimon's Recognition",
+      "Saddle Test",
+      "Ameimar's Position",
+      "Secular Court Authority",
+      "Rambam's Psak",
+      "Uman Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Ameimar's statement that even without any of the indicators, no obligation exists because gentiles are presumed extortionists, which is precisely what the 'Ameimar's Position' prose discusses.",
+      "chosen_heading": "Ameimar's Position",
+      "current_heading": "Ameimar's Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Uman Principle",
+    "candidates": [
+      "Secular Court Authority",
+      "Rambam's Psak",
+      "Uman Principle",
+      "Rabba's View",
+      "Abaye's Challenge"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's exact qualification of the mishnah \u2014 that the craftsman has no chazakah only when delivery was witnessed, and that without witnesses the craftsman is believed via migo \u2014 which is precisely what the 'Rabba's View' section's prose describes.",
+      "chosen_heading": "Rabba's View",
+      "current_heading": "Uman Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Abaye's Challenge",
+    "candidates": [
+      "Rabba's View",
+      "Abaye's Challenge",
+      "Return Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's direct challenge to Rabba, arguing that even with witnesses the craftsman retains a migo via the claim 'I returned it to you' \u2014 exactly what the 'Abaye's Challenge' prose describes.",
+      "chosen_heading": "Abaye's Challenge",
+      "current_heading": "Abaye's Challenge",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Return Requirement",
+    "candidates": [
+      "Return Requirement",
+      "Garment Test Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Rabba's direct response establishing that a deposit made with witnesses must be returned with witnesses \u2014 precisely the content described in the 'Return Requirement' prose.",
+      "chosen_heading": "Return Requirement",
+      "current_heading": "Return Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Garment Test Case",
+    "candidates": [
+      "Garment Test Case",
+      "Third-Party Testimony"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the full baraita including both the craftsman's failed claim and the third-party testimony clause, and the current heading's prose explicitly discusses both parts of this baraita as a unified unit under Abaye's meitivei objection.",
+      "chosen_heading": "Garment Test Case",
+      "current_heading": "Garment Test Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Third-Party Testimony",
+    "candidates": [
+      "Third-Party Testimony",
+      "Eidim and Ra'ah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly concern the latter clause (seifa) of the baraita and Rabba's migo-based explanation of why the third party is believed \u2014 exactly what the 'Third-Party Testimony' prose describes.",
+      "chosen_heading": "Third-Party Testimony",
+      "current_heading": "Third-Party Testimony",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Eidim and Ra'ah",
+    "candidates": [
+      "Eidim and Ra'ah",
+      "Ra'ah Decisive",
+      "Combined Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's objection using the word 'ra'ah' from the baraita's first clause to challenge Rabba's witness-based position, which is precisely what the 'Eidim and Ra'ah' section's prose describes.",
+      "chosen_heading": "Eidim and Ra'ah",
+      "current_heading": "Eidim and Ra'ah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Combined Requirements",
+    "candidates": [
+      "Ra'ah Decisive",
+      "Combined Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabba's answer defending his position by specifying that witnesses are present AND ra'ah is required, which directly corresponds to the 'Combined Requirements' prose describing Rabba's third position that both eidim and ra'ah together are needed.",
+      "chosen_heading": "Combined Requirements",
+      "current_heading": "Combined Requirements",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "quote_indices": [
+      16,
+      17
+    ],
+    "current_heading": "Chachamim: Seller Retains",
+    "candidates": [
+      "Opening & Dedication",
+      "Recap: House Sales",
+      "Rights vs. Structures",
+      "Well in House Floor",
+      "Seller Retains Well",
+      "R. Akiva: Generous Sale",
+      "Chachamim: Seller Retains",
+      "Seller Sells Well"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items present the core mishnah text introducing the dispute between Rabbi Akiva and the Chachamim about whether the seller must purchase access rights to the retained well \u2014 exactly what heading 4 ('Seller Retains Well') describes as its topic, framing this as 'a debate between Rabbi Akiva and the Chachamim.'",
+      "chosen_heading": "Seller Retains Well",
+      "current_heading": "Chachamim: Seller Retains",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Seller Sells Well",
+    "candidates": [
+      "Chachamim: Seller Retains",
+      "Seller Sells Well",
+      "Generous Seller Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the case where the seller sells the pit/cistern to another while retaining the house, with Rabbi Akiva and the Rabbis debating whether the buyer needs to purchase access rights \u2014 which matches exactly the prose under 'Seller Sells Well.'",
+      "chosen_heading": "Seller Sells Well",
+      "current_heading": "Seller Sells Well",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Generous Seller Principle",
+    "candidates": [
+      "Generous Seller Principle",
+      "Generous vs. Stingy Sale"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "This Gemara passage discusses the distinction between bor and dut, which is part of the Gemara's analysis following the mishnah \u2014 it fits under 'Generous vs. Stingy Sale' where the prose describes the Gemara attempting to characterize the debate more precisely and examining the textual foundations, rather than under 'Generous Seller Principle' which discusses the abstract principle itself.",
+      "chosen_heading": "Generous vs. Stingy Sale",
+      "current_heading": "Generous Seller Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Generous vs. Stingy Sale",
+    "candidates": [
+      "Generous Seller Principle",
+      "Generous vs. Stingy Sale",
+      "Privacy Protection Theory"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's initial framing of the Rabbi Akiva vs. Chachamim debate as mocher be-ayin yafah vs. be-ayin ra'ah, and note that this mishnah is the source for Rabbi Akiva's general principle \u2014 exactly what the 'Generous vs. Stingy Sale' prose describes.",
+      "chosen_heading": "Generous vs. Stingy Sale",
+      "current_heading": "Generous vs. Stingy Sale",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35
+    ],
+    "current_heading": "Privacy Protection Theory",
+    "candidates": [
+      "Privacy Protection Theory",
+      "Power Position Theory",
+      "Positions Reverse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge that the dispute may be specific to this case rather than a general principle, explaining Rabbi Akiva's concern for the buyer's privacy (not wanting others to tread on his property) \u2014 which directly matches the 'Privacy Protection Theory' prose discussing the psychology of the buyer and Rabbi Akiva's sensitivity to the buyer's situation.",
+      "chosen_heading": "Privacy Protection Theory",
+      "current_heading": "Privacy Protection Theory",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Positions Reverse",
+    "candidates": [
+      "Power Position Theory",
+      "Positions Reverse",
+      "Tosafot Limitation",
+      "Tree Sale Parallel",
+      "Future Replanting Rights",
+      "Rights vs. Package",
+      "Field Sale Parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the seifa proof showing that Rabbi Akiva and the Chachamim's positions reverse when the seller sells the pit to another, which is precisely what the 'Positions Reverse' section's prose describes as the Gemara's dismantling of local readings by pointing to the seifa.",
+      "chosen_heading": "Positions Reverse",
+      "current_heading": "Positions Reverse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Field Sale Parallel",
+    "candidates": [
+      "Tosafot Limitation",
+      "Tree Sale Parallel",
+      "Future Replanting Rights",
+      "Rights vs. Package",
+      "Field Sale Parallel",
+      "Why Repeat?",
+      "Different Complaints",
+      "Broad Application",
+      "Field Sale Flip"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 8,
+      "confidence": "high",
+      "reason": "The passage discusses whether Rabbi Akiva and the Rabbis disagree about following the buyer's vs. seller's intent, which is the abstract principle ('batar da'ata de-lokei'ach' vs. 'batar da'ata de-mocher') that the 'Field Sale Flip' prose explicitly establishes as the conclusion of the fourfold repetition.",
+      "chosen_heading": "Field Sale Flip",
+      "current_heading": "Field Sale Parallel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Field Sale Flip",
+    "candidates": [
+      "Why Repeat?",
+      "Different Complaints",
+      "Broad Application",
+      "Field Sale Flip",
+      "Shmuel's Division",
+      "No Cross-Rights"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Candidate 3's prose explicitly describes the moker le-acher field case (items 5-6), the shema mina conclusion establishing the general principle, and the Rav/Shmuel halakhic dispute (items 7-8), while also covering the preliminary why-repeat discussion (items 1-4) in its broader narrative.",
+      "chosen_heading": "Field Sale Flip",
+      "current_heading": "Field Sale Flip",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "No Cross-Rights",
+    "candidates": [
+      "Shmuel's Division",
+      "No Cross-Rights",
+      "Rav's Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together introduce Ravina's question about whether Rav and Shmuel follow their general reasoning, and then cite Rav Na\u1e25man quoting Shmuel about brothers who divided \u2014 this is exactly the content described in candidate 0's prose ('The Gemara introduces a parallel dispute... Rav Nachman amar Shmuel: when brothers divide an inherited estate'), not the enumeration of consequences described in candidate 1.",
+      "chosen_heading": "Shmuel's Division",
+      "current_heading": "No Cross-Rights",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      83
+    ],
+    "current_heading": "Rav's Position",
+    "candidates": [
+      "No Cross-Rights",
+      "Rav's Position",
+      "Parental Usage Principle",
+      "Why Both Cases Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Na\u1e25man's warning ('be careful with these, they are established halakhot') and Rav's position ('yesh lahem'), which together form the conclusion of the 'No Cross-Rights' section as described in its prose, which explicitly quotes both 've-zaharu ba-hem halachot kevuot hem' and mentions Rav's 'yesh lahem' response.",
+      "chosen_heading": "No Cross-Rights",
+      "current_heading": "Rav's Position",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Why Both Cases Needed",
+    "candidates": [
+      "Parental Usage Principle",
+      "Why Both Cases Needed",
+      "Follow Shmuel",
+      "Practical Authority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the classic Talmudic 'tzerikha' argument explaining why both cases must be stated independently, which is precisely what the 'Why Both Cases Needed' prose section describes.",
+      "chosen_heading": "Why Both Cases Needed",
+      "current_heading": "Why Both Cases Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "Practical Authority",
+    "candidates": [
+      "Follow Shmuel",
+      "Practical Authority",
+      "Rav-Shmuel Rule",
+      "Physical Setup",
+      "Both Sold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage records Rav Na\u1e25man asking Rav Huna whose opinion the halacha follows and Rav Huna answering 'yours' (Shmuel's camp), which is precisely what heading 0 'Follow Shmuel' describes \u2014 the question of which camp's ruling prevails and the answer that halacha follows Shmuel.",
+      "chosen_heading": "Follow Shmuel",
+      "current_heading": "Practical Authority",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Both Sold",
+    "candidates": [
+      "Rav-Shmuel Rule",
+      "Physical Setup",
+      "Both Sold",
+      "Both Gifts",
+      "Gift Gets Access"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "medium",
+      "reason": "The passage covers all three sub-cases (both sold, both gifts, outer gift/inner sale) in a single Talmudic statement, making it most naturally placed under the 'Physical Setup' heading that introduces the general scenario, rather than splitting it under one of the specific sub-case headings.",
+      "chosen_heading": "Physical Setup",
+      "current_heading": "Both Sold",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      108,
+      109
+    ],
+    "current_heading": "Gift Gets Access",
+    "candidates": [
+      "Both Gifts",
+      "Gift Gets Access",
+      "Gift Generosity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present the case of outer-by-sale/inner-by-gift: item 1 gives the initial (mistaken) understanding that no access rights exist, and item 2 refutes it with the 'generous eye' principle \u2014 exactly the scenario and ruling described in the 'Gift Gets Access' prose.",
+      "chosen_heading": "Gift Gets Access",
+      "current_heading": "Gift Gets Access",
+      "moved": false
+    }
+  }
+]

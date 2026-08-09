@@ -1,0 +1,353 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Three Kavana Categories",
+    "candidates": [
+      "Formal Act of Shema",
+      "Three Kavana Categories",
+      "Kavana Differs by Mitzvah",
+      "Speech as Action",
+      "Workers: Shema Aloft",
+      "Ritual vs. Employer",
+      "Groom Exempt Mishna",
+      "Rabban Gamliel Reads"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The mishna text is about laborers reciting Shema atop trees or scaffolding versus prayer, which directly matches the 'Workers: Shema Aloft' section's prose describing exactly this mishna content.",
+      "chosen_heading": "Workers: Shema Aloft",
+      "current_heading": "Three Kavana Categories",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Rabban Gamliel Reads",
+    "candidates": [
+      "Kavana Differs by Mitzvah",
+      "Speech as Action",
+      "Workers: Shema Aloft",
+      "Ritual vs. Employer",
+      "Groom Exempt Mishna",
+      "Rabban Gamliel Reads",
+      "Shema Aloft, Tefila Below"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly describes the incident of Rabban Gamliel reciting Shema on his wedding night and his response about not setting aside the yoke of heaven, which is exactly what the 'Rabban Gamliel Reads' section's prose discusses.",
+      "chosen_heading": "Rabban Gamliel Reads",
+      "current_heading": "Rabban Gamliel Reads",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Shema Aloft, Tefila Below",
+    "candidates": [
+      "Shema Aloft, Tefila Below",
+      "Worker Education",
+      "Employer's Obligation",
+      "Exemption Grounds",
+      "Worker Obligations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Shema Aloft, Tefila Below' explicitly discusses all five items: the baraita about laborers reciting Shema atop trees, Rav Mari's contradiction about kavana, Rava's silence, Rav Sheshet's resolution about being idle, the Beit Hillel challenge, and the first/second paragraph resolution \u2014 matching the passage's content precisely.",
+      "chosen_heading": "Shema Aloft, Tefila Below",
+      "current_heading": "Shema Aloft, Tefila Below",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Worker Obligations",
+    "candidates": [
+      "Worker Education",
+      "Employer's Obligation",
+      "Exemption Grounds",
+      "Worker Obligations",
+      "Meal Blessings",
+      "Prayer Restrictions",
+      "Shortened Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is the baraita about workers' obligations (shema, blessings, Shmoneh Esrei, but not leading services or duchening), which is precisely what the 'Worker Obligations' prose introduces and discusses.",
+      "chosen_heading": "Worker Obligations",
+      "current_heading": "Worker Obligations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61
+    ],
+    "current_heading": "Shortened Prayer",
+    "candidates": [
+      "Meal Blessings",
+      "Prayer Restrictions",
+      "Shortened Prayer",
+      "Worker Protection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address the contradiction between two baraitas about laborers reciting full vs. abridged Shmoneh Esrei, Rav Sheshet's resolution attributing them to Rabban Gamliel vs. Rabbi Yehoshua, and the Gemara's objection that Rabbi Yehoshua's leniency applies to everyone \u2014 exactly what the 'Shortened Prayer' prose describes.",
+      "chosen_heading": "Shortened Prayer",
+      "current_heading": "Shortened Prayer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      64
+    ],
+    "current_heading": "Worker Protection",
+    "candidates": [
+      "Worker Protection",
+      "Employment Models"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage resolves the contradiction between the two baraitot by attributing both to Rabban Gamliel and distinguishing workers paid a wage from workers paid in meals \u2014 precisely the distinction that Candidate 0's prose ('Worker Protection') is explaining and analyzing.",
+      "chosen_heading": "Worker Protection",
+      "current_heading": "Worker Protection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69
+    ],
+    "current_heading": "Employment Models",
+    "candidates": [
+      "Employment Models",
+      "Virgin vs. Widow"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the baraita and its qualifying clause about laborers' blessings (wage vs. meal workers), which are explicitly discussed and analyzed in the 'Employment Models' prose.",
+      "chosen_heading": "Employment Models",
+      "current_heading": "Employment Models",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Virgin vs. Widow",
+    "candidates": [
+      "Virgin vs. Widow",
+      "Mental Engagement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous chain of question-and-answer about the groom's exemption from Shema \u2014 the baraita, Rav Papa's derivation, the challenge about traveling for a mitzva, the resolution via 'uvlechticha,' the question about why only a virgin, and the preoccupation answer \u2014 which is precisely what the 'Virgin vs. Widow' prose describes in detail, including explicit references to Rav Papa's derivation and the mi lo askinan challenge.",
+      "chosen_heading": "Virgin vs. Widow",
+      "current_heading": "Virgin vs. Widow",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86,
+      87
+    ],
+    "current_heading": "Mental Engagement",
+    "candidates": [
+      "Mental Engagement",
+      "Bathing in Mourning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items constitute the tirda d'reshut vs. tirda d'mitzvah exchange that the 'Mental Engagement' prose explicitly describes as central to understanding the groom's exemption.",
+      "chosen_heading": "Mental Engagement",
+      "current_heading": "Mental Engagement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Bathing in Mourning",
+    "candidates": [
+      "Bathing in Mourning",
+      "Istenis Exception",
+      "Tabi the Servant"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself describing Rabban Gamliel bathing after his wife's death, which directly corresponds to heading 0's prose introducing and narrating that exact episode.",
+      "chosen_heading": "Bathing in Mourning",
+      "current_heading": "Bathing in Mourning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "Tabi the Servant",
+    "candidates": [
+      "Istenis Exception",
+      "Tabi the Servant",
+      "Personal vs. Legal",
+      "Son's Caveat"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly describes the story of Tabi the slave dying and Rabban Gamliel accepting condolences, which is exactly the content discussed in the 'Tabi the Servant' section's prose.",
+      "chosen_heading": "Tabi the Servant",
+      "current_heading": "Tabi the Servant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Son's Caveat",
+    "candidates": [
+      "Personal vs. Legal",
+      "Son's Caveat",
+      "Aninut vs. Aveilus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes exactly the Rabban Shimon ben Gamliel statement about not everyone who wishes to assume the reputation being able to do so, which is precisely what the 'Son's Caveat' prose discusses and analyzes.",
+      "chosen_heading": "Son's Caveat",
+      "current_heading": "Son's Caveat",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Aninut vs. Aveilus",
+    "candidates": [
+      "Aninut vs. Aveilus",
+      "Slave Mourning Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Aninut vs. Aveilus",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses the Gemara's reasoning for Rabban Gamliel's bathing \u2014 aninut at night being Rabbinic and the istanis exemption \u2014 which directly matches the 'Aninut vs. Aveilus' prose.",
+      "second_heading": "Slave Mourning Rules",
+      "second_confidence": "high",
+      "second_reason": "Item 2 opens the Mishnah passage about Tavi the slave, which is the beginning of a new case about slave mourning rules, matching the 'Slave Mourning Rules' prose.",
+      "current_heading": "Aninut vs. Aveilus",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      113
+    ],
+    "current_heading": "Slave Mourning Rules",
+    "candidates": [
+      "Slave Mourning Rules",
+      "Rabbi Eliezer Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the rules for slaves and maidservants regarding mourning practices (shura and birchas avelim), which exactly matches the prose under 'Slave Mourning Rules' rather than the Rabbi Eliezer story.",
+      "chosen_heading": "Slave Mourning Rules",
+      "current_heading": "Slave Mourning Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Rabbi Eliezer Story",
+    "candidates": [
+      "Rabbi Eliezer Story",
+      "Slaves Not Mourned",
+      "Property Loss Formula",
+      "Slave Personhood",
+      "Rabbi Yose Dissent"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers the full incident \u2014 Rabbi Eliezer fleeing his students, his rebuke, and the ruling about slaves including the property-loss formula \u2014 and the current heading's prose explicitly narrates this same complete episode.",
+      "chosen_heading": "Rabbi Eliezer Story",
+      "current_heading": "Rabbi Eliezer Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Rabbi Yose Dissent",
+    "candidates": [
+      "Slaves Not Mourned",
+      "Property Loss Formula",
+      "Slave Personhood",
+      "Rabbi Yose Dissent",
+      "Law vs. Compassion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is a baraita about eulogizing slaves with Rabbi Yose's dissent and the students' response, which is precisely what the 'Rabbi Yose Dissent' prose section describes in detail.",
+      "chosen_heading": "Rabbi Yose Dissent",
+      "current_heading": "Rabbi Yose Dissent",
+      "moved": false
+    }
+  }
+]

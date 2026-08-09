@@ -1,0 +1,194 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Rent on Shabbat?",
+    "candidates": [
+      "Landlord & Rental",
+      "Non-Jew Arrives Shabbat",
+      "Eruv Voided",
+      "Rent on Shabbat?",
+      "Timing Question",
+      "Two Models"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the 'or perhaps renting is like bitul reshut' side of the comparison \u2014 exactly the question being analyzed in the 'Rent on Shabbat?' section, which explicitly discusses this socher/mevatel reshut dichotomy.",
+      "chosen_heading": "Rent on Shabbat?",
+      "current_heading": "Rent on Shabbat?",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19
+    ],
+    "current_heading": "Two Models",
+    "candidates": [
+      "Timing Question",
+      "Two Models",
+      "Lenient Comparisons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together narrate the Rabbi Chanina/Rabbi Asi dispute, Rabbi Chiya bar Abba's resolution, the subsequent consultation with Rabbi Yochanan, and the Nehardea scholars' astonishment at the apparent contradiction with 'socher k'me'arev dami' \u2014 exactly the content described in the 'Two Models' prose.",
+      "chosen_heading": "Two Models",
+      "current_heading": "Two Models",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24,
+      25
+    ],
+    "current_heading": "Lenient Comparisons",
+    "candidates": [
+      "Lenient Comparisons",
+      "Sechirus Works Shabbat",
+      "Osrin & Mearvin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the lenient parallels drawn by the gemara between eruv and sechirus (less than a perutah, hired laborer/harvester, and one person acting on behalf of all), which is precisely what the 'Lenient Comparisons' prose section describes in detail.",
+      "chosen_heading": "Lenient Comparisons",
+      "current_heading": "Lenient Comparisons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      33,
+      34
+    ],
+    "current_heading": "Osrin & Mearvin",
+    "candidates": [
+      "Sechirus Works Shabbat",
+      "Osrin & Mearvin",
+      "Nested Courtyards",
+      "Separate Access",
+      "Non-Jew Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Elazar's wonder and Shmuel's principle about osrin/me'arvin/mvatlin, which is exactly what the 'Osrin & Mearvin' section's prose describes as the gemara identifying what troubled Rabbi Eliezer and then stating Shmuel's rule.",
+      "chosen_heading": "Osrin & Mearvin",
+      "current_heading": "Osrin & Mearvin",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "current_heading": "Non-Jew Exception",
+    "candidates": [
+      "Nested Courtyards",
+      "Separate Access",
+      "Non-Jew Exception",
+      "Shmuel Restricts",
+      "Yochanan Permits",
+      "Usage vs. Space"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 10,
+      "first_heading": "Non-Jew Exception",
+      "first_confidence": "high",
+      "first_reason": "Items 1-10 form the continuous Rav Yosef/Abaye dialogue about the three-category classification and the gentile case, which candidate 2's prose covers in detail.",
+      "second_heading": "Shmuel Restricts",
+      "second_confidence": "high",
+      "second_reason": "Items 11-12 begin with 'gufa' marking a fresh direct examination of Shmuel's double ruling vs. Rabbi Yochanan, matching candidate 3's prose about returning to examine Shmuel's restriction directly.",
+      "current_heading": "Non-Jew Exception",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Usage vs. Space",
+    "candidates": [
+      "Shmuel Restricts",
+      "Yochanan Permits",
+      "Usage vs. Space",
+      "Abaye's View",
+      "Rava Objects",
+      "Eruv in Outer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Usage vs. Space",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing wrap-up sentence explaining why both rulings of Shmuel and Rabbi Yochanan must be stated explicitly across both cases \u2014 exactly what the 'Usage vs. Space' prose describes as its conclusion.",
+      "second_heading": "Abaye's View",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is Abaye's qualification of Shmuel's ruling distinguishing two courtyards side-by-side from nested courtyards, which is precisely what the 'Abaye's View' prose describes.",
+      "current_heading": "Usage vs. Space",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83
+    ],
+    "current_heading": "Eruv in Outer",
+    "candidates": [
+      "Abaye's View",
+      "Rava Objects",
+      "Eruv in Outer",
+      "Inner Eruv, Inner Forgot",
+      "Inner Eruv, Outer Forgot",
+      "Why It Works"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items describe the scenario where the eiruv was placed in the outer courtyard and someone forgot, which is precisely what heading 2 ('Eruv in Outer') discusses \u2014 the case where both courtyards are forbidden regardless of whether the forgetting party was from the inner or outer courtyard.",
+      "chosen_heading": "Eruv in Outer",
+      "current_heading": "Eruv in Outer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "current_heading": "Why It Works",
+    "candidates": [
+      "Inner Eruv, Inner Forgot",
+      "Inner Eruv, Outer Forgot",
+      "Why It Works"
+    ],
+    "result": null
+  }
+]

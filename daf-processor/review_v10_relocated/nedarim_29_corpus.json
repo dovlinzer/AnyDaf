@@ -1,0 +1,166 @@
+[
+  {
+    "quote_indices": [
+      22
+    ],
+    "current_heading": "Automatic Cessation",
+    "candidates": [
+      "Daf Overview",
+      "Konamot & Korbanot",
+      "Meilah Concept",
+      "Pidyon Mechanism",
+      "Pidyon Paradox",
+      "Auto-Cessation Problem",
+      "Ongoing Mechanism",
+      "Cyclical Pidyon",
+      "Automatic Cessation",
+      "Ad Semantics",
+      "Ulla's Pidyon",
+      "Kedusha Loss",
+      "Value vs. Essence",
+      "Time-Bound Status"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage directly describes Bar Padda's cyclical pidyon mechanism (redeem \u2192 re-consecrated \u2192 redeem \u2192 re-consecrated until cut, then one redemption suffices) and Ulla's contrasting view that once cut no redemption is needed, which is precisely what the 'Cyclical Pidyon' section's prose discusses.",
+      "chosen_heading": "Cyclical Pidyon",
+      "current_heading": "Automatic Cessation",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      34,
+      35
+    ],
+    "current_heading": "Time-Bound Status",
+    "candidates": [
+      "Ad Semantics",
+      "Ulla's Pidyon",
+      "Kedusha Loss",
+      "Value vs. Essence",
+      "Time-Bound Status",
+      "Personal vs. Universal",
+      "Pesach Case",
+      "Korban Application",
+      "Baraita Challenge",
+      "Radical Extension",
+      "Two Cases Logic"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the Rav Hamnuna challenge and Rava's response about kedusha dissolving automatically, which is precisely what headings 2 ('Kedusha Loss') and 3 ('Value vs. Essence') cover \u2014 but since both items belong together as one continuous exchange (challenge + resolution), and heading 2's prose explicitly introduces Rav Hamnuna's challenge while heading 3's prose covers Rava's distinction, the passage actually spans both; however, the current placement under 'Time-Bound Status' (index 4) is clearly wrong, and the passage is best placed under 'Kedusha Loss' (index 2) which introduces the exchange, with the understanding that it flows into index 3 \u2014 but since FORM 1 requires one heading, index 2 is the better anchor as it introduces the specific content of both items.",
+      "chosen_heading": "Kedusha Loss",
+      "current_heading": "Time-Bound Status",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Two Cases Logic",
+    "candidates": [
+      "Personal vs. Universal",
+      "Pesach Case",
+      "Korban Application",
+      "Baraita Challenge",
+      "Radical Extension",
+      "Two Cases Logic",
+      "Value Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage is Abaye's challenge citing the baraita about the ox being an olah for 30 days and shelamim after, which is precisely what the 'Baraita Challenge' section describes.",
+      "chosen_heading": "Baraita Challenge",
+      "current_heading": "Two Cases Logic",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Value Reading",
+    "candidates": [
+      "Two Cases Logic",
+      "Value Reading",
+      "Both Directions",
+      "Two-Case Necessity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's answer that the baraita deals with 'de-amar le-damei' (consecration for monetary value), which is precisely what the 'Value Reading' section's prose explains and analyzes.",
+      "chosen_heading": "Value Reading",
+      "current_heading": "Value Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "current_heading": "Two-Case Necessity",
+    "candidates": [
+      "Both Directions",
+      "Two-Case Necessity",
+      "Simple Case Works",
+      "Added Status Sticks",
+      "Marriage Parallel",
+      "Word Power"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Both Directions",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss why the baraita needs two cases and what that implies about kedushat haguf vs. kedushat damim in both directions, matching the 'Both Directions' prose about demonstrating the principle operates in both directions.",
+      "second_heading": "Simple Case Works",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 present the attempted refutation of Bar Pada followed by Rav Pappa's defense explaining the first case via future-directed sanctification and the kiddushin parallel, matching the 'Simple Case Works' prose about how Bar Pada explains the olah-after-30-days case without automatic status change.",
+      "current_heading": "Two-Case Necessity",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Word Power",
+    "candidates": [
+      "Simple Case Works",
+      "Added Status Sticks",
+      "Marriage Parallel",
+      "Word Power",
+      "No Backtrack",
+      "No Remnant Needed",
+      "Debt Substitute",
+      "Reverse Case",
+      "Status Lock-In"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "Both items form a single question-and-answer unit about whether retraction is possible when dedicating to hekdesh, directly matching the 'No Backtrack' prose which discusses precisely this dispute about retraction during the interim period and the principle that amira lagavoa forecloses retraction even according to the opinion that permits it in kiddushin.",
+      "chosen_heading": "No Backtrack",
+      "current_heading": "Word Power",
+      "moved": true
+    }
+  }
+]

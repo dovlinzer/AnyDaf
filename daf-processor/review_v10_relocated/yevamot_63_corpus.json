@@ -1,0 +1,462 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Neighbors & Charity",
+    "candidates": [
+      "Context & Review",
+      "Tanu Rabbanan",
+      "Neighbors & Charity",
+      "Marriage Essential"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together form the complete baraita about neighbors, relatives, marrying one's niece, and lending to the poor \u2014 exactly the content described in the 'Neighbors & Charity' prose, which is also the current placement.",
+      "chosen_heading": "Neighbors & Charity",
+      "current_heading": "Neighbors & Charity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Marriage Essential",
+    "candidates": [
+      "Marriage Essential",
+      "Helper Interpretations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains exactly the two Rabbi Elazar statements (man without wife, man without land) that the 'Marriage Essential' prose explicitly discusses and analyzes.",
+      "chosen_heading": "Marriage Essential",
+      "current_heading": "Marriage Essential",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Helper Interpretations",
+    "candidates": [
+      "Helper Interpretations",
+      "Wife's Support"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Elazar's interpretation of 'ezer k'negdo' including both versions (helping vs. opposing, and the textual discrepancy between k'negdo and k'nigdo), which is precisely what the 'Helper Interpretations' prose describes.",
+      "chosen_heading": "Helper Interpretations",
+      "current_heading": "Helper Interpretations",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17
+    ],
+    "current_heading": "Wife's Support",
+    "candidates": [
+      "Wife's Support",
+      "Bone & Flesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rabbi Yosei's encounter with Elijah about how a wife helps her husband, which is precisely what the 'Wife's Support' section's prose describes.",
+      "chosen_heading": "Wife's Support",
+      "current_heading": "Wife's Support",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Bone & Flesh",
+    "candidates": [
+      "Bone & Flesh",
+      "Abraham's Blessing"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is exactly what candidate 0's prose describes: Rabbi Elazar's teaching on 'bone of my bones and flesh of my flesh' and Adam's relations with animals until finding Eve.",
+      "chosen_heading": "Bone & Flesh",
+      "current_heading": "Bone & Flesh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Abraham's Blessing",
+    "candidates": [
+      "Abraham's Blessing",
+      "Israel's Centrality",
+      "Future Agriculture"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the grafting metaphor with Ruth and Naamah AND the families/nations blessing material, and the current heading's prose explicitly discusses all of this content including the double meaning of l'havrich, Ruth, Naamah, and the blessing theme, making it the best single home for the entire passage.",
+      "chosen_heading": "Abraham's Blessing",
+      "current_heading": "Abraham's Blessing",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Future Agriculture",
+    "candidates": [
+      "Israel's Centrality",
+      "Future Agriculture",
+      "Agriculture Lowly",
+      "Against Farming",
+      "Business Economics"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains both Rabbi Elazar statements (about craftsmen standing on land and land being the lowliest occupation) AND the anecdote about Rabbi Elazar seeing the plowed field and preferring business \u2014 which matches the 'Against Farming' prose that describes exactly these two anecdotes illustrating the attitude against farming.",
+      "chosen_heading": "Against Farming",
+      "current_heading": "Future Agriculture",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "Business Economics",
+    "candidates": [
+      "Agriculture Lowly",
+      "Against Farming",
+      "Business Economics",
+      "Plant vs. Purchase"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the Rav anecdote (sheaves waving) and Rava's economic comparison, and the prose under 'Against Farming' explicitly describes both anecdotes including Rav's sheaves story and mentions Rava's business-vs-farming comparison, making it the clearly better match than 'Business Economics' which covers only Rava's analysis.",
+      "chosen_heading": "Against Farming",
+      "current_heading": "Business Economics",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      39,
+      40
+    ],
+    "current_heading": "Plant vs. Purchase",
+    "candidates": [
+      "Business Economics",
+      "Plant vs. Purchase",
+      "Punishment Purpose"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rav Pappa's practical economic advice about planting vs. buying, weaving vs. purchasing, and related household decisions, which matches exactly the 'Plant vs. Purchase' section's prose discussion of Rav Papa's rulings on zara velo tazbin and zabin velo tazor.",
+      "chosen_heading": "Plant vs. Purchase",
+      "current_heading": "Plant vs. Purchase",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Punishment Purpose",
+    "candidates": [
+      "Punishment Purpose",
+      "Rav's Wife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage about Rabbi Elazar bar Avina's teaching that calamity befalls the world due to Israel's sins matches exactly the prose in candidate 0, which paraphrases this very statement and its supporting verses.",
+      "chosen_heading": "Punishment Purpose",
+      "current_heading": "Punishment Purpose",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Rav's Wife",
+    "candidates": [
+      "Rav's Wife",
+      "Food Requests"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Rav taking leave of Rabbi \u1e24iyya, the blessing about something worse than death, the verse from Ecclesiastes, and Rav's wife inverting his food requests \u2014 all of which are explicitly discussed in the 'Rav's Wife' section prose.",
+      "chosen_heading": "Rav's Wife",
+      "current_heading": "Rav's Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Food Requests",
+    "candidates": [
+      "Food Requests",
+      "Wife's Perspective",
+      "Rabbi Chiyya",
+      "First Wife"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes \u1e24iyya inverting Rav's food requests, Rav's discovery, the folk adage, and the prohibition against deception \u2014 exactly what the 'Food Requests' prose discusses in detail.",
+      "chosen_heading": "Food Requests",
+      "current_heading": "Food Requests",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "First Wife",
+    "candidates": [
+      "Wife's Perspective",
+      "Rabbi Chiyya",
+      "First Wife",
+      "Good vs. Bad Wife"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Chiyya",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover Rabbi \u1e24iyya's wife causing him anguish and his response, plus the segue into Rav Yehuda teaching 'bitter than death' \u2014 exactly what candidate 1 ('Rabbi Chiyya') discusses, including the dayeinu teaching and the verse about women.",
+      "second_heading": "First Wife",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the apparent contradiction about Rav Yehuda's wife being both bitter and a source of peace of mind, resolved by 'forceful but easily appeased' \u2014 exactly what candidate 2 ('First Wife') discusses in its prose.",
+      "current_heading": "First Wife",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Good vs. Bad Wife",
+    "candidates": [
+      "Good vs. Bad Wife",
+      "Divorce Obligation",
+      "Bad Marriage Remedies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly match the 'Good vs. Bad Wife' section prose, which explicitly discusses the Abaye/Rava definitions of a bad wife and the Rabbi \u1e24ama bar \u1e24anina teaching about matza/motze.",
+      "chosen_heading": "Good vs. Bad Wife",
+      "current_heading": "Good vs. Bad Wife",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Bad Marriage Remedies",
+    "candidates": [
+      "Divorce Obligation",
+      "Bad Marriage Remedies",
+      "Wife Comparisons"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains all three of Rava's statements as one continuous unit \u2014 the divorce mitzva ruling, the large-ketubah remedy, and the stormy-day comparison \u2014 and the first statement (divorce obligation) is the natural heading for the opening of this block, with the other two statements following as elaborations; heading 0 'Divorce Obligation' is the only one whose prose introduces this entire passage from its beginning.",
+      "chosen_heading": "Divorce Obligation",
+      "current_heading": "Bad Marriage Remedies",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Wife Comparisons",
+    "candidates": [
+      "Bad Marriage Remedies",
+      "Wife Comparisons",
+      "Escape Verses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly contains Rava's comparative hermeneutic about good and bad wives using the verses 'matza isha matza tov' and 'u-motze ani mar mimmavet et ha-ishah,' which is precisely what the 'Wife Comparisons' section prose describes.",
+      "chosen_heading": "Wife Comparisons",
+      "current_heading": "Wife Comparisons",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84
+    ],
+    "current_heading": "Escape Verses",
+    "candidates": [
+      "Escape Verses",
+      "Denying God",
+      "Three Decrees"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the 'escape' verses, the 'vile nation' verses, and the baraita about Barbarya/Martenai \u2014 are explicitly discussed together in the 'Escape Verses' prose, which covers exactly this sequence of interpretations including the bad wife, stepmother, minim, and naked-marketplace people.",
+      "chosen_heading": "Escape Verses",
+      "current_heading": "Escape Verses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Three Decrees",
+    "candidates": [
+      "Denying God",
+      "Three Decrees",
+      "Body Exhumation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the three decrees of the Chabarim against the Jews, specifically mentioning the decree against meat (due to failure to give priestly gifts) and against bathhouses (due to neglect of ritual immersion), which directly matches the 'Three Decrees' section's prose discussion of these same decrees.",
+      "chosen_heading": "Three Decrees",
+      "current_heading": "Three Decrees",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Body Exhumation",
+    "candidates": [
+      "Body Exhumation",
+      "Ben Sira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the exhumation decree and the related scriptural exchange about burial versus death, which is precisely what the 'Body Exhumation' prose section discusses in detail.",
+      "chosen_heading": "Body Exhumation",
+      "current_heading": "Body Exhumation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102
+    ],
+    "current_heading": "Ben Sira",
+    "candidates": [
+      "Ben Sira",
+      "Mashiach Condition",
+      "Three Views"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are quotations from the book of Ben Sira covering good/bad wives, warnings about beautiful women, and advice about worry and secrets \u2014 precisely the content described in the 'Ben Sira' prose section.",
+      "chosen_heading": "Ben Sira",
+      "current_heading": "Ben Sira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "current_heading": "Three Views",
+    "candidates": [
+      "Mashiach Condition",
+      "Three Views",
+      "Torah Priority",
+      "Divine Presence"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mashiach Condition",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rabbi Asi's statement about souls in the heavenly repository (the Mashiach condition) followed by the opening baraita of Rabbi Eliezer \u2014 exactly the content described in heading 0's prose, which explicitly connects the soul-reservoir to pru u'revu.",
+      "second_heading": "Three Views",
+      "second_confidence": "high",
+      "second_reason": "Items 2\u20134 contain the three views (Rabbi Yaakov, Ben Azzai, and the second baraita with Ben Azzai's exchange about Torah devotion), which precisely match the 'Three Views' heading prose describing shofech damim, mema'et hadmut, Ben Azzai's synthesis, and his response about Torah.",
+      "current_heading": "Three Views",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      120,
+      121
+    ],
+    "current_heading": "Divine Presence",
+    "candidates": [
+      "Torah Priority",
+      "Divine Presence",
+      "Lineage Continuity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly teaches that the Shechina does not rest on fewer than two thousands and two ten-thousands of Israel, and that one person's failure to procreate causes the Shechina to depart \u2014 exactly what the 'Divine Presence' section's prose describes and analyzes.",
+      "chosen_heading": "Divine Presence",
+      "current_heading": "Divine Presence",
+      "moved": false
+    }
+  }
+]

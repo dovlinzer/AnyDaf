@@ -53,8 +53,8 @@
           "timestamp": "05:57"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara on the Use Requirement (Eimur) and Its Scope",
@@ -77,7 +77,7 @@
           "timestamp": "10:08"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 0,
       "matched": false
     },
     {
@@ -192,8 +192,8 @@
           "timestamp": "61:10"
         }
       ],
-      "sefaria_index": 17,
-      "matched": false
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "When False Witnesses Testify in Sequence: The Significance of Signals",
@@ -216,7 +216,7 @@
           "timestamp": "65:38"
         }
       ],
-      "sefaria_index": 31,
+      "sefaria_index": 27,
       "matched": true
     }
   ],
@@ -350,5 +350,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 20
+  "amud_b_sefaria_index": 20,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "42:44",
+  "amud_b_micro_title": "Chizkiyah/Yochanan",
+  "shiur_start_daf": 86,
+  "shiur_start_amud": "a"
 }

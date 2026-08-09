@@ -1,0 +1,359 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Yitaher Tenan Debate",
+    "candidates": [
+      "Yitaher Tenan Debate",
+      "Chosson Tzara'as"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rav Pappa's question about whether the mishnah reads 'yit'har' or 'veyit'har', which is exactly what heading 0 describes as its content.",
+      "chosen_heading": "Yitaher Tenan Debate",
+      "current_heading": "Yitaher Tenan Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Chosson Tzara'as",
+    "candidates": [
+      "Chosson Tzara'as",
+      "First vs. Second Spot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items \u2014 the question about the practical difference, the mishna about the bridegroom's seven-day deferral, and the 'yit'har' reading's implication \u2014 are precisely the content discussed in the 'Chosson Tzara'as' prose, which explicitly covers the chosson case, the mishna from Nega'im, and the two readings' differing outcomes during sheva brachos.",
+      "chosen_heading": "Chosson Tzara'as",
+      "current_heading": "Chosson Tzara'as",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "First vs. Second Spot",
+    "candidates": [
+      "First vs. Second Spot",
+      "Son Fined Question",
+      "Servant & Field Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the resolution of Rav Pappa's query about 'yitaher' vs 'veyit'har' and concludes with 'teiku,' which matches exactly the prose in heading 0 about the first vs. second spot debate ending with teiku.",
+      "chosen_heading": "First vs. Second Spot",
+      "current_heading": "First vs. Second Spot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "current_heading": "Servant & Field Cases",
+    "candidates": [
+      "Son Fined Question",
+      "Servant & Field Cases",
+      "Abaye's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items constitute the dilemma Rabbi Yirmeya poses to Rabbi Zeira about penalizing a son after the father's death for slitting a firstborn's ear, along with the comparative cases used to frame it \u2014 exactly what heading 0 ('Son Fined Question') describes, whereas heading 1 ('Servant & Field Cases') covers the same material but is where it currently sits, and heading 0's prose explicitly introduces the servant and field comparisons as part of framing the central question.",
+      "chosen_heading": "Son Fined Question",
+      "current_heading": "Servant & Field Cases",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      27
+    ],
+    "current_heading": "Abaye's Resolution",
+    "candidates": [
+      "Servant & Field Cases",
+      "Abaye's Resolution",
+      "Terumah Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the mishnah about a field improved during shemita and Rav Asi's tradition that if the father improved it and died the son may sow it \u2014 exactly the content described in the 'Abaye's Resolution' prose, which explicitly references this shemita field case and the principle le-didei kansu rabanan, livrei lo kansu rabanan.",
+      "chosen_heading": "Abaye's Resolution",
+      "current_heading": "Abaye's Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Terumah Case",
+    "candidates": [
+      "Terumah Case",
+      "Quaestor Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes Abaye's tradition about rendering pure items impure and the son not being penalized, which is precisely what the 'Terumah Case' prose discusses in detail \u2014 hezek she-eino nikar, knas de-rabanan, and the principle that the Sages penalized him but not his son.",
+      "chosen_heading": "Terumah Case",
+      "current_heading": "Terumah Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Quaestor Story",
+    "candidates": [
+      "Quaestor Story",
+      "Children Tail Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishnah about the Roman quaestor (kastor) slitting the ear of an old firstborn ram, which is exactly what the prose under 'Quaestor Story' discusses in detail.",
+      "chosen_heading": "Quaestor Story",
+      "current_heading": "Quaestor Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Children Tail Case",
+    "candidates": [
+      "Children Tail Case",
+      "Intentionality Principle"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "current_heading": "Intentionality Principle",
+    "candidates": [
+      "Intentionality Principle",
+      "Kicking Analysis"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Kicking Analysis",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 (Rav \u1e24isda/Rav Ketina and Rava's dispute about 'hayah' vs. 'na'aseh' language) are explicitly discussed in the 'Kicking Analysis' prose under Rav Chisda and Rava's exchange.",
+      "second_heading": "Intentionality Principle",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 (the zeh ha-klal principle, grama, and masiach le-fi tumo) are explicitly discussed in the 'Intentionality Principle' prose.",
+      "current_heading": "Intentionality Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Kicking Analysis",
+    "candidates": [
+      "Kicking Analysis",
+      "Pre-Birth Blemish",
+      "Goat Ears, Sheep Lips"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items discuss the Mishnah and Gemara about a firstborn animal that pursued its owner and was kicked, with Rav Pappa's two versions of the ruling about whether a post-chase kick is permitted \u2014 exactly the content described in the 'Kicking Analysis' prose.",
+      "chosen_heading": "Kicking Analysis",
+      "current_heading": "Kicking Analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72
+    ],
+    "current_heading": "Goat Ears, Sheep Lips",
+    "candidates": [
+      "Pre-Birth Blemish",
+      "Goat Ears, Sheep Lips",
+      "Visible When Bleating"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage covers both Rav Yehuda's ruling on pre-birth blemishing AND Rava's practical application for goats/lambs, but heading 0 ('Pre-Birth Blemish') introduces Rav Yehuda's statement and frames the overall topic, while heading 1 ('Goat Ears, Sheep Lips') covers only Rava's follow-up detail \u2014 since the passage begins with Rav Yehuda's ruling, it more naturally belongs under heading 0, though heading 1's prose also matches the Rava portion closely, making the current placement defensible.",
+      "chosen_heading": "Pre-Birth Blemish",
+      "current_heading": "Goat Ears, Sheep Lips",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "Visible When Bleating",
+    "candidates": [
+      "Visible When Bleating",
+      "Mishnah Framework",
+      "Yochanan Opinion",
+      "Shimon Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss Rava's ruling about visibility when bleating and Rav Pappa's explanation that Rava is clarifying the mishna's reasoning \u2014 exactly what the 'Visible When Bleating' prose describes in detail.",
+      "chosen_heading": "Visible When Bleating",
+      "current_heading": "Visible When Bleating",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Shimon Opinion",
+    "candidates": [
+      "Mishnah Framework",
+      "Yochanan Opinion",
+      "Shimon Opinion",
+      "Owner Determines"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This is the mishnah text itself, introducing the framework of who is credible regarding blemishes on a bechor, which is precisely what the 'Mishnah Framework' prose section describes and analyzes.",
+      "chosen_heading": "Mishnah Framework",
+      "current_heading": "Shimon Opinion",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Owner Determines",
+    "candidates": [
+      "Shimon Opinion",
+      "Owner Determines",
+      "Meir Opinion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Items 5\u20137 present the second amora's reading where ownership determines credibility (ro'ei Yisrael she-hen Kohanim ne'emanim / ro'ei Kohanim ve-hen Yisrael einam ne'emanim / kol she-kein Kohen le-Kohen with both legima and gomlin concerns), which is precisely what the 'Owner Determines' prose describes, and items 1\u20134 present the first amora's reading that is also part of the same Gemara unit introduced under that heading.",
+      "chosen_heading": "Owner Determines",
+      "current_heading": "Owner Determines",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Meir Opinion",
+    "candidates": [
+      "Meir Opinion",
+      "Owners Testify"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items constitute the Gemara's internal debate about the relationship between the first tanna and Rabbi Meir's positions, culminating in the nafka mina of Rabbi Yehoshua ben Kefusai \u2014 precisely the content described in the 'Meir Opinion' prose.",
+      "chosen_heading": "Meir Opinion",
+      "current_heading": "Meir Opinion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "current_heading": "Owners Testify",
+    "candidates": [
+      "Owners Testify",
+      "Class Suspicion",
+      "Chalipha Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items form a continuous sugya about who may testify on a safek bechor \u2014 the baraita about household members, Rav \u1e24isda/Rav Ketina's ruling requiring marketplace witnesses, Rav Na\u1e25man's counter that owners may testify, and the subsequent challenge/resolution involving ma'aser and the chalipha mishna \u2014 all of which is precisely what the 'Owners Testify' prose section describes.",
+      "chosen_heading": "Owners Testify",
+      "current_heading": "Owners Testify",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Chalipha Case",
+    "candidates": [
+      "Class Suspicion",
+      "Chalipha Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the conclusion that owners may testify and that only kohanim are suspected of causing blemishes while Israelites are not \u2014 this is precisely the 'Class Suspicion' section's core argument, not the Chalipha case discussion.",
+      "chosen_heading": "Class Suspicion",
+      "current_heading": "Chalipha Case",
+      "moved": true
+    }
+  }
+]

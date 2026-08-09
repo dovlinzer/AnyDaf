@@ -1,0 +1,245 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Shirah Basic Principle",
+    "candidates": [
+      "Shirah Basic Principle",
+      "Meritorious Days Braita",
+      "Temple Destruction Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yosei's statement about fortunate matters on auspicious days and deleterious matters on inauspicious days, which is precisely what the 'Meritorious Days Braita' prose describes as the opening of the braita.",
+      "chosen_heading": "Meritorious Days Braita",
+      "current_heading": "Shirah Basic Principle",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Temple Destruction Story",
+    "candidates": [
+      "Meritorious Days Braita",
+      "Temple Destruction Story",
+      "No Tamid Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the priestly watch of Jehoiarib, the kohanim and levi'im singing on the duchan, the specific verse they sang, and the enemies conquering them before they could finish \u2014 exactly what the 'Temple Destruction Story' prose discusses.",
+      "chosen_heading": "Temple Destruction Story",
+      "current_heading": "Temple Destruction Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11
+    ],
+    "current_heading": "No Tamid Problem",
+    "candidates": [
+      "No Tamid Problem",
+      "Duchan Refutation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the central question of what the shirah was accompanying (obligatory vs. voluntary offering) and the resolution that a ben bakar happened to be available, which is precisely what the 'No Tamid Problem' prose describes in detail.",
+      "chosen_heading": "No Tamid Problem",
+      "current_heading": "No Tamid Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15
+    ],
+    "current_heading": "Duchan Refutation",
+    "candidates": [
+      "Duchan Refutation",
+      "Reish Lakish Answer",
+      "Free Will Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava/Rav Ashi's objection about the mismatch between the Sunday shir shel yom and the Wednesday psalm the Levites sang, concluding it was merely a spontaneous lament (eiliyya), which is exactly what the 'Duchan Refutation' prose describes and analyzes.",
+      "chosen_heading": "Duchan Refutation",
+      "current_heading": "Duchan Refutation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Free Will Problem",
+    "candidates": [
+      "Reish Lakish Answer",
+      "Free Will Problem",
+      "Independent Nesachim",
+      "Postponed Wine Theory",
+      "Braita Revisited",
+      "Delayed Theory Rejected"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain: item 1 raises the 'free will problem' (nafka churban) resolved by Reish Lakish, item 2 introduces Rav Mari's baraita to resolve the original question about communal voluntary olah, and item 3 gives the baraita's conclusion \u2014 exactly the content described in candidate 1's prose about the churban concern and the Rav Mari braraita on 'al olosaychem v'al zivchei shalmeychem'.",
+      "chosen_heading": "Free Will Problem",
+      "current_heading": "Free Will Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "current_heading": "Delayed Theory Rejected",
+    "candidates": [
+      "Independent Nesachim",
+      "Postponed Wine Theory",
+      "Braita Revisited",
+      "Delayed Theory Rejected",
+      "Which Shmita Year",
+      "Yechezkel's 25th Year",
+      "Yom Kippur Yovel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All five items form a continuous unit addressing whether independent nesachim require shirah, using the same baraita about the Temple's destruction \u2014 exactly what candidate 2 ('Braita Revisited') describes, including the hai shira mai avidteih analysis and the lav denisachin conclusion that candidate 2's prose explicitly covers.",
+      "chosen_heading": "Braita Revisited",
+      "current_heading": "Delayed Theory Rejected",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Yom Kippur Yovel",
+    "candidates": [
+      "Which Shmita Year",
+      "Yechezkel's 25th Year",
+      "Yom Kippur Yovel",
+      "Yechezkel Exile Gap"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain about whether the Temple's destruction fell in the year after a Sabbatical Year, using Ezekiel's verse, the Jubilee/Yom Kippur identification, the arithmetic of Sabbatical cycles, and Ravina's resolution \u2014 exactly what the 'Yom Kippur Yovel' prose discusses.",
+      "chosen_heading": "Yom Kippur Yovel",
+      "current_heading": "Yom Kippur Yovel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57,
+      58
+    ],
+    "current_heading": "Yechezkel Exile Gap",
+    "candidates": [
+      "Yechezkel Exile Gap",
+      "Destruction Year Excluded"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present the Gemara's objection about the 'twenty-fifth year' arithmetic and the baraita's paired exile designations (year 7/8, year 18/19), which is precisely what the 'Yechezkel Exile Gap' prose describes \u2014 invoking the tradition of galu b'sheva/galu b'shmona and galu b'yud-chet/galu b'yud-tet to explain the two counting systems.",
+      "chosen_heading": "Yechezkel Exile Gap",
+      "current_heading": "Yechezkel Exile Gap",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Destruction Year Excluded",
+    "candidates": [
+      "Destruction Year Excluded",
+      "18-19 Year Verification",
+      "One Year Dual Count",
+      "Second Temple Question",
+      "420 Year Duration",
+      "Eight Yovels Math",
+      "Rabbi Yehuda 49 Years",
+      "Method Contradiction",
+      "17 Yovels Problem",
+      "Conquest Division Years"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the arithmetic challenge of whether counting from year 7 to year 18/19 plus the additional years yields 25 or 26, the exclusion-of-exile-year resolution, and the clarification that year 18 and year 19 are the same event \u2014 precisely the content described in the '18-19 Year Verification' prose, which explicitly covers the mishva ad tsha srei objection, Ravina's symmetric exclusion response, and the transition to clarifying that there were not three separate exiles.",
+      "chosen_heading": "18-19 Year Verification",
+      "current_heading": "Destruction Year Excluded",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90
+    ],
+    "current_heading": "Conquest Division Years",
+    "candidates": [
+      "18-19 Year Verification",
+      "One Year Dual Count",
+      "Second Temple Question",
+      "420 Year Duration",
+      "Eight Yovels Math",
+      "Rabbi Yehuda 49 Years",
+      "Method Contradiction",
+      "17 Yovels Problem",
+      "Conquest Division Years",
+      "Sancheriv Hiatus",
+      "Yirmiyahu Mission Reset",
+      "Rabbis 50-Year Only",
+      "No Yehoyariv Watch",
+      "Four Mishmarot Only",
+      "Lottery Redistribution",
+      "Yedaya Represents",
+      "Returnee Rights Loss",
+      "Similar Not Identical"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains that Nebuchadnezzar conquered Yehoyakim in his second year, which is precisely the fact cited in candidate 1's prose to explain the one-year offset between the two numbering systems (kibush Yehoyakim vs. Nebuchadnezzar's regnal years), making this the clear home for the passage.",
+      "chosen_heading": "One Year Dual Count",
+      "current_heading": "Conquest Division Years",
+      "moved": true
+    }
+  }
+]

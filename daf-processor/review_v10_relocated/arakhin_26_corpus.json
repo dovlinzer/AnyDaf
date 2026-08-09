@@ -1,0 +1,178 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Torah's Silence",
+    "candidates": [
+      "Torah's Silence",
+      "R. Yehuda Pays",
+      "R. Shimon No Pay",
+      "R. Eliezer Waits",
+      "Abandoned Field"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna text presents the case of a field that reached yovel unredeemed and the dispute between Rabbi Yehuda and Rabbi Shimon, which is introduced by the 'Torah's Silence' section that explicitly sets up this lacuna in the Torah and frames what the mishna addresses.",
+      "chosen_heading": "Torah's Silence",
+      "current_heading": "Torah's Silence",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Abandoned Field",
+    "candidates": [
+      "R. Yehuda Pays",
+      "R. Shimon No Pay",
+      "R. Eliezer Waits",
+      "Abandoned Field",
+      "Sanctified House",
+      "Kodesh Transfer",
+      "Korbanot Parallel",
+      "Kodesh Consumption",
+      "Treasury vs Altar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Eliezer's ruling about the field being called 'sdeh retushin' until the second Jubilee and 'retushei retushin' until the third, with kohanim never entering until another redeems it \u2014 exactly the content the 'Abandoned Field' prose section discusses.",
+      "chosen_heading": "Abandoned Field",
+      "current_heading": "Abandoned Field",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Treasury vs Altar",
+    "candidates": [
+      "Sanctified House",
+      "Kodesh Transfer",
+      "Korbanot Parallel",
+      "Kodesh Consumption",
+      "Treasury vs Altar",
+      "Only If Sold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All six items form one continuous dialectic about why Rabbi Yehuda derives from the sanctified house and not the Shavuot lambs, and why Rabbi Shimon does the reverse \u2014 exactly the 'full dialectic' described in candidate 4's prose about Treasury vs Altar distinctions and the matanah la-kohanim principle.",
+      "chosen_heading": "Treasury vs Altar",
+      "current_heading": "Treasury vs Altar",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44
+    ],
+    "current_heading": "Only If Sold",
+    "candidates": [
+      "Only If Sold",
+      "Abaye Objects",
+      "Lo Yiga'el Drasha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rabbi Eliezer's ruling and Rabba's derivation of its reason from the verse, which is precisely what the 'Only If Sold' prose describes \u2014 Rabbah's reading that the field passes to kohanim only if it was first sold to someone.",
+      "chosen_heading": "Only If Sold",
+      "current_heading": "Only If Sold",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Lo Yiga'el Drasha",
+    "candidates": [
+      "Abaye Objects",
+      "Lo Yiga'el Drasha",
+      "Field to Kohanim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains exactly Abaye's alternative drasha based on the baraita interpreting 'lo yiga'el' and 'od', which is precisely what the 'Lo Yiga'el Drasha' section's prose describes.",
+      "chosen_heading": "Lo Yiga'el Drasha",
+      "current_heading": "Lo Yiga'el Drasha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55,
+      56,
+      57
+    ],
+    "current_heading": "Field to Kohanim",
+    "candidates": [
+      "Field to Kohanim",
+      "Original Owner Rights",
+      "Two Phrases Needed",
+      "Status Never Returns"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Talmudic chain (Abaye's analysis of which Jubilee cycle the baraita addresses, the identification with Rabbi Eliezer, and the subsequent challenge leading to the kohen-who-consecrated scenario) which is precisely what the 'Field to Kohanim' prose describes in detail.",
+      "chosen_heading": "Field to Kohanim",
+      "current_heading": "Field to Kohanim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Status Never Returns",
+    "candidates": [
+      "Original Owner Rights",
+      "Two Phrases Needed",
+      "Status Never Returns",
+      "Second Cycle Question",
+      "Baraita Evidence",
+      "Mishnah Language",
+      "Competing Versions"
+    ],
+    "result": null
+  }
+]

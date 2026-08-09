@@ -1,0 +1,298 @@
+[
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Tosafot Challenge",
+    "candidates": [
+      "Mishna: Tzurat Hapetach",
+      "Modern Eruv Setup",
+      "Rambam's Limits",
+      "Height Baraita",
+      "Reciprocal Question",
+      "Combined Solutions",
+      "Tosafot Challenge",
+      "Rav's Correction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items form the continuous Gemara sequence asking whether an amaltara helps with excessive width, citing the baraita that lists both height and width cases, and then the Gemara's deflection (mai lav aseifa / lo areisha) \u2014 exactly what candidate 4 ('Reciprocal Question') describes in its prose.",
+      "chosen_heading": "Reciprocal Question",
+      "current_heading": "Tosafot Challenge",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "Rav's Correction",
+    "candidates": [
+      "Tosafot Challenge",
+      "Rav's Correction",
+      "Rav Yosef's Inference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly what candidate 1's prose discusses: Rav Yehuda teaching Chiyya bar Rav in Rav's presence, the text 'eino tzarich lema'et,' and Rav's correction to 'tzarich lema'et.'",
+      "chosen_heading": "Rav's Correction",
+      "current_heading": "Rav's Correction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Rav Yosef's Inference",
+    "candidates": [
+      "Rav Yosef's Inference",
+      "Logic of Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Yosef's inference from Rav's ruling about a courtyard mostly consisting of entrances and windows, which is exactly what candidate 0's prose describes as Rav Yosef's derivation (*midivrei Rabbeinu nilmad*) regarding *chatzer she-rubba petachim ve-chalonot*.",
+      "chosen_heading": "Rav Yosef's Inference",
+      "current_heading": "Rav Yosef's Inference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Logic of Restriction",
+    "candidates": [
+      "Logic of Restriction",
+      "Gemara Pushback"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the exact logical analogy (more than ten cubits in an alleyway / breached greater than standing in a courtyard) that the 'Logic of Restriction' section's prose directly explains and analyzes.",
+      "chosen_heading": "Logic of Restriction",
+      "current_heading": "Logic of Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Gemara Pushback",
+    "candidates": [
+      "Gemara Pushback",
+      "Beit Chortan Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items \u2014 the rejection of the comparison argument, the baraita about walls with entrances and windows, its textual analysis, Rav Kahana's deflection about pit\u1e25ei shima'ei, and the dispute over what that term means \u2014 are explicitly discussed in the 'Gemara Pushback' prose, which covers all of this material in sequence.",
+      "chosen_heading": "Gemara Pushback",
+      "current_heading": "Gemara Pushback",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Beit Chortan Story",
+    "candidates": [
+      "Beit Chortan Story",
+      "Kilayim vs Shabbat",
+      "Reconciling Positions",
+      "Beam Position Key"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the Beit Chortan incident itself \u2014 the man sticking four poles and stretching a vine, and the Sages permitting it for kilayim \u2014 which is precisely what heading 0's prose discusses, before the dispute between Reish Lakish and Rabbi Yochanan (heading 1) is introduced.",
+      "chosen_heading": "Beit Chortan Story",
+      "current_heading": "Beit Chortan Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Beam Position Key",
+    "candidates": [
+      "Kilayim vs Shabbat",
+      "Reconciling Positions",
+      "Beam Position Key",
+      "Rav Sheshet Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The entire passage deals with reconciling the contradictory positions of Rabbi Yo\u1e25anan and Reish Lakish across two cases (kilayim vs. Shabbat), which is precisely what heading 1 ('Reconciling Positions') describes, including the resolution via the al gaban/min hatzad distinction and the ten/more-than-ten cubit distinction.",
+      "chosen_heading": "Reconciling Positions",
+      "current_heading": "Beam Position Key",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "current_heading": "Rav Sheshet Story",
+    "candidates": [
+      "Beam Position Key",
+      "Rav Sheshet Story",
+      "Kippa Baraita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items cover the exact content described in the 'Rav Sheshet Story' prose: Rav \u1e24isda's rulings on tzurat hapetach (min hatzad, structural soundness), Reish Lakish's heker tzir requirement, Rav Ashi's students' silence, the Rav Na\u1e25man/Rav Sheshet dispute on touching, and the story of Rav Gadda's imprisonment \u2014 all of which the candidate 1 prose explicitly summarizes.",
+      "chosen_heading": "Rav Sheshet Story",
+      "current_heading": "Rav Sheshet Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Kippa Baraita",
+    "candidates": [
+      "Kippa Baraita",
+      "Meir vs Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about an arched gateway (kippah) and the ten-handbreadth requirement for mezuzah obligation, which matches the 'Kippa Baraita' section's prose about Rav Sheshet asking about the kippah case and minimum dimensions.",
+      "chosen_heading": "Kippa Baraita",
+      "current_heading": "Kippa Baraita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91,
+      92
+    ],
+    "current_heading": "Meir vs Chachamim",
+    "candidates": [
+      "Meir vs Chachamim",
+      "Conceptual Framework",
+      "Disconnected Posts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are Abaye's clarification of the parameters of the arch dispute \u2014 exactly what the 'Meir vs Chachamim' prose describes when it says 'Abaye clarifies the parameters of the dispute' and details the cases of agreement and the specific point of contention.",
+      "chosen_heading": "Meir vs Chachamim",
+      "current_heading": "Meir vs Chachamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Disconnected Posts",
+    "candidates": [
+      "Conceptual Framework",
+      "Disconnected Posts",
+      "Shammai vs Hillel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 Abaye's explanation of the chokekim dispute and Rav Sheshet's instruction not to reveal the baraita to the Exilarch's household \u2014 are precisely the content described in candidate 1's prose, which explicitly discusses the chokekim principle's bearing on disconnected posts and Rabbah bar Shmuel's interaction with Rav Sheshet over the 'matnita de-kippah'.",
+      "chosen_heading": "Disconnected Posts",
+      "current_heading": "Disconnected Posts",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "current_heading": "Shammai vs Hillel",
+    "candidates": [
+      "Shammai vs Hillel",
+      "Closed-End Mavoi",
+      "Wall vs Heker"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Shammai vs Hillel",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present the Mishna and the student-Rabbi Akiva dispute about when Beit Shammai and Beit Hillel disagree, which matches exactly the 'Shammai vs Hillel' prose describing the mishna's basic dispute and Rabbi Akiva's position.",
+      "second_heading": "Closed-End Mavoi",
+      "second_confidence": "high",
+      "second_reason": "Items 3-5 begin with the Gemara's question about whose opinion the mishna follows, then Rav Yehuda's resolution that the mishna addresses a closed-end mavoi (mavoi satum), and then the conceptual analysis of the Shammai-Hillel dispute \u2014 all of which correspond to the 'Closed-End Mavoi' and subsequent sections, with item 3-4 fitting 'Closed-End Mavoi' and item 5 fitting 'Wall vs Heker', but since a split can only be at one point, splitting after item 2 captures the structural seam where a new Gemara unit begins analyzing the mishna's applicability.",
+      "current_heading": "Shammai vs Hillel",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115,
+      116
+    ],
+    "current_heading": "Wall vs Heker",
+    "candidates": [
+      "Closed-End Mavoi",
+      "Wall vs Heker"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the Gemara's dialectical probing of whether Beit Shammai and Beit Hillel's positions imply different biblical wall-count thresholds, with the rejection each time that the biblical throwing-liability threshold is lower than the rabbinic carrying requirement \u2014 precisely the mechitza vs. heker / arba/shalosh/shtayim mechitzot analysis described in the 'Wall vs Heker' prose.",
+      "chosen_heading": "Wall vs Heker",
+      "current_heading": "Wall vs Heker",
+      "moved": false
+    }
+  }
+]

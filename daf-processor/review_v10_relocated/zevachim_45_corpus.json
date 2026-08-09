@@ -1,0 +1,350 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Mishna Setup",
+    "candidates": [
+      "Mishna Setup",
+      "Kedusha Concept",
+      "Rabbi Shimon Position",
+      "Hana'ah & Me'ilah",
+      "Pigul, Nosar, Tamei"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna text itself, and the 'Mishna Setup' prose directly describes and introduces this exact mishna content about kodshei ovdei kochavim, piggul/nosar/tamei, and Rabbi Shimon's position.",
+      "chosen_heading": "Mishna Setup",
+      "current_heading": "Mishna Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Pigul, Nosar, Tamei",
+    "candidates": [
+      "Kedusha Concept",
+      "Rabbi Shimon Position",
+      "Hana'ah & Me'ilah",
+      "Pigul, Nosar, Tamei",
+      "Rabbi Yose Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute the baraita discussed in candidate 2's prose ('Hana'ah & Me'ilah'), which explicitly describes the braita stating 'kodshei ovdei kochavim lo nehenin ve-lo mo'alin' and then continuing with piggul/nosar/tamei/temurah/nesachim \u2014 exactly the content of items 1 and 2 \u2014 while candidate 3's prose describes these same elements but as a continuation already past the me'ilah opening, suggesting the passage was split across two sections when it belongs under the heading whose prose introduces the entire baraita from its start.",
+      "chosen_heading": "Hana'ah & Me'ilah",
+      "current_heading": "Pigul, Nosar, Tamei",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Rabbi Yose Position",
+    "candidates": [
+      "Pigul, Nosar, Tamei",
+      "Rabbi Yose Position",
+      "Me'ilah Distinction",
+      "Hana'ah & Me'ilah Gezeira"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yosei's statement about being stringent in all cases due to 'la-Hashem,' followed by the qualification about kodshei mizbeach vs. kodshei bedek ha-bayis \u2014 exactly matching the 'Rabbi Yose Position' prose which discusses Rabbi Yose's ruling to be strict in all matters based on the 'la-Shem' verse, and the current placement is correct.",
+      "chosen_heading": "Rabbi Yose Position",
+      "current_heading": "Rabbi Yose Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Hana'ah & Me'ilah Gezeira",
+    "candidates": [
+      "Me'ilah Distinction",
+      "Hana'ah & Me'ilah Gezeira",
+      "Pigul Gezeira Shavah",
+      "Temurah Hekesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly states the prohibition on deriving benefit is rabbinic (mi-de-rabbanan), which directly matches the 'Hana'ah & Me'ilah Gezeira' section's prose about the hana'ah prohibition being mi-de-rabbanan in origin.",
+      "chosen_heading": "Hana'ah & Me'ilah Gezeira",
+      "current_heading": "Hana'ah & Me'ilah Gezeira",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "current_heading": "Temurah Hekesh",
+    "candidates": [
+      "Pigul Gezeira Shavah",
+      "Temurah Hekesh",
+      "Maaser Behemah",
+      "Ezrach vs. Non-Jew",
+      "Nesachim Attached"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Pigul Gezeira Shavah",
+      "first_confidence": "high",
+      "first_reason": "Items 1-3 discuss meilah and the piggul/notar/tumah chain of gezeiros shavos, matching exactly the 'Pigul Gezeira Shavah' prose.",
+      "second_heading": "Temurah Hekesh",
+      "second_confidence": "high",
+      "second_reason": "Items 4-7 discuss the temurah hekesh derivation and its resolution (including the chovah answer in item 7), matching the 'Temurah Hekesh' prose which covers both the double-hekesh problem and its answer.",
+      "current_heading": "Temurah Hekesh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      51,
+      52,
+      53
+    ],
+    "current_heading": "Nesachim Attached",
+    "candidates": [
+      "Maaser Behemah",
+      "Ezrach vs. Non-Jew",
+      "Nesachim Attached",
+      "Blood Tamei Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items directly continue the nesachim discussion \u2014 item 1 derives the ezrach/non-Jew distinction for libations, item 2 introduces Rabbi Yosei's stringent position, and item 3 explains his reasoning regarding kadshei mizbe'ach vs. kadshei bedek habayis \u2014 exactly matching the 'Nesachim Attached' prose which describes all three of these elements explicitly.",
+      "chosen_heading": "Nesachim Attached",
+      "current_heading": "Nesachim Attached",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58,
+      59
+    ],
+    "current_heading": "Blood Tamei Case",
+    "candidates": [
+      "Blood Tamei Case",
+      "Non-Jew Ritzuy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the complete baraita about blood that became tamei being sprinkled \u2014 covering the individual/community/gentile distinctions \u2014 which is precisely what the 'Blood Tamei Case' prose describes in detail, including the shogeg/meizid distinction and the communal korban exception.",
+      "chosen_heading": "Blood Tamei Case",
+      "current_heading": "Blood Tamei Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Non-Jew Ritzuy",
+    "candidates": [
+      "Non-Jew Ritzuy",
+      "Rav Ashi Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous chain \u2014 the Rabbis' challenge to Rav Pappa, his response using 'lahem,' and Rav Huna's counter-challenge \u2014 which corresponds exactly to the content described in candidate 0's prose about the Rabbis raising the question before Rav Pappa and his 'afilu teima Rabbi Yose' response using 'lahem.'",
+      "chosen_heading": "Non-Jew Ritzuy",
+      "current_heading": "Non-Jew Ritzuy",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Rav Ashi Resolution",
+    "candidates": [
+      "Rav Ashi Resolution",
+      "Piggul Exclusions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Rav Ashi's resolution that gentiles are not subject to the acceptance mechanism (ritzuy) of the tzitz, which is exactly what the 'Rav Ashi Resolution' prose discusses, including the specific Aramaic phrase 've-ovdei kochavim lav bnei hartzah ninhu'.",
+      "chosen_heading": "Rav Ashi Resolution",
+      "current_heading": "Rav Ashi Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75
+    ],
+    "current_heading": "Piggul Exclusions",
+    "candidates": [
+      "Piggul Exclusions",
+      "Rabbi Shimon Edible",
+      "Kal VaChomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the mishna itself covering both the general rule about piggul exclusions (notar/tamei applying except for blood) and Rabbi Shimon's qualification, and candidate 0's prose discusses this entire mishna unit including the chutz min ha-dam exception, which is the primary content of the passage.",
+      "chosen_heading": "Piggul Exclusions",
+      "current_heading": "Piggul Exclusions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83
+    ],
+    "current_heading": "Kal VaChomer",
+    "candidates": [
+      "Rabbi Shimon Edible",
+      "Kal VaChomer",
+      "Asher Hem Makdishim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items constitute the kal va-chomer argument comparing piggul and tumah, which is precisely what the 'Kal VaChomer' section's prose describes \u2014 the construction of the a fortiori reasoning that tumah should apply only to items with a matir.",
+      "chosen_heading": "Kal VaChomer",
+      "current_heading": "Kal VaChomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87
+    ],
+    "current_heading": "Asher Hem Makdishim",
+    "candidates": [
+      "Asher Hem Makdishim",
+      "Yikrav Requirement",
+      "Matirim Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes 'asher hem makdishim li' directly, which is precisely the verse discussed in candidate 0's prose about expanding the scope of tumah to include any sanctified item.",
+      "chosen_heading": "Asher Hem Makdishim",
+      "current_heading": "Asher Hem Makdishim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Matirim Threshold",
+    "candidates": [
+      "Yikrav Requirement",
+      "Matirim Threshold",
+      "Kli Sharet Threshold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the derivation from 'yikrav' and Rabbi Elazar's clarification that mere touching/approaching does not create liability, which is precisely what the 'Yikrav Requirement' section's prose discusses.",
+      "chosen_heading": "Yikrav Requirement",
+      "current_heading": "Matirim Threshold",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97
+    ],
+    "current_heading": "Kli Sharet Threshold",
+    "candidates": [
+      "Matirim Threshold",
+      "Kli Sharet Threshold",
+      "Chilul vs. Avon"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Kli Sharet Threshold",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the yikrav threshold (matirim vs. kli sharet) and then derive that notar follows tumah's broad scope via chilul-chilul \u2014 content that matches the Kli Sharet Threshold section's discussion of items without matirim and their fit-for-sacrifice status.",
+      "second_heading": "Chilul vs. Avon",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the competing gezeira shava of avon-avon linking notar to piggul, which is precisely the conflict the 'Chilul vs. Avon' prose describes.",
+      "current_heading": "Kli Sharet Threshold",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      101,
+      102
+    ],
+    "current_heading": "Chilul vs. Avon",
+    "candidates": [
+      "Chilul vs. Avon",
+      "Double Lamed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the back-and-forth debate about whether notar should be derived from tumah or piggul \u2014 exactly the gezeira shava conflict described in candidate 0's prose \u2014 not the resolution via the doubled lamed described in candidate 1.",
+      "chosen_heading": "Chilul vs. Avon",
+      "current_heading": "Chilul vs. Avon",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      106,
+      107
+    ],
+    "current_heading": "Double Lamed",
+    "candidates": [
+      "Double Lamed",
+      "Nosar Conclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present Levi's teaching about the doubled lamed in 've-lo yechalelu' signaling two profanations (notar and tumah), which is precisely what the 'Double Lamed' prose section describes.",
+      "chosen_heading": "Double Lamed",
+      "current_heading": "Double Lamed",
+      "moved": false
+    }
+  }
+]

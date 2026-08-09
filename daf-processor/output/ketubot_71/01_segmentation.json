@@ -97,8 +97,8 @@
           "timestamp": "23:43"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Gemara's Analysis: Who Made the Vow and Who Pays Ketubah",
@@ -136,7 +136,7 @@
           "timestamp": "33:38"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -194,7 +194,7 @@
           "timestamp": "52:31"
         }
       ],
-      "sefaria_index": 18,
+      "sefaria_index": 15,
       "matched": true
     },
     {
@@ -384,5 +384,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "38:54",
+  "amud_b_micro_title": "Innuy Nefesh Threshold",
+  "shiur_start_daf": 71,
+  "shiur_start_amud": "a"
 }

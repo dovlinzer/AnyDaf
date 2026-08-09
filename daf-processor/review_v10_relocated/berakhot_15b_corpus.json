@@ -1,0 +1,412 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "current_heading": "Deaf person reading",
+    "candidates": [
+      "Mishna debate intro",
+      "Deaf person reading",
+      "Rabbi Yehuda position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items form a continuous discussion about who is the tanna behind the Megillah mishna's disqualification of a deaf person, exactly matching the prose of candidate 1 ('Deaf person reading').",
+      "chosen_heading": "Deaf person reading",
+      "current_heading": "Deaf person reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Rabbi Yehuda position",
+    "candidates": [
+      "Rabbi Yehuda position",
+      "Terumah source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the Gemara's debate about whether the mishna can be attributed to Rabbi Yehuda \u2014 including the 'as it is' rejection, the challenge from the latter clause, and the chisora mechasra resolution \u2014 which is precisely what the 'Rabbi Yehuda position' prose describes.",
+      "chosen_heading": "Rabbi Yehuda position",
+      "current_heading": "Rabbi Yehuda position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18,
+      19,
+      20
+    ],
+    "current_heading": "Terumah source",
+    "candidates": [
+      "Terumah source",
+      "B'di'avad braita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are the continuous Gemara discussion introducing the terumah baraita (item 1), showing it fits neither Rabbi Yehuda nor Rabbi Yose (item 2), and then pivoting to the Birkat Hamazon baraita (item 3) \u2014 exactly the content described in the 'Terumah source' prose.",
+      "chosen_heading": "Terumah source",
+      "current_heading": "Terumah source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25
+    ],
+    "current_heading": "B'di'avad braita",
+    "candidates": [
+      "B'di'avad braita",
+      "Two solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage identifies that the b'di'avad baraita fits neither Rabbi Yehuda nor Rabbi Yosei, which directly sets up the impasse described in heading 0's prose about three positions needing to be assigned to specific tannaim.",
+      "chosen_heading": "B'di'avad braita",
+      "current_heading": "B'di'avad braita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Two solutions",
+    "candidates": [
+      "Two solutions",
+      "Final resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the first resolution (le'olam Rabbi Yehuda hi) and the baraita quoting Rabbi Yehuda in the name of Rabbi Elazar ben Azaryah alongside Rabbi Meir's response, which is exactly what the 'Two solutions' prose describes as the first resolution.",
+      "chosen_heading": "Two solutions",
+      "current_heading": "Two solutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Final resolution",
+    "candidates": [
+      "Final resolution",
+      "Rav Chisda ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes the Gemara's second resolution ('hashta de-atit l'hachi') distinguishing Rabbi Yehuda from Rabbi Meir, which is precisely what the 'Final resolution' prose section discusses.",
+      "chosen_heading": "Final resolution",
+      "current_heading": "Final resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36,
+      37,
+      38
+    ],
+    "current_heading": "Rav Chisda ruling",
+    "candidates": [
+      "Rav Chisda ruling",
+      "Rav Yosef limitation",
+      "Challenge & Shema unique"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items together constitute exactly the Rav Chisda/Rav Sheila ruling and the Gemara's explanation of why both components are necessary \u2014 which is precisely what candidate 0's prose describes in detail.",
+      "chosen_heading": "Rav Chisda ruling",
+      "current_heading": "Rav Chisda ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "current_heading": "Challenge & Shema unique",
+    "candidates": [
+      "Rav Yosef limitation",
+      "Challenge & Shema unique",
+      "Imprecise reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: Rav Yosef's initial formulation (item 1), the baraita challenge and corrected formulation (item 2), the follow-up question about 'hasket u-shma' (item 3), and its resolution (item 4) \u2014 exactly matching the prose of candidate 1 which describes this challenge-and-resolution sequence and the conclusion that 'hasket u-shma' concerns Torah study, not mitzvot generally.",
+      "chosen_heading": "Challenge & Shema unique",
+      "current_heading": "Challenge & Shema unique",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Imprecise reading",
+    "candidates": [
+      "Imprecise reading",
+      "Leniency ruling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes the mishna text about imprecise letter articulation, which is precisely what the 'Imprecise reading' section's prose discusses.",
+      "chosen_heading": "Imprecise reading",
+      "current_heading": "Imprecise reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54
+    ],
+    "current_heading": "Leniency ruling",
+    "candidates": [
+      "Leniency ruling",
+      "Womb-Sheol parallel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rabbi Tavi/Tevi's ruling that the halakha follows both lenient positions, which is exactly what the 'Leniency ruling' section's prose describes.",
+      "chosen_heading": "Leniency ruling",
+      "current_heading": "Leniency ruling",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Womb-Sheol parallel",
+    "candidates": [
+      "Womb-Sheol parallel",
+      "Kal vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the womb-Sheol parallel from Proverbs and the analogy to resurrection, which is precisely what the 'Womb-Sheol parallel' section's prose describes.",
+      "chosen_heading": "Womb-Sheol parallel",
+      "current_heading": "Womb-Sheol parallel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Kal vachomer",
+    "candidates": [
+      "Kal vachomer",
+      "Mezuza content"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the kal va-chomer argument about the womb/Sheol leading to a refutation of those who deny resurrection, which is exactly what heading 0's prose describes.",
+      "chosen_heading": "Kal vachomer",
+      "current_heading": "Kal vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65
+    ],
+    "current_heading": "Mezuza content",
+    "candidates": [
+      "Mezuza content",
+      "Rava explanation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita taught by Rabbi Oshaya before Rava, which is precisely what heading 0 ('Mezuza content') describes in its prose, before Rava's interpretive response covered under heading 1.",
+      "chosen_heading": "Mezuza content",
+      "current_heading": "Mezuza content",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68,
+      69,
+      70
+    ],
+    "current_heading": "Rava explanation",
+    "candidates": [
+      "Rava explanation",
+      "V'limadetem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items are part of the continuous Rava discussion about Rabbi Yehuda's ruling on Sotah and its application to mezuza via gezeira shava, which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "Rava explanation",
+      "current_heading": "Rava explanation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      75,
+      76
+    ],
+    "current_heading": "V'limadetem",
+    "candidates": [
+      "V'limadetem",
+      "Practical application",
+      "Space between words",
+      "Reward for care"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together constitute the teaching of Rav Ovadya and Rava's elaboration on the same point \u2014 leaving space between adjacent words in Shema recitation \u2014 which is precisely what candidate 0's prose describes.",
+      "chosen_heading": "V'limadetem",
+      "current_heading": "V'limadetem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Reward for care",
+    "candidates": [
+      "Practical application",
+      "Space between words",
+      "Reward for care",
+      "Tosafos expansion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is precisely the teaching of Rabbi \u1e24ama bar Rabbi \u1e24anina about cooling Gehenna through careful recitation of Shema, which is exactly what the 'Reward for care' section's prose describes and analyzes.",
+      "chosen_heading": "Reward for care",
+      "current_heading": "Reward for care",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88
+    ],
+    "current_heading": "Tosafos expansion",
+    "candidates": [
+      "Tosafos expansion",
+      "Order requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The prose under 'Tosafos expansion' explicitly discusses this very passage \u2014 Rabbi Chama bar Rabbi Chanina's derashah on why tents are juxtaposed to rivers, the verse from Balak, and the conclusion that Torah study elevates a person from the scale of guilt to the scale of merit \u2014 making it the clear and correct home for these two items.",
+      "chosen_heading": "Tosafos expansion",
+      "current_heading": "Tosafos expansion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Order requirement",
+    "candidates": [
+      "Order requirement",
+      "Rabbi Elazar story",
+      "Error procedures"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about reciting Shema out of order and erring, which directly introduces the error-correction procedures discussed in the 'Error procedures' section's prose about Rabbi Elazar finding a Tanna teaching this exact halacha.",
+      "chosen_heading": "Error procedures",
+      "current_heading": "Order requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Error procedures",
+    "candidates": [
+      "Rabbi Elazar story",
+      "Error procedures",
+      "Sirchei nakat"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Rabbi Elazar story",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the narrative framing of Rabbi Elazar going to the study hall, which matches heading 0's prose about Rabbi Ami, Rabbi Assi, and Rabbi Elazar's chuppah story.",
+      "second_heading": "Error procedures",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Tosefta teaching about error procedures in Shema recitation, which matches heading 1's prose describing exactly those halachic rules about erring in the middle of a perek, between perakim, and between u'chtavtam occurrences.",
+      "current_heading": "Error procedures",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Sirchei nakat",
+    "candidates": [
+      "Sirchei nakat",
+      "Affirmation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yo\u1e25anan's qualification about 'l'maan yirbu yomeichem' and the concept of 'sirchei nakat,' which is precisely what the prose under heading 0 discusses in detail.",
+      "chosen_heading": "Sirchei nakat",
+      "current_heading": "Sirchei nakat",
+      "moved": false
+    }
+  }
+]

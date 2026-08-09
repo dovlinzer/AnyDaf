@@ -1,0 +1,435 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Silver to Gold Transfer",
+    "candidates": [
+      "Silver to Gold Transfer",
+      "Yom Kippur Gold Vessel",
+      "Pesuk-Based Approach"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the silver-to-gold transfer system and the Torah's concern for sparing Jewish money, which is exactly what the 'Silver to Gold Transfer' section's prose describes.",
+      "chosen_heading": "Silver to Gold Transfer",
+      "current_heading": "Silver to Gold Transfer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Pesuk-Based Approach",
+    "candidates": [
+      "Yom Kippur Gold Vessel",
+      "Pesuk-Based Approach",
+      "Quantity Debate"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the Yom Kippur procedure of scooping with the gold vessel and bringing it in with that same vessel, citing the High Priest's weakness as the reason \u2014 exactly what heading 0's prose describes.",
+      "chosen_heading": "Yom Kippur Gold Vessel",
+      "current_heading": "Pesuk-Based Approach",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "current_heading": "Quantity Debate",
+    "candidates": [
+      "Pesuk-Based Approach",
+      "Quantity Debate",
+      "Thin Gold & Long Handle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items discuss the debate over how many kav of coals were scattered during the transfer between vessels, which is precisely what the 'Quantity Debate' prose describes \u2014 the baraita conflict between one kav and two kav scattering, the Gemara's question about whose opinion supports two kav, Rav \u1e24isda's answer citing Rabbi Yishmael son of Rabbi Yo\u1e25anan ben Beroka, and Rav Ashi's resolution involving the desert se'ah vs. Jerusalem kav measures.",
+      "chosen_heading": "Quantity Debate",
+      "current_heading": "Quantity Debate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      18
+    ],
+    "current_heading": "Thin Gold & Long Handle",
+    "candidates": [
+      "Thin Gold & Long Handle",
+      "Niashti Ring/Sheath"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the fire pan being light, thin-walled, and long-handled on Yom Kippur so the High Priest's arm could assist him \u2014 precisely what the 'Thin Gold & Long Handle' section's prose describes.",
+      "chosen_heading": "Thin Gold & Long Handle",
+      "current_heading": "Thin Gold & Long Handle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Niashti Ring/Sheath",
+    "candidates": [
+      "Niashti Ring/Sheath",
+      "Rashi Sound Theory",
+      "Tosafot Leather Sheath",
+      "Seven Gold Types"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita about the niashti ring/sheath and the statement of Ben Ha-Segan is precisely what the prose under heading 0 ('Niashti Ring/Sheath') introduces and discusses.",
+      "chosen_heading": "Niashti Ring/Sheath",
+      "current_heading": "Niashti Ring/Sheath",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29,
+      30,
+      31
+    ],
+    "current_heading": "Seven Gold Types",
+    "candidates": [
+      "Rashi Sound Theory",
+      "Tosafot Leather Sheath",
+      "Seven Gold Types",
+      "Red Gold Symbol",
+      "Gold & Kaparah Link",
+      "Rav Ashi 5 Types",
+      "Incense Quantity",
+      "Extra Fine Grinding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form one continuous discussion about the seven (or five) types of gold, beginning with Rav \u1e24isda's enumeration and ending with Rav Ashi's qualification and the supporting baraita \u2014 exactly what the 'Seven Gold Types' section prose describes.",
+      "chosen_heading": "Seven Gold Types",
+      "current_heading": "Seven Gold Types",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      43
+    ],
+    "current_heading": "Extra Fine Grinding",
+    "candidates": [
+      "Red Gold Symbol",
+      "Gold & Kaparah Link",
+      "Rav Ashi 5 Types",
+      "Incense Quantity",
+      "Extra Fine Grinding",
+      "Standard Route"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "The passage discusses the mishna's teaching about the incense being ground extra-fine on Yom Kippur and the baraita explaining why the Torah repeats 'dakah' \u2014 exactly what the prose under 'Extra Fine Grinding' describes.",
+      "chosen_heading": "Extra Fine Grinding",
+      "current_heading": "Extra Fine Grinding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47
+    ],
+    "current_heading": "Standard Route",
+    "candidates": [
+      "Standard Route",
+      "Middle Path (Rashi)"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the standard daily practice of priests ascending on the eastern side of the ramp and the rule of turning to the right toward the east, which directly matches the 'Standard Route' section's prose about ordinary days and the kol pinot rule.",
+      "chosen_heading": "Standard Route",
+      "current_heading": "Standard Route",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Middle Path (Rashi)",
+    "candidates": [
+      "Middle Path (Rashi)",
+      "Retinue Version",
+      "Honor & Significance",
+      "Pitcher vs. Kiyor"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses the Kohen Gadol ascending and descending in the middle due to his honor (mishum kevodo), which matches exactly what the 'Middle Path (Rashi)' section describes with oleh/yored singular form and the reason of kevod Kohen Gadol.",
+      "chosen_heading": "Middle Path (Rashi)",
+      "current_heading": "Middle Path (Rashi)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      58
+    ],
+    "current_heading": "Pitcher vs. Kiyor",
+    "candidates": [
+      "Retinue Version",
+      "Honor & Significance",
+      "Pitcher vs. Kiyor",
+      "Kavodo Rationale",
+      "Minimum 2+1",
+      "R. Yehuda 4 Fires"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna about the High Priest sanctifying hands and feet from the laver on ordinary days (versus the golden flask on Yom Kippur), which is precisely what the 'Pitcher vs. Kiyor' section's prose describes.",
+      "chosen_heading": "Pitcher vs. Kiyor",
+      "current_heading": "Pitcher vs. Kiyor",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "R. Yehuda 4 Fires",
+    "candidates": [
+      "Kavodo Rationale",
+      "Minimum 2+1",
+      "R. Yehuda 4 Fires",
+      "R. Yosi 3+1",
+      "R. Meir 4+1"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The baraita presents Rabbi Yehuda's view that on ordinary days there were two arrangements and on Yom Kippur three, which directly illustrates the 'minimum 2+1' section's prose about all opinions agreeing on two fires ordinarily plus one additional on Yom Kippur \u2014 it serves as the foundational source text for that section, before the individual rabbinic positions are elaborated.",
+      "chosen_heading": "Minimum 2+1",
+      "current_heading": "R. Yehuda 4 Fires",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "R. Meir 4+1",
+    "candidates": [
+      "R. Yosi 3+1",
+      "R. Meir 4+1",
+      "Main Pyre",
+      "Incense Pyre"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "R. Yosi 3+1",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yosi's view of 3+1 arrangements, which matches exactly the prose of candidate 0 ('R. Yosi 3+1').",
+      "second_heading": "R. Meir 4+1",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rabbi Meir's view of 4+1 arrangements, which matches exactly the prose of candidate 1 ('R. Meir 4+1') where it currently sits.",
+      "current_heading": "R. Meir 4+1",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      80
+    ],
+    "current_heading": "Incense Pyre",
+    "candidates": [
+      "Main Pyre",
+      "Incense Pyre",
+      "Pesuk Mentions",
+      "R. Yosi Kiyum",
+      "R. Yehuda Kindling"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage derives the two universally-agreed fires from the opening verses of Tzav, covering both the main pyre (ma'aracha gedolah) and the incense pyre together, plus Rabbi Yosei's third fire \u2014 this is the unified derivation passage that begins at the 'Main Pyre' section where the Gemara starts its scriptural analysis from the first verse.",
+      "chosen_heading": "Main Pyre",
+      "current_heading": "Incense Pyre",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "R. Yehuda Kindling",
+    "candidates": [
+      "Pesuk Mentions",
+      "R. Yosi Kiyum",
+      "R. Yehuda Kindling",
+      "R. Shimon Challenge",
+      "R. Shimon Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items discuss the baraita about 'benei Aharon' and the dispute between Rabbi Yehuda and Rabbi Shimon over whether that verse teaches who performs the kindling (kohen kasher with klei sharet) or where it must be done (at the top of the altar), which is precisely what candidate 3 'R. Shimon Challenge' describes in its prose.",
+      "chosen_heading": "R. Shimon Challenge",
+      "current_heading": "R. Yehuda Kindling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95
+    ],
+    "current_heading": "R. Shimon Resolution",
+    "candidates": [
+      "R. Shimon Challenge",
+      "R. Shimon Resolution",
+      "Overnight Remains"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly addresses the hava amina that a non-kohen could stand on the ground and use bellows, which is precisely the scenario discussed in the 'R. Shimon Resolution' prose's final sentences about lighting from below via bellows.",
+      "chosen_heading": "R. Shimon Resolution",
+      "current_heading": "R. Shimon Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      101
+    ],
+    "current_heading": "Overnight Remains",
+    "candidates": [
+      "Overnight Remains",
+      "Return to Main"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses where Rabbi Meir derives the rule about limbs and fats not consumed overnight, which is exactly what the 'Overnight Remains' section's prose discusses.",
+      "chosen_heading": "Overnight Remains",
+      "current_heading": "Overnight Remains",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104,
+      105,
+      106
+    ],
+    "current_heading": "Return to Main",
+    "candidates": [
+      "Return to Main",
+      "Separate Fourth",
+      "Pesuk on Olah",
+      "Universal Extra",
+      "Vav-Hey Extra"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Return to Main",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 describe the Rabbanan's position on returning unconsumed limbs to the main arrangement and cite the baraita with the verse 'asher tochal ha-esh et ha-olah al hamizbe'ach,' which is precisely what the 'Return to Main' prose discusses.",
+      "second_heading": "Pesuk on Olah",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents Rabbi Meir's interpretation of that same verse \u2014 distinguishing olah remnants from ketoret remnants \u2014 which exactly matches the 'Pesuk on Olah' prose section describing 'ichulei olah atah machzir ve-ee atah machzir ichulei ketoret.'",
+      "current_heading": "Return to Main",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122
+    ],
+    "current_heading": "Vav-Hey Extra",
+    "candidates": [
+      "Separate Fourth",
+      "Pesuk on Olah",
+      "Universal Extra",
+      "Vav-Hey Extra",
+      "Which Altar?",
+      "Gezeira Shava",
+      "Closest Source",
+      "Esh Tamid",
+      "YK Link",
+      "Coals Pesuk"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Vav-Hey Extra",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 match heading 3's prose exactly: the vav-heh derivation for the Yom Kippur extra fire and the 'esh tamid' teaching about the second arrangement for ketoret on the outer altar.",
+      "second_heading": "Gezeira Shava",
+      "second_confidence": "high",
+      "second_reason": "Items 3-7 address the gezeira shava and counter-arguments about which altar supplies fire for the machtah and menorah, matching heading 5 ('Gezeira Shava') which explicitly describes this analogical derivation from 'esh' across the ketoret, machtah, and menorah contexts.",
+      "current_heading": "Vav-Hey Extra",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      138
+    ],
+    "current_heading": "Coals Pesuk",
+    "candidates": [
+      "Which Altar?",
+      "Gezeira Shava",
+      "Closest Source",
+      "Esh Tamid",
+      "YK Link",
+      "Coals Pesuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage directly contains the verse 've-lakach melo ha-machtah gachalei esh me'al hamizbe'ach milefnei Hashem' and the derivation about which altar is only partially before the Lord, which is precisely what the 'Coals Pesuk' section's prose describes.",
+      "chosen_heading": "Coals Pesuk",
+      "current_heading": "Coals Pesuk",
+      "moved": false
+    }
+  }
+]

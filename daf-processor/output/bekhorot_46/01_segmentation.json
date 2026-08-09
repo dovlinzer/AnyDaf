@@ -39,8 +39,8 @@
           "timestamp": "04:08"
         }
       ],
-      "sefaria_index": 25,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara Discussion of Racial and Physical Characteristics: Definitions and Vernacular",
@@ -68,8 +68,8 @@
           "timestamp": "11:05"
         }
       ],
-      "sefaria_index": 25,
-      "matched": false
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Gavo'ah (Tall) and Nannas (Dwarf): Genetic Theory and Physical Proportionality",
@@ -155,7 +155,7 @@
           "timestamp": "28:00"
         }
       ],
-      "sefaria_index": 31,
+      "sefaria_index": 33,
       "matched": true
     },
     {
@@ -179,7 +179,7 @@
           "timestamp": "34:35"
         }
       ],
-      "sefaria_index": 32,
+      "sefaria_index": 36,
       "matched": true
     },
     {
@@ -208,7 +208,7 @@
           "timestamp": "43:39"
         }
       ],
-      "sefaria_index": 32,
+      "sefaria_index": 36,
       "matched": false
     },
     {
@@ -232,7 +232,7 @@
           "timestamp": "52:01"
         }
       ],
-      "sefaria_index": 32,
+      "sefaria_index": 36,
       "matched": false
     },
     {
@@ -256,7 +256,7 @@
           "timestamp": "55:15"
         }
       ],
-      "sefaria_index": 32,
+      "sefaria_index": 36,
       "matched": false
     },
     {
@@ -290,7 +290,7 @@
           "timestamp": "58:42"
         }
       ],
-      "sefaria_index": 32,
+      "sefaria_index": 36,
       "matched": false
     },
     {
@@ -314,7 +314,7 @@
           "timestamp": "60:48"
         }
       ],
-      "sefaria_index": 32,
+      "sefaria_index": 36,
       "matched": false
     }
   ],
@@ -572,5 +572,11 @@
         "12:00"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "06:00",
+  "amud_b_micro_title": "Color Definitions",
+  "shiur_start_daf": 46,
+  "shiur_start_amud": "a"
 }

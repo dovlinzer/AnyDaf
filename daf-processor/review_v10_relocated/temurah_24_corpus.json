@@ -1,0 +1,316 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "current_heading": "Rav Hoshaiah's Case",
+    "candidates": [
+      "Rav Hoshaiah's Case",
+      "Rabbi Shimon vs. Rebbe"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 10 items form one continuous sugya centered on Rabbi Hoshaya's ruling about designating two sin offerings as a guarantee, examining which authority it follows and responding to challenges \u2014 exactly what the prose under heading 0 ('Rav Hoshaiah's Case') describes.",
+      "chosen_heading": "Rav Hoshaiah's Case",
+      "current_heading": "Rav Hoshaiah's Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Rabbi Shimon vs. Rebbe",
+    "candidates": [
+      "Rabbi Shimon vs. Rebbe",
+      "Blemished Sin Offering"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "medium",
+      "reason": "The passage discusses the dispute between Rabbi Yehuda HaNasi (Rebbe) and the Rabbanan about when a lost sin offering is left to die versus graze, which directly relates to the 'Rabbi Shimon vs. Rebbe' section's discussion of the framework shared by Rebbe and the Rabbanan concerning ibud and the timing of designation vs. atonement \u2014 though neither candidate prose is an ideal match, the current placement is closer than the 'Blemished Sin Offering' heading which concerns an entirely different case.",
+      "chosen_heading": "Rabbi Shimon vs. Rebbe",
+      "current_heading": "Rabbi Shimon vs. Rebbe",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Blemished Sin Offering",
+    "candidates": [
+      "Blemished Sin Offering",
+      "Redeemed Retains Identity",
+      "Second Before First",
+      "Achrayus & Loss",
+      "Lost at Designation",
+      "Lost at Atonement",
+      "Rav Papa's Correction",
+      "Margling on Yom Tov"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the mishna case of a blemished sin offering and Rabbi Elazar b'Rabbi Shimon's ruling, which is exactly what the 'Blemished Sin Offering' section's prose describes as its subject matter.",
+      "chosen_heading": "Blemished Sin Offering",
+      "current_heading": "Blemished Sin Offering",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48
+    ],
+    "current_heading": "Margling on Yom Tov",
+    "candidates": [
+      "Redeemed Retains Identity",
+      "Second Before First",
+      "Achrayus & Loss",
+      "Lost at Designation",
+      "Lost at Atonement",
+      "Rav Papa's Correction",
+      "Margling on Yom Tov",
+      "Beis Shammai Kedusha",
+      "Redeemed Even if Cooked"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 6,
+      "confidence": "high",
+      "reason": "Both items directly discuss the braita about margling (flaying from the feet) on Yom Tov and then on a bechor, which is precisely the content described in the 'Margling on Yom Tov' section prose.",
+      "chosen_heading": "Margling on Yom Tov",
+      "current_heading": "Margling on Yom Tov",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "current_heading": "Redeemed Even if Cooked",
+    "candidates": [
+      "Beis Shammai Kedusha",
+      "Redeemed Even if Cooked",
+      "Reconciling Views"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      67
+    ],
+    "current_heading": "Reconciling Views",
+    "candidates": [
+      "Reconciling Views",
+      "Higher Price Leniency"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses why Rabbi Elazar b'Rebbi Shimon's ruling applies to psulei hamukdashin but not to bechor \u2014 precisely the reconciliation argument described in the 'Reconciling Views' prose about de'alimei le'mitfas pidyon.",
+      "chosen_heading": "Reconciling Views",
+      "current_heading": "Reconciling Views",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Higher Price Leniency",
+    "candidates": [
+      "Higher Price Leniency",
+      "Avodah Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items form a continuous challenge-and-response unit: item 1 raises the objection from the Bekhorot mishna about selling disqualified consecrated animals commercially, and item 2 is Rav Mari's direct answer that hide improvement damages meat value \u2014 exactly what the 'Higher Price Leniency' prose describes.",
+      "chosen_heading": "Higher Price Leniency",
+      "current_heading": "Higher Price Leniency",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79,
+      80
+    ],
+    "current_heading": "Avodah Problem",
+    "candidates": [
+      "Avodah Problem",
+      "Fetus as Olah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Western scholars' and Rabbi Yosei bar Avin's explanations for why margling disqualified consecrated animals is prohibited, which is exactly what the 'Avodah Problem' prose discusses in its final answers section.",
+      "chosen_heading": "Avodah Problem",
+      "current_heading": "Avodah Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Fetus as Olah",
+    "candidates": [
+      "Fetus as Olah",
+      "Both Sexes",
+      "Two Males"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the opening Mishna presenting the basic mechanism of the artifice (declaring a fetus as olah or shelamim before birth), which is precisely what candidate 0's prose discusses in detail.",
+      "chosen_heading": "Fetus as Olah",
+      "current_heading": "Fetus as Olah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Two Males",
+    "candidates": [
+      "Both Sexes",
+      "Two Males",
+      "Two Females",
+      "Tumtum Androgynos"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the 'male and female' case and the 'two males' case together in one Mishnaic text, but the opening clause about a male and female birth matches the 'Both Sexes' heading (index 0) which introduces this combined passage, and the essay's 'Both Sexes' prose explicitly quotes and discusses the male+female birth ruling that opens this passage \u2014 the two-males ruling is secondary content within the same Mishnaic unit that the 'Both Sexes' section introduces.",
+      "chosen_heading": "Both Sexes",
+      "current_heading": "Two Males",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      102
+    ],
+    "current_heading": "Tumtum Androgynos",
+    "candidates": [
+      "Two Females",
+      "Tumtum Androgynos",
+      "Blemish Before Birth"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      106,
+      107,
+      108
+    ],
+    "current_heading": "Blemish Before Birth",
+    "candidates": [
+      "Blemish Before Birth",
+      "Only Raise Status",
+      "Blemish vs. Shelamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara discussion: Rav Yehuda's permission to inflict a mum before birth, the challenge from the Mishnah about olah vs. shelamim, Rav Yehuda's resolution (bizman hazeh vs. bizman sheBeis HaMikdash kayam), and the Gemara's follow-up concern about the majority of the head emerging \u2014 exactly the content described in candidate 2's prose ('Blemish vs. Shelamim').",
+      "chosen_heading": "Blemish vs. Shelamim",
+      "current_heading": "Blemish Before Birth",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Blemish vs. Shelamim",
+    "candidates": [
+      "Only Raise Status",
+      "Blemish vs. Shelamim",
+      "Selling to Non-Jew",
+      "Mother is Chatas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses the concern about shearing/working the firstborn as justification for preferring to inflict a blemish before birth, which directly continues the 'Blemish vs. Shelamim' section's analysis of Rav Yehudah's mum-infliction leniency and the Gemara's weighing of competing concerns.",
+      "chosen_heading": "Blemish vs. Shelamim",
+      "current_heading": "Blemish vs. Shelamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      124
+    ],
+    "current_heading": "Mother is Chatas",
+    "candidates": [
+      "Selling to Non-Jew",
+      "Mother is Chatas",
+      "Prevent Derivative Kedus\u2026",
+      "Two Males Mother Holy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why the Mishnah's latter clause discusses a female animal and the Gemara's answer that it concerns an animal consecrated as a sin offering (chatas), which is precisely what the 'Mother is Chatas' section's prose discusses.",
+      "chosen_heading": "Mother is Chatas",
+      "current_heading": "Mother is Chatas",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Two Males Mother Holy",
+    "candidates": [
+      "Prevent Derivative Kedus\u2026",
+      "Two Males Mother Holy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the twin-male case (yalda shnei zecharim), the question of whether the second animal inherits the mother's kedusha, and the Gemara's clarification that the seifa reverts to behemas chullin \u2014 all of which are precisely what the 'Two Males Mother Holy' prose describes.",
+      "chosen_heading": "Two Males Mother Holy",
+      "current_heading": "Two Males Mother Holy",
+      "moved": false
+    }
+  }
+]

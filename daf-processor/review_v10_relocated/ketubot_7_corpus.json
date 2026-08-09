@@ -1,0 +1,282 @@
+[
+  {
+    "quote_indices": [
+      6,
+      7
+    ],
+    "current_heading": "Rashi: Opening = Boneh",
+    "candidates": [
+      "Intro: Sex on Shabbat",
+      "Blister Halakha",
+      "Rashi: Opening = Boneh",
+      "Pakid vs. Akir",
+      "Pattur Aval Mutar",
+      "Rav Ami Permits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present Rav Ami's objection from the abscess mishna and the Gemara's resolution via the pakid/akir distinction, which is precisely what candidate 3 ('Pakid vs. Akir') describes in its prose.",
+      "chosen_heading": "Pakid vs. Akir",
+      "current_heading": "Rashi: Opening = Boneh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      17,
+      18,
+      19
+    ],
+    "current_heading": "Rav Ami Permits",
+    "candidates": [
+      "Pakid vs. Akir",
+      "Pattur Aval Mutar",
+      "Rav Ami Permits",
+      "Ketuva & Collateral",
+      "Other Authorities",
+      "Rav Pappi vs. Pappa",
+      "Mitoch & Shaveh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All three items record additional authorities (Rav Ami, Rav Zevid, Rav Yehuda) permitting first-time intercourse on Shabbat/Yom Tov, which is precisely what candidate 4 ('Other Authorities') describes, and the current placement splits Rav Ami's ruling artificially across candidates 2 and 3 while leaving Rav Zevid and Rav Yehuda under candidate 4.",
+      "chosen_heading": "Other Authorities",
+      "current_heading": "Rav Ami Permits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28,
+      29,
+      30
+    ],
+    "current_heading": "Mitoch & Shaveh",
+    "candidates": [
+      "Ketuva & Collateral",
+      "Other Authorities",
+      "Rav Pappi vs. Pappa",
+      "Mitoch & Shaveh",
+      "Sex vs. Incense",
+      "Deer Case",
+      "Hora'ah Halakha",
+      "Matir Authority",
+      "Rebbe Examples"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Mitoch & Shaveh",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss the mitoch/shaveh lechol nefesh dispute between Rav Pappa and Rav Pappi regarding incense vs. wounding, which is precisely what heading 3 ('Mitoch & Shaveh') describes.",
+      "second_heading": "Deer Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 presents the deer case challenge and its resolution, which is exactly what heading 5 ('Deer Case') discusses in its prose.",
+      "current_heading": "Mitoch & Shaveh",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Rebbe Examples",
+    "candidates": [
+      "Sex vs. Incense",
+      "Deer Case",
+      "Hora'ah Halakha",
+      "Matir Authority",
+      "Rebbe Examples",
+      "R. Yochanan Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items together form the Gemara's discussion of whether a *hora'ah le'issur* is genuine *hora'ah*, which is precisely what candidate 2 ('Hora'ah Halakha') describes \u2014 Rabbi Yochanan's ruling in Tzaidan that *bi'ah rishonah* on Shabbat is forbidden, followed by the challenge and two illustrative answers (the Nazir case and the spinal cord case).",
+      "chosen_heading": "Hora'ah Halakha",
+      "current_heading": "Rebbe Examples",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "R. Yochanan Forbidden",
+    "candidates": [
+      "Rebbe Examples",
+      "R. Yochanan Forbidden",
+      "Rav Huna Teaching",
+      "Duration Rules"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Na\u1e25man bar Yitz\u1e25ak's version of Rabbi Abbahu's report about Rabbi Yochanan ruling bi'ah rishonah on Shabbat forbidden, followed by the concluding halakha that it is permitted \u2014 exactly the content described in the 'R. Yochanan Forbidden' section prose.",
+      "chosen_heading": "R. Yochanan Forbidden",
+      "current_heading": "R. Yochanan Forbidden",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Duration Rules",
+    "candidates": [
+      "Rav Huna Teaching",
+      "Duration Rules",
+      "Gemara Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All six items form a continuous discussion about the duration of birchat chatanim (one day vs. seven days) for various combinations of bachelor/widower marrying virgin/widow, which is precisely what the 'Duration Rules' prose describes in detail, including the Boaz source, the three-day baraita, and the milta psikta challenge.",
+      "chosen_heading": "Duration Rules",
+      "current_heading": "Duration Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Gemara Resolution",
+    "candidates": [
+      "Gemara Resolution",
+      "Status Shift",
+      "Minyan Sources",
+      "Ruth 4 Source",
+      "Makor Imagery"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage explains the 'milta psikta katani' principle \u2014 that the braita states categorical minimums \u2014 which is precisely what the Gemara Resolution prose describes as the Gemara's answer to the braita challenge.",
+      "chosen_heading": "Gemara Resolution",
+      "current_heading": "Gemara Resolution",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Makor Imagery",
+    "candidates": [
+      "Status Shift",
+      "Minyan Sources",
+      "Ruth 4 Source",
+      "Makor Imagery",
+      "Makor Meaning"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers both the Ruth 4:2 source (Rav Nachman/Huna bar Natan) and the Psalms 68:27 source (Rabbi Abbahu) together as a unit examining the derivation of the minyan requirement, matching exactly the 'Minyan Sources' heading which introduces examination of the textual basis for the ten-man requirement \u2014 whereas the current placement under 'Makor Imagery' only covers the second half of the passage.",
+      "chosen_heading": "Minyan Sources",
+      "current_heading": "Makor Imagery",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Makor Meaning",
+    "candidates": [
+      "Makor Imagery",
+      "Makor Meaning",
+      "Pirsum Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses what Rav Nachman derives from the verse (Rabbi Meir's baraita about fetuses singing at the sea), Rabbi Abbahu's counter-argument about why 'makor' rather than 'beten' was used, and the conclusion that 'makor' refers to matters of the source itself \u2014 all of which is precisely what the 'Makor Meaning' section's prose explicates.",
+      "chosen_heading": "Makor Meaning",
+      "current_heading": "Makor Meaning",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91
+    ],
+    "current_heading": "Pirsum Requirement",
+    "candidates": [
+      "Pirsum Requirement",
+      "Chatanim Brachot",
+      "R. Yehuda Eirusin"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the debate between Rabbi Abbahu and Rav Na\u1e25man over the verse in Ruth 4 \u2014 the drasha of Ammonite/Moabite and the pirsum requirement \u2014 which is precisely what the 'Pirsum Requirement' prose describes, including the Shmuel/Rav \u1e24ana story and the parenthetical halakhic ruling about transferring ownership to a fetus.",
+      "chosen_heading": "Pirsum Requirement",
+      "current_heading": "Pirsum Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98
+    ],
+    "current_heading": "R. Yehuda Eirusin",
+    "candidates": [
+      "Chatanim Brachot",
+      "R. Yehuda Eirusin",
+      "Abaye Explanation",
+      "Rashi: Kallah Forbidden"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita as a whole \u2014 including both the anonymous ruling and Rabbi Yehuda's opinion \u2014 is introduced by 'Tanu Rabbanan' as a single unit, and its primary content (the general rule about reciting birchat chatanim in the house of the grooms) matches the prose of heading 0, which explicitly discusses this same baraita and its rule about reciting the blessing at the wedding venue.",
+      "chosen_heading": "Chatanim Brachot",
+      "current_heading": "R. Yehuda Eirusin",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Rashi: Kallah Forbidden",
+    "candidates": [
+      "Abaye Explanation",
+      "Rashi: Kallah Forbidden",
+      "Tosafot Nuance",
+      "Sex vs. Joy",
+      "Two Brachot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement explaining why the teaching applies specifically in Judea due to seclusion, which is exactly what the 'Abaye Explanation' section's prose discusses.",
+      "chosen_heading": "Abaye Explanation",
+      "current_heading": "Rashi: Kallah Forbidden",
+      "moved": true
+    }
+  }
+]

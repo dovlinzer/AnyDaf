@@ -45,7 +45,7 @@
         }
       ],
       "sefaria_index": 0,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Al Da'at Rabbim: Mechanism and Limitations in Vow Annulment",
@@ -78,7 +78,7 @@
           "timestamp": "16:57"
         }
       ],
-      "sefaria_index": 2,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -508,5 +508,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 14
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "19:14",
+  "amud_b_micro_title": "Prior puzzle",
+  "shiur_start_daf": 35,
+  "shiur_start_amud": "b"
 }

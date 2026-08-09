@@ -62,8 +62,8 @@
           "timestamp": "14:03"
         }
       ],
-      "sefaria_index": 3,
-      "matched": true
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Question of Innovation: Can Prophets and Sages Introduce New Practices or Only Rediscover the Original?",
@@ -86,7 +86,7 @@
           "timestamp": "27:05"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 3,
       "matched": true
     },
     {
@@ -308,5 +308,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 21
+  "amud_b_sefaria_index": 21,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "44:02",
+  "amud_b_micro_title": "Talmud Torah Hierarchy",
+  "shiur_start_daf": 3,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,244 @@
+[
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Vadai vs. Safek",
+    "candidates": [
+      "Intro & Sotah",
+      "Kal Vachomer",
+      "Vadai vs. Safek",
+      "R. Shimon bar Yochai"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage asks specifically about extending gilgul shvu'ah from vadai (definite) claims to safek (uncertain) claims, which is precisely what the 'Vadai vs. Safek' section's prose describes as the question raised at the top of 28a.",
+      "chosen_heading": "Vadai vs. Safek",
+      "current_heading": "Vadai vs. Safek",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11
+    ],
+    "current_heading": "R. Shimon bar Yochai",
+    "candidates": [
+      "R. Shimon bar Yochai",
+      "Mammon & Suspicion",
+      "Extent of Gilgul",
+      "Eved Ivri Case",
+      "Name-Calling Laws",
+      "Rava's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita of Rabbi Shimon ben Yo\u1e25ai making the gezerah shavah between the internal and external oaths, which is precisely what the prose under heading 0 describes.",
+      "chosen_heading": "R. Shimon bar Yochai",
+      "current_heading": "R. Shimon bar Yochai",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "current_heading": "Rava's Distinction",
+    "candidates": [
+      "Mammon & Suspicion",
+      "Extent of Gilgul",
+      "Eved Ivri Case",
+      "Name-Calling Laws",
+      "Rava's Distinction",
+      "Tosafot Limits Gilgul",
+      "Archaic Language",
+      "Zachah & Nitchayev",
+      "Barter vs. Sudar"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 4,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain \u2014 the question of how far gilgul shvu'ah extends, Rav's extreme case (Canaanite slave), the nidduy objection, Rava's reframing as eved Ivri, and the karka comparison \u2014 which is precisely what heading 4 ('Rava's Distinction') describes in its prose.",
+      "chosen_heading": "Rava's Distinction",
+      "current_heading": "Rava's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Barter vs. Sudar",
+    "candidates": [
+      "Tosafot Limits Gilgul",
+      "Archaic Language",
+      "Zachah & Nitchayev",
+      "Barter vs. Sudar",
+      "Damim Question",
+      "Money as Object"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishnah text itself introducing kinyan chalifin with its archaic opening clause, which the prose under 'Archaic Language' explicitly discusses as the mishnah that opens a new topic and quotes its unusual phrasing.",
+      "chosen_heading": "Archaic Language",
+      "current_heading": "Barter vs. Sudar",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62
+    ],
+    "current_heading": "Money as Object",
+    "candidates": [
+      "Damim Question",
+      "Money as Object",
+      "Valuation Principle",
+      "Matbea Excluded",
+      "Peiros Debate",
+      "Money via Debt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the gemara's opening question about what 'chalifin' refers to (is it a coin?) and Rav Yehuda's answer reinterpreting the mishnah's phrase \u2014 exactly what the 'Damim Question' prose describes as the gemara asking 'chalifin mai nihu?' and determining the referent of 'kol hana'aseh damim be-acher.'",
+      "chosen_heading": "Damim Question",
+      "current_heading": "Money as Object",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Money via Debt",
+    "candidates": [
+      "Valuation Principle",
+      "Matbea Excluded",
+      "Peiros Debate",
+      "Money via Debt",
+      "Kesef vs. Chazaka"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All 7 items form a continuous chain discussing Rav Nachman's reading of the mishnah via debt-offset, Rav Sheshet vs. Rav Nachman on peirot, the Rabbi Yochanan/Reish Lakish dispute on kinyan kesef vs. meshicha, and the conclusion that Reish Lakish must hold like Rav Sheshet \u2014 exactly the content described in the 'Money via Debt' prose.",
+      "chosen_heading": "Money via Debt",
+      "current_heading": "Money via Debt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Kesef vs. Chazaka",
+    "candidates": [
+      "Kesef vs. Chazaka",
+      "Amirah Principle",
+      "Gizbar Example"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna contains both the kesef/chazakah distinction AND the amirah principle in a single passage, but the current placement under 'Kesef vs. Chazaka' is appropriate as that heading's prose explicitly introduces this very mishna and its archaic terminology, making it the natural home for the full mishnaic quote.",
+      "chosen_heading": "Kesef vs. Chazaka",
+      "current_heading": "Kesef vs. Chazaka",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Gizbar Example",
+    "candidates": [
+      "Amirah Principle",
+      "Gizbar Example",
+      "Kedusha & Ownership",
+      "Mashchu Case",
+      "Padahu Case"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Gizbar Example",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the baraita on reshus gavoah be-kesef (gizbar paying for animal) and amirah le-gavoah, which match the 'Gizbar Example' prose discussing the treasurer's payment acquiring the animal immediately and the contrast with ordinary kinyan.",
+      "second_heading": "Mashchu Case",
+      "second_confidence": "high",
+      "second_reason": "Item 3 introduces the distinct case of mashchu be-maneh where price rose to two hundred before pidyon, which exactly matches the 'Mashchu Case' prose discussing fluctuating prices and the ve-nasan ha-kesef ve-kam lo verse.",
+      "current_heading": "Gizbar Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118,
+      119
+    ],
+    "current_heading": "Padahu Case",
+    "candidates": [
+      "Kedusha & Ownership",
+      "Mashchu Case",
+      "Padahu Case",
+      "Mihu She-Para",
+      "Limits on Hekdesh"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Padahu Case",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 deal with the meshicha/padahu cases where the price dropped after the buyer acted, and the rule that he must pay two hundred \u2014 exactly what the 'Padahu Case' prose discusses, including the lo yehei koach hedyot principle.",
+      "second_heading": "Mihu She-Para",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the Gemara's challenge asking why the same lo yehei koach hedyot principle doesn't apply in the reverse direction (paid maneh, price rose to masayim), which is precisely the surprising case the 'Mihu She-Para' prose introduces as its starting point.",
+      "current_heading": "Padahu Case",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Limits on Hekdesh",
+    "candidates": [
+      "Mihu She-Para",
+      "Limits on Hekdesh"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the mi she-para curse in the context of hekdesh transactions, which is precisely what the 'Limits on Hekdesh' prose section is explaining.",
+      "chosen_heading": "Limits on Hekdesh",
+      "current_heading": "Limits on Hekdesh",
+      "moved": false
+    }
+  }
+]

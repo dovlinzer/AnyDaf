@@ -1,20 +1,21 @@
-# Pesachim 106 — Daf Yomi Shiur
-
+[DAF:105b]
 ## One Cup Dilemma
+
+
 
 ### One Cup Setup
 
-> **Hebrew/Aramaic:** וְהָא תַּנְיָא: הַנִּכְנָס לְבֵיתוֹ בְּמוֹצָאֵי שַׁבָּת מְבָרֵךְ עַל הַיַּיִן וְעַל הַמָּאוֹר וְעַל הַבְּשָׂמִים, וְאַחַר כָּךְ אוֹמֵר הַבְדָּלָה עַל הַכּוֹס. וְאִם אֵין לוֹ אֶלָּא כּוֹס אֶחָד — מַנִּיחוֹ עַד לְאַחַר הַמָּזוֹן וּמְשַׁלְשְׁלָן כּוּלָּן לְאַחֲרָיו, וְלָא אָמְרִינַן חֲבִיבָה מִצְוָה בִּשְׁעָתָהּ!
->
-> **Translation:** But wasn't it **taught** in a *baraita*: **One who enters his home at the conclusion of Shabbat recites the blessing over the wine, and** then **over the light, and** then **over the spices, and recites *havdala* thereafter over the cup** of wine. **And if he has only one cup** of wine, **he leaves it for after** he eats his **food,** and uses it for Grace after Meals, **and arranges all of the** other blessings together **thereafter.** This *baraita* indicates that **we do not say** that **a mitzva is beloved in its** proper **time.**
-
 The daf opens in the midst of an extended discussion about *kiddush* and *havdalah*. The scenario under examination involves a person who arrives home on *motzaei Shabbat* with only a single *kos* of wine. He faces a dilemma: that cup is needed for *birkat hamazon*, yet he also needs it for *havdalah*. Tosafot permits him to eat his meal first — eating before *havdalah* — precisely so that he may have the cup available at the conclusion of *birkat hamazon*. He then proceeds to use that one cup for both *birkat hamazon* and *havdalah*.
 
+[DAF:106a]
 ### Eight Lessons
 
-> **Hebrew/Aramaic:** שְׁמַע מִינַּהּ: הַמַּבְדִּיל בִּתְפִלָּה — צָרִיךְ שֶׁיַּבְדִּיל עַל הַכּוֹס. וּשְׁמַע מִינַּהּ: בְּרָכָה טְעוּנָה כּוֹס. וּשְׁמַע מִינַּהּ: כּוֹס שֶׁל בְּרָכָה צָרִיךְ שִׁיעוּר. וּשְׁמַע מִינַּהּ: הַמְבָרֵךְ צָרִיךְ שֶׁיִּטְעוֹם. וּשְׁמַע מִינַּהּ: טְעָמוֹ — פְּגָמוֹ. וּשְׁמַע מִינַּהּ: טָעַם מַבְדִּיל. וּשְׁמַע מִינַּהּ: אוֹמֵר שְׁתֵּי קְדוּשּׁוֹת עַל כּוֹס אֶחָד. וּשְׁמַע מִינַּהּ: בֵּית שַׁמַּאי הִיא, וְאַלִּיבָּא דְּרַבִּי יְהוּדָה.
->
-> **Translation:** The Gemara points out that one may **learn from this *baraita* eight** *halakhot*. The Gemara elaborates: **Learn from it** that **one who recites *havdala* in the** evening **prayer must** also **recite *havdala* over a cup.** The *baraita* states that one who comes home must recite the blessing over wine and *havdala*, despite the fact that he has presumably already recited *havdala* in the evening prayer service. **And learn from it** that one who recites the **blessing** of Grace after Meals **requires a cup** of wine. **And learn from it** that **a cup of blessing requires** a minimum **measure,** for otherwise it would have been possible for one who has only one cup of wine to simply divide it into two, recite *havdala* immediately, and still have a cup of wine left over for Grace after Meals. **And learn from it** that **one who recites a blessing must taste** the food over which he recites the blessing. Otherwise, one who has only one cup of wine would be able to use it for both *havdala* and Grace after Meals. **And learn from it** that once **he has tasted** the wine in the cup he has **disqualified it** from further use as a cup of blessing. **And learn from it** that even if one has **tasted** food after Shabbat, he nevertheless **recites *havdala*. And learn from it** that if one has only one cup of wine, he may **recite two sanctifications over one cup,** as the *baraita* states that one may recite two entirely unrelated blessings over a single cup. **And learn from it** that **this** *baraita* **is** according to the ruling of **Beit Shammai, in accordance with** the explanation of **Rabbi Yehuda,** who says that Beit Shammai maintain that one should recite the blessing over fire before the blessing over spices.
+> **Hebrew/Aramaic:** וּשְׁמַע מִינַּהּ: הַמְבָרֵךְ צָרִיךְ שֶׁיִּטְעוֹם. וּשְׁמַע מִינַּהּ: טְעָמוֹ — פְּגָמוֹ. וּשְׁמַע מִינַּהּ: טָעַם מַבְדִּיל.
+> **Translation:** **And learn from it** that **one who recites a blessing must taste** the food over which he recites the blessing. Otherwise, one who has only one cup of wine would be able to use it for both *havdala* and Grace after Meals. **And learn from it** that once **he has tasted** the wine in the cup he has **disqualified it** from further use as a cup of blessing. **And learn from it** that even if one has **tasted** food after Shabbat, he nevertheless **recites *havdala*.**
+
+> **Hebrew/Aramaic:** וּשְׁמַע מִינַּהּ: אוֹמֵר שְׁתֵּי קְדוּשּׁוֹת עַל כּוֹס אֶחָד. וּשְׁמַע מִינַּהּ: בֵּית שַׁמַּאי הִיא, וְאַלִּיבָּא דְּרַבִּי יְהוּדָה.
+> **Translation:** **And learn from it** that if one has only one cup of wine, he may **recite two sanctifications over one cup,** as the *baraita* states that one may recite two entirely unrelated blessings over a single cup. **And learn from it** that **this** *baraita* **is** according to the ruling of **Beit Shammai, in accordance with** the explanation of **Rabbi Yehuda,** who says that Beit Shammai maintain that one should recite the blessing over fire before the blessing over spices.
+
 
 The Gemara derives a series of lessons from this *baraita*. Among the most significant: first, *birkat hamazon* requires a cup of wine, for if it did not, the scenario would present no difficulty in the first place. Tosafot notes that the plain reading implies this applies even when an individual recites *birkat hamazon* alone, without the presence of three or ten participants — though this is not standard contemporary practice.
 
@@ -30,9 +31,11 @@ Finally, the *baraita* teaches that *ta'am mavdil* — the fact that he ate befo
 
 ### Rav Ashi's Logic
 
-> **Hebrew/Aramaic:** רַב אָשֵׁי אָמַר: טְעָמוֹ פְּגָמוֹ וְכוֹס שֶׁל בְּרָכָה צָרִיךְ שִׁיעוּר — חֲדָא מִילְּתָא הִיא. וְהָכִי קָאָמַר: מַאי טַעְמָא טְעָמוֹ פְּגָמוֹ? מִשּׁוּם דְּכוֹס שֶׁל בְּרָכָה צָרִיךְ שִׁיעוּר.
->
-> **Translation:** **Rav Ashi said:** On close examination, two of the inferences from the *baraita*, the ruling that once one who has **tasted** the cup has **disqualified it and** the ruling that **a cup of blessing requires** a specific minimum **measure, are** actually **one matter** and should not be counted separately. Rav Ashi elaborates: **And this is** what the *baraita* **is saying: What is the reason** that once one has **tasted** the cup he has **disqualified it** from further usage as a cup of blessing? It is **because a cup of blessing requires** a specific minimum **measure.** Once one has tasted, there is not enough wine left in the cup. The disqualification is not because of the act of tasting itself. If enough wine remains in the cup after one has taken a sip, it may be used again as a cup of blessing. This ruling is not in accordance with the opinion of certain Sages, who maintain that sipping from the cup itself constitutes an inherent disqualification.
+> **Hebrew/Aramaic:** רַב אָשֵׁי אָמַר: טְעָמוֹ פְּגָמוֹ וְכוֹס שֶׁל בְּרָכָה צָרִיךְ שִׁיעוּר — חֲדָא מִילְּתָא הִיא.
+> **Translation:** **Rav Ashi said:** On close examination, two of the inferences from the *baraita*, the ruling that once one who has **tasted** the cup has **disqualified it and** the ruling that **a cup of blessing requires** a specific minimum **measure, are** actually **one matter** and should not be counted separately.
+
+> **Hebrew/Aramaic:** וְהָכִי קָאָמַר: מַאי טַעְמָא טְעָמוֹ פְּגָמוֹ? מִשּׁוּם דְּכוֹס שֶׁל בְּרָכָה צָרִיךְ שִׁיעוּר.
+> **Translation:** Rav Ashi elaborates: **And this is** what the *baraita* **is saying: What is the reason** that once one has **tasted** the cup he has **disqualified it** from further usage as a cup of blessing? It is **because a cup of blessing requires** a specific minimum **measure.** Once one has tasted, there is not enough wine left in the cup. The disqualification is not because of the act of tasting itself. If enough wine remains in the cup after one has taken a sip, it may be used again as a cup of blessing. This ruling is not in accordance with the opinion of certain Sages, who maintain that sipping from the cup itself constitutes an inherent disqualification.
 
 Rav Ashi raises a pointed observation. The Gemara had suggested that two separate lessons could be derived from the *baraita*: (1) that tasting wine renders the remainder *pagum* even if a sufficient quantity remains, and (2) that a minimum *shiur* of wine is required for a *kos shel beracha*. Rav Ashi argues that these are not two independent teachings but rather one unified concern — *chada milta hi*. The *baraita* may simply be describing a case where there is precisely a *revi'it* and nothing more. If so, when the person takes a sip, the remainder falls below the required *shiur*. There is no proof that the act of tasting creates any independent *pagum* status on wine that exceeds the minimum amount.
 
@@ -42,15 +45,17 @@ Tosafot clarifies that Rav Ashi does not necessarily dispute the underlying *hal
 
 ## Pagum Wine
 
-### Stringent Authorities
 
-> **Hebrew/Aramaic:** רַבִּי יַעֲקֹב בַּר אִידִי קָפֵיד אַחַצְבָּא פְּגִימָא. רַב אִידִי בַּר שִׁישָׁא קָפֵיד אַכָּסָא פְּגִימָא. מָר בַּר רַב אָשֵׁי קָפֵיד אֲפִילּוּ אַחָבִיתָא פְּגִימְתָּא.
->
-> **Translation:** The Gemara relates that **Rabbi Ya'akov bar Idi was particular with regard to a blemished pitcher,** i.e., he would not recite *kiddush* or *havdala* with a pitcher from which someone had already taken a sip. **Rav Idi bar Sheisha was particular with regard to a blemished cup. Mar bar Rav Ashi was particular even with regard to a blemished barrel** and would take wine for *kiddush* only from a previously unopened barrel.
+
+### Stringent Authorities
 
 The Gemara proceeds to discuss the practical scope of *pagum*. Rav Yaakov bar Idi was careful not to use a *chatzra* — a pitcher — that had been drunk from. Rav Idi bar Shisha was careful about a *kasa* — a cup — that had been drunk from. Mar bar Rav Ashi was careful even about a *chavita* — a barrel — that had been drunk from.
 
+> **Hebrew/Aramaic:** רַבִּי יַעֲקֹב בַּר אִידִי קָפֵיד אַחַצְבָּא פְּגִימָא. רַב אִידִי בַּר שִׁישָׁא קָפֵיד אַכָּסָא פְּגִימָא. מָר בַּר רַב אָשֵׁי קָפֵיד אֲפִילּוּ אַחָבִיתָא פְּגִימְתָּא.
+> **Translation:** The Gemara relates that **Rabbi Ya’akov bar Idi was particular with regard to a blemished pitcher,** i.e., he would not recite *kiddush* or *havdala* with a pitcher from which someone had already taken a sip. **Rav Idi bar Sheisha was particular with regard to a blemished cup. Mar bar Rav Ashi was particular even with regard to a blemished barrel** and would take wine for *kiddush* only from a previously unopened barrel.
+
 ### What Pagum Means
+
 
 The concept of *pagum* requires careful definition. At first glance one might think this concerns the principle of *mitzvot chavilot chavilot* — that once a vessel has been used for one *mitzvah* it cannot be used for another. But that is not the correct understanding. The issue is specifically that someone drank directly from the container. Once a person drinks directly from a pitcher, cup, or barrel, whatever remains in that container cannot be used for a ritual act, even if the quantity remains sufficient and even if the initial drinking had nothing whatsoever to do with any *mitzvah*. A person who tastes wine from a barrel to assess its quality — entirely outside any ritual context — has nonetheless rendered the remaining contents *pagum*.
 
@@ -76,7 +81,9 @@ This immediately raises a question: why did the Gemara not suggest this solution
 
 The Yerushalmi's principle is the basis for standard practice. After making *havdalah* and drinking a portion of the cup, one adds a drop of wine to the remaining contents and pours it back into the bottle. This restores the cup's status, so the returned wine is not considered *pagum*.
 
-A subtle point must be observed, however. The logical direction of the restoration matters. One must add wine *into* the *kos* — bringing new wine to the container that was drunk from — and then pour the combined contents back into the bottle. One may not simply pour the *pagum* remnant from the *kos* back into the bottle, because that would be moving the *pagum* wine into the bottle rather than restoring the *kos* itself. Pouring *pagum* wine into a bottle creates a question of *rov* — if the bottle's wine constitutes the majority, the mixture may be acceptable *bedieved*, but *lechatchila* this approach is not followed. The proper practice is the reverse: pour fresh wine into the *kos*, thereby restoring it, and then return everything to the bottle.
+A subtle point must be observed, however. The logical direction of the restoration matters. One must add wine *into* the *kos* — bringing new wine to the container that was drunk from — and then pour the combined contents back into the bottle. One may not simply pour the *pagum* remnant from the *kos* back into the bottle, because that would be moving the *pagum* wine into the bottle rather than restoring the *kos* itself. The focus, as we see throughout the Gemara's treatment of this topic, is on the container that was drunk from: it is that vessel whose status must be altered. Pouring *pagum* wine into a bottle creates a question of *rov* — if the bottle's wine constitutes the majority, the mixture may be acceptable *bedieved*, but *lechatchila* this approach is not followed. The proper practice is the reverse: pour fresh wine into the *kos*, thereby restoring it, and then return everything to the bottle.
+
+It is also worth noting that adopting this Yerushalmi-based ruling is not entirely without methodological tension. In principle, a *machloket* between the Bavli and Yerushalmi would ordinarily be resolved in favor of the Bavli; here, however, the Yerushalmi is not straightforwardly contradicting the Bavli but rather supplying a point the Bavli did not articulate. Even so, one could argue that the Bavli's silence is itself significant — had this solution been available, the Gemara would presumably have offered it. What gave decisive pressure toward incorporating the Yerushalmi's ruling was the practical need, already evident in *Tosafot*'s invocation of *sha'at hadechak*, to find a workable resolution to the *pagum* problem.
 
 The question of dilution that arose in antiquity — the Gemara's presumption that wine was routinely mixed with water in a three-to-one ratio — should not be confused with questions about alcohol percentage. The relevant measure is the proportion of original wine content relative to added water, not the strength of the drink.
 
@@ -84,19 +91,24 @@ The question of dilution that arose in antiquity — the Gemara's presumption th
 
 ## Sources & Foundations
 
+
+
 ### Zachor Source
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: ״זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ״ — זוֹכְרֵהוּ עַל הַיַּיִן.
->
-> **Translation:** **The Sages taught** in a *baraita* with regard to the verse: **"Remember the day of Shabbat to sanctify it"** (Exodus 20:7): **Remember it over wine,** through the recitation of *kiddush*.
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: ״זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ״ — זוֹכְרֵהוּ עַל הַיַּיִן. אֵין לִי אֶלָּא בְּיוֹם, בַּלַּיְלָה מִנַּיִן? תַּלְמוּד לוֹמַר: ״זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ״.
+> **Translation:** **The Sages taught** in a *baraita* with regard to the verse: **“Remember the day of Shabbat to sanctify it”** (Exodus 20:7): **Remember it over wine,** through the recitation of *kiddush*. **I have only** derived that there is a mitzva to recite *kiddush* **during the day,** as the verse is referring to the day of Shabbat. **From where** do I derive that one must also recite *kiddush* **at night? The verse states: “Remember the day of Shabbat to sanctify it,”** which indicates that one should also remember Shabbat as soon as it is sanctified.
+
+> **Hebrew/Aramaic:** ״בַּלַּיְלָה מִנַּיִן״?! אַדְּרַבָּה, עִיקַּר קִדּוּשָׁא בַּלַּיְלָה הוּא קָדֵישׁ, דְּכִי קָדֵישׁ — תְּחִלַּת יוֹמָא בָּעֵי לְקַידּוֹשֵׁי! וְתוּ: ״בַּלַּיְלָה מִנַּיִן תַּלְמוּד לוֹמַר: זָכוֹר אֶת יוֹם״, תַּנָּא מְיהַדַּר אַלַּיְלָה וְקָא נָסֵיב לֵיהּ קְרָא דִּימָמָא?!
+> **Translation:** The Gemara expresses surprise at this last question: **From where** is it derived that one must recite *kiddush* **at night?** Is this the appropriate question? **On the contrary, the essential** mitzva of ***kiddush* is to sanctify** the day **at night, as** one **must sanctify the beginning of the day,** i.e., Friday night; there is no reason to sanctify Shabbat in the middle of the day, i.e., in the morning. **And furthermore,** the continuation of the *baraita* states: **From where** do we derive the obligation of *kiddush* **at night? The verse states: “Remember the day of Shabbat.” The *tanna* is seeking** a source for *kiddush* **at night, and** yet he **cites a verse** that is referring **to the day.**
+
+> **Hebrew/Aramaic:** הָכִי קָאָמַר: ״זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ״ — זוֹכְרֵהוּ עַל הַיַּיִן בִּכְנִיסָתוֹ, אֵין לִי אֶלָּא בַּלַּיְלָה, בַּיּוֹם מִנַּיִן? תַּלְמוּד לוֹמַר: ״זָכוֹר אֶת יוֹם הַשַּׁבָּת״.
+> **Translation:** The Gemara answers that **this is** what the *tanna* **is saying: “Remember the day of Shabbat to sanctify it”** is a mitzva to **remember it over wine when it begins. I have only** derived the obligation to recite *kiddush* **at night; from where** do I derive that one must also recite *kiddush* **during the day? The verse states: “Remember the day of Shabbat.”** The emphasis of the word day indicates that one must recite *kiddush* again during the day.
 
 A *baraita* now addresses the biblical basis for *kiddush* on wine. The verse *Zachor et yom haShabbat l'kadsho* — Remember the Sabbath day to sanctify it — is interpreted as *zachrehu al hayayin b'knisato*: declare and commemorate it over wine at its entry. From this the *baraita* derives the obligation to recite *kiddush* over wine.
 
-### Day vs. Night
+The *baraita* then raises a question that turns out to be more surprising than it initially appears. *Ein li ela b'yom* — I only know that *kiddush* is performed during the day, from the verse's reference to *yom haShabbat*. *Balaila minayin* — how do we know the obligation applies at night as well? At first glance this seems like a reasonable gap to fill. But the Gemara pushes back: *adaraba* — on the contrary. *Ikar kiddusha b'leilya hu*: the essential, primary *kiddush* is at night. The logic is that *kiddush* marks the sanctification of *Shabbat* at its onset, *techilat yoma bei kiddusha* — the beginning of the day requires sanctification — and it is at nightfall that *Shabbat* enters and is declared. The question of how the daytime and nighttime obligations each find their biblical footing is resolved in the section that follows.
 
-> **Hebrew/Aramaic:** אֵין לִי אֶלָּא בְּיוֹם, בַּלַּיְלָה מִנַּיִן? תַּלְמוּד לוֹמַר: ״זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ״. אַדְּרַבָּה, עִיקַּר קִדּוּשָׁא בַּלַּיְלָה הוּא קָדֵישׁ, דְּכִי קָדֵישׁ — תְּחִלַּת יוֹמָא בָּעֵי לְקַידּוֹשֵׁי! הָכִי קָאָמַר: ״זָכוֹר אֶת יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ״ — זוֹכְרֵהוּ עַל הַיַּיִן בִּכְנִיסָתוֹ, אֵין לִי אֶלָּא בַּלַּיְלָה, בַּיּוֹם מִנַּיִן? תַּלְמוּד לוֹמַר: ״זָכוֹר אֶת יוֹם הַשַּׁבָּת״.
->
-> **Translation:** **I have only** derived that there is a mitzva to recite *kiddush* **during the day,** as the verse is referring to the day of Shabbat. **From where** do I derive that one must also recite *kiddush* **at night? The verse states: "Remember the day of Shabbat to sanctify it,"** which indicates that one should also remember Shabbat as soon as it is sanctified. The Gemara expresses surprise at this last question: **From where** is it derived that one must recite *kiddush* **at night?** Is this the appropriate question? **On the contrary, the essential** mitzva of ***kiddush* is to sanctify** the day **at night, as** one **must sanctify the beginning of the day,** i.e., Friday night; there is no reason to sanctify Shabbat in the middle of the day, i.e., in the morning. The Gemara answers that **this is** what the *tanna* **is saying: "Remember the day of Shabbat to sanctify it"** is a mitzva to **remember it over wine when it begins. I have only** derived the obligation to recite *kiddush* **at night; from where** do I derive that one must also recite *kiddush* **during the day? The verse states: "Remember the day of Shabbat."** The emphasis of the word day indicates that one must recite *kiddush* again during the day.
+### Day vs. Night
 
 The *baraita* initially reads the verse as establishing a daytime obligation — *yom haShabbat* — and asks how we know the obligation applies at night as well. The Gemara then reverses course: the primary logic actually points to *kiddush* at night, because it is at the entry of *Shabbat*, the moment of sanctification, that one declares its identity. The verse's reference to "the day" provides a secondary, additional source for the daytime *kiddush*.
 
@@ -104,13 +116,19 @@ Rav Yehuda states that the daytime *kiddush* consists solely of *borei pri hagaf
 
 ### Rav Ashi Unsure
 
-> **Hebrew/Aramaic:** בְּיוֹם מַאי מְבָרֵךְ? אָמַר רַב יְהוּדָה: ״בּוֹרֵא פְּרִי הַגֶּפֶן״. רַב אָשֵׁי אִיקְּלַע לְמָחוֹזָא, אֲמַרוּ לֵיהּ: לִיקַדֵּישׁ לַן מָר קִידּוּשָׁא רַבָּה (הַבוּ לֵיהּ). סְבַר: מַאי נִיהוּ ״קִידּוּשָׁא רַבָּה״? אָמַר, מִכְּדֵי כׇּל הַבְּרָכוֹת כּוּלָּן ״בּוֹרֵא פְּרִי הַגֶּפֶן״ אָמְרִי בְּרֵישָׁא, אֲמַר ״בּוֹרֵא פְּרִי הַגֶּפֶן״ וְאַגֵּיד בֵּיהּ. חַזְיֵיהּ לְהָהוּא סָבָא דְּגָחֵין וְשָׁתֵי, קָרֵי אַנַּפְשֵׁיהּ ״הֶחָכָם עֵינָיו בְּרֹאשׁוֹ״.
->
-> **Translation:** The Gemara asks: **During the day,** when one does not recite the same *kiddush* as at night, **what blessing does one recite? Rav Yehuda said:** Before the meal, one brings a cup of wine and simply recites the usual blessing over wine: **Who creates the fruit of the vine.** The Gemara relates that **Rav Ashi happened to** come to the city of **Meḥoza.** The Sages of Meḥoza **said to him** on Shabbat day: Will **the Master recite for us the great *kiddush*?** And they immediately **brought him** a cup of wine. Rav Ashi was unsure what they meant by the term great *kiddush* and wondered if the residents of Meḥoza included other matters in their *kiddush*. **He thought: What is this great *kiddush*** to which they refer? **He said** to himself: **Since** with regard to **all the blessings** that require a cup of wine, **one first recites** the blessing: **Who creates the fruit of the vine,** I will start with that blessing. **He recited: Who creates the fruit of the vine, and lengthened it** to see if they were expecting an additional blessing. **He saw a particular elder bending over his cup and drinking,** and he realized that this was the end of the great *kiddush*. **He read** the following verse **about himself: "The wise man, his eyes are in his head"** (Ecclesiastes 2:14), as he was alert enough to discern the expectations of the local residents.
+> **Hebrew/Aramaic:** בְּיוֹם מַאי מְבָרֵךְ? אָמַר רַב יְהוּדָה: ״בּוֹרֵא פְּרִי הַגֶּפֶן״. רַב אָשֵׁי אִיקְּלַע לְמָחוֹזָא, אֲמַרוּ לֵיהּ: לִיקַדֵּישׁ לַן מָר קִידּוּשָׁא רַבָּה (הַבוּ לֵיהּ).
+> **Translation:** The Gemara asks: **During the day,** when one does not recite the same *kiddush* as at night, **what blessing does one recite? Rav Yehuda said:** Before the meal, one brings a cup of wine and simply recites the usual blessing over wine: **Who creates the fruit of the vine.** The Gemara relates that **Rav Ashi happened to** come to the city of **Meḥoza.** The Sages of Meḥoza **said to him** on Shabbat day: Will **the Master recite for us the great *kiddush*?** And they immediately **brought him** a cup of wine.
+
+> **Hebrew/Aramaic:** סְבַר: מַאי נִיהוּ ״קִידּוּשָׁא רַבָּה״? אָמַר, מִכְּדֵי כׇּל הַבְּרָכוֹת כּוּלָּן ״בּוֹרֵא פְּרִי הַגֶּפֶן״ אָמְרִי בְּרֵישָׁא, אֲמַר ״בּוֹרֵא פְּרִי הַגֶּפֶן״ וְאַגֵּיד בֵּיהּ. חַזְיֵיהּ לְהָהוּא סָבָא דְּגָחֵין וְשָׁתֵי, קָרֵי אַנַּפְשֵׁיהּ ״הֶחָכָם עֵינָיו בְּרֹאשׁוֹ״.
+> **Translation:** Rav Ashi was unsure what they meant by the term great *kiddush* and wondered if the residents of Meḥoza included other matters in their *kiddush*. **He thought: What is this great *kiddush*** to which they refer? **He said** to himself: **Since** with regard to **all the blessings** that require a cup of wine, **one first recites** the blessing: **Who creates the fruit of the vine,** I will start with that blessing. **He recited: Who creates the fruit of the vine, and lengthened it** to see if they were expecting an additional blessing. **He saw a particular elder bending over his cup and drinking,** and he realized that this was the end of the great *kiddush*. **He read** the following verse **about himself: “The wise man, his eyes are in his head”** (Ecclesiastes 2:14), as he was alert enough to discern the expectations of the local residents.
 
 The Gemara records a remarkable incident involving Rav Ashi. He arrived in Mechuza, and those present asked him to make for them *Kiddusha Rabba* — the daytime *Shabbat* *kiddush*. Rav Ashi did not know what was meant by this phrase, nor apparently did he know the practice. A cup of wine was placed before him. He reasoned: any ritual act involving wine begins with *borei pri hagafen*, so he would begin there. He extended the recitation of *borei pri hagafen*, waiting for some cue, until he observed an elderly man leaning forward to drink — signaling that the *kiddush* was complete. Rav Ashi then quoted to himself the verse from *Kohelet*, *hechacham einav b'rosho* — the wise man has his eyes in his head — congratulating himself for having had the foresight to start with *borei pri hagafen* regardless.
 
+The Rashbam notes that the name *Kiddusha Rabba* — the great *kiddush* — is itself something of a euphemism, since *borei pri hagafen* is said at every *kiddush*, making this "great" *kiddush* in practice the lesser one. Rav Ashi's reasoning was in fact based on this same universality: he understood that *borei pri hagafen* is always the opening *bracha* whenever wine is present, whether at *kiddush*, *havdalah*, or *birkat hamazon*. Everything that precedes or follows — the *psukim*, the *Vayechulu*, the *hineni muchan* — is not halachically constitutive of the *bracha* itself; the *bracha* begins with *borei pri hagafen*. So whatever this *Kiddusha Rabba* turned out to be, he could at least start on the right foot.
+
 The episode is striking on multiple levels. Here is Rav Ashi — one of the latest and most authoritative *amoraim* — apparently unacquainted with the very existence of daytime *Shabbat* *kiddush* as a distinct practice, and navigating a public ritual by reading the crowd rather than by announcing his uncertainty. It underscores just how much of the *halacha* of this period was still in flux and how heavily practices were observed and transmitted through direct observation of teachers and community customs.
+
+This also sharpens a broader question about the status of daytime *kiddush*. Nighttime *kiddush* is broadly understood to be *de'oraita*; daytime *kiddush* is by near-consensus not *de'oraita* and belongs to a different category entirely. And if the daytime *kiddush* consists of nothing more than *borei pri hagafen*, one has to ask in what sense it functions as *kiddush* at all. The *braita* calls it *kiddush*, and that designation matters — above all, it means one may not eat before reciting it, which is precisely what distinguishes it from merely having wine with one's meal as part of *oneg Shabbat*. The Rambam speaks of the value of having all three *Shabbat* meals with wine for *oneg Shabbat*, and the structural difference between the second meal's *kiddush* and the third meal's wine is exactly this: the *kiddush* must precede and initiate the meal, whereas wine at the third meal may come during it. But the question of whether the wine itself is required *mid'oraita* — a question Tosafot will take up in considering the nature of *kiddush al hakos* — is treated more fully in what follows.
 
 ### Vayechulu Origins
 
@@ -136,29 +154,35 @@ Regarding *Vayechulu*, the Rambam describes its recitation before *kiddush* as *
 
 ## Postponing Havdalah
 
+
+
 ### Havdalah Timeline
 
-> **Hebrew/Aramaic:** אָמְרִי בְּנֵי רַבִּי חִיָּיא: מִי שֶׁלֹּא הִבְדִּיל בְּמוֹצָאֵי שַׁבָּת — מַבְדִּיל וְהוֹלֵךְ בְּכׇל הַשַּׁבָּת כּוּלּוֹ. וְעַד כַּמָּה? אָמַר רַבִּי זֵירָא: עַד רְבִיעִי בְּשַׁבָּת. כִּי הָא דְּיָתֵיב רַבִּי זֵירָא קַמֵּיהּ דְּרַב אַסִּי, וְאָמְרִי לַהּ רַב אַסִּי קַמֵּיהּ דְּרַבִּי יוֹחָנָן, וְיָתֵיב וְקָאָמַר: לְעִנְיַן גִּיטִּין, חֲדָא בְּשַׁבְּתָא תְּרֵי וּתְלָתָא — בָּתַר שַׁבְּתָא. אַרְבַּע וְחַמְשָׁא וּמַעֲלֵי יוֹמָא — קַמֵּי שַׁבְּתָא.
->
-> **Translation:** **The sons of Rabbi Ḥiyya say: One who did not recite *havdala* at the conclusion of Shabbat** may **recite *havdala* anytime** over the course of **the entire week.** The Gemara asks: **And until how many** days of that week have passed may one still recite *havdala*? **Rabbi Zeira said: Until the fourth** day **of the week,** Wednesday, after which it is no longer considered the same week as the previous Shabbat. This is **like that** ruling of *halakha* stated when **Rabbi Zeira sat before Rav Asi, and some say it** was **Rav Asi** who sat **before Rabbi Yoḥanan. And he sat and said: With regard to** the wording of **bills of divorce,** the **first** day of **the week** and the **second and third** days of the week are all called: **After Shabbat.** If a bill of divorce or a condition upon which the document depends includes the phrase: After Shabbat, it refers to one of the first three days of the week. However, the **fourth** and **fifth** days of the week **and** the **eve of the day** of Shabbat are called: **Before Shabbat.** Likewise, with regard to *havdala*, the first three days of the week are considered the time period after Shabbat, and therefore one may still recite *havdala* on these days.
+> **Hebrew/Aramaic:** אָמְרִי בְּנֵי רַבִּי חִיָּיא: מִי שֶׁלֹּא הִבְדִּיל בְּמוֹצָאֵי שַׁבָּת — מַבְדִּיל וְהוֹלֵךְ בְּכׇל הַשַּׁבָּת כּוּלּוֹ. וְעַד כַּמָּה? אָמַר רַבִּי זֵירָא: עַד רְבִיעִי בְּשַׁבָּת.
+> **Translation:** As stated above, **the sons of Rabbi Ḥiyya say: One who did not recite *havdala* at the conclusion of Shabbat** may **recite *havdala* anytime** over the course of **the entire week.** The Gemara asks: **And until how many** days of that week have passed may one still recite *havdala*? **Rabbi Zeira said: Until the fourth** day **of the week,** Wednesday, after which it is no longer considered the same week as the previous Shabbat.
 
-A *baraita* quoted by the sons of Rabbi Chiya establishes that one who failed to make *havdalah* on *motzaei Shabbat* may make it up later in the week. Rabbi Zeira states that this window extends through Tuesday — *ad revii b'Shabbat*, meaning through the end of Tuesday — since Sunday, Monday, and Tuesday are halachically associated with the preceding *Shabbat*, while Wednesday, Thursday, and Friday are associated with the coming *Shabbat*. This is not merely an abstract framework; it has practical grounding in the laws of conditional *gittin*, where stipulations framed as "after *Shabbat*" are understood to apply through Tuesday and "before *Shabbat*" applies from Wednesday onward.
+> **Hebrew/Aramaic:** כִּי הָא דְּיָתֵיב רַבִּי זֵירָא קַמֵּיהּ דְּרַב אַסִּי, וְאָמְרִי לַהּ רַב אַסִּי קַמֵּיהּ דְּרַבִּי יוֹחָנָן, וְיָתֵיב וְקָאָמַר: לְעִנְיַן גִּיטִּין, חֲדָא בְּשַׁבְּתָא תְּרֵי וּתְלָתָא — בָּתַר שַׁבְּתָא. אַרְבַּע וְחַמְשָׁא וּמַעֲלֵי יוֹמָא — קַמֵּי שַׁבְּתָא.
+> **Translation:** This is **like that** ruling of *halakha* stated when **Rabbi Zeira sat before Rav Asi, and some say it** was **Rav Asi** who sat **before Rabbi Yoḥanan. And he sat and said: With regard to** the wording of **bills of divorce,** the **first** day of **the week** and the **second and third** days of the week are all called: **After Shabbat.** If a bill of divorce or a condition upon which the document depends includes the phrase: After Shabbat, it refers to one of the first three days of the week. However, the **fourth** and **fifth** days of the week **and** the **eve of the day** of Shabbat are called: **Before Shabbat.** Likewise, with regard to *havdala*, the first three days of the week are considered the time period after Shabbat, and therefore one may still recite *havdala* on these days.
+
+A *baraita* quoted by the sons of Rabbi Chiya establishes that one who failed to make *havdalah* on *motzaei Shabbat* may make it up later in the week. Rabbi Zeira states that this window extends through Tuesday — *ad revii b'Shabbat*, meaning through the end of Tuesday — since Sunday, Monday, and Tuesday are halachically associated with the preceding *Shabbat*, while Wednesday, Thursday, and Friday are associated with the coming *Shabbat*. This is not merely an abstract framework; it has practical grounding in the laws of conditional *gittin*, where stipulations framed as "after *Shabbat*" are understood to apply through Tuesday and "before *Shabbat*" applies from Wednesday onward. Those days carry a fixed halachic identity — they belong, as it were, to one *Shabbat* or the other — and it is precisely that identity which gives the *havdalah* made within that window its continuing force as an act of demarcation between *Shabbat* and the weekdays that follow it.
 
 The idea that one may formally demarcate the conclusion of *Shabbat* on a Tuesday, after presumably having performed *melacha* and eaten normally for two days, is admittedly striking. Yet the halachic principle holds that the formal act of *havdalah* still carries significance as an act of demarcation even then.
 
 ### Fire Exception
 
-> **Hebrew/Aramaic:** אָמַר רַבִּי יַעֲקֹב בַּר אִידִי: אֲבָל לֹא עַל הָאוּר.
->
-> **Translation:** **Rabbi Ya'akov bar Idi said: However,** one who recites *havdala* during this time period may **not** recite the blessing **over fire.** This blessing may be recited only at the conclusion of Shabbat, at the time when fire was originally created.
+> **Hebrew/Aramaic:** אָמַר רַבִּי יַעֲקֹב בַּר אִידִי: אֲבָל לֹא עַל הָאוּר.
+> **Translation:** **Rabbi Ya’akov bar Idi said: However,** one who recites *havdala* during this time period may **not** recite the blessing **over fire.** This blessing may be recited only at the conclusion of Shabbat, at the time when fire was originally created.
 
 Rabbi Yaakov bar Idi limits the above: the make-up *havdalah* applies to all the standard components except the blessing over fire. The *beracha* over *aish* may not be recited later in the week. The reason is that the kindling of fire is associated with a specific historical moment — the original creation of fire at the close of the first *Shabbat*. The blessing is meant to commemorate *techilat yetzirah shel ha'ur* at the moment it occurred, and that moment is *motzaei Shabbat* itself. While the other elements of *havdalah* function as acts of demarcation that remain meaningful throughout those early days of the week, the fire blessing is tied to a singular historical commemoration and cannot be separated from its original context.
 
+[DAF:106b]
 ### Hand Washing
 
-> **Hebrew/Aramaic:** אָמַר רַב בְּרוֹנָא אָמַר רַב: הַנּוֹטֵל יָדָיו לֹא יְקַדֵּשׁ.
->
-> **Translation:** **Rav Beruna said** that **Rav said: One who washes his hands** should **not recite *kiddush*** after washing, as this would constitute an interruption between washing and eating, and he will have to wash again.
+> **Hebrew/Aramaic:** אָמַר רַב בְּרוֹנָא אָמַר רַב:
+> **Translation:** **Rav Beruna said** that **Rav said:**
+
+> **Hebrew/Aramaic:** הַנּוֹטֵל יָדָיו לֹא יְקַדֵּשׁ. אֲמַר לְהוּ רַב יִצְחָק בַּר שְׁמוּאֵל בַּר מָרְתָא: אַכַּתִּי לָא נָח נַפְשֵׁיהּ דְּרַב שְׁכַחְנִינְהוּ לִשְׁמַעְתְּתֵיהּ. זִמְנִין סַגִּיאִין הֲוָה קָאֵימְנָא קַמֵּיהּ דְּרַב, זִימְנִין דַּחֲבִיבָא עֲלֵיהּ רִיפְתָּא — מְקַדֵּשׁ אַרִיפְתָּא. זִימְנִין דַּחֲבִיבָא לֵיהּ חַמְרָא — מְקַדֵּשׁ אַחַמְרָא.
+> **Translation:** **One who washes his hands** should **not recite *kiddush*** after washing, as this would constitute an interruption between washing and eating, and he will have to wash again. Instead, he should hear *kiddush* from someone else. **Rav Yitzḥak bar Shmuel bar Marta said to them: Not** a lot of time has **yet** passed since **Rav died,** and **we have** already **forgotten his** halakhic **rulings. Many times I stood before Rav** and saw that **sometimes he preferred bread,** and **he would recite *kiddush* over bread.** On those occasions Rav would wash his hands, recite *kiddush* over the bread, and eat it. **At** other **times he preferred wine** and **would recite *kiddush* over wine.** This shows that *kiddush* is not considered an interruption between washing one’s hands and eating bread.
 
 Rav Bruna cites a ruling in the name of Rav: *hanotel yadav lo yekadesh* — one who has already washed his hands for a meal should not then make *kiddush*. According to the Rashbam, the concern is *hefsek*: having washed for *hamotzi*, one must proceed directly to bread, and reciting *borei pri hagafen* for *kiddush* in the interval would constitute an interruption. The Rashbam therefore holds that in this situation one should ideally hear *kiddush* from someone else; if no one else is available, one may have no choice but to wash again afterward.
 
@@ -166,11 +190,9 @@ Rav Bruna cites a ruling in the name of Rav: *hanotel yadav lo yekadesh* — one
 
 ## Washing & Kiddush
 
-### Rav Yitzchak Challenge
 
-> **Hebrew/Aramaic:** אֲמַר לְהוּ רַב יִצְחָק בַּר שְׁמוּאֵל בַּר מָרְתָא: אַכַּתִּי לָא נָח נַפְשֵׁיהּ דְּרַב שְׁכַחְנִינְהוּ לִשְׁמַעְתְּתֵיהּ. זִמְנִין סַגִּיאִין הֲוָה קָאֵימְנָא קַמֵּיהּ דְּרַב, זִימְנִין דַּחֲבִיבָא עֲלֵיהּ רִיפְתָּא — מְקַדֵּשׁ אַרִיפְתָּא. זִימְנִין דַּחֲבִיבָא לֵיהּ חַמְרָא — מְקַדֵּשׁ אַחַמְרָא.
->
-> **Translation:** **Rav Yitzḥak bar Shmuel bar Marta said to them: Not** a lot of time has **yet** passed since **Rav died,** and **we have** already **forgotten his** halakhic **rulings. Many times I stood before Rav** and saw that **sometimes he preferred bread,** and **he would recite *kiddush* over bread.** On those occasions Rav would wash his hands, recite *kiddush* over the bread, and eat it. **At** other **times he preferred wine** and **would recite *kiddush* over wine.** This shows that *kiddush* is not considered an interruption between washing one's hands and eating bread.
+
+### Rav Yitzchak Challenge
 
 Rav Yitzchak bar Shmuel bar Marta challenges Rav Bruna's ruling sharply. He declares: Rav is barely gone and we have already forgotten his teachings! He then testifies from his own extensive direct observation of Rav's practice.
 
@@ -183,6 +205,8 @@ Rav Yitzchak bar Shmuel bar Marta reports: *zimnin dechaviva leih rifta mekadesh
 ### Rashbam Hefsek
 
 The Rashbam reads the passage literally: Rav would sometimes wash his hands in preparation for bread, then change his mind and make *kiddush* on wine. The point of the testimony is that Rav would change course midway — washing for bread, then interposing *kiddush* on wine before proceeding to *hamotzi* — and this demonstrates that doing so is not an impermissible *hefsek*, at minimum *bedieved*. The Rashbam's reading preserves the concern of *hefsek* in principle while showing that Rav's practice establishes that it is not fatal.
+
+Embedded in the Rashbam's reading, however, is something genuinely surprising: the idea that *kiddush* can be made on bread at all. It is worth pausing on how radical this notion is. *Kiddush* is, of course, on wine — whoever heard otherwise? Yet because the passage simply drops this possibility without fanfare, the Rashbam, the Rambam, and the *Shulchan Aruch* all take it as given that one may make *kiddush* on bread when wine is unavailable or undesired. This makes the earlier discussions in the *sugya* — all the careful attention to *cosos*, to what one does without wine — seem almost undone by a single offhand remark. For all that, Rabbeinu Tam rejects this reading entirely, insisting that *kiddush* on bread is simply not *pshat* — a question the next section addresses directly.
 
 ### Tosafot B'Makom
 
@@ -199,6 +223,8 @@ Once the concern of *hefsek* is removed entirely, the practical ramification bec
 ---
 
 ## Alt. Beverages
+
+
 
 ### Chamar Medina
 
@@ -224,10 +250,11 @@ The practical upshot: one should be considerably more *makpid* regarding the use
 
 ## Eating Before
 
+
+
 ### Ta'am Dispute
 
-> **Hebrew/Aramaic:** אָמַר רַב הוּנָא אָמַר רַב: טָעַם אֵינוֹ מְקַדֵּשׁ. בְּעָא מִינֵּיהּ רַב חָנָא בַּר חִינָּנָא מֵרַב הוּנָא: טָעַם מַהוּ שֶׁיַּבְדִּיל? אֲמַר לֵיהּ, אֲנִי אוֹמֵר: טָעַם — מַבְדִּיל, וְרַב אַסִּי אָמַר: טָעַם — אֵינוֹ מַבְדִּיל.
->
+> **Hebrew/Aramaic:** אָמַר רַב הוּנָא אָמַר רַב: טָעַם אֵינוֹ מְקַדֵּשׁ. בְּעָא מִינֵּיהּ רַב חָנָא בַּר חִינָּנָא מֵרַב הוּנָא: טָעַם מַהוּ שֶׁיַּבְדִּיל? אֲמַר לֵיהּ, אֲנִי אוֹמֵר: טָעַם — מַבְדִּיל, וְרַב אַסִּי אָמַר: טָעַם — אֵינוֹ מַבְדִּיל.
 > **Translation:** **Rav Huna said** that **Rav said:** One who has **tasted** any food on Shabbat night may **not recite *kiddush*** anymore that night, as one must recite *kiddush* before he eats. Instead, he recites *kiddush* during the day before the meal. **Rav Ḥana bar Ḥinnana raised a dilemma before Rav Huna:** If one **tasted** food at the conclusion of Shabbat before reciting *havdala*, **what is** the *halakha* with regard **to** whether **he** may **recite *havdala*? He said to him: I say** that one who has **tasted** food may still **recite *havdala*. And Rav Asi said:** One who has **tasted** food may **not recite *havdala*.**
 
 The final topic of the daf concerns eating or tasting food before *kiddush* or *havdalah*. Rav Huna, citing Rav, rules: *ta'am eino mekadesh* — if one has tasted food, one may no longer make *kiddush*. The question posed to Rav Huna is whether *havdalah* follows the same rule: *ta'am mahu sheyavdil* — does tasting food preclude *havdalah* as well?
@@ -238,9 +265,8 @@ The underlying logic of the debate tracks the structural differences between the
 
 ### Yirmiah Case
 
-> **Hebrew/Aramaic:** רַב יִרְמְיָה בַּר אַבָּא אִיקְּלַע לְבֵי רַב אַסִּי, אִישְׁתְּלִי וְטָעִים מִידֵּי, הַבוּ לֵיהּ כָּסָא וְאַבְדֵּיל. אֲמַרָה לֵיהּ דְּבֵיתְהוּ: וְהָא מָר לָא עָבֵיד הָכִי! אֲמַר לַהּ: שִׁבְקֵיהּ, כְּרַבֵּיהּ סְבִירָא לֵיהּ.
->
-> **Translation:** The Gemara relates that **Rav Yirmeya bar Abba happened to** come to **the house of Rav Asi. He forgot and tasted some** food after Shabbat before *havdala*. **They gave him a cup and he recited *havdala*.** Later, Rav Asi's **wife said to** her husband: **But** my **Master does not act this way.** In your opinion, one who eats before *havdala* does not recite *havdala*. **He said to her: Leave** Rav Yirmeya bar Abba. **He maintains in accordance with** the opinion of **his rabbi.** Rav Yirmeya bar Abba was a student of Rav, who ruled that even one who has eaten may recite *havdala*.
+> **Hebrew/Aramaic:** רַב יִרְמְיָה בַּר אַבָּא אִיקְּלַע לְבֵי רַב אַסִּי, אִישְׁתְּלִי וְטָעִים מִידֵּי, הַבוּ לֵיהּ כָּסָא וְאַבְדֵּיל. אֲמַרָה לֵיהּ דְּבֵיתְהוּ: וְהָא מָר לָא עָבֵיד הָכִי! אֲמַר לַהּ: שִׁבְקֵיהּ, כְּרַבֵּיהּ סְבִירָא לֵיהּ.
+> **Translation:** The Gemara relates that **Rav Yirmeya bar Abba happened to** come to **the house of Rav Asi. He forgot and tasted some** food after Shabbat before *havdala*. **They gave him a cup and he recited *havdala*.** Later, Rav Asi’s **wife said to** her husband: **But** my **Master does not act this way.** In your opinion, one who eats before *havdala* does not recite *havdala*. **He said to her: Leave** Rav Yirmeya bar Abba. **He maintains in accordance with** the opinion of **his rabbi.** Rav Yirmeya bar Abba was a student of Rav, who ruled that even one who has eaten may recite *havdala*.
 
 The dispute plays out in a vivid anecdote. Rabbi Yirmiyah bar Abba came to the home of Rav Assi as a guest. Rabbi Yirmiyah absentmindedly ate something after nightfall — *ishtali v'ta'im midei* — and then *havdalah* was brought before him, which he proceeded to recite. Rav Assi's wife observed this and pointed out to her husband: but you, Master, do not do this — you hold that one who has tasted may not make *havdalah*. Rav Assi replied: leave him alone — *shavkei* — he follows his own *rebbe*, who is Rav Huna, and Rav Huna holds that *ta'am mavdil*. He is acting in accordance with his own tradition and that is entirely acceptable.
 
@@ -248,9 +274,8 @@ The detail that Rav Assi's wife was familiar with her husband's ruling — and r
 
 ### Final Rulings
 
-> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף אָמַר שְׁמוּאֵל: טָעַם — אֵינוֹ מְקַדֵּשׁ, טָעַם — אֵינוֹ מַבְדִּיל. וְרַבָּה אָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: טָעַם — מְקַדֵּשׁ, וְטָעַם — מַבְדִּיל. אָמַר רָבָא: הִילְכְתָא, טָעַם — מְקַדֵּשׁ, וְטָעַם — מַבְדִּיל, וּמִי שֶׁלֹּא קִידֵּשׁ בְּעֶרֶב שַׁבָּת — מְקַדֵּשׁ וְהוֹלֵךְ כׇּל הַיּוֹם כּוּלּוֹ עַד מוֹצָאֵי שַׁבָּת. מִי שֶׁלֹּא הִבְדִּיל בְּמוֹצָאֵי שַׁבָּת — מַבְדִּיל וְהוֹלֵךְ כׇּל הַשַּׁבָּת כּוּלּוֹ.
->
-> **Translation:** **Rav Yosef said** that **Shmuel said:** One who has **tasted** food before *kiddush* may **not recite *kiddush*,** and **one who has tasted** food before *havdala* may **not recite *havdala*. And Rabba said** that **Rav Naḥman said** that **Shmuel said:** One who has **tasted** may nevertheless **recite *kiddush*, and one who has tasted** may likewise **recite *havdala*. Rava said:** The ***halakha*** is that one who **tasted** food before *kiddush* may **recite *kiddush*; and** one who **tasted** food before *havdala* may **recite *havdala*; and one who did not recite *kiddush* on Shabbat eve,** at night, may **recite *kiddush* any time** during **the entire day until the conclusion of Shabbat.** Likewise, **one who did not recite *havdala* at the conclusion of Shabbat** may **recite *havdala* any time** during **the entire week,** i.e., during the first three days of the week, the time period called: After Shabbat.
+> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף אָמַר שְׁמוּאֵל: טָעַם — אֵינוֹ מְקַדֵּשׁ, טָעַם — אֵינוֹ מַבְדִּיל. וְרַבָּה אָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: טָעַם — מְקַדֵּשׁ, וְטָעַם — מַבְדִּיל.
+> **Translation:** **Rav Yosef said** that **Shmuel said:** One who has **tasted** food before *kiddush* may **not recite *kiddush*,** and **one who has tasted** food before *havdala* may **not recite *havdala*. And Rabba said** that **Rav Naḥman said** that **Shmuel said:** One who has **tasted** may nevertheless **recite *kiddush*, and one who has tasted** may likewise **recite *havdala*.**
 
 Rav Yosef cites Shmuel: *ta'am eino mekadesh, ta'am eino mavdil* — tasting disqualifies for both *kiddush* and *havdalah*. Rabba cites Rav Nachman citing Shmuel — a different tradition from the same authority — as ruling: *ta'am mekadesh v'ta'am mavdil* — tasting does not disqualify for either. Rava then rules definitively: *hilchesa ta'am mekadesh v'ta'am mavdil* — the *halacha* follows the lenient position in both cases. *Bedieved*, if one has tasted food, one may still make *kiddush* or *havdalah* after the fact.
 

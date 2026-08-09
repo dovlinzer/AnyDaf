@@ -53,7 +53,7 @@
           "timestamp": "08:03"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -77,7 +77,7 @@
           "timestamp": "14:40"
         }
       ],
-      "sefaria_index": 0,
+      "sefaria_index": 1,
       "matched": false
     },
     {
@@ -139,8 +139,8 @@
           "timestamp": "20:20"
         }
       ],
-      "sefaria_index": 5,
-      "matched": true
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Nezirus Conditional on Non-Performance of Obligations (continued)",
@@ -153,7 +153,7 @@
           "timestamp": "21:19"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 5,
       "matched": true
     },
     {
@@ -177,7 +177,7 @@
           "timestamp": "31:29"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 8,
       "matched": true
     },
     {
@@ -259,7 +259,7 @@
           "timestamp": "50:35"
         }
       ],
-      "sefaria_index": 17,
+      "sefaria_index": 19,
       "matched": true
     }
   ],
@@ -371,5 +371,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 9
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "23:20",
+  "amud_b_micro_title": "Partial Debate",
+  "shiur_start_daf": 11,
+  "shiur_start_amud": "a"
 }

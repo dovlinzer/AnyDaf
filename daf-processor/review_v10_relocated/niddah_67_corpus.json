@@ -1,0 +1,476 @@
+[
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Chafifah Requirement",
+    "candidates": [
+      "Context & Zeira",
+      "One Drop = Zavah",
+      "Rav Pappa vs Rava",
+      "Dam Chimud",
+      "Chimud Relevance",
+      "Mikvah Timing",
+      "Separation Before Wedding",
+      "Neser & Chol",
+      "Chafifah Requirement",
+      "Hot Water Requirement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rava's ruling about not washing hair with neser or chol and the reasons for each prohibition, which is precisely what the 'Neser & Chol' section's prose describes and introduces.",
+      "chosen_heading": "Neser & Chol",
+      "current_heading": "Chafifah Requirement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Hot Water Requirement",
+    "candidates": [
+      "Chafifah Requirement",
+      "Hot Water Requirement",
+      "Hot Water Benefits",
+      "Rinse Folds",
+      "Folds vs Hidden",
+      "Rauy Levilah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Ameimar's ruling about washing hair in hot water (not cold), which is exactly what the 'Hot Water Requirement' section's prose discusses.",
+      "chosen_heading": "Hot Water Requirement",
+      "current_heading": "Hot Water Requirement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Rauy Levilah",
+    "candidates": [
+      "Hot Water Benefits",
+      "Rinse Folds",
+      "Folds vs Hidden",
+      "Rauy Levilah",
+      "Body Washing",
+      "Chicken Bone"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present Rava's ruling about rinsing folds, the baraita objection, and Rabbi Zeira's rauy levilah resolution \u2014 which is precisely what heading 3 ('Rauy Levilah') discusses in its prose.",
+      "chosen_heading": "Rauy Levilah",
+      "current_heading": "Rauy Levilah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Chicken Bone",
+    "candidates": [
+      "Body Washing",
+      "Chicken Bone",
+      "After Tevilah",
+      "Samuch Lachafifah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the incident of Rebbe's maidservant finding a bone between her teeth after immersion, which is precisely what the 'Chicken Bone' section's prose discusses.",
+      "chosen_heading": "Chicken Bone",
+      "current_heading": "Chicken Bone",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      54,
+      55
+    ],
+    "current_heading": "Samuch Lachafifah",
+    "candidates": [
+      "After Tevilah",
+      "Samuch Lachafifah",
+      "Same Day Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "After Tevilah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is Rava's ruling about immersing samuch l'chafifah (immediately after washing), which is the primary statement that candidate 0 ('After Tevilah') introduces and candidate 1 elaborates on \u2014 but the prose of candidate 0 most directly sets up this initial ruling.",
+      "second_heading": "Same Day Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the 'ikka d'amri' alternative formulation using the 'same day' criterion, which is precisely what candidate 2 ('Same Day Rule') discusses in its prose.",
+      "current_heading": "Samuch Lachafifah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Same Day Rule",
+    "candidates": [
+      "Samuch Lachafifah",
+      "Same Day Rule",
+      "No Vessels",
+      "Bathhouse Feel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the practical difference (nafka mina) between the two versions of Rava's statement \u2014 samuch l'chafifah vs. same-day rule \u2014 which is precisely what the 'Same Day Rule' prose section discusses.",
+      "chosen_heading": "Same Day Rule",
+      "current_heading": "Same Day Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      67,
+      68
+    ],
+    "current_heading": "Bathhouse Feel",
+    "candidates": [
+      "No Vessels",
+      "Bathhouse Feel",
+      "Port Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together present Rava's ruling about earthenware vessels plus the dispute between Rav Kahana (bathhouse decree reasoning) and Rav \u1e24anan from Neharde'a (fear reasoning), which is precisely what the 'Bathhouse Feel' prose describes in full.",
+      "chosen_heading": "Bathhouse Feel",
+      "current_heading": "Bathhouse Feel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      72,
+      73
+    ],
+    "current_heading": "Port Concern",
+    "candidates": [
+      "Port Concern",
+      "Seasonal Mikvaot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form Rav Shmuel bar Rav Yitz\u1e25ak's ruling about not immersing in a port (namal) due to mud concerns, which is precisely what the 'Port Concern' section's prose discusses.",
+      "chosen_heading": "Port Concern",
+      "current_heading": "Port Concern",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      76
+    ],
+    "current_heading": "Seasonal Mikvaot",
+    "candidates": [
+      "Seasonal Mikvaot",
+      "Rainwater Problem",
+      "Cooked Food",
+      "Invisible Food"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly describes Shmuel's father preparing ritual baths in Nisan and mats in Tishrei, which is precisely what the 'Seasonal Mikvaot' section's prose discusses.",
+      "chosen_heading": "Seasonal Mikvaot",
+      "current_heading": "Seasonal Mikvaot",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      86
+    ],
+    "current_heading": "Invisible Food",
+    "candidates": [
+      "Rainwater Problem",
+      "Cooked Food",
+      "Invisible Food",
+      "Scab Timeline"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the Gemara text that directly states Rav Giddel's ruling about a woman giving cooked food to her son before immersing, which is exactly what the 'Cooked Food' section's prose introduces and discusses.",
+      "chosen_heading": "Cooked Food",
+      "current_heading": "Invisible Food",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Scab Timeline",
+    "candidates": [
+      "Invisible Food",
+      "Scab Timeline",
+      "Eye Mucus"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses bloodletting incisions (ravdei dekhusilta) with the same three-day threshold logic (not a chatzitzah for first three days, becomes one afterward) that the 'Scab Timeline' prose explicitly describes.",
+      "chosen_heading": "Scab Timeline",
+      "current_heading": "Scab Timeline",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      93
+    ],
+    "current_heading": "Eye Mucus",
+    "candidates": [
+      "Eye Mucus",
+      "Eye Makeup"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses eye mucus (lifluf she'ba'ayin) and when it constitutes a chatzitzah, which matches the 'Eye Mucus' section's prose exactly.",
+      "chosen_heading": "Eye Mucus",
+      "current_heading": "Eye Mucus",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Eye Makeup",
+    "candidates": [
+      "Eye Makeup",
+      "Eye Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses eye shadow (kachol) as a potential chatzitzah, which matches exactly the 'Eye Makeup' section prose about kachol applied inside vs. outside the eye and the exception for fluttering eyelids.",
+      "chosen_heading": "Eye Makeup",
+      "current_heading": "Eye Makeup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Eye Position",
+    "candidates": [
+      "Eye Position",
+      "Natural Posture",
+      "Negaim Analogy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Yochanan's ruling about opening or closing eyes too wide during immersion, which is precisely what the 'Eye Position' section's prose discusses.",
+      "chosen_heading": "Eye Position",
+      "current_heading": "Eye Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Negaim Analogy",
+    "candidates": [
+      "Natural Posture",
+      "Negaim Analogy",
+      "Knotted Hair"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Reish Lakish's general principle about natural posture during immersion, which is exactly what heading 0 ('Natural Posture') discusses, while the Negaim analogy heading already incorporates this content in its prose as supporting material \u2014 the primary content of the passage is the principle itself, not the analogy.",
+      "chosen_heading": "Natural Posture",
+      "current_heading": "Negaim Analogy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      110,
+      111
+    ],
+    "current_heading": "Knotted Hair",
+    "candidates": [
+      "Negaim Analogy",
+      "Knotted Hair",
+      "Single Hair",
+      "Biblical Chatzitzah",
+      "Rabbinic Safeguard"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Knotted Hair",
+      "first_confidence": "high",
+      "first_reason": "Item 1 (Rabba bar Rav Huna's ruling on one knotted hair) matches the 'Knotted Hair' prose which explicitly discusses 'nima achas k'shura chotzetza' and the distinction between one, two, and three hairs.",
+      "second_heading": "Single Hair",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Rabbi Yo\u1e25anan's ruling ('ein lanu ela achas') which is precisely what the 'Single Hair' prose describes \u2014 Rabbi Yochanan's more lenient position that only a single knotted hair constitutes a chatzitzah.",
+      "current_heading": "Knotted Hair",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Rabbinic Safeguard",
+    "candidates": [
+      "Single Hair",
+      "Biblical Chatzitzah",
+      "Rabbinic Safeguard",
+      "Minority Exception",
+      "Makpid Definition",
+      "Medical Applications",
+      "Hair Calculation",
+      "Braids & Dye",
+      "Night Requirement",
+      "Late Immersion",
+      "Serach Bita"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present Rabbi Yitzchak's ruling on the four-category framework AND the Gemara's question about mi'uto she'eino makpid followed by the gezeira legezeira answer \u2014 precisely what candidate 3 ('Minority Exception') describes in its prose.",
+      "chosen_heading": "Minority Exception",
+      "current_heading": "Rabbinic Safeguard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      140,
+      141
+    ],
+    "current_heading": "Serach Bita",
+    "candidates": [
+      "Minority Exception",
+      "Makpid Definition",
+      "Medical Applications",
+      "Hair Calculation",
+      "Braids & Dye",
+      "Night Requirement",
+      "Late Immersion",
+      "Serach Bita",
+      "Imitation Risk",
+      "Rav Idi Lions",
+      "Rav Acha Robbers",
+      "Rav Yehuda Cold"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "Both items discuss the dispute about nighttime-only immersion and the serach bitah rationale \u2014 item 1 presents Rav vs. Rabbi Yochanan's positions and item 2 records Rav's retraction to agree with Rabbi Yochanan \u2014 which is precisely what heading 7 ('Serach Bita') and heading 8 ('Imitation Risk') cover together, but the current placement under heading 7 is correct since the prose there introduces the core dispute and serach bitah concept that both items address, with heading 8's prose already covering Rav's retraction (af Rav hadar beih) as a follow-on point in the same section.",
+      "chosen_heading": "Serach Bita",
+      "current_heading": "Serach Bita",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      151,
+      152
+    ],
+    "current_heading": "Rav Yehuda Cold",
+    "candidates": [
+      "Imitation Risk",
+      "Rav Idi Lions",
+      "Rav Acha Robbers",
+      "Rav Yehuda Cold",
+      "Rava City Guard",
+      "Safek Zavot",
+      "Day Seven Clean"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together list all four local rabbinic exemptions (Rav Idi/lions, Rav Acha/thieves, Rav Yehuda/cold, Rava/gatekeepers) as a single continuous enumeration, and candidate 1 ('Rav Idi Lions') introduces exactly this block of danger-based daytime-immersion permissions, making it the best single home for the entire passage rather than splitting it across candidates 1\u20134.",
+      "chosen_heading": "Rav Idi Lions",
+      "current_heading": "Rav Yehuda Cold",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      161
+    ],
+    "current_heading": "Day Seven Clean",
+    "candidates": [
+      "Rava City Guard",
+      "Safek Zavot",
+      "Day Seven Clean",
+      "Retroactive Bleeding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Pappa's question about women being declared safek zavot by the rabbis and whether they may immerse on the seventh day, which matches the 'Safek Zavot' section's prose about Rav Pappa universalizing the safek zavah status as a rabbinic framework.",
+      "chosen_heading": "Safek Zavot",
+      "current_heading": "Day Seven Clean",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      164,
+      165
+    ],
+    "current_heading": "Retroactive Bleeding",
+    "candidates": [
+      "Day Seven Clean",
+      "Retroactive Bleeding",
+      "Night Seven",
+      "Rabbeinu Tam"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the baraita of Rabbi Shimon \u2014 his interpretation permitting day-seven immersion followed by the rabbinic prohibition due to the risk of retroactive bleeding \u2014 which is precisely what the 'Retroactive Bleeding' prose section describes.",
+      "chosen_heading": "Retroactive Bleeding",
+      "current_heading": "Retroactive Bleeding",
+      "moved": false
+    }
+  }
+]

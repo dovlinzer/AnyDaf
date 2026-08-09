@@ -53,7 +53,7 @@
           "timestamp": "05:09"
         }
       ],
-      "sefaria_index": 7,
+      "sefaria_index": 0,
       "matched": true
     },
     {
@@ -101,8 +101,8 @@
           "timestamp": "11:36"
         }
       ],
-      "sefaria_index": 8,
-      "matched": true
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Abaye's Challenge: Reconciling Meitav for Land with Equivalency of Value for Chattels",
@@ -227,7 +227,7 @@
           "timestamp": "48:35"
         }
       ],
-      "sefaria_index": 27,
+      "sefaria_index": 26,
       "matched": true
     },
     {
@@ -597,5 +597,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 17
+  "amud_b_sefaria_index": 17,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "31:47",
+  "amud_b_micro_title": "Seasonal Rates",
+  "shiur_start_daf": 6,
+  "shiur_start_amud": "b"
 }

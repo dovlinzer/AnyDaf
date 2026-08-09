@@ -1,0 +1,194 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Beraita Setup",
+    "candidates": [
+      "Beraita Setup",
+      "Abaye's Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the Beraita and its Gemara analysis about minimum amounts for silver and gold in documents (kesef, kesef dinarin, kesef bi-dinarin, dahav, dahav dinarin, dahav bi-dinarin), which is precisely what the 'Beraita Setup' prose describes as the content of this section.",
+      "chosen_heading": "Beraita Setup",
+      "current_heading": "Beraita Setup",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      11,
+      12
+    ],
+    "current_heading": "Abaye's Principle",
+    "candidates": [
+      "Abaye's Principle",
+      "Rav Ashi's Distinction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are part of the continuous Gemara discussion of Abaye's principle (yad ba'al ha-shtar al ha-tachtona) \u2014 item 1 states the principle and item 2 immediately raises the counter-question from the 'kesef bi-dinarei' clause, exactly as described in candidate 0's prose.",
+      "chosen_heading": "Abaye's Principle",
+      "current_heading": "Abaye's Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16,
+      17,
+      18
+    ],
+    "current_heading": "Rav Ashi's Distinction",
+    "candidates": [
+      "Rav Ashi's Distinction",
+      "Price Crisis",
+      "One Korban Rule"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Candidate 0's prose explicitly discusses all three items \u2014 Rav Ashi's dinarei/dinarin distinction, the Gemara's question seeking proof of that distinction, and the baraita about the woman with five births/zivot as the proof text.",
+      "chosen_heading": "Rav Ashi's Distinction",
+      "current_heading": "Rav Ashi's Distinction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "One Korban Rule",
+    "candidates": [
+      "Price Crisis",
+      "One Korban Rule",
+      "Price Collapse"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers both the price crisis (birds at gold dinarei) and Rabban Shimon's oath, which is the specific content discussed in the 'Price Crisis' prose, including the textual distinction between dinarei (gold) and dinarim (silver) that Rav Ashi leverages.",
+      "chosen_heading": "Price Crisis",
+      "current_heading": "One Korban Rule",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32
+    ],
+    "current_heading": "Price Collapse",
+    "candidates": [
+      "One Korban Rule",
+      "Price Collapse",
+      "Psak vs. Policy",
+      "Tosafot Challenge",
+      "Tosafot Grammar",
+      "Mishna Purpose",
+      "One-Letter Limit",
+      "Majority Name",
+      "Rashbam's Approach",
+      "Tosafot Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the price of nests falling to one-quarter of a silver dinar, which is precisely what the 'Price Collapse' section discusses \u2014 the immediate practical effect of Rabban Shimon's ruling causing demand and prices to collapse.",
+      "chosen_heading": "Price Collapse",
+      "current_heading": "Price Collapse",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Tosafot Objection",
+    "candidates": [
+      "Psak vs. Policy",
+      "Tosafot Challenge",
+      "Tosafot Grammar",
+      "Mishna Purpose",
+      "One-Letter Limit",
+      "Majority Name",
+      "Rashbam's Approach",
+      "Tosafot Objection",
+      "Safal/Kafal Case",
+      "Teiku Stalemate"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 4,
+      "first_heading": "One-Letter Limit",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20134 cover the baraita about reconstructing one vs. two missing letters and the Gemara's reasoning about ruba de-shma, matching exactly the 'Majority Name' section's prose about yilmi tachton, the Chanan/Chanani example, and the three-letter-name resolution.",
+      "second_heading": "Safal/Kafal Case",
+      "second_confidence": "high",
+      "second_reason": "Item 5 introduces Rav Pappa's ruling about safal/kafal \u2014 a new case about altered (not erased) letters \u2014 matching precisely the 'Safal/Kafal Case' section's prose about Rav Papa's peshita li ruling.",
+      "current_heading": "Tosafot Objection",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Teiku Stalemate",
+    "candidates": [
+      "Safal/Kafal Case",
+      "Teiku Stalemate",
+      "Three Readings",
+      "Eliminate Low Coinage",
+      "Abaye's Lesser Amount"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes Rav Pappa's dilemma about kefel/sefel and the fly concern, concluding with teiku \u2014 exactly what the 'Teiku Stalemate' section's prose describes.",
+      "chosen_heading": "Teiku Stalemate",
+      "current_heading": "Teiku Stalemate",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84,
+      85
+    ],
+    "current_heading": "Abaye's Lesser Amount",
+    "candidates": [
+      "Three Readings",
+      "Eliminate Low Coinage",
+      "Abaye's Lesser Amount"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Eliminate Low Coinage",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Abaye's elimination of the perutot reading ('dal priti de-lo ketivi be-shtara'), which matches exactly the 'Eliminate Low Coinage' prose describing how small coins are not written in shtaros and are summed into larger denominations.",
+      "second_heading": "Abaye's Lesser Amount",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents the remaining two possibilities and applies 'yad ba'al ha-shtar al ha-tachtona' to select the lesser amount, which matches exactly the 'Abaye's Lesser Amount' prose discussing the choice between the two viable readings.",
+      "current_heading": "Abaye's Lesser Amount",
+      "moved": true
+    }
+  }
+]

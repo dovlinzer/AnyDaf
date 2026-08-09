@@ -1,0 +1,431 @@
+[
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Braita on Get Return",
+    "candidates": [
+      "Rabba's Lost Get",
+      "Simanim vs. Recognition",
+      "Braita on Get Return",
+      "Nisan-Tishrei Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage is the gufa return to the braita about finding a woman's get in the marketplace, which is precisely what the prose under 'Braita on Get Return' describes and analyzes.",
+      "chosen_heading": "Braita on Get Return",
+      "current_heading": "Braita on Get Return",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Nisan-Tishrei Problem",
+    "candidates": [
+      "Nisan-Tishrei Problem",
+      "Wife's Claim on Fruit",
+      "Loses Rights on Intention"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the Gemara's challenge about the Nisan-Tishrei problem \u2014 raising the suspicion that the get was written in Nisan but not given until Tishrei \u2014 which is precisely what the prose of heading 0 describes, making the current placement correct.",
+      "chosen_heading": "Nisan-Tishrei Problem",
+      "current_heading": "Nisan-Tishrei Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Loses Rights on Intention",
+    "candidates": [
+      "Wife's Claim on Fruit",
+      "Loses Rights on Intention",
+      "Rights Until Divorce",
+      "Demand Proof of Receipt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both sides of the dispute \u2014 the opinion that intention to divorce ends husband's produce rights (which 'works out well') and the opposing opinion that rights persist until actual giving \u2014 which is precisely what heading 1 ('Loses Rights on Intention') and its prose describe, including the transition to the second opinion that heading 2 picks up after.",
+      "chosen_heading": "Loses Rights on Intention",
+      "current_heading": "Loses Rights on Intention",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Demand Proof of Receipt",
+    "candidates": [
+      "Rights Until Divorce",
+      "Demand Proof of Receipt",
+      "Why Different Rules?",
+      "Debt Doc Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer about demanding proof of when the get was received, which matches exactly the prose under 'Demand Proof of Receipt' that discusses this very resolution.",
+      "chosen_heading": "Demand Proof of Receipt",
+      "current_heading": "Demand Proof of Receipt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      30
+    ],
+    "current_heading": "Debt Doc Concern",
+    "candidates": [
+      "Why Different Rules?",
+      "Debt Doc Concern",
+      "Proof for Debt Docs?",
+      "Get: Remembered Finding"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage introduces the question of why debt documents differ and cites the mishna about promissory notes with property guarantees, which matches heading 0's prose that frames the Gemara's challenge and references that same mishna \u2014 while heading 1's prose covers the follow-up explanation of the Nisan/Tishrei concern that comes after the question is posed.",
+      "chosen_heading": "Why Different Rules?",
+      "current_heading": "Debt Doc Concern",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Get: Remembered Finding",
+    "candidates": [
+      "Proof for Debt Docs?",
+      "Get: Remembered Finding",
+      "Debt: Assumed Kosher"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items form a continuous exchange \u2014 item 1 raises the symmetry challenge (why not return the promissory note too and demand proof?) and item 2 gives the Gemara's answer distinguishing the get case (the purchaser will remember and challenge) \u2014 which is exactly the content described in candidate 1's prose about the purchaser coming to demand proof of when the get was received.",
+      "chosen_heading": "Get: Remembered Finding",
+      "current_heading": "Get: Remembered Finding",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Debt: Assumed Kosher",
+    "candidates": [
+      "Debt: Assumed Kosher",
+      "Master Admits/Denies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses exactly why a promissory note cannot be returned \u2014 because the purchaser will infer from the rabbis' return of the document that it is valid and will not challenge it \u2014 which is precisely what the prose under 'Debt: Assumed Kosher' explains.",
+      "chosen_heading": "Debt: Assumed Kosher",
+      "current_heading": "Debt: Assumed Kosher",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Master Admits/Denies",
+    "candidates": [
+      "Master Admits/Denies",
+      "Slave's Property Gap",
+      "Retroactive Freedom Claim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the baraita about finding a bill of manumission and the master admitting or denying, which is exactly what the 'Master Admits/Denies' section prose discusses.",
+      "chosen_heading": "Master Admits/Denies",
+      "current_heading": "Master Admits/Denies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Retroactive Freedom Claim",
+    "candidates": [
+      "Slave's Property Gap",
+      "Retroactive Freedom Claim",
+      "Freedom as Benefit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage raises the initial Nisan-Tishrei concern and the slave purchasing property in the interim, which is precisely what heading 0 ('Slave's Property Gap') discusses, while heading 1 covers the subsequent step of the master selling that property and the slave retroactively claiming it \u2014 the passage actually contains both steps, but its core question ('why return it?') and the concern about the property gap align most directly with heading 0's prose.",
+      "chosen_heading": "Slave's Property Gap",
+      "current_heading": "Retroactive Freedom Claim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Freedom as Benefit",
+    "candidates": [
+      "Retroactive Freedom Claim",
+      "Freedom as Benefit",
+      "Not Absolute Benefit",
+      "Proof of Freedom Date"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses exactly the position that freedom is a benefit to the slave and Abaye's principle that witnesses acquire on his behalf, which is precisely what the 'Freedom as Benefit' section's prose describes.",
+      "chosen_heading": "Freedom as Benefit",
+      "current_heading": "Freedom as Benefit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Proof of Freedom Date",
+    "candidates": [
+      "Not Absolute Benefit",
+      "Proof of Freedom Date",
+      "Basic Rule on Docs",
+      "What Is Dayatiki",
+      "What Is Matana"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the Gemara's answer about demanding proof of when the bill of manumission reached the slave's possession, which is precisely what the 'Proof of Freedom Date' section's prose discusses.",
+      "chosen_heading": "Proof of Freedom Date",
+      "current_heading": "Proof of Freedom Date",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      65,
+      66
+    ],
+    "current_heading": "What Is Matana",
+    "candidates": [
+      "Basic Rule on Docs",
+      "What Is Dayatiki",
+      "What Is Matana",
+      "Title/Benefit Split"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "What Is Dayatiki",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains the baraita defining both dayatiki and matana, which is exactly what heading 1 ('What Is Dayatiki') discusses \u2014 the braita's definition of dayatiki and its companion definition of matana as me-hayom ve-le-achar mita.",
+      "second_heading": "What Is Matana",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is the Gemara's follow-up question challenging the implication that 'me-hayom ve-le-achar mita' is the only valid form of gift deed, which directly introduces the discussion about the title/benefit split and why that formula is required \u2014 matching heading 2 ('What Is Matana') or transitioning into heading 3, but as a question arising from the matana definition it best fits under 'What Is Matana'.",
+      "current_heading": "What Is Matana",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      69
+    ],
+    "current_heading": "Title/Benefit Split",
+    "candidates": [
+      "Title/Benefit Split",
+      "Braita Restriction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's explanation of what makes a healthy person's gift function like a deathbed bequest via the 'me-hayom ve-le-achar mita' formula, which is precisely what candidate 0's prose discusses.",
+      "chosen_heading": "Title/Benefit Split",
+      "current_heading": "Title/Benefit Split",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73,
+      74
+    ],
+    "current_heading": "Braita Restriction",
+    "candidates": [
+      "Braita Restriction",
+      "Retractable Nature",
+      "Later Supersedes Earlier"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together form the inferential setup (item 1: the Mishna's implication that 'give' suffices) and the contradicting baraita (item 2: even with both parties agreeing, don't return it), which is precisely the tension the 'Braita Restriction' prose is discussing \u2014 the baraita's rule about wills, apotiki, and gift documents not being returned even when both parties admit validity.",
+      "chosen_heading": "Braita Restriction",
+      "current_heading": "Braita Restriction",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "current_heading": "Later Supersedes Earlier",
+    "candidates": [
+      "Retractable Nature",
+      "Later Supersedes Earlier",
+      "Gift Is Final",
+      "Two-Gift Scenario"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All six items together form Rabbi Abba bar Memel's resolution distinguishing healthy-person gifts from deathbed gifts and explaining why returning the found deed causes no harm \u2014 which is precisely what heading 0 ('Retractable Nature') describes: reconciling the Mishna/braita tension via the retractable nature of a shechiv meira's gift.",
+      "chosen_heading": "Retractable Nature",
+      "current_heading": "Later Supersedes Earlier",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      93,
+      94
+    ],
+    "current_heading": "Two-Gift Scenario",
+    "candidates": [
+      "Gift Is Final",
+      "Two-Gift Scenario",
+      "False Claim Risk",
+      "Exploit Risk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together explain the fraudulent scheme \u2014 the giver cannot retract so he colludes to have the earlier document returned so it can predate Shimon's document \u2014 which is precisely what 'False Claim Risk' prose describes, not the setup scenario of 'Two-Gift Scenario.'",
+      "chosen_heading": "False Claim Risk",
+      "current_heading": "Two-Gift Scenario",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Exploit Risk",
+    "candidates": [
+      "False Claim Risk",
+      "Exploit Risk",
+      "Apparent Contradiction"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the Gemara's solution of not returning the document and requiring a new deed to be written \u2014 which the 'Exploit Risk' prose explicitly paraphrases, including the key phrases about writing a new document and the earlier recipient prevailing (dei yahavtih leinish achrina leika pseida de-kama zachi).",
+      "chosen_heading": "Exploit Risk",
+      "current_heading": "Exploit Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      103,
+      104
+    ],
+    "current_heading": "Apparent Contradiction",
+    "candidates": [
+      "Apparent Contradiction",
+      "Key Difference",
+      "Alive: Later Wins",
+      "Dead: Son Can't Override"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Key Difference",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Rav Zevid's objection and resolution distinguishing 'him' vs 'his son', which matches heading 1 ('Key Difference') precisely.",
+      "second_heading": "Alive: Later Wins",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains the 'alive' case where the giver can retract and the later will supersedes the earlier, matching heading 2 ('Alive: Later Wins') exactly.",
+      "current_heading": "Apparent Contradiction",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      111,
+      112
+    ],
+    "current_heading": "Dead: Son Can't Override",
+    "candidates": [
+      "Key Difference",
+      "Alive: Later Wins",
+      "Dead: Son Can't Override",
+      "Fraud Scenario",
+      "No Return if Dead"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items describe the fraud scenario where the son conspires with Reuven to recover the father's document in order to override the son's gift to Shimon and split the proceeds, which is precisely what candidate 3 ('Fraud Scenario') describes in its prose.",
+      "chosen_heading": "Fraud Scenario",
+      "current_heading": "Dead: Son Can't Override",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      118,
+      119
+    ],
+    "current_heading": "No Return if Dead",
+    "candidates": [
+      "Fraud Scenario",
+      "No Return if Dead",
+      "Son's Later Doc"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's direct statement of why the court refuses to return the document and the alternative solution of writing a new deed \u2014 precisely the content paraphrased in the 'No Return if Dead' prose, which quotes the same Aramaic phrases and describes the same reasoning in sequence.",
+      "chosen_heading": "No Return if Dead",
+      "current_heading": "No Return if Dead",
+      "moved": false
+    }
+  }
+]

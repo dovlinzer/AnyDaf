@@ -1,0 +1,329 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "current_heading": "Review of Questions",
+    "candidates": [
+      "Review of Questions",
+      "Sound as Kocho"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of whether ha'ada (warning) applies to tzroros-type damage, resolving it by explaining that the half-payment for pebbles reflects indirect/atypical action rather than unexpectedness, and then connects the dog-fire baraita to the Rabbi Tarfon vs. Rabbis dispute \u2014 exactly the thread that candidate 1 ('Sound as Kocho') establishes when it raises the ha'ada question and maps the two rulings onto yesh ha'ada l'tzroros vs. ein ha'ada l'tzroros.",
+      "chosen_heading": "Sound as Kocho",
+      "current_heading": "Review of Questions",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "current_heading": "Sound as Kocho",
+    "candidates": [
+      "Review of Questions",
+      "Sound as Kocho",
+      "Ha'ada for Tzroros",
+      "Sumchus Debate",
+      "Shinui Question"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 10 items are the Gemara's sustained exploration of Rava's dilemma about whether there is ha'ada (forewarning) for tzroros, cycling through multiple attempted proofs (hopping chicken, excrement on dough, Rami bar Yechezkel's baraita about crowing/neighing) and rejecting each \u2014 exactly what the 'Review of Questions' prose describes as the central question of ha'ada for tzroros, not the 'Sound as Kocho' section which only covers items 7\u201310.",
+      "chosen_heading": "Review of Questions",
+      "current_heading": "Sound as Kocho",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      32,
+      33,
+      34
+    ],
+    "current_heading": "Shinui Question",
+    "candidates": [
+      "Ha'ada for Tzroros",
+      "Sumchus Debate",
+      "Shinui Question",
+      "Rava's Implications",
+      "Conditional Logic",
+      "Degrees of Removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items form one continuous chain \u2014 Rav Ashi's dilemma about shinui l'tzroros (item 1), the attempted resolution from Rava's ha'ada question (item 2), and the rejection of that resolution via conditional logic (item 3) \u2014 which precisely matches the 'Shinui Question' prose describing Rav Ashi's question and its unresolved status, making the current placement correct.",
+      "chosen_heading": "Shinui Question",
+      "current_heading": "Shinui Question",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      46,
+      47
+    ],
+    "current_heading": "Degrees of Removal",
+    "candidates": [
+      "Rava's Implications",
+      "Conditional Logic",
+      "Degrees of Removal",
+      "Unresolved Teiku",
+      "Mishna Cases"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items directly address Rav Ashi's dilemma about koach kocho l'Sumchus and whether it is treated like koach, ending in teiku \u2014 exactly what the 'Degrees of Removal' prose describes.",
+      "chosen_heading": "Degrees of Removal",
+      "current_heading": "Degrees of Removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Mishna Cases",
+    "candidates": [
+      "Unresolved Teiku",
+      "Mishna Cases",
+      "Two Readings"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes the mishna text about kicking and pebbles paying half damages, followed by the opening dilemma question, which matches precisely the 'Mishna Cases' section prose that introduces these two cases and notes the interpretive question the Gemara takes up.",
+      "chosen_heading": "Mishna Cases",
+      "current_heading": "Mishna Cases",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Two Readings",
+    "candidates": [
+      "Two Readings",
+      "Final Section"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the two readings (rabbanan vs. Sumakhos) of the Mishnah regarding kicking and pebbles, which is precisely what the 'Two Readings' section prose describes.",
+      "chosen_heading": "Two Readings",
+      "current_heading": "Two Readings",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63
+    ],
+    "current_heading": "Final Section",
+    "candidates": [
+      "Final Section",
+      "Rav Ashi's Reading",
+      "Tzroros of Kicking"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items form a continuous Gemara sequence about the latter clause of the Mishnah (darsa al hakli), the possibility of reading it according to Sumakhos with koach vs. koach kocho, and Rav Ashi's unresolved dilemma \u2014 exactly what the 'Final Section' prose describes.",
+      "chosen_heading": "Final Section",
+      "current_heading": "Final Section",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Tzroros of Kicking",
+    "candidates": [
+      "Rav Ashi's Reading",
+      "Tzroros of Kicking",
+      "Inevitable Scatter"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items are Rav Ashi's explicit dilemma about whether tzroros from kicking pays quarter or half and whether shinui applies to tzroros, concluding with teiku \u2014 exactly what candidate 1's prose describes in detail.",
+      "chosen_heading": "Tzroros of Kicking",
+      "current_heading": "Tzroros of Kicking",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      78
+    ],
+    "current_heading": "Inevitable Scatter",
+    "candidates": [
+      "Inevitable Scatter",
+      "Incidental Shinui",
+      "Public to Private",
+      "Regel Category"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is about Rabbi Abba bar Memel's dilemma concerning an animal walking where scattering is inevitable then kicking, which is precisely what the 'Inevitable Scatter' section's prose describes.",
+      "chosen_heading": "Inevitable Scatter",
+      "current_heading": "Inevitable Scatter",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Regel Category",
+    "candidates": [
+      "Incidental Shinui",
+      "Public to Private",
+      "Regel Category",
+      "Tail Wagging",
+      "Policy Override",
+      "Natural Acts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All 8 items form one continuous Talmudic exchange between Rabbi Yirmeya and Rabbi Zeira about whether tzroros is a toldah of regel (exempt in reshus ha-rabim) or comparable to keren (liable), including the sub-question of hitiza be-reshus ha-rabim v'hizika be-reshus ha-yachid and Rabbi Zeira's repeated retractions \u2014 exactly the content described in the 'Regel Category' prose section.",
+      "chosen_heading": "Regel Category",
+      "current_heading": "Regel Category",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      114,
+      115
+    ],
+    "current_heading": "Natural Acts",
+    "candidates": [
+      "Tail Wagging",
+      "Policy Override",
+      "Natural Acts",
+      "Vigorous Wagging",
+      "Two Rationales"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the initial tail-wagging dilemma and its immediate resolution (the 'must you hold its tail?' retort plus the keren/orchaya distinction), which is exactly what heading 0 'Tail Wagging' describes \u2014 the question posed by Rabbi Yehuda Nesia and Rabbi Oshaya about kishkeshah bi-znava \u2014 whereas the current placement under 'Natural Acts' (index 2) discusses the deeper irony and policy implications that follow from that resolution, not the dilemma itself.",
+      "chosen_heading": "Tail Wagging",
+      "current_heading": "Natural Acts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Two Rationales",
+    "candidates": [
+      "Vigorous Wagging",
+      "Two Rationales",
+      "Zoological Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the Gemara's question about excessive tail swinging (kishkush yeseirah), which is precisely what the 'Vigorous Wagging' section discusses, not the 'Two Rationales' section where it currently sits.",
+      "chosen_heading": "Vigorous Wagging",
+      "current_heading": "Two Rationales",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Zoological Case",
+    "candidates": [
+      "Two Rationales",
+      "Zoological Case",
+      "Self-Tangled",
+      "Intentional Tying",
+      "Negligent Placement",
+      "Bor Mitgalgel"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Rav Eina's dilemma about an animal swinging its penis and whether it constitutes keren, which is precisely what the 'Zoological Case' prose describes in detail.",
+      "chosen_heading": "Zoological Case",
+      "current_heading": "Zoological Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135,
+      136,
+      137,
+      138
+    ],
+    "current_heading": "Bor Mitgalgel",
+    "candidates": [
+      "Self-Tangled",
+      "Intentional Tying",
+      "Negligent Placement",
+      "Bor Mitgalgel",
+      "Bucket Owner Category"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All four items form a continuous chain: Rav Huna's ruling (item 1), the question of who pays when the string tangled on its own (item 2), the ish bor ve-lo shor bor objection to charging the chicken's owner (item 3), and the resolution that the mishna deals with addi aduyei while Rav Huna's ruling is about a hefker string (item 4) \u2014 this entire sequence matches the 'Negligent Placement' section's prose, which covers exactly the owner-of-string liability question, the anus/poshe'a distinction, the ela chayav ba'al ha-tarnagol move, and the ish bor ve-lo shor bor principle.",
+      "chosen_heading": "Negligent Placement",
+      "current_heading": "Bor Mitgalgel",
+      "moved": true
+    }
+  }
+]

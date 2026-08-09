@@ -1,0 +1,397 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Kinyan Peirot Intro",
+    "candidates": [
+      "Kinyan Peirot Intro",
+      "Nichsei Milog Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains the reasoning behind the Rabbi Yochanan/Reish Lakish dispute on kinyan peirot vs. kinyan haguf, which is precisely what the 'Kinyan Peirot Intro' prose introduces and describes.",
+      "chosen_heading": "Kinyan Peirot Intro",
+      "current_heading": "Kinyan Peirot Intro",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "current_heading": "Nichsei Milog Case",
+    "candidates": [
+      "Nichsei Milog Case",
+      "Baraisa Proof",
+      "Shaliach Status",
+      "Both Cases Needed"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      25,
+      26
+    ],
+    "current_heading": "Both Cases Needed",
+    "candidates": [
+      "Baraisa Proof",
+      "Shaliach Status",
+      "Both Cases Needed",
+      "Peirot Intent",
+      "Yovel Intent",
+      "Tree Proofs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together constitute the 'tzricha' argument explaining why both cases must be stated \u2014 item 1 explains why the peirot case alone is insufficient (one might think Reish Lakish concedes in the yovel case), and item 2 explains why the yovel case alone is insufficient (one might think Rabbi Yochanan concedes in the peirot case), which precisely matches the 'Peirot Intent' prose describing how had only the yovel case been stated one might infer Rabbi Yochanan concedes in the peirot case.",
+      "chosen_heading": "Peirot Intent",
+      "current_heading": "Both Cases Needed",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36
+    ],
+    "current_heading": "Tree Proofs",
+    "candidates": [
+      "Peirot Intent",
+      "Yovel Intent",
+      "Tree Proofs",
+      "Pre-Yovel Agreement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's two 'ta shema' proofs from Mishnaic cases (tree + land, then two/three trees) and the identical deflection that the mishna refers to when yovel is not practiced \u2014 exactly the content described in the 'Tree Proofs' prose.",
+      "chosen_heading": "Tree Proofs",
+      "current_heading": "Tree Proofs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      41
+    ],
+    "current_heading": "Pre-Yovel Agreement",
+    "candidates": [
+      "Pre-Yovel Agreement",
+      "Perception Principle",
+      "Yovel Divide",
+      "Hekdesh Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly resolves the contradiction by distinguishing Yovel rishon from Yovel sheni \u2014 'lo kashya: ha bi-Yovel rishon, ha bi-Yovel sheni' \u2014 which is precisely what the 'Yovel Divide' section's prose describes.",
+      "chosen_heading": "Yovel Divide",
+      "current_heading": "Pre-Yovel Agreement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      50,
+      51
+    ],
+    "current_heading": "Hekdesh Case",
+    "candidates": [
+      "Perception Principle",
+      "Yovel Divide",
+      "Hekdesh Case",
+      "Timing Issue",
+      "Rabbi Meir View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items present the baraita's question and derivation about a field purchased from one's father that becomes an ancestral field, which is precisely what the 'Hekdesh Case' prose describes as the Gemara's attempt to connect the Rabbi Yochanan/Reish Lakish dispute to a tanna'im parallel.",
+      "chosen_heading": "Hekdesh Case",
+      "current_heading": "Hekdesh Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "current_heading": "Rabbi Meir View",
+    "candidates": [
+      "Timing Issue",
+      "Rabbi Meir View",
+      "Rabbi Yehuda View",
+      "Alt. Reading",
+      "Pasuk Language",
+      "Brothers Division"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 3,
+      "first_heading": "Rabbi Meir View",
+      "first_confidence": "medium",
+      "first_reason": "Items 1-3 cover Rabbi Meir's position and the Gemara's explanation of the dispute in terms of kinyan peirot ke-kinyan haguf, which maps onto the 'Rabbi Meir View' and 'Rabbi Yehuda View' sections, but since items 1-3 form one continuous Gemara unit discussing both Rabbi Meir and Rabbi Yehuda/Shimon's positions together, they best sit under 'Rabbi Meir View' (index 1) which introduces this entire discussion.",
+      "second_heading": "Alt. Reading",
+      "second_confidence": "high",
+      "second_reason": "Item 4 is Rav Nachman bar Yitzchak's alternative reading rejecting the kinyan peirot explanation, which matches exactly the 'Alt. Reading' section (index 3) prose about Rav Nachman bar Yitzchak proposing that Rabbi Yehuda and Rabbi Shimon actually hold kinyan peirot ke-kinyan haguf dami.",
+      "current_heading": "Rabbi Meir View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      77,
+      78
+    ],
+    "current_heading": "Brothers Division",
+    "candidates": [
+      "Rabbi Yehuda View",
+      "Alt. Reading",
+      "Pasuk Language",
+      "Brothers Division",
+      "Bikkurim Problem",
+      "Tosafos Fix",
+      "Yovel Pasuk"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "Both items together present Rav Yosef's statement about Rabbi Yochanan's ruling on kinyan peirot and the brothers-as-purchasers ruling, which is precisely what the 'Brothers Division' prose describes.",
+      "chosen_heading": "Brothers Division",
+      "current_heading": "Brothers Division",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Yovel Pasuk",
+    "candidates": [
+      "Bikkurim Problem",
+      "Tosafos Fix",
+      "Yovel Pasuk",
+      "Bechor Proof"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items together constitute Rava's verse-support for Reish Lakish \u2014 the introduction ('A verse and a baraita support Reish Lakish') and the verse itself (Leviticus 25:15 about selling years of produce) \u2014 which is precisely what the 'Yovel Pasuk' prose describes.",
+      "chosen_heading": "Yovel Pasuk",
+      "current_heading": "Yovel Pasuk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Bechor Proof",
+    "candidates": [
+      "Bechor Proof",
+      "Father Ownership",
+      "Harsha'ah Need"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the baraita itself about a firstborn receiving a double portion of a field returning at Jubilee, which directly matches the 'Bechor Proof' section's prose describing exactly this baraita teaching.",
+      "chosen_heading": "Bechor Proof",
+      "current_heading": "Bechor Proof",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      98,
+      99
+    ],
+    "current_heading": "Harsha'ah Need",
+    "candidates": [
+      "Father Ownership",
+      "Harsha'ah Need",
+      "Fruit Exception",
+      "Quality Grades",
+      "Collection Order"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      107
+    ],
+    "current_heading": "Collection Order",
+    "candidates": [
+      "Fruit Exception",
+      "Quality Grades",
+      "Collection Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage 'Hadaran alakh ha-shole'ach' is the closing formula marking the end of the chapter Ha-Shole'ach, which fits precisely under the 'Quality Grades' section prose that explicitly states 'The perek of ha-shole'ach is now complete, and the Gemara moves into the following perek.'",
+      "chosen_heading": "Quality Grades",
+      "current_heading": "Collection Order",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      109
+    ],
+    "current_heading": "Collection Order",
+    "candidates": [
+      "Collection Order",
+      "Encumbered Property"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Mishnah establishing the hierarchy of iddit/beinonis/ziboris for tort victims, creditors, and wives' ketubot, which is exactly what the 'Collection Order' prose describes and analyzes.",
+      "chosen_heading": "Collection Order",
+      "current_heading": "Collection Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      112,
+      113
+    ],
+    "current_heading": "Encumbered Property",
+    "candidates": [
+      "Encumbered Property",
+      "Heirs Collect",
+      "Improvements Limit"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Encumbered Property",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is about not collecting from liened/encumbered sold property when unencumbered property remains, which matches exactly the 'Encumbered Property' prose about protecting third-party purchasers by requiring the creditor to accept ziboris from the debtor's own holdings.",
+      "second_heading": "Heirs Collect",
+      "second_confidence": "high",
+      "second_reason": "Item 2 is about collecting from orphans' inherited property only from ziboris, which matches exactly the 'Heirs Collect' prose about collection from a deceased debtor's estate being limited to the lowest grade.",
+      "current_heading": "Encumbered Property",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      119,
+      120
+    ],
+    "current_heading": "Improvements Limit",
+    "candidates": [
+      "Heirs Collect",
+      "Improvements Limit",
+      "Support Limit",
+      "Finder Exemption"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Improvements Limit",
+      "first_confidence": "high",
+      "first_reason": "Item 1 discusses achilas peirot and shevach karka'os \u2014 improvements and produce \u2014 which is precisely the subject of the 'Improvements Limit' prose.",
+      "second_heading": "Support Limit",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces the distinct case of a widow's and daughters' sustenance from liened property, which is exactly what the 'Support Limit' prose discusses.",
+      "current_heading": "Improvements Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      127
+    ],
+    "current_heading": "Finder Exemption",
+    "candidates": [
+      "Support Limit",
+      "Finder Exemption",
+      "Torah Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the finder's oath exemption instituted for the betterment of the world, which exactly matches the 'Finder Exemption' section's prose about finders being exempt from oaths as a tikkun olam enactment.",
+      "chosen_heading": "Finder Exemption",
+      "current_heading": "Finder Exemption",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      131
+    ],
+    "current_heading": "Torah Source",
+    "candidates": [
+      "Torah Source",
+      "Rabbi Yishmael"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's question about whether collecting from superior-quality land is merely tikkun olam or actually Torah law, citing the verse 'meitav sadehu u-meitav karmo yeshaleim,' which is exactly what the 'Torah Source' section's prose discusses.",
+      "chosen_heading": "Torah Source",
+      "current_heading": "Torah Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134,
+      135,
+      136,
+      137
+    ],
+    "current_heading": "Rabbi Yishmael",
+    "candidates": [
+      "Rabbi Yishmael",
+      "Abaye Doubtful",
+      "Rava Rejects",
+      "Collection Resolution"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Rabbi Yishmael",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 present Abaye's clarification and the baraita dispute between Rabbi Yishmael and Rabbi Akiva, which is precisely what heading 0 ('Rabbi Yishmael') discusses in its prose.",
+      "second_heading": "Abaye Doubtful",
+      "second_confidence": "high",
+      "second_reason": "Items 3-4 present the challenge about uncertain eating (Rav Idi bar Avin's answer) and Rava's rejection of that answer due to burden of proof, matching headings 1 ('Abaye Doubtful') and 2 ('Rava Rejects') \u2014 but since items 3-4 span two headings, splitting after item 3 would be needed; however the split is most natural after item 2 where the structural shift from presenting the dispute to interrogating Rabbi Yishmael's position begins, and items 3-4 together cover the Abaye-doubt scenario and Rava's rejection, best placed under heading 1 as the start of that sub-discussion.",
+      "current_heading": "Rabbi Yishmael",
+      "moved": true
+    }
+  }
+]

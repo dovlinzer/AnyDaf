@@ -1,0 +1,468 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Abaye: textual limit",
+    "candidates": [
+      "Step-daughter-in-law",
+      "Abaye: textual limit",
+      "Rava: analogy fails"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Abaye's textual derivation using 'she is your mother' (imcha hi) to limit liability to one's mother but not the mother's mother \u2014 directly matching the prose of section 1 which describes Abaye appealing to the text with the same 'mishum X ata mechayevo' formulation.",
+      "chosen_heading": "Abaye: textual limit",
+      "current_heading": "Abaye: textual limit",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      7
+    ],
+    "current_heading": "Rava: analogy fails",
+    "candidates": [
+      "Rava: analogy fails",
+      "Penalty weight mismatch",
+      "Inconsistency objection",
+      "Context & Sreifa"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Rava's statement that the analogy fails under both hermeneutical methods, which is exactly what heading 0 ('Rava: analogy fails') describes as its content.",
+      "chosen_heading": "Rava: analogy fails",
+      "current_heading": "Rava: analogy fails",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "current_heading": "Context & Sreifa",
+    "candidates": [
+      "Penalty weight mismatch",
+      "Inconsistency objection",
+      "Context & Sreifa",
+      "Abaye kal vachomer"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 10,
+      "first_heading": "Context & Sreifa",
+      "first_confidence": "low",
+      "first_reason": "Items 1-10 discuss the 'mother of his mother' derivation which doesn't cleanly match any candidate prose, but candidate 2 is closest as the current placement.",
+      "second_heading": "Penalty weight mismatch",
+      "second_confidence": "high",
+      "second_reason": "Items 11-20 discuss the daughter-in-law (*kalatah*) prohibition derivation, beginning with the new question in item 11, which matches the prose of candidate 0 discussing the *don minah u'minah* analogy for the daughter-in-law case including the 'hu atzmo yochiach' counter-argument.",
+      "current_heading": "Context & Sreifa",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      38
+    ],
+    "current_heading": "Abaye kal vachomer",
+    "candidates": [
+      "Abaye kal vachomer",
+      "No punishment via kal",
+      "Giluy milta concept",
+      "Rava gezeirah shavah",
+      "Bat ish kohen source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents exactly Abaye's kal vachomer argument about bito me'anusato, which is precisely what the 'Abaye kal vachomer' section prose describes.",
+      "chosen_heading": "Abaye kal vachomer",
+      "current_heading": "Abaye kal vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      47,
+      48,
+      49
+    ],
+    "current_heading": "Bat ish kohen source",
+    "candidates": [
+      "No punishment via kal",
+      "Giluy milta concept",
+      "Rava gezeirah shavah",
+      "Bat ish kohen source",
+      "Split punishment Q"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items belong to the sequence resolving how the daughter's prohibition is derived: item 1 is the giluy milta answer to the kal vachomer objection, item 2 is Rava's gezeirah shavah alternative, and item 3 is the baraita's derivation \u2014 all three are presented together under the giluy milta/Rava discussion, but the prose of candidate 1 ('Giluy milta concept') covers item 1 directly and flows into items 2-3, while candidates 2 and 3 each cover only one of the later items; however, since all items form one continuous chain and candidate 1's prose explicitly discusses the giluy milta resolution (item 1) which opens this passage, and the current placement under 'Bat ish kohen source' only matches item 3, moving the whole passage to candidate 1 is not right either \u2014 but the clearest single best match covering the opening item is candidate 1, under which the subsequent items naturally follow as the continuation of the same derivation-chain discussion.",
+      "chosen_heading": "Giluy milta concept",
+      "current_heading": "Bat ish kohen source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      53
+    ],
+    "current_heading": "Split punishment Q",
+    "candidates": [
+      "Bat ish kohen source",
+      "Split punishment Q",
+      "Abaye: shame context"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage poses exactly the question described in 'Split punishment Q' \u2014 why not apply the bat kohen split (she gets sreifa but her paramour does not) to the case of the daughter born from rape \u2014 matching the prose of candidate 1 precisely.",
+      "chosen_heading": "Split punishment Q",
+      "current_heading": "Split punishment Q",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Abaye: shame context",
+    "candidates": [
+      "Abaye: shame context",
+      "No split if father",
+      "Rava: status removal"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Abaye's distinction between 'she who profanes her father' versus 'her father who profanes her,' which directly matches the prose in heading 0 about Abaye drawing a principled distinction based on who brings the desecration \u2014 *mi shemechalelet et aviha* versus *aviha mchalalah*.",
+      "chosen_heading": "Abaye: shame context",
+      "current_heading": "Abaye: shame context",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      61
+    ],
+    "current_heading": "Rava: status removal",
+    "candidates": [
+      "No split if father",
+      "Rava: status removal",
+      "Impossible outcome",
+      "Both get sreifa",
+      "Implicit derivation"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Rava's argument about what legal category remains if you remove the daughter relationship \u2014 and the structural problem of 'adina d'man mokmis lei' \u2014 is precisely what the 'Rava: status removal' prose describes.",
+      "chosen_heading": "Rava: status removal",
+      "current_heading": "Rava: status removal",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Implicit derivation",
+    "candidates": [
+      "Impossible outcome",
+      "Both get sreifa",
+      "Implicit derivation",
+      "Al techalel source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly asks where the azharah (prohibition) for a daughter from rape is derived, and explains that for Abaye and Rava it comes from the same source as the punishment \u2014 exactly what the 'Implicit derivation' prose describes.",
+      "chosen_heading": "Implicit derivation",
+      "current_heading": "Implicit derivation",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      73
+    ],
+    "current_heading": "Al techalel source",
+    "candidates": [
+      "Al techalel source",
+      "Ulla interpretation",
+      "Rabbi Yaakov challenge",
+      "L'haznotah limits"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Ile'a's answer that the prohibition is derived from 'al techalel et bitcha l'haznotah,' which is exactly what heading 0's prose describes as the gemara's answer to the question of where the prohibition comes from when punishment is derived from the daughter of a priest verse.",
+      "chosen_heading": "Al techalel source",
+      "current_heading": "Al techalel source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "L'haznotah limits",
+    "candidates": [
+      "Ulla interpretation",
+      "Rabbi Yaakov challenge",
+      "L'haznotah limits",
+      "Double lamed analysis"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Yaakov's objection and the baraita he cites as an alternative use of the verse, which corresponds exactly to the 'Rabbi Yaakov challenge' section's prose describing his challenge and the baraita about a kohen marrying his daughter to a Levi or Yisrael.",
+      "chosen_heading": "Rabbi Yaakov challenge",
+      "current_heading": "L'haznotah limits",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Double lamed analysis",
+    "candidates": [
+      "L'haznotah limits",
+      "Double lamed analysis",
+      "Elderly husband",
+      "Delaying marriage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage discusses both the doubled-lamed textual analysis (shma mina tarti) and Rabbi Mani's teaching about marrying a daughter to an old man, which maps perfectly to candidate 1's prose about the doubled lamed implying two prohibitions, followed by candidate 2's prose about the elderly husband \u2014 but since both topics appear in one continuous passage and candidate 1's prose explicitly covers both the doubled-lamed resolution and sets up the Abaye/Rava question that leads to Rabbi Mani's answer, the current placement under 'Double lamed analysis' is correct.",
+      "chosen_heading": "Double lamed analysis",
+      "current_heading": "Double lamed analysis",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      91
+    ],
+    "current_heading": "Delaying marriage",
+    "candidates": [
+      "Elderly husband",
+      "Delaying marriage",
+      "Rasha arum"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The baraita quotes both Rabbi Eliezer (marrying daughter to an old man) and Rabbi Akiva (delaying bogeret's marriage) together, and since the 'Elderly husband' section discusses Rabbi Eliezer's case and leads into Rabbi Akiva's, this baraita serves as the source text introduced under that heading \u2014 it belongs under 'Elderly husband' as the foundational quoted passage that supports both interpretations, with the subsequent sections elaborating each opinion separately.",
+      "chosen_heading": "Elderly husband",
+      "current_heading": "Delaying marriage",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      94,
+      95,
+      96
+    ],
+    "current_heading": "Rasha arum",
+    "candidates": [
+      "Delaying marriage",
+      "Rasha arum",
+      "Self-serving advice",
+      "Three case list"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains Rav Kahana/Rabbi Akiva's statement about the pauper and delaying a daughter's marriage, Abaye's clarification, and the warning about self-serving advice \u2014 all of which are discussed in candidate 0's prose about *hamasheh bito bogeret*, while candidate 1 ('Rasha arum') discusses Abaye's harmonization as if it were already established context, suggesting the passage belongs under 'Delaying marriage' where these concepts are first introduced.",
+      "chosen_heading": "Delaying marriage",
+      "current_heading": "Rasha arum",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      103
+    ],
+    "current_heading": "Three case list",
+    "candidates": [
+      "Self-serving advice",
+      "Three case list",
+      "Appetite mismatch",
+      "Rashi interpretation",
+      "Maharsha variant",
+      "Tosafot question",
+      "Baraita ideals"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rav Yehuda in Rav's name listing the three categories (daughter to old man, minor son to wife, returning lost object to gentile) with the verse about 'quenched added to thirsty,' which is precisely what the 'Three case list' prose describes.",
+      "chosen_heading": "Three case list",
+      "current_heading": "Three case list",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      115
+    ],
+    "current_heading": "Baraita ideals",
+    "candidates": [
+      "Appetite mismatch",
+      "Rashi interpretation",
+      "Maharsha variant",
+      "Tosafot question",
+      "Baraita ideals",
+      "Samuch l'firkan",
+      "Peace in tent",
+      "Kiddushin vs nisuin",
+      "Five acts listed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 7,
+      "confidence": "high",
+      "reason": "The passage presents the baraita's domestic ideals and then the gemara's resolution 'samuch l'firkan shani' \u2014 distinguishing marrying near maturity from marrying a minor \u2014 which is precisely what the 'Kiddushin vs nisuin' section's prose discusses.",
+      "chosen_heading": "Kiddushin vs nisuin",
+      "current_heading": "Baraita ideals",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      125
+    ],
+    "current_heading": "Five acts listed",
+    "candidates": [
+      "Samuch l'firkan",
+      "Peace in tent",
+      "Kiddushin vs nisuin",
+      "Five acts listed",
+      "Marrying niece",
+      "Emergency lending",
+      "Then you will call",
+      "Them identification"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The baraita lists exactly the five acts mentioned in candidate 3's prose (loving neighbors, bringing relatives close, marrying one's niece, lending to a poor person, and the divine response 'az tikra vaHashem ya'aneh'), which directly describes this passage's content.",
+      "chosen_heading": "Five acts listed",
+      "current_heading": "Five acts listed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      135
+    ],
+    "current_heading": "Them identification",
+    "candidates": [
+      "Marrying niece",
+      "Emergency lending",
+      "Then you will call",
+      "Them identification",
+      "Yishmael one",
+      "Greek etymology",
+      "Yishmael: Grandmother gez",
+      "Akiva both",
+      "Akiva explicit",
+      "Real dispute"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage presents the baraita debating what 'him and them' means in Leviticus 20:14, which is exactly what the 'Them identification' section's prose sets up \u2014 asking what the plural 'ethen' refers to after excluding the wife.",
+      "chosen_heading": "Them identification",
+      "current_heading": "Them identification",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      149
+    ],
+    "current_heading": "Real dispute",
+    "candidates": [
+      "Yishmael one",
+      "Greek etymology",
+      "Yishmael: Grandmother gez",
+      "Akiva both",
+      "Akiva explicit",
+      "Real dispute",
+      "Yishmael continues",
+      "Akiva limited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 5,
+      "confidence": "high",
+      "reason": "The passage asks 'what is the difference between them?' and Abaye answers it is about 'mashma'ut dorshin' (interpretation of the verse's meaning), which is precisely what the 'Real dispute' section discusses \u2014 Rava challenging Abaye's characterization that the dispute is merely about verse interpretation (mashma'ut dorshin) without a practical halachic difference.",
+      "chosen_heading": "Real dispute",
+      "current_heading": "Real dispute",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154,
+      155
+    ],
+    "current_heading": "Akiva limited",
+    "candidates": [
+      "Yishmael continues",
+      "Akiva limited"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items together present the dispute between Rabbi Yishmael and Rabbi Akiva, with Rava's clarification that the practical difference is about the mother-in-law after the wife's death \u2014 precisely the content described in candidate 0 ('Yishmael continues'), which discusses Rabbi Yishmael's position that sreifa applies even after the wife's death, whereas candidate 1 ('Akiva limited') focuses on Akiva's view that only a mere prohibition remains, and the passage as a whole is setting up that contrast with Yishmael's position as the anchor.",
+      "chosen_heading": "Yishmael continues",
+      "current_heading": "Akiva limited",
+      "moved": true
+    }
+  }
+]

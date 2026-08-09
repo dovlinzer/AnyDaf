@@ -234,13 +234,6 @@ Shepherds who graze exclusively outside the *tchum* are treated differently: *mu
 
 The *gemara*'s earlier framing of *gezel goy* involved a tacit assumption about the category of non-Jew to whom these distinctions apply. As addressed above, *Rav Yosef* had proposed distinguishing between an ordinary non-Jew and a *ger toshav* — one who accepts the seven Noahide laws. *Abaye* rejected that as a solution to the textual contradiction within *Rabbi Akiva*'s positions, since the relevant verse encompasses both categories. Nevertheless, the *ger toshav* category remains operative as a limiting principle: many authorities hold that where the non-Jew in question observes basic moral and legal norms — behaving, in the language of the gloss, *kamocha*, like unto you — the full range of permissive rulings concerning *hafkakat halvato* and lost objects does not apply.
 
-## Non-Jewish Courts
-
-### Volunteer Testimony
-
-*Rava* — or in some versions *Rav Huna* — announced publicly, directed at those traveling between *Eretz Yisrael* and *Bavel*: a Jew who knows testimony that would support a non-Jew's case against a fellow Jew — *v'lo tva'u minei* (according to the textual reading that includes this phrase) and has not been summoned to testify — who nevertheless goes and testifies in a non-Jewish court on behalf of the non-Jew against the Jew, *meshamtinan lei* — is placed in *cherem*.
-
-The reason is that non-Jewish courts of the *magista* type (the local village court, per *Rashi*) will extract money on the basis of a single witness — *de'inhu mafik mamona apuma de-chad* — whereas Jewish law requires two witnesses before money is extracted, and a single witness can at most impose an oath. By volunteering testimony in such a court, the Jew enables a monetary extraction that Jewish procedure would not permit. The *halacha* thus limits this to unsummoned testimony in courts that do not follow the two-witness standard. If the witness is one of two (so that the non-Jew would prevail in Jewish court as well), or if the court follows the same standards as a Jewish court with respect to single witnesses, testifying is not prohibited.
 
 ## Gezel Goy (IV)
 

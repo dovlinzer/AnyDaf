@@ -1,0 +1,362 @@
+[
+  {
+    "quote_indices": [
+      4
+    ],
+    "current_heading": "Safek Shema/Emes",
+    "candidates": [
+      "Ba'al Keri Intro",
+      "Safek Shema/Emes",
+      "Shema Derabbanan",
+      "Abaye's Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yehuda's ruling about safek shema vs. safek emet veyatziv, which is precisely what the 'Safek Shema/Emes' prose describes.",
+      "chosen_heading": "Safek Shema/Emes",
+      "current_heading": "Safek Shema/Emes",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Abaye's Resolution",
+    "candidates": [
+      "Shema Derabbanan",
+      "Abaye's Resolution",
+      "Mishnah Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Rav Yosef's objection and Abaye's response together as a unit, and candidate 0's prose explicitly describes Rav Yosef's challenge using the exact words 'ubeshochavecha uvekumacha' while also setting up Abaye's resolution \u2014 making it the section that introduces and frames this entire exchange, whereas candidate 1's prose describes Abaye's argument in retrospective/analytical terms as if the Gemara text has already been presented.",
+      "chosen_heading": "Shema Derabbanan",
+      "current_heading": "Abaye's Resolution",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Mishnah Test",
+    "candidates": [
+      "Abaye's Resolution",
+      "Mishnah Test",
+      "Biblical Scope"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the mishna text about ba'al keri reciting shema in his heart without blessings before or after, which is precisely what the 'Mishnah Test' section's prose discusses as the gemara's test against the position about emes v'yatziv.",
+      "chosen_heading": "Mishnah Test",
+      "current_heading": "Mishnah Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      15,
+      16
+    ],
+    "current_heading": "Biblical Scope",
+    "candidates": [
+      "Biblical Scope",
+      "Shema Preference"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly address why the ba'al keri recites emet veyatziv when parshas tzitzis already covers yetzias mitzrayim \u2014 which is precisely the question the 'Shema Preference' prose discusses, asking why shema is needed if emes v'yatziv can fulfill the de'oraita obligation.",
+      "chosen_heading": "Shema Preference",
+      "current_heading": "Biblical Scope",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      21
+    ],
+    "current_heading": "Shema Preference",
+    "candidates": [
+      "Biblical Scope",
+      "Shema Preference",
+      "Rabbi Elazar View",
+      "Prayer Status",
+      "Rav Yochanan",
+      "Safek Prayer Options"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly addresses why Shema is preferable to emet veyatziv because it contains two elements, which matches exactly the 'Shema Preference' section's prose about krias shema adifa de'is bah tartei.",
+      "chosen_heading": "Shema Preference",
+      "current_heading": "Shema Preference",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Safek Prayer Options",
+    "candidates": [
+      "Rabbi Elazar View",
+      "Prayer Status",
+      "Rav Yochanan",
+      "Safek Prayer Options",
+      "Wake Mid-Prayer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Elazar's ruling distinguishing safek shema (repeat) from safek tefillah (don't repeat) and Rabbi Yochanan's counterpoint, which is precisely what heading 0 ('Rabbi Elazar View') introduces and discusses.",
+      "chosen_heading": "Rabbi Elazar View",
+      "current_heading": "Safek Prayer Options",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      37
+    ],
+    "current_heading": "Wake Mid-Prayer",
+    "candidates": [
+      "Safek Prayer Options",
+      "Wake Mid-Prayer",
+      "Private vs Public"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the Shmuel ruling about interrupting mid-blessing and the Rav Nachman/Rabba bar Avuha challenge about completing a blessing when reciting weekday prayers on Shabbat, which is precisely what the 'Wake Mid-Prayer' section's prose describes.",
+      "chosen_heading": "Wake Mid-Prayer",
+      "current_heading": "Wake Mid-Prayer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Private vs Public",
+    "candidates": [
+      "Private vs Public",
+      "Home to Shul"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's rejection comparing Shabbat obligation to Shmuel's case of someone who already davened, which directly corresponds to the 'Private vs Public' section's detailed analysis of that exact distinction.",
+      "chosen_heading": "Private vs Public",
+      "current_heading": "Private vs Public",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Home to Shul",
+    "candidates": [
+      "Home to Shul",
+      "Chidush Davar",
+      "Two Cases Needed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents Shmuel's ruling about arriving at shul after having already prayed, which is precisely what heading 0 ('Home to Shul') addresses, while heading 1 elaborates on the chidush davar concept and heading 2 discusses why both rulings are needed \u2014 both presuppose this passage has already been introduced.",
+      "chosen_heading": "Home to Shul",
+      "current_heading": "Home to Shul",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53
+    ],
+    "current_heading": "Two Cases Needed",
+    "candidates": [
+      "Chidush Davar",
+      "Two Cases Needed",
+      "Timing Dilemma",
+      "Modim Standard",
+      "Kedusha Standard"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form the Gemara's explanation of why both of Shmuel's rulings are necessary (yachid/yachid vs. yachid/tzibur, and the 'did not yet begin' distinction), which is precisely what the 'Two Cases Needed' prose describes.",
+      "chosen_heading": "Two Cases Needed",
+      "current_heading": "Two Cases Needed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63
+    ],
+    "current_heading": "Kedusha Standard",
+    "candidates": [
+      "Timing Dilemma",
+      "Modim Standard",
+      "Kedusha Standard",
+      "Private Kedusha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rav Huna's and Rabbi Yehoshua ben Levi's opinions together as a unit addressing the timing dilemma of a latecomer, and the 'Timing Dilemma' prose describes exactly this scenario \u2014 a person arriving mid-Amida who hasn't yet davened \u2014 making it the natural home for the complete passage rather than splitting it across the 'Modim Standard' and 'Kedusha Standard' headings.",
+      "chosen_heading": "Timing Dilemma",
+      "current_heading": "Kedusha Standard",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      66
+    ],
+    "current_heading": "Private Kedusha",
+    "candidates": [
+      "Kedusha Standard",
+      "Private Kedusha",
+      "Kedusha Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents the Gemara's identification of the underlying dispute between the two opinions on whether an individual can recite kedusha privately, which is precisely what the 'Private Kedusha' section's prose describes and analyzes.",
+      "chosen_heading": "Private Kedusha",
+      "current_heading": "Private Kedusha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      69,
+      70
+    ],
+    "current_heading": "Kedusha Source",
+    "candidates": [
+      "Kedusha Source",
+      "Kedusha Text/Liturgy",
+      "Modim Significance",
+      "Tosafot Solutions"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly present Rav Adda bar Ahava's statement and the gezeira shava (toch-toch) derivation that kedushah requires ten, which is precisely what the 'Kedusha Source' prose discusses in detail.",
+      "chosen_heading": "Kedusha Source",
+      "current_heading": "Kedusha Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81,
+      82
+    ],
+    "current_heading": "Tosafot Solutions",
+    "candidates": [
+      "Kedusha Text/Liturgy",
+      "Modim Significance",
+      "Tosafot Solutions",
+      "Rabbi Yehuda Lenient",
+      "Ba'al Keri Assumption",
+      "Har Sinai Source"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "Both items discuss whether one may interrupt Shmoneh Esrei for kedushah-related responses (kedushah and kaddish's 'yehei shemei rabbah'), which directly fits the 'Tosafot Solutions' section's discussion of interruptions during Shmoneh Esrei for kedushah and the shomea k'oneh mechanism.",
+      "chosen_heading": "Tosafot Solutions",
+      "current_heading": "Tosafot Solutions",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Har Sinai Source",
+    "candidates": [
+      "Rabbi Yehuda Lenient",
+      "Ba'al Keri Assumption",
+      "Har Sinai Source",
+      "Smuchim Debate",
+      "Mishneh Torah Priority"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage both states Rabbi Yehuda's lenient ruling AND immediately raises the contradiction from Rabbi Yehoshua ben Levi's source, making it a unified unit that belongs under the 'Ba'al Keri Assumption' heading which describes exactly this logical challenge to Rabbi Yehuda's position \u2014 not under 'Har Sinai Source' which covers only the derivation itself, nor 'Rabbi Yehuda Lenient' which covers only the ruling without the challenge.",
+      "chosen_heading": "Ba'al Keri Assumption",
+      "current_heading": "Har Sinai Source",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      97
+    ],
+    "current_heading": "Mishneh Torah Priority",
+    "candidates": [
+      "Smuchim Debate",
+      "Mishneh Torah Priority",
+      "Smuchim Examples"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rav Yosef's distinction that even those who don't use smuchin throughout the Torah do use it in Mishneh Torah/Devarim, which is precisely what the 'Mishneh Torah Priority' section's prose describes.",
+      "chosen_heading": "Mishneh Torah Priority",
+      "current_heading": "Mishneh Torah Priority",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "current_heading": "Smuchim Examples",
+    "candidates": [
+      "Smuchim Examples",
+      "Har Sinai Teaching"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items collectively demonstrate Rabbi Yehuda's methodology on smuchin \u2014 items 1-2 showing he rejects smuchin outside Devarim (sorceress case), items 3-5 showing he accepts smuchin in Devarim (father's rape victim case) \u2014 which is precisely what the 'Smuchim Examples' prose describes.",
+      "chosen_heading": "Smuchim Examples",
+      "current_heading": "Smuchim Examples",
+      "moved": false
+    }
+  }
+]

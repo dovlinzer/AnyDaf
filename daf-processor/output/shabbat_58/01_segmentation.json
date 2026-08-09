@@ -19,7 +19,7 @@
           "timestamp": "00:39"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 1,
       "matched": true
     },
     {
@@ -43,7 +43,7 @@
           "timestamp": "05:15"
         }
       ],
-      "sefaria_index": 6,
+      "sefaria_index": 1,
       "matched": false
     },
     {
@@ -149,7 +149,7 @@
           "timestamp": "27:48"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 17,
       "matched": true
     },
     {
@@ -168,7 +168,7 @@
           "timestamp": "30:10"
         }
       ],
-      "sefaria_index": 8,
+      "sefaria_index": 17,
       "matched": false
     },
     {
@@ -216,8 +216,8 @@
           "timestamp": "45:19"
         }
       ],
-      "sefaria_index": 27,
-      "matched": true
+      "sefaria_index": 21,
+      "matched": false
     },
     {
       "title": "Scissors and Multi-Part Vessels: Chibbur (Connection) for Tumah vs. Haza'ah (Sprinkling)",
@@ -240,7 +240,7 @@
           "timestamp": "49:06"
         }
       ],
-      "sefaria_index": 28,
+      "sefaria_index": 29,
       "matched": true
     },
     {
@@ -537,5 +537,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 19
+  "amud_b_sefaria_index": 19,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "27:48",
+  "amud_b_micro_title": "Bell Tamei Issue",
+  "shiur_start_daf": 57,
+  "shiur_start_amud": "b"
 }

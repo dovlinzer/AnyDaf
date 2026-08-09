@@ -1,0 +1,320 @@
+[
+  {
+    "quote_indices": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "current_heading": "Seventh = First (Chag)",
+    "candidates": [
+      "Previous Day's Discussion",
+      "Why Not Night Before",
+      "Why Not Early Morning",
+      "Biyur After Six Hours",
+      "Rishon Interpretation",
+      "14th of Nisan = Rishon",
+      "Textual Parallels",
+      "Rishon = Prior",
+      "Sukkot Counterexample",
+      "Seventh = First (Chag)",
+      "Mikra Kodesh Parallel",
+      "HaRishon Excludes Chol",
+      "Grammar: Vav and He"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 9,
+      "confidence": "high",
+      "reason": "All five items form a continuous chain of question-and-answer about whether 'rishon' in the Pesach and Sukkot verses means the festival day itself or the prior day, with the Sukkot parallel (shevi'i/rishon lachag), the harishon lama li argument, and the eighth-day anchor of Sukkot \u2014 precisely the content described in candidate 9's prose.",
+      "chosen_heading": "Seventh = First (Chag)",
+      "current_heading": "Seventh = First (Chag)",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      35,
+      36,
+      37
+    ],
+    "current_heading": "Grammar: Vav and He",
+    "candidates": [
+      "Mikra Kodesh Parallel",
+      "HaRishon Excludes Chol",
+      "Grammar: Vav and He",
+      "Rishon for Derash",
+      "Merit of Rishonim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All three items discuss exactly the content described in candidate 2's prose: the vav/heh grammatical interplay, why harishon is needed to exclude Chol HaMoed despite the vav of uvayom hashmini, the question of why not simply omit the vav, and the challenge from the parallel harishon in the Pesach verse \u2014 matching the current placement precisely.",
+      "chosen_heading": "Grammar: Vav and He",
+      "current_heading": "Grammar: Vav and He",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Merit of Rishonim",
+    "candidates": [
+      "Rishon for Derash",
+      "Merit of Rishonim",
+      "Esau's Seed",
+      "Se'or & Yetzer Hara",
+      "Beit HaMikdash"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the Gemara's actual statement that the three instances of 'rishon' are needed for the school of Rabbi Yishmael's drasha, which is precisely what the 'Rishon for Derash' prose section describes and quotes (ella hanei shelosha rishon miba'ei lei kedatanya devei Rabbi Yishmael).",
+      "chosen_heading": "Rishon for Derash",
+      "current_heading": "Merit of Rishonim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      52
+    ],
+    "current_heading": "Beit HaMikdash",
+    "candidates": [
+      "Esau's Seed",
+      "Se'or & Yetzer Hara",
+      "Beit HaMikdash",
+      "Mashiach",
+      "Lo Tishchat Al Chametz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage covers all three rishonim (Esau's seed, Beit HaMikdash, and Mashiach) as a unified Talmudic unit providing scriptural sources, and since it begins with the Esau passage and the essay breaks these into separate sections, it belongs under the first heading 'Esau's Seed' where the full source-citation block would naturally be introduced.",
+      "chosen_heading": "Esau's Seed",
+      "current_heading": "Beit HaMikdash",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      59
+    ],
+    "current_heading": "Lo Tishchat Al Chametz",
+    "candidates": [
+      "Mashiach",
+      "Lo Tishchat Al Chametz",
+      "Individual Shifts Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rava's derivation from 'lo tishchat al chametz' directly, matching the prose of candidate 1 which explicitly describes Rava's use of this verse as a source for the timing of biyur chametz.",
+      "chosen_heading": "Lo Tishchat Al Chametz",
+      "current_heading": "Lo Tishchat Al Chametz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62
+    ],
+    "current_heading": "Individual Shifts Problem",
+    "candidates": [
+      "Individual Shifts Problem",
+      "Zman Shechita Begins",
+      "Three Meanings",
+      "Cannot Slaughter w/"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents both the difficulty (each individual slaughters at different times) and the Gemara's resolution ('zman shechita amar Rachmana' \u2014 referring to the collective fixed time of slaughter), which matches candidate 1's prose about resolving the individual timing problem by pointing to the communal zman shechita.",
+      "chosen_heading": "Zman Shechita Begins",
+      "current_heading": "Individual Shifts Problem",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      70
+    ],
+    "current_heading": "Cannot Slaughter w/",
+    "candidates": [
+      "Zman Shechita Begins",
+      "Three Meanings",
+      "Cannot Slaughter w/",
+      "Melacha Objection"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is a baraita that presents the question of whether 'ach bayom harishon tashbitu' applies me'erev Yom Tov or on Yom Tov itself and then resolves it via lo tishchat al chametz \u2014 matching heading 1's prose which describes exactly this baraita with its three possible readings, rather than heading 2 which discusses only the resolution aspect.",
+      "chosen_heading": "Three Meanings",
+      "current_heading": "Cannot Slaughter w/",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Melacha Objection",
+    "candidates": [
+      "Cannot Slaughter w/",
+      "Melacha Objection",
+      "Ach Divides Day",
+      "Hekesh to Matzah",
+      "Matzah on Erev Pesach",
+      "Biyur = Sreifah",
+      "Sreifah Melacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Akiva's argument that 'harishon' refers to erev Pesach because burning chametz constitutes a melacha prohibited on Yom Tov, which is precisely what the 'Melacha Objection' prose describes.",
+      "chosen_heading": "Melacha Objection",
+      "current_heading": "Melacha Objection",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88,
+      89
+    ],
+    "current_heading": "Sreifah Melacha",
+    "candidates": [
+      "Ach Divides Day",
+      "Hekesh to Matzah",
+      "Matzah on Erev Pesach",
+      "Biyur = Sreifah",
+      "Sreifah Melacha",
+      "Not Permitted on Yom Tov",
+      "Yimatzei vs. Yeira'eh"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Ach Divides Day",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents Rabbi Yosei's argument that 'ach' divides the day and that 'harishon' cannot refer to Yom Tov itself due to the hekesh chain, which is precisely what heading 0 ('Ach Divides Day') and heading 1 ('Hekesh to Matzah') discuss \u2014 heading 0 is the better fit as it covers the 'ach chalak' argument and the impossibility of reading harishon as Yom Tov itself.",
+      "second_heading": "Biyur = Sreifah",
+      "second_confidence": "high",
+      "second_reason": "Item 2 presents Rava's derivation of three halachot from Rabbi Akiva, beginning with 'ein bi'ur chametz ela sereifah', which corresponds exactly to heading 3 ('Biyur = Sreifah') whose prose describes precisely this Rava passage and its three lessons.",
+      "current_heading": "Sreifah Melacha",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Yimatzei vs. Yeira'eh",
+    "candidates": [
+      "Not Permitted on Yom Tov",
+      "Yimatzei vs. Yeira'eh",
+      "Your Own vs. Others'",
+      "Hiding & Deposits",
+      "Houses vs. Borders"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All four items constitute the single baraita that distinguishes yimatzei from yeira'eh, which is precisely what heading 1 ('Yimatzei vs. Yeira'eh') discusses \u2014 the two verses, why both are needed, and what each contributes, including the lecha/shelcha reading and the extensions to hiding, deposits, and borders that flow from that distinction.",
+      "chosen_heading": "Yimatzei vs. Yeira'eh",
+      "current_heading": "Yimatzei vs. Yeira'eh",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      107,
+      108
+    ],
+    "current_heading": "Houses vs. Borders",
+    "candidates": [
+      "Your Own vs. Others'",
+      "Hiding & Deposits",
+      "Houses vs. Borders",
+      "Se'or Equivalence",
+      "House Rules to Borders",
+      "Border Rules to Houses"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Houses vs. Borders",
+      "first_confidence": "high",
+      "first_reason": "Item 1 poses the question of how to apply house-rules to borders and border-rules to houses, which is precisely what the 'Houses vs. Borders' prose discusses \u2014 the complementary roles of the two verses and why neither alone suffices.",
+      "second_heading": "Se'or Equivalence",
+      "second_confidence": "high",
+      "second_reason": "Item 2 answers that question by invoking the gezeirah shava on the word se'or, which is exactly what the 'Se'or Equivalence' prose describes.",
+      "current_heading": "Houses vs. Borders",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      116
+    ],
+    "current_heading": "Border Rules to Houses",
+    "candidates": [
+      "Se'or Equivalence",
+      "House Rules to Borders",
+      "Border Rules to Houses",
+      "Uncontrolled Non-Jews",
+      "Chametz: Non-Jews",
+      "Abaye's Reversal",
+      "Rava Maintains Reisha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage explicitly states the converse derivation \u2014 that the rule from borders (your own leaven you may not see, but others' and God's you may) applies to houses \u2014 which is precisely what candidate 2 'Border Rules to Houses' describes.",
+      "chosen_heading": "Border Rules to Houses",
+      "current_heading": "Border Rules to Houses",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126,
+      127,
+      128,
+      129,
+      130
+    ],
+    "current_heading": "Rava Maintains Reisha",
+    "candidates": [
+      "Uncontrolled Non-Jews",
+      "Chametz: Non-Jews",
+      "Abaye's Reversal",
+      "Rava Maintains Reisha",
+      "Shelcha Twice = Ribui"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "All five items form a continuous Talmudic discussion about Rava's position (lo teipecha, reisha ka'ei), the challenge about citing a prohibitory verse for a leniency, and the resolution via the doubled 'shelcha' \u2014 exactly what the 'Rava Maintains Reisha' prose describes.",
+      "chosen_heading": "Rava Maintains Reisha",
+      "current_heading": "Rava Maintains Reisha",
+      "moved": false
+    }
+  }
+]

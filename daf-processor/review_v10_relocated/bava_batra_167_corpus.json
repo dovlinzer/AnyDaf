@@ -1,0 +1,350 @@
+[
+  {
+    "quote_indices": [
+      5
+    ],
+    "current_heading": "Blank Document Risk",
+    "candidates": [
+      "Signature Display",
+      "Blank Document Risk",
+      "Tax Collector Story"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's warning about signing at the bottom of a parchment and the mishna about collecting from unsold property via a handwritten note, which is precisely what the 'Blank Document Risk' section's prose discusses.",
+      "chosen_heading": "Blank Document Risk",
+      "current_heading": "Blank Document Risk",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      8
+    ],
+    "current_heading": "Tax Collector Story",
+    "candidates": [
+      "Tax Collector Story",
+      "Numbers at Line Ends",
+      "Forgery via Yud Addition",
+      "Repetition Remedy"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes exactly the tax collector story involving Abaye's signature that the prose under heading 0 summarizes in detail.",
+      "chosen_heading": "Tax Collector Story",
+      "current_heading": "Tax Collector Story",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Repetition Remedy",
+    "candidates": [
+      "Numbers at Line Ends",
+      "Forgery via Yud Addition",
+      "Repetition Remedy",
+      "Orchard Erasure Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is Abaye's statement about not writing numbers three through ten at the end of a line, which is precisely what heading 0 'Numbers at Line Ends' is about, with headings 1 and 2 covering the follow-on explanations of the forgery mechanism and the repetition remedy respectively.",
+      "chosen_heading": "Numbers at Line Ends",
+      "current_heading": "Repetition Remedy",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      19
+    ],
+    "current_heading": "Orchard Erasure Case",
+    "candidates": [
+      "Repetition Remedy",
+      "Orchard Erasure Case",
+      "Three Brothers Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the orchard forgery case (tilta b'pardisa \u2192 ufardeisa) adjudicated by Abaye, which is precisely what the 'Orchard Erasure Case' prose discusses in detail.",
+      "chosen_heading": "Orchard Erasure Case",
+      "current_heading": "Orchard Erasure Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      24
+    ],
+    "current_heading": "Three Brothers Case",
+    "candidates": [
+      "Three Brothers Case",
+      "Rambam's Scrutiny Rules",
+      "Rava's Signature Case"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage describes the exact same case discussed in the 'Three Brothers Case' prose \u2014 the vav insertion into achei/v'Achi, Abaye's diagnostic question about crowding, and the forced admission.",
+      "chosen_heading": "Three Brothers Case",
+      "current_heading": "Three Brothers Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31
+    ],
+    "current_heading": "Rava's Signature Case",
+    "candidates": [
+      "Rambam's Scrutiny Rules",
+      "Rava's Signature Case",
+      "Get Without Wife",
+      "Tosafot on Dating Risk",
+      "Receipt Without Parties"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes exactly the story of Rava examining a forged document bearing his and Rav Acha bar Adda's signatures, which is precisely what the 'Rava's Signature Case' prose discusses in detail.",
+      "chosen_heading": "Rava's Signature Case",
+      "current_heading": "Rava's Signature Case",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      42,
+      43
+    ],
+    "current_heading": "Receipt Without Parties",
+    "candidates": [
+      "Get Without Wife",
+      "Tosafot on Dating Risk",
+      "Receipt Without Parties",
+      "Debt Document Rules",
+      "Sale Document Rules"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Get Without Wife",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah covering both the get and the shover, which the 'Get Without Wife' heading introduces as 'the Gemara transitions to a new Mishnah: kotvin get l'ish' \u2014 the prose under heading 0 directly introduces this Mishnah text.",
+      "second_heading": "Debt Document Rules",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the loan document rules (kotvin shtar l'loveh / v'ein kotvin l'malveh), which matches exactly the 'Debt Document Rules' prose at heading 3.",
+      "current_heading": "Receipt Without Parties",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      49
+    ],
+    "current_heading": "Sale Document Rules",
+    "candidates": [
+      "Debt Document Rules",
+      "Sale Document Rules",
+      "Two-Party Documents"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explicitly discusses writing a bill of sale for a seller vs. buyer and who pays the scribe's wages, which matches precisely the 'Sale Document Rules' section prose.",
+      "chosen_heading": "Sale Document Rules",
+      "current_heading": "Sale Document Rules",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      52,
+      53,
+      54
+    ],
+    "current_heading": "Two-Party Documents",
+    "candidates": [
+      "Two-Party Documents",
+      "Two Copies Rule",
+      "Recognition Initial Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Two-Party Documents",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 cover the two-party consent and fee rules for betrothal/marriage and sharecropping documents, exactly matching the 'Two-Party Documents' prose.",
+      "second_heading": "Two Copies Rule",
+      "second_confidence": "high",
+      "second_reason": "Item 3 contains Rabban Shimon ben Gamliel's ruling that two copies are written for two-party documents, which is precisely what the 'Two Copies Rule' prose discusses.",
+      "current_heading": "Two-Party Documents",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      60
+    ],
+    "current_heading": "Recognition Initial Rule",
+    "candidates": [
+      "Two Copies Rule",
+      "Recognition Initial Rule",
+      "Identical Names Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states Rav Yehuda/Rav's teaching about recognizing the man's name for a get and the woman's name for a receipt, which is precisely what the 'Recognition Initial Rule' prose discusses.",
+      "chosen_heading": "Recognition Initial Rule",
+      "current_heading": "Recognition Initial Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "current_heading": "Identical Names Problem",
+    "candidates": [
+      "Identical Names Problem",
+      "Both Names Required",
+      "Same City Same Names"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All four items form a continuous unit: the three Amoraim raise the dilemma about one-sided name requirements, voice the fraud concern about identical names, and Abaye resolves it \u2014 exactly the content described in the 'Identical Names Problem' prose.",
+      "chosen_heading": "Identical Names Problem",
+      "current_heading": "Identical Names Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      71,
+      72
+    ],
+    "current_heading": "Same City Same Names",
+    "candidates": [
+      "Both Names Required",
+      "Same City Same Names",
+      "Both Couples Present Rule",
+      "Name Adoption Fraud",
+      "Thirty-Day Rule"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Same City Same Names",
+      "first_confidence": "high",
+      "first_reason": "Item 1 presents the two Yosef ben Shimon scenario and Rav's ruling that they may only divorce in each other's presence, which matches heading 1 ('Same City Same Names') and heading 2 ('Both Couples Present Rule') \u2014 but since item 1 raises the problem AND gives Rav's ruling, and heading 1's prose explicitly covers both the problem and notes that Rav Acha bar Huna cites Rav's ruling, item 1 fits best under heading 1 as currently placed, while heading 2's prose elaborates on that ruling.",
+      "second_heading": "Name Adoption Fraud",
+      "second_confidence": "high",
+      "second_reason": "Item 2 introduces an entirely new scenario \u2014 someone traveling to another city and falsely establishing a name there \u2014 which is precisely the 'Name Adoption Fraud' scenario described in heading 3's prose.",
+      "current_heading": "Same City Same Names",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Thirty-Day Rule",
+    "candidates": [
+      "Both Couples Present Rule",
+      "Name Adoption Fraud",
+      "Thirty-Day Rule",
+      "Name Response Test"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly states Rav's thirty-day rule, which is precisely what the 'Thirty-Day Rule' section's prose discusses and explains.",
+      "chosen_heading": "Thirty-Day Rule",
+      "current_heading": "Thirty-Day Rule",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      84
+    ],
+    "current_heading": "Name Response Test",
+    "candidates": [
+      "Name Response Test",
+      "Deceiver Objection",
+      "Woman Retraction Claim",
+      "Witness Doubt Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains both Abaye's name-response test and Rav Zevid's objection, and heading 0's prose explicitly introduces both the 'lo itchazak mai' question and Abaye's 'dekaru lei ve'ani' proposal, making it the natural home for the full passage \u2014 Rav Zevid's objection is a response within the same unit of discussion that heading 0 opens.",
+      "chosen_heading": "Name Response Test",
+      "current_heading": "Name Response Test",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      92
+    ],
+    "current_heading": "Witness Doubt Response",
+    "candidates": [
+      "Deceiver Objection",
+      "Woman Retraction Claim",
+      "Witness Doubt Response",
+      "Torah Scholar Exception"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes the woman's appearance before Rav Yirmeyah and her claim 'lav ana havai' (it was not I), which is precisely what the 'Woman Retraction Claim' prose describes \u2014 her assertion that a different woman had falsely represented herself when the receipt was signed.",
+      "chosen_heading": "Woman Retraction Claim",
+      "current_heading": "Witness Doubt Response",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      95,
+      96
+    ],
+    "current_heading": "Torah Scholar Exception",
+    "candidates": [
+      "Witness Doubt Response",
+      "Torah Scholar Exception",
+      "Unresolved Principles"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together form Abaye's statement about the Torah scholar exception to keivan shehigid, which is precisely what the 'Torah Scholar Exception' section's prose discusses.",
+      "chosen_heading": "Torah Scholar Exception",
+      "current_heading": "Torah Scholar Exception",
+      "moved": false
+    }
+  }
+]

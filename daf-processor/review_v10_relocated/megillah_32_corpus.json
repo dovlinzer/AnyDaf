@@ -1,0 +1,417 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5,
+      6
+    ],
+    "current_heading": "Rehoboam Example",
+    "candidates": [
+      "Demolish Don't Build",
+      "Rehoboam Example",
+      "Reading Continuity"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Reading Continuity",
+      "first_confidence": "high",
+      "first_reason": "Items 1-2 discuss Ezra's enactment about reading curses before Shavuot and Rosh HaShana, matching candidate 2's prose about reading continuity in the Torah cycle (though imperfectly, this is clearly not about the Rehoboam/elders topic).",
+      "second_heading": "Demolish Don't Build",
+      "second_confidence": "high",
+      "second_reason": "Item 3 is the baraita about Rabbi Shimon ben Elazar's teaching on following elders over youth, with Rehoboam as the proof, which matches candidate 0's prose describing exactly this baraita as the opening teaching.",
+      "current_heading": "Rehoboam Example",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      10
+    ],
+    "current_heading": "Reading Continuity",
+    "candidates": [
+      "Rehoboam Example",
+      "Reading Continuity",
+      "Meir vs. Yehuda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents the baraita establishing Torah reading continuity across the week, which is precisely what the 'Reading Continuity' section's prose describes, and includes both Rabbi Meir's and Rabbi Yehuda's views as part of the same baraita unit.",
+      "chosen_heading": "Reading Continuity",
+      "current_heading": "Reading Continuity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Meir vs. Yehuda",
+    "candidates": [
+      "Meir vs. Yehuda",
+      "Halacha Decision"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Rabbi Zeira's halakhic ruling and the Gemara's question about why he stated it in full rather than simply citing Rabbi Yehuda by name, which matches precisely the 'Halacha Decision' prose discussing Rabbi Zeira's ruling and the reason for stating it substantively rather than by attribution.",
+      "chosen_heading": "Halacha Decision",
+      "current_heading": "Meir vs. Yehuda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      16
+    ],
+    "current_heading": "Halacha Decision",
+    "candidates": [
+      "Meir vs. Yehuda",
+      "Halacha Decision",
+      "Yehuda's Method"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains why Rabbi Zeira stated the halacha substantively rather than by attribution \u2014 because authorities reversed the names \u2014 which directly matches the 'Halacha Decision' prose discussing mishum d'apchi lehu and the psak being stated substantively to avoid confusion.",
+      "chosen_heading": "Halacha Decision",
+      "current_heading": "Halacha Decision",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20
+    ],
+    "current_heading": "Yehuda's Method",
+    "candidates": [
+      "Yehuda's Method",
+      "Meir's Reason"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents both Rabbi Meir's and Rabbi Yehuda's views on the Torah-reading procedure, and heading 0 ('Yehuda's Method') with its prose explicitly describes this baraita including both opinions, making it the correct home for this passage.",
+      "chosen_heading": "Yehuda's Method",
+      "current_heading": "Yehuda's Method",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      23
+    ],
+    "current_heading": "Meir's Reason",
+    "candidates": [
+      "Meir's Reason",
+      "Yehuda's Response"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Ulla's reasoning for Rabbi Meir's opinion about closing the scroll before the bracha, which is exactly what the 'Meir's Reason' section's prose discusses.",
+      "chosen_heading": "Meir's Reason",
+      "current_heading": "Meir's Reason",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      26
+    ],
+    "current_heading": "Yehuda's Response",
+    "candidates": [
+      "Yehuda's Response",
+      "Final Halacha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly contains Rabbi Yehuda's distinction between targum and brachos, which is precisely what the 'Yehuda's Response' section prose discusses.",
+      "chosen_heading": "Yehuda's Response",
+      "current_heading": "Yehuda's Response",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Final Halacha",
+    "candidates": [
+      "Final Halacha",
+      "No Sanctity",
+      "Rashi Explains",
+      "Tosafot View"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states the final halacha ruling by Rabbi Zeira/Rav Mattana about opening, seeing, blessing, and reading, and explains why it was stated explicitly rather than citing Rabbi Yehuda by name \u2014 exactly what the 'Final Halacha' prose section discusses.",
+      "chosen_heading": "Final Halacha",
+      "current_heading": "Final Halacha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      39
+    ],
+    "current_heading": "Tosafot View",
+    "candidates": [
+      "No Sanctity",
+      "Rashi Explains",
+      "Tosafot View",
+      "Seam Position"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage quotes Rabbi Zeira citing Rav Mattana saying the boards and platforms have no sanctity, which directly matches heading 0's prose that introduces this exact statement (attributed there to Rav Shefatya/Rabbi Yochanan, but clearly the same ruling being introduced) \u2014 it is the source text being unpacked in that section, not in the Tosafot section where it currently sits.",
+      "chosen_heading": "No Sanctity",
+      "current_heading": "Tosafot View",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      44
+    ],
+    "current_heading": "Seam Position",
+    "candidates": [
+      "Tosafot View",
+      "Seam Position",
+      "Tearing Prevention",
+      "Outside-Inside"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly states the ruling about positioning the Torah scroll on the seam when furling, which is exactly what the 'Seam Position' section's prose discusses.",
+      "chosen_heading": "Seam Position",
+      "current_heading": "Seam Position",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      49,
+      50
+    ],
+    "current_heading": "Outside-Inside",
+    "candidates": [
+      "Tearing Prevention",
+      "Outside-Inside",
+      "Tosafot Gartel",
+      "Ten Readers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items directly teach the outside/inside rolling and tightening rules attributed to Rav Shefatya in the name of Rabbi Yochanan, which is precisely what the 'Outside-Inside' section's prose discusses in detail.",
+      "chosen_heading": "Outside-Inside",
+      "current_heading": "Outside-Inside",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      57
+    ],
+    "current_heading": "Ten Readers",
+    "candidates": [
+      "Tosafot Gartel",
+      "Ten Readers",
+      "Completion Credit",
+      "Credit Equivalent",
+      "Permitted Sign",
+      "Unusual Sound"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly discusses the ruling that among ten Torah readers the greatest performs gelila and receives credit equivalent to all, which is precisely what the 'Ten Readers' section prose elaborates on.",
+      "chosen_heading": "Ten Readers",
+      "current_heading": "Ten Readers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      68
+    ],
+    "current_heading": "Unusual Sound",
+    "candidates": [
+      "Completion Credit",
+      "Credit Equivalent",
+      "Permitted Sign",
+      "Unusual Sound",
+      "Tosafot Source",
+      "Without Trop/Melody"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly addresses the question of from where we derive permission to make use of a bas kol as a sign, which is precisely what candidate 2 ('Permitted Sign') discusses, while the current placement under 'Unusual Sound' covers the qualifications that follow this introductory statement.",
+      "chosen_heading": "Permitted Sign",
+      "current_heading": "Unusual Sound",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      74
+    ],
+    "current_heading": "Without Trop/Melody",
+    "candidates": [
+      "Tosafot Source",
+      "Without Trop/Melody",
+      "Proof Text",
+      "Abaye Objects"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly quotes Rabbi Shefatya/Rabbi Yo\u1e25anan's teaching about reading without melody and studying without song, which is precisely what the 'Without Trop/Melody' section's prose discusses.",
+      "chosen_heading": "Without Trop/Melody",
+      "current_heading": "Without Trop/Melody",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      79
+    ],
+    "current_heading": "Abaye Objects",
+    "candidates": [
+      "Proof Text",
+      "Abaye Objects",
+      "Chavrusa Learning",
+      "Naked Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains Abaye's objection and Rav Mesharshiyya's teaching, which is precisely what Candidate 1 ('Abaye Objects') describes in its prose.",
+      "chosen_heading": "Abaye Objects",
+      "current_heading": "Abaye Objects",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Naked Torah",
+    "candidates": [
+      "Chavrusa Learning",
+      "Naked Torah",
+      "Abaye Clarifies"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Parnakh/Rabbi Yo\u1e25anan's statement about holding an uncovered Torah scroll and being buried 'uncovered without mitzvot,' which is exactly what the 'Naked Torah' section's prose describes.",
+      "chosen_heading": "Naked Torah",
+      "current_heading": "Naked Torah",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      88
+    ],
+    "current_heading": "Abaye Clarifies",
+    "candidates": [
+      "Abaye Clarifies",
+      "Tosafot Interpretation",
+      "Roll Covers"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Abaye's clarification that one is buried without that particular mitzva, which is exactly what the 'Abaye Clarifies' section's prose describes.",
+      "chosen_heading": "Abaye Clarifies",
+      "current_heading": "Abaye Clarifies",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      94
+    ],
+    "current_heading": "Roll Covers",
+    "candidates": [
+      "Tosafot Interpretation",
+      "Roll Covers",
+      "Rolling Order",
+      "Festival Laws"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage directly teaches that the cloth cover should be rolled around the Torah scroll rather than rolling the scroll itself, which is exactly what the 'Roll Covers' section discusses (mutav sheyigollel hamatpachos v'al yigollel Sefer Torah).",
+      "chosen_heading": "Roll Covers",
+      "current_heading": "Roll Covers",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99
+    ],
+    "current_heading": "Festival Laws",
+    "candidates": [
+      "Rolling Order",
+      "Festival Laws",
+      "Ritual Learning",
+      "Talmud Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage's content \u2014 the verse about Moses declaring the appointed seasons and the baraita about inquiring into the laws of each festival at its proper time \u2014 is directly discussed and quoted in the 'Festival Laws' section prose, making it the clear and correct home.",
+      "chosen_heading": "Festival Laws",
+      "current_heading": "Festival Laws",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      104
+    ],
+    "current_heading": "Talmud Torah",
+    "candidates": [
+      "Ritual Learning",
+      "Talmud Torah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is the closing formula of Tractate Megillah, which directly matches the prose of candidate 1 discussing the conclusion of the masechet, the siyum, and Rashi/Tosafot's closing flourishes.",
+      "chosen_heading": "Talmud Torah",
+      "current_heading": "Talmud Torah",
+      "moved": false
+    }
+  }
+]

@@ -1,0 +1,393 @@
+[
+  {
+    "quote_indices": [
+      4,
+      5
+    ],
+    "current_heading": "Mishnah: Five Plants",
+    "candidates": [
+      "Intro to Maror",
+      "Mishnah: Five Plants",
+      "Ma'aser Status",
+      "Chazeret & Ulshin",
+      "Tamcha & Charchavina"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Mishnah: Five Plants",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the Mishnah listing the five vegetables and the rules about fresh/dry/pickled/cooked, which matches the 'Mishnah: Five Plants' prose exactly.",
+      "second_heading": "Ma'aser Status",
+      "second_confidence": "high",
+      "second_reason": "Item 2 covers the joining of species, the stalk, and the ma'aser/demai status rules, which is precisely what the 'Ma'aser Status' prose discusses.",
+      "current_heading": "Mishnah: Five Plants",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      14
+    ],
+    "current_heading": "Tamcha & Charchavina",
+    "candidates": [
+      "Ma'aser Status",
+      "Chazeret & Ulshin",
+      "Tamcha & Charchavina",
+      "Tannaim on Plants"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage identifies all five plants including chazeret/lettuce, ulshin/hindevi, tamcha, charchavina, and maror/merirata, which corresponds to the 'Chazeret & Ulshin' section that begins the Gemara's plant identification discussion, not the 'Tamcha & Charchavina' section which covers only the latter plants in the essay's prose analysis.",
+      "chosen_heading": "Chazeret & Ulshin",
+      "current_heading": "Tamcha & Charchavina",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Tannaim on Plants",
+    "candidates": [
+      "Tamcha & Charchavina",
+      "Tannaim on Plants",
+      "Shmuel's List",
+      "Sap Criterion",
+      "Pale Face",
+      "Both Criteria",
+      "Halakhic Ruling"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 2,
+      "first_heading": "Tannaim on Plants",
+      "first_confidence": "high",
+      "first_reason": "Items 1\u20132 (Bar Kappara, Rav Yehuda, Rabbi Meir, Rabbi Yose, Rabbi Ila) are exactly the tannaitic expansions described in the 'Tannaim on Plants' prose, which explicitly covers all these figures and their additions.",
+      "second_heading": "Shmuel's List",
+      "second_confidence": "high",
+      "second_reason": "Items 3\u20134 (school of Shmuel's list with chazeret/ulshin/tamcha/charchavina/hardofnin and Rabbi Yehuda's chazeret yulin/galin) match precisely the 'Shmuel's List' prose, which describes exactly this baraita and Rabbi Yehuda's addition of those two chazeret subspecies.",
+      "current_heading": "Tannaim on Plants",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Halakhic Ruling",
+    "candidates": [
+      "Shmuel's List",
+      "Sap Criterion",
+      "Pale Face",
+      "Both Criteria",
+      "Halakhic Ruling",
+      "Ravina & Rav Acha"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage covers all three opinions (Rabbi Yehuda's sap criterion, Rabbi Yochanan ben Beroka's pale face criterion, Acherim's synthesis of both, Rabbi Yochanan's conclusion, and Rav Huna's ruling), and the 'Both Criteria' section (index 3) is the only prose that encompasses all of these elements together, including the Acherim synthesis and the reasoning behind using objective criteria rather than subjective taste.",
+      "chosen_heading": "Both Criteria",
+      "current_heading": "Halakhic Ruling",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Ravina & Rav Acha",
+    "candidates": [
+      "Halakhic Ruling",
+      "Ravina & Rav Acha",
+      "Symbolism: Chasa",
+      "Maror Symbolism"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage depicts Ravina finding Rav Acha searching for merirata and challenging him with the primacy of chazeret in the Mishnah and teachings of the school of Shmuel and Rabbi Oshaya, which is exactly what the 'Ravina & Rav Acha' section's prose describes.",
+      "chosen_heading": "Ravina & Rav Acha",
+      "current_heading": "Ravina & Rav Acha",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Maror Symbolism",
+    "candidates": [
+      "Symbolism: Chasa",
+      "Maror Symbolism",
+      "Is Maror Plant?",
+      "Kal Vachomer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains both the symbolism of 'chasa' (compassion) and the maror/Egyptians comparison with Rav Acha's retraction, and the 'Maror Symbolism' section prose explicitly discusses all three elements \u2014 the Rabbi Yonatan teaching, the soft-to-hard comparison, and the 'hadri bi' conclusion \u2014 making it the clearly correct placement for the entire passage.",
+      "chosen_heading": "Maror Symbolism",
+      "current_heading": "Maror Symbolism",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      59,
+      60,
+      61
+    ],
+    "current_heading": "Kal Vachomer",
+    "candidates": [
+      "Is Maror Plant?",
+      "Kal Vachomer",
+      "Planted in One Bed",
+      "Kilayim Objection",
+      "Vegetables Allowed"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the chain of dumya de-matzah reasoning (fish bile \u2192 ground \u2192 not a tree \u2192 edible food \u2192 many species) that candidate 1's prose explicitly describes in full, making it the clearly correct home.",
+      "chosen_heading": "Kal Vachomer",
+      "current_heading": "Kal Vachomer",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "current_heading": "Vegetables Allowed",
+    "candidates": [
+      "Planted in One Bed",
+      "Kilayim Objection",
+      "Vegetables Allowed",
+      "Chazeret Space"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "All seven items form a single continuous Gemara discussion about what Rav meant by planting maror vegetables in one bed, covering the kilayim objection, the ke-hilchatan resolution, the seeds vs. vegetables distinction, and the chazeret-specific point \u2014 exactly what the 'Vegetables Allowed' prose describes in full.",
+      "chosen_heading": "Vegetables Allowed",
+      "current_heading": "Vegetables Allowed",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      81
+    ],
+    "current_heading": "Chazeret Space",
+    "candidates": [
+      "Chazeret Space",
+      "Rav Chisda: Dry"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage discusses chazeret requiring extra space due to hardening, directly matching the 'Chazeret Space' prose about Rabbi Yossi b'Rabbi Chanina's ruling on cabbage stalks and whether chazeret similarly needs more space.",
+      "chosen_heading": "Chazeret Space",
+      "current_heading": "Chazeret Space",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      85,
+      86
+    ],
+    "current_heading": "Rav Chisda: Dry",
+    "candidates": [
+      "Rav Chisda: Dry",
+      "Meir vs. Chachamim"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items present Rav Chisda's distinction between stems and leaves and the Gemara's immediate challenge and resolution \u2014 exactly what candidate 0's prose describes as the core content of that section.",
+      "chosen_heading": "Rav Chisda: Dry",
+      "current_heading": "Rav Chisda: Dry",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90
+    ],
+    "current_heading": "Meir vs. Chachamim",
+    "candidates": [
+      "Meir vs. Chachamim",
+      "Wilted Permitted",
+      "Must Retain Taste"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage presents the baraita staging the Rabbi Meir vs. Chachamim dispute over fresh/dry bitter herbs and their stalks, with the agreement on wilted and exclusions for pickled/boiled, which is exactly what the 'Meir vs. Chachamim' prose describes.",
+      "chosen_heading": "Meir vs. Chachamim",
+      "current_heading": "Meir vs. Chachamim",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96,
+      97,
+      98
+    ],
+    "current_heading": "Must Retain Taste",
+    "candidates": [
+      "Wilted Permitted",
+      "Must Retain Taste",
+      "Question Posed",
+      "Rabbi Akiva View",
+      "Yosi HaGlili View",
+      "Rava's Ruling",
+      "Rashi Explains",
+      "Conceptual Issue"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Must Retain Taste",
+      "first_confidence": "high",
+      "first_reason": "Item 1 covers the principle that maror must retain its bitter taste and the dispute about withered herbs, which matches the 'Must Retain Taste' prose about the kol sheyesh bo ta'am maror principle and the withered herbs discussion.",
+      "second_heading": "Question Posed",
+      "second_confidence": "high",
+      "second_reason": "Items 2-3 introduce Rami bar Chama's dilemma about maror of ma'aser sheni and the positions of Rabbi Akiva and Rabbi Yosi HaGelili, which directly matches the 'Question Posed' prose about that exact dilemma.",
+      "current_heading": "Must Retain Taste",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      114
+    ],
+    "current_heading": "Conceptual Issue",
+    "candidates": [
+      "Question Posed",
+      "Rabbi Akiva View",
+      "Yosi HaGlili View",
+      "Rava's Ruling",
+      "Rashi Explains",
+      "Conceptual Issue",
+      "Mishnah: Soaking",
+      "Chalut Permitted"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 3,
+      "confidence": "high",
+      "reason": "The passage contains Rava's ruling that matza and maror are logically connected, which directly matches the prose of 'Rava's Ruling' (index 3) describing mistavra matzah maror and its implications.",
+      "chosen_heading": "Rava's Ruling",
+      "current_heading": "Conceptual Issue",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      122
+    ],
+    "current_heading": "Chalut Permitted",
+    "candidates": [
+      "Mishnah: Soaking",
+      "Chalut Permitted",
+      "Chewing Wheat",
+      "Three Methods",
+      "Baking vs. Cooking",
+      "Gebrochts"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah passage covers soaking bran for chickens, the woman soaking bran for the bathhouse, and chewing wheat \u2014 all three topics introduced together in one Mishnah unit \u2014 and heading 0 ('Mishnah: Soaking') is the natural home for the full Mishnah text, while headings 1 and 2 cover only sub-portions of it in the essay's analytical prose.",
+      "chosen_heading": "Mishnah: Soaking",
+      "current_heading": "Chalut Permitted",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      133
+    ],
+    "current_heading": "Gebrochts",
+    "candidates": [
+      "Chewing Wheat",
+      "Three Methods",
+      "Baking vs. Cooking",
+      "Gebrochts",
+      "Dripping Water"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage contains the braita listing baked, boiled, and scalded foods that don't become chametz, plus the Gemara's challenge and Rav Pappa's resolution \u2014 all three elements are introduced together, and candidate 1's prose ('Three Methods') covers the braita's list while candidates 2 and 3 cover the challenge and resolution separately, but since all items must go under ONE heading, candidate 1 is the natural home where the braita is first introduced and the full unit begins.",
+      "chosen_heading": "Three Methods",
+      "current_heading": "Gebrochts",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      136
+    ],
+    "current_heading": "Dripping Water",
+    "candidates": [
+      "Gebrochts",
+      "Dripping Water",
+      "Vatika"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage describes flour with dripping water not becoming chametz, and Rav Pappa's condition of continuous drop-by-drop dripping \u2014 exactly what the 'Dripping Water' section's prose discusses.",
+      "chosen_heading": "Dripping Water",
+      "current_heading": "Dripping Water",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      139
+    ],
+    "current_heading": "Vatika",
+    "candidates": [
+      "Vatika",
+      "Gebrochts Concern"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses vatika and the resolution between permissive and prohibitive rulings based on oil-and-salt vs. water-and-salt preparation, which matches exactly what the 'Vatika' section prose describes.",
+      "chosen_heading": "Vatika",
+      "current_heading": "Vatika",
+      "moved": false
+    }
+  }
+]

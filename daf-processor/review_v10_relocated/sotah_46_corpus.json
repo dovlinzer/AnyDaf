@@ -1,0 +1,503 @@
+[
+  {
+    "quote_indices": [
+      2
+    ],
+    "current_heading": "Body Equidistant",
+    "candidates": [
+      "Body Equidistant",
+      "R. Eliezer: Two Calves",
+      "Precise Measurement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mishna covers the full range of edge cases \u2014 equidistant body, Jerusalem's exemption, separated head and body, and measurement point disputes \u2014 and the 'Body Equidistant' section's prose explicitly introduces this mishna as addressing the equidistant scenario, making it the natural home for the entire mishna text before the gemara's analysis begins.",
+      "chosen_heading": "Body Equidistant",
+      "current_heading": "Body Equidistant",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      9
+    ],
+    "current_heading": "Precise Measurement",
+    "candidates": [
+      "R. Eliezer: Two Calves",
+      "Precise Measurement",
+      "Jerusalem Exempt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage explains Rabbi Eliezer's reasoning via 'efshar l'tzamtzem' and 'v'afillu krovot', which is precisely what the 'Precise Measurement' section's prose discusses.",
+      "chosen_heading": "Precise Measurement",
+      "current_heading": "Precise Measurement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      13
+    ],
+    "current_heading": "Jerusalem Exempt",
+    "candidates": [
+      "Jerusalem Exempt",
+      "Head vs. Body",
+      "Met Mitzvah"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly explains why Jerusalem does not bring an egla arufa (because Jerusalem was not divided among the tribes), which matches exactly the prose in candidate 0 about the lerishtah exemption for Jerusalem.",
+      "chosen_heading": "Jerusalem Exempt",
+      "current_heading": "Jerusalem Exempt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      20,
+      21
+    ],
+    "current_heading": "Met Mitzvah",
+    "candidates": [
+      "Head vs. Body",
+      "Met Mitzvah",
+      "Head or Body Moved",
+      "Measurement Points",
+      "Life Force"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Met Mitzvah",
+      "first_confidence": "high",
+      "first_reason": "Item 1 introduces Rabbi Yitzchak's explanation that the dispute is about met mitzvah acquiring its place, which is precisely what the 'Met Mitzvah' prose describes.",
+      "second_heading": "Head or Body Moved",
+      "second_confidence": "high",
+      "second_reason": "Item 2 explains the underlying reasoning about whether the head or body moved, which matches exactly the 'Head or Body Moved' prose describing mar savar gufa b'duchtei nafal vs. reisha heicha denafal nafal.",
+      "current_heading": "Met Mitzvah",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      28
+    ],
+    "current_heading": "Life Force",
+    "candidates": [
+      "Head or Body Moved",
+      "Measurement Points",
+      "Life Force",
+      "Development & Life"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage directly discusses the underlying disagreement between Rabbi Eliezer and Rabbi Akiva about where the life force resides (nose vs. navel), which is precisely what the 'Life Force' section's prose describes.",
+      "chosen_heading": "Life Force",
+      "current_heading": "Life Force",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      31,
+      32
+    ],
+    "current_heading": "Development & Life",
+    "candidates": [
+      "Development & Life",
+      "R. Elazar: Neck"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the tannaitic dispute about embryonic formation and the gemara's resolution that Abba Shaul's view applies only to yetzirah while chiyuta (life force) is universally located in the nostrils \u2014 exactly what the 'Development & Life' prose describes.",
+      "chosen_heading": "Development & Life",
+      "current_heading": "Development & Life",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      36
+    ],
+    "current_heading": "R. Elazar: Neck",
+    "candidates": [
+      "R. Elazar: Neck",
+      "Elders Depart",
+      "Calf Requirements",
+      "Wadi Eitan",
+      "Breaking the Neck",
+      "Ground Forbidden",
+      "Permitted Uses"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly presents Rabbi Eliezer ben Ya'akov's opinion that measurement is from the neck and provides the scriptural basis (Ezekiel 21:34), which is exactly what the prose under heading 0 describes.",
+      "chosen_heading": "R. Elazar: Neck",
+      "current_heading": "R. Elazar: Neck",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      50
+    ],
+    "current_heading": "Permitted Uses",
+    "candidates": [
+      "Elders Depart",
+      "Calf Requirements",
+      "Wadi Eitan",
+      "Breaking the Neck",
+      "Ground Forbidden",
+      "Permitted Uses",
+      "Hand Washing",
+      "Three Declarations"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "This mishna passage covers all the ritual elements from the elders departing through the forbidden ground and permitted uses, making it a single unified text that begins with 'Elders Depart' (the opening action of the mishna), and the automated pipeline incorrectly split it by placing it under 'Permitted Uses' which covers only the final clause.",
+      "chosen_heading": "Elders Depart",
+      "current_heading": "Permitted Uses",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      56
+    ],
+    "current_heading": "Three Declarations",
+    "candidates": [
+      "Hand Washing",
+      "Three Declarations",
+      "Priestly Prayer",
+      "Divine Atonement"
+    ],
+    "result": null
+  },
+  {
+    "quote_indices": [
+      63,
+      64,
+      65
+    ],
+    "current_heading": "Divine Atonement",
+    "candidates": [
+      "Priestly Prayer",
+      "Divine Atonement",
+      "Blemish Permitted",
+      "Kal VeChomer",
+      "Mum vs. Avoda",
+      "Avoda & Kodshim"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Priestly Prayer",
+      "first_confidence": "high",
+      "first_reason": "Item 1 is the closing statement about the priestly prayer and divine atonement, which matches the 'Priestly Prayer' heading's prose about the kohanim reciting the prayer for atonement.",
+      "second_heading": "Blemish Permitted",
+      "second_confidence": "high",
+      "second_reason": "Items 2 and 3 are the Gemara's kal v'chomer argument about whether a blemish disqualifies the eglah and the counter-question about avoda, which directly match the 'Blemish Permitted' heading's prose about the mum disqualification question.",
+      "current_heading": "Divine Atonement",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "current_heading": "Avoda & Kodshim",
+    "candidates": [
+      "Blemish Permitted",
+      "Kal VeChomer",
+      "Mum vs. Avoda",
+      "Avoda & Kodshim",
+      "Three Sources"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 2,
+      "confidence": "high",
+      "reason": "The passage begins with Rav Yehuda's ruling about avoda disqualifying parah adumah (the verbal analogy 'yoke'/'yoke'), which is precisely what section 2 ('Mum vs. Avoda') discusses \u2014 it explicitly references 'the ruling of Rav Yehuda in the name of Rav discussed below' and the tension between the two 'bah' exclusions \u2014 while section 3 ('Avoda & Kodshim') covers the resolution about kodshim that follows this passage.",
+      "chosen_heading": "Mum vs. Avoda",
+      "current_heading": "Avoda & Kodshim",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      87,
+      88,
+      89
+    ],
+    "current_heading": "Three Sources",
+    "candidates": [
+      "Avoda & Kodshim",
+      "Three Sources",
+      "Bundle of Sacks"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All three items are the chain of objections and responses about why three separate scriptural sources are needed to establish that labor does not disqualify kodshim, which is precisely what the 'Three Sources' prose describes in detail.",
+      "chosen_heading": "Three Sources",
+      "current_heading": "Three Sources",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      96
+    ],
+    "current_heading": "Bundle of Sacks",
+    "candidates": [
+      "Bundle of Sacks",
+      "Gezeirah Shava",
+      "Ol vs. Avoda"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Yehuda's ruling about a bundle of sacks disqualifying the parah adumah and the asymmetry with eglah requiring actual pulling, which is precisely what the 'Bundle of Sacks' section's prose addresses.",
+      "chosen_heading": "Bundle of Sacks",
+      "current_heading": "Bundle of Sacks",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "current_heading": "Ol vs. Avoda",
+    "candidates": [
+      "Gezeirah Shava",
+      "Ol vs. Avoda",
+      "Tefach Movement"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All 8 items discuss the gezeirah shavah (ol-ol verbal analogy) between parah adumah and eglah arufah, the kal vachomer and its refutations, the tannaitic dispute about deriving from eglah vs. parah itself, and the baraita about yoke vs. other labor \u2014 all of which are precisely the content described in the 'Gezeirah Shava' prose section.",
+      "chosen_heading": "Gezeirah Shava",
+      "current_heading": "Ol vs. Avoda",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      117,
+      118
+    ],
+    "current_heading": "Tefach Movement",
+    "candidates": [
+      "Ol vs. Avoda",
+      "Tefach Movement",
+      "Never Produced",
+      "Wasted Potential",
+      "Fruit = Mitzvot"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the measurement of meshichat ol (drawing of the yoke) for eglah arufa \u2014 the question of length vs. width, Rabbi Yochanan's ruling via Rabbi Yaakov that it is a tefach (the width), and the practical corollary for commercial transactions \u2014 which is precisely what the 'Tefach Movement' prose describes.",
+      "chosen_heading": "Tefach Movement",
+      "current_heading": "Tefach Movement",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      126
+    ],
+    "current_heading": "Fruit = Mitzvot",
+    "candidates": [
+      "Never Produced",
+      "Wasted Potential",
+      "Fruit = Mitzvot",
+      "Ancient Ground"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage contains the full Rabbi Yochanan ben Shaul statement including the initial theological explanation (matching 'Never Produced' prose) through to the conclusion that 'fruit' means mitzvot, and since heading 0's prose explicitly introduces this teaching ('mipnei mah amra Torah hevi eglah b'nachal') while headings 1 and 2 break it into artificial sub-parts, the entire unified Talmudic passage belongs under heading 0 where it begins.",
+      "chosen_heading": "Never Produced",
+      "current_heading": "Fruit = Mitzvot",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      129,
+      130
+    ],
+    "current_heading": "Ancient Ground",
+    "candidates": [
+      "Fruit = Mitzvot",
+      "Ancient Ground",
+      "From Behind"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items discuss the meaning of 'eitan' \u2014 deriving it as 'hard/forceful' from biblical verses and then 'ancient' per acherim omrim \u2014 which matches exactly the prose of 'Ancient Ground.'",
+      "chosen_heading": "Ancient Ground",
+      "current_heading": "Ancient Ground",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      134
+    ],
+    "current_heading": "From Behind",
+    "candidates": [
+      "From Behind",
+      "Past vs. Future"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses the breaking of the heifer's neck from behind and the gezeirah shavah from chatat ha'of, which is exactly what the 'From Behind' section's prose describes.",
+      "chosen_heading": "From Behind",
+      "current_heading": "From Behind",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      137,
+      138
+    ],
+    "current_heading": "Past vs. Future",
+    "candidates": [
+      "Past vs. Future",
+      "All Soil Usage"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items discuss the tannaitic dispute (Rabbi Yoshiya vs. Rabbi Yonatan) and Rava's clarification about whether the verse refers to past or future, which is exactly what the 'Past vs. Future' prose describes.",
+      "chosen_heading": "Past vs. Future",
+      "current_heading": "Past vs. Future",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      142,
+      143,
+      144
+    ],
+    "current_heading": "All Soil Usage",
+    "candidates": [
+      "All Soil Usage",
+      "Declaration Details"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All three items discuss the baraita's derivation about prohibited soil labor from 'which may be neither worked nor sown,' exactly matching the 'All Soil Usage' prose which summarizes this same baraita and its conclusions about combing flax and cutting stones.",
+      "chosen_heading": "All Soil Usage",
+      "current_heading": "All Soil Usage",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      148,
+      149
+    ],
+    "current_heading": "Declaration Details",
+    "candidates": [
+      "Declaration Details",
+      "R. Meir: Enforcement",
+      "City of Luz"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly address the elders' handwashing location and their declaration ('our hands did not spill this blood'), which is precisely what the 'Declaration Details' prose discusses \u2014 the specific content of the elders' declaration regarding mezonot and levayah.",
+      "chosen_heading": "Declaration Details",
+      "current_heading": "Declaration Details",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      154,
+      155
+    ],
+    "current_heading": "City of Luz",
+    "candidates": [
+      "R. Meir: Enforcement",
+      "City of Luz",
+      "Canaanite Pointer"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items together \u2014 Rabbi Meir's baraita about accompaniment and the Luz city reward \u2014 are precisely what the 'City of Luz' prose describes: the derivation from the Shoftim story, the man showing the entrance, his family being spared, and the identification of Luz as the city of techelet, untouched by Sennacherib/Nebuchadnezzar, and off-limits to the angel of death.",
+      "chosen_heading": "City of Luz",
+      "current_heading": "City of Luz",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      159,
+      160
+    ],
+    "current_heading": "Canaanite Pointer",
+    "candidates": [
+      "Canaanite Pointer",
+      "Torah Accompaniment",
+      "Pharaoh & Abraham",
+      "Four Amot",
+      "Ravina & Rescue"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items directly discuss the Canaanite who showed the way with his finger/lips and the kal v'chomer about accompanying by foot \u2014 exactly what the 'Canaanite Pointer' prose describes, making the current placement correct.",
+      "chosen_heading": "Canaanite Pointer",
+      "current_heading": "Canaanite Pointer",
+      "moved": false
+    }
+  }
+]

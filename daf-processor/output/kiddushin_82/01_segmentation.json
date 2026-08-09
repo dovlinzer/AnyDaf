@@ -242,7 +242,7 @@
           "timestamp": "46:46"
         }
       ],
-      "sefaria_index": 5,
+      "sefaria_index": 6,
       "matched": true
     },
     {
@@ -329,8 +329,8 @@
           "timestamp": "56:17"
         }
       ],
-      "sefaria_index": 8,
-      "matched": false
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Disreputable Professions and Their Character Implications: Bloodletters, Butchers, and Low-Class Trades (continued)",
@@ -372,7 +372,7 @@
           "timestamp": "62:14"
         }
       ],
-      "sefaria_index": 14,
+      "sefaria_index": 12,
       "matched": true
     },
     {
@@ -650,5 +650,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 13
+  "amud_b_sefaria_index": 13,
+  "amud_b_segment_index": 12,
+  "amud_b_timestamp": "60:53",
+  "amud_b_micro_title": "Rebbe on Trades",
+  "shiur_start_daf": 82,
+  "shiur_start_amud": "a"
 }

@@ -1,0 +1,363 @@
+[
+  {
+    "quote_indices": [
+      2,
+      3
+    ],
+    "current_heading": "Previous Case & Shmuel",
+    "candidates": [
+      "Previous Case & Shmuel",
+      "Salting vs. Heat",
+      "Braita Ambiguity"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "Both items are the Gemara's question about why Shmuel's principle wasn't cited and the answer explaining its insufficiency regarding juices vs. blood \u2014 exactly the content described in the 'Previous Case & Shmuel' prose.",
+      "chosen_heading": "Previous Case & Shmuel",
+      "current_heading": "Previous Case & Shmuel",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      12
+    ],
+    "current_heading": "Braita Ambiguity",
+    "candidates": [
+      "Salting vs. Heat",
+      "Braita Ambiguity",
+      "Non-Kosher Salted",
+      "Both Salted Problem"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents exactly the initial objection from the baraita and the Gemara's first response (kosher salted, non-kosher unsalted), which is precisely what the 'Braita Ambiguity' section's prose describes as its content.",
+      "chosen_heading": "Braita Ambiguity",
+      "current_heading": "Braita Ambiguity",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "current_heading": "Both Salted Problem",
+    "candidates": [
+      "Non-Kosher Salted",
+      "Both Salted Problem",
+      "Blood Release Principle"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "All five items are a continuous Talmudic debate about whether the first clause of the baraita deals with both fish salted or only the kosher one salted, and whether inferences can be drawn about the 'both salted' case \u2014 exactly what candidate 1 ('Both Salted Problem') describes in its prose.",
+      "chosen_heading": "Both Salted Problem",
+      "current_heading": "Both Salted Problem",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      29
+    ],
+    "current_heading": "Blood Release Principle",
+    "candidates": [
+      "Blood Release Principle",
+      "Salting Practice",
+      "Rinse-Salt Order"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The mnemonic introduces the three halakhot that follow, and its first element ('meat' / blood release) corresponds directly to the 'Blood Release Principle' section which opens the discussion of melichah with Shmuel's statement about meat not fully releasing its blood \u2014 making it the natural header under which the mnemonic should appear.",
+      "chosen_heading": "Blood Release Principle",
+      "current_heading": "Blood Release Principle",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      34
+    ],
+    "current_heading": "Rinse-Salt Order",
+    "candidates": [
+      "Salting Practice",
+      "Rinse-Salt Order",
+      "Pre-Salting Rinse",
+      "Rav Dimi & Organs"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage covers Shmuel's ruling, the Rav Huna/baraita dispute on rinse-salt order and its reconciliation, and Rav Dimi's salting method \u2014 all of which are addressed together in the 'Rinse-Salt Order' section's prose, and the current placement is correct.",
+      "chosen_heading": "Rinse-Salt Order",
+      "current_heading": "Rinse-Salt Order",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      40
+    ],
+    "current_heading": "Rav Dimi & Organs",
+    "candidates": [
+      "Pre-Salting Rinse",
+      "Rav Dimi & Organs",
+      "Salt Mechanics",
+      "Vessel Requirements"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage quotes Rav Mesharshiyya's ruling about blood not being presumed in the intestines and the Gemara's clarification about the rectum, intestines, and spiral colon \u2014 exactly what the 'Rav Dimi & Organs' section discusses.",
+      "chosen_heading": "Rav Dimi & Organs",
+      "current_heading": "Rav Dimi & Organs",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      45
+    ],
+    "current_heading": "Vessel Requirements",
+    "candidates": [
+      "Salt Mechanics",
+      "Vessel Requirements",
+      "Individual vs. Multiple"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage is Shmuel's ruling about perforated vessels for salted meat, which is exactly what the 'Vessel Requirements' prose discusses.",
+      "chosen_heading": "Vessel Requirements",
+      "current_heading": "Vessel Requirements",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      48
+    ],
+    "current_heading": "Individual vs. Multiple",
+    "candidates": [
+      "Individual vs. Multiple",
+      "Neck-Breaking Prohibition"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly discusses Rav Sheshet's practice of salting one bone at a time and the Gemara's dismissal of concerns about blood transfer between pieces, which is precisely what the 'Individual vs. Multiple' section's prose describes.",
+      "chosen_heading": "Individual vs. Multiple",
+      "current_heading": "Individual vs. Multiple",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      51
+    ],
+    "current_heading": "Neck-Breaking Prohibition",
+    "candidates": [
+      "Neck-Breaking Prohibition",
+      "Kashering Doubt"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly states Shmuel's ruling about neck-breaking and its three consequences (heavy meat, robbery, blood absorption), which is precisely what the 'Neck-Breaking Prohibition' prose explicates in detail.",
+      "chosen_heading": "Neck-Breaking Prohibition",
+      "current_heading": "Neck-Breaking Prohibition",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      55
+    ],
+    "current_heading": "Kashering Doubt",
+    "candidates": [
+      "Kashering Doubt",
+      "Poultry & Cheese",
+      "Poultry Reading"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage is the unresolved Talmudic dilemma (ibaia lehu/teiku) about whether Shmuel's prohibition on neck-breaking applies only to commercial fraud or also to one's own use, which is exactly what the 'Kashering Doubt' prose discusses in detail.",
+      "chosen_heading": "Kashering Doubt",
+      "current_heading": "Kashering Doubt",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      62,
+      63
+    ],
+    "current_heading": "Poultry Reading",
+    "candidates": [
+      "Poultry & Cheese",
+      "Poultry Reading",
+      "Tanna Kamma Rule",
+      "Non-Kosher Species",
+      "Chicken Cooking",
+      "Benefit Prohibition",
+      "Mother's Milk Limit"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "Both items \u2014 the Mishna about placing poultry with cheese on the table not being a biblical violation, and the Gemara's attempt to infer a biblical prohibition from that Mishna followed by the rebuttal \u2014 are precisely what candidate 1 ('Poultry Reading') describes in its prose.",
+      "chosen_heading": "Poultry Reading",
+      "current_heading": "Poultry Reading",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      82
+    ],
+    "current_heading": "Mother's Milk Limit",
+    "candidates": [
+      "Tanna Kamma Rule",
+      "Non-Kosher Species",
+      "Chicken Cooking",
+      "Benefit Prohibition",
+      "Mother's Milk Limit",
+      "Neveilah Inclusion"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The Mishnah contains all three elements (Tanna Kamma rule, non-kosher species leniency, and Rabbi Akiva's exclusions) but the essay splits these into separate sections; the passage as a whole is the source Mishnah that opens with the Tanna Kamma's core rule, making heading 0 ('Tanna Kamma Rule') the natural home for the full Mishnah text.",
+      "chosen_heading": "Tanna Kamma Rule",
+      "current_heading": "Mother's Milk Limit",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      85
+    ],
+    "current_heading": "Neveilah Inclusion",
+    "candidates": [
+      "Mother's Milk Limit",
+      "Neveilah Inclusion",
+      "Gedi Broadening"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage presents Rabbi Yosei HaGelili's derivation from the juxtaposition of neveilah and basar bechalav, and the exclusion of birds via 'its mother's milk,' which is precisely what the prose of candidate 1 ('Neveilah Inclusion') describes.",
+      "chosen_heading": "Neveilah Inclusion",
+      "current_heading": "Neveilah Inclusion",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "current_heading": "Gedi Broadening",
+    "candidates": [
+      "Gedi Broadening",
+      "Inclusive Drashas"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "All five items are the Gemara's derivation that 'gedi' is not limited to a goat, using the two verses with 'ha'izim' and the rule of shnei ketuvim \u2014 exactly what the 'Gedi Broadening' prose describes in detail.",
+      "chosen_heading": "Gedi Broadening",
+      "current_heading": "Gedi Broadening",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      99,
+      100
+    ],
+    "current_heading": "Inclusive Drashas",
+    "candidates": [
+      "Inclusive Drashas",
+      "Exclusive Drashas",
+      "Mother's Milk Source"
+    ],
+    "result": {
+      "action": "split",
+      "split_after": 1,
+      "first_heading": "Inclusive Drashas",
+      "first_confidence": "high",
+      "first_reason": "Item 1 contains Shmuel's three inclusive drashas (lerabot et hachelev, lerabot et hameta, lerabot et hashallil), which exactly matches the 'Inclusive Drashas' prose.",
+      "second_heading": "Exclusive Drashas",
+      "second_confidence": "high",
+      "second_reason": "Item 2 contains Shmuel's three exclusive drashas (lehotzi et hadam, lehotzi et hashilya, lehotzi et hatmeia), which exactly matches the 'Exclusive Drashas' prose.",
+      "current_heading": "Inclusive Drashas",
+      "moved": true
+    }
+  },
+  {
+    "quote_indices": [
+      106
+    ],
+    "current_heading": "Mother's Milk Source",
+    "candidates": [
+      "Exclusive Drashas",
+      "Mother's Milk Source",
+      "Drasha Resolution"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 1,
+      "confidence": "high",
+      "reason": "The passage derives three exclusions from the phrase 'bachalav imo' (male milk, slaughtered animal's milk, non-kosher milk), which is precisely what the 'Mother's Milk Source' section's prose describes.",
+      "chosen_heading": "Mother's Milk Source",
+      "current_heading": "Mother's Milk Source",
+      "moved": false
+    }
+  },
+  {
+    "quote_indices": [
+      110
+    ],
+    "current_heading": "Drasha Resolution",
+    "candidates": [
+      "Drasha Resolution",
+      "Issur Chal Al Issur",
+      "Fat Blood Placenta"
+    ],
+    "result": {
+      "action": "single",
+      "best_index": 0,
+      "confidence": "high",
+      "reason": "The passage directly addresses the challenge of deriving six drashas from three occurrences of 'gedi' and Shmuel's resolution, which is precisely what the 'Drasha Resolution' section's prose describes.",
+      "chosen_heading": "Drasha Resolution",
+      "current_heading": "Drasha Resolution",
+      "moved": false
+    }
+  }
+]
